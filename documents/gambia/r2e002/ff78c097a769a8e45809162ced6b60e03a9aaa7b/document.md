@@ -1,6 +1,10 @@
 [[START OF PAGE 1]]
 
-# CONSTITUTION OF THE REPUBLIC OF THE GAMBIA, 1997
+# CONSTITUTION
+OF
+THE REPUBLIC
+OF
+THE GAMBIA, 1997
 
 REPRINTED 2002
 
@@ -23,8 +27,8 @@ Section
 ## CHAPTER II THE CONSTITUTION AND THE LAWS
 
 - 4. Supremacy of the Constitution
-- 5. Enforcement of the Constitution
-- 6. Defence of the Constitution
+- 5. Enforcement of the constitution
+- 6. Defense of the constitution
 - 7. The Laws of The Gambia
 
 ## CHAPTER III CITIZENSHIP
@@ -34,10 +38,10 @@ Section
 - 10. Citizens by Descent
 - 11. Marriage to a Citizen
 - 12. Naturalisation as a Citizen
-- 12A. Dual Citizenship
+- 12 A. Dual Citizenship
 - 13. Deprivation of Citizenship
 - 14. Restoration of Citizenship
-- 15. Acts of the National Assembly
+- 15. Acts of the National assembly
 - 16. Interpretation of Chapter III
 
 [[END OF PAGE 2]]
@@ -120,7 +124,7 @@ Section
 
 - 61. Office of President
 - 62. Qualification for Election of President
-- 63. Tenure of Office of President
+- 63. Tenure of office of President
 - 64. Temporary exercise of President’s functions
 - 65. Vacancy in the Office of President
 - 66. Mental or Physical incapacity
@@ -145,7 +149,6 @@ Section
 - 79. Foreign Affairs
 - 80. Constitution of Public Offices
 - 81. Administration of Departments of State
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -255,7 +258,7 @@ Section
 
 ### PART 3: THE CADI COURT
 
-- 137. The Cadi Court
+- 137. The Cadi court
 - 137A. Cadi Appeals Panel
 
 ### PART 4: THE JUDGES
@@ -273,7 +276,7 @@ Section
 
 ### PART 6: THE JUDICIAL SERVICE COMMISSION
 
-- 145. The Judicial Service Commission
+- 145. The judicial service commission
 - 146. Appointment of Judicial Officers and Court Staff
 - 147. Other Functions of Commission
 - 148. Operation and Procedure
@@ -358,11 +361,11 @@ Section
 - 182. Prison Service
 - 183. Control of Prison Service
 - 184. Prison Service Council
-- 185. Appointments in Prison Service
+- 185. Appointments in Prison service
 
 ## CHAPTER XIII THE ARMED FORCES AND THE NATIONAL INTELLIGENCE AGENCY
 
-### PART I: THE ARMED FORCES
+### PART 1:
 
 - 186. The Gambia Armed Forces
 - 187. Functions
@@ -397,55 +400,38 @@ Section
 
 ## CHAPTER XVII NATIONAL COUNCIL FOR CIVIC EDUCATION
 
-198. National Council for Civic Education 199.Functions of the Council
+- 198. National Council for Civic Education
+- 199. Functions of the Council
 
 ## CHAPTER XVIII COMMISSION OF INQUIRY
 
-- 200.Commissions of Inquiry
-
-- 201.Presiding Commissioner
-
-- 202.Function and Powers of Commission
-
-- 203.Publication of Report
-
-- 204.Adverse Findings
-
-- 205.Immunities of Witnesses
-
-- 206.The National Assembly to make further provision
+- 200. Commissions of Inquiry
+- 201. Presiding Commissioner
+- 202. Function and Powers of Commission
+- 203. Publication of Report
+- 204. Adverse Findings
+- 205. Immunities of Witnesses
+- 206. The National Assembly to make further provision
 
 ## CHAPTER XIX THE MEDIA
 
-- 207.Freedom and Responsibility of the Media
+- 207. Freedom and Responsibility of the Media
+- 208. Responsibility of State owned Media
+- 209. Limitations on Rights and Freedoms
+- 210. National Media Commission
 
-- 208.Responsibility of State owned Media
+## CHAPTER XX DIRECTIVE PRINCIPLES OF STATE POLICY
 
-- 209.Limitations on Rights and Freedoms
-
-- 210.National Media Commission
-
-## CHAPTER XX DIRECTIVE OF PRINCIPLES OF STATE POLICY
-
-- 211.Application of the Directive Principles of State Policy
-
-- 212.National integration and Unity
-
-- 213.National Sovereignty and Independence
-
-- 214.Political Objectives
-
-- 215.Economic Objectives
-
-- 216.Social Objectives
-
-- 217.Educational Objectives
-
-- 218.Cultural Objectives
-
-- 219.Foreign Relations
-
-- 220.Duties of a Citizen
+- 211. Application of the Directive Principles of State Policy
+- 212. National integration and Unity
+- 213. National Sovereignty and Independence
+- 214. Political Objectives
+- 215. Economic Objectives
+- 216. Social Objectives
+- 217. Educational Objectives
+- 218. Cultural Objectives
+- 219. Foreign Relations
+- 220. Duties of a Citizen
 
 [[END OF PAGE 10]]
 
@@ -461,7 +447,7 @@ Section
 
 ## CHAPTER XXII AMENDMENT OF THE CONSTITUTION
 
-- 226. Alteration of the Constitution
+- 226. Alteration of the constitution
 
 ## CHAPTER XXIII MISCELLANEOUS
 
@@ -497,7 +483,7 @@ Our hopes and aspirations as a people were reflected in the enthusiasm and zeal 
 
 sovereign people of The Gambia therefore endorsed the change of government on 22nd July 1994 to rectify such evils.
 
-This Constitution provides for us a fundamental Law, which affirms our commitment to freedom, justice, probity and accountability. It also affirms the principle that all power emanates from the sovereign will of the people.
+This Constitution provides for us a fundamental Law, which affirms our commitment to freedom, justice, probity and accountability. It also affirms the principle that all power emanate from the sovereign will of the people.
 
 The fundamental rights and freedoms enshrined in this Constitution will ensure for all time respect for and observance of human rights and fundamental freedoms for all, without distinction as to ethnic considerations, gender, language or religion. In acknowledging our fundamental rights we also affirm our duties and responsibilities as citizens of this Country.
 
@@ -511,19 +497,16 @@ In this spirit, we continue to pledge our firm allegiance to our beloved Country
 
 #### The Republic 1.
 6 of 2001
-
 (1) The Gambia is a Sovereign Secular Republic.
 
 (2) The Sovereignty of The Gambia resides in the people of The Gambia from whom all organs of government derive their authority and in whose name and for whose welfare and prosperity the powers of government are to be exercised in accordance with this Constitution.
 
 #### Public Seal 2.
-
-(1) The Public seal shall be the seal in existence immediately before this Constitution comes into force or such other seal as may be prescribed by an Act of the National Assembly.
+(1) The Public Seal shall be the seal in existence immediately before this Constitution comes into force or such other seal as may be prescribed by an Act of the National Assembly.
 
 (2) The Public Seal shall be used exclusively for authenticating matters of state and no person or organisation, other than the Government of The Gambia and those persons who may be authorised in accordance with an Act of the National Assembly, may use the design of the seal or any design resembling it as such person’s or organisation’s emblem.
 
 #### National Flag and anthem 3.
-
 (1) The National Flag shall be a flag of the design set out in Schedule 1.
 
 [[END OF PAGE 12]]
@@ -535,18 +518,16 @@ In this spirit, we continue to pledge our firm allegiance to our beloved Country
 ## CHAPTER II THE CONSTITUTION AND THE LAWS
 
 #### Supremacy of the Constitution 4.
-
 This Constitution is the supreme Law of The Gambia and any other law found to be inconsistent with any provision of this Constitution shall, to the extent of the inconsistency, be void.
 
 #### Enforcement of the Constitution 5.
-
 (1) A person who alleges that—
 
-(a) any Act of the National Assembly or anything done under the authority of an Act of the National Assembly; or
+(a) any Act of the National Assembly or any thing done under the authority of an Act of the National Assembly; or
 
 (b) any act or omission of any person or authority,
 
-is inconsistent with; or is in contravention of a provision of this Constitution, may bring an action in a court of competent jurisdiction for a declaration to that effect.
+is inconsistent with, or is in contravention of, a provision of this Constitution, may bring an action in a court of competent jurisdiction for a declaration to that effect.
 
 (2) The court may make such orders and give such directions as it may consider appropriate for giving effect to such a declaration and any person to whom any order or direction is addressed shall duly obey and carry out the terms of the order or direction.
 
@@ -557,12 +538,11 @@ is inconsistent with; or is in contravention of a provision of this Constitution
 (b) any other person who is convicted of that offence shall be liable to the penalty prescribed by an Act of the National Assembly.
 
 #### Defence of the Constitution 6.
-
 (1) Any person who—
 
 (a) by himself or herself or in concert with others, by any violent or other unlawful means, suspends or overthrows or abrogates this Constitution or any part of it, or attempts to do any such act; or
 
-(b) aids and abets in any manner any person referred to in paragraph (a)
+(b) aids and abets in any manner any person referred to in paragraph (a),
 
 [[END OF PAGE 13]]
 
@@ -575,25 +555,23 @@ commits the offence of treason and shall, on conviction, be liable to the penalt
 (3) A person who resists the suspension, overthrow or abrogation of this Constitution as provided in subsection (2), commits no offence.
 
 #### The Laws of The Gambia 7.
-
 In addition to this Constitution, the laws of The Gambia consist of—
 
 (a) Acts of the National Assembly made under this Constitution and subsidiary legislation made under such Acts;
 
-(b) any orders, Rules, Regulations or other subsidiary legislation made by a person or authority under a power conferred by this Constitution or any other law;
+(b) any Orders, Rules, Regulations or other subsidiary legislation made by a person or authority under a power conferred by this Constitution or any other law;
 
 (c) the existing laws including all decrees passed by the Armed Forces Provisional Ruling Council;
 
 (d) the common law and principles of equity;
 
-(e) Customary law so far as concerns members of the communities to which it applies;
+(e) customary law so far as concerns members of the communities to which it applies;
 
 (f) the sharia as regards matters of marriage, divorce and inheritance among members of the communities to which it applies.
 
 ## CHAPTER III CITIZENSHIP
 
 #### Citizens on the Commencement of the Constitution 8.
-
 Every person who, immediately before the coming into force of this Constitution, is a citizen of The Gambia, shall, subject to this Constitution—
 
 (a) continue to be a citizen of The Gambia;
@@ -602,11 +580,9 @@ Every person who, immediately before the coming into force of this Constitution,
 
 #### Citizen by birth 9.
 6 of 2001
-
 Every person born in The Gambia after the coming into force of this Constitution shall be presumed to be a citizen of The Gambia by birth if at the time of his or her birth, one of his or her parents is a citizen of The Gambia.
 
 #### Citizen by Descent 10.
-
 A person born outside The Gambia after the coming into force of this Constitution shall be a citizen of The Gambia by descent if at the time of his or her birth either of his or her parents is a citizen of The Gambia otherwise than by virtue of this section or any comparable provision of any earlier Constitution.
 
 [[END OF PAGE 14]]
@@ -614,7 +590,6 @@ A person born outside The Gambia after the coming into force of this Constitutio
 [[START OF PAGE 15]]
 
 #### Marriage to a citizen 11.
-
 (1) Any person who—
 
 (a) is married to a citizen of The Gambia and, since the marriage, has been ordinarily resident in The Gambia for a period of not less than seven years; or
@@ -626,7 +601,6 @@ shall be entitled, upon making application in such manner as may be prescribed b
 (2) The annulment of a marriage of a person who has been registered as a citizen of The Gambia under this section, or under the provisions of any earlier law for the registration as a citizen of The Gambia of a person on account of marriage, shall not affect that person’s status as a citizen of The Gambia.
 
 #### Naturalisation as a Citizen 12.
-
 (1) Any person who has been ordinarily resident in The Gambia for a continuous period of not less than fifteen years and who satisfies the conditions set out in subsection (2) may apply, in such manner as may be prescribed by or under an Act of the National Assembly, to be naturalised as a citizen of The Gambia.
 
 (2) The conditions referred to in subsection (1) are that the applicant—
@@ -645,17 +619,15 @@ shall be entitled, upon making application in such manner as may be prescribed b
 
 (3) The Secretary of State shall give reasons for any refusal of an application made under this section.
 
-(4) No person shall be naturalized until he or she has renounced any other citizenship he or she may have and taken an oath of allegiance to The Gambia.
+(4) No person shall be naturalised until he or she has renounced any other citizenship he or she may have and taken an oath of allegiance to The Gambia.
 
 #### Dual Citizenship 12A.
 6 of 2001
-
-(1) A Citizen of The Gambia who acquires the Citizenship of another Country may, if he or she so desires, retain his or her citizenship of The Gambia.
+(1) A citizen of The Gambia who acquires the citizenship of another country may, if he or she so desires, retain his or her citizenship of The Gambia.
 
 (2) An Act of the National Assembly may make provision for the better implementation of this section.
 
 #### Deprivation of citizenship 13.
-
 (1) The Secretary of State may apply to the High Court for an order depriving a person who has been registered or has been naturalised as a citizen of The Gambia of his or her citizenship on the grounds that he or she—
 
 (a) has acquired by registration, naturalisation or any voluntary and formal act (other than marriage) the citizenship of any other country;
@@ -664,7 +636,7 @@ shall be entitled, upon making application in such manner as may be prescribed b
 
 (c) has, at any time since acquiring citizenship of The Gambia, voluntarily claimed and exercised in a country other than The Gambia any rights available to him or her under the laws of that country, being rights accorded exclusively to that country’s citizens;
 
-(d) has within seven years after being registered or naturalised been convicted in any country of an offence involving fraud, dishonesty or moral turpitude;
+(d) has within seven years after being registered or naturalised been convicted in any country of an offence involving fraud, dishonesty or moral turpitude,
 
 and, in the cases referred to in paragraphs (c) and (d), it is not conducive to the public good that he or she should continue to be a citizen of The Gambia.
 
@@ -676,16 +648,14 @@ and, in the cases referred to in paragraphs (c) and (d), it is not conducive to 
 
 legally represented at the hearing of the application before the Court.
 
-(3) If the High Court is satisfied that the Secretary of State has established that the person concerned has acted in a manner described in subsection (1) and notified to that person, and, in a case referred to in paragraph (c) or (d) of subsection (1), that it is not conducive to the public good that the person concerned should continue to be a citizen of The Gambia, it shall make an order depriving that person of his or her citizenship of The Gambia.
+(3) If the High Court is satisfied that the Secretary of State has established that the person concerned has acted in a manner described in subsection (1) and notified that person, and, in a case referred to in paragraph (c) or (d) of subsection (1), that it is not conducive to the public good that the person concerned should continue to be a citizen of The Gambia, it shall make an order depriving that person of his or her citizenship of The Gambia.
 
 (4) Nothing in this or any other provision of this Constitution or any other law shall be construed as depriving, or authorising any person or authority to deprive, any citizen of The Gambia by birth or descent of his or her citizenship of The Gambia whether on account of such citizen holding the citizenship or nationality of some other country or for any other cause.
 
 #### Restoration of citizenship 14.
-
 A citizen of The Gambia who loses his or her citizenship of The Gambia as a result of the acquisition or possession of the citizenship of some other country shall, on the renunciation of the citizenship of that other country, be entitled to be registered, or if he or she was formerly a citizen by birth or descent, to be officially recognised, as a citizen of The Gambia.
 
 #### Acts of the National Assembly 15.
-
 An Act of the National Assembly may make provision for—
 
 (a) the acquisition of the citizenship of The Gambia by persons who are not eligible to become citizens under the provisions of this Chapter;
@@ -695,7 +665,6 @@ An Act of the National Assembly may make provision for—
 (c) generally to give effect to the provisions of this Chapter.
 
 #### Interpretation of Chapter III 16.
-
 (1) In this Chapter, “Secretary of State” means the Secretary of State for the time being responsible for citizenship matters.
 
 (2) For the purposes of this Chapter, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the government of any country, shall be deemed
@@ -706,18 +675,16 @@ An Act of the National Assembly may make provision for—
 
 to have been born in the place in which the ship or aircraft is registered or, as the case may be, in that country.
 
-(3) Any reference in this Chapter to the citizenship of a parent of a person at the time of that person’s birth shall, in relation to a person born after the death of that parent, be construed as a reference to that parent’s citizenship at the time of death.
+(3) Any reference in this Chapter to the citizenship of a parent of a person at the time of that person’s birth, shall, in relation to a person born after the death of that parent, be construed as reference to that parent’s citizenship at the time of death.
 
 ## CHAPTER IV PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
 
 #### Fundamental Rights and Freedoms 17.
-
 (1) The fundamental human rights and freedoms enshrined in this Chapter shall be respected and upheld by all organs of the Executive and its agencies, the Legislature and, where applicable to them, by all natural and legal persons in The Gambia, and shall be enforceable by the Courts in accordance with this Constitution.
 
 (2) Every person in The Gambia, whatever his or her race, colour, gender, language, religion, political or other opinion, national or social origin, property, birth or other status, shall be entitled to the fundamental human rights and freedoms of the individual contained in this Chapter, but subject to respect for the rights and freedoms of others and for the public interest.
 
 #### Protection of right to life 18.
-
 (1) No person shall be deprived of his or her life intentionally except in the execution of a sentence of death imposed by a court of competent jurisdiction in respect of a criminal offence for which the penalty is death under the Laws of The Gambia as they have effect in accordance with subsection (2) and of which he or she has been lawfully convicted.
 
 (2) As from the coming into force of this Constitution, no court in The Gambia shall be competent to impose a sentence of death for any offence unless the sentence is prescribed by law and the offence involves violence, or the administration of any toxic substance, resulting in the death of another person.
@@ -741,7 +708,6 @@ to have been born in the place in which the ship or aircraft is registered or, a
 (e) if he or she dies as a result of a lawful act of war.
 
 #### Protection of right to Personal liberty 19.
-
 (1) Every person shall have the right to liberty and security of person. No one shall be subjected to arbitrary arrest or detention. No one shall be deprived of his or her liberty except on such grounds and in accordance with such procedures as are established by law.
 
 (2) Any person who is arrested or detained shall be informed as soon as is reasonably practicable and in any case within three hours, in a language that he or she can understand, of the reasons for his or her arrest or detention and of his or her right to consult a legal practitioner.
@@ -764,8 +730,7 @@ and who is not released, shall be brought without undue delay before a court and
 
 (6) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation from that other person or from any other person or authority on whose behalf that other person was acting.
 
-#### Protection From slavery And forced labour 20.
-
+#### Protection from slavery and forced labour 20.
 (1) No person shall be held in slavery or servitude.
 
 (2) No person shall be required to perform forced labour.
@@ -783,7 +748,6 @@ and who is not released, shall be brought without undue delay before a court and
 (e) any labour reasonably required as part of reasonable and normal communal or other civic obligations.
 
 #### Protection from inhuman treatment 21.
-
 No person shall be subject to torture or inhuman or degrading
 
 [[END OF PAGE 20]]
@@ -793,12 +757,11 @@ No person shall be subject to torture or inhuman or degrading
 punishment or other treatment.
 
 #### Protection from deprivation of property 22.
-
 (1) No property of any description shall be taken possession of compulsorily, and no right over or interest in any such property shall be acquired compulsorily in any part of The Gambia, except where the following conditions are satisfied:
 
-(a) the taking of possession or acquisition is necessary in the interest of defence, public safety, public order, public morality, public health, town and country planning, or the development or utilisation of any property in such manner as to promote the public benefit; and
+(a) the taking of possession or acquisition is necessary in the interest of defense, public safety, public order, public morality, public health, town and country planning, or the development or utilisation of any property in such manner as to promote the public benefit; and
 
-(b) the necessity therefor is such as to afford reasonable justification for the causing of any hardship that may result to any person having any interest in or right over the property; and
+(b) the necessity therefor is such as to afford reasonable justification of the causing of any hardship that may result to any person having any interest in or right over the property; and
 
 (c) provision is made by law applicable to that taking of possession or acquisition—
 
@@ -820,11 +783,11 @@ punishment or other treatment.
 
 [[START OF PAGE 22]]
 
-adjudged or otherwise declared bankrupt or insolvent, or persons of unsound mind;
+adjudged or otherwise declared bankrupt or insolvent or persons of unsound mind;
 
 (e) in the execution of judgements or orders of courts;
 
-(f) by reason of such property being in a dangerous state or liable to cause injury to the health of human beings, animals or plants;
+(f) by reason of such property being in a dangerous state or liable to cause injuries to the health of human beings, animals or plants;
 
 (g) in consequence of any law with respect to the limitation of actions; or
 
@@ -832,15 +795,15 @@ adjudged or otherwise declared bankrupt or insolvent, or persons of unsound mind
 
 (i) of work of soil conservation or the conservation of other resources; or
 
-(ii) of agricultural development or improvement which the owner or occupier of the land has been required and has without reasonable or lawful excuse refused or failed to carry out,
+(ii) of agricultural development or improvement which the owner or occupier of the land has been required, and has without reasonable or lawful excuse refused or failed, to carry out,
 
 except so far as that provision, or as the case may be the thing done under the authority thereof, is shown not to be reasonably justifiable in a democratic society.
 
 (3) Nothing in this section shall be construed as affecting the making or operation of any law for the compulsory taking in the public interest of any property, or the compulsory acquisition in the public interest of any interest in or right over property, where that property or interest is held by a body corporate which is established directly by any law and in which no monies are provided by an Act of the National Assembly.
 
-(4) Where a compulsory acquisition of land by or on behalf of the Government involves the displacement of any inhabitant who occupy the land under customary law, the Government shall resettle the displaced inhabitants on suitable alternative land with due regard to their economic well-being and social and cultural values.
+(4) Where a compulsory acquisition of land by or on behalf of the Government involves the displacement of any inhabitants who occupy the land under customary law, the Government shall resettle the displaced inhabitants on suitable alternative land with due regard to their economic well-being and social and cultural values.
 
-(5) Any such property of whatever description compulsorily taken possession of, and any interest in or right over property of any description compulsorily acquired in the public interest or for a public purpose shall be used only in the public interest or for the public purpose for which it is taken or acquired.
+(5) Any such property of whatever description compulsorily taken possession of, and any interest in or right over property of any description compulsorily acquired, shall be used only in the public interest or for the public purpose for which it is taken or acquired.
 
 [[END OF PAGE 22]]
 
@@ -849,7 +812,6 @@ except so far as that provision, or as the case may be the thing done under the 
 (6) Where any such property as is referred to in subsection (5) is not used in the public interest or for the public purpose for which it was taken or acquired, the person who was the owner immediately before the compulsory taking or acquisition, as the case may be, shall be given the first option of acquiring that property, in which event he or she shall be required to refund the whole or such part of the compensation as may be agreed upon between the parties thereto; and in the absence of any such agreement such amount as shall be determined by the High Court.
 
 #### Privacy 23.
-
 (1) No person shall be subject to interference with the privacy of his or her home, correspondence or communications save as is in accordance with law and is necessary in a democratic society in the interest of national security, public safety or the economic well-being of the country, for the protection of health or morals, for the prevention of disorder or crime or for the protection of the rights and freedoms of others.
 
 (2) Searches of the person or the home of individuals shall only be justified—
@@ -859,12 +821,11 @@ except so far as that provision, or as the case may be the thing done under the 
 (b) in cases where delay in obtaining such judicial authority carries with it the danger of prejudicing the objects of the search or the public interest and such procedures as are prescribed by an Act of the National Assembly to preclude abuse are properly satisfied.
 
 #### Provision to secure protection of the law and fair trial 24.
-
 (1) Any court or other adjudicating authority established by law for the determination of any criminal trial or matter, or for the determination of the existence or extent of any civil right or obligation, shall be independent and impartial; and—
 
 (a) if any person is charged with a criminal offence, then, unless the charge is withdrawn; or
 
-(b) where proceedings are commenced for the determination of the existence or extent of any civil right or obligation,
+(b) where proceedings are commenced for the determination of the existence of any civil right or obligation,
 
 the case shall be afforded a fair hearing within a reasonable time.
 
@@ -874,15 +835,15 @@ the case shall be afforded a fair hearing within a reasonable time.
 
 [[START OF PAGE 24]]
 
-Provided that the court or other authority may, to such extent as it may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or interlocutory civil proceedings, or to such extent as it may be empowered or required by law to do so in the interest of defence, public safety, public order, public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings, exclude from its proceedings persons other than the parties thereto and their legal representatives.
+Provided that the court or other authority may, to such extent as it may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory civil proceedings, or to such extent as it may be empowered or required by law to do so in the interest of defense, public safety, public order, public morality, the welfare of persons under the age of eighteen years or the protection of the private lives of persons concerned in the proceedings, exclude from its proceedings persons other than the parties thereto and their legal representatives.
 
 (3) Every person who is charged with a criminal offence—
 
-(a) shall be presumed innocent until he or she is proved or has pleaded guilty;
+(a) shall be presumed innocent until he or she is proved guilty or has pleaded guilty;
 
 (b) shall be informed at the time he or she is charged, in a language which he or she understands and in detail, of the nature of the offence charged;
 
-(c) shall be given adequate time and facilities for the preparation of his or her defence;
+(c) shall be given adequate time and facilities for the preparation of his or her defense;
 
 (d) shall be permitted to defend himself or herself before the court in person or, at his or her own expense, by a legal representative of his or her own choice;
 
@@ -902,9 +863,9 @@ use of the accused person of any record of the proceedings made by or on behalf 
 
 (5) No person shall be charged with or held to be guilty of a criminal offence on account of any act or omission which did not at the time it took place constitute such an offence, and no penalty shall be imposed for any criminal offence which is more severe in degree or description than the maximum penalty which might have been imposed for that offence at the time when it was committed.
 
-(6) No person who shows he or she has been tried by any competent court for a criminal offence and either convicted or acquitted shall not again be tried for that offence or for any other offence of which he or she could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal or revision proceedings relating to the conviction or acquittal:
+(6) No person who shows he or she has been tried by any competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other offence of which he or she could have been convicted at the trial for that offence save upon the order of a superior court made in the course of appeal or revision proceedings relating to the conviction or acquittal:
 
-Provided that nothing in any law shall be held to be inconsistent with or in contravention of this subsection by reason only that it authorises any court to try a member of a defence force for a criminal offence notwithstanding any trial or conviction of the member under service law; but any court so trying such a member and convicting him or her shall, in sentencing him or her to any punishment, take into account any punishment awarded him or her under service law.
+Provided that nothing in any law shall be held to be inconsistent with or in contravention of this subsection by reason only that it authorises any court to try a member of a defense force for a criminal offence notwithstanding any trial or conviction of the member under service law; but any court so trying such a member and convicting him or her shall, in sentencing him or her to any punishment, take into account any punishment awarded him or her under service law.
 
 (7) No person shall be tried for a criminal offence if he or she shows he or she has been pardoned for that offence.
 
@@ -914,12 +875,11 @@ Provided that nothing in any law shall be held to be inconsistent with or in con
 
 (10) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of—
 
-(a) subsection (3)(a) to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
+(a) subsection (3)(a), to the extent that the law in question imposes upon any person charged with a criminal offence the burden of proving particular facts;
 
 (b) subsection (3)(e), to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds.
 
 #### Freedom of speech, 25.
-
 (1) Every person shall have the right to—
 
 [[END OF PAGE 25]]
@@ -952,12 +912,11 @@ Every citizen of The Gambia of full age and capacity shall have the right, witho
 
 (a) to take part in the conduct of public affairs, directly or through freely chosen representatives;
 
-(b) to vote and stand for elections at genuine periodic elections for public office, which election shall be by universal and equal suffrage and be held by secret ballot;
+(b) to vote and stand for elections at genuine periodic elections for public office, which elections shall be by universal and equal suffrage and be held by secret ballot;
 
 (c) to have access, on general terms of equality, to public service in The Gambia.
 
 #### Right to marry 27.
-
 (1) Men and women of full age and capacity shall have the right to marry and found a family.
 
 [[END OF PAGE 26]]
@@ -967,13 +926,11 @@ Every citizen of The Gambia of full age and capacity shall have the right, witho
 (2) Marriage shall be based on the free and full consent of the intended parties.
 
 #### Rights of women 28.
-
 (1) Women shall be accorded full and equal dignity of the person with men.
 
 (2) Women shall have the right to equal treatment with men, including equal opportunities in political, economic and social activities.
 
 #### Rights of children 29.
-
 (1) Children shall have the right from birth to a name, the right to acquire a nationality and, subject to legislation enacted in the best interests of children, to know and be cared for by their parents.
 
 (2) Children under the age of sixteen years are entitled to be protected from economic exploitation and shall not be employed in or required to perform work that is likely to be hazardous or to interfere with their education or be harmful to their health or physical, mental, spiritual, moral or social development.
@@ -981,7 +938,6 @@ Every citizen of The Gambia of full age and capacity shall have the right, witho
 (3) A juvenile offender who is kept in lawful custody shall be kept separated from adult offenders.
 
 #### Rights to education 30.
-
 All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation of that right-
 
 (a) basic education shall be free, compulsory and available to all;
@@ -995,8 +951,7 @@ All persons shall have the right to equal educational opportunities and faciliti
 (e) the development of a system of schools with adequate facilities at all levels shall be actively pursued.
 
 #### Rights of the Disabled 31.
-
-(1) The right of the disabled and handicapped to respect
+(1) the right of the disabled and handicapped to respect
 
 [[END OF PAGE 27]]
 
@@ -1009,11 +964,9 @@ and human dignity shall be recognised by the State and society.
 (3) In any judicial proceedings in which a disabled person is a party, the procedure shall take his or her condition into account.
 
 #### Culture 32.
-
-Every person shall be entitled to enjoy, practice, profess, maintain and promote any culture, language, tradition or religion subject to the terms of this Constitution and to the condition that the rights protected by this section do not impinge on the rights and freedoms of others or the national interest, especially unity.
+Every person shall be entitled to enjoy, practise, profess, maintain and promote any culture, language, tradition or religion subject to the terms of this Constitution and to the condition that the rights protected by this section do not impinge on the rights and freedoms of others or the national interest, especially unity.
 
 #### Protection from Discrimination 33.
-
 (1) All persons shall be equal before the law.
 
 (2) Subject to the provisions of subsection (5), no law shall make any provision which is discriminatory either of itself or in its effect.
@@ -1066,7 +1019,7 @@ Provided that-
 
 (i) in the case of a first extension, by the votes of not less than two-thirds of all the members of the National Assembly;
 
-(ii) in the case of a subsequent extension, by the votes of not less than three-quarters of all the members of the National Assembly,
+(ii) in the case of a subsequent extension, by the votes of not less than three quarters of all the members of the National Assembly,
 
 but no extension shall exceed ninety days from the date of the resolution effecting the extension; and
 
@@ -1080,7 +1033,7 @@ but no extension shall exceed ninety days from the date of the resolution effect
 
 (2) Nothing contained in or done under the authority of such an Act shall be held to be inconsistent with or in contravention of sections 19, 23, 24 (other than subsections (5) to (8) thereof) or 25 of this Constitution to the extent that it is reasonably justifiable in the circumstances arising or existing during a period of public emergency for the purpose of dealing with the situation.
 
-#### Persons detained under emergency powers 36
+#### Persons detained under emergency powers 36.
 
 (1) Where a person is detained by virtue of or under any Act of the National Assembly referred to in section 35, the following provisions shall apply-
 
@@ -1128,7 +1081,7 @@ to appear in person or by a legal practitioner of his or her choice and at his o
 
 #### Enforcement of protective provisions 37.
 
-(1) If any person alleges that any of the provisions of sections 18 to 33 or section 36 (5) of this Chapter has been, is being or is likely to be contravened in relation to himself or herself by any person he or she may apply to the High Court for redress.
+(1) If any person alleges that any of the provisions of section 18 to 33 or section 36 (5) of this Chapter has been, is being or is likely to be contravened in relation to himself or herself by any person he or she may apply to the High Court for redress.
 
 (2) An application may be made under this section in the case of a person who is detained by some other person acting on the detained person's behalf.
 
@@ -1140,7 +1093,7 @@ to appear in person or by a legal practitioner of his or her choice and at his o
 
 (a) hear and determine any application made by any person pursuant to subsection (1) or (2);
 
-(b) determine any question arising in the case of any person which is referred to it in pursuance of subsection (4); and may, in addition to the powers conferred on it by section 5 (which relates to defence of the Constitution) make such order, issue such writ, and give such directions as it may consider appropriate for the purposes of enforcing or securing the enforcement of any of the provisions of sections 18 to 33 or section 36(5) to the protection of which the person concerned is entitled.
+(b) determine any question arising in the case of any person which is referred to it in pursuance of subsection (4); and may, in addition to the powers conferred on it by section 5 (which relates to defence of the Constitution) make such order, issue such writ, and give such directions as it may consider appropriate for the purposes of enforcing or securing the enforcement of any of the provisions of the sections 18 to 33 or section 36(5) to the protection of which the person concerned is entitled.
 
 Provided that the High Court may decline to exercise its powers under this subsection if it is satisfied that adequate means of redress for the contravention alleged are or have been available to the person concerned under any other law.
 
@@ -1148,7 +1101,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 [[START OF PAGE 34]]
 
-(6) The High Court shall consider every application and reference referred to it in pursuance of this section and, having heard arguments by or on behalf of the parties, shall pronounce its decision on the question in open court as soon as may be, and in the case of a reference under subsection (4), not later than thirty days after the conclusion of the final addresses of the parties.
+(6) The High Court shall consider every application and reference referred to it in pursuance of this section and, having heard arguments by or on behalf of the parties, shall pronounce its decision on the question in open court as soon as may, and in the case of a reference under subsection (4), not later than thirty days after the conclusion of the final addresses of the parties.
 
 (7) An Act of the National Assembly may confer on the High Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling the Court more effectively to exercise the jurisdiction conferred upon it by this section.
 
@@ -1160,7 +1113,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 “a period of public emergency” means any period during which The Gambia is at war or a declaration is in force under section 34;
 
-“contravention” in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly:
+“contravention” in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly;
 
 “court” means any court of law in The Gambia other than a district tribunal or, save as provided in subsection (2), a court constituted under service law;
 
@@ -1178,7 +1131,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 [[START OF PAGE 35]]
 
-(a) in sections 18 to 20, subsections (2), (3), (4), (6) (but not the proviso thereto) of section 24, subsection (3) of section 25, subsection (8) of section 33 and subsection (2) of section 37 includes reference to a court constituted by or under service law;
+(a) in sections 18 to 20, subsections (2), (3), (4), (6) (but not the proviso thereto) of section 24, subsection (3) of section 25 subsection (8) of section 33 and subsection (2) of section 37 includes reference to a court constituted by or under service law;
 
 (b) in sections 19 and 20 and subsection (8) of section 33, includes an officer of a defence force and of the Police Force.
 
@@ -1191,7 +1144,6 @@ Provided that the High Court may decline to exercise its powers under this subse
 ### PART 1: THE FRANCHISE
 
 #### The right to vote and be registered 39.
-
 (1) Every citizen of The Gambia being eighteen years or older and of sound mind shall have the right to vote for the purpose of elections of a President and members of the National Assembly, and shall be entitled to be registered as a voter in a National Assembly constituency for that purpose.
 
 (2) Every citizen of The Gambia who is a registered voter shall be entitled to vote in a referendum held in accordance with this Constitution or any other law.
@@ -1199,7 +1151,6 @@ Provided that the High Court may decline to exercise its powers under this subse
 (3) Every citizen of The Gambia being of the age of eighteen years or older and of sound mind shall be entitled, in accordance with the provisions of this Chapter and any Act of the National Assembly providing for such elections to vote in elections for local government authorities and traditional rulers in the area in which he or she is ordinarily resident.
 
 #### Secret ballot 40.
-
 All public elections and all referenda voting shall be by secret ballot.
 
 [[END OF PAGE 35]]
@@ -1207,7 +1158,6 @@ All public elections and all referenda voting shall be by secret ballot.
 [[START OF PAGE 36]]
 
 #### Electoral laws 41.
-
 Subject to the provisions of this Constitution, an Act of the National Assembly may make provision for giving effect to the provisions of this Chapter and, without prejudice to the generality of the foregoing, may provide for-
 
 (a) the registration of voters for the purposes of public elections;
@@ -1221,8 +1171,7 @@ Subject to the provisions of this Constitution, an Act of the National Assembly 
 ### PART 2: THE INDEPENDENT ELECTORAL COMMISSION
 
 #### The Commission 42
-
-(1) There shall be an Independent Electoral Commission for The Gambia which shall be part of the public service.
+(1) there shall be an Independent Electoral Commission for The Gambia which shall be part of the public service.
 
 (2) The members of the Commission shall be a Chairman and four other members.
 
@@ -1258,7 +1207,7 @@ he or she has actively identified himself or herself with any such organisation;
 
 (c) for misconduct, but, before removing a member, the President shall appoint a tribunal of three judges of a superior court to enquire into the matter and report on the facts. A member of the Commission shall be entitled to appear and be legally represented before the tribunal.
 
-(7) Three members of the Commission including the Chairman shall form a quorum:
+(7) Three members of the Commission including the chairman shall form a quorum:
 
 Provided that any decision of the Commission shall require the concurrence of a majority of the members.
 
@@ -1278,7 +1227,7 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 [[START OF PAGE 38]]
 
-(b) the conduct of the election of a Speaker and a Deputy Speaker;
+(b) the conduct of the election of a Speaker and a Deputy Speaker,
 
 (c) the registration of political parties;
 
@@ -1291,21 +1240,17 @@ Provided that any decision of the Commission shall require the concurrence of a 
 (3) In the exercise of its functions under this Constitution or any other law, the Commission shall not be subject to the direction or control of any other person or authority.
 
 #### Financial 44
-
 The Independent Electoral Commission shall submit its annual estimates of expenditure to the President for presentation to the National Assembly in accordance with this Constitution. The President shall cause the estimates to be placed before the National Assembly without amendment, but may attach to them his or her own comments and observations.
 
 #### Electoral Laws 45
-
-An Act of the National Assembly may make further provisions for the purposes of this Part.
+An Act of the National Assembly may make further provisions for the purposes of this part.
 
 ### PART 3: PRESIDENTIAL ELECTIONS
 
 #### Election of a President 46
-
 There shall be an election for the office of the President in the three months before the expiration of the term of the incumbent President. The dates for the nomination of candidates and for holding the election shall be determined by the Independent Electoral Commission.
 
 #### Nomination of Candidates 47
-
 A candidate for election to the office of President shall, on or before nomination day-
 
 (a) satisfy the Commission that his or her nomination is supported by not less than five thousand registered voters consisting of not less than two hundred from each administrative area, as signified by their signatures or otherwise;
@@ -1313,8 +1258,7 @@ A candidate for election to the office of President shall, on or before nominati
 (b) deposit with the Commission such sum as may be prescribed by the Elections Decree or any Act of the National Assembly replacing or amending that Decree, which shall be returned if he or she receives not less than forty per cent of the valid votes cast at the election.
 
 #### The poll on an Election 48
-
-(1) Subject to subsection (4), a poll shall be taken on the day or days appointed for the election of a President
+(1) Subject to subsection (4), a poll shall be taken on the day, or days appointed for the election of a President
 
 [[END OF PAGE 38]]
 
@@ -1326,24 +1270,22 @@ notwithstanding that there may be only one candidate nominated for election.
 
 (3) No person shall be elected as President on a first ballot unless the votes cast in his or her favour at the election are more than fifty per cent of the total number of votes validly cast at that election.
 
-(4) If, on a first ballot, there was only one candidate and he or she fails to obtain the percentage of the votes validly cast as specified in subsection (3), new nomination and election days shall be appointed. If, at the close of nominations for a second ballot-
+(4) If, on a first ballot, there was only one candidate and he or she fails to obtain the percentage of the votes validly cast as specified in subsection (3), new nomination and election days shall be appointed, if, at the close of nominations for a second ballot,
 
-(a) there is only one candidate nominated, he or she shall be declared to have been duly elected President;
+(a) there is only one candidate nominated, he or she shall be declared to have been duly elected President,
 
 (b) there are more than one candidate nominated, a second ballot shall be held.
 
 (5) If, on the first ballot, there were two or more candidates, a second ballot shall be held within fourteen days between the two candidates who received the highest number of votes validly cast at the first ballot. In the event that more than two candidates received equally the highest number or second highest number of votes, all of them shall participate in the second ballot.
 
-(6) On a second ballot, the candidate who receives the highest number of votes shall be declared to have been duly elected President.
+(6) On a second ballot, the candidate, who receives the highest number of votes shall be declared to have been duly elected President.
 
 #### Challenge to election of a President 49.
-
 Any registered political party which has participated in the Presidential election or an independent candidate who has participated in such an election may apply to the Supreme Court to determine the validity of the election of a President by filing a petition within ten days of the declaration of the result of the election.
 
 ### PART 4: NATIONAL ASSEMBLY CONSTITUENCIES
 
 #### Delimitation of constituencies 50
-
 6 of 2001
 
 (1) An Act of the National Assembly shall establish a Boundaries Commission which shall be responsible
@@ -1365,7 +1307,6 @@ for demarcating constituency boundaries for the purpose of elections to the Nati
 ### PART 6: SEYFOLU AND ALKALOLU
 
 #### Appointment of a District Seyfo 58
-
 6 of 2001
 
 (1) The President shall appoint a District Seyfo in consultation with the Secretary of State responsible for Local Government.
@@ -1373,7 +1314,6 @@ for demarcating constituency boundaries for the purpose of elections to the Nati
 (2) The Secretary of State responsible for Local Government may, in consultation with the Divisional Commissioners, make recommendations to the National Assembly for the creation of new Seyfo Districts.
 
 #### Appointment of an Alkalo 59.
-
 6 of 2001
 
 (1) The Secretary of State responsible for Local Government shall appoint an Alkalo in consultation with the Divisional Commissioner and District Seyfo or Chairperson of the Kanifing Municipal Council, as the case may be.
@@ -1387,10 +1327,9 @@ for demarcating constituency boundaries for the purpose of elections to the Nati
 ### PART 7: POLITICAL PARTIES
 
 #### Political parties 60.
-
 6 of 2001
 
-(1) No association, other than a political party registered under or pursuant to an Act of the National Assembly, shall sponsor candidates at public elections.
+(1) No association, other than a political party registered under or pursuant to an Act of the National Assembly, shall sponsor candidates for public elections.
 
 (2) No association shall be registered or remain registered as a political party if-
 
@@ -1412,11 +1351,11 @@ for demarcating constituency boundaries for the purpose of elections to the Nati
 
 (2) The President shall uphold and defend this Constitution as the supreme law of The Gambia.
 
-#### Qualification For election as President 62.
+#### Qualification for election as President 62.
 
 (1) A person shall be qualified for election as President if-
 
-(a) he or she is a citizen of The Gambia by birth or descent;
+(a) he or she is a citizen of The Gambia by birth or descent,
 
 (b) he or she has attained the minimum age of thirty years but not more than sixty-five years;
 
@@ -1440,17 +1379,17 @@ for demarcating constituency boundaries for the purpose of elections to the Nati
 
 (c) has been found liable for misconduct, negligence, corruption or improper behaviour by any commission or committee of inquiry established by law shall not be qualified for election as President.
 
-#### Tenure of office Of President 63
+#### Tenure of office of President 63
 
-(1) The term of office of an elected President shall, subject to subsections (3) and (6), be for a term of five years; and the person elected President shall before assuming office take the prescribed oaths.
+(1) The term of office of an elected President shall, subject to subsection (3) and (6), be for a term of five years; and the person elected President shall before assuming office take the prescribed oaths.
 
 6 of 2001
 
 (2) The person elected President shall assume office sixty days following the day of his or her election, and in any case where the candidature of a person contesting the election is unopposed, such candidate shall be declared unopposed and elected to the office of the President on the day following the making of such declaration.
 
-(3) A person elected as President may at any time during his term of office be removed from office if a no confidence motion is passed in the National Assembly supported by two-thirds of the members of the National Assembly.
+(3) A person elected as President may at any time during his term of office be removed from office if a no confidence motion is passed in the National Assembly supported by two thirds of the members of the National Assembly.
 
-(4) Where a no confidence motion is passed in accordance with subsection (3), the Speaker shall request the Independent Electoral
+(4) where a no confidence motion is passed in accordance with subsection (3), the speaker shall request the Independent Electoral
 
 [[END OF PAGE 42]]
 
@@ -1460,19 +1399,19 @@ Commission to call for a referendum within thirty days of the passing of such mo
 
 (5) The procedure for the conduct of such referendum shall be prescribed by an Act of the National Assembly.
 
-(6) Where the life of the National Assembly is extended for any period in accordance with section 99 (2), the term of office of the President shall be extended for the same period.
+(6) where the life of the National Assembly is extended for any period in accordance with section 99 (2), the term of office of the President shall be extended for the same period.
 
-#### Temporary exercise of Of President's functions 64
+#### Temporary exercise of President's functions 64
 
-Whenever the Speaker has requested the Chief Justice to appoint a Medical Board in accordance with section 66, to enquire into the alleged mental or physical incapacity of the President to discharge the functions of his or her office, those functions shall be performed by the Vice-President or, if he or she is for any reason unable to perform those functions, by the Speaker, until the Medical Board has submitted its report:
+Whenever the speaker has requested the Chief Justice to appoint a Medical Board in accordance with section 66, to enquire into the alleged mental or physical incapacity of the president to discharge the functions of his or her office, those functions shall be performed by the Vice-President or, if he or she is for any reason unable to perform those functions, by the speaker, until the Medical Board has submitted its report:
 
-Provided that the Vice-President or the Speaker shall not take or subscribe any oath for the due execution of the office of President.
+Provided that the Vice President or the Speaker shall not take or subscribe any oath for the due execution of the office of President.
 
-#### Vacancy in the Office of president 65.
+#### Vacancy in the office of president 65.
 
 (1) The office of President shall become vacant during the term of a Presidency-
 
-(a) on the death or resignation of the President; or
+(a) on the death or resignation of the President or
 
 (b) on the President ceasing to hold office under section 63, 66 or section 67.
 
@@ -1490,13 +1429,13 @@ office as Speaker and his or her seat in the National Assembly.
 
 (1) Where the Speaker receives a notice in writing signed by not less than one half of all the members of the National Assembly alleging that the President is, by reason of infirmity of mind or body, incapable of discharging the functions of his or her office, and giving particulars of the alleged incapacity, the Speaker shall request the Chief Justice to constitute, on the recommendation of the head of the medical services of The Gambia, a Medical Board comprising at least five independent medical practitioners of appropriate standing.
 
-(2) The Board shall enquire into the matter and make a report to the Chief Justice stating the opinion of the Board whether or not the President is, by reason of infirmity of mind or body incapable of discharging the functions of the office of President. The President, and if he or she so wishes, his or her one medical adviser may appear, and shall have the right to be heard, before the Board.
+(2) The Board shall enquire into the matter and make a report to the Chief Justice stating the opinion of the Board whether or not the President is, by reason of infirmity of mind or body incapable of discharging the functions of the office of President. The President, and if he or she so wishes, his or her own medical adviser may appear, and shall have the right to be heard, before the board.
 
 (3) Where the Board reports that the President is incapable of discharging the functions of his or her office by reason of infirmity of mind or body, the Chief Justice shall submit the report to the Speaker, who shall, if the National Assembly is not sitting, summon the National Assembly to meet within seven days.
 
-(4) The members of the National Assembly shall deliberate on the report and vote on it and the President shall only be removed where two-thirds of the members present and voting, vote for his removal.
+(4) The members of the National Assembly shall deliberate on the report and vote on it and the President shall only be removed where two thirds of the members present and voting, vote for his removal.
 
-(5) The report of the Board shall be final and conclusive and shall not be enquired into by any court.
+(5) The report of the Board shall be Final and conclusive and shall not be enquired into by any court.
 
 #### Misconduct by the President 67.
 
@@ -1514,17 +1453,17 @@ office as Speaker and his or her seat in the National Assembly.
 
 (ii) he or she has dishonestly done any act which is prejudicial or inimical to the economy of The Gambia or dishonestly omitted to act with similar consequences.
 
-(2) Where the Speaker receives a notice in writing signed by not less than one half of all the members of the National Assembly of a motion for the removal of the President on any of the grounds set out in subsection (1), specifying particulars of the allegations (with any necessary documentation), and requesting that a tribunal be appointed to investigate the allegations, the Speaker shall-
+(2) Where the Speaker receives a notice in writing signed by not less than one half of all the members of the National Assembly of a motion for the removal of the President on any of the grounds set out in subsection (1), specifying particulars of the allegations (with any necessary documentation), and requesting that a tribunal be appointed to investigate allegations, the Speaker shall-
 
 (a) inform the President of the notice;
 
 (b) request the Chief Justice to appoint a tribunal consisting of a Justice of the Supreme Court, as Chairman, and not less than four other persons selected by the Chief Justice, at least two of whom shall be persons who hold or have held high judicial office.
 
-(3) The tribunal shall investigate the matter and shall report to the National Assembly through the Speaker whether or not it finds the allegations specified in the motion to have been substantiated. The President shall have the right to appear and be legally represented before the tribunal.
+(3) The tribunal shall investigate the matter and shall report to the National Assembly through the speaker whether or not it finds the allegations specified in the motion to have been substantiated. The President shall have the right to appear and be legally represented before the tribunal.
 
 (4) If the tribunal reports to the National Assembly that it finds that the particulars of any allegation against the President contained in the motion have not been substantiated, no further proceedings shall be taken under this section in respect of that allegation.
 
-(5) Where the tribunal reports to the National Assembly that it finds that the particulars of any such allegation have been substantiated the National Assembly may, on a motion supported by the votes of not less than two-thirds of all the members, resolve that the President has been guilty of such abuse of office, violation of oath, violation of the
+(5) where the tribunal reports to the National Assembly that it finds that the particulars of any such allegation have been substantiated the National Assembly may, on a motion supported by the votes of not less than two thirds of all the members, resolve that the President has been guilty of such abuse of office, violation of oath, violation of the
 
 [[END OF PAGE 45]]
 
@@ -1558,7 +1497,7 @@ Provided that the President may undertake and carry on any agricultural business
 
 [[START OF PAGE 47]]
 
-functions of President is a party to any legal proceedings, any period during which such person was immune from proceedings under this section shall not be counted for the purposes of applying any rule regarding the limitation of actions.
+functions of President is a party to any legal proceedings, any period during which such person was immune from proceeding under this section shall not be counted for the purposes of applying any rule regarding the limitation of actions.
 
 #### Immunity from civil and criminal proceedings 69.
 
@@ -1574,7 +1513,7 @@ functions of President is a party to any legal proceedings, any period during wh
 
 ### PART 2: THE VICE-PRESIDENT, SECRETARIES OF STATE AND THE CABINET
 
-#### The Vice-President 70
+#### The vice-President 70
 
 (1) There shall be a Vice-President of The Gambia who shall be the principal assistant of the President in the discharge of his or her executive functions and shall exercise such other functions as may be conferred on him or her by this Constitution or assigned to him or her by the President.
 
@@ -1588,29 +1527,29 @@ Provided that the Vice-President shall not be a member of the National Assembly.
 
 (3) The Vice-President shall be appointed by the President.
 
-(4) The provisions of sections 66 and 67 (which relate to removal for incapacity or misconduct) shall apply with the necessary variations to the office of Vice-President as they apply to the office of President.
+(4) The provisions of section 66 and 67 (which relate to removal for incapacity or misconduct) shall apply with the necessary variations to the office of Vice-President as they apply to the office of President.
 
 (5) The office of Vice-President shall become vacant-
 
-(a) on the termination of his or her appointment by the President;
+(a) on the termination of his or her appointment by the President
 
-(b) on the Vice-President assuming the office of President for the unexpired term of his or her predecessor;
+(b) on the Vice-President assuming the office of President for the unexpired term of his or her predecessor,
 
 (c) on the Vice-President's death or resignation;
 
 (d) on his or her ceasing to hold office under the provisions of section 66 or 67.
 
-(6) Whenever there is a vacancy in the office of Vice-President in the circumstances mentioned in paragraph (b), (c) or (d) of subsection (5), the President shall appoint as Vice-President a person qualified to be appointed to that office.
+(6) Whenever there is a vacancy in the office of Vice-President in the circumstances mentioned in paragraph (b), (c) or (d) of subsection (5), the President shall, appoint as Vice-President a person qualified to be appointed to that office.
 
 (7) A person appointed as Vice-President shall, before assuming the functions of his or her office, take and subscribe to the prescribed oaths.
 
 (8) Without prejudice to the right to revoke an appointment for any cause, the President shall revoke the appointment of the Vice-President if the National Assembly adopts a vote of censure against the Vice-President under section 75.
 
-#### Secretaries of State 71
+#### Secretaries of state 71
 
 (1) Unless an Act of the National Assembly otherwise provides, there shall not be more than fifteen Secretaries of State, including the Attorney General.
 
-(2) A person shall not be qualified to be appointed or hold the office of a Secretary of State if he or she is a member of the National Assembly or if he or she holds the citizenship or nationality of any country other than The Gambia. In addition, a person shall not be qualified to be appointed Attorney General unless he or she is a legal practitioner of at least five years standing at the Gambian bar.
+(2) A person shall not be qualified to be appointed or hold the office of a Secretary of State if, he or she is a member of the National Assembly or if he or she holds the citizenship or nationality of any country other than The Gambia. In addition, a person shall not be qualified to be appointed Attorney General unless he or she is a legal practitioner of at least five years standing at the Gambian bar.
 
 (3) Secretaries of State shall be appointed by the President and
 
@@ -1664,13 +1603,12 @@ developing between their official interests and their private interests;
 
 (3) The Cabinet shall be responsible for advising the President with respect to the policies of the Government and shall have such other functions as may be conferred by any other law.
 
-#### Responsibility of Cabinet and Secretaries Of State 74.
-
-The Vice-President and Secretaries of State shall be collectively responsible to the National Assembly for any advice given to the President in Cabinet, and the Vice-President and each Secretary of State shall be accountable to the President and the National Assembly for the administration of the departments and other business of Government committed to his or her charge.
+#### Responsibility of Cabinet and Secretaries of State 74.
+The Vice-President and Secretaries of State shall be collectively responsible to the National Assembly for any advice given to the President in Cabinet, and the Vice President and each Secretary of State shall be accountable to the President and the National Assembly for the administration of the departments and other business of Government committed to his or her charge.
 
 #### Vote of censure 75.
 
-(1) The National Assembly may, by resolution supported by the votes of two-thirds of all the members, pass a vote of censure against a Secretary of State or Vice-President on the grounds of-
+(1) The National Assembly may, by resolution supported by the votes of two-thirds of all the members, pass a vote of censure against a Secretary of State or Vice President on the grounds of-
 
 (a) his or her inability, arising from any cause, to perform the functions of his or her office;
 
@@ -1678,19 +1616,18 @@ The Vice-President and Secretaries of State shall be collectively responsible to
 
 (c) his or her misconduct in office.
 
-(2) A vote of censure shall be initiated by a petition, signed by not less than one third of all the members of the National Assembly to the President through the Speaker stating the grounds on which they are dissatisfied with the conduct or performance of the Secretary of State or Vice-President.
+(2) A vote of censure shall be initiated by a petition, signed by not less than one third of all the members of the National Assembly to the President through the Speaker stating the grounds on which they are dissatisfied with the conduct or performance of the Secretary of State or vice-President.
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
-(3) The President shall cause a copy of the petition to be given to the Secretary of State or Vice-President immediately he or she receives it.
+(3) The President shall cause a copy of the petition to be given to the Secretary of State or Vice President immediately he or she receives it.
 
 (4) The motion for the resolution of censure shall not be debated until after the expiry of fourteen days from the day the petition was sent to the President.
 
-(5) The Secretary of State or Vice-President concerned has the right to attend and be heard during the debate on the motion.
+(5) The Secretary of State or Vice President concerned has the right to attend and be heard during the debate on the motion.
 
-(6) In this section, “misconduct in office” means that the person concerned has-
+(6) In this section, 'misconduct in office' means that the person concerned has-
 
 (a) conducted himself or herself in a manner which brings or is likely to bring his or her office into contempt or disrepute;
 
@@ -1711,16 +1648,14 @@ The Vice-President and Secretaries of State shall be collectively responsible to
 (1) The President shall at least once in each year attend a sitting of the National Assembly and address a session on the condition of The Gambia, the policies of the Government and the administration of the State.
 
 (2) The National Assembly may request the President to attend a sitting of the National Assembly for the discussion of a
-
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
-
 matter of national importance.
 
 (3) The Vice-President shall answer in the National Assembly for matters affecting the President, and the President shall be entitled to send a message to the National Assembly to be read on his or her behalf by the Vice-President.
 
-(4) The Vice-President or a Secretary of State shall, when requested by the National Assembly, report to the National Assembly on any matter concerning a department or other business of Government committed to his or her charge, and shall be entitled to attend and speak in the National Assembly whenever any Bill or other matter concerning such department or business is being debated.
+(4) The Vice-President or a Secretary of State shall, when requested by the National Assembly, report to the National Assembly on any matter concerning a department or other business of Government committed to his or her charge, and shall be entitled to attend and speak in the National Assembly whenever any bill or other matter concerning such department or business is being debated.
 
 #### National security council 78.
 
@@ -1742,7 +1677,7 @@ matter of national importance.
 
 (2) The National Security Council shall be responsible for advising the President on all matters relating to the security of The Gambia and the integration of domestic and foreign policies relating to its security, and, under the direction of the President, shall take appropriate measures to safeguard the internal and external security of The Gambia and to provide for the co-operation of the departments and agencies of the Government in that regard.
 
-#### Foreign Affairs 79.
+#### Foreign Affairs 79
 
 (1) The President shall be responsible for-
 
@@ -1751,11 +1686,9 @@ matter of national importance.
 (b) the reception of envoys accredited to The Gambia and the appointment of the principal representatives of The Gambia abroad;
 
 (c) the negotiation and, subject to ratification by the National Assembly, the conclusion of treaties and other international agreements;
-
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
-
 (d) subject to the prior approval of the National Assembly, the declaration of war and the making of peace.
 
 (2) The Gambia shall not-
@@ -1783,18 +1716,16 @@ Subject to this Constitution and any Act of the National Assembly the President 
 (a) grant to any person convicted of any offence a pardon either free or subject to lawful conditions;
 
 (b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for any offence;
-
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
-
 (c) substitute a less severe form of punishment for any punishment imposed on any person for any offence;
 
 (d) remit the whole or any part of any punishment imposed on any person for such an offence or any penalty otherwise due to the State on account of any offence.
 
 (2) There shall be a Committee on the exercise of the prerogative of mercy consisting of the Attorney General and three other persons appointed by the President subject to confirmation by the National Assembly.
 
-#### Honours and awards 83.
+#### Honours and awards 83
 
 (1) The President may, after consulting the Committee established by subsection (2), confer honours and awards, including honorary honours and awards to friends of The Gambia.
 
@@ -1802,7 +1733,7 @@ Subject to this Constitution and any Act of the National Assembly the President 
 
 ### PART 4: PROSECUTIONS
 
-#### Director of public Prosecution 84.
+#### Director of Public Prosecutions 84
 
 (1) There shall be a Director of Public Prosecutions whose office shall be an office in the public service.
 
@@ -1814,14 +1745,12 @@ Subject to this Constitution and any Act of the National Assembly the President 
 
 (5) A person holding the office of Director of Public Prosecutions may be removed from office only for inability (whether by reason of infirmity of mind or body or any other cause) to perform the functions of his or her office, or for misbehaviour or incompetence.
 
-#### Control of prosecutions 85.
+#### Control of prosecutions 85
 
 (1) The Director of Public Prosecutions shall have
-
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
-
 power in any case in which he or she considers it desirable to do so, and subject to the approval of the Attorney General-
 
 (a) to initiate and undertake criminal proceedings against any person before any court for an offence against the law of The Gambia;
@@ -1843,22 +1772,20 @@ Provided that the power conferred on the Director of Public Prosecutions by subs
 (3) The powers conferred on the Director of Public Prosecutions under this section may be exercised by him or her in person or by persons under his or her direction and control.
 
 (4) In the exercise of his or her functions under this section, the Director of Public Prosecutions shall be
-
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
-
 subject to the direction or control of the Attorney General.
 
-(5) In this section, “private prosecution” means a prosecution instituted by any person or authority other than-
+(5) In this section, 'private prosecution' means a prosecution instituted by any person or authority other than-
 
 (a) the Director of Public Prosecutions or any person acting under his or her direction or control;
 
-(b) a police officer in the exercise of the functions of his or her office; or
+(b) a police officer in the exercise of the functions of his or her office, or
 
 (c) an officer in the public service in the exercise of the functions of his or her office.
 
-#### Private prosecution 86.
+#### Private prosecution 86
 
 An Act of the National Assembly may make provision for private prosecutions.
 
@@ -1866,15 +1793,15 @@ An Act of the National Assembly may make provision for private prosecutions.
 
 ### PART 1: ESTABLISHMENT OF THE NATIONAL ASSEMBLY AND MEMBERS
 
-#### Establishment of National Assembly 87.
+#### Establishment of National Assembly 87
 
 There shall be a National Assembly of The Gambia.
 
-#### Members of The National Assembly 88.
-
-6 of 2001
+#### Members of The National Assembly 88
 
 (1) The National Assembly shall comprise-
+
+6 of 2001
 
 (a) forty-eight members elected from the constituencies demarcated by the Boundaries Commission; and
 
@@ -1884,14 +1811,12 @@ There shall be a National Assembly of The Gambia.
 
 Provided that a member may take part in the election of a Speaker and Deputy Speaker before taking such oaths.
 
-#### Qualifications For Membership to The National Assembly 89.
+#### Qualifications for Membership to The National Assembly 89
 
 (1) A person is qualified for election to the National Assembly if he or she-
-
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
-
 (a) is a citizen of The Gambia;
 
 (b) has attained the age of twenty-one years;
@@ -1919,11 +1844,9 @@ Provided that a member may take part in the election of a Speaker and Deputy Spe
 (e) has been found by the report of a commission or committee of inquiry (the proceedings of which have been held and published in accordance with the relevant law) to be incompetent to hold public office by reason of having acquired assets unlawfully or defrauded the State or misused or abused his or her office, or wilfully acted in a manner pre-judicial to the interests of the State, and the findings have not been set aside on appeal or judicial review;
 
 (f) within the three years preceding nomination day, holds or acts in any office prescribed by an Act of the National Assembly the functions of which involve responsibility for, or in connection with the
-
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
-
 conduct of elections to the National Assembly or the compilation of any register of voters for the purpose of such an election;
 
 (g) unless granted leave of absence in accordance with section 170, holds a public office or an office in the public service;
@@ -1961,11 +1884,9 @@ conduct of elections to the National Assembly or the compilation of any register
 (b) subject to subsection (2), if any circumstances arise which, if he or she were not a member, would cause him or her to be disqualified for election as a member or nomination as a member;
 
 (c) if he or she resigns his or her office as member;
-
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
-
 (d) if he or she ceases to be a member of the political party of which he or she was a member at the time of his or her election;
 
 Provided that nothing in this paragraph shall apply on a merger of political parties at the national level where such merger is authorised by the constitution of the parties concerned;
@@ -1974,7 +1895,7 @@ Provided that nothing in this paragraph shall apply on a merger of political par
 
 (f) if he or she is recalled by the voting electorate in accordance with an Act of the National Assembly to give effect to section 92;
 
-(g) if, without the permission in writing of the Speaker or reasonable cause, he or she is absent from ten or more sittings of the National Assembly during any period that the National Assembly is in session and continued to meet;
+(g) if, without the permission in writing of the Speaker or reasonable cause, he or she is absent from ten or more sittings of the National Assembly during any period that the National Assembly is in session and continues to meet;
 
 (h) if he or she is found in contempt of the National Assembly and is expelled on a resolution supported by not less than three quarters of all the members of the National Assembly.
 
@@ -1986,21 +1907,17 @@ Provided that nothing in this paragraph shall apply on a merger of political par
 
 (c) adjudged to be of unsound mind; or
 
-(d) adjudged or otherwise declared to be bankrupt,
-
-to appeal against any such decision in accordance with any law, provided that, subject to such conditions as may be specified, the decision shall not have effect for the purposes of this section until such time as may be so prescribed.
+(d) adjudged or otherwise declared to be bankrupt, to appeal against any such decision in accordance with any law, provided that, subject to such conditions as may be specified, the decision shall not have effect for the purposes of this section until such time as may be so prescribed.
 
 (3) The Clerk of the National Assembly shall immediately inform the Independent Electoral Commission of any vacancy among the members of the National Assembly.
 
 #### Recall of members 92.
 
 An Act of the National Assembly may make provision for the recall of an elected member of the National Assembly. Such an Act shall-
-
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
-
-(a) require that a petition for recall shall be supported by at least one-third of the registered voters in the constituency; and
+(a) require that a petition for recall shall be supported by at least one-third of the registered voters in the constituency and
 
 (b) prescribe the grounds for recall and the powers of, and procedures to be adopted by, the IEC on receipt of such a petition.
 
@@ -2012,7 +1929,7 @@ An Act of the National Assembly may make provision for the recall of an elected 
 
 (3) Unless he or she sooner dies or resigns the Speaker and the Deputy Speaker shall vacate their respective offices-
 
-(a) if he or she ceases to be a member of the National Assembly;
+(a) if he or she ceases to be a member of the National Assembly,
 
 (b) if he or she is removed from that office by a resolution of the National Assembly supported by the votes of not less than two-thirds of all the members of the National Assembly.
 
@@ -2020,7 +1937,7 @@ An Act of the National Assembly may make provision for the recall of an elected 
 
 (5) No business shall be transacted in the National Assembly other than the election of the Speaker or Deputy Speaker when either of those offices is vacant.
 
-#### Clerk of the National Assembly 94.
+#### Clerk of the National Assembly 94
 
 (1) There shall be a Clerk of the National Assembly who shall be appointed by the National Assembly.
 
@@ -2034,23 +1951,21 @@ The Speaker, the Deputy Speaker and the other members of the National Assembly s
 
 #### General election 96.
 
-There shall be a general election of all the members of the National Assembly which shall be held three months after the date of election to office of the President.
+There shall be a general election of all the members of the National Assembly which shall be held three months after the date of election of office of the President.
 
 #### Session of the National Assembly 97.
 
 (1) The first session of the National Assembly after a general election shall be held in such place in The Gambia as the President may, by Proclamation, appoint.
-
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
-
 (2) The President may request the Speaker to summon a session of the National Assembly in the event of a declaration of a public emergency under section 34.
 
 (3) Subject to subsections (1) and (2), the National Assembly shall determine the times of its sessions:
 
 Provided that there shall be a session of the National Assembly at least once in every year.
 
-#### Sittings of the National Assembly 98.
+#### Sittings of the National Assembly 98
 
 (1) Subject to section 97, sittings of the National Assembly shall be at such times as the National Assembly shall appoint:
 
@@ -2068,7 +1983,7 @@ Provided that-
 
 (2) Unless the National Assembly otherwise directs for good cause, the sittings of the National Assembly shall be open to the public.
 
-#### Term of the National Assembly 99.
+#### Term of the National Assembly 99
 
 (1) Subject to the provisions of this section, the National Assembly shall stand dissolved on the day immediately preceding the day appointed in accordance with section 97 for the first session of the next following National Assembly.
 
@@ -2079,11 +1994,9 @@ Provided that-
 #### The Legislative Power 100.
 
 (1) The legislative power of The Gambia shall be exercised by Bills passed by the National Assembly and assented to by
-
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
-
 the President.
 
 (2) The National Assembly shall not pass a Bill-
@@ -2098,18 +2011,16 @@ the President.
 
 (4) Where the National Assembly has reconsidered a Bill as so requested in accordance with sub-section (3) and has resolved by a vote supported by not less than two thirds of all the members of the National Assembly that the Bill, with or without the amendments recommended by the President, be presented again to the President for his or her assent, the President shall assent to the Bill within seven days of it being so presented.
 
-(5) A Bill which has been duly passed by the National Assembly and assented to by the President shall become law as an Act of the National Assembly and the words of enactment shall be: “Enacted by the President and the National Assembly”.
+(5) A Bill which has been duly passed by the National Assembly and assented to by the President shall become law as an Act of the National Assembly and the words of enactment shall be: 'Enacted by the President and the National Assembly'.
 
 (6) The President shall cause Acts of the National Assembly to be published in the Gazette within thirty days of assent.
 
 (7) No Act of the National Assembly shall come into operation until it has been published in the Gazette, but the Act or some other Act of the National Assembly may provide for the postponement of its coming into force.
 
 (8) Nothing in this section shall prevent an Act of the National Assembly from conferring on any person or authority the power to make subsidiary legislation.
-
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
-
 #### Introduction of Bills and motion 101.
 
 (1) Subject to the provisions of this section, a Bill or motion may be introduced in the National Assembly by a member of the Cabinet or by a member of the National Assembly and the National Assembly shall give consideration to Bills and motions so introduced.
@@ -2127,18 +2038,14 @@ Provided that where the President certifies that the enactment of the Bill is re
 (ii) the imposition of any charges on the Consolidated Revenue Fund or any other public fund of The Gambia or the alteration of any such charge;
 
 (iii) the payment, issue or withdrawal from the Consolidated Revenue Fund or any other public fund of The Gambia of moneys not charged thereon or any increase in the amount of such payment,
-
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
-
 issue or withdrawal; or
 
 (iv) the composition or remission of any debt due to the Government;
 
-unless the Bill is introduced by, or on behalf of, the President.
-
-(5) When a Bill is introduced into the National Assembly, it may be allocated to an appropriate committee for examination, and a report made thereon to the National Assembly.
+(5) when a Bill is introduced into the National Assembly, it may be allocated to an appropriate committee for examination, and a report made thereon to the National Assembly.
 
 #### Additional functions of the National Assembly 102.
 
@@ -2150,7 +2057,7 @@ In addition to the other powers conferred on the National Assembly by this Const
 
 (c) examine the accounts and expenditure of the Government and other public bodies funded by public moneys and the reports of the Auditor General thereon;
 
-(d) include in a Bill a proposal for a referendum on an issue of national concern defined in the Bill; or
+(d) include in a Bill a proposal for a referendum on an issue of national concern defined in the Bill, or
 
 (e) advise the President on any matter which lies within his or her responsibility.
 
@@ -2164,23 +2071,21 @@ The Speaker shall preside at any sitting of the National Assembly and-
 
 (b) in the absence of both the Speaker and the Deputy Speaker, such member of the National Assembly as the National Assembly may elect for the purpose.
 
-#### Vacancy and quorum 104.
+#### Vacancy and quorum 104
 
 (1) The National Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the National Assembly first meets after a general election).
 
 (2) The quorum of the National Assembly at the commencement of any sitting is one half of all the members.
 
 If, subsequently thereto, objection is taken by any member that there are present in the National Assembly (besides the person presiding) less than one quarter of all the members, and the person presiding is so satisfied, he or she shall immediately adjourn the sitting.
-
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
-
-#### Language in the National Assembly 105.
+#### Language in the National Assembly 105
 
 The business of the National Assembly shall be conducted in the English language or any other language prescribed by an Act of the National Assembly.
 
-#### Voting in the National Assembly 106.
+#### Voting in the National Assembly 106
 
 (1) Except as otherwise provided in this Constitution, any matter proposed for decision in the National Assembly shall be determined by a majority of votes of the members present and voting.
 
@@ -2188,24 +2093,22 @@ The business of the National Assembly shall be conducted in the English language
 
 (3) Any member of the National Assembly who has a direct pecuniary interest in any matter proposed for discussion in the National Assembly shall declare the same to the Speaker and the vote of any such member on such a matter shall be disallowed and he or she shall be deemed not to have voted.
 
-#### Unqualified Person sitting Or voting 107.
+#### Unqualified Person sitting or voting 107
 
 Any person who sits or votes in the National Assembly knowing or having reasonable grounds for knowing that he or she is not entitled to do so shall be liable to such penalty as may be prescribed by an Act of the National Assembly, which penalty may be recovered by suit by the Attorney-General.
 
-#### Regulation In the National Assembly 108.
+#### Regulation in the National Assembly 108
 
 (1) Subject to the provisions of this Constitution the National Assembly may regulate its own procedure and, in particular, may make standing orders for the conduct of its own proceedings.
 
 (2) Notwithstanding anything to the contrary in this Constitution or in any other law, no decision, order or direction of the National Assembly or any of its Committees or the Speaker relating to the Standing Orders of the National Assembly, or to the application or interpretation of Standing Orders, or any act done by the National Assembly or the Speaker under any Standing Orders, shall be enquired into by any court.
 
-#### Committees Of National Assembly 109.
+#### Committees of National Assembly 109
 
 (1) The National Assembly shall appoint-
-
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
-
 (a) a Public Appointments Standing Committee;
 
 (b) a Finance and Public Accounts Standing Committee;
@@ -2216,7 +2119,7 @@ Any person who sits or votes in the National Assembly knowing or having reasonab
 
 (2) Committees may be appointed-
 
-(a) to investigate or inquire into the activities or administration of ministries or departments of the Government and such investigation or inquiry may extend to making proposals for legislation; or
+(a) to investigate or inquire into the activities or administration of ministries or departments of the Government and such investigation or inquiry may extend to making proposals for legislation or
 
 (b) to investigate any matter of public importance.
 
@@ -2232,16 +2135,14 @@ Any person who sits or votes in the National Assembly knowing or having reasonab
 
 Any Act or omission which obstructs or impedes the National Assembly in the performance of its functions or which obstructs or impedes any member or officer of the National Assembly in the discharge of his or her duties or affronts the dignity of the National Assembly shall be a contempt of the National Assembly and, in addition to any liability in respect thereof under the criminal law, the offender shall be liable to reprimand or admonition by the National Assembly, and if the offender is a member of the National Assembly, suspension or expulsion from the National Assembly.
 
-#### The National Assembly service 111.
+#### The National Assembly service 111
 
 (1) There shall be a National Assembly Service to provide services and support for the National Assembly. The National Assembly Service shall form part of the public service and its members shall be appointed by the National Assembly after consultation with the Public Service Commission.
 
 (2) The National Assembly shall establish an authority to supervise the National Assembly Service. The authority shall consist of-
-
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
-
 (a) the Speaker as Chairman;
 
 (b) four other members of the National Assembly who shall be appointed by the Speaker acting in accordance with the advice of a committee of the National Assembly; and
@@ -2252,7 +2153,7 @@ Any Act or omission which obstructs or impedes the National Assembly in the perf
 
 (4) In addition to its other functions, the National Assembly Service shall provide members of the National Assembly with facilities for the drafting of Bills and the obtaining of such reasonable information from the relevant Government department as may be required for that purpose.
 
-### PART 5: RESPONSIBILITIES, PRIVILEDGES AND IMMUNITIES
+### PART 5: RESPONSIBILITIES, PRIVILEGES AND IMMUNITIES
 
 #### Responsibilities of members 112.
 
@@ -2260,7 +2161,7 @@ The responsibilities of the members of the National Assembly shall include the f
 
 (a) all members shall maintain the dignity of the National Assembly both during the sittings of the National Assembly and in their acts and activities outside the National Assembly;
 
-(b) all members shall regard themselves as servants of the people of The Gambia and desist from any conduct by which they seek improperly to enrich themselves or alienate themselves from the people, and shall discharge their duties and functions in the interest of the nation as a whole and in doing so, shall be influenced by the dictates of conscience and the national interest.
+(b) all members shall regard themselves as servants of the people of The Gambia, desist from any conduct by which they seek improperly to enrich themselves or alienate themselves from the people, and shall discharge their duties and functions in the interest of the nation as a whole and in doing so, shall be influenced by the dictates of conscience and the national interest.
 
 #### Freedom of speech and debate 113.
 
@@ -2270,21 +2171,19 @@ There shall be freedom of speech and debate in the National Assembly and that fr
 
 Without prejudice to the generality of section 113, no civil or criminal proceedings shall be instituted against a member of the National Assembly in any court or other place outside the National Assembly by reason of anything said by him or her in the National Assembly.
 
-#### Immunity from service of process and arrest 115.
+#### Immunity service of process and arrest 115.
 
 No civil or criminal process issuing from any court or other place outside the National Assembly shall be served on or executed in relation to a member of the National Assembly while he or she is on his or her way to, attending or returning from any proceeding of the National Assembly.
-
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
-
 #### Immunity from witness summons 116.
 
 Neither any member of the National Assembly nor the Clerk of the National Assembly shall be compelled while attending the National Assembly to appear as a witness in any court or place outside the National Assembly.
 
 #### Immunity from jury service 117.
 
-Neither any member of the National Assembly nor the Clerk of the National Assembly shall be required to serve on a jury in any court.
+Neither any member of the National Assembly nor the Clerk of the National Assembly shall be required to serve as a juror in any court.
 
 #### Immunity for Publication of Proceedings 118.
 
@@ -2300,27 +2199,25 @@ Subject to the provisions of this Constitution, no person shall be under any civ
 
 (2) Where the President or any member of the Cabinet certifies that the disclosure of the contents of any document sought by the National Assembly or a committee of the National Assembly will be injurious to the public interest or prejudicial to the security of the State, the National Assembly or such committee shall only give consideration to such document in private and under such conditions as will prevent the disclosure of the contents of such document outside the National Assembly or the committee as the case may be, and shall not publish the document or its contents.
 
-(3) An answer by a person to a question put by the National Assembly shall not be admissible evidence against him or her in any civil or criminal proceedings outside the National Assembly other than proceedings for perjury brought under the criminal law.
+(3) An answer by a person to a question put by the National Assembly shall not be admissible evidence against him or her in any civil or criminal proceedings outside the National Assembly other than proceedings of perjury brought under the criminal law.
 
 ## CHAPTER VIII THE JUDICATURE
-
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
-
 ### PART 1: THE COURTS OF THE GAMBIA
 
-#### The courts And the judicial Power 120.
+#### The courts and the judicial Power 120.
 
 (1) The Courts of The Gambia are:
 
 (a) Superior Courts comprising:
 
-(i) the Supreme Court;
+(i) the Supreme Court,
 
-(ii) the Court of Appeal;
+(ii) the Court of Appeal,
 
-(iii) The High Court and the Special Criminal Court; and
+(iii) The High Court and the Special Criminal Court, and
 
 (b) the Magistrates Courts, the Cadi Court, District Tribunals and such lower courts and tribunals as may be established by an Act of the National Assembly.
 
@@ -2343,11 +2240,9 @@ In addition to any other power conferred on the court, each of the superior cour
 (a) be a superior court of record and shall have power to commit for contempt to itself and all such powers as are vested in a court of record; and
 
 (b) in relation to any matter within its jurisdiction, have power to issue such orders and directions as may be necessary to ensure the enforcement of any judgment, decree or order of the court.
-
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
-
 #### Immunity from suit 123.
 
 A judge or other person exercising judicial power shall not be liable to any action or suit for any act or omission by him or her in good faith in the exercise of his or her judicial function.
@@ -2381,11 +2276,9 @@ Provided that vacations shall be excluded from any prescribed period.
 6 of 2001.
 
 (c) such judge of the Court of Appeal as the Chief Justice may, by writing under his or her hand, select to sit in the Supreme Court for the determination of a particular cause or matter.
-
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
-
 Provided that no judge shall be selected under this paragraph unless he or she is qualified to be appointed a Justice of the Supreme Court.
 
 (2) The Supreme Court shall be constituted by an uneven number of not less than five judges of the Court.
@@ -2396,7 +2289,7 @@ Provided that a single judge of the Court may exercise the powers of the Court i
 
 (4) The Supreme Court may sit at any place in The Gambia appointed by the Chief Justice.
 
-#### Jurisdiction of Supreme Court 126.
+#### Jurisdiction of Supreme Court 126
 
 (1) The Supreme Court shall be the final court of appeal for The Gambia and shall have such appellate and other jurisdiction as may be conferred on it by this Constitution or any other law:
 
@@ -2406,29 +2299,27 @@ Provided that the Supreme Court shall not have original jurisdiction in respect 
 
 (3) For the purpose of the hearing and determination of any matter within its jurisdiction, the Supreme Court shall have all the powers conferred by law on any other court established by this Constitution or any other law.
 
-#### Original jurisdiction 127.
+#### Original jurisdiction 127
 
 (1) The Supreme Court shall have an exclusive original jurisdiction-
 
 (a) for the interpretation or enforcement of any provision of this Constitution other than any provision of sections 18 to 33 or section 36 (5) (which relate to fundamental rights and freedoms);
 
 (b) on any question whether any law was made in excess of the powers conferred by this
-
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
-
 Constitution or any other law upon the National Assembly or any other person or authority;
 
 (c) on any question as to whether or not any person was validly elected to the office of President or was validly elected to, or vacated his or her seat in, the National Assembly; or
 
-(d) on any question whether any official document should be produced, or its contents disclosed, in proceedings before a court where such production is resisted on the grounds that its production or the disclosure of its contents would be prejudicial to the security of the state or be injurious to the public interest.
+(d) on any question whether any official document should be produced, or its contents disclosed, in proceedings before a court where such production is resisted on the grounds that its production or the disclosure of its contents would be prejudicial to the security of the State or be injurious to the public interest.
 
 (2) Where any question referred to in paragraphs (a), (b) or (d) of subsection (1) arises in any proceedings in any other court, that court shall stay its proceedings and refer the matter to the Supreme Court for its determination, and such other court shall give effect to any decision of the Supreme Court in the matter.
 
 (3) The proceedings in the Supreme Court on any question referred to in paragraph (d) of subsection (1) shall be held in camera.
 
-#### Appellate jurisdiction 128.
+#### Appellate jurisdiction 128
 
 (1) An appeal shall lie to the Supreme Court as of right-
 
@@ -2439,24 +2330,20 @@ Constitution or any other law upon the National Assembly or any other person or 
 (c) in such other case as may be prescribed by an Act of the National Assembly.
 
 (2) An appeal shall lie to the Supreme Court with the leave of the Court of Appeal from a judgment of the Court of Appeal in any cause or matter commenced in a court other than the High Court where the Court of Appeal is satisfied that the case involves a substantial question of law or it is in the public interest that the cause or matter should be heard by the Supreme Court.
-
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
-
 (3) An appeal shall lie to the Supreme Court with the leave of the Court from any other judgment of the Court of Appeal.
 
 (4) An appeal shall lie to the Supreme Court, in any case referred to in sub-section (1), (2) or (3) at the instance of a party to the proceedings in the Court of Appeal or with the leave of the Supreme Court or the Court of Appeal, at the instance of any other person having an interest in the matter or, in a criminal cause or matter, at the instance of the Attorney General acting in the interest of justice and for the avoidance of abuse of the legal process:
-
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
-
 Provided that in any appeal at the instance of the Attorney General, the Supreme Court shall have no power to reverse any acquittal at a court of first instance or reverse a judgment allowing an appeal against conviction of a criminal offence.
 
 #### B: THE COURT OF APPEAL
 
-#### Composition of Court of Appeal 129.
+#### Composition of Court of Appeal 129
 
 (1) There shall be a Court of Appeal of The Gambia which shall consist of-
 
@@ -2472,27 +2359,25 @@ Provided that no judge shall be selected under this paragraph unless he or she i
 
 Provided that a single judge of the Court may exercise the powers of the Court in any interlocutory matter, subject to an appeal from his or her decision to a bench of three judges of the Court;
 
-(3) The President of the Court of Appeal shall preside at sittings of the Court and, in his or her absence, the most senior of the other judges of the Court shall preside.
+(3) The President of the Court of Appeal shall preside at sittings of the Court. In his or her absence, the most senior of the other judges of the Court shall preside.
 
 (4) The President of the Court of Appeal may, in consultation with the Chief Justice, establish such divisions of the Court of Appeal as he or she thinks fit to sit at such places in The Gambia as he or she may determine.
 
-#### Jurisdiction of Court of Appeal 130.
+#### Jurisdiction of Court of Appeal 130
 
 (1) The Court of Appeal shall have jurisdiction to hear and determine appeals from judgments, decrees and orders of the High Court, and such other appellate jurisdiction as may be conferred on it by an Act of the National Assembly.
 
-(2) The Court of Appeal shall have jurisdiction in appeals from court martial in the manner provided by law.
+(2) The Court of Appeal shall have jurisdiction in appeals from Court martial in the manner provided by law.
 
 (3) An appeal shall lie as of right to the Court of Appeal from any judgment, decree or order of the High Court.
-
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
-
-(4) For the purpose of hearing and determining any appeal within its jurisdiction, the Court of Appeal shall have all the powers vested in the court from which the appeal is brought.
+(4) For the purpose of hearing and determining any appeal within its Jurisdiction, the Court of Appeal shall have all the powers vested in the court from which the appeal is brought.
 
 #### C: THE HIGH COURT
 
-#### Composition of The High Court 131.
+#### Composition of The High Court 131
 
 (1) There shall be a High Court of The Gambia which shall consist of-
 
@@ -2508,17 +2393,17 @@ Provided that a single judge of the Court may exercise the powers of the Court i
 
 (3) The High Court may sit at such places in The Gambia as the Chief Justice may determine, and he or she may establish permanent divisions of the Court to sit at various places throughout The Gambia and appoint judges of the Court to any such division.
 
-#### Jurisdiction of High Court 132.
+#### Jurisdiction of High Court 132
 
 (1) Save as provided in section 127, the High Court shall have original jurisdiction-
 
 (a) to hear and determine all civil and criminal proceedings;
 
-(b) to interpret and enforce the fundamental rights and freedoms as provided in sections 18 to 33 and section 36 (5), and in the exercise of such jurisdiction, the Court shall have all such power and authority as may be conferred by this Constitution or any other law.
+(b) to interpret and enforce the fundamental rights and freedoms as provided in section 18 to 33 and section 36 (5), and in the exercise of such jurisdiction, the Court shall have all such power and authority as may be conferred by this Constitution or any other law.
 
-(2) The High Court shall have such jurisdiction in appeals from courts subordinate to it (other than the Cadi Court) as may be prescribed by an Act of the National Assembly.
+(2) The High Court shall have such jurisdiction in appeals from courts subordinate to it (other than the cadi court) as may be prescribed by an Act of the National Assembly.
 
-#### Supervisory jurisdiction 133.
+#### Supervisory jurisdiction 133
 
 The High Court shall have supervisory jurisdiction over all lower courts and adjudicatory authorities in The Gambia, and in the exercise of its supervisory jurisdiction, shall have power to issue directions, orders, or writs, including writs of habeas corpus, orders of certiorari, mandamus and prohibition as it may consider appropriate for the purposes of enforcing its supervisory powers.
 
@@ -2527,52 +2412,57 @@ The High Court shall have supervisory jurisdiction over all lower courts and adj
 #### Special Criminal Court 134.
 
 (1) There shall be a Special Criminal Court which shall
-
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
 
-- be constituted by a panel consisting of a Chairman and not less than two other panel members
+be constituted by a panel consisting of a Chairman and not less than two other panel members.
 
-- A person shall not be appointed to be a Chairman of the Court unless he or she is qualified to be appointed a Judge of the High Court.
+(2) A person shall not be appointed to be a Chairman of the Court unless he or she is qualified to be appointed a Judge of the High Court.
 
-- 6 of 2001 (3) The members of the Court shall be appointed by the President in consultation with the Judicial Service Commission.
+6 of 2001
+
+(3) The members of the Court shall be appointed by the President in consultation with the Judicial Service Commission.
 
 #### Jurisdiction 135.
 The Court shall have jurisdiction to hear and determine all criminal offences relating to theft, misappropriation and other similar offences in which public funds and public property are affected.
 
-#### National 136. Assembly to make Further provision
-An  Act  of  the  National  Assembly  shall  make  further provision for the purposes of this sub-part.
+#### National Assembly to make further provision 136.
+An Act of the National Assembly shall make further provision for the purposes of this sub-part.
 
 ### PART 3: THE CADI COURT
 
 #### The Cadi Court 137.
 (1) A Cadi Court shall be established in such places in The Gambia as the Chief Justice shall determine.
 
-- The Cadi Court shall be composed-
+(2) The Cadi Court shall be composed-
 
-(a) for  hearings  at  first  instance,  by  a  panel consisting of the Cadi and two other scholars of the Sharia qualified to be a Cadi or Ulama; and
+(a) for hearings at first instance, by a panel consisting of the Cadi and two other scholars of the Sharia qualified to be a Cadi or Ulama; and
 
 Paragraph (b) (Deleted by No. 6 of 2001)
 
-- The decision of the majority of a panel of a Cadi Court shall constitute the decision of the Court.
+(3) The decision of the majority of a panel of a Cadi Court shall constitute the decision of the Court.
 
-- The Cadi Court shall only have jurisdiction to apply the Sharia in matters of marriage, divorce and inheritance where the parties or other persons interested are Muslims.
+(4) The Cadi Court shall only have jurisdiction to apply the Sharia in matters of marriage, divorce and inheritance where the parties or other persons interested are Muslims.
 
-Any party to a proceeding in the Cadi Court who is dissatisfied with a decision of the Court may appeal
+6 of 2001
 
-- 6 of 2001 (5) to the Cadi appeals Panel.
+(5) Any party to a proceeding in the Cadi Court who is dissatisfied with a decision of the Court may appeal to the Cadi Appeals Panel.
 
-- A person shall be required to be of high moral standing and professionally qualified in the Sharia in order to be appointed a Cadi or Ulama.
+(6) A person shall be required to be of high moral standing and professionally qualified in the Sharia in order to be appointed a Cadi or Ulama.
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
 
-(4) A party  to  proceedings  in  the  Cadi  Court  shall  be entitled to be represented, at his or her  own expense, by a person qualified in the Sharia.
+(7) A party to proceedings in the Cadi Court shall be entitled to be represented, at his or her own expense, by a person qualified in the Sharia.
 
-#### Cadi Appeals 137 A. Panel 6 of 2001
-(1) There  shall  be  a  Cadi  Appeals  Panel  which  shall consist of(a) a Chairperson; and
+#### Cadi Appeals Panel 137 A.
+6 of 2001
+
+(1) There shall be a Cadi Appeals Panel which shall consist of-
+
+(a) a Chairperson; and
 
 (b) not less than four other members.
 
@@ -2582,11 +2472,17 @@ Any party to a proceeding in the Cadi Court who is dissatisfied with a decision 
 
 (4) The Chairperson and other members of the Panel shall be appointed by a Cadi Appeals Selection Committee which shall consist of-
 
-(a) the Chief Justice; (b) the Attorney General; and (c) a  member  of  the  Supreme  Islamic  Council nominated by that Council. A person shall not be qualified for appointment to
+(a) the Chief Justice;
 
-- the Panel-
+(b) the Attorney General; and
 
-(a) as a Chairperson, unless the person(i) is a legal practitioner and has been so qualified for a period of not less than five years, and
+(c) a member of the Supreme Islamic Council nominated by that Council.
+
+(5) A person shall not be qualified for appointment to the Panel-
+
+(a) as a Chairperson, unless the person-
+
+(i) is a legal practitioner and has been so qualified for a period of not less than five years, and
 
 (ii) is professionally qualified in the Sharia;
 
@@ -2602,78 +2498,79 @@ Any party to a proceeding in the Cadi Court who is dissatisfied with a decision 
 
 ### PART 4: THE JUDGES
 
-#### Appointment 138. of judges
+#### Appointment of judges 138.
 
-#### Qualifications for 139. appointment of judges 6 of 2001
+(1) The Chief Justice shall be appointed by the President after consultation with the Judicial Service Commission.
 
-- The Chief Justice shall be appointed by the President after consultation with the Judicial Service Commission.
+(2) All other judges of the superior courts except the judges of the Special Criminal Court shall be appointed by the President on the recommendation of the Judicial Service Commission.
 
-- All other judges of the superior courts except the judges of the Special Criminal Court shall be appointed by the President on the recommendation of the Judicial Service Commission.
+(3) Appointments of judges of the Superior Courts shall be by warrant signed by the President and sealed with the Public Seal.
 
-- Appointments of judges of the Superior courts shall be by warrant signed by the President and sealed with the Public Seal.
+(4) Before assuming the functions of his or her office, a judge of the superior courts shall take the prescribed oaths.
 
-- Before assuming the functions of his or her office, a judge of the superior courts shall take the prescribed oaths.
+#### Qualifications for appointment of judges 139.
+6 of 2001
 
-- A person shall be qualified for appointment as Chief Justice if he or she is qualified to be appointed Judge of the Supreme Court or has been a Judge of a superior court of a common law country for not less than ten years.
+(1) A person shall be qualified for appointment as Chief Justice if he or she is qualified to be appointed a Judge of the Supreme Court or has been a Judge of a superior court of a common law country for not less than ten years.
 
-- A person shall be qualified to be appointed a judge of the Supreme Court if he or she holds or has held office as a judge of the Court of appeal, or as a judge of a court having similar Jurisdiction in a common law country, in each case for not less than five years, or if he or she has practices as a legal practitioner before a court having unlimited jurisdiction in civil and criminal matters in a common law country for not less than twelve years.
+(2) A person shall be qualified to be appointed a judge of the Supreme Court if he or she holds or has held office as a judge of the Court of Appeal, or as a judge of a court having similar jurisdiction in a common law country, in each case for not less than five years, or if he or she has practised as a legal practitioner before a court having unlimited jurisdiction in civil and criminal matters in a common law country for not less than twelve years.
 
-- A  person  shall  be  qualified  to  be  appointed  as  a judge of the Court of Appeal if he or she holds or has held office as a judge of the high Court, or as a judge  of  a  court  having  similar  jurisdiction  in  a common law country, in each case for not less than five  years,  or  if  he  or  she  has  practised  as  a  legal practitioner before a court having unlimited jurisdiction in civil and criminal matters in a common law country for not less than eight years.
+(3) A person shall be qualified to be appointed as a judge of the Court of Appeal if he or she holds or has held office as a judge of the High Court, or as a judge of a court having similar jurisdiction in a common law country, in each case for not less than five years, or if he or she has practised as a legal practitioner before a court having unlimited jurisdiction in civil and criminal matters in a common law country for not less than eight years.
 
-- A person shall be qualified to be appointed as a judge of the High court if he or she holds or has held office as a Principle Magistrate or Master in The Gambia, or an office, which is the opinion of the Judicial Service Commission, enjoys a
+(4) A person shall be qualified to be appointed as a judge of the High Court if he or she holds or has held office as a Principal Magistrate or Master in The Gambia, or an office which, in the opinion of the Judicial Service Commission, enjoys a
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
 
-#### Vacancy in office of 140. Chief Justice
-
-#### Tenure of office   141. of judges
 comparable jurisdiction in a common law country, in each case for not less than five years, or if he or she has practised as a legal practitioner before a court having unlimited jurisdiction in civil and criminal matters in a common law country for not less than five years.
 
-- In this section, :common law country' means-
+(5) In this section, “common law country” means-
 
 (a) a country within the Commonwealth; or
 
-(b) a country outside the Commonwealth prescribed by an Act of the National Assembly for the purposes of this Assembly for the purposes of this section the courts of which exercise a common law jurisdiction.
+(b) a country outside the Commonwealth prescribed by an Act of the National Assembly for the purposes of this section, the courts of which exercise a common law jurisdiction.
 
-In the event of there being a vacancy in the office of the Chief Justice, or if he or she is, for any reason unable to perform the functions of his  or her office, the President may appoint the most senior judge of the Supreme Court to act in that office-
+#### Vacancy in office of Chief Justice 140.
+In the event of there being a vacancy in the office of the Chief Justice, or if he or she is, for any reason, unable to perform the functions of his or her office, the President may appoint the most senior judge of the Supreme Court to act in that office-
 
-(a) until a person has been substantively appointed  to,  and  assumed  the  functions  of that office; or
+(a) until a person has been substantively appointed to, and assumed the functions of that office; or
 
-(b) until the Chief Justice has  resumed  the functions  of  his  or  her  office,  as  the  case may  be.    A  vacancy  in  the  office  of  chief justice shall be filled by a substantive appointment within six months.
+(b) until the Chief Justice has resumed the functions of his or her office, as the case may be. A vacancy in the office of Chief Justice shall be filled by a substantive appointment within six months.
 
-- No office of judge shall be abolished while there is a substantive holder thereto.
+#### Tenure of office of judges 141.
 
-- Subject to the provisions of this section, a judge of a Superior Court-
+(1) No office of judge shall be abolished while there is a substantive holder thereto.
 
-(a) may  retire  on  pension  at  any  time  after attaining the age of sixty five years;
+(2) Subject to the provisions of this section, a judge of a Superior Court-
+
+(a) may retire on pension at any time after attaining the age of sixty five years;
 
 (b) shall vacate the office of judge on attaining the age of seventy years; or
 
-(c) may have his or her appointment terminated by  the  President  in  consultation  with  the Judicial Service Commission.
+(c) may have his or her appointment terminated by the President in consultation with the Judicial Service Commission.
 
-- Notwithstanding that he or she has attained the age at which he or she is required to vacate his or her office as provided in this section, a person holding the office of judge may continue in office for a
+(3) Notwithstanding that he or she has attained the age at which he or she is required to vacate his or her office as provided in this section, a person holding the office of judge may continue in office for a
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
 
+period of six months after attaining that age to enable him or her to deliver judgment or do any other thing in relation to proceedings that were commenced before him or her previously thereto.
+
 6 of 2001
 
-period of six months after attaining that age to enable  him  or  her  to  deliver  judgment  or  do  any other thing in relation to proceedings that were commenced before him or her previously thereto.
+(4) The Chief Justice, a justice of the Supreme Court, the Court of Appeal and the High Court and members of the Special Criminal Court may only be removed from office for inability to perform the functions of his or her judicial office, whether arising from infirmity of body or mind, or for misconduct.
 
-- The Chief Justice, a justice of the Supreme Court, the Court of Appeal and the High  court and members of the Special Criminal Court may only be removed  from  office  for  inability  to  perform  the functions  of  his  or  her  judicial  office,  whether arising  from  infirmity  of  body  or  mind,  or  for misconduct.
+(5) A judge may be removed from his or her office if notice in writing is given to the Speaker, signed by not less than one-half of all the voting members of the National Assembly, of a motion that the judge is unable to exercise the functions of his or her office on any of the grounds stated in subsection (4) and proposing that the matter should be investigated under this section.
 
-- A judge may be removed from his or her office if notice in writing is given to the Speaker, signed by not less than one-half of all the voting members of the National Assembly, of a motion that judge is unable to exercise the functions of his or her office on any of the grounds stated in subsection (4) and proposing that the matter should be investigated under this section.
+(6) Where a notice of a motion is received by the Speaker under subsection (5), the Speaker shall forthwith cause a vote to be taken on the motion without debate.
 
-- Where a notice of a motion is received by the Speaker under subsection (5), the Speaker shall forthwith cause a vote to be taken on the motion without debate
+(7) If such motion is adopted by the votes of not less than two-thirds of all the members of the National Assembly-
 
-- If such motion is adopted by the votes of not less than two-thirds of all the members of the National assembly-
+(a) The National Assembly shall, by resolution, appoint a tribunal consisting of three persons, at least one of whom shall hold or shall have held high judicial office, who shall be the chairman of the tribunal;
 
-(a) The National Assembly  shall, by resolution, appoint a tribunal consisting  of  three  persons,  at  least one of whom shall hold or shall have held high judicial office who shall be the chairman of the tribunal;
-
-(b) the tribunal shall investigate the matter and shall report to the National Assembly through the Speaker  whether  or  not  it  finds  the allegations  specified  in  the  motion have been substantiated.
+(b) the tribunal shall investigate the matter and shall report to the National Assembly through the Speaker whether or not it finds the allegations specified in the motion have been substantiated;
 
 (c) If the tribunal reports to the National Assembly that it finds the particulars
 
@@ -2681,87 +2578,87 @@ period of six months after attaining that age to enable  him  or  her  to  deliv
 
 [[START OF PAGE 81]]
 
-of any such allegation have not been substantiated, no further proceedings shall  be  taken  under  this  section  in respect of that allegation;
+of any such allegation have not been substantiated, no further proceedings shall be taken under this section in respect of that allegation;
 
-(d) If the tribunal reports to the National Assembly that it finds that the particulars of any such allegation have been substantiated, the National Assembly shall consider the report at the first convenient sitting and if, on a  motion  supported  by  the  votes  of not  less  than  two-thirds  of  all  the members, the National Assembly resolves  that  the  judge  be  removed from office, the judge shall immediately cease to hold office.
+(d) If the tribunal reports to the National Assembly that it finds that the particulars of any such allegation have been substantiated, the National Assembly shall consider the report at the first convenient sitting and if, on a motion supported by the votes of not less than two-thirds of all the members, the National Assembly resolves that the judge be removed from office, the judge shall immediately cease to hold office.
 
-- where a tribunal is established under this section in respect of any judge, the judge shall stand suspended from office.  The suspension Shall Cease to have effect if the tribunal reports that none of the allegations against the judge has been substantiated or if a motion for his or her removal from office is not supported  as provided  in paragraph  (d) of subsection (7).
+(8) Where a tribunal is established under this section in respect of any judge, the judge shall stand suspended from office. The suspension shall cease to have effect if the tribunal reports that none of the allegations against the judge has been substantiated or if a motion for his or her removal from office is not supported as provided in paragraph (d) of subsection (7).
 
-- All proceedings in a tribunal under this section shall be  held  in  camera  and  the  judge  concerned  shall have the right to appear and be legally represented before the tribunal.
+(9) All proceedings in a tribunal under this section shall be held in camera and the judge concerned shall have the right to appear and be legally represented before the tribunal.
 
-#### Remuneration 142. Of judges
+#### Remuneration of judges 142.
 
-- A judge of a superior court shall be entitled to such salary, allowances, and on retirement such gratuity and pension, as may be prescribed by an Act of the National assembly.
+(1) A judge of a superior court shall be entitled to such salary, allowances, and on retirement such gratuity and pension, as may be prescribed by an Act of the National Assembly.
 
-- The salary, allowances, retirement gratuity and pension of a judge, as so prescribed at the time of his or her appointment, shall not be varied to his or her disadvantage.
+(2) The salary, allowances, retirement gratuity and pension of a judge, as so prescribed at the time of his or her appointment, shall not be varied to his or her disadvantage.
 
 ### PART 5: ADMINISTRATION OF THE COURTS
 
-#### 143 Administrative provision for the
-(1) In the exercise of his or her responsibilities administration of the courts, the Chief Justice may issue orders and directions for the proper and efficient operation of the courts.
---- | ---
+#### Administrative provision 143
+(1) In the exercise of his or her responsibilities for the administration of the courts, the Chief Justice may issue orders and directions for the proper and efficient operation of the courts.
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
 
+(2) There shall be a Judicial Secretary to assist the Chief Justice in the exercise of his or her responsibilities for the administration of the courts and financial matters. The Judicial Secretary shall be responsible to the Chief Justice for the performance of his or her duties.
+
 6 of 2001
 
-- There shall be a Judicial Secretary to assist the Chief Justice in the exercise of his or her responsibilities for the administration of the courts and financial matters.  The Judicial Secretary shall be responsible to the Chief Justice for the performance of his or her duties.
-
-- The Judicial Secretary shall be appointed by the President on the advice of the Judicial Service Commission.
+(3) The Judicial Secretary shall be appointed by the President on the advice of the Judicial Service Commission.
 
 #### Financial 144
 
-- The Chief Justice shall submit the annual estimates of expenditure for the Judicature to the President for presentation to the National Assembly in accordance with this Constitution.  The President shall cause the estimates to be placed before the National Assembly without amendment, but may attach to them his or her own comments and observations.
+(1) The Chief Justice shall submit the annual estimates of expenditure for the Judicature to the President for presentation to the National Assembly in accordance with this Constitution. The President shall cause the estimates to be placed before the National Assembly without amendment, but may attach to them his or her own comments and observations.
 
-- The Judicature shall be self-accounting, and the moneys  charged  on  the  Consolidated  Fund  or appropriated by an Act of the National Assembly  for  the  Judicature,  shall  be  paid  by the Accountant General to the accounting officer  for  the  Judicature  as  required  by  the Chief Justice.
+(2) The Judicature shall be self-accounting, and the moneys charged on the Consolidated Fund or appropriated by an Act of the National Assembly for the Judicature, shall be paid by the Accountant General to the accounting officer for the Judicature as required by the Chief Justice.
 
-### PART  6 : THE JUDICIAL SERVICE COMMISSION
+### PART 6: THE JUDICIAL SERVICE COMMISSION
 
-#### The Judicial service 145 Commission 6 of 2001
+#### The Judicial Service Commission 145
+6 of 2001
 
-- There shall be a Judicial service commission which shall consist of -
+(1) There shall be a Judicial Service Commission which shall consist of-
 
 (a) the Chief Justice, who shall be Chairman;
 
 (b) a judge of a superior court;
 
-(c) the solicitor General;
+(c) the Solicitor General;
 
-(d) a  legal  practitioner  of  at  least  five years  standing  at  The  Gambia  Bar, nominated  by  the  Attorney  General in consultation with The Gambia Bar Association;
+(d) a legal practitioner of at least five years standing at The Gambia Bar, nominated by the Attorney General in consultation with The Gambia Bar Association;
 
 (e) one person appointed by the President; and
 
 (f) one person nominated by the National Assembly.
 
-- The members of the Commission (other than the members referred to in paragraphs (a) (e)
+(2) The members of the Commission (other than the members referred to in paragraphs (a), (c), (e)
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
-and (g) of subsection (1) shall be appointed by the President in consultation with the Chief  Justice and subject to confirmation by the National Assembly.
+and (f) of subsection (1)) shall be appointed by the President in consultation with the Chief Justice and subject to confirmation by the National Assembly.
 
-- A member of the  National  Assembly  shall  not be  qualified  to  be  appointed  a  member  of  the Commission.
+(3) A member of the National Assembly shall not be qualified to be appointed a member of the Commission.
 
-- Subject  to  subsection  (5),  a  member  of  the Commission shall hold office for a term of three years and may be re-appointed.
+(4) Subject to subsection (5), a member of the Commission shall hold office for a term of three years and may be re-appointed.
 
-- A member of the Commission shall vacate his or  her  office  if  he  or  she  ceases  to  hold  the office  specified  in  subsection  (1)  by  virtue  of which he or she was appointed or if he becomes a member of the National Assembly.
+(5) A member of the Commission shall vacate his or her office if he or she ceases to hold the office specified in subsection (1) by virtue of which he or she was appointed or if he or she becomes a member of the National Assembly.
 
-- A member of the Commission (other than an ex officio member) may be removed from office by the President with the approval of the National Assembly, but may only be removed for inability  to  exercise  the  functions  of  his  or  her office  (whether  arising  from  infirmity  of  mind or body or for any other cause) or for misbehaviour.  A member shall be entitled to be heard  in  person  or  by  a  legal  representative against any proposal to remove him or her.
+(6) A member of the Commission (other than an ex officio member) may be removed from office by the President with the approval of the National Assembly, but may only be removed for inability to exercise the functions of his or her office (whether arising from infirmity of mind or body or for any other cause) or for misbehaviour. A member shall be entitled to be heard in person or by a legal representative against any proposal to remove him or her.
 
-- If  a  member  of  the  Commission  is,  for  any reason, unable to exercise the functions of his or her  office  for  a  limited  period,  the  President, acting  in  accordance  with  the  advice  of  the Chief  Justice,  may  appoint  a  person  similarly qualified to act in his or her place.
+(7) If a member of the Commission is, for any reason, unable to exercise the functions of his or her office for a limited period, the President, acting in accordance with the advice of the Chief Justice, may appoint a person similarly qualified to act in his or her place.
 
-- A  member  of  the  Commission  shall  not  enter upon the duties of his  or  her  office  until  he  or she  has  taken  and  subscribed  to  the  prescribed oaths.
+(8) A member of the Commission shall not enter upon the duties of his or her office until he or she has taken and subscribed to the prescribed oaths.
 
-#### Appointment of 146. judicial of Officers and Court staff
+#### Appointment of judicial officers and Court staff 146.
 
-- The power to appoint persons to hold or act in any office to which this subsection applies shall vest in the Judicial Service Commission.
+(1) The power to appoint persons to hold or act in any office to which this subsection applies shall vest in the Judicial Service Commission.
 
 Provided that the Commission may, with the approval of the Chief Justice and subject to any conditions as it may think fit, delegate the powers referred to in this subsection to any judge or to the holder of any office to which this subsection applies.
 
-- Subsection (1) applies to the offices of-
+(2) Subsection (1) applies to the offices of-
 
 [[END OF PAGE 83]]
 
@@ -2769,37 +2666,35 @@ Provided that the Commission may, with the approval of the Chief Justice and sub
 
 (a) Master, Registrar and Assistant Registrar of a superior court;
 
-(b) The office of magistrate;
+(b) the office of magistrate;
 
-(c) The office of a member  of any subordinate court; and
+(c) the office of a member of any subordinate court; and
 
-(d) Such  other  offices  of  a  member  of any court as may be prescribed by an Act of the National Assembly.
+(d) such other offices of a member of any court as may be prescribed by an Act of the National Assembly.
 
-- The appointment of other officers and staff of the courts shall be made by the Chief Justice or such, other judge or officer of the court as the Chief Justice after consultation with  the  Judicial  Service  Commission  may direct.
+(3) The appointment of other officers and staff of the courts shall be made by the Chief Justice or such other judge or officer of the court as the Chief Justice after consultation with the Judicial Service Commission may direct.
 
-#### Other functions 147. of the Commission
+#### Other functions of the Commission 147.
 
 In addition to the other functions conferred on the Judicial Service Commission by this Constitution, the Commission shall have power-
 
-(a) to  advise  the  President  in  the  exercise  of  their powers relating to the appointment of judges;
+(a) to advise the President in the exercise of their powers relating to the appointment of judges;
 
-(b) to  make  recommendations  as  to  the  terms  and conditions  of  service  of  judges  and  other  judicial officer and officers and staff of the courts;
+(b) to make recommendations as to the terms and conditions of service of judges and other judicial officers and officers and staff of the courts;
 
-(c) to  make  proposals  to  improve  the  administration and efficiency of the courts;
+(c) to make proposals to improve the administration and efficiency of the courts;
 
-(d) to prepare  and  implement  programmes  for  the education of the public about the administration of justice; and
+(d) to prepare and implement programmes for the education of the public about the administration of justice; and
 
 (e) to exercise such other functions as may be conferred on it by an Act of the National Assembly.
 
-#### Operation and 148 Procedure
+#### Operation and Procedure 148
 
-(1) In the exercise of its functions under this Constitution, the Judicial Service Commission shall not be subject to the
+(1) In the exercise of its functions under this Constitution, the Judicial Service Commission shall not be subject to the direction or control of any other person or authority.
 
-direction or control of any other person or authority.
+(2) The Commission may by rules or otherwise regulate its own procedure.
 
-- The Commission may by rules or otherwise regulate its own procedure.
-
-- The Commission may, subject to its rules of procedure, act notwithstanding any vacancy in its membership or the absence of a member.
+(3) The Commission may, subject to its rules of procedure, act notwithstanding any vacancy in its membership or the absence of a member.
 
 Provided that any decision of the Commission shall require the concurrence of a majority.
 
@@ -2815,59 +2710,60 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 #### Taxation 149.
 
-- No taxation shall be imposed except by or under the authority of an Act of the National assembly
+(1) No taxation shall be imposed except by or under the authority of an Act of the National Assembly.
 
-- An Act of the National Assembly may make provision -
+(2) An Act of the National Assembly may make provision-
 
-(a) for  the  collection  of  taxes  proposed  to  be  imposed  or altered  in  a  Bill  which  has  been  presented  to  the National  Assembly  during  a  period  of  four  months from the date of presentation or such longer period as may be specified in a resolution passed by the National Assembly after the Bill has been presented; or
+(a) for the collection of taxes proposed to be imposed or altered in a Bill which has been presented to the National Assembly during a period of four months from the date of presentation or such longer period as may be specified in a resolution passed by the National Assembly after the Bill has been presented; or
 
-(b) for  any  local  government authority established by law to  impose  taxation  within  the  area  for  which  such authority is established, and to alter such taxation, but no provision shall include the power to waive any tax due.
+(b) for any local government authority established by law to impose taxation within the area for which such authority is established, and to alter such taxation, but no provision shall include the power to waive any tax due.
 
-- Where any law confers power on any person or authority to waive  or  vary  a  tax  imposed  by  any  law,  the  exercise  of that  power  in  favour  of  any  person  or  authority  shall  be subject to the approval of the National Assembly.
+(3) Where any law confers power on any person or authority to waive or vary a tax imposed by any law, the exercise of that power in favour of any person or authority shall be subject to the approval of the National Assembly.
 
-#### Consolidated 150 Fund
+#### Consolidated Fund 150
 
-- There shall be a Consolidated Fund into which shall be paid
+(1) There shall be a Consolidated Fund into which shall be paid-
 
-(a) all  revenues  or  other  money  raised  or  received  for the  purpose  of,  or  on  behalf  of,  the  Government, and
+(a) all revenues or other money raised or received for the purpose of, or on behalf of, the Government; and
 
-(b) any other money raised or received in trust for, or on behalf of the Government
+(b) any other money raised or received in trust for, or on behalf of the Government.
 
-- Notwithstanding  subsection  (1),  and  Act  of  the  National Assembly may provide-
+(2) Notwithstanding subsection (1), an Act of the National Assembly may provide-
 
-(a) for  the  payment  of  particular  revenue  or  other money  into  some  other  fund  established  for a specific purpose; or
+(a) for the payment of particular revenue or other money into some other fund established for a specific purpose; or
 
-(b) for the retention of revenue or other money by the department  of  Government  that  received  it  for  the purpose of defraying the expenses of that department .
+(b) for the retention of revenue or other money by the department of Government that received it for the purpose of defraying the expenses of that department.
 
-#### withdrawal from 151 Consolidated and  other funds
+#### Withdrawal from Consolidated and other funds 151
 
-(1) No money shall be withdrawn from the Consolidated Fund Funds  except -
+(1) No money shall be withdrawn from the Consolidated Fund except-
 
-(a) to  meet  expenditure  charged  on  that  Fund  by  this Constitution or an Act of the National Assembly; or
+(a) to meet expenditure charged on that Fund by this Constitution or an Act of the National Assembly; or
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
 
-6 of 2001
-
 (b) where the issue of that money has been authorised by an Appropriation Act, a supplementary Appropriation Act or in accordance with subsection (4) of this section.
 
-- No money shall be withdrawn from any other public fund of  The  Gambia  unless  the  issue  of  that  money  has  been authorised by law.
+(2) No money shall be withdrawn from any other public fund of The Gambia unless the issue of that money has been authorised by law.
 
-- No money shall be withdrawn from the Consolidated Fund or  any  other  public  fund  of  The  Gambia  (including  a withdrawal under subsection (4)) unless the withdrawal has been approved by the Auditor-General or a member of the National  Audit  Office  designated  by  him  or  her  for  the purpose and it is made in the manner prescribed by an Act of the National Assembly.
+(3) No money shall be withdrawn from the Consolidated Fund or any other public fund of The Gambia (including a withdrawal under subsection (4)) unless the withdrawal has been approved by the Auditor-General or a member of the National Audit Office designated by him or her for the purpose and it is made in the manner prescribed by an Act of the National Assembly.
 
-- If the appropriation Bill in respect of any financial year has not been passed into law by the beginning of that financial year, the President may authorise the withdrawal of money from  the  Consolidated  Fund  for  the  purposes  of  meeting expenditure  necessary  to  carry  on  the  services  of  the Government for a period not exceeding four months from the beginning of the financial year.
+(4) If the Appropriation Bill in respect of any financial year has not been passed into law by the beginning of that financial year, the President may authorise the withdrawal of money from the Consolidated Fund for the purposes of meeting expenditure necessary to carry on the services of the Government for a period not exceeding four months from the beginning of the financial year.
 
-- The withdrawal of funds in accordance with subsection (4) shall  not  exceed  one  third  of  the  sums  authorised  for  the relevant services by the Appropriation Act for the immediately preceding financial year.
+(5) The withdrawal of funds in accordance with subsection (4) shall not exceed one third of the sums authorised for the relevant services by the Appropriation Act for the immediately preceding financial year.
 
-- Where money is charged on the Consolidated Fund or any other public fund by law, it shall be paid out of that fund to the person or authority to whom it is due.
+(6) Where money is charged on the Consolidated Fund or any other public fund by law, it shall be paid out of that fund to the person or authority to whom it is due.
 
-#### Annual estimates 152 And appropriation 6 of 2001
+#### Annual estimates and appropriation 152
+6 of 2001
 
-- The President shall cause the Secretary of State responsible for finance to prepare and lay before the National Assembly at least thirty days before the end of the financial year, estimates of the revenue and expenditure of The Gambia for the following  financial year.   The estimates shall include any estimates which, under this Constitution, are to be submitted directly to the President by the Chief Justice or any other authority for presentation by the President to the National Assembly.
+(1) The President shall cause the Secretary of State responsible for finance to prepare and lay before the National Assembly at least thirty days before the end of the financial year, estimates of the revenue and expenditure of The Gambia for the following financial year. The estimates shall include any estimates which, under this Constitution, are to be submitted directly to the President by the Chief Justice or any other authority for presentation by the President to the National Assembly.
 
-(1A) The National Assembly shall, within fourteen days of the estimates  being  laid  before  it,  give  consideration  to  and approve the estimates.
+6 of 2001
+
+(1A) The National Assembly shall, within fourteen days of the estimates being laid before it, give consideration to and approve the estimates.
 
 Subsection (2) (Deleted by No. 6 of 2001)
 
@@ -2875,135 +2771,129 @@ Subsection (2) (Deleted by No. 6 of 2001)
 
 [[START OF PAGE 87]]
 
-6 of 2001
+(3) When estimates of expenditure have been approved by the National Assembly, an Appropriation Bill shall be introduced in the National Assembly for the issue from the Consolidated Fund of the sums necessary to meet that expenditure (other than expenditure charged on the Consolidated Fund), under separate votes for the several services required and for the purposes specified therein.
 
-- when estimate of expenditure have been approved by the National Assembly, an Appropriation Bill shall be introduced in the National Assembly for the issue from the Consolidated  Fund  of  the  sums  necessary  to  meet  that expenditure (other than expenditure charge on the Consolidated  Fund),  under  separate  votes  for  the  several services required and for the purposes specified there in.
+6 of 2001
 
 (3A) The National Assembly shall, within seven days of the introduction of the Appropriation Bill, give consideration to and pass the Bill.
 
-- In  addition  to  presenting  the  estimates  for  the  following financial year, the President may cause to be prepared and presented to the National Assembly-
+(4) In addition to presenting the estimates for the following financial year, the President may cause to be prepared and presented to the National Assembly-
 
-(a) fiscal and monetary programmes and plans for economic  and  social  development  covering  periods exceeding one year, and
+(a) fiscal and monetary programmes and plans for economic and social development covering periods exceeding one year, and
 
 (b) estimates of revenue and expenditure in respect of such programmes and plans.
 
-- The chief Justice and any other authority which is entitled to  draw  up  its  own  estimates  for  presentation  by  the president  to  the  National  Assembly  shall  provides  the President with such estimates at least ninety days before the end of the previous financial year.
+(5) The Chief Justice and any other authority which is entitled to draw up its own estimates for presentation by the President to the National Assembly shall provide the President with such estimates at least ninety days before the end of the previous financial year.
 
-- An Act of the National Assembly may make provision to give effect to this section.
+(6) An Act of the National Assembly may make provision to give effect to this section.
 
-#### Supplementary 153 Appropriation
-(1) subject to section 154, if in respect of any financial year it is found that the amount appropriated under the Appropriation Act is insufficient or that a need has arisen for a purpose for which no amount has been appropriated by that Act a supplementary estimate showing the sums required shall be laid before the National Assembly before the expenditure has been incurred.
+#### Supplementary Appropriation 153
 
-- Where  a  supplementary  estimate  or  estimates  have  been approved  by  the  National  Assembly,  a  supplementary appropriation  Bill  shall  be  introduced  into  the  National Assembly for the appropriation of the sums so approved.
+(1) Subject to section 154, if in respect of any financial year it is found that the amount appropriated under the Appropriation Act is insufficient or that a need has arisen for a purpose for which no amount has been appropriated by that Act, a supplementary estimate showing the sums required shall be laid before the National Assembly before the expenditure has been incurred.
 
-Provided  that  the  President  shall  not  authorise  any  expenditure from  the  contingencies  Fund  in  excess  of  one  percent  of  the estimates approved by the National Assembly for the current year before he or she has caused a supplementary estimate in respect of such excess a expenditure to be presented to the Nation Assembly.
+(2) Where a supplementary estimate or estimates have been approved by the National Assembly, a supplementary appropriation Bill shall be introduced into the National Assembly for the appropriation of the sums so approved.
+
+#### Contingencies Fund 154
+
+(1) An Act of the National Assembly may make provision for the establishment of a Contingencies Fund and for authorising the President, if he or she is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from the Fund to meet that need.
+
+Provided that the President shall not authorise any expenditure from the Contingencies Fund in excess of one percent of the estimates approved by the National Assembly for the current year before he or she has caused a supplementary estimate in respect of such excess expenditure to be presented to the National Assembly.
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
 
-- where any advance is made from the Contingencies Fund, a supplementary estimate shall be presented, and a Supplementary  Appropriation  Bill  shall  be  introduced  for the  purpose  of  replacing  the  amount  so  advanced  with ninety days of the advance being made.
+(2) Where any advance is made from the Contingencies Fund, a supplementary estimate shall be presented, and a Supplementary Appropriation Bill shall be introduced for the purpose of replacing the amount so advanced within ninety days of the advance being made.
 
 #### Loans 155
-(1) the National Assembly may by resolution supported by the Government to enter into an agreement for the granting for
 
-- votes of a majority of all the members, authorise the a loan out of any public fund or public account.
+(1) The National Assembly may by resolution supported by the votes of a majority of all the members, authorise the Government to enter into an agreement for the granting of a loan out of any public fund or public account.
 
-- An agreement to which subsection (1) refers shall be laid before  the  National  Assembly  and  shall  not  come  into effect until it is approved by the National Assembly.
+(2) An agreement to which subsection (1) refers shall be laid before the National Assembly and shall not come into effect until it is approved by the National Assembly.
 
-- No loan shall be raised by the Government on behalf of itself or any other person or authority otherwise than by or under the authority of an Act of the National Assembly.
+(3) No loan shall be raised by the Government on behalf of itself or any other person or authority otherwise than by or under the authority of an Act of the National Assembly.
 
-- An Act of the National Assembly authorising the raising of a loan shall provide -
+(4) An Act of the National Assembly authorising the raising of a loan shall provide-
 
-(a) that the  terms and conditions of a loan shall be laid before  the  National  Assembly  and  that  the  loan agreement shall not come into operation until they have been approved by the National Assembly; and
+(a) that the terms and conditions of a loan shall be laid before the National Assembly and that the loan agreement shall not come into operation until they have been approved by the National Assembly; and
 
-(b) that any money received in respect of a loan shall be paid  into  the  Consolidated  Fund  or  some  Other public fund of The Gambia.
+(b) that any money received in respect of a loan shall be paid into the Consolidated Fund or some other public fund of The Gambia.
 
-- An  Act  of  the  National  Assembly  may  provide  for  the application of this section, with any necessary modifications, to -
+(5) An Act of the National Assembly may provide for the application of this section, with any necessary modifications, to-
 
 (a) any guarantee by the Government; or
 
 (b) an international business or economic transaction to which the Government proposes to become a party.
 
-- The President shall, at such times as the National Assembly may  require, present to the National Assembly  such information as he or she may have relating to -
+(6) The President shall, at such times as the National Assembly may require, present to the National Assembly such information as he or she may have relating to-
 
 (a) the granting of loans, their servicing and repayment;
 
-(b)
+(b) the payment into the Consolidated Fund or other public fund of money derived from loans raised from institutions outside The Gambia.
 
-the  payment  into  the  Consolidated  Fund  or  other
+#### Salaries etc. Charged on Consolidated Fund 156
 
-public fund of money derived from loans raised on
-
-institutions outside The Gambia
-
-#### Salaries etc. 156 Charged  on Consolidated Fund
-
-(1)
-
-The salaries and allowance, and the retirement benefits, of the holder of the offices to which this section applies shall be a charge on the Consolidated Fund.
+(1) The salaries and allowances, and the retirement benefits, of the holder of the offices to which this section applies shall be a charge on the Consolidated Fund.
 
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
 
-- This section applies to the offices of -
+(2) This section applies to the offices of-
 
-(a) the President and the Vice-President ;
+(a) the President and the Vice-President;
 
-(b) the Speaker
+(b) the Speaker;
 
 (c) a judge of a superior court;
 
 (d) a member of the Independent Electoral Commission;
 
-(e) the Auditor general;
+(e) the Auditor General;
 
 (f) the Ombudsman; and
 
 (g) the Director of Public Prosecutions.
 
 #### The Public Debt 157
+
 (1) The public debt of The Gambia shall be a charge on the Consolidated Fund and such other public fund as an Act of the National Assembly may prescribe.
 
-- for  the  purposes  of  this  section,  the  public  debt  includes interest on the debt, sinking fund payments and redemption money  in  respect  of  that  debt,  and  all  costs,  charges  and expenses  incidental  to  the  management  and  repayment  of that debt.
+(2) For the purposes of this section, the public debt includes interest on the debt, sinking fund payments and redemption money in respect of that debt, and all costs, charges and expenses incidental to the management and repayment of that debt.
 
 ### PART 2: THE AUDITOR GENERAL AND THE NATIONAL AUDIT OFFICE
 
-#### The Auditor 158 General
+#### The Auditor General 158
+
 (1) There shall be an Auditor-General whose office shall be an office in the public service.
 
-- The Auditor-General shall be appointed by the President after consultation with the Public Service Commission.
+(2) The Auditor-General shall be appointed by the President after consultation with the Public Service Commission.
 
-- Before assuming the functions of his or her office the Auditor General shall take and subscribe to the prescribed oaths.
+(3) Before assuming the functions of his or her office the Auditor General shall take and subscribe to the prescribed oaths.
 
-- Subject to the other provisions of this section, a person holding the office of Auditor-General shall vacate his or her office when he or she attains the compulsory retirement age, or upon the termination of his or her appointment by the President.
+(4) Subject to the other provisions of this section, a person holding the office of Auditor-General shall vacate his or her office when he or she attains the compulsory retirement age, or upon the termination of his or her appointment by the President.
 
-- A person holding the office of Auditor General may be removed from office only for inability to perform the functions of his or her office (whether from infirmity of mind  or body or from any other cause) or for misbehaviour or incompetence.
+(5) A person holding the office of Auditor General may be removed from office only for inability to perform the functions of his or her office (whether from infirmity of mind or body or from any other cause) or for misbehaviour or incompetence.
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
-#### National Audit  Office 159.
-(1) There shall be a National Audit Office in the public services of which the Auditor General shall be the head, and the other members which shall assist the Auditor General in the performance of the functions conferred on him or her by this Constitution or any Act of the National Assembly.
+#### National Audit Office 159.
 
-- Subject to any Act of the National Assembly, the staff of
+(1) There shall be a National Audit Office in the public service of which the Auditor General shall be the head, and the other members of which shall assist the Auditor General in the performance of the functions conferred on him or her by this Constitution or any Act of the National Assembly.
 
-the National Audit Office shall be appointed by the Auditor-General after consultation with the Public Service Commission, and, in the case of such senior or professional staff as may be prescribed by regulations of the Public Service Commission.
+(2) Subject to any Act of the National Assembly, the staff of the National Audit Office shall be appointed by the Auditor-General after consultation with the Public Service Commission, and, in the case of such senior or professional staff as may be prescribed by regulations, with the approval of the Public Service Commission.
 
-(3)
+(3) The accounts of the National Audit Office shall be audited by an appropriately qualified auditor or firm of auditors appointed by the Finance and Public Accounts Committee.
 
-(4)
-
-- The accounts of the National Audit  Office shall be audited by an appropriately qualified auditor or firm of auditors appointed by the Finance and Public Accounts Committee.
-
-- The Auditor General shall submit the annual estimates of expenditure for the National Audit Office for the following financial year to the President for presentation to the National Assembly in accordance with this Constitution. The President shall cause the estimates to be placed before the National Assembly without amendment, but may attach to them his or her own comments and observations.
+(4) The Auditor General shall submit the annual estimates of expenditure for the National Audit Office for the following financial year to the President for presentation to the National Assembly in accordance with this Constitution. The President shall cause the estimates to be placed before the National Assembly without amendment, but may attach to them his or her own comments and observations.
 
 #### Functions of Auditor General 160.
+
 (1) The Auditor General shall-
 
-(a) before any money is withdrawn from the Consolidated Fund  or any other public fund, ensure that the withdrawal is in accordance with the provision charging the same on that fund or the relevant Appropriation Act or other Act of the National Assembly and that it complies with the procedures prescribed by an Act of the National Assembly;
+(a) before any money is withdrawn from the Consolidated Fund or any other public fund, ensure that the withdrawal is in accordance with the provision charging the same on that fund or the relevant Appropriation Act or other Act of the National Assembly and that it complies with the procedures prescribed by an Act of the National Assembly;
 
 (b) satisfy himself or herself that money charged on the Consolidated Fund or other public fund, or appropriated by an Act of the National Assembly, and expended, has been applied for the purpose for which it was so charged or appropriated, and that expenditure conforms to the authority that governs it;
 
@@ -3011,21 +2901,19 @@ the National Audit Office shall be appointed by the Auditor-General after consul
 
 [[START OF PAGE 91]]
 
-(2)
+(c) at least once in every year audit and report on the public accounts of The Gambia, the accounts of all offices and authorities of the Government of The Gambia, the accounts of the courts, the accounts of the National Assembly and the accounts of all enterprises;
 
-(c) at least once in every year audit and report on the public accounts of The Gambia, the accounts of all offices and authorities of the Government of The Gambia, the accounts of the courts, the accounts of the National assembly and the accounts of all enterprises;
-
-(d) within six months of the end of the immediately preceding financial year to which each of the accounts referred to  in paragraph (c)  relates, report to the National Assembly on the accounts and draw attention to any irregularities in the accounts audited and to any other matter which, in his or her opinion, ought to be brought to the notice of the National assembly;
+(d) within six months of the end of the immediately preceding financial year to which each of the accounts referred to in paragraph (c) relates, report to the National Assembly on the accounts and draw attention to any irregularities in the accounts audited and to any other matter which, in his or her opinion, ought to be brought to the notice of the National Assembly;
 
 (e) after his or her annual reports on the accounts of the Government of The Gambia, of all offices and authorities of the Government, of the courts and of the National Assembly have been discussed in the National Assembly, cause the same to be published for public information:
 
-Provided that where there is any undue delay in the discussion of any such accounts in the National Assembly, the Auditor General may publish his or her  report in advance of such discussion; and
+Provided that where there is any undue delay in the discussion of any such accounts in the National Assembly, the Auditor General may publish his or her report in advance of such discussion; and
 
 (f) exercise such other functions as may be conferred on him or her by an Act of the National Assembly.
 
-- In the exercise of his or her functions under this Constitution or any other law, the Auditor General shall -
+(2) In the exercise of his or her functions under this Constitution or any other law, the Auditor General shall-
 
-(a) at all times carry out economic efficient and effective  examination to satisfy himself or herself that public funds are spent in such manner as to reduce waste, eliminate inefficiency and maximise the benefits to be gained from the use of resources;
+(a) at all times carry out economic, efficient and effective examination to satisfy himself or herself that public funds are spent in such manner as to reduce waste, eliminate inefficiency and maximise the benefits to be gained from the use of resources;
 
 (b) have power to disallow any item of expenditure which is contrary to law and to surcharge:
 
@@ -3035,41 +2923,39 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 [[START OF PAGE 92]]
 
-(3)
-
 (ii) any sum which has not been brought into account upon the person by whom that sum ought to have been brought into account; or
 
-(iii) the amount of any loss or deficiency upon any person by whose negligence or misconduct  the loss or deficiency has been incurred.
+(iii) the amount of any loss or deficiency upon any person by whose negligence or misconduct the loss or deficiency has been incurred.
 
-- A person aggrieved by any disallowance or surcharge made by the Auditor-General may appeal to the High Court
+(3) A person aggrieved by any disallowance or surcharge made by the Auditor-General may appeal to the High Court.
 
-- The Auditor-General and any member of the National Auditor Office authorised by him or her shall have power to call for and inspect all books, records, returns, reports and other documents in the exercise of the functions conferred upon  him or her by this Constitution or an Act of the National Assembly and to make such enquiries and to call such witnesses who, in his or her opinion, have any responsibilities, in relation to the accounts referred to in subsection (1).
+(4) The Auditor-General and any member of the National Audit Office authorised by him or her shall have power to call for and inspect all books, records, returns, reports and other documents in the exercise of the functions conferred upon him or her by this Constitution or an Act of the National Assembly and to make such enquiries and to call such witnesses who, in his or her opinion, have any responsibilities in relation to the accounts referred to in subsection (1).
 
-- Wherever  discrepancies of a criminal or fraudulent nature are discovered during the audit of accounts by the Auditor-General, he or she shall immediately cause a report of his or her findings to be submitted to the inspector-General of police.
+(5) Wherever discrepancies of a criminal or fraudulent nature are discovered during the audit of accounts by the Auditor-General, he or she shall immediately cause a report of his or her findings to be submitted to the Inspector-General of Police.
 
-- Where the Government holds a minority interest in any company, the Auditor-General may exercise, on behalf of the Government, the power to inspect books of account of the company and report to the Government.
+(6) Where the Government holds a minority interest in any company, the Auditor-General may exercise, on behalf of the Government, the power to inspect books of account of the company and report to the Government.
 
-- In the exercise of his or her functions under this Constitution or any law, the Auditor General shall not be subject to the direction or control of any other person or authority.
+(7) In the exercise of his or her functions under this Constitution or any law, the Auditor General shall not be subject to the direction or control of any other person or authority.
 
-- Nothing in this Constitution shall preclude the Auditor-General, at the request of the head or governing body of any public body, corporation or institution referred to in subsection (1) (c), or on his or her own initiative, from carrying out any special audit of such body, corporation or institution; and where he or she caries out such a special audit, it shall be reported to the finance and Public Accounts Committee.
+(8) Nothing in this Constitution shall preclude the Auditor-General, at the request of the head or governing body of any public body, corporation or institution referred to in subsection (1)(c), or on his or her own initiative, from carrying out any special audit of such body, corporation or institution; and where he or she carries out such a special audit, it shall be reported to the Finance and Public Accounts Committee.
 
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
 
-- The Finance and Public Accounts Committee of the National Assembly may extend the time within which any such report as is referred to in subsection (1) (d) shall be made to the National Assembly.
+(9) The Finance and Public Accounts Committee of the National Assembly may extend the time within which any such report as is referred to in subsection (1)(d) shall be made to the National Assembly.
 
 ### PART 3: THE CENTRAL BANK
 
-#### Establishment    161. Of Central Bank
+#### Establishment of Central Bank 161.
 
-- There shall be a Central Bank of The Gambia.
+(1) There shall be a Central Bank of The Gambia.
 
-- The Central Bank shall be the only authority to issue the currency of The Gambia.
+(2) The Central Bank shall be the only authority to issue the currency of The Gambia.
 
-- The Central Bank shall be the sole banker of the Government and it shall be the principal depository bank for all funds raised for, or on behalf of, the Government.
+(3) The Central Bank shall be the sole banker of the Government and it shall be the principal depository bank for all funds raised for, or on behalf of, the Government.
 
-- The Central Bank shall-
+(4) The Central Bank shall-
 
 (a) promote and maintain the stability of the currency of The Gambia;
 
@@ -3079,13 +2965,11 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 (d) exercise such other functions as may be conferred on the Central Bank by an Act of the National Assembly;
 
-- It shall be the duty of the Central Bank to ensure that money paid to or received for and on behalf of the Government is recorded in proper books of account in accordance with recognised accounting standards.  It shall ensure that all withdrawals from the various Government accounts with itself are properly authorised in accordance with this Constitution and any Act of the National Assembly and that the overdrawing on any of the Government's accounts with itself is permitted only if so authorised.
+(5) It shall be the duty of the Central Bank to ensure that money paid to or received for and on behalf of the Government is recorded in proper books of account in accordance with recognised accounting standards. It shall ensure that all withdrawals from the various Government accounts with itself are properly authorised in accordance with this Constitution and any Act of the National Assembly and that the overdrawing on any of the Government's accounts with itself is permitted only if so authorised.
 
-#### The Board of the 162 Central Bank
+#### The Board of the Central Bank 162
 
-(1)
-
-- The authority of the Central Bank shall vest in the Board of Directors of the Bank which shall Comprise-
+(1) The authority of the Central Bank shall vest in the Board of Directors of the Bank which shall comprise-
 
 (a) a Chairman, who shall be the Governor and Chief Executive of the Bank; and
 
@@ -3093,11 +2977,11 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 [[START OF PAGE 94]]
 
-(b) four other Directors
+(b) four other Directors.
 
 (2) The members of the Board of Directors shall be appointed from among persons of standing and experience in financial matters by the President, in consultation with the Public Service Commission.
 
-(3) Subject to the provisions of this section the Directors, other than the Chairman, shall be appointed for a term of two years and the appointments shall be made with a view to ensuring that no more than two such Directors; terms of office expire in any one year.  Such Directors may be reappointed for a further term.
+(3) Subject to the provisions of this section the Directors, other than the Chairman, shall be appointed for a term of two years and the appointments shall be made with a view to ensuring that no more than two such Directors' terms of office expire in any one year. Such Directors may be reappointed for a further term.
 
 (4) Any Director may be removed from office by the President if-
 
@@ -3113,29 +2997,29 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 (6) Where a Director is, by reason of illness which is believed to be of limited duration, unable to perform the functions of his or her office, the President may appoint a suitably qualified person to act for such Director.
 
-(7) Except with the approval of the National Assembly, neither the governor nor any General Manager of the Central Bank shall hold any other office of profit or emolument or occupy any other position carrying the right to remuneration for the rendering of services.
+(7) Except with the approval of the National Assembly, neither the Governor nor any General Manager of the Central Bank shall hold any other office of profit or emolument or occupy any other position carrying the right to remuneration for the rendering of services.
 
-(8) Nothing in this section shall be construed as prohibiting any Director, other than the Governor, from conducting business with the Central Bank or any other person or authority, provided he or she declares his or  her interest in writing to the Board of Directors and abstains from participating in any meeting of the Board at which a matter in which he or she has such an interest is a subject for discussion.
+(8) Nothing in this section shall be construed as prohibiting any Director, other than the Governor, from conducting business with the Central Bank or any other person or authority, provided he or she declares his or her interest in writing to the Board of Directors and abstains from participating in any meeting of the Board at which a matter in which he or she has such an interest is a subject for discussion.
 
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
 
-- The Broad of Directors shall regulate its own procedures and may make rules and give directions to regulate the administration of the Central Bank and the conduct of its business.
+(9) The Board of Directors shall regulate its own procedures and may make rules and give directions to regulate the administration of the Central Bank and the conduct of its business.
 
-- Within three months following the end of its financial year, the Central Bank shall submit to the National Assembly a report of its activities and business for the previous year.
+(10) Within three months following the end of its financial year, the Central Bank shall submit to the National Assembly a report of its activities and business for the previous year.
 
-- In the performance of its functions, the Central Bank shall be subject to the direction and control of the Ministry of Finance, in accordance with the Central Bank Act, of any Act of the National Assembly amending or replacing the said Act.
+(11) In the performance of its functions, the Central Bank shall be subject to the direction and control of the Ministry of Finance, in accordance with the Central Bank Act, or any Act of the National Assembly amending or replacing the said Act.
 
-- The Central Bank shall have regular consultations with the President and any other relevant authorities or agencies.
+(12) The Central Bank shall have regular consultations with the President and any other relevant authorities or agencies.
 
 ## CHAPTER X
 
 ## THE OMBUDSMAN
 
-#### National Assembly 163 establish office of Ombudsman
+#### National Assembly to establish office of Ombudsman 163
 
-- Subject to the provisions of this Constitution, an Act  of the National Assembly shall within six months of the coming into force of this Constitution establish the office of Ombudsman and provision for his or her functions and duties-
+(1) Subject to the provisions of this Constitution, an Act of the National Assembly shall within six months of the coming into force of this Constitution establish the office of Ombudsman and make provision for his or her functions and duties-
 
 (a) In the investigation of any action taken by a government department or other authority, or public body, to which the Act applies, being action taken in the exercise of the administrative functions of that department or authority, on a complaint by a member of the public who claims he or she has suffered injustice in consequence of mal-administration or mismanagement, or discrimination on any ground set out in Chapter IV, in connection with such action;
 
@@ -3147,7 +3031,7 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 (c) In the investigation of complaints of any failure to observe the code prescribed in Chapter (XXI) for the conduct of public officers.
 
-- Without prejudice to the generality of subsection an Act of the National Assembly may;
+(2) Without prejudice to the generality of subsection (1), an Act of the National Assembly may-
 
 (a) determine the departments, authorities and other public bodies to which the Act shall apply;
 
@@ -3155,13 +3039,13 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 (c) determine the departments, authorities, public bodies and actions which shall be excluded from such investigations;
 
-(d) determine the procedure to the adopted in any investigation and the powers which may be exercised in the course of such investigation, including the power of the Ombudsman to require persons to furnish documents and other information and to provide evidence, and provide for the right of any department, authority, other public body or person to be heard when its, or his or her, actions are the subject of an investigation;
+(d) determine the procedure to be adopted in any investigation and the powers which may be exercised in the course of such investigation, including the power of the Ombudsman to require persons to furnish documents and other information and to provide evidence, and provide for the right of any department, authority, other public body or person to be heard when its, or his or her, actions are the subject of an investigation;
 
-(e) provide for sections for the obstruction of the Ombudsman in the exercise of his or her functions or a failure to comply with his or her lawful requirements;
+(e) provide for sanctions for the obstruction of the Ombudsman in the exercise of his or her functions or a failure to comply with his or her lawful requirements;
 
-(f) provide for the making of reports by the Ombudsman, including an annual report to the National assembly, and report to the Inspector General of Police in the event of his or her investigations disclosing the commission of a criminal offence or to the Attorney General in the event of their disclosing any other failure to comply with a provision of law;
+(f) provide for the making of reports by the Ombudsman, including an annual report to the National Assembly, and report to the Inspector General of Police in the event of his or her investigations disclosing the commission of a criminal offence or to the Attorney General in the event of their disclosing any other failure to comply with a provision of law;
 
-(g) provide for the appointment of one of more deputy Ombudsman to exercise, under the directions of the Ombudsman, the function of that office.
+(g) provide for the appointment of one or more deputy Ombudsman to exercise, under the directions of the Ombudsman, the functions of that office.
 
 (h) Make such administrative and financial provisions as may be necessary or desirable for the efficient functioning of the office of Ombudsman.
 
@@ -3169,34 +3053,33 @@ Provided that where there is any undue delay in the discussion of any such accou
 
 [[START OF PAGE 97]]
 
-#### Appointment and Tenure 164 Of office of Ombudsman
+#### Appointment and tenure of office of Ombudsman 164
+
+(1) The President shall appoint an Ombudsman and his or her Deputies in consultation with the Public Service Commission, subject to confirmation of the National Assembly within seven days of the presentation of the request:
 
 6 of 2001
-
-(1)
-
-The President shall appoint an Ombudsman and his or her Deputies in consultation with the Public Service Commission, subject to confirmation of the National Assembly within seven days of the presentation of the request:
 
 Provided that where the National Assembly rejects a person nominated by the President, it shall not again reject the person nominated to replace him or her.
 
 (2) In making an appointment under this section, the President shall have regard to the need for persons exercising the functions of Ombudsman to have substantial administrative or professional experience.
 
-(3) The office of Ombudsman and deputy Ombudsman shall be offices in the public service. (4)
+(3) The office of Ombudsman and deputy Ombudsman shall be offices in the public service.
 
-- A person shall not be qualified to hold office as Ombudsman or deputy Ombudsman if he or she is a member of the National Assembly, a Secretary of state or holds any other public office.
+(4) A person shall not be qualified to hold office as Ombudsman or deputy Ombudsman if he or she is a member of the National Assembly, a Secretary of State or holds any other public office.
 
-- Subject to this Constitution, an Act of the National Assembly shall prescribe the tenure and terms of service of the Ombudsman and any deputy Ombudsman .
+(5) Subject to this Constitution, an Act of the National Assembly shall prescribe the tenure and terms of service of the Ombudsman and any deputy Ombudsman.
 
-(6) An Ombudsman or deputy Ombudsman may only be remove from office by the President for inability to discharge the functions of his or her officer (where arising from infirmity of mind or body or from any other cause) or for misconduct, and shall not be remove unless the National Assembly has appointed a tribunal to investigate the case and his or her removal has been approved by resolution of the National Assembly supported by the votes  for not less than two-thirds of all the members of the National Assembly. The Ombudsman or a deputy Ombudsman shall have the right to be heard and to be legally represented before the tribunal.
+(6) An Ombudsman or deputy Ombudsman may only be removed from office by the President for inability to discharge the functions of his or her office (whether arising from infirmity of mind or body or from any other cause) or for misconduct, and shall not be removed unless the National Assembly has appointed a tribunal to investigate the case and his or her removal has been approved by resolution of the National Assembly supported by the votes of not less than two-thirds of all the members of the National Assembly. The Ombudsman or a deputy Ombudsman shall have the right to be heard and to be legally represented before the tribunal.
 
-#### Independence of   165 Ombudsman
-(1) Subject to the provisions of this chapter in the exercise of his or her functions, the Ombudsman and a deputy Ombudsman shall not be subject to the direction or control of any other person or authority but subject only to the Constitution and the law.
+#### Independence of Ombudsman 165
+
+(1) Subject to the provisions of this Chapter, in the exercise of his or her functions, the Ombudsman and a deputy Ombudsman shall not be subject to the direction or control of any other person or authority but subject only to the Constitution and the law.
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
 
-- All departments, authorities and other public bodies which are subject to investigation by the Ombudsman shall accord such assistance as he or she may require for the protection of the independence, dignity and effectiveness of the Ombudsman in the performance of his or her functions.
+(2) All departments, authorities and other public bodies which are subject to investigation by the Ombudsman shall accord such assistance as he or she may require for the protection of the independence, dignity and effectiveness of the Ombudsman in the performance of his or her functions.
 
 ## CHAPTER XI
 
@@ -3204,17 +3087,17 @@ Provided that where the National Assembly rejects a person nominated by the Pres
 
 #### The Public Service 166.
 
-- Subject an Act of the National Assembly, the Public Service of The Gambia shall comprise the civic service as established immediately before this Constitution comes into force and the offices declared elsewhere in this constitution to be offices in the public Service.
+(1) Subject to an Act of the National Assembly, the Public Service of The Gambia shall comprise the civil service as established immediately before this Constitution comes into force and the offices declared elsewhere in this Constitution to be offices in the Public Service.
 
-- Subject to this Constitution, acts of the National Assembly may provide for the establishment and regulation of separate public services of The Gambia (which may include common services for the staff of local government authorities or the staff of Public Enterprises).  Any such Act shall include provision for-
+(2) Subject to this Constitution, Acts of the National Assembly may provide for the establishment and regulation of separate public services of The Gambia (which may include common services for the staff of local government authorities or the staff of Public Enterprises). Any such Act shall include provision for-
 
 (a) the appointment or election of a competent authority for the administration of the particular public service;
 
-(b) the functions and membership of the service, and may provide for an appointing authority other than the Public Service Commission for the service.  Any such particular public service shall form part of the public service of The Gambia.
+(b) the functions and membership of the service, and may provide for an appointing authority other than the Public Service Commission for the service. Any such particular public service shall form part of the public service of The Gambia.
 
-- For the avoidance of doubt, it is hereby declared that an office in the public service includes the office of judge of a superior court, and of any other court that emoluments of which are payable out of any public fund of The Gambia, and the office of a principal representative of The Gambia abroad.
+(3) For the avoidance of doubt, it is hereby declared that an office in the public service includes the office of judge of a superior court, and of any other court the emoluments of which are payable out of any public fund of The Gambia, and the office of a principal representative of The Gambia abroad.
 
-- In this Constitution, an office in the public service does not include-
+(4) In this Constitution, an office in the public service does not include-
 
 (a) the offices of President, Vice President, Speaker or Deputy Speaker of the National
 
@@ -3222,54 +3105,54 @@ Provided that where the National Assembly rejects a person nominated by the Pres
 
 [[START OF PAGE 99]]
 
-Assembly, Secretary of state or a member of the National Assembly:
+Assembly, Secretary of State or a member of the National Assembly;
 
-(b) the offices of a member of any commission (other than a commission the members of which are hereby or by an Act of the National  Assembly declared to hold an office in the Public Service), or a member of the Advisory Committee on the exercise of the prerogative of mercy or the Advisory Committee on the conferment of honours.
+(b) the offices of a member of any commission (other than a commission the members of which are hereby or by an Act of the National Assembly declared to hold an office in the Public Service), or a member of the Advisory Committee on the exercise of the prerogative of mercy or the Advisory Committee on the conferment of honours.
 
-#### Appointment to and  167 Removal from offices in the Public Service
+#### Appointment to and Removal from offices in the Public Service 167
 
 In this Constitution-
 
-(a) power to appoint any person to hold or act in any office in the public service shall include the power to confirm appointments, to exercise disciplinary control over and to remove persons holding or acting in such offices and to re-appoint or reinstate any person appointed in exercise of the power in question unless such power is expressly or by necessary implication vested in some other person or authority:
+(a) power to appoint any person to hold or act in any office in the public service shall include the power to confirm appointments, to exercise disciplinary control over and to remove persons holding or acting in such offices and to re-appoint or reinstate any person appointed in exercise of the power in question unless such power is expressly or by necessary implication vested in some other person or authority;
 
-(b) power to remove an officer in the public service shall include power to require such officer to retire from the Public Service provided that nothing in this paragraph shall be construed as conferring on any person or authority the power to require a judge of a superior court, the Director of Public Prosecutions, the Auditor General or the Ombudsman or a deputy Ombudsman to retire from the Public service:
+(b) power to remove an officer in the public service shall include power to require such officer to retire from the Public Service provided that nothing in this paragraph shall be construed as conferring on any person or authority the power to require a judge of a superior court, the Director of Public Prosecutions, the Auditor General or the Ombudsman or a deputy Ombudsman to retire from the Public Service;
 
-(c) any provision which vests in any person or authority power to remove a person from any public office shall be without prejudice to the power of any person or authority to abolish any office or to any law, for the compulsory retirement of public officers.
+(c) any provision which vests in any person or authority power to remove a person from any public office shall be without prejudice to the power of any person or authority to abolish any office or to any law for the compulsory retirement of public officers.
 
 #### Head of civil service 168
 
-- The President, acting in accordance with the advice of the Public Service commission, shall appoint a person holding an office in the public Service on permanent terms to be the Head of the Civil Service. The Head of the Civil Service shall be the competent authority for the Civil Service.
+(1) The President, acting in accordance with the advice of the Public Service Commission, shall appoint a person holding an office in the Public Service on permanent terms to be the Head of the Civil Service. The Head of the Civil Service shall be the competent authority for the Civil Service.
 
-- The Head of the civil Service shall not hold any other office of profit or emolument in the service of The Gambia.
+(2) The Head of the Civil Service shall not hold any other office of profit or emolument in the service of The Gambia.
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
 
-#### Protection of public 169 Servants
+#### Protection of public Servants 169
 
-- No Public servant shall be -
+(1) No public servant shall be-
 
-(a) victimised or discriminated against either
+(a) victimised or discriminated against either directly or indirectly for having discharged his or her duties faithfully and according to law; or
 
-directly or indirectly for having discharged his or other duties faithfully and according to law: or be removed from office or reduced in rank
+(b) be removed from office or reduced in rank or otherwise punished without just cause.
 
-(b) or otherwise punished without just cause.
+(2) In this section, “public servant” means a person holding an office in a public service; a person in the service of a local government authority, and a person in the service of a Public Enterprise.
 
-(2) In this section, 'public servant' means a person holding an office in a public service; a person in the service of a local government authority, and a person in the service of a Public Enterprise
+#### Restriction on political activities of public servants 170
 
-#### restriction on political 170 activities of public servants
+(1) A person holding an office in a public service shall not hold office in any political party.
 
-- A person holding an office in a public service shall not hold office in any political party.
+(2) Any person who holds an office in a public service who wishes to contest an election for a political office shall, prior to nomination as a candidate, obtain one year's leave of absence without pay, which leave shall not unreasonably be refused.
 
-- Any person who holds an office in a public service who wishes to contest an election for a political office shall, prior to nomination as a candidate, obtain one year's leave of absence without pay, which leave shall not unreasonably be refused.
-
-- If a person who has obtained leave of absence in accordance with this section is elected to a political office, he or she shall immediately resign from his or her office in the public service and, if he or she fails to do so, he or she shall be removed from such office.
+(3) If a person who has obtained leave of absence in accordance with this section is elected to a political office, he or she shall immediately resign from his or her office in the public service and, if he or she fails to do so, he or she shall be removed from such office.
 
 #### Retiring age 171.
-Save as provided in this constitution, a person holding an office in a public service -
+Save as provided in this Constitution, a person holding an office in a public service-
 
-(a) shall retire from such office on attaining the age of fifty-five years or such other age as may be prescribed by an Act of the National Assembly (which age is referred to as 'the compulsory retirement age'); and (b) may retire with an earned pension at any time after attaining the age of forty-five years or such other age as may be prescribed by an Act of the National Assembly.
+(a) shall retire from such office on attaining the age of fifty-five years or such other age as may be prescribed by an Act of the National Assembly (which age is referred to as “the compulsory retirement age”); and
+
+(b) may retire with an earned pension at any time after attaining the age of forty-five years or such other age as may be prescribed by an Act of the National Assembly.
 
 [[END OF PAGE 100]]
 
@@ -3277,7 +3160,7 @@ Save as provided in this constitution, a person holding an office in a public se
 
 ### PART 2 : THE PUBLIC SERVICE COMMISSION
 
-#### Establishment of 172. Commission
+#### Establishment of Commission 172
 
 (1) There shall be a Public Service Commission for The Gambia.
 
@@ -3317,7 +3200,7 @@ inability to perform the functions of his or her office by reason of infirmity o
 
 #### Powers of appointment 173.
 
-(1) Save as otherwise provided in this Constitution or any Act of the National Assembly for the establishment of a particular public service, the power to make appointments to offices in the public service shall vest in the Public Service Commission.
+(1) Save as otherwise provided in this Constitution or any Act of the National Assembly for the establishment of a particular Public service, the power to make appointments to offices in the public service shall vest in the Public Service Commission
 
 (2) Subsection (1) does not apply in relation to-
 
@@ -3329,17 +3212,17 @@ inability to perform the functions of his or her office by reason of infirmity o
 
 (3) The power to make an appointment to the office of Permanent Secretary of a department of the Government shall be exercised by the Public Service Commission in consultation with the Head of the Civil Service.
 
-(4) No person shall be appointed to the personal staff of the President or the Vice President except with the agreement of the President or Vice-President, as the case may be.
+(4) No person shall be appointed to the personal staff of the President or the Vice President except with the agreement of the President or Vice-President, as the case may be
 
-(5) The power to appoint persons to hold or act in any office in an institution of higher education, research or professional training established within the public service, shall vest in the governing body of that institution.
+(5) The power to appoint persons to hold or act in any office in an institution of higher education, research or professional training established within the public service, shall vest in the governing body of that institution,
 
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
 
-(6) The Commission shall, in any case in which this Constitution requires an appointment to be made after or in consultation with, or on the recommendation of, the Commission, exercise its powers in that regard, and may, at the request of the President or the competent authority concerned, render advice on appointments within their respective powers.
+(6) The Commission shall, in any case in which this Constitution requires an appointment to be made after or in consultation with, or on the recommendation of, the Commission, exercise its powers in that regard, and may, at the request of the President or the competent authority concerned, render advice on appointments within their respective powers
 
-#### Other powers of 174. Commission
+#### Other powers of Commission 174
 
 (1) The Public Service Commission shall have power -
 
@@ -3367,11 +3250,11 @@ inability to perform the functions of his or her office by reason of infirmity o
 
 ### PART 3: PUBLIC ENTERPRISES
 
-#### Public Enterprises 175.
+#### Public Enterprises 175
 
 (1) In this Constitution, Public enterprise means any body corporate or other body or institution, wholly owned or controlled by the Government.
 
-(2) The members of the Board of Directors or other governing body of a Public Enterprise shall be appointed by the President after consultation with the Public Service Commission and shall be selected from amongst persons of integrity, competence and maturity of judgment. A member of the National Assembly, the holder of a political office or an office of a political party shall not be qualified to be appointed to the Board of Directors or other governing body of a Public Enterprise.
+(2) The members of the Board of directors or other governing body of a Public Enterprise shall be appointed by the President after consultation with the Public Service Commission and shall be selected from amongst persons of integrity, competence and maturity of judgment. A member of the National Assembly, the holder of a political office or an office of a political party shall not be qualified to be appointed to the Board of Directors or other governing body of a Public Enterprise.
 
 (3) The Chief Executive of a Public Enterprise shall be appointed by the President after consultation with the Board of Directors or other governing body of the Public Enterprise and the Public Service Commission. All other appointments to the staff of a public enterprise shall be made by the Board of Directors or governing body, or by some member of the staff of the public Enterprise appointed by the Board or governing body.
 
@@ -3381,9 +3264,9 @@ inability to perform the functions of his or her office by reason of infirmity o
 
 [[START OF PAGE 105]]
 
-(5) A Public Enterprise shall, within three months of the end of its financial year, submit an annual report to the National Assembly on its business and operations during the preceding year;
+(5) A Public Enterprise shall, within three months of the end of its financial year submit an annual report to the National Assembly on its business and operations during the preceding year;
 
-Provided that the appropriate committee of the National Assembly may extend the time for the submission of any report.
+Provided that the appropriate committee of the National assembly may extend the time for the submission of any report.
 
 (6) On the coming into force of this Constitution, the Public Service Commission shall provide existing Public Enterprises with guidelines on personnel matters and shall provide such guidelines to any Public enterprise established thereafter.
 
@@ -3391,7 +3274,7 @@ Provided that the appropriate committee of the National Assembly may extend the 
 
 (1) The law applicable to any benefits to which this section applies shall, in relation to any person who has been granted, or who is eligible to be granted such benefits, be that in force on the relevant date or any later law that is not less favourable to that person.
 
-(2) In this section, 'the relevant date' means-
+(2) In this section, “the relevant date” means-
 
 (a) in relation to benefits granted before the 18th February 1965, the date on which those benefits were granted;
 
@@ -3425,7 +3308,7 @@ A pension payable to any person who is or has been a public officer in respect o
 
 ### PART 1: THE POLICE FORCE
 
-#### The Gambia 178. Police Force
+#### The Gambia Police Force 178.
 
 (1) There shall be a Police Force of The Gambia of which the Inspector General of Police shall be the head.
 
@@ -3461,7 +3344,7 @@ Section 181, Appointments in Police Force (Deleted by No 6 of 2001)
 
 (2) An Act of the National Assembly shall prescribe the functions and powers of the Prison Service.
 
-#### Control of 183. Prison Service
+#### Control of Prison Service 183.
 
 Subject to the general authority and direction of the President and the Prison Service Council, the Commissioner of Prisons shall be responsible for the operational control and administration of the Prison Service and Prisons in The Gambia.
 
@@ -3471,7 +3354,7 @@ Subject to the general authority and direction of the President and the Prison S
 
 There shall be a Prison Service Council whose composition, functions and powers shall be prescribed by an Act of the National Assembly.
 
-#### Appointments in 185. Prisons Service
+#### Appointments in Prisons Service 185.
 
 (1) The Commissioner of Prisons shall be appointed by the President after consultation with the National Security Council.
 
@@ -3527,7 +3410,7 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 (1) Subject to the authority and directions of the President and of the Armed Forces Council, the Chief of Defence Staff shall be responsible for the operational control and administration of the Armed Forces.
 
-(2) Without prejudice to his or her general power and authority as Commander-in-chief, the President may give a Force Commander directions with respect to the operational use of the Commander's forces in The Gambia for the purpose of maintaining and securing public safety and public order, and the Force Commander shall comply with those directions.
+(2) Without prejudice to his or her general power and authority as Commander-in-chief, the President may give a Force Commander directions with respect to the operational use of the Commander’s forces in The Gambia for the purpose of maintaining and securing public safety and public order, and the Force Commander shall comply with those directions.
 
 (3) In the exercise of his or her powers as Commander-in-chief, the President shall, whenever practicable, consult the National Security Council.
 
@@ -3557,7 +3440,7 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 (2) The Armed Forces Council shall-
 
-(a) advise the President on all matters of policy relating to defence and strategy, including the role of the Armed Forces, defence budgeting and finance, administration, and any other matter which the President may refer to the Council;
+(a) advise the President on all matters of policy relating to defence and strategy, including the role of the Armed Forces, defence budgeting and finance, administration, and any other matter which the President may refer to the Council
 
 (b) advise the President on the promotion of officers to the rank of Lieutenant Colonel or its equivalent and above;
 
@@ -3567,9 +3450,9 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 (a) the control and administration of the Armed Forces;
 
-(b) the ranks of the officers and men of each service; the numbers in each rank and the use of uniforms by the members;
+(b) the ranks of the officers and men of each service; the members in each rank and the use of uniforms by the members;
 
-(c) the conditions of service, enrolment, pay, pensions, gratuities and other allowances of officers and men, and deductions therefrom;
+(c) the conditions of service, enrolment pay, pensions, gratuities and other allowances of officers and men, and deductions therefrom;
 
 (d) the authority and powers of command of officers and men;
 
@@ -3581,7 +3464,7 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 [[START OF PAGE 111]]
 
-#### Appointments in Armed 190. Forces.
+#### Appointments in Armed Forces 190.
 
 (1) The President shall, after consulting the National Security Council, appoint:
 
@@ -3591,7 +3474,7 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 (c) the commanders of the Army, the Navy and the Air Force.
 
-(2) A person shall not be qualified for appointment in accordance with subsection (1) if he or she is not a citizen of The Gambia or if he or she holds the citizenship or nationality of any other country.
+(2) A person shall not be qualified for appointment in accordance with subsection (1) if he or she is not a citizen of The Gambia or if he or she holds the citizenship or nationality of any other country
 
 (3) The President may, after consulting the National Security Council, remove from office the Chief of Defence Staff, the Armed Forces Chief of Staff, or the Commander of the Army, the Navy or the Air Force.
 
@@ -3601,7 +3484,7 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 ### PART II . NATIONAL INTELLIGENCE AGENCY
 
-#### National Intelligence Agency 191.
+#### National Intelligence Agency 191
 
 (1) There shall be a National Intelligence Agency which shall be under the command of the President.
 
@@ -3615,15 +3498,17 @@ with skills and trades, and a programme of secondment to civilian occupations, s
 
 ## LAND COMMISSION
 
-#### Land Commission 192. 6 of 2001
+#### Land Commission 192
 
-There shall be established a Land Commission whose composition, functions and powers shall be prescribed by an Act of the National Assembly.
+6 of 2001
+
+There shall be established a Land Commission whose composition, functions and powers shall be prescribed by an Act of the National Assembly
 
 ## CHAPTER XV
 
 ## LOCAL GOVERNMENT AND TRADITIONAL RULERS
 
-#### System of local 193. Government
+#### System of local Government 193
 
 (1) Local government administration in The Gambia shall be based on a system of democratically elected councils with a high degree of local autonomy.
 
@@ -3631,7 +3516,7 @@ There shall be established a Land Commission whose composition, functions and po
 
 (3) An Act of the National Assembly shall make provision for the functions, powers and duties of local government authority including provision for -
 
-(a) the infrastructure and development of the area within the authority's jurisdiction;
+(a) the infrastructure and development of the area within the authority’s jurisdiction;
 
 (b) the encouragement of commercial enterprises;
 
@@ -3641,7 +3526,7 @@ There shall be established a Land Commission whose composition, functions and po
 
 (e) the raising of local revenue;
 
-(f) the management, control and oversight of the authority's finances and the audit of its accounts by the Auditor-General;
+(f) the management, control and oversight of the authority’s finances and the audit of its accounts by the Auditor-General;
 
 (g) the making of by-laws;
 
@@ -3657,11 +3542,11 @@ There shall be established a Land Commission whose composition, functions and po
 
 (4) It shall be an object of the local government system that so far as possible, issues of local policy and administration shall be decided at a local level and that local government authorities shall co-operate with the Central Government in adopting a policy of decentralisation.
 
-#### Local government 194. Authorities
+#### Local government Authorities 194
 
 An Act of the National Assembly by or under which a local government authority is established shall include provision for -
 
-(a) the election of members of the authority from among residents of the area within the authority's jurisdiction at intervals of four years, and the qualifications for election;
+(a) the election of members of the authority from among residents of the area within the authority’s jurisdiction at intervals of four years, and the qualifications for election;
 
 (b) the additional representation on the authority of District Seyfolu and representatives of local commercial, occupational or social interests or groups, whether by election or otherwise;
 
@@ -3683,17 +3568,19 @@ An Act of the National Assembly by or under which a local government authority i
 
 ## THE NATIONAL YOUTH SERVICE
 
-#### National Youth 195. Service Scheme 6 of 2001
+#### National Youth Service Scheme 195
+
+6 of 2001
 
 There shall be established a National Youth Service Scheme whose composition, operation and functions shall be prescribed by an Act of the National Assembly.
 
-#### Participation in the service 196.
+#### Participation in the service 196
 
-(1) Citizens of The Gambia who have attained the age of eighteen years shall, subject to any exemptions and deferments prescribed by an Act of the National Assembly, be required to join the National Youth Service.
+(1) Citizens of The Gambia who have attained the age of eighteen years shall, subject to any exemptions and deferments prescribed by an Act of the National Assembly, be required to join the National Youth Service
 
 (2) An Act of the National Assembly may provide that any person who seeks an appointment in the public service shall provide evidence of his or her having participated in, or been exempted from joining, the National Youth Service.
 
-#### National Youth 197. Service Board
+#### National Youth Service Board 197
 
 (1) The National Youth Service Board shall be responsible for the operation of the National Youth Service.
 
@@ -3705,7 +3592,9 @@ There shall be established a National Youth Service Scheme whose composition, op
 
 ## THE NATIONAL COUNCIL FOR CIVIC EDUCATION
 
-#### National Council for Civic 198. Education 6 of 2001
+#### National Council for Civic Education 198
+
+6 of 2001
 
 There shall be established a National Council for Civic Education whose composition, functions and powers shall be prescribed by an Act of the National Assembly.
 
@@ -3713,7 +3602,7 @@ There shall be established a National Council for Civic Education whose composit
 
 [[START OF PAGE 115]]
 
-#### Function of the council 199.
+#### Function of the council 199
 
 (1) The functions of the National Council for Civic Education shall be -
 
@@ -3725,9 +3614,9 @@ There shall be established a National Council for Civic Education whose composit
 
 (d) To formulate, implement and oversee programmes aimed at inculcating in the citizens of The Gambia awareness of their civic and fundamental rights, duties and responsibilities;
 
-(e) To educate the citizens of The Gambia about international, regional and sub-regional matters relevant to The Gambia, and
+(e) To educate the citizens of The Gambia about international, regional and sub regional matters relevant to The Gambia, and
 
-(f) Such other functions as an Act of the National Assembly may prescribe.
+(f) Such other functions as an Act of the National Assembly may prescribe
 
 (2) An Act of the National Assembly may provide for the establishment of district branches of the Council.
 
@@ -3737,7 +3626,7 @@ There shall be established a National Council for Civic Education whose composit
 
 ## COMMISSIONS OF INQUIRY
 
-#### Commission of inquiry 200.
+#### Commission of inquiry 200
 
 (1) The President may, whenever he or she deems it advisable, issue a Commission appointing one or more Commissioners authorising such Commissioners to inquire into-
 
@@ -3753,13 +3642,13 @@ There shall be established a National Council for Civic Education whose composit
 
 (d) any matter whatever arising in The Gambia in which an inquiry would, in the opinion of the President, be for the public good.
 
-(2) The National Assembly may request the President to establish a Commission of Inquiry for any of the purposes set out in subsection (1).
+(2) The National Assembly may request the President to establish a commission of Inquiry for any of the purposes set out in subsection (1).
 
 (3) Except as may be ordered by the presiding Commissioner in the interest of public morality, public safety or public order, the proceedings of a Commission of Inquiry shall be held in public:
 
 Provided that the presiding Commissioner shall be entitled to exclude any particular person or persons for the preservation of order.
 
-#### Presiding Commissioner 201.
+#### Presiding Commissioner 201
 
 (1) A person shall not be appointed a sole Commissioner or the Chairman of a Commission of Inquiry unless -
 
@@ -3773,29 +3662,29 @@ Provided that the presiding Commissioner shall be entitled to exclude any partic
 
 [[START OF PAGE 117]]
 
-#### Functions and powers of 202. Commission
+#### Functions and powers of Commission 202
 
 (1) A Commission of Inquiry shall -
 
-(a) make a full and impartial investigation into the matter in respect of which the Commission is established; and
+(a) make a full and impartial investigation into the matter in respect of which the Commission is established: and
 
 (b) furnish in writing a report on the results of the inquiry, including a statement of the reasons leading to the conclusions of the Commission.
 
 (2) A Commission of Inquiry shall have all the powers, rights and privileges of a judge of the High Court at a trial in respect of -
 
-(a) enforcing the attendance of witnesses and examining them on oath, affirmation or otherwise;
+(a) enforcing the attendance of witnesses and examining them on oath, affirmation or otherwise:
 
-(b) compelling the production of documents;
+(b) compelling the production of documents:
 
-(c) issuing a commission or request for the examination of witnesses abroad; and
+(c) issuing a commission or request for the examination of witnesses abroad, and
 
 (d) making interim orders.
 
 (3) A Commissioner appointed under section 200 shall not be liable to any action or suit in respect of any matter or thing bona fide done or omitted to be done in the performance of his or her functions as a Commissioner.
 
-#### Publication of report 203.
+#### Publication of report 203
 
-On receipt of the report of a Commission of Inquiry -
+On receipt of the report of a commission of Inquiry -
 
 (a) the President shall within six months publish the report and his or her comments on the report, together with a statement of any action taken, or the reason for not taking any action, thereon; or
 
@@ -3807,27 +3696,26 @@ On receipt of the report of a Commission of Inquiry -
 
 months, publish a statement to that effect.
 
-#### Adverse findings 204.
+#### Adverse findings 204
 
-(1) Where a Commission of Inquiry makes an adverse finding against any person, it shall, at the time of submitting its report to the President, inform such persons of the finding and the reasons therefor.
+(1) Where a Commission of Inquiry makes an adverse finding against any person, it shall, at the time of submitting its report to the President, inform such persons of the finding and the reasons therefore.
 
-(2) A person against whom any such adverse finding has been made may appeal against such finding to the Court of Appeal as of right as if the finding were a judgment of the High Court, and on the hearing of the appeal the report shall be treated as if it were such a judgment.
+(2) A person against whom any such adverse finding has been made may appeal against such finding to the Court of Appeal as of right as if the finding were a judgment of the High Court, and on the hearing of the appeal the report shall be treated as if it were such a judgment
 
 (3) An appeal under this section shall be made within three months of the appellant being informed of the adverse finding as provided by subsection (1) or such later time as the Court of Appeal may allow.
 
 #### Immunities of witnesses 205.
 
-A witness before a Commission of Inquiry shall be entitled to the same immunities and privileges as if he or she were a witness in proceedings before the High Court.
+A witness before a Commission of Inquiry shall be entitled to the same immunities and privileges as if he or she were witness in proceedings before the High Court.
 
-#### National Assembly to 206. make further provision
-
+#### National Assembly to make further provision 206.
 An Act of the National Assembly may make further provision for the purposes of this chapter, and subject to any such Act, the power conferred by any law to make rules of court for the superior court shall be deemed to include power to make rules regulating the procedure and practice of all Commissions of Inquiry.
 
 ## CHAPTER XIX
 
 ## THE MEDIA
 
-#### Freedom and responsibility 207. Of the media
+#### Freedom and responsibility of the media 207.
 
 (1) The freedom and independence of the press and other information media are hereby guaranteed.
 
@@ -3839,11 +3727,11 @@ An Act of the National Assembly may make further provision for the purposes of t
 
 [[START OF PAGE 119]]
 
-#### Responsibility of State 208. owned media
+#### Responsibility of State owned media 208.
 
 All state owned newspapers, journals, radio and television shall afford fair opportunities and facilities for the presentation of divergent views and dissenting opinion.
 
-#### Limitations on rights and 209. freedoms
+#### Limitations on rights and freedoms 209.
 
 The provisions of sections 207 and 208 are subject to laws which are reasonably required in a democratic society in the interest of national security, public order, public morality and for the purpose of protecting the reputations, rights and freedoms of others.
 
@@ -3855,11 +3743,11 @@ An Act of the National Assembly shall within one year of the coming into force o
 
 ## DIRECTIVE PRINCIPLES OF STATE POLICY
 
-#### Application of the 211. Directive Principles of State Policy
+#### Application of the Directive Principles of State Policy 211.
 
 The principles of state policy in this Chapter shall form part of the public policy of The Gambia for the establishment of a just, free and democratic state. These principles shall not confer legal rights or be enforceable in any court but-
 
-(a) subject to the limits of the economic capacity and development of The Gambia, the Executive, the Legislature and all other organs of the State in taking policy decisions, making laws and in the administration of The Gambia, shall according to their respective functions be guided by and observe them with a view to achieving by legislation or otherwise the full realisation of these principles; and
+(a) subject to the limits of the economic capacity and development of The Gambia, the Executive, the Legislature and all other organs of the State in taking policy decisions, making laws and in the administration of the Gambia, shall according to their respective functions be guided by and observe them with a view to achieving by legislation or otherwise the full realisation of these principles; and
 
 (b) the courts are entitled to have regard to these principles in interpreting any laws based on them.
 
@@ -3877,7 +3765,7 @@ Gambia and foster loyalty to The Gambia without discrimination.
 
 (3) All the people of The Gambia shall be entitled to their ethnic, religious and cultural values which do not disturb the unity or cohesion of the State.
 
-#### National 213. Sovereignty and Independence
+#### National Sovereignty and Independence 213.
 
 (1) The State and all citizens of The Gambia shall endeavour to protect and enhance national sovereignty including social, political and economic independence and territorial integrity.
 
@@ -3895,7 +3783,7 @@ Gambia and foster loyalty to The Gambia without discrimination.
 
 (5) The Government, with due regard to the principles of an open and democratic society, shall foster accountability and transparency at all levels of government.
 
-#### Economic 215. Objectives
+#### Economic Objectives 215.
 
 (1) The State shall endeavour to create an economic environment that maximises the rate of economic growth and employment and secures the maximum welfare and prosperity for all persons in The Gambia.
 
@@ -3929,7 +3817,7 @@ Gambia and foster loyalty to The Gambia without discrimination.
 
 #### Social objectives 216.
 
-(1) The State shall endeavour to secure and promote a society founded on the principles of freedom, equality, justice, tolerance, probity and accountability.
+(1) The State shall endeavour to secure and promote a society founded on the principles of freedom, equality, justice, tolerance, probity and accountability
 
 (2) The State shall pursue policies to protect the rights and freedoms of the disabled, the aged, children and other vulnerable members of society and to ensure that such persons are provided just and equitable social opportunities.
 
@@ -3947,21 +3835,21 @@ Gambia and foster loyalty to The Gambia without discrimination.
 
 (7) The State shall endeavour to ensure that adequate sports facilities are established throughout The Gambia and that sports are promoted as a means of fostering national integration, health and self-discipline and international friendship and understanding.
 
-#### Educational 217. Objectives
+#### Educational Objectives 217
 
 (1) The State shall endeavour to provide adequate educational opportunities at all levels of study for all citizens.
 
-(2) The State shall pursue policies to ensure basic education for all citizens and shall endeavour to provide adequate resources so that such tuition for basic education shall be free for all citizens.
+(2) The state shall pursue policies to ensure basic education for all citizens and shall endeavour to provide adequate resources so that such tuition for basic education shall be free for all citizens.
 
-(3) The State shall endeavour to provide skills training centres.
+(3) The state shall endeavour to provide skills training centres.
 
 (4) The State shall take measures to create an adult literacy programme, rehabilitative vocational training for the disabled, and continuing education programmes.
 
-#### Cultural objectives 218.
+#### Cultural objectives 218
 
-The State and all the people of The Gambia shall strive to protect, preserve and foster the languages, historic sites, cultural, natural and artistic heritage of The Gambia.
+The state and all the people of The Gambia shall strive to protect, preserve and foster the languages, historic sites, cultural, natural and artistic heritage of The Gambia.
 
-#### Foreign relations 219.
+#### Foreign relations 219
 
 The State shall endeavour to ensure that in international relations it:
 
@@ -3971,13 +3859,13 @@ The State shall endeavour to ensure that in international relations it:
 
 (c) fosters respect for international law, treaty obligations and the settlement of international disputes by peaceful means; and
 
-(d) is guided by the principles and goals of international and regional organisations of which The Gambia is a signatory.
+(d) is guided by the principle and goals of international and regional organisations of which The Gambia is a signatory.
 
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
 
-#### Duties of a citizen 220.
+#### Duties of a citizen 220
 
 (1) The exercise and enjoyment of rights and freedoms are inseparable from the performance of duties and obligations, and accordingly, every citizen shall;
 
@@ -4007,9 +3895,9 @@ The State shall endeavour to ensure that in international relations it:
 
 ## CODE OF CONDUCT FOR PUBLIC OFFICERS
 
-#### Application of 221. Code of conduct
+#### Application of Code of conduct 221
 
-(1) The provisions of the code of Conduct set out in section 222 shall apply to persons who hold public office or hold office in a public service, members and the staff of local government authorities and public enterprises, and members of a disciplined force (each of whom is in this Chapter referred to as a 'public officer').
+(1) The provisions of the code of Conduct set out in section 222 shall apply to persons who hold public office or hold office in a public service, members and the staff of local government authorities and public enterprises, and members of a disciplined force (each of whom is in this Chapter referred to as a “public officer”).
 
 (2) The failure on the part of a public officer to observe a provision of this Code shall not, of itself, render that officer liable to any civil or criminal proceedings in any court, but any such failure may -
 
@@ -4027,7 +3915,7 @@ The State shall endeavour to ensure that in international relations it:
 
 (b) the adoption of supplementary codes of conduct by the Judicial Service Commission, the Public Service Commission, the competent authority of any public service or the disciplinary authorities of any disciplined force.
 
-#### The Code of 222. Conduct
+#### The Code of Conduct 222
 
 The Code of Conduct is as follows:
 
@@ -4061,7 +3949,7 @@ In the performance of his or her duties, a public officer shall observe the foll
 
 (b) be patient, dignified and courteous to all litigants, witnesses, legal practitioners and others in the exercise of such functions, and shall require similar conduct from his or her staff and others subject to his or her control.
 
-(c) Abstain from comment about the outcome of any pending or anticipated legal proceedings in any court in The Gambia and require similar abstention from his or her staff and others subject to his or her control;
+(c) abstain from comment about the outcome of any pending or anticipated legal proceedings in any court in The Gambia and require similar abstention from his or her staff and others subject to his or her control;
 
 ###### FINANCIAL
 
@@ -4069,7 +3957,7 @@ In the performance of his or her duties, a public officer shall observe the foll
 
 (10) A public officer shall not put himself or herself in a position where his or her personal interest conflicts with his or her duties or responsibilities.
 
-(11) A public officer shall not ask for or accept any property or benefits of any kind for himself or herself or any other person on account of anything done or omitted to be done by him or her in the course of his or her duties. The receipt of any gift or benefit from or on behalf of a commercial firm, business enterprise or a person having or negotiating a contract with the Government shall be deemed to be in contravention of this paragraph unless the contrary is established.
+(11) A public officer shall not ask for or accept any property or benefits of any kind for himself or herself or any other person on account of anything done or omitted to be done by him or her in the course of his or her duties. The receipt of any gift or benefit from or on behalf of a commercial firm, business enterprise or a person having or negotiating a contract with the government shall be deemed to be in contravention of this paragraph unless the contrary is established.
 
 [[END OF PAGE 125]]
 
@@ -4091,7 +3979,7 @@ In the performance of his or her duties, a public officer shall observe the foll
 
 (15) The President shall undertake a nation-wide tour at least twice a year in order to familiarise himself or herself with current conditions and the effect of government policies.
 
-#### Declaration 223. Of assets
+#### Declaration of assets 223.
 
 (1) A public officer to whom this section applies shall submit to the Ombudsman a written declaration of all property and assets owned by him or her, and of liabilities owed by him or her, whether directly or indirectly-
 
@@ -4125,7 +4013,8 @@ In the performance of his or her duties, a public officer shall observe the foll
 
 (6) This section applies to all public officers other than members of the public service, the staff of a local government authority or public enterprise or members of a disciplined force, below such position or rank as may be prescribed by or under an Act of the National Assembly.
 
-#### Ombudsman to 224. Report contravention of Code of Conduct
+#### Ombudsman to Report contravention of Code of Conduct 224.
+
 Where, in the course of any investigation, it appears to the Ombudsman that there has been a contravention of the Code of Conduct set out in this Chapter, he or she may-
 
 (a) in the case of a public officer in a public service or who is subject to other disciplinary procedures, refer the matter to the appropriate disciplinary authority; or
@@ -4137,29 +4026,31 @@ Where, in the course of any investigation, it appears to the Ombudsman that ther
 [[START OF PAGE 128]]
 
 #### Payment of Taxes 225.
+
 The holder of a public office shall promptly pay all taxes due from him or her, and he or she shall, when required, provide evidence of such payment.
 
 ## CHAPTER XXII
 ## AMENDMENT OF THE CONSTITUTION
 
 #### Alteration of this Constitution 226.
+
 (1) Subject to the provisions of this section, an Act of the National Assembly may alter this Constitution.
 
-(2) Subject to subsection (4), a Bill for an Act of the National Assembly under this section shall not be passed by the National Assembly or presented to the President for assent unless-
+(2) Subject to subsection (4), a bill for an Act of the National Assembly under this section shall not be passed by the National Assembly or presented to the President for assent unless-
 
 (a) before the first reading of the Bill in the National Assembly, the Bill is published in at least two issues of the Gazette, the latest publication being not less than three months after the first, and the Bill is introduced into the National Assembly not earlier than ten days after the latest publication; and
 
 (b) the Bill is supported on the second and third readings by the votes of not less than three quarters of all the members of the National Assembly.
 
-(3) If the President fails to assent within thirty days to a Bill passed by the National Assembly in accordance with subsection (2), the Bill shall be returned to the Speaker who shall refer it to the Independent Electoral Commission and the Commission shall cause a referendum to be held on the Bill in accordance with subsection (4) and, if the Bill is supported on such a referendum by the majority of voters provided for in that subsection, it shall again be presented to the President for his assent.
+(3) If the President fails to assent within thirty days to a Bill passed by the National Assembly in accordance with subsection (2), the Bill shall be returned to the Speaker who shall refer it to the Independent Electoral Commission. The Commission shall cause a referendum to be held on the Bill in accordance with subsection (4) and, if the Bill is supported on such a referendum by the majority of voters provided for in that subsection, it shall again be presented to the President for his assent.
 
 (4) A Bill for an Act of the National Assembly altering any of the provisions referred to in subsection (7) shall not be passed by the National Assembly or presented to the President for assent unless-
 
 (a) the Bill is published and introduced in the manner required by paragraph (a) of subsection (2);
 
-(b) the Bill is supported on the second and third readings by the votes of not less than three quarters of all the members of the National Assembly;
+(b) The Bill is supported on the second and third readings by the votes of not less than three quarters of all the members of the National Assembly;
 
-(c) the Bill has been referred by the Speaker to the Independent Electoral Commission and the Commission has, within six months of
+(c) The Bill has been referred by the Speaker to the Independent Electoral Commission and the Commission has, within six months of
 
 [[END OF PAGE 128]]
 
@@ -4167,13 +4058,13 @@ The holder of a public office shall promptly pay all taxes due from him or her, 
 
 such reference, held a referendum on the Bill; and
 
-(d) at least fifty per cent of the persons entitled to vote in the referendum have taken part in the referendum and the Bill is supported in the referendum by at least seventy five per cent of those who voted.
+(d) At least fifty per cent of the persons entitled to vote in the referendum have taken part in the referendum and the Bill is supported in the referendum by at least seventy five per cent of those who voted.
 
 (5) The Speaker and, in the case of a Bill to which subsection (3) or (4) applies, the Independent Electoral Commission shall certify that the relevant provisions of this section have been complied with and such certificates shall be delivered to the President when the Bill is presented for assent.
 
 (6) Where a Bill which has been supported in a referendum by the majority provided for in subsection (4) is presented to the President for assent, the President shall assent to the Bill within seven days.
 
-(7) Subsection (4) applies to-
+(7) Subsection (4) applies to -
 
 (a) this section;
 
@@ -4197,7 +4088,7 @@ such reference, held a referendum on the Bill; and
 
 (k) Sections 149 (1) and 151 (1) (which relate to taxation and the withdrawal of money from public funds);
 
-(l) Section 193(1) (which relates to local government);
+(l) Section 193(1) (which relate to local government);
 
 [[END OF PAGE 129]]
 
@@ -4205,7 +4096,7 @@ such reference, held a referendum on the Bill; and
 
 (8) No Act of the National Assembly shall be deemed to amend, add to, repeal or in any way alter any of the provisions of this Constitution unless the title of the Act clearly indicates that intention and the Act does so in express terms.
 
-(9) In this section-
+(9) In this section -
 
 (a) references to this Constitution include references to any law that amends or replaces any of the provisions of this Constitution;
 
@@ -4217,6 +4108,7 @@ such reference, held a referendum on the Bill; and
 ### PART 1 : APPOINTMENTS AND RESIGNATIONS
 
 #### Acting appointment 227.
+
 (1) In this Constitution, unless a contrary intention appears:
 
 (a) any reference to a power of appointment to an office shall be construed as including a reference to the power to appoint a person to act in or perform the functions of that office;
@@ -4230,6 +4122,7 @@ such reference, held a referendum on the Bill; and
 [[START OF PAGE 131]]
 
 #### Resignations 228.
+
 (1) Any person who is appointed or elected to or otherwise selected for, any office established by or under this Constitution may resign from that office by writing under his or her hand addressed to the person or authority by whom he or she was appointed, elected or selected. In the case of:
 
 (a) the President, his or her resignation shall be addressed to the Speaker and to the Chief Justice;
@@ -4240,13 +4133,14 @@ such reference, held a referendum on the Bill; and
 
 (d) a member of the National Assembly, his or her resignation shall be addressed to the Speaker.
 
-(2) Any such resignation shall take effect, when no date is specified, when the writing is received-
+(2) Any such resignation shall take effect, when no date is specified, when the writing is received -
 
 (a) in the case of the President, by the Speaker;
 
 (b) in any other case, by the person or authority to whom it is addressed or by any person authorised by that person or authority to receive it.
 
 #### Reappointment 229.
+
 (1) Subject to the provisions of this Constitution, where a person has vacated any office established by or under the Constitution, he or she may, if qualified, again be appointed, elected or otherwise selected to hold that office in accordance with the provisions of this Constitution.
 
 (2) Where by this Constitution a power is conferred on any person or authority to make any appointment to any public office, a person may be appointed to that office notwithstanding that some other person may be holding that office when that other person is on leave of absence pending relinquishment of the office; and where two or more persons are holding the same office by reason of any appointment made in pursuance of this subsection, then for the purposes of any function conferred on the holder of that office, the person last appointed shall be deemed to be the holder of the office.
@@ -4258,13 +4152,14 @@ such reference, held a referendum on the Bill; and
 ### PART 2 : GENERAL
 
 #### Interpretation 230.
-(1) In this Constitution, unless a contrary intention appears-
+
+(1) In this Constitution, unless a contrary intention appears -
 
 'An Act of the National Assembly' includes an Act of Parliament established under any previous Constitution of The Gambia and a Decree of any former government;
 
 'All the members' in relation to the National Assembly, means all the members for the time being of the National Assembly;
 
-'Compulsory retirement age' has the meaning ascribed to it in section 171;
+'Compulsory retirement age' has the meaning ascribed to it in section 171.
 
 'Court' means any court of law in The Gambia, including a court martial;
 
@@ -4298,13 +4193,13 @@ such reference, held a referendum on the Bill; and
 
 'public elections' mean the election for a President, National Assembly and a local government authority;
 
-'public enterprise' has the meaning ascribed to it in section 175;
+'public Enterprise' has the meaning ascribed to it in section 175;
 
-'public office' includes an office the emoluments attached to which are paid directly from the Consolidated Fund or directly out of moneys provided by an Act of the National Assembly, and the office of a member of a local government authority or the staff of a public enterprise;
+'public office' includes an office the emoluments attached to which are paid directly from the Consolidated Fund or directly out of moneys provided by an Act of the National Assembly, and the office of a member of a local government authority or the staff of a public Enterprise;
 
-'the public service' means, subject to subsections (3) and (4) of section 166, a service declared to be, or established as, a public service by or under that section;
+'the public service' means subject to subsection (3) and (4) of section 166 a service declared to be, or established as, a public service by or under that section;
 
-'session' means the sitting of the National Assembly of The Gambia commencing when it first meets after a general election or after the adjournment of a session and ending when the session is adjourned or the National Assembly stands dissolved;
+'session' means the sitting of the National Assembly of The Gambia commencing when it first meets after a general election or after the adjournment of a session and ending when the session is adjourned or the National Assembly stands dissolved.
 
 'superior court' in relation to the courts of The Gambia, means the Supreme Court, the Court of Appeal and the High Court.
 
@@ -4318,13 +4213,13 @@ such reference, held a referendum on the Bill; and
 
 (d) words directing or empowering a public officer to do any act or thing, or otherwise applying to him or her by the designation of his or her office, shall include his or her successors in office;
 
-(e) references to a subsection, paragraph, subparagraph or item shall be construed as a reference to a subsection, paragraph, subparagraph or item of the section, subsection, paragraph or subparagraph, as the case may be, in which the reference occurs.
+(e) references to a subsection, paragraph, sub-paragraph or item shall be construed as a reference to a subsection, paragraph, sub-paragraph or item of the section, subsection, paragraph or sub-paragraph, as the case may be, in which the reference occurs.
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
 
-(3) For the purposes of this Constitution, a person shall not be regarded as holding an office of emolument under the Government or in the service of The Gambia by reason only that he or she is in receipt of a pension or other like benefit in respect of his or her service in an office under the Government.
+(3) For the purposes of this Constitution, a person shall not be regarded as holding an office of emolument under the Government or in the service of The Gambia by reason only that he or she is in receipt of a pension or other like benefit in respect of his or her service in an office under the government.
 
 (4) For the avoidance of doubt it is hereby declared that any reference in this Constitution to the functions of the President includes reference to his or her functions as Commander-in-Chief of the Armed Forces of the Republic.
 
@@ -4344,7 +4239,8 @@ such reference, held a referendum on the Bill; and
 
 [[START OF PAGE 135]]
 
-#### Transitional and consequential provisions 232.
+#### Transitional and consequential provision 232.
+
 Notwithstanding any other provision of this Constitution, the provisions of Schedule 2 shall have effect on the coming into force of this Constitution.
 
 ## SCHEDULE 1
@@ -4353,9 +4249,7 @@ Notwithstanding any other provision of this Constitution, the provisions of Sche
 
 The National Flag of The Gambia shall be a flag of the following design:
 
-The flag shall measure twenty-seven units across and eighteen units down.
-
-It shall be divided into horizontal stripes which shall have the following colours and dimensions from the top to the bottom:
+The flag shall measure twenty-seven units across and eighteen units down. It shall be divided into horizontal stripes which shall have the following Colours and dimensions from the top to the bottom:
 
 Red- six units one third
 
@@ -4369,7 +4263,7 @@ Green- six units one third.
 
 ## SCHEDULE 2
 
-## TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
+## TRANSITIONAL AND CONSEQUENTIAL PROVISION
 
 #### Interpretation
 
@@ -4391,7 +4285,7 @@ Green- six units one third.
 
 #### First constituency members of the National Assembly
 
-4. Notwithstanding any other provision of this Constitution, the National Assembly constituencies established by the Elections Decree 1996 shall, until other provision is made in accordance with Chapter V of this Constitution, be deemed to be constituencies for the purposes of the Constitution and the persons duly elected as members of the National Assembly for those constituencies in accordance with the said Electoral Decree 1996 shall be deemed to have been elected as such members for their respective constituencies. Such members shall hold their seats in accordance with the provisions of this Constitution.
+4. Notwithstanding any other provision of this Constitution, the National Assembly constituencies established by the Elections Decree 1996 shall, until other provision is made in accordance with Chapter V of this Constitution, be deemed to be constituencies for the purposes of the Constitution and the persons duly elected as members of the National Assembly for those constituencies in accordance with the said Elections Decree 1996 shall be deemed to have been elected as such members for their respective constituencies. Such members shall hold their seats in accordance with the provisions of this Constitution.
 
 #### First meeting of the National Assembly
 
@@ -4409,27 +4303,29 @@ Green- six units one third.
 
 (2) Where, immediately before the coming into force of this Constitution, any existing law had not been brought into force or was to come into force on a date subsequent to the coming into force of this Constitution, the law may be brought into force in accordance with its terms, or it shall come into force on such subsequent date, as the case may be, in so far as it is not inconsistent with this Constitution.
 
-(3) Subject to subparagraph (4) and to it being consistent with this Constitution in any existing law-
+(3) Subject to subparagraph (4) and to it being consistent with this Constitution in any existing law -
 
 (a) a reference to the exercise of a legislative function (other than a power to make subsidiary legislation) by the Government or the Armed Forces Provisional Ruling Council shall, after the coming into force of this Constitution, be read as a reference to the exercise of that function by an Act of the National Assembly;
 
-(b) a reference to a power to make subsidiary legislation by the Government or the Armed Forces Provisional Ruling Council shall, after the coming into force of this Constitution, be read as a reference to the President or to such Secretary of State or other authority as the President may by Order, published in the Gazette, direct; and
+(b) A reference to a power to make subsidiary legislation by the Government or the Armed Forces Provisional Ruling Council shall, after the coming into force of this Constitution, be read as a reference to the President or to such Secretary of State or other authority as the President may by Order, published in the Gazette, direct; and
 
-(c) a reference to the exercise of an executive function by the Government, or any function (other than a legislative function) or power by the Armed Forces Provisional Ruling Council or the Chairman thereof, shall, after the coming into force of this Constitution, be read as a reference to the exercise of that function or power by the President.
+(c) A reference to the exercise of an executive function by the Government, or any function (other than a legislative function) or power by the Armed Forces Provisional Ruling Council or the Chairman thereof, shall, after the coming into force of this Constitution, be read as a reference to the exercise of that function or power by the President.
 
 [[END OF PAGE 137]]
 
 [[START OF PAGE 138]]
 
-6 of 2001 (4) The President may, by Order published in the Gazette and made with the approval of the National Assembly, at any time after the coming into force of the Constitution make such provision as may appear necessary for repealing, modifying, adding to or adapting any existing law for bringing it into accord with the provisions of this Constitution.
+6 of 2001
+
+(4) The President may, by Order published in the Gazette and made with the approval of the National Assembly, at any time after the coming into force of the Constitution make such provision as may appear necessary for repealing, modifying, adding to or adapting any existing law for bringing it into accord with the provisions of this Constitution.
 
 #### The Court
 
 7. (1) The High Court established by this Constitution shall be the successor of the existing Supreme Court:
 
-(a) proceedings commenced in the existing Supreme Court may be continued before the same judge in the High Court without any break; and
+(a) Proceedings commenced in the existing Supreme Court may be continued before the same judge in the High Court without any break; and
 
-(b) after the coming into force of this Constitution, the judgements, decrees and orders of the existing Supreme Court shall continue in force and shall be given effect as if they were the judgments, decrees or orders of the High Court.
+(b) After the coming into force of this Constitution, the judgements, decrees and orders of the existing Supreme Court shall continue in force and shall be given effect as if they were the judgments, decrees or orders of the High Court.
 
 (2) The existing Court of Appeal shall be deemed to have been established by this Constitution.
 
@@ -4455,9 +4351,9 @@ Green- six units one third.
 
 9. (1) Subject to the other provisions of this Schedule, where any office has been established by or under an existing law and this Constitution establishes or provides for the establishment of a similar or corresponding office, any person who, immediately before the coming into force of this Constitution holds or is acting in the former office shall, in so far as it is consistent with this Constitution, be deemed as from the coming into force of this Constitution to have been appointed, elected or otherwise selected to or to act in the latter office:
 
-Provided that-
+Provided that -
 
-(a) any person who, under the existing law, would have been required to vacate his or her office at the expiration of any period or at the attainment of any age shall vacate his or her office on the expiry of that period or on the attainment of that age;
+(a) any person who, under the existing law, would have been required to vacate his or her office at the expiration of any period or on the attainment of any age shall vacate his or her office on the expiry of that period or on the attainment of that age;
 
 (b) nothing in this paragraph affects the power of any person or authority under this Constitution to make provision for the abolition of any office or the removal of any person from office or to require any person to retire from office;
 
@@ -4483,7 +4379,7 @@ Provided that-
 
 11. (1) Where any order, penalty or investigation has been made or commenced before the coming into force of this Constitution by any person or authority that has power for that purpose under any Decree establishing any Commission of inquiry, that penalty, order or investigation may be carried on and be completed by the person or authority having power for the purpose after the coming into force of this Constitution, and it shall not be necessary for the person or authority to commence the investigation or make the order or penalty afresh.
 
-(2) For avoidance of doubt, any Commission of inquiry established in accordance with a Decree of the Armed Forces Provisional Ruling Council before the coming into force of this Constitution shall continue to exist and shall exercise their functions in accordance with the Orders establishing them.
+(2) For the avoidance of doubt, any Commission of inquiry established in accordance with a Decree of the Armed Forces Provisional Ruling Council before the coming into force of this Constitution shall continue to exist and shall exercise their functions in accordance with the Orders establishing them.
 
 (3) Any Order, Ruling, finding of fact, seizure, sale or alienation of property or penalty imposed or thing done by or carried out under the authority of any Commission of Inquiry established in accordance with a Decree of the Armed Forces Provisional Ruling Council shall not be questioned or reversed by any Court or other authority under this Constitution or any other law.
 
@@ -4501,7 +4397,9 @@ Provided that-
 
 #### Legal Proceedings
 
-6 of 2001 13. (1) No member of the Armed Forces Provisional Ruling Council, any person appointed minister by the Armed Forces Provisional Ruling Council or other appointees of the Armed Forces Provisional Ruling Council shall be held liable or answerable before a Court or authority or under this Constitution or any other law, either jointly or severally, for an act or omission in the performance of his or her official duties.
+6 of 2001
+
+13. (1) No member of the Armed Forces Provisional Ruling Council, any person appointed minister by the Armed Forces Provisional Ruling Council or other appointees of the Armed Forces Provisional Ruling Council shall be held liable or answerable before a Court or authority or under this Constitution or any other law, either jointly or severally, for an act or omission in the performance of his or her official duties.
 
 (2) After the coming into force of this Constitution, it shall not be lawful for any court or tribunal to entertain any action or take any decision or make any order or grant any remedy or relief in any proceedings instituted against the Government of The Gambia or any person acting under the authority of the Government of The Gambia, or against any person or persons acting in concert or individually to assist or bring about the change in Government which took place on the twenty second day of July 1994, in respect of any act or omission relating to, or consequent upon:
 
