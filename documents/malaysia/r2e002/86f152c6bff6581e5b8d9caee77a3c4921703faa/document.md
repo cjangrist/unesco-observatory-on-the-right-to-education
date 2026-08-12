@@ -33,6 +33,7 @@ First Reprint ... ... ... ... ... 2002
 Second Reprint ... ... ... ... ... 2006
 
 Third Reprint ... … … … … 2012
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -81,11 +82,11 @@ Section
 
 [[START OF PAGE 4]]
 
+4
+
 Laws of Malaysia
 
 ACT 550
-
-4
 
 # PART III
 
@@ -135,9 +136,9 @@ Section
 
 [[START OF PAGE 5]]
 
-5
-
 Education
+
+5
 
 Section
 
@@ -167,7 +168,7 @@ Section
 
 33. Post-secondary education
 
-## Chapter 5A – Vocational Colleges
+## Chapter 5A—Vocational Colleges
 
 33A. Establishment and maintenance of vocational college
 
@@ -180,16 +181,15 @@ Section
 ## Chapter 6—Other Educational Institutions
 
 34. Other educational institutions
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+6
+
 Laws of Malaysia
 
 ACT 550
-
-6
 
 ## Chapter 7—Technical Education and Polytechnics
 
@@ -228,14 +228,13 @@ Section
 48. Instrument of government for institutes of teacher education
 
 49. Power to make regulations in relation to institutes of teacher education
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-7
-
 Education
+
+7
 
 ## Chapter 10—Religious Teaching in Educational Institutions
 
@@ -261,7 +260,7 @@ Section
 
 58. Power of Minister in relation to exercise of functions, etc.
 
-59. Dissolution of board of governors of government or government aided educational institution
+59. Dissolution of board of governors of government or government-aided educational institution
 
 60. Notice of dissolution to contain consequential directions
 
@@ -278,16 +277,15 @@ Section
 65. Medical and dental inspection of pupils
 
 66. Boarding facilities
-
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+8
+
 Laws of Malaysia
 
 ACT 550
-
-8
 
 # PART V
 
@@ -339,9 +337,9 @@ Section
 
 [[START OF PAGE 9]]
 
-9
-
 Education
+
+9
 
 Section
 
@@ -393,11 +391,11 @@ Section
 
 [[START OF PAGE 10]]
 
+10
+
 Laws of Malaysia
 
 ACT 550
-
-10
 
 ## Chapter 5—Inspection of Educational Institutions by the Registrar General
 
@@ -446,14 +444,13 @@ Section
 ## Chapter 3—Miscellaneous
 
 115. Surrender of certificates of registration as a teacher
-
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-11
-
 Education
+
+11
 
 Section
 
@@ -500,16 +497,15 @@ Section
 128. No appearance by advocate and solicitor before the Committee of Enquiry
 
 129. Evidence before the Committee of Enquiry
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
+12
+
 Laws of Malaysia
 
 ACT 550
-
-12
 
 # PART XIII
 
@@ -559,9 +555,9 @@ Section
 
 [[START OF PAGE 13]]
 
-13
-
 Education
+
+13
 
 Section
 
@@ -593,8 +589,7 @@ Section
 
 156. Power of Minister of Finance
 
-SCHEDULE
-
+# SCHEDULE
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
@@ -633,11 +628,11 @@ AND WHEREAS the National Education Policy is based on the National Philosophy of
 
 [[START OF PAGE 16]]
 
+16
+
 Laws of Malaysia
 
 ACT 550
-
-16
 
 spiritually, emotionally and physically balanced and harmonious, based on a firm belief in and devotion to God. Such an effort is designed to produce Malaysian citizens who are knowledgeable and competent, who possess high moral standards, and who are responsible and capable of achieving a high level of personal well-being as well as being able to contribute to the betterment of the family, the society and the nation at large”:
 
@@ -659,9 +654,9 @@ NOW, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong w
 
 [[START OF PAGE 17]]
 
-17
-
 Education
+
+17
 
 ### Interpretation
 
@@ -697,11 +692,11 @@ Education
 
 [[START OF PAGE 18]]
 
+18
+
 Laws of Malaysia
 
 ACT 550
-
-18
 
 “correspondence school” means an organization or institution providing instruction or teaching by means of correspondence;
 
@@ -733,9 +728,9 @@ ACT 550
 
 [[START OF PAGE 19]]
 
-19
-
 Education
+
+19
 
 “employee” means a person employed by a board of governors, other than a governor, a teacher or such other person as may be appointed or nominated by the Minister under subsection 58(2) or 61(2), as the case may be, employed or actively taking part in work connected with the running or the administration of an educational institution;
 
@@ -761,11 +756,11 @@ Education
 
 [[START OF PAGE 20]]
 
+20
+
 Laws of Malaysia
 
 ACT 550
-
-20
 
 “kindergarten” means any place where pre-school education is provided to ten or more pupils;
 
@@ -797,9 +792,9 @@ ACT 550
 
 [[START OF PAGE 21]]
 
-21
-
 Education
+
+21
 
 (b) using the national language as the main medium of instruction;
 
@@ -831,11 +826,11 @@ and includes any such school providing a transition class;
 
 [[START OF PAGE 22]]
 
+22
+
 Laws of Malaysia
 
 ACT 550
-
-22
 
 “place” means any place, whether public or private;
 
@@ -865,9 +860,9 @@ ACT 550
 
 [[START OF PAGE 23]]
 
-23
-
 Education
+
+23
 
 “Registrar General” means the Registrar General of Educational Institutions and Teachers appointed under subsection 5(1), and includes the Deputy Registrar General of Educational Institutions and Teachers appointed under subsection 5(2);
 
@@ -897,11 +892,11 @@ and includes a head teacher or principal;
 
 [[START OF PAGE 24]]
 
+24
+
 Laws of Malaysia
 
 ACT 550
-
-24
 
 “upper secondary education” means education suitable to the abilities and aptitudes of a pupil who has completed lower secondary education;
 
@@ -931,21 +926,21 @@ ACT 550
 
 [[START OF PAGE 25]]
 
-25
-
 Education
+
+25
 
 ### Registrar General of Educational Institutions and Teachers
 
 5. (1) There shall be a Registrar General of Educational Institutions and Teachers who shall be appointed by the Minister.
 
-(2) The Minister may appoint a Deputy Registrar General of Educational Institutions and Teachers.
+(2) The  Minister  may  appoint  a  Deputy  Registrar  General  of Educational Institutions and Teachers.
 
-(3) The Minister shall appoint a Registrar of Educational Institutions and Teachers for each State and for such area within Malaysia as may be determined by the Minister, and may appoint such numbers of Deputy Registrars of Educational Institutions and Teachers, Assistant Registrars of Schools and Assistant Registrars of Teachers as may be considered necessary for the purposes of this Act.
+(3) The Minister shall appoint a Registrar of Educational Institutions  and  Teachers  for  each  State  and  for  such  area  within Malaysia  as  may  be  determined  by  the  Minister,  and  may  appoint such  numbers  of  Deputy  Registrars  of  Educational  Institutions  and Teachers, Assistant Registrars of Schools and Assistant Registrars of Teachers as may be considered necessary for the purposes of this Act.
 
-(4) The Deputy Registrar General, the Registrars, the Deputy Registrars and the Assistant Registrars shall be under the direction and control of the Registrar General.
+(4) The  Deputy  Registrar  General,  the  Registrars,  the  Deputy Registrars  and  the  Assistant  Registrars  shall  be  under  the  direction and control of the Registrar General.
 
-(5) The Registrar General shall have the powers and exercise the functions conferred on him by this Act, and in his absence such powers and functions may be had or exercised by the Deputy Registrar General.
+(5) The Registrar General shall have the powers and exercise the functions  conferred  on  him  by  this  Act,  and  in  his  absence  such powers  and  functions  may  be  had  or  exercised  by  the  Deputy Registrar General.
 
 (6) The Registrar, the Deputy Registrar or the Assistant Registrar may exercise all the powers and functions conferred on the Registrar General by or under this Act, subject to any restriction that may be imposed by the Registrar General.
 
@@ -955,7 +950,7 @@ Education
 
 (2) The Minister shall appoint such other Inspectors of Schools as may be considered necessary for the purposes of this Act.
 
-(3) All Inspectors of Schools appointed under subsection (2) shall be subject to the direction and control of the Chief Inspector of Schools.
+(3) All Inspectors of Schools appointed under subsection (2) shall be  subject  to  the  direction  and  control  of  the  Chief  Inspector  of Schools.
 
 [[END OF PAGE 25]]
 
@@ -1199,7 +1194,7 @@ Education
 
 ### Duration of primary education
 
-29. A national school, national-type school or private school established under this Act shall provide a course of primary education designed for a duration of six years but which may be completed within five to seven years.
+29. A  national school, national-type school or private school established under this Act shall provide a course of primary education design for a duration of six years but which may be completed within five to seven years.
 
 ### Compulsory primary education
 
@@ -1261,13 +1256,13 @@ Education
 
 33. The Minister may provide post-secondary education in—
 
-(a) the  national  secondary  schools  described  in  paragraphs 30(1) (a) and (1) (b) ;
+(a) the national secondary schools described in paragraphs 30(1)(a) and (1)(b);
 
 (b) colleges; and
 
-(c) any other national secondary school or educational institution  established  and  maintained  by  the  Minister under this Act.
+(c) any other national secondary school or educational institution established and maintained by the Minister under this Act.
 
-## Chapter 5A – Vocational Colleges
+## Chapter 5A—Vocational Colleges
 
 ### Establishment and maintenance of vocational college
 
@@ -1279,7 +1274,7 @@ Education
 
 33B. The Minister shall prescribe a curriculum, to be known as the Vocational College Standard Curriculum, which shall be used by all vocational colleges.
 
-### Collaboration  with  other  institution,  corporation  or  industrial organization
+### Collaboration with other institution, corporation or industrial organization
 
 33C. (1) A vocational college may collaborate with any institution, corporation or industrial organization for the purposes of—
 
@@ -1361,13 +1356,13 @@ ACT 550
 
 ## Chapter 7—Technical Education and Polytechnics
 
-### Technical  and  vocational  education  and  training in  national secondary schools and other educational institutions
+### Technical and vocational education and training in national secondary schools and other educational institutions
 
 35. (1) The Minister may provide technical and vocational education and training in—
 
 (a) any national secondary school described in section 30; or
 
-(b) other educational institutions described in paragraph 34(1) (a) or (1) (c) .
+(b) other educational institutions described in paragraph 34(1)(a) or (1)(c).
 
 (2) For the purpose of subsection (1), technical and vocational education and training includes the provision of—
 
@@ -1377,7 +1372,7 @@ ACT 550
 
 (c) training for the upgrading of existing skills; and
 
-(d) such  other  technical  or  vocational  training  as  may  be approved by the Minister.
+(d) such other technical or vocational training as may be approved by the Minister.
 
 ### Polytechnics may offer courses of study and award qualifications approved by Minister
 
@@ -1429,17 +1424,17 @@ ACT 550
 
 39. The Minister may make regulations for the carrying into effect of the provisions of this Chapter and, without prejudice to the generality of such power, the regulations may provide for—
 
-(a) the establishment of a board or body  to carry out evaluation  or  assessment  or  to  conduct  examinations  for polytechnics;
+(a) the establishment of a board or body to carry out evaluation or assessment or to conduct examinations for polytechnics;
 
-(b) the establishment of a board or body to develop, monitor and  modify  the  curriculum  as  to  courses  of  study  and training programmes offered by polytechnics;
+(b) the establishment of a board or body to develop, monitor and modify the curriculum as to courses of study and training programmes offered by polytechnics;
 
-(c) the award  of a certificate or diploma  or any other qualification;
+(c) the award of a certificate or diploma or any other qualification;
 
 (d) the discipline of pupils;
 
 (e) the establishment, organization, management, control and dissolution of any council, body or committee for extracurricular activities in polytechnics; and
 
-(f) any  other  matter  which  the  Minister  deems  expedient  or necessary for the purposes of this Chapter.
+(f) any other matter which the Minister deems expedient or necessary for the purposes of this Chapter.
 
 ## Chapter 8—Special Education
 
@@ -1447,7 +1442,7 @@ ACT 550
 
 40. The Minister shall provide special education in special schools established under paragraph 34(1)(b) or in such primary or secondary schools as the Minister deems expedient.
 
-### Power  to  prescribe  the  duration  of  and  curriculum  on  special education
+### Power to prescribe the duration of and curriculum on special education
 
 41. (1) Subject to subsections (2) and (3), the Minister may by regulations prescribe—
 
@@ -1499,7 +1494,7 @@ ACT 550
 
 45. Notwithstanding section 42, the Minister may establish and maintain institutes of teacher education and provide therein teacher education.
 
-### Institutes  of  teacher  education  to  conduct  courses  of  study approved by Minister
+### Institutes of teacher education to conduct courses of study approved by Minister
 
 46. Every teacher education college established under this Chapter shall conduct such courses of study and training programmes as may be approved by the Minister.
 
@@ -1521,7 +1516,7 @@ Education
 
 higher education concerned with the conduct of the courses of study or training programmes.
 
-(4) A person who contravenes subsection (1) or fails to comply with any term or condition imposed by the Minister under subsection (2) shall be guilty of an offence and shall, on conviction, be  liable  to  a  fine  not  exceeding  thirty  thousand  ringgit  or  to imprisonment for a term not exceeding two years or to both.
+(4) A person who contravenes subsection (1) or fails to comply with any term or condition imposed by the Minister under subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
 ### Instrument of government for institutes of teacher education
 
@@ -1673,17 +1668,17 @@ ACT 550
 
 58. (1) If the Minister is satisfied that in an educational institution—
 
-(a) the  governors  have  been  acting  or  are  proposing  to  act unreasonably  with  respect  to  the  exercise  of  any  power conferred  or  the  discharge  of  any  duty  imposed  by  or under this Act; or
+(a) the governors have been acting or are proposing to act unreasonably with respect to the exercise of any power conferred or the discharge of any duty imposed by or under this Act; or
 
 (b) the governors have failed to discharge any duty imposed upon them by or under this Act,
 
 the Minister may—
 
-(aa) give  such  directions  in  writing  as  to  the  exercise  of  the power or the discharge of the duty as appear to him to be expedient, with which directions it shall be the duty of the governors to comply; or
+(aa) give such directions in writing as to the exercise of the power or the discharge of the duty as appear to him to be expedient, with which directions it shall be the duty of the governors to comply; or
 
-(bb) suspend  or  dismiss  all  or  any  of  the  governors  and, notwithstanding the provisions of any instrument relating to  the  institution,  appoint  such  person  or  persons  as  he may think fit to have and to exercise all the functions of the governors for such period as he may direct.
+(bb) suspend or dismiss all or any of the governors and, notwithstanding the provisions of any instrument relating to the institution, appoint such person or persons as he may think fit to have and to exercise all the functions of the governors for such period as he may direct.
 
-(2) If at any time, for an educational institution, there is no board of  governors  constituted  under  this  Act  the  Minister  may  appoint such person or persons as he may think fit to exercise the functions of governors for the institution for such period as he may direct.
+(2) If at any time, for an educational institution, there is no board of governors constituted under this Act the Minister may appoint such person or persons as he may think fit to exercise the functions of governors for the institution for such period as he may direct.
 
 ### Dissolution of board of governors of government or government-aided educational institution
 
@@ -1867,9 +1862,9 @@ ACT 550
 
 (4) Subsection (1) shall not apply to—
 
-(a) a  body  or  syndicate  established  to  manage  and  conduct examinations under paragraph 68 (e) ;
+(a) a  body  or  syndicate  established  to  manage  and  conduct examinations under paragraph 68(e);
 
-(b) the Malaysian Examinations Council established under the Malaysian Examinations Council Act 1980 [ Act 225 ]; and
+(b) the Malaysian Examinations Council established under the Malaysian Examinations Council Act 1980 [Act 225]; and
 
 (c) an educational institution which conducts its own examination,  test  or  other  forms  of  assessment  for  the purpose of assessing its own pupils.
 
@@ -1901,7 +1896,7 @@ Education
 
 (c) operate, manage or maintain any class for the teaching and learning  of  higher  education  unless  the  class  is  being operated, managed or maintained by a higher educational institution; and
 
-(d) establish, operate, manage or maintain a higher educational institution by the use of the word 'university',
+(d) establish, operate, manage or maintain a higher educational institution by the use of the word “university”,
 
 except in accordance with any written law on higher education.
 
@@ -2453,7 +2448,7 @@ ACT 550
 
 (b) on the person to whom the certificate, document or permit was issued ceasing to teach in an educational institution in Malaysia for a continuous period exceeding two years, or on the death of the person;
 
-(b) on  written  demand  by  the  Registrar  General  for  the purpose of alteration, amendment, endorsement or replacement; or
+(c) on  written  demand  by  the  Registrar  General  for  the purpose of alteration, amendment, endorsement or replacement; or
 
 (d) in the case of a permit, on the expiration of its period of validity,
 
@@ -2519,11 +2514,11 @@ and  where  the  report  is  made  by  an  Inspector  of  Schools,  he  shall en
 
 ### General powers of Inspectors of Schools
 
-121. For  the  purpose  of  making  any  inspection  of  an  educational institution  under  section  117  the  Chief  Inspector  or  an  Inspector  of Schools (in this section referred to as an 'Inspector') may-
+121. For the purpose of making any inspection of an educational institution under section 117 the Chief Inspector or an Inspector of Schools (in this section referred to as an “Inspector”) may—
 
 (a) at any time enter an educational institution; and
 
-(b) require  the  chairman  of  the  board  of  governors  or  a governor or any other person responsible for the management of the educational institution or a teacher or employee or person found in the educational institution-
+(b) require the chairman of the board of governors or a governor or any other person responsible for the management of the educational institution or a teacher or employee or person found in the educational institution—
 
 (i) to produce for his inspection any time-table, syllabus or record pertaining to subjects taught or to be taught or any book, material, document or article relating to or which in the opinion of the Inspector may relate to the teaching carried on in the educational institution  or  the  management  of  the  educational institution; and
 
@@ -2551,7 +2546,7 @@ management  of  the  educational  institution,  teacher, employee or person to f
 
 123. Except in so far as moneys are approved or provided for that purpose by Parliament or otherwise, nothing in this Act shall be deemed to impose any duty upon the Minister to establish and maintain an educational institution under this Act or to maintain wholly or partially an educational institution.
 
-### Grant-in-aid and capital grant to be subject to conditions, etc. , as may be prescribed
+### Grant-in-aid and capital grant to be subject to conditions, etc., as may be prescribed
 
 124. Any grant-in-aid or capital grant payable under this Act to an educational institution other than a government educational institution from funds provided by Parliament for that purpose shall be paid subject to such conditions and limitations as may be prescribed.
 
@@ -2585,7 +2580,7 @@ the  educational  institution  has  failed  to  comply  with  any  of  the provi
 
 ### Powers of Committee of Enquiry
 
-127. Subject  to  section  129  and  any  regulations  made  under  this Act, a Committee of Enquiry shall have power-
+127. Subject to section 129 and any regulations made under this Act, a Committee of Enquiry shall have power—
 
 (a) to procure and receive all such evidence, written or oral, and to examine all such persons (including the appellant) as the Committee of Enquiry may consider desirable;
 
@@ -2849,7 +2844,7 @@ of an offence under paragraph (a),  (c),  (d),  (f) or (g) ,  be  liable  to  a 
 
 ### Offences and penalties relating to Inspectors
 
-134. A person who-
+134. A person who—
 
 (a) obstructs  or  impedes  the  Chief  Inspector  or  an  Inspector of Schools in the exercise of any powers conferred on him by section 121;
 
@@ -2903,7 +2898,7 @@ ACT 550
 
 (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been  instituted,  and  where  the  amount  specified  in  the  offer  is  not paid within the time specified in the offer, or within such extended period as the Registrar General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
-(3)   Where an offence has been compounded under subsection (1)-
+(3) Where an offence has been compounded under subsection (1)—
 
 (a) no prosecution shall thereafter be instituted in  respect  of the  offence  against  the  person  to  whom  the  offer  to compound was made; and
 
@@ -2993,7 +2988,7 @@ the notice, order or communication on a conspicuous part of the  premises  of  t
 
 ### Change of title of certain educational institutions
 
-146. On  the  appointed  date  all educational institutions  which, immediately before the date were-
+146. On the appointed date all educational institutions which, immediately before the date were—
 
 (a) national  primary  schools  shall  be  known  as  national schools; and
 
@@ -3039,7 +3034,7 @@ be  exempted  from  the  corresponding  provisions  of  this Act; and
 
 ### Saving in respect of registered educational institution, governor, manager or employee
 
-151. Any  educational  institution,  governor,  manager  or  employee registered  or  deemed  to  be  registered  under  the  provisions  of  the Education Act 1961 shall, on the appointed date, be deemed to have been registered under this Act and-
+151. Any educational institution, governor, manager or employee registered or deemed to be registered under the provisions of the Education Act 1961 shall, on the appointed date, be deemed to have been registered under this Act and—
 
 (a) subject  to  paragraph (b), the  provisions  of  this  Act  shall apply to the educational institution, governor, manager or employee  as if the educational institution, governor, manager or employee was registered under this Act; and
 
@@ -3197,29 +3192,29 @@ Act 550
 
 ## LIST OF SECTIONS AMENDED
 
-Section | Amending authority | In force from
---- | --- | ---
-2 | Act A1152 | 01-01-2003
- | Act A1341 | 15-06-2009
- | Act A1490 | 01-01-2012
-5 | Act A1152 | 01-01-2003
- | Act A1341 | 15-06-2009
-9A | Act A1341 | 15-06-2009
-15 | Act A1152 | 01-01-2003
-22 | Act A1152 | 01-01-2003
- | Act A1341 | 15-06-2009
-29 | Act A1152 | 01-01-2003
-29A | Act A1152 | 01-01-2003
-33A | Act A1490 | 01-01-2012
-33B | Act A1490 | 01-01-2012
-33C | Act A1490 | 01-01-2012
-33D | Act A1490 | 01-01-2012
-35 | Act A1490 | 01-01-2012
-44 | Act A1341 | 15-06-2009
-49 | Act A1341 | 15-06-2009
-67 | Act A1341 | 15-06-2009
-77 | Act A1341 | 15-06-2009
-130 | Act A1490 | 01-01-2012
-Throughout the Act | Act A1341 | 15-06-2009
+| Section | Amending authority | In force from |
+| --- | --- | --- |
+| 2 | Act A1152 | 01-01-2003 |
+|  | Act A1341 | 15-06-2009 |
+|  | Act A1490 | 01-01-2012 |
+| 5 | Act A1152 | 01-01-2003 |
+|  | Act A1341 | 15-06-2009 |
+| 9A | Act A1341 | 15-06-2009 |
+| 15 | Act A1152 | 01-01-2003 |
+| 22 | Act A1152 | 01-01-2003 |
+|  | Act A1341 | 15-06-2009 |
+| 29 | Act A1152 | 01-01-2003 |
+| 29A | Act A1152 | 01-01-2003 |
+| 33A | Act A1490 | 01-01-2012 |
+| 33B | Act A1490 | 01-01-2012 |
+| 33C | Act A1490 | 01-01-2012 |
+| 33D | Act A1490 | 01-01-2012 |
+| 35 | Act A1490 | 01-01-2012 |
+| 44 | Act A1341 | 15-06-2009 |
+| 49 | Act A1341 | 15-06-2009 |
+| 67 | Act A1341 | 15-06-2009 |
+| 77 | Act A1341 | 15-06-2009 |
+| 130 | Act A1490 | 01-01-2012 |
+| Throughout the Act | Act A1341 | 15-06-2009 |
 
 [[END OF PAGE 100]]
