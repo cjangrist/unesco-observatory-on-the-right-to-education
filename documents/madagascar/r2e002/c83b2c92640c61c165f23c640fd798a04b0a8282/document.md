@@ -1,11 +1,15 @@
 [[START OF PAGE 1]]
-
+MAP
+PLAN D’ACTION
+MADAGASCAR 2007-2012
+Un Plan Audacieux pour le Développement Rapide
 PDF created with pdfFactory Pro trial version www.pdffactory.com
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
+Madagascar naturellement !
+www.madagascar.gov.mg/MAP
 PDF created with pdfFactory Pro trial version www.pdffactory.com
 
 [[END OF PAGE 2]]
@@ -14,6 +18,9 @@ PDF created with pdfFactory Pro trial version www.pdffactory.com
 
 02 SectionOne FA (F) 10/30/06 12:21 PM Page 1
 
+MAP
+PLAN D’ACTION MADAGASCAR
+Un Plan Audacieux pour le Développement Rapide
 - 03 _ Message du Président
 
 - 05 _ La Vision Nationale
@@ -138,7 +145,7 @@ MAP › Plan d'Action Madagascar
 
 La fourniture de services de santé, un appui nutritionnel, l'éducation et le renforcement des compétences pour que chaque individu soit économiquement et socialement productif.
 
-## Capital en Infrastuctures
+## Capital en Infrastructures
 
 Les routes, l'électricité, l'eau et l'assainissement, les ports et les aéroports, et les systèmes de télécommunication qui sont essentiels pour répondre aux besoins du monde des affaires, du gouvernement et de la population en général.
 
@@ -146,11 +153,11 @@ Les routes, l'électricité, l'eau et l'assainissement, les ports et les aéropo
 
 Les équipements, les installations, les transports, les procédures, les stratégies, et les cadres légaux nécessaires au monde des affaires pour qu'il soit compétitif dans l'économie mondiale.
 
-Madagascar Naturellement!
-
 ## Capital Naturel
 
 La terre arable, les sols sains, les forets, la biodiversité, et des écosystèmes qui fonctionnent bien pour offrir les services environnementaux nécessaires au développement du pays.
+
+Madagascar Naturellement!
 
 [[END OF PAGE 8]]
 
@@ -204,9 +211,9 @@ Classification Environnement des Affaires (Banque Mondiale) | 131 | 80
 Indice de perception de la corruption | 2,8 | 5,2
 Pourcentage des ménages en possession de titres ou certificats fonciers | 10% | 75%
 
-Madagascar Naturellement!
+Les strategies et projets dans le MAP visent une réduction effective de la pauvreté et une amélioration tangible de la qualité de vie des Malagasy
 
-Les strategies et projets dans le MAP visent une réduction effective de la pauvreté et une amélioration tangible de la qualité de vie des Malagasy MAP › Plan d'Action Madagascar
+Madagascar Naturellement!
 
 [[END OF PAGE 10]]
 
@@ -226,49 +233,51 @@ Les strategies et projets dans le MAP visent une réduction effective de la pauv
 
 02 SectionOne FA (F) 10/30/06 12:21 PM Page 11
 
-Madagascar Naturellement!
-
-011
+MAP › Plan d'Action Madagascar
 
 # LE MAP ET LES OBJECTIFS DU MILLENAIRE POUR LE DEVELOPPEMENT
 
+Nous nous engageons à atteindre les Objectifs du Millénaire pour le Développement.
+
 Les OMD sont:
 
-## 1.Éradiquer la pauvreté extrême et la famine:
+## 1. Éradiquer la pauvreté extrême et la famine:
 
 Réduire de moitié le pourcentage de la population mondiale qui vit avec moins de 1$ par jour jusqu'en 2015, réduire de moitié le pourcentage de la population mondiale souffrant de la famine.
 
-## 2.Atteindre l'éducation primaire universelle:
+## 2. Atteindre l'éducation primaire universelle:
 
 Tous les enfants termineront l'école primaire en 2015.
 
-## 3.Promouvoir l'égalité des sexes et responsabiliser les femmes:
+## 3. Promouvoir l'égalité des sexes et responsabiliser les femmes:
 
 Éliminer l'inégalité entre garçons et filles à tous les niveaux d'éducation jusqu'en 2015.
 
-## 4.Réduire la mortalité infantile
+## 4. Réduire la mortalité infantile
 
 Réduire la mortalité infantile de deux tiers jusqu'en 2015.
 
-## 5.Améliorer la santé maternelle:
+## 5. Améliorer la santé maternelle:
 
 Réduire de moitié la mortalité maternelle jusqu'en 2015.
 
-Nous nous engageons à atteindre les Objectifs du Millénaire pour le Développement.
-
-## 6.Combattre le VIH/SIDA, le paludisme, ainsi que d'autres maladies:
+## 6. Combattre le VIH/SIDA, le paludisme, ainsi que d'autres maladies:
 
 Contenir et inverser les tendances jusqu'en 2015.
 
-## 7.Assurer la durabilité environnementale:
+## 7. Assurer la durabilité environnementale:
 
-- Adopter des stratégies pour le développement durable et la protection des ressources naturelles,
+a) Adopter des stratégies pour le développement durable et la protection des ressources naturelles,
 
-- Réduire de moitié la population sans accès à l'eau potable et à l'assainissement jusqu'en 2015.
+b) Réduire de moitié la population sans accès à l'eau potable et à l'assainissement jusqu'en 2015.
 
-## 8.Développer un partenariat global pour le développement:
+## 8. Développer un partenariat global pour le développement:
 
 Libéraliser le commerce et système de financement, faciliter l'accès aux marchés, accentuer le processus d'annulation de dettes, créer des emplois pour les jeunes, promouvoir l'accès aux médicaments à prix abordables et promouvoir l'accès aux nouvelles technologies.
+
+Madagascar Naturellement!
+
+011
 
 [[END OF PAGE 13]]
 
@@ -282,15 +291,25 @@ Libéraliser le commerce et système de financement, faciliter l'accès aux marc
 
 02 SectionOne FA (F) 10/30/06 12:21 PM Page 13
 
-Madagascar Naturellement!
-
-013
-
 MAP › Plan d'Action Madagascar
 
 # LES VALEURS DIRECTRICES DU MAP
 
 Pour obtenir des résultats probants au cours de la mise en œuvre du MAP, de nouvelles valeurs sont requises.
+
+Ces valeurs seront accentuées dans tous les aspects de la gouvernance et de l'administration.
+
+## Professionalisme
+
+Nous devons nous efforcer d'atteindre les meilleures normes professionnelles.
+
+## Leadership partagé
+
+Le leadership doit être pertinent à tous les niveaux de la société et dans tous les secteurs. Nous devons faire preuve de leadership à tous les niveaux du gouvernement et dans tous les secteurs de la société pour mobiliser les personnes et les ressources afin de transformer la Vision et le MAP en réalité.
+
+## Renforcement des capacités
+
+Nous devons être capable de pérenniser nos qualités de dirigeants et travailler constamment à renforcer nos compétences et nos capacités institutionnelles pour réussir.
 
 ## Participation et Cooperation
 
@@ -308,19 +327,9 @@ Pour réussir sur le marché régional et international, notre système éducati
 
 Nous devons persévérer, tenir nos engagements et obtenir des résultats.
 
-Ces valeurs seront accentuées dans tous les aspects de la gouvernance et de l'administration.
+Madagascar Naturellement!
 
-## Professionalisme
-
-Nous devons nous efforcer d'atteindre les meilleures normes professionnelles.
-
-## Leadership partagé
-
-Le leadership doit être pertinent à tous les niveaux de la société et dans tous les secteurs. Nous devons faire preuve de leadership à tous les niveaux du gouvernement et dans tous les secteurs de la société pour mobiliser les personnes et les ressources afin de transformer la Vision et le MAP en réalité.
-
-## Renforcement des capacités
-
-Nous devons être capable de pérenniser nos qualités de dirigeants et travailler constamment à renforcer nos compétences et nos capacités institutionnelles pour réussir.
+013
 
 [[END OF PAGE 15]]
 
@@ -374,7 +383,7 @@ MAP › Plan d'Action Madagascar
 
 # PRIORITÉS IMMÉDIATES DU MAP: LES INITIATIVES DE RÉFORME TRANSFORMATIONNELLE
 
-Nous sommes déterminés à tenir nos engagements définis dans le MAP. Nous redoublerons d'efforts pour devenir un pays pilote, car d'autres pays en développement n'ont pu jusqu'à ce jour atteindre ces objectifs. Nous transformerons notre vision en réalité. Pour ce faire, nous devons mettre en œcuvre une série de réformes rigoureuses que nous appelons 'les initiatives de réforme transformationnelle.' Ces initiatives de réforme transformationnelle sont des projets urgents qui exigent une attention immédiate, un leadership éfficace, une collaboration entre les ministères, ainsi que des ressources spécifiques.
+Nous sommes déterminés à tenir nos engagements définis dans le MAP. Nous redoublerons d'efforts pour devenir un pays pilote, car d'autres pays en développement n'ont pu jusqu'à ce jour atteindre ces objectifs. Nous transformerons notre vision en réalité. Pour ce faire, nous devons mettre en œuvre une série de réformes rigoureuses que nous appelons “les initiatives de réforme transformationnelle.” Ces initiatives de réforme transformationnelle sont des projets urgents qui exigent une attention immédiate, un leadership éfficace, une collaboration entre les ministères, ainsi que des ressources spécifiques.
 
 ## Réforme 1 : Réforme des finances publiques
 
@@ -428,11 +437,11 @@ Nous mettrons en œuvre des réformes majeures dans le système judiciaire - tri
 
 02 SectionOne FA (F) 10/30/06 12:21 PM Page 18
 
-018
-
 MAP › Plan d'Action Madagascar
 
 # LES FONDATIONS HUMAINES DU MAP : Le Peuple est à la base de tout changement
+
+Le MAP concerne le peuple, le peuple Malagasy. Pour atteindre nos objectifs, nous devons changer une partie de nos valeurs, habitudes et priorités. Ensemble, nous y parviendrons. Pour réussir, nous devons accorder une importance particulière aux fondations humaines du MAP, qui sont à la base du changement.
 
 ## 1. Développement de la capacité de Leadership
 
@@ -442,7 +451,7 @@ En outre, pour soutenir le développement de la capacité de leadership, nous av
 
 Madagascar Naturellement!
 
-Le MAP concerne le peuple, le peuple Malagasy. Pour atteindre nos objectifs, nous devons changer une partie de nos valeurs, habitudes et priorités. Ensemble, nous y parviendrons. Pour réussir, nous devons accorder une importance particulière aux fondations humaines du MAP, qui sont à la base du changement.
+018
 
 [[END OF PAGE 20]]
 
@@ -462,7 +471,7 @@ Nous devons changer les mentalités et les habitudes qui constituent des obstacl
 
 ## 3. Lutte contre la corruption
 
-Nous voulons tous nous débarrasser de la corruption. La corruption augmente le coût des activités pour les entreprises privées et le coût des services de publics. Le travail de leadership consiste à punir sévèrement toute forme de corruption. Tout en faisant preuve de sévérité, nous devons également encourager un changement de valeurs au sein du gouvernement et de la société. Ceux qui sont corrompus qu'ils/elles soient des fonctionnaires locaux ou des hommes d'affaires internationaux - défendent des valeurs qui mettent les intérêts personnels avant ceux de la communauté et de la nation. Les dirigeants doivent activement encourager, en paroles et en actes les valeurs et les pratiques qui renforcent la solidarité nationale, l'intégrité et des méthodes de travail efficaces et honnêtes.
+Nous voulons tous nous débarrasser de la corruption. La corruption augmente le coût des activités pour les entreprises privées et le coût des services de publics. Le travail de leadership consiste à punir sévèrement toute forme de corruption. Tout en faisant preuve de sévérité, nous devons également encourager un changement de valeurs au sein du gouvernement et de la société. Ceux qui sont corrompus – qu'ils/elles soient des fonctionnaires locaux ou des hommes d'affaires internationaux – défendent des valeurs qui mettent les intérêts personnels avant ceux de la communauté et de la nation. Les dirigeants doivent activement encourager, en paroles et en actes les valeurs et les pratiques qui renforcent la solidarité nationale, l'intégrité et des méthodes de travail efficaces et honnêtes.
 
 ## 4. Renforcement du savoir faire
 
@@ -472,11 +481,11 @@ Madagascar doit développer rapidement les compétences, le savoir-faire, et la 
 
 Pour réaliser les objectifs du MAP, nous devons mobiliser des ressources considérables - financières, techniques et humaines. Ce qui requiert créativité, initiative et leadership. Nous devons :
 
-- solliciter activement le soutien des bailleurs de fonds non seulement de la part de nos partenaires traditionnels, mais davantage de la part de partenaires bilatéraux et des fondations internationales.
+1) solliciter activement le soutien des bailleurs de fonds – non seulement de la part de nos partenaires traditionnels, mais davantage de la part de partenaires bilatéraux et des fondations internationales.
 
-- éventuellement, nous voulons devenir autonomes afin de réduire notre dépendance vis-à-vis des bailleurs de fonds. Par conséquent, nous devons gérer notre patrimoine et nos ressources de manière à assurer au pays le maximum de profits, et
+2) éventuellement, nous voulons devenir autonomes afin de réduire notre dépendance vis-à-vis des bailleurs de fonds. Par conséquent, nous devons gérer notre patrimoine et nos ressources de manière à assurer au pays le maximum de profits, et
 
-- nous procéderons à des reformes effectives au niveau du système fiscal et douanier pour accroître considérablement les recettes de l'état, afin de financer les programmes sociaux dans les secteurs de la santé, de l'éducation, de la sécurité et du développement rural.
+3) nous procéderons à des reformes effectives au niveau du système fiscal et douanier pour accroître considérablement les recettes de l'état, afin de financer les programmes sociaux dans les secteurs de la santé, de l'éducation, de la sécurité et du développement rural.
 
 [[END OF PAGE 21]]
 
@@ -532,27 +541,27 @@ MAP › Plan d'Action Madagascar
 
 La Vision « Madagascar Naturellement », et les Objectifs du Millénaire pour le Développement établis par les Nations Unies définissent l'orientation générale du pays à long terme.
 
-## Planification annuelle
-
-Les engagements du MAP sont mis en œuvre à travers les processus de planification annuelle de la Politique Générale de l'Etat et du Budget.
-
 ## Le MAP
 
 Le MAP, un plan sur cinq années, reflète les huit engagements qui permettront de faire sortir le pays de la pauvreté actuelle et de lancer un saut qualitatif dans le moyen terme.
-
-## Partenaires de développement
-
-La coordination des partenaires de développement sera effectuée à travers une conférence annuelle et des réunions sectorielles pour permettre une harmonisation et une allocation efficiente des ressources en vue d'accroître les impacts, particulièrement en terme de réduction de la pauvreté.
-
-Madagascar Naturellement!
 
 ## Programmes Nationaux
 
 Les engagements du MAP et les objectifs sont présentés en détails dans les programmes sectoriels, ou « programmes nationaux »
 
+## Planification annuelle
+
+Les engagements du MAP sont mis en œuvre à travers les processus de planification annuelle de la Politique Générale de l'Etat et du Budget.
+
+## Partenaires de développement
+
+La coordination des partenaires de développement sera effectuée à travers une conférence annuelle et des réunions sectorielles pour permettre une harmonisation et une allocation efficiente des ressources en vue d'accroître les impacts, particulièrement en terme de réduction de la pauvreté.
+
 ## Suivi
 
 Un mécanisme de suivi sera mis en place pour permettre au gouvernement d'évaluer les actions entreprises et de procéder à des ajustements au cours de la période de mise en œuvre du MAP.
+
+Madagascar Naturellement!
 
 [[END OF PAGE 25]]
 
@@ -652,7 +661,7 @@ SOLIDARITE
 
 108
 
-MAP › Plan d'Action Madagascar
+MAP › Plan d'Action Madagascar | Engagement 8 | SOLIDARITE NATIONALE
 
 ## DÉFI 1 › HONORER LA DIVERSITÉ CULTURELLE, LA COMPRÉHENSION ET LE RESPECT MUTUELS
 
@@ -694,14 +703,6 @@ INDICATEURS | 2005 | 2012
 Enquête nationale sur la culture | à determiner | à determiner
 Nombre de patrimoines culturels nationaux sauvegardés | 3 | 20
 Nombre de prix nationaux aux artistiques distribués | à determiner | à determiner
-
-|
-
-Engagement 8
-
-|
-
-SOLIDARITE NATIONALE
 
 Madagascar Naturellement!
 
@@ -769,7 +770,7 @@ SOLIDARITE
 
 110
 
-MAP › Plan d'Action Madagascar
+MAP › Plan d'Action Madagascar | Engagement 8 | SOLIDARITE NATIONALE
 
 ## DÉFI 3 › PROMOUVOIR L'IDENTITÉ, LA SOLIDARITÉ ET LA FIERTÉ NATIONALES
 
@@ -804,14 +805,6 @@ INDICATEURS | 2005 | 2012
 --- | --- | ---
 Indice de solidarité nationale | à developper | à developper
 Nombre d'athlètes participant aux compétitions internationales | 22 | 324
-
-|
-
-Engagement 8
-
-|
-
-SOLIDARITE NATIONALE
 
 Madagascar Naturellement!
 
@@ -1039,8 +1032,6 @@ Toujours est-il qu'une partie du système judiciaire est perçue comme corrompue
 
 - Développer un système éducatif de réinsertion comme une alternative à l'emprisonnement pour les enfants et adolescents criminels.
 
-- Créer un système éducatif de réinsertion pour les mineurs délinquants
-
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 --- | ---
 1. Renforcer les sanctions pour corruption dans le système judiciaire | Ministre responsable de la Justice
@@ -1050,8 +1041,7 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 5. Renforcer l'observation, le suivi et la protection des droits humains par la commission nationale et la Médiature | Ministre responsable de la Justice
 6. Changer les lois pour que les détenus ne soient pas en prison plus d'un an sans jugement (30 jours pour infractions mineures) | Ministre responsable de la Justice
 7. Augmenter le financement pour améliorer les conditions médicales et d'hygiène dans les prisons et développer des camps pénaux efficaces pour assurer une nutrition suffisante | Ministre responsable de la Justice
-
-Ministre responsable de la population
+8. Créer un système éducatif de réinsertion pour les mineurs délinquants | Ministre responsable de la population
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
@@ -1205,7 +1195,7 @@ Administration compétente et professionnelle, répondant constamment aux attent
 
 ### Stratégies
 
-Conduire une réforme complète des services publics objectifs, stratégie, structure, systèmes, personnel, qualifications et rémunération - pour améliorer l'efficacité et la qualité des services rendus aux usagers.
+Conduire une réforme complète des services publics - objectifs, stratégie, structure, systèmes, personnel, qualifications et rémunération - pour améliorer l'efficacité et la qualité des services rendus aux usagers.
 
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 --- | ---
@@ -1427,6 +1417,8 @@ MAP ›  Plan d'Action Madagascar | Engagement 2 | INFRASTRUCTURE RELIEE
 
 INFRASTRUCTURE
 
+LEGEND
+
 BON
 
 MOYEN
@@ -1436,12 +1428,6 @@ MAUVAIS
 EN CONSTRUCTION
 
 ETUDE DE FAISABILITE
-
-LEGEND
-
-YSTEME DES ROUTES
-
-NATIONALES 2005
 
 ANTSIRANANA
 
@@ -1489,7 +1475,7 @@ Andriana
 
 Moramanga
 
-Brickayille
+Brickaville
 
 Andevoranto
 
@@ -1505,7 +1491,7 @@ Marolambo
 
 Nosy-Varika
 
-Mananiary
+Mananjary
 
 Ifanadiana
 
@@ -1551,7 +1537,7 @@ Tsihombe
 
 Ambovombe
 
-Amboasary-Atismo
+Amboasary-Atsimo
 
 Taolagnaro (FD)
 
@@ -1647,10 +1633,6 @@ Madagascar Naturellement!
 
 ### SYSTEME DES ROUTES NATIONALES 2015
 
-YSTEME DES ROUTES
-
-NATIONALES 2015
-
 ANTSIRANANA
 
 Ambilobe
@@ -1697,7 +1679,7 @@ Andriana
 
 Moramanga
 
-Brickayille
+Brickaville
 
 Andevoranto
 
@@ -1713,7 +1695,7 @@ Marolambo
 
 Nosy-Varika
 
-Mananiary
+Mananjary
 
 Ifanadiana
 
@@ -1759,7 +1741,7 @@ Tsihombe
 
 Ambovombe
 
-Amboasary-Atismo
+Amboasary-Atsimo
 
 Taolagnaro (FD)
 
@@ -1934,8 +1916,6 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 5. Explorer la mise en place des plateformes multimodales (station de bus, de trains / port et aéroport) | Ministre responsable des Travaux Publics et des Transports
 6. Mettre en œuvre le Programme National de Sécurité et de Transports | Ministre responsable des Travaux Publics et des Transports
 
-Madagascar Naturellement!
-
 INDICATEURS | 2005 | 2012
 --- | --- | ---
 Kilomètres de routes nationales construites et/ou réhabilitées | 805 Km | 7.800 Km
@@ -1943,6 +1923,8 @@ Kilomètres de routes rurales construites et/ou réhabilitées | 977 Km | 12.000
 Kilomètres de routes nationales entretenues (entretien courant) | 5.700 Km | 12.000 Km
 Kilomètres de routes rurales/en gravier entretenues (entretien courant) | 1.300 Km | 18.000 Km
 Taux de satisfaction des usagers en termes de qualité de services par mode de transport (critères confort, sécurité, temps, régularité v/s coût) | Voyages : 40% M/ses : 55% | Voyages : 70% M/ses : 80%
+
+Madagascar Naturellement!
 
 [[END OF PAGE 52]]
 
@@ -2005,15 +1987,11 @@ Madagascar Naturellement!
 
 05 cOMMITMENT_2.1 FA (F) 10/30/06 12:38 PM Page 10
 
-Engagement 2
-
-INFRASTRUCTURE RELIEE
+INFRASTRUCTURE
 
 045
 
-INFRASTRUCTURE
-
-MAP ›  Plan d'Action Madagascar
+MAP ›  Plan d'Action Madagascar | Engagement 2 | INFRASTRUCTURE RELIEE
 
 ## DÉFI 4 › ASSURER UN APPROVISIONNEMENT D'ÉNERGIE ADÉQUAT, À COÛT ABORDABLE ET COMPÉTITIF
 
@@ -2032,10 +2010,6 @@ Jusqu'en 2006, la compagnie nationale JIRAMA (Jiro sy Rano Malagasy) n'a jamais 
 - Satisfaction des nouvelles demandes de connexions en donnant priorité aux grandes entreprises d'investissement.
 
 - Promotion des ressources d'énergies renouvelables notamment le solaire, l'éolienne et l'hydraulique afin de réduire la dépendance aux produits pétroliers.
-
-|
-
-|
 
 Madagascar Naturellement!
 
@@ -2093,15 +2067,11 @@ Madagascar Naturellement!
 
 05 cOMMITMENT_2.1 FA (F) 10/30/06 12:38 PM Page 12
 
-Engagement 2
-
-INFRASTRUCTURE RELIEE
+INFRASTRUCTURE
 
 047
 
-INFRASTRUCTURE
-
-MAP ›  Plan d'Action Madagascar
+MAP ›  Plan d'Action Madagascar | Engagement 2 | INFRASTRUCTURE RELIEE
 
 ## DÉFI 5 › ASSURER UN SYSTÈME DE COMMUNICATION EFFICACE ET ABORDABLE
 
@@ -2154,10 +2124,6 @@ Taux de couverture des communes en services postaux publics-privés | 39% | 65%
 Taux de couverture des communes en télévision et radio | TV : 23% FM Radio : 28% | TV: 70% FM Radio: 70%
 Indice composite de l'évolution des coûts de connexion (index de base en 2005 =100) | 100 | 70
 
-|
-
-|
-
 Madagascar Naturellement!
 
 [[END OF PAGE 56]]
@@ -2170,7 +2136,7 @@ INFRASTRUCTURE
 
 048
 
-MAP ›  Plan d'Action Madagascar
+MAP ›  Plan d'Action Madagascar | Engagement 2 | INFRASTRUCTURE RELIEE
 
 ## DÉFI 6 › MEILLEUR SYSTÈME DE PRÉVISION MÉTÉOROLOGIQUE ET D'INFORMATION SUR LES CATACLYSMES NATURELS COMME LES CYCLONES
 
@@ -2206,14 +2172,6 @@ INDICATEURS | 2005 | 2012
 Taux de satisfaction des principaux usagers | 25% | 80%
 Fiabilité des prévisions météorologiques | Faible | Haute
 Nombre de stations d'observations météorologiques opérationnelles (index de base en 2005 = 100) | 100 | 300
-
-|
-
-Engagement 2
-
-|
-
-INFRASTRUCTURE RELIEE
 
 Madagascar Naturellement!
 
@@ -2274,7 +2232,7 @@ Madagascar Naturellement!
 
 06 cOMMITMENT_3.1 FA (F) 10/30/06 12:40 PM Page 2
 
-# TRANSFORMATION DE L' EDUCATION ENGAGEMENT 3
+# ENGAGEMENT 3 TRANSFORMATION DE L' EDUCATION
 
 Nous aurons un système éducatif de normes internationales en terme de qualité et d'efficacité, qui stimule la créativité et aide nos apprenants à transformer leurs rêves en réalité, et qui fournit à Madagascar les ressources humaines nécessaires pour devenir une nation compétitive et un acteur performant de l'économie mondiale.
 
@@ -2288,9 +2246,7 @@ EDUCATION
 
 052
 
-TRANSFORMATION DE L' EDUCATION
-
-MAP › Plan d'Action Madagascar | Engagement 3 |
+MAP › Plan d'Action Madagascar | Engagement 3 | TRANSFORMATION DE L' EDUCATION
 
 ## DÉFI 1 › ASSURER L'ACCÈS DE TOUS LES ENFANTS AUX OPPORTUNITÉS DE DÉVELOPPEMENT AVANT LEUR VERITABLE SCOLARISATION
 
@@ -2425,7 +2381,7 @@ INDICATEURS | 2006 | 2012
 --- | --- | ---
 Taux d'achèvement de l'education primaire | 57% | 85%
 Pourcentage de redoublement | 20% | 10%
-Ratio élèves/enseignant | 52 | 30-40
+Ratio élèves/enseignant | 52 | 30–40
 Budget de l'éducation en pourcentage du PIB | 3.8% | 6%
 Budget de l'enseignement primaire par rapport au budget total de l'éducation (dépenses récurrentes) | 54% | 58%
 
@@ -2467,9 +2423,7 @@ Actuellement, il existe 1 collège public pour 18 écoles primaires. Le pourcent
 
 - Développer la collaboration avec le secteur privé.
 
-- Améliorer les programmes d'enseignement en renforçant l'enseignement des mathématiques, des sciences et technologies, des langues étrangères et des sciences sociales,
-
-- et garantir leur pertinence par rapport aux défis économiques et sociaux auxquels le pays fait face.
+- Améliorer les programmes d'enseignement en renforçant l'enseignement des mathématiques, des sciences et technologies, des langues étrangères et des sciences sociales, et garantir leur pertinence par rapport aux défis économiques et sociaux auxquels le pays fait face.
 
 - Développer les pratiques pédagogiques susceptibles de promouvoir la créativité, le sens de la compétition, de l'entreprenariat et du professionnalisme.
 
@@ -2504,7 +2458,7 @@ EDUCATION
 
 056
 
-MAP › Plan d'Action Madagascar |
+MAP › Plan d'Action Madagascar | Engagement 3 | TRANSFORMATION DE L' EDUCATION
 
 ## DEFI 4 › AMÉLIORER LE SYSTÈME D'ENSEIGNEMENT SECONDAIRE OU LYCÉE ET DÉVELOPPER LA FORMATION PROFESSIONNELLE
 
@@ -2558,8 +2512,6 @@ Taux d'achèvement (pourcentage de jeunes de la tranche d'âge 15-18 ans termina
 Nombre de jeunes en formation professionnelle pour 100.000 habitants | 350 | 700
 Taux d'intégration professionnelle des jeunes ayant suivi une formation professionnelle | A déterminer | 80%
 
-Engagement 3 | TRANSFORMATION DE L' EDUCATION
-
 Madagascar Naturellement!
 
 [[END OF PAGE 65]]
@@ -2584,7 +2536,7 @@ Récemment, il y a eu augmentation du nombre d'instituts techniques privés; cep
 
 - Nous ferons en sorte que les sortants de l'enseignement supérieur soient compétitifs, créatifs et employables.
 
-- La recherche et l'innovation scientifiques et technologiques répondront aux besoins du développement socioéconomique et culturel.
+- La recherche et l'innovation scientifiques et technologiques répondront aux besoins du développement socio-économique et culturel.
 
 - Le système d'enseignement supérieur proposera des cursus diversifiés, de manière à répondre aux besoins économiques et sociaux du Plan d'Action pour Madagascar.
 
@@ -2687,7 +2639,7 @@ PROJETS ET ACTIVITES PRIORITAIRES | RESPONSABLE DU PROJET
 --- | ---
 1. Former 14 000 agents d'alphabétisation par an | Ministre responsable de l'Alphabétisation
 2. Produire et distribuer 750 000 matériels d'alphabétisation par an | Ministre responsable de l'Alphabétisation
-3. Construire 570 salles de classe par an pour les programmes d'alphabétisation en- dehors du système d'éducation formelle, tels que ASAMA | Ministre responsable de l'Alphabétisation
+3. Construire 570 salles de classe par an pour les programmes d'alphabétisation en-dehors du système d'éducation formelle, tels que ASAMA | Ministre responsable de l'Alphabétisation
 4. Mise en place de nouveaux centres d'alphabétisation et élargissement de leurs activités : programmes de nutrition, de formation technique et professionnelle de base | Ministre responsable de l'Alphabétisation
 5. Mettre en œuvre la stratégie nationale pour la réintégration dans le secteur formel des enfants n'allant pas à l'école | Ministre responsable de l'Alphabétisation
 
@@ -2704,17 +2656,11 @@ Madagascar Naturellement!
 
 06 cOMMITMENT_3.1 FA (F) 10/30/06 12:40 PM Page 11
 
-Engagement 3 | TRANSFORMATION DE L' EDUCATION
-
 EDUCATION
 
 060
 
-MAP › Plan d'Action Madagascar
-
-|
-
-Madagascar Naturellement!
+MAP › Plan d'Action Madagascar | Engagement 3 | TRANSFORMATION DE L' EDUCATION
 
 ## DEFI 7 › DÉVELOPPER LES CAPACITÉS ET L'ATTITUDE MENTALE ET PSYCHOLOGIQUE DES JEUNES PAR LES SPORTS ET LA PARTICIPATION À LA VIE CIVIQUE
 
@@ -2727,6 +2673,8 @@ Le scoutisme est actif à Madagascar, et apporte une contribution importante au 
 ### Objectif
 
 L'esprit et la mentalité forgés par l'éthique sportive et les activités extrascolaires mèneront à un meilleur mode de vie chez les jeunes Malgaches. La participation des jeunes dans les associations de jeunes, les programmes sportifs et les organisations communautaires contribueront à faciliter leur entrée dans la vie active, leur stabilité professionnelle et leur sens de la responsabilité civique. L'éthique sportive favorisera le sens de la compétition saine et constructive, dans tous les domaines de la vie de la nation (politique, économie et société).
+
+Madagascar Naturellement!
 
 [[END OF PAGE 69]]
 
@@ -2760,8 +2708,6 @@ MAP › Plan d'Action Madagascar | Engagement 3 | TRANSFORMATION DE L' EDUCATION
 
 - 10.Assurer que les hommes et les femmes qui se sont distingués, qui ont réussi, deviennent des modèles pour les jeunes.
 
-Madagascar Naturellement!
-
 PROJETS ET ACTIVITES PRIORITAIRES | LEADER DU PROJET
 --- | ---
 1. Promouvoir la création d'associations de jeunes, et encourager la diversification des activités dans les associations existantes | Ministre responsable de la Jeunesse
@@ -2781,6 +2727,8 @@ Proportion de jeunes participant à des programmes de scoutisme | Non connue | �
 Proportion de jeunes participant aux activités des congrégations religieuses et des organisations civiques | Non connue | Élevée
 Pourcentage de jeunes de 15 à 35 ans inscrits dans les centres de jeunesse et des sports (indicateur de base en 2006 = 100) | 100 | 300
 
+Madagascar Naturellement!
+
 061
 
 [[END OF PAGE 70]]
@@ -2795,7 +2743,7 @@ Pourcentage de jeunes de 15 à 35 ans inscrits dans les centres de jeunesse et d
 
 07 cOMMITMENT_4.1 FA (F) 10/30/06 12:41 PM Page 2
 
-# DÉVELOPPEMENT RURAL ENGAGEMENT 4
+# ENGAGEMENT 4 DÉVELOPPEMENT RURAL
 
 Le développement rural dynamique et la réduction effective de la pauvreté sont à la base des efforts du gouvernement. Nos régions rurales prospéreront à travers une révolution verte qui augmentera substantiellement la production agricole. Des centres d'agrobusiness seront institués pour assister dans les formations et la satisfaction des besoins tels que l'irrigation, les semences, les engrais et les installations de stockage.
 
@@ -2975,29 +2923,20 @@ Les informations sur les opportunités offertes par le marché seront disponible
 
 - Améliorer l'équité et la fluidité du marché.
 
-PROJETS ET ACTIVITÉS PRIORITAIRES
-
-Madagascar Naturellement!
-
-RESPONSABLE DU PROJET
-
-- Etendre l'accès au réseau de base de données internationales et régionales existantes (market map, trade map) Ministre responsable de l'Agriculture
-
-- Transmettre les signaux du marché aux producteurs à travers les medias, les collectivités décentralisées, les organisations faîtières Ministre responsable de l'Agriculture
-
-- Renforcer la capacité des organisations paysannes Ministre responsable de l'Agriculture
-
-- Intensifier et optimiser les organisations et les participations à des salons et foires de rencontre entre producteurs et acheteurs Ministre responsable de l'Agriculture
-
-- Réhabiliter et construire des infrastructures d'exploitation : abattoirs, magasins de Ministre responsable de l'Agriculture
-
-- stockage, chaînes de froid, marchés
-
-- Faciliter l'acquisition de machines et outils de conditionnement et de transformation de produits agricoles Ministre responsable de l'Agriculture
+PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
+--- | ---
+1. Etendre l'accès au réseau de base de données internationales et régionales existantes (market map, trade map) | Ministre responsable de l'Agriculture
+2. Transmettre les signaux du marché aux producteurs à travers les medias, les collectivités décentralisées, les organisations faîtières | Ministre responsable de l'Agriculture
+3. Renforcer la capacité des organisations paysannes | Ministre responsable de l'Agriculture
+4. Intensifier et optimiser les organisations et les participations à des salons et foires de rencontre entre producteurs et acheteurs | Ministre responsable de l'Agriculture
+5. Réhabiliter et construire des infrastructures d'exploitation : abattoirs, magasins de stockage, chaînes de froid, marchés | Ministre responsable de l'Agriculture
+6. Faciliter l'acquisition de machines et outils de conditionnement et de transformation de produits agricoles | Ministre responsable de l'Agriculture
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
 Indice synthétique de développement de la commercialisation (Base 100 en 2005) | 100 | 300
+
+Madagascar Naturellement!
 
 067
 
@@ -3147,7 +3086,7 @@ Jusqu'en 2006, 197 Centres de Santé de Base (CSB) ont été réhabilités et é
 
 - Assurer que tous les centres de santé et les hôpitaux de première référence ont le personnel qualifié pour offrir le paquet de services de base.
 
-- Assurer l`accès aux soins de santé de qualité en particulier en milieu rural.
+- Assurer l'accès aux soins de santé de qualité en particulier en milieu rural.
 
 - Attirer le personnel médical qualifié en périphérie en leur offrant des motivations appropriées tel qu'un logement décent.
 
@@ -3217,8 +3156,6 @@ Jusqu'en 2006, plus d'un million de moustiquaires imprégnées ont été distrib
 
 - Les kits de traitement des Infections Sexuellement Transmissibles sont disponibles dans tout le pays.
 
-Madagascar Naturellement!
-
 - Améliorer les capacités des agents de santé à prévenir, diagnostiquer et traiter la tuberculose, par le biais des vaccinations, de l'éducation et de la mobilisation sociale.
 
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
@@ -3237,6 +3174,8 @@ Taux de mortalité du paludisme en milieu hospitalier (%) | 17.5 | 9
 Taux de guérison de la tuberculose bacillifère (%) | 72 | 90
 Taux de nouveau cas de tuberculose détecté (%) | 62 | 90
 Prévalence de la Syphilis chez la femme enceintes | 4.2 | 1
+
+Madagascar Naturellement!
 
 [[END OF PAGE 83]]
 
@@ -3264,17 +3203,17 @@ En 2006, Madagascar est encore un pays à faible taux de prévalence du VIH avec
 
 La « riposte » se focalise sur la prévention primaire et secondaire afin de contrôler et réduire les impacts de l'infection du HIV. Cela inclut:
 
-- le plaidoyer et les campagnes de conscientisation à l'intention de la population générale avec un accent particulier sur les femmes, les jeunes et les groupes vulnérables ;
+1. le plaidoyer et les campagnes de conscientisation à l'intention de la population générale avec un accent particulier sur les femmes, les jeunes et les groupes vulnérables ;
 
-- la réduction de la stigmatisation et de la discrimination ;
+2. la réduction de la stigmatisation et de la discrimination ;
 
-- une réponse efficace de la communauté ;
+3. une réponse efficace de la communauté ;
 
-- le contrôle des Infections Sexuellement Transmissibles ;
+4. le contrôle des Infections Sexuellement Transmissibles ;
 
-- Le Test volontaire et le counselling ;
+5. Le Test volontaire et le counselling ;
 
-- les précautions universelles ;
+6. les précautions universelles ;
 
 Madagascar Naturellement!
 
@@ -3292,15 +3231,15 @@ MAP › Plan d'Action Madagascar | Engagement 5 | SANTE, PLANNING FAMILIAL ET LU
 
 ## DÉFI 3 › GAGNER DANS LA LUTTE CONTRE LE VIH ET SIDA (SUITE)
 
-- la Prévention de la Transmission Mère-Enfant;
+7. la Prévention de la Transmission Mère-Enfant;
 
-- La sécurité transfusionnelle;
+8. La sécurité transfusionnelle;
 
-- la prévention des infections opportunistes, le traitement du SIDA et des infections opportunistes;
+9. la prévention des infections opportunistes, le traitement du SIDA et des infections opportunistes;
 
 10. la prise en charge des orphelins du VIH et du SIDA;
 
-- Afin d'améliorer le coût-efficacité, la « riposte » devrait encore être plus intégrée et décentralisée.
+11. Afin d'améliorer le coût-efficacité, la « riposte » devrait encore être plus intégrée et décentralisée.
 
 ### Objectifs
 
@@ -3314,7 +3253,7 @@ MAP › Plan d'Action Madagascar | Engagement 5 | SANTE, PLANNING FAMILIAL ET LU
 
 - Améliorer l'accès des groupes vulnérables et des populations vivant dans les zones à haut risque d'infection du VIH aux services médicaux promotionnels.
 
-- AméIiorer et mettre en oeuvre les pratiques standards de fourniture de services intégrés à tous les niveaux.
+- Améliorer et mettre en oeuvre les pratiques standards de fourniture de services intégrés à tous les niveaux.
 
 - Renforcer le leadership et les compétences managériales de coordination tant inter qu'intra sectoriel à tous les niveaux de la réponse nationale selon le principe du « three ones ».
 
@@ -3574,6 +3513,14 @@ Plus de la moitié des enfants malagasy souffrent de maladies liées à l'insalu
 
 - Une réduction des pertes de jours de productivité et d'école.
 
+### Stratégies
+
+- Assurer l'accès de toute la population à l'eau potable.
+
+- Eduquer la population sur les pratiques hygiéniques et sanitaires.
+
+- Mettre en œuvre la stratégie WASH.
+
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 --- | ---
 1. Centraliser toutes les activités du Ministère relatives à l'eau et l'hygiène pour la population en un seul service | Ministre responsable de la Santé
@@ -3586,14 +3533,6 @@ INDICATEURS | 2005 | 2012
 Taux de desserte en eau potable | 31 | 65
 Taux de desserte en infrastructures d'assainissement | 52 | 70
 Nombre de Comités locaux Diorano-WASH (communaux, écoles amies de WASH, CSB amis de WASH) | 50 | 1.500
-
-### Stratégies
-
-- Assurer l'accès de toute la population à l'eau potable.
-
-- Eduquer la population sur les pratiques hygiéniques et sanitaires.
-
-- Mettre en œuvre la stratégie WASH.
 
 Madagascar Naturellement!
 
@@ -3609,7 +3548,7 @@ Madagascar Naturellement!
 
 09 cOMMITMENT_6.1 FA (F) 10/30/06 12:44 PM Page 2
 
-# ECONOMIE A FORTE CROISSANCE ENGAGEMENT 6
+# ENGAGEMENT 6 ECONOMIE A FORTE CROISSANCE
 
 Madagascar aura une économie à forte croissance avec un taux de croissance atteignant entre 7% et 10% jusqu'en 2012. Nous aurons un secteur privé fort et diversifié prospérant dans le commerce et l'investissement nationaux, régionaux et internationaux. Le gouvernement fournira les conditions fondamentales pour améliorer l'environnement des affaires et faciliter les succès. Nous encouragerons la création et l'utilisation des meilleures idées, techniques, technologie, et stratégies de pointe pour que notre nation puisse répondre aux défis de la mondialisation, faire preuve de haute productivité dans les lieux de travail, et capitaliser sur ses avantages compétitifs.
 
@@ -3623,7 +3562,7 @@ ECONOMIE
 
 084
 
-MAP › Plan d'Action Madagascar
+MAP › Plan d'Action Madagascar | Engagement 6 | ECONOMIE A FORTE CROISSANCE
 
 ## DÉFI 1 › ASSURER UN ENVIRONNEMENT MACROÉCONOMIQUE STABLE
 
@@ -3649,14 +3588,6 @@ Les performances macroéconomiques se sont améliorées mais demeurent très fra
 
 - Renforcer les capacités en matière d'analyse et de prévision économique de l'Administration publique.
 
-|
-
-Engagement 6
-
-|
-
-ECONOMIE A FORTE CROISSANCE
-
 Madagascar Naturellement!
 
 [[END OF PAGE 93]]
@@ -3680,8 +3611,6 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 7. Mettre en place un système d'informations statistiques fiable et à jour, conformément à la Stratégie Nationale de Développement de la Statistique, et une partage d'information intra et inter ministériel | Ministre responsable de l'économie
 8. Développer des outils d'analyse et des modèles de prévision macroéconomique et sectorielle | Ministre responsable de l'économie
 
-Madagascar Naturellement!
-
 INDICATEURS | 2005 | 2012
 --- | --- | ---
 Taux d'inflation annuelle (%) | 11,4 | 5,0
@@ -3693,6 +3622,8 @@ Dette publique (% du PIB) | 81,4 | 60
 Taux de croissance économique (%) | 4.6 | 7 à 10
 Taux d'investissement (% du PIB) | 22,5 | 30
 PIB par habitant (USD) | 309 | 476
+
+Madagascar Naturellement!
 
 085
 
@@ -3712,7 +3643,7 @@ MAP › Plan d'Action Madagascar | Engagement 6 | ECONOMIE A FORTE CROISSANCE
 
 ### Réalité actuelle
 
-Depuis 2002, le Gouvernement Malagasy a opté pour une politique de promotion des Investissements Directs Etrangers comme un des moteurs de développement du pays. Pourtant, l'IDE restait faible pour un pays à fortes potentialités comme Madagascar. Le pays a accueilli seulement 85 millions USD d'IDE en 2005. Dans la mêame année, Madagascar a été classé au 131eme rang selon les indicateurs de l'environnement des affaires établi par la Banque Mondiale, un niveau assez bas pour un pays qui n'a eu ni troubles politiques ni troubles sociaux graves. En 2006, le Gouvernement a mis en place le Conseil pour le Développement Economique de Madagascar (ou Economic Development Board of Madagascar) pour améliorer le climat des affaires, créer une nouvelle loi sur les investissements qui simplifiera les procédures, proposera des incitations en vue d'attirer des grands investissements étrangers et d'encourager les industries locales.
+Depuis 2002, le Gouvernement Malagasy a opté pour une politique de promotion des Investissements Directs Etrangers comme un des moteurs de développement du pays. Pourtant, l'IDE restait faible pour un pays à fortes potentialités comme Madagascar. Le pays a accueilli seulement 85 millions USD d'IDE en 2005. Dans la même année, Madagascar a été classé au 131eme rang selon les indicateurs de l'environnement des affaires établi par la Banque Mondiale, un niveau assez bas pour un pays qui n'a eu ni troubles politiques ni troubles sociaux graves. En 2006, le Gouvernement a mis en place le Conseil pour le Développement Economique de Madagascar (ou Economic Development Board of Madagascar) pour améliorer le climat des affaires, créer une nouvelle loi sur les investissements qui simplifiera les procédures, proposera des incitations en vue d'attirer des grands investissements étrangers et d'encourager les industries locales.
 
 ### Objectifs
 
@@ -3734,8 +3665,6 @@ Depuis 2002, le Gouvernement Malagasy a opté pour une politique de promotion de
 
 - Fournir les infrastructures favorables aux investissements: énergie, zones industrielles, propriété foncière.
 
-Madagascar Naturellement!
-
 - Initier des accords internationaux pour accroître la confiance des investisseurs et accès aux marchés.
 
 - Eliminer les distorsions dans l'économie.
@@ -3756,6 +3685,8 @@ INDICATEURS | 2005 | 2012
 --- | --- | ---
 Investissement Direct Etranger (Millions US$) | 84 | 500
 Classement Climat des Investissements (Banque Mondiale) | 131 | 80
+
+Madagascar Naturellement!
 
 [[END OF PAGE 95]]
 
@@ -3791,8 +3722,6 @@ En terme absolu, le coût de la main d'oeuvre est relativement bas; si le salair
 
 - Reformer les lois sur le travail en mettant en place un Cours d'Arbitrage Industriel.
 
-Madagascar Naturellement!
-
 - Développer un Plan National sur la main d'oeuvre pour faire coïncider le travail avec les besoins de l'économie.
 
 - Fournir des formations professionnelles pour soutenir les industries contribuant à une forte croissance de l'économie.
@@ -3815,6 +3744,8 @@ INDICATEURS | 2005 | 2012
 Taux de chômage | Elevé | Bas
 Nombre d'inscrits dans les écoles professionnelles (indice base 2005=100) | 100 | 500
 
+Madagascar Naturellement!
+
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
@@ -3831,7 +3762,7 @@ MAP › Plan d'Action Madagascar | Engagement 6 | ECONOMIE A FORTE CROISSANCE
 
 ### Réalité actuelle
 
-En 2006, six banques commerciales opèrent à Madagascar dont quatre filiales de banques françaises et deux filiales de banques mauriciennes. Le système financier souffre d'une insuffisance de compétition et d'un faible niveau d'accès au financement à moyen et long terme. Les institutions financières préfèrent se protéger contre les risques et le coût d'intermédiation financière est élevé. Par conséquent, les besoins en financement du secteur prive restent en grande partie insatisfaits ; même l'accès des petites et moyennes entreprises au financement à court terme reste limite. L'accès de la population au crédit bancaire est faible et il n'existe pas encore de Marché Boursier. Plusieurs institutions de microfinance appuient les petites initiatives privées, mais le taux d'emprunt de 3% par mois est très élevé.
+En 2006, six banques commerciales opèrent à Madagascar dont quatre filiales de banques françaises et deux filiales de banques mauriciennes. Le système financier souffre d'une insuffisance de compétition et d'un faible niveau d'accès au financement à moyen et long terme. Les institutions financières préfèrent se protéger contre les risques et le coût d'intermédiation financière est élevé. Par conséquent, les besoins en financement du secteur privé restent en grande partie insatisfaits ; même l'accès des petites et moyennes entreprises au financement à court terme reste limité. L'accès de la population au crédit bancaire est faible et il n'existe pas encore de Marché Boursier. Plusieurs institutions de microfinance appuient les petites initiatives privées, mais le taux d'emprunt de 3% par mois est très élevé.
 
 ### Objectifs
 
@@ -3899,7 +3830,7 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 2. Etendre les Chambres de métiers dans les zones rurales | Ministre responsable de l'artisanat
 3. Renforcer la capacité opérationnelle des espaces de promotion de l'artisanat | Ministre responsable de l'artisanat
 4. Accroître les incitations à l'intégration au secteur formel: formation, accès au crédit et aux technologies, information sur le marché | Directeur Général de l'EDBM
-5. Elaborer et mettre en œ'cfuvre la politique nationale de promotion des PMI/PME ainsi que de l'artisanat et du commerce | Directeur Général de l'EDBM
+5. Elaborer et mettre en œuvre la politique nationale de promotion des PMI/PME ainsi que de l'artisanat et du commerce | Directeur Général de l'EDBM
 6. Développer un système d'informations en matière d'emploi et d'activités | Ministre responsable du commerce
 
 INDICATEURS | 2005 | 2012
@@ -3999,7 +3930,7 @@ Madagascar supportera les projets d'exploitation minière en cours, les susciter
 
 - Améliorer l'environnement existant basé sur les réactions des sociétés privées.
 
-- Impliquer les citoyens dans les projets d'extraction en cours (consultation durant la phase de prospection et desuivi).
+- Impliquer les citoyens dans les projets d'extraction en cours (consultation durant la phase de prospection et de suivi).
 
 - Intégrer les opérateurs dans les petites mines dans l'économie formelle.
 
@@ -4043,7 +3974,7 @@ Madagascar Naturellement!
 
 Madagascar est dotée de faune et flore exceptionnelle, dont la plupart est endémique. Etant une île, Madagascar a des kilomètres intacts de littoral et un climat favorable au développement du tourisme dont l'écotourisme.
 
-Cependant, le nombre de touristes qui viennent à Madagascar est seulement de 150 000 par année, à cause du manque d'infrastructures, de logement et de communication entre certaines régions à forte potentialité touristique, générant une recette d'environ 200 millions $US. Toutefois, malgré les contraintes, le tourisme figure parmi les principales sources de devises étrangè'8fres pour l'économie malgache. Le secteur reste en expansion régulière avec 19% d'augmentation des recettes en 2005.
+Cependant, le nombre de touristes qui viennent à Madagascar est seulement de 150 000 par année, à cause du manque d'infrastructures, de logement et de communication entre certaines régions à forte potentialité touristique, générant une recette d'environ 200 millions $US. Toutefois, malgré les contraintes, le tourisme figure parmi les principales sources de devises étrangères pour l'économie malgache. Le secteur reste en expansion régulière avec 19% d'augmentation des recettes en 2005.
 
 ### Objectifs
 
@@ -4053,7 +3984,7 @@ Madagascar sera une destination privilégiée pour toutes catégories de tourism
 
 - Attirer des investissements de haute qualité à travers l'octroi d'incitations, accès au foncier et d'autres appuis.
 
-- Promouvoir la destination 'Madagascar' comme une destination supérieure et particulière en écotourisme.
+- Promouvoir la destination “Madagascar” comme une destination supérieure et particulière en écotourisme.
 
 - Appuyer la gestion du secteur touristique et appuyer la professionnalisation dans le secteur.
 
@@ -4184,7 +4115,7 @@ Madagascar Naturellement!
 
 10 cOMMITMENT_7.1 FA (F) 10/30/06 12:46 PM Page 2
 
-# PRENDRE SOIN DE L'ENVIRONNEMENT ENGAGEMENT 7
+# ENGAGEMENT 7 PRENDRE SOIN DE L'ENVIRONNEMENT
 
 Madagascar deviendra un leader mondial dans le développement et l'utilisation des meilleures approches pour la protection de l'environnement. Après de nombreuses décennies d'exploitation et de négligence, nous avons commencé à inverser la tendance. Nous deviendrons de nouveau une « île verte ». Nous nous engageons à prendre soin, à aimer et à protéger notre environnement.
 
@@ -4236,24 +4167,24 @@ En outre, Madagascar respectera les Accords de Kyoto et les conventions internat
 
 - Valoriser la biodiversité d'une manière durable.
 
-- Mettre en place un cadre de travail et une stratégie nationaux de l'écotourisme pour contribuer à la protection et à la promotion de l'environnement et aussi pour assurer une harmonisation « éco-éco » (économique - écologique).
+- Mettre en place un cadre de travail et une stratégie nationaux de l'écotourisme pour contribuer à la protection et à la promotion de l'environnement et aussi pour assurer une harmonisation « éco-éco » (économique – écologique).
 
 Madagascar Naturellement!
 
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
---- | --- | ---
-1. | Informer et sensibiliser toutes les parties prenantes | Ministre responsable de l'environnement
-2. | Mener des Etudes/Inventaires | Ministre responsable de l'environnement
-3. | Organiser des consultations nationales, régionales, communales | Ministre responsable de l'environnement
-4. | Effectuer la délimitation/cartographie | Ministre responsable de l'environnement
-5. | Elaborer le schéma d'aménagement et le mode de gestion | Ministre responsable de l'environnement
-6. | Mobiliser les Fonds pour la Fondation | Ministre responsable de l'environnement
-7. | Développer les autres instruments de financements | Ministre responsable de l'environnement
-8. | Accroître le financement du secteur privé | Ministre responsable de l'environnement
-9. | Assurer le suivi écologique et l'application des mesures de conservation des écosystèmes terrestres et aquatiques | Ministre responsable de l'environnement
-10. | Capitaliser les plans de conservation par espèce menacée | Ministre responsable de l'environnement
-11. | Assurer la surveillance et le contrôle | Ministre responsable de l'environnement
-12. | Mener une étude pour déterminer la valeur des services des écosystèmes à Madagascar, incluant l'absorption/séquestration de gaz carbonique par les plantes, et leur rôle dans le financement de la protection environnementale et du développement économique | Ministre responsable de l'environnement
+--- | ---
+1. Informer et sensibiliser toutes les parties prenantes | Ministre responsable de l'environnement
+2. Mener des Etudes/Inventaires | Ministre responsable de l'environnement
+3. Organiser des consultations nationales, régionales, communales | Ministre responsable de l'environnement
+4. Effectuer la délimitation/cartographie | Ministre responsable de l'environnement
+5. Elaborer le schéma d'aménagement et le mode de gestion | Ministre responsable de l'environnement
+6. Mobiliser les Fonds pour la Fondation | Ministre responsable de l'environnement
+7. Développer les autres instruments de financements | Ministre responsable de l'environnement
+8. Accroître le financement du secteur privé | Ministre responsable de l'environnement
+9. Assurer le suivi écologique et l'application des mesures de conservation des écosystèmes terrestres et aquatiques | Ministre responsable de l'environnement
+10. Capitaliser les plans de conservation par espèce menacée | Ministre responsable de l'environnement
+11. Assurer la surveillance et le contrôle | Ministre responsable de l'environnement
+12. Mener une étude pour déterminer la valeur des services des écosystèmes à Madagascar, incluant l'absorption/séquestration de gaz carbonique par les plantes, et leur rôle dans le financement de la protection environnementale et du développement économique | Ministre responsable de l'environnement
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
@@ -4323,17 +4254,15 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 7. Promouvoir l'utilisation d'énergie alternative | Ministre responsable de l'environnement
 8. Motiver la population sur la prévention des feux sauvages | Ministre responsable de l'environnement
 9. Renforcer l'application des lois sur la lutte contre les feux et le défrichement | Ministre responsable de l'environnement
-10. Mettre en place un système de contrôle de l'érosion (éolienne et hydraulique) du sol par la plantation de coupe- vent et de couverture végétale | Ministre responsable de l'environnement
+10. Mettre en place un système de contrôle de l'érosion (éolienne et hydraulique) du sol par la plantation de coupe-vent et de couverture végétale | Ministre responsable de l'environnement
 11. Améliorer la fertilité du sol par des systèmes agro forestiers, des couvertures végétales et la protection des plans d'eau et nappes phréatiques | Ministre responsable de l'environnement
 
-Madagascar Naturellement!
-
-12. Développer un plan intégré de gestion des ressources en eau qui inclue la promotion de la reforestation pour protéger les zones sources, la surveillance des puits et des nappes phréatiques, l'accroissement de l'efficacité des systèmes | Ministre responsable de l'environnement
---- | ---
+12. Développer un plan intégré de gestion des ressources en eau qui inclue la promotion de la reforestation pour protéger les zones sources, la surveillance des puits et des nappes phréatiques, l'accroissement de l'efficacité des systèmes de culture pour une gestion améliorée des ressources en eau potables, réserves d'eau et écosystèmes | Ministre responsable de l'environnement
 13. Créer des réserves foncières pour le reboisement (RFR) | Ministre responsable de l'environnement
 14. Promouvoir les actions de reboisement, d'embroussaillement, de reforestation et de prohibition de la pâturage | Ministre responsable de l'environnement
 15. Gérer les sites pilotes d'absorption/séquestration de carbone | Ministre responsable de l'environnement
 16. Promouvoir les opportunités de recherche et développement pour s'assurer que Madagascar devienne leader en matière de production de bio carburant par l'utilisation d'huile de palme, de soja, de maïs, de jatropha et de canne à sucre | Ministre responsable de l'environnement
+Madagascar Naturellement!
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
@@ -4376,7 +4305,7 @@ Nous intégrons la dimension environnementale dans tous les programmes sectoriel
 
 - Internaliser l'enjeu environnemental dans les politiques et plans sectoriels, régionaux et communaux.
 
-- Mettre en œ'cfuvre la Politique de l'Education Relative à l'Environnement (PERE).
+- Mettre en œuvre la Politique de l'Education Relative à l'Environnement (PERE).
 
 Madagascar Naturellement!
 
@@ -4391,27 +4320,21 @@ ENVIRONNEMENT
 MAP › Plan d'Action Madagascar | Engagement 7 | PRENDRE SOIN DE L'ENVIRONNEMENT
 
 PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
---- | --- | ---
-1. | Assurer la mise en œuvre des conventions internationales relatives à l'Environnement ratifiées par Madagascar, tels les Accords de Kyoto | Ministre responsable de l'environnement
-2. | Elaborer un Code de l'Environnement | Ministre responsable de l'environnement
-3. | Développer une politique de compensation pour la biodiversité à l'encontre des compagnies d'exploitation minière et forestière ainsi que d'autres mécanismes et incitations à la protection environnementale | Ministre responsable de l'environnement
-4. | Réduire la pollution dans les zones industrielles urbaines, rurales et portuaires | Ministre responsable de l'environnement
-5. | Développer des chaînes de valeurs dans les secteurs d'activité à haute potentialité pour s'assurer que la biodiversité soit liée à l'économie et que les activités économiques soient entreprises en accord avec les engagements environnementaux | Ministre responsable de l'environnement
-6. | Etablir une politique d'écotourisme, une charte, un code qui statue la vision, l'engagement, les valeurs et l'approche pour la promotion et la mise en oeuvre de l'écotourisme à travers tout le pays | Ministre responsable de l'environnement
-7. | Aménager des « zones spéciales » pour l'écotourisme | Ministre responsable de l'environnement
-8. | Créer et promouvoir des normes d'investissement pour maintenir la qualité | Ministre responsable de l'environnement
-
-- Développer, coordonner, partager et promouvoir les importantes informations environnementales. Ceci va inclure la conduite des sessions d'information et de dialogue sur les problèmes environnementaux à l'intention des différents acteurs (élèves, universitaires, cellules environnementales, associations paysannes, communes, régions, compagnies minières et autres opérateurs…)
-
-Ministre responsable
-
-de l'environnement Madagascar Naturellement!
-
-10. | Promouvoir la compatibilité des investissements avec l'environnement (Mise en Compatibilité des Investissements avec l'Environnement ou MECIE) et le Système de Management Environnemental (SME) dans les secteurs des mines, du transport, de la pêche, de l'agriculture, du tourisme, de l'industrie,… | Ministre responsable de l'environnement
---- | --- | ---
-11. | Promouvoir l'Evaluation Environnementale Stratégique (EES) | Ministre responsable de l'environnement
-12. | Appuyer les communes dans l'élaboration et la maîtrise des PCD | Ministre responsable de l'environnement
-13. | Appuyer l'élaboration et la mise en oeuvre de plans de développement urbain (PDU) et Plan Régional de Développement (PRD) qui intègrent la dimension environnementale dans tous les aspects du développement | Ministre responsable de l'environnement
+--- | ---
+1. Assurer la mise en œuvre des conventions internationales relatives à l'Environnement ratifiées par Madagascar, tels les Accords de Kyoto | Ministre responsable de l'environnement
+2. Elaborer un Code de l'Environnement | Ministre responsable de l'environnement
+3. Développer une politique de compensation pour la biodiversité à l'encontre des compagnies d'exploitation minière et forestière ainsi que d'autres mécanismes et incitations à la protection environnementale | Ministre responsable de l'environnement
+4. Réduire la pollution dans les zones industrielles urbaines, rurales et portuaires | Ministre responsable de l'environnement
+5. Développer des chaînes de valeurs dans les secteurs d'activité à haute potentialité pour s'assurer que la biodiversité soit liée à l'économie et que les activités économiques soient entreprises en accord avec les engagements environnementaux | Ministre responsable de l'environnement
+6. Etablir une politique d'écotourisme, une charte, un code qui statue la vision, l'engagement, les valeurs et l'approche pour la promotion et la mise en oeuvre de l'écotourisme à travers tout le pays | Ministre responsable de l'environnement
+7. Aménager des « zones spéciales » pour l'écotourisme | Ministre responsable de l'environnement
+8. Créer et promouvoir des normes d'investissement pour maintenir la qualité | Ministre responsable de l'environnement
+9. Développer, coordonner, partager et promouvoir les importantes informations environnementales. Ceci va inclure la conduite des sessions d'information et de dialogue sur les problèmes environnementaux à l'intention des différents acteurs (élèves, universitaires, cellules environnementales, associations paysannes, communes, régions, compagnies minières et autres opérateurs…) | Ministre responsable de l'environnement
+10. Promouvoir la compatibilité des investissements avec l'environnement (Mise en Compatibilité des Investissements avec l'Environnement ou MECIE) et le Système de Management Environnemental (SME) dans les secteurs des mines, du transport, de la pêche, de l'agriculture, du tourisme, de l'industrie,… | Ministre responsable de l'environnement
+11. Promouvoir l'Evaluation Environnementale Stratégique (EES) | Ministre responsable de l'environnement
+12. Appuyer les communes dans l'élaboration et la maîtrise des PCD | Ministre responsable de l'environnement
+13. Appuyer l'élaboration et la mise en oeuvre de plans de développement urbain (PDU) et Plan Régional de Développement (PRD) qui intègrent la dimension environnementale dans tous les aspects du développement | Ministre responsable de l'environnement
+Madagascar Naturellement!
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
@@ -4486,12 +4409,10 @@ PROJETS ET ACTIVITÉS PRIORITAIRES | RESPONSABLE DU PROJET
 10. Faire du marketing sur la mise en concession des massifs foresiers et des produits forestiers | Ministre responsable des forêts
 11. Assurer la coordination des activités environnementales et forestières en cohérence avec les orientations politiques du pays | Ministre responsable des forêts
 
-Madagascar Naturellement!
-
 12. Mettre en place l'E- Gouvernance du Ministère | Ministre responsable des forêts
---- | ---
 13. Mettre en place des bases de données | Ministre responsable des forêts
 14. Effectuer un suivi - évaluation des projets, programmes et activités | Ministre responsable des forêts
+Madagascar Naturellement!
 
 INDICATEURS | 2005 | 2012
 --- | --- | ---
