@@ -2,7 +2,7 @@
 
 # Twelfth Five Year Plan
 
-(2012–2017) Social Sectors
+(2012-2017) Social Sectors
 
 Volume III
 
@@ -28,7 +28,7 @@ Thousand Oaks, California 91320, USA
 
 SAGE Publications Ltd
 
-1 Oliver’s Yard, 55 City Road London EC1Y 1SP, United Kingdom
+1 Oliver's Yard, 55 City Road London EC1Y 1SP, United Kingdom
 
 SAGE Publications Asia-Pacific Pte Ltd
 
@@ -42,13 +42,13 @@ Published by Vivek Mehra for SAGE Publications India Pvt Ltd, Phototypeset in 11
 
 India. Planning Commission
 
-Twelfth five year plan (2012/2017)/Planning Commission, Government of India.
+Twelfth fi  ve year plan (2012/2017)/Planning Commission, Government of India.
 
 Volumes cm
 
-1. India—Economic Policy—1991– 2. Finance, Public—India. I. Title.
+1. India-Economic Policy-1991-92. Finance, Public-India. I. Title.
 
-HC435.3.I39 338.954009’0512—dc23 2013 2013009870
+HC435.3.I39 338.954009'0512-dc23 2013 2013009870
 
 ISBN: 978-81-321-1368-3 (PB)
 
@@ -58,11 +58,9 @@ The SAGE Team: Rudra Narayan, Archita Mandal, Rajib Chatterjee and Dally Verghes
 
 [[START OF PAGE 3]]
 
-# Twelfth Five Year Plan (2012–2017) Social Sectors
+# Twelfth Five Year Plan (2012-2017) Social Sectors
 
 Volume III
-
-सत्यमेव जयते
 
 Planning Commission Government of India
 
@@ -72,7 +70,7 @@ Planning Commission Government of India
 
 Thank you for choosing a SAGE product! If you have any comment, observation or feedback, I would like to personally hear from you. Please write to me at contactceo@sagepub.in
 
-—Vivek Mehra, Managing Director and CEO, SAGE Publications India Pvt Ltd, New Delhi
+-Vivek Mehra, Managing Director and CEO, SAGE Publications India Pvt Ltd, New Delhi
 
 ## Bulk Sales
 
@@ -94,16 +92,6 @@ YZ
 
 ## Contents
 
-List of Figures vii
-List of Tables viii
-List of Boxes x
-List of Acronyms xi
-List of Annexures xviii
-20. Health 1
-21. Education 47
-22. Employment and Skill Development 124
-23. Women’s Agency and Child Rights 164
-24. Social Inclusion 221
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -116,196 +104,59 @@ List of Annexures xviii
 
 ## Figures
 
-20.1 Disease Burden of India, 2008 (Estimated number of deaths by cause) 2
-20.2 Disability Adjusted Life Years in India, 2009 (Estimated percentage of DALY by cause) 2
-20.3 Strategies to Prevent Pre-Term Births and Manage Pre-Term Babies 30
-20.4 Projected HRH Capacity Expansion in the Twelfth Plan 37
-21.1 GER for Secondary Education: By States/Select Countries 69
-21.2 Improvements in Literacy Levels, 1981–2011 (%) 87
-21.3 Strategic Framework 91
-21.4 Enrolments in Higher Education (in lakh): 2006–07 to 2016–17 97
-21.5 Gross Attendance Ratio, 2007–08 102
-22.1 Trend in Unemployment Rate 126
-22.2 Unemployment Rate among Youth 133
-23.1 Child Sex Ratio 0–6 Years and Overall Sex Ratio India: 1961–2011 182
-23.2 Nutrition Status of Children under 3 Years (%) 197
-23.3 Inadequate Exclusive Breastfeeding in India (0–6 Months) 198
-23.4 Children Aged 6–35 Months who Received a Vitamin A Dose During Last Six Months (%) (AHS 2010–11) 199
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 ## Tables
 
-20.1 Eleventh Plan Monitorable Goals and Achievements 4
-20.2 Allocation and Spending by Ministry of Health in Eleventh Plan 5
-20.3 Funding for Health in Eleventh Plan: Core and Broad Health Components 5
-20.4 State-Wise Targets on IMR and MMR in Twelfth Plan 16
-20.5 National Health Goals for Communicable Diseases 17
-20.6 Budget Support for Departments of MoHFW in Twelfth Plan (2012–17) 18
-20.7 Interventions to Combat Non-Communicable Diseases (NCDs) 32
-20.8 Availability of HR during Eleventh Plan and Projections for Twelfth Plan 36
-20.9 Illustrative List of Health Systems Strengthening in States 39
-21.1 Cumulative Progress under SSA up to 2011–12 54
-21.2 Civil Works under SSA in the Twelfth Plan 63
-21.3 GER for Secondary Education by Social Groups (2009–10) 68
-21.4 RMSA: Achievement in the Eleventh Plan 71
-21.5 Centrally Sponsored Schemes for Secondary Education 71
-21.6 Roles in System Improvement 86
-21.7 Growth of Enrolment in the Eleventh Plan 93
-21.8 Growth of Enrolment in ODL Programmes in the Eleventh Plan 93
-21.9 Growth of Enrolment by Field of Study during the Eleventh Plan (in lakh) 94
-21.10 Growth of Institutions in the Eleventh Plan 94
-21.11 Growth of Central Institutions during the Eleventh Plan 95
-21.12 Enrolment Targets by Level/Type for the Twelfth Plan 96
-21.13 Funding Responsibility for Universities and Colleges 118
-21.14 Gross Budgetary Support for the Twelfth Plan 122
-22.1 LFPR and WFPR by Usual Principal and Subsidiary Status, 1993–94, 2004–05 and 2009–10 (%) Persons 125
-22.2 Estimated Number of Persons in Millions 125
-22.3 Unemployment, Wages and Consumption Expenditure, 1993–4 to 2009–10 126
-22.4 Proportionate Share of Sectors in Employment 127
-22.5 Formal and Informal Employment in Organized and Unorganised Sector (millions) 131
-22.6 Number of Workers by Size of Enterprise in Industry and Services 132
-22.7 Number of Workers According to Usual Status (PS+SS) Approach by Broad Employment Status (Million Workers) 132
-22.8 LFPR by Usual Principal and Subsidiary Status, 1993–94, 2004–05 and 2009–10 (%) by Gender 133
-22.9 WPR by Usual Principal and Subsidiary Status, 1993–94, 2004–05 and 2009–10 (%) by Gender 133
-22.10 Child Workforce Participation Rate by UPSS (Percentage), 1993–94, 2004–05 and 2009–10 133
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 Tables ix
 
-22.11 Workforce Participation Rate by Usual Principal and Subsidiary Status, by Social Group, 1993–94, 2004–05 and 2009–10 (%) 134
-22.12 Unemployment Rate by Usual Principal and Subsidiary Status, by Social Group, 2004–05 and 2009–10 (%) 134
-22.13 Population and Labour Force Projections 135
-22.14 Employment Elasticity from Past Data 136
-22.15 Sectoral Growth Rates: Business-as-usual Scenario 136
-22.16 Sectoral Employment (in million): Business-as-usual Scenario 137
-22.17 Sectoral Growth Rates—Twelfth Plan Scenario 137
-22.18 Sectoral EMPLOYMENTS (in million): Twelfth Plan Scenario 138
-22.19 General Education Level of Labour Force (PS+SS) in the Age Group 15–59 140
-22.20 Estimated Number of Workers (PS+SS in the age group of 15–59) by Level of Education by Sector (millions), 2009–10 141
-22.21 Distribution of Formally and Informally Vocationally Trained Workers (PS+SS in the age group of 15–59) Within Primary, Secondary and Tertiary Sectors (%) in 2009–10 142
-22.22 Apprentices in India (Under the Apprenticeship Training Act, 1961) 144
-22.23 A Typology of Training Funds 156
-23.1 Ministry-Wise Incorporation of Gender Concerns (under RFD) 180
-23.2 Monitorable Targets of Eleventh Plan and Its Achievements 201
-23.3 Existing Programmes/Schemes 204
-24.1 Incidence of Poverty across Social Groups 221
-24.2 Eleventh Plan Allocation and Expenditure for Special Schemes for SCs 222
-24.3 Rural Population Living Below Poverty Line (1993–94, 1999–2000 and 2004–05) (in %) 229
-24.4 Literacy Rates of STs and Total Population (in %) 229
-24.5 Female Literacy Rates of STs and Total Population (in %) 229
-24.6 Mortality and Undernutrition 230
-24.7 Eleventh Plan Allocation and Expenditure for Special Schemes for STs 230
-24.8 Literacy Rate among Religious Communities, SCs and STs 250
-24.9 Educational Levels among Different Communities 251
-24.10 Percentage Distribution of Workers by Category 252
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 ## Boxes
 
-20.1 Recommendations of High Level Expert Group on Universal Health Coverage 12
-20.2 Illustrative List of Preventive and Public Health Interventions Funded and Provided by Government 14
-20.3 Public–Private Partnerships (PPP) in Health Sector 20
-20.4 Institute of Liver and Biliary Sciences, Delhi: A Model of Autonomy and Sustainable Financing 24
-20.5 Flexibility and Decentralised Planning: Key Elements of National Health Mission 28
-20.6 Suggested Items in Model HR Guidelines 35
-20.7 Convergence: Village Health and Nutrition Day in North Tripura 45
-21.1 Targets for the Twelfth Plan 51
-21.2 Twelfth Plan Strategy for Elementary Education 56
-21.3 School Excellence Programme—Mumbai 62
-21.4 Secondary Education: Twelfth Plan Goals 72
-21.5 CBSE Examination Reforms 75
-21.6 Pilot Project on Vocational Education under NVEQF 79
-21.7 Enrolment Target for the Twelfth Plan 91
-21.8 TISS: A Multi-Location Networked University 99
-21.9 Strategic Shift in Central Funding for State Higher Education 100
-21.10 Concept and Framework for Establishing Community Colleges 101
-21.11 Student Financial Aid Programme (SFAP) 104
-22.1 Conceptual Framework of Key Employment and Unemployment Indicators 127
-22.2 Skill Policy for Promoting India’s Competitiveness in the Global Market 143
-22.3 Priority Sectors Identified in the Twelfth Plan 148
-22.4 Strategies for Expanding and Scaling up the Skill Development in Twelfth Plan 151
-22.5 Major Functions of Proposed National Skill Development Authority 151
-22.6 Good Performers in Financing—Chile, Australia, South Africa, Singapore 157
-22.7 Equity Implications of User Fees 158
-23.1 Women Friendly Infrastructure Development in Kerala 171
-23.2 Declining Child Sex Ratio—A Call for Urgent Action 183
-23.3 Making the Difference—ICDS Restructuring 189
-23.4 Learning by Doing—SNEHA SHIVIRs 190
-23.5 Early Joyful Learning-Chilli Pilli 193
-24.1 Eleventh Five Year Plan Schemes 253
-24.2 Vision for the Twelfth Five Year Plan 255
-24.3 Specific Interventions under PM’s 15 PP 256
-24.4 The Jaipur Foot Story 264
-24.5 Possible Actions by Central Government Ministries to Benefit Those with Disabilities 269
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 ## Acronyms
 
-AAY Antodaya Anna Yojana
-ABL Activity-Based Learning
-AESDCs Adult Education & Skill Development Centres
-AHS Annual Health Survey
-AICTE All India Council for Technical Education
-AIDS Acquired Immuno Deficiency Syndrome
-AIEEE All India Entrance Exam for Engineering
-AITT All India Trade Test
-ALIs AIIMS like Institutions
-ALMSC Anganwadi Level Monitoring and Support Committee
-ANM Auxiliary Nurse & Midwife
-ARUNIM Association of Rehabilitation under National Trust Initiative of Marketing
-ARWU Academic Ranking of World Universities
-ASC Academic Staff College
-ASER Annual Status of Education Report
-ASHA Accredited Social Health Activist
-ASSOCHAM Associated Chambers of Commerce & Industry
-ATS Apprenticeship Training Scheme
-AVI Accredited Vocational Institutes
-AWTC Anganwadi Training Centre
-AWW Anganwadi Worker
-BESU Bengal Engineering and Science University
-BJRCY Babu Jagjivan Ram Chatarvas Yojana
-BMI Body Mass Index
-BPL Below Poverty Line
-BPO Business Process Outsourcing
-BRC Block Resource Centre
-BRGF Backward Regions Grant Fund
-CABE Central Advisory Board of Education
-CAGR Compounded Annual Growth Rate
-CAL Computer Aided Learning
-CAT Common Admission Test
-CBM Community Based Monitoring
-CBSE Central Board of Secondary Education
-CBUs Community Based Organisations
-CCD Conservation cum Development
-CCE Continuous and Comprehensive Evaluation
-CDS Current Daily Status
-CES Coverage Evaluation Survey
-CFR Community Forest Rights
-CGHS Central Government Health Scheme
-CHC Community Health Centre
-CHEB Central Health Education Bureau
-CIHEC Council for Industry and Higher Education Collaboration
-CII Confederation of Indian Industries
-CLAT Common Law Admission Test
-CMB Conditional Maternity Benefit Scheme
-COBSE Council of Boards of School Education
-CoE Centre of Excellence
-CPI Consumer Price Index
-CPL Commercial Pilot Licence
-CPMT Combined Pre Medical Entrance Test
-CPPE Council for People’s Participation in Education
-CRC Cluster Resource Centre
-CSC Common Service Centre
-CSIR Council of Scientific and Industrial Research
-CSO Civil Society Organisations
+AAY | Antodaya Anna Yojana | BRGF | Backward Regions Grant Fund
+--- | --- | --- | ---
+ABL | Activity-Based Learning | CABE | Central Advisory Board of Education
+AESDCs | Adult Education & Skill | CAGR | Compounded Annual Growth Rate
+Development Centres | CAL | Computer Aided Learning
+AHS | Annual Health Survey | CAT | Common Admission Test
+AICTE | All India Council for Technical Education | CBM CBSE | Community Based Monitoring Central Board of Secondary
+AIDS | Acquired Immuno Deficiency Syndrome | CBUs | Education Community Based Organisations
+AIEEE | All India Entrance Exam for Engineering | CCD CCE | Conservation cum Development Continuous and Comprehensive
+AITT | All India Trade Test | Evaluation
+ALIs | AIIMS like Institutions | CDS | Current Daily Status
+ALMSC | Anganwadi Level Monitoring and Support Committee | CES CFR | Coverage Evaluation Survey Community Forest Rights
+ANM | Auxiliary Nurse & Midwife | CGHS | Central Government Health Scheme
+ARUNIM | Association of Rehabilitation under National Trust Initiative of Marketing | CHC CHEB CIHEC | Community Health Centre Central Health Education Bureau Council for Industry and Higher
+ARWU | Academic Ranking of World Universities | Education Collaboration
+ASC | CII | Confederation of Indian Industries
+Academic Staff College | CLAT CMB | Common Law Admission Test Conditional Maternity Benefit
+ASER ASHA | Annual Status of Education Report | Scheme
+ASSOCHAM | Accredited Social Health Activist Associated Chambers of Commerce & Industry | COBSE | Council of Boards of School Education
+Scheme
+ATS | Apprenticeship Training | CoE | Centre of Excellence
+AVI | Accredited Vocational Institutes | CPI | Consumer Price Index
+AWTC AWW | Anganwadi Training Centre | CPL CPMT | Commercial Pilot Licence Combined Pre Medical Entrace Test
+BESU | Anganwadi Worker Bengal Engineering and Science University | CPPE | Council for People's Participation in Education
+BJRCY | Babu Jagjivan Ram Chatarvas Yojana | CRC | Cluster Resource Centre
+BMI | Body Mass Index | CSC | Common Service Centre
+BPL | Below Poverty Line | CSIR | Council of Scientific and Industrial
+BPO | Business Process Outsourcing | Research
+BRC | Block Resource Centre | CSO | Civil Society Organisations
 
 [[END OF PAGE 11]]
 
@@ -313,83 +164,54 @@ CSO Civil Society Organisations
 
 xii Acronyms
 
-CSR Corporate Social Responsibility
-CSS Centrally Sponsored Scheme
-CTA Criminal Tribes Act
-CTC Central Tripartite Committee
-CTE College of Teacher Education
-CTET Central Teacher Eligibility Test
-CUE Centre for Universal Education
-CVD Cardio-Vascular Diseases
-CWSN Children With Special Needs
-DALY Disability Life Adjusted Year
-DAPCU District AIDS Prevention & Control Unit
-DEC Distance Education Council
-DEI Distance Education Institution
-DFS Double Fortified Salt
-DGET Directorate General of Employment & Training
-DHR Department of Health Research
-DIC Design Innovation Centre
-DIET District Institute of Education and Training
-DISE District Information System of Education
-DLHS District Level Health Survey
-DNB Diplomats of National Board
-DNT De-notified Tribes
-DONER Department of North Eastern Region
-DOTS Directly Observed Treatment – Short Course
-DPC District Planning Committees
-DPEP District Primary Education Programme
-DRG Diagnostic Related Group
-DSLL Department of Skills and Lifelong Learning
-DTH Direct-to-Home
-DWS Drinking Water Supply
-EAG Empowered Action Group
-EBB Educationally Backward Blocks
-ECCE Early Childhood Care and Education
-EESC Essential and Emergency Surgical Care
-EGS Education Guarantee Scheme
-EHP Essential Health Package
-ELM Elementary (Classes I–VIII)
-EMR Electronic Medical Record
-EPC Engineering, Procurement and Construction
-ER Elected Representatives
-ERP Enterprise Resource Planning
-FDC Fixed Dose Combination
-FICCI Federation of Indian Chamber of Commerce & Industry
-FRA Forest Rights Act
-FRU First Referral Unit
-FSSA Food Safety and Standards Act
-FSSAI Food Safety and Standards Authority of India
-GAR Gross Attendance Ratio
-GBPS Gigabit Per Second
-GBS Gross Budgetary Support
-GDP Gross Domestic Product
-GER Gross Enrolment Ratio
-GNM General Nursing and Midwifery
-GP Gram Panchayats
-GPI Gender Parity Index
-GPS Global Positioning System
-GS Gram Sabhas
-GVA Gross Value Added
-HCR Head Count Ratio
-HEI Higher Education Institution
-HFW Health and Family Welfare
-HH House Holds
-HIS Health Information System
-HIV Human Immunodeficiency Virus
-HLEG High Level Expert Group
-HMIS Health Management Information Systems
-IAP Indian Academy of Pediatrics/Integrated Action Plan
-IASE Institute of Advanced Studies in Education
-IAY Indira Awas Yojana
-IBA Indian Banks’ Association
-ICAI Institute of Cost Accounts of India
-ICDS Integrated Child Development Services
-ICMR Indian Council of Medical Research
-ICT Information and Communication Technology
-IDD Iron Deficiency Disorder
-IDMI Infrastructure Development in Minority Institutions
-IEC Information, Education and Communication
+CSR | Corporate Social Responsibility | ER | Elected Representatives
+--- | --- | --- | ---
+CSS | Centrally Sponsored Scheme | ERP | Enterprise Resource Planning
+CTA | Criminal Tribes Act | FDC | Fixed Dose Combination
+CTC | Central Tripatite Committee | FICCI | Federation of Indian Chamber of
+CTE | College of Teacher Education | Commerce & Industry
+CTET | Central Teacher Eligibility Test | FRA | Forest Rights Act
+CUE | Centre for Universal Education | FRU | First Referral Unit
+CVD | Cardio-Vascular Diseases | FSSA | Food Safety and Standards Act
+CWSN | Children With Special Needs | FSSAI | Food Safety and Standards Authority
+DALY | Disability Life Adjusted Year | of India
+DAPCU | District AIDS Prevention & Control | GAR | Gross Attendance Ratio
+Unit | GBPS | Gigabit Per Second
+DEC | Distance Education Council | GBS | Gross Budgetary Support
+DEI | Distance Education Institution | GDP | Gross Domestic Product
+DFS | Double Fortified Salt | GER | Gross Enrolment Ratio
+DGET | Directorate General of Employment | GNM | General Nursing and Midwifery
+& Training | GP | Gram Panchayats
+DHR | Department of Health Research | GPI | Gender Parity Index
+DIC | Design Innovation Centre | GPS | Global Positioning System
+DIET | District Institute of Education and | GS | Gram Sabhas
+Training | GVA | Gross Value Added
+DISE | District Information System of | HCR | Head Count Ratio
+Education | HEI | Higher Education Institution
+DLHS | District Level Health Survey | HFW | Health and Family Welfare
+DNB | Diplomats of National Board | HH | House Holds
+DNT | De-notified Tribes | HIS | Health Information System
+DONER | Department of North Eastern Region | HIV | Human Immunodeficiency Virus
+DOTS | Directly Observed Treatment - Short | HLEG | High Level Expert Group
+Course | HMIS | Health Management Information
+DPC | District Planning Committees | Systems
+DPEP | District Primary Education | IAP | Indian Academy of Pediatrics/ Plan
+Programme | Integrated Action
+DRG | Diagnostic Related Group | IASE | Institute of Advanced Studies in
+DSLL | Department of Skills and Lifelong | Education
+Learning | IAY | Indira Awas Yojana
+DTH | Direct-to-Home | IBA | Indian Banks' Association
+DWS | Drinking Water Supply | ICAI | Institute of Cost Accounts of India
+EAG | Empowered Action Group | ICDS | Integrated Child Development
+EBB | Educationally Backward Blocks | Services
+ECCE | Early Childhood Care and Education | ICMR | Indian Council of Medical Research
+EESC | Essential and Emergency Surgical | ICT | Information and Communication
+Care | Technology
+EGS | Education Guarantee Scheme | IDD | Iron Deficiency Disorder
+EHP | Essential Health Package | IDMI | Infrastructure Development in
+ELM | Elementary (CIasses I-VIII) | Minority Institutions
+EMR | Electronic Medical Record | IEC | Information, Education and
+EPC | Engineering, Procurement and Construction | Communication
 
 [[END OF PAGE 12]]
 
@@ -397,81 +219,45 @@ IEC Information, Education and Communication
 
 Acronyms xiii
 
-IEDSS Inclusive Education for the Disabled at Secondary Stage
-IFA Iron Folic Acid
-IFR Individual Forest Rights
-IGMSY Indira Gandhi Matritva Sahyog Yojana
-IGNOU Indira Gandhi National Open University
-IIC Inter Institutional Centre
-IIIT International Institute of Information Technology
-IIM Indian Institute of Management
-IISER Indian Institute of Science Education and Research
-IIT Indian Institute of Technology
-IMCs Institute Management Committees
-IMNCI Integrated Management of Neonatal and Childhood Illness
-IMR Infant Mortality Rate
-IMRB International Marketing and Research Bureau
-IMS Act Infant Milk Substitutes Act
-IMS Infant Milk Substitute
-INC Indian Nursing Council
-INN International Non-proprietary Name
-INT Indian Institute of Information Technology
-IPC Indian Penal Code
-IPERPO Intellectual Property Education, Research and Public Outreach
-IPHS Indian Public Health Standard
-IPOP Integrated Programme for Older Persons
-IPR Intellectual Property Rights
-IRCAs Integrated Rehabilitation Centre for Addicts
-ISCED International Standard Classification of Education
-ISM Indian School of Mines
-IT Information Technology
-ITCs Industrial Training Centres
-ITIs Industrial Training Institutes
-ITPA Immoral Trafficking Prevention Act
-IUC Inter University Centre
-IVRS Interactive Voice Response System
-IYCF Infant and Young Child Feeding
-JE Japanese Encephalitis
-JEE Joint Entrance Exam
-JIPMER Jawaharlal Institute of Post Graduate Medical Education and Research
-JKGBV Kasturba Gandhi Balika Vidyalay
-JNNURM Jawaharlal Nehru National Urban Renewal Mission
-JNV Jawahar Navodaya Vidyalaya
-JPC Joint Parliamentary Committee
-JRF Junior Research Fellowship
-JSS Jan Shiksha Sansthans
-JSY Janani Suraksha Yojana
-KGBV Kasturba Gandhi Balika Vidyalaya
-KV Kendriya Vidyalaya
-KVKs Krishi Vigyan Kendras
-KVY Kaushal Vikas Yojana
-LEP Learning Enhancement Programme
-LFPR Labour Force Participation Rate
-LLIN Long Lasting Insecticide Net
-LMIS Labour Market Information System
-LMS Learning Management System
-LWE Left Wing Extremism
-MAEF Maulana Azad Education Foundation
-MCDs Minority Concentration Districts
-MCS Model Cluster Schools
-MDG Millennium Development Goal
-MDM Mid-Day Meal
-MDMS Mid-Day Meals in Schools
-MES Modular Employable Skills
-MFP Minor Forest Produce
-MGHN Merry Gold Health Network
-MGNREGA Mahatma Gandhi National Rural Employment Guarantee Act
-MGNREGS Mahatma Gandhi National Rural Employment Guarantee Scheme
-MHFW Ministry of Health and Family Welfare
-MHRD Ministry of Human Resource Development
-MIB Ministry of Information and Broadcasting
-MIS Management Information System
-MITI Model Industrial Training Institute
-MLA Member of Legislative Assembly
-MMER Management, Monitoring, Evaluation and Research
-MMP Mission Mode Project
-MMR Maternal Mortality Ratio
-MMU Mobile Medical Unit
+IEDSS | Inclusive Education for the Disabled at Secondary Stage | JIPMER | Jawaharlal Institute of Post Graduate Medical Education and Research
+--- | --- | --- | ---
+IFA | Iron Folic Acid | JKGBV | Kasturba Gandhi Balika Vidyalay
+IFR | Individual Forest Rights | JNNURM | Jawaharlal Nehru National Urban
+IGMSY | Indira Gandhi Matritva Sahyog | Renewal Mission
+Yojana | JNV | Jawahar Navodaya Vidyalaya
+IGNOU | Indira Gandhi National Open University | JPC JRF | Joint Parliamentary Committee Junior Research Fellowship
+IIC | Inter Institutional Centre | JSS | Jan Shiksha Sansthans
+IIIT | International Institute of Information Technology | JSY | Janani Suraksha Yojana Kasturba Gandhi Balika
+KGBV | Vidyalaya Kendriya Vidyalaya
+IIM | Indian Institute of Management | KV
+IISER | Indian Institute of Science Education and Research | KVKs KVY | Krishi Vigyan Kendras Kaushal Vikas Yojana
+IIT | Indian Institute of Technology | LEP | Learning Enhancement Programme
+IMCs | Institute Management Committees | LFPR | Labour Force Participation Rate
+IMNCI | Integrated Management of Neonatal and Childhood Illness | LLIN LMIS | Long Lasting Insecticide Net Labour Market Information System
+IMR | Infant Mortality Rate | LMS | Learning Management System
+IMRB | International Marketing and Research Bureau | LWE MAEF | Left Wing Extremism Maulana Azad Education
+IMS Act | Infant Milk Substitutes Act | Foundation
+IMS | Infant Milk Substitute | MCDs | Minority Concentration Districts
+INC | Indian Nursing Council | MCS | Model Cluster Schools
+INN | International Non-proprietary Name | MDG | Millennium Development Goal
+INT | Indian Institute oflnfbrmation | MDM | Mid-Day Meal
+IPC | Technology Indian Penal Code | MDMS MES | Mid-Day Meals in Schools Modular Employable Skills
+IPERPO | Intellectual Property Education, Research and Public Outreach | MFP MGHN | Minor Forest Produce Merry Gold Health Network
+IPHS | Indian Public Health Standard | MGNREGA | Mahatma Gandhi National Employment Guarantee Act
+IPOP | Integrated Programme for Older Persons | MGNREGS | Rural Mahatma Gandhi National Rural
+IPR IRCAs | Intellectual Property Rights Integrated Rehabilitation Centre for Addicts | MHFW | Employment Guarantee Scheme Ministry of Health and Family Welfare
+ISCED | International Standard Classification of Education | Ministry of Human Resource Development Ministry of Information and
+ISM | MHRD MIB
+IT | Indian School of Mines Information Technology Industrial Training Centres | Broadcasting Management Information System
+ITCs ITIs | Industrial Training Institutes | MIS | Model Industrial Training Institute
+Immoral Trafficking Prevention | MITI MLA
+ITPA IUC | Act | Member of Legislative Assembly
+Inter University Centre Interactive Voice Response System | MMER | Management, Monitoring,
+IVRS | Evaluation and Research
+Infant and Young Child Feeding | MMP | Mission Mode Project
+IYCF JE | Japanese Encephalitis | MMR | Maternal Mortality Ratio
+JEE | Entrance Exam | Mobile Medical Unit
+Joint | MMU
 
 [[END OF PAGE 13]]
 
@@ -479,70 +265,35 @@ MMU Mobile Medical Unit
 
 xiv Acronyms
 
-MoHFW Ministry of Health & Family Welfare
-MoLE Ministry of Labour & Employment
-MoMA Ministry of Minority Affairs
-MOOC Massive Open Online Course
-MoSJE Ministry of Social Justice and Empowerment
-MoTA Ministry of Tribal Affairs
-MoU Memorandum of Understanding
-MoWCD Ministry of Woman & Child Development
-MP Madhya Pradesh
-MPCE Monthly Per-capita Consumption Expenditure
-M.Phil Master of Philosophy
-MPLADS Member of Parliament Local Area Development Scheme
-MPR Ministry of Panchayati Raj
-MS Mahila Samakhya
-MSDP Multi Sectoral Development Plan
-MSDP Multi Sectoral Development Programme
-MSJE Ministry of Social Justice and Empowerment
-MSME Ministry of Micro, Small and Medium Enterprises
-MTP Medical Termination of Pregnancy
-MVA Manual Vacuum Aspiration
-MYA Ministry of Youth Affairs
-MYA&S Ministry of Youth Affairs & Sports
-NAAC National Assessment and Accreditation Council
-NAC National Advisory Council
-NACP National AIDS Control Programme
-NAS National Assessment Survey
-NBA National Board of Accreditation
-NBCFDC National Backward Classes Finance and Development Corporation
-NBHE National Board for Health Education
-NBT National Book Trust
-NBTTC National Board for Trade Testing and Certification
-NCD Non Communicable Disease
-NCERT National Council of Educational Research & Training
-NCF National Curriculum Framework
-NCFTE National Curriculum Framework for Teacher Education
-NCHER National Commission for Higher Education and Research
-NCHRH National Commission for Human Resources in Health
-NCHS National Centre for Health Statistics
-NCLSE National Centre for Leadership in School Education
-NCRB National Crime Records Bureau
-NCSC National Commission for Scheduled Castes
-NCST National Commission for Scheduled Tribes
-NCTE National Council for Teacher Education
-NCVT National Council of Vocational Training
-NDDB National Dairy Development Board
-NDIN National Design Innovation Network
-NDRDA National Drug Regulatory and Development Authority
-NE North East
-NEAC National Evaluation and Assessment Committee
-NEGP National e-Governance Plan
-NER North Eastern Region
-NFHS National Family Health Survey
-NFIDA National Fund for Innovative Development Activities
-NFSB National Food Security Bill
-NGO Non-Governmental Organisation
-NHA National Health Accounts
-NHFDC National Handicapped Finance Development Corporation
-NHM National Health Mission
-NHPPT National Health Promotion and Protection Trust
-NHRDA National Health Regulatory and Development Authority
-NHSRC National Health System Resource Centre
-NICE National Institute of Clinical Excellence
-NIDDCP National Iodine Deficiency Disorders Control Programme
-NIFFT National Institute of Foundry and Forge Technology
+MoHFW MoLE | Ministry of Health & Family Welfare Ministry of Labour & Employment | NCHER | National Commission for Higher Education and Research
+--- | --- | --- | ---
+MoMA MOOC | Ministry of Minority Affairs Massive Open Online Course | NCHRH | National Commission for Human Resources in Health
+MoSJE | Ministry of Social Justice and Empowerment | NCHS NCLSE | National Centre for Health Statistics National Centre for Leadership in
+MoTA MoU | Ministry of Tribal Affairs Memorandum of Understanding | NCRB | School Education National Crime Records Bureau
+MoWCD | Ministry of Woman & Child Development | NCSC | National Commission for Scheduled Castes
+MP MPCE | Madhya Pradesh Monthly Per-capita Consumption | NCST | National Commission for Scheduled Tribes
+M.Phil | Expenditure Master of Philosophy | NCTE | National Council for Teacher Education
+MPLADS | Member of Parliament Local Area Development Scheme | NCVT | National Council of Vocational Training
+MPR | Ministry of Panchayati Raj | NDDB | National Dairy Development Board
+MS | Manila Samakhya | NDIN | National Design Innovation Network
+MSDP | Multi Sectoral Development Plan Multi Sectoral Development | NDRDA | National Drug Regulatory and Development Authority
+MSDP MSJE | Programme Ministry of Social Justice and Empowerment | NE NEAC | North East National Evaluation and Assessment Committee
+MSME | Ministry of Micro, Small and Medium Enterprises | NEGP | National e-Governance Plan North Eastern Region
+MTP | Medical Termination of Pregnancy | NER NFHS | National Family Health Survey
+MVA MYA | Manual Vacuum Aspiration Ministry of Youth Affairs | NFIDA | National Fund for Innovative Development Activities
+MYA&S | Ministry of Youth Affairs & Sports | NFSB | National Food Security Bill
+NAAC | National Assessment and Accreditation Council | NGO | Non-Governmental Organisation National Health Accounts
+NAC | National Advisory Council | NHA NHFDC | National Handicapped Finance
+NACP NAS | National AIDS Control Programme National Assessment Survey | NHM NHPPT | Development Corporation National Health Mission National Health Promotion and Protection Trust
+National Board of Accreditation National Backward Classes and Development Corporation | NHRDA | National Health Regulatory and Development Authority
+NBA NBCFDC | Finance
+NBHE NBT NBTTC | National Board for Health Education National Book Trust National Board for Trade Testing | National Health System Resource
+NCD | and Certification | NHSRC NICE | Centre National Institute of Clinical Excellence
+NCERT | Non Communicable Disease National Council of Educational Research & Training | NIDDCP | National Iodine Deficiency Disorders Control Programme
+NCF | National Curriculum Framework National Curriculum Framework | National Institute of Foundry and
+NCFTE | for | NIFFT | Forge Technology
+
+Teacher Education
 
 [[END OF PAGE 14]]
 
@@ -550,65 +301,31 @@ NIFFT National Institute of Foundry and Forge Technology
 
 Acronyms xv
 
-NIHFW National Institute of Health and Family Welfare
-NIN National Institute of Nutrition
-NIOS National Institute of Open Schooling
-NIPPCD National Institute of Public Cooperation and Child Development
-NIRD National Institute for Rural Development
-NISD National Institute of Social Defence
-NIT National Institute of Technology
-NKC National Knowledge Commission
-NLM National Literacy Mission
-NMDFC National Minorities Finance and Development Corporation
-NME-ICT National Mission on Education through Information and Communication Technology
-NMMS National Merit-cum-Means Scholarships
-NNMB National Nutrition Monitoring Bureau
-NNP National Nutrition Plan
-NOSS National Overseas Scholarship Scheme
-NPAN National Plan of Action on Nutrition
-NPCC National Programme Coordination Committee
-NPCDCS National Programme for the Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke
-NPEGEL National Programme for Education of Girls at Elementary Level
-NP-NSPE National Programme for Nutritional Support to Primary Education
-NRDWP National Rural Drinking Water Programme
-NREGA National Rural Employment Guarantee Act
-NRHM National Rural Health Mission
-NRLM National Rural Livelihoods Mission
-NSDC National Skill Development Corporation
-NSDCB National Skill Development Coordination Board
-NSFDC National Scheduled Castes Finance and Development Corporation
-NSIGSE National Scheme of Incentive to Girls for Secondary Education
-NSKFDC National Safai Karamcharis Finance and Development Corporation
-NSQF National Skills Qualification Framework
-NSS National Sample Survey/Nutrition Surveillance System
-NSSO National Sample Survey Organisation
-NSTFDC National Scheduled Tribes Finance and Development Corporation
-NT Nomadic Tribe
-NTFs National Training Funds
-NTFP Non Timber Forest Product
-NUEPA National University of Educational Planning and Administration
-NV Navodaya Vidyalaya
-NVEQF National Vocational Education Qualifications Framework
-OBCs Other Backward Classes
-ODL Open and Distance Learning
-ODS Open Design School
-OECD Organisation for Economic Co-operation & Development
-OOP Out of Pocket
-OoSC Out of School Children
-ORS Oral Rehydration Solution
-PCR Act Protection of Civil Rights Act
-PDS Public Distribution System
-PEC Punjab Engineering College
-PESA Act Panchayat Extension to Scheduled Areas Act
-PET Physical Education Teacher
-PG Postgraduate
-PGIMER Post Graduate Institute of Medical Education and Research
-PHC Primary Health Centre
-Ph.D Doctor of Philosophy
-PIP Project Implementation Plan
-PISA Programme for International Student Assessment
-PLHA People living with HIV/AIDS
-PMAGY Pradhan Mantri Adarsh Gram Yojana
+NIHFW | National Institute of Health arid Family Welfare | NSFDC | National Scheduled Castes Finance and Development Corporation
+--- | --- | --- | ---
+NIN | National Institute of Nutrition | NSIGSE | National Scheme of Incentive to
+NIOS NIPPCD | National Institute of Open Schooling National Institute of Public Cooperation and Child | NSKFDC | Girls for Secondary Education National Safai Karamcharis Finance and Development Corporation
+NIRD | Development National Institute for Rural | NSQF | National Skills Qualification Framework
+NISD | Development National Institute of Social Defence | NSS | National Sample Survey/Nutrition Surveillance System
+NIT NKC NLM | NationaI Institute of Technology National Knowledge Commission National Literacy Mission | NSSO | National Sample Survey Organisation
+NMDFC | National Minorities Finance and Development Corporation National Mission on Education through Information and Communication Technology | NSTFDC | National Scheduled Tribes Finance and Development Corporation
+NT | Nomadic Tribe National Training Funds Non Timber Forest Product
+NME-ICT | NTFs NTFP NUEPA | National University of Educational
+NMMS | National Merit-cum-Means Scholarships | NV | Planning and Administration Navodaya Vidyalaya
+NNMB | National Nutrition Monitoring Bureau | NVEQF OBCs | National Vocational Education Qualifications Framework
+NNP | National Nutrition Plan | Other Backward Classes
+NOSS | National Overseas Scholarship Scheme | ODL ODS | Open and Distance Learning Open Design School
+NPAN NPCC | National Plan of Action on Nutrition National Programme Coordination | OECD OOP | Organisation for Economic Co-operation & Development
+NPCDCS | Committee National Programme for the Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases | OoSC ORS PCR Act | Out of Pocket Out of School Children Oral Rehydration Solution Protection of Civil Rights Act
+NPEGEL | and Stroke National Programme for Education of Girls at Elementary Level | PDS PEC PESA Act | Public Distribution System Punjab Engineering College Panchayat Extension to
+NP-NSPE NRDWP | National Programme for Nutritional Support to Primary Education | PET | Scheduled Areas Act Physical Education Teacher
+National Rural Drinking Water Programme | PG PGIMER | Postgraduate Post Graduate Institute of Medical Education and Research
+NREGA | National Rural Employment Guarantee Act | PHC | Primary Health Centre
+NRHM | National Rural Health Mission | Ph.D | Doctor of Philosophy
+NRLM | National Rural Livelihoods Mission National Skill Development | PIP | Project Implementation Plan Programme for International
+National Skill Development | PISA | Student Assessment People living with HIV/AIDS Pradhan Mantri Adarsh
+NSDC | Corporation | Yojana
+NSDCB | Coordination Board | PLHA PMAGY | Gram
 
 [[END OF PAGE 15]]
 
@@ -616,79 +333,46 @@ PMAGY Pradhan Mantri Adarsh Gram Yojana
 
 xvi Acronyms
 
-PMDT Programmatic Management of Drug-resistant Tuberculosis
-PMGSY Pradhan Mantri Gram Sadak Yojana
-PMS Post Matric Scholarship
-PMSSY Pradhan Mantri Swasthya Suraksha Yojana
-POA Act Prevention of Atrocities Act
-PPP Public–Private Partnership
-PRI Panchayati Raj Institution
-PS Primary School
-PSL Priority Sector Lending
-PSSCIVE Pandit Sunder Lal Sharma Central Institute of Vocational Education
-PSUs Public Sector Undertakings
-PTA Parent Teacher Association
-PTG Primitive Tribal Groups
-PTR Pupil Teacher Ratio
-PVTGs Particularly Vulnerable Tribal Groups
-PYKKA Panchayat Yuva Krida Khel Abhiyan
-QMT Quality Monitoring Tools
-R&D Research and Development
-RCH Reproductive and Child Health
-RDA Recommended Dietary Allowance
-RDK Rapid Diagnostic Kits
-RGI Registrar General of India
-RGNCS Rajiv Gandhi National Crèche Scheme
-RGNFS Rajiv Gandhi National Fellowships Scheme
-RGSEAG Rajiv Gandhi Scheme for Empowerment of Adolescent Girls
-RKS Rogi Kalyan Samitis
-RMP Registered Medical Practitioner
-RMSA Rashtriya Madhyamik Shiksha Abhiyan
-R&R Rehabilitation and Re-settlement
-RRTCs Regional Resource and Training Centres
-RSBY Rashtriya Swasthya Bima Yojana
-RSC Residential School Complex
-RTE Right to Education
-RUDSETI Rural Development and Self Employment Training Institute
-SBA Skilled Birth Attendants
-SC Scheduled Caste
-SCA Special Central Assistance
-SCAs State Channelizing Agencies
-SCDC Scheduled Caste Development Corporation
-SCERT State Council of Educational Research & Training
-SCP Special Component Plan
-SCR Student Classroom Ratio
-SCSP Scheduled Caste Sub Plan
-SDCs Skill Development Centres
-SEMIS Secondary Education Management Information System
-SFAP Student Financial Aid Programme
-SGSY-SP Swarnajayanti Gram Swarozgar Yojana–Special Projects
-SHGs Self Help Groups
-SHSRC State Health System Resource Centre
-SIA Supplemental Immunization Activity
-SIE State Institute of Education
-SIEMAT State Institute of Educational Management & Training
-SIHFW State Institute of Health and Family Welfare
-SII J&K Special Industry Initiative for Jammu & Kashmir
-SJE Social Justice and Empowerment
-SKA Sarva Krida Abhiyan
-SKP Skill Knowledge Providers
-SMC School Management Committee
-SMEPWD State Mission for Empowerment of Persons with Disabilities
-SNT Semi Nomadic Tribe
-SOS State Open School
-SPO State Project Office
-SPQEM Scheme for Providing Quality Education in Madarasas
-SRCs Socio Religious Communities
-SRF Senior Research Fellowship
-SRI Social and Rural Institute
-SRMS Scheme for Rehabilitation of Manual Scavengers
-SRS Sample Registration System
-SSA Sarva Shiksha Abhiyan
-SSCs Sector Skill Councils
-ST Scheduled Tribe
-STDCs State Tribal Development Corporations
-STEP Support to Training and Employment Programme for Women
+PMDT | Programmatic Management of Drug-resistant Tuberculosis | SCDC | Scheduled Caste Development Corporation
+--- | --- | --- | ---
+PMGSY | Pradhan Mantri Gram Sadak Yojana Post Matric Scholarship | SCERT | State Council of Educational Research & Training
+PMS PMSSY | Pradhan Mantri Swasthya Suraksha | SCP | Special Component Plan
+Yojana | SCR | Student Classroom Ratio
+POA Act | Prevention of Atrocities Act | SCSP | Scheduled Caste Sub Plan
+PPP | Public-Private Partnership | SDCs | Skill Development Centres
+PRI | Pahchayati Raj Institution | SEMIS | Secondary Education Management
+PS | Primary School Priority Sector Lending Pandit Sunder Lal Sharma Central | SFAP SGSY-SP | Information System Student Financial Aid Programme Swarnajayanti Gram Swarozgar
+PSL PSSCIVE | Institute of Vocational Education Public Sector Undertakings Parent Teacher Association Primitive Tribal Groups Pupil Teacher Ratio | Yojana-Special Projects
+PSUs | SHGs | Self Help Groups State Health System Resource
+PTA PTG | Tribal | SHSRC SIA | Centre
+Particularly Vulnerable | Supplemental Immunization Activity
+PTR | SIE | State Institute of Education
+PVTGs | Groups | SIEMAT | State Institute of Educational Management & Training
+PYKKA | Panchayat Yuva Krida Khel Quality Monitoring Tools | SIHFW | State Institute of Health and Welfare
+QMT | Abhiyan | Family
+R&D RCH | Research and Development Reproductive and Child Health | SII J&K | Special Industry Initiative for Jammu & Kashmir
+RDA | Recommended Dietary Allowance Rapid Diagnostic Kits | SJE | Social Justice and Empowerment Sarva Krida Abhiyan
+RDK RGI | Registrar General of India | SKA | Skill Knowledge Providers
+SKP | School Management
+RGNCS | Rajiv Gandhi National Crèche Scheme National Fellowships | SMC SMEPWD | Committee State Mission for Empowerment of
+RGNFS | Rajiv Gandhi Scheme Rajiv Gandhi | SNT SOS | Persons with Disabilities Semi Nomadic Tribe State Open School
+RGSEAG | Scheme for Empowerment of Adolescent Girls | SPO | State Project Office
+RKS RMP | Rogi Kalyan Samitis Registered Medical Practitioner | SPQEM | Scheme for Providing Quality Education in Madarasas
+RMSA | Rashtriya Madhyamik Shiksha Abhiyan Rehabilitation and Re-settlement | SRCs SRF SRI | Socio Religious Communities Senior Research Fellowship Social and Rural Institute
+R&R | Regional Resource and Training Centres | SRMS | Scheme for Rehabilitation of Manual Scavengers
+RRTCs | Rashtriya Swasthya Bima Yojana Residential School Complex | Sample Registration System
+RSBY RSC | SRS | Sarva Shiksha Abhiyan
+RTE | Right to Education | SSA SSCs | Sector Skill Councils
+Rural Development and | ST | Scheduled Tribe
+RUDSETI | Self Employment Training Institute
+SBA | Skilled Birth Attendants | STDCs | State Tribal Development Corporations
+Scheduled Caste Special Central | STEP | Support to Training
+and Employment
+Assistance | Programme
+SCA | Channelizing
+SC
+for
+SCAs | State Agencies | Women
 
 [[END OF PAGE 16]]
 
@@ -696,56 +380,28 @@ STEP Support to Training and Employment Programme for Women
 
 Acronyms xvii
 
-STET State Teacher Eligibility Test
-STI Sexually Transmitted Infection
-TB Tuberculosis
-TBA Traditional Birth Attendant
-TEI Teacher Education Index
-TEQIP Technical Education Quality Improvement Programme
-TET Teacher Eligibility Test
-TFR Total Fertility Rate
-THE Times Higher Education
-TISS Tata Institute of Social Sciences
-TLC Teaching and Learning Centre
-TLE Teaching Learning Equipment
-TLM Teaching Learning Material
-TNTFP Traditional Non Timber Forest Product
-TPDS Targeted Public Distribution System
-TREAD Trade Related Entrepreneurship Assistance and Development
-TRI Tribal Research Institute
-TRIFED Tribal Cooperative Marketing Development Federation of India Limited
-TRIPs Trade-Related Aspects of Intellectual Property Rights
-TSC Total Sanitation Campaign
-TSP Tribal Sub-Plan
-TVET Technical and Vocational Education & Training
-UEE Universalisation of Elementary Education
-UG Undergraduate
-UGC University Grants Commission
-UHC Universal Health Coverage
-UID Unique Identification
-ULB Urban Local Bodies
-UMDT Uniform Multi-Drug Therapy Regimen
-UNCRPD United Nations Conventions on the Rights of Persons with Disabilities
-UNESCO United Nations Educational, Scientific & Cultural Organisation
-UNICEF United Nations International Children Emergency Fund
-UP Uttar Pradesh
-UPS Upper Primary School
-UPSS Usual Principal Subsidiary Status
-USA United States of America
-UT Union Territory
-VEC Village Education Committee
-VET Vocational Education & Training
-VHND Village Health and Nutrition Day
-VHNSC Village Health Nutrition Sanitation Committee
-VHSND Village Health, Sanitation and Nutrition Day
-VO Volunteer Organisations
-VRCs Vocational Rehabilitation Centres
-VTPs Vocational Training Providers
-WCD Women and Child Development
-WCP Women and Child Programmes
-WFPR Work Force Participation Rate
-WHO World Health Organization
-WTO World Trade Organisation
+STET | State Teacher Eligibility Test | UGC | University Grants Commission
+--- | --- | --- | ---
+STI | Sexually Transmitted Infection | UHC | Universal Health Coverage
+TB | Tuberculosis | UID | Unique Identification
+TBA | Traditional Birth Attendant | ULB | Urban Local Bodies
+TEI | Teacher Education Index | UMDT | Uniform Multi-Drug Therapy Regimen
+TEQIP TET | Technical Education Quality Improvement Programme Teacher Eligibility Test | UNCRPD | United Nations Conventions on the Rights of Persons with Disabilities
+TFR | Total Fertility Rate Times Higher Education | UNESCO | United Nations Educational, Scientific & Cultural Organisation
+THE TISS TLC | Tata Institute of Social Sciences Teaching and Learning Centre | UNICEF | United Nations International Children Emergency Fund
+TLE | Teaching Learning Equipment | UP | Uttar Pradesh
+TLM | Teaching Learning Material | UPS | Upper Primary School
+TNTFP | Traditional Non Timber Forest Product | UPSS USA | Usual Principal Subsidiary Status United States of America
+TPDS | Targeted Public Distribution System | UT | Union Territory
+TREAD | Trade Related Entrepreneurship Assistance and Development | VEC VET | Village Education Committee Vocational Education &
+TRI | Tribal Research Institute | VHND | Training Village Health and Nutrition Day
+TRIFED | Tribal Cooperative Marketing Development Federation of India | VHNSC | Village Health Nutrition Sanitation Committee
+TRIPs | Limited Trade-Related Aspects of Intellectual | VHSND | Village Health, Sanitation and Nutrition Day
+TSC | Property Rights | VO VRCs | Volunteer Organisations Vocational Rehabilitation Centres
+TSP | Total Sanitation Campaign Tribal Sub-Plan | VTPs | Vocational Training Providers
+TVET | Technical and Vocational Education & Training | WCD WCP | Women and Child Development Women and Child Programmes
+Universalisation of Elementary | Work Force Participation Rate
+UEE UG | Education Undergraduate | WFPR WHO WTO | World Health Organization World Trade Organisation
 
 [[END OF PAGE 17]]
 
@@ -753,10 +409,6 @@ WTO World Trade Organisation
 
 ## Annexures
 
-22.1 Employment Across Various Sectors (in millions) 1999–2000, 2004–05, 2009–10—on UPSS basis 160
-22.2 Absolute Increase/Decrease Employments Across Various Sectors (in millions) in Manufacturing, 1999–2000, 2004–05, 2009–10 161
-22.3 Incidence of Unemployment for 15 Years and Above Age Group, by Level of Education, 2004–05 and 2009–10 (UPSS) in Percentage 162
-22.4 Dependency Ratio Across India States, Census 2001 163
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
@@ -765,21 +417,23 @@ WTO World Trade Organisation
 
 ## Health
 
-20.1. Health should be viewed as not merely the absence of disease but as a state of complete physical, mental and social well-being. The determinants of good health are: access to various types of health services and an individual’s lifestyle choices, personal, family and social relationships. The latter are outside the scope of this Chapter. The focus in this Chapter is on the strategy to deliver preventive, curative and public health services. Other sectors that impact on good health, such as clean drinking water and sanitation are dealt with in other Chapters of the Plan.
+20.1.  Health  should  be  viewed  as  not  merely  the absence of disease but as a state of complete physical, mental  and  social  well-being.  The  determinants  of good health are: access to various types of health services  and  an  individual's  lifestyle  choices,  personal, family and social relationships. The latter are outside the scope of this Chapter. The focus in this Chapter is on the strategy to deliver preventive, curative and public health services. Other sectors that impact on good health, such as clean drinking water and sanitation are dealt with in other Chapters of the Plan.
 
 ### AN OVERVIEW
 
-20.2. At present, India’s health care system consists of a mix of public and private sector providers of health services. Networks of health care facilities at the primary, secondary and tertiary level, run mainly by State Governments, provide free or very low cost medical services. There is also an extensive private health care sector, covering the entire spectrum from individual doctors and their clinics, to general hospitals and super speciality hospitals.
+20.2.  At present, India's health care system consists of  a  mix  of  public  and  private  sector  providers  of health services. Networks of health care facilities at the primary, secondary and tertiary level, run mainly by State Governments, provide free or very low cost medical  services.  There  is  also  an  extensive  private health care sector, covering the entire spectrum from individual doctors and their clinics, to general hospitals and super speciality hospitals.
 
-20.3. The system suffers from the following weaknesses:
+20.3.  The system suffers from the following weaknesses:
 
-1. Availability of health care services from the public and private sectors taken together is quantitatively inadequate. This is starkly evident from the data on doctors or nurses per lakh of the population. At the start of the Eleventh Plan, the number of doctors per lakh of population was only 45, whereas, the desirable number is 85 per lakh population. Similarly, the number of Nurses and Auxiliary Nurse and Midwifes (ANMs) available was only 75 per lakh population whereas the desirable number is 255. The overall shortage is exacerbated by a wide geographical variation in availability across the country. Rural areas are especially poorly served.
+- Availability of health care services from the public and private sectors taken together is quantitatively inadequate. This is starkly evident from the data on doctors or nurses per lakh of the population. At the start of the Eleventh Plan, the number  of  doctors  per  lakh  of  population  was  only 45, whereas, the desirable number is 85 per lakh population. Similarly, the number of Nurses and
 
-2. Quality of healthcare services varies considerably in both the public and private sector. Many practitioners in the private sector are actually not qualified doctors. Regulatory standards for public and private hospitals are not adequately defined and, in any case, are ineffectively enforced.
+Auxiliary  Nurse  and  Midwifes  (ANMs)  available was only 75 per lakh population whereas the desirable number is 255. The overall shortage is exacerbated by a wide geographical variation in availability  across  the  country.  Rural  areas  are especially poorly served.
 
-3. Affordability of health care is a serious problem for the vast majority of the population, especially in tertiary care. The lack of extensive and adequately funded public health services pushes large numbers of people to incur heavy out of pocket expenditures on services purchased from the private sector. Out of pocket expenditures arise even in public sector hospitals, since lack of medicines means that patients have to buy them. This results in a very high financial burden on families in case of severe illness. A large fraction of the out of pocket expenditure arises from outpatient care and purchase of medicines, which are mostly not covered even by the existing insurance schemes. In any case, the percentage of population covered by health insurance is small.
+- Quality of  healthcare  services  varies  considerably in both the public and private sector. Many practitioners in the private sector are actually not qualified doctors. Regulatory standards for public and private hospitals are not adequately defined and, in any case, are ineffectively enforced.
 
-4. The problems outlined above are likely to worsen in future. Health care costs are expected to rise because, with rising life expectancy, a larger proportion of our population will become vulnerable to chronic Non Communicable Diseases (NCDs), which typically require expensive
+- Affordability of  health  care  is  a  serious  problem for the vast majority of the population, especially in  tertiary  care.  The  lack  of  extensive  and  adequately funded public health services pushes large numbers of people to incur heavy out of pocket expenditures on services purchased from the private sector. Out of pocket expenditures arise even in  public  sector  hospitals,  since  lack  of  medicines means that patients have to buy them. This results in a very high financial burden on families in case of severe illness. A large fraction of the out of pocket expenditure arises from outpatient care and purchase of medicines, which are mostly not covered even by the existing insurance schemes. In any case, the percentage of popu  lation covered by health insurance is small.
+
+- The problems outlined above are likely to worsen in future. Health care costs are expected to rise because, with rising life expectancy, a larger proportion  of  our  population  will  become  vulnerable  to  chronic  Non  Communicable  Diseases (NCDs), which typically require expensive
 
 [[END OF PAGE 19]]
 
@@ -787,127 +441,211 @@ WTO World Trade Organisation
 
 2 Twelfth Five Year Plan
 
-treatment. The public awareness of treatment possibilities is also increasing and which, in turn, increases the demand for medical care. In the years ahead, India will have to cope with health problems reflecting the dual burden of disease, that is, dealing with the rising cost of managing NCDs and injuries while still battling communicable diseases that still remain a major public health challenge, both in terms of mortality and disability (Figures 20.1 and 20.2).
+treatment.  The  public  awareness  of  treatment possibilities is also increasing and which, in turn, increases  the  demand  for  medical  care.  In  the years ahead, India will have to cope with health problems reflecting the dual burden of disease, that is, dealing with the rising cost of managing NCDs and injuries  while  still  battling  communicable diseases that still remain a major public
 
-5. The total expenditure on health care in India, taking both public, private and household out-of-pocket (OOP) expenditure was about 4.1 per cent of GDP in 2008–09 (National Health Accounts [NHA] 2009), which is broadly comparable to other developing countries, at similar
+- health challenge, both in terms of mortality and disability (Figures 20.1 and 20.2).
+
+- The  total  expenditure  on  health  care  in  India, taking  both  public,  private  and  household  outof-pocket (OOP) expenditure was about 4.1 per cent of GDP  in 2008-09 (National Health Accounts [NHA] 2009), which is broadly comparable to other developing countries, at similar
+
+Source: Mortality  and  Burden  of  Disease  Estimates  for  WHO Member States in 2008.
 
 Infectious and parasitic diseases
+
 Respiratory infections
+
 Perinatal conditions (h)
+
 Maternal conditions
+
 Nutritional deficiencies
+
 Cardiovascular diseases
+
 Respiratory diseases
+
 Malignant Cancer
+
 Digestive diseases
+
 Genitourinary diseases
+
 Diabetes mellitus
+
 Neuropsychiatric conditions
+
 Others
+
 Congenital anomalies
+
 Unintentional injuries
+
 Intentional injuries
 
-Communicable Diseases (37%)
-Non Communicable Diseases (53%)
+Communicable
+
+Diseases (37%)
+
+Non Communicable
+
+Diseases (53%)
+
 Injuries (10%)
 
 22%
+
 3%
+
 7%
+
 0.7%
+
 0.9%
+
 1.4%
+
 2%
+
 2%
+
 5%
+
 6%
+
 11%
+
 24%
+
 0.5%
+
 0.6%
+
 7%
+
 7%
 
-Source: Mortality and Burden of Disease Estimates for WHO Member States in 2008.
+Infectious and parasitic
 
-FIGURE 20.1: Disease Burden of India, 2008
-(Estimated number of deaths by cause)
+diseases
 
-Dark Maroon: Communicable Diseases (43.94%)
-Black: Non Communicable Diseases (43.02%)
-Light Maroon: Injuries (13.04%)
-
-Infectious and parasitic diseases
 Nutritional deficiencies
+
 Cardiovascular diseases
+
 Digestive diseases
+
 Musculoskeletal diseases
+
 Oral conditions
+
 Other neoplasms
+
 Perinatal conditions (h)
+
 Maternal conditions
+
 Sense organ diseases
+
 Malignant neoplasms
+
 Genitourinary diseases
+
 Skin diseases
+
 Unintentional injuries
+
 Respiratory infections
-Neuropsychiatric conditions
+
+Neuropsychiatric
+
+conditions
+
 Respiratory diseases
+
 Congenital anomalies
+
 Diabetes mellitus
+
 Endocrine disorders
+
 Intentional injuries
 
+Dark Maroon: Communicable Diseases (43.94%)
+
+Black: Non Communicable Diseases (43.02%)
+
+Light Maroon: Injuries (13.04%)
+
 19.28
+
 11.62
+
 7.11
+
 3.23
+
 2.69
+
 11.79
+
 9.49
+
 6.30
+
 3.67
+
 2.85
+
 2.78
+
 0.95
+
 0.54
+
 0.21
+
 0.10
+
 0.08
+
 2.53
+
 10.50
+
 0.89
-1.88
+
 1.49
+
+1.88
+
+FIGURE 20.1: Disease Burden of India, 2008 (Estimated number of deaths by cause)
 
 Source: Global Burden of Disease Estimates for WHO Member States 2009.
 
-FIGURE 20.2: Disability Adjusted Life Years in India, 2009
-(Estimated percentage of DALY by cause)
+FIGURE 20.2: Disability Adjusted Life Years in India, 2009 (Estimated percentage of DALY by cause)
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-Health 3
+Health
 
-levels of per capita income. However, the public expenditure on health was only about 27 per cent of the total in 2008–09 (NHA, 2009), which is very low by any standard. Public expenditure on Core Health (both plan and non-plan and taking the Centre and States together) was about 0.93 per cent of GDP in 2007–08. It has increased to about 1.04 per cent during 2011–12. It needs to increase much more over the next decade.
+3
 
-20.4. The enormity of the challenge in health was realised when the Eleventh Plan was formulated and an effort was made to increase Central Plan expenditures on health. The increase in Central expenditures has not been fully matched by a comparable increase in State Government expenditures (Table 20.3). The Twelfth Plan proposes to take corrective action by incentivising States.
+levels of per capita income. However, the public expenditure on health was only about 27 per cent of  the  total  in  2008-09  (NHA,  2009),  which  is very low by any standard. Public expenditure on Core Health (both plan and non-plan and taking the  Centre  and  States  together)  was  about  0.93 per cent of GDP in 2007-08. It has increased to about 1.04 per cent during 2011-12. It needs to increase much more over the next decade.
 
-20.5. As an input into formulating the Twelfth Plan strategy, it has relied on the High Level Expert Group (HLEG) set up by the Planning Commission to define a comprehensive strategy for health for the Twelfth Five Year Plan. The Group’s report is accessible on the web site of the Planning Commission. In addition, wide consultations have been held with stakeholders and through Working Groups and Steering Groups. Based on the HLEG report and after extensive consultations within and outside the Government, as well as a close review of the actual performance of the sector during the Eleventh Plan period, a new strategy for health is being spelt out in the Twelfth Plan towards rolling out Universal Health Coverage—a process that will span several years. The consensus among stakeholders is that the magnitude of the challenge is such that a viable and longer term architecture for health can be put in place only over two or even three Plan periods. However, a start must be made towards achieving the long term goal immediately.
+20.4.  The  enormity  of  the  challenge  in  health  was realised when the Eleventh Plan was formulated and an effort was made to increase Central Plan expenditures on health. The increase in Central expenditures has not been fully matched by a comparable increase in State Government expenditures (Table 20.3). The Twelfth  Plan  proposes  to  take  corrective  action  by incentivising States.
+
+20.5.  As an input into formulating  the  Twelfth Plan strategy, it has relied on the High Level Expert Group (HLEG) set up by the Planning Commission to define a comprehensive strategy for health for the Twelfth Five Year Plan. The Group's report is accessible  on  the  web  site  of  the  Planning  Commission. In addition, wide consultations have been held with stakeholders  and  through  Working  Groups  and Steering  Groups.  Based  on  the  HLEG  report  and after extensive consultations within and outside the Government, as well as a close review of the actual performance of the sector during the Eleventh Plan period,  a  new  strategy  for  health  is  being  spelt  out in  the  Twelfth  Plan  towards  rolling  out  Universal Health  Coverage-a  process  that  will  span  several years.  The  consensus  among  stakeholders  is  that the magnitude of the challenge is such that a viable and longer term architecture  for  health  can  be  put in  place  only  over  two  or  even  three  Plan  periods. However,  a  start  must  be  made  towards  achieving the long term goal immediately.
 
 ### REVIEW OF ELEVENTH PLAN PERFORMANCE
 
-20.6. A review of the health outcome of the Eleventh Plan and of NRHM is constrained by lack of end-line data on most indicators. Analysis of available data reveals that though there has been progress, except on child-sex ratio, the goals have not been fully met. Despite efforts through the flagship of NRHM, wide disparity in attainments across states outlines the need for contextual strategies.
+20.6.  A review of the health outcome of the Eleventh Plan and of NRHM is constrained by lack of end-line data  on  most  indicators.  Analysis  of  available  data reveals that though there has been progress, except on child-sex ratio, the goals have not been fully met. Despite efforts through the flagship of NRHM, wide disparity  in  attainments  across  states  outlines  the need for contextual strategies.
 
-1. Maternal Mortality Ratio (MMR) which measures number of women of reproductive age (15–49 years) dying due to maternal causes per 1,00,000 live births, is a sensitive indicator of the quality of the health care system. The decline in MMR during the 2004–06 to 2007–09 of 5.8 per cent per year (that is, 254 to 212) has been comparable to that in the preceding period (a fall of 5.5 per cent per year from 301, over 2001–03 to 2004–06). MMR of 212 (2007–09) is well short of the Eleventh Plan goal of 100. Besides Kerala (81), two more States namely Tamil Nadu (97) and Maharashtra (104) have realised MDG target of 109 in 2007–09, while Andhra Pradesh (134), West Bengal (145), Gujarat (148) and Haryana (153) are in closer proximity. A major burden of MMR is in EAG states, where the average MMR was 308 in 2007–09 (SRS), and continues to remain high as per the recent Annual Health Survey (2010–11). These are Assam (381), Bihar (305), Jharkhand (278), MP (310), Chhattisgarh (275), Odisha (277), Rajasthan (331), Uttar Pradesh (345) and Uttarakhand (188). Suboptimal performance in EAG states points to gaps in Ante-Natal Care, skilled birth attendance and Emergency Obstetrical care and to draw lessons from maternal death reviews.
+- Maternal  Mortality  Ratio  (MMR) which  measures  number  of  women  of  reproductive  age (15-49 years) dying due to maternal causes per 1,00,000 live births, is a sensitive indicator of the quality of the health care system. The decline in MMR during the 2004-06 to 2007-09 of 5.8 per cent per year (that is, 254 to 212) has been comparable to that in the preceding period (a fall of 5.5 per cent per year from 301, over 2001-03 to 2004-06). MMR of 212 (2007-09) is well short of the Eleventh Plan goal of 100. Besides Kerala (81),  two  more States namely Tamil Nadu (97) and Maharashtra (104) have realised MDG target  of  109  in  2007-09,  while  Andhra  Pradesh (134),  West  Bengal  (145),  Gujarat  (148)  and Haryana (153) are in closer proximity. A major burden of MMR is in EAG states, where the average MMR was 308 in 2007-09 (SRS), and continues to remain high as per the recent Annual Health Survey (2010-11). These are  Assam (381),  Bihar  (305),  Jharkhand  (278),  MP  (310), Chhattisgarh (275), Odisha (277), Rajasthan (331),  Uttar  Pradesh  (345)  and  Uttarakhand (188).  Suboptimal  performance  in  EAG  states points to gaps in Ante-Natal Care, skilled birth attendance and Emergency Obstetrical care and to draw lessons from maternal death reviews.
 
-2. Infant Mortality Rate (IMR), death of children before the age of one year per 1,000 live births, is a sensitive indicator of the health and nutritional status of population. IMR fell by 5 per cent per year over the 2006–11 period, an improvement over the 3 per cent decline per year in the preceding five years, but short of the target of 28. The decline in IMR has accelerated, but is short of the required pace. While seven states have achieved the target, IMR is still high in MP, Odisha, UP, Assam, and Rajasthan.
+- Infant  Mortality  Rate  (IMR) ,  death  of  children before the age of one year per 1,000 live births, is  a  sensitive  indicator  of  the  health  and  nutritional status of population. IMR fell by 5 per cent per year over the 2006-11 period, an improvement over the 3 per cent decline per year in the preceding  five  years,  but  short  of  the  target  of 28.  The  decline  in  IMR  has  accelerated,  but  is short  of  the  required  pace.  While  seven  states have achieved the target, IMR is still high in MP, Odisha, UP, Assam, and Rajasthan.
 
-3. Total Fertility Rate (TFR), which measures the number of children born to a woman during her entire reproductive period, fell by 2.8 per cent per annum over the 2006–10 period from 2.8 to
+- Total  Fertility  Rate  (TFR) ,  which  measures  the number of children born to a woman during her entire  reproductive  period,  fell  by  2.8  per  cent per annum over the 2006-10 period from 2.8 to
 
 [[END OF PAGE 21]]
 
@@ -915,33 +653,32 @@ levels of per capita income. However, the public expenditure on health was only 
 
 4 Twelfth Five Year Plan
 
-2.5, which is faster than the decline of 2 per cent per year in the preceding five years, but short of the Eleventh Plan goal of 2.1. Replacement level TFR, namely 2.1, has been attained by nine states. High fertility remains a problem in seven States, namely Bihar (CBR 2011 27.7; TFR 2010 3.7), Uttar Pradesh (27.8; 3.5), Madhya Pradesh (26.9; 3.2), Rajasthan (26.2; 3.1), Jharkhand (25.0; 3.0), Chhattisgarh (24.9; 2.8) and Assam (22.8; 2.5). Reasons are early marriage, close spacing of births, high unmet need and lack of skilled contraceptive services. Low couple protection rate (40.4 per cent Family Welfare Statistics in India, 2011) and a high unmet need for contraception (20.5 per cent) in 2007–08 point to gaps in service delivery.
+- 2.5, which is faster than the decline of 2 per cent per year in the preceding five years, but short of the Eleventh Plan goal of 2.1. Replacement level TFR, namely 2.1, has been attained by nine states. High fertility remains a problem in seven States, namely  Bihar  (CBR  2011  27.7;  TFR  2010  3.7), Uttar Pradesh (27.8; 3.5), Madhya Pradesh (26.9; 3.2), Rajasthan (26.2; 3.1), Jharkhand (25.0; 3.0), Chhattisgarh  (24.9;  2.8)  and  Assam  (22.8;  2.5). Reasons  are  early  marriage,  close  spacing  of births, high unmet need and lack of skilled contraceptive  services.  Low  couple  protection  rate (40.4 per cent Family Welfare Statistics in India, 2011) and a high unmet need for contraception (20.5 per cent) in 2007-08 point to gaps in service delivery.
 
-4. On the goal of raising child sex ratio, there has been a reversal. All States and UTs except Punjab, Haryana, Himachal Pradesh, Gujarat, Tamil Nadu, Mizoram, Andaman and Nicobar Islands and Chandigarh have witnessed a decrease in the child sex ratio (0–6 years) in the 2001–11 decade.
+- On the goal of raising child  sex  ratio ,  there  has been a reversal. All States and UTs except Punjab, Haryana, Himachal Pradesh, Gujarat, Tamil Nadu, Mizoram, Andaman and Nicobar Islands and Chandigarh have witnessed a decrease in the child sex ratio (0-6 years) in the 2001-11 decade.
 
-5. Progress on goals on reducing malnutrition and anaemia cannot be assessed for want of updated data, but localised surveys indicated that the status has not improved.
+- Progress on goals on reducing malnutrition and anaemia cannot be assessed for want of updated data, but localised surveys indicated that the status has not improved.
 
 #### FINANCING FOR HEALTH
 
-20.7. During the Eleventh Plan funding for health by Central Government has increased to 2.5 times and of States to 2.14 times that in Tenth Plan, to add up to 1.04 per cent of GDP in 2011–12. When broader determinants of health (drinking water and sanitation, ICDS and Mid-Day Meal) are added, the total public spending on health in Eleventh Plan comes to 1.97 per cent of GDP (Tables 20.2 and 20.3).
+20.7.  During the Eleventh Plan funding for health by Central Government has increased to 2.5 times and of States to 2.14 times that in Tenth Plan, to add up to 1.04 per cent of GDP in 2011-12. When broader determinants of health  (drinking  water  and  sanitation, ICDS and Mid-Day Meal) are added, the total public spending on health in Eleventh Plan comes to 1.97 per cent of GDP (Tables 20.2 and 20.3).
 
-20.8. An analysis of performance reveals achievements and gaps. These follow.
+20.8.  An  analysis  of  performance  reveals  achievements and gaps. These follow.
 
 #### INFRASTRUCTURE
 
-20.9. There has been an increase in number of public health facilities over the 2007–11 period—Sub-Centres by 2 per cent, PHC by 6 per cent, CHC by 16 per cent and District Hospitals by 45 per cent. Yet shortfalls remain, 20 per cent for Sub-Centres, 24 per cent for PHCs and 37 per cent for CHCs, particularly in Bihar, Jharkhand, Madhya Pradesh and Uttar Pradesh. Though most CHCs and 34 per cent Primary Health Centres (PHCs) have been upgraded and operationalised as 24 × 7 facilities and First Referral Units (FRU) have doubled, yet the commitment of Eleventh Plan to make all public facilities meet IPHS norms, and to provide Emergency Obstetric Care at all CHCs have not been achieved. Access to safe abortion services is not available in all CHCs, a gap which is contributing to maternal mortality. Though Mobile Medical Units (MMUs) have been deployed in 449 districts of the country, their outreach medical services are not adequate for the need.
-
-TABLE 20.1
-Eleventh Plan Monitorable Goals and Achievements
+20.9.  There has been an increase in number of public  health  facilities  over  the  2007-11  period-SubCentres by 2 per cent, PHC by 6 per cent, CHC by 16  per  cent  and  District  Hospitals  by  45  per  cent. Yet  shortfalls  remain,  20  per  cent  for  Sub-Centres, 24 per cent for PHCs and 37 per cent for CHCs, particularly in Bihar, Jharkhand, Madhya Pradesh and Uttar Pradesh. Though most CHCs and 34 per cent Primary Health  Centres  (PHCs)  have  been  upgraded  and operationalised as 24 × 7 facilities and First Referral Units  (FRU)  have  doubled,  yet  the  commitment  of Eleventh Plan to make all public facilities meet IPHS norms, and to provide Emergency Obstetric Care at all CHCs have not been achieved. Access to safe abortion services is not available in all CHCs, a gap which is contributing to maternal mortality. Though Mobile Medical  Units  (MMUs)  have  been  deployed  in  449 districts  of  the  country,  their  outreach  medical  services are not adequate for the need.
 
 S. No. | Eleventh Plan Monitorable Target | Baseline Level | Recent Status
 --- | --- | --- | ---
-1 | Reducing Maternal Mortality Ratio (MMR) to 100 per 100000 live births. | 254 (SRS, 2004–06) | 212 (SRS, 2007–09)
+1 | Reducing Maternal Mortality Ratio (MMR) to 100 per 100000 live births. | 254 (SRS, 2004-06) | 212 (SRS, 2007-09)
 2 | Reducing Infant Mortality Rate (IMR) to 28 per 1000 live births. | 57 (SRS, 2006) | 44 (SRS, 2011)
 3 | Reducing Total Fertility Rate (TFR) to 2.1. | 2.8 (SRS, 2006) | 2.5 (SRS, 2010)
-4 | Reducing malnutrition among children of age group 0–3 to half its level. | 40.4 (NFHS, 2005–06) | No recent data available
-5 | Reducing anaemia among women and girls by 50%. | 55.3 (NFHS, 2005–06) | No recent data available
-6 | Raising the sex ratio for age group 0–6 to 935 | 927 (Census, 2001) | 914 (census, 2011)
+4 | Reducing malnutrition among children of age group 0-3 to half its level. | 40.4 (NFHS, 2005-06) | No recent data available
+5 | Reducing anaemia among women and girls by 50%. | 55.3 (NFHS, 2005-06) | No recent data available
+6 | Raising the sex ratio for age group 0-6 to 935 | 927 (Census, 2001) | 914 (census, 2011)
+
+TABLE 20.1 Eleventh Plan Monitorable Goals and Achievements
 
 [[END OF PAGE 22]]
 
@@ -949,10 +686,9 @@ S. No. | Eleventh Plan Monitorable Target | Baseline Level | Recent Status
 
 Health 5
 
-TABLE 20.2
-Allocation and Spending by Ministry of Health in Eleventh Plan
+TABLE 20.2 Allocation and Spending by Ministry of Health in Eleventh Plan
 
-(Figures in ₹ Crore)
+(Figures in ` Crore)
 
 Department | Eleventh Plan Allocation | Eleventh Plan release | Eleventh Plan Expenditure | % Expenditure to Release
 --- | --- | --- | --- | ---
@@ -965,35 +701,34 @@ Total | 1,40,135 | 93,981 | 89,576 | 95.3%
 
 Note: Outlay for the new departments of DHR and AIDS Control was transferred from Department of HFW.
 
-TABLE 20.3
-Funding for Health in Eleventh Plan: Core and Broad Health Components
+TABLE 20.3 Funding for Health in Eleventh Plan: Core and Broad Health Components
 
-(Figures in ₹ Crore)
+(Figures in ` Crore)
 
-Year | Centre Core Health | States Core Health | % GDP Core Health |  |  | % GDP (Broad Health) |  |
+Year | Centre Core Health | States Core Health | % GDP Core Health | % GDP (Broad Health)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
- |  |  | Centre | States | Total | Centre | States | Total
+Centre | States | Total | Centre | States | Total
 X Plan | 47,077 | 1,07,046 | 0.29% | 0.65% | 0.94% | 0.56% | 1.18% | 1.74%
-2007–08 | 16,055 | 30,536 | 0.32% | 0.61% | 0.93% | 0.71% | 1.17% | 1.89%
-2008–09 | 19,604 | 36,346 | 0.35% | 0.65% | 0.99% | 0.75% | 1.22% | 1.98%
-2009–10 | 25,652 | 44,748 | 0.40% | 0.69% | 1.09% | 0.78% | 1.24% | 2.02%
-2010–11 | 27,466 | 55,955 | 0.36% | 0.73% | 1.09% | 0.75% | 1.27% | 2.02%
-2011–12 | 30,587 | 62,343 | 0.34% | 0.70% | 1.04% | 0.74% | 1.19% | 1.94%
+2007-08 | 16,055 | 30,536 | 0.32% | 0.61% | 0.93% | 0.71% | 1.17% | 1.89%
+2008-09 | 19,604 | 36,346 | 0.35% | 0.65% | 0.99% | 0.75% | 1.22% | 1.98%
+2009-10 | 25,652 | 44,748 | 0.40% | 0.69% | 1.09% | 0.78% | 1.24% | 2.02%
+2010-11 | 27,466 | 55,955 | 0.36% | 0.73% | 1.09% | 0.75% | 1.27% | 2.02%
+2011-12 | 30,587 | 62,343 | 0.34% | 0.70% | 1.04% | 0.74% | 1.19% | 1.94%
 XI Plan | 1,19,364 | 2,29,928 | 0.35% | 0.68% | 1.04% | 0.75% | 1.22% | 1.97%
 
 Note: Core health includes health care expenditure of central ministries (MoHFW, Labour on RSBY and so on) on health; Broad health includes Drinking Water and Sanitation, Mid-Day Meal and ICDS (Plan and non-Plan).
 
 #### HEALTH PERSONNEL
 
-20.10. ASHAs positioned under NRHM have been successful in promoting awareness of obstetric and child care services in the community. Better training for ASHA and timely payment of incentive have come out as gaps in evaluations. Despite considerable improvement in health personnel in position (ANM 27 per cent, nurses 119 per cent, doctors 16 per cent, specialists 36 per cent, pharmacists 38 per cent), gap between staff in position and staff required at the end of the Plan was 52 per cent for ANM and nurses, 76 per cent for doctors, 88 per cent for specialists and 58 per cent for pharmacists. These shortages are attributed to delays in recruitment and to postings not being based on work-load or sanctions. Public health cadre as envisioned in the Eleventh Plan to manage NRHM is not yet in place. Similarly, lack of sound HR management policies results in irrational distribution of available human resource and sub-optimal motivation.
+20.10.  ASHAs  positioned  under  NRHM  have  been successful  in  promoting  awareness  of  obstetric  and child  care  services  in  the  community.  Better  training for ASHA and timely payment of incentive have come out as gaps in evaluations. Despite considerable improvement in health personnel in position (ANM 27 per cent, nurses 119 per cent, doctors 16 per cent, specialists 36 per cent, pharmacists 38 per cent), gap between staff in position and staff required at the end of the Plan was 52 per cent for ANM and nurses, 76 per cent for doctors, 88 per cent for specialists and 58  per  cent  for  pharmacists.  These  shortages  are attributed  to  delays  in  recruitment  and  to  postings not  being  based  on  work-load  or  sanctions.  Public health  cadre  as  envisioned  in  the  Eleventh  Plan  to manage NRHM is not yet in place. Similarly, lack of sound HR management policies results in irrational distribution  of  available  human  resource  and  suboptimal motivation.
 
 #### TRAINING CAPACITY
 
-20.11. Setting up of 6 AIIMS like institutes and up-gradation of 13 medical colleges has been taken up under Pradhan Mantri Swasthya Suraksha Yojana (PMSSY). Seventy-two State Government medical colleges have been taken up for strengthening to enhance their capacity for PG training. Huge gaps, however, remain in training capacity for all category of health personnel.
+20.11.  Setting up of 6 AIIMS like institutes and upgradation of 13 medical colleges has been taken up under  Pradhan  Mantri  Swasthya  Suraksha  Yojana (PMSSY).  Seventy-two State  Government  medical colleges have been taken up for strengthening to enhance their capacity for PG training. Huge gaps, however, remain in training capacity for all category of health personnel.
 
 #### COMMUNITY INVOLVEMENT
 
-20.12. Though Rogi Kalyan Samitis (RKS) are in position in most public facilities, monthly Village
+20.12.  Though  Rogi  Kalyan  Samitis  (RKS)  are  in position  in  most  public  facilities,  monthly  Village Health and Nutrition Days are held in most villages, Jan Sunwais (public hearings) and Common Review Missions have been held yet, their potential in terms of  empowering  communities,  improving  accountability and responsiveness of public health facilities is yet to be fully realised.
 
 [[END OF PAGE 23]]
 
@@ -1001,49 +736,51 @@ Note: Core health includes health care expenditure of central ministries (MoHFW,
 
 6 Twelfth Five Year Plan
 
-Health and Nutrition Days are held in most villages, Jan Sunwais (public hearings) and Common Review Missions have been held yet, their potential in terms of empowering communities, improving accountability and responsiveness of public health facilities is yet to be fully realised.
-
 #### SERVICE DELIVERY
 
-1. To reduce maternal and infant mortality, institutional deliveries are being promoted by providing cash assistance to pregnant women under Janani Suraksha Yojana (JSY). Though institutional deliveries have increased in rural (39.7 to 68 per cent) and urban areas (79 per cent to 85 per cent) over the 2005–09 period, low levels of full Ante-Natal care (22.8 in rural, and 26.1 in urban in 2009, CES) and quality of care are areas of concern.
+- To  reduce  maternal  and  infant  mortality,  institutional  deliveries  are  being  promoted  by  providing cash assistance to pregnant women under Janani  Suraksha  Yojana  (JSY).  Though  institutional deliveries have increased in rural (39.7 to 68 per cent) and urban areas (79 per cent to 85 per cent)  over  the  2005-09  period,  low  levels  of  full Ante-Natal care (22.8 in rural, and 26.1 in urban in 2009, CES) and quality of care are areas of concern.
 
-2. Full immunisation in children has improved from 54.5 per cent in 2005 (CES) to 61 per cent in 2009 (CES) during the Eleventh Plan. Additions to the Universal Immunization Program include Hepatitis B, Japanese Encephalitis (JE) vaccine in endemic districts, and Pentavalent vaccine, which is a combination vaccine against Diphtheria, Pertussis, Tetanus, Hepatitis B and Haemophilus influenza B. There has been no reported case of polio during 2011. Immunisation cover is far from universal as envisioned in Eleventh Plan, and remains particularly low in UP (41 per cent), MP (43 per cent), Bihar (49 per cent), Rajasthan (54 per cent), Gujarat (57 per cent) and Chhattisgarh (57 per cent), Assam (59 per cent) and Jharkhand (60 per cent). In contrast, some States like Goa (88 per cent), Sikkim (85 per cent), Punjab (84 per cent) and Kerala (82 per cent) have achieved high level of immunisation coverage. Home Based Neonatal Care (HBNC) through ASHAs has been promoted to improve new born care practices in the community and to enable early detection and referral. Continued high rates of child mortality suggest that the public health system has not been very effective in promoting healthy practices as breastfeeding, use of ORS and preventive and care seeking behaviours.
+- Full  immunisation  in  children  has  improved from  54.5  per  cent  in  2005  (CES)  to  61  per cent  in  2009  (CES)  during  the  Eleventh  Plan. Additions  to  the  Universal  Immunization  Program include Hepatitis B, Japanese Encephalitis (JE) vaccine in endemic districts, and Pentavalent  vaccine,  which  is  a  combination  vaccine against Diphtheria, Pertussis, Tetanus, Hepatitis B and Haemophilus influenza B. There has been no reported case of polio during 2011. Immunisation cover is far from universal as envisioned in  Eleventh  Plan,  and  remains  particularly  low in  UP  (41  per  cent),  MP  (43  per  cent),  Bihar (49  per  cent),  Rajasthan  (54  per  cent),  Gujarat (57  per  cent)  and  Chhattisgarh  (57  per  cent), Assam  (59  per  cent)  and  Jharkhand  (60  per cent). In contrast, some States like Goa (88 per cent), Sikkim (85 per cent), Punjab (84 per cent) and  Kerala  (82  per  cent)  have  achieved  high level  of  immunisation  coverage.  Home  Based Neonatal  Care  (HBNC)  through  ASHAs  has been promoted to improve new born care practices in the community and to enable early detection and referral. Continued high rates of child mortality  suggest  that  the  public  health  system has not been very effective in promoting healthy practices as breastfeeding, use of ORS and preventive and care seeking behaviours.
 
-3. Despite improvements in infrastructure, and personnel deployed, evaluation has reported that utilisation of public facilities for chronic disease remains low in UP (45 per cent), MP (63 per cent) and Jharkhand (70 per cent) as compared to Tamil Nadu (94 per cent) reflecting poor quality of service.
+- Despite  improvements  in  infrastructure,  and personnel deployed, evaluation has reported that
 
-4. To reduce fertility, increasing age of marriage, spacing of births, access to a basket of contraceptive services are some of the possible innovations that need to be tried.
+- utilisation of public facilities for chronic disease remains  low  in  UP  (45  per  cent),  MP  (63  per cent) and Jharkhand (70 per cent) as compared to  Tamil  Nadu  (94  per  cent)  reflecting  poor quality of service.
 
-5. The Eleventh Plan commitment of providing access to essential drugs at public facilities has not been realised. This reflects in continued high out-of-pocket expenditure on health care, as suggested by some local surveys.
+- To  reduce  fertility,  increasing  age  of  marriage, spacing of births, access to a basket of contraceptive services are some of the possible innovations that need to be tried.
+
+- The  Eleventh  Plan  commitment  of  providing access  to  essential  drugs  at  public  facilities  has not been realised. This reflects in continued high out-of-pocket  expenditure  on  health  care,  as suggested by some local surveys.
 
 #### GOVERNANCE OF PUBLIC HEALTH SYSTEM
 
-20.13. The Eleventh Plan had suggested Governance reforms in public health system, such as performance linked incentives, devolution of powers and functions to local health care institutions and making them responsible for the health of the people living in a defined geographical area. NRHM’s strategy of decentralisation, PRI involvement, integration of vertical programmes, inter-sectoral convergence and Health Systems Strengthening have been partially achieved. Despite efforts, lack of capacity and adequate flexibility in programmes forestall effective local level planning and execution based on local disease priorities. Professional procurement agencies on the lines of Tamil Nadu are still not in place at the Centre and most States making the process fragmented, with little forecasting or use of the power of monopsony. Wide variation in the performance of health facilities across states have been reported with Tamil Nadu topping and UP and MP at the bottom, pointing to the need for learning from best practices within the country through state level initiatives.
+20.13.  The Eleventh Plan had suggested Governance reforms  in  public  health  system,  such  as  performance linked incentives, devolution of powers and functions to local health care institutions and making them responsible for the health of the people living in a defined geographical area. NRHM's strategy of  decentralisation,  PRI  involvement,  integration of  vertical  programmes,  inter-sectoral  convergence and  Health  Systems  Strengthening  have  been  partially  achieved. Despite efforts, lack of capacity and adequate flexibility in programmes forestall effective local level planning and execution based on local disease  priorities.  Professional  procurement  agencies on the lines of Tamil Nadu are still not in place at the Centre and most States making the process fragmented, with little forecasting or use of the power of monopsony. Wide variation  in  the  performance  of health facilities across states have been reported with Tamil Nadu topping and UP and MP at the bottom, pointing to the need for learning from best practices within the country through state level initiatives.
 
 #### DISEASE CONTROL PROGRAMMES
 
-1. National Vector Borne Disease Control Programme encourages states to take measures, as disease management, integrated vector management and supportive interventions like behaviour change communication, for the prevention and control of diseases like Malaria, Dengue, Chikungunya, Japanese Encephalitis (JE), Lymphatic Filariasis and Kala-azar. India bears
+- National  Vector  Borne  Disease  Control  Programme encourages states to take measures, as disease management, integrated vector management  and  supportive  interventions  like  behaviour change communication, for the prevention and  control  of  diseases  like  Malaria,  Dengue, Chikungunya, Japanese Encephalitis (JE), Lymphatic Filariasis  and  Kala-azar.  India  bears
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Health 7
+Health
 
-a high proportion of the global burden of TB (21 per cent), leprosy (56 per cent) and lymphatic filariasis (40 per cent). Though there has been progress in the Eleventh Plan in reducing rate of new infections, case load and death from these diseases, a robust surveillance system at the community level is lacking and considerable hidden and residual disease burden remains. Multi-drug resistance to TB is being increasingly recognised. Gaps in infectious disease control programmes relate to testing services in all PHCs, active engagement with private providers, prescribing standard treatment, restricting over-the-counter sale of anti TB drugs, and timely referral through a continuum of care.
+7
 
-2. Among the NCDs, Cardiovascular Diseases (CVD) account for 24 per cent of mortality followed by Respiratory Disease, and malignant cancers. During the Eleventh Five Year Plan National Programme for the Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS) was initiated in 100 selected districts in 21 states. So far, 87 lakh people have been screened for diabetes and hypertension, out of which 6.5 per cent are suspected to be diabetic and 7.7 per cent are suspected to be suffering from hypertension. Despite enhanced allocations for the National Mental Health Programme, it has lagged behind due to non-availability of qualified mental health professionals at district and sub-district levels. Training of non-physician mental health professionals and implementation of community based mental health programmes are needed to reduce the rising burden of mental health disorders. NCD programmes need to be integrated within NRHM to provide preventive, testing, care and referral services.
+a  high  proportion  of  the  global  burden  of  TB (21  per  cent),  leprosy  (56  per  cent)  and  lymphatic filariasis (40 per cent). Though there has been progress in the Eleventh Plan in reducing rate of new infections, case load and death from these  diseases,  a  robust  surveillance  system  at the community level is lacking and considerable hidden  and  residual  disease  burden  remains. Multi-drug  resistance  to  TB  is  being  increasingly recognised. Gaps in infectious disease control  programmes relate to testing services in all PHCs, active engagement with private providers, prescribing standard treatment, restricting overthe-counter  sale  of  anti  TB  drugs,  and  timely referral through a continuum of care.
+
+- Among  the NCDs, Cardiovascular Diseases (CVD) account for 24 per cent of mortality followed  by  Respiratory  Disease,  and  malignant cancers.  During  the  Eleventh  Five  Year  Plan National  Programme  for  the  Prevention  and Control of Cancer, Diabetes, Cardiovascular Diseases  and  Stroke  (NPCDCS)  was  initiated in  100  selected  districts  in  21  states.  So  far,  87 lakh  people  have  been  screened  for  diabetes and hypertension, out of which 6.5 per cent are suspected  to  be  diabetic  and  7.7  per  cent  are suspected  to  be  suffering  from  hypertension. Despite  enhanced  allocations  for  the  National Mental Health Programme, it has lagged behind due to non-availability of qualified mental health professionals  at  district  and  sub-district  levels. Training of non-physician mental health professionals and implementation of community based mental health programmes are needed to reduce the  rising  burden  of  mental  health  disorders. NCD programmes need to be integrated within NRHM to provide preventive, testing, care and referral services.
 
 #### REGULATION
 
-20.14. The Food Safety and Standards Act (FSSA), 2006 came into force from 5.8.2011 and replaced multiple food laws, standard setting bodies and enforcement agencies with one integrated food law. The Government of India has enacted the Clinical Establishments (Registration and Regulation) Act, 2010 for Registration and Regulation of Clinical Establishments. The Government of India has notified important amendments in rules under the Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994, including amendment to Rule 11 (2) of the PC and PNDT Rules, 1996 to provide for confiscation of unregistered machines and regulating the use of portable ultrasound equipment and services offered by mobile clinics. The Transplantation of Human Organs Act, 1994 has been amended to make the process of organ donation and reception more streamlined and malpractice free. Quality and reach of regulation are major issues.
+20.14.  The  Food  Safety  and  Standards  Act  (FSSA), 2006  came  into  force  from  5.8.2011  and  replaced multiple  food  laws,  standard  setting  bodies  and enforcement agencies with one integrated food law. The  Government  of  India  has  enacted  the  Clinical Establishments  (Registration  and  Regulation)  Act, 2010  for  Registration  and  Regulation  of  Clinical Establishments. The Government of India has notified important amendments in rules under the PreConception  and  Pre-Natal  Diagnostic  Techniques (Prohibition  of  Sex  Selection)  Act,  1994,  including amendment  to  Rule  11  (2)  of  the  PC  and  PNDT Rules,  1996  to  provide  for  confiscation  of  unregistered  machines  and  regulating  the  use  of  portable ultrasound equipment and services offered by mobile clinics. The Transplantation of Human Organs Act, 1994 has been amended to make the process of organ donation and reception more streamlined and malpractice  free.  Quality  and  reach  of  regulation  are major issues.
 
 #### HMIS
 
-20.15. During the Eleventh Plan, a web based Health Management Information System (HMIS) application software has been developed and made operational for online data capture at district and sub-district levels on RCH service delivery indicators. The data captured is scanty, restricted to public facilities and is not always used for programme planning or monitoring.
+20.15.  During the Eleventh Plan, a web based Health  Management  Information  System  (HMIS) application  software  has  been  developed  and  made operational  for  online  data  capture  at  district  and sub-district  levels  on  RCH  service  delivery  indicators. The data captured is scanty, restricted to public facilities and is not always used for programme planning or monitoring.
 
 #### AIDS CONTROL
 
-20.16. Against a target to halt and reverse the HIV/AIDS epidemic in India, there has been a reduction of new HIV infections in the country by 57 per cent. Still, an estimated 20.9 lakh people were living with HIV/AIDS (PLHA) in 2011. The programme includes Targeted Interventions focused on High Risk Groups and Bridge populations, Link Workers Scheme, Integrated Counselling and Testing Services, Community Care, Support and Treatment Centres, Information, Education, and Communication (IEC) and condom promotion. Gaps in the programme include low rate of coverage of Anti-Retroviral Therapy among infected adults and children, low levels of opioid substitution therapy among injection drug users (3 per cent), testing of pregnant women for HIV and Syphilis (23 per cent) and low Anti-Retroviral coverage for preventing mother to child transmission. There is scope for greater integration with NRHM to avoid duplication of efforts, as in reaching non-high risk groups and distribution of condoms.
+20.16.  Against a target to halt and reverse the HIV/ AIDS  epidemic  in  India,  there  has  been  a  reduction  of  new  HIV  infections  in  the  country  by  57 per  cent.  Still,  an  estimated  20.9  lakh  people  were living  with  HIV/AIDS  (PLHA)  in  2011.  The  programme  includes  Targeted  Interventions  focused on High Risk Groups  and Bridge populations, Link  Workers  Scheme,  Integrated  Counselling  and Testing  Services,  Community  Care,  Support  and Treatment  Centres,  Information,  Education,  and Communication  (IEC)  and condom  promotion. Gaps in the programme include low rate of coverage of  Anti-Retroviral  Therapy  among  infected  adults and children, low levels of opioid substitution therapy among injection drug users (3 per cent), testing of  pregnant  women  for  HIV  and  Syphilis  (23  per cent) and low Anti-Retroviral coverage for preventing mother to child transmission. There is scope for greater integration with NRHM to avoid duplication of  efforts,  as  in  reaching  non-high  risk  groups  and distribution of condoms.
 
 [[END OF PAGE 25]]
 
@@ -1059,7 +796,7 @@ Twelfth Five Year Plan
 
 #### HEALTH RESEARCH
 
-20.18.  The  newly  established  department  of  Health Research,  and  Indian  Council  of  Medical  Research (ICMR) have piloted several innovations, including an on-line Clinical  Trials  Registry,  Uniform  Multi-drug  Therapy  Regimen  (UMDT)  for  Leprosy,  and lymphatic filariasis, kits for  improved  diagnosis of  malaria,  dengue  fever,  TB  (including  drug  resistant),  cholera,  Chlamydia  infection.  Leptospirosis; and development of indigenous H1N1 vaccine. Yet, health  research  in  India  has  yet  to  make  a  major impact on the health challenges facing the country. The reasons are that ICMR has focused on biomedical  research,  especially  in  communicable  diseases, while  gaps  in  health  attainments  are  largely  due  to behavioural factors, inadequate attention to prevention and fragile health systems.
+20.18.  The  newly  established  department  of  Health Research,  and  Indian  Council  of  Medical  Research (ICMR) have piloted several innovations, including an on-line Clinical  Trials  Registry,  Uniform  Multidrug  Therapy  Regimen  (UMDT)  for  Leprosy,  and lymphatic filariasis, kits for  improved  diagnosis of  malaria,  dengue  fever,  TB  (including  drug  resistant),  cholera,  Chlamydia  infection.  Leptospirosis; and development of indigenous H1N1 vaccine. Yet, health  research  in  India  has  yet  to  make  a  major impact on the health challenges facing the country. The reasons are that ICMR has focused on biomedical  research,  especially  in  communicable  diseases, while  gaps  in  health  attainments  are  largely  due  to behavioural factors, inadequate attention to prevention and fragile health systems.
 
 ### TWELFTH PLAN STRATEGY
 
@@ -1079,7 +816,7 @@ Health
 
 9
 
-the overall targets for public sector health expenditure  can  only  be  achieved  if,  along  with  the Centre, State Governments expand their health budgets  appropriately.  A  suitable  mechanism should  therefore  be  designed  to  incentivise  an increase in State Government spending.
+- the overall targets for public sector health expenditure  can  only  be  achieved  if,  along  with  the Centre, State Governments expand their health budgets  appropriately.  A  suitable  mechanism should  therefore  be  designed  to  incentivise  an increase in State Government spending.
 
 - Financial  and  managerial  systems  will  be  redesigned  to  ensure  more  efficient  utilisation  of available resources, and to achieve better health outcomes. Coordinated delivery of services within  and  across  sectors,  delegation  matched with  accountability,  fostering  a  spirit  of  innovation  are  some  of  the  measures  proposed  to ensure  that  'more  can  be  done  from  less  for more' for better health outcomes.
 
@@ -1089,7 +826,7 @@ the overall targets for public sector health expenditure  can  only  be  achieve
 
 - Availability of skilled human resources remains a  key  constraint  in  expanding  health  service delivery. A mere expansion of financial resources
 
-devoted to health will not deliver results if health personnel  are  not  available.  A  large  expansion of medical schools, nursing colleges, and so on, is therefore necessary and public sector medical schools  must  play  a  major  role  in  the  process. Since the present distribution of such colleges is geographically very uneven, a special effort will be made to expand medical education in States which are at present under-served. In addition, a  massive  effort  will  be  made  to  recruit  and train  paramedical  and  community  level  health workers.
+- devoted to health will not deliver results if health personnel  are  not  available.  A  large  expansion of medical schools, nursing colleges, and so on, is therefore necessary and public sector medical schools  must  play  a  major  role  in  the  process. Since the present distribution of such colleges is geographically very uneven, a special effort will be made to expand medical education in States which are at present under-served. In addition, a  massive  effort  will  be  made  to  recruit  and train  paramedical  and  community  level  health workers.
 
 - An  important lesson from the Eleventh Plan is that the multiplicity of Central Sector and Centrally Sponsored Schemes addressing individual diseases,  or  funding  activities  or  institutions, prevents a holistic health-systems-approach, leads to duplication and redundancies, and makes coordinated delivery difficult. This multiplicity also constrains the flexibility of States to make need based plans or deploy their resources in  the  most  efficient  manner.  As  a  result,  new programmes cannot take off and old ones do not reach  their  maximum  potential.  The  way  forward is to focus on strengthening the pillars of the health system, so that it can prevent, detect and manage each of the unique challenges that different parts of the country face.
 
@@ -1129,7 +866,7 @@ system  would  supervise  the  quality  of  services delivered. Standard treatme
 
 20.28.  The  High  Level  Expert  Group  has  defined UHC  as  follows:  'Ensuring  equitable  access  for  all Indian citizens in any part of the country, regardless of income level, social status, gender, caste or religion, to  affordable,  accountable  and  appropriate,  assured quality health services (promotive, preventive, curative and rehabilitative) as well as services addressing wider  determinants  of  health  delivered  to  individuals and populations, with the Government being the guarantor and enabler, although not necessarily the only provider of health and related services.'
 
-20.29.  This definition affirms that the system must be available for all who want it, though some, typically the  upper  income groups, may opt out. For operational purposes, it is necessary to define with greater precision, the coverage of assured services, especially in terms of entitlement for in-patient treatment and to define the specific mechanism through which the service will be delivered. The extent of the coverage offered in terms of the range of treatments covered will  obviously  be  constrained  by  finances  available, though it can be expected to expand over time. The HLEG  has  recommended  the  prioritisation  of  primary health  care,  while  ensuring  that  the  Essential Health Package (EHP) includes essential services at all levels of care.
+20.29.  This definition affirms that the system must be available for all who want it, though some, typically
 
 [[END OF PAGE 28]]
 
@@ -1138,6 +875,8 @@ system  would  supervise  the  quality  of  services delivered. Standard treatme
 Health
 
 11
+
+the upper income groups, may opt out. For operational purposes, it is necessary to define with greater precision, the coverage of assured services, especially in terms of entitlement for in-patient treatment and to define the specific mechanism through which the service will be delivered. The extent of the coverage offered in terms of the range of treatments covered will obviously be constrained by finances available, though it can be expected to expand over time. The HLEG has recommended the prioritisation of primary health care, while ensuring that the Essential Health Package (EHP) includes essential services at all levels of care.
 
 20.30.  The  HLEG  has  examined  different  ways  in which  UHC  could  be  delivered  without  any  cash payment  by  the  beneficiaries.  At  one  end,  we  can have a purely public delivery of services from public sector service providers using private sector only to supplement  critical  gaps,  and  whose  costs  are  covered  by  budgetary  funds.  At  the  other  end,  we  can have a system where defined services are delivered by service providers charging a fee for service, with payment to the providers  being  made  by  State  funded medical insurance, with no payment to be made by the patient. The HLEG has also recommended: 'State governments  should  consider  experimenting  with arrangements where the state and district purchase care  from  an  integrated  network  of  combined  primary,  secondary  and  tertiary  care  providers.  These provider  networks  should  be  regulated  by  the  government  so  that  they  meet  the  rules  and  requirements for delivering cost effective, accountable and quality  health  care.  Such  an  integrated  provider entity  should  receive  funds  to  achieve  negotiated predetermined  health  outcomes  for  the  population being covered. This entity would bear financial risks and  rewards  and  be  required  to  deliver  on  health care  and  wellness  objectives.  Ideally,  the  strengthened  District  Hospital  should  be  the  leader  of  this provider network' (Recommendation 3.1.10).
 
@@ -1153,11 +892,11 @@ Health
 
 ###### New Zealand
 
-20.34. National  Health  Service is  publicly  financed through general tax revenue. Outpatient services are provided through private providers. Secondary and Tertiary care services are mostly provided by public, some private  providers.  Primary  care  payment  is  a mix of 'Capitation' and 'Fee for Service'. In-patient service payment is through global budget and case-based payment, which includes physician's cost.
+20.34. National Health Service is publicly financed through general tax revenue. Outpatient services are provided through private providers. Secondary and Tertiary care services are mostly provided by public, some private providers. Primary care payment is a mix of 'Capitation' and 'Fee for Service'. In-patient service payment is through global budget and case-based payment, which includes physician's cost.
 
 ###### Germany
 
-20.35. Statutory  Health  Insurance is  funded  by  180 'sickness  funds'.  Outpatient  services  are  provided through  private  providers.  Secondary  and  Tertiary care  services  are  provided  by  public  (50  per  cent), private  non-profit  (33  per  cent)  and  private  for-profit  (17  per  cent)  providers.  Primary  care  payment is 'Fee for Service'. In-patient service payment is  through  global  budget  and  case-based  payment, which includes physician's cost.
+20.35. Statutory Health Insurance is funded by 180 'sickness funds'. Outpatient services are provided through private providers. Secondary and Tertiary care services are provided by public (50 per cent), private non-profit (33 per cent) and private for-profit (17 per cent) providers. Primary care payment is 'Fee for Service'. In-patient service payment is through global budget and case-based payment, which includes physician's cost.
 
 [[END OF PAGE 29]]
 
@@ -1169,7 +908,7 @@ Twelfth Five Year Plan
 
 Box 20.1 Recommendations of High Level Expert Group on Universal Health Coverage
 
-- Health Financing and Financial Protection : Government should increase public expenditure on health from the current level of 1.2 per cent of GDP to at least 2.5 per cent by the end of the Twelfth Plan, and to at least 3 per cent of GDP by 2022. General taxation should be used as the principal source of healthcare financing, not levying sector specific taxes. Specific purpose transfers should be introduced to equalise the levels of per capita public spending on health across different states.  Expenditures on primary healthcare should account for at least 70 per cent of all healthcare expenditure. The technical and other capacities developed by the Ministry of Labour for the RSBY should be leveraged as the core of UHC operations-and transferred to the Ministry of Health and Family Welfare.
+- Health Financing and Financial Protection : Government should increase public expenditure on health from the current level of 1.2 per cent of GDP to at least 2.5 per cent by the end of the Twelfth Plan, and to at least 3 per cent of GDP by 2022. General taxation should be used as the principal source of healthcare financing, not levying sector specific taxes. Specific purpose transfers should be introduced to equalise the levels of per capita public spending on health across different states. Expenditures on primary healthcare should account for at least 70 per cent of all healthcare expenditure. The technical and other capacities developed by the Ministry of Labour for the RSBY should be leveraged as the core of UHC operations—and transferred to the Ministry of Health and Family Welfare.
 
 - Access to Medicines, Vaccines and Technology : Price controls and price regulation, especially on essential drugs, should be enforced. The Essential Drugs List should be revised and expanded, and rational use of drugs ensured. Public sector should be strengthened to protect the capacity of domestic drug and vaccines industry to meet national needs. Safeguards provided by Indian patents law and the TRIPS Agreement against the country's ability to produce essential drugs should be protected. MoHFW should be empowered to strengthen the drug regulatory system.
 
@@ -1193,7 +932,7 @@ Box 20.1 Recommendations of High Level Expert Group on Universal Health Coverage
 
 ###### Sri Lanka
 
-20.38. Universal  Health  Coverage  Scheme is tax-financed and Government operated. Outpatient services are provided through public providers. Secondary  and  Tertiary  care  services  are  provided by both public and private providers. Primary care payment is by Fee for Service. In-patient service payment is through Fee for Service for Public Hospital and Capitation for Private Hospitals.
+20.38. Universal Health Coverage Scheme is tax-financed and Government operated. Outpatient services are provided through public providers. Secondary and Tertiary care services are provided by both public and private providers. Primary care payment is by Fee for Service. In-patient service payment is through Fee for Service for Public Hospital and Capitation for Private Hospitals.
 
 [[END OF PAGE 30]]
 
@@ -1215,11 +954,11 @@ Health
 
 - How  to  combine  public  and  private  providers effectively  for  meeting UHC goals in a manner that avoids perverse incentives, reduces provider induced demand, and that meets the key objectives specified above?
 
-- How to integrate different types and levels of services—public health and clinical; preventive and promotive  interventions  along  with  primary, secondary,  and  tertiary  clinical  care—so  that continuum  of  care  is  assured?  Inadequate  prevention and inappropriate utilisation of secondary  or  tertiary  care,  when  primary  care  should suffice, would result in much higher cost of care.
+- How to integrate different types and levels of services—public health and clinical; preventive and promotive interventions along with primary, secondary, and tertiary clinical care—so that continuum of care is assured? Inadequate prevention and inappropriate utilisation of secondary or tertiary care, when primary care should suffice, would result in much higher cost of care.
 
 20.43.  Global evidence from different countries' experiences  gives  us  some  pointers  to  answering these questions:
 
-- A mix of public and private services is the reality of most countries. In order to make this mix work,  a  strong  regulatory  framework  is  essential to ensure that the UHC programme is most effective in controlling cost, reducing provider-induced demand, and ensuring quality.
+- A mix of public and private services is the reality of most countries. In order to make this mix work, a strong regulatory framework is essential to ensure that the UHC programme is most effective in controlling cost, reducing provider-induced demand, and ensuring quality.
 
 - Provider  payment  mechanisms,  in  themselves, are  not  magic  bullets,  and  there  are  limits  to what  they  can  do.  Capitation-based  networks can  reduce  disincentives  to  continuity  of  care, but by themselves, they will not guarantee it. For this, there have to be, in addition, improvements in  service  delivery,  improvements  in  human resources  and  related  regulatory  development and enforcement.
 
@@ -1239,7 +978,7 @@ through the public health system, supplemented by contracted-in  private  provid
 
 20.46. Roadmap :  The  present  health  care  delivery system  needs  reform  to  ensure  better  utilisation  of resources and health outcomes. The building blocks of the reform in the Twelfth Plan would be as follows. Health Services will be delivered with seamless integration  between  Primary,  Secondary  and  Tertiary sectors.  The  Primary  Health  Care  will  be  strengthened  to  deliver  both  preventive,  public  health  and curative,  clinical  services.  Publicly  funded  health care  would  predominantly  be  delivered  by  public providers. The primary health care providers within the  network  will  act  as  the  gateway  to  secondary and  tertiary  care  facilities  in  the  network.  Private sector will be contracted in only for critical gap filling. In  areas  where  both  public  and  private  contracted in providers co-exist, patients shall have a choice in selecting their provider. Networks of such integrated facilities at different levels will be encouraged to provide a continuum of care, universally accessible and affordable services with the District Hospital as the nodal point. No fee of any kind would be levied on primary health care services with the primary source of financing being from  general taxation/public exchequer. Details of the roadmap shall be worked out by the States through UHC pilots after considering global experience and current local structures.
 
-20.47. UHC Models :  Various  options  for  financing and  organisation  of  delivery  of  services  need  to  be carefully explored. Cashless delivery of an Essential Health  Package  (EHP)  to  all  ought  to  be  the  basic deliverable in all models. Since out-patient care and medicines  are  major  elements  of  household's  out-of-pocket  and  catastrophic  expenditure  on  health,
+20.47. UHC Models : Various options for financing and organisation of delivery of services need to be carefully explored. Cashless delivery of an Essential Health Package (EHP) to all ought to be the basic deliverable in all models. Since out-patient care and medicines are major elements of household's out-of-pocket and catastrophic expenditure on health,
 
 Box 20.2 Illustrative List of Preventive and Public Health Interventions Funded and Provided by Government
 
@@ -1291,13 +1030,13 @@ Health
 
 ambulatory EHP would be a priority and every UHC model would include systems for full and free access to essential generic medicines, through linkages with Government pharmacies (for public providers) and Jan Aushadhi outlets (for all). Since the frequency of use of services, nature of service delivery and cost of services  are  fundamentally  different  for  out-patient (ambulatory) and in-patient care, and to obviate the possibility  of  substitution  of  primary  care  by  secondary  and  tertiary  care,  cost  of  ambulatory  care would need to be earmarked in each UHC pilot. An effective  health  information  network  that  could  be accessed  by  all  service  providers  and  patients  (for their  own  records)  would  enable  the  continuum  of care. All models could learn from the platform developed by RSBY in terms of beneficiary coverage, facility enrolment and prevention of fraud.
 
-20.48.  States may be encouraged and partially funded  to  run  at  least  one,  but  up  to  three  UHC pilots in districts through the 'Incentive Pool' under NHM.  Individual  States,  in  consultation  with  the MoHFW, expert groups and institutions may finalise the details of the pilot models before roll out. The pilots  could  explore  different  models  for  providing  universal  access  to  an  EHP,  including  those  by using  public  facilities  in  that  area  after  being  suitably strengthened, empowered and networked, and a combination of public and private facility networks. The pilot models must demonstrate the comparative advantages and costs of different approaches to UHC that  would  be  appropriate  for  the  level  of  development and the socio economic context of that state. Medical  colleges  can  be  asked  to  devise  rigorous evaluation designs for testing the cost-effectiveness, patient's satisfaction and change in household's out-of-pocket expenses.
+20.48.  States may be encouraged and partially funded to run at least one, but up to three UHC pilots in districts through the 'Incentive Pool' under NHM. Individual States, in consultation with the MoHFW, expert groups and institutions may finalise the details of the pilot models before roll out. The pilots could explore different models for providing universal access to an EHP, including those by using public facilities in that area after being suitably strengthened, empowered and networked, and a combination of public and private facility networks. The pilot models must demonstrate the comparative advantages and costs of different approaches to UHC that would be appropriate for the level of development and the socio economic context of that state. Medical colleges can be asked to devise rigorous evaluation designs for testing the cost-effectiveness, patient's satisfaction and change in household's out-of-pocket expenses.
 
 20.49.  However,  before  rolling  out  UHC  on  pilot mode, preparations for the following items need to be initiated:
 
 - Frame a national, core Essential Health Package for  out-patient  and  in-patient  care  for  uniform adoption  in  pilots.  It  is  possible  to  expand  the package  of  services  under  RSBY  into  an  EHP, with the vision of replacing an insurance based
 
-system  with  a  tax  funded  UHC  system,  over  a period of time.
+- system  with  a  tax  funded  UHC  system,  over  a period of time.
 
 - The State Health Society should be empowered with requisite resources and its capacity built to administer the coverage.
 
@@ -1334,44 +1073,45 @@ system  with  a  tax  funded  UHC  system,  over  a period of time.
 TABLE 20.4
 State-Wise Targets on IMR and MMR in Twelfth Plan
 
-Sl. No. | Name of the States/UTs | Recent Status: IMR | Recent Status: MMR | Recent Status: Anaemia | Target for Twelfth Plan: IMR | Target for Twelfth Plan: MMR | Target for Twelfth Plan: Anaemia
+Sl. No | Name of the States/UTs | Recent Status |  |  | Target for Twelfth Plan |  | 
 --- | --- | --- | --- | --- | --- | --- | ---
+ |  | IMR | MMR | Anaemia | IMR | MMR | Anaemia
  | India | 44 | 212 | 55.3 | 25 | 100 | 28
 1 | Andhra Pradesh | 43 | 134 | 62.9 | 25 | 61 | 31
-2 | Arunachal Pradesh | 32 | NA | 50.6 | 19 | – | 25
+2 | Arunachal Pradesh | 32 | NA | 50.6 | 19 | - | 25
 3 | Assam | 55 | 390 | 69.5 | 32 | 177 | 35
 4 | Bihar | 44 | 261 | 67.4 | 26 | 119 | 34
 5 | Chhattisgarh | 48 | 269 | 57.5 | 28 | 122 | 28
-6 | Goa | 11 | NA | 38 | 6 | – | 19
+6 | Goa | 11 | NA | 38 | 6 | - | 19
 7 | Gujarat | 41 | 148 | 55.3 | 24 | 67 | 28
 8 | Haryana | 44 | 153 | 56.1 | 26 | 65 | 28
-9 | Himachal Pradesh | 38 | NA | 43.3 | 22 | – | 22
-10 | Jammu & Kashmir | 41 | NA | 52.1 | 24 | – | 26
+9 | Himachal Pradesh | 38 | NA | 43.3 | 22 | - | 22
+10 | Jammu & Kashmir | 41 | NA | 52.1 | 24 | - | 26
 11 | Jharkhand | 39 | 261 | 69.5 | 23 | 109 | 35
 12 | Karnataka | 35 | 178 | 51.5 | 15 | 80 | 26
 13 | Kerala | 12 | 81 | 32.8 | 6 | 37 | 16
 14 | Madhya Pradesh | 59 | 269 | 56 | 34 | 122 | 28
-15 | Manipur | 11 | NA | 35.7 | 6 | – | 18
+15 | Manipur | 11 | NA | 35.7 | 6 | - | 18
 16 | Maharashtra | 25 | 104 | 48.4 | 15 | 47 | 24
-17 | Meghalaya | 52 | NA | 47.2 | 30 | – | 24
-18 | Mizoram | 34 | NA | 38.6 | 20 | – | 19
-19 | Nagaland | 21 | NA | NA | 12 | – | –
+17 | Meghalaya | 52 | NA | 47.2 | 30 | - | 24
+18 | Mizoram | 34 | NA | 38.6 | 20 | - | 19
+19 | Nagaland | 21 | NA | NA | 12 | - | -
 20 | Odisha | 57 | 258 | 61.2 | 33 | 117 | 31
 21 | Punjab | 30 | 172 | 38 | 16 | 78 | 19
 22 | Rajasthan | 52 | 318 | 53.1 | 30 | 145 | 27
-23 | Sikkim | 26 | NA | 60 | 15 | – | 28
+23 | Sikkim | 26 | NA | 60 | 15 | - | 28
 24 | Tamil Nadu | 22 | 97 | 53.2 | 13 | 44 | 27
-25 | Tripura | 29 | NA | 65.1 | 17 | – | 33
+25 | Tripura | 29 | NA | 65.1 | 17 | - | 33
 26 | Uttar Pradesh | 57 | 359 | 49.9 | 32 | 163 | 20
 27 | Uttarakhand | 36 | 359 | 55.2 | 21 | 163 | 28
 28 | West Bengal | 32 | 145 | 63.2 | 11 | 66 | 32
-29 | Andaman & Nicobar Islands | 23 | NA | NA | 12 | – | –
-30 | Delhi | 28 | NA | 44.3 | 15 | – | 22
-31 | Chandigarh | 20 | NA | NA | 12 | – | –
-32 | Dadra & Nagar Haveli | 35 | NA | NA | 20 | – | –
-33 | Daman & Diu | 22 | NA | NA | 13 | – | –
-34 | Lakshadweep | 24 | NA | NA | 14 | – | –
-35 | Puducherry | 19 | NA | NA | 11 | – | –
+29 | Andaman & Nicobar Islands | 23 | NA | NA | 12 | - | -
+30 | Delhi | 28 | NA | 44.3 | 15 | - | 22
+31 | Chandigarh | 20 | NA | NA | 12 | - | -
+32 | Dadra & Nagar Haveli | 35 | NA | NA | 20 | - | -
+33 | Daman & Diu | 22 | NA | NA | 13 | - | -
+34 | Lakshadweep | 24 | NA | NA | 14 | - | -
+35 | Puducherry | 19 | NA | NA | 11 | - | -
 
 Note: States which have opted for targets more ambitious than on pro-rate basis are coloured maroon.
 
@@ -1393,7 +1133,7 @@ of 139 by 2015 and 123 by 2017. An achievement of the Millennium Development Goa
 
 - Prevention and reduction of burden of Communicable and Non-Communicable diseases (including mental illnesses) and injuries : State wise and national  targets  for  each  of  these  conditions will be set by the Ministry of Health and Family Welfare (MoHFW) as robust systems are put in
 
-place to measure their burden. Broadly, the goals of  communicable  diseases  shall  be  as  indicated in Table 20.5.
+- place to measure their burden. Broadly, the goals of  communicable  diseases  shall  be  as  indicated in Table 20.5.
 
 - Reduction of poor households' out-of-pocket expenditure : Out-of-pocket expenditure on health  care  is  a  burden  on  poor  families,  leads to impoverishment and is a regressive system of financing. Increase in public health spending to 1.87 per cent of GDP by the end of the Twelfth Plan,  cost-free  access  to  essential  medicines  in public  facilities,  regulatory  measures  proposed in the Twelfth Plan are likely to lead to increase in  share  of  public  spending.  The  Twelfth  Plan measures will also aim to reduce out-of-pocket spending as a proportion of private spending on health.
 
@@ -1440,7 +1180,7 @@ Total MoHFW | 89,576 | 3,00,018 | 335%
 
 of the health budget can lead to reduced consumption of these harmful items (as tobacco and alcohol) and could be considered.
 
-20.52.  For  financing  the  Twelfth  Plan  the  projections  envisage  increasing  total  public  funding,  plan and  non-plan,  on  core  health  from  1.04  per  cent of GDP in 2011–12 to 1.87 per cent of GDP by the end of the Twelfth Plan. In such an event, the funding in the Central Plan would increase to 3 times the Eleventh Plan levels involving an annual increase by 34  per  cent  (Table  20.6).  With  the  incentive  measures proposed, States' total funding, Plan and Non-plan, on Health is expected to increase to three times the  Eleventh  Plan  levels  involving  a  similar  annual increase. The Central and State funding for Health, as  a  proportion  of  total  public  sector  health  funding will remain at 2011–12 levels of 33 per cent and 67 per cent respectively.
+20.52.  For financing the Twelfth Plan the projections envisage increasing total public funding, plan and non-plan, on core health from 1.04 per cent of GDP in 2011-12 to 1.87 per cent of GDP by the end of the Twelfth Plan. In such an event, the funding in the Central Plan would increase to 3 times the Eleventh Plan levels involving an annual increase by 34 per cent (Table 20.6). With the incentive measures proposed, States' total funding, Plan and Non-plan, on Health is expected to increase to three times the Eleventh Plan levels involving a similar annual increase. The Central and State funding for Health, as a proportion of total public sector health funding will remain at 2011-12 levels of 33 per cent and 67 per cent respectively.
 
 20.53.  When viewed in the perspective of the broader  health  sector,  which  includes  schemes  of Ministries  other  than  Health  aimed  at  improving the health status of people, namely Drinking Water and Sanitation, Mid-day Meal and Integrated Child Development Services Scheme the total Government expenditure as a proportion of GDP in the Twelfth Plan is likely to increase from 1.94 per cent of GDP in the last year of the Eleventh Plan to 3.04 per cent in the corresponding year of the Twelfth Plan.
 
@@ -1462,9 +1202,9 @@ Health
 
 ##### OTHER MODELS OF FINANCING
 
-20.57. Public-Private  Partnerships :  PPPs  offer  an opportunity to tap the material, human and managerial  resources  of  the  private  sector  for  public  good. But  experience  with  PPP  has  shown  that  Government's  capacity  to  negotiate  and  manage  it  is  not effective.  Without  effective  regulatory  mechanisms, fulfillment  of  contractual  obligations  suffers  from weak oversight and monitoring. It is necessary, as the HLEG has argued, to move away from ad hoc PPPs to  well  negotiated  and  managed  contracts  that  are regulated effectively keeping foremost the health of the 'aam-admi'. Health has been included with other infrastructure sectors which are eligible for Viability Gap Funding up to a ceiling of 20 per cent of total project costs under a PPP scheme. As a result, private sector could propose and commission projects, such as hospitals and medical colleges outside metropolitan areas, which are not remunerative per se, and  claim  up  to  20  per  cent  of  the  project  cost  as grant from the Government. Some models of PPP in healthcare covering Primary Health Care, Diagnostic services, Hospitals which are currently being implemented in the States are illustrated in Box 20.3. These can be considered wherever appropriate for replication and upscaling.
+20.57. Public-Private Partnerships : PPPs offer an opportunity to tap the material, human and managerial resources of the private sector for public good. But experience with PPP has shown that Government's capacity to negotiate and manage it is not effective. Without effective regulatory mechanisms, fulfillment of contractual obligations suffers from weak oversight and monitoring. It is necessary, as the HLEG has argued, to move away from ad hoc PPPs to well negotiated and managed contracts that are regulated effectively keeping foremost the health of the 'aam-admi'. Health has been included with other infrastructure sectors which are eligible for Viability Gap Funding up to a ceiling of 20 per cent of total project costs under a PPP scheme. As a result, private sector could propose and commission projects, such as hospitals and medical colleges outside metropolitan areas, which are not remunerative per se, and claim up to 20 per cent of the project cost as grant from the Government. Some models of PPP in healthcare covering Primary Health Care, Diagnostic services, Hospitals which are currently being implemented in the States are illustrated in Box 20.3. These can be considered wherever appropriate for replication and upscaling.
 
-20.58.  PPP arrangements should address issues of compliance with regulatory requirements, observance  of  Standard  Treatment  Guidelines  and delivery  of  affordable  care.  An  additional  model for consideration is the Not-for-profit Public Private  Partnership  (NPPP)  being  followed  in  the International  Institute  of  Information  Technology (IIIT), which have been set up as fully autonomous institutions,  with  partnership  of  the  Ministry  of Human  Resource  Development,  Governments  of respective  States  and  industry  members.  PPP  and Not-for-Profit  PPP  models  can  be  considered  in order  to  expand  capacities  for  tertiary  care  in  the Twelfth Plan.
+20.58.  PPP arrangements should address issues of compliance with regulatory requirements, observance of Standard Treatment Guidelines and delivery of affordable care. An additional model for consideration is the Not-for-profit Public Private Partnership (NPPP) being followed in the International Institute of Information Technology (IIIT), which have been set up as fully autonomous institutions, with partnership of the Ministry of Human Resource Development, Governments of respective States and industry members. PPP and Not-for-Profit PPP models can be considered in order to expand capacities for tertiary care in the Twelfth Plan.
 
 20.59. Resource generation by facilities and Colleges : Given  the  gap  in  need  and  availability  of  tertiary care  facilities  and  to  ensure  maximisation  of  benefits from  limited  public funds, public facilities should  be  encouraged  to  part-finance  their  recurring  costs  by  mobilising  contributions  (including under Corporate Social Responsibility) and Internal Extra-Budgetary Resources. Under the recently drafted  Companies  Bill,  the  Government  has  proposed  that  companies  should  earmark  2  per  cent of their average profits of the preceding three years for  Corporate  Social  Responsibility  (CSR)  activities.  CSR  is  mandatory  for  Central  Public  Sector Enterprises,  the  guidelines  of  which  issued  by  the Department  of  Public  Enterprises  include  health service  as  one  of  the  eligible  components.  To  avail of  this  opportunity,  all  publicly  funded  health  care facilities  would  be  allowed  to  receive  donations, and funding from companies under their Corporate Social Responsibility head. Adequate safeguards have  to  be  built  in  so  as  to  ensure  'no-frills  funding'  and  that  donations  are  not  used  to  influence the  policies  or  practices  of  healthcare  facilities  in any way. All medical colleges should be encouraged to develop their own corpus to attain financial flexibility over a period of time. Tamil Nadu has issued guidelines  to  authorise  Medical  Officers  in  charge of particular healthcare facilities to enter into MoUs with interested persons to receive contributions for capital or recurrent expenditure in the provision and maintenance  of  facilities.  On  available  models  for self-generation of revenues, the option for cross-subsidy in line with the Aravind eye care system based in Tamil Nadu could also be explored. Tertiary care
 
@@ -1534,7 +1274,7 @@ facilities  would  have  an  incentive  to  generate  revenues if they are allow
 
 'Rashtriya  Swasthya  Bima  Yojana'  (RSBY),  introduced  in  2007,  was  designed  to  meet  the  health insurance needs of the poor.
 
-20.61.  RSBY provides for 'cash-less', smart card based health insurance cover of `30,000 per annum to each enrolled family, comprising up to five individuals. The beneficiary family pays only `30 per annum as registration/renewal fee. The scheme covers hospitalisation expenses (Out-patient expenses are not covered), including maternity benefit, and pre-existing  diseases.  A  transportation  cost  of `100 per visit is also paid. The premium payable to insurance agencies is funded by Central and State Governments in  a  75:25  ratio,  which  is  relaxed  to  90:10  for  the
+20.61.  RSBY provides for 'cash-less', smart card based health insurance cover of ` 30,000 per annum to each enrolled family, comprising up to five individuals. The beneficiary family pays only ` 30 per annum as registration/renewal fee. The scheme covers hospitalisation expenses (Out-patient expenses are not covered), including maternity benefit, and pre-existing diseases. A transportation cost of ` 100 per visit is also paid. The premium payable to insurance agencies is funded by Central and State Governments in a 75:25 ratio, which is relaxed to 90:10 for the
 
 [[END OF PAGE 38]]
 
@@ -1542,13 +1282,13 @@ facilities  would  have  an  incentive  to  generate  revenues if they are allow
 
 Health 21
 
-North-East region and Jammu and Kashmir. The maximum premium by the Central Government is limited to `750 per insured family per year.
+North-East region and Jammu and Kashmir. The maximum premium by the Central Government is limited to ` 750 per insured family per year.
 
 20.62.  RSBY was originally limited to Below Poverty Line (BPL) families but was later extended to building and other construction workers, MGNREGA beneficiaries,  street  vendors,  beedi  workers,  and  domestic workers. The scheme is currently being implemented in 24 States/UTs. About 3.3 crore families have been covered as on date and 43 lakh persons have availed hospitalisation under the scheme till November 2012.
 
 20.63.  Key  feature  of  RSBY  is  that  it  provides  for private  health  service  providers  to  be  included  in the system, if they meet certain standards and agree to  provide cash-less treatment which is reimbursed by  the  insurance  company.  This  has  the  advantage of  giving  patients  a  choice  between  alternative  service providers where such alternatives are available. Several State Governments (such as those of Andhra Pradesh and Tamil Nadu) have introduced their own health insurance schemes, which often have a more generous total cover.
 
-20.64.  A  general  problem  with  any  'fee  for  service' payment  system  financed  by  an  insurance  mechanism is that it  creates  an  incentive  for  unnecessary treatment, which in due course raises costs and premiums. There is some evidence that this is happening  and  it  is  necessary  to  devise  corrective  steps  to minimise it. Some groups oppose insurance schemes per se on these grounds, but that is not realistic. The beneficiary  is  able  to  choose  from  alternative  care givers  covered  by  a  common  insurance  scheme. Experience with the RSBY, and with the other State-specific  insurance  schemes,  needs  to  be  thoroughly studied  so  that  suitable  corrective  measures  can  be introduced  before  integrating  these  schemes  into  a framework  of  Universal  Health  Coverage  (UHC). The  shortcomings  of  RSBY  noted  so  far  include high  transaction  costs  due  to  insurance  intermediaries, inability to control provider induced demand, and  lack  of  coverage  for  primary  health  and  out-patient  care.  Fragmentation  of  different  levels  of care  can  lead  to  an  upward  escalation  towards  the secondary  level  of  patients  who  should  preferably be handled at the primary or even preventive stages. The RSBY also does not take into account state specific variations in disease profiles and health needs.
+20.64.  A general problem with any 'fee for service' payment system financed by an insurance mechanism is that it creates an incentive for unnecessary treatment, which in due course raises costs and premiums. There is some evidence that this is happening and it is necessary to devise corrective steps to minimise it. Some groups oppose insurance schemes per se on these grounds, but that is not realistic. The beneficiary is able to choose from alternative care givers covered by a common insurance scheme. Experience with the RSBY, and with the other State-specific insurance schemes, needs to be thoroughly studied so that suitable corrective measures can be introduced before integrating these schemes into a framework of Universal Health Coverage (UHC). The shortcomings of RSBY noted so far include high transaction costs due to insurance intermediaries, inability to control provider induced demand, and lack of coverage for primary health and out patient care. Fragmentation of different levels of care can lead to an upward escalation towards the secondary level of patients who should preferably be handled at the primary or even preventive stages. The RSBY also does not take into account state specific variations in disease profiles and health needs.
 
 ###### Innovative Payment Methods to Improve Outcomes
 
@@ -1620,7 +1360,7 @@ Health 23
 
 20.85.  An appropriate regulatory mechanism would be considered to ensure compulsory rural service by medical graduates. Concurrently, a set of monetary and non-monetary incentives would be built up to encourage doctors and allied health cadres to serve in rural areas.
 
-20.86.  Effective enforcement of the provisions of Pre-Conception  and  Pre-Natal  Diagnostic  Techniques (Prohibition  of  Sex  Selection)  Act  and  relentless public awareness measures would be put in place. A concerted  societal  conscientisation  and  communication campaign would be launched to create value for the girl child and women, along with affirmative action for girls. Local Self Government Institutions, specially  the  newly  elected  women  panchayat  and urban  local  body  members,  would  be  mobilised  to change  deeply  entrenched  behaviours  and  mindsets about the girl child. Panchayats and urban local bodies  which  are  able  to  achieve  a  reversal  of  the falling trend in child sex ratio would be recognised and  awarded,  along  the  lines  of  the  Nirmal  Gram Puraskar.
+20.86.  Effective enforcement of the provisions of Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act and relentless public awareness measures would be put in place. A concerted societal conscientisation and communication campaign would be launched to create value for the girl child and women, along with affirmative action for girls. Local Self Government Institutions, specially the newly elected women panchayat and urban local body members, would be mobilised to change deeply entrenched behaviours and mindsets about the girl child. Panchayats and urban local bodies which are able to achieve a reversal of the falling trend in child sex ratio would be recognised and awarded, along the lines of the Nirmal Gram Puraskar.
 
 [[END OF PAGE 41]]
 
@@ -1636,7 +1376,7 @@ Health 23
 
 20.89.  In the Central Government sector, more AIIMS like Institutions (ALIs) will be established during the Twelfth Plan period in addition to the eight already  approved.  These  would  be  completed  and made operational during the Plan period. They will serve as composite centres for continued professional education, and multi-skilling of health workers.
 
-20.90.  The existing teaching institutions will be strengthened  to  provide  leadership  in  research  and practice on different medical conditions, and research themes. Priorities include Cancer, Arthritis and musculo-skeletal  diseases,  Child  Health,  Diabetes, Mental Health and Neuro Sciences, Geriatrics, Biomedical and Bioengineering, Hospital and Health Care Administration, Nursing Education and  Research,  Information  Technology  and  Tele-Medicine and Complementary Medicine.
+20.90.  The existing teaching institutions will be strengthened to provide leadership in research and practice on different medical conditions, and research themes. Priorities include Cancer, Arthritis and musculo-skeletal diseases, Child Health, Diabetes, Mental Health and Neuro Sciences, Geriatrics, Biomedical and Bioengineering, Hospital and Health Care Administration, Nursing Education and Research, Information Technology and Tele-Medicine and Complementary Medicine.
 
 20.91.  Centres  of  Excellence  need  to  be  created  for training public health professionals in epidemiology, entomology  and  microbiology  for  effective  disease surveillance and disease outbreak investigations and for  effectively  responding  to  outbreaks,  epidemics and disasters, and also for AYUSH.
 
@@ -1748,11 +1488,11 @@ Health 27
 
 20.110.  To  enable  access  to  quality  diagnostic  facilities,  pooling  of  resources  available  with  different agencies,  their  up-gradation  wherever  needed,  outsourcing and in-sourcing strategies would be adopted.
 
-20.111.  The  objective  would  be  to  achieve  a  minimum norm of 500 beds per 10 lakh population in an average district. Approximately 300 beds could be at the level of District Hospitals and the remaining distributed judiciously at the CHC level. Where needed, private sector services also may be contracted in to supplement the services provided by the public sector.  The  sanction  of  new  facilities  other  than  sub-centres  should  be  undertaken  only  when  mapping of access demonstrates the need for new facilities to improve accessibility.
+20.111.  The objective would be to achieve a minimum norm of 500 beds per 10 lakh population in an average district. Approximately 300 beds could be at the level of District Hospitals and the remaining distributed judiciously at the CHC level. Where needed, private sector services also may be contracted in to supplement the services provided by the public sector. The sanction of new facilities other than sub-centres should be undertaken only when mapping of access demonstrates the need for new facilities to improve accessibility.
 
 20.112.  States  would  be  encouraged  to  put  in  place systems  for  Emergency  Medical  Referral  to  bridge the  gaps  in  access  to  health  facilities  and  need  for transport  in  the  event  of  an  emergency.  Standards for these services will specify the time taken to transport patients from the location to designated health facilities,  and  these  standards  shall  be  evaluated and  followed.  The  possibility  of  positioning  such referral  with  the  response  teams  of  Fire-Fighting Departments, as  is  the  practice  in  many  developed nations,  should  be  explored.  These  facilities,  once operational, would also help in managing disasters, in terms of early response, search and rescue, emergency care and rehabilitation.
 
-20.113.  For  ensuring  access  to  health  care  among under-served populations, the existing Mobile Medical units would be expanded to have a presence in  each  CHC.  Mobile  Medical  Units  may  also  be dedicated to certain areas, which have moving populations. For example, boat clinics of C-NES in Assam provide curative and emergency care for the population residing in islands and flood plains of the State.
+20.113.  For ensuring access to health care among under-served populations, the existing Mobile Medical units would be expanded to have a presence in each CHC. Mobile Medical Units may also be dedicated to certain areas, which have moving populations. For example, boat clinics of C-NES in Assam
 
 [[END OF PAGE 45]]
 
@@ -1761,6 +1501,8 @@ Health 27
 28
 
 Twelfth Five Year Plan
+
+provide curative and emergency care for the population residing in islands and flood plains of the State.
 
 ###### Continuum of Care
 
@@ -1790,7 +1532,7 @@ Health
 
 29
 
-provided.  Indian  Public  Health  Standards  (IPHS) would  be  revised  accordingly.  Individual  States  can choose  from  a  range  of  staffing  options,  including those  suggested  by  the  Working  Group  on  NRHM and by the HLEG, both options will be included in the Central funding envelop. Such flexibility to States in location, size and staffing of the health care facilities  would  ensure  optimum  utilisation  of  existing resources,  and  infrastructure.  Every  Panchayat  and urban municipal ward should have at least one sub-centre. The sub-centre's package of assured services, and  consequent  staffing  will  vary  according  to  the epidemiological and health systems contexts.
+provided. Indian Public Health Standards (IPHS) would be revised accordingly. Individual States can choose from a range of staffing options, including those suggested by the Working Group on NRHM and by the HLEG, both options will be included in the Central funding envelop. Such flexibility to States in location, size and staffing of the health care facilities would ensure optimum utilisation of existing resources, and infrastructure. Every Panchayat and urban municipal ward should have at least one sub-centre. The sub-centre's package of assured services, and consequent staffing will vary according to the epidemiological and health systems contexts.
 
 ##### PRIORITY SERVICES
 
@@ -1798,7 +1540,7 @@ provided.  Indian  Public  Health  Standards  (IPHS) would  be  revised  accordi
 
 20.117.  Availability  of  essential  medicines  in  public sector health facilities free of cost is critical to achieve affordable health care for the bulk of the population. This is the area which provides the speediest scope for improved service delivery in return for allocation of  sufficient  resources.  A  set  of  measures  including revision  and  expansion  of  the  Essential  Drugs  List, ensuring the rational use of drugs, strengthening the drug  regulatory  system,  and  supporting  the  setting up of national and state drug supply logistics corporations is being recommended as core components. States  would  be  encouraged  to  plan  and  partially fund universal access to essential drugs and diagnostic  services  in  all  government  health  care  facilities. Drug supply would be linked to centralised procurement  at  state  level  to  ensure  uniform  drug  quality and cost minimisation by removing intermediaries.
 
-20.118.  The provision of essential medicines free of cost must be backed by logistic arrangements to procure generic medicines from suppliers of repute that match  pre-qualifying  standards.  The  MoU  instrument shall be used to encourage States to adopt the TNMSC  model,  for  professional  management  of procurement, storage and logistics. Support to rational  and  generic  drug  prescription  for  the  private  sector  requires  a  different  approach.  This  can be  achieved  through  expansion  of  the  existing  Jan Aushadhi  stores  in  all  sub-divisions  and  blocks.
+20.118.  The provision of essential medicines free of cost must be backed by logistic arrangements to procure generic medicines from suppliers of repute that match pre-qualifying standards. The MoU instrument shall be used to encourage States to adopt the TNMSC model, for professional management of procurement, storage and logistics. Support to rational and generic drug prescription for the private sector requires a different approach. This can be achieved through expansion of the existing Jan Aushadhi stores in all sub-divisions and blocks.
 
 These stores could be linked to centralised procurement at state level.
 
@@ -1808,7 +1550,7 @@ These stores could be linked to centralised procurement at state level.
 
 20.120.  Simple strategies for prevention of pre-term births, and reducing deaths among pre-term babies can make a difference in survival and health of children during the critical first month of life. These will be built into protocols for health workers and standards for health facilities (Figure 20.3).
 
-20.121.  Home-based newborn  care, drawing  on validated  models,  such  as  that  of  Gadchiroli  in Maharashtra,  and  focused  efforts to  encourage breastfeeding and safe infant and child feeding practices  will  be  promoted.  While  emphasis  on  early breastfeeding  is  a  part  of  Accredited  Social  Health Activists' (ASHAs) training, special training on neonatal  care  for  community  and  facility-level  health functionaries will result in a faster reduction in IMR. The findings of Maternal Death Reviews and Infant death audits will be used to fill gaps in health systems, in skills and service provision. Control and management  of  diseases  like  malaria,  TB  and  HIV/AIDS, and  conditions  like  hypertension  and  gestational
+20.121.  Home-based newborn care, drawing on validated models, such as that of Gadchiroli in Maharashtra, and focused efforts to encourage breastfeeding and safe infant and child feeding practices will be promoted. While emphasis on early breastfeeding is a part of Accredited Social Health Activists' (ASHAs) training, special training on neonatal care for community and facility-level health functionaries will result in a faster reduction in IMR. The findings of Maternal Death Reviews and Infant death audits will be used to fill gaps in health systems, in skills and service provision. Control and management of diseases like malaria, TB and HIV/AIDS, and conditions like hypertension and gestational
 
 [[END OF PAGE 47]]
 
@@ -1834,11 +1576,11 @@ diabetes which are directly related to maternal mortality would be integrated wi
 
 ###### Universal Immunisation Coverage
 
-20.123.  The  goal  of  ensuring  universal  coverage  of routine  immunisation  through  campaigns  in  districts  throughout  the  country  is  now  within  reach and will be achieved by the end of the Twelfth Plan. Registered  Medical  Practitioners  (RMPs)  will  be used in this effort, wherever feasible. There is need for expanding the use of available vaccines for various preventable diseases through an evidence based approach.  The  existing  alternate  vaccine  delivery mechanism  through  mobile  immunisation  services for  outreach  work  will  be  upgraded.  Other  disease  specific  recommended  strategies  will  also  be adopted;  such  as,  in  the  case  of  measles,  periodic Supplemental  Immunization  Activities  (SIAs),  that is,  mass  vaccination  campaigns  aimed  at  immunising 100 per cent of a predefined population within several  days  or  weeks,  introduction  of  a  routine second  dose  in  high  prevalence  states,  laboratory-supported  surveillance,  and  appropriate  management  of  measles  cases.  Public  awareness  of  the benefits  of  immunisation will be built,  so  that  they demand  the  services.  Effective  implementation  of the Mother and Child Tracking system and Mother and  Child  Protection  Card  jointly  issued  by  the MoHFW and the MoWCD would be used in capturing immunisation data better. Electricity supply will be ensured, especially at places where cold chains are maintained.
+20.123.  The goal of ensuring universal coverage of routine immunisation through campaigns in districts throughout the country is now within reach and will be achieved by the end of the Twelfth Plan. Registered Medical Practitioners (RMPs) will be used in this effort, wherever feasible. There is need for expanding the use of available vaccines for various preventable diseases through an evidence based approach. The existing alternate vaccine delivery mechanism through mobile immunisation services for outreach work will be upgraded. Other disease specific recommended strategies will also be adopted; such as, in the case of measles, periodic Supplemental Immunization Activities (SIAs), that is, mass vaccination campaigns aimed at immunising 100 per cent of a predefined population within several days or weeks, introduction of a routine second dose in high prevalence states, laboratory-supported surveillance, and appropriate management of measles cases. Public awareness of the benefits of immunisation will be built, so that they demand the services. Effective implementation of the Mother and Child Tracking system and Mother and Child Protection Card jointly issued by the MoHFW and the MoWCD would be used in capturing immunisation data better. Electricity supply will be ensured, especially at places where cold chains are maintained.
 
 ###### Family Welfare
 
-20.124.  The experience of Indonesia and Japan shows that, as compared to limiting methods, emphasis  on  family  spacing  methods  like  IUCD and male condoms has had a better impact in meeting the unmet needs of couples. A recent study has estimated  that  meeting  unmet  contraception  needs could  cut  maternal  deaths  by  one-third.  There  is, therefore, a need for much more attention to spacing methods such as, long term IUCD. IUCD insertion
+20.124.  The experience of Indonesia and Japan shows that, as compared to limiting methods, emphasis on family spacing methods like IUCD and male condoms has had a better impact in meeting the unmet needs of couples. A recent study has estimated that meeting unmet contraception needs could cut maternal deaths by one-third. There is, therefore, a need for much more attention to spacing methods such as, long term IUCD. IUCD insertion
 
 [[END OF PAGE 48]]
 
@@ -1850,7 +1592,7 @@ on fixed days by ANMs (under supervision of LHV for new ANMs) would be encourage
 
 ###### Communicable Disease Control
 
-20.125.  State  and  District  specific  action  plans  will incorporate  status  and  strategies  for  TB  control, with  universal  and  assured  access  to  quality  DOTS services. PMDT services will be included in the standards of care and made available in all districts for comprehensively  tackling  the  challenge  of  drug-resistant TB.
+20.125.  State and District specific action plans will incorporate status and strategies for TB control, with universal and assured access to quality DOTS services. PMDT services will be included in the standards of care and made available in all districts for comprehensively tackling the challenge of drug-resistant TB.
 
 20.126.  An  increasing  incidence  of  vector  borne diseases  like  malaria,  dengue  and  chikungunya  in urban, peri-urban and rural areas because of expanding  urbanisation,  deficient  water  and  solid  waste management  has  been  reported.  To  control  this, the  emphasis  would  be  on  avoidance  of  mosquito breeding  conditions  in  homes  and  workplaces  and minimising human-mosquito contact. The spread of zoonotic diseases will also be prevented by strengthening integrated surveillance of transmission between  wildlife,  close  bred  veterinary  populations and human communities.
 
@@ -1878,7 +1620,8 @@ on fixed days by ANMs (under supervision of LHV for new ANMs) would be encourage
 
 Twelfth Five Year Plan
 
-TABLE 20.7 Interventions to Combat Non-Communicable Diseases (NCDs)
+TABLE 20.7
+Interventions to Combat Non-Communicable Diseases (NCDs)
 
 Non-Communicable Disease (NCD) | Interventions
 --- | ---
@@ -1889,7 +1632,9 @@ Non-Communicable Disease (NCD) | Interventions
 5. Dental Caries | Education on oral health and hygiene; reducing dietary sugars; water fluoridation
 6. General measures | • Promote physical activity in schools and society • Restrict marketing of and access to food products high in salt, sugar or unhealthy fats • Targeted early detection and diagnosis using inexpensive technologies
 
-Note: The list is illustrative only.
+Note:
+
+The list is illustrative only.
 
 States,  the  erstwhile  Public  Health  cadre  has  been merged with the regular medical cadre. The choice of having a separate Directorate of Public Health on the lines of Tamil Nadu or incorporating it suitably in the existing set-up will be left to the judgement of States.
 
@@ -1899,7 +1644,7 @@ States,  the  erstwhile  Public  Health  cadre  has  been merged with the regula
 
 20.135.  Public health officials should be made responsible  for  the  health  of  all  people  residing in  their  assigned  areas  or  jurisdictions,  including migrants.  Their  responsibilities  would,  thus,  not be limited to only those who visit or use the health facilities,  but  would  require  them  to  actively  reach out  and  impact  health  outcomes  in  their  respective  catchment  areas.  An  implication  of  such  an approach  would  be  that  all  data  generated  in  the facility would be analysed in terms of the denominator, that is, the total population at risk in the jurisdiction of that facility. Public health officials should also be deployed in Municipal areas to assist the Urban Local Bodies in maintaining public health.
 
-20.136.  The National Centre for Disease Control (formerly National Institute of Communicable Diseases) shall function as the apex public health institute for providing  surveillance,  prevention  and  control  of all  diseases  of  public  health  importance.  The  up-gradation  of  NCDC  covers  physical  infrastructure including  public  health  labs  and  additional  trained human  resource.  It  is  also  proposed  that  NCDC branches will be opened/strengthened in State Headquarters to provide timely technical assistance to the State  health  authorities  in  routine  disease  surveillance and in addressing epidemic-prone diseases.
+20.136.  The National Centre for Disease Control (formerly National Institute of Communicable Diseases) shall function as the apex public health institute for providing surveillance, prevention and control of all diseases of public health importance. The up-gradation of NCDC covers physical infrastructure including public health labs and additional trained human resource. It is also proposed that NCDC branches will be opened/strengthened in State Headquarters to provide timely technical assistance to the State health authorities in routine disease surveillance and in addressing epidemic-prone diseases.
 
 [[END OF PAGE 50]]
 
@@ -1921,7 +1666,7 @@ Health
 
 20.141.  The state of peoples' health is dependent on living habits that are partly determined by individual behaviour  choices.  The  existing  campaigns  urging the avoidance of harmful behaviours such as use of tobacco, alcohol and drugs, advocating the use of helmets and seat belts, valuing the girl child, shunning of sex-selective abortions, adoption of the small family norm  would  be  further  strengthened.  Home-based newborn  care,  exclusive  and  continued  breastfeeding are time tested and proven strategies to promote child health and survival, and need to be encouraged on a priority basis. Mass media campaigns on mental illness should be launched, to reduce the stigma, promote early care seeking and encourage family members to be supportive and sensitive.
 
-20.142. Electronic (including 'new' media) and print media can play a critical role in informing and empowering communities and individuals on issues relating to health and quality of life. This includes using mobile telephones, multimedia tools as well as Community Radio Stations to achieve this objective. While regulation of the media falls outside the domain of the MoHFW, there is a need to encourage the media to carry messages that make healthy living popular, and to avoid the display of unhealthy behaviour like smoking. Since there are several media-dark areas where the NCD disease burden is increasing, innovative state specific Behaviour
+20.142.  Electronic (including 'new' media) and print media can play a critical role in informing and empowering communities and individuals on issues relating to health and quality of life. This includes using mobile telephones, multimedia tools as well as Community Radio Stations to achieve this objective. While regulation of the media falls outside the domain of the MoHFW, there is a need to encourage the media to carry messages that make healthy living popular, and to avoid the display of unhealthy behaviour like smoking. Since there are several media-dark areas where the NCD disease burden is increasing, innovative state specific Behaviour
 
 [[END OF PAGE 51]]
 
@@ -1931,7 +1676,7 @@ Health
 
 Change Communication strategies would also be required apart from electronic and print media.
 
-20.143.  The  MoHFW  would  also  champion  measures  like  legislation,  regulation  and  fiscal  measures to  reduce  the  exposure  of  citizens  to  health  risks. An existing agency of the MoHFW, Central Health Education  Bureau  (CHEB),  shall  be  assigned  the responsibility  of  undertaking  and  guiding  Health Promotion all over the country. In this task, it will use the health promotion Portal for dissemination of information. The CHEB shall involve multi-sectoral actors, conduct health impact assessment and will be developed as the Institute of Health Promotion.
+20.143.  The MoHFW would also champion measures like legislation, regulation and fiscal measures to reduce the exposure of citizens to health risks. An existing agency of the MoHFW, Central Health Education Bureau (CHEB), shall be assigned the responsibility of undertaking and guiding Health Promotion all over the country. In this task, it will use the health promotion Portal for dissemination of information. The CHEB shall involve multi-sectoral actors, conduct health impact assessment and will be developed as the Institute of Health Promotion.
 
 20.144.  Teaching self-care to patients and care givers of chronic diseases not only empowers them to manage their condition, but can also make a significant difference to long term health outcomes. NGOs can play a very active role in such campaigns, as the success of BRAC, Bangladesh in reducing infant mortality  by  promoting  use  of  Oral  Rehydration  Solution has shown.
 
@@ -2004,8 +1749,9 @@ optimal levels by the end of Thirteenth Plan. If we adopt a goal of 500 health w
 TABLE 20.8
 Availability of HR during Eleventh Plan and Projections for Twelfth Plan
 
-Category | Enrolled | Available | Density | Annual Capacity (Nos.) | Expected Availability by 2017 (Total) | Expected Availability by 2017 (Density) | Desirable Density | Colleges Required | Available if Colleges Created (2017) | Available if Colleges Created (2021)
+Category | Enrolled and Available (2011–12) |  |  | Annual Capacity | Expected Availability by 2017 |  | Desirable Density | Colleges Required | Available if Colleges Created |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Enrolled | Available | Density | Nos. | Total | Density |  |  | 2017 | 2021
 Physicians | 9,22,177 | 6,91,633 | 57 | 42,570 | 8,48,616 | 65 | 85 | 240 | 67 | 85
 AYUSH | 7,12,121 | 5,34,091 | 44 | 30,000 | 6,42,386 | 49 | 49 | 0 | 51 | 54
 Dentists | 1,17,827 | 88,370 | 7 | 24,410 | 1,93,797 | 15 | 15 | 0 | 16 | 21
@@ -2029,13 +1775,12 @@ New colleges have been assumed to have a capacity of 250 (physicians), 100 (AYUS
 
 Health 37
 
-Density per 10000 Population
+FIGURE 20.4: Projected HRH Capacity Expansion in the Twelfth Plan
 
-30.0 | 25.0 | 20.0 | 15.0 | 10.0 | 5.0 | 0.0
+Density per 10000 Population
 
 Year | Doctor | Nurse/ANM | AYUSH | Dentist | Pharmacist
 --- | --- | --- | --- | --- | ---
-2010 |  |  |  |  | 
 2011 | 5.7 | 9.1 | 4.4 | 0.7 | 4.1
 2012 | 5.9 | 10.5 | 4.5 | 0.9 | 4.7
 2013 | 6.1 | 11.8 | 4.6 | 1.0 | 5.3
@@ -2048,23 +1793,20 @@ Year | Doctor | Nurse/ANM | AYUSH | Dentist | Pharmacist
 2020 | 8.0 | 23.9 | 5.3 | 2.0 | 9.0
 2021 | 8.5 | 25.5 | 5.4 | 2.1 | 9.5
 2022 | 9.0 | 26.9 | 5.5 | 2.2 | 9.9
-2023 |  |  |  |  | 
-
-FIGURE 20.4: Projected HRH Capacity Expansion in the Twelfth Plan
 
 each District, and one para-medical training centre in each sub-division/block.
 
-20.156. District hospitals which cannot be converted to teaching institutions, can be accredited with the National Board of Examinations for training Post-Graduate candidates in the Diplomate of National Board (DNB) programme, in courses such as Family Medicine. This is a low cost measure which will help increase production of specialists, bring professionalism and also help improve standards of patient care in district hospitals.
+20.156.  District hospitals which cannot be converted to teaching institutions, can be accredited with the National Board of Examinations for training Post-Graduate candidates in the Diplomate of National Board (DNB) programme, in courses such as Family Medicine. This is a low cost measure which will help increase production of specialists, bring professionalism and also help improve standards of patient care in district hospitals.
 
 20.157.  Centres of Excellence for Nursing and Allied Health Sciences also need to be established in every State. These Centres would impart higher education in  specialised  fields,  offer  continued  professional education  and  have  provisions  for  faculty  development and research. Centres for paramedical education would to be set up in 149 Government medical colleges, in addition to initiating paramedical institutions in 26 States. Initiatives already taken to upgrade and  strengthen  the  existing  Nursing  Schools  into Colleges of Nursing would continue. Establishment of ANM/GNM schools in under-served areas would also be accorded priority. A road-map would be prepared  for  strengthening  of  pre-service,  mid-wifery training and career development.
 
 20.158.  In  the  Pharmacy  sector,  strengthening  and up-gradation of Pharmacy Colleges and setting up of Colleges of pharmacy attached to Government medical colleges would be initiated, wherever possible.
 
-20.159. There are other categories of skilled health-workers, such as Physician assistants, who increase the productivity of the medical team, and should be encouraged. In the context of hospitals, a survey by FICCI in June 2011 has identified five skill-sets that need immediate attention, namely Dialysis Technician, Operation Theatre/Anaesthesia Technician, Paramedic, Lab Technician, Patient Care Coordinator cum Medical Transcriptionist. The profession of midwifery will be revived, and provided training and legal authority to serve as autonomous medical practitioners for primary maternity care, such as in the Netherlands, so that skilled birth attendance is universalised. The proposed District knowledge Centres would create sufficient teaching capacity for such newer categories of health workers.
+20.159.  There are other categories of skilled health-workers, such as Physician assistants, who increase the productivity of the medical team, and should be encouraged. In the context of hospitals, a survey by FICCI in June 2011 has identified five skill-sets that need immediate attention, namely Dialysis Technician, Operation Theatre/Anaesthesia Technician, Paramedic, Lab Technician, Patient Care Coordinator cum Medical Transcriptionist. The profession of midwifery will be revived, and provided training and legal authority to serve as autonomous medical practitioners for primary maternity care, such as in the Netherlands, so that skilled birth attendance is universalised. The proposed District knowledge Centres would create sufficient teaching capacity for such newer categories of health workers.
 
 20.160.  A peculiar feature of India's healthcare system is the presence of a large number of non-qualified practitioners, such as traditional birth attendants (dais), compounders and RMPs. As per law, they are neither authorised to practice Medicine, nor to prescribe drugs. Nonetheless, they work everywhere in the country and address a huge unfulfilled demand for ambulatory care, particularly in rural areas. The challenge  is  to  get  them  into  the  formal  system. The  plan  recommends  giving  these  practitioners, depending  on  their  qualifications  and  experience, an  opportunity  to  get  trained  and  integrate  them into  the  health  work-force  in  suitable  capacities  by mutual consent.
 
-20.161. Another opportunity lies in utilising the services of AYUSH graduates for providing primary
+20.161.  Another opportunity lies in utilising the services of AYUSH graduates for providing primary
 
 [[END OF PAGE 55]]
 
@@ -2076,7 +1818,7 @@ Twelfth Five Year Plan
 
 care. There are two pre-requisites before this can be done—first by amendment of the legal framework to authorise the practice of modern medicine for primary care by practitioners of Indian Systems of Medicine; and secondly by supplementing skills of AYUSH graduates by imparting training in modern Medicine through bridge courses. High professional standards of eligibility for, and qualifying in the bridge courses should be laid down so that the quality of such primary care integrated physicians remains high. States like Tamil Nadu and recently Maharashtra have shown the lead in this regard. Associations of allopathic practitioners are generally opposed to AYUSH practitioners being allowed to prescribe allopathic medicines; they will have to be persuaded to yield in the national interest of serving the masses, particularly the rural population and the urban poor. Suitably trained, AYUSH graduates can provide primary health care, and help fill in the human resource gaps in rural areas.
 
-20.162.  The NHM will encourage the States to modify the  designation  and  job  profiles  of  human  resource created under various central and externally funded programmes into generic, multi-functional categories whose services can be used as per local need.
+20.162.  The NHM will encourage the States to modify the designation and job profiles of human resource created under various central and externally funded programmes into generic, multi-functional categories whose services can be used as per local need.
 
 ###### Community Participation and PRI Involvement
 
@@ -2092,7 +1834,7 @@ care. There are two pre-requisites before this can be done—first by amendment 
 
 #### NATIONAL AIDS CONTROL ORGANISATION
 
-20.167. The programme strategy would be two-pronged: intensification of interventions for high risk groups and bridge populations, and integration of prevention (including mother to child transmission), testing, counselling and treatment services among the general population, including pregnant women, with the routine RCH programme. To achieve mainstreaming of services, the State AIDS Control Societies and District AIDS Prevention and Control Unit (DAPCU) will be linked with the National Health Mission structure at these levels. To build a multi-dimensional reporting system, the information systems on health systems, and AIDS control shall be synergised.
+20.167.  The programme strategy would be two-pronged: intensification of interventions for high risk groups and bridge populations, and integration of prevention (including mother to child transmission), testing, counselling and treatment services among the general population, including pregnant women, with the routine RCH programme. To achieve mainstreaming of services, the State AIDS Control Societies and District AIDS Prevention and Control Unit (DAPCU) will be linked with the National Health Mission structure at these levels. To build a multi-dimensional reporting system, the information systems on health systems, and AIDS control shall be synergised.
 
 [[END OF PAGE 56]]
 
@@ -2100,19 +1842,18 @@ care. There are two pre-requisites before this can be done—first by amendment 
 
 Health 39
 
-TABLE 20.9
-Illustrative List of Health Systems Strengthening in States
-
 Health System Elements | Suggested Health System Strengthening Activities by States
 --- | ---
-1. Effective Public Health Administration | Enact and Enforce Public Health Act Put in place a Public Health cadre, whose members shall be responsible for detecting public health problems within their jurisdiction, framing strategy for its correction and implementing it Develop and deploy a Health Management Cadre, for providing management support to public health programmes and hospital administration Mandatory practice of Clinical Treatment Guidelines and prescription of generic medicines listed in the National List of Essential Medicines in all Government facilities Mandatory test audit of medical prescriptions by faculty of medical colleges Improve governance through stronger oversight mechanisms that include citizen participation, social audit and greater transparency Develop an effective and responsive grievance redress system Frame policies for, and provide services so as to achieve the goals of the National Population Policy (2000).
+1. Effective Public Health Administration | Enact and Enforce Public Health Act Put in place a Public Health cadre , whose members shall be responsible for detecting public health problems within their jurisdiction, framing strategy for its correction and implementing it Develop and deploy a Health Management Cadre , for providing management support to public health programmes and hospital administration Mandatory practice of Clinical Treatment Guidelines and prescription of generic medicines listed in the National List of Essential Medicines in all Government facilities Mandatory test audit of medical prescriptions by faculty of medical colleges Improve governance through stronger oversight mechanisms that include citizen participation, social audit and greater transparency Develop an effective and responsive grievance redress system Frame policies for, and provide services so as to achieve the goals of the National Population Policy (2000).
 2. Health Financing | Increased expenditure on Health Sector Prioritise strengthening of Primary Health Care in state budgets
 3. Health Regulation | Extend and enforce Central Clinical Establishment Act Empower Public Health functionaries under relevant laws namely Pre-conception and Pre-natal Diagnostic Techniques Act, Food Safety Standard Act, and Drugs and Cosmetics Acts
-4. Develop Human Resource for Health | Develop District Hospitals and Community Health Centres (CHCs) into Medical and para-medical training institutions with improved quality of training Organise bridge Courses for AYUSH graduates and legally empower them to practice as Primary Health care physicians Encourage career progression of ASHA and AWW into ANM, and assure career tracks for competency-based professional advancement of nurses
+4. Develop Human Resource for Health | Develop District Hospitals and Community Health Centres (CHCs) into Medical and para-medical training institutions with improved quality of training Organise bridge Courses for AYUSH graduates and legally empower them to practice as Primary Health care physicians Encourage career progression of ASHA and AWW into ANM, and assure career tracks for competency- based professional advancement of nurses
 5. Health Information Systems | Build a Health Information System by networking of all health service providers, establishing state level disease surveillance systems, universal registration of births and deaths to give accurate picture of health of the population
 6. Convergence and Stewardship | Assess Health impact of policies and activities of departments other than health Main-streaming of AYUSH into NHM Main-streaming of STI and HIV prevention and treatment up to district levels into NHM Main-streaming of all disease control programmes into NHM Empower Panchayats with funds, functions and functionaries to play a meaningful role in bringing convergence in the social sector Achieve inter-sectoral coordination at Block, District and State levels by using the mission structure of NHM Create and support systems for grievance redressal Synergise the working of ASHA and AWW by declaring AWC as the convergence station for all village level NHM and ICDS personnel, and Sub-centre as the HQ of ICDS supervisors Ensure that only double fortified salt (Iron-Iodine) is used in ICDS Scheme, Mid-Day Meal and sold through Public Distribution System
 7. Health Services | Master plan for ensuring each district is able to provide assured set of services to all its residents Road-map for achieving Indian Public Health Standards at all facilities Public health care facilities are provided financial and administrative autonomy Develop an effective grievance redress system
 8. Ensure access to Medicines, Vaccines and Diagnostics | Create a Special Purpose Vehicle to procure, store and distribute medicines, vaccines and diagnostics through an open, tender based procurement Mandate availability of drugs under the National List of Essential Medicines in all health facilities Strengthen state level drug regulation Ensure Jan Aushadhi stores in all Block Headquarters
+
+TABLE 20.9 Illustrative List of Health Systems Strengthening in States
 
 [[END OF PAGE 57]]
 
@@ -2124,7 +1865,7 @@ Health System Elements | Suggested Health System Strengthening Activities by Sta
 
 - Preventing new infections by sustaining the reach of current interventions and effectively addressing emerging epidemics.
 
-- Preventing Patent-to-Child Transmission
+- Preventing Parent-to-Child Transmission
 
 - Focusing on IEC strategies for behaviour change, demand-generation for HIV services among those at risk and awareness among general population
 
@@ -2150,7 +1891,7 @@ Health System Elements | Suggested Health System Strengthening Activities by Sta
 
 3. Increasing access and promoting comprehensive care, support and treatment;
 
-4. Building capacities at national stage, district and facility levels and
+4. Building capacities at national, state, district and facility levels and
 
 5. Strengthening Strategic Information Management Systems
 
@@ -2194,7 +1935,7 @@ Health 41
 
 20.180.  In  view  of  the  growing  incidence  of  metabolic  and  lifestyle  diseases  like  diabetes  and  hypertension  and  considering  the  strengths  of  AYUSH systems in their prevention and treatment, a National Institute on Metabolic and Lifestyle Diseases will be established.
 
-20.181.  In  view  of  the  growing  problem  of  drug abuse, and increase in use of tobacco, and the potential  of  AYUSH  therapies  and  practices,  particularly of  Yoga,  for  disease  prevention  and  health  promotion,  a  National  Institute  for  Drug  and  Tobacco De-addiction  will  be  established.  Each  of  the  three national  institutes  would  be  equipped  with  postgraduate education and research facilities and house advanced hospital facilities in all disciplines of
+20.181.  In view of the growing problem of drug abuse, and increase in use of tobacco, and the potential of AYUSH therapies and practices, particularly of Yoga, for disease prevention and health promotion, a National Institute for Drug and Tobacco De-addiction will be established. Each of the three national institutes would be equipped with post-graduate education and research facilities and house advanced hospital facilities in all disciplines of
 
 [[END OF PAGE 59]]
 
@@ -2250,7 +1991,7 @@ Health 43
 
 structures' so that consultation and collaboration become a norm rather than an exception. Efficient mechanisms for selection, promotion, development, assessment and evaluation of affordable technologies would be established. DHR would bring together basic, translational and clinical investigators, networks, professional societies and industry to facilitate development of programmes and research projects. DHR would establish a mechanism for coordination between academia and the industry, with a preference for multidisciplinary approaches.
 
-20.188.  To address the need for operations research on  impediments  in  delivery  of  services,  DHR  will explore the possibility of stationing multi-disciplinary research teams within the NHM structure at different levels, so that practical, relevant and area specific solutions  to  problems  are  suggested  to  programme managers. To address the gaps in critical areas such as  Health  Information  Systems,  National  Health Accounts and Public Health delivery DHR will dedicate  national  centres  to  these  needs,  and  position specialised teams alongside operational managers.
+20.188.  To address the need for operations research on impediments in delivery of services, DHR will explore the possibility of stationing multi-disciplinary research teams within the NHM structure at different levels, so that practical, relevant and area specific solutions to problems are suggested to programme managers. To address the gaps in critical areas such as Health Information Systems, National Health Accounts and Public Health delivery DHR will dedicate national centres to these needs, and position specialised teams alongside operational managers.
 
 20.189. Autonomy  coupled  with  accountability  in research : The elements of an efficient research system are  clear  enunciation  of  goals,  sufficient  resources with flexibility to raise extra-budgetary funds, functional  autonomy,  accountability  and  incentives  for performance.  DHR  would  work  to  observe  these principles in its research institutes so that each one of  them  develops  into  a  centre  of  excellence  in  its allotted field.
 
@@ -2270,7 +2011,7 @@ structures' so that consultation and collaboration become a norm rather than an 
 
 the form of start-up grants. Additionally, fellowships for training researchers in identified advanced fields, scholarships at the PG level, Young Researcher Programmes to encourage young students, mid-career research fellowships for faculty development at medical colleges are some ways to ensure a steady flow of committed researchers. DHR will explore, in consultation with concerned regulatory authorities, the possibility of introducing a stream of research professionals in medical colleges who would have avenues for professional advancement equal to those of teaching faculty. DHR will utilise the potential of Information Technology to standardise research methodology courses, and train students in academic institutions through distance learning.
 
-20.194. Cost-effectiveness  studies  to  frame  Clinical Treatment  Guidelines :  On  the  lines  of  the  UK's National  Institute  of  Clinical  Excellence  (NICE), DHR  would  develop  expertise  to  assess  available therapies and technologies for their cost-effectiveness and  essentiality,  and  formulate  and  update,  on  a regular  basis,  the  Standard  Treatment  Guidelines, and  suggest  inclusion  of  new  drugs  and  vaccines into  the  public  health  system.  The  formulation  of the Guidelines must, of course, incorporate the best available  evidence,  including  in  AYUSH  systems, and prevalence of anti-microbial drug-resistance in order to suggest treatment protocols for regular clinical  practice. Standard Treatment Guidelines developed by Army Medical Corps can also be referred to. The justification for housing the proposed institute outside  the  Department  of  Health,  but  within  the Ministry,  is  to  provide  it  an  element  of  objectivity and independence from practitioners, and to avoid conflict of interest.
+20.194. Cost-effectiveness studies to frame Clinical Treatment Guidelines: On the lines of the UK's National Institute of Clinical Excellence (NICE), DHR would develop expertise to assess available therapies and technologies for their cost-effectiveness and essentiality, and formulate and update, on a regular basis, the Standard Treatment Guidelines, and suggest inclusion of new drugs and vaccines into the public health system. The formulation of the Guidelines must, of course, incorporate the best available evidence, including in AYUSH systems, and prevalence of anti-microbial drug-resistance in order to suggest treatment protocols for regular clinical practice. Standard Treatment Guidelines developed by Army Medical Corps can also be referred to. The justification for housing the proposed institute outside the Department of Health, but within the Ministry, is to provide it an element of objectivity and independence from practitioners, and to avoid conflict of interest.
 
 #### CONVERGENCE ACROSS SECTORS FOR BETTER OUTCOMES
 
@@ -2350,7 +2091,7 @@ Lesson: Effectively organised VHSND can lead to awareness in the community on he
 
 ### INTRODUCTION
 
-21.1. Education is the most important lever for social, economic and political transformation. A well-educated population, equipped with the relevant knowledge, attitudes and skills is essential for economic and social development in the twenty-first century. Education is the most potent tool for socio-economic mobility and a key instrument for building an equitable and just society. Education provides skills and competencies for economic well-being. Education strengthens democracy by imparting to citizens the tools needed to fully participate in the governance process. Education also acts as an integrative force in society, imparting values that foster social cohesion and national identity. Recognising the importance of education in national development, the Twelfth Plan places an unprecedented focus on the expansion of education, on significantly improving the quality of education imparted and on ensuring that educational opportunities are available to all segments of the society.
+21.1.  Education is the most important lever for social, economic and political transformation. A well-educated population, equipped with the relevant knowledge, attitudes and skills is essential for economic and social development in the twenty-first century. Education is the most potent tool for socio-economic mobility and a key instrument for building an equitable and just society. Education provides skills and competencies for economic well-being. Education strengthens democracy by imparting to citizens the tools needed to fully participate in the governance process. Education also acts as an integrative force in society, imparting values that foster social cohesion and national identity. Recognising the importance of education in national development, the Twelfth Plan places an unprecedented focus on the expansion of education, on significantly improving the quality of education imparted and on ensuring that educational opportunities are available to all segments of the society.
 
 21.2.  Recognising the importance of education, public  spending  on  education  increased  rapidly  during the Eleventh Plan period. Education expenditure as a percentage of gross domestic product (GDP) rose from 3.3 per cent in 2004-05 to over 4 per cent in 2011-12. Per capita public expenditure on education increased from ` 888 in 2004-05 to ` 2,985 in 2011-12. The bulk of public spending on education is incurred by the State Governments and their spending grew at  a  robust  rate  of  19.6  per  cent  per  year  during the  Eleventh  Plan.  Central  spending  on  education increased even faster at 25 per cent per year during the same period. Aggregate public spending on education during the Eleventh Plan period is estimated at ` 12,44,797  crore  for  both  the  Centre  and  States taken  together.  Of  this,  35  per  cent  was  accounted for by Plan expenditure and 65 per cent by non-Plan expenditure. About 43 per cent of the public expenditure  on  education  was  incurred  for  elementary education, 25 per cent for secondary education and the balance 32 per cent for higher education. About half  of  the  Central  Government's  expenditure  was incurred  for  higher  education  and  the  remaining for elementary (39 per cent) and secondary (12 per cent) education. In the State sector, about 75 per cent of education expenditure is for school education, of which  44  per  cent  is  on  elementary  education  and 30 per cent on secondary education.
 
@@ -2378,7 +2119,7 @@ the decade ending 2009-10. Youth literacy increased from 60 per cent in 1983 to 
 
 21.8.  While there has been a decline in the percentage of out-of-school children (OoSC) across gender and social categories, Muslim, scheduled caste (SC) and scheduled tribe (ST) children need greater and focused  attention.  The  number  of  OoSC  who  are physically or mentally challenged remains a cause for concern.  The  proportion  of  disabled  out-of-school children  in  2005  was  34.19  per  cent  and  remained unchanged  at  34.12  per  cent  in  2009.  It  is  important to note that the maximum number of OoSC are those with mental disabilities (48 per cent), followed by  children  with  speech  disabilities  (37  per  cent). Neither the school system nor any other institutional mechanism  is  equipped  to  address  the  challenging needs  of  mentally  disabled  children  who  are  most disadvantaged both socially and educationally in the system.
 
-21.9.  There  has  been  a  substantial  increase  in  the availability of teachers at elementary level during the past few years and if all the teacher posts sanctioned under both Sarva Shiksha Abhiyan (SSA) and State budgets  are  filled,  the  pupil-teacher  ratio  (PTR)  at the national level will almost be 27:1. The challenge, however, lies in correcting the imbalance in teacher deployment.  The  number  of  schools  that  do  not comply  with  the  Right  to  Education  (RTE)  norms for  the  required  PTR  is  fairly  high.  School-wise analysis  based  on  District  Information  System  for Education (DISE) 2009-10 indicates that 46 per cent of primary and 34 per cent of upper primary schools have  poor  PTRs.  Another  serious  challenge  is  the presence of teachers without professional qualifications  approved  by  the  National  Council  of  Teacher Education (NCTE), as is required under the RTE Act. There  are  about  8.1  lakh  untrained  teachers  in  the country with four States-Bihar, UP, Jharkhand and West Bengal-accounting for 72 per cent of them.
+21.9.  There has been a substantial increase in the availability of teachers at elementary level during the past few years and if all the teacher posts sanctioned under both Sarva Shiksha Abhiyan (SSA) and State budgets are filled, the pupil-teacher ratio (PTR) at the national level will almost be 27:1. The challenge, however, lies in correcting the imbalance in teacher deployment. The number of schools that do not comply with the Right to Education (RTE) norms for the required PTR is fairly high. School-wise analysis based on District Information System for Education (DISE) 2009-10 indicates that 46 per cent of primary and 34 per cent of upper primary schools have poor PTRs. Another serious challenge is the presence of teachers without professional qualifications approved by the National Council of Teacher Education (NCTE), as is required under the RTE Act. There are about 8.1 lakh untrained teachers in the country with four States—Bihar, UP, Jharkhand and West Bengal—accounting for 72 per cent of them.
 
 [[END OF PAGE 66]]
 
@@ -2390,7 +2131,7 @@ Education
 
 21.10.  Under  SSA,  the  country  has  seen  massive infrastructure development at the school level. Apart from opening over 3 lakh new schools, SSA has also provided basic facilities in existing schools. The average student-classroom ratio (SCR) which was 39 in 2005-06  has  come  down  to  32  in  2009-10.  There are still a large number of schools which do not have these minimum facilities. Only 4.8 per cent government  schools  have  all  nine  facilities  stipulated  in the  RTE  Act,  approximately  one-third  of  the  total schools have up to seven facilities, and about 30 per cent schools do not have even five of these facilities. Keeping in view the RTE stipulations, these facilities have to be provided in all schools in a time-bound manner.
 
-21.11.  The biggest concern in elementary education is the poor level of student learning-both scholastic and  co-scholastic/non-cognitive.  Evidence  suggests that learning outcomes for children in Indian schools are  far  below  corresponding  class  levels  in  other countries, and that the learning trajectories for children who remain in school are almost flat. Clearly, the  additional  time  spent  by  students  in  school  as they move from one class to another is not translating into much improvement in learning levels.
+21.11.  The biggest concern in elementary education is the poor level of student learning—both scholastic and co-scholastic/non-cognitive. Evidence suggests that learning outcomes for children in Indian schools are far below corresponding class levels in other countries, and that the learning trajectories for children who remain in school are almost flat. Clearly, the additional time spent by students in school as they move from one class to another is not translating into much improvement in learning levels.
 
 21.12.  At the heart of the issue of quality are the weak teaching processes and transactions between teachers  and  learners  that  are  neither  child-friendly  nor adopt  child-centred  approach  to  curriculum.  The capacity,  motivation  and  accountability  of  teachers to deliver quality education with significant and measurable  improvements  in  learning  outcomes  of students need to be critically and urgently addressed. Similar challenges of quality of learning also exist at the secondary and higher education levels. Dropout rates in secondary and higher education continue to be high, especially for socially excluded and economically marginalised groups of learners.
 
@@ -2400,7 +2141,7 @@ Education
 
 21.14.  The Twelfth Plan needs to address these challenges  in  an  integrated  and  holistic  manner.  The focus needs to be on meeting the residual needs of access  with  sharper  focus  on  the  needs  of  the  disadvantaged  social  groups  and  the  difficult-to-reach areas;  improving  the  school  infrastructure  in  keeping  with  the  RTE  stipulations;  increasing  enrolment  at  the  upper  primary  and  secondary  school levels; lowering dropout rates across the board; and, broad-based  improvement  in  the  quality  of  education  with  special  emphasis  on  improving learning outcomes .  The  four  main  priorities  for  education policy  have  been  access,  equity,  quality  and  governance.  The  Twelfth  Plan  will  continue  to  prioritise these four areas, but will place the greatest emphasis on improving learning outcomes at all levels.
 
-21.15. It is critical for the country to make secondary education much more job-relevant through skills training within the schools. For this, higher investments will need to be made to equip secondary schools with teachers/trainers who have technical skills, and equipment (such as workshops, machines, computer equipment) that can be used to impart technical and vocational skills. In countries such as South Korea and Australia, 25-40 per cent of high school students opt for vocational courses, making them job-ready once they finish Grade 12. The vocational credits they earn in secondary schools are
+21.15.  It is critical for the country to make secondary education much more job-relevant through skills training within the schools. For this, higher investments will need to be made to equip secondary schools with teachers/trainers who have technical skills, and equipment (such as workshops, machines, computer equipment) that can be used to impart technical and vocational skills. In countries such as South Korea and Australia, 25–40 per cent of high school students opt for vocational courses, making them job-ready once they finish Grade 12. The vocational credits they earn in secondary schools are
 
 [[END OF PAGE 67]]
 
@@ -2414,7 +2155,7 @@ recognised by the general education system and a high proportion of these studen
 
 ##### Access
 
-21.16.  The  challenge  of  access  is  no  longer  one  of enrolments at the primary level, but one of increasing  attendance,  reducing  dropouts  and  increasing enrolments at the secondary level. These challenges will  have  to  be  tackled  through  a  multi-pronged strategy that should include: ( i ) a realistic assessment of  the  problems  of  the  most  vulnerable  categories of  children;  ( ii )  measures  to  help  schools  meet  the required  PTR,  classroom  and  other  infrastructure norms (since they impact the retention of children); ( iii ) improving management  systems for better tracking and monitoring of school functioning; ( iv )  a  focus  on  improvements  in  teaching-learning processes;  and  ( v )  on  developing  schools  as  inclusive  learning  spaces.  Improving  learning  outcomes at  the  upper  primary  level  is  a  critical  requirement for improving enrolment levels in secondary schools. A  big  part  of  the  increase  in  secondary  enrolment has to come from students who are better prepared to benefit from secondary education and, therefore, are able to continue their education rather than drop out. This will require increasing the effectiveness of teaching models at both the primary and the secondary levels.
+21.16.  The challenge of access is no longer one of enrolments at the primary level, but one of increasing attendance, reducing dropouts and increasing enrolments at the secondary level. These challenges will have to be tackled through a multi-pronged strategy that should include: (i) a realistic assessment of the problems of the most vulnerable categories of children; (ii) measures to help schools meet the required PTR, classroom and other infrastructure norms (since they impact the retention of children); (iii) improving management systems for better tracking and monitoring of school functioning; (iv) a focus on improvements in teaching-learning processes; and (v) on developing schools as inclusive learning spaces. Improving learning outcomes at the upper primary level is a critical requirement for improving enrolment levels in secondary schools. A big part of the increase in secondary enrolment has to come from students who are better prepared to benefit from secondary education and, therefore, are able to continue their education rather than drop out. This will require increasing the effectiveness of teaching models at both the primary and the secondary levels.
 
 ##### Equity
 
@@ -2424,7 +2165,7 @@ recognised by the general education system and a high proportion of these studen
 
 ##### Quality
 
-21.19. Improvement of the quality of education is strongly linked to the quality of physical space, textual materials, classroom processes, academic support to the teachers, assessment procedures and community involvement. All these areas will continue to receive support during the Twelfth Plan period. While adequate inputs and infrastructure are necessary for the proper functioning of schools, inputs will not automatically translate into effective teaching-learning processes or satisfactory learning outcomes. Therefore, the Twelfth Plan will treat improving school inputs as just the starting point in improving educational quality, and will take a more comprehensive view for building a strong systemic focus on teacher capacity, improving school leadership/management, strengthening academic support system, better community and parents' participation, measuring and improving learning outcomes in a continuous manner. Focus would be on provision for child-friendly schools and systems in teaching
+21.19.  Improvement of the quality of education is strongly linked to the quality of physical space, textual materials, classroom processes, academic support to the teachers, assessment procedures and community involvement. All these areas will continue to receive support during the Twelfth Plan period. While adequate inputs and infrastructure are necessary for the proper functioning of schools, inputs will not automatically translate into effective teaching-learning processes or satisfactory learning outcomes. Therefore, the Twelfth Plan will treat improving school inputs as just the starting point in improving educational quality, and will take a more comprehensive view for building a strong systemic focus on teacher capacity, improving school leadership/management, strengthening academic support system, better community and parents' participation, measuring and improving learning outcomes in a continuous manner. Focus would be on provision for child-friendly schools and systems in teaching
 
 [[END OF PAGE 68]]
 
@@ -2438,11 +2179,11 @@ and learning processes as well as in improved water, sanitation, hygiene and mid
 
 ##### Governance
 
-21.20.  Several  studies  have  reported  the  challenges in  education  governance  exemplified  by  teacher absence, delayed fund flows to schools and administrative capabilities at the school level. Studies have also found that improved measurement and management of teacher performance has a significant positive  impact  on  student  learning  outcomes.  Specific and targeted measures of student learning along with measures  to  hold  teachers,  schools  and  school  systems accountable for these learning outcomes will go a long way in improving governance by orienting the education  system  towards  outcomes.  The  Twelfth Plan  will  prioritise  and  invest  in  improving  educational  leadership  and  management  at  the  district, block and school levels, with a focus on making better use of data and governing the education system with the objective of improving learning outcomes at all levels of schooling.
+21.20.  Several studies have reported the challenges in education governance exemplified by teacher absence, delayed fund flows to schools and administrative capabilities at the school level. Studies have also found that improved measurement and management of teacher performance has a significant positive impact on student learning outcomes. Specific and targeted measures of student learning along with measures to hold teachers, schools and school systems accountable for these learning outcomes will go a long way in improving governance by orienting the education system towards outcomes. The Twelfth Plan will prioritise and invest in improving educational leadership and management at the district, block and school levels, with a focus on making better use of data and governing the education system with the objective of improving learning outcomes at all levels of schooling.
 
-21.21. While there is a broad range of challenges facing education in the country, a focus on learning outcomes is a unifying theme of the Twelfth Plan. Addressing the problem of quality will simultaneously address many of the other challenges. This is not to say that inputs and resources do not matter, but focusing on learning outcomes will also help to ensure that these inputs and resources are provided and utilised in a manner where they have the greatest impact. Research from around the world highlights the importance of early childhood education, and suggests that high-quality early childhood education may have the highest long-term returns in terms of improved human development. The Twelfth Plan will therefore place a high priority on universalising pre-school education and improving school preparedness—especially for historically and economically disadvantaged children. More broadly, the approach of the Twelfth Plan for school education will be to define and measure outcomes, and allocate resources in ways that maximise progress towards achieving these outcomes.
+21.21.  While there is a broad range of challenges facing education in the country, a focus on learning outcomes is a unifying theme of the Twelfth Plan. Addressing the problem of quality will simultaneously address many of the other challenges. This is not to say that inputs and resources do not matter, but focusing on learning outcomes will also help to ensure that these inputs and resources are provided and utilised in a manner where they have the greatest impact. Research from around the world highlights the importance of early childhood education, and suggests that high-quality early childhood education may have the highest long-term returns in terms of improved human development. The Twelfth Plan will therefore place a high priority on universalising pre-school education and improving school preparedness—especially for historically and economically disadvantaged children. More broadly, the approach of the Twelfth Plan for school education will be to define and measure outcomes, and allocate resources in ways that maximise progress towards achieving these outcomes.
 
-21.22. The Twelfth Plan strategies need to respond to these challenges and drive towards achieving the outcome targets laid out for the Plan (see Box 21.1). The six core elements of the driving principles and strategy for the Twelfth Plan are:
+21.22.  The Twelfth Plan strategies need to respond to these challenges and drive towards achieving the outcome targets laid out for the Plan (see Box 21.1). The six core elements of the driving principles and strategy for the Twelfth Plan are:
 
 1. All stages of education need to be viewed in an integrated manner, through the perspective of lifelong learning and education;
 
@@ -2494,7 +2235,7 @@ Twelfth Five Year Plan
 
 21.27.  Girls  account  for  the  majority  (5.3  million) of the additional enrolment of 7.21 million children between  2006-07  and  2009-10.  More  than  half  of them (53 per cent) belong to SCs and STs. Three initiatives  of  the  Eleventh  Plan  helped  to  increase  the enrolment of girls. These included ( i )  setting  up  of 3,600 Kasturba Gandhi Balika Vidyalayas in 27 States and  Union  Territories  (UTs),  ( ii )  establishment  of 7,000  Early  Childhood  Care  Centres  in  EBBs  and ( iii ) implementation of Mahila Samakhya programme in ten States.
 
-21.28. The GER at upper primary level is low, even though it improved by 11.8 per cent in the four years between 2006-07 and 2009-10. At 62 per cent the NER at upper primary level is also a cause for concern. This varies from 47 per cent in UP and 53.1 per cent in Bihar to 91 per cent in Tamil Nadu and 83 per cent in Himachal Pradesh.4 It is evident that although a larger number of children are entering the educational system, all of them are not
+21.28.  The GER at upper primary level is low, even though it improved by 11.8 per cent in the four years between 2006-07 and 2009-10. At 62 per cent the NER at upper primary level is also a cause for concern. This varies from 47 per cent in UP and 53.1 per cent in Bihar to 91 per cent in Tamil Nadu and 83 per cent in Himachal Pradesh. 4 It is evident that although a larger number of children are entering the educational system, all of them are not
 
 [[END OF PAGE 70]]
 
@@ -2506,13 +2247,13 @@ Education
 
 progressing through the system and this progression is uneven across the States.
 
-21.29.  A large number of children are still OoS. Of the 8.1 million OoSC in the country in 2009, UP (34 per cent), Bihar (17 per cent), Rajasthan (12 per cent) and  West  Bengal  (9  per  cent)  account  for  72  per cent. 5 Although  surveys  have  reported  a  decline  in the proportion of OoSC to the corresponding child population of various communities such as SCs, STs and Muslims, 6 these estimates need to be taken with caution, keeping in mind the steep decline in absolute numbers of OoSC reported in the corresponding period. A recent study for rural India places the proportion  of  children  not  enrolled  in  schools  at 3.5 per cent. 7 However, in a few States like Rajasthan and UP, the percentage of OoS girls in the age group of 11-14 years is as high as 8.9 per cent and 9.7 per cent, respectively. 8
+21.29.  A large number of children are still OoS. Of the 8.1 million OoSC in the country in 2009, UP (34 per cent), Bihar (17 per cent), Rajasthan (12 per cent) and West Bengal (9 per cent) account for 72 per cent. 5 Although surveys have reported a decline in the proportion of OoSC to the corresponding child population of various communities such as SCs, STs and Muslims, 6 these estimates need to be taken with caution, keeping in mind the steep decline in absolute numbers of OoSC reported in the corresponding period. A recent study for rural India places the proportion of children not enrolled in schools at 3.5 per cent. 7 However, in a few States like Rajasthan and UP, the percentage of OoS girls in the age group of 11-14 years is as high as 8.9 per cent and 9.7 per cent, respectively. 8
 
 21.30.  The  Eleventh  Plan  had  targeted  a  reduction in dropout rates from 50 per cent to 20 per cent at the  elementary  stage.  Even  though  there  has  been some  reduction,  progress  has  not  been  satisfactory and the national average is still as high as 42.39 per cent.  The  dropout  rates  for  SC  and  ST  children  at 51.25  per  cent  and  57.58  per  cent,  respectively,  are much  higher  than  that  for  non-SC/ST  children  at 37.22  per  cent.  This  clearly  suggests  the  challenge of  school  retention  of  children  from  vulnerable communities.
 
-21.31. Having achieved near-universal enrolment at the lower primary level, it is critical to turn the focus on the poor levels of learning outcomes achieved by children who complete five years of primary schooling. Several independently conducted national studies including the ASER (2005 to 2011) and the School Learning Study (2010) have reported very low levels of learning among Indian school children. The ASER 2011 findings illustrate that over half the children in class V are unable to read even at class II level. In the recent Organisation for Economic Co-operation and Development–Programme for International Student Assessment (OECD–PISA) study, India has been placed at the tail-end in international comparisons rating (PISA-2009+). These results underscore the fact that quality of education should be the key focus of attention in the Twelfth Plan. Improving learning outcomes, with a focus on supplemental instruction for disadvantaged children, will directly contribute to the objective of reducing dropouts, because evidence suggests that children who fall behind grade-appropriate learning levels are significantly more likely to drop out. The structure of enrolments in elementary education shows that about 80 per cent of children are enrolled in government and government-aided institutions; therefore, the focus on quality improvement in elementary education has to be on government institutions.
+21.31.  Having achieved near-universal enrolment at the lower primary level, it is critical to turn the focus on the poor levels of learning outcomes achieved by children who complete five years of primary schooling. Several independently conducted national studies including the ASER (2005 to 2011) and the School Learning Study (2010) have reported very low levels of learning among Indian school children. The ASER 2011 findings illustrate that over half the children in class V are unable to read even at class II level. In the recent Organisation for Economic Co-operation and Development-Programme for International Student Assessment (OECD-PISA) study, India has been placed at the tail-end in international comparisons rating (PISA-2009+). These results underscore the fact that quality of education should be the key focus of attention in the Twelfth Plan. Improving learning outcomes, with a focus on supplemental instruction for disadvantaged children, will directly contribute to the objective of reducing dropouts, because evidence suggests that children who fall behind grade-appropriate learning levels are significantly more likely to drop out. The structure of enrolments in elementary education shows that about 80 per cent of children are enrolled in government and government-aided institutions; therefore, the focus on quality improvement in elementary education has to be on government institutions.
 
-21.32. Some progress has been made in preparing children better for primary education. Pre-school enrolment has more than doubled from 21 per cent in 2005 to 47 per cent in 2010.9 More recent ASER data (2010) indicates that 83.6 per cent of 3- to 6-year-olds in rural areas are enrolled in some preschool programme mostly in Integrated Child Development Services (ICDS) centres, including those in private pre-schools. The quality issues of pre-primary education in Anganwadi need serious review.
+21.32.  Some progress has been made in preparing children better for primary education. Pre-school enrolment has more than doubled from 21 per cent in 2005 to 47 per cent in 2010. 9 More recent ASER data (2010) indicates that 83.6 per cent of 3- to 6-year-olds in rural areas are enrolled in some preschool programme mostly in Integrated Child Development Services (ICDS) centres, including those in private pre-schools. The quality issues of pre-primary education in Anganwadi need serious review.
 
 21.33.  During  the  Eleventh  Plan,  the  Sarva  Shiksha Abhiyan  (SSA)  was  the  flagship  programme  for impacting elementary education, but the following  major  Central  Government  schemes  and programmes were also implemented: National Programme of Nutritional Support to Primary Education  (NP-NSPE;  commonly  known  as  the Mid-Day Meal Scheme), Teacher Education Scheme; Mahila  Samakhya;  Schemes  for  Providing  Quality Education in Madrasas (SPQEM) and Infrastructure Development in Minority Institutions (IDMI).
 
@@ -2530,9 +2271,6 @@ Twelfth Five Year Plan
 
 (KGBV),  that  have  focus  on  girls'  education.  The approved  outlay  for SSA  in  the  Eleventh  Plan  was ` 71,000  crore.  Against  this,  an  amount  of ` 77,586 crore was released to the States. Details of cumulative progress made under the SSA up to 2011-12 are given in Table 21.1.
 
-TABLE 21.1
-Cumulative Progress under SSA up to 2011-12
-
 S. No. | Item | Sanctions
 --- | --- | ---
 1 | Opening of New Schools | 2,09,914
@@ -2544,7 +2282,11 @@ S. No. | Item | Sanctions
 7 | Drinking Water facilities | 2,23,086
 8 | Teachers | 19,65,207
 
-Source: Ministry of HRD.
+TABLE 21.1 Cumulative Progress under SSA up to 2011-12
+
+Source:
+
+Ministry of HRD.
 
 21.35.  Though there was notable success in expanding  capacity  and  enrolments  during  the  Eleventh Plan, the challenge of raising quality standards still remains. Although the number of elementary schools has  increased  to  13.04  lakh,  many  schools  lack  the basic infrastructure facilities required under the RTE Act.  For  example,  the  retention  of  girls  in  school remains difficult given that over 63 per cent of rural schools have no usable toilet facilities for them. 10 If the envisaged convergence of the Mahatma Gandhi National Rural Employment  Guarantee Scheme (MGNREGS),  Total  Sanitation  Programme  (TSP) and Drinking Water Supply (DWS) Mission materialises,  some  of  these  infrastructural  shortcomings could  be  mitigated.  While  bridging  infrastructure gaps may be achievable, it will be far more challenging to bridge learning gaps.
 
@@ -2620,7 +2362,7 @@ education is concerned with all-round development of  the  child  (physical,  so
 
 ###### (A) Strong Focus on Early Years in School
 
-21.44.  Research  on  the  impact  of  PTR  on  student learning  suggests  that  a  low  PTR  matters  most  at younger ages, when children are being socialised into the process of learning, and less so in older classes. Thus, it may make sense to supplement the requirements under the RTE, for communities to hire multiple community-based teachers on contract to focus on improving school preparedness and basic literacy and numeracy for pre-school children. In addition, class I should receive special attention in the Twelfth Plan  period.  Ideally,  the  strongest  or  most  experienced  teacher  in  the  school  should  be  assigned  to this  class.  States  must  develop  a  process  to  identify specialist teachers of early/initial primary education and  design  specific  professional  development  and academic support programmes for them. If the foundations are strong and solid in class I, many of the later  problems  that  children  encounter-both  academically and non-academically-would be reduced. Special  training  needs  to  be  provided  each  year  to the  teachers  who  will  work  with  class  I.  Countries like  Finland,  Sweden  and  Denmark,  who  top  the PISA tests  have  demonstrated  that  equity  can  considerably help to improve overall learning outcomes, through mixed and inclusive classrooms, that do not segregate the so-called 'bright' and 'slow learners', or children from different social, ethnic or other differences. Students who had attended pre-primary tend to  perform  better  than  those  who  have  not.  These approaches need to be emulated in our classrooms too  so  that  the  classrooms  of  the  country  resonate with the diversity of our country, and help improve learning  outcomes  as  the  Scandinavian  school  systems have shown.
+21.44.  Research on the impact of PTR on student learning suggests that a low PTR matters most at younger ages, when children are being socialised into the process of learning, and less so in older classes. Thus, it may make sense to supplement the requirements under the RTE, for communities to hire multiple community-based teachers on contract to focus on improving school preparedness and basic literacy and numeracy for pre-school children. In addition, class I should receive special attention in the Twelfth Plan period. Ideally, the strongest or most experienced teacher in the school should be assigned to this class. States must develop a process to identify specialist teachers of early/initial primary education and design specific professional development and academic support programmes for them. If the foundations are strong and solid in class I, many of the
 
 [[END OF PAGE 74]]
 
@@ -2628,13 +2370,15 @@ education is concerned with all-round development of  the  child  (physical,  so
 
 Education 57
 
+later problems that children encounter—both academically and non-academically—would be reduced. Special training needs to be provided each year to the teachers who will work with class I. Countries like Finland, Sweden and Denmark, who top the PISA tests have demonstrated that equity can considerably help to improve overall learning outcomes, through mixed and inclusive classrooms, that do not segregate the so-called 'bright' and 'slow learners', or children from different social, ethnic or other differences. Students who had attended pre-primary tend to perform better than those who have not. These approaches need to be emulated in our classrooms too so that the classrooms of the country resonate with the diversity of our country, and help improve learning outcomes as the Scandinavian school systems have shown.
+
 ###### (B) Review of School Textbooks
 
-21.45. School textbooks should be reviewed by NCERT/State Council of Educational Research and Training (SCERT) to be made more engaging yet simple and interesting. Review of textbooks must always be accompanied by special development of teachers to use these books effectively. Learning levels expected of children as seen in textbooks should be aligned to the overall learning goals—keeping in mind that the goals and standards should be achievable by majority of the children. Work-books should accompany textbooks for mathematics, science and languages. The textbook should be supplemented by learning facilitation manuals for teachers for improving classroom transaction. All government schools should be provided with electricity and facilities for computer-aided learning on a large scale. Private sector resources should also be enlisted for content development based on curriculum and syllabi.
+21.45.  School textbooks should be reviewed by NCERT/State Council of Educational Research and Training (SCERT) to be made more engaging yet simple and interesting. Review of textbooks must always be accompanied by special development of teachers to use these books effectively. Learning levels expected of children as seen in textbooks should be aligned to the overall learning goals—keeping in mind that the goals and standards should be achievable by majority of the children. Work-books should accompany textbooks for mathematics, science and languages. The textbook should be supplemented by learning facilitation manuals for teachers for improving classroom transaction. All government schools should be provided with electricity and facilities for computer-aided learning on a large scale. Private sector resources should also be enlisted for content development based on curriculum and syllabi.
 
 ###### (C) Enhancing Facilities in Schools
 
-21.46. A programme for Information and Communication Technology (ICT) in elementary schools will replace the erstwhile Computer-Aided Learning (CAL) under SSA. This would include provision of networked computers, accessories and an Internet connection in a phased manner. A variety of software tools and pedagogically appropriate e-content in local languages will be sourced or developed to serve the school curriculum. The focus will be to enable students and teachers to access wide variety of resources available in the digital format, and digital resources that are seamlessly integrated in classroom processes. Efforts will be made to adopt energy-efficient, cost-effective ICT solutions, which increase the number of access points in each school enabling more and more children to use the facility more frequently. Appropriate mechanisms to maintain the infrastructure and protect it from breakdowns will be ensured. ICT should also be used to network teachers and schools in a specific geography—this would enhance collaborative teaching and learning. The RTE Act mandates provision of laboratory and library facilities in schools. SSA funding would be made available for this purpose particularly to cater to children from the disadvantaged groups.
+21.46.  A programme for Information and Communication Technology (ICT) in elementary schools will replace the erstwhile Computer-Aided Learning (CAL) under SSA. This would include provision of networked computers, accessories and an Internet connection in a phased manner. A variety of software tools and pedagogically appropriate e-content in local languages will be sourced or developed to serve the school curriculum. The focus will be to enable students and teachers to access wide variety of resources available in the digital format, and digital resources that are seamlessly integrated in classroom processes. Efforts will be made to adopt energy-efficient, cost-effective ICT solutions, which increase the number of access points in each school enabling more and more children to use the facility more frequently. Appropriate mechanisms to maintain the infrastructure and protect it from breakdowns will be ensured. ICT should also be used to network teachers and schools in a specific geography—this would enhance collaborative teaching and learning. The RTE Act mandates provision of laboratory and library facilities in schools. SSA funding would be made available for this purpose particularly to cater to children from the disadvantaged groups.
 
 ###### (D) Research for Quality Improvement
 
@@ -2642,7 +2386,7 @@ Education 57
 
 ###### (E) Pre-Primary Education
 
-21.48. Every primary school would be facilitated to have a pre-primary section to provide pre-primary education with a school readiness programme for at least one year for children in the age group of four to six years. The concept of 'early learning units' would be introduced which would bring together the pre-primary and early primary grades into an integrated unit. The implementation would be phased out and by the end of the Twelfth Plan, about 50 per cent of the schools would have pre-primary classes. Educationally lagging States/Districts/Blocks should be covered on priority basis. For this, pre-school
+21.48.  Every primary school would be facilitated to have a pre-primary section to provide pre-primary education with a school readiness programme for at least one year for children in the age group of four to six years. The concept of 'early learning units' would be introduced which would bring together the pre-primary and early primary grades into an integrated unit. The implementation would be phased out and by the end of the Twelfth Plan, about 50 per cent of the schools would have pre-primary classes. Educationally lagging States/Districts/Blocks should be covered on priority basis. For this, pre-school education would be included under SSA/RTE as a separate component with a specific budget line. NCTE would lay down standard qualifications and adapt its TET guidelines to accommodate teachers of this Early Learning Stage, that is, pre-primary and Grades 1 and 2. A few States have planned Anganwadi in primary schools. Pre-service teacher preparation curriculum needs to be enhanced to address needs of pre-primary children. Pre-Service Teacher Education in the area of Early Childhood Education must be significantly strengthened. Selected universities and institutions must be specifically encouraged to run rigorous exemplar Early Childhood Teacher Education programmes. There is a huge dearth of other specialists in this area—developmental psychologists, curriculum developers for early childhood education and so on. Similar programmes in these areas too need to be designed and implemented. Short-term certified refresher programmes for in-service early childhood teachers and Anganwadi workers (this could also include teachers of early primary classes) must be designed and implemented by identified organisations.
 
 [[END OF PAGE 75]]
 
@@ -2662,7 +2406,7 @@ education would be included under SSA/RTE as a separate component with a specifi
 
 ###### (G) Promote State-Level/Local-Level Innovation
 
-21.51.  Across  the  country,  there  are  several  promising  approaches  to  improve  teaching-learning  at the  elementary stage. These need to be explored in greater  depth  to  understand  the  basic  elements  of their functioning and their impact on learning outcomes.  Among  others,  these  include  ABL  initiated by the Government of Tamil Nadu, Gujarat government's innovative Gunotsav programme, and Punjab government's Purrho Punjab initiative. Among efforts  initiated  by  non-government  bodies  (often
+21.51.  Across  the  country,  there  are  several  promising  approaches  to  improve  teaching-learning  at the  elementary stage. These need to be explored in greater  depth  to  understand  the  basic  elements  of their functioning and their impact on learning outcomes.  Among  others,  these  include  ABL  initiated by the Government of Tamil Nadu, Gujarat government's innovative Gunotsav programme, and Punjab government's Purrho Punjab initiative. Among efforts initiated by non-government bodies (often
 
 [[END OF PAGE 76]]
 
@@ -2674,13 +2418,13 @@ working in collaboration with State Governments), among others, there is the Pra
 
 ###### (H) Child-Friendly Assessment
 
-21.52.  The RTE Act mandates that a system of Continuous  and  Comprehensive  Evaluation  should  be put in place to enable the teacher to be continuously guided by the child's response and participation in classroom activities. Support will, therefore, be provided to enable teachers to maintain child-wise portfolios,  incorporating  a  record  of  children's  work and progress—as an integral part of their teaching–learning process. Teacher Training programme will include training on systems for CCE. Since a majority  of  children  in  Indian  schools  are  not  at  grade level, adequate flexibility needs to be provided in the CCE framework and in its implementation to identify and to address the needs of such children. In fact, teacher education institutes must be mandated to use (not just teach) CCE during the pre-service teacher preparation programmes.
+21.52.  The RTE Act mandates that a system of Continuous and Comprehensive Evaluation should be put in place to enable the teacher to be continuously guided by the child's response and participation in classroom activities. Support will, therefore, be provided to enable teachers to maintain child-wise portfolios, incorporating a record of children's work and progress—as an integral part of their teaching–learning process. Teacher Training programme will include training on systems for CCE. Since a majority of children in Indian schools are not at grade level, adequate flexibility needs to be provided in the CCE framework and in its implementation to identify and to address the needs of such children. In fact, teacher education institutes must be mandated to use (not just teach) CCE during the pre-service teacher preparation programmes.
 
 21.53.  Regular and accurate reports of student learning  and  progress  should  be  provided  to  parents, along with encouragement and guidance for parents on how to support their child's educational progress. It is important to de-stigmatise falling behind ('failing').  Every  child  (and  parent)  needs  to  be  assured that learning basic skills is well within his/her reach, and  if  he/she  is  not  learning,  it  is  a  failure  of  the system  rather  than  that  of  the  child.  'Assessment of  learning'  and  'assessment  for  learning'  are  two aspects of education representing accountability and improvement. One cannot be emphasised over the  other  and  neither  can  be  sacrificed  in  favour of  the  other.  While  the  teacher  needs  to  'assess  for learning', the administrators and the parents of the children need 'assessment of learning'. In the spirit of  these  aspects,  teachers must be supported to use these  'learning  reports'  to  modify  their  classroom/ teaching-learning approaches.
 
 ###### (I) Measuring Learning
 
-21.54.  Considerable efforts and resources are needed to develop independent and objective and achievable measures  of  student  learning  at  the  school,  block, district and State levels that approach the issue with an understanding of the linguistic complexities while formulating their testing methods. It is expected that better measurement and reporting of outcomes will play  a  strong  catalysing  role  in  making  State,  district and block-level education administrators focus more on improving education quality  as  measured by student mastery of achieving the defined gradewise learning outcomes. States should be encouraged to define transparent, meaningful and simple learning levels to be achieved at the end of class 2, 5 and 8.  Mechanisms must be put in place to ensure that schools  neither  'teach  these  external  tests'  nor  use these for punitive measures.
+21.54.  Considerable efforts and resources are needed to develop independent and objective and achievable measures of student learning at the school, block, district and State levels that approach the issue with an understanding of the linguistic complexities while formulating their testing methods. It is expected that better measurement and reporting of outcomes will play a strong catalysing role in making State, district and block-level education administrators focus more on improving education quality as measured by student mastery of achieving the defined grade-wise learning outcomes. States should be encouraged to define transparent, meaningful and simple learning levels to be achieved at the end of class 2, 5 and 8. Mechanisms must be put in place to ensure that schools neither 'teach these external tests' nor use these for punitive measures.
 
 ###### (J) Learning from International Experience
 
@@ -2688,7 +2432,7 @@ working in collaboration with State Governments), among others, there is the Pra
 
 ##### II. Address Residual Access and Equity Gaps
 
-21.56.  Special efforts are needed in the Twelfth Plan for those children who are still not in school or who need  sustained  attention  for  remaining  linked  to school.  Here  the  focus  has  to  be  on  every  child  in school  and  learning  well.  So  efforts  must  include strategies for effective and sustained mainstreaming with  accelerated  learning  strategies  built  in  as  part of  the  mainstreaming  strategy.  Special  focus  would be  on  targeting  OoSC,  girls  and  socially  excluded groups in specific locations.
+21.56.  Special efforts are needed in the Twelfth Plan for those children who are still not in school or who need sustained attention for remaining linked to school. Here the focus has to be on every child in school and learning well. So efforts must include strategies for effective and sustained mainstreaming
 
 [[END OF PAGE 77]]
 
@@ -2697,6 +2441,8 @@ working in collaboration with State Governments), among others, there is the Pra
 60
 
 Twelfth Five Year Plan
+
+with accelerated learning strategies built in as part of the mainstreaming strategy. Special focus would be on targeting OoSC, girls and socially excluded groups in specific locations.
 
 ###### (A) Targeting Out-of-School Children
 
@@ -2708,7 +2454,7 @@ Twelfth Five Year Plan
 
 ###### (C) Focus on SC/ST Children
 
-21.59.  At least 5 per cent of existing Government elementary schools in all EBBs with more than 50 per cent tribal population would be converted into residential school complexes (RSCs) having provisions for pre-school (non-residential), primary and middle schools. There should be provision of seasonal hostel facilities for children of migrating families both at the place of origin and of migration in urban and rural areas. These hostels will follow norms set out in the KGBV scheme. In EBBs with over 50 per cent tribal population, government schools would be converted into RSCs and seasonal hostels for migrating tribal children. A few State Governments, such as that of Andhra Pradesh, have integrated Ashram schools (regular residential schools) under the RTE-harmonised SSA. Other States should follow the same approach. Further, convergence with the Ministry of Tribal Affairs for all Ashram shalas should be forged to achieve adequate PTR and infrastructure/facilities/Teaching–Learning Equipment (TLE) as per the RTE norms. Special support would be needed to ensure retention and improved learning for children from SC communities that are socially, economically and educationally deprived and discriminated. These efforts need to converge with the programmes of the Ministry of Social Justice and Empowerment (MSJ&E). There is a need to review and revise curriculum addressing caste-based exclusion and promoting inclusion. Interventions for SCs include (i) process-based interventions such as curricular review to include discussion on caste-based discrimination in textual material; (ii) residential schools run with assistance from the MSJ&E to conform to the RTE norms; (iii) convergence on pre-matric scholarships and incentives provided by MSJ&E; (iv) partnerships with Dalit Civil Society Organisations (CSOs) for support of Dalit children. As discussed in the previous sections, it is important to plan for improvement of learning of children from disadvantaged backgrounds. It is only when the special efforts and provisions translate into learning gains that such children have a real chance to complete and go beyond elementary education.
+21.59.  At least 5 per cent of existing Government elementary schools in all EBBs with more than 50 per cent tribal population would be converted into residential school complexes (RSCs) having provisions for pre-school (non-residential), primary and middle schools. There should be provision of seasonal hostel facilities for children of migrating families both at the place of origin and of migration in urban and rural areas. These hostels will follow norms set out in the KGBV scheme. In EBBs with over 50 per cent tribal population, government schools would be converted into RSCs and seasonal hostels for migrating tribal children. A few State Governments, such as that of Andhra Pradesh, have integrated Ashram schools (regular residential schools) under the RTE-harmonised SSA. Other States should follow the same approach. Further, convergence with the Ministry of Tribal Affairs for all Ashram shalas should be forged to achieve adequate PTR and infrastructure/facilities/Teaching-Learning Equipment (TLE) as per the RTE norms. Special support would be needed to ensure retention and improved learning for children from SC communities that are socially, economically and educationally deprived and discriminated. These efforts need to converge with the programmes of the Ministry of Social Justice and Empowerment (MSJ&E). There is a need to review and revise curriculum addressing caste-based exclusion and promoting inclusion. Interventions for SCs include ( i ) process-based interventions such as curricular review to include discussion on caste-based discrimination in textual material; ( ii ) residential schools run with assistance from the MSJ&E to conform to the RTE norms; ( iii ) convergence on pre-matric scholarships and incentives provided by MSJ&E; ( iv ) partnerships with Dalit Civil Society Organisations (CSOs) for support of Dalit children. As discussed in the previous sections, it is important to plan for improvement of learning of children from disadvantaged backgrounds. It is only when the special efforts and provisions translate into learning gains that such children have a real chance to complete and go beyond elementary education.
 
 [[END OF PAGE 78]]
 
@@ -2746,7 +2492,7 @@ Twelfth Five Year Plan
 
 During the Twelfth Plan, the unit of earmarking, targeting and monitoring of interventions for Muslim children  would  be  changed  from  District  to  Block. SPQEM and IDMI could be merged. Urdu would be offered as an optional language in schools located in Muslim-dominated  areas,  along  with  its  attendant requirements  like  teacher  training,  TLMs  and  so on.  There  seems  to  be  some  overlapping  activities with the Multi-Sectoral Development Plan (MSDP) of  the  Ministry  of  Minorities  Affairs  and  the  support  extended  on  a  'first  come  first  serve'  basis  by the  Ministry  of  Human  Resources  Development (MHRD). The specific activities of minority institutions  supported  under  the  MHRD  schemes  should be part of the larger district plan prepared for minorities, particularly with regard to the convergent infrastructure approach which is recommended.
 
-21.64.  The Central Government has been implementing the SPQEM to encourage traditional institutions like madrasas and maktabs to modernise their curriculum by giving financial assistance to introduce science, mathematics, social studies, Hindi and English in their curriculum so that academic proficiency for classes I–XII is attainable for children studying in these institutions. This has enabled Muslim children to transit to higher studies and also ensured quality standards similar to the national education system. The States of UP, MP, Andhra Pradesh, Tripura and Jharkhand have been supported with teachers, book banks, science kits, computer laboratories and teacher training for madrasa teachers teaching modern subjects in about 1,000 madrasas. The Scheme for Infrastructure Development of Private Aided/Unaided Minority Institutions (IDMI) facilitates education of minorities by augmenting and strengthening of infrastructure in minority schools and expanding facilities for formal education of minority children. Over 100 minority institutions have been assisted during the Eleventh Plan Period. Both these schemes need to be continued in the Twelfth Plan with larger outlays and wider coverage of minority institutions. There is a need to ensure that all efforts for inclusion also result in improved learning outcomes for children from educationally backward communities which is essential for sustained mainstreaming of such children and their continued progress through the education system.
+21.64.  The Central Government has been implementing the SPQEM to encourage traditional institutions like madrasas and maktabs to modernise their curriculum by giving financial assistance to introduce science, mathematics, social studies, Hindi and English in their curriculum so that academic proficiency for classes I-XII is attainable for children studying in these institutions. This has enabled Muslim children to transit to higher studies and also ensured quality standards similar to the national education system. The States of UP, MP, Andhra Pradesh, Tripura and Jharkhand have been supported with teachers, book banks, science kits, computer laboratories and teacher training for madrasa teachers teaching modern subjects in about 1,000 madrasas. The Scheme for Infrastructure Development of Private Aided/Unaided Minority Institutions (IDMI) facilitates education of minorities by augmenting and strengthening of infrastructure in minority schools and expanding facilities for formal education of minority children. Over 100 minority institutions have been assisted during the Eleventh Plan Period. Both these schemes need to be continued in the Twelfth Plan with larger outlays and wider coverage of minority institutions. There is a need to ensure that all efforts for inclusion also result in improved learning outcomes for children from educationally backward communities which is essential for sustained mainstreaming of such children and their continued progress through the education system.
 
 ###### (H) Focused Efforts in Urban Areas
 
@@ -2774,7 +2520,7 @@ than distance. Migration brings huge challenges for children-regular/typical sch
 
 21.66.  Competence  of  teachers  and  their  motivation is crucial for improving the quality. This would require a number of initiatives towards ( i ) addressing teacher shortages, particularly through new and rigorous approaches to imparting teaching certifications, ( ii )  improving  the  quality  of  pre-service  teacher education,  ( iii )  improving  the  quality  of  in-service teacher  professional  development  and  options  for their  upward  career  mobility  with  special  attention to  para-teachers in many States, ( iv )  enhancing the status  of  teaching  as  a  profession  and  improving teachers' motivation to teach well and their accountability  for  ensuring learning outcomes, ( v )  improving the quality of teacher educators. It is important to  align  all  ongoing  teacher  capacity  and  capability building  exercises  to  the  achievement  of  improved learning outcomes.
 
-21.67.  Teachers  need  to  be  adequately  prepared  to deal with the realities of their schools. In many areas, particularly  rural  areas,  there  are  multi-age,  multigrade and multi-ability classrooms. This  would require  special  competencies  amongst  teachers  to not only have the necessary subject knowledge, but a  repertoire  of  pedagogical  approaches  and  techniques that help them to teach effectively to improve learning  outcomes  for  a  diverse  group  of  children. For improving teacher competence, quality of teacher training and the rigor of teaching certification  have  to  be  considerably  enhanced.  Motivating teachers is more difficult. Teachers usually get motivated when they are supported to achieve attainable learning goals for their students, and are recognised and rewarded for the same. The issue of teachers is critical and needs focus; hence, it is discussed separately later in the chapter after secondary education. Similarly,  the  issues  of  governance  and  leadership development, building community partnership and parental  engagement,  educational  leadership  and institutionalising  a  system  of  school  mentoring  are common  in  elementary  and  secondary  education sectors and are dealt later in the chapter.
+21.67.  Teachers need to be adequately prepared to deal with the realities of their schools. In many areas, particularly rural areas, there are multi-age, multi-grade and multi-ability classrooms. This would require special competencies amongst teachers to not only have the necessary subject knowledge, but a repertoire of pedagogical approaches and techniques that help them to teach effectively to improve learning outcomes for a diverse group of children. For improving teacher competence, quality of teacher training and the rigor of teaching certification have to be considerably enhanced. Motivating teachers is more difficult. Teachers usually get motivated when they are supported to achieve attainable learning goals for their students, and are recognised and rewarded for the same. The issue of teachers is critical and needs focus; hence, it is discussed separately later in the chapter after secondary education. Similarly, the issues of governance and leadership development, building community partnership and parental engagement, educational leadership and institutionalising a system of school mentoring are common in elementary and secondary education sectors and are dealt later in the chapter.
 
 ##### IV. Linkages with Other Sectors
 
@@ -2782,9 +2528,10 @@ than distance. Migration brings huge challenges for children-regular/typical sch
 
 21.69.  The  Twelfth  Plan  target  for  civil  works  is given  in  Table  21.2.  School  buildings  being  meaningful  assets,  particularly  in  rural  areas,  additional support  could  come  from  Member  of  Parliament Local  Area  Development  Scheme  (MPLADS)  and Member of the Legislative Assembly (MLA) funds as well.  A  few  States  are  already  utilising  funds  under Integrated Action Plan (IAP) and Backward Regions Grant Fund (BRGF) for strengthening school infrastructure. Besides, there is a need to tap funds from philanthropy  for  accelerated  infrastructure  building.  One  creative  way  is  to  allow  donors  to  name
 
-TABLE 21.2 Civil Works under SSA in the Twelfth Plan
+TABLE 21.2
+Civil Works under SSA in the Twelfth Plan
 
-Items | Number | Estimated Cost (` in Cr)
+Items | Number | Estimated Cost ( ` in Cr)
 --- | --- | ---
 1. New School Buildings | 67,010 | 7,685
 2. Residential Schools | 10,500 | 10,500
@@ -2818,7 +2565,7 @@ buildings or rooms or install plaques, or other such commemorative features (suc
 
 ###### Increased Role of the Private Sector
 
-21.73.  Private providers (including NGOs and nonprofits)  can  play  an  important  role  in  elementary education.  Their  legitimate  role  in  expanding  elementary education needs to be recognised and a flexible approach needs to be adopted to encourage them to  invest  in  the  sector.  The  current  licensing  and regulatory  restrictions  in  the  sector  could  be  eased and a single window approach should be adopted so that  the  process  of  opening  new  schools  by  private providers is streamlined. It is also important that the regulations be flexible and context-dependent-care needs to be taken so that schools that are serving disadvantaged  populations  effectively  do  not  get  shut down. A few States have already adopted a more flexible  approach  in  this  regard  in  framing  State  rules. In all, private players would be encouraged to set up more schools, provided they are committed to, and held accountable for, providing high-quality education and are transparent in their operations.
+21.73.  Private providers (including NGOs and non-profits) can play an important role in elementary education. Their legitimate role in expanding elementary education needs to be recognised and a flexible approach needs to be adopted to encourage them to invest in the sector. The current licensing and regulatory restrictions in the sector could be eased and a single window approach should be adopted so that the process of opening new schools by private providers is streamlined. It is also important that the regulations be flexible and context-dependent—care needs to be taken so that schools that are serving disadvantaged populations effectively do not get shut down. A few States have already adopted a more flexible approach in this regard in framing State rules. In all, private players would be encouraged to set up more schools, provided they are committed to, and held accountable for, providing high-quality education and are transparent in their operations.
 
 #### FUNDING PATTERN
 
@@ -2832,7 +2579,7 @@ Education 65
 
 #### IMPLEMENTATION, MONITORING AND EVALUATION
 
-21.75.  The  focus  in  the  Twelfth  Plan  is  to  address the weaknesses in implementation that have been a major constraint in achieving the goals of previous Plans.  Implementation  needs  to  take  into  account local  conditions,  it  would  therefore  be  desirable  to give  States  (and  even  districts)  a  lot  of  autonomy. Consequently, the approach in this Plan would be to provide clear goals and direction to States and education  departments,  provide  considerable  operational autonomy to States  on  how  to  achieve  these  goals, and invest in strong and independent monitoring of outcomes by the Central Government.
+21.75.  The focus in the Twelfth Plan is to address the weaknesses in implementation that have been a major constraint in achieving the goals of previous Plans. Implementation needs to take into account local conditions, it would therefore be desirable to give States (and even districts) a lot of autonomy. Consequently, the approach in this Plan would be to provide clear goals and direction to States and education departments, provide considerable operational autonomy to States on how to achieve these goals, and invest in strong and independent monitoring of outcomes by the Central Government.
 
 21.76.  In  implementation,  equal  emphasis  would be placed on provision of inputs for quality education  (infrastructure,  teachers,  training,  enrolment and  other  inputs)  as  well  as  ensuring  that  these inputs  translate  into  improved  processes  (attendance,  instructional  time)  and  outcomes  (retention, learning outcomes, equity). States will be encouraged to innovate and experiment with ways of achieving these  outcomes  effectively.  Innovations  can  cover a  very  broad  range  of  areas-some  of  which  may include  methods  for  systematic  assessment  of  student learning, improved teacher training, innovative pedagogies  in  the  classroom  including  those  that leverage technology in the classroom, supplemental instruction for first-generation learners, methods for improving teacher motivation and effectiveness, and methods for leveraging resources from third parties for  improving  education.  States  may  also  become partners  with  appropriate  third  parties  to  provide key capabilities that may help these goals. States will be  encouraged  to  carefully  document  and  evaluate these initiatives and to share best practices with other States and with the Centre.
 
@@ -2880,7 +2627,7 @@ Education 67
 
 21.86.  With a dramatic growth in elementary education enrolments and improvements in retention and transition rates in recent years, particularly amongst the more disadvantaged groups, there is an increasing pressure on the secondary schools to admit more students. With the enforcement of RTE Act and further improvement in retention and transition rates, demand  for  secondary  schooling  will  grow  rapidly in  the  coming  years.  Meeting  this  demand  is  critical for three reasons. First, the secondary education fulfils  large  manpower needs of the semi-organised and the organised sectors of the economy. Second, it is the supply chain for higher education. And, finally, it caters to the needs of teachers for primary schooling. Low participation rates and poor quality at the secondary stage are a bottleneck in improving both the higher education participation and the schooling at the elementary stage.
 
-21.87.  Further,  there  are  both  social  and  economic benefits of secondary schooling. While there are clear improvements in health, gender equality and living conditions  with  secondary  education,  investments in secondary schooling have high marginal rates of return.  Thus,  the  country  needs  to  move  towards universalisation of opportunity to attend secondary schooling  of  adequate  quality.  With  enrolment  in elementary education reaching near universal levels, there would be an opportunity to move towards universal  access  to  secondary  education.  The  current GER for the combined secondary and senior secondary stages (Classes IX-XII) in 2009-10 at about 50 per cent  is  woefully  low.  Thus,  the  capacity  of  the  secondary  schooling  system  has  to  be  expanded  significantly. There are very large inequalities in access to  secondary  education,  by  income,  gender,  social group  and  geography.  The  average  quality  of  secondary  education  is  very  low.  Thus,  urgent  efforts are  needed  to  improve  its  quality.  The  challenge  is to dramatically improve access, equity and quality of secondary education simultaneously.
+21.87.  Further, there are both social and economic benefits of secondary schooling. While there are clear improvements in health, gender equality and living conditions with secondary education, investments in secondary schooling have high marginal rates of return. Thus, the country needs to move towards universalisation of opportunity to attend secondary schooling of adequate quality. With enrolment in elementary education reaching near universal levels,
 
 [[END OF PAGE 85]]
 
@@ -2890,6 +2637,8 @@ Education 67
 
 Twelfth Five Year Plan
 
+there would be an opportunity to move towards universal access to secondary education. The current GER for the combined secondary and senior secondary stages (Classes IX-XII) in 2009-10 at about 50 per cent is woefully low. Thus, the capacity of the secondary schooling system has to be expanded significantly. There are very large inequalities in access to secondary education, by income, gender, social group and geography. The average quality of secondary education is very low. Thus, urgent efforts are needed to improve its quality. The challenge is to dramatically improve access, equity and quality of secondary education simultaneously.
+
 21.88.  India has a long  tradition  of  partnership between the public and private sectors in secondary education. There are four types of schools: ( i )  government-established by State Governments (as well as some Centrally established institutions); ( ii ) local body-established by elected local government bodies;  ( iii )  aided  schools-private schools that receive State  Government  grants-in-aid;  and  ( iv )  private unaided  schools.  Most  of  the  growth  of  secondary schools in the private sector in the last two decades has  occurred  among  unaided  schools  (25  per  cent of  schools).  About  60  per  cent  of  schools  are  now aided  or  unaided.  It  is  essential,  therefore,  that  the private sector's capabilities and potential are tapped through innovative public-private partnerships, while concurrently stepping up public investment by the Central and State Governments at the secondary level. And given that the presence of private schools varies  considerably  across  States,  context-specific solutions need to be promoted.
 
 21.89.  While  private  provision  in  secondary  education  should  be  fostered  wherever  feasible,  the  government  will  have  to  take  the  prime  responsibility to  provide  access  to  disadvantaged  sections  and  to bridge  the  rural/urban,  regional,  gender  and  social group gaps. Simultaneously, government must invest in teacher education and accountability, curriculum reform, quality assurance, examinations reform, national  assessment  capabilities  and  management information  systems,  which  will  require  time  and significant institutional capacity building to succeed at a national scale.
@@ -2898,24 +2647,25 @@ Twelfth Five Year Plan
 
 21.90.  GERs at the secondary (Class IX-X) and senior secondary (Class XI- XII) levels are 62.7 per cent and 35.9  per  cent,  respectively,  leading  to  a  combined GER for Class IX-XII at a considerably low 49.3 per cent  (see  Table  21.3).  The  significant  dip  in  GERs from secondary to senior secondary level for all categories  is  driven  by  a  number  of  factors  including
 
-TABLE 21.3 GER for Secondary Education by Social Groups (2009–10)
+TABLE 21.3
+GER for Secondary Education by Social Groups (2009-10)
 
  | SCs | STs | Non-SCs/STs | Overall
 --- | --- | --- | --- | ---
-Secondary Level |  |  |  | 
+Secondary Level
 Boys | 71.19 | 54.24 | 67.02 | 66.65
 Girls | 63.50 | 44.22 | 58.97 | 58.45
 Total | 67.58 | 49.41 | 63.13 | 62.71
-Senior Secondary Level |  |  |  | 
+Senior Secondary Level
 Boys | 37.42 | 31.36 | 39.17 | 38.31
 Girls | 33.48 | 22.32 | 34.39 | 33.31
 Total | 35.60 | 26.91 | 36.88 | 35.92
-Both Secondary and Senior Secondary Level |  |  |  | 
+Both Secondary and Senior Secondary Level
 Boys | 54.52 | 43.45 | 52.86 | 52.39
 Girls | 48.86 | 33.68 | 46.54 | 45.86
 Total | 51.88 | 38.70 | 49.82 | 49.26
 
-Source: Selected Education Statistics, Ministry of HRD, 2009–10.
+Source: Selected Education Statistics, Ministry of HRD, 2009-10.
 
 [[END OF PAGE 86]]
 
@@ -2923,17 +2673,17 @@ Source: Selected Education Statistics, Ministry of HRD, 2009–10.
 
 Education 69
 
- | 1999–2000 | 2009–10
+ | 1999-2000 | 2009-10
 --- | --- | ---
-States with low GER |  | 
+States with low GER
 Jharkhand | 26 | 29
 Bihar | 23 | 35
 Assam | 46 | 49
-States with high GER |  | 
+States with high GER
 Kerala | 81 | 98
 Himachal Pradesh | 74 | 89
 Tamil Nadu | 61 | 82
-International comparison |  | 
+International comparison
 India | 43 | 63
 China | 61 | 78
 Indonesia | n/a | 79
@@ -2944,7 +2694,7 @@ Developed countries | 100 | 100
 Developing countries | 52 | 63
 World Average | 59 | 68
 
-Source: Selected Education Statistics, Ministry of HRD, 2009–10, EFA-GMR-2011 and UIS.
+Source: Selected Education Statistics, Ministry of HRD, 2009-10, EFA-GMR-2011 and UIS.
 
 FIGURE 21.1: GER for Secondary Education: By States/Select Countries
 (High/Low GER States and International Comparisons)
@@ -2955,7 +2705,7 @@ general lack of access, paucity of public schools, high cost of private senior s
 
 21.92.  Within the relatively low GER at the secondary  level,  there  are  wide  regional  and  inter-State variations.  Among  the  major  States,  secondarylevel  GERs  are  as  low  as  29  per  cent  in  Jharkhand and 35 per cent in Bihar and as high as 89 per cent in  Himachal Pradesh and 98 per cent in Kerala, as compared to the national level (62.7 per cent). At the Senior Secondary level, the GER ranges from being very low at 6.5 per cent in Jharkhand and 13 per cent in Assam and quite high at 60 per cent in Haryana and 69 per cent in Himachal Pradesh. In addition, in some States like Rajasthan and MP, the gender gap in GER is as wide as 20 per cent.
 
-21.93.  In  India,  only  5  per  cent  of  the  population of 19–24 age group has acquired some sort of skills through vocational education, while the corresponding figure for Korea is as high as 96 per cent. The  National  Knowledge  Commission  has  recommended  expansion  and  re-designing  of  vocational education  and  improvement  of  its  quality.  The mid-term  appraisal  of  the  Eleventh  Plan  emphasised the need for curriculum revision in vocational education,  appropriate  certification  by  accrediting
+21.93.  In India, only 5 per cent of the population of 19-24 age group has acquired some sort of skills through vocational education, while the corresponding figure for Korea is as high as 96 per cent. The National Knowledge Commission has recommended expansion and re-designing of vocational education and improvement of its quality. The mid-term appraisal of the Eleventh Plan emphasised the need for curriculum revision in vocational education, appropriate certification by accrediting
 
 [[END OF PAGE 87]]
 
@@ -2982,7 +2732,7 @@ agencies, horizontal and vertical mobility with multiple entry/exit possibilitie
 
 ##### Other Schemes
 
-21.98.  In  addition  to  the  RMSA,  the  following  five Centrally sponsored schemes were launched during the  Eleventh  Plan:  ( i )  setting  up  of  model  schools; ( ii ) setting up girls' hostels in secondary and senior secondary  schools;  ( iii )  National  Scheme  of  Incentive  to  Girls  for  Secondary  Education  (NSIGSE); ( iv )  Inclusive  Education  for  the  Disabled  at  the Secondary  Stage  (IEDSS);  and  ( v )  National  Meritcum-Means Scholarship scheme (NMMS). In addition,  the  ongoing  scheme  of  ICT  in  Schools  was revised.  The  targets  and  achievements  under  these schemes  are  given  in  Table  21.5.  In  addition,  the scheme of vocational stream at the +2 stage that was launched in 1988 and revised in 1992-93 was continued  after  further  revision  as  approved  in  2011. Despite massive infrastructure of 21,000 Sections in over 10,000 schools for vocational streams catering
+21.98.  In addition to the RMSA, the following five Centrally sponsored schemes were launched during the Eleventh Plan: ( i ) setting up of model schools; ( ii ) setting up girls' hostels in secondary and senior secondary schools; ( iii ) National Scheme of Incentive to Girls for Secondary Education (NSIGSE); ( iv ) Inclusive Education for the Disabled at the Secondary Stage (IEDSS); and ( v ) National Merit-cum-Means Scholarship scheme (NMMS). In addition, the ongoing scheme of ICT in Schools was revised. The targets and achievements under these schemes are given in Table 21.5. In addition, the scheme of vocational stream at the +2 stage that was launched in 1988 and revised in 1992-93 was continued after further revision as approved in 2011. Despite massive infrastructure of 21,000 Sections in over 10,000 schools for vocational streams catering
 
 [[END OF PAGE 88]]
 
@@ -2992,7 +2742,8 @@ Education
 
 71
 
-TABLE 21.4 RMSA: Achievement in the Eleventh Plan
+TABLE 21.4
+RMSA: Achievement in the Eleventh Plan
 
 Sl. No. | Items | Target | Achievement (Approved)
 --- | --- | --- | ---
@@ -3006,29 +2757,32 @@ Sl. No. | Items | Target | Achievement (Approved)
 
 Source: Department of School Education and Literacy, Govt. of India.
 
-TABLE 21.5 Centrally Sponsored Schemes for Secondary Education
+TABLE 21.5
+Centrally Sponsored Schemes for Secondary Education
 Target/Achievements in the Eleventh Plan
 
 Sl. No. | Schemes | Start Year | Target | Achievement
 --- | --- | --- | --- | ---
-1. | Model Schools (a) EBB (KV Template) | 2009–10 | 3,500 | 1,940
- | (b) Non-EBB (PPP Mode) | 2012–13 | 2,500 | –
-2. | Girls' hostels | 2008–09 | 3,479 | 958
-3. | Inclusive Education for Disabled at the Secondary Stage (a) Beneficiaries (in lakh) | 2009–10 | – | 10.76
- | (b) School Covered (in lakh) | 2009–10 | – | 2.18
-4. | NSIGSE (in lakh) | 2008–09 | – | 12.60
-5. | NMMS (in lakh) | 2008–09 | 4.0 | 1.04
-6. | ICT in Schools |  |  | 
- | (a) School covered (nos.) | 2009–10 (Revised) | – | 90,209
- | (b) Smart Schools (nos.) | 2009–10 (Revised) | 150 | 63
+1. | Model Schools (a) EBB (KV Template) | 2009-10 | 3,500 | 1,940
+(b) Non-EBB (PPP Mode) | 2012-13 | 2,500 | -
+2. | Girls' hostels | 2008-09 | 3,479 | 958
+3. | Inclusive Education for Disabled at the Secondary Stage (a) Beneficiaries (in lakh) | 2009-10 | - | 10.76
+(b) School Covered (in lakh) | 2009-10 | - | 2.18
+4. | NSIGSE (in lakh) | 2008-09 | - | 12.60
+5. | NMMS (in lakh) | 2008-09 | 4.0 | 1.04
+6. | ICT in Schools
+(a)School covered (nos.) | 2009-10 (Revised) | - | 90,209
+(b) Smart Schools (nos.) | 2009-10 (Revised) | 150 | 63
 
 Source: Department of School Education and Literacy, MHRD. Govt. of India.
 
 to  over  1  million  students,  only  about  4.8  per  cent of all students are enrolled in the vocational streams against  a  target  of  covering  25  per  cent  of  such students.
 
-21.99.  There are 1,740 schools (Kendriya Vidyalayas—1,092, Jawahar Navodaya Vidyalayas—586 and Central Tibetan Schools—62) with an enrolment of about 13 lakh students that are directly under the Central Government. These schools usually outperform other schools both academically and otherwise and hence there is demand for more such schools all over the country. During the Eleventh Plan, over 100 new schools were set up. In addition, there are Sainik Schools and Eklavya Residential Schools under Ministry of Defence and Ministry of Tribal Welfare under the Central Government, respectively.
+21.99.  There are 1,740 schools (Kendriya Vidyalayas—1,092, Jawahar Navodaya Vidyalayas—586 and Central Tibetan Schools—62) with an enrolment of about 13 lakh students that are directly under the Central Government. These schools usually outperform other schools both academically and otherwise and hence there is demand for more such schools all over the country. During the Eleventh Plan, over 100
 
-21.100.  The apex bodies in school education, National University of Educational Planning and Administration (NEUPA) for policy, planning and data collection, National Council of Education Research and Training (NCERT) for curriculum design, and developing textbooks and teaching–learning materials for school education, Central Board of Secondary Education (CBSE) for affiliation, examination and assessment and National Institute for Open Schooling (NIOS) were very active during the Eleventh Plan and played a key role in school education reforms.
+new schools were set up. In addition, there are Sainik Schools and Eklavya Residential Schools under Ministry of Defence and Ministry of Tribal Welfare under the Central Government, respectively.
+
+21.100.  The apex bodies in school education, National University of Educational Planning and Administration (NUEPA) for policy, planning and data collection, National Council of Education Research and Training (NCERT) for curriculum design, and developing textbooks and teaching–learning materials for school education, Central Board of Secondary Education (CBSE) for affiliation,
 
 [[END OF PAGE 89]]
 
@@ -3037,6 +2791,8 @@ to  over  1  million  students,  only  about  4.8  per  cent of all students are
 72
 
 Twelfth Five Year Plan
+
+examination and assessment and National Institute for Open Schooling (NIOS) were very active during the Eleventh Plan and played a key role in school education reforms.
 
 #### TWELFTH PLAN STRATEGY
 
@@ -3062,7 +2818,7 @@ Twelfth Five Year Plan
 
 21.103.  Strategies for universal secondary education must be based on population projection of the secondary education age group. There have been some projection  exercises  for  some  States  on  secondary age  group  population  and  demand  for  secondary education  depending  upon  population  growth  rate and rate of transition from elementary to secondary education corrected by dropout factor. Some States are already stagnating, some will reach the peak by 2016-17,  some  will  stabilise  only  by  2025.  Microplanning  for  secondary  education  is  hence  necessary with proper future projections. Each State may devise a 10-year perspective plan for school education that would cover the period till the end of the Fourteenth Plan.
 
-21.104.  Enrolment  in  more  than  one-third  of  the secondary schools in the country is less than 80 students per school. The numbers of such schools are about  40,000  and  16,000  in  rural  and  urban  areas, respectively. About one-half of the rural schools are government funded. Secondary and higher secondary schools must be viable and large enough to benefit from investment on quality. The fact is that it is much harder to have good-quality education in very small  schools  with  few  teachers.  The  consolidation in secondary education will be achieved by ( i ) creating more and more composite schools from grades 1 to 12; ( ii ) upgrading primary schools into elementary schools in phases to fulfil the commitments of RTE-universal  elementary  education;  ( iii )  upgrading  every  third  elementary  school  to  a  secondary  school;  ( iv )  upgrading  every  fourth  Secondary School  to  a  Higher  Secondary  School  by  adding additional  classrooms,  laboratories,  strengthening libraries  and  sports  and  games  facilities  and  teachers.  The  cost  of  additional  classrooms  and  facilities  will  be  far  less  than  establishing  new  schools. New schools will be set up only in un-served areas. Provision of transport, especially in rural areas, will be made for schools to avoid school dropout, especially among girls and economically weaker sections due  to  non-availability  of  schools  within  'walking distance'.  The  transport  facility  will  be  more  costeffective and socially acceptable than setting up hostels. Nonetheless, hostel facilities would be provided in these schools on a priority basis in order to make them operationally viable in terms of teacher deployment  and  provision  of  other  infrastructure  facilities.  In  the  unaided  private  sector,  there  are  about 25,000  schools  operating  with  enrolments  of  less than  80  pupils,  per  school.  Efforts  are  required  to utilise the surplus intake capacity in these schools to meet  additional  demand  for  secondary  education. There are about 14,000 such schools located in rural areas. These schools may also be incentivised to cater to the educational needs of disadvantaged groups in their neighbourhoods.
+21.104.  Enrolment in more than one-third of the secondary schools in the country is less than 80 students per school. The numbers of such schools are about 40,000 and 16,000 in rural and urban areas, respectively. About one-half of the rural schools are government funded. Secondary and higher secondary schools must be viable and large enough to benefit from investment on quality. The fact is that it is much harder to have good-quality education in very small schools with few teachers. The consolidation in secondary education will be achieved by ( i ) creating more and more composite schools from grades 1 to 12; ( ii ) upgrading primary schools into elementary schools in phases to fulfil the commitments of RTE-universal elementary education; ( iii ) upgrading every third elementary school to a secondary school; ( iv ) upgrading every fourth Secondary School to a Higher Secondary School by adding additional classrooms, laboratories, strengthening libraries and sports and games facilities and teachers. The cost of additional classrooms and facilities will be far less than establishing new schools. New schools will be set up only in un-served areas. Provision of transport, especially in rural areas, will be made for schools to avoid school dropout, especially among girls and economically weaker sections due to non-availability of schools within 'walking distance'. The transport facility will be more cost-effective and socially acceptable than setting up hostels. Nonetheless, hostel facilities would be provided in these schools on a priority basis in order to make them operationally viable in terms of teacher deployment and provision of other infrastructure facilities. In the unaided private sector, there are about 25,000 schools operating with enrolments of less than 80 pupils, per school. Efforts are required to utilise the surplus intake capacity in these schools to meet additional demand for secondary education. There are about 14,000 such schools located in rural
 
 [[END OF PAGE 90]]
 
@@ -3072,11 +2828,13 @@ Education
 
 73
 
+areas. These schools may also be incentivised to cater to the educational needs of disadvantaged groups in their neighbourhoods.
+
 21.105.  Several institutions of higher education have vast tracts of unutilised or underutilised land. Model schools/JNVs/KVs  could  be  set  up  in  such  places. The public sector should also concentrate on opening new secondary schools in un-served and difficult areas where availability of land is not a major constraint. Second shift operations in schools in thickly populated areas and urban slums should also be evaluated. Overall, the strategy should be on consolidation by better use of existing land, infrastructure and physical  facilities  through  resource-mapping  and leveraging  private  and  non-governmental  expertise and resources to improve the quality of education.
 
 ##### Facilitating Private Growth
 
-21.106.  The  role  of  the  private  sector  in  secondary  schooling  can  be  further  strengthened  through right policies, proper regulation, innovative publicprivate  partnerships  and  a  variety  of  demand-side financing measures that improve accountability and enhance parental choice, thereby achieving all three objectives  of  access,  quality  and  equity  in  secondary  education.  This  would  require  easing  of  entry barriers  with  dismantling  of  multiple  licensing  systems  and  procedures  and  the  State  Governments should revisit norms including requirement of land for setting up institutions. Many States have school land norms laid down in the 1960s and 1970s which need to  be  immediately  revisited.  A  single  window approach  needs  to  be  adopted  to  facilitate  barrier free  entry  of  private  institutions  including  online monitoring  of  application  status  for  setting  up  of new schools. Suitable taxation and land policies are needed to encourage expansion of secondary schools in  the  private  sector,  along  with  concessional  loans for  NGOs, trusts and registered societies for building  new  schools  or  improving  the  infrastructure  of existing schools. Most of the publicly funded schools that have been in existence for some time have large open spaces, particularly those in rural areas. Most of these old school buildings require repair and upgradation and, in several cases, reconstruction. SSA and RMSA do not fund the reconstruction of old schools.
+21.106.  The role of the private sector in secondary schooling can be further strengthened through right policies, proper regulation, innovative public–private partnerships and a variety of demand-side financing measures that improve accountability and enhance parental choice, thereby achieving all three objectives of access, quality and equity in secondary education. This would require easing of entry barriers with dismantling of multiple licensing systems and procedures and the State Governments should revisit norms including requirement of land for setting up institutions. Many States have school land norms laid down in the 1960s and 1970s which need to be immediately revisited. A single window approach needs to be adopted to facilitate barrier free entry of private institutions including online monitoring of application status for setting up of new schools. Suitable taxation and land policies are needed to encourage expansion of secondary schools in the private sector, along with concessional loans for NGOs, trusts and registered societies for building new schools or improving the infrastructure of existing schools. Most of the publicly funded schools that have been in existence for some time have large open spaces, particularly those in rural areas. Most of these old school buildings require repair and upgradation and, in several cases, reconstruction. SSA and RMSA do not fund the reconstruction of old schools.
 
 Some portion of the land area could be evaluated to be  leased  out  to  private  schools  under  contractual obligation  of  the  lessor  for  reconstruction  of  existing  government  school  building.  The  contractual agreement should provide for access of government school  children  to  laboratory,  library  and  common playfield facilities of the private partner in the same campus.
 
@@ -3108,7 +2866,7 @@ Twelfth Five Year Plan
 
 ##### SCHOOL BOARDS FOR ACADEMIC TRANSFORMATION
 
-21.113.  Exceptions apart, currently, all School Boards  function  exclusively  as  examining  bodies. During the Twelfth Plan, the School Boards should be enabled to take up leadership for reforms in the school  system.  They  must  remodel  themselves  in such  a  way  that  they  have  strong  academic  and  IT divisions closely coordinating with examination
+21.113.  Exceptions apart, currently, all School Boards function exclusively as examining bodies. During the Twelfth Plan, the School Boards should be enabled to take up leadership for reforms in the school system. They must remodel themselves in such a way that they have strong academic and IT divisions closely coordinating with examination
 
 [[END OF PAGE 92]]
 
@@ -3118,6 +2876,14 @@ Education
 
 75
 
+Box 21.5 CBSE Examination Reforms
+
+Class X Board Examination has been made optional from the year 2011 for students studying in CBSE's Secondary Schools and who do not wish to move out of the CBSE system after Class X.
+
+Continuous  and  Comprehensive  Evaluation  (CCE)  has  been  strengthened  in  all  CBSE-affiliated schools from  October 2009 onwards in Class IX, wherein both scholastic and co-scholastic areas, including life skills of the students, are assessed on an ongoing basis for their holistic development.
+
+In order to bring greater objectivity in reporting of performance and to reduce stress and undesirable competition, a system of grading in place of marks has been introduced.
+
 and administration divisions for academic transformation and capacity building. They should take upon themselves the role of capacity building of the school principals, headmasters, teachers and even parents. Quality initiatives taken up by some School Boards like the CBSE should be promoted as national programmes. Among the important initiatives are producing quality-assured digital content in local language and encouraging teachers to create their own content and upload on a common web portal, provisioning affordable ICT facilities in classrooms, ICT-integrated education supported by LMS, Continuous and Comprehensive Evaluation for reducing stress on students through adopting scientific techniques of evaluation, School Quality Assessment and Accreditation for Social Accountability, and such others. All State boards must be encouraged and supported wherever necessary for implementing these quality interventions. CoBSE shall catalyse this development. The voluntary association of School Boards and CoBSE needs to be strengthened and made much more effective. Most School Boards are financially sound and may not need additional funding.
 
 ##### Development of School Leadership
@@ -3126,15 +2892,7 @@ and administration divisions for academic transformation and capacity building. 
 
 ##### School Quality Assessment and Accreditation
 
-21.115.  A School Quality Assessment and Accreditation System would be established to cover all aspects of school functioning, including scholastic and co-scholastic domains, physical infrastructure, faculty management, school leadership, learning outcomes and satisfaction of pupils and their parents/guardians. This system should be in sync with similar accreditation systems in advanced countries and in CBSE-affiliated schools. Examination reforms are needed to promote the acquisition of analytical and thinking skills amongst students rather than emphasising rote learning. The Government is already committed to developing a national assessment survey at grade X, which could lead the way to new forms of learning assessment, and which will enable cross-State comparisons of performance to be made. Schools should be encouraged to work towards achieving average international standards and this effort should be led by the Centrally funded KVs and JNVs, which would function as exemplars. There are half-a-dozen States with GERs above the world average.
-
-###### Box 21.5 CBSE Examination Reforms
-
-Class X Board Examination has been made optional from the year 2011 for students studying in CBSE's Secondary Schools and who do not wish to move out of the CBSE system after Class X.
-
-Continuous and Comprehensive Evaluation (CCE) has been strengthened in all CBSE-affiliated schools from October 2009 onwards in Class IX, wherein both scholastic and co-scholastic areas, including life skills of the students, are assessed on an ongoing basis for their holistic development.
-
-In order to bring greater objectivity in reporting of performance and to reduce stress and undesirable competition, a system of grading in place of marks has been introduced.
+21.115.  A  School  Quality  Assessment  and  Accreditation  System  would  be  established  to  cover  all aspects  of  school  functioning,  including  scholastic and  co-scholastic  domains,  physical  infrastructure, faculty management,  school  leadership, learning outcomes  and  satisfaction  of  pupils  and  their  parents/guardians. This system should be in sync with similar accreditation systems in advanced countries and in CBSE-affiliated schools. Examination reforms are  needed  to  promote  the  acquisition  of  analytical and  thinking  skills  amongst  students  rather than emphasising rote learning. The Government is already  committed to developing a national assessment survey  at  grade  X,  which  could  lead  the  way to  new  forms  of  learning  assessment,  and  which will enable cross-State comparisons of performance to be made. Schools should be encouraged to work towards  achieving  average  international  standards and this effort should be led by the Centrally funded KVs and JNVs, which would function as exemplars. There are half-a-dozen States with GERs above the world average.
 
 [[END OF PAGE 93]]
 
@@ -3158,7 +2916,7 @@ In order to bring greater objectivity in reporting of performance and to reduce 
 
 21.120.  Recognising  the  fact  that  younger  children learn and acquire skills faster, skills training of elementary  nature,  for  example,  manipulating  simple instruments  at  the  elementary  level,  and  pre-vocational  courses  as  an  alternative  to  work  education would be offered in Class IX and X. Students who take these  pre-vocational  options  could  be  encouraged and facilitated to take up advanced vocational subjects at the higher secondary level. In addition, vertical mobility options for students taking vocational courses should be available at the undergraduate and postgraduate level. For high-quality vocational education at school level to evolve and grow in the country, there is a need to train and equip teachers on a continuous basis with the latest skills and pedagogy techniques in vocational education.
 
-21.121.  The vocational curriculum needs to be integrated and closely aligned with the academic curriculum and should contain modules on various generic and  specific  vocational  skills  for  which  industry should be involved. There should be an emphasis on development  of  generic  and  multiple  skills  so  that trainees/students  may  respond  to  changes  in  technology and market demands. The revised scheme of vocationalisation of secondary education should be revisited  based  on  the  pilots  that  have  been  undertaken to test and to ensure that it is aligned with the new qualifications framework and industry-led sector skill councils, so that vocationalisation does not become an expensive dead end for students. Given the different economic contexts across the country, system of monitoring and evaluation of the scheme must be strengthened.
+21.121.  The vocational curriculum needs to be integrated and closely aligned with the academic curriculum and should contain modules on various generic and specific vocational skills for which industry should be involved. There should be an emphasis on development of generic and multiple skills so that trainees/students may respond to changes in technology and market demands. The revised scheme of vocationalisation of secondary education should be
 
 [[END OF PAGE 94]]
 
@@ -3167,6 +2925,8 @@ In order to bring greater objectivity in reporting of performance and to reduce 
 Education
 
 77
+
+revisited based on the pilots that have been undertaken to test and to ensure that it is aligned with the new qualifications framework and industry-led sector skill councils, so that vocationalisation does not become an expensive dead end for students. Given the different economic contexts across the country, system of monitoring and evaluation of the scheme must be strengthened.
 
 #### TWELFTH PLAN INITIATIVES
 
@@ -3222,7 +2982,7 @@ Twelfth Five Year Plan
 
 will  be  implemented  from  the  secondary  stage onward.
 
-21.129.  The  National  Scheme  of  Incentive  to  Girls for Secondary Education will be continued as separate  scheme.  Schemes  that  are  based  on  specific proposals from the States could easily be integrated within the composite RMSA. MHRD could provide financial assistance to the State/UTs for ( i ) appointment and training of Hindi teachers in non-Hindispeaking States/UTs; ( ii ) appointment of Urdu teachers and grant of honorarium for teaching Urdu; ( iii )  appointment  of  teachers  of  Modern  Indian Language  (other  than  Hindi)  in  Hindi-speaking States/UTs;  ( iv )  appointment  of  Urdu  Teachers  in any locality  where more than 25 per cent are from Urdu language-speaking group.
+21.129.  The National Scheme of Incentive to Girls for Secondary Education will be continued as separate scheme. Schemes that are based on specific proposals from the States could easily be integrated within the composite RMSA. MHRD could provide financial assistance to the State/UTs for ( i ) appointment and training of Hindi teachers in non–Hindi-speaking States/UTs; ( ii ) appointment of Urdu teachers and grant of honorarium for teaching Urdu; ( iii ) appointment of teachers of Modern Indian Language (other than Hindi) in Hindi-speaking States/UTs; ( iv ) appointment of Urdu Teachers in any locality where more than 25 per cent are from Urdu language-speaking group.
 
 ##### Vocational Education
 
@@ -3274,7 +3034,7 @@ Twelfth Five Year Plan
 
 ##### National Means-Cum-Merit Scholarship
 
-21.138.  This scheme will be continued in the Twelfth Plan to award 1,00,000 scholarships each year, at class IX stage. The scheme should have reached a targeted coverage of 4 lakh scholarship by 2011–12. Reasons for poor performance of the scheme should be studied and remedial action taken. The States in which the number of candidates selected is low in comparison with the quota allotted to them may require remedial classes for students. There is a need for wider publicity for the scheme to generate awareness. There are several NGOs, Foundations and Corporate organisations which offer merit-cum-means scholarship to students in schools. To avoid duplication and avoidable waste of resources, a database of all such agencies will be developed; similarly, a database of all beneficiaries will be created so that scholars can be traced for evaluation of the scheme and for improving its effectiveness.
+21.138.  This scheme will be continued in the Twelfth Plan to award 1,00,000 scholarships each year, at class IX stage. The scheme should have reached a targeted coverage of 4 lakh scholarship by 2011-12. Reasons for poor performance of the scheme should be studied and remedial action taken. The States in which the number of candidates selected is low in comparison with the quota allotted to them may require remedial classes for students. There is a need for wider publicity for the scheme to generate awareness. There are several NGOs, Foundations and Corporate organisations which offer merit-cum-means scholarship to students in schools. To avoid duplication and avoidable waste of resources, a database of all such agencies will be developed; similarly, a database of all beneficiaries will be created so that scholars can be traced for evaluation of the scheme and for improving its effectiveness.
 
 ##### Schools under the Central Government
 
@@ -3304,7 +3064,7 @@ Education 81
 
 #### USE OF TECHNOLOGY IN EDUCATION
 
-21.147.  Most of the secondary schools have limited availability  of  computer  facilities.  This  constrains the students from acquiring ICT-related skills essential  in  the  knowledge  economy and limits teachers' ability  to  upgrade  their  subject-matter  knowledge and  students'  ability  to  access  essential  learning materials. ICT can potentially make significant difference  in  improving  quality.  The  National  Policy of ICT in School Education envisions and provides for the development of a holistic framework of ICT support in the school system. Mission Mode Project (MMP)  on  School  Education  is  now  under  the National  e-Governance  Plan  (NeGP).  This  would enable  comprehensive  technology  enablement  of the  school  education  sector.  More  specifically,  this would cover:
+21.147.  Most of the secondary schools have limited availability of computer facilities. This constrains the students from acquiring ICT-related skills essential in the knowledge economy and limits teachers' ability to upgrade their subject-matter knowledge and students' ability to access essential learning
 
 [[END OF PAGE 99]]
 
@@ -3313,6 +3073,8 @@ Education 81
 82
 
 Twelfth Five Year Plan
+
+materials. ICT can potentially make significant difference in improving quality. The National Policy of ICT in School Education envisions and provides for the development of a holistic framework of ICT support in the school system. Mission Mode Project (MMP) on School Education is now under the National e-Governance Plan (NeGP). This would enable comprehensive technology enablement of the school education sector. More specifically, this would cover:
 
 - Developing  ICT  skills  of  all  heads  of  schools, teachers, non-teaching staff and students;
 
@@ -3330,9 +3092,9 @@ Twelfth Five Year Plan
 
 #### TEACHER EDUCATION
 
-21.150.  There is a large number of teacher vacancies in the school system. An estimated 12.58 lakh (5.64 lakh old and 6.94 lakh newly sanctioned under SSA ) vacancies  exist  at  the  elementary  level.  These  are mainly accounted for by six States: UP (3.12 lakh), Bihar (2.62 lakh), West Bengal (1.81 lakh), MP (0.89 lakh), Chhattisgarh (0.62 lakh) and Rajasthan (0.51 lakh).  Several  States  in  the  North,  East  and  NorthEastern regions have an acute problem of untrained teachers. Therefore, pre-service and in-service training  of  teachers  needs  to  be  mounted  on  a  mission mode during the Twelfth Plan. In particular, modular teacher training programmes should be developed so that para-teachers can attend training courses during the  summer and winter vacations and get formally qualified over a three- to five-year period. In-service training  using  technology  and  innovative  delivery methods could address the problem of poor quality of existing teachers.
+21.150.  There is a large number of teacher vacancies in the school system. An estimated 12.58 lakh (5.64 lakh old and 6.94 lakh newly sanctioned under SSA) vacancies exist at the elementary level. These are mainly accounted for by six States: UP (3.12 lakh), Bihar (2.62 lakh), West Bengal (1.81 lakh), MP (0.89 lakh), Chhattisgarh (0.62 lakh) and Rajasthan (0.51 lakh). Several States in the North, East and North-Eastern regions have an acute problem of untrained teachers. Therefore, pre-service and in-service training of teachers needs to be mounted on a mission mode during the Twelfth Plan. In particular, modular teacher training programmes should be developed so that para-teachers can attend training courses during the summer and winter vacations and get formally qualified over a three- to five-year period. In-service training using technology and innovative delivery methods could address the problem of poor quality of existing teachers.
 
-21.151.  In  order  to  address  the  issue  of  availability and quality  of  teachers  for  the  school  system,  each State must maintain a detailed district-wise database of  teachers,  teacher  educators  and  teacher  education  institutions.  National  professional  standards for teachers and teacher educators must be evolved. These  must  be  used  as  a  basis  for  designing  pre-service and in-service training programmes and their performance  assessment  processes  for  professional
+21.151.  In order to address the issue of availability and quality of teachers for the school system, each State must maintain a detailed district-wise database of teachers, teacher educators and teacher education institutions. National professional standards for teachers and teacher educators must be evolved. These must be used as a basis for designing pre-service and in-service training programmes and their performance assessment processes for professional
 
 [[END OF PAGE 100]]
 
@@ -3354,7 +3116,7 @@ development. A system of teacher performance appraisal and feedback needs to be 
 
 21.155.  Distance-cum-contact  degree  programmes, increased  use  of  ICT  in  regular  programmes  and adopting  learn-work-learn  cycles  as  an  alternative to  one-shot  training  would  also  be  promoted.  The professionals and BRCs/CRCs should be organically linked  with  DIETs  under  SCERT  with  knowledge capital  infusion.  It  is  essential  that  all  these  institutions  are  headed  by  professionals  with  appropriate qualification,  experience,  competence  and  vision.  A large number of institutions and individuals must be identified to develop material for teachers and teacher educators  in  Indian  languages  based  on  curricular needs of pre-service programmes to begin with.
 
-21.156.  Linkages of teacher education institutes with each  other,  for  example,  of  DIETs  with  CTEs  and IASEs,  and  with  the  field,  for  example,  the  school system and NGOs operating in the sector need to be strengthened across the country such that academics and practitioners can work together towards the improvement of teacher education and school education  more  broadly.  There  should  be  effective  use of technology as a tool for teacher education where special  modules  could  be  imparted  to  candidates across different geographical locations. These modules should integrate video lectures of professionals and  highly  reputed  facilitators  with  careful  selection of content. This can be combined with practical 'hands on' training in school environments in identified schools. Videos of best practices in teaching and pedagogy in Indian languages should be made available at these centres. Innovative alternate paths that would also allow lateral entry of talent from various
+21.156.  Linkages of teacher education institutes with each  other,  for  example,  of  DIETs  with  CTEs  and IASEs,  and  with  the  field,  for  example,  the  school system and NGOs operating in the sector need to be strengthened across the country such that academics and practitioners can work together towards the improvement of teacher education and school education  more  broadly.  There  should  be  effective  use of technology as a tool for teacher education where special  modules  could  be  imparted  to  candidates across different geographical locations. These modules should integrate video lectures of professionals and  highly  reputed  facilitators  with  careful  selection of content. This can be combined with practical 'hands on' training in school environments in identified schools. Videos of best practices in teaching and pedagogy in Indian languages should be made available at these centres. Innovative alternate paths that would also allow lateral entry of talent from various other streams into the teaching profession by choice should  be  explored  and  appropriate  policy  and regulatory  structures  put  in  place  to  support  their adoption.
 
 [[END OF PAGE 101]]
 
@@ -3363,8 +3125,6 @@ development. A system of teacher performance appraisal and feedback needs to be 
 84
 
 Twelfth Five Year Plan
-
-other streams into the teaching profession by choice should be explored and appropriate policy and regulatory structures put in place to support their adoption.
 
 21.157.  Regulatory  arrangements  for  teacher  education  require  overhaul  with  proper  oversight  in each State. Accreditation arrangements need to be  strengthened  and  new  credible  agencies  could be  roped  in  for  the  purpose.  There  is  an  immediate  need  to  lay  down  performance  standards  and benchmarks for teacher education institutions with clear accountability. This needs to be balanced with greater flexibility and rational norms and standards around  infrastructure,  faculty,  curricula  and  entry eligibility  from  regulatory  and  governing  bodies and  Boards,  in  particular  the  National  Council  for Teacher  Education  (NCTE).  Importantly,  innovative  programmes  should  be  recognised  by  NCTE promptly so that these programmes  can  begin developing  teachers  in  a  short  period  of  time.  The recently introduced Teacher Education Index would be  widely  used  to  measure  the  quality  of  teacher education  institutions.  This  third-party  assessment by approved entities to avoid malpractice should be done periodically every five years and made public to ensure transparency.
 
@@ -3404,7 +3164,7 @@ Education 85
 
 21.166.  Overall strategy in governance reforms would be to strike a right balance between mandating and persuading. While efforts should be made to listen to stakeholders and embrace their concerns, a line must be drawn when it came to pushing through a  reform  or  in  ensuring  commonality  across  the system.  At  the  initial  stage,  the  reforms  are  almost always driven from the Central agencies. Later, as the system improves, the locus for improvement shifts to instructional  practices  and  primarily  driven  by  the teachers and the schools by themselves.
 
-21.167.  A system of regular assessment of schools for both managerial and pedagogical aspects is needed. This would set the stage for formal accreditation of schools.  In  addition,  there  is  a  need  to  establish  a vibrant teacher support system closer to the school setting. Block Resource Centres and Cluster Resource Centres  that  were  conceptualised  under  DPEP  and continued  under  the  SSA  would  be  revamped  and repositioned  so  that  these  can  work  effectively  for improving teacher performance. Their role could be
+21.167.  A system of regular assessment of schools for both managerial and pedagogical aspects is needed. This would set the stage for formal accreditation of schools.  In  addition,  there  is  a  need  to  establish  a vibrant teacher support system closer to the school setting. Block Resource Centres and Cluster Resource Centres  that  were  conceptualised  under  DPEP  and continued  under  the  SSA  would  be  revamped  and repositioned  so  that  these  can  work  effectively  for improving teacher performance. Their role could be extended to the secondary schools. Finally, systemic improvement requires integration and coordination across different levels as can be seen in Table 21.6. The  Twelfth  Plan  would  focus  on  such  integration and ordination.
 
 [[END OF PAGE 103]]
 
@@ -3413,8 +3173,6 @@ Education 85
 86
 
 Twelfth Five Year Plan
-
-extended to the secondary schools. Finally, systemic improvement requires integration and coordination across different levels as can be seen in Table 21.6. The Twelfth Plan would focus on such integration and ordination.
 
 21.168.  Seven  specific  interventions  are  proposed in the Twelfth Plan. First is to improve functioning and strengthening of existing institutions such as the SCERT, SIEMAT, and DIETs. These entities would develop and disseminate best practices for effective classroom  instruction,  support  teachers  in  effective pedagogy and efficient organisation of resources at school  level  (that  is,  people,  teachers  and  students, space and time) so as to optimise learning opportunities for all children. A key goal will be to identify highly effective teachers for positions of educational leadership and mentoring, and to identify less-effective teachers for coaching and support.
 
@@ -3455,61 +3213,19 @@ could be developed for monitoring by community-based institutions.
 
 21.174.  During the Eleventh Plan, Saakshar Bharat , a Centrally Sponsored Scheme that focused on women
 
-43.6
+ | 1981 | 1991 | 2001 | 2011
+--- | --- | --- | --- | ---
+Persons | 43.6 | 52.2 | 64.8 | 74.0
+Male | 56.4 | 64.1 | 75.3 | 82.1
+Female | 29.8 | 39.3 | 53.7 | 65.5
+Gender Gap | 26.6% | 24.8% | 21.6% | 16.7%
 
-56.4
-
-29.8
-
-1981
-
-1991
-
-2001
-
-2011
-
-Gender Gap
-
-26.6%
-
-24.8%
-
-21.6%
-
-16.7%
-
-Persons
-
-Male
-
-Female
-
-52.2
-
-64.1
-
-39.3
-
-64.8
-
-75.3
-
-53.7
-
-74.0
-
-82.1
-
-65.5
-
-+6.88
-
-+11.79
+Male: +6.88
+Female: +11.79
 
 Source: Census of India, 2011.
 
-FIGURE 21.2: Improvements in Literacy Levels, 1981-2011 (%)
+FIGURE 21.2: Improvements in Literacy Levels, 1981–2011 (%)
 
 [[END OF PAGE 105]]
 
@@ -3531,7 +3247,7 @@ in  particular  and  the  disadvantaged  groups  in  general,  was  launched. Sa
 
 21.178.  Accordingly, Saakshar Bharat would be revamped during the Twelfth Plan and aligned to the new paradigm of lifelong learning. The key features of this programme would be:
 
-- It would provide opportunities to meet all types of  learning  needs  including  functional  literacy, basic  education,  vocational  education,  physical and emotional development, arts, culture, sports and  recreation.  Such  opportunities  of  learning will be for all adults, disadvantaged and advantaged,  in  the  age  group  of  15  years  and  above, who missed the opportunity of formal education as well as all adults who wish to learn outside the formal  system  of  education.  It  would  continue to focus on inclusion with programmatic interventions in rural areas, urban slums, low literacy areas,  tribal  areas,  SCs  and  minority  concentrated areas. To facilitate more equitable access
+1. It would provide opportunities to meet all types of  learning  needs  including  functional  literacy, basic  education,  vocational  education,  physical and emotional development, arts, culture, sports and  recreation.  Such  opportunities  of  learning will be for all adults, disadvantaged and advantaged,  in  the  age  group  of  15  years  and  above, who missed the opportunity of formal education as well as all adults who wish to learn outside the formal  system  of  education.  It  would  continue to focus on inclusion with programmatic interventions in rural areas, urban slums, low literacy areas,  tribal  areas,  SCs  and  minority  concentrated areas. To facilitate more equitable access
 
 [[END OF PAGE 106]]
 
@@ -3543,13 +3259,11 @@ Education
 
 and  participation,  the  revamped  programme would  create  appropriate  infrastructure,  especially  in  difficult,  backward,  tribal,  and  rural areas, and enhance culture of learning and education  by  eliminating  barriers  to  participation through ICT, awareness, mobilisation, environment  building  and  well-designed  and  targeted guidance, information and motivation.
 
-- At the Gram Panchayat level and at the equivalent levels in the urban areas, the existing well-equipped ICT-enabled multi-purpose Adult Education and Skill Development Centres (AESDCs)  would  be  strengthened  (or  set  up where these do not exist) to offer a range of adult learning  and  education  programmes  to  meet local  needs  of  the  adults.  For  higher  levels  of adult  education,  secondary  level  institutions  at the block and community colleges at the district level need to be set up.
+2. At the Gram Panchayat level and at the equivalent levels in the urban areas, the existing well-equipped ICT-enabled multi-purpose Adult Education and Skill Development Centres (AESDCs)  would  be  strengthened  (or  set  up where these do not exist) to offer a range of adult learning  and  education  programmes  to  meet local  needs  of  the  adults.  For  higher  levels  of adult  education,  secondary  level  institutions  at the block and community colleges at the district level need to be set up.
 
-- Existing programme structures, including National Literacy Mission Authority at the apex level,  the  State  Literacy  Mission  Authorities  at the  State  level  and  the  Lok  Shiksha  Samitis  at the District, Block and the Gram Panchayat, as well  as  the  resource  support  bodies,  would  be remodelled, strengthened and aligned to lifelong learning  and  literacy.  Inter-sectoral  and  inter-ministerial  cooperation  would  be  obtained.  In addition,  active  involvement  of  public  authorities at all administrative  levels,  civil society, private  sector,  community  and  adult  learners' organisations in the development, implementation  and  evaluation  of  adult  learning  and  education  programmes  would  be  obtained.  The revamped programme would need a permanent system with nationwide and multilevel network of  institutions  and  structures  that  conform  to these  parameters.  Additional  resources  should be allocated for building capacities of PRIs and other implementing agencies.
+3. Existing programme structures, including National Literacy Mission Authority at the apex level,  the  State  Literacy  Mission  Authorities  at the  State  level  and  the  Lok  Shiksha  Samitis  at the District, Block and the Gram Panchayat, as well  as  the  resource  support  bodies,  would  be remodelled, strengthened and aligned to lifelong learning  and  literacy.  Inter-sectoral  and  inter-ministerial  cooperation  would  be  obtained.  In addition,  active  involvement  of  public  authorities at all administrative  levels,  civil society, private  sector,  community  and  adult  learners' organisations in the development, implementation  and  evaluation  of  adult  learning  and  education  programmes  would  be  obtained.  The revamped programme would need a permanent system with nationwide and multilevel network of  institutions  and  structures  that  conform  to these  parameters.  Additional  resources  should be allocated for building capacities of PRIs and other implementing agencies.
 
-- Objective  criteria  to  assess  learning  outcomes, skill  development,  prior  learning  and  equivalency should be developed based on which third party  assessment  and  certification  should  be undertaken.  For  this,  partnerships  should  be developed  with  accredited  national  and  State-level  agencies  and  open  and  distance  learning
-
-systems. Lifelong  learning  and  literacy under the revamped programme should be seamlessly integrated  with  formal  education  system  for horizontal  and  vertical  migration  by  establishing  equivalency  frameworks  to  facilitate  credit transfer  among  formal,  non-formal  and  informal education.
+4. Objective  criteria  to  assess  learning  outcomes, skill  development,  prior  learning  and  equivalency should be developed based on which third party  assessment  and  certification  should  be undertaken.  For  this,  partnerships  should  be developed  with  accredited  national  and  State-level  agencies  and  open  and  distance  learning systems. Lifelong  learning  and  literacy under the revamped programme should be seamlessly integrated  with  formal  education  system  for horizontal  and  vertical  migration  by  establishing  equivalency  frameworks  to  facilitate  credit transfer  among  formal,  non-formal  and  informal education.
 
 21.179.  The  revamped Saakshar  Bharat would  be a  continuing programme as a lifelong learning and literacy support system for the country. To promote a  systematic  lifelong  learning,  the  country  might require comprehensive legislation to formally recognise forms of education other than formal, integrate formal,  non-formal  and  informal  learning  and  for recognition, validation and accreditation of learning obtained in non-formal ways. Need for enabling legislative measures would thus be examined to provide a robust framework for lifelong learning and literacy.
 
@@ -3589,26 +3303,6 @@ Education
 
 91
 
-funding, monitoring and regulation, institutional structures, curricula and teaching-learning processes.
-
-21.187.  The strategic framework for the Twelfth Plan for  higher  education identifies such a paradigmatic shift in the following critical areas related to expansion, equity, excellence, governance and financing.
-
-##### Expansion
-
-- Expand access by scaling up capacity in existing institutions  rather  than  increasing  the  number of institutions, with the exception of new institutions  needed  to  address  critical  regional  and social gaps.
-
-- Create  a  system  of  institutional  differentiation and distinctiveness to cater to a diverse body of students and the varied needs of employers.
-
-- Use the transformative potential of new technologies to improve quality, reduce costs, improve processes and efficiency and reach a larger body of students, while promoting efficient and transparent  governance  and  raising  the  quality  of teaching and research.
-
-##### Equity
-
-- Provide  significant  increase  in  budgetary  support  for  equity-related  measures  through  targeted, integrated and  effective equity-related schemes, which will replace the existing maze of multiple and diffused small outlay schemes.
-
-##### Excellence
-
-- Foster a shift from an input-centric and credential-based pedagogical approach to a
-
 ###### Box 21.7 Enrolment Target for the Twelfth Plan
 
 Additional enrolment capacity of 10 million students including 1 million in open and distance learning would be created by the end of the Twelfth Plan. This would enable roughly 3 million more students in each age cohort to enter higher education and raise the country's GER from 17.9 per cent (estimated for 2011-12) to 25.2 per cent by 2017-18 and reach the target of 30 per cent GER by 2020-21 which would be broadly in line with world average.
@@ -3629,6 +3323,26 @@ FINANCING | GOVERNANCE
 
 FIGURE 21.3: Strategic Framework
 
+funding, monitoring and regulation, institutional structures, curricula and teaching-learning processes.
+
+21.187.  The strategic framework for the Twelfth Plan for  higher  education identifies such a paradigmatic shift in the following critical areas related to expansion, equity, excellence, governance and financing.
+
+##### Expansion
+
+1. Expand access by scaling up capacity in existing institutions  rather  than  increasing  the  number of institutions, with the exception of new institutions  needed  to  address  critical  regional  and social gaps.
+
+2. Create  a  system  of  institutional  differentiation and distinctiveness to cater to a diverse body of students and the varied needs of employers.
+
+3. Use the transformative potential of new technologies to improve quality, reduce costs, improve processes and efficiency and reach a larger body of students, while promoting efficient and transparent  governance  and  raising  the  quality  of teaching and research.
+
+##### Equity
+
+4. Provide  significant  increase  in  budgetary  support  for  equity-related  measures  through  targeted, integrated and  effective equity-related schemes, which will replace the existing maze of multiple and diffused small outlay schemes.
+
+##### Excellence
+
+5. Foster a shift from an input-centric and credential-based pedagogical approach to a
+
 [[END OF PAGE 109]]
 
 [[START OF PAGE 110]]
@@ -3639,29 +3353,29 @@ Twelfth Five Year Plan
 
 learner-centric and learning-outcome based approach to improve the quality of teaching and research.
 
-- Ensure  availability,  recruitment  and  retention of qualified people to meet the growing need for quality faculty; upgrade the skills of existing faculty; and, build synergies between teaching and research to promote excellence in both.
+6. Ensure  availability,  recruitment  and  retention of qualified people to meet the growing need for quality faculty; upgrade the skills of existing faculty; and, build synergies between teaching and research to promote excellence in both.
 
-- Facilitate  translation  of  academic  research  into innovations for practical use in society and economy  and  foster  entrepreneurship  that  creates wealth and public goods.
+7. Facilitate  translation  of  academic  research  into innovations for practical use in society and economy  and  foster  entrepreneurship  that  creates wealth and public goods.
 
-- Promote internationalisation by encouraging and supporting institutions and their faculty to engage more deeply with institutions and faculty around the world in areas ranging from teaching-learning to research and outreach.
+8. Promote internationalisation by encouraging and supporting institutions and their faculty to engage more deeply with institutions and faculty around the world in areas ranging from teaching-learning to research and outreach.
 
-- Create and facilitate alliances, networks, clusters, and consortia of academic institutions amongst themselves  and  with  research  institutions  and industry to accelerate the process of knowledge development  by  better  resource  utilisation  and by complementing mutual expertise.
+9. Create and facilitate alliances, networks, clusters, and consortia of academic institutions amongst themselves  and  with  research  institutions  and industry to accelerate the process of knowledge development  by  better  resource  utilisation  and by complementing mutual expertise.
 
 ##### Governance
 
-- Enable  institutional  autonomy  by  transforming the role of government from command and control to a steering and evaluative role.
+10. Enable  institutional  autonomy  by  transforming the role of government from command and control to a steering and evaluative role.
 
-- Enhance  the  capacity  of  the  higher  education system to govern itself by widespread and coordinated regulatory reform.
+11. Enhance  the  capacity  of  the  higher  education system to govern itself by widespread and coordinated regulatory reform.
 
-- Increase  transparency  in  both  public  and  private  institutions  by  requiring  them  to  disclose important standardised information related to  admissions,  fees,  faculty,  programs,  placements, governance, finance, business tie-ups and ownership.
+12. Increase  transparency  in  both  public  and  private  institutions  by  requiring  them  to  disclose important standardised information related to  admissions,  fees,  faculty,  programs,  placements, governance, finance, business tie-ups and ownership.
 
 ##### Financing
 
-- Implement  a  quantum  leap  in  both  public  and private sector investment in higher education to achieve the various goals set out for the Twelfth Plan.
+13. Implement  a  quantum  leap  in  both  public  and private sector investment in higher education to achieve the various goals set out for the Twelfth Plan.
 
-- Implement a significant increase in Central plan funds  for higher education  and  strategically deploy these funds to improve the entire system of higher education, including State systems.
+14. Implement a significant increase in Central plan funds  for higher education  and  strategically deploy these funds to improve the entire system of higher education, including State systems.
 
-- Directly  connect  funding  streams  to  specific outcomes  and  desired  impacts  related  to  the Plan  objectives  through  reforms  in  governance arrangements at the national, State and institutional  levels  with  suitable  implementation  and monitoring mechanisms.
+15. Directly  connect  funding  streams  to  specific outcomes  and  desired  impacts  related  to  the Plan  objectives  through  reforms  in  governance arrangements at the national, State and institutional  levels  with  suitable  implementation  and monitoring mechanisms.
 
 21.188.  Figure  21.3  shows  the  various  elements  of the  strategy  framework  and  inter-linkages  amongst them.  The  issues  of  expansion  or  widening  access, improving  equity  in  access,  improving  quality  and fostering research and innovation, governance, financing,  Plan  implementation,  monitoring  and evaluation have been further elaborated in the subsequent sections. In each section, the experience of the Eleventh Plan is first analysed which leads to the specific  strategy  to  be  adopted  and  initiatives  to  be undertaken in the Twelfth Plan.
 
@@ -3681,10 +3395,12 @@ learner-centric and learning-outcome based approach to improve the quality of te
 
 Education 93
 
+TABLE 21.7 Growth of Enrolment in the Eleventh Plan
+
 (Enrolment in lakh)
+
+Category | 2006–07 Total | 2006–07 Per cent | 2011–12 Total | 2011–12 Per cent | Increase | Growth Rate (Per cent)
 --- | --- | --- | --- | --- | --- | ---
-Category | 2006-07 | 2011-12 | Increase | Growth Rate (Per cent)
-Total | Per cent | Total | Per cent
 By type of institutions
 Government | 63.38 | 45.8 | 89.63 | 41.1 | 26.25 | 7.2
 Central | 3.10 | 2.2 | 5.63 | 2.6 | 2.53 | 12.7
@@ -3695,24 +3411,22 @@ Degree | 123.54 | 89.2 | 184.84 | 84.8 | 61.30 | 8.4
 Diploma | 14.96 | 10.8 | 33.02 | 15.2 | 18.06 | 10.8
 Total | 138.50 | 100.00 | 217.86 | 100.00 | 79.36 | 9.5
 
-TABLE 21.7 Growth of Enrolment in the Eleventh Plan
-
 Source: University Grants Commission (UGC), All India Council for Technical Education (AICTE), NCTE, Indian Nursing Council (NCTE).
 
 Note: Central institutions include Indian Institutes of Management even though they award PG diplomas in management.
 
-Enrolment | 2006-2007 | 2011-2012 | Increase | (Enrolment in lakh) Growth Rate (per cent)
+TABLE 21.8 Growth of Enrolment in ODL Programmes in the Eleventh Plan
+
+(Enrolment in lakh)
+
+Enrolment | 2006–2007 | 2011–2012 | Increase | Growth Rate (per cent)
 --- | --- | --- | --- | ---
 Indira Gandhi National Open University | 4.68 | 6.97 | 2.29 | 8.3
 State Open Universities (SOU) | 7.77 | 10.80 | 3.03 | 6.8
 Distance Education Institutions (DEI) | 14.96 | 24.24 | 9.28 | 10.1
 Total | 27.41 | 42.01 | 14.60 | 8.9
 
-TABLE 21.8 Growth of Enrolment in ODL Programmes in the Eleventh Plan
-
-Source:
-
-Distance Education Council.
+Source: Distance Education Council.
 
 cohort  of  18-23  years.  Using  this  definition,  GER for  higher  education  was  12.3  per  cent  in  2006-07 and increased to 17.9 per cent in 2011-12. In regular programmes alone, GER has increased from 10.4 per cent in 2006-07 to 15.2 per cent in 2011-12.
 
@@ -3732,9 +3446,10 @@ Twelfth Five Year Plan
 
 174  universities  and  over  12,748  diploma  granting institutions. Table 21.10 provides a snapshot of this growth. With the growth rate of institutions matching that of enrolment, the problem of low enrolment per  institution  evident  at  the  start  of  the  Eleventh Plan  remains.  Combined  with  the  skewed  growth of  engineering  and  technical  disciplines,  this  indicates  that  further  expansion  should  be  undertaken in the context of also achieving disciplinary diversity and  increasing  capacity  within  existing  institutions rather than creating new institutions.
 
-Faculty | 2006-07 | 2011-12 | Growth Rate (Per cent)
+TABLE 21.9 Growth of Enrolment by Field of Study during the Eleventh Plan (in lakh)
+
+Faculty | 2006–07 Total | 2006–07 Per cent | 2011–12 Total | 2011–12 Per cent | Growth Rate (Per cent)
 --- | --- | --- | --- | --- | ---
-Total | Per cent | Total | Per cent
 Arts | 54.86 | 39.6 | 65.78 | 30.2 | 3.7
 Science | 25.43 | 18.4 | 30.57 | 14.0 | 3.8
 Commerce and Management | 22.87 | 16.5 | 34.34 | 15.8 | 8.5
@@ -3746,11 +3461,11 @@ Law | 3.00 | 2.2 | 3.48 | 1.6 | 3.0
 Others | 1.16 | 0.8 | 2.78 | 1.3 | 19.1
 Total | 138.5 | 100 | 217.86 | 100 | 9.5
 
-TABLE 21.9 Growth of Enrolment by Field of Study during the Eleventh Plan (in lakh)
-
 Source: UGC, AICTE, NCTE and INC.
 
-Category | 2006-07 | 2011-12 | Increase | Growth Rate (Per Cent)
+TABLE 21.10 Growth of Institutions in the Eleventh Plan
+
+Category | 2006–07 | 2011–12 | Increase | Growth Rate (Per Cent)
 --- | --- | --- | --- | ---
 Central Institutions
 Degree Awarding Institutions | 87 | 152 | 65 | 11.8
@@ -3768,15 +3483,9 @@ Diploma Institutions | 5,960 | 9,541 | 3,581 | 9.9
 Sub total | 18,145 | 29,662 | 11,517 | 10.3
 Total | 29,384 | 46,430 | 17,046 | 9.6
 
-TABLE 21.10 Growth of Institutions in the Eleventh Plan
+Source: UGC, AICTE, NCTE and INC.
 
-Source:
-
-UGC, AICTE, NCTE and INC.
-
-Note:
-
-Central degree institutions include Indian Institutes of Management even though they award PG diploma in management.
+Note: Central degree institutions include Indian Institutes of Management even though they award PG diploma in management.
 
 [[END OF PAGE 112]]
 
@@ -3798,7 +3507,9 @@ On their own, the State Governments added 89 universities,  4,024  colleges  and
 
 21.198.  Despite  the  growth  in  number  of  institutions, their geographical spread remains highly skewed with a large concentration in big cities and towns. While overall institutional density increased from 10 to 14 institutions per 1,000 sq. km. during
 
-Type of Institution | 2006-07 | 2011-12 | Increase
+TABLE 21.11 Growth of Central Institutions during the Eleventh Plan
+
+Type of Institution | 2006–07 | 2011–12 | Increase
 --- | --- | --- | ---
 Central Universities | 19 | 40 | 21
 Indian Institute of Technology | 7 | 15 | 8
@@ -3809,8 +3520,6 @@ National Institute of Technology | 20 | 30 | 10
 Other Technical Institutions | 15 | 15 | 0
 Other Universities/Institutions | 17 | 31 | 14
 Total | 87 | 152 | 65
-
-TABLE 21.11 Growth of Central Institutions during the Eleventh Plan
 
 Source: Ministry of HRD, Other Ministries.
 
@@ -3836,7 +3545,11 @@ the Eleventh Plan, a large number of habitations and settlement  clusters  with 
 
 21.203.  Planning for expansion should be demand-driven. First, the national government would
 
-Level/Type | 2011-12 (Estimates) | 2016-17 (Targets) | Growth Rate (Per Cent)
+TABLE 21.12 Enrolment Targets by Level/Type for the Twelfth Plan
+
+(student numbers in lakh)
+
+Level/Type | 2011–12 (Estimates) | 2016–17 (Targets) | Growth Rate (Per Cent)
 --- | --- | --- | ---
 PhD | 1 | 3 | 24.6
 PG General | 17.3 | 33.2 | 13.9
@@ -3848,16 +3561,10 @@ Diploma | 33 | 65 | 14.5
 Total | 217.9 | 307.4 | 7.1
 ODL | 42 | 52 | 4.4
 Grand Total | 259.9 | 359.4 | 6.7
-Population 18-23 years | 1,451.2 | 1,427.4 | -0.1
+Population 18–23 years | 1,451.2 | 1,427.4 | –0.1
 GER (%) | 17.9 | 25.2
 
-TABLE 21.12 Enrolment Targets by Level/Type for the Twelfth Plan
-
-Source:
-
-Planning Commission Estimates/Targets.
-
-(student numbers in lakh)
+Source: Planning Commission Estimates/Targets.
 
 [[END OF PAGE 114]]
 
@@ -3867,47 +3574,16 @@ Education
 
 97
 
-3.0
-
-60.3
-
-75.1
-
-27.4
-
-5.6
-
-84.0
-
-128.2
-
-42.0
-
-12.0
-
-110.4
-
-185.0
-
-52.0
-
-2006-07
-
-2011-12 (Estimated)
-
-2016-17 (Target)
-
-Central
-
-State
-
-Private
-
-ODL
+ | 2006–07 | 2011–12 (Estimated) | 2016–17 (Target)
+--- | --- | --- | ---
+Central | 3.0 | 5.6 | 12.0
+State | 60.3 | 84.0 | 110.4
+Private | 75.1 | 128.2 | 185.0
+ODL | 27.4 | 42.0 | 52.0
 
 Source: Based on figures drawn from UGC, AICTE, NCTE, MHRD and INC.
 
-FIGURE 21.4: Enrolments in Higher Education (in lakh): 2006-07 to 2016-17
+FIGURE 21.4: Enrolments in Higher Education (in lakh): 2006–07 to 2016–17
 
 prepare long-term occupational demand projections recognising that these must be updated periodically to meet the changing needs of the economy and society. For Central institutions, this would be followed through  by  developing  institutional  supply  targets. For each State, the expansion plan should similarly be  based  on  State-level  demand  projections.  This would require coordinated efforts and enhancing the capacity for such planning both at the national and State levels.
 
@@ -3915,11 +3591,11 @@ prepare long-term occupational demand projections recognising that these must be
 
 21.204.  The expansion that took place in the Eleventh Plan was a logical response to the rising aspirations of  young  people,  improved  schooling,  and  the  fact that  jobs  created  through  rapid  economic  growth and skill-based technical change require higher levels  of  education.  During  the  Eleventh  Plan,  Indian higher education moved from 'elite' to 'mass' higher education (threshold of 15 per cent GER) and is now moving towards universal higher education (threshold of 50 per cent GER). This must be accompanied by offering a wider, diverse range of education-the student should be able to acquire skills in multiple disciplines  while  achieving  a  solid  core  set  of  skills and at a pace that is customised to individual's capacity to learn. With this in mind, further expansion will require a re-examination of the design, organisation, definition,  and  purpose  of  higher  education.  The Twelfth  Plan  strives  to  create  diverse  education opportunities to cater to the growing number of students passing out of higher secondary classes on the one hand and the diverse needs of the economy and society on the other. Therefore, the four key principles that will drive the strategy for higher education expansion in the Twelfth Plan are as follows:
 
-- Expansion must focus on locations, States, subject  areas/disciplines,  and  types  of  institutions where current capacity is low, instead of creating additional capacity across the board.
+1. Expansion must focus on locations, States, subject  areas/disciplines,  and  types  of  institutions where current capacity is low, instead of creating additional capacity across the board.
 
-- Expansion  must  be  aligned  to  the  country's economy.  Therefore,  a  variety  of  HEIs  offering  innovative  and  relevant  curricula  designed to  serve  different  segments  of  the  job  market or  provide  avenues  for  self-employment  must be  developed.  Specific  emphasis  must  be  given to  the  expansion  of  skill-based  programmes  in higher education.
+2. Expansion  must  be  aligned  to  the  country's economy.  Therefore,  a  variety  of  HEIs  offering  innovative  and  relevant  curricula  designed to  serve  different  segments  of  the  job  market or  provide  avenues  for  self-employment  must be  developed.  Specific  emphasis  must  be  given to  the  expansion  of  skill-based  programmes  in higher education.
 
-- The relative strengths of different types of institutions  must  be  harnessed  to  serve  different needs.  Central  institutions  must  be  assisted  to become quality-leading institutions.  State  institutions  must  be  supported  to  expand  further and  simultaneously  address  equity  issues  and improve quality. The philanthropic sector should
+3. The relative strengths of different types of institutions  must  be  harnessed  to  serve  different needs.  Central  institutions  must  be  assisted  to become quality-leading institutions.  State  institutions  must  be  supported  to  expand  further and  simultaneously  address  equity  issues  and improve quality. The philanthropic sector should
 
 [[END OF PAGE 115]]
 
@@ -3931,7 +3607,7 @@ Twelfth Five Year Plan
 
 be invited and incentivised to infuse more funds and  build  larger,  sustainable  and  higher  quality  private  institutions.  New  models  of  Public–Private  Partnership  (PPP)  in  higher  education must  be  encouraged  not  only  for  technology intensive education but also for multidisciplinary and  research-based  education.  Open  and  distance learning must be used to widen access in a cost-effective and flexible manner.
 
-- Overall,  expansion  will  be  carefully  planned  to provide better access to the poor and disadvantaged social groups and first generation learners from backward areas.
+4. Overall,  expansion  will  be  carefully  planned  to provide better access to the poor and disadvantaged social groups and first generation learners from backward areas.
 
 21.205.  Expansion  should  not  only  mean  having more institutions of the same kind, but also developing new kinds of institutions. First, the country must have  some  globally  competitive  research-intensive institutions  which  should:  ( i )  keep  India  abreast  of the  international  scientific  frontier;  ( ii )  ensure  that educational content and curricula is of world standards and updated regularly; ( iii ) ensure that research is  actively  used  to  solve  India's  own  problems;  and ( iv )  engage  the  best  researchers  in  the  country  in teaching the next generation of students both within and outside their institution.
 
@@ -3969,7 +3645,7 @@ Education
 
 ###### Box 21.8 TISS: A Multi-Location Networked University
 
-Tata Institute of Social Sciences has expanded rapidly since 2006 and emerged as a multi-location networked university for social sciences. It has enlarged its research base in social sciences and diversified its course offerings to provide access to a much larger body of students in various trans-disciplinary areas across the country. The capacity of its Mumbai Campus increased from 200 masters and 50 doctoral students in 2006 to 1,650 masters and 350 doctoral students in 2012; with a corresponding increase in the range of courses it offers. The Institute has established three campuses at Tuljapur (operational since 2004) and at Hyderabad and Guwahati, each of them will have about 1,000 students each by 2016. This expansion has been funded largely from resources mobilised through Indian trusts and foundations that have so far contributed about `130 crore with Central Government putting in another `26 cr. In addition, the Institute mobilised over `200 crore for research work and to set up new academic programs. Further, the Institute has collaborative research, faculty and student exchange programs with over 60 universities and institutions in the country-each of the collaboration is supported by competitive funding secured by the institute that enabled exchange at no extra cost to its students.
+Tata Institute of Social Sciences has expanded rapidly since 2006 and emerged as a multi-location networked university for social sciences. It has enlarged its research base in social sciences and diversified its course offerings to provide access to a much larger body of students in various trans-disciplinary areas across the country. The capacity of its Mumbai Campus increased from 200 masters and 50 doctoral students in 2006 to 1,650 masters and 350 doctoral students in 2012; with a corresponding increase in the range of courses it offers. The Institute has established three campuses at Tuljapur (operational since 2004) and at Hyderabad and Guwahati, each of them will have about 1,000 students each by 2016. This expansion has been funded largely from resources mobilised through Indian trusts and foundations that have so far contributed about 130 crore with Central Government putting in another 26 cr. In addition, the Institute mobilised over ` 200 crore for research work and to set up new academic programs. Further, the Institute has collaborative research, faculty and student exchange programs with over 60 universities and institutions in the country-each of the collaboration is supported by competitive funding secured by the institute that enabled exchange at no extra cost to its students.
 
 [[END OF PAGE 117]]
 
@@ -3993,7 +3669,7 @@ between  State  and  Central  spending  and  to  more effectively use Central fu
 
 ##### Quality Private Growth
 
-21.215.  The  Private  sector  has  contributed  significantly  to  higher  education  expansion  during  the Eleventh  Plan  and  private  higher  education  now accounts  for  58.5  per  cent  of  enrolments.  The  private  sector  will  be  encouraged  to  establish  larger and higher quality institutions in the Twelfth Plan. Currently,  for-profit  entities  are  not  permitted  in higher education and the non-profit or philanthropy-driven institutions are unable to scale-up enough to bridge the demand-supply gap in higher education. Therefore, the 'not-for-profit' status in higher education should, perhaps, be re-examined for pragmatic considerations so as to allow the entry of for-profit institutions in select areas where acute shortages persist.  This  should, however, be subjected to the necessary  oversight  and  accreditation  arrangements  to ensure quality and equity. For-profit private higher education  can  be  taxed  and  the  revenue  from  it can  be  channelled  into  large  scale  scholarship  programme to promote equity as is practised in Brazil and China.
+21.215.  The  Private  sector  has  contributed  significantly  to  higher  education  expansion  during  the Eleventh  Plan  and  private  higher  education  now accounts  for  58.5  per  cent  of  enrolments.  The  private  sector  will  be  encouraged  to  establish  larger and higher quality institutions in the Twelfth Plan. Currently,  for-profit  entities  are  not  permitted  in higher education and the non-profit or philanthropy-driven institutions are unable to scale-up enough to bridge the demand–supply gap in higher education. Therefore, the 'not-for-profit' status in higher education should, perhaps, be re-examined for pragmatic considerations so as to allow the entry of for-profit institutions in select areas where acute shortages persist.  This  should, however, be subjected to the necessary  oversight  and  accreditation  arrangements  to ensure quality and equity. For-profit private higher education  can  be  taxed  and  the  revenue  from  it can  be  channelled  into  large  scale  scholarship  programme to promote equity as is practised in Brazil and China.
 
 21.216.  At the same time, innovative ways have to be found to encourage the infusion of more private capital in the traditional not-for-profit higher education. Some  proposals  that  require  serious  consideration include:  ( i )  enabling  liberal  financing  options  for the sector, like allowing private institutions to raise funds  through  public  offerings  of  bonds  or  shares; ( ii )  changing the legal status of the sector to attract more investors, like allowing all types of institutions to be established under Section 25 of the companies Act and allowing existing trusts and societies to convert to institution under Section 25 of the companies Act;  ( iii )  giving  priority  recognition  to  the  sector, like  providing it 'infrastructure' status with similar, financial and tax treatment.
 
@@ -4065,67 +3741,31 @@ outcomes so that curricula and pedagogical changes can be made on an ongoing bas
 
 GAR by Rural, Urban, Male, Female
 
+Category | GAR
+--- | ---
+Urban Female | 30.5
+Urban Total | 30.0
+Urban Male | 29.6
+All | 17.2
+Rural Male | 13.7
+Rural Total | 11.1
+Rural Female | 8.3
+
 GAR by Socio-Religious Groups
 
-Urban Female
-
-Christian General
-
-30.5
-
-44.9
-
-Urban Total
-
-Hindu General
-
-30.0
-
-32.9
-
-Urban Male
-
-All
-
-29.6
-
-17.2
-
-All
-
-OBC
-
-17.2
-
-14.8
-
-Rural Male
-
-SC
-
-13.7
-
-11.6
-
-Rural Total
-
-Muslim
-
-11.1
-
-9.6
-
-Rural Female
-
-ST
-
-8.3
-
-7.7
+Category | GAR
+--- | ---
+Christian General | 44.9
+Hindu General | 32.9
+All | 17.2
+OBC | 14.8
+SC | 11.6
+Muslim | 9.6
+ST | 7.7
 
 Source: Graph drawn from various sources like UGC, AICTE, NCTE, MHRD and INC.
 
-FIGURE 21.5: Gross Attendance Ratio, 2007-08
+FIGURE 21.5: Gross Attendance Ratio, 2007–08
 
 [[END OF PAGE 120]]
 
@@ -4139,13 +3779,13 @@ students.  When  compared  with  the  2004-05  data, there is improvement in the
 
 21.227.  As higher education expands, more students will  come  from  hitherto  marginalised  sections  of society. HEIs must gear themselves to face the challenge  of  catering  to  the  needs  of  such  students  to further reduce inequalities in access. The higher education system must:
 
-- Facilitate entry of the socially disadvantaged into HEIs and, in the case of some extremely disadvantaged  communities,  devise  incentives  that would allow 'over-drawing' from this currently small pool of eligible students.
+1. Facilitate entry of the socially disadvantaged into HEIs and, in the case of some extremely disadvantaged  communities,  devise  incentives  that would allow 'over-drawing' from this currently small pool of eligible students.
 
-- Support  retention  of  those  disadvantaged  students  who  enter  higher  education  by  ensuring that  they  do  not  drop  out  for  lack  of  resources and inadequate academic preparation.
+2. Support  retention  of  those  disadvantaged  students  who  enter  higher  education  by  ensuring that  they  do  not  drop  out  for  lack  of  resources and inadequate academic preparation.
 
-- Enhance the quality of learning of disadvantaged students  and  provide  guidance  and  support  to improve  their  chances  of  entering  disciplines that ensure decent employment opportunities or gaining admission to postgraduate degrees at top institutions.
+3. Enhance the quality of learning of disadvantaged students  and  provide  guidance  and  support  to improve  their  chances  of  entering  disciplines that ensure decent employment opportunities or gaining admission to postgraduate degrees at top institutions.
 
-- Use the 'community college' as a key vehicle for entry  into  regular  higher  education  by  way  of widely  located,  community-based  institutions offering relevant education of high quality.
+4. Use the 'community college' as a key vehicle for entry  into  regular  higher  education  by  way  of widely  located,  community-based  institutions offering relevant education of high quality.
 
 #### ELEVENTH PLAN EXPERIENCE
 
@@ -4221,15 +3861,15 @@ in repayment of student loans. This will substantially protect  lending  institu
 
 21.235.  All  ongoing  and  several  new  initiatives  for inclusion of persons with disabilities shall be covered under an umbrella National Initiative on Inclusion of Persons with Disabilities in higher education. This initiative would:
 
-- provide incentives and support to individual students and faculty with disabilities;
+1. provide incentives and support to individual students and faculty with disabilities;
 
-- give  support  and  policy  direction  to  HEIs  and services to make them disabled-friendly and create  model  universities  and  colleges  at  the  State and district levels;
+2. give  support  and  policy  direction  to  HEIs  and services to make them disabled-friendly and create  model  universities  and  colleges  at  the  State and district levels;
 
-- use new technologies effectively to address challenges  of  learning  for  persons  with  disabilities through various access devices and high quality learning materials;
+3. use new technologies effectively to address challenges  of  learning  for  persons  with  disabilities through various access devices and high quality learning materials;
 
-- create curricula, and provide research and training-related  support  to  enhance  awareness, knowledge and sensitivity about disability issues;
+4. create curricula, and provide research and training-related  support  to  enhance  awareness, knowledge and sensitivity about disability issues;
 
-- specify  minimum  standards  of  disability  access that must be met by all physical infrastructures offering higher education.
+5. specify  minimum  standards  of  disability  access that must be met by all physical infrastructures offering higher education.
 
 ##### National Initiative for Quality Higher Education in Indian Languages
 
@@ -4261,7 +3901,7 @@ in repayment of student loans. This will substantially protect  lending  institu
 
 ##### Criticality of Quality
 
-21.243.  Except  at  a  few  top-level  institutions,  quality  is  serious  concern.  The  causal  link  between cognitive skills  acquired  through  education  and economic growth is  now  well-established.  A  major goal of the Twelfth Plan is, therefore, to improve the overall quality of higher education in the country by improving the quality of the 'average' institution in the system.
+21.243.  Except  at  a  few  top-level  institutions,  quality  is  serious  concern.  The  casual  link  between cognitive skills  acquired  through  education  and economic growth is  now  well-established.  A  major goal of the Twelfth Plan is, therefore, to improve the overall quality of higher education in the country by improving the quality of the 'average' institution in the system.
 
 21.244.  Notwithstanding the growth  of technical higher  education,  over  half  of  students  will  enrol in  general  (meaning  arts,  science  and  commerce) undergraduate  programmes.  If  properly  imparted, general education could be an excellent foundation for  successful  knowledge-based  careers.  Therefore, focus should be primarily on improving the quality of  general  education.  Graduates  should  be  able  to acquire  skills  beyond  the  basics  of  reading,  writing and  arithmetic  (the  '3Rs').  Critical  thinking,  communication, collaboration and creativity (the '4Cs') are increasingly important now. Special emphasis on verbal and written communication skills, especially, but not limited to, English would go a long way in improving the employability of the large and growing mass of disempowered youth. 'Professional' education that currently focuses on technical skills alone should  adopt  integrated  curriculum  with  greater flexibility in choice of subjects and innovative pedagogic practices to improve its quality and enable better learning outcomes.
 
@@ -4313,13 +3953,15 @@ Education
 
 Twelfth Five Year Plan
 
+the university or its constituent unit will be created. Third, some of the large and unwieldy affiliating universities will be bifurcated or trifurcated into manageable units. Fourth, colleges desiring to scale up to leverage existing infrastructure and to offer new programmes would be allowed to consolidate through merger under an autonomous framework. Finally, affiliating universities will be required to revamp their college development councils and give greater autonomy to their colleges in all academic, administrative and financial matters.
+
 ##### Deepening Academic Reforms
 
-21.253.  The institutional framework to deepen academic reforms would include introduction of choice-based  credit  system,  CCE,  and  regular  revision  of curricula for making them up-to-date and relevant to contemporary and future needs. To help institutions reform  their  courses,  subject-specific  model  curricula and packaged, re-usable digitised content (such as  packaged  lectures  and  open  source  textbooks) would  be  created  by  instructors  with  the  requisite expertise.  This  can  best  be  done  by  subject-based networks such as Network of Social Work Education led  by  the  Tata  Institute  of  Social  Sciences  and  the mathematics  initiative  taken  by  Delhi  University. Such networks across subject areas would be encouraged. An important goal of these reforms would be to  create  active  learning  environments  in  colleges and universities.
+21.253.  The institutional framework to deepen academic reforms would include introduction of choice-based credit system, CCE, and regular revision of curricula for making them up-to-date and relevant to contemporary and future needs. To help institutions reform their courses, subject-specific model curricula and packaged, re-usable digitised content (such as packaged lectures and open source textbooks) would be created by instructors with the requisite expertise. This can best be done by subject-based networks such as Network of Social Work Education led by the Tata Institute of Social Sciences and the mathematics initiative taken by Delhi University. Such networks across subject areas would be encouraged. An important goal of these reforms would be to create active learning environments in colleges and universities.
 
 ##### Re-Crafting Undergraduate Education
 
-21.254.  Reforming undergraduate curriculum through  funding  and  institutional  support  will  be emphasised in the Twelfth Plan. Undergraduate programmes  should  provide  a  holistic  education  and give students opportunities for intellectual exploration,  hands-on  research,  job  skilling,  experiential learning, creative thinking, leadership, ethics education, community service and more. In place of three-year programs, several institutions have introduced four-year undergraduate programs to achieve these multiple  objectives.  During  the  Twelfth  Plan,  four-year  undergraduate  programmes  would  be  promoted. UGC currently provides financial support for starting specialised programmes in interdisciplinary and  emerging  areas,  which  could  be  strengthened and could include support for four-year undergraduate programmes.
+21.254.  Reforming undergraduate curriculum through funding and institutional support will be emphasised in the Twelfth Plan. Undergraduate programmes should provide a holistic education and give students opportunities for intellectual exploration, hands-on research, job skilling, experiential learning, creative thinking, leadership, ethics education, community service and more. In place of three-year programs, several institutions have introduced four-year undergraduate programs to achieve these multiple objectives. During the Twelfth Plan, four-year undergraduate programmes would be promoted. UGC currently provides financial support for starting specialised programmes in interdisciplinary and emerging areas, which could be strengthened and could include support for four-year undergraduate programmes.
 
 ##### Focus on Teachers and Teaching
 
@@ -4331,7 +3973,7 @@ Twelfth Five Year Plan
 
 21.258.  In  addition  to  the  ASCs,  'Teaching  and Learning Centres (TLCs)' must be established in the country within existing universities, preferably those that  have  a  strong  research  culture  as  well  as  large undergraduate  programmes.  During  the  Twelfth Plan, 50 such centres will be set up. In some cases the Academic Staff Colleges could also serve as a TLC.
 
-21.259.  To  provide  global  exposure  and  thus  facilitate  adoption  of  innovations  and  best  practices  in
+21.259.  To provide global exposure and thus facilitate adoption of innovations and best practices in
 
 [[END OF PAGE 126]]
 
@@ -4341,9 +3983,9 @@ Education
 
 109
 
-teaching and research, an International Faculty Development Programme would be launched. As  part  of  this,  Indian  universities  would  be  supported  to  organise  2-4  weeks  summer  workshops conducted  by  leading  international  teachers  and researchers  for  select  Indian  post  docs  and  faculty. Forty to fifty such workshops would be held annually on a range of topics and disciplines. Collaborations with  foreign  universities  would  be  encouraged  for organising  such  workshops.  In  addition,  faculty  in large numbers would be sent for three to six months to the best universities of the world for training and mentoring. An enabling policy framework would be put in place to attract faculty from abroad, particularly from amongst the overseas Indians teaching in universities abroad. Senior and tenured overseas faculty could be invited as international visiting professors by offering them attractive remuneration.
+teaching and research, an International Faculty Development Programme would be launched. As part of this, Indian universities would be supported to organise 2-4 weeks summer workshops conducted by leading international teachers and researchers for select Indian post docs and faculty. Forty to fifty such workshops would be held annually on a range of topics and disciplines. Collaborations with foreign universities would be encouraged for organising such workshops. In addition, faculty in large numbers would be sent for three to six months to the best universities of the world for training and mentoring. An enabling policy framework would be put in place to attract faculty from abroad, particularly from amongst the overseas Indians teaching in universities abroad. Senior and tenured overseas faculty could be invited as international visiting professors by offering them attractive remuneration.
 
-21.260.  A  programme  to  fund  doctoral  students  to study at international institutions needs to be implemented, in return for commitments to join the faculty  pool  in  India  on  completion  of  their  studies. This  could  be  supplemented  by  tapping  the  growing  pool  of  retired  experts.  They  could  function  as adjunct faculty and also enrol for doctoral degrees, for  which  current  eligibility  requirements  could  be waived.
+21.260.  A programme to fund doctoral students to study at international institutions needs to be implemented, in return for commitments to join the faculty pool in India on completion of their studies. This could be supplemented by tapping the growing pool of retired experts. They could function as adjunct faculty and also enrol for doctoral degrees, for which current eligibility requirements could be waived.
 
 21.261.  Faculty  motivation  is  crucial  to  improve academic quality. For faculty to be actively engaged in the teaching-learning process, they need control over their task, time, technique, and work environment, which is often not the case. Absence of basic amenities  is  one  of  the  most  de-motivating  factors for a large section of faculty. The strategy for motivating  faculty  would  focus  on  developing  healthy work environment with high-quality minimum facilities and a flexible framework of accountability and performance  evaluation.  Consistent  with  international  best  practices,  faculty  selection,  performance evaluation and promotion should be handled at the department  level.  New  faculty  may  be  kept  under probation for a period of five years and confirmation could then be done on the basis of rigorous performance evaluation including peer review and student feedback.
 
@@ -4365,13 +4007,13 @@ teaching and research, an International Faculty Development Programme would be l
 
 Twelfth Five Year Plan
 
-1. Digital Infrastructure Initiatives: ( i ) upgrade connectivity for universities and colleges to 10GBPS  and  1  GBPS,  respectively;  ( ii )  build computer  labs  in  all  institutions  as  required and increase availability of laptops and low-cost access devices for faculty and students; ( ii ) provide  smart  classrooms;  ( iii )  set  up  classrooms with interactive video-conference facilities linking Meta-universities and affiliating universities; ( iv ) set up 100 server farms for cloud computing.
+- Digital Infrastructure Initiatives: ( i ) upgrade connectivity for universities and colleges to 10GBPS  and  1  GBPS,  respectively;  ( ii )  build computer  labs  in  all  institutions  as  required and increase availability of laptops and low-cost access devices for faculty and students; ( ii ) provide  smart  classrooms;  ( iii )  set  up  classrooms with interactive video-conference facilities linking Meta-universities and affiliating universities; ( iv ) set up 100 server farms for cloud computing.
 
-2. Content  Initiatives:  ( i )  develop  virtual  labs,  to promote  creation of user-generated content; ( ii )  establish  a  single  national-level  consortium for  propriety  content;  ( iii )  create  open  access content repositories including interoperable institutional repositories; ( iv ) create platforms to facilitate user-generated content and related networks; ( iv ) create a single portal for access to all content; ( v ) continue current initiatives of DTH channels to telecast digital educational videos.
+- Content  Initiatives:  ( i )  develop  virtual  labs,  to promote  creation of user-generated content; ( ii )  establish  a  single  national-level  consortium for  propriety  content;  ( iii )  create  open  access content repositories including interoperable institutional repositories; ( iv ) create platforms to facilitate user-generated content and related networks; ( iv ) create a single portal for access to all content; ( v ) continue current initiatives of DTH channels to telecast digital educational videos.
 
-3. Governance  Initiatives:  ( i )  rollout  institutional Enterprise  Resource  Planning  (ERP);  ( ii )  computerise examination wings of all universities;  ( ii )  provide  robust  online  linkage  of  all affiliating  universities  with  their  affiliated  colleges;  ( iii )  create  online  data  collection  system; ( iv ) library automation; ( v ) automation of grants management.
+- Governance  Initiatives:  ( i )  rollout  institutional Enterprise  Resource  Planning  (ERP);  ( ii )  computerise examination wings of all universities;  ( ii )  provide  robust  online  linkage  of  all affiliating  universities  with  their  affiliated  colleges;  ( iii )  create  online  data  collection  system; ( iv ) library automation; ( v ) automation of grants management.
 
-4. Training and Capacity-Building Initiatives: ( i ) train faculty in instructional design content creation;  ( ii )  implement massive capacity-building efforts for adopting technology-mediated pedagogy in classrooms.
+- Training and Capacity-Building Initiatives: ( i ) train faculty in instructional design content creation;  ( ii )  implement massive capacity-building efforts for adopting technology-mediated pedagogy in classrooms.
 
 ##### Technical Education Quality Improvement Programme
 
@@ -4389,7 +4031,7 @@ Architecture and town planning would be included in phase-3 of TEQIP. Separate a
 
 ##### Higher Education Internationalisation
 
-21.269.  A strategy for higher education internationalisation  to  be  developed  during  the  Twelfth  Plan would  include  faculty  and  student  exchange  programmes,  institutional  collaborations  for  teaching
+21.269.  A strategy for higher education internationalisation to be developed during the Twelfth Plan would include faculty and student exchange programmes, institutional collaborations for teaching
 
 [[END OF PAGE 128]]
 
@@ -4397,7 +4039,7 @@ Architecture and town planning would be included in phase-3 of TEQIP. Separate a
 
 Education 111
 
-and research, exposure to diverse teaching-learning models and enhanced use of ICTs. Globally compatible academic credit systems, curricula internationalisation and processes for mutual recognition of  qualifications  would  be  put  in  place.  A  professional  national  agency  and  an  'India  International Education Centre' at New Delhi would be created to undertake internationalisation activities. It will support selected institutions to establish dedicated internationalisation units.
+and research, exposure to diverse teaching–learning models and enhanced use of ICTs. Globally compatible academic credit systems, curricula internationalisation and processes for mutual recognition of qualifications would be put in place. A professional national agency and on 'India International Education Centre' at New Delhi would be created to undertake internationalisation activities. It will support selected institutions to establish dedicated internationalisation units.
 
 ##### Fostering Social Responsibility in Higher Education
 
@@ -4419,7 +4061,7 @@ and research, exposure to diverse teaching-learning models and enhanced use of I
 
 #### RESEARCH AND INNOVATION
 
-21.275.  Research and innovation are now vital functions  of  higher  education  worldwide.  The  value  of interdisciplinary research is recognised globally, as  innovation  is  now  happening  at  the  intersections  of  disciplines.  Collaboration  is  now  central to innovation. Entrepreneurship that leverages innovation  is  also  an  increasingly  integral  part  of
+21.275.  Research and innovation are now vital functions of higher education worldwide. The value of interdisciplinary research is recognised globally, as innovation is now happening at the intersections of disciplines. Collaboration is now central to innovation. Entrepreneurship that leverages innovation is also an increasingly integral part of
 
 [[END OF PAGE 129]]
 
@@ -4427,9 +4069,9 @@ and research, exposure to diverse teaching-learning models and enhanced use of I
 
 112 Twelfth Five Year Plan
 
-higher education systems. While all HEIs cannot be expected  to  become  research-based  institutions,  it is  vital  that  the  country promote a research culture across all institutions while ensuring special support for those able to engage in state-of-the-art research.
+higher education systems. While all HEIs cannot be expected to become research-based institutions, it is vital that the country promote a research culture across all institutions while ensuring special support for those able to engage in state-of-the-art research.
 
-21.276.  The HEIs should contribute to the national innovation agenda, even when they are not research intensive—albeit in different ways. Teaching-focused institutions  must  train  their  students  in  the  techniques of research so that the doors to research-based graduate education and employment are opened to them. Vocational institutions must enable the future workforce  to  engage  at  least  in  the  'development' component  of  R&D.  It  is  essential  that  all  institutions equip their graduates with core skills of critical thinking, communication, collaboration and creativity to enable the country to continuously innovate to adapt to new environments.
+21.276.  The HEIs should contribute to the national innovation agenda, even when they are not research intensive—albeit in different ways. Teaching-focused institutions must train their students in the techniques of research so that the doors to research-based graduate education and employment are opened to them. Vocational institutions must enable the future workforce to engage at least in the 'development' component of R&D. It is essential that all institutions equip their graduates with core skills of critical thinking, communication, collaboration and creativity to enable the country to continuously innovate to adapt to new environments.
 
 21.277.  India's research performance turned around in the last two decades, after over a decade of stagnation. An improvement in scientific output is evident both in absolute terms and relative to the comparison group. During the past 10 years, India's overall share of publications in the world has risen from 2.8 per cent to 3.4 per cent, with a significant improvement  in  researcher  productivity  since  1999.  India produces over twice as many scientific publications a year than it did a decade ago. Though dwarfed by China's achievements, India's output of publications has grown faster than that of Brazil and Russia.
 
@@ -4451,13 +4093,13 @@ Education 113
 
 #### ELEVENTH PLAN EXPERIENCE
 
-21.283.  During  the  Eleventh  Plan,  several  schemes for promoting excellence in academic research were implemented. A major scheme was to promote Basic Scientific  Research  (BSR).  This  included  grants  to departments and colleges for improving basic infrastructure;  fellowships  both  for  doctoral  and  postdoctoral  work,  networking  centres,  summer  and winter schools, faculty recharge scheme, and promotion of research at the undergraduate level.
+21.283.  During the Eleventh Plan, several schemes for promoting excellence in academic research were implemented. A major scheme was to promote Basic Scientific Research (BSR). This included grants to departments and colleges for improving basic infrastructure; fellowships both for doctoral and post-doctoral work, networking centres, summer and winter schools, faculty recharge scheme, and promotion of research at the undergraduate level.
 
 21.284.  In addition, several  new  Central  institutions  with  research  focus  were  established  in  the Eleventh Plan. However, these initiatives tended to spread  resources  thinly  and  raised  concerns  about 'relevance' to needs and to innovation and entrepreneurship in particular. While national research institutions  play  key  roles  in  meeting  national  needs  in some key areas, much more could be done.
 
 #### TWELFTH PLAN STRATEGY
 
-21.285.  In  the  Twelfth  Plan,  research  efforts  need to  be  more  directly  linked  to  the  national  development agenda and better  connected  to  the  needs  of industry and society. Public R&D institutions should be permanently and closely coupled-including in  governance  structures-to  local  institutions  of higher education. HEIs must, in turn, be the doors to collaborating with industry. There is also a need to look beyond an institutional focus for research productivity to a faculty focus, so as to enable creative faculty  to  build  teams  that  cross  the  boundaries  of institutions.
+21.285.  In the Twelfth Plan, research efforts need to be more directly linked to the national development agenda and better connected to the needs of industry and society. Public R&D institutions should be permanently and closely coupled—including in governance structures—to local institutions of higher education. HEIs must, in turn, be the doors to collaborating with industry. There is also a need to look beyond an institutional focus for research productivity to a faculty focus, so as to enable creative faculty to build teams that cross the boundaries of institutions.
 
 21.286.  The Twelfth Plan would focus on the development  of  faculty,  institutions,  departments  and centres of excellence in research and research training.  Overall,  investments  in  research  will  need  to increase gradually from the current low level of less than 1 per cent of GDP to over 2 per cent nationally, with HEIs receiving a much higher share of research investments than before.
 
@@ -4467,7 +4109,7 @@ Education 113
 
 21.289.  There is a need for an overall increase in the level  of  research  spending,  more  of  which  should be  spent  through  HEIs  which  would  provide  multiple  benefits.  Concentrating  significant  resources in  high-potential  institutions  and  faculty  through competition  is  necessary  to  create  exemplars  of global  excellence.  In  funding  research,  social  sciences require a greater boost given past neglect. The country must also put in place better mechanisms for university  research  capacity  to  lead  to  innovation, as  has  become  the  norm  globally.  This  will  require building university research capacity in areas of high potential,  encouraging closer linkages between academia  and  industry,  building  institutional  capacity to  support  academics  to  engage  in  innovation  and commercialisation,  and  creating  a  dynamic  ecosystem which can provide an enabling environment for innovation and entrepreneurship. There is a need for Indian  institutions  to  build  a  range  of  institutional support  mechanisms  such  as  technology  incubators, proof-of-concept centres, entrepreneurship programmes  and  technology  transfer  mechanisms within HEIs. Institutions should also be encouraged to build collaborative ties with private actors in the area  of  innovation  and  entrepreneurship  including technology companies, venture capitalists, as well as national and international foundations.
 
-21.290.  During  the  Twelfth  Plan,  the  country  must develop  objective  and  transparent  research  evaluation practices that are relevant to the national context and culture. To provide analytical underpinning
+21.290.  During the Twelfth Plan, the country must develop objective and transparent research evaluation practices that are relevant to the national context and culture. To provide analytical underpinning
 
 [[END OF PAGE 131]]
 
@@ -4475,11 +4117,11 @@ Education 113
 
 114 Twelfth Five Year Plan
 
-for research evaluation at national and institutional levels,  a  Centre  for  Research  Evaluation  within  a research-intensive university could be established.
+for research evaluation at national and institutional levels, a Centre for Research Evaluation within a research-intensive university could be established.
 
 #### TWELFTH PLAN INITIATIVES
 
-21.291.  In the Twelfth Plan, universities at the top of the  quality  hierarchy  would  be  identified  and  generously  supported  so  they  can  reach  the  global  top league.  Equally  important,  promising  faculty  in  all tiers  of  institutions  will  be  identified  through  peer review and supported. Similarly centres of excellence within existing universities would be created. High-calibre  faculty  would  be  attracted  from  around  the world on non-permanent teaching assignments and, similarly, Indian faculty would be provided exposure to teaching and research practices in the best universities  from  across  the  world.  All  related  initiatives would be pooled to benefit from synergy under an 'India Excellence Initiative' during the Twelfth Plan. This would include:
+21.291.  In the Twelfth Plan, universities at the top of the quality hierarchy would be identified and generously supported so they can reach the global top league. Equally important, promising faculty in all tiers of institutions will be identified through peer review and supported. Similarly centres of excellence within existing universities would be created. High-calibre faculty would be attracted from around the world on non-permanent teaching assignments and, similarly, Indian faculty would be provided exposure to teaching and research practices in the best universities from across the world. All related initiatives would be pooled to benefit from synergy under an 'India Excellence Initiative' during the Twelfth Plan. This would include:
 
 ##### Multi-Disciplinary Research Universities
 
@@ -4495,7 +4137,7 @@ for research evaluation at national and institutional levels,  a  Centre  for  R
 
 21.295.  A  National  Initiative  for  Innovation  and Entrepreneurship will be launched. This initiative  would  ( i )  enable  an  environment  that  fosters innovation,  value  creation  and  technology  transfer;  ( ii )  aim at creating awareness and developing a culture  for  protection  and  management  of  IPRs  in HEIs; ( iii ) help maximise benefits and returns from investments in research by developing partnerships amongst  universities/institutes,  R&D  organisations and industry; ( v ) creation of national research parks. This initiative would pool all related activities under the MHRD, UGC and AICTE and build synergy with similar  activities,  schemes  and  programmes  under the Ministry of Science and Technology.
 
-21.296.  Design-centred  innovation  is  a  force  multiplier that can help the country move up the value chain,  making  Indian  industry  globally  competitive. In this context, a National Initiative for Design Innovation would be launched in the Twelfth Plan. Under  this  initiative,  20  new  Design  Innovation Centres (DIC), one Open Design School (ODS) and a  National  Design  Innovation  Network  (NDIN), linking  together  all  these  schools,  would  be  set  up. ODS would ensure maximum reach of design education  and  practice  in  the  country  through  various
+21.296.  Design-centred innovation is a force multiplier that can help the country move up the value chain, making Indian industry globally competitive. In this context, a National Initiative for Design Innovation would be launched in the Twelfth Plan. Under this initiative, 20 new Design Innovation Centres (DIC), one Open Design School (ODS) and a National Design Innovation Network (NDIN), linking together all these schools, would be set up. ODS would ensure maximum reach of design education and practice in the country through various
 
 [[END OF PAGE 132]]
 
@@ -4503,7 +4145,7 @@ for research evaluation at national and institutional levels,  a  Centre  for  R
 
 Education 115
 
-collaborative education programmes (linking a broad spectrum of educational institutions), and free sharing  of  its  courseware  through  the  Internet.  NDIN would  be  a  network  of  design  schools  that  work closely  with  other  leading  institutions  of  industry and  academia,  NGOs  and  government  to  further the  reach  and  access  of  design  education,  to  promote design innovation in all sectors, and to develop wide-ranging collaborative projects between institutions. ODS and NDIN would also raise the standards of  design  education  and  innovation  in  the  country through various initiatives including the creation of fabrication labs and digital media zones across educational institutions on a large scale.
+collaborative education programmes (linking a broad spectrum of educational institutions), and free sharing of its courseware through the Internet. NDIN would be a network of design schools that work closely with other leading institutions of industry and academia, NGOs and government to further the reach and access of design education, to promote design innovation in all sectors, and to develop wide-ranging collaborative projects between institutions. ODS and NDIN would also raise the standards of design education and innovation in the country through various initiatives including the creation of fabrication labs and digital media zones across educational institutions on a large scale.
 
 ##### Promoting Collaborative Research
 
@@ -4515,7 +4157,7 @@ collaborative education programmes (linking a broad spectrum of educational inst
 
 21.300.  Similarly, local alliances would be created in different cities and interaction across institutions in such hubs would be enhanced through a structured, highly interactive and collaborative framework. The institutions would be incentivised to collaborate and allow  their  courses  to  be  available  for  students  of other institutions.
 
-21.301.  Even  though  the  collaboration  between  the academia and the industry is now growing, but this continues to be low-key and has significant room for improvement. A systematic approach to strengthen the  scale  and  scope  of  these  partnerships  would  be adopted during the Twelfth Plan. For this,  a  nodal agency—potentially called the Council for Industry and  Higher  Education  Collaboration  (CIHEC)—would be established to promote and facilitate industry-higher  education  collaboration.  CIHEC  will  be an independent not-for-profit organisation founded by contributions from industry and government and will comprise business and higher education leaders. The goals of the CIHEC span the entire higher education and research landscape including framework development,  capacity  creation,  research,  training, and  certification.  The  corporate  sector  could  participate  in  existing  institutions  of  higher  education by  setting  up  institutes  offering  degree/non-degree programmes  in  specific  fields,  creating  centres  of excellence  for  research  and  postgraduate  teaching, establish  teaching-learning  centres  to  train  faculty. In addition, the Indian Corporate Higher Education Scholarship  Fund  with  contribution  from  the  corporate sector and the Indian Corporate R&D Fund jointly funded by the government and the corporate sector could also be established.
+21.301.  Even though the collaboration between the academia and the industry is now growing, but this continues to be low-key and has significant room for improvement. A systematic approach to strengthen the scale and scope of these partnerships would be adopted during the Twelfth Plan. For this, a nodal agency—potentially called the Council for Industry and Higher Education Collaboration (CIHEC)—would be established to promote and facilitate industry-higher education collaboration. CIHEC will be an independent not-for-profit organisation founded by contributions from industry and government and will comprise business and higher education leaders. The goals of the CIHEC span the entire higher education and research landscape including framework development, capacity creation, research, training, and certification. The corporate sector could participate in existing institutions of higher education by setting up institutes offering degree/non-degree programmes in specific fields, creating centres of excellence for research and postgraduate teaching, establish teaching–learning centres to train faculty. In addition, the Indian Corporate Higher Education Scholarship Fund with contribution from the corporate sector and the Indian Corporate R&D Fund jointly funded by the government and the corporate sector could also be established.
 
 21.302.  Finally, international research collaborations  now  hold  the  key  to  competitiveness  in  the global  knowledge  economy.  Only  a  few  top  Indian institutions  are  currently  engaged  in  international research collaborations. In the Twelfth Plan, special efforts  would  be  made  to  strengthen  international research  linkages  and  involve  a  larger  number  of Indian  institutions  in  forging  such  links.  Such  collaborations  would  leverage  the  22  million-strong Indian  Diaspora  which  is  recognised  worldwide as  a  powerful  asset  for  research,  innovation  and entrepreneurship.
 
@@ -4531,11 +4173,11 @@ collaborative education programmes (linking a broad spectrum of educational inst
 
 ##### National-Level Governance
 
-21.304.  Based on the recommendations of the National  Knowledge  Commission  (2005)  and  the Committee  on  Renovation  and  Rejuvenation  of Higher  Education  (2009),  steps  were  initiated  during  the  Eleventh  Plan  to  create  a  new  legislative framework and provide a new governance structure for  higher  education  in  the  country.  For  this  purpose,  several  new  laws  are  currently  under  consideration. These include ( i ) The Prohibition of Unfair Practices in Technical Educational Institutions, Medical  Educational  Institutions  and  Universities Bill  aimed  at  checking  unfair  practices  relating  to capitation  fees  and  misleading  advertising  through mandatory  disclosures by academic institutions; ( ii ) The National Accreditation Regulatory Authority for  Higher  Educational  Institutions  Bill  that  seeks to  make  accreditation  by  independent  accreditation  agencies  mandatory  for  all  higher  educational institutions;  ( iii )  The  Education  Tribunals  Bill  to create a Central tribunal and State-level tribunals for expeditious  resolution  of  disputes  relating  to  institutions, faculty, students and regulatory authorities; ( iv )  Foreign Educational Institutions (Regulation of Entry and Operations) Bill to enable quality foreign education institutions to enter and operate in India and regulate operations of foreign education providers; ( v ) National Commission for Higher Education and  Research  (NCHER)  Bill  to  create  an  umbrella regulatory authority subsuming the UGC, and current  regulators,  AICTE,  NCTE  and  DEC;  and  ( vi ) The  National  Academic  Depository  Bill,  2011,  to create a repository of all academic credentials in the country.
+21.304.  Based on the recommendations of the National Knowledge Commission (2005) and the Committee on Renovation and Rejuvenation of Higher Education (2009), steps were initiated during the Eleventh Plan to create a new legislative framework and provide a new governance structure for higher education in the country. For this purpose, several new laws are currently under consideration. These include ( i ) The Prohibition of Unfair Practices in Technical Educational Institutions, Medical Educational Institutions and Universities Bill aimed at checking unfair practices relating to capitation fees and misleading advertising through mandatory disclosures by academic institutions; ( ii ) The National Accreditation Regulatory Authority for Higher Educational Institutions Bill that seeks to make accreditation by independent accreditation agencies mandatory for all higher educational institutions; ( iii ) The Education Tribunals Bill to create a Central tribunal and State-level tribunals for expeditious resolution of disputes relating to institutions, faculty, students and regulatory authorities; ( iv ) Foreign Educational Institutions (Regulation of Entry and Operations) Bill to enable quality foreign education institutions to enter and operate in India and regulate operations of foreign education providers; ( v ) National Commission for Higher Education and Research (NCHER) Bill to create an umbrella regulatory authority subsuming the UGC, and current regulators, AICTE, NCTE and DEC; and ( vi ) The National Academic Depository Bill, 2011, to create a repository of all academic credentials in the country.
 
 21.305.  These new laws together reflect the Government's focus on quality,  accountability,  access,  and inclusion  and  on  preparing  the  country's  higher education  system  for  a  more  competitive  globalising world. These reforms would enable and facilitate innovative  and  high-quality  institutions  to  grow, while making it difficult for poor-quality institutions to operate. In the next few years, a new governance structure at the national-level consisting primarily of the NCHER, National- and State-level Tribunals and the  National  Authority  for  Accreditation  would  be in place.
 
-21.306.  In the meantime, the UGC and other regulatory agencies have an opportunity to revitalise themselves to ensure a smooth transition to the NCHER. In  this  context,  a  review  of  internal  processes  and staff  capabilities  is  essential  and  agencies  should draw  up  year-wise  transformative  action  plans.  In addition, the UGC could immediately implement a number of innovative financing schemes that could impact  the  state  of  higher  education  significantly. For example, ( i )  the  UGC could shift from its current scheme-based approach to more effective programmatic interventions including norm-based financing  of  institutions;  ( ii )  it  could  consider  a move  from  historically  determined  detailed  operational budgets to formula-based funding for general operations;  ( iii )  it  could  start  strategic  funding  of innovative  programmes  to  promote  certain  activities/changes/investments based on institutional
+21.306.  In the meantime, the UGC and other regulatory agencies have an opportunity to revitalise themselves to ensure a smooth transition to the NCHER. In this context, a review of internal processes and staff capabilities is essential and agencies should draw up year-wise transformative action plans. In addition, the UGC could immediately implement a number of innovative financing schemes that could impact the state of higher education significantly. For example, ( i ) the UGC could shift from its current scheme-based approach to more effective programmatic interventions including norm-based financing of institutions; ( ii ) it could consider a move from historically determined detailed operational budgets to formula-based funding for general operations; ( iii ) it could start strategic funding of innovative programmes to promote certain activities/changes/investments based on institutional
 
 [[END OF PAGE 134]]
 
@@ -4545,7 +4187,7 @@ Education
 
 117
 
-proposals evaluated selectively and competitively; ( iv )  finally,  the  UGC or some other Central agency could  further  play  a  leading  role  in  longitudinal profiling  of  students  as  they  transition  through  the higher  educational  cycle  into  the  workplace  and could also play a role in institutional benchmarking on a longitudinal basis.
+proposals evaluated selectively and competitively; ( iv ) finally, the UGC or some other Central agency could further play a leading role in longitudinal profiling of students as they transition through the higher educational cycle into the workplace and could also play a role in institutional benchmarking on a longitudinal basis.
 
 ##### State-Level Governance
 
@@ -4555,7 +4197,7 @@ proposals evaluated selectively and competitively; ( iv )  finally,  the  UGC or
 
 ##### Institutional Level Governance
 
-21.309.  Academic institutions primarily rely on individual  initiative  and  creativity  to  develop  their unique  institutional  culture  and  tradition  over  a long period of time. Principles of academic freedom, shared  governance,  meritocratic  selection,  promotion of diversity and institutional accountability are defining features of a well-governed academic institution.  Moreover,  the  oversight,  governance  and management of HEIs should be closely tied to their mission. For this the current practice of treating all institutions  alike  will  need  to  be  abandoned.  There is a need to move away from enforcing standardisation  of  education  and  processes  to  allow  for  diversity  in  institutional  types,  missions,  resources  and privileges.  This  would  require  a  categorisation  of institutions of higher education, with each category of institutions being treated differently for purposes of academic regulation, governance and funding.
+21.309.  Academic institutions primarily rely on individual initiative and creativity to develop their unique institutional culture and tradition over a long period of time. Principles of academic freedom, shared governance, meritocratic selection, promotion of diversity and institutional accountability are defining features of a well-governed academic institution. Moreover, the oversight, governance and management of HEIs should be closely tied to their mission. For this the current practice of treating all institutions alike will need to be abandoned. There is a need to move away from enforcing standardisation of education and processes to allow for diversity in institutional types, missions, resources and privileges. This would require a categorisation of institutions of higher education, with each category of institutions being treated differently for purposes of academic regulation, governance and funding.
 
 21.310.  Empirical  evidence  suggests  that  better-run institutions are highly autonomous, especially when autonomy over academic matters vests with faculty. Autonomy  in  the  areas  of  finance,  organisational structure, operations and staffing is also important, but  should  be  consistent  with  internal  systems  of evaluation and accountability and tied to the mission of the institution. Recently the Central Government has  taken  several  measures  to  loosen  its  grip  over institutions funded by it, as in the case of the Indian Institutes of Management, where the government no longer has any role in the selection of Board members. The Board plays the key role in the selection of the Director, though the final decision is still made by the government. The government has also explicitly promoted autonomy in State-funded institutions through  programmes  like  the  Technical  Education Quality  Improvement  Programme.  This  process  of freeing public institutions from government controls would be continued in the Twelfth Plan. This would be based on a framework for autonomy on all its five dimensions.
 
@@ -4563,7 +4205,7 @@ proposals evaluated selectively and competitively; ( iv )  finally,  the  UGC or
 
 ##### Developing Academic Leadership
 
-21.312.  During the Twelfth Plan, an ecosystem for  scholarship  and  development  of  professional
+21.312.  During the Twelfth Plan, an ecosystem for scholarship and development of professional
 
 [[END OF PAGE 135]]
 
@@ -4573,7 +4215,7 @@ proposals evaluated selectively and competitively; ( iv )  finally,  the  UGC or
 
 Twelfth Five Year Plan
 
-academic  leadership in higher education  would be  created.  For  this,  an  'Institute  for  Academic Leadership in Higher Education' could be co-located within  NUEPA  or  any  other  institution  of  higher education.  This  institute  would  function  as  a  hub with university-based 'Academy for Leadership Development' as nodes. At least five such academies would be set up in the Twelfth Plan.
+academic leadership in higher education would be created. For this, an 'Institute for Academic Leadership in Higher Education' could be co-located within NUEPA or any other institution of higher education. This institute would function as a hub with university-based 'Academy for Leadership Development' as nodes. At least five such academies would be set up in the Twelfth Plan.
 
 ##### Student Services and Admissions
 
@@ -4581,7 +4223,7 @@ academic  leadership in higher education  would be  created.  For  this,  an  'I
 
 21.314.  Since HEIs fall under multiple agencies, reliable and current information about institutions is not available in any one place and information provided by  regulatory  agencies  is  not  in  a  student-friendly format. As a result, students and their parents often rely  upon  brokers/agents,  and  promotion  materials in  the  selection  of  institutions.  Such  information  is often unreliable. The Prohibition of Unfair Practices in  Technical Educational Institutions, Medical Educational Institutions and Universities Bill has provisions  that  can  take  care  of  such  admission-related unfair practices and maladies. The Bill is under consideration. However, until the law comes into force, a centralised portal may be created to provide accurate and current information about institutions and courses to students and parents in a way that helps them in the process of decision-making with respect to institutions and courses for admissions.
 
-21.315.  There is also a very obvious need to reform the  overall  admissions  process  in  the  country.  The multiplicity of admissions tests has resulted in large-scale coaching, often at the cost of regular education. The country should move towards fewer admissions tests, each of which should be conducted in a transparent and objective manner. Universities should be provided the autonomy to set their own admissions criteria and utilise the results of the nationwide tests for their admissions process as appropriate to their academic mission and admissions philosophy. This would align students with the right institution, significantly reduce hardships on students and reduce admission-related unfair practices.
+21.315.  There is also a very obvious need to reform the overall admissions process in the country. The multiplicity of admissions tests has resulted in large-scale coaching, often at the cost of regular education. The country should move towards fewer admissions tests, each of which should be conducted in a transparent and objective manner. Universities should be provided the autonomy to set their own admissions criteria and utilise the results of the nationwide tests for their admissions process as appropriate to their academic mission and admissions philosophy. This would align students with the right institution, significantly reduce hardships on students and reduce admission-related unfair practices.
 
 #### FINANCING STRATEGY
 
@@ -4600,7 +4242,7 @@ TABLE 21.13 Funding Responsibility for Universities and Colleges
 
 Source: Planning Commission.
 
-21.317.  Overall,  Central  funding  of  State  institutions is meagre. Together the State systems enrolled 15  times  more  students  than  Central  institutions, but received only one-third of the Plan grants during the Eleventh Plan. Half of the Central Plan funds ( ` 20,630  crore)  went  to  Central  institutions,  with State universities, colleges and polytechnics receiving
+21.317.  Overall, Central funding of State institutions is meagre. Together the State systems enrolled 15 times more students than Central institutions, but received only one-third of the Plan grants during the Eleventh Plan. Half of the Central Plan funds ( ` 20,630 crore) went to Central institutions, with State universities, colleges and polytechnics receiving
 
 [[END OF PAGE 136]]
 
@@ -4608,7 +4250,7 @@ Source: Planning Commission.
 
 Education 119
 
-just  about ` 10,446 crore. In addition, Central institutions  received  about ` 25,000  crore  as  non-Plan grants  during  the  Eleventh  Plan  period,  while  the State institutions do not receive any non-Plan grants. Consequently,  State  universities  and  colleges  face serious financial difficulties that often result in poor quality.
+just about ` 10,446 crore. In addition, Central institutions received about ` 25,000 crore as non-Plan grants during the Eleventh Plan period, while the State institutions do not receive any non-Plan grants. Consequently, State universities and colleges face serious financial difficulties that often result in poor quality.
 
 21.318.  The government spending on higher education has grown steadily over the years. Central Plan spending  grew  most  rapidly  from ` 1,600  crore  in 2005-06  to ` 13,100  crore  (over  eight  times),  while State  Plan  funding  increased  much  less.  On  the non-Plan  side,  while  Central  spending  increased two  and  a  half  times,  State  non-Plan  funding  just about doubled during the same period. Thus, State Government spending has been growing slower than Central  spending  and  the  rise  in  funding  levels  do not  match  the  rapid  expansion  of  the  State  higher education systems.
 
@@ -4618,21 +4260,19 @@ just  about ` 10,446 crore. In addition, Central institutions  received  about `
 
 21.320.  Higher education requires significantly larger investments to deliver on the multiple objectives and to achieve the various goals set out in the Twelfth  Plan.  This  investment  has  to  come  from both  public  and  private  sources  and  from  both Central  and  State  exchequers.  The  role  of  Central Plan funds for higher education is critical not only to revamp Central institutions so that they can play national leadership roles in delivering three Es, but also to leverage desired change in the entire system of higher education. This will include serious investments  in  building  key  institutions  such  as  accreditation and funding bodies and mechanisms, so that they can take on the strategic central roles effectively. A  continued  and  significant  increase  in  Central Plan funds including investments to promote better implementation capacity is essential.
 
-21.321.  The Twelfth Plan advocates a paradigm shift in  funding  from  demand-based  grants  and  input-based budgeting to normative and entitlement-based grants  and  outcome-based  budgeting.  For  example,  block  grants  should  replace  line-item  budgets and Plan allocations should be based on long-term strategic  plans  developed  by  the  institutions.  Consequently,  annual  funding  should  be  linked  to  the performance  of  institutions  against  the  milestones and targets laid down in their strategic plans. In turn, institutions  need  to  provide  complete  transparency about their financial performance and use of funds by  putting  their  financial  statements  online.  All institutions should implement the recently finalised accounting  standards  developed  by  ICAI  that  lay down a common format for the reporting of financial statements.
+21.321.  The Twelfth Plan advocates a paradigm shift in funding from demand-based grants and input-based budgeting to normative and entitlement-based grants and outcome-based budgeting. For example, block grants should replace line-item budgets and Plan allocations should be based on long-term strategic plans developed by the institutions. Consequently, annual funding should be linked to the performance of institutions against the milestones and targets laid down in their strategic plans. In turn, institutions need to provide complete transparency about their financial performance and use of funds by putting their financial statements online. All institutions should implement the recently finalised accounting standards developed by ICAI that lay down a common format for the reporting of financial statements.
 
 ##### Public Funding
 
 21.322.  Funding  from  both  the  Central  and  the State Governments has to be significantly increased and efficiency of its utilisation improved during the Twelfth Plan. The Plan should target public spending on higher education to reach 1.5 per cent of the GDP from the current 1.22 per cent. For this, the Central Government has to use its Plan funds strategically to encourage  greater  State  funding  and  promote  efficiency in expenditure.
 
-21.323.  During  the  Twelfth  Plan,  the  States  would be encouraged to draw up strategic plans for higher education. Such plans should be comprehensive and take  a  holistic  view  of  increased  demand  pressure with improvements in the school system and greater need  for  more  qualified  people  from  the  economy and the labour market. An institutional mechanism for  joint  funding  of  State  plans  by  the  Central  and the State Governments would be evolved and there
+21.323.  During  the  Twelfth  Plan,  the  States  would be encouraged to draw up strategic plans for higher education. Such plans should be comprehensive and take  a  holistic  view  of  increased  demand  pressure with improvements in the school system and greater need  for  more  qualified  people  from  the  economy and the labour market. An institutional mechanism for  joint  funding  of  State  plans  by  the  Central  and the State Governments would be evolved and there would be a joint review mechanism to ensure proper use of funds. Central funding would be linked to governance  and  academic  reforms  in  the  State  system that would focus on building overall system capacity.
 
 [[END OF PAGE 137]]
 
 [[START OF PAGE 138]]
 
 120 Twelfth Five Year Plan
-
-would be a joint review mechanism to ensure proper use of funds. Central funding would be linked to governance  and  academic  reforms  in  the  State  system that would focus on building overall system capacity.
 
 ##### Institutional Fee Structure
 
@@ -4646,7 +4286,7 @@ would be a joint review mechanism to ensure proper use of funds. Central funding
 
 21.326.  During the Twelfth  Plan, the focus will be  on  expansion  by  scaling  up  capacity  of  existing institutions, better targeting of equity initiatives and greater focus on improving quality and fostering excellence. Central institutions, in particular the new  ones  established  in  the  Eleventh  Plan,  would require huge investments over the next few years for developing basic infrastructure and facilities to gain critical  mass  and  make  a  meaningful  impact.  State universities  and  colleges  that  constitute  the  bulk  of HEIs are poorly funded and suffer from acute quality deficit. A quantum jump in Central funding for State universities  and  colleges  is  envisaged.  This  funding would  be  strategically  used  to  foster  academic  and administrative  reforms,  address  challenges  and  fill in the gaps in the overall State plans for higher education. In addition, a separate outlay has been kept for creation of a large-scale ecosystem for skill-based higher  education.  A  large  outlay  is  needed  for  the revamped students' financial aid programme to significantly increase the reach of scholarships and education loans through government-backed guarantees as well as for various equity-related initiatives.
 
-21.327.  In addition, there are other ongoing schemes and  initiatives  of  the  Ministry  of  HRD,  UGC  and AICTE  which  require  large  outlays.  These  would also  include  the  provision  of  flexi  funds.  Much  of the  focus  is  on  consolidation  and  improving  quality  and  focused  interventions  to  address  challenges of  access,  equity  and  excellence.  Overall,  an  outlay ` 1,10,700 crore for higher education is proposed for the  Twelfth  Plan.  This  is  merely  30  per  cent  more than  the  outlay  in  the  Eleventh  Plan,  even  though it  is  more  than  two  and  a  half  times  the  actual expenditure in the Eleventh Plan. Such a significant increase is justified because of the increasing demand for  quality  higher  education  driven  by  improved
+21.327.  In addition, there are other ongoing schemes and initiatives of the Ministry of HRD, UGC and AICTE which require large outlays. These would also include the provision of flexi funds. Much of the focus is on consolidation and improving quality and focused interventions to address challenges of access, equity and excellence. Overall, an outlay ` 1,10,700 crore for higher education is proposed for the Twelfth Plan. This is merely 30 per cent more than the outlay in the Eleventh Plan, even though it is more than two and a half times the actual expenditure in the Eleventh Plan. Such a significant increase is justified because of the increasing demand for quality higher education driven by improved
 
 [[END OF PAGE 138]]
 
@@ -4656,7 +4296,7 @@ Education
 
 121
 
-schooling  coupled  with  the  shortfall  in  spending during the Eleventh Plan. A detailed matrix for the outlay is provided in the appendix.
+schooling coupled with the shortfall in spending during the Eleventh Plan. A detailed matrix for the outlay is provided in the appendix.
 
 21.328.  About two-thirds  of the increase in the Twelfth Plan outlays over the actual expenditure in the  Eleventh  Plan  is  accounted  for  by  the  following  four  major  areas:  ( i )  State  universities  and  colleges  (including polytechnics); ( ii )  equity  initiatives (including  student  financial  support);  ( iii )  Central universities  and  institutions;  and  ( iv )  research  and innovation initiatives.
 
@@ -4668,19 +4308,19 @@ schooling  coupled  with  the  shortfall  in  spending during the Eleventh Plan.
 
 21.330.  The implementation framework for the Twelfth Plan aims to:
 
-1. Interlink  expansion,  equity  and  excellence,  and focus  on  those  programmes  that  serve  as  the locus at which more than one objective is met.
+- Interlink  expansion,  equity  and  excellence,  and focus  on  those  programmes  that  serve  as  the locus at which more than one objective is met.
 
-2. Bring down the walls that separate higher education from technical education with a focus on interdisciplinary action points.
+- Bring down the walls that separate higher education from technical education with a focus on interdisciplinary action points.
 
-3. Recognise  State  education  systems  as  the  principal site for expansion and focus on improving the average quality of State institutions.
+- Recognise  State  education  systems  as  the  principal site for expansion and focus on improving the average quality of State institutions.
 
-4. Recognise  that  diverse  disadvantaged  groups suffer from different kinds of disadvantages and need specifically targeted interventions.
+- Recognise  that  diverse  disadvantaged  groups suffer from different kinds of disadvantages and need specifically targeted interventions.
 
-5. Revamp  student  financial  aid  programmes  as the  main  channel  for  individual-focused  equity schemes.
+- Revamp  student  financial  aid  programmes  as the  main  channel  for  individual-focused  equity schemes.
 
-6. Recognise  that  fostering  excellence  is  a  multi-dimensional  challenge  requiring  simultaneous action on many fronts.
+- Recognise that fostering excellence is a multi-dimensional challenge requiring simultaneous action on many fronts.
 
-7. Provide  greater  flexibility  to  the  implementing agencies  by  grouping  schemes  under  umbrella national initiatives.
+- Provide  greater  flexibility  to  the  implementing agencies  by  grouping  schemes  under  umbrella national initiatives.
 
 ##### Monitoring and Evaluation
 
@@ -4690,7 +4330,7 @@ schooling  coupled  with  the  shortfall  in  spending during the Eleventh Plan.
 
 21.332.  The country lacks current  and  comprehensive  data  for  evidence-based  policymaking  and effective  planning.  It  would  be  critical  to  publish  a comprehensive data book on the landscape of higher education  with  complete  facts,  figures  and  trends. This could include data across time and geography and  should  contain  both  State-level  break-up  and also inter-temporal trends. Data collection on higher education  should  be  aligned  to  the  International Standards  Classification  of  Educational  Data  finalised  by  UNESCO  recently.  A  classification  framework of HEIs will also be necessary for getting a better sense of the institutional landscape in the country.
 
-21.333.  The  Central  Government  is  conducting  an All India Survey on Higher Education. This should provide  useful  insights  and  can  be  the  first  step towards creating a comprehensive higher education data  management  system.  The  onus  of  providing timely and reliable data on student enrolments and other  strategic  indicators/key  metrics  for  a  centralised  web-based higher education data management system should rest with the educational institutions, whether  public  or  private.  The  web-based  higher education data management system should be used for  tracking  the  progress  of  HEIs  and  for  carrying out  a  variety  of  analysis  leading  to  improved  performance of  HEIs.  Also,  the  higher  education  data management  system  can  be  used  for  conducting surveys and generating additional data from educational  institutions  that  could  be  used  as  inputs  for higher education planning at the Central, State and institutional levels. Higher education database management  system  can  also  provide  the  desired  data to  various  stakeholders  such  as  national  academic depository,  planning  bodies,  research  entities,  students and other academic bodies.
+21.333.  The Central Government is conducting an All India Survey on Higher Education. This should provide useful insights and can be the first step towards creating a comprehensive higher education
 
 [[END OF PAGE 139]]
 
@@ -4699,6 +4339,8 @@ schooling  coupled  with  the  shortfall  in  spending during the Eleventh Plan.
 122
 
 Twelfth Five Year Plan
+
+data management system. The onus of providing timely and reliable data on student enrolments and other strategic indicators/key metrics for a centralised web-based higher education data management system should rest with the educational institutions, whether public or private. The web-based higher education data management system should be used for tracking the progress of HEIs and for carrying out a variety of analysis leading to improved performance of HEIs. Also, the higher education data management system can be used for conducting surveys and generating additional data from educational institutions that could be used as inputs for higher education planning at the Central, State and institutional levels. Higher education database management system can also provide the desired data to various stakeholders such as national academic depository, planning bodies, research entities, students and other academic bodies.
 
 ##### Higher Education Policy Research
 
@@ -4749,7 +4391,7 @@ Education
 
 1. Gini coefficient is a measure of inequality. Zero value shows perfect equality where all values are the same, while value of one shows maximal inequality.
 
-2. Total  enrolment  as  a  percentage  of  the  child  population in  specified  age  groups  including  under-age  and  over-age children.
+2. Total enrolment as a percentage of the child population in specified age groups including under-age and over-age children.
 
 3. Percentage of age-specific enrolment to the estimated child population in specified age-groups.
 
@@ -4769,11 +4411,11 @@ Education
 
 11. NSS, 2007-08.
 
-12. Globally,  enrolment  in  the  18-22  age  cohorts  is  used to  measure  the  GER.  Using  the  global  definition  GER increased from 15.2 per cent in 2007-08 to 20.2 per cent in 2011-12.
+12. Globally, enrolment in the 18-22 age cohorts is used to measure the GER. Using the global definition GER increased from 15.2 per cent in 2007-08 to 20.2 per cent in 2011-12.
 
 13. Students enrolled in ODL programmes might not register in each semester/year. They usually take longer than students enrolled in regular programmes to complete their studies, and a large proportion of ODL students are older than those in the traditional age cohort and some of them may also be enrolled in regular programmes.
 
-14. This survey was conducted by the Centre for International Higher Education at Boston College and Laboratory of  Institutional  Analysis  (LIA)  at  the  Higher  School  of Economics (Russia). See http://acarem.hse.ru/.
+14. This survey was conducted by the Centre for International Higher Education at Boston College and Laboratory of Institutional Analysis (LIA) at the Higher School of Economics (Russia). See http://acarem.hse.ru/.
 
 [[END OF PAGE 141]]
 
@@ -4791,7 +4433,7 @@ Education
 
 ##### Quantitative Dimensions of Employment
 
-22.3.  The  quantitative  dimensions  of  employment captures the trends in Labour Force, Work force at rural-urban,  Male  Female  and  sectoral  level.  Table  22.1 provides the Labour Force (LFPR) and Work Force Participation Rates (WFPR)  during the decade 1999-2000 and 2009-10. It emerges that the second half of the last decade witnessed the decline in LFPR in spite of increase in the population growth. Further it  emerges that there has been decline in both rural and  urban  LFPRs  and  WFPRs  during  the  second half  of  the  decade.  Female  LFPR  and  WFPR  show greater  fluctuations  particularly  in  rural  India.  The rise in female LFPR and WFPR during the first half of the decade might be the result of agricultural distress which depressed household income and pushed women into the labour force. Since all women entering the labour force did not get employment, the first half of the decade was also characterised by an increase
+22.3.  The quantitative dimensions of employment captures the trends in Labour Force, Work force at rural-urban, Male Female and sectoral level. Table 22.1 provides the Labour Force (LFPR) and Work Force Participation Rates (WFPR) during the decade 1999-2000 and 2009-10. It emerges that the second half of the last decade witnessed the decline in LFPR in spite of increase in the population growth. Further it emerges that there has been decline in both rural and urban LFPRs and WFPRs during the second half of the decade. Female LFPR and WFPR show greater fluctuations particularly in rural India. The rise in female LFPR and WFPR during the first half of the decade might be the result of agricultural distress which depressed household income and pushed women into the labour force. Since all women entering the labour force did not get employment, the first half of the decade was also characterised by an increase
 
 [[END OF PAGE 142]]
 
@@ -4807,7 +4449,7 @@ LFPR | WFPR | UR
 1999-2000 | 2004-05 | 2009-10 | 1999-2000 | 2004-05 | 2009-10 | 1999-2000 | 2004-05 | 2009-10
 Rural | 42.3 | 44.6 | 41.4 | 41.7 | 43.9 | 40.8 | 1.5 | 1.7 | 1.6
 Urban | 35.4 | 38.2 | 36.2 | 33.7 | 36.5 | 35 | 4.7 | 4.5 | 3.4
-All | 40.7 | 43 | 40 | 39.7 | 42 | 39.2 | 2.3 | 2.3 | 2
+All | 40.6 | 43 | 40 | 39.7 | 42 | 39.2 | 2.3 | 2.3 | 2
 
 TABLE 22.1 LFPR and WFPR by Usual Principal and Subsidiary Status, 1999-2000, 2004-05 and 2009-10 (%) Persons
 
@@ -4819,7 +4461,7 @@ in  unemployment  rate.  In  absolute  terms,  the  first half of the decade exp
 
 22.4.  There has been a substantial divergence in the directions of growth of labour force and workforce in  rural  and  urban  sectors.  In  the  Rural  sector,  the labour force declined marginally by 6.8 million from 348.7 million in 2004-05 to 341.9 million in 2009-10. The size of the workforce also showed similar trends. The workforce declined from 342.9 million in 2004-05 to  336.4  million  in  2009-10,  in  the  rural  sector, marking  a  decrease  of  6.5  million.  The  decline  in labour  force  and  workforce  in  the  rural  sector  are impacted by MGNREGA programme and other new opportunities in rural sector (Table 22.2).
 
-22.5.  In the Urban sector, the trends show a totally different  picture.  The  size  of  the  labour  force  went up by 6.6 million from 120.3 million in 2004-05 to touch 126.9 million in 2009-10. The workforce grew by 7.6 million from 115 million in 2004-05 to 122.6 million in 2009-10, in the urban sector. However the number of unemployed in the rural sector declined from 5.9 million in 2004-05 to 5.5 million in 2009-10 and in urban sector from 5.4 million to 4.3 million during the same period, indicating that the decline in urban sector was steeper than in the rural sector. The unemployment rates in rural sector have also seen a marginal fall from 1.7 per cent in 2004-05 to 1.6 per cent in 2009-10 and from 4.5 to 3.4 in the urban sector (Table 22.1 and Figure 22.1).
+22.5.  In the Urban sector, the trends show a totally different picture. The size of the labour force went up by 6.6 million from 120.3 million in 2004-05 to touch 126.9 million in 2009-10. The workforce grew by 7.6 million from 115 million in 2004-05 to 122.6 million in 2009-10, in the urban sector. However the number of unemployed in the rural sector declined from 5.9 million in 2004-05 to 5.5 million in 2009-10 and in urban sector from 5.4 million to 4.3 million during the same period, indicating that the decline in urban sector was steeper than in the rural sector. The unemployment rates in rural sector have also seen a marginal fall from 1.7 per cent in 2004-05 to 1.6 per cent in 2009-10 and from 4.5 to 3.4 in the urban sector (Table 22.1 and Figure 22.1).
 
 22.6.  After  rising  from  6.06  per  cent  in  1993-94  to 7.31 per cent in 1999-2000 and further to 8.28 per cent  in  2004-05  unemployment  rate  fell  to  6.6  per cent  in  2009-10.  On  the  UPSS  the  unemployment rate  has  declined  from  2.3  per  cent  in  2004-05  to 2 per cent in 2009-10. The decline in the LFPR for women and increase in the WFPR for men are suggestive of increase in the wages. Table 22.3 indicates that the wages for regular salaried male rural workers in real terms have increased by about 51 per cent and 56 per cent for casual workers. It also emerges from table below that increase in the wages have resulted
 
@@ -4844,8 +4486,6 @@ NSS 61st and 66th Rounds.
 
 Twelfth Five Year Plan
 
-Unemployment rate (%)
-
 10
 8
 6
@@ -4853,12 +4493,15 @@ Unemployment rate (%)
 2
 0
 
-1983 | 1993-94 | 1999-2000 | 2004-05 | 2009-10
-9.22 | 6.06 | 7.31 | 8.28 | 6.6
+1983: 9.22
+1993-94: 6.06
+1999-2000: 7.31
+2004-05: 8.28
+2009-10: 6.6
 
-Source:
+Unemployment rate (%)
 
-NSS Rounds.
+Source: NSS Rounds.
 
 FIGURE 22.1: Trend in Unemployment Rate
 
@@ -4881,7 +4524,7 @@ Note: Figures in parentheses are at constant prices. For rural areas derived fro
 
 in increase in the consumption both in the rural and urban areas by 17.4 per cent and 34 per cent respectively during 1993-94 to 2009-10.
 
-22.7.  The  rise  in  employment  for  males  and  wages has led to a sharp rise in consumption. As per NSSO data on consumption (NSS 66th  Round) Monthly per capita consumption expenditure in rural areas in real terms increased to 1.4 per cent per year in the five years from 2004-05 to 2009-10 from 0.8 per cent per year  in  the  1993-94  to  2004-05  period.  For  urban areas,  the  real  per  capita  expenditures  grew  faster during the same period from 1.47 per cent between 1993-94  and  2004-05  to  2.67  per  cent  between 2004-05  and  2009-10.  The  Conceptual  framework of  employment  and  unemployment  indicators  are presented in Box 22.1.
+22.7.  The rise in employment for males and wages has led to a sharp rise in consumption. As per NSSO data on consumption (NSS 66th Round) Monthly per capita consumption expenditure in rural areas in real terms increased to 1.4 per cent per year in the five years from 2004-05 to 2009-10 from 0.8 per cent per year in the 1993-94 to 2004-05 period. For urban areas, the real per capita expenditures grew faster during the same period from 1.47 per cent between 1993-94 and 2004-05 to 2.67 per cent between 2004-05 and 2009-10. The Conceptual framework of employment and unemployment indicators are presented in Box 22.1.
 
 22.8.  In  terms  of  Sectoral  shares  in  employment it  emerges  that  the  agriculture  share  in  employment declined from 59.9 per cent at the beginning of decade to 53.2 per cent at the end of the decade. However,  this  is  still  very  high  compared  with  the share of agriculture in other countries in the region. The share of manufacturing in the total employment after increasing to 12.2 per cent in the first half of the decade declined to 11 per cent in the second half of the decade indicating usage of more capital intensive technology in the absence of skilled manpower. The share of services has increased from 23.7 per cent in
 
@@ -4992,7 +4635,7 @@ Twelfth Five Year Plan
 
 ##### Non-Manufacturing
 
-22.23.  All  the  States  experienced  increase  in  non-manufacturing employment, mainly in construction sector in the second half of the decade.
+22.23.  All the States experienced increase in non-manufacturing employment, mainly in construction sector in the second half of the decade.
 
 ##### Services
 
@@ -5004,7 +4647,7 @@ Twelfth Five Year Plan
 
 ##### Informalisation of Employment
 
-22.26.  A critical issue in assessing employment  behavior  of  the  economy  is  the  growth  of employment  in  the  organised  sector  vis-à-vis  the
+22.26.  A critical issue in assessing employment behavior of the economy is the growth of employment in the organised sector vis-à-vis the
 
 [[END OF PAGE 148]]
 
@@ -5034,15 +4677,15 @@ TABLE 22.5 Formal and Informal Employment in Organized and Unorganised Sector (m
 
 Source: For 2009-10, computed from NSS 66th round, for other years taken from NCEUS, 2007.
 
-unorganised  sector  and  particularly  in  terms  of formal  and  informal  employments.  It  is  generally opined  that  unorganised  sector  employment  is  of low  quality  compared  to  organised  sector  employment. Table 22.5 presents the employment in organised and unorganised sector in terms of formal and informal employment.
+unorganised sector and particularly in terms of formal and informal employments. It is generally opined that unorganised sector employment is of low quality compared to organised sector employment. Table 22.5 presents the employment in organised and unorganised sector in terms of formal and informal employment.
 
-22.27.  The above data shows a decline in the employment  in  the  unorganised  sector  from  86  per  cent in  2004-05  to  84  per  cent  in  2009-10. This  means that  the  share  of  organised  sector  employment  has increased  to  16  per  cent  in  2009-10  from  14  per cent  in  both  1999-2000  and  2004-05.  However, the  increase  in  the  organised  sector  employment is  mainly  in  the  informal  category.  The  informal employment  in  the  organised  sector  has  increased from  46.4  per  cent  in  2004-05  to  about  57.8  per cent in 2009-10. The  informal  employment  in the  unorganised  sector  remains  the  same.  Nearly 93 per cent of the total workforce in 2009-10 is in informal  employment,  a  rise  from  91  per  cent  in 1999-2000. If agriculture is excluded from the workforce, the share of informal workers in the total non-agricultural  workforce  drops  to  85.6  per  cent  from 93 per cent, which is still very high as compared to that  in  Brazil  (51  per  cent),  Mexico  (50  per  cent), Indonesia  (78  per  cent),  Philippines  (72  per  cent), and Thailand (49 per cent).
+22.27.  The above data shows a decline in the employment in the unorganised sector from 86 per cent in 2004-05 to 84 per cent in 2009-10. This means that the share of organised sector employment has increased to 16 per cent in 2009-10 from 14 per cent in both 1999-2000 and 2004-05. However, the increase in the organised sector employment is mainly in the informal category. The informal employment in the organised sector has increased from 46.4 per cent in 2004-05 to about 57.8 per cent in 2009-10. The informal employment in the unorganised sector remains the same. Nearly 93 per cent of the total workforce in 2009-10 is in informal employment, a rise from 91 per cent in 1999-2000. If agriculture is excluded from the workforce, the share of informal workers in the total non-agricultural workforce drops to 85.6 per cent from 93 per cent, which is still very high as compared to that in Brazil (51 per cent), Mexico (50 per cent), Indonesia (78 per cent), Philippines (72 per cent), and Thailand (49 per cent).
 
 22.28.  The above trend is indicative of movement of workers  from  informal  agricultural  sector  employment to informal non-agricultural sectors. The transition from informal employment in the unorganised sectors to informal employment in the organised sectors is indicated by a decline of 8.4 million informal workers in unorganised sector along with an increase of  13  million  informal  workers  in  the  organised sector.  What  is  notable  is  that  formal  employment in the organised sector is not increasing. This shows that  organised  enterprises  employers  are  increasingly  hiring  workers  on  contractual  terms  due  to labour laws and other concerns. Small and medium size enterprises generally belong to the unorganised sector and employ informal workers. Hence analysing  employment  by  size  of  enterprises  would  provide some insights on the qualitative dimensions of employment.
 
 ##### Size of Enterprises by Employment
 
-22.29.  The data in Table 22.6 on size class of enterprises  by  the  number  of  workers  that  they  employ shows  an  occurrence  of  shift  in  non-agricultural employment in the 2000s. The workers in the enterprises  with  less  than  six  employees  (that  is,  micro enterprises) show a remarkable decline both in absolute  as  well  as  in  relative  terms  between  2004-05 and 2009-10. Such micro enterprises accounted for 152.5  million  workers  in  the  middle  of  the  decade, or  75  per  cent  of  all  non-agricultural  workers.  By the  end  of  the  decade  the  number  of  workers  in such enterprises had fallen by nearly 4 million, and the share of such micro enterprises in the total non-agricultural employment was down to 65.6 per cent. Correspondingly there was an increase in the number  of  workers  employed  in  enterprises  with  6  and above but less than 10 workers, from 15.2 million in the middle of the decade to nearly 24 million at its end, thus raising the share of workers in such enterprises from 7.5 per cent to 10.5 per cent of all non-agricultural employment in the country. It is better for  workers  since  it  reduces  the  fragmentation  and enables them to organise.
+22.29.  The data in Table 22.6 on size class of enterprises by the number of workers that they employ shows an occurrence of shift in non-agricultural employment in the 2000s. The workers in the enterprises with less than six employees (that is, micro enterprises) show a remarkable decline both in absolute as well as in relative terms between 2004-05 and 2009-10. Such micro enterprises accounted for 152.5 million workers in the middle of the decade, or 75 per cent of all non-agricultural workers. By the end of the decade the number of workers in such enterprises had fallen by nearly 4 million, and the share of such micro enterprises in the total non-agricultural employment was down to 65.6 per cent. Correspondingly there was an increase in the number of workers employed in enterprises with 6 and above but less than 10 workers, from 15.2 million in the middle of the decade to nearly 24 million at its end, thus raising the share of workers in such enterprises from 7.5 per cent to 10.5 per cent of all non-agricultural employment in the country. It is better for workers since it reduces the fragmentation and enables them to organise.
 
 [[END OF PAGE 149]]
 
@@ -5067,7 +4710,7 @@ Source: Compiled from NSS, 2009-10 (66th Round) and NSS, 2004-05 (61st Round).
 
 ##### Category of Workers by Employment Status
 
-22.30.  In  the  labour  market  casual  labour  and  self-employed  are  most  vulnerable.  Table  22.7  shows the  annual  increase  in  the  work-force  by  category of employment in first half of the decade compared with second half of the decade. A notable feature is the increase in the number of jobs created at regular salaried wage and as casual worker. This may be due to increase in non-manufacturing and service sector employment as discussed earlier.
+22.30.  In the labour market casual labour and self-employed are most vulnerable. Table 22.7 shows the annual increase in the work-force by category of employment in first half of the decade compared with second half of the decade. A notable feature is the increase in the number of jobs created at regular salaried wage and as casual worker. This may be due to increase in non manufacturing and service sector employment as discussed earlier.
 
 1999-2000 | 2004-05 | 2009-10
 --- | --- | --- | ---
@@ -5262,7 +4905,7 @@ Employment and Skill Development
 
 22.39.  The  projections  of  labour  force  have  been made using the  latest  population  projections  made by  the  NSSO  and  2011  census  data.  The  projected increase  in  labour  force  during  the  Twelfth  Plan period for the 15 and above age group is now estimated to be around 24.5 million from 477.9 million in 2011 to 502.4 million by the end of 2017. This is calculated  on  the  basis  of  age  specific  LFPRs  and population distribution trend that has existed since 2004-05. India has seen deceleration in population growth rate (Census 1991, 2001 and 2011). The 66th Round has also shown a decline in the female participation rate, which could be the effect of increasing enrolment in educational institutions, as also the impact of rising incomes, where women do not want to do low quality jobs (backward bending labour supply curve). With the focus of the policy planners on raising the gross enrollment ratio in secondary and higher education, the number of people entering the labour force may not see a significant rise. Assuming the  rate  of  decline  in  population  growth  rate  to  be in line with the past trend, and taking into account the effect of education and rising family income on female  work  participation,  the  LFPR  is  expected to  decline  further.  The  absolute  increase  in  the labour force by the end of Twelfth plan is therefore expected  to  be  small.  Based  on  these  assumptions, the population and labour force projections for the Twelfth Five Year Plan are shown in the Table 22.13.
 
-22.40.  With  the  enactment  of  Right  to  Education (RTE),  introduction  of  the  National  Skills  Qualification Framework  (NSQF)  and  integration of vocational education with the secondary education, drop-out rates are likely to decrease. Creating nonfarm  employment  opportunities  for  the  educated youth  will  be  a  challenge  for  the  country  in  near future.  To  meet  the  education  targets  of  near  full universalisation  of  secondary  education  (>90  per cent), GER of 65 per cent in higher secondary classes and expected increase of enrollment in universities and  colleges  from  200.3  lakhs  in  2011-12  to  300.2 lakhs by 2016-17, about 28 million will be drawn out of  the  labor  force  (15-59  age  group).  Therefore,  in order to ensure that the overall labor force participation rate does not fall much over the Plan period; efforts have to be made to raise the female work participation rates.
+22.40.  With  the  enactment  of  Right  to  Education (RTE),  introduction  of  the  National  Skills  Qualification Framework  (NSQF)  and  integration of vocational education with the secondary education, drop-out rates are likely to decrease. Creating non-farm  employment  opportunities  for  the  educated youth  will  be  a  challenge  for  the  country  in  near future.  To  meet  the  education  targets  of  near  full universalisation  of  secondary  education  (>90  per cent), GER of 65 per cent in higher secondary classes and expected increase of enrollment in universities and  colleges  from  200.3  lakhs  in  2011-12  to  300.2 lakhs by 2016-17, about 28 million will be drawn out of  the  labor  force  (15-59  age  group).  Therefore,  in order to ensure that the overall labor force participation rate does not fall much over the Plan period; efforts have to be made to raise the female work participation rates.
 
 ##### Work Force Projections: Total and Sectoral Employment Projections
 
@@ -5430,7 +5073,7 @@ III. To generate greater overall employment, at least labour  intensive  manufac
 
 Twelfth Five Year Plan
 
-22.56.  Structural  shifts  in  the  economy  in  terms of  increase  in  contribution  of  secondary  and  tertiary  sectors  to  GDP  and  demographic  dividend have  implications  for  skills  development  strategy. India  will  have  about  63  per  cent  of  its  population in  the  working  age  group  by  2022.  China's  demographic  dividend  would  start  tapering  off  by  2015, but India would continue to enjoy it till 2040. India needs  to  provide  skills  and  training  to  its  young workforce if this window of opportunity is not to be lost. However, the availability of demographic dividend varies across the country with wide variation in Northern and Southern states. While the Northern states  would  have  young  population  the  southern states  have  already  started  aging.  It  emerges  from the Annexure 22.4 that the Dependency ratio in UP and Bihar at 1.05 and 1.08 respectively is lower than the  dependency ratio in Tamil Nadu and Kerala at 1.74 and 1.79 respectively. This is also lower than the dependency ratio at All India Level at 1.33.
+22.56.  Structural  shifts  in  the  economy  in  terms of  increase  in  contribution  of  secondary  and  territory  sectors  to  GDP  and  demographic  dividend have  implications  for  skills  development  strategy. India  will  have  about  63  per  cent  of  its  population in  the  working  age  group  by  2022.  China's  demographic  dividend  would  start  tapering  off  by  2015, but India would continue to enjoy it till 2040. India needs  to  provide  skills  and  training  to  its  young workforce if this window of opportunity is not to be lost. However, the availability of demographic dividend varies across the country with wide variation in Northern and Southern states. While the Northern states  would  have  young  population  the  southern states  have  already  started  aging.  It  emerges  from the Annexure 22.4 that the Dependency ratio in UP and Bihar at 1.05 and 1.08 respectively is lower than the  dependency ratio in Tamil Nadu and Kerala at 1.74 and 1.79 respectively. This is also lower than the dependency ratio at All India Level at 1.33.
 
 22.57.  The rise in the share of the working-age population would lead to increase in demand for decent employment  opportunities.  However,  the  realisation  of  full  potential  of  the  demographic  dividend depends on generation of adequate decent non-farm employment opportunities and up gradation of skills of existing as well as new entrants to the workforce.
 
@@ -5622,7 +5265,7 @@ Employment and Skill Development
 
 existing  vocational  education  teachers  and  induction  training  of  30  days  for  1,000  new  vocational education teachers. 250 competency based modules are  proposed  to  be  developed  for  each  individual vocational  course.  The  revision  in  curriculum  is mandatory  once  in  three  years  to  ensure  that  the curriculum  is  guided  by  needs  of  the  industry.  A separate vocational cell has been established within the  Central  Board  of  Secondary  Education.  There is  also  provision for assistance to reputed NGOs to run  short  duration  innovative  vocational  education programmes. All the components and activities would be guided by the National Skills Qualifications Framework (NSQF).
 
-22.73.  The approach so far has been to create standalone vocational education facilities. The need of the hour  is  that  secondary  schools  in  every  panchayat can be used for vocational training outside the school hours. A formal system of vocational education certification needs to be evolved to certify students and youths  to  acquire  skills  through  this  method.  This would  require  adequate  and  suitable  infrastructure to impart the vocational training.
+22.73.  The approach so far has been to create stand-alone vocational education facilities. The need of the hour  is  that  secondary  schools  in  every  panchayat can be used for vocational training outside the school hours. A formal system of vocational education certification needs to be evolved to certify students and youths  to  acquire  skills  through  this  method.  This would  require  adequate  and  suitable  infrastructure to impart the vocational training.
 
 ##### Promoting Public Private Partnerships
 
@@ -5644,7 +5287,7 @@ existing  vocational  education  teachers  and  induction  training  of  30  day
 
 22.77.  As  per  66th  NSSO  round 2009-2010, 84 per cent  of  the  total  workforce  was  in  the  unorganised sector  and  93  per  cent  in  informal  employment (Table 22.5). The sector is heterogeneous which cut across  all  economic  activities  in  rural  and  urban areas. It contributes about 60 per cent of the GDP. The unorganised sector is dominated by workers in micro  enterprises,  unpaid  family  members,  casual labourers,  home  based  workers,  migrant  labourers, out of school youth and in need of skills, farmers and artisans in rural areas. These groups form a bottom of skill pyramid who have low skills, poor productivity and low income.
 
-22.78.  The  skill  profile  among  this  labour  force  in young  group  is  distressing.  The  key  issues  of  skill development  in  unorganised  sector  include  inadequacy of  current  training  programme  to  meet  the requirement of large workforce in the informal sector. The formal training system because of its entry requirement and urban bias does not offer skills  to  people  with  limited  education and when it does, it is not appropriate to those in the rural non-farm sectors. Most workers continue to learn on the job informally at their place of work from other low skilled  qualified  people.  The  Modular  Employable Skill  Programme  of  the  Ministry  of  Labour;  STEP of Women  and Child Development; Himayat, Parvaaz and NRLM of Ministry Rural Development; Community  Polytechnic  Development  Programme of Human Resource Development and Programmes of the Ministry of Micro Small and Medium Enterprises are some of the programmes that are benefitting this segment of the workforce. However, given the  scale  of  the  problem  much  more  needs  to  be done in terms of up scaling the training capacities, recognition of prior learning, functional literacy and so on.
+22.78.  The  skill  profile  among  this  labour  force  in young  group  is  distressing.  The  key  issues  of  skill development  in  unorganised  sector  include  inadequacy of  current  training  programme  to  meet  the requirement of large workforce in the informal sector. The formal training system because of its entry requirement and urban buyers needs does not offer skills  to  people  with  limited  education and when it does, it is not appropriate to those in the rural non-farm sectors. Most workers continue to learn on the job informally at their place of work from other low skilled  qualified  people.  The  Modular  Employable Skill  Programme  of  the  Ministry  of  Labour;  STEP of Women  and Child Development; Himayat, Parvaaz and NRLM of Ministry Rural Development; Community  Polytechnic  Development  Programme of Human Resource Development and Programmes of the Ministry of Micro Small and Medium Enterprises are some of the programmes that are benefitting this segment of the workforce. However, given the  scale  of  the  problem  much  more  needs  to  be done in terms of up scaling the training capacities, recognition of prior learning, functional literacy and so on.
 
 22.79.  Besides these initiatives, sectoral Ministries of Textiles, Woman and Child Development, Tourism, Health  and  Family  Welfare,  Agriculture,  MSME, Urban  Development  and  so  on  have  also  initiated large number of programmes to address the training requirement of their sectors and groups.
 
@@ -5902,7 +5545,7 @@ g) Provision of mobile training vans for larger out reach,
 
 h) Each MSME cluster can act a centre for apprenticeship training,
 
-i) Developing  an  eco-system  for  improvement  in the  success  rate  of  training  in  self-employment or job employment  through  the  process  of Train-Loan-Link-Support,
+i) Developing  an  eco-system  for  improvement  in the  success  rate  of  training  in  self-employment or job employment  through  the  process  of Train—Loan—Link—Support,
 
 j) Developing a pool of certified trainers with adequate technical competency, and
 
@@ -5986,7 +5629,7 @@ Employment and Skill Development
 
 #### FINANCING SKILL DEVELOPMENT
 
-22.121.  In India, currently the training programmes both  at  the  Central  and  the  State  level  are  funded from  the  plan  budget.  However,  the  challenge  of skilling  the  youth  bulge  requires  a  paradigm  shift in  the  financing  pattern  of  vocational  training  and skill  development  involving  innovative  solutions. Financing  of  the  skill  development  involves  both mobilisation  of  resources  and  allocating  the  same. The financing should involve public, private and PPP mode.  A  successful  financing  model  for  vocational education  and  training  depends  on  factors  such  as demand driven skill system; sustainable funds; transparent and outcome based fund allocation; competition for funds among training providers and so on. This can be done when the ad-hoc allocation of funds is  stopped  and  institutions  are  provided  funds  for training based on some transparent guidelines both at  central  and  state  level  requiring  placement as an end result (that is, as in the NSDC funding model). Creation of training funds are an increasingly common vehicle for financing training in many countries worldwide A typology of funds for training based on the purpose is given in Table 22.23.
+22.121.  In India, currently the training programmes both  at  the  Central  and  the  State  level  are  funded from  the  plan  budget.  However,  the  challenge  of skilling  the  youth  bulge  requires  a  paradigm  shift in  the  financing  pattern  of  vocational  training  and
 
 [[END OF PAGE 173]]
 
@@ -5995,6 +5638,8 @@ Employment and Skill Development
 156
 
 Twelfth Five Year Plan
+
+skill development involving innovative solutions. Financing  of  the  skill  development  involves  both mobilisation  of  resources  and  allocating  the  same. The financing should involve public, private and PPP mode.  A  successful  financing  model  for  vocational education  and  training  depends  on  factors  such  as demand driven skill system; sustainable funds; transparent and outcome based fund allocation; competition for funds among training providers and so on. This can be done when the ad-hoc allocation of funds is  stopped  and  institutions  are  provided  funds  for training based on some transparent guidelines both at  central  and  state  level  requiring  placement as an end result (that is, as in the NSDC funding model). Creation of training funds are an increasingly common vehicle for financing training in many countries worldwide A typology of funds for training based on the purpose is given in Table 22.23.
 
 22.122.  The strategy for financing the skill development requires addressing both the aspects of financing, namely resource mobilisation and allocation of resources. The resource mobilisation requires that all the stakeholders, namely Government, students and employers share the burden. While government provides funds through budget, there is role for greater involvement of employers and students in the financing of the training. However, this will happen only if the outcomes of the training are improved in terms of  availability  of  right  skilled  workers  to  employers and decent employment to skilled youth. As regards students sharing the cost of training it may be indicated that governmentt can offset the adverse impact on the poor students by providing the scholarships/loan on easy terms. In fact large number of Central Ministries/Departments  and  State  governments  are providing scholarships to students of poor and marginalised  sections  of  the  society.  The  private  sector needs  to  take  greater  responsibility  for  skill  development.  In  India,  the  employers  do  bear  the  cost through their own in-service training but the results are  not  very  encouraging.  Box  22.6  gives  details of  successful  financing  innovation  in  number  of countries.
 
@@ -6054,11 +5699,11 @@ Twelfth Five Year Plan
 
 demand side of the training. They can stimulate competition among the training providers. The key element is competition for the funds.
 
-- Incentivising institutions to generate income from the sale of products and service activities of trainees and to retain it for meeting the operating costs. As per estimates of DGET, 64 per cent of ITIs have started revenue generation activities. This needs to be institutionalised. This would not only facilitate generation of additional resources but would also give exposure to local market and help in market oriented training. This requires change in the training fee policy so that the funds becomes part of the institution’s budget and does not flow back to the government revenues.
+- Incentivising institutions to generate income from the sale of products and service activities of trainees and to retain it for meeting the operating costs. As per estimates of DGET, 64 per cent of ITIs have started revenue generation activities. This needs to be institutionalised. This would not only facilitate generation of additional resources but would also give exposure to local market and help in market oriented training. This requires change in the training fee policy so that the funds becomes part of the institution's budget and does not flow back to the government revenues.
 
 - A number of possibilities exist today to enhance financing for skill development. First, the Union government collects a cess upon construction companies with projects of value above a certain threshold. This Construction Workers Cess Fund has accumulated many thousands of crores, which have been lying unutilised for years. Part of these funds could be used for skilling construction workers, who are in the industry which has been expanding employment the fastest in any Indian industry in the last 10 years (as discussed earlier).
 
-- In order to shift away from the existing practice of providing only plan funds for the training, the Indian Banks’ Association (IBA) is working on vocational education loan scheme that would provide an impetus to the country’s skill mission, part of a thrust to improve the efficiency of the labour force and boost the economy. The scheme will help not just students but also skill providers complaining of low enrolment due to financial reasons. No collateral security is contemplated and the interest rate would be linked to the base rate of banks. Simple interest will be charged during the study period and up to the commencement of repayment. The repayment schedule is proposed to be dependent on duration of a course. The skill loan amount may be in the range of ₹20,000 to ₹1.5 lakh. The modalities are being worked out between the NSDC and the IBA. A universal vocational loan scheme is expected to increase financial accessibility for poor students. Gujarat is experimenting with the Skill voucher scheme to provide choice to the trainees for training providers.
+- In order to shift away from the existing practice of providing only plan funds for the training, the Indian Banks' Association (IBA) is working on vocational education loan scheme that would provide an impetus to the country's skill mission, part of a thrust to improve the efficiency of the labour force and boost the economy. The scheme will help not just students but also skill providers complaining of low enrolment due to financial reasons. No collateral security is contemplated and the interest rate would be linked to the base rate of banks. Simple interest will be charged during the study period and up to the commencement of repayment. The repayment schedule is proposed to be dependent on duration of a course. The skill loan amount may be in the range of ₹20,000 to ₹1.5 lakh. The modalities are being worked out between the NSDC and the IBA. A universal vocational loan scheme is expected to increase financial accessibility for poor students. Gujarat is experimenting with the Skill voucher scheme to provide choice to the trainees for training providers.
 
 - Corporate Social Responsibility: This is another source of fund to finance the skill training. Both public sector and private sector companies need to invest in the skill training as part of their corporate social responsibility. As per law the PSUs with about ₹100 crore profit are to invest about 5 per cent in the training. The central government and state need to proactively involve with the PSUs to undertake this responsibility and spend the resources earmarked meaningfully.
 
@@ -6112,7 +5757,7 @@ Employment and Skill Development
 
 #### PLAN OUTLAYS FOR THE MINISTRY OF LABOUR AND EMPLOYMENT
 
-22.125. An indicative outlay of ₹13,223 crore has been made for the Ministry of Labour and Employment to carry implement various schemes. Of this an amount of ₹7,316 crore is earmarked for Rashtriya Swasthya Bima Yojana and ₹5,907 crore for other schemes of the Ministry of Labour and Employment.
+22.125. An indicative outlay of ₹13,223 crore has been made for the Ministry of Labour and Employment to carry implement various schemes. Of this an amount of ₹7,316 crore is earmarked for Rashtriya Swastahya Bima Yojana and ₹5,907 crore for other schemes of the Ministry of Labour and Employment.
 
 [[END OF PAGE 177]]
 
@@ -6122,8 +5767,7 @@ Employment and Skill Development
 
 Twelfth Five Year Plan
 
-### ANNEXURE 22.1
-Employment Across Various Sectors (in millions) 1999–2000, 2004–05, 2009–10—on UPSS basis
+### ANNEXURE 22.1 Employment Across Various Sectors (in millions) 1999–2000, 2004–05, 2009–10—on UPSS basis
 
 Sectors | Employment Across Various Sectors (in millions) |  |  | Absolute Increase in Employment (in millions) |
 --- | --- | --- | --- | --- | ---
@@ -6158,8 +5802,7 @@ Employment and Skill Development
 
 161
 
-### ANNEXURE 22.2
-Absolute Increase/Decrease Employments Across Various Sectors (in millions) in Manufacturing, 1999–2000, 2004–05, 2009–10
+### ANNEXURE 22.2 Absolute Increase/Decrease Employments Across Various Sectors (in millions) in Manufacturing, 1999–2000, 2004–05, 2009–10
 
 Sectors | 1999–2000 to 2004–05 Increase/Decrease | 2004–05 to 2009–10 Increase/Decrease
 --- | --- | ---
@@ -6176,9 +5819,9 @@ basic metals | –0.12 ↓ | 0.37 ↑
 fabricated metal products, except machinery and equipment | 0.53 ↑ | –2.01 ↓
 electrical machinery and apparatus n.e.c. | –0.21 ↓ | 0.05 ↑
 motor vehicles, trailers and semi-trailers; other transport equipment | 0.50 ↑ | –0.42 ↓
-medical, precision and optical instruments, watches and clocks | 0.83 ↑ | –2.31 ↓
+medical, precision and optical instruments, watches and clocks | 0.83 ↑ | –3.14 ↓
 Recycling | 0.07 ↑ | 0.01 ↑
-Furniture: manufacturing n.e.c. | 0.6 ↑ | 2.89 ↑
+Furniture: manufacturing n.e.c. | 0.6 | 2.89 ↑
 Rubber and Plastic products | – | 0.7 ↑
 Office accounting and computing machinery | – | 0.1 ↑
 Radio, television and communication equipment and apparatus | – | 0.2 ↑
@@ -6197,9 +5840,7 @@ Source: NSSO Various Rounds.
 
 Twelfth Five Year Plan
 
-### ANNEXURE 22.3
-Incidence of Unemployment for 15 Years and Above Age Group, by Level of Education,
-2004–05 and 2009–10 (UPSS) in Percentage
+### ANNEXURE 22.3 Incidence of Unemployment for 15 Years and Above Age Group, by Level of Education, 2004–05 and 2009–10 (UPSS) in Percentage
 
 Level of Education | 2004–05 | 2009–10
 --- | --- | ---
@@ -6225,10 +5866,9 @@ Employment and Skill Development
 
 163
 
-### ANNEXURE 22.4
-Dependency Ratio Across India States, Census 2001
+### ANNEXURE 22.4 Dependency Ratio Across India States, Census 2001
 
- | Ratio—15–59:<15 Persons | Ratio —15–59:>59 Persons | Ratio—WA: Non-WA Persons
+ | Ratio—15–59:<15 Persons | Ratio—15–59:>59 Persons | Ratio—WA: Non-WA Persons
 --- | --- | --- | ---
 Bihar | 1.22 | 7.72 | 1.05
 Uttar Pradesh | 1.26 | 7.37 | 1.08
@@ -6281,13 +5921,13 @@ Note: WA: Working Age; NWA: Non- Working Age.
 
 ### INTRODUCTION
 
-23.1. The Twelfth Five Year Plan recognizes the primacy of India’s Women and Children, who constitute over 70 per cent of India’s people. This Chapter reflects their voices and aspirations, and the nation’s commitment to translate this vision into a reality during the Plan period. The Twelfth Plan strategy of inclusion envisages the engendering of development planning and making it more child-centric. Structural transformation is called for—not only in the women and child related direct policy and programme interventions, but also more generally in the policies and programmes of the many sectors that impact upon women and children especially those from the weaker sections or whose individual circumstances make them the most vulnerable. High priority will be given to women and children from the poorest communities, from the most deprived socio-religious communities, such as Scheduled Castes, Scheduled Tribes, particularly vulnerable tribal communities, de-notified and nomadic groups, religious minorities, other backward classes, migrants, those living in inaccessible or scattered hamlets, those living in insecure environments and the urban poor, among others.
+23.1.  The Twelfth Five Year Plan recognizes the primacy of India's  Women and Children, who constitute over 70 per cent of India's people. This Chapter reflects their voices and aspirations, and the nation's commitment  to  translate  this  vision  into  a  reality during the Plan period. The Twelfth Plan strategy of inclusion envisages the engendering of development planning and making it more child-centric. Structural transformation is called for-not only in the women and child related direct policy and programme interventions, but also more generally in the policies and programmes of the  many  sectors  that  impact  upon women and children especially those from the weaker sections  or  whose  individual  circumstances  make them the most vulnerable. High priority will be given to women and children from the poorest communities, from the most deprived socio-religious communities,  such  as  Scheduled  Castes,  Scheduled  Tribes, particularly vulnerable tribal communities, de-notified and nomadic  groups, religious minorities, other backward classes, migrants, those living in inaccessible or scattered hamlets, those living in insecure environments and the urban poor, among others.
 
-23.2. Since many of the programmes most relevant for children and women are implemented at the third level of government, that is, the Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs)—success in achieving these outcomes depends critically on women’s participation in these levels of government and their empowerment with respect to programme implementation. We must move towards creating ‘Women and Child Friendly Panchayats” and ULBs, complemented by Baal Panchayats, with child participation taking on a new dimension. With progressive devolution of powers to PRIs and an increasing number of states requiring 50 per cent reservation for women in PRIs, new opportunities are emerging for making development planning processes gender sensitive and child friendly at the grass roots level in the Twelfth Plan.
+23.2.  Since  many of the programmes most relevant for  children  and  women  are  implemented  at  the third  level  of  government,  that  is,  the  Panchayati Raj  Institutions  (PRIs)  and  Urban  Local  Bodies (ULBs)-success in achieving these outcomes depends critically on women's participation in these levels  of  government  and  their  empowerment  with respect  to  programme  implementation.  We  must move towards creating 'Women and Child Friendly Panchayats' and ULBs, complemented by Baal Panchayats, with child participation taking on a new dimension.  With  progressive  devolution  of  powers to  PRIs and an increasing number of states requiring 50 per cent reservation for women in PRIs, new opportunities  are  emerging  for  making  development planning processes gender sensitive and child friendly at the grass roots level in the Twelfth Plan.
 
 23.3.  There  are  many  faces  of  vulnerability  and deprivation,  which  the  Twelfth  Plan  strategy  for Women  and  Children  addresses.  The  intergenerational  cycle  of  multiple  deprivation  and  violence faced  by  girls  and  women  is  epitomized  by  the adverse child sex ratio in children under 6 years of age.  The  ending  of  gender  based  inequities,  discrimination  and  violence  is  an  overriding  priority in  the  Twelfth  Plan.  Ending  gender  based  violence against girls and women including improvement in the  adverse  and  steeply  declining  child  sex  ratio,  is therefore, recognized as an overarching monitorable target of the Twelfth Plan for Women and Children. The  12th  Plan  will  endeavor  to  provide  nurturing, protective and safe environment for women to facilitate their entry into public spaces.
 
-23.4. Part I of this Chapter focuses on Women’s Agency and engendering of development. The key strategies for women’s agency in the Twelfth Plan have been identified as: (i) Economic Empowerment; (ii) Social and Physical Infrastructure; (iii) Enabling Legislations; (iv) Women’s Participation in Governance; (v) Inclusiveness of all categories of vulnerable women, (vi) Engendering National Policies/Programmes. These strategies bring out the crucial challenges posed by traditional determinants of
+23.4. Part I of this Chapter focuses on Women's Agency and engendering of development. The key strategies for women's agency in the Twelfth Plan have been identified as: (i) Economic Empowerment; (ii) Social and Physical Infrastructure; (iii) Enabling Legislations; (iv) Women's Participation in Governance; (v) Inclusiveness of all categories of vulnerable women, (vi) Engendering National Policies/Programmes. These strategies bring out the crucial challenges posed by traditional determinants of
 
 [[END OF PAGE 182]]
 
@@ -6297,17 +5937,17 @@ Women's Agency and Child Rights
 
 165
 
-women’s agency and empowerment such as asset ownership, skill development, financial inclusion, along with new and emerging challenges posed by urbanisation, climate change, energy insecurity, the role of the media and so on. Strategies for the inclusion of vulnerable women such as those belonging to the Scheduled Castes (SC), Scheduled Tribes (ST) and minorities; single women, differently abled women; migrant and trafficked women have also been identified. Specific initiatives for empowering women and engendering development in the Twelfth Plan have been outlined.
+women's agency and empowerment such as asset ownership, skill development, financial inclusion, along with new and emerging challenges posed by urbanisation, climate change, energy insecurity, the role of the media and so on. Strategies for the inclusion of vulnerable women such as those belonging to the Scheduled Castes (SC), Scheduled Tribes (ST) and minorities; single women, differently abled women; migrant and trafficked women have also been identified. Specific initiatives for empowering women and engendering development in the Twelfth Plan have been outlined.
 
 23.5. Part II of this Chapter highlights the Twelfth Plan strategy to fulfill the rights of children to survival, protection, participation and development. Based on an analysis of the current situation of children this chapter outlines the vision, key priorities, and monitorable targets of the Twelfth Plan strategy for children. This includes both child specific and child related policy and programme interventions that are multi-sectoral in nature. These relate to (i) Child Survival and Development—which includes ICDS Restructuring; (ii) Early Childhood Care and Education; (iii) Child Protection and Participation; (iv) The Girl Child and (v) Adolescents. Child specific initiatives and schemes for children are detailed in these sections, while related sectoral strategies such as Health and Education are provided in relevant sectoral chapters.
 
-23.6. Part III highlights the Twelfth Plan Strategy towards achieving Nutrition Security For All, especially the most vulnerable children, adolescent girls and women who are locked into an intergenerational cycle of multiple deprivation. The monitorable targets for nutrition and key priorities evolve from a detailed situation analysis and evaluation of the progress made during the Eleventh Plan. The Nutrition Strategy in Part III outlines: (i) the evolving multisectoral interventions for nutrition, including introducing a strong nutrition focus to sectoral programmes, strengthening and re-activating Institutional Arrangements and the Multi-sectoral Nutrition Programme in 200 High Burden Districts; (ii) Promoting Optimal Maternal, Infant and Young Child Care and Feeding Practices; (iii) Combating Micronutrient Deficiencies in a holistic manner; (iv) Addressing the Dual Burden of Malnutrition; (v) Nutrition Capacity Development; (vi) Nutrition Education and Social Mobilization—including a societal campaign against malnutrition and (vii) Nutrition Monitoring and Surveillance Systems, to monitor and review nutrition outcomes.
+23.6.  Part  III  highlights  the  Twelfth  Plan  Strategy towards achieving Nutrition Security For All, especially  the  most vulnerable children, adolescent girls and  women  who  are  locked  into  an  intergenerational  cycle  of  multiple  deprivation.  The  monitorable  targets  for  nutrition  and  key  priorities  evolve from a detailed situation analysis and evaluation of the  progress  made  during  the  Eleventh  Plan.  The Nutrition Strategy in Part III outlines: ( i ) the evolving multisectoral interventions for nutrition, including introducing a strong nutrition focus to sectoral programmes, strengthening and re-activating Institutional Arrangements and the Multi-sectoral Nutrition  Programme  in  200  High  Burden  Districts; ( ii ) Promoting Optimal Maternal, Infant and Young Child  Care  and  Feeding  Practices;  ( iii )  Combating Micronutrient  Deficiencies  in  a  holistic  manner; ( iv )  Addressing  the  Dual  Burden  of  Malnutrition; ( v )  Nutrition Capacity Development; ( vi )  Nutrition Education and Social Mobilization-including a societal campaign against malnutrition and ( vii ) Nutrition Monitoring and Surveillance Systems, to monitor and review nutrition outcomes.
 
-### WOMEN’S AGENCY AND THE ENGENDERING OF DEVELOPMENT
+### WOMEN'S AGENCY AND THE ENGENDERING OF DEVELOPMENT
 
-23.7. According to the 2011 census, women account for 586.47 million in absolute numbers and represent 48.46 per cent of the total population of the country. While there has been an appreciable gain in the overall sex ratio of 7 points from 933 in 2001 to 940 in 2011, the decline in child sex ratio (0–6 years) by 13 points from 927 in 2001 to 914 in 2011 is a matter of grave concern. On the health front, implementation of the National Rural Health Mission has resulted in an improvement on many indicators pertaining to gender. Fertility Rates have come down and have reached replacement levels in a number of states; Maternal Mortality Rate (MMR) is improving, from 301 per 100,000 live births in 2003 it has come down to 212 (SRS 2007–2009); Infant Mortality Rate, though still high, has reduced to 47 per 1,000 in 2010. Institutional deliveries have risen from 41 per cent in 2006 to 73 per cent in 2009. There are increasing concerns regarding the gap between male and female infant mortality rate 49 for girls as compared to 46 for boys. The under-five mortality rate for girls in India is very high at 64 per 1,000 live births as compared to 55 per 1,000 live births for boys. The decline in MMR has fallen behind and is less than the target of 100 in the Eleventh Plan.
+23.7.  According to the 2011 census, women account for  586.47  million  in  absolute  numbers  and  represent 48.46 per cent of the total population of the country. While there has been an appreciable gain in the overall sex ratio of 7 points from 933 in 2001 to 940 in 2011, the decline in child sex ratio (0-6 years) by  13  points  from  927  in  2001  to  914  in  2011  is  a matter of grave concern. On the health front, implementation of the National Rural Health Mission has resulted in an improvement on many indicators pertaining  to  gender.  Fertility  Rates  have  come  down and have reached replacement levels in a number of states; Maternal Mortality Rate (MMR) is improving, from 301 per 100,000 live births in 2003 it has come down to 212 (SRS 2007-2009); Infant Mortality Rate, though still high, has reduced to 47 per 1,000 in 2010. Institutional  deliveries  have  risen  from  41  per  cent in 2006 to 73 per cent in 2009. There are increasing concerns regarding the gap between male and female infant mortality rate 49 for girls as compared to 46 for  boys.  The  under-five  mortality  rate  for  girls  in India is very high at 64 per 1,000 live births as compared to 55 per 1,000 live births for boys. The decline in MMR has fallen behind and is less than the target of 100 in the Eleventh Plan.
 
-23.8. There has been an increase in literacy amongst women from 53.67 per cent (Census 2001) to 65.46 per cent (Census 2011). The challenge however remains in bridging the gender gap which stands at 16.68 per cent. The gender differential in education is declining, particularly at the primary level. There is a need to address the issues of retention of girls’ in school, quality of education and the provision of separate toilets, sibling care facilities, and so on. From 1993–94 to 2009–10 women’s participation in the labour force has decreased substantially
+23.8. There has been an increase in literacy amongst women from 53.67 per cent (Census 2001) to 65.46 per cent (Census 2011). The challenge however remains in bridging the gender gap which stands at 16.68 per cent. The gender differential in education is declining, particularly at the primary level. There is a need to address the issues of retention of girls' in school, quality of education and the provision of separate toilets, sibling care facilities, and so on. From 1993–94 to 2009–10 women's participation in the labour force has decreased substantially
 
 [[END OF PAGE 183]]
 
@@ -6317,29 +5957,29 @@ women’s agency and empowerment such as asset ownership, skill development, fin
 
 from 36.8 per cent to 26.1 per cent in rural areas and from 17 per cent to 13.8 per cent in urban areas as indicated by NSSO data. Another major concern is the gender gap in the educational level of the labour force. Whereas in 2004–05, 60 per cent of employed females were illiterate and 3.7 per cent were graduates for men it was 28 per cent and 8 per cent, respectively. Female hourly wage rates in agriculture vary from 50 per cent to 75 per cent of male rates, and are insufficient to overcome absolute poverty.
 
-23.9.  Addressing violence against women, in both  public  and  private  sphere,  is  a  major  challenge.  Data  from  National  Crime  Records  Bureau (NCRB)  shows  that  the  total  number  of  crimes against  women increased by 29.6 per cent between 2006  and  2010.  What  is  equally  disturbing  is  that conviction rates remained low, reflecting inter alia, that  many  of  these  cases  are  not  being  well  prosecuted and inadequate proof is tendered before the courts. The 2005-06 National Family Health Survey (NFHS-3)  also  reported  that  one-third  of  women aged 15 to 49 had experienced physical violence, and approximately one in 10 had been a victim of sexual violence. Early marriage makes women more vulnerable to domestic violence. According to the NFHS 3 data, the median age of marriage for women in the 20-49 years age group ranges between 16.5 years to 18.3  years.  Trafficking  of  women  and  children  is  a gross  violation  of  human  rights  which  needs  to  be addressed. Trafficked women and children are subjected to multiple conditions of exploitation such as commercial sexual exploitation and bonded labour.
+23.9. Addressing violence against women, in both public and private sphere, is a major challenge. Data from National Crime Records Bureau (NCRB) shows that the total number of crimes against women increased by 29.6 per cent between 2006 and 2010. What is equally disturbing is that conviction rates remained low, reflecting inter alia, that many of these cases are not being well prosecuted and inadequate proof is tendered before the courts. The 2005–06 National Family Health Survey (NFHS-3) also reported that one-third of women aged 15 to 49 had experienced physical violence, and approximately one in 10 had been a victim of sexual violence. Early marriage makes women more vulnerable to domestic violence. According to the NFHS 3 data, the median age of marriage for women in the 20–49 years age group ranges between 16.5 years to 18.3 years. Trafficking of women and children is a gross violation of human rights which needs to be addressed. Trafficked women and children are subjected to multiple conditions of exploitation such as commercial sexual exploitation and bonded labour.
 
 #### BARRIERS TO WOMEN'S EMPOWERMENT
 
-23.10. The barriers to women’s empowerment are manifested in various ways. Deep-rooted ideologies of gender bias and discrimination like the confinement of women to the private domestic realm, restrictions on their mobility, poor access to health services, nutrition, education and employment, and exclusion from the public and political sphere continue to daunt women across the country. Other parameters that reflect the status and position of women in society are work participation rates, sex ratio in the age group of 0–6 years and gender based violence which remain heavily skewed against women. New challenges such as increased intra-country migration, changing labour markets that require new skill sets and rapidly changing technologies have also emerged.
+23.10. The barriers to women's empowerment are manifested in various ways. Deep-rooted ideologies of gender bias and discrimination like the confinement of women to the private domestic realm, restrictions on their mobility, poor access to health services, nutrition, education and employment, and exclusion from the public and political sphere continue to daunt women across the country. Other parameters that reflect the status and position of women in society are work participation rates, sex ratio in the age group of 0–6 years and gender based violence which remain heavily skewed against women. New challenges such as increased intra-country migration, changing labour markets that require new skill sets and rapidly changing technologies have also emerged.
 
 23.11.  The  access  of  women  to  key  social  services such  as  health  and  education  is  a  critical  determinant of the status of women and their ability to participate  in  making  society  a  better  place.  Details  of access  in  each  dimension  are  discussed  in  the  relevant  chapters  (see  especially  Chapters  on  Health and Education). While the overall picture is one of progress in many dimensions, large gaps still remain. India's  Gender  Inequality  Index  value  of  0.617  in 2011 placing the country at 129 among 149 countries globally  is  reflective  of  the  high  gender  inequality that  is  prevalent.  The  lower  attainments  of  women in key human development indicators are indicative of the sharp disparities in opportunities available to women and men. An exceptionally worrying factor is the deteriorating child sex ratio.
 
 23.12.  Hence,  the  key  elements  for  Gender  Equity to be addressed in the Twelfth Plan can be clubbed under the following:
 
-1. Economic Empowerment
+- Economic Empowerment
 
-2. Social and Physical Infrastructure
+- Social and Physical Infrastructure
 
-3. Enabling Legislations
+- Enabling Legislations
 
-4. Women’s Participation in Governance
+- Women's Participation in Governance
 
-5. Inclusiveness of all categories of vulnerable women
+- Inclusiveness of all categories of vulnerable women
 
-6. Engendering National Policies/Programmes
+- Engendering National Policies/Programmes
 
-7. Mainstreaming gender through Gender Budgeting
+- Mainstreaming gender through Gender Budgeting
 
 #### ECONOMIC EMPOWERMENT
 
@@ -6371,7 +6011,7 @@ Women's Agency and Child Rights
 
 ##### WOMEN IN AGRICULTURE
 
-23.19. Women’s role as agricultural workers, especially their work on family farms is increasing thanks to the process of feminisation of agriculture (see Chapter on Agriculture). This process reflects
+23.19. Women's role as agricultural workers, especially their work on family farms is increasing thanks to the process of feminisation of agriculture (see Chapter on Agriculture). This process reflects
 
 [[END OF PAGE 185]]
 
@@ -6383,7 +6023,7 @@ Twelfth Five Year Plan
 
 the fact that small and fragmented holdings do not allow for the generation of sufficient household income leading to migration of male members into other sectors, leaving the family farms to be tended largely by women and children. The Twelfth Plan recognizes the need to increase awareness about the growing feminisation of agriculture through sensitisation of policy makers, so that the gender stereotype of farming being a solely male activity is adequately challenged.
 
-23.20.  Existing  formal  institutions  must  recognize women's roles and needs in various fields of agricultural  activity  and  must  ensure  the  participation  of women farmers in designing programmes for technical training and research. The methodologies, time duration,  location  and  other  factors  of  programme design must be appropriate to the needs of women. Women  must  also  be  included  in  land  and  water management, pani panchayats,  preservation  of  soil fertility  and  nutrition  management,  sustainable  use of  soil,  water,  livestock  and  fishery  resources  and in creating village level community seed banks, and so on.
+23.20. Existing formal institutions must recognize women's roles and needs in various fields of agricultural activity and must ensure the participation of women farmers in designing programmes for technical training and research. The methodologies, time duration, location and other factors of programme design must be appropriate to the needs of women. Women must also be included in land and water management, pani panchayats, preservation of soil fertility and nutrition management, sustainable use of soil, water, livestock and fishery resources and in creating village level community seed banks, and so on.
 
 23.21.  Women's  access  to  the  various  agriculture schemes being implemented by the government will be ensured. A quota for women will be incorporated by  modifying  the  guidelines  of  agriculture  related schemes like Rashtriya Krishi Vikas Yojana (RKVY). Further  involvement  of  women  can  be  ensured  by providing  financial  and  infrastructural  support  to SHGs for seed production, storage, preservation, and distribution.
 
@@ -6391,7 +6031,7 @@ the fact that small and fragmented holdings do not allow for the generation of s
 
 23.23.  Endowing  women  with  land  is  an  important  instrument  for  empowering  them  economically  and  strengthening  their  ability  to  challenge social and political gender inequities. There are three main sources of land for women: direct government transfers,  purchase  or  lease  from  the  market  and inheritance. To enhance women's land access from all  three  sources,  a  range  of  initiatives  are  needed, including  joint  land  titles  in  all  government  land transfers,  credit  support  to  poor  women  to  purchase or lease land from the market, increase in legal awareness and legal support for women's inheritance rights, supportive government schemes and recording of women's inheritance shares, and so on. There is  also  need  for  reliable,  fair  and  accessible  mechanisms such as social audit with greater participation of women in the audit bodies for resolving disputes and providing remedies in matters related to tenure and security of lease.
 
-23.24. States should also consider the adoption of a ‘group approach’ in land cultivation and investment in productive assets. States could undertake an assessment of all uncultivated arable land presently with the Government and give women’s groups long term usufruct rights to it for group cultivation. The group leasing rights will be recognised under government programmes for agricultural promotion to allow women to avail benefits of schemes such as agricultural extension services and crop insurance to mitigate risks. Women will also be helped to purchase land in groups for group cultivation by a loan-cum-grant scheme with 50 per cent of the loan as a low interest loan and the remaining 50 per cent as a grant. Incentives will be provided to women farmers/SHGs, for group farming on leased or owned land through financial support for group formation; tying credit subsidy, technology access, and so on. to group farming.
+23.24. States should also consider the adoption of a 'group approach' in land cultivation and investment in productive assets. States could undertake an assessment of all uncultivated arable land presently with the Government and give women's groups long term usufruct rights to it for group cultivation. The group leasing rights will be recognised under government programmes for agricultural promotion to allow women to avail benefits of schemes such as agricultural extension services and crop insurance to mitigate risks. Women will also be helped to purchase land in groups for group cultivation by a loan-cum-grant scheme with 50 per cent of the loan as a low interest loan and the remaining 50 per cent as a grant. Incentives will be provided to women farmers/SHGs, for group farming on leased or owned land through financial support for group formation; tying credit subsidy, technology access, and so on. to group farming.
 
 [[END OF PAGE 186]]
 
@@ -6417,11 +6057,11 @@ Women's Agency and Child Rights
 
 #### SOCIAL AND PHYSICAL INFRASTRUCTURE
 
-23.30.  The strengthening of social and physical  infrastructure  especially  health  and  education, sanitation,  transportation,  and  so  on  is  critical  for inclusive growth. There are considerable gender differences in the needs of men and women in the various infrastructure development projects. So there is a  need  for  a  gender  analysis  of  infrastructure  policies to ensure women's needs are taken into account. Women should be consulted at the time of designing the  project-its  site  selection,  objective,  operation and maintenance plans, and so on. They should also be involved in the social audit of these programmes.
+23.30. The strengthening of social and physical infrastructure especially health and education, sanitation, transportation, and so on is critical for inclusive growth. There are considerable gender differences in the needs of men and women in the various infrastructure development projects. So there is a need for a gender analysis of infrastructure policies to ensure women's needs are taken into account. Women should be consulted at the time of designing the project—its site selection, objective, operation and maintenance plans, and so on. They should also be involved in the social audit of these programmes.
 
 ##### HEALTH
 
-23.31. It is vital to widen the emphasis hitherto laid on women’s reproductive health to adopt a life cycle
+23.31. It is vital to widen the emphasis hitherto laid on women's reproductive health to adopt a life cycle
 
 [[END OF PAGE 187]]
 
@@ -6431,9 +6071,9 @@ Women's Agency and Child Rights
 
 Twelfth Five Year Plan
 
-approach towards women’s survival, overall health and well-being. The sex ratio and the decline in child sex ratio is clearly a major problem. High anaemia, unrecognised care burden, differentials in morbidity and mortality and access to care also need more attention. Sex disaggregated data on disease burden and access to treatment is inadequate and must be expanded in the Twelfth Plan. This data will be further disaggregated on the basis of socio-religious categorisation to identify the most vulnerable women. The Plan recognises the gender dimension of health problems and seeks to address issues of women’s survival and health through a life cycle approach.
+approach towards women's survival, overall health and well-being. The sex ratio and the decline in child sex ratio is clearly a major problem. High anaemia, unrecognised care burden, differentials in morbidity and mortality and access to care also need more attention. Sex disaggregated data on disease burden and access to treatment is inadequate and must be expanded in the Twelfth Plan. This data will be further disaggregated on the basis of socio-religious categorisation to identify the most vulnerable women. The Plan recognises the gender dimension of health problems and seeks to address issues of women's survival and health through a life cycle approach.
 
-23.32.  In  view  of  the  consistently  higher  female IMR figures, along with the increasingly disturbing dynamics of the declining child sex ratio, a separate target for lowering female IMR will be added under NRHM. An impact  assessment  of  Janani  Suraksha Yojana, Jansankhya Sthirata Kosh and equity implications of health insurance, user fees and other activities under the NRHM will also be undertaken.
+23.32. In view of the consistently higher female IMR figures, along with the increasingly disturbing dynamics of the declining child sex ratio, a separate target for lowering female IMR will be added under NRHM. An impact assessment of Janani Suraksha Yojana, Jansankhya Sthirata Kosh and equity implications of health insurance, user fees and other activities under the NRHM will also be undertaken.
 
 23.33.  Dovetailing  of  IGMSY  (a  pilot  conditional maternity  benefit  scheme),  National  Food  Security Bill  (NFSB) and related State schemes with NRHM will  be  undertaken  for  an  effective  convergence of  programmes  relating  to  pregnant  and  lactating mothers. Successful State level schemes/initiatives for reducing MMR would be considered for replication.
 
@@ -6463,7 +6103,7 @@ and safety measures for women introduced. The Plan will promote creation of nigh
 
 ##### ENERGY AND NATURAL RESOURCES MANAGEMENT
 
-23.38. Women are the primary stakeholders in energy and natural resources management, especially for domestic use. A comprehensive policy on domestic energy must be evolved to create a portfolio of energy options. Apart from electricity and biomass sources, non-biomass sources of energy, including solar, for small production units will be promoted. Women’s groups will be encouraged to undertake smaller power production units and energy-based enterprises such as making charcoal, briquette making and gassifiers. Capacity building and seed-capital assistance will be provided to women to manage energy programs. Special trainings will be provided to women to develop their expertise in the renewable energy sector, including the repair of solar lanterns, improved cooking stoves, pumpsets and so on. Gender sensitive energy development will be promoted in the Twelfth Plan through the two pronged strategy of customizing technology to reflect the views and experiences of women and creating a large pool of trained female energy technocrats/energy entrepreneurs.
+23.38. Women are the primary stakeholders in energy and natural resources management, especially for domestic use. A comprehensive policy on domestic energy must be evolved to create a portfolio of energy options. Apart from electricity and biomass sources, non-biomass sources of energy, including solar, for small production units will be promoted. Women's groups will be encouraged to undertake smaller power production units and energy-based enterprises such as making charcoal, briquette making and gassifiers. Capacity building and seed-capital assistance will be provided to women to manage energy programs. Special trainings will be provided to women to develop their expertise in the renewable energy sector, including the repair of solar lanterns, improved cooking stoves, pumpsets and so on. Gender sensitive energy development will be promoted in the Twelfth Plan through the two pronged strategy of customizing technology to reflect the views and experiences of women and creating a large pool of trained female energy technocrats/energy entrepreneurs.
 
 ##### URBAN PLANNING AND LIVELIHOODS
 
@@ -6471,7 +6111,7 @@ and safety measures for women introduced. The Plan will promote creation of nigh
 
 ##### CLIMATE CHANGE
 
-23.40. There are important gender perspectives in all aspects of climate change. Adaptation efforts must systematically and effectively address gender-specific impacts of climate change in the areas of energy, water, food security, agriculture and fisheries, biodiversity and ecosystem services, health, industry, human settlements, disaster management, and security. Gender inequalities in access to resources, including credit, extension services, information and technology, must be taken into account in developing mitigation activities. While National and State level Action Plans on Climate Change are being formulated, the Twelfth Plan will ensure a gender assessment of these plans including gender specific objectives, indicators, monitoring and evaluation dimensions, capacity building and so on, in order to make climate change mitigation and adaptation plans more responsive to women’s concerns and needs. Gender and climate change adaptation strategies will be made a part of all ongoing poverty reduction and development policies,
+23.40. There are important gender perspectives in all aspects of climate change. Adaptation efforts must systematically and effectively address gender-specific impacts of climate change in the areas of energy, water, food security, agriculture and fisheries, biodiversity and ecosystem services, health, industry, human settlements, disaster management, and security. Gender inequalities in access to resources, including credit, extension services, information and technology, must be taken into account in developing mitigation activities. While National and State level Action Plans on Climate Change are being formulated, the Twelfth Plan will ensure a gender assessment of these plans including gender specific objectives, indicators, monitoring and evaluation dimensions, capacity building and so on, in order to make climate change mitigation and adaptation plans more responsive to women's concerns and needs. Gender and climate change adaptation strategies will be made a part of all ongoing poverty reduction and development policies,
 
 ###### Box 23.1 Women Friendly Infrastructure Development in Kerala
 
@@ -6483,7 +6123,7 @@ In Kerala it was decided that in the year, 2010–11, a major focus would be on 
 
 172 Twelfth Five Year Plan
 
-including Disaster Risk Reduction (DRR) planning and implementation at local, national and regional level, country’s Nation Adaptation Programmes of Actions (NAPAs); and in the numerous climate change related funds that are in the process of being established.
+including Disaster Risk Reduction (DRR) planning and implementation at local, national and regional level, country's Nation Adaptation Programmes of Actions (NAPAs); and in the numerous climate change related funds that are in the process of being established.
 
 ##### ENGENDERING THE MEDIA
 
@@ -6501,7 +6141,7 @@ including Disaster Risk Reduction (DRR) planning and implementation at local, na
 
 23.45.  Under the Protection of Women from Domestic Violence Act (PWDVA) the State Governments are  required  to  appoint  Protection  Officers,  register  Service  Providers  and  notify  medical  facilities. Most of the States/UTs have given additional charge to  their  existing  officers  to  perform  the  duties  of Protection Officer which is said to be affecting implementation  of  the  Act.  State  governments  must  be encouraged to appoint personnel as needed and provide  support  for  establishing  Counselling  Facilities or Family Counselling Centres as well as for capacity building of the officials  and  infrastructural  support to Protection Officers. A Scheme to this effect will be introduced  during  the  Twelfth  Plan.  Appointment of  sufficient  number  of  dedicated,  full  time  Dowry Prohibition Officers to enforce the DPA Act will also be undertaken. Training and capacity building of law enforcement  agencies  and  the  Judiciary  on  issues concerning  dowry  related  harassment  of  women and dowry deaths will also receive attention. Besides this new initiatives such as One Stop Crisis Centres for providing shelter, police desk, legal, medical and counseling  services  and  Women's  Helpline  will  be considered.
 
-23.46. The Twelfth Plan recognises the need to partner with the corporate sector in its fight against gender discrimination by making gender equity an
+23.46.  The Twelfth Plan recognises the need to partner  with  the  corporate  sector  in  its  fight  against gender discrimination by making gender equity an integral  objective  of  corporate  social  responsibility. The corporate sector will be encouraged to take up projects that provide assistance and support services to women in situations of domestic violence and for rehabilitation of victims of trafficking.
 
 [[END OF PAGE 190]]
 
@@ -6510,8 +6150,6 @@ including Disaster Risk Reduction (DRR) planning and implementation at local, na
 Women's Agency and Child Rights
 
 173
-
-integral objective of corporate social responsibility. The corporate sector will be encouraged to take up projects that provide assistance and support services to women in situations of domestic violence and for rehabilitation of victims of trafficking.
 
 #### WOMEN'S PARTICIPATION IN GOVERNANCE
 
@@ -6545,7 +6183,7 @@ integral objective of corporate social responsibility. The corporate sector will
 
 into precious family income, leads to poverty, malnutrition and domestic violence, problems which the plan aims to tackle. This needs to be addressed with utmost urgency.
 
-23.54.  The  groups  of  women  that  deserve  special attention are discussed below.
+23.54. The groups of women that deserve special attention are discussed below.
 
 ##### SCHEDULED CASTE WOMEN
 
@@ -6561,7 +6199,7 @@ into precious family income, leads to poverty, malnutrition and domestic violenc
 
 ##### DIFFERENTLY ABLED WOMEN
 
-23.58.  Differently  abled  women  suffer  from  being doubly disadvantaged as they are subjected to sociocultural  restrictions  as  well  as  prevailing  economic limitations,  which  impede  their  access  to  health care,  education,  vocational  training  and  employment.  The  Twelfth  Plan  will  endeavour  to  engender  all  programmes  aimed  at  the  differently-abled. Screening campaigns for early detection of children with  different  abilities  in  schools,  especially  girls' schools  and  KGBVs  will  be  conducted  Also  provision of enabling infrastructure amenities in schools, KGBVs, Polytechnics and AWCs will be undertaken. Sensitisation  and  training  of  school  teachers  and AWWs,  vocational  training  and  assured  employment for women with different abilities, and special rehabilitation services along with care provisions in existing  MWCD  run  short  stay  homes  and  hostel facilities must be conducted.
+23.58. Differently abled women suffer from being doubly disadvantaged as they are subjected to socio-cultural restrictions as well as prevailing economic limitations, which impede their access to health care, education, vocational training and employment. The Twelfth Plan will endeavour to engender all programmes aimed at the differently-abled. Screening campaigns for early detection of children with different abilities in schools, especially girls' schools and KGBVs will be conducted Also provision of enabling infrastructure amenities in schools, KGBVs, Polytechnics and AWCs will be undertaken. Sensitisation and training of school teachers and AWWs, vocational training and assured employment for women with different abilities, and special rehabilitation services along with care provisions in existing MWCD run short stay homes and hostel facilities must be conducted.
 
 ##### SINGLE WOMEN AND WIDOWS
 
@@ -6579,7 +6217,7 @@ Women's Agency and Child Rights
 
 considered and their access to employment and equal wages through special job cards for single women under MGNREGA must be ensured. Separate entrepreneurship and leadership development schemes for single women will be promoted along with preferential selection in credit grants with flexible payment modalities and lower interest rates.
 
-23.61.  Single  women  must  be  made  aware  of  their rights  and  entitlements  within  their  maternal  and matrimonial  households.  For  this,  special  focus  is needed on legal aid to single women as well as promotion  of  separate  federations  of  single  women  at block and district levels.
+23.61. Single women must be made aware of their rights and entitlements within their maternal and matrimonial households. For this, special focus is needed on legal aid to single women as well as promotion of separate federations of single women at block and district levels.
 
 ##### ELDERLY WOMEN
 
@@ -6611,7 +6249,7 @@ benefit from all central government schemes, including social protection schemes
 
 ##### TRAFFICKED WOMEN
 
-23.67. Trafficking for commercial sexual exploitation is one of the worst forms of crimes against women and children as it exposes them to a life of humiliation and sexual abuse. Poverty, illiteracy, lack of livelihood options, natural/man made disasters and lack of social and family support, migration are among the factors which make women and children vulnerable to such trafficking. A study entitled ‘Girls and Women in Prostitution in India’ (2002–2004) by Gram Niyojan Kendra (GNK), sponsored by the Ministry of Women and Child Development, estimates that the primary means of entry into prostitution of about three fourths of the women and children is through trafficking and that there are about 2.8 million sex workers in the country of which 36 per cent are children. Cross-border trafficking from Bangladesh and Nepal to various cities in India is another area of concern.
+23.67. Trafficking for commercial sexual exploitation is one of the worst forms of crimes against women and children as it exposes them to a life of humiliation and sexual abuse. Poverty, illiteracy, lack of livelihood options, natural/man made disasters and lack of social and family support, migration are among the factors which make women and children vulnerable to such trafficking. A study entitled 'Girls and Women in Prostitution in India' (2002–2004) by Gram Niyojan Kendra (GNK), sponsored by the Ministry of Women and Child Development, estimates that the primary means of entry into prostitution of about three fourths of the women and children is through trafficking and that there are about 2.8 million sex workers in the country of which 36 per cent are children. Cross-border trafficking from Bangladesh and Nepal to various cities in India is another area of concern.
 
 23.68.  The Government  has  ratified the United Nations  Convention  on  Transnational  Organized Crime  (UNCTOC)  and  its  Protocol  to  Prevent, Suppress  and  Punish  Trafficking  in  Persons  especially  trafficking  in  Women  and  Children.  The Protocol  casts  an  obligation  on  the  State  Parties to  undertake  measures  for  prevention  of  trafficking as also for providing physical, psychological  and  social  recovery  of  victims  of  trafficking in  persons.  The  Government  has  also  ratified  the SAARC Convention on Preventing and Combating Trafficking of Women and Children for Prostitution.
 
@@ -6689,7 +6327,7 @@ Twelfth Five Year Plan
 
 - Sex  disaggregated  data  will  be  generated  on  disease burden and access to treatment.
 
-- Focus will be extended to address ailments which women  are  especially  prone  to,  such  as  postmenopausal  problems,  osteoporosis  and  breast and cervical cancer, and so on.
+- Focus will be extended to address ailments which women are especially prone to, such as post-menopausal problems, osteoporosis and breast and cervical cancer, and so on.
 
 - Special measures will be undertaken on problems of those affected by HIV/AIDS.
 
@@ -6759,7 +6397,7 @@ Women's Agency and Child Rights
 
 ##### GB AT THE DESIGN STAGE FOR NEW PPS
 
-23.79.  In  order  to  move  from  environment  building and reporting to actual engendering of Policies/ Programmes/Schemes (PPS), there is a pressing need to make the objectives, operational guidelines, financial  norms  and  unit  costs  of  the  existing  schemes across various Ministries/Departments more gender responsive.  Planning  and  budget  approval  systems will  need  to  be  modified  to  make  gender  clearance and specific approvals of GBCs mandatory to ensure that  PPS  are  engendered  from  the  design  stage itself.
+23.79. In order to move from environment building and reporting to actual engendering of Policies/Programmes/Schemes (PPS), there is a pressing need to make the objectives, operational guidelines, financial norms and unit costs of the existing schemes across various Ministries/Departments more gender responsive. Planning and budget approval systems will need to be modified to make gender clearance and specific approvals of GBCs mandatory to ensure that PPS are engendered from the design stage itself.
 
 23.80.  The EFC formats must be modified to include questions to confirm that the scheme has been examined  by  the  GBC  of  the  Ministry.  The  Planning Commission  at  the  Union  Level  and  the  State Planning  Boards  at  the  State  level  will  ensure  that proposals submitted by Ministries/Departments for any new Policy, Legislation, Programme or Scheme, includes an assessment of gender concerns/impacts on the same lines as is mandated for environmental clearance.
 
@@ -6787,7 +6425,7 @@ Women's Agency and Child Rights
 
 ##### GENDER FOCAL POINTS
 
-23.85.  Gender Focal Points will be established within  various  organisations  like  the  Ministries/ Departments of the Central Government and Urban and Rural Local Bodies to enable all institutions to identify and respond to gender issues. The existing constraint  of  adequate  and  appropriately  trained human resources will be addressed by drawing up a Comprehensive Human Resources Plan to make the gender architecture effective. A comprehensive evaluation of the entire gender architecture in our country will be undertaken in the Twelfth Plan.
+23.85. Gender Focal Points will be established within various organisations like the Ministries/Departments of the Central Government and Urban and Rural Local Bodies to enable all institutions to identify and respond to gender issues. The existing constraint of adequate and appropriately trained human resources will be addressed by drawing up a Comprehensive Human Resources Plan to make the gender architecture effective. A comprehensive evaluation of the entire gender architecture in our country will be undertaken in the Twelfth Plan.
 
 ##### TECHNICAL SUPPORT FOR GB
 
@@ -6799,8 +6437,7 @@ Women's Agency and Child Rights
 
 23.88. To oversee the progress of the GB efforts, the Ministry of Women and Child Development must create a Gender Task Force with representation from the National Mission for the Empowerment of Women, Ministry of Finance as well as the Planning Commission to review the functioning of Gender Budget Cells. This Task Force would undertake a scan of all new laws, policies and programmes for
 
-TABLE 23.1
-Ministry-Wise Incorporation of Gender Concerns (under RFD)
+TABLE 23.1 Ministry-Wise Incorporation of Gender Concerns (under RFD)
 
 Ministry/Department | Commitment under RFD
 --- | ---
@@ -6808,9 +6445,9 @@ Science & Technology | Application of Science & Technology for weaker sections, 
 Department of Bio-Technology | Under its objective of promotion of specialised human resource for frontier research the Department has accorded priority to participation of employed/unemployed women scientists.
 Information Technology | Priority has been accorded to make Common Service Centre sustainable which includes e-literacy for women as success indicators.
 Labour | Imparting vocational training to women has been accorded priority among the key objectives of Ministry of Labour.
-Youth Affairs | Under the key objective of ‘Engaging Rural Youth in Nation Building Activities’, priority has been accorded to Skills Development Programmes for women in Jammu & Kashmir and border areas.
+Youth Affairs | Under the key objective of 'Engaging Rural Youth in Nation Building Activities', priority has been accorded to Skills Development Programmes for women in Jammu & Kashmir and border areas.
 Panchayati Raj | Ministry of Panchayati Raj has incorporated enhancement of reservation for women in PRIs and also their leadership quality among its objectives.
-Human Resource Development | The School Education and Literacy Department has reflected girls’ education in the key objectives to meet its goal of equity and inclusion of disadvantaged groups and weaker sections by increasing enrolment in KGBVs and approval of girls hostels for secondary schools.
+Human Resource Development | The School Education and Literacy Department has reflected girls' education in the key objectives to meet its goal of equity and inclusion of disadvantaged groups and weaker sections by increasing enrolment in KGBVs and approval of girls hostels for secondary schools.
 Health and Family Welfare | The Mission statement of the RFD document of Ministry of Health and Family Welfare includes bringing down Maternal Mortality Rate.
 Rural Development | The RFD document of Rural Development Ministry has set gender disaggregated targets for employment generated under MNREGA.
 
@@ -6840,7 +6477,7 @@ gender inclusiveness. Similar mechanisms will be created at the state and distri
 
 ##### NATIONAL MISSION FOR EMPOWERMENT OF WOMEN (NMEW)
 
-23.94.  With the specific objective of ensuring convergence and better coordination among the schemes/ programmes of various Ministries/Departments, the  Ministry  launched  the  National  Mission  for Empowerment  of  Women  (NMEW).  The  Mission would aim to strengthen the processes that promote all round development of women by focussing on a coordinated approach to implementation of schemes of participating Ministries/Departments. This would include generating awareness, building strategies to question  prevalent  'patriarchal'  beliefs,  establishing  a  convergence  mechanism  at  multiple  levels, creation  of  gender  resource  centres,  formation  of women's  collectives  and  improving  their  capacity to  access  the  benefits  of  government  schemes, programmes, laws and policies and developing empowerment indicators relating to the survival, visibility, freedom  and  equality  of  women.  The  NMEW  will also  look  at  the  inclusive  development  of  women, including  mapping  vulnerabilities  of  women  living in  difficult  circumstances-taking age, caste, different  abilities,  women  headed  households,  ethnicity, education, income, minority status, religion, marital status,  region,  and  so  on  as  parameters.  Collection of data on mortality of women, especially maternal mortality, deaths related to diseases, different abilities  and  violence  based  on  the  different  socio-economic parameters is recommended.
+23.94. With the specific objective of ensuring convergence and better coordination among the schemes/programmes of various Ministries/Departments, the Ministry launched the National Mission for Empowerment of Women (NMEW). The Mission would aim to strengthen the processes that promote all round development of women by focussing on a coordinated approach to implementation of schemes of participating Ministries/Departments. This would include generating awareness, building strategies to question prevalent 'patriarchal' beliefs, establishing a convergence mechanism at multiple levels, creation of gender resource centres, formation of women's collectives and improving their capacity to access the benefits of government schemes, programmes, laws and policies and developing empowerment indicators relating to the survival, visibility, freedom and equality of women. The NMEW will also look at the inclusive development of women, including mapping vulnerabilities of women living in difficult circumstances—taking age, caste, different abilities, women headed households, ethnicity, education, income, minority status, religion, marital status, region, and so on as parameters. Collection of data on mortality of women, especially maternal mortality, deaths related to diseases, different abilities and violence based on the different socio-economic parameters is recommended.
 
 ##### AUTONOMOUS BODIES UNDER MWCD
 
@@ -6866,21 +6503,21 @@ Training Programme for Women of Weaker Section in order to provide qualitative t
 
 #### MONITORABLE TARGETS
 
-23.99. The Monitorable Targets of the Twelfth Plan for Children are-
+23.99.  The Monitorable Targets of the Twelfth Plan for Children are-
 
 - Improve the Child Sex Ratio from 914 in 2011 to 950 by 2017.
 
-- Prevent and Reduce Child Under nutrition (percentage of underweight prevalence in children 0–3 years) by half (50 per cent) of the NFHS–3 levels.
+- Prevent and Reduce Child Under nutrition (percentage of underweight prevalence in children 0-3  years)  by  half  (50  per  cent)  of  the  NFHS-3 levels.
 
 - Reduce anaemia in girls and women by half (50 per cent).
 
-- Ensure that all children receive a protective environment at family and community levels and through health and child care centres, schools and other facilities.
+- Ensure that all children receive a protective environment  at  family  and  community  levels  and through health and child care centres, schools and other facilities.
 
-- Ensure that 80 per cent or more panchayats, districts and cities progressively become child friendly.
+- Ensure  that  80  per  cent  or  more  panchayats, districts  and  cities  progressively  become  child friendly.
 
 #### STATUS OF CHILDREN: AN OVERVIEW
 
-23.100. India is home to the largest number of children in the world. Nearly every fifth child in the world lives in India. It is estimated that there are about 43 crore children in the age group of 0–18 years. It is estimated that a large proportion of these children are in very difficult circumstances or vulnerable. This includes children in poor households without family income, children denied education opportunities and forced into labour, abused/trafficked children, children on the streets, children affected by substance abuse, by armed conflict/civil unrest/natural calamity and so on. Survival, growth, development and protection of these children therefore need priority focus and attention.
+23.100.  India is home to the largest number of children  in  the  world.  Nearly  every  fifth  child  in  the world  lives  in  India.  It  is  estimated  that  there  are about  43  crore  children  in  the  age  group  of  0-18 years. It is estimated that a large proportion of these children  are  in  very  difficult  circumstances  or  vulnerable.  This  includes  children  in  poor  households without  family  income,  children  denied  education opportunities  and  forced  into  labour,  abused/trafficked  children,  children  on  the  streets,  children affected by substance abuse, by armed conflict/civil unrest/natural calamity and so on. Survival, growth, development and protection of these children therefore need priority focus and attention.
 
 23.101.  The status of children in the dimensions of health, and education are discussed in detail in the Chapter  on  Health  and  the  Chapter  on  Education. Further analysis of children of different socio-religious communities  is  also  provided  in  the  Chapter  on Social  Justice  and  Empowerment.  Some  important indicators of the situation of children are summarised below.
 
@@ -6897,14 +6534,9 @@ Females per 1,000 males
 910
 900
 
-Census Years | Sex ratio 0–6 | Overall sex ratio
---- | --- | ---
-1961 | 976 | 941
-1971 | 964 | 930
-1981 | 962 | 934
-1991 | 945 | 927
-2001 | 927 | 933
-2011 | 914 | 940
+Census Years | 1961 | 1971 | 1981 | 1991 | 2001 | 2011
+Sex ratio 0–6 | 976 | 964 | 962 | 945 | 927 | 914
+Overall sex ratio | 941 | 930 | 934 | 927 | 933 | 940
 
 FIGURE 23.1: Child Sex Ratio 0–6 Years and Overall Sex Ratio
 India: 1961–2011
@@ -6925,7 +6557,7 @@ Women's Agency and Child Rights
 
 23.105. The Child Sex Ratio in the age group of children 0-6 years has declined from 927 girls per thousand boys in 2001 to 914 girls per thousand boys in 2011 (as shown in Figure 23.1).The decline is especially disturbing as it is occurring in spite of a strong legal and policy framework and various government initiatives,  including  cash  transfers  and  incentive schemes, various media and messaging efforts. If not reversed, it will alter demography, erode gender justice,  social  cohesion  and  human  development.  The state wise position is summarised in Box 23.2.
 
-23.106. Sex Ratio at Birth has shown marginal improvement from 901 in 2005-07 to 905 in 2008–2010. This is unacceptably low. Chhattisgarh has reported the highest Sex Ratio at Birth (985) while Punjab has reported the lowest (832).
+23.106. Sex  Ratio  at  Birth has  shown  marginal improvement from 901 in 2005-07 to 905 in 2008–2010.  This  is  unacceptably  low.  Chhattisgarh  has reported the highest Sex Ratio at Birth (985) while Punjab has reported the lowest (832).
 
 23.107. Gender  differentials in Mortality  Rates continue  to  be  discernible.  The  Infant  Mortality Rate for girls is 49 as against 46 for boys, with differentials  of  over  5  points  seen  in  states  such  as Gujarat, Chhattisgarh, Rajasthan, Uttar Pradesh and  Himachal  Pradesh  in  2010.  Significant  gender differentials (9 points) are reflected in India's Child Mortality  Rates  (in  children  under  5  years)  which were  64  for  girls  as  against  55  for  boys  in  2010. Even  sharper  gender  differentials  of  10  points  or more in Under Five Child Mortality Rates are seen in states such as Rajasthan (19), Uttar Pradesh (16), Jharkhand (14), Himachal Pradesh (14) and Punjab (10). This clearly highlights the need for a comprehensive  strategy  for  care  and  protection  of  the  girl child,  rooted  in  long  term  interventions  for  gender equality (SRS Statistical Report 2010, RGI 2012).
 
@@ -6961,7 +6593,7 @@ BMI. These factors, along with factors  such  as  early marriage and early child
 
 23.115. Children  of  urban  poor  communities :  As pointed out in the Chapter on Urban Development, the  size  of  the  urban  population  is  expected  to increase rapidly and this will involve stress on children because urban basic facilities are not expanding as they should. Children of the poor in urban areas face multiple instances of deprivation and exclusion in  rapidly  increasing  cities  and  towns-especially children  of  communities  who  live  in  unregistered/ unrecognised slums or settlements. Children of urban poor communities living on or off the streets are often 'invisible'-denied an identity and vulnerable  to  abuse,  violence  and  exploitation-including sexual  abuse.  Increased  vulnerability  to  substance abuse  is  another  facet  of  these  conditions.  Despite various policy provisions, these children are not only denied a protective environment but also subjected to different forms of abuse, including in occupations such as domestic work, especially the girl child. This highlights the need to ensure that all children receive basic  services,  regardless  of  their  location  and  the status of their settlements.
 
-23.116. Children at Work: A large number of children are forced to work to earn money to contribute to families. According to the Census 2001, about 12.6 million child labourers in the age group of 5-14 years were engaged in hazardous occupations. Some of them are living on the streets or off the streets as well, which further results in them being exploited. A survey Conducted by National Sample Survey
+23.116. Children at Work: A large number of children are forced to work to earn money to contribute to families. According to the Census 2001, about 12.6 million child labourers in the age group of 5-14 years were engaged in hazardous occupations. Some of them are living on the streets or off the streets as well, which further results in them being exploited. A  survey  Conducted  by  National  Sample  Survey
 
 [[END OF PAGE 202]]
 
@@ -6971,13 +6603,13 @@ Women's Agency and Child Rights
 
 185
 
-Organisation (NSSO), showed 90.75 lakh working children in 2004-05 which came down to 49.84 lakh in 2009-10. As per NFHS-3 data, about 11.8 per cent children are engaged in work.
+Organisation  (NSSO),  showed  90.75  lakh  working children in 2004-05 which came down to 49.84 lakh in 2009-10. As per NFHS-3 data, about 11.8 per cent children are engaged in work.
 
-23.117. Children in Conflict with Law Incidents of juvenile crime reduced slightly in 2009—lower by about 2.5 per cent with reference to 2008. Under IPC crimes the highest numbers of apprehensions were for theft, followed by hurt, burglary and riots. These together contributed to 55.8 per cent of the reasons for children being in conflict with the law under the IPC.
+23.117. Children in Conflict with Law Incidents of juvenile  crime  reduced  slightly  in  2009-lower  by about 2.5 per cent with reference to 2008. Under IPC crimes the highest numbers of apprehensions were for theft, followed by hurt, burglary and riots. These together contributed to 55.8 per cent of the reasons for children being in conflict with the law under the IPC.
 
 23.118. Child victims of Crime : Crimes against children, increased by 18.57 per cent between 2007 and 2009 as reflected in Crimes in India 2009 published by the National Crime Records Bureau. The increase is attributed to an increase in kidnapping and abduction, infanticide, rape and murder during the period.
 
-23.119. Victims of Child Abuse : The Study on Child Abuse  conducted  by  MWCD  in  2007  in  thirteen states, also reported high incidence of sexual abuse of children.  Sexual  offences  against  children  are  inadequately  addressed  by  earlier  existing  legislation.  A large number of sexual offences are neither specifically provided for nor are they penalised, as a result of which offenders are tried under more lax and nonspecific provisions of the Indian Penal Code (IPC).
+23.119. Victims of Child Abuse : The Study on Child Abuse  conducted  by  MWCD  in  2007  in  thirteen states, also reported high incidence of sexual abuse of children.  Sexual  offences  against  children  are  inadequately  addressed  by  earlier  existing  legislation.  A large number of sexual offences are neither specifically provided for nor are they penalised, as a result of which offenders are tried under more lax and non-specific provisions of the Indian Penal Code (IPC).
 
 23.120. Children  affected/infected  by  HIV/AIDS : In the context of children affected/infected by HIV/ AIDS,  the  greatest  impediment  is  the  denial  of basic services. This is especially so in the sectors of health and education where stigma and discrimination weaken social support systems leading to social exclusion.
 
@@ -6990,7 +6622,7 @@ Organisation (NSSO), showed 90.75 lakh working children in 2004-05 which came do
 ##### CHILD SURVIVAL AND DEVELOPMENT
 ###### UNIVERSALISATION OF ICDS
 
-23.123. The Eleventh Plan witnessed the universalisation of ICDS in 2008-09 and a consequent expansion of anganwadis from 10.5 lakhs to 13.17 lakhs by the end of the Eleventh Plan, against a requirement of 14 lakhs. ICDS is a unique early childhood development programme aimed at addressing health, nutrition and development needs of young children, pregnant and breastfeeding mothers. ICDS began in 33 community development blocks selected in 1975 and covers almost all habitations across the country. However, the larger part of expansion (more than 50 per cent) has taken place post 2005. ICDS today reaches out to 7.9 crore children (6 months to 6 years) and 1.82 crore pregnant and lactating mothers through a network of 13.17 lakh operational AWCs/Mini AWCs in 7005 operational projects. The early learning component of the programme benefits 3.5 crore children, 3-6 years old (As on 30.06.12). ICDS provides the critical link between communities and the primary health care and education systems.
+23.123.  The Eleventh Plan witnessed the universalisation of ICDS in 2008-09 and a consequent expansion of anganwadis from 10.5 lakhs to 13.17 lakhs by the end of the Eleventh Plan, against a requirement of 14 lakhs. ICDS is a unique early childhood development  programme  aimed  at  addressing  health, nutrition and development needs of young children, pregnant and breastfeeding mothers. ICDS began in 33 community development blocks selected in 1975 and covers almost all habitations across the country. However,  the  larger  part  of  expansion  (more  than 50 per cent) has taken place post 2005. ICDS today reaches  out  to  7.9  crore  children  (6  months  to  6 years) and 1.82 crore pregnant and lactating mothers through a network of 13. 17 lakh operational AWCs/ Mini AWCs in 7005 operational projects. The early learning component of the programme benefits 3.5 crore children, 3-6 years old (As on 30.06.12). ICDS provides the critical link between communities and the primary health care and education systems.
 
 23.124.  Two  new  schemes  were  introduced  from the  platform  of  ICDS-Indira  Gandhi  Matritava Sahyog Yojana (IGMSY) and Rajiv Gandhi Scheme for  Empowerment  of  Adolescent  Girls  (SABLA). They address the needs of the pregnant and lactating mothers and adolescent girls respectively, across the life cycle continuum. Indira Gandhi Matritva Sahyog Yojana  (IGMSY)  was  introduced  on  a  pilot  basis in  53  districts  in  all  States/UTs  for  providing  cash directly to women during pregnancy and lactation to improve the health and nutrition status of pregnant, lactating women and infants, benefiting nearly 12.5 lakh mothers every year. SABLA, primarily for out of school adolescent girls (11-18 years) is being implemented  in  200  districts  on  a  pilot  basis  using  the ICDS platform,  to  address  their  multi-dimensional needs. It is likely to cover nearly one crore adolescent girls annually.
 
@@ -7067,7 +6699,7 @@ Women's Agency and Child Rights
 
 ##### INSTITUTIONAL CAPACITY DEVELOPMENT
 
-- Strengthening of institutional mechanisms and capacities at National, State and District levels for converging multi-sectoral action for children with reference to child specific and child related sectors.
+- Strengthening  of  institutional  mechanisms  and capacities  at  National,  State  and  District  levels for  converging multi-sectoral action for children with reference to child specific and child related sectors.
 
 - Strengthening  of  institutional  mechanisms  and capacities  at  National  and  State  levels  for  the Protection  of  Child  Rights,  through  empowered SCPCRs in states.
 
@@ -7085,7 +6717,7 @@ Women's Agency and Child Rights
 
 ##### MULTI-SECTORAL POLICY AND PLANNING FOR CHILDREN
 
-23.133. Key child related policies and legislations need to be developed and/or strengthened to create the enabling policy environment needed to fulfill children’s rights. This includes the Development of a comprehensive Children’s Code, harmonising and updating different legal provisions for children, with
+23.133. Key  child  related  policies  and  legislations need to be developed and/or strengthened to create the  enabling  policy  environment  needed  to  fulfill children's rights. This includes the Development of a comprehensive Children's Code, harmonising and updating different legal provisions for children, with
 
 [[END OF PAGE 205]]
 
@@ -7095,27 +6727,25 @@ Women's Agency and Child Rights
 
 Twelfth Five Year Plan
 
-uniformity in the definition of “children,” and creating more effective mechanisms for Child sensitive and child friendly Jurisprudence. The Child Labour (Prohibition and Regulation) Act will need to be amended in line with the RTE as it makes a distinction between hazardous and non-hazardous categories of work for children under 14 years. It will need to be amended to abolish all forms of child labour, as children cannot be both working and in school at the same time. Transition measures and support for families, enhanced opportunities for skill development, vocational training and rehabilitation for children will also be needed. Setting up of State Commissions for Protection of Child Rights (SCPCRs) needs to be made mandatory for all State Governments. The mentoring role of NCPCR needs to be strengthened and SCPCRs mandated to adopt normative guidelines for their constitution and functioning. The Immoral Trafficking Prevention Act (ITPA), needs to be amended to clearly define trafficking and sexual exploitation, recognising different aspects of the same. The Protection of Children from Sexual Offences Act 2012, passed in Parliament will be taken forward in the Twelfth Plan. It also needs to be ensured that the draft National Food Security Bill protects children’s rights and does not dilute earlier provisions for all six services of ICDS, mandated by earlier Supreme Court directives and also provides support for maternity protection.
+uniformity in the definition of “children,” and creating more effective mechanisms for Child sensitive and child friendly Jurisprudence. The Child Labour (Prohibition and Regulation) Act will need to be amended in line with the RTE as it makes a distinction between hazardous and non-hazardous categories of work for children under 14 years. It will need to be amended to abolish all forms of child labour, as children cannot be both working and in school at the same time. Transition measures and support for families, enhanced opportunities for skill development, vocational training and rehabilitation for children will also be needed. Setting up of State Commissions for Protection of Child Rights (SCPCRs) needs to be made mandatory for all State Governments. The mentoring role of NCPCR needs to be strengthened and SCPCRs mandated to adopt normative guidelines for their constitution and functioning. The Immoral Trafficking Prevention Act (ITPA), needs to be amended to clearly define trafficking and sexual exploitation, recognising different aspects of the same. The Protection of Children from Sexual Offences Act 2012, passed in Parliament will be taken forward in the Twelfth Plan. It also needs to be ensured that the draft National Food Security Bill protects children's rights and does not dilute earlier provisions for all six services of ICDS, mandated by earlier Supreme Court directives and also provides support for maternity protection.
 
-23.134. Review and Updation of the National Policy for Children 1974 to fulfill children’s rights and harmonisation of State policy interventions is a critical initiative in the Twelfth Plan. Under the proposed renewed National Policy for Children, National and State Plans of Action For Children (and progressively District Plans of Action For Children) need to be developed, implemented and monitored, with accountability for achieving child related outcomes.
+23.134. Review and Updation of the National Policy for Children 1974 to fulfill  children's  rights and  harmonisation  of  State  policy  interventions  is a  critical  initiative  in  the  Twelfth  Plan.  Under  the proposed  renewed  National  Policy  for  Children, National  and  State  Plans  of  Action  For  Children (and  progressively  District  Plans  of  Action  For Children) need to  be  developed,  implemented  and monitored,  with  accountability  for  achieving  child related outcomes.
 
 23.135. Aligned  to  and  building  on  the  Twelfth Plan Monitorable Targets and strategies , the Plans of  Action  For  Children  will  have  monitorable  outcomes, measurable indicators, defined multisectoral  commitments,  enhanced  resource  allocation and specified time frames. The National, State and District Plans of Action For Children will also specifically highlight how concerns for the care and protection of the girl child are being addressed.
 
 23.136. Institutional Arrangements will also need  to  be  strengthened for  improved  formulation,  regulation,  implementation  and  monitoring of  child  rights  related  legislations,  policies,  plans, and  interventions  across  child  specific  and  child related  sectors.  The  National  Coordination  Group will  need  to  be  revisited  and  redefined,  linked  to the  PM's  National  Council  on  India's  Nutrition Challenges and the possible constitution of a Standing Committee on Women and Children in the National  Development  Council.  Similar  multisectoral Coordination mechanisms are needed at State/ District  levels  for  effective  implementation  of  the revised  National  Policy  for  Children  and  National, State/District  Plans  of  Action  For  Children.  States may also  be  encouraged  to  set  up  separate  departments  of  WCD,  distinct  from  Social  Welfare,  and clearly bifurcate responsibilities for Women and for Children, so that each group receives high priority.
 
-23.137. Capacity Development is needed and human resources will need to be enriched, with continuity of technical support within the Ministry of Women and Child Development, at National and State levels, (progressively at district levels) to respond to emerging issues and initiatives related to children. This needs to be provided on a planned and sustained basis from government resources, reducing dependency on external aid for the same. A Technical Directorate for Child Development and Protection is needed for sustained technical support in view of the progressive universalisation/expansion and quality enrichment of major schemes. The role of NIPCCD in networking with other national institutions such as NCERT, NIN, NHSRC, NIHFW, NIUA and others working on child specific and child related themes needs to be enhanced. Institutional capacity development would need to include linking with and/or creating Centres for Child Development and Protection in Universities, Home Science/Medical Colleges in collaboration with UGC or others (as
+23.137. Capacity Development is needed and human  resources  will  need  to  be  enriched,  with continuity of technical support within the Ministry of  Women  and  Child  Development,  at  National and  State  levels,  (progressively  at  district  levels)  to respond to emerging issues and initiatives related to children. This needs to be provided on a planned and sustained basis from government resources, reducing dependency on external aid for the same. A Technical Directorate for Child Development and Protection is needed for sustained technical support in view of the progressive  universalisation/expansion  and  quality enrichment of major schemes. The role of NIPCCD in networking with other national institutions such as  NCERT,  NIN,  NHSRC,  NIHFW,  NIUA  and others  working  on  child  specific  and  child  related themes  needs  to  be  enhanced.  Institutional  capacity development would need to include linking with and/or creating Centres for Child Development and Protection  in  Universities,  Home  Science/Medical Colleges  in  collaboration  with  UGC  or  others  (as has been done for Gender Studies or as Ambedkar University  and  Jamia  Millia  Islamia  have  done  for ECD) and establishing learning hubs and multi disciplinary  training  resource  networks.  A  Child  Web Portal  needs  to  be  created  which  includes  a  comprehensive  data  base  on  child  survival,  development, protection and participation, with supportive resources and links to similar state portals/networks of other sectors.
 
 [[END OF PAGE 206]]
 
 [[START OF PAGE 207]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 189
 
-has been done for Gender Studies or as Ambedkar University and Jamia Millia Islamia have done for ECD) and establishing learning hubs and multi disciplinary training resource networks. A Child Web Portal needs to be created which includes a comprehensive data base on child survival, development, protection and participation, with supportive resources and links to similar state portals/networks of other sectors.
-
-23.138. Community Action: This will be geared to creating child friendly panchayats and urban local bodies, with recognition and awards along the line of Nirmal Gram Puruskar, complemented by Baal Panchayats, where children’s voices will be heard in assessing how their panchayat fares.
+23.138. Community Action: This will  be  geared  to creating  child  friendly  panchayats  and  urban  local bodies,  with  recognition  and  awards  along  the  line of  Nirmal  Gram  Puruskar,  complemented  by  Baal Panchayats, where children's voices will be heard in assessing how their panchayat fares.
 
 23.139. Convergence: For binding commitments of different sectors to multisectoral action, a matrix of the indicative contribution that can be made by different  sectors  for  fulfilling  children's  rights  will  be finalised, based on the updated National Policy and National Plan of Action For Children, in consultation with child specific and child related sectors and states.
 
@@ -7132,7 +6762,7 @@ has been done for Gender Studies or as Ambedkar University and Jamia Millia Isla
 
 ###### Box 23.3 Making the Difference-ICDS Restructuring
 
-- ‘What is different’—the focus on the critical age group—pregnant and breastfeeding mothers and children under three years—for integrated early child development.
+- 'What is different'-the focus on the critical age group-pregnant and breastfeeding mothers and children under three years-for integrated early child development.
 
 - The defining difference in 'How will things be done differently' is decentralisation, with flexibility in implementation.
 
@@ -7150,13 +6780,13 @@ Twelfth Five Year Plan
 
 services for maternal, child and care for out of school adolescent  girls  through  the  Rajiv  Gandhi  Scheme for Empowerment of Adolescent Girls. Greater ownership by women and communities would also come with  institutional  reforms  that  include  the  establishment  of  Anganwadi  Management  Committees, which  include  mothers/mahila  mandals/parents  as members,  empowered  with  untied  funds  for  local action.
 
-23.143. Re-designing and reinforcing of the package of ICDS services, including a new component of Child Care and Nutrition Counselling for mothers of children under three years. This will focus on regular and prioritised home visiting at critical contact points, improving key family care behaviours—Infant and Young Child Feeding, health, hygiene, psychosocial care, early learning and care of girls and women.
+23.143. Re-designing and reinforcing of the package  of  ICDS  services,  including  a  new  component of Child Care and Nutrition Counselling for mothers of children under three years. This will focus on regular and prioritised home visiting at critical contact points, improving key family care behaviours—Infant  and  Young  Child  Feeding,  health,  hygiene, psychosocial care, early learning and care of girls and women.
 
-23.144. Enhancing Nutritional Impact with revised nutrition and feeding norms; ensuring provision for nutritious, freshly cooked, culturally appropriate meal, (morning) snack and Take Home Rations in harmony with Supreme Court directives and the IMS (and its Amendment) Act and greater involvement of women’s SHGs. Piloting of community kitchens and joint kitchens with Mid Day Meals will also be undertaken. A focus on early preventive action in a public health perspective will be promoted by reaching pregnant and breastfeeding mothers and children under three years more effectively in the family and community.
+23.144. Enhancing Nutritional Impact with revised nutrition and feeding norms; ensuring provision for nutritious, freshly cooked,  culturally appropriate meal,  (morning)  snack  and  Take  Home  Rations  in harmony with Supreme Court directives and the IMS (and its  Amendment) Act and greater involvement of  women's SHGs. Piloting of community kitchens and joint kitchens with Mid Day Meals will also be undertaken. A focus on early preventive action in a public health perspective will be promoted by reaching  pregnant  and  breastfeeding  mothers  and  children under three years more effectively in the family and community.
 
-23.145. A continuum of care will be promoted across the life cycle, extending from care in the family, in anganwadis and communities to health sub centres and health facilities. An innovative new component is SNEHA SHIVIRS (see Box 23.4) for promoting community based prevention and care of severely undernourished children, backed by stronger referral linkages with the health system (Nutrition Rehabilitation Centres under NRHM). Requisite safeguards will be ensured so that there is no “product driven” or commercial interference with infant and young child feeding practices.
+23.145. A  continuum  of  care will  be  promoted across the life cycle, extending from care in the family,  in  anganwadis  and  communities  to  health  sub centres  and  health  facilities.  An  innovative  new component is SNEHA SHIVIRS (see Box 23.4) for promoting  community  based  prevention  and  care of severely undernourished  children, backed  by stronger  referral  linkages  with  the  health  system (Nutrition  Rehabilitation  Centres  under  NRHM). Requisite safeguards will be ensured so that there is no 'product driven' or commercial interference with infant and young child feeding practices.
 
-23.146. Strengthening Early Childhood Care and Education (ECCE) by redefining ICDS non formal preschool education to ECCD, with additional and trained human resources, introduction of a developmentally appropriate curriculum framework with joyful learning methodologies. This will be supported by the use of local culturally relevant play/activity materials, AWC activity corners and local toy banks in child friendly AWC environments. Joyful early learning approaches will be promoted—for children 3-6 years of age, including school readiness interventions for children 5 plus years of age, either in AWCs or in schools (depending upon the state context). Co-location of ICDS AWCs with schools where locally decided, will enable resource sharing, mentoring of AWWs and better school readiness and transition. Children from different community groups, playing/learning together and eating together at AWCs will lay the foundation for more inclusive early socialisation and more inclusive and cohesive communities.
+23.146. Strengthening  Early  Childhood  Care  and Education (ECCE) by redefining ICDS non formal preschool education to ECCD, with additional and trained  human  resources,  introduction  of  a  developmentally appropriate curriculum framework with joyful  learning  methodologies.  This  will  be  supported  by  the  use  of  local  culturally  relevant  play/ activity  materials,  AWC  activity  corners  and  local toy  banks  in  child  friendly  AWC  environments. Joyful early learning approaches will be promotedfor children 3-6 years of age, including school readiness  interventions  for  children  5  plus  years  of  age, either in AWCs or in schools (depending upon the state  context).  Co-location  of  ICDS  AWCs  with schools  where  locally  decided,  will  enable  resource sharing,  mentoring  of  AWWs  and  better  school readiness  and  transition.  Children  from  different community  groups,  playing/learning  together  and eating together at AWCs will lay the foundation for more inclusive early socialisation and more inclusive and cohesive communities.
 
 ###### Box 23.4 Learning by Doing-SNEHA SHIVIRs
 
@@ -7174,7 +6804,7 @@ Women's Agency and Child Rights
 
 191
 
-23.147. Strengthening civil society partnerships to allow operating up to 10 per cent of the ICDS projects by CSOs. These models will contribute to innovation, component enrichment, quality improvement, extending reach to unreached areas and better responsiveness to local contexts. Flexibility will be provided to States to decide upon this.
+23.147. Strengthening civil society partnerships to allow operating up to 10 per cent of the ICDS projects  by  CSOs.  These models will contribute  to  innovation,  component  enrichment,  quality  improvement,  extending  reach  to  unreached areas  and  better  responsiveness  to  local  contexts. Flexibility will be provided to States to decide upon this.
 
 23.148. Ensuring  convergence  with  related sectors such as NRHM, TSC, NRDWP, SSA, MGNREGA through joint planning, inclusion of  young  child  related  concerns  in  State/District Annual Programme Implementation Plans (APIPs) of  relevant  sectors,  joint  monitoring  of  key  results and  indicators  and  defined  roles  and  accountabilities.  Institutional  mechanisms  for  convergence  will be  anchored  in  Panchayati  Raj  Institutions  such  as Village Health, Sanitation and Nutrition Committees at village level. These will be strengthened and platforms such as Fixed Monthly Village Days at AWCs (for Health, Nutrition and ECCE) will take this forward.  Resources  of  other  programmes  will  also  be mobilised for AWC construction and upgradation.
 
@@ -7188,7 +6818,7 @@ Women's Agency and Child Rights
 
 23.153. Community owned ICDS accreditation system will  be  introduced  to  ensure  quality  standards in child care service delivery at all levels, with grading  of  AWCs,  sectors,  block/projects,  districts, based  on  child  related  outcomes,  using  a  checklist based on service standards. This would be reinforced by community based recognition and awards for  child  friendly  Anganwadi  Centres,  Panchayats, blocks and districts.
 
-23.154. Community ownership of ICDS will be ensured through the common Village Health, Sanitation and Nutrition Committees and the AWC Management Committees. Involvement of Women SHGs, Mothers’ Committees/women link volunteers will also be promoted in order to deepen community ownership of ICDS. Initiatives for extending and deepening the involvement of women’s SHGs
+23.154. Community  ownership  of  ICDS will  be ensured through the common Village Health, Sanitation and Nutrition Committees and the AWC Management Committees. Involvement of Women SHGs,  Mothers'  Committees/women  link  volunteers will also be promoted in order to deepen community ownership of ICDS. Initiatives for extending and  deepening  the  involvement  of  women's  SHGs in ICDS, including in the Supplementary Nutrition component, will be promoted, in convergence with Rural Development.
 
 [[END OF PAGE 209]]
 
@@ -7198,9 +6828,7 @@ Women's Agency and Child Rights
 
 Twelfth Five Year Plan
 
-in ICDS, including in the Supplementary Nutrition component, will be promoted, in convergence with Rural Development.
-
-23.155. The IDA assisted Integrated Child Development Services Systems Strengthening and Nutrition Improvement Project (ISSNIP) will also be implemented in 162 high burden districts of 8 states, reinforcing the strengthening and restructuring ICDS, and enhancing child nutrition and development outcomes.
+23.155. The IDA assisted Integrated Child Development Services Systems Strengthening and Nutrition Improvement Project (ISSNIP) will also be  implemented  in  162  high  burden  districts  of  8 states, reinforcing the strengthening and restructuring ICDS, and enhancing child nutrition and development outcomes.
 
 23.156. Indira  Gandhi  Matritva  Sahyog  Yojana (IGMSY)-the Conditional Maternity Benefit Scheme will be expanded  in  the  Twelfth  Plan, building on learnings from the pilot in 53 districts. Promoting  a  life  cycle  approach,  this  will  also  be linked  to  the  umbrella  ICDS  mission.  This  is  also likely to be included as an entitlement for Maternity Protection under the proposed National Food Security Bill 2011.
 
@@ -7214,7 +6842,7 @@ in ICDS, including in the Supplementary Nutrition component, will be promoted, i
 
 23.160. Ensuring Universal Access with Inclusion: Universalisation of access with inclusion will imply that each and every child in the relevant age group from  all  social  and  economic  categories  is  given access  to  ECCE  of  acceptable  quality.  For  children below 3 years, the focus will be on home based early childhood development. Universal Access with Inclusion will call for greater flexibility and a move away from the current centralised, standard design towards  more  decentralised,  habitation  based  and contextualised planning and interventions. The ECCE  strategy  includes  ( a )  Restructuring  of  ICDS with flexibility and decentralisation; ( b ) Involvement of NGOs; ( c ) Community based models; ( d ) Demand driven models; ( e ) Innovations grant for  New Schemes; ( f ) Promoting Public Private Partnerships; ( g ) Urban strategy; and ( h ) Convergence.
 
-23.161. Quality with Inclusion: Strategies for ensuring quality with inclusion will include: (a) National Curriculum Framework for ECCE; (b) Quality Standards and a system of Accreditation; (c) Developmentally appropriate Curriculum; (d) Ensuring a child friendly joyful early learning environment; (e) Professionalisation of ECCE; (f) Training Framework; and (g) Advocacy and Communication.
+23.161. Quality with Inclusion: Strategies for ensuring quality with inclusion will include: ( a ) National  Curriculum  Framework  for  ECCE; ( b ) Quality Standards and a system of Accreditation; ( c ) Developmentally appropriate Curriculum; ( d )  Ensuring  a  child  friendly  joyful  early  learning  environment;  ( e )  Professionalisation  of  ECCE; ( f )  Training  Framework;  and  ( g )  Advocacy  and Communication.
 
 23.162. Institutional Capacity: Strategies for strengthening  institutional  capacity  for  improved ECCE will include: ( i ) Establishing a reliable and efficient Management Information System; ( ii ) Research; and ( iii ) Capacity Strengthening through establishment of National/State ECD Resource Centres, linked to NIPCCD  Regional Centres, NCERT/SCERTs and ECCE Units in DIETs.  This  would  also  be  linked  to  a  network  of ECCE  centres/study  units  in  established  universities,  as  has  been  demonstrated  by  ECCE centres in Ambedkar and Jamia Millia Islamia Universities.
 
@@ -7228,17 +6856,11 @@ Women's Agency and Child Rights
 
 193
 
-###### Box 23.5 Early Joyful Learning-Chilli Pilli
 
-The Government of Karnataka introduced the concept of early joyful learning in anganwadis in Karnataka. Chilli Pilli, designed  to  address  all  interrelated  development  domains  of  the  child-physical,  cognitive,  psycho  social  and  language development.
-
-Chilli Pilli is a comprehensive package which adopts developmentally appropriate practices, through training of anganwadi workers and ICDS functionaries, use of a thematic activity bank relevant to the local cultural context. Stree Shakti groups are also involved in making these materials. Activities encourage children to explore their environment and learn while doing. The activities include stories, games-indoor and outdoors, art and craft related and concepts of colour, shape pre-number. Curiosity corners are set up and children clustered into two groups 3 to 4 years and 4 to 5 years to enable developmentally appropriate practices.
-
-By  effective  demonstration,  Chilli  Pilli  has  increased  the  participation  of  children  and  their  active  learning  capacities, preparing them better for school. It has also reached out to parents, communities and panchayats in ICDS, who own this initiative.
 
 23.164. Strengthening  NIPCCD: NIPCCD  will  be strengthened to function as a global centre of excellence. It will have an expanded resource network of additional Regional Centres/State Institutes to reach out effectively, with clusters of States/UTs. New initiatives will be taken to expand and enrich the pool of  core  trainers  to  respond  to  training  needs  arising from ICDS Restructuring, likely universalisation of  IGMSY  under  the  Draft  National  Food  Security Bill,  strengthening  of  SABLA-especially  the  non nutrition  component  (life  skills)  and  ICPS  expansion, upcoming new ECCE policy and new thematic focus areas.
 
-23.165. In view of the ICDS Restructuring recommendation that 10 per cent of ICDS projects be taken up in partnership with NGO’s, NIPCCD and its regional and state centres need to redesign and strengthen their support for Voluntary Action as related to Women and Child Development. National and State NGO Forums for Children may be enabled, through networking, dialogue and a resource inventory created so that NGOs are able to access information and resources related to child care. Other new initiatives envisaged include setting up a National Nutrition Resource Centre and National/Regional Child Development Resource Centres; setting up Child Budgeting/Training Cell and collaboration with Breastfeeding Promotion Network of India and MWCD on the lines of Childline Foundation.
+23.165.  In  view  of  the  ICDS  Restructuring  recommendation  that  10  per  cent  of  ICDS  projects  be taken up in partnership with NGO's, NIPCCD and its  regional  and  state  centres  need  to  redesign  and strengthen  their  support  for  Voluntary  Action  as related to Women and Child Development. National and State NGO Forums for Children may be enabled, through networking, dialogue and a resource inventory created so that NGOs are able to access information and resources related to child care. Other new initiatives  envisaged  include  setting  up  a  National Nutrition  Resource  Centre  and  National/Regional Child  Development  Resource  Centres;  setting  up Child  Budgeting/Training  Cell  and  collaboration with Breastfeeding Promotion Network of India and MWCD on the lines of Childline Foundation.
 
 ##### PROMOTING CHILD PROTECTION AND PARTICIPATION
 
@@ -7247,6 +6869,14 @@ By  effective  demonstration,  Chilli  Pilli  has  increased  the  participation
 23.166. Strengthening Implementation of Integrated  Child  Protection  Scheme as  a  vehicle  for implementation of the JJ Act is a priority. Although ICPS is a comprehensive scheme on child care and protection, it does not adequately focus on restoration of children back to the families and rehabilitation.  It  requires  consolidation  as  well  as  focused efforts  to  address  implementation  gaps.  Emphasis will,  therefore  be  placed  on  improved  implementation by the states, reviewing norms and procedures and building capacities.
 
 23.167. Ensuring and Enhancing response for children  in  emergency  situations: Children  separated from their families that is missing children, children being trafficked/abused or exploited, children on the streets  needing  immediate  help  can  be  assured  of timely  help  through  the  24  hr.  telephone  outreach CHILDLINE service  currently  available  in  181  cities. Services will be expanded and improved through Strengthening  and  Expansion  of  Childline  Services to  all  districts/cities  through  professionalising  of the service, stronger partnerships and consultations with voluntary organisations, greater investment of resources and capacity building.
+
+###### Box 23.5 Early Joyful Learning-Chilli Pilli
+
+The Government of Karnataka introduced the concept of early joyful learning in anganwadis in Karnataka. Chilli Pilli, designed  to  address  all  interrelated  development  domains  of  the  child-physical,  cognitive,  psycho  social  and  language development.
+
+Chilli Pilli is a comprehensive package which adopts developmentally appropriate practices, through training of anganwadi workers and ICDS functionaries, use of a thematic activity bank relevant to the local cultural context. Stree Shakti groups are also involved in making these materials. Activities encourage children to explore their environment and learn while doing. The activities include stories, games-indoor and outdoors, art and craft related and concepts of colour, shape pre-number. Curiosity corners are set up and children clustered into two groups 3 to 4 years and 4 to 5 years to enable developmentally appropriate practices.
+
+By  effective  demonstration,  Chilli  Pilli  has  increased  the  participation  of  children  and  their  active  learning  capacities, preparing them better for school. It has also reached out to parents, communities and panchayats in ICDS, who own this initiative.
 
 [[END OF PAGE 211]]
 
@@ -7270,19 +6900,17 @@ Twelfth Five Year Plan
 
 23.172.  Reaching every child through universal approaches with normative standards and flexible, locally relevant and culturally appropriate strategies  is  a  challenge  that  will  be  addressed  not only in terms of the manifestations of social exclusion-but  through  structural  transformation  in  its causal  framework,  along  with  affirmative  action for  disadvantaged  groups.  Recognising  the  need  to anchor inclusion of children of socio-religious communities  more  firmly  in  relevant  national  flagship programmes  and  closely  monitor  the  child  related component  of  schemes  taken  up  under  targeted interventions  such  as  Scheduled  Castes  Sub-Plan SCSP and the Tribal Sub Plan (TSP) and the MSDP for minorities, new linkages will also be established with the Assessment and Monitoring Authority for this purpose.
 
-23.173. Relevant child related flagship programmes will also be enabled through capacity development, more inclusive institutional mechanisms (mission steering groups/programme committees/village committees and so on), greater representation of women of these communities as community workers (AWWs, ASHAs, link volunteers), and decentralised participatory planning processes, with leadership of PRIs. Disaggregated tracking and reporting of child related
+23.173.  Relevant  child  related  flagship  programmes will  also  be  enabled  through  capacity  development, more  inclusive  institutional  mechanisms  (mission steering groups/programme committees/village committees and so on), greater representation of women of these communities as community workers (AWWs, ASHAs,  link  volunteers),  and  decentralised  participatory  planning  processes,  with  leadership  of  PRIs. Disaggregated tracking and reporting of child related outcomes to monitor social inclusion of diverse socio religious communities will be a major initiative with community based monitoring and social audits.
 
 [[END OF PAGE 212]]
 
 [[START OF PAGE 213]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 195
 
-outcomes to monitor social inclusion of diverse socio religious communities will be a major initiative with community based monitoring and social audits.
-
-23.174. There will also be incentivisation of sectors, States (through Additional Central Assistance) and panchayats where social inclusion indicators related to children of socio religious communities—including minorities—improve, with peer learning/motivation through sharing of best practices, within and across States/Districts.
+23.174.  There will also be incentivisation of sectors, States  (through  Additional  Central  Assistance)  and panchayats where social inclusion indicators related to children of socio religious communities-including  minorities-improve,  with  peer  learning/motivation through sharing of best practices, within and across States/Districts.
 
 ##### ENDING DISCRIMINATION AGAINST THE GIRL CHILD
 
@@ -7298,7 +6926,7 @@ In  the  Twelfth  Plan,  a  High  Level  Inter-Ministerial Committee will be set
 
 23.179. Incentive Schemes For the Girl Child: Review and Redesigning of Cash Incentive Schemes and  Conditional  Cash  transfers  for  the  Girl  Child (including Dhanlakshmi) will be undertaken in the first  half  of  the  Twelfth  Plan.  The  Government  of India's  pilot  scheme  on  conditional  cash  transfer with  insurance  benefit,  titled  'Dhanalakshmi'  also will be revisited and the possibility of providing ownership of assets such as a house under Indira Awas Yojna rather than cash incentives will be explored.
 
-23.180. Interventions for improving the Self Esteem of Girls and Women: For enabling girls to challenge the norms of a patriarchal and male-dominated society, they have to be empowered with high self-esteem, as detailed in Part I. Additionally, gender and girl child impact analysis based on disaggregated data focusing on gender, caste, minority status and geographic location, in benchmarking, designing, implementation and monitoring policies and programmes needs to be undertaken. Concerns of the
+23.180. Interventions for improving the Self Esteem of Girls and Women: For enabling girls to challenge the  norms  of  a  patriarchal  and  male-dominated society,  they  have  to  be  empowered  with  high  self-esteem,  as  detailed  in  Part  I.  Additionally,  gender and girl child impact analysis based on disaggregated data focusing on gender, caste, minority status and geographic  location,  in  benchmarking,  designing, implementation  and  monitoring  policies  and  programmes needs to be undertaken. Concerns of the girl child, which are unique, and which need special attention  and  provisions,  should  be  focused  upon in  the  National/State/District  Plans  of  Action  For Children that are envisaged.
 
 [[END OF PAGE 213]]
 
@@ -7307,8 +6935,6 @@ In  the  Twelfth  Plan,  a  High  Level  Inter-Ministerial Committee will be set
 196
 
 Twelfth Five Year Plan
-
-girl child, which are unique, and which need special attention and provisions, should be focused upon in the National/State/District Plans of Action For Children that are envisaged.
 
 ##### ADOLESCENTS
 
@@ -7328,17 +6954,15 @@ girl child, which are unique, and which need special attention and provisions, s
 
 ##### STRENGTHENING INSTITUTIONS AND PROCESSES FOR PROMOTING CHILD RIGHTS—NCPCR AND SCPCRs
 
-23.187. During the 12th Plan period, the NCPCR will be strengthened in its role as an independent statutory Commission, with enabling provisions to expand its mentoring support to SCPCRs and with enhanced human and financial resources. As State Commissions have not been set up in all states, NCPCR will also consider setting up representative offices in some states, to cover all regions of the country, to ensure access to services to children across the country and to address cases of child rights violation. To encourage each State/UT to set-up the SCPCR with adequate infrastructure and human resources as envisaged under the Commissions for Protection of Child Rights Act, 2005, funding through Additional Central Assistance is also envisaged. Policy and programme recommendations for providing a protective environment for children, with child tracking
+23.187.  During  the  12th  Plan  period,  the  NCPCR will  be  strengthened  in  its  role  as  an  independent statutory  Commission,  with  enabling  provisions  to expand its mentoring support to SCPCRs and with enhanced  human  and  financial  resources.  As  State Commissions  have  not  been  set  up  in  all  states, NCPCR will also consider setting up representative offices in some states, to cover all regions of the country, to ensure access to services to children across the country and to address cases of child rights violation. To  encourage  each  State/UT  to  set-up  the  SCPCR with adequate infrastructure and human resources as envisaged under the Commissions for Protection of Child Rights Act, 2005, funding through Additional Central Assistance is also envisaged. Policy and programme  recommendations  for  providing  a  protective  environment  for  children,  with  child  tracking mechanisms, especially in areas affected by conflict (such as Integrated Action Plan districts), will be a priority, building on learnings from the Baal Bandhu pilot programme.
 
 [[END OF PAGE 214]]
 
 [[START OF PAGE 215]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 197
-
-mechanisms, especially in areas affected by conflict (such as Integrated Action Plan districts), will be a priority, building on learnings from the Baal Bandhu pilot programme.
 
 ##### Outcome Oriented Child Budgeting
 
@@ -7350,7 +6974,7 @@ mechanisms, especially in areas affected by conflict (such as Integrated Action 
 
 ### NUTRITION
 
-23.191. The challenging state of nutrition in India, highlighted by high rates of child malnutrition has been a matter of grave concern and a legitimate focus of criticism. Nutrition constitutes the foundation for human development, by reducing susceptibility to infections, reducing the related morbidity, disability and mortality burden, enhancing cumulative lifelong learning capacities and adult productivity. There can be no doubt that improvement in the nutritional status of both children and adults must have high priority in any strategy for human development. Nutrition status of the most vulnerable age group of children is both a sensitive proxy indicator of human development and also a key determinant of the effectiveness of national socio economic development strategies.
+23.191.  The  challenging  state  of  nutrition  in  India, highlighted  by  high  rates  of  child  malnutrition  has been a matter of grave concern and a legitimate focus of criticism. Nutrition constitutes the foundation for human  development,  by  reducing  susceptibility  to infections, reducing the related morbidity, disability and mortality burden, enhancing cumulative lifelong learning capacities and adult productivity. There can be no doubt that improvement in the nutritional status of both children and adults must have high priority in any strategy for human development. Nutrition
 
 Persistently High Undernutrition
 
@@ -7380,6 +7004,8 @@ Note: Using WHO 2006 International Reference population.
 
 FIGURE 23.2: Nutrition Status of Children under 3 Years (%)
 
+status of the most vulnerable age group of children is both a sensitive proxy indicator of human development and also a key determinant of the effectiveness of national socio economic development strategies.
+
 23.192.  However, in designing strategies to improve nutrition, it must be recognised that nutrition is an outcome of multi-sectoral interventions that impact communities,  especially  women  and  children  over the  life  cycle.  Under-nutrition  is  the  outcome  of many factors. Insufficient dietary intake and absorption  and  inadequate  prevention  and  management of  disease/infections  linked  to  the  lack  of  access to  health  and  child  care  services,  lack  of  access  to safe  drinking  water,  environmental  sanitation  and hygiene,  lack  of  access  to  household  food  security and livelihoods, and inadequate caring and feeding practices for children and women are key determinants.  Basic  determinants  include  income  levels, agriculture,  animal  husbandry,  public  distribution systems,  water  and  environmental  resources,  education and  communication,  control  and  use  of resources (human, economic, natural), shaped by the macro socio-economic and political environment.
 
 23.193.  Part III of this Chapter focuses on addressing direct nutrition related interventions for maternal  and  child  care,  with  different  Chapters addressing  other  facets  of  multi-sectoral  action  for Nutrition.  These  include  the  Chapters  relating  to Health,  Drinking  Water  and  Sanitation,  Food  and Agriculture, Rural Development,  Panchayati Raj Institutions and Education among others.
@@ -7392,71 +7018,41 @@ FIGURE 23.2: Nutrition Status of Children under 3 Years (%)
 
 Twelfth Five Year Plan
 
-23.194.  In India, undernutrition levels remain high-especially in utero and in the first two years of life,  in  adolescent girls and in women across the life cycle, in vulnerable/excluded community groups and  those  living  in  poverty  and  in  areas  or  conditions of high nutritional vulnerability and where the disease load is high. The latest data for malnutrition in  children  measured  in  terms  of  weight  for  age, height for age or weight for height are for 2005-06 from NHFS 3. When these are compared with earlier NHFS data from NHFS 2 and 1 there is a moderate trend improvement over time (See Figure 23.2).
+23.194.  In India, undernutrition levels remain high—especially in utero and in the first two years of life,  in  adolescent girls and in women across the life cycle, in vulnerable/excluded community groups and  those  living  in  poverty  and  in  areas  or  conditions of high nutritional vulnerability and where the disease load is high. The latest data for malnutrition in  children  measured  in  terms  of  weight  for  age, height for age or weight for height are for 2005-06 from NFHS 3. When these are compared with earlier NFHS data from NFHS 2 and 1 there is a moderate trend improvement over time (See Figure 23.2).
 
-23.195.  There are also large inter-state variations in the  patterns  and  trends  in  underweight  prevalence reported  in  NFHS  3-amongst  children  this  was highest in Madhya Pradesh (60 per cent), followed by Jharkhand (57 per cent) and Bihar (56 per cent) and lowest in Mizoram, Sikkim, Manipur, and Kerala.
+23.195.  There are also large inter-state variations in the  patterns  and  trends  in  underweight  prevalence reported  in  NFHS  3—amongst  children  this  was highest in Madhya Pradesh (60 per cent), followed by Jharkhand (57 per cent) and Bihar (56 per cent) and lowest in Mizoram, Sikkim, Manipur, and Kerala.
 
 23.196.  A recent HUNGAMA (Hunger and Malnutrition) Survey conducted in 2011 across 112 rural  districts  of  India  with  especially  challenging socio  economic indicators,  suggests  that  the  prevalence of underweight in children under 5 years has decreased significantly from an estimated 53 per cent (as per DLHS 2 in 2002-04) to 42 per cent (2010-11) in this survey. This  represents  a 20.3 per cent decrease over a 7 year period (compared with DLHS 2) with an average annual rate of reduction of 2.9 per cent.The study however does not elaborate upon its assessment  of  wasting  levels  in  children  under  five years (both severe and moderate) in these districts, at around half of what is estimated as the All India average by NFHS 3 (2005-06).
 
-FIGURE 23.3: Inadequate Exclusive Breastfeeding in India (0-6 Months)
-
-100%
-
-80%
-
-60%
-
-40%
-
-20%
-
-0%
-
-<2
-
-months
-
-2-3
-
-months
-
-4-5
-
-months
-
-Not Breastfeeding
-
-Breastmilk +
-
-complementary foods
-
-Breastmilk and
-
-non milk liquids
-
-Breastmilk +
-
-other milk
-
-Breastmilk + water
-
-Exclusive
-
-Breastfeeding
-
-Percentage
-
 Denied nurture from nature....
 
+Percentage
+100%
+80%
+60%
+40%
+20%
+0%
+
+<2 months
+2–3 months
+4–5 months
 Age
 
-Source:
+Not Breastfeeding
+Breastmilk + complementary foods
+Breastmilk and non milk liquids
+Breastmilk + other milk
+Breastmilk + water
+Exclusive Breastfeeding
 
-NFHS 2005-06.
+Source: NFHS 2005–06.
+
+FIGURE 23.3: Inadequate Exclusive Breastfeeding in India (0–6 Months)
 
 23.197.  It is possible that malnutrition is being reduced more rapidly than earlier as in the case with poverty  reduction.  However  this  can  only  be  validated  by  the  Data  from  the  Annual  Health  Survey and District Level Household Survey, which will be available by 2013.
 
-23.198. Infant and Young Child Feeding Practices: Appropriate feeding practices in children under 2 years are crucial for their survival, healthy growth and intellectual and physical development. Early initiation of breastfeeding (within one hour of birth) and exclusive breastfeeding for the first six months of life provides optimal nutrition for growth and development. According to the Lancet 2004, universalisation of breastfeeding (including exclusive breastfeeding for the first six months and continued breastfeeding for the next six months) will reduce mortality of children under 5 years by 13 per cent globally and by around 16 per cent in India (India Analysis). Introduction of appropriate complementary feeding after six months also prevents undernutrition in children and growth faltering. The initiation of breastfeeding within one hour in India was only 24.5 per cent while the exclusive breastfeeding rate in children under six months was 46.4 per cent (NFHS 3), as seen in the Figure 23.3.
+23.198. Infant and Young Child Feeding Practices: Appropriate  feeding  practices  in  children  under  2 years  are  crucial  for  their  survival,  healthy  growth and intellectual and physical development. Early initiation  of  breastfeeding  (within  one  hour  of  birth) and exclusive breastfeeding for the first six months of  life  provides  optimal  nutrition  for  growth  and development.  According  to  the  Lancet  2004,  universalisation  of  breastfeeding  (including  exclusive breastfeeding for the first six months and continued breastfeeding  for  the  next  six  months)  will  reduce mortality  of  children  under  5  years  by  13  per  cent globally  and  by  around  16  per  cent  in  India  (India Analysis). Introduction of appropriate complementary  feeding  after  six  months  also  prevents  under-nutrition in  children  and  growth  faltering.  The initiation of breastfeeding within one hour in India was only 24.5 per cent while the exclusive breastfeeding rate in children under six months was 46.4 per cent (NFHS 3), as seen in the Figure 23.3.
 
 23.199.  NFHS 3 data also indicated that around half (56 per cent) of children aged 6-9 months are provided  with  the  recommended  semi-solid  complementary foods and breast milk.
 
@@ -7472,65 +7068,34 @@ Women's Agency and Child Rights
 
 #### NUTRITIONAL STATUS OF WOMEN AND ADOLESCENT GIRLS
 
-23.201.  More than one third (36 per cent) of women aged  15-49  have  a  Body  Mass  Index  (BMI)  below 18.5, which  indicates chronic  energy  deficiency. About  16  percent  are  moderately  to  severely  thin. Bihar  (45  per  cent),  Chhattisgarh  (43  per  cent), Madhya Pradesh (42 per cent) and Odisha (41 per cent)  are  the  states  with  the  highest  proportion  of undernourished  women.  Adolescent  girls  are  also one  of  the  vulnerable  groups  which  require  concerted  attention.  Adolescent  Girls  between  11-18 years constitute 16.75 per cent of female population (Approx.  8.32  crore).  Among  these,  approximately 2.75  crore  (33  per  cent)  are  undernourished.  Their health  and  nutrition  status  is  further  compromised by early marriage and early childbearing as reflected in  DLHS 3 findings according to which around 43 per  cent  of  currently  married  women  in  the  agegroup 20-24 years were married before attaining the age of 18 years.
+23.201.  More than one third (36 per cent) of women aged  15-49  have  a  Body  Mass  Index  (BMI)  below 18.5, which  indicates chronic  energy  deficiency. About  16  percent  are  moderately  to  severely  thin. Bihar  (45  per  cent),  Chhattisgarh  (43  per  cent), Madhya Pradesh (42 per cent) and Odisha (41 per cent)  are  the  states  with  the  highest  proportion  of undernourished  women.  Adolescent  girls  are  also one  of  the  vulnerable  groups  which  require  concerted  attention.  Adolescent  Girls  between  11-18 years constitute 16.75 per cent of female population (Approx.  8.32  crore).  Among  these,  approximately 2.75  crore  (33  per  cent)  are  undernourished.  Their health  and  nutrition  status  is  further  compromised by early marriage and early childbearing as reflected in  DLHS 3 findings according to which around 43 per  cent  of  currently  married  women  in  the  age-group 20-24 years were married before attaining the age of 18 years.
 
 #### MICRONUTRIENT DEFICIENCIES
 
 23.202.  Micronutrients  are  Vitamins  and  Minerals that  humans  need  to  consume  in  small  amounts for optimal health and development. Micronutrient deficiencies  often  coexist  with  protein  energy  malnutrition and also have independent and interacting effects on health, growth and immuno competence. The groups most vulnerable are pregnant mothers, breastfeeding  mothers  and  young  children.  Iron, Vitamin A and iodine deficiencies are major public health  problems,  among  the  range  of  Vitamin  and Mineral Deficiencies.
 
-FIGURE 23.4: Children Aged 6-35 Months who Received a Vitamin A Dose During Last Six Months (%) (AHS 2010-11)
-
 80
-
-37.2
-
-54.5
-
-55.0
-
-59.4
-
-60.1
-
-61.9
-
-63.4
-
-71.7
-
-72.0
-
 70
-
 60
-
+50
 40
-
 30
 
-50
+Uttar Pradesh 37.2
+Madhya Pradesh 54.5
+Uttarakhand 55.0
+Rajasthan 59.4
+Jharkhand 60.1
+Bihar 61.9
+Odisha 63.4
+Chhattisgarh 71.7
+Assam 72.0
 
-Uttar Pradesh
-
-Madhya Pradesh
-
-Uttarakhand
-
-Rajasthan
-
-Jharkhand
-
-Bihar
-
-Odisha
-
-Chhattisgarh
-
-Assam
+FIGURE 23.4: Children Aged 6–35 Months who Received a Vitamin A Dose During Last Six Months (%) (AHS 2010–11)
 
 23.203. Vitamin A : Sub-clinical Vitamin A Deficiency (VAD) is a well-known cause of morbidity  and  mortality,  especially  among  young  children and  pregnant  women.  Vitamin  A  deficiency  limits  the  growth  of  young  children,  weakening  their immunity and, in cases of acute deficiency, leading to  blindness and to increased mortality. Vitamin A supplementation has proven successful in reducing the incidence and severity of illness. It has been associated  with  an  overall  reduction  in  child  mortality, especially  from  diarrhoea,  measles  and  malaria.  As per NFHS-3, only one in four children aged 12-35 months received the six monthly Vitamin A supplement in the six months before the survey. This figure drops further, to only 18 per cent, among children aged 6-59 months. This data relates to 2005-06.
 
-23.204. The later DLHS 3 survey for 2008-09 shows the 54.5 per cent Children (aged 9 months and above) received at least one dose of the Vitamin A supplement. The most recent Annual Health Survey 2010-11(Figure 23.4) showed that at least every 2nd child aged 6-35 months has received a Vitamin A supplement in AHS States in the last six months—except in Uttar Pradesh where it is every 3rd child. (AHS 2010-11 covered 9 states—UP, Rajasthan, Odisha, Bihar, MP, Uttarakhand, Assam, Jharkhand and Chhattisgarh). These surveys suggest that the challenge of achieving high coverage with completion of all six monthly Vitamin A doses (9 m-under 5 years), remains an unfinished agenda, especially in states with low coverage rates.
+23.204.  The later DLHS 3 survey for 2008-09 shows the  54.5  per  cent  Children  (aged  9  months  and above) received at least one dose of the Vitamin A supplement. The most recent Annual Health Survey 2010-11(Figure 23.4) showed that at least every 2nd child  aged  6-35  months  has  received  a  Vitamin  A supplement in AHS States in the last six months—except in Uttar Pradesh where it is every 3rd child. (AHS  2010-11  covered  9  states-UP,  Rajasthan, Odisha, Bihar, MP, Uttarakhand, Assam, Jharkhand and  Chhattisgarh).  These  surveys  suggest  that  the challenge  of  achieving  high  coverage  with  completion of all six monthly Vitamin A doses (9 m-under 5 years), remains an unfinished agenda, especially in states with low coverage rates.
 
 23.205. Iron : Iron deficiency anaemia (IDA) is common across all age groups, but highest among young children, adolescent girls, pregnant and lactating  women. The consequences of IDA in pregnant women are increased risk of low birth weight or premature  delivery,  peri-natal  and  neonatal  mortality, inadequate  iron  stores  for  the  new-born,  lowered physical activity, fatigue and increased risk of maternal morbidity. Iron deficiency impairs growth, cognitive  development  and  immune  function.  It  leads children  to  perform  less  well  in  school  and  adults to be less productive. Prevalence of anaemia among children 6-35 months has increased from 74 per cent in NFHS-2 to 79 per cent in NFHS-3.
 
@@ -7538,15 +7103,15 @@ Assam
 
 [[START OF PAGE 218]]
 
-Twelfth Five Year Plan
-
 200
+
+Twelfth Five Year Plan
 
 23.206.  AHS  2010-11  data  shows  that  IFA  (Iron Folic  Acid)  supplementation to children aged 6-35 months  during  last  3  months  ranges  from  9.4  per cent  in  Rajasthan  to  37.7  per  cent  in  Chhattisgarh. This merits attention across the 9 States covered by AHS, especially Rajasthan and Uttar Pradesh.
 
 23.207.  Amongst  adolescent  girls, anaemia  levels continue  to  be  high;  2.75  crore  girls  are  found  to be  undernourished,  and  their  health  and  nutrition status is further undermined by early marriage and early child bearing.
 
-23.208.  Anaemia  is  a  major  health  problem  for adults as well, affecting 55 per cent of women and 24 per cent of men. The prevalence of anaemia in evermarried  women has  increased  from  52  per  cent  in NFHS-2 to 56 per cent in NFHS-3. This highlights the need to accelerate interventions for prophylaxis and  control  of  nutritional  anaemia  across  the  life cycle.
+23.208.  Anaemia  is  a  major  health  problem  for adults as well, affecting 55 per cent of women and 24 per cent of men. The prevalence of anaemia in ever-married  women has  increased  from  52  per  cent  in NFHS-2 to 56 per cent in NFHS-3. This highlights the need to accelerate interventions for prophylaxis and  control  of  nutritional  anaemia  across  the  life cycle.
 
 23.209. Iodine :  Iodine  Deficiency  is  the  most  common  cause  of  preventable  mental  retardation  and brain  damage  in  the  world.  Iodine  deficiency  during  pregnancy  is  associated  with  low  birth  weight, increased likelihood of stillbirth, spontaneous abortion  and  congenital  abnormalities  such  as  cretinism  and  irreversible  forms  of  mental  impairment. During  the  childhood  period,  it  impairs  physical growth, causes goitre  and  decreases  the  probability of child survival. It has been estimated that 200 million people in India are exposed to the risk of iodine deficiency and more than 71 million suffer from goitre and other iodine deficiency disorders (MoHFW, 2005). As per the district level IDD survey conducted by  Directorate  General  of  Health  Services,  ICMR, AIIMS,  NIN,  Hyderabad,  State  Health  Directorate and  other  Health  institutions,  out  of  365  districts surveyed  covering  all  States/UTs,  303  districts  are endemic  where  the  prevalence  of  iodine  deficiency disorders is more than 10 per cent. Thus, no State/ UT is free from IDD.
 
@@ -7556,7 +7121,7 @@ Twelfth Five Year Plan
 
 #### THE DUAL BURDEN OF MALNUTRITION: UNDER NUTRITION AND OBESITY
 
-23.212.  There is a small, but increasing percentage of overweight children who are at greater risk for noncommunicable diseases such as diabetes and cardiovascular heart disease. These levels of overnutrition significantly  compromise  health  and  productivity. There was, however, a modest improvement in the situation  during  the  1990s  (NFHS-3).  The  NNMB 2006 report shows an increase in the prevalence of overweight/obesity among rural men (6 per cent vs. 8 per cent) and women (8 per cent vs. 11 per cent) from the year 2000-01. On the other hand, NFHS-3 has  reported  that  overweight/obesity  has  affected almost 15 per cent of women and 12 per cent of men, mostly in urban areas, in wealthier households, and among older adults.
+23.212.  There is a small, but increasing percentage of overweight children who are at greater risk for non-communicable diseases such as diabetes and cardiovascular heart disease. These levels of overnutrition significantly  compromise  health  and  productivity. There was, however, a modest improvement in the situation  during  the  1990s  (NFHS-3).  The  NNMB 2006 report shows an increase in the prevalence of overweight/obesity among rural men (6 per cent vs. 8 per cent) and women (8 per cent vs. 11 per cent) from the year 2000-01. On the other hand, NFHS-3 has  reported  that  overweight/obesity  has  affected almost 15 per cent of women and 12 per cent of men, mostly in urban areas, in wealthier households, and among older adults.
 
 #### MATERNAL AND CHILD HEALTH
 
@@ -7572,11 +7137,12 @@ Women's Agency and Child Rights
 
 23.214. Maternal, neonatal, infant and child health
 
-is  a  critical  determinant  of  nutrition  status.  In  the causal  matrix  of  under  nutrition,  important  determinants include access to  health  care  and  hygienic environments and caring practices-health, hygiene and psychosocial care for girls and women. There is increasing  awareness  that  cultural  and  behavioural practices with regard to child rearing practices influence child nutrition, survival  and  development. Health  related  interventions  such  as  those  related to  antenatal  care,  institutional  deliveries,  prevention  and  management  of  common  neonatal  and childhood  illnesses  such  as  acute  respiratory  infections, diarrhoea, timely and complete immunisation, with requisite Vitamin A and IFA supplementation, deworming and regular monitoring and promotion of child growth and development contribute significantly  to  improving  nutrition  outcomes.  There  has been improvement in several health related indicators but this has not been adequate. (Details of this are provided in the Health Chapter).
+is  a  critical  determinant  of  nutrition  status.  In  the causal  matrix  of  under  nutrition,  important  determinants include access to  health  care  and  hygienic environments and caring practices—health, hygiene and psychosocial care for girls and women. There is increasing  awareness  that  cultural  and  behavioural practices with regard to child rearing practices influence child nutrition, survival  and  development. Health  related  interventions  such  as  those  related to  antenatal  care,  institutional  deliveries,  prevention  and  management  of  common  neonatal  and childhood  illnesses  such  as  acute  respiratory  infections, diarrhoea, timely and complete immunisation, with requisite Vitamin A and IFA supplementation, deworming and regular monitoring and promotion of child growth and development contribute significantly  to  improving  nutrition  outcomes.  There  has been improvement in several health related indicators but this has not been adequate. (Details of this are provided in the Health Chapter).
 
-23.215. Nutrient Intakes among Children (1-6 years): Projected data from the surveys carried out by NNMB on nutrient intake in pre-school children between 1975 and 2006 has not shown any substantial improvement in their dietary intake over the last two decades. There has not been a major change in energy and protein intake of the children. Time trends of the intra familial distribution of food
+23.215. Nutrient Intakes among Children (1-6 years): Projected data from the surveys carried out by NNMB on nutrient intake in pre-school children between  1975  and  2006  has  not  shown  any  substantial  improvement  in  their  dietary  intake  over the  last  two  decades.  There  has  not  been  a  major change in energy and protein intake of the children. Time trends of the intra familial distribution of food
 
-TABLE 23.2 Monitorable Targets of Eleventh Plan and Its Achievements
+TABLE 23.2
+Monitorable Targets of Eleventh Plan and Its Achievements
 
 Sl. No. | Eleventh Plan Monitorable Targets/Strategies | Achievement
 --- | --- | ---
@@ -7626,19 +7192,17 @@ indicate that the proportion of families where both the adults and preschool chi
 
 ##### BRINGING STRONG NUTRITION FOCUS INTO DIFFERENT SECTORAL POLICIES AND PROGRAMMES
 
-23.223. Another milestone was the institution of a regular multisectoral review mechanism for bringing a strong nutrition focus in relevant programmes, convened by the Planning Commission since mid 2010. Different Ministries have given their commitments for taking proactive measures. These will need
+23.223.  Another  milestone  was  the  institution  of  a regular  multisectoral  review  mechanism  for  bringing a strong nutrition focus in relevant programmes, convened  by  the  Planning  Commission  since  mid 2010. Different Ministries have given their commitments for taking proactive measures. These will need to  form  the  core  of  the  renewed  National  Plan  of Action for Nutrition in the Twelfth Plan, with specific sectoral outcomes and indicators.
 
 [[END OF PAGE 220]]
 
 [[START OF PAGE 221]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 203
 
-to form the core of the renewed National Plan of Action for Nutrition in the Twelfth Plan, with specific sectoral outcomes and indicators.
-
-23.224. An illustrative example is how this initiative has mobilized the leadership of Panchayati Raj Institutions for Nutrition and the Girl Child. Ministry of Panchayati Raj has asked States to mainstream Nutrition in the training of PRIs—especially Women panchayat members, for Malnutrition free panchayats, earmarking certain wards to them. A special gram sabha meeting dedicated to Nutrition is to be held in every gram panchayat in the month of August. Panchayati Raj Institutions are also being enabled to actively monitor the ICDS programme through the Anganwadi level Monitoring and Support Committees and key programmes (NRHM, ICDS, TSC) through Village Health, Sanitation and Nutrition Committees.
+23.224.  An  illustrative  example  is  how  this  initiative  has  mobilized  the  leadership  of  Panchayati Raj  Institutions  for  Nutrition  and  the  Girl  Child. Ministry of Panchayati Raj has asked States to mainstream Nutrition in the training of PRIs-especially Women panchayat members, for Malnutrition free panchayats,  earmarking  certain  wards  to  them.  A special  gram  sabha  meeting  dedicated  to  Nutrition is to be held in every gram panchayat in the month of August. Panchayati Raj Institutions are also being enabled  to  actively  monitor  the  ICDS  programme through the Anganwadi level Monitoring and Support  Committees  and  key  programmes  (NRHM, ICDS, TSC) through Village Health, Sanitation and Nutrition Committees.
 
 23.225. Village level institutional mechanism established  for  nutrition  convergence,  anchored  in Panchayati Raj Institutions :  NRHM Village Health and  Sanitation  Committees  were  expanded  in  July 2011  to  include  Nutrition  and  ICDS  to  become Village Health, Sanitation and Nutrition Committees, recognised  as  sub  committees  of  Gram  Panchayats. There are 4.97 lakh such Committees which will provide the village level institutional mechanism for the convergence  of  NRHM,  Total  Sanitation  Campaign and ICDS and also Drinking Water. Linking these to similar mechanisms at block and district levels will be the next steps in the Twelfth Plan.
 
@@ -7648,7 +7212,7 @@ to form the core of the renewed National Plan of Action for Nutrition in the Twe
 
 ##### THE NATIONWIDE INTRODUCTION OF THE JOINT MOTHER AND CHILD PROTECTION CARD
 
-23.228. The introduction of the joint card by ICDS and NRHM in March 2010 was another landmark, signifying the strategic focus on reaching mothers and children under three years of age and a holistic approach to child health and development. The maternal and child care entitlement card which enables unreached groups to demand and access health (NRHM) and child care (ICDS) services, has currently been rolled out in more than 6,305 of the 7,076 ICDS projects so far. It is a counselling tool—improving family care behaviours, using critical contact points for strengthening the continuum of care and enabling mother—child cohort tracking. The card is unique in linking maternal, newborn and child care, in integrating health, nutrition and development, thereby reinforcing a rights based and integrated approach to the young child, that recognises the indivisibility of child rights and empowers families. The card promotes the use of the JSY registration number and birth registration number (with the potential for linking with UID in future). It also enables gender disaggregated tracking, to accelerate interventions for ensuring optimal care for the young girl child.
+23.228.  The introduction of the joint card by ICDS and NRHM in March 2010 was another landmark, signifying  the  strategic  focus  on  reaching  mothers and  children  under  three  years  of  age  and  a  holistic  approach  to  child  health  and  development.  The maternal  and  child  care  entitlement  card  which enables  unreached  groups  to  demand  and  access health (NRHM) and child care (ICDS) services, has currently been rolled out in more than 6,305 of the 7,076 ICDS projects so far. It is a counselling tool—improving  family  care  behaviours,  using  critical contact  points  for  strengthening  the  continuum  of care  and  enabling  mother—child  cohort  tracking. The  card  is  unique  in  linking  maternal,  newborn and  child  care,  in  integrating  health,  nutrition  and development, thereby reinforcing a rights based and integrated approach to the young child, that recognises the indivisibility of child rights and empowers families. The card promotes the use of the JSY registration number and birth registration number (with the potential for linking with UID in future). It also enables  gender  disaggregated  tracking,  to  accelerate  interventions  for  ensuring  optimal  care  for  the young girl child.
 
 [[END OF PAGE 221]]
 
@@ -7660,19 +7224,20 @@ Twelfth Five Year Plan
 
 ##### INFANT MILK SUBSTITUTES, FEEDING BOTTLES AND INFANT FOODS (REGULATION OF PRODUCTION, SUPPLY AND DISTRIBUTION) ACT 1992 AND ITS AMENDMENT ACT 2003
 
-23.229. Popularly known as IMS Act, this is a globally well-recognized instrument to promote, protect and support breastfeeding and to ensure optimal infant and young child feeding practices. Following its amendment in 2003, direct advertisement for IMS has stopped. However, commercial interference with infant and young child feeding practices and growth related claims still continue surreptitiously. Besides, promotion in the name of symposia and sponsorships by companies in the health care and other education systems are being used as covert tools for promotion. The implementation of the Act suffers due to inadequate enforcement machinery, understanding and the knowledge of the Act, lack of adequate resources and commercial onslaughts. These would require appropriate regulation and supervision.
+23.229.  Popularly known as IMS Act, this is a globally well-recognized instrument to promote, protect and  support  breastfeeding  and  to  ensure  optimal infant and young child feeding practices. Following its  amendment  in  2003,  direct  advertisement  for IMS  has  stopped.  However,  commercial  interference  with  infant  and  young  child  feeding  practices and  growth  related  claims  still  continue  surreptitiously. Besides, promotion in the name of symposia and  sponsorships  by  companies  in  the  health  care and other education systems are being used as covert tools for promotion. The implementation of the Act suffers  due  to  inadequate  enforcement  machinery, understanding  and  the  knowledge  of  the  Act,  lack of  adequate  resources  and  commercial  onslaughts. These  would  require  appropriate  regulation  and supervision.
 
-23.230. Enhanced resources, enforcement machinery and reactivation of institutional mechanisms such as National/State Breastfeeding and IYCF committees, with designated nodal officers at state/district levels in both the health and ICDS systems are required for effective compliance. Experience over the Eleventh Plan period highlights that requisite safeguards also need to be established to curb commercial interference with Infant and Young Child Feeding Practices.
+23.230.  Enhanced resources, enforcement machinery and reactivation of institutional mechanisms such as National/State Breastfeeding and IYCF committees, with designated nodal officers at state/district levels in both the health and ICDS systems are required for effective  compliance.  Experience  over  the  Eleventh Plan period highlights that requisite safeguards also need to be established to curb commercial interference with Infant and Young Child Feeding Practices.
 
 ##### NATIONAL NUTRITION POLICY AND NATIONAL PLAN OF ACTION ON NUTRITION (NPAN)
 
-23.231. Like the National Nutrition Policy, the implementation of NPAN requires acceleration. State Nutrition Councils have been set up in a few states and some states had initiated state specific plans of action. In view of the changes that have taken place in the policy and programme environment, there is a need to review the NPAN and state initiatives and their linkages with other sectoral institutional arrangements such as NRHM mission societies or National/State Food Commissions if these are established when the draft NFSB is enacted. It also needs to be ensured that nutrition interventions are planned and implemented in consonance with the national policy framework.
+23.231.  Like the National Nutrition Policy, the implementation of NPAN  requires acceleration. State  Nutrition  Councils  have  been  set  up  in  a  few states  and  some  states  had  initiated  state  specific plans  of  action.  In  view  of  the  changes  that  have taken  place  in  the  policy  and  programme  environment, there is a need to review the NPAN and state initiatives  and  their  linkages  with  other  sectoral institutional  arrangements  such  as  NRHM  mission societies  or  National/State  Food  Commissions  if these are established when the draft NFSB is enacted. It  also  needs  to  be  ensured  that  nutrition  interventions  are  planned  and  implemented  in  consonance with the national policy framework.
 
-TABLE 23.3 Existing Programmes/Schemes
+TABLE 23.3
+Existing Programmes/Schemes
 
 Target Group | Schemes | Expansion
 --- | --- | ---
-Pregnant and Lactating Mothers | ICDS, RCH- II, NRHM, JSY, Indira Gandhi Matritva Sahyog Yojana (IGMSY)—The CMB Scheme | NRHM (2005-06) JSY (2006-07) ICDS (2008-09)
+Pregnant and Lactating Mothers | ICDS, RCH- II, NRHM, JSY, Indira Gandhi Matritva Sahyog Yojana (IGMSY)- The CMB Scheme | NRHM (2005-06) JSY (2006-07) ICDS (2008-09)
 Children 0-3 | ICDS, RCH- II, NRHM, Rajiv Gandhi National Creche Scheme | RGNCS (2005-06) ICDS (2008-09)
 Children 3-6 | ICDS, RCH- II, NRHM, Rajiv Gandhi National Crèche Scheme, Total Sanitation Campaign (TSC), National Rural Drinking Water Programme (NRDWP) | TSC (2008-09)
 School going children 6-14 | Mid Day Meals (MDM), Sarva Shiksha Abhiyan (SSA) | SSA (2002/2005-06) MDM (2008-09)
@@ -7721,13 +7286,13 @@ These  have  been  discussed  in  the  relevant  sectoral Chapters of the Twelft
 
 23.235.  The decisions of the first meeting of the PM's National  Council  on  India's  Nutrition  Challenges provide the road map for the Twelfth Plan and are as follows:
 
-1. The ICDS requires strengthening and restructuring, with special focus on pregnant and lactating mothers and children under three years. The ICDS also needs to forge strong institutional convergence with the National Rural Health Mission and the Total Sanitation Campaign particularly at the district and village levels. It needs to provide flexibility for local action and empower mothers in particular and the community in general to have a stake in the programme.
+1. The ICDS requires strengthening and restructuring,  with  special focus on pregnant and lactating  mothers  and  children  under  three  years. The ICDS also needs to forge strong institutional convergence  with  the  National  Rural  Health Mission  and  the  Total  Sanitation  Campaign particularly  at  the  district  and  village  levels.  It needs to provide flexibility for local action and empower mothers in particular and the community in general to have a stake in the programme.
 
-2. A multi-sectoral programme to address maternal and child malnutrition in selected 200 high-burden districts would be prepared. This programme will bring together various national programmes through strong institutional and programmatic convergence at the State, District, Block and Village levels.
+2. A multi-sectoral programme to address maternal  and  child  malnutrition in selected  200 high-burden  districts  would  be  prepared.  This programme will bring together various national programmes  through  strong  institutional  and programmatic convergence at the State, District, Block and Village levels.
 
-3. A nation-wide information, education and communication campaign will be launched against malnutrition.
+3. A  nation-wide  information,  education  and communication  campaign will be launched against malnutrition.
 
-4. The Ministries that deal with Health, Drinking Water Supply and Sanitation, School Education, Agriculture and Food and Public Distribution
+4. The Ministries that  deal  with  Health,  Drinking Water Supply and Sanitation, School Education, Agriculture  and  Food  and  Public  Distribution
 
 [[END OF PAGE 223]]
 
@@ -7755,17 +7320,17 @@ District  Nutrition  Councils  and  also  by  a  National Development Council Su
 
 23.240.  Building on multi-sectoral reviews anchored by  the  Planning  Commission  in  2010-2012,  the Nutrition component  will  be  prioritised in relevant social sector and flagship programmes through  the  Twelfth  Plan  sectoral  strategies,  sectoral  Results  Framework  Documents,  5  year  strategy  plans  and  Programme  Implementation  Plans of  relevant  flagship  programmes.  The  Nutrition component in National Rural  Health  Mission  Programme  Implementation  Plans  will  especially  be strengthened.  Nutrition  status  of  children  under 3  years  (Underweight prevalence) will be used as a lead  proxy  indicator  in  national/state/district  level reviews and specifically for NRHM and ICDS.
 
-23.241. To provide an illustrative example—National Rural Health Mission (NRHM) has achieved considerable progress in the Eleventh Plan in providing universal access to equitable, affordable and quality health care, which contributes to improved nutrition outcomes. There are many health services under NRHM and other health sector interventions that have relevance to preventing and reducing under-nutrition, including: (i) Immunisation Programme; (ii) newborn care; prevention and management of common neonatal and childhood illnesses including diarrhoea and Acute Respiratory Infections; (iii) Care of the sick child—at the community level through the ASHA and at the institutional level through primary health
+23.241.  To provide an illustrative example—National Rural Health Mission (NRHM) has achieved considerable progress in the Eleventh Plan in  providing  universal  access  to  equitable,  affordable  and  quality  health  care,  which  contributes  to improved nutrition outcomes. There are  many health services under NRHM and other health sector  interventions  that  have  relevance  to  preventing  and  reducing  under-nutrition,  including:  ( i ) Immunisation  Programme;  ( ii )  newborn  care;  prevention  and  management  of  common  neonatal and  childhood  illnesses  including  diarrhoea  and Acute  Respiratory  Infections;  ( iii )  Care  of  the  sick child—at  the  community  level  through  the  ASHA and at the institutional level through primary health
 
 [[END OF PAGE 224]]
 
 [[START OF PAGE 225]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 207
 
-care facilities; (iv) Vitamin A administration; (v) Anaemia management and Paediatric De-worming; (vi) School health programmes with supervised weekly IFA supplementation and six monthly deworming; (vii) Nutrition Rehabilitation centres—for sick and severely malnourished children; (viii) Programmes of adolescent health which address nutrition counselling and anemia; (ix) National Maternity benefit scheme—now a component of JSY; and (x) State specific programmes of nutrition supplementation such as the Muthu Laxmi maternity benefit scheme of Tamil Nadu and the Velugu programme in Andhra Pradesh and (xi) Universal Salt Iodisation programme and the national goitre control programme. Details of these interventions are provided in the Health Chapter and similarly in respect of other sectors.
+care  facilities;  ( vi )  Vitamin  A  administration;  ( v ) Anaemia management and Paediatric De-worming; ( vi ) School health programmes  with  supervised weekly IFA supplementation and six monthly deworming; ( vii ) Nutrition Rehabilitation centres—for sick and severely malnourished children; ( viii ) Programmes of adolescent health which  address  nutrition  counselling  and  anemia; ( ix ) National Maternity benefit scheme—now a component  of  JSY;  and  ( x )  State  specific  programmes of  nutrition  supplementation  such  as  the  Muthu Laxmi  maternity  benefit  scheme  of  Tamil  Nadu and the Velugu programme in Andhra Pradesh and ( xi )  Universal  Salt  Iodisation  programme  and  the national goitre control programme. Details of these interventions  are  provided  in  the  Health  Chapter and similarly in respect of other sectors.
 
 ##### STRENGTHENING/RE-ACTIVATING INSTITUTIONAL ARRANGEMENTS
 
@@ -7773,15 +7338,15 @@ care facilities; (iv) Vitamin A administration; (v) Anaemia management and Paedi
 
 23.243. National  Level :  Under  the  guidance  and policy  direction  of  the  PM's  National  Council  on Nutrition,  the  Executive  Committee  headed  by  the Minister for WCD [which will be the same as ICDS National Mission Steering Group] will oversee and coordinate the implementation of Nutrition related Programmes. This Executive Committee under the  chairpersonship  of  Minster  for  WCD  would have  Member,  Planning  Commission  (In  Charge of  WCD)  as  Vice  Chairperson  with  representation  of  some  State  Ministers  and  Chief  Secretaries, Secretaries of different Ministries, on rotation basis. At  an  operational  level,  in  order  to  ensure  multisectoral  convergence,  an  Empowered  Committee headed  by  the  Secretary-MWCD  and  comprising of representatives from different Ministries will guide  the  implementation  of  multisectoral  policies and programmes for nutrition. This Committee will also ensure convergence at the national level and will report to the Executive Committee (and thereby to the PM's Council) on the same. This Council would be  technically  supported  by  a  Policy  Coordination Support unit in the Planning Commission to bring in inter-sectoral nutrition focus and accountability and a strengthened Food and Nutrition Board (MWCD).
 
-1. State Level: The CM’s State Nutrition Council and the State Executive Committee headed by the Chief Secretary will guide the convergent actions at the state level.
+1. State  Level :  The  CM's  State  Nutrition  Council and  the  State  Executive  Committee  headed  by the  Chief  Secretary  will  guide  the  convergent actions at the state level.
 
-2. District Level: The District Nutrition Council headed by the concerned District Magistrate/CEO Zila Parishad will be responsible for convergent action at the district level.
+2. District  Level :  The  District  Nutrition  Council headed  by  the  concerned  District  Magistrate/ CEO Zila Parishad will be responsible for convergent action at the district level.
 
-3. Village Level: The Village Health Sanitation and Nutrition Committees which are recognized as sub committees of the Gram Panchayat, will have representation from health, ICDS, TSC functionaries, user groups and PRIs. They will be responsible for reviewing the performance of individual programmes, as well as for enabling convergent multi-sectoral actions which impact upon nutrition outcomes, with reference to the Subjects allocated to Panchayats under the Eleventh Schedule of the Constitution and mandated by the 73rd Constitutional Amendment.
+3. Village Level : The Village Health Sanitation and Nutrition Committees  which  are recognized as sub committees of the Gram Panchayat, will have  representation  from  health,  ICDS,  TSC functionaries,  user  groups  and  PRIs.  They  will be responsible for reviewing the performance of individual  programmes,  as  well  as  for  enabling convergent multi-sectoral actions which impact upon  nutrition outcomes,  with reference to the  Subjects  allocated  to  Panchayats  under  the Eleventh Schedule of the Constitution and mandated by the 73rd Constitutional Amendment.
 
-4. Habitation level: At the Anganwadi centre level, the anganwadi monitoring and support committee (ALMSC), including representation from mothers’ groups/women’s SHGs will monitor convergent actions and suggest actions for effective programme implementation.
+4. Habitation level : At the Anganwadi centre level, the  anganwadi  monitoring  and  support  committee (ALMSC), including representation from mothers'  groups/women's  SHGs  will  monitor convergent actions and suggest actions for effective programme implementation.
 
-5. In the urban context: similar institutional arrangements will be set up, depending on the category of the urban local body, with city/town/
+5. In the urban context : similar institutional arrangements  will  be  set  up,  depending  on  the category of the urban local body, with city/town/
 
 [[END OF PAGE 225]]
 
@@ -7799,11 +7364,11 @@ ward and neighbourhood committees being constituted, with representation of elec
 
 23.245.  As  indicated  earlier,  the  National  Nutrition Policy advocated a comprehensive  inter-sectoral strategy between 14 sectors (which directly or indirectly affect dietary intake, prevention and management  of  disease/infections  and  nutritional  status of  the  population)  for  combating  the  multifaceted problem of under-nutrition. The number of sectors mobilized has now expanded to nearly twenty. The core strategy envisaged under NNP is to tackle the problem of nutrition through direct nutrition interventions  for  vulnerable  groups,  as  well  as  through various development policy instruments which will improve access and create conditions for improved nutrition. Both the direct and indirect interventions cannot  be  undertaken  by  a  single  sector.  There  is need  for  a  comprehensive  response  that  addresses the multiple and inter related determinants of malnutrition  and  different  dimensions  of  the  nutrition challenges  synergistically.  In  order  to  achieve  this, the 12th Five Year Plan will focus on the following:
 
-23.246. Multi-sectoral Programme to address maternal and child malnutrition in selected 200 high burden districts: As mandated by the PM’s National Council on India’s Nutrition Challenges, a Multi-sectoral Nutrition Programme is being finalised for 200 high burden districts. The Multi-sectoral Nutrition Programme is designed to (i) focus action on the critical age groups to prevent and reduce under-nutrition as early as possible, across the life cycle (pregnancy, lactation, infancy and early childhood, adolescence); (ii) address key inter related determinants of malnutrition together by facilitating convergence; (iii) provide local flexibility, support pilots and innovative panchayat led models of convergent action and (iv) to focus on districts with the highest burden of malnutrition, so that reduction in maternal and child under-nutrition is accelerated. This will also be linked to reducing maternal, neonatal, infant and young child mortality in NRHM high focus districts.
+23.246. Multi-sectoral Programme to address maternal  and  child  malnutrition  in  selected  200 high  burden  districts: As  mandated  by  the  PM's National  Council  on  India's  Nutrition  Challenges, a Multi-sectoral Nutrition Programme  is being finalised  for  200  high  burden  districts.  The  Multi-sectoral  Nutrition  Programme  is  designed  to  ( i ) focus action on the critical age groups to prevent and reduce  under-nutrition  as  early  as  possible,  across the life cycle (pregnancy, lactation, infancy and early childhood, adolescence); ( ii ) address key inter related determinants of malnutrition together by facilitating convergence;  ( iii )  provide  local  flexibility,  support pilots and innovative panchayat led models of convergent action and ( iv ) to focus on districts with the highest burden of malnutrition, so that reduction in maternal  and  child  under-nutrition  is  accelerated. This will also be linked to reducing maternal, neonatal, infant and young child mortality in NRHM high focus districts.
 
 23.247.  This  will  be  designed  and  implemented  to facilitate convergence of key services and stakeholders. The proposed programme would seek to ensure universal  access  to  women  and  child  care  services, primary  health  care,  safe  drinking  water  and  sanitation,  nutrition  counselling  as  a  service,  change caring  and  feeding  practices  in  families  and  communities,  link  with  initiatives  for  ensuring  food security  and  livelihoods,  and  address  the  different determinants  of  under-nutrition  in  an  integrated way, with effective institutional arrangements. This would  synergise  multisectoral interventions from  ICDS,  NRHM,  Rajiv  Gandhi  Scheme  for  the Empowerment  of  Adolescent  Girls,  Indira  Gandhi Matritva  Sahyog  Yojana,  Mid-Day  Meal  Scheme, the  proposed  National  Food  Security  Act,  Public Distribution  System,  Total  Sanitation  Campaign, NRDWP, MGNREGS, NRLM and others. It would ensure a platform of coordinated nutrition relevant action at the State, District and grassroots levels for addressing maternal and child under-nutrition, with strong teamwork of AWWs, ASHAs, ANMs, ICDS and NRHM functionaries, involvement of women's/ community groups and leadership of panchayati raj institutions.
 
-23.248. The Multi-sectoral Programme to address maternal and child malnutrition would ensure that relevant nutrition outcomes are not only integrated into the concerned sectoral plans but also that appropriate resources are allocated for achieving those outcomes. Funds for local gap filling support would be provided as per the needs identified on the basis of the District/State Nutrition Plans and reviewed by the District/State Nutrition Councils. At the national level, an Empowered Committee headed
+23.248.  The  Multi-sectoral  Programme  to  address maternal and child malnutrition would ensure that  relevant  nutrition  outcomes  are  not  only  integrated  into  the  concerned  sectoral  plans  but  also that  appropriate  resources  are  allocated  for  achieving those outcomes. Funds for local gap filling support would be provided as per the needs identified on the basis of the District/State Nutrition Plans and reviewed by the District/State Nutrition Councils. At the national level, an Empowered Committee headed by the Secretary, Ministry of WCD would be set up for approval and budget release, based on the annual State  Nutrition  Plans  submitted  by  the  concerned States/UTs.
 
 [[END OF PAGE 226]]
 
@@ -7813,9 +7378,7 @@ Women's Agency and Child Rights
 
 209
 
-by the Secretary, Ministry of WCD would be set up for approval and budget release, based on the annual State Nutrition Plans submitted by the concerned States/UTs.
-
-23.249. Operationalising Convergence through the multi sectoral programme: There are several programmes and schemes aiming to directly and indirectly affect nutrition related outcomes. There is a need to bring more coherence among these programmes through processes of convergence at programmatic, thematic, operational and institutional levels.
+23.249. Operationalising Convergence through the  multi  sectoral  programme: There  are  several programmes  and  schemes  aiming  to  directly  and indirectly  affect  nutrition  related  outcomes.  There is a need to bring more coherence among these programmes through processes of convergence at programmatic,  thematic,  operational  and  institutional levels.
 
 ##### MOBILISING A NATIONWIDE CAMPAIGN AGAINST MALNUTRITION
 
@@ -7845,11 +7408,11 @@ Twelfth Five Year Plan
 
 23.257. Community initiatives for supporting women: Aggressive marketing of baby food by companies  can  easily  mislead  women  who  do  not  have access  to  accurate  information.  An  empathetic  and skilled  health  worker  must  support  women  at  the time of birth to succeed in beginning breastfeeding within  an  hour  of  birth  and  providing  prolonged skin-to-skin  contact.  They  should  also  have  access to  counselling  (one  to  one  or  group)  and  support to  continue  exclusive  breastfeeding  for  the  first  6 months, with counselling for adequate complementary feeding and continued breastfeeding at the completion of 6 months for two years or beyond.
 
-23.258. Critically addressing infants under 6 months: The 0–6 months infant is often left out of initial weighing/child care counselling sessions. The Twelfth Plan accords high priority to promoting early and exclusive breastfeeding for the first six months of life and reaching these infants and mothers. Nutrition and breastfeeding support centres will be set up,with skilled counsellors initially in all district hospitals—and followed at CHC, PHC levels in a phased manner.
+23.258. Critically addressing infants under 6 months: The  0-6  months infant is often left out of initial weighing/child care counselling sessions. The Twelfth Plan accords high priority to promoting early and exclusive breastfeeding for the first six months of life and reaching these infants and mothers. Nutrition and breastfeeding support centres will be set up,with skilled counsellors initially in all district hospitals-and followed at CHC, PHC levels in a phased manner.
 
 23.259. Strengthening  ICDS: Nutritional  and  care counselling will be introduced as a service in ICDS in  the  Twelfth  Plan,  with  provisions  for  an  additional  Anganwadi  worker  in  200  high  burden  districts, based on state requirements. This would focus on prioritised home visits for children under 3 years and mothers to promote infant and child care and feeding practices.
 
-23.260. Enhancing capacity building of field level functionaries on IYCF practices. It is imperative to build knowledge and skills, capacity for behaviour change communication, counselling and develop problem solving skills for Anganwadi Workers (AWWs), Accredited Social Health Activists (ASHAs) and Auxiliary Nurse Midwives (ANMs) for improving IYCF practices. Resource provisions for capacity development for IYCF will be enhanced in ICDS and NRHM. A network of National/State Resource Centres on IYCF will be established, in partnership with professional networks/civil society organisations/medical colleges—functioning as “living universities” with decentralised and field based capacity development.
+23.260. Enhancing  capacity  building  of  field  level functionaries on IYCF practices. It  is  imperative to build  knowledge  and  skills,  capacity  for  behaviour change  communication,  counselling  and  develop problem solving skills for Anganwadi  Workers (AWWs), Accredited Social Health Activists (ASHAs)  and  Auxiliary  Nurse  Midwives  (ANMs) for  improving  IYCF  practices.  Resource  provisions for capacity development for IYCF will be enhanced in  ICDS  and  NRHM.  A  network  of  National/State Resource  Centres  on  IYCF  will  be  established,  in partnership  with  professional  networks/civil  society organisations/medical colleges-functioning as  'living  universities'  with  decentralised  and  field based capacity development.
 
 23.261. Pre-service curriculum strengthening for doctors  and  nurses will  be  undertaken  systematically in the Twelfth Plan. This will reduce the need of in-service training and improve the knowledge and skills  of  doctors  and  nurses,  which  is  a  recognized need. Medical colleges must be involved for this purpose and 'Centres of Excellence' in IYCF will also be  identified,  forming  the  hub  of  an  institutional strengthening effort.
 
@@ -7859,7 +7422,7 @@ Twelfth Five Year Plan
 
 23.264. Protecting breastfeeding and compliance with  the  Infant  Milk  Substitutes  Act  (IMS  Act): In  the  Twelfth  Plan,  the  Infant  Milk  Substitutes, Feeding  Bottles  and  Infant  Foods  (Regulation  of Production,  Supply  and  Distribution)  Act  1992, and  Amendment  Act  2003,  will  be  strengthened through  effective  implementation  mechanisms  and earmarked  resources  for  ensuring  and  monitoring compliance. Monitoring the compliance of the IMS Act  by  companies  will  also  be  taken  up  for  effective implementation of IMS Act, while ensuring that commercial influences and conflict of interest do not undermine optimal infant and young child feeding practices.
 
-23.265. IYCF counselling centres in Health facilities: Through an IYCF component in NRHM PIPs, it will also be ensured that each health facility has skilled IYCF counselors—doctors and nurses trained in the skills to deal with infant and young child feeding counselling as well as on HIV and infant feeding.
+23.265. IYCF  counselling  centres  in  Health  facilities: Through an IYCF component in NRHM PIPs, it  will  also  be  ensured  that  each  health  facility  has skilled IYCF counselors-doctors and nurses trained in the skills to deal with infant and young child feeding counselling as well as on HIV and infant feeding.
 
 [[END OF PAGE 228]]
 
@@ -7877,15 +7440,15 @@ Women's Agency and Child Rights
 
 23.269. National  IYCF/Nutrition  Communication Campaign and the role of media: A national nutrition  communication  strategy  framework  will  be developed  as  outlined  earlier,  a  campaign  linking concerned sectors (e.g. gender related issues, health and hygiene practices) must be evolved. A national movement for promoting IYCF must be an integral part of the same.
 
-23.270. Strengthen National and State Coordination Mechanisms and Capacity for promoting Infant and Young Child Feeding and implementation of the IMS Act: The National Breastfeeding Committee under the IMS Act will be rejuvenated and strengthened, and State Breastfeeding Committees constituted as envisaged, with identified State Nodal Officers within State WCD and Health Departments for IYCF, supported by technical teams at different levels. This will be appropriately linked to Nutrition institutional arrangements. A National Resource Centre will be established, in partnership with appropriate professional networks/voluntary agencies to enable capacity development for IYCF for both NRHM and ICDS, supporting both the Ministries of WCD and Health and Family Welfare, with State level Resource Units, linked to other training institutions. This could also be assigned to national level partner organizations or set up especially to focus on the issue.
+23.270. Strengthen National and State Coordination  Mechanisms and Capacity for  promoting  Infant  and  Young  Child  Feeding  and implementation  of  the  IMS  Act: The  National Breastfeeding Committee under the IMS Act will  be  rejuvenated  and  strengthened,  and  State Breastfeeding Committees constituted as envisaged,  with  identified  State  Nodal  Officers  within State WCD and Health Departments for IYCF, supported by technical teams at different levels. This will be  appropriately  linked  to  Nutrition  institutional arrangements.  A  National  Resource  Centre  will  be established, in partnership with appropriate professional networks/voluntary agencies to enable capacity development for IYCF for both NRHM and ICDS, supporting both the Ministries of WCD and Health and Family Welfare, with State level Resource Units, linked to other training institutions. This could also be assigned to national level partner organizations or set up especially to focus on the issue.
 
 23.271. Conflict  of  Interest: Policy  guidelines  and mechanisms will be developed to ensure that infant feeding  practices  are  kept  free  from  commercial influences and that nutrition programme implementation is free from conflict of interest, as mandated by the IMS Act.
 
 ##### COMBATING MICRO-NUTRIENT DEFICIENCIES IN A HOLISTIC MANNER
 
-23.272. There are clear strategies to combat micro-nutrient deficiencies (Iron, Vitamin A and Iodine) in children, women and adolescent girls. A comprehensive approach should be adopted which includes complementary strategies to address micronutrient malnutrition including: (i) Infant and Young Child Feeding Practices; (ii) Dietary Diversification; (iii) Horticultural interventions; (iv) Nutrient Supplementation; (v) Food fortification; and (vi) Public Health Measures.
+23.272.  There  are  clear  strategies  to  combat  micronutrient  deficiencies  (Iron,  Vitamin  A  and  Iodine) in  children,  women  and  adolescent  girls.  A  comprehensive approach should be adopted which includes complementary strategies to address micronutrient malnutrition including: ( i ) Infant and Young Child Feeding Practices; ( ii ) Dietary Diversification; ( iii )  Horticultural  interventions;  ( iv )  Nutrient  Supplementation; ( v ) Food fortification; and ( vi ) Public Health Measures.
 
-23.273. Supplementation with micro-nutrients/food: Micro-nutrient deficiencies, particularly Iron Deficiency Anemia, IDD and Vitamin A will be addressed through intensified actions focussing on: (i) Adopting a comprehensive approach involving improved IYCF practices, dietary diversification, food
+23.273. Supplementation with micro-nutrients/food: Micro-nutrient  deficiencies,  particularly  Iron Deficiency  Anemia,  IDD  and  Vitamin  A  will  be addressed  through  intensified  actions  focussing  on: ( i )  Adopting  a  comprehensive  approach  involving improved IYCF practices, dietary diversification, food supplementation, food fortification and horticultural interventions,  Iron  and  Folic  Acid  supplementation for  young  children,  adolescent  girls,  pregnant  and lactating women,  also supported by the use of Double  Fortified  Salt;  ( ii )  Periodic  screening  for anaemia; ( iii )  Strengthening Vitamin A supplementation  Programme  in  convergence  with  NRHM  for improved coverage; ( iv ) Supply of adequately Iodized salt  through  TPDS  and  also  double  fortified  salt; ( v ) Public health measures-deworming, environmental sanitation, safe drinking water; and ( vi ) Micro-nutrient supplements and health check-up for school children through MDM programme.
 
 [[END OF PAGE 229]]
 
@@ -7895,35 +7458,31 @@ Women's Agency and Child Rights
 
 Twelfth Five Year Plan
 
-supplementation, food fortification and horticultural interventions, Iron and Folic Acid supplementation for young children, adolescent girls, pregnant and lactating women, also supported by the use of Double Fortified Salt; (ii) Periodic screening for anaemia; (iii) Strengthening Vitamin A supplementation Programme in convergence with NRHM for improved coverage; (iv) Supply of adequately Iodized salt through TPDS and also double fortified salt; (v) Public health measures—deworming, environmental sanitation, safe drinking water; and (vi) Micro-nutrient supplements and health check-up for school children through MDM programme.
-
-23.274. Food Fortification: Micro-nutrient malnutrition control programmes in the country have focused on nutrient supplementation of some vulnerable groups. This will be complemented by addressing micro-nutrient malnutrition through a comprehensive strategy. Double fortified salt is a successful example, which has been introduced for government food supplementation programmes. Requisite safeguards against commercial interference and regulatory mechanisms for the above will also be developed.
+23.274. Food Fortification: Micro-nutrient malnutrition  control  programmes  in  the  country  have focused  on  nutrient  supplementation  of  some  vulnerable groups. This will  be  complemented  by addressing  micro-nutrient  malnutrition  through  a comprehensive  strategy.  Double  fortified  salt  is  a successful  example,  which  has  been  introduced  for government food supplementation programmes. Requisite  safeguards  against  commercial  interference and regulatory mechanisms for the above will also be developed.
 
 23.275. Improved  health  education  and  IEC: This will  carried  out  with  the  aim  to  disseminate  knowledge on  micro-nutrients and  its prevention as well  as  advocacy  for  food  diversification  to  include iron,  vitamin  A,  and  carotene  rich  food  in  regular dietary intake. Besides, it would also help in ensuring improved dietary intake to meet RDA, improved compliance of IFA and improved iodized salt consumption in every household.
 
 23.276. Monitoring and Surveillance: Initiatives for monitoring the programme for preventing and controlling  micro-nutrient  deficiencies  would  include strengthening routine reporting under NRHM/RCH and  ICDS  programmes  to  include  percentage  of pregnant women, children, adolescent girls, anaemic women and girls, percentage given IFA tablets, compliance for IFA, Vitamin A supplementation for children  as  well  as  mobilising  PRIs,  Women  Self  Help Groups and Anganwadi Workers to monitor intake of IFA tablets.
 
-23.277. Evaluation of the on-going process and impact is expected to be done as a part of the Annual Health survey/District Health Survey/National Health Survey including haemoglobin estimation, questions regarding IFA coverage and intake. In addition as and when large-scale surveys are done, information can be collected on prevalence of anaemia.
+23.277.  Evaluation of the on-going process and impact is expected to be done as a part of the Annual Health survey/District Health Survey/National Health Survey  including  haemoglobin  estimation, questions  regarding  IFA  coverage  and  intake.  In addition  as  and  when  large-scale  surveys  are  done, information can be collected on prevalence of anaemia.
 
 23.278.  Wherever  possible,  (such  as  during  school health  check-up)  attempts  will  be  made  to  screen adolescent girls for anaemia. Special focus should be on those who are undernourished or have menstrual problems.  Adolescents  who  are  pregnant  should receive very high priority for screening and management of anaemia.
 
 ##### Addressing the Dual Burden of Malnutrition
 
-23.279. Increasingly, health systems in many developing countries are simultaneously confronting under- and over-nutrition—not only at the national level, but also within households. Both under-nutrition and over-nutrition are linked with a range of adverse health conditions. Importantly, however, underweight and overweight are both forms of malnutrition, a term that encompasses either a lack of or excess in energy and/or nutrients. The Dual burden of Malnutrition presents a unique challenge for public health. Programmes should promote nutritious foods and a healthy lifestyle to address both types of malnutrition at the same time. In the Twelfth Plan, the Health system will be responsible for screening persons for over-nutrition, while ICDS and health will be responsible for screening for under-nutrition. The Health system will also support personalized advice for early detection of overweight and diet counselling as well as monitoring the improvement and providing focused care to those who are facing problems in modifying their lifestyles. Nutrition and health education through all available modes of communication will emphasize the need for: (i) eating balanced diets; and (ii) adopting healthy lifestyles with adequate physical activity. Health interventions will be carried out by the health system including, (i) screening persons for over-nutrition whenever they access health care; (ii) using of BMI for adults and BMI-for-age in children and adolescents for
+23.279.  Increasingly, health systems in many developing countries are simultaneously confronting under- and  over-nutrition—not  only  at  the  national  level, but  also  within  households.  Both  under-nutrition and over-nutrition are linked with a range of adverse health conditions. Importantly,  however,  underweight  and  overweight  are  both  forms  of  malnutrition,  a  term  that  encompasses either a lack of or excess in energy and/or nutrients. The Dual burden of Malnutrition presents a unique challenge for public  health.  Programmes  should  promote  nutritious foods and a healthy lifestyle to address both types of malnutrition at the same time. In the Twelfth Plan, the Health system will be responsible for screening persons  for  over-nutrition,  while  ICDS  and  health will be responsible for screening for under-nutrition. The  Health  system  will  also  support  personalized advice  for  early  detection  of  overweight  and  diet counselling as well as monitoring the improvement and providing focused care to those who are facing problems  in  modifying  their  lifestyles.  Nutrition and health education through all available modes of communication will emphasize the need for: ( i ) eating balanced diets; and ( ii ) adopting healthy lifestyles with adequate physical activity. Health interventions will  be  carried  out  by  the  health  system  including, ( i )  screening  persons  for  over-nutrition  whenever they access health care; ( ii )  using of BMI for adults and  BMI-for-age  in  children  and  adolescents  for early  detection of over-nutrition; ( iii )  identification of  over-nourished  persons  and  personalised  advice regarding  modification  of  dietary  intake  and  life style; and ( iv ) monitoring the improvement and providing focused care to those who are facing problems in modifying their lifestyles.
 
 [[END OF PAGE 230]]
 
 [[START OF PAGE 231]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 213
 
-early detection of over-nutrition; (iii) identification of over-nourished persons and personalised advice regarding modification of dietary intake and life style; and (iv) monitoring the improvement and providing focused care to those who are facing problems in modifying their lifestyles.
-
 ##### NUTRITION CAPACITY DEVELOPMENT
 
-23.280. Capacity Development for Nutrition will need to include strengthening and networking of Nutrition resources within key National Institutions such as NIHFW, NHSRC, NIRD, strengthening the Food and Nutrition Board and NIPPCD and networking with Nutrition Resource Units in Agricultural Universities, Medical Colleges and Home Science Colleges. Appropriate training is needed at state, district and block management levels and service provider and supervision levels. A shared training space and team at the state, district and block levels would therefore be essential. A shared resource centre of WCD and health or State/District Resource Centres for Nutrition need to be progressively established—building on existing institutions such as SIHFWs/SHSRCs, Medical College Hospitals, Home Science Colleges, AWTCs—responding to the requirements of different sectors and stakeholders. This should be linked to State/District Nutrition Mission Councils, and will need to be set up in a phased manner, initially in high burden states/districts. This will also require mentoring support by voluntary agencies, resource teams at district/block//local levels, especially for strengthening community processes, decentralized planning and monitoring.
+23.280. Capacity  Development for Nutrition  will need  to  include  strengthening  and  networking  of Nutrition resources within key National Institutions such as NIHFW, NHSRC, NIRD, strengthening  the  Food  and  Nutrition  Board  and  NIPPCD and  networking  with  Nutrition  Resource  Units  in Agricultural Universities, Medical Colleges and Home  Science  Colleges.  Appropriate  training is needed at state, district and block management levels  and  service  provider  and  supervision  levels.  A shared training space and team at the state, district and  block  levels  would  therefore  be  essential.  A shared resource centre of WCD and health or State/ District  Resource  Centres  for  Nutrition  need  to  be progressively established—building on existing institutions  such  as  SIHFWs/SHSRCs,  Medical  College Hospitals, Home Science Colleges, AWTCs—responding to the requirements of different sectors and  stakeholders.  This  should  be  linked  to  State/ District Nutrition Mission Councils, and will need to be set up in a phased manner, initially in high burden states/districts. This will also require mentoring support by voluntary agencies, resource teams at district/block//local  levels,  especially  for  strengthening community  processes,  decentralized  planning  and monitoring.
 
 23.281. Nutrition  Resource  Platform In  order  to strengthen  the  knowledge  base  on  nutrition  education,  national,  regional  and  state  level  Nutrition Resource Centres and networks also need to be set up. A national Nutrition Resource Platform is envisaged as a web portal for easy access to information relating  to  nutrition  and  child  development  and  as a  repository  of  nutrition  related  resources  including research, new publications, government policies, training materials and so on.
 
@@ -7933,19 +7492,17 @@ early detection of over-nutrition; (iii) identification of over-nourished person
 
 23.283. Education of girls and women's literacy will be promoted, responding to their nutrition, development  and  protection  needs.  Their  nutrition  status will also improve by availing of MDM, health care, IFA supplementation and deworming interventions, increased  duration  of  schooling,  higher  education and improved life skills and productivity. Education of girls and women's literacy will have multiple long term benefits.
 
-23.284. Community Mobilisation: Improving community mobilisation levels will imply greater sensitization and involvement of Panchayati Raj Institutions and Village Health Sanitation and Nutrition Committees. Effective nutrition orientation for grass-root workers, PRIs, women’s and youth groups would create an understanding about the importance of nutrition and their pivotal role in the prevention of malnutrition.
+23.284. Community Mobilisation : Improving community  mobilisation  levels  will  imply  greater sensitization  and  involvement  of  Panchayati  Raj Institutions and Village Health Sanitation and Nutrition Committees.  Effective  nutrition  orientation  for  grass-root  workers,  PRIs,  women's  and youth groups would create an understanding about the importance of nutrition and their pivotal role in the prevention of malnutrition.
 
 ##### NUTRITION MONITORING AND SURVEILLANCE SYSTEMS
 
-23.285. Effective monitoring of national nutrition programmes requires both monitoring and assessment of processes and outcomes. A responsive and dynamic Nutrition Surveillance System (NSS) will be put in place in order to capture nutrition related information. It would help assess the current situation, analyse the causes/reasons of the problem and based on the analysis and available resources, suggest solutions to improve the situation. It would provide information on nutritional practices of vulnerable
+23.285.  Effective  monitoring  of  national  nutrition programmes  requires  both  monitoring  and  assessment of processes and outcomes. A responsive and dynamic  Nutrition  Surveillance  System  (NSS)  will be put in place in order to capture nutrition related information. It would help assess the current situation, analyse the causes/reasons of the problem and based on the analysis and available resources, suggest solutions to improve the situation. It would provide information  on  nutritional  practices  of  vulnerable groups  including  SCs,  STs,  and  Minorities  being reached under  ICDS,  NRHM  and  related  programmes  of  different  sectors,  keeping  in  view  the multi-factorial  nature  of  nutrition.  It  would  take the  following  measures  in  a  synergistic  manner  to achieve optimal results:
 
 [[END OF PAGE 231]]
 
 [[START OF PAGE 232]]
 
 214 Twelfth Five Year Plan
-
-groups including SCs, STs, and Minorities being reached under ICDS, NRHM and related programmes of different sectors, keeping in view the multi-factorial nature of nutrition. It would take the following measures in a synergistic manner to achieve optimal results:
 
 - The  critical  indicators  of  maternal,  infant  and child care and nutrition will be constantly monitored to ensure better young child survival, nutrition and development, in case of each mother-child  cohort  tracked,  with  the  aid  of Mother and Child Protection Card, linked to the NSS  network  and  to  the  NRHM  Mother-Child Cohort Tracking System.
 
@@ -7957,15 +7514,17 @@ groups including SCs, STs, and Minorities being reached under ICDS, NRHM and rel
 
 - It will help in mapping of undernourished endemic  zones  of  the  country  in  terms  of  identifying  districts  and  terming  them  as  'high  risk and  vulnerable  districts'.  Special  focus  within National NSS will be on household food security in  difficult  survival  environments  like  remote, hilly, tribal and drought prone areas, deserts, BPL populations, different socio religious groups, and so on.
 
-- Central Monitoring Unit (CMU) set-up under ICDS will be utilized for NSS as well as for a comprehensive, non-repetitive assessment and correction of the field situation.
+- Central  Monitoring  Unit  (CMU)  set-up  under ICDS  will  be  utilized  for  NSS  as  well  as  for  a
+
+comprehensive, non-repetitive assessment and correction of the field situation.
 
 #### CONCLUSION
 
 23.286.  The  Twelfth  Plan  seeks  to  make  the  fulfillment  of  women's  rights  an  inalienable  condition to  achievement  of  rapid  and  sustainable  economic growth.  According  the  highest  priority  to  ending gender based inequities, discrimination and violence faced by girls and women is the prerequisite to the objective  of  the  Plan.  Fulfilling  children's  rights  to survival, development, protection and participation  is  a  critical  development  imperative  that  must be  realised  in  the  Twelfth  Plan.  Linking  with  the approach to Universal Health Care, converging the health,  child  care  and  education  systems,  ensuring a  continuum of care and development, the Twelfth Plan strategy for inclusive development is unique.
 
-23.287. The Twelfth Plan reiterates that Nutrition is crucial for the fulfillment of human rights—especially those of the most vulnerable children, girls and women, locked in an inter-generational cycle of multiple deprivations. Critical priority is accorded to prevent under-nutrition as early as possible, across the life cycle, to avert irreversible cumulative growth and development deficits that compromise maternal, child and adolescent health and survival, achievement of optimal learning outcomes in education and gender equality. It is envisaged that this synergy of multi-sectoral action, led by panchayats in partnership with communities—will enable the Twelfth Plan to realise our vision of Nutrition Security for all for faster, more inclusive and sustainable growth.
+23.287.  The  Twelfth  Plan  reiterates  that  Nutrition is  crucial for the fulfillment of human rights-especially  those  of  the  most  vulnerable  children,  girls and women, locked in an inter-generational cycle of multiple deprivations. Critical priority is accorded to prevent  under-nutrition  as  early  as  possible,  across the life cycle, to avert irreversible cumulative growth and development deficits that compromise maternal, child  and  adolescent  health  and  survival,  achievement of optimal learning outcomes in education and gender  equality.  It  is  envisaged  that  this  synergy  of multi-sectoral  action,  led  by  panchayats  in  partnership with communities-will enable the Twelfth Plan to realise our vision of Nutrition Security for all for faster, more inclusive and sustainable growth.
 
-23.288. Convergent action will make the defining difference to the lives of children and women—especially for reaching the most vulnerable among them. It will translate Twelfth Plan commitments into effective policies and programmes that touch the lives of women and children—in the families and communities, where they live, grow and develop.
+23.288.  Convergent action will make  the defining  difference  to  the  lives  of  children  and  women—especially  for  reaching  the  most  vulnerable  among them.  It  will  translate  Twelfth  Plan  commitments into  effective  policies  and  programmes  that  touch the lives of women and children—in the families and communities, where they live, grow and develop.
 
 23.289.  The  total  outlay  for  the  Women  and  Child Development Sector (including Nutrition) is ` 1,17,707 crore which includes an outlay of ` 1,08,503 crore for the ICDS flagship programme.
 
@@ -7973,7 +7532,7 @@ groups including SCs, STs, and Minorities being reached under ICDS, NRHM and rel
 
 [[START OF PAGE 233]]
 
-Women’s Agency and Child Rights
+Women's Agency and Child Rights
 
 215
 
@@ -8003,13 +7562,13 @@ Indicative Action
 
 - Strengthening the early care, development and learning continuum.
 
-- Strengthening the protective environment for all children—with a focus on prevention of vulnerability to abuse and exploitation, including in conflict and disturbed areas.
+- Strengthening the protective environment for all children-with a focus on prevention of vulnerability to abuse and exploitation, including in conflict and disturbed areas.
 
-- Ensuring fulfillment of children’s rights to achieve full development potential and quality education-including the one in ten differently-abled child.
+- Ensuring fulfillment of children's rights to achieve full development potential and quality education-including the one in ten differently-abled child.
 
-- Institutionalizing child participation through incorporation of children’s views into mainstream policy and programme formulation, implementation and monitoring processes.
+- Institutionalizing child participation through incorporation of children's views into mainstream policy and programme formulation, implementation and monitoring processes.
 
-- Valuing and recognizing the work of AWWs and AWHs—demonstrating the commitment to gender equality that is being advocated.
+- Valuing and recognizing the work of AWWs and AWHs-demonstrating the commitment to gender equality that is being advocated.
 
 - Strengthening institutional capacity and partnerships between government sectors, civil society, panchayati raj institutions, families and communities for fulfilling children's rights.
 
@@ -8033,7 +7592,7 @@ Indicative Action
 
 - Improve efficiency, effectiveness and accountability of health care, especially women and child care delivery systems, and increase community and women's ownership of delivery systems.
 
-- Address adolescent health holistically—with skilled counseling support at drop-in clinics in identified health facilities. This will also affect issues related to mental health, substance abuse, living in insecure environments and preventing and addressing HIV/AIDs.
+- Address adolescent health holistically-with skilled counseling support at drop-in clinics in identified health facilities. This will also affect issues related to mental health, substance abuse, living in insecure environments and preventing and addressing HIV/AIDs.
 
 [[END OF PAGE 233]]
 
@@ -8043,15 +7602,15 @@ Indicative Action
 
 Twelfth Five Year Plan
 
-- Address the adverse and steeply declining child sex ratio through a multi-layered approach, responsive to different state/city/district contexts.
+- Address the adverse and steeply declining child sex ratio through a multi-layered approach, responsive to different state/ city/district contexts.
 
-- Proactively address gender differentials in infant and under five child mortality rates—especially in states where this is high or increasing, using the Mother Child Tracking System.
+- Proactively address gender differentials in infant and under five child mortality rates-especially in states where this is high or increasing, using the Mother Child Tracking System.
 
 - Set up necessary health infrastructure for ensuring maternal and child care, emergency obstetric care, sick newborn care, referral support and child care corners in health facilities and ensure that progressively all maternity facilities are 'baby friendly'.
 
 - Position Nutrition Status of children under 3 years as a lead progress indicator of NRHM.
 
-- Strengthen the Nutrition component of NRHM PIPs—especially in 264 NRHM high focus districts, in synergy with 200 high burden districts identified for multi-sectoral nutrition action.
+- Strengthen the Nutrition component of NRHM PIPs-especially in 264 NRHM high focus districts, in synergy with 200 high burden districts identified for multi-sectoral nutrition action.
 
 - Utilise VHNDs, antenatal care, institutional delivery (JSY) and immunisation contact points with mothers and infants for strengthening nutrition interventions.
 
@@ -8071,17 +7630,17 @@ Twelfth Five Year Plan
 
 - Ensure Universal Access to quality school (elementary and secondary) and adult education.
 
-- Ensure Equity—inclusion of disadvantaged and more vulnerable community groups such as SCs, STs, minorities and vulnerable child groups such as first generation learners, children with different abilities.
+- Ensure Equity-inclusion of disadvantaged and more vulnerable community groups such as SCs, STs, minorities and vulnerable child groups such as first generation learners, children with different abilities.
 
 - Strengthen education infrastructure and institutional capacity in districts with a high concentration of vulnerable groups such as in Tribal sub plan areas, Minority concentrated districts linked to MSDP and so on.
 
 - Strengthen initiatives focused on the girl child and women such as KGBV, NPGEL, linked to longer term interventions for gender equality.
 
-- Ensure Quality and improve standards of education—also making it child friendly and gender sensitive.
+- Ensure Quality and improve standards of education-also making it child friendly and gender sensitive.
 
-- Strengthening the protective environment for all children—with a focus on prevention of vulnerability to abuse and exploitation.
+- Strengthening the protective environment for all children-with a focus on prevention of vulnerability to abuse and exploitation.
 
-- Introducing Child Tracking systems especially in left wing extremism affected areas—helping retain children in school and bringing them back to school.
+- Introducing Child Tracking systems especially in left wing extremism affected areas-helping retain children in school and bringing them back to school.
 
 - Linking with Ministry of Labour to address Child Labour holistically.
 
@@ -8115,7 +7674,7 @@ Women's Agency and Child Rights
 
 - Expedite  finalisation  of  draft  National  Food  Security  Act,  with  other  sectors,  thereby  enhancing  social  protection  to women and children of the families covered.
 
-- Include universal maternity protection within the purview of the same—impacting directly upon maternal and infant nutrition and care.
+- Include universal maternity protection within the purview of the same-impacting directly upon maternal and infant nutrition and care.
 
 - Ensure food and nutrition security at the household level by making the essential food grains (rice, wheat, and coarse grains), edible oils and sugar available through the Targeted Public Distribution System.
 
@@ -8137,7 +7696,7 @@ Women's Agency and Child Rights
 
 - Improve livelihoods and strengthen social protection for families, their women and children through MGNREGA, SGSY/ NRLM.
 
-- Create institutional capacity for incorporating gender and child related concerns in training, programme management and monitoring—such as by creating Women and Child Resource Units in SIRDs.
+- Create institutional capacity for incorporating gender and child related concerns in training, programme management and monitoring-such as by creating Women and Child Resource Units in SIRDs.
 
 - Provide social assistance to the elderly and widows with empathy and dignity.
 
@@ -8185,15 +7744,15 @@ Twelfth Five Year Plan
 
 - Institute Rashtriya Gaurav Gram Sabha Awards for the above.
 
-- Mainstream Nutrition in the training of PRIs—especially Women panchayat members for malnutrition free panchayats, earmarking certain wards to them.
+- Mainstream Nutrition in the training of PRIs-especially Women panchayat members for malnutrition free panchayats, earmarking certain wards to them.
 
 - Support the development of innovative district models run by PRIs within the 200 high burden districts initiative.
 
-- Share best practices to support the devolution of powers related to nutrition programmes—to PRIs in all states.
+- Share best practices to support the devolution of powers related to nutrition programmes-to PRIs in all states.
 
 - Special Gram Sabha meetings dedicated to Nutrition and also to the Girl Child in every gram sabha and with Mahila Sabhas being constituted.
 
-- Especially in disturbed and other special areas Gram panchayats should be the actual delivery agency for PDS of food grains; Ward Sabha and Ward members should take up issues of absentee school teachers, dropout children and missing children—including girls. Supervision and monitoring to be led by gram panchayat or its sub committee.
+- Especially in disturbed and other special areas Gram panchayats should be the actual delivery agency for PDS of food grains; Ward Sabha and Ward members should take up issues of absentee school teachers, dropout children and missing children-including girls. Supervision and monitoring to be led by gram panchayat or its sub committee.
 
 - States which do not have gram panchayats like bodies should constitute the same.
 
@@ -8215,11 +7774,11 @@ Twelfth Five Year Plan
 
 11. Ministry of Urban Development
 
-- City planning to also be made child friendly—as a key indicator of good governance.
+- City planning to also be made child friendly-as a key indicator of good governance.
 
 - Replicate with urban local bodies what the Ministry of Panchayati Raj has done with PRIs.
 
-- Inclusion of child care as a ‘basic service’ which cannot be denied to communities living in unrecognized urban poor areas—with no legitimacy or security of tenure.
+- Inclusion of child care as a 'basic service' which cannot be denied to communities living in unrecognized urban poor areas-with no legitimacy or security of tenure.
 
 - Progressively ensure access to health care, education, skill development, livelihoods for urban poor families with social protection for women and children and physical amenities like potable water supply, sewerage, sanitation and drainage for all.
 
@@ -8231,7 +7790,7 @@ Twelfth Five Year Plan
 
 - Ensure gender disaggregated tracking of beneficiary oriented programmes for SCs, others.
 
-- Constitute a multi-sectoral National Task Force on Childhood Disability—prevention, early detection, intervention, community-based management, rehabilitation and inclusion, including civil society and parent networks.
+- Constitute  a  multi-sectoral  National  Task  Force  on  Childhood  Disability-prevention,  early  detection,  intervention, community-based management, rehabilitation and inclusion, including civil society and parent networks.
 
 - Set up Childhood Disability Resource Centres in relevant National Institutes such as NIMH, NIHH, NIOH, NIVH, in key national/state institutions responsible for training NRHM, ICDS and SSA personnel and development of core training modules for integration in respective training programmes.
 
@@ -8293,9 +7852,9 @@ Women's Agency and Child Rights
 
 - Ensure that priority is accorded to concerns for children and women of the specific community groups addressed (that is Minorities) within the different schemes.
 
-- Incentivisation of sectors, States and panchayats where social inclusion indicators related to children of socio religious communities—including minorities—improve, with peer learning/motivation through sharing of best practices, within and across States/Districts.
+- Incentivisation of sectors, States and panchayats where social inclusion indicators related to children of socio religious communities-including minorities-improve, with peer learning/motivation through sharing of best practices, within and across States/Districts.
 
-- Specific interventions for girls education and skill development to be accelerated in MSDP, with study centres at community level—with inclusion.
+- Specific  interventions  for  girls  education  and  skill  development  to  be  accelerated  in  MSDP,  with  study  centres  at community level-with inclusion.
 
 - Ensure disaggregated tracking of beneficiary oriented flagship programmes by beneficiary group (Minorities) and gender so that multiple vulnerabilities are addressed.
 
@@ -8329,7 +7888,7 @@ Twelfth Five Year Plan
 
 - Share best practices/examples of the use of MPLADs funds for addressing the child sex ratio and for nutrition interventions, AWC construction and so on.
 
-- Position nutrition status of children under 3 years as a lead progress indicator for reviews at national/state/division/district levels, for relevant sectors.
+- Position nutrition status of children under 3 years as a lead progress indicator for reviews at national/state/division/ district levels, for relevant sectors.
 
 20. Ministry of Home Affairs
 
@@ -8349,17 +7908,17 @@ Twelfth Five Year Plan
 
 24.2.  Across social groups, the incidence of poverty has been most pronounced among the SCs and STs (Table 24.1). Even though the incidence of poverty among these groups has declined over the years, the headcount  ratio  (HCR)  for  SCs  and  STs  remains higher than the national average. However, it is encouraging to note from recent poverty estimates that poverty has declined at an accelerated rate between
 
-2004–05 and 2009–10 for SCs and STs. The annual rate of decline of HCR for SCs and STs in the period between 2004–05 and 2009–10 has been higher than the overall annual rate of decline of HCR. For SCs, the annual rate of decline accelerated sharply from 0.80 percentage points per annum in the period between 1993–94 and 2004–05 to 2.25 percentage points per annum in the period between 2004–05 and 2009–10. The annual pace of poverty reduction amongst STs was disappointingly low in the period between 1993–94 and 2004–05 (0.34 percentage points per annum). However, in the period between 2004–05 and 2009–10, the annual rate of decline increased steeply to 2.98 percentage points per annum, exceeding the pace of overall poverty reduction.
+2004-05 and 2009-10 for SCs and STs. The annual rate of decline of HCR for SCs and STs in the period between 2004-05 and 2009-10 has been higher than the overall annual rate of decline of HCR. For SCs, the annual rate of decline accelerated sharply from 0.80 percentage points per annum in the period between 1993-94 and 2004-05 to 2.25 percentage points per annum  in  the  period  between  2004-05  and  2009-10.  The  annual  pace  of  poverty  reduction  amongst STs was disappointingly low in the period between 1993-94  and  2004-05  (0.34  percentage  points  per annum).  However,  in  the  period  between  2004-05 and  2009-10,  the  annual  rate  of  decline  increased steeply to 2.98 percentage points per annum, exceeding the pace of overall poverty reduction.
 
 24.3.  Over the years several steps have been taken to bridge  the  gap  between  these  marginalised  groups and the rest of the population. But gaps still persist and  further  efforts  are  needed.  The  social  justice
 
 TABLE 24.1
 Incidence of Poverty across Social Groups
 
-Social Group | RURAL |  |  |  |  | URBAN |  |  |  | 
+Social Group | RURAL |  |  |  |  | URBAN |  |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
- | Headcount Ratio |  |  | Annual Rate of Decline |  | Headcount Ratio |  |  | Annual Rate of Decline | 
- | 1993–94 | 2004–05 | 2009–10 | 1993–94 to 2004–05 | 2004–05 to 2009–10 | 1993–94 | 2004–05 | 2009–10 | 1993–94 to 2004–05 | 2004–05 to 2009–10
+ | Headcount Ratio |  |  | Annual Rate of Decline |  | Headcount Ratio |  |  | Annual Rate of Decline |
+ | 1993-94 | 2004-05 | 2009-10 | 1993-94 to 2004-05 | 2004-05 to 2009-10 | 1993-94 | 2004-05 | 2009-10 | 1993-94 to 2004-05 | 2004-05 to 2009-10
 SC | 62.28 | 53.53 | 42.26 | 0.80 | 2.25 | 51.16 | 40.56 | 34.11 | 0.96 | 1.29
 ST | 66.02 | 62.28 | 47.37 | 0.34 | 2.98 | 39.46 | 35.52 | 30.38 | 0.36 | 1.03
 All India | 50.19 | 41.79 | 33.8 | 0.76 | 1.60 | 31.45 | 25.68 | 20.9 | 0.52 | 0.96
@@ -8400,6 +7959,7 @@ TABLE 24.2
 Eleventh Plan Allocation and Expenditure for Special Schemes for SCs
 
 (` in crores)
+
  |  | Allocation | Expenditure
 --- | --- | --- | ---
 1. | Post Matric Scholarship | 4,082.00 | 7,344.93
@@ -8477,7 +8037,7 @@ Twelfth Five Year Plan
 
 ##### National Safai Karamcharis Finance and Development Corporation (NSKFDC)
 
-24.21. NSKFDC was set up in 1997 with the aim to promote social and economic development of Safai Karamcharis by way of providing financial assistance at concessional rates of interest to promote self-employment in alternative occupations and scheme of skill development. The channelising agencies for identification of beneficiaries and disbursement of loans are the State Scheduled Caste Development Corporations (SCDC). No income ceiling is fixed under the Scheme for availing financial assistance. Priority is, however, accorded to economic development and rehabilitation of scavengers, whose income is below double the poverty line besides women and persons with disabilities among the target group.
+24.21.  NSKFDC was set up in 1997 with the aim to promote social and economic development of Safai Karamcharis by way of providing financial assistance at  concessional  rates  of  interest  to  promote  self-employment in alternative occupations and scheme of skill  development. The channelising agencies for identification  of  beneficiaries  and  disbursement  of loans  are  the  State  Scheduled  Caste  Development Corporations  (SCDC).  No  income  ceiling  is  fixed under  the  Scheme  for  availing  financial  assistance. Priority is, however, accorded to economic development and rehabilitation of scavengers, whose income is below double the poverty line besides women and persons  with  disabilities  among  the  target  group.
 
 [[END OF PAGE 242]]
 
@@ -8499,7 +8059,7 @@ Authorised  share  capital  of  the  corporation  was enhanced from ` 300 crore 
 
 #### Elimination of Manual Scavenging and Rehabilitation of Manual Scavengers
 
-24.24. Towards rehabilitating the manual scavengers and dependents, National Scheme for Liberation and Rehabilitation of Manual Scavengers (NSLRMS) has been in operation since 1992. A total of 7.70 lakh manual scavengers are to be rehabilitated through NSLRMS. By the end of 2006, about 4.28 lakh beneficiaries were to be rehabilitated. Self-Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January, 2007 with the objective of rehabilitating the remaining 3.42 lakh manual scavengers and their dependents by March, 2009. Under the Scheme, identified beneficiaries are provided a loan, at subsidised rate of interest (4–6 per cent per annum) and credit linked upfront capital subsidy (@50 per cent of the project cost, for projects up to `25,000 and @ 25 per cent for projects above `25,000, with a minimum of `12,500 and maximum of `20,000) for setting up self-employment projects costing up to `5.00 lakh. The SRMS originally envisaged rehabilitation of all manual scavengers in alternative occupations by March 2009. Subsequently this deadline was extended up to March 2010. However, 16 States and 2 UTs reported the existence of 1,18,474 manual scavengers and their dependents, who were to be rehabilitated in alternative occupations till end-March 2010. All 18 States/UTs confirmed rehabilitation of all eligible and willing beneficiaries, identified by them.
+24.24.  Towards rehabilitating the manual scavengers and dependents, National Scheme for Liberation and Rehabilitation of Manual Scavengers (NSLRMS) has been  in  operation  since  1992.  A  total  of  7.70  lakh manual  scavengers  are  to  be  rehabilitated  through NSLRMS. By the end of 2006, about 4.28 lakh beneficiaries were to be rehabilitated. Self-Employment Scheme  for  Rehabilitation  of  Manual  Scavengers (SRMS)  was  introduced  in  January,  2007  with  the objective  of  rehabilitating  the  remaining  3.42  lakh manual scavengers and their dependents by March, 2009. Under the Scheme, identified beneficiaries are provided a loan, at subsidised rate of interest (4-6 per cent  per  annum)  and  credit  linked  upfront  capital subsidy (@50 per cent of the project cost, for projects up to ` 25,000 and @ 25 per cent for projects above ` 25,000, with a minimum of ` 12,500 and maximum of ` 20,000) for setting up self-employment projects costing up to ` 5.00 lakh. The SRMS originally envisaged rehabilitation of all manual scavengers in alternative occupations by March 2009. Subsequently this deadline was extended up to March 2010. However, 16 States and 2 UTs reported the existence of 1,18,474 manual scavengers and their dependents, who were to be rehabilitated in alternative occupations till end-March 2010. All 18 States/UTs confirmed rehabilitation of all eligible and willing beneficiaries, identified by them.
 
 24.25.  'The  Prohibition  of  Employment  as  Manual Scavengers  and  their  Rehabilitation  Bill,  2012',  has been introduced in the Parliament. Survey of Manual Scavengers in the rural areas is underway as a part of the  Socio-economic Caste Census (Rural). Steps for a  similar  survey  of  manual  Scavengers in the urban areas have been initiated. Steps have also been taken for the revision of the Self Employment Scheme for Manual Scavengers (SRMS).
 
@@ -8523,7 +8083,7 @@ Twelfth Five Year Plan
 
 - To ensure the security and dignity of all persons belonging  to  the  scheduled  castes,  especially women and put a complete end to all forms of 'untouchability' and discrimination against them.
 
-- To bring members of the SCs—both men and women—at par, to the maximum possible extent, with their non-SC/ST counterparts, in terms of all developmental indices viz.—education, health, nutrition, housing, income generation and employability.
+- To  bring  members  of  the  SCs-both  men  and women-at  par, to the maximum  possible extent,  with  their  non-SC/ST  counterparts,  in terms of all developmental indices viz.-education, health, nutrition, housing, income generation and employability.
 
 - To empower SCs to participate in society and in nation-building, on an equal basis with others.
 
@@ -8551,7 +8111,7 @@ Social Inclusion
 
 - The  number  of  scholarships  under  the  scheme of  'National  Overseas  Scholarship'  needs  to  be increased substantially without any restriction as regards  the  field  of  study  for  which  the  scholarship would be available.
 
-- SC students need to be encouraged more vigorously to prepare for various competitive examinations. ‘Free coaching to the SC students’ should be expanded to cover Premier Entrance Exams to professional institutions like IITs, JEE, AIEEE, CPMT, CLAT, CAT, and so on under the scheme of coaching for SC students. The scheme should be comprehensively revised to make it more beneficial to SC students. Upgradation of Soft/Communication Skills for SC students is a major challenge and should be addressed suitably.
+- SC students  need  to  be  encouraged  more  vigorously to prepare for various competitive examinations.  'Free  coaching  to  the  SC  students'  should be  expanded  to  cover  Premier  Entrance  Exams to professional institutions like IITs, JEE, AIEEE, CPMT, CLAT, CAT, and so on under the scheme of  coaching for SC students. The scheme should be  comprehensively  revised  to  make  it  more beneficial  to  SC  students.  Upgradation  of  Soft/ Communication Skills for SC students is a major challenge and should be addressed suitably.
 
 - State  Governments  need  to  upgrade  the  hostels to  a  satisfactory  level  using  funds  provided  by the  Finance  Commission  and  other  agencies.  It is  envisaged  to  have  additional  Hostel  capacity of 2 Lakh seats for SC students with a minimum of  50  per  cent  for  SC  girls.  Central  assistance  to States/UTs for construction of boys hostels need to be increased appropriately. Babu Jagjivan Ram Chhatrawas Yojana will be revised so  as  to  provide assistance for creating additional seats for SC students in integrated hostels too, besides for constructing hostels exclusively for SC students.
 
@@ -8573,7 +8133,7 @@ Social Inclusion
 
 Twelfth Five Year Plan
 
-24.32. Both the Central and State Governments implement various Schemes for the social and economic well-being of SCs. However, there is also a need for creating a National Fund to finance various innovative activities for their development which do not fall under any of the existing Schemes, for example development and training of talented SC artisans and artists. It would be desirable to have a National Fund for Innovative Development Activities for SCs—for supporting SC talent and potential in diverse areas, otherwise not covered under the existing Schemes. The Scheme may be implemented through National Scheduled Castes Finance and Development Corporation (NSFDC).
+24.32.  Both the  Central  and  State  Governments implement various Schemes for the social and economic  well-being  of  SCs.  However,  there  is  also  a need for creating a National Fund to finance various innovative activities for their development which do not fall under any of the existing Schemes, for example development and training of talented SC artisans and artists. It would be desirable to have a National Fund  for  Innovative  Development  Activities  for SCs-for  supporting  SC  talent  and  potential  in diverse areas, otherwise not covered under the existing  Schemes.  The  Scheme  may  be  implemented through  National  Scheduled  Castes  Finance  and Development Corporation (NSFDC).
 
 24.33.  SC  artisans  and  entrepreneurs  face  a  serious problem  in  marketing  their  products.  In  the  past, certain initiatives have been taken by the Ministry of Social  Justice  and  Empowerment  and  the  National Scheduled  Castes  Finance  and  Development  Corporation to enable them to showcase and market their products  by  facilitating  their  participation  in  various fairs, exhibitions and so on. However, the ambit of such initiatives has been rather limited. There is, thus, a need to create a strong institutional mechanism  to  facilitate  the  SC  entrepreneurs/artisans  in marketing  their products  in an institutionalised manner.  A  National  level  organisation  may  be  set up  in  the  Twelfth  Plan  as  a  permanent  marketing institution,  on  the  lines  of  TRIFED,  for  marketing  of  products  manufactured  by  Scheduled  Caste entrepreneurs/artisans.
 
@@ -8587,7 +8147,7 @@ belong  to  Particularly  Vulnerable  Tribal  Groups (PVTGs)  earlier referred t
 
 24.35.  Because of the remoteness of location of most of  the  ST  population,  the  extent  to  which  they  can benefit  from  general  development  programmes  is more limited and the need for special programmes is greater than for SCs. The need for special efforts to ensure an adequate flow of benefits to the Scheduled Tribes has been recognised in all Plans beginning with the First Plan. Over time this strategy has evolved to a multi pronged strategy culminating in the objective enunciated in the Eleventh Plan that the benefits of inclusive growth must extend fully to the STs.
 
-24.36. The Human Development Report 2011 of the Planning Commission candidly admits that though the consumption expenditure of Scheduled Tribes has been rising overtime, the rate of increase was lower that the all India average. Further, while there has been a divergence in Monthly Per Capita Consumption Expenditure (MPCE) from the national average for STs and Muslims during 1999–2000 and 2007–08, they are also diverging from the national average in terms of female malnutrition during 1998 from the national average in terms of female malnutrition during 1998–99 and 2005–06. Only one-third STs and around half of SCs reside in pucca houses compared to 66 per cent for all India. Over time, ST households, due to a slower pace in improvement have experienced a growing divergence from the national average of households residing in pucca houses.
+24.36.  The  Human  Development  Report  2011  of the Planning Commission  candidly  admits  that though  the  consumption  expenditure  of  Scheduled Tribes has been rising overtime, the rate of increase was lower that the all India average. Further, while there has been a divergence in Monthly Per Capita Consumption Expenditure (MPCE) from the national average for STs and Muslims during 1999-2000 and 2007-08, they are also diverging from the national  average  in  terms  of  female  malnutrition during  1998  from  the  national  average  in  terms  of female  malnutrition  during  1998-99  and  2005-06. Only one-third STs and around half of SCs reside in pucca houses compared to 66 per cent for all India. Over time, ST households, due to a slower pace in improvement  have  experienced  a  growing  divergence from the national average of households residing in pucca houses.
 
 24.37.  Poor  implementation  of  existing  schemes  in the  tribal  regions  has  meant  that  not  only  poverty continues  at  an  exceptionally  high  levels  in  these regions,  but  the  decline  in  poverty  has  been  much slower here than in the entire country, as shown in Table 24.3.
 
@@ -8602,9 +8162,9 @@ Social Inclusion
 229
 
 TABLE 24.3
-Rural Population Living Below Poverty Line (1993–94, 1999–2000 and 2004–05) (in %)
+Rural Population Living Below Poverty Line (1993-94, 1999-2000 and 2004-05) (in %)
 
-Category | 1993–94 | 1999–2000 | 2004–05
+Category | 1993-94 | 1999-2000 | 2004-05
 --- | --- | --- | ---
 Total | 50.19 | 27.09 | 41.79
 STs | 66.02 | 45.86 | 62.28
@@ -8617,7 +8177,8 @@ from 15.83 to 20.49 per cent. Lagging of scheduled tribes reflects the fact that
 24.39.  Similar  gaps  continue between literacy levels and health indicators of STs and the general population and have widened over the years. The continuing gap between literacy levels of STs and the general population is shown in Table 24.4 and Table 24.5.
 
 TABLE 24.4
-Literacy Rates of STs and Total Population (in %)
+Literacy Rates of STs and Total Population
+(in %)
 
 Category | 1971 | 1981 | 1991 | 2001
 --- | --- | --- | --- | ---
@@ -8628,7 +8189,8 @@ GAP | 18.15 | 19.88 | 22.61 | 18.28
 Source: Ministry of Human Resource Development.
 
 TABLE 24.5
-Female Literacy Rates of STs and Total Population (in %)
+Female Literacy Rates of STs and Total Population
+(in %)
 
 Category | 1971 | 1981 | 1991 | 2001
 --- | --- | --- | --- | ---
@@ -8640,7 +8202,7 @@ Source: Ministry of Human Resource Development.
 
 24.40.  Thus the gap  in literacy levels, both  for tribal  men  and  women,  has  not  declined  significantly despite the fact that the largest proportion of centrally sponsored programmes for tribal development  are  related  to  the  single  sector  of  education. The gap would be wider if the north-eastern states are excluded from the above table, as education and health  standards  of  tribals  in  that  region  are  much above  the  national  average.  There  are  districts  in India where the female literacy among adivasis is less than 10 per cent.
 
-24.41. The dropout rate is a critical indicator reflecting lack of educational development and inability of a given social group to complete a specific level of education. In the case of tribals, dropout rates are still very high—31.33 per cent in Classes I to V; 58.3 per cent in Classes I to VIII; and 76.9 per cent in Classes I to X in 2008–09 (Source: Selected Educational Statistics 2008–09 of India, Ministry of Human Resource Development).
+24.41.  The dropout rate is a critical indicator reflecting  lack  of  educational  development  and  inability of  a  given  social  group  to  complete  a  specific  level of  education.  In  the  case  of  tribals,  dropout  rates are  still  very  high-31.33  per  cent  in  Classes  I  to V;  58.3  per  cent  in  Classes  I  to  VIII;  and  76.9  per cent in Classes I to X in 2008-09 (Source: Selected Educational Statistics 2008-09 of India, Ministry of Human Resource Development).
 
 24.42.  The  16th  Joint  Review  Mission  of  the  SSA done  in  2012  notes  with  some  concern  that  enrolment of SC and ST and Muslim children in the 6-14 population  has  reduced.  Among  the  social  categories, the enrolment rate is lowest among the scheduled tribes. As per DISE data, the enrolment of SC children  has  reduced  from  19.81  per  cent  in  2009 to  19.06  per  cent  in  2010-11.  Similarly  enrolment for  ST  children  for  the  same  period  has  reduced from  10.93  per  cent  to  10.70  per  cent.  Reports  of Monitoring Institutes also observed that there were noticeable gaps in learning achievement levels of SC, ST and Muslim children in almost all the states.
 
@@ -8664,9 +8226,9 @@ Mortality and Undernutrition
 3 | Proportion (per cent) of Children with Anaemia | 78 | 79 | 72
 4 | Proportion (per cent) of Underweight Children | 21 | 26 | 14
 
-Source: Planning Commission: NFHS 2005–06 Report.
+Source: Planning Commission: NFHS 2005-06 Report.
 
-24.44. Since most of the tribal habitations are located in isolated villages and hamlets in undulating plateau lands coinciding with forest areas, they have limited access to critical infrastructure facilities such as roads, communication, health, education, electricity, drinking water and so on. This widens the gap between the quality of their life and the people in the country.
+24.44.  Since most of the tribal habitations are located in isolated villages and hamlets in undulating plateau lands coinciding with forest areas, they have limited access to critical infrastructure facilities such as roads, communication, health, education, electricity, drinking water and so on. This widens the gap between the quality of their life and the people in the country.
 
 #### Education Development
 
@@ -8676,6 +8238,7 @@ TABLE 24.7
 Eleventh Plan Allocation and Expenditure for Special Schemes for STs
 
 (` in Crores)
+
  |  | Allocation | Expenditure
 --- | --- | --- | ---
 1. | Post Matric Scholarship | 1,496.30 | 2,118.36
@@ -8685,7 +8248,7 @@ Eleventh Plan Allocation and Expenditure for Special Schemes for STs
 5. | Scholarship for Top Class Education | 73.80 | 15.96
 6. | Ashram Schools | 147.60 | 231.00
 7. | Strengthening Education among ST girls | 298.75 | 162.05
-Total |  | 2,589.41 | 3,084.41
+ | Total | 2,589.41 | 3,084.41
 
 * Allocation included in Post matric Scholarship scheme
 
@@ -8715,7 +8278,7 @@ The Scheme was revised with effect from the financial  year  2008-09. Under the 
 
 ##### Free Coaching for STs
 
-24.49. The Scheme of Free Coaching for STs has been in operation since the Sixth Five Year Plan and provides free coaching to ST students to enhance their competitive capabilities to face various competitive examinations. Coaching is provided through State Governments/Universities/NGOs/private Coaching Institutes for competitive examinations of Group A and Group B categories in the Central/State Governments, Officers grade examinations for PSUs, Banks, and so on and soft skill development programmes for employment in private sector covering areas like call centres, BPO, retail management, information technology, and so on. Apart from coaching fee, stipend is also provided to the students @ `1,500/- per month for outstation students and `750/- per month for local students. The income ceiling under the scheme is `2.00 lakhs per annum.
+24.49.  The Scheme of Free Coaching for STs has been in operation since the Sixth Five Year Plan and provides free coaching to ST students to enhance their competitive  capabilities  to  face  various  competitive examinations.  Coaching  is  provided  through  State Governments/Universities/NGOs/private  Coaching Institutes for competitive examinations of Group A and  Group  B  categories  in  the  Central/State  Governments,  Officers  grade  examinations  for  PSUs, Banks,  and  so  on  and  soft  skill  development  programmes  for  employment  in  private  sector  covering areas like call centres, BPO, retail management, information  technology,  and  so  on.  Apart  from coaching  fee,  stipend  is  also  provided  to  the  students @ ` 1,500/- per month for outstation students and ` 750/- per month for local students. The income ceiling under the scheme is ` 2.00 lakhs per annum.
 
 ##### Scholarships Scheme of Top Class Education
 
@@ -8751,7 +8314,7 @@ Twelfth Five Year Plan
 
 ##### Tribal Research Institutes
 
-24.56. There are 17 Tribal Research Institutes (TRIs) located in various states and UTs conducting relevant research, student surveys and training and providing necessary inputs for formulating suitable policies and programmes. The potentialities of these institutions are not being harnessed fully. TRIs with their technical and professional manpower can be directed to take up action research participatory approach, especially with respect to PVTG development and livelihood programmes. In order to ensure coordinated efforts of these TRIs, it is necessary to designate a TRI as a nodal agency representing the respective region—East, West, South, North-East and Central. There are eight sub-schemes under the umbrella scheme of TRIs (Information Technology, Monetary Evaluation and so on).
+24.56.  There are 17 Tribal Research Institutes (TRIs) located  in  various  states  and  UTs  conducting  relevant  research,  student  surveys  and  training  and providing  necessary  inputs  for  formulating  suitable policies and programmes. The potentialities of these institutions are not being harnessed fully. TRIs with their technical and professional manpower can be directed to take up action research participatory approach, especially with respect to PVTG development and livelihood programmes. In order to ensure coordinated efforts of these TRIs, it is necessary to designate a TRI as a nodal agency representing the respective  region-East,  West,  South,  North-East and Central. There are eight sub-schemes under the umbrella scheme of TRIs (Information Technology, Monetary Evaluation and so on).
 
 #### Economic Empowerment
 
@@ -8771,7 +8334,7 @@ Social Inclusion
 
 ##### Market Development of Tribal Products
 
-24.59.  Market Development of Tribal Products/Produce  is  a  Central  Sector  Scheme  under  which the  Ministry  of  Tribal  Affairs  extends  Grant-in-Aid to  Tribal  Cooperative  Marketing  Development Federation of India Limited (TRIFED) for four main activities:  ( i )  Retail  Marketing  Development  Activity;  ( ii )  Minor  Forest  Produce  (MFP)  Marketing Development  Activity; ( iii ) Vocational Training, Skill Up-gradation; and ( iv ) Capacity Building of ST Artisans and MFP; and Research and Development/Intellectual Property Rights (IPR) Activity.
+24.59.  Market Development of Tribal Products/ Produce  is  a  Central  Sector  Scheme  under  which the  Ministry  of  Tribal  Affairs  extends  Grant-in-Aid to  Tribal  Cooperative  Marketing  Development Federation of India Limited (TRIFED) for four main activities:  ( i )  Retail  Marketing  Development  Activity;  ( ii )  Minor  Forest  Produce  (MFP)  Marketing Development  Activity; ( iii ) Vocational Training, Skill Up-gradation; and ( iv ) Capacity Building of ST Artisans and MFP; and Research and Development/ Intellectual Property Rights (IPR) Activity.
 
 24.60.  TRIFED is now functioning both as a service provider  and  market  developer  for  tribal  products. Further,  in  its  role  as  a  capacity  builder,  it  imparts training  to  ST  Artisans  and  Minor  Forest  Produce (MFP)  gatherers.  TRIFED  is  marketing  its  products  through 39 outlets (26 outlets are its own and 13 outlets are on a consignment basis in association with state-level organisations). During 2007-12, the turnover only through retail marketing activities was ` 36.96 crore.
 
@@ -8781,7 +8344,7 @@ Social Inclusion
 
 ##### Vocational Training Centre in Tribal Areas
 
-24.62.  The  Scheme  of  Vocational  Training  Centre in Tribal Areas was launched in 1992-93 to develop skills  among  the  ST  youth  to  enable  them  to  gain employment and self-employment opportunities and  improving  their  socio-economic  conditions  by enhancing  their  incomes. Under  the  scheme,  the training for trades including modern trades are being provided through ITIs Polytechnics, Computer Training  Centres.  Besides,  training  on  vocational trades are being provided through institutions/organisation  who  are  running  projects  affiliated under  'Modular  Employable  Skills'  and  'Craftsmen Training Scheme'. The scheme was revised in April 2009  and  provides  enhanced  financial  norms  and a  time  schedule  for  submission  of  proposals.  The scheme  makes  the  organisations  responsible  for establishing  linkages  with  placement  services  and arranging easy micro-finance/loans for trained youth  through  financial  institutions,  the  NSTFDC and banks.
+24.62.  The  Scheme  of  Vocational  Training  Centre in Tribal Areas was launched in 1992-93 to develop skills  among  the  ST  youth  to  enable  them  to  gain employment and self-employment opportunities and  improving  their  socio-economic  conditions  by enhancing  their  incomes. Under  the  scheme,  the training for trades including modern trades are being provided through ITIs Polytechnics, Computer Training  Centres.  Besides,  training  on  vocational trades are being provided through institutions/ organisation  who  are  running  projects  affiliated under  'Modular  Employable  Skills'  and  'Craftsmen Training Scheme'. The scheme was revised in April 2009  and  provides  enhanced  financial  norms  and a  time  schedule  for  submission  of  proposals.  The scheme  makes  the  organisations  responsible  for establishing  linkages  with  placement  services  and arranging easy micro-finance/loans for trained youth  through  financial  institutions,  the  NSTFDC and banks.
 
 24.63.  Special Central Assistance to Tribal Sub-Plan (SCA to TSP) is a special area programme, provided by the Ministry of Tribal Development to the State Governments as an additive to the State Plan to bring
 
@@ -8821,13 +8384,13 @@ Social Inclusion
 
 235
 
-Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Orissa and Rajasthan. However, Article 243M(4)(b) goes on to say that 'Parliament may, by law extend the provisions of this Part to the Scheduled Areas' and this was done in 1996 when Parliament enacted 'The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996' (PESA). However, the extension of Part IX was—subject to certain exceptions and modifications. The most significant of these relate to definition of a Village and Gram Sabha, rules, responsibilities and powers of the Gram Sabha, Principle of Subsidiarity and Consistency of other Laws with PESA.
+Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Orissa and Rajasthan. However, Article 243M(4)(b) goes on to say that 'Parliament may, by law extend the  provisions  of  this  Part  to  the  Scheduled  Areas' and this was done in 1996 when Parliament enacted 'The Provisions of the Panchayats (Extension to the Scheduled  Areas)  Act,  1996'  (PESA).  However,  the extension of Part IX was—subject to certain exceptions  and  modifications.  The  most  significant  of these  relate  to  definition  of  a  Village  and  Gram Sabha, rules, responsibilities and powers of the Gram Sabha, Principle of Subsidiarity and Consistency of other Laws with PESA.
 
 ##### PESA Implementation
 
 24.70.  PESA  has  been  very  poorly  implemented across  the  nine  States.  One  major  impediment  in operationalisation of PESA is the absence of a proper administrative definition of the village that is in consonance with the Act. All States, without exception, have continued with their earlier revenue definitions of  the  village.  Thereby,  not  only  does  a  village  at times consist of 10-12 scattered hamlets, but several revenue villages are clubbed together to form a Gram Panchayat. This effectively precludes the functioning of a 'face to face' community as envisaged in PESA and eliminates the likelihood of a functioning Gram Sabha, which could shoulder the responsibilities of a unit of self governance. This calls for some remedial steps.
 
-24.71.  The  success  of  PESA  hinges  crucially  on  the effective  functioning  of  the  Gram  Sabha.  Today, even  in  tribal  areas,  there  is  no  automaticity  to  the functioning of the Gram Sabha and there is a large measure of exclusion of women. With growing socioeconomic  differentiation  within  and  across  Adivasi communities, there is also exclusion of those who are poorer or whose voice is weaker. To ensure that Gram Sabhas  actually  meet  and  become  a  vibrant  fora  of participatory  democracy,  as  visualised  under  PESA, there  is  a  need  to  facilitate  this  process  by  giving energy to it. This requires a dedicated cadre of social mobilisers at each GP level, specifically assigned with the task of mobilising the Gram Sabha and ensuring the effective participation of the marginalised, as also spreading  greater  awareness  of  laws  such  as  PESA
+24.71.  The  success  of  PESA  hinges  crucially  on  the effective  functioning  of  the  Gram  Sabha.  Today, even  in  tribal  areas,  there  is  no  automaticity  to  the functioning of the Gram Sabha and there is a large measure of exclusion of women. With growing socio-economic  differentiation  within  and  across  Adivasi communities, there is also exclusion of those who are poorer or whose voice is weaker. To ensure that Gram Sabhas  actually  meet  and  become  a  vibrant  fora  of participatory  democracy,  as  visualised  under  PESA, there  is  a  need  to  facilitate  this  process  by  giving energy to it. This requires a dedicated cadre of social mobilisers at each GP level, specifically assigned with the task of mobilising the Gram Sabha and ensuring the effective participation of the marginalised, as also spreading  greater  awareness  of  laws  such  as  PESA
 
 and Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act and key flagship programmes of the government.
 
@@ -8874,7 +8437,7 @@ There  is  also  need  to  facilitate  creation  of institutional  mechanisms  o
 
 Social Inclusion 237
 
-implementation of the Community Forest Rights (CFR) aspect of the FRA has been very poor in all states and therefore its potential to achieve livelihood security for collection of minor forest products and changes in forest governance along with strengthening of forest conservation, has hardly been achieved as indicated below.
+implementation  of  the  Community  Forest  Rights (CFR) aspect of the FRA has been very poor in all states and therefore its potential to achieve livelihood security for collection of minor forest products and changes in forest governance along with strengthening of forest conservation, has hardly been achieved as indicated below.
 
 ##### Individual Titles
 
@@ -8900,7 +8463,7 @@ implementation of the Community Forest Rights (CFR) aspect of the FRA has been v
 
 238 Twelfth Five Year Plan
 
-inadequate and inappropriate rehabilitation. Even according to Government estimates only 29 per cent of the affected have been rehabilitated leaving almost 13.2 million people uprooted from their homes (Roy 1994). All that the displaced persons are left with is their labour—most often unskilled and are therefore desperate for whatever work comes their way for survival. In addition, displacement of tribals from their land amounts to violation of the Fifth Schedule of the Constitution as it deprives them of the control and ownership of natural resources and land essential for their way of life.
+inadequate and inappropriate rehabilitation. Even according to Government estimates only 29 per cent of the affected have been rehabilitated leaving almost 13.2 million people uprooted from their homes (Roy 1994). All that the displaced persons are left with is their labour—most often unskilled and are therefore desperate  for  whatever  work  comes  their  way  for survival.  In  addition,  displacement  of  tribals  from their land amounts to violation of the Fifth Schedule of the Constitution as it deprives them of the control and ownership of natural resources and land essential for their way of life.
 
 #### Condition of Tribal Women
 
@@ -8932,7 +8495,7 @@ Social Inclusion
 
 239
 
-Bihar, Jharkhand, Orissa, Chhattisgarh and Andhra Pradesh, leading to the term, 'The Red Corridor'. However, some analysts pertinently argue that the analogy of 'The Speckled Band' more aptly describes the Maoists' area of influence, given they have control over some selected forested pockets in the districts stretching across the heart of central India. This includes the epicentre of the banned party's base in the Dandakaranya region, a vast forested area on the borders of Andhra Pradesh, Chhattisgarh and Orissa. While the senior leadership of the party is mostly drawn from non-tribal communities, much of the rank and file comes from local villages and has built on their grievances emanating from the non implementation of PESA.
+Bihar, Jharkhand, Orissa, Chhattisgarh and Andhra Pradesh,  leading  to  the  term,  'The  Red  Corridor'. However,  some  analysts  pertinently  argue  that  the analogy of 'The Speckled Band' more aptly describes the Maoists' area of influence, given they have control  over  some selected forested pockets in the districts  stretching  across  the  heart  of  central  India. This  includes  the  epicentre  of  the  banned  party's base in the Dandakaranya region, a vast forested area on the borders of Andhra Pradesh, Chhattisgarh and Orissa.  While  the  senior  leadership  of  the  party  is mostly  drawn  from  non-tribal  communities,  much of the rank and file comes from local villages and has built  on  their  grievances  emanating  from  the  non implementation of PESA.
 
 ### Scheduled Tribes: Strategy for the Twelfth Plan
 
@@ -9006,7 +8569,7 @@ Social Inclusion
 
 - The  number  of  awards  allotted  to  each  State Government  per  annum  should  be  increased under the scheme of Upgradation of Merit for ST students for improving the capability of the students belonging to STs to enable them to compete more  effectively  for  admission  to  professional colleges/institutions  or  to  overcome  educational deficiencies.
 
-24.100.  In  order  to  promote  education  among  ST girls  and  boys  facilitating  them  to  continue  studies  without  dropping out of school, there is a need to  expand the Scheme for Hostels for ST Girls and Boys, especially focusing the deficit areas across the States especially girls hostels. Evaluation studies have pointed out that infrastructure facilities are poor in most of the hostels; maintenance of the buildings is not up to the mark; and construction of hostel buildings is often hampered due to non-receipt of proper/complete  proposals  from  the  States.  Infrastructure facilities and maintenance of the hostels needs constant  improvement. There  is  a  need  to  reduce  the time taken for the construction of hostels from five to two years.
+24.100.  In  order  to  promote  education  among  ST girls  and  boys  facilitating  them  to  continue  studies  without  dropping out of school, there is a need to  expand the Scheme for Hostels for ST Girls and Boys, especially focusing the deficit areas across the States especially girls hostels. Evaluation studies have pointed out that infrastructure facilities are poor in most of the hostels; maintenance of the buildings is not up to the mark; and construction of hostel buildings is often hampered due to non-receipt of proper/ complete  proposals  from  the  States.  Infrastructure facilities and maintenance of the hostels needs constant  improvement. There  is  a  need  to  reduce  the time taken for the construction of hostels from five to two years.
 
 24.101.  Under the Scheme of Ashram Schools in TSP areas, as of now, State Governments are eligible for 100  per  cent  central  share  for  constructions  of  all Girls'  Ashrams  Schools  and  also  for  constructions of Boys' Ashram Schools in naxal affected areas. It is recommended that:
 
@@ -9024,7 +8587,7 @@ Social Inclusion
 
 24.105.  The Tribal Affairs  Ministry  operates  the scheme of Grant-in-aid to Voluntary Organisations (VOs) working for the Welfare of STs, to NGOs for running  10  or  more  bedded  hospitals  and  Mobile dispensaries in Tribal Areas. There is also a need for taking up health programmes/projects in a big way through  Public-Private  Partnership  especially  for running  Primary  Health  Centres  in  remote  tribal areas.
 
-24.106.  Tribals have traditionally depended on their traditional methods of healing/treatment for minor day to day ailments and the major ones too. There is a need for evolving a new strategy of combining the indigenous tribal  medicine  with  other  medical  systems. A systematic effort need to be made to document this traditional tribal knowledge of medicinal/herbal plants, standardising it and recognising it as an independent system of medicine. The local tribals especially the traditional healers can be trained and
+24.106.  Tribals have traditionally depended on their traditional methods of healing/treatment for minor day to day ailments and the major ones too. There is a need for evolving a new strategy of combining the indigenous tribal  medicine  with  other  medical  systems. A systematic effort need to be made to document this traditional tribal knowledge of medicinal/ herbal plants, standardising it and recognising it as an independent system of medicine. The local tribals especially the traditional healers can be trained and
 
 [[END OF PAGE 259]]
 
@@ -9032,7 +8595,7 @@ Social Inclusion
 
 242 Twelfth Five Year Plan
 
-be entrusted with the responsibility of treating the people on remuneration and so on.
+be  entrusted  with  the  responsibility  of  treating  the people on remuneration and so on.
 
 24.107.  To  prevent  the  problem  of  malnutrition, local cereals, along with pulses and oils in adequate quantity should be ensured to the tribal families. In this context, the system of public distribution should be modified appropriately in tribal areas. The management  of  PDS  and  Anganwadi  Centres  should involve  local  tribals,  especially  women  and  ensure that acceptable local food is provided to the children. The  vulnerable  PVTGs  should  be  assured  of  food security by gradually initiating them into agriculture and other income generating activities.
 
@@ -9056,7 +8619,7 @@ be entrusted with the responsibility of treating the people on remuneration and 
 
 #### Land
 
-24.115.  Land is the primary livelihood asset of tribals,  but  over  decades  it  has  been  going  out  of  their possession  because  of  their  ignorance  of  laws  and because  of  deceit,  coercion  and  other  methods  followed by mis-appropriators of tribal land, all in violation of laws, often in collusion with elements in the
+24.115.  Land is the primary livelihood asset of tribals,  but  over  decades  it  has  been  going  out  of  their possession  because  of  their  ignorance  of  laws  and because  of  deceit,  coercion  and  other  methods  followed by mis-appropriators of tribal land, all in violation of laws, often in collusion with elements in the official machinery and elements in the political leadership  of  State  Governments.  The  nodal  Ministry needs to take necessary steps to ensure proper implementation of land alienation laws. Uncultivable land of tribals should be made cultivable under the affirmative action of MGNREGA. Irrigation is a critical input for higher productivity and higher production. Small and not-so-small irrigation projects (avoiding large projects) are required in tribal areas. Five Year Plans should be drawn up (some may exist already) for comprehensive irrigation and implementation in a staggered fashion. The irrigation schemes will not only increase agricultural productivity but also provide employment to tribal men and women. Efforts should  be  directed  towards  the  hitherto  neglected large tracts of agriculturally unexploited tribal areas keeping  in  view  the  advantages  and  merits  of  the indigenous  seeds,  practices  and  traditional  techniques and methods.
 
 [[END OF PAGE 260]]
 
@@ -9065,8 +8628,6 @@ be entrusted with the responsibility of treating the people on remuneration and 
 Social Inclusion
 
 243
-
-official machinery and elements in the political leadership of State Governments. The nodal Ministry needs to take necessary steps to ensure proper implementation of land alienation laws. Uncultivable land of tribals should be made cultivable under the affirmative action of MGNREGA. Irrigation is a critical input for higher productivity and higher production. Small and not-so-small irrigation projects (avoiding large projects) are required in tribal areas. Five Year Plans should be drawn up (some may exist already) for comprehensive irrigation and implementation in a staggered fashion. The irrigation schemes will not only increase agricultural productivity but also provide employment to tribal men and women. Efforts should be directed towards the hitherto neglected large tracts of agriculturally unexploited tribal areas keeping in view the advantages and merits of the indigenous seeds, practices and traditional techniques and methods.
 
 24.116.  A crash programme for providing land to the landless tribals should be undertaken. Convergence among various subsidy and loan schemes of central and state governments for STs should be ensured, so that both subsidy and low interest loans are available to STs especially their women.
 
@@ -9116,11 +8677,11 @@ Social Inclusion
 
 245
 
-through composite income generating programmes. Such family oriented programmes are expected to cover all major occupational groups amongst Scheduled Castes such as agricultural labourers, small and marginal farmers, share croppers, fishermen, sweepers and scavengers, urban unorganised labourers below the poverty line, and so on. In addition, the Special Component Plan seeks to improve the living conditions of Scheduled Castes through provision of drinking water supply, link roads, house-sites and housing improvements, establishment of such services as primary schools, health centres, veterinary centres, panchayat ghars, community halls, nutrition centres, extension of electricity, common work places, common facility centres, and so on.
+through composite income generating programmes. Such  family  oriented  programmes  are  expected  to cover all major occupational groups amongst Scheduled  Castes  such  as  agricultural  labourers,  small and  marginal  farmers,  share  croppers,  fishermen, sweepers and scavengers, urban unorganised labourers below the poverty line, and so on. In addition, the Special Component Plan seeks to improve the living conditions of Scheduled Castes through provision of drinking  water  supply,  link  roads,  house-sites  and housing  improvements,  establishment  of  such  services  as  primary  schools,  health  centres,  veterinary centres,  panchayat  ghars,  community  halls,  nutrition centres, extension of electricity, common work places, common facility centres, and so on.
 
 ### Tribal Sub-Plan (TSP)
 
-24.126.  The  prime  object  of  the  Tribal  Sub  Plan  is development of tribal areas. The TSP concept, thus, aims  on  one  hand,  at  the  quantification  of  investment in the Sub-Plan areas commensurate with its size and on the other, at an all-round development of the tribal communities, in accordance with their needs.  Keeping  in  view  the  distinct  tribal  situation,  the  TSP  has  set  the  twin  objectives:  ( i )  socioeconomic development of STs; and ( ii ) protection of tribals  against  exploitation.  Through  realisation  of these objectives, the ultimate aim of the TSP strategy is to narrow the development gap of the tribals with the rest of the country.
+24.126.  The  prime  object  of  the  Tribal  Sub  Plan  is development of tribal areas. The TSP concept, thus, aims  on  one  hand,  at  the  quantification  of  investment in the Sub-Plan areas commensurate with its size and on the other, at an all-round development of the tribal communities, in accordance with their needs.  Keeping  in  view  the  distinct  tribal  situation,  the  TSP  has  set  the  twin  objectives:  ( i )  socio-economic development of STs; and ( ii ) protection of tribals  against  exploitation.  Through  realisation  of these objectives, the ultimate aim of the TSP strategy is to narrow the development gap of the tribals with the rest of the country.
 
 24.127.  The  development  of  tribal  economy  under TSP is envisaged through sectoral efforts including ( i )  Agriculture  and  allied  activities,  through  provision of minor and medium irrigation facilities supplemented  by  programmes  for  animal  husbandry, dairying,  poultry,  and  so  on;  ( ii )  improvised  credit and  marketing  facilities  so  as  to  ensure  adequate return of the produce of the tribals in respect of agriculture and minor forest products; ( iii ) special training  programmes  for  tribal  farmers  for  agricultural extension supported by the provision of agricultural infrastructure;  ( iv )  preparing  suitable  forestry  programmes  ensuring  tribals'  participation  as  equal partners; ( v ) promoting agricultural production through  improved  method  of  cultivation  and  rural electrification to promote small scale industry.
 
@@ -9148,7 +8709,7 @@ ii) (a) On the basis of percentage of SC families in the States/UTs coverage by 
 
 (b) On the basis of the percentage of SCP to the Annual Plan as compared to the SC population percentage in the States/UTs: 25 per cent
 
-24.131.  SCA  to  SCSP  which  made  a  modest  beginning  with  a  token  provision  of ` 5.00  crores  in 1979-80  has  been  expanded  to  enhance  its  allocation to ` 2,805.00 crore in the Eleventh Plan. As per the available information, nearly 64 lakh SC families were provided with assistance to pursue viable economic  activities  and  cross  the  poverty  line  during the first four years of the Eleventh Plan (2007-08 to 2011-12). At present, SCA is released to 27 States/ UTs.
+24.131.  SCA  to  SCSP  which  made  a  modest  beginning  with  a  token  provision  of ` 5.00  crores  in 1979-80  has  been  expanded  to  enhance  its  allocation to ` 2,805.00 crore in the Eleventh Plan. As per the available information, nearly 64 lakh SC families were provided with assistance to pursue viable economic  activities  and  cross  the  poverty  line  during the first four years of the Eleventh Plan (2007-08 to 2011-12). At present, SCA is released to 27 States/UTs.
 
 24.132.  The Special Central Assistance (SCA) to TSP is  extended  to  States/UTs  as  an  additive  to  supplement and fill the gaps in their Plan outlay. It is also meant  for  the  family-oriented  income  generating schemes  in  the  sectors  of  agriculture,  horticulture, minor  irrigation, soil conservation,  animal  husbandry, forestry, education, cooperation, fisheries,  village  and  small  scale  industries  as  well  as  the Minimum Needs Programme and so on.
 
@@ -9192,7 +8753,7 @@ Social Inclusion
 
 24.141.  In keeping with the objective of more inclusive  growth,  steps  will  be  taken  to  reform  the Scheduled Caste Sub-Plan (SCSP) and the Scheduled Tribe Sub-Plan (TSP). These Plans have the potential  to  become  effective  mechanisms  in  closing  the development  gap  between  the  Scheduled  Castes, Scheduled  Tribes  and  other  sections  of  the  society. Towards this goal, the Twelfth Plan proposes a set  of  key  implementation  measures  to  strengthen the SCSP/TSP planning process. These include earmarking of SCSP/TSP funds from the total plan outlays  well  in  advance  of  the  commencement  of  the financial  year,  preparation  of  pro-active  planning documents as Sub-Plans, an appraisal and approval mechanism for the Sub-Plans so formulated, and a robust  mechanism  for  monitoring  and  evaluation of  outcomes.  An  Institutional  framework  to  effectively implement these changes will be set up in the Planning Commission. At the State level, there will be an apex body headed by the Chief Minister and designated  Nodal  Department,  which  will  appraise the SC/ST Sub-Plan for the State.
 
-24.142.  The  efforts  made  in  pursuance  of  the  Task Force recommendations have finally brought about some visible changes in the formulation and implementation of SCSP and TSP. Evidently, for the first time in 2011-12, 25 and 28 Central Ministries and Departments  have  categorically  earmarked  funds under  SCSP  and  TSP,  respectively.  Having  made  a beginning in the Annual Plan 2011-12, there is need to further consolidate and improve upon the implementation of SCSP and TSP across sectors, ensuring not only optimal earmarking of funds under SCSP/ TSP as per the guidelines, but also utilising the same in achieving the outcomes in measurable terms. The Ministries  of  Social  Justice  and  Empowerment  and Tribal Affairs need to spearhead the task of formulation,  implementation and monitoring of SCSP/TSP as nodal coordinating agencies.
+24.142.  The  efforts  made  in  pursuance  of  the  Task Force recommendations have finally brought about some visible changes in the formulation and implementation of SCSP and TSP. Evidently, for the first time in 2011-12, 25 and 28 Central Ministries and Departments  have  categorically  earmarked  funds under  SCSP  and  TSP,  respectively.  Having  made  a beginning in the Annual Plan 2011-12, there is need to further consolidate and improve upon the implementation of SCSP and TSP across sectors, ensuring not only optimal earmarking of funds under SCSP/TSP as per the guidelines, but also utilising the same in achieving the outcomes in measurable terms. The Ministries  of  Social  Justice  and  Empowerment  and Tribal Affairs need to spearhead the task of formulation,  implementation and monitoring of SCSP/TSP as nodal coordinating agencies.
 
 [[END OF PAGE 265]]
 
@@ -9342,10 +8903,21 @@ Twelfth Five Year Plan
 
 24.166.  As  per  Table  24.10,  49.1  per  cent  Muslims, 52.8 per cent Christians and 47.3 per cent Sikhs are employed  as  'other  workers'.  The  'other  workers' category  includes  workers  in  service,  manufacturing,  trade  and  commerce  and  allied  activities.  The NSSO in their 61st Round of survey found that more than half of the workers in the rural areas were self-employed, the proportion being the highest among the  Muslim  workers  both  Males  (60  per  cent)  and females  (75  per  cent).  Since  a  large  section  of  the Muslim, Christian and Sikhs workers are engaged in other workers category, skill development and credit related initiatives need to be tailored for the economically weak among these religious minorities.
 
+24.167.  According  to  the  High  Level  Committee  to Examine the Socio-Economic and Educational Status of the Muslim Community in India, the participation of Muslims in salaried jobs is low at only 13 per cent. In urban areas, less than 8 per cent are employed in the formal sector against a national average of 21 per cent. More than 12 per cent of Muslim male workers  are  engaged  in  street  vending  as  compared  to the national average of less than 8 per cent. Muslim workers  are  also  found  to  be  in  a  majority  in  the industrial  sectors  of  tobacco  (41  per  cent),  wearing apparel (30 per cent) and textiles (21 per cent). The figures indicate that Muslim workers are largely concentrated  in  the  informal  sector  which  is  characterised by low wages, bad working conditions and little or no social security. Hence, at the macro level, policy  focus  on  improving  the  lot  of  the  economically weaker and socially marginalised sections in the unorganised workforce must be increased in order to bring in employment related dividends for Muslim workers. In the Twelfth Plan, specific interventions would need to be devised for up-gradation of skills and educational level of these workers to equip them for  employment  in  the  organised  sector.  To  this effect, the Jan Shikshan Sansthan scheme of MHRD could  be  used  in  providing  vocational  training  to illiterate, neo literate youth in MCDs.
+
+### Challenges for the Empowerment of Minorities
+
+24.168.  As  stated  earlier  the  eleventh  Plan  was  the first  plan  to  introduce  a  number of schemes aimed at improving the conditions of the minorities. These are listed in Box 24.1. In spite of considerable efforts made towards raising  the  socio-economic  status  of Minorities,  many  challenges  remain  which  need  to be addressed during the Twelfth Plan so that the lot of minorities can be improved in a time bound and effective manner.
+
+#### Institutional Challenges
+
+24.169.  A  programme  is  as  good  or  as  bad  as  its implementation and the quality of implementation is largely dependent on the institution implementing the programme/scheme. The Twelfth Plan should therefore  consider  systemic  modifications  to  the  existing system,  which  include  participation  of  communities in planning and monitoring and the appointment of government 'facilitators' to improve access.
+
 TABLE 24.10
 Percentage Distribution of Workers by Category
 
-Name of Religion | Cultivators | Agricultural Labourers | Household Industry | Other Workers
+Name of Religion | Percentage to Total Workers
+ | Cultivators | Agricultural Labourers | Household Industry | Other Workers
 --- | --- | --- | --- | ---
 Hindus | 33.1 | 27.6 | 3.8 | 35.5
 Muslims | 20.7 | 22.0 | 8.7 | 49.1
@@ -9357,16 +8929,6 @@ India | 31.7 | 26.5 | 4.2 | 37.6
 
 Source: Census 2001.
 
-24.167.  According  to  the  High  Level  Committee  to Examine the Socio-Economic and Educational Status of the Muslim Community in India, the participation of Muslims in salaried jobs is low at only 13 per cent. In urban areas, less than 8 per cent are employed in the formal sector against a national average of 21 per cent. More than 12 per cent of Muslim male workers  are  engaged  in  street  vending  as  compared  to the national average of less than 8 per cent. Muslim workers  are  also  found  to  be  in  a  majority  in  the industrial  sectors  of  tobacco  (41  per  cent),  wearing apparel (30 per cent) and textiles (21 per cent). The figures indicate that Muslim workers are largely concentrated  in  the  informal  sector  which  is  characterised by low wages, bad working conditions and little or no social security. Hence, at the macro level, policy  focus  on  improving  the  lot  of  the  economically weaker and socially marginalised sections in the unorganised workforce must be increased in order to bring in employment related dividends for Muslim workers. In the Twelfth Plan, specific interventions would need to be devised for up-gradation of skills and educational level of these workers to equip them for  employment  in  the  organised  sector.  To  this effect, the Jan Shikshan Sansthan scheme of MHRD could  be  used  in  providing  vocational  training  to illiterate, neo literate youth in MCDs.
-
-### Challenges for the Empowerment of Minorities
-
-24.168.  As  stated  earlier  the  eleventh  Plan  was  the first  plan  to  introduce  a  number of schemes aimed at improving the conditions of the minorities. These are listed in Box 24.1. In spite of considerable efforts made towards raising  the  socio-economic  status  of Minorities,  many  challenges  remain  which  need  to be addressed during the Twelfth Plan so that the lot of minorities can be improved in a time bound and effective manner.
-
-#### Institutional Challenges
-
-24.169.  A  programme  is  as  good  or  as  bad  as  its implementation and the quality of implementation is largely dependent on the institution implementing the programme/scheme. The Twelfth Plan should therefore  consider  systemic  modifications  to  the  existing system,  which  include  participation  of  communities in planning and monitoring and the appointment of government 'facilitators' to improve access.
-
 [[END OF PAGE 270]]
 
 [[START OF PAGE 271]]
@@ -9374,6 +8936,12 @@ Source: Census 2001.
 Social Inclusion
 
 253
+
+24.170.  As in the case of other disadvantaged communities a three-pronged strategy is needed, which will focus on ( i ) social empowerment; ( ii ) economic empowerment; and ( iii ) social justice.
+
+#### Educational Empowerment
+
+24.171.  Non-availability  of  adequate  resources  and poor  implementation  has  meant  that  scholarships are not provided to all eligible minority students. It is therefore imperative to ensure that financial allocations are made so that all eligible minority students are ensured much  needed  scholarships without any denial or deprivation. All the procedures starting from the application stage to award of scholarships, regular payment of scholarships and renewal of scholarships must be simplified so that award of scholarships to eligible students becomes automatic and  hurdle-free.  Assured  payment  of  scholarships in time should be ensured through opening of Bank or  Post  Office  accounts  in  the  name  of  the  awardees. Representatives of civil society, where required, should be encouraged to act as facilitators.
 
 ###### Box 24.1 Eleventh Five Year Plan Schemes
 
@@ -9383,7 +8951,7 @@ Social Inclusion
 
 - Pre-matric Scholarship Scheme was launched in the year 2008-09, the second year of the Eleventh Five Year Plan. The scheme provides scholarships to minority students studying in Class I to X.
 
-- Post-matric Scholarship Scheme was launched in the year 2007-08.The scheme covers minority students from Class XI right upto PhD level.
+- Post-matric Scholarship Scheme was launched in the year 2007-08. The scheme covers minority students from Class XI right upto PhD level.
 
 - Merit-cum-Means Based Scholarship Scheme was launched in the year 2007-08. The scheme covers students pursuing technical and professional courses at the UG and PG level.
 
@@ -9400,12 +8968,6 @@ Social Inclusion
 - Scheme of Grants-in-aid for strengthening the infrastructure of SCAs of NMDFC aims to make SCAs a more effective instrument.
 
 - Scheme for the Computerization of Records of the State/UT Wakf Boards was introduced in order to streamline record keeping, introduce transparency, computerize the various functions/processes of the Waqf Boards and develop a single web based centralized application. The Joint Parliamentary Committee (JPC) on Waqf, in its Ninth Report submitted to Parliament on 23 October 2008, recommended computerization of the records of the State Waqf Boards with Central financial assistance. The scheme was implemented with effect from December, 2009.
-
-24.170.  As in the case of other disadvantaged communities a three-pronged strategy is needed, which will focus on ( i ) social empowerment; ( ii ) economic empowerment; and ( iii ) social justice.
-
-#### Educational Empowerment
-
-24.171.  Non-availability  of  adequate  resources  and poor  implementation  has  meant  that  scholarships are not provided to all eligible minority students. It is therefore imperative to ensure that financial allocations are made so that all eligible minority students are ensured much  needed  scholarships without any denial or deprivation. All the procedures starting from the application stage to award of scholarships, regular payment of scholarships and renewal of scholarships must be simplified so that award of scholarships to eligible students becomes automatic and  hurdle-free.  Assured  payment  of  scholarships in time should be ensured through opening of Bank or  Post  Office  accounts  in  the  name  of  the  awardees. Representatives of civil society, where required, should be encouraged to act as facilitators.
 
 [[END OF PAGE 271]]
 
@@ -9455,6 +9017,12 @@ weaker and socially marginalised groups, should be increased to be at par with t
 
 - There should be 100 per cent financial inclusion, including access to sources of formal credit and finance for all eligible persons belonging to religious minorities.
 
+#### Prime Minister's 15 Point Programme
+
+24.178.  At present, a limited number of schemes are included  in  the  15  Point  Programme.  The  Twelfth Plan proposes inclusion of additional schemes from the  Ministries  of  Small  and  Medium  Industries, Youth Affairs,  Agriculture  and  Rural  Development (especially MGNREGA). Further, in order to ensure adequate  funds  and  benefits  reach  the  minorities, the  existing  guidelines  of  earmarking  '15  per  cent of funds wherever possible' should be revised to '15 per cent and above' in proportion to the size of the minority  population.  This  would  facilitate  coverage  of  all  minority  concentrated  areas  under  the Prime Minister's Programme, which were otherwise excluded.
+
+24.179.  All  achievements  under  15  PP  will  be  disaggregated to enable monitoring and to ensure that minority settlements and beneficiaries gain directly. Monitoring  guidelines  will  be  suitably  revised  to ensure ground level impact-based monitoring rather than  monitoring  of  physical  and  financial  outlays. Annual targets and/outlays of 15 PP of the Central Ministries  should  be  broken  down  to  the  natural settlement/hamlet/ward level, which should become the basis for reporting achievements. The Vigilance and Monitoring Committees at the Districts and the State  level  should  have  members  from  the  minority  communities  to  oversee  effective  implementation  of  the  schemes/programmes  meant  for  their
+
 ###### Box 24.2 Vision for the Twelfth Five Year Plan
 
 The vision for the Twelfth plan consists of a series of bold and creative measures that build upon, but also go beyond the achievements of the Eleventh plan.
@@ -9471,12 +9039,6 @@ FOCUS ON SKILL BUILDING FOR EMPLOYABILITY : Develop skills to generate employabi
 
 INITIATE PILOT SCHEMES FOR MINORITIES : Recognising that we need to constantly learn and innovate to respond to  the  changing  needs  of  minorities  in  the  context  of  the  changing  landscape  of  the  country,  the  Twelfth  plan  should institutionalise a 'hub of innovation', through restructuring the Maulana Azad Education Foundation, wherein a range of experiments in educational and livelihood initiatives (including artisans) among minorities can be undertaken. Civil society engagement with Muslims should be revived urgently through grants-in-aid mechanisms.
 
-#### Prime Minister's 15 Point Programme
-
-24.178.  At present, a limited number of schemes are included  in  the  15  Point  Programme.  The  Twelfth Plan proposes inclusion of additional schemes from the  Ministries  of  Small  and  Medium  Industries, Youth Affairs,  Agriculture  and  Rural  Development (especially MGNREGA). Further, in order to ensure adequate  funds  and  benefits  reach  the  minorities, the  existing  guidelines  of  earmarking  '15  per  cent of funds wherever possible' should be revised to '15 per cent and above' in proportion to the size of the minority  population.  This  would  facilitate  coverage  of  all  minority  concentrated  areas  under  the Prime Minister's Programme, which were otherwise excluded.
-
-24.179.  All  achievements  under  15  PP  will  be  disaggregated to enable monitoring and to ensure that minority settlements and beneficiaries gain directly. Monitoring  guidelines  will  be  suitably  revised  to ensure ground level impact-based monitoring rather than  monitoring  of  physical  and  financial  outlays. Annual targets and/outlays of 15 PP of the Central Ministries  should  be  broken  down  to  the  natural settlement/hamlet/ward level, which should become the basis for reporting achievements. The Vigilance and Monitoring Committees at the Districts and the State  level  should  have  members  from  the  minority  communities  to  oversee  effective  implementation  of  the  schemes/programmes  meant  for  their
-
 [[END OF PAGE 273]]
 
 [[START OF PAGE 274]]
@@ -9485,7 +9047,7 @@ Twelfth Five Year Plan
 
 256
 
-benefit  and  provide  the  much  needed  feedback on  the  implementation  of  these  programmes.  To improve the methodology of impact evaluation, data disaggregated  for  SRCs  should  be  generated  across line Ministries under the PM's 15 PP. This will help evaluate the benefits accrued by individuals/families/communities across different sectors. See Box 24.3.
+benefit  and  provide  the  much  needed  feedback on  the  implementation  of  these  programmes.  To improve the methodology of impact evaluation, data disaggregated  for  SRCs  should  be  generated  across line Ministries under the PM's 15 PP. This will help evaluate the benefits accrued by individuals/families/ communities across different sectors. See Box 24.3.
 
 #### Multi-sectoral Development Programme (MsDP)
 
@@ -9543,7 +9105,7 @@ Twelfth Five Year Plan
 
 ##### Institutional Changes:
 
-###### Strengthened Systems at the Centre and State levels
+###### 1. Strengthened Systems at the Centre and State levels
 
 (a)  The  Twelfth  Plan  proposes  the  immediate  augmentation  and  restructuring  of  the Ministry of Minority Affairs to address the current  human  resource  shortages  that  are faced by the Ministry.
 
@@ -9553,7 +9115,7 @@ Twelfth Five Year Plan
 
 ###### 2. Structure of implementation of MsDP
 
-In order to cut down  delay and establish accountability,  the  plan  and  implementation  of MsDP schemes will be delegated to local authorities through the states. MoMA will perform the role  of  overall  management  and  monitoring  of the Programme. This will ensure direct accountability of the major stakeholders.
+In order to cut down delay and establish accountability, the plan and implementation of MsDP schemes will be delegated to local authorities through the states. MoMA will perform the
 
 [[END OF PAGE 276]]
 
@@ -9562,6 +9124,8 @@ In order to cut down  delay and establish accountability,  the  plan  and  imple
 Social Inclusion
 
 259
+
+role of overall management and monitoring of the Programme. This will ensure direct accountability of the major stakeholders.
 
 ###### 3. Skill Development
 
@@ -9579,7 +9143,7 @@ The  goal  will  be  for  all  eligible  minority  students to be covered under 
 
 The Maulana Azad Education Foundation (MAEF)  needs  to  be  comprehensively  restructured. An evaluation study of the Maulana Azad Education Foundation (MAEF) was carried out  by  the  Indian  Social  Institute,  New  Delhi in 2010. The findings of the study revealed that the  Foundation  was  performing  a  good  role  in promoting  education  among  the  educationally backward minorities. However, in order to give further impetus to the functioning of the MAEF, there  is  a  felt  need  for  institutional  restructuring of the MAEF, transforming the Foundation from  its  current  charity/welfare  mode  towards empowering practices.  The  objective  should  be to turn MAEF into an independent hub of excellence for incubating innovations, pilots that may be up-scaled and dissemination of best practices for  minority  empowerment, cutting across sectors and schemes within the broad framework of ending  social  exclusion,  promoting  integration and citizenship rights.
 
-24.191.  The MAEF may undertake these pilot initiatives  through  grant-in-aid  mechanisms  in  a  broad range  of  educational  arenas  such  as  community based  education,  innovations  in  skill-based  education, training to artisans with backward and forward linkages  into  new  markets,  training  for  empowerment  of  women  and  youth,  equipping  technical institutes  with  adequate  equipment  and  infrastructure,  remedial  school  support  for  children  of  firstgeneration learners, capacity building for good governance, education for civic empowerment, education for advocacy and so on. Institutional restructuring  of  this  kind  will  require  developing  a  blue print of changes in governance, including structures and processes of decision  making and in the management for implementing these decisions; including the creation of a new organisational structure, roles and positions, criteria for the allocation of resources to various activities, the allotment of tasks to various units and regular performance evaluation.
+24.191. The MAEF may undertake these pilot initiatives through grant-in-aid mechanisms in a broad range of educational arenas such as community based education, innovations in skill-based education, training to artisans with backward and forward linkages into new markets, training for empowerment of women and youth, equipping technical institutes with adequate equipment and infrastructure, remedial school support for children of first-generation learners, capacity building for good governance, education for civic empowerment, education for advocacy and so on. Institutional restructuring of this kind will require developing a blue print of changes in governance, including structures and processes of decision making and in the management for implementing these decisions; including the creation of a new organisational structure, roles and positions, criteria for the allocation of resources to various activities, the allotment of tasks to various units and regular performance evaluation.
 
 [[END OF PAGE 277]]
 
@@ -9629,7 +9193,7 @@ minorities, should be conducted as part of the Mid-Term Appraisal of the Twelfth
 
 ###### 10.    The Assessment and Monitoring Authority
 
-The Assessment and Monitoring Authority was set  up  following  the  recommendations  of  the Sachar Committee and anchored in the Planning Commission.  This  Authority  needs  to  evaluate  the  extent  of  development  benefits,  which accrue to different Socio-Religious Communities (SRCs),  through  various  programmes  and  perform a watch-dog function to closely monitor the participation of SRCs in programmes at all levels of governance, namely the Rural and Urban local bodies, Districts, States and the Centre. The Assessment  and  Monitoring  Authority  (AMA) also  needs  to  institutionalise  the  mechanisms for  assessment  and  monitoring  at  all  levels, through effective generation and analysis of data and commissioning of qualitative and quantitative studies. The Authority needs to be given the requisite  power  and  resources  to  monitor  that necessary priority is accorded to different socioreligious communities-particularly minority  communities-in  policies,  programmes  and capacity  development  interventions.  This  will also enable effective implementation of the monitoring interventions recommended above.
+The Assessment and Monitoring Authority was set up following the recommendations of the Sachar Committee and anchored in the Planning Commission. This Authority needs to evaluate the extent of development benefits, which accrue to different Socio-Religious Communities (SRCs), through various programmes and perform a watch-dog function to closely monitor the participation of SRCs in programmes at all levels of governance, namely the Rural and Urban local bodies, Districts, States and the Centre. The Assessment and Monitoring Authority (AMA) also needs to institutionalise the mechanisms for assessment and monitoring at all levels, through effective generation and analysis of data and commissioning of qualitative and quantitative studies. The Authority needs to be given the requisite power and resources to monitor that necessary priority is accorded to different socio-religious communities—particularly minority communities—in policies, programmes and capacity development interventions. This will also enable effective implementation of the monitoring interventions recommended above.
 
 ### New Schemes for the Twelfth Five Year Plan
 
@@ -9649,7 +9213,7 @@ The Assessment and Monitoring Authority was set  up  following  the  recommendat
 
 #### 4.   Pilot Scheme for Urban Youth Support Lines
 
-24.196.  There is an urgent need for intervention that helps the Youth belonging to minorities in building their human, cultural and social capital. This can best be done by leveraging technology for the rebuilding of  social  and  institutional  networks  and  linkages, creating  space  for  dialogue  between  community and  state  actors  and  recognising  and  overcoming trauma/psychosocial concerns. This intervention will  specifically  include  information  dissemination on career counseling and employment opportunities to youth from poor and working class backgrounds. A pilot scheme will be introduced using a 'hub and spoke'  hybrid  technology  model  with  an  Urban Youth Support-line (UYSL) as the hub, supported by community outreach nodes that serve as spokes. The services that will be provided by the proposed UYSL include career guidance (education, vocational training),  access  to  Government  Schemes/Programmes, placement services, facilitation for certification, institutional  linkages  (financial  and  so  on),  general counseling (women's issues, health issues, legal issues,  identity,  security)  and  location  based  outreach  services  in  co-ordination  with  NGOs/CBOs/ Ward Offices.
+24.196. There is an urgent need for intervention that helps the Youth belonging to minorities in building their human, cultural and social capital. This can best
 
 [[END OF PAGE 279]]
 
@@ -9658,6 +9222,8 @@ The Assessment and Monitoring Authority was set  up  following  the  recommendat
 262
 
 Twelfth Five Year Plan
+
+be done by leveraging technology for the rebuilding of social and institutional networks and linkages, creating space for dialogue between community and state actors and recognising and overcoming trauma/psychosocial concerns. This intervention will specifically include information dissemination on career counseling and employment opportunities to youth from poor and working class backgrounds. A pilot scheme will be introduced using a 'hub and spoke' hybrid technology model with an Urban Youth Support-line (UYSL) as the hub, supported by community outreach nodes that serve as spokes. The services that will be provided by the proposed UYSL include career guidance (education, vocational training), access to Government Schemes/Programmes, placement services, facilitation for certification, institutional linkages (financial and so on), general counseling (women's issues, health issues, legal issues, identity, security) and location based outreach services in co-ordination with NGOs/CBOs/Ward Offices.
 
 #### 5.   Scheme for Protection and Projection of Minority Culture and Heritage
 
@@ -9677,7 +9243,7 @@ Twelfth Five Year Plan
 
 #### An Overview
 
-24.201.  About  2.11  per  cent  of  the  population  as per 2001 census comprises of persons with disabilities  having  one  or  multiple  disability.  Though  the number is small, the need of these members of our society  deserves  special  attention.  Disabilities  present probabilistic outcomes which can affect anyone and  it  is  appropriate  that  society  does  whatever  it can to assist this segment to play a full part in society.  There  was  a  paradigm  shift  in  policy  towards Persons with Disabilities since the Ninth Five Year Plan,  from  the  earlier  welfare  based  approach  to  a rights-based  approach.  The  Tenth  Five  Year  Plan focused on effective implementation of various provisions of legislation and National Policy for Persons with  Disabilities.  It  advocated  a  multi-sectoral  and multi-collaborative approach. The  Eleventh Five Year Plan (2007-12) had aimed at inclusive growth. It was expected to achieve inclusiveness through significant improvements in literacy/education, health, greater employment opportunities and sharper focus on disadvantaged groups. The Eleventh Plan emphasised  upon  the  rights-based  approach  to  empower the PwDs inter alia through: ( i ) delineating clear cut responsibility  between  the  concerned  Ministries/ Departments;  ( ii )  formulating  detailed  rules  and guidelines by concerned  Ministries/Departments; and ( iii ) monitoring mechanism at various levels. A new Department, namely Department of Disability Affairs  has  been  set  up  in  the  Ministry  of  Social Justice and Empowerment on Twelfth May, 2012 to act  as  the  nodal  Department  for  the  overall  policy, planning and coordination of programmes for persons with disabilities.
+24.201. About 2.11 per cent of the population as per 2001 census comprises of persons with disabilities having one or multiple disability. Though the number is small, the need of these members of our society deserves special attention. Disabilities present probabilistic outcomes which can affect anyone
 
 [[END OF PAGE 280]]
 
@@ -9687,11 +9253,13 @@ Social Inclusion
 
 263
 
+and it is appropriate that society does whatever it can to assist this segment to play a full part in society. There was a paradigm shift in policy towards Persons with Disabilities since the Ninth Five Year Plan, from the earlier welfare based approach to a rights-based approach. The Tenth Five Year Plan focused on effective implementation of various provisions of legislation and National Policy for Persons with Disabilities. It advocated a multi-sectoral and multi-collaborative approach. The Eleventh Five Year Plan (2007–12) had aimed at inclusive growth. It was expected to achieve inclusiveness through significant improvements in literacy/education, health, greater employment opportunities and sharper focus on disadvantaged groups. The Eleventh Plan emphasised upon the rights-based approach to empower the PwDs inter alia through: (i) delineating clear cut responsibility between the concerned Ministries/Departments; (ii) formulating detailed rules and guidelines by concerned Ministries/Departments; and (iii) monitoring mechanism at various levels. A new Department, namely Department of Disability Affairs has been set up in the Ministry of Social Justice and Empowerment on Twelfth May, 2012 to act as the nodal Department for the overall policy, planning and coordination of programmes for persons with disabilities.
+
 24.202.  In  consonance with the policy of providing a  complete  package  of  services  and  to  deal  effectively  with  the  multi-dimensional  problems  of  the disabled  population,  the  Ministry  of  Social  Justice and Empowerment has been implementing a variety of  programmes  for  their  treatment,  rehabilitation, empowerment and development. The seven National Institutes viz., the National Institute for the Visually Handicapped,  Dehradun  (1979);  National  Institute for the Orthopedically Handicapped, Kolkata (1978); Aliyavur  Jung  National  Institute  for  the  Hearing Handicapped,  Mumbai  (1983);  National  Institute for the Mentally Handicapped, Secundrabad (1984); and National Institute for Multiple Disabilities, Chennai and Swami Vivekanand National Institute of  Rehabilitation,  Training  and  Research,  Cuttack (1984)  and  Pt.  Deen  Dayal  Upadhyaya  Institute for  the  Physically  Handicapped,  New  Delhi  (1960) continued  to  develop  technical  manpower  through full-fledged  courses  in  various  aspects  of  prevention, education, treatment and rehabilitation of the  disabled  and  provide  outreach  and  extension activities  to  needy  areas  such  as  slums,  tribal  belts, semi-urban and rural areas. In addition, a National Centre namely, Indian Sign Language Research and Training Centre has been set up in 2011 to propagate and develop Indian Sign Language.
 
 24.203.  The National Handicapped Finance and Development Corporation (NHFDC) was set up on 24th  January,  1997  as  an  apex  level  body  with  an authorised share capital of ` 400.00 crore. The objective  of  the  Corporation  is  to  promote  economic development  activities  and  self-employment  ventures for the benefit of Persons with Disability. The Corporation has so far released equity contribution by  the  Ministry  as  paid  up  capital  to  the  extent  of ` 161.80 crore. The Corporation extends credit facilities to beneficiaries through channelising agencies in States/UTs. It provides loans at concessional rate for education,  skill  development  and  self-employment ventures to Persons with Disabilities of 40 per cent or more and whose annual income does not exceed ` 5.00 lakh per annum in urban areas and ` 3.00 lakh in rural areas. NHFDC also provided loans to Parents Associations of mentally retarded persons to set up income generating activities. The Eleventh Plan outlay was ` 30.80 crore. However, on the basis of budgetary provisions made on year to year basis, a total of ` 125.00 crore was provided for the scheme in the Eleventh Plan against which the likely expenditure is ` 112.00 crore benefitting 34,461 disabled persons.
 
-24.204.  The Artificial Limbs Manufacturing Corporation  of  India  (ALIMCO)  was  set  up  in  1972.  The authorised  share  capital  and  paid  up  capital  as  on March  31,  2010  were ` 300.00  lakh  and ` 196.50 lakhs respectively, for manufacturing and supplying durable,  sophisticated,  scientifically  manufactured modern and ISI standard quality  assistive  aids  and appliances  that  can  promote  physical,  psychological,  social,  economic  and  vocational  rehabilitation by reducing the effect of disabilities and enhancing potential  for  self-dependence.  ALIMCO  is  the  premier and the largest manufacturer of quality Aids and Appliances  in  entire  South  Asia.  The  Corporation has  been  exporting  its  products  to  Afghanistan, Angola, Bangladesh, Bhutan,  Cambodia,  Ghana, Hong Kong, Israel, Namibia, Nepal, Philippines, Sri Lanka, Tanzania, UAE, Uzbekistan and USA. Besides Govern  ment's  efforts,  NGOs  are  also  contributing towards  physical,  economic  and  social  rehabilitation  of  the  persons  with  disabilities.  Please  refer  to Box 24.4.
+24.204. The Artificial Limbs Manufacturing Corporation of India (ALIMCO) was set up in 1972. The authorised share capital and paid up capital as on March 31, 2010 were ` 300.00 lakh and ` 196.50 lakhs respectively, for manufacturing and supplying durable, sophisticated, scientifically manufactured modern and ISI standard quality assistive aids and appliances that can promote physical, psychological, social, economic and vocational rehabilitation by reducing the effect of disabilities and enhancing potential for self-dependence. ALIMCO is the premier and the largest manufacturer of quality Aids and Appliances in entire South Asia. The Corporation
 
 [[END OF PAGE 281]]
 
@@ -9701,13 +9269,13 @@ Social Inclusion
 
 Twelfth Five Year Plan
 
+has been exporting its products to Afghanistan, Angola, Bangladesh, Bhutan, Cambodia, Ghana, Hong Kong, Israel, Namibia, Nepal, Philippines, Sri Lanka, Tanzania, UAE, Uzbekistan and USA. Besides Government's efforts, NGOs are also contributing towards physical, economic and social rehabilitation of the persons with disabilities. Please refer to Box 24.4.
+
 24.205.  The  scheme  of  setting  up  of  Composite Regional  Centres  (CRCs)  is  a  part  of  overall  strategy to reach out to the PwDs in the country and to facilitate  the  creation  of  the  required  infrastructure and capacity building at Central, State and District levels  and  below  for  awareness  generation,  training  of  rehabilitation  professionals,  service  delivery and so on. At present there are six CRCs functioning  at  Sundernagar,  Srinagar,  Lucknow,  Guwahati, Patna and Bhopal. Another one has been set up at Ahmedabad  (Gujarat)  during  the  year  2010-11, which became functional from 16 August 2011 and one more CRC has been set up at Kozhikode (Kerala) on 17.02.2012. Additional Centres need to be set up at locations where the existing infrastructure for providing  comprehensive services to persons with disabilities  are  inadequate  and  where  such  centres  are needed the most.
 
-The Scheme is a joint venture of the State and Central Government.  The  DDRCs  are  funded  through  the 'Schemes  for  Implementation  of  the  Persons  with Disabilities (Equal Opportunity, Protection of Rights and Full Participation) Act, 1995 for an initial period of 3 years (5 years in case of North Eastern Region, J&K, A&N Islands, Puducherry, Daman & Diu and Dadra & Nagar Haveli) and thereafter  the  funding is made through the Scheme of Deendayal Disabled Rehabilitation  Scheme  (DDRS).  DDRC  guidelines have  been  revised  with  effect  from  April  1,  2010. The revised guidelines include revision of honoraria, recurring  and  non  recurring  items  of  expenditure and so on 199 DDRCs have been sanctioned out of which  181  are  functional  and  are  providing  rehabilitation services to persons with disabilities. 21 new DDRCs have been set up in 2010-11 In the financial year 2011-12, grant amounting to ` 196.28 lakh was released for setting up of 12 new DDRCs at Warangal (Andhra Pradesh), Supaul (Bihar), Sitamarhi (Bihar), West  Champaran  (Bihar),  Sabarkantha  (Gujarat), Banaskantha (Gujarat), Bharatpur (Rajasthan), Bhilwara (Rajasthan) Aligarh (Uttar Pradesh), Bulandshahr  (Uttar  Pradesh),  Bardhaman  (West Bengal), Purulia (West Bengal).
+24.206. The objective of the District Disability Rehabilitation Centres (DDRCs) is to facilitate the creation of infrastructure and capacity building at district level for awareness generation, rehabilitation, training and guiding rehabilitation professionals. The Scheme is a joint venture of the State and Central Government. The DDRCs are funded through the 'Schemes for Implementation of the Persons with Disabilities (Equal Opportunity, Protection of Rights and Full Participation) Act, 1995 for an initial period of 3 years (5 years in case of North Eastern Region, J&K, A&N Islands, Puducherry, Daman & Diu and Dadra & Nagar Haveli) and thereafter the funding is made through the Scheme of Deendayal Disabled Rehabilitation Scheme (DDRS). DDRC guidelines have been revised with effect from April 1, 2010. The revised guidelines include revision of honoraria, recurring and non recurring items of expenditure and so on 199 DDRCs have been sanctioned out of which 181 are functional and are providing rehabilitation services to persons with disabilities. 21 new DDRCs have been set up in 2010-11 In the financial year 2011-12, grant amounting to ` 196.28 lakh was released for setting up of 12 new DDRCs at Warangal (Andhra Pradesh), Supaul (Bihar), Sitamarhi (Bihar), West Champaran (Bihar), Sabarkantha (Gujarat), Banaskantha (Gujarat), Bharatpur (Rajasthan), Bhilwara (Rajasthan) Aligarh (Uttar Pradesh), Bulandshahr (Uttar Pradesh), Bardhaman (West Bengal), Purulia (West Bengal).
 
-24.206.  The objective of the District Disability Rehabilitation  Centres  (DDRCs)  is  to  facilitate  the  creation of infrastructure and  capacity building at district level for awareness generation, rehabilitation, training  and  guiding  rehabilitation  professionals.
-
-24.207.  The main objective of the Scheme of Assistance to persons with disabilities for Purchase/Fitting of  Aids/Appliances  (ADIP)  is  to  provide  grant-inaid  to  the  various  implementing  agencies  (NGOs/ District Disability Rehabilitation Centres/ALIMCO/ State Handicapped Development Corporation/other local bodies) to assist the needy disabled persons in
+24.207. The main objective of the Scheme of Assistance to persons with disabilities for Purchase/Fitting of Aids/Appliances (ADIP) is to provide grant-in-aid to the various implementing agencies (NGOs/District Disability Rehabilitation Centres/ALIMCO/State Handicapped Development Corporation/other local bodies) to assist the needy disabled persons in
 
 ###### Box 24.4 The Jaipur Foot Story
 
@@ -9729,7 +9297,7 @@ procuring  durable,  sophisticated  and  scientifically manufactured,  modern,  
 
 #### Persons with Disabilities: Strategy for the Twelfth Plan
 
-24.210.  Persons  with  Disabilities  continue  to  face discrimination in education, employment, transport and in terms of access to sports, recreation, and so on To counter this, the Twelfth Plan must adopt a twopronged  strategy  incorporating-( i )  service  delivery  and  ( ii )  generation  of  public  awareness  about disability  rights.  In  the  area  of  service  delivery  the challenges  to  be  addressed  include:  making  a  large number of products, public services and information services accessible to PwDs, improving participation and completion rates of students with disabilities at various  stages  of  education  (elementary,  secondary and tertiary), reducing disproportionate incidence of poverty among the persons with disabilities, enhancing  condition  of  nutrition,  health  and  housing  at least  upto  a  reasonable  level,  identifying  exclusive
+24.210. Persons with Disabilities continue to face discrimination in education, employment, transport and in terms of access to sports, recreation, and so on To counter this, the Twelfth Plan must adopt a two-pronged strategy incorporating—(i) service delivery and (ii) generation of public awareness about disability rights. In the area of service delivery the challenges to be addressed include: making a large number of products, public services and information services accessible to PwDs, improving participation and completion rates of students with disabilities at various stages of education (elementary, secondary and tertiary), reducing disproportionate incidence of poverty among the persons with disabilities, enhancing condition of nutrition, health and housing at least upto a reasonable level, identifying exclusive
 
 [[END OF PAGE 283]]
 
@@ -9747,9 +9315,9 @@ implementing  agencies  for  programmes  meant  for persons with disabilities in
 
 24.214.  To  accomplish  the  above  task,  the  Twelfth Plan needs to adopt the strategy of: ( i ) Involvement of  Persons  with  Disabilities  in  evolving  strategies of  the  government  and  involving  organisations  of persons  with  disabilities  and  their  representatives in the decision-making processes and ( ii )  Inclusion of  Persons  with  Disabilities  in  the  strategies  and activities of all government programmes as would be relevant.
 
-24.215.  As  per  the  provisions  of  the  Persons  with Dis  abilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, 3 per cent reservation  in  employment  is  being  provided  to the persons with disabilities. All Central Ministries/ Depart  ments, especially those concerned with infrastructure,  social  sector  and  poverty  alleviation  corresponding Departments of State Governments and Panchayats,  Municipalities  and  other  Urban  Local Bodies should earmark reasonable amounts in their Plan  outlay  for  disability  related  interventions.  An appropriate  mechanism  should  be  put  in  place  for this purpose for programmes empowering PwDs and monitoring of their utilisation at all levels-Central, State, District, City/Town, Block and so on.
+24.215. As per the provisions of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, 3 per cent reservation in employment is being provided to the persons with disabilities. All Central Ministries/Departments, especially those concerned with infrastructure, social sector and poverty alleviation corresponding Departments of State Governments and Panchayats, Municipalities and other Urban Local Bodies should earmark reasonable amounts in their Plan outlay for disability related interventions. An appropriate mechanism should be put in place for this purpose for programmes empowering PwDs and monitoring of their utilisation at all levels—Central, State, District, City/Town, Block and so on.
 
-24.216.  Education plays a pivotal role in socioeconomic empowerment of Persons with Disabilities. Emphasis  in  the  Twelfth  Plan  will  be  on  educational development through: ( i ) Pre-Matric Scholarships  for  students  with  disabilities;  ( ii )  Post-Matric Scholarships  for  students  with  disabilities;  ( iii )  free coaching for students with disabilities; ( iv )  Special/ Residential school for students with severe and multiple disabilities, in districts not having Government special schools; ( v ) Hostels for existing Government special schools not having hostels and augmentation of  seats  in  existing  hostels  of  Government  special schools;  ( vi )  Support  for  establishment/modernisation/capacity augmentation of Braille Presses; ( vii )  Scholarships for 'Top Class' education for students  with  disabilities  studying  in  premier  higher education institutes (like IITs, NITs and so on); ( viii ) Rajiv  Gandhi National Fellowship for persons with disabilities;  ( ix )  National  Overseas  Scholarship  for persons with disabilities; ( x ) establishment of a college for deaf in each of the five regions of the country  and  ( xi )  establishment  of  National  Accessible Library.
+24.216. Education plays a pivotal role in socio-economic empowerment of Persons with Disabilities. Emphasis in the Twelfth Plan will be on educational development through: (i) Pre-Matric Scholarships for students with disabilities; (ii) Post-Matric Scholarships for students with disabilities; (iii) free coaching for students with disabilities; (iv) Special/Residential school for students with severe and multiple disabilities, in districts not having Government special schools; (v) Hostels for existing Government
 
 [[END OF PAGE 284]]
 
@@ -9759,21 +9327,25 @@ Social Inclusion
 
 267
 
+special schools not having hostels and augmentation of seats in existing hostels of Government special schools; (vi) Support for establishment/modernisation/capacity augmentation of Braille Presses; (vii) Scholarships for 'Top Class' education for students with disabilities studying in premier higher education institutes (like IITs, NITs and so on); (viii) Rajiv Gandhi National Fellowship for persons with disabilities; (ix) National Overseas Scholarship for persons with disabilities; (x) establishment of a college for deaf in each of the five regions of the country and (xi) establishment of National Accessible Library.
+
 24.217.  There is a need to give special focus on the requirement  of  persons  with  disabilities  especially for Cerebral Palsy, Autism and Mental Retardation. For this purpose, the National Trust for the welfare of persons with Autism, cerebral palsy, mental retardation and multiple disabilities should emphasise on prevention, early detection, treatment and rehabilitation of the target groups in its programmes.
 
 24.218.  To  make  sports  more  accessible  to  Persons with  Disabilities  and  to  encourage  their  participation  in  the  sports,  there  is  a  need  for  a  Centre  for Disability Sports.
 
 24.219.  In  order  to  address  the  needs  of  differently challenged persons efforts need to be made for universal  coverage  of  disability  friendly  infrastructure and facilities in Universities, Hostels and other such institutions.  Adequate  attention  needs  to  be  given towards  providing  adequate  disable  friendly  space/ facilities in all modes of transport viz. rail, buses and airplanes  and  so  on  During  Twelfth  Plan,  efforts will be made to provide barrier free environment in important Government buildings and to make government websites accessible to persons with disabilities. A National centre will be established to facilitate and  support  the  development  of  universal  design and barrier free environment.
 
-24.220.  In  the  Twelfth  Plan  efforts  also  need  to be  directed  to  provide  needed  support  and  assistance for ( i ) Rehabilitation Centres  for treating mentally ill persons; ( ii ) Model  multi-disability independent  living  centres;  ( iii )  setting  up  of  State Spinal  Injury  Centres;  ( iv )  provisioning  accessibility  in  State  Government  institutions;  ( v )  making State  Governments'  websites  accessible;  ( vi )  preparation  of  comprehensive  database  and  online  State depository  of  resources  on  disabilities;  ( vii )  establishment  of  State  Missions  and  District  Coordinators; ( viii ) awareness generation and publicity; ( ix )  training  of  care-givers:  In-service  training  and sensitisation of State  Governments,  local  bodies and  other  service  providers;  ( x )  Establishment  of National  Institute  of  Mental  Health  Rehabilitation; ( xi ) Estab  lish  ment of State Disability Resource Centres;  ( xii )  Establishment  of  Micro-enterprises Incubation  Centres  for  persons  with  disabilities; ( xiii )  grant  of  Association for Rehabilitation Under National  Trust  Initiative  of  Marketing  (ARUNIM) for  supporting  its  marketing  activities  and  ( xiv ) Research  on  disability  related  technology,  products  and  issues.  Overall,  the  Central  Ministries/ Departments  and  State  Governments  need  to  provide  adequate  support  to  implement  various  programmes as per the provisions of the Persons with Disabilities (Equal Opportunities, Protection of Rights  and  Full  Participation)  Act,  1995.  There  is need  for  greater  support  to  National  Handicapped Finance  Development  Corporation  for  providing subsidies  on  loan  for  education/self-employment and grant for skill development training and so on. Further  there  is  an  urgent  need  to  restructure  and modernise ALIMCO to enable it to produce a large number of  cost  effective  aids  and  assistive  devices. The  scheme  for  Incentives  for  Employing  Persons with Disabilities in private sector needs to be suitably revamped to  encourage  employment  and  retention of persons with disabilities in private sector.
+24.220. In the Twelfth Plan efforts also need to be directed to provide needed support and assistance for (i) Rehabilitation Centres for treating mentally ill persons; (ii) Model multi-disability independent living centres; (iii) setting up of State Spinal Injury Centres; (iv) provisioning accessibility in State Government institutions; (v) making State Governments' websites accessible; (vi) preparation of comprehensive database and online State depository of resources on disabilities; (vii) establishment of State Missions and District Coordinators; (viii) awareness generation and publicity; (ix) training of care-givers: In-service training and sensitisation of State Governments, local bodies and other service providers; (x) Establishment of National Institute of Mental Health Rehabilitation; (xi) Establishment of State Disability Resource Centres; (xii) Establishment of Micro-enterprises Incubation Centres for persons with disabilities; (xiii) grant of Association for Rehabilitation Under National Trust Initiative of Marketing (ARUNIM) for supporting its marketing activities and (xiv) Research on disability related technology, products and issues. Overall, the Central Ministries/Departments and State Governments need to provide adequate support to implement various programmes as per the provisions of the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995. There is need for greater support to National Handicapped Finance Development Corporation for providing subsidies on loan for education/self-employment and grant for skill development training and so on. Further there is an urgent need to restructure and modernise ALIMCO to enable it to produce a large number of cost effective aids and assistive devices. The scheme for Incentives for Employing Persons with Disabilities in private sector needs to be suitably revamped to encourage employment and retention of persons with disabilities in private sector.
 
-24.221.  The existing laws on disability such as Per  sons with Disabilities (Equal Opportunities, Protec  tion  of  Rights  and  Full  Participation)  Act, 1995,  Rehabilitation  Council  of  India  Act,  1992, National  Trust  for  the  Welfare  of  Persons  with Autism,  Cerebral  Palsy,  Mental  Retardation  and Multiple  Disabilities  Act,  1999,  Mental  Health  Act, 1987  and  other  laws  that  concern  or  address  disability  issues  like  Right  of  Children  to  Free  and Compulsory  Education  Act,  2009,  Protection  of Child  Rights  Act,  2005,  The  National  Commission for  Women  Act,  1990,  Apprenticeship  Act,  1961, National  Rural  Employment  Guarantee  Act,  2005, Criminal  Procedure  Court,  1973,  Indian  Evidence Act, 1872 would need to be reviewed and if necessary amended  or  replaced  in  order  to  harmonise  them with  the  provision  of  United  Nations  Conference on Rehabilitation of Persons with Disabilities (UNCRPD).
+24.221. The existing laws on disability such as Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, Rehabilitation Council of India Act, 1992, National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999, Mental Health Act, 1987 and other laws that concern or address disability issues like Right of Children to Free and Compulsory Education Act, 2009, Protection of
 
 [[END OF PAGE 285]]
 
 [[START OF PAGE 286]]
 
 268 Twelfth Five Year Plan
+
+Child Rights Act, 2005, The National Commission for Women Act, 1990, Apprenticeship Act, 1961, National Rural Employment Guarantee Act, 2005, Criminal Procedure Court, 1973, Indian Evidence Act, 1872 would need to be reviewed and if necessary amended or replaced in order to harmonise them with the provision of United Nations Conference on Rehabilitation of Persons with Disabilities (UNCRPD).
 
 24.222.  The existing machinery in Central and State Governments  for  implementing  disability  related programmes is generally weak both in terms of numbers  and  professional  capability.  Delivery  of  disability  related  programmes  is  unlikely  to  improve materially  unless  the  delivery  system  is  suitably strengthened. Therefore, the machinery attending to the  rehabilitation,  development  and  empowerment of persons with disabilities needs to be strengthened qualitatively and quantitatively.
 
@@ -9783,7 +9355,7 @@ Social Inclusion
 
 24.225.  The State Mission will function in close coordination  with  the  State  Government  and  the  State Directorate. The State Government and the Directorate will continue to have the overall administrative, regulatory  and  policy  making  role  in  the  State.  On the other hand, State Mission for Empowerment of Persons with Disabilities (SMEPwD) will be responsible  for  integrating  and  well  coordinated  implementation of various programmes and schemes for persons with disabilities.
 
-24.226.  To accomplish empowerment of the Persons with  Disabilities,  especially  in  making  them  selfreliant, independent and productive, it is imperative to ensure that they have equal and rightful access and entitlement to the services provided by the concerned Ministries/Departments  of  both  Central  and  State Governments. An illustrative list of what is possible is indicated in Box 24.5. Please refer to Box 24.5.
+24.226. To accomplish empowerment of the Persons with Disabilities, especially in making them self-reliant, independent and productive, it is imperative to ensure that they have equal and rightful access and entitlement to the services provided by the concerned Ministries/Departments of both Central and State Governments. An illustrative list of what is possible is indicated in Box 24.5. Please refer to Box 24.5.
 
 ### SENIOR CITIZENS
 
@@ -9799,29 +9371,29 @@ Social Inclusion
 
 269
 
+steps required under the Act such as Notification of Rules, maintenance officer, maintenance tribunal and appellate tribunal must take up the matter on priority.
+
+24.229. The Scheme of Integrated Programme for Older Persons (IPOP) is being implemented since 1992. Under the Scheme financial assistance up to 90 per cent of the project cost is provided to non-Governmental Organisations (NGOs) for running and maintenance of Old Age Homes, Day Care Centres and Mobile Medicare Units. The Scheme has been revised w.e.f. 1 April 2008. Besides an increase in amount of financial assistance for existing projects, Governments/Panchayati Raj Institutions/Local Bodies have been made eligible for getting financial assistance. An outlay of ` 128.00 crore was provided in the Eleventh Plan and the expenditure incurred was ` 74.23 crore benefitting 1.50 lakh beneficiaries. There are three Regional Resource and Training Centres (RRTCs) functioning under the Scheme of IPOP.
+
 ###### Box 24.5 Possible Actions by Central Government Ministries to Benefit Those with Disabilities
 
 Actions which Central Government Ministries can take to benefit those with disabilities. Similar action could be contemplated by the States.
 
-Ministry of Communication, Information and TechnologyInformation, communications and other services, including electronic services and emergency services should be made accessible and disabled friendly.
+Ministry of Communication, Information and Technology—Information, communications and other services, including electronic services and emergency services should be made accessible and disabled friendly.
 
-Ministry of Civil AviationThe Ministry should lay down standards for safe and non-discriminatory air travel of persons with disabilities in order to implement the provisions of the UNCRPD and other air travel related international conventions. Standards for procurement of equipment, materials for ensuring safe and non-discriminatory air travel of persons with disabilities should also be laid down. Adapt buses, vessels and aircrafts in such a way as to permit easy access to persons with disabilities. Adapt toilets in vessels, aircrafts and waiting rooms in such a way as to permit the wheel chair users to use them conveniently.
+Ministry of Civil Aviation—The Ministry should lay down standards for safe and non-discriminatory air travel of persons with disabilities in order to implement the provisions of the UNCRPD and other air travel related international conventions. Standards for procurement of equipment, materials for ensuring safe and non-discriminatory air travel of persons with disabilities should also be laid down. Adapt buses, vessels and aircrafts in such a way as to permit easy access to persons with disabilities. Adapt toilets in vessels, aircrafts and waiting rooms in such a way as to permit the wheel chair users to use them conveniently.
 
-Ministry of Health and Family WelfareThe health care needs for people with disabilities include the provision of accessible hospitals and health centres, trained and sensitised human resource in the field, affordable and reasonable health insurance and establishment of community care centres.
+Ministry of Health and Family Welfare—The health care needs for people with disabilities include the provision of accessible hospitals and health centres, trained and sensitised human resource in the field, affordable and reasonable health insurance and establishment of community care centres.
 
-Ministry of Human Resource DevelopmentAs for any other group, education is critical to expanding the life prospects of people with disability. In addition, the socialisation of children with disabilities through education assumes unusually important roles in societies such as India where social exclusion of persons with disability is significant. Government schools including all Kendriya Vidyalayas and Navodaya Vidyalayas should ensure barrier free environment. School facilities such as toilets, drinking water, class rooms, furniture and fixtures, library, hostels (both boys and girls), canteens, playgrounds, labs, kitchen, auditorium, lift, extracurricular activities must be made accessible.
+Ministry of Human Resource Development—As for any other group, education is critical to expanding the life prospects of people with disability. In addition, the socialisation of children with disabilities through education assumes unusually important roles in societies such as India where social exclusion of persons with disability is significant. Government schools including all Kendriya Vidyalayas and Navodaya Vidyalayas should ensure barrier free environment. School facilities such as toilets, drinking water, class rooms, furniture and fixtures, library, hostels (both boys and girls), canteens, playgrounds, labs, kitchen, auditorium, lift, extracurricular activities must be made accessible.
 
-Ministry of Labour and EmploymentTraining and development of Modular Employable Skills of people with disabilities under  the  Skill  Development  Initiative  Scheme  should  be  taken  up  on  priority  basis.  The  Ministry  should  establish  an Accessible National Portal allowing people with disabilities to register and search for jobs.
+Ministry of Labour and Employment—Training and development of Modular Employable Skills of people with disabilities under the Skill Development Initiative Scheme should be taken up on priority basis. The Ministry should establish an Accessible National Portal allowing people with disabilities to register and search for jobs.
 
-Ministry of RailwaysAll multi-level and multi-platform railway stations and one coach in every class of mail and express trains should be accessible and prepare rail compartments, toilets in rail compartments and waiting rooms in such a way as to permit the wheel users to use them conveniently.
+Ministry of Railways—All multi-level and multi-platform railway stations and one coach in every class of mail and express trains should be accessible and prepare rail compartments, toilets in rail compartments and waiting rooms in such a way as to permit the wheel users to use them conveniently.
 
-Ministry of Rural DevelopmentLivelihood and Poverty Alleviation Programmes like Mahatma Gandhi National Rural Employment Guarantee Programme; Sampoorna Grameen Rozgar Yojana; Swarnjayanti  Gram  Swarozgar  Yojana;  New Initiative  for  employment  in  the  Private  Sector;  Rural  Housing-Bharat  Nirman  Indira  Awas  Yojana;  National  Social Assistance Programme and Associated Programmes.
+Ministry of Rural Development—Livelihood and Poverty Alleviation Programmes like Mahatma Gandhi National Rural Employment Guarantee Programme; Sampoorna Grameen Rozgar Yojana; Swarnjayanti Gram Swarozgar Yojana; New Initiative for employment in the Private Sector; Rural Housing—Bharat Nirman Indira Awas Yojana; National Social Assistance Programme and Associated Programmes.
 
-Ministry  of  Women  and  Child  Development  The  Ministry  should  refine  the  norms  of  WCP  to  prioritise  the  most vulnerable as beneficiaries, particularly SC, ST women, Muslim women, single women, differently-abled, and HIV-positive women, among others.
-
-steps required under the Act such as Notification of Rules,  maintenance  officer,  maintenance  tribunal and  appellate  tribunal  must  take  up  the  matter  on priority.
-
-24.229.  The  Scheme  of  Integrated  Programme  for Older  Persons  (IPOP)  is  being  implemented  since 1992.  Under  the  Scheme  financial  assistance  up  to 90  per  cent  of  the  project  cost  is  provided  to  nonGovernmental  Organisations  (NGOs)  for  running and  maintenance  of  Old  Age  Homes,  Day  Care Centres and Mobile Medicare Units. The Scheme has been revised w.e.f. 1 April 2008. Besides an increase in  amount  of  financial  assistance  for  existing  projects, Governments/Panchayati Raj Institutions/Local Bodies have been made eligible for getting financial assistance. An outlay of ` 128.00 crore was provided in the Eleventh Plan and the expenditure incurred was ` 74.23 crore benefitting 1.50 lakh beneficiaries. There are  three  Regional  Resource  and  Training  Centres (RRTCs) functioning under the Scheme of IPOP.
+Ministry of Women and Child Development - The Ministry should refine the norms of WCP to prioritise the most vulnerable as beneficiaries, particularly SC, ST women, Muslim women, single women, differently-abled, and HIV-positive women, among others.
 
 [[END OF PAGE 287]]
 
@@ -9841,29 +9413,29 @@ Twelfth Five Year Plan
 
 24.233.  A  new  National  Policy  on  Senior  Citizens will be formulated and implemented during the XII Plan period focusing on the following areas:
 
-- Mainstreaming  of  all  the  senior  citizens,  especially the older women and bring their concerns into the national development debate.
+1. Mainstreaming of all the senior citizens, especially the older women and bring their concerns into the national development debate.
 
-- Promote the concept of 'Ageing in Place' or ageing in own home.
+2. Promote the concept of 'Ageing in Place' or ageing in own home.
 
-- It  should  recognise  that  care  of  senior  citizens has to remain vested in the family which would partner  the  community,  government  and  the private  sector.  Institutional  care  should  be  the last resort.
+4. It should recognise that care of senior citizens has to remain vested in the family which would partner the community, government and the private sector. Institutional care should be the last resort.
 
-- Schemes  should  be  formulated  for  providing housing, income-security, homecare  services, old age pension, access to healthcare, insurance schemes and other programmes and services to facilitate  and  sustain  the  concept  of  dignity  in old age. The thrust of the policy would be preventive rather than curative.
+5. Schemes should be formulated for providing housing, income-security, homecare services, old age pension, access to healthcare, insurance schemes and other programmes and services to facilitate and sustain the concept of dignity in old age. The thrust of the policy would be preventive rather than curative.
 
-- Keeping in view the rising longevity of our population,  there  is  a  need  to  focus  on  all  aspects of  care  for  the  Oldest  Old  (80+  years)  namely, social,  financial,  health  care  and  the  need  for shelter.
+6. Keeping in view the rising longevity of our population, there is a need to focus on all aspects of care for the Oldest Old (80+ years) namely, social, financial, health care and the need for shelter.
 
-- Since India is a signatory to the Madrid Plan of Action and Barrier Free Framework, the Policy will  aim  to  work  towards  an  inclusive,  barrierfree and age-friendly society.
+7. Since India is a signatory to the Madrid Plan of Action and Barrier Free Framework, the Policy will aim to work towards an inclusive, barrier-free and age-friendly society.
 
-- Recognise  that  senior  citizens  are  a  valuable resource for the country and create an environment that provides them with equal opportunities,  protects  their  rights  and  enables  their  full participation in society.
+8. Recognise that senior citizens are a valuable resource for the country and create an environment that provides them with equal opportunities, protects their rights and enables their full participation in society.
 
-- Long term savings instruments and credit activities  will  be  promoted  to  reach  both  rural  and urban areas.
+9. Long term savings instruments and credit activities will be promoted to reach both rural and urban areas.
 
-- Employment  in income  generating activities after superannuation will be encouraged.
+10. Employment in income generating activities after superannuation will be encouraged.
 
-- Organisations  that  provide  counselling,  career guidance and training services will be supported and assisted.
+11. Organisations that provide counselling, career guidance and training services will be supported and assisted.
 
-- The  Maintenance  and  Welfare  of  Parents  and Senior  Citizens  Act,  2007  will  be  implemented effectively  and  Tribunals  will  be  set  up  so  that elderly  parents,  unable  to  maintain  themselves, are not abandoned and neglected.
+12. The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 will be implemented effectively and Tribunals will be set up so that elderly parents, unable to maintain themselves, are not abandoned and neglected.
 
-- States will set up homes with assisted living facilities for abandoned senior citizens in every district  of  the  country  and  will  set  apart  adequate budgetary support for this purpose.
+13. States will set up homes with assisted living facilities for abandoned senior citizens in every district of the country and will set apart adequate budgetary support for this purpose.
 
 24.234.  The  National  Institute  of  Social  Defence (NISD)  is  the  nodal  training  and  research  institute  in  the  area  of  social  defence.  The  objective  of the  Institute  is  to  strengthen  and  provide  technical  inputs  to  the  social  defence  programmes  of  the Government of India and to develop and train the manpower  resources  required  in  the  area  of  social defence. NISD needs to be strengthened to take the lead  in  training  the  requisite  human  resources  for caring  of  the  senior  citizens  of  the  country,  during the Twelfth Plan period.
 
@@ -9877,13 +9449,13 @@ Social Inclusion
 
 24.235.  The  Maintenance  and  Welfare  of  Parents and Senior Citizens Act, 2007 was enacted to ensure need based maintenance for parents and senior citizens and their welfare. So far, 25 States and all Union Territories  have  notified  the  Act.  However,  it  has been  noticed  that  State  Government  functionaries  are  not  fully  aware  of  the  consequential  steps/ actions required to be taken. Therefore, Ministry of SJ&E  would  prepare  a  suitable  Action  Plan  in  the Twelfth Plan to ensure effective implementation of the  Act  by  creating  awareness  among  public  about the various provisions of the Act through aggressive media campaign as well as involving Panchayati Raj Institutions/Municipalities/local  bodies  in  the  campaign to reach out to rural areas as well. Workshops may be  organised  with  State  Governments,  NGOs, Senior  Citizens  Associations,  and  so  on  to  ensure that  the  various  provisions  of  the  Act  are  clearly understood  and  effectively  implemented  in  letter and spirit.
 
-24.236.  In sum, with a view to ensure the well-being of senior citizens especially indigent senior citizens, by strengthening their legitimate place in society and extending  support  for  financial  and  food  security, health care, shelter, equitable share in development, protection against abuse and exploitation and other needs,  efforts  need  to  be  made  in  the  Twelfth  Five Year Plan for: ( i ) setting up a National Commission for  Senior  Citizens  to  look  into  their  grievances on  priority  for  redressal  and  ensure  that  services and  facilities  meant  for  them  are  being  provided; ( ii )  establishment  of  Old  Age  Homes  for  Indigent Senior Citizens with integrated multi-facility centre of varying capacity (25, 60 and 120) in 640 districts of the country, through State Government; ( iii ) setting up of a Helpline and District level help lines for older  persons;  ( iv )  setting  up  of  Bureau  for  SocioEconomic Empowerment of Senior Citizens at district level; ( v ) creation of National Trust for the Aged; ( vi ) issue of 'Smart' Identity Cards for senior citizens; and ( vii ) health insurance for senior citizens.
+24.236. In sum, with a view to ensure the well-being of senior citizens especially indigent senior citizens, by strengthening their legitimate place in society and extending support for financial and food security, health care, shelter, equitable share in development, protection against abuse and exploitation and other needs, efforts need to be made in the Twelfth Five Year Plan for: (i) setting up a National Commission for Senior Citizens to look into their grievances on priority for redressal and ensure that services and facilities meant for them are being provided; (ii) establishment of Old Age Homes for Indigent Senior Citizens with integrated multi-facility centre of varying capacity (25, 60 and 120) in 640 districts of the country, through State Government; (iii) setting up of a Helpline and District level help lines for older persons; (iv) setting up of Bureau for Socio-Economic Empowerment of Senior Citizens at district level; (v) creation of National Trust for the Aged; (vi) issue of 'Smart' Identity Cards for senior citizens; and (vii) health insurance for senior citizens.
 
 ### NOMADIC, SEMI-NOMADIC AND DENOTIFIED TRIBES (DNTs)
 
-24.237.  The Nomadic, Semi Nomadic and De-notified Tribes cover the 200 communities that were identified by the colonial Government as 'Criminal Tribes' under a notorious legislation called 'Criminal  Tribes  Act  (CTA)  1871. 2 CTA  1871  was annulled after Independence and communities identified under CTA, 1871 have been referred to thereafter as the De-notified, Nomadic and Semi-Nomadic Tribes (DNTs, SNTs and NTs). There is no authentic data on DNTs and no Census enumeration was conducted for them, though they are found in almost all the States and belong mostly to the OBC category in some large States. They are also spread across the SC and ST categories in other States. Some communities are not covered by any of the three SC, ST and OBC categories. Even those covered under the three categories are often not able to avail the benefits because of  either  not  having  caste  certificates,  or  because the quotas are exhausted by the non-nomadic/nonde-notified communities in the reserved categories. A  number  of  States  have  not  prepared  lists  of  the De-notified or Nomadic communities and the status of such people is unknown.
+24.237. The Nomadic, Semi Nomadic and De-notified Tribes cover the 200 communities that were identified by the colonial Government as 'Criminal Tribes' under a notorious legislation called 'Criminal Tribes Act (CTA) 1871.² CTA 1871 was annulled after Independence and communities identified under CTA, 1871 have been referred to thereafter as the De-notified, Nomadic and Semi-Nomadic Tribes (DNTs, SNTs and NTs). There is no authentic data on DNTs and no Census enumeration was conducted for them, though they are found in almost all the States and belong mostly to the OBC category in some large States. They are also spread across the SC and ST categories in other States. Some communities are not covered by any of the three SC, ST and OBC categories. Even those covered under the three categories are often not able to avail the benefits because of either not having caste certificates, or because the quotas are exhausted by the non-nomadic/non-de-notified communities in the reserved categories. A number of States have not prepared lists of the De-notified or Nomadic communities and the status of such people is unknown.
 
-24.238.  The quick and most effective way of extending  developmental  support  for  DNTs  would  be  to provide  special  and  relevant  support  and  facilities for  these  communities  within  the  existing  facilities for ST, SC and OBC categories as applicable. Access to scholarships and hostel facilities, need to be given priority.  The  existing  schemes  for  scholarships  and hostel  facilities  need  to  be  revised  to  extend  their coverage to nomadic, semi-nomadic and DNTs. For economic empowerment and development of DNTs capacity building programmes for skill development and  marketing,  loans  for  economic  empowerment need  to  be  given  priority.  Specific  strategies  and mechanisms will also be put in place to ensure flow of funds for the welfare and development of nomadic, semi-nomadic  and  Denotified  Tribes  (DNTs). For social  empowerment  of  DNTs  an  enabling  environment  needs  to  be  created  so  that  they  are  able to  utilise  the  reservation  benefits  in  education  and employment. DNTs do not have permanent residential locations due to various social, political and cultural reasons; as a result, they are unable to avail the benefits of the various schemes of the Government. Therefore, an effective rehabilitative approach, supported with an equally effective plan for the socioeconomic  development  of  the  DNTs  needs  to  be adopted and implemented especially by establishing habitations/villages  for  them.  This  would  be  given emphasis during the Twelfth Plan period.
+24.238. The quick and most effective way of extending developmental support for DNTs would be to provide special and relevant support and facilities for these communities within the existing facilities for ST, SC and OBC categories as applicable. Access to scholarships and hostel facilities, need to be given priority. The existing schemes for scholarships and hostel facilities need to be revised to extend their coverage to nomadic, semi-nomadic and DNTs. For economic empowerment and development of DNTs capacity building programmes for skill development and marketing, loans for economic empowerment need to be given priority. Specific strategies and mechanisms will also be put in place to ensure flow of
 
 [[END OF PAGE 289]]
 
@@ -9892,6 +9464,8 @@ Social Inclusion
 272
 
 Twelfth Five Year Plan
+
+funds for the welfare and development of nomadic, semi-nomadic and Denotified Tribes (DNTs). For social empowerment of DNTs an enabling environment needs to be created so that they are able to utilise the reservation benefits in education and employment. DNTs do not have permanent residential locations due to various social, political and cultural reasons; as a result, they are unable to avail the benefits of the various schemes of the Government. Therefore, an effective rehabilitative approach, supported with an equally effective plan for the socio-economic development of the DNTs needs to be adopted and implemented especially by establishing habitations/villages for them. This would be given emphasis during the Twelfth Plan period.
 
 24.239.  The  existing  legislations  such  as  Scheduled Castes  and  Scheduled  Tribes  (Prevention  of  Atrocities) Act, 1989; Habitual Offenders Act, 1952; The Prevention of Begging Act, 1959; The Bombay Prevention of Begging Act, 1959; Prevention of Cruelty to Animals Act, 1986; Wildlife Protection Act, 1972 and the Forest (Conservation) Act, 1980; and Excise Law and so on need to be reviewed to ensure the dignity and the livelihood of DNTs.
 
@@ -9927,25 +9501,23 @@ The Government may, in its discretion, establish as many centres as it thinks fi
 
 ### BEGGARS
 
-24.248.  There  is  no  firm  and  authentic  information  regarding  number  of  beggars  in  the  country.
-
-Accord  ing to the un-published data of Census 2001, there were 7.03 lakh beggars and vagrants out of which 6.31 lakh were in non-worker category. Some States viz.  West  Bengal,  Assam,  Chhattisgarh,  Tripura, Orissa, Punjab, Rajasthan, Andhra Pradesh, Jammu &  Kashmir,  Madhya  Pradesh  and  Uttar  Pradesh have much higher population of beggars in proportion to their total population as compared to other States/UTs.
+24.248. There is no firm and authentic information regarding number of beggars in the country. According to the un-published data of Census 2001, there were 7.03 lakh beggars and vagrants out of which 6.31 lakh were in non-worker category. Some States viz. West Bengal, Assam, Chhattisgarh, Tripura, Orissa, Punjab, Rajasthan, Andhra Pradesh, Jammu & Kashmir, Madhya Pradesh and Uttar Pradesh have much higher population of beggars in proportion to their total population as compared to other States/UTs.
 
 24.249.  The States are responsible for taking the necessary preventive and rehabilitative steps. Neither is there any specific Central Act on prevention of begging and rehabilitation of beggars, nor is there a clear policy on how the problem is to be tackled. There are, however,  general  legislations  having  provisions  for prevention  of  beggary.  These  include:  Indian  Penal Code (IPC), the Juvenile Justice (Care and Protection of Children) Act 2000 and Indian Railway Act 1989.
 
-24.250.  The  States  are  responsible  for  taking  the necessary preventive and rehabilitative steps. There is neither any Central Act on prevention of beggary and rehabilitation of beggars, nor a National Policy on beggary. There is therefore, an urgent need to formulate a National Policy so that there is uniformity of approach in dealing with the problem of beggary. Various  studies  and  surveys  have  brought  out  that the  prime  reason  for  soliciting  alms  has  been  poverty.  Significant  proportions  of  such  persons  suffer from various types of  disabilities,  including  mental illness and so on. A number of such persons are also addicted to various substances and require immediate medical/psychiatric attention. In order to be able to  provide help and support to such persons, there is a need for adoption of a more humane approach. 20  States  and  2  UTs  have  enacted  their  own  antibeggary  laws  or  adopted  laws  enacted  by  other States.  Even  these  States/UTs  which  have  adopted anti-beggary legislation do not implement them uniformly. Further, the provisions of these legislations differ from one state to another. Therefore, there is a need to bring out a Model Legislation on Beggary at the Central level which can be suitably adapted by States/UTs.
+24.250. The States are responsible for taking the necessary preventive and rehabilitative steps. There is neither any Central Act on prevention of beggary and rehabilitation of beggars, nor a National Policy on beggary. There is therefore, an urgent need to formulate a National Policy so that there is uniformity of approach in dealing with the problem of beggary. Various studies and surveys have brought out that the prime reason for soliciting alms has been poverty. Significant proportions of such persons suffer from various types of disabilities, including mental illness and so on. A number of such persons are also addicted to various substances and require immediate medical/psychiatric attention. In order to be able to provide help and support to such persons, there is a need for adoption of a more humane approach. 20 States and 2 UTs have enacted their own anti-beggary laws or adopted laws enacted by other States. Even these States/UTs which have adopted anti-beggary legislation do not implement them uniformly. Further, the provisions of these legislations differ from one state to another. Therefore, there is a need to bring out a Model Legislation on Beggary at the Central level which can be suitably adapted by States/UTs.
 
 [[END OF PAGE 291]]
 
 [[START OF PAGE 292]]
 
-Twelfth Five Year Plan
-
 274
+
+Twelfth Five Year Plan
 
 24.251.  At  present,  there  are  no  central  schemes directly related to beggary. However, there are programmes for welfare and development of older persons, physically challenged and drug abuse covering the issues/problems of beggary. Therefore, it would be  desirable  to  address  the  problem  in  a  holistic manner at the National Level.
 
-24.252.  Direct intervention through a  new  programme/scheme  like the Integrated  Programme for  Rehabilitation  of  Beggars  can  be  made.  The Programme  may  include  items  like  Night  Sheltercum-Work Production Centre; Multiple Skill Training;  Mobile  Health  Care;  Counselling;  Awareness Generation; and Sensitisation programmes. Training of  Human  Resources,  Research  and  Documentation, and so on will be given special attention in the Twelfth  Five  Year  Plan.  In  addition,  convergence of  existing  programmes  for  the  Vulnerable  Groups implemented  by  the  Ministries  of  Social  Justice and Empowerment, Rural Development, Urban Development and Poverty Alleviation, Women and Child Development will also need to be looked into.
+24.252. Direct intervention through a new programme/scheme like the Integrated Programme for Rehabilitation of Beggars can be made. The Programme may include items like Night Shelter-cum-Work Production Centre; Multiple Skill Training; Mobile Health Care; Counselling; Awareness Generation; and Sensitisation programmes. Training of Human Resources, Research and Documentation, and so on will be given special attention in the Twelfth Five Year Plan. In addition, convergence of existing programmes for the Vulnerable Groups implemented by the Ministries of Social Justice and Empowerment, Rural Development, Urban Development and Poverty Alleviation, Women and Child Development will also need to be looked into.
 
 ## PLAN OUTLAY
 
@@ -9953,8 +9525,8 @@ Twelfth Five Year Plan
 
 ## NOTES
 
-- National Committee on Scheduled Tribes and Other Traditional  Forest  Dwellers  (Recognition  of  Forest  Rights) Act, Ministry of Environment and Forest, December, 2010.
+1. National Committee on Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, Ministry of Environment and Forest, December, 2010.
 
-- Six  categories  of  communities  were  identified  under  CTA 1871. These included: ( i )  petty  traders  moving  from  village to village selling commodities like salt, forest produce on animal's back; ( ii ) entertainers through public performance such as  musicians,  dancers,  singers,  storytellers,  acrobats,  gymnasts, puppeteers and tightrope walkers and so on; ( iii ) entertainers  with  the  help  of  performing  animals; ( iv )  pastoral groups,  hunters,  gatherers,  shifting  cultivator  communities and so on; ( v ) artisans working with bamboo, iron, clay and so on; and ( vi )  nomadic individuals who subsist on charity, fortune telling, traditional faith healing services and so on.
+2. Six categories of communities were identified under CTA 1871. These included: (i) petty traders moving from village to village selling commodities like salt, forest produce on animal's back; (ii) entertainers through public performance such as musicians, dancers, singers, storytellers, acrobats, gymnasts, puppeteers and tightrope walkers and so on; (iii) entertainers with the help of performing animals; (iv) pastoral groups, hunters, gatherers, shifting cultivator communities and so on; (v) artisans working with bamboo, iron, clay and so on; and (vi) nomadic individuals who subsist on charity, fortune telling, traditional faith healing services and so on.
 
 [[END OF PAGE 292]]
