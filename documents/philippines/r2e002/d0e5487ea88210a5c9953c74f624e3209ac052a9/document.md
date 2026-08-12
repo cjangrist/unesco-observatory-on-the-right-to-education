@@ -2,20 +2,18 @@
 
 # The National Technical Education and Skills Development Plan 2005-2009
 
+GLOBAL COMPETENCIES
+
 GLOBAL OPPORTUNITIES
-
-GLOBAL
-
-COMPETENCIES
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-# T Th he e   P Pl la an n   L Lo og go o   a an nd d   T Th he em me e
-The logo design reflects the thrust and initiatives of the government to focus on the development and enhancement of the Filipino workers to  international  standards  for  them  to  compete  for  work  opportunities globally.  The three human-like figures in victorious gesture symbolize the Filipino citizen workers who have attained and proven their competency in their respective occupations.  They are highly skilled, confident and ready for the world. This  symbolism  is  captured  in  the  theme  'Global  Competitiveness,  Global  Opportunities'.    Beyond responding  to  opportunities  in  the  domestic  and  the  international  labor  markets,  Filipinos  shall  create  the
+# The Plan Logo and Theme
+The logo design reflects the thrust and initiatives of the government to focus on the development and enhancement of the Filipino workers to international standards for them to compete for work opportunities globally. The three human-like figures in victorious gesture symbolize the Filipino citizen workers who have attained and proven their competency in their respective occupations. They are highly skilled, confident and ready for the world.
 
-opportunities by consistently demonstrating their competence.
+This symbolism is captured in the theme “Global Competitiveness, Global Opportunities”. Beyond responding to opportunities in the domestic and the international labor markets, Filipinos shall create the opportunities by consistently demonstrating their competence.
 
 [[END OF PAGE 2]]
 
@@ -24,12 +22,38 @@ opportunities by consistently demonstrating their competence.
 # C O N T E N T S
 
 Page
+Foreword .................................................................................................... i
+Messages .................................................................................................... ii
+List of Tables .............................................................................................. ix
+List of Figures ............................................................................................. x
+Executive Summary .................................................................................... xi
+INTRODUCTION ......................................................................................... xiii
+CHAPTER I VISION AND FRAMEWORK ................................................. 1
+Development Context
+Vision
+Strategic Framework
+Objectives of the Plan
+CHAPTER 2 ASSESSMENT OF NTESDP 2000-2004 ................................ 6
+Access
+Relevance
+Quality
+Equity
+Efficiency and Effectiveness
+CHAPTER 3 PLAN ENVIRONMENT ........................................................... 13
+Domestic Job Prospects
+Overseas Employment Scenario
+TVET Issues
+Core TVET Challenges
+The Challenge of Effective and Efficient TVET Management
+Sectoral Skills Priorities
+Critical Skills Requirements in Priority Sectors
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-CHAPTER 4 POLICIES AND STRATEGIES ...............................................  26 Principles
+CHAPTER 4 POLICIES AND STRATEGIES ............................................... 26
+Principles
 
 -TVET is Inclusive
 
@@ -69,23 +93,55 @@ Strategies
 
 -Convergence in TVET
 
-PROGRAM THRUSTS ........................................................... 31
+CHAPTER 5 PROGRAM THRUSTS ........................................................... 31
 
-Career Guidance for the Youth Scholarships and Other Student Assistance Programs Improving the Quality of TVET Institutionalization of the Job-Skill Matching Program Intensifying and Expanding Enterprise-based Training Program
-
-CHAPTER 5
+Career Guidance for the Youth
+Scholarships and Other Student Assistance Programs
+Improving the Quality of TVET
+Institutionalization of the Job-Skill Matching Program
+Intensifying and Expanding Enterprise-based Training
+Program
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+Intensifying the Availability and Quality of Skills Specific Training Programs
+Skills Training and Competency Assessment and Certification Services for Overseas Filipino Workers
+Increasing Workers Productivity through Competency Standards Development and Assessment and Certification Program
+Participation in Skills Competitions
+Implementation of Community-based TVET System
+Negosyong Agrikultura sa Eskwela
+Resource-based Training for Enterprise Development
+TVET Programs and Services for Special Groups and Areas
+Modernization of Facilities in Public TVET Institutes
+Institutionalizing Cost Recovery Mechanisms in Public Programs
+CHAPTER 6 PLAN IMPLEMENTATION AND COST OF THE PLAN .......... 41
+CHAPTER 7 INVESTMENTS ...................................................................... 69
+TVET Investment Requirements for Priority Programs
+CHAPTER 8 PERFORMANCE INDICATORS AND PLAN TARGETS .......... 81
+CHAPTER 9 PLAN MONITORING AND ASSESSMENT ............................. 85
+Effective Working Arrangements Among TVET Public Agencies with TVET Programs
+TVET Planning
+Co-Leadership in Programs
+Reporting of TVET Activities
+NATIONAL TESD LEGISLATIVE AND EXECUTIVE AGENDA ....................... 90
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-(this page came through the extractor with no text)
+CAPABILITY BUILDING IN THE TVET SUB-SECTOR ................................. 94
+TESDA’s Core Business
+- Direction Setting
+- Standards Setting and Systems Development
+- Support to TVET Provision
+Institutional Capacity Building
+CONSULTATION PROCESS ....................................................................... 99
+GLOSSARY ................................................................................................ 100
+ACRONYMS ............................................................................................... 102
+ANNEX A: Priority Sectors and Critical Occupations/Skills: 2005-2007 ............. 106
+ACKNOWLEDGMENT ............................................................................... 115
 
 [[END OF PAGE 6]]
 
@@ -101,7 +157,7 @@ I commend the Technical Education and Skills Development Authority (TESDA) and t
 
 There  are  two  areas  in  the  Medium-Term  Philippine  Development  Plan (MTPDP) that I would like the Technical Vocational Education and Training (TVET) sub-sector to focus on - job creation and the delivery of basic training and education services to our people. Just as MTPDP would ensure our country's economic growth, the Second Cycle NTESDP must succeed in its job creation and poverty alleviation efforts. Indeed, it serves as a roadmap towards improving the quality of training and development  of  our  workforce  to  enhance  their  competitiveness  and  chances  of success in the global economy.
 
-I urge TESDA and other government agencies to undertake a private sectorled  and  market-driven  TVET  since  the  expansion  of  the  potentials  of  technical vocational education and training in our country will depend upon this partnership. Let  us  seize  every  opportunity  to  pursue  excellence,  which  is  the  key  to  the fulfillment of the promise of a better life for all Filipinos.
+I urge TESDA and other government agencies to undertake a private sector-led and market-driven TVET since the expansion of the potentials of technical vocational education and training in our country will depend upon this partnership. Let us seize every opportunity to pursue excellence, which is the key to the fulfillment of the promise of a better life for all Filipinos.
 
 I look forward to the success of this Plan. Together, we shall beat the odds! MABUHAY!
 
@@ -113,23 +169,26 @@ i
 
 [[START OF PAGE 8]]
 
+Republic of the Philippines
+Senate
+Pasay City
+
+# M E S S A G E
+
 Greetings!
 
-I  would  like  to  extend  my  warmest  congratulations  to  the Technical Education and Skills Development Authority (TESDA) for  the  completion  of the Second  Cycle  National  Technical  Education  and  Skills  Development Plan (NTESDP)  2005-2009 , with the timely and fitting theme, 'Global Competencies, Global Opportunities'.
+I would like to extend my warmest congratulations to the Technical Education and Skills Development Authority (TESDA) for the completion of the Second Cycle National Technical Education and Skills Development Plan (NTESDP) 2005-2009, with the timely and fitting theme, “Global Competencies, Global Opportunities”.
 
-The Plan is a manifestation of the technical vocational education and training (TVET)  sub-sector's  contribution  in  addressing  the  administration's  development challenge of poverty alleviation through economic growth.
+The Plan is a manifestation of the technical vocational education and training (TVET) sub-sector’s contribution in addressing the administration’s development challenge of poverty alleviation through economic growth.
 
-The emerging requisites of national development highlight the crucial role of a competent  workforce.  Besides  the  growing  needs  of  the  domestic  economy,  the requirements  for  tapping  the  rich  overseas  markets  demand  a  proactive  TVET system. In this endeavor, the Philippine Senate remains steadfast in supporting the legislative imperatives that respond to efficient and effective workforce development.
+The emerging requisites of national development highlight the crucial role of a competent workforce. Besides the growing needs of the domestic economy, the requirements for tapping the rich overseas markets demand a proactive TVET system. In this endeavor, the Philippine Senate remains steadfast in supporting the legislative imperatives that respond to efficient and effective workforce development.
 
 I, therefore, challenge TESDA and all TVET stakeholders and beneficiaries to develop and produce competent TVET graduates not only for the domestic market but also for the international market. Let us all join hands in helping move our nation in this millennium.
 
 Mabuhay!
 
-Republic of the Philippines Senate Pasay City
-
-# M E S S A G E
-
-FRANKLIN M. DRILON Senate President
+FRANKLIN M. DRILON
+Senate President
 
 ii
 
@@ -149,9 +208,8 @@ I encourage my fellow legislators at the national and local levels to consider t
 
 Mabuhay!
 
-JOSE C. DE VENECIA, JR. Speaker
-
-JOSE C. DE VENECIA, JR. Speaker
+JOSE C. DE VENECIA, JR.
+Speaker
 
 iii
 
@@ -174,11 +232,6 @@ Rest assured of my support for the implementation of the NTESDP and I am hoping 
 Thank you very much and Mabuhay!
 
 JINGGOY EJERCITO ESTRADA
-
-Senator
-
-JINGGOY EJERCITO ESTRADA
-
 Senator
 
 iv
@@ -206,10 +259,8 @@ Convergence and partnerships are vital.  Our local government units, other publi
 In closing, I am confident that the Plan would be able to promote TVET more effectively as a gainful career for more Filipinos to succeed with their lives.
 
 CYNTHIA A. VILLAR
-
-CYNTHIA A. VILLAR
-
-Chairperson Committee on Higher and Technical Education
+Chairperson
+Committee on Higher and Technical Education
 
 v
 
@@ -223,11 +274,11 @@ National Economic and Development Authority Republic of the Philippines
 
 The Macapagal-Arroyo Administration is dedicated to pursue the fight against poverty.  Achieving  this  requires  a  broad  set  of  social  and  economic  policies  and programs with equity orientation, underpinned by good governance and adherence to the rule of law.
 
-The Second Cycle National Technical Education and Skills Development Plan 2005-2009 is anchored on the Medium-Term Philippine Development Plan's (MTPDP) 2004-2010  challenge  of  poverty  alleviation  through  economic  growth.    It  is  a milestone  in  the  identification  of  specific  programs  and  projects  of  the  TVET  subsector as well as in the allocation of resources to and within the sub-sectors.
+The Second Cycle National Technical Education and Skills Development Plan 2005-2009 is anchored on the Medium-Term Philippine Development Plan’s (MTPDP) 2004-2010 challenge of poverty alleviation through economic growth. It is a milestone in the identification of specific programs and projects of the TVET sub-sector as well as in the allocation of resources to and within the sub-sectors.
 
 The  Plan  presents  the  strategies  and  programs  that  would  bring  workforce development to a level of quality and efficiency that enhances its role in the over-all national development process.  It defines the sub-sector's support and contribution to  the  country's  development  vision  of  eradicating  poverty,  attaining  improved quality of life for every Filipino and sustaining economic growth with social equity. It also provides a strong anchor on the employment goals of the country.
 
-The completion  of  the  Plan  is  the  product  of  cooperation  and  collaboration among  government  inter-agency  committees,  multisectoral  bodies,  and  various stakeholders. This approach enables us to be more focused and inclusive. As head of the  country's  central  planning  agency,  I  encourage  every  player  in  the  TVET  subsector to pursue this task and persevere with dedication for the well being of our middle-level workers.
+The completion of the Plan is the product of cooperation and collaboration among government inter-agency committees, multisectoral bodies, and various stakeholders. This approach enables us to be more focused and inclusive. As head of the country’s central planning agency, I encourage every player in the TVET sub-sector to pursue this task and persevere with dedication for the well being of our middle-level workers.
 
 I  look forward to the successful implementation of the Plan in the next five years, which would take into account the full contribution of the sub-sector, thereby ensuring an improved TVET system and globally competent Filipinos.
 
@@ -259,9 +310,8 @@ As  a  final  note,  I  would  like  to  commend  the  senior  officials  and  t
 
 Congratulations!
 
-PATRICIA A. STO. TOMAS Secretary
-
-PATRICIA A. STO. TOMAS Secretary
+PATRICIA A. STO. TOMAS
+Secretary
 
 vii
 
@@ -277,13 +327,13 @@ Technical Education and Skills Development Authority
 
 The Second Cycle NTESDP 2005-2009 was prepared on the basis of Section 21 of RA 7796  which  stipulates  that  Technical  Education  and  Skills  Development  Authority (TESDA)  'shall  formulate  a  comprehensive  development  plan  for  middle-level manpower  based  on  the  national  employment  plan  or  policies  for  the  optimum allocation, development and utilization of skilled workers for employment, entrepreneurship and technology development for economic and social growth'.
 
-Anchored  on  the  Medium  Term  Philippine  Development  Plan  (MTPDP),  the Second Cycle NTESDP 2005-2009 aims to address the major challenge of alleviating poverty through economic growth.  Its development objectives support the 10-point development agenda of the Arroyo Administration, particularly on the creation of 610 million jobs by 2010.
+Anchored on the Medium Term Philippine Development Plan (MTPDP), the Second Cycle NTESDP 2005-2009 aims to address the major challenge of alleviating poverty through economic growth. Its development objectives support the 10-point development agenda of the Arroyo Administration, particularly on the creation of 6-10 million jobs by 2010.
 
 Thus, the Plan is economic-driven even as it addresses social integration and rural development.  TVET, with the leadership of TESDA, shall upgrade its systems and  policies  to  produce  globally  competent  workers  who  are  ready  for,  and  will generate jobs.  It shall likewise aim to offer more short-term programs to train more people at a lesser cost.
 
 With the growing recognition for TVET and TESDA, we aim to generate and mobilize  more  resources,  especially  those  from  the  local  government  units  and private sector, to fund our investments.  This will also enable TESDA to undertake its policy-directing role better while developing the TVET sub-sector's capacity to deliver quality graduates and workers.
 
-Eight strategies aligned with the key result areas were formulated to achieve the planned objectives and effectively deliver TVET in the country. These are Private Sector-led  and  Market-Driven  TVET,  Pro-active  Job-Skill  Matching  (SEEK-FINDTRAIN),  Life  Long  Learning  Mechanism/Ladderization  and  Articulation,  Expanding Scholarships and  Other Incentive Support Services,  Competency-based  TVET, Enhancing  Quality  Assurance  Mechanisms,  Entrepreneurship/Technopreneurship  in TVET,  and  Convergence  in  TVET.  Investments  in  major  areas  of  TVET,  which support these strategies, are included in the Plan. This entails the support of various stakeholders through their respective organization and resources.
+Eight strategies aligned with the key result areas were formulated to achieve the planned objectives and effectively deliver TVET in the country. These are Private Sector-led and Market-Driven TVET, Pro-active Job-Skill Matching (SEEK-FIND-TRAIN), Life Long Learning Mechanism/Ladderization and Articulation, Expanding Scholarships and Other Incentive Support Services, Competency-based TVET, Enhancing Quality Assurance Mechanisms, Entrepreneurship/Technopreneurship in TVET, and Convergence in TVET. Investments in major areas of TVET, which support these strategies, are included in the Plan. This entails the support of various stakeholders through their respective organization and resources.
 
 The concretization of the Plan is a big challenge and its implementation is the most important task.  With the unwavering support and sincere cooperation of every stakeholder in the TVET sub-sector, the Plan's vision and objectives shall certainly be realized.
 
@@ -301,7 +351,7 @@ TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY
 
 The  formulation  of  the  Second  Cycle  NTESDP  2005-2008  is  grounded  on  the principles of partnership and convergence.
 
-Using the MTPDP 2004-2010 which embodies the present national leadership's socioeconomic policies  and  priorities  and  was  officially  adopted  in  October  2004  and  President Gloria  Macapagal-Arroyo's  10-Point  Agenda  as  the  main  frames  of  reference,  TESDA formulated  the  Second  Cycle  NTESDP  2005-2009.    The  Planning  Office  and  the  TESDA Technical  Working  Group  (TWG)  conducted  a  series  of  internal  reviews,  workshops,  and consultative meetings to ensure optimum participation and contribution from TESDA units and external bodies.
+Using the MTPDP 2004-2010 which embodies the present national leadership’s socio-economic policies and priorities and was officially adopted in October 2004 and President Gloria Macapagal-Arroyo’s 10-Point Agenda as the main frames of reference, TESDA formulated the Second Cycle NTESDP 2005-2009. The Planning Office and the TESDA Technical Working Group (TWG) conducted a series of internal reviews, workshops, and consultative meetings to ensure optimum participation and contribution from TESDA units and external bodies.
 
 The  Plan  incorporated  inputs  from  TESDA's  policy  recommending  and  decision making bodies:  the Management Committee (ManCom) composed of the Agency's Division Chiefs; Sectoral Cluster for Technical Vocational Education and Training (TVET) composed of the offices involved in TVET  planning, systems development,  standard setting  and certification;  Executive  Committee  composed  of  the  Secretary  and  Director  General,  the Deputy  Directors  General  and  the  Executive  Directors,  National  Directorate  which  is composed of the members of the Executive Committee and the Regional Directors; General Directorate  composed  of  the  National  Directorate  and  Provincial  Directors  as  well  as  the TESDA Technology Institutes (TTI)  Administrators;    the  Regional  and  Provincial  Technical Education and Skills Development Committees, TESDA Board Direction Setting Committee; TESDA  Board  Executive  Committee;  and  TESDA  Board  which  is  composed  of  selected cabinet level representatives from the government  and  top  executives of umbrella organizations  (labor,  employer,  education  and  training,  business  and  investments)from private sector.
 
@@ -319,6 +369,24 @@ ix
 
 # LIST OF TABLES
 
+Page
+Table 1 Middle-Level Skills Development Indicators: 2003 ............................. 7
+Table 2 Labor Market Performance by Type of Graduates ............................. 10
+Table 3 Comparative TVET Cost among TESDA Institutions by Study Conducted ........................................................... 11
+Table 4 Employment Projections under MTPDP 2004-2010 by Sector ............. 13
+Table 5 Deployment of Newly Hired Overseas Filipino Workers by Skill Categories and by Gender with Corresponding Percentage Change: 2001-2004 ......................................................................... 15
+Table 6 Employment by Major Occupational Groups: 2003 and 2004 ............... 16
+Table 7 Employment in Non-Agricultural Middle-Level Skilled Occupations: 2003 and 2004 ............................................................................. 17
+Table 8 Critical Skills Demand by Region and Priority Sector: 2005-2007 ......... 25
+Table 9 Summary of Mainstream TVET Programs by Strategy: 2005-2009 ...... 43
+Table 10 Summary of Indicative Investible Areas by Strategy ........................... 71
+Table 11 TVET Investment Requirements for Priority Programs (ODA Funded): 2005-2009 ............................................................... 74
+Table 12 TVET Expenditure and Investment Shares of the Plan by Source ......... 80
+Table 13 Performance Indicators and Targets: 2005-2009 ............................... 82
+Table 14 Suggested Thematic Monitoring Template ......................................... 89
+Table 15 2005 TVET Policy Agenda ................................................................ 91
+Table 16 TESDA Corporate Plan ..................................................................... 97
+
 x
 
 [[END OF PAGE 16]]
@@ -333,6 +401,21 @@ xi
 
 # LIST OF FIGURES
 
+Page
+Figure 1 NTESDP 2005-2009 Framework .................................................... 2
+Figure 2 TVET Objectives ......................................................................... 5
+Figure 3 TVET Enrolment, Graduates, Assessed and Certified: 2000-2003 ................................................................... 8
+Figure 4 Percentage Change of Deployed Newly Hired OFWs Per Year: 2000-2004 ................................................................... 15
+Figure 5 Philippine National Qualifications Framework ................................. 32
+Figure 6 Philippine TVET Trainers Qualifications Framework ........................ 34
+Figure 7 Trainers Competencies by Training Methodology Level .................. 35
+Figure 8 Investment Shares for the Plan .................................................... 80
+Figure 9 Second Cycle NTESDP 2005-2009 Monitoring Flow Chart ................ 85
+Figure 10 Strategy Map for TESDA .............................................................. 96
+Figure 11 Corporate Plan Context ................................................................ 98
+Figure 12 TESDA Core Business ................................................................. 98
+Figure 13 Second Cycle NTESDP 2005–2009 Formulation Process ................ 99
+
 x
 
 [[END OF PAGE 18]]
@@ -345,7 +428,7 @@ This Second Cycle National Technical Education and Skills Development Plan (NTES
 
 The  NTESDP  2000-2004  devoted  itself  to  laying  the  groundwork  for  TVET reforms.    More  Filipinos  during  that  cycle  were  given  access  to  TVET  through programs offered in schools, training centers, industries and communities.  Greater relevance  among these programs was achieved through labor market information, resulting  in  decent  labor  market  performance  among  TVET  graduates.    Quality assurance mechanisms were installed with the increase of program registration and strengthening program accreditation.  Ongoing improvements in the assessment and certification system yielded moderate gains while new scholarships were introduced. High per capita costs of programs, however, marked TVET during the first cycle.
 
-The present period on the other hand shall focus on further building the subsector's capacity to pursue quality TVET programs.  This calls for more partnerships and greater convergence among stakeholders.
+The present period on the other hand shall focus on further building the sub-sector’s capacity to pursue quality TVET programs. This calls for more partnerships and greater convergence among stakeholders.
 
 The Second Cycle NTESDP 2005-2009 thus provides national directions using this  broad  framework.    The  Plan  document  contains  the  premises,  substance  and schemes  leading  towards  the  realization  of  the  objectives  for  TVET  which  are  to support the economy, the Filipino workers and entire communities.
 
@@ -353,7 +436,7 @@ The Plan puts key emphasis on the need to address overseas labor market opportun
 
 The  NTESDP  operates  on  the  principles  that  TVET  is  inclusive,  thrives  on markets, and involves participation.  From these, emanate policies covering the pre-, actual and post-TVET phases of programs.  The strategies conform to the framework adopted by the TESDA Board last March 18, 2005.
 
-The  mechanisms  for  implementing  the  plan,  inclusive  of  the  resources necessary to run the identified programs, are well indicated.  The intent to achieve impact  has  merited  useful  discussions  on  monitoring  and  assessment,  especially performance  indicators  and  targets.    The  amount  of  P41.5  Billion  is  necessary  to support  capability  building  for  the  different  sectors,  institutions  and  individual trainers,  assessors  and  administrators.    This  investment,  inclusive  of  mainstream program  budgets,  is  expected  to  yield  good  returns  on  targets  ranging  from programs registered, enrolment, scholarships, assessment and certification, standards and regulations, to employment and livelihood generated.
+The mechanisms for implementing the plan, inclusive of the resources necessary to run the identified programs, are well indicated. The intent to achieve impact has merited useful discussions on monitoring and assessment, especially performance indicators and targets. The amount of P41.5 Billion is necessary to support capability building for the different sectors, institutions and individual trainers, assessors and administrators. This investment, inclusive of mainstream program budgets, is expected to yield good returns on targets ranging from
 
 xi
 
@@ -361,7 +444,9 @@ xi
 
 [[START OF PAGE 20]]
 
-Future  possibilities  for  TVET  are  explored  in  set  legislative  and  executive agenda,  where  the  role  of  TESDA  as  enabler  working  with  all  partners  and stakeholders in the sector is seen in the purview of full sub-sector management in the succeeding period.
+programs registered, enrolment, scholarships, assessment and certification, standards and regulations, to employment and livelihood generated.
+
+Future possibilities for TVET are explored in set legislative and executive agenda, where the role of TESDA as enabler working with all partners and stakeholders in the sector is seen in the purview of full sub-sector management in the succeeding period.
 
 In  summary,  TVET  in  the next five years shall be more  directional, consolidating  all  efforts  to  enable  the  sub-sector  to  fulfill  its  mandate  in  nation building.  It recognizes the crucial role of partnerships and convergence among all stakeholders. It  paves  the  way  for  greater  effectiveness  and  efficiency  of  TVET  in the coming years.
 
@@ -407,9 +492,9 @@ xiii
 
 ### Development Context
 
-The role of technical vocational education and training (TVET) has significantly grown as the country continues to build its capability to compete in the global economy relative to the ever-increasing foreign labor market opportunities for Filipinos.   President Gloria Macapagal-Arroyo speaks of the need for skilled and wellmotivated workforce to drive the country's march towards global competitiveness.
+The role of technical vocational education and training (TVET) has significantly grown as the country continues to build its capability to compete in the global economy relative to the ever-increasing foreign labor market opportunities for Filipinos. President Gloria Macapagal-Arroyo speaks of the need for skilled and well-motivated workforce to drive the country’s march towards global competitiveness.
 
-The  significant  contribution  of  the  domestic  and  overseas  Filipino  workers (OFWs) to the economy spells the vital role of skilled workers to the future socioeconomic  growth  of  the  country.    There  are  now  at  least  8  million  documented OFWs remitting USD8.5 billion annually, which figures represent roughly one-tenth of the national population and 50 percent of the annual national budget, respectively.  About 80 percent of these OFWs are in TVET jobs and their multiplier effect on domestic jobs and capital creation cannot be overestimated.
+The significant contribution of the domestic and overseas Filipino workers (OFWs) to the economy spells the vital role of skilled workers to the future socio-economic growth of the country. There are now at least 8 million documented OFWs remitting USD8.5 billion annually, which figures represent roughly one-tenth of the national population and 50 percent of the annual national budget, respectively. About 80 percent of these OFWs are in TVET jobs and their multiplier effect on domestic jobs and capital creation cannot be overestimated.
 
 Global studies likewise confirm that Filipino workers are favored in international  labor  markets.    Recent  reliable  independent  surveys  rank  Filipinos  as number one in quality and ranged from 1 to 7 in preferability. For the first time in the history of the country's overseas deployment program, the country expects to deploy more than 1 million OFWs in 2005 with remittances hitting USD10 billion.
 
@@ -427,101 +512,50 @@ Page   1
 
 [[START OF PAGE 23]]
 
-*
-
-Figure 1 NTESDP 2005-2009 Framework
-
-Organizational Competence
-
-Financial Requirements
-
-National
-
-Development
-
-Challenges
-
-NTESDP Vision
-
-Development Objectives
-
-Three-Pronged
-
-Direction
-
-Private Sector-Led and Market-Driven TVET
-
-Pro-Active Job-Skill Matching (SEEK-FIND-TRAIN)
-
-Life Long Learning Mechanism/Ladderization and Articulation
-
-Expanding Scholarships and Other Incentive Support Services
-
-Competency-based TVET
-
-Enhancing Quality Assurance Mechanisms
-
-Entrepreneurship/Technopreneurship in TVET
-
-Convergence in TVET*
-
-Key Result Areas
-
-Strategies
-
-• Development Imperatives
-
-• Labor Market Conditions
-
--  Overseas
-
--  Local
-
-Global Competitiveness
-
-Social Integration
-
-Rural Development
-
-Improved Access and Equity in TVET
-
-Enhanced Employability of TVET Graduates
-
-• TVET Interventions
-
-Supply
-
-Matches
-
-Demand
-
-Decent and
-
-Productive
-
-Employment
-
-Quality
-
-TVET
-
-Provision
-
-Includes resource
-
-mobilization
-
-GLOBALLY
-
-COMPETENT
-
-FILIPINO
-
-WORKFORCE
-
-Improved Assessment and Certification
+Figure 1
+NTESDP 2005-2009 Framework
 
 Poverty Alleviation through Economic Growth
+
+National Development Challenges
+• Development Imperatives
+• Labor Market Conditions
+- Overseas
+- Local
+• TVET Interventions
+
+NTESDP Vision
+GLOBALLY COMPETENT FILIPINO WORKFORCE
+
+Development Objectives
+Decent and Productive Employment
+Supply Matches Demand
+Quality TVET Provision
+
+Three-Pronged Direction
+Global Competitiveness
+Social Integration
+Rural Development
+
+Key Result Areas
+Improved Access and Equity in TVET
+Improved Assessment and Certification
+Enhanced Employability of TVET Graduates
+
+Strategies
+Private Sector-Led and Market-Driven TVET
+Pro-Active Job-Skill Matching (SEEK-FIND-TRAIN)
+Life Long Learning Mechanism/Ladderization and Articulation
+Expanding Scholarships and Other Incentive Support Services
+Competency-based TVET
+Enhancing Quality Assurance Mechanisms
+Entrepreneurship/Technopreneurship in TVET
+Convergence in TVET*
+
+* Includes resource mobilization
+
+Organizational Competence
+Financial Requirements
 
 Page   2
 
@@ -539,7 +573,7 @@ Supply  Matches  Demand.    It  is  recognized  that  economic  growth  triggers
 
 ### Strategic Framework
 
-The Plan operates within the context of PSALM Approach to TVET planning: P olicy-oriented; S ector-focused; A rea-based and L abor M arket-driven.  It considers Development  Imperatives,  Labor  Market  Conditions,  both  local  and  overseas,  and TVET Interventions.
+The Plan operates within the context of PSALM Approach to TVET planning: Policy-oriented; Sector-focused; Area-based and Labor Market-driven. It considers Development Imperatives, Labor Market Conditions, both local and overseas, and TVET Interventions.
 
 Development Imperatives.  These are social development concerns lined up by the national government particularly for the special or socially excluded sectors of society  such  as  the  poor,  differently-abled  persons,  the  out-of-school  youths,  and the unemployed.
 
@@ -567,17 +601,17 @@ Improved  Access  and  Equity  in  TVET.    This  describes  the  state  where o
 
 Improved Assessment and Certification.  There is increased number of TVET graduates with verified/validated competence to perform a particular skill according to  quality  standards  defined  by  industry.  Also,  the  registry  of  certified  TVET graduates is readily available to prospective employers, both for local and overseas employment.
 
-Enhanced Employability of TVET Graduates.  This is the environment where TVET graduates have improved access to employment opportunities both here and abroad.  Graduates will also have improved prospects for entrepreneurial and selfemployment endeavors.
+Enhanced Employability of TVET Graduates. This is the environment where TVET graduates have improved access to employment opportunities both here and abroad. Graduates will also have improved prospects for entrepreneurial and self-employment endeavors.
 
 ### OBJECTIVES OF THE PLAN
 
 With this framework and the overall vision to generate a globally competent Filipino workforce, three plan perspectives shall be propounded:
 
-- TVET supports  the  economy  through  the  provision  of  a  globally  competent workforce;
+1. TVET supports the economy through the provision of a globally competent workforce;
 
-- TVET  offers  itself  as  a  major  human  resource  investment  choice  for  the Filipino workers;
+2. TVET offers itself as a major human resource investment choice for the Filipino workers;
 
-- TVET helps bridge the local communities to national and global opportunities.
+3. TVET helps bridge the local communities to national and global opportunities.
 
 Page   4
 
@@ -585,13 +619,13 @@ Page   4
 
 [[START OF PAGE 26]]
 
-Accordingly, the plan shall aim for three key objectives :
+Accordingly, the plan shall aim for three key objectives:
 
-- TVET shall help in ensuring that priority sectors are assured of their critical skills requirements.
+1. TVET shall help in ensuring that priority sectors are assured of their critical skills requirements.
 
-- TVET shall help in poverty alleviation by giving equitable TVET opportunities for the poor, deserving and qualified clients in filling up gaps in critical skills.
+2. TVET shall help in poverty alleviation by giving equitable TVET opportunities for the poor, deserving and qualified clients in filling up gaps in critical skills.
 
-- TVET shall  help  communities  achieve  self-sufficiency  in  skills  and  bridge them to the local and overseas labor markets.
+3. TVET shall help communities achieve self-sufficiency in skills and bridge them to the local and overseas labor markets.
 
 These objectives are presented in Figure 2.
 
@@ -665,6 +699,9 @@ Page   6
 
 [[START OF PAGE 28]]
 
+Table 1
+Middle-Level Skills Development Indicators: 2003
+
 Program Indicators | Male | Female | Total
 --- | --- | --- | ---
 A. TVET Enrolment and Graduates
@@ -693,21 +730,17 @@ Certification Rate (in %) | 47.9 | 36.0 | 47.2
 C. Number of TVET Providers | 3,397
 Public | 1,352
 Private (1,383 in 1997) | 2,045
-D. Number of TVET Programs Registered (as of December 2004) a | 11,228
-E. Scholarship and other Student Assistance Programs b
+D. Number of TVET Programs Registered (as of December 2004)a | 11,228
+E. Scholarship and other Student Assistance Programsb
 PESFA | 13,780 filled slots for SY 2003-2004
-ADB -TESDP | 4,946 filled slots for SY 2003-2004
+ADB –TESDP | 4,946 filled slots for SY 2003-2004
 Iskolar ng Mahirap na Pamilya | 1,979 Certificates of Educational Assistance (CEAs) awarded for use in SY 2005-2006
 
-Table 1 Middle-Level Skills Development Indicators: 2003
+Sources: TVET Statistics 2000-2004, February 2005.
 
-> Sources: TVET Statistics 2000-2004, February 2005.
+> a Technical Research and Program Development Division, TVET Systems Development Office, TESDA; other data for 2004 are still on process.
 
-> a
-
-> Technical Research and Program Development Division, TVET Systems Development Office, TESDA; other data for 2004 are still on process.
-
-> b Current TVET Statistics, 1 st Quarter 2004, TESDA Planning Office.
+> b Current TVET Statistics, 1st Quarter 2004, TESDA Planning Office.
 
 Page   7
 
@@ -751,7 +784,7 @@ Source: TVET Statistics 2000-2004, February 2005.
 
 As presented in Figure 3, TVET enrollees and graduates all over the country have  increased  moderately  during  the  first  two  years  of  the  National  Technical Education and Skills Development Plan (NTESDP) 2000-2004 but a rapid growth can be noticed from 2001 to 2003.  Meanwhile, the actual number of assessed persons showed an erratic trend but both assessment and certification rates have declined progressively.
 
-The  highest  overall  certification  rate  of  82.4  percent  was  recorded  in  2001 when  mandatory  certification was implemented particularly for the maritime workers, in response to the Standards for Training, Certification and Watchkeeping (STCW) Convention.  For the period 2001 to 2003, the maritime has registered the highest certification  rate  averaging 91.7  percent  per year.   Factors that  may  have influenced the declining trends in assessment and certification rates are the threeyear  expiration  period  of  certificates  of  competencies  among  seafarers,  and  the recession of job opportunities in the overseas labor market as a result of the war in the  Middle  East  and  the  outbreak  of  SARS  in  2003  which  further  weakened  the economies  of  major  markets.  Despite  these  factors,  assessment  rates  will  be improved with the target  fast-tracking  of  assessment  instruments  development  by TESDA.
+The highest overall certification rate of 82.4 percent was recorded in 2001 when mandatory certification was implemented particularly for the maritime workers, in response to the Standards for Training, Certification and Watchkeeping (STCW) Convention. For the period 2001 to 2003, the maritime has registered the highest certification rate averaging 91.7 percent per year. Factors that may have
 
 Page   8
 
@@ -759,7 +792,9 @@ Page   8
 
 [[START OF PAGE 30]]
 
-As of December 2004, there were 11,228 registered TVET programs (Table 1) to cater to TVET clientele. Among those enrolled, TESDA has awarded 13,780 slots of  Private  Education  Student  Financial  Assistance  (PESFA)  scholarship  and  4,946 Asian Development Bank Technical Education and Skills Development Project (ADBTESDP) scholarship grants awarded for SY 2003-2004.
+influenced the declining trends in assessment and certification rates are the three-year expiration period of certificates of competencies among seafarers, and the recession of job opportunities in the overseas labor market as a result of the war in the Middle East and the outbreak of SARS in 2003 which further weakened the economies of major markets. Despite these factors, assessment rates will be improved with the target fast-tracking of assessment instruments development by TESDA.
+
+As of December 2004, there were 11,228 registered TVET programs (Table 1) to cater to TVET clientele. Among those enrolled, TESDA has awarded 13,780 slots of Private Education Student Financial Assistance (PESFA) scholarship and 4,946 Asian Development Bank Technical Education and Skills Development Project (ADB-TESDP) scholarship grants awarded for SY 2003-2004.
 
 The following are key findings and insights from the assessment of the first plan:
 
@@ -771,13 +806,16 @@ From more than 286,000 in 2001, school-based TVET enrolment rose to about 391,82
 
 The responsiveness of TVET interventions as measured in terms of the labor market performance of graduates has reached decent levels when gauged against the average employment rates of the youth age group in the labor market.   Youth employment estimated at 75 percent is  lower  than  the  average  total  employment rate in 2004.  Majority of the enrollees in TVET belong to the 15 to 24 age bracket of the country's labor force.   The 2002 Graduate Tracer Study conducted by TESDA revealed that the employment rate of graduates was at 58.28 percent for training center  graduates,  62.73  percent  for  TESDA  schools  and  57.60  percent  for  private technical-vocational  institutes  (TVIs),  or  an  average  of  60  percent.  Utilization  rate averaged  at  78  percent,  implying  good  course  planning  by  many  TVET  providers. The study, however, is focused only on formal TVET institutions.  Table 2 shows the comparative labor market performance of graduates of formal TVET programs.
 
-> 2 Current TVET Statistics, 1 st Quarter 2004
+> 2 Current TVET Statistics, 1st Quarter 2004
 
 Page   9
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+Table 2
+Labor Market Performance by Type of TVET Graduates
 
 Type of Graduates | Employment Rate (%) | Absorption Rate (%) | Skills Utilization Rate (%)
 --- | --- | --- | ---
@@ -786,13 +824,11 @@ TESDA School Graduates | 62.73 | 45.21 | 83.24
 Private TVI Graduates | 57.60 | 41.93 | 77.46
 PESFA Scholars/ Graduates | 57.58 | 44.83 | 73.87
 
-Table 2 Labor Market Performance by Type of TVET Graduates
-
 Source: Highlights of GTS 2002
 
 ### Quality
 
-As part of its quality assurance mechanism, TESDA registers all TVET course offerings to ensure that the programs meet the minimum standards as defined by the industry.  Figures show that registered programs have been steadily rising and more than 11,000 TVET programs have already been registered nationwide despite non-registration of TVET programs in most state universities and colleges.  Program accreditation,  which  is  in  line  with  the  Philippine  TVET  Quality  Award  (PTQA)  that grants progressive levels of accreditation, produced modest results.  Five institutions had  been  granted  Bronze-level  or  Commitment  Level  accreditation  in  2003  and another 23 during the first quarter of 2004.  This brought the number of Bronzelevel accredited institutions to 28.
+As part of its quality assurance mechanism, TESDA registers all TVET course offerings to ensure that the programs meet the minimum standards as defined by the industry. Figures show that registered programs have been steadily rising and more than 11,000 TVET programs have already been registered nationwide despite non-registration of TVET programs in most state universities and colleges. Program accreditation, which is in line with the Philippine TVET Quality Award (PTQA) that grants progressive levels of accreditation, produced modest results. Five institutions had been granted Bronze-level or Commitment Level accreditation in 2003 and another 23 during the first quarter of 2004. This brought the number of Bronze-level accredited institutions to 28.
 
 In  the  area  of  assessment,  certification  rates  which  reflect  the  acquired competencies of workers in terms of skills, knowledge, attitudes and values, went down  to  49  percent  in  2002  and  47  percent  in  2003,  from  a  record  high  of  82 percent in 2001.  This significant drop in certification rates can be attributed to slow pace of fundamental improvements currently being made in the assessment system and  standards  of  the  sub-sector.  The  high  2001  level  is  due  to  the  mandatory assessment for maritime workers that year.
 
@@ -806,7 +842,7 @@ Page   10
 
 ### Equity
 
-To  address  the  problem  of  equity  and  access  to  quality  TVET,  TESDA  has been  implementing  scholarships  and  other  student  financial  assistance  programs such  as  the  PESFA  and  ADB-TESDP  scholarship  programs.    Since  SY  1999-2000, PESFA has been providing financial assistance to 13,800 grantees annually.  On the other  hand,  ADB-TESDP  had  4,048  slots  in  SY  2002-2003  and  4,946  slots  for  SY 2003-2004.  The ADB-TESDP scholarship program targets a total of 20,000 studentbeneficiaries over its project life from 2001 to 2007.
+To address the problem of equity and access to quality TVET, TESDA has been implementing scholarships and other student financial assistance programs such as the PESFA and ADB-TESDP scholarship programs. Since SY 1999-2000, PESFA has been providing financial assistance to 13,800 grantees annually. On the other hand, ADB-TESDP had 4,048 slots in SY 2002-2003 and 4,946 slots for SY 2003-2004. The ADB-TESDP scholarship program targets a total of 20,000 student-beneficiaries over its project life from 2001 to 2007.
 
 However,  these  figures  are  inadequate  considering  the  pervasive  need  for student  financial  support  nationwide.  There  are  TVET  scholarships  offered  by  the local government units (LGUs), private companies, socio-civic foundations and other sectors and these should be monitored, recognized and further encouraged.
 
@@ -818,16 +854,17 @@ In  determining  the  total  investment  incurred  in  TVET  programs,  several 
 
 Table 3 shows that although their PCCs were declining from 2001 to 2003, TESDA  Administered  Schools  (TAS)  still  cost  more  to  generate  their  outputs compared to the training centers.  From a high of more than P40,000 in 2001, it went down to more than P14,000 in 2003.
 
+Table 3
+Comparative TVET Costs among TESDA Institutions by Study Conducted
+
 Studies Conducted
 --- | --- | --- | --- | --- | ---
-TESDA Institution | UNESCO- IIEP Study | TESDA Return On Investment Study | Study on Per Capita Cost of TVET Program
-2002 | 2001 | 2002 | 2003
-RTC | P4,494 | 3,688 | 3,789 | 5,846
-PTC | 4,567 | 7,355 | 3,533
-TAS | 18,601 | 40,071 | 26,422 | 14,330
+TESDA Institution | UNESCO-IIEP Study | TESDA Return On Investment Study | | | Study on Per Capita Cost of TVET Program
+ | 2002 | 2001 | 2002 | 2003 |
+RTC | P4,494 | 3,688 | 3,789 | 5,846 |
+PTC | 4,567 | 7,355 | 3,533 | |
+TAS | 18,601 | 40,071 | 26,422 | 14,330 |
 Average | P10,966 | 22,709 | 15,411 | 10,561 | P11,786
-
-Table 3 Comparative TVET Costs among TESDA Institutions by Study Conducted
 
 Source: Paper presented to the SDC-Cabinet Level Meeting, March 30, 2005
 
@@ -859,9 +896,12 @@ While  technical  vocational  education  and  training  (TVET)  undoubtedly  has
 
 Local  employment  projections  for  the  next  few  years  are  indicated  in  the following MTPDP data (Table 4).  Of these, 52.2 percent will be in skilled jobs.
 
-Period | Net job creation (in thousand)
+Table 4
+Employment Projections under MTPDP 2004-2010 by Sector
+
+Period | Net job creation (in thousand) | | | 
 --- | --- | --- | --- | ---
-Agriculture | Industry | Services | Total
+ | Agriculture | Industry | Services | Total
 2003 (actual) | 81 | 144 | 341 | 566
 2004 (January, April and June) | 187 | 237 | 810 | 1,234
 2005 | 290-331 | 174-212 | 565-713 | 1,029-1,256
@@ -872,8 +912,6 @@ Agriculture | Industry | Services | Total
 2010 | 320-371 | 366-431 | 1,009-1,279 | 1,695-2,081
 2004-2010 (total) | 2,021-2,295 | 1,923-2,225 | 5,753-7,012 | 9,697-11,532
 2004-2010 (average per year) | 289-328 | 275-318 | 822-1,002 | 1,385-1,647
-
-Table 4 Employment Projections under MTPDP 2004-2010 by Sector
 
 Source: MTPDP 2004-2010. Table D, page 8
 
@@ -1003,18 +1041,19 @@ Tables  6  and  7  further  underscore  the  importance  of  skilled  jobs  in  
 
 By major occupational groups, middle-level occupations represent majority of those employed in 2003 and 2004. Of these, those in non-agricultural jobs constitute one-third  of  the  total.    Service  workers,  trade  and  related  workers  and  plant  and machine operators and assemblers predominate.
 
-October 2003 | October 2004
+Table 6
+Employment by Major Occupational Groups: 2003 and 2004
+
+Occupational Group | October 2003 | | October 2004 |
 --- | --- | --- | --- | ---
-Occupational Group | Number ('000) | Percent to total | Number ('000) | Percent to total
+ | Number ('000) | Percent to total | Number ('000) | Percent to total
 High level occupations | 4,996 | 15.9 | 4,931 | 15.5
 Middle-level occupations | 16,430 | 52.1 | 16,547 | 52.2
 Farmers, Forestry Workers and Fishermen | 6,088 | 19.3 | 6,134 | 19.3
-Non-agricultural middle- level occupations | 10,342 | 32.8 | 10,413 | 32.9
+Non-agricultural middle-level occupations | 10,342 | 32.8 | 10,413 | 32.9
 Elementary Occupations | 10,004 | 31.7 | 10,121 | 31.9
 Special Occupations (including the Armed Forces) | 122 | 0.4 | 135 | 0.4
 Total | 31,552 | 100.0 | 31,734 | 100.0
-
-Table 6 Employment by Major Occupational Groups: 2003 and 2004
 
 Source: http://www.census.gov.ph/data/sectordata
 
@@ -1024,17 +1063,18 @@ Page   16
 
 [[START OF PAGE 38]]
 
-Occupational Group | October 2003 | October 2004
+Table 7
+Employment in Non-Agricultural Middle-Level Skilled Occupations: 2003 and 2004
+
+Occupational Group | October 2003 | | October 2004 |
 --- | --- | --- | --- | ---
-Number ('000) | Percent to total | Number ('000) | Percent to total
+ | Number ('000) | Percent to total | Number ('000) | Percent to total
 Technicians and Associate Professionals | 884 | 2.8 | 874 | 2.8
 Clerical Workers | 1,318 | 4.2 | 1,361 | 4.3
 Service Workers and Shop and Market Sales Workers | 2,882 | 9.1 | 2,848 | 9.0
 Trades and Related Workers | 2,889 | 9.2 | 2,838 | 8.9
 Plant and Machine Operators and Assemblers | 2,369 | 7.5 | 2,492 | 7.9
 Total | 10,342 | 32.8 | 10,413 | 32.9
-
-Table 7 Employment in Non-Agricultural Middle-Level Skilled Occupations: 2003 and 2004
 
 Source: http://www.census.gov.ph/data/sectordata
 
@@ -1044,15 +1084,17 @@ Among  the  educational  sub-sectors,  TVET  is  most  dependent  on  industrial
 
 #### The  need  to  institutionalize  portability  and  direct  link  between  technical vocational education and training and higher education
 
-Filipinos  view  TVET  as  a  'dead  end'  where  careers  usually  stagnate  and career  growth  is  hampered  by  lack  of  the  requisite  educational  qualifications.    To counter  this  perception,  a  smooth  interface  between  TVET  courses  and  college degrees  shall  be  in  place  to  cater  to  the  varying  needs  of  students  and  promote upward  academic  mobility.    With  ladderized  education  in  place,  an  individual  can acquire vocational skills and training, get a job and proceed to college while working with college credits for subjects and competencies acquired in TVET.
+Filipinos view TVET as a “dead end” where careers usually stagnate and career growth is hampered by lack of the requisite educational qualifications. To counter this perception, a smooth interface between TVET courses and college degrees shall be in place to cater to the varying needs of students and promote upward academic mobility. With ladderized education in place, an individual can acquire vocational skills and training, get a job and proceed to college while working with college credits for subjects and competencies acquired in TVET.
 
-TVET institutions and their counterparts in the higher education system need guidance  to  overcome  the  difficulty  they  are  experiencing  in  establishing  linkage. Currently,  the  National  Coordinating  Council  for  Education  (NCCE)  is  evolving  the Philippine National Qualifications Framework (PNQF) as reference point for articulation  and  equivalency.    This  includes  early  TVET  appreciation  at  the  high school level.
+TVET institutions and their counterparts in the higher education system need guidance to overcome the difficulty they are experiencing in establishing linkage. Currently, the National Coordinating Council for Education (NCCE) is evolving the Philippine National Qualifications Framework (PNQF) as reference point for
 
 Page   17
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+articulation and equivalency. This includes early TVET appreciation at the high school level.
 
 #### The lack of purposive career guidance and profiling of the youth
 
@@ -1092,7 +1134,7 @@ TVET  delivery  in  previous  years  has  responded  rather  effectively  to  th
 
 #### The Challenge of Employment Creation
 
-Training  supports  job  and  livelihood  creation  and  complements  the  role  of investments  in  pump-priming  the  labor  market.    Under  the  present  circumstances and the need to facilitate the creation of 6 to 10 million jobs in the next five years, TVET  has  to  contribute  to  employability  enhancement  as  well  as  to  employment creation. This prospect can be realized as greater coordination between the demand and  supply  segments  of  the  TVET  sub-sector.    This  shall  also  promote  selfemployment which now constitutes most of the total employed in the country.
+Training supports job and livelihood creation and complements the role of investments in pump-priming the labor market. Under the present circumstances and the need to facilitate the creation of 6 to 10 million jobs in the next five years, TVET has to contribute to employability enhancement as well as to employment creation. This prospect can be realized as greater coordination between the demand and supply segments of the TVET sub-sector. This shall also promote self-employment which now constitutes most of the total employed in the country.
 
 Page   19
 
@@ -1102,11 +1144,11 @@ Page   19
 
 ##### Expanding  Training  for  Self  Employment  and  Small  and  Medium  Enterprise (SME) Development
 
-In communities especially those that are agri-based where wage employment opportunities  are  seldom  available,  underemployment  becomes  a  bigger  concern rather than open unemployment. People are employed but earnings are very low in agriculture.  It  is  in  these  circumstances  that  self-employment  becomes  a  viable option. Providing people with proper social preparation, entrepreneurship/technopreneurship trainings, livelihood skills, marketing access and financing  can  create  outright  employment  and  possibly  jobs  for  others  in  the community.    TVET  has  to  prove,  through  this  approach,  that  training  can  indeed create jobs. Self-employment must become the focus of community-based trainings in  the  coming  years  to  fully  support  the  national  thrust  to  develop  SMEs.    Nongovernment  organizations  (NGOs)  likewise  have  the  most  potent  role  in  this endeavor considering their expertise and networks.
+In communities especially those that are agri-based where wage employment opportunities are seldom available, underemployment becomes a bigger concern rather than open unemployment. People are employed but earnings are very low in agriculture. It is in these circumstances that self-employment becomes a viable option. Providing people with proper social preparation, entrepreneurship/technopreneurship trainings, livelihood skills, marketing access and financing can create outright employment and possibly jobs for others in the community. TVET has to prove, through this approach, that training can indeed create jobs. Self-employment must become the focus of community-based trainings in the coming years to fully support the national thrust to develop SMEs. Non-government organizations (NGOs) likewise have the most potent role in this endeavor considering their expertise and networks.
 
 ##### Expanding Post-Training Services for Domestic and Overseas Employment
 
-There is a need to strengthen employment facilitation services.  The National Skills Registry has to be enhanced to support the TVET sub-sector while the Public Employment  Service  Offices  (PESOs),  Philippine  Job  Exchange  Network  (PhilJobNet), and the Philippine Overseas Labor Offices (POLOs) have to perform their labor  market  signaling  functions.    Improved  coordination  between  these  systems must be realized.
+There is a need to strengthen employment facilitation services. The National Skills Registry has to be enhanced to support the TVET sub-sector while the Public Employment Service Offices (PESOs), Philippine Job Exchange Network (Phil-JobNet), and the Philippine Overseas Labor Offices (POLOs) have to perform their labor market signaling functions. Improved coordination between these systems must be realized.
 
 ##### Integrating Entrepreneurship/Technopreneurship in Skills Courses
 
@@ -1116,13 +1158,15 @@ TVET graduates will have to be provided with the option of self- employment if t
 
 ##### Procedural Arrangements among Public Providers
 
-No single stakeholder can provide everything that TVET requires. The success of TVET in the country lies mainly in the ability of its major stakeholders to pool their resources together and utilize their individual strengths to lead in the attainment of various sub-sector concerns. For the Plan period, agreements must be forged in as far  as  the  leadership  in  the  various  stages  in  the  TVET  process  is  concerned. National  agencies  like  the  Department  of  Trade  and  Industry  (DTI)  and  the Technology  and  Livelihood  Resource  Center  (TLRC),  must  take  the  lead  in  selfemployment within the TVET sub-sector with all others contributing to the success of the program.  In the educational system itself, the State Universities and Colleges (SUCs), with Commission on Higher Education (CHED) supervision, and DepED, shall play important roles in enabling continuous access to career and learning opportunities.
+No single stakeholder can provide everything that TVET requires. The success of TVET in the country lies mainly in the ability of its major stakeholders to pool their resources together and utilize their individual strengths to lead in the attainment of various sub-sector concerns. For the Plan period, agreements must be forged in as far as the leadership in the various stages in the TVET process is concerned. National agencies like the Department of Trade and Industry (DTI) and the Technology and Livelihood Resource Center (TLRC), must take the lead in self-employment within the TVET sub-sector with all others contributing to the success of the program. In the educational system itself, the State Universities and Colleges (SUCs), with Commission on Higher Education (CHED) supervision, and DepED, shall
 
 Page   20
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+play important roles in enabling continuous access to career and learning opportunities.
 
 ##### Cost Efficiency Improvements
 
@@ -1136,7 +1180,7 @@ Appropriate matching processes aided by labor market intelligence  must be worke
 
 ##### Need for More Responsive TVET Investments
 
-Investments in middle-level skills development have remained too focused on direct  training  provision  by  national  government,  which  has  delayed  the  longintended  devolution  to  LGUs  and  private  sector.    The  process  will  have  been facilitated  by  the  TESDA  Development  Fund  (TDF)  which  remains  insufficiently funded.  To optimize the use of public investments, there is a need to realign TVET programs  to  focus  on  programs  with  high  market  absorption  rate  as  well  as  on emerging  programs  and  opportunity  areas  where  the  private  sector  is  not  yet investing.  Among public TVIs, there is a need to pursue income-generating projects given  the  high  cost  of  technology  and  the  logistical  requirements  of  promoting program quality.
+Investments in middle-level skills development have remained too focused on direct training provision by national government, which has delayed the long-intended devolution to LGUs and private sector. The process will have been facilitated by the TESDA Development Fund (TDF) which remains insufficiently funded. To optimize the use of public investments, there is a need to realign TVET programs to focus on programs with high market absorption rate as well as on emerging programs and opportunity areas where the private sector is not yet investing. Among public TVIs, there is a need to pursue income-generating projects given the high cost of technology and the logistical requirements of promoting program quality.
 
 With  the  ongoing  internationalization  of  education,  it  is  likely  that  foreign TVET providers will  soon  enter  the  country.    Safeguards  can  be  found  in  existing constitutional provisions on domestic equity in foreign investments.  Their program offerings will likewise be subjected to registration in the country.
 
@@ -1148,9 +1192,9 @@ Page   21
 
 ### Priority Sectors
 
-With  the  government  policy  of  'doing  more  with  less  available  resources', TVET efforts shall focus on priority sectors to optimize the use of available resources and  investments.  This  will  ensure  higher  return  on  investments  in  TVET  and  the labor market.
+With the government policy of “doing more with less available resources”, TVET efforts shall focus on priority sectors to optimize the use of available resources and investments. This will ensure higher return on investments in TVET and the labor market.
 
-The P olicy-oriented, S ector-focused, A rea-based, L abor M arket-driven (PSALM) Approach in TVET Planning was used as guide in the identification of the national priorities that should respond to the overall requirements for national and international competitiveness.
+The Policy-oriented, Sector-focused, Area-based, Labor Market-driven (PSALM) Approach in TVET Planning was used as guide in the identification of the national priorities that should respond to the overall requirements for national and international competitiveness.
 
 Through a series  of  consultation  processes  using  the  PSALM  approach,  the priority sectors culled from the MTPDP and the investment priorities identified by the Board of Investments (BOI) were harmonized with the prevailing priority sectors in the regional and provincial levels.
 
@@ -1158,51 +1202,29 @@ The identification of the sectoral priorities conforms to the Philippine Standar
 
 The 23 priority sectors that will be given focus for the next five years are the following:
 
-- Agriculture and Fishery (including Rubber)
-
-- Tourism (including Hotel & Restaurant Management)
-
-- Construction
-
-- Information and Communications Technology (ICT)
-
-- Furniture and Furnishings (including Handicrafts and Wood Carvings)
-
-- Metals and Engineering
-
-- Health and Social Services
-
-- Automotive
-
-- Garments
-
-- Electronics
-
-- Decorative Crafts - Gifts, Toys and Housewares
-
-- Land Transport
-
-- Processed Food and Beverages
-
-- Mining
-
-- Decorative Crafts - Jewelry
-
-- Decorative Crafts - Ceramics
-
-- Shipbuilding
-
-- Maritime
-
-- Wholesale and Retail Trading
-
-- Heating-Ventilation and Air Conditioning/Refrigeration (HVAC/R)
-
-- Electrical
-
-- Logistics
-
-- Footwear
+1. Agriculture and Fishery (including Rubber)
+2. Tourism (including Hotel & Restaurant Management)
+3. Construction
+4. Information and Communications Technology (ICT)
+5. Furniture and Furnishings (including Handicrafts and Wood Carvings)
+6. Metals and Engineering
+7. Health and Social Services
+8. Automotive
+9. Garments
+10. Electronics
+11. Decorative Crafts – Gifts, Toys and Housewares
+12. Land Transport
+13. Processed Food and Beverages
+14. Mining
+15. Decorative Crafts – Jewelry
+16. Decorative Crafts – Ceramics
+17. Shipbuilding
+18. Maritime
+19. Wholesale and Retail Trading
+20. Heating-Ventilation and Air Conditioning/Refrigeration (HVAC/R)
+21. Electrical
+22. Logistics
+23. Footwear
 
 Page   22
 
@@ -1282,6 +1304,9 @@ Page   24
 
 [[START OF PAGE 46]]
 
+Table 8
+Critical Skills Demand by Region and Priority Sector: 2005-2007
+
 SECTORS | Region
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 NCR | CAR | I | II | III | IV-A | IV-B | V | VI | VII | VIII | IX | X | XI | XII | CARAGA | ARMM
@@ -1293,11 +1318,11 @@ NCR | CAR | I | II | III | IV-A | IV-B | V | VI | VII | VIII | IX | X | XI | XII
 6. | Metals & Engineering | 335 | 784 | 723 | 596 | 3,564 | 185 | 2,480 | 1,080 | 426 | 888 | 360 | 186
 7. | Health & Social Services | 4200 | 59 | 355 | 793 | 8,631 | 12,370 | 4,971 | 48 | 632 | 357 | 750
 8. | Automotive | 275 | 1,492 | 32 | 4,325 | 4,843 | 1,646 | 2,117 | 282 | 931 | 60 | 1,760
-9. | Garments | 3,947 | 321 | 21,782 | 10,826 | 2,830 6,500 | 915 | 523 | 267 | 830
+9. | Garments | 3,947 | 321 | 21,782 | 10,826 | 2,830 | 6,500 | 915 | 523 | 267 | 830
 10. | Electronics | 300 | 900 | 2,208 | 21,681 | 12,123 | 289 | 1,134 | 107 | 209 | 111
-11. | Decorative Crafts (GTH) | 513 | 50 | 194 | 2,121 | 1,394 | 1,642 | 2,152 8,475 | 142 | 202
+11. | Decorative Crafts (GTH) | 513 | 50 | 194 | 2,121 | 1,394 | 1,642 | 2,152 | 8,475 | 142 | 202
 12. | Land Transport | 500 | 454 | 594 | 1,744 | 2,512 | 255 | 240 | 733 | 7,514 | 325
-13. | Processed Food & Beverages | 1,160 | 1,628 | 5,791 672 | 11,592 | 23,847 | 3,738 | 1,893 | 450
+13. | Processed Food & Beverages | 1,160 | 1,628 | 5,791 | 672 | 11,592 | 23,847 | 3,738 | 1,893 | 450
 14. | Mining | 410 | 220 | 100 | 1,325 | 132 | 215
 15. | Decorative Crafts (Jewelry) | 60 | 99 | 848 | 1,116 | 12 | 120
 16. | Decorative Crafts (Ceramics) | 345 | 90 | 415 | 105 | 108
@@ -1308,8 +1333,6 @@ NCR | CAR | I | II | III | IV-A | IV-B | V | VI | VII | VIII | IX | X | XI | XII
 21. | Electrical | 6,560 | 650 | 150
 22. | Logistics | 12,790
 23. | Footwear | 240
-
-Table 8 Critical Skills Demand by Region and Priority Sector: 2005-2007
 
 Source: Provincial Skills Priorities 2005-2007
 
@@ -1343,7 +1366,7 @@ Within the purview of the above principles, the following policies are adopted. 
 
 #### Greater Private Sector Participation and Investment in TVET
 
-The  private  sector  is  the  main  beneficiary  and  user  of  TVET  output.  It  is known to be undertaking significant training activities although largely unmonitored by government. Being such, it becomes imperative that they be strongly motivated and encouraged to participate in all the aspects of TVET management functions. The private  sector  must  have  active  involvement  in  TVET  direction  setting,  standards development, assessment, certification and direct provision of training and educational  services.  The  necessary  environment  and  mechanisms,  which  shall create these opportunities, shall be given priority attention.
+The private sector is the main beneficiary and user of TVET output. It is known to be undertaking significant training activities although largely unmonitored by government. Being such, it becomes imperative that they be strongly motivated and encouraged to participate in all the aspects of TVET management functions. The private sector must have active involvement in TVET direction setting, standards
 
 Page   26
 
@@ -1351,7 +1374,9 @@ Page   26
 
 [[START OF PAGE 48]]
 
-On  the  investments  in  TVET,  several  scholarships  and  financial  assistance packages  for  the  youth  are  being  implemented  where  private  sector  and  local government complementation can come in.  Moreover, the involvement of LGUs in TVET in terms of funding is notable.  The United Nations Educational, Scientific and Cultural  Organization  (UNESCO)  study  (April  2005)  cited  an  estimated  that  from P11.26 billion investments in TVET,  13%  comes from LGUs.
+development, assessment, certification and direct provision of training and educational services. The necessary environment and mechanisms, which shall create these opportunities, shall be given priority attention.
+
+On the investments in TVET, several scholarships and financial assistance packages for the youth are being implemented where private sector and local government complementation can come in. Moreover, the involvement of LGUs in TVET in terms of funding is notable. The United Nations Educational, Scientific and Cultural Organization (UNESCO) study (April 2005) cited an estimated that from P11.26 billion investments in TVET, 13% comes from LGUs.
 
 #### TVET to Address Social Integration and Rural Development
 
@@ -1407,7 +1432,7 @@ Consistent with these policies and principles, the following strategies will be 
 
 #### Private Sector-Led and Market-Driven TVET
 
-As  primary  stakeholder  and  beneficiary  in  TVET,  private  industry  shall  be recognized more for their participation and input to the development of the middlelevel  workforce.    It  shall  also  be  a  prime  source  of  investments  and  initiatives  on TVET programs  and  services.    The  demand  signals  which  employers  convey  both here and overseas shall be the most important cues for government and the public sector to utilize for its own TVET policy-making function.  The industry chambers and associations shall be very potent partners in this purpose.
+As primary stakeholder and beneficiary in TVET, private industry shall be recognized more for their participation and input to the development of the middle-level workforce. It shall also be a prime source of investments and initiatives on TVET programs and services. The demand signals which employers convey both here and overseas shall be the most important cues for government and the public sector to utilize for its own TVET policy-making function. The industry chambers and associations shall be very potent partners in this purpose.
 
 #### Pro-Active Job-Skill Matching (SEEK-FIND-TRAIN)
 
@@ -1487,41 +1512,18 @@ Given  this  TVET  system  context,  the  following  priority  programs  shall  
 
 To prepare the youth for gainful occupations, career guidance and counseling services  shall  be  strengthened.    These  shall  be  intensified  particularly  in  mid-high school or by the third year when profiling of youth aptitudes for TVET shall be made. Based  on  available  labor  market  information,  institution-level  counseling  shall  be primed  to  offer  such  kind  of  services  highlighting  market  demand  and  ensuring prospects in skilled jobs and livelihood enterprises.
 
-Figure 5 Philippine National Qualifications Framework
+Figure 5
+Philippine National Qualifications Framework
 
-Equivalency
-
-Pathways
-
-Doctorate
-
-Masters Degree
-
-Post Graduate Diploma
-
-Bachelors Degree
-
-Associate
-
-Higher Education
-
-Technical/Vocational
-
+Technical/Vocational | Equivalency Pathways | Higher Education
+Diploma 2 |  | Doctorate
+Diploma 1 |  | Masters Degree
+Certificate 3 | Equivalency Pathways | Post Graduate Diploma
+Certificate 2 |  | Bachelors Degree
+Certificate 1 |  | Associate
 Secondary Education
-
 Elementary Education
-
 Early Childhood Education
-
-Diploma 2
-
-Diploma 1
-
-Certificate 3
-
-Certificate 2
-
-Certificate 1
 
 Page   32
 
@@ -1567,15 +1569,15 @@ The capabilities of the TVET institutions shall be continually improved through 
 
 For  trainers,  the  Philippine  TVET  Trainers  Qualification  Framework  shall  be propagated  as  enhanced  basis  for  trainers'  assessment  and  development.    The framework  is  illustrated  in  Figures  6  and  7  from  the  perspectives  of  development requirements and specific competencies, respectively.
 
-QUALIFICATION | COMPETENCIES
---- | --- | ---
-LEVEL/TITLE | TECHNOLOGY | METHODOLOGY
+Figure 6
+Philippine TVET Trainers Qualification Framework
+
+QUALIFICATION LEVEL/TITLE | COMPETENCIES |
+ | TECHNOLOGY | METHODOLOGY
 TQ IV MENTOR/MASTER TRAINER | Highest Level | TM IV
 TQ III SENIOR TRAINER | NC IV Minimum | TM III
 TQ II TRAINER II | NC III Minimum | TM II
 TQ I TRAINER I | NC II Minimum | TM I (Entry)
-
-Figure 6 Philippine TVET Trainers Qualification Framework
 
 Source: TESDA Board Resolution No. 2004-3
 
@@ -1585,27 +1587,29 @@ Page   34
 
 [[START OF PAGE 56]]
 
-C
+Figure 7
+Trainer Competencies by Training Methodology Level
 
-C
-
-O
-
-O
-
-R
-
-R
-
-E E
-
-TM I | TM II | TM III | TM IV
---- | --- | --- | ---
-1. Plan Training Session 2. Deliver Competency- Based Technical Vocational Education and Training 3. Conduct Competency Assessment 4. Maintain Training Facilities | 1. Prepare Training Programs 2. Deliver Competency- Based Technical Vocational Education and Training 3. Conduct Competency 4. Maintain Training Facilities | 1. Prepare Training Programs 2. Develop Training Curriculum 3. Develop Instructional Materials 4. Apply ICT in Training Delivery 5. Design Assessment Tools 6. Plan Competency Assessment 7. Organize Training Resources | 1. Design Training Programs 2. Prepare Project Proposals 3. Prepare Instructional Training Plans 4. Manage Technology- Based Instructional Materials Development 5. Supervise Maintenance of training Facilities 6. Develop Assessment System 7. Assess Trainer Performance 8. Communicate with Subordinates and Superiors 9. Design Marketing and Promotion Program 10. Supervise Instructional Delivery
-C C O O M M M M O O N N | 1. Perform Work Safely 2. Use Audio Visual & Multi-Media Equipment 3. Use Personal Computer in Educational Technology 4. Conduct Career Counseling Session 5. Conduct | 1. Maintain Professional Competence 2. Undertake TVET Research 3. Practice Quality Management 4. Plan and Organize Work | 1. Maintain Professional Competence 2. Undertake TVET Research 3. Practice Quality Management 4. Plan and Organize Work
-T T O O O O L L | 1. Communicate with Individuals and Groups 2. Work in Team Environment 3. Apply Work Ethics and Values | 1. Lead Learning Workplace Communication 2. Lead Work Teams 3. Solve Training- Related Problems | 1. Utilize Specialist Communication Skills 2. Develop Teams 3. Solve Training-Related Problems
-
-Figure 7 Trainer Competencies by Training Methodology Level
+CORE | TM I | TM II | TM III | TM IV
+ | 1. Plan Training Session | 1. Prepare Training Programs | 1. Prepare Training Programs | 1. Design Training Programs
+ | 2. Deliver Competency-Based Technical Vocational Education and Training | 2. Deliver Competency-Based Technical Vocational Education and Training | 2. Develop Training Curriculum | 2. Prepare Project Proposals
+ | 3. Conduct Competency Assessment | 3. Conduct Competency | 3. Develop Instructional Materials | 3. Prepare Instructional Training Plans
+ | 4. Maintain Training Facilities | 4. Maintain Training Facilities | 4. Apply ICT in Training Delivery | 4. Manage Technology-Based Instructional Materials Development
+ |  |  | 5. Design Assessment Tools | 5. Supervise Maintenance of training Facilities
+ |  |  | 6. Plan Competency Assessment | 6. Develop Assessment System
+ |  |  | 7. Organize Training Resources | 7. Assess Trainer Performance
+ |  |  |  | 8. Communicate with Subordinates and Superiors
+ |  |  |  | 9. Design Marketing and Promotion Program
+ |  |  |  | 10. Supervise Instructional Delivery
+ |  |  |  | 11. Provide Professional Development Support
+COMMON |  | 1. Perform Work Safely | 1. Maintain Professional Competence | 1. Maintain Professional Competence
+ |  | 2. Use Audio Visual & Multi-Media Equipment | 2. Undertake TVET Research | 2. Undertake TVET Research
+ |  | 3. Use Personal Computer in Educational Technology | 3. Practice Quality Management | 3. Practice Quality Management
+ |  | 4. Conduct Career Counseling Session | 4. Plan and Organize Work | 4. Plan and Organize Work
+ |  | 5. Conduct Feedbacking Session |  | 
+TOOL |  | 1. Communicate with Individuals and Groups | 1. Lead Learning Workplace Communication | 1. Utilize Specialist Communication Skills
+ |  | 2. Work in Team Environment | 2. Lead Work Teams | 2. Develop Teams
+ |  | 3. Apply Work Ethics and Values | 3. Solve Training-Related Problems | 3. Solve Training-Related Problems
 
 Source: TESDA Board Resolution No. 2004-3
 
@@ -1627,9 +1631,9 @@ To maintain TVET's relevance to the economy, the existing industry linkages shal
 
 Practical and hands-on experience, especially in occupational training shall be emphasized  through  enterprise-based  training  programs  to  be  provided  in  the following modes:
 
- Kasanayan at Hanapbuhay Program (An Apprenticeship and Employment Program or KasH) that will provide opportunities for new entrants to the labor force to acquire basic skills and work experience -prime considerations  in  employer  decisions  to  hire  new  employees.    A  joint undertaking  of  the  DOLE  and  TESDA,  KasH  will  adhere  to  the  core principles of the apprenticeship program; and
+ Kasanayan at Hanapbuhay Program (An Apprenticeship and Employment Program or KasH) that will provide opportunities for new entrants to the labor force to acquire basic skills and work experience – prime considerations in employer decisions to hire new employees. A joint undertaking of the DOLE and TESDA, KasH will adhere to the core principles of the apprenticeship program; and
 
- Dual Training System (DTS)/Dualized Training System which is a mode of training delivery that takes place alternately in two venues - the school or training center and the company or workshop.  This combines theoretical and practical  training.    This  mode  of  training  offers  better  employability since  exposure  in  the  workplace  prepares  students  better  for  actual employment  after  graduation.    The  companies  from  which  they  have trained  are  likely  to  hire  them  as  these  have  invested  in  them  and imparted the skills necessary for their operations. The existing provisions of the DTS Law and their implementation and strategies will be reviewed, incorporating lessons learned to encourage more private sector participation.  Considering  the  pervasive  coverage  of  Agriculture  and  the potent role of TVET institutions, current entrepreneurship-oriented schoolbased initiatives, as Negosyong Agrikultura sa Eskwela, may be tapped for effective dualization approaches.
+ Dual Training System (DTS)/Dualized Training System which is a mode of training delivery that takes place alternately in two venues – the school or training center and the company or workshop. This combines theoretical and practical training. This mode of training offers better employability since exposure in the workplace prepares students better for actual employment after graduation. The companies from which they have trained are likely to hire them as these have invested in them and imparted the skills necessary for their operations. The existing provisions of the DTS Law and their implementation and strategies will be reviewed, incorporating lessons learned to encourage more private sector participation. Considering the pervasive coverage of Agriculture and the potent role of TVET institutions, current entrepreneurship-oriented school-based initiatives, as Negosyong Agrikultura sa Eskwela, may be tapped for effective dualization approaches.
 
 Page   36
 
@@ -1685,7 +1689,7 @@ Page   38
 
 [[START OF PAGE 60]]
 
-The implementation of basic and upgrading programs for the Special Zone of Peace  and  Development  (SZOPAD)  in  Mindanao  in  line  with  the  Mindanao  Natin Program  will be expedited. This shall capitalize on opportunities in BruneiDurassalam,  Indonesia,  Malaysia,  Philippines  -  East  ASEAN  Growth  Area  (BIMPEAGA).  Complementing this will be focused programs in special economic zones like Clark,  Subic  and  Mactan.    These  will  prepare  the  country  better  for  Asia  Pacific Economic Cooperation (APEC) and other regional and global opportunities.
+The implementation of basic and upgrading programs for the Special Zone of Peace and Development (SZOPAD) in Mindanao in line with the Mindanao Natin Program will be expedited. This shall capitalize on opportunities in Brunei-Durassalam, Indonesia, Malaysia, Philippines - East ASEAN Growth Area (BIMP-EAGA). Complementing this will be focused programs in special economic zones like Clark, Subic and Mactan. These will prepare the country better for Asia Pacific Economic Cooperation (APEC) and other regional and global opportunities.
 
 Towards  addressing  the  practical  and  strategic  skill  needs  of  women,  the facilities and technologies of the TESDA Women's Center (TWC) will be fully utilized to  conduct  empowerment training programs.  Similarly, the practical skills training component of the Department of Social Welfare and Development (DSWD)-initiated Productivity Skills and Capability Building program for disadvantaged women, which was turned over to TESDA on September 14, 2004, will be continued and sustained.
 
@@ -1693,7 +1697,7 @@ For senior citizens, TESDA Circular No. 11 issued on March 30, 2005 directs all 
 
 TVET shall actively support and complement the National Youth Development Plan  (NYDP)  coordinated  by  the  National  Youth  Commission  (NYC).    This  shall engender  a  more  wholistic  nurturing  process  of  tapping  the  young  Filipinos  in national development.  An excellent arrangement which can be pursued by TESDA, CHED and NYC on job creation among the youth is through entrepreneurship/technopreneurship converging their respective extension programs.  For example, the National Service Training Program (NSTP) requirement for post-secondary students can be jointly implemented in the extension programs using the social volunteerism and Dangal ng Barangay program approaches in TVET.
 
-More critically, TVET and higher education must answer the needs of the outof-school  youth.    Schemes  to  enable  better  access  among  school-leavers  must  be developed  and  implemented  during  the  plan  period.    Furthermore,  retraining  and livelihood options can be offered to government employees who will be affected by the rationalization program or EO 366.
+More critically, TVET and higher education must answer the needs of the out-of-school youth. Schemes to enable better access among school-leavers must be developed and implemented during the plan period. Furthermore, retraining and livelihood options can be offered to government employees who will be affected by the rationalization program or EO 366.
 
 ### Modernization of Facilities in Public TVET Institutes
 
@@ -1733,7 +1737,7 @@ Other  agencies  and  organizations  shall  be  encouraged  to  ensure  that  th
 
 This scheme shall be crucial in mobilizing an estimated total amount of P27.7 billion to sustain the implementation of mainstream programs for the Second Cycle Plan.  Adding with the investment priority programs totaling P13.8 billion (presented in Chapter  7), the TVET  sub-sector  is expected  to have  a  total  budgetary requirement of P41.5 billion for 2005-2009.
 
-The collaboration and contributions of various government agencies, industries, labor sector and other  partners in planning, management and delivery of TVET  programs,  and  the  promotion  of  global  integration  and  rural  development provides  an  advantage  for  the  middle-level  skilled  workforce.    To  ensure  that  the goals  and  objectives  of  the  plan  are  met,  several  priority  programs  and  projects were identified.  These are lined up under the eight strategies which focus on reengineering and realigning the direction of TVET for the next five years to suit the local and international demand for competitive workers.
+The collaboration and contributions of various government agencies, industries, labor sector and other partners in planning, management and delivery of TVET programs, and the promotion of global integration and rural development provides an advantage for the middle-level skilled workforce. To ensure that the goals and objectives of the plan are met, several priority programs and projects were identified. These are lined up under the eight strategies which focus on re-engineering and realigning the direction of TVET for the next five years to suit the local and international demand for competitive workers.
 
 A big share of TVET mainstream programs budget is allocated in Expanding Scholarships and Other Incentive Support Services strategy which amounted to P8.8 billion. This will widen the opportunities of TVET students to pursue their career as well  as  lessening  the  financial  burden  of  their  guardians  or  parents.  Second  is Competency-based  TVET  with  P6.9  billion  which  expects  to  boost  the  learning approaches of TVET facilitators and trainers.   The technological  advancement and globalization  require  a  quality  TVET  to  produce  highly  competent  technologists, technicians and supervisors and entrepreneurs in the priority sectors and occupations. As such, P4.9 billion will be funded for Entrepreneurship/Technopreneurship programs and projects while P3.2 billion will be spent for convergence or co-management schemes.
 
@@ -1745,7 +1749,7 @@ Page   41
 
 As a program under convergence, the TESDA Development Fund (TDF) shall be  utilized  in  awarding  grants  and  providing  assistance  to  training  institutions, industries  and  LGUs  for  the  upgrading  of  capabilities  and  developing  training  and training  related  activities.  This  shall  ensure  the  proper  delivery  and  return  of investments to TVET. The annual income derived from the investments of the TDF capital base will be allocated to further spur the development of TVET. The growth of  the  capital  base  of  the  TDF  shall  be  ensured  by  mobilizing  external  financial resources such as donations, grants, endowments and other bequests or gifts, and other income generated by TESDA as provided for by law.
 
-Other strategies  in  the  plan  which  has  corresponding  budget  allocation  and programs in the next five years are: Enhancing Quality Assurance with P1.5 billion, Lifelong  Learning  Mechanism/Ladderization  and  Articulation  with  P1.1  billion,  Proactive Job-Skills Matching with P1 billion, and Private Sector-Led/Market-Driven TVET with P0.20 billion.
+Other strategies in the plan which has corresponding budget allocation and programs in the next five years are: Enhancing Quality Assurance with P1.5 billion, Lifelong Learning Mechanism/Ladderization and Articulation with P1.1 billion, Pro-active Job-Skills Matching with P1 billion, and Private Sector-Led/Market-Driven TVET with P0.20 billion.
 
 The need for technical vocational skills  in  private  industry,  government  and non-government  settings  is  highly  noticeable.  Trends  indicate  great  demand  for trainings and capability building programs in the fields of health and social services, agriculture, and information and communication technology.  These sectors offer not only local jobs but international opportunities, too.  In government, jobs that need technical expertise like technicians, plumbing, carpentry, welding, hostel management,  security  services  and  equipment  machine  operator  are  among  the viable  occupational  careers  for  TVET  graduates.    The  range  of  implementing programs by strategy are encapsulized in Table 9.
 
@@ -1755,541 +1759,18 @@ Page   42
 
 [[START OF PAGE 64]]
 
-Table 9 Summary of Mainstream TVET Programs by Strategy: 2005-2009
-
-Strategies
-
-Program
-
-Brief
-
-Description
-
-Beneficiary
-
-Performance
-
-Indicators
-
-TARGETS
-
-TOTAL
-
-COST
-
-('000)
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-1.
-
-Private
-
-Sector-Led/
-
-Market-
-
-Driven TVET
-
-
-
-Accreditation
-
-of TESDA
-
-Recognized
-
-Industry
-
-Bodies
-
-(TRIBs)
-
-(TESDA)
-
-Mechanism to
-
-intensify the
-
-development of
-
-competency
-
-standards, training
-
-regulations and
-
-assessment and
-
-certification.
-
-Private industries,
-
-TRIBs
-
--
-
-No. of TRs &
-
-Assessment
-
-Instruments
-
-developed
-
--
-
-No. of TRIBs
-
-established/
-
-accredited
-
-sector
-
-10 TRs
-
-developed
-
-/promul-
-
-gated
-
-1 Reg'l CS
-
-1 Prov'l CS
-
-1 TRIB per
-
-sector
-
-2,000 TESDA
-
-10 Nat'l
-
-TRs
-
-developed
-
-/promul-
-
-gated
-
-1 Reg'l CS
-
-1 Prov'l CS
-
-2,000  TESDA
-
-10 Nat'l
-
-TRs
-
-developed
-
-/promul-
-
-gated
-
-1 Reg'l CS
-
-1 Prov'l CS
-
-2,000 TESDA
-
-10 Nat'l
-
-TRs
-
-developed
-
-/promul-
-
-gated
-
-1 Reg'l CS
-
-1 Prov'l CS
-
-2,000 TESDA
-
-10 Nat'l
-
-TRs
-
-developed
-
-/promul-
-
-gated
-
-1 Reg'l CS
-
-1 Prov'l CS
-
-2,000 TESDA
-
-10,000
-
-
-
-ICT
-
-Apprentice-
-
-ship Program
-
-(CICT)
-
-Strengthen industry
-
-participation in the
-
-form of OJT program
-
-in areas such as the
-
-restructuring of OJT
-
-learning objectives to
-
-enhance the training
-
-and skills
-
-development process
-
-Industries
-
--
-
-No. of
-
-beneficiaries
-
-100
-
-550 CICT
-
-150
-
-874 CICT
-
-200
-
-1,165 CICT
-
-300
-
-2,067 CICT
-
-300
-
-2,067 CICT
-
-6,723
-
-
-
-Intensive DTS
-
-Program
-
-Implementa-
-
-tion
-
-(TESDA)
-
-Implementing DTS
-
-Program
-
-Graduates
-
--
-
-No. of DTS
-
-graduates
-
-5,500
-
-7,000 TESDA
-
-700 TESDA
-
-800 TESDA
-
-900 TESDA
-
-1,000 TESDA
-
-10,400
-
-
-
-Kasanayan sa
-
-Hanapbuhay
-
-Program
-
-(TESDA)
-
-Apprenticeship and
-
-Learnership Program
-
-Students
-
--
-
-No. of
-
-apprentices/lear-
-
-ners trained
-
-200,000
-
-15,934 TESDA
-
-200,000
-
-15,934 TESDA
-
-200,000
-
-15,934 TESDA
-
-200,000
-
-15,934 TESDA
-
-200,000
-
-15,934 TESDA
-
-79,670
-
-
-
-Establishment
-
-and
-
-maintenance
-
-of MTESDCs
-
-(TESDA)
-
-Organization of
-
-MTESDCs as TVET
-
-shepherds at the
-
-municipal level
-
-MTESDC
-
-membership
-
--
-
-No. of MTESDCs
-
-organized in
-
-Region XI
-
--
-
-No. of MTESDCs
-
-organized in
-
-Region IV-B
-
-6
-
-25
-
--
-
-LGUs
-
--
-
-7
-
-10
-
-80
-
-500
-
-LGUs
-
-TESDA/
-
-LGUs
-
-7
-
-15
-
-80
-
-750
-
-LGUs
-
-TESDA/
-
-LGUs
-
-8
-
-20
-
-90
-
-1,000
-
-LGUs
-
-TESDA/
-
-LGUs
-
-12
-
-25
-
-160
-
-1,250
-
-LGUs
-
-TESDA/
-
-LGUs
-
-435
-
-3,500
-
-
-
-Learnership
-
-Program
-
-(TESDA)
-
-Hiring of persons as
-
-trainees in semi-
-
-skilled and other
-
-industrial occupations
-
-which are non-
-
-apprenticeable
-
-Trainees
-
-No. of learners
-
--
-
-15,333 TESDA
-
--
-
-16,330 TESDA
-
--
-
-17,327 TESDA
-
--
-
-19,321 TESDA
-
--
-
-19,321 TESDA
-
-87,632
-
-Sub-total
-
-P198,360
+Table 9
+Summary of Mainstream TVET Programs by Strategy: 2005-2009
+
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+1. Private Sector-Led/Market-Driven TVET | Accreditation of TESDA Recognized Industry Bodies (TRIBs) (TESDA) | Mechanism to intensify the development of competency standards, training regulations and assessment and certification. | Private industries, TRIBs | No. of TRs & Assessment Instruments developed; No. of TRIBs established/accredited sector | 10 TRs developed/promulgated; 1 Reg'l CS; 1 Prov'l CS; 1 TRIB per sector | 2,000 | TESDA | 10 Nat'l TRs developed/promulgated; 1 Reg'l CS; 1 Prov'l CS | 2,000 | TESDA | 10 Nat'l TRs developed/promulgated; 1 Reg'l CS; 1 Prov'l CS | 2,000 | TESDA | 10 Nat'l TRs developed/promulgated; 1 Reg'l CS; 1 Prov'l CS | 2,000 | TESDA | 10 Nat'l TRs developed/promulgated; 1 Reg'l CS; 1 Prov'l CS | 2,000 | TESDA | 10,000
+ | ICT Apprenticeship Program (CICT) | Strengthen industry participation in the form of OJT program in areas such as the restructuring of OJT learning objectives to enhance the training and skills development process | Industries | No. of beneficiaries | 100 | 550 | CICT | 150 | 874 | CICT | 200 | 1,165 | CICT | 300 | 2,067 | CICT | 300 | 2,067 | CICT | 6,723
+ | Intensive DTS Program Implementation (TESDA) | Implementing DTS Program | Graduates | No. of DTS graduates | 5,500 | 7,000 | TESDA |  | 700 | TESDA |  | 800 | TESDA |  | 900 | TESDA |  | 1,000 | TESDA | 10,400
+ | Kasanayan sa Hanapbuhay Program (TESDA) | Apprenticeship and Learnership Program | Students | No. of apprentices/learners trained | 200,000 | 15,934 | TESDA | 200,000 | 15,934 | TESDA | 200,000 | 15,934 | TESDA | 200,000 | 15,934 | TESDA | 200,000 | 15,934 | TESDA | 79,670
+ | Establishment and maintenance of MTESDCs (TESDA) | Organization of MTESDCs as TVET shepherds at the municipal level | MTESDC membership | No. of MTESDCs organized in Region XI; No. of MTESDCs organized in Region IV-B | 6; - | 25; - | LGUs; - | 7; 10 | 80; 500 | LGUs; TESDA/LGUs | 7; 15 | 80; 750 | LGUs; TESDA/LGUs | 8; 20 | 90; 1,000 | LGUs; TESDA/LGUs | 12; 25 | 160; 1,250 | LGUs; TESDA/LGUs | 435; 3,500
+ | Learnership Program (TESDA) | Hiring of persons as trainees in semi-skilled and other industrial occupations which are non-apprenticeable | Trainees | No. of learners | - | 15,333 | TESDA | - | 16,330 | TESDA | - | 17,327 | TESDA | - | 19,321 | TESDA | - | 19,321 | TESDA | 87,632
+
+Sub-total P198,360
 
 Page   43
 
@@ -2297,16 +1778,12 @@ Page   43
 
 [[START OF PAGE 65]]
 
-Strategies | Brief | Beneficiary | TARGETS | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Program | Performance Indicators | 2005 | 2006 | 2007 | 2008 | 2009 | COST
-Description | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
-2. Pro-Active Job-Skill Matching (SEEK- FIND- TRAIN) |  National ICT Skills Survey (CICT/DOL E/NSO) | Regularly conduct sustainable ICT skills survey and tracking system that will provide accurate data on the status of ICT and ICT-enabled skills in the country for benchmarking and placement purposes | Private Industry - | No. of reports prepared | 1 | 1,000 | CICT 1 | 1,065 | CICT | 1 | 1,134 | CICT | 1 | 1,158 | CICT 1 | 1,158 CICT | 5,515
- National ICT Skills Development Plan (CICT) | Regularly conduct sustainable ICT skills survey and tracking system that will provide accurate data on the status of ICT and ICT-enabled skills in the county for benchworking and placement purposes | Private Industry - - | No. of Plans developed No. of programs and projects identified | 1 | 2,500 | CICT - | - | CICT | 1 | 2,000 | CICT | - | - CICT | 1 | 2,130 | CICT | 6,630
- Indigenous Knowledge System and Practices (IKSP) Documenta- tion (NCIP) | Mainstream culture and development in the plans, policies, programs, and projects providing KALAHI culture services for the poor particularly the marginalized, the minorities and the migrants | Poor and marginalized sector - | No. of IKSP researches completed | 1 | 270 NCIP | 1 | 288 | NCIP | 1 | 306 | NCIP | 1 | 348 NCIP | 1 | 348 | NCIP | 1,560
- Institutionali- zation of the integration of TVET graduates in the LGU Human Resource | The program aims to institutionalize the mainstreaming of | LGUs - | No. of policies formulated & issued | 1 | 10 200 BLG/ DILG | TESDA - | - | - | - | - - | - | - - | - | - - | 210
-Database and utilization for local development | TVET graduates in the local development process of TESDA covered LGU Human Resource Database & utilized them for localized/ customized community development projects | - No. of advocacy consultations with the leagues of LGU & TVET covered LGUs - No. | of reports in compliance to | 79 - | - - | 1 | M & E | 20 | TESDA | 1 M & E | 30 TESDA | 1 M | & E | 40 TESDA | 1 M & E | 50 TESDA | 140
- Katulong at Gabay sa Manggaga- wang may Kapansanan (KAGABAY) (DOLE) | It encourages Persons with Disabilities (PWDs) all over the country to register with DOLE-ROs to form part of the nat'l registry of disabled person. It aims to assist in the integration of PWDs into the mainstream of the society by | Occupationally disabled workers (ODWs) - | No. of Differently Abled Persons (DAPs) provided with training, employment or entrepreneur- ship/technopre- neurship assistance - | 50 | 250 DOLE | 125 | 400 | DOLE | 125 | 400 DOLE | 100 | 320 | DOLE | 100 | 320 DOLE | 1,690
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+2. Pro-Active Job-Skill Matching (SEEK-FIND-TRAIN) | National ICT Skills Survey (CICT/DOLE/NSO) | Regularly conduct sustainable ICT skills survey and tracking system that will provide accurate data on the status of ICT and ICT-enabled skills in the country for benchmarking and placement purposes | Private Industry | No. of reports prepared | 1 | 1,000 | CICT | 1 | 1,065 | CICT | 1 | 1,134 | CICT | 1 | 1,158 | CICT | 1 | 1,158 | CICT | 5,515
+ | National ICT Skills Development Plan (CICT) | Regularly conduct sustainable ICT skills survey and tracking system that will provide accurate data on the status of ICT and ICT-enabled skills in the county for benchworking and placement purposes | Private Industry | No. of Plans developed; No. of programs and projects identified | 1 | 2,500 | CICT | - | - | CICT | 1 | 2,000 | CICT | - | - | CICT | 1 | 2,130 | CICT | 6,630
+ | Indigenous Knowledge System and Practices (IKSP) Documentation (NCIP) | Mainstream culture and development in the plans, policies, programs, and projects providing KALAHI culture services for the poor particularly the marginalized, the minorities and the migrants | Poor and marginalized sector | No. of IKSP researches completed | 1 | 270 | NCIP | 1 | 288 | NCIP | 1 | 306 | NCIP | 1 | 348 | NCIP | 1 | 348 | NCIP | 1,560
+ | Institutionalization of the integration of TVET graduates in the LGU Human Resource Database and utilization for local development (DILG) | The program aims to institutionalize the mainstreaming of TVET graduates in the local development process of TESDA covered LGU Human Resource Database & utilized them for localized/customized community development projects | LGUs | No. of policies formulated & issued; No. of advocacy consultations with the leagues of LGU & TVET covered LGUs; No. of reports in compliance to policy | 1; 79; - | 10; 200; - | BLG/DILG; TESDA; - | -; -; 1 M & E | -; -; 20 | -; -; TESDA | -; -; 1 M & E | -; -; 30 | -; -; TESDA | -; -; 1 M & E | -; -; 40 | -; -; TESDA | -; -; 1 M & E | -; -; 50 | -; -; TESDA | 210; 140
+ | Katulong at Gabay sa Manggagawang may Kapansanan (KAGABAY) (DOLE) | It encourages Persons with Disabilities (PWDs) all over the country to register with DOLE-ROs to form part of the nat'l registry of disabled person. It aims to assist in the integration of PWDs into the mainstream of the society by | Occupationally disabled workers (ODWs) | No. of Differently Abled Persons (DAPs) provided with training, employment or entrepreneurship/technopreneurship assistance | 50 | 250 | DOLE | 125 | 400 | DOLE | 125 | 400 | DOLE | 100 | 320 | DOLE | 100 | 320 | DOLE | 1,690
 
 Page   44
 
@@ -2314,551 +1791,13 @@ Page   44
 
 [[START OF PAGE 66]]
 
-Strategies
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
 
-Program
+providing them access to training & employment opportunities both formal & informal sector
 
-Brief
-
-Description
-
-Beneficiary
-
-Performance
-
-Indicators
-
-TARGETS
-
-TOTAL
-
-COST
-
-('000)
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-providing them access
-
-to training &
-
-employment
-
-opportunities both
-
-formal & informal
-
-sector
-
-
-
-Community
-
-Sala'am
-
-(Peace)
-
-Corps Project
-
-(DOLE)
-
-This project aims to
-
-provide the Muslim
-
-youth an option that is
-
-more positive &
-
-productive other than
-
-joining the armed
-
-conflict.  It provides
-
-employment
-
-counseling services,
-
-education/ training
-
-grants, access to
-
-employment &
-
-opportunities
-
-Out-of-school/Out-
-
-of-job young
-
-Muslims with the
-
-age of 15-24
-
-especially those
-
-caught in armed
-
-conflict and are
-
-residents of ARMM
-
--
-
-No. of Muslim
-
-Youth
-
-beneficiaries of
-
-educational and
-
-training
-
-assistance
-
--
-
-150
-
-7,900 DOLE/
-
-OSEC
-
-150
-
-800 DOLE/
-
-OSEC
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-8,700
-
-
-
-Formulation
-
-and Updating
-
-of TESD Plan
-
-(TESDA)
-
-Formulating/Updating
-
-TESD Plan
-
-COROPOTI/
-
-stakeholders
-
--
-
-No. & type of
-
-TESD plans
-
-formulated/
-
-updated
-
--
-
-1 NTESDP
-
--
-
-1 per
-
-region
-
--
-
-1 per
-
-province
-
--
-
-1 Corpo-
-
-rate plan
-
--
-
-8,670 TESDA
-
-Updated/
-
-Assessed
-
-and
-
-Monitored
-
-plan
-
-8,670 TESDA
-
-Updated/
-
-Assessed
-
-and
-
-Monitored
-
-plan
-
-8,670 TESDA
-
-Updated/
-
-Assessed
-
-and
-
-Monitored
-
-plan
-
-8,670 TESDA
-
-Updated/
-
-Assessed
-
-and
-
-Monitored
-
-plan
-
-8,670 TESDA
-
-43,350
-
-
-
-National
-
-TVET Policy
-
-Agenda
-
-(TESDA)
-
-Adopting/translating
-
-policies into
-
-programs/projects for
-
-the development of
-
-middle-level skills
-
-COROPOTI
-
--
-
-Type & no. of
-
-policies adopted/
-
-translated into
-
-programs/
-
-projects
-
--
-
-1 per qtr
-
-Nat'l TB
-
-policies/
-
--
-
-resolu-
-
-tions
-
--
-
-RTESDC
-
-resolu-
-
-tions
-
--
-
-PTESDC
-
-resolu-
-
-tions
-
--
-
-School
-
-board
-
-resolu-
-
-tions
-
-39,290 TESDA
-
--
-
-1 per qtr
-
-Nat'l TB
-
-policies/
-
--
-
-resolu-
-
-tions
-
--
-
-RTESDC
-
-resolu-
-
-tions
-
--
-
-PTESDC
-
-resolu-
-
-tions
-
--
-
-School
-
-board
-
-resolu-
-
-tions
-
-39,290 TESDA
-
--
-
-1 per qtr
-
-Nat'l TB
-
-policies/
-
--
-
-resolu-
-
-tions
-
--
-
-RTESDC
-
-resolu-
-
-tions
-
--
-
-PTESDC
-
-resolu-
-
-tions
-
--
-
-School
-
-board
-
-resolu-
-
-tions
-
-39,290 TESDA
-
--
-
-1 per qtr
-
-Nat'l TB
-
-policies/
-
--
-
-resolu-
-
-tions
-
--
-
-RTESDC
-
-resolu-
-
-tions
-
--
-
-PTESDC
-
-resolu-
-
-tions
-
--
-
-School
-
-board
-
-resolu-
-
-tions
-
-39,290 TESDA
-
--
-
-1 per qtr
-
-Nat'l TB
-
-policies/
-
--
-
-resolu-
-
-tions
-
--
-
-RTESDC
-
-resolu-
-
-tions
-
--
-
-PTESDC
-
-resolu-
-
-tions
-
--
-
-School
-
-board
-
-resolu-
-
-tions
-
-39,290 TESDA
-
-196,450
+ | Community Sala'am (Peace) Corps Project (DOLE) | This project aims to provide the Muslim youth an option that is more positive & productive other than joining the armed conflict. It provides employment counseling services, education/training grants, access to employment & opportunities | Out-of-school/Out-of-job young Muslims with the age of 15-24 especially those caught in armed conflict and are residents of ARMM | No. of Muslim Youth beneficiaries of educational and training assistance | 150 | 7,900 | DOLE/OSEC | 150 | 800 | DOLE/OSEC | - | - | - | - | - | - | - | - | - | 8,700
+ | Formulation and Updating of TESD Plan (TESDA) | Formulating/Updating TESD Plan | COROPOTI/stakeholders | No. & type of TESD plans formulated/updated | 1 NTESDP; 1 per region; 1 per province; 1 Corporate plan | 8,670 | TESDA | Updated/Assessed and Monitored plan | 8,670 | TESDA | Updated/Assessed and Monitored plan | 8,670 | TESDA | Updated/Assessed and Monitored plan | 8,670 | TESDA | Updated/Assessed and Monitored plan | 8,670 | TESDA | 43,350
+ | National TVET Policy Agenda (TESDA) | Adopting/translating policies into programs/projects for the development of middle-level skills | COROPOTI | Type & no. of policies adopted/translated into programs/projects | 1 per qtr Nat'l TB policies/resolutions; RTESDC resolutions; PTESDC resolutions; School board resolutions | 39,290 | TESDA | 1 per qtr Nat'l TB policies/resolutions; RTESDC resolutions; PTESDC resolutions; School board resolutions | 39,290 | TESDA | 1 per qtr Nat'l TB policies/resolutions; RTESDC resolutions; PTESDC resolutions; School board resolutions | 39,290 | TESDA | 1 per qtr Nat'l TB policies/resolutions; RTESDC resolutions; PTESDC resolutions; School board resolutions | 39,290 | TESDA | 1 per qtr Nat'l TB policies/resolutions; RTESDC resolutions; PTESDC resolutions; School board resolutions | 39,290 | TESDA | 196,450
 
 Page   45
 
@@ -2866,737 +1805,12 @@ Page   45
 
 [[START OF PAGE 67]]
 
-Strategies
-
-Program
-
-Brief
-
-Description
-
-Beneficiary
-
-Performance
-
-Indicators
-
-TARGETS
-
-TOTAL
-
-COST
-
-('000)
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-
-
-Labor Market
-
-& Education
-
-and Training
-
-Market
-
-Studies and
-
-Researches
-
-(TESDA)
-
-Updating TVET
-
-information in support
-
-of planning and policy-
-
-making in TVET
-
-COROPOTI
-
--
-
-No. of TVET
-
-situationers &
-
-other statistical
-
-reports prepared
-
--
-
-No. of
-
-Researches/
-
-studies
-
-conducted
-
--
-
-1 Nat'l LMI
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
-1 Nat'l ET
-
-market
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
--
-
-1 Nat'l
-
--
-
-1 Regional
-
--
-
-1 Provin-
-
-cial
-
--
-
-1 Int'l
-
-3,994 TESDA
-
--
-
-1 Nat'l LMI
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
-1 Nat'l ET
-
-market
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
--
-
-1 Nat'l
-
--
-
-1 Regional
-
--
-
-1 Provin-
-
-cial
-
--
-
-1 Int'l
-
-3,994 TESDA
-
--
-
-1 Nat'l LMI
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
-1 Nat'l ET
-
-market
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
--
-
-1 Nat'l
-
--
-
-1 Regional
-
--
-
-1 Provin-
-
-cial
-
--
-
-1 Int'l
-
-3,994 TESDA
-
--
-
-1 Nat'l LMI
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
-1 Nat'l ET
-
-market
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
--
-
-1 Nat'l
-
--
-
-1 Regional
-
--
-
-1 Provin-
-
-cial
-
--
-
-1 Int'l
-
-3,994 TESDA
-
--
-
-1 Nat'l LMI
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
-1 Nat'l ET
-
-market
-
-profile
-
--
-
-1 per
-
-Region/
-
-Province
-
--
-
--
-
-1 Nat'l
-
--
-
-1 Regional
-
--
-
-1 Provin-
-
-cial
-
--
-
-1 Int'l
-
-3,994 TESDA
-
-19,970
-
-
-
-Youth Profile
-
-for Starring
-
-Careers
-
-(YP4SC)
-
-(TESDA)
-
-Launching and
-
-implementation of the
-
-profiling project with
-
-DepED, DOST, CHED
-
-High School
-
-Students and OSY
-
--
-
-No. of High
-
-school students
-
-and OSY served
-
-100,000
-
-12,220 TESDA
-
-and
-
-partner
-
-NGAs
-
-100,000
-
-12,220 TESDA
-
-and
-
-partner
-
-NGAs
-
-100,000
-
-12,220 TESDA
-
-and
-
-partner
-
-NGAs
-
-100,000
-
-12,220 TESDA
-
-and
-
-partner
-
-NGAs
-
-100,000
-
-12,220 TESDA
-
-and
-
-partner
-
-NGAs
-
-61,100
-
-
-
-Installation &
-
-Operationaliz
-
-ation of
-
-Information
-
-Systems
-
-(TESDA)
-
-Institutionalization of
-
-TESDA Information
-
-System
-
-Infosystems users
-
--
-
-No. of
-
-infosystems
-
-users
-
-All Nat'l/
-
-Regional/
-
-Provincial/
-
-Institutio-
-
-nal
-
-infosys-
-
-tems users
-
-4,014 TESDA
-
-All Nat'l/
-
-Regional/
-
-Provincial/
-
-Institutio-
-
-nal
-
-infosys-
-
-tems users
-
-4,014 TESDA
-
-All Nat'l/
-
-Regional/
-
-Provincial/
-
-Institutio-
-
-nal
-
-infosys-
-
-tems users
-
-4,014 TESDA
-
-All Nat'l/
-
-Regional/
-
-Provincial/
-
-Institutio-
-
-nal
-
-infosys-
-
-tems users
-
-4,014 TESDA
-
-All Nat'l/
-
-Regional/
-
-Provincial/
-
-Institutio-
-
-nal
-
-infosys-
-
-tems users
-
-4,014 TESDA
-
-20,070
-
-
-
-Tracking
-
-TVET
-
-Graduates
-
-(TESDA)
-
-Determining
-
-employment rate of
-
-TVET graduates thru
-
-Tracking System &
-
-Tracer Study
-
-Stakeholder/
-
-Public and Private
-
-industries
-
--
-
-Employment
-
-rate of TVET
-
-graduates
-
-increased
-
-10 %
-
-increase
-
-(from 50%
-
-to 60%) in
-
-absorption
-
-rate of
-
-TVET
-
-graduates
-
-3,521 TESDA
-
-60% of
-
-TVET
-
-graduates
-
-3,521 TESDA
-
-60% of
-
-TVET
-
-graduates
-
-3,521 TESDA
-
-60% of
-
-TVET
-
-graduates
-
-3,521 TESDA
-
-60% of
-
-TVET
-
-graduates
-
-3,521 TESDA
-
-17,605
-
-
-
-TVET Sub-
-
-sector
-
-Monitoring
-
-(TESDA)
-
-Institutionalizing
-
-performance
-
-monitoring system
-
-LGUs, NGOs, LAs,
-
-Private Individuals,
-
-Industries
-
--
-
-No. of person
-
-trained in the
-
-TVET sub-sector
-
-1 million
-
-trained by
-
-the TVET
-
-sub-sector
-
-4,267 TESDA
-
-1 million
-
-4,267 TESDA
-
-1 million
-
-4,267 TESDA
-
-1 million
-
-4,267 TESDA
-
-1 million
-
-4,267 TESDA
-
-21,335
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Labor Market & Education and Training Market Studies and Researches (TESDA) | Updating TVET information in support of planning and policy-making in TVET | COROPOTI | No. of TVET situationers & other statistical reports prepared; No. of Researches/studies conducted | 1 Nat'l LMI profile; 1 per Region/Province; 1 Nat'l ET market profile; 1 per Region/Province; 1 Nat'l; 1 Regional; 1 Provincial; 1 Int'l | 3,994 | TESDA | 1 Nat'l LMI profile; 1 per Region/Province; 1 Nat'l ET market profile; 1 per Region/Province; 1 Nat'l; 1 Regional; 1 Provincial; 1 Int'l | 3,994 | TESDA | 1 Nat'l LMI profile; 1 per Region/Province; 1 Nat'l ET market profile; 1 per Region/Province; 1 Nat'l; 1 Regional; 1 Provincial; 1 Int'l | 3,994 | TESDA | 1 Nat'l LMI profile; 1 per Region/Province; 1 Nat'l ET market profile; 1 per Region/Province; 1 Nat'l; 1 Regional; 1 Provincial; 1 Int'l | 3,994 | TESDA | 1 Nat'l LMI profile; 1 per Region/Province; 1 Nat'l ET market profile; 1 per Region/Province; 1 Nat'l; 1 Regional; 1 Provincial; 1 Int'l | 3,994 | TESDA | 19,970
+ | Youth Profile for Starring Careers (YP4SC) (TESDA) | Launching and implementation of the profiling project with DepED, DOST, CHED | High School Students and OSY | No. of High school students and OSY served | 100,000 | 12,220 | TESDA and partner NGAs | 100,000 | 12,220 | TESDA and partner NGAs | 100,000 | 12,220 | TESDA and partner NGAs | 100,000 | 12,220 | TESDA and partner NGAs | 100,000 | 12,220 | TESDA and partner NGAs | 61,100
+ | Installation & Operationalization of Information Systems (TESDA) | Institutionalization of TESDA Information System | Infosystems users | No. of infosystems users | All Nat'l/Regional/Provincial/Institutional infosystems users | 4,014 | TESDA | All Nat'l/Regional/Provincial/Institutional infosystems users | 4,014 | TESDA | All Nat'l/Regional/Provincial/Institutional infosystems users | 4,014 | TESDA | All Nat'l/Regional/Provincial/Institutional infosystems users | 4,014 | TESDA | All Nat'l/Regional/Provincial/Institutional infosystems users | 4,014 | TESDA | 20,070
+ | Tracking TVET Graduates (TESDA) | Determining employment rate of TVET graduates thru Tracking System & Tracer Study | Stakeholder/Public and Private industries | Employment rate of TVET graduates increased | 10% increase (from 50% to 60%) in absorption rate of TVET graduates | 3,521 | TESDA | 60% of TVET graduates | 3,521 | TESDA | 60% of TVET graduates | 3,521 | TESDA | 60% of TVET graduates | 3,521 | TESDA | 60% of TVET graduates | 3,521 | TESDA | 17,605
+ | TVET Sub-sector Monitoring (TESDA) | Institutionalizing performance monitoring system | LGUs, NGOs, LAs, Private Individuals, Industries | No. of person trained in the TVET sub-sector | 1 million trained by the TVET sub-sector | 4,267 | TESDA | 1 million | 4,267 | TESDA | 1 million | 4,267 | TESDA | 1 million | 4,267 | TESDA | 1 million | 4,267 | TESDA | 21,335
 
 Page   46
 
@@ -3604,17 +1818,13 @@ Page   46
 
 [[START OF PAGE 68]]
 
-Strategies | Program | Description Beneficiary | Performance Indicators | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2005 | COST
-Expected | Cost ('000) | Source Expected Output | Cost ('000) | Source Expected | Cost ('000) | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | ('000) Source
-Social Marketing and Advocacy (TESDA) | TVET advocacy program through: • Sustain conduct of skills competition | LGUs, NGOs, LAs, Private Individuals, Industries - Skills competition conducted | Output - 1 Int'l/ - ASEAN - 1 Nat'l/ - Regio- nal/Pro- vincial | 7,919 TESDA | - 1 Int'l/ - ASEAN - 1 Nat'l/ - Regio- nal/Pro- vincial | 7,919 TESDA | Output - 1 Int'l/ - ASEAN - 1 Nat'l/ - Regio- nal/Pro- vincial | 7,919 TESDA | - 1 Int'l/ - ASEAN - 1 Nat'l/ - Regio- nal/Pro- vincial | 7,919 TESDA | - 1 Int'l/ - ASEAN - 1 Nat'l/ - Regio- nal/Pro- vincial | 7,919 TESDA | 39,595
-• Tri-media initiatives t | TVIs, Individuals | - Tri-media exposures - | - 30% increase in organiza- tional recall | 20 300 Pagadian LGU Congres- sional Dev't Fund of Zambo- anga Sur | - 30% increase in organiza- tional recall 1 Center ed | 20 | 30% increase in organiza- tional recall 1 Center strengthen ed | 30% increase in organiza- tional recall | 30% increase in organiza- tional recall
-Establishmen of Provincial Labor Product Market & Technology Info. System in Zambo. Sur (TESDA) A one-stop shop provincial info. center that provides data LPM and tech. information | on People in the province and nearby cities/provinces | Provincial LPM and Tech Info. Center established | 1 | strengthen | 400 Pagadian LGU Congres- sional Dev't of Zambo- anga Sur | Fund | 20 600 Pagadian LGU Congres- sional Dev't Fund of Zambo- anga Sur | 1 Center strengthen ed | 20 800 Pagadian LGU Congres- sional Dev't Fund of Zambo- anga Sur | 1 Center strengthen ed | 20 1,000 Pagadian LGU Congres- sional Dev't of anga | Fund Zambo- Sur | 3,200
-Skills Camp (TESDA) | Skills Camp for OSY as an annual activity from the SK Funds OSYs | - Number of clients served | 100 | 30 SK Fund | 100 | 35 SK Fund | 100 | 40 SK Fund | 100 | 45 SK Fund | 100 | 50 | SK Fund | 200
-Skills Training on Agri - Fishery Cum Village Technology (TESDA) - Various skills programs on fishery, poultry, and other activities | training agri- livestock and livelihood farming Farmers, OSY, interested adults and other vulnerable sectors including displaced workers | - No. of graduates - No. of trained persons in livestock and poultry - No. of trained person in Mango production - | 9,620 500 50 | 68,888 LGU, TESDA, PMS 20% Fund, PLGU, NGAs, ODA | DA, Fund, Dev't 9,511 143 26 | 69,880 LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA - | 9,481 146 26 | 69,882 LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 276 149 27 | 409 LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 276 151 27 - | 410 LGU, TESDA, PMS 20% Fund, PLGU, NGAs, ODA | DA, Fund, Dev't | 209,469
-- These are short-term duration TVET programs aimed at attaining specific learning objectives conducted in the community by the LGU, NGO, People's Organizations and other NGAs. Training is mostly on livelihood skills and entrepreneurship | Farmers, Fisherfolks, Women, OSY, unemployed persons | No. of livelihood and industrial skills training graduates | 7,831 | 15,579 LGUs, DTI, DSWD, DOLE, TESDA, NGO, ODA, IFAD, PDAF, KFW, | DA, GEM - | - | - | - - | - | - | - | - | - | 15,579
-- Training cum Production Resource-based materials | using raw Organized Agri- Fishery groups and other Middle-level Manpower of selected Municipalities - | Number of CBTED graduates | 122 | 614 DTI, TESDA, DA, LGU, Provc'l, Nat'l/ Brgy. Dev't Fund, GAD | 90 | 200 GAD Fund, SEA | 90 | 200 GAD Fund, SEA | 90 | 200 GAD Fund, SEA | 90 | 200 GAD SEA | Fund, | 1,414
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Social Marketing and Advocacy (TESDA) | TVET advocacy program through: Sustain conduct of skills competition; Tri-media initiatives | LGUs, NGOs, LAs, Private Individuals, Industries; TVIs, Individuals | Skills competition conducted; Tri-media exposures | 1 Int'l/ASEAN; 1 Nat'l/Regional/Provincial; 30% increase in organizational recall | 7,919 | TESDA | 1 Int'l/ASEAN; 1 Nat'l/Regional/Provincial; 30% increase in organizational recall | 7,919 | TESDA | 1 Int'l/ASEAN; 1 Nat'l/Regional/Provincial; 30% increase in organizational recall | 7,919 | TESDA | 1 Int'l/ASEAN; 1 Nat'l/Regional/Provincial; 30% increase in organizational recall | 7,919 | TESDA | 1 Int'l/ASEAN; 1 Nat'l/Regional/Provincial; 30% increase in organizational recall | 7,919 | TESDA | 39,595
+ | Establishment of Provincial Labor Product Market & Technology Info. System in Zambo. Sur (TESDA) | A one-stop shop provincial info. center that provides data on LPM and tech. information | People in the province and nearby cities/provinces | Provincial LPM and Tech Info. Center established | 1 | 20; 300 | Pagadian LGU; Congressional Dev't Fund of Zamboanga Sur | 1 Center strengthened | 20; 400 | Pagadian LGU; Congressional Dev't Fund of Zamboanga Sur | 1 Center strengthened | 20; 600 | Pagadian LGU; Congressional Dev't Fund of Zamboanga Sur | 1 Center strengthened | 20; 800 | Pagadian LGU; Congressional Dev't Fund of Zamboanga Sur | 1 Center strengthened | 20; 1,000 | Pagadian LGU; Congressional Dev't Fund of Zamboanga Sur | 3,200
+ | Skills Camp (TESDA) | Skills Camp for OSY as an annual activity from the SK Funds | OSYs | Number of clients served | 100 | 30 | SK Fund | 100 | 35 | SK Fund | 100 | 40 | SK Fund | 100 | 45 | SK Fund | 100 | 50 | SK Fund | 200
+ | Skills Training on Agri-Fishery Cum Village Technology (TESDA) | Various skills training programs on agri-fishery, livestock and poultry, livelihood and other farming activities | Farmers, OSY, interested adults and other vulnerable sectors including displaced workers | No. of graduates; No. of trained persons in livestock and poultry; No. of trained person in Mango production | 9,620; 500; 50 | 68,888 | LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 9,511; 143; 26 | 69,880 | LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 9,481; 146; 26 | 69,882 | LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 276; 149; 27 | 409 | LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 276; 151; 27 | 410 | LGU, DA, TESDA, PMS Fund, 20% Dev't Fund, PLGU, NGAs, ODA | 209,469
+ |  | These are short-term duration TVET programs aimed at attaining specific learning objectives conducted in the community by the LGU, NGO, People's Organizations and other NGAs. Training is mostly on livelihood skills and entrepreneurship | Farmers, Fisherfolks, Women, OSY, unemployed persons | No. of livelihood and industrial skills training graduates | 7,831 | 15,579 | LGUs, DA, DTI, DSWD, DOLE, TESDA, NGO, ODA, IFAD, PDAF, KFW, GEM | - | - | - | - | - | - | - | - | - | - | - | - | 15,579
+ |  | Training cum Production using Resource-based raw materials | Organized Agri-Fishery groups and other Middle-level Manpower of selected Municipalities | Number of CBTED graduates | 122 | 614 | DTI, TESDA, DA, LGU, Provc'l, Nat'l/Brgy. Dev't Fund, GAD Fund, SEA | 90 | 200 | GAD Fund, SEA | 90 | 200 | GAD Fund, SEA | 90 | 200 | GAD Fund, SEA | 90 | 200 | GAD Fund, SEA | 1,414
 
 Page   47
 
@@ -3622,571 +1832,14 @@ Page   47
 
 [[START OF PAGE 69]]
 
-Strategies
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ |  | Skills training program on Food processing/high valued vegetables | OSY & other interested adults/mothers, high school students | No. of graduates | 100 | 20 | 20% Dev't Fund | 102 | 20 | 20% Dev't Fund | 104 | 21 | 20% Dev't Fund | 106 | 21 | 20% Dev't Fund | 108 | 22 | 20% Dev't Fund | 104
+ | Job Skill Matching System (TESDA) | An individual's skills matches the demand in the market | Prospective trainees and job-seekers | Job-skill matching system institutionalized/operationalized | - | 54,080 | TESDA | - | 61,562 | TESDA | - | 65,319 | TESDA | - | 72,833 | TESDA | - | 72,833 | TESDA | 326,627
+ | Establishment of occupation oriented and locally-funded Community Colleges (TESDA) | Establishment of Community Colleges that cater to the needs of the area | TVET sub-sector, community | No. of community colleges established | - | 28,000 | TESDA | - | - | - | - | - | - | - | - | - | - | - | - | 28,000
 
-Program
+Sub-total P1,028,513
 
-Brief
-
-Description
-
-Beneficiary
-
-Performance
-
-Indicators
-
-TARGETS
-
-TOTAL
-
-COST
-
-('000)
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-- Skills training
-
-program on Food
-
-processing/ high
-
-valued vegetables
-
-OSY & other
-
-interested
-
-adults/mothers,
-
-high school
-
-students
-
--
-
-No. of graduates
-
-100
-
-20 20% Dev't
-
-Fund
-
-102
-
-20 20% Dev't
-
-Fund
-
-104
-
-21 20% Dev't
-
-Fund
-
-106
-
-21
-
-20% Dev't
-
-Fund
-
-108
-
-22
-
-20% Dev't
-
-Fund
-
-104
-
-
-
-Job Skill
-
-Matching
-
-System
-
-(TESDA)
-
-An individual's skills
-
-matches the demand
-
-in the market
-
-Prospective
-
-trainees and job-
-
-seekers
-
-Job-skill matching
-
-system
-
-institutionalized/
-
-operationalized
-
--
-
-54,080 TESDA
-
--
-
-61,562 TESDA
-
--
-
-65,319 TESDA
-
--
-
-72,833 TESDA
-
--
-
-72,833 TESDA
-
-326,627
-
-
-
-Establishmen
-
-t of
-
-occupation
-
-oriented and
-
-locally-
-
-funded
-
-Community
-
-Colleges
-
-(TESDA)
-
-Establishment of
-
-Community Colleges
-
-that cater to the needs
-
-of the area
-
-TVET sub-sector,
-
-community
-
-No. of community
-
-colleges
-
-established
-
--
-
-28,000 TESDA
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-28,000
-
-Sub-total
-
-P1,028,513
-
-3.
-
-Lifelong
-
-Learning
-
-Mechanism/
-
-Ladderiza-
-
-tion and
-
-Articulation
-
-
-
-Ladderization
-
-of TVET and
-
-Higher
-
-Education
-
-Programs
-
-(EO 358)
-
-(TESDA)
-
-Organization
-
-of Technical
-
-Secretariat
-
-Joint TESDA-
-
-CHED Senior
-
-Officials
-
-Workshops
-
-Joint
-
-Workshops of
-
-TESDA and
-
-CHED
-
-Technical
-
-Panels
-
-Social
-
-Marketing
-
-and
-
-Advocacy
-
-Consultation
-
-with end-
-
-users
-
-Nationwide
-
-implementati
-
-on of
-
-Systems,
-
-Networks and
-
-This aims to develop
-
-and implement a
-
-unified national
-
-qualifications
-
-framework that
-
-establishes
-
-equivalency pathways
-
-and access ramps for
-
-a ladderized system
-
-allowing for easier
-
-transitions and
-
-progressions between
-
-TVET and higher
-
-education (HE).
-
-TVIs
-
-COROPOTI
-
-LGAs
-
-TVIs/Graduates
-
-TVIs, Individuals
-
-TVIs, Individuals
-
--
-
-No. of technical
-
-secretariat
-
-organized
-
--
-
-No. of
-
-Articulated
-
-Programs
-
-implemented
-
--
-
-No. of
-
-Equivalency
-
-formalized
-
-1
-
-Technical
-
-Secretariat
-
-1 per
-
-Region
-
-1 per
-
-Region
-
-500
-
-30
-
-500
-
-1,000
-
-500
-
-1,500
-
-TESDA
-
-TESDA/
-
-CHED
-
--
-
-1 per
-
-Region
-
-1 per
-
-Region
-
--
-
-30
-
-500
-
-1,000
-
-500
-
-1,500
-
--
-
-TESDA/
-
-CHED
-
--
-
-1 per
-
-Region
-
-1 per
-
-Region
-
--
-
-30
-
-500
-
-1,000
-
-500
-
-1,500
-
--
-
-TESDA/
-
-CHED
-
--
-
-1 per
-
-Region
-
-1 per
-
-Region
-
--
-
-30
-
-500
-
-1,000
-
-500
-
-1,500
-
--
-
-TESDA/
-
-CHED
-
--
-
-1 per
-
-Region
-
-1 per
-
-Region
-
--
-
-30
-
-500
-
-1,000
-
-500
-
-1,500
-
--
-
-TESDA/
-
-CHED
-
-500
-
-150
-
-2,500
-
-5,000
-
-2,500
-
-7,500
+3. Lifelong Learning Mechanism/Ladderization and Articulation | Ladderization of TVET and Higher Education Programs (EO 358) (TESDA): Organization of Technical Secretariat; Joint TESDA-CHED Senior Officials Workshops; Joint Workshops of TESDA and CHED Technical Panels; Social Marketing and Advocacy; Consultation with end-users; Nationwide implementation of Systems, Networks and | This aims to develop and implement a unified national qualifications framework that establishes equivalency pathways and access ramps for a ladderized system allowing for easier transitions and progressions between TVET and higher education (HE). | TVIs; COROPOTI; LGAs; TVIs/Graduates; TVIs, Individuals; TVIs, Individuals | No. of technical secretariat organized; No. of Articulated Programs implemented; No. of Equivalency formalized | 1 Technical Secretariat; 1 per Region; 1 per Region | 500; 30; 500; 1,000; 500; 1,500 | TESDA; TESDA/CHED | -; 1 per Region; 1 per Region | -; 30; 500; 1,000; 500; 1,500 | -; TESDA/CHED | -; 1 per Region; 1 per Region | -; 30; 500; 1,000; 500; 1,500 | -; TESDA/CHED | -; 1 per Region; 1 per Region | -; 30; 500; 1,000; 500; 1,500 | -; TESDA/CHED | -; 1 per Region; 1 per Region | -; 30; 500; 1,000; 500; 1,500 | -; TESDA/CHED | 500; 150; 2,500; 5,000; 2,500; 7,500
 
 Page   48
 
@@ -4194,16 +1847,12 @@ Page   48
 
 [[START OF PAGE 70]]
 
-Strategies | Program | Brief | Beneficiary | Performance | TARGETS | 2009 | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | COST
-Description | Indicators | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
-Programs Sourcing of additional funds from internationals funding agencies Development | COROPOTI
-of distance learning program for the bridging requirements | COROPOTI | 2,000 | 2,000 | 2,000 | 2,000 | 2,000 | 10,000
- Development of the Philippine National Qualifications Framework (PNQF) | Adoption of National Qualifications Framework | TVIs - | No. of formal arrangement implemented | 1 per Region | 12,749 | TESDA 1 | per Region | 12,749 | TESDA | 1 per Region | 12,749 | TESDA | 1 per Region | 12,749 TESDA | 1 per Region | 12,749 | TESDA | 63,745
-(TESDA)  Workers Organization Tripartism and Empowerment Program (DOLE) | Labor education program involves the conduct of formal and non-formal education/ training aimed at promoting the awareness of both labor and management on their All of | types and levels workers in both the organized and unorganized sector - - covered | No. seminars conducted based on revised curriculum on labor education No. of firms by management | 700 100 | 130,958 | DOLE | 700 100 | 139,470 | DOLE/ OSEC 100 | 700 | 148,536 DOLE | 700 100 | 158,191 DOLE | 700 100 | 168,473 | DOLE | 745,628
- Overseas Employment Program (DOLE) | standards, etc… Pre-departure Orientation Seminar (PDOS) refers to assistance extended to departing OFWs in the form of seminars designed to provide workers with insight into the culture and | OFWs - No. of departure (PDOs) conducted - No. of (PEOs) | pre- orientations pre- employment orientations 100 41 | 38,693 | DOLE/ POEA 100 41 | 41,208 DOLE/ POEA | 41 | 100 | 43,886 | DOLE/ POEA 41 | 100 | 53,012 DOLE/ POEA | 100 41 | 53,012 POEA | DOLE/ | 229,811
- Strengthen Student Assistance Program | complaint, etc… Expanding Financial assistance to deserving students TVET | scholars - No. of scholars granted | All | Regions | 17,000 | CHED 3 | Regions | 19,500 CHED | monitored /evaluated programs | 19,500 | CHED | monitored /evaluated programs | 7,667 | CHED | monitored /evaluated programs | 7,667 | CHED | 71,334
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+Programs; Sourcing of additional funds from internationals funding agencies; Development of distance learning program for the bridging requirements |  |  | COROPOTI; COROPOTI |  |  | 2,000 |  |  | 2,000 |  |  | 2,000 |  |  | 2,000 |  |  | 2,000 |  | 10,000
+ | Development of the Philippine National Qualifications Framework (PNQF) (TESDA) | Adoption of National Qualifications Framework | TVIs | No. of formal arrangement implemented | 1 per Region | 12,749 | TESDA | 1 per Region | 12,749 | TESDA | 1 per Region | 12,749 | TESDA | 1 per Region | 12,749 | TESDA | 1 per Region | 12,749 | TESDA | 63,745
+ | Workers Organization Tripartism and Empowerment Program (DOLE) | Labor education program involves the conduct of formal and non-formal education/training aimed at promoting the awareness of both labor and management on their rights and responsibilities and other related labor & management concerns i.e. laws and policies on labor standards, etc… | All types and levels of workers in both the organized and unorganized sector | No. seminars conducted based on revised curriculum on labor education; No. of firms covered by management education | 700; 100 | 130,958 | DOLE | 700; 100 | 139,470 | DOLE/OSEC | 700; 100 | 148,536 | DOLE | 700; 100 | 158,191 | DOLE | 700; 100 | 168,473 | DOLE | 745,628
+ | Overseas Employment Program (DOLE) | Pre-departure Orientation Seminar (PDOS) refers to assistance extended to departing OFWs in the form of seminars designed to provide workers with insight into the culture and customs of host countries as well as information on matters of taxation, remittances, filing of complaint, etc… | OFWs | No. of pre-departure orientations (PDOs) conducted; No. of pre-employment orientations (PEOs) conducted | 100; 41 | 38,693 | DOLE/POEA | 100; 41 | 41,208 | DOLE/POEA | 100; 41 | 43,886 | DOLE/POEA | 100; 41 | 53,012 | DOLE/POEA | 100; 41 | 53,012 | DOLE/POEA | 229,811
+ | Strengthen Student Assistance Program (CHED) | Expanding Financial assistance to deserving students | TVET scholars | No. of scholars granted | All Regions | 17,000 | CHED | 3 Regions | 19,500 | CHED | monitored/evaluated programs | 19,500 | CHED | monitored/evaluated programs | 7,667 | CHED | monitored/evaluated programs | 7,667 | CHED | 71,334
 
 Page   49
 
@@ -4211,17 +1860,16 @@ Page   49
 
 [[START OF PAGE 71]]
 
-Strategies | Performance Indicators | TARGETS | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Program | Brief Description | 2005 | 2006 | 2007 | COST
-Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
- Project SAGIP KAPATID (Serve and Assist the Genuine Indigenous People Through Knowledge/Ap plication Towards Immediate Dev't.) (TESDA/ DepED) | Provide the needed appropriate/relevant literacy life skills based from the new alternative learning system (ALS) curriculum framework | Indigenous People - | No. of class/division organized 5 | classes | 100 | LGU, LSB, self-help | 10 classes | 20 | LGU, LSB, self-help | 15 classes | 140 LGU, LSB, self-help | 20 classes | 180 LGU, self-help | LSB, 25 classes | 200 LGU, LSB, self-help | 640
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Project SAGIP KAPATID (Serve and Assist the Genuine Indigenous People Through Knowledge/Application Towards Immediate Dev't.) (TESDA/DepED) | Provide the needed appropriate/relevant literacy life skills based from the new alternative learning system (ALS) curriculum framework | Indigenous People | No. of class/division organized | 5 classes | 100 | LGU, LSB, self-help | 10 classes | 20 | LGU, LSB, self-help | 15 classes | 140 | LGU, LSB, self-help | 20 classes | 180 | LGU, LSB, self-help | 25 classes | 200 | LGU, LSB, self-help | 640
+
 Sub-total P1,139,308
-4. Expanding Scholarships and other Incentive Support Services |  Student Financial Assistance Programs (CHED) | Provision of scholarship support to students in the higher level education | All Regions - No. of scholars | 42,600 developed for need- based & merit- based selection of student beneficia- ries | 374,000 | CHED | 42,600 | 398,310 | CHED | 42,600 | 424,200 CHED | 14,200 | 506,919 CHED | 14,200 | 1,703,429 CHED | 3,406,858
- Private Education Student Financial Assistance (PESFA) | TESDA scholarship and financial assistance to deserving TVET students | All Regions - No. of scholars | - 13,800 scholars | 290,505 | TESDA - | 13,800 scholars | 290,505 | TESDA | - 13,800 scholars | 290,505 TESDA | - | 13,800 scholars | 290,505 TESDA | - 13,800 scholars | 290,505 | TESDA | 1,452,525
-(TESDA)  Iskolar ng Mahirap na Pamilya (IMP) (TESDA) | Financial assistance for deserving and poor students | All Regions - No. of scholars | IMP 1,979 | scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 TESDA | 1,979 scholars | 30,000 TESDA | 150,000
- Skills for Employment Scholarship Program (SESP) (OWWA) | Technical/vocational program offered to landbased or seabased OFWs | OFWs or Beneficiaries dependents - No. of | OFWs or beneficiary dependents | 745 | 6,000 | OWWA | 745 | 6,000 | OWWA | 745 | 6,000 OWWA | 745 | 6,000 | OWWA | 745 | 6,000 OWWA | 30,000
- Seafarers Upgrading Scholarship Program (SUSP) (OWWA) | Design to upgrade knowledge and skills develop expertise and update skills of Seafarers | Seafarers - No. of Seafarers | 1,880 | 10,000 | OWWA | 1,880 | 10,000 | OWWA | 1,880 | 10,000 OWWA | 1,880 | 10,000 OWWA | 1,880 | 10,000 | OWWA | 50,000
+
+4. Expanding Scholarships and other Incentive Support Services | Student Financial Assistance Programs (CHED) | Provision of scholarship support to students in the higher level education | All Regions | No. of scholars | 42,600 developed for need-based & merit-based selection of student beneficiaries | 374,000 | CHED | 42,600 | 398,310 | CHED | 42,600 | 424,200 | CHED | 14,200 | 506,919 | CHED | 14,200 | 1,703,429 | CHED | 3,406,858
+ | Private Education Student Financial Assistance (PESFA) (TESDA) | TESDA scholarship and financial assistance to deserving TVET students | All Regions | No. of scholars | 13,800 scholars | 290,505 | TESDA | 13,800 scholars | 290,505 | TESDA | 13,800 scholars | 290,505 | TESDA | 13,800 scholars | 290,505 | TESDA | 13,800 scholars | 290,505 | TESDA | 1,452,525
+ | Iskolar ng Mahirap na Pamilya (IMP) (TESDA) | Financial assistance for deserving and poor students | All Regions | No. of IMP scholars | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 1,979 scholars | 30,000 | TESDA | 150,000
+ | Skills for Employment Scholarship Program (SESP) (OWWA) | Technical/vocational program offered to landbased or seabased OFWs | OFWs or Beneficiaries dependents | No. of OFWs or beneficiary dependents | 745 | 6,000 | OWWA | 745 | 6,000 | OWWA | 745 | 6,000 | OWWA | 745 | 6,000 | OWWA | 745 | 6,000 | OWWA | 30,000
+ | Seafarers Upgrading Scholarship Program (SUSP) (OWWA) | Design to upgrade knowledge and skills develop expertise and update skills of Seafarers | Seafarers | No. of Seafarers | 1,880 | 10,000 | OWWA | 1,880 | 10,000 | OWWA | 1,880 | 10,000 | OWWA | 1,880 | 10,000 | OWWA | 1,880 | 10,000 | OWWA | 50,000
 
 Page   50
 
@@ -4229,18 +1877,15 @@ Page   50
 
 [[START OF PAGE 72]]
 
-Strategies | Program | Beneficiary | Performance Indicators | TARGETS | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | COST
-Description | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) Source | ('000)
- DOST- Academe Technology - Based Enterprise Development (DATBED) (DOST) Financial extended schools, professionals entrepreneurs establish enterprises | Public schools, OSY, young professionals and entrepreneurs | - No. of school accredited - No. of technology- based enterprises established/ created - No. of students, OSY and young professionals assisted | 4 6 10 | 2,500 | DOST | 4 6 10 | 2,500 | DOST | 4 6 10 | 3,000 DOST | - | - - | - | - | - | 8,000
-Science and Technology Scholarship (DOST) Education training for economically socially groups | disadvantaged Students | No. of students who availed of the scholarship | 10,000 | 303,700 | DOST | 10,000 | 303,700 | DOST | 10,000 | 303,700 DOST | 10,000 | 303,700 | DOST | 10,000 | 303,700 DOST | 1,518,500
- Career Guidance (TESDA) Strengthening Guidance counseling prepare gainful | Career to for TVIs | - No. of students counseled | 80,000 students (10% of DepED projection) | 3,826 | TESDA | 80,000 students | 3,826 | TESDA | 80,000 students | 3,826 TESDA | 80,000 students | 3,826 | TESDA 80,000 students | 3,826 | TESDA | 19,130
- Congressional Scholarship Programs (TESDA) Expand Scholarship opportunities and deserving students | poor Students | - No. of Scholars | 390 | 1,025 PDAF- TESDA | 500 | 1,375 | PDAF- TESDA | - | - - | - | - - | - | - | - | 2,400
- LGU-TVET Scholarship (TESDA) Broadening investment TVET | in Students | - No. of Scholars | 25 | 125 LGUs | 35 | 175 | LGUs | 50 | 250 LGUs | 50 | 250 LGUs | 50 | 250 LGUs | 1,050
- Project Grants for Educational Assistance on Technology Courses for Muslims (TESDA) Financial provided Muslim TVET | deserving Muslim students | No. of scholars | 10 scholars | 80 DOST | 15 | scholars | 129 | DOST | 20 scholars | 160 DOST | 30 scholars | 176 | DOST 30 | scholars | 176 DOST | 721
- Paaral Para sa Sarangans Program (TESDA) Financial provided Sarangans TVET | in Sarangans students | No. of MLGUs sponsored scholarship | 7 MLGUs | 1,271 LGU | Sarangani Province - | 1,399 | LGU Sarangani Province | - | 1,538 LGU Sarangani Province | - | - - | - | - - | 4,208
- Provision of Scholarship (TESDA) Fund students technical | up Less privileged high school graduates who cannot afford to pursue degree programs | - Scholars served | 600 | 1,800 | PDAF | 600 | 1,800 | PDAF | 600 | 1,800 PDAF | 600 | 1,800 | PDAF - | - - | 7,200
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | DOST-Academe Technology-Based Enterprise Development (DATBED) (DOST) | Financial assistance extended to public schools, OSY, young professionals and entrepreneurs to establish micro-enterprises projects | Public schools, OSY, young professionals and entrepreneurs | No. of school accredited; No. of technology-based enterprises established/created; No. of students, OSY and young professionals assisted | 4; 6; 10 | 2,500 | DOST | 4; 6; 10 | 2,500 | DOST | 4; 6; 10 | 3,000 | DOST | - | - | - | - | - | - | 8,000
+ | Science and Technology Scholarship (DOST) | Education and training scholarship for economically and socially disadvantaged groups | Students | No. of students who availed of the scholarship | 10,000 | 303,700 | DOST | 10,000 | 303,700 | DOST | 10,000 | 303,700 | DOST | 10,000 | 303,700 | DOST | 10,000 | 303,700 | DOST | 1,518,500
+ | Career Guidance (TESDA) | Strengthening Career Guidance and counseling services to prepare the youth for gainful occupations | TVIs | No. of students counseled | 80,000 students (10% of DepED projection) | 3,826 | TESDA | 80,000 students | 3,826 | TESDA | 80,000 students | 3,826 | TESDA | 80,000 students | 3,826 | TESDA | 80,000 students | 3,826 | TESDA | 19,130
+ | Congressional Scholarship Programs (TESDA) | Expand TVET Scholarship opportunities for poor and deserving students | Students | No. of Scholars | 390 | 1,025 | PDAF-TESDA | 500 | 1,375 | PDAF-TESDA | - | - | - | - | - | - | - | - | - | 2,400
+ | LGU-TVET Scholarship (TESDA) | Broadening investment of LGUs in TVET | Students | No. of Scholars | 25 | 125 | LGUs | 35 | 175 | LGUs | 50 | 250 | LGUs | 50 | 250 | LGUs | 50 | 250 | LGUs | 1,050
+ | Project Grants for Educational Assistance on Technology Courses for Muslims (TESDA) | Financial assistance provided to deserving Muslim students in TVET programs | Muslim students | No. of scholars | 10 scholars | 80 | DOST | 15 scholars | 129 | DOST | 20 scholars | 160 | DOST | 30 scholars | 176 | DOST | 30 scholars | 176 | DOST | 721
+ | Paaral Para sa Sarangans Program (TESDA) | Financial assistance provided to Sarangans students in TVET programs | Sarangans students | No. of MLGUs sponsored scholarship | 7 MLGUs | 1,271 | LGU Sarangani Province | - | 1,399 | LGU Sarangani Province | - | 1,538 | LGU Sarangani Province | - | - | - | - | - | - | 4,208
+ | Provision of Scholarship (TESDA) | Fund subsidy for students who take up technical programs | Less privileged high school graduates who cannot afford to pursue degree programs | Scholars served | 600 | 1,800 | PDAF | 600 | 1,800 | PDAF | 600 | 1,800 | PDAF | 600 | 1,800 | PDAF | - | - | - | 7,200
 
 Page   51
 
@@ -4248,16 +1893,15 @@ Page   51
 
 [[START OF PAGE 73]]
 
-Strategies | Beneficiary | TARGETS | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Program | Brief | Performance | 2005 | 2007 | 2008 | 2009 | COST
-Description | Indicators | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
- Tendering Program (TESDA) | This is packaging a training program through an invitation to at least three training providers of the concerned industry to present project proposals to meet the competency development needs of a particular group of clients. | Training providers and TVET students | No. of persons trained for priority/ available occupations | - | 373,367 | - - | 397,636 | - | - | 421,905 | - | 470,443 - | - | 470,443 - | 2,133,794
-Sub-total | P8,784,386
-5. Competency -based TVET |  Expansion of TVET institution roles in training provision (TESDA)  Delivery of | Expanding the roles of TVET institutions in training provisions Supervision and support in the delivery of TVET a. Institution and Center-based | TVIs TVIs/HEIs RTCs, PTCs - | Rate of increase in the no. of trained persons | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | 60% increase of 120,000 trained persons | 623,752 TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 3,118,760
-TVET Programs (TESDA) | Programs - Regular Programs - Short-term Programs b. Community-based c. Enterprise-based | CTECs Partner enterprises - - | No. of students No. of students - No. of CTECs - No. of Partner enterprises | 51,442 51,882 1,124 500 | 35,763 3,715 | TESDA 51,882 500 | 51,442 1,124 | 35,763 3,715 | TESDA | 51,442 51,882 1,124 500 | 35,763 3,715 | 51,442 51,882 1,124 500 | 35,763 3,715 TESDA | 51,442 51,882 1,124 500 | 35,763 3,715 | TESDA | 178,815 18,575
- Development/ Enhancement of Curriculum (TESDA) | Regular review and revision of TVET curricula to strengthen foundation skills, entrepreneurship development, values, work ethics and | All regions - | Prototype curricula developed and adopted | 3,810 | TESDA | Prototype curricula developed and adopted | 4,058 | TESDA | Prototype curricula developed and adopted | 4,306 | Prototype curricula developed and adopted | 4,554 TESDA | Prototype curricula developed and adopted | 4,802 | TESDA | 21,530
- Distance Learning (TESDA) | Establishment of e- centers in every TESDA school. Development and utilization of DL curriculum by other providers such as NGOs and academic organizations. | All regions - - - | No. of e-center established in every TESDA school No. of DL curriculum developed and utilized No. of graduates of DL | 59 | 18,000 2,671 | TESDA TESDA | - | - 2,845 | - TESDA | - | - | - | - - | - | - | - | 18,000 5,516
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Tendering Program (TESDA) | This is packaging a training program through an invitation to at least three training providers of the concerned industry to present project proposals to meet the competency development needs of a particular group of clients. | Training providers and TVET students | No. of persons trained for priority/available occupations | - | 373,367 | - | - | 397,636 | - | - | 421,905 | - | - | 470,443 | - | - | 470,443 | - | 2,133,794
+
+Sub-total P8,784,386
+
+5. Competency-based TVET | Expansion of TVET institution roles in training provision (TESDA) | Expanding the roles of TVET institutions in training provisions | TVIs | Rate of increase in the no. of trained persons | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 60% increase of 120,000 trained persons | 623,752 | TESDA | 3,118,760
+ | Delivery of TVET Programs (TESDA) | Supervision and support in the delivery of TVET: a. Institution and Center-based Programs - Regular Programs - Short-term Programs; b. Community-based; c. Enterprise-based | TVIs/HEIs; RTCs, PTCs; CTECs; Partner enterprises | No. of students; No. of students; No. of CTECs; No. of Partner enterprises | 51,442; 51,882; 1,124; 500 | 35,763; 3,715 | TESDA | 51,442; 51,882; 1,124; 500 | 35,763; 3,715 | TESDA | 51,442; 51,882; 1,124; 500 | 35,763; 3,715 | TESDA | 51,442; 51,882; 1,124; 500 | 35,763; 3,715 | TESDA | 51,442; 51,882; 1,124; 500 | 35,763; 3,715 | TESDA | 178,815; 18,575
+ | Development/Enhancement of Curriculum (TESDA) | Regular review and revision of TVET curricula to strengthen foundation skills, entrepreneurship development, values, work ethics and gender sensitivity | All regions |  | Prototype curricula developed and adopted | 3,810 | TESDA | Prototype curricula developed and adopted | 4,058 | TESDA | Prototype curricula developed and adopted | 4,306 | TESDA | Prototype curricula developed and adopted | 4,554 | TESDA | Prototype curricula developed and adopted | 4,802 | TESDA | 21,530
+ | Distance Learning (TESDA) | Establishment of e-centers in every TESDA school. Development and utilization of DL curriculum by other providers such as NGOs and academic organizations. | All regions | No. of e-center established in every TESDA school; No. of DL curriculum developed and utilized; No. of graduates of DL | 59; -; - | 18,000; 2,671; - | TESDA; TESDA; - | -; -; - | -; 2,845; - | -; TESDA; - | -; -; - | -; -; - | -; -; - | -; -; - | -; -; - | -; -; - | -; -; - | -; -; - | -; -; - | 18,000; 5,516; -
 
 Page   52
 
@@ -4265,17 +1909,14 @@ Page   52
 
 [[START OF PAGE 74]]
 
-Strategies | Program | Brief Description | Beneficiary Indicators | Performance | TARGETS | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | COST
-Expected Output | Cost ('000) | Source Expected Output | Cost ('000) | Source | Expected Output Cost ('000) | Source | Expected Output | Cost ('000) | Source Expected Output | Cost ('000) | Source | ('000)
-Skills Training Programs in Priority Sectors and Skills (TESDA) | Provision of skills training in priority sectors and critical skills to create livelihood opportunities and generate employment | All regions | - No. of persons trained | At least 1 million | 558,192 | TESDA At | least 1 million | 594,474 TESDA | At least 1 million | 630,756 | TESDA | At least 1 million | 667,038 | TESDA At least million | 703,320 | TESDA | 3,153,780
-SIKAP Kabataang Pinoy (NYC) | Enhance productivity and employability of youths thru training, capability building & special employment program | Youth individuals - No | of youth beneficiaries | 500 | 1,000 NYC | 500 | 1,000 NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC 500 | 1,000 | NYC | 5,000
-Government Internship Program (NYC) | Employment emergency for out-of- school and out-of- work youths in Metro Manila | Out-of School youth in Metro Manila - No. | of youth beneficiaries | 180 | 1,372 NYC | 180 | 1,372 | NYC | 180 | 1,372 | NYC | 180 | 1,372 NYC | 180 | 1,372 NYC | 6,860
-Ongoing PPAs Skills Training (NHA) Skills Basic | Training on Building, Haircutting/Coloring, Consumer Electronics | Private individuals - No. | of persons trained | 116 | 251 PRRC | 76 | 28 | PRRC | - | - - | - | - - | - | - - | 279
-Training on Testing and analysis of Materials (DOST) | Technology and skills training programs and modules packaging/ repackaging Student | trainees - No. of Trainees | 3 | 25 DOST | 3 | 28 | DOST | 3 | 29 | DOST | - | - | - | - | - | 82
-New PPAs Skills Trainings (NHA) | Skills Training on Manicure/Pedicure, Body Spa, SEA-K organization and collection, Electronics, Masonry, Welding, Private | individuals - No. of persons trained | 109 | 616 PRRC | 4 | 375 | PRRC | 29 | 395 PRRC | 4 | 375 PRRC | 4 | 375 PRRC | 2,136
-Social and Vocational Rehabilitation Program (Community- based Training Program) (DSWD) skills Disability enable tasks. objective clients positive | Concerned with the development of positive social behavior and training for Persons with (PWD) to them to successfully perform The ultimate is to prepare acquire productivity skills and work habits Person | with Disability - No of PWDs graduated to skills training courses | 700 | 14,010 GAA | 700 | 14,010 | GAA | 700 | 14,010 | GAA | 700 | 14,010 GAA | 700 | 14,010 GAA | 70,050
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Skills Training Programs in Priority Sectors and Skills (TESDA) | Provision of skills training in priority sectors and critical skills to create livelihood opportunities and generate employment | All regions | No. of persons trained | At least 1 million | 558,192 | TESDA | At least 1 million | 594,474 | TESDA | At least 1 million | 630,756 | TESDA | At least 1 million | 667,038 | TESDA | At least 1 million | 703,320 | TESDA | 3,153,780
+ | SIKAP Kabataang Pinoy (NYC) | Enhance productivity and employability of youths thru training, capability building & special employment program | Youth individuals | No of youth beneficiaries | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 5,000
+ | Government Internship Program (NYC) | Employment emergency for out-of-school and out-of-work youths in Metro Manila | Out-of School youth in Metro Manila | No. of youth beneficiaries | 180 | 1,372 | NYC | 180 | 1,372 | NYC | 180 | 1,372 | NYC | 180 | 1,372 | NYC | 180 | 1,372 | NYC | 6,860
+ | Ongoing PPAs Skills Training (NHA) | Skills Training on Basic Building, Haircutting/Coloring, Consumer Electronics | Private individuals | No. of persons trained | 116 | 251 | PRRC | 76 | 28 | PRRC | - | - | - | - | - | - | - | - | - | 279
+ | Training on Testing and analysis of Materials (DOST) | Technology and skills training programs and modules packaging/repackaging | Student trainees | No. of Trainees | 3 | 25 | DOST | 3 | 28 | DOST | 3 | 29 | DOST | - | - | - | - | - | - | 82
+ | New PPAs Skills Trainings (NHA) | Skills Training on Manicure/Pedicure, Body Spa, SEA-K organization and collection, Electronics, Masonry, Welding, Cooperative Dev't | Private individuals | No. of persons trained | 109 | 616 | PRRC | 4 | 375 | PRRC | 29 | 395 | PRRC | 4 | 375 | PRRC | 4 | 375 | PRRC | 2,136
+ | Social and Vocational Rehabilitation Program (Community-based Training Program) (DSWD) | Concerned with the development of positive social behavior and training skills for Persons with Disability (PWD) to enable them to successfully perform tasks. The ultimate objective is to prepare clients acquire productivity skills and positive work habits and attitudes through training to develop their residual capacities preparatory to employment | Person with Disability | No of PWDs graduated to skills training courses | 700 | 14,010 | GAA | 700 | 14,010 | GAA | 700 | 14,010 | GAA | 700 | 14,010 | GAA | 700 | 14,010 | GAA | 70,050
 
 Page   53
 
@@ -4283,721 +1924,13 @@ Page   53
 
 [[START OF PAGE 75]]
 
-Strategies
-
-Program
-
-Brief
-
-Description
-
-Beneficiary
-
-Performance
-
-Indicators
-
-TARGETS
-
-TOTAL
-
-COST
-
-('000)
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-Expected
-
-Output
-
-Cost
-
-('000)
-
-Source
-
-
-
-Technology
-
-Trainings
-
-(TESDA)
-
-Conduct of training to
-
-enhance the
-
-participants'
-
-knowledge and
-
-promote new
-
-technologies for
-
-increased quality
-
-outputs/products
-
-SMEs/Producers,
-
-etc.
-
--
-
-No. of trainees
-
--
-
-No. of trainings
-
-conducted
-
-60 partici-
-
-pants
-
-980 DOST
-
-65 partici-
-
-pants
-
-2,020 DOST
-
-70 partici-
-
-pants
-
-2,360 DOST
-
-240
-
-partici-
-
-pants
-
-7,920 DOST
-
-240
-
-partici-
-
-pants
-
-7,920 DOST
-
-21,200
-
-
-
-Rendering of
-
-Technical
-
-Assistance
-
-(TESDA)
-
-Technical assistance
-
-provided to fisherfolk
-
-of Negros Occidental
-
-Fisherfolks
-
--
-
-No. of fisherfolks
-
-provided with
-
-technical
-
-assistance
-
-3,930
-
-1,140 BFAR
-
-3,930
-
-1,140 BFAR
-
-3,930
-
-1,140 BFAR
-
-3,930
-
-1,260 BFAR
-
-3,930
-
-1,260 BFAR
-
-5,940
-
-
-
-Alternative
-
-Livelihood for
-
-Displaced
-
-Workers Skills
-
-Enhancement
-
-Cooperative
-
-Formation
-
-(TESDA)
-
-Conduct of skills
-
-training formation of
-
-cooperative to start
-
-business
-
-Displaced Workers
-
--
-
-No.
-
-classes/division
-
-organized
-
-28 classes
-
-650 LGU Self-
-
-help
-
-42 classes
-
-692 LGU Self-
-
-help
-
-56 classes
-
-737 LGU Self-
-
-help
-
-70 classes
-
-785 LGU Self-
-
-help
-
-84 classes
-
-836 LGU Self-
-
-help
-
-3,700
-
-
-
-Revitalization
-
-of the Coffee
-
-Industry
-
-(TESDA)
-
-Conduct of Trainings
-
-on rejuvenation,
-
-balanced fertilization,
-
-improved quality &
-
-increased
-
-productivity.
-
-Conduct of seminars
-
-on new varieties of
-
-coffee, institutional
-
-enhancement and
-
-advocacy
-
-Coffee growers
-
--
-
-No of training
-
-conducted
-
--
-
-No. of attendees
-
--
-
-No. of areas
-
-rejuvenized
-
-Gained
-
-knowledge
-
-on
-
-revitalizati
-
-on of
-
-coffee
-
-industry
-
-thru
-
-trainings &
-
-advocacy
-
-3,000 DA/LDB
-
-Quedancor
-
-Gained
-
-knowledge
-
-on
-
-revitaliza-
-
-tion of
-
-coffee
-
-industry
-
-thru
-
-trainings &
-
-advocacy
-
-3,000 DA/LDB
-
-Quedancor
-
-Gained
-
-knowledge
-
-on
-
-revitaliza-
-
-tion of
-
-coffee
-
-industry
-
-thru
-
-trainings &
-
-advocacy
-
-3,000 DA/LDB
-
-Quedancor
-
-Gained
-
-knowledge
-
-on
-
-revitaliza-
-
-tion of
-
-coffee
-
-industry
-
-thru
-
-trainings &
-
-advocacy
-
-3,000 DA/LDB
-
-Quedancor
-
-Gained
-
-knowledge
-
-on
-
-revitaliza-
-
-tion of
-
-coffee
-
-industry
-
-thru
-
-trainings &
-
-advocacy
-
-3,000 DA/LDB
-
-Quedancor
-
-15,000
-
-
-
-DOST
-
-Technology
-
-Training
-
-Center
-
-(DTTC)
-
-Program
-
-(DOST)
-
-Establishment of
-
-training centers and
-
-provision of technical
-
-assistance in the
-
-conduct of trainings
-
-Promotion technology
-
-adoption through
-
-conduct of training for
-
-entrepreneurs, NGOs
-
-and individual
-
-Manufacturers of
-
-fashion &
-
-accessories,
-
-Cebu FAME staff,
-
-Technicians & staff
-
-of jewelry
-
-companies
-
-Entrepreneurs,
-
-industry
-
-association
-
--
-
-No. of new
-
-training centers
-
-assisted/
-
-established
-
--
-
-No. of trainings
-
-conducted/
-
-assisted
-
--
-
-Amount of seed
-
-money
-
-generated
-
--
-
-No. of trainings
-
-conducted/
-
-assisted
-
--
-
-No. of pax
-
-2
-
-2
-
-50,000
-
-10
-
-200
-
-1,000
-
-1,500
-
-DOST/
-
-TAPI-
-
-Cebu
-
-FAME &
-
-CDDTC
-
-TAPI-GIA
-
-2
-
-2
-
-100,000
-
-15
-
-300
-
-1,250
-
-2,000
-
-DOST/
-
-TAPI-
-
-Cebu
-
-FAME &
-
-CDDTC
-
-TAPI-GIA
-
-2
-
-2
-
-200,000
-
-15
-
-300
-
-1,500
-
-2,000
-
-DOST/
-
-TAPI-
-
-Cebu
-
-FAME &
-
-CDDTC
-
-TAPI-GIA
-
--
-
-20
-
-400
-
--
-
-2,500
-
--
-
-TAPI-GIA
-
--
-
-20
-
-400
-
--
-
-3,000
-
--
-
-TAPI-GIA
-
-3,750
-
-11,000
-
-
-
-Aqua Industry
-
-(TESDA)
-
-Establishment of a
-
-community-based
-
-aqua industry
-
-Entrepreneurs
-
--
-
-Technology
-
-adopted
-
--
-
-No. of trainings
-
-1
-
-15
-
-1,000 DOST/
-
-SETUP
-
-1
-
-20
-
-1,200 DOST/
-
-SETUP
-
-1
-
-25
-
-1,500 DOST/
-
-SETUP
-
-1
-
-30
-
-1,500 DOST/
-
-SETUP
-
-1
-
-35
-
-2,000 DOST/
-
-SETUP
-
-7,200
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | 2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source | TOTAL COST ('000)
+ | Technology Trainings (TESDA) | Conduct of training to enhance the participants' knowledge and promote new technologies for increased quality outputs/products | SMEs/Producers, etc. | No. of trainees; No. of trainings conducted | 60 participants | 980 | DOST | 65 participants | 2,020 | DOST | 70 participants | 2,360 | DOST | 240 participants | 7,920 | DOST | 240 participants | 7,920 | DOST | 21,200
+ | Rendering of Technical Assistance (TESDA) | Technical assistance provided to fisherfolk of Negros Occidental | Fisherfolks | No. of fisherfolks provided with technical assistance | 3,930 | 1,140 | BFAR | 3,930 | 1,140 | BFAR | 3,930 | 1,140 | BFAR | 3,930 | 1,260 | BFAR | 3,930 | 1,260 | BFAR | 5,940
+ | Alternative Livelihood for Displaced Workers Skills Enhancement Cooperative Formation (TESDA) | Conduct of skills training formation of cooperative to start business | Displaced Workers | No. classes/division organized | 28 classes | 650 | LGU Self-help | 42 classes | 692 | LGU Self-help | 56 classes | 737 | LGU Self-help | 70 classes | 785 | LGU Self-help | 84 classes | 836 | LGU Self-help | 3,700
+ | Revitalization of the Coffee Industry (TESDA) | Conduct of Trainings on rejuvenation, balanced fertilization, improved quality & increased productivity. Conduct of seminars on new varieties of coffee, institutional enhancement and advocacy | Coffee growers | No of training conducted; No. of attendees; No. of areas rejuvenized | Gained knowledge on revitalization of coffee industry thru trainings & advocacy | 3,000 | DA/LDB Quedancor | Gained knowledge on revitalization of coffee industry thru trainings & advocacy | 3,000 | DA/LDB Quedancor | Gained knowledge on revitalization of coffee industry thru trainings & advocacy | 3,000 | DA/LDB Quedancor | Gained knowledge on revitalization of coffee industry thru trainings & advocacy | 3,000 | DA/LDB Quedancor | Gained knowledge on revitalization of coffee industry thru trainings & advocacy | 3,000 | DA/LDB Quedancor | 15,000
+ | DOST Technology Training Center (DTTC) Program (DOST) | Establishment of training centers and provision of technical assistance in the conduct of trainings; Promotion technology adoption through conduct of training for entrepreneurs, NGOs and individual | Manufacturers of fashion & accessories, Cebu FAME staff, Technicians & staff of jewelry companies; Entrepreneurs, industry association | No. of new training centers assisted/established; No. of trainings conducted/assisted; Amount of seed money generated; No. of trainings conducted/assisted; No. of pax | 2; 2; 50,000; 10; 200 | 1,000; 1,500 | DOST/TAPI-Cebu FAME & CDDTC; TAPI-GIA | 2; 2; 100,000; 15; 300 | 1,250; 2,000 | DOST/TAPI-Cebu FAME & CDDTC; TAPI-GIA | 2; 2; 200,000; 15; 300 | 1,500; 2,000 | DOST/TAPI-Cebu FAME & CDDTC; TAPI-GIA | -; -; -; 20; 400 | -; 2,500 | -; TAPI-GIA | -; -; -; 20; 400 | -; 3,000 | -; TAPI-GIA | 3,750; 11,000
+ | Aqua Industry (TESDA) | Establishment of a community-based aqua industry | Entrepreneurs | Technology adopted; No. of trainings | 1; 15 | 1,000 | DOST/SETUP | 1; 20 | 1,200 | DOST/SETUP | 1; 25 | 1,500 | DOST/SETUP | 1; 30 | 1,500 | DOST/SETUP | 1; 35 | 2,000 | DOST/SETUP | 7,200
 
 Page   54
 
@@ -5014,9 +1947,9 @@ Description | Expected Output | Cost ('000) | Source | Expected Output | Cost ('
  Marine and Brackistwater Project (TESDA) | Establishment of a marine and brackistwater mini fishery industry | Gonzaga's best members - | No. of trainings conducted | 5 | 1,000 | DOST/ SETUP - | - | - | - | - - | - | - - | - | - - | 1,000
  Food Production (TESDA) | Establishment of a community-based food production and processing industry | Food processors - - | Technology adopted No. of trainings conducted | 3 1 | 1,000 DOST/ SETUP | 1 | 20 | 1,200 | DOST/ SETUP | 1 25 | 1,500 | DOST/ SETUP | 1 30 | 1,500 DOST/ SETUP | 1 | 35 | 2,000 DOST/ SETUP | 7,200
  Furniture (TESDA) | Upgrading of Furniture Producers Association in Cagayan, Isabela, Nueva Viscaya | Furniture makers - | No. of trainings conducted | 1 | 1,000 DOST/ SETUP | - | - | - | - | - - | - | - - | - | - - | 1,000
- GMA Livestock and other regular programs (TESDA/DA) | Conduct of Season Long Technical and Special Training, extension support, Education and Training services like: - Farmer Led Extension (FLE) on integrated SR production | Livestock owners/ Ranchers - - | No. of trainings No. of participants | - | - - | 5 | 180 | 800 DA | 5 189 | 900 | DA 8 | 280 | 1,440 DA | 9 | 315 | 1,620 DA | 4,760
- GMA-Corn (TESDA/DA) | Conduct of Agribusiness Enterprise Training, Workshop on Value Adding and Extension Support, Education and Training services like: - Entrepreneurial and Training Support - Farmers Season Long, Farmers Led Extension | Rural Women, Youths and Corn Farmers - - | No. of trainings No. of participants | 10 60 | 758 DA | - | - | - DA | - | - - | - | - - | - | - - | 758
-Provides training and other activities that will enhance the capability of corn cluster cooperative | Corn Farmers/Corn Growers - - - | No. of batches No. of trainings No. of participants | 4 - 160 | 547 DA | - 22 | 1,110 | 1,250 | - 22 1,050 | 1,350 DA | - 22 | 1,150 | 1,350 DA | - 22 | 1,150 | 1,450 DA | 5,947
+ GMA Livestock and other regular programs (TESDA/DA) | Conduct of Season Long Technical and Special Training, extension support, Education and Training services like: - Farmer Led Extension (FLE) on integrated SR production - Farmer Field School (FFS) on goat and sheep production | Livestock owners/Ranchers | - No. of trainings - No. of participants | - | - | - | 5 180 | 800 | DA | 5 189 | 900 | DA | 8 280 | 1,440 | DA | 9 315 | 1,620 | DA | 4,760
+ GMA-Corn (TESDA/DA) | Conduct of Agribusiness Enterprise Training, Workshop on Value Adding and Extension Support, Education and Training services like: - Entrepreneurial and Training Support - Farmers Season Long, Farmers Led Extension | Rural Women, Youths and Corn Farmers | - No. of trainings - No. of participants | 10 60 | 758 | DA | - | - | - | - | - | - | - | - | - | - | - | - | 758
+Provides training and other activities that will enhance the capability of corn cluster cooperative | Corn Farmers/Corn Growers | - No. of batches - No. of trainings - No. of participants | 4 - 160 | 547 | DA | - 22 1,110 | 1,250 | DA | - 22 1,050 | 1,350 | DA | - 22 1,150 | 1,350 | DA | - 22 1,150 | 1,450 | DA | 5,947
 
 Page   55
 
@@ -5028,11 +1961,12 @@ Program | Brief | Performance Indicators | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2005 | 2006 | COST
 Description | Expected Output | Cost ('000) | Source | Expected Output Cost ('000) | Source Expected Output | Cost ('000) | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
- GMA-HVCC (TESDA/DA) | - Trainor's Training Conduct of Package of Technology and Specialized training and Extension Support, Education and Training Services like: - Farmers Season Long, Farmer Led Extension - FFS Training - Farmers Led Extension Training HCC Growers, Vegetables Growers, Citrus Growers | - No. of trainings - No. of participants - FSS Conducted - No. of participants | 2 50 2 50 | 55 - DA | 2 50 | - | 60 | - DA | 7 29 | 709 640 DA | 7 29 | 759 640 DA | 7 29 | 809 640 DA | 2,392 1,920
- GMA-Rice (TESDA/DA) | Conduct of Training on Management and Proper Handling of Hand Tractor and Thresher and Post Corn Farmers, 4H Club members | - No. of batches - No. of participants - No of trainings | - | - - | 4 180 1 | 312 | DA | 4 180 1 | 414 DA | 4 180 1 | 363 DA | - | - - | 1,089
- FYDP and FHRMP (TESDA/DA) | Entrepreneurial capability building course for food processors and 4H and IRC members | - No. of trainings - No. of participants | - | - | - 2 | 50 | 54 DA | 2 50 | 30 DA | 2 50 | 55 DA | - | - - | 139
- Delivery Programs of Private TVIs (TESDA) | Provision of Vocational Education and Training Out-of-school youths, high school graduates, college graduates, college undergraduates | - No. persons trained | 613 | 3,220 BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 670 | 3,030 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 1,050 | 3,780 BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 1,575 | 4,095 BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 2,300 | 12,720 BEST, CHCS, CNCT, CACT, | RCI, KCST, NCF | 26,845
- Sectoral Training (TESDA) | Sector training on sub-sector critical occupations by municipality Identified sub- sectors | - No. of person trained by sex by sub-sector by critical sector by municipality | 42,664 | 12,799 TESDA, other NGAs, NGOs, LGUs, IAs | 46,930 | 14,079 | TESDA, other NGAs, NGOs, LGUs, IAs | 51,623 | 15,487 TESDA, other NGAs, NGOs, LGUs, IAs | 56,786 | 17,036 TESDA, other NGAs, NGOs, LGUs, IAs | 62,464 | 18,739 | TESDA, other NGAs, NGOs, LGUs, IAs | 78,140
+like: - Institutional Development - Trainor's Training
+ GMA-HVCC (TESDA/DA) | Conduct of Package of Technology and Specialized training and Extension Support, Education and Training Services like: - Farmers Season Long, Farmer Led Extension - FFS Training - Farmers Led Extension Training | HCC Growers, Vegetables Growers, Citrus Growers | - No. of trainings - No. of participants - FSS Conducted - No. of participants | 2 50 2 50 | 55 - | DA | 2 50 - | 60 - | DA | 7 29 | 709 640 | DA | 7 29 | 759 640 | DA | 7 29 | 809 640 | DA | 2,392 1,920
+ GMA-Rice (TESDA/DA) | Conduct of Training on Management and Proper Handling of Hand Tractor and Thresher and Post Harvest Facilities like: - Farmers Season Long Farmers Led Extension - Farm Youth Development Program | Corn Farmers, 4H Club members | - No. of batches - No. of participants - No of trainings | - | - | - | 4 180 1 | 312 | DA | 4 180 1 | 414 | DA | 4 180 1 | 363 | DA | - | - | - | 1,089
+ FYDP and FHRMP (TESDA/DA) | Entrepreneurial capability building course for food processors and entrepreneurs to enhance their knowledge, attitudes and skills on agribusiness management and marketing strategies | 4H and IRC members | - No. of trainings - No. of participants | - | - | - | 2 50 | 54 | DA | 2 50 | 30 | DA | 2 50 | 55 | DA | - | - | - | 139
+ Delivery Programs of Private TVIs (TESDA) | Provision of Vocational Education and Training | Out-of-school youths, high school graduates, college graduates, college undergraduates | - No. persons trained | 613 | 3,220 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 670 | 3,030 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 1,050 | 3,780 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 1,575 | 4,095 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 2,300 | 12,720 | BEST, RCI, CHCS, CNCT, CACT, KCST, NCF | 26,845
+ Sectoral Training (TESDA) | Sector training on sub-sector critical occupations by municipality | Identified sub-sectors | - No. of person trained by sex by sub-sector by critical sector by municipality | 42,664 | 12,799 | TESDA, other NGAs, NGOs, LGUs, IAs | 46,930 | 14,079 | TESDA, other NGAs, NGOs, LGUs, IAs | 51,623 | 15,487 | TESDA, other NGAs, NGOs, LGUs, IAs | 56,786 | 17,036 | TESDA, other NGAs, NGOs, LGUs, IAs | 62,464 | 18,739 | TESDA, other NGAs, NGOs, LGUs, IAs | 78,140
 
 Page   56
 
@@ -5044,14 +1978,14 @@ Strategies | Brief | Beneficiary | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Program | Performance | 2005 | 2006 | COST
 Description | Indicators | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source Expected Output | ('000) | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) Source | ('000)
- IEC and Outreach Programs (TESDA) | Improve personnel productivity through OD and capability building | LGU Personnel - | No. of LGU personnel trained | - | 1,000 | LGU-IS - | 1,000 LGU-IS | - | 1,000 LGU-IS | - | 1,000 | LGU-IS - | 1,000 LGU-IS | 5,000
- Introduction of Tech-voc education in Madrasah schools (TESDA) | Establishment of Madrasah schools for Tech-voc education Madrasah | Schools - No. of school | Madrasah 1 | Madrasah school adopted Tech-voc education | 100 TESDA | 1 | Madrasah school adopted Tech-voc education | 100 TESDA | Adoption of Tech- voc in Madrasah supervised | 50 TESDA | Adoption of Tech- voc in Madrasah supervised | 50 TESDA | Adoption of Tech- voc in Madrasah supervised | 50 TESDA | 350
- Advance Training Centers (ATCs) (TESDA) | Establishment of Advance Training Centers (ATCs) equipped with adequate training facilities | Regional and Provincial offices - No. of Training | advanced Centers 1 2 | Regional ATC Provc'l ATC | 6,000 10,000 TESDA | 1 ATC 2 ATC | Regional Provc'l | 6,000 8,500 TESDA | 1 Regional ATC 2 Provc'l ATC | 6,000 8,500 TESDA | 1 Regional ATC 2 Provc'l ATC | 7,000 10,500 TESDA | 1 Regional ATC 2 Provc'l ATC | 7,000 10,500 TESDA | 32,000 48,000
- Program delivery assistance to TVET Providers (TESDA) | TVET Sector contribution to the creation of six to ten million jobs | OSY/ Unemployed/ Displaced & would be workers - | No. of Private TVIs provided with loan assistance | 4 | 10 TVET Stakehol- ders | 4 | 15 TVET Stakehol- ders | 4 | 15 TVET Stakehol- ders | 4 | 30 TVET Stakehol- ders | 4 | 30 TVET Stakehol- ders | 100
- Massive Training (TESDA) | Accessibility to TVET programs | Marginalized sectors - - - | No. of graduates in NGO based program No. of graduates in NGA based program No. of graduates in I-CARE | 200 700 660 | 500 2,000 3,850 TVET Stakehol- ders | 300 1,000 820 | 600 2,600 4,750 TVET Stakehol- ders | 400 1,200 990 | 700 3,200 4,960 TVET Stakehol- ders | 500 1,600 1,140 | 800 3,800 5,560 TVET Stakehol- ders | 600 2,000 1,425 | 1,000 4,500 6,370 TVET Stakehol- ders | 3,600 16,100 25,490
-programs Sub-total P6,931,803
-6. Enhancing Quality Assurance Mechanisms |  Maritime Training Program (DOLE) | Development of standards for skills certification and assessment of competencies based on international standards and | Maritime officers ratings/ Seafarers - - | % increase in certification rate No. of certificates issued to Filipino seafarers | 10% 11,770 | 56,380 DOLE- NMP | 10% 12,947 | 60,045 DOLE- NMP | 10% 14,241 | 63,948 DOLE- NMP | 10% 17,283 | 72,626 DOLE- NMP | 10% 17,283 | 72,626 DOLE- NMP | 325,625
-Continuous improvement of the technical/vocational and maritime training programs to meet the critical skills needed in the globalizing economy as identified thru industry signals | - | No. of maritime training courses monitored and accredited | 200 | 400 DOLE- MTC | 130 | 440 DOLE- MTC | 100 | 484 DOLE- MTC | - | 587 DOLE- MTC | - | 587 DOLE- MTC | 2,498
+ IEC and Outreach Programs (TESDA) | Improve personnel productivity through OD and capability building | LGU Personnel | - No. of LGU personnel trained | - | 1,000 | LGU-IS | - | 1,000 | LGU-IS | - | 1,000 | LGU-IS | - | 1,000 | LGU-IS | - | 1,000 | LGU-IS | 5,000
+ Introduction of Tech-voc education in Madrasah schools (TESDA) | Establishment of Madrasah schools for Tech-voc education | Madrasah Schools | - No. of Madrasah school | 1 Madrasah school adopted Tech-voc education | 100 | TESDA | 1 Madrasah school adopted Tech-voc education | 100 | TESDA | Adoption of Tech-voc in Madrasah supervised | 50 | TESDA | Adoption of Tech-voc in Madrasah supervised | 50 | TESDA | Adoption of Tech-voc in Madrasah supervised | 50 | TESDA | 350
+ Advance Training Centers (ATCs) (TESDA) | Establishment of Advance Training Centers (ATCs) equipped with adequate training facilities | Regional and Provincial offices | - No. of advanced Training Centers | 1 Regional ATC 2 Provc'l ATC | 6,000 10,000 | TESDA | 1 Regional ATC 2 Provc'l ATC | 6,000 8,500 | TESDA | 1 Regional ATC 2 Provc'l ATC | 6,000 8,500 | TESDA | 1 Regional ATC 2 Provc'l ATC | 7,000 10,500 | TESDA | 1 Regional ATC 2 Provc'l ATC | 7,000 10,500 | TESDA | 32,000 48,000
+ Program delivery assistance to TVET Providers (TESDA) | TVET Sector contribution to the creation of six to ten million jobs | OSY/ Unemployed/ Displaced & would be workers | - No. of Private TVIs provided with loan assistance | 4 | 10 | TVET Stakeholders | 4 | 15 | TVET Stakeholders | 4 | 15 | TVET Stakeholders | 4 | 30 | TVET Stakeholders | 4 | 30 | TVET Stakeholders | 100
+ Massive Training (TESDA) | Accessibility to TVET programs | Marginalized sectors | - No. of graduates in NGO based program - No. of graduates in NGA based program - No. of graduates in I-CARE programs | 200 700 660 | 500 2,000 3,850 | TVET Stakeholders | 300 1,000 820 | 600 2,600 4,750 | TVET Stakeholders | 400 1,200 990 | 700 3,200 4,960 | TVET Stakeholders | 500 1,600 1,140 | 800 3,800 5,560 | TVET Stakeholders | 600 2,000 1,425 | 1,000 4,500 6,370 | TVET Stakeholders | 3,600 16,100 25,490
+Sub-total P6,931,803
+6. Enhancing Quality Assurance Mechanisms |  Maritime Training Program (DOLE) | Development of standards for skills certification and assessment of competencies based on international standards | Maritime officers and ratings/Seafarers | - % increase in certification rate - No. of certificates issued to Filipino seafarers | 10% 11,770 | 56,380 | DOLE-NMP | 10% 12,947 | 60,045 | DOLE-NMP | 10% 14,241 | 63,948 | DOLE-NMP | 10% 17,283 | 72,626 | DOLE-NMP | 10% 17,283 | 72,626 | DOLE-NMP | 325,625
+Continuous improvement of the technical/vocational and maritime training programs to meet the critical skills needed in the globalizing economy as identified thru industry signals | - No. of maritime training courses monitored and accredited | 200 | 400 | DOLE-MTC | 130 | 440 | DOLE-MTC | 100 | 484 | DOLE-MTC | - | 587 | DOLE-MTC | - | 587 | DOLE-MTC | 2,498
 
 Page   57
 
@@ -5063,13 +1997,13 @@ Strategies | Brief | Performance Indicators | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Program | Beneficiary | 2005 | 2006 | 2007 | 2008 | 2009 | COST
 Description | Expected Output Cost ('000) | Source | Expected Output Cost ('000) | Source Expected Output | Cost ('000) | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
-National ICT Training Courses (CICT) | Ensure the quality of ICT human capital by providing opportunities for skills development and training and by adopting national standards certification systems comparable with the rest of Asia Individuals | - No. of training courses developed and implemented. | - | 11,113 | CICT - | 11,835 CICT | - | 12,604 CICT | - | 12,877 CICT | - | 12,877 CICT | 61,306
-National ICT Certification Plan for Government Employees (CICT) Regularly sustainable survey accurate status enabled country benchmarking | conduct ICT skills and tracking data on the of ICT and ICT- skills in the for Government Employees | - No. of plans developed - No. of beneficiaries | - | 1,000 | CICT - | - - | - | 700 CICT | - | 1,065 CICT | - | - - | 2,765
-Strengthen Quality Assurance (CHED) Strengthening quality process | TVET standards and system COROPOTI | - No. of standards processed and system developed | Rationa- lized updated policies, standards & guidelines | 51,920 CHED | Bench- marked Quality Assurance System | 31,800 CHED | Institutio- nalized 2 quality assurance system in HEIs | 30,450 CHED | Upgrade accredita- tion system proce- dures | 31,752 CHED | Upgrade accredita- tion system proce- dures | 31,752 CHED | 177,674
-UTPRAS Program Registration (TESDA) Registering programs qualification | TVET classified by level TVIs | - 100% of institutions & enterprise-based TVET programs registered | TVET programs registered | 15,790 TESDA | TVET programs registered | 15,790 TESDA | TVET programs registered | 15,790 TESDA | TVET programs registered | 15,790 TESDA | TVET programs registered | 15,790 TESDA | 78,950
-Program Accreditation (PTQF) (TESDA) Providing Awards accredited | Quality for TVET programs/institutions TVIs | - 10% of TVET programs/ institutions accredited | TVET programs in TESDA Institutes accredited | 9,917 | TESDA TVET programs in Institutes accredited | TESDA 9,917 TESDA | TVET programs in TESDA Institutes accredited | 9,917 TESDA | TVET programs in TESDA Institutes accredited | 9,917 TESDA | TVET programs in TESDA Institutes accredited | 9,917 TESDA | 49,585
-Technical Assistance Programs (TESDA) Assisting providers administrators trainors' curriculum development | TVET and in training and TVIs, RTCs, PTCs, Career Counselors - | No. of TVET providers assisted - No. of administrators, career counselors, trainers assisted | 121 300 | 91,503 TESDA | 121 300 | 91,503 TESDA | 121 300 | 91,503 TESDA | 121 300 | 91,503 TESDA | 121 300 | 91,503 TESDA | 457,515
-Competency Assessment and Certification (TESDA) Assessment certification competencies quality TVET | and of to meet standards of graduates TVET graduates | - No. of assessed - certification rate - percentage increase in persons certified | 331,100 assessed 50% certifica- tion rate 10% increase in the no. of | 61,593 | TESDA 331,100 assessed 50% certifica- tion 10% increase the no. | rate in of 61,593 TESDA | 331,100 assessed 50% certifica- tion rate 10% increase in the no. of | 61,593 TESDA | 331,100 assessed 50% certifica- tion rate 10% increase in the no. of | 61,593 TESDA | 331,100 assessed 50% certifica- tion rate 10% increase in the no. of | 61,593 | TESDA | 307,965
+ National ICT Training Courses (CICT) | Ensure the quality of ICT human capital by providing opportunities for skills development and training and by adopting national standards certification systems comparable with the rest of Asia | Individuals | - No. of training courses developed and implemented. | - | 11,113 | CICT | - | 11,835 | CICT | - | 12,604 | CICT | - | 12,877 | CICT | - | 12,877 | CICT | 61,306
+ National ICT Certification Plan for Government Employees (CICT) | Regularly conduct sustainable ICT skills survey and tracking accurate data on the status of ICT and ICT-enabled skills in the country for benchmarking purposes | Government Employees | - No. of plans developed - No. of beneficiaries | - | 1,000 | CICT | - | - | - | - | 700 | CICT | - | 1,065 | CICT | - | - | - | 2,765
+ Strengthen Quality Assurance (CHED) | Strengthening TVET quality standards process and system | COROPOTI | - No. of standards processed and system developed | Rationalized updated policies, standards & guidelines | 51,920 | CHED | Benchmarked Quality Assurance System | 31,800 | CHED | Institutionalized 2 quality assurance system in HEIs | 30,450 | CHED | Upgrade accreditation system procedures | 31,752 | CHED | Upgrade accreditation system procedures | 31,752 | CHED | 177,674
+ UTPRAS Program Registration (TESDA) | Registering TVET programs classified by qualification level | TVIs | - 100% of institutions & enterprise-based TVET programs registered | TVET programs registered | 15,790 | TESDA | TVET programs registered | 15,790 | TESDA | TVET programs registered | 15,790 | TESDA | TVET programs registered | 15,790 | TESDA | TVET programs registered | 15,790 | TESDA | 78,950
+ Program Accreditation (PTQF) (TESDA) | Providing Quality Awards for TVET programs/institutions accredited | TVIs | - 10% of TVET programs/institutions accredited | TVET programs in TESDA Institutes accredited | 9,917 | TESDA | TVET programs in TESDA Institutes accredited | 9,917 | TESDA | TVET programs in TESDA Institutes accredited | 9,917 | TESDA | TVET programs in TESDA Institutes accredited | 9,917 | TESDA | TVET programs in TESDA Institutes accredited | 9,917 | TESDA | 49,585
+ Technical Assistance Programs (TESDA) | Assisting TVET providers and administrators in trainors' training and curriculum development | TVIs, RTCs, PTCs, Career Counselors | - No. of TVET providers assisted - No. of administrators, career counselors, trainers assisted | 121 300 | 91,503 | TESDA | 121 300 | 91,503 | TESDA | 121 300 | 91,503 | TESDA | 121 300 | 91,503 | TESDA | 121 300 | 91,503 | TESDA | 457,515
+ Competency Assessment and Certification (TESDA) | Assessment and certification of competencies to meet quality standards of TVET graduates | TVET graduates | - No. of assessed - certification rate - percentage increase in persons certified | 331,100 assessed 50% certification rate 10% increase in the no. of person certified | 61,593 | TESDA | 331,100 assessed 50% certification rate 10% increase in the no. of person certified | 61,593 | TESDA | 331,100 assessed 50% certification rate 10% increase in the no. of person certified | 61,593 | TESDA | 331,100 assessed 50% certification rate 10% increase in the no. of person certified | 61,593 | TESDA | 331,100 assessed 50% certification rate 10% increase in the no. of person certified | 61,593 | TESDA | 307,965
 
 Page   58
 
@@ -5082,12 +2016,12 @@ Strategies | Beneficiary | TARGETS | TOTAL
 Brief Description | Performance Indicators | 2005 | 2006 | 2007 | 2008 | COST
 Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | ('000) Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
 person certified | person certified | person certified | person certified | person certified
- Enhancement of Quality Education in the TVET Sector (TESDA) | Private TVET providers are encouraged to institutionalize the QA systems to qualify for accreditation. Bronze level awardees are provided assistance to qualify to the next higher level accreditation | Private TVI's | - Private TVI's accredited for Bronze Award | - | - - | 1 Bronze Award | 25 | Private TVI's | 4 Bronze Awards | 50 Private TVI's | 5 Bronze Awards | 100 Private TVI's | 5 Bronze Awards | 100 Private TVI's for Award | accredited Bronze | 275
-Sub-total | P1,464,158
-7. Entrepre- neurship/ Technopre- neurship TVET |  Promotion of Rural and Emergency Employment Program (DOLE) | This includes developing workers entrepreneurs in livelihood convergence projects (Poverty Free Zones); Facilitating the access of rural informal sector and displaced workers (Kalinga sa Manggagawa); Assisting those who were displaced from work | Rural workers and displaced workers | - No. of workers- entrepreneurs developed | - | 90,893 | DOLE | - | 96,801 | DOLE | - | 103,093 DOLE | - | 109,794 DOLE | - | 116,931 DOLE | 517,512
- Traditional Crafts Production (NCIP) | Production of traditional and contemporary crafts and products such as weaving, pottery, musical instruments, basketry, music, cinema and performing arts | Traditional crafts makers | - No. of NCIP- commissioned traditional crafts projects implemented/ supported | 12 | 647 NCIP | 12 | 689 | NCIP | 12 | 734 NCIP | 12 | 833 NCIP | 12 | 833 NCIP | 3,736
- Comprehen- sive Program for the Internally Displaced Families (DSWD) | To provide technical assistance, capability building and augmentation support in the implementation of community-based programs for the poor, vulnerable and disadvantaged families | Region IV and NCR - | Program manual developed and pilot-tested | 1 | 300 | DSWD - | - - | - | - - | - | - - | - | - - | DOLE | 300
- Capacity Building for Specific Sector Programs: a. Special Program | This provides opportunities for the youth to acquire skills and competencies thru training, scholarship, expanded apprenticeship and learnership programs | Out-of-school youth Students | - No. of students placed in special programs - | 70,000 | DOLE | - | 70,000 | DOLE | - | 70,000 DOLE | - | 70,000 DOLE | - | 70,000 | 350,000
+ Enhancement of Quality Education in the TVET Sector (TESDA) | Private TVET providers are encouraged to institutionalize the QA systems to qualify for accreditation. Bronze level awardees are provided assistance to qualify to the next higher level accreditation | Private TVI's | - Private TVI's accredited for Bronze Award | - | - | - | 1 Bronze Award | 25 | Private TVI's | 4 Bronze Awards | 50 | Private TVI's | 5 Bronze Awards | 100 | Private TVI's | 5 Bronze Awards | 100 | Private TVI's accredited for Bronze Award | 275
+Sub-total P1,464,158
+7. Entrepreneurship/Technopreneurship in TVET |  Promotion of Rural and Emergency Employment Program (DOLE) | This includes developing workers entrepreneurs in livelihood convergence projects (Poverty Free Zones); Facilitating the access of rural informal sector and displaced workers (Kalinga sa Manggagawa); Assisting those who were displaced from work | Rural workers and displaced workers | - No. of workers-entrepreneurs developed | - | 90,893 | DOLE | - | 96,801 | DOLE | - | 103,093 | DOLE | - | 109,794 | DOLE | - | 116,931 | DOLE | 517,512
+ Traditional Crafts Production (NCIP) | Production of traditional and contemporary crafts and products such as weaving, pottery, musical instruments, basketry, music, cinema and performing arts | Traditional crafts makers | - No. of NCIP-commissioned traditional crafts projects implemented/supported | 12 | 647 | NCIP | 12 | 689 | NCIP | 12 | 734 | NCIP | 12 | 833 | NCIP | 12 | 833 | NCIP | 3,736
+ Comprehensive Program for the Internally Displaced Families (DSWD) | To provide technical assistance, capability building and augmentation support in the implementation of community-based programs for the poor, vulnerable and disadvantaged families | Region IV and NCR | - Program manual developed and pilot-tested | 1 | 300 | DSWD | - | - | - | - | - | - | - | - | - | - | - | - | 300
+ Capacity Building for Specific Sector Programs: a. Special Program | This provides opportunities for the youth to acquire skills and competencies thru training, scholarship, expanded apprenticeship and learnership programs | Out-of-school youth; Students | - No. of students placed in special programs | - | 70,000 | DOLE | - | 70,000 | DOLE | - | 70,000 | DOLE | - | 70,000 | DOLE | - | 70,000 | DOLE | 350,000
 
 Page   59
 
@@ -5099,12 +2033,12 @@ Strategies | Program | Beneficiary | Performance Indicators | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2005 | 2006 | COST
 Description | Expected Output | Cost ('000) | Source | Expected Output Cost ('000) | Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
-for Employ- ment of Students (SPES) (DOLE) and special employment for OSY
-Youth Entre- preneurship/ technopre- neurship Program (NYC) Widen for the youth become productive particularly of opening microfinance and skills training | opportunities to involved in enterprises in terms windows entrepreneurial Private individuals especially the youth | - No. of youth beneficiaries trained | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 NYC | 500 | 1,000 NYC | 500 | 1,000 NYC | 5,000
-Livelihood Training (TLRC) Conduct livelihood | business and courses Entrepreneurs and would be entrepreneurs | - No. of courses conducted - No. of business established - No. of pax/graduates | 600 2,400 12,000 | 1,500 27,000 TLRC TLRC | - - 14,400 | 32,000 | - - TLRC | - - 17,200 | - 35,000 - TLRC | - - 20,736 | - 38,000 - TLRC | - - 24,000 | - 42,000 - | TLRC | 1,500 174,000
-Achievement Motivation Training Program (DTI) | Programs to develop entrepreneurs Housewives, students, OSY, trainors, teachers, starting entrepreneurs, depressed communities | - No. of AMT conducted - No. of beneficiaries | 4 100 | 990 DTI tors | and coopera- 5 | 125 | 1,056 | DTI and coopera- tors | 5 125 | 1,147 DTI and coopera- tors | 6 150 | 1,261 DTI and coopera- tors | 6 150 | 1,387 | DTI and coopera- tors | 5,841
-DAR-TESDA Livelihood and Enterprise Assistance Programs in Agrarian Reform Areas (LEAP in ARAs) (DAR) Community-based Training Development program promoting technical vocational a means introducing establishing agricultural agricultural enterprises service or ARCs | for Enterprise (CBTED) to support in non-formal and training as of and and non- and other products in Individual or group of ARB women & youth who seek skills training for livelihood & income generation activities or enterprises | - No. of training for program implementers on CBTED - No. of feedbacking - No. of quarterly field visits - No. of best promising practice documented - No. of IEC materials | - | 2,072 TESDA- | DAR | - | 1,307 | TESDA- DAR | - | 1,302 TESDA- DAR | - | 1,302 TESDA- DAR | - | - - | 5,983
-Self- Employment Kaunlaran Program (SEA-K) (DSWD) The SEA-K capability program and the aims to socio-economic of poor through the organization | is a building of DSWD LGUs which enhance the skills families of Disadvantaged individuals | - No. of SEA-K families provided with capability building & seed fund | 20,400 | 98,250 CIDSS & Revolving Settlement Fund | 22,440 | 108,125 | Revolving Settlement Fund | 24,684 | 118,875 Revolving Settlement Fund | 27,152 | 130,750 Revolving Settlement Fund | 29,868 | 143,875 | Revolving Settlement Fund | 599,875
+for Employment of Students (SPES) (DOLE) and special employment for OSY
+ Youth Entrepreneurship/technopreneurship Program (NYC) | Widen opportunities for the youth to become involved in productive enterprises particularly in terms of opening microfinance windows and entrepreneurial skills training scholarship | Private individuals especially the youth | - No. of youth beneficiaries trained | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 500 | 1,000 | NYC | 5,000
+ Livelihood Training (TLRC) | Conduct business and livelihood courses | Entrepreneurs and would be entrepreneurs | - No. of courses conducted - No. of business established - No. of pax/graduates | 600 2,400 12,000 | 1,500 27,000 | TLRC TLRC | - - 14,400 | - 32,000 | - TLRC | - - 17,200 | - 35,000 | - TLRC | - - 20,736 | - 38,000 | - TLRC | - - 24,000 | - 42,000 | - TLRC | 1,500 174,000
+ Achievement Motivation Training Program (DTI) | Programs to develop entrepreneurs | Housewives, students, OSY, trainors, teachers, starting entrepreneurs, depressed communities | - No. of AMT conducted - No. of beneficiaries | 4 100 | 990 | DTI and cooperators | 5 125 | 1,056 | DTI and cooperators | 5 125 | 1,147 | DTI and cooperators | 6 150 | 1,261 | DTI and cooperators | 6 150 | 1,387 | DTI and cooperators | 5,841
+ DAR-TESDA Livelihood and Enterprise Assistance Programs in Agrarian Reform Areas (LEAP in ARAs) (DAR) | Community-based Training for Enterprise Development (CBTED) program to support in promoting non-formal technical and vocational training as a means of introducing and establishing agricultural and non-agricultural enterprises and other service or products in ARCs | Individual or group of ARB women & youth who seek skills training for livelihood & income generation activities or enterprises | - No. of training for program implementers on CBTED - No. of feedbacking - No. of quarterly field visits - No. of best promising practice documented - No. of IEC materials | - | 2,072 | TESDA-DAR | - | 1,307 | TESDA-DAR | - | 1,302 | TESDA-DAR | - | 1,302 | TESDA-DAR | - | - | - | 5,983
+ Self-Employment Kaunlaran Program (SEA-K) (DSWD) | The SEA-K is a capability building program of DSWD and the LGUs which aims to enhance the socio-economic skills of poor families through the organization of community-based associations for entrepreneurial development | Disadvantaged individuals | - No. of SEA-K families provided with capability building & seed fund | 20,400 | 98,250 | CIDSS & Revolving Settlement Fund | 22,440 | 108,125 | Revolving Settlement Fund | 24,684 | 118,875 | Revolving Settlement Fund | 27,152 | 130,750 | Revolving Settlement Fund | 29,868 | 143,875 | Revolving Settlement Fund | 599,875
 
 Page   60
 
@@ -5116,12 +2050,12 @@ Brief | Performance Indicators | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Strategies | Program | Description Beneficiary | 2006 | COST
 Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source Expected Output | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
-Continuing technical training focused on project development and management (SEA-K) (DSWD) | Expansion of livelihood convergence models and projects - | - No of skills enhancement trainings conducted | - | - | 432 | - | 432 | - - | 432 - | - | 432 - | - | 432 | 2,160
-Homestay Program (DOT) Consists and homeowners to foreign | of organizing training to cater both domestic and tourists LGUs | - 570 homeowners - 30 pax | 3 programs | 43 | DOT & Reques- ting party | 3 programs | 47 | DOT & Reques- ting party 4 | programs | 52 DOT & Reques- ting party | 4 programs | 57 DOT & Reques- ting | party 5 programs | 63 DOT & Reques- ting | party | 262
-Overseas Workers Welfare Program (DOLE) Strengthen reintegration of their dependents intensified on mobilization investment psycho-social | the program OFWs including families and through campaign savings and and their needs OFWs and their families/depen- dents | - No. of OFWs and their families benefited - No. of seminars, training on savings mobilization and investment conducted | 10,312 523 | 19,285 | DOLE | 11,343 575 | 21,213 | DOLE | 12,477 632 | 23,334 DOLE | 15,142 766 | 28,320 DOLE | 15,142 766 | 28,320 DOLE | 120,472
-Plant for Life (TESDA) Social Program Personnel | Volunteerism of TESDA COROPOTI | - No. of social volunteerism projects implemented | All Regions implemen- ting | 1,520 | TESDA | All Regions implemen- ting | 1,520 | TESDA | All Regions implemen- ting | 1,520 TESDA | All Regions implemen- ting | 1,520 TESDA | All Regions implemen- ting | 1,520 | TESDA | 7,600
-Entrepreneurs hip/Techno- preneurship Development Programs (TESDA) in development | Technical assistance enterprises Enterprises | - No. of enterprises assisted - No. of persons trained | 7,000 provided technical assistance 120,000 persons trained | 649 TESDA | 7,000 | 713 | TESDA | 7,000 | 785 TESDA | 7,000 | 863 TESDA | 7,000 | 950 TESDA | 3,960
-Village Technologies for Community- based Training in Agri-Fishery (TESDA) Dangal Project | Community-based Agri-fishery Training Programs ng Barangay LGUs, NGO's, LAs, Private Individuals, Industries | - No. of Agri- fishery training programs - 'Dangal' products & services marketed | 1 program per province 1 product or service per province | 10,200 15,300 | TESDA | - | 10,200 15,300 | TESDA | - | 10,200 15,300 TESDA | - | 10,200 15,300 TESDA | - | 10,200 15,300 | TESDA | 51,000 76,500
+ Continuing technical training focused on project development and management (SEA-K) (DSWD) | Expansion of livelihood convergence models and projects | - | - No of skills enhancement trainings conducted | - | 432 | - | - | 432 | - | - | 432 | - | - | 432 | - | - | 432 | - | 2,160
+ Homestay Program (DOT) | Consists of organizing and training homeowners to cater to both domestic and foreign tourists | LGUs | - 570 homeowners - 30 pax | 3 programs | 43 | DOT & Requesting party | 3 programs | 47 | DOT & Requesting party | 4 programs | 52 | DOT & Requesting party | 4 programs | 57 | DOT & Requesting party | 5 programs | 63 | DOT & Requesting party | 262
+ Overseas Workers Welfare Program (DOLE) | Strengthen the reintegration program of OFWs including their families and dependents through intensified campaign on savings mobilization and investment and their psycho-social needs | OFWs and their families/dependents | - No. of OFWs and their families benefited - No. of seminars, training on savings mobilization and investment conducted - No. of OFWs entrepreneurship/technopreneurship training participants | 10,312 523 7,510 | 19,285 | DOLE | 11,343 575 8,261 | 21,213 | DOLE | 12,477 632 9,087 | 23,334 | DOLE | 15,142 766 11,029 | 28,320 | DOLE | 15,142 766 11,029 | 28,320 | DOLE | 120,472
+ Plant for Life (TESDA) | Social Volunteerism Program of TESDA Personnel | COROPOTI | - No. of social volunteerism projects implemented | All Regions implementing | 1,520 | TESDA | All Regions implementing | 1,520 | TESDA | All Regions implementing | 1,520 | TESDA | All Regions implementing | 1,520 | TESDA | All Regions implementing | 1,520 | TESDA | 7,600
+ Entrepreneurship/Technopreneurship Development Programs (TESDA) | Technical assistance in enterprises development | Enterprises | - No. of enterprises assisted - No. of persons trained | 7,000 provided technical assistance 120,000 persons trained | 649 | TESDA | 7,000 | 713 | TESDA | 7,000 | 785 | TESDA | 7,000 | 863 | TESDA | 7,000 | 950 | TESDA | 3,960
+ Village Technologies for Community-based Training in Agri-Fishery (TESDA) | Community-based Agri-fishery Training Programs; Dangal ng Barangay Project | LGUs, NGO's, LAs, Private Individuals, Industries | - No. of Agri-fishery training programs - “Dangal” products & services marketed | 1 program per province 1 product or service per province | 10,200 15,300 | TESDA | - | 10,200 15,300 | TESDA | - | 10,200 15,300 | TESDA | - | 10,200 15,300 | TESDA | - | 10,200 15,300 | TESDA | 51,000 76,500
 
 Page   61
 
@@ -6065,12 +2999,12 @@ Performance Indicators | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Strategies | Program | Description Beneficiary | 2005 | 2006 | 2009 | COST
 Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source Expected Output | Cost ('000) Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | Source | ('000)
- GAD skills Training and Livelihood Program (TESDA) | Enhancement of women participation in entrepreneurial activities all | Women sector in Regions - No. of trainings and livelihood program organized | 120 | 48,409 | TESDA 120 | 48,409 TESDA | 120 | 48,409 TESDA | 120 | 48,409 TESDA | 120 | 48,409 | TESDA | 242,045
- Barangay Micro- Business Enterprise (BMBE) (TESDA/ DILG) A helping by with benefits registering businesses project  Designed | project aimed at entrepreneurs providing them incentives and for their under the LGUs/small Entrepreneurs to provide | - No. of enrolled LGUs | 14 | 1,400 DILG 1,460 | 18 | 1,800 | DILG | 22 | 2,200 DILG | 24 | 2,400 DILG | 26 | 2,600 | DILG | 10,400
-Promotion of Rural Employment through Self- Employment and Entrepreneurs hip Dev't (PRESEED) (DOLE) opportunities rural their particularly 'assetless' 'landless' have potential adopts Cum Scheme | self-employment among workers and families the and groups who entrepreneurial which the Training Production (TCP) Rural Workers Women/ Young workers | - No. of trainings conducted - No. of participants | 10 | GAA | 10 | 1,600 | GAA | 11 | 1,780 GAA | 12 | 1,400 GAA | 13 | 1,530 | GAA | 7,770
- Small and Micro Enterprises Technology Upgrading (Food Processing, Marine-based Products, Horticulture, Furniture and Gifts Toys & Housewares) The assist medium upgrading technical and | program aims to the small and enterprises in their capability productivity Small and medium enterprises regionwide | - No. of technology transferred/ adopted | 10 firms 1 coop | 1,400 DOST- SETUP | 12 firms 1 coop | 1,750 | DOST- SETUP | 14 firms 2 coops | 2,000 DOST- SETUP | 17 firms 2 coops | 2,050 DOST- SETUP | 18 firms 2 coops | 2,350 | DOST- SETUP | 9,550
- Management of Entrepreneuri al and Technical Skills Development (TESDA/ DLR) Promote organizational development entrepreneurial technical development of | for and skills activities ARBs ARBs | - No. of organizations - No. of ARBs | 157 organiza- tions 1,896 ARBs | 1,570 3,970 DLR | DLR 247 organiza- tions 1,940 ARBs | 1,470 | 4,070 DLR DLR | 255 organiza- tions 2,386 ARBs | 1,550 5,260 DLR DLR | 156 organiza- tions 2,781 ARBs | 1,560 6,400 DLR DLR | 77 organiza- tions 170 ARBs | 1,540 500 | DLR DLR | 7,690 20,200
- Agricultural Entrepreneur- ship Development (TESDA) These new marketing agricultural and farmers | are trainings on technologies and of products development of entrepreneur Rural development clubs, farmers, rural youth, women | - Income Generating Project implemented - No. of clients | 3 IGP 45 | 500 20% | Prov'l Dev't Fund 3 IGP 45 | 500 | 20% Prov'l Dev't Fund | 3 IGP 45 | 500 20% Prov'l Dev't Fund | 3 IGP 45 | 500 20% Prov'l Dev't Fund | - | - | - | 2,000
+ GAD skills Training and Livelihood Program (TESDA) | Enhancement of women participation in entrepreneurial activities | Women sector in all Regions | - No. of trainings and livelihood program organized | 120 | 48,409 | TESDA | 120 | 48,409 | TESDA | 120 | 48,409 | TESDA | 120 | 48,409 | TESDA | 120 | 48,409 | TESDA | 242,045
+ Barangay Micro-Business Enterprise (BMBE) (TESDA/DILG) | A project aimed at helping entrepreneurs by providing them with incentives and benefits for registering their businesses under the project | LGUs/small Entrepreneurs | - No. of enrolled LGUs | 14 | 1,400 | DILG | 18 | 1,800 | DILG | 22 | 2,200 | DILG | 24 | 2,400 | DILG | 26 | 2,600 | DILG | 10,400
+ Promotion of Rural Employment through Self-Employment and Entrepreneurship Dev't (PRESEED) (DOLE) | Designed to provide self-employment opportunities among rural workers and their families particularly the “assetless” and “landless” groups who have entrepreneurial potential which adopts the Training Cum Production (TCP) Scheme | Rural Workers Women/Young workers | - No. of trainings conducted - No. of participants | 10 | 1,460 | GAA | 10 | 1,600 | GAA | 11 | 1,780 | GAA | 12 | 1,400 | GAA | 13 | 1,530 | GAA | 7,770
+ Small and Micro Enterprises Technology Upgrading (Food Processing, Marine-based Products, Horticulture, Furniture and Gifts Toys & Housewares) (TESDA) | The program aims to assist the small and medium enterprises in upgrading their technical capability and productivity | Small and medium enterprises regionwide | - No. of technology transferred/adopted | 10 firms 1 coop | 1,400 | DOST-SETUP | 12 firms 1 coop | 1,750 | DOST-SETUP | 14 firms 2 coops | 2,000 | DOST-SETUP | 17 firms 2 coops | 2,050 | DOST-SETUP | 18 firms 2 coops | 2,350 | DOST-SETUP | 9,550
+ Management of Entrepreneurial and Technical Skills Development (TESDA/DLR) | Promote organizational development for entrepreneurial and technical skills development activities of ARBs | ARBs | - No. of organizations - No. of ARBs | 157 organizations 1,896 ARBs | 1,570 3,970 | DLR DLR | 247 organizations 1,940 ARBs | 1,470 4,070 | DLR DLR | 255 organizations 2,386 ARBs | 1,550 5,260 | DLR DLR | 156 organizations 2,781 ARBs | 1,560 6,400 | DLR DLR | 77 organizations 170 ARBs | 1,540 500 | DLR DLR | 7,690 20,200
+ Agricultural Entrepreneurship Development (TESDA) | These are trainings on new technologies and marketing of agricultural products and development of farmers entrepreneur | Rural development clubs, farmers, rural youth, women | - Income Generating Project implemented - No. of clients served | 3 IGP 45 | 500 | 20% Prov'l Dev't Fund | 3 IGP 45 | 500 | 20% Prov'l Dev't Fund | 3 IGP 45 | 500 | 20% Prov'l Dev't Fund | 3 IGP 45 | 500 | 20% Prov'l Dev't Fund | - | - | - | 2,000
 
 Page   64
 
@@ -6664,13 +3598,13 @@ Strategies | Brief | Beneficiary | TARGETS | TOTAL
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Program | Performance | 2005 | 2006 | 2007 | 2008 | 2009 | COST
 Description | Indicators | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) | Source | Expected Output | Cost ('000) Source | Expected Output | Cost ('000) | ('000)
- Credit Line for Micro, SMEs and LGUs (DBP) | The project involves the provision of sub- loans to finance SMEs and micro-enterprises' procurement of imported and local capital/intermediate goods and spare parts in wholesale and retail schemes. Working capital will likewise be provided to micro- enterprises. The facility is also available to LGUs to finance their development projects. | Micro, SMEs and LGUs | No. of Micro, SMEs and LGUs benefited | - | - | - | - | - - | - | - - | - | - - | - | - - | 2,140,534
-Sub-total | P4,913,234
-8. Conver- gence in TVET |  Operationaliza tion of the TESDA Development Fund (TESDA) | The TDF created under RA 7796 shall be used for funding and training requirements of the TVET sub-sector. TVET | sub-sector No. of institutions/ persons benefited | - | 2,389 | TDF | - | 2,796 | TDF | - | 2,796 | TDF | - | 1,879 TDF | - | 1,895 TDF | 11,755
- Education Alliance Program (CICT) | SUCs, private universities and technical vocational institutions to offer specialized ICT degree programs and to include specialized ICT courses in their curricula | SUCs, private universities and tech-voc institutions | MOA with SUCs signed; additional 130 partners by 2007 and thereafter | - | 250 | CICT | - | 400 | CICT | - | 400 | CICT | - | 320 CICT | - | - - | 1,370
- Small Enterprises and Technology Upgrading Program (SETUP) (DOST) | Knowledge creation and transfer | SME's | No. of SMEs upgraded | - | 200,000 | DOST | - | 290,000 | DOST | - | 380,000 | DOST | - | 210,000 DOST | - | 210,000 DOST | 1,290,000
- TVET Partnership Program (TESDA) | Implementation of Co-management Schemes | TVET, LGUs - | No. of Co- management Schemes implemented | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA 62 | 331,285 | TESDA | 62 | 331,285 TESDA | 1,656,425
- Sining Panglahat (NCIP) | Increasing the number of community-based projects in support to the disadvantaged groups | Disadvantaged and individuals - No. of individuals benefited. - | disadvantaged No. of NCIP- | Nation- wide | 9,992 | NCIP | Nation- wide | 9,992 | NCIP | Nation- wide | 9,992 | NCIP | Nation- wide | 9,992 NCIP | Nation- wide | 9,992 NCIP | 49,960
+ Credit Line for Micro, SMEs and LGUs (DBP) | The project involves the provision of sub-loans to finance SMEs and micro-enterprises' procurement of imported and local capital/intermediate goods and spare parts in wholesale and retail schemes. Working capital will likewise be provided to micro-enterprises. The facility is also available to LGUs to finance their development projects. | Micro, SMEs and LGUs | No. of Micro, SMEs and LGUs benefited | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | 2,140,534
+Sub-total P4,913,234
+8. Convergence in TVET |  Operationalization of the TESDA Development Fund (TESDA) | The TDF created under RA 7796 shall be used for funding and training requirements of the TVET sub-sector. | TVET sub-sector | No. of institutions/persons benefited | - | 2,389 | TDF | - | 2,796 | TDF | - | 2,796 | TDF | - | 1,879 | TDF | - | 1,895 | TDF | 11,755
+ Education Alliance Program (CICT) | SUCs, private universities and technical vocational institutions to offer specialized ICT degree programs and to include specialized ICT courses in their curricula | SUCs, private universities and tech-voc institutions | MOA with SUCs signed; additional 130 partners by 2007 and thereafter | - | 250 | CICT | - | 400 | CICT | - | 400 | CICT | - | 320 | CICT | - | - | - | 1,370
+ Small Enterprises and Technology Upgrading Program (SETUP) (DOST) | Knowledge creation and transfer | SME's | No. of SMEs upgraded | - | 200,000 | DOST | - | 290,000 | DOST | - | 380,000 | DOST | - | 210,000 | DOST | - | 210,000 | DOST | 1,290,000
+ TVET Partnership Program (TESDA) | Implementation of Co-management Schemes | TVET, LGUs | - No. of Co-management Schemes implemented | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA | 62 | 331,285 | TESDA | 1,656,425
+ Sining Panglahat (NCIP) | Increasing the number of community-based projects in support to the disadvantaged and marginalized | Disadvantaged groups and individuals | - No. of disadvantaged individuals benefited. - No. of NCIP-commissioned | Nationwide | 9,992 | NCIP | Nationwide | 9,992 | NCIP | Nationwide | 9,992 | NCIP | Nationwide | 9,992 | NCIP | Nationwide | 9,992 | NCIP | 49,960
 
 Page   66
 
@@ -9686,19 +6620,18 @@ Page 76
 
 [[START OF PAGE 98]]
 
-Strategies | Performance | T A R G E T S | TOTAL
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Program | Brief Description | Beneficiary | Indicators | 2005 | 2007 | 2008 | COST 2009
-Expected Output | Cost ('000) | Source | Expected Output | Source | Expected Output | Source | Expected Output | Source Expected Output | Cost ('000) | Source | ('000)
+Strategies | Program | Brief Description | Beneficiary | Performance Indicators | T A R G E T S | TOTAL COST ('000)
+--- | --- | --- | --- | --- | --- | ---
+2005 Expected Output | 2005 Cost ('000) | 2005 Source | 2006 Expected Output | 2006 Cost ('000) | 2006 Source | 2007 Expected Output | 2007 Cost ('000) | 2007 Source | 2008 Expected Output | 2008 Cost ('000) | 2008 Source | 2009 Expected Output | 2009 Cost ('000) | 2009 Source
 (TESDA) | development, competency standards, competency assessment and certification, registration and accreditation and institutional assurance; courseware development and contextual learning.
- Strengthening Capacity of TESD Providers (Component III of TESDP) ** (TESDA) | This includes programs on capacity building for TVET providers | TVET providers | No. of providers assisted | - | 95 | ADB/ DANIDA/ NDF/OPEC | - | 100 ADB/ DANIDA/ NDF/ OPEC | - | 100 ADB/ DANIDA/ NDF/ OPEC | - | 518 ADB/ DANIDA/ NDF/ OPEC - | - - | 813
- Project Management and recurrent Costs (Component V of TESDP) * * (TESDA) | - | - | - | - | 35,635 | ADB/GOP | - | 15,000 ADB/GOP | - | 15,000 ADB/GOP | - | 15,000 ADB/GOP - | - - | 80,635
- Mindanao Basic Urban Services Sector (MBUSS) - ( DILG) | Provision of a credit facility to finance the investment requirements for basic urba infrastructure and essential municipal services. | About 40 LGUs in Mindanao | - No. of Urban infrastructure projects - No. of Capability building assistance such as project management, subproject preparation, LGU capacity building program and institutional strengthening of the Pre-Departure | - | - - | - | - - | - | - - | Infrastruc- tures supported and capacity building programs conducted | 3,172,500 ADB/ NORDIC - | - - | 3,172,50
-Sub Total - - - | P4,937,807 345,605
-7. Entrepreneur- ship/Techno- preneurship in TVET |  Small and Medium Enterprise Development for Sustainable Employment Project (SMEDSEP) - (TESDA-DTI) | Enterprises will be developed for employment. There is a component on demand- driven training and upgrading. | Regions VI, VII and VIII | No. of SMEs developed | 345,605 | TESDA/DTI | - | - - | - | - - | - | - - | -
-Sub Total  434,242 248,367 2,591 - - | P345,605
-8. Convergence in TVET | Devolving Training Functions to LGUs (component II of TESDP) ** (TESDA) | This includes specific programs like staff development, equipment procurement, infrastructure development and devolution | Training Centers | No. of TCs devolved | 25 | 542,388 | ADB | 20 | ADB | 14 | ADB | 1 | ADB | - | 1,227,588
- Mindanao Basic Urban Sector Services (MBUSSP) Project - (DILG- OSEC/ADB) | Empowerment and livelihood protection of the vulnerable | Regions IX, X, XI, XII, CARAGA and ARMM | Minimum of 50 LGUs are able to undergo and internalize capability building program studies and other technical assistance | 50 | 178,458 | OSEC/ADB | 50 | 223,568 OSEC/ ADB | 50 | 45,710 OSEC/ ADB | - | - - - | - | 447,736
+ Strengthening Capacity of TESD Providers (Component III of TESDP) ** (TESDA) | This includes programs on capacity building for TVET providers | TVET providers | No. of providers assisted | - | 95 | ADB/DANIDA/NDF/OPEC | - | 100 | ADB/DANIDA/NDF/OPEC | - | 100 | ADB/DANIDA/NDF/OPEC | - | 518 | ADB/DANIDA/NDF/OPEC | - | - | - | 813
+ Project Management and recurrent Costs (Component V of TESDP) ** (TESDA) | - | - | - | - | 35,635 | ADB/GOP | - | 15,000 | ADB/GOP | - | 15,000 | ADB/GOP | - | 15,000 | ADB/GOP | - | - | - | 80,635
+ Mindanao Basic Urban Services Sector (MBUSS) - (DILG) | Provision of a credit facility to finance the investment requirements for basic urban infrastructure and essential municipal services. | About 40 LGUs in Mindanao | - No. of Urban infrastructure projects - No. of Capability building assistance such as project management, subproject preparation, LGU capacity building program and institutional strengthening of the Pre-Departure Orientation (PDO). | - | - | - | - | - | - | - | - | - | Infrastructures supported and capacity building programs conducted | 3,172,500 | ADB/NORDIC | - | - | - | 3,172,500
+Sub Total P4,937,807
+7. Entrepreneurship/Technopreneurship in TVET |  Small and Medium Enterprise Development for Sustainable Employment Project (SMEDSEP) - (TESDA-DTI) | Enterprises will be developed for employment. There is a component on demand-driven training and upgrading. | Regions VI, VII and VIII | No. of SMEs developed | - | 345,605 | TESDA/DTI | - | - | - | - | - | - | - | - | - | - | - | - | 345,605
+Sub Total P345,605
+8. Convergence in TVET |  Devolving Training Functions to LGUs (component II of TESDP) ** (TESDA) | This includes specific programs like staff development, equipment procurement, infrastructure development and devolution | Training Centers | No. of TCs devolved | 25 | 542,388 | ADB | 20 | 434,242 | ADB | 14 | 248,367 | ADB | 1 | 2,591 | ADB | - | - | - | 1,227,588
+ Mindanao Basic Urban Sector Services (MBUSSP) Project - (DILG-OSEC/ADB) | Empowerment and livelihood protection of the vulnerable | Regions IX, X, XI, XII, CARAGA and ARMM | Minimum of 50 LGUs are able to undergo and internalize capability building program studies and other technical assistance | 50 | 178,458 | OSEC/ADB | 50 | 223,568 | OSEC/ADB | 50 | 45,710 | OSEC/ADB | - | - | - | - | - | - | 447,736
 
 Page 77
 
@@ -10602,7 +7535,7 @@ GRAND TOTAL
 
 P13,775,212
 
-- Government programs are the enabling type to catalyze private and other sectoral investments
+* Government programs are the enabling type to catalyze private and other sectoral investments
 
 **   Pipeline Project
 
@@ -10613,12 +7546,14 @@ Page 79
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+Table 12
+TVET Expenditure and Investment Shares of the Plan by Source
 
-Source | Expenditure 1 | 2005-2009 Investment
+Source | Expenditure¹ |  | 2005-2009 Investment |
 --- | --- | --- | --- | ---
-Amount ('000) | % | Amount ('000) | %
+ | Amount ('000) | % | Amount ('000) | %
 TESDA | 2,119,000 | 18.8 | 11,500,000 | 9.2
-ODA | 799,000 | 7.1
+ODA | 799,000 | 7.1 |  |
 TDF | - | - | 11,755 | 0.01
 LGUs | 1,558,000 | 13.8 | 17,309,886 | 13.8
 Other GAs | 763,000 | 6.8 | 29,393,264 | 23.5
@@ -10629,8 +7564,6 @@ Companies | 1,759,000 | 15.6 | 19,593,061 | 15.6
 Income generation | 276,000 | 2.5 | 3,066,450 | 2.5
 Sub-total (private) | 6,024,000 | 53.5 | 66,928,596 | 53.5
 TOTAL | 11,263,000 | 100.0 | 125,143,500 | 100.0
-
-Table 12 TVET Expenditure and Investment Shares of the Plan by Source
 
 1 'How to Assess the Full Cost of Technical and Vocational Education and Training (TVET)?  A case study from the Philippines', UNESCO, April 2005.
 
@@ -10708,15 +7641,16 @@ Page 81
 
 [[START OF PAGE 103]]
 
+Table 13
+Performance Indicators and Targets: 2005-2009
+
 KRA/Performance Indicators | Targets
 --- | ---
 1. Improved Access and Equity in TVET  No. of TVET Providers - By geographic location - By type | 101 percent increase in the total number of TVET providers particularly: - Private - EBTS - LGU/Community-based - Public 19.0 percent 288.0 percent 77.7 percent 70.0 percent
  No. of registered TVET Programs - By geographic location - By priority sector - By course/program and duration | - 90 percent of institution programs registered - 70 percent enterprise-based programs registered
- No. of scholarship/other financial assistance programs and slots - By type - By location - By clientele group/beneficiary - By priority sector  Increased budget/investments for scholarship and student assistance programs | PESFA - 69,000 slots ADB-TESDP - 15,327 slots (2005-2007) Student Loan Fund - 5,139 students (SY 2005- 2008) Iskolar ng Mahirap - 1,979 (2005) Skills for Employment Scholarship Program - 745 scholars (2005) Seafarers Upgrading Scholarship Program - 1,880 seafarers (2005) At least 25% increase in budget/investments for scholarship and student assistance programs
+ No. of scholarship/other financial assistance programs and slots - By type - By location - By clientele group/beneficiary - By priority sector  Increased budget/investments for scholarship and student assistance programs | PESFA - 69,000 slots ADB-TESDP - 15,327 slots (2005-2007) Student Loan Fund - 5,139 students (SY 2005-2008) Iskolar ng Mahirap - 1,979 (2005) Skills for Employment Scholarship Program - 745 scholars (2005) Seafarers Upgrading Scholarship Program - 1,880 seafarers (2005) At least 25% increase in budget/investments for scholarship and student assistance programs
  No. of enrolment/graduates - By delivery mode - By priority sector - By course/program/duration - By gender - By type of TVET provider - By beneficiary group - By location | 1 million enrollees/trainees annually
  No. of TVET administrators, career counselors and trainers provided with capability building programs | 1,500 trainers, counselors and administrators
-
-Table 13 Performance Indicators and Targets: 2005-2009
 
 Page 82
 
@@ -10731,9 +7665,9 @@ KRA/Performance Indicators | Targets
  Improved access to TVET market information | Education and Training Market Information (ETMI) System established
  Increased private and LGU investments in TVET | 10% increase in total LGU investment in TVET annually
 2. Improved Assessment and Certification
- No. of persons assessed - By location - By program (trade area) - By priority sector - By gender - By NC level | 1,655,500 persons assessed
+ No. of persons assessed - By location - By program (trade area) - By priority sector - By gender - By NC level - By clientele group | 1,655,500 persons assessed
  No. of persons certified - By location - By program (trade area) - By priority sector - By gender - By NC level - By clientele group | 827,750 persons certified
- Certification rate - By location - By program (trade area) - By priority sector - By gender - By NC level | At least 50% certification rate
+ Certification rate - By location - By program (trade area) - By priority sector - By gender - By NC level - By clientele group | At least 50% certification rate
  Assessment rate - By location - By program (trade area) | 100% assessment rate in areas under mandatory certification
 
 Page 83
@@ -10745,7 +7679,7 @@ Page 83
 KRA/Performance Indicators | Targets
 --- | ---
 - By priority sector - By gender - By NC level - By clientele group
- No. of accredited assessors and assessment centers - By location - By program - By type | 1,200 assessors accredited (for 2005-2006)
+ No. of accredited assessors and assessment centers - By location - By program - By type - By priority sector | 1,200 assessors accredited (for 2005-2006)
  No. of Training Regulations (TRs) developed and promulgated | 10 TRs (for 2005) (for 2006-2009, targets will be based on priority occupations to be indicated/recommended by the industry)
  No. of TESDA Recognized Industry Bodies (TRIBs) established | 1 TRIB established/accredited per priority sector
  No. of curriculum exemplars developed | Curriculum exemplars prepared for programs with corresponding TRs
@@ -10772,22 +7706,12 @@ A Plan monitoring flowchart (Figure 9) illustrates the progression towards full 
 Figure 9 Second Cycle NTESDP 2005-2009 Monitoring Flow Chart
 
 Data Source
-
 Data Needs
-
-Tools/
-
-Monitoring
-
+Tools/Instruments
+Monitoring Structure
 Output
-
 Purpose
-
 Outcome
-
-Instruments
-
-Structure
 
 Implementation of
 
@@ -10921,7 +7845,7 @@ Page 86
 
 [[START OF PAGE 108]]
 
-Expansion of Dual Education and Training (EDET) Project can be in coleadership with DTI.
+Expansion of Dual Education and Training (EDET) Project can be in co-leadership with DTI.
 
 (ii) Together  with  TESDA,  TLRC,  DOST,  Department  of  Agriculture  (DA), Department of Social Welfare and Development (DSWD), and Department  of  Land  Reform  (DLR),  these  agencies  shall  formulate  the total  TVET  targets  for  entrepreneurship/technopreneurship.  They  shall likewise  lead  in  the  formulation  of  standards  in  terms  of  trainers, curriculum  and  assessments  for  this  undertaking.  There  is  at  present different  approaches  in  the  delivery  of  this  activity  and  such  diversity prevents it from being an effective and measurable TVET intervention.
 
@@ -10929,7 +7853,7 @@ Expansion of Dual Education and Training (EDET) Project can be in coleadership w
 
 (iv) To  provide  portability  and  mobility  between  the  two  components  of tertiary  education,  consisting  of  the  technical-vocational  education  and college,  equivalency  pathways/ladderized  system  will  be  adopted.  This program shall be achieved through the leadership of CHED. With CHED in charge, the inclusion of the same in the Medium Term Development Plan for Higher Education (MTDPHE) 2005-2010 shall be ensured.
 
-(v) To promote equity in TVET, the provision and management of scholarships  and  student  assistance  program shall  be  done  in  coleadership  with  DSWD.  This  arrangement  will  ensure  that  the  proper clientele  are  provided  the  limited  government  subsidized  slots.  This program measures the effectiveness of TVET as an anti-poverty tool of government.
+(v) To promote equity in TVET, the provision and management of scholarships and student assistance program shall be done in co-leadership with DSWD. This arrangement will ensure that the proper clientele are provided the limited government subsidized slots. This program measures the effectiveness of TVET as an anti-poverty tool of government.
 
 (vi) In the promotion of gradually transferring direct training delivery to the local governments (LGUs) and in line with the policy thrust of devolution and co-management, the Department of Interior and Local Government (DILG),  shall  be  the  co-leader.  This  agency  has  direct  supervision  over the LGUs and would be in the best position to assess the capabilities and worthiness of the different localities in running TVET Institutions.
 
@@ -10953,22 +7877,26 @@ Page 88
 
 [[START OF PAGE 110]]
 
-2000-
+Table 14
+Suggested Thematic Monitoring Template
+Second Cycle NTESDP 2005-2009 in the Context of First and Third Cycles
 
-2004
-
-2010-2014
-
-Table 14 Suggested Thematic Monitoring Template Second Cycle NTESDP 2005-2009 in the Context of First and Third Cycles
+2000-2004
+“Laying the Ground Work”
+CONCEPTUAL PHASE
 
 2005-2009
+“Capacity Building/Enabling”
 
-KRA | POLICY | STRATEGY | PROGRAM | LOCA- TION | PERFORMANCE INDICATOR | 2009
---- | --- | --- | --- | --- | --- | ---
-Budget Source | Target | Source
-1. Equity and Access | -Encourage greater private sector involvement and investments in TVET -Harness TVET for social integration and rural development -Promote MLSD as a viable career -Developing local capability to promote training function EXPANSION OF TVET PROVISION - - - - | Private Sector Led/Market Driven Convergence in TVET Lifelong Learning Expanding scholarships and other support services | - Enterprise- based Training - Community based training - Distance Learning - Educational Assistance Scheme - Equivalency | NATIONWIDE | - No. of TVET Providers - No. of registered TVET Programs - No. of scholarships/other financial assistance programs and slots - Increased budget/investments for scholarship and student assistance programs - No. of enrolment/graduates - No. of TVET administrators and trainers provided with capability building programs - Cost of TVET/per capita cost - No. of persons awarded with equivalency credits - Improved access to TVET market information - Increased private and LGU investments in TVET - No. of persons assessed
-2. Improved Assessment & Certification | -Upgrade the quality and increase the productivity of Phil. Middle-Level Manpower to be globally competitive -Encourage greater private sector involvement and investment in TVET -Promote MLSD as a viable career ENHANCEMENT OF LEARNING OUTCOMES - - | Competency based Enhancing quality assurance - - - - | TRIBs Development of Standards Assessment and Certification UTPRAS | NATIONWIDE | - No. of persons certified - Certification rate - Assessment rate - No. of accredited assessors and assessment centers - No. of Training Regulations (TRs) developed and promulgated - No. of TRIBs established - No. of curriculum exemplars developed
-3. Enhanced Employability of TVET Graduates | -Upgrade the quality and raise the productivity of Phil. Middle- Level manpower to be globally competitive -Encourage greater private sector Involvement and investment in TVET -Harness TVET for social integration & rural dev't. -Intensify Entrepreneurship/Techno- preneurship in TVET STRENGTHENING MARKET LINKS - - | Pro-active Job-Skills Matching Entrepreneurs hip in TVET - Skills - | - LMI System Training Program in Priority Sector/ Occupation CBTED/Village Technologies/ Dangal ng Barangay | NATIONWIDE | - No. of graduates employed - No. of programs/institutions adopting competency-based TVET - No. of micro-enterprises assisted - Improved access to LMI
+2010-2014
+“Sector Guidance”
+SECTOR MANAGEMENT
+
+KRA | POLICY | STRATEGY | PROGRAM | LOCATION | PERFORMANCE INDICATOR | 2005 Target | 2005 Budget | 2005 Source | 2006 Target | 2006 Budget | 2006 Source | 2007 Target | 2007 Budget | 2007 Source | 2008 Target | 2008 Budget | 2008 Source | 2009 Target | 2009 Budget | 2009 Source
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1. Equity and Access | - Encourage greater private sector involvement and investments in TVET - Harness TVET for social integration and rural development - Promote MLSD as a viable career - Developing local capability to promote training function EXPANSION OF TVET PROVISION | - Private Sector Led/Market Driven - Convergence in TVET - Lifelong Learning - Expanding scholarships and other support services | - Enterprise-based Training - Community based training - Distance Learning - Educational Assistance Scheme - Equivalency | NATIONWIDE | - No. of TVET Providers - No. of registered TVET Programs - No. of scholarships/other financial assistance programs and slots - Increased budget/investments for scholarship and student assistance programs - No. of enrolment/graduates - No. of TVET administrators and trainers provided with capability building programs - Cost of TVET/per capita cost - No. of persons awarded with equivalency credits - Improved access to TVET market information - Increased private and LGU investments in TVET |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+2. Improved Assessment & Certification | - Upgrade the quality and increase the productivity of Phil. Middle-Level Manpower to be globally competitive - Encourage greater private sector involvement and investment in TVET - Promote MLSD as a viable career ENHANCEMENT OF LEARNING OUTCOMES | - Competency based - Enhancing quality assurance | - TRIBs - Development of Standards - Assessment and Certification - UTPRAS | NATIONWIDE | - No. of persons assessed - No. of persons certified - Certification rate - Assessment rate - No. of accredited assessors and assessment centers - No. of Training Regulations (TRs) developed and promulgated - No. of TRIBs established - No. of curriculum exemplars developed |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+3. Enhanced Employability of TVET Graduates | - Upgrade the quality and raise the productivity of Phil. Middle-Level manpower to be globally competitive - Encourage greater private sector involvement and investment in TVET - Harness TVET for social integration & rural dev't. - Intensify Entrepreneurship/Technopreneurship in TVET STRENGTHENING MARKET LINKS | - Pro-active Job-Skills Matching - Entrepreneurship in TVET | - LMI System - Skills Training Program in Priority Sector/Occupation - CBTED/Village Technologies/Dangal ng Barangay | NATIONWIDE | - No. of graduates employed - No. of programs/institutions adopting competency-based TVET - No. of micro-enterprises assisted - Improved access to LMI |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 
 Page 89
 
@@ -10996,16 +7924,17 @@ Page 90
 
 [[START OF PAGE 112]]
 
+Table 15
+2005 TVET POLICY AGENDA
+
 POLICY AGENDA | BRIEF DESCRIPTION | RECOMMENDED ACTION FROM THE TESDA BOARD
 --- | --- | ---
-1. Strengthening the Roles of TESDCs in resource generation | The Omnibus Amendment to the Rules and Regulations of TESDCs provides that they manage all activities of the TVET sub- sector in the region/province. The TESDC's 2002 roles shall be redefined in relation to the School Boards and on the resource generation at the local levels. Corresponding capability programs shall be developed and implemented attendant to such roles and functions. | Policy promulgation
+1. Strengthening the Roles of TESDCs in resource generation | The Omnibus Amendment to the Rules and Regulations of TESDCs provides that they manage all activities of the TVET sub-sector in the region/province. The TESDC's 2002 roles shall be redefined in relation to the School Boards and on the resource generation at the local levels. Corresponding capability programs shall be developed and implemented attendant to such roles and functions. | Policy promulgation
 2. Review and Updating of Priority Sectors and Qualifications | The new priority sectors and occupations shall be based on the MTPDP 2004-2010 and the results of the 2005 R/PSPs survey. This shall be complemented by a workshop with selected TAP/TEP/TWG members on the priority sectors. This will also serve as inputs in the Second Cycle NTESDP 2005-2009. The SSSD-TESDA Board has come up with a system that provides bases for prioritizing occupations where TRs will be developed. | Policy promulgation
-3. IRP Recommen- dations | Per February 8, 2005 Direction Setting Meeting, the body agreed to review the IRP recommendations. A Committee on Change Management manned by TESDA Board members shall be created and shall be responsible for both internal and legislative matters addressing IRP concerns. | Discussion/ further recommendation
-4. Review of NMIS/EMIS | There is an expressed need for TESDA Board -DS members to be appraised on the NMIS in relation with the Education Management Information System (EMIS) of ADB-TESD Project and Financial Management Information System (FMIS) of PAQTVET, the investment poured in the system and its current direction and requirements. | Review
-5. Training Regulations for TESDA Board Approved Priority Qualifications | Request for promulgation of TRs on RAC Window/Transport Request for promulgation of the TRs for Performing Artists: Singer /Dancer, Home Management, Factory Worker, and Cosmetologist Critical occupations of the 4 priority sectors (ICT, Tourism, Health and Agri-Fishery) identified by the IWGs shall be considered. | Review/adoption
+3. IRP Recommendations | Per February 8, 2005 Direction Setting Meeting, the body agreed to review the IRP recommendations. A Committee on Change Management manned by TESDA Board members shall be created and shall be responsible for both internal and legislative matters addressing IRP concerns. | Discussion/further recommendation
+4. Review of NMIS/EMIS | There is an expressed need for TESDA Board–DS members to be appraised on the NMIS in relation with the Education Management Information System (EMIS) of ADB-TESD Project and Financial Management Information System (FMIS) of PAQTVET, the investment poured in the system and its current direction and requirements. | Review
+5. Training Regulations for TESDA Board Approved Priority Qualifications | Request for promulgation of TRs on RAC Window/Transport Request for promulgation of the TRs for Performing Artists: Singer/Dancer, Home Management, Factory Worker, and Cosmetologist Critical occupations of the 4 priority sectors (ICT, Tourism, Health and Agri-Fishery) identified by the IWGs shall be considered. | Review/adoption
 6. Effective Duration of a Registered Program | Compliance to program registration from NTR to WTR shall be for a period of 1 year. UTPRAS Registration shall have a validity of 5 years but once a new TR is approved even before the end of the 5th year, the program shall be re-registered under a new TR. The process of compliance audit and spot checks on registered programs shall be strengthened. | Review/adoption
-
-Table 15 2005 TVET POLICY AGENDA
 
 Page 91
 
@@ -11017,10 +7946,10 @@ POLICY AGENDA | BRIEF DESCRIPTION | RECOMMENDED ACTION FROM THE TESDA BOARD
 --- | --- | ---
 7. Mandatory Assessment for Graduates of TVET Courses with TRs | To ensure the quality of training delivery consistent with set standards, graduates of TVET courses covered by promulgated TRs shall be required to undergo mandatory assessment under the national assessment and certification system. | Review/approval
 8. Procedural Integration of Programs of Government Agencies, SUCs and Community Colleges | In recognition of the various providers of training programs (national government agencies, SUCs, community colleges), TESDA has to ensure that such programs are within the PTQF. Thus TESDA shall enforce registration to be complied with by all components of the TVET System. Assessment and certification shall likewise be implemented in areas where there are existing standards promulgated by the Board. | Promulgation
-9. Equivalency | An enhanced equivalency system as embodied in EO 358 is being worked out with CHED as well as other equivalency and articulation mechanisms. For SY 2005-2006, there are twenty- one pilot institutions commonly identified by TESDA and CHED to implement seven disciplines. | Discussion/review
-10. Performance Assessment of TVET Students in All Training Delivery Systems (school, enterprises, community- based and training centers) | Participants of TVET training courses in schools training centers, enterprises, and community-based should be able to demonstrate their acquired learnings and competencies within the duration of their training. As in competency-based TVET, learners are required to produce evidences to prove that they have acquired competencies prior to proceeding to the next module. These evidences are gathered on a per competency basis. | Discussion
-11. Integration of All Enterprise- Based Training | An Omnibus Bill integrating all enterprise-based training like OJT, apprenticeship, DTS, and similar training modalities, is recommended to be pursued. | Discussion/review
-12. Integration of Entrepreneurshi p/Techno- preneurship Modules in all TVET Courses | Consistent with entrepreneurship/technopreneurship development strategy for TVET, the curriculum shall integrate entrepreneurship/technopreneurship modules to include but not limited to basic bookkeeping, accounting for non-accountants and basic business law. | Review/adoption
+9. Equivalency | An enhanced equivalency system as embodied in EO 358 is being worked out with CHED as well as other equivalency and articulation mechanisms. For SY 2005-2006, there are twenty-one pilot institutions commonly identified by TESDA and CHED to implement seven disciplines. | Discussion/review
+10. Performance Assessment of TVET Students in All Training Delivery Systems (school, enterprises, community-based and training centers) | Participants of TVET training courses in schools training centers, enterprises, and community-based should be able to demonstrate their acquired learnings and competencies within the duration of their training. As in competency-based TVET, learners are required to produce evidences to prove that they have acquired competencies prior to proceeding to the next module. These evidences are gathered on a per competency basis. | Discussion
+11. Integration of All Enterprise-Based Training | An Omnibus Bill integrating all enterprise-based training like OJT, apprenticeship, DTS, and similar training modalities, is recommended to be pursued. | Discussion/review
+12. Integration of Entrepreneurship/Technopreneurship Modules in all TVET Courses | Consistent with entrepreneurship/technopreneurship development strategy for TVET, the curriculum shall integrate entrepreneurship/technopreneurship modules to include but not limited to basic bookkeeping, accounting for non-accountants and basic business law. | Review/adoption
 13. Apprenticeship in Areas covered by Training Regulations | The concern for expanding apprenticeable trades can be addressed by considering as apprenticeable all appropriate competencies in qualifications covered by existing TRs. The TESDA Board has directed the Secretariat to include the 31 occupations as apprenticeables. The TESDA Board will not act on these apprenticeable trades unless approved by a tripartite body. | Review/adoption
 
 Page 92
@@ -11031,7 +7960,7 @@ Page 92
 
 POLICY AGENDA | BRIEF DESCRIPTION | RECOMMENDED ACTION FROM THE TESDA BOARD
 --- | --- | ---
-14. Direct Training Provision Role of TESDA | Within the medium term, TESDA shall continue to undertake direct training as it moves towards enabling other stakeholders as training providers. The direct training provision role of TESDA is necessary when: 1. There are critical occupations/skills that cannot be provided by the private sector. 2. The cost of training in private sector is high. 3. The capacity of private TVET is low 4. The quality of private TVET provision is wanting The implementation of highly recommended reform of devolving TVET to LGUs as contained in the progressive devolution is | Promulgation
+14. Direct Training Provision Role of TESDA | Within the medium term, TESDA shall continue to undertake direct training as it moves towards enabling other stakeholders as training providers. The direct training provision role of TESDA is necessary when: 1. There are critical occupations/skills that cannot be provided by the private sector. 2. The cost of training in private sector is high. 3. The capacity of private TVET is low 4. The quality of private TVET provision is wanting The implementation of highly recommended reform of devolving TVET to LGUs as contained in the progressive devolution is continuously being pursued. | Promulgation
 15. Devolution of TESDA Training Functions to the LGUs | Section 29 of RA 7796 provides that 'the Authority shall formulate, implement and finance specific plan to develop the capability of local government units to assume ultimately the responsibility for effectively providing community-based TESD opportunities'. The Law also provides that there shall be 'effective and timely retraining of TESDA personnel that would be affected by the devolution to ensure their being retained if the concerned local government units would not be able to absorb them' | Discussion
 
 Source: TESDA Board Resolution No. 02 dated March 18, 2005
@@ -11056,7 +7985,7 @@ The availability and implementation of the TESDA corporate, human resource devel
 
 #### TESDA Core Business
 
-TESDA's core business basically consists of three planks which are mutually reinforcing.  These are direction setting, standards setting and system development and  support  to  TVET  provision  (Figure  12).    InstitutionaL    Capacity  Building  is necessary in support to the required services and delivery of its core business.
+TESDA's core business basically consists of three planks which are mutually reinforcing. These are direction setting, standards setting and system development and support to TVET provision (Figure 12). Institutional Capacity Building is necessary in support to the required services and delivery of its core business.
 
 In line with the Independent Review Panel's 3 (IRP) recommendations, TESDA will eventually be an enabler whose role covers program and curriculum development for TVET institutions, continuing development of trainers and teachers, and the facilitation in the availment of grants and assistance for training institutions, industries, local government units (LGUs) and non-government organizations (NGOs).
 
@@ -11064,7 +7993,7 @@ In line with the Independent Review Panel's 3 (IRP) recommendations, TESDA will 
 
 Central to TESDA's role as an authority is being able to provide a clear sense of  direction  to  the  TVET  sub-sector.    This  essentially  involves  the  formulation  of policies,  plans  and  guidelines  that  will  ensure  the  development  of  high  quality Filipino middle-level manpower.  For TESDA to be able to direct TVET providers to areas  where  TVET  will  be  most  effective  and  relevant,  the  availability  of  timely, accurate and relevant information is crucial.
 
-TESDA needs to be market-sensitive and be able to understand the domestic labor market, including the goods and services markets.  It should also monitor the external environment on current and pressing developments and be able to assess the implications on TVET.  TESDA should start looking beyond its corporate setting and see the broader context of TVET, particularly in this time of globalization and rapid technological changes.  Its business is to be able to drive the TVET sub-sector in terms of appropriate policy directions and programs.
+TESDA needs to be market-sensitive and be able to understand the domestic labor market, including the goods and services markets. It should also monitor the
 
 > 3 RA 7796, Sec. 35
 
@@ -11073,6 +8002,7 @@ Page 94
 [[END OF PAGE 115]]
 
 [[START OF PAGE 116]]
+external environment on current and pressing developments and be able to assess the implications on TVET. TESDA should start looking beyond its corporate setting and see the broader context of TVET, particularly in this time of globalization and rapid technological changes. Its business is to be able to drive the TVET sub-sector in terms of appropriate policy directions and programs.
 
 ##### Standards Setting and Systems Development
 
@@ -11096,351 +8026,69 @@ Page 95
 
 [[START OF PAGE 117]]
 
-Figure 10 Strategy Map for TESDA
+Figure 10
+Strategy Map for TESDA
 
-Vision:
+Vision: TESDA is a leading partner in the development of the Filipino workforce with world-class competence and positive values
 
-TESDA is a leading partner in the development of the Filipino workforce with world-class competence and positive values
-
-Operations Management Processes
-
-Customer Management Processes
-
-Financial
-
-Accountability
-
-Perspective
-
-To financially
-
-sustain our
-
-mission, what
-
-must we focus
-
-on?
-
-Perspective
-
-vision, how should
-
-we appear to our
-
-customers?
-
-Internal
-
-Process
-
-Perspective
-
-To satisfy our
-
-operational pro
-
-excel at?
-
-Organizational
-
-Learning &
-
-Growth
-
-Perspective
-
-How will we
-
-sustain our ability
-
-to change and
-
-improve?
-
+1
+Customer Perspective
+To achieve our vision, how should we appear to our customers?
 Increase Customer Satisfaction and Participation
-
-Increase
-
-Cost
-
-Effectiveness
-
 Inspire, Delight and Excite the Customers
-
-Improve
-
-Strategic Skills
-
-& Competencies
-
-Culture for
-
-Continuous
-
-Improvement
-
-Motivated and
-
-Committed
-
-Multi -skilled Workforce
-
-1 1
+Strengthen Community Economic Enterprise
+Enhance Capability of Partners
+Reduce Waiting Time
+Promote Economic Opportunity
+Pro-Actively Match Wage-Earners with Job Vacancies
+Intensify Entrepreneurship Training and Micro-Enterprise Development
 
 2
-
-2
-
-3
-
-3
-
-4 4
-
+Financial Accountability Perspective
+To financially sustain our mission, what must we focus on?
 Increase Investment in TVET
+Secure Funding/Service Partners
+Increase Customer Value
+Increase Cost Effectiveness
+Increase stakeholders' participation in the management of TVET
+Maximize use of Existing assets
 
-Enhance
-
-Capability of
-
-Partners
-
-Reduce
-
-Waiting
-
-Time
-
-Promote
-
-Economic
-
-Opportunity
-
-Secure Funding/
-
-Service Partners
-
-Pro -Actively Match
-
-Wage - Earners with
-
-Job Vacancies
-
-Strengthen Community
-
-Economic Enterprise
-
-Increase
-
-Customer
-
-Value
-
-Increase stakeholders
-
-'
-
-participation in the
-
-management of TVET
-
+3
+Internal Process Perspective
+To satisfy our customers, which operational processes must we excel at?
+Achieve Operational Excellence
+Operations Management Processes
+Establish Effective Communication System
+Create Network of Partners for Extended Product/Service Capabilities
+Institutionalize Strategic Planning and Institutional Governance
+Decentralize Authority to the field units
+Provide Outstanding Services
+Customer Management Processes
+Enhance Partnering/Integrated Management
+Communicate Value Proposition
+Develop Partnerships to Deliver the Best Total Value
+Institutionalize Client Management System
+Align with Innovative, Market-Driving Customers
+Establish National Stakeholder Consultation Mechanism
+Demonstrate Innovativeness
 Innovation Management Processes
-
-Provide Outstanding
-
-Services
-
-Demonstrate
-
-Innovativeness
-
-Achieve Operational
-
-Excellence
-
-Institution
-
--
-
-alize
-
-Strategic
-
-Planning and
-
-Institutional
-
-Governance
-
-Create Network
-
-of Partners for
-
-Extended Product/
-
-Service
-
-Capabilities
-
-Institution
-
--
-
-alize
-
-Client
-
-Management
-
-System
-
-Communicate
-
-Value
-
-Proposition
-
-Enhance
-
-Partnering/
-
-Integrated
-
-Management
-
-Establish
-
-National
-
-Stakeholder
-
-Consultation
-
-Mechanism
-
-Develop
-
-Partnerships
-
-to Deliver the
-
-Best Total
-
-Value
-
-Develop
-
-Research
-
-Opportunities
-
-Aligned with
-
-Growth
-
-areas
-
-Identify New
-
-Opportunities
-
-to Serve
-
-Customers
-
-Intensify
-
-Implement
-
--
-
-ation
-
-of
-
-Major
-
-Reforms
-
-National
-
-Qualifications
-
-Framework
-
-Enhance
-
-Information
-
-Management
-
+Identify, Acquire and Assimilate Complementary Solutions
+Develop Research Opportunities Aligned with Growth areas
+Identify New Opportunities to Serve Customers
+Intensify Implementation of Major Reforms
+National Qualifications Framework
+
+4
+Organizational Learning & Growth Perspective
+How will we sustain our ability to change and improve?
+Motivated and Committed Multi-skilled Workforce
 Human Capital
-
+Improve Strategic Skills & Competencies
 Information Capital
-
+Enhance Information Management
 Organization Capital
-
-Decentralize
-
-Authority
-
-to the
-
-field units
-
-Establish
-
-Effective
-
-Communication
-
-System
-
-Intensify Entrepreneurship
-
-Training and Micro
-
--Enterprise
-
-Development
-
-Maximize use of
-
-Existing assets
-
-Identify,
-
-Acquire
-
-and Assimilate
-
-Complementary
-
-Solutions
-
-Align with
-
-Innovative,
-
-Market -Driving
-
-Customers
-
-Organizational
-
-Alignment and
-
-Integration
-
-Customer
-
-To achieve our
-
-cesses must we
-
-customers, which
+Culture for Continuous Improvement
+Organizational Alignment and Integration
 
 Page 96
 
@@ -11448,13 +8096,14 @@ Page 96
 
 [[START OF PAGE 118]]
 
-G GO OA AL L | C CO ON NC CE ER RN NS S | M Ma aj jo or r F Fi in na al l O Ou ut tp pu ut ts s ( (M MF FO Os s) ) | S SE EC CT TO OR RA AL L S ST TR RA AT TE EG GI IE ES S
---- | --- | --- | --- | ---
-LEADERSHIP IN TVET Strategy Super ordinate | • Strategic Planning System goals system • Information Analysis • Process |  Clarify the precise scope of TESDA's Jurisdiction  Clarify and finalized the Vision and Mission Statements and stick to them  Refocus efforts and resources to the implementation of the major TVET reforms  Regionalize the NTESDP  Build up capabilities in area research, planning and operations, policy research, analysis, formulation and advocacy  Information technology management of operating system | TVET Policies, Plans and Information TVET Standards and Systems |  Convergence in TVET  Private Sector Led/Market Driven TVET  Pro-Active Job-Skill Matching (SEEK-FIND- TRAIN)  Enhancing Quality Assurance Mechanisms  Lifelong Learning Mechanism/Ladderization and Articulation  Competency-Based TVET  Expanding Scholarships and Other Incentive Support Services  Entrepreneurship/ Technopreneurship in TVET  Institutional Capacity Building
-PARTNER EMPOWERMENT Customer Focus |  Commit to a firm schedule of devolving the direct training function  Expansion of the Teachers/Trainers Training Program  Set-up industry boards in priority sectors and activate dormant ones  Expansion of private sector TVET provision  Enhancement of TVET Graduates' employability | TVET Delivery and Support Services
-ORGANIZATIONAL EXCELLENCE Style Skills, Staff | • Leader- ship Structure • Human Resource Focus • Organizational Results |  Re-organize and Strengthen the TESDA Board  Rationalize internal organization and staffing  Interconnectivity of the different offices  Shift of locus of power  Establishment of HR Planning Systems and development of HRD Plan  Revise the systems decision-making, authorities and responsibility  Strengthen management of core resources | Organization Development Quality Management System
+Table 16
+TESDA CORPORATE PLAN
 
-Table 16 TESDA CORPORATE PLAN
+GOAL | CONCERNS | Major Final Outputs (MFOs) | SECTORAL STRATEGIES
+--- | --- | --- | ---
+LEADERSHIP IN TVET Strategy • Strategic Planning System Super ordinate goals system • Information Analysis • Process Management |  Clarify the precise scope of TESDA's Jurisdiction  Clarify and finalized the Vision and Mission Statements and stick to them  Refocus efforts and resources to the implementation of the major TVET reforms  Regionalize the NTESDP  Build up capabilities in area research, planning and operations, policy research, analysis, formulation and advocacy  Information technology management of operating system | TVET Policies, Plans and Information TVET Standards and Systems |  Convergence in TVET  Private Sector Led/Market Driven TVET  Pro-Active Job-Skill Matching (SEEK-FIND-TRAIN)  Enhancing Quality Assurance Mechanisms  Lifelong Learning Mechanism/Ladderization and Articulation  Competency-Based TVET  Expanding Scholarships and Other Incentive Support Services  Entrepreneurship/Technopreneurship in TVET  Institutional Capacity Building
+PARTNER EMPOWERMENT Customer Focus |  Commit to a firm schedule of devolving the direct training function  Expansion of the Teachers/Trainers Training Program  Set-up industry boards in priority sectors and activate dormant ones  Expansion of private sector TVET provision  Enhancement of TVET Graduates' employability | TVET Delivery and Support Services |
+ORGANIZATIONAL EXCELLENCE Style • Leadership Structure Skills, Staff • Human Resource Focus • Organizational Results |  Re-organize and Strengthen the TESDA Board  Rationalize internal organization and staffing  Interconnectivity of the different offices  Shift of locus of power  Establishment of HR Planning Systems and development of HRD Plan  Revise the systems decision-making, authorities and responsibility  Strengthen management of core resources | Organization Development Quality Management System |
 
 Page 97
 
@@ -11463,220 +8112,77 @@ Page 97
 [[START OF PAGE 119]]
 
 Figure 11
-
-Indicators
-
-Area
-
-Output
-
-Competence
-
-HRD
-
-Goals
-
-Recommended
-
-Organizational
-
-Change
-
-Performance
-
-Key Result
-
-Goals
-
-How To
-
-Achieve
-
-Strategies
-
-Major Final
-
-Strategies
-
-Measures
-
-PLAN
-
-Priorities
-
-Key Result
-
-Areas
-
-Performance
-
-Indicators
-
 Corporate Plan Context
 
-WHEN
-
-Timelines
-
-Organizational
-
-Skills/
-
-Competence
+Goals | Recommended Organizational Change | Major Final Output | How To Achieve Strategies
+Goals | Key Result Area | Performance Indicators | Strategies | Measures | Organizational Competence Skills/Competence | HRD PLAN
+Priorities | Key Result Areas | Performance Indicators | WHEN Timelines
 
 ##### Institutional Capacity Building
 
 For TESDA to provide the required services and deliver its core business, it must have internal capacity and capability. Institutional Capacity Building, therefore, is necessary to build its competencies along the various requirements of its direction setting,  skills  standard  and  systems  development,  and  support  to  TVET  provision responsibilities. Institutional capacity building also involves the installation of TESDA Quality  Management  System  (QMS)  at  all  levels  and  improving  the  efficiency  and effectiveness of the various systems and processes in the organization.
 
-Figure 12 TESDA Core Business
+Figure 12
+TESDA Core Business
+
+EXERCISING NATIONAL LEADERSHIP IN TVET
 
 AUTHORITY
-
 • Regulator
-
 • Enabler
-
 • Manager
-
 • Promoter
 
-EXERCISING NATIONAL  LEADERSHIP IN TVET
+Direction Setting
+¾ Policy Formulation
+¾ Information
+3 NMIS
+3 Labor Market Monitoring
+3 Industry studies
+3 Monitoring of external environment
+¾ Plan formulation (National, Regional, Local)
+¾ Resource Allocation
 
-¾
+Standards Setting and Systems Development
+¾ Standards Development
+¾ Systems Development
+¾ Assessment
+¾ Certification
+¾ Accreditation
+¾ Registration
+¾ Incentives & Awards
 
-Standards
-
-Development
-
-¾
-
-Systems
-
-Development
-
-¾
-
-Assessment
-
-¾
-
-Certification
-
-¾
-
-Accreditation
-
-¾
-
-Registration
-
-¾
-
-Incentives &
-
-Awards
-
-¾
-
-Policy Formulation
-
-¾
-
-Information
-
-3
-
-NMIS
-
-3
-
-Labor Market
-
-Monitoring
-
-3
-
-Industry
-
-studies
-
-3
-
-Monitoring of
-
-external
-
-environment
-
-¾
-
-Plan formulation
-
-(National, Regional,
-
-Local)
-
-¾
-
-Resource
-
-Allocation
-
-Q Q
-
+Q
 TESDA QMS
 
-¾
+Support to TVET Provision
+¾ Technical Supervision
+¾ Modes of Provision
+ School-based (57 Administered Schools 3,628 Private TVIs/HEIs)
+ Center-based (15 RTCs, 45 PTCs)
+ Enterprise-based (about 500+ partner enterprises)
+ Community-based (1,124 CTECs)
+¾ Capability Building/Technical Assistance to TVIs
+¾ Scholarship Program
+¾ Career Guidance
 
-Technical Supervision
+Institutional Capacity Building
 
-¾
+CLIENTS
+• TVET Providers
+- Public & Private TVIs
+- Enterprises
+- Workers Group
+- LGUs
+- Civil Society Org.
+- National Gov't Agencies
 
-Modes of Provision
-
-¾
-
-Capability Building/
-
-Technical
-
-Assistance to TVIs
-
-¾
-
-Scholarship
-
-Program
-
-¾
-
-Career Guidance
-
-
-
-School-based
-
-(57 Administered Schools 3,628
-
-Private TVIs/HEIs)
-
-
-
-Center-based
-
-(15 RTCs, 45 PTCs)
-
-
-
-Enterprise-based
-
-(about 500+ partner enterprises)
-
-
-
-Community-based
-
-(1,124 CTECs)
+BENEFICIARIES
+• Unemployed
+• Employed needing upskilling/reskilling
+• OSYs
+• Students
+• Industry
 
 Note: Figures of TVET providers as of 2005
 
@@ -11692,181 +8198,80 @@ Adhering to development principles of ownership and participation, the Plan is a
 
 The flowchart below (Figure 13) reflects the consensus building process which led to the formulation of the Plan.
 
-Figure 13 Second Cycle NTESDP 2005-2009 Formulation Process
+Figure 13
+Second Cycle NTESDP 2005-2009 Formulation Process
 
-Sec 21 of RA 7796
+4th Planners Conference
+(January 22-23, 2004)
 
-- Formulation of a Comprehensive
+Brainstorming on the NTESDP Formulation with TESDA and IAC members
+(July 28, 2004)
 
-Development Plan for Middle-Level Manpower.
+Sec 21 of RA 7796 - Formulation of a Comprehensive Development Plan for Middle-Level Manpower.
 
-Approved
-
-Medium-Term Philippine
-
-Development Plan (MTPDP)
-
-2004-2010
-
+Approved Medium-Term Philippine Development Plan (MTPDP) 2004-2010
 (September 2004)
 
-Capability Build-up on the
-
-Formulation of the
-
-NTESDP/Preparation
-
-of the RSPs/PSPs
-
+Capability Build-up on the Formulation of the NTESDP/Preparation of the RSPs/PSPs
 (December 20-22, 2004)
 
-Approval of the
-
-Second Cycle NTESDP 2005-2009
-
-Framework by the TESDA Board
-
+Approval of the Second Cycle NTESDP 2005-2009 Framework by the TESDA Board
+(March 18, 2005)
 TB Resolution No. 01
 
-(March 18, 2005)
-
-Inter-Agency Planning
-
-Workshop
-
-(April 6-7, 2005)
-
-1st Draft Plan
-
-Briefing for the TB- Direction
-
-Setting Committee
-
-(April 11, 2005)
-
-Meeting with the
-
-Planning Shepherds
-
-(April 6-7, 2005)
-
-Meeting with the
-
-TESDA TWG
-
-(April 1, 2005)
-
-Preparation of the
-
-NTESDP Outline
-
+Preparation of the NTESDP Outline
 (March 30, 2005)
 
-Endorsement by TESDA
+Meeting with the TESDA TWG
+(April 1, 2005)
 
-Board ExCom
+Meeting with the Planning Shepherds
+(April 6-7, 2005)
 
-(May 16, 2005)
-
-Endorsement by TB-
-
-Direction Setting Committee
-
-(May 5, 2005)
-
-Endorsement by TESDA
-
-ExCom
-
-(May 2, 2005)
-
-Plan Review/
-
-Enhancement by IAC
-
-(April 25-29, 2005)
-
-3rd Draft Plan
-
-Endorsement by
-
-NEDA-SDC
-
-Cabinet Level
-
-(June 2, 2005)
-
-Endorsement by
-
-Technical Board
-
-NEDA-SDC TWG
-
-(May 31, 2005)
-
-Approval by the
-
-TESDA Board
-
-(May 19, 2005)
+Inter-Agency Planning Workshop
+(April 6-7, 2005)
+1st Draft Plan
 
 R/PSPs
-
 (April 2005)
 
 R/PTESD Plans
-
 (April 2005)
 
-Multisectoral
+Briefing for the TB-Direction Setting Committee
+(April 11, 2005)
 
-Consultation
-
-(April 18, 2005)
-
-Joint TAPs, TEPs, IWGs
-
-Workshop
-
+Joint TAPs, TEPs, IWGs Workshop
 (April 13-14, 2005)
 
-4 th
-
-Planners Conference
-
-(January 22-23, 2004)
-
-Brainstorming on the
-
-NTESDP Formulation
-
-with TESDA and IAC members
-
-(July 28, 2004)
-
-Simultaneous Plan Review
-
-TESDA Mancom
-
+Multisectoral Consultation
 (April 18, 2005)
 
-, Sectoral TVET Cluster
+Simultaneous Plan Review
+TESDA Mancom (April 18, 2005), Sectoral TVET Cluster (April 19, 2005), TESDA Excom (April 20, 2005), RTESDCs (April 21, 2005)
+2nd Draft Plan
 
-(April 19, 2005)
+Plan Review/Enhancement by IAC
+(April 25-29, 2005)
+3rd Draft Plan
 
-,
+Endorsement by TESDA ExCom
+(May 2, 2005)
 
-TESDA Excom
+Endorsement by TB-Direction Setting Committee
+(May 5, 2005)
 
-(April 20, 2005)
+Endorsement by TESDA Board ExCom
+(May 16, 2005)
 
-, RTESDCs
+Approval by the TESDA Board
+(May 19, 2005)
 
-(April 21, 2005)
+Endorsement by Technical Board NEDA-SDC TWG
+(May 31, 2005)
 
-2 nd
-
-Darft Plan
+Endorsement by NEDA-SDC Cabinet Level
+(June 2, 2005)
 
 Page 99
 
@@ -12157,8 +8562,8 @@ PTC | Provincial Training Center
 PTESDC | Provincial Technical Education and Skills Development Committee
 PTQCS | Philippine TVET Qualifications and Certification System
 PTQF | Philippine TVET Qualifications Framework
-PWD | Persons With Disability Quality Assurance
-QA
+PWD | Persons With Disability
+QA | Quality Assurance
 
 Page 104
 
@@ -12336,14 +8741,14 @@ Page 105
 
 [[START OF PAGE 127]]
 
+# Annex A Priority Sectors and Critical Occupations/Skills: 2005-2007*
+
 SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
 --- | --- | ---
 AGRICULTURE AND FISHERIES | Aquaculture | Aqua Entrepreneur Hito Cultivator Tilapia Farm Cultivator Freshwater Shrimp Cultivator Breeder of Export-driven Ornamental Fish Fishpond/Cage Technician Master Fisherman (Boat Captain, Boat Engine Mechanic) Hatchery/Nursery Technician Hazard Analysis and Critical Control Point (HACCP) System Inspector Fishing Gear Designer/Technician Natural Larval Food Technician
 Livestock | Hatchery Operator Slaughterhouse Equipment Operator/ Maintenance Butcher/Meat Cutter Raiser/Entrepreneur Artificial Insemination (AI) Technician Meat Processing Operator Dressing Plant Equipment Operator Forage Specialist
 Post harvest | Post Harvest Technician Fish Processing Technician Seaweeds Processing Technician Fish Products Packager Cold Storage Technician Refrigeration Technician Live Transport Technician Fish Processor (post harvest)
 Crops | Farmer Entrepreneur Certified Seed Producers Nursery Operators Plant Nutritionist Soil Analyst Water Management Technician Weed Control Technician Disease Technician Pest Technician Equipment Maintenance (e.g. threshers and shellers) Tractor Operator Harvester Cutters/Pickers/Sorters/Classifiers/Storage and Warehousing Packers
-
-# Annex A Priority Sectors and Critical Occupations/Skills: 2005-2007*
 
 Page 106
 
@@ -12366,7 +8771,7 @@ Page 107
 
 SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
 --- | --- | ---
-DECORATIVE CRAFTS | Gifts, Toys and Housewares | Basket Maker Caster Dye Technician Embroiderer Finisher/Packer Flower Maker Hand Loom Weaver Hand Made Paper Maker Hand Painter Handicraft Worker Harvester/Drier/Cleaner Lasa Processor Macrame Worker Marble Worker Moulder Needle Craft Worker Pattern Maker Potter Pottery Maker Product Designer Quality Controller Quilters Shell Craft Worker Sorter/Drier Splitters Stone Cutter Structural Brick Maker Wood Laminator
+DECORATIVE CRAFTS | Gifts, Toys and Housewares | Basket and Mat Weaver Basket Maker Caster Dye Technician Embroiderer Finisher/Packer Flower Maker Hand Loom Weaver Hand Made Paper Maker Hand Painter Handicraft Worker Harvester/Drier/Cleaner Lasa Processor Macrame Worker Marble Worker Moulder Needle Craft Worker Pattern Maker Potter Pottery Maker Product Designer Quality Controller Quilters Shell Craft Worker Sorter/Drier Splitters Stone Cutter Structural Brick Maker Wood Laminator
 Ceramics | Ceramic Product Designer Model Maker Mold Maker Caster Ceramics Sponger/Trimmer Ceramic Kiln/Dryer Operator Hand Painter/Designer Ceramic Glazer Potter Quality Controller (greenware/bisque/glaze) Structural Brick Maker Jiggering Machine Operator
 ELECTRONICS | Industrial Automation and Mechatronics | Automated Machine Operator Industrial Automation Craftsman Industrial Automation Technician Calibration Technician Industrial Automation Lecturer/Specialist Pneumatic/Hydraulic Technician Industrial Automation Application/Sales Representative Industrial Automation Manager/Supervisor Program Logic Control (PLC) Programmer Human Machine Interface/Supervisory Control and Data Acquisition (HMI/SCADA) Programmer
 
@@ -12393,7 +8798,7 @@ Page 109
 
 SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
 --- | --- | ---
-HEALTH AND SOCIAL SERVICES | Health and Nutrition | Health Care Assistants: Maternal and Child Health (MCH) Aide Surgery Aide Internal Medicine Aide Emergency Room (ER) Aide General Aide Barangay Nutrition Scholar (BNS) Emergency Medical (EM) Technician Biomedical Electronic (BME) Technician Electrocardiogram (ECG) Technician Dialysis Technician Community-based: Barangay Health Worker (BHW) Trained Hilot
+HEALTH AND SOCIAL SERVICES | Health and Nutrition | Health Care Assistants: Maternal and Child Health (MCH) Aide Surgery Aide Internal Medicine Aide Emergency Room (ER) Aide General Aide Barangay Nutrition Scholar (BNS) Emergency Medical (EM) Technician Biomedical Electronic (BME) Technician Electrocardiogram (ECG) Technician Dialysis Technician Community-based: Barangay Health Worker (BHW) Trained Hilot Trained Masseurs
 Security | Security Guard Post Services Security Guard (SG) Conduction Service Armored Vehicle/ Guard Service Investigation & Detection Service Electronic Security Systems and Services Specialized Security Services: Industrial Commercial Bank High Rise Maritime/Seafarer Aviation Hospital Campus Villages Subdivision
 Retailing | Sales Professional Cashier Promodizer Visual Merchandiser Product Specialist Buyer/Merchandiser
 
@@ -12405,7 +8810,7 @@ Page 110
 
 SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
 --- | --- | ---
-HVAC/R | Window-Type AC Installer Refrigeration and Air Conditioning (RAC) Service Technician (Window-Type AC/Domestic Refrigeration) Package-Type AC Installer RAC Service Technician (Package-Type AC/Commercial Refrigeration) Transport RAC Land/Mobile AC and Refrigeration Marine Sea AC and Refrigeration Service Technician Centralized AC Reciprocating Chillers Centrifugal Chillers Screw Chillers Technician Industrial Refrigeration Technician
+HVAC/R | Window-Type AC Installer Refrigeration and Air Conditioning (RAC) Service Technician (Window-Type AC/Domestic Refrigeration) Package-Type AC Installer RAC Service Technician (Package-Type AC/Commercial Refrigeration) Transport RAC Land/Mobile AC and Refrigeration Marine Sea AC and Refrigeration Service Technician Centralized AC Reciprocating Chillers Centrifugal Chillers Screw Chillers Technician Industrial Refrigeration Technician Ice Plant Technician
 INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) | Medical Transcriptionist Animation Worker Call Center Agents Software Development: Systems Analysts and Designer Programmers Business Process Outsourcing: IT System Administration/Support Worker Project Management Worker System Security Specialist Other Non-CICT Services: IT User/Office Personal Applications Technician Engineering/Architectural Drafting/Detailing Legal Transcriptionist Network Design/Administration Worker Network Technician Database Admin/Management Worker Technical Support: Hardware Maintenance/Systems Administration/Security Technician Web Developer ICT Sales Worker Technical Writer/Trainers
 
 Page 111
@@ -12426,12 +8831,12 @@ Page 112
 
 [[START OF PAGE 134]]
 
-SECTOR | CRITICAL OCCUPATIONS/SKILLS
---- | ---
-METALS AND ENGINEERING | Metal and Steel Fabricator Shielded Metal Arc Welding (SMAW) Welder Gas Tungsten Arc Welding (GTAW) Welder Gas Metal Arc Welding/Flux-Cored-Arc Welding (GMAW/FCAW) Welder Oxyfuel Gas Welding and Cutting (OFW and C) Welder Fitter Conventional Machinist Tool and Die Maker Tool and Die Setter Jigs and Fixtures Maker Pattern Maker Metal Finishing Technician Iron and Steel Worker Press Worker Computerized Numerical Control (CNC) Machinist Tool and Die Designer Welding Inspectors Millwright Technician Forging/Smithery Craftman
-MINING | Mining and Metallurgical Engineering Technician Miner Quarry Worker Shotfirer Blaster Sampler (Mine) Rough Carpenter Machine Operator: Cutting/Mine Drilling/Mine Mining/Continuous Crushing/Mineral Ore Milling/Minerals Stone Pressing
-PROCESSED FOOD AND BEVERAGES | Filler Operator/ Maintenance Repairer Storage, Warehouseman Hauler/ Forklift Operator Packing Machine Operator Delivery Van Driver Labeling Machine Operator Coding Machine Operator Vacuum Sealer Machine Operator
-SHIPBUILDING | Welder Shipfitter Pipefitter Electrician (boat building) Technical Divers
+SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
+--- | --- | ---
+METALS AND ENGINEERING |  | Metal and Steel Fabricator Shielded Metal Arc Welding (SMAW) Welder Gas Tungsten Arc Welding (GTAW) Welder Gas Metal Arc Welding/Flux-Cored-Arc Welding (GMAW/FCAW) Welder Oxyfuel Gas Welding and Cutting (OFW and C) Welder Fitter Conventional Machinist Tool and Die Maker Tool and Die Setter Jigs and Fixtures Maker Pattern Maker Metal Finishing Technician Iron and Steel Worker Press Worker Computerized Numerical Control (CNC) Machinist Tool and Die Designer Welding Inspectors Millwright Technician Forging/Smithery Craftman Foundry Technician Heat Treatment Technician
+MINING |  | Mining and Metallurgical Engineering Technician Miner Quarry Worker Shotfirer Blaster Sampler (Mine) Rough Carpenter Machine Operator: Cutting/Mine Drilling/Mine Mining/Continuous Crushing/Mineral Ore Milling/Minerals Stone Pressing
+PROCESSED FOOD AND BEVERAGES |  | Filler Operator/ Maintenance Repairer Storage, Warehouseman Hauler/ Forklift Operator Packing Machine Operator Delivery Van Driver Labeling Machine Operator Coding Machine Operator Vacuum Sealer Machine Operator
+SHIPBUILDING |  | Welder Shipfitter Pipefitter Electrician (boat building) Technical Divers
 
 Page 113
 
@@ -12444,7 +8849,7 @@ SECTOR | SUB-SECTOR | CRITICAL OCCUPATIONS/SKILLS
 TOURISM | Travel and Tours | Local Tour Guide Tour Coordinator and Information Officer Tour Operator and Planner Reservations Officer Events Management Staff Tourism Site Management Staff Marketing and Sales Staff
 Hotel and Restaurant | Waiter/Food Server Room Attendant (housekeeping) Cook Sous Chef Executive Chef Pastry Chef Baker Concierge Receptionist Guest Services Officer Reservations Officer
 
-*Adapted from the output of 'Workshop on the Identification of Critical Skills in Priority Sectors, Identification of TVET Issues and Concerns, and Validation of Occupational Map' April 13-14, 2005.
+*Adapted from the output of “Workshop on the Identification of Critical Skills in Priority Sectors, Identification of TVET Issues and Concerns, and Validation of Occupational Map” April 13-14, 2005.
 
 Page 114
 
@@ -12460,7 +8865,7 @@ Using the MTPDP 2004-2010 which embodies the present national leadership's  soci
 
 The Plan incorporated inputs from TESDA's policy recommending and decision making bodies: the Management Committee (ManCom) composed of the Agency's Division  Chiefs;  Sectoral  Cluster  for  Technical  Vocational  Education  and  Training (TVET) composed of the offices involved in TVET planning, systems development, standard setting and certification; Executive Committee  composed of the Secretary and  Director  General,  the  Deputy  Directors  General  and  the  Executive  Directors; National Directorate which is composed of the members of the Executive Committee and the Regional Directors; General Directorate composed of the National Directorate  and  Provincial  Directors  as  well  as  the  TESDA  Technology  Institutes (TTI)  Administrators;  the  Regional  and  Provincial  Technical  Education  and  Skills Development Committees; TESDA Board Direction Setting Committee; TESDA Board Executive Committee, and TESDA Board  which is composed of selected cabinet level representatives from the  government and top executives of umbrella organizations (labor,  employer,  education  and  training,  business  and  investments)  from    private sector.
 
-The  Plan  is  likewise,  a  product  of  tedious  consultations  and  purposive collaboration  by  the  various  external  groups  who  shared  their  time,  knowledge, expertise,  insights  and  wisdom  to  ensure  that  the  Plan  will  measure  up  to  the expectations  of  TVET  sub-sector's  beneficiaries  and  stakeholders.  These  groups include  the  Inter-Agency  TWG  on  the  Formulation  of  the  Second  Cycle  NTESDP 2005-2009;  the  multisectoral  groups  from  labor,  industry,  TVET  providers,  LGUs, non-government organizations, academe; DOLE; NEDA Social Development Committee-Technical Board and Cabinet Level and our partners from the PhilippineAustralia Quality TVET (PAQTVET), TESDA-ADB TESD Project and Industry Working Groups (IWGs).
+The Plan is likewise, a product of tedious consultations and purposive collaboration by the various external groups who shared their time, knowledge, expertise, insights and wisdom to ensure that the Plan will measure up to the expectations of TVET sub-sector's beneficiaries and stakeholders. These groups include the Inter-Agency TWG on the Formulation of the Second Cycle NTESDP 2005-2009; the multisectoral groups from labor, industry, TVET providers, LGUs, non-government organizations, academe; DOLE; NEDA Social Development Committee–Technical Board and Cabinet Level and our partners from the Philippine-Australia Quality TVET (PAQTVET), TESDA-ADB TESD Project and Industry Working Groups (IWGs).
 
 Finally,  to  all  those  who  in  one  way  or  the  other  have  directly  or  indirectly contributed to the formulation of this Plan, we would like to give you our gratitude and appreciation for such commitment and support.
 
@@ -12472,7 +8877,7 @@ Page 115
 
 [[START OF PAGE 137]]
 
-## Social Development Committee - Cabinet Level (NEDA)
+## Social Development Committee – Cabinet Level (NEDA)
 
 Hon. Patricia A. Sto. Tomas Secretary
 
@@ -12516,13 +8921,17 @@ Jovencio G. Avenido Labor Representative Trade Union Congress of the Philippines
 
 Carmen M. Solinap Labor Representative Trade Union Congress of the Philippines
 
-Rene Luis M. Tadle Labor Representative Federation of Faculty Association of the Philippines Dr. Nona S. Ricafort Employer Representative Philippine Federation of Business and Professional Women Dr. Alberto Victor P. Fenix, Jr. Employer Representative New Tech Pulp, Inc.
+Rene Luis M. Tadle Labor Representative Federation of Faculty Association of the Philippines
 
 Page 117
 
 [[END OF PAGE 138]]
 
 [[START OF PAGE 139]]
+
+Dr. Nona S. Ricafort Employer Representative Philippine Federation of Business and Professional Women
+
+Dr. Alberto Victor P. Fenix, Jr. Employer Representative New Tech Pulp, Inc.
 
 Atty. Ranulfo P. Payos Employer Representative Change Management International, Inc.
 
@@ -12546,7 +8955,7 @@ Milagros Dawa-Hernandez Deputy Director General Sectoral TVET
 
 Santiago M. Yabut, Jr. Deputy Director General Field Operations
 
-Elmer K. Talavera Executive Director Planning Office Clifford A. Paragua Executive Director Corporate Affairs Office Pilar G. de Leon Director IV Office of the Chief of Services for Administration Ma. Lourdes T. Reyes Director III International Project Development Unit Raul K. Tanchico Budget Officer V Management and Internal Control Division Irene M. Isaac Executive Director Standards Development and Certification Office Marta M. Hernandez Executive Director TVET Systems Development Office Antonio B. del Rosario Regional Director TESD Project Coordinator Anselmo G. Pegtuan Director III TESD Project Manager Agripina P. Zafra Executive Director Regional Coordination Office Gaspar S. Gayona Director III Regional Coordination Office Washington M. Agustin Executive Director Office for TESDA Institutions Roberto L. Barajan Regional Director Chair, Technical Working Group on NTESDP Formulation Teodoro S. Sanico Regional Director National Capital Region Augusto A. Capio Regional Director Cordillera Administrative Region Orlando M. Naag Regional Director CARAGA
+Elmer K. Talavera Executive Director Planning Office
 
 Page 118
 
@@ -12554,11 +8963,67 @@ Page 118
 
 [[START OF PAGE 140]]
 
+Clifford A. Paragua
+Executive Director
+Corporate Affairs Office
+
+Pilar G. de Leon
+Director IV
+Office of the Chief of Services for Administration
+
+Ma. Lourdes T. Reyes
+Director III
+International Project Development Unit
+
+Raul K. Tanchico
+Budget Officer V
+Management and Internal Control Division
+
+Irene M. Isaac
+Executive Director
+Standards Development and Certification Office
+
+Marta M. Hernandez
+Executive Director
+TVET Systems Development Office
+
+Antonio B. del Rosario
+Regional Director
+TESD Project Coordinator
+
+Anselmo G. Pegtuan
+Director III
+TESD Project Manager
+
+Agripina P. Zafra
+Executive Director
+Regional Coordination Office
+
+Gaspar S. Gayona
+Director III
+Regional Coordination Office
+
+Washington M. Agustin
+Executive Director
+Office for TESDA Institutions
+
+Roberto L. Barajan
+Regional Director
+Chair, Technical Working Group on NTESDP Formulation
+
+Teodoro S. Sanico
+Regional Director
+National Capital Region
+
 Page 119
 
 [[END OF PAGE 140]]
 
 [[START OF PAGE 141]]
+
+Augusto A. Capio Regional Director Cordillera Administrative Region
+
+Orlando M. Naag Regional Director CARAGA
 
 Francisco B. Jucar, Jr. Officer-in-Charge Region I
 
@@ -12670,7 +9135,7 @@ Rodrigo G. De Villa, AGUSAN DEL NORTE; Joventino D. Aleta, AGUSAN DEL SUR; OIC F
 
 Executive Director Elmer K. Talavera Chairman Technical Education and Skills Development Authority
 
-Executive Director Virgilio P. Fulgencio Department of Trade and Industry Director Erlinda M. Capones Mr. Napoleon B. Imperial (alternate) National Economic and Development Authority Director Vilma B. Cabrera Department of Social Welfare and Development Executive Director Ma. Teresa M. Soriano Department of Labor and Employment Director Susana E. Leones Department of Land Reform ASEC Ma. Lourdes P. Orijola Department of Science and Technology Director Arturo C. Bumatay Department of Budget and Management Dr. Lolita M. Andrada Department of Education Dr. Catherine Q. Castañeda Commission on Higher Education Mr. Paolo Benigno Aquino IV National Youth Commission Mr. Manuel Q. Gotis Department of Interior and Local Government Executive Director Cecilia G. Alvarez National Commission on Culture and Arts Mr. Asterio P. Saliot Department of Agriculture Hon. Imelda G. Nicolas National Anti-Poverty Commission Ms. Beatriz Sanga House of Representatives Mr. Horace Cruda Senate of the Philippines Atty.  Ma. Victoria V. Jasmin Department of Tourism Mr. Beato H. Griarte Technology and Livelihood Resource Center Director Adeluisa G. Siapno Department of Environment and Natural Resources Ms. Evangeline Equipaje National Housing Authority
+Executive Director Virgilio P. Fulgencio Department of Trade and Industry
 
 Page 122
 
@@ -12678,11 +9143,69 @@ Page 122
 
 [[START OF PAGE 144]]
 
+Director Erlinda M. Capones
+Mr. Napoleon B. Imperial (alternate)
+National Economic and Development Authority
+
+Director Vilma B. Cabrera
+Department of Social Welfare and Development
+
+Executive Director Ma. Teresa M. Soriano
+Department of Labor and Employment
+
+Director Susana E. Leones
+Department of Land Reform
+
+ASEC Ma. Lourdes P. Orijola
+Department of Science and Technology
+
+Director Arturo C. Bumatay
+Department of Budget and Management
+
+Dr. Lolita M. Andrada
+Department of Education
+
+Dr. Catherine Q. Castañeda
+Commission on Higher Education
+
+Mr. Paolo Benigno Aquino IV
+National Youth Commission
+
+Mr. Manuel Q. Gotis
+Department of Interior and Local Government
+
+Executive Director Cecilia G. Alvarez
+National Commission on Culture and Arts
+
+Mr. Asterio P. Saliot
+Department of Agriculture
+
+Hon. Imelda G. Nicolas
+National Anti-Poverty Commission
+
+Ms. Beatriz Sanga
+House of Representatives
+
+Mr. Horace Cruda
+Senate of the Philippines
+
+Atty. Ma. Victoria V. Jasmin
+Department of Tourism
+
+Mr. Beato H. Griarte
+Technology and Livelihood Resource Center
+
 Page 123
 
 [[END OF PAGE 144]]
 
 [[START OF PAGE 145]]
+
+Director Adeluisa G. Siapno
+Department of Environment and Natural Resources
+
+Ms. Evangeline Equipaje
+National Housing Authority
 
 ## Participants to the Capability Build-up on the Formulation of the NTESDP Framework
 
@@ -12726,9 +9249,8 @@ Deputy  Director  General  Santiago  M.  Yabut,  Jr.,  Executive Director  Elmer
 
 ## TESDA Technical Working Group
 
-Chair: Regional Director Roberto L. Barajan Co-Chair
-
-: Regional Director Maria Susan P. dela Rama
+Chair: Regional Director Roberto L. Barajan
+Co-Chair: Regional Director Maria Susan P. dela Rama
 
 ### Members:
 
@@ -12784,8 +9306,9 @@ Noel A. Reyes Instructor - Training Section After Sales Department Human Resourc
 
 Joey Zulueta Kaizen Group - After Sales Department Human Resources Supervisor Toyota Motor Philippines
 
-Engr. Bernard Bairoy National Project Coordinator National Union of Building and Construction Workers Engr. Alberto Cabael President National Master Plumbers Association of the Philippines (NAMPAP) Mr. Ignacio M. Aguito National Master Plumbers Association of the Philippines (NAMPAP) Engr. Antonio Padrinao National Master Plumbers Association of the Philippines (NAMPAP) Mr. Gamaliel F. Itao Chairman Center for Advance Technical Industry Automation (CATIA) Joselito Torres Training Manager Siemens Inc. Philip Marvin D. Joven Industrial Controls Corp. Francisco Medina Philippine Footwear Federation, Inc. (PFFI) Jessie Badilles Philippine Footwear Federation, Inc. (PFFI) Marlyn S. Siapno Executive Director Chamber of Furniture Industries of the Philippines (CFIP) Ana Cordero Chamber of Furniture Industries of the Philippines (CFIP) Minda Napeñas Designs Ligna Simon F. Doroja, Jr. Pacific Arts and Décor Int'l., Inc. Roger P. Cuaresma Philippine Association of Recognized Security Training Schools, Inc. (PARSTS) Librado T. Cayco, Sr. Philippine Association of Recognized Security Training Schools, Inc. (PARSTS) Lolita L. Soriao Philippine General Hospital Gloria G. Almariego Philippine General Hospital Maria Hossanah B. Sales Philippine General Hospital Miriam C. Palabrica Philippine Retailers Association Sabas Bergantinos Philippine Society of Ventilating, Air-conditioning and Refrigeration (PSVARE) Eduardo Fernandez Philippine Society of Ventilating, Air-conditioning and Refrigeration (PSVARE) Amado A. Malacaman, Jr. President Information System Security of the Philippines Ma. Corazon Akol President JITSE Philippines Alfredo M. Torres Department of Trade and Industry Cynthia Mamon Resident and Managing Director Sun Microsystems Fredmar C. Salvador Federation of Jeepney Operators and Drivers Association of the Philippines Jorge S. Ramos Federation of Jeepney Operators and Drivers Association of the Philippines Jose B. Velasco Federation of Jeepney Operators and Drivers Association of the Philippines Marcial QC. Amaro III TAP-Vice Chairman AMTEK Consulting Margarita E. Carlos Sr. Shipping Operations Specialist Shipyards Regulation Office, Maritime Industry Authority Virvic C. Erese Maritime Industry Development Specialist II Manpower Development Office, Maritime Industry Authority Corazon F. Duque Sr. Maritime Industry Development Specialist Manpower Development Office, Maritime Industry Authority Eduardo R. Lacbay Deputy Executive Director Metals Industry Research and Development, Center for Industry Development Isidro D. Millo Engineer III Metals Industry Research and Development, Center for Industry Development Gloria S.D. Erispe Human Resource Management Officer III Metals Industry Research and Development, Center for Industry Development Efren Ibañez President Philippine Welding Society Joel Rabaja Lorenzana Food Corp. Annabel Moreno Interim Chairperson Tourism Industry Board Foundation, Inc. Bienvenido Claravall Asian Institute of Tourism University of the Philippines, Diliman Dra. Ma. Lourdes Catral College of Home Economics University of the Philippines, Diliman
-## Special Thanks to the late TESDA XI Regional Director Roberto Luis Barajan (February 6, 1959 - December 8, 2005).
+Engr. Bernard Bairoy
+National Project Coordinator
+National Union of Building and Construction Workers
 
 Page 127
 
@@ -12793,11 +9316,115 @@ Page 127
 
 [[START OF PAGE 149]]
 
+Engr. Alberto Cabael
+President
+National Master Plumbers Association of the Philippines (NAMPAP)
+
+Mr. Ignacio M. Aguito
+National Master Plumbers Association of the Philippines (NAMPAP)
+
+Engr. Antonio Padrinao
+National Master Plumbers Association of the Philippines (NAMPAP)
+
+Mr. Gamaliel F. Itao
+Chairman
+Center for Advance Technical Industry Automation (CATIA)
+
+Joselito Torres
+Training Manager
+Siemens Inc.
+
+Philip Marvin D. Joven
+Industrial Controls Corp.
+
+Francisco Medina
+Philippine Footwear Federation, Inc. (PFFI)
+
+Jessie Badilles
+Philippine Footwear Federation, Inc. (PFFI)
+
+Marlyn S. Siapno
+Executive Director
+Chamber of Furniture Industries of the Philippines (CFIP)
+
+Ana Cordero
+Chamber of Furniture Industries of the Philippines (CFIP)
+
+Minda Napeñas
+Designs Ligna
+
+Simon F. Doroja, Jr.
+Pacific Arts and Décor Int’l., Inc.
+
+Roger P. Cuaresma
+Philippine Association of Recognized Security Training Schools, Inc. (PARSTS)
+
+Librado T. Cayco, Sr.
+Philippine Association of Recognized Security Training Schools, Inc. (PARSTS)
+
+Lolita L. Soriao
+Philippine General Hospital
+
+Gloria G. Almariego
+Philippine General Hospital
+
 Page 128
 
 [[END OF PAGE 149]]
 
 [[START OF PAGE 150]]
+
+Maria Hossanah B. Sales
+Philippine General Hospital
+
+Miriam C. Palabrica
+Philippine Retailers Association
+
+Sabas Bergantinos
+Philippine Society of Ventilating, Air-conditioning and Refrigeration (PSVARE)
+
+Eduardo Fernandez
+Philippine Society of Ventilating, Air-conditioning and Refrigeration (PSVARE)
+
+Amado A. Malacaman, Jr.
+President
+Information System Security of the Philippines
+
+Ma. Corazon Akol
+President
+JITSE Philippines
+
+Alfredo M. Torres
+Department of Trade and Industry
+
+Cynthia Mamon
+Resident and Managing Director
+Sun Microsystems
+
+Fredmar C. Salvador
+Federation of Jeepney Operators and Drivers Association of the Philippines
+
+Jorge S. Ramos
+Federation of Jeepney Operators and Drivers Association of the Philippines
+
+Jose B. Velasco
+Federation of Jeepney Operators and Drivers Association of the Philippines
+
+Marcial QC. Amaro III
+TAP-Vice Chairman
+AMTEK Consulting
+
+Margarita E. Carlos
+Sr. Shipping Operations Specialist
+Shipyards Regulation Office, Maritime Industry Authority
+
+Virvic C. Erese
+Maritime Industry Development Specialist II
+Manpower Development Office, Maritime Industry Authority
+
+Corazon F. Duque
+Sr. Maritime Industry Development Specialist
+Manpower Development Office, Maritime Industry Authority
 
 Page 129
 
@@ -12805,6 +9432,39 @@ Page 129
 
 [[START OF PAGE 151]]
 
+Eduardo R. Lacbay
+Deputy Executive Director
+Metals Industry Research and Development, Center for Industry Development
+
+Isidro D. Millo
+Engineer III
+Metals Industry Research and Development, Center for Industry Development
+
+Gloria S.D. Erispe
+Human Resource Management Officer III
+Metals Industry Research and Development, Center for Industry Development
+
+Efren Ibañez
+President
+Philippine Welding Society
+
+Joel Rabaja
+Lorenzana Food Corp.
+
+Annabel Moreno
+Interim Chairperson
+Tourism Industry Board Foundation, Inc.
+
+Bienvenido Claravall
+Asian Institute of Tourism
+University of the Philippines, Diliman
+
+Dra. Ma. Lourdes Catral
+College of Home Economics
+University of the Philippines, Diliman
+
+## Special Thanks to the late
+TESDA XI Regional Director Roberto Luis Barajan (February 6, 1959 – December 8, 2005).
 His invaluable contribution to the crafting of the Second Cycle NTESD Plan 2005-2009 and his resolute dedication to work will be cherished by TESDA and the TVET sector which he had very well served.
 
 Page 130
