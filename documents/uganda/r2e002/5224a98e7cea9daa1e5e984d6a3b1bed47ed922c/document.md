@@ -23,63 +23,63 @@ Objective
 
 ### General.
 
-- Implementation of objectives.
+- I. Implementation of objectives.
 
 ### Political objectives.
 
-- Democratic principles.
+- II. Democratic principles.
 
-- National unity and stability.
+- III. National unity and stability.
 
-- National sovereignty, independence and territorial integrity.
+- IV. National sovereignty, independence and territorial integrity.
 
 ### Protection and promotion of fundamental and other human rights and freedoms.
 
-- Fundamental and other human rights and freedoms.
+- V. Fundamental and other human rights and freedoms.
 
-- Gender balance and fair representation of marginalised groups.
+- VI. Gender balance and fair representation of marginalised groups.
 
-- Protection of the aged.
+- VII. Protection of the aged.
 
-- Provision of adequate resources for organs of Government.
+- VIII. Provision of adequate resources for organs of Government.
 
-- The right to development.
+- IX. The right to development.
 
-- Role of the people in development.
+- X. Role of the people in development.
 
-- Role of the State in development.
+- XI. Role of the State in development.
 
-- Balanced and equitable development.
+- XII. Balanced and equitable development.
 
-- Protection of natural resources.
+- XIII. Protection of natural resources.
 
 ### Social and economic objectives.
 
-- General social and economic objectives.
+- XIV. General social and economic objectives.
 
-- Recognition of the role of women in society.
+- XV. Recognition of the role of women in society.
 
-- Recognition of the dignity of persons with disabilities.
+- XVI. Recognition of the dignity of persons with disabilities.
 
-- Recreation and sports.
+- XVII. Recreation and sports.
 
-- Educational objectives.
+- XVIII. Educational objectives.
 
-- Protection of the family.
+- XIX. Protection of the family.
 
-- Medical services.
+- XX. Medical services.
 
-- Clean and safe water.
+- XXI. Clean and safe water.
 
-- Food security and nutrition.
+- XXII. Food security and nutrition.
 
-- Natural disasters.
+- XXIII. Natural disasters.
 
 ### Cultural objectives.
 
-- Cultural objectives.
+- XXIV. Cultural objectives.
 
-- Preservation of public property and heritage.
+- XXV. Preservation of public property and heritage.
 
 ### Accountability.
 
@@ -115,43 +115,43 @@ THE CONSTITUTION OF THE REPUBLIC OF UGANDA.
 
 Chapter
 
-- The Constitution.
+- 1. The Constitution.
 
-- The Republic.
+- 2. The Republic.
 
-- Citizenship.
+- 3. Citizenship.
 
-- Protection and Promotion of Fundamental and Other Human  Rights and Freedoms.
+- 4. Protection and Promotion of Fundamental and Other Human Rights and Freedoms.
 
-- Representation of the People.
+- 5. Representation of the People.
 
-- The Legislature.
+- 6. The Legislature.
 
-- The Executive.
+- 7. The Executive.
 
-- The Judiciary.
+- 8. The Judiciary.
 
-- Finance.
+- 9. Finance.
 
-- The Public Service.
+- 10. The Public Service.
 
-- Local Government.
+- 11. Local Government.
 
-- Defence and National Security.
+- 12. Defence and National Security.
 
-- Inspectorate of Government.
+- 13. Inspectorate of Government.
 
-- Leadership Code of Conduct.
+- 14. Leadership Code of Conduct.
 
-- Land and Environment.
+- 15. Land and Environment.
 
-- Institution of Traditional or Cultural Leaders.
+- 16. Institution of Traditional or Cultural Leaders.
 
-- General and Miscellaneous.
+- 17. General and Miscellaneous.
 
-- Amendment of the Constitution.
+- 18. Amendment of the Constitution.
 
-- Transitional Provisions.
+- 19. Transitional Provisions.
 
 ### Schedules
 
@@ -176,77 +176,77 @@ CONSTITUTION OF THE REPUBLIC OF UGANDA.
 
 Article
 
-### C HAPTER O NE -T HE C ONSTITUTION .
+### CHAPTER ONE—THE CONSTITUTION.
 
-- Sovereignty of the people.
+- 1. Sovereignty of the people.
 
-- Supremacy of the Constitution.
+- 2. Supremacy of the Constitution.
 
-- Defence of the Constitution.
+- 3. Defence of the Constitution.
 
-- Promotion of public awareness of the Constitution.
+- 4. Promotion of public awareness of the Constitution.
 
-### C HAPTER T WO -T HE R EPUBLIC .
+### CHAPTER TWO—THE REPUBLIC.
 
-- The Republic of Uganda.
+- 5. The Republic of Uganda.
 
-- Official language.
+- 6. Official language.
 
-- Nonadoption of State religion.
+- 7. Nonadoption of State religion.
 
-- National symbols and seals.
+- 8. National symbols and seals.
 
-- 8A.  National interests.
+- 8A. National interests.
 
-### C HAPTER T HREE -C ITIZENSHIP .
+### CHAPTER THREE—CITIZENSHIP.
 
-- Citizens of Uganda.
+- 9. Citizens of Uganda.
 
-- Citizenship by birth.
+- 10. Citizenship by birth.
 
-- Foundlings and adopted children.
+- 11. Foundlings and adopted children.
 
-- Citizenship by registration.
+- 12. Citizenship by registration.
 
-- Citizenship by naturalisation.
+- 13. Citizenship by naturalisation.
 
-- Loss of citizenship by registration.
+- 14. Loss of citizenship by registration.
 
-- Dual citizenship.
+- 15. Dual citizenship.
 
-- National Citizenship and Immigration Board.
+- 16. National Citizenship and Immigration Board.
 
-- Duties of a citizen.
+- 17. Duties of a citizen.
 
-- Registration of births, marriages and deaths.
+- 18. Registration of births, marriages and deaths.
 
-- Citizenship of a parent dying before the birth of a person.
+- 19. Citizenship of a parent dying before the birth of a person.
 
-### C HAPTER F OUR -P ROTECTION AND P ROMOTION OF F UNDAMENTAL AND O THER H UMAN R IGHTS AND F REEDOMS .
+### CHAPTER FOUR—PROTECTION AND PROMOTION OF FUNDAMENTAL AND OTHER HUMAN RIGHTS AND FREEDOMS.
 
 #### General.
 
-- Fundamental and other human rights and freedoms.
+- 20. Fundamental and other human rights and freedoms.
 
-- Equality and freedom from discrimination.
+- 21. Equality and freedom from discrimination.
 
-- Protection of right to life.
+- 22. Protection of right to life.
 
-- Protection of personal liberty.
+- 23. Protection of personal liberty.
 
-- Respect for human dignity and protection from inhuman treatment.
+- 24. Respect for human dignity and protection from inhuman treatment.
 
-- Protection from slavery, servitude and forced labour.
+- 25. Protection from slavery, servitude and forced labour.
 
-- Protection from deprivation of property.
+- 26. Protection from deprivation of property.
 
-- Right to privacy of person, home and other property.
+- 27. Right to privacy of person, home and other property.
 
-- Right to a fair hearing.
+- 28. Right to a fair hearing.
 
-- Protection  of  freedom  of  conscience,  expression,  movement,  religion,  assembly and association.
+- 29. Protection of freedom of conscience, expression, movement, religion, assembly and association.
 
-- Right to education.
+- 30. Right to education.
 
 5
 
@@ -254,93 +254,93 @@ Article
 
 [[START OF PAGE 6]]
 
-- Rights of the family.
+- 31. Rights of the family.
 
-- Affirmative action in favour of marginalised groups.
+- 32. Affirmative action in favour of marginalised groups.
 
-- Rights of women.
+- 33. Rights of women.
 
-- Rights of children.
+- 34. Rights of children.
 
-- Rights of persons with disabilities.
+- 35. Rights of persons with disabilities.
 
-- Protection of rights of minorities.
+- 36. Protection of rights of minorities.
 
-- Right to culture and similar rights.
+- 37. Right to culture and similar rights.
 
-- Civic rights and activities.
+- 38. Civic rights and activities.
 
-- Right to a clean and healthy environment.
+- 39. Right to a clean and healthy environment.
 
-- Economic rights.
+- 40. Economic rights.
 
-- Right of access to information.
+- 41. Right of access to information.
 
-- Right to just and fair treatment in administrative decisions.
+- 42. Right to just and fair treatment in administrative decisions.
 
-- General limitation on fundamental and other human rights and freedoms.
+- 43. General limitation on fundamental and other human rights and freedoms.
 
-- Prohibition of derogation from particular human rights and freedoms.
+- 44. Prohibition of derogation from particular human rights and freedoms.
 
-- Human rights and freedoms additional to other rights.
+- 45. Human rights and freedoms additional to other rights.
 
 #### Human rights and freedoms during a state of emergency.
 
-- Effect of laws enacted for a state of emergency.
+- 46. Effect of laws enacted for a state of emergency.
 
-- Detention under emergency laws.
+- 47. Detention under emergency laws.
 
-- Review by the Uganda Human Rights Commission.
+- 48. Review by the Uganda Human Rights Commission.
 
-- Report to Parliament.
+- 49. Report to Parliament.
 
 #### Enforcement of rights and freedoms by courts.
 
-- Enforcement of rights and freedoms by courts.
+- 50. Enforcement of rights and freedoms by courts.
 
 #### Uganda Human Rights Commission.
 
-- Uganda Human Rights Commission.
+- 51. Uganda Human Rights Commission.
 
-- Functions of the Human Rights Commission.
+- 52. Functions of the Human Rights Commission.
 
-- Powers of the commission.
+- 53. Powers of the commission.
 
-- Independence of the commission.
+- 54. Independence of the commission.
 
-- Expenses of the commission.
+- 55. Expenses of the commission.
 
-- Removal of commissioners.
+- 56. Removal of commissioners.
 
-- Staff of the commission.
+- 57. Staff of the commission.
 
-- Parliament to make laws regarding functions of the commission.
+- 58. Parliament to make laws regarding functions of the commission.
 
-### C HAPTER F IVE -R EPRESENTATION OF THE P EOPLE .
+### CHAPTER FIVE—REPRESENTATION OF THE PEOPLE.
 
 #### Right to vote.
 
-- Right to vote.
+- 59. Right to vote.
 
 #### Electoral Commission.
 
-- Electoral Commission.
+- 60. Electoral Commission.
 
-- Functions of the Electoral Commission.
+- 61. Functions of the Electoral Commission.
 
-- Independence of the commission.
+- 62. Independence of the commission.
 
-- Constituencies.
+- 63. Constituencies.
 
-- Appeals from decisions of the commission.
+- 64. Appeals from decisions of the commission.
 
-- Staff of the commission.
+- 65. Staff of the commission.
 
-- Expenses of the commission.
+- 66. Expenses of the commission.
 
-- Organisation of elections.
+- 67. Organisation of elections.
 
-- Voting at elections and referenda.
+- 68. Voting at elections and referenda.
 
 6
 
@@ -350,91 +350,91 @@ Article
 
 #### Political systems.
 
-- Political systems.
+- 69. Political systems.
 
-- Movement political system.
+- 70. Movement political system.
 
-- Multiparty political system.
+- 71. Multiparty political system.
 
-- Right to form political organisations.
+- 72. Right to form political organisations.
 
-- Regulations of political organisations.
+- 73. Regulations of political organisations.
 
-- Change of political systems by referenda or elections.
+- 74. Change of political systems by referenda or elections.
 
-- Prohibition of one-party State.
+- 75. Prohibition of one-party State.
 
 #### General.
 
-- Parliament to enact laws on elections.
+- 76. Parliament to enact laws on elections.
 
-### C HAPTER S IX -T HE L EGISLATURE .
+### CHAPTER SIX—THE LEGISLATURE.
 
 #### Establishment, composition and functions of Parliament.
 
-- Parliament of Uganda.
+- 77. Parliament of Uganda.
 
-- Composition of Parliament.
+- 78. Composition of Parliament.
 
-- Functions of Parliament.
+- 79. Functions of Parliament.
 
-- Qualifications and disqualifications of members of Parliament.
+- 80. Qualifications and disqualifications of members of Parliament.
 
-- Election of members of Parliament.
+- 81. Election of members of Parliament.
 
-- Speaker and Deputy Speaker of Parliament.
+- 82. Speaker and Deputy Speaker of Parliament.
 
-- 82A.   Leader of the opposition.
+- 82A. Leader of the opposition.
 
-- Tenure of office of members of Parliament.
+- 83. Tenure of office of members of Parliament.
 
-- Right of recall.
+- 84. Right of recall.
 
-- Emoluments of members of Parliament.
+- 85. Emoluments of members of Parliament.
 
-- Determination of questions of membership.
+- 86. Determination of questions of membership.
 
-- Clerk to Parliament and other staff of Parliament.
+- 87. Clerk to Parliament and other staff of Parliament.
 
-- 87A.  Parliamentary Commission.
+- 87A. Parliamentary Commission.
 
 #### Procedure of Parliament.
 
-- Quorum of Parliament.
+- 88. Quorum of Parliament.
 
-- Voting in Parliament.
+- 89. Voting in Parliament.
 
-- Committees of Parliament.
+- 90. Committees of Parliament.
 
-- Exercise of legislative powers.
+- 91. Exercise of legislative powers.
 
-- Restriction on retrospective legislation.
+- 92. Restriction on retrospective legislation.
 
-- Restriction on financial matters.
+- 93. Restriction on financial matters.
 
-- Rules of procedure in Parliament.
+- 94. Rules of procedure in Parliament.
 
-- Sessions of Parliament.
+- 95. Sessions of Parliament.
 
-- Dissolution of Parliament.
+- 96. Dissolution of Parliament.
 
 #### General.
 
-- Parliamentary immunities and privileges.
+- 97. Parliamentary immunities and privileges.
 
-### C HAPTER S EVEN -T HE E XECUTIVE .
+### CHAPTER SEVEN—THE EXECUTIVE.
 
 #### The President.
 
-- President of Uganda.
+- 98. President of Uganda.
 
-- Executive authority of Uganda.
+- 99. Executive authority of Uganda.
 
-- Notification of the absence of the President from Uganda.
+- 100. Notification of the absence of the President from Uganda.
 
-- Presidential addresses.
+- 101. Presidential addresses.
 
-- Qualifications of the President.
+- 102. Qualifications of the President.
 
 7
 
@@ -442,81 +442,81 @@ Article
 
 [[START OF PAGE 8]]
 
-- Election of the President.
+- 103. Election of the President.
 
-- Challenging a presidential election.
+- 104. Challenging a presidential election.
 
-- Tenure of office of the President.
+- 105. Tenure of office of the President.
 
-- Terms and conditions of service of the President.
+- 106. Terms and conditions of service of the President.
 
-- Removal of the President.
+- 107. Removal of the President.
 
-- Vice President.
+- 108. Vice President.
 
-- 108A.   Prime Minister.
+- 108A. Prime Minister.
 
-- Absence of the President.
+- 109. Absence of the President.
 
-- State of emergency.
+- 110. State of emergency.
 
 #### The Cabinet.
 
-- The Cabinet.
+- 111. The Cabinet.
 
-- Meetings of the Cabinet.
+- 112. Meetings of the Cabinet.
 
-- Cabinet Ministers.
+- 113. Cabinet Ministers.
 
-- Other Ministers.
+- 114. Other Ministers.
 
-- Oath of Minister.
+- 115. Oath of Minister.
 
-- Vacation of office of Minister.
+- 116. Vacation of office of Minister.
 
-- Responsibility of Ministers.
+- 117. Responsibility of Ministers.
 
-- Vote of censure.
+- 118. Vote of censure.
 
-- Attorney General.
+- 119. Attorney General.
 
-- 119A.  Deputy Attorney General.
+- 119A. Deputy Attorney General.
 
 #### Director of Public Prosecutions.
 
-- Director of Public Prosecutions.
+- 120. Director of Public Prosecutions.
 
 #### Prerogative of mercy.
 
-- Prerogative of mercy.
+- 121. Prerogative of mercy.
 
 #### International relations.
 
-- Diplomatic representation.
+- 122. Diplomatic representation.
 
-- Execution of treaties, conventions and agreements.
+- 123. Execution of treaties, conventions and agreements.
 
 #### Declaration of a state of war.
 
-- Declaration of a state of war.
+- 124. Declaration of a state of war.
 
 #### National Planning Authority.
 
-- National Planning Authority.
+- 125. National Planning Authority.
 
-### C HAPTER E IGHT -T HE J UDICIARY .
+### CHAPTER EIGHT—THE JUDICIARY.
 
 #### Administration of justice.
 
-- Exercise of judicial power.
+- 126. Exercise of judicial power.
 
-- Participation of the people in the administration of justice.
+- 127. Participation of the people in the administration of justice.
 
-- Independence of the judiciary.
+- 128. Independence of the judiciary.
 
 #### The courts of judicature.
 
-- The courts of judicature.
+- 129. The courts of judicature.
 
 8
 
@@ -526,87 +526,87 @@ Article
 
 #### The Supreme Court of Uganda.
 
-- Supreme Court of Uganda.
+- 130. Supreme Court of Uganda.
 
-- Composition of the Supreme Court.
+- 131. Composition of the Supreme Court.
 
-- Jurisdiction of the Supreme Court.
+- 132. Jurisdiction of the Supreme Court.
 
-- Administrative functions of the Chief Justice.
+- 133. Administrative functions of the Chief Justice.
 
 #### The Court of Appeal of Uganda.
 
-- Court of Appeal of Uganda.
+- 134. Court of Appeal of Uganda.
 
-- Composition of the Court of Appeal.
+- 135. Composition of the Court of Appeal.
 
-- Administrative functions of the Deputy Chief Justice.
+- 136. Administrative functions of the Deputy Chief Justice.
 
 #### The constitutional court.
 
-- Questions as to the interpretation of the Constitution.
+- 137. Questions as to the interpretation of the Constitution.
 
 #### The High Court of Uganda.
 
-- High Court of Uganda.
+- 138. High Court of Uganda.
 
-- Jurisdiction of the High Court.
+- 139. Jurisdiction of the High Court.
 
-- Hearing of election cases.
+- 140. Hearing of election cases.
 
-- Administrative functions of the Principal Judge.
+- 141. Administrative functions of the Principal Judge.
 
 #### Appointments, qualifications and tenure of office of judicial officers.
 
-- Appointment of judicial officers.
+- 142. Appointment of judicial officers.
 
-- Qualifications for appointment of judicial officers.
+- 143. Qualifications for appointment of judicial officers.
 
-- Tenure of office of judicial officers.
+- 144. Tenure of office of judicial officers.
 
-- Registrars.
+- 145. Registrars.
 
 #### Judicial Service Commission.
 
-- Judicial Service Commission.
+- 146. Judicial Service Commission.
 
-- Functions of the Judicial Service Commission.
+- 147. Functions of the Judicial Service Commission.
 
-- Appointment of other judicial officers.
+- 148. Appointment of other judicial officers.
 
-- Judicial oath.
+- 149. Judicial oath.
 
-- Power to make laws relating to the judiciary.
+- 150. Power to make laws relating to the judiciary.
 
-- Interpretation.
+- 151. Interpretation.
 
-### C HAPTER N INE -F INANCE .
+### CHAPTER NINE—FINANCE.
 
 #### General.
 
-- Taxation.
+- 152. Taxation.
 
-- Consolidated Fund.
+- 153. Consolidated Fund.
 
-- Withdrawal from the Consolidated Fund.
+- 154. Withdrawal from the Consolidated Fund.
 
-- Financial year estimates.
+- 155. Financial year estimates.
 
-- Appropriation Bill.
+- 156. Appropriation Bill.
 
-- Contingencies Fund.
+- 157. Contingencies Fund.
 
-- Offices the remuneration of which is charged on the Consolidated Fund.
+- 158. Offices the remuneration of which is charged on the Consolidated Fund.
 
-- Power of Government to borrow or lend.
+- 159. Power of Government to borrow or lend.
 
-- Public debt.
+- 160. Public debt.
 
 #### Central Bank of Uganda.
 
-- The central bank.
+- 161. The central bank.
 
-- Functions of the bank.
+- 162. Functions of the bank.
 
 9
 
@@ -616,89 +616,89 @@ Article
 
 #### Auditor General.
 
-- Auditor General.
+- 163. Auditor General.
 
-- Accountability.
+- 164. Accountability.
 
-### C HAPTER T EN -T HE P UBLIC S ERVICE .
+### CHAPTER TEN—THE PUBLIC SERVICE.
 
 #### Public Service Commission.
 
-- Public Service Commission.
+- 165. Public Service Commission.
 
-- Functions of the Public Service Commission.
+- 166. Functions of the Public Service Commission.
 
 #### Education Service Commission.
 
-- Education Service Commission.
+- 167. Education Service Commission.
 
-- Functions of the Education Service Commission.
+- 168. Functions of the Education Service Commission.
 
 #### Health Service Commission.
 
-- Health Service Commission.
+- 169. Health Service Commission.
 
-- Functions of the Health Service Commission.
+- 170. Functions of the Health Service Commission.
 
 #### General.
 
-- Establishment of offices.
+- 171. Establishment of offices.
 
-- Appointment of public officers.
+- 172. Appointment of public officers.
 
-- Protection of public officers.
+- 173. Protection of public officers.
 
-- 173A.  Head of public service.
+- 173A. Head of public service.
 
-- Permanent Secretaries.
+- 174. Permanent Secretaries.
 
-- Interpretation.
+- 175. Interpretation.
 
-### C HAPTER E LEVEN -L OCAL G OVERNMENT .
+### CHAPTER ELEVEN—LOCAL GOVERNMENT.
 
 #### Principles and structures of local government.
 
-- Local government system.
+- 176. Local government system.
 
-- Districts of Uganda.
+- 177. Districts of Uganda.
 
-- Regional governments.
+- 178. Regional governments.
 
-- 178A.   Grants for districts not forming regional governments.
+- 178A. Grants for districts not forming regional governments.
 
-- Boundaries of local government units.
+- 179. Boundaries of local government units.
 
-- Local government councils.
+- 180. Local government councils.
 
-- Elections of local government councils.
+- 181. Elections of local government councils.
 
-- Revocation of mandate.
+- 182. Revocation of mandate.
 
-- District chairperson.
+- 183. District chairperson.
 
-- Speaker of a district council.
+- 184. Speaker of a district council.
 
-- Removal of a district chairperson and speaker.
+- 185. Removal of a district chairperson and speaker.
 
-- District executive committee.
+- 186. District executive committee.
 
-- Vacation of office of member of district executive committee.
+- 187. Vacation of office of member of district executive committee.
 
-- Chief and deputy chief administrative officer.
+- 188. Chief and deputy chief administrative officer.
 
-- Functions of the Government and district councils.
+- 189. Functions of the Government and district councils.
 
 #### Finances of local governments.
 
-- Planning.
+- 190. Planning.
 
-- Power to levy and appropriate taxes.
+- 191. Power to levy and appropriate taxes.
 
-- Collection of taxes by local governments.
+- 192. Collection of taxes by local governments.
 
-- Grants to local governments.
+- 193. Grants to local governments.
 
-- Local Government Finance Commission.
+- 194. Local Government Finance Commission.
 
 10
 
@@ -706,83 +706,83 @@ Article
 
 [[START OF PAGE 11]]
 
-- Loans and grants.
+- 195. Loans and grants.
 
-- Accountability.
+- 196. Accountability.
 
-- Financial autonomy of urban authorities.
+- 197. Financial autonomy of urban authorities.
 
 #### District service commissions.
 
-- District service commissions.
+- 198. District service commissions.
 
-- Secondment of staff.
+- 199. Secondment of staff.
 
-- Functions of district service commissions.
+- 200. Functions of district service commissions.
 
 #### General.
 
-- Exercise of administrative functions.
+- 201. Exercise of administrative functions.
 
-- Takeover of district administration by the President.
+- 202. Takeover of district administration by the President.
 
-- Resident district commissioner.
+- 203. Resident district commissioner.
 
-- Terms and conditions of service.
+- 204. Terms and conditions of service.
 
-- Prohibition of holding political offices concurrently.
+- 205. Prohibition of holding political offices concurrently.
 
-- Parliament to make laws regarding local government.
+- 206. Parliament to make laws regarding local government.
 
-- Interpretation.
+- 207. Interpretation.
 
-### C HAPTER T WELVE -D EFENCE AND N ATIONAL S ECURITY .
+### CHAPTER TWELVE—DEFENCE AND NATIONAL SECURITY.
 
-#### Uganda Peoples' Defence Forces.
+#### Uganda Peoples’ Defence Forces.
 
-- Uganda Peoples' Defence Forces.
+- 208. Uganda Peoples’ Defence Forces.
 
-- Functions of the defence forces.
+- 209. Functions of the defence forces.
 
-- Parliament to regulate the Uganda Peoples' Defence Forces.
+- 210. Parliament to regulate the Uganda Peoples’ Defence Forces.
 
 #### Uganda Police Force.
 
-- Uganda Police Force.
+- 211. Uganda Police Force.
 
-- Functions of the Uganda Police Force.
+- 212. Functions of the Uganda Police Force.
 
-- Command of the Uganda Police Force.
+- 213. Command of the Uganda Police Force.
 
-- Parliament to regulate the Uganda Police Force.
+- 214. Parliament to regulate the Uganda Police Force.
 
 #### Uganda Prisons Service.
 
-- Uganda Prisons Service.
+- 215. Uganda Prisons Service.
 
-- Commissioner and Deputy Commissioner of Prisons.
+- 216. Commissioner and Deputy Commissioner of Prisons.
 
-- Parliament to regulate the Uganda Prisons Service.
+- 217. Parliament to regulate the Uganda Prisons Service.
 
 #### Intelligence services.
 
-- Intelligence services.
+- 218. Intelligence services.
 
 #### National Security Council.
 
-- National Security Council.
+- 219. National Security Council.
 
-- Functions of the National Security Council.
+- 220. Functions of the National Security Council.
 
 #### General.
 
-- Security organisations to observe human rights.
+- 221. Security organisations to observe human rights.
 
-- Parliament to regulate possession and use of firearms and ammunition.
+- 222. Parliament to regulate possession and use of firearms and ammunition.
 
-### C HAPTER T HIRTEEN -I NSPECTORATE OF G OVERNMENT .
+### CHAPTER THIRTEEN—INSPECTORATE OF GOVERNMENT.
 
-- Inspectorate of Government.
+- 223. Inspectorate of Government.
 
 11
 
@@ -790,85 +790,85 @@ Article
 
 [[START OF PAGE 12]]
 
-- Removal of Inspector General and Deputy Inspector General.
+- 224. Removal of Inspector General and Deputy Inspector General.
 
-- Functions of inspectorate.
+- 225. Functions of inspectorate.
 
-- Jurisdiction of inspectorate.
+- 226. Jurisdiction of inspectorate.
 
-- Independence of inspectorate.
+- 227. Independence of inspectorate.
 
-- Branches of inspectorate.
+- 228. Branches of inspectorate.
 
-- Resources of inspectorate.
+- 229. Resources of inspectorate.
 
-- Special powers of inspectorate.
+- 230. Special powers of inspectorate.
 
-- Reports of inspectorate.
+- 231. Reports of inspectorate.
 
-- Powers of Parliament regarding inspectorate.
+- 232. Powers of Parliament regarding inspectorate.
 
-### C HAPTER F OURTEEN -L EADERSHIP C ODE OF C ONDUCT .
+### CHAPTER FOURTEEN—LEADERSHIP CODE OF CONDUCT.
 
-- Leadership Code of Conduct.
+- 233. Leadership Code of Conduct.
 
-- Enforcement of code.
+- 234. Enforcement of code.
 
-- Disqualification for breach of code.
+- 235. Disqualification for breach of code.
 
-- 235A.  Leadership Code Tribunal
+- 235A. Leadership Code Tribunal
 
-- Interpretation.
+- 236. Interpretation.
 
-### C HAPTER F IFTEEN -L AND AND E NVIRONMENT .
+### CHAPTER FIFTEEN—LAND AND ENVIRONMENT.
 
 #### Land.
 
-- Land ownership.
+- 237. Land ownership.
 
 #### Uganda Land Commission.
 
-- Uganda Land Commission.
+- 238. Uganda Land Commission.
 
-- Functions of the Uganda Land Commission.
+- 239. Functions of the Uganda Land Commission.
 
 #### District land boards.
 
-- District land boards.
+- 240. District land boards.
 
-- Functions of district land boards.
+- 241. Functions of district land boards.
 
 #### General.
 
-- Land use.
+- 242. Land use.
 
-- Land tribunals.
+- 243. Land tribunals.
 
-- Minerals and petroleum.
+- 244. Minerals and petroleum.
 
 #### Environment.
 
-- Protection and preservation of the environment.
+- 245. Protection and preservation of the environment.
 
-### C HAPTER S IXTEEN -I NSTITUTION OF T RADITIONAL OR C ULTURAL L EADERS .
+### CHAPTER SIXTEEN—INSTITUTION OF TRADITIONAL OR CULTURAL LEADERS.
 
-- Institution of traditional or cultural leaders.
+- 246. Institution of traditional or cultural leaders.
 
-### C HAPTER S EVENTEEN -G ENERAL AND M ISCELLANEOUS .
+### CHAPTER SEVENTEEN—GENERAL AND MISCELLANEOUS.
 
-- Administration of estates.
+- 247. Administration of estates.
 
-- Law Reform Commission.
+- 248. Law Reform Commission.
 
-- Disaster Preparedness and Management Commission.
+- 249. Disaster Preparedness and Management Commission.
 
-- Legal proceedings by or against the Government.
+- 250. Legal proceedings by or against the Government.
 
-- Performance of functions of commissions and authorities.
+- 251. Performance of functions of commissions and authorities.
 
-- Resignations.
+- 252. Resignations.
 
-- Reappointments and concurrent appointments.
+- 253. Reappointments and concurrent appointments.
 
 12
 
@@ -876,93 +876,93 @@ Article
 
 [[START OF PAGE 13]]
 
-- Pension.
+- 254. Pension.
 
-- Referenda generally.
+- 255. Referenda generally.
 
-- Manner of administering oaths.
+- 256. Manner of administering oaths.
 
-- Interpretation.
+- 257. Interpretation.
 
-- Ratification of certain Acts relating to the procedure of Parliament.
+- 258. Ratification of certain Acts relating to the procedure of Parliament.
 
-### C HAPTER E IGHTEEN -A MENDMENT OF THE C ONSTITUTION .
+### CHAPTER EIGHTEEN—AMENDMENT OF THE CONSTITUTION.
 
-- Amendment of the Constitution.
+- 259. Amendment of the Constitution.
 
-- Amendments requiring a referendum.
+- 260. Amendments requiring a referendum.
 
-- Amendments requiring approval by district councils.
+- 261. Amendments requiring approval by district councils.
 
-- Amendments by Parliament.
+- 262. Amendments by Parliament.
 
-- Certificate of compliance.
+- 263. Certificate of compliance.
 
-### C HAPTER N INETEEN -T RANSITIONAL P ROVISIONS .
+### CHAPTER NINETEEN—TRANSITIONAL PROVISIONS.
 
-- Transitional Government . (Repealed)
+- 264. Transitional Government. (Repealed)
 
-- Particular functions of transitional Government. (Repealed)
+- 265. Particular functions of transitional Government. (Repealed)
 
-- Existing courts of judicature. (Repealed)
+- 266. Existing courts of judicature. (Repealed)
 
-- Existing offices of judges. (Repealed)
+- 267. Existing offices of judges. (Repealed)
 
-- Interim membership of Court of Appeal. (Repealed)
+- 268. Interim membership of Court of Appeal. (Repealed)
 
-- Existing offices.
+- 269. Existing offices.
 
-- Regulation of political organisations. (Repealed)
+- 270. Regulation of political organisations. (Repealed)
 
-- Existing political parties or organisations. (Repealed)
+- 271. Existing political parties or organisations. (Repealed)
 
-- First elections. (Repealed)
+- 272. First elections. (Repealed)
 
-- Appointment to certain offices. (Repealed)
+- 273. Appointment to certain offices. (Repealed)
 
-- Existing law.
+- 274. Existing law.
 
-- Modification of existing law by first President. (Repealed)
+- 275. Modification of existing law by first President. (Repealed)
 
-- Enactments not yet in force.
+- 276. Enactments not yet in force.
 
-- Provisions regarding urban authorities. (Repealed)
+- 277. Provisions regarding urban authorities. (Repealed)
 
-- Existing commissions and committees of inquiry. (Repealed except for commissions and committees of inquiry whose work would still be going on at the time the repeal takes effect)
+- 278. Existing commissions and committees of inquiry. (Repealed except for commissions and committees of inquiry whose work would still be going on at the time the repeal takes effect)
 
-- Oaths deemed to have been taken. (Repealed)
+- 279. Oaths deemed to have been taken. (Repealed)
 
-- Pending matters.
+- 280. Pending matters.
 
-- Proceedings pending before courts.
+- 281. Proceedings pending before courts.
 
-- Prerogative of mercy re cases before Constitution.
+- 282. Prerogative of mercy re cases before Constitution.
 
-- Devolution of rights and liabilities.
+- 283. Devolution of rights and liabilities.
 
-- Succession to property.
+- 284. Succession to property.
 
-- Succession to contracts.
+- 285. Succession to contracts.
 
-- Revocation of statutory leases to urban authorities. (Repealed)
+- 286. Revocation of statutory leases to urban authorities. (Repealed)
 
-- International agreements, treaties and conventions.
+- 287. International agreements, treaties and conventions.
 
-- Repeal of 1967 Constitution and Legal Notice No. 1 of 1986. (Repealed)
+- 288. Repeal of 1967 Constitution and Legal Notice No. 1 of 1986. (Repealed)
 
-- Term of current Parliament to end with term of the President.
+- 289. Term of current Parliament to end with term of the President.
 
-- Transitional provision relating to Kampala.
+- 290. Transitional provision relating to Kampala.
 
-- Five  year  term  of  local  government  councils  not  to  apply  to  existing councils.
+- 291. Five year term of local government councils not to apply to existing councils.
 
-- Modification of laws.
+- 292. Modification of laws.
 
-- Preservation of rights in respect of existing offices.
+- 293. Preservation of rights in respect of existing offices.
 
-- Existing constituencies.
+- 294. Existing constituencies.
 
-- Movement organs continued.
+- 295. Movement organs continued.
 
 13
 
@@ -989,23 +989,23 @@ Seventh Schedule | Unconditional grant to local governments.
 
 CONSTITUTION OF THE REPUBLIC OF UGANDA.
 
-Commencement : 8 October, 1995.
+Commencement: 8 October, 1995.
 
 ## The Preamble.
 
-W E T HE P EOPLE OF U GANDA :
+WE THE PEOPLE OF UGANDA:
 
-R ECALLING our history which  has been characterised by political and constitutional instability;
+RECALLING our history which has been characterised by political and constitutional instability;
 
-R ECOGNISING our struggles against the forces of tyranny, oppression and exploitation;
+RECOGNISING our struggles against the forces of tyranny, oppression and exploitation;
 
-C OMMITTED to  building a better future by establishing a socioeconomic and political order through  a  popular  and  durable  national  Constitution  based  on  the  principles  of  unity,  peace, equality, democracy, freedom, social justice and progress;
+COMMITTED to building a better future by establishing a socioeconomic and political order through a popular and durable national Constitution based on the principles of unity, peace, equality, democracy, freedom, social justice and progress;
 
-E XERCISING our sovereign and inalienable right to determine the form of governance for our country, and having fully participated in the Constitution-making process;
+EXERCISING our sovereign and inalienable right to determine the form of governance for our country, and having fully participated in the Constitution-making process;
 
-N OTING that  a  Constituent Assembly was established to represent us and to debate the Draft Constitution  prepared  by  the  Uganda  Constitutional  Commission  and  to  adopt  and  enact  a Constitution for Uganda:
+NOTING that a Constituent Assembly was established to represent us and to debate the Draft Constitution prepared by the Uganda Constitutional Commission and to adopt and enact a Constitution for Uganda:
 
-D O HEREBY ,  in  and  through  this  Constituent  Assembly  solemnly  adopt,  enact  and  give  to ourselves  and  our  posterity,  this  Constitution  of  the  Republic  of  Uganda,  this  22nd  day  of September, in the year 1995.
+DO HEREBY, in and through this Constituent Assembly solemnly adopt, enact and give to ourselves and our posterity, this Constitution of the Republic of Uganda, this 22nd day of September, in the year 1995.
 
 FOR GOD AND MY COUNTRY
 
@@ -1283,9 +1283,7 @@ The exercise and enjoyment of rights and freedoms is inseparable from the perfor
 
 [[START OF PAGE 21]]
 
-## Chapter The Constitution.
-
-One
+## Chapter One The Constitution.
 
 #### 1. Sovereignty of the people.
 
@@ -1311,7 +1309,7 @@ One
 
 (3) This Constitution shall not lose its force and effect even where its observance is interrupted by a government established by the force of arms; and in any case, as soon as the people recover their liberty, its observance shall be reestablished and all persons who have taken part in any rebellion or other activity which resulted in the interruption of the observance shall be tried in accordance with this Constitution and other laws consistent with it.
 
-- All citizens of Uganda shall have the right and duty at all times-
+(4) All citizens of Uganda shall have the right and duty at all times—
 
 (a) to  defend  this  Constitution  and,  in  particular,  to  resist  any  person  or  group  of persons seeking to overthrow the established constitutional order; and
 
@@ -1323,7 +1321,7 @@ One
 
 #### 4. Promotion of public awareness of the Constitution.
 
-The State shall promote public awareness of this Constitution by-
+The State shall promote public awareness of this Constitution by—
 
 (a) translating it into Ugandan languages and disseminating it as widely as possible; and
 
@@ -1337,7 +1335,7 @@ The State shall promote public awareness of this Constitution by-
 
 ## Chapter Two The Republic.
 
-#### The Republic of Uganda.
+#### 5. The Republic of Uganda.
 
 22
 
@@ -1345,9 +1343,9 @@ The State shall promote public awareness of this Constitution by-
 
 [[START OF PAGE 23]]
 
-- Uganda is one Sovereign State and a Republic.
+(1) Uganda is one Sovereign State and a Republic.
 
-- Subject to article 178 of this Constitution, Uganda shall consist of-
+(2) Subject to article 178 of this Constitution, Uganda shall consist of-
 
 (a) regions administered by regional governments when districts have agreed to form regions as provided for in this Constitution;
 
@@ -1361,35 +1359,33 @@ as specified in the First Schedule to this Constitution, and such other district
 
 (4) Kampala located in Buganda shall be the capital city for Uganda and shall be administered by the Central Government.
 
-(5) The territorial boundary  of Kampala  shall be delineated by Act of Parliament.
+(5) The territorial boundary of Kampala shall be delineated by Act of Parliament.
 
-(6) Parliament  shall, by law, make  provision  for the administration  and development of Kampala as the capital city.
+(6) Parliament shall, by law, make provision for the administration and development of Kampala as the capital city.
 
-#### Official language.
+#### 6. Official language.
 
-- Swahili shall  be  the  second  official  language  in  Uganda  to  be  used  in  such
+(1) The official language of Uganda is English.
 
-- The official language of Uganda is English. circumstances as Parliament may by law prescribe.
+(2) Swahili shall be the second official language in Uganda to be used in such circumstances as Parliament may by law prescribe.
 
-(3) Subject  to  this  Article,  any  other  language  may  be  used  as  a  medium  of instruction in schools or other educational institutions or for legislative, administrative or judicial purposes as Parliament may by law prescribe.
+(3) Subject to this Article, any other language may be used as a medium of instruction in schools or other educational institutions or for legislative, administrative or judicial purposes as Parliament may by law prescribe.
 
-#### Nonadoption of State religion.
+#### 7. Nonadoption of State religion.
 
 Uganda shall not adopt a State religion.
 
-#### National symbols and seals.
+#### 8. National symbols and seals.
 
 The national flag, the national coat of arms, the public seal, the national anthem and the seals of the courts of judicature in use immediately before the coming into force of this Constitution shall continue to be in use.
 
 #### 8A. National interest.
 
-(1) Uganda  shall  be  governed  based  on  principles  of  national  interest  and common good enshrined in the national objectives and directive principles of state policy.
+(1) Uganda shall be governed based on principles of national interest and common good enshrined in the national objectives and directive principles of state policy.
 
-(2) Parliament  shall  make  relevant  laws  for  purposes  of  giving  full  effect  to clause (1) of this Article.
+(2) Parliament shall make relevant laws for purposes of giving full effect to clause (1) of this Article.
 
-## Chapter Citizenship.
-
-Three
+## Chapter Three Citizenship.
 
 23
 
@@ -1403,7 +1399,7 @@ Every  person  who,  on  the  commencement  of  this  Constitution,  is  a  citi
 
 #### 10. Citizenship by birth.
 
-The following persons shall be citizens of Uganda by birth-
+The following persons shall be citizens of Uganda by birth—
 
 (a) every person born in Uganda one of whose parents or grandparents is or was a member of any of the indigenous communities existing and residing within the borders of Uganda as at the first day of February, 1926, and set out in the Third Schedule to this Constitution; and
 
@@ -1417,29 +1413,29 @@ The following persons shall be citizens of Uganda by birth-
 
 #### 12. Citizenship by registration.
 
-- Every person born in Uganda-
+(1) Every person born in Uganda—
 
-(a) at the time of whose birth-
+(a) at the time of whose birth—
 
-(i) neither  of  his  or  her  parents  and  none  of  his  or  her  grandparents  had diplomatic status in Uganda; and
+(i) neither of his or her parents and none of his or her grandparents had diplomatic status in Uganda; and
 
-(ii) neither  of  his  or  her  parents  and  none  of  his  or  her  grandparents  was  a refugee in Uganda; and
+(ii) neither of his or her parents and none of his or her grandparents was a refugee in Uganda; and
 
 (b) who has lived continuously in Uganda since the ninth day of October, 1962, shall, on application, be entitled to be registered as a citizen of Uganda.
 
-(2) The  following  persons  shall,  upon  application,  be  registered  as  citizens  of Uganda-
+(2) The following persons shall, upon application, be registered as citizens of Uganda—
 
-(a) every  person  married  to  a  Uganda  citizen  upon  proof  of  a  legal  and  subsisting marriage of three years or such other period prescribed by Parliament;
+(a) every person married to a Uganda citizen upon proof of a legal and subsisting marriage of three years or such other period prescribed by Parliament;
 
 (b) every person who has legally and voluntarily migrated to and has been living in Uganda for at least ten years or such other period prescribed by Parliament;
 
-(c) every  person  who,  on  the  commencement  of  this  Constitution,  has  lived  in Uganda for at least twenty years.
+(c) every person who, on the commencement of this Constitution, has lived in Uganda for at least twenty years.
 
 (3) Clause (2)(a) of this article applies also to a person who was married to a citizen of Uganda who, but for his or her death, would have continued to be a citizen of Uganda under this Constitution.
 
-(4) Where a person has been registered as a citizen of Uganda under clause (2)(a) of this article and the marriage by virtue of which that person was registered is-
+(4) Where a person has been registered as a citizen of Uganda under clause (2)(a) of this article and the marriage by virtue of which that person was registered is—
 
-(a) annulled or  otherwise declared void by  a court or tribunal  of  competent jurisdiction; or
+(a) annulled or otherwise declared void by a court or tribunal of competent jurisdiction; or
 
 (b) dissolved,
 
@@ -1451,7 +1447,7 @@ Parliament shall by law provide for the acquisition and loss of citizenship by n
 
 #### 14. Loss of citizenship by registration.
 
-A person may be deprived of his or her citizenship if  acquired  by  registration,  on  any  of  the following grounds-
+A person may be deprived of his or her citizenship if acquired by registration, on any of the following grounds—
 
 24
 
@@ -1473,11 +1469,11 @@ A person may be deprived of his or her citizenship if  acquired  by  registratio
 
 (2) A person who is not a citizen of Uganda may, on acquiring the citizenship of Uganda,  subject  to  this  Constitution  and  any  law  enacted  by  Parliament,  retain  the citizenship of another country.
 
-- Repealed.
+(3) Repealed.
 
-- Repealed.
+(4) Repealed.
 
-(5) Where the law of a country, other than Uganda, requires a person who marries a citizen  of  that  country  to  renounce  the  citizenship  of  his  or  her  own  country  by  virtue  of  that marriage, a citizen of Uganda who is deprived of his or her citizenship by virtue of that marriage shall, on the dissolution of that marriage, if he or she thereby loses his or her citizenship acquired by that marriage, become a citizen of Uganda.
+(5) Where the law of a country, other than Uganda, requires a person who marries a citizen of that country to renounce the citizenship of his or her own country by virtue of that marriage, a citizen of Uganda who is deprived of his or her citizenship by virtue of that marriage shall, on the dissolution of that marriage, if he or she thereby loses his or her citizenship acquired by that marriage, become a citizen of Uganda.
 
 (6) Parliament shall by law prescribe the circumstances under which-
 
@@ -1485,27 +1481,27 @@ A person may be deprived of his or her citizenship if  acquired  by  registratio
 
 (b) a citizen of Uganda whose citizenship of origin is of another country and who holds the citizenship of another country, may cease to be a citizen of Uganda;
 
-(c) a  person  who  is  not  a  citizen  of  Uganda  may,  on  acquiring  Uganda citizenship, retain the citizenship of another country.
+(c) a person who is not a citizen of Uganda may, on acquiring Uganda citizenship, retain the citizenship of another country.
 
-(7) Parliament  shall  by  law  prescribe  the  offices  of  State  which  a  person  who holds  the  citizenship  of  another  country  in  addition  to  the  citizenship  of  Uganda  is  not qualified to hold.
+(7) Parliament shall by law prescribe the offices of State which a person who holds the citizenship of another country in addition to the citizenship of Uganda is not qualified to hold.
 
 #### 16. National Citizenship and Immigration Board.
 
-- There shall be a National Citizenship and Immigration Board.
+(1) There shall be a National Citizenship and Immigration Board.
 
-(2) The    board  shall  consist  of  a  chairperson,  a  deputy  chairperson  and  such other members as Parliament shall by law prescribe.
+(2) The board shall consist of a chairperson, a deputy chairperson and such other members as Parliament shall by law prescribe.
 
-- The members of the board shall-
+(3) The members of the board shall-
 
 (a) be persons of high moral character and proven integrity and appointed by the President with approval of Parliament;
 
 (b) hold office for such period and on such terms and conditions as Parliament shall by law prescribe.
 
-- The functions of the board shall be prescribed by Parliament by law .
+(4) The functions of the board shall be prescribed by Parliament by law.
 
 #### 17. Duties of a citizen.
 
-- It is the duty of every citizen of Uganda-
+(1) It is the duty of every citizen of Uganda—
 
 (a) to respect the national anthem, flag, coat of arms and currency;
 
@@ -1533,17 +1529,17 @@ A person may be deprived of his or her citizenship if  acquired  by  registratio
 
 (j) to create and protect a clean and healthy environment; and
 
-(k) to perform such other national duties and obligations as Parliament may by law prescribe .
+(k) to perform such other national duties and obligations as Parliament may by law prescribe.
 
-- It  is  the  duty  of  all  able-bodied  citizens  to  undergo  military  training  for  the defence of this Constitution and the protection of the territorial integrity  of  Uganda  whenever called upon to do so; and the State shall ensure that facilities are available for such training.
+(2) It is the duty of all able-bodied citizens to undergo military training for the defence of this Constitution and the protection of the territorial integrity of Uganda whenever called upon to do so; and the State shall ensure that facilities are available for such training.
 
-- Parliament  may,  in  the  case  of  any  duty  or  obligation  under  clause  (1), prescribe a penalty for contravention of that duty or obligation.
+(3) Parliament may, in the case of any duty or obligation under clause (1), prescribe a penalty for contravention of that duty or obligation.
 
-#### Registration of births, marriages and deaths.
+#### 18. Registration of births, marriages and deaths.
 
 The State shall register every birth, marriage and death occurring in Uganda.
 
-#### Citizenship of a parent dying before the birth of a person.
+#### 19. Citizenship of a parent dying before the birth of a person.
 
 (1) A reference in this Chapter to the citizenship of the parent of a person at the time of  the  birth  of  that  person  shall,  in  relation  to  a  person  born  after  the  death  of  the  parent,  be construed as a reference to the citizenship of the parent at the time of the parent's death. (2) For the purposes of clause (1) of this article, where the death occurred before the coming into force of this Constitution, the citizenship that the parent would have had if he or she had died on the coming into force of this Constitution shall be taken to be his or her citizenship at the time of his or her death.
 
@@ -1551,7 +1547,7 @@ The State shall register every birth, marriage and death occurring in Uganda.
 
 ### General.
 
-#### Fundamental and other human rights and freedoms.
+#### 20. Fundamental and other human rights and freedoms.
 
 26
 
@@ -1569,9 +1565,9 @@ The State shall register every birth, marriage and death occurring in Uganda.
 
 (2) Without prejudice to clause (1) of this article, a person shall not be discriminated against on the ground of sex, race, colour, ethnic origin, tribe, birth, creed or religion, social or economic standing, political opinion or disability.
 
-(3) For the purposes of this article, 'discriminate' means to give different treatment to  different  persons  attributable  only  or  mainly  to  their  respective  descriptions  by  sex,  race, colour, ethnic origin, tribe, birth, creed or religion, social or economic standing, political opinion or disability.
+(3) For the purposes of this article, “discriminate” means to give different treatment to different persons attributable only or mainly to their respective descriptions by sex, race, colour, ethnic origin, tribe, birth, creed or religion, social or economic standing, political opinion or disability.
 
-(4) Nothing  in  this  article  shall  prevent  Parliament  from  enacting  laws  that  are necessary for-
+(4) Nothing in this article shall prevent Parliament from enacting laws that are necessary for—
 
 (a) implementing  policies  and  programmes  aimed  at  redressing  social,  economic, educational or other imbalance in society; or
 
@@ -1589,7 +1585,7 @@ The State shall register every birth, marriage and death occurring in Uganda.
 
 #### 23. Protection of personal liberty.
 
-(1) No person  shall  be  deprived  of  personal  liberty  except  in  any  of  the  following cases-
+(1) No person shall be deprived of personal liberty except in any of the following cases—
 
 (a) in execution of the sentence or order of a court, whether established for Uganda or another  country  or  of  an  international  court  or  tribunal  in  respect  of  a  criminal offence  of  which  that  person  has  been  convicted,  or  of  an  order  of  a  court punishing the person for contempt of court;
 
@@ -1615,11 +1611,11 @@ the purpose of effecting the expulsion, extradition or other lawful removal of t
 
 (h) as  may  be  authorised  by  law,  in  any  other  circumstances  similar  to  any  of  the cases specified in paragraphs (a) to (g) of this clause.
 
-- A person arrested, restricted or detained shall be kept in a place authorised by law.
+(2) A person arrested, restricted or detained shall be kept in a place authorised by law.
 
 (3) A  person  arrested,  restricted  or  detained  shall  be  informed  immediately,  in  a language that the person understands, of the reasons for the arrest, restriction or detention and of his or her right to a lawyer of his or her choice.
 
-- A person arrested or detained-
+(4) A person arrested or detained—
 
 (a) for the purpose of bringing him or her before a court in execution of an order of a court; or
 
@@ -1627,7 +1623,7 @@ the purpose of effecting the expulsion, extradition or other lawful removal of t
 
 shall, if not earlier released, be brought to court as soon as possible but in any case not later than forty-eight hours from the time of his or her arrest.
 
-- Where a person is restricted or detained-
+(5) Where a person is restricted or detained—
 
 (a) the next-of-kin of that person shall, at the request of that person, be informed as soon as practicable of the restriction or detention;
 
@@ -1635,11 +1631,11 @@ shall, if not earlier released, be brought to court as soon as possible but in a
 
 (c) that person shall be allowed access to medical treatment including, at the request and at the cost of that person, access to private medical treatment.
 
-- Where a person is arrested in respect of a criminal offence-
+(6) Where a person is arrested in respect of a criminal offence—
 
 (a) the person is entitled to apply to the  court to be  released on bail, and the court may grant that person bail on such conditions as the court considers reasonable;
 
-(b) in  the  case  of  an  offence  which  is  triable  by  the  High  Court  as  well  as  by surbodinate court, if that person has been remanded in custody in respect of the offence for sixty days before trial, that person shall be released on bail on such conditions as the court considers reasonable ;
+(b) in the case of an offence which is triable by the High Court as well as by subordinate court, if that person has been remanded in custody in respect of the offence for sixty days before trial, that person shall be released on bail on such conditions as the court considers reasonable ;
 
 (c) in the case of an offence triable only by the High Court, if that person has been remanded in custody for one hundred and eighty days before the case is committed to the High Court, that person shall be released on bail on such conditions as the court considers reasonable.
 
@@ -1655,11 +1651,11 @@ No person shall be subjected to any form of torture or cruel, inhuman or degradi
 
 #### 25. Protection from slavery, servitude and forced labour.
 
-- No person shall be held in slavery or servitude.
+(1) No person shall be held in slavery or servitude.
 
-- No person shall be required to perform forced labour.
+(2) No person shall be required to perform forced labour.
 
-- For the purposes of this article, 'forced labour' does not include-
+(3) For the purposes of this article, “forced labour” does not include—
 
 (a) any labour required in consequence of the sentence or order of a court;
 
@@ -1683,11 +1679,11 @@ reasonably  necessary  in  the  interests  of  hygiene  or  for  the  maintenanc
 
 (1) Every person has a right to own property either individually or in association with others.
 
-(2) No person shall be compulsorily deprived of property or any interest in or right over property of any description except where the following conditions are satisfied-
+(2) No person shall be compulsorily deprived of property or any interest in or right over property of any description except where the following conditions are satisfied—
 
 (a) the taking of possession or acquisition is necessary for public use or in the interest of defence, public safety, public order, public morality or public health; and
 
-(b) the compulsory taking of possession or acquisition of property is made under a law which makes provision for-
+(b) the compulsory taking of possession or acquisition of property is made under a law which makes provision for—
 
 (i) prompt payment of fair and adequate compensation, prior to the taking of possession or acquisition of the property; and
 
@@ -1695,7 +1691,7 @@ reasonably  necessary  in  the  interests  of  hygiene  or  for  the  maintenanc
 
 #### 27. Right to privacy of person, home and other property.
 
-- No person shall be subjected to-
+(1) No person shall be subjected to—
 
 (a) unlawful search of the person, home or other property of that person; or
 
@@ -1709,7 +1705,7 @@ reasonably  necessary  in  the  interests  of  hygiene  or  for  the  maintenanc
 
 (2) Nothing  in  clause  (1)  of  this  article  shall  prevent  the  court  or  tribunal  from excluding the press or the public from all or any proceedings before it for reasons of morality, public order or national security, as may be necessary in a free and democratic society.
 
-- Every person who is charged with a criminal offence shall-
+(3) Every person who is charged with a criminal offence shall—
 
 (a) be presumed to be innocent until proved guilty or until that person has pleaded guilty;
 
@@ -1733,7 +1729,7 @@ reasonably  necessary  in  the  interests  of  hygiene  or  for  the  maintenanc
 
 witnesses before the court.
 
-- Nothing  done  under  the  authority  of  any  law  shall  be  held  to  be  inconsistent with-
+(4) Nothing done under the authority of any law shall be held to be inconsistent with—
 
 (a) clause (3)(a) of this article, to the extent that the law in question imposes upon any  person  charged  with  a  criminal  offence,  the  burden  of  proving  particular facts;
 
@@ -1757,7 +1753,7 @@ witnesses before the court.
 
 #### 29. Protection of freedom of conscience, expression, movement, religion, assembly and association.
 
-- Every person shall have the right to-
+(1) Every person shall have the right to—
 
 (a) freedom of speech and expression which shall include freedom of the press and other media;
 
@@ -1769,7 +1765,7 @@ witnesses before the court.
 
 (e) freedom  of  association  which  shall  include  the  freedom  to  form  and  join associations  or  unions,  including  trade  unions  and  political  and  other  civic organisations.
 
-- Every Ugandan shall have the right-
+(2) Every Ugandan shall have the right—
 
 (a) to move freely throughout Uganda and to reside and settle in any part of Uganda;
 
@@ -1819,7 +1815,7 @@ All persons have a right to education.
 
 #### 33. Rights of women.
 
-- Women shall be accorded full and equal dignity of the person with men.
+(1) Women shall be accorded full and equal dignity of the person with men.
 
 (2) The State shall provide the facilities and opportunities necessary to enhance the welfare of women to enable them to realise their full potential and advancement.
 
@@ -1829,7 +1825,7 @@ All persons have a right to education.
 
 (5) Without prejudice to article 32 of this Constitution, women shall have the right to affirmative action for the purpose of redressing the imbalances created by history, tradition or custom.
 
-- Repealed.
+(6) Repealed.
 
 #### 34. Rights of children.
 
@@ -1879,7 +1875,7 @@ Every Ugandan has a right to a clean and healthy environment.
 
 #### 40. Economic rights.
 
-- Parliament shall enact laws-
+(1) Parliament shall enact laws—
 
 (a) to  provide  for  the  right  of  persons  to  work  under  satisfactory,  safe  and  healthy conditions;
 
@@ -1889,7 +1885,7 @@ Every Ugandan has a right to a clean and healthy environment.
 
 (2) Every person in Uganda has the right to practise his or her profession and to carry on any lawful occupation, trade or business.
 
-- Every worker has a right-
+(3) Every worker has a right—
 
 (a) to form or join a trade union of his or her choice for the promotion and protection of his or her economic and social interests;
 
@@ -1919,7 +1915,7 @@ Any person appearing before any administrative official or body has a right to b
 
 (1) In the enjoyment of the rights and freedoms prescribed in this Chapter, no person shall  prejudice  the  fundamental  or  other  human  rights  and  freedoms  of  others  or  the  public interest.
 
-- Public interest under this article shall not permit-
+(2) Public interest under this article shall not permit—
 
 (a) political persecution;
 
@@ -1929,7 +1925,7 @@ Any person appearing before any administrative official or body has a right to b
 
 #### 44. Prohibition of derogation from particular human rights and freedoms.
 
-Notwithstanding anything in this Constitution, there shall be no derogation from the enjoyment of the following rights and freedoms-
+Notwithstanding anything in this Constitution, there shall be no derogation from the enjoyment of the following rights and freedoms—
 
 (a) freedom from torture and cruel, inhuman or degrading treatment or punishment;
 
@@ -1955,7 +1951,7 @@ The  rights,  duties,  declarations  and  guarantees  relating  to  the  fundame
 
 #### 47. Detention under emergency laws.
 
-Where  a  person  is  restricted  or  detained  under  a  law  made  for  the  purpose  of  a  state  of emergency, the following provisions shall apply-
+Where a person is restricted or detained under a law made for the purpose of a state of emergency, the following provisions shall apply—
 
 (a) he  or  she  shall,  within  twenty-four  hours  after  the  commencement  of  the restriction  or  detention,  be  furnished  with  a  statement  in  writing  specifying  the grounds upon which he or she is restricted or detained;
 
@@ -1973,9 +1969,9 @@ provisions of the law under which his or her restriction or detention is authori
 
 #### 48. Review by the Uganda Human Rights Commission.
 
-(1) The Uganda Human Rights Commission shall review the case of a person who is restricted or detained and to whom article 47 of this Constitution applies, not later than twentyone days after the commencement of the restriction or detention, and after that, at intervals of not more than thirty days.
+(1) The Uganda Human Rights Commission shall review the case of a person who is restricted or detained and to whom article 47 of this Constitution applies, not later than twenty-one days after the commencement of the restriction or detention, and after that, at intervals of not more than thirty days.
 
-(2) A  person  who  is  restricted  or  detained  shall  be  permitted  and  afforded  every possible facility-
+(2) A person who is restricted or detained shall be permitted and afforded every possible facility—
 
 (a) to  consult  a  lawyer  of  his  or  her  choice  or  any  group  of  persons  who  shall  be permitted to make representations to the Uganda Human Rights Commission for the review of his or her case;
 
@@ -1985,13 +1981,13 @@ provisions of the law under which his or her restriction or detention is authori
 
 #### 49. Report to Parliament.
 
-(1) In every month in which there is a sitting of Parliament, the Minister responsible shall make a report to Parliament in respect of-
+(1) In every month in which there is a sitting of Parliament, the Minister responsible shall make a report to Parliament in respect of—
 
 (a) the number of persons restricted or detained under the state of emergency; and
 
 (b) the  action  taken  in  compliance  with  the  findings  of  the  Uganda  Human  Rights Commission.
 
-(2) The  Minister  responsible  shall  publish  every  month  in  the  Gazette  and  in  the media-
+(2) The Minister responsible shall publish every month in the Gazette and in the media—
 
 (a) the number and names and addresses of the persons restricted or detained;
 
@@ -2017,11 +2013,11 @@ provisions of the law under which his or her restriction or detention is authori
 
 #### 51. Uganda Human Rights Commission.
 
-- There shall be a commission called the Uganda Human Rights Commission.
+(1) There shall be a commission called the Uganda Human Rights Commission.
 
 (2) The commission shall be composed of a chairperson and not less than three other persons appointed by the President with the approval of Parliament.
 
-- The chairperson of the commission shall be a judge of the High Court or a person
+(3) The chairperson of the commission shall be a judge of the High Court or a person
 
 34
 
@@ -2035,7 +2031,7 @@ qualified to hold that office.
 
 #### 52. Functions of the Human Rights Commission.
 
-- The commission shall have the following functions-
+(1) The commission shall have the following functions—
 
 (a) to investigate, at its own initiative or on a complaint made by any person or group of persons against the violation of any human right;
 
@@ -2057,7 +2053,7 @@ qualified to hold that office.
 
 (2) The  Uganda  Human  Rights  Commission  shall  publish  periodic  reports  on  its findings and submit annual reports to Parliament on the state of human rights and freedoms in the country.
 
-(3) In  the  performance  of  its  functions,  the  Uganda  Human  Rights  Commission shall-
+(3) In the performance of its functions, the Uganda Human Rights Commission shall—
 
 (a) establish its operational guidelines and rules of procedure;
 
@@ -2067,7 +2063,7 @@ qualified to hold that office.
 
 #### 53. Powers of the commission.
 
-(1) In  the  performance  of  its  functions,  the  commission  shall  have  the  powers  of  a court-
+(1) In the performance of its functions, the commission shall have the powers of a court—
 
 (a) to issue summons or other orders requiring the attendance of any person before the  commission  and  the  production  of  any  document  or  record  relevant  to  any investigation by the commission;
 
@@ -2077,7 +2073,7 @@ qualified to hold that office.
 
 (d) to commit persons for contempt of its orders.
 
-(2) The commission may, if satisfied that there has been an infringement of a human right or freedom, order-
+(2) The commission may, if satisfied that there has been an infringement of a human right or freedom, order—
 
 (a) the release of a detained or restricted person;
 
@@ -2087,7 +2083,7 @@ qualified to hold that office.
 
 (3) A person or authority dissatisfied with an order made by the commission under clause (2) of this article has a right to appeal to the High Court.
 
-- The commission shall not investigate-
+(4) The commission shall not investigate—
 
 35
 
@@ -2129,13 +2125,13 @@ Parliament  may  make  laws  to  regulate  and  facilitate  the  performance  of
 
 [[START OF PAGE 37]]
 
-## Chapter Representation of the People.
+## Chapter Five Representation of the People.
 
 ### Right to vote.
 
 #### 59. Right to vote.
 
-- Every citizen of Uganda of eighteen years of age or above has a right to vote.
+(1) Every citizen of Uganda of eighteen years of age or above has a right to vote.
 
 (2) It  is  the  duty  of  every  citizen  of  Uganda  of  eighteen  years  of  age  or  above  to register as a voter for public elections and referenda.
 
@@ -2155,7 +2151,7 @@ Parliament  may  make  laws  to  regulate  and  facilitate  the  performance  of
 
 (4) If the appointment of a member of the commission is being renewed, the renewal shall be done at least three months before the expiry of the first term.
 
-(5) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission-
+(5) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission—
 
 (a) a member of Parliament;
 
@@ -2164,8 +2160,6 @@ Parliament  may  make  laws  to  regulate  and  facilitate  the  performance  of
 (c) a member of the executive of a political party or political organisation; or
 
 (d) a public officer.
-
-Five
 
 37
 
@@ -2177,7 +2171,7 @@ Five
 
 (7) If  a  member  of  the  commission  is  absent  or  dies,  the  President  shall,  with  the approval of Parliament, appoint a person qualified in terms of this article to act in his or her place until  that  person  is  able  again  to  resume  his  or  her  duties  or,  as  the  case  may  be,  until  a  new person is appointed to fill the vacancy.
 
-(8) A member of the commission may be removed from office by the President only for-
+(8) A member of the commission may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  out  of  physical  or mental incapacity;
 
@@ -2187,7 +2181,7 @@ Five
 
 #### 61. Functions of the Electoral Commission.
 
-- The Electoral Commission shall have the following functions-
+(1) The Electoral Commission shall have the following functions—
 
 (a) to ensure that regular, free and fair elections are held;
 
@@ -2235,7 +2229,7 @@ Subject to the provisions of this Constitution, the commission shall be independ
 
 (6) Where the boundary of a constituency established under this article is altered as a result of a review, the alteration shall come into effect upon the next dissolution of Parliament.
 
-(7) For the purposes of this article, 'population quota' means the number obtained by dividing  the  number  of  inhabitants  of  Uganda  by  the  number  of  constituencies  into  which Uganda is to be divided under this article.
+(7) For the purposes of this article, “population quota” means the number obtained by dividing the number of inhabitants of Uganda by the number of constituencies into which Uganda is to be divided under this article.
 
 #### 64. Appeals from decisions of the commission.
 
@@ -2265,9 +2259,9 @@ The appointment of officers and employees of the Electoral Commission shall be m
 
 (1) The Electoral Commission shall ensure that elections are held at times fixed and notified in advance to the public.
 
-(2) No candidate in an election shall be denied reasonable access and use of Stateowned communication media.
+(2) No candidate in an election shall be denied reasonable access and use of State-owned communication media.
 
-(3) All  presidential  candidates  shall  be  given  equal  time  and  space  on  the  Stateowned media to present their programmes to the people.
+(3) All presidential candidates shall be given equal time and space on the State-owned media to present their programmes to the people.
 
 (4) Parliament shall make laws regulating the use of public resources and institutions during election campaigns.
 
@@ -2285,7 +2279,7 @@ The appointment of officers and employees of the Electoral Commission shall be m
 
 [[START OF PAGE 40]]
 
-(4) The presiding officer, the candidates or their representatives and in the case of a referendum,  the  sides  contesting  or  their  agents,  if  any,  shall  sign  and  retain  a  copy  of  a declaration stating-
+(4) The presiding officer, the candidates or their representatives and in the case of a referendum, the sides contesting or their agents, if any, shall sign and retain a copy of a declaration stating—
 
 (a) the polling station;
 
@@ -2303,7 +2297,7 @@ station before communicating them to the returning officer.
 
 (1) The people of Uganda shall have the right to choose and adopt a political system of their choice through free and fair elections or referenda.
 
-- The political systems referred to in clause (1) of this article shall include-
+(2) The political systems referred to in clause (1) of this article shall include—
 
 (a) the movement political system;
 
@@ -2313,7 +2307,7 @@ station before communicating them to the returning officer.
 
 #### 70. Movement political system.
 
-(1) The  movement  political  system  is  broad-based,  inclusive  and  nonpartisan  and shall conform to the following principles-
+(1) The movement political system is broad-based, inclusive and nonpartisan and shall conform to the following principles—
 
 (a) participatory democracy;
 
@@ -2323,7 +2317,7 @@ station before communicating them to the returning officer.
 
 (d) individual merit as a basis for election to political offices.
 
-- Parliament may-
+(2) Parliament may—
 
 (a) create organs under the movement political system and define their roles; and
 
@@ -2331,7 +2325,7 @@ station before communicating them to the returning officer.
 
 #### 71. Multiparty political system.
 
-(1) A political party in the multiparty political system shall conform to the following principles-
+(1) A political party in the multiparty political system shall conform to the following principles—
 
 (a) every political party shall have a national character;
 
@@ -2345,7 +2339,7 @@ station before communicating them to the returning officer.
 
 (f) no person shall be compelled to join a particular party by virtue of belonging to an organisation or interest group.
 
-- Parliament shall by law prescribe a code of conduct for political organisations and political parties and provide for the establishment of a national consultative forum for political parties and organisations with such functions as
+(2) Parliament shall by law prescribe a code of conduct for political organisations and political parties and provide for the establishment of a national consultative forum for political parties and organisations with such functions as
 
 40
 
@@ -2357,11 +2351,11 @@ Parliament may prescribe.
 
 #### 72. Right to form political organisations.
 
-- Subject to the provisions of this Constitution, the right to form political parties and any other political organisations is guaranteed.
+(1) Subject to the provisions of this Constitution, the right to form political parties and any other political organisations is guaranteed.
 
 (2) An  organisation  shall  not  operate  as  a  political  party  or  organisation  unless  it conforms to the principles laid down in this Constitution and it is registered.
 
-- Parliament  shall  by  law  regulate  the  financing  and  functioning  of  political organisations.
+(3) Parliament shall by law regulate the financing and functioning of political organisations.
 
 (4) Any person is free to stand for an election as a candidate, independent of a political organisation or political party.
 
@@ -2369,13 +2363,13 @@ Parliament may prescribe.
 
 #### 73. Regulations of political organisations.
 
-(1) Subject to the provisions of this Constitution, but notwithstanding the provisions of  articles  29(1)(e)  and  43  of  this  Constitution,  during  the  period  when  any  of  the  political systems provided for in  this Constitution has been adopted, organisations subscribing to other political systems may exist subject to such regulations as Parliament shall by law prescribe. Regulations prescribed under this  article  shall  not  exceed  what  is  necessary  for
+(1) Subject to the provisions of this Constitution, but notwithstanding the provisions of articles 29(1)(e) and 43 of this Constitution, during the period when any of the political systems provided for in this Constitution has been adopted, organisations subscribing to other political systems may exist subject to such regulations as Parliament shall by law prescribe.
 
-(2) enabling the political system adopted to operate.
+(2) Regulations prescribed under this article shall not exceed what is necessary for enabling the political system adopted to operate.
 
 #### 74. Change of political systems by referenda or elections.
 
-- A referendum shall be held for the purpose of changing the political system-
+(1) A referendum shall be held for the purpose of changing the political system—
 
 (a) if  requested  by  a  resolution  supported  by  more  than  half  of  all  members  of Parliament;
 
@@ -2383,7 +2377,7 @@ Parliament may prescribe.
 
 (c) if requested through a petition to the Electoral Commission by at least one-tenth of the registered voters from each of at least two-thirds of the constituencies for which representatives are required to be directly elected under article 78(1)(a) of this Constitution.
 
-- The political  system  may  also  be  changed  by  the  elected  representatives  of  the people in Parliament and district councils by resolution of Parliament supported by not less than two-thirds of all  members of Parliament upon a petition to it supported by not less than twothirds majority of the total membership of each of at least half of all district councils.
+(2) The political system may also be changed by the elected representatives of the people in Parliament and district councils by resolution of Parliament supported by not less than two-thirds of all members of Parliament upon a petition to it supported by not less than two-thirds majority of the total membership of each of at least half of all district councils.
 
 (3) The resolutions or petitions for the purposes of changing the political system shall be taken only in the fourth year of the term of any Parliament.
 
@@ -2403,13 +2397,13 @@ Parliament  may,  subject  to  the  provisions  of  this  Constitution,  enact  
 
 [[START OF PAGE 42]]
 
-## Chapter The Legislature.
+## Chapter Six The Legislature.
 
 ### Establishment, composition and functions of Parliament.
 
 #### 77. Parliament of Uganda.
 
-- There shall be a Parliament of Uganda.
+(1) There shall be a Parliament of Uganda.
 
 (2) The  composition  and  functions  of  Parliament  shall  be  as  prescribed  by  this Constitution.
 
@@ -2419,7 +2413,7 @@ Parliament  may,  subject  to  the  provisions  of  this  Constitution,  enact  
 
 #### 78. Composition of Parliament.
 
-- Parliament shall consist of-
+(1) Parliament shall consist of—
 
 (a) members directly elected to represent constituencies;
 
@@ -2445,7 +2439,7 @@ Parliament  may,  subject  to  the  provisions  of  this  Constitution,  enact  
 
 #### 80. Qualifications and disqualifications of members of Parliament.
 
-- A person is qualified to be a member of Parliament if that person-
+(1) A person is qualified to be a member of Parliament if that person—
 
 (a) is a citizen of Uganda;
 
@@ -2453,15 +2447,15 @@ Parliament  may,  subject  to  the  provisions  of  this  Constitution,  enact  
 
 (c) has completed a minimum formal education of Advanced Level standard or
 
-Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  time prescribed by Parliament by law.
-
 42
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-- A person is not qualified for election as a member of Parliament if that person-
+its equivalent which shall be established in a manner and at a time prescribed by Parliament by law.
+
+(2) A person is not qualified for election as a member of Parliament if that person—
 
 (a) is of unsound mind;
 
@@ -2483,9 +2477,9 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 #### 81. Election of members of Parliament.
 
-- Repealed.
+(1) Repealed.
 
-(2) Whenever a vacancy exists in Parliament, the Clerk to Parliament shall notify the Electoral  Commission  in  writing  within  ten  days  after  the  vacancy  has  occurred;  and  a  byelection shall be held within sixty days after the vacancy has occurred.
+(2) Whenever a vacancy exists in Parliament, the Clerk to Parliament shall notify the Electoral Commission in writing within ten days after the vacancy has occurred; and a by-election shall be held within sixty days after the vacancy has occurred.
 
 (3) Notwithstanding clause (2) of this article, a by-election shall not be held within six months before the holding of a general election of Parliament.
 
@@ -2495,7 +2489,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 #### 82. Speaker and Deputy Speaker of Parliament.
 
-- There shall be a Speaker and Deputy Speaker of Parliament.
+(1) There shall be a Speaker and Deputy Speaker of Parliament.
 
 (2) The Speaker and Deputy Speaker shall be elected by members of Parliament from among their number.
 
@@ -2507,7 +2501,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 (6) An election  to  the  office  of  Deputy  Speaker  shall  be  held  at  the  first  sitting  of Parliament after that office becomes vacant.
 
-(7) The Speaker or Deputy Speaker shall vacate his or her office-
+(7) The Speaker or Deputy Speaker shall vacate his or her office—
 
 (a) if he or she is appointed to any public office;
 
@@ -2547,7 +2541,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 #### 83. Tenure of office of members of Parliament.
 
-- A member of Parliament shall vacate his or her seat in Parliament-
+(1) A member of Parliament shall vacate his or her seat in Parliament—
 
 (a) if he or she resigns his or her office in writing signed by him or her and addressed to the Speaker;
 
@@ -2581,7 +2575,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 [[START OF PAGE 45]]
 
-(2) A member of Parliament may be recalled from that office on any of the following grounds-
+(2) A member of Parliament may be recalled from that office on any of the following grounds—
 
 (a) physical or mental incapacity rendering that member incapable of performing the functions of the office;
 
@@ -2589,11 +2583,11 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 (c) persistent deserting of the electorate without reasonable cause.
 
-(3) The recall of a member of Parliament shall be initiated by a petition in writing setting out the grounds relied on and signed by at least two-thirds of the registered voters of the constituency or of the interest group referred to in clause (l) of this article, and shall be delivered to the Speaker.
+(3) The recall of a member of Parliament shall be initiated by a petition in writing setting out the grounds relied on and signed by at least two-thirds of the registered voters of the constituency or of the interest group referred to in clause (1) of this article, and shall be delivered to the Speaker.
 
 (4) On receipt of the petition referred to in clause (3) of this article, the Speaker shall within seven days require the Electoral Commission to conduct a public inquiry into the matters alleged in the petition, and the Electoral Commission shall expeditiously conduct the necessary inquiry and report its findings to the Speaker.
 
-- The Speaker shall-
+(5) The Speaker shall—
 
 (a) declare  the  seat  vacant,  if  the  Electoral  Commission  reports  that  it  is  satisfied from the inquiry, with the genuineness of the petition; or
 
@@ -2611,7 +2605,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 #### 86. Determination of questions of membership.
 
-(1) The  High  Court  shall  have  jurisdiction  to  hear  and  determine  any  question whether-
+(1) The High Court shall have jurisdiction to hear and determine any question whether—
 
 (a) a person has been validly elected a member of Parliament or the seat of a member of Parliament has become vacant; or
 
@@ -2619,7 +2613,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 (2) A person aggrieved by the determination of the High Court under this article may appeal to the Court of Appeal.
 
-(3) Parliament shall by law make provision with respect to-
+(3) Parliament shall by law make provision with respect to—
 
 (a) the persons eligible to apply to the High Court for determination of any question under this article; and
 
@@ -2639,7 +2633,7 @@ Six its  equivalent  which  shall  be  established  in  a  manner  and  at  a  t
 
 [[START OF PAGE 46]]
 
-(4)  The  salary,  emoluments  and  gratuity  of  the  staff  of  the  Parliament  shall  be determined by Parliament subject to article 93 of this Constitution .
+(4) The salary, emoluments and gratuity of the staff of the Parliament shall be determined by Parliament subject to article 93 of this Constitution.
 
 #### 87A. Parliamentary Commission
 
@@ -2665,13 +2659,13 @@ There shall be a commission called the Parliamentary Commission whose compositio
 
 (2) Parliament shall, by its rules of procedure, prescribe the powers, composition and functions of its committees.
 
-(3)
+(3) In the exercise of their functions under this article, committees of Parliament —
 
 (a) may  call  any  Minister  or  any  person  holding  public  office  and  private individuals to submit memoranda or appear before them to give evidence;
 
 (b) may co-opt any member of Parliament or employ qualified persons to assist them in the discharge of their functions;
 
-(c) shall have the powers of the High Court for-
+(c) shall have the powers of the High Court for—
 
 (i) enforcing  the  attendance  of  witnesses  and  examining  them  on  oath, affirmation or otherwise;
 
@@ -2685,7 +2679,7 @@ There shall be a commission called the Parliamentary Commission whose compositio
 
 (2) A  bill  passed  by  Parliament  shall,  as  soon  as  possible,  be  presented  to  the President for assent.
 
-- The President shall, within thirty days after a bill is presented to him or her-
+(3) The President shall, within thirty days after a bill is presented to him or her—
 
 (a) assent to the bill;
 
@@ -2694,10 +2688,6 @@ There shall be a commission called the Parliamentary Commission whose compositio
 (c) notify the Speaker in writing that he or she refuses to assent to the bill.
 
 (4) Where a bill has been returned to Parliament under clause (3)(b) of this article, Parliament shall reconsider it and if passed again, it shall be presented for a second time to the
-
-In the exercise of their functions under this article, committees of Parliament
-
--
 
 46
 
@@ -2709,7 +2699,7 @@ President for assent.
 
 (5) Where the President returns the same bill twice under clause (3)(b) of this article and the bill is passed for the third time, with the support of at least two-thirds of all members of Parliament, the Speaker shall cause a copy of the bill to be laid before Parliament, and the bill shall become law without the assent of the President.
 
-- Where the President-
+(6) Where the President—
 
 (a) refuses  to  assent  to  a  bill  under  clause  (3)(c)  of  this  article,  Parliament  may reconsider the bill and if passed, the bill shall be presented to the President for assent;
 
@@ -2725,9 +2715,9 @@ Parliament shall not pass any law to alter the decision or judgment of any court
 
 #### 93. Restriction on financial matters.
 
-Parliament shall not, unless the bill or the motion is introduced on behalf of the Government-
+Parliament shall not, unless the bill or the motion is introduced on behalf of the Government—
 
-(a) proceed upon a bill, including an amendment bill, that makes provision for any of the following-
+(a) proceed upon a bill, including an amendment bill, that makes provision for any of the following—
 
 (i) the imposition of taxation or the alteration of taxation otherwise than by reduction;
 
@@ -2743,7 +2733,7 @@ Parliament shall not, unless the bill or the motion is introduced on behalf of t
 
 (1) Subject  to  the  provisions  of  this  Constitution,  Parliament  may  make  rules  to regulate its own procedure, including the procedure of its committees.
 
-- Parliament may act notwithstanding a vacancy in its membership.
+(2) Parliament may act notwithstanding a vacancy in its membership.
 
 (3) The  presence  or  the  participation  of  a  person  not  entitled  to  be  present  or  to participate in the proceedings of Parliament shall not, by itself, invalidate those proceedings.
 
@@ -2797,7 +2787,7 @@ Parliament shall stand dissolved upon the expiration of its term as prescribed b
 
 [[START OF PAGE 49]]
 
-## Chapter The Executive.
+## Chapter Seven The Executive.
 
 ### The President.
 
@@ -2813,13 +2803,13 @@ Parliament shall stand dissolved upon the expiration of its term as prescribed b
 
 (5) Civil or criminal proceedings may be instituted against a person after ceasing to be President, in respect of anything done or omitted to be done in his or her personal capacity
 
-Seven before or during the term of office of that person; and any period of limitation in respect of any such proceedings shall not be taken to run during the period while that person was President.
-
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+before or during the term of office of that person; and any period of limitation in respect of any such proceedings shall not be taken to run during the period while that person was President.
 
 #### 99. Executive authority of Uganda.
 
@@ -2845,7 +2835,7 @@ The President shall, whenever leaving Uganda, notify in writing the Vice Preside
 
 #### 102. Qualifications of the President.
 
-A person is not qualified for election as President unless that person is-
+A person is not qualified for election as President unless that person is—
 
 (a) a citizen of Uganda by birth;
 
@@ -2857,7 +2847,7 @@ A person is not qualified for election as President unless that person is-
 
 (1) The election of the President shall be by universal adult suffrage through a secret ballot.
 
-- A person shall not be a candidate in a presidential election unless-
+(2) A person shall not be a candidate in a presidential election unless—
 
 (a) that person submits to the Electoral Commission on or before the day appointed as nomination day in relation to the election, a document which is signed by that person nominating him or her as a candidate; and
 
@@ -2881,6 +2871,7 @@ A person is not qualified for election as President unless that person is-
 
 [[START OF PAGE 51]]
 
+cast at the election.
 (5) Where  at  a  presidential  election  no  candidate  obtains  the  percentage  of  votes specified in clause (4) of this article, a second election shall be held within thirty days after the declaration of the results in which election the two candidates who obtained the highest number of votes shall be the only candidates.
 
 (6) The  candidate  who  obtains  the  highest  number  of  votes  in  an  election  under clause (5) of this article shall be declared elected President.
@@ -2903,7 +2894,7 @@ A person is not qualified for election as President unless that person is-
 
 (4) Where  no  petition  is  filed  within  the  time  prescribed  under  clause  (2)  of  this article, or where a petition having been filed, is dismissed by the Supreme Court, the candidate declared elected shall conclusively be taken to have been duly elected as President.
 
-- After due inquiry under clause (3) of this article, the Supreme Court may-
+(5) After due inquiry under clause (3) of this article, the Supreme Court may—
 
 (a) dismiss the petition;
 
@@ -2915,7 +2906,7 @@ A person is not qualified for election as President unless that person is-
 
 (7) If  after  a  fresh  election  held  under  clause  (6)  of  this  article  there  is  another petition which succeeds, then the presidential election shall be postponed; and upon the expiry of the  term  of  the  incumbent  President,  the  Speaker  shall  perform  the  functions  of  the  office  of President until a new President is elected and assumes office.
 
-- For the purposes of this article, article 98(4) of this Constitution shall not apply.
+(8) For the purposes of this article, article 98(4) of this Constitution shall not apply.
 
 (9) Parliament  shall  make  such  laws  as  may  be  necessary  for  the  purposes  of  this article, including laws for grounds of annulment and rules of procedure.
 
@@ -2925,7 +2916,7 @@ A person is not qualified for election as President unless that person is-
 
 (2) A person may be elected under this Constitution to hold office as President for one or more terms as prescribed by this article.
 
-- The office of President shall become vacant-
+(3) The office of President shall become vacant—
 
 (a) on the expiration of the period specified in this article; or
 
@@ -2933,7 +2924,7 @@ A person is not qualified for election as President unless that person is-
 
 (4) The President may, by writing signed by him or her, and addressed to the Chief Justice, resign from office as President.
 
-- The resignation of the President shall take effect when it is received by the Chief
+(5) The resignation of the President shall take effect when it is received by the Chief
 
 51
 
@@ -2963,11 +2954,11 @@ Justice.
 
 #### 107. Removal of the President.
 
-(1) The President may be removed from office in accordance with this article on any of the following grounds-
+(1) The President may be removed from office in accordance with this article on any of the following grounds—
 
 (a) abuse of office or wilful violation of the oath of allegiance and the presidential oath or any provision of this Constitution;
 
-(b) misconduct or misbehaviour-
+(b) misconduct or misbehaviour—
 
 (i) that he or she has conducted himself or herself in a manner which brings or is likely to bring the office of President into hatred, ridicule, contempt or disrepute; or
 
@@ -2975,9 +2966,9 @@ Justice.
 
 (c) physical or mental incapacity, namely that he or she is incapable of performing the functions of his or her office by reason of physical or mental incapacity.
 
-(2) For  the  purpose  of  removal  of  the  President  under  clause  (1)(a)  or  (b)  of  this article,  a  notice  in  writing  signed  by  not  less  than  one-third  of  all  the  members  of  Parliament shall be submitted to the Speaker-
+(2) For the purpose of removal of the President under clause (1)(a) or (b) of this article, a notice in writing signed by not less than one-third of all the members of Parliament shall be submitted to the Speaker—
 
-(a) stating  that  they  intend  to  move  a  motion  for  a  resolution  in  Parliament  for  the removal of the President on the charge that the President has-
+(a) stating that they intend to move a motion for a resolution in Parliament for the removal of the President on the charge that the President has—
 
 (i) wilfully abused his or her office or wilfully violated the oath of allegiance and  the  presidential  oath  or  any  other  provision  of  this  Constitution  in terms of clause (1)(a) of this article; or
 
@@ -2999,7 +2990,7 @@ Justice.
 
 (6) If  the tribunal determines that there is a prima facie case for the removal of the President  under  clause  (1)(a)  or  (b)  of  this  article,  then  if  Parliament  passes  the  resolution supported by the votes of not less than two-thirds of all members of Parliament, the President shall cease to hold office.
 
-(7) For the purposes of the removal of the President on grounds of physical or mental incapacity under clause (1)(c) of this article, there shall be submitted to the Speaker a notice in writing signed by not less than one-third of all the members of Parliament-
+(7) For the purposes of the removal of the President on grounds of physical or mental incapacity under clause (1)(c) of this article, there shall be submitted to the Speaker a notice in writing signed by not less than one-third of all the members of Parliament—
 
 (a) stating  that  they  intend  to  move  a  motion  for  a  resolution  in  Parliament  for  the removal of the President from office on grounds of physical or mental incapacity; and
 
@@ -3011,7 +3002,7 @@ Justice.
 
 (10) The Chief Justice  shall,  within  twenty-four  hours  after  constituting  the  medical board, inform the President accordingly, and the President shall submit himself or herself to the medical board for examination within seven days.
 
-(11) If  the  medical  board  determines  that  the  President  is  by  reason  of  physical  or mental  incapacity  unable  to  perform  the  functions  of  the  office  of  President,  and  Parliament passes the resolution for the removal of the President supported by the votes of not less than twothirds of all the members of Parliament, the President shall cease to hold office.
+(11) If the medical board determines that the President is by reason of physical or mental incapacity unable to perform the functions of the office of President, and Parliament passes the resolution for the removal of the President supported by the votes of not less than two-thirds of all the members of Parliament, the President shall cease to hold office.
 
 (12) If the medical board, after the expiration of the period of seven days referred to in clause (10) of this article, reports that the President has failed or refused to submit to the medical board in accordance with that clause, and Parliament passes the resolution for the removal of the President supported by the votes of not less than two-thirds of all the members of Parliament, the President shall cease to hold office.
 
@@ -3021,11 +3012,11 @@ Justice.
 
 #### 108. Vice President.
 
-- There shall be a Vice President of Uganda.
+(1) There shall be a Vice President of Uganda.
 
 (2) The President shall, with the approval of Parliament by a simple majority, appoint a Vice President.
 
-(3) The Vice President shall-
+(3) The Vice President shall—
 
 (a) deputise for the President as and when the need arises; and
 
@@ -3033,13 +3024,13 @@ Justice.
 
 (4) The  qualifications  prescribed  for  the  office  of  President  by  article  102  of  this Constitution shall apply to the office of Vice President.
 
-(5) The office of Vice President shall become vacant if-
+(5) The office of Vice President shall become vacant if—
 
 (a) the appointment is revoked by the President; or
 
 (b) the incumbent resigns or dies.
 
-- Article 106 shall, subject to this Constitution, apply to the Vice President.
+(6) Article 106 shall, subject to this Constitution, apply to the Vice President.
 
 (7) Where the office of Vice President becomes vacant, the President shall, with the approval  of  Parliament,  and  as  soon  as  possible  but  in  any  case  not  later  than  fourteen  days, appoint a person qualified to hold the office of Vice President.
 
@@ -3055,15 +3046,15 @@ Justice.
 
 (1) There shall be a Prime Minister who shall be appointed by the President with approval of Parliament by simple majority from among members of Parliament or persons qualified to be elected members of Parliament.
 
-- The Prime Minister shall-
+(2) The Prime Minister shall-
 
 (a) be the Leader of Government Business in Parliament and be responsible for the coordination and implementation of Government policies across Ministries, departments and other public institutions; and
 
 (b) perform  such  other  functions  as  may  be  assigned  to  him  or  her  by  the President, or as may be conferred on him or her by this Constitution or by law.
 
-- The  Prime  Minister  shall,  in  the  performance  of  his  or  her  functions,  be individually accountable to the President and collectively responsible for any decision made by the Cabinet.
+(3) The Prime Minister shall, in the performance of his or her functions, be individually accountable to the President and collectively responsible for any decision made by the Cabinet.
 
-- The office of the Prime Minister shall become vacant if-
+(4) The office of the Prime Minister shall become vacant if-
 
 (a) the appointment is revoked by the President;
 
@@ -3103,7 +3094,7 @@ Justice.
 
 #### 110. State of emergency.
 
-(1) The President may, in consultation with the Cabinet, by proclamation, declare that a  state  of  emergency  exists  in  Uganda  or  any  part  of  Uganda  if  the  President  is  satisfied  that circumstances exist in Uganda or in that part of Uganda-
+(1) The President may, in consultation with the Cabinet, by proclamation, declare that a state of emergency exists in Uganda or any part of Uganda if the President is satisfied that circumstances exist in Uganda or in that part of Uganda—
 
 (a) in which Uganda or that part of it is threatened by war or external aggression;
 
@@ -3179,11 +3170,11 @@ A Minister shall before assuming the duties of office take and subscribe the oat
 
 #### 116. Vacation of office of Minister.
 
-The office of a Minister shall become vacant-
+The office of a Minister shall become vacant—
 
 (a) if the appointment of the holder of the office is revoked by the President; or
 
-(b) if the holder-
+(b) if the holder—
 
 (i) resigns;
 
@@ -3197,7 +3188,7 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 #### 118. Vote of censure.
 
-(1) Parliament  may,  by  resolution  supported  by  more  than  half  of  all  members  of Parliament, pass a vote of censure against a Minister on any of the following grounds-
+(1) Parliament may, by resolution supported by more than half of all members of Parliament, pass a vote of censure against a Minister on any of the following grounds—
 
 (a) abuse of office or wilful violation of the oath of allegiance or oath of office;
 
@@ -3231,9 +3222,9 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 (2) A person shall not be qualified to be appointed Attorney General unless he or she is  qualified  to  practise  as  an  advocate  of  the  High  Court  and  has  so  practised  or  gained  the necessary experience for not less than ten years.
 
-- The Attorney General shall be the principal legal adviser of the Government.
+(3) The Attorney General shall be the principal legal adviser of the Government.
 
-- The functions of the Attorney General shall include the following-
+(4) The functions of the Attorney General shall include the following—
 
 (a) to give legal advice and legal services to the Government on any subject;
 
@@ -3269,7 +3260,7 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 (2) A person is not qualified to be appointed Director of Public Prosecutions unless he or she is qualified to be appointed a judge of the High Court.
 
-- The functions of the Director of Public Prosecutions are the following-
+(3) The functions of the Director of Public Prosecutions are the following—
 
 (a) to  direct  the  police  to  investigate  any  information  of  a  criminal  nature  and  to report to him or her expeditiously;
 
@@ -3279,7 +3270,7 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 (d) to discontinue at any stage before judgment is delivered, any criminal proceedings to which this article relates, instituted by himself or herself or any other person or authority;  except  that  the  Director  of  Public  Prosecutions  shall  not  discontinue any  proceedings  commenced  by  another  person  or  authority  except  with  the consent of the court.
 
-(4) The functions conferred on the Director of Public Prosecutions under clause (3) of this article-
+(4) The functions conferred on the Director of Public Prosecutions under clause (3) of this article—
 
 (a) may, in the case of the functions under clause (3)(a), (b) and (c) of this article, be exercised  by  him  or  her  in  person  or  by  officers  authorised  by  him  or  her  in accordance with general or specified instructions; and
 
@@ -3295,7 +3286,7 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 #### 121. Prerogative of mercy.
 
-(1) There shall be an Advisory Committee on the Prerogative of Mercy which shall consist of-
+(1) There shall be an Advisory Committee on the Prerogative of Mercy which shall consist of—
 
 (a) the Attorney General who shall be the chairperson; and
 
@@ -3303,13 +3294,13 @@ Ministers  shall  individually  be  accountable  to  the  President  for  the  a
 
 (2) A person shall not be qualified for appointment as a member of the committee if he or she is a member of Parliament, the Uganda Law Society or a district council.
 
-(3) A member appointed under clause (1)(b) of this article shall serve for a period of four years and shall cease to be a member of the committee-
+(3) A member appointed under clause (1)(b) of this article shall serve for a period of four years and shall cease to be a member of the committee—
 
 (a) if circumstances arise that would disqualify him or her from appointment; or
 
 (b) if  removed  by  the  President  for  inability  to  perform  the  functions  of  his  or  her office arising from infirmity of body or mind or for misbehaviour, misconduct or incompetence.
 
-- The President may, on the advice of the committee-
+(4) The President may, on the advice of the committee—
 
 (a) grant  to  any  person  convicted  of  an  offence  a  pardon  either  free  or  subject  to lawful conditions;
 
@@ -3367,9 +3358,7 @@ There  shall  be  a  National  Planning  Authority  whose  composition  and  fun
 
 [[START OF PAGE 60]]
 
-## Chapter The Judiciary.
-
-Eight
+## Chapter Eight The Judiciary.
 
 ### Administration of justice.
 
@@ -3377,7 +3366,7 @@ Eight
 
 (1) Judicial  power  is  derived  from  the  people  and  shall  be  exercised  by  the  courts established  under  this  Constitution in  the  name  of  the  people  and  in  conformity  with  law  and with the values, norms and aspirations of the people.
 
-(2) In adjudicating cases of both a civil and criminal nature, the courts shall, subject to the law, apply the following principles-
+(2) In adjudicating cases of both a civil and criminal nature, the courts shall, subject to the law, apply the following principles—
 
 (a) justice shall be done to all irrespective of their social or economic status;
 
@@ -3415,7 +3404,7 @@ Parliament  shall  make  law  providing  for  participation  of  the  people  in
 
 #### 129. The courts of judicature.
 
-- The judicial power of Uganda shall be exercised by the courts of judicature which shall consist of-
+(1) The judicial power of Uganda shall be exercised by the courts of judicature which shall consist of—
 
 (a) the Supreme Court of Uganda;
 
@@ -3425,7 +3414,7 @@ Parliament  shall  make  law  providing  for  participation  of  the  people  in
 
 (d) such  subordinate  courts  as  Parliament  may  by  law  establish,  including  qadhis courts for marriage, divorce, inheritance of property and guardianship, as may be prescribed by Parliament.
 
-- The Supreme Court, the Court of Appeal and the High Court of Uganda shall be superior courts of record and shall each have all the powers of such a court.
+(2) The Supreme Court, the Court of Appeal and the High Court of Uganda shall be superior courts of record and shall each have all the powers of such a court.
 
 60
 
@@ -3439,7 +3428,7 @@ Parliament  shall  make  law  providing  for  participation  of  the  people  in
 
 #### 130. Supreme Court of Uganda.
 
-The Supreme Court shall consist of-
+The Supreme Court shall consist of—
 
 (a) the Chief Justice; and
 
@@ -3455,7 +3444,7 @@ The Supreme Court shall consist of-
 
 #### 132. Jurisdiction of the Supreme Court.
 
-- The Supreme Court shall be the final court of appeal.
+(1) The Supreme Court shall be the final court of appeal.
 
 (2) An appeal  shall  lie  to  the  Supreme  Court  from  such  decisions  of  the  Court  of Appeal as may be prescribed by law.
 
@@ -3465,7 +3454,7 @@ The Supreme Court shall consist of-
 
 #### 133. Administrative functions of the Chief Justice.
 
-- The Chief Justice-
+(1) The Chief Justice—
 
 (a) shall be the head of the judiciary and shall be responsible for the administration and supervision of all courts in Uganda; and
 
@@ -3477,7 +3466,7 @@ The Supreme Court shall consist of-
 
 #### 134. Court of Appeal of Uganda.
 
-- The Court of Appeal of Uganda shall consist of-
+(1) The Court of Appeal of Uganda shall consist of—
 
 (a) the Deputy Chief Justice; and
 
@@ -3497,7 +3486,7 @@ The Supreme Court shall consist of-
 
 (2) The  Deputy  Chief  Justice  shall  preside  at  each  sitting  of  the  court  and  in  the absence of the Deputy Chief Justice, the most senior member of the court as constituted shall preside.
 
-(3) The  Chief  Justice,  in  consultation  with  the  Deputy  Chief  Justice,  may  create divisions of the Court of Appeal as the Chief Justice may consider necessary-
+(3) The Chief Justice, in consultation with the Deputy Chief Justice, may create divisions of the Court of Appeal as the Chief Justice may consider necessary—
 
 (a) consisting of such numbers of justices of Appeal as may be assigned to them by the Chief Justice;
 
@@ -3505,7 +3494,7 @@ The Supreme Court shall consist of-
 
 #### 136. Administrative functions of the Deputy Chief Justice.
 
-(1) Subject  to  the  provisions  of  article  133  of  this  Constitution,  the  Deputy  Chief Justice shall-
+(1) Subject to the provisions of article 133 of this Constitution, the Deputy Chief Justice shall—
 
 (a) deputise for the Chief Justice as and when the need arises;
 
@@ -3513,7 +3502,7 @@ The Supreme Court shall consist of-
 
 (c) perform such other functions as may be delegated or assigned to him or her by the Chief Justice.
 
-- Where-
+(2) Where—
 
 (a) the office of the Deputy Chief Justice is vacant;
 
@@ -3531,7 +3520,7 @@ then,  until  a  person  has  been  appointed  to  and  has  assumed  the  funct
 
 (2) When sitting as a constitutional court, the Court of Appeal shall consist of a bench of five members of that court.
 
-- A person who alleges that-
+(3) A person who alleges that—
 
 (a) an Act of Parliament or any other law or anything in or done under the authority of any law; or
 
@@ -3539,13 +3528,13 @@ then,  until  a  person  has  been  appointed  to  and  has  assumed  the  funct
 
 is  inconsistent  with  or  in  contravention  of  a  provision  of  this  Constitution,  may  petition  the constitutional court for a declaration to that effect, and for redress where appropriate.
 
-(4) Where  upon  determination  of  the  petition  under  clause  (3)  of  this  article  the constitutional court considers that there is need for redress in addition to the declaration sought, the constitutional court may-
+(4) Where upon determination of the petition under clause (3) of this article the constitutional court considers that there is need for redress in addition to the declaration sought, the constitutional court may—
 
 (a) grant an order of redress; or
 
 (b) refer  the  matter  to  the  High  Court  to  investigate  and  determine  the  appropriate redress.
 
-(5) Where  any  question  as  to  the  interpretation  of  this  Constitution  arises  in  any proceedings in a court of law other than a field court martial, the court-
+(5) Where any question as to the interpretation of this Constitution arises in any proceedings in a court of law other than a field court martial, the court—
 
 (a) may, if it is of the opinion that the question involves a substantial question of law; and
 
@@ -3567,13 +3556,13 @@ refer  the  question  to  the  constitutional  court  for  decision  in  accorda
 
 #### 138. High Court of Uganda.
 
-- The High Court of Uganda shall consist of-
+(1) The High Court of Uganda shall consist of—
 
 (a) the Principal Judge; and
 
 (b) such number of judges of the High Court as may be prescribed by Parliament.
 
-- The High Court shall sit in such places as the Chief Justice may, in consultation with the Principal Judge, appoint; and in so doing, the Chief Justice shall, as far as practicable, ensure that the High Court is accessible to all the people.
+(2) The High Court shall sit in such places as the Chief Justice may, in consultation with the Principal Judge, appoint; and in so doing, the Chief Justice shall, as far as practicable, ensure that the High Court is accessible to all the people.
 
 #### 139. Jurisdiction of the High Court.
 
@@ -3589,13 +3578,13 @@ refer  the  question  to  the  constitutional  court  for  decision  in  accorda
 
 #### 141. Administrative functions of the Principal Judge.
 
-(1) Subject to the provisions of article 133 of this Constitution, the Principal Judge shall-
+(1) Subject to the provisions of article 133 of this Constitution, the Principal Judge shall—
 
 (a) be the head of the High Court, and shall, in that capacity, assist the Chief Justice in the administration of the High Court and subordinate courts; and
 
 (b) perform such other functions as may be delegated or assigned to him or her by the Chief Justice.
 
-- Where-
+(2) Where—
 
 (a) the office of Principal Judge is vacant; or
 
@@ -3607,7 +3596,7 @@ then, until a person has been appointed to and has assumed the functions of that
 
 #### 142. Appointment of judicial officers.
 
-- The Chief Justice, the Deputy Chief Justice, the Principal Judge, a justice of the
+(1) The Chief Justice, the Deputy Chief Justice, the Principal Judge, a justice of the
 
 63
 
@@ -3617,7 +3606,7 @@ then, until a person has been appointed to and has assumed the functions of that
 
 Supreme Court,  a  justice  of  Appeal  and  a  judge  of  the  High  Court  shall  be  appointed  by  the President  acting  on  the  advice  of  the  Judicial  Service  Commission  and  with  the  approval  of Parliament.
 
-- Where-
+(2) Where—
 
 (a) the office of a justice of the Supreme Court or a justice of Appeal or a judge of the High Court is vacant;
 
@@ -3631,7 +3620,7 @@ the President may, acting on the advice of the Judicial Service Commission, appo
 
 #### 143. Qualifications for appointment of judicial officers.
 
-- A person shall be qualified for appointment as-
+(1) A person shall be qualified for appointment as—
 
 (a) Chief Justice, if he or she has served as a justice of the Supreme Court of Uganda or  of  a  court  having  similar  jurisdiction  or  has  practised  as  an  advocate  for  a period not less than twenty years before a court having unlimited jurisdiction in civil and criminal matters;
 
@@ -3639,7 +3628,7 @@ the President may, acting on the advice of the Judicial Service Commission, appo
 
 (c) a justice of the Supreme Court, if he or she has served as a justice of Appeal or a judge of the High Court or a court of similar jurisdiction to such a court or has practised  as  an  advocate  for  a  period  not  less  than  fifteen  years  before  a  court having unlimited jurisdiction in civil and criminal matters;
 
-(d) a justice of Appeal, if he or she has served as a judge of the High Court or a court having similar or higher jurisdiction or has practised as an advocate for a period not  less  than  ten  years  before  a  court  having  unlimited  jurisdiction  in  civil  and criminal matters or is a distinguished jurist and an advocate of not less than ten years' standing;
+(d) a justice of Appeal, if he or she has served as a judge of the High Court or a court having similar or higher jurisdiction or has practised as an advocate for a period not less than ten years before a court having unlimited jurisdiction in civil and criminal matters or is a distinguished jurist and an advocate of not less than ten years’ standing;
 
 (e) a judge of the High Court, if he or she is or has been a judge of a court having unlimited jurisdiction in civil and criminal matters or a court having jurisdiction in appeals from any such court or has practised as an advocate for a period not less  than  ten  years  before  a  court  having  unlimited  jurisdiction  in  civil  and criminal matters.
 
@@ -3647,7 +3636,7 @@ the President may, acting on the advice of the Judicial Service Commission, appo
 
 #### 144. Tenure of office of judicial officers.
 
-(1) A judicial officer may retire at any time after attaining the age of sixty years, and shall vacate his or her office-
+(1) A judicial officer may retire at any time after attaining the age of sixty years, and shall vacate his or her office—
 
 (a) in the case of the Chief Justice, the Deputy Chief Justice, a justice of the Supreme Court and a justice of Appeal, on attaining the age of seventy years; and
 
@@ -3665,7 +3654,7 @@ age of sixty-five years; or
 
 but a judicial officer may continue in office after attaining the age at which he or she is required by this clause to vacate office, for a period not exceeding three months necessary to enable him or her to complete any work pending before him or her.
 
-- A judicial officer may be removed from office only for-
+(2) A judicial officer may be removed from office only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of body or mind;
 
@@ -3677,19 +3666,19 @@ but only in accordance with the provisions of this article.
 
 (3) The President shall remove a judicial officer if the question of his or her removal has  been  referred  to  a  tribunal  appointed  under  clause  (4)  of  this  article  and  the  tribunal  has recommended to the President that he or she ought to be removed from office on any ground described in clause (2) of this article.
 
-(4) The question whether the removal of a judicial officer should be investigated shall be referred to the President by either the Judicial Service Commission or the Cabinet with advice that  the  President  should  appoint  a  tribunal;  and  the  President  shall  then  appoint  a  tribunal consisting of-
+(4) The question whether the removal of a judicial officer should be investigated shall be referred to the President by either the Judicial Service Commission or the Cabinet with advice that the President should appoint a tribunal; and the President shall then appoint a tribunal consisting of—
 
-(a) in the case of the Chief Justice, the Deputy Chief Justice or the Principal Judge, five persons who are or have been justices of the Supreme Court or are or have been judges of a court having similar jurisdiction or who are advocates of at least twenty years' standing;
+(a) in the case of the Chief Justice, the Deputy Chief Justice or the Principal Judge, five persons who are or have been justices of the Supreme Court or are or have been judges of a court having similar jurisdiction or who are advocates of at least twenty years’ standing;
 
-(b) in the case of a justice of the Supreme Court or a justice of Appeal, three persons who are  or  have  been  justices  of  the  Supreme  Court  or  who  are  or  have  been judges of a court of similar jurisdiction or who are advocates of at least fifteen years' standing; or
+(b) in the case of a justice of the Supreme Court or a justice of Appeal, three persons who are or have been justices of the Supreme Court or who are or have been judges of a court of similar jurisdiction or who are advocates of at least fifteen years’ standing; or
 
-(c) in the case of a judge of the High Court, three persons who are or have held office as judges of a court having unlimited jurisdiction in civil and criminal matters or a court having jurisdiction in appeals from such a court or who are advocates of at least ten years' standing.
+(c) in the case of a judge of the High Court, three persons who are or have held office as judges of a court having unlimited jurisdiction in civil and criminal matters or a court having jurisdiction in appeals from such a court or who are advocates of at least ten years’ standing.
 
 (5) If  the  question of removing a judicial officer is referred to a tribunal under this article, the President shall suspend the judicial officer from performing the functions of his or her office.
 
 (6) A  suspension  under  clause  (5)  of  this  article  shall  cease  to  have  effect  if  the tribunal advises the President that the judicial officer suspended should not be removed.
 
-(7) For  the  purposes  of  this  article,  'judicial  officer'  means  the  Chief  Justice,  the Deputy Chief Justice, the Principal Judge, a justice of the Supreme Court, a justice of Appeal or a judge of the High Court.
+(7) For the purposes of this article, “judicial officer” means the Chief Justice, the Deputy Chief Justice, the Principal Judge, a justice of the Supreme Court, a justice of Appeal or a judge of the High Court.
 
 #### 145. Registrars.
 
@@ -3701,9 +3690,9 @@ but only in accordance with the provisions of this article.
 
 #### 146. Judicial Service Commission.
 
-- There shall be a Judicial Service Commission.
+(1) There shall be a Judicial Service Commission.
 
-(2) The Judicial Service Commission shall, subject to clause (3) of this article, consist of  the  following  persons  who  shall  be  appointed  by  the  President  with  the  approval  of Parliament-
+(2) The Judicial Service Commission shall, subject to clause (3) of this article, consist of the following persons who shall be appointed by the President with the approval of Parliament—
 
 (a) a  chairperson  and  a  deputy  chairperson  who  shall  be  persons  qualified  to  be
 
@@ -3717,13 +3706,13 @@ appointed  as  justices  of  the  Supreme  Court,  other  than  the  Chief  Just
 
 (b) one person nominated by the Public Service Commission;
 
-(c) two advocates of not less than fifteen years' standing nominated by the Uganda Law Society;
+(c) two advocates of not less than fifteen years’ standing nominated by the Uganda Law Society;
 
 (d) one judge of the Supreme Court nominated by the President in consultation with the judges of the Supreme Court, the justices of Appeal and judges of the High Court; and
 
 (e) two members of the public, who shall not be lawyers, nominated by the President.
 
-- The Attorney General shall be an ex officio member of the commission.
+(3) The Attorney General shall be an ex officio member of the commission.
 
 (4) The  Chief  Justice,  the  Deputy  Chief  Justice  and  Principal  Judge  shall  not  be appointed to be chairperson, deputy chairperson or a member  of  the Judicial Service Commission.
 
@@ -3731,7 +3720,7 @@ appointed  as  justices  of  the  Supreme  Court,  other  than  the  Chief  Just
 
 (6) The  office  of  chairperson  shall  be  full  time,  and  a  person  shall  not  engage  in private legal practice while holding that office.
 
-(7) Subject  to  the  provisions  of  this  article,  a  member  of  the  Judicial  Service Commission shall vacate his or her office-
+(7) Subject to the provisions of this article, a member of the Judicial Service Commission shall vacate his or her office—
 
 (a) at  the  expiration  of  four  years  from  the  date  of  his  or  her  appointment  but  is eligible for reappointment for one more term;
 
@@ -3743,15 +3732,15 @@ appointed  as  justices  of  the  Supreme  Court,  other  than  the  Chief  Just
 
 #### 147. Functions of the Judicial Service Commission.
 
-- The functions of the Judicial Service Commission are-
+(1) The functions of the Judicial Service Commission are—
 
-(a) to advise the President in the exercise of the President's power to appoint persons to hold or act in any office specified in clause (3) of this article, which includes power to confirm appointments, to exercise disciplinary control over such persons and to remove them from office;
+(a) to advise the President in the exercise of the President’s power to appoint persons to hold or act in any office specified in clause (3) of this article, which includes power to confirm appointments, to exercise disciplinary control over such persons and to remove them from office;
 
 (b) subject to the provisions of this Constitution, to review and make recommendations  on  the  terms  and  conditions  of  service  of  judges  and  other judicial officers;
 
 (c) to prepare and  implement  programmes  for  the  education  of,  and  for the dissemination of information to, judicial officers and the public about law and the administration of justice;
 
-(d) to receive and process people's recommendations and complaints concerning the judiciary and the administration of justice and, generally, to act as a link between the people and the judiciary;
+(d) to receive and process people’s recommendations and complaints concerning the judiciary and the administration of justice and, generally, to act as a link between the people and the judiciary;
 
 (e) to advise the Government on improving the administration of justice; and
 
@@ -3759,7 +3748,7 @@ appointed  as  justices  of  the  Supreme  Court,  other  than  the  Chief  Just
 
 (2) In  the  performance  of  its  functions,  the  Judicial  Service  Commission  shall  be independent and shall not be subject to the direction or control of any person or authority.
 
-- The offices referred to in clause (1)(a) of this article are-
+(3) The offices referred to in clause (1)(a) of this article are—
 
 (a) the  office  of  the  Chief  Justice,  the  Deputy  Chief  Justice,  the  Principal  Judge,  a justice of the Supreme Court, a justice of Appeal and a judge of the High Court; and
 
@@ -3787,7 +3776,7 @@ Every judicial officer shall, before assuming the duties of his or her office, t
 
 #### 151. Interpretation.
 
-In this Chapter, unless the context otherwise requires, 'judicial officer' means-
+In this Chapter, unless the context otherwise requires, “judicial officer” means—
 
 (a) a judge or any person who presides over a court or tribunal howsoever described;
 
@@ -3795,19 +3784,17 @@ In this Chapter, unless the context otherwise requires, 'judicial officer' means
 
 (c) such other person holding any office connected with a court as may be prescribed by law.
 
-## Chapter Finance.
+## Chapter Nine Finance.
 
 ### General.
 
 #### 152. Taxation.
 
-- No tax shall be imposed except under the authority of an Act of Parliament.
+(1) No tax shall be imposed except under the authority of an Act of Parliament.
 
-- Where a law enacted under clause (1) of this article confers powers on any person or authority to waive or vary a tax imposed by that law, that person or authority shall report to Parliament periodically on the exercise of those powers, as shall be determined by law.
+(2) Where a law enacted under clause (1) of this article confers powers on any person or authority to waive or vary a tax imposed by that law, that person or authority shall report to Parliament periodically on the exercise of those powers, as shall be determined by law.
 
-- Parliament shall make laws to establish tax tribunals for the purposes of settling tax disputes.
-
-Nine
+(3) Parliament shall make laws to establish tax tribunals for the purposes of settling tax disputes.
 
 67
 
@@ -3819,7 +3806,7 @@ Nine
 
 (1) There shall be a Consolidated Fund into which shall be paid all revenues or other monies raised or received for the purpose of, or on behalf of, or in trust for the Government.
 
-(2) The  revenues  or  other  monies  referred  to  in  clause  (1)  of  this  article  shall  not include revenues or other monies-
+(2) The revenues or other monies referred to in clause (1) of this article shall not include revenues or other monies—
 
 (a) that  are  payable  by  or  under  an  Act  of  Parliament,  into  some  other  fund established for a specific purpose; or
 
@@ -3827,7 +3814,7 @@ Nine
 
 #### 154. Withdrawal from the Consolidated Fund.
 
-- No monies shall be withdrawn from the Consolidated Fund except-
+(1) No monies shall be withdrawn from the Consolidated Fund except—
 
 (a) to  meet  expenditure  charged  on  the  fund  by  this  Constitution  or  by  an  Act  of Parliament; or
 
@@ -3839,7 +3826,7 @@ Nine
 
 (4) If the President is satisfied that the Appropriation Act in respect of any financial year will not or has not come into operation by the beginning of that financial year, the President may, subject to the provisions of this article, authorise the issue of monies from the Consolidated Fund Account for the purposes of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation Act, whichever is the earlier.
 
-(5) Any sum issued in any financial year from the Consolidated Fund Account under clause (4) of this article in respect of any service of the Government-
+(5) Any sum issued in any financial year from the Consolidated Fund Account under clause (4) of this article in respect of any service of the Government—
 
 (a) shall  not  exceed  the  amount  shown  as  required  on  account  in  respect  of  that service  in  the  vote  on  account  approved  by  Parliament  by  resolution  for  that financial year; and
 
@@ -3855,9 +3842,11 @@ Nine
 
 (4) At any time before Parliament considers the estimates of revenues and expenditure laid before it by or on the authority of the President, an appropriate committee of Parliament  may  discuss  and  review  the  estimates  and  make  appropriate  recommendations  to Parliament.
 
-(5) Notwithstanding  the  provisions  of  clause  (1)  of  this  article,  the  President  may cause to be prepared and laid before Parliament-
+(5) Notwithstanding the provisions of clause (1) of this article, the President may cause to be prepared and laid before Parliament—
 
-(a) fiscal and monetary programmes and plans for economic and social development covering periods exceeding one year; (b) estimates of revenues and expenditure covering periods exceeding one year.
+(a) fiscal and monetary programmes and plans for economic and social development covering periods exceeding one year;
+
+(b) estimates of revenues and expenditure covering periods exceeding one year.
 
 68
 
@@ -3865,13 +3854,13 @@ Nine
 
 [[START OF PAGE 69]]
 
-- Parliament may make laws for giving effect to the provisions of this article.
+(6) Parliament may make laws for giving effect to the provisions of this article.
 
 #### 156. Appropriation Bill.
 
 (1) The  heads  of  expenditure  contained  in  the  estimates,  other  than  expenditure charged  on  the  Consolidated  Fund  by  this  Constitution  or  any  Act  of  Parliament,  shall  be included in a bill to be known as an Appropriation Bill which shall be introduced into Parliament to  provide  for  the  issue  from  the  Consolidated  Fund  of  the  sums  necessary  to  meet  that expenditure and the appropriation of those sums for the purposes specified in the bill.
 
-- If in respect of any financial year it is found-
+(2) If in respect of any financial year it is found—
 
 (a) that  the  amount  appropriated  for  any  purpose  under  the  Appropriation  Act  is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by that Act; or
 
@@ -3897,13 +3886,13 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (2) Government shall not borrow, guarantee, or raise a loan on behalf of itself or any other  public  institution,  authority  or  person  except  as  authorised  by  or  under  an  Act  of Parliament.
 
-- An Act of Parliament made under clause (2) of this article shall provide-
+(3) An Act of Parliament made under clause (2) of this article shall provide—
 
 (a) that the terms and conditions of the loan shall be laid before Parliament and shall not  come  into  operation  unless  they  have  been  approved  by  a  resolution  of Parliament; and
 
 (b) that any monies received in respect of that loan shall be paid into the Consolidated Fund and form part of that fund or into some other public fund which is existing or is created for the purpose of the loan.
 
-(4) The  President  shall,  at  such  times  as  Parliament  may  determine,  cause  to  be presented to Parliament such information concerning any loan as is necessary to show-
+(4) The President shall, at such times as Parliament may determine, cause to be presented to Parliament such information concerning any loan as is necessary to show—
 
 (a) the extent of the total indebtedness by way of principal and accumulated interest;
 
@@ -3921,7 +3910,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (6) An  agreement  entered  into  under  clause  (5)  of  this  article  shall  be  laid  before Parliament  and  shall  not  come  into  operation  unless  it  has  been  approved  by  Parliament  by resolution.
 
-(7) For the purposes of this article, the expression 'loan' includes any money lent or given  to  or  by  the  Government  on  condition  of  return  or  repayment  and  any  other  form  of borrowing or lending in respect of which-
+(7) For the purposes of this article, the expression “loan” includes any money lent or given to or by the Government on condition of return or repayment and any other form of borrowing or lending in respect of which—
 
 (a) monies  from  the  Consolidated  Fund  or  any  other  public  fund  may  be  used  for payment or repayment; or
 
@@ -3943,7 +3932,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (2) The authority of the Bank of Uganda shall vest in a board which shall consist of a governor, a deputy governor and not more than five other members.
 
-(3) The governor, the deputy governor and all other members of the board shall-
+(3) The governor, the deputy governor and all other members of the board shall—
 
 (a) be appointed by the President with the approval of Parliament;
 
@@ -3951,7 +3940,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (4) The office of governor and deputy governor shall each be a public office, and the governor and deputy governor shall respectively be chairperson and deputy chairperson of the board.
 
-(5) The  governor,  the  deputy  governor  or  any  other  member  of  the  board  may  be removed from office by the President only for-
+(5) The governor, the deputy governor or any other member of the board may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of body or mind;
 
@@ -3961,7 +3950,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 #### 162. Functions of the bank.
 
-- The Bank of Uganda shall-
+(1) The Bank of Uganda shall—
 
 (a) promote and maintain the stability of the value of the currency of Uganda;
 
@@ -3987,13 +3976,13 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (1) There shall be an Auditor General who shall be appointed by the President with the approval of Parliament.
 
-- A person shall not be appointed Auditor General unless that person-
+(2) A person shall not be appointed Auditor General unless that person—
 
-(a) is a qualified accountant of not less than fifteen years' standing; and
+(a) is a qualified accountant of not less than fifteen years’ standing; and
 
 (b) is a person of high moral character and proven integrity.
 
-- The Auditor General shall-
+(3) The Auditor General shall—
 
 (a) audit  and  report  on  the  public  accounts  of  Uganda  and  of  all  public  offices, including the courts, the central and local government administrations, universities and public institutions of like nature, and any public corporation or other bodies or organisations established by an Act of Parliament;
 
@@ -4015,7 +4004,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (9) The accounts of the office of the Auditor General shall be audited and reported upon by an auditor appointed by Parliament.
 
-(10) The Auditor General may be removed from office by the President only for-
+(10) The Auditor General may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of body or mind;
 
@@ -4029,7 +4018,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (13) Any question for the removal of the Auditor General shall be referred to a tribunal appointed by the President, which shall submit its findings to the President; and the President may remove the Auditor General if the tribunal recommends that he or she should be removed on any of the grounds specified in clause (10).
 
-(14) Where  the  question  for removal  of the  Auditor  General  involves  an allegation that the Auditor General is incapable of performing the functions of his or her office arising from infirmity of body or mind, the President shall, on the advice of the head of  the  Health  Services  of  Uganda,  appoint  a  medical  board  which  shall  investigate  the matter and report its findings to the President with a copy to the tribunal. (15) Where a tribunal is appointed by the President under clause (13) in respect of the Auditor General, the President shall suspend that Auditor General from performing the functions of his or her office. (16) A  suspension  under  clause  (15)  shall  cease  to  have  effect  if  the  tribunal advises the President that the Auditor General suspended should not be removed. (17) Parliament shall make laws to regulate and facilitate the performance of the functions of the Auditor General.
+(14) Where the question for removal of the Auditor General involves an allegation that the Auditor General is incapable of performing the functions of his or her office arising from infirmity of body or mind, the President shall, on the advice of the head
 
 71
 
@@ -4037,9 +4026,21 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 [[START OF PAGE 72]]
 
+of the Health Services of Uganda, appoint a medical board which shall investigate the matter and report its findings to the President with a copy to the tribunal.
+
+(15) Where a tribunal is appointed by the President under clause (13) in respect of the Auditor General, the President shall suspend that Auditor General from performing the functions of his or her office.
+
+(16) A suspension under clause (15) shall cease to have effect if the tribunal advises the President that the Auditor General suspended should not be removed.
+
+(17) Parliament shall make laws to regulate and facilitate the performance of the functions of the Auditor General.
+
 #### 164. Accountability.
 
-(1) The  Permanent  Secretary  or  the  accounting  officer  in  charge  of  a  Ministry  or department shall be accountable to Parliament for the funds in that Ministry or department. (2) Any person holding a political or public office who directs or concurs in the use of public funds contrary to existing instructions shall be accountable for any loss arising from that use and shall be required to make good the loss even if he or she has ceased to hold that office. (3) Parliament shall monitor all expenditure of public funds.
+(1) The Permanent Secretary or the accounting officer in charge of a Ministry or department shall be accountable to Parliament for the funds in that Ministry or department.
+
+(2) Any person holding a political or public office who directs or concurs in the use of public funds contrary to existing instructions shall be accountable for any loss arising from that use and shall be required to make good the loss even if he or she has ceased to hold that office.
+
+(3) Parliament shall monitor all expenditure of public funds.
 
 72
 
@@ -4047,19 +4048,19 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 [[START OF PAGE 73]]
 
-## Chapter The Public Service.
+## Chapter Ten The Public Service.
 
 ### Public Service Commission.
 
 #### 165. Public Service Commission.
 
-- There shall be a Public Service Commission.
+(1) There shall be a Public Service Commission.
 
 (2) The commission shall consist of a chairperson,  a deputy chairperson and seven other members appointed by the President with the approval of Parliament.
 
 (3) A person is not qualified to be appointed a member of the commission unless he or she is of high moral character and proven integrity.
 
-(4) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission-
+(4) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission—
 
 (a) a member of Parliament;
 
@@ -4075,7 +4076,7 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 (7) In the absence of both the chairperson and the deputy chairperson, the President may designate one of the members to act as chairperson.
 
-(8) A member of the commission may be removed from office by the President only for-
+(8) A member of the commission may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of body or mind;
 
@@ -4085,11 +4086,9 @@ Parliament shall make provision for the establishment of a Contingencies Fund an
 
 #### 166. Functions of the Public Service Commission.
 
-(1) Except  as  otherwise  provided  in  this  Constitution,  the  functions  of  the  Public Service Commission include-
+(1) Except as otherwise provided in this Constitution, the functions of the Public Service Commission include—
 
 (a) to advise the President in performing his or her functions under article 172 of this Constitution;
-
-Ten
 
 73
 
@@ -4117,7 +4116,7 @@ Ten
 
 #### 167. Education Service Commission.
 
-- There shall be an Education Service Commission.
+(1) There shall be an Education Service Commission.
 
 (2) The commission shall consist of a chairperson and six other members appointed by the President with the approval of Parliament.
 
@@ -4125,7 +4124,7 @@ Ten
 
 (4) A person is not qualified to be a member of the commission unless he or she is of high  moral  character  and  proven  integrity  and  has  substantial  experience  in  the  field  of education.
 
-(5) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission-
+(5) A person holding any of the following offices shall relinquish his or her position in that office on appointment as a member of the commission—
 
 (a) a member of Parliament;
 
@@ -4143,7 +4142,7 @@ Ten
 
 (8) In the absence of both the chairperson and deputy chairpersons, the President may designate one of the members to act as chairperson.
 
-(9) A member of the commission may be removed from office by the President only for-
+(9) A member of the commission may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of body or mind;
 
@@ -4159,7 +4158,7 @@ Ten
 
 [[START OF PAGE 75]]
 
-- Subject to the provisions of this Constitution, the Education Service Commission shall-
+(1) Subject to the provisions of this Constitution, the Education Service Commission shall—
 
 (a) advise the President in performing, in relation to the education service, his or her functions under article 172 of this Constitution;
 
@@ -4181,7 +4180,7 @@ Ten
 
 #### 169. Health Service Commission.
 
-- There shall be a Health Service Commission.
+(1) There shall be a Health Service Commission.
 
 (2) The  commission  shall  consist  of  a  chairperson  and  six  other  members  at  least three of whom shall be persons who have substantial experience in health science, all of whom shall be appointed by the President with the approval of Parliament.
 
@@ -4189,7 +4188,7 @@ Ten
 
 (4) A person is not qualified to be a member of the commission unless he or she is of high moral character and proven integrity.
 
-(5) A person holding any of the following offices shall relinquish his or her office on appointment as a member of the commission-
+(5) A person holding any of the following offices shall relinquish his or her office on appointment as a member of the commission—
 
 (a) a member of Parliament;
 
@@ -4207,7 +4206,7 @@ Ten
 
 (8) In the absence of both the chairperson and the deputy chairperson, the President may designate one of the members to act as chairperson.
 
-(9) A member of the commission may be removed from office by the President only for-
+(9) A member of the commission may be removed from office by the President only for—
 
 (a) inability  to  perform  the  functions  of  his  or  her  office  arising  from  infirmity  of
 
@@ -4225,7 +4224,7 @@ body or mind;
 
 #### 170. Functions of the Health Service Commission.
 
-- Subject  to  the  provisions  of  this  Constitution,  the  Health  Service  Commission shall-
+(1) Subject to the provisions of this Constitution, the Health Service Commission shall—
 
 (a) advise  the  President  in  performing,  in  relation  to  the  health  service,  his  or  her functions under article 172 of this Constitution;
 
@@ -4235,7 +4234,7 @@ body or mind;
 
 (d) perform  such  other  functions  as  may  be  prescribed  by  this  Constitution  or  any other law.
 
-- In the exercise of its functions, the Commission shall be independent and shall not be  subject  to  the  direction  or  control  of  any  person  or  authority;  except  that  it  shall  take  into account government policy relating to health.
+(2) In the exercise of its functions, the Commission shall be independent and shall not be subject to the direction or control of any person or authority; except that it shall take into account government policy relating to health.
 
 (3) The commission may, by writing, delegate any of its functions to a district service commission or any other authority or officer.
 
@@ -4251,7 +4250,7 @@ Subject to the provisions of this Constitution and any Act of Parliament, the Pr
 
 #### 172. Appointment of public officers.
 
-- Subject to the provisions of this Constitution-
+(1) Subject to the provisions of this Constitution—
 
 (a) the  President  may,  acting  in  accordance  with  the  advice  of  the  Public  Service Commission, the Education Service Commission or the Health Service Commission, as the case may be, appoint persons to hold or act in any office in the  public  service  of  Uganda  of  the  rank  of  head  of  department  or  above  other than those referred to in article 200 of this Constitution, including confirmation of appointments,  the  exercise  of  disciplinary  control  over  such  persons  and  their removal from office;
 
@@ -4259,7 +4258,7 @@ Subject to the provisions of this Constitution and any Act of Parliament, the Pr
 
 (2) Except with the consent of the President, no person shall be appointed under this article to act in any office on the personal staff of the President.
 
-- Subject to the provisions of this Constitution, the President may delegate any of his or her powers under this article by directions in writing, to any service commission or to any
+(3) Subject to the provisions of this Constitution, the President may delegate any of his or her powers under this article by directions in writing, to any service commission or to any
 
 76
 
@@ -4303,7 +4302,7 @@ A public officer shall not be-
 
 (2) A Permanent Secretary shall be appointed by the President acting in accordance with the advice of the Public Service Commission.
 
-- The functions of a Permanent Secretary under this article include-
+(3) The functions of a Permanent Secretary under this article include—
 
 (a) organisation and operation of the department or Ministry;
 
@@ -4327,7 +4326,7 @@ In this Chapter, unless the context otherwise requires-
 
 [[START OF PAGE 78]]
 
-## Chapter Local Government.
+## Chapter Eleven Local Government.
 
 ### Principles and structures of local government.
 
@@ -4361,7 +4360,7 @@ In this Chapter, unless the context otherwise requires-
 
 #### 178. Regional governments.
 
-Eleven
+
 
 78
 
@@ -4369,9 +4368,53 @@ Eleven
 
 [[START OF PAGE 79]]
 
-(1) Two  or  more  districts  may  cooperate  to  form  a  regional  government  to perform the functions and services specified in the Fifth Schedule to this Constitution. (2) A  district  shall  not  be  taken  to  have  agreed  to  enter  into  a  cooperation arrangement to form a regional government unless(a) the proposal  to join  the  regional  government  has  been  approved  by resolution of the district council by a majority of two thirds of the members of the district council; and (b) the  decision  of  the  district  council  has  been  ratified  by  not  less  than  twothirds of the subcounty councils in the district. (3) Subject to clause (1) and to the provisions of this Constitution, the districts of the  regions  of  Buganda,  Bunyoro,  Busoga,  Acholi  and  Lango,  specified  in  the  First Schedule to this Constitution, shall be deemed to have agreed to form regional governments for the purposes of this article. (4) The  headquarters  of the regional  governments  deemed  to  have  been established in clause (3) of this article shall be as follows(a) in Buganda, Mengo Municipality which shall be created by Parliament; (b) in Bunyoro, Hoima Municipality which shall be created by Parliament; (c) in Busoga, Jinja Municipality; (d) in Acholi, Gulu Municipality; and (e) in Lango, Lira Municipality. (5) The districts forming the regional government shall form a regional assembly. (6) A regional government shall be a body corporate with power to sue and be sued and shall have power to do all things that may be done by a body corporate and shall be subject to all obligations to which a body corporate is subject. (7) Notwithstanding article 180, a regional government formed under this article shall be the highest political authority within its region and shall have political, legislative, executive, administrative and cultural functions in the region. (8) A regional government shall in particular have in relation to the region, the functions and services conferred upon a regional government in the Fifth Schedule to this Constitution and may make laws which shall have the force of law in the region. (9) A regional assembly shall have power to legislate on matters within its jurisdiction. (10) Subject to this article and to the Fifth Schedule to this Constitution, the executive and administrative powers of a regional government shall extend to the execution and implementation of the laws enacted by the regional assembly and other  laws operating in the region and the management of the affairs of the regional government. (11) The laws made by the regional assembly shall be in conformity with this Constitution and the national laws  shall be consistent with national policies. (12) The provisions of the Fifth Schedule to this Constitution shall have effect in respect of the matters specified in it in relation to regional governments. (13) Regional governments shall commence on 1 st July, 2006.
-#### 178A.   Grants for districts not forming regional governments.
-(1) A district which does not wish or is not able to enter into a cooperation arrangement to form a regional government shall be paid an equalisation grant. (2) The equalisation grant payable under clause (1) shall be based on the incremental costs met by the Central Government in managing the regional government. (3) The President shall cause to be presented to Parliament, proposals for
+(1) Two or more districts may cooperate to form a regional government to perform the functions and services specified in the Fifth Schedule to this Constitution.
+
+(2) A district shall not be taken to have agreed to enter into a cooperation arrangement to form a regional government unless—
+
+(a) the proposal to join the regional government has been approved by resolution of the district council by a majority of two thirds of the members of the district council; and
+
+(b) the decision of the district council has been ratified by not less than two-thirds of the subcounty councils in the district.
+
+(3) Subject to clause (1) and to the provisions of this Constitution, the districts of the regions of Buganda, Bunyoro, Busoga, Acholi and Lango, specified in the First Schedule to this Constitution, shall be deemed to have agreed to form regional governments for the purposes of this article.
+
+(4) The headquarters of the regional governments deemed to have been established in clause (3) of this article shall be as follows—
+
+(a) in Buganda, Mengo Municipality which shall be created by Parliament;
+
+(b) in Bunyoro, Hoima Municipality which shall be created by Parliament;
+
+(c) in Busoga, Jinja Municipality;
+
+(d) in Acholi, Gulu Municipality; and
+
+(e) in Lango, Lira Municipality.
+
+(5) The districts forming the regional government shall form a regional assembly.
+
+(6) A regional government shall be a body corporate with power to sue and be sued and shall have power to do all things that may be done by a body corporate and shall be subject to all obligations to which a body corporate is subject.
+
+(7) Notwithstanding article 180, a regional government formed under this article shall be the highest political authority within its region and shall have political, legislative, executive, administrative and cultural functions in the region.
+
+(8) A regional government shall in particular have in relation to the region, the functions and services conferred upon a regional government in the Fifth Schedule to this Constitution and may make laws which shall have the force of law in the region.
+
+(9) A regional assembly shall have power to legislate on matters within its jurisdiction.
+
+(10) Subject to this article and to the Fifth Schedule to this Constitution, the executive and administrative powers of a regional government shall extend to the execution and implementation of the laws enacted by the regional assembly and other laws operating in the region and the management of the affairs of the regional government.
+
+(11) The laws made by the regional assembly shall be in conformity with this Constitution and the national laws shall be consistent with national policies.
+
+(12) The provisions of the Fifth Schedule to this Constitution shall have effect in respect of the matters specified in it in relation to regional governments.
+
+(13) Regional governments shall commence on 1st July, 2006.
+
+#### 178A. Grants for districts not forming regional governments.
+
+(1) A district which does not wish or is not able to enter into a cooperation arrangement to form a regional government shall be paid an equalisation grant.
+
+(2) The equalisation grant payable under clause (1) shall be based on the incremental costs met by the Central Government in managing the regional government.
+
+(3) The President shall cause to be presented to Parliament, proposals for
 
 79
 
@@ -4385,7 +4428,7 @@ the money to be paid out of the Consolidated Fund as equalisation grants under c
 
 #### 179. Boundaries of local government units.
 
-- Subject to the provisions of this Constitution, Parliament may-
+(1) Subject to the provisions of this Constitution, Parliament may—
 
 (a) alter the boundaries of districts; and
 
@@ -4439,13 +4482,13 @@ the money to be paid out of the Consolidated Fund as equalisation grants under c
 
 #### 183. District chairperson.
 
-- There shall be a district chairperson who shall-
+(1) There shall be a district chairperson who shall—
 
 (a) be the political head of the district; and
 
 (b) be elected by universal adult suffrage through a secret ballot.
 
-- A person is not qualified to be elected district chairperson unless he or she is-
+(2) A person is not qualified to be elected district chairperson unless he or she is—
 
 (a) qualified to be elected a member of Parliament;
 
@@ -4453,7 +4496,7 @@ the money to be paid out of the Consolidated Fund as equalisation grants under c
 
 (c) a person ordinarily resident in the district.
 
-- The district chairperson shall-
+(3) The district chairperson shall—
 
 (a) preside at meetings of the executive committee of the district;
 
@@ -4563,7 +4606,7 @@ the money to be paid out of the Consolidated Fund as equalisation grants under c
 
 #### 189. Functions of the Government and district councils.
 
-- Subject to the provisions of this Constitution, the functions and services specified
+(1) Subject to the provisions of this Constitution, the functions and services specified
 
 82
 
@@ -4641,7 +4684,7 @@ Parliament shall by law provide-
 
 (3) The  members  of  the  Local  Government  Finance  Commission  shall  elect  from among themselves a chairperson and a vice chairperson.
 
-- The Local Government Finance Commission shall-
+(4) The Local Government Finance Commission shall—
 
 (a) advise the President on all matters concerning the distribution of revenue between the Government  and  local governments and the allocation to each local government of monies out of the Consolidated Fund;
 
@@ -4677,9 +4720,9 @@ Urban authorities shall have autonomy over their financial and planning matters 
 
 #### 198. District service commissions.
 
-- There shall be a district service commission for each district.
+(1) There shall be a district service commission for each district.
 
-- The  district  service  commission  shall  consist  of  a  chairperson  and  such  other
+(2) The district service commission shall consist of a chairperson and such other
 
 84
 
@@ -4743,7 +4786,7 @@ The functions of a district government shall be exercised in accordance with thi
 
 (3) Unless approved by Parliament for a longer term, the exercise by the President of the power conferred by this article shall be for a period not exceeding ninety days.
 
-- Upon the expiry of the term under clause (3) of this article-
+(4) Upon the expiry of the term under clause (3) of this article—
 
 (a) the President shall hand back the administration of the district to the incumbent district government; or
 
@@ -4777,7 +4820,7 @@ Parliament shall prescribe the guidelines to be followed by the district council
 
 #### 205. Prohibition of holding political offices concurrently.
 
-- No person shall hold concurrently on a full-time basis, political offices-
+(1) No person shall hold concurrently on a full-time basis, political offices—
 
 (a) in the service of the Government and that of a local government; or
 
@@ -4815,13 +4858,13 @@ In this Chapter, a reference to a local government includes-
 
 (d) any  other  unit  prescribed  by  law  to  replace  any  of  the  councils  mentioned  in paragraphs (a), (b) and (c) of this article.
 
-## Chapter Defence and National Security.
+## Chapter Twelve Defence and National Security.
 
 ### Uganda Peoples' Defence Forces.
 
 #### 208. Uganda Peoples' Defence Forces.
 
-- There shall be armed forces to be known as the Uganda Peoples' Defence Forces.
+(1) There shall be armed forces to be known as the Uganda Peoples' Defence Forces.
 
 (2) The Uganda Peoples' Defence Forces shall be nonpartisan, national in character, patriotic,  professional,  disciplined,  productive  and  subordinate  to  the  civilian  authority  as established under this Constitution.
 
@@ -4841,7 +4884,7 @@ The functions of the Uganda Peoples' Defence Forces are-
 
 (d) to engage in productive activities for the development of Uganda.
 
-Twelve
+
 
 87
 
@@ -4915,9 +4958,9 @@ Parliament shall make laws-
 
 [[START OF PAGE 89]]
 
-- There shall be a prisons service to be known as the Uganda Prisons Service.
+(1) There shall be a prisons service to be known as the Uganda Prisons Service.
 
-- The Uganda  Prisons Service shall be nationalistic, patriotic, professional, disciplined,  competent  and  productive;  and  its  members  shall  be  citizens  of  Uganda  of  good character recruited from every district of Uganda.
+(2) The Uganda Prisons Service shall be nationalistic, patriotic, professional, disciplined, competent and productive; and its members shall be citizens of Uganda of good character recruited from every district of Uganda.
 
 #### 216. Commissioner and Deputy Commissioner of Prisons.
 
@@ -4973,25 +5016,25 @@ Parliament shall make laws to regulate the possession and use of firearms and am
 
 [[START OF PAGE 90]]
 
-## Chapter Inspectorate of Government.
+## Chapter Thirteen Inspectorate of Government.
 
 .
 
 #### 223. Inspectorate of Government.
 
-- There shall be an Inspectorate of Government.
+(1) There shall be an Inspectorate of Government.
 
-- The Inspectorate of Government shall consist of-
+(2) The Inspectorate of Government shall consist of—
 
 (a) the Inspector General of Government; and
 
 (b) such number of Deputy Inspectors General as Parliament may prescribe.
 
-- At least one of the persons referred to in clause (2) of this article shall be a person qualified to be appointed a judge of the High Court.
+(3) At least one of the persons referred to in clause (2) of this article shall be a person qualified to be appointed a judge of the High Court.
 
-- The Inspector General of Government and a Deputy Inspector General shall be appointed by the President with the approval of Parliament and shall not, while holding office, hold any other office of emolument in the public service.
+(4) The Inspector General of Government and a Deputy Inspector General shall be appointed by the President with the approval of Parliament and shall not, while holding office, hold any other office of emolument in the public service.
 
-- A  person shall not be eligible for appointment as Inspector General of Government or Deputy Inspector General of Government unless that person-
+(5) A person shall not be eligible for appointment as Inspector General of Government or Deputy Inspector General of Government unless that person—
 
 (a) is a citizen of Uganda;
 
@@ -4999,7 +5042,7 @@ Parliament shall make laws to regulate the possession and use of firearms and am
 
 (c) possesses considerable experience and demonstrated competence and is of high calibre in the conduct of public affairs.
 
-- A person shall resign his or her office on appointment as an Inspector General or a Deputy Inspector General, if that person is-
+(6) A person shall resign his or her office on appointment as an Inspector General or a Deputy Inspector General, if that person is—
 
 (a) a member of Parliament;
 
@@ -5007,17 +5050,17 @@ Parliament shall make laws to regulate the possession and use of firearms and am
 
 (c) a member of the executive of a political party or organisation.
 
-- The Inspector General of Government and Deputy Inspectors General shall hold office for a term of four years but shall be eligible for reappointment only once.
+(7) The Inspector General of Government and Deputy Inspectors General shall hold office for a term of four years but shall be eligible for reappointment only once.
 
-- The remuneration and other conditions of service of members of the Inspectorate
-
-Thirteen of Government shall be prescribed by Parliament and the salaries and allowances of members of the Inspectorate shall be charged on the Consolidated Fund.
+(8) The remuneration and other conditions of service of members of the Inspectorate
 
 90
 
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
+
+of Government shall be prescribed by Parliament and the salaries and allowances of members of the Inspectorate shall be charged on the Consolidated Fund.
 
 #### 224. Removal of Inspector General and Deputy Inspector General.
 
@@ -5117,7 +5160,7 @@ The  Inspectorate  of  Government  may  establish  branches  at  district  and  
 
 [[START OF PAGE 93]]
 
-## Chapter Leadership Code of Conduct.
+## Chapter Fourteen Leadership Code of Conduct.
 
 #### 233. Leadership Code of Conduct.
 
@@ -5155,15 +5198,15 @@ There shall be a Leadership Code Tribunal whose composition, jurisdiction and fu
 
 #### 236. Interpretation.
 
-Fourteen In this Chapter, unless the context otherwise requires, 'specified officer' means the holder of an office to which the Leadership Code of Conduct applies.
-
 93
 
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
 
-## Chapter Land and Environment.
+In this Chapter, unless the context otherwise requires, 'specified officer' means the holder of an office to which the Leadership Code of Conduct applies.
+
+## Chapter Fifteen Land and Environment.
 
 ### Land.
 
@@ -5171,7 +5214,7 @@ Fourteen In this Chapter, unless the context otherwise requires, 'specified offi
 
 (1) Land  in  Uganda  belongs  to  the  citizens  of  Uganda  and  shall  vest  in  them  in accordance with the land tenure systems provided for in this Constitution.
 
-- Notwithstanding clause (1) of this article-
+(2) Notwithstanding clause (1) of this article—
 
 (a) the  Government  or  a  local  government  may,  subject  to  article  26  of  this Constitution,  acquire  land  in  the  public  interest;  and  the  conditions  governing such acquisition shall be as prescribed by Parliament;
 
@@ -5189,7 +5232,7 @@ Fourteen In this Chapter, unless the context otherwise requires, 'specified offi
 
 (d) leasehold.
 
-- On the coming into force of this Constitution-
+(4) On the coming into force of this Constitution—
 
 (a) all Uganda citizens owning land under customary tenure may acquire certificates of ownership in a manner prescribed by Parliament; and
 
@@ -5203,7 +5246,7 @@ Fourteen In this Chapter, unless the context otherwise requires, 'specified offi
 
 (8) Upon the coming into force of this Constitution  and  until  Parliament  enacts  an appropriate law under clause (9) of this article, the lawful or bona fide occupants of mailo land, freehold or leasehold land shall enjoy security of occupancy on the land.
 
-Fifteen
+
 
 94
 
@@ -5221,7 +5264,7 @@ Fifteen
 
 #### 238. Uganda Land Commission.
 
-- There shall be a commission to be known as the Uganda Land Commission.
+(1) There shall be a commission to be known as the Uganda Land Commission.
 
 (2) The  commission  shall  consist  of  a  chairperson  and  not  less  than  four  other members appointed by the President with the approval of Parliament.
 
@@ -5247,13 +5290,13 @@ The Uganda Land Commission shall hold and manage any land in Uganda vested in or
 
 #### 240. District land boards.
 
-- There shall be a district land board for each district.
+(1) There shall be a district land board for each district.
 
 (2) Parliament shall prescribe the membership, procedure and terms of service of a district land board.
 
 #### 241. Functions of district land boards.
 
-- The functions of a district land board are-
+(1) The functions of a district land board are—
 
 (a) to  hold  and  allocate  land  in  the  district  which  is  not  owned  by  any  person  or authority;
 
@@ -5277,15 +5320,15 @@ Government may, under laws made by Parliament and policies made from time to tim
 
 #### 243. Land tribunals.
 
-- Parliament shall by law provide for the establishment of land tribunals.
+(1) Parliament shall by law provide for the establishment of land tribunals.
 
-- The jurisdiction of a land tribunal shall include-
+(2) The jurisdiction of a land tribunal shall include—
 
-(a) the determination of disputes relating to the grant, lease, repossession, transfer or acquisition  of  land  by  individuals,  the  Uganda  Land  Commission  or  other authority with responsibility relating to land; and
+(a) the determination of disputes relating to the grant, lease, repossession, transfer or acquisition of land by individuals, the Uganda Land Commission or other authority with responsibility relating to land; and
 
-(b) the  determination  of  any  disputes  relating  to  the  amount  of  compensation  to  be paid for land acquired.
+(b) the determination of any disputes relating to the amount of compensation to be paid for land acquired.
 
-- The chairperson of a land tribunal established under this article shall be appointed on the advice of the Judicial Service Commission under any law made for the purposes of clause (1) of this article.
+(3) The chairperson of a land tribunal established under this article shall be appointed on the advice of the Judicial Service Commission under any law made for the purposes of clause (1) of this article.
 
 (4) A member of a land tribunal shall hold office on terms and conditions determined under a law made by Parliament under this article.
 
@@ -5295,7 +5338,7 @@ Government may, under laws made by Parliament and policies made from time to tim
 
 (1)   Subject  to  article  26  of  this  Constitution,  the  entire  property  in,  and  the control of, all minerals and petroleum in, on or under, any land or waters in Uganda are vested in the Government on behalf of the Republic of Uganda.
 
-- Subject to this article, Parliament shall make laws regulating-
+(2) Subject to this article, Parliament shall make laws regulating—
 
 (a) the exploitation of minerals and petroleum;
 
@@ -5305,7 +5348,7 @@ Government may, under laws made by Parliament and policies made from time to tim
 
 (d) the conditions regarding the restoration of derelict lands.
 
-- Minerals, mineral ores and petroleum shall be exploited taking into account the interest of the individual landowners, local governments and the Government.
+(3) Minerals, mineral ores and petroleum shall be exploited taking into account the interest of the individual landowners, local governments and the Government.
 
 (4) In this article-
 
@@ -5341,7 +5384,7 @@ Parliament shall, by law, provide for measures intended-
 
 (c) to promote environmental awareness.
 
-## Chapter Institution of Traditional or Cultural Leaders.
+## Chapter Sixteen Institution of Traditional or Cultural Leaders.
 
 #### 246. Institution of traditional or cultural leaders.
 
@@ -5369,7 +5412,7 @@ Parliament shall, by law, provide for measures intended-
 
 (6) For the purposes of this article, 'traditional leader or cultural leader' means a king or similar traditional leader or cultural leader by whatever name called, who derives allegiance from the fact of birth or descent in accordance with the customs, traditions, usage or consent of the people led by that traditional or cultural leader.
 
-Sixteen
+
 
 97
 
@@ -5377,9 +5420,9 @@ Sixteen
 
 [[START OF PAGE 98]]
 
-## Chapter General and Miscellaneous.
+## Chapter Seventeen General and Miscellaneous.
 
-Seventeen
+
 
 #### 247. Administration of estates.
 
@@ -5431,7 +5474,7 @@ Parliament shall-
 
 [[START OF PAGE 99]]
 
-- For the purposes of clause (1) of this article, 'office' includes the office of-
+(3) For the purposes of clause (1) of this article, 'office' includes the office of—
 
 (a) the Vice President;
 
@@ -5467,17 +5510,17 @@ Parliament shall-
 
 #### 255. Referenda generally.
 
-( 1)   Parliament shall by law make provision for the right of citizens to demand the  holding  by  the  Electoral  Commission  of  a  referendum,  whether  national  or  in  any particular part of Uganda, on any issue.
+(1) Parliament shall by law make provision for the right of citizens to demand the holding by the Electoral Commission of a referendum, whether national or in any particular part of Uganda, on any issue.
 
-(2)   Parliament shall also make laws to provide for the holding of a referendum by  the  Electoral  Commission  upon  a  reference  by  the  Government  of  any  contentious matter to a referendum.
+(2) Parliament shall also make laws to provide for the holding of a referendum by the Electoral Commission upon a reference by the Government of any contentious matter to a referendum.
 
-(3)   Where a referendum is held under this article, the result of the referendum shall  be  binding  on  all  organs  and  agencies  of  the  State  and  on  all  persons  and organisations in Uganda.
+(3) Where a referendum is held under this article, the result of the referendum shall be binding on all organs and agencies of the State and on all persons and organisations in Uganda.
 
-- A referendum to which clause (3) applies, shall not affect-
+(4) A referendum to which clause (3) applies, shall not affect—
 
-(a)   the  fundamental  and  other  human  rights  and  freedoms  guaranteed  under Chapter Four of this Constitution;and
+(a) the fundamental and other human rights and freedoms guaranteed under Chapter Four of this Constitution; and
 
-(b) the power of the courts to question the validity of the referendum .
+(b) the power of the courts to question the validity of the referendum.
 
 #### 256. Manner of administering oaths.
 
@@ -5491,7 +5534,7 @@ The oaths specified in the Fourth Schedule to this Constitution shall be adminis
 
 #### 257. Interpretation.
 
-- In this Constitution, unless the context otherwise requires-
+(1) In this Constitution, unless the context otherwise requires—
 
 (a) 'Act of Parliament' means a law made by Parliament;
 
@@ -5555,7 +5598,7 @@ The oaths specified in the Fourth Schedule to this Constitution shall be adminis
 
 (ee) 'Uganda' means the Republic of Uganda.
 
-- In this Constitution-
+(2) In this Constitution—
 
 (a) unless the context otherwise requires, a reference to an office in the public service includes-
 
@@ -5609,23 +5652,21 @@ Subject to article 92 of this Constitution-
 
 [[START OF PAGE 102]]
 
-## Chapter Amendment of the Constitution.
+it to Parliament by a standing committee.
+
+## Chapter Eighteen Amendment of the Constitution.
 
 #### 259. Amendment of the Constitution.
 
 (1) Subject to the provisions of this Constitution, Parliament may amend by way of addition, variation or repeal, any provision of this Constitution in accordance with the procedure laid down in this Chapter.
 
-- This Constitution shall not be amended except by an Act of Parliament-
+(2) This Constitution shall not be amended except by an Act of Parliament—
 
 (a) the sole purpose of which is to amend this Constitution; and
 
 (b) the Act has been passed in accordance with this Chapter.
 
-#### Amendments requiring a referendum.
-
-it to Parliament by a standing committee.
-
-Eighteen
+#### 260. Amendments requiring a referendum.
 
 102
 
@@ -5633,17 +5674,17 @@ Eighteen
 
 [[START OF PAGE 103]]
 
-- A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless-
+(1) A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless—
 
-(a) it is supported at the second and third readings in Parliament by not less than twothirds of all members of Parliament; and
+(a) it is supported at the second and third readings in Parliament by not less than two-thirds of all members of Parliament; and
 
-(b) it  has  been  referred  to  a  decision  of  the  people  and  approved  by  them  in  a referendum.
+(b) it has been referred to a decision of the people and approved by them in a referendum.
 
-- The provisions referred to in clause (1) of this article are-
+(2) The provisions referred to in clause (1) of this article are—
 
 (a) this article;
 
-(b) Chapter One-articles l and 2;
+(b) Chapter One—articles 1 and 2;
 
 (c) Chapter Four-article 44;
 
@@ -5659,13 +5700,13 @@ Eighteen
 
 #### 261. Amendments requiring approval by district councils.
 
-(1) A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless-
+(1) A bill for an Act of Parliament seeking to amend any of the provisions specified in clause (2) of this article shall not be taken as passed unless—
 
-(a) it is supported at the second and third readings in Parliament by not less than twothirds of all members of Parliament; and
+(a) it is supported at the second and third readings in Parliament by not less than two-thirds of all members of Parliament; and
 
 (b) it has been ratified by at least two-thirds of the members of the district council in each of at least two-thirds of all the districts of Uganda.
 
-- The provisions referred to in clause (1) of this article are-
+(2) The provisions referred to in clause (1) of this article are—
 
 (a) this article;
 
@@ -5705,23 +5746,21 @@ the President shall be taken to have assented to the bill, and the Speaker shall
 
 [[START OF PAGE 104]]
 
-## Chapter Transitional Provisions.
+## Chapter Nineteen Transitional Provisions.
 
-#### Transitional Government.  (Repealed).
+#### 264. Transitional Government. (Repealed).
 
-#### Particular functions of transitional Government. (Repealed).
+#### 265. Particular functions of transitional Government. (Repealed).
 
-#### Existing courts of judicature. (Repealed).
+#### 266. Existing courts of judicature. (Repealed).
 
-#### Existing offices of judges. (Repealed).
+#### 267. Existing offices of judges. (Repealed).
 
-#### Interim membership of Court of Appeal. (Repealed).
+#### 268. Interim membership of Court of Appeal. (Repealed).
 
-#### Existing offices.
+#### 269. Existing offices.
 
-- Subject to the provisions of this article, every person who immediately before the coming into force of this Constitution held or was acting in any office established by or by virtue of the Constitution then in force, so far as is consistent with the provisions of this Constitution, shall be taken to have been appointed as from the coming into force of this Constitution, to hold or to act in the equivalent office under this Constitution.
-
-Nineteen
+(1) Subject to the provisions of this article, every person who immediately before the coming into force of this Constitution held or was acting in any office established by or by virtue of the Constitution then in force, so far as is consistent with the provisions of this Constitution, shall be taken to have been appointed as from the coming into force of this Constitution, to hold or to act in the equivalent office under this Constitution.
 
 104
 
@@ -5737,13 +5776,13 @@ Nineteen
 
 (5) For the avoidance of doubt, it is declared that any office established before the coming  into  force  of  this  Constitution  which  is  inconsistent  with  any  provision  of  this Constitution is, on the coming into force of this Constitution, abolished.
 
-#### Regulation of political organisations. (Repealed).
+#### 270. Regulation of political organisations. (Repealed).
 
-#### Existing political parties or organisations. (Repealed).
+#### 271. Existing political parties or organisations. (Repealed).
 
-#### First elections. (Repealed).
+#### 272. First elections. (Repealed).
 
-#### Appointment to certain offices. (Repealed).
+#### 273. Appointment to certain offices. (Repealed).
 
 #### 274. Existing law.
 
@@ -5757,11 +5796,11 @@ Nineteen
 
 Where immediately before the coming into force of this Constitution any existing law had not been brought into force or was to come into force on a date subsequent to the coming into force of  this  Constitution,  that  law  may  be  brought  into  force  in  accordance  with  its  terms  or  shall come into force on such subsequent date as the case may be.
 
-#### Provisions regarding urban authorities. (Repealed).
+#### 277. Provisions regarding urban authorities. (Repealed).
 
-#### Existing commissions and committees of inquiry. (Repealed except for commissions and committees of inquiry whose work would still be going on at the time  the repeal takes effect ).
+#### 278. Existing commissions and committees of inquiry. (Repealed except for commissions and committees of inquiry whose work would still be going on at the time the repeal takes effect ).
 
-#### Oaths deemed to have been taken (Repealed).
+#### 279. Oaths deemed to have been taken (Repealed).
 
 #### 280. Pending matters.
 
@@ -5801,7 +5840,7 @@ Subject to the provisions of article 284 of this Constitution-
 
 Where  there  is  subsisting,  immediately  before  the  coming  into  force  of  this  Constitution,  a contract which has been entered into by or on behalf of the Government, then on and after the coming into force of this Constitution, all rights, liabilities and obligations of the Government under the contract shall be vested in or, as the case may be, subsist against the Government; and the contract shall otherwise continue to be of full force and effect.
 
-#### 286.    Revocation of statutory leases to urban authorities ( Repealed).
+#### 286. Revocation of statutory leases to urban authorities (Repealed).
 
 #### 287. International agreements, treaties and conventions.
 
@@ -5881,33 +5920,31 @@ articles 5, 178.
 
 ##### Districts of Uganda
 
-- Bundibugyo of Rwenzori
+1. Bundibugyo of Rwenzori
 
-- Kasese
+2. Kasese
 
-- Busia
+3. Busia
 
-- Butaleja of Bukedi
+4. Butaleja of Bukedi
 
-- Pallisa
+5. Pallisa
 
-- Tororo
+6. Tororo
 
-- Abim
+7. Abim
 
-- Kaabong
+8. Kaabong
 
-- 9.
+9. Kotido of Karamoja
 
-- Kotido of Karamoja
+10. Moroto
 
-- Moroto
+11. Nakapiripirit
 
-- Nakapiripirit
+12. Mbale
 
-- Mbale
-
-- Sironko of Bugisu
+13. Sironko of Bugisu
 
 108
 
@@ -5919,107 +5956,87 @@ articles 5, 178.
 
 15. Bukwo
 
-- Kapchorwa
+16. Kapchorwa of Sebei
 
-- Adjumani
+17. Adjumani
 
-18. Moyo
+18. Moyo of Madi
 
-- Arua
+19. Arua
 
 20. Koboko
 
-21. Nebbi
+21. Nebbi of West Nile
 
 22. Yumbe
 
-23. District comprising
+23. District comprising of Maracha and Terego counties
 
-of Maracha and Terego counties
+24. Amuru
 
-- Amuru
+25. Gulu
 
-- Gulu
-
-- Kitgum
+26. Kitgum of Acholi
 
 27. Pader
 
-- District comprising
+28. District comprising of Buliisa county
 
-of Buliisa county
+29. Hoima
 
-- Hoima
-
-- Kibaale
+30. Kibaale of Bunyoro
 
 31. Masindi
 
-- Kabarole
+32. Kabarole
 
-- Kamwenge
+33. Kamwenge of Tooro
 
-- Kyenjojo
+34. Kyenjojo
 
-- Amuria
+35. Amuria
 
-- Kaberamaido
+36. Kaberamaido
 
-- Katakwi
+37. Katakwi of Teso
 
-- Kumi
+38. Kumi
 
-- Soroti
+39. Soroti
 
-- Kalangala
+40. Kalangala
 
-- Kayunga
+41. Kayunga
 
-- Kiboga
+42. Kiboga
 
-- Luwero
+43. Luwero
 
-- Masaka
+44. Masaka
 
-- Mityana
+45. Mityana
 
-- Mpigi
+46. Mpigi of Buganda
 
-- Mubende
+47. Mubende
 
-- Mukono
+48. Mukono
 
-- Nakaseke
+49. Nakaseke
 
-- Nakasongola
+50. Nakasongola
 
-- Rakai
+51. Rakai
 
-- Sembabule
+52. Sembabule
 
-- Wakiso
+53. Wakiso
 
-- Bushenyi
+54. Bushenyi
 
-- Ibanda
+55. Ibanda
 
-- Isingiro
-
-of Sebei
-
-of Madi
-
-of West Nile
-
-of Acholi
-
-of Bunyoro
-
-of Tooro
-
-of Teso
-
-of Buganda
+56. Isingiro
 
 109
 
@@ -6027,9 +6044,7 @@ of Buganda
 
 [[START OF PAGE 110]]
 
-57. Kiruhuura
-
-of Ankole
+57. Kiruhuura of Ankole
 
 58. Mbarara
 
@@ -6039,11 +6054,7 @@ of Ankole
 
 61. Apac
 
-62. District comprising
-
-of Dokolo county
-
-of Lango
+62. District comprising of Dokolo county of Lango
 
 63. Lira
 
@@ -6057,9 +6068,7 @@ of Lango
 
 68. Kaliro
 
-69. Kamuli
-
-of Busoga
+69. Kamuli of Busoga
 
 70. Mayuge
 
@@ -6067,9 +6076,7 @@ of Busoga
 
 72. Kabale
 
-73. Kanungu
-
-of Kigezi
+73. Kanungu of Kigezi
 
 74. Kisoro
 
@@ -6083,7 +6090,7 @@ article 5.
 
 #### The boundary of Uganda.
 
-Commencing  at  the  highest  point  of  Mt.  Sabyinyo;  thence  in  a  northeasterly  direction  to  the southern  extremity  of  the  Bunagana  ridge  marked  by  Boundary  Pillar  1;  thence  along  the watershed of Bunagana to its highest point, marked by BP 2; thence in a northwesterly direction in a straight line to the summit of the knoll Chieshire, marked by BP 3; thence in a straight line in  a  northeasterly  direction  to  the  confluence  of  the  Rivers  Nyarugando  and  Nkaka  (Kanga); thence following the thalweg of the River Nyarugando to its source; thence in a straight line in a northwesterly direction to the highest point of the hill Giseke, marked by BP 4; thence following the watershed between the hill Giseke and the hill Lubona and its continuation as far as a point, marked by BP 5, about 400 metres northwest of the summit of the hill Lubona; thence along the crest of the spur running in a northwesterly direction to River Sinda (Lulangala); thence along the crest of the opposite spur, as shown on the map, to the summit of the hill Kirambo, marked by BP 6; thence in a curved line, as shown on the map, along the crest of a spur running from Kirambo in a northeasterly and northerly direction to the northernmost elbow of the River Kaku or  Rutshuru;  thence  in  a  straight  line  across  this  river  to  the  mouth  of  the  stream  Kasumo (Sumo); thence along the thalweg of this  stream  to  its  source;  thence  in  a  straight  line  to  the lowest point, marked by BP 7 of the col northeast of the above-mentioned elbow of the River Kaku  or  Rutshuru;  thence  in  a  straight  line  to  the  confluence  of  the  Rivers  Kyarakibi  and Murungu; thence following the thalweg of the River Murungu downstream to its junction with the thalweg of the River Chonga; thence in a straight line to the summit of a hill (Muko), marked by BP 8, about 700 metres north-northeast of this junction; thence in a straight line in a northerly direction to the summit of the hill Chikomo (Deko South) or Katwakare, marked by BP 9; thence in a straight line to the summit of the hill Deko North; thence in a straight line to the summit of a hill  (Nteko)  about  3  km  north  by  west  of  Deko  North;  thence  in  a  straight  line  to  the  point, marked by BP 10, where the Kayonsa road crosses the River Ivi; thence in a straight line to a point marked by BP 11, about 1 km to the north of BP 10, on a prominent spur of the NkabwaSalambo range; thence following the crest of this spur to the summit of the hill Salambo; thence along the watershed of the Nkabwa-Salambo range to the summit of the hill Nkabwa, marked by BP 12.
+Commencing at the highest point of Mt. Sabyinyo; thence in a northeasterly direction to the southern extremity of the Bunagana ridge marked by Boundary Pillar 1; thence along the watershed of Bunagana to its highest point, marked by BP 2; thence in a northwesterly direction in a straight line to the summit of the knoll Chieshire, marked by BP 3; thence in a straight line in a northeasterly direction to the confluence of the Rivers Nyarugando and Nkaka (Kanga); thence following the thalweg of the River Nyarugando to its source; thence in a straight line in a northwesterly direction to the highest point of the hill Giseke, marked by BP 4; thence following the watershed between the hill Giseke and the hill Lubona and its continuation as far as a point, marked by BP 5, about 400 metres northwest of the summit of the hill Lubona; thence along the crest of the spur running in a northwesterly direction to River Sinda (Lulangala); thence along the crest of the opposite spur, as shown on the map, to the summit of the hill Kirambo, marked by BP 6; thence in a curved line, as shown on the map, along the crest of a spur running from Kirambo in a northeasterly and northerly direction to the northernmost elbow of the River Kaku or Rutshuru; thence in a straight line across this river to the mouth of the stream Kasumo (Sumo); thence along the thalweg of this stream to its source; thence in a straight line to the lowest point, marked by BP 7 of the col northeast of the above-mentioned elbow of the River Kaku or Rutshuru; thence in a straight line to the confluence of the Rivers Kyarakibi and Murungu; thence following the thalweg of the River Murungu downstream to its junction with the thalweg of the River Chonga; thence in a straight line to the summit of a hill (Muko), marked by BP 8, about 700 metres north-northeast of this junction; thence in a straight line in a northerly direction to the summit of the hill Chikomo (Deko South) or Katwakare, marked by BP 9; thence
 
 110
 
@@ -6091,9 +6098,11 @@ Commencing  at  the  highest  point  of  Mt.  Sabyinyo;  thence  in  a  northeas
 
 [[START OF PAGE 111]]
 
-From the summit of Nkabwa hill, the boundary runs in an easterly direction to the summit of the hill  Kyeshero,  marked  by  BP  12A;  thence  in  the  same  straight  line  to  the  point  known  as Kakoraza, marked by BP 13; thence in the same straight line eastwards to the River Munyaga; thence along the thalweg of this river, downstream, to its junction with the thalweg of the River Ishasha;  thence  along  the  thalweg  of  the  River  Ishasha,  downstream,  to  its  mouth  in  Lake Edward; thence in a straight line in a northerly direction across Lake Edward to a point marked by BP 1 at the mouth of the River Lubiriha-Thako; thence along the thalweg of this river to a point marked by BP 2; thence along the thalweg of this river to a point marked by BP 3; thence along the thalweg of this river to a point marked by BP 4; thence along the thalweg of this river to  the  point  where  it  separates  into  the  rivers  Lubiriha  and  Thako  as  marked  by  BP  5;  thence along the thalweg of the River Thako to a point marked by BP 6; thence continuing along the thalweg  of  the  River  Thako,  upstream,  to  its  source  at  a  point  marked  by  BP  7;  thence  in  a straight line to the highest point of the Rwenzori Range, the summit of Margharita Peak; thence in a straight line to the source of the River Lami, situated about 5.4 km northwest of the Peak Kalengire and about 20 km southwest of the hilltop Karangura; thence along the thalweg of the River  Lami,  downstream,  to  its  junction  with  the  thalweg  of  River  Semliki;  thence  along  the thalweg  of  the  River  Semliki,  downstream,  to  its  mouth  in  Lake  Albert;  thence  across  Lake Albert in a succession of straight lines passing through the points situated midway between the shores of the lake on parallels of 010 31', 010 45' and 020 00' north latitude, to a point midway between the shores of the lake on the parallel of 020 07' north latitude.
+in a straight line to the summit of the hill Deko North; thence in a straight line to the summit of a hill (Nteko) about 3 km north by west of Deko North; thence in a straight line to the point, marked by BP 10, where the Kayonsa road crosses the River Ivi; thence in a straight line to a point marked by BP 11, about 1 km to the north of BP 10, on a prominent spur of the Nkabwa-Salambo range; thence following the crest of this spur to the summit of the hill Salambo; thence along the watershed of the Nkabwa-Salambo range to the summit of the hill Nkabwa, marked by BP 12.
 
-From this point the boundary runs in a northerly direction along the meridian for a distance of approximately 4.5 km north of the point on the parallel of 020 07' north latitude; thence in a straight line to a point marked by BP 1 on the shore of Lake Albert and on the prolongation of a straight line from the hill Kagudi (Uduka) to the knoll Marombe on the escarpment overlooking Lake Albert about 1.7 km southeast by east of the hill Kagudi, and is about 100 metres from the lakeshore on the said straight line; thence in a straight line to BP 2 on the hill Marombe, about 2 km  from  the  lakeshore;  thence  in  a  straight  line  to  BP  3,  on  the  summit  of  the  hill  Kagudi (Uduka); thence in a straight line to BP 4 on the neck of the hill Ngumuda Biet (Otal), which is about 1.04 km from the hill Kagudi; thence in a straight line to BP 5 on the hill Biet (Otal), at a distance of 3.04 km from the hill Kagudi; thence in a straight line to BP 6 on the hill Virkidi on a straight  line  from  the  hill  Kagudi  to  the  hill  Biet  at  a  distance  of  about  4.8  km  from  Kagudi; thence in a straight line to BP 7 at the intersection of a straight line from the hill Kagudi to the hill Biet and a straight line from the hill Milia to the junction of the Rivers Nashiodo and Alala, close to the River Otal on its left bank and is known as Utal; thence in a northerly direction along the meridian of BP 7 on a straight line from the hill Milia to the junction of the Rivers Nashiodo and Alala to BP 8 about 4 km from the junction of the said rivers on the hill Wellingondo; thence along the meridian to BP 9 on the hill Nyatabu (Niatabu), about 2.48 km from the junction of the said rivers; thence along the meridian to BP 10 on the hill Nyatabu II (Nitabu) about 1.2 km from the  junction  of  the  said  rivers  in  one  of  the  villages  known  as  Parombo;  thence  along  the meridian to BP 11 on the right bank of the river Nashiodo (Achodo) at its junction with the River Alala; thence along the thalweg of the river upstream to its source to BP 12 on the summit of the hill Keresi; thence along a curved line following the watershed of the river Sido basin to BP 13 on the summit of the hill Aminzi; thence in a straight line to BP 14 on the summit of the hill Kiti in  a  straight  line  from  the  hill  Aminzi  to  Monda  (Omunda) Rock at a distance of  about 2 km from Aminzi; thence in a straight line to BP 15 on the east immediately below the summit of the rock Monda; thence in a straight line to BP 16 on the right bank of the River Niabola (Nyibola)
+From the summit of Nkabwa hill, the boundary runs in an easterly direction to the summit of the hill Kyeshero, marked by BP 12A; thence in the same straight line to the point known as Kakoraza, marked by BP 13; thence in the same straight line eastwards to the River Munyaga; thence along the thalweg of this river, downstream, to its junction with the thalweg of the River Ishasha; thence along the thalweg of the River Ishasha, downstream, to its mouth in Lake Edward; thence in a straight line in a northerly direction across Lake Edward to a point marked by BP 1 at the mouth of the River Lubiriha-Thako; thence along the thalweg of this river to a point marked by BP 2; thence along the thalweg of this river to a point marked by BP 3; thence along the thalweg of this river to a point marked by BP 4; thence along the thalweg of this river to the point where it separates into the rivers Lubiriha and Thako as marked by BP 5; thence along the thalweg of the River Thako to a point marked by BP 6; thence continuing along the thalweg of the River Thako, upstream, to its source at a point marked by BP 7; thence in a straight line to the highest point of the Rwenzori Range, the summit of Margharita Peak; thence in a straight line to the source of the River Lami, situated about 5.4 km northwest of the Peak Kalengire and about 20 km southwest of the hilltop Karangura; thence along the thalweg of the River Lami, downstream, to its junction with the thalweg of River Semliki; thence along the thalweg of the River Semliki, downstream, to its mouth in Lake Albert; thence across Lake Albert in a succession of straight lines passing through the points situated midway between the shores of the lake on parallels of 01° 31', 01° 45' and 02° 00' north latitude, to a point midway between the shores of the lake on the parallel of 02° 07' north latitude.
+
+From this point the boundary runs in a northerly direction along the meridian for a distance of approximately 4.5 km north of the point on the parallel of 02° 07' north latitude; thence in a straight line to a point marked by BP 1 on the shore of Lake Albert and on the prolongation of a straight line from the hill Kagudi (Uduka) to the knoll Marombe on the escarpment overlooking Lake Albert about 1.7 km southeast by east of the hill Kagudi, and is about 100 metres from the lakeshore on the said straight line; thence in a straight line to BP 2 on the hill Marombe, about 2 km from the lakeshore; thence in a straight line to BP 3, on the summit of the hill Kagudi (Uduka); thence in a straight line to BP 4 on the neck of the hill Ngumuda Biet (Otal), which is about 1.04 km from the hill Kagudi; thence in a straight line to BP 5 on the hill Biet (Otal), at a distance of 3.04 km from the hill Kagudi; thence in a straight line to BP 6 on the hill Virkidi on a straight line from the hill Kagudi to the hill Biet at a distance of about 4.8 km from Kagudi; thence in a straight line to BP 7 at the intersection of a straight line from the hill Kagudi to the hill Biet and a straight line from the hill Milia to the junction of the Rivers Nashiodo and Alala, close to the River Otal on its left bank and is known as Utal; thence in a northerly direction along the meridian of BP 7 on a straight line from the hill Milia to the junction of the Rivers Nashiodo and Alala to BP 8 about 4 km from the junction of the said rivers on the hill Wellingondo; thence along the meridian to BP 9 on the hill Nyatabu (Niatabu), about 2.48 km from the junction of the said rivers; thence along the meridian to BP 10 on the hill Nyatabu II (Nitabu) about 1.2 km from the junction of the said rivers in one of the villages known as Parombo; thence along the meridian to BP 11 on the right bank of the river Nashiodo (Achodo) at its junction with the River Alala; thence along the thalweg of the river upstream to its source to BP 12 on the summit of the hill Keresi; thence along a curved line following the watershed of the river Sido basin to BP 13 on the summit of the hill Aminzi; thence in a straight line to BP 14 on the summit of the hill Kiti in a straight line from the hill Aminzi to Monda (Omunda) Rock at a distance of about 2 km from Aminzi; thence in a straight line to BP 15 on the east immediately below the summit of the rock Monda; thence in a straight line to BP 16 on the right bank of the River Niabola (Nyibola)
 
 111
 
@@ -6103,7 +6112,7 @@ From this point the boundary runs in a northerly direction along the meridian fo
 
 about  15  feet  above  its  junction  with  the  rivers  Nyarwodo  (Narodo)  and  Niabola  (Nyibola); thence along the thalweg of the river Niabola (Nyibola) to BP 17 upon the summit of the hill Agu; thence along a curved line following the watershed of the river Aioda (Ayuda) basin on BP 18 on the summit of the hill Asina about 3.44 km southwest by south from the hill Agu; thence along  the  watershed  to  BP  19  on  the  summit  of  the  hill  Sisi;  thence  along  the  curved  line following the watershed of the river Leda to BP 20 on the summit of the hill Ajigu; at a distance of  about 2.56 km northwest by west of the hill Sisi; thence along a curved line following the watershed of the river Leda basin to BP 21, at a point 2.16 km west of BP 20; thence along a curved line following the watershed to BP 22 on the knoll Okiyo situated about 4.2 km southeast by east of the summit of the hill Cho; thence along a curved line to BP 23 on a small group of rocks (Matijo) upon the watershed between the river Niagak basin and that tributary which joins the  Niagak  just  below  the  confluence  of  the  rivers  Niagaka  and  Amoda  and  is  about  2  km southeast by east of the hill Cho; thence along a curved line to BP 24 on a small knoll on the above-described watershed at a distance of about 200 metres from the confluence of the rivers Niagak  and  Amoda;  thence  in  a  straight  line  to  BP  25  on  the  right  bank  of  the  river  Amoda (Ammodar), immediately above its confluence with the river Nyalidha, at a point about 1,600 metres southwest of the summit of the hill Akar; thence along the thalweg of the river Nyalidha to BP 26 upon the Nile-Congo watershed about 6.2 km west-southwest of the summit of the hill Akar  and  about  5.6  km  south-southeast  of  the  hill  Utzi,  close  to  the  source  of  the  river Omithameri.
 
-From  this  point  the  boundary  follows  the  Nile-Congo  watershed  in  a  northerly  direction  to  a point  about  0.3  km  south  of  the  source  of  the  river  Kaia  (Kaya)  the  tri-junction  of  the Uganda/ Democratic  Republic  of  Congo /Sudan  international  boundaries;  thence  in  a  straight line to the source of the river Kaia (Kaya); thence along the thalweg of the river Kaia (Kaya), downstream to its confluence with the unnamed river which runs immediately south of Chei and Lodwa rocks, and then runs in a northerly direction; thence in an easterly direction in a straight line to a point on the western summit of the hill Kirwa, marked by a surface beacon; thence in a southeasterly direction in a straight line to the confluence of the rivers Adjika and Khor Nyaura (Nyawa); thence in a northeasterly direction in a straight line to a point on the top of J. Jalei, marked by a surface beacon; thence in an easterly direction to the source of the river Khor Kayo (Kayu), approximately 3/4 miles from J. Jalei; thence following the thalweg of the Khor Kayo to a point on the thalweg directly opposite the westernmost point of the foothills of the escarpment running northwest from Jebel Elengua; thence in a straight line to the westernmost point of the foothills; thence following the bottom of the foothills of this escarpment in a southeasterly, or such a line as shall exclude the riverain people below Nimule; thence following due east to the intersection of the thalweg of the river Bahr el Jebel (White Nile) with the thalweg of the river Unyama; thence along the thalweg of the river Unyuama, upstream, to a point on the thalweg along the latitude of Jebel Ebijo; thence following due east to the summit of Jebel Ebijo; thence following in the direction of Jebel Kakomera to the thalweg of the river Achwa; thence following the thalweg of the river Achwa, downstream, to the intersection of the thalweg and a straight line towards  the  village  Lokai  to  the  northernmost  point  of  the  bottom  of  Jebel  Marokho;  thence following the summit of Jebel Agu; thence following the summit of Jebel Ilala (Lwomwaka); thence in a straight line in a northeasterly direction to the hill (Jebel) Modole; thence following a straight line in a southeasterly direction to the most southeasterly foothills of Jebel Terenteinia; thence in a straight line in a southeasterly direction to a point on the summit of the hill (Jebel) Lonyili marked by a triangulation mark 9.Y.2; thence on bearing 44° 45' and for a distance of 58,506  feet  approximately  to  triangulation  mark  9.Y.9;  thence  on  bearing  44°  45'  and  for  a distance of 17,831 feet approximately to a triangulation mark 9.Y.8; thence on bearing 44° 45' and for a distance of 26,945 feet to a triangulation mark 9.Y.6; thence on bearing 44° 45' and for a  distance  of  17,854  feet  to  a  triangulation  mark  9.Y.5;  thence  on  bearing  44°  45'  and  for  a distance of 7,320 feet to a triangulation mark 9.Y.4; thence on bearing 44° 45' for a distance of 6,420 feet to a triangulation mark 9.Y.3; thence on bearing 44° 45' and for a distance of 20,306 feet to a triangulation mark 9.Y.1 on the summit of the hill (Jebel) Urungo; thence on bearing 44° 45' to a point north of Mount Zulia at a distance of 31.5 miles approximately from 9.Y.1 and which is to the tri-junction of the Uganda/Sudan/Kenya international boundaries.
+From this point the boundary follows the Nile-Congo watershed in a northerly direction to a point about 0.3 km south of the source of the river Kaia (Kaya) the tri-junction of the Uganda/Democratic Republic of Congo/Sudan international boundaries; thence in a straight line to the source of the river Kaia (Kaya); thence along the thalweg of the river Kaia (Kaya), downstream to its confluence with the unnamed river which runs immediately south of Chei and Lodwa rocks, and then runs in a northerly direction; thence in an easterly direction in a straight line to a point on the western summit of the hill Kirwa, marked by a surface beacon; thence in a southeasterly direction in a straight line to the confluence of the rivers Adjika and Khor Nyaura (Nyawa); thence in a northeasterly direction in a straight line to a point on the top of J. Jalei, marked by a surface beacon; thence in an easterly direction to the source of the river Khor Kayo (Kayu), approximately 3/4 miles from J. Jalei; thence following the thalweg of the Khor Kayo to a point on the thalweg directly opposite the westernmost point of the foothills of the escarpment running northwest from Jebel Elengua; thence in a straight line to the westernmost point of the foothills; thence following the bottom of the foothills of this escarpment in a southeasterly, or such a line as shall exclude the riverain people below Nimule; thence following due east to the intersection of the thalweg of the river Bahr el Jebel (White Nile) with the thalweg of the river Unyama; thence along the thalweg of the river Unyuama, upstream, to a point on the thalweg along the latitude of Jebel Ebijo; thence following due east to the summit of Jebel Ebijo; thence following in the direction of Jebel Kakomera to the thalweg of the river Achwa; thence following the thalweg of the river Achwa, downstream, to the intersection of the thalweg and a straight line towards the village Lokai to the northernmost point of the bottom of Jebel Marokho; thence following the summit of Jebel Agu; thence following the summit of Jebel Ilala (Lwomwaka); thence in a straight line in a northeasterly direction to the hill (Jebel) Modole; thence following a straight line in a southeasterly direction to the most southeasterly foothills of Jebel Terenteinia; thence in a straight line in a southeasterly direction to a point on the summit of the hill (Jebel) Lonyili marked by a triangulation mark 9.Y.2; thence on bearing 44° 45' and for a distance of 58,506 feet approximately to triangulation mark 9.Y.9; thence on bearing 44° 45' and for a distance of 17,831 feet approximately to a triangulation mark 9.Y.8; thence on bearing 44° 45' and for a distance of 26,945 feet to a triangulation mark 9.Y.6; thence on bearing 44° 45' and for a distance of 17,854 feet to a triangulation mark 9.Y.5; thence on bearing 44° 45' and for a distance of 7,320 feet to a triangulation mark 9.Y.4; thence on bearing 44° 45' for a distance of 6,420 feet to a triangulation mark 9.Y.3; thence on bearing 44° 45' and for a distance of 20,306 feet to a triangulation mark 9.Y.1 on the summit of the hill (Jebel) Urungo; thence on bearing 44° 45' to a point north of Mount Zulia at a distance of 31.5 miles approximately from 9.Y.1 and
 
 112
 
@@ -6111,57 +6120,59 @@ From  this  point  the  boundary  follows  the  Nile-Congo  watershed  in  a  no
 
 [[START OF PAGE 113]]
 
+which is to the tri-junction of the Uganda/Sudan/Kenya international boundaries.
+
 From this point the boundary is defined by a series of Boundary Pillars joined by straight lines as follows: on an approximate bearing of 127° for an approximate distance of 21,500 ft. to Pillar UK 180; thence on a bearing of 132° 41' for a distance of 4,444 ft. to Pillar UK 179;
 
-151° 51' | 14,674 ft. | UK178;
---- | --- | ---
-217° 00' | 9,935 ft. | UK177;
-153° 39' | 11,091 ft. | UK176;
-116° 35' | 6,799 ft. | UK175;
-153° 08' | 9,457 ft. | UK174;
-180° 05' | 5,313 ft. | UK173;
-193° 47' | 3,942 ft. | UK172;
-252° 36' | 11,338 ft. | UK171;
-175° 13' | 6,533 ft. | UK170;
-108° 18' | 7,280 ft. | UK169;
-136° 07' | 12,882 ft. | UK168;
-118° 30' | 12,368 ft. | UK167;
-184° 26' | 1,847 ft. | UK166;
-193° 32' | 8,426 ft. | UK165;
-195° 43' | 12,045 ft. | UK164;
-208° 42' | 606 ft. | UK163;
-225° 39' | 1,958 ft. | UK162;
-244° 44' | 4,290 ft. | UK161;
-244° 37' | 5,256 ft. | UK160;
-186° 44' | 7,960 ft. | UK159;
-185° 09' | 797 ft. | UK158;
-141° 19' | 224 ft. | UK157;
-105° 28' | 1,390 ft. | UK156;
-62° 15' | 6,590 ft. | UK155;
-79° 18' | 6,628 ft. | UK154;
-79° 24' | 562 ft. | UK153;
-98° 30' | 7,857 ft. | UK152;
-86° 30' | 6,719 ft. | UK151;
-19° 35' | 2,151 ft. | UK150;
-54° 05' | 1,326 ft. | UK149;
-52° 46' | 1,387 ft. | UK148;
-84° 15' | 7,907 ft. | UK147;
-88° 38' | 2,969 ft. | UK146;
-93° 11' | 3,880 ft. | UK145;
-162° 13' | 10,907 ft. | UK144;
-169° 22' | 1,233 ft. | UK143;
-180° 05' | 6,988 ft. | UK142;
-276° 03' | 4,216 ft. | UK141;
-269° 35' | 12,526 ft. | UK140;
-220° 56' | 4,826 ft. | UK139;
-213° 23' | 4,857 ft. | UK138;
-244° 58' | 2,355 ft. | UK137;
-262° 40' | 1,631 ft. | UK136;
-176° 51' | 2,685 ft. | UK135;
-71° 53' | 2,157 ft. | UK134;
-141° 01' | 1,898 ft. | UK133;
-73° 20' | 2,900 ft. | UK132;
-95° 51' 107° 02' | 1,882 ft. 5,231 ft. | UK131; UK130;
+151° 51' 14,674 ft. UK178;
+217° 00' 9,935 ft. UK177;
+153° 39' 11,091 ft. UK176;
+116° 35' 6,799 ft. UK175;
+153° 08' 9,457 ft. UK174;
+180° 05' 5,313 ft. UK173;
+193° 47' 3,942 ft. UK172;
+252° 36' 11,338 ft. UK171;
+175° 13' 6,533 ft. UK170;
+108° 18' 7,280 ft. UK169;
+136° 07' 12,882 ft. UK168;
+118° 30' 12,368 ft. UK167;
+184° 26' 1,847 ft. UK166;
+193° 32' 8,426 ft. UK165;
+195° 43' 12,045 ft. UK164;
+208° 42' 606 ft. UK163;
+225° 39' 1,958 ft. UK162;
+244° 44' 4,290 ft. UK161;
+244° 37' 5,256 ft. UK160;
+186° 44' 7,960 ft. UK159;
+185° 09' 797 ft. UK158;
+141° 19' 224 ft. UK157;
+105° 28' 1,390 ft. UK156;
+62° 15' 6,590 ft. UK155;
+79° 18' 6,628 ft. UK154;
+79° 24' 562 ft. UK153;
+98° 30' 7,857 ft. UK152;
+86° 30' 6,719 ft. UK151;
+19° 35' 2,151 ft. UK150;
+54° 05' 1,326 ft. UK149;
+52° 46' 1,387 ft. UK148;
+84° 15' 7,907 ft. UK147;
+88° 38' 2,969 ft. UK146;
+93° 11' 3,880 ft. UK145;
+162° 13' 10,907 ft. UK144;
+169° 22' 1,233 ft. UK143;
+180° 05' 6,988 ft. UK142;
+276° 03' 4,216 ft. UK141;
+269° 35' 12,526 ft. UK140;
+220° 56' 4,826 ft. UK139;
+213° 23' 4,857 ft. UK138;
+244° 58' 2,355 ft. UK137;
+262° 40' 1,631 ft. UK136;
+176° 51' 2,685 ft. UK135;
+71° 53' 2,157 ft. UK134;
+141° 01' 1,898 ft. UK133;
+73° 20' 2,900 ft. UK132;
+95° 51' 1,882 ft. UK131;
+107° 02' 5,231 ft. UK130;
 
 113
 
@@ -6169,62 +6180,61 @@ From this point the boundary is defined by a series of Boundary Pillars joined b
 
 [[START OF PAGE 114]]
 
-193° 16' | 1,233 ft. | UK129;
---- | --- | ---
-164° 54' | 3,325 ft. | UK128;
-249° 32' | 2,213 ft. | UK127;
-248° 20' | 5,751 ft. | UK126;
-257° 52' | 1,900 ft. | UK125;
-131° 49' | 3,476 ft. | UK124;
-72° 43' | 4,611 ft. | UK123;
-81° 33' | 1,335 ft. | UK122;
-69° 56' | 6,268 ft. | UK121;
-68° 27' | 4,067 ft. | UK120;
-68° 08' | 2,676 ft. | UK119;
-108° 26' | 1,514 ft. | UK118;
-120° 39' | 591 ft. | UK117;
-174° 30' | 1,137 ft. | UK116;
-177° 54' | 1,945 ft. | UK115;
-73° 00' | 766 ft. | UK114;
-29° 30' | 2,694 ft. | UK113;
-79° 44' | 907 ft. | UK112;
-66° 16' | 1,937 ft. | UK111;
-79° 55' | 2,194 ft. | UK110;
-145° 27' | 8,509 ft. | UK109;
-156° 21' | 6,769 ft. | UK108;
-135° 26' | 8,205 ft. | UK107;
-125° 22' | 6,438 ft. | UK106;
-129° 06' | 5,399 ft. | UK105;
-187° 04' | 4,979 ft. | UK104;
-190° 48' | 3,490 ft. | UK103;
-206° 19' | 1,348 ft. | UK102;
-90° 43' | 989 ft. | UK101;
-19° 19' | 13,434 ft. | UK100;
-43° 44' | 3,513 ft. | UK99;
-72° 50' | 4,525 ft. | UK98;
-77° 44' | 6,713 ft. | UK97;
-91° 40' | 5,820 ft. | UK96;
-119° 12' | 3,050 ft. | UK95;
-137° 48' | 9,847 ft. | UK94;
-138° 59' | 2,497 ft. | UK93;
-166° 14' | 4,695 ft. | UK92;
-208° 52' | 5,792 ft. | UK91;
-109° 54' | 13,971 ft. | UK90;
-130° 36' | 3,998 ft. | UK89;
-189° 05' | 11,610 ft. | UK88;
-190° 53' | 9,774 ft. | UK87;
-173° 59' | 11,720 ft. | UK86;
-185° 18' | 3,718 ft. | UK85;
-185° 17' | 8,946 ft. | UK84;
-185° 17' | 9,408 ft. | UK83;
-214° 56' | 3,320 ft. | UK82;
-223° 42' | 6,391 ft. | UK81;
-234° 33' | 4,606 ft. | UK80;
-264° 01' | 9,781 ft. | UK79;
-305° 56' | 2,607 ft. | UK78B; UK78A;
-254° 05' | 658 ft. 3,498 ft. | UK78;
-166° 43' | UK77;
-135° 44' | 7,662 ft.
+193° 16' 1,233 ft. UK129;
+164° 54' 3,325 ft. UK128;
+249° 32' 2,213 ft. UK127;
+248° 20' 5,751 ft. UK126;
+257° 52' 1,900 ft. UK125;
+131° 49' 3,476 ft. UK124;
+72° 43' 4,611 ft. UK123;
+81° 33' 1,335 ft. UK122;
+69° 56' 6,268 ft. UK121;
+68° 27' 4,067 ft. UK120;
+68° 08' 2,676 ft. UK119;
+108° 26' 1,514 ft. UK118;
+120° 39' 591 ft. UK117;
+174° 30' 1,137 ft. UK116;
+177° 54' 1,945 ft. UK115;
+73° 00' 766 ft. UK114;
+29° 30' 2,694 ft. UK113;
+79° 44' 907 ft. UK112;
+66° 16' 1,937 ft. UK111;
+79° 55' 2,194 ft. UK110;
+145° 27' 8,509 ft. UK109;
+156° 21' 6,769 ft. UK108;
+135° 26' 8,205 ft. UK107;
+125° 22' 6,438 ft. UK106;
+129° 06' 5,399 ft. UK105;
+187° 04' 4,979 ft. UK104;
+190° 48' 3,490 ft. UK103;
+206° 19' 1,348 ft. UK102;
+90° 43' 989 ft. UK101;
+19° 19' 13,434 ft. UK100;
+43° 44' 3,513 ft. UK99;
+72° 50' 4,525 ft. UK98;
+77° 44' 6,713 ft. UK97;
+91° 40' 5,820 ft. UK96;
+119° 12' 3,050 ft. UK95;
+137° 48' 9,847 ft. UK94;
+138° 59' 2,497 ft. UK93;
+166° 14' 4,695 ft. UK92;
+208° 52' 5,792 ft. UK91;
+109° 54' 13,971 ft. UK90;
+130° 36' 3,998 ft. UK89;
+189° 05' 11,610 ft. UK88;
+190° 53' 9,774 ft. UK87;
+173° 59' 11,720 ft. UK86;
+185° 18' 3,718 ft. UK85;
+185° 17' 8,946 ft. UK84;
+185° 17' 9,408 ft. UK83;
+214° 56' 3,320 ft. UK82;
+223° 42' 6,391 ft. UK81;
+234° 33' 4,606 ft. UK80;
+264° 01' 9,781 ft. UK79;
+305° 56' 2,607 ft. UK78B;
+254° 05' 658 ft. UK78A;
+166° 43' 3,498 ft. UK78;
+135° 44' 7,662 ft. UK77;
 
 114
 
@@ -6232,61 +6242,61 @@ From this point the boundary is defined by a series of Boundary Pillars joined b
 
 [[START OF PAGE 115]]
 
-147° 08' | 7,410 ft. | UK76;
---- | --- | ---
-171° 43' | 6,334 ft. | UK75;
-212° 11' | 6,726 ft. | UK74;
-249° 27' | 3,158 ft. | UK73;
-181° 55' | 13,506 ft. | UK72;
-170° 05' | 2,587 ft. | UK71;
-129° 00' | 5,641 ft. | UK70;
-137° 01' | 8,709 ft. | UK69;
-165° 27' | 13,939 ft. | UK68;
-159° 01' | 9,269 ft. | UK67;
-174° 59' | 14,818 ft. | UK66;
-179° 35' | 5,101 ft. | UK65;
-172° 44' | 9,833 ft. | UK64;
-178° 53' | 6,324 ft. | UK63;
-148° 52' | 3,609 ft. | UK62;
-98° 07' | 3,818 ft. | UK61;
-124° 01' | 5,022 ft. | UK60;
-122° 27' | 284 ft. | UK59;
-147° 13' | 4,281 ft. | UK58;
-157° 07' | 5,115 ft. | UK57;
-66° 06' | 6,710 ft. | UK56;
-107° 46' | 9,418 ft. | UK55;
-117° 32' | 4,055 ft. | UK54;
-151° 38' | 10,044 ft. | UK53;
-131° 09' 171° 33' | 6,896 ft. 7,589 ft. | UK52; UK51;
-185° 03' | 3,500 ft. | UK50;
-181° 55' | 6,136 ft. | UK49;
-177° 35' | 11,141 ft. | UK48;
-156° 20' | 4,169 ft. | UK47;
-142° 05' | 3,944 ft. | UK46;
-175° 32' | 7,091 ft. | UK45;
-170° 00' | 21,063 ft. | UK44;
-112° 40' | 13,232 ft. | UK43;
-119° 36' | 3,082 ft. | UK42;
-160° 39' | 14,972 ft. | UK41;
-105° 33' | 5,819 ft. | UK40;
-87° 07' | 6,099 ft. | UK39;
-98° 58' | 2,741 ft. | UK38;
-32° 32' | 6,258 ft. | UK37;
-120° 25' | 2,826 ft. | UK36;
-157° 06' | 3,252 ft. | UK35;
-113° 29' | 3,665 ft. | UK34;
-106° 38' | 2,097 ft. | UK33;
-109° 05' | 1,927 ft. | UK32;
-119° 28' | 2,032 ft. | UK31;
-154° 27' | 4,336 ft. | UK30;
-156° 57' | 7,396 ft. | UK29;
-74° 05' | 4,234 ft. | UK28;
-140° 39' | 3,143 ft. | UK27;
-159° 12' | 1,522 ft. | UK26;
-159° 02' | 1,137 ft. | UK25;
-162° 28' | 6,582 ft. | UK24;
-164° 56' | 11,085 ft. | UK23;
-173° 19' | 6,900 ft. | UK22;
+147° 08' 7,410 ft. UK76;
+171° 43' 6,334 ft. UK75;
+212° 11' 6,726 ft. UK74;
+249° 27' 3,158 ft. UK73;
+181° 55' 13,506 ft. UK72;
+170° 05' 2,587 ft. UK71;
+129° 00' 5,641 ft. UK70;
+137° 01' 8,709 ft. UK69;
+165° 27' 13,939 ft. UK68;
+159° 01' 9,269 ft. UK67;
+174° 59' 14,818 ft. UK66;
+179° 35' 5,101 ft. UK65;
+172° 44' 9,833 ft. UK64;
+178° 53' 6,324 ft. UK63;
+148° 52' 3,609 ft. UK62;
+98° 07' 3,818 ft. UK61;
+124° 01' 5,022 ft. UK60;
+122° 27' 284 ft. UK59;
+147° 13' 4,281 ft. UK58;
+157° 07' 5,115 ft. UK57;
+66° 06' 6,710 ft. UK56;
+107° 46' 9,418 ft. UK55;
+117° 32' 4,055 ft. UK54;
+151° 38' 10,044 ft. UK53;
+131° 09' 6,896 ft. UK52;
+171° 33' 7,589 ft. UK51;
+185° 03' 3,500 ft. UK50;
+181° 55' 6,136 ft. UK49;
+177° 35' 11,141 ft. UK48;
+156° 20' 4,169 ft. UK47;
+142° 05' 3,944 ft. UK46;
+175° 32' 7,091 ft. UK45;
+170° 00' 21,063 ft. UK44;
+112° 40' 13,232 ft. UK43;
+119° 36' 3,082 ft. UK42;
+160° 39' 14,972 ft. UK41;
+105° 33' 5,819 ft. UK40;
+87° 07' 6,099 ft. UK39;
+98° 58' 2,741 ft. UK38;
+32° 32' 6,258 ft. UK37;
+120° 25' 2,826 ft. UK36;
+157° 06' 3,252 ft. UK35;
+113° 29' 3,665 ft. UK34;
+106° 38' 2,097 ft. UK33;
+109° 05' 1,927 ft. UK32;
+119° 28' 2,032 ft. UK31;
+154° 27' 4,336 ft. UK30;
+156° 57' 7,396 ft. UK29;
+74° 05' 4,234 ft. UK28;
+140° 39' 3,143 ft. UK27;
+159° 12' 1,522 ft. UK26;
+159° 02' 1,137 ft. UK25;
+162° 28' 6,582 ft. UK24;
+164° 56' 11,085 ft. UK23;
+173° 19' 6,900 ft. UK22;
 
 115
 
@@ -6294,32 +6304,31 @@ From this point the boundary is defined by a series of Boundary Pillars joined b
 
 [[START OF PAGE 116]]
 
-181° 26' | 2,542 ft. | UK21;
---- | --- | ---
-191° 10' | 3,580 ft. | UK20;
-190° 36' | 12,898 ft. | UK19;
-133° 27' | 7,521 ft. | UK18;
-161° 49' | 6,006 ft. | UK17;
-162° 32' | 4,634 ft. | UK16;
-136° 59' | 17,307 ft. | UK15;
-157° 19' | 6,478 ft. | UK14;
-145° 56' | 9,097 ft. | UK13;
-128° 23' | 7,482 ft. | UK12;
-79° 21' | 3,788 ft. | UK11;
-6° 50' | 6,123 ft. | UK10;
-75° 11' | 5,044 ft. | UK9;
-144° 31' | 2,289 ft. | UK8;
-169° 05' | 14,429 ft. | UK7;
-165° 40' | 12,000 ft. | UK6;
-92° 56' | 7,352 ft. | UK5;
-160° 24' | 1,785 ft. | UK4;
-167° 20' | 4,482 ft. | UK3;
-158° 00' | 10,395 ft. | UK2;
-86° 07' | 2,112 ft. | UK1;
+181° 26' 2,542 ft. UK21;
+191° 10' 3,580 ft. UK20;
+190° 36' 12,898 ft. UK19;
+133° 27' 7,521 ft. UK18;
+161° 49' 6,006 ft. UK17;
+162° 32' 4,634 ft. UK16;
+136° 59' 17,307 ft. UK15;
+157° 19' 6,478 ft. UK14;
+145° 56' 9,097 ft. UK13;
+128° 23' 7,482 ft. UK12;
+79° 21' 3,788 ft. UK11;
+6° 50' 6,123 ft. UK10;
+75° 11' 5,044 ft. UK9;
+144° 31' 2,289 ft. UK8;
+169° 05' 14,429 ft. UK7;
+165° 40' 12,000 ft. UK6;
+92° 56' 7,352 ft. UK5;
+160° 24' 1,785 ft. UK4;
+167° 20' 4,482 ft. UK3;
+158° 00' 10,395 ft. UK2;
+86° 07' 2,112 ft. UK1;
 
 situated on the east bank of the River Kanamuton at Map Reference YT 1773 (Sheet NA-36-8); thence following a straight line up the centre to the top of the pass known as Karamuroi (Pokot) or  Karithakol  (Karamojong);  thence  southerly  following  a  straight  line  to  the  hillock  called Lokula; thence southeasterly following a straight line to a beacon at the highest point of the ridge known as Kariemakaris; thence continuing following a straight line, still southerly, to the foot of the western spur of the hill known as Aoruma, and following the foot of that spur to a beacon; thence in a generally southerly direction following straight lines to the westernmost end of the small hillock known as Lewi Lewi, to the hillock known as Sumemerr (known to the Pokot as Sumaremar)  to  the  hillock  Morumeri,  to  the  hill  known  as  Kauluk,  across  the  Kanyangareng River to Nongalitaba Hill, across the Kunyao River to the small hillock known as Lokwamor, to the hillock known as Kokas, to Korkurao Hill; thence to Sagat Hill and along the highest points of  the  rocky  ridge  (forming  a  continuation  of  Mount  Riwa  and  known  collectively  by  the Karamojong as Kogipie) known severally as Sagat (Karamojong) or Kogipie (Pokot), Moruebu and Karenyang; thence to the summit of the hill Muregogoi; thence following a straight line to the source of the River Maragat; thence by the centre of the River Maragat to its confluence with the river Maron; thence southwesterly by the foot of the northwestern slopes of Kassauria Hill to the  western  extremity  of  that  hill;  thence  following  a  straight  line  southeasterly  to  the northeastern extremity of Mount Riwa; thence following the foot of the eastern portion of Mount Riwa  to  the  source  of  the  Kanyerus  River  (marked  by  a  large  tree);  thence  southeasterly following a line of cairns, approximately in a straight line to the confluence of the River Bukwa (Kibukwa)  with  the  River  Suam  (Swam);  thence  following  the  thalweg  of  the  River  Suam, upstream, to the point where the more northwesterly of the two streams forming the River Suam (Swam) or Turkwell emerges from the crater of Mount Elgon; thence following a straight line southwesterly to the highest point of Mount Elgon (Sudek).
 
-From this point, the boundary continues following a straight line in a northwesterly direction to the  Wagagai  summit  of  Mount  Elgon;  thence  following  a  straight  line,  southwesterly,  to  the source of the River Lwakhakha (also known as the Malaba); thence following the thalweg of the River Malaba to its intersection with the eastern side of the Majanji-Busia-Tororo road at Map Reference XR 2765 (Sheet NA-36-15); thence in a southwesterly direction following a line on the east side of and 100 feet distant from and parallel to the centre line of the said road to its intersection  with  the  River  Okame  at  Map  Reference  XR  2458  (Sheet  NA-36-15);  thence upstream  following  the  thalweg  of  the  River  Okame  to  its  confluence  with  the  River  Alupe; thence upstream following the thalweg of the River Alupe to a point at Map Reference XR 2453 (Sheet NA-36-15) marked by a boundary cairn; thence following successively in a southwesterly direction, a number of boundary cairns at distances from each other of 550 feet, 1,226 feet, 959 feet, 976 feet, 1,007 feet, 580 feet, 1,512 feet, 463 feet, 2,364 feet (on the northern side of the main Busia-Mumias road) and 1,436 feet at the source of the River Sango at Map Reference XR 2251  (Sheet  NA-36-15);  thence  downstream  following  the  thalweg  of  the  River  Sango  to  its confluence  with  the  River  Sio;  thence  following  the  thalweg  of  the  River  Sio  to  its  mouth  in Lake Victoria.
+From this point, the boundary continues following a straight line in a northwesterly direction to the Wagagai summit of Mount Elgon; thence following a straight line, southwesterly, to the source of the River Lwakhakha (also known as the Malaba); thence following the thalweg of the River Malaba to its intersection with the eastern side of the Majanji-Busia-Tororo road at Map Reference XR 2765 (Sheet NA-36-15); thence in a southwesterly direction following a line on the east side of and 100 feet distant from and parallel to the centre line of the said road to its intersection with the River Okame at Map Reference XR 2458 (Sheet NA-36-15); thence
 
 116
 
@@ -6327,9 +6336,11 @@ From this point, the boundary continues following a straight line in a northwest
 
 [[START OF PAGE 117]]
 
-From  this  point,  the  boundary  continues  following  a  straight  line  southwesterly  to  the  most northerly point of Sumba Island; thence by the western and southwestern shores of that island to its most southerly point; thence following a straight line southeasterly to the most westerly point of Mageta Island; thence following a straight line, still southerly, to the most western point of Kiringiti Island; thence following a straight line southerly to the most westerly point of Ilemba Island;  thence  following  a  straight  line  southerly  to  the  westernmost  point  of  Pyramid  Island; thence following a straight line due south to a point on latitude 01000'S.
+upstream following the thalweg of the River Okame to its confluence with the River Alupe; thence upstream following the thalweg of the River Alupe to a point at Map Reference XR 2453 (Sheet NA-36-15) marked by a boundary cairn; thence following successively in a southwesterly direction, a number of boundary cairns at distances from each other of 550 feet, 1,226 feet, 959 feet, 976 feet, 1,007 feet, 580 feet, 1,512 feet, 463 feet, 2,364 feet (on the northern side of the main Busia-Mumias road) and 1,436 feet at the source of the River Sango at Map Reference XR 2251 (Sheet NA-36-15); thence downstream following the thalweg of the River Sango to its confluence with the River Sio; thence following the thalweg of the River Sio to its mouth in Lake Victoria.
 
-From this point the boundary continues following the 01000'S parallel to the western shore of Lake Victoria; thence following the boundary pillars already erected along the 01000'S as far as the second crossing of this line by the River Kagera, between boundary pillars Nos. 27 and 26; thence  following  the  thalweg  of  the  River  Kagera,  upstream,  to  its  confluence  with  the  River Kakitumba; thence following the thalweg of the River Kakitumba, upstream, to its confluence with  the  River  Chizinga;  hence  following  the  River  Chizinga,  upstream,  to  the  source  of  its southwestern  branch  marked  by  BP  38,  and  continuing  along  the  thalweg  in  a  southwesterly direction to BP 37 on the saddle between the hills Mavari and Kitoff; thence northwesterly in a straight line to a direction pillar on a knoll at the foot of the easterly spur of Kitoff; thence in a straight line along the easterly spur of Kitoff to a direction pillar; thence in a straight line to a direction  pillar  on  the  southeasterly  spur  of  Kitoff;  thence  in  a  straight  line  to  BP  36  on  the prominent southerly spur of Kitoff; thence continuing around the slopes of the hill Kitoff marked by direction pillars to BP 35 and by direction pillars along the westerly spur of Kitoff and in a series of straight lines to BP 34; thence continuing to BPs 33 and 32 along the eastern slopes of the Mashuri range marked at each change of direction by a direction pillar as far as BP 31 on a conspicuous  small  hill;  thence  in  a  straight  line  in  a  southeasterly direction  to  another conspicuous small hill  marked  by  a  direction  pillar;  thence  in  a  straight  line  across  the  River Muvumba to  the  southern  summit  of  the  hill  Ndega  (Mbega)  marked  by  BP  30;  thence  in  a straight line to a direction pillar in the valley between the hills Ndega and Kivisa; thence in a straight line to a direction pillar on the northern spur of the hill Kivisa; thence in along the spur of this hill to its summit marked by BP 29; thence continuing along a very conspicuous water parting  to  the  top  of  the  hill  Magumbizi  marked  by  BP  28;  thence  along  a  line  marked  by direction pillars following the long easterly spur of the hill Nebishagara to its summit marked by BP 27; thence along the crest of the conspicuous westerly spur to a direction pillar; thence in a straight line to a direction pillar on a conspicuous knoll in the valley; thence along the crest of a spur leading southwest and south to the summit of the hill Kitanga marked by a direction pillar; thence  in  a  straight  line  to  the  summit  of  the  conspicuous  small  hill  Nyakara  marked  by  a direction pillar; thence in a straight line marked by a direction pillar in the valley to BP 26 on the northern crest of the hill Kabimbiri; thence along the crest in a southerly direction to the top of Kabimbiri  marked  by  BP  25;  thence  along  the  crest  of  this  hill  in  a  northwesterly  direction, marked by direction pillars to BP 24; thence down the crest of a prominent spur to BP 23 at its foot,  as  more  particularly  delineated  on  Uganda  1/50,000  sheet  94/3  (Series  Y  732).  The boundary  then  crosses  the  Kamuganguzi  or  Murinda  swamp  and  follows  the  thalweg  of  the Kiruruma  swamp  to  a  direction  pillar  at  the  edge  of  that  swamp  and  thence  to  BP  22  on  a conspicuous knoll; thence in a west-southwesterly direction marked by direction pillars along the spur of the hill Kisibo to its summit marked by BP 21; thence in a straight line to BP 20 in the valley east of the hill Sanja; thence in a straight line to the top of the hill Sanja marked by BP 19;
+From this point, the boundary continues following a straight line southwesterly to the most northerly point of Sumba Island; thence by the western and southwestern shores of that island to its most southerly point; thence following a straight line southeasterly to the most westerly point of Mageta Island; thence following a straight line, still southerly, to the most western point of Kiringiti Island; thence following a straight line southerly to the most westerly point of Ilemba Island; thence following a straight line southerly to the westernmost point of Pyramid Island; thence following a straight line due south to a point on latitude 01°00'S.
+
+From this point the boundary continues following the 01°00'S parallel to the western shore of Lake Victoria; thence following the boundary pillars already erected along the 01°00'S as far as the second crossing of this line by the River Kagera, between boundary pillars Nos. 27 and 26; thence following the thalweg of the River Kagera, upstream, to its confluence with the River Kakitumba; thence following the thalweg of the River Kakitumba, upstream, to its confluence with the River Chizinga; hence following the River Chizinga, upstream, to the source of its southwestern branch marked by BP 38, and continuing along the thalweg in a southwesterly direction to BP 37 on the saddle between the hills Mavari and Kitoff; thence northwesterly in a straight line to a direction pillar on a knoll at the foot of the easterly spur of Kitoff; thence in a straight line along the easterly spur of Kitoff to a direction pillar; thence in a straight line to a direction pillar on the southeasterly spur of Kitoff; thence in a straight line to BP 36 on the prominent southerly spur of Kitoff; thence continuing around the slopes of the hill Kitoff marked by direction pillars to BP 35 and by direction pillars along the westerly spur of Kitoff and in a series of straight lines to BP 34; thence continuing to BPs 33 and 32 along the eastern slopes of the Mashuri range marked at each change of direction by a direction pillar as far as BP 31 on a conspicuous small hill; thence in a straight line in a southeasterly direction to another conspicuous small hill marked by a direction pillar; thence in a straight line across the River Muvumba to the southern summit of the hill Ndega (Mbega) marked by BP 30; thence in a straight line to a direction pillar in the valley between the hills Ndega and Kivisa; thence in a straight line to a direction pillar on the northern spur of the hill Kivisa; thence in along the spur of this hill to its summit marked by BP 29; thence continuing along a very conspicuous water parting to the top of the hill Magumbizi marked by BP 28; thence along a line marked by direction pillars following the long easterly spur of the hill Nebishagara to its summit marked by BP 27; thence along the crest of the conspicuous westerly spur to a direction pillar; thence in a straight line to a direction pillar on a conspicuous knoll in the valley; thence along the crest of a spur leading southwest and south to the summit of the hill Kitanga marked by a direction pillar; thence in a straight line to the summit of the conspicuous small hill Nyakara marked by a direction pillar; thence in a straight line marked by a direction pillar in the valley to BP 26 on the northern crest of the hill Kabimbiri; thence along the crest in a southerly direction to the top of Kabimbiri marked by BP 25; thence along the crest of this hill in a northwesterly direction, marked by direction pillars to BP 24; thence down the crest of a prominent spur to BP 23 at its foot, as more particularly delineated on Uganda 1/50,000 sheet 94/3 (Series Y 732). The boundary then crosses the Kamuganguzi or Murinda swamp and follows the thalweg of the Kiruruma swamp to a direction pillar at the edge of that swamp and thence to BP 22 on a conspicuous knoll; thence in a west-southwesterly direction marked by direction pillars along the spur of the hill Kisibo to its summit marked by BP 21; thence in a straight line to BP 20 in the valley east of the hill Sanja; thence in a straight line to the top of the hill Sanja marked by BP 19;
 
 117
 
@@ -6347,55 +6358,55 @@ article 10(a).
 
 #### Uganda's indigenous communities as at 1st February, 1926.
 
-- Acholi
+1. Acholi
 
-- Aliba
+2. Aliba
 
-- Alur
+3. Alur
 
-- Aringa
+4. Aringa
 
-- Baamba
+5. Baamba
 
-- Babukusu
+6. Babukusu
 
-- Babwisi
+7. Babwisi
 
-- Bafumbira
+8. Bafumbira
 
-- Baganda
+9. Baganda
 
-- Bagisu
+10. Bagisu
 
-- Bagungu
+11. Bagungu
 
-- Bagwe
+12. Bagwe
 
-- Bagwere
+13. Bagwere
 
-- Bahehe
+14. Bahehe
 
-- Bahororo
+15. Bahororo
 
-- Bakenyi
+16. Bakenyi
 
-- Bakiga
+17. Bakiga
 
-- Bakonzo
+18. Bakonzo
 
-- Banyabindi
+19. Banyabindi
 
-- Banyabutumbi
+20. Banyabutumbi
 
-- Banyankore
+21. Banyankore
 
-- Banyara
+22. Banyara
 
-- Banyaruguru
+23. Banyaruguru
 
-- Banyarwanda
+24. Banyarwanda
 
-- Banyole
+25. Banyole
 
 118
 
@@ -6403,91 +6414,85 @@ article 10(a).
 
 [[START OF PAGE 119]]
 
-- Banyoro
+26. Banyoro
 
-- Baruli
+27. Baruli
 
-- Barundi
+28. Barundi
 
-- Basamia
+29. Basamia
 
-- Basoga
+30. Basoga
 
-- Basongora
+31. Basongora
 
-- Batagwenda
+32. Batagwenda
 
-- Batoro
+33. Batoro
 
-- Batuku
+34. Batuku
 
-- Batwa
+35. Batwa
 
-- Chope
+36. Chope
 
-- Dodoth
+37. Dodoth
 
-- Ethur
+38. Ethur
 
-- Gimara
+39. Gimara
 
-- Ik
+40. Ik (Teuso)
 
-(Teuso)
+41. Iteso
 
-- 41 Iteso
+42. Jie
 
-- Jie
+43. Jonam
 
-- Jonam
+44. Jopadhola
 
-- Jopadhola
+45. Kakwa
 
-- Kakwa
+46. Karimojong
 
-- Karimojong
+47. Kebu (Okebu)
 
-- Kebu
+48. Kuku
 
-(Okebu)
+49. Kumam
 
-- Kuku
+50. Langi
 
-- Kumam
+51. Lendu
 
-- Langi
+52. Lugbara
 
-- 51 Lendu
+53. Madi
 
-- 52 Lugbara
+54. Mening
 
-- Madi
+55. Mvuba
 
-- Mening
+56. Napore
 
-- Mvuba
+57. Ngikutio
 
-- Napore
+58. Nubi
 
-- Ngikutio
+59. Nyangia
 
-- Nubi
+60. Pokot
 
-- Nyangia
+61. Reli
 
-- Pokot
+62. Sabiny
 
-- Reli
+63. Shana
 
-- Sabiny
+64. So (Tepeth)
 
-- Shana
-
-- So
-
-(Tepeth)
-
-- Vonoma
+65. Vonoma
 
 ----
 
@@ -6547,33 +6552,98 @@ I,  ___________________________________________,  being  called  upon  to  exerc
 ### Fifth Schedule.
 
 article 178.
+
 #### Regional Governments
 
-##### Name of regional governments.
+##### 1. Name of regional governments.
 
 A regional government may adopt its own name.
 
-##### Composition of regional assembly.
+##### 2. Composition of regional assembly.
 
-(1) The  composition  of  a  regional  assembly  shall  be  prescribed  by  Act  of Parliament and shall consist of(a) directly  elected  representatives  elected  on  the  basis  of  universal  adult suffrage at elections conducted by the Electoral Commission; (b) representatives  of  women,  who  shall  not  be  less  than  one-third  of  the membership; (c) representatives of the youth and persons with disabilities; (d) representatives  of  indigenous  cultural  interests  in  areas  where  there  is  a traditional or cultural leader, nominated by the traditional or cultural leader but not exceeding fifteen percent of the members of the regional assembly; and (e) district chairpersons in the region who shall be ex-officio members with no right to vote. (2) A regional assembly shall have a speaker  elected by the regional assembly from among its members; but a person shall only be taken to have been elected if the votes cast  in  his  or  her  favour  are  more  than  fifty  percent  of  all  the  members  of  the  regional assembly. (3) The  speaker  of  the  regional  assembly  shall,  in  relation  to  the  regional assembly, perform similar functions to those of the Speaker of Parliament. (4) Members of regional assemblies shall serve for the same term as members of district councils.
+(1) The composition of a regional assembly shall be prescribed by Act of Parliament and shall consist of—
+
+(a) directly elected representatives elected on the basis of universal adult suffrage at elections conducted by the Electoral Commission;
+
+(b) representatives of women, who shall not be less than one-third of the membership;
+
+(c) representatives of the youth and persons with disabilities;
+
+(d) representatives of indigenous cultural interests in areas where there is a traditional or cultural leader, nominated by the traditional or cultural leader but not exceeding fifteen percent of the members of the regional assembly; and
+
+(e) district chairpersons in the region who shall be ex-officio members with no right to vote.
+
+(2) A regional assembly shall have a speaker elected by the regional assembly from among its members; but a person shall only be taken to have been elected if the votes cast in his or her favour are more than fifty percent of all the members of the regional assembly.
+
+(3) The speaker of the regional assembly shall, in relation to the regional assembly, perform similar functions to those of the Speaker of Parliament.
+
+(4) Members of regional assemblies shall serve for the same term as members of district councils.
+
 ##### 3. Committees of the regional assembly.
-A regional assembly may establish standing and other committees or organs standing The standing committee on cultural matters shall have, as against the rest of the members of the regional assembly, exclusive jurisdiction on the cultural matters of the
+
+(1) A regional assembly may establish standing and other committees or organs for the efficient discharge of its functions.
+
+(2) The representatives of cultural interests shall constitute the standing committee on cultural matters.
+
+(3) The standing committee on cultural matters shall have, as against the rest of the members of the regional assembly, exclusive jurisdiction on the cultural matters of the region.
+
+(4) In this paragraph 'cultural matters' include the following—
 
 121
-
-(1) for the efficient discharge of its functions. (2) The representatives of cultural interests shall constitute the committee on cultural matters. (3) region. (4) In this paragraph 'cultural matters' include the following-
 
 [[END OF PAGE 121]]
 
 [[START OF PAGE 122]]
 
-(a) the choice and installation of a traditional leader or cultural leader; (b) all  traditional  and  cultural  matters  relating  to  the  traditional  or  cultural leader and to the institutions of the traditional leader or cultural leader as well as royal members of the traditional leadership; (c) the choice, appointment and succession to clan and subclan leadership; (d) clan, traditional and customary matters; (e) matters relating to cultural funeral rites, cultural succession and customary heirs; (f) cultural or traditional lands, sites, shrines and installations; (g) clan lands, sites, shrines and installations; and (h) traditional, customary and cultural practices which are consistent with this Constitution. (5) In  carrying  out  its  responsibilities  under  subparagraphs  (3)  and  (4),  the standing committee on cultural matters shall consult the traditional or cultural leader of the region as well as the relevant clan leaders. (6) A  decision  of  the  standing  committee  on  cultural  matters  shall  not  be effective until the decision has been approved by the traditional or cultural leader of the region  and,  in  the  case  of  succession  under  subparagraph  (4)(a),  by  the  clan  or  cultural leader's council.
-##### 4. Regional government.
-(1) A  regional  government  shall  be  led  by  a  regional  chairperson  elected  in accordance with this paragraph. (2) A person shall not be qualified to be elected a regional chairperson unless(a) he  or  she  is  a  citizen  of  Uganda  by  birth  as  defined  in  article  10  of  this Constitution and one of whose parents or grandparents is or was a resident in  the  region  and  a  member  of  the  indigenous  communities  existing  and residing within the borders of the region as at the first day of February 1926; (b) he or she is qualified to be a member of Parliament; and (c) he or she is not less than thirty-five years of age. (3) A regional chairperson shall(a) be directly elected by universal adult suffrage at an election conducted by the Electoral Commission; (b) be willing and able, where applicable, to adhere to and perform the cultural and traditional functions and rites required by his or her office; (c) where  applicable,  upon  election,  be  given  instruments  of  office  by  the cultural or traditional leader of the region; and (d) be the political head of the regional government. (4) Parliament shall by law prescribe the grounds and procedure for removal of the chairperson of the regional government.
-##### 5. Ministers of regional government.
-(1) A regional government shall have regional ministers who shall be appointed by the head of the regional government with the approval of the regional assembly. (2) The  number  of  regional  ministers  of  a  region  shall  be  determined  by
+(a) the choice and installation of a traditional leader or cultural leader;
 
-- Parliament.
+(b) all traditional and cultural matters relating to the traditional or cultural leader and to the institutions of the traditional leader or cultural leader as well as royal members of the traditional leadership;
+
+(c) the choice, appointment and succession to clan and subclan leadership;
+
+(d) clan, traditional and customary matters;
+
+(e) matters relating to cultural funeral rites, cultural succession and customary heirs;
+
+(f) cultural or traditional lands, sites, shrines and installations;
+
+(g) clan lands, sites, shrines and installations; and
+
+(h) traditional, customary and cultural practices which are consistent with this Constitution.
+
+(5) In carrying out its responsibilities under subparagraphs (3) and (4), the standing committee on cultural matters shall consult the traditional or cultural leader of the region as well as the relevant clan leaders.
+
+(6) A decision of the standing committee on cultural matters shall not be effective until the decision has been approved by the traditional or cultural leader of the region and, in the case of succession under subparagraph (4)(a), by the clan or cultural leader's council.
+
+##### 4. Regional government.
+
+(1) A regional government shall be led by a regional chairperson elected in accordance with this paragraph.
+
+(2) A person shall not be qualified to be elected a regional chairperson unless—
+
+(a) he or she is a citizen of Uganda by birth as defined in article 10 of this Constitution and one of whose parents or grandparents is or was a resident in the region and a member of the indigenous communities existing and residing within the borders of the region as at the first day of February 1926;
+
+(b) he or she is qualified to be a member of Parliament; and
+
+(c) he or she is not less than thirty-five years of age.
+
+(3) A regional chairperson shall—
+
+(a) be directly elected by universal adult suffrage at an election conducted by the Electoral Commission;
+
+(b) be willing and able, where applicable, to adhere to and perform the cultural and traditional functions and rites required by his or her office;
+
+(c) where applicable, upon election, be given instruments of office by the cultural or traditional leader of the region; and
+
+(d) be the political head of the regional government.
+
+(4) Parliament shall by law prescribe the grounds and procedure for removal of the chairperson of the regional government.
+
+##### 5. Ministers of regional government.
+
+(1) A regional government shall have regional ministers who shall be appointed by the head of the regional government with the approval of the regional assembly.
+
+(2) The number of regional ministers of a region shall be determined by Parliament.
 
 122
 
@@ -6585,11 +6655,11 @@ A regional assembly may establish standing and other committees or organs standi
 
 A regional government shall cooperate with Ministries of the Central Government but on policy matters they shall liaise with the office of the President.
 
-##### Voting in the regional assembly.
+##### 7. Voting in the regional assembly.
 
-- Representatives of Cultural interests as defined in paragraph 3 shall not vote on any partisan matter.
+(1) Representatives of Cultural interests as defined in paragraph 3 shall not vote on any partisan matter.
 
-- A matter shall be considered to be of a partisan nature if in the course of its being  tabled  or  debated  in  a  regional  assembly  it  is  declared  by  a  majority  vote  of  the directly elected representatives to be partisan.
+(2) A matter shall be considered to be of a partisan nature if in the course of its being tabled or debated in a regional assembly it is declared by a majority vote of the directly elected representatives to be partisan.
 
 ##### 8. Role of traditional or cultural leader.
 
@@ -6654,7 +6724,27 @@ Parliament shall by law(a) gazette national cultural heritage sites; and (b) pro
 
 [[START OF PAGE 125]]
 
-(d) it  has become extremely difficult or impossible for the regional government to function, a regional government shall be liable to a takeover of its administration by the President in a manner prescribed by an Act of Parliament and similar to the takeover of administration of a district under article 202 of this Constitution. (2) In the circumstances described in subparagraph (1), the President may, with the  approval  of  two-thirds  of  the  members  of  Parliament,  assume  the  executive  and legislative powers of the regional government. (3) The  exercise  by  the  President  of  the  power  to  assume  the  executive  and legislative powers in subparagraph (2), may be done through such persons or officers as the President  may  appoint;  and  legislative  functions  shall  be  exercised  by  making  statutory instruments. (4) Where  the  President  assumes  the  exercise  of  the  legislative  powers  of  a regional government under this paragraph, the President shall have no power to make laws on cultural matters as defined in paragraph 3 of this Schedule. (5) Unless  approved  by  Parliament  for  a  longer  term,  the  exercise  by  the President of the power to takeover, shall be for a period not exceeding ninety days. (6) Upon the expiry of the term under subparagraph (5)(a) the  President  shall  hand  back  the  administration  of  the  region  to  the incumbent regional government; or (b) if  Parliament,  by  a  resolution  supported  by  not  less  than  two-thirds  of  all members of Parliament, decides that the prevailing circumstances still make it impossible for the incumbent government to resume the administration of the region(i) where  the  unexpired  term  of  the  regional  assembly  is  longer  than twelve months, the President shall cause elections to be held for a new regional assembly within sixty days; or where the unexpired term of the regional assembly is less than twelve months, the President shall continue to administer the region until the
+(d) it has become extremely difficult or impossible for the regional government to function,
+
+a regional government shall be liable to a takeover of its administration by the President in a manner prescribed by an Act of Parliament and similar to the takeover of administration of a district under article 202 of this Constitution.
+
+(2) In the circumstances described in subparagraph (1), the President may, with the approval of two-thirds of the members of Parliament, assume the executive and legislative powers of the regional government.
+
+(3) The exercise by the President of the power to assume the executive and legislative powers in subparagraph (2), may be done through such persons or officers as the President may appoint; and legislative functions shall be exercised by making statutory instruments.
+
+(4) Where the President assumes the exercise of the legislative powers of a regional government under this paragraph, the President shall have no power to make laws on cultural matters as defined in paragraph 3 of this Schedule.
+
+(5) Unless approved by Parliament for a longer term, the exercise by the President of the power to takeover, shall be for a period not exceeding ninety days.
+
+(6) Upon the expiry of the term under subparagraph (5)—
+
+(a) the President shall hand back the administration of the region to the incumbent regional government; or
+
+(b) if Parliament, by a resolution supported by not less than two-thirds of all members of Parliament, decides that the prevailing circumstances still make it impossible for the incumbent government to resume the administration of the region—
+
+(i) where the unexpired term of the regional assembly is longer than twelve months, the President shall cause elections to be held for a new regional assembly within sixty days; or
+
+(ii) where the unexpired term of the regional assembly is less than twelve months, the President shall continue to administer the region until the next elections are held.
 
 ----
 
@@ -6664,23 +6754,21 @@ article 189.
 
 #### Functions and services for which Government is responsible.
 
-- 1 Arms, ammunition and explosives.
+1 Arms, ammunition and explosives.
 
-- 2 Defence, security, maintenance of law and order.
+2 Defence, security, maintenance of law and order.
 
-- 3 Banks, banking, promissory notes, currency and exchange control.
+3 Banks, banking, promissory notes, currency and exchange control.
 
-- 4 Subject to this Constitution, taxation and taxation policy.
+4 Subject to this Constitution, taxation and taxation policy.
 
-- 5 Citizenship, immigration, emigration, refugees, deportation, extradition, passports and national identity cards.
+5 Citizenship, immigration, emigration, refugees, deportation, extradition, passports and national identity cards.
 
-- 6 Copyrights,  patents and  trademarks  and  all forms  of  intellectual property; incorporation and regulation of business organisations.
+6 Copyrights, patents and trademarks and all forms of intellectual property; incorporation and regulation of business organisations.
 
-- 7 Land, mines, mineral and water resources and the environment.
+7 Land, mines, mineral and water resources and the environment.
 
-- 8 National parks, as may be prescribed by Parliament.
-
-(ii) next elections are held.
+8 National parks, as may be prescribed by Parliament.
 
 125
 
@@ -6740,25 +6828,30 @@ article 193.
 
 #### Unconditional grant to local governments.
 
-Unconditional  grant  is  the  minimum  amount  to  be  paid  to  the  local  governments  to  run  the decentralised services. For a given fiscal year, this amount is equal to the amount paid to local governments in the preceding fiscal year for the same items adjusted 1  for general price changes plus  or  minus  the  budgeted  cost  of  running  added  or  subtracted  services;  calculated  in accordance with the following formula-
+Unconditional grant is the minimum amount to be paid to the local governments to run the decentralised services. For a given fiscal year, this amount is equal to the amount paid to local governments in the preceding fiscal year for the same items adjusted¹ for general price changes plus or minus the budgeted cost of running added or subtracted services; calculated in accordance with the following formula—
 
-Where-
+Y₁ = Y₀ + bY₀ + X₁
+   = (1+b)Y₀ + X₁
 
-Y 1 is the minimum unconditional grant for the current fiscal year;
+Where—
 
-Y o is the minimum unconditional grant in the preceding fiscal year;
+Y₁ is the minimum unconditional grant for the current fiscal year;
+
+Y₀ is the minimum unconditional grant in the preceding fiscal year;
 
 b is the percentage change, if any, in the general price levels in the preceding fiscal year; and
 
-X 1 is the net change in the budgeted cost of running added and subtracted services in the current year.
+X₁ is the net change in the budgeted cost of running added and subtracted services in the current year.
 
-For the purposes of this formula the current fiscal year shall be taken to commence with fiscal year 1995/96.
+For the purposes of this formula the current fiscal year shall be taken to commence with fiscal
 
 126
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+
+year 1995/96.
 
 1   Note  that  the  unconditional  grant  is  equal  to  the  sum  of  wage  and  nonwage  components. Therefore,  the  wage  components  should  be  adjusted  for  the  wage  increase,  if  any,  while  the nonwage component is adjusted for the changes in the general price levels.
 
