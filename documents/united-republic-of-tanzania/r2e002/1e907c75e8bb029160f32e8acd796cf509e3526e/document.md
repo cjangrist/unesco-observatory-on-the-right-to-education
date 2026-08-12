@@ -12,7 +12,7 @@ CHAPTER 2 OF THE LAWS ________
 
 [[START OF PAGE 2]]
 
-The following is the official Revised version in English of 'KATIBA YA JAMHURI YA MUUNGANO  WA  TANZANIA  YA  MWAKA  1977'.    This  revised  edition  of  the Constitution  of  the  United  Republic  of  Tanzania  incorporates  and  consolidates  all amendments  made  therein  by  the  Constituent  Assembly  in  1977  up  to  the  14 th Amendment of 2005 and it is printed and published under section 4 of the Laws Revision Act Chapter 4.
+The following is the official Revised version in English of “KATIBA YA JAMHURI YA MUUNGANO WA TANZANIA YA MWAKA 1977”. This revised edition of the Constitution of the United Republic of Tanzania incorporates and consolidates all amendments made therein by the Constituent Assembly in 1977 up to the 14th Amendment of 2005 and it is printed and published under section 4 of the Laws Revision Act Chapter 4.
 
 2
 
@@ -20,50 +20,11 @@ The following is the official Revised version in English of 'KATIBA YA JAMHURI Y
 
 [[START OF PAGE 3]]
 
-Article
-
-- 12.
-
-### PART II
-
-### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
-
-- Interpretation.
-
-- Application of the provisions of Part II.
-
-- The Government and the People.
-
-- The pursuit of Ujamaa and Self-Reliance.
-
-[Repealed].
-
-- Right to work, to educational and other pursuits.
-
-### PART III
-### BASIC RIGHTS AND DUTIES
-
-#### The Right to Equality
-
-- Equality of human beings.
-
-- Equality before the law.
-
-- 14.
-
-- The right to life.
-
-- Right to personal freedom.
-
-- Right to privacy and personal security.
-
-- Right to freedom of movement.
-
 # THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA (CAP. 2)
 
 ## ARRANGEMENT OF CONTENTS
 
-Title
+Article Title
 
 ## PREAMBLE
 ## CHAPTER ONE
@@ -74,17 +35,37 @@ Title
 
 ### THE UNITED REPUBLIC AND THE PEOPLE
 
-- Proclamation of the United Republic.
+1. Proclamation of the United Republic.
+2. The territory of the United Republic.
+3. Declaration of Multi-Party State.
+4. Exercise of State Authority of the United Republic.
+5. The Franchise.
 
-- The territory of the United Republic.
+### PART II
 
-- Declaration of Multi-Party State.
+### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
 
-- Exercise of State Authority of the United Republic.
+6. Interpretation.
+7. Application of the provisions of Part II.
+8. The Government and the People.
+9. The pursuit of Ujamaa and Self-Reliance.
+10. [Repealed].
+11. Right to work, to educational and other pursuits.
 
-- The Franchise.
+### PART III
+### BASIC RIGHTS AND DUTIES
+
+#### The Right to Equality
+
+12. Equality of human beings.
+13. Equality before the law.
 
 #### The Right to Life
+
+14. The right to life.
+15. Right to personal freedom.
+16. Right to privacy and personal security.
+17. Right to freedom of movement.
 
 3
 
@@ -94,11 +75,94 @@ Title
 
 #### The Right to Freedom of Conscience
 
+18. The freedom of expression.
+19. Right to freedom of religion.
+20. Person’s freedom of association.
+21. Freedom to participate in public affairs.
+
+#### The Right to Work
+
+22. Right to work.
+23. Right to just remuneration.
+24. Right to own property.
+
+#### Duties to the Society
+
+25. Duty to participate in work.
+26. Duty to abide by the laws of the land.
+27. Duty to safeguard public property.
+28. Defence of the Nation.
+
+#### General Provisions
+
+29. Fundamental rights and duties.
+30. Limitations upon, and enforcement and preservation of basic rights, freedoms and duties.
+
+#### Extraordinary Powers of the State Authority
+
+31. Derogation from rights and freedoms.
+32. Power to proclaim state of emergency.
+
+## CHAPTER TWO
+## THE EXECUTIVE OF THE UNITED REPUBLIC
+
+### PART I
+### THE PRESIDENT
+
+33. President of the United Republic.
+34. The Government of the United Republic and its Authority.
+35. Discharge of business of the Government.
+36. Authority to constitute offices and to appoint officers.
+37. Discharge of duties and functions of President.
+38. Election of President.
+39. Qualifications for election of President.
+
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+40. Eligibility for re-election.
+41. Procedures for the election of President.
+42. Time of assumption and term of office of President.
+43. Terms of office of President.
+44. Power to declare war.
+45. Prerogative of mercy.
+46. Immunity from criminal and civil proceedings.
+46A. Impeachment by the National Assembly.
+46B. Duty of principal leaders of organs with executive powers to preserve the Union.
+
+### PART II
+### THE VICE-PRESIDENT
+
+47. Vice-President, his duties and powers.
+48. Time of assumption of office of Vice-President.
+49. Oath of the Vice-President.
+50. Tenure of office of Vice-President.
+
+### PART III
+### PRIME MINISTER, CABINET AND THE GOVERNMENT
+
+#### PRIME MINISTER
+
+51. Prime Minister of the United Republic.
+52. Functions and authority of the Prime Minister.
+53. Accountability of the Executive.
+53A. Vote of no confidence.
+
+#### THE CABINET AND THE GOVERNMENT
+
+54. The Cabinet.
+55. Appointment of Ministers and Deputy Ministers.
+56. Oath of office of Ministers and Deputy Ministers.
+57. Tenure of office of Ministers and Deputy Ministers.
+58. Terms of office of Ministers and Deputy Ministers.
+59. Attorney General for the Government of the United Republic.
+59A. Deputy Attorney General.
+59B. Director of Public Prosecutions.
+60. Secretary to the Cabinet.
+61. Regional Commissioners.
 
 5
 
@@ -113,6 +177,36 @@ Title
 ### PART I
 ### PARLIAMENT
 
+62. Parliament.
+63. Authority of Parliament.
+64. Legislative power.
+65. Life of Parliament.
+
+### PART II
+### MEMBERS, CONSTITUENCIES AND ELECTION OF MEMBERS
+
+66. Members of Parliament.
+67. Qualifications for Member of Parliament.
+68. Oath of Members of Parliament.
+69. Formal declaration by Members of Parliament concerning ethics of leaders.
+70. Members to submit statement of property.
+71. Tenure of office of Member of Parliament.
+72. Cessation of employment of public servants on contesting for elections.
+73. Terms of service of Members of Parliament.
+74. Electoral Commission.
+75. Constituencies.
+
+#### Election and Appointment of Members of Parliament
+
+76. Elections in constituencies.
+77. Procedure for election of Members of Parliament representing constituencies.
+78. Procedure for election of women Members of Parliament.
+79. Procedure for election of Members of Parliament by House of Representatives.
+80. [Repealed].
+81. Procedure for proposing women candidates.
+82. [Repealed].
+83. Determination of the validity of a person’s membership of the Parliament.
+
 6
 
 [[END OF PAGE 6]]
@@ -123,6 +217,38 @@ Title
 ### PROCEDURE, POWERS AND PRIVILAGES OF PARLIAMENT
 
 #### Speaker and Deputy Speaker
+
+84. Speaker and his functions.
+85. Deputy Speaker.
+86. Procedure for electing Speaker and Deputy Speaker.
+
+#### Office of Parliament
+
+87. Clerk of the National Assembly.
+88. The Secretariat of the National Assembly.
+
+#### Procedure in the National Assembly
+
+89. Standing Orders of the National Assembly.
+90. Summoning and dissolution of Parliament.
+91. President may address Parliament.
+92. Meetings of the National Assembly.
+93. Presiding at sittings of the National Assembly.
+94. Quorum at sittings of the National Assembly.
+95. Vacant seats in the National Assembly.
+96. Standing Committees of the National Assembly.
+
+#### Legislative Procedure
+
+97. How to legislate.
+98. Procedure for altering the Constitution and certain laws.
+99. Procedure for legislating in financial matters.
+
+#### Powers and Privileges of Parliament
+
+100. Freedom and immunity from proceedings.
+110A Procedures relating to discipline of Judges of the High Court
+101. Preservation and enforcement of freedom of debate and procedure.
 
 7
 
@@ -136,23 +262,20 @@ Title
 ### PART I
 ### THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
 
-- The Revolutionary Government of Zanzibar and its jurisdiction.
-
-- Head of the Revolutionary Government of Zanzibar and his authority.
-
-- Election of the Head of the Revolutionary Government of Zanzibar.
+102. The Revolutionary Government of Zanzibar and its jurisdiction.
+103. Head of the Revolutionary Government of Zanzibar and his authority.
+104. Election of the Head of the Revolutionary Government of Zanzibar.
 
 ### PART II
 ### THE ZANZIBAR REVOLUTIONARY COUNCIL
 
-- The Zanzibar Revolutionary Council and its functions.
+105. The Zanzibar Revolutionary Council and its functions.
 
 ### PART III
 ### THE HOUSE OF THE REPRESENTATIVES OF ZANZIBAR
 
-- The House of Representatives of Zanzibar and its legislative functions.
-
-- Authority of House of Representatives.
+106. The House of Representatives of Zanzibar and its legislative functions.
+107. Authority of House of Representatives.
 
 ## CHAPTER FIVE
 
@@ -164,9 +287,8 @@ Title
 
 ### DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC
 
-- 107A Authority of dispensing of Justice.
-
-- 107B. Independence of the Judiciary.
+107A Authority of dispensing of Justice.
+107B. Independence of the Judiciary.
 
 8
 
@@ -178,58 +300,44 @@ Title
 
 ### THE HIGH COURT OF THE UNITED REPUBLIC
 
-- High Court of the United Republic and its jurisdiction.
-
-- Judges of the High Court and their appointment.
-
-- Tenure of office of Judges of the High Court.
-
-- Judges' oath of office.
+108. High Court of the United Republic and its jurisdiction.
+109. Judges of the High Court and their appointment.
+110. Tenure of office of Judges of the High Court.
+111. Judges’ oath of office.
 
 ### PART III
 
 ### THE JUDICIAL SERVICE COMMISSION
 
-- Judicial Service Commission.
-
-- Powers and functions of the Commission.
-
-- 113A Membership in political parties.
+112. Judicial Service Commission.
+113. Powers and functions of the Commission.
+113A Membership in political parties.
 
 ### PART IV
 ### THE HIGH COURT OF ZANZIBAR
 
-- The High Court of Zanzibar.
-
-- Jurisdiction of the High Court of Zanzibar.
+114. The High Court of Zanzibar.
+115. Jurisdiction of the High Court of Zanzibar.
 
 ### PART V
 
 ### THE COURT OF APPEAL OF THE UNITED REPUBLIC
 
-- Interpretation.
-
-- Court of Appeal of the United Republic and its jurisdiction.
-
-- Chief Justice and Justices of Appeal and their appointment.
-
-- Jurisdiction of Justices of Appeal.
-
-- Tenure of office of Justices of Appeal.
-
-- 120A Procedures relating to discipline of Justices of Appeal.
-
-- Oath of office of Justices of Appeal.
-
-- Quorum at sittings of the Court of Appeal.
-
-- Jurisdiction of a single Justice of Appeal.
+116. Interpretation.
+117. Court of Appeal of the United Republic and its jurisdiction.
+118. Chief Justice and Justices of Appeal and their appointment.
+119. Jurisdiction of Justices of Appeal.
+120. Tenure of office of Justices of Appeal.
+120A Procedures relating to discipline of Justices of Appeal.
+121. Oath of office of Justices of Appeal.
+122. Quorum at sittings of the Court of Appeal.
+123. Jurisdiction of a single Justice of Appeal.
 
 ### PART VI
 
 ### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION OF ORDERS ISSUED BY THE COURTS
 
-- Execution of court orders in the whole of Tanzania.
+124. Execution of court orders in the whole of Tanzania.
 
 9
 
@@ -241,60 +349,48 @@ Title
 
 ### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
-- Special Constitutional Court of the United Republic.
-
-- Jurisdiction of the Special Constitutional Court.
-
-- Composition of the Special Constitutional Court.
-
-- Procedure at sittings of the Special Constitutional Court.
+125. Special Constitutional Court of the United Republic.
+126. Jurisdiction of the Special Constitutional Court.
+127. Composition of the Special Constitutional Court.
+128. Procedure at sittings of the Special Constitutional Court.
 
 ## CHAPTER SIX
-## THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS' ETHICS SECRETARIAT
+## THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS’ ETHICS SECRETARIAT
 
 ### PART I
 
 ### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE
 
-- Commission for Human Rights and Good Governance.
-
-- Functions of the Commission and performance procedures.
-
-- Powers of the Commission and procedures for performance of functions.
+129. Commission for Human Rights and Good Governance.
+130. Functions of the Commission and performance procedures.
+131. Powers of the Commission and procedures for performance of functions.
 
 ### PART II
 
-### PUBLIC LEADERS' ETHICS SECRETARIAT
+### PUBLIC LEADERS’ ETHICS SECRETARIAT
 
-- Public Leaders' Ethics Secretariat.
-
-## PROVISIONS REGARDING THE FINANCES OF
+132. Public Leaders’ Ethics Secretariat.
 
 ## CHAPTER SEVEN
-## THE UNITED REPUBLIC
+## PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
 
 ### PART I
 
 ### CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
-- Joint Finance Account.
-
-- Joint Finance Commission.
+133. Joint Finance Account.
+134. Joint Finance Commission.
 
 ### PART II
 ### THE CONSOLIDATED FUND AND THE
 
 ### FINANCES OF THE UNITED REPUBLIC
 
-- Consolidated Fund of the Government of the United Republic.
-
-- Conditions for withdrawal of moneys from Consolidated Fund.
-
-- Procedure for authorising expenditure out of Consolidated Fund.
-
-- Conditions of taxation.
-
-- Procedure for authorisation of expenditure in advance of appropriation.
+135. Consolidated Fund of the Government of the United Republic.
+136. Conditions for withdrawal of moneys from Consolidated Fund.
+137. Procedure for authorising expenditure out of Consolidated Fund.
+138. Conditions of taxation.
+139. Procedure for authorisation of expenditure in advance of appropriation.
 
 10
 
@@ -302,40 +398,31 @@ Title
 
 [[START OF PAGE 11]]
 
-- Contingencies Fund and virement.
-
-- Public Debt.
-
-- Remuneration of certain holders of public offices to be a charge on Consolidated Fund.
-
-- Controller and Auditor-General of the United Republic.
-
-- Removal from office of Controller and Auditor-General.
+140. Contingencies Fund and virement.
+141. Public Debt.
+142. Remuneration of certain holders of public offices to be a charge on Consolidated Fund.
+143. Controller and Auditor-General of the United Republic.
+144. Removal from office of Controller and Auditor-General.
 
 ## CHAPTER EIGHT
 ## PUBLIC AUTHORITIES
 
-- The local government authorities.
-
-- Functions of local government authorities.
+145. The local government authorities.
+146. Functions of local government authorities.
 
 ## CHAPTER NINE
 ## ARMED FORCES
 
-- Prohibition to raise and maintain armed forces.
-
-- Powers of Commander-in-Chief.
+147. Prohibition to raise and maintain armed forces.
+148. Powers of Commander-in-Chief.
 
 ## CHAPTER TEN
 ## MISCELLANEOUS PROVISIONS
 
-- Provisions relating to resignation from various offices established by this Constitution.
-
-- Provisions relating to procedure of succession to office in Government service.
-
-- Interpretation.
-
-- Title, commencement and application of this Constitution.
+149. Provisions relating to resignation from various offices established by this Constitution.
+150. Provisions relating to procedure of succession to office in Government service.
+151. Interpretation.
+152. Title, commencement and application of this Constitution.
 
 ______
 
@@ -353,7 +440,7 @@ ______
 
 ### List one
 
-(Laws the amendment of which requires to be supported by at least two - thirds of all Members of Parliament).
+(Laws the amendment of which requires to be supported by at least two – thirds of all Members of Parliament).
 
 ### List two
 
@@ -365,22 +452,39 @@ ______
 
 [[START OF PAGE 12]]
 
-Cap.500 [1965 Edition] Cap 598 [1965 Edition] Acts Nos 14 of 1979 1 and 28 of 1980 21 of 1982 15 of 1984 14 and 16 of 1990 4 and 20 of 1992 7 of 1993 7 and 34 of 1994 12 of 1995 3 of 2000 1 of 2005 G.N.No.133 of 2001 G.N.No.150 of 2005
-
-Act No.15 of 1984 Art.3
-
 # THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA, 1977
 
-[26 th April, 1977)
+Cap.500 [1965 Edition]
+Cap 598 [1965 Edition]
+Acts Nos
+14 of 1979
+1 and 28 of 1980
+21 of 1982
+15 of 1984
+14 and 16 of 1990
+4 and 20 of 1992
+7 of 1993
+7 and 34 of 1994
+12 of 1995
+3 of 2000
+1 of 2005
+G.N.No.133 of 2001
+G.N.No.150 of 2005
+
+[26th April, 1977]
+
+Act No.15
+of 1984
+Art.3
 
 ## PREAMBLE
 ### FOUNDATIONS OF THE CONSTITUTION
 
-WHEREAS  WE,  the  people  of  the  United  Republic  of  Tanzania,  have firmly  and  solemnly  resolved  to  build  in  our  country  a  society  founded  on  the principles of freedom, justice, fraternity and concord:
+WHEREAS WE, the people of the United Republic of Tanzania, have firmly and solemnly resolved to build in our country a society founded on the principles of freedom, justice, fraternity and concord:
 
-AND WHEREAS those principles  can  only  be  realised  in  a  democratic society  in  which  the  Executive  is  accountable  to  a  Legislature  composed  of elected members and representative of the people, and also a Judiciary which is independent and dispenses justice without fear or favour, thereby ensuring that all human rights are preserved and protected and that the duties of every person are faithfully discharged:
+AND WHEREAS those principles can only be realised in a democratic society in which the Executive is accountable to a Legislature composed of elected members and representative of the people, and also a Judiciary which is independent and dispenses justice without fear or favour, thereby ensuring that all human rights are preserved and protected and that the duties of every person are faithfully discharged:
 
-NOW, THEREFORE, THIS CONSTITUTION IS ENACTED BY THE CONSTITUENT ASSEMBLY OF THE UNITED REPUBLIC OF TANZANIA, on behalf of the People, for the purpose of building such a society and ensuring that  Tanzania  is  governed  by  a  Government  that  adheres  to  the  principles  of democracy and socialism and shall be a secular state.
+NOW, THEREFORE, THIS CONSTITUTION IS ENACTED BY THE CONSTITUENT ASSEMBLY OF THE UNITED REPUBLIC OF TANZANIA, on behalf of the People, for the purpose of building such a society and ensuring that Tanzania is governed by a Government that adheres to the principles of democracy and socialism and shall be a secular state.
 
 12
 
@@ -388,15 +492,9 @@ NOW, THEREFORE, THIS CONSTITUTION IS ENACTED BY THE CONSTITUENT ASSEMBLY OF THE 
 
 [[START OF PAGE 13]]
 
-Act No.15 of 1984 Art.5
-
-Proclamation of the United Republic Act No.15 of 1984 Art.6
-
-The territory of the United Republic Act No.15 of 1984 Art.6 Act No.4 of 1992 Art.3
-
-Declaration of multiparty state Act No.4 of 1992 Art.5 Act No.1 of 2005 Art. 4
-
-Exercise of state authority of the United Republic Act No.15 of 1984 Art.6 Act No.1 of 2005 Art.5
+Act No.15
+of 1984
+Art.5
 
 ## CHAPTER ONE
 ## THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF-RELIANCE
@@ -404,23 +502,52 @@ Exercise of state authority of the United Republic Act No.15 of 1984 Art.6 Act N
 ### PART I
 ### THE UNITED REPUBLIC AND THE PEOPLE
 
-- 1 .   Tanzania is one State and is a sovereign United Republic.
+Proclamation of the United Republic
+Act No.15
+of 1984
+Art.6
 
-2. -(1)    The  territory  of  the  United  Republic  consists  of  the  whole  of  the area of Mainland Tanzania and the whole of the area of Tanzania Zanzibar, and includes the territorial waters.
+1. Tanzania is one State and is a sovereign United Republic.
 
-(2)    For  the  purpose  of  the  efficient  discharge  of  the  functions  of  the G overnment  of  the  United  Republic  or  of  the  Revolutionary  Government  of Zanzibar, the President may, in accordance with the procedures prescribed by law or  provisions  of  such  law  as  may  be  enacted  by  Parliament,  divide  the  United Republic into regions, districts and other areas:
+The territory of the United Republic
+Act No.15
+of 1984
+Art.6
+Act No.4
+of 1992
+Art.3
 
-Provided  that  the  President  shall  first  consult  with  the  President  of Zanzibar before dividing Tanzania Zanzibar into regions, districts or other areas.
+2.-(1) The territory of the United Republic consists of the whole of the area of Mainland Tanzania and the whole of the area of Tanzania Zanzibar, and includes the territorial waters.
 
-3. -(1)      The  United  Republic  is  a  democratic,  secular  and  socialist  state which adheres to multi-party democracy.
+(2) For the purpose of the efficient discharge of the functions of the Government of the United Republic or of the Revolutionary Government of Zanzibar, the President may, in accordance with the procedures prescribed by law or provisions of such law as may be enacted by Parliament, divide the United Republic into regions, districts and other areas:
 
-(2)      All  matters  pertaining  to  the  registration  and  administration  of political parties in the United Republic shall be governed by the provisions of this Constitution and of a law enacted by Parliament for that purpose.
+Provided that the President shall first consult with the President of Zanzibar before dividing Tanzania Zanzibar into regions, districts or other areas.
 
-4. -(1)      All  state  authority  in  the  United  Republic  shall  be  exercised  and controlled by two organs vested with executive powers, two organs vested with judicial  powers  and  two  organs  vested  with  legislative  and  supervisory  powers over the conduct of public affairs.
+Declaration of multiparty state
+Act No.4
+of 1992
+Art.5
+Act No.1
+of 2005
+Art. 4
 
-(2)  The organs vested with executive powers shall be the Government of the United Republic and the Revolutionary Government of Zanzibar; the organs vested with judicial powers shall be the Judiciary of the United Republic and the Judiciary  of  the  Revolutionary  Government  of  Zanzibar;  and  the  organs  vested with legislative and supervisory powers over public affairs shall be the Parliament of the Untied Republic and the House of Representatives.
+3.-(1) The United Republic is a democratic, secular and socialist state which adheres to multi-party democracy.
 
-(3)      For  the  purposes  of  the  efficient  conduct  of  public  affairs  in  the United Republic and for the allocation of powers among the organs specified in this Article, there shall be Union Matters as listed in the First Schedule and there The franchise Act No.15 of 1984 Art.6 Act No.3 of 2000 Art.4
+(2) All matters pertaining to the registration and administration of political parties in the United Republic shall be governed by the provisions of this Constitution and of a law enacted by Parliament for that purpose.
+
+Exercise of state authority of the United Republic
+Act No.15
+of 1984
+Art.6
+Act No.1
+of 2005
+Art.5
+
+4.-(1) All state authority in the United Republic shall be exercised and controlled by two organs vested with executive powers, two organs vested with judicial powers and two organs vested with legislative and supervisory powers over the conduct of public affairs.
+
+(2) The organs vested with executive powers shall be the Government of the United Republic and the Revolutionary Government of Zanzibar; the organs vested with judicial powers shall be the Judiciary of the United Republic and the Judiciary of the Revolutionary Government of Zanzibar; and the organs vested with legislative and supervisory powers over public affairs shall be the Parliament of the United Republic and the House of Representatives.
+
+(3) For the purposes of the efficient conduct of public affairs in the United Republic and for the allocation of powers among the organs specified in this Article, there shall be Union Matters as listed in the First Schedule and there
 
 13
 
@@ -428,49 +555,57 @@ Provided  that  the  President  shall  first  consult  with  the  President  of 
 
 [[START OF PAGE 14]]
 
-Interpretation Act No.15 of 1984 Art.6
+shall also be non-union matters which are all other matters not so listed.
 
-Application of provisions of Part II Act No.15 of 1984 Art.6
+(4) Each organ specified in this Article shall be established and shall discharge its functions in accordance with the other provisions of this Constitution.
 
-shall also be non-union maters which are all other matters not so listed.
+The franchise
+Act No.15
+of 1984
+Art.6
+Act No.3
+of 2000
+Art.4
 
-(4)      Each  organ  specified  in  this  Article  shall  be  established  and  shall discharge its functions in accordance with the other provisions of this Constitution.
+5.-(1) Every citizen of the United Republic who has attained the age of eighteen years is entitled to vote in any election held in Tanzania. This right shall be exercised in accordance with the sub article (2), and of the other provisions of this Constitution and the law for the time being in force in Tanzania in relation to public elections.
 
-5. -(1)   Every citizen of the Untied Republic who has attained the age of eighteen years is entitled to vote in any election held in Tanzania.  This right shall be exercised in accordance with the sub article (2), and of the other provisions of this Constitution and the law for the time being in force in Tanzania in relation to public elections.
-
-(2)   Parliament may enact a law imposing conditions restricting a citizen from exercising the right to vote by reason of any of the following grounds:
+(2) Parliament may enact a law imposing conditions restricting a citizen from exercising the right to vote by reason of any of the following grounds:
 
 (a) being a citizen of another state;
-
 (b) being mentally infirm;
-
 (c) being convicted of certain specified criminal offences; or
+(d) omission or failure to prove or to produce evidence as to age, citizenship or registration as a voter.
 
-(d) omission  or  failure  to  prove  or  to  produce  evidence  as  to  age, citizenship or registration as a voter.
+Except for these grounds no other grounds shall disqualify a citizen from exercising the right to vote.
 
-Except  for  these  grounds  no  other  grounds  shall  disqualify  a  citizen  from exercising the right to vote.
-
-- Parliament shall enact electoral law to provide for the following:
+(3) Parliament shall enact electoral law to provide for the following:
 
 (a) the establishment of a permanent voters register and prescribing the procedure for its amendment or updating information contained in that register;
-
 (b) specification of places and times for the registration of voters and for voting;
-
 (c) procedure and conditions for enabling a person registered as a voter in one place to vote in another; and
-
-(d) specification of the duties and functions of the Electoral Commission and the procedure  for  every  election  which  shall  be conducted  under  the  direction  and  supervision  of  the  Electoral Commission.
+(d) specification of the duties and functions of the Electoral Commission and the procedure for every election which shall be conducted under the direction and supervision of the Electoral Commission.
 
 ### PART II
 
 ### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
 
+Interpretation
+Act No.15
+of 1984
+Art.6
+
 6. In this Part of this Chapter, unless the context requires otherwise:-
 
-the Government includes the Government of the United Republic, the Revolutionary  Government  of  Zanzibar,  local  government  authorities  and  any person who exercises power or authority on behalf of either 'Government'.
+the Government includes the Government of the United Republic, the Revolutionary Government of Zanzibar, local government authorities and any person who exercises power or authority on behalf of either “Government”.
 
-7. -(1)   Notwithstanding the provisions of subarticle (2), it shall be the duty and responsibility of the Government, all its organs and all persons or authorities exercising  executive,  legislative  or  judicial  functions  to  take  cognizance  of, observe and apply the provisions of this Part of this Chapter.
+Application of provisions of Part II
+Act No.15
+of 1984
+Art.6
 
-- The provisions of this Part of this Chapter are not enforceable by any
+7.-(1) Notwithstanding the provisions of subarticle (2), it shall be the duty and responsibility of the Government, all its organs and all persons or authorities exercising executive, legislative or judicial functions to take cognizance of, observe and apply the provisions of this Part of this Chapter.
+
+(2) The provisions of this Part of this Chapter are not enforceable by any
 
 14
 
@@ -478,42 +613,40 @@ the Government includes the Government of the United Republic, the Revolutionary
 
 [[START OF PAGE 15]]
 
-The Government and the People Act No.15 of 1984 Art.6
+court. No court shall be competent to determine the question whether or not any action or omission by any person or any court, or any law or judgment complies with the provisions of this Part of this Chapter.
 
-The pursuit of Ujamaa and Self-Reliance Act No.15 of 1984 Art.6 Act No.4 of 1992 Art.6
+The Government and the People
+Act No.15
+of 1984
+Art.6
 
-court.  No court shall be competent to determine the question whether or not any action or omission by any person or any court, or any law or judgment complies with the provisions of this Part of this Chapter.
-
-8. -(1)   The United Republic of Tanzania is a state which adheres to the principles of democracy and social justice and accordingly -
+8.-(1) The United Republic of Tanzania is a state which adheres to the principles of democracy and social justice and accordingly -
 
 (a) sovereignty resides in the people and it is from the people that the Government through this Constitution shall derive all its power and authority;
-
 (b) the primary objective of the Government shall be the welfare of the people;
-
 (c) the Government shall be accountable to the people; and
+(d) the people shall participate in the affairs of their Government in accordance with the provisions of this Constitution.
 
-(d) the  people  shall  participate  in  the  affairs  of  their  Government  in accordance with the provisions of  this Constitution.
+(2) The structure of the Government of the United Republic and the Revolutionary Government of Zanzibar or any of their organs, and the discharge of their functions shall be so effected as to take into account the unity of the United Republic and the need to promote national unity and preserve national dignity.
 
-(2)      The  structure  of  the  Government  of  the  United  Republic  and  the Revolutionary Government of Zanzibar or any of their organs, and the discharge of  their  functions  shall  be  so  effected  as  to  take  into  account  the  unity  of  the United  Republic  and  the  need  to  promote  national  unity  and  preserve  national dignity.
+The pursuit of Ujamaa and Self-Reliance
+Act No.15
+of 1984
+Art.6
+Act No.4
+of 1992
+Art.6
 
-9. The object of this Constitution is to facilitate the building of the United Republic  as  a  nation  of  equal  and  free  individuals  enjoying  freedom,  justice, fraternity  and  concord,  through  the  pursuit  of  the  policy  of  Socialism  and  Self Reliance which emphasizes the application of socialist principles while taking into account  the  conditions  prevailing  in  the  United  Republic.    Therefore,  the  state authority and all its agencies are obliged to direct their policies and programmes towards ensuring -
+9. The object of this Constitution is to facilitate the building of the United Republic as a nation of equal and free individuals enjoying freedom, justice, fraternity and concord, through the pursuit of the policy of Socialism and Self Reliance which emphasizes the application of socialist principles while taking into account the conditions prevailing in the United Republic. Therefore, the state authority and all its agencies are obliged to direct their policies and programmes towards ensuring -
 
-(a) that  human  dignity  and  other  human  rights  are  respected  and cherished;
-
+(a) that human dignity and other human rights are respected and cherished;
 (b) that the laws of the land are upheld and enforced;
-
 (c) that activities of the Government are conducted in such a way as to ensure that the national wealth and heritage are harnessed, preserved and applied for the common good and also to prevent the exploitation of one person by another;
-
 (d) that the national economy is planned and promoted in a balanced and integrated manner;
-
 (e) that every person who is able to work does work, and work means any legitimate activity by which a person earns a living;
-
 (f) that human dignity is preserved and upheld in accordance with the spirit of the Universal Declaration of Human Rights;
-
 (g) that the Government and all its agencies accord equal opportunities to all citizens, men and women alike without regard to their colour, tribe, religion or station in life;
-
 (h) that all forms of injustice, intimidation, discrimination, corruption, oppression or favouritism are eradicated;
-
 (i) that the use of national wealth places emphasis on the development
 
 15
@@ -522,23 +655,24 @@ court.  No court shall be competent to determine the question whether or not any
 
 [[START OF PAGE 16]]
 
-Status and authority of the Part.
-
-Right to work, to educational and other pursuits Act No.15 of 1984 Art.6
-
 of the people and in particular is geared towards the eradication of poverty, ignorance and disease;
 
-(j) that  economic  activities  are  not  conducted  in  a  manner  that  may result  in  the  concentration  of  wealth  or  the  major  means  of production in the hands of a few individuals; and
-
+(j) that economic activities are not conducted in a manner that may result in the concentration of wealth or the major means of production in the hands of a few individuals; and
 (k) that the country is governed according to the principles of democracy and socialism.
 
-[Repealed by Act No.4 of 1992].
+Status and authority of the Part.
 
-11. -(1)    The  state  authority  shall  make  appropriate  provisions  for  the realization  of  a  person's  right  to  work,  to  self  education  and  social  welfare  at times of old age, sickness or disability and in other cases of incapacity.  Without prejudice to those rights, the state authority shall make provisions to ensure that every person earns his livelihood.
+10. [Repealed by Act No.4 of 1992].
 
-(2)   Every person has the right to access education, and every citizen shall be  free  to  pursue  education  in  a  field  of  his  choice  up  to  the  highest  level according to his merits and ability.
+Right to work, to educational and other pursuits
+Act No.15 of 1984
+Art.6
 
-(3)      The  Government  shall  make  efforts  to  ensure  that  all  persons  are afforded  equal  and  sufficient  opportunity  to  pursue  education  and  vocational training in all levels of schools and other institutions of learning.
+11.-(1) The state authority shall make appropriate provisions for the realization of a person’s right to work, to self education and social welfare at times of old age, sickness or disability and in other cases of incapacity. Without prejudice to those rights, the state authority shall make provisions to ensure that every person earns his livelihood.
+
+(2) Every person has the right to access education, and every citizen shall be free to pursue education in a field of his choice up to the highest level according to his merits and ability.
+
+(3) The Government shall make efforts to ensure that all persons are afforded equal and sufficient opportunity to pursue education and vocational training in all levels of schools and other institutions of learning.
 
 ### PART III
 
@@ -546,13 +680,42 @@ of the people and in particular is geared towards the eradication of poverty, ig
 
 #### The Right to Equality
 
-Equality of human beings Act No.15 of 1984 Art.6 | 12. -(1) All human beings are born free, and are all equal. (2) Every person is entitled to recognition and respect for his dignity.
---- | ---
-Equality before the law | 13. -(1) All persons are equal before the law and are entitled, without any discrimination, to protection and equality before the law.
-Act No.15 of 1984 Art.6 | (2) No law enacted by any authority in the United Republic shall make any provision that is discriminatory either of itself or in its effect.
-Act No.4 of 1992 Art.8 | (3) The civic rights, duties and interests of every person and community shall be protected and determined by the courts of law or other state agencies established by or under the law.
-Act No.7 of 1994 Art. 8(1)(k) | (4) No person shall be discriminated against by any person or any authority acting under any law or in the discharge of the functions or business of any state office.
-Act No.3 of 2000 Art.5 | (5) For the purposes of this Article the expression 'discriminate' means to satisfy the needs, rights or other requirements of different persons on the basis
+Equality of human beings
+Act No.15
+of 1984
+Art.6
+
+12.-(1) All human beings are born free, and are all equal.
+
+(2) Every person is entitled to recognition and respect for his dignity.
+
+Equality before the law
+
+13.-(1) All persons are equal before the law and are entitled, without any discrimination, to protection and equality before the law.
+
+Act No.15
+of 1984
+Art.6
+
+(2) No law enacted by any authority in the United Republic shall make any provision that is discriminatory either of itself or in its effect.
+
+Act No.4
+of 1992
+Art.8
+
+(3) The civic rights, duties and interests of every person and community shall be protected and determined by the courts of law or other state agencies established by or under the law.
+
+Act No.7
+of 1994
+Art. 8(1)(k)
+
+(4) No person shall be discriminated against by any person or any authority acting under any law or in the discharge of the functions or business of any state office.
+
+Act No.3
+of 2000
+Art.5
+
+(5) For the purposes of this Article the expression “discriminate” means to satisfy the needs, rights or other requirements of different persons on the basis
 
 16
 
@@ -560,27 +723,40 @@ Act No.3 of 2000 Art.5 | (5) For the purposes of this Article the expression 'di
 
 [[START OF PAGE 17]]
 
-of their nationality, tribe, place of origin, political opinion, colour, religion, sex or station  in  life  such  that  certain  categories  of  people  are  regarded  as  weak  or inferior  and  are  subjected  to  restrictions  or  conditions  whereas  persons  of  other categories  are  treated  differently  or  are  accorded  opportunities  or  advantage outside the specified conditions or the prescribed necessary qualifications except that  the  word  'discrimination'  shall  not  be  construed  in  a  manner  that  will prohibit  the  Government  from  taking  purposeful  steps  aimed  at  rectifying disabilities in the society.
+of their nationality, tribe, place of origin, political opinion, colour, religion, sex or station in life such that certain categories of people are regarded as weak or inferior and are subjected to restrictions or conditions whereas persons of other categories are treated differently or are accorded opportunities or advantage outside the specified conditions or the prescribed necessary qualifications except that the word “discrimination” shall not be construed in a manner that will prohibit the Government from taking purposeful steps aimed at rectifying disabilities in the society.
 
-(6)      To  ensure  equality  before  the  law,  the  state  authority  shall  make procedures  which  are  appropriate  or  which  take  into  account  the  following principles, namely:
+(6) To ensure equality before the law, the state authority shall make procedures which are appropriate or which take into account the following principles, namely:
 
 (a) when the rights and duties of any person are being determined by the court or any other agency, that person shall be entitled to a fair hearing and to the right of appeal or other legal remedy against the decision of the court or of the other agency concerned;
-
 (b) no person charged with a criminal offence shall be treated as guilty of the offence until proved guilty of that offence;
-
-(c) no  person  shall  be  punished  for  any  act  which  at  the  time  of  its commission was not an offence under the law, and also no penalty shall be imposed which is heavier than the penalty in force at the time the offence was committed;
-
-(d) for  the  purposes  of  preserving  the  right  or  equality  of  human beings, human dignity shall be protected in all activities pertaining to criminal investigations and process, and in any other matters for which a person is restrained, or in the execution of a sentence; and
-
-(e) no  person  shall  be  subjected  to  torture  or  inhuman  or  degrading punishment or treatment.
+(c) no person shall be punished for any act which at the time of its commission was not an offence under the law, and also no penalty shall be imposed which is heavier than the penalty in force at the time the offence was committed;
+(d) for the purposes of preserving the right or equality of human beings, human dignity shall be protected in all activities pertaining to criminal investigations and process, and in any other matters for which a person is restrained, or in the execution of a sentence; and
+(e) no person shall be subjected to torture or inhuman or degrading punishment or treatment.
 
 #### The Right to Life
 
-Right to life Act No.15 of 1984 Art.6 | 14. Every person has the right to live and to the protection of his life by the society in accordance with the law.
---- | ---
-Right to personal freedom Act No.15 of 1984 Art.6 | 15. -(1) Every person has the right to freedom and to live as a free person. (2) For the purposes of preserving individual freedom and the right to live as a free person, no person shall be arrested, imprisoned, confined, detained, deported or otherwise be deprived of his freedom save only-
-(a) under circumstances and in accordance with procedures prescribed by law; or (b) in the execution of a judgment, order or a sentence given or passed
-Right to | 16. -(1) Every person is entitled to respect and protection of his person,
+Right to life
+Act No.15
+of 1984
+Art.6
+
+14. Every person has the right to live and to the protection of his life by the society in accordance with the law.
+
+Right to personal freedom
+Act No.15
+of 1984
+Art.6
+
+15.-(1) Every person has the right to freedom and to live as a free person.
+
+(2) For the purposes of preserving individual freedom and the right to live as a free person, no person shall be arrested, imprisoned, confined, detained, deported or otherwise be deprived of his freedom save only-
+
+(a) under circumstances and in accordance with procedures prescribed by law; or
+(b) in the execution of a judgment, order or a sentence given or passed by the court following a decision in a legal proceeding or a conviction for a criminal offence.
+
+Right to
+
+16.-(1) Every person is entitled to respect and protection of his person,
 
 17
 
@@ -588,39 +764,59 @@ Right to | 16. -(1) Every person is entitled to respect and protection of his pe
 
 [[START OF PAGE 18]]
 
-privacy and personal security Act No.15 of 1984 Art.6 freedom of
-
-Right to movement Act No.15 of 1984 Art.6
+privacy and personal security
+Act No.15
+of 1984
+Art.6
 
 the privacy of his own person, his family and of his matrimonial life, and respect and protection of his residence and private communications.
 
-(2)    For the purpose of preserving the person's right in accordance with this  Article,  the  state  authority  shall  lay  down  legal  procedures  regarding  the circumstances,  manner  and  extent  to  which  the  right  to  privacy,  security  of  his person, his property and residence may be encroached upon without prejudice to the provisions of this Article.
+(2) For the purpose of preserving the person’s right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article.
 
-17. -(1)   Every citizen of the United Republic has the right to freedom of movement in the United Republic and the right to live in any part of the United Republic, to leave and enter the country, and the right not to be forced to leave or be expelled from the United Republic.
+Right to freedom of movement
+Act No.15
+of 1984
+Art.6
 
-- Any lawful act or any law which is intended to -
+17.-(1) Every citizen of the United Republic has the right to freedom of movement in the United Republic and the right to live in any part of the United Republic, to leave and enter the country, and the right not to be forced to leave or be expelled from the United Republic.
 
-(a) curtail a person's freedom of movement and to restrain or imprison him; or
+(2) Any lawful act or any law which is intended to -
 
+(a) curtail a person’s freedom of movement and to restrain or imprison him; or
 (b) limit a person from exercising his freedom of movement so as to -
-
 (i) execute a judgment or court order; or
-
 (ii) compel a person first to comply with any obligations arising under another law; or
-
 (iii) protect public interest in general or preserve certain special interest or interests of a certain section of the public,
 
-such  act  or  law  shall  not  be  construed  or  be  held  to  be  repugnant  to  or inconsistent with the provisions of this Article.
+such act or law shall not be construed or be held to be repugnant to or inconsistent with the provisions of this Article.
 
 #### The Right to Freedom of Conscience
 
-Freedom of expression | 18 . Every person - (a) has a freedom of opinion and expression of his ideas;
---- | ---
-Right of freedom religion Act of 1984 | (b) has a right to seek, receive and, or disseminate information regardless of national boundaries; (c) has the freedom to communicate and a freedom with protection to the society.
-Act No.1 of 2005
-Art.6 | from interference from his communication; and (d) has a right to be informed at all times of various important events of life and activities of the people and also of issues of importance
-Art.6 Act No.4 of 1992 | 19. -(1) Every person has the right to the freedom of conscience, faith and choice in matters of religion, including the freedom to change his religion or faith. (2) Protection of rights referred to in this Article shall be in accordance
-of No.15 Art.9 Act No.1 of 2005 | with the provisions prescribed by the laws which are of importance to a democratic society for security and peace in the society, integrity of the society and the national coercion.
+Freedom of expression
+Act No.1
+of 2005
+Art.6
+
+18. Every person -
+
+(a) has a freedom of opinion and expression of his ideas;
+(b) has a right to seek, receive and, or disseminate information regardless of national boundaries;
+(c) has the freedom to communicate and a freedom with protection from interference from his communication; and
+(d) has a right to be informed at all times of various important events of life and activities of the people and also of issues of importance to the society.
+
+Right of freedom of religion
+Act No.15
+of 1984
+Art.6
+Act No.4
+of 1992
+Art.9
+Act No.1
+of 2005
+
+19.-(1) Every person has the right to the freedom of conscience, faith and choice in matters of religion, including the freedom to change his religion or faith.
+
+(2) Protection of rights referred to in this Article shall be in accordance with the provisions prescribed by the laws which are of importance to a democratic society for security and peace in the society, integrity of the society and the national cohesion.
 
 18
 
@@ -630,39 +826,44 @@ of No.15 Art.9 Act No.1 of 2005 | with the provisions prescribed by the laws whi
 
 Art.6
 
-Person's freedom of association Act No.15 of 1984 Art.6 Act No.1 of 2005 Art.7
+(3) In this Article reference to the term “religion” shall be construed as including reference to religious denominations, and cognate expressions shall be construed accordingly.
 
-Freedom to participate in public affairs Act No.15 of 1984 Art.6 Act No.34 of 1994 Art.4
+Person’s freedom of association
+Act No.15
+of 1984
+Art.6
+Act No.1
+of 2005
+Art.7
 
-(3)  In  this  Article  reference  to  the  term  'religion'  shall  be  construed  as including reference to religious denominations, and cognate expressions shall be construed accordingly.
+20.-(1) Every person has a freedom, to freely and peaceably assemble, associate and cooperate with other persons, and for that purpose, express views publicly and to form and join with associations or organizations formed for purposes of preserving or furthering his beliefs or interests or any other interests.
 
-20. -(1)      Every  person  has  a  freedom,  to  freely  and  peaceably  assemble, associate  and  cooperate  with  other  persons,  and  for  that  purpose,  express  views publicly  and  to  form  and  join  with  associations  or  organizations  formed  for purposes of preserving or furthering his beliefs or interests or any other interests.
-
-(2)   Notwithstanding the provisions of subarticles (1) and (4), it shall not be lawful for any  political party to be registered  which  according  to its constitution or policy -
+(2) Notwithstanding the provisions of subarticles (1) and (4), it shall not be lawful for any political party to be registered which according to its constitution or policy -
 
 (a) aims at promoting or furthering the interests of -
-
 (i) any faith or religious group;
-
 (ii) any tribal group, place of origin, race or gender;
-
-(iii) only a particular area within  any part of the  United Republic;
-
+(iii) only a particular area within any part of the United Republic;
 (b) advocates for the break-up of the United Republic;
-
 (c) accepts or advocates for the use of the force or violent confrontation as means of attaining its political goals;
-
 (d) advocates or intends to carry on its political activities in only one part of the United Republic; or
-
 (e) does not permit periodic and democratic election of its leaders.
 
-(3)   Parliament may enact legislation which makes provisions for ensuring that political parties operate within the limits and adhere to the conditions set out in subarticle (2) concerning the freedom and the right of persons to associate and assemble.
+(3) Parliament may enact legislation which makes provisions for ensuring that political parties operate within the limits and adhere to the conditions set out in subarticle (2) concerning the freedom and the right of persons to associate and assemble.
 
-(4)      It  shall  be  unlawful  for  any  person  to  be  compelled  to  join  any association or organization, or for any association or for any political party to be refused  registration  on  grounds  solely  of  the  ideology  or  philosophy  of  that political party.
+(4) It shall be unlawful for any person to be compelled to join any association or organization, or for any association or for any political party to be refused registration on grounds solely of the ideology or philosophy of that political party.
 
-21. -(1)      Subject  to  the  provisions  of  Article  39,  47  and  67  of  this Constitution  and  of  the  laws  of  the  land  in  connection  with  the  conditions  for electing  and being elected or for appointing and being appointed to take part in matters related to governance of the country, every citizen of the United Republic is  entitled  to  take  part  in  matters  pertaining  to  the  governance  of  the  country, either directly or through representatives freely elected by the people, in conformity with the procedures laid down by, or in accordance with, the law.
+Freedom to participate in public affairs
+Act No.15
+of 1984
+Art.6
+Act No.34
+of 1994
+Art.4
 
-(2)   Every citizen has the right and the freedom to participate fully in the process  leading  to  the  decision  on  matters  affecting  him,  his  well-being  or  the nation.
+21.-(1) Subject to the provisions of Article 39, 47 and 67 of this Constitution and of the laws of the land in connection with the conditions for electing and being elected or for appointing and being appointed to take part in matters related to governance of the country, every citizen of the United Republic is entitled to take part in matters pertaining to the governance of the country, either directly or through representatives freely elected by the people, in conformity with the procedures laid down by, or in accordance with, the law.
+
+(2) Every citizen has the right and the freedom to participate fully in the process leading to the decision on matters affecting him, his well-being or the nation.
 
 19
 
@@ -670,37 +871,62 @@ Freedom to participate in public affairs Act No.15 of 1984 Art.6 Act No.34 of 19
 
 [[START OF PAGE 20]]
 
-Duty to participate in work Act No.15 of 1984 Art.6 Act No. 7 of 1994 Art.8(1)(k)
-
 #### The Right to Work
 
-Right to work Act No.15 of 1984 Art.6 | 22. -(1) Every person has the right to work. (2) Every citizen is entitled to equal opportunity and right to equal terms to hold any office or discharge any function under the state authority.
---- | ---
-Right to just remuneration Act No.15 of 1984 Art.6 | 23 .-(1) Every person, without discrimination of any kind, is entitled to remuneration commensurate with his work, and all persons working according to their ability shall be remunerated according to the measure and qualification for the work. (2) Every person who works is entitled to just remuneration.
-Right to own property Act No.15 of 1984 Art.6 Act No.1 of 2005 | 24 .-(1) Every person is entitled to own property, and has a right to the protection of his property held in accordance with the law. (2) Subject to the provisions of subarticle (1), it shall be unlawful for any person to be deprived of his property for the purposes of nationalization or any other purposes without the authority of law which makes provision for fair and adequate compensation.
+Right to work
+Act No.15
+of 1984
+Art.6
+
+22.-(1) Every person has the right to work.
+
+(2) Every citizen is entitled to equal opportunity and right to equal terms to hold any office or discharge any function under the state authority.
+
+Right to just remuneration
+Act No.15
+of 1984
+Art.6
+
+23.-(1) Every person, without discrimination of any kind, is entitled to remuneration commensurate with his work, and all persons working according to their ability shall be remunerated according to the measure and qualification for the work.
+
+(2) Every person who works is entitled to just remuneration.
+
+Right to own property
+Act No.15
+of 1984
+Art.6
+Act No.1
+of 2005
+Art.9
+
+24.-(1) Every person is entitled to own property, and has a right to the protection of his property held in accordance with the law.
+
+(2) Subject to the provisions of subarticle (1), it shall be unlawful for any person to be deprived of his property for the purposes of nationalization or any other purposes without the authority of law which makes provision for fair and adequate compensation.
 
 #### Duties to the Society
 
-25.(1)    Work  alone  creates  the  material  wealth  in  society,  and  is  the source  of  the  well-being  of  the  people  and  the  measure  of  human  dignity. Accordingly, every person has the duty to -
+Duty to participate in work
+Act No.15
+of 1984
+Art.6
+Act No. 7
+of 1994
+Art.8(1)(k)
+
+25.-(1) Work alone creates the material wealth in society, and is the source of the well-being of the people and the measure of human dignity. Accordingly, every person has the duty to –
 
 (a) participate responsibly and honestly in lawful and productive work; and
+(b) observe work discipline and strive to attain the individual and collective production targets desired or set by law.
 
-(b) observe  work  discipline  and  strive  to  attain  the  individual  and collective production targets desired or set by law.
+(2) Notwithstanding the provisions of subarticle (1), there shall be no forced labour in the United Republic.
 
-(2)      Notwithstanding  the  provisions  of  subarticle  (1),  there  shall  be  no forced labour in the United Republic.
-
-(3)   For the purposes of this Article, and in this Constitution generally, it is hereby declared that no work shall be deemed to be forced, cruel or humiliating labour, if such work is according to law -
+(3) For the purposes of this Article, and in this Constitution generally, it is hereby declared that no work shall be deemed to be forced, cruel or humiliating labour, if such work is according to law -
 
 (a) work which has to be done pursuant to a judgment or order of a court;
-
-(b) work  which  has  to  be  done  by  members  of  any  Force  in  the discharge of their responsibilities;
-
-(c) work  which  has  to  be  done  by  any  person  due  to  a  state  of emergency or any calamity which threatens the life or well-being of the society; and
-
+(b) work which has to be done by members of any Force in the discharge of their responsibilities;
+(c) work which has to be done by any person due to a state of emergency or any calamity which threatens the life or well-being of the society; and
 (d) any work or service which forms part of -
-
 (i) routine services for ensuring the well-being of society;
-
 (ii) compulsory national service in accordance with the law;
 
 20
@@ -709,43 +935,53 @@ Right to own property Act No.15 of 1984 Art.6 Act No.1 of 2005 | 24 .-(1) Every 
 
 [[START OF PAGE 21]]
 
-Duty to abide by the laws of the land Act No.15 of 1984 Art.6
+(iii) the national endeavour at the mobilization of human resources for the enhancement of the society and the national economy and to ensure development and national productivity.
 
-Duty to safeguard public property Act No.15 of 1984 Art.6
+Duty to abide by the laws of the land
+Act No.15
+of 1984
+Art.6
 
-Defence of the nation Act No.15
+26.-(1) Every person has the duty to observe and to abide by this Constitution and the laws of the United Republic.
 
-of 1984 Art.6
+(2) Every person has the right, in accordance with the procedure provided by law, to take legal action to ensure the protection of this Constitution and the laws of the land.
 
-Fundamental rights and duties Act No.15 of 1984 Art.6
+Duty to safeguard public property
+Act No.15
+of 1984
+Art.6
 
-(iii) the national endeavour at the mobilization of human resources for the enhancement of the society and the national  economy  and  to  ensure  development  and national productivity.
+27.-(1) Every person has the duty to protect the natural resources of the United Republic, the property of the state authority, all property collectively owned by the people, and also to respect another person’s property.
 
-26. -(1)      Every  person  has  the  duty  to  observe  and  to  abide  by  this Constitution and the laws of the United Republic.
+(2) All persons shall be required by law to safeguard the property of the state authority and all property collectively owned by the people, to combat all forms of waste and squander, and to manage the national economy assiduously with the attitude of people who are masters of the destiny of their nation.
 
-(2)        Every  person  has  the  right,  in  accordance  with  the  procedure provided by law, to take legal action to ensure the protection of this Constitution and the laws of the land.
+Defence of the nation
+Act No.15
+of 1984
+Art.6
 
-27. -(1)   Every person has the duty to protect the natural resources of the United  Republic,  the  property  of  the  state  authority,  all  property  collectively owned by the people, and also to respect another person's property.
+28.-(1) Every citizen has the duty to protect, preserve and maintain the independence, sovereignty, territory and unity of the nation.
 
-(2)   All persons shall be required by law to safeguard the property of the state  authority  and  all  property  collectively  owned  by  the  people,  to  combat  all forms of  waste  and  squander,  and  to  manage  the  national  economy  assiduously with the attitude of people who are masters of the destiny of their nation.
+(2) Parliament may enact appropriate laws to enable the people to serve in the Forces and in the defence of the nation.
 
-28. -(1)   Every citizen has the duty to protect, preserve and maintain the independence, sovereignty, territory and unity of the nation.
+(3) No person shall have the right to sign an act of capitulation and surrender of the nation to the victor, nor ratify or recognize an act of occupation or division of the United Republic or of any area of the territory of the nation and, subject to this Constitution and any other laws enacted, no person shall have the right to prevent the citizens of the United Republic from waging war against any enemy who attacks the nation.
 
-(2)   Parliament may enact appropriate laws to enable the people to serve in the Forces and in the defence of the nation.
-
-(3)      No  person  shall  have  the  right  to  sign  an  act  of  capitulation  and surrender of the nation to the victor, nor ratify or recognize an act of occupation or division of the United Republic or of any area of the territory of the nation and, subject to this Constitution and any other laws enacted, no person shall have the right to prevent the citizens of the United Republic from waging war against any enemy who attacks the nation.
-
-(4)   Treason as defined by law shall be the most grave offence against the United Republic.
+(4) Treason as defined by law shall be the most grave offence against the United Republic.
 
 #### General Provisions
 
-29. -(1)      Every  person  in  the  United  Republic  has  the  right  to  enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of this duty to society, as stipulated under Article 12 to 28 of this Part of this Chapter of the Constitution.
+Fundamental rights and duties
+Act No.15
+of 1984
+Art.6
 
-(2)   Every person in the United Republic has the right to equal protection under the laws of the United Republic.
+29.-(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of this duty to society, as stipulated under Article 12 to 28 of this Part of this Chapter of the Constitution.
 
-(3)      A  citizen  of  the  United  Republic  shall  not  have  a  right,  status  or special position on the basis of his lineage, tradition or descent.
+(2) Every person in the United Republic has the right to equal protection under the laws of the United Republic.
 
-(4)      It  is  hereby  prohibited  for  any  law  to  confer  any  right,  status  or special position upon any citizen of the United Republic on the basis of lineage, Limitations upon, and enforcement and preservation of basic rights, freedoms and duties Act No.15 of 1984 Art.6 Act No.34 of 1994 Ar.6
+(3) A citizen of the United Republic shall not have a right, status or special position on the basis of his lineage, tradition or descent.
+
+(4) It is hereby prohibited for any law to confer any right, status or special position upon any citizen of the United Republic on the basis of lineage,
 
 21
 
@@ -755,32 +991,33 @@ Fundamental rights and duties Act No.15 of 1984 Art.6
 
 tradition or descent.
 
-(5)    In  order  that  all  persons  may  benefit  from  the  rights  and  freedoms guaranteed by this Constitution, every person has the duty to so conduct himself and his affairs in the manner that does not infringe upon the rights and freedoms of others or the public interest.
+(5) In order that all persons may benefit from the rights and freedoms guaranteed by this Constitution, every person has the duty to so conduct himself and his affairs in the manner that does not infringe upon the rights and freedoms of others or the public interest.
 
-30. -(1)   The human rights and freedoms, the principles of which are set out in this Constitution, shall not be exercised by a person in a manner that causes interference with or curtailment of the rights and freedoms of other persons or of the public interest.
+Limitations upon, and enforcement and preservation of basic rights, freedoms and duties
+Act No.15
+of 1984
+Art.6
+Act No.34
+of 1994
+Art.6
 
-(2)   It is hereby declared that the provisions contained in this Part of this Constitution which set out the principles of rights, freedom and duties, does not render unlawful any existing law or prohibit the enactment of any law or the doing of any lawful act in accordance with such law for the purposes of-
+30.-(1) The human rights and freedoms, the principles of which are set out in this Constitution, shall not be exercised by a person in a manner that causes interference with or curtailment of the rights and freedoms of other persons or of the public interest.
 
-(a) ensuring  that  the  rights  and  freedoms  of  other  people  or  of  the interests of the public are not prejudiced by the wrongful exercise of the freedoms and rights of individuals;
+(2) It is hereby declared that the provisions contained in this Part of this Constitution which set out the principles of rights, freedom and duties, does not render unlawful any existing law or prohibit the enactment of any law or the doing of any lawful act in accordance with such law for the purposes of-
 
+(a) ensuring that the rights and freedoms of other people or of the interests of the public are not prejudiced by the wrongful exercise of the freedoms and rights of individuals;
 (b) ensuring the defence, public safety, public peace, public morality, public health, rural and urban development planning, the exploitation and utilization of minerals or the increase and development of property of any other interests for the purposes of enhancing the public benefit;
-
 (c) ensuring the execution of a judgment or order of a court given or made in any civil or criminal matter;
-
-(d) protecting  the  reputation,  rights  and  freedoms  of  others  or  the privacy of persons involved in any court proceedings, prohibiting the  disclosure  of  confidential  information  or  safeguarding  the dignity, authority and independence of the courts;
-
-(e) imposing  restrictions,  supervising  and  controlling  the  formation, management and activities of private societies and organizations in the country; or
-
+(d) protecting the reputation, rights and freedoms of others or the privacy of persons involved in any court proceedings, prohibiting the disclosure of confidential information or safeguarding the dignity, authority and independence of the courts;
+(e) imposing restrictions, supervising and controlling the formation, management and activities of private societies and organizations in the country; or
 (f) enabling any other thing to be done which promotes or preserves the national interest in general.
 
-(3)   Any person claiming that any provision in this Part of this Chapter or in any law concerning his right or duty owed to him has been, is being or is likely to  be  violated  by  any  person  anywhere  in  the  United  Republic,  may  institute proceedings for redress in the High Court.
+(3) Any person claiming that any provision in this Part of this Chapter or in any law concerning his right or duty owed to him has been, is being or is likely to be violated by any person anywhere in the United Republic, may institute proceedings for redress in the High Court.
 
-(4)      Subject  to  the  other  provisions  of  this  Constitution,  the  High  Court shall have original jurisdiction to hear and determine any matter brought before it pursuant  to  this  Article;  and  the  state  authority  may  enact  legislation  for  the purposes of -
+(4) Subject to the other provisions of this Constitution, the High Court shall have original jurisdiction to hear and determine any matter brought before it pursuant to this Article; and the state authority may enact legislation for the purposes of -
 
-(a) regulating  procedure  for  instituting  proceedings  pursuant  to  this Article;
-
+(a) regulating procedure for instituting proceedings pursuant to this Article;
 (b) specifying the powers of the High Court in relation to the hearing of proceedings instituted pursuant to this Article; and
-
 (c) ensuring the effective exercise of the powers of the High Court, the
 
 22
@@ -789,33 +1026,38 @@ tradition or descent.
 
 [[START OF PAGE 23]]
 
-Derogation from rights and freedoms Act No.15 of 1984 Art.6
-
-Power to proclaim state of emergency Act No.15 of 1984 Art.6; Act No.4 of 1992 Art.11
-
 preservation and enforcement of the rights, freedoms and duties in accordance with this Constitution.
 
-(5)     Where in any proceedings it is alleged that any law enacted or any action taken by the Government or any other authority abrogates or abridges any of  the  basic  rights,  freedoms  and  duties  set  out  in  Articles  12  to  29  of  this Constitution, and the High Court is satisfied that the law or action concerned, to the extent that it conflicts with this Constitution, is void, or is inconsistent with this Constitution, then the High Court, if it deems fit, or if the circumstances or public  interest  so  requires,  instead  of  declaring  that  such  law  or  action  is  void, shall have power to decide to afford the Government or other authority concerned an opportunity to rectify the defect found in the law or action concerned within such a period and in such manner as the High Court shall determine, and such law or action shall be deemed to be valid until such time the defect is rectified or the period determined by the High Court lapses, whichever is the earlier.
+(5) Where in any proceedings it is alleged that any law enacted or any action taken by the Government or any other authority abrogates or abridges any of the basic rights, freedoms and duties set out in Articles 12 to 29 of this Constitution, and the High Court is satisfied that the law or action concerned, to the extent that it conflicts with this Constitution, is void, or is inconsistent with this Constitution, then the High Court, if it deems fit, or if the circumstances or public interest so requires, instead of declaring that such law or action is void, shall have power to decide to afford the Government or other authority concerned an opportunity to rectify the defect found in the law or action concerned within such a period and in such manner as the High Court shall determine, and such law or action shall be deemed to be valid until such time the defect is rectified or the period determined by the High Court lapses, whichever is the earlier.
 
 #### Extraordinary Powers of the State Authority
 
-31. -(1)      Apart  from  the  provisions  of  Article  30(2),  any  law  enacted  by Parliament  shall  not  be  void  for  the  reason  only  that  it  enables  measures  to  be taken during a state of emergency or in normal times in relation to persons who are believed to engage in activities which endanger or prejudice the security of the nation, which measures derogate from the provisions of Articles 14 and 15 of this Constitution.
+Derogation from rights and freedoms
+Act No.15
+of 1984
+Art.6
 
-(2)      It  is  hereby  prohibited  to  take  any  of  the  measures  referred  to  in subarticle (1) of this Article in pursuance of any law during a state of emergency or in normal times in relation to any person, save only to the extent that they are necessary and justifiable for dealing with the situation that exists during the state of emergency, or in normal times dealing with the situation created by the conduct of the person concerned.
+31.-(1) Apart from the provisions of Article 30(2), any law enacted by Parliament shall not be void for the reason only that it enables measures to be taken during a state of emergency or in normal times in relation to persons who are believed to engage in activities which endanger or prejudice the security of the nation, which measures derogate from the provisions of Articles 14 and 15 of this Constitution.
 
-(3)      It  is  hereby  declared  that  the  provisions  of  this  Article  shall  not authorize the deprivation of a person's right to live save only for deaths resulting from acts of war.
+(2) It is hereby prohibited to take any of the measures referred to in subarticle (1) of this Article in pursuance of any law during a state of emergency or in normal times in relation to any person, save only to the extent that they are necessary and justifiable for dealing with the situation that exists during the state of emergency, or in normal times dealing with the situation created by the conduct of the person concerned.
 
-(4)      In  this  Article  and  the  following  Articles  of  this  Part,  'state  of emergency'  means  any  period  during  which  the  Proclamation  of  State  of Emergency made by the President in the exercise of the powers conferred on him by Article 32, is in force.
+(3) It is hereby declared that the provisions of this Article shall not authorize the deprivation of a person’s right to live save only for deaths resulting from acts of war.
 
-32. -(1)   Subject to this Constitution or to any law enacted by Parliament in that  behalf,  the  President  may  proclaim  a  state  of  emergency  in  the  United Republic or in any part thereof.
+(4) In this Article and the following Articles of this Part, “state of emergency” means any period during which the Proclamation of State of Emergency made by the President in the exercise of the powers conferred on him by Article 32, is in force.
 
-- The President may proclaim a state of emergency only if -
+Power to proclaim state of emergency
+Act No.15
+of 1984 Art.6;
+Act No.4 of
+1992 Art.11
+
+32.-(1) Subject to this Constitution or to any law enacted by Parliament in that behalf, the President may proclaim a state of emergency in the United Republic or in any part thereof.
+
+(2) The President may proclaim a state of emergency only if -
 
 (a) the United Republic is at war;
-
-(b) there  is  a  real  danger  that  the  United  Republic  is  about  to  be invaded and to be in a state of war;
-
-(c) there  is  actual  situation  of  breakdown  of    public  order  or  nonexistence of public security in the Untied Republic or in any part
+(b) there is a real danger that the United Republic is about to be invaded and to be in a state of war;
+(c) there is actual situation of breakdown of public order or non-existence of public security in the United Republic or in any part
 
 23
 
@@ -825,37 +1067,28 @@ preservation and enforcement of the rights, freedoms and duties in accordance wi
 
 thereof such that it is necessary to take extraordinary measures to restore order and security;
 
-(d) there is a clear and grave danger such that the breakdown of public order and the cessation of public safety in the Untied Republic or any part thereof are inescapable except by invoking the extraordinary powers;
-
+(d) there is a clear and grave danger such that the breakdown of public order and the cessation of public safety in the United Republic or any part thereof are inescapable except by invoking the extraordinary powers;
 (e) there is imminent occurrence of danger, disaster or environmental calamity which threatens the society or part thereof in the United Republic; or
+(f) there is some kind of danger which clearly constitutes a threat to the state.
 
-(f) there is  some  kind of danger which clearly constitutes a threat to the state.
+(3) In the event a state of emergency is proclaimed in relation to the whole of the United Republic, or to the whole of Mainland Tanzania or the whole of Tanzania Zanzibar, the President shall forthwith transmit a copy of the proclamation to the Speaker of the National Assembly who, after consultation with the Leader of Government Business in the National Assembly shall convene a meeting of the National Assembly within not more than fourteen days, to consider the situation and decide, whether to pass or not to pass a resolution, which has to be supported by the votes of not less than two thirds of all members, in support of the proclamation of a state of emergency issued by the President.
 
-(3)      In  the  event  a  state  of  emergency  is  proclaimed  in  relation  to  the whole of the United Republic, or to the whole of Mainland Tanzania or the whole of  Tanzania  Zanzibar,  the  President  shall  forthwith  transmit  a  copy  of  the proclamation  to  the  Speaker  of  the  National  Assembly  who,  after  consultation with the Leader of Government Business in the National Assembly shall convene a  meeting  of  the  National  Assembly  within  not  more  than  fourteen  days,  to consider  the  situation  and  decide,  whether  to  pass  or  not  to  pass  a  resolution, which has to be supported by the votes of not less than two thirds of all members, in support of the proclamation of a state of emergency issued by the President.
+(4) Parliament may enact a law providing times and procedures which will enable certain persons in charge of Government functions in specified areas of the United Republic to request the President to exercise the powers conferred on him by this Article in relation to any of those areas where there exists any of the situations specified in paragraphs (c), (d) and (e) of subarticle (2) and such situation does not extend beyond the boundaries of such areas, and also for the purpose of specifying the exercise of executive powers during a state of emergency.
 
-(4)      Parliament  may  enact  a  law  providing  times  and  procedures  which will enable certain persons in charge of Government functions in specified areas of the United Republic to request the President to exercise the powers conferred on him by this Article in relation to any of those areas where there exists any of the  situations  specified  in  paragraphs  (c),  (d)  and  (e)  of  subarticle  (2)  and  such situation  does  not  extend  beyond  the  boundaries  of  such  areas,  and  also  for  the purpose  of  specifying the exercise of  executive  powers  during  a  state  of emergency.
-
-(5)   A proclamation issued by the President pursuant to this Article shall cease to have effect -
+(5) A proclamation issued by the President pursuant to this Article shall cease to have effect -
 
 (a) if it is revoked by the President;
+(b) if fourteen days from the date of the proclamation have lapsed without there being passed the resolution referred to in subarticle (3);
+(c) after the lapse of a period of six months from the date of the proclamation; save that a sitting of the National Assembly may, before the expiration of the period of six months, extend from time to time the period of the operation of the proclamation for further periods of six months by a resolution passed by votes of not less than two-thirds of all the members present; or
+(d) at any time when a meeting of the National Assembly revokes the proclamation by a resolution supported by votes of not less than two-thirds of all the members.
 
-(b) if  fourteen  days  from  the  date  of  the  proclamation  have  lapsed without there being passed the resolution referred to in subarticle (3);
-
-(c) after  the  lapse  of  a  period  of  six  months  from  the  date  of  the proclamation;  save  that  a  sitting  of  the  National  Assembly  may, before the expiration of the period of six months, extend from time to time the period of the operation of the proclamation for further periods of six months by a resolution passed by votes of not less than two-thirds of all the members present; or
-
-(d) at any time when a meeting of the National Assembly revokes the proclamation  by  a  resolution  supported  by  votes  of  not  less  than two-thirds of all the members.
-
-(6)   For the avoidance of doubt in the interpretation or application of the provisions of this Article, the provisions of legislation enacted by Parliament and of any other law, concerning the proclamation of a state of emergency as provided President of the United Republic Act No.15 of 1984 Art.9
+(6) For the avoidance of doubt in the interpretation or application of the provisions of this Article, the provisions of legislation enacted by Parliament and of any other law, concerning the proclamation of a state of emergency as provided
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
-The Government of the United Republic and its authority Act No.15 of 1984 Art.9
-
-Discharge of the business of the Government Act No.15 of 1984 Art.9
 
 for in this Article shall apply only to the part of the United Republic in respect of which the state of emergency has been proclaimed.
 
@@ -867,27 +1100,41 @@ for in this Article shall apply only to the part of the United Republic in respe
 
 ### THE PRESIDENT
 
-33. -(1)   There shall be a President of the United Republic.
+President of the United Republic
+Act No.15
+of 1984
+Art.9
 
-(2)   The President shall be the Head of State, the Head of Government and the Commander-in-Chief of the Armed Forces.
+33.-(1) There shall be a President of the United Republic.
 
-34. -(1)   There shall be a Government of the United Republic which shall have authority over all Union Matters in the United Republic and over all other matters concerning Mainland Tanzania.
+(2) The President shall be the Head of State, the Head of Government and the Commander-in-Chief of the Armed Forces.
 
-(2)   The authority of the Government of the United Republic shall relate to  the  implementation  and  upholding  of  this  Constitution  and  also  to  all  other matters over which Parliament has power to legislate.
+The Government of the United Republic and its authority
+Act No.15
+of 1984
+Art.9
 
-(3)   All the authority of the Government of the United Republic over all Union Matters in the United Republic and also over all other matters concerning Mainland Tanzania shall vest in the President of the United Republic.
+34.-(1) There shall be a Government of the United Republic which shall have authority over all Union Matters in the United Republic and over all other matters concerning Mainland Tanzania.
 
-(4)   Subject to the other provisions of this Constitution, the authority of the Government of the United Republic shall be exercised by either the President himself or by delegation of such authority to other persons holding office in the service of the United Republic.
+(2) The authority of the Government of the United Republic shall relate to the implementation and upholding of this Constitution and also to all other matters over which Parliament has power to legislate.
 
-(5)      It  is  hereby  declared  that  the  provisions  of  this  Article  shall  not  be construed as -
+(3) All the authority of the Government of the United Republic over all Union Matters in the United Republic and also over all other matters concerning Mainland Tanzania shall vest in the President of the United Republic.
 
-(a) transferring  to  the  President  any  powers  which  by  the  law  have been  conferred  to  another  person  or  authority  other  than  the President; or
+(4) Subject to the other provisions of this Constitution, the authority of the Government of the United Republic shall be exercised by either the President himself or by delegation of such authority to other persons holding office in the service of the United Republic.
 
+(5) It is hereby declared that the provisions of this Article shall not be construed as -
+
+(a) transferring to the President any powers which by the law have been conferred to another person or authority other than the President; or
 (b) preventing Parliament from conferring power upon any person or authority other than the President.
 
-35. -(1)      All  Executive  functions  of  the  Government  of  the  United Republic of Tanzania discharged by officers of the Government shall be so done on behalf of the President.
+Discharge of the business of the Government
+Act No.15
+of 1984
+Art.9
 
-(2)      Orders  and  other  directives  issued  for  the  purposes  of  this  Article shall be signified in such manner as may be specified in regulations issued by the President in conformity with the provisions of this Constitution.
+35.-(1) All Executive functions of the Government of the United Republic of Tanzania discharged by officers of the Government shall be so done on behalf of the President.
+
+(2) Orders and other directives issued for the purposes of this Article shall be signified in such manner as may be specified in regulations issued by the President in conformity with the provisions of this Constitution.
 
 25
 
@@ -897,17 +1144,17 @@ for in this Article shall apply only to the part of the United Republic in respe
 
 Authority to constitute offices and to appoint officers Act No.15 of 1984 Art.9 Act No.3 of 2000 Art.6
 
+36.-(1) Subject to the other provisions of this Constitution and of any other law, the President shall have authority to constitute and to abolish any office in the service of the Government of the United Republic.
+
+(2) The President shall have the authority to appoint persons to hold positions of leadership responsible for formulating policies for departments and institutions of the Government, and the Chief Executives who are responsible for supervision of the implementation of those department's and institution's policies in the Service of the Government of the United Republic, in this Constitution or in various laws enacted by the Parliament, which are required to be filled by a appointment made by the President.
+
+(3) Subject to the provisions of subarticle (2), other conditions contained in this Constitution and any other relevant law, the authority for appointment of other persons who are not leaders or chief executives, to hold positions in the service of the Government of the United Republic, and also the authority for promoting such persons, to remove them from the office, to terminate their employment and the authority to regulate their discipline of persons who are given that authority, shall vest in the Service Commissions and given authority in respect with positions of authority pursuant to this Constitution or in accordance within any law concerned.
+
+(4) The provisions of subarticles (2) and (3) shall not be construed to prohibit the President to take steps of maintaining discipline of the public servants and the public service of the Government of the United Republic.
+
 Discharge of duties and function of President Act No. 15 of 1984 Art.9; Act No.4 of 1992 Art.12; Act No.34 of 1994 Art.6; Act. No.1 of 2005 Art.9; G.N.No.133 of 2001; G.N.No.150 of 2005
 
-36. -(1)      Subject  to  the  other  provisions  of  this  Constitution  and  of  any other law, the President shall have authority to constitute and to abolish any office in the service of the Government of the United Republic.
-
-(2)      The  President  shall  have  the  authority  to  appoint  persons  to  hold positions  of  leadership  responsible  for  formulating  policies  for  departments  and institutions of the Government, and the Chief Executives who are responsible for supervision of the implementation of those department's and institution's policies in the Service of the Government of the United Republic, in this Constitution or in various  laws  enacted  by  the  Parliament,  which  are  required  to  be  filled  by  a appointment made by the President.
-
-(3)   Subject to the provisions of subarticle (2), other conditions contained in this Constitution and any other relevant law, the authority for appointment of other  persons  who  are  not  leaders  or  chief  executives,  to  hold  positions  in  the service  of  the  Government  of  the  United  Republic,  and  also  the  authority  for promoting  such  persons,  to  remove  them  from  the  office,  to  terminate  their employment and the authority to regulate their discipline of persons who are given that  authority,  shall  vest  in  the  Service  Commissions  and  given  authority  in respect with positions of authority pursuant to this Constitution or in accordance within any law concerned.
-
-(4)      The  provisions  of  subarticles  (2)  and  (3)  shall  not  be  construed  to prohibit the President to take steps of maintaining discipline of the public servants and the public service of the Government of the United Republic.
-
-37. -(1)    Apart  from  complying  with  the  provisions  contained  in  this Constitution, and the laws of the United Republic in the performance of his duties and functions, the President shall be free and shall not be obliged to take advice given to him by any person, save where he is required by this Constitution or any other  law  to  act  in  accordance  with  the  advice  given  to  him  by  any  person  or authority.
+37.-(1) Apart from complying with the provisions contained in this Constitution, and the laws of the United Republic in the performance of his duties and functions, the President shall be free and shall not be obliged to take advice given to him by any person, save where he is required by this Constitution or any other law to act in accordance with the advice given to him by any person or authority.
 
 (2)   Where the Cabinet finds that the President is unable to discharge the functions of his office by reason of physical or mental infirmity, it may submit to the Chief Justice a resolution requesting him to certify that the President by reason of physical or mental infirmity, is unable to discharge the functions of his office. Upon receiving such a resolution, the Chief Justice shall appoint a medical board of not less than three persons from amongst experts recognized as such by the law governing medical practitioners in Tanzania and such board shall inquire into that issue and advise the Chief Justice accordingly, and he may, after considering the medical evidence, present to the Speaker a certificate certifying that the President, due  to  physical  or  mental  infirmity,  is  unable  to  discharge  the  functions  of  his office; and if the Chief Justice does not rescind that certificate within seven days for  the  reason  that  the  President's  condition  has  improved  and  he  has  resumed work, then it shall be deemed that the office of the President is vacant, and the provisions contained in subarticle (3) shall apply.
 
@@ -955,7 +1202,7 @@ Provided that-
 
 (b) it  is  hereby  declared  that  directions  given  by  the  President  under the provisions of this subarticle directing any Minister to discharge any  function  of  President  shall  not  be  deemed  to  prevent  the President from discharging such function himself.
 
-- For the purposes of clarity of the provisions of this Article -
+(9) For the purposes of clarity of the provisions of this Article -
 
 (a) a Cabinet meeting held for the purpose of submitting to the Chief Justice a resolution concerning the state of health of the President shall  be  valid  notwithstanding  that  any  member  of  the  Cabinet  is absent or that his position is vacant and it  shall be deemed that the Cabinet has passed that resolution as long as it is supported by the majority vote of members attending and voting;
 
@@ -965,18 +1212,22 @@ Provided that-
 
 (11)   If any person discharging the functions of President in accordance with the provisions of this Article is a Member of Parliament, he shall not forfeit his  seat  in  the  National  Assembly  or  be  disqualified  for  election  as  Member  of Parliament by reason only of his discharging those functions of President.
 
-Election of President | 38. -(1) The President shall be elected by the citizen in accordance with the provisions of this Constitution and in accordance with the law enacted by Parliament pursuant to the provisions of this Constitution, making provisions
---- | ---
-Act No.14 of 1979 Art.3; Act No.15 of 1984 Art.9 Act No.20 of 1992 | (2) Subject to the other provisions of this Constitution, the office of President shall be vacant and the election of the President shall be held or that vacancy shall be filled otherwise in accordance with this Constitution, as the case may be, upon the occurrence of any of the following events -
-Art.5 | the dissolution of Parliament;
-Act No.34 | (b) the resignation of the President without first dissolving Parliament;
-of 1994 | the disqualification of the President from holding elective office;
-Art.7 | the removal of President from office following his impeachment by
-of 2001 | the National Assembly in accordance with this Constitution;
-(d)
-G.N.No.133
+Election of President
+Act No.14 of 1979 Art.3; Act No.15 of 1984 Art.9 Act No.20 of 1992 Art.5 Act No.34 of 1994 Art.7 G.N.No.133 of 2001
 
-(e) certification  pursuant  to  the  provisions  of Article 37  of  this
+38.-(1) The President shall be elected by the citizen in accordance with the provisions of this Constitution and in accordance with the law enacted by Parliament pursuant to the provisions of this Constitution, making provisions concerning the election of the President.
+
+(2) Subject to the other provisions of this Constitution, the office of President shall be vacant and the election of the President shall be held or that vacancy shall be filled otherwise in accordance with this Constitution, as the case may be, upon the occurrence of any of the following events -
+
+(a) the dissolution of Parliament;
+
+(b) the resignation of the President without first dissolving Parliament;
+
+(c) the disqualification of the President from holding elective office;
+
+(d) the removal of President from office following his impeachment by the National Assembly in accordance with this Constitution;
+
+(e) certification pursuant to the provisions of Article 37 of this
 
 28
 
@@ -984,19 +1235,15 @@ G.N.No.133
 
 [[START OF PAGE 29]]
 
-Qualifications for election as President Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.13; Act No.34 of 1994 Art.8 Act No.3 of 2000 Art.7
-
-Eligibility for re-election Act No.15 of 1984 Art.9 Act No.34 of 1994 Art.9
-
-Procedures for the election of President Act No.20 of 1992 Art.5 Act No.34 of 1994 Art.10
-
 Constitution that the President is unable to discharge the function of his office; or
 
 (f) the death of the President.
 
-(3)     The office of President shall not be deemed to be vacant by reason only  that  the  National  Assembly  has  passed  a  motion  of  no  confidence  in  the Prime Minister.
+(3) The office of President shall not be deemed to be vacant by reason only that the National Assembly has passed a motion of no confidence in the Prime Minister.
 
-39. -(1)   A person shall not be entitled to be elected to hold the office of President of the United Republic save only if -
+Qualifications for election as President Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.13; Act No.34 of 1994 Art.8 Act No.3 of 2000 Art.7
+
+39.-(1) A person shall not be entitled to be elected to hold the office of President of the United Republic save only if -
 
 (a) he is a citizen of the United Republic by birth in accordance with the citizenship law;
 
@@ -1008,17 +1255,21 @@ Constitution that the President is unable to discharge the function of his offic
 
 (e) within the period of five years before the General Elections, he has not been convicted by any court for any offence relating to evasion to pay any tax due to the Government.
 
-(2)   Without prejudice to any person's right and freedom of expression to hold  his  own  views,  to  profess  a  religious  faith  of  his  choice,  to  associate  with others and to participate with others in community work in accordance with the laws of the land, no person shall be qualified to be elected to hold the office of President  of  the  United  Republic  unless  he  is  a  member  of,  and  a  candidate proposed by, a political party.
+(2) Without prejudice to any person's right and freedom of expression to hold his own views, to profess a religious faith of his choice, to associate with others and to participate with others in community work in accordance with the laws of the land, no person shall be qualified to be elected to hold the office of President of the United Republic unless he is a member of, and a candidate proposed by, a political party.
 
-40. -(1)      Subject  to  the  other  provisions  of  this  Article,  any  person  who holds office as President shall be eligible for re-election to that office.
+Eligibility for re-election Act No.15 of 1984 Art.9 Act No.34 of 1994 Art.9
 
-(2)      No  person  shall  be  elected  more  than  twice  to  hold  the  office  of President.
+40.-(1) Subject to the other provisions of this Article, any person who holds office as President shall be eligible for re-election to that office.
 
-(3)   A person who has been President of Zanzibar shall not be disqualified from being elected President of the United Republic for the reason only for he has once held office as President of Zanzibar.
+(2) No person shall be elected more than twice to hold the office of President.
 
-(4)   Where the Vice-President holds the office of President in accordance with the provisions of Article 37(5) for less than three years, he shall be eligible to contest for the office of President for two terms, but where he occupies the office of President for three years or more, he shall be eligible to contest for the office of President for one term only.
+(3) A person who has been President of Zanzibar shall not be disqualified from being elected President of the United Republic for the reason only for he has once held office as President of Zanzibar.
 
-41. -(1)   Where Parliament has been dissolved or where any of the events specified in subarticle (2) of Article 38 has occurred and it becomes necessary to hold an election of the President, every political party wishing to participate in the election of President shall submit to the Electoral Commission, in accordance with the  law,  the  name  of  one  of  its  members  whom  it  proposes  as  a  candidate  to contest  the  election  for  the  President  of  the  United  Republic  and  the  name  of another member of the party whom it proposes for the office of Vice-President.
+(4) Where the Vice-President holds the office of President in accordance with the provisions of Article 37(5) for less than three years, he shall be eligible to contest for the office of President for two terms, but where he occupies the office of President for three years or more, he shall be eligible to contest for the office of President for one term only.
+
+Procedures for the election of President Act No.20 of 1992 Art.5 Act No.34 of 1994 Art.10
+
+41.-(1) Where Parliament has been dissolved or where any of the events specified in subarticle (2) of Article 38 has occurred and it becomes necessary to hold an election of the President, every political party wishing to participate in the election of President shall submit to the Electoral Commission, in accordance with the law, the name of one of its members whom it proposes as a candidate to contest the election for the President of the United Republic and the name of another member of the party whom it proposes for the office of Vice-President.
 
 29
 
@@ -1026,27 +1277,25 @@ Constitution that the President is unable to discharge the function of his offic
 
 [[START OF PAGE 30]]
 
+(2) The names of the candidates proposed for the Presidential election shall be submitted to the Electoral Commission on a date and time appointed in accordance with a law enacted by Parliament, and a person shall not be validly nominated save only if his nomination is supported by such number of voters and in such manner as shall be prescribed by an Act of Parliament.
+
+(3) Where on the date and time appointed for the purpose of submission of the names of the candidates, only the name of one candidate is validly submitted, the Electoral Commission shall nominate that candidate and present such candidate's name to the electorate who shall vote either for or against him in accordance with the provisions of this Article and an Act enacted by Parliament.
+
+(4) The election of the President of the Untied Republic shall be held on a date to be appointed by the Electoral Commission in accordance with an Act of Parliament.
+
+(5) All other matters concerning the procedures for the election of the President, shall be as provided for in a law enacted by Parliament in that behalf.
+
+(6) Any presidential candidate shall be declared duly elected President only if he has obtained majority of votes.
+
+(7) When a candidate is declared by the Electoral Commission to have been duly elected in accordance with this Article, then no court of law shall have any jurisdiction to inquire into the election of that candidate.
+
 Time of assumption and term of office of President Act No. 15 of 1984 Art.9
 
-Terms of office of President Act No.15 of 1984
+42.-(1) The President elect shall assume office of President as soon as possible after it is declared that he has been elected President, but in any event he shall assume office before the expiration of not more than seven days.
 
-(2)      The  names  of  the  candidates  proposed  for  the  Presidential  election shall  be submitted to the Electoral Commission on a date and time appointed in accordance with a law enacted by Parliament, and a person shall not be validly nominated save only if his nomination is supported by such number of voters and in such manner as shall be prescribed by an Act of Parliament.
+(2) Unless he sooner resigns or dies, the President shall, subject to sub article (3), hold office of President for a period of five years from the date on which he was elected.
 
-(3)   Where on the date and time appointed for the purpose of submission of  the  names  of  the  candidates,  only  the  name  of  one  candidate  is  validly submitted,  the  Electoral  Commission  shall  nominate  that  candidate  and  present such candidate's name to the electorate who shall vote either for or against him in accordance with the provisions of this Article and an Act enacted by Parliament.
-
-(4)   The election of the President of the Untied Republic shall be held on a date to be appointed by the Electoral Commission in accordance with an Act of Parliament.
-
-(5)      All  other  matters  concerning  the  procedures  for  the  election  of  the President, shall be as provided for in a law enacted by Parliament in that behalf.
-
-(6)      Any  presidential  candidate  shall  be  declared  duly  elected  President only if he has obtained majority of votes.
-
-(7)     When a candidate is declared by the Electoral Commission to have been duly elected in accordance with this Article, then no court of law shall have any jurisdiction to inquire into the election of that candidate.
-
-42. -(1)    The  President  elect  shall  assume  office  of  President  as  soon  as possible after it is declared that he has been elected President, but in any event he shall assume office before the expiration of not more than seven days.
-
-(2)    Unless  he  sooner  resigns  or  dies,  the  President  shall,  subject  to  sub article  (3),  hold  office  of  President  for  a  period  of  five  years  from  the  date  on which he was elected.
-
-(3)   A person elected President shall hold the office of President until -
+(3) A person elected President shall hold the office of President until -
 
 (a) the day his successor in office takes the oath of office;
 
@@ -1054,13 +1303,15 @@ Terms of office of President Act No.15 of 1984
 
 (c) the day he resigns from office; or
 
-(d) he  ceases  to  hold  the  office  of  President  in  accordance  with  the provisions of this Constitution.
+(d) he ceases to hold the office of President in accordance with the provisions of this Constitution.
 
-(4)  If the United Republic is at war and the President considers that it is not  practicable  to  hold  elections,  the  National  Assembly  may  pass  a  resolution extending the period of five years specified in subarticle (2) of this Article save that no such extension shall exceed a period of six months at any one time.
+(4) If the United Republic is at war and the President considers that it is not practicable to hold elections, the National Assembly may pass a resolution extending the period of five years specified in subarticle (2) of this Article save that no such extension shall exceed a period of six months at any one time.
 
-(5)      Every  President  elect  and  every  person  assuming  the  office  of President shall, before assuming the functions of the Office of President, take and subscribe,  in  the  presence  of  the  Chief  Justice  of  the  United  Republic,  oath  of allegiance  and  such  other  oath  relating  to  the  execution  of  the  functions  of  the office of President as may be prescribed by an Act of Parliament.
+(5) Every President elect and every person assuming the office of President shall, before assuming the functions of the Office of President, take and subscribe, in the presence of the Chief Justice of the United Republic, oath of allegiance and such other oath relating to the execution of the functions of the office of President as may be prescribed by an Act of Parliament.
 
-43 .-(1)    The  President  shall  be  paid  such  salary  and  other  remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and
+Terms of office of President Act No.15 of 1984
+
+43.-(1) The President shall be paid such salary and other remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and
 
 30
 
@@ -1068,37 +1319,39 @@ Terms of office of President Act No.15 of 1984
 
 [[START OF PAGE 31]]
 
-- Art.9 gratuity  shall  be  charged  on  the  Consolidated  Fund  of  the  United  Republic  and shall be paid in accordance with the provisions of this Article.
+Art.9
+
+gratuity shall be charged on the Consolidated Fund of the United Republic and shall be paid in accordance with the provisions of this Article.
 
 (2)     The salary and all other payments due to the President shall not be reduced while he is in office in accordance with the provisions of this Constitution.
 
 Power to declare war Act No.15 of 1984 Art.9; Act No.4 of 1992 Art.14
 
+44.-(1) Subject to this Constitution or to any Act of Parliament providing in that behalf, the President may declare the existence of a state of war between the United Republic and any other country.
+
+(2) After making the declaration, the President shall transmit a copy of such declaration to the Speaker of the National Assembly who, after consultation with the Leader of Government Business in the National Assembly, shall within fourteen days from the date of the declaration, convene a meeting of the National Assembly to deliberate on the prevailing situation and to consider whether or not to pass a resolution in support of the declaration of war made by the President.
+
 Prerogative of mercy Act No.15 of 1984 Art.9
+
+45.-(1) Subject to the other provisions contained in this Article, the President may do any of the following:
+
+(a) grant a pardon to any person convicted by a court of law of any offence, and he may subject to law grant such pardon unconditionally or on conditions;
+
+(b) grant any person a respite, either indefinitely or for a specified period, of the execution of any punishment imposed on that person for any offence;
+
+(c) substitute a less severe form of punishment for any punishment imposed on any person for any offence; and
+
+(d) remit the whole or part of any punishment imposed on any person for any offence, or remit the whole or part of any penalty of fine or forfeiture of property belonging to a convicted person which would otherwise be due to the Government of the United Republic on account of any offence.
+
+(2) Parliament may enact law making provisions for the procedure to be followed by the President in the exercise of his powers under this Article.
+
+(3) The provisions of this Article shall apply to persons convicted and punished in Tanzania Zanzibar and to punishments imposed in Tanzania Zanzibar under law enacted by Parliament which applies to Tanzania Zanzibar, likewise such provisions shall apply to persons convicted and punished in Mainland Tanzania in accordance with law.
 
 Immunity from criminal and civil proceedings Act No.15 of 1984 Art.9 Act No.20 Of 1992
 
-44 .-(1)  Subject to this Constitution or to any Act of Parliament providing in that behalf, the President may declare the existence of a state of war between the United Republic and any other country.
+46.-(1) During the President's tenure of office in accordance with this Constitution it shall be prohibited to institute or continue in court any criminal proceedings whatsoever against him.
 
-(2)   After making the declaration, the President shall transmit a copy of such declaration to the Speaker of the National Assembly who, after consultation with the Leader of Government Business in the National Assembly, shall within fourteen days from the date of the declaration, convene a meeting of the National Assembly to deliberate on the prevailing situation and to consider whether or not to pass a resolution in support of the declaration of war made by the President.
-
-45. -(1)    Subject  to  the  other  provisions  contained  in  this  Article,  the President may do any of the following:
-
-(a) grant  a  pardon  to  any  person  convicted  by  a  court  of  law  of  any offence, and he may subject to law grant such pardon unconditionally or on conditions;
-
-(b) grant  any  person  a  respite,  either  indefinitely  or  for  a  specified period, of the execution of any punishment imposed on that person for any offence;
-
-(c) substitute  a  less  severe  form  of  punishment  for  any  punishment imposed on any person for any offence; and
-
-(d) remit the whole or part of any punishment imposed on any person for any offence, or remit the whole or part of any penalty of fine or forfeiture of property belonging to a convicted person which would otherwise  be  due  to  the  Government  of  the  United  Republic  on account of any offence.
-
-(2)   Parliament may enact law making provisions for the procedure to be followed by the President in the exercise of his powers under this Article.
-
-(3)      The  provisions  of  this  Article  shall  apply  to  persons  convicted  and punished in Tanzania Zanzibar and to punishments imposed in Tanzania Zanzibar under  law  enacted  by  Parliament  which  applies  to  Tanzania  Zanzibar,  likewise such  provisions  shall  apply  to  persons  convicted  and  punished  in  Mainland Tanzania in accordance with law.
-
-46. -(1)    During  the  President's  tenure  of  office  in  accordance  with  this Constitution  it  shall  be  prohibited  to  institute  or  continue  in  court  any  criminal proceedings whatsoever against him.
-
-(2)      During  the  President's  tenure  of  office  in  accordance with this Constitution,  no  civil  proceedings  against  him  shall  be  instituted  in  court  in respect of anything done or not done, or purporting to have been done or not done, by him in his personal capacity as an ordinary citizen whether before or after he Art.7 assumed the office of President, unless at least thirty days before the proceedings are instituted in court, notice of claim in writing has been delivered to him or sent to him pursuant to the procedure prescribed by an Act of Parliament, stating the nature of such proceedings, the cause of action, the name, residential address of the claimant and the relief which he claims.
+(2) During the President's tenure of office in accordance with this Constitution, no civil proceedings against him shall be instituted in court in respect of anything done or not done, or purporting to have been done or not done, by him in his personal capacity as an ordinary citizen whether before or after he
 
 31
 
@@ -1106,7 +1359,11 @@ Immunity from criminal and civil proceedings Act No.15 of 1984 Art.9 Act No.20 O
 
 [[START OF PAGE 32]]
 
-(3)   Except where he ceases to hold the office of President pursuant to the provisions of Article 46A(10) it shall be prohibited to institute in court criminal or civil  proceedings  whatsoever  against  a  person  who  was  holding  the  office  of President after he ceases to hold such office for anything he did in his capacity as President while he held the office of President in accordance with this Constitution.
+Art.7
+
+assumed the office of President, unless at least thirty days before the proceedings are instituted in court, notice of claim in writing has been delivered to him or sent to him pursuant to the procedure prescribed by an Act of Parliament, stating the nature of such proceedings, the cause of action, the name, residential address of the claimant and the relief which he claims.
+
+(3) Except where he ceases to hold the office of President pursuant to the provisions of Article 46A(10) it shall be prohibited to institute in court criminal or civil proceedings whatsoever against a person who was holding the office of President after he ceases to hold such office for anything he did in his capacity as President while he held the office of President in accordance with this Constitution.
 
 Impeachment by the National Assembly Act No.20 of 1992 Art.8 Act No.12 of 1995 Art.4
 
@@ -1126,9 +1383,9 @@ and no such motion shall be moved within twenty months from the time when a simi
 
 (a) a  written  notice  signed  and  supported  by  not  less  the  twenty  per cent  of  all  Members  of  Parliament  is  submitted  to  the  Speaker thirty days prior to the sitting at which such motion is intended to be moved  in the National Assembly, specifying the wrong committed by the President and proposing that a Special Committee  of  Inquiry  be  Constituted  to  inquire  into  the  charges brought against the President; and
 
-(b) at any time after the Speaker receives the notice duly signed by the Member of Parliament and satisfies himself that the provisions of the Constitution for the moving of the motion have been complied with,  to  vote  on  the  motion  to  constitute  a  Special  Committee  of Inquiry, and if it is supported by not less than two thirds of all the Member s of  Parliament, the Speaker shall announce the names of the member of the Special Committee of Inquiry.
+(b) at any time after the Speaker receives the notice duly signed by the Member of Parliament and satisfies himself that the provisions of the Constitution for the moving of the motion have been complied with, to vote on the motion to constitute a Special Committee of Inquiry, and if it is supported by not less than two thirds of all the Members of Parliament, the Speaker shall announce the names of the member of the Special Committee of Inquiry.
 
-(4)   The Special Committee of Inquiry for the purpose of this Article shall consist of the following members, that is to say - Duty of principal leaders of organs with executive power to preserve Union
+(4) The Special Committee of Inquiry for the purpose of this Article shall consist of the following members, that is to say -
 
 32
 
@@ -1156,7 +1413,10 @@ and no such motion shall be moved within twenty months from the time when a simi
 
 (11)   In the event the President ceases to hold the office of President by reason of the charges against him being proved he shall not be entitled to receive any payment by way of pension or to receive any benefits.
 
-46B. -(1)      Without  prejudice  to  the  duty  of  every  citizen  which  is stipulated in Article 28 of this Constitution, the principal executive leaders of the organs vested with executive powers in the United Republic mentioned in Article 4  of  this  Constitution  shall,  each  one  of  them  in  the  exercise  of  the  powers conferred by this Constitution or the Constitution of Zanzibar 1984 have the duty Act No.12 of 1995 Art.5
+Duty of principal leaders of organs with executive power to preserve Union
+Act No.12 of 1995 Art.5
+
+46B.-(1) Without prejudice to the duty of every citizen which is stipulated in Article 28 of this Constitution, the principal executive leaders of the organs vested with executive powers in the United Republic mentioned in Article 4 of this Constitution shall, each one of them in the exercise of the powers conferred by this Constitution or the Constitution of Zanzibar 1984 have the duty
 
 33
 
@@ -1164,13 +1424,11 @@ and no such motion shall be moved within twenty months from the time when a simi
 
 [[START OF PAGE 34]]
 
-Vice-President his duties and powers Act No.34 of 1994 Art.11; Act No.3 of 2000 Art.9
+to ensure that he protects, strengthens and preserves the unity of the United Republic.
 
-to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  the  United Republic.
+(2) For the purposes of the provisions of subarticle (1), each of the principal leaders of the organs vested with executive powers of the United Republic shall, before assuming office in accordance with this Constitution, take oath to defend and preserve the unity of the United Republic in accordance with this Constitution.
 
-(2)      For  the  purposes  of  the  provisions  of  subarticle  (1),  each  of  the principal  leaders  of  the  organs  vested  with  executive  powers  of  the  United Republic shall, before assuming office in accordance with this Constitution, take oath to defend and preserve the unity of the United Republic in accordance with this Constitution.
-
-- The principal leaders to whom the provisions of this Article apply are:
+(3) The principal leaders to whom the provisions of this Article apply are:
 
 (a) the President of the United Republic;
 
@@ -1184,7 +1442,9 @@ to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  th
 
 ### VICE-PRESIDENT
 
-47. -(1)      There  shall  be  a  Vice-President,  who  shall  be  the  principal assistant  to  the  President  in  respect  of  all  the  matters  in  the  United  Republic generally and, in particular shall -
+Vice-President his duties and powers Act No.34 of 1994 Art.11; Act No.3 of 2000 Art.9
+
+47.-(1) There shall be a Vice-President, who shall be the principal assistant to the President in respect of all the matters in the United Republic generally and, in particular shall -
 
 (a) assist  the  President  in  making  a  follow-up  on  the  day-to-day implementation of Union Matters;
 
@@ -1192,11 +1452,11 @@ to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  th
 
 (c) perform all duties and functions of the office of President when the President is out of office or out of the country.
 
-(2)      Without  prejudice  to  the  provisions  of  Article  37(5),  the  VicePresident shall be elected in the same election together with the President, after being nominated by his party at the same time as the Presidential candidate and being voted for together on the same ticket.  When the Presidential candidate is elected the Vice-President shall have been elected.
+(2) Without prejudice to the provisions of Article 37(5), the Vice-President shall be elected in the same election together with the President, after being nominated by his party at the same time as the Presidential candidate and being voted for together on the same ticket. When the Presidential candidate is elected the Vice-President shall have been elected.
 
-(3)      A  person  shall  be  nominated  to  contest  for  the  office  of  VicePresident  on  the  basis  of  the  principle  that  where  the  President  of  the  Untied Republic hails from one part of the United Republic, then the Vice-President shall be a person who hails from the other part of the Union.
+(3) A person shall be nominated to contest for the office of Vice-President on the basis of the principle that where the President of the Untied Republic hails from one part of the United Republic, then the Vice-President shall be a person who hails from the other part of the Union.
 
-(4)      A  person  shall  not  be  nominated  to  contest  for  the  office  of  VicePresident of the United Republic, save only if -
+(4) A person shall not be nominated to contest for the office of Vice-President of the United Republic, save only if -
 
 (a) he is a citizen of the United Republic by birth in accordance with the citizenship law;
 
@@ -1208,7 +1468,7 @@ to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  th
 
 (e) within the period of five years before the elections he has not been convicted by any court for any offence relating to evasion to pay any tax due to the Government.
 
-(5)        Any  party  shall  not  be  prohibited  from  nominating  any  person  to contest for the office of Vice-President for the reason only that such person is at Time of assumption of office of the Vice-President Act No.34 of 1994
+(5) Any party shall not be prohibited from nominating any person to contest for the office of Vice-President for the reason only that such person is at
 
 34
 
@@ -1216,27 +1476,29 @@ to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  th
 
 [[START OF PAGE 35]]
 
-Art.11 Oath of office of the VicePresident Act No.34 of 1994 Art.11 office of Vice-
+that time holding the office of President of Zanzibar or the office of Prime Minister of the United Republic.
 
-Tenure of President Act No.15 of 1984 Art.9 Act No.34 of 1994 Art.11 Act No.12 of 1995 Art.6 Act No.3 of 2000 Art.10; G.N.No.133 of 2001
+(6) The Vice-President shall not at the same time be a Member of Parliament, Prime Minister of the United Republic or President of Zanzibar.
 
-that  time  holding  the  office  of  President  of  Zanzibar  or  the  office  of  Prime Minister of the United Republic.
+(7) Where a person who is Prime Minister or President of Zanzibar is appointed or elected to be Vice-President of the United Republic he shall cease to hold the office of Prime Minister or President of Zanzibar, as the case may be.
 
-(6)      The  Vice-President  shall  not  at  the  same  time  be  a  Member  of Parliament, Prime Minister of the United Republic or President of Zanzibar.
+(8) The Vice-President shall perform his duties under the direction and supervision of the President and shall provide leadership and be answerable to the President in respect of any matters or functions assigned to him by the President.
 
-(7)      Where  a  person  who  is  Prime  Minister  or  President  of  Zanzibar  is appointed or elected to be Vice-President of the United Republic he shall cease to hold the office of Prime Minister or President of Zanzibar, as the case may be.
+Time of assumption of office of the Vice-President Act No.34 of 1994 Art.11
 
-(8)     The Vice-President shall perform his duties under the direction and supervision of the President and shall provide leadership and be answerable to the President in respect of any matters or functions assigned to him by the President.
+48.-(1) The Vice-President shall assume the office of Vice-President on the same day the President assumes office.
 
-48 .-(1)   The Vice-President shall assume the office of Vice-President on the same day the President assumes office.
+(2) The Vice-President appointed in accordance with Article 50(4) shall take oath and assume office after his appointment is confirmed by the National Assembly.
 
-(2)   The Vice-President appointed in accordance with Article 50(4) shall take  oath and  assume office after  his  appointment  is  confirmed  by  the  National Assembly.
+Oath of office of the Vice-President Act No.34 of 1994 Art.11
 
-49. The Vice-President shall, before assuming office, make and subscribe before the Chief Justice  of  the  United Republic  the  oath  of  allegiance  and  such other  oath  relating  to  the  execution  of  the  functions  of  his  office  as  may  be prescribed by an Act of Parliament.
+49. The Vice-President shall, before assuming office, make and subscribe before the Chief Justice of the United Republic the oath of allegiance and such other oath relating to the execution of the functions of his office as may be prescribed by an Act of Parliament.
 
-50. -(1)  Unless he sooner resigns or dies, a person elected or appointed in accordance  with  Article  37(5),  to  be  Vice-President,  shall,  subject  to  the  other provisions of this Article, hold office for a period of five years from the day he is elected Vice-President.
+Tenure of office of Vice-President Act No.15 of 1984 Art.9 Act No.34 of 1994 Art.11 Act No.12 of 1995 Art.6 Act No.3 of 2000 Art.10; G.N.No.133 of 2001
 
-- The Vice-President shall hold office until -
+50.-(1) Unless he sooner resigns or dies, a person elected or appointed in accordance with Article 37(5), to be Vice-President, shall, subject to the other provisions of this Article, hold office for a period of five years from the day he is elected Vice-President.
+
+(2) The Vice-President shall hold office until -
 
 (a) his tenure of office expires;
 
@@ -1264,21 +1526,19 @@ that  time  holding  the  office  of  President  of  Zanzibar  or  the  office  
 
 [[START OF PAGE 36]]
 
-Prime Minister of the United Republic Act No.20 of 1992 Art.9
-
 the Vice-President has ceased or failed to discharge the duties and functions of the office of Vice-President;
 
 (b) he has committed acts which generally violate the Constitution or the law concerning the ethics of public leaders;
 
 (c) he has committed acts which contravene the conditions concerning the registration of political parties specified in Article 20(2) of the Constitution; or
 
-(d) he has conducted himself in a manner that lowers the esteem of the office  of  President  of  the  United  Republic  or  the  office  of  VicePresident,
+(d) he has conducted himself in a manner that lowers the esteem of the office of President of the United Republic or the office of Vice-President,
 
 and no such motion shall be moved within twelve months from the time when a similar motion was previously moved and rejected by the National Assembly.
 
-(4)   In the event that the office of Vice-President is vacant pursuant to the relevant provisions of  subarticle (2) or (3) of this Article as soon as possible and in any case within a period not exceeding fourteen days after the Vice-President has ceased to hold his office, the President shall appoint a person who shall be the Vice-President and such appointment shall be confirmed by the National Assembly by a majority vote of the Members of Parliament.
+(4) In the event that the office of Vice-President is vacant pursuant to the relevant provisions of subarticle (2) or (3) of this Article as soon as possible and in any case within a period not exceeding fourteen days after the Vice-President has ceased to hold his office, the President shall appoint a person who shall be the Vice-President and such appointment shall be confirmed by the National Assembly by a majority vote of the Members of Parliament.
 
-(5)      All  other  provisions  of  Article  46A  of  the  Constitution  shall  apply also in relation to the Vice-President save only that a Vice-President who has been removed from office under subarticle (3) shall no longer qualify to hold the office of the President, Vice President, Prime Minister or President of Zanzibar.
+(5) All other provisions of Article 46A of the Constitution shall apply also in relation to the Vice-President save only that a Vice-President who has been removed from office under subarticle (3) shall no longer qualify to hold the office of the President, Vice President, Prime Minister or President of Zanzibar.
 
 ### PART III
 
@@ -1286,7 +1546,9 @@ and no such motion shall be moved within twelve months from the time when a simi
 
 #### Prime Minister
 
-51. -(1)   There shall be a Prime Minister of the United Republic who shall be appointed by the President in accordance with the provisions of this Article and who,  before  assuming  his  office,  shall  take  and  subscribe  before  the  President such oath of office of Prime Minister as may be prescribed by Parliament.
+Prime Minister of the United Republic Act No.20 of 1992 Art.9
+
+51.-(1) There shall be a Prime Minister of the United Republic who shall be appointed by the President in accordance with the provisions of this Article and who, before assuming his office, shall take and subscribe before the President such oath of office of Prime Minister as may be prescribed by Parliament.
 
 (2)      As  soon  as  possible,  and  in  any  case  within  fourteen  days  after assuming office, the President shall appoint a Member of Parliament elected from a constituency from a political party having a majority of members in the National Assembly or, if no political party has a majority, who appears to have the support of the majority of the Members of Parliament, to be Prime Minister of the United Republic, and he shall not assume office until his appointment is first confirmed by  a  resolution  of  the  National  Assembly  supported  by  a  majority  vote  of  the Members.
 
@@ -1306,27 +1568,27 @@ and no such motion shall be moved within twelve months from the time when a simi
 
 [[START OF PAGE 37]]
 
-Functions and authority of the Prime Minister Act No.15 of 1984 Art.9
-
-Accountability of the Executive Act No.15 of 1984 Art.9
-
-Vote of no confidence Act No.20 of 1992 Art.10 Act No.12 of 1995 Art.7
-
 office of the Prime Minister; or
 
 (e) he ceases to hold the office of Prime Minister in accordance with the other provisions of this Constitution.
 
-52. -(1)      The  Prime  Minister  shall  have  authority  over  the  control, supervision and execution of the day-to-day functions and affairs of the Government of the United Republic.
+Functions and authority of the Prime Minister Act No.15 of 1984 Art.9
 
-(2)   The Prime Minister shall be the Leader of Government business in the National Assembly.
+52.-(1) The Prime Minister shall have authority over the control, supervision and execution of the day-to-day functions and affairs of the Government of the United Republic.
 
-(3)   In the exercise of his authority, the Prime Minister shall perform or cause  to  be  performed  any  matter  or  matters  which  the  President  directs  to  be done.
+(2) The Prime Minister shall be the Leader of Government business in the National Assembly.
 
-53. -(1)   Subject to the provisions of this Constitution, the Prime Minister shall be accountable to the President for the exercise of his authority.
+(3) In the exercise of his authority, the Prime Minister shall perform or cause to be performed any matter or matters which the President directs to be done.
 
-(2)      The  Executive  of  the  United  Republic,  under  the  authority  of  the President,  shall  be  the  organ  having  the  power  to  determine  the  policy  of  the Government in general, and Ministers under the leadership of the Prime Minister, shall be collectively responsible in the National Assembly for the execution of the affairs of the Government of the United Republic.
+Accountability of the Executive Act No.15 of 1984 Art.9
 
-53A. -(1) Notwithstanding the provisions of Article 51 of this Constitution,  the  National  Assembly  may  pass  a  vote  of  no  confidence  in  the Prime Minister if a motion in that behalf is moved and passed in accordance with the provisions of this Article.
+53.-(1) Subject to the provisions of this Constitution, the Prime Minister shall be accountable to the President for the exercise of his authority.
+
+(2) The Executive of the United Republic, under the authority of the President, shall be the organ having the power to determine the policy of the Government in general, and Ministers under the leadership of the Prime Minister, shall be collectively responsible in the National Assembly for the execution of the affairs of the Government of the United Republic.
+
+Vote of no confidence Act No.20 of 1992 Art.10 Act No.12 of 1995 Art.7
+
+53A.-(1) Notwithstanding the provisions of Article 51 of this Constitution, the National Assembly may pass a vote of no confidence in the Prime Minister if a motion in that behalf is moved and passed in accordance with the provisions of this Article.
 
 (2)   Subject to the other provisions of this Article, any motion for a vote of  no  confidence  in  the  Prime  Minister  shall  not  be  moved  in  the  National Assembly if -
 
@@ -1350,27 +1612,27 @@ office of the Prime Minister; or
 
 [[START OF PAGE 38]]
 
-Cabinet Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.15 Act No.34 of 1994 Art.12
+(5) A motion for a vote of no confidence in the Prime Minister shall be passed only if it is supported by a majority of the Members of Parliament.
 
-Appointment of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
-
-(5)   A motion for a vote of  no confidence in the Prime Minister shall be passed only if it is supported by a majority of the Members of Parliament.
-
-(6)      In  the  event  the  motion  for  a  vote  of  no  confidence  in  the  Prime Minister is  supported  by  a  majority  of  the  Members  of  Parliament,  the  Speaker shall  submit that resolution to the President, and as soon as possible and in any case within two days from the day the National Assembly passes the vote of no confidence in the Prime Minister, the Prime Minister shall be required to resign, and  the  President  shall  appoint  another  Member  of  Parliament  to  be  Prime Minister.
+(6) In the event the motion for a vote of no confidence in the Prime Minister is supported by a majority of the Members of Parliament, the Speaker shall submit that resolution to the President, and as soon as possible and in any case within two days from the day the National Assembly passes the vote of no confidence in the Prime Minister, the Prime Minister shall be required to resign, and the President shall appoint another Member of Parliament to be Prime Minister.
 
 #### Cabinet and Government
 
-54. -(1)   There shall be a Cabinet the members of which shall be the VicePresident, the Prime Minister, the President of Zanzibar, and all the Ministers.
+Cabinet Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.15 Act No.34 of 1994 Art.12
 
-(2)      The  President  shall  attend  the  meetings  of  the  Cabinet  and  shall preside  over  those  meetings.    In  the  event  the  President  is  absent,  the  meetings shall be presided over by the Vice-President, and if both President and the VicePresident are absent, the Prime Minister shall preside over the meetings.
+54.-(1) There shall be a Cabinet the members of which shall be the Vice-President, the Prime Minister, the President of Zanzibar, and all the Ministers.
 
-(3) Subject to the provisions contained in Article 37(1) of this Constitution,  the  Cabinet  shall  be  the  principal  organ  for  advising  the  President regarding all matters concerning the exercise of his powers in accordance with the provisions of this Constitution, and it shall assist and advise the President over any matter  which  shall  be  submitted  to  the  Cabinet  pursuant  to  specific  or  general directions issued by the President.
+(2) The President shall attend the meetings of the Cabinet and shall preside over those meetings. In the event the President is absent, the meetings shall be presided over by the Vice-President, and if both President and the Vice-President are absent, the Prime Minister shall preside over the meetings.
 
-(4)   The Attorney General shall attend all the meetings of the Cabinet and shall have all the rights of a member of those meetings save that he shall not have the right to vote at such meetings.
+(3) Subject to the provisions contained in Article 37(1) of this Constitution, the Cabinet shall be the principal organ for advising the President regarding all matters concerning the exercise of his powers in accordance with the provisions of this Constitution, and it shall assist and advise the President over any matter which shall be submitted to the Cabinet pursuant to specific or general directions issued by the President.
 
-(5)   The question whether any advice, and if so, what advice was given by the Cabinet to the President, shall not be inquired into any court.
+(4) The Attorney General shall attend all the meetings of the Cabinet and shall have all the rights of a member of those meetings save that he shall not have the right to vote at such meetings.
 
-55. -(1)   All Ministers who are members of Cabinet by virtue of Article 54 shall be appointed by the President after consultation with the Prime Minister and they shall be responsible for such offices as the President may, from time to time, by writing under his hand and the Public Seal, establish.
+(5) The question whether any advice, and if so, what advice was given by the Cabinet to the President, shall not be inquired into any court.
+
+Appointment of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
+
+55.-(1) All Ministers who are members of Cabinet by virtue of Article 54 shall be appointed by the President after consultation with the Prime Minister and they shall be responsible for such offices as the President may, from time to time, by writing under his hand and the Public Seal, establish.
 
 (2)   In addition to the Ministers referred to in subarticle (1) the President may, after consultation with the Prime Minister, appoint Deputy Ministers.    All Deputy Ministers shall not be members of  Cabinet.
 
@@ -1388,49 +1650,13 @@ Appointment of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
 
 Oath of office of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
 
-Tenure of
+56. A Minister or a Deputy Minister shall not assume office until he has first taken and subscribed before the President, the oath of allegiance and such other oath relating to the execution of the functions of his office as may be prescribed by an Act of Parliament.
 
-office of
+Tenure of office of Ministers and Deputy Ministers Act No.15 of 1984 Art.9; Act No.20 of 1992 Art.9; Act No.20 of 1992 Art.11 Act No.12 of 1995 Art.8
 
-Ministers and
+57.-(1) The tenure of office of a Minister or a Deputy Minister shall commence on the date he is appointed to hold that office.
 
-Deputy
-
-Ministers
-
-Act No.15
-
-of 1984
-
-Art.9;
-
-Act No.20
-
-of 1992
-
-Art.9;
-
-Act No.20
-
-of 1992
-
-Art.11
-
-Act No.12
-
-of 1995
-
-Art.8
-
-Terms of office of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
-
-Attorney General for the Government of the United Republic Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.16 Act No.1 of 2005 Art.11
-
-56. A Minister or a Deputy Minister shall not assume office until he has first  taken  and  subscribed  before  the  President,  the  oath  of  allegiance  and  such other  oath  relating  to  the  execution  of  the  functions  of  his  office  as  may  be prescribed by an Act of Parliament.
-
-57. -(1)      The  tenure  of  office  of  a  Minister  or  a  Deputy  Minister  shall commence on the date he is appointed to hold that office.
-
-(2)   The Office of a Minister or a Deputy Minister shall become vacant upon the occurrence of any of the following:
+(2) The Office of a Minister or a Deputy Minister shall become vacant upon the occurrence of any of the following:
 
 (a) if the incumbent resigns or dies;
 
@@ -1446,9 +1672,13 @@ Attorney General for the Government of the United Republic Act No.15 of 1984 Art
 
 (g) where the Ethics Tribunal makes a decision confirming that he has contravened the law concerning ethics of public leaders.
 
+Terms of office of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
+
 58. Ministers and Deputy Ministers shall hold office during the pleasure of the President, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.
 
-59. -(1)      There  shall  be  the  Attorney  General  for  the  Government  of  the United Republic, who in the subsequent Articles of this Constitution, shall simply be referred to as the 'Attorney-General' who shall be appointed by the President.
+Attorney General for the Government of the United Republic Act No.15 of 1984 Art.9 Act No.4 of 1992 Art.16 Act No.1 of 2005 Art.11
+
+59.-(1) There shall be the Attorney General for the Government of the United Republic, who in the subsequent Articles of this Constitution, shall simply be referred to as the "Attorney-General" who shall be appointed by the President.
 
 (2)   The Attorney General shall be appointed from amongst public officers qualified  to  perform  functions  of  advocate  or,  persons  who  are  qualified  to  be registered as advocates and, has continuously held those qualifications for a period of not less than ten years.
 
@@ -1460,15 +1690,9 @@ Attorney General for the Government of the United Republic Act No.15 of 1984 Art
 
 [[START OF PAGE 40]]
 
-Deputy Attorney General Act No.1 of 2005 Art.12
+(4) In the discharge of duties and functions in accordance with this Article, the Attorney-General shall be entitled to appear and be heard in all courts in the United Republic.
 
-Director of Public Prosecutions Act No.1 of 2005 Art.12
-
-Secretary to the Cabinet Act No.15 of 1984 Art.9
-
-(4)      In  the  discharge  of  duties  and  functions  in  accordance  with  this Article, the Attorney-General shall be entitled to appear and be heard in all courts in the United Republic.
-
-(5)   The Attorney-General shall be a Member of Parliament by virtue of office, and shall hold office until -
+(5) The Attorney-General shall be a Member of Parliament by virtue of office, and shall hold office until -
 
 (a) his appointment is revoked by the President; or
 
@@ -1476,17 +1700,21 @@ Secretary to the Cabinet Act No.15 of 1984 Art.9
 
 and he shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.
 
-59A. -(1)      There  shall  be  a  Deputy  Attorney  General  of  the  United Republic,  who  shall  be  appointed  by  the  President  from  amongst  persons  with qualifications specified in subarticle (2) of Article 59, and has continuously held those qualifications for a period of not less than ten years.
+Deputy Attorney General Act No.1 of 2005 Art.12
 
-(2)      The  Deputy  Attorney General shall be the principal assistant in the discharge  of  duties  and  functions  of  the  Attorney  General  and  shall  discharge other duties and functions as may be assigned by the Attorney General.
+59A.-(1) There shall be a Deputy Attorney General of the United Republic, who shall be appointed by the President from amongst persons with qualifications specified in subarticle (2) of Article 59, and has continuously held those qualifications for a period of not less than ten years.
 
-59B .-(1)      There  shall  be  a  Director  of  Public  Prosecutions who shall be appointed by the President from amongst persons with qualifications specified in subarticle  (2)  of  Article  59  and  has  continuously  held  those  qualifications  for  a period of not less than ten years.
+(2) The Deputy Attorney General shall be the principal assistant in the discharge of duties and functions of the Attorney General and shall discharge other duties and functions as may be assigned by the Attorney General.
 
-(2)      The  Director  of  Public  Prosecutions  shall  have  powers  to  institute, prosecute and supervise all criminal prosecutions in the country.
+Director of Public Prosecutions Act No.1 of 2005 Art.12
 
-(3)      The  powers  of  the  Director  of  Public  Prosecutions  under  subarticle (2), may be exercised by him in person or on his directions, by officers under him or any other officers who discharge these duties under his instructions.
+59B.-(1) There shall be a Director of Public Prosecutions who shall be appointed by the President from amongst persons with qualifications specified in subarticle (2) of Article 59 and has continuously held those qualifications for a period of not less than ten years.
 
-(4)   In exercising his powers, the Director of Public Prosecutions shall be free,  shall  not  be  interfered  with  by  any  person  or  with  any  authority  and  shall have regard to the following -
+(2) The Director of Public Prosecutions shall have powers to institute, prosecute and supervise all criminal prosecutions in the country.
+
+(3) The powers of the Director of Public Prosecutions under subarticle (2), may be exercised by him in person or on his directions, by officers under him or any other officers who discharge these duties under his instructions.
+
+(4) In exercising his powers, the Director of Public Prosecutions shall be free, shall not be interfered with by any person or with any authority and shall have regard to the following -
 
 (a) the need to dispensing justice;
 
@@ -1494,9 +1722,11 @@ and he shall be paid a salary, allowances and other remuneration in accordance w
 
 (c) public interest.
 
-(5)   The Director of Public Prosecutions shall exercise his powers as may be prescribed by any law enacted or to be enacted by the Parliament.
+(5) The Director of Public Prosecutions shall exercise his powers as may be prescribed by any law enacted or to be enacted by the Parliament.
 
-60. There  shall  be  a  Secretary  to  the  Cabinet  who  shall  be  the  chief executive officer in the office of the Cabinet, and he shall discharge the following functions, in compliance with the general or specific directions issued to him by the President, that is to say:
+Secretary to the Cabinet Act No.15 of 1984 Art.9
+
+60. There shall be a Secretary to the Cabinet who shall be the chief executive officer in the office of the Cabinet, and he shall discharge the following functions, in compliance with the general or specific directions issued to him by the President, that is to say:
 
 (a) to  work  out  a  programme  for  Cabinet  meetings  and  prepare  the agenda for each meeting;
 
@@ -1512,23 +1742,19 @@ and he shall be paid a salary, allowances and other remuneration in accordance w
 
 [[START OF PAGE 41]]
 
-Regional Commissioners Act No.15 of 1984 Art.9
-
-Parliament Act No.15 of 1984 Art.12
-
-Authority of Parliament Act No.15 of 1984 Art.12 Act No.4 of 1992 Art.17 Act No.20
-
 from time to time by the President.
 
-61. -(1)   There shall be a Regional Commissioner for each region within the  United  Republic  who,  subject  to  subarticle  (3),  shall  be  a  leader  in  the Government of the United Republic.
+Regional Commissioners Act No.15 of 1984 Art.9
 
-(2)   Regional Commissioners in Mainland Tanzania shall be appointed by the President, after consultation with the Prime Minister.
+61.-(1) There shall be a Regional Commissioner for each region within the United Republic who, subject to subarticle (3), shall be a leader in the Government of the United Republic.
 
-(3)   Regional Commissioners in Tanzania Zanzibar shall be appointed by the President of Zanzibar,  after consultation with the President.
+(2) Regional Commissioners in Mainland Tanzania shall be appointed by the President, after consultation with the Prime Minister.
 
-(4)   Without prejudice to the provisions of subarticle (5), every Regional Commissioner shall have the duty to supervise the discharge of all the duties and functions of the Government of the United Republic in the region assigned to him and for that  purpose,  he  shall  discharge  all  duties  and  functions  specified  by  or under any written law as being functions of a Regional Commissioner, and shall exercise all such powers specified by any law enacted by Parliament.
+(3) Regional Commissioners in Tanzania Zanzibar shall be appointed by the President of Zanzibar, after consultation with the President.
 
-(5)      In  addition  to  his  duties  and  functions  specified  in  the  preceding provisions of this  Article,  a  Regional  Commissioner  for  any  region  in  Tanzania Zanzibar shall discharge the duties and functions of the Revolutionary Government  of  Zanzibar  which  shall  be  assigned  to  him  by  the  President  of Zanzibar and in accordance with the Constitution of Zanzibar, 1984, or any law enacted by the House of Representatives.
+(4) Without prejudice to the provisions of subarticle (5), every Regional Commissioner shall have the duty to supervise the discharge of all the duties and functions of the Government of the United Republic in the region assigned to him and for that purpose, he shall discharge all duties and functions specified by or under any written law as being functions of a Regional Commissioner, and shall exercise all such powers specified by any law enacted by Parliament.
+
+(5) In addition to his duties and functions specified in the preceding provisions of this Article, a Regional Commissioner for any region in Tanzania Zanzibar shall discharge the duties and functions of the Revolutionary Government of Zanzibar which shall be assigned to him by the President of Zanzibar and in accordance with the Constitution of Zanzibar, 1984, or any law enacted by the House of Representatives.
 
 ## CHAPTER THREE
 
@@ -1538,17 +1764,21 @@ from time to time by the President.
 
 ### PARLIAMENT
 
-62. -(1)     There shall be  a  Parliament of the Untied Republic which shall consist of two parts, that is to say, the President and the National Assembly.
+Parliament Act No.15 of 1984 Art.12
 
-(2)      The  National  Assembly  shall  consist  of  all  categories  of  members specified  in  Article  66  of  this  Constitution,  who  shall  all  be  designated  as Members of Parliament.
+62.-(1) There shall be a Parliament of the Untied Republic which shall consist of two parts, that is to say, the President and the National Assembly.
 
-(3)   Whenever any matter requires to be decided or done by both parts of Parliament in accordance with the provisions of this Constitution, or of any other law, then that matter shall not be taken to have been duly decided or done unless it is  decided  or  done  by  the  Members  of  Parliament  and  also  by  the  President  in accordance with their respective authority in relation to that matter.
+(2) The National Assembly shall consist of all categories of members specified in Article 66 of this Constitution, who shall all be designated as Members of Parliament.
 
-63. -(1)      The  President  as  one  part  of  Parliament  shall  exercise  all  the authority vested in him by this Constitution for that purpose.
+(3) Whenever any matter requires to be decided or done by both parts of Parliament in accordance with the provisions of this Constitution, or of any other law, then that matter shall not be taken to have been duly decided or done unless it is decided or done by the Members of Parliament and also by the President in accordance with their respective authority in relation to that matter.
 
-(2)      The  second  part  of  Parliament  shall  be  the  principal  organ  of  the United Republic which shall have the authority on behalf of the people to oversee and  advise  the  Government  of  the  United  Republic  and  all  its  organs  in  the discharge of their respective responsibilities in accordance with this Constitution.
+Authority of Parliament Act No.15 of 1984 Art.12 Act No.4 of 1992 Art.17 Act No.20
 
-(3)   For the purposes of performing its functions , the National Assembly may of 1992 Art.11
+63.-(1) The President as one part of Parliament shall exercise all the authority vested in him by this Constitution for that purpose.
+
+(2) The second part of Parliament shall be the principal organ of the United Republic which shall have the authority on behalf of the people to oversee and advise the Government of the United Republic and all its organs in the discharge of their respective responsibilities in accordance with this Constitution.
+
+(3) For the purposes of performing its functions, the National Assembly may -
 
 41
 
@@ -1556,11 +1786,9 @@ from time to time by the President.
 
 [[START OF PAGE 42]]
 
-Legislative power Act No.15 of 1984 Art.12
+of 1992 Art.11
 
-Life of Parliament
-
-(a) ask  any  question  to  any  Minister  concerning  public  affairs  in  the United Republic which are within his responsibility;
+(a) ask any question to any Minister concerning public affairs in the United Republic which are within his responsibility;
 
 (b) debate the performance of each Ministry during the annual budget session of the National Assembly;
 
@@ -1568,31 +1796,37 @@ Life of Parliament
 
 (d) enact law where implementation requires legislation; and
 
-(e) deliberate upon and ratify all treaties and agreements to which the United  Republic  is  a  party  and  the  provisions  of  which  require ratification.
+(e) deliberate upon and ratify all treaties and agreements to which the United Republic is a party and the provisions of which require ratification.
 
-64. -(1)      Legislative  power  in  relation  to  all  Union  Matters  and  also  in relation  to  all  other  matters  concerning  Mainland  Tanzania  is  hereby  vested  in Parliament.
+Legislative power Act No.15 of 1984 Art.12
 
-(2)   Legislative power in Tanzania Zanzibar over all matter which are not Union Matters is hereby vested in the House of Representatives.
+64.-(1) Legislative power in relation to all Union Matters and also in relation to all other matters concerning Mainland Tanzania is hereby vested in Parliament.
 
-(3)  Where any law enacted by the House of Representatives concerns any matter  in  Tanzania  Zanzibar  which  is  within  the  legislative  jurisdiction  of Parliament,  that  law  shall  be  null  and  void,  and  likewise  if  any  law  enacted  by Parliament concerns any matter which is within the legislative jurisdiction of the House of Representatives that law shall be null and void.
+(2) Legislative power in Tanzania Zanzibar over all matter which are not Union Matters is hereby vested in the House of Representatives.
 
-(4)   Any law enacted by Parliament concerning any matter shall not apply to Tanzania Zanzibar save in accordance with the following provisions:
+(3) Where any law enacted by the House of Representatives concerns any matter in Tanzania Zanzibar which is within the legislative jurisdiction of Parliament, that law shall be null and void, and likewise if any law enacted by Parliament concerns any matter which is within the legislative jurisdiction of the House of Representatives that law shall be null and void.
+
+(4) Any law enacted by Parliament concerning any matter shall not apply to Tanzania Zanzibar save in accordance with the following provisions:
 
 (a) such law shall have expressly stated that it shall apply to Mainland Tanzania as well as to Tanzania Zanzibar or it replaces, amends or repeals a law which is in operation in Tanzania Zanzibar;
 
-(b) such law replaces or amends or repeals a law which was previously in operation in  Mainland  Tanzania  and  also  in  operation  in Tanzania  Zanzibar  pursuant  to  the  Articles  of  the  Union  of Tanganyika and Zanzibar, or pursuant to any law which expressly stated that it shall apply to Mainland Tanzania as well as Tanzania Zanzibar; or
+(b) such law replaces or amends or repeals a law which was previously in operation in Mainland Tanzania and also in operation in Tanzania Zanzibar pursuant to the Articles of the Union of Tanganyika and Zanzibar, or pursuant to any law which expressly stated that it shall apply to Mainland Tanzania as well as Tanzania Zanzibar; or
 
-(c) such law relates to Union Matters; and whenever reference is made to the term 'Tanzania' in any law, it is hereby declared that such law  shall  apply  in  the  United  Republic  in  accordance  with  the interpretation contained in the provisions of this Article.
+(c) such law relates to Union Matters; and whenever reference is made to the term 'Tanzania' in any law, it is hereby declared that such law shall apply in the United Republic in accordance with the interpretation contained in the provisions of this Article.
 
-(5)   Without prejudice to the application of the Constitution of Zanzibar in accordance with  this  Constitution  concerning  all  matters  pertaining  to  Tanzania Zanzibar which are not Union Matters, this Constitution shall  have  the  force  of law in the whole of the United Republic, and in the event any other law conflicts with the provisions contained in this Constitution, the Constitution shall prevail and that other law, to the extent of the inconsistency with the Constitution, shall be void.
+(5) Without prejudice to the application of the Constitution of Zanzibar in accordance with this Constitution concerning all matters pertaining to Tanzania Zanzibar which are not Union Matters, this Constitution shall have the force of law in the whole of the United Republic, and in the event any other law conflicts with the provisions contained in this Constitution, the Constitution shall prevail and that other law, to the extent of the inconsistency with the Constitution, shall be void.
 
-65. -(1)      Subject  to  the  other  provisions  of  this  Constitution,  the  life  of Act No.15 Of 1984 Art.12
+Life of Parliament
+
+65.-(1) Subject to the other provisions of this Constitution, the life of
 
 42
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+Act No.15 Of 1984 Art.12
 
 each Parliament shall be five years.
 
@@ -1603,20 +1837,33 @@ each Parliament shall be five years.
 
 #### Members of the National Assembly
 
-Members of Parliament Act No.15 of 1984 Art.13 Act No.4 of 1992 Art.18; Act No.12 of 1995 | 66 .-(1) Subject to the other provisions of this Article, there shall be the following categories of Members of Parliament, that is to say:- (a) members elected to represent constituencies; (b) women members being not less than thirty percentum of all the members mentioned in paragraphs (a), (c), (d), (e) and (f) with qualifications mentioned in Article 67 elected by the political parties in accordance with Article 78, on the basis of proportion of votes;
---- | ---
-Art.9 Act | (c) five members elected by the House of Representatives from among
-No.3 of 2000 | its members;
-Art. 11 Act No.1 of 2005 Art. 13 | (d) the Attorney General; (e) not more than ten members appointed by the President from amongst persons with qualifications specified under paragraphs (a) and (c) of subarticle (1) of Article 67 and, at least five members amongst them shall be women; and
-G.N.No.150 of 2005 | (f) the Speaker, if he is not elected from amongst the members.
+Members of Parliament
+Act No.15 of 1984 Art.13 Act No.4 of 1992 Art.18; Act No.12 of 1995 Art.9 Act No.3 of 2000 Art. 11 Act No.1 of 2005 Art. 13 G.N.No.150 of 2005
 
-(2)  The  President and the Vice-President shall each not be a Member of Parliament.
+66.-(1) Subject to the other provisions of this Article, there shall be the following categories of Members of Parliament, that is to say:-
 
-(3)   Where a Regional Commissioner is elected a Member of Parliament representing  a  constituency  or  where  a  Member  of  Parliament  representing  a constituency is appointed a Regional Commissioner, the National Assembly shall be deemed to consist of the requisite number of members and its proceedings shall be valid notwithstanding that the ordinary total number of members in terms of this  Article  shall  have  been  reduced  by  reason  of  such  election  of  the  Regional Commissioner or such appointment of a constituency member.
+(a) members elected to represent constituencies;
 
-Qualifications for Member of Parliament | 67. -(1) Subject to the provisions contained in this Article, any person shall be qualified for election or appointment as a Member of Parliament if he -
---- | ---
-Act No.15 of 1984 Art.13 Act No.4 | (a) is a citizen of the United Republic who has attained the age of twenty-one years and who can read and write in Kiswahili or English; and
+(b) women members being not less than thirty percentum of all the members mentioned in paragraphs (a), (c), (d), (e) and (f) with qualifications mentioned in Article 67 elected by the political parties in accordance with Article 78, on the basis of proportion of votes;
+
+(c) five members elected by the House of Representatives from among its members;
+
+(d) the Attorney General;
+
+(e) not more than ten members appointed by the President from amongst persons with qualifications specified under paragraphs (a) and (c) of subarticle (1) of Article 67 and, at least five members amongst them shall be women; and
+
+(f) the Speaker, if he is not elected from amongst the members.
+
+(2) The President and the Vice-President shall each not be a Member of Parliament.
+
+(3) Where a Regional Commissioner is elected a Member of Parliament representing a constituency or where a Member of Parliament representing a constituency is appointed a Regional Commissioner, the National Assembly shall be deemed to consist of the requisite number of members and its proceedings shall be valid notwithstanding that the ordinary total number of members in terms of this Article shall have been reduced by reason of such election of the Regional Commissioner or such appointment of a constituency member.
+
+Qualifications for Member of Parliament
+Act No.15 of 1984 Art.13 Act No.4
+
+67.-(1) Subject to the provisions contained in this Article, any person shall be qualified for election or appointment as a Member of Parliament if he -
+
+(a) is a citizen of the United Republic who has attained the age of twenty-one years and who can read and write in Kiswahili or English; and
 
 (b) is a member and a candidate proposed by a political party.
 
@@ -1650,7 +1897,7 @@ of 1992 Art.19; Act No.34 of 1994 Art.13 Act No.12 of 1995 Art.10 Act No.3 of 20
 
 (4) Parliament  may  enact  a  law  making  provisions  disqualifying  a person  from  being  elected  Member  of  Parliament  representing  a  constituency  if such person holds an office whose  functions involve the conduct of, or supervision  over,  the  election  of  Members  of  Parliament  or  the  registration  of voters  for  the  elections  of  Members  of  Parliament;  save that  such  law  shall  not make  provision disqualifying the Speaker from being elected  Member  of Parliament representing a constituency nor make provisions which cause a person elected Speaker to vacate that office of Speaker or his ordinary seat as Member of Parliament.
 
-- Parliament may enact a law for the purpose of making provisions for
+(5) Parliament may enact a law for the purpose of making provisions for
 
 44
 
@@ -1658,29 +1905,29 @@ of 1992 Art.19; Act No.34 of 1994 Art.13 Act No.12 of 1995 Art.10 Act No.3 of 20
 
 [[START OF PAGE 45]]
 
-Oath of Members of Parliament Act No.15 of 1984, Art.13
+the disqualification of a person from being elected a Member of Parliament representing a constituency for any period, to be specified by Parliament (save that such period shall not exceed five years) if such person shall be convicted by a court for any type of offences, in connection with the election of Members of Parliament, as specified in that law.
 
-Formal Members of the  disqualification  of  a  person  from  being  elected a Member  of  Parliament representing  a  constituency  for  any  period,  to  be  specified  by  Parliament  (save that such period shall not exceed five years) if such person shall be convicted by a court  for  any  type  of  offences,  in  connection  with  the  election  of  Members  of Parliament, as specified in that law.
+(6) For the purposes of giving opportunity to appeal according to law to any person who has been formally certified to be of unsound mind or convicted and sentenced to death or imprisonment, or convicted for any offence specified under the law in terms of subarticle (5) of this Article, Parliament may enact law providing that such judgment being appealed against by that person shall have no effect for the purposes of the provisions of subarticle (2) or (5) of this Article until the expiration of the period to be specified in such legislation.
 
-(6)   For the purposes of giving opportunity to appeal according to law to any person who has been formally certified to be of unsound mind or convicted and sentenced to death  or imprisonment, or  convicted for any offence specified under the law in terms of subarticle (5) of this Article, Parliament may enact law providing that such judgment being appealed against by that person shall have no effect for the purposes of the provisions of subarticle (2) or (5) of this Article until the expiration of the period to be specified in such legislation.
-
-(7)      The  following  rules  shall  apply  for  the  purposes  of  interpreting paragraphs (c), (d) and (e) of subarticle (2) of this Article, that is to say-
+(7) The following rules shall apply for the purposes of interpreting paragraphs (c), (d) and (e) of subarticle (2) of this Article, that is to say-
 
 (a) where a person has been awarded two or more prison sentences to run consecutively, such sentences shall be regarded to be separate provided that each of the sentences does not exceed six months; but if the period specified in any of the sentences exceeds six months, such sentences shall be regarded as one sentence; and
 
-(b) if a person is sentenced to imprisonment where he could otherwise have been sentenced to a fine, or where the sentence of imprisonment  is  imposed  for  failure  to  pay  a  fine  ordered,  then such period of imprisonment shall not be taken into account.
+(b) if a person is sentenced to imprisonment where he could otherwise have been sentenced to a fine, or where the sentence of imprisonment is imposed for failure to pay a fine ordered, then such period of imprisonment shall not be taken into account.
 
-(8)      In  paragraph  (f)  of  subarticle  (2)  of  this  Article  'Government contract'  means  any  contractual  agreement  in  which  one  of  the  parties  is  the Government of the United Republic or the Revolutionary Government of Zanzibar or any department of that Government or any officer of the Government who has taken part on behalf of the Government.
+(8) In paragraph (f) of subarticle (2) of this Article 'Government contract' means any contractual agreement in which one of the parties is the Government of the United Republic or the Revolutionary Government of Zanzibar or any department of that Government or any officer of the Government who has taken part on behalf of the Government.
 
 (9) [Subarticles (9), (10), (11) and (12) are repealed by Act No.4 of 1992 Art.19 (d)].
 
-(10)   For the purposes of interpretation of the qualifications for election contained in the following Articles whenever it is stated in this Constitution that the implementation of any matter requires a person who has the qualification for election, or a person who has not been disqualified from election, then unless the context requires otherwise, it shall be understood that the qualifications concerned are  those  which  enable  a  person  to  be  elected  a  Member  representing  a constituency as provided in subarticle (1) of this Article.
+(10) For the purposes of interpretation of the qualifications for election contained in the following Articles whenever it is stated in this Constitution that the implementation of any matter requires a person who has the qualification for election, or a person who has not been disqualified from election, then unless the context requires otherwise, it shall be understood that the qualifications concerned are those which enable a person to be elected a Member representing a constituency as provided in subarticle (1) of this Article.
 
-68. Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before commencing to take part  in  the  business  of  the  National  Assembly  save  that  he  may  take  part  in  the election of Speaker before taking that oath.
+Oath of Members of Parliament Act No.15 of 1984, Art.13
 
-69. -(1) Every Member  of  Parliament shall be required before the
+68. Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before commencing to take part in the business of the National Assembly save that he may take part in the election of Speaker before taking that oath.
 
-declaration by expiration of thirty days since taking oath as Member of Parliament to submit to Parliament concerning ethics of Leaders Act No.12 of 1995 Art.11
+Formal declaration by Members of Parliament concerning ethics of Leaders Act No.12 of 1995 Art.11
+
+69.-(1) Every Member of Parliament shall be required before the expiration of thirty days since taking oath as Member of Parliament to submit to
 
 45
 
@@ -1688,23 +1935,23 @@ declaration by expiration of thirty days since taking oath as Member of Parliame
 
 [[START OF PAGE 46]]
 
+the Speaker two copies of a formal declaration that he has not lost the qualifications for election in terms of paragraph (d) of subarticle (2) of Article 67.
+
+(2) The formal declaration required to be submitted to the Speaker shall be made on a special form prescribed in accordance with a law enacted by Parliament.
+
+(3) The Speaker shall transmit to the Ethics Commissioner a copy of every formal declaration submitted to him in accordance with the provisions of this Article.
+
+(4) In this Article and in Articles 70 and 84 'the Ethics Commissioner' means the Commissioner appointed to head the Ethics Secretariat referred to in Article 132 of this Constitution.
+
 Members to submit statement of property Act No.12 of 1995 Art.12
+
+70.-(1) Every Member of Parliament shall be required to submit to the Speaker two copies of a formal statement regarding his property and the property of his spouse. The statement shall be made on a special form prescribed by a law enacted by Parliament and shall be submitted from time to time as shall be directed by such law.
+
+(2) The Speaker shall transmit to the Ethics Commissioner, a copy of every formal statement submitted to him in accordance with the provisions of this Article.
 
 Tenure of office of Member of Parliament Act No.15 of 1984 Art.13 Act No.4 of 1992, Art.22 Act No.34 of 1994, Art.14
 
-the Speaker  two  copies  of  a  formal  declaration that he has not lost the qualifications for election in terms of paragraph (d) of subarticle (2) of Article 67.
-
-(2)   The formal declaration required to be submitted to the Speaker shall be  made  on  a  special  form  prescribed  in  accordance  with  a  law  enacted  by Parliament.
-
-(3)      The  Speaker  shall  transmit  to  the  Ethics  Commissioner  a  copy  of every  formal  declaration  submitted  to  him  in  accordance  with  the  provisions  of this Article.
-
-(4)   In this Article and in Articles 70 and 84 'the Ethics Commissioner' means the Commissioner appointed to head the Ethics Secretariat referred to in Article 132 of this Constitution.
-
-70. -(1)      Every  Member of Parliament shall be required to submit to the Speaker two copies of a formal statement regarding his property and the property of his spouse.  The statement shall be made on a special form prescribed by a law enacted  by  Parliament  and  shall  be  submitted  from  time  to  time  as  shall  be directed by such law.
-
-(2)      The  Speaker  shall  transmit  to  the  Ethics  Commissioner,  a  copy  of every formal statement submitted to him in accordance with the provisions of this Article.
-
-71. -(1)   A Member of Parliament shall cease to be Member of Parliament and shall vacate his seat in the National Assembly upon the occurrence of any of the following matters:
+71.-(1) A Member of Parliament shall cease to be Member of Parliament and shall vacate his seat in the National Assembly upon the occurrence of any of the following matters:
 
 (a) where  anything  happens  which,  had  he  not  been  a  Member  of Parliament,  would  have  disqualified  him  from  election  or  would make him lose the qualifications for election or  would disqualify him from election or appointment in accordance with the provisions of this Constitution;
 
@@ -1716,11 +1963,11 @@ the Speaker  two  copies  of  a  formal  declaration that he has not lost the qu
 
 (e) where a Member of Parliament ceases to be a member of the party to  which  he  belonged  when  he  was  elected  or  appointed  to  be  a Member of Parliament;
 
-(f) where  a  Member  of  Parliament  is  elected  or  appointed  VicePresident; or
+(f) where a Member of Parliament is elected or appointed Vice-President; or
 
 (g) in the case of a Member of Parliament who is required to submit a formal statement of property in accordance with the provisions of Article 70, if he fails to make such formal statement in accordance with the provisions of that Article within the period prescribed for that purpose by a law enacted by Parliament,
 
-but where a Member of Parliament does not cease to be a Member of Parliament Cessation of employment of civil servants on contesting for election Act No.4 of 1992 Art.23 Act No.12 of 1995
+but where a Member of Parliament does not cease to be a Member of Parliament
 
 46
 
@@ -1728,23 +1975,27 @@ but where a Member of Parliament does not cease to be a Member of Parliament Ces
 
 [[START OF PAGE 47]]
 
-Art.14 Terms of service of Members of Parliament Act No.15 of 1984 Art.13 Electoral Commission Act No.15 of 1984 Art.13 Act No.4 of 1992 Art.24 Act No.7 of 1993 Art.2; Act No.3 of 2000 Art.14 Act No.1 of 2005 Art.14
-
 on account of any of those matters mentioned and if he does not sooner resign or die, then he shall continue to hold office as Member of Parliament until the next general election.
 
-(2)      Parliament  may  enact  a  law  for  the  purpose  of  making  provisions enabling a Member of Parliament to appeal according to law, against a decision which confirms that he is a person of unsound mind or against a sentence of death or imprisonment or against conviction for an offence of the type referred to in the provisions of subarticle (5)  of  Article  67  of  this  Constitution,  and  that  law  may provide that the decision appealed against by the Member of Parliament shall have no effect in law until the expiration of the period prescribed in that law.
+(2) Parliament may enact a law for the purpose of making provisions enabling a Member of Parliament to appeal according to law, against a decision which confirms that he is a person of unsound mind or against a sentence of death or imprisonment or against conviction for an offence of the type referred to in the provisions of subarticle (5) of Article 67 of this Constitution, and that law may provide that the decision appealed against by the Member of Parliament shall have no effect in law until the expiration of the period prescribed in that law.
 
-72. Where  any  person  holding  office  in  the  service  of  the  Government which office is of the type mentioned in Article 67(2)(g) decides-
+Cessation of employment of civil servants on contesting for election Act No.4 of 1992 Art.23 Act No.12 of 1995 Art.14
+
+72. Where any person holding office in the service of the Government which office is of the type mentioned in Article 67(2)(g) decides-
 
 (a) to contest for election to the office of President or any other office under this Constitution; or
 
-(b) to contest for leadership at any level in a political party contrary to the terms of employment, the employment of such person shall be considered  to  have  ceased  from  the  date  of  his  becoming  a candidate or of contesting for leadership in the political party.
+(b) to contest for leadership at any level in a political party contrary to the terms of employment, the employment of such person shall be considered to have ceased from the date of his becoming a candidate or of contesting for leadership in the political party.
 
-73. All  Members  of  Parliament  of  all  categories  shall  hold  office  in accordance with this Constitution, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.
+Terms of service of Members of Parliament Act No.15 of 1984 Art.13
+
+73. All Members of Parliament of all categories shall hold office in accordance with this Constitution, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.
 
 #### Electoral Commission
 
-74 .-(1)   There shall be an Electoral Commission of the United Republic which shall consist of the following members to be appointed by the President:
+Electoral Commission Act No.15 of 1984 Art.13 Act No.4 of 1992 Art.24 Act No.7 of 1993 Art.2; Act No.3 of 2000 Art.14 Act No.1 of 2005 Art.14
+
+74.-(1) There shall be an Electoral Commission of the United Republic which shall consist of the following members to be appointed by the President:
 
 (a) a Chairman who shall be a Judge of the High Court or a Justice of the Court of Appeal, who shall be a person with qualifications to be an  advocate  and  has  held  those  qualifications  for  a  period  of  not less than fifteen years;
 
@@ -1778,7 +2029,7 @@ on account of any of those matters mentioned and if he does not sooner resign or
 
 (5)      The  President  may  remove  a  member  of  the  Electoral  Commission from office only for failing to discharge his functions either due to illness or any other    reason  or  due  to  misconduct  or  loss  of  the  qualifications  for  being  a member.
 
-- The responsibilities of the Electoral Commission shall be:
+(6) The responsibilities of the Electoral Commission shall be:
 
 (a) to supervise and co-ordinate the registration of voters in Presidential and Parliamentary elections in the United Republic;
 
@@ -1796,9 +2047,9 @@ on account of any of those matters mentioned and if he does not sooner resign or
 
 (9) The Electoral Commission may discharge its functions notwithstanding that there is a vacancy among its membership or that one of its members  is  absent,  provided  that  every  decision  of  the  Commission  must  be supported by a majority of all the members of the Commission.
 
-(10)      Parliament  may  enact  a  law  providing  for  the  procedure  of appointing delegates to supervise elections of constituency Members of Parliament  and,  subject  to  the  provisions  of  any  law  or  the  directions  of  the Electoral C ommission, the powers of the Electoral Commission to supervise the elections may be exercised by such delegates.
+(10) Parliament may enact a law providing for the procedure of appointing delegates to supervise elections of constituency Members of Parliament and, subject to the provisions of any law or the directions of the Electoral Commission, the powers of the Electoral Commission to supervise the elections may be exercised by such delegates.
 
-(11)  In discharging its functions in accordance with the provisions of this Constituencies Act No.4 of 1992 Art.24
+(11) In discharging its functions in accordance with the provisions of this
 
 48
 
@@ -1828,6 +2079,8 @@ Constitution, the Electoral Commission shall not be obliged to comply with order
 
 #### Constituencies
 
+Act No.4 of 1992 Art.24
+
 75. -(1)   Subject to the other provisions of this Article, the United Republic shall  be  demarcated  into  constituencies  of  such  number  and  in  such  manner  as shall  be  determined  by  the  Electoral  Commission  after  obtaining  the  consent  of the President.
 
 (2)  Subject to any relevant law, the Electoral Commission shall have the power to demarcate the boundaries of constituencies after obtaining the consent of the President.
@@ -1836,7 +2089,7 @@ Constitution, the Electoral Commission shall not be obliged to comply with order
 
 (4)   Subject to the provisions of this Constitution and any law concerning the demarcation of the country into constituencies, the Electoral Commission may, from  time to time and at least after every ten years , review the demarcation of the United Republic into constituencies and may alter the constituencies as a result of that review or as a result of a census conducted in the United Republic.
 
-(5)      If  after  a  review  of  the  demarcation  of  the  United  Republic  into constituencies  alterations  are  made  in  the  constituencies,  or  the  number  of  the Members of Parliament representing constituencies or in the number of constituencies  or  the  number  of  Members  of  Parliament,  then  the  resultant alteration in the number of Members of Parliament representing those constituencies shall take effect when Parliament is dissolved again following the occurrence of the alteration in the number of constituencies or in the number of Elections in constituencies Act No.15 of 1984 Art.13 Act No.3 of 2000 Art.15
+(5) If after a review of the demarcation of the United Republic into constituencies alterations are made in the constituencies, or the number of the Members of Parliament representing constituencies or in the number of constituencies or the number of Members of Parliament, then the resultant alteration in the number of Members of Parliament representing those constituencies shall take effect when Parliament is dissolved again following the occurrence of the alteration in the number of constituencies or in the number of
 
 49
 
@@ -1844,35 +2097,37 @@ Constitution, the Electoral Commission shall not be obliged to comply with order
 
 [[START OF PAGE 50]]
 
-Procedure for election Members of Parliament representing Constituencies Act No.4 of 1992 Art.25
-
-Procedure for election of women Members of Parliament Act No.4 of 1992 Art.26 Act No.3 of 2000
-
 Members of Parliament representing constituencies.
 
-(6)      Notwithstanding  the  other  provisions  of  this  Article,  no  court  shall have  power  to  inquire  into  anything  done  by  the  Electoral  Commission  in  its discharge of the function of demarcating the United Republic into constituencies.
+(6) Notwithstanding the other provisions of this Article, no court shall have power to inquire into anything done by the Electoral Commission in its discharge of the function of demarcating the United Republic into constituencies.
 
 #### Election and Appointment of Members of Parliament
 
-76. -(1)      After  every  dissolution  of  Parliament  there  shall  be  held  an election of a Member of Parliament in every constituency.
+Elections in constituencies Act No.15 of 1984 Art.13 Act No.3 of 2000 Art.15
 
-(2)   Likewise there shall be held an election of a Member of Parliament in a constituency whenever the seat of any Member of Parliament representing that constituency  falls  vacant  for  any  reason  not  connected  with  the  dissolution  of Parliament.
+76.-(1) After every dissolution of Parliament there shall be held an election of a Member of Parliament in every constituency.
 
-(3)  Notwithstanding the preceding provisions of this Article, it is hereby declared that where the date for dissolution of Parliament has been proclaimed or is known on account of the events specified in subarticle (3) of Article 90, then no such election shall take place during the whole period of six months immediately preceding the date of the dissolution of Parliament.
+(2) Likewise there shall be held an election of a Member of Parliament in a constituency whenever the seat of any Member of Parliament representing that constituency falls vacant for any reason not connected with the dissolution of Parliament.
 
-77. -(1)      Members  of  Parliament  representing  constituencies  shall  be elected by the people in accordance with the provisions of this Constitution and also the provisions of a law enacted by Parliament pursuant to this Constitution to regulate the election of Members of Parliament representing constituencies.
+(3) Notwithstanding the preceding provisions of this Article, it is hereby declared that where the date for dissolution of Parliament has been proclaimed or is known on account of the events specified in subarticle (3) of Article 90, then no such election shall take place during the whole period of six months immediately preceding the date of the dissolution of Parliament.
 
-(2)      Save  where  the  Electoral  Commission  in  accordance  with  the provisions  of  this  Constitution  or  of  a  law  enacted  by  Parliament  in  that  behalf directs  otherwise,  there  shall  be  elected  only  one  Member  of  Parliament  in  a constituency.
+Procedure for election Members of Parliament representing Constituencies Act No.4 of 1992 Art.25
 
-(3)     Candidates for election to a constituency shall be required to fulfill the following conditions:
+77.-(1) Members of Parliament representing constituencies shall be elected by the people in accordance with the provisions of this Constitution and also the provisions of a law enacted by Parliament pursuant to this Constitution to regulate the election of Members of Parliament representing constituencies.
+
+(2) Save where the Electoral Commission in accordance with the provisions of this Constitution or of a law enacted by Parliament in that behalf directs otherwise, there shall be elected only one Member of Parliament in a constituency.
+
+(3) Candidates for election to a constituency shall be required to fulfill the following conditions:
 
 (a) they shall be proposed, one each, by a political party taking part in the election in that constituency; and
 
-(b) they shall have submitted their names to the Electoral Commission in  accordance  with  the  procedure  laid  down  by  a  law  enacted  by Parliament or procedures prescribed by the Electoral Commission in accordance with law.
+(b) they shall have submitted their names to the Electoral Commission in accordance with the procedure laid down by a law enacted by Parliament or procedures prescribed by the Electoral Commission in accordance with law.
 
-78 .-(1)  For the purposes of the election of women Members of Parliament mentioned  in  Article  66(1)  (b),  political  parties  which  took  part  in  the  general election  in  accordance  with  the  procedure  laid  down  and  obtained  at  least  five percentum of the total valid voters for Parliamentary election, shall propose to the Electoral Commission the names of women on the basis of the proportion of votes obtained by each party in the Parliamentary election.
+Procedure for election of women Members of Parliament Act No.4 of 1992 Art.26 Act No.3 of 2000 Art.16 Act No.1 of 2005 Art.15 G.N.No.133 of 2001
 
-(2)   Notwithstanding the provisions of subarticle (1), the following votes shall  be  counted  as  valid  votes  for  the  unopposed  Member  of  Parliament  in  the constituent - Art.16 Act No.1 of 2005 Art.15 G.N.No.133 of 2001
+78.-(1) For the purposes of the election of women Members of Parliament mentioned in Article 66(1) (b), political parties which took part in the general election in accordance with the procedure laid down and obtained at least five percentum of the total valid voters for Parliamentary election, shall propose to the Electoral Commission the names of women on the basis of the proportion of votes obtained by each party in the Parliamentary election.
+
+(2) Notwithstanding the provisions of subarticle (1), the following votes shall be counted as valid votes for the unopposed Member of Parliament in the constituent -
 
 50
 
@@ -1880,35 +2135,35 @@ Members of Parliament representing constituencies.
 
 [[START OF PAGE 51]]
 
-Procedure for election of Members by House of Representatives Act No.15 of 1984 Art.13
-
-Procedure for proposing women candidates Act No.4 of 1992, Art.29 Determination membership of
-
-of the validity of a person's Parliament Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.13 Act No.14 of 1990 Act No.4 of 1992
-
-(a) where  a  political  party  has  nominated  a  Presidential  candidate, presidential votes cast in the constituency for a Presidential candidate from that political party; or
+(a) where a political party has nominated a Presidential candidate, presidential votes cast in the constituency for a Presidential candidate from that political party; or
 
 (b) where a political party has not nominated a presidential candidate, fifty one percentum of the votes of the total voters registered in the respective constituency.
 
-(3)     The names of the persons proposed to the Electoral Commission in accordance with subarticle (1) shall be declared to be the results of the election after the Commission is satisfied that the relevant provisions of the Constitution and of other legislation have been complied with.
+(3) The names of the persons proposed to the Electoral Commission in accordance with subarticle (1) shall be declared to be the results of the election after the Commission is satisfied that the relevant provisions of the Constitution and of other legislation have been complied with.
 
-(4)      The  list  of  names  for  women  candidates  submitted  to  the  Electoral Commission  by  each  political  party  for  general  election  shall  be  the  list  to  be applied by the Electoral Commission after consultation of the party concerned, for purpose  of  filling  any  vacancy  of  Members  of  Parliament  of  this  category whenever the vacancy occurs during the life of Parliament.
+(4) The list of names for women candidates submitted to the Electoral Commission by each political party for general election shall be the list to be applied by the Electoral Commission after consultation of the party concerned, for purpose of filling any vacancy of Members of Parliament of this category whenever the vacancy occurs during the life of Parliament.
+
+Procedure for election of Members by House of Representatives Act No.15 of 1984 Art.13
 
 79. The House of Representatives shall prescribe the procedures which it shall follow for the purposes of the election of Members of Parliament mentioned in Article 66(1) (c) of this Constitution.
 
 80. [Repealed by Act No.4 of 1992 Article 27].
 
-81. Subject  to  the  other  provisions  of  this  Constitution,  the  Electoral Commission may make provisions specifying the procedure to be followed by the political parties for the purposes of electing and proposing the names of the kind of Members of Parliament provided for under Article 66(1)(b).
+Procedure for proposing women candidates Act No.4 of 1992, Art.29
+
+81. Subject to the other provisions of this Constitution, the Electoral Commission may make provisions specifying the procedure to be followed by the political parties for the purposes of electing and proposing the names of the kind of Members of Parliament provided for under Article 66(1)(b).
 
 82. [Repealed by Act No.4 of 1992 Article 29].
 
-83. -(1)      Every  proceeding  for  the  purposes  of  determining  the  question whether -
+Determination of the validity of a person’s membership of Parliament Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.13 Act No.14 of 1990 Act No.4 of 1992
 
-(a) the  election  or  appointment  of  any  person  to  be  Member  of Parliament was valid or not; or
+83.-(1) Every proceeding for the purposes of determining the question whether –
 
-(b) a Member of Parliament has ceased to be a Member of Parliament and  his  seat  in  the  National  Assembly  is  vacant,  or  not,  shall, subject  to  the  provisions  of  subarticle  (2)  of  this  Article,  first  be instituted and heard in the High Court of the United Republic.
+(a) the election or appointment of any person to be Member of Parliament was valid or not; or
 
-(2)   Where the Electoral Commission, in the discharge of its functions in accordance with the provisions of Article 41(3) of this Constitution has declared any Member of Parliament to have been elected President, then no court or any other  body  shall  inquire  further  into  any  question  concerning  the  seat  of  that Member of Parliament being vacant.
+(b) a Member of Parliament has ceased to be a Member of Parliament and his seat in the National Assembly is vacant, or not, shall, subject to the provisions of subarticle (2) of this Article, first be instituted and heard in the High Court of the United Republic.
+
+(2) Where the Electoral Commission, in the discharge of its functions in accordance with the provisions of Article 41(3) of this Constitution has declared any Member of Parliament to have been elected President, then no court or any other body shall inquire further into any question concerning the seat of that Member of Parliament being vacant.
 
 51
 
@@ -1920,7 +2175,7 @@ Art.30
 
 Speaker and his functions Act No.15 of 1984 Art.14 Act No.4 of 1992 Art.31 Act No.12 of 1995 Art.15
 
-- Parliament may enact legislation providing for the following matters:
+(3) Parliament may enact legislation providing for the following matters:
 
 (a) persons who may institute proceedings in the High Court seeking for determination of any question in accordance with the provisions of this Article;
 
@@ -2008,7 +2263,7 @@ Clerk of the National Assembly Act No.15 of 1984 Art.14
 
 The Secretariat of the National Assembly Act No.15 of 1984 Art.14
 
-Standing Orders of the National have disqualified  him  from  election  or  would  make  him  lose  the qualifications for being elected Deputy Speaker; or
+have disqualified him from election or would make him lose the qualifications for being elected Deputy Speaker; or
 
 (c) if  that  person is removed from the office of Deputy Speaker by a resolution of the National Assembly.
 
@@ -2032,7 +2287,9 @@ Standing Orders of the National have disqualified  him  from  election  or  woul
 
 #### Procedure in the National Assembly
 
-89. -(1)      Subject  to  the  provisions  of  this  Constitution,  the  National Assembly may  make Standing Orders for the purpose of prescribing procedure for the conduct of its business.
+Standing Orders of the National
+
+89.-(1) Subject to the provisions of this Constitution, the National Assembly may make Standing Orders for the purpose of prescribing procedure for the conduct of its business.
 
 54
 
@@ -2070,12 +2327,43 @@ Summoning and dissolution of Parliament Act No.15 of 1984 Art.14; Act No.20 of 1
 
 [[START OF PAGE 56]]
 
-President may address Parliament Act No.15 of 1984 Art.14 | 91. -(1) The President shall address the National Assembly at its first meeting and inaugurate it. (2) Subject to the provisions of subarticle (1), the President may, at any time, address the National Assembly or send to the House a communication which shall be read by a Minister.
---- | ---
-Meetings of the National Assembly Act No.15 of 1984 Art.14 G.N.No.133 of 2001 | 92. -(1) The National Assembly shall hold its meetings at the place where it is customary to hold such meetings or at any other place in the United Republic as the President may designate in that behalf. (2) The first meeting of the National Assembly in the life of Parliament shall commence on the day for which National Assembly is summoned to meet, and every subsequent meeting shall commence on such date as may be specified by the National Assembly or on any day that shall be appointed in accordance with the Standing Orders of the National Assembly. (3) The President may at any time summon a meeting of the National Assembly.
-Presiding at sittings of the National Assembly Act No.15 of 1984 Art.14 | 93. Every sitting of the National Assembly shall be presided over by any one of the following persons, that is to say - (a) the Speaker; (b) if the Speaker is absent, the Deputy Speaker; or (c) if both the Speaker and the Deputy Speaker are absent, any Member of Parliament who has been elected for that purpose, but a Minister or a Deputy Minister or a person holding any other type of office specified by any law enacted by Parliament for the purpose of this Article shall not be elected under the provisions of this paragraph.
-Quorum at the sittings of the National Assembly Act No.15 of 1984 Art.14; Act No.7 Of 1994 Art. 8(i),(k) | 94. -(1) The quorum at every sitting of the National Assembly shall be half of all the Members of Parliament. (2) Except where it is provided otherwise in this Constitution, every question proposed for decision in the National Assembly shall be determined by a majority of the votes of the Members of Parliament present and voting. (3) The Speaker, Deputy Speaker or any other person presiding over the sitting of the National Assembly shall not have a deliberative vote but shall have a casting vote in the event of an equality of votes. (4) The Standing Orders of the National Assembly may provide that any Member of Parliament who votes on any matter in which he has a personal interest shall be deemed not to have voted.
-Vacant seats in the National Assembly Act No.15 of 1984 | 95. The National Assembly may conduct business during its sittings notwithstanding any vacant seat in the National Assembly ( whether the seat became vacant since or after the first meeting following the General Elections ) and if in such business any person who is not entitled takes part or if during that
+President may address Parliament Act No.15 of 1984 Art.14
+
+91.-(1) The President shall address the National Assembly at its first meeting and inaugurate it.
+
+(2) Subject to the provisions of subarticle (1), the President may, at any time, address the National Assembly or send to the House a communication which shall be read by a Minister.
+
+Meetings of the National Assembly Act No.15 of 1984 Art.14 G.N.No.133 of 2001
+
+92.-(1) The National Assembly shall hold its meetings at the place where it is customary to hold such meetings or at any other place in the United Republic as the President may designate in that behalf.
+
+(2) The first meeting of the National Assembly in the life of Parliament shall commence on the day for which National Assembly is summoned to meet, and every subsequent meeting shall commence on such date as may be specified by the National Assembly or on any day that shall be appointed in accordance with the Standing Orders of the National Assembly.
+
+(3) The President may at any time summon a meeting of the National Assembly.
+
+Presiding at sittings of the National Assembly Act No.15 of 1984 Art.14
+
+93. Every sitting of the National Assembly shall be presided over by any one of the following persons, that is to say -
+
+(a) the Speaker;
+
+(b) if the Speaker is absent, the Deputy Speaker; or
+
+(c) if both the Speaker and the Deputy Speaker are absent, any Member of Parliament who has been elected for that purpose, but a Minister or a Deputy Minister or a person holding any other type of office specified by any law enacted by Parliament for the purpose of this Article shall not be elected under the provisions of this paragraph.
+
+Quorum at the sittings of the National Assembly Act No.15 of 1984 Art.14; Act No.7 of 1994 Art.8(i), (k)
+
+94.-(1) The quorum at every sitting of the National Assembly shall be half of all the Members of Parliament.
+
+(2) Except where it is provided otherwise in this Constitution, every question proposed for decision in the National Assembly shall be determined by a majority of the votes of the Members of Parliament present and voting.
+
+(3) The Speaker, Deputy Speaker or any other person presiding over the sitting of the National Assembly shall not have a deliberative vote but shall have a casting vote in the event of an equality of votes.
+
+(4) The Standing Orders of the National Assembly may provide that any Member of Parliament who votes on any matter in which he has a personal interest shall be deemed not to have voted.
+
+Vacant seats in the National Assembly Act No.15 of 1984
+
+95. The National Assembly may conduct business during its sittings notwithstanding any vacant seat in the National Assembly (whether the seat became vacant since or after the first meeting following the General Elections) and if in such business any person who is not entitled takes part or if during that
 
 56
 
@@ -2083,32 +2371,35 @@ Vacant seats in the National Assembly Act No.15 of 1984 | 95. The National Assem
 
 [[START OF PAGE 57]]
 
-- Art.14 business  any  person  who  is  not  entitled  is  present,  then  the  participation  or
+Art.14
 
-presence of that person shall not invalidate the business.
-
-96. -(1) The National Assembly may establish various Standing Committees as it may deem appropriate for the better discharge of its functions.
-
-(2)   The Standing Orders of the National Assembly may provide for the composition and functions of the Standing Committees established pursuant to the provisions of this Article.
-
-#### Legislative Procedure
-
-97. -(1)      Subject  to  the  provisions  contained  in  this  Constitution,  the Parliament shall exercise its legislative power through the process of  debating and passing Bills which eventually shall have to be assented to by the President, and a Bill  shall  not  become  law  unless  it  is  so  passed  by  the  National  Assembly  and assented to by the President in accordance with the provisions of this Article.
-
-(2)   After a Bill is presented to the President for his assent, the President may either assent to the Bill or withhold his assent, and in the event the President withholds his assent to a Bill, he shall return it to the National Assembly together with a statement of his reasons for withholding his assent to the Bill.
-
-(3)    After  a  Bill  is  returned  to  the  National  Assembly  pursuant  to  the provisions of this Article, it shall not be presented again to the President for his assent before the expiration of six months since it was so returned, except if at the last stage in the National Assembly before it is again presented to the President, it is  supported  by  the  votes  of  not  less  than  two-thirds  of  all  the  Members  of Parliament.
-
-(4)   If a Bill is returned to the National Assembly the President, and it is then  supported  in  the  National  Assembly  by  not  less  than  two-thirds  of  all Members of Parliament as provided in subarticle (3) and it is presented a second time to the President for assent within six months of its being so returned, then the President shall be obliged to assent to the Bill within twenty-one days of its being presented to him, otherwise he shall have to dissolve Parliament.
-
-(5)  The provisions of this Article or Article 64 of this Constitution shall not prevent Parliament from enacting laws making provisions conferring on any person  or  department  of  Government  the  power  to  make  regulations  having  the force of law or conferring the force of law on any regulations made by any person, or any department of Government.
-
-Procedure for altering the Constitution and certain laws Act No.15 of 1984 | 98. -(1) Parliament may enact law for altering any provision of this Constitution in accordance with the following principles: (a) a Bill for an Act to alter any provisions of this Constitution ( other than those relating to paragraph (b) of this subarticle ) or any provisions of any law specified in List One of the Second Schedule to this Constitution shall be supported by the votes of not less than
---- | ---
+business any person who is not entitled is present, then the participation or presence of that person shall not invalidate the business.
 
 Standing Committees of the National Assembly Act No.15 of 1984 Art.14 Act No.12 of 1995 Art.16
 
-How to legislate Act No. 15 of 1984 Art.14
+96.-(1) The National Assembly may establish various Standing Committees as it may deem appropriate for the better discharge of its functions.
+
+(2) The Standing Orders of the National Assembly may provide for the composition and functions of the Standing Committees established pursuant to the provisions of this Article.
+
+#### Legislative Procedure
+
+How to legislate Act No.15 of 1984 Art.14
+
+97.-(1) Subject to the provisions contained in this Constitution, the Parliament shall exercise its legislative power through the process of debating and passing Bills which eventually shall have to be assented to by the President, and a Bill shall not become law unless it is so passed by the National Assembly and assented to by the President in accordance with the provisions of this Article.
+
+(2) After a Bill is presented to the President for his assent, the President may either assent to the Bill or withhold his assent, and in the event the President withholds his assent to a Bill, he shall return it to the National Assembly together with a statement of his reasons for withholding his assent to the Bill.
+
+(3) After a Bill is returned to the National Assembly pursuant to the provisions of this Article, it shall not be presented again to the President for his assent before the expiration of six months since it was so returned, except if at the last stage in the National Assembly before it is again presented to the President, it is supported by the votes of not less than two-thirds of all the Members of Parliament.
+
+(4) If a Bill is returned to the National Assembly by the President, and it is then supported in the National Assembly by not less than two-thirds of all Members of Parliament as provided in subarticle (3) and it is presented a second time to the President for assent within six months of its being so returned, then the President shall be obliged to assent to the Bill within twenty-one days of its being presented to him, otherwise he shall have to dissolve Parliament.
+
+(5) The provisions of this Article or Article 64 of this Constitution shall not prevent Parliament from enacting laws making provisions conferring on any person or department of Government the power to make regulations having the force of law or conferring the force of law on any regulations made by any person, or any department of Government.
+
+Procedure for altering the Constitution and certain laws Act No.15 of 1984
+
+98.-(1) Parliament may enact law for altering any provision of this Constitution in accordance with the following principles:
+
+(a) a Bill for an Act to alter any provisions of this Constitution (other than those relating to paragraph (b) of this subarticle) or any provisions of any law specified in List One of the Second Schedule to this Constitution shall be supported by the votes of not less than
 
 57
 
@@ -2118,43 +2409,39 @@ How to legislate Act No. 15 of 1984 Art.14
 
 Art.14
 
-Procedure for legislation in financial matters Act No.15 of 1984 Art.14
-
-Freedom and immunity from proceedings Act No.15
-
-of 1984
-
-Art.14
-
 two thirds of all the Members of Parliament; and
 
-(b) a Bill for an Act to alter any provisions of this Constitution or any provisions of any law relating to any of the matters specified in List Two of the  Second  Schedule  to  this  Constitution  shall  be  passed only if it is supported by the votes of not less than two-thirds of all Members of Parliament from Mainland Tanzania and not less than two-thirds of all Members of Parliament from Tanzania Zanzibar.
+(b) a Bill for an Act to alter any provisions of this Constitution or any provisions of any law relating to any of the matters specified in List Two of the Second Schedule to this Constitution shall be passed only if it is supported by the votes of not less than two-thirds of all Members of Parliament from Mainland Tanzania and not less than two-thirds of all Members of Parliament from Tanzania Zanzibar.
 
-(2)      For  the  purpose  of  construing  the  provisions  of  subarticle  (1), alteration  of  provisions  of  this  Constitution  or  the  provisions  of  a  law  shall  be understood to include modification or correction of those provisions or repeal and replacement  of  those  provisions  or  the  re-enactment  or  modification  of  the application of the provisions.
+(2) For the purpose of construing the provisions of subarticle (1), alteration of provisions of this Constitution or the provisions of a law shall be understood to include modification or correction of those provisions or repeal and replacement of those provisions or the re-enactment or modification of the application of the provisions.
 
-99. -(1)   The National Assembly shall not deal with any of the matters to which this Article relates except if the President has proposed that the matter be dealt with by the National Assembly and the proposal has been submitted to the National Assembly by a Minister.
+Procedure for legislation in financial matters Act No.15 of 1984 Art.14
 
-- The matters to which this Article relate are the following:
+99.-(1) The National Assembly shall not deal with any of the matters to which this Article relates except if the President has proposed that the matter be dealt with by the National Assembly and the proposal has been submitted to the National Assembly by a Minister.
+
+(2) The matters to which this Article relate are the following:
 
 (a) a Bill to enact a law providing for any of the following -
 
-(i) to  levy  a  tax  or  to  alter  taxation  otherwise  than  by reduction;
+(i) to levy a tax or to alter taxation otherwise than by reduction;
 
-(ii) the imposition of any charge upon the Consolidated Fund  or  any  other  public  fund  or  the  alteration  of any such charge otherwise than by reduction;
+(ii) the imposition of any charge upon the Consolidated Fund or any other public fund or the alteration of any such charge otherwise than by reduction;
 
 (iii) the payment, issue or withdrawal from the Consolidated Fund or any other public fund of any moneys not charged thereon, or any increase in the amount of such payment, issue or withdrawal;
 
-(iv) the  composition  or  remission  of  any  debt  due  or payable to the United Republic;
+(iv) the composition or remission of any debt due or payable to the United Republic;
 
 (b) a motion or any amendment of a motion for the purpose of any of the matters referred to in paragraph (a) of this subarticle.
 
-(3)      The  provisions  of  this  Article  shall  not  apply  to  a  Bill  or  any amendment  to  a  Bill  introduced  by  or  a  motion  or  an  amendment  to  a  motion moved by a Minister or a Deputy Minister.
+(3) The provisions of this Article shall not apply to a Bill or any amendment to a Bill introduced by or a motion or an amendment to a motion moved by a Minister or a Deputy Minister.
 
 #### Power and Privileges of Parliament
 
-100. -(1)      There  shall  be  freedom  of    opinion,  debate  and  procedure  of business in  the  National  Assembly,  and  that  freedom  shall  not  be  breached  or questioned  by  any  organ  in  the  United  Republic  or  in  any  court  or  elsewhere outside the National Assembly.
+Freedom and immunity from proceedings Act No.15 of 1984 Art.14
 
-(2)   Subject to this Constitution or to the provisions of any other relevant law,  a  Member  of  Parliament  shall  not  be  prosecuted  and  no  civil  proceedings may be instituted against him in a court in relation to any thing which he has said or done in the National Assembly or has submitted to the National Assembly by Preservation and enforcement of freedom of debate and procedure Act No.15 of 1984 Art.14
+100.-(1) There shall be freedom of opinion, debate and procedure of business in the National Assembly, and that freedom shall not be breached or questioned by any organ in the United Republic or in any court or elsewhere outside the National Assembly.
+
+(2) Subject to this Constitution or to the provisions of any other relevant law, a Member of Parliament shall not be prosecuted and no civil proceedings may be instituted against him in a court in relation to any thing which he has said or done in the National Assembly or has submitted to the National Assembly by
 
 58
 
@@ -2162,11 +2449,11 @@ two thirds of all the Members of Parliament; and
 
 [[START OF PAGE 59]]
 
-The Revolutionary Government of Zanzibar and its jurisdiction Act No. 45 of 1980 Art.55 Act No.15 of 1984 Art.14 Act No.34 of 1994 Art.16 Head of the Revolutionary Government of Zanzibar and his authority Act No. 15 of 1980 Art.14 Act No.34 of 1994 Art.17
-
 way of a petition, bill, motion or otherwise.
 
-101. Parliament  may enact a law making provisions to enable the court and the law to preserve and enforce freedom of opinion, debate and procedure of business in the National Assembly which in terms of Article 100 is guaranteed by this Constitution.
+Preservation and enforcement of freedom of debate and procedure Act No.15 of 1984 Art.14
+
+101. Parliament may enact a law making provisions to enable the court and the law to preserve and enforce freedom of opinion, debate and procedure of business in the National Assembly which in terms of Article 100 is guaranteed by this Constitution.
 
 ## CHAPTER FOUR
 ## THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE ZANZIBAR REVOLUTIONARY COUNCIL AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
@@ -2175,15 +2462,19 @@ way of a petition, bill, motion or otherwise.
 
 ### THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
 
-102 .-(1)  There shall be an Executive for Zanzibar which shall be known as 'the Revolutionary Government of Zanzibar' which shall have authority in Zanzibar  over  all  matters  which  are  not  Union  Matters  in  accordance  with  the provisions of this Constitution.
+The Revolutionary Government of Zanzibar and its jurisdiction Act No.45 of 1980 Art.55 Act No.15 of 1984 Art.14 Act No.34 of 1994 Art.16
 
-(2)   Subject to the provisions contained in this and the following Articles in  this  Chapter  of  this  Constitution,  the  Revolutionary  Government  of  Zanzibar shall  be  constituted  and  shall  exercise  its  authority  in  accordance  with  the provisions of this Constitution and the Constitution of Zanzibar, 1984.
+102.-(1) There shall be an Executive for Zanzibar which shall be known as “the Revolutionary Government of Zanzibar” which shall have authority in Zanzibar over all matters which are not Union Matters in accordance with the provisions of this Constitution.
 
-103. -(1)  There shall be a Head of the Executive for Zanzibar who shall be the President of Zanzibar and Head of the Revolutionary Government of Zanzibar and also the Chairman of the Zanzibar Revolutionary Council.
+(2) Subject to the provisions contained in this and the following Articles in this Chapter of this Constitution, the Revolutionary Government of Zanzibar shall be constituted and shall exercise its authority in accordance with the provisions of this Constitution and the Constitution of Zanzibar, 1984.
 
-(2)   The Head of the Revolutionary Government of Zanzibar shall, before assuming office, subscribe the oath before the Chief Justice of Zanzibar to protect and  defend  the  Constitution  of  the  United  Republic  and  any  other  oath  in accordance with the constitution of Zanzibar in connection with the execution of his duties,  and  then  shall  assume  office  and  discharge  those  functions  in accordance  with  the  provisions  of  this  Constitution  and  the  Constitution  of Zanzibar, 1984.
+Head of the Revolutionary Government of Zanzibar and his authority Act No.15 of 1984 Art.14 Act No.34 of 1994 Art.17
 
-(3)      In  addition  to  his  other  powers,  the  Head  of  the  Revolutionary Government of Zanzibar shall have the power to appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary Election of the Head of the Revolutionary Government of Zanzibar Act No.1 of 1980 Art.11 Act No.15 of 1984 Art.14 Act No.16 of 1990 Art.2 Act No.20 of 1992 Art.14
+103.-(1) There shall be a Head of the Executive for Zanzibar who shall be the President of Zanzibar and Head of the Revolutionary Government of Zanzibar and also the Chairman of the Zanzibar Revolutionary Council.
+
+(2) The Head of the Revolutionary Government of Zanzibar shall, before assuming office, subscribe the oath before the Chief Justice of Zanzibar to protect and defend the Constitution of the United Republic and any other oath in accordance with the constitution of Zanzibar in connection with the execution of his duties, and then shall assume office and discharge those functions in accordance with the provisions of this Constitution and the Constitution of Zanzibar, 1984.
+
+(3) In addition to his other powers, the Head of the Revolutionary Government of Zanzibar shall have the power to appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary
 
 59
 
@@ -2193,13 +2484,15 @@ way of a petition, bill, motion or otherwise.
 
 Government of Zanzibar.
 
-104. -(1)   The Head of the Revolutionary Government of Zanzibar shall be elected by the people in Tanzania Zanzibar in accordance with the provisions of the  Constitution  of  Zanzibar,  1984,  and  in  accordance  with  the  procedure prescribed  by  law  enacted  by  the  House  of  Representatives  of  Zanzibar  which relates to the election in general or to the election of the Head  of  the Revolutionary Government of Zanzibar
+Election of the Head of the Revolutionary Government of Zanzibar Act No.1 of 1980 Art.11 Act No.15 of 1984 Art.14 Act No.16 of 1990 Art.2 Act No.20 of 1992 Art.14
 
-(2)   Subject to the other provisions of this Constitution, the office of the Head  of  the  Revolutionary  Government  of  Zanzibar  shall  be  vacant,  and  the election of the Head of the Revolutionary Government of Zanzibar shall be held to fill the vacancy upon the occurrence of any of the following events:
+104.-(1) The Head of the Revolutionary Government of Zanzibar shall be elected by the people in Tanzania Zanzibar in accordance with the provisions of the Constitution of Zanzibar, 1984, and in accordance with the procedure prescribed by law enacted by the House of Representatives of Zanzibar which relates to the election in general or to the election of the Head of the Revolutionary Government of Zanzibar
+
+(2) Subject to the other provisions of this Constitution, the office of the Head of the Revolutionary Government of Zanzibar shall be vacant, and the election of the Head of the Revolutionary Government of Zanzibar shall be held to fill the vacancy upon the occurrence of any of the following events:
 
 (a) upon the dissolution of the House of Representatives;
 
-(b) the  resignation  of  the  Head  of  the  Revolutionary  Government  of Zanzibar without first dissolving the House of representatives;
+(b) the resignation of the Head of the Revolutionary Government of Zanzibar without first dissolving the House of representatives;
 
 (c) the disqualification of the Head of the Revolutionary Government of Zanzibar from holding an elective office;
 
@@ -2207,16 +2500,25 @@ Government of Zanzibar.
 
 (e) the certification pursuant to the Constitution of Zanzibar, 1984, that the Head of the Revolutionary Government of Zanzibar is unable to discharge his duties and functions; or
 
-(f) the death  of  the  Head  of  the  Revolutionary  Government  of Zanzibar.
+(f) the death of the Head of the Revolutionary Government of Zanzibar.
 
 ### PART II
 
 ### THE ZANZIBAR REVOLUTIONARY COUNCIL
 
-The Revolutionary Council and its functions Act No.1 of 1980 | 105. -(1) There shall be a Zanzibar Revolutionary Council which shall consist of the following members: (a) the Chairman of the Revolutionary Council; (b) the Chief Minister of the Revolutionary Government of Zanzibar; (c) all Ministers of the Revolutionary Government of Zanzibar; and
---- | ---
+The Revolutionary Council and its functions Act No.1 of 1980 Art.12 Act No.15 of 1984, Art.18
 
-(2)   Without prejudice to the powers of the Chairman of the Revolutionary Council as Head of the Revolutionary Government of Zanzibar, the Revolutionary Council  shall  be  the  principal  organ  for  advising  the  Head  of  Revolutionary Government  of  Zanzibar  regarding  all  matters  concerning  the  exercise  of  his functions  of  leadership  and  supervision  over  the  affairs  of  the  Executive  for Zanzibar and also in the discharge of his functions over all affairs of  Government concerning  all  matters  which  are  not  Union  Matters  in  accordance  with  the provisions of this Constitution and those of the Constitution of Zanzibar, 1984.
+105.-(1) There shall be a Zanzibar Revolutionary Council which shall consist of the following members:
+
+(a) the Chairman of the Revolutionary Council;
+
+(b) the Chief Minister of the Revolutionary Government of Zanzibar;
+
+(c) all Ministers of the Revolutionary Government of Zanzibar; and
+
+(d) other members to be appointed by the Chairman of the Revolutionary Council in accordance with the provisions of the Constitution of Zanzibar, 1984.
+
+(2) Without prejudice to the powers of the Chairman of the Revolutionary Council as Head of the Revolutionary Government of Zanzibar, the Revolutionary Council shall be the principal organ for advising the Head of Revolutionary Government of Zanzibar regarding all matters concerning the exercise of his functions of leadership and supervision over the affairs of the Executive for Zanzibar and also in the discharge of his functions over all affairs of Government concerning all matters which are not Union Matters in accordance with the provisions of this Constitution and those of the Constitution of Zanzibar, 1984.
 
 60
 
@@ -2232,7 +2534,7 @@ Authority of House of Representatives Act No.15 of 1984 Art.20
 
 ### THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
 
-106. -(1)      There  shall  be  a  House  of  Representatives  of  Zanzibar.    The House  of  Representatives  shall  comprise  two  parts:  one  part  shall  consist  of Members of the House elected or appointed in accordance with the provisions of the Constitution of Zanzibar, 1984, and who shall be referred to as the other part of  the  other  part  of  the  House  of  Representatives;  shall  be  the  Head  of  the Revolutionary Government of Zanzibar in the exercise of his functions pursuant to the  provisions  of  this  Constitution  and  the  provisions  of  the  Constitution  of Zanzibar, 1984.
+106.-(1) There shall be a House of Representatives of Zanzibar. The House of Representatives shall comprise two parts: one part shall consist of Members of the House elected or appointed in accordance with the provisions of the Constitution of Zanzibar, 1984, and who shall be referred to as the Members of the House of Representatives; and the other part of the House of Representatives shall be the Head of the Revolutionary Government of Zanzibar in the exercise of his functions pursuant to the provisions of this Constitution and the provisions of the Constitution of Zanzibar, 1984.
 
 (2)   Where pursuant to the provisions of this Constitution, the provisions of the constitution of Zanzibar, 1984, or the provisions of any law enacted and in force in Zanzibar, any matter requires to be decided or done by both parts of the House of Representatives, then that matter shall not be deemed to have been duly decided and done unless it is decided or done by the Members of the House of representatives  and  also  by  the  Head  of  the  Revolutionary  Government  of Zanzibar, in accordance with their respective authority in relation to that matter.
 
@@ -2348,7 +2650,7 @@ Provided that -
 
 (b) for the purpose of appointing an Acting Judge in accordance with the  provisions  of  this  subarticle,  the  President  may  dispense  with the requirement of holding the special qualifications for a period of ten years for the same reasons as those set out in subarticle (8) of this Article.
 
-(11)      Any  person  appointed  Acting  Judge  pursuant  to  the  provisions  of subarticle (10) of this Article shall continue to hold the office of Acting Judge for Tenure of office of Judges of the High Court Act No.14 of 1979 Art.6 Act No.15 of 1984 sArt.22 and 23 Act No.12 of 1995 Art.17 Act No.1 of 2005 Art.18
+(11) Any person appointed Acting Judge pursuant to the provisions of subarticle (10) of this Article shall continue to hold the office of Acting Judge for
 
 64
 
@@ -2356,27 +2658,29 @@ Provided that -
 
 [[START OF PAGE 65]]
 
+any period so specified in his appointment or if no period is specified, until his appointment is revoked by the President, but notwithstanding that his term of office has expired or that his appointment has been revoked, that person may continue to perform functions as Acting Judge until he has completed the preparation and delivery of a decision or until he completes any other business connected with matters which he had started hearing before his term of office expired or before his appointment was revoked.
+
+Tenure of office of Judges of the High Court Act No.14 of 1979 Art.6 Act No.15 of 1984 Art.22 and 23 Act No.12 of 1995 Art.17 Act No.1 of 2005 Art.18
+
+110.-(1) Every Judge of the High Court shall vacate his office on attaining the age of sixty years, but the provisions of this subarticle shall apply subject to the subsequent provisions of this Article.
+
+(2) Any Judge of the High Court may retire from office in the service of the United Republic at any time on attaining the age of fifty five years, except where the President directs that he should not retire from office, and if the President so directs, then the Judge to whom the directions of the President relate shall not retire from office until the expiry of the period specified by the President for that purpose.
+
+(3) In the event that the President considers it to be in the public interest that a Judge who has attained sixty years of age continue in office, and the Judge agrees in writing to continue in office, then the President may direct that the judge continue in office for any period which may be specified by the President.
+
+(4) Notwithstanding that a Judge has attained the age at which he is required by the provisions of this Article to vacate office, a person who was holding the office of Judge of the High Court may continue to perform the functions of that office after attaining that age until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before attaining that age.
+
 Procedures relating to discipline of Judges of the High Court Act No.1 of 2005 Art.19
 
-any period so specified in his appointment or if no period is specified, until his appointment  is  revoked  by  the  President,  but  notwithstanding  that  his  term  of office  has  expired  or  that  his  appointment  has  been  revoked,  that  person  may continue  to  perform  functions  as  Acting  Judge  until  he  has  completed  the preparation  and  delivery  of  a  decision  or  until  he  completes  any  other  business connected  with  matters  which  he  had  started  hearing  before  his  term  of  office expired or before his appointment was revoked.
+110A.-(1) The procedure for dealing with discipline of Judges, for reasons other than those specified in subarticle (2) shall be as prescribed under the law to be enacted by the Parliament.
 
-110. -(1)      Every  Judge  of  the  High  Court  shall  vacate  his  office  on attaining  the  age  of  sixty  years,  but  the  provisions  of  this  subarticle  shall  apply subject to the subsequent provisions of this Article.
+(2) A Judge of the High Court may be removed from office only for inability to perform the functions of his office (either due to illness or to any other reason) or for behaviour inconsistent with the ethics of office of Judge or with the law concerning the ethics of public leaders and he shall not be so removed except in accordance with the provisions of subarticle (4) of this Article.
 
-(2)   Any Judge of the High Court may retire from office in the service of the  United  Republic  at  any  time  on  attaining  the  age  of  fifty  five  years,  except where  the  President  directs  that  he  should  not  retire  from  office,  and  if  the President so directs, then the Judge to whom the directions of the President relate shall not retire from office until the expiry of the period specified by the President for that purpose.
+(3) Where the President considers that the question of the removal of a Judge from office needs to be investigated, then the procedure shall be as follows:
 
-(3)  In the event that the President considers it to be in the public interest that a Judge who has attained sixty years of age continue in office, and the Judge agrees in writing to continue in office, then the President may direct that the judge continue in office for any period which may be specified by the President.
+(a) the President shall, after consultation with the Chief Justice, suspend that Judge from office;
 
-(4)      Notwithstanding  that  a  Judge  has  attained  the  age  at  which  he  is required  by  the  provisions  of  this  Article  to  vacate  office,  a  person  who  was holding  the  office  of  Judge  of  the  High  Court  may  continue  to  perform  the functions of that office after attaining that age until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before attaining that age.
-
-110A .-(1)  The procedure for dealing with discipline of Judges, for reasons other than those specified in subarticle (2) shall be as prescribed under the law to be enacted by the Parliament.
-
-(2)      A  Judge  of  the  High  Court  may  be  removed  from  office  only  for inability to perform the functions of his office (either due to illness or to any other reason) or for behaviour inconsistent with the ethics of office of Judge or with the law concerning the ethics of public leaders and he shall not be so removed except in accordance with the provisions of subarticle (4) of this Article.
-
-(3)   Where the President considers that the question of the removal of a Judge from office needs to be investigated, then the procedure shall be as follows:
-
-(a) the President  shall , after  consultation  with  the Chief  Justice, suspend that Judge from office;
-
-(b) the  President  shall  appoint  a  Tribunal  which  shall  consist  of  a Chairman and not less than two other members.  The Chairman and with at least half of other members of the Special Tribunal must be persons who are judges of the High Court or Justices of Appeal in any country within the Commonwealth;
+(b) the President shall appoint a Tribunal which shall consist of a Chairman and not less than two other members. The Chairman and with at least half of other members of the Special Tribunal must be persons who are judges of the High Court or Justices of Appeal in any country within the Commonwealth;
 
 (c) the Tribunal shall investigate the matter and make a report to the
 
@@ -2386,41 +2690,41 @@ any period so specified in his appointment or if no period is specified, until h
 
 [[START OF PAGE 66]]
 
-Judges' oath of office Act No.14 of 1979 Art.6 Act No.15 of 1984, Art.22
+President, advising on the whole matter, and shall advise him whether or not the Judge concerned should be removed from office in accordance with the provisions of this Article on the grounds of inability to perform his functions due to illness or any other reason or on grounds of misbehaviour.
 
-Judicial Service Commission Act No.14 of 1990 Art.7 Act No.15 of 1984 Art.22 Act No.14 of 1990 Art.6 Act No.3 of 2000 Art.17 Act No.1 of 2005 Art.20
+(4) If the Tribunal appointed in accordance with the provisions of subarticle (3) advises the President that the Judge the subject of investigation by the Special Tribunal be removed from office on grounds of inability to perform functions due to illness or any other reason or on grounds of misbehaviour, then the President shall remove the Judge from office and the employment of that Judge shall cease.
 
-President,  advising  on  the  whole  matter,  and  shall  advise  him whether or not the Judge concerned should be removed from office in accordance with the provisions of this Article on the grounds of inability to perform his functions due to illness or any other reason or on grounds of misbehaviour.
+(5) If the question of removing a Judge from office has been referred to a Tribunal for investigation pursuant to the provisions of subarticle (3) of this Article, the President may suspend the Judge concerned from duty, and the President may at any time rescind the decision to suspend such Judge, and in any case such decision shall lapse if the Tribunal advises the President that the Judge be not removed from office.
 
-(4)      If  the  Tribunal  appointed  in  accordance  with  the  provisions  of subarticle (3) advises the President that the Judge the subject of investigation by the Special Tribunal be removed from office on grounds of inability to perform functions due to illness or any other reason or on grounds of misbehaviour, then the  President  shall  remove  the  Judge  from  office  and  the  employment  of  that Judge shall cease.
+(6) The provisions of this Article shall be without prejudice to the provisions of subarticle (11) of Article 109 of this Constitution.
 
-(5)   If the question of removing a Judge from office has been referred to a Tribunal  for  investigation  pursuant  to  the  provisions  of  subarticle  (3)  of  this Article,  the  President  may  suspend  the  Judge  concerned  from  duty,  and  the President may at any time rescind the decision to suspend such Judge, and in any case such decision shall lapse if the Tribunal advises the President that the Judge be not removed from office.
+Judges’ oath of office Act No.14 of 1979 Art.6 Act No.15 of 1984, Art.22
 
-(6)      The  provisions  of  this  Article  shall  be  without  prejudice  to  the provisions of subarticle (11) of Article 109 of this Constitution.
-
-111. A  Judge  of  the  High  Court  shall  not  assume  the  functions  of  his office until he has first taken and subscribed the oath of allegiance and also such other  oath  concerning  the  discharge  of  his  duties  as  may  be  prescribed  in accordance with the law enacted by the Parliament.
+111. A Judge of the High Court shall not assume the functions of his office until he has first taken and subscribed the oath of allegiance and also such other oath concerning the discharge of his duties as may be prescribed in accordance with the law enacted by the Parliament.
 
 ### PART III
 
 ### THE JUDICIAL SERVICE COMMISSION
 
-112 .-(1)      There  shall  be  an  Appointments  Advisory  Commission  for Judges and Magistrates in Mainland Tanzania which in this Constitution shall be known as the 'Judicial Service Commission'.
+Judicial Service Commission Act No.14 of 1979 Art.7 Act No.15 of 1984 Art.22 Act No.14 of 1990 Art.6 Act No.3 of 2000 Art.17 Act No.1 of 2005 Art.20
 
-- Members of the Commission shall be -
+112.-(1) There shall be an Appointments Advisory Commission for Judges and Magistrates in Mainland Tanzania which in this Constitution shall be known as the “Judicial Service Commission”.
+
+(2) Members of the Commission shall be -
 
 (a) the Chief Justice who shall be the Chairman;
 
 (b) the Attorney General;
 
-(c) a  Justice  of  Appeal  of  Tanzania  who  shall  be  appointed  in  that behalf by the President after consultation with the Chief Justice;
+(c) a Justice of Appeal of Tanzania who shall be appointed in that behalf by the President after consultation with the Chief Justice;
 
 (d) the Principal Judge; and
 
 (e) two members who shall be appointed by the President.
 
-(3)   A person shall not qualify to be appointed member of the Commission under the provisions of paragraph (e) of subarticle (2) of this Article, if he is a Member of Parliament or the holder of any other office prescribed in that behalf by a law enacted by Parliament.
+(3) A person shall not qualify to be appointed member of the Commission under the provisions of paragraph (e) of subarticle (2) of this Article, if he is a Member of Parliament or the holder of any other office prescribed in that behalf by a law enacted by Parliament.
 
-(4)   In discharging its functions, the Commission may delegate its duties to  various  Committees  to  be  established  in  accordance  with  law  enacted  by Membership in political parties Act No.34 of 1994 Art.18 Act No.1 of 2005 Art.20
+(4) In discharging its functions, the Commission may delegate its duties to various Committees to be established in accordance with law enacted by
 
 66
 
@@ -2428,36 +2732,47 @@ President,  advising  on  the  whole  matter,  and  shall  advise  him whether o
 
 [[START OF PAGE 67]]
 
-The High Court of Zanzibar Act No.15 of 1984 Art.22
+Parliament.
 
-Jurisdiction of the High Court of Zanzibar Parliament.
+Powers and functions of the Commission Act No.1 of 2005 Art.20 Act No.14 of 1979 Art.7; Act No.15 Art.22 and 24; Act No.34 of 2005 Art.20
 
-Powers and functions of | 113 .-(1) The functions of the Commission shall be -
---- | ---
-the Commission No.1 | (a) to advise the President regarding appointments of the Judges of the High Court;
-Act of 2005 | (b) to advise the President on matters relating to discipline of Judges;
-Art.20 | (c) to advice the President in relation to salaries and remuneration for Judge s ;
-Act No.14 of 1979 Art.7; Act No.15 Art.22 and 24; Act No.34 | (d) to advise the President in respect of appointment and discipline for Registrar of the Court of Appeal and the Registrar of the High Court;
+113.-(1) The functions of the Commission shall be –
+
+(a) to advise the President regarding appointments of the Judges of the High Court;
+
+(b) to advise the President on matters relating to discipline of Judges;
+
+(c) to advice the President in relation to salaries and remuneration for Judges;
+
+(d) to advise the President in respect of appointment and discipline for Registrar of the Court of Appeal and the Registrar of the High Court;
+
 (e) to appoint magistrates and control their discipline; and
-of 2005 Art.20 | (f) to establish various committees for purposes of implementation of its functions.
 
-(2)      The  powers  of  appointment,  control  of  discipline  and  removal  of Judges from office shall vest in the President in accordance with the provisions of this Constitution.
+(f) to establish various committees for purposes of implementation of its functions.
 
-(3)      Powers  of  appointments,  confirmation,  disciplinary  and  removal  of Registrars of the Court of Appeal and the High Court shall vest in the President.
+(2) The powers of appointment, control of discipline and removal of Judges from office shall vest in the President in accordance with the provisions of this Constitution.
 
-(4)      Powers  of  appointment s ,  confirmation,  disciplinary  and  removal of magistrates  of  courts  in  Mainland  Tanzania  shall  vest  in  the  Commission mentioned in Article 112.
+(3) Powers of appointments, confirmation, disciplinary and removal of Registrars of the Court of Appeal and the High Court shall vest in the President.
 
-(5)   The Parliament may enact a law which shall make provisions relating to implementation of the functions by the Commission.
+(4) Powers of appointments, confirmation, disciplinary and removal of magistrates of courts in Mainland Tanzania shall vest in the Commission mentioned in Article 112.
 
-113A .  It is hereby prohibited for a Justice of  Appeal,  a Judge of the High Court, a Registrar of any grade or a magistrate of any grade to join any political party save only that he shall have the right to vote which is specified in Article 5 of this Constitution.
+(5) The Parliament may enact a law which shall make provisions relating to implementation of the functions by the Commission.
+
+Membership in political parties Act No.34 of 1994 Art.18 Act No.1 of 2005 Art.20
+
+113A. It is hereby prohibited for a Justice of Appeal, a Judge of the High Court, a Registrar of any grade or a magistrate of any grade to join any political party save only that he shall have the right to vote which is specified in Article 5 of this Constitution.
 
 ### PART IV
 
 ### THE HIGH COURT OF ZANZIBAR
 
-114. For the purposes of construing the provisions of this Chapter of this Constitution, it is hereby declared that the provisions contained in this Chapter do not  prevent the continuance  or  establishment,  in  accordance with  the  law applicable in Zanzibar, of the High Court of Zanzibar or courts subordinate to it.
+The High Court of Zanzibar Act No.15 of 1984 Art.22
 
-115. -(1)      Subject  to  Articles  83  and  116  of  this  Constitution,  the jurisdiction  of  the  High  Court  of  Zanzibar  shall  be  as  specified  in  the  laws applicable in Zanzibar.
+114. For the purposes of construing the provisions of this Chapter of this Constitution, it is hereby declared that the provisions contained in this Chapter do not prevent the continuance or establishment, in accordance with the law applicable in Zanzibar, of the High Court of Zanzibar or courts subordinate to it.
+
+Jurisdiction of the High Court of Zanzibar
+
+115.-(1) Subject to Articles 83 and 116 of this Constitution, the jurisdiction of the High Court of Zanzibar shall be as specified in the laws applicable in Zanzibar.
 
 67
 
@@ -2469,7 +2784,7 @@ Act No.15 of 1984 Art.22 and Art.25
 
 Interpretation Act No.15 of 1984 Art.25 and 26 Act No.1 of 2005 Art.21 Court of Appeal of the United Republic and its jurisdiction Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.27
 
-Chief Justice and Justices of Appeal and their appointments Act No.14 of 1979 Art.8 Act No.15 of 1984 Act No.7 of 1994 Ar.8(1), (k) Art.28 Act No.1 of 2005
+Chief Justice and Justices of Appeal and their appointments Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.28 Act No.7 of 1994 Art.8(i), (k) Act No.1 of 2005
 
 (2)      Subject  to  the  provisions  of  this  Constitution  or  of  any  other  law enacted  by  Parliament,  where  any  law  enacted  by  Parliament  and  which  is applicable in Mainland Tanzania and also in Tanzania Zanzibar vests any power in  the  High  Court,  then  the  High  Court  of  Zanzibar  may  exercise  that  power concurrently with the High Court of the United Republic.
 
@@ -2499,7 +2814,7 @@ Chief Justice and Justices of Appeal and their appointments Act No.14 of 1979 Ar
 
 (c) he is removed from the post of the Chief Justice by President.
 
-- The other Justices of Appeal shall be appointed by the President after
+(3) The other Justices of Appeal shall be appointed by the President after
 
 68
 
@@ -2509,11 +2824,9 @@ Chief Justice and Justices of Appeal and their appointments Act No.14 of 1979 Ar
 
 Art.22
 
-Jurisdiction of Justice of Appeal Act No.14
+consultation with the Chief Justice, from amongst persons who qualify to be appointed Judges of the High Court of the United Republic as provided for in Article 109 of this Constitution, or from amongst persons who qualify to be appointed Judges of the High Court of Zanzibar in accordance with the laws applicable in Zanzibar and have possessed such qualifications for a period of not less than fifteen years.
 
-consultation  with  the  Chief  Justice,  from  amongst  persons  who  qualify  to  be appointed  Judges  of  the  High  Court  of  the  United  Republic  as  provided  for  in Article  109  of  this  Constitution,  or  from  amongst  persons  who  qualify  to  be appointed  Judges  of  the  High  Court  of  Zanzibar  in  accordance  with  the  laws applicable in Zanzibar and have possessed such qualifications for a period of not less than fifteen years.
-
-- Whenever -
+(4) Whenever -
 
 (a) the office of Chief Justice is vacant,
 
@@ -2521,21 +2834,23 @@ consultation  with  the  Chief  Justice,  from  amongst  persons  who  qualify  
 
 (c) the Chief Justice, for any reason, fails to discharge his duties,
 
-and  if,  in  the  duration  of  any  of  these  three  events  the  President  considers  it appropriate to appoint an Acting Chief Justice, then the President may appoint an Acting Chief Justice from among Justices of Appeal.
+and if, in the duration of any of these three events the President considers it appropriate to appoint an Acting Chief Justice, then the President may appoint an Acting Chief Justice from among Justices of Appeal.
 
-(5)      The  Acting  Justice  of  Appeal  shall  perform  the  duties  of  the  Chief Justice until another Chief Justice is appointed or until the Chief Justice who was absent from Tanzania or was unable to discharge his duties resumes duty.
+(5) The Acting Chief Justice shall perform the duties of the Chief Justice until another Chief Justice is appointed or until the Chief Justice who was absent from Tanzania or was unable to discharge his duties resumes duty.
 
-(6)   In the event that an office of Justice of  Appeal is vacant or that any Justice of Appeal is appointed Acting Chief Justice or if the Justice of Appeal is for any reason unable to perform the functions of his office, or if the Chief Justice advises  the  President  that  the  State  of  business  then  obtaining  in  the  Court  of Appeal  requires  the  appointment  of  an  Acting  Justice  of  Appeal,  then  the President may, after consultation with the Chief Justice, appoint an Acting Justice of Appeal from amongst persons holding qualifications for appointment as Justice of Appeal in accordance with the provisions of subarticle (4) of this Article.
+(6) In the event that an office of Justice of Appeal is vacant or that any Justice of Appeal is appointed Acting Chief Justice or if the Justice of Appeal is for any reason unable to perform the functions of his office, or if the Chief Justice advises the President that the State of business then obtaining in the Court of Appeal requires the appointment of an Acting Justice of Appeal, then the President may, after consultation with the Chief Justice, appoint an Acting Justice of Appeal from amongst persons holding qualifications for appointment as Justice of Appeal in accordance with the provisions of subarticle (4) of this Article.
 
-(7)   Any person appointed Acting Justice of Appeal shall continue to hold the office of Acting Justice of Appeal for any period specified at the time of his appointment, until his appointment is revoked by the President, but not withstanding that the period of appointment has expired or that the appointment has been revoked, such person may continue to work as Acting Justice of Appeal for as long as may be necessary to enable him to prepare and deliver judgment or to do any other thing in relation to appeals or any other proceedings which were commenced before him prior to the expiration of such period or the revocation of his appointment.
+(7) Any person appointed Acting Justice of Appeal shall continue to hold the office of Acting Justice of Appeal for any period specified at the time of his appointment, until his appointment is revoked by the President, but notwithstanding that the period of appointment has expired or that the appointment has been revoked, such person may continue to work as Acting Justice of Appeal for as long as may be necessary to enable him to prepare and deliver judgment or to do any other thing in relation to appeals or any other proceedings which were commenced before him prior to the expiration of such period or the revocation of his appointment.
 
-(8)   For the avoidance of doubt over the construction of the provisions of subarticle (1) of Article 119 of this Constitution, it is hereby declared that a person appointed an Acting Justice of Appeal shall have full power of a Justice of Appeal and shall discharge all duties of Justices of Appeal,  and that the quorum of Justice of  Appeal  mentioned  in  Article  122  of  this  Constitution  shall  not  be  invalid  on ground only that one or more than one Justice of Appeal at any sitting is an Acting Justice of Appeal.
+(8) For the avoidance of doubt over the construction of the provisions of subarticle (1) of Article 119 of this Constitution, it is hereby declared that a person appointed an Acting Justice of Appeal shall have full power of a Justice of Appeal and shall discharge all duties of Justices of Appeal, and that the quorum of Justice of Appeal mentioned in Article 122 of this Constitution shall not be invalid on ground only that one or more than one Justice of Appeal at any sitting is an Acting Justice of Appeal.
 
-(9)   The office of Justice of Appeal shall not be abolished while there is a person holding the office of the Justice of Appeal.
+(9) The office of Justice of Appeal shall not be abolished while there is a person holding the office of the Justice of Appeal.
 
-119. No Justice of Appeal shall have jurisdiction to hear any matter in the High Court or in any magistrates' court of any grade:
+Jurisdiction of Justice of Appeal Act No.14
 
-Provided  that  where  a  Judge  of  the  High  Court  is  appointed  Justice  of of 1979 Art.8 and Act No.15 of 1984 Art.29
+119. No Justice of Appeal shall have jurisdiction to hear any matter in the High Court or in any magistrates’ court of any grade:
+
+Provided that where a Judge of the High Court is appointed Justice of
 
 69
 
@@ -2543,25 +2858,27 @@ Provided  that  where  a  Judge  of  the  High  Court  is  appointed  Justice  o
 
 [[START OF PAGE 70]]
 
+of 1979 Art.8 and Act No.15 of 1984 Art.29
+
+Appeal he may, notwithstanding such appointment, discharge his functions in the High Court until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before his appointment as a Justice of Appeal, and for that purpose it shall be lawful for him to deliver judgment or any other decision concerned in the exercise of the jurisdiction he had before he was appointed Justice of Appeal; provided that where ultimately that judgment or decision is challenged by way of appeal to the Court of Appeal, then in such circumstances that Justice of Appeal shall not have jurisdiction to hear that appeal.
+
 Tenure of office of Justices of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.30 Act No.1 of 2005 Art.23
+
+120.-(1) Every Justice of Appeal shall vacate his office upon attaining the age of sixty-five, but the provisions of this subarticle shall apply subject to the subsequent provisions of this Article.
+
+(2) Any Justice of Appeal may vacate office in the service of the Untied Republic at any time on attaining the age of sixty five years except where the President directs that he should not vacate office, and if the President so directs, then the Justice to whom the directions of the President relate shall not vacate office until the expiry of the period specified by the President for that purpose.
+
+(3) In the event that the President considers it to be in the public interest that a Justice of Appeal who has attained sixty-five years of age continue in office, and the Justice of Appeal agrees in writing to continue in office, then the President may direct that the Justice of Appeal continue in office for any period which may be specified by the President.
+
+(4) Notwithstanding that a Justice of Appeal has attained the age at which he is required by the provisions of this Article to vacate his office, a person who was holding the office of Justice of Appeal may continue to perform the functions of that office after attaining that age until he completes the preparation and delivery of decision or until he completes any other business in connection with matters which he had started hearing before attaining that age.
 
 Procedures relating to discipline of Justices of Appeal Act No.1 of 2005 Art.24
 
-Appeal he may, notwithstanding such appointment, discharge his functions in the High Court until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before his appointment as a Justice of Appeal, and for that purpose it shall be  lawful  for  him  to  deliver  judgment  or  any  other  decision  concerned  in  the exercise  of  the  jurisdiction  he  had  before  he  was  appointed  Justice  of  Appeal; provided that where ultimately that judgment or decision is challenged by way of appeal to the Court of Appeal, then in such circumstances that Justice of Appeal shall not have jurisdiction to hear that appeal.
+120A.-(1) The procedure for dealing with discipline of Justices of Appeal for offences other than those specified under subarticle (2), shall be as prescribed under the law to be enacted by the Parliament.
 
-120. -(1)   Every Justice of Appeal shall vacate his office upon attaining the age  of  sixty-five,  but  the  provisions  of  this  subarticle  shall  apply  subject  to  the subsequent provisions of this Article.
+(2) A Justice of Appeal may be removed from office of a Justice of Appeal for reason of inability to perform the functions of his office (either due to illness or to any other reason) or for misbehaviour and shall not be removed from office except in accordance with procedural provisions similar to those prescribed for removal from office of the Judge of the High Court as stipulated in subarticle (2) and (3) of Article 110A of this Constitution, and for that purpose the provisions of subarticle (4) of Article 110A shall apply to the Justice of Appeal in the same manner as applied to the Judge of the High Court.
 
-(2)   Any Justice of Appeal may vacate office in the service of the Untied Republic  at  any  time  on  attaining  the  age  of  sixty  five  years  except  where  the President directs that he should not vacate office, and if the President so directs, then  the  Justice  to  whom  the  directions  of  the  President  relate  shall  not  vacate office until the expiry of the period specified by the President for that purpose.
-
-(3)   In the event that the President considers it to be in the public interest that a Justice of Appeal who has attained sixty-five years of age continue in office, and the Justice of Appeal agrees in writing to continue in office, then the President may direct that the Justice of Appeal continue in office for any period which may be specified by the President.
-
-(4)   Notwithstanding that a Justice of Appeal has attained the age at which he is required by the provisions of this Article to vacate his office, a person who was holding the office of Justice of Appeal may continue to perform the functions of  that  office  after  attaining  that  age  until  he  completes  the  preparation  and delivery of decision or until he completes any other business in connection with matters which he had started hearing before attaining that age.
-
-120A. -(1)   The procedure for dealing with discipline of Justices of Appeal for offences other than those specified under subarticle (2), shall be as prescribed under the law to be enacted by the Parliament.
-
-(2)      A  Justice  of  Appeal  may  be  removed  from  office  of  a  Justice  of Appeal for reason of inability to perform the functions of his office (either due to illness or to any other reason) or for misbehaviour and shall not be removed from office except in accordance with procedural provisions similar to those prescribed for removal from office of the Judge of the High Court as stipulated in subarticle (2)  and  (3)  of  Article  110A  of  this  Constitution,  and  for  that  purpose  the provisions of subarticle (4) of Article 110A shall apply to the Justice of Appeal in the same manner as applied to the Judge of the High Court.
-
-(3)      The  provisions  of  this  Article  shall  apply  without  prejudice  to  the provisions of subarticle (5) of Article 118 of this Constitution.
+(3) The provisions of this Article shall apply without prejudice to the provisions of subarticle (5) of Article 118 of this Constitution.
 
 70
 
@@ -2569,27 +2886,21 @@ Appeal he may, notwithstanding such appointment, discharge his functions in the 
 
 [[START OF PAGE 71]]
 
-Oath of office of Justices of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984
+Oath of office of Justices of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.31
 
-Art.31 Quorum at sittings of the Court of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.32 Act No.7 of 1994 Ar.8(1), (k)
+121. A Justice of Appeal shall not assume office unless he has taken and subscribed the oath of allegiance and such other oath as may be prescribed by legislation enacted by Parliament.
+
+Quorum at sittings of the Court of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.32 Act No.7 of 1994 Art.8(i), (k)
+
+122.-(1) The quorum at every sitting of the Court of Appeal shall not be less than three Justices of Appeal.
+
+(2) In every appeal a matter which requires the decision by the Court of Appeal shall be decided on the basis of the majority opinion of the Justices of Appeal hearing the appeal.
 
 Jurisdiction of a single Justice of Appeal Act No.14 of 1979 Art.8 Act No.15 of 1984 Art.33
 
-Execution of the whole of
+123. A single Justice of Appeal may exercise any power vested in the Court of Appeal not involving the determination of an appeals; except that -
 
-court orders in Tanzania Act No.15 of 1984 Art.34 Act No.3 of 2000 Arti.17
-
-121. A Justice of Appeal shall not assume office unless he has taken and subscribed  the  oath  of  allegiance  and  such  other  oath  as  may  be  prescribed  by legislation enacted by Parliament.
-
-122. -(1)   The quorum at every sitting of the Court of Appeal shall not be less than three Justices of Appeal.
-
-(2)   In every appeal a matter which requires the decision by the Court of Appeal  shall  be  decided  on  the  basis  of  the  majority  opinion  of  the  Justices  of Appeal hearing the appeal.
-
-123. A  single  Justice  of  Appeal  may  exercise  any  power  vested  in  the Court of Appeal not involving the determination of an appeals; except that -
-
-(a)
-
-- in criminal matters, where a Justice of Appeal on an application for the exercise of those powers makes a decision which the applicant is dissatisfied with, then the applicant shall be entitled to require to have his application determined by the full Court; and
+(a) in criminal matters, where a Justice of Appeal on an application for the exercise of those powers makes a decision which the applicant is dissatisfied with, then the applicant shall be entitled to require to have his application determined by the full Court; and
 
 (b) in civil matters, the Court of Appeal may nullify or alter an order, direction or decision of any other kind made by a single Justice of Appeal in accordance with the provisions of this Article.
 
@@ -2597,11 +2908,11 @@ court orders in Tanzania Act No.15 of 1984 Art.34 Act No.3 of 2000 Arti.17
 
 ### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION OF ORDERS ISSUED BY THE COURTS
 
-124. -(1)      The  criminal  and  civil  process,  including  warrants  of  arrest issued  by  the  Courts  in  Mainland  Tanzania  and  in  Tanzania  Zanzibar  may  be served  and  may  be  executed  in  any  place  in  Tanzania  subject  to  the  following provisions -
+Execution of court orders in the whole of Tanzania Act No.15 of 1984 Art.34 Act No.3 of 2000 Art.17
 
-(a)
+124.-(1) The criminal and civil process, including warrants of arrest issued by the Courts in Mainland Tanzania and in Tanzania Zanzibar may be served and may be executed in any place in Tanzania subject to the following provisions -
 
-where the court issues process to be served or executed in a place w here it has no jurisdiction, such process shall be sent to that place and the service or execution shall be effected in accordance with the procedure obtaining  for service or execution of process issued by the court having jurisdiction in that area; and Special Constitutional Court Act No.15 of 1984 Art.35 Act No.3 of 2000 Art.17
+(a) where the court issues process to be served or executed in a place where it has no jurisdiction, such process shall be sent to that place and the service or execution shall be effected in accordance with the procedure obtaining for service or execution of process issued by the court having jurisdiction in that area; and
 
 71
 
@@ -2609,29 +2920,31 @@ where the court issues process to be served or executed in a place w here it has
 
 [[START OF PAGE 72]]
 
-Jurisdiction of the Special Constitutional Court Act No.14 of 1979 Art.9 Act No.15 of 1984 Art.36
+(b) where the law applicable in the place where the process is sent requires that a process issued by a court which has no jurisdiction be authenticated first by the court having local jurisdiction, then every process issued by the court elsewhere has to be authenticated first in accordance with the law before service or execution of such process.
 
-Composition of the Special Constitutional Court
+(2) Where a person is arrested anywhere in Tanzania in accordance with an arrest warrant issued by a court having no jurisdiction in the area of arrest, then the person so arrested shall be deemed to be in lawful custody and be brought before the court which issued the arrest warrant, but the provisions contained in this subarticle shall apply without prejudice to the provisions of the law applicable in the place of the arrest.
 
-(b) where  the  law  applicable  in  the  place  where  the  process  is  sent requires that a process issued by a court which has no jurisdiction be  authenticated  first  by  the  court  having  local  jurisdiction,  then every process issued by the court elsewhere has to be authenticated first in accordance with the law before service or execution of such process.
-
-(2)   Where a person is arrested anywhere in Tanzania in accordance with an arrest warrant issued by a court having no jurisdiction in the area of arrest, then the  person  so  arrested  shall  be  deemed  to  be  in  lawful  custody  and  be  brought before the court which issued the arrest warrant, but the provisions contained in this subarticle shall apply without prejudice to the provisions of the law applicable in the place of the arrest.
-
-(3)      The  provisions  contained  in  this  Article  shall  not  prevent  the enactment  of  a  law  providing  for  the  procedure  of  sending  process  outside Tanzania issued by the courts in Mainland Tanzania or Tanzania Zanzibar.
+(3) The provisions contained in this Article shall not prevent the enactment of a law providing for the procedure of sending process outside Tanzania issued by the courts in Mainland Tanzania or Tanzania Zanzibar.
 
 ### PART VII
 
 ### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
-125. There  is  hereby  established  the  Special  Constitutional  Court  of  the United  Republic  whose  jurisdiction,  constitution  and  procedure  shall  be  as stipulated in the provisions of Articles 126 and 128 of this Constitution.
+Special Constitutional Court Act No.15 of 1984 Art.35 Act No.3 of 2000 Art.17
 
-126. -(1)    The  sole  function  of  the  Special  Constitutional  Court  of  the United Republic is to hear and give a conciliatory decision over a matter referred to it concerning the interpretation of this Constitution where such interpretation or its application is in dispute between the Government of the United Republic and the Revolutionary Government of Zanzibar.
+125. There is hereby established the Special Constitutional Court of the United Republic whose jurisdiction, constitution and procedure shall be as stipulated in the provisions of Articles 126 and 128 of this Constitution.
 
-(2)  In the performance of its functions in accordance with the provisions of  this  Article,  the  Special  Constitutional  Court  shall  not  have  power  to  inquire into  or  to  alter  the  decision  of  the  High  Court  or  the  decision  of  the  Court  of Appeal which has been given in accordance with the provisions of Article 83 of this Constitution or the decision of the Court of Appeal which has been given in accordance with Article 117 of this Constitution.
+Jurisdiction of the Special Constitutional Court Act No.14 of 1979 Art.9 Act No.15 of 1984 Art.36
 
-(3)   Every conciliatory decision given by the Special Constitutional Court pursuant  to  this  Article  shall  be  final;  there  shall  be  no  right  of  appeal  to  any forum.
+126.-(1) The sole function of the Special Constitutional Court of the United Republic is to hear and give a conciliatory decision over a matter referred to it concerning the interpretation of this Constitution where such interpretation or its application is in dispute between the Government of the United Republic and the Revolutionary Government of Zanzibar.
 
-127. -(1)      The  Special  Constitutional  Court  shall  consist  of  members  of whom one half shall be appointed by the Government of the United Republic and the other half shall be appointed by the Revolutionary Government of Zanzibar.
+(2) In the performance of its functions in accordance with the provisions of this Article, the Special Constitutional Court shall not have power to inquire into or to alter the decision of the High Court or the decision of the Court of Appeal which has been given in accordance with the provisions of Article 83 of this Constitution or the decision of the Court of Appeal which has been given in accordance with Article 117 of this Constitution.
+
+(3) Every conciliatory decision given by the Special Constitutional Court pursuant to this Article shall be final; there shall be no right of appeal to any forum.
+
+Composition of the Special Constitutional Court
+
+127.-(1) The Special Constitutional Court shall consist of members of whom one half shall be appointed by the Government of the United Republic and the other half shall be appointed by the Revolutionary Government of Zanzibar.
 
 72
 
@@ -2641,7 +2954,7 @@ Composition of the Special Constitutional Court
 
 Act No.14 Of 1979 Art.10 Act No.15 of 1984 Art.37
 
-Procedure at sittings of the Special Constitutional Court Act No.15 of 1984 Art.37 Act No.7 of 1994 Art.8(1)(k)
+Procedure at sittings of the Special Constitutional Court Act No.15 of 1984 Art.37 Act No.7 of 1994 Art.8(i), (k)
 
 (2)   A person may be appointed a member of the Special Constitutional Court only if he holds or has previously held the office of Justice of Appeal or of Judge of the High Court of the United Republic of Tanzania or of the High Court of Zanzibar, or he is a person who has the ability and experience which qualify him to be appointed to the office of Judge or Acting Judge under the law for the time being in force, in  Mainland Tanzania or in Tanzania Zanzibar,  as the case may be.
 
@@ -2713,27 +3026,31 @@ Commission for Human Rights and Good Governance Act No.3 of 2000 Art.18
 
 [[START OF PAGE 75]]
 
-Functions of the and the | 130 .-(1) Commission for Human Rights and Good Governance shall discharge the following functions -
---- | ---
-Commission performance procedures | (a) to sensitise countrywide about preservation of human rights and duties to the public in accordance with the Constitution and the laws of the land;
-Act No.3 of 2000 | (b) to receive complaints in relation to violation of human rights in general;
-Art.17 G.N.No.133 of 2001 | (c) to conduct inquiry on matters relating to infringement of human rights and violation of principles of good governance;
+Functions of the Commission and the performance procedures Act No.3 of 2000 Art.17 G.N.No.133 of 2001
 
-(d) to conduct research, to impart or disseminate to the public countrywide  education  in respect  of  human  rights  and  good governance;
+130.-(1) Commission for Human Rights and Good Governance shall discharge the following functions –
 
-(e) if  necessary,  to  institute  proceedings  in  court  in  order  to  prevent violation of human rights or to restore a right that was caused by that  infringement  of  human  rights,  or  violation  of  principles  of good governance;
+(a) to sensitise countrywide about preservation of human rights and duties to the public in accordance with the Constitution and the laws of the land;
+
+(b) to receive complaints in relation to violation of human rights in general;
+
+(c) to conduct inquiry on matters relating to infringement of human rights and violation of principles of good governance;
+
+(d) to conduct research, to impart or disseminate to the public countrywide education in respect of human rights and good governance;
+
+(e) if necessary, to institute proceedings in court in order to prevent violation of human rights or to restore a right that was caused by that infringement of human rights, or violation of principles of good governance;
 
 (f) inquire into the conduct of any person concerned and any institution concerned in relation to the ordinary performance of his duties or functions or abuse of the authority of his office; and
 
 (g) to advice the Government and other public Institutions and private sector in respect of human rights and good governance;
 
-(h) to take necessary action in order to promote and enhance conciliation and reconciliation among persons and various institutions appearing or  being brought before the Commission.
+(h) to take necessary action in order to promote and enhance conciliation and reconciliation among persons and various institutions appearing or being brought before the Commission.
 
-(2)      The  Commission  shall  be  an  autonomous  department,  and  without prejudice to other provisions of this Article, in exercising its powers in accordance with  this  Constitution,  the  Commission  shall  not  be  bound  to  comply  with directive or orders of any person or any department of government or any opinion of any political party or of any public or private sector institution.
+(2) The Commission shall be an autonomous department, and without prejudice to other provisions of this Article, in exercising its powers in accordance with this Constitution, the Commission shall not be bound to comply with directive or orders of any person or any department of government or any opinion of any political party or of any public or private sector institution.
 
-(3)   The provisions of subarticle (2) shall not be construed as restricting the  President  from  giving  directive  or  orders  to  the  Commission,  nor  are  they conferring a right to the Commission of not complying with directions or orders, if the  President is satisfied that in respect of any matter or any state of affair, public interest so requires.
+(3) The provisions of subarticle (2) shall not be construed as restricting the President from giving directive or orders to the Commission, nor are they conferring a right to the Commission of not complying with directions or orders, if the President is satisfied that in respect of any matter or any state of affair, public interest so requires.
 
-(4)      The  Commission  shall  conduct  inquiry  in  accordance  with  the provisions of this Article and of any law enacted in that behalf by the Parliament, and shall inquire into the conduct of any person concerned or of any institution concerned whenever the President directs to conduct inquiry; likewise, except as the President directs the Commission not to conduct investigation , the Commission may conduct investigation whenever it deems necessary to  inquire into  the  conduct of any  person concerned, or any institution concerned with the provisions of this Article who is suspected or which is suspected to have abused the authority of his office, misused the authority of his office or the functions of such institution or for violation of human  rights and principles of good Powers of the Commission and procedures for its duties Act No.3 of 2000 Art.18
+(4) The Commission shall conduct inquiry in accordance with the provisions of this Article and of any law enacted in that behalf by the Parliament, and shall inquire into the conduct of any person concerned or of any institution concerned whenever the President directs to conduct inquiry; likewise, except as the President directs the Commission not to conduct investigation, the Commission may conduct investigation whenever it deems necessary to inquire into the conduct of any person concerned, or any institution concerned with the provisions of this Article who is suspected or which is suspected to have abused the authority of his office, misused the authority of his office or the functions of such institution or for violation of human rights and principles of good
 
 75
 
@@ -2747,7 +3064,9 @@ governance.
 
 (6)    The provisions of this Article shall apply to persons employed in the service of the Government of the United Republic and those of the Revolutionary Government of Zanzibar, employees and leaders of the political parties who deal with public affairs, members  and employees of all Commissions of the Government  of  the  United  Republic  and  the  Revolutionary  Government  of Zanzibar , parastatal organizations and other public or private organs, companies, community, associations, trustees or any other schemes, as prescribed by the law enacted by the Parliament; but these provisions shall not apply to the President or Leader of the Revolutionary Government of Zanzibar, except only in accordance with  the  provisions  of  Article  46  of  this  Constitution  or  Article  36  of  the Constitution of Zanzibar, 1984.
 
-131 .-(1) Without  prejudice  to  other  provisions  of  this  Article, the Parliament  may  enact  a  law  pursuant  to  the  provisions  of  this  Chapter  of  this Constitution for purposes of prescribing provisions in respect of authority of the Commission,  procedures  for  conducting  its  business  and  legal  immunities  for Commissioners  and  employees  of  the  Commission  which  shall  enable  them  to discharge their duties without legal constraints.
+Powers of the Commission and procedures for its duties Act No.3 of 2000 Art.18
+
+131.-(1) Without prejudice to other provisions of this Article, the Parliament may enact a law pursuant to the provisions of this Chapter of this Constitution for purposes of prescribing provisions in respect of authority of the Commission, procedures for conducting its business and legal immunities for Commissioners and employees of the Commission which shall enable them to discharge their duties without legal constraints.
 
 (2)  The Commission shall not inquire the following matters, for purposes of discharging its functions, that is to say -
 
@@ -2775,13 +3094,13 @@ and, the Minister shall table before the National Assembly each report submitted
 
 [[START OF PAGE 77]]
 
-Public Leaders' Ethics Secretariat Act No.1 of 1980 Art.15 Act No.15 of 1984 Art.39 Act No.4 of 1992 Art.35 Act No.12 of 1995 Art.18
-
 ### PART II
 
 ### PUBLIC LEADERS' ETHICS SECRETARIAT
 
-132 .-(1)   There is hereby established a Public Leaders' Ethics Secretariat which shall have power to inquire into the behaviour and conduct of any public leader for the purpose of ensuring that the provisions of the law concerning the ethics of public leaders are duly complied with.
+Public Leaders' Ethics Secretariat Act No.1 of 1980 Art.15 Act No.15 of 1984 Art.39 Act No.4 of 1992 Art.35 Act No.12 of 1995 Art.18
+
+132.-(1) There is hereby established a Public Leaders' Ethics Secretariat which shall have power to inquire into the behaviour and conduct of any public leader for the purpose of ensuring that the provisions of the law concerning the ethics of public leaders are duly complied with.
 
 (2)   For the purposes of this Article, the meaning of 'public leader' and 'code  of  ethics  for  public  leaders'  shall  be  construed  in  accordance  with  the provisions of the law concerning the ethics of public leaders or the provisions of any  other  law  enacted  by  Parliament  in  so  far  as  such  provisions  relate  to  the question of leadership and its interpretation.
 
@@ -2789,7 +3108,7 @@ Public Leaders' Ethics Secretariat Act No.1 of 1980 Art.15 Act No.15 of 1984 Art
 
 (4)   Parliament shall enact a law stipulating basic rules of ethics for public leaders which shall be complied with by all persons holding public office which shall be specified by such law.
 
-- Basic rules of ethics for public leaders shall -
+(5) Basic rules of ethics for public leaders shall -
 
 (a) spell  out  public  offices  the  holders  of  which  shall  be  subject thereto;
 
@@ -2811,23 +3130,21 @@ Public Leaders' Ethics Secretariat Act No.1 of 1980 Art.15 Act No.15 of 1984 Art
 
 [[START OF PAGE 78]]
 
-Joint Finance Account Act No.15 of 1984 Art.42 G.N.No.133 of 2001
-
-Joint Finance Commission Act No.15 of 1984 Art.42
-
-Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art.43
-
 ## CHAPTER SEVEN
 ## PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
 
 ### PART I
 ### CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
-133. The  Government  of  the  United  Republic  shall  maintain  a  special account to be known as 'the Joint Finance Account', and which shall form part of the  Consolidated  Fund  of  the  United  Republic  into  which  shall  be  paid  all  the moneys  contributed  by  the  two  Governments  in  such  proportions  as  shall  be determined by the Joint Finance Commission in accordance with a law enacted by Parliament for the purposes of the business of the United Republic in relation to Union Matters.
+Joint Finance Account Act No.15 of 1984 Art.42 G.N.No.133 of 2001
 
-134. -(1) There  is hereby established  a  Joint  Finance  Commission consisting  of  not  more  than  seven  members  who  shall  be  appointed  by  the President in accordance with this Article and the provisions of a law enacted  by Parliament.
+133. The Government of the United Republic shall maintain a special account to be known as 'the Joint Finance Account', and which shall form part of the Consolidated Fund of the United Republic into which shall be paid all the moneys contributed by the two Governments in such proportions as shall be determined by the Joint Finance Commission in accordance with a law enacted by Parliament for the purposes of the business of the United Republic in relation to Union Matters.
 
-- The functions of the Commission shall be -
+Joint Finance Commission Act No.15 of 1984 Art.42
+
+134.-(1) There is hereby established a Joint Finance Commission consisting of not more than seven members who shall be appointed by the President in accordance with this Article and the provisions of a law enacted by Parliament.
+
+(2) The functions of the Commission shall be -
 
 (a) to analyze the revenue and expenditure arising from, or relating to the management of affairs concerning Union Matters, and to make recommendations to the two Governments concerning the contribution by, and the allocation to each of the Governments;
 
@@ -2839,7 +3156,9 @@ Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art
 
 ### THE CONSOLIDATED FUND AND THE FINANCES OF THE UNITED REPUBLIC
 
-135. -(1)      All  revenue  derived  from  various  sources  for  the  use  of  the Government of the United Republic, except for the type of revenue specified in subarticle (2) of this Article, shall be paid into one special fund to be known as the Consolidated Fund of the Government of the United Republic.
+Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art.43
+
+135.-(1) All revenue derived from various sources for the use of the Government of the United Republic, except for the type of revenue specified in subarticle (2) of this Article, shall be paid into one special fund to be known as the Consolidated Fund of the Government of the United Republic.
 
 (2)   The revenue which shall not be paid into the Consolidated Fund of the Government of the United Republic is that which has been specified by law to be used for a specified purpose or to be paid into another fund for special use.
 
@@ -2851,9 +3170,7 @@ Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art
 
 Conditions for withdrawal of moneys from Consolidated Fund Act No.15 of 1984 Art.43
 
-Procedure for authorization of expenditure of moneys from the Consolidated Fund Act No.15 of 1984 Art.43
-
-136. -(1)    Moneys  shall  not  be  paid  out  of  the  Consolidated  Fund  of  the Government of the United Republic for expenditure save in accordance with the following terms:
+136.-(1) Moneys shall not be paid out of the Consolidated Fund of the Government of the United Republic for expenditure save in accordance with the following terms:
 
 (a) such  money  should  be  for  the  purpose  of  expenditure  which  has been authorized to be charged upon the Consolidated Fund of the Government of the United Republic by this Constitution or by any other law; and
 
@@ -2861,19 +3178,21 @@ Procedure for authorization of expenditure of moneys from the Consolidated Fund 
 
 (2)      Moneys  in  any  special  fund  of  the  Government  other  than  the Consolidated  Fund of the Government of the United Republic shall not be paid out for expenditure unless and until such expenditure has been authorized by law.
 
-(3)   Moneys in the Consolidated Fund of the Government of the United Republic shall not be paid out of that Fund for the purpose of expenditure unless and  until  such  expenditure  has  been  approved  by  the  Controller  and  AuditorGeneral,  and  also  on  condition  that  such  money  shall  have  been  paid  out  in accordance with a procedure prescribed for that purpose pursuant to a law enacted by Parliament.
+(3) Moneys in the Consolidated Fund of the Government of the United Republic shall not be paid out of that Fund for the purpose of expenditure unless and until such expenditure has been approved by the Controller and Auditor-General, and also on condition that such money shall have been paid out in accordance with a procedure prescribed for that purpose pursuant to a law enacted by Parliament.
 
-137. -(1)      The  President  shall  give  directives  to  persons  concerned  to prepare and submit to the National Assembly in each Government financial year estimates  of  the  revenue  and  expenditure  of  the  Government  of  the  United Republic for the next financial year.
+Procedure for authorization of expenditure of moneys from the Consolidated Fund Act No.15 of 1984 Art.43
+
+137.-(1) The President shall give directives to persons concerned to prepare and submit to the National Assembly in each Government financial year estimates of the revenue and expenditure of the Government of the United Republic for the next financial year.
 
 (2) After the National Assembly  has  approved  the  estimates  of expenditure (apart from the expenditure charged on the Consolidated Fund by this Constitution or by any other law) a Bill to be known as an Appropriation Bill shall be introduced into the National Assembly for the purpose of authorizing the issue from the Consolidated Fund of the sums necessary to meet the expenditure for the various activities of the Government involved in those estimates.
 
-- Where in any financial year it is found that -
+(3) Where in any financial year it is found that -
 
 (a) the amount of money appropriated by the Appropriation Act for a certain  purpose  is  insufficient  or  it  has  been  necessary  to  incur expenditure in respect of an activity for which no amount has been appropriated  under the Act; or
 
 (b) money has been expended for  a  certain  purpose  in  excess  of  the amount appropriated for it by the Appropriation Act or that money has  been  expended  for  a  purpose  for  which  no  amount  was appropriated under the Act,
 
-there shall be presented before the National Assembly a supplementary estimate or, as the case may be, a statement of excess, and after the National Assembly has approved  the  supplementary  estimate  or  the  statement  of  excess , there  shall  be introduced into the National Assembly a supplementary Appropriation Bill for the purpose  of  authorizing  the  issue  of  funds  from  the  Consolidated  Fund  of  the G overnment of the United Republic, and such moneys shall be used to meet the Conditions of taxation Act No.15 of 1984 Art.43
+there shall be presented before the National Assembly a supplementary estimate or, as the case may be, a statement of excess, and after the National Assembly has approved the supplementary estimate or the statement of excess, there shall be introduced into the National Assembly a supplementary Appropriation Bill for the purpose of authorizing the issue of funds from the Consolidated Fund of the Government of the United Republic, and such moneys shall be used to meet the
 
 79
 
@@ -2881,23 +3200,23 @@ there shall be presented before the National Assembly a supplementary estimate o
 
 [[START OF PAGE 80]]
 
-Procedure for authorization of expenditure in advance of appropriation Act Act  No.15 of 1984 Art.43
+cost of the activities involved in the supplementary estimates or statement of excess.
 
-Contingencies Fund and virement Act No.15 of 1984 Art.43
+Conditions of taxation Act No.15 of 1984 Art.43
 
-Public Debt Act No.15 of 1984 Art.43
-
-cost  of  the  activities  involved  in  the  supplementary  estimates  or  statement  of excess.
-
-138. -(1)   No tax of any kind shall be imposed save in accordance with a law  enacted  by  Parliament  or  pursuant  to  a  procedure  lawfully  prescribed  and having the force of law by virtue of a law enacted by Parliament.
+138.-(1) No tax of any kind shall be imposed save in accordance with a law enacted by Parliament or pursuant to a procedure lawfully prescribed and having the force of law by virtue of a law enacted by Parliament.
 
 (2)      The  provisions  contained  in  subarticle  (1)  of  this  Act  shall  not preclude the House of Representatives of Zanzibar from exercising its powers to impose tax of any kind in accordance with the authority of that House.
 
-139. -(1)      Parliament  may  enact  a  law  providing  for  the  authorization  of expenditure  of  moneys  from  the  Consolidated  Fund  of  the  Government  of  the United Republic in accordance with a procedure prescribed in sub-article (2) of this Article.
+Procedure for authorization of expenditure in advance of appropriation Act Act No.15 of 1984 Art.43
+
+139.-(1) Parliament may enact a law providing for the authorization of expenditure of moneys from the Consolidated Fund of the Government of the United Republic in accordance with a procedure prescribed in sub-article (2) of this Article.
 
 (2)      Where  the  financial  year  of  the  Government  has  begun  and  the Appropriation Act in relation to that  year has not come into operation, then the President may authorize the issue of moneys from the Consolidated Fund of the Government of the United Republic for the purposes of meeting the expenses of essential business of the Government, and such moneys shall be expended until the expiration of four months from the beginning of the financial year, or until the Appropriation Act comes into operation, depending whichever occurs earlier.
 
-140. -(1)   Parliament may enact a law providing for the following:
+Contingencies Fund and virement Act No.15 of 1984 Art.43
+
+140.-(1) Parliament may enact a law providing for the following:
 
 (a) the  establishment  of  a  Contingencies  Fund  and  authorizing  the President or a Minister appointed by the President in that behalf to borrow money from that Fund to meet the costs of an urgent and unforeseen need for which no funds had been provided; and
 
@@ -2905,9 +3224,11 @@ cost  of  the  activities  involved  in  the  supplementary  estimates  or  stat
 
 (2)      Where  money  has  been  borrowed  from  the  Contingencies  Fund  or money specifically appropriated for a certain purpose is applied to meet the costs of  an  urgent  and  unforeseen  need,  then  there  shall  be  presented  before  the National Assembly supplementary estimates, and after the National Assembly has approved the supplementary estimates, a supplementary Appropriation Bill which shall be introduced into the National Assembly for the purpose of authorizing such additional expenditure shall ensure that any moneys borrowed from the Contingencies  Fund  shall  be  reimbursed  from  the  moneys  the  expenditure  of which shall be authorized by that Bill
 
-141 .-(1)   The public debt of the United Republic shall be secured on the Consolidated Fund of the Government of the United Republic.
+Public Debt Act No.15 of 1984 Art.43
 
-(2)   For the purposes of interpretation of this Article, 'the public debt' means the debt itself and also the interest charged on it, sinking fund payments in Remuneration of certain holders of public offices to be a charge on Consolidated Fund Act No.15 of 1984 Art.43
+141.-(1) The public debt of the United Republic shall be secured on the Consolidated Fund of the Government of the United Republic.
+
+(2) For the purposes of interpretation of this Article, 'the public debt' means the debt itself and also the interest charged on it, sinking fund payments in
 
 80
 
@@ -2915,11 +3236,11 @@ cost  of  the  activities  involved  in  the  supplementary  estimates  or  stat
 
 [[START OF PAGE 81]]
 
-Controller and Auditor General of the United Republic Act No.14 of 1979 Art.11 Act No.15 of 1984 Art.43
+respect of that debt and the costs, charges and expenses incidental to the management of that debt.
 
-respect  of  that  debt  and  the  costs,  charges  and  expenses  incidental  to  the management of that debt.
+Remuneration of certain holders of public offices to be a charge on Consolidated Fund Act No.15 of 1984 Art.43
 
-142. -(1)   Holders of public office to whom the provisions of this Article apply shall be paid salaries and allowances as shall be prescribed by a law enacted by a Parliament.
+142.-(1) Holders of public office to whom the provisions of this Article apply shall be paid salaries and allowances as shall be prescribed by a law enacted by a Parliament.
 
 (2)   The moneys for the salaries and allowances payable to the holders of offices  to  whom  the  provisions  of  this  Article  apply  together  with  pension  and gratuity for those entitled to such payments shall be a charge on the Consolidated Fund of the Government of the United Republic.
 
@@ -2927,9 +3248,11 @@ respect  of  that  debt  and  the  costs,  charges  and  expenses  incidental  t
 
 (4)     Where the holder of a public office to whom the provisions of this Article apply has the option to choose the salary or the terms and conditions of service, then for the purpose of construing the provisions of subarticle (3) of this Article, the salary, the terms and conditions of service which he chooses shall be deemed to be more beneficial to him than any other salary or terms and conditions of service which he could have opted for.
 
-(5)      The  provisions  of  this  Article  shall  apply  to  a  Justice  of  Appeal,  a Judge of the High Court of the United Republic, the Chairman and every member of the Commission from Human Rights and Good Governance and the Controller and Auditor General of the G overnment of the United Republic.
+(5) The provisions of this Article shall apply to a Justice of Appeal, a Judge of the High Court of the United Republic, the Chairman and every member of the Commission from Human Rights and Good Governance and the Controller and Auditor General of the Government of the United Republic.
 
-143. -(1)   There shall be a Controller and Auditor-General of the United Republic.
+Controller and Auditor General of the United Republic Act No.14 of 1979 Art.11 Act No.15 of 1984 Art.43
+
+143.-(1) There shall be a Controller and Auditor-General of the United Republic.
 
 (2)   The Controller and Auditor-General shall have the responsibility over the following matters:
 
@@ -2945,8 +3268,6 @@ respect  of  that  debt  and  the  costs,  charges  and  expenses  incidental  t
 
 [[START OF PAGE 82]]
 
-Removal from office of Controller and AuditorGeneral Act No.15 of 1984 Art.43 Act No.12 of 1995 Art.19
-
 Republic and the accounts of all courts of the United Republic and the accounts managed by the Clerk of the National Assembly.
 
 (3)      The  Controller  and  Auditor-General  and  every  employee  of  the Government  who  is  authorized  by  him  shall  have  the  right  to  examine  books records, statements of accounts, reports and all other documents concerning any type of account referred to in subarticle (2) of this Article.
@@ -2957,7 +3278,9 @@ Republic and the accounts of all courts of the United Republic and the accounts 
 
 (6)   In the performance of his functions in accordance with the provisions of subarticles (2), (3) and (4) of this Article, the Controller and Auditor-General shall not be obliged to comply with the order or direction of any other person or Government Department, but the provisions of this subarticle shall not preclude a court  from  exercising  jurisdiction  to  enquire  into  whether  the  Controller  and Auditor-General has discharged his functions in accordance with the provisions of this Constitution or not.
 
-144.(1)      Without  prejudice  to  the  other  provisions  of  this  Article,  the Controller and Auditor-General of the United Republic shall be obliged to vacate office upon attaining the age of sixty or any other age which shall be prescribed by a law enacted by Parliament.
+Removal from office of Controller and Auditor-General Act No.15 of 1984 Art.43 Act No.12 of 1995 Art.19
+
+144.-(1) Without prejudice to the other provisions of this Article, the Controller and Auditor-General of the United Republic shall be obliged to vacate office upon attaining the age of sixty or any other age which shall be prescribed by a law enacted by Parliament.
 
 (2)   The Controller and Auditor-General may be removed from office only for inability to perform the functions of his office (either due to illness or to any other  reason)  or  for  misbehaviour  or  for  violating  the  provisions  of  the  law concerning  the  ethics  of  public  leaders  and  shall  not  be  so  removed  except  in accordance with the provisions of subarticle (4) of this Article.
 
@@ -2970,10 +3293,6 @@ Republic and the accounts of all courts of the United Republic and the accounts 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
-
-The local authorities
-
-government Act No.15 of 1984 Art.50 Functions of Local Government Authorities Act No.15 of 1984 Art.50
 
 Court of Appeal in any country within the Commonwealth; and
 
@@ -2990,11 +3309,15 @@ Court of Appeal in any country within the Commonwealth; and
 ## CHAPTER EIGHT
 ## PUBLIC AUTHORITIES
 
-145. -(1)   There shall be established local government authorities in each region, district, urban area and village in the United Republic, which shall be of the type and designation prescribed by law to be enacted by Parliament or by the House of Representatives.
+The local government authorities Act No.15 of 1984 Art.50
+
+145.-(1) There shall be established local government authorities in each region, district, urban area and village in the United Republic, which shall be of the type and designation prescribed by law to be enacted by Parliament or by the House of Representatives.
 
 (2)   Parliament or the House of Representatives, as the case may be, shall enact a law providing for the establishment of local government authorities, their structure  and  composition,  sources of  revenue  and  procedure  for  the  conduct  of their business.
 
-146. -(1)   The purpose of having local government authorities is to transfer authority  to  the  people.    Local  government  authorities  shall  have  the  right  and power to participate, and to involve the people, in the planning and implementation  of  development  programmes  within  their  respective  areas  and generally throughout the country.
+Functions of Local Government Authorities Act No.15 of 1984 Art.50
+
+146.-(1) The purpose of having local government authorities is to transfer authority to the people. Local government authorities shall have the right and power to participate, and to involve the people, in the planning and implementation of development programmes within their respective areas and generally throughout the country.
 
 (2)   Without prejudice to the generality of subarticle (1) of this Article, a local government  authority, in  conformity with the provisions of the  law establishing it, shall have the following functions:
 
@@ -3006,10 +3329,6 @@ Court of Appeal in any country within the Commonwealth; and
 
 [[START OF PAGE 84]]
 
-Prohibition to raise and maintain armed forces Act No.15 of 1984 Art.49 Act No.4 of 1992 Art.36 G.N.No.133 of 2001
-
-Powers of Commander inChief Act No.15 of 1984 Art.49
-
 (b) to ensure the enforcement of law and public safety of the people; and
 
 (c) to consolidate  democracy  within  its area and  to apply  it to accelerate the development of the people.
@@ -3017,7 +3336,9 @@ Powers of Commander inChief Act No.15 of 1984 Art.49
 ## CHAPTER NINE
 ## THE ARMED FORCES
 
-147. -(1)   It is hereby prohibited for any person or any organization or any group  of  persons  except  the  Government  to  raise  or  maintain  in  Tanzania  an armed force of any kind.
+Prohibition to raise and maintain armed forces Act No.15 of 1984 Art.49 Act No.4 of 1992 Art.36 G.N.No.133 of 2001
+
+147.-(1) It is hereby prohibited for any person or any organization or any group of persons except the Government to raise or maintain in Tanzania an armed force of any kind.
 
 (2)   The Government of the United Republic may, in accordance with law, raise and maintain in Tanzania armed forces of various types for the purposes of the defence and security of the territory and the people of Tanzania.
 
@@ -3025,7 +3346,9 @@ Powers of Commander inChief Act No.15 of 1984 Art.49
 
 (4)      For  the  purposes  of  this  Article,  the  expression  'member  of  the defence  and  security  forces'  means  a  member  in  the  service  of  the  Defence Forces, the Police Force, the Prisons Service or the National Service, whether on temporary or permanent terms.
 
-148. -(1)      Without  prejudice  to  the  provisions  of  any  law  enacted  by Parliament,  among  the  powers  of  the  President  as  Commander-in-Chief  of  the Armed Forces is to command the Armed Forces to engage in military operations connected with the defence of the United Republic, rescue operations to save life and property in times of emergency and other matters which the Commander-inChief  shall  deem  necessary,  and  to  that  end  the  Commander-in  -Chief  may command the Armed Forces to engage in those operations in or outside Tanzania.
+Powers of Commander in-Chief Act No.15 of 1984 Art.49
+
+148.-(1) Without prejudice to the provisions of any law enacted by Parliament, among the powers of the President as Commander-in-Chief of the Armed Forces is to command the Armed Forces to engage in military operations connected with the defence of the United Republic, rescue operations to save life and property in times of emergency and other matters which the Commander-in-Chief shall deem necessary, and to that end the Commander-in-Chief may command the Armed Forces to engage in those operations in or outside Tanzania.
 
 (2)   Without prejudice to the provisions of a law enacted by Parliament, power over the following matters shall vest in the Commander-in-Chief, that is to say:
 
@@ -3045,14 +3368,12 @@ Powers of Commander inChief Act No.15 of 1984 Art.49
 
 [[START OF PAGE 85]]
 
-Provisions relating to designation from various offices established by this Constitution Act No.1 of 1980 Art.16 Act No.15 of 1984 Art.52 Act No.4 of 1992 Art.37
-
-Provisions relating to procedure of succession to office in Government service
-
 ## CHAPTER TEN
 ## MISCELLANEOUS PROVISIONS
 
-149. -(1)   Any person holding any office established by this Constitution (including  the  office  of  Minister,  Deputy  Minister,  or  Member  of  Parliament, except  an  ex-officio  Member  of  Parliament)  may  resign  by  giving  notice  in writing and signed by him, in accordance with the following procedure:
+Provisions relating to designation from various offices established by this Constitution Act No.1 of 1980 Art.16 Act No.15 of 1984 Art.52 Act No.4 of 1992 Art.37
+
+149.-(1) Any person holding any office established by this Constitution (including the office of Minister, Deputy Minister, or Member of Parliament, except an ex-officio Member of Parliament) may resign by giving notice in writing and signed by him, in accordance with the following procedure:
 
 (a) if  such  person  was  appointed  or  nominated  by  one  person,  then such  notice  of  resignation  shall  be  submitted  to  the  person  who appointed  or  nominated  him,  or  where  he  was  appointed,  or nominated  by  a  body  of  persons,  then  such  notice  of  resignation shall be submitted to that body of persons;
 
@@ -3068,7 +3389,9 @@ Provisions relating to procedure of succession to office in Government service
 
 (4)      Nothing  in  the  provisions  of  subarticle  (3)  shall  preclude  a  person holding the office of President from being re-elected to that office while he holds the office of President.
 
-150. -(1) For the purpose of interpreting the provisions of this Constitution  in  relation  to  the  procedure  of  appointment  to  the  service  of  the Government of the United Republic, it is hereby declared that any person having power pursuant to this Constitution to appoint or nominate another person to hold a certain office has also the power to appoint or nominate a person to act in, or to temporarily perform the functions of, that office:
+Provisions relating to procedure of succession to office in Government service
+
+150.-(1) For the purpose of interpreting the provisions of this Constitution in relation to the procedure of appointment to the service of the Government of the United Republic, it is hereby declared that any person having power pursuant to this Constitution to appoint or nominate another person to hold a certain office has also the power to appoint or nominate a person to act in, or to temporarily perform the functions of, that office:
 
 85
 
@@ -3088,9 +3411,25 @@ Provided that these provisions shall not apply to the offices of  Minister, Depu
 
 (c) where  pursuant  to  provisions  of  this  Constitution  a  person  is appointed to act in or to perform the functions of a certain office when  the  substantive  holder  of  that  office  fails  to  perform  the duties connected with that office, then it shall not be permitted to inquire into or to make any representations against such appointment on the ground that the substantive holder did not fail to perform the duties connected with that office.
 
-Interpretation
---- | ---
-Act No.15 of 1984, Art.51 and Art.53 Act No.4 of 1992, Art.38 Act No.3 of 2000 Art.19 G.N.No.133 of 2001 Act No.1 | 151. -(1) In this Constitution unless the context otherwise requires - 'military law' means a law or command issued pursuant to a law regulating discipline in a Force; 'member of armed force' when used in connection with any armed force, includes any member of the armed force who in accordance with the military law of the Force, is subject to the discipline of that Force; 'the House of Representatives' means the House of Representatives of Zanzibar referred to in Article 106 of this Constitution and which performs its functions in accordance with this Constitution and the Constitution of Zanzibar, 1984; 'Parliament' means the Parliament of the United Republic referred to in Article 62 of this Constitution;
+Interpretation Act No.15 of 1984, Art.51 and Art.53 Act No.4 of 1992, Art.38 Act No.3 of 2000 Art.19 G.N.No.133 of 2001 Act No.1 of 2005 Art.25
+
+151.-(1) In this Constitution unless the context otherwise requires -
+
+'military law' means a law or command issued pursuant to a law regulating discipline in a Force;
+
+'member of armed force' when used in connection with any armed force, includes any member of the armed force who in accordance with the military law of the Force, is subject to the discipline of that Force;
+
+'the House of Representatives' means the House of Representatives of Zanzibar referred to in Article 106 of this Constitution and which performs its functions in accordance with this Constitution and the Constitution of Zanzibar, 1984;
+
+'Parliament' means the Parliament of the United Republic referred to in Article 62 of this Constitution;
+
+'Political Party' means a political party which has been granted full registration in accordance with the Political Parties Act, 1992;
+
+'Judiciary' has the meaning ascribed to it in subarticle (1) of Article 116 of this Constitution;
+
+'Judiciary of Zanzibar' means the Zanzibar Judiciary which includes all the courts within the Revolutionary Government of Zanzibar;
+
+'Chief Justice' means the Chief Justice of the Court of Appeal who is specified appointed and whose functions are prescribed in Article 118 of this Constitution;
 
 86
 
@@ -3098,13 +3437,13 @@ Act No.15 of 1984, Art.51 and Art.53 Act No.4 of 1992, Art.38 Act No.3 of 2000 A
 
 [[START OF PAGE 87]]
 
-Cap.512 (1965 Edition)
-
-'Chief Justice of Zanzibar' means the Chief Justice of the High Court of Zanzibar who,  pursuant  to  the  Constitution  of  Zanzibar,  1984,  is  the  head  of  the Zanzibar Judiciary;
+'Chief Justice of Zanzibar' means the Chief Justice of the High Court of Zanzibar who, pursuant to the Constitution of Zanzibar, 1984, is the head of the Zanzibar Judiciary;
 
 'Force' means any of the armed forces and includes any other force established by this Constitution or in accordance with law and which is governed by military law;
 
-'Commonwealth'  means  the  organization  whose  members  include  the  United Republic  and  every  country  to  which  the  provisions  of  section  7  of  the Citizenship Act, 1961, apply;
+Cap.512 (1965 Edition)
+
+'Commonwealth' means the organization whose members include the United Republic and every country to which the provisions of section 7 of the Citizenship Act, 1961, apply;
 
 'Oath' shall have the meaning ordinarily ascribed to it and includes any formal declaration permitted by law to be used instead of an oath;
 
@@ -3142,7 +3481,7 @@ Cap.512 (1965 Edition)
 
 'Ujamaa' or 'Ujamaa and Self Reliance' means the society's life principles for building a Nation that observes  democracy, self reliance, freedom, equality, fraternity and unity of the peoples of the United Republic;
 
-'Minister'  means  a  Member  of  Parliament  appointed  to  the  office  of  Minister, except Deputy Minister, and that definition shall also apply to the VicePresident;
+'Minister' means a Member of Parliament appointed to the office of Minister, except Deputy Minister, and that definition shall also apply to the Vice-President;
 
 'Zanzibar' has the same meaning as Tanzania Zanzibar.
 
@@ -3166,17 +3505,17 @@ Cap.512 (1965 Edition)
 
 [[START OF PAGE 89]]
 
-Title, commencement and application of this Constitution Act No.15 of 1984 Art.52
-
 remove the holder of an office in the service of the Government of the United Republic, it shall be construed that the power concerned includes the power conferred in accordance with the provisions of any law which requires or permits that person to retire:
 
 Provided  that  the  provisions  of  this  rule shall  not  be construed as conferring power on any person to require a Justice of the Court of Appeal, a Judge of the High Court or the Controller and Auditor-General to retire from office; and
 
 (g) in  this  Constitution,  wherever  there  is  reference  to  a  law  which replaces or repeals another law, it shall be construed that the law concerned  includes  a  law  which  amends  that  other  law  or  which extends the application of that other law whether with or without modification  or  amendment,  or  a  law  which  introduces  new provisions in another law.
 
-152. -(1)   This Constitution may be cited as the Constitution of the United Republic of Tanzania, 1977.
+Title, commencement and application of this Constitution Act No.15 of 1984 Art.52
 
-(2)   This Constitution came into operation on the 26 th of April, 1977.
+152.-(1) This Constitution may be cited as the Constitution of the United Republic of Tanzania, 1977.
+
+(2) This Constitution came into operation on the 26th of April, 1977.
 
 (3)    This  Constitution  shall  apply  to  Mainland  Tanzania  as  well  as Tanzania Zanzibar.
 
@@ -3198,49 +3537,49 @@ ______
 
 ### UNION MATTERS
 
-- The Constitution of Tanzania and the Government of the United Republic.
+1. The Constitution of Tanzania and the Government of the United Republic.
 
-- Foreign Affairs.
+2. Foreign Affairs.
 
-- Defence and Security.
+3. Defence and Security.
 
-- Police.
+4. Police.
 
-- Emergency Powers.
+5. Emergency Powers.
 
-- Citizenship.
+6. Citizenship.
 
-- Immigration.
+7. Immigration.
 
-- External borrowing and trade.
+8. External borrowing and trade.
 
-- Service in the Government of the United Republic.
+9. Service in the Government of the United Republic.
 
-- Income tax payable by individuals and by corporations, customs duty and excise duty on goods manufactured in Tanzania collected by the Customs Department.
+10. Income tax payable by individuals and by corporations, customs duty and excise duty on goods manufactured in Tanzania collected by the Customs Department.
 
-- Harbours, matters relating to air transport, posts and telecommunications.
+11. Harbours, matters relating to air transport, posts and telecommunications.
 
-- All matters concerning coinage and currency for the purposes of legal tender (including notes), banks (including savings banks) and all banking business; foreign exchange and exchange control.
+12. All matters concerning coinage and currency for the purposes of legal tender (including notes), banks (including savings banks) and all banking business; foreign exchange and exchange control.
 
-- Industrial licensing and statistics.
+13. Industrial licensing and statistics.
 
-- Higher education.
+14. Higher education.
 
-- Mineral oil resources, including crude oil other categories of oil or products and natural gas.
+15. Mineral oil resources, including crude oil other categories of oil or products and natural gas.
 
-- The National Examinations Council of Tanzania and all matters connected with the functions of that Council.
+16. The National Examinations Council of Tanzania and all matters connected with the functions of that Council.
 
-- Civil aviation.
+17. Civil aviation.
 
-- Research.
+18. Research.
 
-- Meteorology.
+19. Meteorology.
 
-- Statistics.
+20. Statistics.
 
-- The Court of Appeal of the United Republic.
+21. The Court of Appeal of the United Republic.
 
-- Registration of political parties and other matters related to political parties.
+22. Registration of political parties and other matters related to political parties.
 
 90
 
@@ -3258,9 +3597,12 @@ _______
 
 [Referred to in Article 98(1)(a)]
 
-Cap.500 (1965 Edition) | (Laws the amendment of which requires to be supported by at least two-thirds of all Members of Parliament) The Republic of Tanganyika (Consequential, Transitional and Temporary Provisions) Act, 1962 Sections 3, 17, 18, 23 and 26
---- | ---
-Cap 508 | The Judicial Service Act, 1962, [Repealed by Act No.2 of 2005]. The Immigration Act, 1995 [the whole Act.]
+(Laws the amendment of which requires to be supported by at least two-thirds of all Members of Parliament)
+
+Cap.500 (1965 Edition) | The Republic of Tanganyika (Consequential, Transitional and Temporary Provisions) Act, 1962 Sections 3, 17, 18, 23 and 26
+Cap 508 | The Judicial Service Act, 1962, [Repealed by Act No.2 of 2005].
+ | The Immigration Act, 1995 [the whole Act.]
+ | The Citizenship Act, 1995 [The whole Act]
 Cap.509 | The Civil Service Act, 1962, [Repealed by Act No.8 of 2002].
 Cap.557 (1965 Edition) | The whole Act of Union between Tanganyika and Zanzibar of 1964.
 
@@ -3270,21 +3612,21 @@ Cap.557 (1965 Edition) | The whole Act of Union between Tanganyika and Zanzibar 
 
 (Matters the amendment of which requires to be supported by two-thirds of all Members of Parliament from Mainland Tanzania and two-thirds of all Members of Parliament from Tanzania Zanzibar).
 
-- The existence of the United Republic.
+1. The existence of the United Republic.
 
-- The existence of the Office of President of the United Republic.
+2. The existence of the Office of President of the United Republic.
 
-- The Authority of the Government of the United Republic.
+3. The Authority of the Government of the United Republic.
 
-- The existence of the Parliament of the United Republic.
+4. The existence of the Parliament of the United Republic.
 
-- The Authority of the Government of Zanzibar.
+5. The Authority of the Government of Zanzibar.
 
-- The High Court of Zanzibar.
+6. The High Court of Zanzibar.
 
-- The list of Union Matters.
+7. The list of Union Matters.
 
-- The number of Members of Parliament from Zanzibar.
+8. The number of Members of Parliament from Zanzibar.
 
 _______________
 
