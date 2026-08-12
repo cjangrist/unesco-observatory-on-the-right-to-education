@@ -13,11 +13,64 @@ Port-au-Prince Décembre 2013
 
 ## Table des matières
 
+AVANT PROPOS (PROPOSITION QUI SERA SOUMISE AU MINISTRE POUR VALIDATION)........................................... 4
+LISTE DES SIGLES ET ABRÉVIATIONS.......................................................................................................................... 6
+LISTE DES FIGURES .................................................................................................................................................... 8
+GRAPHIQUES.................................................................................................................................................................... 8
+TABLEAUX ....................................................................................................................................................................... 8
+LISTE DES ANNEXES................................................................................................................................................. 11
+INTRODUCTION ...................................................................................................................................................... 12
+CHAPITRE 1 CONTEXTE-DIAGNOSTIC DU SYSTÈME ÉDUCATIF HAÏTIEN................................................................ 14
+1.1 DESCRIPTION DU SYSTÈME ÉDUCATIF HAÏTIEN.............................................................................................................. 14
+1.1.1 Secteur formel......................................................................................................................................... 14
+1.1.2 Secteur non formel.................................................................................................................................. 16
+1.2 ELÉMENTS DE DIAGNOSTIC SUR LE SYSTÈME ÉDUCATIF HAÏTIEN ....................................................................................... 16
+1.2.1 L'état de l'offre d'éducation en Haïti....................................................................................................... 16
+1.2.2 L’efficacité interne du système éducatif ................................................................................................. 19
+1.2.3 La qualité de l'éducation en Haïti ........................................................................................................... 20
+1.2.4 L'efficacité externe du système éducatif................................................................................................. 21
+1.2.5 La gouvernance du secteur éducatif ....................................................................................................... 22
+1.3 ANALYSE DU FINANCEMENT ET DES COÛTS DE L'ÉDUCATION EN HAÏTI............................................................................... 22
+1.3.1 Les dépenses globales d’éducation ......................................................................................................... 23
+1.3.2 Le financement de l’Etat ......................................................................................................................... 28
+1.3.3 Les dépenses d’éducation des familles ................................................................................................... 32
+1.3.4 L’apport des PTF et des bailleurs internationaux .................................................................................... 36
+1.3.5 Analyse des coûts de l’éducation ............................................................................................................ 36
+CHAPITRE 2 AXES ET DOMAINES D’INTERVENTION ............................................................................................. 40
+2.1 AXE 1 – VERS L'UNIVERSALISATION DE L’ENSEIGNEMENT DE BASE................................................................................... 43
+2.1.1 Objectif 1- Promouvoir le développement de la petite enfance et de l'enseignement préscolaire ......... 43
+2.1.2 Objectif 2- Améliorer l’accès et la qualité dans le fondamental 1 et 2 ................................................... 47
+2.1.3 Objectif 3- Promouvoir l'alphabétisation et la post-alphabétisation...................................................... 58
+2.2 AXE 2 – AMÉLIORATION DE L’ACCÈS ET DE LA QUALITÉ DANS LES AUTRES NIVEAUX D’ENSEIGNEMENT..................................... 60
+2.2.1 Objectif 4- Accroître l’accès et l'achèvement au niveau du troisième cycle du fondamental ................. 60
+2.2.2 Objectif 5- Accroître l’accès et la rétention dans le secondaire général de 4 ans................................... 64
+2.2.3 Objectif 6- Améliorer l'accès et la gouvernance au niveau de l'enseignement supérieur....................... 67
+2.2.4 Objectif 7- Améliorer l'accès et la gouvernance au niveau de la formation technique et professionnelle. 71
+2.2.5 Objectif 8-Renforcement de l’éducation spéciale ................................................................................... 75
+2.3 AXE 3 – RENFORCEMENT INSTITUTIONNEL ................................................................................................................. 78
+2.3.1 Objectif 9- Améliorer le système d’information et les capacités de pilotage du MENFP ........................ 78
+2.3.2 Objectif 10- Améliorer la GRH et les conditions de travail des personnels du système .......................... 81
+CHAPITRE 3 COÛTS ET FINANCEMENT DU PIPE ................................................................................................... 83
+3.1 CADRAGE GLOBAL DU PIPE ..................................................................................................................................... 83
+3.2 COÛTS ................................................................................................................................................................ 90
+3.2.1 Répartition des coûts.............................................................................................................................. 90
+3.2.2 Coûts de l’axe 1....................................................................................................................................... 91
+
 2 | P a g e
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+3.2.3 Coûts de l’axe 2....................................................................................................................................... 95
+3.2.4 Coûts de l’axe 3....................................................................................................................................... 99
+CHAPITRE 4 STRATEGIE DE MISE EN OEUVRE .....................................................................................................100
+4.1 PRINCIPES D’ORIENTATION ET CADRE INSTITUTIONNEL ................................................................................................ 100
+4.1.1 Principes directeurs de la mise en œuvre.............................................................................................. 100
+4.1.2 Le dispositif institutionnel de mise en œuvre........................................................................................ 102
+4.1.3 Les mécanismes d'appui, de gestion, de communication et de suivi-évaluation .................................. 105
+4.2 EXÉCUTION DES GRANDES INTERVENTIONS................................................................................................................ 109
+ANNEXES ...............................................................................................................................................................119
 
 3 | P a g e
 
@@ -31,7 +84,7 @@ La constitution haïtienne garantit le droit à l'éducation de base à tous les
 
 Le Ministère de l'Education Nationale et de la Formation Professionnelle (MENFP), ayant le mandat de formuler et de mettre en œuvre les politiques éducatives, a élaboré en mai 2010 le plan de mise en œuvre des 33 recommandations pour 2010-2015 (PO). Ce plan structuré en neuf (9) axes d'intervention touche tous les aspects de la refondation du système éducatif. Les  neuf  axes  d'intervention  concernent :  (i)  la  gouvernance  générale  du  secteur ;  (ii)  les savoirs  enseignés  et  les  curricula ;  (iii)  la  formation  et  le  perfectionnement  des  diverses catégories du personnel du secteur ; (iv) la prise en charge de la petite enfance, des 4-5 ans du préscolaire, ainsi que l'obligation scolaire aux trois cycles du fondamental ; (v) la mise en place de l'enseignement secondaire général de 4 ans ; (vi) la consolidation et l'extension du réseau  des  centres  et  des  établissements  de  formation  professionnelle  et  technique  en renforçant  la  gouvernance  du  sous-secteur ;  (vii)  la  modernisation  du  sous-secteur  de l'enseignement supérieur ; (viii) la réhabilitation et le renforcement de l'éducation spéciale et ; (ix) l'éradication du phénomène de l'analphabétisme touchant les 16 ans et plus.
 
-La revue sectorielle réalisée en février de cette année a informé du faible taux d'exécution du Plan Opérationnel 2010-2015 soulignant deux éléments responsables de cette situation : la mobilisation des financements  plus faible que  prévu  et un rythme  d'exécution des interventions  insuffisant du ministère. Dans un souci de maximiser l'atteinte des objectifs fixés  dans  le  PO,  le  Ministère  a  décidé  de  procéder  à  un  exercice  de  priorisation  des interventions programmées tenant compte des données à jour et des expériences à date. La priorité est accordée à l'universalisation de l'enseignement de base et au renforcement des capacités de pilotage et de mise en œuvre du Ministère. Parallèlement, des mesures visant l'amélioration de l'accès et de la qualité dans les autres niveaux d'enseignement sont aussi adoptées.
+La revue sectorielle réalisée en février de cette année a informé du faible taux d'exécution du Plan Opérationnel 2010-2015 soulignant deux éléments responsables de cette situation : la
 
 > 1  Pour un Pacte national sur l'Education en Haïti, Rapport au Président de la République, Port-au-Prince, Haïti, Août 2010.
 
@@ -40,6 +93,8 @@ La revue sectorielle réalisée en février de cette année a informé du faible
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+mobilisation des financements plus faible que prévu et un rythme d’exécution des interventions insuffisant du ministère. Dans un souci de maximiser l’atteinte des objectifs fixés dans le PO, le Ministère a décidé de procéder à un exercice de priorisation des interventions programmées tenant compte des données à jour et des expériences à date. La priorité est accordée à l'universalisation de l'enseignement de base et au renforcement des capacités de pilotage et de mise en œuvre du Ministère. Parallèlement, des mesures visant l'amélioration de l'accès et de la qualité dans les autres niveaux d’enseignement sont aussi adoptées.
 
 Dans  le but de conduire cet exercice, j'ai mis en place une task force constituée principalement des cadres du ministère appuyés de consultants nationaux et internationaux. Je me réjouis, tant en mon nom personnel qu'en celui du Ministère, des propositions faites dans ce document visant particulièrement l'accélération de l'universalisation de l'enseignement  de  base,  l'amélioration  de  l'efficacité  interne  et  le  renforcement  de  la gouvernance.
 
@@ -59,6 +114,45 @@ Ministre de l'Education Nationale et de la Formation Professionnelle
 
 ## LISTE DES SIGLES ET ABRÉVIATIONS
 
+BDS Bureau de District Scolaire
+BIZ Bureau d'Inspection de Zone
+CFP Centre de Formation Professionnelle
+CME Commission Municipale d'Education
+CPE Comité des Parents d'Elèves
+CSN Comité Stratégique National
+CSR Country Status Report
+CTN Comité Technique National
+DAA Direction des Affaires Administratives
+DDE Direction Départementale d'Education
+DT Direction Technique
+ECVH Enquête sur les Conditions de Vie en Haïti
+EMMUS Enquête Mortalité, Morbidité et Utilisation des Services
+ENF Education Non Formelle
+FMI Fonds Monétaire International
+FNE Fonds National pour l'Education
+FTP Formation Technique et Professionnelle
+GRH Gestion des Ressources Humaines
+GSE Groupe Sectoriel de l'Education
+GT Groupe de Travail
+GTEF Groupe de Travail sur l'Education et la Formation
+IHSI Institut Haïtien de Statistique et d'Informatique
+INFP Institut National de la Formation Professionnelle
+MENFP Ministère de l’Éducation Nationale et de la Formation Professionnelle
+NTIC Nouvelles Technologies de l'Information et de la Communication
+OCDE Organisation de Coopération et de Développement Economiques
+OLPC One Laptop Per Child
+ONG Organisation Non Gouvernementale
+PAA Plan d'Action Annuel
+PIB Produit Intérieur Brut
+PO Plan Opérationnel
+PIP Programme d’investissement public
+PIPE Programme d’Interventions Prioritaires en Educaton (PIPE)
+PSUGO Programme de Scolarisation universelle Gratuite et Obligatoire
+PTF Partenaire Technique et Financier
+SNA Stratégie Nationale d'Action
+RGPH Recensement Général de la Population et de l’Habitat
+TBA Taux Brut d'Accès
+
 6 | P a g e
 
 [[END OF PAGE 6]]
@@ -77,17 +171,71 @@ TBS Taux Brut de Scolarisation TNS Taux Net de Scolarisation TBF Taux Brut de Fr
 
 ### Graphiques
 
+Graphique 1 : Evolution des parts du budget exécuté de l'Etat (fonds du Trésor public) consacré à l'éducation .............................................................................................................................................................29
+Graphique 2 : Populations de déscolarisés et de scolarisés dans le fondamental 1&2....................52
+Graphique 3 : Financement du PIPE.................................................................................................................89
+
+### Tableaux
+
+Tableau 1 : Répartition des écoles, élèves et des moniteurs par département dans le préscolaire (public et non-public) – 2010/11 ......................................................................................................................17
+Tableau 2 : Répartition des écoles, élèves et des moniteurs par département dans le fondamentale 1&2 (public et non-public) – 2010/11.................................................................................18
+Tableau 3 : Répartition des écoles et des élèves par département dans le secondaire (public et non-public) – 2010/11 ..........................................................................................................................................18
+Tableau 4 : Dépenses courantes d’éducation 2010/11 Estimations (000 $)......................................26
+Tableau 5 : Dépenses courantes d’éducation 2012/13 Estimations (000 $)......................................27
+Tableau 6 : Budget de l’Etat (millions de gourdes courantes) ................................................................30
+Tableau 7 : Matrice des coûts pour les cinq années du projet PSUGO millions de gourdes et millions de $ entre parenthèses..........................................................................................................................32
+Tableau 8 : Estimation des dépenses annuelles d’éducation des familles, par élève, dépenses d’alimentation non comprises............................................................................................................................33
+Tableau 9 : Evolution de l’aide extérieure à l’éducation en Haïti Déboursements de 2000 à 2011, estimations et prévisions au-delà (en millions de $ courants)................................................................36
+Tableau 10 : Taux d’encadrement, Dépenses de personnel et coûts unitaires dans les établissements publics (dépenses d’administration non comprises) – estimation 2010/11.........37
+Tableau 11 : Indicateurs du Cadre indicatif Fast Track* ..........................................................................41
+
 8 | P a g e
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+Tableau 12 : Principaux indicateurs du PIPE*..............................................................................................42
+Tableau 13 : Petite enfance et préscolaire – Indicateurs..........................................................................45
+Tableau 14 : Petite enfance et préscolaire – Programme d’action........................................................46
+Tableau 15 : Répartition par âge des nouveaux entrants en 1e année fondamentale....................49
+Tableau 16 : Fondamental 1er et 2e cycles – Indicateurs.........................................................................55
+Tableau 17 : Fondamental 1er et 2e cycles – Programme d’action.......................................................56
+Tableau 18 : Alphabétisation et ENF – Indicateurs.....................................................................................58
+Tableau 19 : Alphabétisation et ENF – Programme d’action ..................................................................59
+Tableau 20 : Fondamental 3 – Indicateurs....................................................................................................62
+Tableau 21 : Fondamental 3 – Programme d’action..................................................................................63
+Tableau 22 : Secondaire général de 4 ans – Indicateurs...........................................................................65
+Tableau 23 : Secondaire général de 4 ans – Programme d’action.........................................................66
+Tableau 24 : Supérieur – Indicateurs...............................................................................................................68
+Tableau 25 : Supérieur – Programme d’action.............................................................................................69
+Tableau 26 : FTP – Indicateurs..........................................................................................................................72
+Tableau 27 : FTP – Programme d’action ........................................................................................................73
+Tableau 28 : Education spéciale – Programme d’action...........................................................................76
+Tableau 29 : Renforcement institutionnel – Programme d’action.........................................................79
+Tableau 30 : Interventions prioritaires pour Améliorer la GRH et les conditions de travail des personnels..................................................................................................................................................................82
+Tableau 31 : Financement du PIPE – Tableau simplifié (millions de $ 2011)....................................84
+Tableau 32 : Evolution des effectifs scolarisés (public + non-public)....................................................85
+Tableau 33 : Coûts unitaires (dépenses courantes) du public (US$).....................................................85
+Tableau 34 : Financement du PIPE – Tableau détaillé (millions de $ 2011)......................................87
+
 9 | P a g e
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+Tableau 35 : Sommation des tableaux de programme d’action .............................................................88
+Tableau 36 : Répartition des coûts du PIPE selon les niveaux d’enseignement.................................91
+Tableau 37 : PIPE Préscolaire (millions de $ 2011)....................................................................................92
+Tableau 38 : PIPE Fondamental 1&2...............................................................................................................94
+Tableau 39 : PIPE Alphabétisation et ENF.....................................................................................................95
+Tableau 40 : PIPE Fondamental 3.....................................................................................................................96
+Tableau 41 : PIPE Secondaire.............................................................................................................................97
+Tableau 42 : PIPE Supérieur ...............................................................................................................................98
+Tableau 43 : PIPE FTP...........................................................................................................................................99
+Tableau 44 : PIPE Administration.....................................................................................................................99
+Tableau 45 : Eléments de mise en œuvre des grandes interventions du PIPE ................................ 110
 
 10 | P a g e
 
@@ -121,13 +269,15 @@ La  mise  en  œuvre  effective  de  ce  plan  requiert  une  enveloppe  de  4,3
 
 Partant de ces constats, le Ministère de l'Education Nationale et de la Formation Professionnelle (MENFP) s'est engagé à élaborer un Programme d'Interventions Prioritaires en Educaton (PIPE) couvrant la période 2013-2016. Il s'agit d'identifier dans chaque axe du PO les interventions clés dont la mise en œuvre maximise l'atteinte des objectifs du Plan. Le PIPE  touche  tous  les  aspects  du  secteur,  il  ne  fait  que  réarticuler  sous  trois  axes  les interventions de chacun des neuf axes du PO jugés prioritaires pour la période 2013-2016.
 
-Le PIPE est élaboré par une task force composée de cadres du ministère selon une démarche participative  invitant  tous  les  autres  acteurs  du  secteur  impliqués  initialement  dans l'élaboration du PO à se prononcer sur cet exercice de priorisation. Ilest structuré de sorte à permettre  au  gouvernement  de  se  focaliser  sur  l'atteinte  des  objectifs  du  millénaire  en éducation,  spécifiquement  la  scolarisation  universelle  et  l'équité  dans  les  deux  premiers cycles  du  fondamental,  tout  en  améliorant  les  autres  niveaux  d'enseignement  ainsi  que  la gouvernance du secteur.
+Le PIPE est élaboré par une task force composée de cadres du ministère selon une démarche participative invitant tous les autres acteurs du secteur impliqués initialement dans
 
 12 | P a g e
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+l'élaboration du PO à se prononcer sur cet exercice de priorisation. Ilest structuré de sorte à permettre au gouvernement de se focaliser sur l'atteinte des objectifs du millénaire en éducation, spécifiquement la scolarisation universelle et l'équité dans les deux premiers cycles du fondamental, tout en améliorant les autres niveaux d'enseignement ainsi que la gouvernance du secteur.
 
 Le  PIPE  comprend quatre (4) chapitres: Le premier  rappelle et actualise  succinctement le diagnostic  du  secteur  présenté  dans  le  chapitre  un  (1)  du  PO,  le  second  traite  des  axes d'interventions  prioritaires,  le  troisième  discute  des  coûts  nécessaires  à  la  réalisation  des interventions programmées et le quatrième présente les orientations et le cadre institutionnel  de  mise  en  œuvre  ainsi  que  des  éléments  sur  l'exécution  des  grandes interventions.
 
@@ -153,13 +303,15 @@ L'éducation de la petite enfance concerne les enfants de 0 à 5 ans. Elle est d
 
 ##### Enseignement fondamental
 
-L'enseignement fondamental accueille les enfants de 6  à  14 ans. Il  dure  9 années  et  il  est constitué de 3 cycles : le premier de 4 ans, le deuxième de 2 ans et le troisième de 3 ans. Il a pour  objectif  d'amener  le  maximum  d'élèves  à  un  niveau  de  connaissances  générales, scientifiques et techniques par la maîtrise des outils de base essentiels à leur accession au niveau  secondaire  ou  à  leur  insertion  dans  le  monde  du  travail  au  travers  des  filières préprofessionnelles  du  3e  cycle.  Dans  ce  niveau  d'enseignement,  les  élevés  sont  soumis  à deux examens nationaux d'Etat: le premier conditionne le passage du second au troisième et le second, à la fin du troisième cycle, détermine le passage à l'enseignement secondaire. En 2011, les 1er et 2e cycles du fondamental comptaient 13 599 écoles (dont 1 688 publiques et 11 911 non publiques).
+L'enseignement fondamental accueille les enfants de 6  à  14 ans. Il  dure  9 années  et  il  est constitué de 3 cycles : le premier de 4 ans, le deuxième de 2 ans et le troisième de 3 ans. Il a pour  objectif  d'amener  le  maximum  d'élèves  à  un  niveau  de  connaissances  générales,
 
 14 | P a g e
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+scientifiques et techniques par la maîtrise des outils de base essentiels à leur accession au niveau secondaire ou à leur insertion dans le monde du travail au travers des filières préprofessionnelles du 3e cycle. Dans ce niveau d'enseignement, les élevés sont soumis à deux examens nationaux d'Etat: le premier conditionne le passage du second au troisième et le second, à la fin du troisième cycle, détermine le passage à l'enseignement secondaire. En 2011, les 1er et 2e cycles du fondamental comptaient 13 599 écoles (dont 1 688 publiques et 11 911 non publiques).
 
 ##### Enseignement secondaire
 
@@ -169,7 +321,7 @@ Actuellement, cette innovation est en expérimentation dans certaines écoles du
 
 ##### Enseignement supérieur
 
-L'enseignement  supérieur  comprend  l'enseignement  universitaire  et  l'enseignement  non universitaire.  L'enseignement  universitaire,  de  portée  générale,  est  dispensé  dans  une université  et  d'autres  établissements  assimilés  reconnus  par  l'Etat.  Les  enseignements durent entre 3 à 6 ans et sont sanctionnés par la délivrance de la licence. Des efforts sont développés par l'Université d'Etat d'Haïti (UEH) et d'autres universités pour l'organisation de l'encadrement  des  étudiants  afin  de  les  préparer  à  l'obtention  de  la  maîtrise  puis  du Doctorat.  L'enseignement  supérieur  non  universitaire  est  d'orientation  essentiellement pratique et a pour but de développer la capacité de l'étudiant à se placer sur le marché du travail. L'accès à l'enseignement supérieur universitaire et non universitaire est subordonné à la possession du Bac II ou son équivalent. Selon l'établissement sollicité, le bachelier peut en plus être amené à subir un test ou un concours d'admission.
+L'enseignement  supérieur  comprend  l'enseignement  universitaire  et  l'enseignement  non universitaire.  L'enseignement  universitaire,  de  portée  générale,  est  dispensé  dans  une université  et  d'autres  établissements  assimilés  reconnus  par  l'Etat.  Les  enseignements durent entre 3 à 6 ans et sont sanctionnés par la délivrance de la licence. Des efforts sont développés par l'Université d'Etat d'Haïti (UEH) et d'autres universités pour l'organisation de l'encadrement  des  étudiants  afin  de  les  préparer  à  l'obtention  de  la  maîtrise  puis  du Doctorat.  L'enseignement  supérieur  non  universitaire  est  d'orientation  essentiellement
 
 15 | P a g e
 
@@ -177,9 +329,11 @@ L'enseignement  supérieur  comprend  l'enseignement  universitaire  et  l'ensei
 
 [[START OF PAGE 16]]
 
+pratique et a pour but de développer la capacité de l’étudiant à se placer sur le marché du travail. L’accès à l’enseignement supérieur universitaire et non universitaire est subordonné à la possession du Bac II ou son équivalent. Selon l’établissement sollicité, le bachelier peut en plus être amené à subir un test ou un concours d'admission.
+
 #### 1.1.2 Secteur non formel
 
-Le  secteur  non  formel  concerne  l'alphabétisation  de  base  et  la  post-alphabétisation. L'alphabétisation de base vise à donner aux apprenants des compétences en lecture, écriture et calcul. La post-alphabétisation vise l'apprentissage sur un métier par les néo alphabétisés. Les campagnes d'alphabétisation sont menées tant par l'entité publique en charge du soussecteur - à savoir, présentement, la Secrétairerie d'Etat à l'Alphabétisation (SEA) - que par des opérateurs non publics ou privés (ONG). Les formations sont dispensées généralement en  créole  par  des  moniteurs,  souvent  bénévoles,  dans  divers  locaux  de  fortune -  écoles, églises, etc. -, soit de façon présentielle, soit à travers la radio (MENFP, 2007).
+Le  secteur  non  formel  concerne  l'alphabétisation  de  base  et  la  post-alphabétisation. L'alphabétisation de base vise à donner aux apprenants des compétences en lecture, écriture et calcul. La post-alphabétisation vise l'apprentissage sur un métier par les néo alphabétisés. Les campagnes d'alphabétisation sont menées tant par l'entité publique en charge du sous-secteur – à savoir, présentement, la Secrétairerie d'Etat à l'Alphabétisation (SEA) – que par des opérateurs non publics ou privés (ONG). Les formations sont dispensées généralement en  créole  par  des  moniteurs,  souvent  bénévoles,  dans  divers  locaux  de  fortune –  écoles, églises, etc. –, soit de façon présentielle, soit à travers la radio (MENFP, 2007).
 
 Ce secteur comprend également les cours du soir destinés aux enfants déscolarisés ou non scolarisés, sur la base des programmes du système formel. Il est géré par une entité relevant de la Direction de l'Enseignement Fondamental du MENFP.
 
@@ -195,9 +349,11 @@ Le  système  éducatif  haïtien  est  caractérisé  par  une  offre  inéquit
 
 [[START OF PAGE 17]]
 
-Département | Ecoles | Elèves | Salles | Classes | Tonnelles | Moniteurs
+Tableau 1 : Répartition des écoles, élèves et des moniteurs par département dans le préscolaire (public et non-public) – 2010/11
+
+Département | Ecoles | Elèves |  | Salles | Classes | Tonnelles | Moniteurs
 --- | --- | --- | --- | --- | --- | --- | ---
-Total | dont Filles
+ |  | Total | dont Filles |  |  |  |
 Ouest | 3 844 | 210 269 | 105 518 | 5 786 | 9 624 | 641 | 9 168
 Sud-Est | 488 | 27 984 | 13 305 | 447 | 1 073 | 33 | 826
 Nord | 880 | 52 484 | 26 580 | 1 035 | 2 083 | 140 | 1 895
@@ -210,11 +366,9 @@ Nord-Ouest | 510 | 28 695 | 14 651 | 490 | 1 043 | 59 | 998
 Nippes | 303 | 13 385 | 6 680 | 413 | 569 | 34 | 556
 Ensemble | 9 355 | 544 474 | 271 785 | 12 032 | 21 529 | 1 184 | 19 851
 
-Tableau 1 : Répartition des écoles, élèves et des moniteurs par département dans le préscolaire (public et non-public) - 2010/11
-
 Recensement scolaire 2010-2011, MENFP
 
-Dans les deux premiers cycles du fondamental ainsi que dans l'enseignement du 3e cycle et du secondaire, les écoles publiques représentent 12% du parc scolaire. Les deux premiers cycles  du  fondamental  comptent  13 599  écoles  et  2 210 221  élèves  dont  1 090 027  filles (parmi ces élèves 0,14% sont des handicapés). Le secteur public accueille 22% de ces élèves (soit  486 620  élèves)  contre  78%  (soit  1 723 601)  pour  le  secteur  non  public.  Ce  niveau d'enseignement  compte  70 009  enseignants  dont  28%  sont  des  femmes.  Dans  le  secteur public, 27% des enseignants sont des normaliens, contre 13% dans le secteur non public .
+Dans les deux premiers cycles du fondamental ainsi que dans l'enseignement du 3e cycle et du secondaire, les écoles publiques représentent 12% du parc scolaire. Les deux premiers cycles  du  fondamental  comptent  13 599  écoles  et  2 210 221  élèves  dont  1 090 027  filles (parmi ces élèves 0,14% sont des handicapés). Le secteur public accueille 22% de ces élèves (soit  486 620  élèves)  contre  78%  (soit  1 723 601)  pour  le  secteur  non  public.  Ce  niveau d'enseignement  compte  70 009  enseignants  dont  28%  sont  des  femmes.  Dans  le  secteur public, 27% des enseignants sont des normaliens, contre 13% dans le secteur non public.
 
 17 | P a g e
 
@@ -222,9 +376,11 @@ Dans les deux premiers cycles du fondamental ainsi que dans l'enseignement du 3e
 
 [[START OF PAGE 18]]
 
-Département | Ecoles | Elèves | salles | Classes | Tonnelles | Enseignants
+Tableau 2 : Répartition des écoles, élèves et des moniteurs par département dans le fondamentale 1&2 (public et non-public) – 2010/11
+
+Département | Ecoles | Elèves |  | salles | Classes | Tonnelles | Enseignants
 --- | --- | --- | --- | --- | --- | --- | ---
-Total | Dont filles
+ |  | Total | Dont filles |  |  |  |
 Ouest | 4 876 | 718 907 | 360 712 | 18 558 | 25 815 | 720 | 25 947
 Sud-Est | 777 | 127 910 | 62 487 | 2 322 | 3 913 | 45 | 4 003
 Nord | 1 340 | 231 168 | 115 312 | 4 332 | 6 456 | 115 | 6 915
@@ -237,15 +393,15 @@ Nord-Ouest | 949 | 159 681 | 77 757 | 3 009 | 5 033 | 89 | 4 986
 Nippes | 504 | 81 949 | 38 625 | 2 016 | 2 417 | 44 | 2 550
 Ensemble | 13 599 | 2 210 221 | 1 090 027 | 47 341 | 68 593 | 1 409 | 70 009
 
-Tableau 2 : Répartition des écoles, élèves et des moniteurs par département dans le fondamentale 1&2 (public et non-public) - 2010/11
-
 Recensement scolaire 2010-2011, MENFP
 
 Le nombre d'écoles fondamentales du 3e cycle et du secondaire, recensés à travers le pays est  de  3 477  écoles,  on  y  compte  624 095  élèves,  dont  313 932  filles,  soit  50,3%.  Les établissements publics, même lorsqu'ils sont moins nombreux que ceux du privé, accueillent beaucoup plus d'élèves. 23% des écoles nationales de troisième cycle et des lycées comptent moins de 150 élèves contre 52% dans le privé.
 
-Département | Ecoles | Elèves | Classes | Tonnelles
+Tableau 3 : Répartition des écoles et des élèves par département dans le secondaire (public et non-public) – 2010/11
+
+Département | Ecoles | Elèves |  | Classes | Tonnelles
 --- | --- | --- | --- | --- | ---
-Total | Dont filles
+ |  | Total | Dont filles |  |
 Ouest | 1 758 | 284 779 | 146 924 | 7 835 | 130
 Sud-Est | 157 | 23 705 | 11 851 | 636 | 5
 Nord | 282 | 70 820 | 34 779 | 1 369 | 2
@@ -257,8 +413,6 @@ Grand-Anse | 112 | 19 167 | 10 113 | 424 | 4
 Nord-Ouest | 173 | 34 449 | 17 291 | 669 | 3
 Nippes | 89 | 18 279 | 9 079 | 402 | 0
 Ensemble | 3 477 | 624 095 | 313 932 | 14 850 | 161
-
-Tableau 3 : Répartition des écoles et des élèves par département dans le secondaire (public et non-public) - 2010/11
 
 Recensement scolaire 2010-2011, MENFP
 
@@ -344,7 +498,7 @@ A une ou deux exceptions mineures près, la présente analyse du financement et 
 
 Pour 2010/11, les dépenses globales d'éducation sont estimées, toutes sources de financement confondues, y compris donc les dépenses des familles, à 600 millions de $ pour les dépenses courantes et 100 millions de $ pour l'investissement.
 
-Les dépenses courantes représentent ainsi 8% du PIB. Cet effort absolu d'éducation est très important, quoiqu'estimé avec une marge d'erreur qui peut être de plus ou moins un point de pourcentage.  On  peut  en  identifier  trois  causes :  une  demande  forte  d'éducation,  qui  se manifeste notamment dans la scolarisation de très nombreux surâgés 4  (43% au fondamental 1&2, en 2010/11) ; des dépenses de l'Etat  élevées  malgré  une  offre  publique d'éducation relativement faible ; une aide extérieure relativement importante. Précisons tout de suite que nous avons inclus dans les dépenses courantes deux rubriques importantes de l'aide  extérieure :  l'aide  alimentaire  et  les  subventions  aux  écoles  non  publiques.  Ce  choix s'explique  ainsi :  on  range  traditionnellement  l'aide  extérieure  dans  l'investissement,  bien qu'elle finance souvent, pour une part, des dépenses de fonctionnement. Cette convention est acceptable si cette part n'est pas trop importante et si le caractère récurrent de ces dépenses n'est pas trop prononcé. Ce n'est pas le cas de la nutrition scolaire et des subventions aux écoles non publiques. En l'absence de telles subventions, il serait notamment nécessaire de réévaluer à la hausse les contributions des familles, qui entrent, elles, indéniablement dans la mesure de l'effort absolu. Cela dit, si l'on retire toute aide extérieure des dépenses courantes, la part de celles-ci dans le PIB - 7% - reste élevée.
+Les dépenses courantes représentent ainsi 8% du PIB. Cet effort absolu d'éducation est très important, quoiqu'estimé avec une marge d'erreur qui peut être de plus ou moins un point de
 
 > 2  Les deux annuaires publiés précédents datent de 1996/97 et 2002/03.
 
@@ -356,13 +510,15 @@ Les dépenses courantes représentent ainsi 8% du PIB. Cet effort absolu d'éduc
 
 [[START OF PAGE 24]]
 
+pourcentage. On peut en identifier trois causes : une demande forte d’éducation, qui se manifeste notamment dans la scolarisation de très nombreux surâgés 4 (43% au fondamental 1&2, en 2010/11) ; des dépenses de l’Etat élevées malgré une offre publique d’éducation relativement faible ; une aide extérieure relativement importante. Précisons tout de suite que nous avons inclus dans les dépenses courantes deux rubriques importantes de l’aide extérieure : l’aide alimentaire et les subventions aux écoles non publiques. Ce choix s’explique ainsi : on range traditionnellement l’aide extérieure dans l’investissement, bien qu’elle finance souvent, pour une part, des dépenses de fonctionnement. Cette convention est acceptable si cette part n’est pas trop importante et si le caractère récurrent de ces dépenses n’est pas trop prononcé. Ce n’est pas le cas de la nutrition scolaire et des subventions aux écoles non publiques. En l’absence de telles subventions, il serait notamment nécessaire de réévaluer à la hausse les contributions des familles, qui entrent, elles, indéniablement dans la mesure de l’effort absolu. Cela dit, si l’on retire toute aide extérieure des dépenses courantes, la part de celles-ci dans le PIB – 7% – reste élevée.
+
 ##### Les dépenses courantes
 
 Le Tableau 4 présente la répartition des dépenses courantes par source de financement et par catégorie de dépenses en 2010/11. La précision apparente des chiffres ne doit pas faire illusion : il ne faut retenir que les ordres de grandeur.
 
 L'éducation est principalement financée par les familles (66%) ; l'Etat n'en finance que 22%, et  l'aide,  12%  pour  les  seules  dépenses  d'alimentation,  de  subvention  aux  écoles  non publiques  et  d'alphabétisation.  Les  dépenses  ont  principalement  lieu  dans  le  secteur  non public (69%) qui est tout de même financé à concurrence de 15% par l'aide et l'Etat.
 
-Il importe de relativiser ces constats, en raison de l'incertitude des données que nous avons déjà  signalée,  mais  aussi  parce  que  le  schéma  de  financement  est  en  train  de  changer sensiblement. Le Tableau 5 est établi pour 2012/13 sur des estimations et en supposant que l'exécution des dépenses sera complète, mais la transformation du schéma de financement est nette : la part du financement de l'Etat passe de 22% à 29%.
+Il importe de relativiser ces constats, en raison de l'incertitude des données que nous avons déjà  signalée,  mais  aussi  parce  que  le  schéma  de  financement  est  en  train  de  changer sensiblement. Le Tableau 5 est établi pour 2012/13 sur des estimations et en supposant que
 
 > 4  Les  élèves  sont  dits  surâgés  lorsque  leur  âge  excède  de  trois  ans  l'âge  normal  dans  l'année  d'études  qu'ils fréquentent. Ce phénomène remarquable résulterait de l'impossibilité pour de nombreuses familles pauvres de mettre simultanément à l'école tous leurs enfants en âge de la fréquenter.
 
@@ -371,6 +527,8 @@ Il importe de relativiser ces constats, en raison de l'incertitude des données 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+l'exécution des dépenses sera complète, mais la transformation du schéma de financement est nette : la part du financement de l'Etat passe de 22% à 29%.
 
 Qu'il s'agisse de 2010/11 ou de 2012/13, deux autres constats importants doivent être faits : environ la moitié des dépenses est destinée à l'enseignement préscolaire et primaire, ce qui est  assez  conforme  à  ce  que  l'on  observe  dans  les  pays  au  niveau  de  développement comparable  à  celui  d'Haïti,  mais  dans  le  secteur  public  l'Etat  le  finance  beaucoup  moins qu'ailleurs, en termes relatifs s'entend. Autre constat, le poids du supérieur est relativement faible, notamment dans les dépenses financées par l'Etat. Toutefois, il faut le redire, c'est un constat,  établi  sur  des  estimations  très  grossières,  qui  reste  à  confirmer  par  une  véritable étude coûts et financement.
 
@@ -381,43 +539,42 @@ Enfin, les dépenses des familles sont, elles aussi, évaluées très approximat
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+Tableau 4 : Dépenses courantes d'éducation 2010/11 Estimations (000 $)
 
-Etat | Familles | Aide | Total | %
+ | | Etat | Familles | Aide | Total | %
 --- | --- | --- | --- | --- | --- | ---
 Public | Préscolaire | 5 513 | 856 | 0 | 6 369 | 3%
-Fondamental 1&2 | 47 948 | 21 898 | 0 | 69 846 | 37%
-Fondamental 3 | 16 305 | 8 445 | 0 | 24 750 | 13%
-Secondaire | 8 237 | 4 363 | 0 | 12 600 | 7%
-FTP | 4 163 | 564 | 0 | 4 727 | 3%
-Supérieur | 13 317 | 14 130 | 0 | 27 447 | 15%
-Santé-Nutrition | 3 376 | 15 530 | 18 906 | 10%
-Administration & autre | 23 598 | 110 | 23 708 | 13%
-Total | 122 457 | 50 256 | 15 640 | 188 352 | 100%
-% → | 65% | 27% | 8% | 100%
-% ↓ | 93% | 12% | 22% | 31%
+ | Fondamental 1&2 | 47 948 | 21 898 | 0 | 69 846 | 37%
+ | Fondamental 3 | 16 305 | 8 445 | 0 | 24 750 | 13%
+ | Secondaire | 8 237 | 4 363 | 0 | 12 600 | 7%
+ | FTP | 4 163 | 564 | 0 | 4 727 | 3%
+ | Supérieur | 13 317 | 14 130 | 0 | 27 447 | 15%
+ | Santé-Nutrition | 3 376 |  | 15 530 | 18 906 | 10%
+ | Administration & autre | 23 598 |  | 110 | 23 708 | 13%
+ | Total | 122 457 | 50 256 | 15 640 | 188 352 | 100%
+ | % → | 65% | 27% | 8% | 100% |
+ | % ↓ | 93% | 12% | 22% | 31% |
 Non public | Préscolaire | 0 | 35 374 | 0 | 35 374 | 8%
-Fondamental 1&2 | 9 244 | 152 338 | 23 000 | 184 583 | 44%
-Fondamental 3 | 0 | 50 201 | 0 | 50 201 | 12%
-Secondaire | 40 462 | 0 | 40 462 | 10%
-FTP | 4 853 | 0 | 4 853 | 1%
-Supérieur | 70 649 | 0 | 70 649 | 17%
-Santé-Nutrition | 0 | 33 324 | 33 324 | 8%
-Total | 9 244 | 353 877 | 56 324 | 419 445 | 100%
-% → | 2% | 84% | 13% | 100%
-% ↓ | 7% | 88% | 78% | 69%
+ | Fondamental 1&2 | 9 244 | 152 338 | 23 000 | 184 583 | 44%
+ | Fondamental 3 | 0 | 50 201 | 0 | 50 201 | 12%
+ | Secondaire |  | 40 462 | 0 | 40 462 | 10%
+ | FTP |  | 4 853 | 0 | 4 853 | 1%
+ | Supérieur |  | 70 649 | 0 | 70 649 | 17%
+ | Santé-Nutrition | 0 |  | 33 324 | 33 324 | 8%
+ | Total | 9 244 | 353 877 | 56 324 | 419 445 | 100%
+ | % → | 2% | 84% | 13% | 100% |
+ | % ↓ | 7% | 88% | 78% | 69% |
 Total | Préscolaire | 5 513 | 36 230 | 0 | 41 743 | 7%
-Fondamental 1&2 | 57 192 | 174 236 | 23 000 | 254 428 | 42%
-Fondamental 3 | 16 305 | 58 645 | 0 | 74 950 | 12%
-Secondaire | 8 237 | 44 826 | 0 | 53 063 | 9%
-FTP | 4 163 | 5 417 | 0 | 9 580 | 2%
-Supérieur | 13 317 | 84 778 | 0 | 98 096 | 16%
-Santé-Nutrition | 3 376 | 0 | 48 854 | 52 230 | 9%
-Administration & autre | 23 598 | 0 | 110 | 23 708 | 4%
-Total | 131 701 | 404 133 | 71 964 | 607 798 | 100%
-% → | 22% | 66% | 12% | 100%
-% ↓ | 100% | 100% | 100% | 100%
-
-Tableau 4 : Dépenses courantes d'éducation 2010/11 Estimations (000 $)
+ | Fondamental 1&2 | 57 192 | 174 236 | 23 000 | 254 428 | 42%
+ | Fondamental 3 | 16 305 | 58 645 | 0 | 74 950 | 12%
+ | Secondaire | 8 237 | 44 826 | 0 | 53 063 | 9%
+ | FTP | 4 163 | 5 417 | 0 | 9 580 | 2%
+ | Supérieur | 13 317 | 84 778 | 0 | 98 096 | 16%
+ | Santé-Nutrition | 3 376 | 0 | 48 854 | 52 230 | 9%
+ | Administration & autre | 23 598 | 0 | 110 | 23 708 | 4%
+ | Total | 131 701 | 404 133 | 71 964 | 607 798 | 100%
+ | % → | 22% | 66% | 12% | 100% |
+ | % ↓ | 100% | 100% | 100% | 100% |
 
 Source propre
 
@@ -426,49 +583,48 @@ Source propre
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+Tableau 5 : Dépenses courantes d'éducation 2012/13 Estimations (000 $)
 
-Etat | Familles | Aide | Total | %
+ | | Etat | Familles | Aide | Total | %
 --- | --- | --- | --- | --- | --- | ---
 Public | Préscolaire | 5 655 | 1 085 | 0 | 6 740 | 3%
-Fondamental 1&2 | 57 538 | 21 801 | 0 | 79 339 | 36%
-Fondamental 3 | 21 060 | 10 596 | 0 | 31 656 | 14%
-Secondaire | 9 956 | 5 074 | 0 | 15 030 | 7%
-FTP | 5 352 | 683 | 0 | 6 035 | 3%
-Supérieur | 23 506 | 14 586 | 0 | 38 092 | 17%
-Santé-Nutrition | 4 312 | 12 732 | 17 043 | 8%
-Administration & autre | 29 079 | 0 | 29 079 | 13%
-Total | 156 459 | 53 825 | 12 732 | 223 015 | 100%
-% → | 70% | 24% | 6% | 100%
-% ↓ | 78% | 13% | 19% | 32%
+ | Fondamental 1&2 | 57 538 | 21 801 | 0 | 79 339 | 36%
+ | Fondamental 3 | 21 060 | 10 596 | 0 | 31 656 | 14%
+ | Secondaire | 9 956 | 5 074 | 0 | 15 030 | 7%
+ | FTP | 5 352 | 683 | 0 | 6 035 | 3%
+ | Supérieur | 23 506 | 14 586 | 0 | 38 092 | 17%
+ | Santé-Nutrition | 4 312 |  | 12 732 | 17 043 | 8%
+ | Administration & autre | 29 079 |  | 0 | 29 079 | 13%
+ | Total | 156 459 | 53 825 | 12 732 | 223 015 | 100%
+ | % → | 70% | 24% | 6% | 100% |
+ | % ↓ | 78% | 13% | 19% | 32% |
 Non public | Préscolaire | 0 | 42 508 | 0 | 42 508 | 9%
-Fondamental 1&2 | 44 490 | 142 186 | 23 000 | 209 676 | 45%
-Fondamental 3 | 0 | 62 937 | 0 | 62 937 | 13%
-Secondaire | 46 954 | 0 | 46 954 | 10%
-FTP | 4 853 | 0 | 4 853 | 1%
-Supérieur | 72 930 | 0 | 72 930 | 15%
-Santé-Nutrition | 476 | 30 801 | 31 278 | 7%
-Total | 44 966 | 372 368 | 53 801 | 471 135 | 100%
-% → | 10% | 79% | 11% | 100%
-% ↓ | 22% | 87% | 81% | 68%
+ | Fondamental 1&2 | 44 490 | 142 186 | 23 000 | 209 676 | 45%
+ | Fondamental 3 | 0 | 62 937 | 0 | 62 937 | 13%
+ | Secondaire |  | 46 954 | 0 | 46 954 | 10%
+ | FTP |  | 4 853 | 0 | 4 853 | 1%
+ | Supérieur |  | 72 930 | 0 | 72 930 | 15%
+ | Santé-Nutrition | 476 |  | 30 801 | 31 278 | 7%
+ | Total | 44 966 | 372 368 | 53 801 | 471 135 | 100%
+ | % → | 10% | 79% | 11% | 100% |
+ | % ↓ | 22% | 87% | 81% | 68% |
 Total | Préscolaire | 5 655 | 43 593 | 0 | 49 248 | 7%
-Fondamental 1&2 | 102 028 | 163 987 | 23 000 | 289 015 | 42%
-Fondamental 3 | 21 060 | 73 533 | 0 | 94 593 | 14%
-Secondaire | 9 956 | 52 028 | 0 | 61 984 | 9%
-FTP | 5 352 | 5 536 | 0 | 10 888 | 2%
-Supérieur | 23 506 | 87 516 | 0 | 111 022 | 16%
-Santé-Nutrition | 4 788 | 0 | 43 533 | 48 321 | 7%
-Administration & autre | 29 079 | 0 | 0 | 29 079 | 4%
-Total | 201 425 | 426 192 | 66 533 | 694 150 | 100%
-% → | 29% | 61% | 10% | 100%
-% ↓ | 100% | 100% | 100% | 100%
-
-Tableau 5 : Dépenses courantes d'éducation 2012/13 Estimations (000 $)
+ | Fondamental 1&2 | 102 028 | 163 987 | 23 000 | 289 015 | 42%
+ | Fondamental 3 | 21 060 | 73 533 | 0 | 94 593 | 14%
+ | Secondaire | 9 956 | 52 028 | 0 | 61 984 | 9%
+ | FTP | 5 352 | 5 536 | 0 | 10 888 | 2%
+ | Supérieur | 23 506 | 87 516 | 0 | 111 022 | 16%
+ | Santé-Nutrition | 4 788 | 0 | 43 533 | 48 321 | 7%
+ | Administration & autre | 29 079 | 0 | 0 | 29 079 | 4%
+ | Total | 201 425 | 426 192 | 66 533 | 694 150 | 100%
+ | % → | 29% | 61% | 10% | 100% |
+ | % ↓ | 100% | 100% | 100% | 100% |
 
 Source propre
 
 ##### Les dépenses en capital
 
-Les dépenses en capital sont trop variables pour être valablement décrites dans un tableau annuel.  Par  ailleurs,  elles  sont  principalement  financées  par  l'aide  extérieure  sur  laquelle nous allons revenir spécifiquement. Notons toutefois qu'elles ont été relativement importantes ces dernières années, entre autres pour contribuer à réparer les dégâts causés par  le  séisme  du  12  janvier  2010,  et  que  l'Etat  y  consacre  une  partie,  certes  relativement moins  importante,  de  ses  dépenses  courantes,  mais  non  négligeable,  comme  on  peut  le constater sur le Graphique 1 .
+Les dépenses en capital sont trop variables pour être valablement décrites dans un tableau annuel. Par ailleurs, elles sont principalement financées par l'aide extérieure sur laquelle nous allons revenir spécifiquement. Notons toutefois qu'elles ont été relativement importantes ces dernières années, entre autres pour contribuer à réparer les dégâts causés
 
 27 | P a g e
 
@@ -476,11 +632,13 @@ Les dépenses en capital sont trop variables pour être valablement décrites da
 
 [[START OF PAGE 28]]
 
+par le séisme du 12 janvier 2010, et que l'Etat y consacre une partie, certes relativement moins importante, de ses dépenses courantes, mais non négligeable, comme on peut le constater sur le Graphique 1.
+
 #### 1.3.2 Le financement de l'Etat
 
-Au cours des dix dernières années, bien qu'environ 77% des effectifs d'élèves et d'étudiants soient  scolarisés  dans  le  secteur  privé,  l'Etat  a  consacré  18%  de  son  budget  courant  à l'éducation. Ce pourcentage concerne les exécutions budgétaires et non les crédits. On a pu observer  une  nette  baisse  de  l'ensemble  des  crédits  pour  les  dépenses  courantes  et l'investissement au cours de cette même période, mais elle ne s'est pas concrétisée dans les dépenses  effectives ;  peut-être  en  raison  du  caractère  relativement  peu  compressible  des dépenses d'éducation, dont l'essentiel est constitué de salaires.
+Au cours des dix dernières années, bien qu'environ 77% des effectifs d'élèves et d'étudiants soient scolarisés dans le secteur privé, l'Etat a consacré 18% de son budget courant à l'éducation. Ce pourcentage concerne les exécutions budgétaires et non les crédits. On a pu observer une nette baisse de l'ensemble des crédits pour les dépenses courantes et l'investissement au cours de cette même période, mais elle ne s'est pas concrétisée dans les dépenses effectives ; peut-être en raison du caractère relativement peu compressible des dépenses d'éducation, dont l'essentiel est constitué de salaires.
 
-La  légère  tendance  à  la  baisse  de  l'effort  relatif  (dépenses  courantes)  de  l'Etat  pour l'éducation que l'on observe sur le Graphique 1 n'est pas significative et ceci d'autant moins que depuis 2011/12 s'ajoutent au budget de l'éducation de substantiels fonds, gérés dans le cadre d'un programme spécial, le PSUGO, intégralement voué à la scolarisation complète et gratuite  de  tous  les  enfants  de  6  à  12  ans,  essentiellement  via  l'octroi  d'une  subvention annuelle  de  90 $  par  enfant.  Ces  fonds,  financés  par  le  Trésor  public  et  d'autres  fonds  de contrepartie (taxes prélevées sur les appels téléphoniques et sur les transferts d'argent vers Haïti), ainsi que par les dons du gouvernement taïwanais, s'élèvent à 60 millions de $ par an, environ. S'agissant d'un programme spécial, ces fonds sont inscrits au PIP, mais ils financent indéniablement du fonctionnement, et leur comptabilisation comme tel porterait à 24% la part des ressources publiques intérieures consacrée aux dépenses courantes d'éducation.
+La légère tendance à la baisse de l'effort relatif (dépenses courantes) de l'Etat pour l'éducation que l'on observe sur le Graphique 1 n'est pas significative et ceci d'autant moins que depuis 2011/12 s'ajoutent au budget de l'éducation de substantiels fonds, gérés dans le cadre d'un programme spécial, le PSUGO, intégralement voué à la scolarisation complète et gratuite de tous les enfants de 6 à 12 ans, essentiellement via l'octroi d'une subvention annuelle de 90 $ par enfant. Ces fonds, financés par le Trésor public et d'autres fonds de contrepartie (taxes prélevées sur les appels téléphoniques et sur les transferts d'argent vers Haïti), ainsi que par les dons du gouvernement taïwanais, s'élèvent à 60 millions de $ par an, environ. S'agissant d'un programme spécial, ces fonds sont inscrits au PIP, mais ils financent indéniablement du fonctionnement, et leur comptabilisation comme tel porterait à 24% la part des ressources publiques intérieures consacrée aux dépenses courantes d'éducation.
 
 28 | P a g e
 
@@ -488,7 +646,21 @@ La  légère  tendance  à  la  baisse  de  l'effort  relatif  (dépenses  coura
 
 [[START OF PAGE 29]]
 
-Graphique 1 : Evolution des parts du budget exécuté de l'Etat (fonds du Trésor public) consacré à l'éducation
+Graphique 1 : Evolution des parts du budget exécuté
+de l'Etat (fonds du Trésor public) consacré à l'éducation
+
+ | Dépenses courantes | Investissement
+--- | --- | ---
+2002/03 | 19% | 6%
+2003/04 |  | 
+2004/05 | 20% | 3%
+2005/06 | 17% | 4%
+2006/07 | 18% | 6%
+2007/08 | 20% | 3%
+2008/09 | 17% | 4%
+2009/10 | 17% | 6%
+2010/11 | 17% | 8%
+2011/12 | 18% | 9%
 
 29 | P a g e
 
@@ -496,35 +668,36 @@ Graphique 1 : Evolution des parts du budget exécuté de l'Etat (fonds du Tréso
 
 [[START OF PAGE 30]]
 
-Personnel | Fonctionnement | Investissement
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Crédits | Exécution | Crédits | Exécution | PIP (avec financement de la coopération) | Dont PIP sur financement interne (Trésor et autres fonds de contrepartie) | Exécution nationale
-2010/11 | MENFP Dont INFP Dont supérieur | 4 437 173 | 3 865 | 1 561 26 | 1 007 | 5 170 95 48 | 711 | 591
-UEH | 446 | 449 | 191 | 70 | 40
-2011/12 | MENFP Dont INFP Dont supérieur | 4 566 173 | 4 337 | 1 752 36 | 1 456 | 13 062 10 668 | 3 223 | 1 374
-UEH | 455 | 456 | 203 | 100 | 30
-2012/13 | MENFP Dont INFP Dont supérieur | 5 185 187 | 1 827 36 | 12 022 10 753 | 3 077 15
-UEH | 961 | 324 | 218
-
 Tableau 6 : Budget de l'Etat (millions de gourdes courantes)
 
+ | | Personnel | | Fonctionnement | | Investissement | | 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | | Crédits | Exécution | Crédits | Exécution | PIP (avec financement de la coopération) | Dont PIP sur financement interne (Trésor et autres fonds de contrepartie) | Exécution nationale
+2010/11 | MENFP | 4 437 | 3 865 | 1 561 | 1 007 | 5 170 | 711 | 591
+ | Dont INFP | 173 |  | 26 |  | 95 |  | 
+ | Dont supérieur |  |  |  |  | 48 |  | 
+ | UEH |  |  | 446 | 449 | 191 | 70 | 40
+2011/12 | MENFP | 4 566 | 4 337 | 1 752 | 1 456 | 13 062 | 3 223 | 1 374
+ | Dont INFP | 173 |  | 36 |  | 10 |  | 
+ | Dont supérieur |  |  |  |  | 668 |  | 
+ | UEH |  |  | 455 | 456 | 203 | 100 | 30
+2012/13 | MENFP | 5 185 |  | 1 827 |  | 12 022 | 3 077 | 
+ | Dont INFP | 187 |  | 36 |  | 10 |  | 
+ | Dont supérieur |  |  |  |  | 753 | 15 | 
+ | UEH |  |  | 961 |  | 324 | 218 | 
+
 PIP : Programme d'investissement public
-
 MENFP : Ministère de l'Education Nationale et de la Formation Professionnelle
-
 INFP : Institut National de Formation Professionnelle
-
 UEH : Université d'Etat d'Haïti
-
-Sources :  Lois  de  Finances  et  Etats  d'exécution  des  dépenses  budgétaires,  Ministère  de  l'Economie  et  des  Finances.
-
+Sources : Lois de Finances et Etats d'exécution des dépenses budgétaires, Ministère de l'Economie et des Finances.
 Analyse de l'exécution du PIPE 2011/12, Ministère de la Planification et de la Coopération Externe.
 
 Puisque  l'on  appréciait  cet  effort  de  l'Etat  en  référence  à  la  petitesse  relative  du  secteur public, il faut souligner que le PSUGO concerne presque exclusivement les élèves du secteur non  public.  Ce  programme  initie  donc  une  transformation  importante  de  la  structure  du financement de l'éducation.
 
 ##### Les principales rubriques des dépenses courantes financées par l'Etat
 
-Les  dépenses  de  personnel  constituent  bien  sûr  la  principale  rubrique  des  dépenses courantes financées par l'Etat. En 2010/11, elles en représentaient près de 80% 5 . Selon la loi de finances 2012/13, l'effectif des agents publics permanents s'élevait en mai 2012 à 27 463 unités  au  MENFP  et  à  1 339  unités  à  l'UEH.  Le  salaire  moyen  au  MENFP  s'élève  ainsi  à 167 000 gourdes, soit 4 000 $ ou encore 5,2 fois le PIB/h.
+Les dépenses de personnel constituent bien sûr la principale rubrique des dépenses courantes financées par l'Etat. En 2010/11, elles en représentaient près de 80%5. Selon la loi
 
 > 5  Ce calcul ne tient pas compte de l'Université d'Etat d'Haïti qui reçoit une subvention globale dont nous n'avons pu établir la composition.
 
@@ -533,6 +706,8 @@ Les  dépenses  de  personnel  constituent  bien  sûr  la  principale  rubrique
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+de finances 2012/13, l'effectif des agents publics permanents s'élevait en mai 2012 à 27 463 unités au MENFP et à 1 339 unités à l'UEH. Le salaire moyen au MENFP s'élève ainsi à 167 000 gourdes, soit 4 000 $ ou encore 5,2 fois le PIB/h.
 
 Après les salaires, si l'on met de côté le PSUGO (démarré en 2011/12) et inscrit au PIP, les principales rubriques du budget courant du MENFP sont :
 
@@ -552,6 +727,8 @@ Après les salaires, si l'on met de côté le PSUGO (démarré en 2011/12) et in
 
 [[START OF PAGE 32]]
 
+Tableau 7 : Matrice des coûts pour les cinq années du projet PSUGO millions de gourdes et millions de $ entre parenthèses
+
 Activités | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | Total | %
 --- | --- | --- | --- | --- | --- | --- | ---
 Dotation des écoles et du bureau de coordination du programme en ressources humaines qualifiées. | 404 (10) | 259 (6) | 260 (6) | 260 (6) | 260 (6) | 1 443 (36) | 12%
@@ -567,11 +744,7 @@ Formation des maitres et Directeurs d'écoles, supervision scolaire | 0 (0) | 20
 Prise en charge des enfants des rues | 0 (0) | 10 (0) | 0 (0) | 0 (0) | 0 (0) | 10 (0) | 0%
 TOTAL | 2 033 (50) | 2 156 (53) | 2 300 (57) | 2 500 (62) | 2 780 (69) | 11 769 (291) | 100%
 
-Tableau 7 : Matrice des coûts pour les cinq années du projet PSUGO millions de gourdes et millions de $ entre parenthèses
-
-Source :
-
-Sous-programme de scolarisation des enfants , UEP, MENFP, septembre 2012
+Source : Sous-programme de scolarisation des enfants, UEP, MENFP, septembre 2012
 
 #### 1.3.3 Les dépenses d'éducation des familles
 
@@ -589,18 +762,18 @@ des  dépenses  des  familles  dans  le  préscolaire  ou  le  primaire,  et  gu
 
 Les colonnes C du Tableau 8 synthétisent les données relatives à l'année 2007/08 qui figurent dans le rapport du GTEF. Il est stipulé qu'elles ne prennent pas en compte les dépenses de transport, de matériel et d'uniforme. Les colonnes D du Tableau 8 appliquent en 2010/11 les parts du PIB/h que représentaient les dépenses de 2007/08.
 
-A | B | C | D | E
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2001 (calculs d'après l'ECVH) hors alimentation | Dont % matériel + uniforme | si % ← | 2010/11 PIB/h de 2001 | 2007/08 (GTEF) sans transport, sans matériel didactique, sans uniforme | 2010/11 si % PIB/h de ← 2007/08 | Retenu 2010/11 | Dépense nette (après subvention) 2012/13
-Gdes | $ en du | % PIB/h | Gdes | $ | Gdes $ | en % du PIB/h | Gdes | $ | $ | $
-Public | 478 1 263 | 19 50 | 5% | 81% | 1 357 3 585 | 34 89 | 3 273 | 86 13% | 3 691 | 92 | 25 | 25
-Non public | 12% | 4 | 675 | 122 18% | 5 273 | 131 | 70 | 70
-Public Non | 821 | 32 76 | 8% 19% | 76% | 2 332 5 480 | 58 136 | 3 739 | 98 15% 24% | 4 218 | 105 | 45 | 41 62
-public | 1 930 | 6 232 240 | 163 | 7 030 | 174 | 105
-Public | 1 382 | 54 | 14% | 3 925 | 97 6 | 163 | 24% | 7 039 | 175 | 75 | 75
-Non public | 4 678 | 183 | 81% 46% | 13 | 281 | 330 | 7 800 | 204 30% | 8 798 | 218 | 200 | 200
+Tableau 8 : Estimation des dépenses annuelles d'éducation des familles,
+par élève, dépenses d'alimentation non comprises
 
-Tableau 8 : Estimation des dépenses annuelles d'éducation des familles, par élève, dépenses d'alimentation non comprises
+ | | A | A | A | A | B | B | C | C | C | D | D | E | E
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | | 2001 (calculs d'après l'ECVH) hors alimentation Gdes | $ | en % du PIB/h | Dont % matériel + uniforme | 2010/11 si % PIB/h de ← 2001 Gdes | $ | 2007/08 (GTEF) sans transport, sans matériel didactique, sans uniforme Gdes | $ | en % du PIB/h | 2010/11 si % PIB/h de ← 2007/08 Gdes | $ | Retenu 2010/11 $ | Dépense nette (après subvention) 2012/13 $
+Préscolaire | Public | 478 | 19 | 5% | 81% | 1 357 | 34 | 3 273 | 86 | 13% | 3 691 | 92 | 25 | 25
+ | Non public | 1 263 | 50 | 12% |  | 3 585 | 89 | 4 675 | 122 | 18% | 5 273 | 131 | 70 | 70
+Primaire | Public | 821 | 32 | 8% | 76% | 2 332 | 58 | 3 739 | 98 | 15% | 4 218 | 105 | 45 | 41
+ | Non public | 1 930 | 76 | 19% |  | 5 480 | 136 | 6 232 | 163 | 24% | 7 030 | 174 | 105 | 62
+Secondaire | Public | 1 382 | 54 | 14% | 81% | 3 925 | 97 | 6 240 | 163 | 24% | 7 039 | 175 | 75 | 75
+ | Non public | 4 678 | 183 | 46% |  | 13 281 | 330 | 7 800 | 204 | 30% | 8 798 | 218 | 200 | 200
 
 Sources : ECVH, Rapport du GTEF et Rapports du FMI pour les taux de change et les PIB, IHSI pour la Population
 
@@ -622,7 +795,7 @@ Les dépenses supportées par les familles dans ce sous-secteur sont mal connues
 
 ##### Le supérieur
 
-Le  supérieur  public  est  constitué  de  l'Université  d'Etat  d'Haïti  (UEH)  et  de  sept  autres établissements. L'UEH compte aujourd'hui à peu près 25 000 étudiants (dont 15 000 à Portau-Prince). Les autres établissements d'enseignement supérieur publics (cf. GTEF) sont :
+Le supérieur public est constitué de l'Université d'Etat d'Haïti (UEH) et de sept autres établissements. L'UEH compte aujourd'hui à peu près 25 000 étudiants (dont 15 000 à Port-au-Prince). Les autres établissements d'enseignement supérieur publics (cf. GTEF) sont :
 
 > 8  Si l'on considère que les écoles n'ayant pas répondu ne sont pas subventionnées, le pourcentage est de 19,6%. Les écoles rurales sont relativement plus nombreuses à être subventionnées (22,4% contre 15,6%).
 
@@ -672,12 +845,17 @@ Nous estimons  les  dépenses  à  la  charge  des  étudiants  à  200 $  dans 
 
 L'aide  extérieure  à  l'éducation  a  crû  à  un  rythme  très  élevé  entre  2000  et  2009 :  36%  en moyenne annuelle (en $ courants, soit à peu près 30% en $ constants). En regard de ce que reçoivent, par habitant, les pays en développement, elle est passée d'un niveau assez bas à un niveau  supérieur  à  la  moyenne.  La  catastrophe  de  2010  a  naturellement  accentué  cette tendance.  L'éducation  de  base  a  été  privilégiée  puisqu'elle  a  obtenu  grosso  modo  60%  de cette aide (calcul effectué sur l'aide répartie).
 
-Non spécifiée | Education de base | Education secondaire | Education post- secondaire | Total
+Tableau 9 : Evolution de l'aide extérieure à l'éducation en Haïti
+Déboursements de 2000 à 2011, estimations et prévisions au-delà
+(en millions de $ courants)
+
+ | Non spécifiée | Education de base | Education secondaire | Education post-secondaire | Total
 --- | --- | --- | --- | --- | ---
-2016 2015 | 31 70
-2014 | 207
-2013 | 155
-2012 | 113
+2016 |  |  |  |  | 31
+2015 |  |  |  |  | 70
+2014 |  |  |  |  | 207
+2013 |  |  |  |  | 155
+2012 |  |  |  |  | 113
 2011 | 45 | 62 | 16 | 10 | 133
 2010 | 10 | 70 | 8 | 31 | 119
 2009 | 19 | 42 | 9 | 9 | 79
@@ -691,32 +869,30 @@ Non spécifiée | Education de base | Education secondaire | Education post- sec
 2001 | 4 | 2 | 1 | 0 | 7
 2000 | 2 | 1 | 1 | 1 | 5
 
-Tableau 9 : Evolution de l'aide extérieure à l'éducation en Haïti Déboursements de 2000 à 2011, estimations et prévisions au-delà (en millions de $ courants)
-
 Sources : OCDE pour la période 2000-2011 ; PTF Haïti, au-delà.
 
 #### 1.3.5 Analyse des coûts de l'éducation
 
-L'analyse des coûts de l'éducation que l'on peut effectuer à partir des données disponibles est bien sûr à considérer avec autant de précautions que l'analyse du financement. La répartition des dépenses entre les ordres d'enseignement a déjà été observée dans la précédente partie. Limitons  donc  l'analyse  aux  trois  aspects  suivants :  le  niveau  des  coûts  unitaires,  leur structure  par  catégorie  de  dépenses et  les  différences  entre  le  secteur  public  et  le  secteur privé.
+L'analyse des coûts de l'éducation que l'on peut effectuer à partir des données disponibles est bien sûr à considérer avec autant de précautions que l'analyse du financement. La répartition
 
 36 | P a g e
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+des dépenses entre les ordres d'enseignement a déjà été observée dans la précédente partie. Limitons donc l'analyse aux trois aspects suivants : le niveau des coûts unitaires, leur structure par catégorie de dépenses et les différences entre le secteur public et le secteur privé.
 
-Financement public | Financement public et privé
+Tableau 10 : Taux d'encadrement, Dépenses de personnel et coûts unitaires
+dans les établissements publics (dépenses d'administration non comprises) – estimation 2010/11
+
+ | taux d'encadrement | Financement public Personnel | Financement public Coût unitaire $ | Financement public Coût unitaire % PIB/h | Financement public et privé Personnel | Financement public et privé Coût unitaire $ | Financement public et privé Coût unitaire % PIB/h
 --- | --- | --- | --- | --- | --- | --- | ---
-taux d'encadrement | Personnel | Coût unitaire | Personnel | Coût unitaire
-$ | % PIB/h | $ | % PIB/h
 Préscolaire | 41 | 44% | 161 | 22% | 38% | 186 | 26%
 Fondamental 1&2 | 44 | 90% | 95 | 13% | 61% | 140 | 19%
 Fondamental 3 | 35 | 97% | 145 | 20% | 64% | 220 | 30%
 Secondaire | 35 | 97% | 142 | 20% | 63% | 217 | 30%
 FTP | 8 | 86% | 738 | 102% | 76% | 838 | 116%
 Supérieur | 21 | 87% | 440 | 61% | 42% | 907 | 126%
-
-Tableau 10 : Taux d'encadrement, Dépenses de personnel et coûts unitaires dans les établissements publics (dépenses d'administration non comprises) - estimation 2010/11
 
 ##### Le niveau des coûts unitaires
 
@@ -726,7 +902,7 @@ Compte tenu de l'incertitude des données, on peut seulement avancer que les co�
 
 Les coûts indiqués dans le Tableau  10 ne prennent en compte ni les dépenses d'administration ni les dépenses pour les cantines scolaires. Ils surestiment par conséquent la part des salaires dans les dépenses courantes.
 
-Les salaires ont été calculés à partir des informations fournies dans les tableaux d'exécution des dépenses de l'Etat, dans les lois de finances - leurs annexes, notamment, qui recensent avec précision, par poste, les effectifs budgétaires et leurs salaires - ainsi que dans l'annuaire statistique  pour  le  primaire,  où  figurent  les  effectifs  d'enseignants.  Ainsi,  le  coût  salarial moyen est de 4,1 PIB/h dans le primaire, de 5,5 PIB/h dans le secondaire, et de 11,4 PIB/h à l'Université d'Etat d'Haïti.
+Les salaires ont été calculés à partir des informations fournies dans les tableaux d'exécution des dépenses de l'Etat, dans les lois de finances – leurs annexes, notamment, qui recensent
 
 37 | P a g e
 
@@ -734,7 +910,9 @@ Les salaires ont été calculés à partir des informations fournies dans les ta
 
 [[START OF PAGE 38]]
 
-En  dehors  du  préscolaire 13  et  du  supérieur,  la  part  des  dépenses  de  personnel  dans  les dépenses  courantes  est  relativement  élevée.  Il  faut  toutefois  préciser  qu'elle  inclut  le personnel non enseignant, dont l'estimation est également très approximative.
+avec précision, par poste, les effectifs budgétaires et leurs salaires – ainsi que dans l'annuaire statistique pour le primaire, où figurent les effectifs d'enseignants. Ainsi, le coût salarial moyen est de 4,1 PIB/h dans le primaire, de 5,5 PIB/h dans le secondaire, et de 11,4 PIB/h à l'Université d'Etat d'Haïti.
+
+En dehors du préscolaire13 et du supérieur, la part des dépenses de personnel dans les dépenses courantes est relativement élevée. Il faut toutefois préciser qu'elle inclut le personnel non enseignant, dont l'estimation est également très approximative.
 
 Globalement, et de manière peut-être plus sûre, on peut apprécier la part des dépenses de personnel  dans  les  dépenses  courantes  à  partir  du  budget  du  MENFP :  calculée  sur  les exécutions,  elle  a  atteint  79%  en  2010/11  et  75%  en  2011/12 ;  les  crédits  de  2012/13  la fixent à 74% (cf. Tableau 6 ).
 
@@ -742,7 +920,7 @@ Globalement, et de manière peut-être plus sûre, on peut apprécier la part de
 
 Si  l'on  met  en  regard  les  données  du Tableau 8 relatives  au  secteur non  public  et  celles  du Tableau 10 (exclusivement  relatives  au  secteur  public),  on  constate  que  les  coûts  unitaires, toutes  sources  de  financement  prises  en  compte,  sont  sensiblement  plus  élevés  dans  le secteur public que dans le secteur non public. Il faut toutefois préciser que les seconds sont très  dispersés  autour  d'une  moyenne  (le  standing  des  établissements  privés  est  très variable), à la différence des premiers.
 
-En ce qui concerne le primaire, le coût unitaire moyen 14  est ainsi de 140 $ dans le public et de 105 $ dans le non-public. Cet écart s'explique d'abord par une différence de rémunération importante entre les deux secteurs : selon le GTEF, le salaire moyen mensuel des enseignants du non-public varierait, selon  le  niveau  d'études,  entre  2 349  gourdes  et  2 445  gourdes.  Il serait  donc,  grosso  modo,  4  fois  plus  faible  que  celui  des  enseignants  du  public.  C'est  une différence  considérable  que  peut  justifier  en  partie  le  fait  que  les  enseignants  du  public enseignent  fréquemment  dans  le  non-public,  où  ils  peuvent  accepter  des  rémunérations complémentaires en quelque sorte ; en partie, car la taille du secteur public est relativement faible (22%). Cette différence est toutefois atténuée par le fait que le taux d'encadrement est beaucoup plus favorable dans le non-public (29,2 élèves par maître) que dans le public (44,1 élèves par maître) ; les écoles non publiques sont en effet deux fois plus petites que les écoles publiques. Ce phénomène est également observable dans le secondaire où le coût unitaire - 200 $ - est cependant  identique  dans  les  deux  secteurs.  Selon  le  GTEF,  les  salaires  du  non-public varieraient entre 1 650 gourdes et 5 500 gourdes ; ils sont donc à peu près dans le même rapport  avec  ceux  du  public  que  dans  le  primaire.  Or,  dans  le  secondaire,  la  taille  des établissements  non  publics  est  encore  plus  petite,  relativement  à  celle  des  établissements publics, que dans le primaire : selon l'annuaire 2010/11, elle est de 149 élèves contre 391 dans le public. Si l'on considère qu'il est plus compliqué d'optimiser l'emploi du temps des enseignants  du  secondaire  que  du  primaire,  on  comprendra  que  cette  différence  de  taille explique  l'égalité  des  coûts  unitaires  dans  les  deux  secteurs  en  dépit  des  différences  de salaires. Il est probable que la multiplication et la dispersion des établissements non publics ne soient pas  conformes  à  une  carte  scolaire  rationnelle.  La  nationalisation  devrait  entraîner  une hausse des salaires moyens pour l'ensemble du secteur. Cette hausse  sera compensée par une rationalisation de la carte scolaire.
+En ce qui concerne le primaire, le coût unitaire moyen14 est ainsi de 140 $ dans le public et de 105 $ dans le non-public. Cet écart s'explique d'abord par une différence de rémunération importante entre les deux secteurs : selon le GTEF, le salaire moyen mensuel des enseignants du non-public varierait, selon le niveau d'études, entre 2 349 gourdes et 2 445 gourdes. Il serait donc, grosso modo, 4 fois plus faible que celui des enseignants du public. C'est une
 
 > 13  Pour le préscolaire, le modèle initial de simulation du PO distinguait la masse salariale et un coût unitaire de fonctionnement de 90 $ ; ces données ont été conservées.
 
@@ -753,6 +931,12 @@ En ce qui concerne le primaire, le coût unitaire moyen 14  est ainsi de 140 $ d
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+différence considérable que peut justifier en partie le fait que les enseignants du public enseignent fréquemment dans le non-public, où ils peuvent accepter des rémunérations complémentaires en quelque sorte ; en partie, car la taille du secteur public est relativement faible (22%). Cette différence est toutefois atténuée par le fait que le taux d'encadrement est beaucoup plus favorable dans le non-public (29,2 élèves par maître) que dans le public (44,1 élèves par maître) ; les écoles non publiques sont en effet deux fois plus petites que les écoles publiques.
+
+Ce phénomène est également observable dans le secondaire où le coût unitaire – 200 $ – est cependant identique dans les deux secteurs. Selon le GTEF, les salaires du non-public varieraient entre 1 650 gourdes et 5 500 gourdes ; ils sont donc à peu près dans le même rapport avec ceux du public que dans le primaire. Or, dans le secondaire, la taille des établissements non publics est encore plus petite, relativement à celle des établissements publics, que dans le primaire : selon l'annuaire 2010/11, elle est de 149 élèves contre 391 dans le public. Si l'on considère qu'il est plus compliqué d'optimiser l'emploi du temps des enseignants du secondaire que du primaire, on comprendra que cette différence de taille explique l'égalité des coûts unitaires dans les deux secteurs en dépit des différences de salaires.
+
+Il est probable que la multiplication et la dispersion des établissements non publics ne soient pas conformes à une carte scolaire rationnelle. La nationalisation devrait entraîner une hausse des salaires moyens pour l'ensemble du secteur. Cette hausse sera compensée par une rationalisation de la carte scolaire.
 
 39 | P a g e
 
@@ -776,15 +960,15 @@ Le PIPE doit permettre :
 
 Dans  cette  optique,  le  Ministère  réunira  ses  interventions  sous  les  trois  axes  stratégiques suivants :
 
-- Vers l'universalisation de l'éducation de base de qualité ;
+1. Vers l'universalisation de l'éducation de base de qualité ;
 
-- Amélioration de l'accès et de la qualité dans les autres niveaux d'enseignement ;
+2. Amélioration de l'accès et de la qualité dans les autres niveaux d'enseignement ;
 
-- Renforcement institutionnel.
+3. Renforcement institutionnel.
 
 Le  Tableau  11  présente  les  indicateurs  du  Cadre  indicatif  Fast  Track.  Les  valeurs  de  deux indicateurs sont très éloignées de ce cadre : le pourcentage des effectifs d'élèves dans le privé et le coût de construction d'une salle de classe. En ce qui concerne le premier, il convient de considérer deux choses : d'une part l'effort qui sera entrepris pour diminuer ce pourcentage -  effort  considérable  compte  tenu  de  la  charge  additionnelle  qu'il  impliquera sur  le  budget  de  l'Etat - ;  d'autre  part  le  fait  qu'une  partie  importante  des  ressources publiques (intérieures et extérieures) allouées à l'enseignement primaire (fondamental 1&2) finance des écoles non publiques  - 31% en 2010/11 15  -, et le fait que cette part doit monter à  38%  en  2015/16  et  à  46%  en  2020/21.  En  ce  qui  concerne  le  second -  le  coût  de construction des salles de classe -, il faut rappeler qu'il est justifié par la nécessité de mettre les bâtiments et les équipements aux normes para-cycloniques et parasismiques.
 
-Le Tableau 12 est  un  tableau  des  principaux  indicateurs  du  PIPE  qui  complète  le  tableau relatif au Cadre indicatif Fast Track. Un tableau d'indicateurs plus détaillé est donné plus loin pour chaque objectif des différents axes d'intervention. Ce tableau est suivi du plan d'action relatif à l'objectif.
+Le Tableau 12 est un tableau des principaux indicateurs du PIPE qui complète le tableau relatif au Cadre indicatif Fast Track. Un tableau d'indicateurs plus détaillé est donné plus loin
 
 > 15  En comptabilisant l'aide alimentaire.
 
@@ -793,28 +977,30 @@ Le Tableau 12 est  un  tableau  des  principaux  indicateurs  du  PIPE  qui  com
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+pour chaque objectif des différents axes d'intervention. Ce tableau est suivi du plan d'action relatif à l'objectif.
 
-Cadre indicatif | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 11 : Indicateurs du Cadre indicatif Fast Track*
+
+ | Cadre indicatif | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicateurs de qualité du système éducatif
+Indicateurs de qualité du système éducatif | | | | | | | | 
 Salaire moyen annuel des enseignants (PIB/H) | 3,5 | 4,1 | 3,9 | 4,0 | 4,1 | 3,9 | 3,8 | 3,3
 Rapport élèves/enseignant | 40 | 44,1 | 47,0 | 47,3 | 46,4 | 45,3 | 44,3 | 40,0
 Dépenses hors salaires enseignants / dépenses récurrentes | 33% | 29,5% | 33,9% | 38,1% | 36,6% | 34,9% | 33,0% | 28,5%
-Dépenses non salariales / dépenses récurrentes | 9,9% | 15,5% | 21,0% | 20,3% | 19,0% | 17,4% | 16,9%
+Dépenses non salariales / dépenses récurrentes |  | 9,9% | 15,5% | 21,0% | 20,3% | 19,0% | 17,4% | 16,9%
 % de redoublants | <=10% | 14% | 14% | 15% | 15% | 8% | 8% | 8%
-Heures annuelles d'instruction | >=850
+Heures annuelles d'instruction | >=850 |  |  |  |  |  |  | 
 Effectifs dans le privé | <=10% | 78% | 79% | 79% | 76% | 73% | 68% | 58%
-Indicateur d'expansion du système
+Indicateur d'expansion du système | | | | | | | | 
 Coût de construction et d'équipement à l'unité | <=10 000 $ | 25 261 | 25 261 | 25 261 | 25 261 | 25 261 | 25 261 | 25 261
-Indicateurs de financement du système
+Indicateurs de financement du système | | | | | | | | 
 Budget gouvernemental / PNB | 14%< <18% | 17% | 18% | 17% | 19% | 18% | 18% | 21%
 Dépenses éducation / Revenu gouvernemental (dons compris) | 20% | 12% | 13% | 20% | 20% | 22% | 25% | 24%
 Dépenses pour le primaire / dépenses récurrentes | 42%< <64% | 65% | 65% | 64% | 65% | 64% | 62% | 53%
-Indicateurs de flux d'élèves
-Admissions en première année Filles | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+Indicateurs de flux d'élèves | | | | | | | | 
+Admissions en première année | | | | | | | | 
+Filles | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 Garçons | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
-
-Tableau 11 : Indicateurs du Cadre indicatif Fast Track*
 
 * : Des définitions et précisions sont données en annexe
 
@@ -824,42 +1010,41 @@ Tableau 11 : Indicateurs du Cadre indicatif Fast Track*
 
 [[START OF PAGE 42]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 12 : Principaux indicateurs du PIPE*
+
+ | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
-Préscolaire
+Préscolaire | | | | | | | 
 Taux net de fréquentation préscolaire | 44% | 52% | 52% | 60% | 68% | 75% | 100%
 % des élèves dans le Public | 6% | 7% | 7% | 7% | 11% | 16% | 40%
 Taux d'encadrement (public) | 41 | 51 | 51 | 48 | 44 | 41 | 25
-Fondamental 1&2
-Taux de survie transversal (réguliers + accélérés) et taux d'achèvement (taux | 57% | 60% | 60% | 78% | 83% | 87% | 95%
-brut d'accès = 100%)
+Fondamental 1&2 | | | | | | | 
+Taux de survie transversal (réguliers + accélérés) et taux d'achèvement (taux brut d'accès = 100%) | 57% | 60% | 60% | 78% | 83% | 87% | 95%
 Effectif total | 2 210 222 | 2 454 980 | 2 467 727 | 2 504 568 | 2 652 187 | 2 763 667 | 2 989 294
-Programmes accélérés (hors FTP)
-Déscolarisés précoces | 0 | 48 997 | 132 479 | 100 965
-Entrées tardives | 0 | 11 045 | 31 050 | 73 363
-Surâgés | 0 | 68 354 | 147 409 | 81 561
-Public
-% effectifs F al 1&2 (yc accéléré) dans Public | 22% | 21% | 21% | 24% | 26% | 28% | 40%
+Programmes accélérés (hors FTP) | | | | | | | 
+Déscolarisés précoces |  |  |  | 0 | 48 997 | 132 479 | 100 965
+Entrées tardives |  |  |  | 0 | 11 045 | 31 050 | 73 363
+Surâgés |  |  |  | 0 | 68 354 | 147 409 | 81 561
+Public | | | | | | | 
+% effectifs Fᵃˡ 1&2 (yc accéléré) dans Public | 22% | 21% | 21% | 24% | 26% | 28% | 40%
 Effectif total | 486 619 | 522 233 | 524 945 | 591 412 | 737 353 | 914 465 | 1 296 682
 Elèves bénéficiant du soutien scolaire | 29 697 | 32 234 | 32 946 | 33 508 | 33 262 | 29 854 | 19 486
 Elèves / maître | 44,1 | 47,0 | 47,3 | 46,4 | 45,3 | 44,3 | 40,0
-Non-public Elèves bénéficiant du soutien scolaire | 105 187 | 119 294 | 121 931 | 108 396 | 94 893 | 75 656 | 29 229
-Fondamental 3
-Taux de transition Fondamental 2 3 | 61% | 61% | 61% | 67% | 95%
-Réguliers/Fal | 60% | 61%
+Non-public | | | | | | | 
+Elèves bénéficiant du soutien scolaire | 105 187 | 119 294 | 121 931 | 108 396 | 94 893 | 75 656 | 29 229
+Fondamental 3 | | | | | | | 
+Taux de transition Fondamental 2 Réguliers/Fᵃˡ 3 | 60% | 61% | 61% | 61% | 61% | 67% | 95%
+Secondaire | | | | | | | 
 Taux de transition fondamental 3 - secondaire | 80% | 80% | 80% | 80% | 80% | 80% | 80%
-Alphabétisation et ENF
+Alphabétisation et ENF | | | | | | | 
 Nombre de personnes de 13 ans et + alphabétisées dans l'année | 83 333 | 83 333 | 83 333 | 83 333 | 83 333 | 83 333 | 50 000
-Supérieur
-Nombre d'étudiants pour 100 000 | 985 | 985 | 985 | 1 009 | 1 034 | 1 059 | 1 182
-habitants
+Supérieur | | | | | | | 
+Nombre d'étudiants pour 100 000 habitants | 985 | 985 | 985 | 1 009 | 1 034 | 1 059 | 1 182
 Nombre total d'étudiants | 100 927 | 102 551 | 104 185 | 108 470 | 112 834 | 117 280 | 140 757
-% d'étudiants dans le supérieur | 30% | 30% | 30% | 31% | 33% | 34% | 40%
-public FTP
+% d'étudiants dans le supérieur public | 30% | 30% | 30% | 31% | 33% | 34% | 40%
+FTP | | | | | | | 
 Effectif total | 25 483 | 26 231 | 27 043 | 31 163 | 41 346 | 58 537 | 137 265
 % dans le Public | 22% | 24% | 25% | 25% | 35% | 49% | 65%
-
-Tableau 12 : Principaux indicateurs du PIPE*
 
 * : Des définitions et précisions sont données en annexe
 
@@ -889,7 +1074,7 @@ En  2010/11,  544 474  enfants  fréquentaient  le  préscolaire.  Parmi  eux,  
 
 [[START OF PAGE 44]]
 
-On  vise  que  ce  taux  net  atteigne  100%  en  2020/21.  Seulement  6,7%  des  effectifs  du préscolaire sont dans le public (2011/12). On prévoit d'augmenter cette part jusqu'à 40% en 2020/21 ; elle atteindra 16% en 2015/16. Les effectifs du public passeront ainsi de 43 126 en 2011/12 à 97 8590 enfants en 2015/16. Un tiers de cette augmentation passerait par la nationalisation des écoles préscolaires (821 salles seront "nationalisées" et éventuellement mises  aux  normes  ou  réhabilitées).  Ainsi,  1 524  salles  seront  construites  sur  la  durée  du PIPE ; la plupart, dans les écoles fondamentales dont les nouvelles seront systématiquement dotées  de  deux  salles  pour  le  préscolaire  et  dont  les  deux  tiers  de  celles  qui  existent  ne possèdent pas encore de préscolaire.
+On vise que ce taux net atteigne 100% en 2020/21. Seulement 6,7% des effectifs du préscolaire sont dans le public (2011/12). On prévoit d'augmenter cette part jusqu'à 40% en 2020/21 ; elle atteindra 16% en 2015/16. Les effectifs du public passeront ainsi de 43 126 en 2011/12 à 97 859 enfants en 2015/16. Un tiers de cette augmentation passerait par la nationalisation des écoles préscolaires (821 salles seront "nationalisées" et éventuellement mises aux normes ou réhabilitées). Ainsi, 1 524 salles seront construites sur la durée du PIPE ; la plupart, dans les écoles fondamentales dont les nouvelles seront systématiquement dotées de deux salles pour le préscolaire et dont les deux tiers de celles qui existent ne possèdent pas encore de préscolaire.
 
 L'encadrement est actuellement insuffisant dans le  préscolaire : on compte 41 enfants par moniteur dans le public. Ce ratio sera progressivement porté à 25 en 2020/21 ; il sera de 35 enfants en 2015/16. Cette amélioration et l'augmentation des effectifs d'enfants nécessiteront le recrutement de 1 584 moniteurs sur la période du PIPE, mais 1 291 d'entre eux seront des enseignants du non-public à intégrer dans la Fonction publique, ou dont la rémunération sera prise en charge  sur  le  budget  de  l'Etat.  En  2015/16,  la  proportion  des enfants  du  préscolaire,  public  comme  non-public,  qui  bénéficieront  des  cantines  scolaires sera de 42% et atteindra 70% en 2020/21.
 
@@ -903,24 +1088,24 @@ L'atteinte  de  cet  objectif  passera,  pour  les  0-3  ans,  par  la  mise  en
 
 [[START OF PAGE 45]]
 
+Tableau 13 : Petite enfance et préscolaire – Indicateurs
+
 PRESCOLAIRE | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Population scolarisable (4-5 ans) | 492 137 | 495 120 | 498 287 | 501 313 | 503 868 | 505 962 | 512 806
 Taux brut de fréquentation préscolaire | 110% | 131% | 131% | 127% | 123% | 119% | 100%
 Taux net de fréquentation préscolaire | 44% | 52% | 52% | 60% | 68% | 75% | 100%
 Effectif du Préscolaire | 539 590 | 646 520 | 650 655 | 635 445 | 619 424 | 602 659 | 512 806
-Préscolaire public
+Préscolaire public | | | | | | | 
 % des élèves dans le Public | 6% | 7% | 7% | 7% | 11% | 16% | 40%
 Estimation effectif d'enfants à "nationaliser" | 0 | 0 | 0 | 0 | 28 424 | 26 778 | 17 889
 Taux d'encadrement | 41 | 51 | 51 | 48 | 44 | 41 | 25
 Nombre de moniteurs dans le Public | 843 | 848 | 854 | 890 | 1 595 | 2 371 | 8 205
 Recrutements | 0 | 22 | 22 | 54 | 723 | 808 | 1 705
 dont moniteurs à "nationaliser" (estimation) | 0 | 0 | 0 | 0 | 640 | 651 | 716
-Santé et nutrition (public et non-public)
+Santé et nutrition (public et non-public) | | | | | | | 
 % des enfants du préscolaire bénéficiaires | 0% | 0% | 0% | 14% | 28% | 42% | 70%
 en % du total des dépenses courantes | 3% | 3% | 2% | 3% | 6% | 7% | 9%
-
-Tableau 13 : Petite enfance et préscolaire - Indicateurs
 
 Le programme d'action présenté dans le tableau ci-après, comme, plus bas, les programmes d'action relatifs aux autres objectifs, intègrent toutes les dépenses publiques 17 , courantes et en capital ; ce tableau donne ainsi une vue complète des dépenses. Les dépenses courantes qui ne sont pas directement afférentes à une action, ou qui ne sont pas comptabilisées dans les colonnes des coûts des actions, sont regroupées sous la rubrique « Activités récurrentes non comptabilisées dans les coûts des actions ».
 
@@ -932,36 +1117,36 @@ Le programme d'action présenté dans le tableau ci-après, comme, plus bas, les
 
 [[START OF PAGE 46]]
 
-Petite enfance et préscolaire | Unité | Indicateurs | Coûts (000 US$) | PIPE | Sources de
+Tableau 14 : Petite enfance et préscolaire – Programme d'action
+
+Petite enfance et préscolaire | Unité | Indicateurs 2013/14 | Indicateurs 2014/15 | Indicateurs 2015/16 | Coûts (000 US$) 2013/14 | Coûts (000 US$) 2014/15 | Coûts (000 US$) 2015/16 | Total | PIPE | Direction responsable | Sources de financement
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | Direction | responsable | financement
-Fonctionnement
-Recrutement de moniteurs pour les salles nouvellement construites | moniteur | 54 | 723 | 808 | DRH-DDE | Trésor public
-dont nouveaux moniteurs | moniteur | 54 | 83 | 157 | DRH-DDE | Trésor public
+Fonctionnement | | | | | | | | | | | 
+Recrutement de moniteurs pour les salles nouvellement construites | moniteur | 54 | 723 | 808 |  |  |  |  |  | DRH-DDE | Trésor public
+dont nouveaux moniteurs | moniteur | 54 | 83 | 157 |  |  |  |  |  | DRH-DDE | Trésor public
 Fournir un repas équilibré aux enfants du préscolaire public | % d'enfants | 14% | 28% | 42% | 4 867 | 9 496 | 13 869 | 28 231 | X | PNCS | PAM, BM, Trésor public
-Activités récurrentes non comptabilisées dans les coûts des actions | 5 826 | 10 207 | 14 913 | 30 946
-Total | 10 693 | 19 703 | 28 782 | 59 178
-Financement
-Etat | 10 784 | 17 394 | 22 873 | 51 050
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | -91 | 2 309 | 5 909 | 8 127
-Investissement
-Appui à la mise en place de la politique de développement de la petite enfance (une campagne de divulgation et de sensibilisation est menée autour du
-document de politique de développement de la petite | X | 100 | 100 | X | BUGEP | UNICEF
-Formation des agents éducatifs du fondamental de façon à les habiliter à superviser les classes préscolaires | % d'agents | 34% | 50% | 67% | Inclus dans Fondamental | DFP | ACDI/UNESCO, BM, AECID
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 5 826 | 10 207 | 14 913 | 30 946 |  |  | 
+Total |  |  |  |  | 10 693 | 19 703 | 28 782 | 59 178 |  |  | 
+Financement | | | | | | | | | | | 
+Etat |  |  |  |  | 10 784 | 17 394 | 22 873 | 51 050 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | -91 | 2 309 | 5 909 | 8 127 |  |  | 
+Investissement | | | | | | | | | | | 
+Appui à la mise en place de la politique de développement de la petite enfance (une campagne de divulgation et de sensibilisation est menée autour du document de politique de développement de la petite enfance) |  | X |  |  | 100 |  |  | 100 | X | BUGEP | UNICEF
+Formation des agents éducatifs du fondamental de façon à les habiliter à superviser les classes préscolaires | % d'agents | 34% | 50% | 67% | Inclus dans Fondamental |  |  |  |  | DFP | ACDI/UNESCO, BM, AECID
 Construction et équipement des salles préscolaires | salle | 458 | 504 | 561 | 9 726 | 10 702 | 11 911 | 32 339 | X | DGS | BID, AECID
 Nationalisation des salles préscolaires | salle | 247 | 272 | 302 | 2 468 | 2 716 | 3 023 | 8 206 | X | BUGEP | Trésor public
-Total | 12 294 | 13 417 | 14 934 | 40 645
-Financement
-Etat | 18 330 | 4 044 | 3 133 | 25 508
-PTF (promesses) | 8 120 | 3 000 | 2 800 | 13 920
-Gap | -14 156 | 6 373 | 9 001 | 1 218
-Total | 33 120 | 43 716
-Coûts Financement | 22 987 | 26 006 | 99 | 823
-Etat PTF (promesses) | 29 114 8 120 | 21 438 3 000 | 2 800 | 76 558 13 920
-Gap | -14 247 | 8 682 | 14 910 | 9 345
-
-Tableau 14 : Petite enfance et préscolaire - Programme d'action
+Total |  |  |  |  | 12 294 | 13 417 | 14 934 | 40 645 |  |  | 
+Financement | | | | | | | | | | | 
+Etat |  |  |  |  | 18 330 | 4 044 | 3 133 | 25 508 |  |  | 
+PTF (promesses) |  |  |  |  | 8 120 | 3 000 | 2 800 | 13 920 |  |  | 
+Gap |  |  |  |  | -14 156 | 6 373 | 9 001 | 1 218 |  |  | 
+Total | | | | | | | | | | | 
+Coûts |  |  |  |  | 22 987 | 33 120 | 43 716 | 99 823 |  |  | 
+Financement | | | | | | | | | | | 
+Etat |  |  |  |  | 29 114 | 21 438 | 26 006 | 76 558 |  |  | 
+PTF (promesses) |  |  |  |  | 8 120 | 3 000 | 2 800 | 13 920 |  |  | 
+Gap |  |  |  |  | -14 247 | 8 682 | 14 910 | 9 345 |  |  |
 
 [[END OF PAGE 46]]
 
@@ -973,7 +1158,7 @@ Tableau 14 : Petite enfance et préscolaire - Programme d'action
 
 En  2010/11,  l'effectif  du  fondamental  1&2  s'élevait  à  2 210 222  élèves.  Parmi  ces  élèves, 43% étaient surâgés (cf. note 4) et 38% se situaient en dehors de la tranche d'âge 6-11 ans (36% avaient  plus  de  11  ans).  Le  pourcentage  moyen  de  redoublants  était  de  14%  et  on pouvait estimer le taux moyen d'abandon à 10% à partir de la répartition des effectifs dans les différentes années d'études. Le calcul des taux brut et net de scolarisation sur la base de ces données scolaires et des données démographiques 18  n'est pas fiable en raison d'une trop grande incohérence entre ces différentes données (des explications détaillées sont données en  annexe,  page  123).  Toutefois,  l'enquête  EMMUS-V  de  2012 19 ,  qui  permet  d'éviter l'inconvénient  du  calcul  des  taux  de  scolarisation  à  partir  de  deux  sources  de  données différentes, estime pour l'année scolaire 2011/12 à 77% le taux net de fréquentation scolaire (TNF) et à 165% le taux brut de fréquentation scolaire 20 .
 
-Compte  tenu  des  entrées  tardives  (cf. Tableau 15 )  et  des  abandons,  le  TNF  de  77%  nous permet d'estimer que presque tous les enfants entrent tôt ou tard à l'école21 et que le défi n'est donc pas tant de les y faire venir que de les y faire venir plus tôt et de les y retenir. Ce double objectif sera pratiquement atteint en 2020/21 ; le taux de survie, aujourd'hui de 60% sera de 83% en 2015/16 et de 95% en 2020/21. Les projections d'effectifs d'élèves ont été effectuées en prenant en compte les grandes tendances de 2011/1222, en faisant l'hypothèse que  le  taux  de  croissance  annuel  du  nombre  de  nouveaux  inscrits  serait  de  0,5%23 en l'absence de mesures pour réduire les entrées tardives, mais de 1,9% avec ces mesures d'ici 2016, et en programmant une nette amélioration de l'efficacité interne (voir ci-dessous, page 50).
+Compte tenu des entrées tardives (cf. Tableau 15) et des abandons, le TNF de 77% nous permet d'estimer que presque tous les enfants entrent tôt ou tard à l'école21 et que le défi n'est donc pas tant de les y faire venir que de les y faire venir plus tôt et de les y retenir. Ce
 
 > 18  Projections de population effectuées par l'IHSI à partir du RGPH de 2003.
 
@@ -981,13 +1166,15 @@ Compte  tenu  des  entrées  tardives  (cf. Tableau 15 )  et  des  abandons,  le
 
 > 20  Définitions  (source  EMMUS) : le  taux  net  de  fréquentation  scolaire  (TNF)  pour  le  niveau  primaire  est  le pourcentage  de  la  population  d'âge  de  fréquentation  du  niveau  primaire  (6-11  ans)    qui    fréquente    l'école primaire. Le  taux  brut  de  fréquentation  scolaire  (TBF)  au  niveau  primaire  est  le  nombre  total  d'élèves  du niveau  primaire,  exprimé  en  pourcentage  de  la population d'âge officiel de fréquentation du niveau primaire. La différence considérable entre le TNF et le TBF confirme le phénomène des surâgés et semble aussi indiquer une sous-estimation des redoublements et une surestimation des abandons déduits de l'annuaire 2010/11.
 
-> 21  Soit que le taux brut d'accès (TBA) est proche de 100%. Le TBA rapporte l'effectif des nouveaux entrants en 1 e  année fondamental à la population de 6 ans (dans le PO, ce taux était désigné sous l'appellation taux d'accès total ). Calculé sur la base des données scolaires et démographiques, il atteint 176% en 2010/11. Un tel taux est théoriquement possible, mais très improbable. Les conséquences du séisme du 12 janvier 2010 (réinscription en 1 e   année en raison d'une année 2009/10 blanche pour certains élèves) ne peuvent rendre compte que de manière  minime  d'un  taux  supérieur  à  100%,  et  les  incohérences  constatées  entre  les  données  scolaires  et démographiques (cf. Annexe 1 : Modélisation du PIPE) permettent de douter fortement de la valeur - 176% de  cet  indicateur ;  déjà  en  2002/03,  lors  du  précédent  recensement  scolaire  publié,  le  TBA - 210% -  était anormalement élevé.
+> 21  Soit que le taux brut d'accès (TBA) est proche de 100%. Le TBA rapporte l'effectif des nouveaux entrants en 1e année fondamental à la population de 6 ans (dans le PO, ce taux était désigné sous l'appellation taux d'accès total). Calculé sur la base des données scolaires et démographiques, il atteint 176% en 2010/11. Un tel taux est théoriquement possible, mais très improbable. Les conséquences du séisme du 12 janvier 2010 (réinscription en 1e année en raison d'une année 2009/10 blanche pour certains élèves) ne peuvent rendre compte que de manière minime d'un taux supérieur à 100%, et les incohérences constatées entre les données scolaires et démographiques (cf. Annexe 1 : Modélisation du PIPE) permettent de douter fortement de la valeur – 176% – de cet indicateur ; déjà en 2002/03, lors du précédent recensement scolaire publié, le TBA – 210% – était anormalement élevé.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-Nous avons bien entendu conscience du caractère très hypothétique de ces projections. La rareté des données et leurs incohérences autorisent des interprétations diverses et celle que nous avons retenue sera vérifiée et éventuellement corrigée, dans le très court terme après l'exploitation  complète  du  recensement  scolaire  de  2011/12,  plus  tard  après  le  prochain RGPH (prévu en ????) et grâce à l'amélioration du système d'information programmée dans le PIPE en 2014.
+double objectif sera pratiquement atteint en 2020/21 ; le taux de survie, aujourd'hui de 60% sera de 83% en 2015/16 et de 95% en 2020/21. Les projections d'effectifs d'élèves ont été effectuées en prenant en compte les grandes tendances de 2011/1222, en faisant l'hypothèse que le taux de croissance annuel du nombre de nouveaux inscrits serait de 0,5%23 en l'absence de mesures pour réduire les entrées tardives, mais de 1,9% avec ces mesures d'ici 2016, et en programmant une nette amélioration de l'efficacité interne (voir ci-dessous, page 50).
+
+Nous avons bien entendu conscience du caractère très hypothétique de ces projections. La rareté des données et leurs incohérences autorisent des interprétations diverses et celle que nous avons retenue sera vérifiée et éventuellement corrigée, dans le très court terme après l'exploitation complète du recensement scolaire de 2011/12, plus tard après le prochain RGPH (prévu en ????) et grâce à l'amélioration du système d'information programmée dans le PIPE en 2014.
 
 Pour atteindre complètement l'objectif de scolarisation universelle, il convient de s'occuper également  des  élèves  qui  ont  déjà  quitté  l'école,  trop  tôt,  sans  achever  le  cycle  d'études primaires et qui sont exposés à l'analphabétisme de retour. Les enfants de 8 à 12 ans dans cette situation seront pris en charge progressivement (14% en 2014/15, 29% en 2015/16 et 100% en 2020/21).
 
@@ -1001,7 +1188,10 @@ Pour atteindre complètement l'objectif de scolarisation universelle, il convien
 
 [[START OF PAGE 49]]
 
-2002/03 | 2010/11 | 2019/20 projetée en l'absence de mesures pour faire venir plus tôt les enfants à l'école
+Tableau 15 : Répartition par âge des nouveaux
+entrants en 1e année fondamentale
+
+ | 2002/03 | 2010/11 | 2019/20 projetée en l'absence de mesures pour faire venir plus tôt les enfants à l'école
 --- | --- | --- | ---
 6 ans ou - | 22% | 34% | 50%
 7 ans | 24% | 25% | 23%
@@ -1016,8 +1206,6 @@ Pour atteindre complètement l'objectif de scolarisation universelle, il convien
 16 ans | 1% | 1% | 0%
 Total | 100% | 100% | 100%
 
-Tableau 15 : Répartition par âge des nouveaux entrants en 1e année fondamentale
-
 Sources : Annuaires statistiques, en estimant que les redoublants ont en moyenne un an et demi de plus que les non-redoublants.
 
 ##### L'augmentation de la part du public
@@ -1026,15 +1214,17 @@ En 2010/11, les écoles publiques accueillaient 22,0% des élèves. Les grandes 
 
 ##### La réduction des entrées tardives
 
-Afin d'accélérer la marche vers l'achèvement universel au niveau des deux premiers cycles du  fondamental,  des  campagnes  de  sensibilisation  seront  menées  et  un  dispositif  de recensement des enfants scolarisables sera mis en place. Dans la mesure où la pauvreté est, à côté de la mauvaise distribution des établissements scolaires sur le territoire national, une des causes de ces entrées tardives 24 , la poursuite du subventionnement (à hauteur de 90$ par élève) de la scolarité des élèves du non-public contribuera efficacement à cette réduction des inscriptions tardives ; les campagnes de sensibilisation seront l'occasion d'informer les familles de cette garantie de gratuité.
+Afin d'accélérer la marche vers l'achèvement universel au niveau des deux premiers cycles du fondamental, des campagnes de sensibilisation seront menées et un dispositif de recensement des enfants scolarisables sera mis en place. Dans la mesure où la pauvreté est, à côté de la mauvaise distribution des établissements scolaires sur le territoire national, une des causes de ces entrées tardives24, la poursuite du subventionnement (à hauteur de 90$ par élève) de la scolarité des élèves du non-public contribuera efficacement à cette réduction
 
-> 24  La qualité de l'offre en est une autre. Le réseau des écoles est certes dense, leur taille moyenne, peu élevée  167 élèves (150 dans le non-public, 294 dans le public) -, mais près de la moitié des écoles accueillent les élèves dans  des  maisons  d'habitation,  des  églises,  des  tonnelles  ou  dans  d'autres  locaux  qui  ne  répondent  pas  aux normes définies par le MENFP pour une école (cf. ci-dessous, page 53).
+> 24  La qualité de l'offre en est une autre. Le réseau des écoles est certes dense, leur taille moyenne, peu élevée – 167 élèves (150 dans le non-public, 294 dans le public) –, mais près de la moitié des écoles accueillent les élèves dans des maisons d'habitation, des églises, des tonnelles ou dans d'autres locaux qui ne répondent pas aux normes définies par le MENFP pour une école (cf. ci-dessous, page 53).
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-Outre l'amélioration naturelle de la répartition par âge des nouveaux entrants en première année, déduite de l'évolution observée entre 2002/03 et 2010/11 (cf. Tableau 15 ), on prévoit que  ces  campagnes  de  sensibilisation  et  ce  subventionnement  auront  pour  effet  de progressivement faire entrer tous les enfants à l'école à l'âge de 6 ans en 2020/21.
+des inscriptions tardives ; les campagnes de sensibilisation seront l'occasion d'informer les familles de cette garantie de gratuité.
+
+Outre l'amélioration naturelle de la répartition par âge des nouveaux entrants en première année, déduite de l'évolution observée entre 2002/03 et 2010/11 (cf. Tableau 15), on prévoit que ces campagnes de sensibilisation et ce subventionnement auront pour effet de progressivement faire entrer tous les enfants à l'école à l'âge de 6 ans en 2020/21.
 
 ##### L'amélioration de l'efficacité interne et de la survie scolaire
 
@@ -1042,7 +1232,7 @@ Dans  le  but  d'améliorer  rapidement  à  la  fois  l'efficacité  interne  e
 
 Ces  performances  ne  seront  pas  uniquement  le  fruit  de  la  mesure  administrative  que constitue la promotion automatique. Tout d'abord, celle-ci sera accompagnée d'un programme  de  soutien  des  élèves  qui  ciblera  ceux  qui  n'ont  pas  acquis  le  niveau  de promotion requis (soit environ 20% des élèves). Ensuite, on procédera à une révision des curricula en 2013/14 et 2014/15 et la formation continue du personnel sera accélérée de telle sorte qu'en 2015/16 64% des agents l'auront reçue. En 2010/11, un tiers environ des élèves  du  fondamental  1&2  bénéficiaient  de  cantines  scolaires ;  cette  proportion  atteindra 40%  en  2015/16  et  70%  en  2020/21.  Enfin,  les  surâgés  seront  canalisés  dans  des programmes accélérés spécifiques à leur niveau et à leur âge 25 , ce qui contribuera également à l'achèvement universel et à l'amélioration de l'efficacité interne.
 
-> 25  La durée des programmes variera entre 1 et 4 ans (4 ans par exemple pour les surâgés de 1 re  année et pour les entrées tardives à 9 ou 10 ans ; 1 an pour les surâgés de 4 e  ou 5 e  année).
+> 25  La durée des programmes variera entre 1 et 4 ans (4 ans par exemple pour les surâgés de 1re année et pour les entrées tardives à 9 ou 10 ans ; 1 an pour les surâgés de 4e ou 5e année).
 
 50 | P a g e
 
@@ -1052,7 +1242,7 @@ Ces  performances  ne  seront  pas  uniquement  le  fruit  de  la  mesure  admin
 
 ##### La mise en place de programmes accélérés pour les surâgés
 
-La prise en charge des surâgés dans des programmes accélérés s'effectuera au sein même des écoles. La taille moyenne des écoles publiques est de 288 élèves 26 , soit grosso modo 48 élèves par niveau. Les surâgés représentant à peu près la moitié 27  des effectifs, leur prise en charge dans des classes simples, ainsi que celle des élèves réguliers, demanderait un quasidoublement  des  effectifs  d'instituteurs  dans  les  écoles  concernées.  L'adoption  du  système multigrade est par conséquent inévitable ; aussi bien pour les élèves surâgés que pour les autres. Les classes multigrades sont plus exigeantes en termes d'encadrement que les classes simples,  c'est  pourquoi  on  programme  une  diminution  du  nombre  moyen  d'élèves  par classe : il passera de 47 en 2011/12 28  à 44,6 en 2015/16 puis à 40 en 2020/21. La double vacation des salles sera appliquée prioritairement pour accueillir les programmes accélérés ; cette double vacation exige que les écoles qui la pratiqueront soient dotées d'infrastructures électriques. Par ailleurs, les enseignants ainsi que les directeurs d'école seront formés à la pratique de ce système. Tout ceci exige une certaine prudence dans la programmation de l'expansion de ce système : c'est pourquoi les programmes accélérés ne commenceront qu'en 2014/15 et ne s'appliqueront aux élèves concernés que très progressivement (de 14% en 2014/15 à 100% en  2020/21) ;  le  secteur  non  public  sera  appelé  à  y  participer,  mais  le  secteur  public  en
+La prise en charge des surâgés dans des programmes accélérés s'effectuera au sein même des écoles. La taille moyenne des écoles publiques est de 288 élèves 26 , soit grosso modo 48 élèves par niveau. Les surâgés représentant à peu près la moitié 27  des effectifs, leur prise en charge dans des classes simples, ainsi que celle des élèves réguliers, demanderait un quasi-doublement  des  effectifs  d'instituteurs  dans  les  écoles  concernées.  L'adoption  du  système multigrade est par conséquent inévitable ; aussi bien pour les élèves surâgés que pour les autres. Les classes multigrades sont plus exigeantes en termes d'encadrement que les classes simples,  c'est  pourquoi  on  programme  une  diminution  du  nombre  moyen  d'élèves  par classe : il passera de 47 en 2011/12 28  à 44,6 en 2015/16 puis à 40 en 2020/21. La double vacation des salles sera appliquée prioritairement pour accueillir les programmes accélérés ; cette double vacation exige que les écoles qui la pratiqueront soient dotées d'infrastructures électriques. Par ailleurs, les enseignants ainsi que les directeurs d'école seront formés à la pratique de ce système. Tout ceci exige une certaine prudence dans la programmation de l'expansion de ce système : c'est pourquoi les programmes accélérés ne commenceront qu'en 2014/15 et ne s'appliqueront aux élèves concernés que très progressivement (de 14% en 2014/15 à 100% en  2020/21) ;  le  secteur  non  public  sera  appelé  à  y  participer,  mais  le  secteur  public  en
 
 prendra la plus grande part dans les premières années.
 
@@ -1078,6 +1268,15 @@ commencera en 2014/15, à raison de 14% de la population cible et ne sera compl�
 
 Graphique 2 : Populations de déscolarisés et de scolarisés dans le fondamental 1&2
 
+Déscolarisés non pris en charge
+Déscolarisés en formation
+Programmes accélérés
+Réguliers surâgés
+Réguliers non surâgés
+
+3 500 000 | 3 000 000 | 2 500 000 | 2 000 000 | 1 500 000 | 1 000 000 | 500 000 | 0
+2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022
+
 ##### Le subventionnement des écoles non publiques
 
 Le  subventionnement  direct  actuel  des  écoles  non  publiques  sera  en  effet  poursuivi. L'objectif  d'atteindre  une  couverture  de  76%  des  écoles  est  toutefois  reporté  à  2020/21. Cette  couverture  était  estimée  à  17%  en  2010/11 ;  le  MENFP  prendra  des  mesures  afin qu'elle atteigne 51% en 2015/16. Outre ce subventionnement direct qui s'élève à 90 $ par élève,  l'Etat  continuera  à  subventionner  le  prix  des  manuels  scolaires,  subvention  dont bénéficient les élèves du non-public comme ceux du public.
@@ -1100,7 +1299,7 @@ La  construction  de  nouvelles  salles  de  classe  sera  effectuée  en  prior
 
 Pour  réduire  les  besoins  en  salles  de  classe,  le  pourcentage  qui  en  sera  utilisé  en  double vacation sera significativement augmenté : il passera de 7% à 39% en 2015/16, puis à 50% en 2020/21. Il sera ainsi nécessaire de construire près de 5 000 salles de classe sur les trois ans du PIPE 29  et d'en nationaliser 1 300 30 .
 
-Près de la moitié des écoles n'ont pas été construites en tant que telles : il s'agit notamment de  maisons  d'habitation,  d'églises  ou  de  tonnelles,  voire  d'arbres.  Cette  situation  est  plus fréquente dans le non-public (51%) que dans le public (21%). La qualité des infrastructures des autres écoles n'est pas toujours satisfaisante et on estime que 50% du stock de 2009/10 devait être réhabilité. Cet objectif sera atteint en 2020/21 et en 2015/16, 23% de ce stock restera à réhabiliter. Ainsi, sur la période du PIPE, 1 400 salles seront réhabilitées.
+Près de la moitié des écoles n'ont pas été construites en tant que telles : il s'agit notamment de  maisons  d'habitation,  d'églises  ou  de  tonnelles,  voire  d'arbres.  Cette  situation  est  plus fréquente dans le non-public (51%) que dans le public (21%). La qualité des infrastructures
 
 > 29  Les constructions de salles sont réalisées, et comptabilisées, l'année qui précède leur mise en service.
 
@@ -1112,45 +1311,48 @@ Près de la moitié des écoles n'ont pas été construites en tant que telles :
 
 [[START OF PAGE 54]]
 
+des autres écoles n'est pas toujours satisfaisante et on estime que 50% du stock de 2009/10 devait être réhabilité. Cet objectif sera atteint en 2020/21 et en 2015/16, 23% de ce stock restera à réhabiliter. Ainsi, sur la période du PIPE, 1 400 salles seront réhabilitées.
+
 54 | P a g e
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 16 : Fondamental 1er et 2e cycles – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Hypothèse âge moyen d'entrée à l'école | 7,6 | 7,2 | 7,2 | 7,2 | 7,1 | 7,1 | 6,9
 Programme de sensibilisation
-% enfants de 9 à 13 ans que l'on fait venir plus tôt | 0% | 0% | 0% | 5% | 19% | 32% | 100%
-qu'ils ne l'auraient fait sans intervention Nombre d'enfants concernés | 6 570 | 19 673 | 22 061 | 0
+% enfants de 9 à 13 ans que l'on fait venir plus tôt qu'ils ne l'auraient fait sans intervention | 0% | 0% | 0% | 5% | 19% | 32% | 100%
+Nombre d'enfants concernés |  |  |  | 6 570 | 19 673 | 22 061 | 0
 Nouveaux entrants (public + non-public) | 426 071 | 474 831 | 479 114 | 489 730 | 506 637 | 512 577 | 499 663
 dont entrées tardives | 106 481 | 72 833 | 73 490 | 75 686 | 78 717 | 71 003 | 9 819
 Efficacité interne (public + non-public)
-Taux moyen d'abandon (1 e à 5 e ) (Réguliers) | 10% | 9% | 9% | 4% | 3% | 3% | 1%
-Taux moyen de redoublement (1 e à 5 e ) (Réguliers) | 21% | 15% | 15% | 8% | 8% | 8% | 8%
+Taux moyen d'abandon (1e à 5e) (Réguliers) | 10% | 9% | 9% | 4% | 3% | 3% | 1%
+Taux moyen de redoublement (1e à 5e) (Réguliers) | 21% | 15% | 15% | 8% | 8% | 8% | 8%
 Taux de survie transversal (Réguliers) | 57% | 60% | 60% | 78% | 81% | 83% | 95%
 Taux de survie transversal (tous programmes) | 57% | 60% | 60% | 78% | 83% | 87% | 95%
-Taux moyen de réussite des élèves aux tests d'évaluation des acquis en lecture, mathématiques | 80%
-Taux de réussite aux examens nationaux | 95%
+Taux moyen de réussite des élèves aux tests d'évaluation des acquis en lecture, mathématiques et écriture |  |  |  |  |  | 80% | 
+Taux de réussite aux examens nationaux |  |  |  |  |  | 95% | 
 % Réguliers surâgés / Réguliers | 48% | 33% | 30% | 34% | 28% | 20% | 1%
 % Réguliers non surâgés / (Réguliers + Accélérés) | 52% | 67% | 70% | 66% | 70% | 75% | 94%
 Effectifs d'élèves (public + non-public)
 Programme accéléré
-% Entrées tardives vers FTP | 0% | 0% | 0% | 0%
-% Entrées tardives vers programme acc. F1&2 | 0% | 14% | 28% | 100%
-Effectif total entrées tardives dans programme | 0 | 11 045 | 31 050 | 73 363
-accéléré F1&2
-% Surâgés dirigés vers FTP | 0% | 1% | 2% | 16%
-% Surâgés dirigés vers programme acc. F1&2 | 0% | 14% | 29% | 100%
-Effectif total surâgés dans programme acc. F1&2 | 561
-0 | 68 354 | 147 409 | 81
+% Entrées tardives vers FTP |  |  |  | 0% | 0% | 0% | 0%
+% Entrées tardives vers programme acc. F1&2 |  |  |  | 0% | 14% | 28% | 100%
+Effectif total entrées tardives dans programme accéléré F1&2 |  |  |  | 0 | 11 045 | 31 050 | 73 363
+% Surâgés dirigés vers FTP |  |  |  | 0% | 1% | 2% | 16%
+% Surâgés dirigés vers programme acc. F1&2 |  |  |  | 0% | 14% | 29% | 100%
+Effectif total surâgés dans programme acc. F1&2 |  |  |  | 0 | 68 354 | 147 409 | 81 561
 Programme régulier | 2 210 222 | 2 454 980 | 2 467 727 | 2 504 568 | 2 572 788 | 2 585 208 | 2 834 371
-% déscolarisés précoces pris en charge | 0% | 14% | 39% | 97%
-Effectif déscolarisés précoces dans programme | 0 | 48 997 | 132 479 | 100 965
-Effectif déscolarisés précoces de 6-12 ans non pris en charge | 244 085 | 353 643 | 299 452 | 211 314 | 3 058
+Programme déscolarisés précoces
+% déscolarisés précoces pris en charge |  |  |  | 0% | 14% | 39% | 97%
+Effectif déscolarisés précoces dans programme |  |  |  | 0 | 48 997 | 132 479 | 100 965
+Effectif déscolarisés précoces de 6-12 ans non pris en charge |  |  | 244 085 | 353 643 | 299 452 | 211 314 | 3 058
 Ecoles publiques
-% des effectifs du F al 1&2 (yc accéléré) dans Public | 22% | 21% | 21% | 24% | 26% | 28% | 40%
+% des effectifs du Fᵃˡ 1&2 (yc accéléré) dans Public | 22% | 21% | 21% | 24% | 26% | 28% | 40%
 Effectif à "nationaliser" | 0 | 0 | 0 | 29 627 | 0 | 0 | 60 670
 Effectif total du Public | 486 619 | 522 233 | 524 945 | 591 412 | 737 353 | 914 465 | 1 296 682
 dont programme pour déscolarisés | 0 | 0 | 0 | 0 | 48 997 | 132 479 | 100 965
@@ -1165,8 +1367,6 @@ Introduction précoce aux nouvelles technologies
 Effectif d'enfants du programme OLPC | 0 | 0 | 0 | 125 000 | 250 000 | 375 000 | 1 000 000
 Nouveaux bénéficiaires par an | 0 | 0 | 0 | 125 000 | 125 000 | 125 000 | 125 000
 
-Tableau 16 : Fondamental 1er et 2e cycles - Indicateurs
-
 * : ce ratio est beaucoup plus bas dans les écoles non publiques (31,6 en 2010/11)
 
 55 | P a g e
@@ -1175,65 +1375,67 @@ Tableau 16 : Fondamental 1er et 2e cycles - Indicateurs
 
 [[START OF PAGE 56]]
 
-Fondamental 1&2 | Unité | Indicateurs | Coûts (000 US$) | PIP E | Service Respon- sable | Sources de financement
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 2014/15 2015/16 | Total
-Décisions | X
-Mise en place des classes multigrades Élimination des redoublements (promotion automatique) | 1e & 2e | X 3e, 4e & 5e | 3e, 4e & 5e 51%
-Étendre le système de double vacation à 23% des salles du fond. 1 et 2 | 7% | 13% | 20%
-Fonctionnement
-Subvention des places dans les écoles non publiques | % élèves | 41% | 46% | 69 842 | 80 640 | 90 402 | 240 884 | X | DAEP | BM, Trésor public
-Suppression des frais de scolarité dans les écoles publiques | % élèves subvention | 100% | 100% | 100% | 2 052 | 2 514 | 3 118 | 7 683 | X | DG | Trésor public
-Subvention (70%) du prix des manuels scolaires (élèves du public et du non-public) | par élève et par an (HTG) subvention par | 129 | 131 | 134 | 7 468 | 8 064 | 8 807 | 24 340 | DG | Trésor public
-Dotation des écoles en manuels scolaires (élèves du public) | élève et par an (HTG) | 297 | 303 | 308 | 4 063 | 5 071 | 6 404 | 15 538 | DG | Trésor public
-Programme accéléré (public & non- public) | Déscolarisés Entrées tardives | 48 997 11 045 | 132 479 31 050 | DEF, DCQ DEF, DCQ DEF, | Trésor public Trésor public | Trésor public Trésor public
-classe | Surâgés | 68 354 | 147 409 | DCQ | Trésor public | Trésor public Trésor public
-Recrutement d'enseignants pour les nouvelles salles de | enseignant | 3 808 | 4 744 4 744 791 330 | DRH, DDE DRH, DDE | Trésor public Trésor public
-dont nouveaux enseignants | enseignant heure- enseignant | 1 873 1 234 | 3 808 | 3 693 | 3 277 | 2 698 | 9 667 | DEF
-Soutien scolaire Recrutement de directeurs pour les nouvelles écoles | directeur | 1 064 282 53 | 961 160 353 | 358 | DRH, DDE | Trésor public
-Subvention des cantines scolaires | % élèves | 37% | 39% | 40% | 51 015 | 57 389 | 62 476 | 170 880 | X | PNCS | PAM, BM, Trésor public
-Activités récurrentes non comptabilisées dans les coûts des actions | 61 205 | 72 609 | 87 057 | 220 871
-Total | 199 338 | 229 563 | 260 961 | 689 862
-Financement
-Etat | 149 921 | 191 462 | 206 759 | 548 142
-PTF (promesses) | 51 133 | 12 150 | 0 | 63 283
-Gap | -1 717 | 25 951 | 54 202 | 78 436
-Investissement Evaluation des compétences de base en lecture et en mathématiques | X | X | X | 50 | 50 | 50 | 150 | X | DEF
+Tableau 17 : Fondamental 1er et 2e cycles – Programme d'action
 
-Tableau 17 : Fondamental 1er et 2e cycles - Programme d'action
+Fondamental 1&2 | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Décisions
+Mise en place des classes multigrades |  |  | X | X |  |  |  |  |  |  | 
+Élimination des redoublements (promotion automatique) |  | 1e & 2e | 3e, 4e & 5e | 3e, 4e & 5e |  |  |  |  |  |  | 
+Étendre le système de double vacation à 23% des salles du fond. 1 et 2 |  | 7% | 13% | 20% |  |  |  |  |  |  | 
+Fonctionnement
+Subvention des places dans les écoles non publiques | % élèves | 41% | 46% | 51% | 69 842 | 80 640 | 90 402 | 240 884 | X | DAEP | BM, Trésor public
+Suppression des frais de scolarité dans les écoles publiques | % élèves | 100% | 100% | 100% | 2 052 | 2 514 | 3 118 | 7 683 | X | DG | Trésor public
+Subvention (70%) du prix des manuels scolaires (élèves du public et du non-public) | subvention par élève et par an (HTG) | 129 | 131 | 134 | 7 468 | 8 064 | 8 807 | 24 340 |  | DG | Trésor public
+Dotation des écoles en manuels scolaires (élèves du public) | subvention par élève et par an (HTG) | 297 | 303 | 308 | 4 063 | 5 071 | 6 404 | 15 538 |  | DG | Trésor public
+Programme accéléré (public & non-public) — Déscolarisés |  | 48 997 | 132 479 |  |  |  |  |  | DEF, DCQ | Trésor public | Trésor public
+Programme accéléré (public & non-public) — Entrées tardives |  | 11 045 | 31 050 |  |  |  |  |  | DEF, DCQ | Trésor public | Trésor public
+Programme accéléré (public & non-public) — Surâgés |  | 68 354 | 147 409 |  |  |  |  |  | DEF, DCQ | Trésor public | Trésor public
+Recrutement d'enseignants pour les nouvelles salles de classe | enseignant | 1 873 | 3 808 | 4 744 |  |  |  |  |  | DRH, DDE | Trésor public
+dont nouveaux enseignants | enseignant | 1 234 | 3 808 | 4 744 |  |  |  |  |  | DRH, DDE | Trésor public
+Soutien scolaire | heure-enseignant | 1 064 282 | 961 160 | 791 330 | 3 693 | 3 277 | 2 698 | 9 667 |  | DEF | Trésor public
+Recrutement de directeurs pour les nouvelles écoles | directeur | 53 | 353 | 358 |  |  |  |  |  | DRH, DDE | Trésor public
+Subvention des cantines scolaires | % élèves | 37% | 39% | 40% | 51 015 | 57 389 | 62 476 | 170 880 | X | PNCS | PAM, BM, Trésor public
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 61 205 | 72 609 | 87 057 | 220 871 |  |  | 
+Total |  |  |  |  | 199 338 | 229 563 | 260 961 | 689 862 |  |  | 
+Financement
+Etat |  |  |  |  | 149 921 | 191 462 | 206 759 | 548 142 |  |  | 
+PTF (promesses) |  |  |  |  | 51 133 | 12 150 | 0 | 63 283 |  |  | 
+Gap |  |  |  |  | -1 717 | 25 951 | 54 202 | 78 436 |  |  | 
+Investissement
+Evaluation des compétences de base en lecture et en mathématiques |  | X | X | X | 50 | 50 | 50 | 150 | X | DEF | 
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-Fondamental 1&2 | Unité | Indicateurs | Coûts | (000 US$) | PIP E | Service Respon- | Sources de financement
+Fondamental 1&2 | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | sable
-Campagne de sensibilisation pour réduire les entrées tardives | X | X | X | 20 | 20 | 20 | 60 | X | BUGEP
-Etude sur la situation des écoles | X | 50 | 50 | X | DEF
-Réalisation d'études sur les enfants en situation de vulnérabilité | X | 50 | 50 | X | DG
-Elaboration de la politique des manuels scolaires | X | 20 | 20 | X | DG
-Elaboration de la stratégie des subventions | X | 20 | 20 | X | DG
+Campagne de sensibilisation pour réduire les entrées tardives |  | X | X | X | 20 | 20 | 20 | 60 | X | BUGEP | 
+Etude sur la situation des écoles |  | X |  |  | 50 |  |  | 50 | X | DEF | 
+Réalisation d'études sur les enfants en situation de vulnérabilité |  | X |  |  | 50 |  |  | 50 | X | DG | 
+Elaboration de la politique des manuels scolaires |  | X |  |  | 20 |  |  | 20 | X | DG | 
+Elaboration de la stratégie des subventions |  | X |  |  | 20 |  |  | 20 | X | DG | 
 Introduction précoce aux nouvelles technologies (OLPC) | élève | 125 000 | 125 000 | 125 000 | 21 875 | 21 875 | 21 875 | 65 625 | X | DG | BID
 Formation continue des agents éducatifs dans le fondamental 1&2 | agent | 20 053 | 29 490 | 40 320 | 2 165 | 3 184 | 4 354 | 9 704 | X | DFP | BM, AECID, Trésor public
-Formation des enseignants sur le multigrade (coûts compris ci-dessus) | enseignant | 958 | 1 406 | 1 220 | DFP | Trésor public
+Formation des enseignants sur le multigrade (coûts compris ci-dessus) | enseignant | 958 | 1 406 | 1 220 |  |  |  |  |  | DFP | Trésor public
 Construction de nouvelles salles de classe dans le fondamental 1 et 2 | salle | 2 454 | 2 923 | 2 352 | 61 986 | 73 833 | 59 404 | 195 222 | X | DEF, DGS | AECID, BID, UNICEF, Trésor public
 Nationalisation des salles de classe | salle | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | DG | Trésor public
-Dotation en infrastructures électriques pour 100% des écoles publiques fonctionnant en double vacation | % d'écoles | 100% | 100% | 100% | X | DGS
+Dotation en infrastructures électriques pour 100% des écoles publiques fonctionnant en double vacation | % d'écoles | 100% | 100% | 100% |  |  |  |  | X | DGS | 
 Réhabilitation des salles de classe | salle | 479 | 479 | 479 | 4 123 | 4 398 | 4 673 | 13 195 | X | DEF, DGS | AECID, BID, Trésor public
-Construction de cantines scolaires | cantine | 67 | 84 | 103 | 302 | 419 | 565 | 1 287 | X | PNCS, DGS
-Construction d'espaces de stockage des vivres | espace | 161 | 195 | 233 | 804 | 973 | 1 165 | 2 942 | X | PNCS, DGS
-Total | 91 466 | 104 753 | 92 106 | 288 325
+Construction de cantines scolaires | cantine | 67 | 84 | 103 | 302 | 419 | 565 | 1 287 | X | PNCS, DGS | 
+Construction d'espaces de stockage des vivres | espace | 161 | 195 | 233 | 804 | 973 | 1 165 | 2 942 | X | PNCS, DGS | 
+Total |  |  |  |  | 91 466 | 104 753 | 92 106 | 288 325 |  |  | 
 Financement
-Etat | 0 | 27 341 | 18 319 | 45 660
-PTF (promesses) | 105 601 | 34 325 | 21 160 | 161 086
-Gap | -14 135 | 43 087 | 52 627 | 81 580
-Total | 290 804
-Coûts | 334 316 | 353 067 | 978 187
+Etat |  |  |  |  | 0 | 27 341 | 18 319 | 45 660 |  |  | 
+PTF (promesses) |  |  |  |  | 105 601 | 34 325 | 21 160 | 161 086 |  |  | 
+Gap |  |  |  |  | -14 135 | 43 087 | 52 627 | 81 580 |  |  | 
+Total
+Coûts |  |  |  |  | 290 804 | 334 316 | 353 067 | 978 187 |  |  | 
 Financement
-Etat | 149 921 | 218 802 | 225 078 | 593 802
-PTF (promesses) | 156 734 | 46 475 | 21 160 | 224 369
-Gap | -15 852 | 69 039 | 106 829 | 160 016
+Etat |  |  |  |  | 149 921 | 218 802 | 225 078 | 593 802 |  |  | 
+PTF (promesses) |  |  |  |  | 156 734 | 46 475 | 21 160 | 224 369 |  |  | 
+Gap |  |  |  |  | -15 852 | 69 039 | 106 829 | 160 016 |  |  | 
 
 57 | P a g e
 
@@ -1245,53 +1447,52 @@ Gap | -15 852 | 69 039 | 106 829 | 160 016
 
 La Secrétairerie d'État à l'Alphabétisation (SEA) indique qu'au cours des années 2007-2010, 40 820 personnes de 13 ans et plus ont été alphabétisées à travers le pays. Cependant, on estime  à  2,5  millions  le  nombre  de  personnes  de  15  ans  et  plus  qui  ne  possèdent  pas  les compétences de base en écriture et en calcul. On se fixe l'objectif de réduire à 2 millions cet effectif d'ici la fin du PIPE et à 1,75 million d'ici 2020/21.
 
-Les  mesures  retenues  à  ce  niveau  visent  à  promouvoir  l'alphabétisation  et  la  postalphabétisation au profit des jeunes et adultes. La priorité sera accordée aux jeunes filles et aux femmes non scolarisées en milieu rural. Les méthodes d'alphabétisation seront basées essentiellement sur la mobilisation sociale et les organisations de base des communautés. Il s'agira d'une alphabétisation fonctionnelle visant à inculquer aux bénéficiaires des connaissances ainsi que des compétences pratiques afin qu'ils puissent influencer positivement leurs conditions socioéconomiques ainsi que leur environnement.
+Les  mesures  retenues  à  ce  niveau  visent  à  promouvoir  l'alphabétisation  et  la  post-alphabétisation au profit des jeunes et adultes. La priorité sera accordée aux jeunes filles et aux femmes non scolarisées en milieu rural. Les méthodes d'alphabétisation seront basées essentiellement sur la mobilisation sociale et les organisations de base des communautés. Il s'agira d'une alphabétisation fonctionnelle visant à inculquer aux bénéficiaires des connaissances ainsi que des compétences pratiques afin qu'ils puissent influencer positivement leurs conditions socioéconomiques ainsi que leur environnement.
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 18 : Alphabétisation et ENF – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Nombre de personnes analphabètes | 2 416 667 | 2 333 333 | 2 250 000 | 2 166 667 | 2 083 333 | 2 000 000 | 1 750 000
 Nombre de personnes de 13 ans et + alphabétisées dans l'année | 83 333 | 83 333 | 83 333 | 83 333 | 83 333 | 83 333 | 50 000
-
-Tableau 18 : Alphabétisation et ENF - Indicateurs
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
-Alphabétisation et ENF | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Fonctionnement
-Recruter et former des moniteurs | moniteur | 54 | 723 | 808 | DRH, DDE | Trésor public
-dont nouveaux moniteurs | moniteur | 54 | 83 | 157 | DRH, DDE | Trésor public
-Recruter et former des superviseurs de centres | superviseur | 30 | SEA | Trésor public
-Activités récurrentes non comptabilisées dans les coûts | 3 540 | 3 558 | 3 576 | 10 673
-des actions | 3 540 | 3 558 | 10 673
-Total | 3 576
-Financement Etat | 3 532 | 3 118 | 2 826 | 9 476
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 8 | 440 | 750 | 1 197
-Investissement
-Aménager et équiper 2 centres pour accueillir les participants | X | X | 750 | 750 | 1 500 | X | SEA
-Intensifier la campagne de sensibilisation relative à l'alphabétisation | X | X | X | X | SEA
-Développer et mettre en place une stratégie pour la participation du secteur privé et de la société civile dans la fourniture des services d'alphabétisation | X | X | SEA
-Mettre en place un système facilitant et dynamisant l'implication des écoles, des églises, des ONG, etc. dans la fourniture des services d'alphabétisation | X | X | SEA
-Revoir et développer les programmes de post alphabétisation | X | X | SEA
-Etablir un partenariat avec l'INFP pour la formation aux petits métiers | X | X | INFP, SEA
-Développer un plan d'action stratégique d'éducation des adultes
-X | X | SEA
-Total | 0 | 750 | 750 | 1 500
-Etat | 0 | 291 | 194 | 485
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 0 | 459 | 556 | 1 015
-Total
-Coûts | 3 540 | 4 308 | 4 326 | 12 173
-Financement
-Etat | 3 532 | 3 409 | 3 020 | 9 961
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 8 | 899 | 1 306 | 2 213
+Tableau 19 : Alphabétisation et ENF – Programme d'action
 
-Tableau 19 : Alphabétisation et ENF - Programme d'action
+Alphabétisation et ENF | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Fonctionnement
+Recruter et former des moniteurs | moniteur | 54 | 723 | 808 |  |  |  |  |  | DRH, DDE | Trésor public
+dont nouveaux moniteurs | moniteur | 54 | 83 | 157 |  |  |  |  |  | DRH, DDE | Trésor public
+Recruter et former des superviseurs de centres | superviseur |  |  | 30 |  |  |  |  |  | SEA | Trésor public
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 3 540 | 3 558 | 3 576 | 10 673 |  |  | 
+Total |  |  |  |  | 3 540 | 3 558 | 3 576 | 10 673 |  |  | 
+Financement
+Etat |  |  |  |  | 3 532 | 3 118 | 2 826 | 9 476 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 8 | 440 | 750 | 1 197 |  |  | 
+Investissement
+Aménager et équiper 2 centres pour accueillir les participants |  |  | X | X |  | 750 | 750 | 1 500 | X | SEA | 
+Intensifier la campagne de sensibilisation relative à l'alphabétisation |  | X | X | X |  |  |  |  | X | SEA | 
+Développer et mettre en place une stratégie pour la participation du secteur privé et de la société civile dans la fourniture des services d'alphabétisation |  | X |  |  |  |  |  |  | X | SEA | 
+Mettre en place un système facilitant et dynamisant l'implication des écoles, des églises, des ONG, etc. dans la fourniture des services d'alphabétisation |  | X |  |  |  |  |  |  | X | SEA | 
+Revoir et développer les programmes de post alphabétisation |  | X |  |  |  |  |  |  | X | SEA | 
+Etablir un partenariat avec l'INFP pour la formation aux petits métiers |  | X |  |  |  |  |  |  | X | INFP, SEA | 
+Développer un plan d'action stratégique d'éducation des adultes |  | X |  |  |  |  |  |  | X | SEA | 
+Total |  |  |  |  | 0 | 750 | 750 | 1 500 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 291 | 194 | 485 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 0 | 459 | 556 | 1 015 |  |  | 
+Total
+Coûts |  |  |  |  | 3 540 | 4 308 | 4 326 | 12 173 |  |  | 
+Financement
+Etat |  |  |  |  | 3 532 | 3 409 | 3 020 | 9 961 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 8 | 899 | 1 306 | 2 213 |  |  | 
 
 [[END OF PAGE 59]]
 
@@ -1331,14 +1532,16 @@ Seulement  479  salles  de  classe  devront  être  construites  durant  le  PIP
 
 [[START OF PAGE 62]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 20 : Fondamental 3 – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
-Taux de transition Fondamental 2 Réguliers/F al 3 | 60% | 61% | 61% | 61% | 61% | 67% | 95%
-Taux de transition F al 2 Programmes accélérés/F al 3 | 0% | 0% | 0% | 8% | 16% | 24% | 65%
-Nombre de nouveaux entrants dans le F al 3 | 130 867 | 148 302 | 158 299 | 171 054 | 170 156 | 178 234 | 403 043
+Taux de transition Fondamental 2 Réguliers/Fᵃˡ 3 | 60% | 61% | 61% | 61% | 61% | 67% | 95%
+Taux de transition Fᵃˡ 2 Programmes accélérés/Fᵃˡ 3 | 0% | 0% | 0% | 8% | 16% | 24% | 65%
+Nombre de nouveaux entrants dans le Fᵃˡ 3 | 130 867 | 148 302 | 158 299 | 171 054 | 170 156 | 178 234 | 403 043
 Taux de survie dans le cycle | 71% | 72% | 72% | 74% | 76% | 79% | 90%
 % de redoublants dans le cycle | 11% | 11% | 11% | 10% | 9% | 8% | 3%
-Nombre total d'élèves | 363 598 | 426 062 | 455 968 | 494 091 | 492 567 | 516 615 | 172 375
+Nombre total d'élèves | 363 598 | 426 062 | 455 968 | 494 091 | 492 567 | 516 615 | 1 172 375
 % des enfants bénéficiaires de la cantine | 3% | 3% | 3% | 4% | 5% | 6% | 10%
 Fondamental 3 Public
 % d'élèves dans le Public | 31% | 30% | 31% | 32% | 33% | 34% | 40%
@@ -1350,45 +1553,44 @@ Nombre total d'enseignants en classe dans le public | 3 253 | 3 749 | 3 973 | 4 
 Nombre d'élèves par enseignant dans le public | 35 | 34 | 36 | 35 | 35 | 35 | 33
 % de salles de classe en double vacation | 9% | 9% | 9% | 14% | 19% | 24% | 50%
 
-Tableau 20 : Fondamental 3 - Indicateurs
-
 62 | P a g e
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
 
-Fondamental 3 | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Décisions
-Application de la double vacation à 24% des salles de classe du 3 e cycle fondamental | 14% | 19% | 24% | DEF
-Fonctionnement
-Recrutement d'enseignants, pour le 3 e cycle fondamental | enseignant | 589 | 258 | 519 | DRH, DDE | Trésor public Trésor public
-dont nouveaux enseignants | enseignant | 589 | 115 | 519 | DRH, DDE
-Subvention des cantines scolaires | % élèves | 4% | 5% | 6% | 1 047 | 1 281 | 1 592 | 3 921 | X | PNCS | PAM, BM, Trésor public
-Activités récurrentes non comptabilisées dans les coûts des actions | 24 068 | 24 856 | 27 479 | 76 403
-Total | 25 115 | 26 137 | 29 071 | 80 323
-Financement Etat | 25 061 | 22 907 | 22 974 | 70 942
-PTF (promesses) Gap | 0 54 | 0 3 231 | 0 6 097 | 0 9 382
-Investissement
-Construction de salles de classe | salle | 21 | 116 | 342 | 632 | 3 514 | 10 367 | 14 513 | X | DGS
-Réhabilitations de salles de classe | salle | 64 | 64 | 64 | 458 | 530 | 603 | 1 591 | X | DGS
-Dotation en infrastructures électriques des écoles fonctionnant en double vacation | 100% | 100% | 100% | X | DEF
-Formation continue des agents éducatifs | agent | 929 | 989 | 2 136 | 251 | 267 | 577 | 1 095 | X | DFP
-Total | 1 341 | 4 312 | 11 546 | 17 199
-Financement
-Etat | 0 | 43 | 1 897 | 1 940
-PTF (promesses) | 6 300 | 4 200 | 4 200 | 14 700
-Gap | -4 959 | 68 | 5 449 | 559
-Total
-Coûts | 26 456 | 30 449 | 40 618 | 97 522
-Financement
-Etat | 25 061 | 22 950 | 24 871 | 72 882
-PTF (promesses) | 6 300 | 4 200 | 4 200 | 14 700
-Gap | -4 905 | 3 299 | 11 546 | 9 940
+Tableau 21 : Fondamental 3 – Programme d'action
 
-Tableau 21 : Fondamental 3 - Programme d'action
+Fondamental 3 | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Décisions
+Application de la double vacation à 24% des salles de classe du 3e cycle fondamental |  | 14% | 19% | 24% |  |  |  |  |  | DEF | 
+Fonctionnement
+Recrutement d'enseignants, pour le 3e cycle fondamental | enseignant | 589 | 258 | 519 |  |  |  |  |  | DRH, DDE | Trésor public
+dont nouveaux enseignants | enseignant | 589 | 115 | 519 |  |  |  |  |  | DRH, DDE | Trésor public
+Subvention des cantines scolaires | % élèves | 4% | 5% | 6% | 1 047 | 1 281 | 1 592 | 3 921 | X | PNCS | PAM, BM, Trésor public
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 24 068 | 24 856 | 27 479 | 76 403 |  |  | 
+Total |  |  |  |  | 25 115 | 26 137 | 29 071 | 80 323 |  |  | 
+Financement
+Etat |  |  |  |  | 25 061 | 22 907 | 22 974 | 70 942 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 54 | 3 231 | 6 097 | 9 382 |  |  | 
+Investissement
+Construction de salles de classe | salle | 21 | 116 | 342 | 632 | 3 514 | 10 367 | 14 513 | X | DGS | 
+Réhabilitations de salles de classe | salle | 64 | 64 | 64 | 458 | 530 | 603 | 1 591 | X | DGS | 
+Dotation en infrastructures électriques des écoles fonctionnant en double vacation |  | 100% | 100% | 100% |  |  |  |  | X | DEF | 
+Formation continue des agents éducatifs | agent | 929 | 989 | 2 136 | 251 | 267 | 577 | 1 095 | X | DFP | 
+Total |  |  |  |  | 1 341 | 4 312 | 11 546 | 17 199 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 43 | 1 897 | 1 940 |  |  | 
+PTF (promesses) |  |  |  |  | 6 300 | 4 200 | 4 200 | 14 700 |  |  | 
+Gap |  |  |  |  | -4 959 | 68 | 5 449 | 559 |  |  | 
+Total
+Coûts |  |  |  |  | 26 456 | 30 449 | 40 618 | 97 522 |  |  | 
+Financement
+Etat |  |  |  |  | 25 061 | 22 950 | 24 871 | 72 882 |  |  | 
+PTF (promesses) |  |  |  |  | 6 300 | 4 200 | 4 200 | 14 700 |  |  | 
+Gap |  |  |  |  | -4 905 | 3 299 | 11 546 | 9 940 |  |  | 
 
 [[END OF PAGE 63]]
 
@@ -1412,7 +1614,9 @@ Un peu plus de 400 salles de classe seront construites au cours du PIPE. Le pour
 
 [[START OF PAGE 65]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 22 : Secondaire général de 4 ans – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Taux de transition fondamental 3 - secondaire | 80% | 80% | 80% | 80% | 80% | 80% | 80%
 Nombre de nouveaux entrants dans le secondaire | 80 394 | 83 126 | 89 269 | 99 814 | 102 507 | 110 546 | 284 290
@@ -1428,41 +1632,42 @@ Nombre total d'enseignants en classe dans le public | 1 681 | 1 784 | 1 902 | 2 
 Nombre moyen d'élèves par enseignant | 34,6 | 33,9 | 35,6 | 35,4 | 35,2 | 35,0 | 33,3
 Pourcentage de salles de classe en double flux | 8% | 8% | 8% | 13% | 19% | 24% | 50%
 
-Tableau 22 : Secondaire général de 4 ans - Indicateurs
-
 65 | P a g e
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
 
-Secondaire général de 4 ans | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Décisions | 13% | 19% | 24% | DES
-Application de la double vacation à 24% des salles de classe du 3 e cycle fondamental Fonctionnement
-Activités récurrentes non comptabilisées dans les coûts des actions Total | 12 109 | 13 262 | 15 484 | 40 855
-12 109 | 13 262 | 15 484 | 40 855
-Etat | 12 083 | 11 622 | 12 237 | 35 942
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 26 | 1 639 | 3
-247 | 4 913
-Investissement
-Réalisation de l'évaluation de l'expérimentation en cours | X | 20 | X | DES
-Élaboration d'un avant-projet de loi sur la normalisation du secondaire | X | 10 | X | Affaires juridiques
-Construction de nouvelles salles de classe destinées au secondaire | salle | 59 | 113 | 252 | 1 794 | 3 421 | 7 639 | 12 854 | X | DGS, DES
-Salles de classe réhabilitées | salle | 28 | 28 | 28 | 202 | 234 | 266 | 702 | X | DGS, DES
-Formation continue des agents éducatifs | agent | 455 | 542 | 1 173 | 123 | 146 | 317 | 586 | X | DFP
-Total | 2 149 | 3 801 | 8 222 | 14 172
-Financement
-Etat | 9 438 | 1 417 | 2 123 | 12 979
-PTF (promesses) Gap | 0 -7 289 | 150 2 234 | 0 6 099 | 150 1 043
-Total
-Financement Etat | 21 521 | 13 040 | 14 360 | 48 921
-PTF (promesses) | 0 | 150 | 0 | 150
-Gap | -7 263 | 3 873 | 9 346 | 5 956
+Tableau 23 : Secondaire général de 4 ans – Programme d'action
 
-Tableau 23 : Secondaire général de 4 ans - Programme d'action
+Secondaire général de 4 ans | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Décisions
+Application de la double vacation à 24% des salles de classe du 3e cycle fondamental |  | 13% | 19% | 24% |  |  |  |  |  | DES | 
+Fonctionnement
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 12 109 | 13 262 | 15 484 | 40 855 |  |  | 
+Total |  |  |  |  | 12 109 | 13 262 | 15 484 | 40 855 |  |  | 
+Financement
+Etat |  |  |  |  | 12 083 | 11 622 | 12 237 | 35 942 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 26 | 1 639 | 3 247 | 4 913 |  |  | 
+Investissement
+Réalisation de l'évaluation de l'expérimentation en cours |  | X |  |  | 20 |  |  |  | X | DES | 
+Élaboration d'un avant-projet de loi sur la normalisation du secondaire |  | X |  |  | 10 |  |  |  | X | Affaires juridiques | 
+Construction de nouvelles salles de classe destinées au secondaire | salle | 59 | 113 | 252 | 1 794 | 3 421 | 7 639 | 12 854 | X | DGS, DES | 
+Salles de classe réhabilitées | salle | 28 | 28 | 28 | 202 | 234 | 266 | 702 | X | DGS, DES | 
+Formation continue des agents éducatifs | agent | 455 | 542 | 1 173 | 123 | 146 | 317 | 586 | X | DFP | 
+Total |  |  |  |  | 2 149 | 3 801 | 8 222 | 14 172 |  |  | 
+Financement
+Etat |  |  |  |  | 9 438 | 1 417 | 2 123 | 12 979 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 150 | 0 | 150 |  |  | 
+Gap |  |  |  |  | -7 289 | 2 234 | 6 099 | 1 043 |  |  | 
+Total
+Coûts |  |  |  |  | 14 258 | 17 063 | 23 706 | 55 027 |  |  | 
+Financement
+Etat |  |  |  |  | 21 521 | 13 040 | 14 360 | 48 921 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 150 | 0 | 150 |  |  | 
+Gap |  |  |  |  | -7 263 | 3 873 | 9 346 | 5 956 |  |  | 
 
 [[END OF PAGE 66]]
 
@@ -1480,7 +1685,9 @@ La part du public est actuellement de 30%. Cette part augmentera jusqu'à 40% en
 
 [[START OF PAGE 68]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 24 : Supérieur – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Nombre total d'étudiants | 100 927 | 102 551 | 104 185 | 108 470 | 112 834 | 117 280 | 140 757
 Nombre d'étudiants pour 100 000 habitants | 985 | 985 | 985 | 1 009 | 1 034 | 1 059 | 1 182
@@ -1495,47 +1702,55 @@ UEH | 1 186 | 1 205 | 1 224 | 1 261 | 1 292 | 1 317 | 1 322
 Autres établissements | 230 | 234 | 238 | 324 | 422 | 533 | 1 322
 Coût unitaire hors salaires (US$) | 55 | 81 | 356 | 362 | 367 | 373 | 400
 
-Tableau 24 : Supérieur - Indicateurs
-
 68 | P a g e
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-Tableau 25 : Supérieur - Programme d'action
+Tableau 25 : Supérieur – Programme d'action
 
-Supérieur | Unité | Indicateurs 2014/15 | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Décisions Mettre en place un conseil d'orientation et de développement des universités en région Mettre en place le Conseil de l'enseignement supérieur, de la recherche et de l'innovation (CONESRI) Mettre en place la Conférence des recteurs et présidents d'université, dotée de ses règlements intérieurs et de ses organes administratifs Mise en place d'un réseau national d'experts de l'assurance qualité interagissant avec d'autres réseaux de la région caribéenne | X X X | Cabinet du Ministre Cabinet du Ministre Cabinet du Ministre Cabinet du Ministre
-Fonctionnement Activités récurrentes non comptabilisées dans les des actions
-coûts Total Financement Etat PTF (promesses) Gap | 25 871 25 871 25 815 0 56 | 28 145 28 145 24 667 0 | 30 834 30 834 24 367 0 6 466 | 84 850 84 850 74 849 0 10 001
-Investissement Construire et équiper 1 campus pour une université publique existante en région | 3 479
-X | 10 000 | 10 000 | X | DERS
-Implanter 1 nouveau campus universitaire dans le département du Centre Elaborer la loi organique des universités publiques en région | X | X | 5 | 15 000 | 15 000 5 | X X | DERS DERS
-Concevoir et réaliser le diagnostic de l'ensemble des institutions d'enseignement supérieur (IES) existantes | X | 20 | 20 | X | DERS
-Concevoir et réaliser le système d'information relatif à l'enseignement supérieur | 20 | 20 | X | DERS | UNESCO
-Élaborer le cadre normatif du secteur de l'enseignement supérieur | X | 5 | 5 | X | DERS
-Élaborer le plan stratégique du secteur de l'enseignement supérieur | 5 | 5 | X | DERS
-Mise en place d'un dispositif d'assurance qualité | X | 10 | 10 | X | DERS
-Total | 40 | 25 | 25 000 | 25 065
-Financement Etat | 176 | 10 | 6 455 | 6 641
+Supérieur | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Décisions
+Mettre en place un conseil d'orientation et de développement des universités en région |  | X |  |  |  |  |  |  |  | Cabinet du Ministre | 
+Mettre en place le Conseil de l'enseignement supérieur, de la recherche et de l'innovation (CONESRI) |  | X |  |  |  |  |  |  |  | Cabinet du Ministre | 
+Mettre en place la Conférence des recteurs et présidents d'université, dotée de ses règlements intérieurs et de ses organes administratifs |  | X |  |  |  |  |  |  |  | Cabinet du Ministre | 
+Mise en place d'un réseau national d'experts de l'assurance qualité interagissant avec d'autres réseaux de la région caribéenne |  |  | X |  |  |  |  |  |  | Cabinet du Ministre | 
+Fonctionnement
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 25 871 | 28 145 | 30 834 | 84 850 |  |  | 
+Total |  |  |  |  | 25 871 | 28 145 | 30 834 | 84 850 |  |  | 
+Financement
+Etat |  |  |  |  | 25 815 | 24 667 | 24 367 | 74 849 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 56 | 3 479 | 6 466 | 10 001 |  |  | 
+Investissement
+Construire et équiper 1 campus pour une université publique existante en région |  |  |  | X |  |  | 10 000 | 10 000 | X | DERS | 
+Implanter 1 nouveau campus universitaire dans le département du Centre |  |  |  | X |  |  | 15 000 | 15 000 | X | DERS | 
+Elaborer la loi organique des universités publiques en région |  | X |  |  | 5 |  |  | 5 | X | DERS | 
+Concevoir et réaliser le diagnostic de l'ensemble des institutions d'enseignement supérieur (IES) existantes |  | X |  |  | 20 |  |  | 20 | X | DERS | 
+Concevoir et réaliser le système d'information relatif à l'enseignement supérieur |  |  | X |  |  | 20 |  | 20 | X | DERS | UNESCO
+Élaborer le cadre normatif du secteur de l'enseignement supérieur |  | X |  |  | 5 |  |  | 5 | X | DERS | 
+Élaborer le plan stratégique du secteur de l'enseignement supérieur |  |  | X |  |  | 5 |  | 5 | X | DERS | 
+Mise en place d'un dispositif d'assurance qualité |  | X |  |  | 10 |  |  | 10 | X | DERS | 
+Total |  |  |  |  | 40 | 25 | 25 000 | 25 065 |  |  | 
+Financement
+Etat |  |  |  |  | 176 | 10 | 6 455 | 6 641 |  |  | 
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
 
-Supérieur | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service responsable | Sources de financement
---- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | -136 | 15 | 18 545 | 18 424
-Total Coûts | 25 911 | 28 170 | 55 834 | 109 915
+Supérieur | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | -136 | 15 | 18 545 | 18 424 |  |  | 
+Total
+Coûts |  |  |  |  | 25 911 | 28 170 | 55 834 | 109 915 |  |  | 
 Financement
-Etat | 25 991 | 24 676 | 30 822 | 81 490
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | -80 | 3 494 | 25 011 | 28 425
+Etat |  |  |  |  | 25 991 | 24 676 | 30 822 | 81 490 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | -80 | 3 494 | 25 011 | 28 425 |  |  | 
 
 70 | P a g e
 
@@ -1557,19 +1772,21 @@ Afin  d'améliorer  l'offre  publique  de  formation  professionnelle,  3  nouve
 
 [[START OF PAGE 72]]
 
-2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
+Tableau 26 : FTP – Indicateurs
+
+Indicateur | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2021
 --- | --- | --- | --- | --- | --- | --- | ---
 Programmes Déscolarisés & Accélérés
 Flux entrant en FTP
-Déscolarisés | 0 | 0 | 0 | 0
-Accélérés | 0 | 201 | 281 | 0
-Surâgés | 0 | 5 862 | 9 149 | 7 898
-Flux sortants des programmes accélérés | 0 | 0 | 3 641 | 30 607
+Déscolarisés |  |  |  | 0 | 0 | 0 | 0
+Accélérés |  |  |  | 0 | 201 | 281 | 0
+Surâgés |  |  |  | 0 | 5 862 | 9 149 | 7 898
+Flux sortants des programmes accélérés |  |  |  | 0 | 0 | 3 641 | 30 607
 Effectifs FTP
 Durée FTP pour les programmes accélérés | 2 | 2 | 2 | 2 | 2 | 2 | 2
-Effectif FTP pour les programmes accélérés | 0 | 6 063 | 19 135 | 77 265
-% dans le Public | 100% | 100% | 100% | 100%
-% subventionné au sein du Non public | 50% | 50% | 50% | 50%
+Effectif FTP pour les programmes accélérés |  |  |  | 0 | 6 063 | 19 135 | 77 265
+% dans le Public |  |  |  | 100% | 100% | 100% | 100%
+% subventionné au sein du Non public |  |  |  | 50% | 50% | 50% | 50%
 Effectif régulier | 25 483 | 26 231 | 27 043 | 31 163 | 35 283 | 39 402 | 60 000
 % dans le Public | 22% | 24% | 25% | 25% | 24% | 24% | 21%
 % subventionné au sein du Non public | 18% | 19% | 20% | 20% | 19% | 19% | 18%
@@ -1582,52 +1799,51 @@ Enseignement subventionné
 Nombre de participants | 3 664 | 3 848 | 4 040 | 4 630 | 5 213 | 5 788 | 8 532
 Subvention unitaire (US$) | 100 | 100 | 150 | 169 | 188 | 206 | 300
 
-Tableau 26 : FTP - Indicateurs
-
 72 | P a g e
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
 
-FTP | Unité | Indicateurs | Coûts (000 US$) | PIP E | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Décisions Mettre en place le Conseil tripartite pour le sous- secteur de la formation technique et professionnelle | X | Cabinet du Ministre
-Mettre en place un système de partenariat avec les entreprises pour assurer le stage des étudiants en formation | X | X | Cabinet du Ministre
-Mettre en place un système de validation des acquis professionnels pour le secteur informel | X | X | X | Cabinet du Ministre
-Fonctionnement
-Activités récurrentes non comptabilisées dans les coûts des actions | 6 681 | 11 826 | 22 106 | 40 613
-Total | 6 681 | 11 826 | 22 106 | 40 613
-Etat | 6 666 | 10 364 | 17 470 | 34 501
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 14 | 1 462 | 4 636 | 6 112
-Investissement
-Construire et équiper 3 CFP | X | X | X | 1 500 | 1 500 | 1 500 | 4 500 | X | INFP
-Elaborer le document de politique de la formation technique et professionnelle (FTP) | X | 20 | 20 | X | INFP
-Définir le cadre légal du système de la formation professionnelle | X | 10 | 10 | X | INFP
-Procéder à la réingénierie des programmes de formation en les adaptant aux réalités socioéconomiques du pays tout en prenant en compte les acquis scolaires | X | X | X | 30 | 30 | 30 | 90 | X | INFP
-Développer un système pour une gestion locale des centres de formation locaux par des structures | X | X | X | 5 | 5 | 5 | 15 | X | INFP
-locales (chambre de commerce, ONG,..) Total | 1 565 | 1 535 | 1 535 | 4 635
-Financement | 0 | 0 | 396 | 396
-Etat | 10 717 | 8
-PTF (promesses) | 500 | 0 | 19 217
+Tableau 27 : FTP – Programme d'action
 
-Tableau 27 : FTP - Programme d'action
+FTP | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Décisions
+Mettre en place le Conseil tripartite pour le sous-secteur de la formation technique et professionnelle |  | X |  |  |  |  |  |  |  | Cabinet du Ministre | 
+Mettre en place un système de partenariat avec les entreprises pour assurer le stage des étudiants en formation |  | X | X |  |  |  |  |  |  | Cabinet du Ministre | 
+Mettre en place un système de validation des acquis professionnels pour le secteur informel |  | X | X | X |  |  |  |  |  | Cabinet du Ministre | 
+Fonctionnement
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 6 681 | 11 826 | 22 106 | 40 613 |  |  | 
+Total |  |  |  |  | 6 681 | 11 826 | 22 106 | 40 613 |  |  | 
+Financement
+Etat |  |  |  |  | 6 666 | 10 364 | 17 470 | 34 501 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 14 | 1 462 | 4 636 | 6 112 |  |  | 
+Investissement
+Construire et équiper 3 CFP |  | X | X | X | 1 500 | 1 500 | 1 500 | 4 500 | X | INFP | 
+Elaborer le document de politique de la formation technique et professionnelle (FTP) |  | X |  |  | 20 |  |  | 20 | X | INFP | 
+Définir le cadre légal du système de la formation professionnelle |  | X |  |  | 10 |  |  | 10 | X | INFP | 
+Procéder à la réingénierie des programmes de formation en les adaptant aux réalités socioéconomiques du pays tout en prenant en compte les acquis scolaires |  | X | X | X | 30 | 30 | 30 | 90 | X | INFP | 
+Développer un système pour une gestion locale des centres de formation locaux par des structures locales (chambre de commerce, ONG,..) |  | X | X | X | 5 | 5 | 5 | 15 | X | INFP | 
+Total |  |  |  |  | 1 565 | 1 535 | 1 535 | 4 635 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 0 | 396 | 396 |  |  | 
+PTF (promesses) |  |  |  |  | 10 717 | 8 500 | 0 | 19 217 |  |  | 
 
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
 
-FTP | Unité | Indicateurs | Coûts (000 US$) | PIP E | Service | Sources de financement
---- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable
-Gap | -9 152 | -6 965 | 1 139 | -14 978
-Investissement Coûts | 8 246 | 13 361 | 23 641 | 45 248
+FTP | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Gap |  |  |  |  | -9 152 | -6 965 | 1 139 | -14 978 |  |  | 
+Investissement
+Coûts |  |  |  |  | 8 246 | 13 361 | 23 641 | 45 248 |  |  | 
 Financement
-Etat | 6 666 | 10 364 | 17 867 | 34 897
-PTF (promesses) | 10 717 | 8 500 | 0 | 19 217
-Gap | -9 137 | -5 503 | 5 775 | -8 866
+Etat |  |  |  |  | 6 666 | 10 364 | 17 867 | 34 897 |  |  | 
+PTF (promesses) |  |  |  |  | 10 717 | 8 500 | 0 | 19 217 |  |  | 
+Gap |  |  |  |  | -9 137 | -5 503 | 5 775 | -8 866 |  |  | 
 
 74 | P a g e
 
@@ -1643,43 +1859,45 @@ Deux  résultats  sont  attendus  d'un  renforcement  de  l'éducation  spécial
 
 [[START OF PAGE 76]]
 
-Tableau 28 : Education spéciale - Programme d'action
+Tableau 28 : Education spéciale – Programme d'action
 
-Education spéciale | Unité | 2013/14 | Indicateurs 2014/15 | 2015/16 | 2013/14 | Coûts (000 US$) 2014/15 | 2015/16 | Total | PIPE | Service responsable | Sources de financement
+Education spéciale | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Fonctionnement
-Activités récurrentes non comptabilisées dans les coûts des actions | 0
-Total | 0 | 0 | 0 | 0
-Financement Etat | 0 0 | 0 | 0
-PTF (promesses) | 0 | 0
-Gap | 0 | 0 | 0
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  |  |  |  | 0 |  |  | 
+Total |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+PTF (promesses) |  |  |  |  |  |  |  | 0 |  |  | 
+Gap |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
 Investissement
-Equiper la CASAS en ressources humaines et matérielles nécessaires | X | X | 0 | X | CASAS
-Construction de 2 établissements spécialisés de type Saint Vincent ou Montfort (intégrant dépistage, soins, instruction de base, formation technique) | X | X | 1 500 | 1 500 | 3 000 | X | CASAS
-Formation de 50 professeurs par département | X | 120 | 120 | X | CASAS
-Redéfinir les attributions de la commission chargée de l'éducation spéciale au MENFP | X | 10 | 10 | Cabinet du Ministre
-Développer et intégrer des modules de formation en éducation spéciale dans les programmes de formation initiale des maîtres | X | X | 20 | 20 | 40 | X | DFP
-Développer du matériel didactique approprié et adapté aux différents besoins des enfants et jeunes handicapés | X | X | 50 | 50 | 100 | X | CASAS
-Développer et mettre en place une base de données sur les différents enfants et jeunes handicapés, les types de handicap répertoriés, leur concentration, leurs besoins spécifiques, etc. | X | 100 | 100 | X | CASAS
-Créer une unité de suivi et d'encadrement des enfants et jeunes handicapés par département | unité départementale | 10 | 1 000 | 0 | 0 | 1 000 | X | CASAS
-Sensibiliser tous les secteurs de la société sur le droit à l'éducation des enfants/jeunes handicapés | X | X | X | 20 | 20 | 20 | 60 | X | CASAS
-Total | 1 320 | 1 590 | 1 520 | 4 430
-Financement | 392 | 6 806
-Etat | 5 797 | 617 | 0
-PTF (promesses) | -4 477 | 973 | 1 128 | -2 376
-Gap | 1 590 | 4
-Total Coûts | 1 320 | 1 520 | 430
+Equiper la CASAS en ressources humaines et matérielles nécessaires |  | X | X |  |  |  |  | 0 | X | CASAS | 
+Construction de 2 établissements spécialisés de type Saint Vincent ou Montfort (intégrant dépistage, soins, instruction de base, formation technique) |  |  | X | X |  | 1 500 | 1 500 | 3 000 | X | CASAS | 
+Formation de 50 professeurs par département |  | X |  |  | 120 |  |  | 120 | X | CASAS | 
+Redéfinir les attributions de la commission chargée de l'éducation spéciale au MENFP |  | X |  |  | 10 |  |  | 10 |  | Cabinet du Ministre | 
+Développer et intégrer des modules de formation en éducation spéciale dans les programmes de formation initiale des maîtres |  | X | X |  | 20 | 20 |  | 40 | X | DFP | 
+Développer du matériel didactique approprié et adapté aux différents besoins des enfants et jeunes handicapés |  | X | X |  | 50 | 50 |  | 100 | X | CASAS | 
+Développer et mettre en place une base de données sur les différents enfants et jeunes handicapés, les types de handicap répertoriés, leur concentration, leurs besoins spécifiques, etc. |  | X |  |  | 100 |  |  | 100 | X | CASAS | 
+Créer une unité de suivi et d'encadrement des enfants et jeunes handicapés par département | unité départementale | 10 |  |  | 1 000 | 0 | 0 | 1 000 | X | CASAS | 
+Sensibiliser tous les secteurs de la société sur le droit à l'éducation des enfants/jeunes handicapés |  | X | X | X | 20 | 20 | 20 | 60 | X | CASAS | 
+Total |  |  |  |  | 1 320 | 1 590 | 1 520 | 4 430 |  |  | 
+Financement
+Etat |  |  |  |  | 5 797 | 617 | 392 | 6 806 |  |  | 
+PTF (promesses) |  |  |  |  |  |  |  | 0 |  |  | 
+Gap |  |  |  |  | -4 477 | 973 | 1 128 | -2 376 |  |  | 
+Total
+Coûts |  |  |  |  | 1 320 | 1 590 | 1 520 | 4 430 |  |  | 
+Financement
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
 
-Education spéciale | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Etat | 5 797 | 617 | 392 | 6 806
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | -4 477 | 973 | 1 128 | -2 376
+Education spéciale | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Etat |  |  |  |  | 5 797 | 617 | 392 | 6 806 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | -4 477 | 973 | 1 128 | -2 376 |  |  | 
 
 77 | P a g e
 
@@ -1701,52 +1919,49 @@ Un  système  d'information  fiable  et  régulièrement  alimenté  facilitera 
 
 [[START OF PAGE 79]]
 
-Tableau 29 : Renforcement institutionnel - Programme d'action
+Tableau 29 : Renforcement institutionnel – Programme d'action
 
-Renforcement de la gouvernance | Unité | 2013/14 | Indicateurs 2014/15 | 2015/16 | 2013/14 | Coûts 2014/15 | (000 US$) 2015/16 | Total | PIPE | Service responsable | Sources de financement
+Renforcement de la gouvernance | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Décisions
-Mise en place du Conseil d'Administration de l'ONAPE et de ses organes opérationnels | X | Cabinet du Ministre
+Mise en place du Conseil d'Administration de l'ONAPE et de ses organes opérationnels |  | X |  |  |  |  |  |  |  | Cabinet du Ministre | 
 Fonctionnement
-Activités récurrentes non comptabilisées dans les coûts des actions | 27 376 | 27 366 | 27 828 | 82 570
-Total | 27 376 | 27 366 | 27 828 | 82 570
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  | 27 376 | 27 366 | 27 828 | 82 570 |  |  | 
+Total |  |  |  |  | 27 376 | 27 366 | 27 828 | 82 570 |  |  | 
 Financement
-Etat | 27 317 | 23 983 | 21 992 | 73 292
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 59 | 3 382 | 5 836 | 9 278
+Etat |  |  |  |  | 27 317 | 23 983 | 21 992 | 73 292 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 59 | 3 382 | 5 836 | 9 278 |  |  | 
 Investissement
-Renforcement de la Direction des Affaires Administratives (DAA) | X | X | X | 400 | 300 | 300 | 1 000 | X | DG, DAA
-Renforcement du PNCS | X | 850 | 850 | X | DG, PNCS | PAM
-Mise en place d'un système d'information | X | 1000 | 1 000 | X | DPCE | ACDI/UNESCO
-Mise en place des CME et des CPE | X | X | 100 | 100 | 200 | X | Cabinet du Ministre
-Réalisation de la carte scolaire | X | 250 | 250 | X | DPCE
-Révision des curricula | X | X | 500 | 500 | 1 000 | X | DCQ | ACDI/UNESCO
-Mise en place d'un système d'encadrement et de reconnaissance graduelle des écoles non publiques pour faciliter leur accréditation | X | 30 | 30 | X | DAEP
-Définition du socle commun de connaissances et compétences pour l'ensemble du système | X | 30 | 30 | X | DCQ
-Adaptation des programmes en cours et élaboration de nouveaux programmes pour tous les niveaux selon le | X
-socle commun | X | 200 | 200 | 400 | X | DCQ
-Elaboration de la politique de renforcement des DDE | X | 20 | 20 | X | DG
-Mise en place de l'Institut National d'Etudes et de | X | 0 | X | Cabinet du
-Recherche en Education (INERE) | Ministre
-Total | 2 930 | 1 350 | 500 | 4 780
+Renforcement de la Direction des Affaires Administratives (DAA) |  | X | X | X | 400 | 300 | 300 | 1 000 | X | DG, DAA | 
+Renforcement du PNCS |  | X |  |  | 850 |  |  | 850 | X | DG, PNCS | PAM
+Mise en place d'un système d'information |  | X |  |  | 1000 |  |  | 1 000 | X | DPCE | ACDI/UNESCO
+Mise en place des CME et des CPE |  | X | X |  | 100 | 100 |  | 200 | X | Cabinet du Ministre | 
+Réalisation de la carte scolaire |  |  | X |  |  | 250 |  | 250 | X | DPCE | 
+Révision des curricula |  | X | X |  | 500 | 500 |  | 1 000 | X | DCQ | ACDI/UNESCO
+Mise en place d'un système d'encadrement et de reconnaissance graduelle des écoles non publiques pour faciliter leur accréditation |  | X |  |  | 30 |  |  | 30 | X | DAEP | 
+Définition du socle commun de connaissances et compétences pour l'ensemble du système |  | X |  |  | 30 |  |  | 30 | X | DCQ | 
+Adaptation des programmes en cours et élaboration de nouveaux programmes pour tous les niveaux selon le socle commun |  |  | X | X |  | 200 | 200 | 400 | X | DCQ | 
+Elaboration de la politique de renforcement des DDE |  | X |  |  | 20 |  |  | 20 | X | DG | 
+Mise en place de l'Institut National d'Etudes et de Recherche en Education (INERE) |  | X |  |  |  |  |  | 0 | X | Cabinet du Ministre | 
+Total |  |  |  |  | 2 930 | 1 350 | 500 | 4 780 |  |  | 
 Financement
-Etat | 0 | 0 | 0 | 0
-PTF (promesses) | 25 598 | 7 948 | 2 600 | 36 146
-Gap | -22 668 | -6 598 | -2 100 | -31 366
+Etat |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+PTF (promesses) |  |  |  |  | 25 598 | 7 948 | 2 600 | 36 146 |  |  | 
+Gap |  |  |  |  | -22 668 | -6 598 | -2 100 | -31 366 |  |  | 
 Total
-Coûts | 30 306 | 28 716 | 28 328 | 87 350
+Coûts |  |  |  |  | 30 306 | 28 716 | 28 328 | 87 350 |  |  | 
 Financement
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
 
-Renforcement de la gouvernance | Unité | Indicateurs | Coûts (000 US$) | PIPE | Service | Sources de
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total | responsable | financement
-Etat | 27 317 | 23 983 | 21 992 | 73 292
-PTF (promesses) | 25 598 | 7 948 | 2 600 | 36 146
-Gap | -22 609 | -3 216 | 3 736 | -22 088
+Renforcement de la gouvernance | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Etat |  |  |  |  | 27 317 | 23 983 | 21 992 | 73 292 |  |  | 
+PTF (promesses) |  |  |  |  | 25 598 | 7 948 | 2 600 | 36 146 |  |  | 
+Gap |  |  |  |  | -22 609 | -3 216 | 3 736 | -22 088 |  |  | 
 
 80 | P a g e
 
@@ -1762,32 +1977,31 @@ Conscient  que  l'efficacité  du  système  recherchée  dépend  grandement  d
 
 [[START OF PAGE 82]]
 
-Interventions prioritaires pour Améliorer la GRH et les conditions de travail des personnels | Unité | Indicateurs | Coûts (000 | US$) | PIP E | Service responsable | Sources de financement
---- | --- | --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 2015/16 | 2013/14 | 2014/15 | 2015/16 | Total
-Fonctionnement
-Activités récurrentes non comptabilisées dans les coûts des actions | 0
-Total | 0 | 0 | 0 | 0
-Financement
-Etat | 0 | 0 | 0 | 0
-PTF (promesses) | 0
-Gap | 0 | 0 | 0 | 0
-Investissement
-Consolidation de la base de données sur le personnel du ministère | X | X | X | DRH | AFD
-Révision des statuts du personnel enseignant et non enseignant du système | X | X | X | DRH
-Total | 0 | 0 | 0 | 0
-Financement
-Etat | 0 | 0 | 0 | 0
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 0 | 0 | 0 | 0
-Total
-Coûts | 0 | 0 | 0 | 0
-Financement
-Etat | 0 | 0 | 0 | 0
-PTF (promesses) | 0 | 0 | 0 | 0
-Gap | 0 | 0 | 0 | 0
-
 Tableau 30 : Interventions prioritaires pour Améliorer la GRH et les conditions de travail des personnels
+
+Interventions prioritaires pour Améliorer la GRH et les conditions de travail des personnels | Unité | Indicateur 2013/14 | Indicateur 2014/15 | Indicateur 2015/16 | Coût 2013/14 | Coût 2014/15 | Coût 2015/16 | Total | PIPE | Service responsable | Sources de financement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Fonctionnement
+Activités récurrentes non comptabilisées dans les coûts des actions |  |  |  |  |  |  |  | 0 |  |  | 
+Total |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+PTF (promesses) |  |  |  |  |  |  |  | 0 |  |  | 
+Gap |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Investissement
+Consolidation de la base de données sur le personnel du ministère |  | X | X |  |  |  |  |  | X | DRH | AFD
+Révision des statuts du personnel enseignant et non enseignant du système |  | X | X |  |  |  |  |  | X | DRH | 
+Total |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Total
+Coûts |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Financement
+Etat |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+PTF (promesses) |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
+Gap |  |  |  |  | 0 | 0 | 0 | 0 |  |  | 
 
 [[END OF PAGE 82]]
 
@@ -1799,7 +2013,7 @@ Afin  de  cadrer  financièrement  le  PIPE  et  d'en  chiffrer  certains  élé
 
 ### 3.1 Cadrage global du PIPE
 
-Le Tableau 31 présente une synthèse des dépenses et des recettes publiques ainsi que le gap de financement du secteur. Sur la période 2011-2016, les dépenses courantes augmentent au rythme  annuel  moyen  de  15%,  ce  qui  est  élevé  (les  montants  sont  exprimés  en  monnaie constante), mais les ressources intérieures correspondantes, initialement insuffisantes à les financer 36 ,  sont  censées  augmenter  plus  vite  (20%).  Cette  forte  augmentation  marque  la volonté politique de généraliser l'accès gratuit à l'école fondamentale ; elle s'est notamment concrétisée par l'adoption du PSUGO 37 . Le caractère incertain de la datation des investissements  et  de  l'aide  extérieure  invite  à  considérer  le  gap  de  manière  globale,  sur l'ensemble des trois années du PIPE : il s'élève à 186 millions de $ soit à 62 millions de $ en moyenne annuelle. Ce gap est 10 fois plus petit que celui du PO - PO qui avait été approuvé par l'ensemble des PTF -, on peut donc raisonnablement penser qu'il pourra être comblé. On peut  aussi  s'en  convaincre  en  observant  l'évolution  des  promesses  des  PTF :  elles  sont naturellement  d'autant  plus  faibles  qu'elles  portent  sur  une  période  éloignée ;  pour  2016, elles ne s'élèvent qu'à 31 millions de $ ; si leurs montants de 2015 et 2016 étaient identiques à  celui  de  2014,  le  gap  annuel  moyen  sur  les  trois  années  du  PIPE  serait  négatif ;  si  les montants d'aide pour la période 2014-2016 étaient identiques à ceux de la période 20112013, le gap annuel moyen serait ramené à 25 millions de $.
+Le Tableau 31 présente une synthèse des dépenses et des recettes publiques ainsi que le gap de financement du secteur. Sur la période 2011-2016, les dépenses courantes augmentent au rythme annuel moyen de 15%, ce qui est élevé (les montants sont exprimés en monnaie constante), mais les ressources intérieures correspondantes, initialement insuffisantes à les financer36, sont censées augmenter plus vite (20%). Cette forte augmentation marque la volonté politique de généraliser l'accès gratuit à l'école fondamentale ; elle s'est notamment concrétisée par l'adoption du PSUGO37. Le caractère incertain de la datation des investissements et de l'aide extérieure invite à considérer le gap de manière globale, sur l'ensemble des trois années du PIPE : il s'élève à 186 millions de $ soit à 62 millions de $ en moyenne annuelle. Ce gap est 10 fois plus petit que celui du PO – PO qui avait été approuvé par l'ensemble des PTF –, on peut donc raisonnablement penser qu'il pourra être comblé. On
 
 > 34  Publication,  et  base de données pour les effectifs d'enseignants du  fondamental 3 et du secondaire qui ne figurent pas dans la publication.
 
@@ -1813,6 +2027,10 @@ Le Tableau 31 présente une synthèse des dépenses et des recettes publiques ai
 
 [[START OF PAGE 84]]
 
+peut aussi s'en convaincre en observant l'évolution des promesses des PTF : elles sont naturellement d'autant plus faibles qu'elles portent sur une période éloignée ; pour 2016, elles ne s'élèvent qu'à 31 millions de $ ; si leurs montants de 2015 et 2016 étaient identiques à celui de 2014, le gap annuel moyen sur les trois années du PIPE serait négatif ; si les montants d'aide pour la période 2014-2016 étaient identiques à ceux de la période 2011-2013, le gap annuel moyen serait ramené à 25 millions de $.
+
+Tableau 31 : Financement du PIPE – Tableau simplifié (millions de $ 2011)
+
 2011 | 2012 | 2013 | 2014 | 2015 | 2016
 --- | --- | --- | --- | --- | --- | ---
 Dépenses courantes publiques d'éducation | 204 | 215 | 269 | 311 | 360 | 419
@@ -1824,15 +2042,17 @@ Ressources totales | 305 | 279 | 387 | 500 | 409 | 395
 Gap de financement | 0 | 0 | 0 | -76 | 83 | 180
 Gap / Coût total | 0% | 0% | 0% | -18% | 17% | 31%
 
-Tableau 31 : Financement du PIPE - Tableau simplifié (millions de $ 2011)
-
-Il y a d'autres arguments pour affirmer le caractère faisable du PIPE. Un gap est d'autant plus risqué qu'il résulte de dépenses dont le non-financement se traduit par des déséquilibres qui compromettent le fonctionnement harmonieux des services : le non-financement des charges récurrentes d'investissements. Une partie du gap est de cette nature, notamment celle qui est due à l'accroissement du taux de transition entre le fondamental 2 et le fondamental 3 - taux qui doit passer de 60% (2010/11) à 95% (2020/21) - mais elle n'est pas importante dans le court  terme,  puisque  l'accroissement  de  ce  taux  ne  commencera  qu'en  2015/16.  En revanche,  une  autre  partie  résulte  de  dépenses  qui  n'ont  d'incidence  que  sur  les  activités qu'elles concernent : c'est le cas, par exemple, du programme OLPC (One Laptop Per Child), dont le coût s'élève à 66 millions de $ sur la durée du PIPE, et dont la non-réalisation serait certes regrettable, mais sans impact sur les autres activités. Par ailleurs, et c'est probablement  le  point  le  plus  important,  la  forte  augmentation  des  dépenses  publiques d'éducation, dont  le financement  est  ici en question, n'est qu'en partie due  à  une augmentation  des  couvertures  scolaires  (globales)  et  des  coûts  unitaires  (cf. Tableau 32 et Tableau  33 ) 38  -  augmentation  qui  aurait  pu  ne  pas  être  conforme  aux  perspectives  de croissance économique -, mais à une forte modification de la structure du financement : le public devra  accueillir en  2020/21  40%  des  effectifs  d'élèves du  préscolaire et  du fondamental, 30% des effectifs du secondaire, et 40% des effectifs du supérieur ; tandis qu'il accueille aujourd'hui 6,7% des effectifs du préscolaire, 21,3% de ceux du fondamental 1&2, 30% de ceux du fondamental 3, 22% de ceux du secondaire et 30% de ceux du supérieur.
+Il y a d'autres arguments pour affirmer le caractère faisable du PIPE. Un gap est d'autant plus risqué qu'il résulte de dépenses dont le non-financement se traduit par des déséquilibres qui compromettent le fonctionnement harmonieux des services : le non-financement des charges récurrentes d'investissements. Une partie du gap est de cette nature, notamment celle qui est due à l'accroissement du taux de transition entre le fondamental 2 et le fondamental 3 – taux qui doit passer de 60% (2010/11) à 95% (2020/21) – mais elle n'est pas importante dans le court terme, puisque l'accroissement de ce taux ne commencera qu'en 2015/16. En revanche, une autre partie résulte de dépenses qui n'ont d'incidence que sur les activités qu'elles concernent : c'est le cas, par exemple, du programme OLPC (One Laptop Per Child), dont le coût s'élève à 66 millions de $ sur la durée du PIPE, et dont la non-réalisation serait certes regrettable, mais sans impact sur les autres activités. Par ailleurs, et c'est probablement le point le plus important, la forte augmentation des dépenses publiques d'éducation, dont le financement est ici en question, n'est qu'en partie due à une
 
 84 | P a g e
 
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
+
+augmentation des couvertures scolaires (globales) et des coûts unitaires (cf. Tableau 32 et Tableau 33)38 – augmentation qui aurait pu ne pas être conforme aux perspectives de croissance économique –, mais à une forte modification de la structure du financement : le public devra accueillir en 2020/21 40% des effectifs d'élèves du préscolaire et du fondamental, 30% des effectifs du secondaire, et 40% des effectifs du supérieur ; tandis qu'il accueille aujourd'hui 6,7% des effectifs du préscolaire, 21,3% de ceux du fondamental 1&2, 30% de ceux du fondamental 3, 22% de ceux du secondaire et 30% de ceux du supérieur.
+
+Tableau 32 : Evolution des effectifs scolarisés (public + non-public)
 
 de 2010/11 à 2015/16 | de 2010/11 à 2020/21
 --- | --- | ---
@@ -1843,9 +2063,9 @@ Secondaire | 8,7% | 15,5%
 Formation technique et professionnelle | 18,1% | 18,3%
 Supérieur | 3% | 3,4%
 
-Tableau 32 : Evolution des effectifs scolarisés (public + non-public)
-
 * : Y compris les programmes pour déscolarisés précoces et les programmes accélérés
+
+Tableau 33 : Coûts unitaires (dépenses courantes) du public (US$)
 
 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Taux de croissance annuel moyen entre 2011 et 2016
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1856,11 +2076,9 @@ Secondaire | 142 | 144 | 147 | 150 | 151 | 155 | 1,8%
 FTP* | 738 | 766 | 784 | 766 | 743 | 735 | -0,1%
 Supérieur | 440 | 470 | 752 | 763 | 768 | 779 | 12,1%
 
-Tableau 33 : Coûts unitaires (dépenses courantes) du public (US$)
-
 * : Formation technique et professionnelle (estimation initiale très incertaine)
 
-Le Tableau 34 donne une explication plus complète du gap, qui permet notamment de vérifier le respect de certaines contraintes de financement. La partie haute du tableau (croissance du PIB, ressources intérieures) est tirée du dernier rapport du FMI  (août 2013). Les perspectives de croissance économique sont bonnes et le taux de croissance du PIB pourrait être supérieur aux prévisions du FMI. La croissance relativement modeste en 2012 (2,8%), due à la hausse des prix internationaux des denrées alimentaires et aux dégâts causés par les cyclones  Isaac  et  Sandy,  est  toutefois  là  pour  rappeler  la  vulnérabilité  de  notre  économie. Notons tout de suite que les salaires du personnel de l'Education n'ont pas été indexés sur le PIB/habitant, dont le taux de croissance serait voisin de 4%, mais leurs taux augmentés de 1,5% par an.
+Le Tableau 34 donne une explication plus complète du gap, qui permet notamment de vérifier le respect de certaines contraintes de financement. La partie haute du tableau (croissance du PIB, ressources intérieures) est tirée du dernier rapport du FMI (août 2013). Les perspectives de croissance économique sont bonnes et le taux de croissance du PIB pourrait être supérieur aux prévisions du FMI. La croissance relativement modeste en 2012 (2,8%),
 
 > 38  Les effectifs de la FTP augmentent fortement, mais ils sont initialement faibles (4% des effectifs de la FTP, du fondamental 3 et du secondaire réunis).
 
@@ -1870,7 +2088,11 @@ Le Tableau 34 donne une explication plus complète du gap, qui permet notamment 
 
 [[START OF PAGE 86]]
 
-Fondées sur cette croissance économique, mais contraintes par les mesures d'assainissement des finances publiques, les dépenses publiques totales augmenteraient un peu moins vite que le PIB 39  : de 5,3% en moyenne annuelle, entre 2011 et 2016.
+due à la hausse des prix internationaux des denrées alimentaires et aux dégâts causés par les cyclones Isaac et Sandy, est toutefois là pour rappeler la vulnérabilité de notre économie.
+
+Notons tout de suite que les salaires du personnel de l'Education n'ont pas été indexés sur le PIB/habitant, dont le taux de croissance serait voisin de 4%, mais leurs taux augmentés de 1,5% par an.
+
+Fondées sur cette croissance économique, mais contraintes par les mesures d'assainissement des finances publiques, les dépenses publiques totales augmenteraient un peu moins vite que le PIB39 : de 5,3% en moyenne annuelle, entre 2011 et 2016.
 
 La partie suivante du tableau est programmatique : le pourcentage des dépenses publiques courantes  consacrées  à  l'éducation  doit  être  porté  à  25%  dès  2015  puis  se  stabiliser  à  ce niveau ; en 2013, sa valeur - 20% - est déduite de la loi de finances. Il est important de noter que  cette  programmation  des  dépenses  courantes  financées  sur  le  budget  de  l'Etat  pour l'Education permet de financer la masse salariale dont elles constituent l'unique source de financement : après paiement de la masse salariale, les ressources pour dépenses courantes hors salaires restent à un niveau convenable (72 millions de $ en 2014, 92 en 2015, 79 en 2016). Outre cet apport, le financement intérieur des dépenses publiques d'éducation doit prendre en compte la contribution nationale au financement des dépenses en capital : elle n'était  pas  négligeable  avant  la  mise  en  œuvre  du  PSUGO -  en  2011,  elle  a  atteint  4%  des dépenses  en  capital  sur  financement  intérieur -,  elle  va  devenir  conséquente  avec  ce programme qui la portera progressivement à 15% en 2016.
 
@@ -1884,6 +2106,8 @@ Le Tableau 34 permet  enfin  de  mesurer  l'importance  accordée  en  termes  f
 
 [[START OF PAGE 87]]
 
+Tableau 34 : Financement du PIPE – Tableau détaillé (millions de $ 2011)
+
 2011 | 2012 | 2013 | 2014 | 2015 | 2016
 --- | --- | --- | --- | --- | --- | ---
 Taux de croissance du PIB | 5,6% | 2,8% | 3,4% | 4,5% | 5,2% | 5,8%
@@ -1894,8 +2118,7 @@ Ressources intérieures pour l'Education
 % dépenses publiques courantes | 16% | 16% | 20% | 22% | 25% | 25%
 Dépenses publiques courantes Education | 132 | 138 | 163 | 204 | 245 | 265
 Masse salariale | 106 | 107 | 116 | 132 | 153 | 186
-Dépenses publiques courantes Education hors | 26 | 31 | 47 | 72 | 92 | 79
-salaires
+Dépenses publiques courantes Education hors salaires | 26 | 31 | 47 | 72 | 92 | 79
 % dépenses publiques en capital | 4% | 7% | 14% | 14% | 15% | 17%
 Dépenses publiques en capital Education | 16 | 34 | 69 | 89 | 93 | 99
 Ressources intérieures Education hors salaires | 42 | 65 | 116 | 161 | 185 | 178
@@ -1916,8 +2139,6 @@ Ressources intérieures disponibles | 10 | 11 | 30 | 78 | 0 | 0
 Gap Autres axes | 0 | 0 | 0 | -76 | 38 | 94
 Gap global | 0 | 0 | 0 | -76 | 83 | 180
 
-Tableau 34 : Financement du PIPE - Tableau détaillé (millions de $ 2011)
-
 A  ce  stade,  il  est  légitime  de  considérer  les  ressources  intérieures  programmées  pour  les dépenses courantes hors salaires (telles que définies dans le budget) et pour les dépenses en capital comme étant fongibles ; ou plus exactement comme pouvant être redistribuées entre ces deux catégories. En revanche, il convient de s'assurer que la répartition des promesses de financement  des  PTF,  dont  certaines  sont  strictement  ciblées,  entre  les  différents  axes d'intervention du PIPE n'implique pas un gap plus élevé que celui indiqué dans le Tableau 31 et  le Tableau  34 ,  calculé  globalement.  Le Tableau  35 ,  qui  est  la  somme  des  tableaux  de programme d'action présentés dans le chapitre 2, permet de constater que c'est à peu près le cas.  Les  deux  dernières  lignes  de  ce  tableau  présentent  le  gap  compensé  et  le  gap  non compensé. Si, globalement, le gap non compensé est nettement supérieur au gap compensé
 
 [[END OF PAGE 87]]
@@ -1926,34 +2147,33 @@ A  ce  stade,  il  est  légitime  de  considérer  les  ressources  intérieure
 
 (279  millions  de  $  contre  186  millions),  cela  est  essentiellement  dû  à  la  répartition  des promesses dans le temps. Si l'on considère chaque année, on constate une différence de 14 millions de $ en 2014/15 entre le gap non compensé et le gap compensé (la différence est négligeable  en  2015/16).  La  différence  entre  les  deux  gaps  en  2014/15  ne  concerne  que l'investissement et l'examen des tableaux de programme d'action révèle qu'elle est due à un financement  extérieur  trop  élevé  pour  la  FTP  et  la  gouvernance  en  regard  des  coûts programmés. Compte tenu de la nature des promesses et du degré de précision des données et des simulations, elle n'est toutefois guère significative.
 
-Récapitulatif Coûts et Financement | Coûts (000 US$) | PIP E
+Tableau 35 : Sommation des tableaux de programme d'action
+
+Récapitulatif Coûts et Financement | 2013/14 | 2014/15 | 2015/16 | Total | PIPE
 --- | --- | --- | --- | --- | ---
-2013/14 | 2014/15 | 2015/16 | Total
 Fonctionnement
 Activités PIPE | 144 048 | 167 731 | 189 365 | 501 143 | X
-Activités récurrentes non comptabilisées dans les coûts des actions | 166 676 | 191 829 | 229 277 | 587 781
-Total | 310 723 | 359 560 | 418 642 | 1 088 924
+Activités récurrentes non comptabilisées dans les coûts des actions | 166 676 | 191 829 | 229 277 | 587 781 | 
+Total | 310 723 | 359 560 | 418 642 | 1 088 924 | 
 Financement
-Etat | 259 029 | 304 469 | 330 844 | 894 342
-PTF (promesses) | 51 133 | 12 150 | 0 | 63 283
-Gap compensé | 561 | 42 941 | 87 797 | 131 299
-Gap non compensé | 561 | 42 941 | 87 797 | 131 299
+Etat | 259 029 | 304 469 | 330 844 | 894 342 | 
+PTF (promesses) | 51 133 | 12 150 | 0 | 63 283 | 
+Gap compensé | 561 | 42 941 | 87 797 | 131 299 | 
+Gap non compensé | 561 | 42 941 | 87 797 | 131 299 | 
 Investissement
 Activités PIPE | 113 106 | 131 533 | 156 113 | 400 752 | X
 Financement
-Etat | 33 741 | 33 764 | 32 910 | 100 414
-PTF (promesses) | 156 336 | 58 123 | 30 760 | 245 219
-Gap compensé | -76 971 | 39 647 | 92 443 | 55 119
-Gap non compensé | 0 | 53 210 | 94 543 | 147 753
+Etat | 33 741 | 33 764 | 32 910 | 100 414 | 
+PTF (promesses) | 156 336 | 58 123 | 30 760 | 245 219 | 
+Gap compensé | -76 971 | 39 647 | 92 443 | 55 119 | 
+Gap non compensé | 0 | 53 210 | 94 543 | 147 753 | 
 Total
-Coûts | 423 829 | 491 093 | 574 755 | 1 489 676
+Coûts | 423 829 | 491 093 | 574 755 | 1 489 676 | 
 Financement
-Etat | 292 770 | 338 233 | 363 754 | 994 756
-PTF (promesses) | 207 469 | 70 273 | 30 760 | 308 502
-Gap compensé | -76 410 | 82 587 | 180 241 | 186 418
-Gap non compensé | 561 | 96 150 | 182 341 | 279 052
-
-Tableau 35 : Sommation des tableaux de programme d'action
+Etat | 292 770 | 338 233 | 363 754 | 994 756 | 
+PTF (promesses) | 207 469 | 70 273 | 30 760 | 308 502 | 
+Gap compensé | -76 410 | 82 587 | 180 241 | 186 418 | 
+Gap non compensé | 561 | 96 150 | 182 341 | 279 052 | 
 
 88 | P a g e
 
@@ -1964,6 +2184,10 @@ Tableau 35 : Sommation des tableaux de programme d'action
 En  résumé,  le coût total du  PIPE  sur  les trois  ans  de  sa  programmation,  pour  le fonctionnement  comme  pour  l'investissement,  s'élève  à  1,490  milliard  de  $.  L'Etat  en financera  67%,  les  promesses  actuelles  des  bailleurs  en  financeront  21% ;  le  besoin  de financement en représente donc 13%.
 
 Graphique 3 : Financement du PIPE
+
+Besoin de financement (186 Millions de $) 13%
+Promesses des bailleurs (309 Millions de $) 21%
+Ressources nationales anticipées (995 Millions de $) 67%
 
 89 | P a g e
 
@@ -1987,7 +2211,9 @@ Cette part du primaire a tendance à diminuer : à l'horizon 2021, elle sera de 
 
 [[START OF PAGE 91]]
 
-2011 | 2014 | 2015 | 2016 | 2014-2016 | 2021
+Tableau 36 : Répartition des coûts du PIPE selon les niveaux d'enseignement
+
+2011 | 2014 | 2015 | 2016 | 2014–2016 | 2021
 --- | --- | --- | --- | --- | --- | ---
 Dépenses courantes
 Préscolaire | 3% | 3% | 5% | 7% | 5% | 9%
@@ -2000,17 +2226,15 @@ FTP | 2% | 2% | 3% | 5% | 4% | 9%
 Administration | 11% | 9% | 8% | 7% | 8% | 4%
 Total | 100% | 100% | 100% | 100% | 100% | 100%
 Dépenses en capital
-Préscolaire | 1% | 11% | 10% | 10% | 10%
-Fondamental 1&2 | 77% | 82% | 81% | 60% | 73%
-Alphabétisation et ENF | 0% | 0% | 1% | 0% | 0%
-Fondamental 3 | 6% | 1% | 3% | 7% | 4%
-Secondaire | 2% | 2% | 3% | 5% | 4%
-Supérieur | 1% | 0% | 0% | 16% | 6%
-FTP | 6% | 1% | 1% | 1% | 1%
-Administration | 7% | 3% | 1% | 0% | 1%
-Total | 100% | 100% | 100% | 100% | 100%
-
-Tableau 36 : Répartition des coûts du PIPE selon les niveaux d'enseignement
+Préscolaire | 1% | 11% | 10% | 10% | 10% | 
+Fondamental 1&2 | 77% | 82% | 81% | 60% | 73% | 
+Alphabétisation et ENF | 0% | 0% | 1% | 0% | 0% | 
+Fondamental 3 | 6% | 1% | 3% | 7% | 4% | 
+Secondaire | 2% | 2% | 3% | 5% | 4% | 
+Supérieur | 1% | 0% | 0% | 16% | 6% | 
+FTP | 6% | 1% | 1% | 1% | 1% | 
+Administration | 7% | 3% | 1% | 0% | 1% | 
+Total | 100% | 100% | 100% | 100% | 100% | 
 
 #### 3.2.2 Coûts de l'axe 1
 
@@ -2023,6 +2247,8 @@ Les dépenses courantes du préscolaire sur la période du PIPE s'élèvent à 4
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
+
+Tableau 37 : PIPE Préscolaire (millions de $ 2011)
 
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
@@ -2047,8 +2273,6 @@ Autres investissements (000 US$) | 777 | 100 | 0 | 0
 Total dépenses en capital Préscolaire (000 US$) | 777 | 12 389 | 13 611 | 15 242
 en % du total des dépenses en capital | 1% | 11% | 10% | 10%
 
-Tableau 37 : PIPE Préscolaire (millions de $ 2011)
-
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
@@ -2066,6 +2290,8 @@ sur la période du PIPE ; à lui seul, le programme OLPC en représente 66 milli
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
+
+Tableau 38 : PIPE Fondamental 1&2
 
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
@@ -2086,8 +2312,9 @@ Sous-total dépenses courantes (000 US$) | 32 244 | 78 368 | 88 929 | 98 362
 Formation initiale
 Coût total de la formation initiale (000 US$) | 1 500 | 7 599 | 6 098 | 3 865
 Sous-total dépenses courantes (000 US$) | 1 500 | 7 599 | 6 098 | 3 865
-Santé et nutrition Sous-total dépenses courantes (000 US$) | 51 719 | 51 015 | 57 389 | 62 476
-Total dépenses courantes F al 1&2 (000 US$) | 131 911 | 199 338 | 229 563 | 260 961
+Santé et nutrition
+Sous-total dépenses courantes (000 US$) | 51 719 | 51 015 | 57 389 | 62 476
+Total dépenses courantes Fal 1&2 (000 US$) | 131 911 | 199 338 | 229 563 | 260 961
 en % du total des dépenses courantes | 65% | 64% | 64% | 62%
 Dépenses en capital
 Formation continue
@@ -2107,10 +2334,8 @@ Sous-total dépenses en capital (000 US$) | 0 | 21 875 | 21 875 | 21 875
 Education spéciale
 Sous-total dépenses en capital (000 US$) | 0 | 1 120 | 1 500 | 1 500
 Autres investissements (000 US$) | 23 697 | 410 | 160 | 90
-Total dépenses en capital F al 1&2 (000 US$) | 77 843 | 92 671 | 106 123 | 93 283
+Total dépenses en capital Fal 1&2 (000 US$) | 77 843 | 92 671 | 106 123 | 93 283
 en % du total des dépenses en capital | 77% | 82% | 81% | 60%
-
-Tableau 38 : PIPE Fondamental 1&2
 
 94 | P a g e
 
@@ -2122,6 +2347,8 @@ Tableau 38 : PIPE Fondamental 1&2
 
 Les dépenses pour l'alphabétisation et l'ENF représentent 1% des dépenses courantes totales et 0,4% des dépenses en capital sur la période du PIPE.
 
+Tableau 39 : PIPE Alphabétisation et ENF
+
 ALPHABETISATION ET ENF | 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
 Dépenses courantes
@@ -2131,8 +2358,6 @@ en % du total des dépenses courantes | 0,5% | 1,1% | 1,0% | 0,9%
 Dépenses en capital
 Total dépenses en capital Alpha. & ENF (000 US$) | 90 | 0 | 750 | 750
 en % du total des dépenses en capital | 0,1% | 0,0% | 0,6% | 0,5%
-
-Tableau 39 : PIPE Alphabétisation et ENF
 
 #### 3.2.3 Coûts de l'axe 2
 
@@ -2146,6 +2371,8 @@ Les dépenses pour le fondamental 3 sur la durée du PIPE s'élèvent à 80 mill
 
 [[START OF PAGE 96]]
 
+Tableau 40 : PIPE Fondamental 3
+
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
 Dépenses courantes
@@ -2155,22 +2382,24 @@ Masse salariale enseignante totale publique (000 US$) | 12 664 | 18 573 | 19 222
 Autres dépenses courantes publiques pour le Fondamental 3 public (000 US$) | 475 | 1 132 | 1 235 | 1 438
 Dépenses autres que de personnel enseignants / Dépenses personnel enseignants | 29% | 30% | 29% | 29%
 Sous-total dépenses courantes (000 US$) | 16 305 | 24 068 | 24 856 | 27 479
-Santé et nutrition Sous-total dépenses courantes (000 US$) | 510 | 1 047 | 1 281 | 1 592
-Total dépenses courantes F al 3 (000 US$) | 16 815 | 25 115 | 26 137 | 29 071
+Santé et nutrition
+Sous-total dépenses courantes (000 US$) | 510 | 1 047 | 1 281 | 1 592
+Total dépenses courantes Fal 3 (000 US$) | 16 815 | 25 115 | 26 137 | 29 071
 en % du total des dépenses courantes | 8% | 8% | 7% | 7%
 Dépenses en capital
 Formation continue
-Sous-total dépenses en capital (000 US$) Constructions, achats & locations Coût par salle équipée y compris le coût des | 30 313 | 251 | 267 | 577
-sanitaires (US$) Coût nationalisation d'une salle (mise aux normes, | 15 000 | 30 313 | 30 313 | 30 313
-réhabilitation…) (US$) Sous-total dépenses en capital (000 US$) | 5 971 | 15 000 632 | 15 000 3 514 | 15 000 10 367
-Réhabilitations Sous-total dépenses en capital (000 US$) | 0
-Santé et nutrition Sous-total dépenses en capital Santé & Nutrition | 458 | 530 | 603
-(000 US$) | 241 | 20 | 26 | 35
-Autres investissements (000 US$) | 0 | 0 | 0
-Total dépenses en capital F al 3 (000 US$) | 6 212 | 1 361 | 4 338 | 11 582
+Sous-total dépenses en capital (000 US$) |  | 251 | 267 | 577
+Constructions, achats & locations
+Coût par salle équipée y compris le coût des sanitaires (US$) | 30 313 | 30 313 | 30 313 | 30 313
+Coût nationalisation d'une salle (mise aux normes, réhabilitation…) (US$) | 15 000 | 15 000 | 15 000 | 15 000
+Sous-total dépenses en capital (000 US$) | 5 971 | 632 | 3 514 | 10 367
+Réhabilitations
+Sous-total dépenses en capital (000 US$) | 0 | 458 | 530 | 603
+Santé et nutrition
+Sous-total dépenses en capital Santé & Nutrition (000 US$) | 241 | 20 | 26 | 35
+Autres investissements (000 US$) |  | 0 | 0 | 0
+Total dépenses en capital Fal 3 (000 US$) | 6 212 | 1 361 | 4 338 | 11 582
 en % du total des dépenses en capital | 6% | 1% | 3% | 7%
-
-Tableau 40 : PIPE Fondamental 3
 
 ##### Secondaire
 
@@ -2180,6 +2409,8 @@ Les dépenses pour le secondaire sur la période du PIPE s'élèvent à 41 milli
 
 [[START OF PAGE 97]]
 
+Tableau 41 : PIPE Secondaire
+
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
 Dépenses courantes
@@ -2187,13 +2418,12 @@ Secondaire public
 Salaire annuel moyen enseignant en multiple du PIB/Tête | 5,5 | 5,5 | 5,3 | 5,2
 Masse salariale enseignant (000 US$) | 6 664 | 9 593 | 10 481 | 12 207
 Autres dépenses courantes publiques pour le secondaire public (000 US$) | 240 | 597 | 685 | 836
-Dépenses autres que de personnel enseignants / | 24% | 26% | 27% | 27%
-Dépenses personnel enseignants
+Dépenses autres que de personnel enseignants / Dépenses personnel enseignants | 24% | 26% | 27% | 27%
 Total dépenses courantes secondaire (000 US$) | 8 237 | 12 109 | 13 262 | 15 484
 en % du total des dépenses courantes | 4% | 4% | 4% | 4%
 Dépenses en capital
 Formation continue
-Sous-total dépenses en capital (000 US$) | 123 | 146 | 317
+Sous-total dépenses en capital (000 US$) |  | 123 | 146 | 317
 Constructions, achats & locations
 Coût par salle équipée y compris le coût des sanitaires (US$) | 30 313 | 30 313 | 30 313 | 30 313
 Coût nationalisation d'une salle (mise aux normes, réhabilitation…) (US$) | 15 000 | 15 000 | 15 000 | 15 000
@@ -2204,8 +2434,6 @@ Autres investissements (000 US$) | 408 | 0 | 0 | 0
 Total dépenses en capital secondaire (000 US$) | 1 661 | 2 149 | 3 801 | 8 222
 en % du total des dépenses en capital | 2% | 2% | 3% | 5%
 
-Tableau 41 : PIPE Secondaire
-
 ##### Supérieur
 
 Sur  la  période  du  PIPE,  les  dépenses  du  supérieur  s'élèvent  à  85  millions  de  $  pour  les dépenses courantes et à 25 millions de $ pour les dépenses en capital ; elles ne représentent que 8% des dépenses courantes totales et 6% des dépenses en capital totales. Ces derniers pourcentages sont remarquablement faibles au regard de ce que l'on observe dans les PED ; ils sont en outre en nette augmentation par rapport à 2011 où ils valaient respectivement 7% et  1,3%.  Rappelons  que  ces  coûts  ne  comptabilisent  pas  les  dépenses  des  familles.  C'est l'estimation approximative de ces dépenses des familles qui avait porté à 16% la part des dépenses courantes d'éducation consacrée au supérieur en 2011 (cf. ci-dessus 1.3.5).
@@ -2213,6 +2441,8 @@ Sur  la  période  du  PIPE,  les  dépenses  du  supérieur  s'élèvent  à  8
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+
+Tableau 42 : PIPE Supérieur
 
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
@@ -2229,16 +2459,12 @@ Autres établissements | 2 173 | 5 333 | 6 977 | 8 933
 Total dépenses courantes supérieur (000 US$) | 13 317 | 25 871 | 28 145 | 30 834
 en % du total des dépenses courantes | 7% | 8% | 8% | 7%
 Dépenses en capital
-Construction et équipement campus pour les
-universités publiques en région existantes (000 US$) | 0 | 0 | 0 | 10 000
-Implantation campus universitaire dans les
-départements du Sud-Est et du Centre (000 US$) | 0 | 0 | 0 | 15 000
+Construction et équipement campus pour les universités publiques en région existantes (000 US$) | 0 | 0 | 0 | 10 000
+Implantation campus universitaire dans les départements du Sud-Est et du Centre (000 US$) | 0 | 0 | 0 | 15 000
 Dépenses pour la Gouvernance du Supérieur (000 $US) | 0 | 40 | 25 | 0
 Autres investissements (000 US$) | 1 301 | 0 | 0 | 0
 Total dépenses en capital supérieur (000 US$) | 1 301 | 40 | 25 | 25 000
 en % du total des dépenses en capital | 1,3% | 0,04% | 0,02% | 16,0%
-
-Tableau 42 : PIPE Supérieur
 
 ##### Formation technique et professionnelle
 
@@ -2247,6 +2473,8 @@ Sur la période du PIPE, les dépenses de la FTP sont également relativement fa
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
+
+Tableau 43 : PIPE FTP
 
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
@@ -2266,11 +2494,11 @@ Dépenses en capital
 Total dépenses en capital FTP (000 US$) | 6 114 | 1 565 | 1 535 | 1 535
 en % du total des dépenses en capital | 6% | 1% | 1% | 1%
 
-Tableau 43 : PIPE FTP
-
 #### 3.2.4 Coûts de l'axe 3
 
-Les dépenses de l'administration ont été évaluées très approximativement (notamment en soustrayant  de  l'effectif  budgétaire  total  les  effectifs  connus  ou  estimés  des  différents niveaux d'enseignement). Sur la période du  PIPE, ces dépenses représentent ainsi 8% des dépenses  courantes  totales  et  2%  des  dépenses  en  capital.  Elles  sont  en  diminution  par rapport à 2011.
+Les dépenses de l'administration ont été évaluées très approximativement (notamment en soustrayant de l'effectif budgétaire total les effectifs connus ou estimés des différents niveaux d'enseignement). Sur la période du PIPE, ces dépenses représentent ainsi 8% des dépenses courantes totales et 2% des dépenses en capital. Elles sont en diminution par rapport à 2011.
+
+Tableau 44 : PIPE Administration
 
 2011 | 2014 | 2015 | 2016
 --- | --- | --- | --- | ---
@@ -2282,8 +2510,6 @@ en % du total des dépenses courantes | 11% | 9% | 8% | 7%
 Dépenses en capital
 Total dépenses en capital Administration (000 US$) | 7 315 | 2 930 | 1 350 | 500
 en % du total des dépenses en capital | 7% | 3% | 1% | 0%
-
-Tableau 44 : PIPE Administration
 
 [[END OF PAGE 99]]
 
@@ -2297,11 +2523,11 @@ Ce chapitre présente les principes d'orientation, le cadre institutionnel et de
 
 Le ministère a, au chapitre 2, réuni sous trois axes d'intervention stratégiques les actions du Plan Opérationnel 2010-2015 jugées prioritaires pour les trois prochaines années. Ces trois axes  servent  ainsi  de  guide  aux  mesures  visant  à  améliorer  les  performances  du  système éducatif national. Ce sont les suivants :
 
-- Universalisation de l'éducation de base de qualité;
+1. Universalisation de l'éducation de base de qualité;
 
-- Amélioration de l'accès et de la qualité dans les autres niveaux d'enseignement;
+2. Amélioration de l'accès et de la qualité dans les autres niveaux d'enseignement;
 
-- Renforcement institutionnel.
+3. Renforcement institutionnel.
 
 Fondée  sur  le  diagnostic  du  système  et  sur  les  ressources  prévisionnelles,  présentés respectivement au chapitre 1 et 3, cette priorisation des interventions programmées dans le PO continuera jusqu'au niveau des sous-programmes et activités à réaliser à travers les Plans d'Action Annuels. Le présent chapitre traite des modalités de mise en œuvre, de gestion, de communication et de suivi-évaluation de cette programmation, il comprend trois parties:
 
@@ -2313,13 +2539,15 @@ Fondée  sur  le  diagnostic  du  système  et  sur  les  ressources  prévision
 
 #### 4.1.1 Principes directeurs de la mise en œuvre
 
-Programme  d'actions  prioritaires  du  Plan  Opérationnel  2010-2015,  le  PIPE  sera  mis  en œuvre suivant les mêmes principes de ce plan tout en intégrant les leçons tirées du bilan de ses  deux  premières  années  d'exécution.  Ainsi,  dans  le  souci d'assurer l'harmonisation des actions engagées par tous les acteurs impliqués dans sa mise en œuvre, trois (3) principes résument la logique de mise en œuvre du PIPE:
+Programme d'actions prioritaires du Plan Opérationnel 2010-2015, le PIPE sera mis en œuvre suivant les mêmes principes de ce plan tout en intégrant les leçons tirées du bilan de ses deux premières années d'exécution. Ainsi, dans le souci d'assurer l'harmonisation des
 
 100 | P a g e
 
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+
+actions engagées par tous les acteurs impliqués dans sa mise en œuvre, trois (3) principes résument la logique de mise en œuvre du PIPE:
 
  le PIPE comme document de référence guidant les interventions du secteur éducatif ;
 
@@ -2335,13 +2563,15 @@ Le PIPE permettra au Gouvernement et à ses partenaires de canaliser toutes les 
 
 ##### 4.1.1.2.  Les  représentations  départementales  du  MENFP  (DDE,  BDS,  BIZ)  comme entités responsables de la mise en œuvre
 
-Les tentatives de réformes antérieures ont eu pour faiblesse commune une mise en œuvre concentrée  au  niveau  des  directions  techniques  du  bureau  central  du  MENFP.  Le  manque d'implication des unités déconcentrées - unités proches de la demande sociale d'éducation a conduit à l'inefficacité des interventions, quand elles ont pu avoir lieu. Prévue dans le PO, et de  manière plus précise dans le  PIPE, l'opérationnalisation  des  actions  programmées  sera assurée  principalement  par  les  entités  décentralisées  du  ministère  afin  de  garantir  la cohérence du système éducatif et renforcer ainsi les capacités du ministère.
+Les tentatives de réformes antérieures ont eu pour faiblesse commune une mise en œuvre concentrée au niveau des directions techniques du bureau central du MENFP. Le manque d'implication des unités déconcentrées – unités proches de la demande sociale d'éducation – a conduit à l'inefficacité des interventions, quand elles ont pu avoir lieu. Prévue dans le PO, et
 
 101 | P a g e
 
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
+
+de manière plus précise dans le PIPE, l'opérationnalisation des actions programmées sera assurée principalement par les entités décentralisées du ministère afin de garantir la cohérence du système éducatif et renforcer ainsi les capacités du ministère.
 
 ##### 4.1.1.3. L'équité et l'approche participative.
 
@@ -2377,6 +2607,81 @@ Un troisième niveau, opérationnel, sera composé des structures départemental
 
 Figure 3.- Organisation de la mise en œuvre duPIP
 
+Niveau Stratégique
+
+Comité Stratégique National (CSN):
+Composition :
+Ministre de l'Education
+Directeur Général MENFP
+Secrétaire d'Etat à l'alphabétisation
+Secrétaire d'Etat à l'Enseignement Supérieur
+Secrétaire d'Etat à la Formation Professionnelle
+Directeur de l'ONAPE
+Coordonnateur du GSE.
+Représentant du Ministère de l'Économie et des Finances
+Représentant du Ministère de la Planification et de la Coopération Ext.
+
+• Principales missions :
+○ Redéfinition des orientations stratégiques de la mise en œuvre du PO ;
+○ Validation des PAA soumis par le CTN ;
+○ Concertation avec les partenaires nationaux et internationaux
+
+• Mécanismes de concertation avec les partenaires :
+○ Table sectorielle ;
+○ Revues conjointes.
+
+Cellule de Pilotage
+Coordination des appuis des partenaires
+
+Conseil tri-partite de la formation professionnelle
+
+Commission Infrastructure Scolaire :
+Gestion du programme d'infrastructures éducatives
+
+Fonds fiduciaire :
+Gestion des ressources financières externes dédiées à la mise en œuvre du PO
+
+Comité Directeur
+
+Niveau Tactique (Planification & Suivi)
+
+Comité Technique National (CTN) :
+Composition :
+Directeur Général du MENFP ;
+Directeurs Généraux Adjoints ;
+Directeurs Techniques du MENFP ;
+Directeur de la planification de l'INFP ;
+Directeur exécutif de la SEA ;
+Représentants de réseaux d'écoles non publiques.
+
+Principales missions :
+• Préparation des PAA et Coordination technique
+• Suivi technique et financier de la mise en œuvre du PO
+
+UEP : Appui à la programmation et la coordination.
+
+Groupe suivi :
+Suivi stratégique et opérationnel du PO au niveau national.
+
+Niveau Opérationnel (Mise en œuvre)
+
+DDE, BDS, BIZ et CME :
+Mise en œuvre du PO au niveau départemental et local, sous la supervision et la coordination de la DGA/DDE et du CTN.
+Table de concertation départementale
+
+DGA/DDE :
+Supervision et coordination de la MO dans les DDE.
+
+Directions Techniques :
+Mise en œuvre du PO
+
+Groupes de travail :
+• Appui technique aux DT et aux DDE ;
+• Relai de la concertation au niveau de la société civile.
+
+Relations non hiérarchiques
+Relations hiérarchiques
+
 Réf. plan opérationnel 2010-2015
 
 104 | P a g e
@@ -2385,7 +2690,7 @@ Réf. plan opérationnel 2010-2015
 
 [[START OF PAGE 105]]
 
-#### 4.1.3 Les mécanismes  d'appui, de gestion, de communication  et  de suiviévaluation
+#### 4.1.3 Les mécanismes d'appui, de gestion, de communication et de suivi-évaluation
 
 ##### 4.1.3.1. Dispositif d'appui
 
@@ -2399,7 +2704,7 @@ Des structures spécifiques seront créées pour garantir les échanges avec cer
 
 Les principaux vecteurs des échanges entre le ministère et ses partenaires seront les outils suivants:
 
-- le manuel des normes et procédures de mise en œuvre du Plan ;
+i. le manuel des normes et procédures de mise en œuvre du Plan ;
 
 105 | P a g e
 
@@ -2407,15 +2712,15 @@ Les principaux vecteurs des échanges entre le ministère et ses partenaires ser
 
 [[START OF PAGE 106]]
 
-- une  campagne  médiatique  de  promotion  de  la  Réforme  auprès  de  différents publics ;
+ii. une campagne médiatique de promotion de la Réforme auprès de différents publics ;
 
-- des  rapports  trimestriels  sur  l'état  d'avancement  des  différents  aspects  de  la réforme aux niveaux central et départemental ;
+iii. des rapports trimestriels sur l'état d'avancement des différents aspects de la réforme aux niveaux central et départemental ;
 
-- un rapport semestriel consolidé par le Coordonnateur Technique National ;
+iv. un rapport semestriel consolidé par le Coordonnateur Technique National ;
 
-- un  rapport  d'étape  annuel  technique  et  financier,  préparé  par  l'UEP  assistée  du CTN;
+v. un rapport d'étape annuel technique et financier, préparé par l'UEP assistée du CTN;
 
-- et  un  Bulletin  régulier  sur  la  mise  en  œuvre  en  vue  de  tenir  le  grand  public informé des avancées de la mise en œuvre du PIPE au niveau national.
+vi. et un Bulletin régulier sur la mise en œuvre en vue de tenir le grand public informé des avancées de la mise en œuvre du PIPE au niveau national.
 
 ##### 4.1.3.3. Dispositif de gestion des fonds
 
@@ -2433,19 +2738,39 @@ Le but du ministère est d'amener ses PTF à adopter l'appui budgétaire sectori
 
 Figure 5.- Structure du fonds fiduciaire
 
+Partenaires traditionnels
+Fonds fiduciaire
+Banque Mondiale
+
+Partenaires Additionnels
+Coopération bi- et multilatérale (AECID-UNESCO)
+DAA (Appui budgétaire ciblé)
+
+Trésor public
+DAA
+
+Fondations étrangères
+ONAPE
+
+Fonds pour l'Éducation
+
+Mise en œuvre du Plan
+
 Réf. plan opérationnel 2010-2015
 
 ##### 4.1.3.4. Dispositif de suivi et d'évaluation
 
 ###### Le suivi du PIPE:
 
-Les  Directions  Techniques  (DT),  appuyées  par  les  GT,  produiront  chaque  trimestre  des rapports techniques et financiers sur l'état d'avancement de la mise en œuvre du  PIPE. La consolidation des rapports des différentes directions sera faite par le CTN pour être soumise au CSN. Les rapports des DT seront alimentés par ceux des différentes entités départementales (DDE, BDS, BIZ, CME) qui, elles aussi, seront appuyées des GT. Pour assurer la  coordination  d'ensemble,  sera  constitué  un  Groupe  de  suivi  composé :  de  la  Direction Générale (responsable du groupe) ; de la Direction de la Planification et de la Coopération externe (DPCE) ; de l'Unité d'Etudes et de Programmation (UEP); de la Direction Générale Adjointe  aux  DDE  ;  de  l'Office  National  de  Partenariat  en  Education  et  de  la  Direction  de l'INFP.  Au  dernier  trimestre  la  consolidation  des  rapports  sera  réalisée  par  l'UEP  avec  le support  du  CTN.  Ce  rapport  annuel,  après  validation  par  la  Direction  Générale,  servira  de base à la revue sectorielle qui débouchera sur les ajustements nécessaires et la programmation de l'année suivante.
+Les Directions Techniques (DT), appuyées par les GT, produiront chaque trimestre des rapports techniques et financiers sur l'état d'avancement de la mise en œuvre du PIPE. La consolidation des rapports des différentes directions sera faite par le CTN pour être soumise au CSN. Les rapports des DT seront alimentés par ceux des différentes entités départementales (DDE, BDS, BIZ, CME) qui, elles aussi, seront appuyées des GT. Pour assurer la coordination d'ensemble, sera constitué un Groupe de suivi composé : de la Direction
 
 107 | P a g e
 
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
+
+Générale (responsable du groupe) ; de la Direction de la Planification et de la Coopération externe (DPCE) ; de l'Unité d'Etudes et de Programmation (UEP); de la Direction Générale Adjointe aux DDE ; de l'Office National de Partenariat en Education et de la Direction de l'INFP. Au dernier trimestre la consolidation des rapports sera réalisée par l'UEP avec le support du CTN. Ce rapport annuel, après validation par la Direction Générale, servira de base à la revue sectorielle qui débouchera sur les ajustements nécessaires et la programmation de l'année suivante.
 
 ###### L'évaluation du PIPE:
 
@@ -2461,7 +2786,7 @@ Il  s'agira  d'une  évaluation  indépendante  menée  par  des  groupes  exter
 
 ###### Une évaluation finale du PIPE
 
-L'évaluation finale sera réalisée, au terme des trois (3) années de mise en œuvre du  PIPE, selon les mêmes principes que l'évaluation externe à mi-parcours. Elle informera le ministère sur le degré d'atteinte des objectifs et résultats. Elle donnera les indicatifs, sur la base des leçons tirées, pour l'élaboration du nouveau Plan Sectoriel d'Education. Le financement des évaluations  sera  dégagé  des  fonds  consacrés  à  la  gouvernance  et  au  renforcement  des capacités du système.
+L'évaluation finale sera réalisée, au terme des trois (3) années de mise en œuvre du PIPE, selon les mêmes principes que l'évaluation externe à mi-parcours. Elle informera le ministère sur le degré d'atteinte des objectifs et résultats. Elle donnera les indicatifs, sur la base des leçons tirées, pour l'élaboration du nouveau Plan Sectoriel d'Education. Le financement des
 
 108 | P a g e
 
@@ -2469,7 +2794,9 @@ L'évaluation finale sera réalisée, au terme des trois (3) années de mise en 
 
 [[START OF PAGE 109]]
 
-C'est dans le cadre d'une véritable démarche de refondation que s'inscrit ce dispositif inédit. Cette  restructuration  générale  du  MENFP,  couplée  à  un  système  de  suivi  et  évaluation, permettra de gérer et de coordonner le développement du secteur de manière rigoureuse et transparente.
+évaluations sera dégagé des fonds consacrés à la gouvernance et au renforcement des capacités du système.
+
+C'est dans le cadre d'une véritable démarche de refondation que s'inscrit ce dispositif inédit. Cette restructuration générale du MENFP, couplée à un système de suivi et évaluation, permettra de gérer et de coordonner le développement du secteur de manière rigoureuse et transparente.
 
 ### 4.2 Exécution des grandes interventions
 
@@ -2481,22 +2808,22 @@ Le  tableau  suivant  présente  succinctement  des  éléments  sur  la  mise  
 
 [[START OF PAGE 110]]
 
-Les | Objectifs | Grandes interventions | Eléments de mise en œuvre
---- | --- | --- | ---
-axes Universalisation de l'enseignement de base | Promouvoir le développement de la petite enfance et de l'éducation préscolaire | Appui à la mise en place de la politique de développement de la petite enfance (une campagne de divulgation et de sensibilisation est menée autour du document de politique de développement de la petite enfance). | a. Organisation d'un séminaire de validation de la politique de développement de la petite enfance par les secteurs public, privé et les partenaires ;
-b. Impression et diffusion de la politique ;
-c. Mise au point d'un plan d'action sur les 3 années du programme (PIPE) ;
-d. Organisation d'un séminaire de validation du plan d'action ;
-e. Prise d'un texte officiel instituant le plan d'action ;
-f. Impression et diffusion de la politique.
-Formation de 64% des agents inspecteurs du fondamental de façon à les habiliter à superviser les classes préscolaires. Cela concerne aussi le Fondamental 1&2, donc on renverra ici à la stratégie exposée pour ce niveau. | i). Révision des normes de supervision de manière à limiter la charge d'un inspecteur de zone du Fondamental à la supervision de 10 écoles au maximum, tenant compte de la dispersion géographique de celles-ci ;
-ii). Prendre un texte réorganisant la supervision au Fondamental et au Préscolaire et incluant le rôle du secteur privé ;
-iii). Réformer, avec la participation du secteur privé, la carte des inspections de zone en augmentant le nombre d'inspecteurs et d'inspections de zone en vue de satisfaire la norme de 10 écoles au maximum par inspecteurs de zone ;
-iv). Elaborer un guide de supervision des classes préscolaires des écoles fondamentales
-v). Prendre un texte officiel instituant le guide de supervision ;
-vi). Organiser le transfert du guide aux acteurs de terrain une base départementale avec la
-
 Tableau 45 : Eléments de mise en œuvre des grandes interventions du PIPE
+
+Les axes | Objectifs | Grandes interventions | Eléments de mise en œuvre
+--- | --- | --- | ---
+Universalisation de l'enseignement de base | Promouvoir le développement de la petite enfance et de l'éducation préscolaire | Appui à la mise en place de la politique de développement de la petite enfance (une campagne de divulgation et de sensibilisation est menée autour du document de politique de développement de la petite enfance). | a. Organisation d'un séminaire de validation de la politique de développement de la petite enfance par les secteurs public, privé et les partenaires ;
+ | | | b. Impression et diffusion de la politique ;
+ | | | c. Mise au point d'un plan d'action sur les 3 années du programme (PIPE) ;
+ | | | d. Organisation d'un séminaire de validation du plan d'action ;
+ | | | e. Prise d'un texte officiel instituant le plan d'action ;
+ | | | f. Impression et diffusion de la politique.
+ | | Formation de 64% des agents inspecteurs du fondamental de façon à les habiliter à superviser les classes préscolaires. Cela concerne aussi le Fondamental 1&2, donc on renverra ici à la stratégie exposée pour ce niveau. | i). Révision des normes de supervision de manière à limiter la charge d'un inspecteur de zone du Fondamental à la supervision de 10 écoles au maximum, tenant compte de la dispersion géographique de celles-ci ;
+ | | | ii). Prendre un texte réorganisant la supervision au Fondamental et au Préscolaire et incluant le rôle du secteur privé ;
+ | | | iii). Réformer, avec la participation du secteur privé, la carte des inspections de zone en augmentant le nombre d'inspecteurs et d'inspections de zone en vue de satisfaire la norme de 10 écoles au maximum par inspecteurs de zone ;
+ | | | iv). Elaborer un guide de supervision des classes préscolaires des écoles fondamentales
+ | | | v). Prendre un texte officiel instituant le guide de supervision ;
+ | | | vi). Organiser le transfert du guide aux acteurs de terrain une base départementale avec la
 
 [[END OF PAGE 110]]
 
@@ -2574,7 +2901,7 @@ Formation continue des agents éducatifs dans le Fondamental 1&2. Il est prévu 
 
 [[START OF PAGE 115]]
 
-Les axes | Objectifs | Eléments de mise en œuvre
+Les axes | Objectifs | Grandes interventions | Eléments de mise en œuvre
 --- | --- | ---
 du non-public. | expériences conduites depuis au moins 15 ans dans le domaine ;
 ii). Prise des textes officiels appliquant le plan directeur de formation conduisant à impliquer tout enseignant des deux premiers cycles du Fondamental dans un plan individuel de formation/perfectionnement et de carrière englobant les secteurs public et privé ;
@@ -2601,7 +2928,7 @@ c. Intensification de la campagne de sensibilisation relative à l'alphabétisat
 d. Développement et mise en place une stratégie pour la participation du secteur privé et de la société civile dans la fourniture des services d'alphabétisation.
 e. Mise en place d'un système facilitant et dynamisant l'implication des écoles, des églises, des ONG, etc. dans la fourniture des services d'alphabétisation.
 f. Etablissement d'un partenariat avec l'INFP pour la formation aux petits métiers.
-Amélioration de | Accroitre l'accès et | Application de la double vacation à 24% des salles de classe du 3e cycle Sélection des écoles qui seront invitées à adopter
+Amélioration de | Accroitre l'accès et | Application de la double vacation à 24% des salles de classe du 3e cycle | Sélection des écoles qui seront invitées à adopter
 
 116 | P a g e
 
@@ -2700,13 +3027,13 @@ L'âge officiel d'entrée dans le préscolaire est 4 ans et la scolarité dure d
 
 ###### Le problème de la cohérence des données
 
-Le recensement scolaire 2010/11  indique un effectif de 2 210 222 élèves dans le fondamental 1&2. Calculé en utilisant les projections de population établies par l'IHSI à partir du RGPH de 2003 41 , le taux brut de scolarisation (TBS) est de 155% et le taux net (TNS), de 97% 42 . Cependant, les données scolaires et démographiques ne sont pas cohérentes. En effet, si l'on additionne les effectifs de 6 à 11 ans des trois niveaux d'enseignement - préscolaire, fondamental et secondaire -  donnés  par  le  recensement  scolaire,  on  obtient  un  effectif  de 1 483 675  élèves  qui  excède  la  population  de  cette  tranche  d'âge,  qui  est  de  1 421 584 enfants. La différence (62 091) n'est pas considérable 43 , mais, pour le mettre en regard de la population totale de 6-11 ans, il faut ajouter à l'effectif des élèves de 6-11 ans, l'effectif des enfants de 6-11 ans déscolarisés et l'effectif des enfants de 6-11 ans non encore scolarisés. Or, ces deux effectifs sont très importants, le premier en raison du taux d'abandon élevé, le second en raison des nombreuses entrées tardives. L'efficacité interne, déduite des données de l'annuaire 2010/11 et supposée valable pour le passé récent, permet d'estimer le premier effectif  à  300 000  élèves.  L'estimation  du  second  effectif  est  plus  hypothétique  puisqu'elle concerne l'avenir, mais il suffit d'observer la répartition des nouveaux entrants en 1 e  année (cf. Tableau 15 )  pour comprendre que cet effectif est potentiellement plus important que le premier. Par exemple, en 2010/11, environ 120 000 enfants de 6 ans sont entrés à l'école, sur  un  effectif  de  420 000  nouveaux  entrants 44  et  environ  280 000  élèves  sont  entrés  à l'école à 7 ans ou plus. Si l'effectif de la population de 6 ans est situé entre 240 000 enfants (projection de l'IHSI pour 2010) et 420 000, et si 20 000 enfants de 6 ans étaient déjà entrés à l'école à 5 ans, le nombre d'enfants de 6 ans susceptibles d'entrer plus tard à l'école se situe grosso modo entre 100 000 et 280 000. Et l'on doit reproduire le calcul, mutatis mutandis , pour les enfants de 7 ans, de 8 ans, etc., jusqu'à 11 ans ; les effectifs calculés étant toutefois de moins en moins grands.
+Le recensement scolaire 2010/11 indique un effectif de 2 210 222 élèves dans le fondamental 1&2. Calculé en utilisant les projections de population établies par l'IHSI à partir du RGPH de 2003 41, le taux brut de scolarisation (TBS) est de 155% et le taux net (TNS), de 97% 42. Cependant, les données scolaires et démographiques ne sont pas cohérentes. En effet, si l'on additionne les effectifs de 6 à 11 ans des trois niveaux d'enseignement – préscolaire, fondamental et secondaire – donnés par le recensement scolaire, on obtient un effectif de 1 483 675 élèves qui excède la population de cette tranche d'âge, qui est de 1 421 584 enfants. La différence (62 091) n'est pas considérable 43, mais, pour le mettre en regard de la population totale de 6-11 ans, il faut ajouter à l'effectif des élèves de 6-11 ans, l'effectif des enfants de 6-11 ans déscolarisés et l'effectif des enfants de 6-11 ans non encore scolarisés. Or, ces deux effectifs sont très importants, le premier en raison du taux d'abandon élevé, le second en raison des nombreuses entrées tardives. L'efficacité interne, déduite des données de l'annuaire 2010/11 et supposée valable pour le passé récent, permet d'estimer le premier effectif à 300 000 élèves. L'estimation du second effectif est plus hypothétique puisqu'elle concerne l'avenir, mais il suffit d'observer la répartition des nouveaux entrants en 1e année (cf. Tableau 15) pour comprendre que cet effectif est potentiellement plus important que le premier. Par exemple, en 2010/11, environ 120 000 enfants de 6 ans sont entrés à l'école,
 
-> 41  Elles peuvent être téléchargées sur le site de l'IHSI, à l'adresse : http://www.ihsi.ht/pdf/projection/ProjectionsPopulation_Haiti_2007.pdf
+> 41 Elles peuvent être téléchargées sur le site de l'IHSI, à l'adresse : http://www.ihsi.ht/pdf/projection/ProjectionsPopulation_Haiti_2007.pdf
 
-> 42  Le TBS rapporte l'effectif des élèves inscrits au fondamental 1&2, quel que soit leur âge, à la population de 611 ans (6 ans étant l'âge officiel d'entrée à l'école). Le TNS rapporte l'effectif des élèves inscrits au fondamental 1&2  de 6-11 ans à la population de 6-11 ans.
+> 42 Le TBS rapporte l'effectif des élèves inscrits au fondamental 1&2, quel que soit leur âge, à la population de 6-11 ans (6 ans étant l'âge officiel d'entrée à l'école). Le TNS rapporte l'effectif des élèves inscrits au fondamental 1&2 de 6-11 ans à la population de 6-11 ans.
 
-> 43  Il faudrait toutefois ajouter une partie des élèves dont l'âge est inconnu (4% des élèves).
+> 43 Il faudrait toutefois ajouter une partie des élèves dont l'âge est inconnu (4% des élèves).
 
 123 | P a g e
 
@@ -2714,7 +3041,9 @@ Le recensement scolaire 2010/11  indique un effectif de 2 210 222 élèves dans 
 
 [[START OF PAGE 124]]
 
-L'incohérence  entre  les  données  scolaires  et  les  données  démographiques  est  donc  très prononcée. Pour cette raison, le TBA que ces données permettent de calculer (cf. note 21) 176% -  est  également  fort  improbable.  Entre  les  deux  derniers  recensements  scolaires disponibles (2002/03 et 2010/11), on observe certes une légère déformation de la structure par âge des nouveaux entrants en 1 e  année, qui va d'ailleurs dans le bon sens (cf. Tableau 15 ), mais elle n'est pas de nature à rendre compte d'un taux aussi élevé 45  ; en 2002/03, le TBA 210% - était déjà très élevé. Le nombre de nouveaux entrants de 2009/10 qui se seraient, de nouveau, inscrits en 1 e  année suite au séisme n'est pas connu, mais le Gouvernement avait fait  beaucoup  d'efforts  pour  une  reprise  rapide  des  activités  scolaires  et  ce  nombre  est vraisemblablement faible, en tout cas loin d'une dimension qui puisse expliquer ce TBA de 176%.
+sur un effectif de 420 000 nouveaux entrants 44 et environ 280 000 élèves sont entrés à l'école à 7 ans ou plus. Si l'effectif de la population de 6 ans est situé entre 240 000 enfants (projection de l'IHSI pour 2010) et 420 000, et si 20 000 enfants de 6 ans étaient déjà entrés à l'école à 5 ans, le nombre d'enfants de 6 ans susceptibles d'entrer plus tard à l'école se situe grosso modo entre 100 000 et 280 000. Et l'on doit reproduire le calcul, mutatis mutandis, pour les enfants de 7 ans, de 8 ans, etc., jusqu'à 11 ans ; les effectifs calculés étant toutefois de moins en moins grands.
+
+L'incohérence entre les données scolaires et les données démographiques est donc très prononcée. Pour cette raison, le TBA que ces données permettent de calculer (cf. note 21) – 176% – est également fort improbable. Entre les deux derniers recensements scolaires disponibles (2002/03 et 2010/11), on observe certes une légère déformation de la structure par âge des nouveaux entrants en 1e année, qui va d'ailleurs dans le bon sens (cf.Tableau 15), mais elle n'est pas de nature à rendre compte d'un taux aussi élevé 45 ; en 2002/03, le TBA – 210% – était déjà très élevé. Le nombre de nouveaux entrants de 2009/10 qui se seraient, de nouveau, inscrits en 1e année suite au séisme n'est pas connu, mais le Gouvernement avait fait beaucoup d'efforts pour une reprise rapide des activités scolaires et ce nombre est vraisemblablement faible, en tout cas loin d'une dimension qui puisse expliquer ce TBA de 176%.
 
 Ce constat d'une incohérence entre les statistiques scolaires et les données démographiques sera probablement corroboré par l'annuaire 2011/12 puisqu'une première exploitation des données y relatives indique un effectif de 2 454 980 élèves (dont 522 233 dans le public et 1 932 747 dans le non-public), ce qui implique un TBS 2011/12 de 171% et un TNS de 107%
 
@@ -2728,7 +3057,7 @@ Ce constat d'une incohérence entre les statistiques scolaires et les données d
 
 [[START OF PAGE 125]]
 
-(sans  compter  les  élèves  scolarisés  dans  le  fondamental 3) 46 .  La  forte  augmentation  des effectifs  d'élèves  entre  2010/11  et  2011/12   - 11%  (7%  dans  le  public,  12%  dans  le  nonpublic) - comme l'augmentation légèrement moins forte du nombre d'écoles  - 8% (5% dans le  public,  9% dans le non-public) - est probablement en partie due à un recensement plus exhaustif.
+(sans compter les élèves scolarisés dans le fondamental 3) 46. La forte augmentation des effectifs d'élèves entre 2010/11 et 2011/12 – 11% (7% dans le public, 12% dans le non-public) – comme l'augmentation légèrement moins forte du nombre d'écoles – 8% (5% dans le public, 9% dans le non-public) – est probablement en partie due à un recensement plus exhaustif.
 
 ###### L'origine possible de cette incohérence et ses conséquences
 
@@ -2736,7 +3065,7 @@ Les  données  démographiques  sont,  peut-être,  sous-estimées  et/ou  les  
 
 ###### Méthode retenue pour simuler l'évolution des effectifs
 
-L'enquête EMMUS-V  de  2012  permet  d'éviter  l'inconvénient du calcul des taux de scolarisation  d'être  établi  à  partir  de  deux  sources  de  données  différentes,  une  pour  le numérateur, une pour le dénominateur 49 . Elle estime à 77% le TNF et à 165% le TBF (cf. définitions en note 20). Cet indicateur établi par l'UNICEF est en général inférieur au taux net de  scolarisation 50 ,  et  la  différence  est  faible  dans  la  région 51 .  Nous  avons  supposé  par prudence que les taux étaient égaux. Le TNS, comme le TNF, est calculé sur la tranche d'âge 6-11 ans. Or, cette tranche d'âge inscrite dans les textes correspond mal à la réalité haïtienne. En  effet,  si  l'on  considère  la  tranche  d'âge  de  6  années  dans  laquelle  les  élèves  du fondamental 1&2 sont les plus nombreux, soit la tranche d'âge 7-12 ans, on peut déduire du TNS de 77% observé pour les 6-11 ans un TNS de 85% pour les 7-12 ans. Et compte tenu des taux élevés d'abandon par année d'études indiqués par les recensements scolaires (10% en moyenne sur les cinq premières années d'études), on peut déduire de ce TNS de 85% un TBA réel proche de 100% 52 .
+L'enquête EMMUS-V de 2012 permet d'éviter l'inconvénient du calcul des taux de scolarisation d'être établi à partir de deux sources de données différentes, une pour le
 
 > 46  Ceci, toutefois, si l'on fait l'hypothèse que la répartition par âge des élèves est semblable à celle de 2010/11.
 
@@ -2750,7 +3079,9 @@ L'enquête EMMUS-V  de  2012  permet  d'éviter  l'inconvénient du calcul des t
 
 [[START OF PAGE 126]]
 
-Nous  avons  donc  supposé  que  l'effectif  des  nouveaux  entrants  en  1 e   année  croîtrait  au rythme annuel de 0,5% en l'absence de mesures pour réduire les entrées tardives et de 1,9% avec ces mesures d'ici 2016. On a supposé également que la répartition par âge des nouveaux entrants respecterait l'évolution décrite dans le Tableau 15 que les taux de promotion et de redoublement des élèves réguliers 53  évolueraient comme indiqué plus haut (page 50) 54 . Les élèves orientés vers les programmes accélérés ne sont supposés ni échouer ni abandonner.
+numérateur, une pour le dénominateur 49. Elle estime à 77% le TNF et à 165% le TBF (cf. définitions en note 20). Cet indicateur établi par l'UNICEF est en général inférieur au taux net de scolarisation 50, et la différence est faible dans la région 51. Nous avons supposé par prudence que les taux étaient égaux. Le TNS, comme le TNF, est calculé sur la tranche d'âge 6-11 ans. Or, cette tranche d'âge inscrite dans les textes correspond mal à la réalité haïtienne. En effet, si l'on considère la tranche d'âge de 6 années dans laquelle les élèves du fondamental 1&2 sont les plus nombreux, soit la tranche d'âge 7-12 ans, on peut déduire du TNS de 77% observé pour les 6-11 ans un TNS de 85% pour les 7-12 ans. Et compte tenu des taux élevés d'abandon par année d'études indiqués par les recensements scolaires (10% en moyenne sur les cinq premières années d'études), on peut déduire de ce TNS de 85% un TBA réel proche de 100% 52.
+
+Nous avons donc supposé que l'effectif des nouveaux entrants en 1 e année croîtrait au rythme annuel de 0,5% en l'absence de mesures pour réduire les entrées tardives et de 1,9% avec ces mesures d'ici 2016. On a supposé également que la répartition par âge des nouveaux entrants respecterait l'évolution décrite dans le Tableau 15 que les taux de promotion et de
 
 > 49  On peut accorder un certain crédit à cette enquête. Elle a été réalisée par l'Institut Haïtien de l'Enfance (IHE), avec  la  collaboration  de  l'Institut  Haïtien  de  Statistique  et  d'Informatique  (IHSI).  Plusieurs  bailleurs  l'ont financée (USAID, ACDI, SIDA, PNUD, etc.), et plusieurs institutions ont apporté leur expertise à sa réalisation, en particulier :  le  Centre  de  Contrôle  des  Maladies  des  Etats-Unis  (CDC)  pour la  réalisation  des  tests  du  VIH  au Laboratoire  National  de  Santé  Publique  (LNSP)  ainsi  que  les  Centres  GHESKIO  (Groupe  Haïtien  d'Etude  du Sarcome  de  Kaposi  et  des  Infections  Opportunistes).  Elle  a  aussi  bénéficié  de  l'assistance  technique  de  l'ICF International par le biais du programme Demographic and Health Surveys (MEASURE DHS).
 
@@ -2766,6 +3097,8 @@ Nous  avons  donc  supposé  que  l'effectif  des  nouveaux  entrants  en  1 e  
 
 [[START OF PAGE 127]]
 
+redoublement des élèves réguliers 53 évolueraient comme indiqué plus haut (page 50) 54. Les élèves orientés vers les programmes accélérés ne sont supposés ni échouer ni abandonner.
+
 ##### Fondamental 3 et secondaire
 
 ###### Effectifs d'élèves
@@ -2774,11 +3107,19 @@ Le  fondamental 3  a  une  durée  de  3  ans  et  le  secondaire,  de  4  ans. 
 
 Les effectifs du fondamental 3 (EF3) sont déterminés ainsi :
 
-Le  nombre  de  nouveaux  entrants  en  F3  est  déterminé  par  le  taux  de  transition  entre  le fondamental 2 et le fondamental 3.
+EF3 = TBS × Population 12-14 ans
+
+TBS = [(Taux d'accès en 7e + Taux d'achèvement)/2] / [1 - % de redoublants dans le cycle]
+
+Taux d'accès en 7e = Nouveaux entrants en F3 / Population 12 ans
+
+Le nombre de nouveaux entrants en F3 est déterminé par le taux de transition entre le fondamental 2 et le fondamental 3.
+
+Taux d'achèvement = Taux d'accès en 7e × Taux de survie
 
 Le taux de survie est un paramètre (qui doit passer de 72% en 2011 à 90% en 2021).
 
-Remarque : la détermination des effectifs d'élèves repose donc sur les données démographiques.  L'incohérence  constatée  pour  le  fondamental  1&2  entre  les  données scolaires et les données démographiques  semble  moins  prononcée  pour l'ensemble fondamental 3 et secondaire : on compte 1 129 047 élèves de 12 à 18 ans dans le système scolaire (fondamental 1&2, fondamental 3 et secondaire) contre 1 568 975 jeunes de 12 à 18 ans. Par ailleurs, le TNF (pour la population de 12-17 ans) indiqué par EMMUS V (25,4%) est moins éloigné du TNS (21,7%). Quoi qu'il en soit, l'effectif ainsi déterminé augmentera entre 2012 et 2016 de 4,9% par an - rythme qui semble plausible.
+Remarque : la détermination des effectifs d'élèves repose donc sur les données démographiques. L'incohérence constatée pour le fondamental 1&2 entre les données
 
 > 53  Les élèves réguliers sont les élèves qui ne suivent pas les programmes accélérés.
 
@@ -2789,6 +3130,8 @@ Remarque : la détermination des effectifs d'élèves repose donc sur les donné
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
+
+scolaires et les données démographiques semble moins prononcée pour l'ensemble fondamental 3 et secondaire : on compte 1 129 047 élèves de 12 à 18 ans dans le système scolaire (fondamental 1&2, fondamental 3 et secondaire) contre 1 568 975 jeunes de 12 à 18 ans. Par ailleurs, le TNF (pour la population de 12-17 ans) indiqué par EMMUS V (25,4%) est moins éloigné du TNS (21,7%). Quoi qu'il en soit, l'effectif ainsi déterminé augmentera entre 2012 et 2016 de 4,9% par an – rythme qui semble plausible.
 
 Les effectifs du secondaire sont déterminés de la même manière que pour le fondamental 3.
 
@@ -2854,15 +3197,17 @@ trois  premières  années  du  fondamental  aura  pour  effet  d'amener  rapide
 
  Préscolaire
 
-- o
+- o Taux net de fréquentation préscolaire :
 
-- Taux net de fréquentation préscolaire :
+Nombre d'enfants de 4-5 ans inscrits au préscolaire / Population 4-5 ans
 
-- o Taux d'encadrement (public). Nombre d'enfants par moniteur (mais sous cette appellation  on  regroupe  l'ensemble  des  agents  d'encadrement,  y  compris  les administratifs des écoles).
+- o Taux d'encadrement (public). Nombre d'enfants par moniteur (mais sous cette appellation on regroupe l'ensemble des agents d'encadrement, y compris les administratifs des écoles).
 
  Fondamental 1&2
 
 - o Taux de survie transversal (réguliers + accélérés) et taux d'achèvement (taux brut d'accès = 100%). Le TBA étant de 100%, le taux d'achèvement est égal au taux de survie. Le taux de survie transversal est calculé ainsi : puisque les effectifs sont déterminés dans le modèle en fonction des taux de promotion et de redoublement, le taux de survie (% des nouveaux entrants qui accèdent en 6 e  année) est le produit des taux de survie à chacune des cinq premières années du fondamental 1&2, et ces taux de survie sont :
+
+Taux de promotion / (1 – Taux de redoublement)
 
 - o Déscolarisés précoces. Enfants de 8-9 ans et de 10-12 ans qui ont abandonné l'école fondamentale sans avoir atteint la 5 e  année d'études.
 
@@ -2881,6 +3226,8 @@ trois  premières  années  du  fondamental  aura  pour  effet  d'amener  rapide
  Fondamental 3
 
 - o Taux de transition fondamental 2 Réguliers/Fal 3. Taux de transition entre les fondamental 2 et le fondamental 3 (public et non-public).
+
+Nouveaux entrants en F3 en t / Non redoublants en 6e année F2 en t − 1
 
  Secondaire
 
@@ -3126,7 +3473,7 @@ Axe II : Curriculum et Programmes | Curriculum, Programmes et Évaluation | M. C
 Axe I : Gouvernance | Gestion Administrative et Financière | M. Hercule Saint Juste, Chef de file Univerisité Pensylvannie, Partenaire Dr Louis Marie Daniel Dorsainvil et M. Sylvain Lafalaise, Expert principaux
 (Tous les axes) | Technologies de l'information et de la communication et éducation | Unité TICE (à instituer au Ministère) Scol. PhD Irvika François Ludger François
 Axe IV : Petite enfance, gratuité et obligations scolaires | Partenariat public-privé et financement de l'Éducation | M. Jean Wilnor Pirrre, Chef de file Expert principal (A recruter)
-Innovations en Éducation | M. Jackson Joseph, Chef de file Ed.D. Socl. Carole Sassine, Experte principale Fondation Connaissance et Liberté, Partenaire
+ | Innovations en Éducation | M. Jackson Joseph, Chef de file Ed.D. Socl. Carole Sassine, Experte principale Fondation Connaissance et Liberté, Partenaire
 
 1
 
@@ -3142,26 +3489,6 @@ Innovations en Éducation | M. Jackson Joseph, Chef de file Ed.D. Socl. Carole S
 
 [[START OF PAGE 146]]
 
-###### 1.- Contexte
-
-Le séisme du 12 janvier 2010 a mis à mal les infrastructures scolaires. Plus de 4 268 écoles et centres d'enseignement ont été détruits  ou  endommagés.  Depuis,  de nombreuses tempêtes ont aggravé cet état des lieux, privant des milliers d'enfants de leurs lieux d'apprentissage.
-
-L'éducation  étant  l'une  des  priorités  de  l'actuelle  administration,  l'intégration  en milieu scolaire des enfants n'ayant jamais fréquenté l'école devient incontournable et augmente  la  pression  sur  les  établissements  existants.  En  conséquence,  un  vaste
-
-programme de reconstruction du bâti scolaire a été entrepris à l'échelle nationale. L'un des objectifs du plan opérationnel du Ministère de l'Education Nationale et de la Formation Professionnelle (MENFP)  est l'amélioration de la qualité de l'éducation, cela passe également par l'amélioration du bâti dans toutes nos régions. Les infrastructures et équipements ne sont pas traités dans un axe particulier du plan opérationnel, c'est un domaine transversal se retrouvant dans plusieurs axes.  Aussi, la  mise  en  place  du  Groupe  de  Travail  sur  les  Infrastructures  et  les  Equipements Scolaires  (GTIES)  a-t-elle  été  prévue  pour  la  restructuration    de    la  Direction  du Génie Scolaire  en vue d'assurer la transmission du savoir dans un cadre convenable.
-
-###### 2.- Direction du génie scolaire, brève présentation
-
-La loi organique du ministère de l'Education nationale confie à la Direction du génie scolaire  (DGS)  la  charge  de  la  gestion,  de  l'entretien  et  de  l'équipement des infrastructures  scolaires  sur  tout  le  territoire  national.  La  DGS  comprend  trois services:
-
--Le service d'exécution et d'entretien ;
-
--Le service d'évaluation et de supervision ;
-
--Le service des études et de recherche.
-
-Depuis  de  nombreuses  années,  le  recours  systématique  à  des  agences  d'exécution  a privé le ministère, ainsi que cette direction, des ressources financières nécessaires à l'accomplissement de sa mission de régulation. Le séisme du 12 janviers 2010 a mis en lumière la faiblesse de la DGS qui est trop centralisée, sous équipée, aux ressources humaines insuffisantes. Une restructuration de la DGS s'impose afin qu'elle puisse
-
 ##### ANNEXE A
 
 ###### TERMES DE REFERENCES DU GROUPE DE TRAVAIL SUR LES INFRASTRUCTURES ET LES EQUIPEMENTS SCOLAIRES
@@ -3175,6 +3502,26 @@ Axe 5 : Enseignement secondaire
 Axe 6 : Formation professionnelle
 
 AXE 7 : Enseignement supérieur
+
+###### 1.- Contexte
+
+Le séisme du 12 janvier 2010 a mis à mal les infrastructures scolaires. Plus de 4 268 écoles et centres d'enseignement ont été détruits ou endommagés. Depuis, de nombreuses tempêtes ont aggravé cet état des lieux, privant des milliers d'enfants de leurs lieux d'apprentissage.
+
+L'éducation étant l'une des priorités de l'actuelle administration, l'intégration en milieu scolaire des enfants n'ayant jamais fréquenté l'école devient incontournable et augmente la pression sur les établissements existants. En conséquence, un vaste programme de reconstruction du bâti scolaire a été entrepris à l'échelle nationale.
+
+L'un des objectifs du plan opérationnel du Ministère de l'Education Nationale et de la Formation Professionnelle (MENFP) est l'amélioration de la qualité de l'éducation, cela passe également par l'amélioration du bâti dans toutes nos régions. Les infrastructures et équipements ne sont pas traités dans un axe particulier du plan opérationnel, c'est un domaine transversal se retrouvant dans plusieurs axes. Aussi, la mise en place du Groupe de Travail sur les Infrastructures et les Equipements Scolaires (GTIES) a-t-elle été prévue pour la restructuration de la Direction du Génie Scolaire en vue d'assurer la transmission du savoir dans un cadre convenable.
+
+###### 2.- Direction du génie scolaire, brève présentation
+
+La loi organique du ministère de l'Education nationale confie à la Direction du génie scolaire (DGS) la charge de la gestion, de l'entretien et de l'équipement des infrastructures scolaires sur tout le territoire national. La DGS comprend trois services:
+
+-Le service d'exécution et d'entretien ;
+
+-Le service d'évaluation et de supervision ;
+
+-Le service des études et de recherche.
+
+Depuis de nombreuses années, le recours systématique à des agences d'exécution a privé le ministère, ainsi que cette direction, des ressources financières nécessaires à l'accomplissement de sa mission de régulation. Le séisme du 12 janviers 2010 a mis en lumière la faiblesse de la DGS qui est trop centralisée, sous équipée, aux ressources humaines insuffisantes. Une restructuration de la DGS s'impose afin qu'elle puisse
 
 3
 
@@ -3370,7 +3717,7 @@ Le  consultant  soumettra  un  budget  détaillé  de  ses  activités,  y  comp
 
 L'expert en informatique, chargé de la mise en place de ce système, devra posséder les qualifications suivantes :
 
--Etre  détenteur  d'un  diplôme  d'ingénieur  en  informatique  et/ou  d'analysteprogrammeur (minimum Bac +4).
+-Etre détenteur d'un diplôme d'ingénieur en informatique et/ou d'analyste-programmeur (minimum Bac +4).
 
 -Faire preuve d'une expérience minimale  de  3  ans en  développement informatique.
 
@@ -3403,7 +3750,7 @@ Le  Plan  Opérationnel  2010-2015  du  Ministère  de  l'Éducation  Nationale 
 
 Le Plan Stratégique de Développement d'Haïti (2012) prévoit à son tour, au niveau du  chantier  de  la  refondation  sociale,  une  restructuration  totale  du  secteur  de l'enseignement  supérieur  en  complémentarité  avec  le  renforcement  des  pôles  de développement.
 
-La revue sectorielle des 27 et 28 février 2013 a rappelé qu'une  mise en œuvre réussie du PO  nécessite une forte implication de toutes les structures centrales et déconcentrées du MENFP-Directions Techniques (DT), Directions Départementales  d'Éducation  (DDE),  et  incidemment  l'urgence    de  l'appropriation par ces structures de son contenu global du PO, et plus particulièrement, de sa vision refondatrice et de ses ambitions opérationnelles. Elle a aussi montré que , pour des raisons  diverses,  de  faibles  résultats  ont  été  atteints  au  niveau  du  secteur  de l'enseignement  supérieur en termes d'exécution du PO pour la période octobre 2010décembre 2012.
+La revue sectorielle des 27 et 28 février 2013 a rappelé qu'une mise en œuvre réussie du PO nécessite une forte implication de toutes les structures centrales et déconcentrées du MENFP-Directions Techniques (DT), Directions Départementales d'Éducation (DDE), et incidemment l'urgence de l'appropriation par ces structures de son contenu global du PO, et plus particulièrement, de sa vision refondatrice et de ses ambitions opérationnelles. Elle a aussi montré que , pour des raisons diverses, de faibles résultats ont été atteints au niveau du secteur de l'enseignement supérieur en termes d'exécution du PO pour la période octobre 2010-décembre 2012.
 
 C'est dans cette perspective, et également en prenant en considération les recommandations  de  la  mission  ministérielle  à  Washington  du  4    au  8      février 2013, qu'il a été jugé opportun de revoir la constitution des Groupes de Travail (GT), y inclus celui de l'Enseignement Supérieur, et de repréciser leur mandat d'accompagner les structures centrales et déconcentrées du Ministère dans le cadre de la réforme en cours.
 
@@ -3451,7 +3798,7 @@ L'animation à la fois politique et technique du Groupe de Travail tiendra compt
 
 Les membres de ce Groupe de Travail sont :
 
--Détenteurs  au  moins  d'un  diplôme  d'études  supérieures  en  éducation,  sociopolitique des sciences, sociologie, économie, planification ou encore dans toute autre discipline connexe aux sciences de l'éducation ;
+-Détenteurs au moins d'un diplôme d'études supérieures en éducation, socio-politique des sciences, sociologie, économie, planification ou encore dans toute autre discipline connexe aux sciences de l'éducation ;
 
 -Dotés d'une expérience professionnelle d'au moins 10 ans dans une institution d'enseignement supérieur et de recherche.
 
@@ -3567,7 +3914,7 @@ Les  honoraires    mensuels  du  Consultant  tiendront  compte  de  ses  niveaux
 
 ###### VII Qualifications requises:
 
--Détenteur  au  moins  d'un  diplôme  d'études  supérieures  en  éducation,  sociopolitique des sciences, sociologie, économie, planification ou encore dans toute autre discipline connexe aux sciences de l'éducation ;
+-Détenteur au moins d'un diplôme d'études supérieures en éducation, socio-politique des sciences, sociologie, économie, planification ou encore dans toute autre discipline connexe aux sciences de l'éducation ;
 
 -Doté d'une expérience professionnelle d'au moins 10 ans dans une institution d'enseignement supérieur et de recherche.
 
@@ -3625,9 +3972,9 @@ Dans un tel contexte, le PPP prend toute son importance. Il est en effet essenti
 
 ###### 2.2 Une loi instituant et organisant l'ONAPE
 
-La préparation et l'adoption en 2007 par le Gouvernement de la Stratégie Nationale d'Action Éducation  pour  Tous  (SNA-EPT)  dans  le  cadre  des  Objectifs  du  Millénaire  en  matière d'EPT a conduit à la définition et la mise en oeuvre d'un projet EPT assorti de subvention dans les écoles non-publiques en vue de soutenir la demande d'éducation. Cette composantepartie intégrante du premier projet de mise en œuvre de la SNA-EPT dans le cadre du Projet EPT qui en est à sa deuxième phase-fournit actuellement des bourses de scolarité à 170 000 élèves  dans  huit  départements  et  1  221  écoles  non  publiques. 3 Mais  le  cadre  institutionnel adéquat fait encore défaut. La Direction de l'Appui à l'Enseignement Privé et au Partenariat (DAEPP) s'occupe surtout de l'accréditation et de la reconnaissance des écoles non publiques. Elle n'a pas vocation à gérer efficacement le PPP. Or ce cadre constitue un instrument de toute première importance pour gérer un système éducatif essentiellement privé et l'aider à se développer.
+La préparation et l'adoption en 2007 par le Gouvernement de la Stratégie Nationale d'Action Éducation pour Tous (SNA-EPT) dans le cadre des Objectifs du Millénaire en matière d'EPT a conduit à la définition et la mise en oeuvre d'un projet EPT assorti de subvention dans les écoles non-publiques en vue de soutenir la demande d'éducation. Cette composante—partie intégrante du premier projet de mise en œuvre de la SNA-EPT dans le cadre du Projet EPT qui en est à sa deuxième phase—fournit actuellement des bourses de scolarité à 170 000 élèves dans huit départements et 1 221 écoles non publiques. 3 Mais le cadre institutionnel adéquat fait encore défaut. La Direction de l'Appui à l'Enseignement Privé et au Partenariat (DAEPP) s'occupe surtout de l'accréditation et de la reconnaissance des écoles non publiques. Elle n'a pas vocation à gérer efficacement le PPP. Or ce cadre constitue un instrument de toute première importance pour gérer un système éducatif essentiellement privé et l'aider à se développer.
 
-La refondation du système éducatif impose à l'État de d'finir un autre type de relation avec les  opérateurs privés de services éducatifs. Et l'ONAPE-dont les études préalables ont été conduites  en  2005-reste  la  voie  institutionnelle  pour  y  arriver.  La  mission  principale  de l'ONAPE est de « favoriser la participation réelle du secteur non public à l'élaboration et à la mise  en  œuvre  des  politiques  et  programmes  de  développement  de  l'Éducation  en  Haïti  ». Selon l'article 4 de la loi, votée en 2007, créant et organisant l'ONAPE, celui-ci est « à la fois un espace de concertation et d'échanges entre le Ministère de l'Éducation et de la Formation Professionnelle  et  les  partenaires  non  publics  du  secteur  éducatif  haïtien,  et  un  organe  de gestion du partenariat public-non public en éducation ».
+La refondation du système éducatif impose à l'État de d'finir un autre type de relation avec les opérateurs privés de services éducatifs. Et l'ONAPE-dont les études préalables ont été conduites en 2005-reste la voie institutionnelle pour y arriver. La mission principale de l'ONAPE est de « favoriser la participation réelle du secteur non public à l'élaboration et à la mise en œuvre des politiques et programmes de développement de l'Éducation en Haïti ». Selon l'article 4 de la loi, votée en 2007, créant et organisant l'ONAPE, celui-ci est « à la fois un espace de concertation et d'échanges entre le Ministère de l'Éducation et de la Formation
 
 > 3 Données de 2011.
 
@@ -3637,7 +3984,9 @@ La refondation du système éducatif impose à l'État de d'finir un autre type 
 
 [[START OF PAGE 163]]
 
-Trois types d'organes sont prévus pour assurer un fonctionnement et un contrôle efficaces de l'ONAPE. Il s'agit: (1) des organes de décision et de contrôle (un Conseil d'Administration, un  Bureau  de  Contrôle  Interne),  (2)  des  organes  de  gestion  stratégique  et  opérationnelle (Direction Générale, Direction du Partenariat, Direction des Affaires Administratives et du Fonds  National  du  Partenariat),  et  (3)  des  organes  de  consultation  (Article  6).  Il  est également  prévu  de  doter  l'ONAPE  d'un  Fonds  National  de  Partenariat  (FNP)  en  vue  de permettre à cet organisme de fournir ses services à travers un guichet unique. Les sources de financement identifiées du FNP sont à la fois nationales13 et étrangères.
+Professionnelle et les partenaires non publics du secteur éducatif haïtien, et un organe de gestion du partenariat public-non public en éducation ».
+
+Trois types d'organes sont prévus pour assurer un fonctionnement et un contrôle efficaces de l'ONAPE. Il s'agit: (1) des organes de décision et de contrôle (un Conseil d'Administration, un Bureau de Contrôle Interne), (2) des organes de gestion stratégique et opérationnelle (Direction Générale, Direction du Partenariat, Direction des Affaires Administratives et du Fonds National du Partenariat), et (3) des organes de consultation (Article 6). Il est également prévu de doter l'ONAPE d'un Fonds National de Partenariat (FNP) en vue de permettre à cet organisme de fournir ses services à travers un guichet unique. Les sources de financement identifiées du FNP sont à la fois nationales13 et étrangères.
 
 Le PO, à travers l'Axe 1 (Gouvernance) et l'Objectif 1 (Renforcer les structures centrales et déconcentrées du MENFP) prévoit l'opérationnalisation de l'ONAPE par la mise en place du « Conseil d'Administration de l'ONAPE et ses organes opérationnels ». Toutefois, si l'ONAPE a  bien  une  existence  légale,  son  opérationnalisation  tarde  encore  à  être  effective.  D'abord aucun membre de son personnel n'est nommé à cette date, pas même le Directeur Général. Ensuite, les allocations budgétaires ne sont plus programmées depuis 2009. En effet, la loi de finances  2006-07  prévoyait  des  crédits  de  3  587  808  HTG  au  titre  du  fonctionnement  de l'ONAPE, celle de 2007-2008 programmait des crédits rectifiés de l'ordre de 2 400 000 HTG tandis  que  celle  de  2008-2009  prévoyait  3  millions  HTG.  Pourtant,  en  2009-10,  la  loi  de finances n'a prévu aucune ressource à cet effet alors même que la rubrique budgétaire existait bel et bien dans la loi. Mais le décret établissant le Budget de la République en 2010-2011, en programmant 10 Millions de HTG pour le fonctionnement de l'ONAPE, apparait comme une rupture en programmant d'avantage de moyens financiers. Toutefois, le contexte d'élections et de changement de Gouvernement n'a pas laissé le temps nécessaire aux autorités pour rendre l'ONAPE opérationnelle.
 
@@ -3645,9 +3994,9 @@ Le PO, à travers l'Axe 1 (Gouvernance) et l'Objectif 1 (Renforcer les structure
 
 Le mandat attribué au groupe de travail est clair :
 
-- aider le Ministère à  définir sa politique en matière de PPP en vue de fournir des services éducatifs de qualité à toute la population; et
+i. aider le Ministère à définir sa politique en matière de PPP en vue de fournir des services éducatifs de qualité à toute la population; et
 
-- définir  les  stratégies  idoines  en  vue  de  mobiliser  les  ressources  appropriées  en  vue d'assurer la prise en charge de la scolarisation.
+ii. définir les stratégies idoines en vue de mobiliser les ressources appropriées en vue d'assurer la prise en charge de la scolarisation.
 
 De façon plus spécifique, le groupe de travail assurera les responsabilités suivantes :
 
@@ -3727,7 +4076,7 @@ The objectives of this consultancy include the following:
 
  To  coordinate  with  relevant  stakeholders,  including  the  MENFP,  USAID, ONAPE, donors, civil society organizations, and other key stakeholders in the development, implementation, and evaluation of public-private partnerships that support education reform
 
-The advisor  is  a  member  of  the  expanded  USAID/Haiti  Education  Team,  but  s/he will be housed in the MENFP offices. S/he takes a leadership role in liaising with and providing technical assistance to the MENFP and the Governance and PublicPrivate  Partnership,  Early  Childhood/Universal  Primary  Education,  Curriculum and Program, and Professional Development and Training groups, and these groups' activities.  S/he  is  responsible  for developing and overseeing support to the MENFP and  these  working  groups.  The  incumbent  must  work  closely  with  Government  of Haiti  (GOH)  officials,  in  particular  the  MENFP,  contractors,  consultants,  NGOs, other donors, and designated team members. S/he must be also be conscious of and responsive  to  the  USAID  education  mission  focus  on  strengthening  early  grade reading  and  the  development  and  implementation  of  effective  reading  standards, pedagogies, curricula, assessments, and teacher training. The Public-Private Partnerships  Advisor  must  have  intimate  knowledge  and  stay  abreast  of  publicprivate  education-related  partnerships  in  Haitian  and  US  or  other  international contexts  and  have  knowledge  about  partnerships  that  support  the  development  and implementation of effective reading education practices. The Public-Private Partnerships Advisor provides expertise and technical leadership to the MENFP, the working  groups,  and  other  project  personnel  involved  in  the  design,  planning, implementation, monitoring, and evaluation of related programs and projects.
+The advisor is a member of the expanded USAID/Haiti Education Team, but s/he will be housed in the MENFP offices. S/he takes a leadership role in liaising with and providing technical assistance to the MENFP and the Governance and Public-Private Partnership, Early Childhood/Universal Primary Education, Curriculum and Program, and Professional Development and Training groups, and these groups' activities. S/he is responsible for developing and overseeing support to the MENFP and these working groups. The incumbent must work closely with Government of Haiti (GOH) officials, in particular the MENFP, contractors, consultants, NGOs, other donors, and designated team members. S/he must be also be conscious of and responsive to the USAID education mission focus on strengthening early grade reading and the development and implementation of effective reading standards, pedagogies, curricula, assessments, and teacher training. The Public-Private Partnerships Advisor must have intimate knowledge and stay abreast of public-private education-related partnerships in Haitian and US or other international contexts and have knowledge about partnerships that support the development and implementation of effective reading education practices. The Public-Private Partnerships Advisor provides expertise and technical leadership to the MENFP, the working groups, and other project personnel involved in the design, planning, implementation, monitoring, and evaluation of related programs and projects.
 
 23
 
@@ -3743,7 +4092,7 @@ The PPP Advisor reports to designated MENFP staff and the Manpower supervisor. S
 
 The PPP Advisor will be responsible for the following tasks:
 
-###### Strategic Planning and Advice (35% level of effort)
+###### a. Strategic Planning and Advice (35% level of effort)
 
  Take a leadership role in the operationalization of the USAID/Haiti strategic plan components that concentrate on public-private partnerships, through active participation  in  the  MENFP  and working groups
 
@@ -3769,9 +4118,9 @@ The PPP Advisor will be responsible for the following tasks:
 
  Develop  a  comprehensive  database  and  a  library  of  public-private partnership- related individuals, organizations, events, resources, and materials
 
-###### Strengthening  Capacity  of  MENFP  and  working  groups  dedicated  to public-private partnership efforts (35% level of effort)
+###### b. Strengthening Capacity of MENFP and working groups dedicated to public-private partnership efforts (35% level of effort)
 
- With the goal of improving education services, assist the MENFP and working groups with identification and formation of potential publicprivate  partnerships,  with  emphasis  on  those  related  to  early  grade reading efforts
+ With the goal of improving education services, assist the MENFP and working groups with identification and formation of potential public-private partnerships, with emphasis on those related to early grade reading efforts
 
  Coordinate  and  participate  with  MENFP  designated  staff  in  the training  and  mentoring  of  MENFP,  working  group  personnel,  and relevant  partners  to  develop  their  capacity  to  identify  and  form public-private partnerships
 
@@ -3795,9 +4144,9 @@ notably  those  related  to  public-private  partnership  education  and early g
 
  Via  brochures,  websites,  and  other  relevant  means  publicize  key information about public-private partnership efforts to be shared with interested parties and groups inside and outside of MENFP and with USAID education office
 
-###### Monitoring and Evaluation (20% level of effort)
+###### c. Monitoring and Evaluation (20% level of effort)
 
- Collaborate  with  MENFP  and  working  groups  to  develop  publicprivate partnership performance monitoring systems, measurements of progress,  and  reports  on  performance,  in  accordance  with  USAID reporting requirements
+ Collaborate with MENFP and working groups to develop public-private partnership performance monitoring systems, measurements of progress, and reports on performance, in accordance with USAID reporting requirements
 
  Prepare interim progress reports as required and prepare appropriate input for the annual report and other reporting to USAID/Washington and MENFP
 
@@ -3807,16 +4156,16 @@ notably  those  related  to  public-private  partnership  education  and early g
 
  Alert USAID staff to issues and constraints affecting the implementation  of  USAID's  education  portfolio  and  public-private partnership efforts
 
-###### Other (10% level of effort)
+###### d. Other (10% level of effort)
 
  Perform  internal  technical  and  administrative  tasks  as  required, including those related to public-private partnerships and early grade reading education efforts
 
 ###### IV. Desired Qualifications
 
 ###### Education and Technical Knowledge:
-Minimum of a Master's degree in the field of Education,  Economics  of  Education,  International  Development  Education,  or Educational  Administration  from  a  recognized  education  institution.  Specialized training or education in strategic approaches to developing public-private educationrelated partnerships and addressing international education issues, including systemic  education  reform,  education  system  governance,  and  improvement  of educational quality is required. Specialized training or education in teacher training, educational  technologies  and  distance  learning,  and  reading/literacy  is  highly desirable. Applicant must be able to demonstrate experience in developing economic strategies  for  implementing partnerships between private and public sectors within the  education  field.  Applicant  must  be  able  to  articulate  orally  and  in  writing,  in English and French, the technical issues presented in this Statement of Work.
+Minimum of a Master's degree in the field of Education, Economics of Education, International Development Education, or Educational Administration from a recognized education institution. Specialized training or education in strategic approaches to developing public-private education-related partnerships and addressing international education issues, including systemic education reform, education system governance, and improvement of educational quality is required. Specialized training or education in teacher training, educational technologies and distance learning, and reading/literacy is highly desirable. Applicant must be able to demonstrate experience in developing economic strategies for implementing partnerships between private and public sectors within the education field. Applicant must be able to articulate orally and in writing, in English and French, the technical issues presented in this Statement of Work.
 
-###### Prior Work Experience:
+###### a. Prior Work Experience:
 At least eight years of progressively identifiable experience researching, developing, and  implementing  public-private education-related partnerships. It is highly desirable that this individual would have experience with partnerships that concentrate on reading/literacy programming. Demonstrated leadership experience, program  management,  and  problem-solving  skills  in  a  complex  and
 
 26
@@ -3827,16 +4176,16 @@ At least eight years of progressively identifiable experience researching, devel
 
 highly  sensitive  environment  are  required.  Proven  ability  to  identify, promote, and apply innovative concepts and strategies to improve education.
 
-###### Teamwork/Interpersonal  Skills:
+###### b. Teamwork/Interpersonal Skills:
 Excellent  leadership,  communications, and interpersonal skills are critical to this position. The incumbent must be  able  to  work  effectively  with  a  broad  range  of  MENFP,  GOH,  and USG  personnel  and  partners,  and  have  demonstrated  skills  in  donor coordination and collaboration. Ability to work both independently and in  a  team  environment  to  achieve  consensus  on  policy,  program,  and administrative matters is a must.
 
-###### Leadership Skills:
+###### c. Leadership Skills:
 The PPP Advisor will report to designated MENFP staff and the Manpower supervisor. S/he will be in ongoing contact with the USAID/Haiti Education Team. Together with the MENFP designate, s/he  will  co-lead  and  coordinate  work  within  the  MENFP  and  the working  group  structures,  focusing  on  public-private  education-related partnerships. Strong leadership and mentoring skills are required.
 
-###### Language  and  Communication  Skills:
+###### d. Language and Communication Skills:
 Must  be  fluent  in  French  and demonstrate English proficiency. A good knowledge of Haitian Creole is a must.  Must  have  proven  ability  to  communicate  quickly,  clearly,  and concisely,  both  orally  and  in  writing.  Demonstrated  ability  to  translate and summarize reports, technical documents, and other forms of communication is preferred. Demonstrated ability to make oral presentations logically and persuasively to senior USG, GOH, implementing partners, and other donors.
 
-###### Computer Skills:
+###### e. Computer Skills:
 Proficiency in the Microsoft Office suite of applications is  required.  Demonstrated  ability  to  conduct  research  using  the  World Wide Web and other resources. A strong interest in applying information and communications technologies to daily work is essential.
 
 ###### V. Deliverables
@@ -3911,7 +4260,7 @@ In order to ensure successful implementation of the OP, a multi-faceted mechanis
 
 In accordance with current President Michel Martelly's priorities, the constitution of these working groups is underway. Each of these groups will develop specific plans for the sub-sector. Particularly important working groups that will concentrate on key structural issues in the Haitian education system-including school licensing and standards-are Governance and Public/Private Partnership, Early Childhood/Universal Primary Education, Curriculum and Program, and Professional Development and Training. These working groups might also explicitly consider reading standards and the roles teachers' reading instruction qualifications and schools' reading programs play in school licensing decisions. The USAID/Haiti mission will play a lead role in providing technical assistance to the MENFP and these working groups as they implement the PO and further the USAID/Haiti mission's strategic goals.
 
-Such collaborative MENFP and USAID education reform efforts have a significant recent history and future in Haiti, particularly ones that relate to reading education and school licensing issues. Led by the USAID/Haiti education staff, in spring 2012 a team representing the MENFP Directorate of Basic Education (Direction de l'Enseignement Fondamental or DEF) and two NGOs participated in the 'All Children Reading' workshop organized by the Global Partnership for Education (GPE) in Rwanda. The team also participated in a study tour of USAID reading programs in Mali. Even more importantly, the USAID education office has contracted for the Tout Timoun Ap Li (TOTAL) two-year applied research project that was signed August 2, 2012. This project will be implemented in hundreds of Haitian schools in the USAID development corridors during the 2012-2013 and 20132014 school years. Because this reading education project will be implemented in both public and private schools, it might also have implications for school licensing issues.
+Such collaborative MENFP and USAID education reform efforts have a significant recent history and future in Haiti, particularly ones that relate to reading education and school licensing issues. Led by the USAID/Haiti education staff, in spring 2012 a team representing the MENFP Directorate of Basic Education (Direction de l'Enseignement Fondamental or DEF) and two NGOs participated in the 'All Children Reading' workshop organized by the Global Partnership for Education (GPE) in Rwanda. The team also participated in a study tour of USAID reading programs in Mali. Even more importantly, the USAID education office has contracted for the Tout Timoun Ap Li (TOTAL) two-year applied research project that was signed August 2, 2012. This project will be implemented in hundreds of Haitian schools in the USAID development corridors during the 2012-2013 and 2013-2014 school years. Because this reading education project will be implemented in both public and private schools, it might also have implications for school licensing issues.
 
 29
 
@@ -3951,7 +4300,7 @@ The activities developed under the Haiti Scholarship Program (HSP) and School Ac
 
  Installation  of  30  energy  efficient  laptop  computers  in  the  DDE  and  nine local offices
 
-This program was very successful and had a noticeable impact in terms of the department's ability to control quality and assess the standards of the large nonpublic school sector. It also enabled the department through its decentralized school districts and zones to speed up the school licensing process. In 2007 alone, 300 applications coming from the Nippes Department were approved and sent to the DAEPP for final evaluation and approval by the Minister of Education.
+This program was very successful and had a noticeable impact in terms of the department's ability to control quality and assess the standards of the large non-public school sector. It also enabled the department through its decentralized school districts and zones to speed up the school licensing process. In 2007 alone, 300 applications coming from the Nippes Department were approved and sent to the DAEPP for final evaluation and approval by the Minister of Education.
 
 It is clear that school licensing activities must be further developed in order for education reform efforts to be successful. With USAID support, the MENFP is articulating a national action plan-aligned with the OP-to promote the improvement of Haitian children's reading competencies. This action plan will begin implementation in schools in the 2012-2013 academic year. In support of the action plan, the MENFP, and the TOTAL project, USAID/Haiti will fund a highly qualified School Licensing Advisor who will be housed in the MENFP and who will partner with the USAID Education Team.
 
@@ -3987,7 +4336,7 @@ The School Licensing Advisor reports to designated MENFP staff and the Manpower 
 
 The School Licensing Advisor will be responsible for the following tasks:
 
-###### Strategic Planning and Advice (35% level of effort)
+###### a. Strategic Planning and Advice (35% level of effort)
 
  Take a leadership role in the operationalization of the USAID/Haiti strategic plan components that concentrate on school licensing activities, through active participation in the MENFP and working groups
 
@@ -3997,7 +4346,7 @@ The School Licensing Advisor will be responsible for the following tasks:
 
  Identify needs and priorities in the education sector, and negotiate and coordinate policy issues for the mission and MENFP, with a focus on school licensing and early grade reading activities
 
- Review comparative and international research and experience on school licensing topics related to the MENFP and USAID/Haiti education strategies and make recommendations on effective state-ofthe-art approaches to achieve results
+ Review comparative and international research and experience on school licensing topics related to the MENFP and USAID/Haiti education strategies and make recommendations on effective state-of-the-art approaches to achieve results
 
  Conduct assessments and research as needed to support the design, implementation, and evaluation of USAID/Haiti and MENFP educational programs, with emphasis on school licensing and early grade reading activities
 
@@ -4007,9 +4356,9 @@ The School Licensing Advisor will be responsible for the following tasks:
 
  In conjunction with MENFP officials, organize seminars, workshops, and meetings and prepare reports on results, observations, and conclusions in relation to school licensing and early grade reading activities
 
- Develop a comprehensive database and a library of school licensingrelated individuals, organizations, events, resources, materials
+ Develop a comprehensive database and a library of school licensing-related individuals, organizations, events, resources, materials
 
-###### Strengthening Capacity of MENFP, the Working Groups, GOH, and Donor Coordination (35% level of effort)
+###### b. Strengthening Capacity of MENFP, the Working Groups, GOH, and Donor Coordination (35% level of effort)
 
  Maintain frequent interaction with MENFP, USAID, working groups, and relevant partners to provide and coordinate appropriate school licensing-related technical assistance
 
@@ -4033,7 +4382,7 @@ The School Licensing Advisor will be responsible for the following tasks:
 
  Via brochures, websites, and other relevant means publicize key information about school licensing efforts to be shared with interested parties and groups inside and outside of MENFP and USAID education office
 
-###### Monitoring and Evaluation (20% level of effort)
+###### c. Monitoring and Evaluation (20% level of effort)
 
  Collaborate with MENFP, USAID, working groups, and relevant partners to develop school licensing performance monitoring systems, measurements of progress, and reports on performance, in accordance with USAID reporting requirements
 
@@ -4045,7 +4394,7 @@ The School Licensing Advisor will be responsible for the following tasks:
 
  Alert USAID staff to issues and constraints affecting the implementation of USAID's education portfolio and school licensing efforts
 
-###### Other (10% level of effort)
+###### d. Other (10% level of effort)
 
  Perform internal technical and administrative tasks as required, particularly those related to school licensing and early grade reading efforts
 
@@ -4062,30 +4411,31 @@ Minimum of a Master's degree in the field of education from a recognized educati
 
 Applicant must be able to articulate orally and in writing, in English and French, the technical issues presented in this Statement of Work.
 
-###### Prior Work Experience:
+###### a. Prior Work Experience:
 At least eight years of progressively responsible experience designing, implementing, and evaluating donor programs in education, with identifiable experience researching, developing, and implementing school governance, licensing standards, and procedures. It is highly desirable that this individual would have experience with licensing issues related to reading standards, pedagogies, curricula, assessments, and teacher training. Demonstrated leadership experience, program management, and problem-solving skills in a complex and highly sensitive environment are required. Proven ability to identify, promote, and apply innovative concepts and strategies to improve education.
 
-###### Teamwork/Interpersonal Skills:
+###### b. Teamwork/Interpersonal Skills:
 Excellent leadership, communication, and interpersonal skills are critical to this position. The incumbent must be able to work effectively with a broad range of MENFP, GOH, and USG personnel and partners, and have demonstrated skills in donor coordination and collaboration. Ability to work both independently and in a team environment to achieve consensus on policy, program, and administrative matters is a must.
 
-###### Leadership Skills:
+###### c. Leadership Skills:
 The School Licensing Advisor will report to designated MENFP staff and the USAID/Haiti-sponsored Manpower supervisor. S/he will be in ongoing contact with the USAID/Haiti Education Team. Together with the MENFP designate, s/he will co-lead and coordinate work within the MENFP and the working group structures, focusing on school licensing issues and activities. Strong leadership and mentoring skills are required.
 
-###### Language and Communication Skills:
+###### d. Language and Communication Skills:
 Must be fluent in French and demonstrate English proficiency. A good knowledge of Haitian Creole is a must. Must have proven ability to communicate quickly, clearly, and concisely, both orally and in writing. Demonstrated ability to translate and summarize reports, technical documents, and other forms of communication is preferred. Demonstrated ability to make oral presentations logically and persuasively to senior USG, GOH, implementing partners, and other donors.
 
-###### Computer Skills:
+###### e. Computer Skills:
 Proficiency in the Microsoft Office suite of applications is required. Demonstrated ability to conduct research using the World Wide Web and other resources. A strong interest in applying information and communications technologies to daily work is essential.
 
 ###### XIII. Deliverables
 
-A report will be provided at the end of each month as precursor to payment. Attached to the report will be any significant terms of reference, studies, reports, and memos produced for or by the MENFP, with a focus on activities of the working group(s) with which the School Licensing Advisor has been involved, with particular attention paid to activities of the Governance and Public/Private Partnership, the Early Childhood/Universal Primary Education, the Curriculum and Program, and the Professional Development and Training groups. Periodic verbal briefings will be provided to USAID as requested. The School Licensing Advisor will be expected to attend at minimum monthly Education Team meetings and maintain close email contact with the Education Section Chief and other team members.
+A report will be provided at the end of each month as precursor to payment. Attached to the report will be any significant terms of reference, studies, reports, and memos produced for or by the MENFP, with a focus on activities of the working group(s) with which the School Licensing Advisor has been involved, with particular
 
 35
 
 [[END OF PAGE 178]]
 
 [[START OF PAGE 179]]
+attention paid to activities of the Governance and Public/Private Partnership, the Early Childhood/Universal Primary Education, the Curriculum and Program, and the Professional Development and Training groups. Periodic verbal briefings will be provided to USAID as requested. The School Licensing Advisor will be expected to attend at minimum monthly Education Team meetings and maintain close email contact with the Education Section Chief and other team members.
 
 Specific deliverables include the following items:
 
@@ -4115,13 +4465,12 @@ Payment shall be made upon the submission of monthly reports to and their accept
 
 Candidates will be evaluated and ranked based on the following selection criteria:
 
-a. | Education Technical Knowledge: | 25 points
---- | --- | ---
-b. | Prior Work Experience: | 20 points
-c. | Teamwork/Interpersonal Skills: | 15 points
-d. | Leadership Skills: | 15 points
-e. | Language and Communication Skills: | 15 points
-f. | Computer Skills: | 10 points
+a. Education Technical Knowledge: 25 points
+b. Prior Work Experience: 20 points
+c. Teamwork/Interpersonal Skills: 15 points
+d. Leadership Skills: 15 points
+e. Language and Communication Skills: 15 points
+f. Computer Skills: 10 points
 
 36
 
@@ -4189,7 +4538,7 @@ En d'autres termes, il faudra (i)penser à la manière d'amener la DRH à rempli
 
 [[START OF PAGE 182]]
 
-###### 2Mandat  du  groupe  dans  le  processus  de  la  formation  et  du  développement professionnel
+###### 2- Mandat du groupe dans le processus de la formation et du développement professionnel
 
 Quatre  temps  majeurs-tels  que  déclinés  ci-dessous-sont  essentiels  et  marqueront l'appui à fournir : (i) le diagnostic ; (ii) la stratégie de renforcement ; (iii) la mise en œuvre de la stratégie adoptée ; et (iv) l'évaluation sommative de la mise en œuvre de la stratégie. Le mandat du groupe se situe au niveau du troisième temps, c'est-à-dire, l'appui  à  la  mise  en  œuvre  de  la  stratégie  retenue  en  vue  de  renforcer  les    DT concernées sur la base du diagnostic qui aura été établi.
 
@@ -4210,11 +4559,11 @@ Sur la base du diagnostic et de la stratégie établie, il s'agira de proposer u
 
 -sur le plan managérial , c'est-a-dire en proposant un programme de développement personnel aux cadres et autres personnels, en travaillant sur leur  leadership, leur capacité a gérer les conflits internes sans perturber la qualité du travail.
 
-###### Évaluation sommative de la mise en œuvre de la stratégie.
+###### iv. Évaluation sommative de la mise en œuvre de la stratégie.
 
 La dernière étape de ce processus s'attèlera à une évaluation sommative de la mise  en  œuvre  des  recommandations.  En  d'autres  termes,  il  s'agira  de d'apprécier  en  quoi  l'assistance  fournie  à  ces  directions  techniques  aura atteint  ou  non  ses  objectifs.  A  ce  titre,  des  professionnels  familiers  avec  les stratégies de formation à grande échelle,  la gestion des  ressources humaines et le changement institutionnel procéderont à cet exercice qui doit permettre de  voir  les  points  faibles  sur  lesquels  les  directions  concernées    doivraient encore travailler pour arriver à une opérationnalisation effective de qualité.
 
-###### 3Lignes directrices pour le déploiement du mandat GT
+###### 3- Lignes directrices pour le déploiement du mandat GT
 
 39
 
@@ -4224,21 +4573,21 @@ La dernière étape de ce processus s'attèlera à une évaluation sommative de 
 
 Le coordonnateur technique du Groupe de Travail élaborera et de discutera des TDR avec  les  autres  membres  de  son  groupe.  Une  telle  démarche  est  à  finaliser  dès  la première  semaine  du  mandat.  Les  activités  suivantes  constituent  les  balises  en  vue d'apprécier les livrables attendus des GT :
 
-- Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
+a. Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
 
-- Élaborer une feuille de route assortie de méthodologies spécifiques en vue de permettre l'exécution optimale du mandat;
+b. Élaborer une feuille de route assortie de méthodologies spécifiques en vue de permettre l'exécution optimale du mandat;
 
-- Identifier les ressources nécessaires en vue de réaliser le mandat ;
+c. Identifier les ressources nécessaires en vue de réaliser le mandat ;
 
-- Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
+d. Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
 
-- Faire le bilan des diverses programmes de formation concernant les agents et cadres du MENFP ainsi que les financements y afférents ;
+e. Faire le bilan des diverses programmes de formation concernant les agents et cadres du MENFP ainsi que les financements y afférents ;
 
-- Proposer  un plan d'action pour les mesures de réaménagement  et  de réorientation ;
+f. Proposer un plan d'action pour les mesures de réaménagement et de réorientation ;
 
-- Définir le schéma opérationnel de mise en œuvre des mesures de réaménagement et de réorientation.
+g. Définir le schéma opérationnel de mise en œuvre des mesures de réaménagement et de réorientation.
 
-###### 4Qualifications et expérience des membres du groupe de travail
+###### 4- Qualifications et expérience des membres du groupe de travail
 
 Il faut souligner que les membres des DT possédant l'expertise ciblée pourront faire partie  des  groupes  de  travail.  En  outre,  le  groupe  de  travail  fera  appel  à  d'autres compétences ponctuelles pour traiter des différentes problématiques connexes. Pour répondre  aux  responsabilités  qui  lui  sont  assignées,  le  GT  sera  une  équipe  de  4 consultants de haut niveau qui présentent les profils suivants :
 
@@ -4254,11 +4603,11 @@ Il faut souligner que les membres des DT possédant l'expertise ciblée pourront
 
 [[START OF PAGE 184]]
 
-- réorienter les pratiques de travail, modifier les comportements ou cultures de communications sur le plan professionnel.
+réorienter les pratiques de travail, modifier les comportements ou cultures de communications sur le plan professionnel.
 
 -L'expert en inspection générale de l'administration des systèmes éducatifs : possède une expertise de plus de dix années  dans le domaine de l'évaluation,  de  la  gouvernance  et  de  la  performance  des  systèmes  et instances de formation étatiques. Sa tâche principale consistera à étudier l'applicabilité  des  mesures  ministérielles  au  sein  du  système,  à  effectuer un  audit  des  DT  techniques  concernées  au  moment  du  diagnostic  et    à participer l'évaluation des opérations lors de l'évaluation sommative.
 
-###### 5Les indicateurs dans le cadre de la formation et du développement professionnel
+###### 5- Les indicateurs dans le cadre de la formation et du développement professionnel
 
 ###### Indicateur d'efficacité interne et de qualité :
 
@@ -4302,7 +4651,7 @@ Il faut souligner que les membres des DT possédant l'expertise ciblée pourront
 
 -Indicateurs financiers (tous)
 
-###### 6Mise en œuvre :  Lignes directrices pour le processus    du développement professionnel et de la formation
+###### 6- Mise en œuvre : Lignes directrices pour le processus du développement professionnel et de la formation
 
 41
 
@@ -4320,13 +4669,13 @@ La  première  phase  de  la  consultation  devra  permettre  d'établir  un dia
 
 Le diagnostic s'articulera autour des axes suivants :
 
--Planification  des  programmes  de  formation :  l'expert  en  planification  des programmes  de  formation    établira  un  diagnostic  du  système  de  formation initiale et continue,  de l'offre disciplinaire, de la  cohérence et pertinence des dispositifs  de  formations,  de  la  cohérence  des  différents  programmes  soutenus par les PTF en référence au PO,   de la cohérence des  orientations didacticopédagogiques sur le plan disciplinaire dans le secteur pré-universitaire.
+-Planification des programmes de formation : l'expert en planification des programmes de formation établira un diagnostic du système de formation initiale et continue, de l'offre disciplinaire, de la cohérence et pertinence des dispositifs de formations, de la cohérence des différents programmes soutenus par les PTF en référence au PO, de la cohérence des orientations didactico-pédagogiques sur le plan disciplinaire dans le secteur pré-universitaire.
 
 -Aspect managérial du MENFP : l'expert en management institutionnel  établira un  diagnostic  portant  sur  la  capacité  des  Directeurs  des  DT  à  mobiliser  les compétences  placées  sous  leur  responsabilités  afin  d'atteindre  l'objectif  de  la qualité.    Il  étudiera  le  mode  de  fonctionnement  existant  au  sein  du  bureau central,  des  DDE.  Il  étudiera  également   les  pratiques  de  travail,  le  mode relation  existant  entre  les  différentes  entités  de  l'administration,  le  mode  de recrutements des personnels techniques et administratifs ainsi que la mobilité de ces personnels et leur évolution au sein du système.
 
 -Inspection ou audit général du système : Il s'agira de dégager les grands traits de l'administration  actuelle  en  termes  d'appropriation  des  mesures  ministérielles, de gouvernance, d'efficacité, et  de dégager le profil institutionnel des instances de formation.
 
-###### Phase 3 :  conception de la stratégie à court et moyen terme
+###### Phase 3 : conception de la stratégie à court et moyen terme
 
 Au  cours  de  la  deuxième  phase,    on  établira  une  stratégie  articulée autour des points suivants :
 
@@ -4336,23 +4685,23 @@ Au  cours  de  la  deuxième  phase,    on  établira  une  stratégie  articul�
 
 [[START OF PAGE 186]]
 
-- aMettre en place un plan de communication interne sur mesure adapté au contexte spécifique du MENFP  afin d'impliquer tous les personnels du système au processus du changement proposé.
+a- Mettre en place un plan de communication interne sur mesure adapté au contexte spécifique du MENFP afin d'impliquer tous les personnels du système au processus du changement proposé.
 
-- bPenser  une  planification  de  la  formation  qui  inclurait  le  temps  de travail  ainsi  que  le  temps  et  les  modalités  du  travail  pour  les fonctionnaires et contractuels de tous les niveaux.
+b- Penser une planification de la formation qui inclurait le temps de travail ainsi que le temps et les modalités du travail pour les fonctionnaires et contractuels de tous les niveaux.
 
-- cl'introduction  de  nouvelles  compétences  et  de  nouvelles  pratiques  de travail  par  le  biais  de  la  formation  continue  et  d'une  assistance continue (méthode de  coaching).
+c- l'introduction de nouvelles compétences et de nouvelles pratiques de travail par le biais de la formation continue et d'une assistance continue (méthode de coaching).
 
-- dla  réorientation  et  la  mise  en  cohérence    des  services  rattachées  aux DT concernées.
+d- la réorientation et la mise en cohérence des services rattachées aux DT concernées.
 
-- ela  description/structuration    des  plans  de  carrières  en  fonction  des compétences.
+e- la description/structuration des plans de carrières en fonction des compétences.
 
-- fLa  mise  en  cohérence  de  la  formation  initiale,  de  la  formation continue et de la validation des acquis.  On inclura dans ce  volet, la mise  en  cohérence  des  programmes  et  projets    travaillant  sur  la formation   dans le  secteur éducatif.
+f- La mise en cohérence de la formation initiale, de la formation continue et de la validation des acquis. On inclura dans ce volet, la mise en cohérence des programmes et projets travaillant sur la formation dans le secteur éducatif.
 
-- gune planification sur l'évolution  du  secteur  professionnel  haïtien  en fonction des besoins et du développement économique
+g- une planification sur l'évolution du secteur professionnel haïtien en fonction des besoins et du développement économique
 
-- hélaboration  d'un  cadre  de  référence  pour  les  différents  types  de formation
+h- élaboration d'un cadre de référence pour les différents types de formation
 
-- ila structuration d'un mécanisme d'audit interne et une redynamisation de l'inspection en fonction des caractéristiques révélées par le diagnostic.
+i- la structuration d'un mécanisme d'audit interne et une redynamisation de l'inspection en fonction des caractéristiques révélées par le diagnostic.
 
 Un rapport préliminaire sera soumis à la fin des deux premières phases. On y  présentera d'une part,  le diagnostic : traits caractéristiques,  forces et    faiblesses  du  système,    le  schéma  organisationnel  et  managérial    des DT,  la culture institutionnelle, le  besoins  en termes  de  compétences,  le mode de relation/communication entre les différentes entités intervenant dans le secteur,  l'opérationnalité  des DT en l'état actuel.
 
@@ -4360,7 +4709,7 @@ D'autre part, on y présentera la démarche stratégique :  la description d'un 
 
 Ce  document  fera  également  l'évaluation  des  coûts  nécessaires  et proposera un calendrier prévisionnel.
 
-###### Phase 4 : mise en œuvre de la stratégie établie à court  et à moyen termes
+###### Phase 4 : mise en œuvre de la stratégie établie à court et à moyen termes
 
 -Application de la  structure de Communication adoptée.
 
@@ -4424,20 +4773,22 @@ n'aidera pas non plus au renforcement du secteur. Au contraire, elle pourrait su
 
 Vu les problèmes diagnostiqués en matière de gouvernance, le PO prévoit de mettre 'un fort accent sur le management et le pilotage du système tant au niveau central que déconcentré'.  L'objectif 1  de  l'Axe  I  (Gouvernance)  vise  à  'Renforcer  les  structures centrales  et  déconcentrées  du  MENFP'  (p.45).  Trois  actions  majeures  sont  prévues pour la période allant de 2011 à 2013, telles qu'illustrées dans le Tableau 1, doivent aider à corriger la situation.
 
-Activités | Période d'exécution
---- | --- | --- | --- | ---
-2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15
-Procéder à la réorganisation de la Direction des Affaires Administratives et de la DRH. | X | X
-Doter la DAA d'outils et d'instruments nécessaires à la gestion des fonds fiduciaires | X | X
-Former des cadres de la DAA en passations des marchés et en gestion des ressources humaines | X | X
+Tableau 1
+Activités programmées en matière de gouvernance dans le
+très court terme
 
-Tableau 1 Activités programmées en matière de gouvernance dans le très court terme
+Activités | Période d'exécution |  |  |  | 
+--- | --- | --- | --- | --- | ---
+ | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15
+Procéder à la réorganisation de la Direction des Affaires Administratives et de la DRH. | X | X |  |  | 
+Doter la DAA d'outils et d'instruments nécessaires à la gestion des fonds fiduciaires |  | X | X |  | 
+Former des cadres de la DAA en passations des marchés et en gestion des ressources humaines | X | X |  |  | 
 
 Source : Plan Opérationnel 2010-15, Tableau 2.1, p. 45.
 
 Aussi, la mise en place du Groupe de Travail Gestion Administrative et Financière doit  non  seulement  aider  au  développement  de  ces  activités  mais  aussi  et  surtout appuyer  la  Direction  des  Affaires  Administratives  (DAA)  dans  le  but  de  lui permettre  de  développer  de  nouvelles  capacités  internationalement  éprouvées  en matière de gestion administrative et  financière  et  ainsi  faciliter  la  certification  de cette direction. Il s'agit pour la DAA de faire la preuve de sa capacité à gérer en toute transparence autant les fonds du trésor public que ceux des partenaires techniques et financiers  (PTF)  destinés  au  secteur  de  l'éducation.  Tel  est  le  principal  enjeu stratégique de la mise en place de ce groupe de travail.
 
-##### 1.2 La DAA-Mise en perspective rapide et questionnements fondamentaux
+##### 1.2 La DAA—Mise en perspective rapide et questionnements fondamentaux
 
 La  DAA,  par  sa  transversalité,  est  l'une  des  directions  les  plus  importantes  du Ministère.  Elle  comprend  les  huit  services  que  dessous  dans  lesquels  quelque  300 personnes  (dont  13  cadres  ou  assimilés,  des  fonctionnaires  et  d'autres  contractuels) sont mobilisées.
 
@@ -4463,7 +4814,7 @@ La  DAA,  par  sa  transversalité,  est  l'une  des  directions  les  plus  imp
 
  Transport.
 
-Il est difficile à ce jour d'assumer que ces services fonctionnent avec efficacité. Il y a lieu également de se questionner aussi sur le meilleur schéma organisationnel de cette direction. Quoi qu'il en soit, une question centrale demeure : Pourquoi la DAA n'a-telle pas le niveau d'efficacité attendue? S'agit de difficultés qui tiennent à l'environnement;  au  style  ou  au  manque  de  leadership;  à  l'absence  d'outils  de management ou à la non maitrise de ces outils; à l'absence de sentiment d'appartenance, etc. ? Comment permettre à la DAA de satisfaire les attentes à son égard?  Comment  l'aider  à  rencontrer  les  normes  et  procédures  standard  de  gestion fiduciaire et de gestion des contrats?
+Il est difficile à ce jour d'assumer que ces services fonctionnent avec efficacité. Il y a lieu également de se questionner aussi sur le meilleur schéma organisationnel de cette direction. Quoi qu'il en soit, une question centrale demeure : Pourquoi la DAA n'a-t-elle pas le niveau d'efficacité attendue? S'agit de difficultés qui tiennent à l'environnement; au style ou au manque de leadership; à l'absence d'outils de management ou à la non maitrise de ces outils; à l'absence de sentiment d'appartenance, etc. ? Comment permettre à la DAA de satisfaire les attentes à son égard? Comment l'aider à rencontrer les normes et procédures standard de gestion fiduciaire et de gestion des contrats?
 
 Tels sont les enjeux majeurs de la refondation en matière de gouvernance administrative et financière.
 
@@ -4474,10 +4825,10 @@ Quatre  temps  majeurs-tels  que  déclinés  ci-dessous-sont  essentiels  et  m
 ###### i. Etablir un diagnostic de la DAA :
 Il s'agit d'évaluer les capacités institutionnelles des structures existantes. Cette évaluation  portera  sur  trois  aspects  principaux  à  savoir :  (a)  la  gestion financière (gestion financière, comptable et administrative) ; (b) les procédures de passation de marchés ; et (c) les capacités institutionnelles des différents services de la direction.
 
-###### Élaborer une stratégie de renforcement de capacités à court et moyen terme :
+###### ii. Élaborer une stratégie de renforcement de capacités à court et moyen terme :
 Sur la base du diagnostic, il s'agit d'organiser la réponse sur les trois aspects (a), (b), et (c) ci-dessus mentionnés. Ces propositions prendront la forme d'un plan d'action intégrant les trois volets et couvriront les mesures immédiates et à  moyen  terme  ainsi  que  les  conditions  nécessaires  au  sein  des  différentes entités de la DAA.
 
-###### Mise en œuvre de la stratégie visant à améliorer les structures existantes : 5
+###### iii. Mise en œuvre de la stratégie visant à améliorer les structures existantes : 5
 Sur  la  base  du  diagnostic  et  de  la  stratégie  établie,  il  s'agit  de  proposer  un dispositif organisationnel et managérial de mise en œuvre des recommandations  afin  que  les  différents  services  puissent  fonctionner  de manière transparente et efficace. C'est à ce niveau que se mettra en place le groupe de travail en vue d'un accompagnement au quotidien à la DAA ;
 
 > 5 Un  début  de  négociation  est  déjà  entamé  à  ce  sujet  avec  le Ministère français  de l'Économie. Il  faut  aussi  noter  l'absence  de  formation  ciblée  dédiée  à  cette  catégorie  de personnel. Il est envisagé dans la cadre de la coopération avec la Wharton School of Business une formation sur mesure qui privilégierait deux axes majeurs à très court terme : Leadership et Management; et Gestion Financière.
@@ -4488,7 +4839,7 @@ Sur  la  base  du  diagnostic  et  de  la  stratégie  établie,  il  s'agit  de
 
 [[START OF PAGE 191]]
 
-###### Evaluation sommative de la mise en œuvre de la stratégie.
+###### iv. Evaluation sommative de la mise en œuvre de la stratégie.
 
 La dernière étape de ce processus s'attèlera à une évaluation sommative de la mise  en  œuvre  des  recommandations.  En  d'autres  termes,  il  s'agira  de d'apprécier  en  quoi  l'assistance  fournie  à  la  DAA  aura  atteint  ou  non  ses objectifs.  A  ce  titre,  des  professionnels  familiers  avec  les  procédures  des finances publiques haïtiennes procéderont à cet exercice qui doit permettre de tirer  les  leçons  devant  être  intériorisées  par  la  DAA  en  vue  d'infléchir    sa crédibilité auprès des différents nationaux et de la coopération.
 
@@ -4496,19 +4847,19 @@ La dernière étape de ce processus s'attèlera à une évaluation sommative de 
 
 Il  appartient  au  coordonnateur  technique  du  Groupe  de  Travail  d'élaborer  et  de discuter  les  TDR  des  autres  membres  de  son  groupe.  Une  telle  démarche  est  à finaliser  la  première  semaine  du  mandat.  Les  activités  suivantes  constituent  les balises en vue d'apprécier les livrables attendus des GT :
 
-- Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
+h. Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
 
-- Élaborer une feuille de route assortie de méthodologies spécifiques en vue de permettre l'exécution optimale du mandat;
+i. Élaborer une feuille de route assortie de méthodologies spécifiques en vue de permettre l'exécution optimale du mandat;
 
-- Identifier les ressources nécessaires en vue de réaliser le mandat ;
+j. Identifier les ressources nécessaires en vue de réaliser le mandat ;
 
-- Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
+k. Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
 
-- Faire le bilan des diverses initiatives de financement et de subventions gérées par la DAA ;
+l. Faire le bilan des diverses initiatives de financement et de subventions gérées par la DAA ;
 
-- Proposer un plan d'action pour les mesures de redressement ;
+m. Proposer un plan d'action pour les mesures de redressement ;
 
-- Définir le schéma opérationnel de mise en œuvre des mesures de redressement.
+n. Définir le schéma opérationnel de mise en œuvre des mesures de redressement.
 
 ###### 4 Qualifications et expérience des membres du groupe de travail
 
@@ -4552,11 +4903,11 @@ La première phase de la consultation devra permettre d'établir un diagnostic s
 
 Le diagnostic s'effectuera au niveau des trois volets suivants :
 
-- Gestion  financière :  le  consultant  établira  un  diagnostic  du  système  de gestion  financière  existant  au  sein  de  la  DAA.  Ce  diagnostic  tiendra également compte du système informatisé de gestion financière et comptable existant notamment le SYSDEP 7 en liaison avec la Direction du Trésor en charge de la mise en œuvre du logiciel.
+1. Gestion financière : le consultant établira un diagnostic du système de gestion financière existant au sein de la DAA. Ce diagnostic tiendra également compte du système informatisé de gestion financière et comptable existant notamment le SYSDEP 7 en liaison avec la Direction du Trésor en charge de la mise en œuvre du logiciel.
 
-- Passation des marchés : le consultant établira un  diagnostic sur les procédures en vigueur dans le domaine de la passation des marchés publics. Ceci inclut les procédures, l'application des procédures et aussi la capacité des  agents  à  effectuer  des  passations  de  marchés  de  manière  transparente, coût-efficace et  dans  les  délais  impartis.  L'analyse  devra  également  porter sur la capacité de ces entités à utiliser les procédures et documents existants ou à développer.
+2. Passation des marchés : le consultant établira un diagnostic sur les procédures en vigueur dans le domaine de la passation des marchés publics. Ceci inclut les procédures, l'application des procédures et aussi la capacité des agents à effectuer des passations de marchés de manière transparente, coût-efficace et dans les délais impartis. L'analyse devra également porter sur la capacité de ces entités à utiliser les procédures et documents existants ou à développer.
 
-- Capacités  institutionnelles :  au-delà  des  mécanismes  et  procédures  relatifs aux  aspects  fiduciaires  (gestion  financière  et  marché  publics),  il  s'agira
+3. Capacités institutionnelles : au-delà des mécanismes et procédures relatifs aux aspects fiduciaires (gestion financière et marché publics), il s'agira
 
 > 7 Le  MENFP  dispose  de  deux  systèmes  comptables  informatisés :  (i)  le  SYSDEP  installé  récemment  par  le Ministères des Finances et utilisé par le service du budget de la DAA ; (ii) le GESCOMPTE utilisé par le chef comptable pour le suivi des autres ressources du MENFP. Le consultant devra définir les modalités d'utilisation du SYSDEP comme seul système comptable et budgétaire informatisé du MENFP.
 
@@ -4568,11 +4919,11 @@ Le diagnostic s'effectuera au niveau des trois volets suivants :
 
 d'analyser  le  fonctionnement  des  différents  services  et  leurs  capacités  à suivre  et  contrôler  la  gestion  de  leurs  ressources  matérielles  et  humaines. Cette analyse portera en outre sur :
 
-- les  liens  institutionnels  qui  existent  entre  les  différentes  entités chargées  de  la  gestion  des  moyens  mis  à  leur  disposition  pour remplir leurs fonctions, en analysant les forces et les faiblesses (le GT procédera à un diagnostic organisationnel et fonctionnel de la DAA, des DDE et des DT);
+a. les liens institutionnels qui existent entre les différentes entités chargées de la gestion des moyens mis à leur disposition pour remplir leurs fonctions, en analysant les forces et les faiblesses (le GT procédera à un diagnostic organisationnel et fonctionnel de la DAA, des DDE et des DT);
 
-- le système interne (base de  données)  des  ressources  humaines (incluant  les  fonctionnaires  et  les  contractuels)  existantes  de  la DAA ;
+b. le système interne (base de données) des ressources humaines (incluant les fonctionnaires et les contractuels) existantes de la DAA ;
 
-- les forces et faiblesses du système interne permettant de comptabiliser  ces  ressources  humaines  et  les  outils  existants  pour suivre leurs performances au MENFP.
+c. les forces et faiblesses du système interne permettant de comptabiliser ces ressources humaines et les outils existants pour suivre leurs performances au MENFP.
 
 ###### B Phase 2 : Stratégie à court et moyen terme
 
@@ -4669,211 +5020,80 @@ Les consultants seront chargés au cours de cette phase de dispenser des formati
 ###### Appendice III
 ###### Dispositif institutionnel de mise en œuvre du PO
 
-Niveau
-
-Stratégique
-
-Niveau
-
-Tactique
-
-(Planification
-
-&
-
-Suivi)
+Niveau Stratégique
 
 Comité Stratégique National (CSN):
-
 Composition :
-
 Ministre de l'Education
-
 Directeur Général MENFP
-
 Secrétaire d'Etat à l'alphabétisation
-
 Secrétaire d'Etat à l'Enseignement Supérieur
-
 Secrétaire d'Etat à la Formation Professionnelle
-
 Directeur de l'ONAPE
-
 Coordonnateur du GSE.
-
 Représentant du Ministère de l'Économie et des Finances
-
 Représentant du Ministère de la Planification et de la Coopération Ext.
 
-
+ Principales missions :
+o Redéfinition des orientations stratégiques de la mise en œuvre du PO ;
+o Validation des PAA soumis par le CTN ;
+o Concertation avec les partenaires nationaux et internationaux
 
-Principales missions :
-
-o
-
-Redéfinition des orientations stratégiques de la mise
-
-en œuvre du PO ;
-
-o
-
-Validation des PAA soumis par le CTN ;
-
-o
-
-Concertation avec les partenaires nationaux et
-
-internationaux
-
-
-
-Mécanismes  de concertation avec les partenaires :
-
-o
-
-Table sectorielle ;
-
-o
-
-Revues conjointes.
-
-Fonds fiduciaire :
-
-Gestion des ressources
-
-financières externes
-
-dédiées à la mise en
-
-œuvre du PO.
-
-Comité Technique National (CTN) :
-
-Composition :
-
-Directeur Général du MENFP ;
-
-Directeurs Généraux Adjoints ;
-
-Directeurs Techniques du MENFP ;
-
-Directeur de la planification de l'INFP ;
-
-Directeur exécutif de la SEA ;
-
-Représentants de réseaux d'écoles non publiques,
-
-Principales missions :
-
-
-
-Préparation des PAA et Coordination technique
-
-
-
-Suivi technique et financier de la mise en œuvre du
-
-PO
-
-Niveau
-
-Opérationnel
-
-(Mise en
-
-œuvre)
-
-Groupe suivi :
-
-Suivi stratégique et
-
-opérationnel du PO
-
-au niveau national.
-
-DDE, BDS, BIZ et CME :
-
-Mise
-
-en
-
-œuvre
-
-du
-
-PO
-
-au
-
-niveau
-
-départemental et local, sous la supervision et
-
-la coordination de la DGA/DDE et du CTN.
-
-Table de concertation départementale
+ Mécanismes de concertation avec les partenaires :
+o Table sectorielle ;
+o Revues conjointes.
 
 Cellule de Pilotage
+Coordination des appuis des partenaires
 
-Coordination des appuis
+Conseil tri-partite de la formation professionnelle
 
-des partenaires
+Commission Infrastructure Scolaire :
+Gestion du programme d'infrastructures éducatives
 
-Commission
+Fonds fiduciaire :
+Gestion des ressources financières externes dédiées à la mise en œuvre du PO.
 
-Infrastructure Scolaire :
-
-Gestion du programme
-
-d'infrastructures éducatives
-
-DGA/DDE :
-
-Supervision et
-
-coordination de la
-
-MO dans  les DDE.
-
-: Relations non hiérarchiques
-
-: Relations hiérarchiques
-
-Directions
-
-Techniques :
-
-Mise en œuvre du PO
-
-UEP : Appui à la
-
-programmation et
-
-la coordination.
+Niveau Tactique (Planification & Suivi)
 
 Comité Directeur
 
+Comité Technique National (CTN) :
+Composition :
+Directeur Général du MENFP ;
+Directeurs Généraux Adjoints ;
+Directeurs Techniques du MENFP ;
+Directeur de la planification de l'INFP ;
+Directeur exécutif de la SEA ;
+Représentants de réseaux d'écoles non publiques,
+
+Principales missions :
+ Préparation des PAA et Coordination technique
+ Suivi technique et financier de la mise en œuvre du PO
+
+UEP : Appui à la programmation et la coordination.
+
+Groupe suivi :
+Suivi stratégique et opérationnel du PO au niveau national.
+
+DGA/DDE :
+Supervision et coordination de la MO dans les DDE.
+
+Niveau Opérationnel (Mise en œuvre)
+
+DDE, BDS, BIZ et CME :
+Mise en œuvre du PO au niveau départemental et local, sous la supervision et la coordination de la DGA/DDE et du CTN.
+Table de concertation départementale
+
+Directions Techniques :
+Mise en œuvre du PO
+
 Groupes de travail :
+ Appui technique aux DT et aux DDE ;
+ Relai de la concertation au niveau de la société civile.
 
-
-
-Appui technique aux
-
-DT et aux DDE ;
-
-
-
-Relai de la
-
-concertation au
-
-niveau de la société
-
-civile.
-
-Conseil tri-partite de la
-
-formation professionnelle
+: Relations non hiérarchiques
+: Relations hiérarchiques
 
 53
 
@@ -4881,41 +5101,41 @@ formation professionnelle
 
 [[START OF PAGE 197]]
 
+###### Annexe E-1
+
+###### TERMES DE REFERENCE GROUPE DE TRAVAIL GOUVERNANCE ADMINISTRATIVE ET FINANCIERE (GT-GAF)
+
+###### EXPERT DE TERRAIN
+
 ###### Contexte
 
-Le  Ministère  de  L'Education  Nationale  et  de  la  Formation  Professionnelle  (MENFP)  a élaboré un Plan Opérationnel (PO) prenant pour cible la refondation du secteur éducatif et l'amélioration sensible de la performance du secteur dans plusieurs domaines, dont celui de la  Gouvernance.  Un  diagnostic  préliminaire  a  permis  de  constater  que  les    défaillances importantes  qui  affectent  la  gestion  financière  et  administrative  sont  de  nature  à  ralentir sinon  à  infirmer    les  progrès  envisagés  sur  plusieurs  autres  axes :  i)  Partenariat  Public Privé ; ii) Développement Professionnel et formation ; iii) Innovation en Education, pour ne citer que ceux-là.  La raison en est simple. Ce champ est transversal, et  la problématique de la gouvernance balaie trois champs d'une importance primordiale pour la disponibilité des ressources  tant  humaines  que  financières :  a)  la  gestion  financière ;  b)  les  procédures  de passation de marchés ; c) la gestion des ressources humaines.
+Le Ministère de L'Education Nationale et de la Formation Professionnelle (MENFP) a élaboré un Plan Opérationnel (PO) prenant pour cible la refondation du secteur éducatif et l'amélioration sensible de la performance du secteur dans plusieurs domaines, dont celui de la Gouvernance. Un diagnostic préliminaire a permis de constater que les défaillances importantes qui affectent la gestion financière et administrative sont de nature à ralentir sinon à infirmer les progrès envisagés sur plusieurs autres axes : i) Partenariat Public Privé ; ii) Développement Professionnel et formation ; iii) Innovation en Education, pour ne citer que ceux-là. La raison en est simple. Ce champ est transversal, et la problématique de la gouvernance balaie trois champs d'une importance primordiale pour la disponibilité des ressources tant humaines que financières : a) la gestion financière ; b) les procédures de passation de marchés ; c) la gestion des ressources humaines.
 
-La Direction  des  Affaires  Administratives  (DAA)  du  MENFP  se  trouve  au  cœur  de  cette problématique. Un diagnostic des capacités de celle-ci est prévu, et celui-ci débouchera sur un ensemble de recommandations structurées à l'intérieur d'un plan d'actions intégrant les trois thèmes identifiés.   Un Groupe de Travail sur la Gestion Administrative et financière (GTGAF) a été mis en place pour accompagner le Ministère et la DAA dans la mise en œuvre du plan d'actions à venir.  Dans ce contexte, il est appelé à établir une méthodologie de suivi périodique sur la base des indicateurs de performance identifiés dans le plan d'action.
+La Direction des Affaires Administratives (DAA) du MENFP se trouve au cœur de cette problématique. Un diagnostic des capacités de celle-ci est prévu, et celui-ci débouchera sur un ensemble de recommandations structurées à l'intérieur d'un plan d'actions intégrant les trois thèmes identifiés. Un Groupe de Travail sur la Gestion Administrative et financière (GT-GAF) a été mis en place pour accompagner le Ministère et la DAA dans la mise en œuvre du plan d'actions à venir. Dans ce contexte, il est appelé à établir une méthodologie de suivi périodique sur la base des indicateurs de performance identifiés dans le plan d'action.
 
-A  priori,  le  renforcement  de  la  DAA  implique  tant  des  efforts  de  recrutement  qu'un programme    de  formation  additionnel  pour  le  personnel,  et  des  recommandations  de réorganisation ne sont pas à exclure. Par ailleurs, de nouveaux outils de gestion financière et administratives peuvent être introduites, et le tout doit d'une part desservir le grand objectif de renforcer la gestion financière et administrative de la DAA, et rester en cohérence avec les initiatives en cours ou envisagées par d'autres instances de l'Etat.  Il s'agit notamment de la Commission Nationale des Marchés Publics (CNMP)  en ce qui a trait à la passation  des marché,  au  Ministère  de  l'Economie  et  des  Finances    (MEF)  et  au  Ministère  de  la Panification et de la Coopération Externe (MPCE) pour les réformes touchant la préparation et  l'exécution budgétaire, et de l'Office du Management des Ressources Humaines (OMRH) sur le thème de la gestion des ressources humaines.
+A priori, le renforcement de la DAA implique tant des efforts de recrutement qu'un programme de formation additionnel pour le personnel, et des recommandations de réorganisation ne sont pas à exclure. Par ailleurs, de nouveaux outils de gestion financière et administratives peuvent être introduites, et le tout doit d'une part desservir le grand objectif de renforcer la gestion financière et administrative de la DAA, et rester en cohérence avec les initiatives en cours ou envisagées par d'autres instances de l'Etat. Il s'agit notamment de la Commission Nationale des Marchés Publics (CNMP) en ce qui a trait à la passation des marché, au Ministère de l'Economie et des Finances (MEF) et au Ministère de la Panification et de la Coopération Externe (MPCE) pour les réformes touchant la préparation et l'exécution budgétaire, et de l'Office du Management des Ressources Humaines (OMRH) sur le thème de la gestion des ressources humaines.
 
 ###### Objectifs de la Consultation
 
-Dans l'accomplissement de son mandat, le GT-GAF devra s'adjoindre un consultant  de haut niveau apte à l'aider à :
+Dans l'accomplissement de son mandat, le GT-GAF devra s'adjoindre un consultant de haut niveau apte à l'aider à :
 
  assurer le suivi de la mise en œuvre du plan d'actions ;
 
- lui suggérer des correctifs ou ajustements éventuels  à apporter pendant l'exécution du plan d'actions;
+ lui suggérer des correctifs ou ajustements éventuels à apporter pendant l'exécution du plan d'actions;
 
  réaliser la coordination avec les autres groupes de travail ;
 
- faciliter  la  liaison  tant  avec  les  instances  de  l'Etat  qu'avec  la  communauté  des bailleurs.
+ faciliter la liaison tant avec les instances de l'Etat qu'avec la communauté des bailleurs.
 
 ###### Tâches
 
-Le consultant  sera chargé de la réalisation des principales activités ci-dessous :
+Le consultant sera chargé de la réalisation des principales activités ci-dessous :
 
-- Analyse du plan d'action pour le renforcement de la DAA ;
+1. Analyse du plan d'action pour le renforcement de la DAA ;
 
-- Préparation d'un calendrier de travail conjointement avec la DAA ;
+2. Préparation d'un calendrier de travail conjointement avec la DAA ;
 
-- Préparation d'un tableau de bord  pour la mise en œuvre  du  plan d'action conjointement avec la DAA;
-
-###### Annexe E-1
-
-###### TERMES DE REFERENCE GROUPE DE TRAVAIL GOUVERNANCE ADMINISTRATIVE ET FINANCIERE (GTGAF)
-
-###### EXPERT DE TERRAIN
+3. Préparation d'un tableau de bord pour la mise en œuvre du plan d'action conjointement avec la DAA;
 
 54
 
@@ -4923,23 +5143,23 @@ Le consultant  sera chargé de la réalisation des principales activités ci-des
 
 [[START OF PAGE 198]]
 
-- Appui opérationnel à la DAA pour la mise en œuvre des réformes en matière de :
+4. Appui opérationnel à la DAA pour la mise en œuvre des réformes en matière de :
 
-- Gestion financière ; b) passation des marchés ; c) gestion des ressources humaines ;
+a) Gestion financière ; b) passation des marchés ; c) gestion des ressources humaines ;
 
-- Supervision/suivi des progrès dans la mise en œuvre des trois volets du plan d'action :
+5. Supervision/suivi des progrès dans la mise en œuvre des trois volets du plan d'action :
 
-- Gestion financière ; b) passation des marchés ; c) gestion des ressources humaines ;
+a) Gestion financière ; b) passation des marchés ; c) gestion des ressources humaines ;
 
-- Planification/Participation aux diverses rencontres du GT-GAF ;
+6. Planification/Participation aux diverses rencontres du GT-GAF ;
 
-- Organisation de rencontres de travail entre DAA et  autres Ministères ou instances étatiques;
+7. Organisation de rencontres de travail entre DAA et autres Ministères ou instances étatiques;
 
-- Organisation de rencontres de travail entre DAA  et missions de suivi des bailleurs ;
+8. Organisation de rencontres de travail entre DAA et missions de suivi des bailleurs ;
 
-- Appui au GT-GAF pour le recrutement d'une firme devant évaluer la performance de la DAA dans les différents domaines après la mise en œuvre du plan d'action
+9. Appui au GT-GAF pour le recrutement d'une firme devant évaluer la performance de la DAA dans les différents domaines après la mise en œuvre du plan d'action
 
-- Facilitation  de  la  Coordination  entre  le  GT-GAF  et  le  Cabinet  du  Ministre du MENFP.
+10. Facilitation de la Coordination entre le GT-GAF et le Cabinet du Ministre du MENFP.
 
 ###### Livrables
 
@@ -4977,19 +5197,19 @@ La  consultation  s'étend  sur  une  période  de  six  mois  à  partir  de  l
 
 [[START OF PAGE 199]]
 
-###### 1Contexte
-
-L'Axe  2  du  PO  portant  sur  les  curricula  et  programmes  souligne  l'importance  du curriculum qui représente le principal dispositif par lequel l'école haïtienne pourra remplir efficacement sa mission de socialisation et de formation des citoyens du pays et  renforcer  ainsi  les  bases  du  développement.  Or,  en  l'état  actuel,  les  curricula  ne peuvent répondre pleinement à ce besoin. La réforme datant de la fin des années 70 connue sous le nom de réforme Bernard a mis l'emphase sur l'introduction du créole à l'école haïtienne. De nouveau curricula ont été proposés. Cependant, les programmes, les approches et contenus sont restés fortement attachés à la tradition, c'est-à-dire au modèle de l'école française du 19 ème siècle. La pédagogie par objectif proposée jusque là n'a donc pas permis de couper les ponts avec cette tradition qui n'étudie pas ou ne mets pas forcément en perspective l'implication du citoyen dans le monde du travail , dans  le  processus  de  développement  de  sa  société  ou  encore  dans  une  démarche interactive  où  l'école  dialogue  avec  le  monde  extérieur  dans  lequel  l'enfant  sera projeté demain.
-
-La  révision  des  curricula,  telle  que  le  propose  le  Plan  Opérationnel,  permettra d'organiser un enseignement plus efficace et répondant aux besoins de la société et des citoyens qui la composent.
-
-Cette  révision  sera  effectuée  en  fonction  d'un  socle  commun  de  connaissances  et  de compétences, c'est-à-dire selon  un ensemble de connaissances et de compétences que les élèves devront maîtriser à l'issue de la scolarité obligatoire pour poursuivre leur formation, construire leur avenir professionnel et réussir leur vie dans la société. Il s'agit de lier les enjeux de la scolarité obligatoire aux impératifs de formation tout au long de la vie, à la construction de la personnalité et à la vie en société. La définition d'un socle commun de compétence à travers les nouveaux curricula intègre l'ambition d'offrir  à  chaque  élève  les  moyens  de  développer  toutes  ses  facultés.  Il  permet  de mettre en valeur toutes les formes d'intelligence et toutes les aptitudes des apprenants. Ainsi, cette révision ne concernera pas uniquement l'école fondamentale.  Les Faculté des Sciences de l'Éducation (FSE) des universités accréditées. Les Écoles Normales d'Instituteurs  (ENI),  les  Centres  de  Formation  des  Enseignants  du  Fondamental (CFEF), la formation continue du personnel pédagogique et administratif des écoles fondamentales,  l'école  secondaire  sont  eux  aussi  concernés  par  cette  révision  et  la définition  du  socle  commun  de  compétences.  Car,  il  s'agit  d'ajuster  tous  les  ordres d'enseignement afin d'atteindre cet objectif et par conséquent répondre aux exigences de cohérence que suppose la maîtrise de ce socle.
-
-###### 2Mise en perspective et questionnements fondamentaux
-
 ##### ANNEXE F
 
 ###### TERMS DE REFERENCE DU GROUPE DE TRAVAIL CURRICULUM
+
+###### 1- Contexte
+
+L'Axe 2 du PO portant sur les curricula et programmes souligne l'importance du curriculum qui représente le principal dispositif par lequel l'école haïtienne pourra remplir efficacement sa mission de socialisation et de formation des citoyens du pays et renforcer ainsi les bases du développement. Or, en l'état actuel, les curricula ne peuvent répondre pleinement à ce besoin. La réforme datant de la fin des années 70 connue sous le nom de réforme Bernard a mis l'emphase sur l'introduction du créole à l'école haïtienne. De nouveau curricula ont été proposés. Cependant, les programmes, les approches et contenus sont restés fortement attachés à la tradition, c'est-à-dire au modèle de l'école française du 19ème siècle. La pédagogie par objectif proposée jusque là n'a donc pas permis de couper les ponts avec cette tradition qui n'étudie pas ou ne mets pas forcément en perspective l'implication du citoyen dans le monde du travail, dans le processus de développement de sa société ou encore dans une démarche interactive où l'école dialogue avec le monde extérieur dans lequel l'enfant sera projeté demain.
+
+La révision des curricula, telle que le propose le Plan Opérationnel, permettra d'organiser un enseignement plus efficace et répondant aux besoins de la société et des citoyens qui la composent.
+
+Cette révision sera effectuée en fonction d'un socle commun de connaissances et de compétences, c'est-à-dire selon un ensemble de connaissances et de compétences que les élèves devront maîtriser à l'issue de la scolarité obligatoire pour poursuivre leur formation, construire leur avenir professionnel et réussir leur vie dans la société. Il s'agit de lier les enjeux de la scolarité obligatoire aux impératifs de formation tout au long de la vie, à la construction de la personnalité et à la vie en société. La définition d'un socle commun de compétence à travers les nouveaux curricula intègre l'ambition d'offrir à chaque élève les moyens de développer toutes ses facultés. Il permet de mettre en valeur toutes les formes d'intelligence et toutes les aptitudes des apprenants. Ainsi, cette révision ne concernera pas uniquement l'école fondamentale. Les Faculté des Sciences de l'Éducation (FSE) des universités accréditées. Les Écoles Normales d'Instituteurs (ENI), les Centres de Formation des Enseignants du Fondamental (CFEF), la formation continue du personnel pédagogique et administratif des écoles fondamentales, l'école secondaire sont eux aussi concernés par cette révision et la définition du socle commun de compétences. Car, il s'agit d'ajuster tous les ordres d'enseignement afin d'atteindre cet objectif et par conséquent répondre aux exigences de cohérence que suppose la maîtrise de ce socle.
+
+###### 2- Mise en perspective et questionnements fondamentaux
 
 56
 
@@ -5015,7 +5235,7 @@ Cependant,   s'agissant de respecter une l'échéance de 2015, on ne peut se per
 
 À l'inverse, la définition du socle commun de connaissances et de compétences donne la  possibilité  de  travailler  rapidement  et  efficacement.  Contrairement  à  d'autre groupes  de  travail,  le  Groupe  Curricula  et  Programmes,  peut  se  fonder  sur  les résultats  des  examens  officiels,  sur  certaines  données  prélevées  dans  le  cadre  des projets et sur les matériels didactiques en circulation pour proposer ce socle commun de connaissances et de compétences.
 
-###### 3Mandat du groupe dans le cadre de la révision des curricula
+###### 3- Mandat du groupe dans le cadre de la révision des curricula
 
 La  DCQ  sera  le  chef  de  fil  de  ce  groupe  qui  comprendra  également  les  directions suivantes : le  BUGEP,  la DEF, la DES, la DFP.
 
@@ -5031,7 +5251,7 @@ Le mandat du groupe consistera à :
 
 Ce socle commun devra tenir compte des grands axes suivants :
 
-- la maîtrise du créole et du français (langues officielles),
+a) la maîtrise du créole et du français (langues officielles),
 
 57
 
@@ -5039,21 +5259,21 @@ Ce socle commun devra tenir compte des grands axes suivants :
 
 [[START OF PAGE 201]]
 
-- la pratique d'une langue vivante étrangère au 3 ème cycle du fondamentale et au secondaire
+b) la pratique d'une langue vivante étrangère au 3ème cycle du fondamentale et au secondaire
 
-- les  principaux  éléments  de  mathématiques  et  la  culture  scientifique  et technologique,
+c) les  principaux  éléments  de  mathématiques  et  la  culture  scientifique  et technologique,
 
-- la maîtrise des techniques usuelles de l'information et de la communication,
+d) la maîtrise des techniques usuelles de l'information et de la communication,
 
-- la  culture  humaniste,  en  histoire,  géographie,  littérature,  en  arts  et  en philosophie,
+e) la  culture  humaniste,  en  histoire,  géographie,  littérature,  en  arts  et  en philosophie,
 
-- les  compétences  sociales  et  civiques, règles de la vie en  société de l'individu et du citoyen,
+f) les  compétences  sociales  et  civiques, règles de la vie en  société de l'individu et du citoyen,
 
-- le développement de l'autonomie et de l'initiative
+g) le développement de l'autonomie et de l'initiative
 
-###### 4Qualifications et expérience des membres du groupe de travail
+###### 4- Qualifications et expérience des membres du groupe de travail
 
-Les  expertises  sont  déterminées  en  fonction  des  grands  axes  du  socle  indiquées  cidessus. Il convient de souligner que les experts principaux ne seront pas les seuls à travailler sur les axes ; ils seront appuyés par une expertise complémentaire.
+Les  expertises  sont  déterminées  en  fonction  des  grands  axes  du  socle  indiquées  ci-dessus. Il convient de souligner que les experts principaux ne seront pas les seuls à travailler sur les axes ; ils seront appuyés par une expertise complémentaire.
 
 -Expert  principal : Expertise  dans  le  domaine  de  l'éducation  et  de  la formation en Haïti. Il s'agira d'un expert de niveau international pouvant attester  d'une  expérience  minimale  de  dix  années  et  dont  la  tâche principale au  sein du  groupe  de  travail  consistera à mobiliser  les compétences  requises  pour  la  mise  en  œuvre  du  groupe.  Il  veillera  à  la coordination et à l'orientation des propositions des experts mobilises dans le  groupe  en  fonction  des  objectifs  du  Plan  Opérationnel  et  aussi  à  la mobilisation/implication des Directions Techniques concernées.
 
@@ -5075,7 +5295,7 @@ disponibles, apporter de nouveaux contenus, rechercher des 'informations sur  le
 
 -Expert en sciences sociales : possède une expertise de plus de dix ans dans l'élaboration de programmes de formation et de curricula dans le domaine des sciences sociales. Sa tâche principale consistera à définir les contenus des disciplines du domaine, définir les activités, proposer un ordre logique d'introduction  des  contenus  en  fonction  du  profil  des  apprenants  et  des compétences visées.
 
-###### 5Les indicateurs dans le cadre de la révision des curricula
+###### 5- Les indicateurs dans le cadre de la révision des curricula
 
 ###### Indicateurs d'efficacité interne et de qualité :
 
@@ -5099,7 +5319,7 @@ disponibles, apporter de nouveaux contenus, rechercher des 'informations sur  le
 
  Pourcentage d'agents éducatifs ayant reçu une formation ;
 
-###### 6Mise en œuvre : Lignes directrices pour la révision des curricula
+###### 6- Mise en œuvre : Lignes directrices pour la révision des curricula
 
 ###### Phase 1 : communication :
 
@@ -5107,7 +5327,7 @@ Il s'agira d'impliquer les fonctionnaires en poste afin qu'ils s'approprient le 
 
 ###### Phase 2 : diagnostic
 
-La  première  phase  de  la  consultation  devra  permettre  d'établir  un diagnostic de terrain permettant d'établir l'ensemble des savoirs et compétences  nécessaires  au  contexte  et  cependant  négligés.  Des  sousgroupes de travail seront constitués et travailleront sous la direction des experts principaux.
+La  première  phase  de  la  consultation  devra  permettre  d'établir  un diagnostic de terrain permettant d'établir l'ensemble des savoirs et compétences  nécessaires  au  contexte  et  cependant  négligés.  Des  sous-groupes de travail seront constitués et travailleront sous la direction des experts principaux.
 
 Ce diagnostic devra prendre en compte les points suivants :(a) passer en revue les études réalisés par les projets soutenus par les PTF en ce qui a trait  à  l'appropriation  de  la  langue  et  de  l'écrit.  b)  la  pertinence  des contenus et savoirs proposés dans les manuels en circulation. c) la mise en œuvre de ces contenus et savoirs dans les salles de classe et la pertinence des  pratiques.  d)  un  inventaire  des  outils  ou  support  nécessaires  à l'introduction de nouveaux savoirs et de nouvelles pratiques. e) l'appropriation de l'approche par compétences dans le Nouveau secondaire.
 
@@ -5119,11 +5339,11 @@ Ce diagnostic devra prendre en compte les points suivants :(a) passer en revue l
 
 ###### Phase 3 : élaboration du socle commun de compétences et définition d'une stratégie de mise en œuvre
 
--Les  sous-groupes  ainsi  que  les  experts  principaux  définissent  le  socle commun  de  compétences  en  fonctions  des  différents  domaines-phares : langues, sciences, culture (art, lettres), philosophie, et civisme.
+- Les  sous-groupes  ainsi  que  les  experts  principaux  définissent  le  socle commun  de  compétences  en  fonctions  des  différents  domaines-phares : langues, sciences, culture (art, lettres), philosophie, et civisme.
 
--Rédaction de projets de lois ou de décrets permettant de valider ou de faire appliquer le lancement des nouveaux curricula
+- Rédaction de projets de lois ou de décrets permettant de valider ou de faire appliquer le lancement des nouveaux curricula
 
--Élaboration  de  guides  du  maître  détaillé  destinés  aux  enseignants  sans formation initiale
+- Élaboration  de  guides  du  maître  détaillé  destinés  aux  enseignants  sans formation initiale
 
 ###### Phase 4 : mise en œuvre
 
@@ -5141,7 +5361,7 @@ Level: TBD
 
 ###### XVII. Background and Justification
 
-The Government of Haiti (GOH), through its Ministry of National Education and Vocational Training (MENFP), developed the Operational Plan 2010-2015 (OP) to provide a framework for the implementation of the recommendations made by the Technical Group on Education and Training ('GTEF' in French) instituted in 2007. The OP establishes guidelines and priorities that will allow 'the nation to have a quality educational and training system that is: (i) affordable to all Haitians regardless of gender, place of residence, or socio-economic status; (ii) consistent with the needs of the national economy; (iii) based on a common set of knowledge delivered by competent teachers in safe, appropriate environments; and (iv) governed and strengthened at all levels, with municipalities progressively playing a more active role in managing basic education including early childhood and pre-school' (OP, p. 22).
+The Government of Haiti (GOH), through its Ministry of National Education and Vocational Training (MENFP), developed the Operational Plan 2010-2015 (OP) to provide a framework for the implementation of the recommendations made by the Technical Group on Education and Training (“GTEF” in French) instituted in 2007. The OP establishes guidelines and priorities that will allow “the nation to have a quality educational and training system that is: (i) affordable to all Haitians regardless of gender, place of residence, or socio-economic status; (ii) consistent with the needs of the national economy; (iii) based on a common set of knowledge delivered by competent teachers in safe, appropriate environments; and (iv) governed and strengthened at all levels, with municipalities progressively playing a more active role in managing basic education including early childhood and pre-school” (OP, p. 22).
 
 In order to ensure successful implementation of the OP, a multi-faceted mechanism is proposed which will enable all actors in the education system to fully and effectively play their roles in the implementation process. Executive bodies with specific mandates are being created at three levels: a) a strategic level through the National Strategic Committee (CSN); b) a planning and monitoring level through the National Technical Committee (CTN); and c) an operational level through ten working groups (GT).
 
@@ -5155,9 +5375,9 @@ In accordance with current President Michel Martelly's priorities, the constitut
 
 In addition, the MENFP recently established the Reading Skills Development Unit (or Unité de Développement des Compétences en Lecture or UDCL) within its structure to promote improvements in early grade reading education. The UDCL and these working groups will address the needs for improved reading standards, pedagogies, curricula, assessments, and teacher training in the Haitian education system. The USAID/Haiti mission will play a lead role in providing technical assistance to the MENFP, the UDCL, and these working groups as they implement the PO and further the USAID/Haiti mission's strategic goals.
 
-Such combined MENFP and USAID reading reform efforts have a significant recent history and future in Haiti. Led by the USAID/Haiti education staff, in spring 2012 a team representing the MENFP Directorate of Basic Education (Direction de l'Enseignement Fondamental or DEF) and two NGOs participated in the 'All Children Reading' workshop organized by the Global Partnership for Education (GPE) in Rwanda. The team also participated in a study tour of USAID reading programs in Mali. Even more importantly, the USAID education office has contracted for the Tout Timoun Ap Li (TOTAL) two-year applied research project to begin in fall 2012. This project will be implemented in hundreds of Haitian schools in the USAID development corridors during the 2012-2013 and 2013-2014 school years.
+Such combined MENFP and USAID reading reform efforts have a significant recent history and future in Haiti. Led by the USAID/Haiti education staff, in spring 2012 a team representing the MENFP Directorate of Basic Education (Direction de l'Enseignement Fondamental or DEF) and two NGOs participated in the “All Children Reading” workshop organized by the Global Partnership for Education (GPE) in Rwanda. The team also participated in a study tour of USAID reading programs in Mali. Even more importantly, the USAID education office has contracted for the Tout Timoun Ap Li (TOTAL) two-year applied research project to begin in fall 2012. This project will be implemented in hundreds of Haitian schools in the USAID development corridors during the 2012-2013 and 2013-2014 school years.
 
-These activities have enabled the MENFP, with USAID support, to articulate a national action plan-aligned with the OP-to promote the improvement of Haitian children's reading competencies. This action plan will begin implementation in schools in the 2012-2013 academic year. In support of the action plan, the UDCL, and the TOTAL project, USAID will fund a highly qualified Reading Specialist who will be housed in the MENFP and who will partner with the USAID Education Team.
+These activities have enabled the MENFP, with USAID support, to articulate a national action plan—aligned with the OP—to promote the improvement of Haitian children's reading competencies. This action plan will begin implementation in schools in the 2012-2013 academic year. In support of the action plan, the UDCL, and the TOTAL project, USAID will fund a highly qualified Reading Specialist who will be housed in the MENFP and who will partner with the USAID Education Team.
 
 ###### XVIII. Overview of Position and Tasks
 
@@ -5195,7 +5415,7 @@ The Reading Specialist reports to the Coordinator of UDCL and the designated Man
 
 The Reading Specialist will be responsible for the following tasks:
 
-###### Strategic Planning and Advice (35% level of effort)
+###### a. Strategic Planning and Advice (35% level of effort)
 
  Assist the MENFP, USAID, and implementing partners, as appropriate, with the development of relevant reading program criteria and evaluation mechanisms, including the development and implementation of effective reading standards, pedagogies, curricula, assessments, and teacher training
 
@@ -5221,7 +5441,7 @@ The Reading Specialist will be responsible for the following tasks:
 
  Develop comprehensive database and library of reading-related individuals, organizations, events, resources, materials
 
-###### Strengthening Capacity of MENFP's UDCL and working groups dedicated to Curriculum, Programs, and Literacy (35% level of effort)
+###### b. Strengthening Capacity of MENFP's UDCL and working groups dedicated to Curriculum, Programs, and Literacy (35% level of effort)
 
 63
 
@@ -5245,7 +5465,7 @@ The Reading Specialist will be responsible for the following tasks:
 
  Via brochures, websites, and other relevant means publicize key information about reading efforts to be shared with interested parties and groups inside and outside of MENFP, UDCL, and the USAID education office
 
-###### Monitoring and Evaluation (20% level of effort)
+###### c. Monitoring and Evaluation (20% level of effort)
 
  Develop accurate education and reading performance monitoring systems and measurements of progress for MENFP, UDCL, and working groups in accordance with USAID reporting requirements
 
@@ -5257,7 +5477,7 @@ The Reading Specialist will be responsible for the following tasks:
 
  Alert USAID staff to issues and constraints affecting the implementation of USAID's education portfolio and reading program issues
 
-###### Other (10% level of effort)
+###### d. Other (10% level of effort)
 
  Perform internal technical and administrative tasks as required, particularly those related to reading efforts
 
@@ -5272,19 +5492,19 @@ The Reading Specialist will be responsible for the following tasks:
 ###### Education and Technical Knowledge:
 Minimum of a Master's degree in education from a recognized education institution, with preference given to degrees relating to reading/literacy, curriculum development, teacher education, and cognitive psychology. Specialized training or education in approaches addressing early grade reading issues, including material development, teaching practices, and teacher training is required. Good knowledge of language policy issues and basic reading competencies. Applicant must be able to demonstrate ability to coordinate and collaborate in the implementation of reading program and activities. Applicant must be able to articulate orally and in writing in French the technical issues presented in this Statement of Work.
 
-###### Prior Work Experience:
-At least eight years of progressively identifiable experience researching, developing, and implementing reading programs. Demonstrated leadership experience, program management, and problemsolving skills in a complex and highly sensitive environment are required. Proven ability to identify, promote, and apply innovative concepts and strategies to improve education.
+###### a. Prior Work Experience:
+At least eight years of progressively identifiable experience researching, developing, and implementing reading programs. Demonstrated leadership experience, program management, and problem-solving skills in a complex and highly sensitive environment are required. Proven ability to identify, promote, and apply innovative concepts and strategies to improve education.
 
-###### Teamwork/Interpersonal Skills:
+###### b. Teamwork/Interpersonal Skills:
 Excellent leadership, communication, and interpersonal skills are critical to this position. The incumbent must be able to work effectively with a broad range of MENFP, GOH, and USG personnel and partners, and have demonstrated skills in donor coordination and collaboration. Ability to work both independently and in a team environment to achieve consensus on policy, program, curriculum and administrative matters is a must.
 
-###### Leadership Skills:
+###### c. Leadership Skills:
 The Reading Specialist will report to the Coordinator of UDCL and the designated Manpower supervisor. The Reading Specialist will be in ongoing contact with the USAID/Haiti Education Team. S/he will co-lead and coordinate the work within the MENFP, UDCL, and working group structures, focusing on reading programs. Strong leadership and mentoring skills are required.
 
-###### Language and Communication Skills:
-Must be fluent in French and demonstrate English proficiency. A good knowledge of Haitian Creole is required. Must have proven ability to communicate quickly, clearly, and concisely-both orally and in writing. Demonstrated ability to translate and summarize reports, technical documents, and other forms of communication is preferred. Demonstrated ability to make oral presentations logically and persuasively to senior USG, GOH, implementing partners, and other donors.
+###### d. Language and Communication Skills:
+Must be fluent in French and demonstrate English proficiency. A good knowledge of Haitian Creole is required. Must have proven ability to communicate quickly, clearly, and concisely—both orally and in writing. Demonstrated ability to translate and summarize reports, technical documents, and other forms of communication is preferred. Demonstrated ability to make oral presentations logically and persuasively to senior USG, GOH, implementing partners, and other donors.
 
-###### Computer Skills:
+###### e. Computer Skills:
 Proficiency in the Microsoft Office suite of applications is required. Demonstrated ability to conduct research using the World Wide Web and other resources. A strong interest in applying information and communications technologies to daily work is essential.
 
 ###### XXI. Deliverables
@@ -5370,11 +5590,11 @@ La conclusion du rapport sur  l'atelier  et  le  sommet  international  de  2011
 
 2)  des  supports  par  exemple :  à  la  décision,  à  l'amélioration  des  apprentissages,  à  la redynamisation de la relation pédagogique;
 
-3) des mécanismes de changement de comportements au sein de l'administration, au niveau des élèves et plus tard dans la population afin de  préparer la nouvelle force de travail qui devra contribuer au repositionnement du pays au 21 ème siècle'.
+3) des mécanismes de changement de comportements au sein de l'administration, au niveau des élèves et plus tard dans la population afin de  préparer la nouvelle force de travail qui devra contribuer au repositionnement du pays au 21ème siècle'.
 
 ###### 2 Mandat du Groupe sur les TIC en éducation
 
-- Le  Groupe  de  travail  devra  faire  l'inventaire  de  l'existant  en  matière  de  TIC  en éducation en s'appuyant sur les travaux antérieurs.
+1) Le  Groupe  de  travail  devra  faire  l'inventaire  de  l'existant  en  matière  de  TIC  en éducation en s'appuyant sur les travaux antérieurs.
 
 Il devra de plus
 
@@ -5384,13 +5604,15 @@ Axe 2 : Appui au processus d'Enseignement/apprentissage( DEF, DFP, RE, DES, INFP
 
 En ce qui concerne l'axe 1, le GT_TICE devra, en concertation avec les directions techniques concernées ( notamment DPCE, DRH, DAA,BUNEXE,DAEP, DESup, DDE) ainsi que les partenaires de ces dernières : (i) définir le champ d'utilisation et de développement des TIC en vue du renforcement de la gestion au niveau central et au niveau déconcentré; développer un  plan  d'utilisation  des  TIC  dans  une  perspective  d'amélioration  de  la  communication interne et externe du MENFP, avec une perspective d'amélioration des services offerts par le MENFP à ses  différents  segments  de  clientèle  (  amélioration  du  service  au  public);  (iii) Produire un plan d'amélioration de la prise des décisions en s'appuyant sur les TIC, dans une perspective  d'aménagement  du  territoire,  (iv)  en  planifiant  l'intégration  des  TIC  pour  une amélioration de la gestion des ressources du secteur ( humaines, matérielles, financières)
 
-En  ce  qui  concerne  l'axe  2,  le  GT_TICE,  travaillera  (i)  au  développement  de  plans d'utilisation des TIC dans le processus d'enseignement apprentissage  pour chacun des ordres d'enseignement  et  dans  la  formation  professionnelle;  (ii)  à  la  conception  de  programmes spécifiques  d'intervention  pour  chaque  niveau  en  vue  d'optimiser  les  rendements  sur  les principaux points faisant problèmes dans le système éducatif, tant au niveau des élèves que des enseignants. (iii) Développer des mécanismes pour le suivi et l'évaluation interventions (iV) Identifier les modalités de financement des actions retenues des Une troisième dimension spécifique au volet TIC et à son histoire au sein du MEN FP devra recevoir  toute  l'attention  du  GT_TICE.  Il  s'agit  du  volet  relatif  au  renforcement  des  capa cités institutionnelles du MENFP en matière de TIC. A ce titre, le GT veillera à
+En  ce  qui  concerne  l'axe  2,  le  GT_TICE,  travaillera  (i)  au  développement  de  plans d'utilisation des TIC dans le processus d'enseignement apprentissage  pour chacun des ordres d'enseignement  et  dans  la  formation  professionnelle;  (ii)  à  la  conception  de  programmes spécifiques  d'intervention  pour  chaque  niveau  en  vue  d'optimiser  les  rendements  sur  les principaux points faisant problèmes dans le système éducatif, tant au niveau des élèves que des enseignants. (iii) Développer des mécanismes pour le suivi et l'évaluation des interventions (iV) Identifier les modalités de financement des actions retenues
 
 68
 
 [[END OF PAGE 211]]
 
 [[START OF PAGE 212]]
+
+Une troisième dimension spécifique au volet TIC et à son histoire au sein du MEN FP devra recevoir  toute  l'attention  du  GT_TICE.  Il  s'agit  du  volet  relatif  au  renforcement  des capacités institutionnelles du MENFP en matière de TIC. A ce titre, le GT veillera à
 
 (i) Faciliter  la  création  et  le  développement  d'une  unité  TICE  au  MENFP, notamment en produisant les termes de référence des personnels attachés à cette unité; en formulant des conseils pour la structuration de  l'U_TIC, la  formation des personnels de l'UTIC
 
@@ -5402,17 +5624,17 @@ Le GT _TIC est enfin responsable de veiller à la conduite  d'une évaluation so
 
 L'équipe en charge du GT s'assurera de la répartition des tâches au sein du GT. Les activités suivantes constituent les balises en vue d'apprécier les livrables attendus des GT :
 
-- Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
+o. Identifier les actions prioritaires qui doivent être mises en œuvre à très court terme ;
 
-- Élaborer  une  feuille  de  route  assortie  de  méthodologies  spécifiques  en  vue  de permettre l'exécution optimale du mandat;
+p. Élaborer  une  feuille  de  route  assortie  de  méthodologies  spécifiques  en  vue  de permettre l'exécution optimale du mandat;
 
-- Identifier les ressources nécessaires en vue de réaliser le mandat ;
+q. Identifier les ressources nécessaires en vue de réaliser le mandat ;
 
-- Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
+r. Proposer des indicateurs de base qui permettront de mesurer et de suivre les progrès ;
 
-- Proposer un plan d'action;
+s. Proposer un plan d'action;
 
-- Définir le schéma opérationnel de mise en œuvre.
+t. Définir le schéma opérationnel de mise en œuvre.
 
 ###### 4 Qualifications et expérience des membres du groupe de travail
 
@@ -5454,9 +5676,9 @@ d'intervention sur des systèmes informatique complexes. La capacité d'encadrer
 
 ###### I Rappel du contexte
 
-Du 13 au 15 novembre 2012 s'est tenu à Doha, au Qatar, à l'initiative de la Qatar Foundation, le 4 e sommet annuel WISE (World Innovation Summit for Innovation) qui se donne comme objectif de proposer une nouvelle vision de l'éducation au monde entier. Ces assises ont dédié une attention spéciale à Haïti qui a été mentionnée autant dans les propos d'introduction que de clôture du Chairman de WISE, le Dr Addulla bin Ali Al-Thani. D'ailleurs, Haïti est le seul  pays  singulièrement  mentionné  dans  les  cinq  annonces-clés  de  clôture  de  WISE  2012 (voir  Annexe) :  'The  WISE  Haiti  Task  Force will  expand  its  network  and  establish  an innovation hub to help rebuild the education system in Haiti'.
+Du 13 au 15 novembre 2012 s'est tenu à Doha, au Qatar, à l'initiative de la Qatar Foundation, le 4e sommet annuel WISE (World Innovation Summit for Innovation) qui se donne comme objectif de proposer une nouvelle vision de l'éducation au monde entier. Ces assises ont dédié une attention spéciale à Haïti qui a été mentionnée autant dans les propos d'introduction que de clôture du Chairman de WISE, le Dr Addulla bin Ali Al-Thani. D'ailleurs, Haïti est le seul  pays  singulièrement  mentionné  dans  les  cinq  annonces-clés  de  clôture  de  WISE  2012 (voir  Annexe) :  “The  WISE  Haiti  Task  Force will  expand  its  network  and  establish  an innovation hub to help rebuild the education system in Haiti”.
 
-Au lendemain du séisme du 12 janvier 2010, en effet, la Qatar Foundation a mis en place la WISE Haiti Task Force (WHTF), appuyée par un acteur local-la Fondation Connaissance et Liberté (FOCAL)-dans le but, d'une part, d'identifier des initiatives innovantes qui ont lieu  sur  le  terrain,  malgré  le  chaos  apparent  qui  a  suivi  le  séisme,  et  d'autre  part,  de  les supporter.  Il  s'agit  de  bonnes  pratiques  dans  le  fonctionnement  des  écoles  comme  lieux d'apprentissages  académiques  et  de  ré-invention  du  vivre-ensemble.  Il  s'agit  d'initiatives pilotes qu'il importe d'expérimenter tout en minimisant ce que cela comporte de tâtonnements, d'hésitations et d'erreurs. Ce qu'on ne peut se permettre avec les structures du MENFP car il y a des rendez-vous fixes et inévitables avec la population. Il faut donc y aller avec  une  certaine  assurance  de  ce  qu'il  y  a  lieu  de  faire  pour  améliorer  les  performances, d'une  part,  du  MENFP  en  termes  de  services  éducatifs  fournis  avec  succès  à  toute la population  et,  d'autre  part,  du  système  en  termes  de  taux  de  réussite,  de  maitrise  des compétences de base, etc.
+Au lendemain du séisme du 12 janvier 2010, en effet, la Qatar Foundation a mis en place la WISE Haiti Task Force (WHTF), appuyée par un acteur local—la Fondation Connaissance et Liberté (FOCAL)—dans le but, d'une part, d'identifier des initiatives innovantes qui ont lieu  sur  le  terrain,  malgré  le  chaos  apparent  qui  a  suivi  le  séisme,  et  d'autre  part,  de  les supporter.  Il  s'agit  de  bonnes  pratiques  dans  le  fonctionnement  des  écoles  comme  lieux d'apprentissages  académiques  et  de  ré-invention  du  vivre-ensemble.  Il  s'agit  d'initiatives pilotes qu'il importe d'expérimenter tout en minimisant ce que cela comporte de tâtonnements, d'hésitations et d'erreurs. Ce qu'on ne peut se permettre avec les structures du MENFP car il y a des rendez-vous fixes et inévitables avec la population. Il faut donc y aller avec  une  certaine  assurance  de  ce  qu'il  y  a  lieu  de  faire  pour  améliorer  les  performances, d'une  part,  du  MENFP  en  termes  de  services  éducatifs  fournis  avec  succès  à  toute la population  et,  d'autre  part,  du  système  en  termes  de  taux  de  réussite,  de  maitrise  des compétences de base, etc.
 
 Dans les innovations identifiées par la WHTF, centrées autour de l'école, nous sommes à la recherche, ou plutôt à la redécouverte de l'école, en dehors du système scolaire, comme lieu de vie et où une nouvelle dynamique des relations entre les composantes de la population. Dans ce sens, ce n'est pas seulement à l'intérieur de l'école, mais entre les écoles avec des pratiques et celles plus "traditionnelles", par le processus de la mise en réseau. Comment lorsque tout s'effondre  dans  une  société,  l'école  a  su  demeurer  comme  point  de  ralliement  et  de reconstitution de soi ? En effet, après le séisme de 2010, il n'y avait plus d'État pour aider la population à se reprendre. Certains se sont accrochés pour remettre en marche les écoles en faisant dans les zones détruites des actions visibles en ce sens et toute la population s'y est accrochée et a commencé à remonter lentement du gouffre. Dès lors, des initiatives se sont alors  greffées  autour  de  l'école  ou  prenant  pour prétexte  l'école  qui  s'était  imposée  comme lieu  de  ralliement  de  la  population  en  quête  de  quelque  chose  indéfinissable  que  même aujourd'hui nous ne saisissons pas encore tout à fait.
 
