@@ -18,6 +18,44 @@ PDF generated: 31 Jul 2018, 01:43
 
 # Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Title I: The State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Chapter I: The Organization of the State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Chapter II: The Territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Chapter III: Treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Title II: Nationality and Citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Chapter I: Hondurans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+CHAPTER II: Foreigners . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+CHAPTER III: CITIZENS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+CHAPTER IV: Suffrage and Political Parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+CHAPTER V: Electoral Function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+TITLE III: DECLARATIONS, RIGHTS, AND GUARANTEES . . . . . . . . . . . . . . . . . 16
+CHAPTER I: Declarations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+CHAPTER II: Individual Rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+CHAPTER III: Social Rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+CHAPTER IV: Rights of the Child . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+CHAPTER V: Labor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+CHAPTER VI: SOCIAL SECURITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+CHAPTER VII: HEALTH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+CHAPTER VIII: EDUCATION AND CULTURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+CHAPTER IX: HOUSING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+TITLE IV: CONSTITUTIONAL GUARANTEES . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+CHAPTER I: Habeas Corpus, Habeas Data and Amparo . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+CHAPTER II: UNCONSTITUTIONALITY AND REVIEW . . . . . . . . . . . . . . . . . . . . . . . . . 36
+CHAPTER III: RESTRICTION OR SUSPENSION OF GUARANTEES . . . . . . . . . . . . . . . . . 37
+TITLE V: BRANCHES OF THE GOVERNMENT . . . . . . . . . . . . . . . . . . . . . . . . . 38
+CHAPTER I: Legislative Branch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+CHAPTER II: ENACTMENT, SANCTION AND PROMULGATION OF LAWS . . . . . . . . . . . . 47
+CHAPTER III: THE SUPERIOR TRIBUNAL OF ACCOUNTS . . . . . . . . . . . . . . . . . . . . . . . 49
+CHAPTER IV: OFFICE OF THE ATTORNEY GENERAL OF THE REPUBLIC . . . . . . . . . . . . 50
+Section I: PUBLIC MINISTRY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Section II: Impeachment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+CHAPTER VI: THE EXECUTIVE BRANCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+CHAPTER VII: OFFICES OF THE SECRETARIES OF THE CABINET . . . . . . . . . . . . . . . . . 58
+CHAPTER VIII: THE CIVIL SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+CHAPTER IX: DECENTRALIZED INSTITUTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+CHAPTER X: THE NATIONAL DEFENSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+
 Honduras 1982 (rev. 2013)
 
 Page 2
@@ -29,6 +67,24 @@ Page 2
 constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
+
+CHAPTER XI: THE DEPARTMENTAL AND MUNICIPAL SYSTEM . . . . . . . . . . . . . . . . . . 66
+CHAPTER XII: THE JUDICIAL BRANCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+CHAPTER XIII: THE LIABILITY OF THE STATE AND OF ITS SERVANTS . . . . . . . . . . . . . . 73
+TITLE VI: THE ECONOMIC REGIME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+CHAPTER I: THE ECONOMIC SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+CHAPTER II: CURRENCY AND BANKING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+CHAPTER III: AGRARIAN REFORM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+CHAPTER IV: FINANCIAL REGIME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+CHAPTER V: PUBLIC WEALTH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+CHAPTER VI: BUDGET . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+TITLE VII: AMENDMENT AND INVIOLABILITY OF THE CONSTITUTION . . . . . 82
+CHAPTER I: AMENDMENT OF THE CONSTITUTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+CHAPTER II: THE INVIOLABILITY OF THE CONSTITUTION . . . . . . . . . . . . . . . . . . . . . . 82
+TITLE VIII: TRANSITORY PROVISIONS AND THE ENTRY INTO FORCE OF THE
+CONSTITUTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+CHAPTER I: TRANSITORY PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+CHAPTER II: THE ENTRY INTO FORCE OF THE CONSTITUTION . . . . . . . . . . . . . . . . . . 83
 
 Honduras 1982 (rev. 2013)
 
@@ -168,7 +224,7 @@ PDF generated: 31 Jul 2018, 01:43
 
 - National flag
 
-· National capital Once  the  official  result  is  known  in  the  term  indicated  by  the  Special  Law,  the Supreme Elections Tribunal shall inform the National Congress within a period of ten days about the result of the consultation. The National Congress shall issue a decree ordering  those  opposed  to  comply  with  the  rules  that  result  from  the  citizen consultation.
+Once  the  official  result  is  known  in  the  term  indicated  by  the  Special  Law,  the Supreme Elections Tribunal shall inform the National Congress within a period of ten days about the result of the consultation. The National Congress shall issue a decree ordering  those  opposed  to  comply  with  the  rules  that  result  from  the  citizen consultation.
 
 If the initiative submitted for consultation is approved, the approval of the Executive branch  shall  not  be  necessary,  nor  shall  it  proceed  for  its  veto,  consequently,  the National  Congress  shall  order  the  publication  of  the  approved  rules.  These  same rules may only be rejected or reformed through the same process of their approval.
 
@@ -183,6 +239,8 @@ The official language of Honduras is Spanish. The State shall protect its purity
 The national symbols are: the Flag, the Coat of Arms, and the National Anthem.
 
 The law shall establish their characteristics and shall regulate their use.
+
+· National capital
 
 #### Article 8
 
@@ -442,13 +500,13 @@ PDF generated: 31 Jul 2018, 01:43
 
 - Restrictions on rights of groups
 
-·
+- Restrictions on rights of groups
 
 - Reference to art
 
 - Reference to science
 
-·
+- Restrictions on entry or exit
 
 - Requirements for birthright citizenship
 
@@ -469,7 +527,6 @@ Foreigners are also subject to the same regular and special taxes of a general n
 Foreigners  may  not  engage  in  political  activities  of  a  national  or  international character in the country, under penalty prescribed by law.
 
 #### Article 33
-Restrictions on rights of groups
 
 Foreigners  may  not  file  claims  nor  demand  indemnity  of  any  kind  from  the  State, except in the manner and in the same cases in which Hondurans may do so.
 
@@ -480,7 +537,6 @@ They may not resort to diplomatic channels except in cases of denial of justice.
 Within the limits established by law, foreigners may only hold positions in teaching the sciences and the arts or render technical or advisory services to the State, when there are no Hondurans who can fill these positions or render such services.
 
 #### Article 35
-Restrictions on entry or exit
 
 Immigration shall be conditional to the social, political, economic, and demographic interests of the country.
 
@@ -702,7 +758,9 @@ PDF generated: 31 Jul 2018, 01:43
 
 · Census
 
-· Census In order to be justices of the Supreme Elections Tribunal one must be: Honduran by birth, older than 25 years of age, of recognized honorableness and aptitude for the office, and in full exercise of his civil rights.
+· Census
+
+In order to be justices of the Supreme Elections Tribunal one must be: Honduran by birth, older than 25 years of age, of recognized honorableness and aptitude for the office, and in full exercise of his civil rights.
 
 The following may not be elected justices of the Supreme Elections Tribunal:
 
@@ -1174,7 +1232,7 @@ constituteproject.org
 
 - Telecommunications
 
-·
+- Protection of stateless persons
 
 - Extradition procedure
 
@@ -1203,7 +1261,6 @@ The  communications,  books  and  documents  referred  to  in  this  article  th
 In  any  case,  the  secrecy  of  strictly  private  matters  which  have  no  bearing  on  the matter of the action taken shall be maintained.
 
 #### Article 101
-Protection of stateless persons
 
 Honduras recognizes the right of asylum in the form and conditions established by law.
 
@@ -3267,13 +3324,15 @@ Page 59
 
 constituteproject.org
 
-· Civil service recruitment force of law.
+force of law.
 
 ### CHAPTER VIII: THE CIVIL SERVICE
 
 #### Article 256
 
 The  civil  service  system  regulates  the  employment  and  public  service  relations established between  the  State and its servants, based on the principles of competence,  efficiency  and  honesty.  Personnel  administration  shall  be  subject  to scientific methods based on the merit system.
+
+· Civil service recruitment
 
 The State shall protect its servants within the administrative career.
 
@@ -3609,15 +3668,15 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-· Municipal government
-
-· Municipal government The departments shall be divided into autonomous municipalities administered by corporations elected by the people, according to law.
+The departments shall be divided into autonomous municipalities administered by corporations elected by the people, according to law.
 
 Without  prejudice  to  that  established  in  the  previous  paragraphs,  the  National Congress may create zones subject to special regimes in accordance with Article 329 of this Constitution.
 
 #### Article 295
 
 The  central  district  consists  of  a  single  municipality  made  up  of  the  former municipalities of Tegucigalpa and Comayaguela.
+
+· Municipal government
 
 #### Article 296
 
@@ -3638,6 +3697,8 @@ The economic and social development of the municipalities must form part of the 
 #### Article 300
 
 Every municipality shall have sufficient communal land (tierras ejidales) to ensure its existence and normal development.
+
+· Municipal government
 
 #### Article 301
 
@@ -4095,35 +4156,23 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-- International law
-
-- Provisions for intellectual property
-
-- Right to competitive marketplace
-
-- Reference to art
-
-- Reference to science
-
-- Ownership of natural resources
-
-- Protection of environment
-
 Constitution.
 
 #### Article 334
 
-Commercial companies shall be subject to the control and supervision of an Office of the  Superintendent  of  Companies,  whose  organization  and  operation  shall  be determined by law.
+Commercial companies shall be subject to the control and supervision of an Office of the Superintendent of Companies, whose organization and operation shall be determined by law.
 
 Cooperatives shall be answerable to the agency and in the form and to the extent established by the pertinent laws.
 
+- International law
+
 #### Article 335
 
-The State shall order its external economic relations on the basis of fair international cooperation,  Central  American  economic  integration,  and  respect  for  the  treaties and agreements it signs, insofar as they are not opposed to the national interest.
+The State shall order its external economic relations on the basis of fair international cooperation, Central American economic integration, and respect for the treaties and agreements it signs, insofar as they are not opposed to the national interest.
 
 #### Article 336
 
-Foreign  investment  shall  be  authorized,  registered  and  supervised  by  the  State.  It shall supplement and never substitute for national investment.
+Foreign investment shall be authorized, registered and supervised by the State. It shall supplement and never substitute for national investment.
 
 Foreign enterprises shall be subject to the laws of the Republic.
 
@@ -4133,21 +4182,33 @@ Small-scale industry and commerce is the patrimony of Honduran nationals and its
 
 #### Article 338
 
-The  law  shall  regulate  and  promote  the  organization  of  cooperatives  of  all  kinds, without the basic economic and social principles of this Constitution being altered or eluded.
+The law shall regulate and promote the organization of cooperatives of all kinds, without the basic economic and social principles of this Constitution being altered or eluded.
+
+- Provisions for intellectual property
 
 #### Article 339
 
-Monopolies,  monopsonies,  oligopolies,  hoarding  and  similar  practices  in  industrial and commercial activity are prohibited.
+Monopolies, monopsonies, oligopolies, hoarding and similar practices in industrial and commercial activity are prohibited.
 
-The temporary privileges granted to inventors, discoverers or authors as the rights of  scientific,  literary,  artistic  or  commercial  property,  patents  of  invention  or trademarks are not considered private monopolies.
+- Right to competitive marketplace
+
+The temporary privileges granted to inventors, discoverers or authors as the rights of scientific, literary, artistic or commercial property, patents of invention or trademarks are not considered private monopolies.
+
+- Reference to art
+
+- Reference to science
+
+- Ownership of natural resources
 
 #### Article 340
 
-The  technical  and  rational  exploitation  of  the  natural  resources  of  the  nation  is declared to be of public utility and need.
+The technical and rational exploitation of the natural resources of the nation is declared to be of public utility and need.
 
 The state shall regulate their development in accordance with the social interest and shall establish the conditions for their grant to individuals.
 
 The reforestation of the country and the conservation of forests are declared to be of national importance and collective interest.
+
+- Protection of environment
 
 Honduras 1982 (rev. 2013)
 
@@ -4161,11 +4222,11 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-· Central bank
-
 #### Article 341
 
-The law may establish restrictions, terms or prohibitions for the acquisition, transfer, use  and  enjoyment  of  state  and  municipal  property,  for  reasons  of  public  order, social interest or national expediency.
+The law may establish restrictions, terms or prohibitions for the acquisition, transfer, use and enjoyment of state and municipal property, for reasons of public order, social interest or national expediency.
+
+- Central bank
 
 ### CHAPTER II: CURRENCY AND BANKING
 
@@ -4209,39 +4270,41 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-· Integration of ethnic communities
+Agrarian reform shall be implemented in such a way as to ensure the effective participation of agricultural workers on an equal footing with other sectors of production, in the process of economic, social and political development of the nation.
 
-· Protection of consumers
-
-· Protection from expropriation
-
-· Protection from expropriation Agrarian  reform  shall  be  implemented  in  such  a  way  as  to  ensure  the  effective participation  of  agricultural  workers  on  an  equal  footing  with  other  sectors  of production,  in  the  process  of  economic,  social  and  political  development  of  the nation.
+- Integration of ethnic communities
 
 #### Article 346
 
 It is the duty of the state to adopt measures to protect the rights and interests of the indigenous communities in the country, especially of the lands and forests in which they are settled.
 
+- Protection of consumers
+
 #### Article 347
 
-Agricultural production must be preferably aimed at satisfying the food requirements  of  the  Honduran  population,  within  the  framework  of  a  policy  of adequate supply and fair prices for the producer and the consumer.
+Agricultural production must be preferably aimed at satisfying the food requirements of the Honduran population, within the framework of a policy of adequate supply and fair prices for the producer and the consumer.
 
 #### Article 348
 
-The agrarian reform plans of the National Agrarian Institute and the other decisions of  the  State  in  agrarian  matters  shall  be  formulated  and  implemented  with  the effective  participation  of  legally  recognized  organizations  of  agricultural  workers, farmers, and stock-raisers.
+The agrarian reform plans of the National Agrarian Institute and the other decisions of the State in agrarian matters shall be formulated and implemented with the effective participation of legally recognized organizations of agricultural workers, farmers, and stock-raisers.
+
+- Protection from expropriation
 
 #### Article 349
 
-The expropriation of property for the purpose of agrarian reform or for developing and improving communities, or for any other purposes of national interest determined by the law, shall be carried out on the basis of just compensation by cash payments  and,  where  appropriate,  agrarian  debt  bonds.  These  bonds  shall  be compulsorily  acceptable,  shall  enjoy  sufficient  guarantees  by  the  State,  and  shall have such nominal values, redemption periods, interest rates and other requirements as the agrarian reform law may determine.
+The expropriation of property for the purpose of agrarian reform or for developing and improving communities, or for any other purposes of national interest determined by the law, shall be carried out on the basis of just compensation by cash payments and, where appropriate, agrarian debt bonds. These bonds shall be compulsorily acceptable, shall enjoy sufficient guarantees by the State, and shall have such nominal values, redemption periods, interest rates and other requirements as the agrarian reform law may determine.
+
+- Protection from expropriation
 
 #### Article 350
 
-The property that may be expropriated for the purposes of agrarian reform or the development  and  improvement  of  communities  are  exclusively  rural  holdings  and the useful and necessary improvements attached to them whose severance may be detrimental to the economic production unit.
+The property that may be expropriated for the purposes of agrarian reform or the development and improvement of communities are exclusively rural holdings and the useful and necessary improvements attached to them whose severance may be detrimental to the economic production unit.
 
 ### CHAPTER IV: FINANCIAL REGIME
 
 #### Article 351
 
-The  tax  system  shall  be  governed  by  the  principles  of  legality,  proportionality, generality and equity, in accordance with the economic capacity of the taxpayer.
+The tax system shall be governed by the principles of legality, proportionality, generality and equity, in accordance with the economic capacity of the taxpayer.
 
 Honduras 1982 (rev. 2013)
 
@@ -4255,31 +4318,31 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-- Ownership of natural resources
-
 ### CHAPTER V: PUBLIC WEALTH
 
 #### Article 352
 
 The public wealth comprises:
 
-- All movable and immovable properties of the State;
+1. All movable and immovable properties of the State;
 
-- All its active credits, and
+2. All its active credits, and
 
-- Its net available funds.
+3. Its net available funds.
 
 #### Article 353
 
 The financial obligations of the State are:
 
-- Debts  legally  incurred  for  current  expenditures  or  investment  outlays originating  in  the  execution  of  the  General  Budget  of  revenues  and expenditures, and
+1. Debts legally incurred for current expenditures or investment outlays originating in the execution of the General Budget of revenues and expenditures, and
 
-- Other debts legally recognized by the State.
+2. Other debts legally recognized by the State.
 
 #### Article 354
 
 Fiscal or public properties may be awarded or transferred only to the persons and in the manner and under the conditions determined by law.
+
+- Ownership of natural resources
 
 The State reserves itself the power to establish or modify the demarcation of zones for the control and protection of natural resources in the national territory.
 
@@ -4311,8 +4374,6 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-· Emergency provisions
-
 #### Article 357
 
 The authorizations of external or internal indebtedness of the central government, decentralized agencies and municipal governments, which include State guarantees or endorsements, shall be regulated by law.
@@ -4323,13 +4384,15 @@ Local governments may undertake domestic credit operations under their exclusive
 
 #### Article 359
 
-Public  taxation,  expenditure  and  indebtedness  shall  remain  proportionate  to  the gross domestic product, according to law.
+Public taxation, expenditure and indebtedness shall remain proportionate to the gross domestic product, according to law.
+
+- Emergency provisions
 
 #### Article 360
 
-The  contracts  which  the  State  enters  into  for  the  construction  of  public  works, procurement of supplies and services, purchase or rental of goods, must be executed following a public bidding, competition or auction, according to law.
+The contracts which the State enters into for the construction of public works, procurement of supplies and services, purchase or rental of goods, must be executed following a public bidding, competition or auction, according to law.
 
-The foregoing provision shall not apply to contracts whose purpose is to meet the needs  arising  from  a  state  of  emergency  and  those  which  by  their  nature  can  be entered into only with a specified person.
+The foregoing provision shall not apply to contracts whose purpose is to meet the needs arising from a state of emergency and those which by their nature can be entered into only with a specified person.
 
 ### CHAPTER VI: BUDGET
 
@@ -4337,11 +4400,11 @@ The foregoing provision shall not apply to contracts whose purpose is to meet th
 
 The financial resources of the State are:
 
-- Revenues  received  from  taxes,  fees,  contributions,  royalties,  grants  or under any other heading;
+1. Revenues received from taxes, fees, contributions, royalties, grants or under any other heading;
 
-- Revenues  derived  from  state  enterprises,  mixed  capital  enterprises,  or those in which the state has an equity participation, and
+2. Revenues derived from state enterprises, mixed capital enterprises, or those in which the state has an equity participation, and
 
-- Special revenue derived from public credit or any other sources.
+3. Special revenue derived from public credit or any other sources.
 
 #### Article 362
 
@@ -4361,19 +4424,15 @@ Page 80
 
 [[START OF PAGE 81]]
 
-constituteproject.org · Municipal government
+constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-· International law
+the municipalities in predetermined proportions or amounts.
 
-· Budget bills
+- Municipal government
 
-· Budget bills
-
-· Budget bills the municipalities in predetermined proportions or amounts.
-
-In addition, the law may, in accordance with the planned policy, authorize specified state  enterprises  or  mixed  economy  enterprises  to  collect,  administer,  or  invest financial  resources  derived  from  the  performance  of  the  economic  activities incumbent upon them.
+In addition, the law may, in accordance with the planned policy, authorize specified state enterprises or mixed economy enterprises to collect, administer, or invest financial resources derived from the performance of the economic activities incumbent upon them.
 
 #### Article 364
 
@@ -4383,21 +4442,29 @@ The offenders shall be civilly, criminally and administratively liable.
 
 #### Article 365
 
-The executive branch, under its responsibility and provided the National Congress is not in session, may incur loans, change the purpose of an authorized item, or open additional  credits  for  satisfying  urgent  or  unforeseen  needs  in  the  event  of  war, internal disturbance or public disaster, or for meeting international commitments, all of which are to be accounted for in detail to the National Congress at the subsequent legislative session.
+The executive branch, under its responsibility and provided the National Congress is not in session, may incur loans, change the purpose of an authorized item, or open additional credits for satisfying urgent or unforeseen needs in the event of war, internal disturbance or public disaster, or for meeting international commitments, all of which are to be accounted for in detail to the National Congress at the subsequent legislative session.
+
+- International law
 
 The same procedure shall be followed in the case of obligations of the State arising from final judgments for the payment of employment benefits when no budgetary item exists or when such item has been exhausted.
 
+- Budget bills
+
 #### Article 366
 
-The  budget  shall  be  voted  by  the  legislative  branch  on  the  basis  of  the  proposal submitted by the executive branch.
+The budget shall be voted by the legislative branch on the basis of the proposal submitted by the executive branch.
+
+- Budget bills
 
 #### Article 367
 
-The  proposed  budget  shall  be  submitted  by  the  executive  branch  to  the  National Congress within the first fifteen days of the month of September of each year.
+The proposed budget shall be submitted by the executive branch to the National Congress within the first fifteen days of the month of September of each year.
+
+- Budget bills
 
 #### Article 368
 
-The  organic  budget  law  shall  stipulate  all  matters  relating  to  the  preparation, calculation,  execution  and  liquidation  of  the  budget.  When  the  budget  for  a  new fiscal year has not been voted at the end of the fiscal year, the one corresponding to the previous period shall continue in effect.
+The organic budget law shall stipulate all matters relating to the preparation, calculation, execution and liquidation of the budget. When the budget for a new fiscal year has not been voted at the end of the fiscal year, the one corresponding to the previous period shall continue in effect.
 
 #### Article 369
 
@@ -4417,43 +4484,43 @@ Page 81
 
 constituteproject.org
 
-· Constitution amendment procedure
-
-· Unamendable provisions
+PDF generated: 31 Jul 2018, 01:43
 
 #### Article 371
 
-The preventive inspection of the execution of the General Budget of Revenues and Expenditures  of  the  Republic  shall  be  the  responsibility  of  the  executive  branch, which must in particular:
+The preventive inspection of the execution of the General Budget of Revenues and Expenditures of the Republic shall be the responsibility of the executive branch, which must in particular:
 
-- Check the collection and supervise the custody, commitment and outlay of public funds, and
+1. Check the collection and supervise the custody, commitment and outlay of public funds, and
 
-- Approve all expenditures of public funds, in accordance with the budget.
+2. Approve all expenditures of public funds, in accordance with the budget.
 
 The law shall establish the procedures and scope of this inspection.
 
 #### Article 372
 
-The  preventive  inspection  of  decentralized  institutions  and  municipalities  shall  be carried out in accordance with the provisions of the respective laws.
+The preventive inspection of decentralized institutions and municipalities shall be carried out in accordance with the provisions of the respective laws.
 
 ## TITLE VII: AMENDMENT AND INVIOLABILITY OF THE CONSTITUTION
+
+- Constitution amendment procedure
 
 ### CHAPTER I: AMENDMENT OF THE CONSTITUTION
 
 #### Article 373
 
-The amendment of this Constitution may be decreed by the National Congress, in regular  session,  with  two  thirds  of  the  votes  of  all  its  members.  The  decree  shall specify for that purpose the article or articles that are to be amended, which must be ratified by the subsequent regular legislative session, by the same number of votes, in order to take effect.
+The amendment of this Constitution may be decreed by the National Congress, in regular session, with two thirds of the votes of all its members. The decree shall specify for that purpose the article or articles that are to be amended, which must be ratified by the subsequent regular legislative session, by the same number of votes, in order to take effect.
+
+- Unamendable provisions
 
 #### Article 374
 
-The foregoing article, this article, the articles of the Constitution relating to the form of  government,  national  territory,  the  presidential  term,  the  prohibition  from reelection to the presidency of the Republic, the citizen who has served as President under  any  title,  and  that  referring  to  persons  who  may  not  be  President  of  the Republic for the subsequent period may not be amended in any case.
+The foregoing article, this article, the articles of the Constitution relating to the form of government, national territory, the presidential term, the prohibition from reelection to the presidency of the Republic, the citizen who has served as President under any title, and that referring to persons who may not be President of the Republic for the subsequent period may not be amended in any case.
 
 ### CHAPTER II: THE INVIOLABILITY OF THE CONSTITUTION
 
 #### Article 375
 
-This Constitution does not cease to be in effect nor does it cease to be in force by act of  force  or  when  it  is  allegedly  repealed  or  amended  by  any  means  or  procedure other than that which it itself provides. In these cases, every citizen, whether or not invested with authority, has the duty to cooperate in maintaining or reestablishing its effectiveness.
-
-PDF generated: 31 Jul 2018, 01:43
+This Constitution does not cease to be in effect nor does it cease to be in force by act of force or when it is allegedly repealed or amended by any means or procedure other than that which it itself provides. In these cases, every citizen, whether or not invested with authority, has the duty to cooperate in maintaining or reestablishing its effectiveness.
 
 Honduras 1982 (rev. 2013)
 
@@ -4467,7 +4534,9 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
-Persons  responsible  for  the  events  specified  in  the  first  part  of  the  foregoing paragraph, as well as the principal officials of governments that may subsequently be organized, shall be tried in accordance with this Constitution and the laws issued in conformity  therewith,  if  they  have  not  assisted  in  immediately  reestablishing  the rule  of  this  Constitution  and  the  authorities  constituted  in  accordance  therewith. The  Congress  may,  by  a  vote  of  an  absolute  majority  of  its  members,  decree  the forfeiture of all or part of the property of those same persons and of others who have enriched themselves by supplanting the sovereignty of the people or by usurping the public  powers,  to  compensate  the  Republic  for  any  losses  incurred  on  account  of them.
+Persons responsible for the events specified in the first part of the foregoing paragraph, as well as the principal officials of governments that may subsequently be organized, shall be tried in accordance with this Constitution and the laws issued in conformity therewith, if they have not assisted in immediately reestablishing the rule of this Constitution and the authorities constituted in accordance therewith.
+
+The Congress may, by a vote of an absolute majority of its members, decree the forfeiture of all or part of the property of those same persons and of others who have enriched themselves by supplanting the sovereignty of the people or by usurping the public powers, to compensate the Republic for any losses incurred on account of them.
 
 ## TITLE VIII: TRANSITORY PROVISIONS AND THE ENTRY INTO FORCE OF THE CONSTITUTION
 
@@ -4507,6 +4576,54 @@ PDF generated: 31 Jul 2018, 01:43
 
 # Topic index
 
+## A
+
+Advisory bodies to the head of state . . . 65
+Approval of general legislation . . . 47, 48, 57
+Attendance by legislators . . . 39
+Attorney general . . . 43, 50, 51, 69
+
+## B
+
+Budget bills . . . 44, 81
+
+## C
+
+Cabinet removal . . . 55
+Cabinet selection . . . 55
+Campaign financing . . . 14
+Census . . . 15
+Central bank . . . 77
+Civil service recruitment . . . 60
+Claim of executive independence . . . 4
+Claim of universal suffrage . . . 12, 13
+Compulsory education . . . 34
+Compulsory voting . . . 5, 13
+Conditions for revoking citizenship . . . 10, 13
+Constitution amendment procedure . . . 48, 82
+Constitutional interpretation . . . 42, 71
+Constitutionality of legislation . . . 37, 71
+Customary international law . . . 8
+
+## D
+
+Deputy executive . . . 52, 53, 54
+Designation of commander in chief . . . 56, 64
+Duty to obey the constitution . . . 12
+Duty to serve in the military . . . 12, 63
+
+## E
+
+Economic plans . . . 56, 74
+Electoral court powers . . . 5, 14
+Electoral court selection . . . 14, 43
+Electoral court term length . . . 14
+Eligibility for cabinet . . . 40, 53, 58, 59
+Eligibility for electoral court judges . . . 15
+Eligibility for first chamber . . . 40
+Eligibility for head of state . . . 53
+Eligibility for supreme court judges . . . 59, 69
+
 Honduras 1982 (rev. 2013)
 
 Page 84
@@ -4518,6 +4635,56 @@ Page 84
 constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
+
+Emergency provisions . . . 23, 37, 38, 80
+Equality regardless of gender . . . 16
+Equality regardless of race . . . 16
+Establishment of cabinet/ministers . . . 58
+Establishment of judicial council . . . 42, 69, 70, 71, 72, 75
+Establishment of military courts . . . 20, 63, 65
+Extradition procedure . . . 22
+Extraordinary legislative sessions . . . 38, 39, 46, 55
+
+## F
+
+First chamber selection . . . 38, 41
+Foreign affairs representative . . . 56
+Free education . . . 32, 34
+Freedom of assembly . . . 19
+Freedom of association . . . 19
+Freedom of expression . . . 18
+Freedom of movement . . . 19
+Freedom of opinion/thought/conscience . . . 18
+Freedom of press . . . 18
+Freedom of religion . . . 19
+
+## G
+
+General guarantee of equality . . . 16
+God or other deities . . . 4, 39
+Guarantee of due process . . . 20
+
+## H
+
+Head of state decree power . . . 37, 56, 58
+Head of state powers . . . 55
+Head of state removal . . . 43, 52
+Head of state replacement . . . 54
+Head of state selection . . . 53
+Head of state term length . . . 53
+Head of state term limits . . . 53
+Human dignity . . . 16, 17, 18
+Human rights commission . . . 16, 43, 69
+
+## I
+
+Inalienable rights . . . 16, 17, 19, 21
+Initiation of general legislation . . . 47
+Integration of ethnic communities . . . 78
+International law . . . 7, 8, 10, 22, 25, 36, 44, 48, 55, 56, 58, 63, 70, 75, 76, 81
+International organizations . . . 9, 42, 52, 56
+
+## J
 
 Honduras 1982 (rev. 2013)
 
@@ -4531,6 +4698,57 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
+Judicial independence . . . 4, 68
+
+## L
+
+Leader of first chamber . . . 39
+Legal status of treaties . . . 8
+Legislative committees . . . 46
+Legislative initiatives by citizens . . . 5, 47
+Legislative oversight of the executive . . . 44, 55, 59
+Length of legislative sessions . . . 38
+Limits on employment of children . . . 25, 27
+
+## M
+
+Mentions of social class . . . 16, 74
+Minimum age for first chamber . . . 40
+Minimum age of electoral court judges . . . 15
+Minimum age of head of state . . . 53
+Minimum age of supreme court judges . . . 69
+Motives for writing constitution . . . 4
+Municipal government . . . 66, 67, 81
+
+## N
+
+Name/structure of executive(s) . . . 52
+National anthem . . . 6
+National capital . . . 6
+National flag . . . 6
+
+## O
+
+Oaths to abide by constitution . . . 42, 43, 73
+Official or national languages . . . 6
+Outside professions of legislators . . . 41
+Ownership of natural resources . . . 76, 79
+
+## P
+
+Power to declare/approve war . . . 44, 56
+Power to pardon . . . 56
+Powers of cabinet . . . 58
+Presumption of innocence in trials . . . 20
+Principle of no punishment without law . . . 21
+Privileges for juveniles in criminal process . . . 19, 25
+Prohibition of capital punishment . . . 17
+Prohibition of cruel treatment . . . 17
+Prohibition of double jeopardy . . . 21
+Prohibition of torture . . . 17
+Protection from ex post facto laws . . . 21
+Protection from expropriation . . . 23, 78
+
 Honduras 1982 (rev. 2013)
 
 Page 86
@@ -4543,9 +4761,52 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
+Protection from self-incrimination . . . 20
+Protection from unjustified restraint . . . 19, 35
+Protection of consumers . . . 78
+Protection of environment . . . 30, 63, 76
+Protection of judges' salaries . . . 72
+Protection of stateless persons . . . 22
+Provision for civil marriage . . . 24
+Provision for matrimonial equality . . . 24
+Provisions for intellectual property . . . 23, 76
+
 ## Q
 
+Quorum for legislative sessions . . . 39
+
 ## R
+
+Radio . . . 18
+Reference to art . . . 11, 34, 76
+Reference to fraternity/solidarity . . . 8
+Reference to science . . . 11, 31, 32, 33, 34, 76
+Referenda . . . 5
+Regional group(s) . . . 4, 42, 52
+Regulation of evidence collection . . . 20, 21, 22
+Removal of individual legislators . . . 40, 43, 52
+Replacement of legislators . . . 39
+Requirements for birthright citizenship . . . 9, 11
+Requirements for naturalization . . . 9
+Restrictions on entry or exit . . . 11
+Restrictions on minister of defense . . . 64
+Restrictions on political parties . . . 14
+Restrictions on rights of groups . . . 11, 23
+Restrictions on the armed forces . . . 12, 40, 53, 54, 57, 63
+Right of petition . . . 19
+Right to academic freedom . . . 32
+Right to amparo . . . 36
+Right to appeal judicial decisions . . . 68, 70
+Right to choose occupation . . . 26
+Right to competitive marketplace . . . 76
+Right to counsel . . . 19
+Right to culture . . . 4, 31, 34
+Right to equal pay for work . . . 26
+Right to establish a business . . . 75
+Right to form political parties . . . 12
+Right to found a family . . . 18, 23
+Right to health care . . . 30
+Right to information . . . 36
 
 Honduras 1982 (rev. 2013)
 
@@ -4559,6 +4820,53 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
 
+Right to join trade unions . . . 28, 72
+Right to life . . . 16, 17
+Right to marry . . . 24
+Right to overthrow government . . . 4
+Right to own property . . . 22
+Right to pre-trial release . . . 21
+Right to privacy . . . 18, 21, 22
+Right to protect one's reputation . . . 18
+Right to reasonable standard of living . . . 27, 33
+Right to rest and leisure . . . 27, 28
+Right to safe work environment . . . 26, 27
+Right to self determination . . . 5, 8
+Right to shelter . . . 35
+Right to strike . . . 28, 72
+Right to work . . . 26
+Rights of children . . . 24
+Rights of debtors . . . 21
+
+## S
+
+Secret ballot . . . 13
+Selection of active-duty commanders . . . 57, 64, 65, 66
+Separation of church and state . . . 19, 31
+Size of first chamber . . . 41
+Source of constitutional authority . . . 4
+Standing committees . . . 39, 45, 54, 55
+State operation of the media . . . 18, 34
+State support for children . . . 25, 30
+State support for the disabled . . . 30, 34
+State support for the elderly . . . 24, 30
+State support for the unemployed . . . 30
+Structure of legislative chamber(s) . . . 38
+Structure of the courts . . . 68
+Subsidiary unit government . . . 66
+Supermajority required for legislation . . . 14
+Supreme court powers . . . 70, 71
+Supreme court selection . . . 42, 69, 70
+Supreme court term length . . . 71
+Supreme/ordinary court judge removal . . . 43, 52
+
+## T
+
+Telecommunications . . . 18, 22
+Television . . . 18
+Term length for first chamber . . . 39
+Terrorism . . . 22, 63
+
 Honduras 1982 (rev. 2013)
 
 Page 88
@@ -4570,6 +4878,18 @@ Page 88
 constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:43
+
+Treaty ratification . . . 8, 9, 44, 56
+Type of government envisioned . . . 4
+
+## U
+
+Ultra-vires administrative actions . . . 73
+Unamendable provisions . . . 82
+
+## V
+
+Veto override procedure . . . 47
 
 Honduras 1982 (rev. 2013)
 
