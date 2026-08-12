@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 # ZIMBABWE
 
@@ -18,101 +18,28 @@ This Act may be cited as the Constitution of Zimbabwe Amendment (No. 20) Act, 20
 
 ## 2 Interpretation
 
-In this Act -
+In this Act—
 
-'existing Constitution' means the Constitution of Zimbabwe that came into operation on the 18th April, 1980, as subsequently amended;
+“existing Constitution” means the Constitution of Zimbabwe that came into operation on the 18th April, 1980, as subsequently amended;
 
-'new Constitution' means the Constitution of Zimbabwe set forth in the Schedule.
+“new Constitution” means the Constitution of Zimbabwe set forth in the Schedule.
 
 ## 3 Repeal of existing Constitution by new Constitution
 
-- Subject to subsection (2), the existing Constitution is repealed and substituted by the new Constitution.
+(1) Subject to subsection (2), the existing Constitution is repealed and substituted by the new Constitution.
 
-- For the avoidance of doubt it declared that -
+(2) For the avoidance of doubt it declared that—
 
-(a) the new Constitution is enacted on the ' publication day' as defined in the Sixth Schedule to that Constitution, that is to say, on the date on which this Act is published in the Gazette in accordance with section 51(5) of the existing Constitution; and
+(a) the new Constitution is enacted on the “publication day” as defined in the Sixth Schedule to that Constitution, that is to say, on the date on which this Act is published in the Gazette in accordance with section 51(5) of the existing Constitution; and
 
 (b) with effect from the date of enactment of the new Constitution as described in paragraph (a), the existing Constitution remains in force to the extent specified in the Sixth Schedule of the new Constitution.
 
 1
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
-Law Development Commission zowa@zol.co.zw
-
-Preamble.
-
-Section
-
-- The Republic.
-
-- Supremacy of Constitution.
-
-- Founding values and principles.
-
-- National Flag, National Anthem, Public Seal and Coat of Arms.
-
-- Tiers of government.
-
-- Languages.
-
-- Promotion of public awareness of Constitution.
-
-##### CHAPTER 2
-
-##### NATIONALOBJECTIVES
-
-- Objectives to guide State and all institutions and agencies of government.
-
-- Good governance.
-
-- National unity, peace and stability.
-
-- Fostering of fundamental rights and freedoms.
-
-- Foreign policy.
-
-- National development.
-
-- Empowerment and employment creation.
-
-- Food security.
-
-- Culture.
-
-- Gender balance.
-
-- Fair regional representation.
-
-- Children.
-
-- Youths.
-
-- Elderly persons.
-
-- Persons with disabilities.
-
-- Veterans of the Liberation Struggle.
-
-- Work and labour relations.
-
-- Protection of the family.
-
-- Marriage.
-
-- Education.
-
-- Shelter.
-
-- Health services.
-
-- Social welfare.
-
-- Legal aid.
-
-- Sporting and recreational facilities.
+Law Development Commission
+zowa@zol.co.zw
 
 ## SCHEDULE (SECTION 2)
 
@@ -122,295 +49,363 @@ ___________________
 
 #### ARRANGEMENT OF SECTIONS
 
+Preamble.
+
 ##### CHAPTER 1
 
-##### FOUNDINGPROVISIONS
+##### FOUNDING PROVISIONS
+
+Section
+
+1. The Republic.
+
+2. Supremacy of Constitution.
+
+3. Founding values and principles.
+
+4. National Flag, National Anthem, Public Seal and Coat of Arms.
+
+5. Tiers of government.
+
+6. Languages.
+
+7. Promotion of public awareness of Constitution.
+
+##### CHAPTER 2
+
+##### NATIONAL OBJECTIVES
+
+8. Objectives to guide State and all institutions and agencies of government.
+
+9. Good governance.
+
+10. National unity, peace and stability.
+
+11. Fostering of fundamental rights and freedoms.
+
+12. Foreign policy.
+
+13. National development.
+
+14. Empowerment and employment creation.
+
+15. Food security.
+
+16. Culture.
+
+17. Gender balance.
+
+18. Fair regional representation.
+
+19. Children.
+
+20. Youths.
+
+21. Elderly persons.
+
+22. Persons with disabilities.
+
+23. Veterans of the Liberation Struggle.
+
+24. Work and labour relations.
+
+25. Protection of the family.
+
+26. Marriage.
+
+27. Education.
+
+28. Shelter.
+
+29. Health services.
+
+30. Social welfare.
+
+31. Legal aid.
+
+32. Sporting and recreational facilities.
 
 2
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 Section
 
-- Preservation of traditional knowledge.
+33. Preservation of traditional knowledge.
 
-- Domestication of international instruments.
+34. Domestication of international instruments.
 
-##### CHAPTER3
+##### CHAPTER 3
 
 ##### CITIZENSHIP
 
-- Zimbabwean citizenship.
+35. Zimbabwean citizenship.
 
-- Citizenship by birth.
+36. Citizenship by birth.
 
-- Citizenship by descent.
+37. Citizenship by descent.
 
-- Citizenship by registration.
+38. Citizenship by registration.
 
-- Revocation of citizenship.
+39. Revocation of citizenship.
 
-- Retention of citizenship despite marriage or dissolution of marriage.
+40. Retention of citizenship despite marriage or dissolution of marriage.
 
-- Citizenship and Immigration Board.
+41. Citizenship and Immigration Board.
 
-- Powers of Parliament in regard to citizenship.
+42. Powers of Parliament in regard to citizenship.
 
-- Continuation and restoration of previous citizenship.
+43. Continuation and restoration of previous citizenship.
 
 ##### CHAPTER 4
 
-##### DECLARATION OFRIGHTS
+##### DECLARATION OF RIGHTS
 
 ###### PART 1
 
-###### APPLICATION ANDINTERPRETATION OFCHAPTER4
+###### APPLICATION AND INTERPRETATION OF CHAPTER 4
 
-- Duty to respect fundamental human rights and freedoms.
+44. Duty to respect fundamental human rights and freedoms.
 
-- Application of Chapter 4.
+45. Application of Chapter 4.
 
-- Interpretation of Chapter 4.
+46. Interpretation of Chapter 4.
 
-- Chapter 4 does not preclude existence of other rights.
+47. Chapter 4 does not preclude existence of other rights.
 
 ###### PART 2
 
-###### FUNDAMENTALHUMANRIGHTS ANDFREEDOMS
+###### FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-- Right to life.
+48. Right to life.
 
-- Right to personal liberty.
+49. Right to personal liberty.
 
-- Rights of arrested and detained persons.
+50. Rights of arrested and detained persons.
 
-- Right to human dignity.
+51. Right to human dignity.
 
-- Right to personal security.
+52. Right to personal security.
 
-- Freedom from torture or cruel, inhuman or degrading treatment or punishment.
+53. Freedom from torture or cruel, inhuman or degrading treatment or punishment.
 
-- Freedom from slavery or servitude
+54. Freedom from slavery or servitude
 
-- Freedom from forced or compulsory labour.
+55. Freedom from forced or compulsory labour.
 
-- Equality and non-discrimination.
+56. Equality and non-discrimination.
 
-- Right to privacy.
+57. Right to privacy.
 
-- Freedom of assembly and association.
+58. Freedom of assembly and association.
 
-- Freedom to demonstrate and petition.
+59. Freedom to demonstrate and petition.
 
-- Freedom of conscience.
+60. Freedom of conscience.
 
-- Freedom of expression and freedom of the media.
+61. Freedom of expression and freedom of the media.
 
-- Access to information.
+62. Access to information.
 
-- Language and culture.
+63. Language and culture.
 
-- Freedom of profession, trade or occupation.
+64. Freedom of profession, trade or occupation.
 
-- Labour rights.
+65. Labour rights.
 
-- Freedom of movement and residence.
+66. Freedom of movement and residence.
 
-- Political rights.
+67. Political rights.
 
-- Right to administrative justice.
+68. Right to administrative justice.
 
-- Right to a fair hearing.
+69. Right to a fair hearing.
 
-- Rights of accused persons.
+70. Rights of accused persons.
 
 3
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 Section
 
-- Property rights.
+71. Property rights.
 
-- Rights to agricultural land.
+72. Rights to agricultural land.
 
-- Environmental rights.
+73. Environmental rights.
 
-- Freedom from arbitrary eviction.
+74. Freedom from arbitrary eviction.
 
-- Right to education.
+75. Right to education.
 
-- Right to health care.
+76. Right to health care.
 
-- Right to food and water.
+77. Right to food and water.
 
-- Marriage rights.
+78. Marriage rights.
 
-- Application of Part 3.
+###### PART 3
 
-- Rights of women.
+###### ELABORATION OF CERTAIN RIGHTS
 
-- Rights of children.
+79. Application of Part 3.
 
-- Rights of the elderly.
+80. Rights of women.
 
-- Rights of persons with disabilities.
+81. Rights of children.
 
-- Rights of veterans of the liberation struggle.
+82. Rights of the elderly.
+
+83. Rights of persons with disabilities.
+
+84. Rights of veterans of the liberation struggle.
 
 ###### PART 4
 
-###### ENFORCEMENT OFFUNDAMENTALHUMANRIGHTS ANDFREEDOMS
+###### ENFORCEMENT OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-- Enforcement of fundamental human rights and freedoms.
+85. Enforcement of fundamental human rights and freedoms.
 
 ###### PART 5
 
-###### LIMITATION OFFUNDAMENTALHUMANRIGHTS ANDFREEDOMS
+###### LIMITATION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-- Limitation of rights and freedoms.
+86. Limitation of rights and freedoms.
 
-- Limitations during public emergency.
+87. Limitations during public emergency.
 
 ##### CHAPTER 5
 
-##### THEEXECUTIVE
+##### THE EXECUTIVE
 
-###### PART1
+###### PART 1
 
-###### EXECUTIVEAUTHORITY
+###### EXECUTIVE AUTHORITY
+
+88. Executive authority.
 
 ###### PART 2
 
 ###### THE PRESIDENT AND VICE-PRESIDENTS
 
-- Executive authority.
+89. The President.
 
-- The President.
+90. Duties of President.
 
-- Duties of President.
+91. Qualifications for election as President and Vice-President.
 
-- Qualifications for election as President and Vice-President.
+92. Election of President and Vice-Presidents.
 
-- Election of President and Vice-Presidents.
+93. Challenge to presidential election.
 
-- Challenge to presidential election.
+94. Assumption of office by President and Vice-Presidents.
 
-- Assumption of office by President and Vice-Presidents.
+95. Term of office of President and Vice-Presidents.
 
-- Term of office of President and Vice-Presidents.
+96. Resignation of President or Vice-President.
 
-- Resignation of President or Vice-President.
+97. Removal of President or Vice-President from office.
 
-- Removal of President or Vice-President from office.
+98. Presidential immunity.
 
-- Presidential immunity.
-
-- Functions of Vice-Presidents.
-
-###### PART 3
-
-###### ELABORATION OFCERTAINRIGHTS
+99. Functions of Vice-Presidents.
 
 4
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 Section
 
-- Acting President.
+100. Acting President.
 
-- Succession in event of death, resignation or incapacity of President or VicePresident.
+101. Succession in event of death, resignation or incapacity of President or Vice-President.
 
-- Remuneration of President and Vice-Presidents.
+102. Remuneration of President and Vice-Presidents.
 
-- President and Vice-Presidents and former office-holders not to hold other office or employment.
+103. President and Vice-Presidents and former office-holders not to hold other office or employment.
 
 ###### PART 3
 
 ###### MINISTERS, DEPUTY MINISTERS AND CABINET
 
-- Appointment of Ministers and Deputy Ministers.
+104. Appointment of Ministers and Deputy Ministers.
 
-- Cabinet.
+105. Cabinet.
 
-- Conduct of Vice-Presidents, Ministers and Deputy Ministers.
+106. Conduct of Vice-Presidents, Ministers and Deputy Ministers.
 
-- Accountability of Vice-Presidents, Ministers and Deputy Ministers.
+107. Accountability of Vice-Presidents, Ministers and Deputy Ministers.
 
-- Tenure of office of Ministers and Deputy Ministers.
+108. Tenure of office of Ministers and Deputy Ministers.
 
-- Vote of no confidence in Government.
+109. Vote of no confidence in Government.
 
 ###### PART 4
 
 ###### EXECUTIVE FUNCTIONS
 
-- Executive functions of President and Cabinet.
+110. Executive functions of President and Cabinet.
 
-- War and peace.
+111. War and peace.
 
-- Power of mercy.
+112. Power of mercy.
 
-- States of public emergency.
-
-- The Legislature.
-
-- Nature and extent of legislative authority.
-
-###### PART 2
-
-###### PARLIAMENT
-
-###### PART 3
-
-###### THESENATE
-
-- Parliament.
-
-- Role of Parliament.
-
-- Composition of Senate.
-
-- Qualifications and disqualifications for election as Senator.
-
-- President of Senate.
+113. States of public emergency.
 
 ###### PART 5
 
 ###### ATTORNEY-GENERAL
 
-- Attorney-General.
+114. Attorney-General.
 
-- Removal from office of Attorney-General.
+115. Removal from office of Attorney-General.
 
 ##### CHAPTER 6
 
-##### THELEGISLATURE
+##### THE LEGISLATURE
 
 ###### PART 1
 
 ###### LEGISLATIVE AUTHORITY
 
-5
+116. The Legislature.
 
+117. Nature and extent of legislative authority.
+
+###### PART 2
+
+###### PARLIAMENT
+
+118. Parliament.
+
+119. Role of Parliament.
+
+###### PART 3
+
+###### THE SENATE
+
+120. Composition of Senate.
+
+121. Qualifications and disqualifications for election as Senator.
+
+122. President of Senate.
+
+5
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 Section
 
@@ -418,129 +413,98 @@ Section
 
 ###### PART 4
 
-###### THENATIONALASSEMBLY
+###### THE NATIONAL ASSEMBLY
 
-- Composition of National Assembly.
+124. Composition of National Assembly.
 
-- Qualifications and disqualifications for election to National Assembly.
+125. Qualifications and disqualifications for election to National Assembly.
 
-- Speaker of National Assembly.
+126. Speaker of National Assembly.
 
-- Deputy Speaker of National Assembly.
+127. Deputy Speaker of National Assembly.
 
 ###### PART 5
 
-###### TENURE OFMEMBERS OFPARLIAMENT
+###### TENURE OF MEMBERS OF PARLIAMENT
 
-- Oath of Member of Parliament.
+128. Oath of Member of Parliament.
 
-- Tenure of seat of Member of Parliament.
+129. Tenure of seat of Member of Parliament.
 
 ###### PART 6
 
-###### LEGISLATIVEANDOTHERPOWERS
+###### LEGISLATIVE AND OTHER POWERS
 
-- Powers and functions of Senate and National Assembly.
+130. Powers and functions of Senate and National Assembly.
 
-- Acts of Parliament and procedure for their enactment.
+131. Acts of Parliament and procedure for their enactment.
 
-- Commencement of Acts of Parliament.
+132. Commencement of Acts of Parliament.
 
-- Enrolment of Acts of Parliament.
+133. Enrolment of Acts of Parliament.
 
-- Subsidiary legislation.
+134. Subsidiary legislation.
 
 ###### PART 7
 
-###### PROCEDURE INPARLIAMENT
+###### PROCEDURE IN PARLIAMENT
 
-- Head of Parliament.
+135. Head of Parliament.
 
-- Persons presiding in Parliament.
+136. Persons presiding in Parliament.
 
-- Quorum in Parliament.
+137. Quorum in Parliament.
 
-- Voting and right of audience in Parliament.
+138. Voting and right of audience in Parliament.
 
-- Standing Orders.
+139. Standing Orders.
 
-- Presidential addresses and messages to Parliament.
+140. Presidential addresses and messages to Parliament.
 
-- Public access to and involvement in Parliament.
+141. Public access to and involvement in Parliament.
 
-- Validity of proceedings in Parliament.
+142. Validity of proceedings in Parliament.
 
 ###### PART 8
 
-###### DURATION, DISSOLUTION ANDSITTINGS OFPARLIAMENT
+###### DURATION, DISSOLUTION AND SITTINGS OF PARLIAMENT
 
-- Duration and dissolution of Parliament.
+143. Duration and dissolution of Parliament.
 
-- General election resulting from dissolution of Parliament.
+144. General election resulting from dissolution of Parliament.
 
-- First sitting of Parliament following general election.
+145. First sitting of Parliament following general election.
 
-- Sittings and recess periods.
+146. Sittings and recess periods.
 
-- Lapsing of Bills, motions, petitions and other business on dissolution of Parliament.
+147. Lapsing of Bills, motions, petitions and other business on dissolution of Parliament.
 
 ###### PART 9
 
-###### GENERALMATTERSRELATING TOPARLIAMENT
+###### GENERAL MATTERS RELATING TO PARLIAMENT
 
-- Privileges and immunities of Parliament.
+148. Privileges and immunities of Parliament.
 
-- Right to petition Parliament.
+149. Right to petition Parliament.
 
-- Venue of Parliament.
+150. Venue of Parliament.
 
-- Committee on Standing Rules and Orders.
+151. Committee on Standing Rules and Orders.
 
 6
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 Section
 
-- Parliamentary Legal Committee.
+152. Parliamentary Legal Committee.
 
-- Remuneration of President of Senate, Speaker and Members of Parliament.
+153. Remuneration of President of Senate, Speaker and Members of Parliament.
 
-- Clerk of Parliament and other staff.
-
-- Judicial authority.
-
-- The judiciary.
-
-- Independence of judiciary.
-
-- Principles guiding judiciary.
-
-- Constitutional Court.
-
-- Jurisdiction of Constitutional Court.
-
-- Supreme Court.
-
-- Jurisdiction of Supreme Court.
-
-- High Court.
-
-- Jurisdiction of High Court.
-
-- Labour Court.
-
-- Administrative Court.
-
-- Other courts and tribunals.
-
-- Powers of courts in constitutional matters.
-
-- Inherent powers of Constitutional Court, Supreme Court and High Court.
+154. Clerk of Parliament and other staff.
 
 ##### CHAPTER 7
 
@@ -548,326 +512,361 @@ Section
 
 ###### PART 1
 
-###### ELECTORALSYSTEMS ANDPROCESSES
+###### ELECTORAL SYSTEMS AND PROCESSES
 
-- Principles of electoral system.
+155. Principles of electoral system.
 
-- Conduct of elections and referendums.
+156. Conduct of elections and referendums.
 
-- Electoral Law.
-
-- Timing of elections.
-
-- Filling of electoral vacancies.
-
-###### PART 3
-
-###### DELIMITATION OFELECTORALBOUNDARIES
-
-- Number of constituencies and wards.
-
-- Delimitation of electoral boundaries.
-
-##### CHAPTER 8
-
-##### THEJUDICIARY AND THECOURTS
-
-###### PART 1
-
-###### THECOURTSYSTEM
+157. Electoral Law.
 
 ###### PART 2
 
-###### TIMING OFELECTIONS
+###### TIMING OF ELECTIONS
 
-7
+158. Timing of elections.
 
-[[END OF PAGE 7]]
-
-[[START OF PAGE 8]]
-
-Law Development Commission zowa@zol.co.zw
-
-Section
-
-- Qualifications of judges of Constitutional Court.
-
-- Qualifications of judges of Supreme Court.
-
-- Qualifications of judges of High Court, Labour Court and Administrative Court.
-
-- Appointment of judges.
-
-- Acting judicial appointments.
-
-- Appointment of magistrates and other members of judiciary.
-
-- Judicial officers not to be appointed to more than one court.
-
-- Judicial appointments to reflect society.
-
-- Oath of office.
-
-- Tenure of office of judges.
-
-- Removal of judges from office.
-
-- Conditions of service and tenure of members of judiciary.
+159. Filling of electoral vacancies.
 
 ###### PART 3
 
-###### JUDICIAL SERVICE COMMISSION
+###### DELIMITATION OF ELECTORAL BOUNDARIES
 
-- Establishment and composition of Judicial Service Commission.
+160. Number of constituencies and wards.
 
-- Functions of Judicial Service Commission.
+161. Delimitation of electoral boundaries.
 
-- Fairness and transparency of proceedings of Judicial Service Commission.
+##### CHAPTER 8
 
-###### PART 4
+##### THE JUDICIARY AND THE COURTS
 
-###### GENERAL
+###### PART 1
 
-##### CHAPTER 9
+###### THE COURT SYSTEM
 
-##### PRINCIPLES OF PUBLIC ADMINISTRATION AND LEADERSHIP
+162. Judicial authority.
 
-- Basic values and principles governing public administration.
+163. The judiciary.
 
-- State-controlled commercial entities.
+164. Independence of judiciary.
 
-- Responsibilities of public officers and principles of leadership.
+165. Principles guiding judiciary.
 
-- Terms of office of heads of government-controlled entities.
+166. Constitutional Court.
 
-- Legislation to enforce Chapter 9.
+167. Jurisdiction of Constitutional Court.
 
-- Law to be administered.
+168. Supreme Court.
 
-- Criminal jurisdiction of courts.
+169. Jurisdiction of Supreme Court.
+
+170. High Court.
+
+171. Jurisdiction of High Court.
+
+172. Labour Court.
+
+173. Administrative Court.
+
+174. Other courts and tribunals.
+
+175. Powers of courts in constitutional matters.
+
+176. Inherent powers of Constitutional Court, Supreme Court and High Court.
+
+7
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+Law Development Commission
+zowa@zol.co.zw
 
 ###### PART 2
 
 ###### APPOINTMENT AND TENURE OF MEMBERS OF JUDICIARY
 
+Section
+
+177. Qualifications of judges of Constitutional Court.
+
+178. Qualifications of judges of Supreme Court.
+
+179. Qualifications of judges of High Court, Labour Court and Administrative Court.
+
+180. Appointment of judges.
+
+181. Acting judicial appointments.
+
+182. Appointment of magistrates and other members of judiciary.
+
+183. Judicial officers not to be appointed to more than one court.
+
+184. Judicial appointments to reflect society.
+
+185. Oath of office.
+
+186. Tenure of office of judges.
+
+187. Removal of judges from office.
+
+188. Conditions of service and tenure of members of judiciary.
+
+###### PART 3
+
+###### JUDICIAL SERVICE COMMISSION
+
+189. Establishment and composition of Judicial Service Commission.
+
+190. Functions of Judicial Service Commission.
+
+191. Fairness and transparency of proceedings of Judicial Service Commission.
+
+###### PART 4
+
+###### GENERAL
+
+192. Law to be administered.
+
+193. Criminal jurisdiction of courts.
+
+##### CHAPTER 9
+
+##### PRINCIPLES OF PUBLIC ADMINISTRATION AND LEADERSHIP
+
+194. Basic values and principles governing public administration.
+
+195. State-controlled commercial entities.
+
+196. Responsibilities of public officers and principles of leadership.
+
+197. Terms of office of heads of government-controlled entities.
+
+198. Legislation to enforce Chapter 9.
+
 ##### CHAPTER 10
 
 ##### CIVIL SERVICE
 
-> 199. Civil Service.
+199. Civil Service.
 
-- Conduct of members of Civil Service.
+200. Conduct of members of Civil Service.
 
-- Minister responsible for Civil Service.
+201. Minister responsible for Civil Service.
 
-- Establishment and composition of Civil Service Commission.
+202. Establishment and composition of Civil Service Commission.
 
-- Functions of Civil Service Commission.
+203. Functions of Civil Service Commission.
 
-- Ambassadors and other principal representatives of Zimbabwe.
+204. Ambassadors and other principal representatives of Zimbabwe.
 
-- Permanent Secretaries.
+205. Permanent Secretaries.
 
 8
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
-Law Development Commission zowa@zol.co.zw
-
-Section
-
-- National security.
-
-- Security services.
-
-- Conduct of members of security services.
-
-- National Security Council.
-
-- Independent complaints mechanism.
-
-###### PART 2
-
-###### DEFENCE FORCES
-
-- Defence Forces.
-
-- Function of Defence Forces.
-
-- Deployment of Defence Forces.
-
-- Political accountability for deployment of Defence Forces.
-
-- Minister responsible for Defence Forces.
-
-- Command of Defence Forces.
-
-- Establishment and composition of Defence Forces Service Commission.
-
-- Functions of Defence Forces Service Commission.
-
-###### PART 3
-
-###### POLICE SERVICE
-
-- Police Service and its functions.
-
-- Minister responsible for Police Service.
-
-- Commissioner-General of Police.
-
-- Establishment and composition of Police Service Commission.
-
-- Functions of Police Service Commission.
-
-###### PART 4
-
-###### INTELLIGENCE SERVICES
-
-- Establishment of intelligence services.
-
-- Minister responsible for national intelligence service.
-
-- Command or control of national intelligence service.
-
-###### PART 5
-
-###### PRISONS AND CORRECTIONAL SERVICE
-
-- Prisons and Correctional Service and its functions.
-
-- Minister responsible for Prisons and Correctional Service.
-
-- Commissioner-General of Prisons and Correctional Service.
-
-- Establishment and composition of Prisons and Correctional Service Commission.
-
-- Functions of Prisons and Correctional Service Commission.
+Law Development Commission
+zowa@zol.co.zw
 
 ##### CHAPTER 11
 
-##### SECURITYSERVICES
+##### SECURITY SERVICES
 
 ###### PART 1
 
 ###### GENERAL PROVISIONS
 
-9
-
-[[END OF PAGE 9]]
-
-[[START OF PAGE 10]]
-
-Law Development Commission zowa@zol.co.zw
-
 Section
 
-- Independent Commissions.
+206. National security.
 
-- Objectives of independent Commissions.
+207. Security services.
 
-- Staff of independent Commissions.
+208. Conduct of members of security services.
 
-- Independence of Commissions.
+209. National Security Council.
 
-- Members of independent Commissions to be non-political.
-
-- Appointment and removal from office of members of independent Commissions.
+210. Independent complaints mechanism.
 
 ###### PART 2
 
-###### ZIMBABWEELECTORALCOMMISSION
+###### DEFENCE FORCES
 
-- Establishment and composition of Zimbabwe Electoral Commission.
+211. Defence Forces.
 
-- Functions of Zimbabwe Electoral Commission.
+212. Function of Defence Forces.
 
-- Disqualifications for appointment to Zimbabwe Electoral Commission.
+213. Deployment of Defence Forces.
 
-- Zimbabwe Electoral Commission to report on elections and referendums.
+214. Political accountability for deployment of Defence Forces.
+
+215. Minister responsible for Defence Forces.
+
+216. Command of Defence Forces.
+
+217. Establishment and composition of Defence Forces Service Commission.
+
+218. Functions of Defence Forces Service Commission.
 
 ###### PART 3
 
-###### ZIMBABWEHUMANRIGHTSCOMMISSION
+###### POLICE SERVICE
 
-- Establishment and composition of Zimbabwe Human Rights Commission.
+219. Police Service and its functions.
 
-- Functions of Zimbabwe Human Rights Commission.
+220. Minister responsible for Police Service.
 
-- Reports to and by Zimbabwe Human Rights Commission.
+221. Commissioner-General of Police.
+
+222. Establishment and composition of Police Service Commission.
+
+223. Functions of Police Service Commission.
 
 ###### PART 4
 
-###### ZIMBABWEGENDERCOMMISSION
+###### INTELLIGENCE SERVICES
 
-- Establishment and composition of Zimbabwe Gender Commission.
+224. Establishment of intelligence services.
 
-- Functions of Zimbabwe Gender Commission.
+225. Minister responsible for national intelligence service.
 
-- Reports by Zimbabwe Gender Commission.
+226. Command or control of national intelligence service.
 
 ###### PART 5
 
-###### ZIMBABWEMEDIACOMMISSION
+###### PRISONS AND CORRECTIONAL SERVICE
 
-- Establishment and composition of Zimbabwe Media Commission.
+227. Prisons and Correctional Service and its functions.
 
-- Functions of Zimbabwe Media Commission.
+228. Minister responsible for Prisons and Correctional Service.
 
-- Reports of Zimbabwe Media Commission.
+229. Commissioner-General of Prisons and Correctional Service.
 
-###### PART 6
+230. Establishment and composition of Prisons and Correctional Service Commission.
 
-###### NATIONALPEACE AND RECONCILIATIONCOMMISSION
+231. Functions of Prisons and Correctional Service Commission.
 
-- Establishment and composition of National Peace and Reconciliation Commission.
+9
+[[END OF PAGE 9]]
 
-- Functions of National Peace and Reconciliation Commission.
-
-- Reports of National Peace and Reconciliation Commission.
+[[START OF PAGE 10]]
+Law Development Commission
+zowa@zol.co.zw
 
 ##### CHAPTER 12
-##### INDEPENDENTCOMMISSIONSSUPPORTINGDEMOCRACY
+
+##### INDEPENDENT COMMISSIONS SUPPORTING DEMOCRACY
 
 ###### PART 1
 
 ###### GENERAL
 
-10
+Section
 
+232. Independent Commissions.
+
+233. Objectives of independent Commissions.
+
+234. Staff of independent Commissions.
+
+235. Independence of Commissions.
+
+236. Members of independent Commissions to be non-political.
+
+237. Appointment and removal from office of members of independent Commissions.
+
+###### PART 2
+
+###### ZIMBABWE ELECTORAL COMMISSION
+
+238. Establishment and composition of Zimbabwe Electoral Commission.
+
+239. Functions of Zimbabwe Electoral Commission.
+
+240. Disqualifications for appointment to Zimbabwe Electoral Commission.
+
+241. Zimbabwe Electoral Commission to report on elections and referendums.
+
+###### PART 3
+
+###### ZIMBABWE HUMAN RIGHTS COMMISSION
+
+242. Establishment and composition of Zimbabwe Human Rights Commission.
+
+243. Functions of Zimbabwe Human Rights Commission.
+
+244. Reports to and by Zimbabwe Human Rights Commission.
+
+###### PART 4
+
+###### ZIMBABWE GENDER COMMISSION
+
+245. Establishment and composition of Zimbabwe Gender Commission.
+
+246. Functions of Zimbabwe Gender Commission.
+
+247. Reports by Zimbabwe Gender Commission.
+
+###### PART 5
+
+###### ZIMBABWE MEDIA COMMISSION
+
+248. Establishment and composition of Zimbabwe Media Commission.
+
+249. Functions of Zimbabwe Media Commission.
+
+250. Reports of Zimbabwe Media Commission.
+
+###### PART 6
+
+###### NATIONAL PEACE AND RECONCILIATION COMMISSION
+
+251. Establishment and composition of National Peace and Reconciliation Commission.
+
+252. Functions of National Peace and Reconciliation Commission.
+
+253. Reports of National Peace and Reconciliation Commission.
+
+10
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+Law Development Commission
+zowa@zol.co.zw
 
-Law Development Commission zowa@zol.co.zw
+##### CHAPTER 13
+
+##### INSTITUTIONS TO COMBAT CORRUPTION AND CRIME
+
+###### PART 1
+
+###### ZIMBABWE ANTI-CORRUPTION COMMISSION
 
 Section
 
-- Establishment and composition of Zimbabwe Anti-Corruption Commission.
+254. Establishment and composition of Zimbabwe Anti-Corruption Commission.
 
-- Functions of Zimbabwe Anti-Corruption Commission.
+255. Functions of Zimbabwe Anti-Corruption Commission.
 
-- Application of certain provisions of Chapter 12 to Zimbabwe Anti-Corruption Commission.
+256. Application of certain provisions of Chapter 12 to Zimbabwe Anti-Corruption Commission.
 
-- Reports by Zimbabwe Anti-Corruption Commission.
+257. Reports by Zimbabwe Anti-Corruption Commission.
 
 ###### PART 2
 
 ###### NATIONAL PROSECUTING AUTHORITY
 
-- Establishment and functions of National Prosecuting Authority.
+258. Establishment and functions of National Prosecuting Authority.
 
-- Prosecutor-General and other officers.
+259. Prosecutor-General and other officers.
 
-- Independence of Prosecutor-General.
+260. Independence of Prosecutor-General.
 
-- Conduct of officers of National Prosecuting Authority.
+261. Conduct of officers of National Prosecuting Authority.
 
-- Prosecutor-General to report annually to Parliament.
+262. Prosecutor-General to report annually to Parliament.
 
-- Other powers of prosecution.
+263. Other powers of prosecution.
 
 ##### CHAPTER 14
 
@@ -879,107 +878,98 @@ Section
 
 ###### PRELIMINARY
 
-- Devolution of governmental powers and responsibilities.
+264. Devolution of governmental powers and responsibilities.
 
-- General principles of provincial and local government.
+265. General principles of provincial and local government.
 
-- Conduct of employees of provincial and local governments.
+266. Conduct of employees of provincial and local governments.
 
 ###### PART 2
 
 ###### PROVINCES AND PROVINCIAL AND METROPOLITAN COUNCILS
 
-- Provinces and districts of Zimbabwe.
+267. Provinces and districts of Zimbabwe.
 
-- Provincial councils.
+268. Provincial councils.
 
-- Metropolitan councils.
+269. Metropolitan councils.
 
-- Functions of provincial and metropolitan councils.
+270. Functions of provincial and metropolitan councils.
 
-- Committees of provincial councils.
+271. Committees of provincial councils.
 
-- Chairpersons of provincial councils.
+272. Chairpersons of provincial councils.
 
-- General provisions relating to provincial and metropolitan councils.
+273. General provisions relating to provincial and metropolitan councils.
 
 ###### PART 3
 
 ###### LOCAL GOVERNMENT
 
-- Urban local authorities
+274. Urban local authorities
 
-- Local authorities for rural areas.
+275. Local authorities for rural areas.
 
-- Functions of local authorities.
+276. Functions of local authorities.
 
-- Elections to local authorities.
+277. Elections to local authorities.
 
-- Tenure of seats of members of local authorities.
+278. Tenure of seats of members of local authorities.
 
-- Procedure of local authorities.
-
-##### CHAPTER 13
-
-##### INSTITUTIONS TO COMBAT CORRUPTION AND CRIME
-
-###### PART 1
-
-###### ZIMBABWE ANTI-CORRUPTION COMMISSION
+279. Procedure of local authorities.
 
 11
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
-Law Development Commission zowa@zol.co.zw
-
-Section
-
-- Traditional leadership.
-
-- Principles to be observed by traditional leaders.
-
-- Functions of traditional leaders.
-
-- Appointment and removal of traditional leaders.
-
-- Remuneration and benefits of traditional leaders.
-
-- National Council and provincial assemblies of Chiefs.
-
-- Functions of National Council and provincial assemblies of Chiefs.
-
-- Integrity and Ethics Committee.
+Law Development Commission
+zowa@zol.co.zw
 
 ##### CHAPTER 15
 
 ##### TRADITIONAL LEADERS
 
+Section
+
+280. Traditional leadership.
+
+281. Principles to be observed by traditional leaders.
+
+282. Functions of traditional leaders.
+
+283. Appointment and removal of traditional leaders.
+
+284. Remuneration and benefits of traditional leaders.
+
+285. National Council and provincial assemblies of Chiefs.
+
+286. Functions of National Council and provincial assemblies of Chiefs.
+
+287. Integrity and Ethics Committee.
+
 ##### CHAPTER 16
 
 ##### AGRICULTURAL LAND
 
-- Interpretation of Chapter 16.
+288. Interpretation of Chapter 16.
 
-- Principles guiding policy on agricultural land.
+289. Principles guiding policy on agricultural land.
 
-- Continuation of rights of State in agricultural land.
+290. Continuation of rights of State in agricultural land.
 
-- Continuation of rights of occupiers of agricultural land.
+291. Continuation of rights of occupiers of agricultural land.
 
-- Security of tenure for occupiers of agricultural land.
+292. Security of tenure for occupiers of agricultural land.
 
-- Alienation of agricultural land by State.
+293. Alienation of agricultural land by State.
 
-- Alienation of agricultural land by owners or occupiers.
+294. Alienation of agricultural land by owners or occupiers.
 
-- Compensation for acquisition of previously-acquired agricultural land.
+295. Compensation for acquisition of previously-acquired agricultural land.
 
-- Establishment and composition of Zimbabwe Land Commission.
+296. Establishment and composition of Zimbabwe Land Commission.
 
-- Functions of Zimbabwe Land Commission.
+297. Functions of Zimbabwe Land Commission.
 
 ##### CHAPTER 17
 
@@ -989,41 +979,44 @@ Section
 
 ###### FINANCIAL MANAGEMENT
 
-- Principles of public financial management.
+298. Principles of public financial management.
 
-- Parliamentary oversight of State revenues and expenditure.
+299. Parliamentary oversight of State revenues and expenditure.
 
-- Limits of State borrowings, public debt and State guarantees.
+300. Limits of State borrowings, public debt and State guarantees.
 
-- Allocation of revenues between provincial and local tiers of government.
+301. Allocation of revenues between provincial and local tiers of government.
 
 ###### PART 2
 
 ###### CONSOLIDATED REVENUE FUND
 
-- Consolidated Revenue Fund.
+302. Consolidated Revenue Fund.
 
-- Withdrawals from Consolidated Revenue Fund.
+303. Withdrawals from Consolidated Revenue Fund.
 
-- Charges upon Consolidated Revenue Fund.
+304. Charges upon Consolidated Revenue Fund.
 
 ###### PART 3
 
 ###### AUTHORISATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND
 
-- Appropriations from Consolidated Revenue Fund.
+305. Appropriations from Consolidated Revenue Fund.
 
-- Authorisation of expenditure in advance of appropriation.
+306. Authorisation of expenditure in advance of appropriation.
 
-- Unauthorised expenditure.
+307. Unauthorised expenditure.
 
 12
-
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+Law Development Commission
+zowa@zol.co.zw
 
-Law Development Commission zowa@zol.co.zw
+###### PART 4
+
+###### SAFEGUARDING OF PUBLIC FUNDS AND PROPERTY
 
 Section
 
@@ -1033,27 +1026,27 @@ Section
 
 ###### AUDITOR-GENERAL
 
-- Auditor-General and his or her functions.
+309. Auditor-General and his or her functions.
 
-- Appointment of Auditor-General.
+310. Appointment of Auditor-General.
 
-- Independence of Auditor-General.
+311. Independence of Auditor-General.
 
-- Remuneration of Auditor-General.
+312. Remuneration of Auditor-General.
 
-- Removal of Auditor-General from office.
+313. Removal of Auditor-General from office.
 
-- Staff of Auditor-General.
+314. Staff of Auditor-General.
 
 ###### PART 6
 
 ###### GENERAL
 
-- Procurement and other governmental contracts.
+315. Procurement and other governmental contracts.
 
-- Management of statutory bodies.
+316. Management of statutory bodies.
 
-- Reserve Bank of Zimbabwe.
+317. Reserve Bank of Zimbabwe.
 
 ##### CHAPTER 18
 
@@ -1063,85 +1056,78 @@ Section
 
 ###### GENERAL PROVISIONS AS TO COMMISSIONS
 
-- Application of Part 1.
+318. Application of Part 1.
 
-- Commissions to be bodies corporate.
+319. Commissions to be bodies corporate.
 
-- Membership of Commissions and conditions of service of members.
+320. Membership of Commissions and conditions of service of members.
 
-- Functions and procedure of Commissions.
+321. Functions and procedure of Commissions.
 
-- Funding of Commissions.
+322. Funding of Commissions.
 
-- Commissions to report annually to Parliament.
+323. Commissions to report annually to Parliament.
 
 ###### PART 2
 
 ###### GENERAL
 
-- Diligent performance of constitutional obligations.
+324. Diligent performance of constitutional obligations.
 
-- Funding of constitutional bodies and other institutions.
+325. Funding of constitutional bodies and other institutions.
 
-- Customary international law.
+326. Customary international law.
 
-- International conventions, treaties and agreements.
+327. International conventions, treaties and agreements.
 
-- Amendment of Constitution.
+328. Amendment of Constitution.
 
-- Commencement of Constitution, transitional provisions and savings.
+329. Commencement of Constitution, transitional provisions and savings.
 
 ###### PART 3
 
 ###### INTERPRETATION
 
-- Application of Part 3.
+330. Application of Part 3.
 
-- General principles of interpretation of the Constitution.
+331. General principles of interpretation of the Constitution.
 
-- Definitions.
+332. Definitions.
 
-- References to Chapters, sections, etc.
+333. References to Chapters, sections, etc.
 
-- Words in singular to include plural, and vice versa.
-
-###### PART 4
-
-###### SAFEGUARDING OF PUBLIC FUNDS AND PROPERTY
+334. Words in singular to include plural, and vice versa.
 
 13
-
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
 Law Development Commission
-
 zowa@zol.co.zw
 
 Section
 
-- Tables and headings.
+335. Tables and headings.
 
-- References to time.
+336. References to time.
 
-- References to holders of office.
+337. References to holders of office.
 
-- References to Parliament.
+338. References to Parliament.
 
-- Advice and consultation.
+339. Advice and consultation.
 
-- Appointments.
+340. Appointments.
 
-- Resignations.
+341. Resignations.
 
-- Exercise of functions, etc.
+342. Exercise of functions, etc.
 
-- When person not regarded as holding public office.
+343. When person not regarded as holding public office.
 
-- Quorum and effect of vacancies in constitutional bodies.
+344. Quorum and effect of vacancies in constitutional bodies.
 
-- Inconsistencies between different texts of Constitution.
+345. Inconsistencies between different texts of Constitution.
 
 FIRST SCHEDULE: National Flag, National Anthem, National Coat of Arms and Public Seal.
 
@@ -1156,12 +1142,13 @@ FIFTH SCHEDULE: Procedure as to Bills and Other Matters in Parliament.
 SIXTH SCHEDULE: Commencement of this Constitution, Transitional Provisions and Savings.
 
 14
-
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+Law Development Commission
+zowa@zol.co.zw
 
-Law Development Commission zowa@zol.co.zw
+#### PREAMBLE
 
 We the people of Zimbabwe,
 
@@ -1179,21 +1166,26 @@ Acknowledging the richness of our natural resources,
 
 Celebrating the vibrancy of our traditions and cultures,
 
-Determined to overcome all challenges and obstacles that impede our progress, Cherishing freedom, equality, peace, justice, tolerance, prosperity and patriotism in search of new frontiers under a common destiny,
+Determined to overcome all challenges and obstacles that impede our progress,
 
-Acknowledging the supremacy of Almighty God, in whose hands our future lies, Resolve by the tenets of this Constitution to commit ourselves to build a united, just and prosperous nation, founded on values of transparency, equality, freedom, fairness, honesty and the dignity of hard work,
+Cherishing freedom, equality, peace, justice, tolerance, prosperity and patriotism in search of new frontiers under a common destiny,
+
+Acknowledging the supremacy of Almighty God, in whose hands our future lies,
+
+Resolve by the tenets of this Constitution to commit ourselves to build a united, just and prosperous nation, founded on values of transparency, equality, freedom, fairness, honesty and the dignity of hard work,
 
 And, imploring the guidance and support of Almighty God, hereby make this Constitution and commit ourselves to it as the fundamental law of our beloved land.
 
 15
-
-#### PREAMBLE
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+Law Development Commission
+zowa@zol.co.zw
 
-Law Development Commission zowa@zol.co.zw
+#### CHAPTER 1
+
+#### FOUNDING PROVISIONS
 
 ##### 1 The Republic
 
@@ -1207,7 +1199,7 @@ Zimbabwe is a unitary, democratic and sovereign republic.
 
 ##### 3 Founding values and principles
 
-(1) Zimbabwe is founded on respect for the following values and principles -
+(1) Zimbabwe is founded on respect for the following values and principles—
 
 (a) supremacy of the Constitution;
 
@@ -1215,7 +1207,7 @@ Zimbabwe is a unitary, democratic and sovereign republic.
 
 (c) fundamental human rights and freedoms;
 
-(d) the nation ' s diverse cultural, religious and traditional values;
+(d) the nation’s diverse cultural, religious and traditional values;
 
 (e) recognition of the inherent dignity and worth of each human being;
 
@@ -1227,11 +1219,11 @@ Zimbabwe is a unitary, democratic and sovereign republic.
 
 (i) recognition of and respect for the liberation struggle.
 
-(2) The principles of good governance, which bind the State and all institutions and agencies of government at every level, include -
+(2) The principles of good governance, which bind the State and all institutions and agencies of government at every level, include—
 
 (a) a multi-party democratic political system;
 
-(b) an electoral system based on -
+(b) an electoral system based on—
 
 (i) universal adult suffrage and equality of votes;
 
@@ -1251,7 +1243,7 @@ Zimbabwe is a unitary, democratic and sovereign republic.
 
 (h) the fostering of national unity, peace and stability, with due regard to diversity of languages, customary practices and traditions;
 
-(i) recognition of the rights of -
+(i) recognition of the rights of—
 
 (i) ethnic, racial, cultural, linguistic and religious groups;
 
@@ -1263,17 +1255,12 @@ Zimbabwe is a unitary, democratic and sovereign republic.
 
 (j) the equitable sharing of national resources, including land;
 
-#### CHAPTER 1
-
-#### FOUNDING PROVISIONS
-
 16
-
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 (k) due respect for vested rights; and
 
@@ -1285,13 +1272,13 @@ Zimbabwe has a National Flag, a National Anthem, a Coat of Arms and a Public sea
 
 ##### 5 Tiers of government
 
-The tiers of government in Zimbabwe are -
+The tiers of government in Zimbabwe are—
 
 (a) the national Government;
 
 (b) provincial and metropolitan councils; and
 
-(c) local authorities, that is to say -
+(c) local authorities, that is to say—
 
 (i) urban councils, by whatever name called, to represent and manage the affairs of people in urban areas; and
 
@@ -1299,11 +1286,11 @@ The tiers of government in Zimbabwe are -
 
 ##### 6 Languages
 
-(1) The following languages, namely Chewa, Chibarwe, English, Kalanga, Koisan, Nambya, Ndau, Ndebele, Shangani, Shona, sign language, Sotho, Tonga, Tswana, Venda and Xhosa, are the officially recognised languages of Zimbabwe.
+(1)The following languages, namely Chewa, Chibarwe, English, Kalanga, Koisan, Nambya, Ndau, Ndebele, Shangani, Shona, sign language, Sotho, Tonga, Tswana, Venda and Xhosa, are the officially recognised languages of Zimbabwe.
 
-(2) An Act of Parliament may prescribe other languages as officially recognised languages and may prescribe languages of record.
+(2)An Act of Parliament may prescribe other languages as officially recognised languages and may prescribe languages of record.
 
-(3)The State and all institutions and agencies of government at every level must -
+(3)The State and all institutions and agencies of government at every level must—
 
 (a) ensure that all officially recognised languages are treated equitably; and
 
@@ -1313,7 +1300,7 @@ The tiers of government in Zimbabwe are -
 
 ##### 7 Promotion of public awareness of Constitution
 
-The State must promote public awareness of this Constitution, in particular by -
+The State must promote public awareness of this Constitution, in particular by—
 
 (a) translating it into all officially recognised languages and disseminating it as widely as possible;
 
@@ -1322,26 +1309,25 @@ The State must promote public awareness of this Constitution, in particular by -
 (c) encouraging all persons and organisations, including civic organisations, to disseminate awareness and knowledge of this Constitution throughout society.
 
 17
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 #### CHAPTER 2
 
-#### NATIONALOBJECTIVES
+#### NATIONAL OBJECTIVES
 
 ##### 8 Objectives to guide State and all institutions and agencies of government
 
 (1) The objectives set out in this Chapter guide the State and all institutions and agencies of government at every level in formulating and implementing laws and policy decisions that will lead to the establishment, enhancement and promotion of a sustainable, just, free and democratic society in which people enjoy prosperous, happy and fulfilling lives.
 
-(2) Regard must be had to the objectives set out in this Chapter when interpreting the State ' s obligations under this Constitution and any other law.
+(2) Regard must be had to the objectives set out in this Chapter when interpreting the State’s obligations under this Constitution and any other law.
 
 ##### 9 Good governance
 
-(1) The State must adopt and implement policies and legislation to develop efficiency, competence, accountability, transparency, personal integrity and financial probity in all institutions and agencies of government at every level and in every public institution, and in particular -
+(1) The State must adopt and implement policies and legislation to develop efficiency, competence, accountability, transparency, personal integrity and financial probity in all institutions and agencies of government at every level and in every public institution, and in particular—
 
 (a) appointments to public offices must be made primarily on the basis of merit;
 
@@ -1359,7 +1345,7 @@ The State must take all practical measures to protect the fundamental rights and
 
 ##### 12 Foreign policy
 
-(1) The foreign policy of Zimbabwe must be based on the following principles -
+(1) The foreign policy of Zimbabwe must be based on the following principles—
 
 (a) the promotion and protection of the national interests of Zimbabwe;
 
@@ -1372,16 +1358,15 @@ The State must take all practical measures to protect the fundamental rights and
 (2) The State must promote regional and pan-African cultural, economic and political cooperation and integration and must participate in international and regional organisations that stand for peace and the well-being and progress of the region, the continent and humanity.
 
 18
-
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 ##### 13 National development
 
-(1) The State and all institutions and agencies of government at every level must endeavour to facilitate rapid and equitable development, and in particular must take measures to -
+(1) The State and all institutions and agencies of government at every level must endeavour to facilitate rapid and equitable development, and in particular must take measures to—
 
 (a) promote private initiative and self-reliance;
 
@@ -1405,7 +1390,7 @@ Law Development Commission zowa@zol.co.zw
 
 ##### 15 Food security
 
-The State must -
+The State must—
 
 (a) encourage people to grow and store adequate food;
 
@@ -1417,25 +1402,24 @@ The State must -
 
 (1) The State and all institutions and agencies of government at every level must promote and preserve cultural values and practices which enhance the dignity, well-being and equality of Zimbabweans.
 
-(2) The State and all institutions and agencies of government at every level, and all Zimbabwean citizens, must endeavour to preserve and protect Zimbabwe ' s heritage.
+(2) The State and all institutions and agencies of government at every level, and all Zimbabwean citizens, must endeavour to preserve and protect Zimbabwe’s heritage.
 
 (3) The State and all institutions and agencies of government at every level must take measures to ensure due respect for the dignity of traditional institutions.
 
 ##### 17 Gender balance
 
-(1) The State must promote full gender balance in Zimbabwean society, and in particular -
+(1) The State must promote full gender balance in Zimbabwean society, and in particular—
 
 19
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 (a) the State must promote the full participation of women in all spheres of Zimbabwean society on the basis of equality with men;
 
-(b) the State must take all measures, including legislative measures, needed to ensure that -
+(b) the State must take all measures, including legislative measures, needed to ensure that—
 
 (i) both genders are equally represented in all institutions and agencies of government at every level; and
 
@@ -1449,7 +1433,7 @@ and
 
 ##### 18 Fair regional representation
 
-(1) The State must promote the fair representation of all Zimbabwe ' s regions in all institutions and agencies of government at every level.
+(1) The State must promote the fair representation of all Zimbabwe’s regions in all institutions and agencies of government at every level.
 
 (2) The State and all institutions and agencies of the State and government at every level must take practical measures to ensure that all local communities have equitable access to resources to promote their development.
 
@@ -1457,7 +1441,7 @@ and
 
 (1) The State must adopt policies and measures to ensure that in matters relating to children, the best interests of the children concerned are paramount.
 
-(2) The State must adopt reasonable policies and measures, within the limits of the resources available to it, to ensure that children -
+(2) The State must adopt reasonable policies and measures, within the limits of the resources available to it, to ensure that children—
 
 (a) enjoy family or parental care, or appropriate care when removed from the family environment;
 
@@ -1467,31 +1451,30 @@ and
 
 (d) have access to appropriate education and training.
 
-(3) The State must take appropriate legislative and other measures -
+(3) The State must take appropriate legislative and other measures—
 
 (a) to protect children from exploitative labour practices; and
 
-(b) to ensure that children are not required or permitted to perform work or provide services that -
+(b) to ensure that children are not required or permitted to perform work or provide services that—
 
-(i) are inappropriate for the children ' s age; or
+(i) are inappropriate for the children’s age; or
 
-(ii) place at risk the children ' s well-being, education, physical or mental health or spiritual, moral or social development.
+(ii) place at risk the children’s well-being, education, physical or mental health or spiritual, moral or social development.
 
 ##### 20 Youths
 
-(1) The State and all institutions and agencies of government at every level must take reasonable measures, including affirmative action programmes, to ensure that youths, that is to say people between the ages of fifteen and thirty-five years -
+(1) The State and all institutions and agencies of government at every level must take reasonable measures, including affirmative action programmes, to ensure that youths, that is to say people between the ages of fifteen and thirty-five years—
 
 (a) have access to appropriate education and training;
 
 (b) have opportunities to associate and to be represented and participate in political, social, economic and other spheres of life;
 
 20
-
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 (c) are afforded opportunities for employment and other avenues to economic empowerment;
 
@@ -1505,9 +1488,9 @@ Law Development Commission zowa@zol.co.zw
 
 ##### 21 Elderly persons
 
-(1) The State and all institutions and agencies of government at every level must take reasonable measures, including legislative measures, to secure respect, support and protection for elderly persons and to enable them to participate in the life of their communities.
+(1)The State and all institutions and agencies of government at every level must take reasonable measures, including legislative measures, to secure respect, support and protection for elderly persons and to enable them to participate in the life of their communities.
 
-(2) The State and all institutions and agencies of government at every level must endeavour, within the limits of the resources available to them -
+(2) The State and all institutions and agencies of government at every level must endeavour, within the limits of the resources available to them—
 
 (a) to encourage elderly persons to participate fully in the affairs of society;
 
@@ -1523,7 +1506,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) The State and all institutions and agencies of government at every level must, within the limits of the resources available to them, assist persons with physical or mental disabilities to achieve their full potential and to minimise the disadvantages suffered by them.
 
-(3) In particular, the State and all institutions and agencies of government at every level must -
+(3) In particular, the State and all institutions and agencies of government at every level must—
 
 (a) develop programmes for the welfare of persons with physical or mental disabilities, especially work programmes consistent with their capabilities and acceptable to them or their legal representatives;
 
@@ -1536,16 +1519,15 @@ Law Development Commission zowa@zol.co.zw
 (4) The State must take appropriate measures to ensure that buildings and amenities to which the public has access are accessible to persons with disabilities.
 
 21
-
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 ##### 23 Veterans of the liberation struggle
 
-(1) The State and all institutions and agencies of government at every level must accord due respect, honour and recognition to veterans of the liberation struggle, that is to say -
+(1) The State and all institutions and agencies of government at every level must accord due respect, honour and recognition to veterans of the liberation struggle, that is to say—
 
 (a) those who fought in the War of Liberation;
 
@@ -1559,7 +1541,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) The State and all institutions and agencies of government at every level must adopt reasonable policies and measures, within the limits of the resources available to them, to provide everyone with an opportunity to work in a freely chosen activity, in order to secure a decent living for themselves and their families.
 
-(2) The State and all institutions and agencies of government at every level must endeavour to secure -
+(2) The State and all institutions and agencies of government at every level must endeavour to secure—
 
 (a) full employment;
 
@@ -1571,7 +1553,7 @@ Law Development Commission zowa@zol.co.zw
 
 ##### 25 Protection of the family
 
-The State and all institutions and agencies of government at every level must protect and foster the institution of the family and in particular must endeavour, within the limits of the resources available to them, to adopt measures for -
+The State and all institutions and agencies of government at every level must protect and foster the institution of the family and in particular must endeavour, within the limits of the resources available to them, to adopt measures for—
 
 (a) the provision of care and assistance to mothers, fathers and other family members who have charge of children; and
 
@@ -1579,7 +1561,7 @@ The State and all institutions and agencies of government at every level must pr
 
 ##### 26 Marriage
 
-The State must take appropriate measures to ensure that -
+The State must take appropriate measures to ensure that—
 
 (a) no marriage is entered into without the free and full consent of the intending spouses;
 
@@ -1591,17 +1573,16 @@ The State must take appropriate measures to ensure that -
 
 ##### 27 Education
 
-(1) The State must take all practical measures to promote -
+(1) The State must take all practical measures to promote—
 
 (a) free and compulsory basic education for children; and
 
 22
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 (b) higher and tertiary education.
 
@@ -1615,9 +1596,9 @@ The State and all institutions and agencies of government at every level must ta
 
 (1) The State must take all practical measures to ensure the provision of basic, accessible and adequate health services throughout Zimbabwe.
 
-(2) The State must take appropriate, fair and reasonable measures to ensure that no person is refused emergency medical treatment at any health institution.
+(2)The State must take appropriate, fair and reasonable measures to ensure that no person is refused emergency medical treatment at any health institution.
 
-(3) The State must take all preventive measures within the limits of the resources available to it, including education and public awareness programmes, against the spread of disease.
+(3)The State must take all preventive measures within the limits of the resources available to it, including education and public awareness programmes, against the spread of disease.
 
 ##### 30 Social welfare
 
@@ -1645,19 +1626,18 @@ The State must ensure that all international conventions, treaties and agreement
 
 ##### 35 Zimbabwean citizenship
 
-- Persons are Zimbabwean citizens by birth, descent or registration.
+(1) Persons are Zimbabwean citizens by birth, descent or registration.
 
-- All Zimbabwean citizens are equally entitled to the rights, privileges and benefits of citizenship and are equally subject to the duties and obligations of citizenship.
+(2) All Zimbabwean citizens are equally entitled to the rights, privileges and benefits of citizenship and are equally subject to the duties and obligations of citizenship.
 
 23
-
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+Law Development Commission
+zowa@zol.co.zw
 
-Law Development Commission zowa@zol.co.zw
-
-(3) All Zimbabwean citizens are entitled to the following rights and benefits, in addition to any others granted to them by law -
+(3) All Zimbabwean citizens are entitled to the following rights and benefits, in addition to any others granted to them by law—
 
 (a) to the protection of the State wherever they may be;
 
@@ -1665,7 +1645,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) to birth certificates and other identity documents issued by the State.
 
-(4) Zimbabwean citizens have the following duties, in addition to any others imposed upon them by law -
+(4) Zimbabwean citizens have the following duties, in addition to any others imposed upon them by law—
 
 (a) to be loyal to Zimbabwe;
 
@@ -1677,13 +1657,13 @@ Law Development Commission zowa@zol.co.zw
 
 ##### 36 Citizenship by birth
 
-(1) Persons are Zimbabwean citizens by birth if they were born in Zimbabwe and, when they were born -
+(1) Persons are Zimbabwean citizens by birth if they were born in Zimbabwe and, when they were born—
 
 (a) either their mother or their father was a Zimbabwean citizen; or
 
 (b) any of their grandparents was a Zimbabwean citizen by birth or descent.
 
-(2) Persons born outside Zimbabwe are Zimbabwean citizens by birth if, when they were born, either of their parents was a Zimbabwean citizen and -
+(2) Persons born outside Zimbabwe are Zimbabwean citizens by birth if, when they were born, either of their parents was a Zimbabwean citizen and—
 
 (a) ordinarily resident in Zimbabwe; or
 
@@ -1693,7 +1673,7 @@ Law Development Commission zowa@zol.co.zw
 
 ##### 37 Citizenship by descent
 
-Subject to section 36(2), persons born outside Zimbabwe are Zimbabwean citizens by descent if, when they were born -
+Subject to section 36(2), persons born outside Zimbabwe are Zimbabwean citizens by descent if, when they were born—
 
 (a) either of their parents or any of their grandparents was a Zimbabwean citizen by birth or descent; or
 
@@ -1710,26 +1690,25 @@ and the birth is registered in Zimbabwe in accordance with the law relating to t
 (3) A child who is not a Zimbabwean citizen, but is adopted by a Zimbabwean citizen, whether before or after the effective date, is entitled, on application, to be registered as a Zimbabwean citizen.
 
 24
-
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
-Law Development Commission zowa@zol.co.zw
+Law Development Commission
+zowa@zol.co.zw
 
 ##### 39 Revocation of citizenship
 
-(1) Zimbabwean citizenship by registration may be revoked if -
+(1) Zimbabwean citizenship by registration may be revoked if—
 
 (a) the person concerned acquired the citizenship by fraud, false representation or concealment of a material fact; or
 
 (b) during a war in which Zimbabwe was engaged, the person concerned unlawfully traded or communicated with an enemy or was engaged in or associated with any business that was knowingly carried on so as to assist an enemy in that war.
 
-- Zimbabwean citizenship by birth may be revoked if -
+(2) Zimbabwean citizenship by birth may be revoked if—
 
 (a) the citizenship was acquired by fraud, false representation or concealment of a material fact by any person; or
 
-(b) in the case of a person referred to in section 36(3), the person ' s nationality or parentage becomes known, and reveals that the person was a citizen of another country.
+(b) in the case of a person referred to in section 36(3), the person’s nationality or parentage becomes known, and reveals that the person was a citizen of another country.
 
 (3) Zimbabwean citizenship must not be revoked under this section if the person would be rendered stateless.
 
@@ -1739,7 +1718,7 @@ Zimbabwean citizenship is not lost through marriage or the dissolution of marria
 
 ##### 41 Citizenship and Immigration Board
 
-An Act of Parliament must provide for the establishment of a Citizenship and Immigration Board consisting of a chairperson and at least two other members, appointed by the President, to be responsible for -
+An Act of Parliament must provide for the establishment of a Citizenship and Immigration Board consisting of a chairperson and at least two other members, appointed by the President, to be responsible for—
 
 (a) granting and revoking citizenship by registration;
 
@@ -1749,7 +1728,7 @@ An Act of Parliament must provide for the establishment of a Citizenship and Imm
 
 ##### 42 Powers of Parliament in regard to citizenship
 
-An Act of Parliament may make provision, consistent with this Chapter, for -
+An Act of Parliament may make provision, consistent with this Chapter, for—
 
 (a) procedures by which Zimbabwean citizenship by registration may be acquired;
 
@@ -1767,10 +1746,9 @@ An Act of Parliament may make provision, consistent with this Chapter, for -
 
 (1) Every person who, immediately before the publication day, was a Zimbabwean citizen continues to be a Zimbabwean citizen after that date.
 
-(2) Every person who was born in Zimbabwe before the publication day is a Zimbabwean citizen by birth if -
+(2) Every person who was born in Zimbabwe before the publication day is a Zimbabwean citizen by birth if—
 
 25
-
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -1783,11 +1761,11 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 4
 
-#### DECLARATION OFRIGHTS
+#### DECLARATION OF RIGHTS
 
 ##### PART 1
 
-##### APPLICATION ANDINTERPRETATION OFCHAPTER4
+##### APPLICATION AND INTERPRETATION OF CHAPTER 4
 
 ###### 44 Duty to respect fundamental human rights and freedoms
 
@@ -1803,7 +1781,7 @@ The State and every person, including juristic persons, and every institution an
 
 ###### 46 Interpretation of Chapter 4
 
-- When interpreting this Chapter, a court, tribunal, forum or body -
+(1) When interpreting this Chapter, a court, tribunal, forum or body—
 
 (a) must give full effect to the rights and freedoms enshrined in this Chapter;
 
@@ -1831,17 +1809,21 @@ This Chapter does not preclude the existence of other rights and freedoms that m
 
 Law Development Commission zowa@zol.co.zw
 
+##### PART 2
+
+##### FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
+
 ###### 48 Right to life
 
 (1) Every person has the right to life.
 
-(2) A law may permit the death penalty to be imposed only on a person convicted of murder committed in aggravating circumstances, and -
+(2) A law may permit the death penalty to be imposed only on a person convicted of murder committed in aggravating circumstances, and—
 
 (a) the law must permit the court a discretion whether or not to impose the penalty;
 
 (b) the penalty may be carried out only in accordance with a final judgment of a competent court;
 
-(c) the penalty must not be imposed on a person -
+(c) the penalty must not be imposed on a person—
 
 (i) who was less than twenty-one years old when the offence was committed; or
 
@@ -1855,7 +1837,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 49 Right to personal liberty
 
-- Every person has the right to personal liberty, which includes the right -
+(1) Every person has the right to personal liberty, which includes the right—
 
 (a) not to be detained without trial; and
 
@@ -1865,11 +1847,11 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 50 Rights of arrested and detained persons
 
-(1) Any person who is arrested -
+(1) Any person who is arrested—
 
 (a) must be informed at the time of arrest of the reason for the arrest;
 
-(b) must be permitted, without delay -
+(b) must be permitted, without delay—
 
 (i) at the expense of the State, to contact their spouse or partner, or a relative or legal practitioner, or anyone else of their choice; and
 
@@ -1883,15 +1865,11 @@ and must be informed of this right promptly;
 
 (e) must be permitted to challenge the lawfulness of the arrest in person before a court and must be released promptly if the arrest is unlawful.
 
-(2) Any person who is arrested or detained -
+(2) Any person who is arrested or detained—
 
 (a) for the purpose of bringing him or her before a court; or
 
 (b) for an alleged offence;
-
-##### PART 2
-
-##### FUNDAMENTALHUMANRIGHTS ANDFREEDOMS
 
 27
 
@@ -1905,11 +1883,11 @@ and who is not released must be brought before a court as soon as possible and i
 
 (3) Any person who is not brought to court within the forty-eight hour period referred to in subsection (2) must be released immediately unless their detention has earlier been extended by a competent court.
 
-(4) Any person who is arrested or detained for an alleged offence has the right -
+(4) Any person who is arrested or detained for an alleged offence has the right—
 
 (a) to remain silent;
 
-(b) to be informed promptly -
+(b) to be informed promptly—
 
 (i) of their right to remain silent; and
 
@@ -1919,13 +1897,13 @@ and who is not released must be brought before a court as soon as possible and i
 
 (d) at the first court appearance after being arrested, to be charged or to be informed of the reason why their detention should continue, or to be released.
 
-(5) Any person who is detained, including a sentenced prisoner, has the right -
+(5) Any person who is detained, including a sentenced prisoner, has the right—
 
 (a) to be informed promptly of the reason for their being detained;
 
 (b) at their own expense, to consult in private with a legal practitioner of their choice, and to be informed of this right promptly;
 
-(c) to communicate with, and be visited by -
+(c) to communicate with, and be visited by—
 
 (i) a spouse or partner;
 
@@ -1943,7 +1921,7 @@ and who is not released must be brought before a court as soon as possible and i
 
 (e) to challenge the lawfulness of their detention in person before a court and, if the detention is unlawful, to be released promptly.
 
-(6) Any person who is detained pending trial for an alleged offence and is not tried within a reasonable time must be released from detention, either unconditionally or on reasonable conditions to ensure that after being released they -
+(6) Any person who is detained pending trial for an alleged offence and is not tried within a reasonable time must be released from detention, either unconditionally or on reasonable conditions to ensure that after being released they—
 
 (a) attend trial;
 
@@ -1951,7 +1929,7 @@ and who is not released must be brought before a court as soon as possible and i
 
 (c) do not commit any other offence before the trial begins.
 
-(7) If there are reasonable grounds to believe that a person is being detained illegally or if it is not possible to ascertain the whereabouts of a detained person, any person may approach the High Court for an order -
+(7) If there are reasonable grounds to believe that a person is being detained illegally or if it is not possible to ascertain the whereabouts of a detained person, any person may approach the High Court for an order—
 
 (a) of habeas corpus, that is to say an order requiring the detained person to be released, or to be brought before the court for the lawfulness of the detention to be justified, or requiring the whereabouts of the detained person to be disclosed; or
 
@@ -1963,13 +1941,13 @@ and who is not released must be brought before a court as soon as possible and i
 
 Law Development Commission zowa@zol.co.zw
 
-(b) declaring the detention to be illegal and ordering the detained person ' s prompt release;
+(b) declaring the detention to be illegal and ordering the detained person’s prompt release;
 
 and the High Court may make whatever order is appropriate in the circumstances.
 
 (8) An arrest or detention which contravenes this section, or in which the conditions set out in this section are not met, is illegal.
 
-(9) Any person who has been illegally arrested or detained is entitled to compensation from the person responsible for the arrest or detention, but a law may protect the following persons from liability under this section -
+(9) Any person who has been illegally arrested or detained is entitled to compensation from the person responsible for the arrest or detention, but a law may protect the following persons from liability under this section—
 
 (a) a judicial officer acting in a judicial capacity reasonably and in good faith;
 
@@ -1981,7 +1959,7 @@ Every person has inherent dignity in their private and public life, and the righ
 
 ###### 52 Right to personal security
 
-Every person has the right to bodily and psychological integrity, which includes the right -
+Every person has the right to bodily and psychological integrity, which includes the right—
 
 (a) to freedom from all forms of violence from public or private sources;
 
@@ -2011,7 +1989,7 @@ No person may be made to perform forced or compulsory labour.
 
 (4) A person is treated in a discriminatory manner for the purpose of subsection (3)
 
-if -
+if—
 
 29
 
@@ -2027,7 +2005,7 @@ Law Development Commission zowa@zol.co.zw
 
 (5) Discrimination on any of the grounds listed in subsection (3) is unfair unless it is established that the discrimination is fair, reasonable and justifiable in a democratic society based on openness, justice, human dignity, equality and freedom.
 
-(6) The State must take reasonable legislative and other measures to promote the achievement of equality and to protect or advance people or classes of people who have been disadvantaged by unfair discrimination, and -
+(6) The State must take reasonable legislative and other measures to promote the achievement of equality and to protect or advance people or classes of people who have been disadvantaged by unfair discrimination, and—
 
 (a) such measures must be taken to redress circumstances of genuine need;
 
@@ -2035,7 +2013,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 57 Right to privacy
 
-Every person has the right to privacy, which includes the right not to have -
+Every person has the right to privacy, which includes the right not to have—
 
 (a) their home, premises or property entered without their permission;
 
@@ -2059,7 +2037,7 @@ Every person has the right to demonstrate and to present petitions, but these ri
 
 ###### 60 Freedom of conscience
 
-(1) Every person has the right to freedom of conscience, which includes -
+(1) Every person has the right to freedom of conscience, which includes—
 
 (a) freedom of thought, opinion, religion or belief; and
 
@@ -2081,7 +2059,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 61 Freedom of expression and freedom of the media
 
-- Every person has the right to freedom of expression, which includes -
+(1) Every person has the right to freedom of expression, which includes—
 
 (a) freedom to seek, receive and communicate ideas and other information;
 
@@ -2089,15 +2067,15 @@ Law Development Commission zowa@zol.co.zw
 
 (c) academic freedom.
 
-(2) Every person is entitled to freedom of the media, which freedom includes protection of the confidentiality of journalists ' sources of information.
+(2) Every person is entitled to freedom of the media, which freedom includes protection of the confidentiality of journalists’ sources of information.
 
-(3) Broadcasting and other electronic media of communication have freedom of establishment, subject only to State licensing procedures that -
+(3) Broadcasting and other electronic media of communication have freedom of establishment, subject only to State licensing procedures that—
 
 (a) are necessary to regulate the airwaves and other forms of signal distribution; and
 
 (b) are independent of control by government or by political or commercial interests.
 
-- All State-owned media of communication must -
+(4) All State-owned media of communication must—
 
 (a) be free to determine independently the editorial content of their broadcasts or other communications;
 
@@ -2105,15 +2083,15 @@ Law Development Commission zowa@zol.co.zw
 
 (c) afford fair opportunity for the presentation of divergent views and dissenting opinions.
 
-- Freedom of expression and freedom of the media exclude -
+(5) Freedom of expression and freedom of the media exclude—
 
 (a) incitement to violence;
 
 (b) advocacy of hatred or hate speech;
 
-(c) malicious injury to a person ' s reputation or dignity; or
+(c) malicious injury to a person’s reputation or dignity; or
 
-(d) malicious or unwarranted breach of a person ' s right to privacy.
+(d) malicious or unwarranted breach of a person’s right to privacy.
 
 ###### 62 Access to information
 
@@ -2127,7 +2105,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 63 Language and culture
 
-Every person has the right -
+Every person has the right—
 
 (a) to use the language of their choice; and
 
@@ -2151,13 +2129,13 @@ Every person has the right to choose and carry on any profession, trade or occup
 
 (1) Every person has the right to fair and safe labour practices and standards and to be paid a fair and reasonable wage.
 
-(2) Except for members of the security services, every person has the right to form and join trade unions and employee or employers ' organisations of their choice, and to participate in the lawful activities of those unions and organisations.
+(2) Except for members of the security services, every person has the right to form and join trade unions and employee or employers’ organisations of their choice, and to participate in the lawful activities of those unions and organisations.
 
 (3) Except for members of the security services, every employee has the right to participate in collective job action, including the right to strike, sit in, withdraw their labour and to take other similar concerted action, but a law may restrict the exercise of this right in order to maintain essential services.
 
 (4) Every employee is entitled to just, equitable and satisfactory conditions of work.
 
-(5) Except for members of the security services, every employee, employer, trade union, and employee or employer ' s organisation has the right to -
+(5) Except for members of the security services, every employee, employer, trade union, and employee or employer’s organisation has the right to—
 
 (a) engage in collective bargaining;
 
@@ -2171,7 +2149,7 @@ Every person has the right to choose and carry on any profession, trade or occup
 
 ###### 66 Freedom of movement and residence
 
-(1) Every Zimbabwean citizen has -
+(1) Every Zimbabwean citizen has—
 
 (a) the right to enter Zimbabwe;
 
@@ -2179,7 +2157,7 @@ Every person has the right to choose and carry on any profession, trade or occup
 
 (c) the right to a passport or other travel document.
 
-(2) Every Zimbabwean citizen and everyone else who is legally in Zimbabwe has the right to -
+(2) Every Zimbabwean citizen and everyone else who is legally in Zimbabwe has the right to—
 
 (a) move freely within Zimbabwe;
 
@@ -2189,13 +2167,13 @@ Every person has the right to choose and carry on any profession, trade or occup
 
 ###### 67 Political rights
 
-(1) Every Zimbabwean citizen has the right -
+(1) Every Zimbabwean citizen has the right—
 
 (a) to free, fair and regular elections for any elective public office established in terms of this Constitution or any other law; and
 
 (b) to make political choices freely.
 
-(2) Subject to this Constitution, every Zimbabwean citizen has the right -
+(2) Subject to this Constitution, every Zimbabwean citizen has the right—
 
 32
 
@@ -2213,7 +2191,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) to participate, individually or collectively, in gatherings or groups or in any other manner, in peaceful activities to influence, challenge or support the policies of the Government or any political or whatever cause.
 
-(3) Subject to this Constitution, every Zimbabwean citizen who is of or over eighteen years of age has the right -
+(3) Subject to this Constitution, every Zimbabwean citizen who is of or over eighteen years of age has the right—
 
 (a) to vote in all elections and referendums to which this Constitution or any other law applies, and to do so in secret; and
 
@@ -2227,7 +2205,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) Any person whose right, freedom, interest or legitimate expectation has been adversely affected by administrative conduct has the right to be given promptly and in writing the reasons for the conduct.
 
-(3) An Act of Parliament must give effect to these rights, and must -
+(3) An Act of Parliament must give effect to these rights, and must—
 
 (a) provide for the review of administrative conduct by a court or, where appropriate, by an independent and impartial tribunal;
 
@@ -2239,7 +2217,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Every person accused of an offence has the right to a fair and public trial within a reasonable time before an independent and impartial court.
 
-(2) In the determination of civil rights and obligations, every person has aright to a fair, speedy and public hearing within a reasonable time before an independent and impartial court, tribunal or other forum established by law.
+(2) In the determination of civil rights and obligations, every person has a right to a fair, speedy and public hearing within a reasonable time before an independent and impartial court, tribunal or other forum established by law.
 
 (3) Every person has the right of access to the courts, or to some other tribunal or forum established by law for the resolution of any dispute.
 
@@ -2247,7 +2225,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 70 Rights of accused persons
 
-(1) Any person accused of an offence has the following rights -
+(1) Any person accused of an offence has the following rights—
 
 (a) to be presumed innocent until proved guilty;
 
@@ -2285,7 +2263,7 @@ Law Development Commission zowa@zol.co.zw
 
 (n) to be sentenced to the lesser of the prescribed punishments if the prescribed punishment for the offence has been changed between the time the offence was committed and the time of sentencing.
 
-- Where this section requires information to be given to a person -
+(2) Where this section requires information to be given to a person—
 
 (a) the information must be given in a language the person understands; and
 
@@ -2303,17 +2281,17 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 71 Property rights
 
-(1) In this section -
+(1) In this section—
 
-' pension benefit ' means a pension, annuity, gratuity or similar allowance which is payable -
+“pension benefit” means a pension, annuity, gratuity or similar allowance which is payable—
 
 (a) to any person from the Consolidated Revenue Fund;
 
-(b) in respect of a person ' s service with an employer;
+(b) in respect of a person’s service with an employer;
 
 (c) in respect of a person ' s ill-health or injury; or
 
-(d) in respect of a person ' s retirement through age or ill-health or any other reason;
+(d) in respect of a person’s retirement through age or ill-health or any other reason;
 
 34
 
@@ -2325,21 +2303,21 @@ Law Development Commission zowa@zol.co.zw
 
 and includes a commutation of such a pension, annuity, gratuity or allowance and a refund of contributions paid towards such a pension, annuity, gratuity or allowance;
 
-' property ' means property of any description and any right or interest in property.
+“property” means property of any description and any right or interest in property.
 
 (2) Subject to section 72, every person has the right, in any part of Zimbabwe, to acquire, hold, occupy, use, transfer, hypothecate, lease or dispose of all forms of property, either individually or in association with others.
 
-(3) Subject to this section and to section 72, no person may be compulsorily deprived of their property except where the following conditions are satisfied -
+(3) Subject to this section and to section 72, no person may be compulsorily deprived of their property except where the following conditions are satisfied—
 
 (a) the deprivation is in terms of a law of general application;
 
-(b) the deprivation is necessary for any of the following reasons -
+(b) the deprivation is necessary for any of the following reasons—
 
 (i) in the interests of defence, public safety, public order, public morality, public health or town and country planning; or
 
 (ii) in order to develop or use that or any other property for a purpose beneficial to the community;
 
-(c) the law requires the acquiring authority -
+(c) the law requires the acquiring authority—
 
 (i) to give reasonable notice of the intention to acquire the property to everyone whose interest or right in the property would be affected by the acquisition;
 
@@ -2349,7 +2327,7 @@ and includes a commutation of such a pension, annuity, gratuity or allowance and
 
 (d) the law entitles any person whose property has been acquired to apply to a competent court for the prompt return of the property if the court does not confirm the acquisition; and
 
-(e) the law entitles any claimant for compensation to apply to a competent court for the determination of -
+(e) the law entitles any claimant for compensation to apply to a competent court for the determination of—
 
 (i) the existence, nature and value of their interest in the property concerned;
 
@@ -2363,9 +2341,9 @@ and to apply to the court for an order directing the prompt payment of any compe
 
 ###### 72 Rights to agricultural land
 
-(1) In this section -
+(1) In this section—
 
-' agricultural land ' means land used or suitable for agriculture, that is to say for horticulture, viticulture, forestry or aquaculture or for any purpose of husbandry, including -
+“agricultural land” means land used or suitable for agriculture, that is to say for horticulture, viticulture, forestry or aquaculture or for any purpose of husbandry, including—
 
 (a) the keeping or breeding of livestock, game, poultry, animals or bees; or
 
@@ -2381,11 +2359,11 @@ Law Development Commission zowa@zol.co.zw
 
 but does not include Communal Land or land within the boundaries of an urban local authority or within a township established under a law relating to town and country planning or as defined in a law relating to land survey;
 
-' land ' includes anything permanently attached to or growing on land;
+“land” includes anything permanently attached to or growing on land;
 
-' piece of agricultural land ' means a piece of agricultural land registered as a separate piece of land in a Deeds Registry.
+“piece of agricultural land” means a piece of agricultural land registered as a separate piece of land in a Deeds Registry.
 
-(2) Where agricultural land, or any right or interest in such land, is required for a public purpose, including -
+(2) Where agricultural land, or any right or interest in such land, is required for a public purpose, including—
 
 (a) settlement for agricultural or other purposes;
 
@@ -2395,7 +2373,7 @@ but does not include Communal Land or land within the boundaries of an urban loc
 
 the land, right or interest may be compulsorily acquired by the State by notice published in the Gazette identifying the land, right or interest, whereupon the land, right or interest vests in the State with full title with effect from the date of publication of the notice.
 
-(3) Where agricultural land, or any right or interest in such land, is compulsorily acquired for a purpose referred to in subsection (2) -
+(3) Where agricultural land, or any right or interest in such land, is compulsorily acquired for a purpose referred to in subsection (2)—
 
 (a) subject to section 295(1) and (2), no compensation is payable in respect of its acquisition, except for improvements effected on it before its acquisition;
 
@@ -2403,7 +2381,7 @@ the land, right or interest may be compulsorily acquired by the State by notice 
 
 (c) the acquisition may not be challenged on the ground that it was discriminatory in contravention of section 56.
 
-- All agricultural land which -
+(4) All agricultural land which—
 
 (a) was itemised in Schedule 7 to the former Constitution; or
 
@@ -2411,11 +2389,11 @@ the land, right or interest may be compulsorily acquired by the State by notice 
 
 continues to be vested in the State, and no compensation is payable in respect of its acquisition except for improvements effected on it before its acquisition.
 
-(5) As soon as practicable after agricultural land is compulsorily acquired in accordance with subsection (2), the officer responsible for the registration of title over land must, without further notice, effect the necessary endorsements upon any title deed and entries in any register for the purpose of formally cancelling the title deed and registering the State ' s title over the land.
+(5) As soon as practicable after agricultural land is compulsorily acquired in accordance with subsection (2), the officer responsible for the registration of title over land must, without further notice, effect the necessary endorsements upon any title deed and entries in any register for the purpose of formally cancelling the title deed and registering the State’s title over the land.
 
 (6) An Act of Parliament may make it an offence for any person, without lawful authority, to possess or occupy agricultural land referred to in this section or other State land.
 
-(7) In regard to the compulsory acquisition of agricultural land for the resettlement of people in accordance with a programme of land reform, the following factors must be regarded as of ultimate and overriding importance -
+(7) In regard to the compulsory acquisition of agricultural land for the resettlement of people in accordance with a programme of land reform, the following factors must be regarded as of ultimate and overriding importance—
 
 (a) under colonial domination the people of Zimbabwe were unjustifiably dispossessed of their land and other resources without compensation;
 
@@ -2431,7 +2409,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) the people of Zimbabwe must be enabled to re-assert their rights and regain ownership of their land;
 
-and accordingly -
+and accordingly—
 
 (i) the former colonial power has an obligation to pay compensation for agricultural land compulsorily acquired for resettlement, through an adequate fund established for the purpose; and
 
@@ -2441,11 +2419,11 @@ and accordingly -
 
 ###### 73 Environmental rights
 
-(1) Every person has the right -
+(1) Every person has the right—
 
 (a) to an environment that is not harmful to their health or well-being; and
 
-(b) to have the environment protected for the benefit of present and future generations, through reasonable legislative and other measures that -
+(b) to have the environment protected for the benefit of present and future generations, through reasonable legislative and other measures that—
 
 (i) prevent pollution and ecological degradation;
 
@@ -2461,7 +2439,7 @@ No person may be evicted from their home, or have their home demolished, without
 
 ###### 75 Right to education
 
-(1) Every citizen and permanent resident of Zimbabwe has a right to -
+(1) Every citizen and permanent resident of Zimbabwe has a right to—
 
 (a) a basic State-funded education, including adult basic education; and
 
@@ -2493,7 +2471,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 77 Right to food and water
 
-Every person has the right to -
+Every person has the right to—
 
 (a) safe, clean and potable water; and
 
@@ -2511,7 +2489,7 @@ and the State must take reasonable legislative and other measures, within the li
 
 ##### PART 3
 
-##### ELABORATIONOFCERTAINRIGHTS
+##### ELABORATION OF CERTAIN RIGHTS
 
 ###### 79 Application of Part 3
 
@@ -2529,13 +2507,13 @@ and the State must take reasonable legislative and other measures, within the li
 
 ###### 81 Rights of children
 
-(1) Every child, that is to say every boy and girl under the age of eighteen years, has the right -
+(1) Every child, that is to say every boy and girl under the age of eighteen years, has the right—
 
 (a) to equal treatment before the law, including the right to be heard;
 
 (b) to be given a name and family name;
 
-(c) in the case of a child who is -
+(c) in the case of a child who is—
 
 (i) born in Zimbabwe; or
 
@@ -2561,21 +2539,21 @@ Law Development Commission zowa@zol.co.zw
 
 (h) not to be compelled to take part in any political activity; and
 
-(i) not to be detained except as a measure of last resort and, if detained -
+(i) not to be detained except as a measure of last resort and, if detained—
 
 (i) to be detained for the shortest appropriate period;
 
 (ii) to be kept separately from detained persons over the age of eighteen years; and
 
-(iii) to be treated in a manner, and kept in conditions, that take account of the child ' s age.
+(iii) to be treated in a manner, and kept in conditions, that take account of the child’s age.
 
-- A child ' s best interests are paramount in every matter concerning the child.
+(2) A child’s best interests are paramount in every matter concerning the child.
 
 (3) Children are entitled to adequate protection by the courts, in particular by the High Court as their upper guardian.
 
 ###### 82 Rights of the elderly
 
-People over the age of seventy years have the right -
+People over the age of seventy years have the right—
 
 (a) to receive reasonable care and assistance from their families and the State;
 
@@ -2587,7 +2565,7 @@ and the State must take reasonable legislative and other measures, within the li
 
 ###### 83 Rights of persons with disabilities
 
-The State must take appropriate measures, within the limits of the resources available to it, to ensure that persons with disabilities realise their full mental and physical potential, including measures -
+The State must take appropriate measures, within the limits of the resources available to it, to ensure that persons with disabilities realise their full mental and physical potential, including measures—
 
 (a) to enable them to become self reliant;
 
@@ -2603,7 +2581,7 @@ The State must take appropriate measures, within the limits of the resources ava
 
 ###### 84 Rights of veterans of the liberation struggle
 
-- Veterans of the liberation struggle, that is to say -
+(1) Veterans of the liberation struggle, that is to say—
 
 (a) those who fought in the War of Liberation;
 
@@ -2625,11 +2603,11 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 4
 
-##### ENFORCEMENT OF FUNDAMENTALHUMANRIGHTS ANDFREEDOMS
+##### ENFORCEMENT OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
 ###### 85 Enforcement of fundamental human rights and freedoms
 
-- Any of the following persons, namely -
+(1) Any of the following persons, namely—
 
 (a) any person acting in their own interests;
 
@@ -2645,7 +2623,7 @@ is entitled to approach a court, alleging that a fundamental right or freedom en
 
 (2) The fact that a person has contravened a law does not debar them from approaching a court for relief under subsection (1).
 
-(3) The rules of every court must provide for the procedure to be followed in cases where relief is sought under subsection (1), and those rules must ensure that -
+(3) The rules of every court must provide for the procedure to be followed in cases where relief is sought under subsection (1), and those rules must ensure that—
 
 (a) the right to approach the court under subsection (1) is fully facilitated;
 
@@ -2659,13 +2637,13 @@ is entitled to approach a court, alleging that a fundamental right or freedom en
 
 ##### PART 5
 
-##### LIMITATION OF FUNDAMENTALHUMANRIGHTS AND FREEDOMS
+##### LIMITATION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
 ###### 86 Limitation of rights and freedoms
 
 (1) The fundamental rights and freedoms set out in this Chapter must be exercised reasonably and with due regard for the rights and freedoms of other persons.
 
-(2) The fundamental rights and freedoms set out in this Chapter may be limited only in terms of a law of general application and to the extent that the limitation is fair, reasonable, necessary and justifiable in a democratic society based on openness, justice, human dignity, equality and freedom, taking into account all relevant factors, including -
+(2) The fundamental rights and freedoms set out in this Chapter may be limited only in terms of a law of general application and to the extent that the limitation is fair, reasonable, necessary and justifiable in a democratic society based on openness, justice, human dignity, equality and freedom, taking into account all relevant factors, including—
 
 (a) the nature of the right or freedom concerned;
 
@@ -2687,7 +2665,7 @@ Law Development Commission zowa@zol.co.zw
 
 (f) whether there are any less restrictive means of achieving the purpose of the limitation.
 
-(3) No law may limit the following rights enshrined in this Chapter, and no person may violate them -
+(3) No law may limit the following rights enshrined in this Chapter, and no person may violate them—
 
 (a) the right to life, except to the extent specified in section 48;
 
@@ -2709,7 +2687,7 @@ Law Development Commission zowa@zol.co.zw
 
 (3) Any limitation which a written law referred to in subsection (1) imposes on a fundamental right or freedom set out in this Chapter must not be greater than is strictly required by the emergency.
 
-(4) No law that provides for a declaration of a state of emergency, and no legislative or other measure taken in consequence of such a declaration, may -
+(4) No law that provides for a declaration of a state of emergency, and no legislative or other measure taken in consequence of such a declaration, may—
 
 (a) indemnify, or permit or authorise an indemnity for, the State or any institution or agency of the government at any level, or any other person, in respect of any unlawful act; or
 
@@ -2717,11 +2695,11 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 5
 
-#### THEEXECUTIVE
+#### THE EXECUTIVE
 
-##### PART1
+##### PART 1
 
-##### EXECUTIVEAUTHORITY
+##### EXECUTIVE AUTHORITY
 
 ###### 88 Executive authority
 
@@ -2737,15 +2715,19 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
+##### PART 2
+
+##### THE PRESIDENT AND VICE PRESIDENTS
+
 ###### 89 The President
 
-The President is the Head of State and Government and the Commander-inChief of the Defence Forces.
+The President is the Head of State and Government and the Commander-in-Chief of the Defence Forces.
 
 ###### 90 Duties of President
 
 (1) The President must uphold, defend, obey and respect this Constitution as the supreme law of the nation and must ensure that this Constitution and all the other laws are faithfully observed.
 
-(2) The President must -
+(2) The President must—
 
 (a) promote unity and peace in the nation for the benefit and well-being of all the people of Zimbabwe;
 
@@ -2757,7 +2739,7 @@ The President is the Head of State and Government and the Commander-inChief of t
 
 ###### 91 Qualifications for election as President and Vice-President
 
-(1) A person qualifies for election as President or Vice-President if he or she -
+(1) A person qualifies for election as President or Vice-President if he or she—
 
 (a) is a Zimbabwean citizen by birth or descent;
 
@@ -2767,7 +2749,7 @@ The President is the Head of State and Government and the Commander-inChief of t
 
 (d) is registered as a voter.
 
-(2) A person is disqualified for election as President or Vice-President if he or she has already held office as President under this Constitution for two terms, whether continuous or not, and for the purpose of this subsection three or more years ' service is deemed to be a full term.
+(2) A person is disqualified for election as President or Vice-President if he or she has already held office as President under this Constitution for two terms, whether continuous or not, and for the purpose of this subsection three or more years’ service is deemed to be a full term.
 
 ###### 92 Election of President and Vice-Presidents
 
@@ -2785,10 +2767,6 @@ The President is the Head of State and Government and the Commander-inChief of t
 
 (1) Subject to this section, any aggrieved candidate may challenge the validity
 
-##### PART 2
-
-##### THE PRESIDENT AND VICE PRESIDENTS
-
 42
 
 [[END OF PAGE 42]]
@@ -2801,9 +2779,9 @@ of an election of a President or Vice-President by lodging a petition or applica
 
 (2) The election of a Vice-President may be challenged only on the ground that he or she is or was not qualified for election.
 
-(3) The Constitutional Court must hear and determine a petition or application under subsection (1) within fourteen days after the petition or application was lodged, and the court ' s decision is final.
+(3) The Constitutional Court must hear and determine a petition or application under subsection (1) within fourteen days after the petition or application was lodged, and the court’s decision is final.
 
-(4) In determining a petition or application under subsection (1), the Constitutional Court may -
+(4) In determining a petition or application under subsection (1), the Constitutional Court may—
 
 (a) declare a winner;
 
@@ -2811,19 +2789,19 @@ of an election of a President or Vice-President by lodging a petition or applica
 
 (c) make any other order it considers just and appropriate.
 
-- If, in a petition or application under subsection (1) -
+(5) If, in a petition or application under subsection (1)—
 
-(a) the Constitutional Court sets aside the election of a President, the election of the President ' s two Vice-Presidents is automatically nullified;
+(a) the Constitutional Court sets aside the election of a President, the election of the President’s two Vice-Presidents is automatically nullified;
 
-(b) the Constitutional Court sets aside the election of either or both VicePresidents, the President must without delay appoint a qualified person or qualified persons, as the case may be, to be Vice-President or VicePresidents.
+(b) the Constitutional Court sets aside the election of either or both Vice-Presidents, the President must without delay appoint a qualified person or qualified persons, as the case may be, to be Vice-President or Vice-Presidents.
 
 ###### 94 Assumption of office by President and Vice-Presidents
 
-(1) Persons elected as President and Vice-Presidents assume office when they take, before the Chief Justice or the next most senior judge available, the oaths of President and Vice-President respectively in the forms set out in the Third Schedule, which oaths they must take -
+(1) Persons elected as President and Vice-Presidents assume office when they take, before the Chief Justice or the next most senior judge available, the oaths of President and Vice-President respectively in the forms set out in the Third Schedule, which oaths they must take—
 
 (a) on the ninth day after they are declared to be elected; or
 
-(b) in the event of a challenge to the validity of their election, within fortyeight hours after the Constitutional Court has declared them to be the winners.
+(b) in the event of a challenge to the validity of their election, within forty-eight hours after the Constitutional Court has declared them to be the winners.
 
 (2) The incumbent President continues in office until the assumption of office by the President-elect in terms of subsection (1).
 
@@ -2833,7 +2811,7 @@ of an election of a President or Vice-President by lodging a petition or applica
 
 (1) The term of office of the President or a Vice-President commences on the day he or she is sworn in and assumes office in terms of section 94(1)(a) or 94(3).
 
-(2) The term of office of the President or a Vice-President extends until -
+(2) The term of office of the President or a Vice-President extends until—
 
 (a) he or she resigns or is removed from office; or
 
@@ -2857,7 +2835,7 @@ in this Constitution, their terms of office are five years and coterminous with 
 
 ###### 97 Removal of President or Vice-President from office
 
-(1) The Senate and the National Assembly, by a joint resolution passed by at least one-half of their total membership, may resolve that the question whether or not the President or a Vice-President should be removed from office for -
+(1) The Senate and the National Assembly, by a joint resolution passed by at least one-half of their total membership, may resolve that the question whether or not the President or a Vice-President should be removed from office for—
 
 (a) serious misconduct;
 
@@ -2871,7 +2849,7 @@ should be investigated in terms of this section.
 
 (2) Upon the passing of a resolution in terms of subsection (1), the Committee on Standing Rules and Orders must appoint a joint committee of the Senate and the National Assembly consisting of nine members reflecting the political composition of Parliament, to investigate the removal from office of the President or Vice-President, as the case may be.
 
-(3)  If -
+(3) If—
 
 (a) the joint committee appointed in terms of subsection (2) recommends the removal from office of the President or Vice-President; and
 
@@ -2903,19 +2881,19 @@ The Vice-Presidents assist the President in the discharge of his or her function
 
 ###### 100 Acting President
 
-(1) Whenever the President is absent from Zimbabwe or is unable to exercise his or her official functions through illness or any other cause, those functions must be assumed and exercised -
+(1) Whenever the President is absent from Zimbabwe or is unable to exercise his or her official functions through illness or any other cause, those functions must be assumed and exercised—
 
 (a) by the first Vice-President;
 
 (b) where the first Vice-President is unable to exercise those functions, by the second Vice-President; or
 
-(c) if there is no Vice-President who is able to exercise the functions, by a Minister -
+(c) if there is no Vice-President who is able to exercise the functions, by a Minister—
 
 (i) designated for such an eventuality by the President; or
 
 (ii) nominated by the Cabinet, where no Minister has been designated by the President in terms of subparagraph (i).
 
-(2) Except in accordance with a resolution passed by a majority of the total membership of the Cabinet, a person exercising the functions of the office of President in terms of subsection (1) must not exercise the power of the President -
+(2) Except in accordance with a resolution passed by a majority of the total membership of the Cabinet, a person exercising the functions of the office of President in terms of subsection (1) must not exercise the power of the President—
 
 (a) to deploy the Defence Forces;
 
@@ -2927,19 +2905,19 @@ The Vice-Presidents assist the President in the discharge of his or her function
 
 ###### 101 Succession in event of death, resignation or incapacity of President or Vice-President
 
-(1) If the President dies, resigns or is removed from office -
+(1) If the President dies, resigns or is removed from office—
 
-(a) the first Vice-President assumes office as President until the expiry of the former President ' s term of office;
+(a) the first Vice-President assumes office as President until the expiry of the former President’s term of office;
 
-(b) the second Vice-President assumes office as first Vice-President until the expiry of the former President ' s term of office; and
+(b) the second Vice-President assumes office as first Vice-President until the expiry of the former President’s term of office; and
 
-(c) upon assuming office as President, the former first Vice-President must appoint a qualified person to be second Vice-President until the expiry of the former President ' s term of office.
+(c) upon assuming office as President, the former first Vice-President must appoint a qualified person to be second Vice-President until the expiry of the former President’s term of office.
 
-(2) If the first Vice-President dies, resigns or is removed from office -
+(2) If the first Vice-President dies, resigns or is removed from office—
 
-(a) the second Vice-President assumes office as first Vice-President until the expiry of the former first Vice-President ' s term of office; and
+(a) the second Vice-President assumes office as first Vice-President until the expiry of the former first Vice-President’s term of office; and
 
-(b) the President must without delay appoint a qualified person to be second Vice-President until the expiry of the former first Vice-President ' s term of office.
+(b) the President must without delay appoint a qualified person to be second Vice-President until the expiry of the former first Vice-President’s term of office.
 
 45
 
@@ -2955,7 +2933,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) The salaries and allowances of the President and Vice-Presidents must be charged upon and paid out of the Consolidated Revenue Fund.
 
-(3) A person who has ceased to be President or Vice-President is entitled to receive -
+(3) A person who has ceased to be President or Vice-President is entitled to receive—
 
 (a) a pension equivalent to the salary of a sitting President or Vice-President, as the case may be; and
 
@@ -2967,7 +2945,7 @@ The President and Vice-Presidents, and any former President or Vice-President, m
 
 ##### PART 3
 
-##### MINISTERS,DEPUTYMINISTERS ANDCABINET
+##### MINISTERS, DEPUTY MINISTERS AND CABINET
 
 ###### 104 Appointment of Ministers and Deputy Ministers
 
@@ -3001,7 +2979,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Every Vice-President, Minister and Deputy Minister must act in accordance with this Constitution.
 
-(2) Vice-Presidents, Ministers and Deputy Ministers may not, during their tenure of office -
+(2) Vice-Presidents, Ministers and Deputy Ministers may not, during their tenure of office—
 
 (a) directly or indirectly, hold any other public office or undertake any other paid work;
 
@@ -3019,7 +2997,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 108 Tenure of office of Ministers and Deputy Ministers
 
-(1) The office of a Minister or Deputy Minister becomes vacant -
+(1) The office of a Minister or Deputy Minister becomes vacant—
 
 (a) if the President removes him or her from office;
 
@@ -3037,9 +3015,9 @@ Law Development Commission zowa@zol.co.zw
 
 (1) The Senate and the National Assembly, by a joint resolution passed by at least two-thirds of their total membership, may pass a vote of no confidence in the Government.
 
-(2) A motion for the resolution for a vote of no confidence may be moved only if -
+(2) A motion for the resolution for a vote of no confidence may be moved only if—
 
-(a) at least seven days ' notice of the motion has been given to the Speaker; and
+(a) at least seven days’ notice of the motion has been given to the Speaker; and
 
 (b) the notice of motion has been signed by at least half of all the Members of the National Assembly.
 
@@ -3051,13 +3029,13 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-- A motion for a vote of no confidence -
+(3) A motion for a vote of no confidence—
 
 (a) must be debated in a joint sitting of the two Houses of Parliament within twenty-one days after the Speaker received the notice of motion; and
 
 (b) must be voted on within seven consecutive sittings after it was moved; otherwise it is regarded as lost.
 
-(4) Where Parliament passes a vote of no confidence in the Government, the President must, within fourteen days after the vote -
+(4) Where Parliament passes a vote of no confidence in the Government, the President must, within fourteen days after the vote—
 
 (a) remove all Ministers and Deputy Ministers from office, unless they have already resigned as a result of the resolution, and appoint persons in their place; or
 
@@ -3067,13 +3045,13 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 4
 
-##### EXECUTIVEFUNCTIONS
+##### EXECUTIVE FUNCTIONS
 
 ###### 110 Executive functions of President and Cabinet
 
 (1) The President has the powers conferred by this Constitution and by any Act of Parliament or other law, including those necessary to exercise the functions of Head of State.
 
-(2) Subject to this Constitution, the President is responsible for -
+(2) Subject to this Constitution, the President is responsible for—
 
 (a) assenting to and signing Bills;
 
@@ -3095,7 +3073,7 @@ Law Development Commission zowa@zol.co.zw
 
 (j) receiving and recognising foreign diplomatic and consular representatives.
 
-- Subject to this Constitution, the Cabinet is responsible for -
+(3) Subject to this Constitution, the Cabinet is responsible for—
 
 (a) directing the operations of Government;
 
@@ -3131,7 +3109,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 112 Power of mercy
 
-(1) The President, after consultation with the Cabinet, may exercise the power of mercy, that is to say, may -
+(1) The President, after consultation with the Cabinet, may exercise the power of mercy, that is to say, may—
 
 (a) grant a pardon to any person concerned in or convicted of an offence against any law;
 
@@ -3153,7 +3131,7 @@ and may impose conditions on any such pardon, respite, substitution or suspensio
 
 (2) A declaration of a state of public emergency ceases to have effect after fourteen days beginning with the day of publication of the proclamation in the Gazette unless, before the end of that period, the declaration is approved by at least two-thirds of the total membership of Parliament at a joint sitting of the Senate and the National Assembly.
 
-(3)If Parliament is dissolved during the period of fourteen days after a state of public emergency has been declared, the declaration ceases to have effect after twentyone days, beginning with the day of publication of the proclamation in the Gazette,. unless within that period the declaration is approved by a majority of all the Members of the new Parliament at a joint sitting of the Senate and the National Assembly.
+(3)If Parliament is dissolved during the period of fourteen days after a state of public emergency has been declared, the declaration ceases to have effect after twenty-one days, beginning with the day of publication of the proclamation in the Gazette,. unless within that period the declaration is approved by a majority of all the Members of the new Parliament at a joint sitting of the Senate and the National Assembly.
 
 (4) A declaration of a state of public emergency which has been approved under subsection (2) or (3) remains in effect for three months from the date on which the proclamation was published in the Gazette unless it has earlier been revoked or ceased to have effect under this section.
 
@@ -3167,13 +3145,13 @@ Law Development Commission zowa@zol.co.zw
 
 (5) If a declaration of a state of public emergency is not approved after consideration by Parliament, or if for any reason it is not considered by Parliament within the period specified in this section, the President must, within seven days, by proclamation in the Gazette, revoke the declaration.
 
-(6) If, by a resolution passed by a majority of the members present at a joint sitting of the Senate and the National Assembly, Parliament resolves that a declaration of a state of public emergency -
+(6) If, by a resolution passed by a majority of the members present at a joint sitting of the Senate and the National Assembly, Parliament resolves that a declaration of a state of public emergency—
 
 (a) should be continued for a further period not exceeding three months, the President must without delay, by proclamation in the Gazette, extend the declaration for that further period;
 
 (b) should be revoked or that it should apply within a smaller area, the President must without delay, by proclamation in the Gazette, revoke the declaration or provide that the declaration relates to that smaller area.
 
-(7) The Constitutional Court, on the application of any interested person, may determine the validity of -
+(7) The Constitutional Court, on the application of any interested person, may determine the validity of—
 
 (a) a declaration of a state of public emergency;
 
@@ -3193,7 +3171,7 @@ Law Development Commission zowa@zol.co.zw
 
 (3) A person is qualified for appointment as Attorney-General if he or she is qualified lor appointment as a judge of the High Court.
 
-(4) The functions of the Attorney-General are -
+(4) The functions of the Attorney-General are—
 
 (a) to act as the principal legal adviser to the Government;
 
@@ -3203,11 +3181,11 @@ Law Development Commission zowa@zol.co.zw
 
 (d) to promote, protect and uphold the rule of law and to defend the public interest; and
 
-(e) to exercise any other functions that may be assigned to the AttorneyGeneral by an Act of Parliament;
+(e) to exercise any other functions that may be assigned to the Attorney-General by an Act of Parliament;
 
-and the Attorney-General may exercise those functions in person or through subordinate officers acting under the Attorney-General ' s general or specific instructions.
+and the Attorney-General may exercise those functions in person or through subordinate officers acting under the Attorney-General’s general or specific instructions.
 
-(5) The Attorney-General may -
+(5) The Attorney-General may—
 
 (a) attend Cabinet meetings, but has no vote;
 
@@ -3229,11 +3207,11 @@ The President may at any time remove the Attorney-General from office.
 
 #### CHAPTER 6
 
-#### THELEGISLATURE
+#### THE LEGISLATURE
 
 ##### PART 1
 
-##### LEGISLATIVEAUTHORITY
+##### LEGISLATIVE AUTHORITY
 
 ###### 116 The Legislature
 
@@ -3243,7 +3221,7 @@ The Legislature of Zimbabwe consists of Parliament and the President acting in a
 
 (1) The legislative authority of Zimbabwe is derived from the people and is vested in and exercised in accordance with this Constitution by the Legislature.
 
-(2) The legislative authority confers on the Legislature the power -
+(2) The legislative authority confers on the Legislature the power—
 
 (a) to amend this Constitution in accordance with section 328;
 
@@ -3275,9 +3253,13 @@ Parliament consists of the Senate and the National Assembly.
 
 Law Development Commission zowa@zol.co.zw
 
+##### PART 3
+
+##### THE SENATE
+
 ###### 120 Composition of Senate.
 
-(1) The Senate consists of eighty Senators, of whom -
+(1) The Senate consists of eighty Senators, of whom—
 
 (a) six are elected from each of the provinces into which Zimbabwe is divided, by a system of proportional representation conforming with subsection (2);
 
@@ -3287,7 +3269,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) two are elected in the manner prescribed in the Electoral Law to represent persons with disabilities.
 
-(2) Elections of Senators must be conducted in accordance with the Electoral Law, which must ensure that the Senators referred to in subsection (1)(a) are elected under a party-list system of proportional representation -
+(2) Elections of Senators must be conducted in accordance with the Electoral Law, which must ensure that the Senators referred to in subsection (1)(a) are elected under a party-list system of proportional representation—
 
 (a) which is based on the votes cast for candidates representing political parties in each of the provinces in the general election for Members of the National Assembly; and
 
@@ -3295,7 +3277,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 121 Qualifications and disqualifications for election as Senator
 
-(1) A person is qualified for election as a Senator referred to in section 120(1) (a) or (d) if he or she -
+(1) A person is qualified for election as a Senator referred to in section 120(1)(a) or (d) if he or she—
 
 (a) is registered as a voter; and
 
@@ -3303,7 +3285,7 @@ Law Development Commission zowa@zol.co.zw
 
 unless he or she is disqualified under subsection (4) or (5).
 
-(2) A person is qualified for election as a Senator Chief referred to in section 120(1)(b) if he or she -
+(2) A person is qualified for election as a Senator Chief referred to in section 120(1)(b) if he or she—
 
 (a) holds the office of Chief; and
 
@@ -3311,19 +3293,15 @@ unless he or she is disqualified under subsection (4) or (5).
 
 unless he or she is disqualified under subsection (4) or (5).
 
-(3) A person is qualified for election as a Senator referred to in section 120(1) (d) if he or she is a person with a disability as defined in the Electoral Law, unless he or she is disqualified under subsection (4) or (5).
+(3) A person is qualified for election as a Senator referred to in section 120(1)(d) if he or she is a person with a disability as defined in the Electoral Law, unless he or she is disqualified under subsection (4) or (5).
 
-(4) A person is disqualified for election as a Senator if -
+(4) A person is disqualified for election as a Senator if—
 
 (a) he or she is disqualified under the Fourth Schedule for registration as a voter; or
 
 (b) within five years before the election, he or she vacated a seat in the Senate or the National Assembly in terms of section 129(1)(i) through having been convicted of an offence.
 
 (5) A person is disqualified for election at a by-election in the Senate if he or she is a Member of Parliament.
-
-##### PART 3
-
-##### THESENATE
 
 52
 
@@ -3349,7 +3327,7 @@ Law Development Commission zowa@zol.co.zw
 
 (7) The President of the Senate may resign by announcing his or her resignation in person to the Senate or, if the Senate is not sitting, by giving written notice to the Clerk of Parliament.
 
-(8) The President of the Senate must vacate his or her office -
+(8) The President of the Senate must vacate his or her office—
 
 (a) on the day on which the Senate first meets after a general election;
 
@@ -3383,7 +3361,7 @@ Law Development Commission zowa@zol.co.zw
 
 (5) The Deputy President of the Senate may resign his or her office by announcing his or her resignation in person to the Senate or, if the Senate is not sitting, by giving written notice to the President of the Senate or, in the absence of the President of the Senate, to the Clerk of Parliament.
 
-(6) The Deputy President of the Senate must vacate his or her office -
+(6) The Deputy President of the Senate must vacate his or her office—
 
 (a) upon ceasing to be a Senator;
 
@@ -3395,11 +3373,11 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 4
 
-##### THENATIONALASSEMBLY
+##### THE NATIONAL ASSEMBLY
 
 ###### 124 Composition of National Assembly
 
-(1) The National Assembly consists of -
+(1) The National Assembly consists of—
 
 (a) two hundred and ten members elected by secret ballot from the two hundred and ten constituencies into which Zimbabwe is divided; and
 
@@ -3411,7 +3389,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 125 Qualifications and disqualifications for election to National Assembly
 
-(1) A person is qualified for election as a Member of the National Assembly if he or she -
+(1) A person is qualified for election as a Member of the National Assembly if he or she—
 
 (a) is registered as a voter; and
 
@@ -3419,7 +3397,7 @@ Law Development Commission zowa@zol.co.zw
 
 unless he or she is disqualified under subsection (2) or (3).
 
-(2) A person is disqualified for election as a Member of the National Assembly i f -
+(2) A person is disqualified for election as a Member of the National Assembly if—
 
 (a) he or she is disqualified under the Fourth Schedule for registration as a voter; or
 
@@ -3451,7 +3429,7 @@ Law Development Commission zowa@zol.co.zw
 
 (7) The Speaker may resign by announcing his or her resignation in person to the National Assembly or, if the National Assembly is not sitting, by giving written notice to the Clerk of Parliament.
 
-(8) The Speaker must vacate his or her office -
+(8) The Speaker must vacate his or her office—
 
 (a) on the day on which the National Assembly first meets after a general election;
 
@@ -3471,7 +3449,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) Whenever there is a vacancy in the office of Deputy Speaker, the National Assembly must without delay elect a person to fill the vacancy.
 
-(3) Elections to the office of Deputy Speaker must be conducted by the Clerk of Parliament under the supervision of the Zimbabwe Electoral Commission, by secret bal lot in accordance with Standing Orders, and the results must be announced forthwith.
+(3) Elections to the office of Deputy Speaker must be conducted by the Clerk of Parliament under the supervision of the Zimbabwe Electoral Commission, by secret ballot in accordance with Standing Orders, and the results must be announced forthwith.
 
 (4) Before commencing his or her duties, the Deputy Speaker must take before the Chief Justice or the next most senior judge available the oaths of loyalty and office in the forms set out in the Third Schedule.
 
@@ -3485,7 +3463,7 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-- The Deputy Speaker must vacate his or her office -
+(6) The Deputy Speaker must vacate his or her office—
 
 (a) upon ceasing to be a Member of the National Assembly;
 
@@ -3497,7 +3475,7 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 5
 
-##### TENURE OFMEMBERS OFPARLIAMENT
+##### TENURE OF MEMBERS OF PARLIAMENT
 
 ###### 128 Oath of Member of Parliament
 
@@ -3507,7 +3485,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 129 Tenure of seat of Member of Parliament
 
-( 1 ) The seat of a Member of Parliament becomes vacant -
+(1) The seat of a Member of Parliament becomes vacant—
 
 (a) on the dissolution of Parliament;
 
@@ -3521,11 +3499,11 @@ Law Development Commission zowa@zol.co.zw
 
 (f) if, without leave from the Speaker or the President of the Senate, as the case may be, the Member is absent from the House of which he or she is a member for twenty-one consecutive days on which the House sits, and the House concerned resolves by a vote of at least one-half of its total membership that the seat should become vacant;
 
-(g) if the Member accepts public office or office as a member of a statutorybody, government-controlled entity, provincial or metropolitan council or local authority or employment as an employee of a statutory body, provincial or metropolitan council or local authority;
+(g) if the Member accepts public office or office as a member of a statutory body, government-controlled entity, provincial or metropolitan council or local authority or employment as an employee of a statutory body, provincial or metropolitan council or local authority;
 
 (h) if the Member was a public officer or a member or employee of a statutory body, a government-controlled entity, a provincial or metropolitan council or a local authority on the date he or she was declared as a Member of Parliament, and he or she fails to relinquish that office, membership or employment within thirty days after that date;
 
-(i) if the Member is convicted -
+(i) if the Member is convicted—
 
 (i) in Zimbabwe of an offence of which breach of trust, dishonesty or physical violence is an essential element; or
 
@@ -3539,7 +3517,7 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-and sentenced to imprisonment for six months or more without the option of a fine or without the option of any other non-custodial punishment, unless on appeal the Member ' s conviction is set aside or the sentence of imprisonment is reduced to less than six months or a punishment other than imprisonment is substituted;
+and sentenced to imprisonment for six months or more without the option of a fine or without the option of any other non-custodial punishment, unless on appeal the Member’s conviction is set aside or the sentence of imprisonment is reduced to less than six months or a punishment other than imprisonment is substituted;
 
 (j) if the Member has been declared insolvent under a law in force in Zimbabwe and has not been rehabilitated or discharged, or if the Member has made an assignment under such a law with his or her creditors which has not been rescinded or set aside;
 
@@ -3567,9 +3545,9 @@ and sentenced to imprisonment for six months or more without the option of a fin
 
 ###### 131 Acts of Parliament and procedure for their enactment
 
-(1) Parliament ' s legislative authority is exercised through the enactment of Acts of Parliament.
+(1) Parliament’s legislative authority is exercised through the enactment of Acts of Parliament.
 
-(2) An Act of Parliament is a Bill which has been -
+(2) An Act of Parliament is a Bill which has been—
 
 (a) presented in and passed by both Houses of Parliament; and
 
@@ -3577,7 +3555,7 @@ and sentenced to imprisonment for six months or more without the option of a fin
 
 in accordance with this Constitution.
 
-(3) The words of enactment in Acts of Parliament are ' Enacted by the Parliament and the President of Zimbabwe ' , or words to that effect.
+(3) The words of enactment in Acts of Parliament are “Enacted by the Parliament and the President of Zimbabwe”, or words to that effect.
 
 57
 
@@ -3589,33 +3567,33 @@ Law Development Commission zowa@zol.co.zw
 
 (4) The procedure to be followed by the National Assembly and the Senate with regard to Bills is set out in the Fifth Schedule.
 
-(5) After a Bill has been passed by both Houses in accordance with theFifth Schedule, the President of the Senate or the Speaker, as the case may be, must without delay -
+(5) After a Bill has been passed by both Houses in accordance with the Fifth Schedule, the President of the Senate or the Speaker, as the case may be, must without delay—
 
 (a) cause it to be presented to the President for assent and signature, together with any certificate which is required by this Constitution to accompany the Bill; and
 
 (b) give public notice of the date on which the Bill was sent to the President.
 
-(6)When a Bill is presented to the President for assent and signature, he or she must, within twenty-one days, either -
+(6) When a Bill is presented to the President for assent and signature, he or she must, within twenty-one days, either—
 
 (a) assent to it and sign it, and then cause it to be published in Gazette without delay; or
 
 (b) if he or she considers it to be unconstitutional or has any other reservations about it, refer the Bill back to Parliament through the Clerk of Parliament, together with detailed written reasons for those reservations and a request that the Bill be reconsidered.
 
-(7)Where a Bill has been referred back to Parliament in terms of subsection (6)(b), the Speaker must without delay convene a sitting of the National Assembly, which must -
+(7) Where a Bill has been referred back to Parliament in terms of subsection (6)(b), the Speaker must without delay convene a sitting of the National Assembly, which must—
 
-(a) reconsider the Bill and fully accommodate the President ' s reservations; or
+(a) reconsider the Bill and fully accommodate the President’s reservations; or
 
 (b) pass the Bill, with or without amendments, by a two-thirds majority of the total membership of the National Assembly;
 
 and in either case the Speaker must cause the Bill to be presented to the President without delay for assent and signature and must give public notice of the date on which the Bill was sent to the President.
 
-(8)If a Bill that has been presented to the President in terms of subsection (7) fully accommodates the President ' s reservations, the President must assent to the Bill and sign it within twenty-one days and then cause it to be published in the Gazette without delay, but if the President still has reservations about the Bill, he or she must within that period either -
+(8) If a Bill that has been presented to the President in terms of subsection (7) fully accommodates the President’s reservations, the President must assent to the Bill and sign it within twenty-one days and then cause it to be published in the Gazette without delay, but if the President still has reservations about the Bill, he or she must within that period either—
 
 (a) assent to the Bill and sign it, despite those reservations; or
 
 (b) refer the Bill to the Constitutional Court for advice on its constitutionality.
 
-(9)If on a reference under subsection (8) the Constitutional Court advises that the Bill is constitutional, the President must assent to it and sign it immediately and cause it to be published in the Gazette without delay.
+(9) If on a reference under subsection (8) the Constitutional Court advises that the Bill is constitutional, the President must assent to it and sign it immediately and cause it to be published in the Gazette without delay.
 
 (10) If a Bill is presented to the President for assent and signature and it is not accompanied by a certificate which is required by any provision of this Constitution, the President must not assent to the Bill or sign it until the certificate is produced but must cause the Clerk of Parliament to be notified, immediately and in writing, that the certificate was not sent with the Bill.
 
@@ -3625,7 +3603,7 @@ An Act of Parliament comes into operation at the beginning of the day on which i
 
 ###### 133 Enrolment of Acts of Parliament
 
-(1) When the President has assented to and signed an Act of Parliament, the Clerk of Parliament must transmit a fair copy of it, authenticated by the President ' s signature and the public seal of Zimbabwe, to be enrolled in the office of the Registrar of the High Court, and that copy is conclusive evidence of the provisions of the Act unless the Act is revised under an Act of Parliament referred to in subsection (2).
+(1) When the President has assented to and signed an Act of Parliament, the Clerk of Parliament must transmit a fair copy of it, authenticated by the President’s
 
 58
 
@@ -3635,7 +3613,9 @@ An Act of Parliament comes into operation at the beginning of the day on which i
 
 Law Development Commission zowa@zol.co.zw
 
-(2) An Act of Parliament may provide for the statute law, or any part of it, to be published in revised form and may further provide that -
+signature and the public seal of Zimbabwe, to be enrolled in the office of the Registrar of the High Court, and that copy is conclusive evidence of the provisions of the Act unless the Act is revised under an Act of Parliament referred to in subsection (2).
+
+(2) An Act of Parliament may provide for the statute law, or any part of it, to be published in revised form and may further provide that—
 
 (a) upon being published, the revision is the sole authentic version of the statutes contained in it;
 
@@ -3647,9 +3627,9 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 134 Subsidiary legislation
 
-Parliament may, in an Act of Parliament, delegate power to make statutory instruments within the scope of and for the purposes laid out in that Act, but -
+Parliament may, in an Act of Parliament, delegate power to make statutory instruments within the scope of and for the purposes laid out in that Act, but—
 
-(a) Parliament ' s primary law-making power must not be delegated;
+(a) Parliament’s primary law-making power must not be delegated;
 
 (b) statutory instruments must not infringe or limit any of the rights and freedoms set out in the Declaration of Rights;
 
@@ -3673,7 +3653,7 @@ Parliament may, in an Act of Parliament, delegate power to make statutory instru
 
 ###### 136 Persons presiding in Parliament
 
-(1) The person presiding at any sitting of the Senate must be -
+(1) The person presiding at any sitting of the Senate must be—
 
 (a) the President of the Senate or, in his or her absence, the Deputy President of the Senate; or
 
@@ -3687,7 +3667,7 @@ Parliament may, in an Act of Parliament, delegate power to make statutory instru
 
 Law Development Commission zowa@zol.co.zw
 
-(2) The person presiding at any sitting of the National Assembly must be -
+(2) The person presiding at any sitting of the National Assembly must be—
 
 (a) the Speaker or, in his or her absence, the Deputy Speaker; or
 
@@ -3701,7 +3681,7 @@ The Senate and the National Assembly must prescribe in Standing Orders the minim
 
 ###### 138 Voting and right of audience in Parliament
 
-(1) Except where this Constitution provides otherwise -
+(1) Except where this Constitution provides otherwise—
 
 (a) all questions proposed for decision in either House of Parliament are decided by a majority of the votes of the Members of that House present and voting;
 
@@ -3721,7 +3701,7 @@ The Senate and the National Assembly must prescribe in Standing Orders the minim
 
 (1) The proceedings of the Senate and the National Assembly are regulated by rules known as Standing Orders, which are made by the Houses individually or jointly on the recommendation of the Committee on Standing Rules and Orders.
 
-(2) Standing Orders may provide for -
+(2) Standing Orders may provide for—
 
 (a) the passing of Bills;
 
@@ -3761,13 +3741,13 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 141 Public access to and involvement in Parliament
 
-Parliament must -
+Parliament must—
 
 (a) facilitate public involvement in its legislative and other processes and in the processes of its committees;
 
 (b) ensure that interested parties are consulted about Bills being considered by Parliament, unless such consultation is inappropriate or impracticable; and
 
-(c) conduct its business in a transparent manner and hold its sittings, and those of its committees, in public, though measures may be taken -
+(c) conduct its business in a transparent manner and hold its sittings, and those of its committees, in public, though measures may be taken—
 
 (i) to preserve order in parliamentary proceedings;
 
@@ -3807,17 +3787,17 @@ Law Development Commission zowa@zol.co.zw
 
 (4) A decision to dissolve Parliament in terms of subsection (3) may, on the application of any Member of Parliament, be set aside on review by the Constitutional Court.
 
-(5) An application for the review of a decision to dissolve Parliament must be filed with the Constitutional Court within seven days after the decision was published, and -
+(5) An application for the review of a decision to dissolve Parliament must be filed with the Constitutional Court within seven days after the decision was published, and—
 
 (a) the Constitutional Court must determine the application within fourteen days after it was filed; and
 
-(b) pending the Constitutional Court ' s determination of the application, the decision to dissolve Parliament is suspended.
+(b) pending the Constitutional Court’s determination of the application, the decision to dissolve Parliament is suspended.
 
 ###### 144 General election resulting from dissolution of Parliament
 
 (1) Where Parliament has not earlier passed resolutions to dissolve in terms of section 143(2), the President must by proclamation call and set dates for a general election to be held within the period prescribed in section 158.
 
-(2) Where -
+(2) Where—
 
 (a) Parliament has passed resolutions to dissolve in terms of section 143(2);
 
@@ -3847,7 +3827,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 146 Sittings and recess periods
 
-Each House of Parliament determines the time and duration of its sittings, other than its first sitting, and its periods of recess, but -
+Each House of Parliament determines the time and duration of its sittings, other than its first sitting, and its periods of recess, but—
 
 (a) the President may summon Parliament at any time to conduct special business;
 
@@ -3859,13 +3839,13 @@ On the dissolution of Parliament, all proceedings pending at the time are termin
 
 ##### PART 9
 
-##### GENERALMATTERSRELATING TOPARLIAMENT
+##### GENERAL MATTERS RELATING TO PARLIAMENT
 
 ###### 148 Privileges and immunities of Parliament
 
 (1) The President of the Senate, the Speaker and Members of Parliament have freedom of speech in Parliament and in all parliamentary committees and, while they must obey the rules and orders of the House concerned, they are not liable to civil or criminal proceedings, arrest or imprisonment or damages for anything said in, produced before or submitted to Parliament or any of its committees.
 
-(2) An Act of Parliament may -
+(2) An Act of Parliament may—
 
 (a) provide for other privileges, immunities and powers of Parliament and its Members and officers;
 
@@ -3895,7 +3875,7 @@ Parliament may sit at places other than the ordinary seat of Parliament, but onl
 
 ###### 151 Committee on Standing Rules and Orders
 
-(1) Parliament must appoint a committee to be known as the Committee on Standing Rules and Orders for the purpose of -
+(1) Parliament must appoint a committee to be known as the Committee on Standing Rules and Orders for the purpose of—
 
 (a) supervising the administration of Parliament;
 
@@ -3905,7 +3885,7 @@ Parliament may sit at places other than the ordinary seat of Parliament, but onl
 
 (d) exercising any other functions that may be conferred or imposed on the committee by this Constitution or by Standing Orders or any other law.
 
-(2) The Committee on Standing Rules and Orders must consist of the Speaker and the President of the Senate and the following Members of Parliament -
+(2) The Committee on Standing Rules and Orders must consist of the Speaker and the President of the Senate and the following Members of Parliament—
 
 (a) the Deputy Speaker;
 
@@ -3949,7 +3929,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) A majority of the members of the Parliamentary Legal Committee must be qualified to practise in Zimbabwe as legal practitioners unless there are insufficient such persons eligible to be appointed to the Committee.
 
-(3) The Parliamentary Legal Committee must examine -
+(3) The Parliamentary Legal Committee must examine—
 
 (a) every Bill, other than a Constitutional Bill, before it receives its final vote in the Senate or the National Assembly;
 
@@ -3957,7 +3937,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) every statutory instrument published in the Gazette;
 
-(d) every draft Bill which has been referred to the Committee by a VicePresident or a Minister; and
+(d) every draft Bill which has been referred to the Committee by a Vice-President or a Minister; and
 
 (e) every draft statutory instrument which has been referred to the Committee by the authority empowered to make the instrument;
 
@@ -3969,7 +3949,7 @@ and must report to Parliament or to the Vice-President, Minister or authority, a
 
 ###### 153 Remuneration of President of Senate, Speaker and Members of Parliament
 
-(1) The remuneration of the Speaker and the President of the Senate -
+(1) The remuneration of the Speaker and the President of the Senate—
 
 (a) must be prescribed in an Act of Parliament and is a charge on the Consolidated Revenue Fund;
 
@@ -3983,9 +3963,9 @@ and must report to Parliament or to the Vice-President, Minister or authority, a
 
 (1) The Committee on Standing Rules and Orders, with the approval of the National Assembly, must appoint an officer to be known as the Clerk of Parliament to be responsible, subject to Standing Orders and to the control and supervision of the Speaker, for the day-to-day administration of Parliament.
 
-(2) The Clerk of Parliament is appointed for a six-year term, and may be reappointed for one further such term.
+(2) The Clerk of Parliament is appointed for a six-year term, and may be re-appointed for one further such term.
 
-(3) The Clerk of Parliament must vacate his or her office -
+(3) The Clerk of Parliament must vacate his or her office—
 
 (a) if, on the recommendation of the Committee on Standing Rules and Orders, more than half of all the Members of the National Assembly resolve that the Clerk should be removed;
 
@@ -4003,7 +3983,7 @@ Law Development Commission zowa@zol.co.zw
 
 (4) The Committee on Standing Rules and Orders must appoint such other staff of Parliament as it considers necessary.
 
-(5) The Clerk of Parliament and the other staff of Parliament -
+(5) The Clerk of Parliament and the other staff of Parliament—
 
 (a) are appointed on terms of service approved from time to time by the Committee on Standing Rules and Orders; and
 
@@ -4015,11 +3995,11 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 1
 
-##### ELECTORALSYSTEMSANDPROCESSES
+##### ELECTORAL SYSTEMS AND PROCESSES
 
 ###### 155 Principles of electoral system
 
-(1) Elections, which must be held regularly, and referendums, to which this Constitution applies must be -
+(1) Elections, which must be held regularly, and referendums, to which this Constitution applies must be—
 
 (a) peaceful, free and fair;
 
@@ -4029,7 +4009,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) free from violence and other electoral malpractices.
 
-(2) The State must take all appropriate measures, including legislative measures, to ensure that effect is given to the principles set out in subsection (1) and, in particular, must -
+(2) The State must take all appropriate measures, including legislative measures, to ensure that effect is given to the principles set out in subsection (1) and, in particular, must—
 
 (a) ensure that all eligible citizens, that is to say the citizens qualified under the Fourth Schedule, are registered as voters;
 
@@ -4043,13 +4023,13 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 156 Conduct of elections and referendums
 
-At every election and referendum, the Zimbabwe Electoral Commission must ensure that -
+At every election and referendum, the Zimbabwe Electoral Commission must ensure that—
 
 (a) whatever voting method is used, it is simple, accurate, verifiable, secure and transparent;
 
 (b) the results of the election or referendum are announced as soon as possible after the close of the polls; and
 
-(c) appropriate systems and mechanisms are put in place -
+(c) appropriate systems and mechanisms are put in place—
 
 (i) to eliminate electoral violence and other electoral malpractices; and
 
@@ -4065,15 +4045,15 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 157 Electoral Law
 
-(1) An Act of Parliament must provide for the conduct of elections and referendums to which this Constitution applies, and in particular for the following matters -
+(1) An Act of Parliament must provide for the conduct of elections and referendums to which this Constitution applies, and in particular for the following matters—
 
 (a) the periodic delimitation of constituencies and wards in accordance with section 161;
 
-(b) the registration of voters , and requirements for registration on particular voters ' rolls;
+(b) the registration of voters, and requirements for registration on particular voters’ rolls;
 
 (c) a code of conduct for political parties, candidates and other persons participating in elections or referendums;
 
-(d) a system of proportional representation for the election of persons to the seats in the Senate referred to in section 120(1)(a) and the seats reserved for women in the National Assembly referred to in section 124(1)(b), and the procedure for filling vacancies in those seats, which vacancies must be filled by persons -
+(d) a system of proportional representation for the election of persons to the seats in the Senate referred to in section 120(1)(a) and the seats reserved for women in the National Assembly referred to in section 124(1)(b), and the procedure for filling vacancies in those seats, which vacancies must be filled by persons—
 
 (i) belonging to the same political parties as those who previously held the seats; and
 
@@ -4095,13 +4075,13 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 2
 
-##### TIMING OFELECTIONS
+##### TIMING OF ELECTIONS
 
 ###### 158 Timing of elections
 
-(1) A general election must be held so that polling takes place not more than -
+(1) A general election must be held so that polling takes place not more than—
 
-(a) thirty days before the expiry of the five-year period specified in section 143 ;
+(a) thirty days before the expiry of the five-year period specified in section 143;
 
 (b) where Parliament has passed resolutions to dissolve in terms of section 143(2), ninety days after the passing of the last such resolution; or
 
@@ -4125,7 +4105,7 @@ Whenever a vacancy occurs in any elective public office established in terms of 
 
 ##### PART 3
 
-##### DELIMITATION OFELECTORALBOUNDARIES
+##### DELIMITATION OF ELECTORAL BOUNDARIES
 
 ###### 160 Number of constituencies and wards
 
@@ -4137,19 +4117,19 @@ Whenever a vacancy occurs in any elective public office established in terms of 
 
 (1) Once every ten years, on a date or within a period fixed by the Commission so as to fall as soon as possible after a population census, the Zimbabwe Electoral Commission must conduct a delimitation of the electoral boundaries into which Zimbabwe is to be divided.
 
-(2) If a delimitation of electoral boundaries is completed less than six months before polling day in a general election, the boundaries so delimited do not apply to that election, and instead the boundaries that existed immediately before the delimita tion are applicable.
+(2) If a delimitation of electoral boundaries is completed less than six months before polling day in a general election, the boundaries so delimited do not apply to that election, and instead the boundaries that existed immediately before the delimitation are applicable.
 
 (3) The boundaries of constituencies must be such that, so far as possible, at the time of delimitation equal numbers of voters are registered in each constituency within Zimbabwe.
 
 (4) The boundaries of wards must be such that, so far as possible, at the time of delimitation equal numbers of voters are registered in each ward of the local authority concerned.
 
-(5) In delimiting -
+(5) In delimiting—
 
 (a) the boundaries of wards, the Zimbabwe Electoral Commission must ensure that no ward is divided between two or more local authority areas;
 
 (b) the boundaries of constituencies, the Zimbabwe Electoral Commission must ensure that no ward is divided between two or more constituencies.
 
-(6) In dividing Zimbabwe into wards and constituencies, the Zimbabwe Electoral Commission must, in respect of any area, give due consideration to -
+(6) In dividing Zimbabwe into wards and constituencies, the Zimbabwe Electoral Commission must, in respect of any area, give due consideration to—
 
 (a) its physical features;
 
@@ -4173,7 +4153,7 @@ Law Development Commission zowa@zol.co.zw
 
 and to give effect to these considerations, the Commission may depart from the requirement that constituencies and wards must have equal numbers of voters, but no constituency or ward of the local authority concerned may have more than twenty per cent more or fewer registered voters than the other such constituencies or wards.
 
-(7) After delimiting wards and constituencies, the Zimbabwe Electoral Commission must submit to the President a preliminary report containing -
+(7) After delimiting wards and constituencies, the Zimbabwe Electoral Commission must submit to the President a preliminary report containing—
 
 (a) a list of the wards and constituencies, with the names assigned to each and a description of their boundaries;
 
@@ -4183,31 +4163,31 @@ and to give effect to these considerations, the Commission may depart from the r
 
 and the President must cause the preliminary delimitation report to be laid before Parliament within seven days.
 
-(8) Within fourteen days after a preliminary delimitation report has been laid before Parliament -
+(8) Within fourteen days after a preliminary delimitation report has been laid before Parliament—
 
 (a) the President may refer the report back to the Zimbabwe Electoral Commission for further consideration of any matter or issue;
 
 (b) either House may resolve that the report should be referred back to the Zimbabwe Electoral Commission for further consideration of any matter or issue, and in that event the President must refer the report back to the Commission for that further consideration.
 
-(9) Where a preliminary delimitation report has been referred back to it under subsection (8), the Zimbabwe Electoral Commission must give further consideration to the matter or issue concerned, but the Commission ' s decision on it is final.
+(9) Where a preliminary delimitation report has been referred back to it under subsection (8), the Zimbabwe Electoral Commission must give further consideration to the matter or issue concerned, but the Commission’s decision on it is final.
 
 (10) As soon as possible after complying with subsections (7) and (9), the Zimbabwe Electoral Commission must submit a final delimitation report to the President.
 
-(11) Within fourteen days after receiving the Zimbabwe Electoral Commission ' s final report, the President must publish a proclamation in the Gazette declaring the names and boundaries of the wards and constituencies as finally determined by the Commission.
+(11) Within fourteen days after receiving the Zimbabwe Electoral Commission’s final report, the President must publish a proclamation in the Gazette declaring the names and boundaries of the wards and constituencies as finally determined by the Commission.
 
 (12) If there is a discrepancy between the description of the boundaries of any ward or constituency and the map or maps prepared by the Zimbabwe Electoral Commission, the description prevails.
 
 #### CHAPTER 8
 
-#### THEJUDICIARY AND THECOURTS
+#### THE JUDICIARY AND THE COURTS
 
-##### PART1
+##### PART 1
 
-##### THECOURTSYSTEM
+##### THE COURT SYSTEM
 
 ###### 162 Judicial authority
 
-Judicial authority derives from the people of Zimbabwe and is vested in the courts, which comprise -
+Judicial authority derives from the people of Zimbabwe and is vested in the courts, which comprise—
 
 (a) the Constitutional Court;
 
@@ -4235,7 +4215,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 163 The judiciary
 
-(1) The judiciary of Zimbabwe consists of -
+(1) The judiciary of Zimbabwe consists of—
 
 (a) the Chief Justice, the Deputy Chief Justice and the other judges of the Constitutional Court;
 
@@ -4253,15 +4233,15 @@ Law Development Commission zowa@zol.co.zw
 
 (3) The Judge President of the High Court is in charge of that court.
 
-- The Judge President of the Labour Court is in charge of that court.
+(4) The Judge President of the Labour Court is in charge of that court.
 
-- The Judge President of the Administrative Court is in charge of that court.
+(5) The Judge President of the Administrative Court is in charge of that court.
 
 ###### 164 Independence of judiciary
 
 (1) The courts are independent and are subject only to this Constitution and the law, which they must apply impartially, expeditiously and without fear, favour or prejudice.
 
-(2) The independence, impartiality and effectiveness of the courts are central to the rule of law and democratic governance, and therefore -
+(2) The independence, impartiality and effectiveness of the courts are central to the rule of law and democratic governance, and therefore—
 
 (a) neither the State nor any institution or agency of the government at any level, and no other person, may interfere with the functioning of the courts;
 
@@ -4273,7 +4253,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 165 Principles guiding judiciary
 
-(1) In exercising judicial authority, members of the judiciary must be guided by the following principles -
+(1) In exercising judicial authority, members of the judiciary must be guided by the following principles—
 
 (a) justice must be done to all, irrespective of status;
 
@@ -4293,7 +4273,7 @@ Law Development Commission zowa@zol.co.zw
 
 (3) When making a judicial decision, a member of the judiciary must make it freely and without interference or undue influence.
 
-(4) Members of the judiciary must not -
+(4) Members of the judiciary must not—
 
 (a) engage in any political activities;
 
@@ -4311,7 +4291,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 166 Constitutional Court
 
-(1) The Constitutional Court is a superior court of record and consists of -
+(1) The Constitutional Court is a superior court of record and consists of—
 
 (a) the Chief Justice and the Deputy Chief Justice; and
 
@@ -4319,9 +4299,9 @@ Law Development Commission zowa@zol.co.zw
 
 (2) If the services of an acting judge are required on the Constitutional Court for a limited period, the Chief Justice may appoint a judge or a former judge to act as a judge of the Constitutional Court for that period.
 
-(3) Cases before the Constitutional Court -
+(3) Cases before the Constitutional Court—
 
-(a) concerning alleged infringements of a fundamental human right or freedom enshrined in Chapter 4, or concerning the election of a President or VicePresident, must be heard by all the judges of the Court;
+(a) concerning alleged infringements of a fundamental human right or freedom enshrined in Chapter 4, or concerning the election of a President or Vice-President, must be heard by all the judges of the Court;
 
 (b) other than cases referred to in paragraph (a), must be heard by at least three judges of the Court;
 
@@ -4331,7 +4311,7 @@ but an Act of Parliament or rules of the Court may provide for interlocutory mat
 
 ###### 167 Jurisdiction of Constitutional Court
 
-(1) The Constitutional Court -
+(1) The Constitutional Court—
 
 (a) is the highest court in all constitutional matters, and its decisions on those matters bind all other courts;
 
@@ -4347,7 +4327,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) makes the final decision whether a matter is a constitutional matter or whether an issue is connected with a decision on a constitutional matter.
 
-- Subject to this Constitution, only the Constitutional Court may -
+(2) Subject to this Constitution, only the Constitutional Court may—
 
 (a) advise on the constitutionality of any proposed legislation, but may do so only where the legislation concerned has been referred to it in terms of this Constitution;
 
@@ -4357,11 +4337,11 @@ Law Development Commission zowa@zol.co.zw
 
 (d) determine whether Parliament or the President has failed to fulfil a constitutional obligation.
 
-(3) The Constitutional Court makes the final decision whether an Act of Par liament or conduct of the President or Parliament is constitutional, and must confirm any order of constitutional invalidity made by another court before that order has any force.
+(3) The Constitutional Court makes the final decision whether an Act of Parliament or conduct of the President or Parliament is constitutional, and must confirm any order of constitutional invalidity made by another court before that order has any force.
 
 (4) An Act of Parliament may provide for the exercise of jurisdiction by the Constitutional Court and for that purpose may confer the power to make rules of court.
 
-(5) Rules of the Constitutional Court must allow a person, when it is in the interests of justice and with or without leave of the Constitutional Court -
+(5) Rules of the Constitutional Court must allow a person, when it is in the interests of justice and with or without leave of the Constitutional Court—
 
 (a) to bring a constitutional matter directly to the Constitutional Court;
 
@@ -4371,7 +4351,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 168 Supreme Court
 
-(1) The Supreme Court is a superior court of record and consists of -
+(1) The Supreme Court is a superior court of record and consists of—
 
 (a) the Chief Justice and the Deputy Chief Justice;
 
@@ -4399,17 +4379,17 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-(4) Rules of court may confer on a registrar of the Supreme Court any of the Court ' s jurisdiction and powers in civil cases -
+(4) Rules of court may confer on a registrar of the Supreme Court any of the Court’s jurisdiction and powers in civil cases—
 
 (a) to make orders in uncontested cases, other than orders affecting status or the custody or guardianship of children;
 
 (b) to decide preliminary or interlocutory matters, including applications for directions, but not matters affecting the liberty of any person;
 
-but the rules must give any person affected by the registrar ' s order or decision a right to have it reviewed by a judge of the Supreme Court, who may confirm it, amend it or set it aside or give any other order or decision he or she thinks fit.
+but the rules must give any person affected by the registrar’s order or decision a right to have it reviewed by a judge of the Supreme Court, who may confirm it, amend it or set it aside or give any other order or decision he or she thinks fit.
 
 ###### 170 High Court
 
-The High Court is a superior court of record and consists of -
+The High Court is a superior court of record and consists of—
 
 (a) the Chief Justice, the Deputy Chief Justice and the Judge President of the High Court; and
 
@@ -4417,7 +4397,7 @@ The High Court is a superior court of record and consists of -
 
 ###### 171 Jurisdiction of High Court
 
-(1) The High Court -
+(1) The High Court—
 
 (a) has original jurisdiction over all civil and criminal matters throughout Zimbabwe;
 
@@ -4431,17 +4411,17 @@ The High Court is a superior court of record and consists of -
 
 (3) An Act of Parliament may provide for the High Court to be divided into specialised divisions, but every such division must be able to exercise the general jurisdiction of the High Court in any matter that is brought before it.
 
-(4) Rules of court may confer on a registrar of the High Court power in civil cases -
+(4) Rules of court may confer on a registrar of the High Court power in civil cases—
 
 (a) to make orders in uncontested cases, other than orders affecting status or the custody or guardianship of children;
 
 (b) to decide preliminary or interlocutory matters, including applications for directions, but not matters affecting the liberty of any person;
 
-but the rules must give any person affected by the registrar ' s order or decision a right to have it reviewed by a judge of the High Court, who may confirm it, amend it or set it aside or give any other order or decision he or she thinks fit.
+but the rules must give any person affected by the registrar’s order or decision a right to have it reviewed by a judge of the High Court, who may confirm it, amend it or set it aside or give any other order or decision he or she thinks fit.
 
 ###### 172 Labour Court
 
-(1) The Labour Court is a court of record and consists of -
+(1) The Labour Court is a court of record and consists of—
 
 (a) a Judge President; and
 
@@ -4461,7 +4441,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 173 Administrative Court
 
-(1) The Administrative Court is a court of record and consists of -
+(1) The Administrative Court is a court of record and consists of—
 
 (a) a Judge President; and
 
@@ -4473,7 +4453,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 174 Other courts and tribunals
 
-An Act of Parliament may provide for the establishment, composition and jurisdiction of -
+An Act of Parliament may provide for the establishment, composition and jurisdiction of—
 
 (a) magistrates courts, to adjudicate on civil and criminal cases;
 
@@ -4503,7 +4483,7 @@ An Act of Parliament may provide for the establishment, composition and jurisdic
 
 Law Development Commission zowa@zol.co.zw
 
-(6) When deciding a constitutional matter within its jurisdiction a court may -
+(6) When deciding a constitutional matter within its jurisdiction a court may—
 
 (a) declare that any law or conduct that is inconsistent with the Constitution is invalid to the extent of the inconsistency;
 
@@ -4515,15 +4495,15 @@ The Constitutional Court, the Supreme Court and the High Court have inherent pow
 
 ##### PART 2
 
-##### APPOINTMENT ANDTENURE OFMEMBERS OFJUDICIARY
+##### APPOINTMENT AND TENURE OF MEMBERS OF JUDICIARY
 
 ###### 177 Qualifications of judges of Constitutional Court
 
-(1) A person is qualified for appointment as a judge of the Constitutional Court if he or she is a Zimbabwean citizen, is at least forty years old and has a sound knowledge of constitutional law and, in addition, possesses one of the following qualifications -
+(1) A person is qualified for appointment as a judge of the Constitutional Court if he or she is a Zimbabwean citizen, is at least forty years old and has a sound knowledge of constitutional law and, in addition, possesses one of the following qualifications—
 
 (a) he or she has been a judge of a court with unlimited jurisdiction in civil or criminal matters in a country in which the common law is Roman-Dutch or English, and English is an officially recognised language; or
 
-(b) for at least twelve years, whether continuously or not, he or she has been qualified to practise as a legal practitioner -
+(b) for at least twelve years, whether continuously or not, he or she has been qualified to practise as a legal practitioner—
 
 (i) in Zimbabwe; or
 
@@ -4535,11 +4515,11 @@ and is currently so qualified to practise.
 
 ###### 178 Qualifications of judges of Supreme Court
 
-(1) A person is qualified for appointment as a judge of the Supreme Court if he or she is a Zimbabwean citizen and at least forty years old and, in addition -
+(1) A person is qualified for appointment as a judge of the Supreme Court if he or she is a Zimbabwean citizen and at least forty years old and, in addition—
 
 (a) is or has been a judge of a court with unlimited jurisdiction in civil or criminal matters in a country in which the common law is Roman-Dutch or English and English is an officially recognised language; or
 
-(b) for at least ten years, whether continuously or not, he or she has been qualified to practise as a legal practitioner -
+(b) for at least ten years, whether continuously or not, he or she has been qualified to practise as a legal practitioner—
 
 (i) in Zimbabwe; or
 
@@ -4559,11 +4539,11 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 179 Qualifications of judges of High Court, Labour Court and Administrative Court
 
-(1) A person is qualified for appointment as a judge of the High Court, the Labour Court or the Administrative Court if he or she is at least forty years old and, in addition -
+(1) A person is qualified for appointment as a judge of the High Court, the Labour Court or the Administrative Court if he or she is at least forty years old and, in addition—
 
 (a) is or has been a judge of a court with unlimited jurisdiction in civil or criminal matters in a country in which the common law is Roman-Dutch or English and English is an officially recognised language; or
 
-(b) for at least seven years, whether continuously or not, he or she has been qualified to practise as a legal practitioner -
+(b) for at least seven years, whether continuously or not, he or she has been qualified to practise as a legal practitioner—
 
 (i) in Zimbabwe;
 
@@ -4579,7 +4559,7 @@ and is currently so qualified to practise.
 
 (1) The Chief Justice, the Deputy Chief Justice, the Judge President of the High Court and all other judges are appointed by the President in accordance with this section.
 
-(2) Whenever it is necessary to appoint a judge, the Judicial Service Commission must -
+(2) Whenever it is necessary to appoint a judge, the Judicial Service Commission must—
 
 (a) advertise the position;
 
@@ -4609,7 +4589,7 @@ whereupon, subject to subsection (3), the President must appoint one of the nomi
 
 Law Development Commission zowa@zol.co.zw
 
-- If the office of -
+(2) If the office of—
 
 (a) Judge President of the High Court;
 
@@ -4625,7 +4605,7 @@ is vacant or if the office-holder is unable to perform the functions of that off
 
 ###### 182 Appointment of magistrates and other members of judiciary
 
-An Act of Parliament must provide for the appointment of magistrates and other judicial officers other than judges, but -
+An Act of Parliament must provide for the appointment of magistrates and other judicial officers other than judges, but—
 
 (a) magistrates must be appointed by the Judicial Service Commission;
 
@@ -4639,7 +4619,7 @@ Except as otherwise provided in this Constitution, a person must not be appointe
 
 ###### 184 Judicial appointments to reflect society
 
-Appointments to the judiciary must reflect broadly the diversity and gender com position of Zimbabwe.
+Appointments to the judiciary must reflect broadly the diversity and gender composition of Zimbabwe.
 
 ###### 185 Oath of office
 
@@ -4651,7 +4631,7 @@ Appointments to the judiciary must reflect broadly the diversity and gender com 
 
 ###### 186 Tenure of office of judges
 
-(1) Judges of the Constitutional Court are appointed for a non-renewable term of not more than fifteen years, but -
+(1) Judges of the Constitutional Court are appointed for a non-renewable term of not more than fifteen years, but—
 
 (a) they must retire earlier if they reach the age of seventy years; and
 
@@ -4677,7 +4657,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 187 Removal of judges from office
 
-- A judge may be removed from office only for -
+(1) A judge may be removed from office only for—
 
 (a) inability to perform the functions of his or her office, due to mental or physical incapacity;
 
@@ -4691,15 +4671,15 @@ and a judge cannot be removed from office except in accordance with this section
 
 (3) If the Judicial Service Commission advises the President that the question of removing any judge, including the Chief Justice, from office ought to be investigated, the President must appoint a tribunal to inquire into the matter.
 
-(4) A tribunal appointed under this section must consist of at least three members appointed by the President, of whom -
+(4) A tribunal appointed under this section must consist of at least three members appointed by the President, of whom—
 
-(a) at least one must be a person who -
+(a) at least one must be a person who—
 
 (i) has served as a judge of the Supreme Court or High Court in Zimbabwe; or
 
 (ii) holds or has held office as a judge of a court with unlimited jurisdiction in civil or criminal matters in a country whose common law is Roman-Dutch or English, and English is an officially recognised language;
 
-(b) at least one must be chosen from a list of three or more legal practitioners of seven years ' standing or more who have been nominated by the association, constituted under an Act of Parliament, which represents legal practitioners in Zimbabwe.
+(b) at least one must be chosen from a list of three or more legal practitioners of seven years’ standing or more who have been nominated by the association, constituted under an Act of Parliament, which represents legal practitioners in Zimbabwe.
 
 (5) The association referred to in subsection (4)(b) must prepare the list referred to in that subsection when so required by the President.
 
@@ -4715,9 +4695,9 @@ Law Development Commission zowa@zol.co.zw
 
 (7) A tribunal appointed under subsection (2) or (3) must inquire into the question of removing the judge concerned from office and, having done so, must report its findings to the President and recommend whether or not the judge should be removed from office.
 
-(8) The President must act in accordance with the tribunal ' s recommendation in terms of subsection (7).
+(8) The President must act in accordance with the tribunal’s recommendation in terms of subsection (7).
 
-(9) A tribunal appointed under this section has the same rights and powers as commissioners under the Commissions of Inquiry Act [ Chapter 10:07 ] , or any law that replaces that Act.
+(9) A tribunal appointed under this section has the same rights and powers as commissioners under the Commissions of Inquiry Act [Chapter 10:07], or any law that replaces that Act.
 
 (10) If the question of removing a judge from office has been referred to a tribunal under this section, the judge is suspended from office until the President, on the recommendation of the tribunal, revokes the suspension or removes the judge from office.
 
@@ -4727,7 +4707,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Judges are entitled to the salaries, allowances and other benefits fixed from time to time by the Judicial Service Commission with the approval of the President given after consultation with the Minister responsible for justice and on the recommendation of the Minister responsible for finance.
 
-(2) An Act of Parliament must provide for the conditions of service of judicial officers other than judges and must ensure that their promotion, transfer and dismissal, and any disciplinary steps taken against them, take place -
+(2) An Act of Parliament must provide for the conditions of service of judicial officers other than judges and must ensure that their promotion, transfer and dismissal, and any disciplinary steps taken against them, take place—
 
 (a) with the approval of the Judicial Service Commission; and
 
@@ -4739,11 +4719,11 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 3
 
-##### JUDICIALSERVICECOMMISSION
+##### JUDICIAL SERVICE COMMISSION
 
 ###### 189 Establishment and composition of Judicial Service Commission
 
-- There is a Judicial Service Commission consisting of -
+(1) There is a Judicial Service Commission consisting of—
 
 (a) the Chief Justice;
 
@@ -4767,13 +4747,13 @@ Law Development Commission zowa@zol.co.zw
 
 (g) the chairperson of the Civil Service Commission;
 
-(h) three practising legal practitioners of at least seven years ' experience designated by the association, constituted under an Act of Parliament, which represents legal practitioners in Zimbabwe;
+(h) three practising legal practitioners of at least seven years’ experience designated by the association, constituted under an Act of Parliament, which represents legal practitioners in Zimbabwe;
 
 (i) one professor or senior lecturer of law designated by an association representing the majority of the teachers of law at Zimbabwean universities or, in the absence of such an association, appointed by the President;
 
 (j) one person who for at least seven years has practised in Zimbabwe as a public accountant or auditor, and who is designated by an association, constituted under an Act of Parliament, which represents such persons; and
 
-(k) one person with at least seven years ' experience in human resources management, appointed by the President.
+(k) one person with at least seven years’ experience in human resources management, appointed by the President.
 
 (2)The Chief Justice or, in his or her absence, the Deputy Chief Justice presides at meetings of the Judicial Service Commission, and in the absence of both of them at any meeting the members present elect one of their number to preside at the meeting.
 
@@ -4811,19 +4791,19 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 193 Criminal jurisdiction of courts
 
-Only the following courts may exercise or be given jurisdiction in criminal cases -
+Only the following courts may exercise or be given jurisdiction in criminal cases—
 
-(a) the Constitutional Court, the Supreme Court, the High Court and magis trates courts;
+(a) the Constitutional Court, the Supreme Court, the High Court and magistrates courts;
 
 (b) a court or tribunal that deals with cases under a disciplinary law, to the extent that the jurisdiction is necessary for the enforcement of discipline in the disciplined force concerned.
 
 #### CHAPTER 9
 
-#### PRINCIPLES OFPUBLICADMINISTRATION ANDLEADERSHIP
+#### PRINCIPLES OF PUBLIC ADMINISTRATION AND LEADERSHIP
 
 ###### 194 Basic values and principles governing public administration
 
-(1) Public administration in all tiers of government, including institutions and agencies of the State, and government-controlled entities and other public enterprises, must  be  governed  by  the  democratic  values  and  principles  enshrined  in  this  Constitution, including the following principles -
+(1) Public administration in all tiers of government, including institutions and agencies of the State, and government-controlled entities and other public enterprises, must be governed by the democratic values and principles enshrined in this Constitution, including the following principles—
 
 (a) a high standard of professional ethics must be promoted and maintained;
 
@@ -4833,7 +4813,7 @@ Only the following courts may exercise or be given jurisdiction in criminal case
 
 (d) services must be provided impartially, fairly, equitably and without bias;
 
-(e) people ' s needs must be responded to within a reasonable time, and the public must be encouraged to participate in policy-making;
+(e) people’s needs must be responded to within a reasonable time, and the public must be encouraged to participate in policy-making;
 
 (f) public administration must be accountable to Parliament and to the people;
 
@@ -4867,7 +4847,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 196 Responsibilities of public officers and principles of leadership
 
-(1) Authority assigned to a public officer is a public trust which must be exercised in a manner which -
+(1) Authority assigned to a public officer is a public trust which must be exercised in a manner which—
 
 (a) is consistent with the purposes and objectives of this Constitution;
 
@@ -4877,7 +4857,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) Public officers must conduct themselves, in public and private life, so as to avoid any conflict between their personal interests and their public or official duties, and to abstain from any conduct that demeans their office.
 
-(3) Public officers in leadership positions must abide by the following principles of leadership -
+(3) Public officers in leadership positions must abide by the following principles of leadership—
 
 (a) objectivity and impartiality in decision making;
 
@@ -4893,7 +4873,7 @@ An Act of Parliament may limit the terms of office of chief executive officers o
 
 ###### 198 Legislation to enforce Chapter 9
 
-An Act of Parliament must provide measures to enforce the provisions of this Chapter, including measures -
+An Act of Parliament must provide measures to enforce the provisions of this Chapter, including measures—
 
 (a) requiring public officers to make regular disclosures of their assets;
 
@@ -4911,7 +4891,7 @@ An Act of Parliament must provide measures to enforce the provisions of this Cha
 
 (1) There is a single Civil Service, which is responsible for the administration of Zimbabwe.
 
-(2) The Civil Service consists of persons employed by the State other than -
+(2) The Civil Service consists of persons employed by the State other than—
 
 (a) members of the security services and any other security service that may be established;
 
@@ -4937,9 +4917,9 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Members of the Civil Service must act in accordance with this Constitution and the law.
 
-- No member of the Civil Service may obey an order that is manifestly illegal.
+(2) No member of the Civil Service may obey an order that is manifestly illegal.
 
-- No member of the Civil Service may, in the exercise of their functions -
+(3) No member of the Civil Service may, in the exercise of their functions—
 
 (a) act in a partisan manner;
 
@@ -4949,7 +4929,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) violate the fundamental rights or freedoms of any person.
 
-- Members of the Civil Service must not be office-bearers of any political party.
+(4) Members of the Civil Service must not be office-bearers of any political party.
 
 (5) An Act of Parliament must make provision to ensure the political neutrality of the Civil Service.
 
@@ -4959,19 +4939,19 @@ The President must appoint a Minister to be responsible for the Civil Service.
 
 ###### 202 Establishment and composition of Civil Service Commission
 
-- There is a Civil Service Commission consisting of -
+(1) There is a Civil Service Commission consisting of—
 
 (a) a chairperson and deputy chairperson; and
 
 (b) a minimum of two and a maximum of five other members;
 
-- appointed by the President.
+appointed by the President.
 
 (2) Members of the Civil Service Commission must be chosen for their knowledge of or experience in administration, management or the provision of public services.
 
 ###### 203 Functions of Civil Service Commission
 
-- The Civil Service Commission has the following functions -
+(1) The Civil Service Commission has the following functions—
 
 (a) to appoint qualified and competent persons to hold posts in the Civil Service;
 
@@ -5017,11 +4997,11 @@ The President may appoint persons to be ambassadors or other principal represent
 
 #### CHAPTER 11
 
-#### SECURITYSERVICES
+#### SECURITY SERVICES
 
 ##### PART 1
 
-##### GENERALPROVISIONS
+##### GENERAL PROVISIONS
 
 ###### 206 National security
 
@@ -5029,7 +5009,7 @@ The President may appoint persons to be ambassadors or other principal represent
 
 (2) The national security of Zimbabwe must be secured in compliance with this Constitution and the law.
 
-(3) In particular, the protection of national security must be pursued with the utmost respect for -
+(3) In particular, the protection of national security must be pursued with the utmost respect for—
 
 (a) the fundamental rights and freedoms and the democratic values and principles enshrined in this Constitution; and
 
@@ -5037,7 +5017,7 @@ The President may appoint persons to be ambassadors or other principal represent
 
 ###### 207 Security services
 
-(1) The security services of Zimbabwe consist of -
+(1) The security services of Zimbabwe consist of—
 
 (a) the Defence Forces;
 
@@ -5065,7 +5045,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Members of the security services must act in accordance with this Constitution and the law.
 
-(2) Neither the security services nor any of their members may, in the exercise of their functions -
+(2) Neither the security services nor any of their members may, in the exercise of their functions—
 
 (a) act in a partisan manner;
 
@@ -5075,7 +5055,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) violate the fundamental rights or freedoms of any person.
 
-(3) Members of the security services must not be active members or officebearers of any political party or organisation.
+(3) Members of the security services must not be active members or office-bearers of any political party or organisation.
 
 (4) Serving members of the security services must not be employed or engaged in civilian institutions except in periods of public emergency.
 
@@ -5083,7 +5063,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) There is a National Security Council consisting of the President as chairperson, the Vice-Presidents and such Ministers and members of the security services and other persons as may be determined in an Act of Parliament.
 
-(2) The functions of the National Security Council are -
+(2) The functions of the National Security Council are—
 
 (a) to develop the national security policy for Zimbabwe;
 
@@ -5099,7 +5079,7 @@ An Act of Parliament must provide an effective and independent mechanism for rec
 
 ##### PART 2
 
-##### DEFENCEFORCES
+##### DEFENCE FORCES
 
 ###### 211 Defence Forces
 
@@ -5127,13 +5107,13 @@ The function of the Defence Forces is to protect Zimbabwe, its people, its natio
 
 ###### 213 Deployment of Defence Forces
 
-(1) Subject to this Constitution, only the President, as Commander-in-Chief of the Defence Forces, has power -
+(1) Subject to this Constitution, only the President, as Commander-in-Chief of the Defence Forces, has power—
 
 (a) to authorise the deployment of the Defence Forces; or
 
 (b) has power to determine the operational use of the Defence Forces.
 
-(2) With the authority of the President, the Defence Forces may be deployed in Zimbabwe -
+(2) With the authority of the President, the Defence Forces may be deployed in Zimbabwe—
 
 (a) in defence of Zimbabwe;
 
@@ -5141,7 +5121,7 @@ The function of the Defence Forces is to protect Zimbabwe, its people, its natio
 
 (c) in support of the Police Service and other civilian authorities in the event of an emergency or disaster.
 
-(3) With the authority of the President, the Defence Forces may be deployed outside Zimbabwe -
+(3) With the authority of the President, the Defence Forces may be deployed outside Zimbabwe—
 
 (a) on peace-keeping operations under the auspices of the United Nations Organisation or any other international or regional organisation of which Zimbabwe is a member;
 
@@ -5149,7 +5129,7 @@ The function of the Defence Forces is to protect Zimbabwe, its people, its natio
 
 (c) in fulfilment of an international commitment; or
 
-(d) in defence of Zimbabwe ' s national security or national interests.
+(d) in defence of Zimbabwe’s national security or national interests.
 
 (4) By a two-thirds majority of the total membership of Parliament at a joint sitting of the Senate and the National Assembly, Parliament may resolve that a deployment of the Defence Forces outside Zimbabwe should be rescinded.
 
@@ -5157,13 +5137,13 @@ The function of the Defence Forces is to protect Zimbabwe, its people, its natio
 
 ###### 214 Political accountability for deployment of Defence Forces
 
-When the Defence Forces are deployed -
+When the Defence Forces are deployed—
 
 (a) in Zimbabwe to assist in the maintenance of public order; or
 
 (b) outside Zimbabwe;
 
-the President must cause Parliament to be informed, promptly and in appropriate detail, of the reasons for their deployment and -
+the President must cause Parliament to be informed, promptly and in appropriate detail, of the reasons for their deployment and—
 
 (i) where they are deployed in Zimbabwe, the place where they are deployed;
 
@@ -5183,7 +5163,7 @@ The President must appoint a Minister to be responsible for the Defence Forces.
 
 ###### 216 Command of Defence Forces
 
-(1) An Act of Parliament may provide that -
+(1) An Act of Parliament may provide that—
 
 (a) the Defence Forces are to be under the command of a single Commander; or
 
@@ -5201,7 +5181,7 @@ The President must appoint a Minister to be responsible for the Defence Forces.
 
 (1) There is a Defence Forces Service Commission consisting of a chairperson who must be the chairperson of the Civil Service Commission, and a minimum of two and a maximum of six other members appointed by the President.
 
-(2) Members of the Defence Forces Service Commission must be chosen for their knowledge of or experience in administration, management, military affairs, their professional qualifications or their general suitability for appointment, and -
+(2) Members of the Defence Forces Service Commission must be chosen for their knowledge of or experience in administration, management, military affairs, their professional qualifications or their general suitability for appointment, and—
 
 (a) at least half of them must be persons who are not and have not been members of the Defence Forces;
 
@@ -5209,7 +5189,7 @@ The President must appoint a Minister to be responsible for the Defence Forces.
 
 ###### 218 Functions of Defence Forces Service Commission
 
-( 1 ) The Defence Forces Service Commission has the following functions -
+( 1 ) The Defence Forces Service Commission has the following functions—
 
 (a) to employ qualified and competent persons to hold posts or ranks in the Defence Forces;
 
@@ -5243,7 +5223,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 219 Police Service and its functions
 
-- There is a Police Service which is responsible for -
+(1) There is a Police Service which is responsible for—
 
 (a) detecting, investigating and preventing crime;
 
@@ -5255,7 +5235,7 @@ Law Development Commission zowa@zol.co.zw
 
 (e) upholding this Constitution and enforcing the law without fear or favour.
 
-- The Police Service must exercise its functions in co-operation with -
+(2) The Police Service must exercise its functions in co-operation with—
 
 (a) any intelligence service that may be established by law;
 
@@ -5293,7 +5273,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) There is a Police Service Commission consisting of a chairperson, who must be the chairperson of the Civil Service Commission, and a minimum of two and a maximum of six other members appointed by the President.
 
-(2) Members of the Police Service Commission must be chosen for their knowledge of or experience in the maintenance of law and order, administration, or their professional qualifications or their general suitability for appointment, and -
+(2) Members of the Police Service Commission must be chosen for their knowledge of or experience in the maintenance of law and order, administration, or their professional qualifications or their general suitability for appointment, and—
 
 (a) at least half of them must be persons who are not and have not been members of the Police Service;
 
@@ -5301,7 +5281,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 223 Functions of Police Service Commission
 
-- The Police Service Commission has the following functions -
+(1) The Police Service Commission has the following functions—
 
 (a) to employ qualified and competent persons to hold posts or ranks in the Police Service;
 
@@ -5353,11 +5333,11 @@ The President must appoint a Minister to be responsible for any national intelli
 
 ##### PART 5
 
-##### PRISONS ANDCORRECTIONALSERVICE
+##### PRISONS AND CORRECTIONAL SERVICE
 
 ###### 227 Prisons and Correctional Service and its functions
 
-- There is a Prisons and Correctional Service which is responsible for -
+(1) There is a Prisons and Correctional Service which is responsible for—
 
 (a) the protection of society from criminals through the incarceration and rehabilitation of convicted persons and others who are lawfully required to be detained, and their reintegration into society; and
 
@@ -5379,7 +5359,7 @@ The President must appoint a Minister to be responsible for the Prisons and Corr
 
 (3) A person who has served as Commissioner-General of the Prisons and Correctional Service may not be appointed to the command of any other security service.
 
-(4) The Commissioner-General of the Prisons and Correctional Service must exercise his or her command in accordance with general written policy directives given by the Minister responsible for the Prisons and Correctional Service acting under the authority of the President.
+(4) The Commissioner-General of the Prisons and Correctional Service must exercise his or her command in accordance with general written policy directives given
 
 90
 
@@ -5389,11 +5369,13 @@ The President must appoint a Minister to be responsible for the Prisons and Corr
 
 Law Development Commission zowa@zol.co.zw
 
+by the Minister responsible for the Prisons and Correctional Service acting under the authority of the President.
+
 ###### 230 Establishment and composition of Prisons and Correctional Service Commission
 
 (1) There is a Prisons and Correctional Service Commission consisting of a chairperson, who must be the chairperson of the Civil Service Commission, and a minimum of two and a maximum of six other members appointed by the President.
 
-(2) Members of the Prisons and Correctional Service Commission must be chosen for their knowledge of or experience in administration, management, security affairs, or for their professional qualifications or their general suitability for appointment, and -
+(2) Members of the Prisons and Correctional Service Commission must be chosen for their knowledge of or experience in administration, management, security affairs, or for their professional qualifications or their general suitability for appointment, and—
 
 (a) at least half of them must be persons who are not and have not been members of the Prisons and Correctional Service;
 
@@ -5401,7 +5383,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 231 Functions of Prisons and Correctional Service Commission
 
-(1) The Prisons and Correctional Service Commission has the following functions -
+(1) The Prisons and Correctional Service Commission has the following functions—
 
 (a) to employ qualified and competent persons to hold posts or ranks in the Prisons and Correctional Service;
 
@@ -5431,7 +5413,7 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 12
 
-#### INDEPENDENTCOMMISSIONSSUPPORTINGDEMOCRACY
+#### INDEPENDENT COMMISSIONS SUPPORTING DEMOCRACY
 
 ##### PART 1
 
@@ -5439,7 +5421,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 232 Independent Commissions
 
-The following are the independent Commissions -
+The following are the independent Commissions—
 
 (a) the Zimbabwe Electoral Commission;
 
@@ -5453,7 +5435,7 @@ The following are the independent Commissions -
 
 ###### 233 Objectives of independent Commissions
 
-The independent Commissions have the following general objectives in addition to those given to them individually -
+The independent Commissions have the following general objectives in addition to those given to them individually—
 
 (a) to support and entrench human rights and democracy;
 
@@ -5463,7 +5445,7 @@ The independent Commissions have the following general objectives in addition to
 
 (d) to promote transparency and accountability in public institutions;
 
-(e) to secure the observance of democratic values and principles by the State and all institutions and agencies of government, and governmentcontrolled entities; and
+(e) to secure the observance of democratic values and principles by the State and all institutions and agencies of government, and government-controlled entities; and
 
 (f) to ensure that injustices are remedied.
 
@@ -5473,7 +5455,7 @@ The independent Commissions have power to employ staff and, subject to the law, 
 
 ###### 235 Independence of Commissions
 
-- The independent Commissions -
+(1) The independent Commissions—
 
 (a) are independent and are not subject to the direction or control of anyone;
 
@@ -5489,7 +5471,7 @@ although they are accountable to Parliament for the efficient performance of the
 
 ###### 236 Members of independent Commissions to be non-political
 
-(1) Members of the independent Commissions must not, in the exercise of their functions -
+(1) Members of the independent Commissions must not, in the exercise of their functions—
 
 92
 
@@ -5509,7 +5491,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) Persons who are members of a political party or organisation on their appointment to an independent Commission must relinquish that membership without delay and in any event within thirty days of their appointment.
 
-(3) If a member of an independent Commission -
+(3) If a member of an independent Commission—
 
 (a) becomes a member of a political party or organisation; or
 
@@ -5519,7 +5501,7 @@ he or she ceases immediately to be a member of the Commission concerned.
 
 ###### 237 Appointment and removal from office of members of independent Commissions
 
-(1) For the purpose of nominating persons for appointment to any independent Commission, the Committee on Standing Rules and Orders must -
+(1) For the purpose of nominating persons for appointment to any independent Commission, the Committee on Standing Rules and Orders must—
 
 (a) advertise the position;
 
@@ -5531,7 +5513,7 @@ he or she ceases immediately to be a member of the Commission concerned.
 
 (e) submit the list to the President.
 
-(2) A member of an independent Commission may be removed from office only on the ground that the member concerned -
+(2) A member of an independent Commission may be removed from office only on the ground that the member concerned—
 
 (a) is unable to perform the functions of his or her office because of physical or mental incapacity;
 
@@ -5545,11 +5527,11 @@ he or she ceases immediately to be a member of the Commission concerned.
 
 ##### PART 2
 
-##### ZIMBABWEELECTORALCOMMISSION
+##### ZIMBABWE ELECTORAL COMMISSION
 
 ###### 238 Establishment and composition of Zimbabwe Electoral Commission
 
-(1) There is a commission to be known as Zimbabwe Electoral Commission consisting of -
+(1) There is a commission to be known as Zimbabwe Electoral Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Judicial Service Commission and the Committee on Standing Rules and Orders; and
 
@@ -5569,13 +5551,13 @@ Law Development Commission zowa@zol.co.zw
 
 (4) Members of the Zimbabwe Electoral Commission must be Zimbabwean citizens and chosen for their integrity and experience and for their competence in the conduct of affairs in the public or private sector.
 
-(5) Members of the Zimbabwe Electoral Commission are appointed for a sixyear term and may be re-appointed for one such further term, but no person may be appointed to or serve on the Commission after he or she has been a member for one or more periods, whether continuous or not, that amount to twelve years.
+(5) Members of the Zimbabwe Electoral Commission are appointed for a six-year term and may be re-appointed for one such further term, but no person may be appointed to or serve on the Commission after he or she has been a member for one or more periods, whether continuous or not, that amount to twelve years.
 
 ###### 239 Functions of Zimbabwe Electoral Commission
 
-The Zimbabwe Electoral Commission has the following functions -
+The Zimbabwe Electoral Commission has the following functions—
 
-(a) to prepare for, conduct and supervise -
+(a) to prepare for, conduct and supervise—
 
 (i) elections to the office of President and to Parliament;
 
@@ -5591,9 +5573,9 @@ and to ensure that those elections and referendums are conducted efficiently, fr
 
 (c) to register voters;
 
-(d) to compile voters ' rolls and registers;
+(d) to compile voters’ rolls and registers;
 
-(e) to ensure the proper custody and maintenance of voters ' rolls and registers;
+(e) to ensure the proper custody and maintenance of voters’ rolls and registers;
 
 (f) to delimit constituencies, wards and other electoral boundaries;
 
@@ -5609,7 +5591,7 @@ and to ensure that those elections and referendums are conducted efficiently, fr
 
 ###### 240 Disqualifications for appointment to Zimbabwe Electoral Commission
 
-In addition to the persons mentioned in section 320(3), the following persons are ineligible for appointment to the Zimbabwe Electoral Commission -
+In addition to the persons mentioned in section 320(3), the following persons are ineligible for appointment to the Zimbabwe Electoral Commission—
 
 (a) public officers, other than judges;
 
@@ -5631,11 +5613,11 @@ In addition to the report it is required to submit in terms of section 323, the 
 
 ##### PART 3
 
-##### ZIMBABWEHUMANRIGHTSCOMMISSION
+##### ZIMBABWE HUMAN RIGHTS COMMISSION
 
 ###### 242 Establishment and composition of Zimbabwe Human Rights Commission
 
-(1) There is a commission to be known as the Zimbabwe Human Rights Commission consisting of -
+(1) There is a commission to be known as the Zimbabwe Human Rights Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Judicial Service Commission and the Committee on Standing Rules and Orders; and
 
@@ -5649,7 +5631,7 @@ In addition to the report it is required to submit in terms of section 323, the 
 
 ###### 243 Functions of Zimbabwe Human Rights Commission
 
-(1) The Zimbabwe Human Rights Commission has the following functions -
+(1) The Zimbabwe Human Rights Commission has the following functions—
 
 (a) to promote awareness of and respect for human rights and freedoms at all levels of society;
 
@@ -5679,7 +5661,7 @@ Law Development Commission zowa@zol.co.zw
 
 (j) to conduct research into issues relating to human rights and freedoms and social justice; and
 
-(k) to visit and inspect -
+(k) to visit and inspect—
 
 (i) prisons, places of detention, refugee camps and related facilities; and
 
@@ -5691,25 +5673,25 @@ in order to ascertain the conditions under which persons are kept there, and to 
 
 ###### 244 Reports to and by Zimbabwe Human Rights Commission
 
-(1) The Zimbabwe Human Rights Commission may require any person, institution or agency, whether belonging to or employed by the State or otherwise -
+(1) The Zimbabwe Human Rights Commission may require any person, institution or agency, whether belonging to or employed by the State or otherwise—
 
 (a) to inform the Commission of measures they have taken to give effect to the human rights and freedoms set out in the Declaration of Rights; and
 
 (b) to provide the Commission with information it needs to prepare any report required to be submitted to any regional or international body under any human rights convention, treaty or agreement to which Zimbabwe is a party.
 
-(2) In addition to the report it is required to submit in terms of section 323, the Zimbabwe Human Rights Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to human rights and freedoms which, in the Commission ' s opinion, should be brought to the attention of Parliament.
+(2) In addition to the report it is required to submit in terms of section 323, the Zimbabwe Human Rights Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to human rights and freedoms which, in the Commission’s opinion, should be brought to the attention of Parliament.
 
 ##### PART 4
 
-##### ZIMBABWEGENDERCOMMISSION
+##### ZIMBABWE GENDER COMMISSION
 
 ###### 245 Establishment and composition of Zimbabwe Gender Commission
 
-(1) There is a commission to be known as the Zimbabwe Gender Commission consisting of -
+(1) There is a commission to be known as the Zimbabwe Gender Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Committee on Standing Rules and Orders; and
 
-(b) eight other members , of whom -
+(b) eight other members, of whom—
 
 (i) seven are appointed by the President from a list of not fewer than twelve nominees submitted by the Committee on Standing Rules and Orders; and
 
@@ -5727,7 +5709,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 246 Functions of Zimbabwe Gender Commission
 
-The Zimbabwe Gender Commission has the following functions -
+The Zimbabwe Gender Commission has the following functions—
 
 (a) to monitor issues concerning gender equality to ensure gender equality as provided in this Constitution;
 
@@ -5749,15 +5731,15 @@ The Zimbabwe Gender Commission has the following functions -
 
 ###### 247 Reports by Zimbabwe Gender Commission
 
-In addition to the report it is required to submit in terms of section 323, the Zimbabwe Gender Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to gender issues which, in the Commission ' s opinion, should be brought to the attention of Parliament.
+In addition to the report it is required to submit in terms of section 323, the Zimbabwe Gender Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to gender issues which, in the Commission’s opinion, should be brought to the attention of Parliament.
 
 ##### PART 5
 
-##### ZIMBABWEMEDIACOMMISSION
+##### ZIMBABWE MEDIA COMMISSION
 
 ###### 248 Establishment and composition of Zimbabwe Media Commission
 
-( 1 ) There is a commission to be known as the Zimbabwe Media Commission consisting of -
+( 1 ) There is a commission to be known as the Zimbabwe Media Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Committee on Standing Rules and Orders; and
 
@@ -5767,7 +5749,7 @@ In addition to the report it is required to submit in terms of section 323, the 
 
 ###### 249 Functions of Zimbabwe Media Commission
 
-( 1 ) The Zimbabwe Media Commission has the following functions -
+( 1 ) The Zimbabwe Media Commission has the following functions—
 
 97
 
@@ -5797,9 +5779,9 @@ Law Development Commission zowa@zol.co.zw
 
 (j) to conduct research into issues relating to freedom of the press and of expression, and in that regard to promote reforms in the law.
 
-(2) An Act of Parliament may confer power on the Zimbabwe Media Commission to -
+(2) An Act of Parliament may confer power on the Zimbabwe Media Commission to—
 
-(a) conduct investigations and inquiries into -
+(a) conduct investigations and inquiries into—
 
 (i) any conduct or circumstance that appears to threaten the freedom of the media; and
 
@@ -5807,19 +5789,19 @@ Law Development Commission zowa@zol.co.zw
 
 (b) take or recommend disciplinary action against media practitioners who are found to have breached any law or any code of conduct applicable to them.
 
-- An Act of Parliament may provide for the regulation of the media.
+(3) An Act of Parliament may provide for the regulation of the media.
 
 ###### 250 Reports of Zimbabwe Media Commission
 
-In addition to the report it is required to submit in terms of section 323, the Zimbabwe Media Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to the media which, in the Commission ' s opinion, should be brought to the attention of Parliament.
+In addition to the report it is required to submit in terms of section 323, the Zimbabwe Media Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to the media which, in the Commission’s opinion, should be brought to the attention of Parliament.
 
 ##### PART 6
 
-##### NATIONALPEACEANDRECONCILIATIONCOMMISSION
+##### NATIONAL PEACE AND RECONCILIATION COMMISSION
 
 ###### 251 Establishment and composition of National Peace and Reconciliation Commission
 
-(1) For a period often years after the effective date, there is a commission to be known as the National Peace and Reconciliation Commission consisting of -
+(1) For a period of ten years after the effective date, there is a commission to be known as the National Peace and Reconciliation Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Judicial Service Commission and the Committee on Standing Rules and Orders; and
 
@@ -5843,7 +5825,7 @@ than twelve nominees submitted by the Committee on Standing Rules and Orders.
 
 ###### 252 Functions of National Peace and Reconciliation Commission
 
-The National Peace and Reconciliation Commission has the following functions -
+The National Peace and Reconciliation Commission has the following functions—
 
 (a) to ensure post-conflict justice, healing and reconciliation;
 
@@ -5867,7 +5849,7 @@ The National Peace and Reconciliation Commission has the following functions -
 
 ###### 253 Reports of National Peace and Reconciliation Commission
 
-In addition to the report it is required to submit in terms of section 323, the National Peace and Reconciliation Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to national peace and reconciliation which, in the Commission ' s opinion, should be brought to the attention of Parliament.
+In addition to the report it is required to submit in terms of section 323, the National Peace and Reconciliation Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to national peace and reconciliation which, in the Commission’s opinion, should be brought to the attention of Parliament.
 
 99
 
@@ -5879,31 +5861,31 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 13
 
-#### INSTITUTIONS TOCOMBATCORRUPTION ANDCRIME
+#### INSTITUTIONS TO COMBAT CORRUPTION AND CRIME
 
 ##### PART 1
 
-##### ZIMBABWEANTI-CORRUPTIONCOMMISSION
+##### ZIMBABWE ANTI-CORRUPTION COMMISSION
 
 ###### 254 Establishment and composition of Zimbabwe Anti-Corruption Commission
 
-(1) There is a commission to be known as the Zimbabwe Anti-Corruption Commission consisting of -
+(1) There is a commission to be known as the Zimbabwe Anti-Corruption Commission consisting of—
 
 (a) a chairperson appointed by the President after consultation with the Committee on Standing Rules and Orders; and
 
 (b) eight other members appointed by the President from a list of not fewer than twelve nominees submitted by the Committee on Standing Rules and Orders.
 
-(2) Members of the Zimbabwe Anti-Corruption Commission must be chosen for their integrity and their knowledge of and experience in administration or the prosecution or investigation of crime or for their general suitability for appointment, and -
+(2) Members of the Zimbabwe Anti-Corruption Commission must be chosen for their integrity and their knowledge of and experience in administration or the prosecution or investigation of crime or for their general suitability for appointment, and—
 
 (a) at least one must be qualified to practise as a legal practitioner in Zimbabwe, and have been so qualified for at least seven years;
 
 (b) at least one must be qualified to practise as a public accountant or public auditor in Zimbabwe, and have been so qualified for at least seven years; and
 
-(c) at least one must be a person with at least ten years ' experience in the investigation of crime.
+(c) at least one must be a person with at least ten years’ experience in the investigation of crime.
 
 ###### 255 Functions of Zimbabwe Anti-Corruption Commission
 
-- The Zimbabwe Anti-Corruption Commission has the following functions -
+(1) The Zimbabwe Anti-Corruption Commission has the following functions—
 
 (a) to investigate and expose cases of corruption in the public and private sectors;
 
@@ -5931,19 +5913,19 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-(3) The Government must ensure, through legislative and other means, that the Zimbabwe Anti-Corruption Commission has power to recommend the arrest and secure the prosecution of persons reasonably suspected of corruption, abuse of power and other improper conduct which falls within the Commission ' s jurisdiction.
+(3) The Government must ensure, through legislative and other means, that the Zimbabwe Anti-Corruption Commission has power to recommend the arrest and secure the prosecution of persons reasonably suspected of corruption, abuse of power and other improper conduct which falls within the Commission’s jurisdiction.
 
-###### 256 Application of certain provisions of Chapter 12 to Zimbabwe AntiCorruption Commission
+###### 256 Application of certain provisions of Chapter 12 to Zimbabwe Anti-Corruption Commission
 
 Sections 234, 235, 236 and 237 apply to the Zimbabwe Anti-Corruption Commission and its members as if it were an independent Commission established by Chapter 12.
 
 ###### 257 Reports by Zimbabwe Anti-Corruption Commission
 
-In addition to the report it is required to submit in terms of section 323, the Zimbabwe Anti-Corruption Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to improper conduct in the public and private sectors which, in the Commission ' s opinion, should be brought to the attention of Parliament.
+In addition to the report it is required to submit in terms of section 323, the Zimbabwe Anti-Corruption Commission may, through the appropriate Minister, submit reports to Parliament on particular matters relating to improper conduct in the public and private sectors which, in the Commission’s opinion, should be brought to the attention of Parliament.
 
 ##### PART 2
 
-##### NATIONALPROSECUTINGAUTHORITY
+##### NATIONAL PROSECUTING AUTHORITY
 
 ###### 258 Establishment and functions of National Prosecuting Authority
 
@@ -5965,7 +5947,7 @@ There is a National Prosecuting Authority which is responsible for instituting a
 
 (7) The provisions relating to the removal of a judge from office apply to the removal of the Prosecutor-General from office.
 
-(8) The conditions of service of the Prosecutor-General, including his or her remuneration, must be provided for in an Act of Parliament, but the remuneration must not be reduced during the Prosecutor-General ' s tenure of office.
+(8) The conditions of service of the Prosecutor-General, including his or her remuneration, must be provided for in an Act of Parliament, but the remuneration must not be reduced during the Prosecutor-General’s tenure of office.
 
 (9) The remuneration of the Prosecutor-General is a charge on the Consolidated Revenue Fund.
 
@@ -5977,7 +5959,7 @@ There is a National Prosecuting Authority which is responsible for instituting a
 
 Law Development Commission zowa@zol.co.zw
 
-(10) An Act of Parliament must provide for the appointment of a board to employ persons to assist the Prosecutor-General in the exercise of his or her functions, and must also provide -
+(10) An Act of Parliament must provide for the appointment of a board to employ persons to assist the Prosecutor-General in the exercise of his or her functions, and must also provide—
 
 (a) for the qualifications of those persons;
 
@@ -5989,23 +5971,23 @@ Law Development Commission zowa@zol.co.zw
 
 (e) generally, for the efficient performance and well-being of the National Prosecuting Authority.
 
-(11) The Prosecutor-General may direct the Commissioner-General of Police to investigate and report to him or her on anything which, in the Prosecutor-General ' s opinion, relates to an offence or alleged or suspected offence, and the CommissionerGeneral of Police must comply with that direction.
+(11) The Prosecutor-General may direct the Commissioner-General of Police to investigate and report to him or her on anything which, in the Prosecutor-General’s opinion, relates to an offence or alleged or suspected offence, and the Commissioner-General of Police must comply with that direction.
 
 ###### 260 Independence of Prosecutor-General
 
-- Subject to this Constitution, the Prosecutor-General -
+(1) Subject to this Constitution, the Prosecutor-General—
 
 (a) is independent and is not subject to the direction or control of anyone; and
 
 (b) must exercise his or her functions impartially and without fear, favour, prejudice or bias.
 
-(2)The Prosecutor-General must formulate and publicly disclose the general principles by which he or she decides whether and how to institute and conduct criminal proceedings.
+(2) The Prosecutor-General must formulate and publicly disclose the general principles by which he or she decides whether and how to institute and conduct criminal proceedings.
 
 ###### 261 Conduct of officers of National Prosecuting Authority
 
-(1)The Prosecutor-General and officers of the National Prosecuting Authority must act in accordance with this Constitution and the law.
+(1) The Prosecutor-General and officers of the National Prosecuting Authority must act in accordance with this Constitution and the law.
 
-(2) No officer of the National Prosecuting Authority may, in the exercise of his or her functions -
+(2) No officer of the National Prosecuting Authority may, in the exercise of his or her functions—
 
 (a) act in a partisan manner;
 
@@ -6033,11 +6015,11 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 263 Other powers of prosecution
 
-An Act of Parliament may confer powers of prosecution on persons other than the National Prosecuting Authority, but those powers must not limit or conflict with the Authority ' s powers under this Part.
+An Act of Parliament may confer powers of prosecution on persons other than the National Prosecuting Authority, but those powers must not limit or conflict with the Authority’s powers under this Part.
 
 #### CHAPTER 14
 
-#### PROVINCIAL ANDLOCALGOVERNMENT
+#### PROVINCIAL AND LOCAL GOVERNMENT
 
 ##### PREAMBLE
 
@@ -6059,7 +6041,7 @@ there must be devolution of power and responsibilities to lower tiers of governm
 
 (1) Whenever appropriate, governmental powers and responsibilities must be devolved to provincial and metropolitan councils and local authorities which are competent to carry out those responsibilities efficiently and effectively.
 
-(2) The objectives of the devolution of governmental powers and responsibilities to provincial and metropolitan councils and local authorities are -
+(2) The objectives of the devolution of governmental powers and responsibilities to provincial and metropolitan councils and local authorities are—
 
 (a) to give powers of local governance to the people and enhance their participation in the exercise of the powers of the State and in making decisions affecting them;
 
@@ -6075,7 +6057,7 @@ there must be devolution of power and responsibilities to lower tiers of governm
 
 ###### 265 General principles of provincial and local government
 
-( 1 ) Provincial and metropolitan councils and local authorities must, within their spheres -
+(1) Provincial and metropolitan councils and local authorities must, within their spheres—
 
 (a) ensure good governance by being effective, transparent, accountable  and institutionally coherent;
 
@@ -6091,7 +6073,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) exercise their functions in a manner that does not encroach on the geographical, functional or institutional integrity of another tier of government;
 
-(d) co-operate with one another, in particular by -
+(d) co-operate with one another, in particular by—
 
 (i) informing one another of, and consulting one another on, matters of common interest;
 
@@ -6111,7 +6093,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Employees of provincial and metropolitan councils and local authorities must act in accordance with this Constitution and the law.
 
-(2) No employee of a provincial or metropolitan council or a local authority may, in the exercise of their functions -
+(2) No employee of a provincial or metropolitan council or a local authority may, in the exercise of their functions—
 
 (a) act in a partisan manner;
 
@@ -6127,11 +6109,11 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 2
 
-##### PROVINCES ANDPROVINCIAL ANDMETROPOLITANCOUNCILS
+##### PROVINCES AND PROVINCIAL AND METROPOLITAN COUNCILS
 
 ###### 267 Provinces and districts of Zimbabwe
 
-(1) The provinces into which Zimbabwe is divided are -
+(1) The provinces into which Zimbabwe is divided are—
 
 (a) Bulawayo Metropolitan Province;
 
@@ -6163,7 +6145,7 @@ Law Development Commission zowa@zol.co.zw
 
 whose boundaries are fixed under an Act of Parliament.
 
-(2) An Act of Parliament -
+(2) An Act of Parliament—
 
 (a) must provide for the division of provinces into districts; and
 
@@ -6173,7 +6155,7 @@ after consultation with the Zimbabwe Electoral Commission and the people in the 
 
 ###### 268 Provincial councils
 
-(1) There is a provincial council for each province, except the metropolitan provinces, consisting of -
+(1) There is a provincial council for each province, except the metropolitan provinces, consisting of—
 
 (a) a chairperson of the council, elected in terms of section 272;
 
@@ -6185,7 +6167,7 @@ after consultation with the Zimbabwe Electoral Commission and the people in the 
 
 (e) all the Members of the National Assembly whose constituencies fall within the province concerned;
 
-(f) the women Members of the National Assembly who are elected in terms of section 124( 1 )(b) from the province concerned;
+(f) the women Members of the National Assembly who are elected in terms of section 124(1)(b) from the province concerned;
 
 (g) the mayors and chairpersons, by whatever title they are called, of all urban and rural local authorities in the province concerned; and
 
@@ -6193,13 +6175,13 @@ after consultation with the Zimbabwe Electoral Commission and the people in the 
 
 (2) A person is qualified to be elected to a provincial council in terms of subsection (1)(h) if he or she is qualified for election as a Member of the National Assembly.
 
-(3) Elections to provincial councils must be conducted in accordance with the Electoral Law, which must ensure that the persons referred to in subsection (1)(h) are elected under a party-list system of proportional representation -
+(3) Elections to provincial councils must be conducted in accordance with the Electoral Law, which must ensure that the persons referred to in subsection (1)(h) are elected under a party-list system of proportional representation—
 
 (a) which is based on the votes cast for candidates representing political parties in the province concerned in the general election for Members of the National Assembly; and
 
 (b) in which male and female candidates are listed alternately, every list being headed by a female candidate.
 
-- The seat of a member of a provincial council referred to in -
+(4) The seat of a member of a provincial council referred to in—
 
 (a) paragraph (b), (c), (e) or (f) of subsection (1) becomes vacant if the member vacates his or her seat in Parliament;
 
@@ -6217,11 +6199,11 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 269 Metropolitan councils
 
-(1) For each of the metropolitan provinces there is a metropolitan council consting of -
+(1) For each of the metropolitan provinces there is a metropolitan council consting of—
 
 (a) in the case of Bulawayo, the mayor of the City of Bulawayo, who is the chairperson of the Bulawayo Metropolitan Council;
 
-(b) in the case of Harare -
+(b) in the case of Harare—
 
 (i) the mayor of the City of Harare, who is the chairperson of the Harare Metropolitan Council; and
 
@@ -6235,7 +6217,7 @@ Law Development Commission zowa@zol.co.zw
 
 (f) the mayors and deputy mayors and the chairpersons and deputy chairpersons, by whatever title they are called, of all local authorities in the metropolitan province concerned.
 
-(2) The seat of a member of a council referred to in -
+(2) The seat of a member of a council referred to in—
 
 (a) paragraph (a) or (b) of subsection (1) becomes vacant if the member ceases to be mayor, deputy mayor or chairperson, as the case may be;
 
@@ -6245,7 +6227,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 270 Functions of provincial and metropolitan councils
 
-(1) A provincial or metropolitan council is responsible for the social and economic development of its province, including -
+(1) A provincial or metropolitan council is responsible for the social and economic development of its province, including—
 
 (a) planning and implementing social and economic development activities in its province;
 
@@ -6277,7 +6259,7 @@ For the better exercise of their functions, provincial and metropolitan councils
 
 ###### 272 Chairpersons of provincial councils
 
-(1) At its first sitting after every general election, a provincial council must elect a chairperson from a list of at least two qualified persons submitted by -
+(1) At its first sitting after every general election, a provincial council must elect a chairperson from a list of at least two qualified persons submitted by—
 
 (a) the political party which gained the highest number of National Assembly seats in the province concerned; or
 
@@ -6291,7 +6273,7 @@ For the better exercise of their functions, provincial and metropolitan councils
 
 (5) The chairperson of a provincial council may resign by announcing his or her resignation in person to the provincial council.
 
-(6) The chairperson of a provincial council must vacate his or her office -
+(6) The chairperson of a provincial council must vacate his or her office—
 
 (a) on the day on which the provincial council first meets after a general election;
 
@@ -6301,7 +6283,7 @@ For the better exercise of their functions, provincial and metropolitan councils
 
 (d) if he or she is removed from office by a tribunal referred to in subsection (7).
 
-(7) An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing chairpersons of provincial councils from office, but any such removal must only be on the grounds of -
+(7) An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing chairpersons of provincial councils from office, but any such removal must only be on the grounds of—
 
 (a) inability to perform the functions of their office due to mental or physical incapacity;
 
@@ -6317,7 +6299,7 @@ For the better exercise of their functions, provincial and metropolitan councils
 
 ###### 273 General provisions relating to provincial and metropolitan councils
 
-(1) An Act of Parliament must make provision, consistent with this Chapter, for the establishment and functions of provincial and metropolitan councils and, in particular, for -
+(1) An Act of Parliament must make provision, consistent with this Chapter, for the establishment and functions of provincial and metropolitan councils and, in particular, for—
 
 107
 
@@ -6335,7 +6317,7 @@ Law Development Commission zowa@zol.co.zw
 
 (d) the appointment, conditions of service and removal of employees of provincial and metropolitan councils.
 
-(2) The Electoral Law must make provision, consistent with this Chapter, for the filling of vacancies in the seats of the members of provincial councils referred to in section 268(1)(f) and in the offices of chairpersons of provincial councils, which vacancies must be filled -
+(2) The Electoral Law must make provision, consistent with this Chapter, for the filling of vacancies in the seats of the members of provincial councils referred to in section 268(1)(f) and in the offices of chairpersons of provincial councils, which vacancies must be filled—
 
 (a) by persons belonging to the same political parties as those who previously held the seats or offices; and
 
@@ -6343,7 +6325,7 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 3
 
-##### LOCALGOVERNMENT
+##### LOCAL GOVERNMENT
 
 ###### 274 Urban local authorities
 
@@ -6361,7 +6343,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) There are rural local authorities, established in accordance with this section, to represent and manage the affairs of people in rural areas.
 
-(2) An Act of Parliament must provide for -
+(2) An Act of Parliament must provide for—
 
 (a) the establishment of rural local authorities;
 
@@ -6385,7 +6367,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) Subject to this Constitution and any Act of Parliament, a local authority has the right to govern, on its own initiative, the local affairs of the people within the area for which it has been established, and has all the powers necessary for it to do so.
 
-(2) An Act of Parliament may confer functions on local authorities, including -
+(2) An Act of Parliament may confer functions on local authorities, including—
 
 (a) a power to make by-laws, regulations or rules for the effective administration of the areas for which they have been established;
 
@@ -6393,7 +6375,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 277 Elections to local authorities
 
-(1) Elections of councillors of local authorities must be held -
+(1) Elections of councillors of local authorities must be held—
 
 (a) in the case of a general election of mayors and councillors, concurrently with a general election of Members of Parliament and the President;
 
@@ -6405,9 +6387,9 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 278 Tenure of seats of members of local authorities
 
-(1) The seat of a mayor, chairperson or councillor of a local authority becomes vacant in the circumstances set out in section 129, as if he or she were a Member of Parliament, any reference to the Speaker or President of the Senate in section 129( 1) (k) being construed as a reference to the Minister responsible for local government.
+(1) The seat of a mayor, chairperson or councillor of a local authority becomes vacant in the circumstances set out in section 129, as if he or she were a Member of Parliament, any reference to the Speaker or President of the Senate in section 129(1)(k) being construed as a reference to the Minister responsible for local government.
 
-(2) An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing from office mayors, chairpersons and councillors, but any such removal must only be on the grounds of -
+(2) An Act of Parliament must provide for the establishment of an independent tribunal to exercise the function of removing from office mayors, chairpersons and councillors, but any such removal must only be on the grounds of—
 
 (a) inability to perform the functions of their office due to mental or physical incapacity;
 
@@ -6435,7 +6417,7 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 15
 
-#### TRADITIONALLEADERS
+#### TRADITIONAL LEADERS
 
 ###### 280 Traditional leadership
 
@@ -6445,7 +6427,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 281 Principles to be observed by traditional leaders
 
-- Traditional leaders must -
+(1) Traditional leaders must—
 
 (a) act in accordance with this Constitution and the laws of Zimbabwe;
 
@@ -6453,7 +6435,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) treat all persons within their areas equally and fairly.
 
-- Traditional leaders must not -
+(2) Traditional leaders must not—
 
 (a) be members of any political party or in any way participate in partisan politics;
 
@@ -6465,7 +6447,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 282 Functions of traditional leaders
 
-(1) Traditional leaders have the following functions within their areas of jurisdiction --
+(1) Traditional leaders have the following functions within their areas of jurisdiction—-
 
 (a) to promote and uphold the cultural values of their communities and, in particular, to promote sound family values;
 
@@ -6497,13 +6479,15 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 283 Appointment and removal of traditional leaders
 
-An Act of Parliament must provide for the following, in accordance with the prevailing culture, customs, traditions and practices of the communities concerned -
+An Act of Parliament must provide for the following, in accordance with the prevailing culture, customs, traditions and practices of the communities concerned—
 
 (a) the appointment, suspension, succession and removal of traditional leaders;
 
 (b) the creation and resuscitation of chieftainships; and
 
 (c) the resolution of disputes concerning the appointment, suspension, succession and removal of traditional leaders;
+
+but—
 
 (i) the appointment, removal and suspension of Chiefs must be done by the President on the recommendation of the provincial assembly of Chiefs through the National Council of Chiefs and the Minister responsible for traditional leaders and in accordance with the traditional practices and traditions of the communities concerned;
 
@@ -6525,7 +6509,7 @@ An Act of Parliament must provide for the following, in accordance with the prev
 
 (1) There is a National Council of Chiefs constituted in accordance with an Act of Parliament, to represent all Chiefs in Zimbabwe.
 
-(2)An Act of Parliament must establish for each province, other than the metropolitan provinces, a provincial assembly of Chiefs consisting of the Chiefs in that province.
+(2) An Act of Parliament must establish for each province, other than the metropolitan provinces, a provincial assembly of Chiefs consisting of the Chiefs in that province.
 
 (3) So far as practicable the Chiefs in each province must be equitably represented in the National Council of Chiefs.
 
@@ -6535,8 +6519,6 @@ An Act of Parliament must provide for the following, in accordance with the prev
 
 (6) The President and Deputy President of the National Council of Chiefs are elected for a term of five years and are eligible for re-election for one further such term, but a person who has served two terms as Deputy President is eligible for election as President.
 
-but -
-
 111
 
 [[END OF PAGE 111]]
@@ -6545,7 +6527,7 @@ but -
 
 Law Development Commission zowa@zol.co.zw
 
-(7) An Act of Parliament must provide for -
+(7) An Act of Parliament must provide for—
 
 (a) the election of Chiefs to the National Council of Chiefs, and the qualifications and disqualifications of candidates for election;
 
@@ -6561,9 +6543,9 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 286 Functions of National Council and provincial assemblies of Chiefs
 
-(1) The National Council of Chiefs and, within its province, a provincial assembly of Chiefs have the following functions -
+(1) The National Council of Chiefs and, within its province, a provincial assembly of Chiefs have the following functions—
 
-(a) to protect, promote and develop Zimbabwe ' s culture and traditions;
+(a) to protect, promote and develop Zimbabwe’s culture and traditions;
 
 (b) to represent the views of traditional leaders and to maintain the integrity and status of traditional institutions;
 
@@ -6577,7 +6559,7 @@ Law Development Commission zowa@zol.co.zw
 
 (g) to perform any other functions that may be conferred or imposed on it by an Act of Parliament.
 
-- An Act of Parliament must ensure that -
+(2) An Act of Parliament must ensure that—
 
 (a) the National Council of Chiefs and all provincial assemblies of Chiefs are able to carry out their functions independently and efficiently; and
 
@@ -6585,7 +6567,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 287 Integrity and Ethics Committee
 
-An Act of Parliament must provide for the establishment, membership and procedures of an Integrity and Ethics Committee of Chiefs, to exercise the following functions -
+An Act of Parliament must provide for the establishment, membership and procedures of an Integrity and Ethics Committee of Chiefs, to exercise the following functions—
 
 (a) to develop and enforce integrity and ethical conduct on the part of traditional leaders;
 
@@ -6603,19 +6585,19 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 16
 
-#### AGRICULTURALLAND
+#### AGRICULTURAL LAND
 
 ###### 288 Interpretation of Chapter 16
 
-In this Chapter -
+In this Chapter—
 
-' agricultural land ' has the meaning given to it by section 72.
+“agricultural land” has the meaning given to it by section 72.
 
 ###### 289 Principles guiding policy on agricultural land
 
-In order to redress the unjust and unfair pattern of land ownership that was brought about by colonialism, and to bring about land reform and the equitable access by all Zimbabweans to the country ' s natural resources, policies regarding agricultural land must be guided by the following principles -
+In order to redress the unjust and unfair pattern of land ownership that was brought about by colonialism, and to bring about land reform and the equitable access by all Zimbabweans to the country’s natural resources, policies regarding agricultural land must be guided by the following principles—
 
-(a) land is a finite natural resource that forms part of Zimbabweans ' common heritage;
+(a) land is a finite natural resource that forms part of Zimbabweans’ common heritage;
 
 (b) subject to section 72, every Zimbabwean citizen has a right to acquire, hold, occupy, use, transfer, hypothecate, lease or dispose of agricultural land regardless of his or her race or colour;
 
@@ -6629,7 +6611,7 @@ In order to redress the unjust and unfair pattern of land ownership that was bro
 
 ###### 290 Continuation of rights of State in agricultural land
 
-- All agricultural land which -
+(1) All agricultural land which—
 
 (a) was itemised in Schedule 7 to the former Constitution; or
 
@@ -6637,13 +6619,13 @@ In order to redress the unjust and unfair pattern of land ownership that was bro
 
 continues to be vested in the State.
 
-- Any inconsistency between anything contained in -
+(2) Any inconsistency between anything contained in—
 
 (a) a notice itemised in Schedule 7 to the former Constitution; or
 
 (b) a notice relating to agricultural land and published in terms of section 16B(2)(a)(ii) or (iii) of the former Constitution;
 
-and the title deed to which it refers or is intended to refer, and any error whatsoever contained in such a notice, does not affect the operation of subsection (1) or invalidate the State ' s title to the agricultural land concerned in terms of that subsection.
+and the title deed to which it refers or is intended to refer, and any error whatsoever contained in such a notice, does not affect the operation of subsection (1) or invalidate the State’s title to the agricultural land concerned in terms of that subsection.
 
 ###### 291 Continuation of rights of occupiers of agricultural land
 
@@ -6687,7 +6669,7 @@ Subject to any limitation imposed by law, an owner or occupier of agricultural l
 
 ###### 296 Establishment and composition of Zimbabwe Land Commission
 
-(1) There is a commission to be known as Zimbabwe Land Commission consisting of -
+(1) There is a commission to be known as Zimbabwe Land Commission consisting of—
 
 (a) a chairperson and deputy chairperson; and
 
@@ -6695,7 +6677,7 @@ Subject to any limitation imposed by law, an owner or occupier of agricultural l
 
 appointed by the President.
 
-(2) Members of the Zimbabwe Land Commission must -
+(2) Members of the Zimbabwe Land Commission must—
 
 (a) be chosen for their integrity and competence in, and knowledge and understanding of, the best practices in land management and administration; and
 
@@ -6707,27 +6689,27 @@ appointed by the President.
 
 Law Development Commission zowa@zol.co.zw
 
-(b) reflect the diversity of Zimbabwe ' s population, in particular its regional interests and gender balance.
+(b) reflect the diversity of Zimbabwe’s population, in particular its regional interests and gender balance.
 
 (3) Section 237 applies in relation to the removal from office of members of the Zimbabwe Land Commission as if it were an independent Commission established by Chapter 12.
 
 ###### 297 Functions of Zimbabwe Land Commission
 
-(1) The Zimbabwe Land Commission has the following functions -
+(1) The Zimbabwe Land Commission has the following functions—
 
 (a) to ensure accountability, fairness and transparency in the administration of agricultural land that is vested in the State;
 
 (b) to conduct periodical audits of agricultural land;
 
-(c) to make recommendations to the Government regarding -
+(c) to make recommendations to the Government regarding—
 
 (i) the acquisition of private land for public purposes;
 
-(ii) equitable access to and holding and occupation of agricultural land, in particular -
+(ii) equitable access to and holding and occupation of agricultural land, in particular—
 
-- the elimination of all forms of unfair discrimination, particularly gender discrimination;
+A. the elimination of all forms of unfair discrimination, particularly gender discrimination;
 
-- the enforcement of any law restricting the amount of agricultural land that may be held by any person or household;
+B. the enforcement of any law restricting the amount of agricultural land that may be held by any person or household;
 
 (iii) land usage and the size of agricultural land holdings;
 
@@ -6749,7 +6731,7 @@ Law Development Commission zowa@zol.co.zw
 
 (5) The State and all institutions and agencies of government at every level, through legislative and other measures, must assist the Zimbabwe Land Commission in carrying out its functions and must protect its independence, impartiality, integrity and effectiveness.
 
-(6) The Government must make adequate and suitable provision, through legislation and other appropriate means, to ensure that -
+(6) The Government must make adequate and suitable provision, through legislation and other appropriate means, to ensure that—
 
 (a) the Zimbabwe Land Commission is able to exercise its functions efficiently and independently; and
 
@@ -6769,19 +6751,19 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 1
 
-##### FINANCIALMANAGEMENT
+##### FINANCIAL MANAGEMENT
 
 ###### 298 Principles of public financial management
 
-(1) The following principles must guide all aspects of public finance in Zimbabwe -
+(1) The following principles must guide all aspects of public finance in Zimbabwe—
 
 (a) there must be transparency and accountability in financial matters;
 
-(b) the public finance system must be directed towards national development, and in particular -
+(b) the public finance system must be directed towards national development, and in particular—
 
 (i) the burden of taxation must be shared fairly;
 
-(ii) revenue raised nationally must be shared equitably between the c entral government and provincial and local tiers of government; and
+(ii) revenue raised nationally must be shared equitably between the central government and provincial and local tiers of government; and
 
 (iii) expenditure must be directed towards the development of Zimbabwe, and special provision must be made for marginalised groups and areas;
 
@@ -6797,7 +6779,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 299 Parliamentary oversight of State revenues and expenditure
 
-(1) Parliament must monitor and oversee expenditure by the State and all Commissions and institutions and agencies of government at every level, including statutory bodies, government-controlled entities, provincial and metropolitan councils and local authorities, in order to ensure that -
+(1) Parliament must monitor and oversee expenditure by the State and all Commissions and institutions and agencies of government at every level, including statutory bodies, government-controlled entities, provincial and metropolitan councils and local authorities, in order to ensure that—
 
 (a) all revenue is accounted for;
 
@@ -6809,7 +6791,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 300 Limits of State borrowings, public debt and State guarantees
 
-(1) An Act of Parliament must set limits on -
+(1) An Act of Parliament must set limits on—
 
 (a) borrowings by the State;
 
@@ -6831,9 +6813,9 @@ and those limits must not be exceeded without the authority of the National Asse
 
 (3) Within sixty days after the Government has concluded a loan agreement or guarantee, the Minister responsible for finance must cause its terms to be published in the Gazette.
 
-(4) The Minister responsible for finance must -
+(4) The Minister responsible for finance must—
 
-(a) at least twice a year, report to Parliament on the performance of -
+(a) at least twice a year, report to Parliament on the performance of—
 
 (i) loans raised by the State; and
 
@@ -6843,13 +6825,13 @@ and those limits must not be exceeded without the authority of the National Asse
 
 ###### 301 Allocation of revenues between provincial and local tiers of government
 
-(1) An Act of Parliament must provide for -
+(1) An Act of Parliament must provide for—
 
 (a) the equitable allocation of capital grants between provincial and metropolitan councils and local authorities; and
 
 (b) any other allocations to provinces and local authorities, and any conditions on which those allocations may be made.
 
-(2) The Act referred to in subsection (1) must take into account, amongst other factors -
+(2) The Act referred to in subsection (1) must take into account, amongst other factors—
 
 (a) the national interest;
 
@@ -6869,11 +6851,11 @@ and those limits must not be exceeded without the authority of the National Asse
 
 ##### PART 2
 
-##### CONSOLIDATEDREVENUEFUND
+##### CONSOLIDATED REVENUE FUND
 
 ###### 302 Consolidated Revenue Fund
 
-There is a Consolidated Revenue Fund into which must be paid all fees, taxes and borrowings and all other revenues of the Government, whatever their source, unless an Act of Parliament -
+There is a Consolidated Revenue Fund into which must be paid all fees, taxes and borrowings and all other revenues of the Government, whatever their source, unless an Act of Parliament—
 
 117
 
@@ -6885,7 +6867,7 @@ Law Development Commission zowa@zol.co.zw
 
 (a) requires or permits them to be paid into some other fund established for a specific purpose; or
 
-(b) permits the authority that received them to retain them, or part of them, in order to meet the authority ' s expenses.
+(b) permits the authority that received them to retain them, or part of them, in order to meet the authority’s expenses.
 
 ###### 303 Withdrawals from Consolidated Revenue Fund
 
@@ -6893,7 +6875,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) Money withdrawn from the Consolidated Revenue Fund must be paid only to the person to whom the payment is due.
 
-(3) An Act of Parliament must prescribe the way in which -
+(3) An Act of Parliament must prescribe the way in which—
 
 (a) withdrawals are to be made from the Consolidated Revenue Fund and any other public fund; and
 
@@ -6905,13 +6887,13 @@ Law Development Commission zowa@zol.co.zw
 
 (2) The costs and expenses incurred in collecting and managing the Consolidated Revenue Fund form the first charge on the Fund.
 
-(3)For the purposes of subsection (1) -
+(3) For the purposes of subsection (1)—
 
-' debt charges ' includes interest, sinking fund charges, the repayment or amortisation of debt and all expenditure related to the raising of loans on the security of the Consolidated Revenue Fund and the service and redemption of debt created by those loans.
+“debt charges” includes interest, sinking fund charges, the repayment or amortisation of debt and all expenditure related to the raising of loans on the security of the Consolidated Revenue Fund and the service and redemption of debt created by those loans.
 
 ##### PART 3
 
-##### AUTHORISATION OFEXPENDITURE FROMCONSOLIDATEDREVENUEFUND
+##### AUTHORISATION OF EXPENDITURE FROM CONSOLIDATED REVENUE FUND
 
 ###### 305 Appropriations from Consolidated Revenue Fund
 
@@ -6919,7 +6901,7 @@ Law Development Commission zowa@zol.co.zw
 
 (2) The estimates of revenue and expenditure must be presented to the National Assembly in terms of subsection (1) on a day on which the Assembly sits before or not later than thirty days after the start of each financial year, but if Parliament is dissolved and it is impossible to lay estimates before the Assembly by that time, then they must be laid before the Assembly within thirty days after the Assembly first meets following the dissolution.
 
-(3) Separate estimates of revenue and expenditure must be given for each of the following -
+(3) Separate estimates of revenue and expenditure must be given for each of the following—
 
 (a) each Commission established by this Constitution;
 
@@ -6939,7 +6921,7 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-(4) When the National Assembly has approved the estimates of expenditure for a financial year, other than expenditure that is specifically charged on the Consolidated Revenue Fund by this Constitution or an Act of Parliament, the Minister responsible for finance must cause a Bill to be known as an Appropriation Bill to be introduced into the National Assembly, and that Bill must -
+(4) When the National Assembly has approved the estimates of expenditure for a financial year, other than expenditure that is specifically charged on the Consolidated Revenue Fund by this Constitution or an Act of Parliament, the Minister responsible for finance must cause a Bill to be known as an Appropriation Bill to be introduced into the National Assembly, and that Bill must—
 
 (a) provide for money to be issued from the Consolidated Revenue Fund to meet the approved expenditure; and
 
@@ -6949,13 +6931,13 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 306 Authorisation of expenditure in advance of appropriation
 
-(1) An Act of Parliament may allow the President to authorise the withdrawal of money from the Consolidated Revenue Fund to meet expenditure which was unforeseen or whose extent was unforeseen and for which no provision has been made under any other law, but -
+(1) An Act of Parliament may allow the President to authorise the withdrawal of money from the Consolidated Revenue Fund to meet expenditure which was unforeseen or whose extent was unforeseen and for which no provision has been made under any other law, but—
 
-(a) the Act must not allow the withdrawal of money in excess of one and onehalf percent of the total amount appropriated in the last main Appropriation Act;
+(a) the Act must not allow the withdrawal of money in excess of one and one-half percent of the total amount appropriated in the last main Appropriation Act;
 
 (b) any money withdrawn under the Act must be included in additional or supplementary estimates of expenditure laid without delay before the National Assembly and, if the Assembly approves the estimates, the money must be charged upon the Consolidated Revenue Fund by an additional or supplementary Appropriation Act.
 
-(2) If the Appropriation Act for a financial year has not come into operation by the beginning of that financial year, an Act of Parliament may allow the President to authorise the withdrawal of money from the Consolidated Revenue Fund to meet expenditure necessary to carry on the services of the Government for the first four months of the financial year, but -
+(2) If the Appropriation Act for a financial year has not come into operation by the beginning of that financial year, an Act of Parliament may allow the President to authorise the withdrawal of money from the Consolidated Revenue Fund to meet expenditure necessary to carry on the services of the Government for the first four months of the financial year, but—
 
 (a) the Act must not allow the withdrawal of money in excess of one-third of the amounts included in the estimates of expenditure for the previous financial year;
 
@@ -6979,15 +6961,15 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 4
 
-##### SAFEGUARDING OFPUBLICFUNDS ANDPROPERTY
+##### SAFEGUARDING OF PUBLIC FUNDS AND PROPERTY
 
 ###### 308 Duties of custodians of public funds and property
 
-(1) In this section -
+(1) In this section—
 
-' public funds ' includes any money owned or held by the State or any institution or agency of government, including provincial and local tiers of government, statutory bodies and government-controlled entities;
+“public funds” includes any money owned or held by the State or any institution or agency of government, including provincial and local tiers of government, statutory bodies and government-controlled entities;
 
-' public property ' means any property owned or held by the State or any institution or agency of government, including provincial and local tiers of government, statutory bodies and government-controlled entities.
+“public property” means any property owned or held by the State or any institution or agency of government, including provincial and local tiers of government, statutory bodies and government-controlled entities.
 
 (2) It is the duty of every person who is responsible for the expenditure of public funds to safeguard the funds and ensure that they are spent only on legally authorised purposes and in legally authorised amounts.
 
@@ -7003,7 +6985,7 @@ Law Development Commission zowa@zol.co.zw
 
 (1) There must be an Auditor-General, whose office is a public office but does not form part of the Civil Service.
 
-(2) The functions of the Auditor-General are -
+(2) The functions of the Auditor-General are—
 
 (a) to audit the accounts, financial systems and financial management of all departments, institutions and agencies of government, all provincial and metropolitan councils and all local authorities;
 
@@ -7021,7 +7003,7 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-(3) Public officers must comply with orders given to them by the AuditorGeneral in terms of subsection (2)(c).
+(3) Public officers must comply with orders given to them by the Auditor-General in terms of subsection (2)(c).
 
 ###### 310 Appointment of Auditor-General
 
@@ -7045,7 +7027,7 @@ In the exercise of his or her functions the Auditor-General is independent and s
 
 ###### 313 Removal of Auditor-General from office
 
-(1) The Auditor-General may be removed from office only for -
+(1) The Auditor-General may be removed from office only for—
 
 (a) inability to perform the functions of his or her office because of mental or physical incapacity;
 
@@ -7055,7 +7037,7 @@ In the exercise of his or her functions the Auditor-General is independent and s
 
 (2) If the Minister responsible for finance, with the concurrence of the parliamentary committee responsible for public accounts, informs the President that the question of removing the Auditor-General from office ought to be investigated, the President must appoint a tribunal to inquire into the matter.
 
-(3) A tribunal appointed under subsection (2) must consist of at least three members appointed by the President, of whom -
+(3) A tribunal appointed under subsection (2) must consist of at least three members appointed by the President, of whom—
 
 (a) at least one must be a person who has served as a judge; and
 
@@ -7073,11 +7055,11 @@ In the exercise of his or her functions the Auditor-General is independent and s
 
 Law Development Commission zowa@zol.co.zw
 
-(6) A tribunal appointed under subsection (2) has the same rights and powers as commissioners under the Commissions of Inquiry Act [ Chapter 10:07 ] , or any law that replaces that Act.
+(6) A tribunal appointed under subsection (2) has the same rights and powers as commissioners under the Commissions of Inquiry Act [Chapter 10:07], or any law that replaces that Act.
 
 ###### 314 Staff of Auditor-General
 
-An Act of Parliament must provide for the appointment of a board to employ persons to assist the Auditor-General in the exercise of his or her functions, and must also provide for -
+An Act of Parliament must provide for the appointment of a board to employ persons to assist the Auditor-General in the exercise of his or her functions, and must also provide for—
 
 (a) the qualifications of those persons;
 
@@ -7085,7 +7067,7 @@ An Act of Parliament must provide for the appointment of a board to employ perso
 
 (c) the independence, impartiality and integrity of those persons; and
 
-(d) the organisation, efficiency and well-being of the Auditor-General ' s office.
+(d) the organisation, efficiency and well-being of the Auditor-General’s office.
 
 ##### PART 6
 
@@ -7095,7 +7077,7 @@ An Act of Parliament must provide for the appointment of a board to employ perso
 
 (1) An Act of Parliament must prescribe procedures for the procurement of goods and services by the State and all institutions and agencies of government at every level, so that procurement is effected in a manner that is transparent, fair, honest, cost-effective and competitive.
 
-(2) An Act of Parliament must provide for the negotiation and performance of the following State contracts -
+(2) An Act of Parliament must provide for the negotiation and performance of the following State contracts—
 
 (a) joint-venture contracts;
 
@@ -7111,7 +7093,7 @@ An Act of Parliament must provide for the competent and effective operation of s
 
 ###### 317 Reserve Bank of Zimbabwe
 
-(1) There is a central bank, to be known as the Reserve Bank of Zimbabwe, whose objects are -
+(1) There is a central bank, to be known as the Reserve Bank of Zimbabwe, whose objects are—
 
 (a) to regulate the monetary system;
 
@@ -7131,11 +7113,11 @@ Law Development Commission zowa@zol.co.zw
 
 #### CHAPTER 18
 
-#### GENERAL ANDSUPPLEMENTARYPROVISIONS
+#### GENERAL AND SUPPLEMENTARY PROVISIONS
 
 ##### PART 1
 
-##### GENERALPROVISIONS AS TOCOMMISSIONS
+##### GENERAL PROVISIONS AS TO COMMISSIONS
 
 ###### 318 Application of Part 1
 
@@ -7149,7 +7131,7 @@ The Commissions are bodies corporate with perpetual succession and are capable o
 
 (1) Except as otherwise provided in this Constitution, every member of a Commission is appointed for a term of five years which is renewable for one additional term only.
 
-(2) Members of Commissions, other than -
+(2) Members of Commissions, other than—
 
 (a) the independent Commissions;
 
@@ -7167,13 +7149,13 @@ hold office at the pleasure of the President.
 
 (5) Before entering office, members of Commissions must take before the President, or a person authorised by the President, the oaths of loyalty and office in the forms set out in the Third Schedule.
 
-(6) Members of Commissions are entitled to such remuneration, allowances and other benefits as may be fixed by or under an Act of Parliament, and their remuneration must not be reduced during the members ' tenure of office.
+(6) Members of Commissions are entitled to such remuneration, allowances and other benefits as may be fixed by or under an Act of Parliament, and their remuneration must not be reduced during the members’ tenure of office.
 
 (7) The remuneration and allowances of members of Commissions are a charge on the Consolidated Revenue Fund.
 
 ###### 321 Functions and procedure of Commissions
 
-(1) An Act of Parliament may confer additional functions on a Commission and may regulate the manner in which a Commission exercises its functions, provided that the Commission ' s independence or effectiveness is not compromised.
+(1) An Act of Parliament may confer additional functions on a Commission and may regulate the manner in which a Commission exercises its functions, provided that the Commission’s independence or effectiveness is not compromised.
 
 (2) An Act of Parliament referred to in subsection (1) may permit a Commission to delegate its functions, but a Commission must not delegate its power to make appointments to, or to make recommendations or give advice on, any office established by this Constitution.
 
@@ -7185,9 +7167,9 @@ hold office at the pleasure of the President.
 
 Law Development Commission zowa@zol.co.zw
 
-(3) Subject to this Constitution, any decision of a Commission requires the concurrence of a majority of the Commission ' s members who are present when the decision is taken.
+(3) Subject to this Constitution, any decision of a Commission requires the concurrence of a majority of the Commission’s members who are present when the decision is taken.
 
-(4) An Act of Parliament may provide for the procedures to be adopted by a Commission, and in any respect that is not so provided for the Commission may determine its own procedures, but any such procedures must be fair and promote transparency in the performance of the Commission ' s functions.
+(4) An Act of Parliament may provide for the procedures to be adopted by a Commission, and in any respect that is not so provided for the Commission may determine its own procedures, but any such procedures must be fair and promote transparency in the performance of the Commission’s functions.
 
 ###### 322 Funding of Commissions
 
@@ -7209,7 +7191,7 @@ All constitutional obligations must be performed diligently and without delay.
 
 ###### 325 Funding of constitutional bodies and other institutions
 
-(1) The Government must ensure that adequate funds are provided -
+(1) The Government must ensure that adequate funds are provided—
 
 (a) to the Commissions and other institutions established by this Constitution, to enable them to perform their functions effectively;
 
@@ -7235,33 +7217,33 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 327 International conventions, treaties and agreements
 
-(1) In this section -
+(1) In this section—
 
-' international organisation ' means an organisation whose membership consists of two or more independent States or in which two or more independent States are represented;
+“international organisation” means an organisation whose membership consists of two or more independent States or in which two or more independent States are represented;
 
-' international treaty ' means a convention, treaty, protocol or agreement between one or more foreign States or governments or international organisations.
+“international treaty” means a convention, treaty, protocol or agreement between one or more foreign States or governments or international organisations.
 
-(2) An international treaty which has been concluded or executed by the President or under the President ' s authority -
+(2) An international treaty which has been concluded or executed by the President or under the President’s authority—
 
 (a) does not bind Zimbabwe until it has been approved by Parliament; and
 
 (b) does not form part of the law of Zimbabwe unless it has been incorporated into the law through an Act of Parliament.
 
-- An agreement which is not an international treaty but which -
+(3) An agreement which is not an international treaty but which—
 
-(a) has been concluded or executed by the President or under the President ' s authority with one or more foreign organisations or entities; and
+(a) has been concluded or executed by the President or under the President’s authority with one or more foreign organisations or entities; and
 
 (b) imposes fiscal obligations on Zimbabwe;
 
 does not bind Zimbabwe until it has been approved by Parliament.
 
-(4) An Act of Parliament may provide that subsections (2) and (3) -
+(4) An Act of Parliament may provide that subsections (2) and (3)—
 
 (a) do not apply to any particular international treaty or agreement or to any class of such treaties or agreements; or
 
 (b) apply with modifications in relation to any particular international treaty or agreement or to any class of such treaties or agreements.
 
-(5) Parliament may by resolution declare that any particular international treaty or class of international treaties does not require approval under subsection (2), but such a resolution does not apply to treaties whose application or operation requires -
+(5) Parliament may by resolution declare that any particular international treaty or class of international treaties does not require approval under subsection (2), but such a resolution does not apply to treaties whose application or operation requires—
 
 (a) the withdrawal or appropriation of funds from the Consolidated Revenue Fund; or
 
@@ -7271,15 +7253,15 @@ does not bind Zimbabwe until it has been approved by Parliament.
 
 ###### 328 Amendment of Constitution
 
-(1) In this section -
+(1) In this section—
 
-' Constitutional Bill ' means a Bill that seeks to amend this Constitution;
+“Constitutional Bill” means a Bill that seeks to amend this Constitution;
 
-' term-limit provision ' means a provision of this Constitution which limits the length of time that a person may hold or occupy a public office.
+“term-limit provision” means a provision of this Constitution which limits the length of time that a person may hold or occupy a public office.
 
 (2) An Act of Parliament that amends this Constitution must do so in express terms.
 
-(3) A Constitutional Bill may not be presented in the Senate or the National Assembly in terms of section 131 unless the Speaker has given at least ninety days ' notice in the Gazette of the precise terms of the Bill.
+(3) A Constitutional Bill may not be presented in the Senate or the National Assembly in terms of section 131 unless the Speaker has given at least ninety days’ notice in the Gazette of the precise terms of the Bill.
 
 (4) Immediately after the Speaker has given notice of a Constitutional Bill in terms of subsection (3), Parliament must invite members of the public to express their views on the proposed Bill in public meetings and through written submissions, and must convene meetings and provide facilities to enable the public to do so.
 
@@ -7293,7 +7275,7 @@ Law Development Commission zowa@zol.co.zw
 
 (5) A Constitutional Bill must be passed, at its last reading in the National Assembly and the Senate, by the affirmative votes of two-thirds of the membership of each House.
 
-(6) Where a Constitutional Bill seeks to amend any provision of Chapter 4 or Chapter 16 -
+(6) Where a Constitutional Bill seeks to amend any provision of Chapter 4 or Chapter 16—
 
 (a) with in three months after it has been passed by the National Assembly and the Senate in accordance with subsection (5), it must be submitted to a national referendum; and
 
@@ -7305,7 +7287,7 @@ Law Development Commission zowa@zol.co.zw
 
 (9) This section may be amended only by following the procedures set out in subsections (3),(4), (5) and (6), as if this section were contained in Chapter 4.
 
-(10) When a Constitutional Bill is presented to the President for assent and signature, it must be accompanied by -
+(10) When a Constitutional Bill is presented to the President for assent and signature, it must be accompanied by—
 
 (a) a certificate from the Speaker that at its final vote in the National Assembly the Bill received the affirmative votes of at least two-thirds of the membership of the Assembly; and
 
@@ -7337,47 +7319,47 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 332 Definitions
 
-In this Constitution -
+In this Constitution—
 
-' Act of Parliament ' means -
+“Act of Parliament” means—
 
 (a) an enactment that has been passed by Parliament and then assented to and signed by the President in accordance with this Constitution; or
 
-(b) an enactment that was in force in Zimbabwe as an Act of Parliament immediately before the effective date, including -
+(b) an enactment that was in force in Zimbabwe as an Act of Parliament immediately before the effective date, including—
 
-(i) any enactment included in the revised edition of the statute law of Zimbabwe prepared in 1996 under the authority of the Statute Law Compilation and Revision Act [ Chapter 1:03 ] ; and
+(i) any enactment included in the revised edition of the statute law of Zimbabwe prepared in 1996 under the authority of the Statute Law Compilation and Revision Act [Chapter 1:03]; and
 
 (ii) any enactment which, though omitted from the revised edition referred to in subparagraph (i), continued in force notwithstanding that omission; and
 
 (iii) any enactment enacted by the Parliament of Zimbabwe after the revised edition referred to in subparagraph (i) but before the effective date;
 
-' administrative conduct ' includes any decision, act or omission of a public officer or of a person performing a function of a public nature, and a failure or refusal of such a person to reach such a decision or to perform such an act;
+“administrative conduct” includes any decision, act or omission of a public officer or of a person performing a function of a public nature, and a failure or refusal of such a person to reach such a decision or to perform such an act;
 
-' amend ' includes vary, alter, modify, add to, delete or adapt;
+“amend” includes vary, alter, modify, add to, delete or adapt;
 
-' by-election ' means an election to fill a casual vacancy in Parliament or in a local authority;
+“by-election” means an election to fill a casual vacancy in Parliament or in a local authority;
 
-' Chief means a Chief referred to in Chapter 15;
+“Chief means a Chief referred to in Chapter 15;
 
-' Civil Service ' has the meaning given to it by section 199;
+“Civil Service” has the meaning given to it by section 199;
 
-' Commission ' means a Commission established by this Constitution;
+“Commission” means a Commission established by this Constitution;
 
-' Committee on Standing Rules and Orders ' means the committee of that name established under section 151;
+“Committee on Standing Rules and Orders” means the committee of that name established under section 151;
 
-' Communal Land ' means land set aside under an Act of Parliament and held in accordance with customary law by members of a community under the leadership of a Chief;
+“Communal Land” means land set aside under an Act of Parliament and held in accordance with customary law by members of a community under the leadership of a Chief;
 
-' Constitutional Bill ' means a Bill which, if enacted, would have the effect of amending any of the provisions of this Constitution;
+“Constitutional Bill” means a Bill which, if enacted, would have the effect of amending any of the provisions of this Constitution;
 
-' Constitutional Court ' means the Constitutional Court established by section 162(a);
+“Constitutional Court” means the Constitutional Court established by section 162(a);
 
-' constitutional matter ' means a matter in which there is an issue involving the interpretation, protection or enforcement of this Constitution;
+“constitutional matter” means a matter in which there is an issue involving the interpretation, protection or enforcement of this Constitution;
 
-' customary law ' means the customary law of any section or community of Zimbabwe ' s people;
+“customary law” means the customary law of any section or community of Zimbabwe’s people;
 
-' disciplinary law ' means a written law that regulates the discipline of members of a disciplined force, including part-time members, while they are rendering service in the force or in respect of their failure to render service in the force;
+“disciplinary law” means a written law that regulates the discipline of members of a disciplined force, including part-time members, while they are rendering service in the force or in respect of their failure to render service in the force;
 
-' disciplined force ' means -
+“disciplined force” means—
 
 (a) a naval, military or air force;
 
@@ -7395,35 +7377,35 @@ Law Development Commission zowa@zol.co.zw
 
 (d) any other body established for public purposes by or under an Act of Parliament and declared by that Act to be a disciplined force;
 
-' effective date ' means the date on which this Constitution comes wholly into operation in terms of paragraph 3(2) of the Sixth Schedule;
+“effective date” means the date on which this Constitution comes wholly into operation in terms of paragraph 3(2) of the Sixth Schedule;
 
-' Electoral Law ' means the Act of Parliament that regulates elections in terms of this Constitution;
+“Electoral Law” means the Act of Parliament that regulates elections in terms of this Constitution;
 
-' financial year ' means the twelve-month period ending on the 31st December;
+“financial year” means the twelve-month period ending on the 31st December;
 
-' function ' includes power and duty;
+“function” includes power and duty;
 
-' Gazette ' means the official Gazette of the Government and includes any supplement to that Gazette;
+“Gazette” means the official Gazette of the Government and includes any supplement to that Gazette;
 
-' general election ' means a general election -
+“general election” means a general election—
 
 (a) of the President, Vice-Presidents and Members of Parliament;
 
 (b) of members of the governing bodies of local authorities;
 
-' Government ' means the Government of Zimbabwe;
+“Government” means the Government of Zimbabwe;
 
-' government-controlled entity ' means a body corporate whose operations or activities are substantially controlled by the State or by a person on behalf of the State, whether through ownership of a majority of shares in the body corporate or otherwise;
+“government-controlled entity” means a body corporate whose operations or activities are substantially controlled by the State or by a person on behalf of the State, whether through ownership of a majority of shares in the body corporate or otherwise;
 
-' House ' , unless otherwise qualified, means the Senate or the National Assembly;
+“House”, unless otherwise qualified, means the Senate or the National Assembly;
 
-' independent Commission ' means a Commission referred to in section 232;
+“independent Commission” means a Commission referred to in section 232;
 
-' judge ' means a judge of the Constitutional Court, the Supreme Court, the High Court, the Labour Court or the Administrative Court;
+“judge” means a judge of the Constitutional Court, the Supreme Court, the High Court, the Labour Court or the Administrative Court;
 
-' Judicial Service Commission ' means the Commission of that name established by section 189;
+“Judicial Service Commission” means the Commission of that name established by section 189;
 
-' law ' means -
+“law” means—
 
 (a) any provision of this Constitution or of an Act of Parliament;
 
@@ -7431,23 +7413,23 @@ Law Development Commission zowa@zol.co.zw
 
 (c) any unwritten law in force in Zimbabwe, including customary law;
 
-- and ' lawful ' , ' lawfully ' , ' legal ' and ' legally ' are to be construed accordingly;
+and “lawful”, “lawfully”, “legal” and “legally” are to be construed accordingly;
 
-' legal practitioner ' means a person who is permitted to practise the profession of law in Zimbabwe;
+“legal practitioner” means a person who is permitted to practise the profession of law in Zimbabwe;
 
-' local authority ' means a council referred to in Part 3 of Chapter 14;
+“local authority” means a council referred to in Part 3 of Chapter 14;
 
-' member ' , in relation to -
+“member”, in relation to—
 
 (a) a Commission or other body established by this Constitution, includes the chairperson and deputy chairperson;
 
-(b) a statutory body, provincial or metropolitan council or local authority, means a person who is appointed or elected to a council, board or other authority which -
+(b) a statutory body, provincial or metropolitan council or local authority, means a person who is appointed or elected to a council, board or other authority which—
 
 (i) is a statutory body, provincial or metropolitan council or local authority; or
 
 (ii) is responsible for administering the affairs of the statutory body, provincial or metropolitan council or local authority;
 
-' Member of Parliament ' means a Senator or a Member of the National Assembly;
+“Member of Parliament” means a Senator or a Member of the National Assembly;
 
 128
 
@@ -7457,43 +7439,43 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-' metropolitan council ' means a council established by section 269 for a metropolitan province;
+“metropolitan council” means a council established by section 269 for a metropolitan province;
 
-' metropolitan province ' means Bulawayo Metropolitan Province or Harare Metropolitan Province, as the case may be;
+“metropolitan province” means Bulawayo Metropolitan Province or Harare Metropolitan Province, as the case may be;
 
-' Minister ' includes a person exercising the functions of a Minister, whatever their title;
+“Minister” includes a person exercising the functions of a Minister, whatever their title;
 
-' national legislation ' means an Act of Parliament or a statutory instrument made under an Act of Parliament;
+“national legislation” means an Act of Parliament or a statutory instrument made under an Act of Parliament;
 
-' oath ' includes affirmation;
+“oath” includes affirmation;
 
-' offence ' means a criminal offence;
+“offence” means a criminal offence;
 
-' period of public emergency ' means a period when a declaration of a state of public emergency under section 113 is in effect;
+“period of public emergency” means a period when a declaration of a state of public emergency under section 113 is in effect;
 
-' person ' means an individual or a body of persons, whether incorporated or unincorporated;
+“person” means an individual or a body of persons, whether incorporated or unincorporated;
 
-' President ' means the President of Zimbabwe;
+“President” means the President of Zimbabwe;
 
-' President of the Senate ' means the President of the Senate elected in terms of section 122;
+“President of the Senate” means the President of the Senate elected in terms of section 122;
 
-' provincial council ' means a council established by section 268 for a province other than a metropolitan province;
+“provincial council” means a council established by section 268 for a province other than a metropolitan province;
 
-' public office ' means a paid office in the service of the State;
+“public office” means a paid office in the service of the State;
 
-' public officer ' means a person holding or acting in a public office;
+“public officer” means a person holding or acting in a public office;
 
-' security service ' means a security service referred to in section 207;
+“security service” means a security service referred to in section 207;
 
-' Senator Chief ' means a Chief elected to the Senate in terms of section 120(1) (b) or (c);
+“Senator Chief” means a Chief elected to the Senate in terms of section 120(1)(b) or (c);
 
-' sitting ' means a period during which the Senate or the National Assembly is sitting continuously, including any period during which the Senate or the National Assembly, as the case may be, is in committee;
+“sitting” means a period during which the Senate or the National Assembly is sitting continuously, including any period during which the Senate or the National Assembly, as the case may be, is in committee;
 
-' sitting day ' means any weekday which is prescribed in the Standing Orders of the National Assembly or the Senate, as the case may be, to be a sitting day, whether or not the House concerned meets on that day;
+“sitting day” means any weekday which is prescribed in the Standing Orders of the National Assembly or the Senate, as the case may be, to be a sitting day, whether or not the House concerned meets on that day;
 
-' Speaker ' means the Speaker of the National Assembly elected in terms of section 126;
+“Speaker” means the Speaker of the National Assembly elected in terms of section 126;
 
-' Standing Orders ' , in relation to anything to be done by -
+“Standing Orders”, in relation to anything to be done by—
 
 (a) the Senate, means Standing Orders of the Senate;
 
@@ -7503,13 +7485,13 @@ Law Development Commission zowa@zol.co.zw
 
 made in terms of section 139;
 
-' statutory ' body ' means -
+“statutory “body” means—
 
 (a) a Commission established by this Constitution; or
 
 (b) a body corporate established directly by or under an Act of Parliament for special purposes specified in that Act, whose membership consists wholly or mainly of persons appointed by the President, a Vice-President, a Minister, a Deputy Minister, another statutory body or by a Commission established by this Constitution;
 
-' statutory instrument ' means any instrument that has the force of law and that is made by the President, a Vice-President, a Minister or any other person or authority under this Constitution or an Act of Parliament;
+“statutory instrument” means any instrument that has the force of law and that is made by the President, a Vice-President, a Minister or any other person or authority under this Constitution or an Act of Parliament;
 
 129
 
@@ -7519,19 +7501,19 @@ made in terms of section 139;
 
 Law Development Commission zowa@zol.co.zw
 
-' tax ' includes a duty, rate, levy or due;
+“tax” includes a duty, rate, levy or due;
 
-' traditional leader ' means a person appointed as such in terms of section 283;
+“traditional leader” means a person appointed as such in terms of section 283;
 
-' Zimbabwe ' means the Republic of Zimbabwe;
+“Zimbabwe” means the Republic of Zimbabwe;
 
-' Zimbabwe Electoral Commission ' means the Commission of that name established by section 238;
+“Zimbabwe Electoral Commission” means the Commission of that name established by section 238;
 
-' Zimbabwe Human Rights Commission ' means the Commission of that name established by section 242.
+“Zimbabwe Human Rights Commission” means the Commission of that name established by section 242.
 
 ###### 333 References to Chapters, sections, etc.
 
-Any reference in this Constitution, without qualification, to -
+Any reference in this Constitution, without qualification, to—
 
 (a) a Chapter, section or Schedule, is to be construed as a reference to a Chapter or section of or Schedule to this Constitution;
 
@@ -7551,7 +7533,7 @@ Tables of contents and headings to Chapters, Parts, sections and other provision
 
 ###### 336 References to time
 
-- In this Constitution, whenever a period of days is expressed -
+(1) In this Constitution, whenever a period of days is expressed—
 
 (a) to begin on or to be reckoned from a particular day, that day is not to be included in the period;
 
@@ -7581,7 +7563,7 @@ Where this Constitution requires a report or other document to be submitted to o
 
 ###### 339 Advice and consultation
 
-(1) Whenever this Constitution requires any person or authority to act on the advice of anyone else, the person or authority must -
+(1) Whenever this Constitution requires any person or authority to act on the advice of anyone else, the person or authority must—
 
 (a) inform the other person, in writing, what he or she proposes to do and provide the other person with enough information to enable the other person to understand the nature and effect of the proposed act; and
 
@@ -7589,7 +7571,7 @@ Where this Constitution requires a report or other document to be submitted to o
 
 and the person or authority is obliged to follow the advice tendered by the other person.
 
-(2) Whenever this Constitution requires any person or authority to consult anyone else, or to act after consultation with anyone else, the person or authority must -
+(2) Whenever this Constitution requires any person or authority to consult anyone else, or to act after consultation with anyone else, the person or authority must—
 
 (a) inform the other person, in writing, what he or she proposes to do and provide the other person with enough information to enable the other person to understand the nature and effect of the proposed act;
 
@@ -7601,7 +7583,7 @@ but the person or authority is not obliged to follow any recommendations made by
 
 ###### 340 Appointments
 
-(1) Except as otherwise provided in this Constitution, a power under this Constitution to appoint a person to an office includes a similar power -
+(1) Except as otherwise provided in this Constitution, a power under this Constitution to appoint a person to an office includes a similar power—
 
 (a) to reappoint the person to that office;
 
@@ -7611,7 +7593,7 @@ but the person or authority is not obliged to follow any recommendations made by
 
 (d) to appoint a person to that office while it is held by someone else who is on leave of absence pending relinquishment of the office;
 
-(e) to fix and vary the person ' s conditions of service in that office, including the person ' s remuneration and period of appointment and any benefits on termination of service; and
+(e) to fix and vary the person’s conditions of service in that office, including the person’s remuneration and period of appointment and any benefits on termination of service; and
 
 (f) subject to this Constitution, to suspend or remove the person from office.
 
@@ -7633,7 +7615,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### 341 Resignations
 
-(1) Any person who is appointed or elected to an office established by this Constitution may resign from that office by written notice addressed to the person that appointed or elected the office-holder concerned, but in the case of -
+(1) Any person who is appointed or elected to an office established by this Constitution may resign from that office by written notice addressed to the person that appointed or elected the office-holder concerned, but in the case of—
 
 (a) the President, the notice must be addressed to the Speaker;
 
@@ -7651,7 +7633,7 @@ Law Development Commission zowa@zol.co.zw
 
 (h) a member of a local authority, the notice must be addressed to the chief executive officer of the council.
 
-(2) A person ' s resignation from an office established by this Constitution takes effect on the date or at the time indicated in the notice of resignation or, if no date or time is indicated, when the notice is received by the person to whom it is addressed or by anyone else who is authorised by that person to receive it.
+(2) A person’s resignation from an office established by this Constitution takes effect on the date or at the time indicated in the notice of resignation or, if no date or time is indicated, when the notice is received by the person to whom it is addressed or by anyone else who is authorised by that person to receive it.
 
 ###### 342 Exercise of functions, etc.
 
@@ -7679,7 +7661,7 @@ For the purposes of this Constitution, persons are not to be regarded as holding
 
 Law Development Commission zowa@zol.co.zw
 
-- Any reference in this Constitution to the votes of -
+(3) Any reference in this Constitution to the votes of—
 
 (a) half of the membership of a body whose membership is not a multiple of two;
 
@@ -7687,7 +7669,7 @@ Law Development Commission zowa@zol.co.zw
 
 (c) three-quarters of the membership of a body whose membership is not a multiple of four;
 
-is to be interpreted to mean that the number of votes must be not less than the whole number next above one-half, two-thirds or three-quarters, as the case may be, of the body ' s membership.
+is to be interpreted to mean that the number of votes must be not less than the whole number next above one-half, two-thirds or three-quarters, as the case may be, of the body’s membership.
 
 (4) Any reference to the total membership of Parliament is a reference to the total number of persons who for the time being are Members of Parliament.
 
@@ -7709,11 +7691,23 @@ In the event of an inconsistency between different texts of this Constitution, t
 
 ###### English Version
 
-- O lift high, high, our flag of Zimbabwe Born of the fire of the revolution And of the precious blood of our heroes. Let ' s defend it against all foes; Blessed be the land of Zimbabwe.
+1. O lift high, high, our flag of Zimbabwe
+Born of the fire of the revolution
+And of the precious blood of our heroes.
+Let’s defend it against all foes;
+Blessed be the land of Zimbabwe.
 
-- Behold Zimbabwe so richly adorned With mountains and rivers, beautiful. Let rain abound and fields yield the seed May all be fed and workers rewarded. Blessed be the land of Zimbabwe.
+2. Behold Zimbabwe so richly adorned
+With mountains and rivers, beautiful.
+Let rain abound and fields yield the seed
+May all be fed and workers rewarded.
+Blessed be the land of Zimbabwe.
 
-- O God, bless the land of Zimbabwe, The land of our heritage, From the Zambezi to the Limpopo. May our leaders be just and exemplary, Blessed be the land of Zimbabwe.
+3. O God, bless the land of Zimbabwe,
+The land of our heritage,
+From the Zambezi to the Limpopo.
+May our leaders be just and exemplary,
+Blessed be the land of Zimbabwe.
 
 133
 
@@ -7735,7 +7729,7 @@ Law Development Commission zowa@zol.co.zw
 Law Development Commission zowa@zol.co.zw
 
 ##### PART 3
-##### NATIONALCOAT OFARMS
+##### NATIONAL COAT OF ARMS
 
 ##### PART 4
 ##### PUBLIC SEAL
@@ -7756,15 +7750,15 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Interpretation in First Schedule
 
-1. In this Schedule -
+1. In this Schedule—
 
-' detainee ' means a person who is detained under an emergency law that provides for preventive detention;
+“detainee” means a person who is detained under an emergency law that provides for preventive detention;
 
-' emergency law ' means a written law that provides for action to be taken to deal with any situation arising during a period of public emergency;
+“emergency law” means a written law that provides for action to be taken to deal with any situation arising during a period of public emergency;
 
-' fundamental human right or freedom ' means a right or freedom set out in Part 2 of Chapter 4;
+“fundamental human right or freedom” means a right or freedom set out in Part 2 of Chapter 4;
 
-' review tribunal ' means the tribunal referred to in paragraph 3(1).
+“review tribunal” means the tribunal referred to in paragraph 3(1).
 
 ###### Extent to which fundamental human rights or freedoms may be limited
 
@@ -7778,11 +7772,11 @@ Law Development Commission zowa@zol.co.zw
 
 (2) The review tribunal must be appointed by the President on the advice of the Judicial Service Commission and after consultation with the Committee on Standing Rules and Orders.
 
-(3) The review tribunal must consist of -
+(3) The review tribunal must consist of—
 
 (a) a chairperson, who is or has been a judge; and
 
-(b) two other members, one of whom -
+(b) two other members, one of whom—
 
 (i) is or has been a judge or is qualified to be appointed as such;
 
@@ -7792,11 +7786,11 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Basic rights of detainees
 
-4. (1) All detainees -
+4. (1) All detainees—
 
 (a) must be informed as soon as reasonably practicable, and in any case within seven days, of the reasons for their detention;
 
-(b) must be permitted without delay -
+(b) must be permitted without delay—
 
 (i) at their own expense, to choose and consult in private with a legal practitioner; or
 
@@ -7814,21 +7808,21 @@ and must be informed as soon as reasonably practicable of their rights under thi
 
 Law Development Commission zowa@zol.co.zw
 
-- Where this paragraph requires information to be given to a detainee -
+(2) Where this paragraph requires information to be given to a detainee—
 
 (a) the information must be given in a language that the detainee understands; and
 
 (b) if the detainee cannot read or write, any document embodying the information must be explained in such a way that he or she understands it.
 
-###### Review of detainees ' cases
+###### Review of detainees’ cases
 
-5. (1) Every detainee ' s case must be submitted to the review tribunal within ten days after his or her initial detention and the tribunal must be informed of the name of the detainee, the place where he or she is detained and the reasons for the detention.
+5. (1) Every detainee’s case must be submitted to the review tribunal within ten days after his or her initial detention and the tribunal must be informed of the name of the detainee, the place where he or she is detained and the reasons for the detention.
 
-(2) Every detainee ' s case must be resubmitted to the review tribunal at intervals of thirty days from the date on which the case was last reviewed, or at shorter intervals if the tribunal so orders.
+(2) Every detainee’s case must be resubmitted to the review tribunal at intervals of thirty days from the date on which the case was last reviewed, or at shorter intervals if the tribunal so orders.
 
 (3) The review tribunal must proceed without delay to review all cases submitted to it.
 
-(4) At all hearings by the review tribunal, the detainees whose cases are being reviewed must be allowed to present their cases in person or, if they wish -
+(4) At all hearings by the review tribunal, the detainees whose cases are being reviewed must be allowed to present their cases in person or, if they wish—
 
 (a) through legal practitioners assigned to them by the State at State expense; or
 
@@ -7838,7 +7832,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Recommendations of review tribunal
 
-6. After reviewing a detainee ' s case, the review tribunal must make written recommendations to the authority that ordered the detention as to whether or not the detainee should continue to be detained, and the authority must act in accordance with the tribunal ' s recommendation.
+6. After reviewing a detainee’s case, the review tribunal must make written recommendations to the authority that ordered the detention as to whether or not the detainee should continue to be detained, and the authority must act in accordance with the tribunal’s recommendation.
 
 ###### Released detainees not to be re-detained on same grounds
 
@@ -7846,9 +7840,9 @@ Law Development Commission zowa@zol.co.zw
 
 (2) For the purposes of this paragraph, a person is deemed to have been detained on the same grounds as those on which he or she was originally detained unless the review tribunal has reported that, in its opinion, there appear to be new and reasonable grounds for the detention.
 
-###### Preservation of detainees ' access to courts
+###### Preservation of detainees’ access to courts
 
-8. This Schedule is not to be construed as limiting a detainee ' s right to challenge in a court the lawfulness of his or her detention, whether or not his or her case is already before the review tribunal.
+8. This Schedule is not to be construed as limiting a detainee’s right to challenge in a court the lawfulness of his or her detention, whether or not his or her case is already before the review tribunal.
 
 137
 
@@ -7858,53 +7852,53 @@ Law Development Commission zowa@zol.co.zw
 
 Law Development Commission zowa@zol.co.zw
 
-###### Notes:
-
-- A person who is required to take any of the following oaths may, if he or she wishes, make an affirmation instead, using the indicated wording.
-
-- If a person taking any of the following oaths, or making any of the following affirmations, varies the wording of the oath or affirmation to a non-material extent, the variation does not affect the validity or binding nature of the oath or affirmation.
-
-###### OATH OR AFFIRMATION OF LOYALTY
-
-I .............................................. swear [ or solemnly affirm ] that I will be faithful and bear true allegiance to Zimbabwe and observe the laws of Zimbabwe.
-
-So help me God. [ To be omitted in affirmation ]
-
-This  oath  or  affirmation  is  to  be  taken  before  the  person  specified  in  the  appropriate legislation.
-
-###### OATH OR AFFIRMATION OF OFFICE
-
-I, ............................... , .............. swear [ or solemnly affirm ] that I will serve Zimbabwe well and truly in the office of......................................
-
-So help me God. [ To be omitted in affirmation ]
-
-This  oath  or  affirmation  is  to  be  taken  before  the  person  specified  in the  appropriate legislation.
-
-###### OATH OR AFFIRMATION OF PRESIDENT AND VICE-PRESIDENTS
-
-I, ................................................... swear [ or solemnly affirm ] that as President [ or Vice-President ] of Zimbabwe I will be faithful to Zimbabwe and will obey, uphold and defend the Constitution and all other laws of Zimbabwe, and -
-
-- that I will promote whatever will advance, and oppose whatever may harm, Zimbabwe;
-
-- that I will protect and promote the rights of the people of Zimbabwe;
-
-- that I will discharge my duties with all my strength to the best of my knowledge and ability and true to the dictates of my conscience; and
-
-- that I will devote myself to the well-being of Zimbabwe and its people.
-
-So help me God. [ To be omitted in affirmation ]
-
-This oath or affirmation is to be taken before the Chief Justice or, in his or her absence, before the next most senior judge available.
-
-###### OATH OR AFFIRMATION OF MINISTER
-
-I, ................................................. swear [ or solemnly affirm ] that I will be faithful to Zimbabwe and, in the office of Minister, will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the President of Zimbabwe freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of Zimbabwe; that I will not disclose, directly or indirectly, any
-
 #### THIRD SCHEDULE
 
 (Sections 94, 104, 114, 122, 123, 126, 127, 128, 185, 259, 272, 310 and 320)
 
 #### OATHS AND AFFIRMATIONS
+
+###### Notes:
+
+1. A person who is required to take any of the following oaths may, if he or she wishes, make an affirmation instead, using the indicated wording.
+
+2. If a person taking any of the following oaths, or making any of the following affirmations, varies the wording of the oath or affirmation to a non-material extent, the variation does not affect the validity or binding nature of the oath or affirmation.
+
+###### OATH OR AFFIRMATION OF LOYALTY
+
+I ..............................................swear [or solemnly affirm] that I will be faithful and bear true allegiance to Zimbabwe and observe the laws of Zimbabwe.
+
+So help me God. [To be omitted in affirmation]
+
+This oath or affirmation is to be taken before the person specified in the appropriate legislation.
+
+###### OATH OR AFFIRMATION OF OFFICE
+
+I, ..............................., .............. swear [or solemnly affirm] that I will serve Zimbabwe well and truly in the office of......................................
+
+So help me God. [To be omitted in affirmation]
+
+This oath or affirmation is to be taken before the person specified in the appropriate legislation.
+
+###### OATH OR AFFIRMATION OF PRESIDENT AND VICE-PRESIDENTS
+
+I, ...................................................swear [or solemnly affirm] that as President [or Vice-President] of Zimbabwe I will be faithful to Zimbabwe and will obey, uphold and defend the Constitution and all other laws of Zimbabwe, and—
+
+• that I will promote whatever will advance, and oppose whatever may harm, Zimbabwe;
+
+• that I will protect and promote the rights of the people of Zimbabwe;
+
+• that I will discharge my duties with all my strength to the best of my knowledge and ability and true to the dictates of my conscience; and
+
+• that I will devote myself to the well-being of Zimbabwe and its people.
+
+So help me God. [To be omitted in affirmation]
+
+This oath or affirmation is to be taken before the Chief Justice or, in his or her absence, before the next most senior judge available.
+
+###### OATH OR AFFIRMATION OF MINISTER
+
+I, ................................................. swear [or solemnly affirm] that I will be faithful to Zimbabwe and, in the office of Minister, will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the President of Zimbabwe freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of Zimbabwe; that I will not disclose, directly or indirectly, any
 
 138
 
@@ -7916,35 +7910,35 @@ Law Development Commission zowa@zol.co.zw
 
 secret that is debated in Cabinet or any secret that is entrusted to me in the course of my duties as Minister; and that in all respects I will perform the duties of my office faithfully and to the best of my ability.
 
-So help me God. [ To be omitted in affirmation ]
+So help me God. [To be omitted in affirmation]
 
 This oath or affirmation is to be taken before the President or, in his or her absence, before the Chief Justice or the next most senior judge available.
 
-###### OATHORAFFIRMATIONOFDEPUTYMINISTER
+###### OATH OR AFFIRMATION OF DEPUTY MINISTER
 
-I .................................................. swear [ or solemnly affirm ] that I will be faithful to Zimbabwe and, in the office of Deputy Minister, will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the President of Zimbabwe freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of Zimbabwe; that I will not disclose, directly or indirectly, any secret that is entrusted to me in the course of my duties as Deputy Minister; and that in all respects I will perform the duties of my office faithfully and to the best of my ability.
+I ..................................................swear [or solemnly affirm] that I will be faithful to Zimbabwe and, in the office of Deputy Minister, will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the President of Zimbabwe freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of Zimbabwe; that I will not disclose, directly or indirectly, any secret that is entrusted to me in the course of my duties as Deputy Minister; and that in all respects I will perform the duties of my office faithfully and to the best of my ability.
 
-So help me God. [ To be omitted in affirmation ]
+So help me God. [To be omitted in affirmation]
 
 This oath or affirmation is to be taken before the President or, in his or her absence, before the Chief Justice or the next most senior judge available.
 
-###### OATHORAFFIRMATIONOFMEMBEROFPARLIAMENT
+###### OATH OR AFFIRMATION OF MEMBER OF PARLIAMENT
 
-I,.................................................. swear [ or solemnly affirm ] that I will be faithful to Zimbabwe, that I will uphold the Constitution and all other laws of Zimbabwe, and that I will perform my duties as a Senator/Member of the National Assembly [ whichever is appropriate ] faithfully and to the best of my ability.
+I,.................................................. swear [or solemnly affirm] that I will be faithful to Zimbabwe, that I will uphold the Constitution and all other laws of Zimbabwe, and that I will perform my duties as a Senator/Member of the National Assembly [whichever is appropriate] faithfully and to the best of my ability.
 
-So help me God. [ To be omitted in affirmation ] This oath or affirmation is to be taken before the Clerk of Parliament.
+So help me God. [To be omitted in affirmation] This oath or affirmation is to be taken before the Clerk of Parliament.
 
-###### JUDICIALOATHORAFFIRMATION
+###### JUDICIAL OATH OR AFFIRMATION
 
-I .......................................................swear [or solemnly affirm ] that I will be faithful to Zimbabwe and that in the office of ..................., ....................I will uphold and protect the Constitution and will administer justice to all persons alike without fear, favour or prejudice in accordance with the Constitution and the law.
+I .......................................................swear [or solemnly affirm] that I will be faithful to Zimbabwe and that in the office of..................., ....................I will uphold and protect the Constitution and will administer justice to all persons alike without fear, favour or prejudice in accordance with the Constitution and the law.
 
-So help me God. [ To be omitted in affirmation ]
+So help me God. [To be omitted in affirmation]
 
 Where the person taking this oath or affirmation is a judge, it is to be taken before the Chief Justice, or the next most senior judge available. In all other cases it is to be taken before the person specified in the appropriate legislation.
 
-###### OATHORAFFIRMATIONOF MEMBER OFPROVINCIAL/METROPOLITANCOUNCIL
+###### OATH OR AFFIRMATION OF MEMBER OF PROVINCIAL/METROPOLITAN COUNCIL
 
-I .................................................. swear [ or solemnly affirm ] that I will be faithful to Zimbabwe and, in the office of member of the provincial [or metropolitan] council of the Province of................................................... , [ state name of province ] will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the
+I .................................................. swear [or solemnly affirm] that I will be faithful to Zimbabwe and, in the office of member of the provincial [or metropolitan] council of the Province of................................................... , [state name of province] will uphold the Constitution and all other laws of Zimbabwe; that I will give my advice to the
 
 139
 
@@ -7954,9 +7948,9 @@ I .................................................. swear [ or solemnly affirm 
 
 Law Development Commission zowa@zol.co.zw
 
-Chairperson [ or Mayor ] of.................................................... [ state name of province ] freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of the Province; that I will not disclose, directly or indirectly, any secret that is debated in the provincial [ or metropolitan ] council or any secret that is entrusted to me in the course of my duties as member of that council; and that in all respects I will perform the duties of my office faithfully and to the best of my ability.
+Chairperson [or Mayor] of....................................................[state name of province] freely and to the best of my judgement whenever I am required to do so, for the good management of the public affairs of the Province; that I will not disclose, directly or indirectly, any secret that is debated in the provincial [or metropolitan] council or any secret that is entrusted to me in the course of my duties as member of that council; and that in all respects I will perform the duties of my office faithfully and to the best of my ability.
 
-So help me God. [ To be omitted in affirmation ]
+So help me God. [To be omitted in affirmation]
 
 This oath or affirmation is to be taken before the person specified in the appropriate legislation.
 
@@ -7966,19 +7960,19 @@ This oath or affirmation is to be taken before the person specified in the appro
 
 ###### Qualifications for registration as voter
 
-(1) Subject to subparagraph (2) and to paragraph 2, a person is qualified to be registered as a voter on the voters roll of a constituency if he or she -
+1. (1) Subject to subparagraph (2) and to paragraph 2, a person is qualified to be registered as a voter on the voters roll of a constituency if he or she—
 
 (a) is of or over the age of eighteen years; and
 
 (b) is a Zimbabwean citizen.
 
-- The Electoral Law may prescribe additional residential requirements to ensure that voters are registered on the most appropriate voters roll, but any such requirements must be consistent with this Constitution, in particular with section 67.
+(2) The Electoral Law may prescribe additional residential requirements to ensure that voters are registered on the most appropriate voters roll, but any such requirements must be consistent with this Constitution, in particular with section 67.
 
 ###### Disqualifications for registration as voter
 
-- A person is disqualified to be registered as a voter -
+2. A person is disqualified to be registered as a voter—
 
-(a) while he or she is detained as mentally disordered or intellectuallyhandicapped under an Act of Parliament relating to mental health;
+(a) while he or she is detained as mentally disordered or intellectually-handicapped under an Act of Parliament relating to mental health;
 
 (b) if he or she has been declared by order of a court to be incapable of managing his or her affairs, for so long as the order remains in force; or
 
@@ -7995,13 +7989,13 @@ This oath or affirmation is to be taken before the person specified in the appro
 
 Paragraph
 
-- Interpretation in Fifth Schedule.
+1. Interpretation in Fifth Schedule.
 
-- House of origin of Bills.
+2. House of origin of Bills.
 
-- Members who may move Bills and motions.
+3. Members who may move Bills and motions.
 
-- Parliament not to deal with Money Bills or fiscal motions or petitions except on recommendation of Vice-President, Minister or Deputy Minister.
+4. Parliament not to deal with Money Bills or fiscal motions or petitions except on recommendation of Vice-President, Minister or Deputy Minister.
 
 140
 
@@ -8015,19 +8009,19 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PROCEDURE REGARDING BILLS
 
-- Transmission of Bills between Houses.
+5. Transmission of Bills between Houses.
 
-- Disagreement between Houses.
+6. Disagreement between Houses.
 
-- Money Bills.
+7. Money Bills.
 
 ##### PART 3
 
 ##### REPORTS OF PARLIAMENTARY LEGAL COMMITTEE
 
-- Reports of Parliamentary Legal Committee on Bills.
+8. Reports of Parliamentary Legal Committee on Bills.
 
-- Reports of Parliamentary Legal Committee on statutory instruments.
+9. Reports of Parliamentary Legal Committee on statutory instruments.
 
 ##### PART 1
 
@@ -8035,9 +8029,9 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Interpretation in Fifth Schedule
 
-1. In this Schedule -
+1. In this Schedule—
 
-' Money Bill ' means a Bill that makes provision for -
+“Money Bill” means a Bill that makes provision for—
 
 (a) imposing, increasing or reducing a tax for the benefit of the State;
 
@@ -8057,7 +8051,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Members who may move Bills and motions
 
-3. Subject to this Constitution and Standing Orders -
+3. Subject to this Constitution and Standing Orders—
 
 (a) any Senator may introduce any Bill into the Senate or move any motion for debate in the Senate or present any petition to the Senate;
 
@@ -8069,7 +8063,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Parliament not to deal with Money Bills or fiscal motions or petitions except on recommendation of Vice-President, Minister or Deputy Minister
 
-4. (1) Except on the recommendation of a Vice-President, Minister or Deputy Minister, neither House of Parliament may -
+4. (1) Except on the recommendation of a Vice-President, Minister or Deputy Minister, neither House of Parliament may—
 
 141
 
@@ -8081,7 +8075,7 @@ Law Development Commission zowa@zol.co.zw
 
 (a) proceed upon any Bill, including an amendment to a Bill, which, in the opinion of the President of the Senate or the Speaker, as the case may be, is a Money Bill;
 
-(b) proceed upon any motion, including an amendment to a motion, whose effect, in the opinion of the President of the Senate or the Speaker, as the case may be, is that provision should be made for any of the following matters -
+(b) proceed upon any motion, including an amendment to a motion, whose effect, in the opinion of the President of the Senate or the Speaker, as the case may be, is that provision should be made for any of the following matters—
 
 (i) imposing, increasing or reducing a tax for the benefit of the State;
 
@@ -8101,7 +8095,7 @@ or
 
 ##### PART 2
 
-##### PROCEDUREREGARDINGBILLS
+##### PROCEDURE REGARDING BILLS
 
 ###### Transmission of Bills between Houses
 
@@ -8115,7 +8109,7 @@ or
 
 ###### Disagreement between Houses
 
-6. (1) Subject to this paragraph, if -
+6. (1) Subject to this paragraph, if—
 
 (a) the Senate and the National Assembly have not agreed on amendments to be made to a Bill which originated in the National Assembly within ninety days after the Bill was introduced into the Senate;
 
@@ -8133,7 +8127,7 @@ Law Development Commission zowa@zol.co.zw
 
 the Bill may be presented to the President for assent and signature in the form in which it was passed by the National Assembly, except for minor changes required by the passage of time and any amendments on which the Senate and the National Assembly may have agreed.
 
-- If, in the opinion of the Speaker, a Bill which -
+(2) If, in the opinion of the Speaker, a Bill which—
 
 (a) originated in the National Assembly; and
 
@@ -8147,7 +8141,7 @@ contains provisions identical to those contained in that previous Bill, except f
 
 (5) A Bill presented to the President in accordance with this paragraph is deemed to have been duly passed by Parliament in the form in which it is presented to the President.
 
-(6) For the purposes of this paragraph -
+(6) For the purposes of this paragraph—
 
 (a) a Bill originating in the National Assembly is deemed to have been introduced into the Senate on the sitting day immediately after the date of its transmission to the Senate, as recorded in the journal of the National Assembly in terms of paragraph 5(1);
 
@@ -8173,7 +8167,7 @@ contains provisions identical to those contained in that previous Bill, except f
 
 Law Development Commission zowa@zol.co.zw
 
-(5) A Money Bill that has been presented to the President pursuant to a resolution under subparagraph (4) -
+(5) A Money Bill that has been presented to the President pursuant to a resolution under subparagraph (4)—
 
 (a) is regarded as having been passed by Parliament in the form in which it was passed by the National Assembly; and
 
@@ -8181,13 +8175,13 @@ Law Development Commission zowa@zol.co.zw
 
 ##### PART 3
 
-##### REPORTS OFPARLIAMENTARYLEGALCOMMITTEE
+##### REPORTS OF PARLIAMENTARY LEGAL COMMITTEE
 
 ###### Reports of Parliamentary Legal Committee on Bills
 
 8. (1) Subject to this paragraph, neither House may give a Bill its final reading unless a report of the Parliamentary Legal Committee on the Bill has been presented to the House.
 
-(2) Subparagraph (1) does not apply to -
+(2) Subparagraph (1) does not apply to—
 
 (a) a Constitutional Bill; or
 
@@ -8205,7 +8199,7 @@ Law Development Commission zowa@zol.co.zw
 
 9. (1) Before the Senate or the National Assembly considers a report of the Parliamentary Legal Committee that a provision of a statutory instrument contravenes this Constitution or its enabling Act, the Committee may withdraw the report if the Committee is satisfied that the provision has been repealed or amended in such a way as to remove the contravention.
 
-(2) If, after considering a report of the Parliamentary Legal Committee that a provision of a statutory instrument contravenes this Constitution, the Senate or the National Assembly resolves that the provision does contravene this Constitution, the Clerk of Parliament must report the resolution to the authority which enacted the instrument, and that authority must, within twenty-one days after being so notified, either -
+(2) If, after considering a report of the Parliamentary Legal Committee that a provision of a statutory instrument contravenes this Constitution, the Senate or the National Assembly resolves that the provision does contravene this Constitution, the Clerk of Parliament must report the resolution to the authority which enacted the instrument, and that authority must, within twenty-one days after being so notified, either—
 
 144
 
@@ -8219,9 +8213,9 @@ Law Development Commission zowa@zol.co.zw
 
 (b) repeal the statutory instrument.
 
-(3) Where an authority responsible for enacting a statutory instrument applies to the Constitutional Court for a declaration in terms of subparagraph (2)(a), the statutory instrument is suspended pending the Court ' s decision.
+(3) Where an authority responsible for enacting a statutory instrument applies to the Constitutional Court for a declaration in terms of subparagraph (2)(a), the statutory instrument is suspended pending the Court’s decision.
 
-(4) If, after considering a report of the Parliamentary Legal Committee that a provision of a statutory instrument is ultra vires the enabling Act of Parliament, the Senate or the National Assembly resolves that the provision is ultra vires -
+(4) If, after considering a report of the Parliamentary Legal Committee that a provision of a statutory instrument is ultra vires the enabling Act of Parliament, the Senate or the National Assembly resolves that the provision is ultra vires—
 
 (a) the provision thereupon ceases to have effect; and
 
@@ -8239,29 +8233,29 @@ Law Development Commission zowa@zol.co.zw
 
 Paragraph
 
-- Commencement of this Constitution.
+1. Commencement of this Constitution.
 
-- Repeal of former Constitution.
+2. Repeal of former Constitution.
 
 ##### PART 2
 
 ##### COMMENCEMENT OF THIS CONSTITUTION AND REPEAL OF FORMER CONSTITUTION
 
-- Commencement of this Constitution.
+3. Commencement of this Constitution.
 
-- Repeal of former Constitution.
+4. Repeal of former Constitution.
 
 ##### PART 3
 
 ##### FIRST ELECTIONS
 
-- Saving of existing provincial and electoral boundaries.
+5. Saving of existing provincial and electoral boundaries.
 
-- Registration of voters.
+6. Registration of voters.
 
-- Challenges to first presidential election.
+7. Challenges to first presidential election.
 
-- Electoral Law.
+8. Electoral Law.
 
 145
 
@@ -8277,29 +8271,29 @@ Law Development Commission zowa@zol.co.zw
 
 Paragraph
 
-- Government succession.
+9. Government succession.
 
-- Continuation of existing laws.
+10. Continuation of existing laws.
 
-- Interpretation of existing enactments.
+11. Interpretation of existing enactments.
 
-- Standing Orders of Parliament.
+12. Standing Orders of Parliament.
 
-- Existing officers.
+13. Existing officers.
 
-- Special provision for election and tenure of first President and appointment of Vice-Presidents.
+14. Special provision for election and tenure of first President and appointment of Vice-Presidents.
 
-- Continuation of certain Executive offices.
+15. Continuation of certain Executive offices.
 
-- Public Protector.
+16. Public Protector.
 
-- Transfer of funds in old Consolidated Revenue Fund.
+17. Transfer of funds in old Consolidated Revenue Fund.
 
-- Courts and legal proceedings.
+18. Courts and legal proceedings.
 
-- Provisions relating to Prosecutor-General.
+19. Provisions relating to Prosecutor-General.
 
-- Rights to pension benefits.
+20. Rights to pension benefits.
 
 ##### PART 1
 
@@ -8307,15 +8301,15 @@ Paragraph
 
 ###### Interpretation in Sixth Schedule
 
-- In this Schedule, unless inconsistent with the context -
+1. In this Schedule, unless inconsistent with the context—
 
-' effective date ' means the day on which this Constitution comes wholly into operation in terms of paragraph 3(2);
+“effective date” means the day on which this Constitution comes wholly into operation in terms of paragraph 3(2);
 
-' existing enactment ' means a written law that was in force in Zimbabwe immediately before the effective date, whether as an Act of Parliament or a statutory instrument;
+“existing enactment” means a written law that was in force in Zimbabwe immediately before the effective date, whether as an Act of Parliament or a statutory instrument;
 
-' existing law ' means an existing enactment or any other law, whatever its nature, that was in force in Zimbabwe immediately before the effective date;
+“existing law” means an existing enactment or any other law, whatever its nature, that was in force in Zimbabwe immediately before the effective date;
 
-' first elections ' means -
+“first elections” means—
 
 (a) the first election for the office of President under this Constitution;
 
@@ -8325,9 +8319,9 @@ Paragraph
 
 held after the publication day;
 
-' former Constitution ' means the Constitution of Zimbabwe that came into operation on the 18th April, 1980, as subsequently amended;
+“former Constitution” means the Constitution of Zimbabwe that came into operation on the 18th April, 1980, as subsequently amended;
 
-' publication day ' means the day on which this Constitution, or the statute by which it is enacted, is published in the Gazette in accordance with section 51(5) of the former Constitution.
+“publication day” means the day on which this Constitution, or the statute by which it is enacted, is published in the Gazette in accordance with section 51(5) of the former Constitution.
 
 ###### Effect of Sixth Schedule
 
@@ -8347,7 +8341,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Commencement of this Constitution
 
-(1) This Schedule, together with -
+3. (1) This Schedule, together with—
 
 (a) Chapter 3, relating to citizenship;
 
@@ -8389,11 +8383,11 @@ come into operation on the publication day.
 
 ###### Registration of voters
 
-6. (1) Any person who was lawfully registered as a voter on a voters ' roll immediately before the publication day is entitled to remain so registered for the purposes of the first elections.
+6. (1) Any person who was lawfully registered as a voter on a voters’ roll immediately before the publication day is entitled to remain so registered for the purposes of the first elections.
 
-(2) For the purposes of the first elections, the Registrar-General of Voters is responsible, under the supervision of the Zimbabwe Electoral Commission, for registering voters and compiling voters ' rolls.
+(2) For the purposes of the first elections, the Registrar-General of Voters is responsible, under the supervision of the Zimbabwe Electoral Commission, for registering voters and compiling voters’ rolls.
 
-(3) The Registrar-General of Voters, under the supervision of the Zimbabwe Electoral Commission, must conduct a special and intensive voter registration and a voters ' roll inspection exercise for at least thirty days after the publication day.
+(3) The Registrar-General of Voters, under the supervision of the Zimbabwe Electoral Commission, must conduct a special and intensive voter registration and a voters’ roll inspection exercise for at least thirty days after the publication day.
 
 147
 
@@ -8403,13 +8397,9 @@ come into operation on the publication day.
 
 Law Development Commission zowa@zol.co.zw
 
-to
-
--
-
 ###### Challenges to first presidential election
 
-7.Any challenge to the validity of the first presidential election must be heard and determined in accordance with section 93 of this Constitution.
+7. Any challenge to the validity of the first presidential election must be heard and determined in accordance with section 93 of this Constitution.
 
 ###### Electoral Law
 
@@ -8429,11 +8419,11 @@ to
 
 ###### Interpretation of existing enactments
 
-- 11.(1) Unless inconsistent with the context, a reference in any existing enactment
+11. (1) Unless inconsistent with the context, a reference in any existing enactment to—
 
 (a) the President must be construed as a reference to the President acting in accordance with this Constitution;
 
-(b) Parliament must be construed as a reference to -
+(b) Parliament must be construed as a reference to—
 
 (i) the Senate, where the reference relates to a function that is to be exercised by the Senate alone under this Constitution;
 
@@ -8473,25 +8463,25 @@ Law Development Commission zowa@zol.co.zw
 
 13. Any person who, immediately before the effective date, held or acted in a public office under the former Constitution continues to hold or act in that office, or the equivalent office under this Constitution, on the same conditions of service until the expiry of his or her term of office under those conditions of service or until he or she resigns, retires or is removed from office in terms of this Constitution or those conditions of service, as the case may be.
 
-###### Special provision for election and tenure of first President and appointment of VicePresidents
+###### Special provision for election and tenure of first President and appointment of Vice-Presidents
 
 14. (1) Notwithstanding section 92, in the first election and any presidential election within ten years after the first election, candidates for election as President do not nominate persons in terms of that section to stand for election as Vice-Presidents.
 
 (2) Without delay the person elected as President in any election referred to in subparagraph (1) must appoint not more than two Vice-Presidents, who hold office at his or her pleasure.
 
-(3) Where -
+(3) Where—
 
 (a) one Vice-President is appointed in terms of subparagraph (2), that person is the first Vice-President for the purposes of this Constitution;
 
 (b) two Vice-Presidents are appointed in terms of subparagraph (2), the President may from time to time nominate one of them to act as President whenever he or she is absent from Zimbabwe or is unable exercise his or her official functions through illness or any other cause.
 
-(4) Notwithstanding section 101 but subject to subparagraphs (5) and (6), if the person elected President in any election referred to in subparagraph (1) dies, resigns or is removed from office -
+(4) Notwithstanding section 101 but subject to subparagraphs (5) and (6), if the person elected President in any election referred to in subparagraph (1) dies, resigns or is removed from office—
 
-(a) the Vice-President or, where there are two Vice-Presidents, the VicePresident who was last nominated to act in terms of subparagraph (3) (b), acts as President until a new President assumes office in terms of subparagraph (5); and
+(a) the Vice-President or, where there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (3)(b), acts as President until a new President assumes office in terms of subparagraph (5); and
 
 (b) the vacancy in the office of President must be filled by a nominee of the political party which the President represented when he or she stood for election.
 
-(5) A political party which is entitled to nominate a person in terms of subparagraph (4)(b) must notify the Speaker of the nominee ' s name within ninety days after the vacancy occurred in the office of President, and thereupon the nominee assumes office as President after taking the oath of President in terms of section 94, which oath the nominee must take within forty-eight hours after the Speaker was notified of his or her name.
+(5) A political party which is entitled to nominate a person in terms of subparagraph (4)(b) must notify the Speaker of the nominee’s name within ninety days after the vacancy occurred in the office of President, and thereupon the nominee assumes office as President after taking the oath of President in terms of section 94, which oath the nominee must take within forty-eight hours after the Speaker was notified of his or her name.
 
 (6) In the event of the death, resignation or removal from office of a person who is elected President in an election referred to in subparagraph (1) and who did not represent a political party when he or she stood for election, the Vice-President or, if there are two Vice-Presidents, the Vice-President who was last nominated to act in terms of subparagraph (3)(b), assumes office as President.
 
@@ -8505,7 +8495,7 @@ Law Development Commission zowa@zol.co.zw
 
 ###### Continuation of certain Executive offices
 
-15. Notwithstanding any provision of the former Constitution, the following offices which existed on publication day in terms of Schedule 8 to the former Constitution, namely -
+15. Notwithstanding any provision of the former Constitution, the following offices which existed on publication day in terms of Schedule 8 to the former Constitution, namely—
 
 (a) President and Vice-President;
 
@@ -8517,7 +8507,7 @@ continue in existence until the effective date when the first President assumes 
 
 ###### Public Protector
 
-16. (1) The Public Protector Act [ Chapter 10:18 ] is repealed.
+16. (1) The Public Protector Act [Chapter 10:18] is repealed.
 
 (2) Any matter that was being dealt with by the Public Protector immediately before the effective date must be transferred to the Zimbabwe Human Rights Commission for finalisation.
 
@@ -8527,9 +8517,9 @@ continue in existence until the effective date when the first President assumes 
 
 ###### Courts and legal proceedings
 
-18.(1) In this paragraph -
+18.(1) In this paragraph—
 
-' pending constitutional case ' means -
+“pending constitutional case” means—
 
 (a) an appeal, application or reference in which an alleged contravention of the Declaration of Rights contained in the former Constitution is in issue; or
 
@@ -8537,7 +8527,7 @@ continue in existence until the effective date when the first President assumes 
 
 and which, immediately before the publication date, is pending before the Supreme Court of Zimbabwe constituted under the former Constitution.
 
-(2) Notwithstanding section 166, for seven years after the publication date, the Constitutional Court consists of -
+(2) Notwithstanding section 166, for seven years after the publication date, the Constitutional Court consists of—
 
 (a) the Chief Justice and the Deputy Chief Justice; and
 
@@ -8547,9 +8537,9 @@ who must sit together as a bench to hear any constitutional case.
 
 (3) A vacancy on the Constitutional Court occurring in the first seven years after the publication date must be filled by another judge or an additional or acting judge, as the case may be, of the Supreme Court.
 
-(4) Until different provision is made by or under an Act of Parliament -
+(4) Until different provision is made by or under an Act of Parliament—
 
-(a) rules may be made under the Supreme Court Act [ Chapter 7:13 ] to regulate the procedure of the Constitutional Court;
+(a) rules may be made under the Supreme Court Act[Chapter 7:13] to regulate the procedure of the Constitutional Court;
 
 (b) the rules of the Supreme Court apply, with any necessary changes, to the procedure of the Constitutional Court in relation to any matter that is not provided for in rules made in terms of subparagraph (a);
 
@@ -8569,19 +8559,19 @@ Law Development Commission zowa@zol.co.zw
 
 (7) The magistrates courts, traditional courts and any other courts that were established by an Act of Parliament before the publication day continue in existence on and after that day as if they had been established by an Act referred to in section 174, and the decisions of those courts given before the publication day have effect accordingly.
 
-(8) Any pending constitutional case -
+(8) Any pending constitutional case—
 
 (a) in which the argument from the parties has not been heard before the publication date must be transferred to the Constitutional Court constituted in terms of subparagraph (2);
 
 (b) in which the argument from the parties has been heard by the publication date must be completed by the Supreme Court unless all the parties to the case agree to it being referred to the Constitutional Court constituted in terms of subparagraph (2), in which event the Supreme Court must refer the case to that Court.
 
-(9) All cases, other than pending constitutional cases, that were pending before any court before the effective date may be continued before that court or the equivalent court established by this Constitution, as the case may be, as if this Constitution had been in force when the cases were commenced, but -
+(9) All cases, other than pending constitutional cases, that were pending before any court before the effective date may be continued before that court or the equivalent court established by this Constitution, as the case may be, as if this Constitution had been in force when the cases were commenced, but—
 
 (a) the procedure to be followed in those cases must be the procedure that was applicable to them immediately before the effective date; and
 
 (b) the procedure referred to in subparagraph (a) applies to those cases even if it is contrary to any provision of Chapter 4 of this Constitution.
 
-- For the purposes of subparagraph (9) -
+(10) For the purposes of subparagraph (9)—
 
 (a) a criminal case is deemed to have commenced when the accused person pleaded to the charge;
 
