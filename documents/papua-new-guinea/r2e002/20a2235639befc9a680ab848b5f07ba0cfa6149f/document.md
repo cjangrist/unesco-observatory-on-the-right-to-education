@@ -6,6 +6,9 @@ National Department of Education Papua New Guinea
 
 November 2009
 
+Papua New Guinea
+Department of Education
+
 Gender Equity in Education Strategic Plan 2009-2014
 
 Page 1/85
@@ -36,7 +39,7 @@ The  Department  of  Education  has  enacted  a  range  of  policies  and  plans
 
 Fewer females are represented at every level in the education system and this new Gender Equity Strategic Plan aims to address this inequity through a wide range of strategies. These strategies align with the Universal Basic Education plan and  include targets from the National Education Plan. Implementing  these plans will be challenging but progress has already been made in several areas (for example, in the  increasing  number  of  female  headteachers).  The  Gender  Equity  in  Education Policy  (2002,  reprinted  2009)  provides  the  underlying  framework  of  principles  and practices which will help improve the educational opportunities for all our children.
 
-The  Gender Equity  in  Education  Strategic  Plan  2009-2014  is  forward-looking,  sectorwide  and  challenging.  It  is  based  on  ambitious  targets  and  indicators  for  the Department's operational divisions. It promotes respect for others, for learning and for the  diverse  cultural  heritage  of  Papua  New  Guinea  while  also  acknowledging  the challenges such diversity poses to mainstreaming gender.  All Departmental officers and managers have a responsibility to implement the Plan. In addition,  for the first time, stakeholders and provinces are actively included in the responsibilities. Gender equity is a challenge for us all.
+The Gender Equity in Education Strategic Plan 2009-2014 is forward-looking, sector-wide and challenging. It is based on ambitious targets and indicators for the Department's operational divisions. It promotes respect for others, for learning and for the diverse cultural heritage of Papua New Guinea while also acknowledging the challenges such diversity poses to mainstreaming gender. All Departmental officers and managers have a responsibility to implement the Plan. In addition, for the first time, stakeholders and provinces are actively included in the responsibilities. Gender equity is a challenge for us all.
 
 The  Plan  is  an  outcome  of  discussions  and  consultations  between  more  than  200 officers and key stakeholders in the education sector.  This interaction has provided a firm foundation for the plan and I would like to thank all managers and officers in the DoE and all those who took part for their committed efforts during the preparation stages.  To  achieve  greater  gender  equity  in  the  education  sector  all  stakeholders, public  servants,  churches,  students,  parents  and  local  communities  must  play  their part.
 
@@ -54,6 +57,33 @@ Page 3/85
 
 ## Table of Contents
 
+Foreword................................................................................................................................................ 3
+Acronyms............................................................................................................................................... 6
+Introduction ........................................................................................................................................... 8
+What do we mean by gender?.................................................................................................... 8
+What are our international commitments? ................................................................................ 8
+What are our national policies and plans?................................................................................. 8
+Gender equity in education.......................................................................................................... 9
+Men and boys: partners for equality............................................................................................ 9
+The principles of the Gender Equity Strategic Plan 2009-2014....................................................... 10
+The aims of the Gender Equity Strategic Plan 2009-2014 ............................................................... 10
+Challenges to implementing the Plan.............................................................................................. 11
+Managing the Plan ............................................................................................................................. 12
+Responsibilities of DoE officers..................................................................................................... 12
+Monitoring and evaluating the Plan.......................................................................................... 13
+Gender equity baseline data............................................................................................................ 14
+Sex of school-aged children in school by province................................................................ 14
+Sex of teachers in PNG................................................................................................................. 15
+Sex of teachers in provinces........................................................................................................ 15
+Percentage of female teachers in each grade...................................................................... 16
+Percentage of female headteachers....................................................................................... 16
+Distribution of headteachers by province and gender ......................................................... 17
+Percentage of male and female students enrolling at primary teachers colleges.......... 18
+Percentage of female lecturers at primary teachers colleges............................................. 18
+Percentage female officers in DoE divisions............................................................................. 19
+Percentage of female officers per public servant grade...................................................... 19
+Number of public servants at each grade............................................................................... 20
+
 Gender Equity in Education Strategic Plan 2009-2014
 
 Page 4/85
@@ -61,6 +91,37 @@ Page 4/85
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+DIVISIONAL STRATEGIES...................................................................................................................... 21
+Policy, Planning and Research (PPR)................................................................................................ 22
+Standards and Guidance Division (SGD)......................................................................................... 29
+Curriculum Development & Assessment Division (CDAD).............................................................. 34
+Teacher Education (TED) ................................................................................................................... 39
+Human Resources and Organisation Development (HR/OD)....................................................... 45
+Technical Vocational Education and Training (TVET)..................................................................... 53
+Teaching Service Commission (TSC)................................................................................................. 58
+Papua New Guinea Teachers Association (PNGTA)....................................................................... 62
+Provinces ............................................................................................................................................. 65
+Finance and Administration .............................................................................................................. 70
+Office of Libraries and Archives & National Literacy Awareness Secretariat (NLAS) .................. 71
+Coordination, Communication and Legal Services (CCLS) .......................................................... 71
+Internal Audit....................................................................................................................................... 72
+National Capital District and General Education Services (NCD GES)......................................... 72
+Appendix 1 Gender and Education Partner Map.......................................................................... 73
+Appendix 2 Terms and Definitions..................................................................................................... 73
+Appendix 2 Terms and Definitions..................................................................................................... 74
+Appendix 3. International conventions and goals......................................................................... 75
+Appendix 4. PNG gender equity policies and plans ...................................................................... 77
+PNG Constitution ........................................................................................................................... 77
+National Strategic Plan 2010-2050.............................................................................................. 77
+The Medium Term Development Strategy (MTDS) .................................................................. 77
+National Women's Policy............................................................................................................. 77
+The National Education Plan (2005-2014) ................................................................................. 78
+The Gender Equity in Education Policy (2003, reprinted 2009) ............................................. 78
+The DoE Gender Equity in Education Strategic Plan (2009-2014)......................................... 78
+Appendix 5 The Gender Equity in Education Policy (2003) values, principles and aims............. 80
+Appendix 6 Acknowledgements........................................................................................................82
+Document development............................................................................................................. 85
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -326,7 +387,7 @@ The Plan aims to improve the indicators for gender equity in the education secto
 
 The Plan will achieve this by:
 
-- Building  the  capacity  of  the  DoE  to  collect,  analyse  and  interpret  sexdisaggregated  data  that  can  then  be  used  to  develop  divisional  gender equity action plans
+- Building the capacity of the DoE to collect, analyse and interpret sex-disaggregated data that can then be used to develop divisional gender equity action plans
 
 - Mainstreaming gender equity activities and targets into divisional planning
 
@@ -406,7 +467,7 @@ Department of Education officers have responsibilities to:
 
 > 5  Alternatively, managers may ensure that gender equality is fully incorporated into all divisional plans.
 
-> These divisional gender action plans should include: a clear statement in support of gender equality and the outcomes and indicators as specified in the yearly divisional implementation plan.
+> 6 These divisional gender action plans should include: a clear statement in support of gender equality and the outcomes and indicators as specified in the yearly divisional implementation plan.
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -420,7 +481,7 @@ The Human Resources and Organisational Development (HROD) Division will provide 
 
 ### Monitoring and evaluating the Plan
 
-The strategies contained within the Gender Equity in Education Strategic Plan 20092014 will be assessed through ongoing monitoring and evaluation that will measure progress over time.  Critical to effective monitoring and evaluation is the collection of sex-disaggregated baseline data.  This should be reviewed and reported on at yearly intervals in order to maintain momentum.
+The strategies contained within the Gender Equity in Education Strategic Plan 2009-2014 will be assessed through ongoing monitoring and evaluation that will measure progress over time. Critical to effective monitoring and evaluation is the collection of sex-disaggregated baseline data. This should be reviewed and reported on at yearly intervals in order to maintain momentum.
 
 Samples  of  the  2009  data  are  included  in  this  Strategy  as  a  guide  to  information divisions can report on annually.
 
@@ -739,6 +800,38 @@ Page 16/85
 
 ### Distribution of headteachers by province and gender
 
+All Provinces
+Central
+East New Britain
+East Sepik
+Eastern Highlands
+Enga
+Gulf
+Kiunga/Lake Murray
+Madang
+Manus
+Milne Bay
+Morobe
+NCD
+New Ireland
+North Solomons
+Oro
+Sandaun
+Simbu
+Sthn Highlands
+West New Britain
+Western
+Western Highlands
+0
+20
+40
+60
+80
+100
+Not Spec %
+Male %
+Female %
+
 Gender Equity in Education Strategic Plan 2009-2014
 
 Page 17/85
@@ -873,7 +966,7 @@ Division/commission/office
 
 Percentage female officers
 
-(Source: HROD 2 nd  quarter public servant position records, 2009)
+(Source: HROD 2nd quarter public servant position records, 2009)
 
 ### Percentage of female officers per public servant grade
 
@@ -971,7 +1064,7 @@ Public servant grade
 
 Percentage of female officers
 
-(Source: HROD 2 nd  quarter public servant position records, 2009)
+(Source: HROD 2nd quarter public servant position records, 2009)
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1049,7 +1142,7 @@ Male
 
 Female
 
-(Source: HROD 2 nd  quarter public servant position records, 2009)
+(Source: HROD 2nd quarter public servant position records, 2009)
 
 ### Average grade for male and female DoE officers
 
@@ -1128,6 +1221,8 @@ Page 22/85
 
 [[START OF PAGE 23]]
 
+#### Sex of male and female officers at each grade (Quarter 2, 2009)
+
 PPR
 --- | --- | --- | --- | --- | ---
 Grade | Male | % | Female | % | Total
@@ -1146,8 +1241,6 @@ G6 | 0 | 0 | 1 | 100 | 1
 G5 | 0 | 0 | 0 | 0 | 0
 G4 | 0 | 0 | 0 | 0 | 0
 Total | 22 | 76% | 7 | 24% | 29
-
-#### Sex of male and female officers at each grade (Quarter 2, 2009)
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1178,7 +1271,7 @@ Minor Outcome E1 | Support reviewing the grade repeating policy to allow disadva
 Minor Outcome A1 | Provide policy guidelines to cater for disadvantaged children to be exempted from paying school fees or receive school fee assistance, particularly in rural and remote areas | Review of enrolment policy by 12/10. Policy approved, schools advised by Ministerial Policy statement by 12/10 | PPR
 Minor Outcome A1 | Ensure the collection and reporting of sex-disaggregated data via the inclusion of questions in the school census. Strengthen the capacity of the DoE to collect, analyse and use sex disaggregated data to inform planning, design, implementation of initiatives | 100% of PPR research staff have completed training on data collection and statistical analysis by 02/10 The annual school census includes the collection of sex disaggregated data and gender specific information All DoE and PDoE divisions collecting and reporting on sex disaggregated data by 12/10 | PPR/Research unit
 Minor Outcome S2 | Support and expand to other provinces the Child friendly school's (CFS's) program | 100% of PTC's are teaching a pre-service CFS's module CFS's program is present in 20 provinces and NCD by 12/14 | PPR/UNICEF
-Minor Outcome S2 | Expand and support role models program and teacher gender equity guide | MOU developed between National Council for Women in PNG and UNFPA by 12/09 Successful bid for ongoing funding from UNFPA by 12/09 | PPR/HROD/NCW/UNFP A
+Minor Outcome S2 | Expand and support role models program and teacher gender equity guide | MOU developed between National Council for Women in PNG and UNFPA by 12/09 Successful bid for ongoing funding from UNFPA by 12/09 | PPR/HROD/NCW/UNFPA
 Minor Outcome A1 | Provide support for and coordinate TMT meetings. Ensure gender is reported on quarterly, remains a standing agenda item. | Gender is reported on at TMT quarterly commencing 08/09. | PPR
 Minor Outcome A1 | Ensure gender remains a standing agenda item at the yearly Senior Education Officers Conference (SEOC) | Gender is reported on at SEOC from 06/09 to 06/14 | PPR
 Minor Outcome A1 | Conduct a gender audit of all DoE policies | Gender audit of DoE policies conducted by 12/09 | PPR
@@ -1210,7 +1303,7 @@ Minor Outcome A1 | Ensure that gender is reported on in NDoE annual report; oper
 --- | --- | --- | ---
 Minor Outcome S4 | Support the roll out of Universal Basic Education (UBE): Equal participation, access, retention and quality, | All Papua New Guinean children receive 9 years of free basic education by 2014 | PPR
 Minor Outcome A1 Minor Outcome A2 | Support and develop gender equity focal points in the provincial offices | Gender focal points (GFP's), 1 per province by 12/10 40 Gender focal points (GFP's), 2 per province by 12/12 | PPR/PDoE/HROD
-Minor Outcome F3 Minor Outcome T3 Minor Outcome A1 | PPR officers given intensive training in Gender Equity, HIV & AIDS, human and child rights, violence against women, anti- discrimination and harassment | 100% of PPR staff have attended two days of gender training | PPR/PDoE/HROD
+Minor Outcome F3 Minor Outcome T3 Minor Outcome A1 | PPR officers given intensive training in Gender Equity, HIV & AIDS, human and child rights, violence against women, anti-discrimination and harassment | 100% of PPR staff have attended two days of gender training | PPR/PDoE/HROD
 Minor Outcome A1 Minor Outcome F3 | Regional meetings of relevant provincial and district education officers will be scheduled and includes gender as a standing agenda item | 100% of quarterly PEA's regional meetings include gender as a standing agenda item | PPR/PDoE
 Minor Outcome A1 | Annual divisional planning mainstreams gender throughout divisional activities and includes targets as set by the Gender Equity in Education Policy and Strategic Plan | Divisional planning mainstreams gender from 01/10 | PPR
 Minor Outcome A1 | All divisions to collect data on all indicators and reporting through gender action plans | 100% of DoE divisions develop gender action plans, through a participatory and inclusive process, and these are included in divisional planning by 06/10 | PPR/Research Unit
@@ -1281,6 +1374,8 @@ Page 29/85
 
 [[START OF PAGE 30]]
 
+#### Sex of male and female officers at each grade (Quarter 2, 2009)
+
 S&G
 --- | --- | --- | --- | --- | ---
 Grade | Male | % | Female | % | Total
@@ -1299,8 +1394,6 @@ G6 | 0 | 0 | 5 | 100 | 5
 G5 | 0 | 0 | 0 | 0 | 0
 G4 | 0 | 0 | 0 | 0 | 0
 Total | 155 | 81% | 37 | 19% | 192
-
-#### Sex of male and female officers at each grade (Quarter 2, 2009)
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1329,8 +1422,8 @@ Page 31/85
 
 Minor Outcome S2 | Develop an updated Guidance & Counseling and behaviour management training manual for pre-service teachers which includes social, cultural and gender issues, child rights, HIV & AIDS and violence against women | Pre-service course developed by 03/09 Training course approved by Board of Studies by 06/09 | SGD/TED
 --- | --- | --- | ---
-Minor Outcome S2 | Develop an updated Guidance & Counseling training manual for in- service teachers which includes social, cultural and gender issues, HIV & AIDS and violence against women | Training course approved by Board of Studies by 08/09 | SGD/TED/TIP
-Minor Outcome S2 | Expand in-service gender sensitive school based counseling training program for all teachers | 100% of boarding schools have a fully trained male and female school based counselor (SBC) by 12/10. 30% of secondary, TVET and tertiary education institutions have a fully trained male and female school counselor by 12/08 8 ; 60% by 12/09, 100% by 12/10. 10% of primary schools have at least one trained counselor by 12/08, 30% by 12/09, 60% by 12/10 and 100% by 12/11 | Schools/BOM/BOG /Provincial officers/ DoE/Standards/ agencies
+Minor Outcome S2 | Develop an updated Guidance & Counseling training manual for in-service teachers which includes social, cultural and gender issues, HIV & AIDS and violence against women | Training course approved by Board of Studies by 08/09 | SGD/TED/TIP
+Minor Outcome S2 | Expand in-service gender sensitive school based counseling training program for all teachers | 100% of boarding schools have a fully trained male and female school based counselor (SBC) by 12/10. 30% of secondary, TVET and tertiary education institutions have a fully trained male and female school counselor by 12/08⁸; 60% by 12/09, 100% by 12/10. 10% of primary schools have at least one trained counselor by 12/08, 30% by 12/09, 60% by 12/10 and 100% by 12/11 | Schools/BOM/BOG /Provincial officers/ DoE/Standards/ agencies
 Minor Outcome S2 | Zero tolerance on violence, harassment and sexual abuse policies to be fully enforced to ensure compliance by teachers, staff and students | 100% of schools and senior officers and standards officers receive Secretary's Circular on Discipline and zero tolerance policy by 04/11 Zero tolerance of abuse and sexual harassment included in updated teachers Code of Conduct by 05/10 All schools to have zero tolerance and gender equity included in school policies and discipline rules by 12/11 | DoE/PDoE/TSC/ PNGTA
 
 > 8  DoE (2007), HIV and AIDS Implementation Plan, p.
@@ -1348,7 +1441,7 @@ Minor Outcome S2 | Ensure the implementation of the Behaviour Management Policy 
 Minor outcome S2 | In line with the Lukautim Pikini Act (2007) support the development of child protection processes and protocols | 100% of teachers have been trained in child rights, child protection and mandatory reporting of suspected child abuse by 12/14 100% of schools develop child protection policies (SLIP) by 12/14 | SGD
 Minor outcome S2 | Support more equitable selection into Grade 9, 12 and higher education | Standards and guidance officers monitor girls enrolment and generate awareness regarding access and retention issues, particularly at selection times -2009-2014, ongoing. | SGD
 Minor outcome S2 | Support the enforcement of teacher discipline | Standards officers are reporting cases of harassment and enforcing teacher discipline from 06/09, ongoing. | SGD
-Minor outcome S2 | Increase female participation in school management and decision- making | District women's facilitators (DWF's) in partnership with standard officers and education officers conduct school inspections from 06/09, ongoing DWFs support the recruitment of women on school boards of management from 06/09, ongoing | SGD/BEDP
+Minor outcome S2 | Increase female participation in school management and decision-making | District women's facilitators (DWF's) in partnership with standard officers and education officers conduct school inspections from 06/09, ongoing DWFs support the recruitment of women on school boards of management from 06/09, ongoing | SGD/BEDP
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1464,7 +1557,7 @@ Page 37/85
 
 [[START OF PAGE 38]]
 
-All guidelines, manuals, materials and training to include community links, church links and responsibilities of schools and communities in promoting the importance of girl's education and gender equity | Included in Board of Studies criteria and all materials from 09/09 Media awareness campaign in English and Tok Pisin for communities and parents as part of national education theme in 2011 and 2013 | CDAD/training partners/PopED/ag encies/Board of studies
+All guidelines, manuals, materials and training to include community links, church links and responsibilities of schools and communities in promoting the importance of girl's education and gender equity | Included in Board of Studies criteria and all materials from 09/09 Media awareness campaign in English and Tok Pisin for communities and parents as part of national education theme in 2011 and 2013 | CDAD/training partners/PopED/agencies/Board of studies
 --- | --- | --- | ---
 Minor Outcome E2 & E3 Minor Outcome P2 & P3 Minor Outcome S2 & S3 | Ensure that information concerning violence against women, harassment and discrimination are included as an integral component in all aspects of the response to Gender Equity | Violence against women (VAW), harassment and discrimination included in all communications, training and materials from 06/09 | CDAD/DoE
 Minor Outcome E2 & E3 Minor Outcome P2 & P3 Minor Outcome S2 & S3 | Updated information on gender, power relations (social, cultural, sexual and political) will be included in all training and materials and will be approved by DoE using approved criteria | Checklist and standards package for training partners by 06/10 | CDAD/DoE
@@ -1521,6 +1614,8 @@ Page 39/85
 
 [[START OF PAGE 40]]
 
+#### Sex of male and female officers at each grade (Quarter 2, 2009)
+
 TED
 --- | --- | --- | --- | --- | ---
 Grade | Male | % | Female | % | Total
@@ -1540,8 +1635,6 @@ G5 | 0 | 0 | 0 | 0 | 0
 G4 | 0 | 0 | 0 | 0 | 0
 Total | 13 | 50% | 13 | 50% | 26
 
-#### Sex of male and female officers at each grade (Quarter 2, 2009)
-
 Gender Equity in Education Strategic Plan 2009-2014
 
 Page 40/85
@@ -1557,7 +1650,7 @@ Minor Outcome F3 Minor Outcome T3 Minor Outcome A1 | TED officers given intensiv
 Minor Outcome A5 | Ministerial circular instructing all education personnel to be role models when participating in Gender equity activities. | 100% of DoE officers receive Secretary's circular by 09/09. | DoE
 Minor Outcome S2 | Monitor and evaluate TED plan and programs with an emphasis on gender initiatives and practices | Ongoing monitoring from 01/10 Evaluation conducted by 12/09 | TED M&E team/ PPR (Research & Evaluation unit)
 Minor Outcome P3 Minor Outcome S3 | Conduct an audit on all PTC materials related to Gender and Violence against women in order to ascertain the quality and depth the subject receives for pre-service teachers. | Gender material stocktake conducted by 12/09 | TED
-Minor Outcome P3 Minor Outcome S3 | All pre-service elementary, primary, secondary school trainees, TVET will complete an approved compulsory (core) gender equity module including violence against women, harassment and discrimination | Evaluation of pre-service gender equity course conducted by 11/09. Development/revision, publication and distribution of pre- service Gender Equity course by 12/10 100% of primary and secondary teacher trainees trained on gender equity from 12/10 onwards | DoE/PTC's/TVET/ University of Goroka/CDAD/ Elementary unit
+Minor Outcome P3 Minor Outcome S3 | All pre-service elementary, primary, secondary school trainees, TVET will complete an approved compulsory (core) gender equity module including violence against women, harassment and discrimination | Evaluation of pre-service gender equity course conducted by 11/09. Development/revision, publication and distribution of pre-service Gender Equity course by 12/10 100% of primary and secondary teacher trainees trained on gender equity from 12/10 onwards | DoE/PTC's/TVET/ University of Goroka/CDAD/ Elementary unit
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1567,11 +1660,11 @@ Page 41/85
 
 [[START OF PAGE 42]]
 
-Minor Outcome P3 Minor Outcome S3 | All in-service elementary, primary, secondary, college (including TVET teachers will have at least 1 week annually of training on gender equity and gender inclusive teaching practices. In- service training for teachers involving gender responsive pedagogy | Training package and teacher resources developed by 08/09 Teacher In-service plan (TIP) and School Learning Improvement Plans (SLIP's) to include Gender Equity as a key compulsory component of annual training from 07/09 Provision of support to TIP cluster facilitators through the provision of TIP Gender Equity In-Service facilitators manual and resource kit by 10/09 100% of in-service teachers have received at least 1 week of training on gender equity, gender inclusive classroom practices, discrimination and violence against women by 11/13 To be monitored by inspectorate from 01/10 | NDoE/TED/SGD
+Minor Outcome P3 Minor Outcome S3 | All in-service elementary, primary, secondary, college (including TVET teachers will have at least 1 week annually of training on gender equity and gender inclusive teaching practices. In-service training for teachers involving gender responsive pedagogy | Training package and teacher resources developed by 08/09 Teacher In-service plan (TIP) and School Learning Improvement Plans (SLIP's) to include Gender Equity as a key compulsory component of annual training from 07/09 Provision of support to TIP cluster facilitators through the provision of TIP Gender Equity In-Service facilitators manual and resource kit by 10/09 100% of in-service teachers have received at least 1 week of training on gender equity, gender inclusive classroom practices, discrimination and violence against women by 11/13 To be monitored by inspectorate from 01/10 | NDoE/TED/SGD
 --- | --- | --- | ---
 Minor Outcome P3 | All teacher education institutions include a compulsory core course on gender equity. | Training package developed by 12/09 100% of male and female Primary Teachers College staff have attended a 5 day Gender Equity refresher workshop by 06/10 100% of teacher education institutions teaching gender equity as a core module by 12/10 Writing and approval by Board of Studies of updated Gender equity module by 11/09 using learning from UNICEF child friendly schools project. Printing of revised module and distribution to all PTC's in 01/10 and teaching commences in all PTC's by end of 2010. | DoE/PTCs/ Agencies/Standard
 Minor Outcome P3 | Rights training including DoE Gender Equity Policy and strategic plan is included in gender training and manuals for teachers and students with repeat training for staff throughout implementation | 100% of teachers will receive initial training by 12/11 included in training package (refer to HIV implementation plan…)
-Minor Outcome A1 Minor Outcome A3 | All elementary, primary and secondary schools and tertiary institutions (including TVET) will establish links with relevant organisations to access assistance for students and teachers and to provide assistance for community members. | List of partners included in Gender equity pre- and in-service training materials and in all training sessions from 07/09 and in guidelines to in-service clusters from 07/09 | Schools/NGOs/ CBOs/NCW/PCW/ In-service training providers/Standards/a gencies/BEDP
+Minor Outcome A1 Minor Outcome A3 | All elementary, primary and secondary schools and tertiary institutions (including TVET) will establish links with relevant organisations to access assistance for students and teachers and to provide assistance for community members. | List of partners included in Gender equity pre- and in-service training materials and in all training sessions from 07/09 and in guidelines to in-service clusters from 07/09 | Schools/NGOs/ CBOs/NCW/PCW/ In-service training providers/Standards/agencies/BEDP
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1613,7 +1706,7 @@ Page 44/85
 
 ### Human Resources and Organisation Development (HR/OD)
 
-The role of HROD is to support the Department's substantive programs including policy analysis, management of personnel affairs and organisational procedures, inservice training and staff development for non-teaching personnel, finance and accounting staff.
+The role of HROD is to support the Department's substantive programs including policy analysis, management of personnel affairs and organisational procedures, in-service training and staff development for non-teaching personnel, finance and accounting staff.
 
 #### More specifically the division's functions include:
 
@@ -1635,7 +1728,7 @@ The role of HROD is to support the Department's substantive programs including p
 
 - Support staff in grievance resolution
 
-- Coordinate and monitor DoE recruitment for DoE head office and noncitizen teaching positions
+- Coordinate and monitor DoE recruitment for DoE head office and non-citizen teaching positions
 
 - Coordinate senior national contract officers and overseas contract teachers
 
@@ -1714,8 +1807,8 @@ NEP Strategy | Prioritised Outcomes | Indicators/Targets | Who is responsible?
 --- | --- | --- | ---
 #### Strategic objective 1: To strengthen the response to gender equity
 ##### Output 1: | Increased level of understanding and awareness of gender issues and principles, including violence against women
-Minor Outcome F3 | HROD to employ the Gender 12) and Gender Equity Coordination develop the capacity of the Education gender desk. | (Grade 15) and of The Gender Equity Strategy Officer (G12) is recruited by 08/09 and is receiving induction and ongoing professional development. TMT approves Gender Equity Coordination Officer by 01/10 Create and appoint a Gender Equity Coordination Officer (G15), develop terms of reference and reporting responsibilities by 11/10 Develop a Gender Equity team, within the Staff Support Services Branch, reporting directly to the Deputy Secretary by 12/11 | HROD
-Minor Outcome F3 Minor Outcome A2 Minor Outcome A1 | Develop DoE National Gender and a gender network, which communication and activities coordination of gender activities. | Implementation Team Initiate gender focal points (GFP's) in the DoE comprising one male and one female officer from each division by 10/09 Develop duty statements, terms of reference and guidelines for GFP's in key divisions by 09/09 The team includes senior officers from key divisions and reports directly to the secretary of education. The team will provide a yearly review of the gender strategic plan. | HROD/TMT/ NDoE/PDoE
+Minor Outcome F3 | HROD to employ the Gender Equity Strategy Officer (Grade 12) and Gender Equity Coordination Officer (Grade 15) and develop the capacity of the National Department of Education gender desk. | The Gender Equity Strategy Officer (G12) is recruited by 08/09 and is receiving induction and ongoing professional development. TMT approves Gender Equity Coordination Officer by 01/10 Create and appoint a Gender Equity Coordination Officer (G15), develop terms of reference and reporting responsibilities by 11/10 Develop a Gender Equity team, within the Staff Support Services Branch, reporting directly to the Deputy Secretary by 12/11 | HROD
+Minor Outcome F3 Minor Outcome A2 Minor Outcome A1 | Develop DoE National Gender Equity Implementation Team and a gender network, which will support divisional communication and activities and improve central coordination of gender activities. | Initiate gender focal points (GFP's) in the DoE comprising one male and one female officer from each division by 10/09 Develop duty statements, terms of reference and guidelines for GFP's in key divisions by 09/09 The team includes senior officers from key divisions and reports directly to the secretary of education. The team will provide a yearly review of the gender strategic plan. | HROD/TMT/ NDoE/PDoE
 
 Gender Equity in Education Strategic Plan 2009-2014
 
@@ -1913,8 +2006,8 @@ Page 55/85
 Refer to Human Resources and Organisation Development (HROD) Divisional section, p. 35.
 #### Strategic Objective 3: To strengthen mechanisms that will support teacher education and gender inclusive teaching practices
 ##### Output 3: | Increased level of understanding, awareness and application of gender issues and principles in the school/college environment
-Minor Outcome T2 Minor Outcome V3 | TVET to produce and distribute comprehensive Gender Equity materials and a compulsory Gender Equity trainee book and trainer manual. Launch of TVET materials on International Women's Day 2010. 100% of TVET institutions receive multiple copies of Gender Equity manuals and trainee books by 06/10 100% of TVET institutions teach a compulsory gender equity module by 10/10 | TVET/CDAD
-Minor Outcome T2 Minor Outcome V3 | TVET trainers will be given gender awareness and sensitisation training (including violence against women, domestic, family and sexual violence training) TVET trainers Gender Equity awareness pack and IEC materials developed by 05/10 TVET trainers receive basic gender training annually from 07/09 | DoE/TVET
+Minor Outcome T2 Minor Outcome V3 | TVET to produce and distribute comprehensive Gender Equity materials and a compulsory Gender Equity trainee book and trainer manual. | Launch of TVET materials on International Women's Day 2010. 100% of TVET institutions receive multiple copies of Gender Equity manuals and trainee books by 06/10 100% of TVET institutions teach a compulsory gender equity module by 10/10 Course mandatory for all TVET students from 2011 | TVET/CDAD
+Minor Outcome T2 Minor Outcome V3 | TVET trainers will be given gender awareness and sensitisation training (including violence against women, domestic, family and sexual violence training) | TVET trainers Gender Equity awareness pack and IEC materials developed by 05/10 TVET trainers receive basic gender training annually from 07/09 | DoE/TVET
 #### Strategic Objective 4: Strengthen mechanisms that will support students
 ##### Output 4: | Increased level of understanding and awareness of gender equity, discrimination and violence against women
 
@@ -2109,7 +2202,7 @@ NEP Strategy | Prioritised Outcomes | Indicators/Targets | Who is responsible?
 Update teachers code of conduct to reflect the gender in education policy and gender issues more generally | Teachers code of conduct updated by 11/10 | Schools/BOM/BOG/ Provincial officers/ DoE/Inspectorate/ agency
 Minor Outcome A1 Minor Outcome A2 Minor Outcome A5 Minor Outcome F3 | Zero tolerance on violence, harassment and sexual abuse policies to be fully enforced to ensure compliance by teachers, staff, students | Zero tolerance of abuse, sexual harassment and gender discrimination included in updated Code of Ethics in 2010 All schools to have zero tolerance and gender equity included in school policies and discipline rules by 11/10 | TSC/PNGTA
 Minor Outcome A1 Minor Outcome A2 Minor Outcome A5 Minor Outcome F3 | Review PNGTA Women's Policy and provide adequate resources to ensure it's implementation | PNGTA Women's Policy reviewed by 12/10 Women's desk position is upgraded to Grade 15 and filled by 12/10 | PNGTA/ National Women's Representatives/ Regional and Provincial Reps. PPR/HROD
-Minor Outcome A1 Minor Outcome A2 Minor Outcome A5 Minor Outcome F3 | Raise awareness of gender equity in provinces through PNGTA representatives (districts and schools). Facilitate Gender Equity TOT Workshops for Regional, Provincial and district PNGTA Representatives | 100% of Regional, provincial and district PNGTA representatives and women's representatives have attended Gender Equity TOT training by 12/10 9 PNGTA women's representatives in 4 regions are conducting awareness raising activities by 06/12 | PNGTA/National Women's Representatives/ Regional and Provincial Reps.
+Minor Outcome A1 Minor Outcome A2 Minor Outcome A5 Minor Outcome F3 | Raise awareness of gender equity in provinces through PNGTA representatives (districts and schools). Facilitate Gender Equity TOT Workshops for Regional, Provincial and district PNGTA Representatives | 100% of Regional, provincial and district PNGTA representatives and women's representatives have attended Gender Equity TOT training by 12/10⁹ PNGTA women's representatives in 4 regions are conducting awareness raising activities by 06/12 | PNGTA/National Women's Representatives/ Regional and Provincial Reps.
 
 > 9  The PNGTA has representatives in six regions of PNG these being; Highlands, Momase (Lae), New Guinea Islands (Rabaul), Southern (POM), Boganville (Buka), Sepik (Wewak).
 
@@ -2381,6 +2474,113 @@ Page 72/85
 
 ## Appendix 1 Gender and Education Partner Map
 
+Gender & Education Partner Mapping
+
+MDGs
+EFA
+CEDAW
+
+Interdepartmental Gender Committee
+GoPNG Constitution
+AusAID
+PNG Australia White Paper: A Joint Strategy in Education to Support the Government's Gender Equity Policy 2007
+
+Medium Term Development Strategy (MTDS)
+National Education Plan (2005-2014) and DoE Corporate Plan (2009-2013)
+
+National Council for Women in PNG Strategic Plan (2005-2009)
+DoE Gender Equity in Education Policy (2003)
+DoE HIV & AIDS Policy
+
+UNIFEM
+Gender Equity in Education Strategic Plan (supported by ECBP)
+DoE EEO Policy (to be developed)
+
+UNICEF
+Support for UBE
+- Child Friendly Schools (CFS) gender training
+- Accelerating Girls Education (AGE)
+- Provision of technical support to the DoE Gender Baseline & MOU
+
+PPR
+Equitable Provincial/District Education Plans
+- Universal Basic Education (UBE)
+- ESIP Steering Committee
+- Link to National OVC Strategy
+- Divisional Planning
+- Communication Strategy
+- School Census
+- M&E
+- Gender Sensitive Budgeting (New!)
+- Gender analysis, gender sensitive research and baseline
+- Regional gender equity workshops for Provincial stakeholders
+- Gender focal point x 2
+
+TSC
+TSC Act—Gender inclusive language
+
+PNGTA
+PNGTA Women's Representative
+Gender communication strategy for teachers
+
+Churches
+Caritas Gender Training
+
+CDAD
+Gender inclusive curriculum Prep-12
+Approval & procurement of textbooks
+Development of support materials e.g. Units of work, guidance posters, Gender Equity resource book
+Gender equity focal point x 2
+
+TED
+Teacher in-service Plan (TIP)
+Gender Equity core
+Improve the implementation of reform
+Clusters of schools
+- In-service training 800 clusters
+- Pre and In service Gender Equity course
+- Gender counterpart and Gender Equity Trainer Network
+- Gender equity focal point x 2
+
+SAGD
+School Learning Improvement Plans (SLIP)
+Gender Equity Core
+Basic Training & gender checklist for Standards & Guidance Officers
+Gender sensitive behaviour management policy and G&C course
+Gender Equity part of all SLIPs
+Gender equity focal point x 2
+
+HROD
+NDoE Gender Desk
+- Gender Equity Strategy Officer
+- HR Basic Gender Equity training and resource development for Public Servants
+- EEO Policy (new!) and gender recruitment targets (quotas for women)
+- Coordination of Gender Equity Strategic Plan
+
+Other Key Activity Areas
+National Women in Education Network
+TVET Gender Equity Course and Training
+Partnership development and support
+National Council of Women/UNFPA/DoE Gender Equity Guide & role models program in schools
+National literacy training for women via NLAS
+
+BEDP
+District Women Facilitators
+
+Teachers
+Headteachers
+Parents, Community and BOM
+
+STUDENTS
+
+Gender Equity in Education Policy
+National Curriculum
+HIV & AIDS Policy
+
+For further Information please contact:
+The Gender Desk, National Department of Education
+Level 3, Fincorp Haus    Phone: (675) 301 3394    Fax: (675) 325 4342
+
 Gender Equity Strategic Plan 2009-2014
 
 Page 73/85
@@ -2393,7 +2593,7 @@ Page 73/85
 
 ### Gender
 
-The social constructed attributes and opportunities associated with being male and female. These attributes  should  be  context  and  time  specific  and  changeable.    Gender  determines what is expected, allowed and valued in a woman, man, boy or girl in a given context.  In most societies there are differences and inequalities between women and men, and between boys  and  girls,  in  responsibilities,  roles,  access  to  and  control  over  resources,  and  decisionmaking.
+The social constructed attributes and opportunities associated with being male and female. These attributes  should  be  context  and  time  specific  and  changeable.    Gender  determines what is expected, allowed and valued in a woman, man, boy or girl in a given context.  In most societies there are differences and inequalities between women and men, and between boys  and  girls,  in  responsibilities,  roles,  access  to  and  control  over  resources,  and  decision-making.
 
 ### Gender Analysis
 
@@ -2499,7 +2699,7 @@ A very important point is made in the MTDS and that is 'to address female gender
 
 ### National Women's Policy
 
-PNG  has  a  strong  National  Women's  Policy  (1991)  that  was  developed  to  contribute  to achieving  'increased  participation  by  women  as  both  beneficiaries  and  agents  in  the development process and improvement in the quality of life for all' (GoPNG NWP, p.2).  At the national level a number of key milestones have been achieved. These include National gender policies and initiatives that provide a framework for action around gender.  A list of National gender  policies  and  initiatives  of  which  the  GoPNG  is  signatory  to,  can  be  referred  to  in Appendix 3.  The GoPNG has established a Office for the Development of Women.
+PNG has a strong National Women’s Policy (1991) that was developed to contribute to achieving ‘increased participation by women as both beneficiaries and agents in the development process and improvement in the quality of life for all’ (GoPNG NWP, p.2). At the national level a number of key milestones have been achieved. These include National gender policies and initiatives that provide a framework for action around gender. A list of National
 
 Gender Equity Strategic Plan 2009-2014
 
@@ -2508,6 +2708,8 @@ Page 77/85
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+
+gender policies and initiatives of which the GoPNG is signatory to, can be referred to in Appendix 3. The GoPNG has established a Office for the Development of Women.
 
 ### The National Education Plan (2005-2014)
 
@@ -2519,11 +2721,11 @@ The Department of Education's Gender Equity in Education Policy was launched in 
 
 ### The DoE Gender Equity in Education Strategic Plan (2009-2014)
 
-The  Gender  Equity  in  Education  Strategic  Plan  2009-2014  was  developed  through  the facilitation of participatory consultations held over a period of eight months, from November 2008 - June 2009.  More than 200 educationalists, contributed to the development of strategies and  write  up  of  the  plan.  The  operating  environment  in  PNG  is  complex  with  constraints restricting the achievement of gender equality objectives.  This plan aims to highlight some of the ways forward.
+The Gender Equity in Education Strategic Plan 2009-2014 was developed through the facilitation of participatory consultations held over a period of eight months, from November 2008 – June 2009. More than 200 educationalists, contributed to the development of strategies and write up of the plan. The operating environment in PNG is complex with constraints restricting the achievement of gender equality objectives. This plan aims to highlight some of the ways forward.
 
-The key approach used to address gender inequality is gender mainstreaming which aims to strengthen institutional structures, build capacity and promote equality of women in decisionmaking  and  leadership  positions.    While  there  has  been  some  success  in  the  use  of  this approach, it has not gone far enough in addressing the key social and economic structures that affect the empowerment of women and the equal distribution of and access to resources for both men and women.
+The key approach used to address gender inequality is gender mainstreaming which aims to strengthen institutional structures, build capacity and promote equality of women in decision-making and leadership positions. While there has been some success in the use of this approach, it has not gone far enough in addressing the key social and economic structures that affect the empowerment of women and the equal distribution of and access to resources for both men and women.
 
-The  strategic  outcomes  and  indicators  that  follow  identify  measures  for  challenging  gender biases,  making  sure  that  more  women  are  represented  in  decision  making,  are  able  to  be employed,  trained  and  promoted  in  managerial  and  technical  positions.    Beyond  National and  Provincial  educational  administration  the  plan  identifies  entry  points  to  ensure  that learning  environments  are  socially  and  culturally  appropriate,  supportive  and  physically comfortable for both girls and boys.  The curriculum advocates attitudes and behaviours in the school community that promote social responsibility, empathy, sensitive and equal and nonviolent  relationships.  Strategies  for  increasing  the number  of  girls in  school,  improve  retention and build capacity for teachers, pre and in service, to ensure more equitable classrooms are suggested.
+The strategic outcomes and indicators that follow identify measures for challenging gender biases, making sure that more women are represented in decision making, are able to be employed, trained and promoted in managerial and technical positions. Beyond National and Provincial educational administration the plan identifies entry points to ensure that learning environments are socially and culturally appropriate, supportive and physically comfortable for both girls and boys. The curriculum advocates attitudes and behaviours in the school community that promote social responsibility, empathy, sensitive and equal and non-violent relationships. Strategies for increasing the number of girls in school, improve retention and build capacity for teachers, pre and in service, to ensure more equitable classrooms are suggested.
 
 The plan is achievable, simple and incremental in nature. It seeks to be guided by evidence backed decision-making, transparency and accountability. A phased approach to integrating gender inclusive policy and practice is proposed.  The process of achieving greater gender equity in education will be a slow one and it will take time for the plan to be implemented. Hence, the Gender Equity in Education Strategic Plan 2009-2014 provides the building blocks in which to develop over time, more sophisticated strategies for addressing gender equality.
 
@@ -2591,7 +2793,7 @@ The National Education System encourages, supports and promotes the following va
 
 -Provide a curriculum which challenges unfair cultural practices and which recognises the contribution to society of the full range of women as well as the contributions of diverse groups of men
 
--Encourage the development of positive attitudes and behaviours in male and female students which promote social responsibility, empathy, and sensitive, equal and nonviolent relationships
+-Encourage the development of positive attitudes and behaviours in male and female students which promote social responsibility, empathy, and sensitive, equal and non-violent relationships
 
 -Provide a challenging learning environment which is socially and culturally supportive and physically comfortable for female as well as male students
 
@@ -2810,18 +3012,6 @@ N'Deane Helajzen
 ECBP Gender Equity Adviser (Lead writer)
 
 ### Teaching Service Commission (TSC)
-
-Rose August
-
-Commissioner Operations
-
-Harley Kila
-
-Senior Industrial Officer
-
-Julie Homoke
-
-Investigator Appointments
 
 Rose August
 
@@ -3099,27 +3289,41 @@ Receptionist
 
 Bessie Kilavanwa
 
-National Community Engagement Officer Gender Equity Adviser Senior Adviser Training & Workshops Gender Adviser RCBA Islands
+National Community Engagement Officer
 
 Mali Endolo
 
+Gender Equity Adviser
+
 Wali Bai
+
+Senior Adviser Training & Workshops
 
 Maureen Dyer
 
+Gender Adviser
+
 Silina Tagagau
+
+RCBA Islands
 
 ### National Council for Women in PNG
 
 Scholla Kakas
 
-President NCW General Secretary Role Models Project Coordinator Men's desk Coordinator
+President NCW
 
 Lily Tua
 
+General Secretary
+
 Magdeline Haro
 
+Role Models Project Coordinator
+
 Dickson Kiragi
+
+Men’s desk Coordinator
 
 ### Churches/NGO's
 
@@ -3141,15 +3345,23 @@ Senior Research Fellow
 
 ### Multilaterals
 
-Mitsue Uemura Budragchaa Uranchimeg Juliet Attenborough Jerome Polomio Dr Vele Pat Tuaru
+Mitsue Uemura
 
 UNICEF Education Program Manager
 
+Budragchaa Uranchimeg
+
 UNICEF Basic Education Project Officer
+
+Juliet Attenborough
 
 UNICEF Child Protection Consultant
 
+Jerome Polomio
+
 UNICEF Provincial Program Officer, WHP
+
+Dr Vele Pat Tuaru
 
 ADB Gender Adviser
 
@@ -3240,9 +3452,13 @@ Hans Gima
 Western Highlands
 
 ### Principals (PTC's)
-John Onguglo Michael Homingu
+John Onguglo
 
-Holy Trinity Teachers College Nazarene Teachers College
+Holy Trinity Teachers College
+
+Michael Homingu
+
+Nazarene Teachers College
 
 Gender Equity Strategic Plan 2009-2014
 
@@ -3402,7 +3618,9 @@ If you would like additional copies of this Strategic Plan or if you have any co
 
 Mr Otto Loh
 
-A/Manager, Organisational Development Department of Education, PO Box 446, Waigani, 3 rd  floor, Fincorp Haus National Capital District, Papua New Guinea
+A/Manager, Organisational Development
+Department of Education, PO Box 446, Waigani, 3rd floor, Fincorp Haus
+National Capital District, Papua New Guinea
 
 (email) Otto_Loh@educationpng.gov.pg
 
