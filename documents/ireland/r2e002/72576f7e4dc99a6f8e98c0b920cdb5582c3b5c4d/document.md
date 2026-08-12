@@ -2,13 +2,20 @@
 
 # Further Education and Training Strategy
 
-2014 - 2019
+2014 – 2019
+
+AN ROINN OIDEACHAIS AGUS SCILEANNA
+DEPARTMENT OF EDUCATION AND SKILLS
+
+SOLAS
+An tSeirbhís Oideachais Leanúnaigh agus Scileanna
+Further Education and Training Authority
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-# Further Education and Training Strategy 2014-2019
+# Further Education and Training Strategy 2014–2019
 
 1
 
@@ -127,7 +134,7 @@ The
   the	
   provision	
   of	
-  21 st century high-­-quality	
+ 21st century high-quality
   FET	
   programmes	
   which	
@@ -416,26 +423,7 @@ The
   provide	
   priority	
   access	
-  for unemployed	
-  people	
-  	
-  to	
-  relevant	
-  labour	
-  market	
-  opportunities	
-  to	
-  enhance	
-  their	
-  job	
-  prospects	
-  through education	
-  and	
-  training	
-  programmes	
-  and	
-  work	
-  experience.
+
 
 3
 
@@ -443,7 +431,9 @@ The
 
 [[START OF PAGE 5]]
 
-Reform	
+unemployed people to relevant labour market opportunities to enhance their job prospects through education and training programmes and work experience.
+
+Reform
   in	
   education	
   is	
@@ -2393,17 +2383,115 @@ Finally,
 
 # Table of Contents
 
+Page
+
+List of Acronyms	12
+
+Part 1	Executive Summary	17
+
+Part 2	FET Strategy	35
+
+Section 1	Introduction, Vision and Mission for FET	36
+1.1	Introduction, Background and Context	36
+1.2	Government Reform Agenda	38
+1.3	Purpose of the FET Strategy	41
+1.4	Vision for FET	43
+1.5	Mission of FET	44
+1.6	Approach to Strategy Development	45
+1.7	What the research and consultation tells us about FET	46
+
+Section 2	Development, Scope and Standing of FET	48
+2.1	Development of FET	48
+2.2	Definition of FET	51
+2.3	Scope of FET	54
+2.4	Strengths of FET	56
+2.5	Standing of FET	58
+2.6	FET and National Skills Strategy	60
+
+Section 3	Economic and Labour Market Context in Ireland	62
+3.1	Economic and Labour Market Context	62
+3.2	Employment Projections 2012-2020	64
+3.3	Growth Projections by Occupational Families	68
+3.4	Educational Distribution of Employment Forecast 2020	75
+3.5	Matching FET Provision to employer needs	76
+
+Section 4	Key Messages from Government Reviews and Studies	81
+4.1	A Strategic Review of Further Education and Training and the Unemployed	82
+4.2	DES-led Consultation Process on the establishment of SOLAS	84
+4.3	Review of Apprenticeship Training in Ireland	84
+
 9
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
+Section 5	Key Issues Emerging from the ESRI Evidence	86
+5.1	Major Issues that Strategy can address with Immediate Effect	86
+5.2	Major Issues requiring Further Evidence for Strategic Development	90
+
+Section 6	Active Inclusion/Literacy and Numeracy	91
+6.1	Active Inclusion	91
+6.2	Literacy and Numeracy Strategy	97
+
+Section 7	Employee Development and Entrepreneurship	102
+7.1	Employee Development	102
+7.2	Recognition of Workplace Learning	104
+7.3	Entrepreneurship and Self-employment Training	105
+
+Section 8	Progression for FET Graduates to Higher Education	106
+
+Section 9	Qualifications and Professional Development for Staff involved in FET	109
+
+Section 10	Guidance and FET	112
+
+Section 11	Funding	115
+11.1	Funding	115
+11.2	Proposed New Funding Arrangements for FET Provision	117
+
+Section 12	Core Principles and Strategic Goals	119
+12.1	Core Principles underpinning the FET Strategy	120
+12.2	Strategic Goals for FET	120
+12.3	Connecting the main elements of the FET Strategy	123
+12.4	Implementing the Strategy – The Challenges	124
+
+Part 3	Overarching Implementation Plan	127
+
+## List of Figures
+
+Figure 1	Profile of typical FET Learners	42
+Figure 2	FET Partner Network	43
+Figure 3	Main Types of FET Provision	53
+Figure 4	National Framework of Qualifications	54
+
 10
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Figure 5	Real GDP Growth Forecasts 2013 and 2014	63
+Figure 6	Labour Force Participation	64
+Figure 7	Projected Employment Levels at 2020	66
+Figure 8	Occupational Employment Projections	67
+Figure 9	Employment Growth by Occupational Family 2012-2020	68
+Figure 10	Projected Employment Growth by Education 2012-2020	76
+Figure 11	Some key actions where additional funding may be required	130
+
+## List of Diagrams
+
+Diagram 1	FET Strategy Diagram	125
+Diagram 2	Examples of alternative skills paths through FET	126
+
+## List of Appendices
+
+Appendix 1	Glossary of Terms relating to FET Provision	143
+Appendix 2	List of Organisations invited to the 1-2-1 Interview Process	149
+Appendix 3	List of Organisations invited to the Consultation Workshops	150
+Appendix 4	Consultation Workshop Agenda	153
+Appendix 5	FET Strategy Advisory Committee	154
+Appendix 6	FET Strategy Technical Sub-group	155
+Appendix 7	Examples of key sources and expertise	156
 
 11
 
@@ -3228,50 +3316,15 @@ The
   articulating	
   the	
   common	
-  purpose that	
-  enjoins	
-  all	
-  FET	
-  providers	
-  towards	
-  achieving	
-  a	
-  world-­-class	
-  FET	
-  system.	
-  It	
-  provides	
-  an	
-  overarching framework	
-  within	
-  which	
-  outcomes-­-based	
-  funding	
-  and	
-  planning	
-  based	
-  on	
-  robust	
-  evidence	
-  reflect learner	
-  and	
-  enterprise	
-  needs,	
-  including	
-  the	
-  needs	
-  of	
-  current 1 and	
-  future	
-  DSP	
-  priority	
-  groups.
+purpose
 
 18
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+that enjoins all FET providers towards achieving a world-class FET system. It provides an overarching framework within which outcomes-based funding and planning based on robust evidence reflect learner and enterprise needs, including the needs of current¹ and future DSP priority groups.
 
 ### How will we know that the Strategy is successful? (The Vision)
 
@@ -5036,72 +5089,7 @@ Employers'
   series	
   of	
   Forfás/EGFSN	
-  reports. 8 An	
-  expanding	
-  range	
-  of	
-  FET-­related	
-  skill-­-needs	
-  are	
-  emerging	
-  such	
-  as:	
-  the	
-  'greening'	
-  of	
-  operative,	
-  skilled	
-  workers	
-  and	
-  skilled trades	
-  in	
-  construction; 9 4,500	
-  immediate	
-  vacancies	
-  at	
-  levels	
-  NFQ	
-  5/6	
-  in	
-  ICT	
-  companies	
-  in	
-  Ireland; 10 heritage	
-  and	
-  conservation	
-  skills; 11 special	
-  skills	
-  relating	
-  to	
-  industrial	
-  heritage; 12 growth	
-  potential	
-  of over	
-  3,000	
-  full	
-  time	
-  equivalent	
-  jobs	
-  by	
-  2020	
-  in	
-  the	
-  sea	
-  fisheries	
-  and	
-  aquaculture	
-  (farm	
-  fish	
-  and	
-  shell fish)	
-  industries; 13 tourism/hospitality	
-  sector	
-  culinary,	
-  operative,	
-  administrative	
-  and	
-  marketing	
-  skills. 14
+reports.⁸ An expanding range of FET-
 
 > 6 OECD,	
   (2013),	
@@ -5197,7 +5185,9 @@ Employers'
 
 [[START OF PAGE 25]]
 
-IDA	
+related skill-needs are emerging such as: the ‘greening’ of operative, skilled workers and skilled trades in construction;⁹ 4,500 immediate vacancies at levels NFQ 5/6 in ICT companies in Ireland;¹⁰ heritage and conservation skills;¹¹ special skills relating to industrial heritage;¹² growth potential of over 3,000 full time equivalent jobs by 2020 in the sea fisheries and aquaculture (farm fish and shell fish) industries;¹³ tourism/hospitality sector culinary, operative, administrative and marketing skills.¹⁴
+
+IDA
   and	
   EI	
   have	
@@ -5918,22 +5908,7 @@ A
   ICT,	
   retail,	
   hospitality,	
-  business administration,	
-  medical	
-  devices,	
-  sport	
-  and	
-  leisure,	
-  childcare	
-  and	
-  social	
-  care,	
-  financial	
-  services, accounting,	
-  hairdressing	
-  and	
-  beauty	
-  care.
+business
 
 > 17 For	
   example	
@@ -5977,6 +5952,7 @@ A
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+administration, medical devices, sport and leisure, childcare and social care, financial services, accounting, hairdressing and beauty care.
 
 ### Key Issues Emerging from the ESRI Evidence
 
@@ -6268,57 +6244,7 @@ Active
   of	
   skills)	
   to	
-  fully participate	
-  in	
-  society;	
-  to	
-  access	
-  a	
-  range	
-  of	
-  quality	
-  services	
-  including	
-  education	
-  and	
-  training;	
-  and	
-  to have	
-  a	
-  job.	
-  The	
-  FET	
-  sector	
-  will	
-  seek	
-  to	
-  increase	
-  levels	
-  of	
-  active	
-  inclusion	
-  through	
-  the	
-  provision	
-  of	
-  high quality,	
-  more	
-  accessible	
-  and	
-  flexible	
-  education	
-  and	
-  training	
-  programmes	
-  and	
-  supports	
-  suited	
-  to	
-  the identified	
-  needs	
-  of	
-  the	
-  individual.
+fully
 
 > 20 See	
   accompanying	
@@ -6344,6 +6270,7 @@ Active
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+participate in society; to access a range of quality services including education and training; and to have a job. The FET sector will seek to increase levels of active inclusion through the provision of high quality, more accessible and flexible education and training programmes and supports suited to the identified needs of the individual.
 
 While	
   unemployed	
@@ -6642,96 +6569,7 @@ The
   robust	
   evidence-­-base	
   does	
-  not currently	
-  exist	
-  to	
-  inform	
-  how	
-  literacy	
-  and	
-  numeracy	
-  education	
-  is	
-  best	
-  provided	
-  across	
-  all	
-  levels	
-  of provision	
-  and	
-  different	
-  types	
-  of	
-  programmes.	
-  Further	
-  research	
-  is	
-  needed	
-  on	
-  the	
-  relative	
-  advantages of	
-  the	
-  integration	
-  of	
-  literacy	
-  skills	
-  into	
-  specialist	
-  course	
-  content	
-  as	
-  opposed	
-  to	
-  delivery	
-  by	
-  specialist literacy	
-  tutors	
-  within	
-  a	
-  broader	
-  course	
-  structure.	
-  Consequently,	
-  SOLAS	
-  will	
-  sustain	
-  funding	
-  for	
-  literacy and	
-  numeracy	
-  provision	
-  until	
-  a	
-  sufficiently	
-  robust	
-  evidence-­-base	
-  exists	
-  that	
-  will	
-  allow	
-  for	
-  the consideration	
-  of	
-  embedding	
-  literacy	
-  and	
-  numeracy	
-  education	
-  across	
-  relevant	
-  forms	
-  of	
-  FET	
-  provision. This	
-  budget	
-  will	
-  be	
-  reviewed	
-  on	
-  an	
-  annual	
-  basis.
+
 
 > 21 Nevin	
   Economic	
@@ -6814,6 +6652,7 @@ The
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+currently exist to inform how literacy and numeracy education is best provided across all levels of provision and different types of programmes. Further research is needed on the relative advantages of the integration of literacy skills into specialist course content as opposed to delivery by specialist literacy tutors within a broader course structure. Consequently, SOLAS will sustain funding for literacy and numeracy provision until a sufficiently robust evidence-base exists that will allow for the consideration of embedding literacy and numeracy education across relevant forms of FET provision. This budget will be reviewed on an annual basis.
 
 ### Employee Development and Entrepreneurship
 
@@ -7394,47 +7233,7 @@ A
   registered	
   by	
   the	
-  Teaching Council.	
-  This	
-  requirement	
-  does	
-  not	
-  apply	
-  to	
-  a	
-  person	
-  who	
-  is	
-  employed	
-  as	
-  a	
-  teacher	
-  in	
-  a	
-  centre	
-  for education	
-  or	
-  other	
-  education	
-  or	
-  training	
-  setting.	
-  There	
-  are	
-  ten	
-  courses	
-  currently	
-  accredited	
-  by	
-  the Teaching	
-  Council	
-  aimed	
-  at	
-  teachers	
-  within	
-  the	
-  FET	
-  sector.
+Teaching
 
 > 27 QQI	
   (2013)	
@@ -7545,6 +7344,7 @@ A
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+Council. This requirement does not apply to a person who is employed as a teacher in a centre for education or other education or training setting. There are ten courses currently accredited by the Teaching Council aimed at teachers within the FET sector.
 
 Feedback	
   from	
@@ -8219,7 +8019,7 @@ There
 > 32 Including	
   for	
   example	
-  Apprenticehsip,	
+Apprenticeship,
   eCollege,	
   Momentum,	
   CSCS/QSCS	
@@ -8815,85 +8615,52 @@ Diagram
 
 #### FET Strategy Diagram
 
-- ǁŽƌůĚ ĐůĂƐƐ ŝŶƚĞŐƌĂƚĞĚ & d ƐǇƐƚĞŵ͕ ŚŝŐŚůǇ ǀĂůƵĞĚ ďǇ ůĞĂƌŶĞƌƐ ĂŶĚ ĞŵƉůŽǇĞƌƐ͕ ǁŚĞƌĞ Ă ŚŝŐŚĞƌ ƉƌŽƉŽƌƟŽŶ ŽĨ ƚŚŽƐĞ ǁŚŽ ĞŶŐĂŐĞ ŝŶ & d ŝŶĐůƵĚŝŶŐ ƚŚŽƐĞ ǁŝƚŚ
+FET Vision
 
-ďĂƌƌŝĞƌƐ ƚŽ ƉĂƌƟĐŝƉĂƟŽŶ͕ ƐƵĐŚ ĂƐ ƉĞƌƐŽŶƐ ǁŝƚŚ Ă ĚŝƐĂďŝůŝƚǇ ĂƐ ǁĞůů ĂƐ ĐƵƌƌĞŶƚ ƉƌŝŽƌŝƚǇ ĐŽŚŽƌƚƐ ŝĚĞŶƟĮĞĚ ďǇ  ^W ƐƵĐŚ ĂƐ ůŽŶŐ ƚĞƌŵ ƵŶĞŵƉůŽǇĞĚ ƉĞƌƐŽŶƐ͕ ƐƚĂǇ ĞŶŐĂŐĞĚ͕ ĐŽŵƉůĞƚĞ ƋƵĂůŝĮĐĂƟŽŶƐ͕ ƚƌĂŶƐŝƟŽŶ ƐƵĐĐĞƐƐĨƵůůǇ ŝŶƚŽ ĞŵƉůŽǇŵĞŶƚ Žƌ͕ ǁŚĞƌĞ ĂƉƉƌŽƉƌŝĂƚĞ ŵŽǀĞ ŝŶƚŽ ŚŝŐŚĞƌ ůĞǀĞů ƋƵĂůŝĮĐĂƟŽŶƐ ŝŶ & d Žƌ , d
+A world class integrated FET system, highly valued by learners and employers, where a higher proportion of those who engage in FET including those with barriers to participation, such as persons with a disability as well as current priority cohorts identified by DSP such as long term unemployed persons, stay engaged, complete qualifications, transition successfully into employment or, where appropriate move into higher level qualifications in FET or HET
 
-E &/d^ K& & d
+FET MISSION
 
-KZ  WZ/E /W> ^
+Enable individuals and communities to achieve their developmental, personal, social, career and employment aspirations
 
-& d D/^^/KE
-
-& d sŝƐŝŽŶ
-
-- Ͳ ŽŶƐŝƐƚĞŶƚůǇ ŚŝŐŚ ƋƵĂůŝƚǇ ĞĚƵĐĂƟŽŶ ĂŶĚ ƚƌĂŝŶŝŶŐ
+CORE PRINCIPLES
 
 - Learner and employer centred
+- Evidence-based FET policy and practice
+- Employment focussed and actively inclusive
+- Responsive, flexible, innovative and high quality provision
+- Consultative and collaborative
+- Transparent and accountable
+- Value for money
 
-Enable individuals and
+BENEFITS OF FET
 
--Learner and employer centred
+- Consistently high quality education and training
+- Learner and employer centred
+- High job placement, good progression options
+- Flexible and cost effective
+- Barrier free access
+- Person centred supports
 
-- Ͳ    ǀŝĚĞŶĐĞͲďĂƐĞĚ & d ƉŽůŝĐǇ ĂŶĚ ƉƌĂĐƟĐĞ
+How will we get there?
 
-- ĐŽŵŵƵŶŝƟĞƐ ƚŽ ĂĐŚŝĞǀĞ ƚŚĞŝƌ
+Strategic Goal 1
+Skills for the Economy
 
-- Ͳ ,ŝŐŚ ũŽď ƉůĂĐĞŵĞŶƚ͕ ŐŽŽĚ ƉƌŽŐƌĞƐƐŝŽŶ ŽƉƟŽŶƐ
+Strategic Goal 2
+Active Inclusion,
+Literacy and Numeracy Strategy
 
-- Ͳ    ŵƉůŽǇŵĞŶƚ ĨŽĐƵƐƐĞĚ ĂŶĚ ĂĐƟǀĞůǇ ŝŶĐůƵƐŝǀĞ
+Strategic Goal 3
+Quality Provision
 
-developmental, personal, social,
+Strategic Goal 4
+Integrated Planning and Funding
 
-&ůĞǆŝďůĞ ĂŶĚ ĐŽƐƚ ĞīĞĐƟǀĞ
+Strategic Goal 5
+Standing of FET
 
-Ͳ
-
-- Ͳ   ZĞƐƉŽŶƐŝǀĞ͕ ŇĞǆŝďůĞ͕ ŝŶŶŽǀĂƟǀĞ ĂŶĚ ŚŝŐŚ ƋƵĂůŝƚǇ ƉƌŽǀŝƐŝŽŶ
-
-- career and employment
-
-- Ͳ ĂƌƌŝĞƌ ĨƌĞĞ ĂĐĐĞƐƐ
-
-- Ͳ    ŽŶƐƵůƚĂƟǀĞ ĂŶĚ ĐŽůůĂďŽƌĂƟǀĞ
-
-ĂƐƉŝƌĂƟŽŶƐ
-
-- Ͳ WĞƌƐŽŶ ĐĞŶƚƌĞĚ ƐƵƉƉŽƌƚƐ
-
--Transparent and accountable
-
-Ͳ sĂůƵĞ ĨŽƌ ŵŽŶĞǇ
-
-,Žǁ ǁŝůů ǁĞ ŐĞƚ ƚŚĞƌĞ͍
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϱ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϰ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϯ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů Ϯ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϭ
-
-^ƚĂŶĚŝŶŐ ŽĨ & d
-
-/ŶƚĞŐƌĂƚĞĚ WůĂŶŶŝŶŐ
-
-YƵĂůŝƚǇ WƌŽǀŝƐŝŽŶ
-
-ĐƟǀĞ /ŶĐůƵƐŝŽŶ͕
-
-^ŬŝůůƐ ĨŽƌ ƚŚĞ  ĐŽŶŽŵǇ
-
-and Funding
-
-Literacy and Numeracy
-
-^ƚƌĂƚĞŐǇ
-
-/ŵƉůĞŵĞŶƚĂƟŽŶ WůĂŶ
+Implementation Plan
 
 34
 
@@ -10265,18 +10032,7 @@ JobPath
   the	
   Department	
   and	
-  will supplement	
-  and	
-  complement	
-  existing	
-  'Intreo',	
-  Local	
-  Employment	
-  Service	
-  (LES)	
-  and	
-  Job	
-  Clubs capacity.
+will
 
 > 34 DSP	
   Presentation	
@@ -10305,6 +10061,7 @@ JobPath
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+supplement and complement existing ‘Intreo’, Local Employment Service (LES) and Job Clubs capacity.
 
 #### 1.2.4 The	
   Irish	
@@ -10621,86 +10378,7 @@ On
   of	
   further	
   and	
-  higher education	
-  and	
-  training	
-  (including	
-  English	
-  language	
-  provision).	
-  In	
-  addition	
-  to	
-  acting	
-  as	
-  an	
-  awarding body,	
-  it	
-  is	
-  also	
-  responsible	
-  for	
-  the	
-  quality	
-  assurance	
-  oversight	
-  of	
-  providers	
-  across	
-  further	
-  and	
-  higher education	
-  and	
-  training	
-  and	
-  for	
-  promoting	
-  and	
-  facilitating	
-  activities	
-  that	
-  lead	
-  to	
-  quality	
-  enhancement. It	
-  has	
-  legislative	
-  responsibilities	
-  around	
-  data	
-  and	
-  international	
-  education.	
-  QQI	
-  is	
-  also	
-  responsible	
-  for the	
-  development	
-  of	
-  the	
-  National	
-  Framework	
-  of	
-  Qualifications	
-  (NFQ).	
-  The	
-  FET	
-  sector	
-  is	
-  a	
-  key	
-  provider of	
-  QQI	
-  accredited	
-  programmes	
-  at	
-  Levels	
-  1-­-6	
-  on	
-  the	
-  NFQ.	
-  See http://www.qqi.ie/About/Pages/Strategy-­-Statement.aspx.
+higher
 
 > 35 'Pathways	
   to	
@@ -10722,6 +10400,7 @@ On
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+education and training (including English language provision). In addition to acting as an awarding body, it is also responsible for the quality assurance oversight of providers across further and higher education and training and for promoting and facilitating activities that lead to quality enhancement. It has legislative responsibilities around data and international education. QQI is also responsible for the development of the National Framework of Qualifications (NFQ). The FET sector is a key provider of QQI accredited programmes at Levels 1-6 on the NFQ. See http://www.qqi.ie/About/Pages/Strategy-Statement.aspx.
 
 ### 1.3 Purpose	
   of	
@@ -10997,7 +10676,7 @@ Learner
 
 Returner
 
-auer	
+after
   an
 
 absence
@@ -11045,7 +10724,7 @@ School
 
 leavers
 
-Apprenvces
+Apprentices
 
 The	
   Strategy	
@@ -11810,52 +11489,14 @@ One
   of	
   individuals,	
   communities	
-  and employers.	
-  	
-  FET	
-  also	
-  makes	
-  provision	
-  for	
-  continuous	
-  professional	
-  development	
-  (CPD)	
-  and	
-  continuing vocational	
-  education	
-  and	
-  training	
-  for	
-  those	
-  in	
-  employment.	
-  FET	
-  in	
-  the	
-  Irish	
-  context	
-  also	
-  encompasses many	
-  forms	
-  of	
-  skill	
-  formation	
-  systems	
-  normally	
-  regarded	
-  as	
-  VET	
-  in	
-  many	
-  European	
-  countries. 37
+and
 
 44
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+employers. FET also makes provision for continuous professional development (CPD) and continuing vocational education and training for those in employment. FET in the Irish context also encompasses many forms of skill formation systems normally regarded as VET in many European countries.37
 
 ### 1.6 Approach	
   to	
@@ -12574,41 +12215,14 @@ One
   to	
   provide	
   feedback	
-  on their	
-  course	
-  and	
-  learning	
-  experience	
-  and	
-  also	
-  by	
-  actively	
-  involving	
-  learners	
-  and	
-  supporting	
-  them	
-  to act	
-  as	
-  partners	
-  with	
-  policy	
-  makers,	
-  providers,	
-  practitioners	
-  and	
-  other	
-  agencies	
-  in	
-  the	
-  FET	
-  sector. 40
+on
 
 46
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
+their course and learning experience and also by actively involving learners and supporting them to act as partners with policy makers, providers, practitioners and other agencies in the FET sector.40
 
 A	
   range	
@@ -12945,48 +12559,14 @@ The
   1977,	
   later	
   to	
-  evolve into	
-  PLCs,	
-  the	
-  launch	
-  of	
-  Youthreach	
-  in	
-  1988, 41 the	
-  introduction	
-  of	
-  the	
-  Educational	
-  Opportunities Scheme	
-  on	
-  a	
-  pilot	
-  basis	
-  in	
-  1986	
-  and	
-  later	
-  reconstituted	
-  as	
-  VTOS	
-  in	
-  1989,	
-  and	
-  the	
-  establishment	
-  of	
-  the Back	
-  to	
-  Education	
-  Initiative	
-  in	
-  2002.
+evolve
 
 48
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+into PLCs, the launch of Youthreach in 1988,41 the introduction of the Educational Opportunities Scheme on a pilot basis in 1986 and later reconstituted as VTOS in 1989, and the establishment of the Back to Education Initiative in 2002.
 
 The	
   report	
@@ -13370,56 +12950,7 @@ Another
   on-­-going	
   training	
   for	
-  the tourism	
-  and	
-  catering	
-  sectors;	
-  the	
-  Irish	
-  Fisheries	
-  Board	
-  (BIM),	
-  for	
-  the	
-  fishing,	
-  processing	
-  and aquaculture	
-  industries;	
-  Teagasc,	
-  which	
-  provides	
-  training	
-  (and	
-  research)	
-  for	
-  farmers	
-  and	
-  for	
-  the	
-  food processing	
-  industry;	
-  Coillte,	
-  the	
-  Irish	
-  Forestry	
-  Board,	
-  which	
-  trains	
-  forestry	
-  workers	
-  and	
-  Bord	
-  Altranais, responsible	
-  for	
-  implementing	
-  continuous	
-  vocational	
-  education	
-  and	
-  training	
-  for	
-  the	
-  nursing profession.
+
 
 > 41 Department	
   of	
@@ -13441,6 +12972,11 @@ Another
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+tourism and catering sectors; the Irish Fisheries Board (BIM), for the fishing, processing and
+aquaculture industries; Teagasc, which provides training (and research) for farmers and for the food
+processing industry; Coillte, the Irish Forestry Board, which trains forestry workers and Bord Altranais,
+responsible for implementing continuous vocational education and training for the nursing
+profession.
 
 Over	
   recent	
@@ -13761,32 +13297,7 @@ Finally,
   across	
   all	
   parts	
-  of the	
-  education	
-  system	
-  including	
-  for	
-  example	
-  operational	
-  costs,	
-  training	
-  and	
-  apprenticeship programmes,	
-  programmes	
-  for	
-  disadvantaged	
-  students,	
-  guidance	
-  counselling	
-  for	
-  vocational	
-  and secondary	
-  schools,	
-  and	
-  funding	
-  for	
-  higher	
-  education'. 44
+  of
 
 > 42 McIver	
   Consulting	
@@ -13842,6 +13353,9 @@ Finally,
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+the education system including for example operational costs, training and apprenticeship
+programmes, programmes for disadvantaged students, guidance counselling for vocational and
+secondary schools, and funding for higher education'. 44
 
 ### 2.2 Definition	
   of	
@@ -14478,7 +13992,7 @@ VTOS
 
 PLCs
 
-Apprenvceship
+Apprenticeship
 
 Other	
   work
@@ -14488,7 +14002,7 @@ based
 
 Community
 
-Educavon
+Education
 
 Statutory
 
@@ -14776,6 +14290,29 @@ Figure
   Framework	
   of	
   Qualifications
+LEVEL 1 CERTIFICATE
+LEVEL 2 CERTIFICATE
+LEVEL 3 CERTIFICATE
+JUNIOR CERTIFICATE
+LEVEL 4 CERTIFICATE
+LEAVING CERTIFICATE
+LEVEL 5 CERTIFICATE
+ADVANCED CERTIFICATE
+HIGHER CERTIFICATE
+ORDINARY BACHELOR DEGREE
+HONOURS BACHELOR DEGREE
+HIGHER DIPLOMA
+MASTERS DEGREE
+POSTGRADUATE DIPLOMA
+DOCTORAL DEGREE
+HIGHER DOCTORATE
+FETAC
+SEC
+HETAC & IoT
+DIT
+UNIVERSITIES
+1 2 3 4 5 6 7 8 9 10
+10-LEVEL FRAMEWORK
 
 From	
   the	
@@ -14906,114 +14443,7 @@ The
   example,	
   within	
   the	
-  community sector.	
-  Education	
-  and	
-  Training	
-  Boards,	
-  which	
-  consist	
-  of	
-  the	
-  former	
-  VECs	
-  and	
-  FÁS	
-  training	
-  centres (including	
-  provision	
-  by	
-  private	
-  providers),	
-  account	
-  for	
-  the	
-  majority	
-  of	
-  accredited	
-  provision.	
-  For instance,	
-  of	
-  the	
-  298,552	
-  QQI	
-  awards 49 issued	
-  in	
-  2012,	
-  former	
-  VECs	
-  accounted	
-  for	
-  44%,	
-  private providers	
-  for	
-  24%,	
-  FÁS	
-  training	
-  centres	
-  for	
-  21%,	
-  community/voluntary	
-  groups	
-  for	
-  5%,	
-  with	
-  all	
-  other providers 50 accounting	
-  for	
-  the	
-  remaining	
-  6%	
-  (including	
-  Teagasc,	
-  BIM	
-  and	
-  Fáilte	
-  Ireland).	
-  Many learners	
-  achieve	
-  accreditation	
-  from	
-  other	
-  awarding	
-  bodies	
-  e.g.	
-  ECDL,	
-  Microsoft,	
-  CompTIA	
-  and	
-  City and	
-  Guilds. 51 A	
-  full	
-  description	
-  of	
-  the	
-  structure	
-  of	
-  FET	
-  provision	
-  is	
-  provided	
-  in	
-  the	
-  separate	
-  ESRI publication	
-  'Further	
-  Education	
-  and	
-  Training	
-  in	
-  Ireland:	
-  Past,	
-  Present	
-  and	
-  Future',	
-  which	
-  was developed	
-  in	
-  conjunction	
-  with	
-  SOLAS.
+  community
 
 > 48 However,	
   ETB	
@@ -15035,6 +14465,15 @@ The
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
+sector. Education and Training Boards, which consist of the former VECs and FÁS training centres
+(including provision by private providers), account for the majority of accredited provision. For
+instance, of the 298,552 QQI awards 49 issued in 2012, former VECs accounted for 44%, private
+providers for 24%, FÁS training centres for 21%, community/voluntary groups for 5%, with all other
+providers 50 accounting for the remaining 6% (including Teagasc, BIM and Fáilte Ireland). Many
+learners achieve accreditation from other awarding bodies e.g. ECDL, Microsoft, CompTIA and City
+and Guilds. 51 A full description of the structure of FET provision is provided in the separate ESRI
+publication 'Further Education and Training in Ireland: Past, Present and Future', which was
+developed in conjunction with SOLAS.
 
 In	
   terms	
@@ -15311,28 +14750,9 @@ In
   the	
   LR.
 
-> 53 It	
-  should	
-  be	
-  noted	
-  that	
-  expenditures	
-  to	
-  private	
-  providers	
-  could	
-  not	
-  be	
-  separated	
-  out	
-  in	
-  this	
-  data. 54
+> 53 It should be noted that expenditures to private providers could not be separated out in this data.
 
-> Skillnets	
-  Annual	
-  Report	
-  2012.
+> 54 Skillnets Annual Report 2012.
 
 > 55 These	
   include	
@@ -15706,45 +15126,7 @@ FET
   principle	
   within	
   FET.	
-  The apprenticeship	
-  system	
-  is	
-  well-­-structured	
-  with	
-  a	
-  systematic	
-  blend	
-  of	
-  on-­-and	
-  off-­-the-­-job	
-  elements. Finally,	
-  there	
-  are	
-  some	
-  innovative	
-  and	
-  effective	
-  ways	
-  of	
-  engaging	
-  employers	
-  in	
-  a	
-  bottom-­-up	
-  approach to	
-  provision,	
-  such	
-  as	
-  Skillnets	
-  and	
-  FIT,	
-  initiatives	
-  widely	
-  supported	
-  by	
-  employers	
-  including	
-  IBEC.
+  The
 
 > 56 DES	
   (A	
@@ -15867,6 +15249,9 @@ FET
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+apprenticeship system is well-structured with a systematic blend of on-and off-the-job elements.
+Finally, there are some innovative and effective ways of engaging employers in a bottom-up approach
+to provision, such as Skillnets and FIT, initiatives widely supported by employers including IBEC.
 
 Studies	
   of	
@@ -16431,54 +15816,7 @@ The
   is	
   a	
   similar	
-  return from	
-  investing	
-  in	
-  low	
-  skilled	
-  workers.	
-  The	
-  main	
-  distinguishing	
-  factor,	
-  however,	
-  is	
-  that	
-  lower	
-  skilled workers	
-  are	
-  less	
-  likely	
-  to	
-  be	
-  offered,	
-  to	
-  seek	
-  or	
-  to	
-  avail	
-  of	
-  training. 74 There	
-  is	
-  a	
-  greater	
-  need therefore,	
-  for	
-  positive	
-  intervention	
-  in	
-  the	
-  development	
-  of	
-  the	
-  human	
-  capital	
-  of	
-  low	
-  skilled	
-  adults	
-  by the	
-  state.
+  return
 
 > 66 Kenyon,	
   R.	
@@ -16554,35 +15892,11 @@ The
   Brussels:	
   European Commission.
 
-> http://www.metiseurope.eu/content/pdf/1_vs_gestion_des_ages_ageingreport_en.pdf 68 Katou,	
-  A.A.;	
-  Budhwar,	
-  P.S.	
-  (2007)	
-  'The	
-  effect	
-  of	
-  human	
-  resource	
-  management	
-  policies	
-  on organisational	
-  performance	
-  in	
-  Greek	
-  manufacturing	
-  firms',	
-  Thunderbird	
-  international	
-  business review,	
-  January-­-February	
-  2007,	
-  vol.	
-  49,	
-  no.	
-  1,	
-  pp:	
-  1-­-36.
+> http://www.metiseurope.eu/content/pdf/1_vs_gestion_des_ages_ageingreport_en.pdf
+
+> 68 Katou, A.A.; Budhwar, P.S. (2007) 'The effect of human resource management policies on
+organisational performance in Greek manufacturing firms', Thunderbird international business
+review, January-February 2007, vol. 49, no. 1, pp: 1-36.
 
 > 69 Ely,	
   R.	
@@ -16670,14 +15984,14 @@ The
   a	
   National Skills	
   Strategy',	
-  5 th Report,	
+  5th Report,
   Dublin:	
   Forfás.	
   See	
   also	
   Leitch,	
   L.	
-  (2006) ' Prosperity	
+  (2006) 'Prosperity
   for	
   All	
   in	
@@ -16689,6 +16003,10 @@ The
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
+from investing in low skilled workers. The main distinguishing factor, however, is that lower skilled
+workers are less likely to be offered, to seek or to avail of training. 74 There is a greater need
+therefore, for positive intervention in the development of the human capital of low skilled adults by
+the state.
 
 Other	
   countries	
@@ -16781,11 +16099,11 @@ Other
   'below average'	
   in	
   literacy	
-  (17 th from	
+  (17th from
   24)	
   and	
   numeracy	
-  (19 th from	
+  (19th from
   24)	
   and	
   around	
@@ -17413,60 +16731,7 @@ The
   most	
   particularly	
   at	
-  the lower	
-  levels.	
-  Notwithstanding	
-  this,	
-  the	
-  FET	
-  sector	
-  will,	
-  over	
-  the	
-  lifetime	
-  of	
-  the	
-  FET	
-  Strategy,	
-  need	
-  to establish	
-  ways	
-  within	
-  the	
-  resources	
-  allocated	
-  to	
-  it,	
-  to	
-  significantly	
-  increase	
-  the	
-  number	
-  of	
-  individuals who	
-  graduate	
-  from	
-  FET	
-  programmes	
-  with	
-  full	
-  awards	
-  across	
-  Levels	
-  1-­-6	
-  inclusive.	
-  A	
-  review	
-  and	
-  update of	
-  the	
-  National	
-  Skills	
-  Strategy	
-  may	
-  also	
-  be	
-  timely.
+  the
 
 > 81 Raffe,	
   (2003)	
@@ -17573,6 +16838,10 @@ The
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
+lower levels. Notwithstanding this, the FET sector will, over the lifetime of the FET Strategy, need to
+establish ways within the resources allocated to it, to significantly increase the number of individuals
+who graduate from FET programmes with full awards across Levels 1-6 inclusive. A review and update
+of the National Skills Strategy may also be timely.
 
 61
 
@@ -17921,37 +17190,14 @@ The
   figure	
   6.
 
+Figure 5: Real GDP Growth Forecasts 2014
+
 Institution | 2014
 --- | ---
-Central	
-  Bank	
-  (Quarterly	
-  Bulletin,	
-  October	
-  2013) | 2.0
-ESRI	
-  (Quarterly	
-  Economic	
-  Commentary,	
-  Sep	
-  2013) | 2.6
-Department	
-  of	
-  Finance	
-  (Budget	
-  Statement,	
-  October	
-  2013) | 2.0
-European	
-  Commission | 1.8
-
-Figure	
-  5:	
-  Real	
-  GDP	
-  Growth	
-  Forecasts	
-  2014
+Central Bank (Quarterly Bulletin, October 2013) | 2.0
+ESRI (Quarterly Economic Commentary, Sep 2013) | 2.6
+Department of Finance (Budget Statement, October 2013) | 2.0
+European Commission | 1.8
 
 > 85 A	
   Strategy	
@@ -17998,28 +17244,14 @@ Figure
 
 [[START OF PAGE 65]]
 
-2011	
---- | --- | --- | ---
-  Q2 | 2012	
-  Q2 | 2013	
-  Q2
-Labour	
-  Force	
-  (Thousand) | 2,179 | 2,159 | 2,171
-Participation	
-  Rates	
-  (%) | 60.5 | 60.1 | 60.5
-In	
-  Employment	
-  (Thousand) | 1,861 | 1,826 | 1,870
-Unemployment	
-  Rates	
-  (%) | 14.6 | 15.0 | 13.9
+Figure 6: Labour force participation
 
-Figure	
-  6: Labour	
-  force	
-  participation
+| | 2011 Q2 | 2012 Q2 | 2013 Q2 |
+| --- | --- | --- | --- |
+| Labour Force (Thousand) | 2,179 | 2,159 | 2,171 |
+| Participation Rates (%) | 60.5 | 60.1 | 60.5 |
+| In Employment (Thousand) | 1,861 | 1,826 | 1,870 |
+| Unemployment Rates (%) | 14.6 | 15.0 | 13.9 |
 
 ### 3.2 Employment	
   Projections	
@@ -18241,30 +17473,7 @@ Employment
   and	
   quantity	
   of	
-  the skills available	
-  in	
-  the	
-  population,	
-  determine and	
-  anticipate	
-  the	
-  skills	
-  required	
-  in	
-  the	
-  labour market,	
-  and develop	
-  and	
-  use	
-  those	
-  skills effectively	
-  in	
-  better	
-  jobs	
-  that	
-  lead	
-  to	
-  better lives. 91
+  the skills
 
 > 87 The	
   SOLAS	
@@ -18317,6 +17526,8 @@ Employment
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+available in the population, determine and anticipate the skills required in the labour market, and
+develop and use those skills effectively in better jobs that lead to better lives. 91
 
 The	
   fact	
@@ -18564,27 +17775,7 @@ The
   2012-­-2020.	
   Occupation	
   projections	
-  are extended	
-  to	
-  provide	
-  some	
-  indication	
-  on	
-  how	
-  the	
-  projected	
-  occupational	
-  employment	
-  may	
-  impact	
-  on the	
-  educational	
-  composition	
-  of	
-  the	
-  workforce	
-  by	
-  2020.
+  are
 
 > 91 OECD	
   Skills	
@@ -18807,6 +17998,8 @@ The
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+extended to provide some indication on how the projected occupational employment may impact on
+the educational composition of the workforce by 2020.
 
 Irrespective	
   of	
@@ -18863,62 +18056,34 @@ Irrespective
   See figure	
   7.
 
-Figure	
-  7:	
-  Projected	
-  Employment	
-  Levels	
-  at	
-  2020	
-  (three	
-  scenarios)
+Figure 7: Projected Employment Levels at 2020 (three scenarios)
 
-2.02
-
-1.81
-
-1.90
-
-1.60
-
-1.65
-
-1.70
-
-1.75
-
-1.80
-
-1.85
-
-1.90
-
-1.95
-
-2.00
+Employment (m)
 
 2.05
+2.00
+1.95
+1.90
+1.85
+1.80
+1.75
+1.70
+1.65
+1.60
 
 2011
-
 2013
-
 2015
-
 2017
-
 2019
 
-Employment	
-  (m)
+2.02
+1.90
+1.81
 
 Recovery
-
-Zombie	
-  EU
-
-Constrained	
-  credit
+Zombie EU
+Constrained credit
 
 Source: SOLAS SMLRU
 
@@ -19190,47 +18355,22 @@ Occupations
   8	
   below.
 
-Occupational	
---- | --- | --- | --- | --- | ---
-  Group | 2007 | 2012 | 2020	
-   'Good'	
-   growth | 2020	
-   'Modest' growth | 2020	
-   No	
-   growth
-Managers | 154 | 136 | 166 | 153 | 147
-Professional | 336 | 339 | 390 | 380 | 359
-Assoc.	
-  Professionals | 220 | 205 | 238 | 227 | 215
-Administrative	
-  Occupations | 234 | 214 | 245 | 234 | 221
-Skilled	
-  Trades | 407 | 264 | 315 | 291 | 274
-Caring,	
-  Leisure	
-  and	
-  other	
-  Services | 133 | 138 | 152 | 149 | 141
-Sales	
-  and	
-  Customer	
-  Service | 148 | 137 | 165 | 144 | 145
-Operatives | 176 | 139 | 165 | 154 | 143
-Elementary	
-  Occupations | 230 | 183 | 199 | 188 | 177
-Total | 2039 | 1756 | 2035 | 1921 | 1824
+Figure 8: Occupational Employment Projections (000s)
 
-Figure	
-  8:	
-  Occupational	
-  Employment	
-  Projections	
-  (000s)
+| Occupational Group | 2007 | 2012 | 2020 'Good' growth | 2020 'Modest' growth | 2020 No growth |
+| --- | --- | --- | --- | --- | --- |
+| Managers | 154 | 136 | 166 | 153 | 147 |
+| Professional | 336 | 339 | 390 | 380 | 359 |
+| Assoc. Professionals | 220 | 205 | 238 | 227 | 215 |
+| Administrative Occupations | 234 | 214 | 245 | 234 | 221 |
+| Skilled Trades | 407 | 264 | 315 | 291 | 274 |
+| Caring, Leisure and other Services | 133 | 138 | 152 | 149 | 141 |
+| Sales and Customer Service | 148 | 137 | 165 | 144 | 145 |
+| Operatives | 176 | 139 | 165 | 154 | 143 |
+| Elementary Occupations | 230 | 183 | 199 | 188 | 177 |
+| Total | 2039 | 1756 | 2035 | 1921 | 1824 |
 
-Source:
-
-SOLAS	
-  SMLRU
+Source: SOLAS SMLRU
 
 In	
   describing	
@@ -19271,37 +18411,7 @@ In
   in	
   the	
   recovery.	
-  The skill	
-  types	
-  referred	
-  to	
-  encompasses	
-  provision	
-  that	
-  spans	
-  the	
-  FET	
-  and	
-  HET	
-  sectors.	
-  It	
-  can	
-  be	
-  seen	
-  that significant	
-  skill	
-  set	
-  requirements	
-  within	
-  these	
-  occupational	
-  families	
-  can	
-  be	
-  addressed	
-  by	
-  the	
-  FET sector.
+  The
 
 > 94 For	
   instance;	
@@ -19334,86 +18444,43 @@ In
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
+skill types referred to encompasses provision that spans the FET and HET sectors. It can be seen that
+significant skill set requirements within these occupational families can be addressed by the FET
+sector.
 
-Figure	
-  9:	
-  	
-  Employment	
-  growth	
-  by	
-  occupational	
-  family	
-  2012-­-2020	
-  (Recovery)
+Figure 9: Employment growth by occupational family 2012-2020 (Recovery)
 
--­-30%	
-  -­-20%	
-  -­-10%
-
-0%
-
-10%
-
-20%
-
-30%
-
-40%
-
-50%
-
+Construction
+Legal
+Business
+Science, engineering, IT
+Financial
+Transport
+Sales and customer service
+Non-construction craft
+Other services
+Arts, sports and tourism
+Operative
+Security
+Administrative
+Elementary
+Healthcare
+Social and care
+Education
 Farmers
 
-Educavon
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
 
-Social	
-  and	
-  care
-
-Healthcare
-
-Elementary
-
-Administravve
-
-Security
-
-Operavve
-
-Arts,	
-  sports	
-  and	
-  tourism
-
-Other	
-  services
-
-Non-­-construcvon	
-  crau
-
-Sales	
-  and	
-  customer	
-  service
-
-Transport
-
-Financial
-
-Science,	
-  engineering,	
-  IT
-
-Business
-
-Legal
-
-Construcvon
-
-Source:
-
-SOLAS	
-  SMLRU
+Source: SOLAS SMLRU
 
 ### 3.3 Growth	
   Projections	
@@ -19527,7 +18594,7 @@ The
   on	
   the
 
-60%
+
 
 68
 
@@ -21700,25 +20767,7 @@ This
   groups	
   due	
   to	
-  expected further	
-  increases	
-  in	
-  the	
-  technological	
-  intensity	
-  of	
-  production	
-  processes	
-  and	
-  the	
-  associated requirements	
-  to	
-  replace	
-  unskilled	
-  workers	
-  with	
-  skilled	
-  operatives.
+  expected
 
 > 109 Forfás,	
   (2013)	
@@ -21750,6 +20799,7 @@ This
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+further increases in the technological intensity of production processes and the associated requirements to replace unskilled workers with skilled operatives.
 
 #### Elementary
 
@@ -22024,46 +21074,19 @@ The
 
 [[START OF PAGE 77]]
 
-Figure	
-  10	
-  	
-  Projected	
-  employment	
-  growth	
-  by	
-  education	
-  2012-­-2020	
-  ('strong'	
-  growth)
+Figure 10  Projected employment growth by education 2012-2020 ('strong' growth)
 
-0%
-
-5%
-
-10%
-
-15%
-
-20%
-
-25%
-
-Below	
-  higher	
-  secondary
-
-Higher	
-  secondary
+Third level or above
 
 FET
 
-Third	
-  level	
-  or	
-  above
+Higher secondary
 
-Source:	
-  SMLRU
+Below higher secondary
+
+0%  5%  10%  15%  20%  25%
+
+Source: SMLRU
 
 In	
   absolute	
@@ -22235,21 +21258,7 @@ While
   for	
   future	
   need;	
-  and sustained	
-  dialogue	
-  between	
-  employers	
-  and	
-  trainers,	
-  coordination	
-  across	
-  government	
-  institutions, labour	
-  market	
-  information	
-  and	
-  employment	
-  services. 114
+  and
 
 > 112 OECD	
   (2013),	
@@ -22272,6 +21281,7 @@ While
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+sustained dialogue between employers and trainers, coordination across government institutions, labour market information and employment services. 114
 
 SOLAS	
   and	
@@ -22559,23 +21569,7 @@ Secondly,
   for	
   new	
   entrants	
-  and existing	
-  employees	
-  in	
-  areas	
-  such	
-  as	
-  IT,	
-  communications,	
-  marketing	
-  and	
-  finance	
-  are	
-  largely	
-  similar	
-  to most	
-  other	
-  sectors. 120
+  and
 
 > 114 ILO	
   (2011),	
@@ -22676,6 +21670,7 @@ Secondly,
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
+existing employees in areas such as IT, communications, marketing and finance are largely similar to most other sectors. 120
 
 Thirdly,	
   FET	
@@ -24305,7 +23300,7 @@ Even
   Literacy	
   programmes	
   are	
-  a l located	
+  allocated
   on	
   a	
   'first	
@@ -25122,114 +24117,14 @@ The
   a	
   community	
   emphasis	
-  also varied	
-  substantially	
-  across	
-  regions. 136 The	
-  majority	
-  of	
-  stakeholders	
-  interviewed	
-  for	
-  the	
-  ESRI	
-  study	
-  felt that	
-  the	
-  way	
-  in	
-  which	
-  different	
-  parts	
-  of	
-  the	
-  FET	
-  sector	
-  had	
-  developed	
-  organically	
-  to	
-  serve	
-  different purposes	
-  had	
-  significant	
-  implications	
-  for	
-  the	
-  nature	
-  of	
-  current	
-  provision.	
-  Thus,	
-  many	
-  key stakeholders	
-  characterised	
-  the	
-  resulting	
-  landscape	
-  as	
-  being	
-  'fragmented'	
-  and	
-  'disjointed',	
-  with	
-  some duplication	
-  of	
-  provision	
-  across	
-  the	
-  sector.	
-  Provision	
-  was	
-  seen	
-  by	
-  many	
-  to	
-  be	
-  driven	
-  by	
-  the	
-  nature	
-  of supply	
-  'by	
-  who's	
-  already	
-  in	
-  place'	
-  as	
-  well	
-  as	
-  by	
-  the	
-  availability	
-  of	
-  European	
-  funding.	
-  As	
-  a	
-  result,	
-  many stakeholders	
-  felt	
-  that	
-  there	
-  was	
-  'a	
-  lack	
-  of	
-  structure	
-  and	
-  planning	
-  and	
-  coordination	
-  within	
-  the	
-  sector'.
+  also
 
 86
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
+varied substantially across regions. 136 The majority of stakeholders interviewed for the ESRI study felt that the way in which different parts of the FET sector had developed organically to serve different purposes had significant implications for the nature of current provision. Thus, many key stakeholders characterised the resulting landscape as being 'fragmented' and 'disjointed', with some duplication of provision across the sector. Provision was seen by many to be driven by the nature of supply 'by who's already in place' as well as by the availability of European funding. As a result, many stakeholders felt that there was 'a lack of structure and planning and coordination within the sector'.
 
 The	
   apparent	
@@ -27261,34 +26156,7 @@ In
   Ireland	
   since	
   2006. 141 Success	
-  of active	
-  inclusion	
-  and	
-  access	
-  to	
-  employment	
-  will	
-  depend	
-  on	
-  many	
-  individuals,	
-  particularly	
-  those	
-  with lower	
-  level	
-  skills,	
-  avoiding	
-  a	
-  'circular'	
-  move	
-  from	
-  jobless	
-  poverty	
-  to	
-  'in-­-work	
-  poverty'	
-  and	
-  back again. 142
+  of
 
 > ESF	
   representatives	
@@ -27492,6 +26360,7 @@ In
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
+active inclusion and access to employment will depend on many individuals, particularly those with lower level skills, avoiding a 'circular' move from jobless poverty to 'in-work poverty' and back again. 142
 
 #### 6.1.1 Equality
 
@@ -27749,19 +26618,7 @@ Under
   accumulation,	
   credit	
   transfer	
-  and identification,	
-  and	
-  formal	
-  assessment	
-  of	
-  the	
-  knowledge,	
-  skills	
-  or	
-  competence	
-  previously	
-  acquired	
-  by learners. 145
+  and
 
 > 142 Ibid.
 
@@ -27800,6 +26657,7 @@ Under
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
+identification, and formal assessment of the knowledge, skills or competence previously acquired by learners. 145
 
 Learners	
   themselves	
@@ -28079,50 +26937,7 @@ The
   this	
   latter	
   understanding	
-  that is	
-  used	
-  in	
-  the	
-  context	
-  of	
-  the	
-  FET	
-  Strategy,	
-  whereby	
-  FET	
-  can	
-  provide	
-  access	
-  to	
-  the	
-  skills	
-  necessary	
-  to improve	
-  the	
-  quality	
-  of	
-  employment	
-  and	
-  remuneration	
-  open	
-  to	
-  the	
-  individual,	
-  and	
-  thereby	
-  promote social	
-  mobility	
-  objectives	
-  that	
-  lie	
-  at	
-  the	
-  core	
-  of	
-  the	
-  Europe	
-  2020	
-  Strategy. 150
+  that
 
 > 145 QQI,	
   (2013),	
@@ -28299,6 +27114,7 @@ The
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
+is used in the context of the FET Strategy, whereby FET can provide access to the skills necessary to improve the quality of employment and remuneration open to the individual, and thereby promote social mobility objectives that lie at the core of the Europe 2020 Strategy. 150
 
 In	
   the	
@@ -28577,27 +27393,7 @@ A
   and	
   develop	
   skills	
-  and competence	
-  needed	
-  for	
-  their	
-  employability	
-  and	
-  foster	
-  further	
-  learning;	
-  enhancing	
-  creativity	
-  and innovation,	
-  including	
-  entrepreneurship,	
-  at	
-  all	
-  levels	
-  of	
-  education	
-  and	
-  training.
+  and
 
 > individual	
   characteristics	
@@ -28764,6 +27560,7 @@ A
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
+competence needed for their employability and foster further learning; enhancing creativity and innovation, including entrepreneurship, at all levels of education and training.
 
 The	
   FET	
@@ -29084,49 +27881,7 @@ The
   more	
   particularly	
   it	
-  assists thousands	
-  of	
-  individuals	
-  to	
-  progress	
-  their	
-  personal,	
-  career	
-  and	
-  employment	
-  aspirations.	
-  The	
-  success of	
-  community	
-  education	
-  and	
-  the	
-  literacy	
-  and	
-  numeracy	
-  strategy	
-  to	
-  deliver	
-  these	
-  outcomes	
-  for	
-  many individuals	
-  will	
-  be	
-  one	
-  of	
-  the	
-  best	
-  ways	
-  to	
-  judge	
-  the	
-  overall	
-  success	
-  of	
-  the	
-  FET	
-  Strategy.
+  assists
 
 > 157 AONTAS,	
   'What	
@@ -29170,6 +27925,7 @@ The
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+thousands of individuals to progress their personal, career and employment aspirations. The success of community education and the literacy and numeracy strategy to deliver these outcomes for many individuals will be one of the best ways to judge the overall success of the FET Strategy.
 
 #### 6.1.5 Disability Strategy
 
@@ -29429,54 +28185,7 @@ In
   'dis-­-quietening	
   phenomenon'	
   within	
-  education more	
-  generally,	
-  with	
-  'indications	
-  of	
-  public	
-  concern'	
-  around	
-  literacy	
-  and	
-  numeracy. 163 In	
-  1983,	
-  the Government	
-  established	
-  a	
-  Commission 164 on	
-  adult	
-  education.	
-  The	
-  'Kenny	
-  Report' Lifelong	
-  Learning was	
-  the	
-  first	
-  State	
-  report	
-  to	
-  have	
-  lifelong	
-  learning	
-  as	
-  a	
-  central	
-  theme,	
-  including	
-  the	
-  needs	
-  of	
-  adults with	
-  basic	
-  education	
-  needs.	
-  Again,	
-  this	
-  report	
-  had	
-  little	
-  impact.
+  education
 
 > 159 Educational	
   Research	
@@ -29570,6 +28279,7 @@ In
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
+more generally, with 'indications of public concern' around literacy and numeracy. 163 In 1983, the Government established a Commission 164 on adult education. The 'Kenny Report' Lifelong Learning was the first State report to have lifelong learning as a central theme, including the needs of adults with basic education needs. Again, this report had little impact.
 
 The	
   International	
@@ -30303,51 +29013,7 @@ Arising
   will	
   allow	
   for	
-  more informed	
-  decision-­-making	
-  with	
-  regard	
-  to	
-  the	
-  type	
-  of	
-  FET	
-  provision	
-  where	
-  embedding	
-  of	
-  literacy	
-  and numeracy	
-  education	
-  is	
-  the	
-  more	
-  appropriate	
-  and	
-  effective	
-  option.	
-  Additional	
-  funding	
-  may	
-  be required	
-  where	
-  embedding	
-  of	
-  literacy	
-  and	
-  numeracy	
-  is	
-  deemed	
-  appropriate.	
-  The	
-  budget	
-  therefore will	
-  be	
-  reviewed	
-  on	
-  an	
-  annual	
-  basis.
+  more
 
 > 168 DES	
   (2013),	
@@ -30410,6 +29076,8 @@ Arising
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+
+informed decision-making with regard to the type of FET provision where embedding of literacy and numeracy education is the more appropriate and effective option. Additional funding may be required where embedding of literacy and numeracy is deemed appropriate. The budget therefore will be reviewed on an annual basis.
 
 The	
   elements	
@@ -30833,7 +29501,7 @@ The
 
 [[START OF PAGE 103]]
 
-## Section 7 Employee Development and Enterpreneurship
+## Section 7 Employee Development and Entrepreneurship
 
 ### Key points in this Section
 
@@ -31002,41 +29670,15 @@ Much
   represents	
   the	
   only	
-  or most	
-  viable	
-  location	
-  to	
-  learn	
-  and/or	
-  develop	
-  their	
-  vocational	
-  practice. 172 More	
-  than	
-  'once-­-off' engagement	
-  in	
-  initial	
-  learning,	
-  or	
-  perfunctory	
-  participation	
-  in	
-  work	
-  practices,	
-  is	
-  increasingly	
-  becoming an	
-  on-­-going	
-  requirement	
-  to	
-  maintain	
-  competence.
+or
 
 102
 
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
+
+most viable location to learn and/or develop their vocational practice. 172 More than ‘once-off’ engagement in initial learning, or perfunctory participation in work practices, is increasingly becoming an on-going requirement to maintain competence.
 
 Time	
   and	
@@ -31278,80 +29920,7 @@ Consequently,
   a	
   shift	
   in	
-  attitude. 176 To	
-  this	
-  end, further	
-  research	
-  is	
-  warranted	
-  on	
-  formal	
-  recognition	
-  of	
-  workplace-­-learning	
-  and	
-  how	
-  it	
-  can	
-  be embedded	
-  in	
-  the	
-  FET	
-  system.	
-  In	
-  addition,	
-  there	
-  is	
-  a	
-  need	
-  to	
-  develop	
-  a	
-  suitable	
-  framework	
-  to understand	
-  and	
-  assess	
-  the	
-  quality	
-  of	
-  learning	
-  environments	
-  in	
-  the	
-  workplace	
-  as	
-  well	
-  as	
-  the	
-  incidence and	
-  type	
-  of	
-  FET-­-related	
-  education	
-  and	
-  training	
-  taking	
-  place	
-  in	
-  workplaces.	
-  The	
-  FET	
-  sector,	
-  through evidence-­-based	
-  data	
-  and	
-  intelligence,	
-  should	
-  identify	
-  evolving	
-  employee	
-  skill	
-  needs	
-  and	
-  monitor these	
-  changing	
-  needs.
+attitude. 176 To this end, further research is warranted on formal recognition of workplace-learning and how it can be embedded in the FET system. In addition, there is a need to develop a suitable framework to
 
 > 172 Billett,	
   S.	
@@ -31482,6 +30051,8 @@ Consequently,
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
+
+understand and assess the quality of learning environments in the workplace as well as the incidence and type of FET-related education and training taking place in workplaces. The FET sector, through evidence-based data and intelligence, should identify evolving employee skill needs and monitor these changing needs.
 
 The	
   FET	
@@ -31784,42 +30355,15 @@ According
   order	
   to	
   advance	
-  this concept,	
-  further	
-  new	
-  conceptualisations	
-  of	
-  RPL	
-  will	
-  need	
-  to	
-  be	
-  devised	
-  by	
-  QQI	
-  in	
-  collaboration	
-  with the	
-  FET	
-  sector	
-  taking	
-  account	
-  of	
-  best	
-  practice	
-  in	
-  that	
-  regard.	
-  See	
-  also	
-  section	
-  6.1.2.
+this
 
 104
 
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
+
+concept, further new conceptualisations of RPL will need to be devised by QQI in collaboration with the FET sector taking account of best practice in that regard. See also section 6.1.2.
 
 ### 7.3 Entrepreneurship and Self-­-employment Training
 
@@ -32343,35 +30887,7 @@ Levels
   access	
   courses	
   finalised	
-  new policy	
-  advice	
-  which	
-  recommended	
-  that	
-  new,	
-  enhanced	
-  partnership	
-  agreements	
-  should	
-  be	
-  developed between	
-  further	
-  and	
-  higher	
-  education	
-  providers	
-  on	
-  access	
-  provision	
-  and	
-  on	
-  routes	
-  of	
-  progression from	
-  further	
-  to	
-  higher	
-  education.
+new
 
 > 179 European	
   Access	
@@ -32447,6 +30963,8 @@ Levels
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
+
+policy advice which recommended that new, enhanced partnership agreements should be developed between further and higher education providers on access provision and on routes of progression from further to higher education.
 
 QQI	
   has	
@@ -32819,68 +31337,7 @@ At
   constitute	
   appropriate	
   pathways	
-  and address	
-  the	
-  real	
-  challenges	
-  that	
-  have	
-  been	
-  there	
-  for	
-  some	
-  time.	
-  It	
-  is	
-  important	
-  that	
-  SOLAS/ETBI	
-  and the	
-  ETB	
-  sector	
-  works	
-  closely	
-  with	
-  the	
-  HEA	
-  and	
-  QQI	
-  to	
-  take	
-  advantage	
-  of	
-  existing	
-  structures	
-  to,	
-  inter alia,	
-  deliver	
-  more	
-  seamless	
-  progression	
-  pathways	
-  for	
-  FET	
-  graduates	
-  and	
-  to	
-  learn	
-  at	
-  first	
-  hand	
-  from employers	
-  what	
-  their	
-  FET	
-  skills	
-  are	
-  and	
-  the	
-  effectiveness	
-  and	
-  relevance	
-  of	
-  FET	
-  programmes.
+and
 
 > 181 Europena	
   Access	
@@ -32906,6 +31363,8 @@ At
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
+
+address the real challenges that have been there for some time. It is important that SOLAS/ETBI and the ETB sector works closely with the HEA and QQI to take advantage of existing structures to, inter alia, deliver more seamless progression pathways for FET graduates and to learn at first hand from employers what their FET skills are and the effectiveness and relevance of FET programmes.
 
 In	
   addition	
@@ -33439,43 +31898,7 @@ There
   degree	
   be	
   relevant	
-  to delivering	
-  such	
-  programmes	
-  effectively. 188 With	
-  regard	
-  to	
-  staff	
-  deployment,	
-  the	
-  Section	
-  30 requirement	
-  may	
-  have	
-  the	
-  potential	
-  to	
-  curtail	
-  flexibility	
-  within	
-  the	
-  different	
-  ETB	
-  environments,	
-  some of	
-  which	
-  may	
-  or	
-  may	
-  not	
-  require	
-  staff	
-  to	
-  be	
-  qualified	
-  under	
-  Section	
-  30.
+to
 
 > 183 New	
   South	
@@ -33656,6 +32079,8 @@ There
 [[END OF PAGE 111]]
 
 [[START OF PAGE 112]]
+
+delivering such programmes effectively. 188 With regard to staff deployment, the Section 30 requirement may have the potential to curtail flexibility within the different ETB environments, some of which may or may not require staff to be qualified under Section 30.
 
 Those	
   involved	
@@ -34015,23 +32440,7 @@ With
   for	
   ETB/SOLAS	
   courses	
-  through a	
-  course	
-  recruitment	
-  system.	
-  Individuals	
-  can	
-  then	
-  be	
-  called	
-  for	
-  an	
-  interview	
-  to	
-  establish	
-  suitability	
-  for the	
-  course.
+through
 
 > 190 Guidance,	
   counselling	
@@ -34063,6 +32472,8 @@ With
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
+
+a course recruitment system. Individuals can then be called for an interview to establish suitability for the course.
 
 Both	
   the	
@@ -34381,27 +32792,7 @@ In
   practice	
   and	
   the	
-  development of	
-  career	
-  management	
-  skills. 192 Ireland	
-  is	
-  currently	
-  participating	
-  in	
-  this	
-  process	
-  and	
-  the	
-  findings	
-  can add	
-  to	
-  our	
-  understanding	
-  of	
-  what	
-  works	
-  best.
+development
 
 > 191 The	
   EU	
@@ -34527,6 +32918,8 @@ In
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+
+of career management skills. 192 Ireland is currently participating in this process and the findings can add to our understanding of what works best.
 
 From	
   submissions	
@@ -35373,24 +33766,7 @@ Current
   envisaged	
   that	
   funding	
-  for flexible	
-  delivery	
-  models,	
-  such	
-  as	
-  contracted	
-  training	
-  and	
-  Momentum	
-  will	
-  be	
-  continued	
-  as	
-  part	
-  of	
-  any new	
-  funding	
-  arrangements.
+for
 
 > 193 OECD	
   (2013),	
@@ -35503,6 +33879,8 @@ Current
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
+
+flexible delivery models, such as contracted training and Momentum will be continued as part of any new funding arrangements.
 
 Finally,	
   a	
@@ -35809,22 +34187,7 @@ There
   aim	
   is	
   to	
-  incorporate, as	
-  part	
-  of	
-  the	
-  PLC	
-  programme,	
-  more	
-  comprehensive,	
-  relevant	
-  and	
-  structured	
-  skills	
-  development opportunities	
-  in	
-  the	
-  workplace. 198
+incorporate,
 
 > propose	
   education	
@@ -35886,6 +34249,8 @@ There
 [[END OF PAGE 118]]
 
 [[START OF PAGE 119]]
+
+as part of the PLC programme, more comprehensive, relevant and structured skills development opportunities in the workplace. 198
 
 A	
   significant	
@@ -36444,36 +34809,15 @@ Sections
   as	
   well	
   as	
-  the five	
-  strategic	
-  goals	
-  and	
-  their	
-  associated	
-  objectives.	
-  	
-  The	
-  goals	
-  and	
-  objectives	
-  are	
-  subsequently	
-  framed to	
-  develop	
-  a	
-  detailed	
-  implementation	
-  plan	
-  for	
-  the	
-  overall	
-  Strategy.
+the
 
 119
 
 [[END OF PAGE 120]]
 
 [[START OF PAGE 121]]
+
+five strategic goals and their associated objectives. The goals and objectives are subsequently framed to develop a detailed implementation plan for the overall Strategy.
 
 ### 12.1 Core	
   Principles	
@@ -36792,200 +35136,30 @@ There
 
 [[START OF PAGE 122]]
 
-Strategic	
---- | ---
-  Goals | Strategic	
-  	
-  Objectives
-Skills	
-  for	
-  the	
-  Economy	
-   The	
-  aim	
-  of	
-  this	
-  goal	
-  is	
-  that	
-  FET	
-   will	
-  address	
-  current	
-  and	
-  future	
-   needs	
-  of	
-  learners,	
-  jobseekers,	
-   employers	
-  and	
-  employees	
-  and	
-   will	
-  contribute	
-  to	
-  national	
-   economic	
-  development | Strategic	
-  Objective	
-  1	
-  -­-	
-  Install	
-  an	
-  appropriate	
-  advisory	
-   infrastructure	
-  to	
-  ensure	
-  that	
-  the	
-  relevant	
-  provision	
-  is	
-  informed	
-   directly	
-  by	
-  employers	
-  and	
-  reflects/responds	
-  to	
-  emerging	
-  labour	
-   market	
-  challenges.	
-   Strategic	
-  Objective	
-  2	
-  -	
-  Provide	
-  further	
-  education	
-  and	
-  training	
-   programmes	
-  for	
-  a	
-  diverse	
-  range	
-  of	
-  individuals	
-  with	
-  a	
-  particular	
-   focus	
-  on	
-  long-­-term	
-  unemployed	
-  people	
-  and	
-  unemployed	
-  young	
-   people.	
-   Strategic	
-  Objective	
-  3	
-  -­-	
-  Implement	
-  the	
-  new	
-  apprenticeship	
-  system.	
-   Strategic	
-  Objective	
-  4	
-  -	
-  Provide	
-  further	
-  education	
-  and	
-  training	
-   programmes	
-  for	
-  employees	
-  supported	
-  by	
-  a	
-  new	
-  FET	
-  employee	
-   development	
-  strategy.	
-  	
-   Strategic	
-  Objective	
-  5	
-  -	
-  Provide	
-  further	
-  education	
-  and	
-  training	
-   programmes	
-  to	
-  assist	
-  people	
-  to	
-  start	
-  and	
-  sustain	
-  their	
-  own	
-   business.
-Active	
-  Inclusion	
-   The	
-  aim	
-  of	
-  this	
-  goal	
-  is	
-  that	
-  FET	
-   provision	
-  will	
-  support	
-  the	
-  active	
-   inclusion	
-  of	
-  people	
-  of	
-  all	
-  abilities	
-   in	
-  society	
-  with	
-  special	
-  reference	
-   to	
-  literacy	
-  and	
-  numeracy | Strategic	
-  Objective	
-  1	
-  -	
-  Support	
-  Active	
-  Inclusion	
-  across	
-  FET.	
-   Strategic	
-  Objective	
-  2	
-  -	
-  Devise	
-  and	
-  implement	
-  a	
-  strategy	
-  to	
-   promote	
-  literacy	
-  and	
-  numeracy	
-  across	
-  FET.
+Strategic Goals
+Strategic Objectives
+
+Skills for the Economy
+
+The aim of this goal is that FET will address current and future needs of learners, jobseekers, employers and employees and will contribute to national economic development
+
+Strategic Objective 1 - Install an appropriate advisory infrastructure to ensure that the relevant provision is informed directly by employers and reflects/responds to emerging labour market challenges.
+
+Strategic Objective 2 – Provide further education and training programmes for a diverse range of individuals with a particular focus on long-term unemployed people and unemployed young people.
+
+Strategic Objective 3 - Implement the new apprenticeship system.
+
+Strategic Objective 4 – Provide further education and training programmes for employees supported by a new FET employee development strategy.
+
+Strategic Objective 5 – Provide further education and training programmes to assist people to start and sustain their own business.
+
+Active Inclusion
+
+The aim of this goal is that FET provision will support the active inclusion of people of all abilities in society with special reference to literacy and numeracy
+
+Strategic Objective 1 – Support Active Inclusion across FET.
+
+Strategic Objective 2 – Devise and implement a strategy to promote literacy and numeracy across FET.
 
 121
 
@@ -36993,258 +35167,42 @@ Active
 
 [[START OF PAGE 123]]
 
-Strategic	
---- | ---
-  Goals | Strategic	
-  	
-  Objectives
-Quality	
-  Provision | Strategic	
-  Objective	
-  1	
-  -	
-  Respond	
-  to	
-  the	
-  needs	
-  of	
-  learners.
-The	
-  aim	
-  of	
-  this	
-  goal	
-  is	
-  that	
-  FET	
-   will	
-  provide	
-  high	
-  quality	
-   education	
-  and	
-  training	
-   programmes	
-  and	
-  will	
-  meet	
-   appropriate	
-  national	
-  and	
-   international	
-  quality	
-  standards | Strategic	
-  Objective	
-  2	
-  -	
-  Ensure	
-  excellence	
-  in	
-  FET	
-  programme	
-   development.	
-   Strategic	
-  Objective	
-  Action	
-  3	
-  -­-	
-  Upgrade	
-  the	
-  guidance	
-  service	
-  within	
-   FET	
-  and	
-  extend	
-  it	
-  to	
-  all	
-  who	
-  engage	
-  with	
-  FET,	
-  including	
-   employees.	
-   Strategic	
-  Objective	
-  4	
-  -­-	
-  Develop	
-  standards	
-  for	
-  staff	
-  qualifications	
-  in	
-   the	
-  FET	
-  sector.	
-   Strategic	
-  Objective	
-  5	
-  -	
-  Provide	
-  effective	
-  pathways	
-  for	
-  FET	
-   graduates	
-  to	
-  Levels	
-  7	
-  and	
-  8	
-  within	
-  the	
-  higher	
-  education	
-  sector.
-Integrated	
-  Planning	
-  and	
-   Funding	
-   The	
-  aim	
-  of	
-  this	
-  goal	
-  is	
-  that	
-  FET	
-   provision	
-  will	
-  be	
-  planned	
-  and	
-   funded	
-  on	
-  the	
-  basis	
-  of	
-  objective	
-   analysis	
-  of	
-  needs	
-  and	
-  evidence	
-   of	
-  social	
-  and	
-  economic	
-  impact | Strategic	
-  Objective	
-  1	
-  -­-	
-  Implement	
-  a	
-  new	
-  integrated	
-  and	
-  co-­- ordinated	
-  FET	
-  planning	
-  model.	
-  	
-   Strategic	
-  Objective	
-  2	
-  -­-	
-  Develop	
-  and	
-  install	
-  a	
-  'fit-­-for-­-purpose'	
-  data	
-   infrastructure	
-  to	
-  support	
-  FET	
-  policy	
-  and	
-  provision.	
-   Strategic	
-  Objective	
-  3	
-  -	
-  Introduce	
-  performance-­-related	
-  funding	
-   (appropriate	
-  to	
-  the	
-  type	
-  of	
-  FET	
-  provision	
-  and	
-  defined	
-  strategic	
-   outcomes).	
-   Strategic	
-  Objective	
-  4	
-  -­-	
-  Evaluate	
-  the	
-  effectiveness	
-  of	
-  all	
-  current	
-  FET	
-   provision.
-Standing	
-  of	
-  FET	
-   The	
-  aim	
-  of	
-  this	
-  goal	
-  is	
-  to	
-  ensure	
-   a	
-  valued	
-  learning	
-  path	
-  leading	
-   to	
-  agreed	
-  employment,	
-  career	
-   developmental,	
-  personal	
-  and | Strategic	
-  Objective	
-  1	
-  -	
-  Promote	
-  and	
-  provide	
-  high	
-  quality	
-  FET	
-   responsive	
-  to	
-  the	
-  needs	
-  of	
-  industry	
-  and	
-  learners.	
-   Strategic	
-  Objective	
-  2	
-  -	
-  Conduct	
-  an	
-  economic	
-  and	
-  social	
-  impact	
-   study	
-  of	
-  each	
-  ETB.
+Strategic Goals
+Strategic Objectives
+
+Quality Provision
+
+The aim of this goal is that FET will provide high quality education and training programmes and will meet appropriate national and international quality standards
+
+Strategic Objective 1 – Respond to the needs of learners.
+
+Strategic Objective 2 – Ensure excellence in FET programme development.
+
+Strategic Objective Action 3 - Upgrade the guidance service within FET and extend it to all who engage with FET, including employees.
+
+Strategic Objective 4 - Develop standards for staff qualifications in the FET sector.
+
+Strategic Objective 5 – Provide effective pathways for FET graduates to Levels 7 and 8 within the higher education sector.
+
+Integrated Planning and Funding
+
+The aim of this goal is that FET provision will be planned and funded on the basis of objective analysis of needs and evidence of social and economic impact
+
+Strategic Objective 1 - Implement a new integrated and co-ordinated FET planning model.
+
+Strategic Objective 2 - Develop and install a ‘fit-for-purpose’ data infrastructure to support FET policy and provision.
+
+Strategic Objective 3 – Introduce performance-related funding (appropriate to the type of FET provision and defined strategic outcomes).
+
+Strategic Objective 4 - Evaluate the effectiveness of all current FET provision.
+
+Standing of FET
+
+The aim of this goal is to ensure a valued learning path leading to agreed employment, career developmental, personal and social options.
+
+Strategic Objective 1 – Promote and provide high quality FET responsive to the needs of industry and learners.
+
+Strategic Objective 2 – Conduct an economic and social impact study of each ETB.
 
 122
 
@@ -37887,87 +35845,54 @@ Some
 
 Diagram 1: FET Strategy Diagram
 
-- ǁŽƌůĚ ĐůĂƐƐ ŝŶƚĞŐƌĂƚĞĚ & d ƐǇƐƚĞŵ͕ ŚŝŐŚůǇ ǀĂůƵĞĚ ďǇ ůĞĂƌŶĞƌƐ ĂŶĚ ĞŵƉůŽǇĞƌƐ͕ ǁŚĞƌĞ Ă ŚŝŐŚĞƌ ƉƌŽƉŽƌƟŽŶ ŽĨ ƚŚŽƐĞ ǁŚŽ ĞŶŐĂŐĞ ŝŶ & d ŝŶĐůƵĚŝŶŐ ƚŚŽƐĞ ǁŝƚŚ
+FET Vision
 
-ďĂƌƌŝĞƌƐ ƚŽ ƉĂƌƟĐŝƉĂƟŽŶ͕ ƐƵĐŚ ĂƐ ƉĞƌƐŽŶƐ ǁŝƚŚ Ă ĚŝƐĂďŝůŝƚǇ ĂƐ ǁĞůů ĂƐ ĐƵƌƌĞŶƚ ƉƌŝŽƌŝƚǇ ĐŽŚŽƌƚƐ ŝĚĞŶƟĮĞĚ ďǇ  ^W ƐƵĐŚ ĂƐ ůŽŶŐ ƚĞƌŵ ƵŶĞŵƉůŽǇĞĚ ƉĞƌƐŽŶƐ͕ ƐƚĂǇ ĞŶŐĂŐĞĚ͕ ĐŽŵƉůĞƚĞ ƋƵĂůŝĮĐĂƟŽŶƐ͕ ƚƌĂŶƐŝƟŽŶ ƐƵĐĐĞƐƐĨƵůůǇ ŝŶƚŽ ĞŵƉůŽǇŵĞŶƚ Žƌ͕ ǁŚĞƌĞ ĂƉƉƌŽƉƌŝĂƚĞ ŵŽǀĞ ŝŶƚŽ ŚŝŐŚĞƌ ůĞǀĞů ƋƵĂůŝĮĐĂƟŽŶƐ ŝŶ & d Žƌ , d
+A world class integrated FET system, highly valued by learners and employers, where a higher proportion of those who engage in FET including those with barriers to participation, such as persons with a disability as well as current priority cohorts identified by DSP such as long term unemployed persons, stay engaged, complete qualifications, transition successfully into employment or, where appropriate move into higher level qualifications in FET or HET
 
-E &/d^ K& & d
+FET MISSION
 
-KZ  WZ/E /W> ^
+Enable individuals and communities to achieve their developmental, personal, social, career and employment aspirations
 
-& d D/^^/KE
-
-- Ͳ ŽŶƐŝƐƚĞŶƚůǇ ŚŝŐŚ ƋƵĂůŝƚǇ ĞĚƵĐĂƟŽŶ ĂŶĚ ƚƌĂŝŶŝŶŐ
+CORE PRINCIPLES
 
 - Learner and employer centred
+- Evidence-based FET policy and practice
+- Employment focussed and actively inclusive
+- Responsive, flexible, innovative and high quality provision
+- Consultative and collaborative
+- Transparent and accountable
+- Value for money
 
-Enable individuals and
+BENEFITS OF FET
 
--Learner and employer centred
+- Consistently high quality education and training
+- Learner and employer centred
+- High job placement, good progression options
+- Flexible and cost effective
+- Barrier free access
+- Person centred supports
 
-- Ͳ    ǀŝĚĞŶĐĞͲďĂƐĞĚ & d ƉŽůŝĐǇ ĂŶĚ ƉƌĂĐƟĐĞ
+How will we get there?
 
-- ĐŽŵŵƵŶŝƟĞƐ ƚŽ ĂĐŚŝĞǀĞ ƚŚĞŝƌ
+Strategic Goal 1
+Skills for the Economy
 
-- Ͳ ,ŝŐŚ ũŽď ƉůĂĐĞŵĞŶƚ͕ ŐŽŽĚ ƉƌŽŐƌĞƐƐŝŽŶ ŽƉƟŽŶƐ
+Strategic Goal 2
+Active Inclusion,
+Literacy and Numeracy
+Strategy
 
-- Ͳ    ŵƉůŽǇŵĞŶƚ ĨŽĐƵƐƐĞĚ ĂŶĚ ĂĐƟǀĞůǇ ŝŶĐůƵƐŝǀĞ
+Strategic Goal 3
+Quality Provision
 
-developmental, personal, social,
-
-& d sŝƐŝŽŶ
-
-&ůĞǆŝďůĞ ĂŶĚ ĐŽƐƚ ĞīĞĐƟǀĞ
-
-Ͳ
-
-- Ͳ   ZĞƐƉŽŶƐŝǀĞ͕ ŇĞǆŝďůĞ͕ ŝŶŶŽǀĂƟǀĞ ĂŶĚ ŚŝŐŚ ƋƵĂůŝƚǇ ƉƌŽǀŝƐŝŽŶ
-
-- career and employment
-
-- Ͳ ĂƌƌŝĞƌ ĨƌĞĞ ĂĐĐĞƐƐ
-
-- Ͳ    ŽŶƐƵůƚĂƟǀĞ ĂŶĚ ĐŽůůĂďŽƌĂƟǀĞ
-
-ĂƐƉŝƌĂƟŽŶƐ
-
-- Ͳ WĞƌƐŽŶ ĐĞŶƚƌĞĚ ƐƵƉƉŽƌƚƐ
-
-Transparent and accountable
-
--
-
-- Ͳ sĂůƵĞ ĨŽƌ ŵŽŶĞǇ
-
-,Žǁ ǁŝůů ǁĞ ŐĞƚ ƚŚĞƌĞ͍
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϱ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϰ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϯ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů Ϯ
-
-^ƚƌĂƚĞŐŝĐ 'ŽĂů ϭ
-
-^ƚĂŶĚŝŶŐ ŽĨ & d
-
-/ŶƚĞŐƌĂƚĞĚ WůĂŶŶŝŶŐ
-
-YƵĂůŝƚǇ WƌŽǀŝƐŝŽŶ
-
-ĐƟǀĞ /ŶĐůƵƐŝŽŶ͕
-
-^ŬŝůůƐ ĨŽƌ ƚŚĞ  ĐŽŶŽŵǇ
-
+Strategic Goal 4
+Integrated Planning
 and Funding
 
-- Literacy and Numeracy
+Strategic Goal 5
+Standing of FET
 
-^ƚƌĂƚĞŐǇ
-
-/ŵƉůĞŵĞŶƚĂƟŽŶ WůĂŶ
+Implementation Plan
 
 125
 
@@ -37975,184 +35900,107 @@ and Funding
 
 [[START OF PAGE 127]]
 
-Diagram	
-  2:	
-  	
-  Examples	
-  of	
-  alternative	
-  skills	
-  paths	
-  through	
-  FET
+Diagram 2: Examples of alternative skills paths through FET
 
+Example 1
 Employee
 
+Example 2
 School Leaver
 
+Example 3
 Person who has completed
+Community Education course
 
-ŽŵŵƵŶŝƚǇ  ĚƵĐĂƟŽŶ ĐŽƵƌƐĞ
-
+Example 4
 Long term unemployed person
 
-Blended Learning
-
-(Teacher,
-
-Instructor-led
-
-& Online)
-
-Online Modules (s)
-
-or Full Course
-
-&ƵůůͲƟŵĞ  ĂǇ
-
-Teacher,
-
-Instructor-led course
-
-&ƵůůͲƟŵĞ  ĂǇ
-
-Teacher,
-
-Instructor-led course
-
-Module(s) Evening
-
-Teacher,
-
-Instructor-led course
-
-ICT
-
-B FET
-
-provision
-
-C FET
-
-provision
-
-D FET
-
-provision
-
-E FET
-
-provision
-
-F FET
-
-provision
-
-Business
-
-Admin
-
-Healthcare
-
-Built
-
-Environ
-
-/ĚĞŶƟĮĐĂƟŽŶ ŽĨ ^Ŭŝůů EĞĞĚƐ
-
-In-company
-
-Training
-
-Employment
-
-Progression to higher/
-
-ĨƵƌƚŚĞƌ ĞĚƵĐĂƟŽŶ
-
-and training
-
-/ĚĞŶƟĮĐĂƟŽŶ ŽĨ  ĚƵĐĂƟŽŶ
-
-Training Supports
-
-/ŶŝƟĂů ĂĐĐƌĞĚŝƚĞĚ & d ;ůĞǀĞůƐ ϭͲϯͿ
-
+Career Guidance
 RPL Request
 
-Career Guidance
+Identification of Skill Needs
 
-; ŵƉůŽǇĞĞͿ ƐŬŝůůƐ ĂŶĚ
+Identification of Education
+Training Supports
 
-ƋƵĂůŝĮĐĂƟŽŶƐ ƚŽ ƐƵƐƚĂŝŶ
-
-current  employment
+Initial accredited FET (levels 1-3)
 
 New Planning & Funding Model
 
 FET provision and
-
-YƵĂůŝĮĐĂƟŽŶƐ
-
+Qualifications
 informed by
-
 Labour Market
-
 Intelligence
 
 Delivery of FET
-
 programme
 
 One or a
-
-ĐŽŵďŝŶĂƟŽŶ ŽĨ
-
+combination of
 formats
 
 Embedded/stand
-
 alone Literacy and
-
 Numeracy as
-
 appropriate
 
-,ŝŐŚůǇ ƋƵĂůŝĮĞĚ
+Highly qualified
+staff
 
-ƐƚĂī
+ICT
 
-Example 1
+B FET provision
 
-Example 2
+C FET provision
 
-Example 3
+D FET provision
 
-Example 4
+E FET provision
 
-ϭ
+F FET provision
 
-2
+Business Admin
 
-ϯ
+Healthcare
 
-4
+Built Environ
 
-5
+Blended Learning
+(Teacher,
+Instructor-led
+& Online)
 
-6
+Online Modules (s)
+or Full Course
 
-7
+Full-time Day
+Teacher,
+Instructor-led course
 
-8
+Full-time Day
+Teacher,
+Instructor-led course
 
-9
+Module(s) Evening
+Teacher,
+Instructor-led course
 
-ϭϬ
+In-company
+Training
 
-EY&
+(Employee) skills and
+qualifications to sustain
+current employment
 
-LEVELS
+Employment
+
+Progression to higher/
+further education
+and training
+
+NFQ LEVELS
+1 2 3 4 5 6 7 8 9 10
 
 126
 
@@ -39497,7 +37345,9 @@ Develop
   DJEI,	
    Trade	
   Unions,	
-  Forfas,
+ Forfas,
+ ESRI,
+ IITD.
 Through	
   ETBI,	
   the	
@@ -39566,181 +37416,20 @@ Ensure
 
 [[START OF PAGE 134]]
 
-Proposed	
---- | --- | ---
-  Action	
-  -Timeline	
-  2015 | Suggested	
-   Lead | Suggested	
-  Support
-Review	
-  current	
-  provision	
-  and	
-  develop	
-  new	
-  further	
-   education	
-  and	
-  training	
-  programmes	
-  and	
-  services	
-  to	
-   meet	
-  the	
-  needs	
-  of	
-  learners	
-  and	
-  employers	
-  at	
-  local	
-  level	
-   and	
-  in	
-  particular	
-  for	
-  long-­-term	
-  unemployed	
-  people	
-  and	
-   unemployed	
-  young	
-  people. | ETBs | QQI,	
-  DSP,	
-  IDA/EI,	
-  DJEI,	
-   DES,	
-  ICTU,	
-  Local	
-   Authorities,	
-  Employers'	
-   Associations	
-  (such	
-  as	
-   IBEC,	
-  ISME	
-  and	
-  CIF),	
-   Forfas,	
-  ESRI,	
-  EGFSN,
-Review	
-  and	
-  develop	
-  national	
-  further	
-  education	
-  and	
-   training	
-  programmes,	
-  where	
-  appropriate	
-  to	
-  meet	
-  the	
-   emerging	
-  needs	
-  of	
-  the	
-  economy	
-  with	
-  emphasis	
-  on	
-   potential	
-  growth	
-  areas. | SOLAS
-Provide	
-  an	
-  integrated	
-  guidance	
-  service	
-  to	
-  improve	
-  the	
-   matching	
-  of	
-  people	
-  to	
-  the	
-  most	
-  suitable	
-  and	
-  relevant	
-   learning	
-  opportunity. | DSP/DES | ETBs	
-  (AEGI),	
-  NCGE,	
-   SOLAS,	
-  ETBs,	
-  Intreo.
+#### Strategic Objective 1.2: Provide further education and training programmes for a diverse range of individuals including unemployed people and particularly long-term unemployed and young unemployed people.
 
-#### Strategic Objective 1.2: Provide further education and training programmes for a diverse range of individuals including unemployed people and particularly long-­-term unemployed and young unemployed people.
-
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2014-­-2018 | Suggested	
-   Lead | Suggested	
-  Support
-Establish	
-  new	
-  models	
-  of	
-  work-­-based	
-  training	
-  within	
-  FET	
-   which	
-  advances	
-  	
-  the	
-  recommendations	
-  of	
-  	
-  the	
-  DES	
-   Apprentice	
-  Review. | SOLAS | DES,	
-  ETBs,	
-  HEA,	
-  IBEC,	
-   ISME,	
-  CIF,	
-  ICTU,	
-  CIF,	
-   HSE,	
-  Craft	
-  Council,	
-   Failte	
-  Ireland,	
-  Skillnet,	
-   FIT,	
-  QQI,	
-  IDA,	
-  EI.
-Align	
-  existing	
-  apprenticeship	
-  programmes,	
-  where	
-   appropriate,	
-  to	
-  advance	
-  the	
-  recommendations	
-  of	
-  	
-  the	
-   DES	
-  Apprentice	
-  Review. | SOLAS | HEA,	
-  QQI
+| Proposed Action –Timeline 2015 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Review current provision and develop new further education and training programmes and services to meet the needs of learners and employers at local level and in particular for long-term unemployed people and unemployed young people. | ETBs | QQI, DSP, IDA/EI, DJEI, DES, ICTU, Local Authorities, Employers' Associations (such as IBEC, ISME and CIF), Forfas, ESRI, EGFSN, NESC, OECD, IITD, INOU |
+| Review and develop national further education and training programmes, where appropriate to meet the emerging needs of the economy with emphasis on potential growth areas. | SOLAS | |
+| Provide an integrated guidance service to improve the matching of people to the most suitable and relevant learning opportunity. | DSP/DES | ETBs (AEGI), NCGE, SOLAS, ETBs, Intreo. |
 
 #### Strategic Objective 1.3: Implement new apprenticeship system.
+
+| Proposed Action – Timeline 2014-2018 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Establish new models of work-based training within FET which advances the recommendations of the DES Apprentice Review. | SOLAS | DES, ETBs, HEA, IBEC, ISME, CIF, ICTU, CIF, HSE, Craft Council, Failte Ireland, Skillnet, FIT, QQI, IDA, EI. |
+| Align existing apprenticeship programmes, where appropriate, to advance the recommendations of the DES Apprentice Review. | SOLAS | HEA, QQI |
 
 133
 
@@ -39748,129 +37437,17 @@ Align
 
 [[START OF PAGE 135]]
 
-Proposed	
---- | --- | ---
-  Action	
-  -Timeline	
-  2015 | Suggested	
-   Lead | Suggested	
-  Support
-Determine	
-  the	
-  nature,	
-  appropriateness	
-  and	
-  incidence	
-  of	
-   employee	
-  development	
-  on	
-  an	
-  annual	
-  basis	
-  and	
-  use	
-   findings	
-  to	
-  inform	
-  FET	
-  provision. | SOLAS | NESC,	
-  ESRI,	
-  Employers'	
-   Associations	
-  (such	
-  as	
-   IBEC,	
-  ISME	
-  and	
-  CIF)	
-   Skillnets,	
-  FIT,	
-  ICTU	
-   DJEI,	
-  DES
-Identify	
-  barriers	
-  to	
-  employee	
-  development	
-  and	
-  research	
-   strategies	
-  to	
-  address	
-  same. | OECD,	
-  ETBs,	
-  DSP,	
-  IDA,	
-  EI,	
-   Local	
-  Authorities,	
-  IITD.
+#### Strategic Objective 1.4: Provide further education and training programmes for employees supported by a new FET employee development strategy.
 
-#### Strategic Objective 1.4 : Provide further education and training programmes for employees supported by a new FET employee development strategy.
-
-Proposed	
---- | --- | ---
-  Action	
-  -Timeline	
-  2015 | Suggested	
-   Lead | Suggested	
-  Support
-Ensure	
-  that	
-  further	
-  education	
-  and	
-  training	
-  programmes	
-   are	
-  developed	
-  in	
-  line	
-  with	
-  the	
-  needs	
-  of	
-  entrepreneurs. | SOLAS/ETBs | NESC,	
-  ESRI,	
-  Employers'	
-   Associations	
-  (such	
-  as	
-   IBEC,	
-  ISME	
-  and	
-  CIF),
-Identify	
-  best	
-  practice	
-  education	
-  and	
-  training	
-  for	
-   entrepreneurship,	
-  and	
-  develop	
-  strategies	
-  to	
-  implement	
-   same. | Skillnets,	
-  FIT,	
-  QQI,	
-  ICTU,	
-   OECD,	
-  ETBs,	
-  DSP,	
-  IDA,	
-  EI,	
-   DJEI,	
-  DES,	
-  IITD	
-  Local	
-   Authorities.
+| Proposed Action –Timeline 2015 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Determine the nature, appropriateness and incidence of employee development on an annual basis and use findings to inform FET provision. Identify barriers to employee development and research strategies to address same. | SOLAS | NESC, ESRI, Employers' Associations (such as IBEC, ISME and CIF) Skillnets, FIT, ICTU OECD, ETBs, DSP, IDA, EI, DJEI, DES Local Authorities, IITD. |
 
 #### Strategic Objective 1.5: Provide further education and training programmes to assist people to start and sustain their own business.
+
+| Proposed Action –Timeline 2015 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Ensure that further education and training programmes are developed in line with the needs of entrepreneurs. Identify best practice education and training for entrepreneurship, and develop strategies to implement same. | SOLAS/ETBs | NESC, ESRI, Employers' Associations (such as IBEC, ISME and CIF), Skillnets, FIT, QQI, ICTU, OECD, ETBs, DSP, IDA, EI, DJEI, DES, IITD Local Authorities. |
 
 134
 
@@ -39899,134 +37476,13 @@ Identify
   and	
   numeracy.
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2015	
-  -­-	
-  2017 | Suggested	
-   Lead | Suggested	
-  Support
-Ensure	
-  equality	
-  of	
-  opportunity	
-  and	
-  access	
-  to	
-  FET	
-  and	
-   equal	
-  treatment	
-  of	
-  learners	
-  by	
-  identifying	
-  strategies	
-  to	
-   address	
-  psychological,	
-  social	
-  and	
-  economic	
-  barriers	
-  to	
-   participation	
-  of	
-  groups	
-  experiencing	
-  socio-­-economic	
-   exclusion/distance	
-  from	
-  the	
-  labour	
-  market. | DSP/ETBs | DES,	
-  DSP,	
-  ETBI/ETBs,	
-   SOLAS,	
-  Skillnets,	
-  Pobal,	
-   AONTAS,	
-  Employers,	
-   Trade	
-  Unions,	
-  Equality	
-   Authority,	
-  NDA,	
-  NALA.
-Ensure	
-  that	
-  FET	
-  serves	
-  the	
-  needs	
-  of	
-  priority	
-  cohorts	
-   identified	
-  by	
-  DSP	
-  including	
-  LTU	
-  people,	
-  young	
-  people,	
-   lone	
-  parents	
-  etc,	
-  and	
-  that	
-  these	
-  individuals	
-  are	
-   guided,	
-  supported	
-  and	
-  matched	
-  to	
-  the	
-  most	
-   appropriate/suitable	
-  FET	
-  programmes	
-  and	
-  services. | DSP/ETBs/	
-   SOLAS | AEGI,	
-  ETBI,	
-  LCDPs,	
-  FIT,	
-   NALA,	
-  Intreo.
-Agree,	
-  develop	
-  and	
-  implement	
-  a	
-  QQI	
-  approved	
-  RPL	
-   system	
-  for	
-  FET	
-  provision. | QQI | DES,	
-  SOLAS,	
-  HEA,	
-  HEIs	
-   ETBs,	
-  ETBI,	
-  DSP,	
-  Aontas,	
-   INOU,	
-  Youth	
-  Council	
-  of	
-   Ireland,	
-  Employers'	
-   Associations.
-
 #### Strategic Objective 2.1: Support Active Inclusion across FET.
+
+| Proposed Action – Timeline 2015 - 2017 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Ensure equality of opportunity and access to FET and equal treatment of learners by identifying strategies to address psychological, social and economic barriers to participation of groups experiencing socio-economic exclusion/distance from the labour market. | DSP/ETBs | DES, DSP, ETBI/ETBs, SOLAS, Skillnets, Pobal, AONTAS, Employers, Trade Unions, Equality Authority, NDA, NALA. |
+| Ensure that FET serves the needs of priority cohorts identified by DSP including LTU people, young people, lone parents etc, and that these individuals are guided, supported and matched to the most appropriate/suitable FET programmes and services. | DSP/ETBs/SOLAS | AEGI, ETBI, LCDPs, FIT, NALA, Intreo. |
+| Agree, develop and implement a QQI approved RPL system for FET provision. | QQI | DES, SOLAS, HEA, HEIs ETBs, ETBI, DSP, Aontas, INOU, Youth Council of Ireland, Employers' Associations. |
 
 135
 
@@ -40034,148 +37490,14 @@ Agree,
 
 [[START OF PAGE 137]]
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2015	
-  -­-	
-  2019 | Suggested	
-   Lead | Suggested	
-  Support
-Improve	
-  literacy	
-  and	
-  numeracy	
-  levels	
-  amongst	
-  the	
-  adult	
-   population	
-  with	
-  a	
-  particular	
-  focus	
-  on	
-  providing	
-   individuals	
-  with	
-  the	
-  necessary	
-  competencies	
-  to	
-  achieve	
-   their	
-  personal,	
-  social,	
-  career	
-  and	
-  employment	
-   aspirations	
-  by	
-  promoting	
-  literacy	
-  and	
-  numeracy	
-   provision. | SOLAS | NALA,	
-  AONTAS,	
-  ICTU,	
-   IBEC,	
-  DES,	
-  DSP,	
-  ETBI,	
-   ETBs,	
-  LCDPs.
-Support	
-  FET	
-  staff	
-  through	
-  CPD	
-  to	
-  attain	
-  the	
-  necessary	
-   knowledge,	
-  skills	
-  and	
-  competence	
-  to	
-  respond	
-   effectively	
-  to	
-  the	
-  literacy	
-  and	
-  numeracy	
-  needs	
-  of	
-   learners	
-  and	
-  provide	
-  intensive	
-  literacy	
-  tuition. | ETBs/ETBI | NALA,	
-  FESS,	
-  SOLAS.
-Embed	
-  literacy	
-  and	
-  numeracy	
-  within	
-  FET	
-  provision	
-  as	
-  	
-   appropriate,	
-  and	
-  conduct	
-  research	
-  to	
-  identify	
-  best	
-   practice	
-  models	
-  across	
-  all	
-  FET	
-  levels	
-  and	
-  settings. | SOLAS | NALA,	
-  ETBI,	
-  ETBs,	
-  FESS,	
-   DES,	
-  QQI.
-Set	
-  appropriate	
-  targets	
-  and	
-  objectives	
-  for	
-  literacy	
-  and	
-   numeracy	
-  programmes	
-  (with	
-  regard	
-  to	
-  priority	
-  target	
-   groups)	
-  and	
-  monitor	
-  and	
-  evaluate	
-  against	
-  the	
-  agreed	
-   objectives. | SOLAS | DES,	
-  NALA,	
-  Aontas,	
-  ETBs.
-
 #### Strategic Objective 2.2: Devise and Implement a strategy to promote literacy and numeracy across FET.
+
+| Proposed Action – Timeline 2015 - 2019 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Improve literacy and numeracy levels amongst the adult population with a particular focus on providing individuals with the necessary competencies to achieve their personal, social, career and employment aspirations by promoting literacy and numeracy provision. | SOLAS | NALA, AONTAS, ICTU, IBEC, DES, DSP, ETBI, ETBs, LCDPs. |
+| Support FET staff through CPD to attain the necessary knowledge, skills and competence to respond effectively to the literacy and numeracy needs of learners and provide intensive literacy tuition. | ETBs/ETBI | NALA, FESS, SOLAS. |
+| Embed literacy and numeracy within FET provision as appropriate, and conduct research to identify best practice models across all FET levels and settings. | SOLAS | NALA, ETBI, ETBs, FESS, DES, QQI. |
+| Set appropriate targets and objectives for literacy and numeracy programmes (with regard to priority target groups) and monitor and evaluate against the agreed objectives. | SOLAS | DES, NALA, Aontas, ETBs. |
 
 136
 
@@ -40515,108 +37837,17 @@ Ensure
 
 [[START OF PAGE 140]]
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2014-­-2019 | Suggested	
-   Lead | Suggested	
-  Support
-Develop	
-  standards	
-  for	
-  staff	
-  qualifications	
-  in	
-  FET	
-  sector. | DES | SOLAS,	
-  ETBI,	
-  ETBs,	
-   DES,	
-  HEA,	
-  Teaching
-Introduce	
-  appropriate	
-  and	
-  consistent	
-  qualification	
-   criteria	
-  and	
-  standards	
-  for	
-  all	
-  FET	
-  staff,	
-  including	
-  new	
-   entrants	
-  and	
-  existing	
-  staff	
-  engaged	
-  in	
-  the	
-  delivery	
-  of	
-   FET	
-  provision. | Council,	
-  QQI.
-
 #### Strategic Objective 3.4: Develop standards for staff qualifications in the FET sector
+
+| Proposed Action – Timeline 2014-2019 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Develop standards for staff qualifications in FET sector. Introduce appropriate and consistent qualification criteria and standards for all FET staff, including new entrants and existing staff engaged in the delivery of FET provision. | DES | SOLAS, ETBI, ETBs, DES, HEA, Teaching Council, QQI. |
 
 #### Strategic Action 3.5: Provide effective progression pathways for FET graduates to higher education.
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2016	
-  onwards | Suggested	
-   Lead | Suggested	
-  Support
-Remove	
-  barriers	
-  to	
-  progression	
-  and	
-  participation	
-  	
-   through	
-  the	
-  establishment	
-  of	
-  nationally	
-  recognised	
-   Higher	
-  Education	
-  entry	
-  criteria	
-  from	
-  FET	
-  programmes	
-   (Level	
-  5/6	
-  into	
-  Level	
-  6/7/8)	
-  -­-	
-  	
-  facilitating	
-  progression	
-   pathways	
-  (also	
-  linked	
-  to	
-  Objective	
-  2.1). | QQI | SOLAS,	
-  HEA,	
-  ETBI/ETBs,	
-   IUA,	
-  IoTI,	
-  All	
-  providers.
+| Proposed Action – Timeline 2016 onwards | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Remove barriers to progression and participation through the establishment of nationally recognised Higher Education entry criteria from FET programmes (Level 5/6 into Level 6/7/8) - facilitating progression pathways (also linked to Objective 2.1). | QQI | SOLAS, HEA, ETBI/ETBs, IUA, IoTI, All providers. |
 
 139
 
@@ -40648,185 +37879,18 @@ Remove
   economic	
   impact.
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  immediate	
-  and	
-  on-­-going | Suggested	
-   Lead | Suggested	
-  Support
-Implement	
-  a	
-  new	
-  integrated	
-  FET	
-  planning	
-  model	
-  to	
-   ensure	
-  relevant	
-  learner	
-  centred,	
-  flexible	
-  and	
-   employment-­-led	
-  provision	
-  with	
-  a	
-  clear	
-  focus	
-  on	
-   reducing	
-  duplication	
-  and	
-  overlap	
-  of	
-  provision.	
-  The	
-   process	
-  to	
-  take	
-  account	
-  of	
-  Government	
-  priorities	
-  e.g.	
-   'Pathways	
-  to	
-  Work',	
-  'Action	
-  Plan	
-  for	
-  Jobs',	
-  'Youth	
-   Guarantee'. | SOLAS | ETBs,	
-  All	
-  providers.
+#### Strategic Objective 4.1: Implement a new integrated and co-ordinated FET planning model.
 
-#### Strategic Objective 4.1: Implement a new integrated and co-­-ordinated FET planning model.
+| Proposed Action – Timeline immediate and on-going | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Implement a new integrated FET planning model to ensure relevant learner centred, flexible and employment-led provision with a clear focus on reducing duplication and overlap of provision. The process to take account of Government priorities e.g. 'Pathways to Work', 'Action Plan for Jobs', 'Youth Guarantee'. | SOLAS | ETBs, All providers. |
 
-Proposed	
---- | --- | ---
-  Action	
-  	
-  -­-	
-  Timeline	
-  immediate	
-  and	
-  on-­-going | Suggested	
-   Lead | Suggested	
-  Support
-Develop	
-  and	
-  implement	
-  an	
-  integrated	
-  Programme	
-  and	
-   Learner	
-  Support	
-  System	
-  (PLSS)	
-  for	
-  the	
-  FET	
-  Sector	
-  and	
-   stakeholders	
-  including;	
-  a	
-  national	
-  FET	
-  programme	
-   database	
-  system,	
-  a	
-  national	
-  FET	
-  programme	
-  calendar	
-   scheduling	
-  system,	
-  and	
-  a	
-  national	
-  FET	
-  learner	
-   database. | SOLAS | DES,	
-  DSP,	
-  ETBI,	
-  ETBs,	
-   QQI.
-Undertake	
-  appropriate	
-  skills	
-  needs	
-  research,	
-  including	
-   collaboration	
-  with	
-  the	
-  HEA-­-led 	
-  National	
-  employer	
-   survey	
-  of	
-  Irish	
-  Higher	
-  Education	
-  outcomes	
-   (now	
-  to	
-   include	
-  employer	
-  views	
-  on	
-  FET	
-  provision)	
-  as	
-  per	
-  the	
-   Action	
-  Plan	
-  for	
-  Jobs	
-  2014,	
-  	
-  to	
-  determine	
-  demand	
-  for	
-   entry	
-  and	
-  intermediate	
-  skills	
-  across	
-  business/industrial	
-   sectors	
-  and	
-  communicate	
-  findings	
-  to	
-  	
-  FET	
-  providers,	
-   learners	
-  and	
-  the	
-  general	
-  public. | SOLAS/HEA | IBEC,	
-  Skillnets,	
-  ESRI,	
-   ETBI,	
-  ETBs,	
-  FIT,	
-  DSP,	
-   QQI.
+#### Strategic Objective 4.2: Develop and install a 'fit-for-purpose' data infrastructure to support FET policy and provision.
 
-#### Strategic Objective 4.2: Develop and install a 'fit-­-for-­-purpose' data infrastructure to support FET policy and provision.
+| Proposed Action - Timeline immediate and on-going | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Develop and implement an integrated Programme and Learner Support System (PLSS) for the FET Sector and stakeholders including; a national FET programme database system, a national FET programme calendar scheduling system, and a national FET learner database. | SOLAS | DES, DSP, ETBI, ETBs, QQI. |
+| Undertake appropriate skills needs research, including collaboration with the HEA-led National employer survey of Irish Higher Education outcomes (now to include employer views on FET provision) as per the Action Plan for Jobs 2014, to determine demand for entry and intermediate skills across business/industrial sectors and communicate findings to FET providers, learners and the general public. | SOLAS/HEA | IBEC, Skillnets, ESRI, ETBI, ETBs, FIT, DSP, QQI. |
 
 140
 
@@ -40834,135 +37898,19 @@ Undertake
 
 [[START OF PAGE 142]]
 
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  immediate	
-  and	
-  on-­-going | Suggested	
-   Lead | Suggested	
-  Support
-Introduce	
-  	
-  strategic	
-  outcomes-­-based,	
-  performance-­- related	
-  funding	
-  model	
-  across	
-  all	
-  FET	
-  programmes. | SOLAS | ETBs,	
-  ETBI,	
-  DES,	
-  DSP.
-Sustain	
-  funding	
-  (to	
-  be	
-  reviewed	
-  annually)	
-  for	
-   programmes	
-  which	
-  focus	
-  on	
-  social	
-  inclusion	
-  while	
-   alternative	
-  performance-­-related	
-  funding	
-  model	
-  is	
-   being	
-  devised. | SOLAS | ETBI/ETBs,	
-  AONTAS,	
-   NALA.
+#### Strategic Objective 4.3: Introduce performance-related funding (appropriate to the type of FET provision and defined strategic outcomes).
 
-#### Strategic Objective 4.3: Introduce performance-­-related funding (appropriate to the type of FET provision and defined strategic outcomes).
-
-Proposed	
---- | --- | ---
-  Action	
-  -	
-  Timeline	
-  2014-­-2018 | Suggested	
-   Lead | Suggested	
-  Support
-Evaluate	
-  existing	
-  FET	
-  provision	
-  to	
-  ensure	
-  relevance	
-  to	
-   the	
-  labour	
-  market	
-  and	
-  effective	
-  progression	
-  for	
-   learners. | SOLAS | ETBI,	
-  ETBs,	
-  Employers'	
-   Associations	
-  (such	
-  as	
-   IBEC,	
-  ISME	
-  and	
-  CIF),	
-   QQI,	
-  DES,	
-  IDA,	
-  EI,	
-   Skillnet,	
-  FIT,	
-  Pobal,	
-   Trade	
-  Unions,	
-  ESRI,	
-   OECD,	
-  HSE,	
-  IITD,	
-   Learners.
-Examine	
-  the	
-  range	
-  of	
-  social	
-  welfare	
-  payments	
-  and	
-   training	
-  allowances	
-  associated	
-  with	
-  FET	
-  provision	
-  to	
-   determine	
-  apparent	
-  disincentives	
-  and	
-  	
-  anomalies	
-   which	
-  could	
-  impede	
-  participation	
-  in	
-  FET	
-  provision. | DSP | SOLAS,	
-  DES,	
-  ETBI.
+| Proposed Action – Timeline immediate and on-going | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Introduce strategic outcomes-based, performance-related funding model across all FET programmes. | SOLAS | ETBs, ETBI, DES, DSP. |
+| Sustain funding (to be reviewed annually) for programmes which focus on social inclusion while alternative performance-related funding model is being devised. | SOLAS | ETBI/ETBs, AONTAS, NALA. |
 
 #### Strategic Objective 4.4: Evaluate the effectiveness of all current FET provision.
+
+| Proposed Action – Timeline 2014-2018 | Suggested Lead | Suggested Support |
+| --- | --- | --- |
+| Evaluate existing FET provision to ensure relevance to the labour market and effective progression for learners. | SOLAS | ETBI, ETBs, Employers' Associations (such as IBEC, ISME and CIF), QQI, DES, IDA, EI, Skillnet, FIT, Pobal, Trade Unions, ESRI, OECD, HSE, IITD, Learners. |
+| Examine the range of social welfare payments and training allowances associated with FET provision to determine apparent disincentives and anomalies which could impede participation in FET provision. | DSP | SOLAS, DES, ETBI. |
 
 141
 
@@ -41456,39 +38404,15 @@ Youthreach
   strong	
   emphasis	
   on	
-  personal development.	
-  Overall	
-  the	
-  programme	
-  aims	
-  to	
-  enable	
-  individuals	
-  to	
-  participate	
-  fully	
-  in	
-  society	
-  and	
-  to progress	
-  to	
-  further	
-  education	
-  and	
-  training,	
-  e.g.	
-  VTOS,	
-  PLCs	
-  or	
-  to	
-  gain	
-  employment.
+ personal
 
 143
 
 [[END OF PAGE 144]]
 
 [[START OF PAGE 145]]
+
+development. Overall the programme aims to enable individuals to participate fully in society and to progress to further education and training, e.g. VTOS, PLCs or to gain employment.
 
 #### Back to Education Initiative (BTEI)
 
@@ -41880,43 +38804,15 @@ New
   of	
   learners	
   who	
-  are learning	
-  English	
-  who	
-  may	
-  have	
-  missed	
-  out	
-  on	
-  formal	
-  education	
-  in	
-  their	
-  country	
-  of	
-  origin	
-  and	
-  who	
-  lack the	
-  basic	
-  literacy	
-  skills	
-  to	
-  participate	
-  fully	
-  and	
-  benefit	
-  from	
-  'standard'	
-  English	
-  language	
-  classes.
+ are
 
 144
 
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
+
+learning English who may have missed out on formal education in their country of origin and who lack the basic literacy skills to participate fully and benefit from 'standard' English language classes.
 
 #### Skills for Work
 
@@ -42975,81 +39871,15 @@ CTCs
   There	
   are	
   38	
-  community training	
-  centres	
-  around	
-  the	
-  country.	
-  Examples	
-  of	
-  programmes	
-  offered	
-  include	
-  employability skills,	
-  personal	
-  and	
-  social	
-  employment	
-  skills	
-  and	
-  science	
-  skills.	
-  All	
-  programmes	
-  offer	
-  personal	
-  and social	
-  skills	
-  development	
-  through	
-  modules	
-  such	
-  as	
-  communications,	
-  personal	
-  effectiveness, teamwork,	
-  career	
-  planning	
-  and	
-  literacy	
-  and	
-  numeracy	
-  support,	
-  which	
-  are	
-  integrated	
-  with	
-  the vocational	
-  training	
-  modules.	
-  Courses	
-  are	
-  generally	
-  one	
-  year	
-  in	
-  duration	
-  and	
-  are	
-  full-­-time	
-  and	
-  lead to	
-  major	
-  awards	
-  on	
-  the	
-  NFQ	
-  at	
-  Levels	
-  3	
-  and	
-  4.
+ community
 
 147
 
 [[END OF PAGE 148]]
 
 [[START OF PAGE 149]]
+
+training centres around the country. Examples of programmes offered include employability skills, personal and social employment skills and science skills. All programmes offer personal and social skills development through modules such as communications, personal effectiveness, teamwork, career planning and literacy and numeracy support, which are integrated with the vocational training modules. Courses are generally one year in duration and are full-time and lead to major awards on the NFQ at Levels 3 and 4.
 
 ### FET Provision formerly managed by FÁS and now managed by SOLAS
 
