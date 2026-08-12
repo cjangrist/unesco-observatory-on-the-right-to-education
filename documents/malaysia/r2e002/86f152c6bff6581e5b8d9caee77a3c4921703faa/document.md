@@ -18,6 +18,21 @@ As at July 2016
 
 # EDUCATION ACT 1996
 
+Date of Royal Assent … … … … 15 July 1996
+
+Date of publication in the Gazette … … 1 August 1996
+
+Latest amendment made by
+Act A1490 which came
+into operation on … … … … 1 January 2012
+
+## PREVIOUS REPRINTS
+
+First Reprint ... ... ... ... ... 2002
+
+Second Reprint ... ... ... ... ... 2006
+
+Third Reprint ... … … … … 2012
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -30,11 +45,91 @@ Act 550
 
 # EDUCATION ACT 1996
 
+## ARRANGEMENT OF SECTIONS
+
+# PART I
+
+## PRELIMINARY
+
+Section
+
+1. Short title and commencement
+
+2. Interpretation
+
+# PART II
+
+## ADMINISTRATION
+
+3. Appointment and duty of Director General of Education
+
+4. State Directors of Education and other Education Officers
+
+5. Registrar General of Educational Institutions and Teachers
+
+6. Chief Inspector of Schools and Inspectors of Schools
+
+7. Director of Examinations
+
+8. Power of Minister to issue general directions
+
+9. Power of Minister to issue special directions
+
+9A. Change of names
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+Laws of Malaysia
+
+ACT 550
+
+4
+
+# PART III
+
+## NATIONAL EDUCATION ADVISORY COUNCIL
+
+Section
+
+10. National Education Advisory Council
+
+11. Functions of National Education Advisory Council
+
+12. Right of attendance
+
+13. Power to make regulations in relation to National Education Advisory Council
+
+14. National Education Advisory Council may regulate its own procedure
+
+# PART IV
+
+## NATIONAL EDUCATION SYSTEM
+
+## Chapter 1—The National Education System
+
+15. National Education System
+
+16. Categories of educational institutions
+
+17. National language as the main medium of instruction
+
+18. National Curriculum to be used by all schools
+
+19. Schools to prepare pupils for prescribed examination
+
+## Chapter 2—Pre-School Education
+
+20. Prohibition against the establishment, operation or management of kindergartens
+
+21. Power of Minister to establish kindergartens
+
+22. National Pre-school Curriculum to be used by all kindergartens
+
+23. Language of instruction in kindergartens
+
+24. Power to make regulations in relation to pre-school education
 
 [[END OF PAGE 4]]
 
@@ -42,9 +137,49 @@ Act 550
 
 5
 
+Education
+
 Section
 
-Education
+25. Chapter 2 not applicable to child care centres
+
+26. Non-application of sections 18 and 19
+
+## Chapter 3—Primary Education
+
+27. Minister to provide primary education
+
+28. Establishment and maintenance of national and national-type schools
+
+29. Duration of primary education
+
+29A. Compulsory primary education
+
+## Chapter 4—Secondary Education
+
+30. Minister to provide secondary education
+
+31. Establishment and maintenance of secondary schools
+
+32. Transition class
+
+## Chapter 5—Post-Secondary Education
+
+33. Post-secondary education
+
+## Chapter 5A – Vocational Colleges
+
+33A. Establishment and maintenance of vocational college
+
+33B. Vocational College Standard Curriculum to be used by vocational colleges
+
+33C. Collaboration with other institution, corporation or industrial organization
+
+33D. Power to make regulations in relation to vocational college
+
+## Chapter 6—Other Educational Institutions
+
+34. Other educational institutions
 
 [[END OF PAGE 5]]
 
@@ -56,7 +191,43 @@ ACT 550
 
 6
 
-## Chapter 7-Technical Education and Polytechnics
+## Chapter 7—Technical Education and Polytechnics
+
+Section
+
+35. Technical education in national secondary schools and other educational institutions
+
+36. Polytechnics may offer courses of study and award qualifications approved by Minister
+
+37. Collaboration with other institutions and industrial organizations in technical and vocational education
+
+38. Provisions as to courses of study in respect of degrees conferred by universities, etc.
+
+39. Power to make regulations in relation to polytechnics
+
+## Chapter 8—Special Education
+
+40. Minister to provide special education
+
+41. Power to prescribe the duration of and curriculum on special education
+
+## Chapter 9—Teacher Education
+
+42. Restriction on establishment of institutes of teacher education
+
+43. Registration of institutes of teacher education
+
+44. Award of certificates or other qualifications by institutes of teacher education
+
+45. Minister may establish and maintain institutes of teacher education
+
+46. Institutes of teacher education to conduct courses of study approved by Minister
+
+47. Provision as to courses of study in respect of degrees, etc., conferred by universities, etc.
+
+48. Instrument of government for institutes of teacher education
+
+49. Power to make regulations in relation to institutes of teacher education
 
 [[END OF PAGE 6]]
 
@@ -66,17 +237,157 @@ ACT 550
 
 Education
 
+## Chapter 10—Religious Teaching in Educational Institutions
+
+Section
+
+50. Teaching of the Islamic religion
+
+51. Teaching of religious knowledge of a religion other than Islam
+
+52. Financial assistance to Islamic educational institutions not established or maintained by the Minister or State Government
+
+## Chapter 11—Management of Educational Institutions
+
+53. Instrument of government for educational institutions
+
+54. Power to make regulations in relation to instruments of government
+
+55. Educational institution to be managed by its instrument of government
+
+56. Power of Minister to appoint additional governors
+
+57. Appointment of teachers under instrument of government and Act
+
+58. Power of Minister in relation to exercise of functions, etc.
+
+59. Dissolution of board of governors of government or government aided educational institution
+
+60. Notice of dissolution to contain consequential directions
+
+61. Minister shall appoint a different board upon dissolution of a board
+
+62. Dissolution of board of managers or governors of government educational institution
+
+63. Interpretation
+
+## Chapter 12—Provision of Facilities and Services
+
+64. Power of Minister to render assistance
+
+65. Medical and dental inspection of pupils
+
+66. Boarding facilities
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-(this page came through the extractor with no text)
+Laws of Malaysia
+
+ACT 550
+
+8
+
+# PART V
+
+## ASSESSMENT AND EXAMINATION
+
+Section
+
+67. Assessment of pupils
+
+68. Examinations
+
+69. Prohibitions on the conduct of examinations
+
+# PART VI
+
+## HIGHER EDUCATION
+
+70. Minister to be responsible for higher education
+
+71. Establishment of higher educational institutions, etc., is prohibited
+
+72. Penalty
+
+# PART VII
+
+## PRIVATE EDUCATIONAL INSTITUTIONS
+
+73. Saving relating to private educational institutions
+
+74. Private educational institutions to comply with the requirement of National Curriculum and to prepare pupils for prescribed examinations
+
+75. Subjects to be taught in private educational institutions providing post-secondary education
+
+76. Power to make regulations for supervision and control of standard of education
+
+77. Prohibition as to courses of study and training in respect of degrees, etc., conferred by universities, etc.
+
+78. Application of other provisions of the Act to private educational institutions
+
+# PART VIII
+
+## REGISTRATION OF EDUCATIONAL INSTITUTIONS
+
+## Chapter 1—Registration of Educational Institutions
+
+79. All educational institutions to be registered
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-(this page came through the extractor with no text)
+9
+
+Education
+
+Section
+
+80. Register
+
+81. Provisional certificates of registration
+
+82. Registration
+
+83. Change in respect of educational institution premises
+
+84. Refusal to register an educational institution
+
+85. Notice of refusal to register an educational institution
+
+86. Prohibition on advertisement, etc.
+
+## Chapter 2—Cancellation of Registration
+
+87. Grounds for cancellation of registration of an educational institution
+
+## Chapter 3—Registration of Governors and Employees
+
+88. All governors and employees to be registered
+
+89. Registration of governor and employee
+
+90. Grounds of refusal to register a governor or employee
+
+91. Notice of refusal to register a governor or employee
+
+92. Appeal against refusal to register a governor or employee
+
+93. Power of Registrar General to strike off the register a governor or employee
+
+94. Retirement of governors and employees
+
+95. Persons struck off the register to be notified
+
+96. Appeal against striking off the register
+
+97. Surrender of certificate of registration
+
+## Chapter 4—Registration of Pupils
+
+98. Registration of pupils
 
 [[END OF PAGE 9]]
 
@@ -88,25 +399,201 @@ ACT 550
 
 10
 
+## Chapter 5—Inspection of Educational Institutions by the Registrar General
+
+Section
+
+99. Inspections to be made from time to time
+
+100. Powers of Registrar General on inspection of registered educational institutions
+
+101. Inspection of premises of unregistered educational institutions
+
+102. Power to close unregistered educational institution
+
+# PART IX
+
+## REGISTRATION OF TEACHERS
+
+## Chapter 1—Registration of Teachers
+
+103. Prohibition to teach
+
+104. Register of teachers
+
+105. Application for registration as a teacher
+
+106. Power of Registrar General to refuse to register a person as a teacher
+
+107. Notice of refusal to register a person as a teacher
+
+108. Appeal against refusal to register a person as a teacher
+
+109. Registration of teachers
+
+110. Revocation of registration after notice
+
+111. Appeals
+
+112. Striking off the register
+
+113. Transitional provisions as to registration of teachers
+
+## Chapter 2—Permits to Teach
+
+114. Issue of permits to teach
+
+## Chapter 3—Miscellaneous
+
+115. Surrender of certificates of registration as a teacher
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 11
 
+Education
+
+Section
+
+116. Duty of teacher to notify change of educational institution
+
+# PART X
+
+## THE INSPECTORATE OF SCHOOLS
+
+## Chapter 1—The Inspectorate
+
+117. Duties of Chief Inspector
+
+118. Advisory powers of Inspectors of Schools
+
+119. Restriction on orders of Inspectors of Schools
+
+120. Reports by Inspectors of Schools
+
+## Chapter 2—General
+
+121. General powers of Inspectors of Schools
+
+122. Chief Inspector may authorize Education Officers to act on his behalf
+
+# PART XI
+
+## FINANCE
+
+123. Saving relating to Minister
+
+124. Grant-in-aid and capital grant to be subject to conditions, etc., as may be prescribed
+
+125. Power of Minister to suspend or cancel payment of any grant
+
+# PART XII
+
+## APPEALS
+
+126. Minister to decide on appeals after investigation
+
+127. Powers of Committee of Enquiry
+
+128. No appearance by advocate and solicitor before the Committee of Enquiry
+
+129. Evidence before the Committee of Enquiry
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-(this page came through the extractor with no text)
+Laws of Malaysia
+
+ACT 550
+
+12
+
+# PART XIII
+
+## REGULATIONS
+
+Section
+
+130. Power of Minister to make regulations
+
+131. Regulations may prescribe penalties for contravention thereof
+
+# PART XIV
+
+## OFFENCES AND PENALTIES
+
+132. Offences and penalties relating to registration of educational institutions
+
+133. Offences and penalties relating to registration of teachers
+
+134. Offences and penalties relating to Inspectors
+
+135. General penalty
+
+136. Power to investigate
+
+137. Power to enter without warrant
+
+138. Institution and conduct of prosecution
+
+139. Power to compound offences
+
+# PART XV
+
+## MISCELLANEOUS
+
+140. Officers deemed to be public servants
+
+141. Requirements as to premises
+
+142. Enrolment of pupils in government or government-aided educational institutions
+
+143. Power to exempt educational institutions
+
+144. Special Committee
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
+13
+
 Education
 
-13
+Section
+
+145. Service of notices, etc.
+
+# PART XVI
+
+## TRANSITIONAL AND REPEAL
+
+146. Change of title of certain educational institutions
+
+147. Secondary vocational schools to be part of national secondary school until annulled
+
+148. Assistance to existing educational institutions
+
+149. Saving in respect of contribution towards religious teaching
+
+150. Saving in respect of certain exempted educational institutions, etc.
+
+151. Saving in respect of registered educational institution, governor, manager or employee
+
+152. Winding up of Central Board
+
+153. Maintenance of contributory fund
+
+154. References to governor or board of governors to include manager and board of managers
+
+155. Repeal
+
+156. Power of Minister of Finance
+
+SCHEDULE
 
 [[END OF PAGE 13]]
 
@@ -128,19 +615,19 @@ Act 550
 
 An Act to provide for education and for matters connected therewith.
 
-[ 31 December 1997, P.U. (B) 541/1997 ]
+[31 December 1997, P.U. (B) 541/1997]
 
 WHEREAS acknowledging that knowledge is the key determinant of the destiny and survival of the nation:
 
-AND  WHEREAS  the  purpose  of  education is to enable the Malaysian  society  to  have  a  command  of  knowledge,  skills  and values necessary in a world that is highly competitive and globalised, arising from the impact of rapid development in science, technology and information:
+AND WHEREAS the purpose of education is to enable the Malaysian society to have a command of knowledge, skills and values necessary in a world that is highly competitive and globalised, arising from the impact of rapid development in science, technology and information:
 
-AND  WHEREAS  education  plays  a  vital  role  in  achieving  the country's vision of attaining the status of a fully developed nation in terms  of  economic  development,  social  justice,  and  spiritual,  moral and  ethical strength,  towards  creating a society that is united, democratic, liberal and dynamic:
+AND WHEREAS education plays a vital role in achieving the country’s vision of attaining the status of a fully developed nation in terms of economic development, social justice, and spiritual, moral and ethical strength, towards creating a society that is united, democratic, liberal and dynamic:
 
 AND WHEREAS it is the mission to develop a world-class quality education system which will realise the full potential of the individual and fulfill the aspiration of the Malaysian nation:
 
-AND  WHEREAS  the  National  Education  Policy  is  based  on  the National Philosophy of Education which is expressed as follows:
+AND WHEREAS the National Education Policy is based on the National Philosophy of Education which is expressed as follows:
 
-'Education in  Malaysia  is  an  ongoing  effort  towards  further developing the potential of individuals in a holistic and integrated manner  so  as  to  produce  individuals  who  are  intellectually,
+“Education in Malaysia is an ongoing effort towards further developing the potential of individuals in a holistic and integrated manner so as to produce individuals who are intellectually,
 
 [[END OF PAGE 15]]
 
@@ -152,13 +639,13 @@ ACT 550
 
 16
 
-spiritually, emotionally and physically balanced and harmonious, based on a firm belief in and devotion to God. Such an effort is designed to  produce  Malaysian  citizens  who  are  knowledgeable and competent, who possess high moral standards, and who are responsible  and  capable  of  achieving  a  high  level  of  personal well-being as well as being able to contribute to the betterment of the family, the society and the nation at large':
+spiritually, emotionally and physically balanced and harmonious, based on a firm belief in and devotion to God. Such an effort is designed to produce Malaysian citizens who are knowledgeable and competent, who possess high moral standards, and who are responsible and capable of achieving a high level of personal well-being as well as being able to contribute to the betterment of the family, the society and the nation at large”:
 
-AND  WHEREAS  the  above  policy  is  to  be  executed  through  a national system of education which provides for the national language to be the main medium of instruction, a National Curriculum and common examinations; the education provided being varied and comprehensive in scope and which will satisfy the needs of  the  nation  as  well  as  promote  national  unity  through  cultural, social,  economic  and  political  development  in  accordance  with  the principles of Rukunegara:
+AND WHEREAS the above policy is to be executed through a national system of education which provides for the national language to be the main medium of instruction, a National Curriculum and common examinations; the education provided being varied and comprehensive in scope and which will satisfy the needs of the nation as well as promote national unity through cultural, social, economic and political development in accordance with the principles of Rukunegara:
 
 AND WHEREAS it is considered desirable that regard shall be had, so far as is compatible with that policy, with the provision of efficient instruction and with the avoidance of unreasonable public expenditure, to the general principle that pupils are to be educated in accordance with the wishes of their parents:
 
-NOW,  THEREFORE, BE  IT  ENACTED by the  Seri  Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+NOW, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
 # PART I
 
@@ -166,7 +653,7 @@ NOW,  THEREFORE, BE  IT  ENACTED by the  Seri  Paduka Baginda Yang di-Pertuan Ag
 
 ### Short title and commencement
 
-1. This Act may be cited as the Education Act 1996 and shall come into force on a date to be appointed by the Minister by notification in the Gazette , and the Minister may appoint different dates for different provisions of this Act.
+1. This Act may be cited as the Education Act 1996 and shall come into force on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
 
 [[END OF PAGE 16]]
 
@@ -178,17 +665,17 @@ Education
 
 ### Interpretation
 
-2. In this Act, unless the context otherwise requires-
+2. In this Act, unless the context otherwise requires—
 
-'age', in relation to a pupil, means the age attained by the pupil on the first day of the first month of the school year in question;
+“age”, in relation to a pupil, means the age attained by the pupil on the first day of the first month of the school year in question;
 
-'appointed date' means the date of coming into force of this Act;
+“appointed date” means the date of coming into force of this Act;
 
-'approved fees' means fees approved by the Minister;
+“approved fees” means fees approved by the Minister;
 
-'Assistant Registrar' means an  Assistant Registrar of Educational Institutions  or  Assistant  Registrar  of  Teachers,  as  the  case  may  be, appointed under subsection 5(3);
+“Assistant Registrar” means an Assistant Registrar of Educational Institutions or Assistant Registrar of Teachers, as the case may be, appointed under subsection 5(3);
 
-'capital grant' means a payment from public funds to an educational institution for-
+“capital grant” means a payment from public funds to an educational institution for—
 
 (a) the provision of buildings;
 
@@ -198,13 +685,13 @@ Education
 
 (d) such other purposes as may be prescribed;
 
-'Chief Inspector' means the Chief Inspector of Schools appointed under subsection 6(1);
+“Chief Inspector” means the Chief Inspector of Schools appointed under subsection 6(1);
 
-'Chinese  language'  means  the  form  of  the  Chinese  language commonly known as Mandarin;
+“Chinese language” means the form of the Chinese language commonly known as Mandarin;
 
-'compulsory education' means primary education which is prescribed to be compulsory education under subsection 29A(1);
+“compulsory education” means primary education which is prescribed to be compulsory education under subsection 29A(1);
 
-'correspondence'  means  correspondence  delivered  by  hand  or  by post;
+“correspondence” means correspondence delivered by hand or by post;
 
 [[END OF PAGE 17]]
 
@@ -216,31 +703,31 @@ ACT 550
 
 18
 
-'correspondence school' means  an  organization or institution providing instruction or teaching by means of correspondence;
+“correspondence school” means an organization or institution providing instruction or teaching by means of correspondence;
 
-'Director of Education' means a Director of Education of a State or Federal Territory appointed under section 4;
+“Director of Education” means a Director of Education of a State or Federal Territory appointed under section 4;
 
-'Director General'  means  the  Director General of  Education appointed under section 3;
+“Director General” means the Director General of Education appointed under section 3;
 
-'distance  education  centre'  means  a  place,  an  organization  or  an institution providing instruction or teaching-
+“distance education centre” means a place, an organization or an institution providing instruction or teaching—
 
 (a) exclusively through the medium of electronics;
 
 (b) exclusively through correspondence;
 
-(c) partly through the medium  of electronics and partly through correspondence or other methods of instruction; or
+(c) partly through the medium of electronics and partly through correspondence or other methods of instruction; or
 
-(d) partly through the medium  of electronics and partly through correspondence and other methods of instruction;
+(d) partly through the medium of electronics and partly through correspondence and other methods of instruction;
 
-'Education Officer', in relation to a district  or an  area,  means  an education officer appointed under paragraph 4 (b) ;
+“Education Officer”, in relation to a district or an area, means an education officer appointed under paragraph 4(b);
 
-'Education Service' means a public service under paragraph (h) of Clause (1) of Article 132 of the Federal Constitution;
+“Education Service” means a public service under paragraph (h) of Clause (1) of Article 132 of the Federal Constitution;
 
-'educational institution' means a school or any other place where, in  the  carrying  on  of  the  work  of  an  organization  or  institution, persons  are  habitually  taught,  whether  in  one  or  more  classes,  and includes a kindergarten and a distance education centre but does not include-
+“educational institution” means a school or any other place where, in the carrying on of the work of an organization or institution, persons are habitually taught, whether in one or more classes, and includes a kindergarten and a distance education centre but does not include—
 
 (a) any place where the teaching is confined exclusively to the teaching of any religion; or
 
-(b) any  place  declared  by  the  Minister  by  notification  in  the Gazette not to be an educational institution for the purposes of this Act;
+(b) any place declared by the Minister by notification in the Gazette not to be an educational institution for the purposes of this Act;
 
 [[END OF PAGE 18]]
 
@@ -250,25 +737,25 @@ ACT 550
 
 Education
 
-'employee'  means  a  person  employed  by  a  board  of  governors, other  than  a  governor,  a  teacher  or  such  other  person  as  may  be appointed  or  nominated  by  the  Minister  under  subsection  58(2)  or 61(2), as the case may be, employed or actively taking part in work connected  with  the  running  or  the  administration  of  an  educational institution;
+“employee” means a person employed by a board of governors, other than a governor, a teacher or such other person as may be appointed or nominated by the Minister under subsection 58(2) or 61(2), as the case may be, employed or actively taking part in work connected with the running or the administration of an educational institution;
 
-'extension education' means a full-time or part-time education for persons  who  are  not  following  the  usual  course  of  study  at  an educational institution;
+“extension education” means a full-time or part-time education for persons who are not following the usual course of study at an educational institution;
 
-'government school' or 'government educational institution' means  a  school  or  an  educational  institution  established  and  fully maintained by the Minister under Part IV;
+“government school” or “government educational institution” means a school or an educational institution established and fully maintained by the Minister under Part IV;
 
-'government-aided school' or 'government-aided educational institution' means a school or an educational institution in receipt of capital grant and full grant-in-aid;
+“government-aided school” or “government-aided educational institution” means a school or an educational institution in receipt of capital grant and full grant-in-aid;
 
-'governor' means a person who is empowered under an instrument of government to administer or manage an educational institution;
+“governor” means a person who is empowered under an instrument of government to administer or manage an educational institution;
 
-'grant-in-aid' means any payment from public funds, other than a capital grant, made to an educational institution;
+“grant-in-aid” means any payment from public funds, other than a capital grant, made to an educational institution;
 
-'higher education' means education provided by a higher educational institution;
+“higher education” means education provided by a higher educational institution;
 
-'higher  educational  institution'  means  an  educational  institution providing higher education leading to the award of a diploma, degree or the equivalent thereof;
+“higher educational institution” means an educational institution providing higher education leading to the award of a diploma, degree or the equivalent thereof;
 
-'institute  of  teacher  education'  means  an  educational  institution providing  teacher  education  leading  to  the  award  of  a  certificate,  a diploma,  a  teaching  degree  or  the  equivalent  thereof,  or  any  other qualification as prescribed;
+“institute of teacher education” means an educational institution providing teacher education leading to the award of a certificate, a diploma, a teaching degree or the equivalent thereof, or any other qualification as prescribed;
 
-'instrument of government' means an instrument of government as specified in section 53;
+“instrument of government” means an instrument of government as specified in section 53;
 
 [[END OF PAGE 19]]
 
@@ -280,31 +767,31 @@ ACT 550
 
 20
 
-'kindergarten'  means  any  place  where  pre-school  education  is provided to ten or more pupils;
+“kindergarten” means any place where pre-school education is provided to ten or more pupils;
 
-'lower secondary education' means a three-year course appropriate for a pupil who has completed primary education;
+“lower secondary education” means a three-year course appropriate for a pupil who has completed primary education;
 
-'National Curriculum' means such curriculum as may be prescribed;
+“National Curriculum” means such curriculum as may be prescribed;
 
-'national  language'  means  the  Malay  language  as  stipulated  in Article 152 of the Federal Constitution;
+“national language” means the Malay language as stipulated in Article 152 of the Federal Constitution;
 
-'national school' means a government or government-aided primary school-
+“national school” means a government or government-aided primary school—
 
-(a) providing  primary  education  appropriate  for  pupils  from the age of six years;
+(a) providing primary education appropriate for pupils from the age of six years;
 
-(b) using the national language as the  main  medium  of instruction;
+(b) using the national language as the main medium of instruction;
 
-(c) in  which the English language is a compulsory subject of instruction; and
+(c) in which the English language is a compulsory subject of instruction; and
 
-(d) in which facilities for the teaching of-
+(d) in which facilities for the teaching of—
 
 (i) the Chinese or Tamil language shall be made available if the parents of at least fifteen pupils in the school so request; and
 
-(ii) indigenous  languages  shall  be  made  available  if  it  is reasonable and practicable so to do and if the parents of at least fifteen pupils in the school so request;
+(ii) indigenous languages shall be made available if it is reasonable and practicable so to do and if the parents of at least fifteen pupils in the school so request;
 
-'national secondary school' means a government or governmentaided secondary school-
+“national secondary school” means a government or government-aided secondary school—
 
-(a) providing a five-year course of secondary education appropriate  for  pupils  who  have  just  completed  primary education;
+(a) providing a five-year course of secondary education appropriate for pupils who have just completed primary education;
 
 [[END OF PAGE 20]]
 
@@ -314,31 +801,31 @@ ACT 550
 
 Education
 
-(b) using the national language as the  main  medium  of instruction;
+(b) using the national language as the main medium of instruction;
 
-(c) in  which the English language is a compulsory subject of instruction;
+(c) in which the English language is a compulsory subject of instruction;
 
-(d) in which facilities for the teaching of-
+(d) in which facilities for the teaching of—
 
 (i) the Chinese or Tamil language shall be made available if the parents of at least fifteen pupils in the school so request;
 
-(ii) indigenous  languages  shall  be  made  available  if  it  is reasonable and practicable so to do and if the parents of at least fifteen pupils in the school so request; and
+(ii) indigenous languages shall be made available if it is reasonable and practicable so to do and if the parents of at least fifteen pupils in the school so request; and
 
-(iii)   Arabic,  Japanese,  German  or  French  or  any  other foreign language  may  be  made  available  if  it is reasonable and practicable so to do; and
+(iii) Arabic, Japanese, German or French or any other foreign language may be made available if it is reasonable and practicable so to do; and
 
 (e) preparing pupils for such examinations as may be prescribed,
 
 and includes any such school providing a transition class;
 
-'national-type  school'  means  a  government  or  government-aided primary school-
+“national-type school” means a government or government-aided primary school—
 
-(a) providing  primary  education  appropriate  for  pupils  from the age of six years;
+(a) providing primary education appropriate for pupils from the age of six years;
 
 (b) using the Chinese or Tamil language as the main medium of instruction; and
 
 (c) in which the national and English languages are compulsory subjects of instruction;
 
-'parent' includes a guardian and any person who has the legal or actual control of a pupil;
+“parent” includes a guardian and any person who has the legal or actual control of a pupil;
 
 [[END OF PAGE 21]]
 
@@ -350,29 +837,29 @@ ACT 550
 
 22
 
-'place' means any place, whether public or private;
+“place” means any place, whether public or private;
 
-'post-secondary education' means education provided to a person who has completed upper secondary education, but does not include higher education;
+“post-secondary education” means education provided to a person who has completed upper secondary education, but does not include higher education;
 
-'pre-school curriculum' means the National Pre-school Curriculum prescribed by the Minister under section 22;
+“pre-school curriculum” means the National Pre-school Curriculum prescribed by the Minister under section 22;
 
-'pre-school education' means an educational programme for pupils from the ages of four to six years;
+“pre-school education” means an educational programme for pupils from the ages of four to six years;
 
-'premises'  means  any  building  used  as  an  educational  institution and includes any building for the purpose of providing accommodation  and  other  facilities  for  pupils  and  staff of the institution but does not include any land occupied therewith;
+“premises” means any building used as an educational institution and includes any building for the purpose of providing accommodation and other facilities for pupils and staff of the institution but does not include any land occupied therewith;
 
-'prescribed' means prescribed by regulations made under this Act;
+“prescribed” means prescribed by regulations made under this Act;
 
-'primary  education'  means  a  course  of  study  at  primary  level which  is  designed  for  a  duration  of  six  years  but  which  may  be completed within five to seven years;
+“primary education” means a course of study at primary level which is designed for a duration of six years but which may be completed within five to seven years;
 
-'primary  school'  means  a  school  providing  primary  education appropriate for pupils from the age of six years;
+“primary school” means a school providing primary education appropriate for pupils from the age of six years;
 
-'private school' or 'private educational institution' means a school or an educational institution which is not a government or government-aided school or educational institution;
+“private school” or “private educational institution” means a school or an educational institution which is not a government or government-aided school or educational institution;
 
-'pupil' means a person of any age for whom education or training is being provided in an educational institution;
+“pupil” means a person of any age for whom education or training is being provided in an educational institution;
 
-'registered teacher' means any teacher registered under this Act;
+“registered teacher” means any teacher registered under this Act;
 
-'Registrar' means the Registrar Educational Institutions and Teachers appointed under subsection 5(3) and includes the Registrar General;
+“Registrar” means the Registrar of Educational Institutions and Teachers appointed under subsection 5(3) and includes the Registrar General;
 
 [[END OF PAGE 22]]
 
@@ -382,21 +869,21 @@ ACT 550
 
 Education
 
-'Registrar  General'  means  the  Registrar  General  of  Educational Institutions and  Teachers  appointed  under  subsection 5(1),  and includes the Deputy Registrar General of Educational Institutions and Teachers appointed under subsection 5(2);
+“Registrar General” means the Registrar General of Educational Institutions and Teachers appointed under subsection 5(1), and includes the Deputy Registrar General of Educational Institutions and Teachers appointed under subsection 5(2);
 
-'school' means a place where ten or more persons are habitually taught whether in one or more classes, but does not include any place where  the  teaching  is  confined  exclusively  to  the  teaching  of  any religion;
+“school” means a place where ten or more persons are habitually taught whether in one or more classes, but does not include any place where the teaching is confined exclusively to the teaching of any religion;
 
-'secondary education' means education comprising lower secondary and upper secondary education;
+“secondary education” means education comprising lower secondary and upper secondary education;
 
-'secondary school' means a school providing secondary education appropriate for a pupil who has just completed primary education;
+“secondary school” means a school providing secondary education appropriate for a pupil who has just completed primary education;
 
-'special  education'  means  education  that  caters  for  pupils  with special needs;
+“special education” means education that caters for pupils with special needs;
 
-'special  school'  means  a  school  providing  special  education  as prescribed by regulations made under section 41;
+“special school” means a school providing special education as prescribed by regulations made under section 41;
 
-'State  Authority'  means the Ruler or  Yang di-Pertua Negeri of  a State  and,  in  the  case  of  a  Federal  Territory,  the  Yang  di-Pertuan Agong;
+“State Authority” means the Ruler or Yang di-Pertua Negeri of a State and, in the case of a Federal Territory, the Yang di-Pertuan Agong;
 
-'teacher' means a person who-
+“teacher” means a person who—
 
 (a) teaches pupils in an educational institution; or
 
@@ -404,7 +891,7 @@ Education
 
 and includes a head teacher or principal;
 
-'transition class' means a class in a secondary school providing one year of instruction to pupils from a primary school using a language other than the national language as the medium of instruction prior to the commencement of the lower secondary education;
+“transition class” means a class in a secondary school providing one year of instruction to pupils from a primary school using a language other than the national language as the medium of instruction prior to the commencement of the lower secondary education;
 
 [[END OF PAGE 23]]
 
@@ -416,11 +903,11 @@ ACT 550
 
 24
 
-'upper  secondary  education'  means  education  suitable  to  the abilities and aptitudes of a pupil who has completed lower secondary education;
+“upper secondary education” means education suitable to the abilities and aptitudes of a pupil who has completed lower secondary education;
 
-'vocational  college'  means  an  educational  institution  established and fully maintained by the Minister under section 33A;
+“vocational college” means an educational institution established and fully maintained by the Minister under section 33A;
 
-'Vocational  College  Standard  Curriculum'  means  the  Vocational College Standard Curriculum prescribed under section 33B .
+“Vocational College Standard Curriculum” means the Vocational College Standard Curriculum prescribed under section 33B.
 
 # PART II
 
@@ -434,11 +921,11 @@ ACT 550
 
 ### State Directors of Education and other Education Officers
 
-- There shall be-
+4. There shall be—
 
-(a) for each State or for such other area in Malaysia as may  be determined by the Minister a Director of Education; and
+(a) for each State or for such other area in Malaysia as may be determined by the Minister a Director of Education; and
 
-(b) for each district or for such other area in a State as may be determined by the Minister an Education Officer designed as such for the purposes of this Act,who shall be appointed by the Minister.
+(b) for each district or for such other area in a State as may be determined by the Minister an Education Officer designated as such for the purposes of this Act, who shall be appointed by the Minister.
 
 [[END OF PAGE 24]]
 
@@ -452,13 +939,13 @@ Education
 
 5. (1) There shall be a Registrar General of Educational Institutions and Teachers who shall be appointed by the Minister.
 
-(2) The  Minister  may  appoint  a  Deputy  Registrar  General  of Educational Institutions and Teachers.
+(2) The Minister may appoint a Deputy Registrar General of Educational Institutions and Teachers.
 
-(3) The Minister shall appoint a Registrar of Educational Institutions  and  Teachers  for  each  State  and  for  such  area  within Malaysia  as  may  be  determined  by  the  Minister,  and  may  appoint such  numbers  of  Deputy  Registrars  of  Educational  Institutions  and Teachers, Assistant Registrars of Schools and Assistant Registrars of Teachers as may be considered necessary for the purposes of this Act.
+(3) The Minister shall appoint a Registrar of Educational Institutions and Teachers for each State and for such area within Malaysia as may be determined by the Minister, and may appoint such numbers of Deputy Registrars of Educational Institutions and Teachers, Assistant Registrars of Schools and Assistant Registrars of Teachers as may be considered necessary for the purposes of this Act.
 
-(4) The  Deputy  Registrar  General,  the  Registrars,  the  Deputy Registrars  and  the  Assistant  Registrars  shall  be  under  the  direction and control of the Registrar General.
+(4) The Deputy Registrar General, the Registrars, the Deputy Registrars and the Assistant Registrars shall be under the direction and control of the Registrar General.
 
-(5) The Registrar General shall have the powers and exercise the functions  conferred  on  him  by  this  Act,  and  in  his  absence  such powers  and  functions  may  be  had  or  exercised  by  the  Deputy Registrar General.
+(5) The Registrar General shall have the powers and exercise the functions conferred on him by this Act, and in his absence such powers and functions may be had or exercised by the Deputy Registrar General.
 
 (6) The Registrar, the Deputy Registrar or the Assistant Registrar may exercise all the powers and functions conferred on the Registrar General by or under this Act, subject to any restriction that may be imposed by the Registrar General.
 
@@ -468,7 +955,7 @@ Education
 
 (2) The Minister shall appoint such other Inspectors of Schools as may be considered necessary for the purposes of this Act.
 
-(3) All Inspectors of Schools appointed under subsection (2) shall be  subject  to  the  direction  and  control  of  the  Chief  Inspector  of Schools.
+(3) All Inspectors of Schools appointed under subsection (2) shall be subject to the direction and control of the Chief Inspector of Schools.
 
 [[END OF PAGE 25]]
 
@@ -492,7 +979,7 @@ ACT 550
 
 ### Power of Minister to issue special directions
 
-- The Minister may from time to time give-
+9. The Minister may from time to time give—
 
 (a) a  governor  or  any  member  of  a  board  appointed  under subsection  61(1),  or  an  employee  or  head  teacher,  of  an educational institution; and
 
@@ -510,9 +997,9 @@ Education
 
 ### Change of names
 
-9A. (1) All  references  to  the  'Registrar  General  of  Schools  and Teachers',  'Deputy  Registrar  General  of  Schools  and  Teachers', 'Registrars  of  Schools  and  Teachers'  and  'Assistant  Registrars  of Schools  and  Teachers'  in  any  instrument,  document,  agreement  or working  arrangement  subsisting  immediately  before  the  date  of coming  into  operation  of  this  Act  shall,  on  and  after  the  date  of coming into operation of this Act, be construed as references to the 'Registrar General of Educational Institutions and Teachers', 'Deputy Registrar General of Educational Institutions and Teachers', 'Registrars of Educational Institutions and Teachers' and 'Assistant Registrars of Educational Institutions and Teachers' respectively.
+9A. (1) All references to the “Registrar General of Schools and Teachers”, “Deputy Registrar General of Schools and Teachers”, “Registrars of Schools and Teachers” and “Assistant Registrars of Schools and Teachers” in any instrument, document, agreement or working arrangement subsisting immediately before the date of coming into operation of this Act shall, on and after the date of coming into operation of this Act, be construed as references to the “Registrar General of Educational Institutions and Teachers”, “Deputy Registrar General of Educational Institutions and Teachers”, “Registrars of Educational Institutions and Teachers” and “Assistant Registrars of Educational Institutions and Teachers” respectively.
 
-(2) The change of names from the 'Registrar General of Schools and Teachers', 'Deputy Registrar General of Schools and Teachers', 'Registrars  of  Schools  and  Teachers'  and  'Assistant  Registrars  of Schools and Teachers' to 'Registrar General of Educational Institutions and Teachers', 'Deputy Registrar General of Educational Institutions  and  Teachers',  'Registrars  of  Educational  Institutions and  Teachers'  and  'Assistant  Registrars  of  Educational  Institutions and  Teachers'  respectively  shall  not  affect  any  powers,  rights, privileges, liabilities, duties or obligations of the 'Registrar General of Schools and Teachers', 'Deputy Registrar General of Schools and Teachers',  'Registrars  of  Schools  and  Teachers'  and  'Assistant Registrars  of  Schools  and  Teachers',  or  render  defective  any  legal proceeding by or against them.
+(2) The change of names from the “Registrar General of Schools and Teachers”, “Deputy Registrar General of Schools and Teachers”, “Registrars of Schools and Teachers” and “Assistant Registrars of Schools and Teachers” to “Registrar General of Educational Institutions and Teachers”, “Deputy Registrar General of Educational Institutions and Teachers”, “Registrars of Educational Institutions and Teachers” and “Assistant Registrars of Educational Institutions and Teachers” respectively shall not affect any powers, rights, privileges, liabilities, duties or obligations of the “Registrar General of Schools and Teachers”, “Deputy Registrar General of Schools and Teachers”, “Registrars of Schools and Teachers” and “Assistant Registrars of Schools and Teachers”, or render defective any legal proceeding by or against them.
 
 # PART III
 
@@ -550,7 +1037,7 @@ ACT 550
 
 ### Power  to  make  regulations  in  relation  to  National  Education Advisory Council
 
-13. The Minister may make regulations  for the purpose of  giving effect  to  the  provisions  of  this  Part,  and,  without  prejudice  to  the generality of such power, may by the regulations provide for-
+13. The Minister may make regulations for the purpose of giving effect to the provisions of this Part, and, without prejudice to the generality of such power, may by the regulations provide for—
 
 (a) the number of members of the Council;
 
@@ -578,11 +1065,11 @@ Education
 
 ## NATIONAL EDUCATION SYSTEM
 
-## Chapter 1-The National Education System
+## Chapter 1—The National Education System
 
 ### National Education System
 
-- The National Education System shall comprise-
+15. The National Education System shall comprise—
 
 (a) pre-school education;
 
@@ -608,7 +1095,7 @@ ACT 550
 
 ### Categories of educational institutions
 
-16. There shall be three categories of educational institutions in the National Education System, namely-
+16. There shall be three categories of educational institutions in the National Education System, namely—
 
 (a) government educational institutions;
 
@@ -638,29 +1125,29 @@ ACT 550
 
 Education
 
-- The Minister may from time to time by order published in the Gazette add to, amend or alter the Schedule.
+(4) The Minister may from time to time by order published in the Gazette add to, amend or alter the Schedule.
 
 ### Schools to prepare pupils for prescribed examination
 
-- Every school shall prepare its pupils for examinations prescribed  by  or  under  this  Act  or  any  regulations  made  under  this Act unless otherwise exempted by or under this Act.
+19. Every school shall prepare its pupils for examinations prescribed by or under this Act or any regulations made under this Act unless otherwise exempted by or under this Act.
 
-## Chapter 2-Pre-School Education
+## Chapter 2—Pre-School Education
 
 ### Prohibition against the establishment, operation or management of kindergartens
 
-(1) No kindergarten shall be established, operated or managed unless it is registered under this Act.
+20. (1) No kindergarten shall be established, operated or managed unless it is registered under this Act.
 
-- A person who contravenes subsection (1) shall be guilty of an offence.
+(2) A person who contravenes subsection (1) shall be guilty of an offence.
 
 ### Power of Minister to establish kindergartens
 
-- The Minister may subject to the provisions of this Act establish and maintain kindergartens.
+21. The Minister may subject to the provisions of this Act establish and maintain kindergartens.
 
 ### National Pre-school Curriculum to be used by all kindergartens
 
-(1) The Minister shall prescribe a curriculum, to be known as the National Pre-school Curriculum that shall be used by all kindergartens in the National Education System.
+22. (1) The Minister shall prescribe a curriculum, to be known as the National Pre-school Curriculum that shall be used by all kindergartens in the National Education System.
 
-- The National Pre-school Curriculum prescribed under subsection (1) shall specify the knowledge, skills and values that are expected to be acquired  by the pupils at the end of their respective period of pre-school education.
+(2) The National Pre-school Curriculum prescribed under subsection (1) shall specify the knowledge, skills and values that are expected to be acquired by the pupils at the end of their respective period of pre-school education.
 
 [[END OF PAGE 31]]
 
@@ -672,25 +1159,25 @@ ACT 550
 
 32
 
-- Any kindergarten  intending  to  implement  any  curriculum  in addition to the National Pre-school Curriculum shall, beforeimplementing  such  additional  curriculum,  obtain  the  written approval of the Registrar General of such intention in such manner as may be prescribed.
+(3) Any kindergarten intending to implement any curriculum in addition to the National Pre-school Curriculum shall, before implementing such additional curriculum, obtain the written approval of the Registrar General of such intention in such manner as may be prescribed.
 
-- A person who contravenes subsection (1) or (3) shall be guilty of  an  offence  and  shall,  on  conviction,  be  liable  to  a  fine  not exceeding  ten  thousand  ringgit  or  to  imprisonment  for  a  term  not exceeding one year or to both.
+(4) A person who contravenes subsection (1) or (3) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
 ### Language of instruction in kindergartens
 
-- Notwithstanding  subsection  17(1),  languages  other  than  the national  language  may  be  used  as  a  medium  of  instruction  in kindergartens,  but  where  a  kindergarten  uses  a  language  other  than the  national  language,  the  national  language  shall  be  taught  as  a compulsory subject.
+23. Notwithstanding subsection 17(1), languages other than the national language may be used as a medium of instruction in kindergartens, but where a kindergarten uses a language other than the national language, the national language shall be taught as a compulsory subject.
 
 ### Power to make regulations in relation to pre-school education
 
-- The Minister may make regulations for the carrying out of the provisions of this Chapter.
+24. The Minister may make regulations for the carrying out of the provisions of this Chapter.
 
 ### Chapter 2 not applicable to child care centres
 
-- The provisions of this  Chapter  shall  not  apply  to  a  child  care centre  established  and  registered  under  any  written  law  relating  to such centre.
+25. The provisions of this Chapter shall not apply to a child care centre established and registered under any written law relating to such centre.
 
 ### Non-application of sections 18 and 19
 
-- Sections 18 and 19 shall not apply to kindergartens.
+26. Sections 18 and 19 shall not apply to kindergartens.
 
 [[END OF PAGE 32]]
 
@@ -700,7 +1187,7 @@ ACT 550
 
 Education
 
-## Chapter 3-Primary Education
+## Chapter 3—Primary Education
 
 ### Minister to provide primary education
 
@@ -712,7 +1199,7 @@ Education
 
 ### Duration of primary education
 
-29. A  national school, national-type school or private school established under this Act shall provide a course of primary education design for a duration of six years but which may be completed within five to seven years.
+29. A national school, national-type school or private school established under this Act shall provide a course of primary education designed for a duration of six years but which may be completed within five to seven years.
 
 ### Compulsory primary education
 
@@ -734,15 +1221,15 @@ ACT 550
 
 discretion  revoke  the  exemption  or  revoke  or  alter  or  add  to  such conditions.
 
-- A parent who contravenes subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand  ringgit  or  to  imprisonment  for  a  term  not  exceeding  six months or to both.
+(4) A parent who contravenes subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-- The  Minister  may  make  regulations  for  the  carrying  into effect of the provisions of this section.
+(5) The Minister may make regulations for the carrying into effect of the provisions of this section.
 
-## Chapter 4-Secondary Education
+## Chapter 4—Secondary Education
 
 ### Minister to provide secondary education
 
-(1) It  shall  be  the  duty  of  the  Minister  to  provide  secondary education in the following national secondary schools:
+30. (1) It shall be the duty of the Minister to provide secondary education in the following national secondary schools:
 
 (a) academic secondary schools;
 
@@ -750,15 +1237,15 @@ discretion  revoke  the  exemption  or  revoke  or  alter  or  add  to  such con
 
 (c) secondary schools of such other descriptions as the Minister may from time to time determine.
 
-- Subject  to  the  provisions  of  this  Act,  the  Minister  may provide upper secondary education in any national secondary school.
+(2) Subject to the provisions of this Act, the Minister may provide upper secondary education in any national secondary school.
 
 ### Establishment and maintenance of secondary schools
 
-- Subject to the provisions of this Act, the Minister may establish and maintain any of the schools described in section 30.
+31. Subject to the provisions of this Act, the Minister may establish and maintain any of the schools described in section 30.
 
 ### Transition class
 
-- The Minister may provide for a transition class in any academic national secondary school.
+32. The Minister may provide for a transition class in any academic national secondary school.
 
 [[END OF PAGE 34]]
 
@@ -768,11 +1255,11 @@ discretion  revoke  the  exemption  or  revoke  or  alter  or  add  to  such con
 
 Education
 
-## Chapter 5-Post-Secondary Education
+## Chapter 5—Post-Secondary Education
 
 ### Post-secondary education
 
-- The Minister may provide post-secondary education in-
+33. The Minister may provide post-secondary education in—
 
 (a) the  national  secondary  schools  described  in  paragraphs 30(1) (a) and (1) (b) ;
 
@@ -780,21 +1267,21 @@ Education
 
 (c) any other national secondary school or educational institution  established  and  maintained  by  the  Minister under this Act.
 
-## Chapter 5A - Vocational Colleges
+## Chapter 5A – Vocational Colleges
 
 ### Establishment and maintenance of vocational college
 
-- 33A. (1) Subject  to  the  provisions  of  this  Act,  the  Minister  may establish and fully maintain a vocational college.
+33A. (1) Subject to the provisions of this Act, the Minister may establish and fully maintain a vocational college.
 
-- A  vocational  college  established  under  subsection  (1)  shall provide  technical  and  vocational  education  and  training  for  pupils who have completed lower secondary education.
+(2) A vocational college established under subsection (1) shall provide technical and vocational education and training for pupils who have completed lower secondary education.
 
-### Vocational C ollege S tandard C urriculum to be used by vocational colleges
+### Vocational College Standard Curriculum to be used by vocational colleges
 
-- 33B. The Minister shall prescribe a curriculum, to be known as the Vocational College Standard Curriculum, which shall be used by all vocational colleges.
+33B. The Minister shall prescribe a curriculum, to be known as the Vocational College Standard Curriculum, which shall be used by all vocational colleges.
 
 ### Collaboration  with  other  institution,  corporation  or  industrial organization
 
-- 33C. (1)   A vocational college may collaborate with any institution,  corporation  or  industrial  organization  for  the  purposes of-
+33C. (1) A vocational college may collaborate with any institution, corporation or industrial organization for the purposes of—
 
 [[END OF PAGE 35]]
 
@@ -814,11 +1301,11 @@ ACT 550
 
 (d) carrying  out  any  technical  and  vocational  education  and training considered desirable and beneficial to the vocational college or the pupils.
 
-- Any  programme  or  training  conducted  in  collaboration  with an institution, corporation or industrial organization under subsection (1) shall use the Vocational College Standard Curriculum.
+(2) Any programme or training conducted in collaboration with an institution, corporation or industrial organization under subsection (1) shall use the Vocational College Standard Curriculum.
 
 ### Power to make regulations in relation to vocational colleges
 
-33D. The  Minister  may  make  regulations  for  the  carrying  into effect of the provisions of this Chapter and without prejudice to the generality of such power, the regulations may provide for-
+33D. The Minister may make regulations for the carrying into effect of the provisions of this Chapter and without prejudice to the generality of such power, the regulations may provide for—
 
 (a) the  Vocational  College  Standard Curriculum  which shall include the knowledge, skills and values that are expected to  be  acquired  by  pupils  at  the  end  of  the  vocational education period;
 
@@ -846,7 +1333,7 @@ the  vocational  colleges  and  the  days  which  shall  be observed  as  holida
 
 (h) any  other  matter  as  the  Minister  thinks  expedient  or necessary for the purpose of this Chapter.
 
-## Chapter 6-Other Educational Institutions
+## Chapter 6—Other Educational Institutions
 
 ### Other educational institutions
 
@@ -872,17 +1359,17 @@ ACT 550
 
 38
 
-## Chapter 7-Technical Education and Polytechnics
+## Chapter 7—Technical Education and Polytechnics
 
 ### Technical  and  vocational  education  and  training in  national secondary schools and other educational institutions
 
-(1) The Minister may provide technical and vocational education and training in-
+35. (1) The Minister may provide technical and vocational education and training in—
 
 (a) any national secondary school described in section 30; or
 
 (b) other educational institutions described in paragraph 34(1) (a) or (1) (c) .
 
-- For  the  purpose  of  subsection  (1),  technical  and  vocational education and training includes the provision of-
+(2) For the purpose of subsection (1), technical and vocational education and training includes the provision of—
 
 (a) skill training;
 
@@ -894,7 +1381,7 @@ ACT 550
 
 ### Polytechnics may offer courses of study and award qualifications approved by Minister
 
-- A polytechnic established under paragraph 34(1) (c) may-
+36. A polytechnic established under paragraph 34(1)(c) may—
 
 (a) offer courses of study and training programmes approved by the Minister; and
 
@@ -910,7 +1397,7 @@ Education
 
 ### Collaboration with other institutions and industrial organizations in technical and vocational education
 
-37. (1) Subject  to  the  approval  of  the  Minister,  a  polytechnic established under this Act may, in collaboration with any institution, corporation or industrial organization, conduct technical or vocational courses  or  training  programmes  (including  exchange  programmes) which the Minister deems expedient for the purposes of-
+37. (1) Subject to the approval of the Minister, a polytechnic established under this Act may, in collaboration with any institution, corporation or industrial organization, conduct technical or vocational courses or training programmes (including exchange programmes) which the Minister deems expedient for the purposes of—
 
 (a) giving effect to the transfer of technology;
 
@@ -940,7 +1427,7 @@ ACT 550
 
 ### Power to make regulations in relation to polytechnics
 
-- The Minister may make regulations for the carrying into effect of  the  provisions  of  this  Chapter  and,  without  prejudice  to  the generality of such power, the regulations may provide for-
+39. The Minister may make regulations for the carrying into effect of the provisions of this Chapter and, without prejudice to the generality of such power, the regulations may provide for—
 
 (a) the establishment of a board or body  to carry out evaluation  or  assessment  or  to  conduct  examinations  for polytechnics;
 
@@ -954,15 +1441,15 @@ ACT 550
 
 (f) any  other  matter  which  the  Minister  deems  expedient  or necessary for the purposes of this Chapter.
 
-## Chapter 8-Special Education
+## Chapter 8—Special Education
 
 ### Minister to provide special education
 
-- The Minister shall provide special education in special schools established under paragraph 34(1) (b) or in such primary or secondary schools as the Minister deems expedient.
+40. The Minister shall provide special education in special schools established under paragraph 34(1)(b) or in such primary or secondary schools as the Minister deems expedient.
 
 ### Power  to  prescribe  the  duration  of  and  curriculum  on  special education
 
-(1) Subject  to  subsections  (2)  and  (3),  the  Minister  may  by regulations prescribe-
+41. (1) Subject to subsections (2) and (3), the Minister may by regulations prescribe—
 
 [[END OF PAGE 40]]
 
@@ -980,19 +1467,19 @@ Education
 
 (d) any  other  matter  which  the  Minister  deems  expedient  or necessary for the purposes of this Chapter.
 
-- The duration prescribed by the Minister under paragraph  (1) (a) shall  not  be  less  than  the  minimum  duration  for primary  or  secondary  education,  as  the  case  may  be,  provided  for under this Act.
+(2) The duration prescribed by the Minister under paragraph (1)(a) shall not be less than the minimum duration for primary or secondary education, as the case may be, provided for under this Act.
 
-- The curriculum prescribed under paragraph (1) (b) shall comply with the requirements of the National Curriculum in so far as it is reasonably practicable.
+(3) The curriculum prescribed under paragraph (1)(b) shall comply with the requirements of the National Curriculum in so far as it is reasonably practicable.
 
-## Chapter 9-Teacher Education
+## Chapter 9—Teacher Education
 
 ### Restriction on establishment of institutes of teacher education
 
-- No  person  shall  establish  or  maintain  a  teacher  education college except with the approval of the Minister.
+42. No person shall establish or maintain a teacher education college except with the approval of the Minister.
 
 ### Registration of institutes of teacher education
 
-- All institutes of teacher education, the establishment or maintenance of which have been approved under section 42, shall be registered under this Act.
+43. All institutes of teacher education, the establishment or maintenance of which have been approved under section 42, shall be registered under this Act.
 
 [[END OF PAGE 41]]
 
@@ -1006,15 +1493,15 @@ ACT 550
 
 ### Award  of  certificates  or  other  qualifications  by  institutes  of teacher education
 
-- A teacher  education  college  established  under  this  Act  may award a certificate, diploma, teaching degreeor such other qualifications as may be prescribed.
+44. A teacher education college established under this Act may award a certificate, diploma, teaching degree or such other qualifications as may be prescribed.
 
 ### Minister may establish and maintain institutes of teacher education
 
-- Notwithstanding  section  42,  the  Minister  may  establish  and maintain  institutes  of  teacher  education  and  provide  therein  teacher education.
+45. Notwithstanding section 42, the Minister may establish and maintain institutes of teacher education and provide therein teacher education.
 
 ### Institutes  of  teacher  education  to  conduct  courses  of  study approved by Minister
 
-- Every teacher education college established under this Chapter shall conduct such courses of study and training programmes as may be approved by the Minister.
+46. Every teacher education college established under this Chapter shall conduct such courses of study and training programmes as may be approved by the Minister.
 
 ### Provision  as  to  courses  of  study  in  respect  of  degrees, etc., conferred by universities, etc.
 
@@ -1022,13 +1509,17 @@ ACT 550
 
 (2) The approval given under subsection (1) may be made subject to such terms and conditions as the Minister may deem fit to impose.
 
-(3) The Minister shall not give his approval under subsection (1) unless  he  is  satisfied  that  the  teacher  education  college  has  made suitable  arrangements  with  the  university  or  other  institution  of Education higher education concerned with the conduct of the courses of study or training programmes.
+(3) The Minister shall not give his approval under subsection (1) unless he is satisfied that the teacher education college has made suitable arrangements with the university or other institution of
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
 43
+
+Education
+
+higher education concerned with the conduct of the courses of study or training programmes.
 
 (4) A person who contravenes subsection (1) or fails to comply with any term or condition imposed by the Minister under subsection (2) shall be guilty of an offence and shall, on conviction, be  liable  to  a  fine  not  exceeding  thirty  thousand  ringgit  or  to imprisonment for a term not exceeding two years or to both.
 
@@ -1044,7 +1535,7 @@ ACT 550
 
 ### Power  to  make  regulations  in  relation  to  institutes  of  teacher education
 
-49. The Minister may make regulations for the carrying into effect of  the  provisions  of  this  Chapter  and,  without  prejudice  to  the generality of such power, the regulations may provide for-
+49. The Minister may make regulations for the carrying into effect of the provisions of this Chapter and, without prejudice to the generality of such power, the regulations may provide for—
 
 [[END OF PAGE 43]]
 
@@ -1072,7 +1563,7 @@ ACT 550
 
 (h) any  other  matter  which  the  Minister  deems  expedient  or necessary for the purposes of this Chapter.
 
-## Chapter 10-Religious Teaching in Educational Institutions
+## Chapter 10—Religious Teaching in Educational Institutions
 
 ### Teaching of the Islamic religion
 
@@ -1094,7 +1585,7 @@ Education
 
 ### Teaching of religious knowledge of a religion other than Islam
 
-51. The  governors  of  a  government-aided  educational  institution may provide for religious teaching in a religion other than Islam to the pupils of the educational institution or to any of them but-
+51. The governors of a government-aided educational institution may provide for religious teaching in a religion other than Islam to the pupils of the educational institution or to any of them but—
 
 (a) no such provision shall be defrayed from moneys provided by Parliament; and
 
@@ -1114,7 +1605,7 @@ ACT 550
 
 46
 
-## Chapter 11-Management of Educational Institutions
+## Chapter 11—Management of Educational Institutions
 
 ### Instrument of government for educational institutions
 
@@ -1146,7 +1637,7 @@ Education
 
 ### Power of Minister to appoint additional governors
 
-(1) If the Minister is satisfied-
+56. (1) If the Minister is satisfied—
 
 (a) that  discipline  in  an  educational  institution  is  not  being adequately maintained;
 
@@ -1180,13 +1671,13 @@ ACT 550
 
 ### Power of Minister in relation to exercise of functions, etc.
 
-58. (1) If the Minister is satisfied that in an educational institution-
+58. (1) If the Minister is satisfied that in an educational institution—
 
 (a) the  governors  have  been  acting  or  are  proposing  to  act unreasonably  with  respect  to  the  exercise  of  any  power conferred  or  the  discharge  of  any  duty  imposed  by  or under this Act; or
 
 (b) the governors have failed to discharge any duty imposed upon them by or under this Act,
 
-the Minister may-
+the Minister may—
 
 (aa) give  such  directions  in  writing  as  to  the  exercise  of  the power or the discharge of the duty as appear to him to be expedient, with which directions it shall be the duty of the governors to comply; or
 
@@ -1194,15 +1685,19 @@ the Minister may-
 
 (2) If at any time, for an educational institution, there is no board of  governors  constituted  under  this  Act  the  Minister  may  appoint such person or persons as he may think fit to exercise the functions of governors for the institution for such period as he may direct.
 
-### Dissolution of board of governors of government or governmentaided educational institution
+### Dissolution of board of governors of government or government-aided educational institution
 
-59. (1) The Minister may, after giving the board of governors of a government or government-aided educational institution an opportunity  to  make  representations  in  accordance  with  regulations made under  this  Act,  by  notice  in  writing  addressed  to  and  served Education upon the chairman of the board order that the board be dissolved if he is satisfied that the board-
+59. (1) The Minister may, after giving the board of governors of a government or government-aided educational institution an opportunity to make representations in accordance with regulations made under this Act, by notice in writing addressed to and served
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
 49
+
+Education
+
+upon the chairman of the board order that the board be dissolved if he is satisfied that the board—
 
 (a) has contravened any provision of this Act or any regulations made under this Act;
 
@@ -1242,19 +1737,21 @@ ACT 550
 
 ### Dissolution  of  board  of  managers  or  governors  of  government educational institution
 
-(1) Every  board  of  managers  or  board  of  governors  of  a government educational institution except-
+62. (1) Every board of managers or board of governors of a government educational institution except—
 
 (a) a government national-type primary school; and
 
 (b) a  government  national  primary  school  or  government national secondary school to be determined by the Minister, established prior to the appointed date, shall be dissolved on that date in such manner as the Minister may determine, and thereupon it shall cease to employ and to be  the  employer  of  teachers  and  other  employees,  and every instrument of management or government pertaining to the educational institution shall cease to have effect.
 
-(2) Upon  the  dissolution  of  a  board  of  managers  or  board  of governors of a government educational institution under subsection (1)- Education
+(2) Upon the dissolution of a board of managers or board of governors of a government educational institution under subsection (1)—
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
 51
+
+Education
 
 (a) a  person  acting  as  a  manager  or  governor  immediately prior to the appointed date shall cease to act as such;
 
@@ -1264,17 +1761,17 @@ ACT 550
 
 ### Interpretation
 
-- References  to  a  board  of  governors  in  this  Chapter  shall,  in relation to Sabah, include a Management Committee and, in relation to Sarawak, include a Committee of Management.
+63. References  to  a  board  of  governors  in  this  Chapter  shall,  in relation to Sabah, include a Management Committee and, in relation to Sarawak, include a Committee of Management.
 
-## Chapter 12-Provision of Facilities and Services
+## Chapter 12—Provision of Facilities and Services
 
 ### Power of Minister to render assistance
 
-- Subject  to  any  regulations  made  under  this  Act,  the  Minister may  render  assistance  whether  financial  or  otherwise  in  respect  of pupils  or  any  class  of  pupils  in  government  or  government-aided educational institutions and such assistance may include-
+64. Subject  to  any  regulations  made  under  this  Act,  the  Minister may  render  assistance  whether  financial  or  otherwise  in  respect  of pupils  or  any  class  of  pupils  in  government  or  government-aided educational institutions and such assistance may include—
 
 (a) the granting of bursaries, scholarships, loans or such other assistance; and
 
-(b) the provisions of-
+(b) the provisions of—
 
 (i)   accommodation;
 
@@ -1298,7 +1795,7 @@ ACT 550
 
 ### Medical and dental inspection of pupils
 
-65. (1) Without prejudice to the generality of the powers conferred  by section 64, the Minister shall, so far as it is reasonable and practicable so to do, provide for the medical and dental inspection at appropriate intervals of pupils of government  or governmentaided educational institutions.
+65. (1) Without prejudice to the generality of the powers conferred  by section 64, the Minister shall, so far as it is reasonable and practicable so to do, provide for the medical and dental inspection at appropriate intervals of pupils of government  or government-aided educational institutions.
 
 (2) An  officer  authorized  in  that  behalf  by  the  Minister  may require  the  parent  or  guardian  of  a  pupil  of  a  government  or government-aided educational institution to cause the pupil to undergo medical or dental inspection, in accordance with arrangements  made  by  the  school  authorities,  or  by  a  registered medical  or  dental  practitioner,  and  a  person  who  fails  without reasonable excuse to comply with the requirement shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five hundred ringgit.
 
@@ -1326,7 +1823,7 @@ Education
 
 ### Examinations
 
-68. The Minister may make regulations to provide for-
+68. The Minister may make regulations to provide for—
 
 (a) the examinations to be held for the purposes of this Act;
 
@@ -1346,7 +1843,7 @@ Education
 
 (2) In  granting  approval  under  subsection  (1),  the  Director  of Examinations may impose such restrictions, terms and conditions as he deems fit.
 
-(3) A reference in this section to the holding or conducting of an examination shall be deemed to include the act of-
+(3) A reference in this section to the holding or conducting of an examination shall be deemed to include the act of—
 
 (a) inviting candidates for an examination;
 
@@ -1368,7 +1865,7 @@ ACT 550
 
 (e) issuing  or  granting  any  diploma  or  other  document  or form of recognition in respect of an examination, and any other  act  related  to  the  holding  or  conducting  of  an examination, regardless whether the act is done before or after the examination.
 
-- Subsection (1) shall not apply to-
+(4) Subsection (1) shall not apply to—
 
 (a) a  body  or  syndicate  established  to  manage  and  conduct examinations under paragraph 68 (e) ;
 
@@ -1396,7 +1893,7 @@ Education
 
 ### Establishment of higher educational institutions, etc. , is prohibited
 
-71. No person shall-
+71. No person shall—
 
 (a) establish,  form,  promote  or  carry  on  any  activity  for  the purpose of establishing or forming, or towards the establishment or formation of, a higher educational institution;
 
@@ -1430,17 +1927,17 @@ ACT 550
 
 56
 
-- Notwithstanding  subsection  (1),  every  private  educational institution shall comply with this Act and all regulations made under this Act and applicable to the educational institution.
+(2) Notwithstanding  subsection  (1),  every  private  educational institution shall comply with this Act and all regulations made under this Act and applicable to the educational institution.
 
 (3) This  Part  shall  not  apply  to  a  private  higher  educational institution.
 
 ### Private  educational institutions to comply with the requirement of  National  Curriculum  and  to  prepare  pupils  for  prescribed examinations
 
-- A private educational institution providing primary education or secondary  education  or  both  shall  comply  with  the  requirements  of the  National  Curriculum  and  shall  prepare  pupils  for  prescribed examinations.
+74. A private educational institution providing primary education or secondary  education  or  both  shall  comply  with  the  requirements  of the  National  Curriculum  and  shall  prepare  pupils  for  prescribed examinations.
 
 ### Subjects to be taught in private educational institutions providing post-secondary education
 
-(1) The Minister may require a private educational institution providing post-secondary education to teach the following subjects:
+75. (1) The Minister may require a private educational institution providing post-secondary education to teach the following subjects:
 
 (a) the national language, where the medium of instruction is other than the national language;
 
@@ -1468,9 +1965,13 @@ Education
 
 ### Prohibition  as  to  courses  of  study  and  training  in  respect  of degrees, etc., conferred by universities, etc.
 
-77. (1) No  private  educational  institution  registered  under  this Actshall conduct any course of study or training programme jointly, in association, affiliation or collaboration or otherwise, with a university  or  institution  of  higher  education  or  other  educational institution or organization within or outside Malaysia, except with the approval in writing of the Minister. (2) The Minister shall not give his approval under subsection (1) unless he is satisfied that the private educational institution has made suitable  arrangements  with  the  university  or  institution  of  higher education  or  other  educational  institution  or  organization  as  to  the facilities for the provision of the course of study or training programme referred to in the subsection. (3) When  granting  approval  under  subsection  (1)  the  Minister may impose such terms and conditions as he deems fit. A person who contravenes subsection (1) or fails to comply under subsection (3) shall be guilty of an offence and shall, on conviction, be  liable  to  a  fine  not  exceeding  thirty  thousand  ringgit  or  to
+77. (1) No  private  educational  institution  registered  under  this Act shall conduct any course of study or training programme jointly, in association, affiliation or collaboration or otherwise, with a university  or  institution  of  higher  education  or  other  educational institution or organization within or outside Malaysia, except with the approval in writing of the Minister.
 
-(4) with any term or condition imposed by the Minister imprisonment for a term not exceeding two years or to both.
+(2) The Minister shall not give his approval under subsection (1) unless he is satisfied that the private educational institution has made suitable  arrangements  with  the  university  or  institution  of  higher education  or  other  educational  institution  or  organization  as  to  the facilities for the provision of the course of study or training programme referred to in the subsection.
+
+(3) When  granting  approval  under  subsection  (1)  the  Minister may impose such terms and conditions as he deems fit.
+
+(4) A person who contravenes subsection (1) or fails to comply with any term or condition imposed by the Minister under subsection (3) shall be guilty of an offence and shall, on conviction, be  liable  to  a  fine  not  exceeding  thirty  thousand  ringgit  or  to imprisonment for a term not exceeding two years or to both.
 
 [[END OF PAGE 57]]
 
@@ -1484,29 +1985,29 @@ ACT 550
 
 ### Application of other provisions of the Act to private educational institutions
 
-- For  the  avoidance  of  doubt,  it  is  declared  that  nothing  in  this Part shall affect or derogate from the application of other provisions in this Act to private educational institutions except in so far as the educational institutions have been expressly exempted.
+78. For  the  avoidance  of  doubt,  it  is  declared  that  nothing  in  this Part shall affect or derogate from the application of other provisions in this Act to private educational institutions except in so far as the educational institutions have been expressly exempted.
 
 # PART VIII
 
 ## REGISTRATION OF EDUCATIONAL INSTITUTIONS
 
-## Chapter 1-Registration of Educational Institutions
+## Chapter 1—Registration of Educational Institutions
 
 ### All educational institutions to be registered
 
-(1) Subject to the other provisions of this Act, every educational institution shall be registered under this Act.
+79. (1) Subject to the other provisions of this Act, every educational institution shall be registered under this Act.
 
-- An application for registration under this Act shall be made to the Registrar General in such manner as may be prescribed.
+(2) An application for registration under this Act shall be made to the Registrar General in such manner as may be prescribed.
 
-- The Registrar General may impose such terms and conditions as  he  deems  fit  when  registering  an  educational  institution  under subsection (1).
+(3) The Registrar General may impose such terms and conditions as  he  deems  fit  when  registering  an  educational  institution  under subsection (1).
 
 ### Register
 
-- The Registrar General shall keep or cause to be kept a register of  educational  institutions  in  such  form  and  manner  as  may  be prescribed.
+80. The Registrar General shall keep or cause to be kept a register of  educational  institutions  in  such  form  and  manner  as  may  be prescribed.
 
 ### Provisional certificates of registration
 
-(1) Pending investigation on an application made  under subsection 79(2), the Registrar General may, in his discretion, issue to the person who is to act as chairman of the board of governors or
+81. (1) Pending investigation on an application made  under subsection 79(2), the Registrar General may, in his discretion, issue to the person who is to act as chairman of the board of governors or
 
 [[END OF PAGE 58]]
 
@@ -1546,7 +2047,7 @@ ACT 550
 
 ### Refusal to register an educational institution
 
-- The  Registrar  General  may  refuse  to  register  an  educational institution if he is satisfied-
+84. The  Registrar  General  may  refuse  to  register  an  educational institution if he is satisfied—
 
 (a) that the educational institution does not satisfy the prescribed standards of health and safety;
 
@@ -1582,7 +2083,7 @@ Education
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence  and  shall,  on  conviction,  be  liable  to  a  fine  not  exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-## Chapter 2-Cancellation of Registration
+## Chapter 2—Cancellation of Registration
 
 ### Grounds  for cancellation of registration of an educational institution
 
@@ -1626,7 +2127,7 @@ ACT 550
 
 Education
 
-## Chapter 3-Registration of Governors and Employees
+## Chapter 3—Registration of Governors and Employees
 
 ### All governors and employees to be registered
 
@@ -1638,7 +2139,7 @@ Education
 
 89. (1) Subject to section 90, the Registrar General shall, upon an application  duly  made  and  after  such  enquiry  as  he  may  think necessary, register a person as a governor or an employee in respect of  an  educational  institution  and  shall  issue  to  him  a  certificate  of registration in the prescribed form.
 
-- The Registrar General may in his discretion issue-
+(2) The Registrar General may in his discretion issue—
 
 (a) to  a  person  applying  for  registration  under  this  Chapter (whether on the  registration  of  an  educational  institution or subsequently); or
 
@@ -1656,7 +2157,7 @@ a permit, in such form as may be prescribed, to act in that capacity, and  while
 
 ### Grounds of refusal to register a governor or employee
 
-90. (1) The Registrar General may refuse to register a person as a governor or employee of an educational institution if-
+90. (1) The Registrar General may refuse to register a person as a governor or employee of an educational institution if—
 
 (a) the person has been convicted of an offence by a court of law and sentenced to imprisonment for a term of not less than one  year or to  a  fine  of  not  less  than  two  thousand ringgit;
 
@@ -1686,7 +2187,7 @@ Education
 
 ### Power of Registrar General to strike off the register a governor or employee
 
-93. (1) The  Registrar General  may  strike off the register a governor or employee-
+93. (1) The  Registrar General  may  strike off the register a governor or employee—
 
 (a) on the ground specified in paragraph 90(1) (a) ;
 
@@ -1714,23 +2215,23 @@ ACT 550
 
 ### Persons struck off the register to be notified
 
-- When a person has been struck off the register under section 93 or 94 the Registrar General shall forthwith inform him by notice in writing that he has been so struck off and of the grounds thereof.
+95. When a person has been struck off the register under section 93 or 94 the Registrar General shall forthwith inform him by notice in writing that he has been so struck off and of the grounds thereof.
 
 ### Appeal against striking off the register
 
-- A  person  struck  off  the  register  under  section  93  or  94  may, within  twenty-one  days  of  the  notice  being  served  upon  him  in accordance with section 95, appeal to the Minister.
+96. A  person  struck  off  the  register  under  section  93  or  94  may, within  twenty-one  days  of  the  notice  being  served  upon  him  in accordance with section 95, appeal to the Minister.
 
 ### Surrender of certificate of registration
 
-(1) A person who has been struck off the register shall, within twenty-one  days  of  the  service  of  the  notice  under  section  95, surrender to the Registrar General the certificate of registration issued to  him  under  this  Act  or  any  previous  written  law  relating  to  the registration of a governor or an employee, as the case may be, of an educational institution.
+97. (1) A person who has been struck off the register shall, within twenty-one  days  of  the  service  of  the  notice  under  section  95, surrender to the Registrar General the certificate of registration issued to  him  under  this  Act  or  any  previous  written  law  relating  to  the registration of a governor or an employee, as the case may be, of an educational institution.
 
-- If an appeal is made under section 96, the certificate referred to in subsection (1) need not be surrendered until the determination of the appeal in favour of the Registrar General.
+(2) If an appeal is made under section 96, the certificate referred to in subsection (1) need not be surrendered until the determination of the appeal in favour of the Registrar General.
 
-## Chapter 4-Registration of Pupils
+## Chapter 4—Registration of Pupils
 
 ### Registration of pupils
 
-- The  governors,  head  teachers  or  other  persons  responsible  for the management of an educational institution shall keep or cause to be kept, in such manner as may be prescribed, a register containing the prescribed particulars with respect to all pupils at the educational institution.
+98. The  governors,  head  teachers  or  other  persons  responsible  for the management of an educational institution shall keep or cause to be kept, in such manner as may be prescribed, a register containing the prescribed particulars with respect to all pupils at the educational institution.
 
 [[END OF PAGE 66]]
 
@@ -1740,7 +2241,7 @@ ACT 550
 
 Education
 
-## Chapter 5-Inspection of Educational Institutions by the Registrar General
+## Chapter 5—Inspection of Educational Institutions by the Registrar General
 
 ### Inspections to be made from time to time
 
@@ -1748,13 +2249,13 @@ Education
 
 ### Powers of Registrar General on inspection of registered educational institutions
 
-100. (1) In  carrying  out  an  inspection  pursuant  to  section  99,  the Registrar General may-
+100. (1) In  carrying  out  an  inspection  pursuant  to  section  99,  the Registrar General may—
 
 (a) enter  any  premises  and  examine  such  book,  document, electronic  media  material  or  other  article  as  he  may consider necessary; and
 
 (b) remove and detain any book, document, electronic media material  or  other  article  which  appears  to  him  to  be detrimental to the interests of the public or the pupils or which, in his opinion, may  furnish evidence of the commission of an offence under this Act.
 
-- The Registrar General at any time whilst lawfully carrying out any  inspection  of  an  educational  institution  under  this  Act  may require  any  person,  being  a  governor,  an  employee,  a  teacher  or  a pupil of the educational institution, to produce for his inspection any book, document, electronic media material or other article relating to the management of, or to the teaching carried on in, the educational institution which is in the person's possession or under his control or within his power to furnish.
+(2) The Registrar General at any time whilst lawfully carrying out any  inspection  of  an  educational  institution  under  this  Act  may require  any  person,  being  a  governor,  an  employee,  a  teacher  or  a pupil of the educational institution, to produce for his inspection any book, document, electronic media material or other article relating to the management of, or to the teaching carried on in, the educational institution which is in the person's possession or under his control or within his power to furnish.
 
 [[END OF PAGE 67]]
 
@@ -1768,7 +2269,7 @@ ACT 550
 
 ### Inspection of premises of unregistered educational institutions
 
-101. Where the Registrar General or a public officer authorized by the Registrar General in that behalf in writing or a police officer not below the rank of Inspector has reasonable cause to believe that any house,  building  or  other  place  is  being  used  as  an  educational institution  without  being  registered  under  this  Act,  the  Registrar General  or  the  public  officer  or  the  police  officer,  accompanied  by such persons as he may deem necessary, may-
+101. Where the Registrar General or a public officer authorized by the Registrar General in that behalf in writing or a police officer not below the rank of Inspector has reasonable cause to believe that any house,  building  or  other  place  is  being  used  as  an  educational institution  without  being  registered  under  this  Act,  the  Registrar General  or  the  public  officer  or  the  police  officer,  accompanied  by such persons as he may deem necessary, may—
 
 (a) enter and inspect the house, building or place; and
 
@@ -1792,13 +2293,13 @@ Education
 
 ## REGISTRATION OF TEACHERS
 
-## Chapter 1-Registration of Teachers
+## Chapter 1—Registration of Teachers
 
 ### Prohibition to teach
 
 103. (1)   Subject  to  subsection  (2),  no  person  shall  teach  in  an educational institution unless he is registered as a teacher under this Act.
 
-- Subsection (1) shall not apply-
+(2) Subsection (1) shall not apply—
 
 (a) to  a  person  who  is  a  member  of  the  Education  Service teaching in government or government-aided educational institution;
 
@@ -1826,7 +2327,7 @@ ACT 550
 
 ### Power  of  Registrar  General  to  refuse  to  register  a  person  as  a teacher
 
-106. The  Registrar  General  may  refuse  to  register  a  person  as  a teacher under this Act if he is satisfied that the person-
+106. The  Registrar  General  may  refuse  to  register  a  person  as  a teacher under this Act if he is satisfied that the person—
 
 (a) is under the age of eighteen years;
 
@@ -1846,13 +2347,17 @@ ACT 550
 
 ### Appeal against refusal to register a person as a teacher
 
-108. A person aggrieved by the refusal of the Registrar General to register him as a teacher may, within twenty-one days of the notice Education being served upon him in accordance with section 107, appeal to the Minister.
+108. A person aggrieved by the refusal of the Registrar General to register him as a teacher may, within twenty-one days of the notice
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
 
 71
+
+Education
+
+being served upon him in accordance with section 107, appeal to the Minister.
 
 ### Registration of teachers
 
@@ -1862,7 +2367,7 @@ ACT 550
 
 ### Revocation of registration after notice
 
-110. (1)   If the Registrar General is satisfied-
+110. (1)   If the Registrar General is satisfied—
 
 (a) that it is expedient so to do on any of the grounds set out in paragraphs 106 (c) to (e) ;
 
@@ -1910,13 +2415,13 @@ Education
 
 ### Transitional provisions as to registration of teachers
 
-- A person who on the appointed date was registered or deemed to be registered as a teacher under the Education Act 1961 [ Act 43 of 1961 ] shall be deemed to have been so registered under this Act and shall be subject to this Act.
+113. A person who on the appointed date was registered or deemed to be registered as a teacher under the Education Act 1961 [Act 43 of 1961] shall be deemed to have been so registered under this Act and shall be subject to this Act.
 
-## Chapter 2-Permits to Teach
+## Chapter 2—Permits to Teach
 
 ### Issue of permits to teach
 
-(1)   The Registrar General may issue a permit to teach to the following persons, not being registered teachers:
+114. (1)   The Registrar General may issue a permit to teach to the following persons, not being registered teachers:
 
 (a) a student teacher, other than those specified in paragraph  103(2) (c) ,  undergoing  training  as  a  teacher  in accordance with a scheme approved by the Minister;
 
@@ -1924,15 +2429,15 @@ Education
 
 (c) a person who is needed to act temporarily as a teacher.
 
-- A permit to teach shall be in such form and subject to such conditions as may be prescribed.
+(2) A permit to teach shall be in such form and subject to such conditions as may be prescribed.
 
-- The Registrar General may, at any time and at his discretion, revoke a permit to teach by giving notice in writing to the holder of the permit.
+(3) The Registrar General may, at any time and at his discretion, revoke a permit to teach by giving notice in writing to the holder of the permit.
 
-## Chapter 3-Miscellaneous
+## Chapter 3—Miscellaneous
 
 ### Surrender of certificates of registration as a teacher
 
-- A certificate of registration as a teacher issued under this Act or any former written law relating to registration of teachers or any document evidencing registration or exemption from registration as a teacher or that a teacher is deemed to be registered under such law, or a permit to teach issued under section 114 shall-
+115. A certificate of registration as a teacher issued under this Act or any former written law relating to registration of teachers or any document evidencing registration or exemption from registration as a teacher or that a teacher is deemed to be registered under such law, or a permit to teach issued under section 114 shall—
 
 [[END OF PAGE 73]]
 
@@ -1956,23 +2461,25 @@ be surrendered within twenty-one days by the person to whom it was issued  or  t
 
 ### Duty of teacher to notify change of educational institution
 
-116. Every registered teacher shall within fourteen days of commencing or ceasing to teach in an educational institution report in writing to the Registrar General the name  of  the educational institution in which he is teaching or has ceased to each and the date on which he commenced  teaching  or ceased to teach in the educational institution.
+116. Every registered teacher shall within fourteen days of commencing or ceasing to teach in an educational institution report in writing to the Registrar General the name  of  the educational institution in which he is teaching or has ceased to teach and the date on which he commenced  teaching  or ceased to teach in the educational institution.
 
 # PART X
 
 ## THE INSPECTORATE OF SCHOOLS
 
-## Chapter 1-The Inspectorate
+## Chapter 1—The Inspectorate
 
 ### Duties of Chief Inspector
 
-117. The Chief Inspector shall- Education
+117. The Chief Inspector shall—
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
 75
+
+Education
 
 (a) be  responsible,  in  collaboration  with  such  authorities  as the  Minister  may  appoint,  for  ensuring  that  an  adequate standard  of  teaching  is  developed  and  maintained  in educational institutions;
 
@@ -2008,7 +2515,7 @@ and  where  the  report  is  made  by  an  Inspector  of  Schools,  he  shall en
 
 (2) A  report on an educational institution submitted under subsection  (1)  shall  be  a  confidential  document  but  may,  in  the discretion of the Minister, be made available to those responsible for the  administration  of  the  educational  institution  and  any  teacher therein and the report so made available shall be made available in its entirety.
 
-## Chapter 2-General
+## Chapter 2—General
 
 ### General powers of Inspectors of Schools
 
@@ -2034,7 +2541,7 @@ management  of  the  educational  institution,  teacher, employee or person to f
 
 ### Chief Inspector may authorize Education Officers to act on his behalf
 
-- The  Chief  Inspector  may  authorize  in  writing  an  Education Officer appointed under section 4 to act on his behalf in exercising his powers or carrying out his duties under this Act.
+122. The Chief Inspector may authorize in writing an Education Officer appointed under section 4 to act on his behalf in exercising his powers or carrying out his duties under this Act.
 
 # PART XI
 
@@ -2042,15 +2549,15 @@ management  of  the  educational  institution,  teacher, employee or person to f
 
 ### Saving relating to Minister
 
-- Except in so far as moneys are approved or provided for that purpose  by  Parliament  or  otherwise,  nothing  in  this  Act  shall  be deemed  to  impose  any  duty  upon  the  Minister  to  establish  and maintain  an  educational  institution  under  this  Act  or  to  maintain wholly or partially an educational institution.
+123. Except in so far as moneys are approved or provided for that purpose by Parliament or otherwise, nothing in this Act shall be deemed to impose any duty upon the Minister to establish and maintain an educational institution under this Act or to maintain wholly or partially an educational institution.
 
 ### Grant-in-aid and capital grant to be subject to conditions, etc. , as may be prescribed
 
-- Any grant-in-aid or capital grant payable under this Act to an educational institution other than a government educational institution from funds provided by Parliament for that purpose shall be paid subject to  such  conditions  and  limitations  as  may  be prescribed.
+124. Any grant-in-aid or capital grant payable under this Act to an educational institution other than a government educational institution from funds provided by Parliament for that purpose shall be paid subject to such conditions and limitations as may be prescribed.
 
 ### Power of Minister to suspend or cancel payment of any grant
 
-- The Minister may suspend or cancel or cause to be suspended or cancelled the payment of any grant to an educational institution if the governors or any other person responsible for the management of
+125. The Minister may suspend or cancel or cause to be suspended or cancelled the payment of any grant to an educational institution if the governors or any other person responsible for the management of
 
 [[END OF PAGE 77]]
 
@@ -2074,7 +2581,7 @@ the  educational  institution  has  failed  to  comply  with  any  of  the provi
 
 (2) After  considering  the  report  submitted  under  subsection  (1), the  Minister  shall  decide  the  matter  of  the  appeal  and  make  such order thereon as he deems fit and proper.
 
-- The decision of the Minister on an appeal shall be final.
+(3) The decision of the Minister on an appeal shall be final.
 
 ### Powers of Committee of Enquiry
 
@@ -2210,7 +2717,7 @@ Education
 
 (y) the  manner  of  determining  the  amount  of  grant-in-aid payable to government-aided educational institutions;
 
-(z) the  conditions  and  limitations  upon  or  subject  to  which grants-in-aid or capital grants shall be paid to governmentaided educational institutions;
+(z) the conditions and limitations upon or subject to which grants-in-aid or capital grants shall be paid to government-aided educational institutions;
 
 (aa) the  determination  of  approved  fees  to  be  charged  in respect of attendance at educational institutions generally, or any class of government-aided educational institutions and the payment or remission of the fees;
 
@@ -2252,7 +2759,7 @@ ACT 550
 
 Education
 
-- A person who-
+(2) A person who—
 
 (a) on making an application under this Act for the registration of an educational institution or for registration as a governor or employee, or otherwise for the purpose of inducing the Registrar General to exercise or refrain from exercising his powers under this Act, makes any statement which he knows to be false or does not believe to be true or intentionally suppresses any material fact, or furnishes any information which is misleading;
 
@@ -2284,7 +2791,7 @@ educational institution from being used for any activity or purpose  of  an  unl
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine  not  exceeding  thirty  thousand  ringgit  or  to  imprisonment  for  a term not exceeding two years or to both.
 
-- A person who-
+(3) A person who—
 
 (a) being the chairman of a board of governors or being the person responsible for the management of an educational institution  fails  to  cause  a  copy  of  the  certificate  of registration of the educational institution to be exhibited in accordance with subsection 82(2);
 
@@ -2298,7 +2805,7 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 ### Offences and penalties relating to registration of teachers
 
-133. (1)   A person who, in making an application for registration as a  teacher  or  otherwise  for  the  purpose  of  inducing  the  Registrar General  to  exercise  or  refrain  from  exercising  his  power  under  this Education Act,  makes  any  statement  which  he  knows  to  be  false  or  does  not believe  to  be  true  or  intentionally  suppresses  any  material  fact  or furnishes any information which is misleading, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand  ringgit  or  to  imprisonment  for  a  term  not  exceeding  one year or to both.
+133. (1) A person who, in making an application for registration as a teacher or otherwise for the purpose of inducing the Registrar General to exercise or refrain from exercising his power under this
 
 [[END OF PAGE 86]]
 
@@ -2306,7 +2813,11 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 87
 
-- A person who-
+Education
+
+Act, makes any statement which he knows to be false or does not believe to be true or intentionally suppresses any material fact or furnishes any information which is misleading, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.
+
+(2) A person who—
 
 (a) acts as a teacher in an educational institution in contravention of subsection 103(1);
 
@@ -2442,7 +2953,7 @@ ACT 550
 
 ### Special Committee
 
-- Notwithstanding any other provision in this Act, the Minister may constitute a special committee consisting of such persons as the Minister may appoint in respect of-
+144. Notwithstanding any other provision in this Act, the Minister may constitute a special committee consisting of such persons as the Minister may appoint in respect of—
 
 (a) any particular educational institution or class of educational institutions; or
 
@@ -2452,7 +2963,7 @@ for the purpose of advising him in matters relating thereto, and may in  his  di
 
 ### Service of notices, etc.
 
-(1)   Any notice, order or communication, which is required to be, or which may be, sent to or served on-
+145. (1) Any notice, order or communication, which is required to be, or which may be, sent to or served on—
 
 (a) a  chairman  of  a  board  of  governors,  governor  or  other person responsible for  the management, or an employee, of  an  educational  institution  registered  under  this  Act, may  be  served  by  letter addressed  to the  chairman, governor, person or employee at the registered address of the  educational  institution  or  may  be  served  by  affixing
 
@@ -2494,23 +3005,23 @@ Laws of Malaysia ACT 550
 
 94
 
-(b) national-type primary schools shall be known as nationaltype schools.
+(b) national-type primary schools shall be known as national-type schools.
 
 ### Secondary  vocational  schools  to  be  part  of  national  secondary schools until annulled
 
-- Secondary vocational schools established before the appointed date shall continue to be part of the national secondary schools under paragraph 30(1) (b) until such schools are annulled by the Minister by order published in the Gazette .
+147. Secondary vocational schools established before the appointed date shall continue to be part of the national secondary schools under paragraph 30(1)(b) until such schools are annulled by the Minister by order published in the Gazette.
 
 ### Assistance to existing educational institutions
 
-- Subject  to the provisions  of  this Act, the Minister  shall continue to assist all educational institutions which were in receipt of grant-in-aid or other similar financial assistance from the Government or from public funds on the day immediately preceding the appointed date.
+148. Subject to the provisions of this Act, the Minister shall continue to assist all educational institutions which were in receipt of grant-in-aid or other similar financial assistance from the Government or from public funds on the day immediately preceding the appointed date.
 
 ### Saving in respect of contribution towards religious teaching
 
-- Notwithstanding anything to the contrary, the Federal Government may continue to make payments in respect of the cost referred  to  in  section  37  of  the  Education  Act  1961  in  relation  to religious  instruction  given  under  section  36  of  the  Act  as  if  the sections had not been repealed by this Act.
+149. Notwithstanding anything to the contrary, the Federal Government may continue to make payments in respect of the cost referred to in section 37 of the Education Act 1961 in relation to religious instruction given under section 36 of the Act as if the sections had not been repealed by this Act.
 
 ### Saving  in  respect  of  certain  exempted  educational  institutions, etc.
 
-- Until  such  date  as  the  Minister  may,  by  notification  in  the Gazette , appoint-
+150. Until such date as the Minister may, by notification in the Gazette, appoint—
 
 (a) all  educational  institutions  exempted from the provisions of the Education Act 1961 by section 127 of the Act shall
 
@@ -2538,7 +3049,7 @@ be  exempted  from  the  corresponding  provisions  of  this Act; and
 
 152. (1)   The Minister may, on a date to be determined by him, by notice published in the Gazette ,  order the winding up of the Central Board established under section 92 of the Education Act 1961.
 
-- Upon its winding up-
+(2) Upon its winding up—
 
 (a) the members, including the Chairman of the Board, shall cease to hold office;
 
@@ -2584,7 +3095,7 @@ Education
 
 Order 1975 [ P.U. (A) 425/1975 ] and the Education Act (Extension to Sabah) Order 1976 [ P.U. (A) 176/1976 ] are repealed.
 
-- All  appointments,  regulations,  rules,  by-laws,  exemptions, directions  and  orders  made,  all  registers  kept  and  all  certificates granted  or  having  effect  under  the  laws  or  orders  repealed  by  this section  and  in  force  or  having  effect  at  the  commencement  of  this Act, shall (without prejudice to the power of the Minister to amend the  regulations,  rules  and  by-laws,  by  any  regulations  or  to  amend, revoke or withdraw the exemptions, directions or certificates by order or  direction  made  under  the  appropriate  provisions  of  this  Act  and subject  to  such  modifications  as  may  be  necessary  to  bring  the regulations, rules, by-laws,  exemptions,  directions,  or  orders in conformity with this Act) continue to be in force and have effect as if they had been made, kept, or granted under this Act, until otherwise provided for under this Act.
+(2) All appointments, regulations, rules, by-laws, exemptions, directions and orders made, all registers kept and all certificates granted or having effect under the laws or orders repealed by this section and in force or having effect at the commencement of this Act, shall (without prejudice to the power of the Minister to amend the regulations, rules and by-laws, by any regulations or to amend, revoke or withdraw the exemptions, directions or certificates by order or direction made under the appropriate provisions of this Act and subject to such modifications as may be necessary to bring the regulations, rules, by-laws, exemptions, directions, or orders in conformity with this Act) continue to be in force and have effect as if they had been made, kept, or granted under this Act, until otherwise provided for under this Act.
 
 ### Power of Minister of Finance
 
@@ -2600,11 +3111,11 @@ ______________________________
 
 ### Core subjects in the National Curriculum
 
-- The core subjects in the National Curriculum shall form the fundamental basis of the education of a pupil in all schools within the National Education System.
+1. The core subjects in the National Curriculum shall form the fundamental basis of the education of a pupil in all schools within the National Education System.
 
 ### Core subjects at the primary level
 
-- The core subjects at the primary school level shall be-
+2. The core subjects at the primary school level shall be—
 
 [[END OF PAGE 97]]
 
@@ -2634,7 +3145,7 @@ Laws of Malaysia ACT 550
 
 ### Core subjects at the secondary level
 
-- The core subjects at the secondary school level shall be-
+3. The core subjects at the secondary school level shall be—
 
 (a) the National Language;
 
@@ -2656,6 +3167,8 @@ ______________________________
 
 [[START OF PAGE 99]]
 
+99
+
 LAWS OF MALAYSIA
 
 Act 550
@@ -2669,8 +3182,6 @@ Amending law | Short title | In force from
 Act A1152 | Education (Amendment) Act 2002 | 01-01-2003
 Act A1341 | Education (Amendment) Act 2008 | 15-06-2009
 Act A1490 | Education (Amendment) Act 2015 | 01-01-2012
-
-99
 
 [[END OF PAGE 99]]
 
@@ -2686,128 +3197,29 @@ Act 550
 
 ## LIST OF SECTIONS AMENDED
 
-Section                                       Amending authority                           In force from
-
-2
-
-5
-
-9A
-
-15
-
-22
-
-29
-
-29A
-
-33A
-
-33B
-
-33C
-
-33D
-
-35
-
-44
-
-49
-
-67
-
-77
-
-130
-
-Throughout the Act Act A1152
-
-Act A1341
-
-Act A1490
-
-Act A1152
-
-Act A1341
-
-Act A1341
-
-Act A1152
-
-Act A1152
-
-Act A1341
-
-Act A1152
-
-Act A1152
-
-Act A1490
-
-Act A1490
-
-Act A1490
-
-Act A1490
-
-Act A1490
-
-Act A1341
-
-Act A1341
-
-Act A1341
-
-Act A1341
-
-Act A1490
-
-Act A1341
-
-01-01-2003
-
-15-06-2009
-
-01-01-2012
-
-01-01-2003
-
-15-06-2009
-
-15-06-2009
-
-01-01-2003
-
-01-01-2003
-
-15-06-2009
-
-01-01-2003
-
-01-01-2003
-
-01-01-2012
-
-01-01-2012
-
-01-01-2012
-
-01-01-2012
-
-01-01-2012
-
-15-06-2009
-
-15-06-2009
-
-15-06-2009
-
-15-06-2009
-
-01-01-2012
-
-15-06-2009
+Section | Amending authority | In force from
+--- | --- | ---
+2 | Act A1152 | 01-01-2003
+ | Act A1341 | 15-06-2009
+ | Act A1490 | 01-01-2012
+5 | Act A1152 | 01-01-2003
+ | Act A1341 | 15-06-2009
+9A | Act A1341 | 15-06-2009
+15 | Act A1152 | 01-01-2003
+22 | Act A1152 | 01-01-2003
+ | Act A1341 | 15-06-2009
+29 | Act A1152 | 01-01-2003
+29A | Act A1152 | 01-01-2003
+33A | Act A1490 | 01-01-2012
+33B | Act A1490 | 01-01-2012
+33C | Act A1490 | 01-01-2012
+33D | Act A1490 | 01-01-2012
+35 | Act A1490 | 01-01-2012
+44 | Act A1341 | 15-06-2009
+49 | Act A1341 | 15-06-2009
+67 | Act A1341 | 15-06-2009
+77 | Act A1341 | 15-06-2009
+130 | Act A1490 | 01-01-2012
+Throughout the Act | Act A1341 | 15-06-2009
 
 [[END OF PAGE 100]]
