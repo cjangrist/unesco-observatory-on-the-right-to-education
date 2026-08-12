@@ -2,7 +2,7 @@
 
 Lao People's Democratic Republic Peace Independence Unity Prosperity
 
-# 8 th  FIVE-YEAR NATIONAL SOCIOECONOMIC DEVELOPMENT PLAN (2016-2020)
+# 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 (Officially approved at the VIIIth National Assembly's Inaugural Session, 20-23 April 2016, Vientiane)
 
@@ -18,11 +18,12 @@ Ministry of Planning and Investment June 2016
 
 [[START OF PAGE 3]]
 
+Ministry of Planning and Investment
+June 2016
+
 # 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 (Officially approved at the VIIIth National Assembly's Inaugural Session, 20-23 April 2016, Vientiane)
-
-Ministry of Planning and Investment June 2016
 
 [[END OF PAGE 3]]
 
@@ -32,7 +33,7 @@ Ministry of Planning and Investment June 2016
 
 The 8th Five-Year National Socio-economic Development Plan (2016-2020) '8th NSEDP' is a mean to implement the resolutions of the 10th Party Conference that also emphasizes the areas from the previous plan implementation that still need to be achieved. The Plan also reflects the Socio-economic Development Strategy until 2025 and Vision 2030 with an aim to build a new foundation for graduating from LDC status by 2020 to become an upper-middle-income country by 2030. Therefore, the 8th NSEDP is an important tool central to the assurance of the national defence and development of the party's new directions.
 
-Furthermore, the 8th NSEDP is a result of the Government's breakthrough in mindset. It is an outcomebased plan that resulted from close research and, thus, it is constructed with the clear development outcomes and outputs corresponding to the sector and provincial development plans that should be able to ensure harmonization in the Plan performance within provided sources of funding, including a government budget, grants and loans, domestic and foregin private investments, and investments in the financial system. The Plan has also complemented the monitoring and evaluation framework to keep track of implementation progress, which can be a reference for all stakeholders to support, monitor and evaluate the implementation within their domain in each period, especially to support reporting on the progress of the annual, mid-term and end-of-term implementation by achievements, weaknesses, pending issues and challenges that need to be improved and adjusted under the updated circumstances.
+Furthermore, the 8th NSEDP is a result of the Government's breakthrough in mindset. It is an outcome-based plan that resulted from close research and, thus, it is constructed with the clear development outcomes and outputs corresponding to the sector and provincial development plans that should be able to ensure harmonization in the Plan performance within provided sources of funding, including a government budget, grants and loans, domestic and foregin private investments, and investments in the financial system. The Plan has also complemented the monitoring and evaluation framework to keep track of implementation progress, which can be a reference for all stakeholders to support, monitor and evaluate the implementation within their domain in each period, especially to support reporting on the progress of the annual, mid-term and end-of-term implementation by achievements, weaknesses, pending issues and challenges that need to be improved and adjusted under the updated circumstances.
 
 Vientiane Capital, 1 June 2016
 
@@ -46,23 +47,257 @@ Minister of Planning and Investment
 
 # Contents
 
+FOREWORD ii
+
+PART I – 7th FIVE-YEAR SOCIO-ECONOMIC DEVELOPMENT PLAN (2011–2015) –
+IMPLEMENTATION REPORT 2
+
+1. TARGETS AND DIRECTIONS OF THE 7th NSEDP (2011–2015) 2
+
+2. INTERNATIONAL AND DOMESTIC CONTEXT 3
+
+2.1 Global and Regional Context 3
+
+2.2 Domestic Context 3
+
+3. KEY MACROECONOMIC ACHIEVEMENTS OF THE 7th NSEDP IMPLEMENTATION 4
+
+3.1 Macroeconomic Achievements 4
+
+3.1.1 Economic Growth 4
+
+3.1.2 Inflation 6
+
+3.1.3 Fiscal and Monetary Policy Management 6
+
+3.1.4 Money Supply (M2) 7
+
+3.1.5 Foreign Currency Reserves 7
+
+3.2 Macro balance 8
+
+3.2.1 Investment for Development 8
+
+3.2.2 State Budget Balance 10
+
+3.2.3 Import–Export 11
+
+3.2.4 Labour and Employment 11
+
+3.3 Rural Development and Poverty Reduction 12
+
+3.4 Sector Achievements 13
+
+3.4.1 Economic Sector Development 13
+
+3.4.2 Social Development 31
+
+3.4.3 Sustainable Development, Environmental Protection and Natural Resource Management 43
+
+3.4.4 Enterprise Development 46
+
+3.4.5 Implementation of the Millennium Development Goals (MDGs) 47
+
+3.4.6 Regional and Local Development 55
+
+3.4.7 Public Sector Development 64
+
+3.4.8 Implementation of “Building province as a strategic unit, district as a strong
+comprehensive unit and village as a development unit” 67
+
+3.4.9 National Defence – Security 68
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-(this page came through the extractor with no text)
+3.4.10 International and Regional Cooperation 69
+
+3.5 Summary of Sector Achievements and Challenges 72
+
+3.5.1 Summary of Achievements 72
+
+3.5.2 Outstanding Issues 74
+
+3.5.3 7th NSEDP Lessons Learnt to be Applied to 8th NSEDP Design 76
+
+PART II – 8th NSEDP (2016–2020) 81
+
+4. CONTEXT OF 8th NSEDP 82
+
+4.1 Favourable Environment 82
+
+4.1.1 Regional and International Context 82
+
+4.1.2 Domestic Context 82
+
+4.2 Anticipated Challenges 82
+
+4.2.1 Regional and International Context 82
+
+4.2.2 Domestic Context 83
+
+4.3 Population Policy Issues 83
+
+4.4 Sustainable development 84
+
+4.5 LDC Graduation 85
+
+5. LONG-TERM PLANS: VISION 2030, STRATEGY 2025 AND MAIN DIRECTIONS FOR 2016–2020 86
+
+5.1 Vision 2030 86
+
+5.2 Ten-year Socio-economic Development Strategy (2016–2025) 86
+
+5.3 Key Government Direction for the 8th NSEDP (2016–2020) 87
+
+6. OVERALL OBJECTIVE, OUTCOMES AND OUTPUTS OF THE 8TH NSEDP 87
+
+6.1 Overall objective and objective-Level Performance Indicators and Targets 87
+
+6.2 Outcomes of the 8th NSEDP (2016–2020) 89
+
+6.3 Summary of Outputs Required to Achieve Each Outcome 94
+
+6.4 Outcome 1 Outputs 94
+
+6.4.1 Outcome 1, Output 1: Ensuring Sustained and Inclusive Economic Growth 94
+
+6.4.2 Outcome 1, Output 2: Macroeconomic Stability 103
+
+6.4.3 Outcome 1, Output 3: Development Planning and Budgeting are Aligned 105
+
+6.4.4 Outcome 1, Output 4: Balanced Regional and Local Development 106
+
+6.4.5 Outcome 1, Output 5: Improved Public/Private Labour Force Capacity 116
+
+6.4.6 Outcome 1, Output 6: Develop Entrepreneurs, technical experts and professionals 118
+
+6.4.7 Outcome 1, Output 7: Regional and International Cooperation and Integration 119
+
+6.5 Outcome 2 Outputs 124
+
+6.5.1 Outcome 2, Output 1: Improved Living Standards through Poverty Reduction using
+the 3-Builds Directions 124
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-(this page came through the extractor with no text)
+6.5.2 Outcome 2, Output 2: Food security Ensured and Malnutrition Reduced 127
+
+6.5.3 Outcome 2, Output 3: Universal Access to Quality Education: 130
+
+6.5.4 Outcome 2, Output 4 – Universal Access to QUALITY Health Care Services 132
+
+6.5.5 Outcome 2, Output 5: Improvement of and Access to Social Protection 133
+
+6.5.6 Outcome 2, Output 6: Protection of national Traditions and Cultures 134
+
+6.5.7 Outcome 2, Output 7: Maintain Political Stability, Social Peace, Order, Justice and
+Transparency 135
+
+6.6 Outcome 3 Outputs 138
+
+6.6.1 Outcome 3, Output 1: Environmental Protection and Sustainable Natural Resources
+Management 138
+
+6.6.2 Outcome 3, Output 2: Prepare to Cope with the Disaster Risks and Impacts from Climate
+Change 142
+
+6.6.3 Outcome 3, Output 3: Reducing the Instability of Agricultural Production Caused by
+Disaster Impact 145
+
+6.7 Priority Cross-Cutting Outputs 146
+
+6.7.1 Enhance Effectiveness of the Public Governance and Administration 146
+
+6.7.2 Promote Local Innovation and Utilization of Science, Technology and Telecommunications
+and Management and Application of ICT 150
+
+6.7.3 Promote and Develop Women, Juveniles and Young People 153
+
+PART III: 8th NSEDP IMPLEMENTATING MEASURES 164
+
+7. POLICIES 164
+
+8. IMPLEMENTING MEASURES OF THE 8th NSEDP (2016–2020) 164
+
+8.1 Macroeconomic Framework 164
+
+8.2 Financing Plan 165
+
+8.3 Revenue and Expenditure Management 166
+
+8.4 Production 167
+
+8.5 Transit Services and Logistics 167
+
+8.6 Science and Technology Application 167
+
+8.7 Promotion of Small and Medium-Sized Enterprises 168
+
+8.8 Capacity Building 168
+
+9. ROLL-OUT OF 8th NSEDP 169
+
+10. 8th NSEDP MONITORING AND EVALUATION 169
+
+10.1 Key Elements of The 8th NSEDP M&E System 169
+
+10.2 Monitoring and Evaluation 170
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+# ANNEXES
+
+174
+184
+186
+187
+189
+
 # LIST OF TABLES
+
+Table 1: Comparison between GDP Growth Rate of each Fiscal Year with the 7th NSEDP Targets (2011–2015) 4
+
+Table 2: Gross Domestic Product (GDP) per Capita 5
+
+Table 3: Changes of Economic Structure in Each Fiscal Year compared with the 7th NSEDP Targets 5
+
+Table 4 : Changes in the Inflation Composition 6
+
+Table 5: Foreign Currency Exchange Rate 7
+
+Table 6: Money Supply Growth 7
+
+Table 7: Foreign Currency Reserves 7
+
+Table 8: Bank Credit Investment 10
+
+Table 9: Summary of Revenue and Expenditure 11
+
+Table 10: Number of Tourist Arrivals and Revenue from Tourism 38
+
+Table 11: Universal Access for Primary Education Indicators 50
+
+Table 12: Gender Equality and Advancement of Women Indicators 50
+
+Table 13: Child Mortality Reduction Indicators 51
+
+Table 14: Maternity Health Indicators 52
+
+Table 15: 7th Five-Year NSEDP Performance in the Northern Region 58
+
+Table 16: 7th Five-Year Plan Performance of the Central Region 61
+
+Table 17: 7th NSEDP Implementation Performance in the Southern Region 63
+
+Table 18: Overall Objective-Level Performance Indicators and Targets 88
+
+Table 19: Outcome Indicators and Targets 91
 
 [[END OF PAGE 8]]
 
@@ -128,7 +363,7 @@ Consequently, the economic growth of some countries has hindered. The world econ
 
 ### 2.2 Domestic Context
 
-Between 2010 and 2015, the country enjoyed political stability, peace, social order and broadened international cooperation. Prominently, Lao PDR has had the honour to host many important international meetings, such as the 7 th  Asia-Europe Parliamentary Meeting and the 9 th  Asia-Europe Summit in October and November 2012 respectively; the 6th Cambodia-Lao PDR-Myanmar-Vietnam(CLMV) Summit; and the 4 th   Aryavady-Chaophaya-Mekong Economic Cooperation Summit (ACMECS), 12-13 March 2013; and the 35 th   ASEAN Parliamentary Meeting in 2014. These historic events provided opportunities for member countries and development partners to explore and understand the development potentials and international cooperation policy of Lao PDR. In addition, the country also hosted the 16 th  ASEAN University Games in December 2012, organized the campaign 'Love the Nation and Development' , held the 9 th People's  Party  Congress,  celebrated the 450 th Anniversary of Vientiane Capital in 2010, 40 th Anniversary of Lao PDR and 60 th Anniversary of the Lao People's Party Establishment. Essentially, Lao PDR became a member of the World Trade Organization (WTO) on 2 February 2013. All of these events have underpinned development and facilitated business investment, production, and services. Nevertheless, development drawbacks were unavoidable caused by severe floods and heavy storms in 2012-2013, which largely damaged cultivated areas, infrastructure and households. To address these issues, the Government allocated funding for rehabilitation and reconstruction in order to enable continued economic growth and stability.
+Between 2010 and 2015, the country enjoyed political stability, peace, social order and broadened international cooperation. Prominently, Lao PDR has had the honour to host many important international meetings, such as the 7 th  Asia-Europe Parliamentary Meeting and the 9 th  Asia-Europe Summit in October and November 2012 respectively; the 6th Cambodia-Lao PDR-Myanmar-Vietnam(CLMV) Summit; and the 4 th   Aryavady-Chaophaya-Mekong Economic Cooperation Summit (ACMECS), 12-13 March 2013; and the 35 th   ASEAN Parliamentary Meeting in 2014. These historic events provided opportunities for member countries and development partners to explore and understand the development potentials and international cooperation policy of Lao PDR. In addition, the country also hosted the 16 th  ASEAN University Games in December 2012, organized the campaign 'Love the Nation and Development' , held the 9 th People's  Party  Congress,  celebrated the 450 th Anniversary of Vientiane Capital in 2010, 40 th Anniversary of Lao PDR and 60 th Anniversary of the Lao People's Party Establishment. Essentially, Lao PDR became a member of the World Trade Organization (WTO) on 2 February 2013. All of these events have underpinned development and facilitated business investment, production, and services. Nevertheless, development drawbacks were unavoidable caused by severe floods and heavy storms in 2012-2013,
 
 > 1 Data sources: World Economic Outlook, IMF, Oct 2015.
 
@@ -142,9 +377,11 @@ Between 2010 and 2015, the country enjoyed political stability, peace, social or
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+which largely damaged cultivated areas, infrastructure and households. To address these issues, the Government allocated funding for rehabilitation and reconstruction in order to enable continued economic growth and stability.
+
 ## 3. KEY MACROECONOMIC ACHIEVEMENTS OF THE 7 th NSEDP IMPLEMENTATION
 
-Over the past five years, Lao PDR has enjoyed continued and stable economic growth and social order, which has resulted in increased employment and improved well-being of the people; low inflation rates; satisfactory levels of production in agriculture, industry and service sector; and increased imports and exports, and public and private investment. Furthermore, revenue collection achieved its targets each year as well as public capital and recurrent expenditure including government payroll. Poverty rates decreased from 27.6 percent in 2008 to 23.2 percent in fiscal year 2012-2013 (Lao Expenditure and Consumption Survey, LECS 5).The country's score on the Human Development Index (HDI) also increased gradually, from 0.539 in 2010 to 0.575 in 2014, when Lao PDR was classified as a country with a medium level of human development and ranked number 141 out of 188 countries.3
+Over the past five years, Lao PDR has enjoyed continued and stable economic growth and social order, which has resulted in increased employment and improved well-being of the people; low inflation rates; satisfactory levels of production in agriculture, industry and service sector; and increased imports and exports, and public and private investment. Furthermore, revenue collection achieved its targets each year as well as public capital and recurrent expenditure including government payroll. Poverty rates decreased from 27.6 percent in 2008 to 23.2 percent in fiscal year 2012-2013 (Lao Expenditure and Consumption Survey, LECS 5). The country's score on the Human Development Index (HDI) also increased gradually, from 0.539 in 2010 to 0.575 in 2014, when Lao PDR was classified as a country with a medium level of human development and ranked number 141 out of 188 countries.3
 
 ### 3.1 Macroeconomic Achievements
 
@@ -152,14 +389,14 @@ Over the past five years, Lao PDR has enjoyed continued and stable economic grow
 
 Economic growth over the past five years has continued at an average rate of 7.9 percent per year (target of >8 percent). This continuous economic growth is due to the appropriate macroeconomic management measures and mechanisms of the Government, peace in the country, social order, political and economic stability, and increased regional and international integration.
 
+Table 1: Comparison between GDP Growth Rate of each Fiscal Year with the 7 th  NSEDP Targets (2011-2015)
+
 Description | 7 th NSEDP Targets (2011-2015) | Actual 2010-11 | Actual 2011-12 | Actual 2012-13 | Actual 2013-14 | Actual 2014-15 | Average (5 years)
 --- | --- | --- | --- | --- | --- | --- | ---
 GDP growth (%) | >8 | 8.1 | 8.3 | 8.0 | 7.8 | 7.5 | 7.9
-Agriculture- Forestry (%) | 3.5 | 2.9 | 2.8 | 3.1 | 3.0 | 3.0
-Industry(%) | 15.0 | 15.8 | 14.4 | 7.4 | 8.5 | 8.9
+Agriculture-Forestry (%) | 3.5 | 2.9 | 2.8 | 3.1 | 3.0 | 3.0
+Industry (%) | 15.0 | 15.8 | 14.4 | 7.4 | 8.5 | 8.9
 Services (%) | 6.5 | 7.8 | 8.1 | 9.7 | 9.3 | 9.1
-
-Table 1: Comparison between GDP Growth Rate of each Fiscal Year with the 7 th  NSEDP Targets (2011-2015)
 
 Source: Report on NSEDP Achievements in 2010-11 and 2014-15.
 
@@ -173,9 +410,11 @@ Source: Report on NSEDP Achievements in 2010-11 and 2014-15.
 
 5
 
---Gross Domestic Product (GDP) per Capita increased from US$1,217 in FY 2010-2011 to US$1,970 in 2014-2015, which exceeded the target of US$1,700.
+– Gross Domestic Product (GDP) per Capita increased from US$1,217 in FY 2010-2011 to US$1,970 in 2014-2015, which exceeded the target of US$1,700.
 
-Year | GDP (Present Value) (billion kip) | 7 th NSEDP Target ( US$/person) | Actual ( US$/person) | Comparison Actual/Plan (percent)
+Table 2: Gross Domestic Product (GDP) per Capita
+
+Year | GDP (Present Value) (billion kip) | 7 th NSEDP Target (US$/person) | Actual (US$/person) | Comparison Actual/Plan (percent)
 --- | --- | --- | --- | ---
 2010-2011 | 62,458 | 1,155 | 1,217 | 5.37
 2011-2012 | 70,343 | 1,332 | 1,349 | 1.28
@@ -183,23 +422,21 @@ Year | GDP (Present Value) (billion kip) | 7 th NSEDP Target ( US$/person) | Act
 2013-2014 | 90,823 | 1,674 | 1,671 | -0.01
 2014-2015 | 102,320 | 1,860 | 1,970 | 5.91
 
-Table 2: Gross Domestic Product (GDP) per Capita
-
 Source: Lao Statistics Bureau (LSB), Ministry of Planning and Investment (MPI).
 
 ##### 3.1.1.1 Changes in Economic Structure
 
-There has been a gradual change from agriculture-forestry to industry in line with the directions of the Five-Year Plan. The agriculture-forestry sector decreased from 27.9 percent in 2010-2011 to 24.8 percent in 2013-2014 and is expected to decrease to 27.9 percent by 2014-2015. The industry sector, however, increased from 26.9 percent in 2010-2011 to 27.5 percent in 2013-2014 and by 2014-2015 it is estimated to increase to 29.1 percent (target of 39 percent). The service sector increased from 45.2 percent in 20102011 to 47.7 percent in 2013-2014, and it is estimated that by 2014-2015 it will reach around 47.2 percent (target of 38 percent).
+There has been a gradual change from agriculture-forestry to industry in line with the directions of the Five-Year Plan. The agriculture-forestry sector decreased from 27.9 percent in 2010-2011 to 24.8 percent in 2013-2014 and is expected to decrease to 27.9 percent by 2014-2015. The industry sector, however, increased from 26.9 percent in 2010-2011 to 27.5 percent in 2013-2014 and by 2014-2015 it is estimated to increase to 29.1 percent (target of 39 percent). The service sector increased from 45.2 percent in 2010-2011 to 47.7 percent in 2013-2014, and it is estimated that by 2014-2015 it will reach around 47.2 percent (target of 38 percent).
+
+Table 3: Changes of Economic Structure in Each Fiscal Year compared with the 7 th NSEDP Targets
 
 Description | Targets (2014-2015) | Actual 2010-11 | Actual 2011-12 | Actual 2012-13 | Actual 2013-14 | Targets 2014-15
 --- | --- | --- | --- | --- | --- | ---
 GDP at present value (in million kip) | 104,000 | 62,458 | 70,343 | 80,199 | 90,823 | 102,320
-Composition ( percent) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
-- Agriculture- Forestry ( percent) | 23 . 0 | 27.9 | 26 . 7 | 25 . 2 | 24.8 | 23.7
-- Industry ( percent) | 39. 0 | 26.9 | 29 . 6 | 28.2 | 27.5 | 29.1
-- Services ( percent) | 38.0 | 45.2 | 43.7 | 46.8 | 47.7 | 47.2
-
-Table 3: Changes of Economic Structure in Each Fiscal Year compared with the 7 th NSEDP Targets
+Composition (percent) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+- Agriculture-Forestry (percent) | 23.0 | 27.9 | 26.7 | 25.2 | 24.8 | 23.7
+- Industry (percent) | 39.0 | 26.9 | 29.6 | 28.2 | 27.5 | 29.1
+- Services (percent) | 38.0 | 45.2 | 43.7 | 46.8 | 47.7 | 47.2
 
 Source: LSB.
 
@@ -213,7 +450,9 @@ Source: LSB.
 
 #### 3.1.2 Inflation
 
-The inflation rate fluctuated within the range set in the Plan (less than the growth rate) and, on average during the five-year implementation, it increased to about 5 percent. The main factors affecting inflation included prices of: consumables (which increased 8.27 percent on average);housing, electricity, water and fuel (6.72 percent increase); restaurants and hotels (6.50 percent increase); clothing and footwear (3.88 percent increase); and goods and services (3.6 percent increase) (see Table 4). In addition, pressure from global price changes, the imbalance of supply and domestic demand, and the uncertainty of oil prices in the global market directly affected domestic oil prices. In FY2010-2011, the domestic oil price increased by 20 percent (and adjustment was made 17 times - 13 times to increase the price and 4 times to decrease the price). Moreover, prices of goods in neighbouring and regional countries, including China, Thailand and Vietnam, also continuously increased. Internal factors in those increases will be insufficient supply in response to the demand, especially for meat products.
+The inflation rate fluctuated within the range set in the Plan (less than the growth rate) and, on average during the five-year implementation, it increased to about 5 percent. The main factors affecting inflation included prices of: consumables (which increased 8.27 percent on average); housing, electricity, water and fuel (6.72 percent increase); restaurants and hotels (6.50 percent increase); clothing and footwear (3.88 percent increase); and goods and services (3.6 percent increase) (see Table 4). In addition, pressure from global price changes, the imbalance of supply and domestic demand, and the uncertainty of oil prices in the global market directly affected domestic oil prices. In FY2010-2011, the domestic oil price increased by 20 percent (and adjustment was made 17 times - 13 times to increase the price and 4 times to decrease the price). Moreover, prices of goods in neighbouring and regional countries, including China, Thailand and Vietnam, also continuously increased. Internal factors in those increases will be insufficient supply in response to the demand, especially for meat products.
+
+Table 4 : Changes in the Inflation Composition
 
 Description | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | Average
 --- | --- | --- | --- | --- | --- | ---
@@ -231,8 +470,6 @@ Description | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | Average
 12. Goods and services (%) | 9.24 | 5.61 | 1.50 | 1.41 | 0.24 | 3.60
 Inflation rate (percent) (%) | 7.42 | 5.12 | 5.64 | 5.16 | 1.68 | 5.00
 
-Table 4 : Changes in the Inflation Composition
-
 Source: LSB.
 
 #### 3.1.3 Fiscal and Monetary Policy Management
@@ -249,14 +486,14 @@ The reason for kip appreciation against the US dollar in FY 2010-2011 to 2012-20
 
 7
 
+Table 5: Foreign Currency Exchange Rate
+
 Currency | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | Average
 --- | --- | --- | --- | --- | --- | ---
 LAK/US$ | 8,036.34 | 8,010.73 | 7,867.92 | 8,033.20 | 8,123.15 | 8,014.27
-Appreciation/ Depreciation (%) | 4.16 | 0.32 | 1.82 | -2.06 | -1.11 | 0.63
+Appreciation/Depreciation (%) | 4.16 | 0.32 | 1.82 | -2.06 | -1.11 | 0.63
 LAK/Baht | 266.51 | 258.13 | 259.32 | 251.13 | 245.52 | 256.12
-Appreciation/ Depreciation (%) | -3.39 | 3.25 | -0.46 | 3.26 | 2.29 | 0.99
-
-Table 5: Foreign Currency Exchange Rate
+Appreciation/Depreciation (%) | -3.39 | 3.25 | -0.46 | 3.26 | 2.29 | 0.99
 
 Source: Monetary Policy Department, Bank of Lao PDR.
 
@@ -264,11 +501,11 @@ Source: Monetary Policy Department, Bank of Lao PDR.
 
 In the past five years, money supply increased continuously as continued economic growth has been observed. The average increase in the money supply is 26.87 percent per year, which is a result of increased bank loans in response to needs for the socio-economic development of the country.
 
+Table 6: Money Supply Growth
+
 Description | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | Average
 --- | --- | --- | --- | --- | --- | ---
 Annual growth of the money supply (%) | 37.94 | 28.01 | 20.61 | 27.14 | 20.66 | 26.87
-
-Table 6: Money Supply Growth
 
 Source: BOL.
 
@@ -276,12 +513,12 @@ Source: BOL.
 
 During the past five years, the foreign currency reserves have increased from US$532.2 million at the end of FY 2009-2010 to US$798.2 million at the end of FY 2014-2015, sufficient to cover imports on average for five months.
 
+Table 7: Foreign Currency Reserves
+
 Description | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015
 --- | --- | --- | --- | --- | --- | ---
 Foreign currency reserves (US$) | 531.20 | 718.10 | 658.57 | 583.44 | 834.70 | 798.20
 Coverage of imports | Sufficient to cover imports on average for five months per annum
-
-Table 7: Foreign Currency Reserves
 
 Source: BOL.
 
@@ -329,7 +566,7 @@ Overall, sectors and provincial governments have implemented public investment i
 
 ##### 3.2.1.2 Grants and Loans
 
-The Government organized the Round Table Implementation Meeting and High Level Round Table Meeting to discuss and mobilize funds from the development partners to support the implementation of the 7 th  Five-Year Socio-economic Development Plan (2011-2015). At the two high-level meetings held on 10 November 2010 and 11 November 2013, despite the global economic crisis, the development partners continued to express their desire to continue to assist Lao PDR. As a result, during the past five years, Lao PDR has mobilized ODA of 26,981.26 billion kip or about US$ 3,369 million, equivalent to 91.05 percent of the Plan target (the 7 th NSEDP set the target of 33,000-35,000 billion kip). Of this, grants and loans amount to 5,062.89 billion kip (or approximately US$ 630 million)covering 17.66 percent of the total investment in FY2010-2011 (the Plan target is US$ 600 million), and 5,361 billion kip (or approximately US$660 million) covering 12.09 percent of the total investment in the FY2014-2015 (the Plan target is US$660 million).
+The Government organized the Round Table Implementation Meeting and High Level Round Table Meeting to discuss and mobilize funds from the development partners to support the implementation of the 7 th  Five-Year Socio-economic Development Plan (2011-2015). At the two high-level meetings held on 10 November 2010 and 11 November 2013, despite the global economic crisis, the development partners continued to express their desire to continue to assist Lao PDR. As a result, during the past five years, Lao PDR has mobilized ODA of 26,981.26 billion kip or about US$ 3,369 million, equivalent to 91.05 percent of the Plan target (the 7 th NSEDP set the target of 33,000-35,000 billion kip). Of this, grants and loans amount to 5,062.89 billion kip (or approximately US$ 630 million) covering 17.66 percent of the total investment in FY2010-2011 (the Plan target is US$ 600 million), and 5,361 billion kip (or approximately US$660 million) covering 12.09 percent of the total investment in the FY2014-2015 (the Plan target is US$660 million).
 
 The use of grants and loans (ODA) has been focused mainly on the socio-cultural and economic sectors, as follows:
 
@@ -357,23 +594,23 @@ The Bank of Lao PDR has carried out policies and regulations to enable commercia
 
 Over the past five years, total banking credits to support economic growth amounted to 41,493.50 billion kip, an increase of 31.09 percent per annum (from 14,805.09 billion kip in 2009-2010 to 56,298.59 billion kip in 2014-2015), of which private banking credits increased by 32.67 percent per annum.
 
+Table 8: Bank Credit Investment
+
 Description | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | Total (five years)
 --- | --- | --- | --- | --- | --- | ---
 Increased value of bank credits (billion kip) | 6,498.41 | 6,926.90 | 11,772.94 | 8,804.15 | 7,491.10 | 41,493.50
-
-Table 8: Bank Credit Investment
 
 #### 3.2.2 State Budget Balance
 
 Over the five-year period of the 7 th  NSEDP, the Government has improved revenue collection mechanisms to enable increased revenue collection and expenditures for administration and investment, as follows:
 
-· Total Revenue: Total revenue collection is 99,549 billion kip,accountingfor 24.6 percent of GDP (the Five-Year Plan target is 19-21 percent of GDP). In FY 2010-2011, revenue was 14,310 billion kip or23.10 percent of GDP; in FY2014-2015, revenue was 24,468 billion or 23.9 percent of GDP .
+· Total Revenue: Total revenue collection is 99,549 billion kip, accounting for 24.6 percent of GDP (the Five-Year Plan target is 19-21 percent of GDP). In FY 2010-2011, revenue was 14,310 billion kip or 23.10 percent of GDP; in FY2014-2015, revenue was 24,468 billion or 23.9 percent of GDP.
 
-· Domestic Revenue: Overall domestic revenue collected was 76,648 billion kip, covering 18.9 percent of GDP (the Five-Year Plan target is 16-18 percent of GDP). In FY 2010-2011 domestic revenue collected was 10,601 billion kip or 17.10 percent of GDP, and in FY 2014-2015, domestic revenue collected was 19,923 billion kip or19.50 percent of GDP .
+· Domestic Revenue: Overall domestic revenue collected was 76,648 billion kip, covering 18.9 percent of GDP (the Five-Year Plan target is 16-18 percent of GDP). In FY 2010-2011 domestic revenue collected was 10,601 billion kip or 17.10 percent of GDP, and in FY 2014-2015, domestic revenue collected was 19,923 billion kip or 19.50 percent of GDP.
 
-· Budget Expenditure: T otal budget expenditure was 118,639 billion kip, accounting for 29.30 percent of GDP (the Five-Year Plan target is 22-25 percent of GDP). The budget expenditure in FY 2010-2011 was 15,115 billion kip or 27.2 percent of GDP , and in FY 2014-2015 it was 29,097 billion kip or 28.40 percent of GDP. The budget expenditure has enabled improved livelihoods of civil servants, the army and police as it has adjusted the cost of living and financial support to civil servants, and ensuring smooth and timely repayment of domestic and foreign debt.
+· Budget Expenditure: Total budget expenditure was 118,639 billion kip, accounting for 29.30 percent of GDP (the Five-Year Plan target is 22-25 percent of GDP). The budget expenditure in FY 2010-2011 was 15,115 billion kip or 27.2 percent of GDP, and in FY 2014-2015 it was 29,097 billion kip or 28.40 percent of GDP. The budget expenditure has enabled improved livelihoods of civil servants, the army and police as it has adjusted the cost of living and financial support to civil servants, and ensuring smooth and timely repayment of domestic and foreign debt.
 
-· Budget Deficit: T otal budget deficit was 19,090 billion kip, covering 4.7 percent of GDP (the Five-Year Plan target is 3-5 percent of GDP). In FY 2010-2011, the budget deficit was at 1,687 billion kip or 2.7 percent of GDP, and in FY2014-2015, it was 4,629 billion kip or 4.60 percent of GDP .
+· Budget Deficit: Total budget deficit was 19,090 billion kip, covering 4.7 percent of GDP (the Five-Year Plan target is 3-5 percent of GDP). In FY 2010-2011, the budget deficit was at 1,687 billion kip or 2.7 percent of GDP, and in FY2014-2015, it was 4,629 billion kip or 4.60 percent of GDP.
 
 [[END OF PAGE 18]]
 
@@ -383,14 +620,14 @@ Over the five-year period of the 7 th  NSEDP, the Government has improved revenu
 
 11
 
+Table 9: Summary of Revenue and Expenditure
+
 Description | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | Total
 --- | --- | --- | --- | --- | --- | ---
 Total revenue(billion kip) | 14,310 | 17,263 | 20,176 | 23,331 | 24,468 | 99,549
 Domestic revenue (billion kip) | 10,601 | 12,698 | 15,264 | 18,161 | 19,923 | 76,648
 Total expenditure (billion kip) | 15,997 | 19,115 | 26,269 | 28,160 | 29,097 | 118,639
 Budget deficit(billion kip) | 1,687 | 1,852 | 6,093 | 4,829 | 4,629 | 19,090
-
-Table 9: Summary of Revenue and Expenditure
 
 Source: Report on Five-Year State Budget Implementation (2011-15), No.795/MOF.CO, 31 March 2016.
 
@@ -402,7 +639,7 @@ The Government has improved mechanisms for and encouraged international trade by
 
 · Imports: Overall import value was US$ 17,629.67 million or 34.79 percent of GDP. In FY 2010-2011, import value was US$ 2,324.58 million; in FY2014-2015, it was US$4,407.72 million.
 
-· Trade deficit: The total trade deficit was US$ 3,400.45 million, accounting for 6.71 percent of GDP . In FY 2010-2011, the trade deficit was US$297.43 million; in FY 2011-2012, it was US$ 870.34 million; in FY 2012-2013, it wasUS$389 million; in FY2013-2014, it was US$1,247.13 million; in FY 2014-2015, it was US$ 981.65.
+· Trade deficit: The total trade deficit was US$ 3,400.45 million, accounting for 6.71 percent of GDP. In FY 2010-2011, the trade deficit was US$297.43 million; in FY 2011-2012, it was US$ 870.34 million; in FY 2012-2013, it was US$389 million; in FY2013-2014, it was US$1,247.13 million; in FY 2014-2015, it was US$ 981.65.
 
 #### 3.2.4 Labour and Employment
 
@@ -460,7 +697,7 @@ During the past five years, agriculture and forestry was one of the sectors that
 
 Rice production was basically able to meet society's demand. Average total rice production during the past five years was more than 3 million tons per annum. In FY2010-2011, rice production was 3.06 million tons and in FY2014-2015, it was 4.1 million tons, equivalent to 97 percent of the 7 th  Plan target of 4.2 million tons. More details on rice production by type are as follows:
 
-· Rain-fed rice farming system: In 2011, 598,358 ha of wet season paddy fields were yielding 2,32 million tons of rice. In 2012, 706,028 ha yielded 2.76 million tons and in 2013, 683,125 ha yielded 2.73 billion tons of rice. In 2014, total paddy fields was 762,566 ha, yielded about 3.21 million tons of rice, and in 2015, total paddy fields reached 757,640 ha, yielded 3.3 million tons, exceeding the 7 th FiveYear Plan target (740,000 ha) by 12 percent.
+· Rain-fed rice farming system: In 2011, 598,358 ha of wet season paddy fields were yielding 2,32 million tons of rice. In 2012, 706,028 ha yielded 2.76 million tons and in 2013, 683,125 ha yielded 2.73 billion tons of rice. In 2014, total paddy fields was 762,566 ha, yielded about 3.21 million tons of rice, and in 2015, total paddy fields reached 757,640 ha, yielded 3.3 million tons, exceeding the 7 th Five-Year Plan target (740,000 ha) by 12 percent.
 
 · Dry season rice: In 2011, 112,210 ha of dry season rice cultivation area yielded 540,315 tons of rice. The area comprised 101,525 ha, yielding 520,000 tons in 2015. This accounted for just 51 percent of the Five-Year Plan target of 200,000 ha, due to various factors that have affected production, including climate change; the low level of rainfall anticipated compared with the previous year; irregular rainfall, which may cause the river dry out; use of irrigation systems not being fully effective, canals being damaged, and repair of irrigation systems not being achieved in time for the production season; some areas with cold weather turning to farming, especially in the north; and the dry season rice areas that can be irrigated are being converted to residential areas and roads.
 
@@ -482,9 +719,9 @@ Rice production was basically able to meet society's demand. Average total rice 
 
 · Fruit: Production increased dramatically from 626,805 tons in FY2010-2011 to 790,840 tons in FY2014-2015, exceeding the Five-Year Plan target of 700,000 tons by 12.98 percent.
 
-· Vegetables: Production was about 1,225,370 tons in FY2010-2011 and 1,402,690 tons in FY20142015, an increase of 14 percent or about 93 percent of the Five-Year Plan target (1,500,000 tons). Vegetables are mostly grown in Champasak, Vientiane, Oudomxay, and Vientiane Capital. The most outstanding vegetable growing projects are the organic vegetable projects, a result of high public demand. At present, organic vegetable grower groups have expanded to eight provinces, with 59 groups able to sufficiently meet the consumption needs of society.
+· Vegetables: Production was about 1,225,370 tons in FY2010-2011 and 1,402,690 tons in FY2014-2015, an increase of 14 percent or about 93 percent of the Five-Year Plan target (1,500,000 tons). Vegetables are mostly grown in Champasak, Vientiane, Oudomxay, and Vientiane Capital. The most outstanding vegetable growing projects are the organic vegetable projects, a result of high public demand. At present, organic vegetable grower groups have expanded to eight provinces, with 59 groups able to sufficiently meet the consumption needs of society.
 
-Livestock and Fishery expanded considerably, due to support for transformation into new practice through provision of materials and inputs for production; provision of technical training on animal raising, animal food storing and fodder growing; provision of vaccination against diseases resulting in the growth of livestock numbers by 5 percent per year (the Five-Year Plan target is 4-6 percent per year). Buffalo herd sizes have grown by 1-2 percent per year, increasing from 1.19 million in FY2010-2011 to 1.21 million in FY2014-2015. As the target of the Five-Year Plan was 1.26 million, 96 percent of the plan has been achieved. Cow herd sizes have grown by an average 5 percent per year, from 1.52 million in FY20102011 to 1.81 million in FY2014-2015. This represents an increase of 19 percent, or 97 percent of the Five-Year Plan target (1.86 million). Pig farming has grown at 3-5 percent per year, from 2.65 million pigs in FY2010-2011 to 3.04 million in FY2014-2015, an increas of 14 percent, or 99.67 percent of the FiveYear Plan target (3.05 million). Goat herds sizes increased by an average of 4 percent per year, from 431,000 goats in FY2010-2011 to 525,725 in FY2014-2015 (a 21 percent rise). The target of the Five-Year Plan (522,500) was achieved. Poultry farming has grown by 7-8 percent per year, with stock increasing from 26.85 million units in FY2010-2011 to 34.36 million in FY2014-2015 (a 27 percent rise), exceeding the Five-Year Plan target (33.52 million) by 2 percent.
+Livestock and Fishery expanded considerably, due to support for transformation into new practice through provision of materials and inputs for production; provision of technical training on animal raising, animal food storing and fodder growing; provision of vaccination against diseases resulting in the growth of livestock numbers by 5 percent per year (the Five-Year Plan target is 4-6 percent per year). Buffalo herd sizes have grown by 1-2 percent per year, increasing from 1.19 million in FY2010-2011 to 1.21 million in FY2014-2015. As the target of the Five-Year Plan was 1.26 million, 96 percent of the plan has been achieved. Cow herd sizes have grown by an average 5 percent per year, from 1.52 million in FY2010-2011 to 1.81 million in FY2014-2015. This represents an increase of 19 percent, or 97 percent of the Five-Year Plan target (1.86 million). Pig farming has grown at 3-5 percent per year, from 2.65 million pigs in FY2010-2011 to 3.04 million in FY2014-2015, an increas of 14 percent, or 99.67 percent of the Five-Year Plan target (3.05 million). Goat herds sizes increased by an average of 4 percent per year, from 431,000 goats in FY2010-2011 to 525,725 in FY2014-2015 (a 21 percent rise). The target of the Five-Year Plan (522,500) was achieved. Poultry farming has grown by 7-8 percent per year, with stock increasing from 26.85 million units in FY2010-2011 to 34.36 million in FY2014-2015 (a 27 percent rise), exceeding the Five-Year Plan target (33.52 million) by 2 percent.
 
 Due to this livestock growth trend, production of meat, fish and eggs increased from 296,086 tons in FY2010-2011 to 387,734 tons in FY2014-2015, achieving the Five-Year Plan target (379,100 tons). The consumption rate of meat, fish and eggs reached an average 48 kg/person/year in 2012 (in rural areas, an average 42 kg/person/year, and in urban areas, an average 56 kg/person/year). In FY2013-2014, consumption is estimated to continue to rise, to reach an average 53 kg/person/year.
 
@@ -492,7 +729,7 @@ Due to this livestock growth trend, production of meat, fish and eggs increased 
 
 Commercial plantations have constantly expanded. The outstanding crops are coffee, cassava, maize and sugarcane. These crops have market potential, market demand and prices that are satisfactory for farmers, and also the support of and promotion by the Government and private sectors, including enterprises investing in agriculture and agro-processing for export. The details of each crop are as follows:
 
-· Coffee: Production increased from 52,010 tons in FY2010-2011 to 99,780tons in FY2014-2015, orby 80 percent, exceeding the Five-Year Plan target (55,300 tons). Coffee isgrown mostly in Champasak, Saravan and Sekong provinces as they have both domestic and international market demands, especially to produce for the Dao Heuang factory.
+· Coffee: Production increased from 52,010 tons in FY2010-2011 to 99,780 tons in FY2014-2015, or by 80 percent, exceeding the Five-Year Plan target (55,300 tons). Coffee is grown mostly in Champasak, Saravan and Sekong provinces as they have both domestic and international market demands, especially to produce for the Dao Heuang factory.
 
 · Maize: Production increased from 917,715 tons in FY 2010-2011 to 1.11 million tons in FY 2014-2015, or 94 percent of the Five-Year Plan target (1.17 million tons). Maize is grown mostly in Sayabouly, Oudomxay, Huaphanh, Xiengkhouang and Bokeo provinces.
 
@@ -504,7 +741,7 @@ Commercial plantations have constantly expanded. The outstanding crops are coffe
 
 15
 
-· Cassava: This is one of the cashcrops that have high potential for growth and rising market demands. The production of cassava increased from 743,170 tons in FY 2010-2011 to 1,513,920 tons in FY 20142015. The Five-Year Plan target of 640,000 tons has already been achieved and more than doubled. Vientiane Capital, Vientiane and Bolikhamxay provinces grow cassava as their industrial crops and they have high market demand and host many big factories.
+· Cassava: This is one of the cash crops that have high potential for growth and rising market demands. The production of cassava increased from 743,170 tons in FY 2010-2011 to 1,513,920 tons in FY 2014-2015. The Five-Year Plan target of 640,000 tons has already been achieved and more than doubled. Vientiane Capital, Vientiane and Bolikhamxay provinces grow cassava as their industrial crops and they have high market demand and host many big factories.
 
 · Sugarcane: Production increased from 1.22 million tons in FY2010-2011 to 1.75 million tons, equivalent to 81 percent of the Five-Year Plan target (2.15 million tons). Provinces that grow sugarcane are Savannakhet and Bolikhamxay.
 
@@ -520,11 +757,11 @@ Commercial plantations have constantly expanded. The outstanding crops are coffe
 
 · Green  beans: Production  yielded  4,790  tons  in  FY2010-2011,  3,365  tons  in  FY2012-2013, approximately 6,500 tons in FY2013-2014, and 17,630 tons in FY 2014-2015. Production has already exceeded the target of the Five-Year Plan.
 
-Rubber plantation expanded significantly, especially in the northern provinces as a result of the promotion of private domestic and foreign investment. At present, the total rubber plantation area is 248,864 ha, the farmer plantation 66,833 ha, the contract farming plantation 58,647 ha and companies'own plantation 121,873 hectares. The total harvested area is 35,959 ha.
+Rubber plantation expanded significantly, especially in the northern provinces as a result of the promotion of private domestic and foreign investment. At present, the total rubber plantation area is 248,864 ha, the farmer plantation 66,833 ha, the contract farming plantation 58,647 ha and companies' own plantation 121,873 hectares. The total harvested area is 35,959 ha.
 
-Non-timber forest products: Production of bamboo exceeded the Five-Year Plan target of 0.9-1 million units and reached about 2.16 million units in FY2012-2013.Production of firewood also exceeded the Plan target of 29,557 cubic yards in FY2010-2011 and reached 40,900 cubic yards in FY2012-2013, which will exceed the Five-Year Plan target (10-12 thousand cubic yards) by approximately 28,900 cubic yards.
+Non-timber forest products: Production of bamboo exceeded the Five-Year Plan target of 0.9-1 million units and reached about 2.16 million units in FY2012-2013. Production of firewood also exceeded the Plan target of 29,557 cubic yards in FY2010-2011 and reached 40,900 cubic yards in FY2012-2013, which will exceed the Five-Year Plan target (10-12 thousand cubic yards) by approximately 28,900 cubic yards.
 
-Commercial Livestock: Commercial livestock is likely to meet the target set by the Five-Year Plan, due to the increasing move to industrial livestock, using improved species, especially pigs, chickens (layer), chickens (boiler), and ducks (layer), which are farmed throughout the country, particularly in big cities such as Vientiane Capital, and in Vientiane, Luangprabang, Khammouane, Savannakhet and Champasak provinces. Cattle farming on plateau and upland areas is based on cattle stock of the village and aims to supply the products to the domestic market and neighbouring countries along the border. Also, fish are raised in ponds and fed in irrigation reservoirs and the Mekong River and its tributaries, and their number has expanded considerably. Cage aquaculture has increased from 4,500 cages in 2010 to 6,800 cages in 2014, or 50,884 tons. Although, overall, livestock production has tended to increase, actual consumption, both domestically and abroad, is still insufficient. This is especially so of large animals (cows) because farmers often lack the knowledge and techniques specific to controlling outbreaks of animal diseases; cow species are local ones that have low production yields; enforcement of regulations to protect pregnant cows from being killed is not strict; and slaughter houses and meat processing factories are very basic and lack hygiene certification. There is a lack of clear policies and measures to develop livestock and a lack of coordination among all parties concerned, in both the public and private sectors. The export of large animals is mostly through cross-border trade.
+Commercial Livestock: Commercial livestock is likely to meet the target set by the Five-Year Plan, due to the increasing move to industrial livestock, using improved species, especially pigs, chickens (layer), chickens (boiler), and ducks (layer), which are farmed throughout the country, particularly in big cities such as Vientiane Capital, and in Vientiane, Luangprabang, Khammouane, Savannakhet and Champasak
 
 [[END OF PAGE 23]]
 
@@ -534,19 +771,21 @@ Commercial Livestock: Commercial livestock is likely to meet the target set by t
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+provinces. Cattle farming on plateau and upland areas is based on cattle stock of the village and aims to supply the products to the domestic market and neighbouring countries along the border. Also, fish are raised in ponds and fed in irrigation reservoirs and the Mekong River and its tributaries, and their number has expanded considerably. Cage aquaculture has increased from 4,500 cages in 2010 to 6,800 cages in 2014, or 50,884 tons. Although, overall, livestock production has tended to increase, actual consumption, both domestically and abroad, is still insufficient. This is especially so of large animals (cows) because farmers often lack the knowledge and techniques specific to controlling outbreaks of animal diseases; cow species are local ones that have low production yields; enforcement of regulations to protect pregnant cows from being killed is not strict; and slaughter houses and meat processing factories are very basic and lack hygiene certification. There is a lack of clear policies and measures to develop livestock and a lack of coordination among all parties concerned, in both the public and private sectors. The export of large animals is mostly through cross-border trade.
+
 Overall, the quantity of agricultural products has increased but most are still in the form of raw materials, lacking processing for added value. In the future, efforts should be put into mobilizing investors to invest in agro-processing.
 
 ###### Forestry
 
-· Management of Production and Plantation Forests: At present, across the country, there are 51 National Production Areas that cover 3.1 million ha and are divided into 324 sub-areas. To date, surveys, data collection and allocation plans have been completed in 276 sub-areas, covering an area of 2.2 million ha. The registration of tree plantation sites has been completed in nine provinces: Luang Prabang, Vientiane, Bolikhamxay, Khammouane, Savannakhet, Champasak, Saravan, Sekong and Attapeu, for atotal of 530 lots on 1,026.85 ha.
+· Management of Production and Plantation Forests: At present, across the country, there are 51 National Production Areas that cover 3.1 million ha and are divided into 324 sub-areas. To date, surveys, data collection and allocation plans have been completed in 276 sub-areas, covering an area of 2.2 million ha. The registration of tree plantation sites has been completed in nine provinces: Luang Prabang, Vientiane, Bolikhamxay, Khammouane, Savannakhet, Champasak, Saravan, Sekong and Attapeu, for a total of 530 lots on 1,026.85 ha.
 
 · Forest restoration: There was 164,096 ha in the production areas, accounting for 20 percent of the Five-Year Plan target (817,400 ha).
 
-· Tree plantation: Collection of heartwood has increased from 56,261 kg in 2010 to 102,937 kg in 2012, and the seedling nursery reached 94.81 million seedlings, averaging 45.40 million annually. The total plantation of 113,776 ha represents 76 percentof the Five-YearPlan target (150,000 ha). At present, the total plantation is 437,705 ha or 87.5 percent of the Plan target by 2020 (500,000 ha).
+· Tree plantation: Collection of heartwood has increased from 56,261 kg in 2010 to 102,937 kg in 2012, and the seedling nursery reached 94.81 million seedlings, averaging 45.40 million annually. The total plantation of 113,776 ha represents 76 percent of the Five-Year Plan target (150,000 ha). At present, the total plantation is 437,705 ha or 87.5 percent of the Plan target by 2020 (500,000 ha).
 
 ###### Irrigation
 
-The total irrigated area increased from 409,276 ha in FY2010-2011 to 419,267 ha in FY2014-2015, or 52 percent of the Five-Year Plan target (800,000 ha). The supply of irrigated water for dry season production declined from 148,456 ha in FY2010-2011 to 145,753 ha in FY2011-2012, 129,911 ha in FY2013-2014, and 159,267 ha in FY 2014-2015, achieved 53 percent of the Plan target of 300,000 ha. The reason for the shortfall is that irrigation schemes were severely damaged during the rainy season of 2011 and timely rehabilitation could not be provided. Water supply in the form of sprinklers covered 260,820 ha in 20102011 and 260,000 ha in 2014, or 52 percent of the Five-Year  Plan Target  (500,000  ha),due  to  the rehabilitation of some damaged irrigation systems that enable sprinkler-based water supply. The most outstanding achievement is the implementation of 11 sprinkler irrigation projects, such as in Takokkoun Technical Service Centre in Bolikhamsay province and Napork Research Centre to water corn and soybeans. Experiments show that the use of sprinklers can raise agricultural productivity.
+The total irrigated area increased from 409,276 ha in FY2010-2011 to 419,267 ha in FY2014-2015, or 52 percent of the Five-Year Plan target (800,000 ha). The supply of irrigated water for dry season production declined from 148,456 ha in FY2010-2011 to 145,753 ha in FY2011-2012, 129,911 ha in FY2013-2014, and 159,267 ha in FY 2014-2015, achieved 53 percent of the Plan target of 300,000 ha. The reason for the shortfall is that irrigation schemes were severely damaged during the rainy season of 2011 and timely rehabilitation could not be provided. Water supply in the form of sprinklers covered 260,820 ha in 2010-2011 and 260,000 ha in 2014, or 52 percent of the Five-Year Plan Target (500,000 ha), due to the rehabilitation of some damaged irrigation systems that enable sprinkler-based water supply. The most outstanding achievement is the implementation of 11 sprinkler irrigation projects, such as in Takokkoun Technical Service Centre in Bolikhamsay province and Napork Research Centre to water corn and soybeans. Experiments show that the use of sprinklers can raise agricultural productivity.
 
 [[END OF PAGE 24]]
 
@@ -558,19 +797,19 @@ The total irrigated area increased from 409,276 ha in FY2010-2011 to 419,267 ha 
 
 ###### Agriculture Land Management and Development
 
-A survey of agricultural land allocation in all 137 districts has been completed; 118 districts have already received the land allocation and preparations are under wayto allocate land to 19 additional districts. Planning and zoning classification for agriculture, especially rice farming, vegetable plantations and livestock need to be more detailed, aimed at 7 large plains, 16 medium and 12 small plains. Two plains are selected as pilots, including Khammouane and Savannakhet; some small northern plains will be allocated to commercial rice production for export to China and other countries.
+A survey of agricultural land allocation in all 137 districts has been completed; 118 districts have already received the land allocation and preparations are under way to allocate land to 19 additional districts. Planning and zoning classification for agriculture, especially rice farming, vegetable plantations and livestock need to be more detailed, aimed at 7 large plains, 16 medium and 12 small plains. Two plains are selected as pilots, including Khammouane and Savannakhet; some small northern plains will be allocated to commercial rice production for export to China and other countries.
 
 ###### Research and Technical Application
 
-The number of agricultural and forest extensioncentres throughout the countryhas increased to 264. There is one service centre that is under the management of the Department of Agriculture Extension and Cooperatives, 80 service centres at provincial level, 145 service centres at district level and 38 service centres at Kum Ban level; of these, 97 centres are in the 3-builds districts and 3 centres are in villages. For technical improvement, there were supplies of equipment, drying and screening machines, and drying yards for seeds in a total of 13 extension centres in 12 provinces, together with job creation that suits production potentials and support from field staff to Kum Ban regarding regular production promotion, aiming to assist local villagers to know and understand the new and better plantation or livestock husbandry techniques.There has been provision of 100 seed planters and 1,000 leaf colour charts to the Department of Agriculture Extension and Cooperatives in 18 provinces throughout the country. In addition, application of modern technologies is promoted in rice production to reduce labour and increase productivity and lower the cost of production.
+The number of agricultural and forest extension centres throughout the country has increased to 264. There is one service centre that is under the management of the Department of Agriculture Extension and Cooperatives, 80 service centres at provincial level, 145 service centres at district level and 38 service centres at Kum Ban level; of these, 97 centres are in the 3-builds districts and 3 centres are in villages. For technical improvement, there were supplies of equipment, drying and screening machines, and drying yards for seeds in a total of 13 extension centres in 12 provinces, together with job creation that suits production potentials and support from field staff to Kum Ban regarding regular production promotion, aiming to assist local villagers to know and understand the new and better plantation or livestock husbandry techniques. There has been provision of 100 seed planters and 1,000 leaf colour charts to the Department of Agriculture Extension and Cooperatives in 18 provinces throughout the country. In addition, application of modern technologies is promoted in rice production to reduce labour and increase productivity and lower the cost of production.
 
-· Production of rice species is on an expanding trend. The centres have produced 59,500tons of improved rice species,12 percent of which is white rice and the rest sticky rice.In the Central and Northern Regions, 80 percentof farmers in the wet season and 100 percent in the dry seasonare using improved rice species.
+· Production of rice species is on an expanding trend. The centres have produced 59,500 tons of improved rice species, 12 percent of which is white rice and the rest sticky rice. In the Central and Northern Regions, 80 percent of farmers in the wet season and 100 percent in the dry season are using improved rice species.
 
 · In  addition  to  rice  species,  the  centres  also  focused  on  researching  economic  cash  crops  and vegetables, such as the 450-year hybrid corn, soybean, banana and others. The plantation areas were also enlarged for coffee, cardamom and some seedlings of fruit trees.
 
-· Breeding of species of aquatic animals and fish: 196 million fish werebred, achieving 95 percentofthe Five-Year Plan target (206 million), 30 percent of which are bred by the public extension centres;the other 70 percent is bred by private enterprise. Experiments have been carried out with eightnative fish species: 'Tong' , local catfish,  'Kot' ,  'Keng' ,  'Kare' ,  'Soi'and tiger fish in  'Nong Tang'and  'Ban Hard'ponds, a total of 1,200 fish or 60 percent against the Plan.
+· Breeding of species of aquatic animals and fish: 196 million fish were bred, achieving 95 percent of the Five-Year Plan target (206 million), 30 percent of which are bred by the public extension centres; the other 70 percent is bred by private enterprise. Experiments have been carried out with eight native fish species: 'Tong', local catfish, 'Kot', 'Keng', 'Kare', 'Soi' and tiger fish in 'Nong Tang' and 'Ban Hard' ponds, a total of 1,200 fish or 60 percent against the Plan.
 
-· Breeding of large animals and production of animal food: There are eight mixed breeds of local and foreign cattle (1 male to 25 females, so 8 males to 200 females per year, which are expected to expand the number of the breed to 130). At present, one male cattle was produced as a standard breeder. There are 25 of mixed breed. In total, there are 799 cattle of both pure breed and mixed breed. In total, there are 51,859 local chicken 'gai-toc' , turkey, and mixed poultry of two or of three breeds. Production of fodder is 2,500 kg, along with the maintenance of grasslands for cattle and goats. There are four types of grass adapted from Ishull Stilo, Papua New Guinea and Guatemala in an area of 12 hectares that can provide 93.2 tons of fresh grass.
+· Breeding of large animals and production of animal food: There are eight mixed breeds of local and foreign cattle (1 male to 25 females, so 8 males to 200 females per year, which are expected to expand the number of the breed to 130). At present, one male cattle was produced as a standard breeder. There are 25 of mixed breed. In total, there are 799 cattle of both pure breed and mixed breed. In total, there are 51,859 local chicken 'gai-toc', turkey, and mixed poultry of two or of three breeds. Production of fodder is 2,500 kg, along with the maintenance of grasslands for cattle and goats. There are four types of grass adapted from Ishull Stilo, Papua New Guinea and Guatemala in an area of 12 hectares that can provide 93.2 tons of fresh grass.
 
 [[END OF PAGE 25]]
 
@@ -634,7 +873,7 @@ Import: The gross value of imports is estimated to reach US$ 17,629.67 million, 
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-Trade Balance: The trade deficit is expected to be US$3,400.45 million, equivalent to 23.89 percent of the total export value. The deficit was caused by large imports of domestic and foreign direct investmentsupporting equipment, as well as imports of oil, vehicles, construction materials, agriculture tools, etc. Additionally, consumption goods are also in high demand while the economy is growing under the blossoming market economy and gradual economic-trade integration, both regionally and internationally.
+Trade Balance: The trade deficit is expected to be US$3,400.45 million, equivalent to 23.89 percent of the total export value. The deficit was caused by large imports of domestic and foreign direct investment-supporting equipment, as well as imports of oil, vehicles, construction materials, agriculture tools, etc. Additionally, consumption goods are also in high demand while the economy is growing under the blossoming market economy and gradual economic-trade integration, both regionally and internationally.
 
 ##### 3.4.1.3 Energy and Mining
 
@@ -840,7 +1079,7 @@ The Zone has been actively developed and total investment amounted to US$16.02 m
 
 ###### Saysetha Development Specific Economic Zone
 
-The Zone has concentrated on constructing basic infrastructure. Construction of the zone access road and offices hasbeen completed and 34 billion kip in land compensation has been paid. The Zone has attracted US$83,25 million in investments, including US$9.94 millionof government investment, US$36.94 million from developers and US$36.37 million from sub-investors. It attracted investment from nine companies (two domestic, five foreign and two domestic-foreign jointventure). It has also created 214 jobs, of which 82 went to local workers. The Zone has met its obligations by remitting tax of US$85,970, salary tax of US$26,897 andVAT of US$56,092, and organized to collect various fees and taxes totalling US$l2,981. The Zone has imported goods worth US$65.80 million.
+The Zone has concentrated on constructing basic infrastructure. Construction of the zone access road and offices hasbeen completed and 34 billion kip in land compensation has been paid. The Zone has attracted US$83,25 million in investments, including US$9.94 millionof government investment, US$36.94 million from developers and US$36.37 million from sub-investors. It attracted investment from nine companies (two domestic, five foreign and two domestic-foreign jointventure). It has also created 214 jobs, of which 82 went to local workers. The Zone has met its obligations by remitting tax of US$85,970, salary tax of US$26,897 andVAT of US$56,092, and organized to collect various fees and taxes totalling US$12,981. The Zone has imported goods worth US$65.80 million.
 
 ###### Thatluang Lake Specific Economic Zone
 
@@ -888,13 +1127,13 @@ The Zone is located near the 1st Lao-Thai Friendship Bridge in Hatsaifong distri
 
 #### 3.4.2 Social Development
 
-Social development is gradually improving, especially in terms of access to social services such as education and health; ensuring broad and timely access to information and advocacy on the PartyGovernment policies; and ensuring society is peaceful and safe, and that people are protected and have their rights fulfilled, enabling them to fully contribute to the development of the nation.
+Social development is gradually improving, especially in terms of access to social services such as education and health; ensuring broad and timely access to information and advocacy on the Party–Government policies; and ensuring society is peaceful and safe, and that people are protected and have their rights fulfilled, enabling them to fully contribute to the development of the nation.
 
 ##### 3.4.2.1 Education and Human Resource Development and Sports
 
 ###### Education and Human Resources
 
-The Government has placed significant importance on human resources development and has allocated increased budget to education and sports, which covers 17 percent of the total government expenditures to improve and develop education infrastructure and improve teaching and learning at all levels. The focus has been on achieving the MDGs and developing new curriculum for vocational study to respond to demand by the labour market. Many project implementations have been localized, namely the development of quality education project, accelerated education for all, basic education development, dormitory building for students, school lunch and food supplements project implemented in 30 districts in six target provinces contributing to increased attendance rate while reducing drop-out rates, expansion and improvement of technical schools in the three southern provinces, information communication technology project to enhance secondary education by establishing pilot schools in each province to link them to ICT. In addition, block grants are provided for school administration to all primary schools nationwide, based on a unit cost of 20,000 kip per student in FY 2011-2012 and increased to 50,000 kip per student in FY 2012-2013. Kindergartens, secondary schools and high schools receive 20,000 Kip per person per year. This has gradually improved Lao education qualitatively and quantively, which is evident in the actual implementation of various targets. The target that is expected to be achieved is school enrolment rate by children between 3 and 5 years old, which increased from 22.1 percent in FY 20092010 to 43.20 percent in FY 2014-2015, while the target for FY 2014-2015 is 39 percent. The school enrolment rate by children at the age of 5 preparing for primary school has increased from 52.9 percentin FY 2012-2013 to 66 percent inFY 2014-2015,which already exceeded the target of 55 percent;net primary school enrolment rate increased from 92.7 percent in FY 2009-2010 to 98.6 percent in FY 2014-2015, which also exceeded the target for 2015 (98 percent); theliteracy rate of the population above 15 years old has increased from 81.7 percent to 93.6 percent, while the target is 87 percent. The enrolment rate of lower and upper secondary school students has achieved beyond the target; the lower secondary enrolment rate achieved 78 percent in FY 2014-2015 (the target is 75 percent) and the upper secondary enrolment rate is 45.7 percent in FY 2014-2015 (the target is 43 percent).
+The Government has placed significant importance on human resources development and has allocated increased budget to education and sports, which covers 17 percent of the total government expenditures to improve and develop education infrastructure and improve teaching and learning at all levels. The focus has been on achieving the MDGs and developing new curriculum for vocational study to respond to demand by the labour market. Many project implementations have been localized, namely the development of quality education project, accelerated education for all, basic education development, dormitory building for students, school lunch and food supplements project implemented in 30 districts in six target provinces contributing to increased attendance rate while reducing drop-out rates, expansion and improvement of technical schools in the three southern provinces, information communication technology project to enhance secondary education by establishing pilot schools in each province to link them to ICT. In addition, block grants are provided for school administration to all primary schools nationwide, based on a unit cost of 20,000 kip per student in FY 2011-2012 and increased to 50,000 kip per student in FY 2012-2013. Kindergartens, secondary schools and high schools receive 20,000 Kip per person per year. This has gradually improved Lao education qualitatively and quantively, which is evident in the actual implementation of various targets. The target that is expected to be achieved is school enrolment rate by children between 3 and 5 years old, which increased from 22.1 percent in FY 2009–2010 to 43.20 percent in FY 2014-2015, while the target for FY 2014-2015 is 39 percent. The school enrolment rate by children at the age of 5 preparing for primary school has increased from 52.9 percentin FY 2012-2013 to 66 percent inFY 2014-2015,which already exceeded the target of 55 percent;net primary school enrolment rate increased from 92.7 percent in FY 2009-2010 to 98.6 percent in FY 2014-2015, which also exceeded the target for 2015 (98 percent); theliteracy rate of the population above 15 years old has increased from 81.7 percent to 93.6 percent, while the target is 87 percent. The enrolment rate of lower and upper secondary school students has achieved beyond the target; the lower secondary enrolment rate achieved 78 percent in FY 2014-2015 (the target is 75 percent) and the upper secondary enrolment rate is 45.7 percent in FY 2014-2015 (the target is 43 percent).
 
 [[END OF PAGE 39]]
 
@@ -1028,19 +1267,18 @@ The fine cultural value of the legacies that are the unique identity of the Lao 
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-The Ministry has collaborated with the local authorities in conserving the newly discovered sites of old legacies and renovated a certain number of old and deteriorated sites. In particular, it has completed the construction of the old Vientiane city central pillar chapel, Phrabang Chapel. It has also completed the survey, excavation and saving of the discovered underground archaic antiques in order to preserve them and survey cultural and historic legacies and ancestors' archaic sites, and has submitted the newly discovered historic site of Souvannadome Kham City in Bokeo province to be a Unesco world heritage candidate site. The Ministry has developed and promoted valuable architectural and crafts works, such as statues and sculptural works. The first generation revolutionary leaders' statues have been completed; in the first phase, the smelting of metal and molding of the statue of President Kaysone Phomvihanh was completed and installed in Viengsay district, Houaphanh province and in Savannakhet. Phase 2 consisted of making the statues of the first generation leaders such as Phoumy Vongvichit, Sisomphone Lovanhsay, Phoun Sipaseuth, Sithon Kommadam, Faidang Lobliayao and Touya Saychou, and installing them in their respective birth villages and districts, based on the resolution of the high authorities.
+The Ministry has collaborated with the local authorities in conserving the newly discovered sites of old legacies and renovated a certain number of old and deteriorated sites. In particular, it has completed the construction of the old Vientiane city central pillar chapel, Phrabang Chapel. It has also completed the survey, excavation and saving of the discovered underground archaic antiques in order to preserve them and survey cultural and historic legacies and ancestors' archaic sites, and has submitted the newly discovered historic site of Souvannakhomkham City in Bokeo province to be a Unesco world heritage candidate site. The Ministry has developed and promoted valuable architectural and crafts works, such as statues and sculptural works. The first generation revolutionary leaders' statues have been completed; in the first phase, the smelting of metal and molding of the statue of President Kaysone Phomvihanh was completed and installed in Viengsay district, Houaphanh province and in Savannakhet. Phase 2 consisted of making the statues of the first generation leaders such as Phoumy Vongvichit, Sisomphone Lovanhsay, Phoun Sipaseuth, Sithon Kommadam, Faidang Lobliayao and Touya Saychou, and installing them in their respective birth villages and districts, based on the resolution of the high authorities.
 
 ###### Tourism
 
 There has been an upward trend in this industry. From 2011 to 2014, total revenue earned from tourism increased constantly year by year (Table 10).
 
+Table 10: Number of Tourist Arrivals and Revenue from Tourism
 Description | Unit | 2011 | 2012 | 2013 | 2014 | 2015 (est)
 --- | --- | --- | --- | --- | --- | ---
 Number of tourist arrivals | Person times | 2,723,564 | 3,330,072 | 3,779,490 | 4,158,719 | 4,684,429
 Applied inflation rate | % | 7 | 7.2 | 8.4 | 7.9 | 13
 Revenue | US$ | 406,184,338 | 506,022,586 | 595,909,127 | 641,636,543 | 725,365,681
-
-Table 10: Number of Tourist Arrivals and Revenue from Tourism
 
 In 2014, there were a total of 1,916 tourist attractions, of which, 1,093 are natural attraction sites, 541 are cultural attraction sites and 282 are historical attraction sites. The total attraction sites, 145 have already been surveyed, of which 24 have already future development concept. There are 2 world heritage and 20 national heritage sites. There are 368 travel agencies, 54 affiliated companies, 542 hotels with 21,597 rooms, 1,907 guest houses with 26,791 rooms, 1,744 restaurants and 168 entertainment centres in 2015.
 
@@ -1054,7 +1292,7 @@ In 2014, there were a total of 1,916 tourist attractions, of which, 1,093 are na
 
 ##### 3.4.2.5 Justice
 
-Implementation of the strategy on the rule of law has been undertaken in accordance with the direction of building the State from the people, by the people and truly for the people. The justice sector has been the focal coordinating point to review and obtain comments on new draft law and improvement of existing laws, totalling 73 versions, 43 ordinance drafts, 134 decree drafts, and providing legal comments on over 75 drafts of laws and 66 contracts. Legal disseminations have been carried for multi-ethnic people in villages and Kum Ban areas 14,708 times, to over 2 million participants, more than 600,000 of who mare female. The sector has disseminated Law of Rights Protection and Benefits of Children under 18 in 990 villages and 105 schools, to 201,464 participants; printed 122,412 copies of compilations of over 90 laws and disseminated one set to each village and Kum Ban; 697,176 case-free families have been developed, equivalent to 174.29 percent implementation rate, exceeding the Five-Year Plan target by 74.29 percent; 6,160 villages have been certified as case-free villages. Capacity of the village mediation units has been strengthened in 5,534 units and able to settle 16,160 disputes at the village level out of the total of more than 17,000 cases. The sector has provided training on basic law education to 28,057 people, of whom 5,813 were female and 22,266were core personnel in villages and Kum Ban.
+Implementation of the strategy on the rule of law has been undertaken in accordance with the direction of building the State from the people, by the people and truly for the people. The justice sector has been the focal coordinating point to review and obtain comments on new draft law and improvement of existing laws, totalling 73 versions, 43 ordinance drafts, 134 decree drafts, and providing legal comments on over 75 drafts of laws and 66 contracts. Legal disseminations have been carried for multi-ethnic people in villages and Kum Ban areas 14,708 times, to over 2 million participants, more than 600,000 of whom are female. The sector has disseminated Law of Rights Protection and Benefits of Children under 18 in 990 villages and 105 schools, to 201,464 participants; printed 122,412 copies of compilations of over 90 laws and disseminated one set to each village and Kum Ban; 697,176 case-free families have been developed, equivalent to 174.29 percent implementation rate, exceeding the Five-Year Plan target by 74.29 percent; 6,160 villages have been certified as case-free villages. Capacity of the village mediation units has been strengthened in 5,534 units and able to settle 16,160 disputes at the village level out of the total of more than 17,000 cases. The sector has provided training on basic law education to 28,057 people, of whom 5,813 were female and 22,266were core personnel in villages and Kum Ban.
 
 In addition, the court decisions on 5,953 cases have been implemented, covering 53.1 percent of total court decisions, which is very low compared with the Plan target of 70 percent. Debts and fines collected to the Government and victims amounting to 63.28 million kip, 43 million baht and US$ 8.1 million. Eighty-five economic disputes have been solved. The sector also completed certification of originality of 73,898 documents, and collected service charges and fees totalling 9,350 million kip.
 
@@ -1084,7 +1322,7 @@ The LWU has continued itscooperation with the women's organizations of the strat
 
 ###### Promoting Advancement of Women
 
-There have been significant achievements, such as completing the development of the 7 th Five-Year National Strategic Plan on the Advancement of Women (2011-2015) and integrating this strategy into sector and local strategies.Various campaigns and awareness-raising activities have been implemented to advocate and raise awareness of government officials and people in general on understanding of gender, promoting advancement of women, the Convention on Eliminating All Forms of Discrimination Against Women (CEDAW), acting against all forms of violence against women in order to free oneself as well as the Lao society as a whole from violence against women and children, and realizing gender equality, enabling the country to graduate from least-developed country (LDC) status gradually. In addition, the website of the National Commission for the Advancement of Women (NCAW) (www.laoncaw. gov.la)has been developed; advocacy materials were also developed and printed, such as the 6thand 7 th National Periodic Report on the implementation of the CEDAW in Lao PDR, the Doha Declaration, newsletters, notebooks, pens, bags and NCAW pins. Seminars and trainings on gender mainstreaming at sectoral and local levels have been conducted. The structure of the NCAW at the national, ministrial, organizational, provincial, municipality, district and village levels has been reorganized in conjunction with the establishment of an assistance mechanism to NCAW at each level in accordance with actual implementation. The sector has also been collaborating with the Central Party's Personnel Committee on translating resolutions on developing female officials and female ethnic officials, and integrating gender and anti-domestic-violence criteria, especially regarding violence against women and children, into poverty criteria and development criteria, as well as carrying out dissemination campaigns and implementing the resolutions in government-focused areas.
+There have been significant achievements, such as completing the development of the 7 th Five-Year National Strategic Plan on the Advancement of Women (2011-2015) and integrating this strategy into sector and local strategies.Various campaigns and awareness-raising activities have been implemented to advocate and raise awareness of government officials and people in general on understanding of gender, promoting advancement of women, the Convention on Eliminating All Forms of Discrimination Against Women (CEDAW), acting against all forms of violence against women in order to free oneself as well as the Lao society as a whole from violence against women and children, and realizing gender equality, enabling the country to graduate from least-developed country (LDC) status gradually. In addition, the website of the National Commission for the Advancement of Women (NCAW) (www.laoncaw.gov.la)has been developed; advocacy materials were also developed and printed, such as the 6thand 7 th National Periodic Report on the implementation of the CEDAW in Lao PDR, the Doha Declaration, newsletters, notebooks, pens, bags and NCAW pins. Seminars and trainings on gender mainstreaming at sectoral and local levels have been conducted. The structure of the NCAW at the national, ministrial, organizational, provincial, municipality, district and village levels has been reorganized in conjunction with the establishment of an assistance mechanism to NCAW at each level in accordance with actual implementation. The sector has also been collaborating with the Central Party's Personnel Committee on translating resolutions on developing female officials and female ethnic officials, and integrating gender and anti-domestic-violence criteria, especially regarding violence against women and children, into poverty criteria and development criteria, as well as carrying out dissemination campaigns and implementing the resolutions in government-focused areas.
 
 [[END OF PAGE 48]]
 
@@ -1140,11 +1378,11 @@ Attention was given to mobilizing and improving coordination between authorities
 
 In order to prevent any negative impact on the development process, the Government paid close attention to eliminating illicit drugs, illegal trading, burglary and other types of crimes.
 
-The friend-help-friend project was implemented to prevent negative impacts on youth and to reduce school dropout rates, avoid the useof illicit drugs, prevent accidents on the road and any actions that lead to violation of the law, and to encourage involvement of the Women's Union and Youth Union at all levels, including ethnic women, and people from all walks of life to unite and take ownership in tackling social drawbacks in family and society, especially the drawbacks in the area of gender to help ensure that gender equality is gradually realized. Attention was given to solving social drawbacks and promoting good mental health for young people and adolescents through building basic infrastructure for facilitating youth development, such as construction of the Youth and Pioneer Club, and training centre for youth and adolescents, which are equipped with all needed facilities.
+The friend-help-friend project was implemented to prevent negative impacts on youth and to reduce school dropout rates, avoid the use of illicit drugs, prevent accidents on the road and any actions that lead to violation of the law, and to encourage involvement of the Women's Union and Youth Union at all levels, including ethnic women, and people from all walks of life to unite and take ownership in tackling social drawbacks in family and society, especially the drawbacks in the area of gender to help ensure that gender equality is gradually realized. Attention was given to solving social drawbacks and promoting good mental health for young people and adolescents through building basic infrastructure for facilitating youth development, such as construction of the Youth and Pioneer Club, and training centre for youth and adolescents, which are equipped with all needed facilities.
 
 #### 3.4.3 Sustainable Development, Environmental Protection and Natural Resource Management
 
-The natural resources and environment sector has seen improvements in many rules, regulations and instructions, such as: Law on Land, Law on Forest (submitted for National Assembly approval in June 2013), Law on Water and Water Resourcesand Law on Environment Protection, and improvement of the Decree on Social-Environmental Impact Assessment and Decree on Compensation and Relocation of Population. A number of decrees have also been drafted, including the draft decree on upgrading provincial conservation forests to national conservation forests (Hi Phi and La Ving La Vern mountain), draft decree on determining 12 natural resources conservation areas, draft decree on pollution control, and  upgrading  the  Minister's  approval  notice  on  environment  standards  to  the  Law  on  National Environment Standards. In addition, the Environment Plan for 2011-2015 was endorsed, as were the draft Strategy on Early Warning and regulations on natural disaster warning, which is one of the priorities in the 7 th Five-Year Plan. In conjunction with the above-mentioned regulations, there are some outstanding works that have been implemented during the past period, which are explained in detail as follows.
+The natural resources and environment sector has seen improvements in many rules, regulations and instructions, such as: Law on Land, Law on Forest (submitted for National Assembly approval in June 2013), Law on Water and Water Resources and Law on Environment Protection, and improvement of the Decree on Social-Environmental Impact Assessment and Decree on Compensation and Relocation of Population. A number of decrees have also been drafted, including the draft decree on upgrading provincial conservation forests to national conservation forests (Hi Phi and La Ving La Vern mountain), draft decree on determining 12 natural resources conservation areas, draft decree on pollution control, and upgrading the Minister's approval notice on environment standards to the Law on National Environment Standards. In addition, the Environment Plan for 2011-2015 was endorsed, as were the draft Strategy on Early Warning and regulations on natural disaster warning, which is one of the priorities in the 7 th Five-Year Plan. In conjunction with the above-mentioned regulations, there are some outstanding works that have been implemented during the past period, which are explained in detail as follows.
 
 [[END OF PAGE 51]]
 
@@ -1156,11 +1394,11 @@ The natural resources and environment sector has seen improvements in many rules
 
 ##### 3.4.3.1 Land Management and Development
 
-Land titles have been issued for 3,779 villages, equivalent to 43.2 percent of all villages across the country (there are 8,654 villages in total), and 55 districts covering 37.1 percent of the total districts (148 districts). Between 2011 and 2015, land registration was completed and permanent land titles issued for 254,399 plots of land, 25.33 percent of the Five-Year Plan target (the target by 2015 is 1 million). From FY 19941995 until the present, registration has been completed and title issued for 871,317 plots of land. The database on land registration was developed. There is a total area of more than 4.5 million ha, comprising of 2.6 plots plus another 1.28 plots that have been recorded in the computerized system - equivalent to 49.2 percent of the total plots of land. Land mapping was developed to support price estimation and determination of residential areas. At present, this task has been completed in 26 districts in nine provinces. A modern database using the Land Lease Management System (LLMS) has also been developed, the first phase of which has already been piloted in Vientiane Capital.
+Land titles have been issued for 3,779 villages, equivalent to 43.2 percent of all villages across the country (there are 8,654 villages in total), and 55 districts covering 37.1 percent of the total districts (148 districts). Between 2011 and 2015, land registration was completed and permanent land titles issued for 254,399 plots of land, 25.33 percent of the Five-Year Plan target (the target by 2015 is 1 million). From FY 1994-1995 until the present, registration has been completed and title issued for 871,317 plots of land. The database on land registration was developed. There is a total area of more than 4.5 million ha, comprising of 2.6 plots plus another 1.28 plots that have been recorded in the computerized system - equivalent to 49.2 percent of the total plots of land. Land mapping was developed to support price estimation and determination of residential areas. At present, this task has been completed in 26 districts in nine provinces. A modern database using the Land Lease Management System (LLMS) has also been developed, the first phase of which has already been piloted in Vientiane Capital.
 
 ###### Forest Resources Management
 
-Forest classification was completed for all protected areas. As a result, thereare 139 protected forests covering 7.99 million ha, of which 49 are national protected areas covering 7.48 million ha, five provincial protected areas covering 141,633 ha and 85 district protected areas covering 366,838 ha. In addition, there are 176 conservation areas covering 4.89 million ha, of which 24 are national conservation areas covering 3.77 million ha, 59 provincial conservation areas covering 626,499 ha,93 district conservation areas covering 420,678 ha and two connection areas - Nakai-Namtheun and Hin Nam No - covering 77,170 ha. A Protected Forest Classification Plan was established in five national areas and five provincial areas. The most outstanding is Namha National Protected Area, which is being proposed to be listed as a World Natural Heritage site. There are five aquatic-wildlife protected areas identified, including; tiger protected area in Nam Att-Phou Leuy Conservation Area, Sao La Protected Area in Oudomxay, river crocodile protected area, local reindeer protected area in Savannakhet and white cheeked gibbon protected area in Bokeo.
+Forest classification was completed for all protected areas. As a result, there are 139 protected forests covering 7.99 million ha, of which 49 are national protected areas covering 7.48 million ha, five provincial protected areas covering 141,633 ha and 85 district protected areas covering 366,838 ha. In addition, there are 176 conservation areas covering 4.89 million ha, of which 24 are national conservation areas covering 3.77 million ha, 59 provincial conservation areas covering 626,499 ha, 93 district conservation areas covering 420,678 ha and two connection areas - Nakai-Namtheun and Hin Nam No - covering 77,170 ha. A Protected Forest Classification Plan was established in five national areas and five provincial areas. The most outstanding is Namha National Protected Area, which is being proposed to be listed as a World Natural Heritage site. There are five aquatic-wildlife protected areas identified, including; tiger protected area in Nam Att-Phou Leuy Conservation Area, Sao La Protected Area in Oudomxay, river crocodile protected area, local reindeer protected area in Savannakhet and white cheeked gibbon protected area in Bokeo.
 
 ##### 3.4.3.2 Geology and Mineral Management
 
@@ -1168,7 +1406,7 @@ A technical survey was carried out to create geological-mineral mapping on a sca
 
 ##### 3.4.3.3 Water Resources, Meteorology and Hydrology
 
-Implementation of national integrated water resource management has included improvement of the Law on Water and Water Resources, the laboratory for testing water quality, and the introduction of the meteorology and hydrology database, national water strategy and policy, and completion of surveying and marking the area for piloting integrated water resources management for training, research, study visits and cultivating the environmental consciousness of the people.
+Implementation of national integrated water resource management has included improvement of the Law on Water and Water Resources, the laboratory for testing water quality, and the introduction of the meteorology and hydrology database, national water strategy and policy, and completion of surveying
 
 [[END OF PAGE 52]]
 
@@ -1178,15 +1416,17 @@ Implementation of national integrated water resource management has included imp
 
 45
 
-There is a total of 62 river basins, six of which have established river basin committees. In addition, there has been research and initiatives to manage other priority river basins, such as Xe Bangfai, Xe Banghieng, Xe Kong and some river tributaries, including Nam Torn, Nam Xong, Nam Lik, Nam Pae, Nam ChaengNam Xuang, Houay Champi and Houya Nam Xay. Management of wetland in Kiat Gnong Lake and Xe Champhone has continued. There are 144 points identified in the rivers at which the quality of water is being checked. There is an improvement in meteorology and hydrology stations, in meteorology stations to measure underground conditionsas well as closely monitoring the weather, aviation, satellites, the daily level of water and earthquakes and to issue regular warnings of the domestic and international weather situation. There are 51 meteorology stations, including newly established and upgraded ones; 26 hydrology stations were upgraded with an automatic system. In addition, the national early warning centre in the Department of Meteorology and Hydrology was established, and there is exchange of meteorology and hydrology information with other countries, in order to report regularly on the information and weather situation for aviation.
+and marking the area for piloting integrated water resources management for training, research, study visits and cultivating the environmental consciousness of the people.
+
+There is a total of 62 river basins, six of which have established river basin committees. In addition, there has been research and initiatives to manage other priority river basins, such as Xe Bangfai, Xe Banghieng, Xe Kong and some river tributaries, including Nam Torn, Nam Xong, Nam Lik, Nam Pae, Nam Chaeng-Nam Xuang, Houay Champi and Houya Nam Xay. Management of wetland in Kiat Gnong Lake and Xe Champhone has continued. There are 144 points identified in the rivers at which the quality of water is being checked. There is an improvement in meteorology and hydrology stations, in meteorology stations to measure underground conditions as well as closely monitoring the weather, aviation, satellites, the daily level of water and earthquakes and to issue regular warnings of the domestic and international weather situation. There are 51 meteorology stations, including newly established and upgraded ones; 26 hydrology stations were upgraded with an automatic system. In addition, the national early warning centre in the Department of Meteorology and Hydrology was established, and there is exchange of meteorology and hydrology information with other countries, in order to report regularly on the information and weather situation for aviation.
 
 ##### 3.4.3.4 Environment
 
-Achievements included: conducted a study and research on environmental tax and the use of income from the development projects in the management of sustainable natural resources and environment; produced a manual on Hydrochlorofluorocarbons (HCFC) management; implemented model trilateral cooperation plan in solid waste management in six pilot districts of three provinces, Vientiane Capital, Sayabouly and Luangprabang; encouraged public investment projects to conduct environmental impact assessment  in  accordance  with  the  rules  and  regulations  with  transparent  process.  Reviewed environmental impact assessment reports of 288 projects, ofwhich 145 were initial environmental evaluation (IEE) reports and 143 were environmental impact assessment (EIA) reports. Field environmental management teams were established in 27 districts and 13 provinces where medium- to large-scale investment is occurring. There are 18 main projects being assessed on environment, through establishment of the monitoring system on environment quality and pollution released from the investment projects, development activities and family businesses. There are provincial environmental laboratories established in Luang Prabang, Xiengkhouang, Champasack, and Vientiane Capital, and there is a national laboratory established in Vientiane Captial to confirm the research findings that are comparable with the international standard ISO/IEC 17025.
+Achievements included: conducted a study and research on environmental tax and the use of income from the development projects in the management of sustainable natural resources and environment; produced a manual on Hydrochlorofluorocarbons (HCFC) management; implemented model trilateral cooperation plan in solid waste management in six pilot districts of three provinces, Vientiane Capital, Sayabouly and Luangprabang; encouraged public investment projects to conduct environmental impact assessment in accordance with the rules and regulations with transparent process. Reviewed environmental impact assessment reports of 288 projects, of which 145 were initial environmental evaluation (IEE) reports and 143 were environmental impact assessment (EIA) reports. Field environmental management teams were established in 27 districts and 13 provinces where medium- to large-scale investment is occurring. There are 18 main projects being assessed on environment, through establishment of the monitoring system on environment quality and pollution released from the investment projects, development activities and family businesses. There are provincial environmental laboratories established in Luang Prabang, Xiengkhouang, Champasack, and Vientiane Capital, and there is a national laboratory established in Vientiane Captial to confirm the research findings that are comparable with the international standard ISO/IEC 17025.
 
 ##### 3.4.3.5 Natural Disaster Management and Climate Change
 
-The National Strategy on Climate Change and the National Adaptation Plan of Action have been operationalized through improvement of regulations and tools to suit the actual situation of Lao PDR; the Provincial Strategy on Climate Change and the Provincial Adaptation Plan of Action were formulated in six provinces; the final draft of the results on greenhouse gases has been completed for the decision makers in the agriculture and forestry sector; the sector has prepared for the Government to consider adopting the project on reducing greenhouse gases by avoiding deforestation and degradation of forestry at the local level by New Chip Xeng Group (SN-REDD+ Project) to pilot carbon trade; a study on potential and challenges of the Climate Change Fund has been initiated to ensure that resources mobilized from the Fund can bring maximum benefits to Lao PDR; initiatives have been made to develop the flood management plan and wetland management plan in Xe Bangfai and Xe Banghieng; the pilot area for demonstrating the implementation of adaptation to climate change has been completed in Gang Gok and Nakatang village, Champhone District, Savannakhet province; the development of guidelines on the development and consideration of the Clean Development Mechanism (CDM) was completed in 2013 and there are 22 projects certified by this mechanism.
+The National Strategy on Climate Change and the National Adaptation Plan of Action have been operationalized through improvement of regulations and tools to suit the actual situation of Lao PDR; the Provincial Strategy on Climate Change and the Provincial Adaptation Plan of Action were formulated in six provinces; the final draft of the results on greenhouse gases has been completed for the decision makers in the agriculture and forestry sector; the sector has prepared for the Government to consider adopting the project on reducing greenhouse gases by avoiding deforestation and degradation of forestry at the local level by New Chip Xeng Group (SN-REDD+ Project) to pilot carbon trade; a study on potential
 
 [[END OF PAGE 53]]
 
@@ -1196,15 +1436,17 @@ The National Strategy on Climate Change and the National Adaptation Plan of Acti
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+and challenges of the Climate Change Fund has been initiated to ensure that resources mobilized from the Fund can bring maximum benefits to Lao PDR; initiatives have been made to develop the flood management plan and wetland management plan in Xe Bangfai and Xe Banghieng; the pilot area for demonstrating the implementation of adaptation to climate change has been completed in Gang Gok and Nakatang village, Champhone District, Savannakhet province; the development of guidelines on the development and consideration of the Clean Development Mechanism (CDM) was completed in 2013 and there are 22 projects certified by this mechanism.
+
 #### 3.4.4 Enterprise Development
 
-There are initiatives to improve, promote and develop enterprises and their production capacity to contribute to socio-economic development and thereby create a strong foundation for continuous and stable economic growth at considerable pace, and people's livelihoods improved evidentially; socioeconomic infrastructure in both urban and rural areas has been upgraded gradually.
+There are initiatives to improve, promote and develop enterprises and their production capacity to contribute to socio-economic development and thereby create a strong foundation for continuous and stable economic growth at considerable pace, and people's livelihoods improved evidentially; socio-economic infrastructure in both urban and rural areas has been upgraded gradually.
 
-At present, there are 100,653 registered enterprises across the country, with total registered capital of 1,680 trillion kip (US$ 200 billion); the industrial sector accounted for 86.52 percent, agriculture 1.62 percent, construction 3.14 percent and the service sector 8.72 percent; the enterprises registration procedure was made simpler and faster. Breakdown by type of ownership shows: currently, there are 131 state-owned  enterprises  representing  0.13  percent  of  the  total  and  100,473  private  enterprises representing 99.79 percent, of which: 96,531 are domestic enterprises, accounting for 95.90 percent; 2,758 are foreign enterprises, accounting for 2.74percent; 1,184 are joint ventures, accounting for 1.17 percent; 29 are collective enterprises, accounting for 0.03 percent;and 53 are mixed enterprises, accounting for 0.05 percent. Two matters to be considered are promotion of the 'one district one product'approach and establishment of a cooperation mechanism between large and small enterprises to encourage large enterprises to use the products and services of small enterprises.
+At present, there are 100,653 registered enterprises across the country, with total registered capital of 1,680 trillion kip (US$ 200 billion); the industrial sector accounted for 86.52 percent, agriculture 1.62 percent, construction 3.14 percent and the service sector 8.72 percent; the enterprises registration procedure was made simpler and faster. Breakdown by type of ownership shows: currently, there are 131 state-owned enterprises representing 0.13 percent of the total and 100,473 private enterprises representing 99.79 percent, of which: 96,531 are domestic enterprises, accounting for 95.90 percent; 2,758 are foreign enterprises, accounting for 2.74 percent; 1,184 are joint ventures, accounting for 1.17 percent; 29 are collective enterprises, accounting for 0.03 percent; and 53 are mixed enterprises, accounting for 0.05 percent. Two matters to be considered are promotion of the 'one district one product' approach and establishment of a cooperation mechanism between large and small enterprises to encourage large enterprises to use the products and services of small enterprises.
 
 ##### 3.4.4.1 State-owned Enterprise
 
-There are 131 state-owned enterprises (SOEs) (with 100 percent government investment), 55 of which are managed by the central government. Overall assets of state-owned enterprises accounted for about 33 percent of GDP . The Government has improved administrative and financial management and allowed some  SOEs  to  adjust  according  to  the  market  price  via  government  acknowledgement,  such  as Electricitédu Laos (EDL), Lao State Fuel Company, Lao Airlines and State Medicines Factory No.3, and monitoring of the second and third restructure of agriculture-industry development and services on export-import, Lan Xang Development Import-Export, state construction of Southern Road No. 13, Thangone Agricultural Machinery and state enterprises that provide technical tools. Given their very important role, SOEs grew quite positively, with smooth operations and quick profit, which contributed to  maintaining  national  stability  overall.  Meanwhile,  the  classification  of  the  131  SOEs  followed performance indicators, as follows: Type A 'Effective' consists of sixenterprises; Type B 'Effective but need some restructural improvement' consists of 27 units; Type C' Not effective and need improvement or reform' consists of 98 enterprises, of which 23 had consecutive losses, 54 are profitable and 10 have been shifted towards otherforms. There are 48 enterprises that successfully operate under joint venture, with total assets of around 7.3 percent of GDP and aratio of profit to revenue higher than that of 100 percent SOEs. EDL and BCEL are listedon the Lao Securities Exchange; this is expected for more enterprises that meet the conditions in the coming years, while improving conditions for SOEs at national, sectoral and provincial levels to go public, such as Lao Cement Factory, Agricultural Promotion Bank and some other enterprises.
+There are 131 state-owned enterprises (SOEs) (with 100 percent government investment), 55 of which are managed by the central government. Overall assets of state-owned enterprises accounted for about 33 percent of GDP. The Government has improved administrative and financial management and allowed some SOEs to adjust according to the market price via government acknowledgement, such as Electricité du Laos (EDL), Lao State Fuel Company, Lao Airlines and State Medicines Factory No. 3, and monitoring of the second and third restructure of agriculture-industry development and services on export-import, Lan Xang Development Import-Export, state construction of Southern Road No. 13, Thangone Agricultural Machinery and state enterprises that provide technical tools. Given their very important role, SOEs grew quite positively, with smooth operations and quick profit, which contributed to maintaining national stability overall. Meanwhile, the classification of the 131 SOEs followed performance indicators, as follows: Type A 'Effective' consists of six enterprises; Type B 'Effective but need some restructural improvement' consists of 27 units; Type C 'Not effective and need improvement or reform' consists of 98 enterprises, of which 23 had consecutive losses, 54 are profitable and 10 have been shifted towards other forms. There are 48 enterprises that successfully operate under joint venture, with total assets of around 7.3 percent of GDP and a ratio of profit to revenue higher than that of 100 percent
 
 [[END OF PAGE 54]]
 
@@ -1214,6 +1456,8 @@ There are 131 state-owned enterprises (SOEs) (with 100 percent government invest
 
 47
 
+SOEs. EDL and BCEL are listed on the Lao Securities Exchange; this is expected for more enterprises that meet the conditions in the coming years, while improving conditions for SOEs at national, sectoral and provincial levels to go public, such as Lao Cement Factory, Agricultural Promotion Bank and some other enterprises.
+
 ##### 3.4.4.2 Small and Medium-sized Enterprises (SMEs)
 
 SME promotion and development is one of the sectors which has made significant achievements over the last five years, and could be demonstrated as following:
@@ -1222,13 +1466,13 @@ Completion of upgrading the Decree 42/PM on the Law on SMEs, No. 11/NA, dated 21
 
 In collaboration with the Ministry of Education and Sports and related sector, the textbooks and manual on business operation were reviewed to create a curriculum for inclusion in the regular course of study, which has already been piloted in some schools for general education and it is being prepared for inclusion in vocational education and at university level.
 
-The'one district one product'approach has been studied and promoted while determining the alliance mechanism between large and small enterprises to create incentives for large enterprises to source the products and services provided by small enterprises.
+The 'one district one product' approach has been studied and promoted while determining the alliance mechanism between large and small enterprises to create incentives for large enterprises to source the products and services provided by small enterprises.
 
-There is a need to promote increased productivity, the quality and standards of products and services by implementing a pilot project to demonstrate activities related to '5 sor'and production of some model factories. Currently, there is ongoing mission with other sectors concerned to develop a system and organization that will be responsible for quality and standard scertification.
+There is a need to promote increased productivity, the quality and standards of products and services by implementing a pilot project to demonstrate activities related to '5 sor' and production of some model factories. Currently, there is ongoing mission with other sectors concerned to develop a system and organization that will be responsible for quality and standards certification.
 
 #### 3.4.5 Implementation of the Millennium Development Goals (MDGs)
 
-All directly and indirectly concerned stakeholders havemade efforts in implementing the targets set in the 7 th Five-Year NSEDP, including to achievethe nineMDGs on which the Government has to report to the international communityin 2015.Preparation of the implementation framework forthe MDGs and the financial planning was completed in 2010, by determining certain particular points enabling the country to achieve the MDGs. This framework has defined sixmain areas of focus necessary to achieve the MDGs: access tobasic infrastructure; the sustainable improvement of food security and sustainable environment; access to basic education for all and bygender; equal participation and empowerment of women; improving maternal and child health; providing clean water and improved hygiene in rural areas and small towns. Afterfive years of implementation, effortscan be evaluated and summarized as follows.
+All directly and indirectly concerned stakeholders have made efforts in implementing the targets set in the 7 th Five-Year NSEDP, including to achieve the nine MDGs on which the Government has to report to the international community in 2015. Preparation of the implementation framework for the MDGs and the financial planning was completed in 2010, by determining certain particular points enabling the country to achieve the MDGs. This framework has defined six main areas of focus necessary to achieve the MDGs: access to basic infrastructure; the sustainable improvement of food security and sustainable environment; access to basic education for all and by gender; equal participation and empowerment of women; improving maternal and child health; providing clean water and improved hygiene in rural areas and small towns. After five years of implementation, efforts can be evaluated and summarized as follows.
 
 [[END OF PAGE 55]]
 
@@ -1250,7 +1494,7 @@ Lao PDR has a number of opportunities to accelerate the progress in reducing mal
 
 ##### 3.4.5.2 MDG 2: Achieve Universal Primary Education
 
-Education is crucial to the development of the country and supportive to the achievements of other MDGs, especially the targets for poverty reduction and the reduction of maternal and child mortality. Thus, provision of basic education is vital, particularly for the remote and disadvantaged areas. In order to reach the target, the Education sector has collaborated with development partners within and outside the country to develop manuals and expand education infrastructure to create and expand opportunities for school-aged children to have access to schools. As a result, the net enrolment rate of children at primary school level increased from 92.7 percent in FY 2009-2010 to 96.8 percent in FY 2012-2013, 98 percent in 2013-14 and 98.6 percent in FY 2014-2015; the target of 98.6 percent has been reached. Nevertheless, the quality of education is still low as some children enrolled in primary schools are overaged while a small number areunder-aged, which may result in a high repetition rate. The survival rate of primary school students reached 68 percent in FY 2011-2012, 71.4 percent in FY 2012-2013, 77.5 percent in 2013-2014 and 78.3 percent in 2014-2015, which did not meet the 2015 target (95 percent).
+Education is crucial to the development of the country and supportive to the achievements of other MDGs, especially the targets for poverty reduction and the reduction of maternal and child mortality. Thus, provision of basic education is vital, particularly for the remote and disadvantaged areas. In order to reach the target, the Education sector has collaborated with development partners within and outside the country to develop manuals and expand education infrastructure to create and expand opportunities for school-aged children to have access to schools. As a result, the net enrolment rate of children at primary school level increased from 92.7 percent in FY 2009-2010 to 96.8 percent in FY 2012-2013, 98 percent in 2013-14 and 98.6 percent in FY 2014-2015; the target of 98.6 percent has been reached. Nevertheless, the quality of education is still low as some children enrolled in primary schools are over-aged while a small number are under-aged, which may result in a high repetition rate. The survival rate of primary school students reached 68 percent in FY 2011-2012, 71.4 percent in FY 2012-2013, 77.5 percent in 2013-2014 and 78.3 percent in 2014-2015, which did not meet the 2015 target (95 percent).
 
 [[END OF PAGE 56]]
 
@@ -1260,7 +1504,7 @@ Education is crucial to the development of the country and supportive to the ach
 
 49
 
-Significant disparities in school attendance and retention rates exist in rural areas without road access and among the children from the poorest group and children of mothers with no education. On average, the literacy rate in the 15-24 age group increases about 2 percent annually, reaching 98.6 percent in FY 2014-2015, while the target for 2015 is 99 percent. The secondary school enrolment rate reached 62.9percent in FY 2010-2011, 64.7 percent in FY 2011-2012, 69 percent in FY 2012-2013, 74.4 percent in 2013-2014 and 78.1 percent in 2014-2015. Thus it can be inferred that this target was achieved as planned, as demonstrated in table 11.
+Significant disparities in school attendance and retention rates exist in rural areas without road access and among the children from the poorest group and children of mothers with no education. On average, the literacy rate in the 15-24 age group increases about 2 percent annually, reaching 98.6 percent in FY 2014-2015, while the target for 2015 is 99 percent. The secondary school enrolment rate reached 62.9 percent in FY 2010-2011, 64.7 percent in FY 2011-2012, 69 percent in FY 2012-2013, 74.4 percent in 2013-2014 and 78.1 percent in 2014-2015. Thus it can be inferred that this target was achieved as planned, as demonstrated in table 11.
 
 [[END OF PAGE 57]]
 
@@ -1270,14 +1514,14 @@ Significant disparities in school attendance and retention rates exist in rural 
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+Table 11: Universal Access for Primary Education Indicators
+
 Indicator | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | 2015 Target
 --- | --- | --- | --- | --- | --- | ---
 Net enrolment rate in primary school | 94.1 | 95.2 | 96.8 | 98 | 98.6 | 98
 Proportion of pupils starting grade 1 who reach grade 5 | 68 | 70 | 71.4 | 77.5 | 78.3 | 95
 Enrolment rate in secondary school | 62.9 | 64.7 | 69 | 74.4 | 78.1 | 75
-Literacy rate in the15-24 age group | 87 | 92 | 94.8* | 98.6 | 99
-
-Table 11: Universal Access for Primary Education Indicators
+Literacy rate in the 15-24 age group | 87 | 92 | 94.8* |  | 98.6 | 99
 
 Source: LSIS and Report 2011-2015.
 
@@ -1285,20 +1529,20 @@ Source: LSIS and Report 2011-2015.
 
 Gender equality and women's empowerment is generally the Government's target as women can significantly contribute to the development process and family economy. Women also play an important role in the family in managing resources. Gender equality and women's empowerment is an important factor in supporting the achievement of other MDGs. Therefore, sectoral planning must take into consideration gender issues, especially in the education sector where the focus has been on expanding education service for girls by constructing girls' dormitories and providing food at schools, etc. Nevertheless, there are still disparities in the school enrolment ratios of girls to boys and the disparity increases with the level of education, as shown in table 12.
 
+Table 12: Gender Equality and Advancement of Women Indicators
+
 Indicator | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2014-15 Target
 --- | --- | --- | --- | --- | ---
 Ratio of girls to boys enrolled in primary school | 0.94 | 0.94 | 0.95 | 0.95 | 1
 Ratio of girls to boys enrolled in lower secondary school | 0.86 | 0.87 | 0.89 | 0.91 | 1
 Ratio of girls to boys enrolled in upper secondary school | 0.82 | 0.81 | 0.83 | 0.84 | 1
-Ratio of girls to boys enrolled in higher education | 0.06 (vocational level)
-Share of women in wage employment in the non-agriculture sectors | 34 percent
-Proportion of seats held by women in the National Assembly | 25 percent
-
-Table 12: Gender Equality and Advancement of Women Indicators
+Ratio of girls to boys enrolled in higher education |  |  |  | 0.06 (vocational level) |
+Share of women in wage employment in the non-agriculture sectors |  |  | 34 percent |  |
+Proportion of seats held by women in the National Assembly |  |  |  | 25 percent |
 
 Source: Data on Ratio of girls to boys is from the LSIS.
 
-The literacy rates of women and men are generally related to poverty. Women's literacy is lower than men's, especially in the rural areas without road access, and amongst the poorest groups and ethnic groups living in very remote areas. The ratio of literate women to men in the younger population (aged15-19) is better than the ratio inthe age group 20-24 years. This could be due to the higher girls' school enrolment rate during recent years.
+The literacy rates of women and men are generally related to poverty. Women's literacy is lower than men's, especially in the rural areas without road access, and amongst the poorest groups and ethnic groups living in very remote areas. The ratio of literate women to men in the younger population (aged 15-19) is better than the ratio in the age group 20-24 years. This could be due to the higher girls' school enrolment rate during recent years.
 
 [[END OF PAGE 58]]
 
@@ -1312,15 +1556,15 @@ The share of women in wage employment in non-agriculture sectors increased from 
 
 ##### 3.4.5.4 MDG 4: Reduce Child Mortality
 
-The infant mortality rate reduced from 75 per 1,000 live births in 2008 to 68 in 2011 and is expected to reduce to 32 in 2015, while the 2015 target is 49 per 1,000 live births; it has already met the target. The under-5mortality rate decreased from 89 per 1,000 live births in 2008 to 72 in 2011, and is most likely to reach the 2015 target of 70 per 1,000 live births. Immunization against measles may not be achieved due to the current low coverage of only 85 percent (in 2014) against the target of 90 percent. Nevertheless, in comparison with neighbouring countries, Lao PDR still has a high child mortality rate.
+The infant mortality rate reduced from 75 per 1,000 live births in 2008 to 68 in 2011 and is expected to reduce to 32 in 2015, while the 2015 target is 49 per 1,000 live births; it has already met the target. The under-5 mortality rate decreased from 89 per 1,000 live births in 2008 to 72 in 2011, and is most likely to reach the 2015 target of 70 per 1,000 live births. Immunization against measles may not be achieved due to the current low coverage of only 85 percent (in 2014) against the target of 90 percent. Nevertheless, in comparison with neighbouring countries, Lao PDR still has a high child mortality rate.
+
+Table 13: Child Mortality Reduction Indicators
 
 Indicator | 2005 | 2008 | 2011 (LSIS) | Target 2015
 --- | --- | --- | --- | ---
-Reduce under-5mortality rate per 1000 live births | 98 | 89 | 79 | 80
+Reduce under-5 mortality rate per 1000 live births | 98 | 89 | 79 | 80
 Reduce infant mortality rate per 1000 live births | 70 | 75 | 68 | 49
-Proportion of 1-year-old children immunized against measles | 69 | 55 | 90
-
-Table 13: Child Mortality Reduction Indicators
+Proportion of 1-year-old children immunized against measles | 69 | 55 |  | 90
 
 2006 MICS data suggests that the equality gap has widened or remained the same, while urban families experience better living standards. Therefore, to achieve further reductions in infant and child mortality calls for service provision to this segment, appropriate investment in the health sector that will reach the poorest population living in the remote areas.
 
@@ -1328,7 +1572,7 @@ The biggest challenge in achieving the goal is to ensure provision of funding fo
 
 ##### 3.4.5.5 MDG 5: Improve Maternal Health
 
-The international assessment has pointed out that Lao PDR has already achieved this target. In 2013, the maternal mortality rate was 220 per 100,000 live births, but the LSIS result indicated 357 per 100,000 live births in 2011, while the 2015 target is 260 per 100,000 live births. Similarly, the proportion of births attended by skilled birth attendants remains low at 42 percent, compared with the 2015 target of 50 percent. The contraceptive prevalence rate and antenatal care coverage progress very slowly, thus requiring focusing the funds on implementing various activities, such as a free maternal and childrenunder-5 services project, reproductive health project, family planning project, immunization for women of reproductive age, training of skilled birth attendants project, etc.
+The international assessment has pointed out that Lao PDR has already achieved this target. In 2013, the maternal mortality rate was 220 per 100,000 live births, but the LSIS result indicated 357 per 100,000 live births in 2011, while the 2015 target is 260 per 100,000 live births. Similarly, the proportion of births attended by skilled birth attendants remains low at 42 percent, compared with the 2015 target of 50 percent. The contraceptive prevalence rate and antenatal care coverage progress very slowly, thus requiring focusing the funds on implementing various activities, such as a free maternal and children-under-5 services project, reproductive health project, family planning project, immunization for women of reproductive age, training of skilled birth attendants project, etc.
 
 [[END OF PAGE 59]]
 
@@ -1338,14 +1582,14 @@ The international assessment has pointed out that Lao PDR has already achieved t
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+Table 14: Maternity Health Indicators
+
 Indicator | 2005 | 2008 | 2011 | 2013 | Target 2015
 --- | --- | --- | --- | --- | ---
-Reduce maternal mortality ratio per 100,000 live births | 405 | 357 | 220 | 260
-Proportion of births attended by skilled birth attendants (percent) | 23 | 42 | 58 (2014) | 50
-Contraceptive prevalence rate (percent) | 38.4 | 49 (2014) | 55
-Antenatal care coverage (percent) | 28.5 | 46 (2014) | 69
-
-Table 14: Maternity Health Indicators
+Reduce maternal mortality ratio per 100,000 live births | 405 |  | 357 | 220 | 260
+Proportion of births attended by skilled birth attendants (percent) | 23 |  | 42 | 58 (2014) | 50
+Contraceptive prevalence rate (percent) | 38.4 |  |  | 49 (2014) | 55
+Antenatal care coverage (percent) | 28.5 |  |  | 46 (2014) | 69
 
 Disparities in delivery assistance and other related indicators are pronounced between the different population groups. Urban areas show a higher safe delivery rate, that is, twice the national average and over six times that in remote rural areas. The safe delivery rate was three times higher among the ethnic groups living in accessible areas than that among the groups living in remote areas. The safe delivery is eight times different between the richest and poorest quintiles, and about six times between women who have completed secondary education and those with no education. The casearean section rate is still low at 4 percent of all births. This indicates that some women whose lives could have been saved by caesarean section were not able to have this intervention.
 
@@ -1365,7 +1609,7 @@ HIV/AIDS prevalence in the general population remains low and thus the target is
 
 Heterosexual contact fuels much of the epidemic in Lao PDR. The patterns of groups engaging in high-risk behaviour influence the geographic spread of HIV. Such groups include men who migrate for work without their families and returning migrant workers, especially females. The groups at highest risk are female sex workers, especially those not working in entertainment establishments.
 
-ART  coverage  has  increased  but  still  needs  improvement. The  problem  appears  to  be  inadequate  reporting, identification/diagnosis and increasing demand for medical treatment. To reach the national targets on HIV and AIDS by 2015, a number of actions are recommended, among them, building on the momentum created by the health reforms,  building  partnerships  with  key  affected  populations,  groups  and  networks,  strategically addressing the needs related to mother-to-child transmission, securing access to treatment for all and increasing the domestic financial contribution.
+ART coverage has increased but still needs improvement. The problem appears to be inadequate reporting, identification/diagnosis and increasing demand for medical treatment. To reach the national targets on HIV and AIDS by 2015, a number of actions are recommended, among them, building on the momentum created by the health
 
 [[END OF PAGE 60]]
 
@@ -1375,9 +1619,11 @@ ART  coverage  has  increased  but  still  needs  improvement. The  problem  app
 
 53
 
+reforms, building partnerships with key affected populations, groups and networks, strategically addressing the needs related to mother-to-child transmission, securing access to treatment for all and increasing the domestic financial contribution.
+
 ###### Malaria
 
-Death associated with malaria reduced from 7.1 per 100,000 population in 2000 to 0.29in 2011 and is expected to achieve the 2015 target of below 0.2 per 100,000 population.
+Death associated with malaria reduced from 7.1 per 100,000 population in 2000 to 0.29 in 2011 and is expected to achieve the 2015 target of below 0.2 per 100,000 population.
 
 The strategy on malaria control has been quite effective, leading to the widespread use of bed nets among adults and children. The National Bed Net Survey found that 81 percent of children under five years of age slept under insecticide-treated bed nets and that 98 percent of children slept under one kind of bed net or another.
 
@@ -1441,7 +1687,7 @@ The National Regulatory Authority (NRA) has identified 46 priority districts in 
 
 #### 3.4.6 Regional and Local Development
 
-The 7 th  Five-Year Plan has determined the economic growth rate for the Northern Region of at least 9.72 percent, the Central Region 11.50 percent and the Southern Region 12.65 percent, with per capita income of US$ 1,700, US$2,200 and US$ 1,300, respectively. In addition, it set the poverty reduction target for the Northern Region at 8 percent, Central Region at 3.5 percent and Southern Regionat 10 percent, while promoting the industrialization and modernization.
+The 7 th  Five-Year Plan has determined the economic growth rate for the Northern Region of at least 9.72 percent, the Central Region 11.50 percent and the Southern Region 12.65 percent, with per capita income of US$ 1,700, US$2,200 and US$ 1,300, respectively. In addition, it set the poverty reduction target for the Northern Region at 8 percent, Central Region at 3.5 percent and Southern Region at 10 percent, while promoting the industrialization and modernization.
 
 Through actual implementation over the 7 th NSEDP period since FY 2011-2012, there have been problems caused by natural disasters such as the Haima and Nokten storms, which caused damage to economic and social infrastructures, thereby limiting regional economic growth. Nevertheless, the Party and the Government have focused all efforts on rehabilitation, which resulted in continuation of regional economic growth. Overall, regional development can be evaluated and assessed based on the changing economic structure, which is closely linked to the three main economic sectors, agriculture, industry and services, and to the poverty situation.
 
@@ -1449,7 +1695,7 @@ Through actual implementation over the 7 th NSEDP period since FY 2011-2012, the
 
 ###### Economic Growth
 
-Through actual implementation over the 7 th  NSEDP period it can be seen that the GDP growth of the Northern Region increased 9.74 percent on average; in sector terms, agriculture increased from 6.16 percent in FY 2010-2011 to 6.45 percent in 2014-2015, industry increased from 11.9 percent in FY 20102011 to 11.65 percent in 2014-2015, and the service sector experienced reduction from 13.80 percent in FY 2010-2011 to 11.84 percent in FY 2014-2015. Average per capita income also increased, from US$ 859.85 in FY 2010-2011 to US$1,402.82 in FY 2014-2015, which did not achieve the target due to a number of impacts from the natural disasters; the number of poor households reduced from 28.6 percent in FY 2010-2011 to 22.35 percent in FY 2011-2012, to 19.32 percent in FY 2012-2013, to 13.73 percent in 2013-2014 and to 9.95 percent in 2014-2015.
+Through actual implementation over the 7 th  NSEDP period it can be seen that the GDP growth of the Northern Region increased 9.74 percent on average; in sector terms, agriculture increased from 6.16 percent in FY 2010-2011 to 6.45 percent in 2014-2015, industry increased from 11.9 percent in FY 2010-2011 to 11.65 percent in 2014-2015, and the service sector experienced reduction from 13.80 percent in FY 2010-2011 to 11.84 percent in FY 2014-2015. Average per capita income also increased, from US$ 859.85 in FY 2010-2011 to US$1,402.82 in FY 2014-2015, which did not achieve the target due to a number of impacts from the natural disasters; the number of poor households reduced from 28.6 percent in FY 2010-2011 to 22.35 percent in FY 2011-2012, to 19.32 percent in FY 2012-2013, to 13.73 percent in 2013-2014 and to 9.95 percent in 2014-2015.
 
 The change in the economic structure in the Northern Region is as follows: the agriculture and forestry sector decreased from 51.66 percent of regional GDP in FY 2010-2011 to 43.15 percent in FY 2014-2015. The industrial sector structure share increased from 23.64 percent of regional GDP in FY 2010-2011 to 27.14 percent in FY 2014-2015. The service sector increased from 24.68 percent of regional GDP to 29.71 percent of GDP in FY 2014-2015. The Northern Region has great potential but industrial sector has not yet evidently developed. At present, there are only some hydropower dams, small-scale mining and some handicraft and a few family-run food processing enterprises.
 
@@ -1469,9 +1715,9 @@ The development has been focused on agriculture and rural development, urban dev
 
 · Construction of road was completed from Luangnamtha Provincial Municipality to the airport, Luang Prabang airport was upgraded and construction of the sport stadium in Oudomxay was completed.
 
-· Some road constructions have been completed, such as Road No. 2W (Muang Ngeun to Pak Bang), Road No. 2E (Muang Khua to Tai Chang), and the road from Luang Namtha city to Luang Namtha airport No. 1D (Xiengkhouang-Bolikhamxay strategic road for national defence and security). The construction of three bypass roads in Vienxay district with three bridges has been initiated. The construction of the fourth Mekong Bridge Houayxai-Xiengkhong and Mekong Bridge from Thadeua to Parkkhone has also been completed. The Mekong friendship bridge between Laos and Myanmar in Xiangkok (Long district) and Xiang Lab (Tha Khilek province) and the Mekong River bridge at Na Sack village-Kokkaodor, Sayaboulydistrict have started. In addition, there are ongoing construction projects on Northern Road No. 13 and some upgrading projects in the section between Northern Road No.13 to Phu Lak Kham checkpoint, Namor district (Chinese border), ongoing construction of the bridges and roads from Nanokkoum (Toulakom district, Vientiane province) to Naxai village (Thaphabath, Bolikhamxay province), road between Anouvong district and Viengthong village (connected to Road 1D) with a length of 50,012 km and construction of a concrete bridge with a length of 267 m, ongoing road construction project from Nam Nyon to Long Chang and bridge construction in three areas with a length of 100 m.
+· Some road constructions have been completed, such as Road No. 2W (Muang Ngeun to Pak Bang), Road No. 2E (Muang Khua to Tai Chang), and the road from Luang Namtha city to Luang Namtha airport No. 1D (Xiengkhouang-Bolikhamxay strategic road for national defence and security). The construction of three bypass roads in Vienxay district with three bridges has been initiated. The construction of the fourth Mekong Bridge Houayxai-Xiengkhong and Mekong Bridge from Thadeua to Parkkhone has also been completed. The Mekong friendship bridge between Laos and Myanmar in Xiangkok (Long district) and Xiang Lab (Tha Khilek province) and the Mekong River bridge at Na Sack village-Kokkaodor, Sayabouly district have started. In addition, there are ongoing construction projects on Northern Road No. 13 and some upgrading projects in the section between Northern Road No.13 to Phu Lak Kham checkpoint, Namor district (Chinese border), ongoing construction of the bridges and roads from Nanokkoum (Toulakom district, Vientiane province) to Naxai village (Thaphabath, Bolikhamxay province), road between Anouvong district and Viengthong village (connected to Road 1D) with a length of 50,012 km and construction of a concrete bridge with a length of 267 m, ongoing road construction project from Nam Nyon to Long Chang and bridge construction in three areas with a length of 100 m.
 
-· The construction of transmission lines with 115 kV linking Xiangkhouang-Xam Nue stations and Luangprabang-Oudomxay stations has been completed. The construction of 230 kV transmission lines linking Naxaithong-Hin Herb-Luangprabang is ongoing. In addition, expansion of the northern transmission lines to rural and focal development areas is being carried out through a number of projects, such as: expanding medium voltage (MV) and low voltage (LV) electricity networks and installation of MV-LV transformers in the focal areas of Muang Chim village; expanding medium voltage (MV) and low voltage (LV) electricity networks in Muang Viengthong and Phathy areas in Samneua and Area 3 of Liap Ma district; completion of electricity system linking Xayabouly-HongsaNguen - Xianghon-Khob districts including starting construction of the Mekong Dam in Xayabouly district and Hong Sa lignite power plant. At the same time, the renovation and restoration of the basic infrastructure which was damaged by the flood in 2011 has also been completed.
+· The construction of transmission lines with 115 kV linking Xiangkhouang-Xam Nue stations and Luangprabang-Oudomxay stations has been completed. The construction of 230 kV transmission lines linking Naxaithong-Hin Herb-Luangprabang is ongoing. In addition, expansion of the northern transmission lines to rural and focal development areas is being carried out through a number of projects, such as: expanding medium voltage (MV) and low voltage (LV) electricity networks and installation of MV-LV transformers in the focal areas of Muang Chim village; expanding medium voltage (MV) and low voltage (LV) electricity networks in Muang Viengthong and Phathy areas in Samneua and Area 3 of Liap Ma district; completion of electricity system linking Xayabouly-Hongsa-Nguen - Xianghon-Khob districts including starting construction of the Mekong Dam in Xayabouly district and Hong Sa lignite power plant. At the same time, the renovation and restoration of the basic infrastructure which was damaged by the flood in 2011 has also been completed.
 
 [[END OF PAGE 64]]
 
@@ -1497,7 +1743,7 @@ In addition, attention has been paid to actively improve and enhance the quality
 
 · Community health insurance funds have been established to create enabling conditions for access to medical treatment.
 
-Overall, the northern economy has been continuously growing and there have been focal areas and urban development. However, the Northern Region has many difficulties, such as its mountainous terrain, limited infrastructure development that impeding the distribution of goods between rural and urban areas, and the fact that agricultural production relies mainly on rain. Consequently, per capita income during the 7 th NSEDP period is still relatively low compared to the target of US$ 1,700 in 2015. Moreover, although the proportion of poor households has declined, it is still higher than the development rate, especially in Houaphanh province, which is also the province with the highest proportion of poor households compared to other northern provinces; Sayabouly has the lowest proportion of poor households.
+Overall, the northern economy has been continuously growing and there have been focal areas and urban development. However, the Northern Region has many difficulties, such as its mountainous terrain, limited infrastructure development that impeding the distribution of goods between rural and urban areas, and the fact that agricultural production relies mainly on rain. Consequently, per capita income during the 7 th NSEDP period is still relatively low compared to the target of US$ 1,700 in 2015. Moreover, although the proportion of poor households has declined, it is still higher than the development rate, especially in
 
 [[END OF PAGE 65]]
 
@@ -1507,31 +1753,33 @@ Overall, the northern economy has been continuously growing and there have been 
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-No. | Description | Unit | 7 th Five- Year Plan Target (2011-15) | Actual FY 2010-11 | Actual FY 2011-12 | Actual FY 2012-13 | Actual FY 2013-14 | Estimation FY 2014-15
+Houaphanh province, which is also the province with the highest proportion of poor households compared to other northern provinces; Sayabouly has the lowest proportion of poor households.
+
+Table 15: 7 th Five-Year NSEDP Performance in the Northern Region
+
+No. | Description | Unit | 7 th Five-Year Plan Target (2011-15) | Actual FY 2010-11 | Actual FY 2011-12 | Actual FY 2012-13 | Actual FY 2013-14 | Estimation FY 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | Population size | persons | 2,680,000 | 2,622,925 | 2,644,715 | 2,674,146 | 2,638,665 | 2,679,499
 2 | Population growth rate | % | 2.00 | 2.30 | 2.17 | 2.53 | 2.30 | 2.38
-3 | GDP at annual prices | billion kip | 18,909.73 | 21,413.35 | 25,747.81 | 28,281.77 | 31,539.52
+3 | GDP at annual prices | billion kip |  | 18,909.73 | 21,413.35 | 25,747.81 | 28,281.77 | 31,539.52
 4 | Average GDP per capita | US$per capita | 1,700.00 | 859.85 | 957.17 | 1,148.18 | 1,273.11 | 1,402.82
 5 | Poverty rate | % | 8.00 | 28.60 | 22.35 | 19.32 | 13.73 | 9.59
-6 | Economic growth rate (GDP) | % | 9.61 | 9.48 | 10.18 | 9.42 | 9.74
-Agriculture | % | 6.16 | 6.72 | 6.11 | 7.10 | 6.45
-Industry | % | 11.90 | 12.68 | 13.41 | 12.43 | 11.65
-Services | % | 13.80 | 12.89 | 14.03 | 10.86 | 11.84
+6 | Economic growth rate (GDP) | % |  | 9.61 | 9.48 | 10.18 | 9.42 | 9.74
+ | Agriculture | % |  | 6.16 | 6.72 | 6.11 | 7.10 | 6.45
+ | Industry | % |  | 11.90 | 12.68 | 13.41 | 12.43 | 11.65
+ | Services | % |  | 13.80 | 12.89 | 14.03 | 10.86 | 11.84
 7 | Economic structure | % | 100.00 | 99.94 | 99.94 | 100.00 | 100.00 | 100.00
-Agriculture | % | 42.00 | 51.67 | 50.39 | 45.10 | 44.31 | 43.15
-Industry | % | 34.00 | 23.64 | 23.94 | 27.09 | 26.31 | 27.14
-Services | % | 24.00 | 24.63 | 25.61 | 27.81 | 29.38 | 29.71
+ | Agriculture | % | 42.00 | 51.67 | 50.39 | 45.10 | 44.31 | 43.15
+ | Industry | % | 34.00 | 23.64 | 23.94 | 27.09 | 26.31 | 27.14
+ | Services | % | 24.00 | 24.63 | 25.61 | 27.81 | 29.38 | 29.71
 8 | Labour structure | % | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-Agriculture | % | 56.20 | 55.87 | 51.74 | 55.40 | 56.26
-Industry | % | 22.09 | 21.68 | 21.75 | 19.79 | 21.02
-Services | % | 21.71 | 22.45 | 26.51 | 24.81 | 22.71
-9 | Workforce | persons | 70,303 | 82,555 | 77,929 | 79,103 | 87,306
-Agriculture | persons | 55,700 | 65,141 | 59,167 | 53,842 | 56,658
-Industry | persons | 5,017 | 6,279 | 7,460 | 9,193 | 11,554
-Services | persons | 9,587 | 11,136 | 11,303 | 16,067 | 19,094
-
-Table15: 7 th  Five-Year NSEDP Performance in the Northern Region
+ | Agriculture | % |  | 56.20 | 55.87 | 51.74 | 55.40 | 56.26
+ | Industry | % |  | 22.09 | 21.68 | 21.75 | 19.79 | 21.02
+ | Services | % |  | 21.71 | 22.45 | 26.51 | 24.81 | 22.71
+9 | Workforce | persons |  | 70,303 | 82,555 | 77,929 | 79,103 | 87,306
+ | Agriculture | persons |  | 55,700 | 65,141 | 59,167 | 53,842 | 56,658
+ | Industry | persons |  | 5,017 | 6,279 | 7,460 | 9,193 | 11,554
+ | Services | persons |  | 9,587 | 11,136 | 11,303 | 16,067 | 19,094
 
 Source: Planning and Investment Divisions of each province.
 
@@ -1547,9 +1795,9 @@ Source: Planning and Investment Divisions of each province.
 
 ###### Economic Growth
 
-Through the implementation of the national socio-economic development over the 7 th  NSEDP period it can be seen that the GDP growth rate of the Central Region was 11.53 percent on average (the Five-Year Plan target is 11.5 percent). By sector, agriculture and forestry increased from 6.79 percent of regional GDP in FY 2010-2011 to 7.71 percent in FY 2014-2015, industry increased from 18.00 percent in FY 20102011 to 16.29 percent in FY 2014-2015 and services increased from 11.08 percent in FY2010-2011 to 13.35 percent in FY 2014-2015. Per capita income increased from US$ 1,415.76 in FY 2010-2011 to US$ 2,380.24 in FY 2014-2015, which achieved as planned against the target due to comparative advantages in terms of locations, infrastructure that supported production, trade, investment and connectivity within the region and overseas. The poverty rate has also been decreasing gradually, from 10.10 percent in FY 2010-2011 to 4.01 percent in FY 2014-2015, which is equivalent to the target.
+Through the implementation of the national socio-economic development over the 7 th  NSEDP period it can be seen that the GDP growth rate of the Central Region was 11.53 percent on average (the Five-Year Plan target is 11.5 percent). By sector, agriculture and forestry increased from 6.79 percent of regional GDP in FY 2010-2011 to 7.71 percent in FY 2014-2015, industry increased from 18.00 percent in FY 2010-2011 to 16.29 percent in FY 2014-2015 and services increased from 11.08 percent in FY 2010-2011 to 13.35 percent in FY 2014-2015. Per capita income increased from US$ 1,415.76 in FY 2010-2011 to US$ 2,380.24 in FY 2014-2015, which achieved as planned against the target due to comparative advantages in terms of locations, infrastructure that supported production, trade, investment and connectivity within the region and overseas. The poverty rate has also been decreasing gradually, from 10.10 percent in FY 2010-2011 to 4.01 percent in FY 2014-2015, which is equivalent to the target.
 
-The change in economic structure of the Central Region has been following a similar direction to that of the Northern Region. The agriculture share reduced from 34.86 percent in FY 2010-2011 to 26.91 percent in FY 2014-2015, the industry sector increased from 34.58 percent in FY 2010-2011 to 38.05 percent in FY 2014-2015, and services increased from 29.94 percent in FY 2010-2011 to 35.04 percent in FY 20142015. Nevertheless, production in the Central Region has focused on the plains areas along the Mekong River; in the service sector the focus is on trade, including border trade, tourism and transport.
+The change in economic structure of the Central Region has been following a similar direction to that of the Northern Region. The agriculture share reduced from 34.86 percent in FY 2010-2011 to 26.91 percent in FY 2014-2015, the industry sector increased from 34.58 percent in FY 2010-2011 to 38.05 percent in FY 2014-2015, and services increased from 29.94 percent in FY 2010-2011 to 35.04 percent in FY 2014-2015. Nevertheless, production in the Central Region has focused on the plains areas along the Mekong River; in the service sector the focus is on trade, including border trade, tourism and transport.
 
 ###### Project Implementation and Outstanding Activities
 
@@ -1577,11 +1825,11 @@ The most prominent works are concentrated in Vientiane Capital:
 
 · Completed  construction  of  the  first  section  of  Road  No.10  (Don  Noon  to Thangon),  ongoing construction of Road No.T4 in Donokkoum to the 450th Anniversary Road in Na Kway, Road No.1E (Kaisone  district  to  Huean  Hin),  construction  of  nine  bridges,  construction  of  road  between Saychamphone and Tang Thuy in Vietnam border area, National Road No. 1G and bridge between Junction No.9 and Dansavanh
 
-· Preparation of basic infrastructure and various facilities to host the 9thAsia-Europe Summit, known as ASEM IX, that Lao PDR had the honour to host, and the meeting of municipalities of francophonie countries, which was organized in Vientiane Capital, has been completed successfully; this included the improvement of Wattay International Airport, construction of the National Meeting Hall and construction of 50 ASEM villas in South Donechan as residence for the heads of state who attended the meeting
+· Preparation of basic infrastructure and various facilities to host the 9th Asia-Europe Summit, known as ASEM IX, that Lao PDR had the honour to host, and the meeting of municipalities of francophonie countries, which was organized in Vientiane Capital, has been completed successfully; this included the improvement of Wattay International Airport, construction of the National Meeting Hall and construction of 50 ASEM villas in South Donechan as residence for the heads of state who attended the meeting
 
 · Completion of the river bank protection construction in Ban Donkhyo phase 2, Nong Bok district, construction of Thakek district municipality concrete road phase 2, and construction of the Theun Hin-Boun power station expansion with production capacity of 280 MW.
 
-In addition, a number of construction projects have been completed, including the third Mekong Bridge between Khammouan and Nakone Phnom and the 115 kV electricity transmission line connecting PaksonThakhek-Pakbor stations. The Xe Bangfai plateau area has been developed; roads No. 9 and 13 have been rehabilitated and maintained in order to be the centre of services and tourism along the East-West Corridors and the road connecting the Central and Southern Regions. Attention was paid to rehabilitating and recovering projects that were damaged by natural disaster in 2011, in conjunction with the promotion of production to ensure food security, particularly rice, maize, bananas, tobacco, etc. Achievements in production of these crops are evident in Vientiane Capital and Bolikhamxay, Khammouan and Savannakhet provinces. In addition, plantation crops have been promoted to supply to factories, especially sugar in Savannakhet province, which has the most outstanding sugar production, and cassava in Vientiane Capital, Bolikhamxay and Khammouan provinces. As well, organic vegetables, cash crops, industrial tree plantations, cattle, buffalo, pigs (farming), chickens, goats, and natural fish farming have also been promoted.
+In addition, a number of construction projects have been completed, including the third Mekong Bridge between Khammouan and Nakone Phnom and the 115 kV electricity transmission line connecting Pakson-Thakhek-Pakbor stations. The Xe Bangfai plateau area has been developed; roads No. 9 and 13 have been rehabilitated and maintained in order to be the centre of services and tourism along the East-West Corridors and the road connecting the Central and Southern Regions. Attention was paid to rehabilitating and recovering projects that were damaged by natural disaster in 2011, in conjunction with the promotion of production to ensure food security, particularly rice, maize, bananas, tobacco, etc. Achievements in production of these crops are evident in Vientiane Capital and Bolikhamxay, Khammouan and Savannakhet provinces. In addition, plantation crops have been promoted to supply to factories, especially sugar in Savannakhet province, which has the most outstanding sugar production, and cassava in Vientiane Capital, Bolikhamxay and Khammouan provinces. As well, organic vegetables, cash crops, industrial tree plantations, cattle, buffalo, pigs (farming), chickens, goats, and natural fish farming have also been promoted.
 
 In addition, promotional policy on commercial production by all economic sectors, including the people, has been implemented by closely linking commercial agricultural production to the promotion of domestic and foreign investment in the processing industry. The development of services, tourism, education, health, skilled labour training and cooperation with foreign countries has been progressing well. All the provinces have focused on better implementation. The province with the lowest proportion of poor households in the Central Region is Vientiane Capital. Savannakhet and Bolikhamxay are the provinces with the highest reduction in the proportion of poor households compared to other provinces. In the Central Region, the proportion of poor households has declined to less than the national average.
 
@@ -1593,31 +1841,31 @@ In addition, promotional policy on commercial production by all economic sectors
 
 61
 
+Table 16: 7 th Five-Year Plan Performance of the Central Region
+
 No. | Description | Unit | Target 7 th Five-Year NSEDP | Actual FY2010-11 | Actual FY2011-12 | Actual FY2012-13 | Actual FY2013-14 | Estimation FY 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | Population size | persons | 3,000,000 | 2,354,548 | 2,410,955 | 2,448,199 | 2,557,580 | 2,622,595
 2 | Population growth | % | 2.00 | 2.09 | 2.43 | 2.18 | 1.92 | 2.38
-3 | GDP at annual prices | billion kip | 29,694.32 | 35,973.43 | 43,826.13 | 49,862.32 | 57,253.37
+3 | GDP at annual prices | billion kip |  | 29,694.32 | 35,973.43 | 43,826.13 | 49,862.32 | 57,253.37
 4 | Average GDP per capita | US$per capita | 2,200.00 | 1,415.76 | 1,684.86 | 1,869.23 | 2,055.65 | 2,380.24
-5 | Poverty rate | % | 10.10 | 6.81 | 5.13 | 4.51 | 4.01
-6 | Economic growth rate (GDP) | % | 12.69 | 12.19 | 11.98 | 11.69 | 11.83
-Agriculture | % | 6.79 | 4.22 | 6.66 | 8.63 | 7.71
-Industry | % | 18.00 | 13.90 | 15.28 | 15.97 | 16.29
-Services | % | 11.08 | 20.96 | 23.49 | 12.63 | 13.35
+5 | Poverty rate | % |  | 10.10 | 6.81 | 5.13 | 4.51 | 4.01
+6 | Economic growth rate (GDP) | % |  | 12.69 | 12.19 | 11.98 | 11.69 | 11.83
+ | Agriculture | % |  | 6.79 | 4.22 | 6.66 | 8.63 | 7.71
+ | Industry | % |  | 18.00 | 13.90 | 15.28 | 15.97 | 16.29
+ | Services | % |  | 11.08 | 20.96 | 23.49 | 12.63 | 13.35
 7 | Structure of the Economy | % | 100.00 | 99.38 | 99.18 | 100.00 | 100.00 | 100.00
-Agriculture | % | 23.00 | 34.86 | 31.65 | 29.12 | 28.12 | 26.91
-Industry | % | 42.00 | 34.58 | 36.91 | 38.50 | 37.42 | 38.05
-Services | % | 35.00 | 29.94 | 30.63 | 32.38 | 34.46 | 35.04
-8 | Labour structure | % | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-Agriculture | % | 55.83 | 55.33 | 56.25 | 55.63 | 61.82
-Industry | % | 31.12 | 31.60 | 35.17 | 32.30 | 22.99
-Services | % | 13.06 | 13.06 | 8.57 | 12.07 | 15.19
-9 | Workforce | persons | 162,525 | 165,576 | 165,493 | 169,064 | 174,073
-Agriculture | persons | 134,687 | 136,629 | 137,093 | 138,336 | 141,319
-Industry | persons | 17,109 | 17,871 | 17,765 | 19,211 | 18,543
-Services | persons | 10,729 | 11,076 | 10,634 | 11,517 | 14,212
-
-Table16: 7 th  Five-Year Plan Performance of the Central Region
+ | Agriculture | % | 23.00 | 34.86 | 31.65 | 29.12 | 28.12 | 26.91
+ | Industry | % | 42.00 | 34.58 | 36.91 | 38.50 | 37.42 | 38.05
+ | Services | % | 35.00 | 29.94 | 30.63 | 32.38 | 34.46 | 35.04
+8 | Labour structure | % |  | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
+ | Agriculture | % |  | 55.83 | 55.33 | 56.25 | 55.63 | 61.82
+ | Industry | % |  | 31.12 | 31.60 | 35.17 | 32.30 | 22.99
+ | Services | % |  | 13.06 | 13.06 | 8.57 | 12.07 | 15.19
+9 | Workforce | persons |  | 162,525 | 165,576 | 165,493 | 169,064 | 174,073
+ | Agriculture | persons |  | 134,687 | 136,629 | 137,093 | 138,336 | 141,319
+ | Industry | persons |  | 17,109 | 17,871 | 17,765 | 19,211 | 18,543
+ | Services | persons |  | 10,729 | 11,076 | 10,634 | 11,517 | 14,212
 
 Source: Planning and Investment Division of each province.
 
@@ -1625,7 +1873,7 @@ Source: Planning and Investment Division of each province.
 
 ###### Economic Growth
 
-It can be seen that the GDP of the Southern Region was 12.65 percent on average. By sector, agriculture and forestry increased from 7.08 percentof regional GDP in FY 2010-2011 to 7.68 percent in FY 2014-2015, industry increased from 16.65 percent in FY 2010-2011 and to 16.38 percent in FY 2014-2015, and services increased from 16.18 percent in FY 2010-2011 to 16.68 percent in FY 2014-2015, which has already achieved the target. Per capita income illustrated an increasing trend, from US$ 851.50 in FY 2010-2011 to US$ 1,630.04 in FY 2014-2015, which achieved the target.This is  a  result  of  advantages  of  location,  the  province  being  located  in  the  economic  triangle  area,  and  improved infrastructure for supporting production and cross-border trade. The proportion of poverty households decreased from 27.03 percent in FY 2010-2011 to 10.51 percent in FY 2014-2015, which is very close to the target.
+It can be seen that the GDP of the Southern Region was 12.65 percent on average. By sector, agriculture and forestry increased from 7.08 percent of regional GDP in FY 2010-2011 to 7.68 percent in FY 2014-2015, industry increased from 16.65 percent in FY 2010-2011 and to 16.38 percent in FY 2014-2015, and services increased from 16.18 percent in FY 2010-2011 to 16.68 percent in FY 2014-2015, which has already achieved the target. Per capita income illustrated an increasing trend, from US$ 851.50 in FY 2010-2011 to US$ 1,630.04 in FY 2014-2015, which achieved the target. This is a result of advantages of location, the province being located in the economic triangle area, and improved
 
 [[END OF PAGE 69]]
 
@@ -1635,6 +1883,8 @@ It can be seen that the GDP of the Southern Region was 12.65 percent on average.
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
+infrastructure for supporting production and cross-border trade. The proportion of poverty households decreased from 27.03 percent in FY 2010-2011 to 10.51 percent in FY 2014-2015, which is very close to the target.
+
 The Southern Region of Lao PDR has a strategic location in the international economic triangle with significant potential for growth. The structure of the southern economy has been gradually shifting to industrialization but agriculture still remains the main sector: agriculture accounted for more than 40.81 percent in FY 2010-2011, then decreased to 32.96 percent in FY 2014-2015; the industry sector increased from 26.52 percent in 2010-2011 to 32.48 percent in 2014-2015; and the service sector increased from 32.67 percent in 2010-2011 to 34.56 percent in 2014-2015. The region focused on agricultural production in the plains areas along the Mekong River and in the Bolaven Plateau.
 
 ###### Project Implementation and Outstanding Activities
@@ -1643,7 +1893,7 @@ In conjunction with infrastructure development, there are some projects that foc
 
 · Construction and restoration of the irrigation system, encouraging and promoting people to do irrigated rice farming and plantation of cash crops such as cabbage, radish and cardamom, as well as raising livestock such as cows, buffaloes, pigs, chickens etc.
 
-· Continuous development in accordance with the master plan on integration of the economic triangle, such as: completion of the road construction project from Thateng District to Beng village (funding from triangle area development project); completion of Road No. 14A (from Pakse Bridge to the LaoCambodia border), Road No. 15A; continuation of road construction from Sekong to Dakchung (16B), from Sekong-Dakchung-Vietnam border and the road from the ferry pier to new Kaleum district; and completion of the upgrading and renovating of Pakse airport. There are ongoing projects on road improvement between Ban Ka, Ban Hiang and Ja Ou in Soukoumma district, Champasack province, the road along the east border between Savannakhet, Salavane and Sekong with a length of 48.95 km, Road No.26905 (S3 Border Mark) from Junction No.15 (Lalai checkpoint) to the Lao-Vietnam Border in Thua Tian Province with a length of 22.5km, the road connecting Ban Mun, Dak Pra, Dak Paner in Dak Jeung district (Sekong province) to San Xai district (Attapeu province) with a length of 93 km, the road along the Lao-Vietnam border from Panon village in Kaleum district (Sekong) to Ta Oi district (Salavan) connecting to the 5th Sekong Dam with a length of 101 km, Road No. 18A (Pakxong to Km52 village) in Attapeu.
+· Continuous development in accordance with the master plan on integration of the economic triangle, such as: completion of the road construction project from Thateng District to Beng village (funding from triangle area development project); completion of Road No. 14A (from Pakse Bridge to the Lao-Cambodia border), Road No. 15A; continuation of road construction from Sekong to Dakchung (16B), from Sekong-Dakchung-Vietnam border and the road from the ferry pier to new Kaleum district; and completion of the upgrading and renovating of Pakse airport. There are ongoing projects on road improvement between Ban Ka, Ban Hiang and Ja Ou in Soukoumma district, Champasack province, the road along the east border between Savannakhet, Salavane and Sekong with a length of 48.95 km, Road No.26905 (S3 Border Mark) from Junction No.15 (Lalai checkpoint) to the Lao-Vietnam Border in Thua Tian Province with a length of 22.5 km, the road connecting Ban Mun, Dak Pra, Dak Paner in Dak Jeung district (Sekong province) to San Xai district (Attapeu province) with a length of 93 km, the road along the Lao-Vietnam border from Panon village in Kaleum district (Sekong) to Ta Oi district (Salavan) connecting to the 5th Sekong Dam with a length of 101 km, Road No. 18A (Pakxong to Km52 village) in Attapeu.
 
 · Construction and restoration of irrigation systems, such as upgrading Kengkhongluang irrigation phase II, Xe Noy irrigation construction phase I and improving canals of Xe Pian irrigation.
 
@@ -1663,31 +1913,31 @@ Through the implementation of these projects, the southern provinces have develo
 
 · Champasack province is the province with the lowest household poverty rate in the Southern Region and in the whole country, while Attapeu's household poverty rate is the same as the national average. The outstanding agriculture products include coffee, beans, potatoes, tobacco and vegetables, with Champasak province having the highest production. Rubber plantation is in every southern province. In addition, the development of important regional districts such as Pakse, Saysettha, Lamarm and Saravan has been facilitating improved communication and transportation of goods and passengers. Districts that play important roles in connecting the Central Region with production areas and consumer markets in the Southern Region, Samakixay and Thathom (Attapeu), Khong Xe Don (Saravan), Thateng (Xekong), and Pakxong and Pathoumphone (Champasack), have been further developed and improved. Industrial food processing such as of coffee, tea and timber has expanded considerably; border markets have been developed in line with tourism development and promotion.
 
+Table 17: 7 th NSEDP Implementation Performance in the Southern Region
+
 No. | Details | Unit | Plan Targets (2011-15) | Actual FY 2010-11 | Actual FY 2011-12 | Actual FY 2012-13 | Actual FY 2013-14 | Estimated FY 2014-15
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | Population | persons | 1,400,000 | 1,238,525 | 1,306,635 | 1,334,889 | 1,362,586 | 1,379,427
 2 | Population growth | % | 2.00 | 1.98 | 2.12 | 2.25 | 2.21 | 2.28
-3 | Nominal GDP | billion kip | 10,150.79 | 11,908.88 | 22,267.22 | 24,592.59 | 29,822.59
+3 | Nominal GDP | billion kip |  | 10,150.79 | 11,908.88 | 22,267.22 | 24,592.59 | 29,822.59
 4 | GDP per capita | US$per capita | 1,300.00 | 851.50 | 1,059.50 | 1,257.75 | 1,455.40 | 1,630.04
-5 | Poverty rate | % | 27.03 | 19.20 | 14.56 | 13.38 | 10.51
-6 | GDP growth rate | % | 11.90 | 12.38 | 12.54 | 12.64 | 13.03
-Agriculture | % | 7.08 | 8.18 | 8.75 | 6.70 | 7.68
-Industry | % | 16.65 | 14.10 | 16.37 | 15.65 | 16.38
-Services | % | 16.18 | 13.04 | 14.71 | 16.97 | 16.68
+5 | Poverty rate | % |  | 27.03 | 19.20 | 14.56 | 13.38 | 10.51
+6 | GDP growth rate | % |  | 11.90 | 12.38 | 12.54 | 12.64 | 13.03
+ | Agriculture | % |  | 7.08 | 8.18 | 8.75 | 6.70 | 7.68
+ | Industry | % |  | 16.65 | 14.10 | 16.37 | 15.65 | 16.38
+ | Services | % |  | 16.18 | 13.04 | 14.71 | 16.97 | 16.68
 7 | Economic structure | % | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-Agriculture | % | 30.00 | 40.81 | 37.97 | 37.70 | 38.16 | 32.96
-Industry | % | 36.00 | 26.52 | 29.90 | 29.80 | 29.98 | 32.48
-Services | % | 34.00 | 32.67 | 32.13 | 32.50 | 31.87 | 34.56
-8 | Labour structure | % | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-Agriculture | % | 55.94 | 51.24 | 71.80 | 43.56 | 40.57
-Industry | % | 31.73 | 38.61 | 20.17 | 37.91 | 37.75
-Services | % | 12.33 | 10.15 | 8.03 | 18.53 | 21.68
-9 | Workforce | persons | 138,486 | 142,049 | 143,396 | 146,715 | 155,181
-Agriculture | persons | 98,886 | 97,491 | 97,439 | 97,326 | 100,012
-Industry | persons | 10,974 | 14,379 | 14,401 | 16,070 | 20,210
-Services | persons | 28,626 | 30,178 | 31,556 | 33,319 | 34,959
-
-Table 17: 7 th  NSEDP Implementation Performance in the Southern Region
+ | Agriculture | % | 30.00 | 40.81 | 37.97 | 37.70 | 38.16 | 32.96
+ | Industry | % | 36.00 | 26.52 | 29.90 | 29.80 | 29.98 | 32.48
+ | Services | % | 34.00 | 32.67 | 32.13 | 32.50 | 31.87 | 34.56
+8 | Labour structure | % |  | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
+ | Agriculture | % |  | 55.94 | 51.24 | 71.80 | 43.56 | 40.57
+ | Industry | % |  | 31.73 | 38.61 | 20.17 | 37.91 | 37.75
+ | Services | % |  | 12.33 | 10.15 | 8.03 | 18.53 | 21.68
+9 | Workforce | persons |  | 138,486 | 142,049 | 143,396 | 146,715 | 155,181
+ | Agriculture | persons |  | 98,886 | 97,491 | 97,439 | 97,326 | 100,012
+ | Industry | persons |  | 10,974 | 14,379 | 14,401 | 16,070 | 20,210
+ | Services | persons |  | 28,626 | 30,178 | 31,556 | 33,319 | 34,959
 
 Source: Planning and Investment Division of each province.
 
@@ -1705,7 +1955,7 @@ In summary, regional economic growth is unequal. The Central Region has the high
 
 ##### 3.4.7.1 Legislative Body
 
-The National Assembly is the organization that supports and promotes strengthening of the government authorities. The National Assembly is also the highest authority elected by the Lao people. Over the past years, the National Assembly, its committees and members have actively taken forward the successes of each ordinary session of the 7 th legislature to apply to the actual situation of the society by meeting with citizens, local authorities, military, police and ethnic groups in each election area in order to disseminate the success of the meeting, Party policy direction and state regulations, as well as the National Socioeconomic Development Plan. Meetings with electorates have taken place in 8,974 electoral points throughout the country with the participation of 1,924,485 people, of whom 739,123 were women. In addition, people's comments and issues have been collected and reported to the Party-Government organizations and related sectors to improve and solve the problems in accordance with the Government's policy and laws.
+The National Assembly is the organization that supports and promotes strengthening of the government authorities. The National Assembly is also the highest authority elected by the Lao people. Over the past years, the National Assembly, its committees and members have actively taken forward the successes of each ordinary session of the 7 th legislature to apply to the actual situation of the society by meeting with citizens, local authorities, military, police and ethnic groups in each election area in order to disseminate the success of the meeting, Party policy direction and state regulations, as well as the National Socio-economic Development Plan. Meetings with electorates have taken place in 8,974 electoral points throughout the country with the participation of 1,924,485 people, of whom 739,123 were women. In addition, people's comments and issues have been collected and reported to the Party-Government organizations and related sectors to improve and solve the problems in accordance with the Government's policy and laws.
 
 The National Assembly has made efforts in improving and resolving grievances in a timely manner and in accordance with its status, rights and duties. During the past five years, the National Assembly received 5,818 cases (excluding those outstanding from the 6th Legislature), of which 3,817 cases have been resolved, equivalent to 92.11 percent of all cases. Most of the grievances are related to land and estate issues.
 
@@ -1725,7 +1975,7 @@ In addition, the National Assembly has also considered and resolved a number of 
 
 ##### 3.4.7.2 Administrative Organizations
 
-State administration has been improved in several respects, including improvement of organizational structure and regulatory framework to enable the development of state administration, social organization and population management in order to successfully operationalize the policy direction of the PartyGovernment. The outstanding structural reform has been illustrated through the establishment of the Government Office, Ministry of Home Affairs, Ministry of Science and Technology, Ministry of Post and Telecommunication, Ministry of Education and Sports, Ministry of Information, Culture and Tourism, and Ministry of Natural Resources and Environment, and the establishment of Xaysomboun as a new province and four additional districts, which brought the total number of districts to 148. The improvement of administration includes improvement of provincial administration regulations, in the process of a proposal to the Government to categorize the level of remoteness across the whole country.
+State administration has been improved in several respects, including improvement of organizational structure and regulatory framework to enable the development of state administration, social organization and population management in order to successfully operationalize the policy direction of the Party-Government. The outstanding structural reform has been illustrated through the establishment of the Government Office, Ministry of Home Affairs, Ministry of Science and Technology, Ministry of Post and Telecommunication, Ministry of Education and Sports, Ministry of Information, Culture and Tourism, and Ministry of Natural Resources and Environment, and the establishment of Xaysomboun as a new province and four additional districts, which brought the total number of districts to 148. The improvement of administration includes improvement of provincial administration regulations, in the process of a proposal to the Government to categorize the level of remoteness across the whole country.
 
 There is an endorsement of 140 associations throughout the country and nine community foundations.
 
@@ -1747,13 +1997,13 @@ The focus has been on political training for judges and officials of the People'
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-The people's courts are to protect the legitimate rights, to ensure strictness, fairness and justice to protect the citizens and exercise their rights under law. During the past two and a half years, 36,492 cases have occurred and there are 37,846 pending caes; of these, the court resolved and settled approximately 36,076 cases,equivalent to 95.32 percent of all cases, whereas the Plan target is 85 percent. The most frequent cases are criminal cases: the 19,151 criminal cases are equivalent to about 50.6 percent of total cases; these especially concerned possession and selling of illicit drugs. There are 19,151 civil cases, accounting for about 30.6 percent of total cases, and these are especially about land disputes (11,583 cases)or are trade-related (1,907 cases), and mostly concern loan agreement. Apart from this, it has been observed that families cases are occurring in many societies andare tending to increase, causing impacts on family life, customs atraditions and culture. There are 4,296 of these sorts of cases; children's cases relating to theft of civilians' assets and use of illicit drugs consists of 881 cases; labour-related issues consist of 28 cases relating to the wage and agreement. Therefore, capacity building for administrative authorities and tribunal staff isvery important to improve the case proceedings and prevent social problems so that they gradually decline, by upgrading training for the local people's courts chancellors, and to upgrade the knowledge of judges across the country to provide them with clear understanding of case procedures.
+The people's courts are to protect the legitimate rights, to ensure strictness, fairness and justice to protect the citizens and exercise their rights under law. During the past two and a half years, 36,492 cases have occurred and there are 37,846 pending cases; of these, the court resolved and settled approximately 36,076 cases, equivalent to 95.32 percent of all cases, whereas the Plan target is 85 percent. The most frequent cases are criminal cases: the 19,151 criminal cases are equivalent to about 50.6 percent of total cases; these especially concerned possession and selling of illicit drugs. There are 19,151 civil cases, accounting for about 30.6 percent of total cases, and these are especially about land disputes (11,583 cases) or are trade-related (1,907 cases), and mostly concern loan agreement. Apart from this, it has been observed that families cases are occurring in many societies and are tending to increase, causing impacts on family life, customs atraditions and culture. There are 4,296 of these sorts of cases; children's cases relating to theft of civilians' assets and use of illicit drugs consists of 881 cases; labour-related issues consist of 28 cases relating to the wage and agreement. Therefore, capacity building for administrative authorities and tribunal staff is very important to improve the case proceedings and prevent social problems so that they gradually decline, by upgrading training for the local people's courts chancellors, and to upgrade the knowledge of judges across the country to provide them with clear understanding of case procedures.
 
 Along with the above-mentioned achievements, there are multi-dimensional challenges. In particular, there are still complaints from the society in respect of some cases that have been resolved by the court but have been appealed for re-opening of the proceedings. Such cases show that the judgment quality is not strong. The basic infrastructure has not met the requirements; only 17 areas have permanent offices but there remain 39 areas needing people's court offices.
 
 ###### Prosecutor
 
-Progress has been made in accordance with four programmes and 19 projects in developing prosecution, particularly on capacity building on professional skills and political thinking. For instance, training has been organized for Director and Deputy Director of the Public Prosecutor in 39 areas across the country; seminars to monitor and inspect criminal and civil cases were organized in three parts of the country, which helped improve the administration to be stronger and smoother and more transparent. Moreover, research and development of three fundamental curriculum on public prosecutor work has been completed: a training curriculum for officials, covering 95 percent of all officials; curriculum on writing techniques in preparing a declaration, recording sentence, and monitoring law enactment; and curriculum on IT in recording statisticaldata with a computerized system. There has been inspection of any violation of laws in place for detention, detention facilities, rehabilitation centres and rehabilitation camps. There are 28,403 criminal cases, equivalent to 98.78 percent of all cases, and 1,304 civil cases, equivalent to 99.24 percent of all cases, which have been resolved at the beginning level; 1,646 criminal cases were resolved at appellate level, equivalent to about 99.58 percent of all cases; 2,980 civil cases were resolved at appellate level (98.64 percent), and 619 criminal cases (100 percent) and 1,644 civil cases (96.31 percent) were resolved at the final stage. This shows the quality of the settlement of cases has gradually improved, reducing negative social response.
+Progress has been made in accordance with four programmes and 19 projects in developing prosecution, particularly on capacity building on professional skills and political thinking. For instance, training has been organized for Director and Deputy Director of the Public Prosecutor in 39 areas across the country; seminars to monitor and inspect criminal and civil cases were organized in three parts of the country, which helped improve the administration to be stronger and smoother and more transparent. Moreover, research and development of three fundamental curriculum on public prosecutor work has been completed: a training curriculum for officials, covering 95 percent of all officials; curriculum on writing techniques in preparing a declaration, recording sentence, and monitoring law enactment; and curriculum on IT in recording statistical data with a computerized system. There has been inspection of any violation of laws in place for detention, detention facilities, rehabilitation centres and rehabilitation camps. There are 28,403 criminal cases, equivalent to 98.78 percent of all cases, and 1,304 civil cases, equivalent to 99.24 percent of all cases, which have been resolved at the beginning level; 1,646 criminal cases were resolved at appellate level, equivalent to about 99.58 percent of all cases; 2,980 civil cases were resolved at appellate level (98.64 percent), and 619 criminal cases (100 percent) and 1,644 civil cases (96.31 percent) were resolved at the final stage. This shows the quality of the settlement of cases has gradually improved, reducing negative social response.
 
 Besides capacity building for staff, there has been improvement in the organizational infrastructure of prosecution at each level, as well as provision of necessary equipment, such as construction of zone 1 office in Xay district in Oudomxay, zone 2 office in Phaoudom district in Bokeo and zone 1 office in Sikhottabong district in Vientiane Capital. Construction of other remaining office building is scheduled in the coming years.
 
@@ -1767,11 +2017,11 @@ Besides capacity building for staff, there has been improvement in the organizat
 
 #### 3.4.8 	 Implementation of 'Building province as a strategic unit, district as a strong comprehensive unit and village as a development unit'
 
-Implementation was in pursuit of the Resolutions of IX Party Congress, particularly stability building for the People's Democratic Republic state and promoting local ownership. Therefore, the Party's Central Politburo issued the Resolution No.03/PCP dated 15 Feb 2012 regarding 'Building province as a strategic unit, district as a strong comprehensive unit and village as a development unit'and the Government issued the Prime Minister's Instruction No.16/PM dated 15 June 2012 regarding identification of 15 ministries, 51 districts and 108 villages for piloting from 2012 to 2013. Through three years of the implementation, various sectors at central and local levels, together with the population, have put their attention to the practical side of the 3-builds, which are the contributing factors in the development of local infrastructure and overall change, which can be seen as follows:
+Implementation was in pursuit of the Resolutions of IX Party Congress, particularly stability building for the People's Democratic Republic state and promoting local ownership. Therefore, the Party's Central Politburo issued the Resolution No.03/PCP dated 15 Feb 2012 regarding 'Building province as a strategic unit, district as a strong comprehensive unit and village as a development unit' and the Government issued the Prime Minister's Instruction No.16/PM dated 15 June 2012 regarding identification of 15 ministries, 51 districts and 108 villages for piloting from 2012 to 2013. Through three years of the implementation, various sectors at central and local levels, together with the population, have put their attention to the practical side of the 3-builds, which are the contributing factors in the development of local infrastructure and overall change, which can be seen as follows:
 
 · Target ministries and all provinces developed legislation with regard to the division of responsibility between central and local levels, and between provinces, districts and villages, especially on benefit sharing on revenue and expenses management at the local level and budget allocation at the district level. There has been a committee in charge of supervising piloting activities in each sector and locality, acting as a focal point for coordinating, supporting and monitoring the actual progress of target districts and villages, particularly the division of responsibility to each level that resulted in gradual increase in local ownership.
 
-· Fifteen target ministries have sent their officials for local visits, both short and long term, in order to build stronger localities, especially in the areas of administration, justice, district- and village-level fund management, and to build a socio-economic development plan and manage governmentinvested projects at village level.
+· Fifteen target ministries have sent their officials for local visits, both short and long term, in order to build stronger localities, especially in the areas of administration, justice, district- and village-level fund management, and to build a socio-economic development plan and manage government-invested projects at village level.
 
 · Patriotism competition was encouraged and development village built, to actively support the 3-builds works nationwide.
 
@@ -1805,7 +2055,7 @@ Staff have been reassigned to local grass-roots level to build a strong politica
 
 ##### 3.4.9.2 Public Security
 
-In order to ensure peacefulness and safety in the society as well as in the country as a whole, so as to provide an enabling environment for socio-economic development, the public security sector continued to implement various government instructions and resolutions. The focus has been on resolving social drawbacks and actively fighting crime. As a result, a number of criminal gangster operations were dismantled and the gangsters punished according to the law, which consequently led to less crimes in the big cities. Priority infrastructures have been improved, such as the public security headquarter camp system at district and provincial levels, mobile camping troop, prison system, training buildings, schools, hospitals, etc. Seminars and lectures have been provided to villagers and youth to avoid wrong-doing and raise awareness on self-protection; problems with illicit drugs are continuing to be solved; security forces have been reassigned to all Kum Ban throughout the country and to strengthen human resources in the public security sector to ensure overall political stability; staff continue to be dispatched to local levels to develop villages as well as improve village security forces. Additionally, 5,000 villages were announced as case-free villages and 5,200 villages as drug free. A proposal has been submitted to the Government to approve the project which aims toestablish an electronic identification card (smart card). Also, effort has been made to reduce accidents on the road, which resulted in a number of accident cases being quickly settled according to the law. The sector also contributed to increased security during important meetings and sport games, including the 9th Asia-Europe Summit 2012, 16th ASEAN University Games 2012 (U16 ASEAN Games), 7 th Cambodia-Lao PDR-Myanmar-Vietnam (CLMV) Summit 2013, and others.
+In order to ensure peacefulness and safety in the society as well as in the country as a whole, so as to provide an enabling environment for socio-economic development, the public security sector continued to implement various government instructions and resolutions. The focus has been on resolving social drawbacks and actively fighting crime. As a result, a number of criminal gangster operations were dismantled and the gangsters punished according to the law, which consequently led to less crimes in the big cities. Priority infrastructures have been improved, such as the public security headquarter camp system at district and provincial levels, mobile camping troop, prison system, training buildings, schools, hospitals, etc. Seminars and lectures have been provided to villagers and youth to avoid wrong-doing and raise awareness on self-protection; problems with illicit drugs are continuing to be solved; security forces have been reassigned to all Kum Ban throughout the country and to strengthen human resources in the public security sector to ensure overall political stability; staff continue to be dispatched to local levels to develop villages as well as improve village security forces. Additionally, 5,000 villages were announced as case-free villages and 5,200 villages as drug free. A proposal has been submitted to the
 
 [[END OF PAGE 76]]
 
@@ -1814,6 +2064,8 @@ In order to ensure peacefulness and safety in the society as well as in the coun
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 69
+
+Government to approve the project which aims to establish an electronic identification card (smart card). Also, effort has been made to reduce accidents on the road, which resulted in a number of accident cases being quickly settled according to the law. The sector also contributed to increased security during important meetings and sport games, including the 9th Asia-Europe Summit 2012, 16th ASEAN University Games 2012 (U16 ASEAN Games), 7th Cambodia–Lao PDR–Myanmar–Vietnam (CLMV) Summit 2013, and others.
 
 #### 3.4.10 International and Regional Cooperation
 
@@ -1993,7 +2245,7 @@ In conjunction with the achievements, there remain shortcomings and outstanding 
 
 75
 
-- have low effectiveness, be not sustainable and be unable to reach out the the people. One of the reasons is weak coordination within and between the sectors at the central and local levels.
+have low effectiveness, be not sustainable and be unable to reach out the the people. One of the reasons is weak coordination within and between the sectors at the central and local levels.
 
 - Project appraisal for approval tends to be undertaken more frequently than monitoring and evaluating private investment projects, leading to ineffective and inactive implementation. The one-stop service to attract domestic and foreign investment in some sectors and provinces has not been efficient. Some legislation is not practical and not responsive to domestic and foreign investments, such as tax law and value added tax law. In addition, necessary legislation still lacks incentives to promote investment in the revolutionary base, inferior locality as well as the Special and Specific Economic Zones.
 
@@ -2204,7 +2456,7 @@ Lao PDR will need to respond to the transition from the Millennium Development G
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-- decrease by 3.7 percent, while the working-age population is expected to increase by 10.6 percent and the elderly population by 10.1 percent.
+decrease by 3.7 percent, while the working-age population is expected to increase by 10.6 percent and the elderly population by 10.1 percent.
 
 - Lao PDR has not yet completed its first demographic transition - the decline of both mortality and fertility rates to low levels, though it has been moving in this direction. The under-5 mortality rate had fallen to 79 per 1,000 live births in 2010-11, and should be able to meet its MDG target of 70, but it is less likely that the infant mortality target will be met. The total fertility rate of 3.2 (in 2008-11) was still more than 50 percent above replacement level.
 
@@ -2312,16 +2564,16 @@ The Overall Objective is to ensure political stability, peace and order in the s
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th NSEDP Design Summary | Baselines | Performance Indicators, Targets
---- | --- | ---
-OVERALL OBJECTIVE | • • Poverty rate 23.2% 2012/3 (LECS 5) | • • Poverty rate 10% by 2020
-To ensure political stability, peace and order in the society; the poverty of the people is reduced significantly in all areas; the country is developed out of LDC status by 2020 through continuous, inclusive and sustainable growth; there is effective management and efficient utilization of natural resources; development is enhanced through the national potential and advantages; Lao PDR participatesin regional and international integration with ownership. | • • Baseline: 2015 UNCTAD assessment of progress: Lao PDR at 99% of the requirement for graduation in terms of GNI per capita. | • • Composite score adequate for eligibility for graduation from LDC status (as advised by UNCTAD) • • GNI per capita higher than US$1,574 by 2018 and at or higher than US$ 1,810 by 2021 • • For Lao PDR, by 2020 to achieve GDP per capita at US$3,190 and GNI per capita at US$2,520 (Atlas), applied exchange rate of 8,300 kip/US$
-• • Baseline: average annual growth rate of 7 th NSEDP (8%) • • Baseline: annual non-resource sector contribution in GDP (5.3%) during 7 th NSEDP implementation period | • • Real GDP growth not less than 7.5% pa on average • • Agriculture growth 3.2%, 19% of GDP • • Industry growth 9.3%, 32% of GDP • • Servicesgrowth 8.9%, 41% of GDP (excl. import tariff) • • By 2020, non-resource sector contribution in the GDP increase to more than the average contribution in the GDP during the 7 th NSEDP
-• • Baseline: revenue achieved during last four years of 7 th NSEDP 99,549 billion kip, 24.51% of GDP (7 th NSEDP target: 19-21% of GDP) • • Budget revenue: 76,648 billion kip, 18.87% of GDP during last four years (7 th NSEDP target: 16-18% of GDP) • • Expenditure 118,639 billion kip, 29.21% of GDP (7 th NSEDP target: 22-25% of GDP) • • Baseline: budget deficit 19,090 billion kip, 4.7% of GDP (7 th NSEDP target: equal or less than 5% of GDP) | • • Revenue achieved at 19-20%of GDP • • Government budget revenue 16-17% of GDP • • Expenditure equal to or less than 25% of GDP • • Budget deficit does not exceed5% of GDP
-• • Baseline: Gini coefficients estimated for Lao PDR, urban and rural in 2013 (36.17, 37.51 and 32.52) | • • Gini coefficients in 2020 improved for Lao PDR, urban and rural over coefficients estimated in 2013
-• • Baseline: Exports of goods and services 11.91% of GDP in 7 th NSEDP | • • Exports of goods and services 15% of GDP per year • • Maintain trade deficit at acontrollable level
-
 Table 18: Overall Objective-Level Performance Indicators and Targets
+
+8th NSEDP Design Summary | Baselines | Performance Indicators, Targets
+--- | --- | ---
+OVERALL OBJECTIVE | • Poverty rate 23.2% 2012/3 (LECS 5) | • Poverty rate 10% by 2020
+To ensure political stability, peace and order in the society; the poverty of the people is reduced significantly in all areas; the country is developed out of LDC status by 2020 through continuous, inclusive and sustainable growth; there is effective management and efficient utilization of natural resources; development is enhanced through the national potential and advantages; Lao PDR participates in regional and international integration with ownership. | • Baseline: 2015 UNCTAD assessment of progress: Lao PDR at 99% of the requirement for graduation in terms of GNI per capita. | • Composite score adequate for eligibility for graduation from LDC status (as advised by UNCTAD) • GNI per capita higher than US$1,574 by 2018 and at or higher than US$ 1,810 by 2021 • For Lao PDR, by 2020 to achieve GDP per capita at US$3,190 and GNI per capita at US$2,520 (Atlas), applied exchange rate of 8,300 kip/US$
+ | • Baseline: average annual growth rate of 7th NSEDP (8%) • Baseline: annual non-resource sector contribution in GDP (5.3%) during 7th NSEDP implementation period | • Real GDP growth not less than 7.5% pa on average • Agriculture growth 3.2%, 19% of GDP • Industry growth 9.3%, 32% of GDP • Services growth 8.9%, 41% of GDP (excl. import tariff) • By 2020, non-resource sector contribution in the GDP increase to more than the average contribution in the GDP during the 7th NSEDP
+ | • Baseline: revenue achieved during last four years of 7th NSEDP 99,549 billion kip, 24.51% of GDP (7th NSEDP target: 19–21% of GDP) • Budget revenue: 76,648 billion kip, 18.87% of GDP during last four years (7th NSEDP target: 16–18% of GDP) • Expenditure 118,639 billion kip, 29.21% of GDP (7th NSEDP target: 22–25% of GDP) • Baseline: budget deficit 19,090 billion kip, 4.7% of GDP (7th NSEDP target: equal or less than 5% of GDP) | • Revenue achieved at 19–20% of GDP • Government budget revenue 16–17% of GDP • Expenditure equal to or less than 25% of GDP • Budget deficit does not exceed 5% of GDP
+ | • Baseline: Gini coefficients estimated for Lao PDR, urban and rural in 2013 (36.17, 37.51 and 32.52) | • Gini coefficients in 2020 improved for Lao PDR, urban and rural over coefficients estimated in 2013
+ | • Baseline: Exports of goods and services 11.91% of GDP in 7th NSEDP | • Exports of goods and services 15% of GDP per year • Maintain trade deficit at a controllable level
 
 [[END OF PAGE 96]]
 
@@ -2353,18 +2605,17 @@ The overall objective also acknowledges that there are associated development pr
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th NSEDP Design | Baselines | Performance Indicators, Targets
---- | --- | ---
-Summary OUTCOME 1 (one of three Outcomes needed to achieve the Overall Objective of the 8 th NSEDP) Sustained inclusive economic growth with economic vulnerability (EVI) reduced to levels required for LDC graduation and consolidated financial, legal and human resources to support growth. | EVI - Final Index Calculation 2015 = 36.2 (Lao PDR only). Global target is 32 | EVI - Final Index improved
-Economic Vulnerability Index - Population | Economic Vulnerability Index - Population
-• • Baseline: 2015 Population sub-index for size = 41.4 | • • Population (Size-exposure index) increased over 2015
-Economic Vulnerability Index -Remoteness • • Baseline: 2015 Location- exposure index = 58.8 | • • Location-exposure index reduced over 2015
-Economic Vulnerability Index - Merchandise Export Concentration • • Baseline: 2015 Index for Export Concentration = 22.4 | Economic Vulnerability Index - Merchandise Export Concentration • • Economic Structure-Exposure Index: Index for Export Concentration reduced over 2015 Economic Vulnerability Index
-Economic Vulnerability Index - Share of Agriculture/ Forestry • • Baseline: 2015 Share of Agriculture and Forestry | - Share of Agricultur /Forestry • • Economic Structure-Exposure Index: Share of Agriculture/ Forestry reduced over 2015
-Economic Vulnerability Index - Instability of Exports (Trade Shock - Shock Index) • • Baseline: 2015 Trade Shock - Shock Index = 24.2 | Economic Vulnerability Index - Instability of Exports (Trade Shock - Shock Index) • • Instability of Exports (Trade Shock - Shock Index) reduced over 2015
-• • Baseline: 2015 Ease of Doing Business by criteria | Investment and financial management resources • • Investment will be achieved at approximately 30% of GDP (approximately 223 trillion kip) - Government budget financed investment 9-11% of total investment. - Loans and grants investment 12-16% of total investment. - Domestic and foreign private sector investment 54-57% of total investment. - Investment through bank credits 19-21% of total investment.
-
 Table 19: Outcome Indicators and Targets
+
+8th NSEDP Design Summary | Baselines | Performance Indicators, Targets
+--- | --- | ---
+OUTCOME 1 (one of three Outcomes needed to achieve the Overall Objective of the 8th NSEDP) Sustained inclusive economic growth with economic vulnerability (EVI) reduced to levels required for LDC graduation and consolidated financial, legal and human resources to support growth. | EVI – Final Index Calculation 2015 = 36.2 (Lao PDR only). Global target is 32 | EVI – Final Index improved
+ | Economic Vulnerability Index – Population • Baseline: 2015 Population sub-index for size = 41.4 | Economic Vulnerability Index – Population • Population (Size–exposure index) increased over 2015
+ | Economic Vulnerability Index – Remoteness • Baseline: 2015 Location–exposure index = 58.8 | • Location–exposure index reduced over 2015
+ | Economic Vulnerability Index – Merchandise Export Concentration • Baseline: 2015 Index for Export Concentration = 22.4 | Economic Vulnerability Index – Merchandise Export Concentration • Economic Structure–Exposure Index: Index for Export Concentration reduced over 2015
+ | Economic Vulnerability Index – Share of Agriculture/Forestry • Baseline: 2015 Share of Agriculture and Forestry Index = 41.9 | Economic Vulnerability Index – Share of Agricultur /Forestry • Economic Structure–Exposure Index: Share of Agriculture/Forestry reduced over 2015
+ | Economic Vulnerability Index – Instability of Exports (Trade Shock – Shock Index) • Baseline: 2015 Trade Shock – Shock Index = 24.2 | Economic Vulnerability Index – Instability of Exports (Trade Shock – Shock Index) • Instability of Exports (Trade Shock – Shock Index) reduced over 2015
+ | • Baseline: 2015 Ease of Doing Business by criteria | Investment and financial management resources • Investment will be achieved at approximately 30% of GDP (approximately 223 trillion kip) – Government budget financed investment 9–11% of total investment. – Loans and grants investment 12–16% of total investment. – Domestic and foreign private sector investment 54–57% of total investment. – Investment through bank credits 19–21% of total investment.
 
 [[END OF PAGE 98]]
 
@@ -2374,11 +2625,11 @@ Table 19: Outcome Indicators and Targets
 
 91
 
-8 th NSEDP Design Summary | Baselines | Performance Indicators, Targets
+8th NSEDP Design Summary | Baselines | Performance Indicators, Targets
 --- | --- | ---
-• • Development planning and budgeting integrated through operationalization of MTEF • • Development planning and budgeting aligned though PIP rolling programme Legal Framework and Human Resources Development • • Entrepreneur management capacity / competitiveness enhanced • • Use of science and technology enhanced • • Micro-enterprise / SME management capacity / competitiveness improved - Ease of Doing Business rating improves - Labour productivity raised through labour movement from agriculture to higher productivity industry and service sectors at …... - Level of education and training of those already in, or entering, the public /privateworkforce raised…. - Urban management enhanced to improve economic roles of small towns
-OUTCOME 2 (one of three Outcomes needed to achieve the Overall Objective of the 8 th NSEDP) Human resources are | Human Asset Index (HAI) - Final Index Calculation • • Baseline: Composite HAI for 2015 = 60.8 | Human Asset Index (HAI) - Final Index Calculation • • HAI composite index not lower than 66 by the year 2020
-developed and the capacities of the public and private sectors is upgraded; poverty in all ethnic groups is reduced, all ethnic groups and both genders have access to quality education and health services; the unique culture of the nation is protected and consolidated; political stability, social peace and order, justice and transparency are maintained. | • • Baseline: 2015 Index for undernourishment = 72 • • Baseline: Prevalence of underweight children U5 38% in 2011 • • Baseline: Prevalence of stunting in children U5 27% in 2011 • • Baseline: Prevalence of wasting in children U5 6% in 2011 | Percentage of Population Undernourished • • LDC-associated indicators • • Prevalence of underweight children U5 less than 20% by 2020 • • Prevalence of stunting in children U5 less than 32% in 2020 • • Prevalence of wasting in children U5 by 2020 = 5%
+ | | • Development planning and budgeting integrated through operationalization of MTEF • Development planning and budgeting aligned though PIP rolling programme Legal Framework and Human Resources Development • Entrepreneur management capacity / competitiveness enhanced • Use of science and technology enhanced • Micro-enterprise / SME management capacity / competitiveness improved – Ease of Doing Business rating improves – Labour productivity raised through labour movement from agriculture to higher productivity industry and service sectors at …... – Level of education and training of those already in, or entering, the public /privateworkforce raised…. – Urban management enhanced to improve economic roles of small towns – Regional integration enhanced
+OUTCOME 2 (one of three Outcomes needed to achieve the Overall Objective of the 8th NSEDP) Human resources are developed and the capacities of the public and private sectors is upgraded; poverty in all ethnic groups is reduced, all ethnic groups and both genders have access to quality education and health services; the unique culture of the nation is protected and consolidated; political stability, social peace and order, justice and transparency are maintained. | Human Asset Index (HAI) – Final Index Calculation • Baseline: Composite HAI for 2015 = 60.8 | Human Asset Index (HAI) – Final Index Calculation • HAI composite index not lower than 66 by the year 2020
+ | • Baseline: 2015 Index for undernourishment = 72 • Baseline: Prevalence of underweight children U5 38% in 2011 • Baseline: Prevalence of stunting in children U5 27% in 2011 • Baseline: Prevalence of wasting in children U5 6% in 2011 | Percentage of Population Undernourished • LDC-associated indicators • Prevalence of underweight children U5 less than 20% by 2020 • Prevalence of stunting in children U5 less than 32% in 2020 • Prevalence of wasting in children U5 by 2020 = 5%
 
 [[END OF PAGE 99]]
 
@@ -2388,13 +2639,13 @@ developed and the capacities of the public and private sectors is upgraded; pove
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th NSEDP Design Summary | Baselines | Performance Indicators, Targets
+8th NSEDP Design Summary | Baselines | Performance Indicators, Targets
 --- | --- | ---
-• • Baseline: (MDG 5) Infant mortality rate (per 1,000 live births): 68 in 2011 • • Baseline: (MDG 5) U5 mortality rate (per 1,000 live births): 79 in 2011 • • Baseline: (MDG 5) U5 mortality rate (per 1,000 live births): 62.8 in 2015 | Under-1and under- 5Mortality Definition: UN - Probability per 1,000 that a newborn baby will die before reaching age 5. Note : although targets reached, Lao PDR lags behind regional indicators) • • Mortality rate of children under 1 year reduced to less than 30/1,000 live births by 2020 • • Mortality rate of children under 5 reduced to 40/1,000 live births by 2020
-• • Baseline: 2015 Index for Secondary Enrolment = 45 | Gross Secondary Enrolment Rate : Definition:(WB, UNESCO)Number of pupils enrolled in secondary schools regardless of age/ population in the theoretical age group for the same level of education
-• • Baseline: 2015 Index for Literacy = 63.6 | Adult Literacy Rate : Definition: (UNESCO) Literate people aged 15 or above as a percentage of total population of this age group, literacy is defined as if he/she can read and write, with understanding, a simple statement related to his/her daily life
-• • Baseline: MDG 2 Net Enrolment ratio in primary education 98.6% in 2014/15 • • Baseline: proportion of pupils starting Grade 1 who reach last grade of primary 78% in 2014/5 | Universal Primary Education Universal primary education is achieved
-• • Baseline: MDG 5 Maternal mortality ratio (per 1,000 live births): 357 in 2011 • • Baseline: MDG 5 Proportion of births attended by trained health personnel: 58% in 2009 | Maternal Health • • Post-MDG 5 Maternal mortality ratio (per 1,000 live births): Target: 160 by 2020 • • MDG 5 Proportion of births attended by trained health personnel: Target: One midwife per village by 2020
+ | • Baseline: (MDG 5) Infant mortality rate (per 1,000 live births): 68 in 2011 • Baseline: (MDG 5) U5 mortality rate (per 1,000 live births): 79 in 2011 • Baseline: (MDG 5) U5 mortality rate (per 1,000 live births): 62.8 in 2015 | Under-1and under-5MortalityDefinition: UN – Probability per 1,000 that a newborn baby will die before reaching age 5. Note: although targets reached, Lao PDR lags behind regional indicators) • Mortality rate of children under 1 year reduced to less than 30/1,000 live births by 2020 • Mortality rate of children under 5 reduced to 40/1,000 live births by 2020
+ | • Baseline: 2015 Index for Secondary Enrolment = 45 | Gross Secondary Enrolment Rate: Definition:(WB, UNESCO)Number of pupils enrolled in secondary schools regardless of age/population in the theoretical age group for the same level of education
+ | • Baseline: 2015 Index for Literacy = 63.6 | Adult Literacy Rate: Definition: (UNESCO) Literate people aged 15 or above as a percentage of total population of this age group, literacy is defined as if he/she can read and write, with understanding, a simple statement related to his/her daily life
+ | • Baseline: MDG 2 Net Enrolment ratio in primary education 98.6% in 2014/15 • Baseline: proportion of pupils starting Grade 1 who reach last grade of primary 78% in 2014/5 | Universal Primary Education Universal primary education is achieved
+ | • Baseline: MDG 5 Maternal mortality ratio (per 1,000 live births): 357 in 2011 • Baseline: MDG 5 Proportion of births attended by trained health personnel: 58% in 2009 | Maternal Health • Post-MDG 5 Maternal mortality ratio (per 1,000 live births): Target: 160 by 2020 • MDG 5 Proportion of births attended by trained health personnel: Target: One midwife per village by 2020
 
 [[END OF PAGE 100]]
 
@@ -2406,10 +2657,10 @@ developed and the capacities of the public and private sectors is upgraded; pove
 
 8 th NSEDP Design Summary | Baselines | Performance Indicators, Targets
 --- | --- | ---
-• • Baseline: 9provinces,987 villagescompleted UXO survey in 2015 • • Baseline: MDG 9 Number of casualties reported as result of UXO incidents (casualties per year): 45 in 2014 • • Baseline: 562 arevictims of UXO incidents in 2014 | UXO Clearance and Victim Assistance • • 2020 target: 9 provinces, 5,238 villages completed UXO survey - Number of casualties reported as result of UXO incidents reduced - Number of victims of UXO incidentsby 2020:Target: 1,500
-• • Baseline: poverty headcount rate in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region estimated for 2013 (LSB) • • Baseline: poverty gap in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region estimated for 2013 (LSB) | Equality • • Poverty headcount rate reduced in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region • • Poverty gap reduced in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region - Development equalilty - Balanced regional and local development achieved - Gender equality achieved
-OUTCOME 3 (one of three Outcomes needed to achieve the Overall Objective of the 8 th NSEDP) Natural resources and the environment are effectively protected and utilized according to green-growth and sustainable principles; there is readiness to copewith natural disasters and the effects of climate change and for reconstruction following natural disasters. | • • Baseline: 2015 Index for Victims = 88.9 | Economic Vulnerability Index Victims of Natural Disasters (Natural Shock - Shock Index) • • Victims of Natural Disasters (Natural Shock - Shock Index) • • Index for victims reduced over 2015
-• • Baseline: 2015 Index for Instability of Agriculture = 20.4 | Economic Vulnerability Index Instability of Agricultural Production (Natural Shock - Shock Index) • • Instability of Agricultural Production (Natural Shock -Shock Index) - Index for Instability of Agriculture reduced over 2015
+ | • Baseline: 9 provinces, 987 villages completed UXO survey in 2015 • Baseline: MDG 9 Number of casualties reported as result of UXO incidents (casualties per year): 45 in 2014 • Baseline: 562 are victims of UXO incidents in 2014 | UXO Clearance and Victim Assistance • 2020 target: 9 provinces, 5,238 villages completed UXO survey – Number of casualties reported as result of UXO incidents reduced – Number of victims of UXO incidents by 2020: Target: 1,500
+ | • Baseline: poverty headcount rate in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region estimated for 2013 (LSB) • Baseline: poverty gap in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region estimated for 2013 (LSB) | Equality • Poverty headcount rate reduced in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region • Poverty gap reduced in (i) Vientiane and region, (ii) Urban Vientiane and region and (iii) Rural Vientiane and region – Development equalilty – Balanced regional and local development achieved – Gender equality achieved
+OUTCOME 3 (one of three Outcomes needed to achieve the Overall Objective of the 8th NSEDP) Natural resources and the environment are effectively protected and utilized according to green-growth and sustainable principles; there is readiness to cope with natural disasters and the effects of climate change and for reconstruction following natural disasters. | • Baseline: 2015 Index for Victims = 88.9 | Economic Vulnerability Index Victims of Natural Disasters (Natural Shock – Shock Index) • Victims of Natural Disasters (Natural Shock – Shock Index) • Index for victims reduced over 2015
+ | • Baseline: 2015 Index for Instability of Agriculture = 20.4 | Economic Vulnerability Index Instability of Agricultural Production (Natural Shock – Shock Index) • Instability of Agricultural Production (Natural Shock – Shock Index) – Index for Instability of Agriculture reduced over 2015
 
 [[END OF PAGE 101]]
 
@@ -2493,7 +2744,7 @@ To develop the industrial sector to be a high growth sector quantitatively and q
 
 --Strive to increase the export value to 15 percent on average and maintain the foreign trade deficit at a level possible for settlement.
 
---Strive to increase the ratio of the industry sector to GDP to higher than70.
+--Strive to increase the ratio of the industry sector to GDP to higher than 70.
 
 ###### Priority Activities to Achieve Output
 
@@ -2501,7 +2752,7 @@ To develop the industrial sector to be a high growth sector quantitatively and q
 
 --Diversify commercial goods produced from the industrial processing sector and quantitatively and qualitatively, making it a high growth sector for domestic consumption and export, using agricultural and forestry raw materials and products as production inputs; modernize the industrial processing sector so that it is capable of competing internationally. Render it to become a basic sector of the economy to create employment for the people. Support investment factories that assemble spare parts, such as assembling vehicles and other machinery spare parts. In addition, it is important to differentiate prioritized industries, justifying incentives for them and not for others.
 
---Develop industrial zones to attract foreign investment in the processing industries, such as Savan-Seno Special Economic Zone, Vientiane-Phonthong Industrial and Commerce Park, by targeting medium-sized investment in clothingproduction and electronic supplies.
+--Develop industrial zones to attract foreign investment in the processing industries, such as Savan-Seno Special Economic Zone, Vientiane-Phonthong Industrial and Commerce Park, by targeting medium-sized investment in clothing production and electronic supplies.
 
 ###### Handicraft Sector
 
@@ -2525,13 +2776,13 @@ To develop the industrial sector to be a high growth sector quantitatively and q
 
 ###### Construction (Infrastructure)
 
---Upgrade roads that connect to the neighbouring countries, such as the Greater Mekong Subregion (GMS) Corridor, Asian Highway, East-West Corridor and North-South Economic Corridor.
+--Upgrade roads that connect to the neighbouring countries, such as the Greater Mekong Sub-region (GMS) Corridor, Asian Highway, East-West Corridor and North-South Economic Corridor.
 
 --Upgrade roads in accordance with the strategic plan on logistics to support the transportation of vehicles with 11 tons of cargo to underpin the shift to industrialization and modernization.
 
 --Construct the Vientiane- Boten Railway Project and conduct survey and design of Savanh-Lao bao  and  Vientiane  Capital-Thakhek-Namphao,  in  order  to  connect  to  Muya  and  other destinations.
 
---Create comprehensive logistics systems by focusing on four areas: Natoei-Luangnamtha, SenoSavannakhet, Tha Nalang-Vientiane and Vangtao-Phonthong Champasack.
+--Create comprehensive logistics systems by focusing on four areas: Natoei-Luangnamtha, Seno-Savannakhet, Tha Nalang-Vientiane and Vangtao-Phonthong Champasack.
 
 --Survey and design new international airports in Vientiane Capital, Sayabouly and Champasack. Airport in Champasack will serve 3 million passengers per annum in Champasack, Saravane and Sekong provinces.
 
@@ -2557,7 +2808,7 @@ To develop the industrial sector to be a high growth sector quantitatively and q
 
 ###### Direction
 
-Develop the service sector firmly linked to production enabling high revenue for the country and creating jobs forthe people; enhance land transit points in the region and provide diversified goods and services to meet domestic and international market demand.
+Develop the service sector firmly linked to production enabling high revenue for the country and creating jobs for the people; enhance land transit points in the region and provide diversified goods and services to meet domestic and international market demand.
 
 ###### Targets
 
@@ -2579,7 +2830,7 @@ Develop the service sector firmly linked to production enabling high revenue for
 
 ###### Tourism
 
---Develop tourism based on the application of natural, cultural and historic inheritance potential in an effective and sustainable manner through participation of the people; build completeservice-cycle tourism and link it to domestic and international tourist systems; train tour guide personnel; transform tourism into a revenue-generating sector of the country by focusing on prolonged touristvisits and increasing tourist spending inLao PDR to create employment and income for the local population.
+--Develop tourism based on the application of natural, cultural and historic inheritance potential in an effective and sustainable manner through participation of the people; build complete-service-cycle tourism and link it to domestic and international tourist systems; train tour guide personnel; transform tourism into a revenue-generating sector of the country by focusing on prolonged tourist visits and increasing tourist spending in Lao PDR to create employment and income for the local population.
 
 ###### Wholesale and Retail Sale
 
@@ -2645,7 +2896,7 @@ Develop  firm  and  sustainable  agriculture  and  forestry  sectors.  Continue 
 
 --Ensure sufficient food supply and nutrition of each kind for all the population.
 
---Follow the government direction that 10 provinces will focus on rice production (Luang Namtha, Bokeo, Sayabouly, Vientiane, Vientiane Capital, Bolikhamxay, Khammouane, Savannakhet, Saravan and Champasak) to achieve 2.5 million tons by 2020 on an area of 600,000 ha, of which 2.1million tons is for domestic consumption and 400,000 tons for reserves. Extend irrigated water supply from the 315,374 ha currently covered to 476,012 ha by 2020, yielding 4-5 tons per ha.This can supply the people's consumption of about 2,600-2,700 kcal per person per year, contributing to the nutrition intake of the people (rice, flour, meat, fish, eggs and dairy).
+--Follow the government direction that 10 provinces will focus on rice production (Luang Namtha, Bokeo, Sayabouly, Vientiane, Vientiane Capital, Bolikhamxay, Khammouane, Savannakhet, Saravan and Champasak) to achieve 2.5 million tons by 2020 on an area of 600,000 ha, of which 2.1 million tons is for domestic consumption and 400,000 tons for reserves. Extend irrigated water supply from the 315,374 ha currently covered to 476,012 ha by 2020, yielding 4-5 tons per ha. This can supply the people's consumption of about 2,600-2,700 kcal per person per year, contributing to the nutrition intake of the people (rice, flour, meat, fish, eggs and dairy).
 
 --Ensure average consumption of meat, fish and eggs per capita achieves 65 kg per person per year.
 
@@ -2717,9 +2968,9 @@ sufficient domestic supply and export of cows and buffaloes to neighbouring coun
 
 101
 
-- weather crops, vegetables and fruits; apart from these, it can be improved to plant grass for animals and hence it is suitable for raising animals such as cows, goats and sheep.
+weather crops, vegetables and fruits; apart from these, it can be improved to plant grass for animals and hence it is suitable for raising animals such as cows, goats and sheep.
 
-  Agro-ecological crops are promoted for cultivationin mountainous plains.
+  Agro-ecological crops are promoted for cultivation in mountainous plains.
 
   Focus on projects on food security and commercial products from agriculture.
 
@@ -2761,7 +3012,7 @@ sufficient domestic supply and export of cows and buffaloes to neighbouring coun
 
 ##### 6.4.1.4 Diversify Goods and Services and Diminish Natural Resources Reliance
 
-Strongly promote investment in commercial production that is not linked to natural resources, for instance agricultural processing industries, food and household utensils processing factories, etc. as strong bases for economic growth, together with the promotion of the enterprises conducting mineral-excavating business, utilizing forest resources, etc.; improve mineral production so that raw mineral ores are processed and value added before exporting them; in parallel, the mining areas will be upgraded for regular excavation avoiding socio-environmental impacts; develop tourist areas for clean, beautiful and environmentally friendly services as well as improving hotel and restaurant services; improve and upgrade tourist sites and tourist guidance for better quality and diversification linked with handicraft and architecture production to meet tourists'needs as well as to generate income for the people and the country.
+Strongly promote investment in commercial production that is not linked to natural resources, for instance agricultural processing industries, food and household utensils processing factories, etc. as strong bases for economic growth, together with the promotion of the enterprises conducting mineral-excavating business, utilizing forest resources, etc.; improve mineral production so that raw mineral ores are processed and value added before exporting them; in parallel, the mining areas will be upgraded for regular excavation avoiding socio-environmental impacts; develop tourist areas for clean, beautiful and environmentally friendly services as well as improving hotel and restaurant services; improve and upgrade tourist sites and tourist guidance for better quality and diversification linked with handicraft and architecture production to meet tourists' needs as well as to generate income for the people and the country.
 
 ##### 6.4.1.5 Build Synchronized Production Chains between State-Owned Enterprises, Big Business Enterprises and SMEs
 
@@ -2779,7 +3030,7 @@ Strongly promote investment in commercial production that is not linked to natur
 
 ###### Small and Medium-sized Enterprises
 
---Form a number of big enterprises to act as a driving force for SMEs, such as complete-cycle tourist companies (e.g. small and medium-sized suppliers of clean organic vegetables, textiles, handwoven products and wooden sculptures, and supporting the tourism sector with provision of infrastructure such as roads, electricity, water supply, etc.), agro-products processing enterprises (farmer groups that supply raw materials to the processing industries) and other businesses.
+--Form a number of big enterprises to act as a driving force for SMEs, such as complete-cycle tourist companies (e.g. small and medium-sized suppliers of clean organic vegetables, textiles, hand-woven products and wooden sculptures, and supporting the tourism sector with provision of infrastructure such as roads, electricity, water supply, etc.), agro-products processing enterprises (farmer groups that supply raw materials to the processing industries) and other businesses.
 
 --Improve the productivity of SMEs by promoting productive, appropriate and modern technology that fits the current situation of the national development and new innovation; set standards for goods and services to improve productivity; and enhance domestic and international market access.
 
@@ -2805,7 +3056,7 @@ Strongly promote investment in commercial production that is not linked to natur
 
 --Create a favourable investment environment equivalent to or greater than those in surrounding countries; for instance, provide one-door investment service to be more quickly, have a shorter lead time for investment licence application and more accurate perspectives on investment information. Open more potential economic zones that meet the criteria for SEZ establishment as indicated in the approved SEZ Development Strategies 2011-2020.
 
---Build strong basic infrastructure as necessaryto link potential SEZs with each other.
+--Build strong basic infrastructure as necessary to link potential SEZs with each other.
 
 --Focus on effective application of the Government's policies (following the 'small administration units - large society' approach), manage and implement one-door investment service in the SEZs in a more effective, fast and transparent manner.
 
@@ -2813,7 +3064,7 @@ Strongly promote investment in commercial production that is not linked to natur
 
 ###### Direction
 
-Constantly develop the economy through the strengthening and diversifying of production bases and by improving strong quality services; in parallel, a stable macroeconomic framework should be sustained; improve the financial and monetary policies to be in synchronization to enable the macro-economy to grow in a  continuous  manner;  monitor  the  economic  situation  to  issue appropriate policies in order to maintain the inflation rate within reasonable limits; define interest and manage the exchange rates to sustain a stable monetary situation and advantageous position for competitiveness; manage the internal debts (government and public) and decrease foreign debts step by step; improve and enforce measures to enhance financial and monetary liquidity and to gradually reduce trade deficits; increase foreign exchange reserves and ensure a foreign clearance balance; build up state reserves to secure the contingencies and urgent payments, such as post natural disasters; regulate markets to be stable and ensure the national defence, protection and security to ensure economic stability and create conditions for meeting the targets as set in theNSEDP.
+Constantly develop the economy through the strengthening and diversifying of production bases and by improving strong quality services; in parallel, a stable macroeconomic framework should be sustained; improve the financial and monetary policies to be in synchronization to enable the macro-economy to grow in a continuous manner; monitor the economic situation to issue appropriate policies in order to maintain the inflation rate within reasonable limits; define interest and manage the exchange rates to sustain a stable monetary situation and advantageous position for competitiveness; manage the internal debts (government and public) and decrease foreign debts step by step; improve and enforce measures to enhance financial and monetary liquidity and to gradually reduce trade deficits; increase foreign exchange reserves and ensure a foreign clearance balance; build up state reserves to secure the contingencies and urgent payments, such as post natural disasters; regulate markets to be stable and ensure the national defence, protection and security to ensure economic stability and create conditions for meeting the targets as set in the NSEDP.
 
 [[END OF PAGE 111]]
 
@@ -2843,7 +3094,7 @@ Constantly develop the economy through the strengthening and diversifying of pro
 
 --Strive to make state savings between 2-3 percent of the budget revenue per annum.
 
---Maintain the trade deficit at amanageable level.
+--Maintain the trade deficit at a manageable level.
 
 ###### Implementing Policies and Legal Instruments
 
@@ -2873,11 +3124,11 @@ Constantly develop the economy through the strengthening and diversifying of pro
 
 --Continue implementing the recommendations of the Financial Action Task Force (FATF) that are still pending (e.g. improve regulations on bank establishment).
 
-#### 6.4.3 	 Outcome1, Output 3: Development Planning and Budgeting are Aligned
+#### 6.4.3 	 Outcome 1, Output 3: Development Planning and Budgeting are Aligned
 
 ###### Direction
 
-Development and funding should be consistent and synchronized and interlinked from the outset,i.e. funding should be in line with the country's overall development policies, for instance, it should focus on achieving growth standards, allowing the country to graduate from LDC status; development investment needs should be based on the budget funding capacity for each period in collaboration with the raising of foreign loans and grant aid as well as efforts to attract funds from domestic and foreign private sectors, procurement of bank credits and the general population contribution for production and service business investments.
+Development and funding should be consistent and synchronized and interlinked from the outset, i.e. funding should be in line with the country's overall development policies, for instance, it should focus on achieving growth standards, allowing the country to graduate from LDC status; development investment needs should be based on the budget funding capacity for each period in collaboration with the raising of foreign loans and grant aid as well as efforts to attract funds from domestic and foreign private sectors, procurement of bank credits and the general population contribution for production and service business investments.
 
 ###### Targets
 
@@ -2897,7 +3148,7 @@ Development and funding should be consistent and synchronized and interlinked fr
 
 --Investments under loans and grants are focused on social areas linked to the people's living conditions and poverty reduction, solving malnutrition problems and improving sanitary conditions.
 
---Domestic and foreign private sectorinvestments are focused on economic development sectors, such as investment in hydropower construction projects, SEZ and UEZ development, processing industries, construction materials, vehicle spare parts assembly industries, tourism development, construction of railways and so on.
+--Domestic and foreign private sector investments are focused on economic development sectors, such as investment in hydropower construction projects, SEZ and UEZ development, processing industries, construction materials, vehicle spare parts assembly industries, tourism development, construction of railways and so on.
 
 [[END OF PAGE 113]]
 
@@ -2909,7 +3160,7 @@ Development and funding should be consistent and synchronized and interlinked fr
 
 --Investment from the financial system (bank credits and stock markets) are used for SMEs' investments in producing agro-products, commercial processing industries and handicraft production in order to create employment and contribute to poverty reduction.
 
-#### 6.4.4 	 Outcome1, Output4: BalancedRegional and Local Development
+#### 6.4.4 	 Outcome 1, Output 4: Balanced Regional and Local Development
 
 ###### Direction
 
@@ -2917,7 +3168,7 @@ Development and funding should be consistent and synchronized and interlinked fr
 
 --Strengthen and apply each area's potential to prepare positions for economic take-off by strengthening the relationships between areas, international economic development and foreign market demand. Modify economic structures in each area and region by increasing the ratio  of  non-agricultural  sectors  with  advantageous  potential  for  value  added,  by  paying attention to developing professional handicraft and artistic handicraft as a main support; carry out the objectives of diverting more labour from rural agriculture to work in the industrial and service sectors.
 
---Concentrate  on  determining  the  allocated  areas  for  development  consistent  with  the advantageous  potential  of  each  region  and  area,to  promote  intensive  production  and investment, such as agricultural production areas, processing industrial production areas, tourism areas, economic areas and residential areas; ameliorate basic infrastructure within a regional  and  international  integration  orientation,i.e.:  roads,  airports,  sports  stadia  etc.; strengthen the cooperation and exchange of experiences between the regions and areas and provinces within the particular part of the country for joint development benefits; improve the investment environment to make it suitable to the actual situation in order to promote business enterpriseand employment.
+--Concentrate on determining the allocated areas for development consistent with the advantageous potential of each region and area, to promote intensive production and investment, such as agricultural production areas, processing industrial production areas, tourism areas, economic areas and residential areas; ameliorate basic infrastructure within a regional and international integration orientation, i.e.: roads, airports, sports stadia etc.; strengthen the cooperation and exchange of experiences between the regions and areas and provinces within the particular part of the country for joint development benefits; improve the investment environment to make it suitable to the actual situation in order to promote business enterprise and employment.
 
 ##### 6.4.4.1 Northern Region
 
@@ -2933,7 +3184,7 @@ Actively promote economic growth and achieve a GDP growth rate of at least 9.5 p
 
 ###### Agricultural Production Areas
 
---Encourage rice production to ensure food security according to the Government's directions, especially in small and medium-sized plain areas in the potential northern provinces, such as Luangnamtha, Bokeo, Sayabouly and Vientiane Province, by concentrating on commercial production for exporting rice to China and other markets using high demand rice seeds. In the past five years, the total rice farming area is 979,225 ha, which is expected to yield 3,853,821 tons of rice; continue developing and promoting green and sustainable agro-processing to supply food for domestic consumption in the Northern Region and exports by establishing agricultural production centres and laboratories, commercial seed production centres (to improve herbaceous plants, commercial crops and livestock) in Luangnamtha, Sayabouly, Luangnamtha and Vientiane Province andcorn production centres in Huaphanh, Sayabouly, Luangnamtha and Xiengkhouang. Construct processing facilities for cassava seeds in Oudomxay and Luangnamthaand yellow bean seeds in Huaphan and Xiengkhouang provinces. Construct a tea production factory in Phongsaly and Nyot Ou districts; in addition, construct economic crop seeds production centres for crops such as potatoes, banana, plants and vegetables and fruit-bearing trees. Encourage the people to grow grass to supply to the cow breeding centres in Xiengkhouang and Huaphan provinces; construct breeding centres in Meuangxay in Huaphan province; construct the fishery demonstration centre and fresh water fish breeds production centre in Sayabouly and Vientiane provinces. All these are to meet the market demand within the region, Vientiane Capital, Vientiane Province, Xaysomboun and other provinces, tourist areas and for export to the neighbouring countries.
+--Encourage rice production to ensure food security according to the Government's directions, especially in small and medium-sized plain areas in the potential northern provinces, such as Luangnamtha, Bokeo, Sayabouly and Vientiane Province, by concentrating on commercial production for exporting rice to China and other markets using high demand rice seeds. In the past five years, the total rice farming area is 979,225 ha, which is expected to yield 3,853,821 tons of rice; continue developing and promoting green and sustainable agro-processing to supply food for domestic consumption in the Northern Region and exports by establishing agricultural production centres and laboratories, commercial seed production centres (to improve herbaceous plants, commercial crops and livestock) in Luangnamtha, Sayabouly, Luangnamtha and Vientiane Province and corn production centres in Huaphanh, Sayabouly, Luangnamtha and Xiengkhouang. Construct processing facilities for cassava seeds in Oudomxay and Luangnamtha and yellow bean seeds in Huaphan and Xiengkhouang provinces. Construct a tea production factory in Phongsaly and Nyot Ou districts; in addition, construct economic crop seeds production centres for crops such as potatoes, banana, plants and vegetables and fruit-bearing trees. Encourage the people to grow grass to supply to the cow breeding centres in Xiengkhouang and Huaphan provinces; construct breeding centres in Meuangxay in Huaphan province; construct the fishery demonstration centre and fresh water fish breeds production centre in Sayabouly and Vientiane provinces. All these are to meet the market demand within the region, Vientiane Capital, Vientiane Province, Xaysomboun and other provinces, tourist areas and for export to the neighbouring countries.
 
 --Develop economic tree cultivation areas, for instance teakwood, rosewood (Mai Dou), patterned hardwood (Mai Longleng), Maijan and other high value wood trees by allocating areas for tree planting in the provinces of Luang Prabang, Luangnamtha, Bokeo, Sayabouly, Vientiane and Xiengkhouang.
 
@@ -2941,7 +3192,7 @@ Actively promote economic growth and achieve a GDP growth rate of at least 9.5 p
 
 --Promote a spearhead company to develop a demonstration centre for latex planting and lead the support of the population to grow latex in the provinces of Luangnamtha, Bokeo, Oudomxay, Sayabouly, Vientiane, Luang Prabang and Phongsaly.
 
---Build demonstration areas according to their local natural resources and special characteristics, selecting the appropriate environmental conditions and requirements by allocating areas for planting in Luang Prabang and Bokeo provinces, e.g. Maijan wood andsealing wax trees, which could be developed in other areas in the northern provinces that have suitable environmental conditions.
+--Build demonstration areas according to their local natural resources and special characteristics, selecting the appropriate environmental conditions and requirements by allocating areas for planting in Luang Prabang and Bokeo provinces, e.g. Maijan wood and sealing wax trees, which could be developed in other areas in the northern provinces that have suitable environmental conditions.
 
 ###### Industrial Production Areas
 
@@ -2959,7 +3210,7 @@ more concrete results, build the Northern Region to become a centralized economi
 
 --Processing industries are regarded as spearhead industries capable of generating high value, for instance:
 
-  Processing industries for processed wood products: Meuang Xay, Meuang Luang Prabang, Meuang Samneuaand, Meuang Sayabouly; each province shall have 1-2 wood processing factories  fabricating  standard  processed  wood  products  and  capable  of  high  level competition.
+  Processing industries for processed wood products: Meuang Xay, Meuang Luang Prabang, Meuang Samneua and Meuang Sayabouly; each province shall have 1-2 wood processing factories fabricating standard processed wood products and capable of high level competition.
 
   Rubber  Processing  Industry:  Promote  many  forms  of  business,  especially  the  form 'company+land+farmer's family' which transforms the agriculture, commerce and industry sectors into one common system having a variety of service forms, construct standard rubber processing factories with sufficient production capacity to meet the market demand in the cities of Luangnamtha, Houayxay, Meuang Xay and Sayabouly.
 
@@ -2975,7 +3226,7 @@ more concrete results, build the Northern Region to become a centralized economi
 
   Produce  construction  matierials  focusing  on  cement  in  Long,  Nam  Bark,  Sayabouly, Viengthong and Vangvieng district.
 
-  Develop chemical industries such as chlorides, salts of sodium andpotassium-based fertilizers in the Vientiane Province.
+  Develop chemical industries such as chlorides, salts of sodium and potassium-based fertilizers in the Vientiane Province.
 
 ###### Electrical Power and Mining Industries
 
@@ -2991,9 +3242,9 @@ more concrete results, build the Northern Region to become a centralized economi
 
 tributary  in  Oudomxay  province,  Nam  Sam  in  Huaphan  province  and  Nam  Ngum  4A  in Xiengkhouang province. Apart from these, there will be other projects to be implemented, such as  the  expansion  of  distribution  substations  and  electrical  networks  and  construction  of transmission lines for remote rural electrification, and efforts will also concentrate on developing electrical power sources for export.
 
---Strengthen the existing metal smelting industries, by concentrating the iron, lead, aluminum, zinc, gold,etc. smelting industries.
+--Strengthen the existing metal smelting industries, by concentrating the iron, lead, aluminum, zinc, gold, etc. smelting industries.
 
---Manufacture construction materials by focusing on cement production, for instance in Meuang Long, Nam Bark, Sayabouly andViengthong, Vangvieng and so on.
+--Manufacture construction materials by focusing on cement production, for instance in Meuang Long, Nam Bark, Sayabouly and Viengthong, Vangvieng and so on.
 
 ###### Mining industry
 
@@ -3021,15 +3272,15 @@ Develop and improve logistics service systems along the highways Nos. 3, 2 and 1
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-centres in Luang Prabang. Combine nature tourism with historic and ethnic minorities' traditionalcultural tourism. Expand the tourist roads towards the centres of the border economy and cross-border tourism, interlinked with four surrounding countries, build up a base to integrate with the GMS countries' tourism, develop a reliable tourism security system, provide training for human resources in the tourism sector, and develop an e-tourism information service system.
+centres in Luang Prabang. Combine nature tourism with historic and ethnic minorities' traditional-cultural tourism. Expand the tourist roads towards the centres of the border economy and cross-border tourism, interlinked with four surrounding countries, build up a base to integrate with the GMS countries' tourism, develop a reliable tourism security system, provide training for human resources in the tourism sector, and develop an e-tourism information service system.
 
---River transport service: Ensure effective water-borne communication, develop river transportation for towns along the riverswith internal and external integration, by building one main harbour and many sub-haboursto support river transportation in Huay Xai, Luang Prabang and Pak Bang as a centre of Mekong River transport; provide a shipping service with high standards, such asproviding products transfer equipment, and a temporary warehouse (inland container depot ICD) that can accommodate cargo of one thousand tons; increase the capacity of the existing harbours and the new ones, such as in Ban Xai, Xiengkok, Ban Mon and Meuang Kop; upgrade habours, warehouses and inspection equipment to facilitate the traffic of goods and passengers.
+--River transport service: Ensure effective water-borne communication, develop river transportation for towns along the rivers with internal and external integration, by building one main harbour and many sub-habours to support river transportation in Huay Xai, Luang Prabang and Pak Bang as a centre of Mekong River transport; provide a shipping service with high standards, such as providing products transfer equipment, and a temporary warehouse (inland container depot – ICD) that can accommodate cargo of one thousand tons; increase the capacity of the existing harbours and the new ones, such as in Ban Xai, Xiengkok, Ban Mon and Meuang Kop; upgrade habours, warehouses and inspection equipment to facilitate the traffic of goods and passengers.
 
 --Establish duty free malls and service centres, including health service centres at the new harbours, such as Tha Deua, Pak Khon, Pak Lai, Ban Vang and Vientiane Habour to be at good levels of operation.
 
 ###### Areas of Economic and Residential Development
 
---Take urban economic zones development as core development, due to the fact that the zones have  modern  basic  infrastructure  and  service,  with  industries  as  focal  points  capable  of generating high value added, for instance: processing industries for agro-forest products, electricity, mineral exploitation and processing (gold, zinc, iron, bauxite), construction materials manufacturing industries, industry groups and goods production zones for export in order to create stimulating incentives forthe Northern Region and build up the Northern Region in the development orientation 1-3-3-4, i.e. focus on the development of one economic centre in the Northern Region in Luang Prabang, concentrate on the development of three industrial zones in three provinces (Vientiane, Xiengkhouang, Oudomxay), concentrate on three economic corridors (Boten-Vientiane, Houayxai-Taichang and Meuang Ngeun-Nong Had) and concentrate on four border economic cooperation zones (Boten, Houayxai-Tonpheung, Nong Had and Kenethao), together with the development of newly established economic zones, i.e. Nongkhang Special Economic Zone and Khang Nongluang Unique Economic Zone in Meuang Pack.
+--Take urban economic zones development as core development, due to the fact that the zones have modern basic infrastructure and service, with industries as focal points capable of generating high value added, for instance: processing industries for agro-forest products, electricity, mineral exploitation and processing (gold, zinc, iron, bauxite), construction materials manufacturing industries, industry groups and goods production zones for export in order to create stimulating incentives for the Northern Region and build up the Northern Region in the development orientation 1-3-3-4, i.e. focus on the development of one economic centre in the Northern Region in Luang Prabang, concentrate on the development of three industrial zones in three provinces (Vientiane, Xiengkhouang, Oudomxay), concentrate on three economic corridors (Boten-Vientiane, Houayxai-Taichang and Meuang Ngeun-Nong Had) and concentrate on four border economic cooperation zones (Boten, Houayxai-Tonpheung, Nong Had and Kenethao), together with the development of newly established economic zones, i.e. Nongkhang Special Economic Zone and Khang Nongluang Unique Economic Zone in Meuang Pack.
 
 --Residential resettlement: Gather the people to the areas having favourable conditions for development, along the streets or close to the cities (suburbs), shift the poor people who live in a dispersed manner in high mountainous areas down to reside in the designated areas, in order to improve the basis of living to better conditions, by promoting techniques in cultivation and animal raising, handicraft development and tourist service, which will enable the displaced people to entirely participate in the production development processes and to become free from poverty step by step. Establish groups of focal villages for the residential resettlement and create jobs for the people, establishing rural towns and transforming them into focal points with multiple professions, to promote processing industries, in order to divert the labour working in rural agriculture to the industrial and service sectors in increasing numbers.
 
@@ -3041,11 +3292,11 @@ centres in Luang Prabang. Combine nature tourism with historic and ethnic minori
 
 111
 
---Accelerate development of six focal points: four in Vientiane province, i) the village groups of Ban Long Cheng, ii) Meuang Orm, iii) Meuang Ao and Meuang Saysomboun, and iv) the Phalavack Meuang Hom); and two in Xiengkhouang province, i) the village groups of Ban Sanluang in Muangkhoon,and ii) the Ban Namsiam group in Muang Phaxay).
+--Accelerate development of six focal points: four in Vientiane province, i) the village groups of Ban Long Cheng, ii) Meuang Orm, iii) Meuang Ao and Meuang Saysomboun, and iv) the Phalavack Meuang Hom); and two in Xiengkhouang province, i) the village groups of Ban Sanluang in Muangkhoon, and ii) the Ban Namsiam group in Muang Phaxay).
 
 ###### Poverty Reduction
 
---Encourage people to move in the focal areas to reduce poverty. Select the areas that meet some level of development, in proximity to the roads or urban areas (i.e. suburban), create proper jobs for the new resettled people, especially in the mountaineous areas. Reduce the household poverty rate to 5 percent and proportion of poor villagesto 10 percent by 2020.
+--Encourage people to move in the focal areas to reduce poverty. Select the areas that meet some level of development, in proximity to the roads or urban areas (i.e. suburban), create proper jobs for the new resettled people, especially in the mountaineous areas. Reduce the household poverty rate to 5 percent and proportion of poor villages to 10 percent by 2020.
 
 ###### Basic Infrastructure Development
 
@@ -3053,13 +3304,13 @@ centres in Luang Prabang. Combine nature tourism with historic and ethnic minori
 
 ###### Development of land transportation infrastructure
 
-  Upgrade the National Road No.13 in the Northern Region (between Pakmong and Oudomxay) to connect to Road No.1B; upgrade the National Road No.19 between Hatsa and Pakha (Lao PDR-China border); continue constructing the road to connect Att district, Huaphanh province and Thathom district (Lao PDR-Vietnam border); continue constructing the road to connect Sing district, Luangnamtha province and Kanthao district, Sayaboulyprovince (Lao PDR-Thailand border) through Bokeo province.
+  Upgrade the National Road No.13 in the Northern Region (between Pakmong and Oudomxay) to connect to Road No.1B; upgrade the National Road No.19 between Hatsa and Pakha (Lao PDR-China border); continue constructing the road to connect Att district, Huaphanh province and Thathom district (Lao PDR-Vietnam border); continue constructing the road to connect Sing district, Luangnamtha province and Kanthao district, Sayabouly province (Lao PDR-Thailand border) through Bokeo province.
 
-  Improve and construct the national roads and provincial roads such as paving the road to connect Xiangkok-Myanmar Bridge to R3 Road (the road that connects Bokeo to the China border); pave roads with two layers of asphalt pavingto connect Samneua municipality to Nongkhang airport; construct river bank protection in risky areas of Bokeo province.
+  Improve and construct the national roads and provincial roads such as paving the road to connect Xiangkok-Myanmar Bridge to R3 Road (the road that connects Bokeo to the China border); pave roads with two layers of asphalt paving to connect Samneua municipality to Nongkhang airport; construct river bank protection in risky areas of Bokeo province.
 
 ###### Development of water transportation infrastructure
 
-  Improve river transportation along the Mekong and protect the river bank from erosion in the target areas; apply standards that each ferry must not carry more than 22 kg of goods for transport between Huayxai and Luang Prabang, a distance of 300km; build necessary equipment to upgrade communication between Lao PDR, Thailand, Myanmar and China in water transportation to move toward the international standards.
+  Improve river transportation along the Mekong and protect the river bank from erosion in the target areas; apply standards that each ferry must not carry more than 22 kg of goods for transport between Huayxai and Luang Prabang, a distance of 300 km; build necessary equipment to upgrade communication between Lao PDR, Thailand, Myanmar and China in water transportation to move toward the international standards.
 
 ###### Development of air transportation infrastructure
 
@@ -3089,7 +3340,7 @@ investment climate to promote business and employment generation suited to actua
 
 --Khammouane and Savannakhet will be priority provinces for promoting rice production, especially in XeBangfai and Navang in Nangbok District; the downstream areas of Yommalath and Hinboun districts, Khammouane province; XeBanghieng flat area in Savannakhet province, especially PhouhuaSaova in Sayabouly district; Huaytuad in Champhone district and Lahanarm area. These areas will be shifted into irrigated agriculture in the future with the use of high technology, quality seeds to ensure sufficient supplies for domestic consumption and exports overseas. During the next five years, strive to increase rice farming area to 3,094,590 ha and yield 13,108,999 tons of rice.
 
---In addition, there will be a promotion on plantation of sugarcane and cassava in Bolikhamxay, Khammouane and Savannakhet provinces; there will be a promotion of cultivation of tobacco for commercial production in Bolikhamxay province, and promotion ofvegetable plantation in Hadxaifong, Vientiane Capital and Bolikhan district in Bolikhamxay province.
+--In addition, there will be a promotion on plantation of sugarcane and cassava in Bolikhamxay, Khammouane and Savannakhet provinces; there will be a promotion of cultivation of tobacco for commercial production in Bolikhamxay province, and promotion of vegetable plantation in Hadxaifong, Vientiane Capital and Bolikhan district in Bolikhamxay province.
 
 --Livestock:  promote  animal  farming,  especially  in Vientiane  Capital  and  Bolikhamxay  and Savannakhet provinces, ensure pig and chicken farming provide enough supply to the market
 
@@ -3101,11 +3352,11 @@ investment climate to promote business and employment generation suited to actua
 
 113
 
-- and processing industry. Promote fish farming in Vientiane Capital and Khammouan, along the Mekong and Hinboun Rivers respectively.
+and processing industry. Promote fish farming in Vientiane Capital and Khammouan, along the Mekong and Hinboun Rivers respectively.
 
---Continue investing in forest protection and replantation, continue decentralizing the Forest Protection Authority along with the promotion of agriculture and forestry, and provide technical advice on processing non-timber forest products (NTFP) to gradually change livelihood activities, which can gradually raise the income ofthe people who live in mountainous areas.
+--Continue investing in forest protection and replantation, continue decentralizing the Forest Protection Authority along with the promotion of agriculture and forestry, and provide technical advice on processing non-timber forest products (NTFP) to gradually change livelihood activities, which can gradually raise the income of the people who live in mountainous areas.
 
---Improve and upgrade international checkpoints throughout the country with a quality phytosanitary inspection system that is comparable with the international standards.
+--Improve and upgrade international checkpoints throughout the country with a quality phyto-sanitary inspection system that is comparable with the international standards.
 
 ###### Industry
 
@@ -3135,7 +3386,7 @@ investment climate to promote business and employment generation suited to actua
 
 ###### Basic infrastructure development.
 
---Continue improving and upgrading necessary basic infrastructure, share basic infrastructure between provinces along the East-West Corridor and Road Nos. 8, 9, 12 and the southern part of Road No. 13. Improve the highway on the northern part of Road No. 13 to facilitate good transportation between Luang Prabang and Vientiane Capital, and upgrade it to become a connecting road between the north and the south. Construct roads that connect to the EastWest Corridor to support tourist integration with neighbouring countries.
+--Continue improving and upgrading necessary basic infrastructure, share basic infrastructure between provinces along the East-West Corridor and Road Nos. 8, 9, 12 and the southern part of Road No. 13. Improve the highway on the northern part of Road No. 13 to facilitate good transportation between Luang Prabang and Vientiane Capital, and upgrade it to become a connecting road between the north and the south. Construct roads that connect to the East-West Corridor to support tourist integration with neighbouring countries.
 
 --Implement the road construction projects, including double-layer paved roads from Road No.8534 to the junction of Southern Road No.13 between Khampoun and Kang Pay, Xe Bangfai District (Khammouan province), and build 18 concrete roads along Road 11E from Kaysone to Heuan Hin. In addition to these, there are ODA projects, including building paved roads from Sikhai Junction to Sikert Junction, building four concrete roads from Tan Mixay traffic lights to Sikert Junction, and building a strategic road from Hin Herb to Sanakarm.
 
@@ -3165,7 +3416,7 @@ provinces with potential and opportunities, such as promoting rubber tree planta
 
 --Develop the electricity generation industry, agro-processing industry and mineral processing industry. Establish a garment industry group along major roads as identified under the Southern Asian Economic Regulation and establish it in the cities identified as members of development triangles of Vietnam-Lao PDR-Cambodia and Thailand-Lao PDR-Cambodia.
 
---Create a facilitating environment to further attract domestic and foreign investors into industry zones  at  Km16  in  Bajieng  district,  at  Km12  in  Phonthong  district,  and  at  Km30  in  Sana Somboundistrict, Champasack; build a wind power factory in Dakjeung, Sekong; continue the construction of a coal-based energy generation factory; and improve cross-border trade services at Vangtao checkpoint in Phongthong district and at Nongnokkien checkpoint in Khong district to become faster and comparable with the services at the international checkpoints.
+--Create a facilitating environment to further attract domestic and foreign investors into industry zones at Km16 in Bajieng district, at Km12 in Phonthong district, and at Km30 in Sana Somboun district, Champasack; build a wind power factory in Dakjeung, Sekong; continue the construction of a coal-based energy generation factory; and improve cross-border trade services at Vangtao checkpoint in Phongthong district and at Nongnokkien checkpoint in Khong district to become faster and comparable with the services at the international checkpoints.
 
 ###### Commerce, Services and Tourism
 
@@ -3193,11 +3444,11 @@ requires the construction of manufacturing factories and establishment of a labo
 
 --Develop major roads of the region that lead to the Vietnam-Lao PDR and Lao PDR-Cambodia borders. Upgrade provincial and district roads to ensure that all districts have roads to the centre of the region that are usable all year round. Complete existing irrigation construction and renovation projects, construct additional medium and small-sized irrigation systems, and establish  water  supply  systems  in  the  urban  areas  that  are  linking  points.  Develop  basic infrastructure in two districts in the mountainous areas at the Vietnam border and in Kaleum district. Implement the projects on building paved roads and concrete bridges, including Road No. 3.6909 from Junction No.20 in Ban Temebang to Junction No.15 in Ban Bua (Saravane). In addition, there are ODA projects such as construction of the Sekong Bridge.
 
-#### 6.4.5 Outcome1, Output5: Improved Public/Private LabourForce Capacity
+#### 6.4.5 Outcome 1, Output 5: Improved Public/Private Labour Force Capacity
 
 ###### Direction
 
-Develop the workforce in both quantity and quality in various areas and at different levels according to the economic structure by focusing on the agriculture, industry and services areas in respect of the national development demand, and build capacity for them to compete in the region, especially in the ASEAN region. Build the workforce to be nationally conscious, to be good citizens, to respect laws and regulations and to be highly disciplined, ethical, tolerant and active in their work and selfdevelopment and thereby will become a healthy workforce, which is significantly essential for each period of the socio-economic development. Create employment opportunities for Lao workers that are consistent with international labour standards. Ensure that Lao workers are protected by effective labour laws and domestic and international ILO Conventions.
+Develop the workforce in both quantity and quality in various areas and at different levels according to the economic structure by focusing on the agriculture, industry and services areas in respect of the national development demand, and build capacity for them to compete in the region, especially in the ASEAN region. Build the workforce to be nationally conscious, to be good citizens, to respect laws and regulations and to be highly disciplined, ethical, tolerant and active in their work and self-development and thereby will become a healthy workforce, which is significantly essential for each period of the socio-economic development. Create employment opportunities for Lao workers that are consistent with international labour standards. Ensure that Lao workers are protected by effective labour laws and domestic and international ILO Conventions.
 
 ###### Targets
 
@@ -3237,15 +3488,15 @@ Develop the workforce in both quantity and quality in various areas and at diffe
 
 --Strengthen the management of recruitment services and safe labour migration.
 
---Increase well-regulated and efficient recruitment by collaborating with technical and vocational education and training (TVET) in improving the teaching-learning curriculum, for instance, to be more suitable with the development situation in each period and responding to employers' demand. 16
+--Increase well-regulated and efficient recruitment by collaborating with technical and vocational education and training (TVET) in improving the teaching-learning curriculum, for instance, to be more suitable with the development situation in each period and responding to employers' demand.16
 
---Conduct a labourforce and labour market survey within the country.
+--Conduct a labour force and labour market survey within the country.
 
 ###### Implementing Policies and Legal Instruments
 
 --Develop a decree on labour skills development and fund, and a decree on provision of assistance to returning migrants.
 
---Develop policy and mechanism to ensure that labourforce restructuring follows the direction on reducing labour engagement in the agriculture sector and increasing labour engagement in the industry and service sectors.
+--Develop policy and mechanism to ensure that labour force restructuring follows the direction on reducing labour engagement in the agriculture sector and increasing labour engagement in the industry and service sectors.
 
 --Create a clear, adequate and transparent legal framework for the management and protection of migrant labour, with strict and efficient legal enforcement on employment.
 
@@ -3257,9 +3508,9 @@ Develop the workforce in both quantity and quality in various areas and at diffe
 
 [[START OF PAGE 126]]
 
-118
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+118
 
 #### 6.4.6 	 Outcome1, Output6: Develop Entrepreneurs, technical experts and professionals
 
@@ -3297,9 +3548,9 @@ Human development is a key factor of national development, especially in the gen
 
 [[START OF PAGE 127]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 119
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 --Develop vocational teachers in various professions (technical specialization and pedagogy) at different levels, domestically and internationally, and sufficiently employ them in the vocational and training institutions across the country at some level.
 
@@ -3315,7 +3566,7 @@ The direction for mobilizing ODA focuses on bilateral and multilateral cooperati
 
 ###### Bilateral cooperation
 
-Continue to expand cooperation with other countries and deepen it in the sectors focused on by other countries; in doing so, pay attention to work and projects related to poverty reduction and some offtrack MDGs. Focus on the necessary infrastructure development and capacity building to be the basis for the national development and lift the country out of LDC status by 2020; at the same time, continue to consult with other countries on low-interest loans. In addition, open up to potential cooperation with some European countries.
+Continue to expand cooperation with other countries and deepen it in the sectors focused on by other countries; in doing so, pay attention to work and projects related to poverty reduction and some off-track MDGs. Focus on the necessary infrastructure development and capacity building to be the basis for the national development and lift the country out of LDC status by 2020; at the same time, continue to consult with other countries on low-interest loans. In addition, open up to potential cooperation with some European countries.
 
 According to the development direction of other countries, increasing south-south cooperation and tripartite cooperation is necessary, maybe by starting from projects on training and exchanging experts in order to lead to tripartite cooperation by requesting developed countries to provide funding for the implementation of this type of cooperation.
 
@@ -3323,15 +3574,17 @@ Continue to cooperate with and mobilize funds from Asian countries, European cou
 
 ###### Multilateral cooperation
 
-The direction for multilateral cooperation shows that it is necessary to continue seizing opportunities and increasing efforts for more cooperation in the Greater Mekong Sub-region (GMS), starting with AESAN as a negotiating partner. The GMS cooperation has been going well and cooperation in the GMS and the triangle development area will continue. Apart from that, there is cooperation with financial institutions such as the World Bank, IMF, ADB and Organization of the Petroleum Exporting Countries. However, loans must be in line with public debt management of Lao PDR. Continue to take loans with lower and longterm interest rates to support projects necessary for infrastructure development. For loans with a business interest rate, there should be a specific mechanism associated with the economic sector with a guaranteed returnfor loans that can not be listed as ODA. In addition, there has also been continuation in accessing funding from established international funds for addressing world emergency problems, such as: the Fund  for  HIV/AIDS  and  other  contagious  diseases,  environmental  fund,  carbon  fund  and  other development funds.
+The direction for multilateral cooperation shows that it is necessary to continue seizing opportunities and increasing efforts for more cooperation in the Greater Mekong Sub-region (GMS), starting with AESAN as a negotiating partner. The GMS cooperation has been going well and cooperation in the GMS and the triangle development area will continue. Apart from that, there is cooperation with financial institutions
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
 
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+
 120
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+such as the World Bank, IMF, ADB and Organization of the Petroleum Exporting Countries. However, loans must be in line with public debt management of Lao PDR. Continue to take loans with lower and long-term interest rates to support projects necessary for infrastructure development. For loans with a business interest rate, there should be a specific mechanism associated with the economic sector with a guaranteed returnfor loans that can not be listed as ODA. In addition, there has also been continuation in accessing funding from established international funds for addressing world emergency problems, such as: the Fund for HIV/AIDS and other contagious diseases, environmental fund, carbon fund and other development funds.
 
 Continue to develop cooperation and access assistance from UN agencies to mobilize more funding for improving governance, protection and development of human resources, poverty reduction, UXO clearance, addressing and responding to epidemic diseases and for the implementation of international conventions. At the same time, pay attention to managing assistance from international non-governmental organizations systematically, in order for the incoming funding flow and the implementation of funded projects to be effective and in accordance with the development direction of the country.
 
@@ -3359,9 +3612,9 @@ In the process of integrating a tthe regional and international levels, Lao PDR 
 
 [[START OF PAGE 129]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 121
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 --Focus on the development of railway vertical and horizontal line networks, to enable basic connectivity with neighbouring countries and potential markets.
 
@@ -3375,7 +3628,7 @@ In the process of integrating a tthe regional and international levels, Lao PDR 
 
 ###### Transport Integration
 
-  Upgrade public works and the transportation sector to be the development spearhead for linkages within the country, and integration and linkages with the regional and international levels, by facilitating quick services and ensuring safety in creating conditions for investment, production, trade and tourism. Focus on improving and expanding infrastructure, as follows: i) roads: national avenues, linking roads from provinces to districts and villages; ASEAN main roads Nos. 3, 13 north, 13 south, Road No. 2, No. 8, No. 12, No. 16Band No. 9; ii) railways:Boten-Vientiane Capital, Vientiane Capital-Thakhaek-Muya,  Thakhaek-Savannakhet-ChampasackNongNokkhien and Champasack-Vangtao; iii) water transportation: improve the waterway from the border of Lao PDR-China-Myanmar to Houayxai, improve services of Huang-anh Ports to facilitate Lao import and export of goods with reasonable prices; iv) air transportation: improve and upgrade domestic and international airports to meet international standards, expand flying routes with countries in the region, create everything necessary for flight, such as quality personnel, flight radios and safe air traffic management; develop and expand standards for the logistics system in Laos.
+  Upgrade public works and the transportation sector to be the development spearhead for linkages within the country, and integration and linkages with the regional and international levels, by facilitating quick services and ensuring safety in creating conditions for investment, production, trade and tourism. Focus on improving and expanding infrastructure, as follows: i) roads: national avenues, linking roads from provinces to districts and villages; ASEAN main roads Nos. 3, 13 north, 13 south, Road No. 2, No. 8, No. 12, No. 16Band No. 9; ii) railways:Boten-Vientiane Capital, Vientiane Capital-Thakhaek-Muya,  Thakhaek-Savannakhet-Champasack-NongNokkhien and Champasack-Vangtao; iii) water transportation: improve the waterway from the border of Lao PDR-China-Myanmar to Houayxai, improve services of Huang-anh Ports to facilitate Lao import and export of goods with reasonable prices; iv) air transportation: improve and upgrade domestic and international airports to meet international standards, expand flying routes with countries in the region, create everything necessary for flight, such as quality personnel, flight radios and safe air traffic management; develop and expand standards for the logistics system in Laos.
 
 ###### Energy Integration
 
@@ -3385,9 +3638,9 @@ In the process of integrating a tthe regional and international levels, Lao PDR 
 
 [[START OF PAGE 130]]
 
-122
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+122
 
 environmentally friendly energy in association with the protection of forests and water sources; continue mining surveyed that indicate high volume of mines. Expand electricity coverage to rural remote and hard-to-access areas, leading to at least 90 percentof the total number of families in the country having access to electricity by 2020; develop projects to export energy to foreign countries - three projects are under construction with a total power installation of 3,428 MW: Hongsa Lignite Thermal Power Project (1,878MW), Xayyaboury hydro project (1,260MW) and Xe Khaman1 hydro project (290 MW). At the same time, in the next five years, strive for project development agreement (PDA) and concession agreement (CA) contracts to start the construction of 24 projects, expand the electricity sector by an average of 32 percent per year, reduce the negative balance of electricity export and import by limiting electricity imports to no more than 20 percent of the country's usage by 2020.
 
@@ -3405,9 +3658,9 @@ environmentally friendly energy in association with the protection of forests an
 
 [[START OF PAGE 131]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 123
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 ###### Integration of Information, Communications and Technology (ICT)
 
@@ -3445,9 +3698,9 @@ environmentally friendly energy in association with the protection of forests an
 
 [[START OF PAGE 132]]
 
-124
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+124
 
   Conduct a study and develop a master plan for rural electricity and construction of small hydropower plants in areas where it is possible, and solar power or diesel power generation in remote areas where hydropower is not possible.
 
@@ -3483,9 +3736,9 @@ environmentally friendly energy in association with the protection of forests an
 
 [[START OF PAGE 133]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 125
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 income-generating activities for poor and vulnerable rural households through an integrated approach; continue putting efforts into clearing the UXOs from development territories, tourist sites, and agricultural production, livestock raising and residential areas. In parallel, pay attention to carrying out treatment, health rehabilitation and assistance for UXO victims.
 
@@ -3531,9 +3784,9 @@ income-generating activities for poor and vulnerable rural households through an
 
 [[START OF PAGE 134]]
 
-126
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+126
 
 counteract social drawbacks appearing in various villages and districts to secure the grass-root areas, to return the good social order and makethe people enthusiastic to contribute to the development. Solve the people's poverty and improve the people's living standards, bringing them step by step to better conditions.
 
@@ -3543,7 +3796,7 @@ counteract social drawbacks appearing in various villages and districts to secur
 
 --Allocate residential housing for the people, particularly in the villages that have no production area. Design and plan villages well and enforce planning implementation, consisting of a village administration office (village office), village hall and village information centre, etc. Supply water for production by rural people for two seasons, aiming to support food supply and production objectives as well as commercial goods generation linked to the agro-irrigation development programmes. Prepare to cope with climate/weather changes and reduce the damage caused by natural disasters.
 
---While Sam Sang future orientations stress the need to 'agglomerate big villages'and 'resettle the people by allocating new places to stay' , there is a need to be very careful as this could have a negative impact on the socio-economic and nutritional status of the population displaced.
+--While Sam Sang future orientations stress the need to “agglomerate big villages”and “resettle the people by allocating new places to stay”, there is a need to be very careful as this could have a negative impact on the socio-economic and nutritional status of the population displaced.
 
 --Promote the intellectual economy and subsequent production of diversified commercial goods.
 
@@ -3563,9 +3816,9 @@ counteract social drawbacks appearing in various villages and districts to secur
 
 [[START OF PAGE 135]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 127
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 ###### Implementing Policies and Legal Instruments
 
@@ -3599,9 +3852,9 @@ Ensuring food security with adequate nutrition and safety for consumers' health 
 
 [[START OF PAGE 136]]
 
-128
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+128
 
 --Agriculture productivity is lifted.
 
@@ -3643,9 +3896,9 @@ To accomplish food security targets, there is a requirement for sustainable and 
 
 [[START OF PAGE 137]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 129
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 --Build rice storage/warehouses to ensure food security in anticipated events of natural disaster, food crisis, etc.
 
@@ -3675,11 +3928,11 @@ To accomplish food security targets, there is a requirement for sustainable and 
 
 [[START OF PAGE 138]]
 
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+
 130
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
-- production costs and ensure products are in line with market demand and enable regularly and timely production.
+production costs and ensure products are in line with market demand and enable regularly and timely production.
 
 --Establish a risk reduction fund to help alleviate the burdens of production costs for the farmers during agricultural product price fluctuations, thus helping to create price competitiveness with foreign producers.
 
@@ -3705,11 +3958,11 @@ To accomplish food security targets, there is a requirement for sustainable and 
 
 [[START OF PAGE 139]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 131
 
-- and that supports future national development and enhances capacity to integrate and compete at the regional and international levels.
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+
+and that supports future national development and enhances capacity to integrate and compete at the regional and international levels.
 
 --Develop capacity for athletes and gymnasts to become professional and meet the regional and international standards step by step; encourage all people in society to play sports and do gymnastics, especially young people, women and seniors; promote and develop sports of indigenous groups and make them national sports as appropriate.
 
@@ -3751,9 +4004,9 @@ To accomplish food security targets, there is a requirement for sustainable and 
 
 [[START OF PAGE 140]]
 
-132
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+132
 
 ###### Policies and Legal Instruments
 
@@ -3797,9 +4050,9 @@ Expand and improve the quality of integrated public health services to ensure ac
 
 [[START OF PAGE 141]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 133
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 ###### Priority Activities and Projects
 
@@ -3845,9 +4098,9 @@ Establish and improve a social insurance system and expand its coverage widely a
 
 [[START OF PAGE 142]]
 
-134
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+134
 
 ###### Priority Activities
 
@@ -3879,7 +4132,7 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 --Establish cultural families to comprise 80 percent of all families in the country, cultural villages to comprise 65 percentof all villages in the country and cultural cluster villages to comprise 16 percent of all villages in the country.
 
---Restore, preserve and promote the uniqueness of cultural heritage, both physical and nonphysical items.
+--Restore, preserve and promote the uniqueness of cultural heritage, both physical and non-physical items.
 
 --Upgrade provincial cultural heritage, history and nature to be national heritage.
 
@@ -3891,9 +4144,9 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 [[START OF PAGE 143]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 135
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 ###### Priority Activities and Projects
 
@@ -3919,7 +4172,7 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 ###### Direction
 
---Enhance  and  increase  the  awareness  of  ethnic  peoples  to  understand  the  Party's  and Government's policy directions deeply; widen and enhance democracy strictly according to the centralization principle, strengthen the political foundation by providing training on political thinking and regulations set by the Party-Government. Enhance the creativity of students and scholars, and army and police officers, to be able to contribute to the democratic government with peace, independence and prosperity. Enhance the historical leadership of the PartyGovernment to be able to apply to the current situation science and democracy. Take ownership in the integration and cooperation with foreign countries in accordance with the foreign affairs directions of the Party-Government.
+--Enhance  and  increase  the  awareness  of  ethnic  peoples  to  understand  the  Party's  and Government's policy directions deeply; widen and enhance democracy strictly according to the centralization principle, strengthen the political foundation by providing training on political thinking and regulations set by the Party-Government. Enhance the creativity of students and scholars, and army and police officers, to be able to contribute to the democratic government with peace, independence and prosperity. Enhance the historical leadership of the Party-Government to be able to apply to the current situation science and democracy. Take ownership in the integration and cooperation with foreign countries in accordance with the foreign affairs directions of the Party-Government.
 
 --Strengthen national defence and public security by promoting each individual to take the initiative in protecting public security and keeping society in order, creating trust and safety in the livelihood of people and in business and tourism; ensure socio-economic development is carried out consistently and achieves high results.
 
@@ -3927,9 +4180,9 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 [[START OF PAGE 144]]
 
-136
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+136
 
 ###### Priority Activities and Projects
 
@@ -3945,7 +4198,7 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 --Suppress and fight against social threats impeding national protection and development, including human trafficking, which is a serious political and transnational issue. It is important to prevent and protect ethnic Lao people from human trafficking; protect people's rights and interests overall but especially protect the victims of human trafficking to protect the political role  and  honour  of  Lao  PDR;  implement  the  Party's  policies  and  Government's  laws  and regulations to achieve concrete results.
 
---Increase public advocacy and dissemination of legislation, regulations, laws and the PartyGovernment's policies, especially to people in rural areas, with various approaches to increase participation in the development process, and ensure strict adherence to laws and regulations to deter social problems, such as corruption, burglary, human trafficking, prostitution and drug use in urban and rural areas.
+--Increase public advocacy and dissemination of legislation, regulations, laws and the Party-Government's policies, especially to people in rural areas, with various approaches to increase participation in the development process, and ensure strict adherence to laws and regulations to deter social problems, such as corruption, burglary, human trafficking, prostitution and drug use in urban and rural areas.
 
 ###### Targets
 
@@ -3969,9 +4222,9 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 [[START OF PAGE 145]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 137
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 --Cooperate with international organizations and NGOs bilaterally and multilaterally to prevent, suppress and counter human trafficking.
 
@@ -4021,9 +4274,9 @@ To protect and preserve the historical and cultural heritages of the nation so t
 
 [[START OF PAGE 146]]
 
-138
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+138
 
 ### 6.6 OUTCOME 3 OUTPUTS
 
@@ -4061,9 +4314,9 @@ To ensure continued quality, green and sustainable economic growth, development 
 
 [[START OF PAGE 147]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 139
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 ###### Forest Resources and Biodiversity Management
 
@@ -4101,9 +4354,9 @@ To ensure continued quality, green and sustainable economic growth, development 
 
 [[START OF PAGE 148]]
 
-140
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+140
 
 --Promote green and sustainable rural development by establishing a system for management and reduction of waste, chemicals and toxic and hazardous substances, as well as integrated waste water treatment in the municipal districts of the provinces and Vientiane Capital.
 
@@ -4143,9 +4396,9 @@ To ensure continued quality, green and sustainable economic growth, development 
 
 [[START OF PAGE 149]]
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
-
 141
+
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
 --Improve  information  systems  on  environmental  costs  and  incentives  to  businesses  and individuals to pursue green economy policies.
 
@@ -4183,9 +4436,9 @@ To ensure continued quality, green and sustainable economic growth, development 
 
 [[START OF PAGE 150]]
 
-142
+8th FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
 
-8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+142
 
 --Issue legislation and regulations to develop national natural parks and promote eco-tourism facilities in forests and biodiversity-rich areas.
 
@@ -4257,7 +4510,7 @@ Ensure public involvement to minimize GHG emissions, increase and enhance the ab
 
 --Establish mechanisms for managing, grouping and reducing the amount of waste by promoting four approaches (reduce, re-use, recycle and rehabilitation).
 
---Establish mechanisms for managing toxic chemicals and hazardous waste and wastewater treatment systems in cities and provincial municipalities and VientianeCapital.
+--Establish mechanisms for managing toxic chemicals and hazardous waste and wastewater treatment systems in cities and provincial municipalities and Vientiane Capital.
 
 --Establish  a  comprehensive  warning  system  (with  testing  equipment,  tools,  vehicles  and personnel with knowledge and skills to respond to an emergency in a timely manner).
 
@@ -4367,13 +4620,13 @@ To encourage sustainable development and stable and continued economic growth, r
 
 ### 6.7 PRIORITY CROSS-CUTTING OUTPUTS
 
-#### 6.7.1 Enhance Effectiveness ofthe Public Governance and Administration
+#### 6.7.1 Enhance Effectiveness of the Public Governance and Administration
 
 ##### 6.7.1.1 Improve the Structure of Government and Government Management and Administration
 
 ###### Direction
 
-Improve and simplify the structure of government and government management and administration at all levels logically and effectively. There is a need to identify the role and responsibilities of each type of organization based on clear standards and requirements in order to ensure appropriate staffing  in  each  ministry  and  other  central  government  agencies  that  will  focus  on  macromanagement; strengthen governance at local level and clearly divide the tasks between central and local levels, and among local administrative levels (provincial, district and village) followingthe 3-builds directive; improve the local government supporting structure at each administrative level to match the development demand and enable effective government policy application.
+Improve and simplify the structure of government and government management and administration at all levels logically and effectively. There is a need to identify the role and responsibilities of each type of organization based on clear standards and requirements in order to ensure appropriate staffing  in  each  ministry  and  other  central  government  agencies  that  will  focus  on  macro-management; strengthen governance at local level and clearly divide the tasks between central and local levels, and among local administrative levels (provincial, district and village) following the 3-builds directive; improve the local government supporting structure at each administrative level to match the development demand and enable effective government policy application.
 
 ###### Targets
 
@@ -4431,7 +4684,7 @@ Improved policies and legislation to serve the society more systematically by im
 
 ###### Direction
 
-Improve the staff administration and management system to be more comprehensive and stronger, especially to ensure that the staff recruitment meet the predefined terms of reference in order to raise the effectiveness of the public governance and social management; focus on developing and building government officials in all fields of work with knowledge and capacity comparable to regional and international countries; develop and improve the training curriculum as necessary to upgrade the government officials on a regular and continuous basis; develop a system of universal civil registration of births, deaths and other vital events that allows people to access several basic activities such as health and education, recourse to justice, nationality, property ownership, formal employment, inheritance, and so on to ensure their access to these types of public services. In addition, it is crucial to produce accurate, complete and timely vital statistics (including cause of death) based on registration records and to disseminate them.
+Improve the staff administration and management system to be more comprehensive and stronger, especially to ensure that the staff recruitment meet the predefined terms of reference in order to raise the effectiveness of the public governance and social management; focus on developing and building government officials in all fields of work with knowledge and capacity comparable to
 
 [[END OF PAGE 155]]
 
@@ -4440,6 +4693,8 @@ Improve the staff administration and management system to be more comprehensive 
 148
 
 8 th  FIVE-YEAR NATIONAL SOCIO-ECONOMIC DEVELOPMENT PLAN (2016-2020)
+
+regional and international countries; develop and improve the training curriculum as necessary to upgrade the government officials on a regular and continuous basis; develop a system of universal civil registration of births, deaths and other vital events that allows people to access several basic activities such as health and education, recourse to justice, nationality, property ownership, formal employment, inheritance, and so on to ensure their access to these types of public services. In addition, it is crucial to produce accurate, complete and timely vital statistics (including cause of death) based on registration records and to disseminate them.
 
 ###### Targets
 
@@ -4505,7 +4760,7 @@ Strengthen legal institutions, including personnel, and ensure comprehensive dev
 
 --Enhance the role of the court council and notary office to ensure their better performance in line with the government direction.
 
---Improve legislation in the area of justice based on the Constitution and international treaties of whichLao PDR is a party, such as the creation and maintenance of the civil law system, criminal law and economic law, legislation on education, health, socio-culture, tourism and science and technology; improve the legal system to protect the citizens and fully exercise their rights, freedom and democracy; create a feedback mechanism toward any action or individuals that misuse the laws; increase public awareness, including of ethnic groups and regardless of gender and age, to increase respect and obedience with the laws and regulations, which will contribute in higher effectiveness of the laws.
+--Improve legislation in the area of justice based on the Constitution and international treaties of which Lao PDR is a party, such as the creation and maintenance of the civil law system, criminal law and economic law, legislation on education, health, socio-culture, tourism and science and technology; improve the legal system to protect the citizens and fully exercise their rights, freedom and democracy; create a feedback mechanism toward any action or individuals that misuse the laws; increase public awareness, including of ethnic groups and regardless of gender and age, to increase respect and obedience with the laws and regulations, which will contribute in higher effectiveness of the laws.
 
 --Develop the court system to ensure that judgments at each level are in line with the court's role and responsibilities, aiming at fast, comprehensive, sufficient and practical resolution of conflicts/ disputes.
 
@@ -4519,7 +4774,7 @@ Strengthen legal institutions, including personnel, and ensure comprehensive dev
 
 --Develop and enhance the skills of concerned officials by raising awareness and ethics for better protection of the people's interests and create trust in the society.
 
---Organize, monitor and evaluate the implementation of laws in each period, such as anticorruption law, budget law, investment law and others.
+--Organize, monitor and evaluate the implementation of laws in each period, such as anti-corruption law, budget law, investment law and others.
 
 ###### Policies and Legal Instruments
 
@@ -4617,9 +4872,9 @@ Develop and improve science and technology as a potential sector for contributin
 
 --Complete installation of the management and services system on the national internet service code (.la) before 2016.
 
---Establish learning centres on the application of technology, communications and information in at least two centres at village group level and two centres at district level by 2020, by focusing the target areas under the 3-builds directive to be training centres for the Government and the general populationon ICT.
+--Establish learning centres on the application of technology, communications and information in at least two centres at village group level and two centres at district level by 2020, by focusing the target areas under the 3-builds directive to be training centres for the Government and the general population on ICT.
 
---Increase the computer literacy rate to 30 percent and internet literacy rate to 40 percent of the population, the proportionof households with computer literacy to 20 percent of all households, the  proportion  of  registered  landline  and  wireless  home  phone  users  to  15  percent,  the proportion of registered mobile phone users to 100 percent, and the proportion of registered landline and wireless internet users to 20 percent of the total population, by 2020.
+--Increase the computer literacy rate to 30 percent and internet literacy rate to 40 percent of the population, the proportion of households with computer literacy to 20 percent of all households, the  proportion  of  registered  landline  and  wireless  home  phone  users  to  15  percent,  the proportion of registered mobile phone users to 100 percent, and the proportion of registered landline and wireless internet users to 20 percent of the total population, by 2020.
 
 --Expand the fibre optic transmission network, both aerial and underground, by 10,000 km to reach the Vientiane Capital and municipal districts of each province across the country as part of the infrastructure system to support e-governance.
 
@@ -4875,7 +5130,7 @@ Reduce discrimination and violence against children by protecting and assisting 
 
 --Build capacity to apply a disciplinary system to prevent and solve problems of violence against women and children in the 3-builds targeted villages and districts.
 
---Monitor and evaluate implementation of the National Women and Children Strategy (20162020), and national progress on prevention and elimination of violence against women and children in Lao PDR (2014-2020).
+--Monitor and evaluate implementation of the National Women and Children Strategy (2016-2020), and national progress on prevention and elimination of violence against women and children in Lao PDR (2014-2020).
 
 [[END OF PAGE 165]]
 
@@ -4991,7 +5246,7 @@ Develop Lao ethnic young people and juveniles to be the nation's future and the 
 
 --Develop and/or strengthen legislation and policies to protect the rights and interests of young people and juveniles by ensuring their participation in the development process as well as the implementation and monitoring of relevant legislation and policies.
 
---Further lead the implementation of the strategy on developing young people and juveniles in association with the socio-economic development plan, the strategy on developing each region and young peoples'and juveniles' requirements.
+--Further lead the implementation of the strategy on developing young people and juveniles in association with the socio-economic development plan, the strategy on developing each region and young peoples' and juveniles' requirements.
 
 --In the Lao People's Revolutionary Youth Union at each level, each young person and juvenile must promote independence, ownership, self-reliance and self-strengthening, actively contribute to  development  at  the  grass-roots  level;  the  implementation  should  be  associated  with supporting competitive slogans set by the Lao People's Revolutionary Youth Union to make it widespread at grass-roots level with focus and a pilot area and must have clear success with effectiveness.
 
@@ -5045,7 +5300,7 @@ Develop Lao ethnic young people and juveniles to be the nation's future and the 
 
 · Promote economic development, focusing on quality rather than quantity by increasing productivity, investment and efficient use of resources while promoting the use of innovation and modern science and technology that are environmental and social friendly.
 
-· Create supporting factors for achieving the development plan, including capital, technology and science, information, human resources, enterprises and the labourforce.
+· Create supporting factors for achieving the development plan, including capital, technology and science, information, human resources, enterprises and the labour force.
 
 · Pay attention to macro-balance, including balance on investment, growth and macroeconomic stability, economic development and environmental protection, investment and labour supply and demand, expenditure and savings, and so on.
 
@@ -5125,7 +5380,7 @@ With all stakeholders' participation in mobilizing sources of investment:
 
 · Continue to improve revenue collection mechanisms to be more comprehensive and accurate; collect information and comprehensively register the business units as required; and address budget leakage, in particular that caused by exemption or reduction or deduction in the revenue account that was not legal and compliant with regulations. Any legislation that is not consistent and comprehensive shall be exposed, revised and updated in a timely manner.
 
-· Improve the tax and treasury system tailored to the actual situation by centralized steering and a clearly decentralized administration role for harmonized implementation; improve the revenueexpenditure management mechanism and tools in each sector and province to be more strict and efficient.
+· Improve the tax and treasury system tailored to the actual situation by centralized steering and a clearly decentralized administration role for harmonized implementation; improve the revenue-expenditure management mechanism and tools in each sector and province to be more strict and efficient.
 
 · Ensure that expenditure management is in line with the financial plan that is approved by the National Assembly, use the budget to maximum efficiency. Recurrent costs shall be planned in detail and inspected systematically.
 
@@ -5143,7 +5398,7 @@ With all stakeholders' participation in mobilizing sources of investment:
 
 · Promote and diversify commercial production and services to reduce natural resource dependency:
 
---Encourage investment in commercial production in the non-resource sector, such as agroprocessing, food processing industries, house supplies, hand-woven textiles and so on, to be a foundation for strong economic growth. In parallel, it is important to promote businesses related to mining, forest resource (wood) utilization, export of processed minerals to create value addition in the ecosystem, and to improve resource exploitation areas and restore them to functioning while avoiding social and environmental impacts.
+--Encourage investment in commercial production in the non-resource sector, such as agro-processing, food processing industries, house supplies, hand-woven textiles and so on, to be a foundation for strong economic growth. In parallel, it is important to promote businesses related to mining, forest resource (wood) utilization, export of processed minerals to create value addition in the ecosystem, and to improve resource exploitation areas and restore them to functioning while avoiding social and environmental impacts.
 
 --Develop services of clean, beautiful and eco-tourism in parallel with the improvement of services in accommodation, restaurants, tourist sites and tour services with upgraded quality; promote diversified production of handicraft and art works to supply the tourist demand and create income for the people and the nation.
 
@@ -5225,7 +5480,7 @@ With all stakeholders' participation in mobilizing sources of investment:
 
 · The Ministers and the Provincial Governors will ensure achievement of the overall objectives of the NSEDP with concrete outcomes. The Capital Governor shall raise responsibility clearly by following 3-builds-oriented management mechanisms from the central level to the grass-roots levels to facilitate the successful and effective implementation of the plan.
 
-· Ministries and authorities at the central and local levels shall translate the 8 th  Five-Year Plan (20162020) into the actual action plans of sectors and provinces; the grass-roots levels also play a role in macro-management by translating the targets and priority tasks into details that are in line with their roles and ensuring alignment between programmes, budget and human resources plans.
+· Ministries and authorities at the central and local levels shall translate the 8 th  Five-Year Plan (2016–2020) into the actual action plans of sectors and provinces; the grass-roots levels also play a role in macro-management by translating the targets and priority tasks into details that are in line with their roles and ensuring alignment between programmes, budget and human resources plans.
 
 · Advertise and disseminate Party Congress Resolution X, the 8 th NSEDP (2016-2020), the policies of the Party and the Government, as well as legislation, to officers, the military and police, students, the intelligentsia, Lao citizens, and domestic and foreign businesses, to ensure they are well aware and knowledgable about the content of these documents in order to effectively implement them with concrete results.
 
@@ -5241,7 +5496,7 @@ With all stakeholders' participation in mobilizing sources of investment:
 
 In order to adequately monitor and evaluate progress of the 8 th  NSEDP, including MDG (and SDG) achievements, the development of a monitoring and evaluation (M&E) framework is considered crucial. The Ministry of Planning and Investment (MPI) took the lead to develop a 7 th  NSEDP M&E framework and, building on this, the Department of Planning (DoP)/MPI developed an M&E framework for the 8 th  NSEDP that reflects the outcome-based structure of the 8 th  NSEDP.
 
-The 8 th  NSEDP M&E framework has been developed taking into account: (i) the requirements of the longterm strategies for national development (2025 and 2030); (ii) the requirements of the draft manual on the preparation of socio-economicdevelopment plans and the way in which M&E is included in the planning process; (iii) DoP comments on early drafts of the 8 th NSEDP structure and content; and (iv) the requirements of the Statistics Law and the Strategy for National Statistical System Development.
+The 8 th  NSEDP M&E framework has been developed taking into account: (i) the requirements of the long-term strategies for national development (2025 and 2030); (ii) the requirements of the draft manual on the preparation of socio-economic development plans and the way in which M&E is included in the planning process; (iii) DoP comments on early drafts of the 8 th NSEDP structure and content; and (iv) the requirements of the Statistics Law and the Strategy for National Statistical System Development.
 
 [[END OF PAGE 177]]
 
@@ -5319,7 +5574,7 @@ The NSEDP M&E process is renewable every five years with updates of Outcome indi
 
 The NSEDP M&E system will also be sustainable if there is a demand for it and, as noted above, there are stakeholders who are becoming more and more engaged and demand for accountability is likely to increase. There must be confidence in the M&E system in that the results must be credible and trustworthy.
 
-The NSEDP M&E system itself will only be sustainable if the roles and responsibilities of those concerned with the operation and maintenance of the system are clear. It is proposed that DoP/MPI has the lead role at NSEDP level, with sectors providing the sector Output performance information thatleads to the NSEDP-level M&E. LSB provides a supporting role at NSEDP level and sector level (and at all government levels). It is acknowledged that the capacity of all the agencies at all levels of government that have a role in sector-level NSEDP M&E is weak in places; therefore, a training needs analysis is recommended for NSEDP M&E, with a training programme in mid- to late- 2015 to create readiness for implementation of M&E of the 8 th  NSEDP.
+The NSEDP M&E system itself will only be sustainable if the roles and responsibilities of those concerned with the operation and maintenance of the system are clear. It is proposed that DoP/MPI has the lead role at NSEDP level, with sectors providing the sector Output performance information that leads to the NSEDP-level M&E. LSB provides a supporting role at NSEDP level and sector level (and at all government levels). It is acknowledged that the capacity of all the agencies at all levels of government that have a role in sector-level NSEDP M&E is weak in places; therefore, a training needs analysis is recommended for NSEDP M&E, with a training programme in mid- to late- 2015 to create readiness for implementation of M&E of the 8 th  NSEDP.
 
 Ministry of Planning and Investment
 
@@ -5339,25 +5594,33 @@ Ministry of Planning and Investment
 
 174
 
-# Annex 1: 8 Th  NSEDP Logical Framework
+# Annex 1: 8Th NSEDP Logical Framework
 
-## 8 Th  NSEDP - Monitoring and Evaluation Framework
+## 8Th NSEDP – Monitoring and Evaluation Framework
 
-Target | > 7.5 | 2,520 | <5 | <2% | 187,885.0 | 65,071.0 | 3,190.0 | 4.0 | 62.0 | 3-5 | 18-20 | 16-17 | Y Y | 23-25
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | Annual NSEDP & LSB report | Annual NSEDP | LSB | Labor Survey 2010 | Annual NSEDP | & LSB report Annual NSEDP | & LSB report | Annual NSEDP & LSB report | WB survey | WB survey | Annual NSEDP & MOF report | Annual NSEDP & MOF report | Annual NSEDP & MOF report | Annual NSEDP & MOF report | Annual NSEDP & MOF report
-Baseline year | FY2014-2015 | FY2014-2015 | FY2014-2015 | 2010 | FY2014-2015 | FY2014-2015 | FY2014-2015 | 2015 | 2015 | FY2014-2015 | FY2014-2015 | FY2014-2015 | FY2014-2015 | FY2014-2015
-Baseline data | 7.5 | 1,557.0 | 1.68 | 1.9% (male 1.8%, female 2.0%) | 102,320 | 45,248 | 1,970 | 6.0 | 72.0 | 4.7 | 24.6 | 18.9 | 118,639.0 | 29.3
-Comments | Green growth indicator 2 | LDC graduation factor | LDC graduation | factor | LDC graduation factor | Green growth indicator 1 See Outcome 2, | Output 1
-Means of verification Responsible Ministry /Agency growth strong economic | LSB | LSB | LSB | All line ministries / MPI | MoSLW | MOF / MPI | MOF / MPI | MOF / MPI | LSB/MPI | data MOIC/ MPI | MOIC/ MPI | MOF / BOL | MOF / BOL | MOF / BOL | MOF / BOL | MOF / BOL | MOF / BOL
-achieved, economic vulnerability reduced | National Accounts | National Accounts | Admin.data | Review of projects/NA records | Survey/census | National Accounts | National Accounts | National Accounts | National Accounts | Project | Project data | Admin.data | Admin.data | Admin.data | Admin.data | Admin.data | Admin.data
-Measuring Frequency firm and inclusive consolidated and | Annual | Annual | Annual | Annual | 5 yearly, plus annual projection | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual
-Disaggregated by: OUTCOME 1. Continued, foundations | National /province | National/province | National | National/ Sector | age/sex | National /province | National /province | National /province | Sector | National | National | National | National | National | National | National /sector | National /sector
-Unit | % | USD | % | % % % | % | Billion Kip | Billion Kip | USD kip | % | # | # | % | % | % | Billion Kip | Billion Kip | %
-Theme/group Performance Indicators | Real GDP Growth Rate | Gross National Income (GNI) per | capita Inflation Rate | 1 Percentage of investment projects deemed to require EIA/IEE/ESIA/SIA by MoNRE/DESIA that have been evaluated against social and environmental criteria: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects | Unemployment rate | inclusive economic growth GDP in nominal terms | GDP in constant or real terms | Nominal GDP per capita | Percentage of GDP attributable to natural resources | Share of poorest quintile in national consumption Total number of procedures required to start a | business Total number of days required to start a business | stability Budget deficit as percentage of GDP | Total budget revenue as percentage of GDP | Domestic budget revenue as percentage of GDP | Tax revenue | Total budget expenditure, amount | Total budget expenditure, percentage of GDP
-Outcome indicators | Sustained and | Sustained Economic Growth | Diversification away from resource sector | Inclusive growth | Ease of doing business | Macro-economic | Fiscal and monetary policies
-# | 1 | 2 | 3 | 4 | 5 | 1, Output 1 - | 6 | 7 | 8 | 9 | 10 | 11 | 1, Output 2 - 12 | 13 | 14 | 15 | 16 | 17
-Linked to SDGs* | 1 | 2 | Outcome | 3 | 4 | 5 | Outcome | 6 | 7 | 8 | 9 | 10
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | OUTCOME 1. Continued, firm and inclusive growth achieved, strong economic foundations consolidated and economic vulnerability reduced |  |  |  |  |  |  |  |  |  |  |
+| 1 | 1 | Outcome 1 indicators | Real GDP Growth Rate | % | National /province | Annual | National Accounts | LSB |  | 7.5 | FY2014-2015 | Annual NSEDP & LSB report | > 7.5 |
+|  | 2 |  | Gross National Income (GNI) per capita | USD | National/province | Annual | National Accounts | LSB |  | 1,557.0 | FY2014-2015 | Annual NSEDP | 2,520 |
+|  | 3 |  | Inflation Rate | % | National | Annual | Admin.data | LSB |  | 1.68 | FY2014-2015 | LSB | <5 |
+|  | 4 |  | Percentage of investment projects deemed to require EIA/IEE/ESIA/SIA by MoNRE/DESIA that have been evaluated against social and environmental criteria: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects | %; %; % | National/ Sector | Annual | Review of projects/NA records | All line ministries / MPI | Green growth indicator 2 |  |  |  |  |
+| 2 | 5 |  | Unemployment rate | % | age/sex | 5 yearly, plus annual projection | Survey/census | MoSLW |  | 1.9% (male 1.8%, female 2.0%) | 2010 | Labor Survey 2010 | <2% |
+|  |  |  | Outcome 1, Output 1 – Sustained and inclusive economic growth |  |  |  |  |  |  |  |  |  |  |
+| 3 | 6 | Sustained Economic Growth | GDP in nominal terms | Billion Kip | National /province | Annual | National Accounts | MOF / MPI | LDC graduation factor | 102,320 | FY2014-2015 | Annual NSEDP & LSB report | 187,885.0 |
+| 4 | 7 |  | GDP in constant or real terms | Billion Kip | National /province | Annual | National Accounts | MOF / MPI | LDC graduation factor | 45,248 | FY2014-2015 | Annual NSEDP & LSB report | 65,071.0 |
+|  | 8 |  | Nominal GDP per capita | USD / kip | National /province | Annual | National Accounts | MOF / MPI | LDC graduation factor | 1,970 | FY2014-2015 | Annual NSEDP & LSB report | 3,190.0 |
+| 5 | 9 | Diversification away from resource sector | Percentage of GDP attributable to natural resources | % | Sector | Annual | National Accounts | LSB/MPI | Green growth indicator 1 |  |  |  |  |
+|  |  | Inclusive growth | Share of poorest quintile in national consumption |  |  |  |  |  | See Outcome 2, Output 1 |  |  |  |  |
+|  | 10 | Ease of doing business | Total number of procedures required to start a business | # | National | Annual | Project data | MOIC/ MPI |  | 6.0 | 2015 | WB survey | 4.0 |
+|  | 11 |  | Total number of days required to start a business | # | National | Annual | Project data | MOIC/ MPI |  | 72.0 | 2015 | WB survey | 62.0 |
+|  |  |  | Outcome 1, Output 2 – Macro-economic stability |  |  |  |  |  |  |  |  |  |  |
+|  | 12 | Fiscal and monetary policies | Budget deficit as percentage of GDP | % | National | Annual | Admin.data | MOF / BOL |  | 4.7 | FY2014-2015 | Annual NSEDP & MOF report | 3-5 |
+| 6 | 13 |  | Total budget revenue as percentage of GDP | % | National | Annual | Admin.data | MOF / BOL |  | 24.6 | FY2014-2015 | Annual NSEDP & MOF report | 18-20 |
+| 7 | 14 |  | Domestic budget revenue as percentage of GDP | % | National | Annual | Admin.data | MOF / BOL |  | 18.9 | FY2014-2015 | Annual NSEDP & MOF report | 16-17 |
+| 8 | 15 |  | Tax revenue | Billion Kip | National | Annual | Admin.data | MOF / BOL |  |  |  |  | Y |
+| 9 | 16 |  | Total budget expenditure, amount | Billion Kip | National /sector | Annual | Admin.data | MOF / BOL |  | 118,639.0 | FY2014-2015 | Annual NSEDP & MOF report | Y |
+| 10 | 17 |  | Total budget expenditure, percentage of GDP | % | National /sector | Annual | Admin.data | MOF / BOL |  | 29.3 | FY2014-2015 | Annual NSEDP & MOF report | 23-25 |
 
 [[END OF PAGE 182]]
 
@@ -5365,19 +5628,30 @@ Linked to SDGs* | 1 | 2 | Outcome | 3 | 4 | 5 | Outcome | 6 | 7 | 8 | 9 | 10
 
 175
 
-Target | 45 | ± 5% | ≥ 5 | 6,281.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline year Baseline data source | FY2014-2015 | FY2014-2015 | FY2014-2015 | FY2014-2015 | 2015 MOIC Annual | Report | 2014-2015 MPI 2014-2015 | MPI 2015 MPI | 2015 MPI
-Baseline data 8123.15 0% | ≥ 5 | 15,611.0 | 5,462.0 | 5.24 660 | 43.6 | 22.26
-Responsible Ministry /Agency Comments Outcome 1 indicator | MOF MoF / BoL | MoF / BOL | MOF / BOL | MPI (IPD) | MPI (IPD) MoIC | MPI | budgeting All line ministries / | MPI Green growth indicator 2 and Outcome 1 indicator | All line ministries / MPI | All line ministries / MPI | MPI (DoP) | MPI / MOF / BOL MPI / MOF / BOL | MPI / MOF / BOL | MPI / MOF / BOL | MOF, MPI (DIC) | MOF, MPI (DIC) | MOF, MPI (DIC)
-Means of verification | Admin.data | Admin.data | Admin.data Admin.data | Admin.data | Admin.data MoIC database and sample surveys | Admin.data development planning and | Review of projects/NA records | Review of projects/NA records | Review of projects/NA records | Admin.data | Admin.data Admin.data | Admin.data Admin.data | Admin.data | Admin.data | Admin.data
-Measuring Frequency Annual | Annual | Annual | Annual Annual | Annual Annual | Annual 3 | - Integrated Annual | Annual | Annual | Annual | Annual Annual | Annual Annual | Annual | Annual | Annual
-Disaggregated by: National /sector | National | National | National National/ Sector | National/ Sector National/ Sector | National/ Sector | Outcome 1, Output | National/ Sector | National/ Sector | National/ Sector | National/ Sector | National/ Sector loan/grant/ sector | domestic/foreign and sector Subsector | National/ donor/ sector | National/donor | National/donor
-Unit % % % | Kip % | months | % million USD | % Billion Kip | % | % | % % | % % | Trillion kip | % % | % % | % USD | % | %
-Performance Indicators Public sector wages as percentage of domestic • concessions Zone (SEZ) projects projects that have assessment: investment projects Zone (SEZ) projects | revenue Inflation Rate | Lao Kip exchange rate: · Kip / 1 USD · Difference from FY 2014/15 | Foreign Exchange Reserves in months of import coverage of goods and services | Present value of debt in percent of GDP Foreign direct investment, annual | and Foreign direct investment, annual growth Production value of processing industries | Total domestic investment annual growth rate | Percentage of public investment projects approved by | National Assembly that were subsequently implemented. Percentage of investment projects deemed to require EIA/IEE/ESIA/SIA by MoNRE/DESIA that have been evaluated against social and environmental criteria: • public infrastructure investment projects | Quality of investment • Special Economic Percentage of investment undergone a financial • public infrastructure • concessions • Special Economic | Percentage of investment projects that have undergone an economic assessment: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects | Total value of investment (public and private) made in the 8th NSEDP - of which: | Investment: levels, sources, Percentage of total investment financed by the Government budget Percentage of total investment financed by foreign loans and grants | Percentage of total investment financed by the private sector (domestic and foreign) Percentage of total investment in financial sector and | financial sector development Net official development assistance and official aid received from all sources | - As proportion of nominal GDP - In current USD | Net ODA received from OECD/DAC donors by Lao PDR as percentage of its nominal GDP | Proportion of bilateral ODA of OECD/DAC donors that is untied
-Fiscal | and monetary | 20 | 22 | Foreign domestic | 29 | 31 | Official Development | good donorship
-Theme/group policies investment types Assistance and
-Linked SDGs* # 18 | 19 | 21 | 23 24 | 25 | 26 | 27 | 28 | 30 | 32 | 33 | 34 | 35 | 36
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | 18 | Fiscal and monetary policies | Public sector wages as percentage of domestic revenue | % | National /sector | Annual | Admin.data | MOF |  |  | FY2014-2015 |  | 45 |
+|  |  |  | Inflation Rate |  |  |  |  |  | Outcome 1 indicator |  |  |  |  |
+|  | 19 |  | Lao Kip exchange rate: · Kip / 1 USD · Difference from FY 2014/15 | Kip; % | National | Annual | Admin.data | MoF / BoL |  | 8123.15; 0% | FY2014-2015 |  | ± 5% |
+|  | 20 |  | Foreign Exchange Reserves in months of import coverage of goods and services | months | National | Annual | Admin.data | MoF / BOL |  | ≥ 5 | FY2014-2015 |  | ≥ 5 |
+| 11 | 21 |  | Present value of debt in percent of GDP | % | National | Annual | Admin.data | MOF / BOL |  |  |  |  |  |
+| 12 | 22 | Foreign and domestic investment | Foreign direct investment, annual | million USD | National/ Sector | Annual | Admin.data | MPI (IPD) |  | 15,611.0 | FY2014-2015 |  |  |
+| 13 | 23 |  | Foreign direct investment, annual growth | % | National/ Sector | Annual | Admin.data | MPI (IPD) |  |  |  |  |  |
+|  | 24 |  | Production value of processing industries | Billion Kip | National/ Sector | Annual | MoIC database and sample surveys | MoIC |  | 5,462.0 | 2015 | MOIC Annual Report | 6,281.0 |
+|  | 25 |  | Total domestic investment annual growth rate | % | National/ Sector | Annual | Admin.data | MPI |  |  |  |  |  |
+|  |  |  | Outcome 1, Output 3 – Integrated development planning and budgeting |  |  |  |  |  |  |  |  |  |  |
+|  | 26 | Quality of investment | Percentage of public investment projects approved by National Assembly that were subsequently implemented. | % | National/ Sector | Annual | Review of projects/NA records | All line ministries / MPI |  |  |  |  |  |
+|  |  |  | Percentage of investment projects deemed to require EIA/IEE/ESIA/SIA by MoNRE/DESIA that have been evaluated against social and environmental criteria: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects |  |  |  |  |  | Green growth indicator 2 and Outcome 1 indicator |  |  |  |  |
+|  | 27 |  | Percentage of investment projects that have undergone a financial assessment: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects | %; %; % | National/ Sector | Annual | Review of projects/NA records | All line ministries / MPI |  |  |  |  |  |
+|  | 28 |  | Percentage of investment projects that have undergone an economic assessment: • public infrastructure investment projects • concessions • Special Economic Zone (SEZ) projects | %; %; % | National/ Sector | Annual | Review of projects/NA records | All line ministries / MPI |  |  |  |  |  |
+|  | 29 | Investment: levels, sources, types | Total value of investment (public and private) made in the 8th NSEDP - of which: | Trillion kip | National/ Sector | Annual | Admin.data | MPI (DoP) |  |  |  |  |  |
+|  | 30 |  | Percentage of total investment financed by the Government budget | % | National/ Sector | Annual | Admin.data | MPI / MOF / BOL |  |  |  |  |  |
+|  | 31 |  | Percentage of total investment financed by foreign loans and grants | % | loan/grant/ sector | Annual | Admin.data | MPI / MOF / BOL |  |  |  |  |  |
+|  | 32 |  | Percentage of total investment financed by the private sector (domestic and foreign) | % | domestic/foreign and sector | Annual | Admin.data | MPI / MOF / BOL |  |  |  |  |  |
+|  | 33 |  | Percentage of total investment in financial sector and financial sector development | % | Subsector | Annual | Admin.data | MPI / MOF / BOL |  |  |  |  |  |
+| 14 | 34 | Official Development Assistance and good donorship | Net official development assistance and official aid received from all sources: - As proportion of nominal GDP; - In current USD | %; USD | National/ donor/ sector | Annual | Admin.data | MOF, MPI (DIC) |  | 5.24; 660 | 2014-2015; 2014-2015 | MPI; MPI |  |
+|  | 35 |  | Net ODA received from OECD/DAC donors by Lao PDR as percentage of its nominal GDP | % | National/donor | Annual | Admin.data | MOF, MPI (DIC) |  | 43.6 | 2015 | MPI |  |
+|  | 36 |  | Proportion of bilateral ODA of OECD/DAC donors that is untied | % | National/donor | Annual | Admin.data | MOF, MPI (DIC) |  | 22.26 | 2015 | MPI |  |
 
 [[END OF PAGE 183]]
 
@@ -5385,20 +5659,31 @@ Linked SDGs* # 18 | 19 | 21 | 23 24 | 25 | 26 | 27 | 28 | 30 | 32 | 33 | 34 | 35
 
 176
 
-Target | 10.00% | 10.60% | 12.10% | 2,005.0 | 3,784.0 | 2,168.0 | <5% <10% | 4,470,000 | 716,193.0 | 12,500.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | Admin. Data | Admin. Data | Admin. Data | Admin. Data | Admin. Data Admin. Data | NCRDPE | NCRDPE | NCRDPE | Labor Survey | 2010 | Labor Survey 2010 | Labor Survey 2010 MOLSW Report in FY2015-2016 | MOLSW
-Baseline year | 2015 | 2015 | 2015 | 2016 2017 | 2018 | 2015 | 2015 | 2015 | 2010 | 2010 | 2010 2015 | 2015
-Baseline data | 9.60% | 11.50% | 12.60% | 1,231.0 2,147.0 | 1,505.0 | 6.6% | 20.5% | 84.5% | TOTAL: 3,021,212 | Total=84%, male=79% female=89% | Total=39%, male=45% female=33% 74,824 | TOTAL: 694 Female: 231 increased by 25% over previous year - Garment workers 156, Female: 80 - Mechanic 124 , Female: 0 - Carpenter 105, Female: 0 - Chef 98, Female 98. - Hairstylist 53, female: 53 | - Constructors 158, Female 0
-Comments | Outcome 2 indicator | Green growth | Outcome 1 indicator | Green growth indicator 4
-Responsible Ministry /Agency | MPI/ LSB | MPI/ LSB | MPI/ LSB | MPI/ LSB MPI/ LSB | MPI/ LSB | NCRDPE | NCRDPE | NCRDPE MPI/MoLSW | MPI/MoLSW MPI/MoLSW | MPI/MoLSW | MPI/MoLSW MOLSW / LSB | MOLSW | MPI/ MOIC
-Means of verification | National Accounts | National Accounts | National Accounts | National Accounts National Accounts | National Accounts | NCRDPE program data | NCRDPE program data | NCRD program data Survey/census | Survey/census Survey/census | Survey/census | Survey/census Survey/census | Admin.data | SME surveys
-Measuring Frequency | Annual | Annual | Annual | Annual Annual | Annual | Annual | Annual | Annual 5 yearly, plus | 5 yearly, plus annual projection 5 yearly, plus | annual projection | Five yearly | Five yearly 5 yearly, plus annual projection | Annual | Annual
-Disaggregated by: | Regional/ Province | Regional/ Province | Regional/ Province | Regional/ Province Regional/ Province | Regional/ Province | National/ Province/ rural-urban | National | Region/Province National/sector | National/ Sector National / sector/ | sex | Sector/sex | Sector/sex Sex /ethnic group/ location | Sector/sex | National
-Unit | % | % | % | Billion Kip Billion Kip | Billion Kip | % | % | % USD | % Number | % | % | % Number % | Number % | Number Number
-Theme/group Performance Indicators regional and local development | Regional GDP (constant) annual growth rate - | North - Central | - South Regional GDP per capita (nominal) | - North - Central | South | - Percentage of families defined as poor by NCRDPE | Percentage of villages defined as poor by NCRDPE Percentage of total population living below the | national poverty line, by region/province (poverty headcount rate) | Percentage of villages with all-weather road access public/private labor force capacity Labour productivity (GDP/per person employed): | Average annual growth rate of real GDP per person employed (growth of labour productivity) · Number of employed persons | · Percentage of working age population that are employed Unemployment rate | work Proportion of own-account and contributing family workers in total employment | Percentage of employed people who have education of secondary school and above New employment each year: - Number of new jobs a year | - Average annual growth in new jobs Graduates with degrees or professional certification in any of the following: agro-processing, tourism, construction/engineering, vehicle mechanics, business adminstration, and management: - Number - % increase over previous year | are competitive in domestic and global markets | Total number of locally owned SMEs Net increase/decrease in number of locally-owned enterprises
-Balanced | Balanced regional and local development | Improved Labour | agriculture & tourism | Employment | Vulnerable | Workforce capacity Employment opportunities | Professional certification for labour market | - Local entrepreneurs | Competitiveness of locally owned SMEs
-Linked to SDGs* # Outcome | 1, Output 4 - 37 | 38 | 15 39 | 16 40 | 17 41 Outcome 1, Output 5 - 18 42 | 19 43 20 44 | 21 45 | 46 47 | 48 | Outcome 1, Output 6 | 49 50
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | Outcome 1, Output 4 – Balanced regional and local development |  |  |  |  |  |  |  |  |  |  |
+|  | 37 | Balanced regional and local development | Regional GDP (constant) annual growth rate - North | % | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 9.60% | 2015 | Admin. Data | 10.00% |
+|  |  |  | - Central | % | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 11.50% | 2015 | Admin. Data | 10.60% |
+|  |  |  | - South | % | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 12.60% | 2015 | Admin. Data | 12.10% |
+|  | 38 |  | Regional GDP per capita (nominal) - North | Billion Kip | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 1,231.0 | 2016 | Admin. Data | 2,005.0 |
+|  |  |  | - Central | Billion Kip | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 2,147.0 | 2017 | Admin. Data | 3,784.0 |
+|  |  |  | - South | Billion Kip | Regional/ Province | Annual | National Accounts | MPI/ LSB |  | 1,505.0 | 2018 | Admin. Data | 2,168.0 |
+| 15 | 39 |  | Percentage of families defined as poor by NCRDPE | % | National/ Province/ rural-urban | Annual | NCRDPE program data | NCRDPE |  | 6.6% | 2015 | NCRDPE | <5% |
+| 16 | 40 |  | Percentage of villages defined as poor by NCRDPE | % | National | Annual | NCRDPE program data | NCRDPE |  | 20.5% | 2015 | NCRDPE | <10% |
+|  |  |  | Percentage of total population living below the national poverty line, by region/province (poverty headcount rate) |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+| 17 | 41 |  | Percentage of villages with all-weather road access | % | Region/Province | Annual | NCRD program data | NCRDPE |  | 84.5% | 2015 | NCRDPE |  |
+|  |  |  | Outcome 1, Output 5 – Improved public/private labor force capacity |  |  |  |  |  |  |  |  |  |  |
+| 18 | 42 | Labour Productivity, especially in agriculture & tourism | Labour productivity (GDP/per person employed): - Non-Resource sectors - Resource sectors | USD | National/sector | 5 yearly, plus annual projection | Survey/census | MPI/MoLSW | Green growth indicator 3 |  |  |  |  |
+| 19 | 43 |  | Average annual growth rate of real GDP per person employed (growth of labour productivity) | % | National/ Sector | 5 yearly, plus annual projection | Survey/census | MPI/MoLSW |  |  |  |  |  |
+| 20 | 44 | Employment | · Number of employed persons · Percentage of working age population that are employed | Number; % | National / sector/sex | 5 yearly, plus annual projection | Survey/census | MPI/MoLSW |  | TOTAL: 3,021,212 | 2010 | Labor Survey 2010 | 4,470,000 |
+|  |  |  | Unemployment rate |  |  |  |  |  | Outcome 1 indicator |  |  |  |  |
+| 21 | 45 | Vulnerable work | Proportion of own-account and contributing family workers in total employment | % | Sector/sex | Five yearly | Survey/census | MPI/MoLSW |  | Total=84%, male=79%, female=89% | 2010 | Labor Survey 2010 |  |
+|  | 46 | Workforce capacity | Percentage of employed people who have education of secondary school and above | % | Sector/sex | Five yearly | Survey/census | MPI/MoLSW |  | Total=39%, male=45%, female=33% | 2010 | Labor Survey 2010 |  |
+|  | 47 | Employment opportunities | New employment each year: - Number of new jobs a year - Average annual growth in new jobs | Number; % | Sex /ethnic group/ location | 5 yearly, plus annual projection | Survey/census | MOLSW / LSB |  | 74,824 | 2015 | MOLSW Report in FY2015-2016 | 716,193.0 |
+|  | 48 | Professional certification for labour market | Graduates with degrees or professional certification in any of the following: agro-processing, tourism, construction/engineering, vehicle mechanics, business adminstration, and management: - Number - % increase over previous year | Number; % | Sector/sex | Annual | Admin.data | MOLSW | Green growth indicator 4 | TOTAL: 694; Female: 231; increased by 25% over previous year; - Garment workers 156, Female: 80; - Mechanic 124, Female: 0; - Carpenter 105, Female: 0; - Chef 98, Female 98; - Hairstylist 53, female: 53; - Constructors 158, Female 0 | 2015 | MOLSW | 12,500.0 |
+|  |  |  | Outcome 1, Output 6 – Local entrepreneurs are competitive in domestic and global markets |  |  |  |  |  |  |  |  |  |  |
+|  | 49 | Competitiveness of locally owned SMEs | Total number of locally owned SMEs | Number | National | Annual | SME surveys | MPI/ MOIC |  |  |  |  |  |
+|  | 50 |  | Net increase/decrease in number of locally-owned enterprises | Number |  |  |  |  |  |  |  |  |  |
 
 [[END OF PAGE 184]]
 
@@ -5406,21 +5691,32 @@ Linked to SDGs* # Outcome | 1, Output 4 - 37 | 38 | 15 39 | 16 40 | 17 41 Outcom
 
 177
 
-Target | 3,933.0 | 5,000.0 | 40.0 | 17.0 | 200.0 | 89.0 | 98.0 | 98.0 99.0 | Y | Y | Y Y | Y
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | MOIC Annual Report | MOIC Annual Report | LSIS | LSIS | LSIS | Admin. Data | Admin. Data | Admin. Data Admin. Data | LSIS
-Baseline year | 2015 | 2015 | 2011 | 2011 | 2011 | 2015 | 2015 | 2015 2012 | 2012/13 | 2012/13 | 2012/13 2012/13 | 2012/13 | 2012/13 | 2012/13
-Baseline data | 3,420.0 | 4,348.0 | 79 | 27 | 357 | 76 | 91.3 | 94.4 89.1 | 23.2% | 7.2% | 5.5% 1.9 | 36.2 | TV=75.1% mobile phone=76% radio=19.6% motorbike=79.5% | 59.0%
-Comments | LDC graduation factor | LDC graduation factor | reduced, culture transparency | LDC indicator | LDC graduation factor | LDC graduation factor | See Outcome 1, Output 4 | See Outcome 1, Output 4 | Outcome 2 indicator
-Responsible Ministry /Agency | MOIC MOIC | MOIC | MOIC MOIC | poverty in all ethnic groups services, the unique Lao order, justice and | LSB/MoH | MoH/MPI-LSB | LSB/MPI | MoES | MoES | MoES MoES | LSB | LSB/MPI | LSB/MPI LSB/MPI | LSB/MPI | LSB/MPI | LSB/MPI
-Means of verification Survey | Admin.data | Admin.data | Admin.data workforce capacity upgraded, education and health with social peace and | Surveys (LSIS) | LSIS /nutrition surveys | survey (LSIS) | Admin.Data | Admin.Data | Admin.Data Surveys (LSIS) | Surveys (LECS) | Survey (LECS) | Survey (LECS) Survey (LECS) | Survey (LECS) | Survey (LECS) | Survey (LECS)
-Measuring Frequency | Annual Annual | Annual | Annual | Annual groups to quality political stability maintained | Five yearly | Five yearly | Five yearly | Annual | Annual | Annual 5 yearly plus annual projection | Five yearly | Five yearly | Five yearly Five yearly | Five yearly | 5 years | 5 years
-Disaggregated by: | National National | National | National National | resources developed, public/private female/male/all ethnic and developed, | National/ provincial/ sex | National/ | provincial/ sex National/ Province/ sex/ethnicity | National | National/ sex/ | province/ ethno-linguistic group | National/ sex/ province | National/ province/ ethnic group/ urban/rural/ women-headed households/ households with children<18 | National | National/province National/province | National | National/province/ urban/rural | National/province/ urban/rural
-Unit | USD USD | million $ | million $ % | OUTCOME 2. Human equal access by promoted, protected | per 1000 live births | per 1000 live births | % | Per 100,000 | live births % | % | % % | % | % | % Index | index | % | %
-Performance Indicators Regional and international cooperation and integration | Border cost related to importing one container (USD per container) Border cost relating to exporting one container (USD per container) | Trade in goods and services: | - Export value | - Import value Proportion of export value under preferential | treatment as LDC | Human Asset Index (HAI) | Under-five mortality rate | Prevalence of stunting among children under 5 years of age | Maternal mortality ratio | Completion rate, primary education | Completion rate, lower secondary education Completion rate, upper secondary education | Percentage of youth 15-24 years old achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex, by urban/rural, by wealth | Percentage of total population living below the national poverty line (poverty headcount rate) | standards through poverty reduction | Percentage of total population living below the | national poverty line (poverty headcount rate) Share of poorest quintile in national consumption Poverty gap ratio (% of poverty line) | Poverty severity index | Gini coefficient | Percentage of households with ownership of the following assets: - television - mobile phone - radio | - motor bike Percentage of houses with brick or concrete wall
-Theme/group Trade facilitation Outcome 2 indicators | Improved living Poverty | reduction | Inclusive growth Improved living standards & household welfare
-# 1, Output 7 - | 51 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 61 | 62 | 63 | Output 1 - | 64 65 | 66 67 | 68 | 69
-Linked to SDGs* Outcome 22 23 24 25 26 | Outcome 2, 27 | 28 | 29
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | Outcome 1, Output 7 – Regional and international cooperation and integration |  |  |  |  |  |  |  |  |  |  |
+|  | 51 | Trade facilitation | Border cost related to importing one container (USD per container) | USD | National | Annual | Survey | MOIC |  |  |  |  |  |
+|  | 52 |  | Border cost relating to exporting one container (USD per container) | USD | National | Annual |  | MOIC |  |  |  |  |  |
+| 22 | 53 |  | Trade in goods and services: - Export value; - Import value | million $; million $ | National | Annual | Admin.data | MOIC | LDC graduation factor | 3,420.0; 4,348.0 | 2015; 2015 | MOIC Annual Report; MOIC Annual Report | 3,933.0; 5,000.0 |
+|  | 54 |  | Proportion of export value under preferential treatment as LDC | % | National | Annual | Admin.data | MOIC |  |  |  |  |  |
+|  |  |  | OUTCOME 2. Human resources developed, public/private workforce capacity upgraded, poverty in all ethnic groups reduced, equal access by female/male/all ethnic groups to quality education and health services, the unique Lao culture promoted, protected and developed, political stability maintained with social peace and order, justice and transparency |  |  |  |  |  |  |  |  |  |  |
+|  | 55 | Outcome 2 indicators | Human Asset Index (HAI) | per 1000 live births | National/provincial/ sex |  |  |  | LDC indicator |  |  |  |  |
+| 23 | 56 |  | Under-five mortality rate | per 1000 live births | National/ provincial/ sex | Five yearly | Surveys (LSIS) | LSB/MoH | LDC graduation factor | 79 | 2011 | LSIS | 40.0 |
+| 24 | 57 |  | Prevalence of stunting among children under 5 years of age | % | National/ Province/ sex/ethnicity | Five yearly | LSIS /nutrition surveys | MoH/MPI-LSB |  | 27 | 2011 | LSIS | 17.0 |
+| 25 | 58 |  | Maternal mortality ratio | Per 100,000 live births | National | Five yearly | survey (LSIS) | LSB/MPI |  | 357 | 2011 | LSIS | 200.0 |
+|  | 59 |  | Completion rate, primary education | % | National/ sex/ province/ ethno-linguistic group | Annual | Admin.Data | MoES |  | 76 | 2015 | Admin. Data | 89.0 |
+|  | 60 |  | Completion rate, lower secondary education | % |  | Annual | Admin.Data | MoES |  | 91.3 | 2015 | Admin. Data | 98.0 |
+|  | 61 |  | Completion rate, upper secondary education | % |  | Annual | Admin.Data | MoES |  | 94.4 | 2015 | Admin. Data | 98.0 |
+|  | 62 |  | Percentage of youth 15-24 years old achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex, by urban/rural, by wealth | % | National/ sex/ province | 5 yearly plus annual projection | Surveys (LSIS) | MoES | LDC graduation factor | 89.1 | 2012 | Admin. Data | 99.0 |
+| 26 | 63 |  | Percentage of total population living below the national poverty line (poverty headcount rate) | % | National/ province/ethnic group/ urban/rural/ women-headed households/ households with children<18 | Five yearly | Surveys (LECS) | LSB |  | 23.2% | 2012/13 | LSIS | Y |
+|  |  |  | Outcome 2, Output 1 – Improved living standards through poverty reduction |  |  |  |  |  |  |  |  |  |  |
+| 27 |  | Poverty reduction | See Outcome 1, Output 4 |  |  |  |  |  | See Outcome 1, Output 4 |  |  |  |  |
+|  |  | Inclusive growth | Percentage of total population living below the national poverty line (poverty headcount rate) |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+| 28 | 64 |  | Share of poorest quintile in national consumption | % | National | Five yearly | Survey (LECS) | LSB/MPI |  | 7.2% | 2012/13 |  | Y |
+|  | 65 |  | Poverty gap ratio (% of poverty line) | % | National/province | Five yearly | Survey (LECS) | LSB/MPI |  | 5.5% | 2012/13 |  | Y |
+|  | 66 |  | Poverty severity index | Index | National/province | Five yearly | Survey (LECS) | LSB/MPI |  | 1.9 | 2012/13 |  | Y |
+|  | 67 |  | Gini coefficient | index | National | Five yearly | Survey (LECS) | LSB/MPI |  | 36.2 | 2012/13 |  | Y |
+|  | 68 | Improved living standards & household welfare | Percentage of households with ownership of the following assets: - television - mobile phone - radio - motor bike | % | National/province/ urban/rural | 5 years | Survey (LECS) | LSB/MPI |  | TV=75.1%; mobile phone=76%; radio=19.6%; motorbike=79.5% | 2012/13 |  |  |
+| 29 | 69 |  | Percentage of houses with brick or concrete wall | % | National/province/ urban/rural | 5 years | Survey (LECS) | LSB/MPI |  | 59.0% | 2012/13 |  |  |
 
 [[END OF PAGE 185]]
 
@@ -5428,20 +5724,26 @@ Linked to SDGs* Outcome 22 23 24 25 26 | Outcome 2, 27 | 28 | 29
 
 178
 
-Target | 5,238.0 | 124.0 <40 | 1,500.0 | 4.46 ton/ha 280 kg/per/yr | 4.46 | 280 | 34.0 | 5.0 | 55.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | NCRDPE NCRDPE | NCRDPE | NRA | NRA | NRA | NRA | MAF annual report | MAF annual report | MAF annual report | LSIS | LSIS
-Baseline year 2015 | 2015 | 2015 | 2015 | 2015 | 2014 | 2014 | 2015 | 2015 | 2015 | 2011 | 2011 | 2015
-Baseline data 31 0.37% | 257 3.03% | 266 3.44% | 987 | 0 | 45 | 562 | 4.3 | 330.0 | 20.1% | 38% | 6% | 43.2
-Responsible Ministry /Agency NCRDPE | NCRDPE | NCRDPE | NRA | NRA | NRA | NRA | MAF | MAF | LSB/ MoH | MoH/MPI-LSB | MoH/MPI-LSB | LSB/MoES
-Means of verification Program data | Program data | Program data | Program data | Program data | Program data | Program data | Admin.Data | Admin.Data | Survey (LECS) | LSIS /nutrition surveys | LSIS /nutrition surveys | Surveys Admin.data
-Measuring Frequency Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | 5 years | Five yearly | Five yearly | Five yearly/ Annual
-Disaggregated by: National/province | National/province | National/province | National /province | National | National /sex/age | National /sex/age | National | National | National/ Province/ sex/ethnicity | National/ Province/ sex/ethnicity | National/ Province/ sex/ethnicity | National/sex/ provincial/age
-Unit Number % | Number % | Number % | # | # | # | # | ton/ha kg/capita | ton/ha | % | % | % | %
-Performance Indicators Villages without primary school in the village or further than one hour's walking distance from any school: - Number | - Percentage of total villages Villages without health clinic and drug kits in the village, or further than two hours' walking distance from any health clinic/drug kit access: - Number - Percentage of total villages | Villages without a safe water source in or close to the village: - Number - Percentage of total villages | Number of villages in the 9 provinces where Non Technical Survey has been completed in accordance with the Lao PDR UXO survey procedures | Number of Focal Development Areas where Cluster Munitions Evidence-Based Technical Survey has been completed in accordance with the Lao PDR UXO | survey procedures Number of casualties reported as a result of UXO incidents | Number of UXO survivors having received medical assistance security and reduced incidences of malnutrition | Enhanced food production systems and agricultural productivity: | - Rice per hectare | - Rice In kilogram per capita | Percentage of population consuming less than the minimum dietary energy requirements of 2100 cal/ day/person (i.e., under the Food Poverty Line defined by the Government for that year) | Prevalence of stunting among children under 5 years of age | Prevalence of underweight among children under 5 years of age | Prevalence of wasting among children under 5 years of age | high quality education Percentage of preschool aged children attending ECD/ ECE/preschool programmes
-Theme/group Access to services and resources | UXO impact reduced Ensured food | Improved food security | Undernutrition/ malnourishment | Access to Access TO ECE
-# 70 | 71 | 72 | 73 | 74 | 75 | 76 2, Output 2 - | 77 | 79 | 80 | 81 | Output 3 - 82
-Linked to SDGs* | 30 | 31 | 32 | 33 | Outcome | 35 | 36 | Outcome 2, 37
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | 70 | Access to services and resources | Villages without primary school in the village or further than one hour’s walking distance from any school: - Number - Percentage of total villages | Number; % | National/province | Annual | Program data | NCRDPE |  | 31; 0.37% | 2015 | NCRDPE |  |
+|  | 71 |  | Villages without health clinic and drug kits in the village, or further than two hours’ walking distance from any health clinic/drug kit access: - Number - Percentage of total villages | Number; % | National/province | Annual | Program data | NCRDPE |  | 257; 3.03% | 2015 | NCRDPE |  |
+|  | 72 |  | Villages without a safe water source in or close to the village: - Number - Percentage of total villages | Number; % | National/province | Annual | Program data | NCRDPE |  | 266; 3.44% | 2015 | NCRDPE |  |
+| 30 | 73 | UXO impact reduced | Number of villages in the 9 provinces where Non Technical Survey has been completed in accordance with the Lao PDR UXO survey procedures | # | National /province | Annual | Program data | NRA |  | 987 | 2015 | NRA | 5,238.0 |
+| 31 | 74 |  | Number of Focal Development Areas where Cluster Munitions Evidence-Based Technical Survey has been completed in accordance with the Lao PDR UXO survey procedures | # | National | Annual | Program data | NRA |  | 0 | 2015 | NRA | 124.0 |
+| 32 | 75 |  | Number of casualties reported as a result of UXO incidents | # | National /sex/age | Annual | Program data | NRA |  | 45 | 2014 | NRA | <40 |
+| 33 | 76 |  | Number of UXO survivors having received medical assistance | # | National /sex/age | Annual | Program data | NRA |  | 562 | 2014 | NRA | 1,500.0 |
+|  |  |  | Outcome 2, Output 2 – Ensured food security and reduced incidences of malnutrition |  |  |  |  |  |  |  |  |  |  |
+|  | 77 | Improved food security | Enhanced food production systems and agricultural productivity: |  |  |  |  |  |  |  | 2015 | MAF annual report | 4.46 ton/ha; 280 kg/per/yr |
+|  |  |  | - Rice per hectare | ton/ha; kg/capita | National | Annual | Admin.Data | MAF |  | 4.3 | 2015 | MAF annual report | 4.46 |
+|  |  |  | - Rice In kilogram per capita | ton/ha | National | Annual | Admin.Data | MAF |  | 330.0 | 2015 | MAF annual report | 280 |
+| 34 | 78 |  | Fish/meat/egg production in kilogram per capita (fish includes all aquatic products) | Kg/capita | National | Annual | Admin.Data | MAF |  | 53 | 2015 | MAF annual report | 65.0 |
+| 35 | 79 | Undernutrition/ malnourishment | Percentage of population consuming less than the minimum dietary energy requirements of 2100 cal/day/person (i.e., under the Food Poverty Line defined by the Government for that year) | % | National/ Province/ sex/ethnicity | 5 years | Survey (LECS) | LSB/ MoH |  | 20.1% |  |  |  |
+|  |  |  | Prevalence of stunting among children under 5 years of age |  |  |  |  |  |  |  |  |  |  |
+|  | 80 |  | Prevalence of underweight among children under 5 years of age | % | National/ Province/ sex/ethnicity | Five yearly | LSIS /nutrition surveys | MoH/MPI-LSB |  | 38% | 2011 | LSIS | 34.0 |
+| 36 | 81 |  | Prevalence of wasting among children under 5 years of age | % | National/ Province/ sex/ethnicity | Five yearly | LSIS /nutrition surveys | MoH/MPI-LSB |  | 6% | 2011 | LSIS | 5.0 |
+|  |  |  | Outcome 2, Output 3 – Access to high quality education |  |  |  |  |  |  |  |  |  |  |
+| 37 | 82 | Access TO ECE | Percentage of preschool aged children attending ECD/ ECE/preschool programmes | % | National/sex/ provincial/age | Five yearly/ Annual | Surveys Admin.data | LSB/MoES |  | 43.2 | 2015 |  | 55.0 |
 
 [[END OF PAGE 186]]
 
@@ -5449,21 +5751,30 @@ Linked to SDGs* | 30 | 31 | 32 | 33 | Outcome | 35 | 36 | Outcome 2, 37
 
 179
 
-Target 75.0 | 110.0 | 85.0 | 60.0 98.0 | 0.97-1.03 | 0.97-1.03 0.97-1.03 | 0.97-1.03 | 0.97-1.03 95.0 | 0.97-1.03 | 5.0 | 60.0 105,000.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source Admin. Data | Admin. Data | Admin. Data Admin. Data | Admin. Data | Admin. Data | Admin. Data Admin. Data | Admin. Data | Admin. Data | Admin. Data Admin. Data | Admin. Data | Admin. Data | Admin. Data
-2015 | 2015 | 2015 2015 | 2015 | Baseline year | 2015 | 2015 2015 | 2015 | 2015 | 2015 2012 | 2015 | 2015 | 2015
-Baseline data 60.0 | 118.4 | 78.1 45.8 | 97.2 | 0.97 | 0.94 0.87 | 0.97 | 0.94 | 0.84 81.3 | 2.2 | 56 | 65,000
-Comments LDC graduation factor | LDC graduation factor | LDC graduation factor | Outcome 2 indicator Outcome 2 indicator | Outcome 2 indicator | LDC graduation factor | LDC graduation factor
-Ministry /Agency MoES | MoES | MoES MoES | MoES | MoES | Responsible | MoES | MoES MoES | MoES | MoES | MoES MoES | MoES | MoES | MoES
-Means of verification Admin.data | Admin.Data | Admin.Data Admin.Data | Admin.Data | National assessments ASLO/ RIES | Admin.Data | Admin.Data Admin.Data | Admin.Data | Admin.Data | Admin.Data Surveys (LSIS) and census | Admin.Data | Admin.Data | Admin.Data
-Measuring Frequency Annual | Annual | Annual | Annual Annual | Periodic | Annual | Annual Annual | Annual | Annual | Annual 5 yearly plus annual projection | Annual | Annual | Annual
-Disaggregated by: National/ provincial/ sex | National/ sex/ province/ ethno-linguistic group | National/ sex/ province/ ethno-linguistic group National/ sex/ province/ ethno-linguistic | group National/ sex/ province/ ethno-linguistic group | subject/ primary- secondary /sex | National/ province | National/ province National/ province | National/ province | National/ province National/ province | National/ provincial/ age/ | sex/ urban-rural/ wealth | National/sex | National/sex | National/sex
-Unit % | % | % % | % | % | index index | index index | index | index | index % | % | % | Number
-Gross enrolment ratio (GER), secondary education | Gross enrolment ratio(GER): primary education | Gross enrolment ratio(GER): lower secondary education Gross enrolment ratio(GER): upper secondary education | Net intake rate to first grade of primary education | Education completion Completion rate, primary education Completion rate, lower secondary education | Completion rate, upper secondary education Percentage of students at each level having achieved minimum proficiency standards in reading and mathematics at end of: | Performance Indicators | equality Primary | Lower secondary Upper secorndary Gender parity indices in primary/lower secondary/ | completion rates Primary Lower secondary | Upper secorndary Adult literacy rate: Percentage of population (15 years and above) achieving at least a fixed level of proficiency in functional (a) literacy and (b) | Literacy numeracy skills | Youth literacy rate: Percentage of youth 15-24 years old achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills | Percentage of graduates from Lower Secondary enrolled in vocational education | Percentage of graduates from Upper Secondary enrolled in vocational education | Number of students enrolled in vocational education & training
-Theme/group Education access | Learning outcomes | in education | Vocational education
-# 83 | 84 | 85 86 | 87 | 88 | Gender 89 | 90 91 | 92 | 93 | 94 95 | 96 | 97 | 98
-Linked to SDGs* 38 | 39 | 40 41 | 42 | 43 | 44 45 | 46 47 | 48 49 | 50 | 51 | 52
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+| 38 | 83 | Education access | Gross enrolment ratio (GER), secondary education | % | National/ provincial/ sex | Annual | Admin.data | MoES | LDC graduation factor | 60.0 | 2015 | Admin. Data | 75.0 |
+| 39 | 84 |  | Gross enrolment ratio(GER): primary education | % | National/ sex/ province/ ethno-linguistic group | Annual | Admin.Data | MoES |  | 118.4 | 2015 | Admin. Data | 110.0 |
+| 40 | 85 |  | Gross enrolment ratio(GER): lower secondary education | % | National/ sex/ province/ ethno-linguistic group | Annual | Admin.Data | MoES | LDC graduation factor | 78.1 | 2015 | Admin. Data | 85.0 |
+| 41 | 86 |  | Gross enrolment ratio(GER): upper secondary education | % | National/ sex/ province/ ethno-linguistic group | Annual | Admin.Data | MoES | LDC graduation factor | 45.8 | 2015 | Admin. Data | 60.0 |
+|  | 87 |  | Net intake rate to first grade of primary education | % | National/ sex/ province/ ethno-linguistic group | Annual | Admin.Data | MoES |  | 97.2 | 2015 | Admin. Data | 98.0 |
+|  |  | Education completion | Completion rate, primary education |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+|  |  |  | Completion rate, lower secondary education |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+|  |  |  | Completion rate, upper secondary education |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+| 42 | 88 | Learning outcomes | Percentage of students at each level having achieved minimum proficiency standards in reading and mathematics at end of: - primary - lower secondary. | % | subject/primary-secondary /sex | Periodic | National assessments ASLO/ RIES | MoES |  |  |  |  |  |
+|  |  | Gender equality in education | Gender parity indices in primary/lower secondary/upper secondary/ tertiary education calculated with gross enrolment ratios |  |  |  |  |  |  |  |  |  |  |
+| 43 | 89 |  | Primary | index | National/ province | Annual | Admin.Data | MoES |  | 0.97 | 2015 | Admin. Data | 0.97-1.03 |
+| 44 | 90 |  | Lower secondary | index | National/ province | Annual | Admin.Data | MoES |  | 0.94 | 2015 | Admin. Data | 0.97-1.03 |
+| 45 | 91 |  | Upper secorndary | index | National/ province | Annual | Admin.Data | MoES |  | 0.87 | 2015 | Admin. Data | 0.97-1.03 |
+|  |  |  | Gender parity indices in primary/lower secondary/upper secondary education calculated with completion rates | index |  |  |  |  |  |  |  |  |  |
+| 46 | 92 |  | Primary | index | National/ province | Annual | Admin.Data | MoES |  | 0.97 | 2015 | Admin. Data | 0.97-1.03 |
+| 47 | 93 |  | Lower secondary | index | National/ province | Annual | Admin.Data | MoES |  | 0.94 | 2015 | Admin. Data | 0.97-1.03 |
+| 48 | 94 |  | Upper secorndary | index | National/ province | Annual | Admin.Data | MoES |  | 0.84 | 2015 | Admin. Data | 0.97-1.03 |
+| 49 | 95 | Literacy | Adult literacy rate: Percentage of population (15 years and above) achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills | % | National/provincial/ age/sex/ urban-rural/ wealth | 5 yearly plus annual projection | Surveys (LSIS) and census | MoES | LDC graduation factor | 81.3 | 2012 | Admin. Data | 95.0 |
+|  |  |  | Youth literacy rate: Percentage of youth 15-24 years old achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills |  |  |  |  |  | LDC graduation factor |  |  |  |  |
+| 50 | 96 | Vocational education | Percentage of graduates from Lower Secondary enrolled in vocational education | % | National/sex | Annual | Admin.Data | MoES |  | 2.2 | 2015 | Admin. Data | 5.0 |
+| 51 | 97 |  | Percentage of graduates from Upper Secondary enrolled in vocational education | % | National/sex | Annual | Admin.Data | MoES |  | 56 | 2015 | Admin. Data | 60.0 |
+| 52 | 98 |  | Number of students enrolled in vocational education & training | Number | National/sex | Annual | Admin.Data | MoES |  | 65,000 | 2015 | Admin. Data | 105,000.0 |
 
 [[END OF PAGE 187]]
 
@@ -5471,21 +5782,30 @@ Linked to SDGs* 38 | 39 | 40 41 | 42 | 43 | 44 45 | 46 47 | 48 49 | 50 | 51 | 52
 
 180
 
-90.0 | 100.0 | 30.0 | 95.0 | 70.0 | 90.0 | 60.0 | 90.0 | 75.0 | 0.3 | 80.0 90.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Admin. Data | Admin. Data | Admin. Data | Admin. Data | Admin. Data | Admin. Data | LSIS | MOH | LSIS | MOH Five-Year Report | LSIS | LSIS | LSIS LSIS | Admin. Data | N.A | Admin. Data
-2015 | 2015 | 2011 | 2013 | 2011 | 2013 | 2011 | 2011-12 2011 | 2011 | 2011 | N.A | 2015
-30.36 | Total: 999,414 Female: 470,694 | 28 | Total: 821,979 Female: 401,080 | Total: 179,143 Female 66,599 | Total 65,231 Female: 39,085 | 68 | 85 | 58 | 49.0 | 42 | 94.0 | 54 | 37 | 0.26 | N.A | 33
-Outcome 2 indicator | Outcome 2 indicator
-MOH/MOLSW | MOH/MOLSW | MOH/MOLSW | MOH/MOLSW | MOH/MOLSW | MOH/MOLSW | MOH | LSB/MPI | MOH | MOH | MOH/LSB | MOH/LSB | MOH/LSB | MoH | MOH/LSB | MOH/LSB | MOH | MOH | MOH
-National Health Insurance Bureau of the MOH | National Health Insurance Bureau of the MOH | MoH reports | Surveys (LSIS) | Surveys Admin.data | Surveys Admin.data | Surveys Admin.data Surveys Admin.data | Surveys (LSIS) | Admin.Data | Surveys Admin.data | Surveys Admin.data | Admin.Data | Sentinel Surveillance Systems (IBBS) | Admin.Data
-Annual | Annual | Annual | Annual | Annual | Annual | Annual | Every five years | Annual | Annual | Annual | Annual | Five yearly | Annual | Annual | Annual | Annual | Annual | Annual
-National/ province/ type of insurance | National/ female | National/ female | National/ female | National/ female | National/ female | National | National/Sex/ Province/ | socio-economic group National/Province/ district | National/Province/ district | National/Province/ | district National/Province/ | district National/ Province/ socio-economic | group National | National/sex | National/sex | National/sex
-% | Number | number % | Number | Number | Number | USD per capita | per 1000 | live births % | % | % | % | % | per 1000 adolescent age | % | % | number per 1000 | % | %
-quality health care and preventative medicine Percentage of population covered by all social health protection schemes (including Community-Based Health Insurance, Health Equity Fund, State Authority for Social Security, Social Security Organisation) of which: | Number of people enrolled in Community-Based Health Insurance | Number/Percentage of poor people enrolled in Health Equity Fund | Number of people enrolled in State Authority for Social Security (SASS) | Number of people enrolled in Social Security Organisation (SSO) | Number of people enrolled in private sector health insurance | Out of pocket Health Expenditure | HAI component: Under-five mortality rate Infant mortality rate | Proportion of 1 year-old children immunised against | DPT3 Proportion of 1 year-old children immunised against measles | Maternal mortality ratio Proportion of births attended by trained health | personnel Percentage of women using contraception | Percentage of women of reproductive age (aged 15-49) who have their need for family planning satisfied with modern methods | Birth rate of young girl pregancy between 15-19 years | Antenatal care coverage, at least one visit by trained health personnel | Antenatal care coverage, at least four visits by trained health personnel | Estimated new HIV infections | Percentage of key populations at risk having access to combination HIV prevention programmes | Percentage of people with diagnosed HIV receiving sustained ART
-Access to high | Social health protection Child health Maternal health | HIV/AIDS control | HIV/AIDS protection | HIV/AIDS treatment
-Output 4 - 99 | 100 | 101 | 102 | 103 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111 | 112 113 | 114 | 115 | 116 | 117
-Outcome 2, 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | Outcome 2, Output 4 – Access to high quality health care and preventative medicine |  |  |  |  |  |  |  |  |  |  |
+| 53 | 99 | Social health protection | Percentage of population covered by all social health protection schemes (including Community-Based Health Insurance, Health Equity Fund, State Authority for Social Security, Social Security Organisation) of which: | % | National/ province/type of insurance | Annual | National Health Insurance Bureau of the MOH | MOH/MOLSW |  | 30.36 | 2015 | Admin. Data | 90.0 |
+| 54 | 100 |  | Number of people enrolled in Community-Based Health Insurance | Number | National/ female | Annual | National Health Insurance Bureau of the MOH | MOH/MOLSW |  | Total: 999,414; Female: 470,694 |  | Admin. Data |  |
+| 55 | 101 |  | Number/Percentage of poor people enrolled in Health Equity Fund | number; % | National/ female | Annual |  | MOH/MOLSW |  | 28 | 2015 | Admin. Data | 100.0 |
+| 56 | 102 |  | Number of people enrolled in State Authority for Social Security (SASS) | Number | National/ female | Annual |  | MOH/MOLSW |  | Total: 821,979; Female: 401,080 |  | Admin. Data |  |
+| 57 | 103 |  | Number of people enrolled in Social Security Organisation (SSO) | Number | National/ female | Annual |  | MOH/MOLSW |  | Total: 179,143; Female 66,599 |  | Admin. Data |  |
+| 58 | 104 |  | Number of people enrolled in private sector health insurance | Number | National/ female | Annual |  | MOH/MOLSW |  | Total 65,231; Female: 39,085 |  | Admin. Data |  |
+| 59 | 105 |  | Out of pocket Health Expenditure | USD per capita | National | Annual | MoH reports | MOH |  |  |  |  |  |
+|  |  | Child health | HAI component: Under-five mortality rate |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+| 60 | 106 |  | Infant mortality rate | per 1000 live births | National/Sex/Province/socio-economic group | Every five years | Surveys (LSIS) | LSB/MPI |  | 68 | 2011 | LSIS | 30.0 |
+| 61 | 107 |  | Proportion of 1 year-old children immunised against DPT3 | % | National/Province/district | Annual | Surveys; Admin.data | MOH |  |  |  |  |  |
+| 62 | 108 |  | Proportion of 1 year-old children immunised against measles | % | National/Province/district | Annual | Surveys; Admin.data | MOH |  | 85 | 2013 | MOH | 95.0 |
+|  |  | Maternal health | Maternal mortality ratio |  |  |  |  |  | Outcome 2 indicator |  |  |  |  |
+| 63 | 109 |  | Proportion of births attended by trained health personnel | % | National/Province/district | Annual | Surveys; Admin.data | MOH/LSB |  | 58 | 2011 | LSIS | 70.0 |
+|  | 110 |  | Percentage of women using contraception | % | National/Province/district | Annual | Surveys; Admin.data | MOH/LSB |  | 49.0 | 2013 | MOH Five-Year Report |  |
+| 64 | 111 |  | Percentage of women of reproductive age (aged 15-49) who have their need for family planning satisfied with modern methods | % | National/ Province/socio-economic group | Five yearly | Surveys (LSIS) | MOH/LSB |  | 42 | 2011 | LSIS | 60.0 |
+| 65 | 112 |  | Birth rate of young girl pregancy between 15-19 years | per 1000 adolescent age | National | Annual | Admin.Data | MoH |  | 94.0 | 2011-12 | LSIS | 90.0 |
+|  | 113 |  | Antenatal care coverage, at least one visit by trained health personnel | % |  | Annual | Surveys; Admin.data | MOH/LSB |  | 54 | 2011 | LSIS | 90.0 |
+| 66 | 114 |  | Antenatal care coverage, at least four visits by trained health personnel | % |  | Annual | Surveys; Admin.data | MOH/LSB |  | 37 | 2011 | LSIS | 75.0 |
+| 67 | 115 | HIV/AIDS control | Estimated new HIV infections | number per 1000 | National/sex | Annual | Admin.Data | MOH |  | 0.26 | 2011 | Admin. Data | 0.3 |
+|  | 116 | HIV/AIDS protection | Percentage of key populations at risk having access to combination HIV prevention programmes | % | National/sex | Annual | Sentinel Surveillance Systems (IBBS) | MOH |  | N.A | N.A | N.A | 80.0 |
+| 68 | 117 | HIV/AIDS treatment | Percentage of people with diagnosed HIV receiving sustained ART | % | National/sex | Annual | Admin.Data | MOH |  | 33 | 2015 | Admin. Data | 90.0 |
 
 [[END OF PAGE 188]]
 
@@ -5493,21 +5813,33 @@ Outcome 2, 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 |
 
 181
 
-Target | 2.5 | 99.0 357.0 | 70.0 | 90.0 | 90.0 75.0 | 205,000,000.0 | Total: 10,000 | 800 | 250 | 26,000,000 | 4,204,000,000
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | Admin. Data Admin. Data | Admin. Data | Admin. Data | Admin. Data | 7th SEDP | Review of MOH 7th SEDP | Review of MOH | Nampapa Department/ MPWT | SSO | Admin. Data | Department of Social Work/ MOLSW | Department of Social Work/ MOLSW | MOICT | MOICT | MOICT | MOICT
-Baseline year | 2015 2015 | 2014 | 2015 | 2015 | 2014 | 2012 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015
-Baseline data | 7.2 99 | -- 189 - 464 | - 55 36.4 | 90.0 | 84 | 67 | 187,022.0 | Total: 2,986 | Female: 1,197 | 496 | 36 graduates with BA degree | central level: 1 provincial level: 11 district level: 35 | 4,821 | 15 | 4,684,429 | 725,365,681
-Comments | Green growth indicator 5 | Green growth indicator 6 | Green growth indicator 7
-Responsible Ministry /Agency | MOH MOH | MOH | MOH | MOH | LSB | LSB | MOH | MOH | MOH MOH | MOH | MOLSW | MOLSW | MOLSW | MOLSW | NCAW | MOICT | MOICT | MOICT | MOICT
-Means of verification | Admin.Data Admin.Data | Admin.Data | Admin.Data | Admin.Data | Survey (LSIS) | Survey (LSIS) | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data
-Measuring Frequency | Annual Annual | Annual | Annual | Annual | Five yearly | Five yearly | Annual | Annual | Annual | Annual | Annual | Annual Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Annual
-Disaggregated by: | National/province National | National | National | National | province/ urban/ rural | province/ urban/ rural | National/ Urban/ Rural | National/ sector/ | sex National/ province | National/ province | National | National/ province | National | National | National/ registered destination | National/ registered destination | National
-Unit | Cases per 1,000 % | per 100,000 | % | % | % | % | $ | $ | $ | $ $ | Number | # | # | # | # | Number | Number | Number | $ | %
-Performance Indicators | Malaria incidence rate among the population living in areas where malaria transmission occurs Proportion of children under age 5 testing positive for malaria who are treated with appropriate anti-malarial | drugs Incidence, prevalence and death rates associated with tuberculosis | Proportion of tuberculosis cases detected under directly observed treatment (DOTS) short course | Tuberculosis treatment success rate | & Proportion of population using an improved drinking water source | Proportion of population using an improved sanitation facility | Investment in water supply & sanitation: | - Urban water supply | - Urban sanitation | - Rural water supply - Rural sanitation | protection Number of informal sector workers covered by social security | Number of villages with child protection bodies or child protection networks | Number of qualified social workers Number of Child Protection Committees established | at province and district level Number of grievance cases referred to court, as monitored by the National Committee for Advancement of Women (NCAW) | traditions and culture Number of villages developed into 'Cultural Villages' | Number of established tourist sites: - National Heritage Sites (cultural/historical /natural) - nature tourism sites | Number of international tourists entering Lao PDR | Revenue from tourism sector (International tourism receipts) | stability, social peace, order, justice and transparency | Percentage of rural districts with established communication system engaging the public to understand the Party's and Government's policy directions
-Theme/group | Malaria control | Tuberculosis control | Access to safe drinking water improved sanitation | Investment in water & sanitation | Enhanced social protection | Protection of women & children | Women's access to justice | Protection of | Cultural sites and tourism | Maintain political
-# | 118 119 | 120 | 121 | 122 | 123 | 124 | 125 | 2, Output 5 - | 126 Social | 127 | 128 | 129 | 130 | 2, Output 6 - | 131 132 | 133 | 134 | 2, Output 7: | 135
-Linked to SDGs* | 69 | 70 | 71 | 72 | 73 | 74 | Outcome | 75 | Outcome | 76 77 | Outcome
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+| 69 | 118 | Malaria control | Malaria incidence rate among the population living in areas where malaria transmission occurs | Cases per 1,000 | National/province | Annual | Admin.Data | MOH |  | 7.2 | 2015 | Admin. Data | 2.5 |
+|  | 119 |  | Proportion of children under age 5 testing positive for malaria who are treated with appropriate anti-malarial drugs | % | National | Annual | Admin.Data | MOH |  | 99 | 2015 | Admin. Data | 99.0 |
+| 70 | 120 | Tuberculosis control | Incidence, prevalence and death rates associated with tuberculosis | per 100,000 | National | Annual | Admin.Data | MOH |  | -- 189; - 464; - 55 | 2014 | Admin. Data | 357.0 |
+| 71 | 121 |  | Proportion of tuberculosis cases detected under directly observed treatment (DOTS) short course | % | National | Annual | Admin.Data | MOH |  | 36.4 | 2015 | Admin. Data | 70.0 |
+| 72 | 122 |  | Tuberculosis treatment success rate | % | National | Annual | Admin.Data | MOH |  | 90.0 | 2015 | Admin. Data | 90.0 |
+| 73 | 123 | Access to safe drinking water & improved sanitation | Proportion of population using an improved drinking water source | % | province/ urban/rural | Five yearly | Survey (LSIS) | LSB | Green growth indicator 5 | 84 | 2014 | 7th SEDP Review of MOH | 90.0 |
+| 74 | 124 |  | Proportion of population using an improved sanitation facility | % | province/ urban/rural | Five yearly | Survey (LSIS) | LSB | Green growth indicator 6 | 67 | 2012 | 7th SEDP Review of MOH | 75.0 |
+|  | 125 | Investment in water & sanitation | Investment in water supply & sanitation: | $ | National/ Urban/Rural | Annual | Admin.Data | MOH |  |  |  |  |  |
+|  |  |  | - Urban water supply | $ |  | Annual | Admin.Data | MOH |  | 187,022.0 | 2015 | Nampapa Department/MPWT | 205,000,000.0 |
+|  |  |  | - Urban sanitation | $ |  | Annual | Admin.Data | MOH |  |  |  |  |  |
+|  |  |  | - Rural water supply | $ |  | Annual | Admin.Data | MOH |  |  |  |  |  |
+|  |  |  | - Rural sanitation | $ |  | Annual | Admin.Data | MOH |  |  |  |  |  |
+|  |  |  | Outcome 2, Output 5 – Enhanced social protection |  |  |  |  |  |  |  |  |  |  |
+| 75 | 126 | Social protection | Number of informal sector workers covered by social security | Number | National/ sector/ sex | Annual | Admin.Data | MOLSW |  | Total: 2,986; Female: 1,197 | 2015 | SSO | Total: 10,000 |
+|  | 127 | Protection of women & children | Number of villages with child protection bodies or child protection networks | # | National/ province | Annual | Admin.Data | MOLSW |  | 496 | 2015 | Admin. Data | 800 |
+|  | 128 |  | Number of qualified social workers | # | National/ province | Annual | Admin.Data | MOLSW |  | 36 graduates with BA degree | 2015 | Department of Social Work/MOLSW | 250 |
+|  | 129 |  | Number of Child Protection Committees established at province and district level | # | National | Annual | Admin.Data | MOLSW |  | central level: 1; provincial level: 11; district level: 35 | 2015 | Department of Social Work/MOLSW |  |
+|  | 130 | Women’s access to justice | Number of grievance cases referred to court, as monitored by the National Committee for Advancement of Women (NCAW) | # | National/ province | Annual | Admin.Data | NCAW |  |  |  |  |  |
+|  |  |  | Outcome 2, Output 6 – Protection of traditions and culture |  |  |  |  |  |  |  |  |  |  |
+| 76 | 131 | Cultural sites and tourism | Number of villages developed into “Cultural Villages” | Number | National | Annual | Admin.Data | MOICT |  | 4,821 | 2015 | MOICT |  |
+| 77 | 132 |  | Number of established tourist sites: - National Heritage Sites (cultural/historical /natural) - nature tourism sites | Number | National | Annual | Admin.Data | MOICT | Green growth indicator 7 | 15 | 2015 | MOICT |  |
+|  | 133 |  | Number of international tourists entering Lao PDR | Number | National/ registered destination | Annual | Admin.Data | MOICT |  | 4,684,429 | 2015 | MOICT | 26,000,000 |
+|  | 134 |  | Revenue from tourism sector (International tourism receipts) | $ | National/ registered destination | Annual | Admin.Data | MOICT |  | 725,365,681 | 2015 | MOICT | 4,204,000,000 |
+|  |  |  | Outcome 2, Output 7: Maintain political stability, social peace, order, justice and transparency |  |  |  |  |  |  |  |  |  |  |
+|  | 135 |  | Percentage of rural districts with established communication system engaging the public to understand the Party’s and Government’s policy directions | % | National | Annual | Admin.Data |  |  |  |  |  |  |
 
 [[END OF PAGE 189]]
 
@@ -5515,21 +5847,32 @@ Linked to SDGs* | 69 | 70 | 71 | 72 | 73 | 74 | Outcome | 75 | Outcome | 76 77 |
 
 182
 
-Target | 70.0 | 32.0 | Y | 20% of 324 zones | 18.0 93.0 | 10.0
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | MAF Forest Survey | MOLSW Report in FY2015-2016 | MAF | MONRE | MONRE | MONRE
-Baseline year | 2010 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 2015 | 2015 2015 | 2015
-Baseline data | 42 | 36.2 | 10,928 ຄົນ | 81600 | 399 | 0 55.0 | - | 212 | 45 17 | 24 55 | 9
-Comments See Outcome 2, Output 5 | Green growth indicator 12 | LDC graduation factor | Green growth indicator 14 and LDC graduation factor | Green growth indicator 8 | Green growth indicator 9 | Green growth indicator 10 | Green growth indicator 11 | Green growth indicator 12 & Outcome 3 indicator | Green growth indicator 13
-Responsible Ministry /Agency | managed, resilience developed | MAF,MONRE | MONRE, MLSW | MAF | MoNRE | MONRE | MONRE MONRE,MPWT | MoNRE | MoNRE MoNRE | MoNRE MoNRE | MoNRE
-Means of verification Law Review | People's Supreme Court/Ministry of Justice Records | Reports prepared for UPR | Surveys (LSIS) Census | Admin.Data | Admin.Data | protected and sustainably enhanced and climate | MAF data | Admin.data | Admin.Data | Review of concession contracts | Admin.Data | Admin.Data Admin.Data | IUCN Red List | IUCN Red List IUCN Red List | IUCN Red List | IUCN Red List IUCN Red List
-Measuring Frequency Annual | Annual | Annual | 5 years | Annual | Annual | resources and the environment disaster preparedness | Annual | Annual | Annual | Annual | Annual | Annual Annual | Annual | Annual Annual | Annual Annual | Annual
-Disaggregated by: National | National | National | National/ Sex | National/ sex/ age | National/ sex/ age | OUTCOME 3. Natural growth promoted, | National | National | National | National | National | National National | National | National National | National | National National
-Unit Number % | Number | % | % | number | number/ sex/ age/ exploitation form | green | % | index | per 100,000 | Hectares | Number | Number | Number Number | Number | Number Number | Number | Number Number
-Performance Indicators Laws passed by the National Assembly that have implementation regulations in place: - Number - Percentage of total laws passed Women's access to justice | Number of grievances from citizens resolved through courts and village mediation units using legal aid services | Percentage of accepted recommendations of the Second Universal Periodic Review Cycle that have been implemented Percentage of children under 5 whose births have | been registered with a civil authority | Number of arrests related to human trafficking | Number of victims of human trafficking per 100,000 | Forest area as a percentage of total land area | Economic Vulnerability Index (EVI) | Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people | Production forest area: - certified by FSC | - with FLEGT license Number of projects that completed IEE and/or EIA before MPI signs to approve project implementation. | Completion of land use classification in all parts of the country: | - Number of Provinces - Number of Districts | and Number of districts that have completed preliminary assessments for Green and Clean Towns (including climate-smart planning) along Road No.13 | Proportion of land area covered by forest | Number of known species threatened with extinction | - Mammals - Reptiles | - Birds - Fish | - Amphibians
-Theme/group | Adherence to core Human Rights instruments | trafficking | Human | Outcome 3 indicators | Environmental protection | Land management | Resilience green growth | Forest cover | Biodiversity
-# 136 | 137 | 138 | 139 | 140 | Combatting 141 | 142 | 143 | 144 | 145 | 146 | 147 | 148 | 149
-Linked to SDGs* | 78 | 79 | 80 | 81 | 82 | 83 | 84
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | 136 |  | Laws passed by the National Assembly that have implementation regulations in place: - Number - Percentage of total laws passed | Number; % | National | Annual | Law Review |  |  |  |  |  |  |
+|  |  | Women’s access to justice | See Outcome 2, Output 5 |  |  |  |  |  |  |  |  |  |  |
+|  | 137 |  | Number of grievances from citizens resolved through courts and village mediation units using legal aid services | Number | National | Annual | People’s Supreme Court/Ministry of Justice Records |  |  |  |  |  |  |
+|  | 138 | Adherence to core Human Rights instruments | Percentage of accepted recommendations of the Second Universal Periodic Review Cycle that have been implemented | % | National | Annual | Reports prepared for UPR |  |  |  |  |  |  |
+| 78 | 139 |  | Percentage of children under 5 whose births have been registered with a civil authority | % | National/ Sex | 5 years | Surveys (LSIS); Census |  |  |  |  |  |  |
+| 79 | 140 | Combatting Human trafficking | Number of arrests related to human trafficking | number | National/ sex/ age | Annual | Admin.Data |  |  |  |  |  |  |
+| 80 | 141 |  | Number of victims of human trafficking per 100,000 | number/ sex/ age/ exploitation form | National/ sex/ age | Annual | Admin.Data |  |  |  |  |  |  |
+|  |  |  | OUTCOME 3. Natural resources and the environment protected and sustainably managed, green growth promoted, disaster preparedness enhanced and climate resilience developed |  |  |  |  |  |  |  |  |  |  |
+| 81 | 142 | Outcome 3 indicators | Forest area as a percentage of total land area | % | National | Annual | MAF data | MAF,MONRE | Green growth indicator 12 | 42 | 2010 | MAF Forest Survey | 70.0 |
+|  | 143 |  | Economic Vulnerability Index (EVI) | index |  |  |  |  | LDC graduation factor | 36.2 | 2015 |  | 32.0 |
+| 82 | 144 |  | Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people | per 100,000 | National | Annual | Admin.data | MONRE, MLSW | Green growth indicator 14 and LDC graduation factor | 10,928 ຄົນ | 2015 | MOLSW Report in FY2015-2016 | Y |
+|  |  |  | Outcome 3, Output 1 – Environmental protection and sustainable natural resources management |  |  |  |  |  |  |  |  |  |  |
+| 83 | 145 | Environmental protection | Production forest area: - certified by FSC - with FLEGT license | Hectares | National | Annual | Admin.Data | MAF | Green growth indicator 8 | 81600 | 2015 | MAF | 20% of 324 zones |
+|  | 146 |  | Number of projects that completed IEE and/or EIA before MPI signs to approve project implementation. | Number | National | Annual | Review of concession contracts | MoNRE | Green growth indicator 9 | 399 | 2015 | MONRE |  |
+|  | 147 | Land management | Completion of land use classification in all parts of the country: - Number of Provinces | Number | National | Annual | Admin.Data | MONRE | Green growth indicator 10 | 0 | 2015 | MONRE | 18.0 |
+|  |  |  | - Number of Districts | Number | National | Annual | Admin.Data | MONRE |  | 55.0 | 2015 | MONRE | 93.0 |
+|  | 148 | Resilience and green growth | Number of districts that have completed preliminary assessments for Green and Clean Towns (including climate-smart planning) along Road No.13 | Number | National | Annual | Admin.Data | MONRE,MPWT | Green growth indicator 11 | - |  |  | 10.0 |
+|  |  | Forest cover | Proportion of land area covered by forest |  |  |  |  |  | Green growth indicator 12 & Outcome 3 indicator |  |  |  |  |
+| 84 | 149 | Biodiversity | Number of known species threatened with extinction | Number | National | Annual | IUCN Red List | MoNRE | Green growth indicator 13 | 212 | 2015 |  |  |
+|  |  |  | - Mammals | Number | National | Annual | IUCN Red List | MoNRE |  | 45 | 2015 |  |  |
+|  |  |  | - Reptiles | Number | National | Annual | IUCN Red List | MoNRE |  | 17 | 2015 |  |  |
+|  |  |  | - Birds | Number | National | Annual | IUCN Red List | MoNRE |  | 24 | 2015 |  |  |
+|  |  |  | - Fish | Number | National | Annual | IUCN Red List | MoNRE |  | 55 | 2015 |  |  |
+|  |  |  | - Amphibians | Number | National | Annual | IUCN Red List | MoNRE |  | 9 | 2015 |  |  |
 
 [[END OF PAGE 190]]
 
@@ -5537,27 +5880,34 @@ Linked to SDGs* | 78 | 79 | 80 | 81 | 82 | 83 | 84
 
 183
 
-Target | DK | Y | 30.0 | 100.0 | 20.0 | >15
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Baseline data source | MPT | MPT | MPT | Statistics of Civil Servant 2015 | NA
-Baseline year | 2015 | 2015 | 2015 | 2015 | 2015
-Baseline data | 7 | 57 | 14 | 13.34 | 27.5
-Comments Green growth indicator 14 & Outcome 3 indicator | Green growth indicator 15 and LDC graduation factor | See Outcome 2, Output 3 indicators | See Outcome 1, Output 5 indicators.
-Responsible Ministry /Agency | MPI/LSB | MPT | MPT | MPT | MoHA& Central Party Bureau | NA | MOIC, MOLSW | LSB | MoH
-Means of verification | Sources provided in LDC Guidelines, Annex 1 OUTPUTS | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Admin.Data | Surveys | Surveys | Admin.Data
-Measuring Frequency | Annual CROSS CUTTING | Annual | Annual | Annual | Annual | Annual | Annual | Annual | Periodic | Periodic | Annual
-Disaggregated by: | National | National | National | National | National | National | National/Province/ district | National | National | National/ sex / location | National
-Unit | Convert to Index | % | % | promoted, | % | % | % | % | % | % | % | %
-Performance Indicators for natural disasters and risk mitigation impact Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people | of agricultural production EVI component: Instability of agricultural production | governance and administration enhanced Percentage of districts meeting the criteria of 3 Builds District | Percentage of districts having completed training for the rollout of the 3 Builds (Sam Sang) | and use of science, technology and telecommunications technologies (ICT) enhanced | to Percentage of population registered as internet users through landline & wireless | and Percentage of population registered as mobile phone users | (ICT) Percentage of population registered as landline and wireless home phone users | equality and empowerment of women and youth Percentage of women in decision making positions / leadership positions | Percentage of women in National Assembly | Share of women among owners of businesses/ enterprises | & Gender equality in Education | Gender equality in Employment | Percentage of time spent on unpaid domestic and care work by sex, age group and location | Adolescent pregnancy, as a percentage of total pregnancy
-Theme/group Preparedness Disaster | Reduced instability Agricultural production stability | Public Public management | and administration | Local innovation communication | Access | information communications | technology | - Gender | Women's empowerment gender equality
-# 3, Output 2 - | 3 - 150 | Output 1- 151 | 152 | Output 2- and | 153 | 154 | 155 | Output 3 156 | 157 | 158 | 159 | 160
-Linked to SDGs* Outcome | Outcome 3, Output | Cross-cutting | Cross-cutting Information | 85 | 86 | 87 | Cross-cutting 88 | 89 | 90 | 91 | 92
+| Linked to SDGs* | # | Theme/group | Performance Indicators | Unit | Disaggregated by: | Measuring Frequency | Means of verification | Responsible Ministry /Agency | Comments | Baseline data | Baseline year | Baseline data source | Target |
+|---|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | Outcome 3, Output 2 – Preparedness for natural disasters and risk mitigation |  |  |  |  |  |  |  |  |  |  |
+|  |  | Disaster impact | Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people |  |  |  |  |  | Green growth indicator 14 & Outcome 3 indicator |  |  |  |  |
+|  |  |  | Outcome 3, Output 3 – Reduced instability of agricultural production |  |  |  |  |  |  |  |  |  |  |
+|  | 150 | Agricultural production stability | EVI component: Instability of agricultural production | Convert to Index | National | Annual | Sources provided in LDC Guidelines, Annex 1 | MPI/LSB | Green growth indicator 15 and LDC graduation factor |  |  |  | DK |
+|  |  |  | CROSS CUTTING OUTPUTS |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | Cross-cutting Output 1– Public governance and administration enhanced |  |  |  |  |  |  |  |  |  |  |
+|  | 151 | Public management and administration | Percentage of districts meeting the criteria of 3 Builds District | % | National | Annual | Admin.Data |  |  |  |  |  | Y |
+|  | 152 |  | Percentage of districts having completed training for the rollout of the 3 Builds (Sam Sang) | % | National | Annual | Admin.Data |  |  |  |  |  |  |
+|  |  |  | Cross-cutting Output 2– Local innovation and use of science, technology and telecommunications promoted, Information and communication technologies (ICT) enhanced |  |  |  |  |  |  |  |  |  |  |
+| 85 | 153 | Access to information and communications technology (ICT) | Percentage of population registered as internet users through landline & wireless | % | National | Annual | Admin.Data | MPT |  | 7 | 2015 | MPT | 30.0 |
+| 86 | 154 |  | Percentage of population registered as mobile phone users | % | National | Annual | Admin.Data | MPT |  | 57 | 2015 | MPT | 100.0 |
+| 87 | 155 |  | Percentage of population registered as landline and wireless home phone users | % | National | Annual | Admin.Data | MPT |  | 14 | 2015 | MPT | 20.0 |
+|  |  |  | Cross-cutting Output 3 – Gender equality and empowerment of women and youth |  |  |  |  |  |  |  |  |  |  |
+| 88 | 156 | Women’s empowerment & gender equality | Percentage of women in decision making positions /leadership positions | % | National/Province/district | Annual | Admin.Data | MoHA& Central Party Bureau |  | 13.34 | 2015 | Statistics of Civil Servant 2015 | >15 |
+| 89 | 157 |  | Percentage of women in National Assembly | % | National | Annual | Admin.Data | NA |  | 27.5 | 2015 | NA |  |
+| 90 | 158 |  | Share of women among owners of businesses/ enterprises | % | National | Periodic | Surveys | MOIC, MOLSW |  |  |  |  |  |
+|  |  |  | Gender equality in Education |  |  |  |  |  | See Outcome 2, Output 3 indicators |  |  |  |  |
+|  |  |  | Gender equality in Employment |  |  |  |  |  | See Outcome 1, Output 5 indicators. |  |  |  |  |
+| 91 | 159 |  | Percentage of time spent on unpaid domestic and care work by sex, age group and location | % | National/ sex /location | Periodic | Surveys | LSB |  |  |  |  |  |
+| 92 | 160 |  | Adolescent pregnancy, as a percentage of total pregnancy | % | National | Annual | Admin.Data | MoH |  |  |  |  |  |
 
 ### KEY for NSEDP M&E Framework
 
 > Blue shaded cells represent indicators that are linked to LDC graduation criteria.
 
-Grey cells represent indicators that appear again under another output.  These indicators are therefore relevant to more than one output.
+Grey cells represent indicators that appear again under another output. These indicators are therefore relevant to more than one output.
 
 [[END OF PAGE 191]]
 
@@ -5565,22 +5915,46 @@ Grey cells represent indicators that appear again under another output.  These i
 
 184
 
-# Annex 2: 7 TH  NSEDP Achievement Figures
+# Annex 2: 7TH NSEDP Achievement Figures
 
 ## ເອກະສານຊ້ອນທ້າຍ 2
 
-Targets 2011-2015 | 12 | >8 | 3.5 | 15 6.5 | 104,000 | 100 | 23 39 | 38 | 1,700 127,000.00 | 12000-15000 | 30000-33000 | 3500-3900 | 64000-71000 | 12000-15000 | 8500 | <8 | -/+5 | -/+5 | >6
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Compared to Plan | 11 | 195.88% | 96.43% | 91.05% | 247.81% | 307.36%
-Average 5 Years | 10 | 7.94 | 2.96 | 11.00 | 8.80 | 81,228.62 | 10,129.66 | 100.00 | 25.66 | 28.22 46.12 | 49,752.26 2,603.54 | 5,396.25 673.80 | 33,453.77 | 8,298.70 | 19,909.60 | 15,329.40 | 23,727.60 | (3,818.00) | 5.00 | 8,014.27 | 0.63% | 256.12 | 0.99% | 26.87% | imports on average
-Total 5 Years | 9 | 406,143.12 | 50,677.49 | 248,761.28 13,017.69 | 26,981.26 | 3,369.00 | 167,268.83 | 41,493.50 | 99,548.00 | 76,647.00 | 118,638.00 | (19,090.00) | can cover 5 months of
-Implementation 2014-2015 | 8 | 7.5 | 3 | 8.9 | 9.1 102,320.00 | 12,596.10 | 100.00 | 23.70 | 29.10 | 47.20 | 1,970.00 | 44,359.03 3,424.93 | 5,361.27 660.00 | 28,081.73 | 7,491.10 | 5,361,279.00 | 24,468.00 19,923.00 | 29,097.00 | (4,629.00) | 1.68 -1.11% | 8,123.15 | 245.52 | 2.29% | 20.66% | 798.20 the reserves
-Implementation 2013-2014 | 7 | 7.8 | 3 | 8.5 9.3 | 90,823.12 | 11,305.98 | 100.00 | 24.80 | 27.50 | 47.70 | 1,671.00 | 94,315.29 2,760.82 | 4,819.92 | 600.00 77,930.40 | 8,804.15 | 4,819,920.00 23,331.00 | 18,161.00 | 28,160.00 | (4,829.00) | 5.16 | 8,033.20 | -2.06% | 251.13 | 3.26% | 27.14% | 834.70
-Implementation 2012-2013 | 6 | 8 | 3.1 | 7.4 9.7 | 80,199.00 | 10,193.17 | 100.00 | 25.20 | 28.00 | 46.80 | 1,534.00 45,198.21 | 2,939.64 | 6,097.63 | 24,388.00 | 775.00 | 11,772.94 | 6,097,638.00 20,176.00 | 15,264.00 | 26,269.00 | (6,093.00) | 5.64 | 1.82% | 259.32 | -0.46% | 7,867.92 | 20.61% | 583.44
-Implementation 2011-2012 | 5 | 8.3 | 2.8 | 14.4 8.1 | 70,343.00 | 8,781.10 | 100.00 | 26.70 | 29.60 | 43.70 | 1,349.00 | 36,225.52 | 2,139.07 5,639.55 | 704.00 | 21,520.00 | 6,926.90 | 5,639,553.92 | 17,263.00 12,698.00 | 19,115.00 | (1,852.00) | 5.12 | 8,010.73 | 0.32% | 258.13 | 28.01% | 3.25% | 658.57
-Implementation 2010-2011 | 4 | 8.1 | 2.9 | 15.8 7.8 | 62,458.00 | 7,771.95 | 100.00 | 27.90 | 26.90 | 45.20 | 1,217.00 | 28,663.23 | 1,753.23 5,062.89 | 630.00 | 6,498.41 | 5,062,894.20 | 15,997.00 | 15,348.70 | 14,310.00 10,601.00 | (1,687.00) | 7.42 | 8,036.34 | 4.16% | 266.51 | -3.39% | 37.94% | 718.10
-Unit | 3 | % | % | % % | Billion Kip | Million USD | % | % | % | % | USD | Billion Kip | Billion Kip Billion Kip | USD Billion Kip | Billion Kip | Billion Kip | Billion Kip | Billion Kip | Billion Kip | Kip/Dollar | % | % | Kip/Baht | % | % | Million USD | Months
-No. Items | 1 2 | I. Economic Growth | 1 GDP Growth | - Agriculture and Forestry | - Industry - Services | 2 GDP at Current Price | GDP at Current Price | 3 Shared of GDP | - Agriculture and Forestry | - Industry | - Services 4 | GDP per capita | II. Total Investment Domestic Budget | 1 2 Official Development Assistance | 3 Domestic and Foreign Investment | Bank Credit | Total Revenue | - Domestic Revenue 2 Expenditure | 4 III. Budget Balanced | 1 | 3 Budget Deficit IV. Monetary | Exchange Rate - Kip/Dollar | Inflation 2 | 1 | + Percent | + Percent changed | changed | - Kip/Baht | Money supply (M2) | 3 4 Foreign Reserve | - Total Reserves in months of imports
+| No. | Items | Unit | Implementation 2010-2011 | Implementation 2011-2012 | Implementation 2012-2013 | Implementation 2013-2014 | Implementation 2014-2015 | Total 5 Years | Average 5 Years | Compared to Plan | Targets 2011-2015 |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| I. | Economic Growth |  |  |  |  |  |  |  |  |  |  |
+| 1 | GDP Growth | % | 8.1 | 8.3 | 8 | 7.8 | 7.5 |  | 7.94 |  | >8 |
+|  | - Agriculture and Forestry | % | 2.9 | 2.8 | 3.1 | 3 | 3 |  | 2.96 |  | 3.5 |
+|  | - Industry | % | 15.8 | 14.4 | 7.4 | 8.5 | 8.9 |  | 11.00 |  | 15 |
+|  | - Services | % | 7.8 | 8.1 | 9.7 | 9.3 | 9.1 |  | 8.80 |  | 6.5 |
+| 2 | GDP at Current Price | Billion Kip | 62,458.00 | 70,343.00 | 80,199.00 | 90,823.12 | 102,320.00 | 406,143.12 | 81,228.62 |  | 104,000 |
+|  | GDP at Current Price | Million USD | 7,771.95 | 8,781.10 | 10,193.17 | 11,305.98 | 12,596.10 | 50,677.49 | 10,129.66 |  |  |
+| 3 | Shared of GDP | % | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 |  | 100.00 |  | 100 |
+|  | - Agriculture and Forestry | % | 27.90 | 26.70 | 25.20 | 24.80 | 23.70 |  | 25.66 |  | 23 |
+|  | - Industry | % | 26.90 | 29.60 | 28.00 | 27.50 | 29.10 |  | 28.22 |  | 39 |
+|  | - Services | % | 45.20 | 43.70 | 46.80 | 47.70 | 47.20 |  | 46.12 |  | 38 |
+| 4 | GDP per capita | USD | 1,217.00 | 1,349.00 | 1,534.00 | 1,671.00 | 1,970.00 |  |  |  | 1,700 |
+| II. | Total Investment | Billion Kip | 28,663.23 | 36,225.52 | 45,198.21 | 94,315.29 | 44,359.03 | 248,761.28 | 49,752.26 | 195.88% | 127,000.00 |
+| 1 | Domestic Budget | Billion Kip | 1,753.23 | 2,139.07 | 2,939.64 | 2,760.82 | 3,424.93 | 13,017.69 | 2,603.54 | 96.43% | 12000-15000 |
+| 2 | Official Development Assistance (ODA) | Billion Kip | 5,062.89 | 5,639.55 | 6,097.63 | 4,819.92 | 5,361.27 | 26,981.26 | 5,396.25 |  | 30000-33000 |
+|  |  | USD | 630.00 | 704.00 | 775.00 | 600.00 | 660.00 | 3,369.00 | 673.80 | 91.05% | 3500-3900 |
+| 3 | Domestic and Foreign Investment | Billion Kip | 15,348.70 | 21,520.00 | 24,388.00 | 77,930.40 | 28,081.73 | 167,268.83 | 33,453.77 | 247.81% | 64000-71000 |
+| 4 | Bank Credit | Billion Kip | 6,498.41 | 6,926.90 | 11,772.94 | 8,804.15 | 7,491.10 | 41,493.50 | 8,298.70 | 307.36% | 12000-15000 |
+| III. | Budget Balanced |  | 5,062,894.20 | 5,639,553.92 | 6,097,638.00 | 4,819,920.00 | 5,361,279.00 |  |  |  |  |
+| 1 | Total Revenue | Billion Kip | 14,310.00 | 17,263.00 | 20,176.00 | 23,331.00 | 24,468.00 | 99,548.00 | 19,909.60 |  |  |
+|  | - Domestic Revenue | Billion Kip | 10,601.00 | 12,698.00 | 15,264.00 | 18,161.00 | 19,923.00 | 76,647.00 | 15,329.40 |  |  |
+| 2 | Expenditure | Billion Kip | 15,997.00 | 19,115.00 | 26,269.00 | 28,160.00 | 29,097.00 | 118,638.00 | 23,727.60 |  |  |
+| 3 | Budget Deficit | Billion Kip | (1,687.00) | (1,852.00) | (6,093.00) | (4,829.00) | (4,629.00) | (19,090.00) | (3,818.00) |  |  |
+| IV. | Monetary |  |  |  |  |  |  |  |  |  |  |
+| 1 | Inflation | % | 7.42 | 5.12 | 5.64 | 5.16 | 1.68 |  | 5.00 |  | <8 |
+| 2 | Exchange Rate |  |  |  |  |  |  |  |  |  |  |
+|  | - Kip/Dollar | Kip/Dollar | 8,036.34 | 8,010.73 | 7,867.92 | 8,033.20 | 8,123.15 |  | 8,014.27 |  | 8500 |
+|  | + Percent changed | % | 4.16% | 0.32% | 1.82% | -2.06% | -1.11% |  | 0.63% |  | -/+5 |
+|  | - Kip/Baht | Kip/Baht | 266.51 | 258.13 | 259.32 | 251.13 | 245.52 |  | 256.12 |  |  |
+|  | + Percent changed | % | -3.39% | 3.25% | -0.46% | 3.26% | 2.29% |  | 0.99% |  | -/+5 |
+| 3 | Money supply (M2) | % | 37.94% | 28.01% | 20.61% | 27.14% | 20.66% |  | 26.87% |  |  |
+| 4 | Foreign Reserve | Million USD | 718.10 | 658.57 | 583.44 | 834.70 | 798.20 |  |  |  |  |
+|  | - Total Reserves in months of imports | Months | the reserves can cover 5 months of imports on average |  |  |  |  |  |  |  | >6 |
 
 [[END OF PAGE 192]]
 
@@ -5588,18 +5962,29 @@ No. Items | 1 2 | I. Economic Growth | 1 GDP Growth | - Agriculture and Forestry
 
 185
 
-Targets 2011-2015 | 32 | 10-12 | 24-26 | 50-56 | 10-12 | 19-21 | 22-25 | 3-5 | 18
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Compared to Plan
-Average 5 Years | 2,845.85 | 21.17% | 3,525.93 | 22.83% | (680.09)
-Total 5 Years | 14,229.23 | 105.87% | 17,629.67 | 114.14% | (3,400.44) | 61.25% | 5.23% | 10.85% | 67.24% | 16.68% | 24.51% | 18.87% | 29.21% | -4.70% | 28.08% | 34.79% | -6.71%
-Implementation 2014-2015 | 3,426.07 | -0.22% | 4,407.72 | -5.83% | (981.65) | 43.35% | 7.72% | 12.09% | 63.31% | 16.89% | 23.91% | 19.47% | 28.44% | -4.52% | 27.20% | 34.99% | -7.79%
-Implementation 2013-2014 | 3,433.71 | -5.82% | 4,680.84 | 28.25% | (1,247.13) | 103.85% | 2.93% | 5.11% | 82.63% | 9.33% | 25.69% | 20.00% | 31.01% | -5.32% | 30.37% | 41.40% | -11.03%
-Implementation 2012-2013 | 3,645.86 | 114.91% | 3,649.75 | 42.19% | (3.89) | 56.36% | 6.50% | 13.49% | 53.96% | 26.05% | 25.16% | 19.03% | 32.75% | -7.60% | 35.77% | 35.81% | -0.04%
-Implementation 2011-2012 | 1,696.44 | -16.31% | 2,566.78 | 10.42% | (870.34) | 1,670.97 | 51.50% | 5.90% | 15.57% | 59.41% | 19.12% | 24.54% | 18.05% | 27.17% | -2.63% | 19.32% | 29.23% | -9.91%
-Implementation 2010-2011 | 2,027.15 | 13.32% | 2,324.58 | 39.12% | (297.43) | 1,788.93 | 45.89% | 6.12% | 17.66% | 53.55% | 22.67% | 22.91% | 16.97% | 25.61% | -2.70% | 26.08% | 29.91% | -3.83%
-Unit | Million USD | Million USD | Million USD | % | % | % | % | % | % | % | % | % | % | % | %
-No. Items | Total Exports | growth per annum | Total Imports | growth per annum | Trade deficit | * Compared to GDP | I Total invesment per GDP | 1 Domestic Budget/Total Investment | 2 ODA/Total Investment | 3 Foreign and Domestic Investment/Total Investment | 4 Bank Credit/Total Investment | II Budget Balanced per GDP | 1 Total Revenue | - Domestic Revenue | 2 Expenditure | 3 Budget Deficit | III. Trade per GDP | 1 Total Exports | 2 Total Imports | 3 Trade deficit
+| No. | Items | Unit | Implementation 2010-2011 | Implementation 2011-2012 | Implementation 2012-2013 | Implementation 2013-2014 | Implementation 2014-2015 | Total 5 Years | Average 5 Years | Compared to Plan | Targets 2011-2015 |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| V. | Trade |  |  |  |  |  |  |  |  |  |  |
+|  | Total Exports | Million USD | 2,027.15 | 1,696.44 | 3,645.86 | 3,433.71 | 3,426.07 | 14,229.23 | 2,845.85 |  |  |
+|  | growth per annum |  | 13.32% | -16.31% | 114.91% | -5.82% | -0.22% | 105.87% | 21.17% |  |  |
+|  | Total Imports | Million USD | 2,324.58 | 2,566.78 | 3,649.75 | 4,680.84 | 4,407.72 | 17,629.67 | 3,525.93 |  |  |
+|  | growth per annum |  | 39.12% | 10.42% | 42.19% | 28.25% | -5.83% | 114.14% | 22.83% |  |  |
+|  | Trade deficit | Million USD | (297.43) | (870.34) | (3.89) | (1,247.13) | (981.65) | (3,400.44) | (680.09) |  |  |
+|  | * Compared to GDP |  | 1,788.93 | 1,670.97 |  |  |  |  |  |  |  |
+| I | Total invesment per GDP | % | 45.89% | 51.50% | 56.36% | 103.85% | 43.35% | 61.25% |  |  | 32 |
+| 1 | Domestic Budget/Total Investment | % | 6.12% | 5.90% | 6.50% | 2.93% | 7.72% | 5.23% |  |  | 10-12 |
+| 2 | ODA/Total Investment | % | 17.66% | 15.57% | 13.49% | 5.11% | 12.09% | 10.85% |  |  | 24-26 |
+| 3 | Foreign and Domestic Investment/Total Investment | % | 53.55% | 59.41% | 53.96% | 82.63% | 63.31% | 67.24% |  |  | 50-56 |
+| 4 | Bank Credit/Total Investment | % | 22.67% | 19.12% | 26.05% | 9.33% | 16.89% | 16.68% |  |  | 10-12 |
+| II | Budget Balanced per GDP |  |  |  |  |  |  |  |  |  |  |
+| 1 | Total Revenue | % | 22.91% | 24.54% | 25.16% | 25.69% | 23.91% | 24.51% |  |  | 19-21 |
+|  | - Domestic Revenue | % | 16.97% | 18.05% | 19.03% | 20.00% | 19.47% | 18.87% |  |  |  |
+| 2 | Expenditure | % | 25.61% | 27.17% | 32.75% | 31.01% | 28.44% | 29.21% |  |  | 22-25 |
+| 3 | Budget Deficit | % | -2.70% | -2.63% | -7.60% | -5.32% | -4.52% | -4.70% |  |  | 3-5 |
+| III. | Trade per GDP |  |  |  |  |  |  |  |  |  |  |
+| 1 | Total Exports | % | 26.08% | 19.32% | 35.77% | 30.37% | 27.20% | 28.08% |  |  | 18 |
+| 2 | Total Imports | % | 29.91% | 29.23% | 35.81% | 41.40% | 34.99% | 34.79% |  |  |  |
+| 3 | Trade deficit | % | -3.83% | -9.91% | -0.04% | -11.03% | -7.79% | -6.71% |  |  |  |
 
 [[END OF PAGE 193]]
 
@@ -5609,8 +5994,48 @@ No. Items | Total Exports | growth per annum | Total Imports | growth per annum 
 
 # Annex 3: Main targets of the 8th NSEDP (2016-2020)
 
-Unit 2016-2020 | Million People 7.08 | % 7.5 | % 3.2 % 9.3 | 8.9 | 19.0 | 32.0 | 41.0 | Billion Kip 746,896 US Dollar 90,509 | Kip/person 26.5 USD/person 3,190 | USD/person 2,520 | % 30% | Billion Kip 223,000 % 9-11% | % 12-16% % 3.8 | % 54-57% % 16.6 | % 19-21% | % 6.0 | %/GDP 19-20% | %/GDP 16-17% | %/GDP ≤ 25% %/GDP ≤ 5% | % >15 ຕໍ່ປີ | % <5 ຕໍ່ປີ | Million People 4.41 | % <10% | % 95% % 90% | 1,000 live births 30 | 100,000 live births 160 % 20% | % 32% | number 400,000 | total area 70% | population 80% | % % | % %
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| Items | Unit | 2016-2020 |
+|---|---|---:|
+| Population | Million People | 7.08 |
+| GDP Growth | % | 7.5 |
+| - Agriculture and Forestry | % | 3.2 |
+| - Industry | % | 9.3 |
+| - Services | % | 8.9 |
+| Shared of GDP: - Agriculture and Forestry | % | 19.0 |
+| - Industry | % | 32.0 |
+| - Services | % | 41.0 |
+| GDP at Current Price | Billion Kip | 746,896 |
+| GDP at Current Price | Million US Dollar | 90,509 |
+| GDP per capita | Million Kip/person | 26.5 |
+| GDP per capita | USD/person | 3,190 |
+| GNI per capita (Atlast method) | USD/person | 2,520 |
+| Total Investment per GDP | % | 30% |
+| Total Investment | Billion Kip | 223,000 |
+| Domestic Budget | % | 9-11% |
+| per GDP | % | 3.3 |
+| Official Development Assistance (ODA) | % | 12-16% |
+| per GDP | % | 3.8 |
+| Domestic and Foreign Investment | % | 54-57% |
+| per GDP | % | 16.6 |
+| Financial System | % | 19-21% |
+| per GDP | % | 6.0 |
+| Total Revenue | %/GDP | 19-20% |
+| Domestic Revenue | %/GDP | 16-17% |
+| Expenditure | %/GDP | ≤ 25% |
+| Budget Deficit | %/GDP | ≤ 5% |
+| Export growth | % | >15 ຕໍ່ປີ |
+| Inflation | % | <5 ຕໍ່ປີ |
+| Expected Labour Force | Million People | 4.41 |
+| Poverty Rate | % | <10% |
+| Adult literacy rate - population above 15 years | % | 95% |
+| ອັດຕາຊົມໃຊ້ນ້ຳສະອາດ | % | 90% |
+| Infant mortality rate | per 1,000 live births | 30 |
+| Maternal mortality rate | per 100,000 live births | 160 |
+| Prevalence of underweight, weight for age (% of children under 5) | % | 20% |
+| Prevalence of stunting, height for age (% of children under 5) | % | 32% |
+| Social protection coverage | % of total population | 80% |
+| Land title | number | 400,000 |
+| Forest cover | % of total area | 70% |
 
 [[END OF PAGE 194]]
 
@@ -5620,41 +6045,32 @@ Unit 2016-2020 | Million People 7.08 | % 7.5 | % 3.2 % 9.3 | 8.9 | 19.0 | 32.0 |
 
 # Annex 4: Poverty Rate, Poverty Gap and Severity Index, Gini Coefficient
 
-Coefficient | 2012/2013 | 36,17 37,51 | 35,52
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Gini | 2007/2008 | 35,04 | 35,80 | 33,05 | 35,2 | 29,8 | 30,1 | 31,6 | 28,9 | 31,6 | 28,3 | 42,0 | 34,0 38,0 | 38,0 | 32,1 | 33,9 | 34,2 | 32,2 | 30,0 | 37,9 | 28,7 | 31,5 32,4
-2002/2003 | 32,46 | 34,40 | 30,24 | 30,7 | 22,2 | 25,4 | 24,7 | 29,1 | 31,5 | 28,9 | 34,6 | 31,0 | 36,0 | 31,5 | 31,5 27,9 | 28,9 | 31,3 31,4 | 27,1 | 30,7 | 29,9 | 29,4
-Poverty Severity Index | 2012/2013 | 1,9 | 0,8 | 2,3 | 1,9 | 0,5 | 0,7 | 2,0 | 4,2 | 1,6 | 4,3 | 0,8 | 1,7 | 0,6 3,0 | 1,2 2,5 | 0,4 2,0 | 2,8 | 5,0 | 5,7 | 1,4 | 0,3
-2007/2008 | 2,3 | 1,1 | 2,8 | 2,7 | 4,2 | 1,8 | 3,3 | 2,8 | 1,6 | 4,9 | 0,9 | 2,5 1,2 | 6,0 | 2,0 | 1,3 2,2 | 2,1 | 2,1 | 9,3 | 3,3 | 0,4 | 1,3
-2002/2003 | 2,8 | 1,3 | 3,2 | 3,3 | 4,0 | 1,1 | 3,6 | 1,9 | 3,7 | 5,2 | 1,9 | 3,0 1,0 | 3,0 | 5,5 | 0,9 1,5 | 2,6 | 2,5 | 4,3 | 4,7 | 1,1 | 4,1
-Poverty Gap | 2012/2013 | 5,5 | 2,3 | 6,8 | 5,9 | 2,1 | 2,5 | 6,4 | 11,6 | 5,3 | 11,3 | 2,9 | 5,2 | 1,5 | 8,3 1,8 | 3,6 | 6,8 6,1 | 7,6 | 14,7 11,6 | 4,2 | 1,4
-2007/2008 | 6,5 | 3,4 | 7,7 | 7,7 | 11,8 | 6,1 | 8,6 | 7,9 | 5,5 | 13,6 | 3,0 | 6,9 3,4 | 13,4 | 6,2 | 4,3 | 6,1 | 5,6 | 9,1 | 19,1 | 1,6 | 6,7 4,6
-2002/2003 | 8,0 | 4,1 | 9,2 | 9,4 | 11,8 | 4,1 | 10,8 | 5,3 | 10,4 | 13,9 | 5,8 | 8,4 | 3,4 | 8,4 12,3 | 3,4 | 7,7 | 7,6 | 13,1 | 11,8 | 3,6 | 5,5 11,6
-Poverty | ຊົນນະບົດ 28,6 | 29,9 | 26,9 | 32,2 | 38,7
-2012/2013 | ຕົວເມືອງ 10,0 | 8,9 | 12,8 | 16,1
-ຊົນນະບົດ | 31,7 | 36,5 | 50,1 | 35,7 | 38,6 | 35,3 | 30,8 | 52,7 | 15,8 | 33,5 | 15,2 | 48,1 31,7 | 22,4 | 29,8 34,6 | 25,5 | 59,3 | 9,3 | 28,9
-2007/2008 | ຕົວເມືອງ | 17,4 | 14,6 | 5,6 | 7,8 | 13,0 | 17,9 | 13,5 | 28,6 | 15,3 | 22,2 | 15,3 | 16,6 | 14,9 18,1 | 37,2 22,2 | 11,3 | 3,1 | 19,5 | 12,0 | 9,0
-Rate | 2002/2003 | ຊົນນະບົດ | 37,6 | 39,1 | 52,7 | 22,1 | 46,2 | 20,6 | 40,6 | 54,8 | 23,7 | 39,0 | 20,2 | 46,6 | 19,9 | 35,9 | 48,0 | 35,5 57,1 | 44,6 | 19,8 | 37,0 47,3
-ຕົວເມືອງ 19,7 | 30,6 | 36,8 | 26,0 | 38,9 | 24,5 | 29,7 | 26,1 | 29,8 | 20,1 | 15,6 | 19,7 | 12,4 23,2 | 23,8 | 12,8 | 12,4 | 25,6 | 11,0 | 15,1 16,7
-2012/2013 23,2 | 10,0 | 28,6 | 25,8 | 12,3 | 16,1 | 30,1 | 44,4 | 25,5 | 39,2 | 15,4 | 23,3 | 5,9 | 31,9 12,0 | 16,4 | 26,4 27,9 | 29,2 | 49,8 | 42,7 | 19,9 | 8,9
-Total | 2007/2008 | 27,6 | 17,4 31,7 | 32,5 | 46,0 | 30,5 | 33,7 | 32,6 | 27,2 | 50,5 | 15,7 | 29,8 | 15,2 | 42,0 28,0 | 21,5 | 31,4 28,5 | 22,8 | 36,3 | 51,8 | 10,0 | 24,6
-37,6 | 37,9 | 22,8 | 45,1 | 21,1 | 39,5 | 51,5 | 25,0 | 35,4 | 16,7 | 19,0 | 33,7 43,1 | 54,3 | 41,8 | 18,4 | 44,0
-2002/2003 | 33,5 | 19,7 | 50,8 | 41,6 | 28,7 | 32,6
-Household Consumption | 2012/2013 | 2.047,5 | 2.687,4 1.782,2 | 1.873,0 | 1.825,5 | 2.423,6 | 1.881,8 | 1.560,0 | 1.817,7 | 1.734,6 | 1.990,1 | 1.939,1 | 3.417,4 | 1.961,2 2.115,1 | 1.840,9 | 2.053,9 | 1.873,8 | 1.305,4 | 2.085,1 | 1.968,6 | 1.525,6 2.559,9
-Monthly | 2007/2008 | 2.170,7 2.950,2 | 1.826,1 | 1.975,7 | 1.258,6 | 1.654,6 | 1.734,9 | 1.279,0 | 2.177,6 | 1.471,5 | 3.035,4 | 2.389,1 | 3.183,1 | 2.191,0 1.857,5 | 2.019,1 | 1.871,8 2.365,0 | 1.948,0 | 1.455,9 | 1.518,7 | 2.299,5 | 1.759,7
-2002/2003 | 1.089,4 | 1.703,0 | 854,3 975,5 | 762,5 | 1.028,6 | 802,6 | 821,8 | 1.116,9 | 939,2 | 1.100,6 | 1.236,7 | 1.898,9 | 1.043,5 1.189,5 | 961,5 | 872,3 | 960,7 | 909,3 | 683,8 | 803,7 1.053,3 | 837,9
-Provinces | PDR | Luangnamtha | Oudomxay | Luangprabang | Huaphanh | Khammouane
-Lao | Urban | Northern | Phonsaly | Bokeo | Sayabouly | Central | Vientiane | Xiengkhouang | Bolikhamsay | Savannakhet | Southern | Salavan | Attapeu
-Capital | Sekong
-Vientiane
-Rural | Saysomboun
-5 | 6 | III
-5
-6 | 1 | 4
-2 | 4 | 3 Champasack | 1 | 3
-7 | 1
-I | 3 | 2 | 8 | 2 | II
-N0. | 4
+| N0. | Provinces | Household Consumption Monthly 2002/2003 | 2007/2008 | 2012/2013 | Poverty Rate Total 2002/2003 | 2007/2008 | 2012/2013 | Poverty Rate 2002/2003 ຕົວເມືອງ | ຊົນນະບົດ | Poverty Rate 2007/2008 ຕົວເມືອງ | ຊົນນະບົດ | Poverty Rate 2012/2013 ຕົວເມືອງ | ຊົນນະບົດ | Poverty Gap 2002/2003 | 2007/2008 | 2012/2013 | Poverty Severity Index 2002/2003 | 2007/2008 | 2012/2013 | Gini Coefficient 2002/2003 | 2007/2008 | 2012/2013 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  | Lao PDR | 1.089,4 | 2.170,7 | 2.047,5 | 33,5 | 27,6 | 23,2 | 19,7 | 37,6 | 17,4 | 31,7 | 10,0 | 28,6 | 8,0 | 6,5 | 5,5 | 2,8 | 2,3 | 1,9 | 32,46 | 35,04 | 36,17 |
+|  | Urban | 1.703,0 | 2.950,2 | 2.687,4 | 19,7 | 17,4 | 10,0 |  |  |  |  |  |  | 4,1 | 3,4 | 2,3 | 1,3 | 1,1 | 0,8 | 34,40 | 35,80 | 37,51 |
+|  | Rural | 854,3 | 1.826,1 | 1.782,2 | 37,6 | 31,7 | 28,6 |  |  |  |  |  |  | 9,2 | 7,7 | 6,8 | 3,2 | 2,8 | 2,3 | 30,24 | 33,05 | 35,52 |
+| I | Northern | 975,5 | 1.975,7 | 1.873,0 | 37,9 | 32,5 | 25,8 | 30,6 | 39,1 | 14,6 | 36,5 | 8,9 | 29,9 | 9,4 | 7,7 | 5,9 | 3,3 | 2,7 | 1,9 | 30,7 | 35,2 |  |
+| 1 | Phonsaly | 762,5 | 1.258,6 | 1.825,5 | 50,8 | 46,0 | 12,3 | 36,8 | 52,7 | 5,6 | 50,1 |  |  | 11,8 | 11,8 | 2,1 | 4,0 | 4,2 | 0,5 | 22,2 | 29,8 |  |
+| 2 | Luangnamtha | 1.028,6 | 1.654,6 | 2.423,6 | 22,8 | 30,5 | 16,1 | 26,0 | 22,1 | 7,8 | 35,7 |  |  | 4,1 | 6,1 | 2,5 | 1,1 | 1,8 | 0,7 | 25,4 | 30,1 |  |
+| 3 | Oudomxay | 802,6 | 1.734,9 | 1.881,8 | 45,1 | 33,7 | 30,1 | 38,9 | 46,2 | 13,0 | 38,6 |  |  | 10,8 | 8,6 | 6,4 | 3,6 | 3,3 | 2,0 | 24,7 | 31,6 |  |
+| 4 | Bokeo | 821,8 | 1.279,0 | 1.560,0 | 21,1 | 32,6 | 44,4 | 24,5 | 20,6 | 17,9 | 35,3 |  |  | 5,3 | 7,9 | 11,6 | 1,9 | 2,8 | 4,2 | 29,1 | 28,9 |  |
+| 5 | Luangprabang | 1.116,9 | 2.177,6 | 1.817,7 | 39,5 | 27,2 | 25,5 | 29,7 | 40,6 | 13,5 | 30,8 |  |  | 10,4 | 5,5 | 5,3 | 3,7 | 1,6 | 1,6 | 31,5 | 31,6 |  |
+| 6 | Huaphanh | 939,2 | 1.471,5 | 1.734,6 | 51,5 | 50,5 | 39,2 | 26,1 | 54,8 | 28,6 | 52,7 |  |  | 13,9 | 13,6 | 11,3 | 5,2 | 4,9 | 4,3 | 28,9 | 28,3 |  |
+| 7 | Sayabouly | 1.100,6 | 3.035,4 | 1.990,1 | 25,0 | 15,7 | 15,4 | 29,8 | 23,7 | 15,3 | 15,8 |  |  | 5,8 | 3,0 | 2,9 | 1,9 | 0,9 | 0,8 | 34,6 | 42,0 |  |
+| 8 | Saysomboun |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| II | Central | 1.236,7 | 2.389,1 | 1.939,1 | 35,4 | 29,8 | 23,3 | 20,1 | 39,0 | 22,2 | 33,5 | 12,8 | 26,9 | 8,4 | 6,9 | 5,2 | 3,0 | 2,5 | 1,7 | 31,0 | 34,0 |  |
+| 1 | Vientiane Capital | 1.898,9 | 3.183,1 | 3.417,4 | 16,7 | 15,2 | 5,9 | 15,6 | 20,2 | 15,3 | 15,2 |  |  | 3,4 | 3,4 | 1,5 | 1,0 | 1,2 | 0,6 | 36,0 | 38,0 |  |
+| 2 | Xiengkhouang | 1.043,5 | 2.191,0 | 1.961,2 | 41,6 | 42,0 | 31,9 | 19,7 | 46,6 | 16,6 | 48,1 |  |  | 8,4 | 13,4 | 8,3 | 3,0 | 6,0 | 3,0 | 31,5 | 38,0 |  |
+| 3 | Vientiane | 1.189,5 | 1.857,5 | 2.115,1 | 19,0 | 28,0 | 12,0 | 12,4 | 19,9 | 14,9 | 31,7 |  |  | 12,3 | 6,2 | 1,8 | 5,5 | 2,0 | 0,4 | 31,5 | 32,1 |  |
+| 4 | Bolikhamsay | 961,5 | 2.019,1 | 1.840,9 | 28,7 | 21,5 | 16,4 | 15,1 | 37,0 | 18,1 | 22,4 |  |  | 3,4 | 4,3 | 3,6 | 0,9 | 1,3 | 1,2 | 27,9 | 33,9 |  |
+| 5 | Khammouane | 872,3 | 1.871,8 | 1.525,6 | 33,7 | 31,4 | 26,4 | 23,8 | 35,9 | 37,2 | 29,8 |  |  | 5,5 | 6,7 | 6,8 | 1,5 | 2,2 | 2,5 | 28,9 | 31,5 |  |
+| 6 | Savannakhet | 960,7 | 2.365,0 | 2.053,9 | 43,1 | 28,5 | 27,9 | 23,2 | 48,0 | 22,2 | 34,6 |  |  | 7,7 | 6,1 | 6,1 | 2,6 | 2,1 | 2,0 | 31,3 | 34,2 |  |
+| III | Southern | 909,3 | 1.948,0 | 1.873,8 | 32,6 | 22,8 | 29,2 | 12,8 | 35,5 | 11,3 | 25,5 | 16,1 | 32,2 | 7,6 | 5,6 | 7,6 | 2,5 | 2,1 | 2,8 | 31,4 | 32,2 |  |
+| 1 | Salavan | 683,8 | 1.455,9 | 1.305,4 | 54,3 | 36,3 | 49,8 | 12,4 | 57,1 | 3,1 | 38,7 |  |  | 13,1 | 9,1 | 14,7 | 4,3 | 3,3 | 5,7 | 27,1 | 30,0 |  |
+| 2 | Sekong | 803,7 | 1.518,7 | 2.085,1 | 41,8 | 51,8 | 42,7 | 25,6 | 44,6 | 19,5 | 59,3 |  |  | 11,8 | 19,1 | 11,6 | 4,7 | 9,3 | 5,0 | 30,7 | 37,9 |  |
+| 3 | Champasack | 1.053,3 | 2.299,5 | 1.968,6 | 18,4 | 10,0 | 19,9 | 11,0 | 19,8 | 12,0 | 9,3 |  |  | 3,6 | 1,6 | 4,2 | 1,1 | 0,4 | 1,4 | 29,9 | 28,7 |  |
+| 4 | Attapeu | 837,9 | 1.759,7 | 2.559,9 | 44,0 | 24,6 | 8,9 | 16,7 | 47,3 | 9,0 | 28,9 |  |  | 11,6 | 4,6 | 1,4 | 4,1 | 1,3 | 0,3 | 29,4 | 32,4 |  |
 
 > Remark: * Poverty Rate in the central region excluded Vientiane Capital
 
@@ -5682,23 +6098,23 @@ N0. | 4
 
 ## Intended Impact
 
-Synonyms - Intended effect / Intended influence / Intended consequences / Intended repercussions / Intended ramifications
+Synonyms – Intended effect / Intended influence / Intended consequences / Intended repercussions / Intended ramifications
 
 A statement or series of statements about what the Government is trying to achieve and will hold itself accountable for within some manageable period of time.
 
 ## Outcome
 
-Synonyms the way a thing turns out / a consequence / conclusion
+Synonyms – the way a thing turns out / a consequence / conclusion
 
-Outcomes reflect accomplishments and are phrased as an improvement over a baseline situation, which is described in the Performance Indicators and Targets columns of the Logical Framework. Outcomes should be reasonably achievable - subject to assumptions and risks - by the end of the 8 th  NSEDP implementation period and necessary but not sufficient to achieve the Intended Impact of the plan.
+Outcomes reflect accomplishments and are phrased as an improvement over a baseline situation, which is described in the Performance Indicators and Targets columns of the Logical Framework. Outcomes should be reasonably achievable – subject to assumptions and risks – by the end of the 8 th  NSEDP implementation period and necessary but not sufficient to achieve the Intended Impact of the plan.
 
 Outcomes are actual or intended changes in development conditions that UNDP interventions are seeking to support. They describe a change in development conditions between the completion of outputs and the achievement of impact.
 
 ## Outputs
 
-Synonyms the amount of something produced / amount/quantity produced / yield
+Synonyms – the amount of something produced / amount/quantity produced / yield
 
-Outputs are the specific products and services thatemerge from linked Activities thatuse specified Inputs i.e. PIP resources. Outputs, therefore, relate to the completion (rather than the conduct) of activities and are the type of result over which sectors have a high degree of influence.
+Outputs are the specific products and services that emerge from linked Activities that use specified Inputs i.e. PIP resources. Outputs, therefore, relate to the completion (rather than the conduct) of activities and are the type of result over which sectors have a high degree of influence.
 
 ## Activities
 
@@ -5720,25 +6136,25 @@ Inputs are the main resources required to undertake the activities and to produc
 
 ## Indicators
 
-Indicators are specific measures that, when tracked systematically over time, indicate progress (or not) toward a specific target. The criteria for the design of effective indicators are often represented in the acronym 'CREAM.' The letters of the acronym refer totheir being: (i) clear; (ii) relevant; (iii) economic (affordable to measure); (iv) adequate; and (v) monitorable.
+Indicators are specific measures that, when tracked systematically over time, indicate progress (or not) toward a specific target. The criteria for the design of effective indicators are often represented in the acronym “CREAM.” The letters of the acronym refer to their being: (i) clear; (ii) relevant; (iii) economic (affordable to measure); (iv) adequate; and (v) monitorable.
 
-Clarity implies that the indicator is expressed in such a way that it cannot be misunderstood. Relevance is very important: it is emphasised that Outcome indicators are not general - they are designed for a specific purpose and cannot be transferred from plan to plan.19 Affordability of the collection and analysis of the information is also important: if it is not affordable, because it will need fiscal resources that are not available, it should not be used. The indicators should be adequate in the sense that they cover all the key aspects of the part of the plan with which they are concerned. Monitorability is a measure of the adequacy of the data sources (including timing of the availability of information, frequency of availability, quality of information).
+Clarity implies that the indicator is expressed in such a way that it cannot be misunderstood. Relevance is very important: it is emphasised that Outcome indicators are not general – they are designed for a specific purpose and cannot be transferred from plan to plan.19 Affordability of the collection and analysis of the information is also important: if it is not affordable, because it will need fiscal resources that are not available, it should not be used. The indicators should be adequate in the sense that they cover all the key aspects of the part of the plan with which they are concerned. Monitorability is a measure of the adequacy of the data sources (including timing of the availability of information, frequency of availability, quality of information).
 
 ## Indicator ImpactLevel
 
-Performance indicators at the impact level specify the expected medium- to long-term impact to which the present NSEDP or series of NSEDPs will contribute. Hence, the impact-level indicator includes targets beyond the scope of the 8 th  NSEDP . It is essential that the responsibility for monitoring and measuring the impact indicators is clearly defined during project processing (i.e. by DoP/MPI)
+Performance indicators at the impact level specify the expected medium- to long-term impact to which the present NSEDP or series of NSEDPs will contribute. Hence, the impact-level indicator includes targets beyond the scope of the 8 th  NSEDP. It is essential that the responsibility for monitoring and measuring the impact indicators is clearly defined during project processing (i.e. by DoP/MPI)
 
 ## Outcome-level Indicator
 
-Outcome or end-of-project indicators define the 8 th  NSEDP's immediate effect on or the behavioural change of beneficiaries and improvements to systems or institutions. They are the performance targets that the 8 th NSEDP takes full accountability to deliver and they are the basis by which the 8 th  NSEDP will be judged a success or a failure. The responsibility for monitoring and measuring the outcome indicators lies with the DoP/MPI.
+Outcome or end-of-project indicators define the 8 th  NSEDP’s immediate effect on or the behavioural change of beneficiaries and improvements to systems or institutions. They are the performance targets that the 8 th NSEDP takes full accountability to deliver and they are the basis by which the 8 th  NSEDP will be judged a success or a failure. The responsibility for monitoring and measuring the outcome indicators lies with the DoP/MPI.
 
 ## Output-level Indicator
 
-Output indicators are the easiest to define. They specify the key tangible goods and services the sectors will deliver to achieve the Outcomes. They define the sector's terms of accountability that have to be achieved by the end of 8 th   NSEDP implementation. It is the sector's responsibility to monitor the performance indicators at Output level.
+Output indicators are the easiest to define. They specify the key tangible goods and services the sectors will deliver to achieve the Outcomes. They define the sector’s terms of accountability that have to be achieved by the end of 8 th NSEDP implementation. It is the sector’s responsibility to monitor the performance indicators at Output level.
 
 ## Performance Targets
 
-The Targets are quantifiable levels of the Indicators that Lao PDR wants to achieve by the end of the Plan period. The formula for targets can be simply described as: Baseline data + desired level of improvement = target performance .
+The Targets are quantifiable levels of the Indicators that Lao PDR wants to achieve by the end of the Plan period. The formula for targets can be simply described as: Baseline data + desired level of improvement = target performance.
 
 > 19 This Report acknowledges this and focuses on providing support to the process of the preparation of the M&E system of the 8th NSEDP, but does not design the content of the 8th NSEDP M&E system. This can only be done within the overall NSEDP formulation process.
 
@@ -5752,17 +6168,17 @@ The Targets are quantifiable levels of the Indicators that Lao PDR wants to achi
 
 The desired level of improvement assumes a finite and expected level of inputs, activities and outputs (which are to be identified subsequently in an iterative process). Figure 10 shows that, at NSEDP level, Outcome Indicator targets are the targets established for relevant sector-level Outcome Indicators. When setting target values for selected performance indicators:
 
-· Use ranges rather than one value, because this not only acknowledges the difficulty in setting targetsbut also provides information on the expected minimum result and the possible result, e.g., 'between x percent and y percent' is better than quoting y percent alone. Achievements anywhere within the upper and lower boundaries ought to be considered as 'meeting predetermined results.' As an alternative, use the lower-level range and state 'at least x percent' .
+· Use ranges rather than one value, because this not only acknowledges the difficulty in setting targets but also provides information on the expected minimum result and the possible result, e.g., “between x percent and y percent” is better than quoting y percent alone. Achievements anywhere within the upper and lower boundaries ought to be considered as “meeting predetermined results.” As an alternative, use the lower-level range and state “at least x percent”.
 
-· Refer to results achieved elsewhere.If comparable indicator information is available for benchmarking, this should guide what is achievable.
+· Refer to results achieved elsewhere. If comparable indicator information is available for benchmarking, this should guide what is achievable.
 
 · Set intermediate targets, if possible, that can be reached during the life of the project and immediately afterward. This helps check on the feasibility of an end target as well as providing a better basis for assessing the likelihood of success during project implementation.
 
 ## Baselines
 
-Baseline data is a key factor in NSEDP M&E. Baseline data enables an assessment of 'where are we today' , against which progress can be measured. The need to restate this should not be underestimated: the M&E Framework for the 7 th  NSEDP had a very limited amount of data on the baseline for the Five-Year Plan and without baseline data it is difficult to assess progress with the plan implementation. Many of the suggested baselines in the M&E Review referred to old data (i.e. the 2008 MDG Report) as a baseline. This is clearly an inadequate baseline for assessment of 7 th  NSEDP MDG performance.
+Baseline data is a key factor in NSEDP M&E. Baseline data enables an assessment of “where are we today”, against which progress can be measured. The need to restate this should not be underestimated: the M&E Framework for the 7 th  NSEDP had a very limited amount of data on the baseline for the Five-Year Plan and without baseline data it is difficult to assess progress with the plan implementation. Many of the suggested baselines in the M&E Review referred to old data (i.e. the 2008 MDG Report) as a baseline. This is clearly an inadequate baseline for assessment of 7 th  NSEDP MDG performance.
 
-Baseline data can be drawn fromprimary sourcesthatare collected specifically for the Plan, and from secondary sources thatare collected for another purpose but can be used for NSEDP monitoring. Secondary sources can be drawn from within NSEDP implementing organizations within government, LSB surveys, international data sources and others. The use of secondary data can reduce M&E expenditure, but care is needed to ensure that it is truly the information needed.
+Baseline data can be drawn from primary sources that are collected specifically for the Plan, and from secondary sources that are collected for another purpose but can be used for NSEDP monitoring. Secondary sources can be drawn from within NSEDP implementing organizations within government, LSB surveys, international data sources and others. The use of secondary data can reduce M&E expenditure, but care is needed to ensure that it is truly the information needed.
 
 [[END OF PAGE 199]]
 
