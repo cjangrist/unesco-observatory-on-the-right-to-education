@@ -1,6 +1,9 @@
 [[START OF PAGE 1]]
 
-AÑO CXXXVI-MESV  Caracas, jueves 19 de febrero de 2009  N°5.908 Extraordinario
+GACETA OFICIAL
+DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
+
+AÑO CXXXVI—MESV  Caracas, jueves 19 de febrero de 2009  N°5.908 Extraordinario
 
 # SUMARIO
 ## Asamblea Nacional
@@ -39,13 +42,15 @@ La  República  Bolivariana  de  Venezuela  es  irrevocablemente libre e indepen
 Son derechos irrenunciables de la Nación la independencia, la libertad, la soberanía,  la  inmunidad,  la  integridad  territorial  y  la  autodeterminación nacional.
 
 ##### Artículo 2.
-Venezuela se constituye en un Estado democrático y social de Derecho  y  de  Justicia,  que  propugna  como  valores  superiores  de  su ordenamiento jurídico y de su actuación, la vida, la libertad, la justicia, la igualdad,  la  solidaridad,  la  democracia,  la  responsabilidad  social  y,  en general, la preeminencia de los derechos humanos, la ética y el pluralismo político.
+Venezuela se constituye en un Estado democrático y social de Derecho y de Justicia, que propugna como valores superiores de su ordenamiento jurídico y de su actuación, la vida, la libertad, la justicia, la
 
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+igualdad, la solidaridad, la democracia, la responsabilidad social y, en general, la preeminencia de los derechos humanos, la ética y el pluralismo político.
 
 ##### Artículo  3.
 El  Estado  tiene  como  fines  esenciales  la  defensa  y  el desarrollo de la persona y el respeto a su dignidad, el ejercicio democrático de la voluntad popular, la construcción de una sociedad justa y amante de la paz, la promoción de la prosperidad y bienestar del pueblo y  la  garantía  del  cumplimiento  de  los  principios,  derechos  y  deberes reconocidos y consagrados en esta Constitución.
@@ -221,7 +226,7 @@ Las  acciones  para  sancionar  los  delitos  de  lesa  humanidad,  violaciones 
 [[START OF PAGE 9]]
 
 ##### Artículo 30.
-El Estado tendrá la obligación de indemnizar integralmente a las  víctimas  de  violaciones  de  los  derechos  humanos  que  le  sean imputables,  o  a  su  derechohabientes,  incluido  el  pago  de  daños  y perjuicios.
+El Estado tendrá la obligación de indemnizar integralmente a las víctimas de violaciones de los derechos humanos que le sean imputables, o a sus derechohabientes, incluido el pago de daños y perjuicios.
 
 El  Estado  adoptará  las  medidas  legislativas  y  de  otra  naturaleza  para hacer efectivas las indemnizaciones establecidas en este artículo.
 
@@ -260,6 +265,8 @@ Son venezolanos y venezolanas por naturalización:
 
 [[START OF PAGE 10]]
 
+ininterrumpida de, por lo menos, diez años, inmediatamente anteriores a la fecha de la respectiva solicitud.
+
 El  tiempo  de  residencia  se  reducirá  a  cinco  años  en  el  caso  de aquellos y aquellas que  tuvieren  la nacionalidad  originaria  de España, Portugal, Italia, países latinoamericanos y del Caribe.
 
 - Los extranjeros o extranjeras que contraigan matrimonio  con venezolanas o venezolanos desde que declaren su voluntad de serlo, transcurridos  por  lo  menos  cinco  años  a  partir  de  la  fecha  del matrimonio.
@@ -284,13 +291,15 @@ La ley dictará, de conformidad  con  las disposiciones anteriores,  las  normas
 #### Sección segunda: de la ciudadanía
 
 ##### Artículo  39.
-Los  venezolanos  y  venezolanas  que  no  estén  sujetos  o sujetas a inhabilitación política ni a interdicción civil, y en las condiciones de edad previstas en esta constitución, ejercen la ciudadanía; en consecuencia,  son  titulares  de  derechos  y  deberes  políticos  de  acuerdo con esta Constitución.
+Los venezolanos y venezolanas que no estén sujetos o sujetas a inhabilitación política ni a interdicción civil, y en las condiciones
 
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+de edad previstas en esta constitución, ejercen la ciudadanía; en consecuencia, son titulares de derechos y deberes políticos de acuerdo con esta Constitución.
 
 ##### Artículo  40.
 Los  derechos  políticos  son  privativos  de  los  venezolanos  y venezolanas, salvo las excepciones establecidas en esta Constitución.
@@ -376,6 +385,8 @@ El  debido  proceso  se  aplicará  a  todas  las  actuaciones judiciales y admi
 
 [[START OF PAGE 14]]
 
+e imparcial establecido con anterioridad. Quien no hable castellano o no pueda comunicarse de manera verbal, tiene derecho a un intérprete.
+
 - Toda persona tiene derecho a ser juzgada por sus jueces naturales en  las  jurisdicciones  ordinarias  o  especiales,  con  las  garantías establecidas en esta Constitución y en la ley. Ninguna persona podrá ser sometida a juicio sin conocer la identidad de quien la juzga, ni podrá ser procesada por tribunales de excepción o por comisiones creadas para tal efecto.
 
 - Ninguna persona podrá ser obligada a confesarse culpable o declarar contra  sí  misma,  su  cónyuge,  concubino  o  concubina,  o  pariente dentro del cuarto grado de consanguinidad y segundo de afinidad.
@@ -457,13 +468,15 @@ Toda persona tiene derecho a la libertad de conciencia y a manifestarla,  salvo 
 ##### Artículo  62.
 Todos  los  ciudadanos  y  ciudadanas  tienen  el  derecho  de participar  libremente  en  los  asuntos  públicos,  directamente  o  por  medio de sus representantes elegidos o elegidas.
 
-La  participación  del  pueblo  en  la  formación,  ejecución  y  control  de  la gestión  pública  es  el  medio  necesario  para  lograr  el  protagonismo  que garantice  su  completo  desarrollo,  tanto  individual  como  colectivo.  Es obligación del Estado y deber de la sociedad facilitar la generación de las condiciones más favorables para su práctica.
+La participación del pueblo en la formación, ejecución y control de la gestión pública es el medio necesario para lograr el protagonismo que garantice su completo desarrollo, tanto individual como colectivo. Es
 
 16
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+obligación del Estado y deber de la sociedad facilitar la generación de las condiciones más favorables para su práctica.
 
 ##### Artículo 63.
 El sufragio es un derecho. Se ejercerá mediante votaciones libres, universales, directas y secretas. La ley garantizará el principio de la personalización del sufragio y la representación proporcional.
@@ -515,13 +528,17 @@ Las materias de especial trascendencia nacional podrán ser sometidas a referend
 También  podrán  ser  sometidas  a  referendo  consultivo  las  materias  de especial  trascendencia  parroquial,  municipal  y  estadal.  La  iniciativa  le corresponde  a  la  Junta  Parroquial,  al  Concejo  Municipal,  o  al  Consejo Legislativo, por acuerdo de las dos terceras partes de sus integrantes; al Alcalde  o  Alcaldesa,  o  al  Gobernador  o  Gobernadora  de  Estado,  o  a  un número no menor del diez por ciento del total de inscritos e inscritas en la circunscripción correspondiente, que lo soliciten.
 
 ##### Artículo  72.
-Todos  los  cargos  y  magistraturas  de  elección  popular  son revocables. Transcurrida la mitad del período para el cual fue elegido el funcionario o funcionaria, un número no menor del veinte por ciento de los electores o electoras inscritos en la correspondiente circunscripción podrá solicitar la convocatoria de un referendo para revocar su mandato.
+Todos los cargos y magistraturas de elección popular son revocables.
+
+Transcurrida la mitad del período para el cual fue elegido el funcionario o funcionaria, un número no menor del veinte por ciento de los electores o
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+electoras inscritos en la correspondiente circunscripción podrá solicitar la convocatoria de un referendo para revocar su mandato.
 
 Cuando igual  o  mayor  número  de  electores  o  electoras  que  eligieron  al funcionario  o  funcionaria  hubieren  votado  a  favor  de  la  revocación, siempre  que  haya  concurrido  al  referendo  un  número  de  electores  o electoras  igual  o  superior  al  veinticinco  por  ciento  de  los  electores  o electoras  inscritos  o  inscritas,  se  considerará  revocado  su  mandato  y  se procederá de inmediato a cubrir la falta absoluta conforme a lo dispuesto en esta Constitución y en la ley.
 
@@ -637,6 +654,8 @@ El  trabajo es un hecho social y gozará de la protección del Estado.  La  ley 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+derechos. Sólo es posible la transacción y convenimiento al término de la relación laboral, de conformidad con los requisitos que establezca la ley.
 
 - Cuando  hubiere  dudas  acerca  de  la  aplicación  o  concurrencia  de varias normas, o en la interpretación de una determinada norma, se aplicará  la  más  favorable  al  trabajador  o  trabajadora.  La  norma adoptada se aplicará en su integridad.
 
@@ -1045,6 +1064,8 @@ Es de la competencia del Poder Público Nacional:
 
 [[START OF PAGE 39]]
 
+recaudación y control corresponda a los Municipios, de conformidad con esta Constitución.
+
 - El régimen del comercio exterior y la organización y régimen de las aduanas.
 
 - El  régimen y administración de las minas e hidrocarburos; el régimen  de  las  tierras baldías;  y  la  conservación,  fomento  y aprovechamiento  de  los  bosques,  suelos,  aguas  y  otras  riquezas naturales del país.
@@ -1295,6 +1316,8 @@ Son  de  la  competencia  del  Municipio  el  gobierno  y administración de sus
 
 [[START OF PAGE 47]]
 
+educación preescolar, servicios de integración familiar de la persona con discapacidad al desarrollo comunitario, actividades e instalaciones culturales y deportivas. Servicios de prevención y protección, vigilancia y control de los bienes y las actividades relativas a las materias de la competencia municipal.
+
 - Servicio de agua potable, electricidad y gas doméstico; alcantarillado, canalización y disposición de aguas servidas; cementerios y servicios funerarios.
 
 - Justicia de paz, prevención y protección vecinal y servicios de policía municipal, conforme a la legislación nacional aplicable.
@@ -1378,13 +1401,15 @@ La ley creará mecanismos abiertos y flexibles para que los Estados y los Munici
 ##### Artículo 185.
 El Consejo Federal de Gobierno es el órgano encargado de la planificación y coordinación de políticas y acciones para el desarrollo del proceso  de  descentralización  y  transferencia  de  competencias  del  Poder Nacional a los Estados y Municipios. Estará presidido por el Vicepresidente Ejecutivo  o  Vicepresidenta  Ejecutiva  e  integrado  por  los  Ministros  o Ministras,  los  Gobernadores  o  Gobernadoras,  un  Alcalde  o  Alcaldesa  por cada Estado y representantes de la sociedad organizada, de acuerdo con la ley.
 
-El Consejo Federal de Gobierno contará con una Secretaría, integrada por el  Vicepresidente  Ejecutivo  o  Vicepresidenta  Ejecutiva,  dos  Ministros  o Ministras, tres Gobernadores o Gobernadoras y tres Alcaldes o Alcaldesas. Del  Consejo  Federal  de  Gobierno  dependerá  el  Fondo  de  Compensación Interterritorial,  destinado  al  financiamiento  de  inversiones  públicas  para promover  el  desarrollo  equilibrado  de  las  regiones,  la  cooperación  y complementación de las políticas e iniciativas de desarrollo de las distintas entidades públicas territoriales, y a apoyar especialmente la dotación de obras  y  servicios  esenciales  en  las  regiones  y  comunidades  de  menor desarrollo  relativo.  El  Consejo  Federal  de  Gobierno,  con  base  en  los desequilibrios  regionales,  discutirá  y  aprobará  anualmente  los  recursos que se destinarán al Fondo de Compensación Interterritorial y las áreas de inversión prioritaria a las cuales se aplicarán dichos recursos.
+El Consejo Federal de Gobierno contará con una Secretaría, integrada por el  Vicepresidente  Ejecutivo  o  Vicepresidenta  Ejecutiva,  dos  Ministros  o Ministras, tres Gobernadores o Gobernadoras y tres Alcaldes o Alcaldesas. Del  Consejo  Federal  de  Gobierno  dependerá  el  Fondo  de  Compensación Interterritorial,  destinado  al  financiamiento  de  inversiones  públicas  para promover  el  desarrollo  equilibrado  de  las  regiones,  la  cooperación  y complementación de las políticas e iniciativas de desarrollo de las distintas entidades públicas territoriales, y a apoyar especialmente la dotación de obras  y  servicios  esenciales  en  las  regiones  y  comunidades  de  menor
 
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+desarrollo  relativo.  El  Consejo  Federal  de  Gobierno,  con  base  en  los desequilibrios  regionales,  discutirá  y  aprobará  anualmente  los  recursos que se destinarán al Fondo de Compensación Interterritorial y las áreas de inversión prioritaria a las cuales se aplicarán dichos recursos.
 
 ## TÍTULO V DE LA ORGANIZACIÓN DEL PODER PÚBLICO NACIONAL
 
@@ -1534,13 +1559,15 @@ Son atribuciones de la Comisión Delegada:
 #### Sección tercera: de los diputados y diputadas a la Asamblea Nacional
 
 ##### Artículo  197.
-Los  diputados  o  diputadas  a  la  Asamblea  Nacional  están obligados  u  obligadas  a  cumplir  sus  labores  a  dedicación  exclusiva,  en beneficio  de  los  intereses  del  pueblo  y  a  mantener  una  vinculación permanente  con  sus  electores  y  electoras,  atendiendo  sus  opiniones  y sugerencias  y  manteniéndolos  informados  e  informadas  acerca  de  su gestión y la de la Asamblea. Deben dar cuenta anualmente de su gestión a los electores y electoras de la circunscripción por la cual fueron elegidos o elegidas y estarán sometidos o sometidas al referendo revocatorio del mandato en los términos previstos en esta Constitución y en la ley sobre la materia.
+Los  diputados  o  diputadas  a  la  Asamblea  Nacional  están obligados  u  obligadas  a  cumplir  sus  labores  a  dedicación  exclusiva,  en
 
 53
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+beneficio  de  los  intereses  del  pueblo  y  a  mantener  una  vinculación permanente  con  sus  electores  y  electoras,  atendiendo  sus  opiniones  y sugerencias  y  manteniéndolos  informados  e  informadas  acerca  de  su gestión y la de la Asamblea. Deben dar cuenta anualmente de su gestión a los electores y electoras de la circunscripción por la cual fueron elegidos o elegidas y estarán sometidos o sometidas al referendo revocatorio del mandato en los términos previstos en esta Constitución y en la ley sobre la materia.
 
 ##### Artículo  198.
 El  diputado  o  diputada  a  la  Asamblea  Nacional,  cuyo mandato fuere revocado, no podrá optar a cargos de elección popular en el siguiente período.
@@ -1562,13 +1589,15 @@ Los diputados o diputadas son representantes del pueblo y de  los  Estados  en  
 La  ley  es  el  acto  sancionado  por  la  Asamblea  Nacional como  cuerpo  legislador.  Las  leyes  que  reúnan  sistemáticamente  las normas relativas a determinada materia se podrán denominar códigos.
 
 ##### Artículo 203.
-Son leyes orgánicas las que así denomina esta Constitución; las que se dicten para organizar los poderes públicos o para desarrollar  los  derechos  constitucionales  y  las  que  sirvan  de  marco normativo a otras leyes.
+Son leyes orgánicas las que así denomina esta Constitución; las que se dicten para organizar los poderes públicos o para
 
 54
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+desarrollar  los  derechos  constitucionales  y  las  que  sirvan  de  marco normativo a otras leyes.
 
 Todo proyecto de ley orgánica, salvo aquel que esta Constitución califique como tal, será previamente admitido por la Asamblea Nacional, por el voto de  las  dos  terceras  partes  de  los  o  las  integrantes  presentes  antes  de iniciarse la discusión del respectivo proyecto  de  ley. Esta  votación calificada se aplicará también para la modificación de las leyes orgánicas.
 
@@ -1600,13 +1629,15 @@ La iniciativa de las leyes corresponde:
 La  discusión  de  los  proyectos  de  ley  presentados  por  los electores  y  electoras  conforme  a  lo  dispuesto  en  el  artículo  anterior,  se iniciará a más tardar en el período de sesiones ordinarias siguiente al que se  haya  presentado.  Si  el  debate  no  se  inicia  dentro  de  dicho  lapso,  el proyecto se someterá a referendo aprobatorio de conformidad con la ley.
 
 ##### Artículo 206.
-Los Estados serán consultados por la Asamblea Nacional, a través del Consejo Legislativo, cuando se legisle en materias relativas a los mismos. La ley establecerá los mecanismos de consulta a la sociedad civil y demás instituciones de los Estados, por parte del Consejo, en dichas materias.
+Los Estados serán consultados por la Asamblea Nacional, a través del Consejo Legislativo, cuando se legisle en materias relativas a
 
 55
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
+
+los mismos. La ley establecerá los mecanismos de consulta a la sociedad civil y demás instituciones de los Estados, por parte del Consejo, en dichas materias.
 
 ##### Artículo  207.
 Para convertirse en ley todo proyecto recibirá dos discusiones, en días diferentes, siguiendo las reglas establecidas en esta Constitución  y  en  los  reglamentos  respectivos.  Aprobado  el  proyecto,  el Presidente o Presidenta de la Asamblea Nacional declarará sancionada la ley.
@@ -1623,13 +1654,15 @@ Recibido  el  informe  de  la  Comisión  correspondiente,  se dará inicio a la
 La discusión de los proyectos que quedaren pendientes al término de las sesiones, podrá continuarse en las sesiones siguientes o en sesiones extraordinarias.
 
 ##### Artículo  211.
-La  Asamblea  Nacional  o  las  Comisiones  Permanentes, durante el procedimiento de discusión y aprobación de los proyectos de leyes,  consultarán  a  los  otros  órganos  del  Estado,  a  los  ciudadanos  y ciudadanas  y  a  la  sociedad  organizada  para  oír  su  opinión  sobre  los mismos.  Tendrán  derecho  de  palabra  en  la  discusión  de  las  leyes  los Ministros o Ministras en representación del Poder Ejecutivo; el magistrado o  magistrada del Tribunal Supremo de Justicia a quien éste designe, en representación del Poder Judicial; el o la representante del Poder Ciudadano designado o designada por el Consejo Moral Republicano; los o las  integrantes  del  Poder  Electoral;  los  Estados  a  través  de  un  o  una representante designado o designada por el Consejo Legislativo y los o las representantes de la sociedad organizada, en los términos que establezca el reglamento de la Asamblea Nacional.
+La  Asamblea  Nacional  o  las  Comisiones  Permanentes, durante el procedimiento de discusión y aprobación de los proyectos de leyes,  consultarán  a  los  otros  órganos  del  Estado,  a  los  ciudadanos  y ciudadanas  y  a  la  sociedad  organizada  para  oír  su  opinión  sobre  los mismos.  Tendrán  derecho  de  palabra  en  la  discusión  de  las  leyes  los Ministros o Ministras en representación del Poder Ejecutivo; el magistrado o  magistrada del Tribunal Supremo de Justicia a quien éste designe, en representación del Poder Judicial; el o la representante del Poder Ciudadano designado o designada por el Consejo Moral Republicano; los o las  integrantes  del  Poder  Electoral;  los  Estados  a  través  de  un  o  una representante designado o designada por el Consejo Legislativo y los o las
 
 56
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
+
+representantes de la sociedad organizada, en los términos que establezca el reglamento de la Asamblea Nacional.
 
 ##### Artículo  212.
 Al  texto  de  las  leyes  precederá  la  siguiente  fórmula:  "La Asamblea Nacional de la República Bolivariana de Venezuela decreta:"
@@ -1647,16 +1680,18 @@ El Presidente o Presidenta de la República debe proceder a promulgar la ley  de
 Cuando el Presidente o Presidenta de la República considere que la ley o alguno de sus artículos es inconstitucional solicitará el pronunciamiento de la Sala Constitucional del Tribunal Supremo de Justicia, en el lapso de diez días que tiene para promulgar la misma. El Tribunal Supremo de Justicia decidirá  en  el  término  de  quince  días  contados  desde  el  recibo  de  la comunicación del Presidente o Presidenta de la República. Si el Tribunal negare la inconstitucionalidad invocada o no decidiere en el lapso anterior, el Presidente o Presidenta de la República promulgará la ley dentro de los cinco días siguientes a la decisión del Tribunal o al vencimiento de dicho lapso.
 
 ##### Artículo 215.
-La ley quedará promulgada al publicarse con el correspondiente 'Cúmplase' en la Gaceta Oficial de la República Bolivariana de Venezuela.
+La ley quedará promulgada al publicarse con el correspondiente “Cúmplase” en la Gaceta Oficial de la República Bolivariana de Venezuela.
 
 ##### Artículo  216.
-Cuando  el  Presidente  o  Presidenta  de  la  República  no promulgare la ley en los lapsos señalados, el Presidente o Presidenta y los dos Vicepresidentes o Vicepresidentas de la Asamblea Nacional procederán a su promulgación, sin perjuicio de la responsabilidad en que aquel o aquella incurriere por su omisión.
+Cuando  el  Presidente  o  Presidenta  de  la  República  no promulgare la ley en los lapsos señalados, el Presidente o Presidenta y los dos Vicepresidentes o Vicepresidentas de la Asamblea Nacional
 
 57
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+procederán a su promulgación, sin perjuicio de la responsabilidad en que aquel o aquella incurriere por su omisión.
 
 ##### Artículo  217.
 La  oportunidad  en  que  deba  ser  promulgada  la  ley aprobatoria de un tratado, de un acuerdo o de un convenio internacional, quedará a la  discreción  del  Ejecutivo  Nacional,  de  acuerdo  con  los  usos internacionales y la conveniencia de la República.
@@ -1866,13 +1901,15 @@ Son atribuciones del Vicepresidente Ejecutivo o Vicepresidenta Ejecutiva:
 ##### Artículo 240.
 La aprobación de una moción de censura al Vicepresidente Ejecutivo  o  Vicepresidenta  Ejecutiva,  por  una  votación  no  menor  de  las tres quintas partes de los integrantes de la Asamblea Nacional, implica su remoción. El funcionario removido o funcionaria removida no podrá optar al  cargo  de  Vicepresidente  Ejecutivo  o  Vicepresidenta  Ejecutiva,  o  de Ministro o Ministra por el resto del período presidencial.
 
-La  remoción  del  Vicepresidente  Ejecutivo  o  Vicepresidenta  Ejecutiva  en tres  oportunidades  dentro  de  un  mismo  período  constitucional,  como consecuencia  de  la aprobación  de  mociones  de  censura,  faculta  al Presidente o Presidenta de  la República  para  disolver  la  Asamblea Nacional. El decreto de disolución conlleva la convocatoria de elecciones para  una  nueva  legislatura  dentro  de  los  sesenta  días  siguientes  a  su disolución.
+La  remoción  del  Vicepresidente  Ejecutivo  o  Vicepresidenta  Ejecutiva  en tres  oportunidades  dentro  de  un  mismo  período  constitucional,  como consecuencia  de  la aprobación  de  mociones  de  censura,  faculta  al Presidente o Presidenta de  la República  para  disolver  la  Asamblea Nacional. El decreto de disolución conlleva la convocatoria de elecciones
 
 63
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+para  una  nueva  legislatura  dentro  de  los  sesenta  días  siguientes  a  su disolución.
 
 La  Asamblea  no  podrá  ser  disuelta  en  el  último  año  de  su  período constitucional.
 
@@ -1932,13 +1969,15 @@ El Consejo de Estado es el órgano superior de consulta del Gobierno y de la Adm
 La ley respectiva determinará sus funciones y atribuciones.
 
 ##### Artículo 252.
-El Consejo de Estado lo preside el Vicepresidente Ejecutivo o  Vicepresidenta  Ejecutiva  y  estará  conformado,  además,  por  cinco personas designadas por el Presidente o Presidenta de la República; un o una representante designado o designada por la Asamblea Nacional; un o una  representante  designado  o  designada  por  el  Tribunal  Supremo  de Justicia  y  un  Gobernador  designado  o  Gobernadora  designada  por  el conjunto de mandatarios o mandatarias estadales.
+El Consejo de Estado lo preside el Vicepresidente Ejecutivo o  Vicepresidenta  Ejecutiva  y  estará  conformado,  además,  por  cinco personas designadas por el Presidente o Presidenta de la República; un o una representante designado o designada por la Asamblea Nacional; un o una  representante  designado  o  designada  por  el  Tribunal  Supremo  de
 
 65
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+Justicia  y  un  Gobernador  designado  o  Gobernadora  designada  por  el conjunto de mandatarios o mandatarias estadales.
 
 ### Capítulo III Del Poder Judicial y del Sistema de Justicia
 
@@ -1984,13 +2023,15 @@ La ley promoverá el arbitraje, la conciliación, la mediación y cualesquiera o
 La  jurisdicción  contenciosoadministrativa  corresponde  al Tribunal Supremo de Justicia y a los demás tribunales que determine la ley. Los órganos de la jurisdicción contenciosoadministrativa son competentes para anular los actos administrativos generales o individuales contrarios a derecho,  incluso por desviación  de  poder; condenar  al  pago  de  sumas  de  dinero  y  a  la  reparación  de  daños  y perjuicios originados en responsabilidad de la Administración; conocer de reclamos  por  la  prestación  de  servicios  públicos  y  disponer  lo  necesario para el restablecimiento de las situaciones jurídicas subjetivas lesionadas por la actividad administrativa.
 
 ##### Artículo 260.
-Las autoridades legítimas de los pueblos indígenas podrán aplicar  en  su  hábitat  instancias  de  justicia  con  base  en  sus  tradiciones ancestrales  y  que  sólo  afecten  a  sus  integrantes,  según  sus  propias normas  y procedimientos, siempre que no sean contrarios a esta Constitución, a la ley y al orden público. La ley determinará la forma de coordinación de esta jurisdicción especial con el sistema judicial nacional.
+Las autoridades legítimas de los pueblos indígenas podrán aplicar  en  su  hábitat  instancias  de  justicia  con  base  en  sus  tradiciones ancestrales  y  que  sólo  afecten  a  sus  integrantes,  según  sus  propias normas  y procedimientos, siempre que no sean contrarios a esta
 
 67
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
+
+Constitución, a la ley y al orden público. La ley determinará la forma de coordinación de esta jurisdicción especial con el sistema judicial nacional.
 
 ##### Artículo 261.
 La  jurisdicción penal militar es parte integrante del Poder Judicial,  y  sus  jueces  o  juezas  serán  seleccionados  o  seleccionadas  por concurso.  Su  ámbito  de  competencia,  organización  y  modalidades  de funcionamiento se regirán por el sistema acusatorio y de acuerdo con lo previsto en el Código Orgánico de Justicia Militar. La comisión de delitos comunes, violaciones de derechos humanos y crímenes de lesa humanidad, serán juzgados por los tribunales ordinarios. La competencia de los tribunales militares se limita a delitos de naturaleza militar.
@@ -2016,13 +2057,15 @@ Para ser magistrado o magistrada del Tribunal Supremo de Justicia se requiere:
 - Cualesquiera otros requisitos establecidos por la ley.
 
 ##### Artículo  264 .
-Los  magistrados  o  magistradas  del  Tribunal  Supremo  de Justicia serán elegidos o elegidas por un único período de doce años. La ley  determinará  el  procedimiento  de  elección.  En  todo  caso,  podrán postularse  candidatos  o  candidatas  ante  el  Comité  de  Postulaciones Judiciales,  por  iniciativa  propia  o  por  organizaciones  vinculadas  con  la actividad jurídica.  El  Comité,  oída  la  opinión  de  la  comunidad,  efectuará una  preselección  para  su  presentación  al  Poder  Ciudadano,  el  cual efectuará  una  segunda  preselección  que  será  presentada  a  la  Asamblea Nacional, la cual hará la selección definitiva.
+Los  magistrados  o  magistradas  del  Tribunal  Supremo  de Justicia serán elegidos o elegidas por un único período de doce años. La ley  determinará  el  procedimiento  de  elección.  En  todo  caso,  podrán postularse  candidatos  o  candidatas  ante  el  Comité  de  Postulaciones Judiciales,  por  iniciativa  propia  o  por  organizaciones  vinculadas  con  la
 
 68
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
+
+actividad jurídica.  El  Comité,  oída  la  opinión  de  la  comunidad,  efectuará una  preselección  para  su  presentación  al  Poder  Ciudadano,  el  cual efectuará  una  segunda  preselección  que  será  presentada  a  la  Asamblea Nacional, la cual hará la selección definitiva.
 
 Los ciudadanos y ciudadanas podrán ejercer fundadamente objeciones a cualquiera de los postulados o postuladas ante el Comité de Postulaciones Judiciales o ante la Asamblea Nacional.
 
@@ -2042,13 +2085,15 @@ Son atribuciones del Tribunal Supremo de Justicia:
 
 - Declarar la nulidad total o parcial de los reglamentos y demás actos administrativos  generales  o  individuales  del  Ejecutivo  Nacional, cuando sea procedente.
 
-- Conocer  de  los  recursos  de  interpretación  sobre  el  contenido  y alcance  de  los  textos  legales,  en  los  términos  contemplados  en  la ley.
+- Conocer  de  los  recursos  de  interpretación  sobre  el  contenido  y alcance  de  los  textos  legales,  en  los  términos  contemplados  en  la
 
 69
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+ley.
 
 - Decidir los conflictos de competencia entre tribunales, sean ordinarios  o  especiales,  cuando  no  exista  otro  tribunal  superior  o común a ellos en el orden jerárquico.
 
@@ -2076,7 +2121,8 @@ La ley establecerá la autonomía y organización, funcionamiento, disciplina e 
 La  ley  regulará  la  organización  de  circuitos  judiciales,  así como la creación y competencias de tribunales y cortes regionales a fin de promover  la  descentralización  administrativa  y  jurisdiccional  del  Poder Judicial.
 
 ##### Artículo 270.
-El Comité de Postulaciones Judiciales es un órgano asesor del  Poder  Judicial  para  la  selección  de  los  candidatos  o  candidatas  a magistrados o magistradas del Tribunal Supremo de Justicia. Igualmente, asesorará  a  los  colegios  electorales  judiciales  para  la  elección  de  los jueces o juezas de la jurisdicción disciplinaria. El Comité de Postulaciones
+El Comité de Postulaciones Judiciales es un órgano asesor del  Poder  Judicial  para  la  selección  de  los  candidatos  o  candidatas  a magistrados o magistradas del Tribunal Supremo de Justicia. Igualmente, asesorará  a  los  colegios  electorales  judiciales  para  la  elección  de  los jueces o juezas de la jurisdicción disciplinaria. El Comité de Postulaciones Judiciales estará integrado por representantes de los diferentes sectores de la sociedad, de conformidad con lo que establezca la ley.
+
 ##### Artículo  271.
 En  ningún  caso  podrá  ser  negada  la  extradición  de  los extranjeros  o  extranjeras  responsables  de  los  delitos  de  deslegitimación de capitales, drogas, delincuencia organizada internacional, hechos contra el patrimonio público de otros Estados y contra los derechos humanos. No prescribirán las acciones judiciales dirigidas a sancionar los delitos contra los  derechos  humanos,  o  contra  el  patrimonio  público  o  el  tráfico  de estupefacientes. Asimismo, previa decisión judicial, serán confiscados los bienes provenientes de las actividades relacionadas con los delitos contra el patrimonio público o con el tráfico de estupefacientes.
 
@@ -2296,6 +2342,8 @@ El Poder Electoral tiene por funciones:
 
 [[START OF PAGE 78]]
 
+organizaciones con fines políticos no podrán recibir financiamiento de fondos provenientes del Estado.
+
 - Mantener, organizar, dirigir y supervisar el Registro Civil y Electoral.
 
 - Organizar  la  inscripción  y  registro  de  las  organizaciones  con  fines políticos  y  velar  porque  éstas  cumplan  las  disposiciones  sobre  su régimen  establecidas  en  la  Constitución  y  en  la  ley.  En  especial, decidirá sobre las solicitudes de constitución, renovación y cancelación  de  organizaciones  con  fines  políticos,  la  determinación de  sus  autoridades  legítimas  y  sus  denominaciones  provisionales, colores y símbolos.
@@ -2344,13 +2392,15 @@ El  régimen socioeconómico de la República Bolivariana de Venezuela se fundam
 La ley nacional establecerá las condiciones para la creación de  entidades  funcionalmente  descentralizadas  para  la  realización  de actividades sociales o empresariales, con el objeto de asegurar  la razonable productividad económica y social de los recursos públicos que en ellas se inviertan.
 
 ##### Artículo  301.
-El  Estado  se  reserva  el  uso  de  la  política  comercial  para defender las actividades económicas de las empresas nacionales públicas y  privadas.  No  se  podrá  otorgar  a  personas,  empresas  u  organismos extranjeros  regímenes  más  beneficiosos  que  los  establecidos  para  los nacionales. La inversión extranjera está sujeta a las mismas condiciones que la inversión nacional.
+El  Estado  se  reserva  el  uso  de  la  política  comercial  para defender las actividades económicas de las empresas nacionales públicas y  privadas.  No  se  podrá  otorgar  a  personas,  empresas  u  organismos
 
 79
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
+extranjeros regímenes más beneficiosos que los establecidos para los nacionales. La inversión extranjera está sujeta a las mismas condiciones que la inversión nacional.
 
 ##### Artículo 302.
 El Estado se reserva, mediante la ley orgánica respectiva, y por  razones  de  conveniencia  nacional,  la  actividad  petrolera  y  otras industrias,  explotaciones,  servicios  y  bienes  de  interés  público  y  de carácter  estratégico.  El  Estado  promoverá  la  manufactura  nacional  de materias primas provenientes de la explotación de los recursos naturales no renovables, con el fin de asimilar, crear e innovar tecnologías, generar empleo  y  crecimiento  económico,  y  crear  riqueza  y  bienestar  para  el pueblo.
@@ -2416,13 +2466,15 @@ La  ley  especial  de  endeudamiento  anual  será  presentada  a  la  Asamblea 
 El Estado no reconocerá otras obligaciones que las contraídas por órganos legítimos del Poder Nacional, de acuerdo con la ley.
 
 ##### Artículo  313.
-La  administración  económica  y  financiera  del  Estado  se regirá  por  un  presupuesto  aprobado  anualmente  por  ley.  El  Ejecutivo Nacional presentará a la Asamblea Nacional, en la oportunidad que señale la ley orgánica, el proyecto de Ley de Presupuesto. Si el Poder Ejecutivo, por  cualquier  causa,  no  hubiese  presentado  a  la  Asamblea  Nacional  el proyecto de Ley de Presupuesto dentro del plazo establecido legalmente, o el  mismo  fuere  rechazado  por  ésta,  seguirá  vigente  el  presupuesto  del ejercicio fiscal en curso.
+La  administración  económica  y  financiera  del  Estado  se regirá  por  un  presupuesto  aprobado  anualmente  por  ley.  El  Ejecutivo Nacional presentará a la Asamblea Nacional, en la oportunidad que señale la ley orgánica, el proyecto de Ley de Presupuesto. Si el Poder Ejecutivo, por  cualquier  causa,  no  hubiese  presentado  a  la  Asamblea  Nacional  el proyecto de Ley de Presupuesto dentro del plazo establecido legalmente, o
 
 82
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
+
+el mismo fuere rechazado por ésta, seguirá vigente el presupuesto del ejercicio fiscal en curso.
 
 La Asamblea Nacional podrá alterar las partidas presupuestarias, pero no autorizará  medidas  que  conduzcan  a  la  disminución  de  los  ingresos públicos ni gastos que excedan el monto de las estimaciones de ingresos del proyecto de Ley de Presupuesto.
 
@@ -2515,13 +2567,15 @@ El Ejecutivo Nacional se reserva la clasificación y divulgación  de  aquellos 
 ### Capítulo II De los principios de seguridad de la Nación
 
 ##### Artículo 326.
-La seguridad de la Nación se fundamenta en la corresponsabilidad entre el Estado y la sociedad civil, para dar cumplimiento  a  los  principios  de  independencia,  democracia,  igualdad, paz, libertad, justicia, solidaridad, promoción y conservación ambiental y afirmación de los derechos humanos,  así como  en la satisfacción progresiva de las necesidades individuales y colectivas de los venezolanos y venezolanas, sobre las bases de un desarrollo sustentable y productivo de  plena  cobertura  para  la comunidad  nacional.  El  principio de  la corresponsabilidad se ejerce sobre los ámbitos económico, social, político, cultural, geográfico, ambiental y militar.
+La seguridad de la Nación se fundamenta en la corresponsabilidad entre el Estado y la sociedad civil, para dar cumplimiento  a  los  principios  de  independencia,  democracia,  igualdad, paz, libertad, justicia, solidaridad, promoción y conservación ambiental y afirmación de los derechos humanos,  así como  en la satisfacción
 
 86
 
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
+
+progresiva de las necesidades individuales y colectivas de los venezolanos y venezolanas, sobre las bases de un desarrollo sustentable y productivo de plena cobertura para la comunidad nacional. El principio de la corresponsabilidad se ejerce sobre los ámbitos económico, social, político, cultural, geográfico, ambiental y militar.
 
 ##### Artículo 327.
 La atención de las fronteras es prioritaria en el cumplimiento y aplicación de los principios de seguridad de la Nación. A tal  efecto,  se  establece  una  franja  de  seguridad  de  fronteras  cuya amplitud, regímenes especiales en lo económico y social, poblamiento y utilización serán regulados por la ley, protegiendo de manera expresa los parques  nacionales,  el  hábitat  de  los  pueblos  indígenas  allí  asentados  y demás áreas bajo régimen de administración especial.
@@ -2555,7 +2609,7 @@ El Ejecutivo Nacional, para mantener y restablecer el orden público,  proteger 
 
 - Un cuerpo de investigaciones científicas, penales y criminalísticas.
 
-- Un cuerpo de bomberos y bomberas y administración de emergencias de carácter
+- Un cuerpo de bomberos y bomberas y administración de emergencias de carácter civil.
 
 - Una organización de protección civil y administración de desastres.
 
@@ -2634,13 +2688,15 @@ Podrá  decretarse  el  estado  de  conmoción  interior  o  exterior  en  caso 
 La aprobación de la prórroga de los estados de excepción corresponde a la Asamblea Nacional. Una ley orgánica regulará los estados de excepción y determinará las medidas que pueden adoptarse con base en los mismos.
 
 ##### Artículo 339.
-El decreto que declare el estado de excepción, en el cual se regulará el ejercicio del derecho cuya garantía se restringe, será presentado, dentro de los ocho días siguientes de haberse dictado, a la Asamblea  Nacional  o  a  la  Comisión  Delegada,  para  su  consideración  y aprobación,  y  a  la  Sala  Constitucional  del  Tribunal  Supremo  de  Justicia, para que se pronuncie sobre su constitucionalidad. El decreto cumplirá con las exigencias, principios y garantías establecidos en el Pacto Internacional de  Derechos  Civiles  y  Políticos  y  en  la  Convención  Americana  sobre Derechos  Humanos.  El  Presidente  o  Presidenta  de  la  República  podrá solicitar su prórroga por un plazo igual, y será revocado por el Ejecutivo Nacional o por la Asamblea Nacional o por su Comisión Delegada, antes del término señalado, al cesar las causas que lo motivaron.
+El decreto que declare el estado de excepción, en el cual se regulará el ejercicio del derecho cuya garantía se restringe, será presentado, dentro de los ocho días siguientes de haberse dictado, a la Asamblea  Nacional  o  a  la  Comisión  Delegada,  para  su  consideración  y
 
 90
 
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
+
+aprobación,  y  a  la  Sala  Constitucional  del  Tribunal  Supremo  de  Justicia, para que se pronuncie sobre su constitucionalidad. El decreto cumplirá con las exigencias, principios y garantías establecidos en el Pacto Internacional de  Derechos  Civiles  y  Políticos  y  en  la  Convención  Americana  sobre Derechos  Humanos.  El  Presidente  o  Presidenta  de  la  República  podrá solicitar su prórroga por un plazo igual, y será revocado por el Ejecutivo Nacional o por la Asamblea Nacional o por su Comisión Delegada, antes del término señalado, al cesar las causas que lo motivaron.
 
 La declaración del estado de excepción no interrumpe el funcionamiento de los órganos del Poder Público.
 
@@ -2697,13 +2753,15 @@ El  proyecto  de  reforma  constitucional  aprobado  por  la Asamblea  Nacional 
 Se  declarará  aprobada  la  reforma  constitucional  si  el número de votos afirmativos es superior al número de votos negativos. La iniciativa  de  reforma  constitucional  que  no  sea  aprobada,  no  podrá presentarse de nuevo en un mismo período constitucional a la Asamblea Nacional.
 
 ##### Artículo 346.
-El Presidente o Presidenta de la República estará obligado u obligada  a  promulgar  las  enmiendas  o  reformas  dentro  de  los  diez  días siguientes a su aprobación. Si no lo hiciere, se aplicará lo previsto en esta Constitución.
+El Presidente o Presidenta de la República estará obligado u obligada  a  promulgar  las  enmiendas  o  reformas  dentro  de  los  diez  días
 
 92
 
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+
+siguientes a su aprobación. Si no lo hiciere, se aplicará lo previsto en esta Constitución.
 
 ### Capítulo III De la Asamblea Nacional Constituyente
 
@@ -2731,13 +2789,15 @@ Queda  derogada  la  Constitución  de  la  República  de  Venezuela decretada 
 ## DISPOSICIONES TRANSITORIAS
 
 ##### Primera.
-La ley especial sobre el régimen del Distrito Capital, prevista en el  artículo  18  de  esta  Constitución,  será  aprobada  por  la  Asamblea Nacional  Constituyente  y  preservará  la  integridad  territorial  del  Estado Miranda. Mientras se aprueba la ley especial, se mantiene en vigencia el régimen  previsto  en  la  Ley  Orgánica  del  Distrito  Federal  y  en  la  Ley Orgánica de Régimen Municipal.
+La ley especial sobre el régimen del Distrito Capital, prevista en el  artículo  18  de  esta  Constitución,  será  aprobada  por  la  Asamblea Nacional  Constituyente  y  preservará  la  integridad  territorial  del  Estado
 
 93
 
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
+
+Miranda. Mientras se aprueba la ley especial, se mantiene en vigencia el régimen previsto en la Ley Orgánica del Distrito Federal y en la Ley Orgánica de Régimen Municipal.
 
 ##### Segunda.
 Mientras  se  dicta  la  ley  prevista  en  el  artículo  38  de  esta Constitución,  sobre  adquisición,  opción,  renuncia  y  recuperación  de  la nacionalidad, se considerarán con domicilio en Venezuela los extranjeros o extranjeras  que  habiendo  ingresado  y  permanecido  legalmente  en  el territorio  nacional,  hayan  declarado  su  intención  de  fijar  domicilio  en  el país,  tengan  medios  lícitos  de  vida  y  hayan  residido  en  Venezuela ininterrumpidamente durante dos años.
@@ -2751,7 +2811,7 @@ La  Asamblea  Nacional,  dentro  de  los  primeros  seis  meses siguientes a su 
 
 - Una ley orgánica sobre estados de excepción.
 
-- Una ley especial para establecer las condiciones y características de un régimen especial para los Municipios José Antonio Páez y Rómulo Gallegos, del Estado Apure.  ara la elaboración de esta ley, se oirá la opinión  del  Presidente  o  Presidenta  de  la  República,  de  la  Fuerza Armada  Nacional,  de  la  representación  que  designe  el  Estado  en cuestión  y  demás  instituciones  involucradas  en  la  problemática fronteriza.
+- Una ley especial para establecer las condiciones y características de un régimen especial para los Municipios José Antonio Páez y Rómulo Gallegos, del Estado Apure. Para la elaboración de esta ley, se oirá la opinión  del  Presidente  o  Presidenta  de  la  República,  de  la  Fuerza Armada  Nacional,  de  la  representación  que  designe  el  Estado  en cuestión  y  demás  instituciones  involucradas  en  la  problemática fronteriza.
 
 ##### Cuarta.
 Dentro  del  primer  año,  contado  a  partir  de  su  instalación,  la Asamblea Nacional aprobará:
@@ -2767,6 +2827,8 @@ Dentro  del  primer  año,  contado  a  partir  de  su  instalación,  la Asambl
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
+
+entre en vigencia la reforma de la Ley Orgánica del Trabajo, se mantendrá vigente el régimen de la prestación social contemplado en dicha Ley. Asimismo, se aplicará un lapso de prescripción de cinco años para el derecho a prestaciones sociales, consagrado en la presente Constitución.
 
 - Una ley orgánica Procesal del Trabajo que garantice el funcionamiento de una jurisdicción laboral autónoma y especializada,  y  la  protección  del  trabajador  o  trabajadora  en  los términos  previstos  en  esta  Constitución  y  en  las  leyes.  La  Ley Orgánica Procesal del Trabajo estará orientada por los principios de gratuidad,  celeridad,  oralidad,  inmediatez,  prioridad  de  la  realidad de los hechos, la equidad y rectoría del juez o jueza en el proceso.
 
@@ -2785,6 +2847,8 @@ Una ley orgánica sobre la defensa pública. Hasta tanto se sancione dicha  ley,
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
+
+legalidad, sinceridad, oportunidad, eficacia y eficiencia de la gestión administrativa del instituto.
 
 La ley establecerá que el Presidente o Presidenta y demás integrantes del Directorio del Banco Central de Venezuela representarán exclusivamente el interés de la Nación, a cuyo efecto fijará  un  procedimiento  público  de  evaluación  de  los  méritos  y credenciales de las personas postuladas a dichos cargos.
 
@@ -2880,13 +2944,15 @@ La demarcación del hábitat indígena a que se refiere el artículo  119  de  e
 Hasta  tanto  los  Estados  asuman  por  ley  estadal  las competencias referidas en el numeral 7 del artículo 164 de esta Constitución, se mantendrá el régimen vigente.
 
 ##### Decimocuarta.
-Mientras  no  se  dicte  la  legislación  que  desarrolle  los principios  de  esta  Constitución  sobre  el  régimen  municipal,  continuarán plenamente vigentes las ordenanzas y demás instrumentos normativos de los  Municipios,  relativos  a  las  materias  de  su  competencia  y  al  ámbito fiscal  propio,  que  tienen  atribuido  conforme  al  ordenamiento  jurídico aplicable antes de la sanción de esta Constitución.
+Mientras  no  se  dicte  la  legislación  que  desarrolle  los principios  de  esta  Constitución  sobre  el  régimen  municipal,  continuarán plenamente vigentes las ordenanzas y demás instrumentos normativos de los  Municipios,  relativos  a  las  materias  de  su  competencia  y  al  ámbito
 
 98
 
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
+
+fiscal propio, que tienen atribuido conforme al ordenamiento jurídico aplicable antes de la sanción de esta Constitución.
 
 ##### Decimoquinta.
 Hasta tanto se apruebe la legislación a que se refiere el artículo 105 de esta Constitución, se mantendrá en vigencia el ordenamiento jurídico aplicable antes de la sanción de esta Constitución.
@@ -2897,24 +2963,26 @@ Para el enriquecimiento del acervo histórico de la Nación, el cronista de la A
 Todos estos documentos quedarán bajo la protección del Archivo General de la Nación.
 
 ##### Decimoséptima.
-El  nombre  de  la  República,  una  vez  aprobada  esta Constitución,  será  'República  Bolivariana  de  Venezuela',  tal  como  está previsto en su artículo uno. Es obligación de las autoridades e instituciones, tanto públicas como privadas, que deban expedir registros, títulos  o  cualquier  otro  documento,  utilizar  el  nombre  de  'República Bolivariana de Venezuela', de manera inmediata.
+El  nombre  de  la  República,  una  vez  aprobada  esta Constitución,  será  “República  Bolivariana  de  Venezuela”,  tal  como  está previsto en su artículo uno. Es obligación de las autoridades e instituciones, tanto públicas como privadas, que deban expedir registros, títulos  o  cualquier  otro  documento,  utilizar  el  nombre  de  “República Bolivariana de Venezuela”, de manera inmediata.
 
 En trámites rutinarios las dependencias  administrativas agotarán el inventario documental de papelería; su renovación se hará progresivamente  con  la  mencionada  denominación,  en  un  plazo  que  no excederá de cinco años.
 
-La circulación de monedas acuñadas y billetes emitidos con el nombre de 'República  de  Venezuela',  estará  regulada  por  la  reforma  de  la  Ley  del Banco  Central  de  Venezuela  contemplada  en  la  Disposición  Transitoria cuarta  de  esta  Constitución,  en  función  de  hacer  la  transición  a  la denominación 'República Bolivariana de Venezuela'.
+La circulación de monedas acuñadas y billetes emitidos con el nombre de “República  de  Venezuela”,  estará  regulada  por  la  reforma  de  la  Ley  del Banco  Central  de  Venezuela  contemplada  en  la  Disposición  Transitoria cuarta  de  esta  Constitución,  en  función  de  hacer  la  transición  a  la denominación “República Bolivariana de Venezuela”.
 
 ##### Decimoctava.
 A  los  fines  de  asegurar  la  vigencia  de  los  principios establecidos en el artículo 113 de esta Constitución, la Asamblea Nacional dictará  una  ley  que  establezca,  entre  otros  aspectos,  el  organismo  de supervisión, control y fiscalización que deba asegurar la efectiva aplicación de estos principios y las disposiciones y demás reglas que los desarrollen.
 
 La persona que presida o dirija este organismo será designada por el voto de la mayoría de los diputados o diputadas a la Asamblea Nacional, previo informe  favorable  de  una  comisión  especial  designada  de  su  seno  al efecto.
 
-La ley establecerá que los funcionarios o funcionarias de la Administración Pública y los jueces o juezas llamados o llamadas a conocer y decidir las controversias relacionadas con las materias a que se refiere el artículo 113 de esta Constitución, observen, con carácter prioritario y excluyente, los principios  allí  definidos  y  se  abstengan  de  aplicar  cualquier  disposición susceptible de generar efectos contrarios a ellos.
+La ley establecerá que los funcionarios o funcionarias de la Administración Pública y los jueces o juezas llamados o llamadas a conocer y decidir las
 
 99
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
+
+controversias relacionadas con las materias a que se refiere el artículo 113 de esta Constitución, observen, con carácter prioritario y excluyente, los principios allí definidos y se abstengan de aplicar cualquier disposición susceptible de generar efectos contrarios a ellos.
 
 La ley establecerá en las concesiones de servicios públicos, la utilidad para el  concesionario  o  concesionaria  y  el  financiamiento  de  las  inversiones estrictamente  vinculadas  a  la  prestación  del  servicio,  incluyendo  las mejoras y ampliaciones que la autoridad competente considere razonables y apruebe en cada caso.
 
@@ -2927,21 +2995,29 @@ Aprobada por el pueblo de Venezuela, mediante referendo constituyente, a  los  q
 
 ##### EL PRESIDENTE,
 
+LUIS MIQUILENA
+
 ##### EL PRIMER VICEPRESIDENTE,
 
+ISAÍAS RODRÍGUEZ
+
 ##### EL SEGUNDO VICEPRESIDENTE,
+
+ARISTÓBULO ISTÚRIZ
 
 ##### LOS CONSTITUYENTES,
 
 ###### CONSTITUYENTES NACIONALES
 
-ALFREDO PEÑA ALLAN BREWER CARÍAS ANGELA ZAGO EARLE HERRERA EDMUNDO CHIRINOS EUSTOQUIO CONTRERAS GUILLERMO GARCÍA PONCE HERMANN ESCARRÁ JESÚS RAFAEL SULBARÁN
-
-LUIS MIQUILENA
-
-ISAÍAS RODRÍGUEZ
-
-ARISTÓBULO ISTÚRIZ
+ALFREDO PEÑA
+ALLAN BREWER CARÍAS
+ANGELA ZAGO
+EARLE HERRERA
+EDMUNDO CHIRINOS
+EUSTOQUIO CONTRERAS
+GUILLERMO GARCÍA PONCE
+HERMANN ESCARRÁ
+JESÚS RAFAEL SULBARÁN
 
 100
 
@@ -2960,9 +3036,7 @@ LIBORIO GUARULLA GARRIDO
 NELSON SILVA
 
 ###### CONSTITUYENTES POR ANZOÁTEGUI
-DAVID DE LIMA SALAS ELÍAS LÓPEZ PORTILLO
-
-ÁNGEL RODRÍGUEZ DAVID FIGUEROA GUSTAVO PEREIRA
+ÁNGEL RODRÍGUEZ DAVID DE LIMA SALAS DAVID FIGUEROA ELÍAS LÓPEZ PORTILLO GUSTAVO PEREIRA
 
 ###### CONSTITUYENTES POR APURE
 CRISTÓBAL JIMÉNEZ RAFAEL RODRÍGUEZ FERNÁNDEZ
@@ -3112,11 +3186,11 @@ El  Gobernador  o  Gobernadora  será  elegido  o  elegida  por  un  período  d
 ##### Artículo  162.
 El  Poder  Legislativo  se  ejercerá  en  cada  Estado  por  un Consejo  Legislativo  conformado  por  un  número  no  mayor  de  quince  ni menor de siete integrantes, quienes proporcionalmente representarán a la población del Estado y de los Municipios. El Consejo Legislativo tendrá las atribuciones siguientes:
 
-- Legislar sobre las materias de la competencia estadal.
+1. Legislar sobre las materias de la competencia estadal.
 
-- Sancionar la Ley de Presupuesto del Estado.
+2. Sancionar la Ley de Presupuesto del Estado.
 
-- Las demás que establezcan esta Constitución y la ley.
+3. Las demás que establezcan esta Constitución y la ley.
 
 Los requisitos para ser integrante del Consejo Legislativo, la obligación de rendición anual de cuentas y la inmunidad en su jurisdicción territorial, se regirán por las normas que esta Constitución establece para los diputados y  diputadas  a  la  Asamblea  Nacional,  en  cuanto  les  sean  aplicables.  Los legisladores  o  legisladoras  estadales  serán  elegidos  o  elegidas  por  un período  de  cuatro  años,  pudiendo  ser  reelegidos  o  reelegidas.  La  ley nacional  regulará  el  régimen  de  la  organización  y  el  funcionamiento  del Consejo Legislativo.
 
@@ -3140,11 +3214,62 @@ Imprímase  íntegramente  la  Constitución  de  la  República Bolivariana de 
 
 Sancionada por la Asamblea Nacional a los catorce días del mes de enero de  dos  mil  nueve  y  aprobada  por  el  pueblo  soberano  de  la  República Bolivariana de Venezuela, mediante referendo constitucional, a los quince días del mes de febrero de dos mil nueve. Año 198° de la Independencia y 149° de la Federación.
 
+CILIA FLORES
+Presidenta de la Asamblea Nacional
+
+SAÚL ORTEGA CAMPOS
+Primer Vicepresidente
+
+JOSÉ ALBORNOZ URBANO
+Segundo Vicepresidente
+
+###### AMAZONAS
+
+MONTENEGRO PÉREZ JUAN ANTONIO
+
+PALACIOS ARAUJO DIÓGENES EDGILDO
+
 107
 
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
+
+YGARZA JULIO HARÓN
+
+###### ANZOÁTEGUI
+
+TACHINAMO GARCÍA HENRY JOSÉ
+
+ARÓNICA CARREYO EDUARDO
+
+RODRÍGUEZ ALONSO CARMEN ANTONIA
+
+SÁNCHEZ CHACÓN LUIS EDUARDO
+
+MÁRQUEZ RODRÍGUEZ HUGO RAFAEL
+
+RODRÍGUEZ GAMBOA ÁNGEL LUIS
+
+HERRERA SILVA EARLE JOSÉ
+
+RODRÍGUEZ LONGART VICENTE JOSÉ
+
+###### APURE
+
+EL GATRIF MIZHER FAHD
+
+ESPINOZA LEÓN CARLOS ROQUE
+
+GONZÁLEZ WILFREDO
+
+DELGADO GALLEGO RAFAEL ANTONIO
+
+JIMÉNEZ CRISTÓBAL LEOBARDO
+
+###### ARAGUA
+
+GÓMEZ ABREU EDIS EMILIO
 
 108
 
@@ -3152,11 +3277,87 @@ Sancionada por la Asamblea Nacional a los catorce días del mes de enero de  dos
 
 [[START OF PAGE 109]]
 
+PERALES RODRÍGUEZ WILLIAM ANTONIO
+
+NIETO COLMENARES ELEAZAR
+
+FIGUERA GONZÁLEZ OSCAR RAMÓN
+
+AMOROSO ELVIS EDUARDO
+
+GARCÍA ISMAEL CONCEPCIÓN
+
+BASTIDAS MARTÍNEZ PEDRO ANTONIO
+
+DAZA ROY ALBERTO
+
+ESCARRÁ MALAVÉ CARLOS
+
+###### BARINAS
+
+PÉREZ BETANCOURT WILMER RAFAEL
+
+GUALDRÓN GONZALO JOSÉ
+
+GRATEROL CAMACHO JESÚS ERNESTO
+
+PEÑA GONZÁLEZ GEOVANNY JOSÉ
+
+AZUAJE CORDERO WILMER JOSÉ
+
+###### BOLÍVAR
+
+GIL BARRIOS RAFAEL DARÍO
+
+MARCANO CASTILLO ÁNGEL BAUTISTA
+
+CABELLO ROJAS DILUVINA DE JESÚS
+
 109
 
 [[END OF PAGE 109]]
 
 [[START OF PAGE 110]]
+
+RÍOS BOLÍVAR RAFAEL ÁNGEL
+
+EL ZABAYAR SAMARA ADEL
+
+SOLÍS SORRENTINO BRAHIM GABRIEL
+
+MOLINA JUAN JOSÉ
+
+MEDINA CARRASCO PASTORA COROMOTO
+
+###### CARABOBO
+
+MONTILLA ORTEGA CARMEN SANTA
+
+ISRAEL ANTONIO SOTILLO INFANTE
+
+GÓMEZ DENIS OSCAR ENRIQUE
+
+GARCÍA PRADO ORLANDO FEDOR
+
+ÁLVAREZ BRACAMONTE RAÚL JESÚS
+
+AMELIACH ORTA FRANCISCO JOSÉ
+
+GÓMEZ LÓPEZ DOUGLAS EDUARDO
+
+VÁSQUEZ GUZMÁN FERNANDO ANTONIO
+
+VALLEJO MEJÍA LAURA MARÍA
+
+###### COJEDES
+
+PIRELA SÁNCHEZ HAYDEE OVANDO
+
+PÉREZ JUAN BAUTISTA
+
+SALAZAR ABDUBAL COROMOTO
+
+MILANO RODRÍGUEZ JHONNY OWE
 
 110
 
@@ -3164,11 +3365,85 @@ Sancionada por la Asamblea Nacional a los catorce días del mes de enero de  dos
 
 [[START OF PAGE 111]]
 
+###### DELTA AMACURO
+
+MARCANO RODRÍGUEZ OMAR
+
+TAMARONIS TITA DEL VALLE
+
+HERNÁNDEZ RODRÍGUEZ HENRY JOSÉ
+
+GONZÁLEZ CAMERO ENRIQUE JOSÉ
+
+###### DISTRITO CAPITAL
+
+SANTOS AMARAL DESIRÉE
+
+GARCÍA BRITO REINALDO ALFREDO
+
+MEDINA ROJAS CARLOS ALFREDO
+
+DUGARTE PADRÓN JUAN CARLOS
+
+BLANCO LUIS BELTRÁN
+
+VIVAS VELAZCO DARÍO
+
+SILVA MAGALLANES TIRSO DEL VALLE
+
+LANDER MORENO PEDRO TOMÁS
+
+RÍOS MARÍA
+
+###### FALCÓN
+
+MÉNDEZ GONZÁLEZ ANDRÉS ELOY
+
+MANAURE REYES ALEIDINA ARGELIA
+
 111
 
 [[END OF PAGE 111]]
 
 [[START OF PAGE 112]]
+
+DAAL ULISES RAMÓN
+
+BALDAYO LUGO HENRY RAFAEL
+
+ELZAGA RUIZ MARÍA NOHEMÍ
+
+CASTELLAR PARRA ALBERTO EFRAÍN
+
+###### GUÁRICO
+
+CONTRERAS DÍAZ EUSTOQUIO
+
+MARÍN LAYA JUAN JOSÉ
+
+OROPEZA SUÁREZ MARÍA ANTONIA
+
+ROJAS ROJAS MIGUEL RAFAEL
+
+###### LARA
+
+ESCALONA COLINA JOSÉ RAFAEL
+
+GONZÁLEZ PASTOR PAUCIDES
+
+LUGO RODRÍGUEZ IVÁN JOSÉ
+
+PERAZA ROJAS DENIS ALBERTO
+
+CONTRERAS HERNÁNDEZ LUIS ANTONIO
+
+URDANETA PEREIRA BRICCIO JOSÉ
+
+MORA JOSÉ DAVID
+
+FERRER GERMÁN DARÍO
+
+CALZADILLA PERAZA JOSÉ SIMÓN
 
 112
 
@@ -3176,11 +3451,87 @@ Sancionada por la Asamblea Nacional a los catorce días del mes de enero de  dos
 
 [[START OF PAGE 113]]
 
+###### MÉRIDA
+
+BRICEÑO MÉNDEZ MANUEL JOSÉ
+
+CAMACHO ARAUJO OBDULIO JOSÉ
+
+ÁVILA ÁVILA MARÍA ALEJANDRA
+
+RAMÍREZ ROSALES JOSÉ OSCAR
+
+CARMONA RODRÍGUEZ OSMAR
+
+IGLESIAS PIÑO WILMER ARQUÍMEDES
+
+###### MIRANDA
+
+RUIZ ESPINOZA MODESTO ANTONIO
+
+LEÓN CANALES FÉLIX
+
+MONTIEL MEDINA AUGUSTO VLADIMIR
+
+BARRERA MORALES MAGUALIDA ESTHER
+
+MATUTE GUAYAMO ROMELIA CELESTINA
+
+JIMÉNEZ RODRÍGUEZ TULIO AMADO
+
+ÁLVAREZ GONZÁLEZ JESÚS ALBERTO
+
+CABELLO PARRA GIRARDOT JOSÉ
+
+FIGUEROA CHACÍN SANTANA
+
+DOMÍNGUEZ VALDERRAMA JESÚS ENRIQUE
+
+PÉREZ MARCANO MARELIS JOSEFINA
+
 113
 
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
+
+###### NUEVA ESPARTA
+
+MILLÁN MARÍN JUAN JOSÉ
+
+GARCÍA HERNÁNDEZ JUAN SALVADOR
+
+MORALES AURORA JOSEFINA
+
+BRAVO QUEVEDO IROSHIMA JENNIFER
+
+ECHEZURÍA RODRÍGUEZ CARLOS FRANCISCO
+
+MACHÍN FERRER HAYDÉE JOSEFINA
+
+GAMARGO LAGONELL LUIS ALFREDO
+
+ÁLVAREZ ALFONSO CARMEN TRINIDAD
+
+###### MONAGAS
+
+VILLALBA SÁNCHEZ MANUEL ENRIQUE
+
+DÍAZ SALAZAR LUIS ÁNGEL
+
+HERNÁNDEZ CEDEÑO RÉGULO FELIPE
+
+PACHECO OSORIO MARÍA DEL ROSARIO
+
+###### PORTUGUESA
+
+HERNÁNDEZ PARRA PORFIRIO DE JESÚS
+
+MURGA RIVAS ALFREDO
+
+RODRÍGUEZ GARCÍA JOSÉ ERNESTO
+
+LARA BARRIOS ZAIR ALFREDO
 
 114
 
@@ -3188,17 +3539,131 @@ Sancionada por la Asamblea Nacional a los catorce días del mes de enero de  dos
 
 [[START OF PAGE 115]]
 
+TORREALBA OJEDA FRANCISCO ALEJANDRO
+
+GUTIÉRREZ BRICEÑO RICARDO ANTONIO
+
+###### SUCRE
+
+JIMÉNEZ ÁLVAREZ BERNARDO JOSÉ
+
+GARCÍA FONT HERMES GREGORIO
+
+VALLENILLA MENDOZA HAYDÉE MARGARITA
+
+RODRÍGUEZ JOSÉ DEL CARMEN
+
+REGNAULT ROJAS JOSÉ RAMÓN
+
+MARCANO GONZÁLEZ ERASMO ARISTALCO
+
+###### TÁCHIRA
+
+GARCÍA JARPA JULIO FERNANDO
+
+MOGOLLÓN DE GUERRERO SANTA XIOMARA
+
+TASCÓN GUTIÉRREZ LUIS
+
+SANGUINO CÁRDENAS JOSÉ RICARDO
+
+VARELA RANGEL MARÍA IRIS
+
+LUCENA GONZÁLEZ EDGAR DE JESÚS
+
+PACHECO ALVÁREZ HERNÁN
+
+###### TRUJILLO
+
+MORENO VILORIA JULIO BERNARDO
+
+PÉREZ CRISTANCHO OSCAR FRANCISCO
+
+MENDOZA JOVER JUAN JOSÉ
+
+LEAL BRICEÑO ORESTELES JESÚS
+
 115
 
 [[END OF PAGE 115]]
 
 [[START OF PAGE 116]]
 
+GIL RODRÍGUEZ MALAQUIAS
+
+###### YARACUY
+
+GAMARRA MÁRQUEZ CARLOS ALBERTO
+
+CAPELLA MATEO RICARDO
+
+ÁLVAREZ BRAULIO JOSÉ
+
+SÁEZ BORDONES CARMEN LISETH
+
+SÁNCHEZ LÓPEZ TOMÁS RAFAEL
+
+###### VARGAS
+
+ESCALONA PRADO SIMÓN ENRIQUE
+
+VERA ROJAS OSWALDO EMILIO
+
+D'AMELIO CARDIET TANIA
+
+DE FREITAS RODRÍGUEZ JOSÉ GUIDO
+
+###### ZULIA
+
+ORTEGA RÍOS ALFREDO ANTONIO
+
+RÍOS FERRERA EDIS ALFONSO
+
+BRICEÑO DE QUEIPO MARÍA DE LA PAZ
+
+CEDEÑO MÁRQUEZ JENNY ELINA
+
+ISEA BOHÓRQUEZ MARIO RICARDO
+
+CABELLO LISANDRO JOSÉ
+
 116
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
+
+SAAB SAAB IMAD
+
+OSORIO LÓPEZ OMAR JESÚS
+
+GONZÁLEZ GONZÁLEZ LIBES DE JESÚS
+
+QUINTERO VALENCIA ROBERTO ANTONIO
+
+SOLÍS FRÍCON RAFAEL
+
+PEÑA PINEDA CELSO RAMÓN
+
+MONTIEL ARCADIO JOSÉ
+
+PALOMARES VERDE ENEQUE JESÚS
+
+LÓPEZ ALMADA ERNESTO
+
+###### REPRESENTACIÓN INDÍGENA
+
+POCATERRA DE OBERTO NOELÍ
+
+PÉREZ RAMOS ESTEBAN ARGELIO
+
+POYO CASCANTE JOSÉ AMADOR
+
+IVÁN ZERPA GUERRERO
+Secretario
+
+VÍCTOR CLARK BOSCÁN
+Subsecretario
 
 Plaza  Pérez  Bonalde  de  Catia  Parroquia  Sucre  Municipio  Libertador,  en Caracas, a los diecinueve días del mes de febrero de dos mil nueve. Años 198° de la Independencia, 149° de la Federación y 11° de la Revolución Bolivariana.
 
@@ -3209,14 +3674,19 @@ Plaza  Pérez  Bonalde  de  Catia  Parroquia  Sucre  Municipio  Libertador,  en 
 [[START OF PAGE 118]]
 
 Cumplase, (L.S.)
+HUGO CHÁVEZ FRÍAS
 
 Refrendado El Vicepresidente Ejecutivo (L.S.)
+RAMÓN ALONZO CARRIZÁLEZ RENGIFO
 
 Refrendado El Ministro del Poder Popular del Despacho de la Presidencia (L.S.)
+LUIS RAMÓN REYES REYES
 
 Refrendado El Ministro del Poder Popular para Relaciones Interiores y Justicia (L.S.)
+TARECK EL AISSAMI
 
 Refrendado El Ministro del Poder Popular para Relaciones Exteriores (L.S.)
+NICOLÁS MADURO MOROS
 
 Refrendado El Ministro del Poder Popular para Economía y Finanzas (L.S.)
 
@@ -3226,17 +3696,24 @@ Refrendado El Ministro del Poder Popular para Economía y Finanzas (L.S.)
 
 [[START OF PAGE 119]]
 
+ALÍ RODRÍGUEZ ARAQUE
+
 Refrendado El Ministro del Poder Popular para la Defensa (L.S.)
+GUSTAVO REYES RANGEL BRICEÑO
 
 Refrendado El Ministro del Poder Popular para las Industrias Ligeras y Comercio (L.S.)
+WILLIAN ANTONIO CONTRERAS
 
 Refrendado El Ministro del Poder Popular para las Industrias Básicas y Minería (L.S.)
+RODOLFO EDUARDO SANZ
 
 Refrendado La Ministra del Poder Popular para el Turismo (L.S.)
+OLGA CECILIA AZUAJE
 
 Refrendado El Ministro del Poder Popular para la Agricultura y Tierras (L.S.)
+ELÍAS JAUA MILANO
 
-Refrendado El Ministro del Poder Popular para la Educación Superior (L.S.)
+Refrendado
 
 119
 
@@ -3244,13 +3721,20 @@ Refrendado El Ministro del Poder Popular para la Educación Superior (L.S.)
 
 [[START OF PAGE 120]]
 
+El Ministro del Poder Popular para la Educación Superior (L.S.)
+LUIS ACUÑA CEDEÑO
+
 Refrendado El Ministro del Poder Popular para la Educación (L.S.)
+HÉCTOR NAVARRO
 
 Refrendado El Ministro del Poder Popular para la Salud (L.S.)
+JESÚS MARÍA MANTILLA OLIVEROS
 
 Refrendado El Ministro del Poder Popular para el Trabajo y Seguridad Social (L.S.)
+ROBERTO MANUEL HERNÁNDEZ
 
 Refrendado El Ministro del Poder Popular para la Infraestructura (L.S.)
+DIOSDADO CABELLO RONDÓN
 
 Refrendado El Ministro del Poder Popular para la Energía y Petróleo (L.S.)
 
@@ -3260,15 +3744,22 @@ Refrendado El Ministro del Poder Popular para la Energía y Petróleo (L.S.)
 
 [[START OF PAGE 121]]
 
+RAFAEL DARÍO RAMÍREZ CARREÑO
+
 Refrendado El Ministro del Poder Popular para el Ambiente (L.S.)
+YUBIRÍ ORTEGA LOVERA
 
 Refrendado El Ministro del Poder Popular para la Planificación y Desarrollo (L.S.)
+HAIMAN EL TROUDI
 
 Refrendado La Ministra del Poder Popular para Ciencia y Tecnología (L.S.)
+NURIS ORIHUELA GUEVARA
 
 Refrendado El Ministro del Poder Popular para la Comunicación y la Información (L.S.)
+JESSE CHACÓN ESCAMILLO
 
 Refrendado El Ministro del Poder Popular para la Economía Comunal (L.S.)
+PEDRO MOREJÓN CARRILLO
 
 Refrendado El Ministro del Poder Popular para la Alimentación (L.S.)
 
@@ -3278,15 +3769,22 @@ Refrendado El Ministro del Poder Popular para la Alimentación (L.S.)
 
 [[START OF PAGE 122]]
 
+FÉLIX RAMÓN OSORIO GUZMÁN
+
 Refrendado El Ministro del Poder Popular para la Cultura (L.S.)
+HÉCTOR ENRIQUE SOTO CASTELLANOS
 
 Refrendado El Ministerio del Poder Popular para la Vivienda y Hábitat (L.S.)
+FRANCISCO DE ASÍS SESTO NOVAS
 
 Refrendado La Ministra del Poder Popular para la Participación y Protección Social (L.S.)
+ERIKA DEL VALLE FARÍAS PEÑA
 
 Refrendado La Ministra del Poder Popular para el Deporte (L.S.)
+VICTORIA MERCEDES MATA GARCÍA
 
 Refrendado La Ministra del Poder Popular para las Telecomunicaciones y la Informática (L.S.)
+SOCORRO ELIZABETH HERNÁNDEZ
 
 Refrendado La Ministra del Poder Popular para
 
@@ -3297,8 +3795,10 @@ Refrendado La Ministra del Poder Popular para
 [[START OF PAGE 123]]
 
 los Pueblos Indígenas (L.S.)
+NICIA MARINA MALDONADO MALDONADO
 
 Refrendado La Ministra de Estado para Asuntos de la Mujer (L.S.)
+MARÍA LEÓN
 
 123
 
