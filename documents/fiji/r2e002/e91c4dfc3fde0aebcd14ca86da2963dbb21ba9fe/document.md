@@ -22,69 +22,266 @@ _______
 
 PREAMBLE
 
-CHAPTER 1-THE STATE
-
+CHAPTER 1—THE STATE
+1. The Republic of Fiji
+2. Supremacy of the Constitution
+3. Principles of constitutional interpretation
+4. Secular State
+5. Citizenship
+CHAPTER 2—BILL OF RIGHTS
+6. Application
+7. Interpretation of this Chapter
+8. Right to life
+9. Right to personal liberty
+10. Freedom from slavery, servitude, forced labour and human trafficking
+11. Freedom from cruel and degrading treatment
+12. Freedom from unreasonable search and seizure
+13. Rights of arrested and detained persons
+14. Rights of accused persons
+15. Access to courts or tribunals
+16. Executive and administrative justice
+17. Freedom of speech, expression and publication
+18. Freedom of assembly
+19. Freedom of association
+20. Employment relations
+21. Freedom of movement and residence
+22. Freedom of religion, conscience and belief
+23. Political rights
+24. Right to privacy
+25. Access to information
+26. Right to equality and freedom from discrimination
+27. Freedom from compulsory or arbitrary acquisition of property
+28. Rights of ownership and protection of iTaukei, Rotuman and Banaban lands
+29. Protection of ownership and interests in land
+30. Right of landowners to fair share of royalties for extraction of minerals
+31. Right to education
+32. Right to economic participation
+33. Right to work and a just minimum wage
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 ii
-
+34. Right to reasonable access to transportation
+35. Right to housing and sanitation
+36. Right to adequate food and water
+37. Right to social security schemes
+38. Right to health
+39. Freedom from arbitrary evictions
+40. Environmental rights
+41. Rights of children
+42. Rights of persons with disabilities
+43. Limitation of rights under states of emergency
+44. Enforcement
+45. Human Rights and Anti-Discrimination Commission
+CHAPTER 3—PARLIAMENT
+Part A—LEGISLATIVE AUTHORITY
+46. Legislative authority and power of Parliament
+47. Exercise of legislative powers
+48. Presidential assent
+49. Coming into force of laws
+50. Regulations and similar laws
+51. Parliamentary authority over international treaties and conventions
+Part B—COMPOSITION
+52. Members of Parliament
+53. Proportional representation system
+54. Composition of Parliament
+55. Voter qualification and registration
+56. Candidates for election to Parliament
+57. Candidates who are public officers
+58. Term of Parliament
+59. Writ for election
+60. Date of nomination
+61. Date of polling
+62. Early dissolution of Parliament
+63. Vacation of seat of member of Parliament
+64. Next candidate to fill vacancy
+65. Vacancies in membership
+66. Court of Disputed Returns
+67. Sessions of Parliament
+68. Quorum
+69. Voting
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 iii
-
+70. Committees
+71. Standing orders
+72. Petitions, public access and participation
+73. Powers, privileges, immunities and discipline
+74. Power to call for evidence
+Part C—INSTITUTIONS AND OFFICES
+75. Electoral Commission
+76. Supervisor of Elections
+77. Speaker and Deputy Speaker of Parliament
+78. Leader of the Opposition
+79. Secretary-General to Parliament
+80. Remunerations
+CHAPTER 4—THE EXECUTIVE
+Part A––THE PRESIDENT
+81. The President of Fiji
+82. President acts on advice
+83. Qualification for appointment
+84. Appointment of President
+85. Term of office and remuneration
+86. Oath of office
+87. Resignation
+88. Chief Justice to perform functions in absence of President
+89. Removal from office
+Part B—CABINET
+90. Responsible Government
+91. Cabinet
+92. Office of the Prime Minister
+93. Appointment of Prime Minister
+94. Motion of no confidence
+95. Appointment of Ministers
+96. Attorney-General
+CHAPTER 5—JUDICIARY
+Part A—COURTS AND JUDICIAL OFFICERS
+97. Judicial authority and independence
+98. Supreme Court
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 iv
-
+99. Court of Appeal
+100. High Court
+101. Magistrates Court
+102. Other courts
+103. Court rules and procedures
+104. Judicial Services Commission
+105. Qualification for appointment
+106. Appointment of Judges
+107. Other appointments
+108. Judicial department employees
+109. Oath of office
+110. Term of office
+111. Removal of Chief Justice and President of the Court of Appeal for cause
+112. Removal of judicial officers for cause
+113. Remuneration of judicial officers
+Part B—INDEPENDENT JUDICIAL AND LEGAL INSTITUTIONS
+114. Independent Legal Services Commission
+115. Fiji Independent Commission Against Corruption
+116. Solicitor-General
+117. Director of Public Prosecutions
+118. Legal Aid Commission
+119. Mercy Commission
+120. Public Service Disciplinary Tribunal
+121. Accountability and Transparency Commission
+122. Existing appointments
+CHAPTER 6—STATE SERVICES
+Part A—PUBLIC SERVICE
+123. Values and principles
+124. Public officers must be citizens
+125. Public Service Commission
+126. Functions of the Public Service Commission
+127. Permanent secretaries
+128. Appointment of ambassadors
+Part B—DISCIPLINED FORCE
+129. Fiji Police Force
+130. Fiji Corrections Service
+131. Republic of Fiji Military Forces
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 v
-
+Part C—CONSTITUTIONAL OFFICES COMMISSION
+132. Constitutional Offices Commission
+133. Functions of the Constitutional Offices Commission
+Part D—GENERAL PROVISIONS RELATING TO PUBLIC OFFICES
+134. Application
+135. Terms and conditions of office
+136. Remuneration and allowances
+137. Removal from office for cause
+138. Performance of functions of commissions and tribunals
+CHAPTER 7—REVENUE AND EXPENDITURE
+139. Raising of revenue
+140. Consolidated Fund
+141. Appropriations to be authorised by law
+142. Authorisation of expenditure in advance of appropriation
+143. Appropriation and taxing measures require ministerial consent
+144. Annual budget
+145. Guarantees by Government
+146. Public moneys to be accounted for
+147. Standing appropriation of Consolidated Fund for payment of certain salaries and allowances
+148. Standing appropriation of Consolidated Fund for other purposes
+CHAPTER 8—ACCOUNTABILITY
+Part A—CODE OF CONDUCT
+149. Code of conduct
+Part B—FREEDOM OF INFORMATION
+150. Freedom of information
+Part C—AUDITOR-GENERAL
+151. Auditor-General
+152. Functions of Auditor-General
+Part D—RESERVE BANK OF FIJI
+153. Reserve Bank of Fiji
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 vi
-
-CHAPTER 9-EMERGENCY POWERS
-
+CHAPTER 9—EMERGENCY POWERS
+154. State of emergency
+CHAPTER 10—IMMUNITY
+155. Immunity granted under the Constitution of 1990 continues
+156. Immunity granted under the Limitation of Liability for Prescribed Political Events Decree 2010 continues
+157. Further immunity
+158. Immunity entrenched
+CHAPTER 11—AMENDMENT OF CONSTITUTION
+159. Amendment of Constitution
+160. Procedure for amendment
+161. Amendments before 31 December 2013
+CHAPTER 12—COMMENCEMENT, INTERPRETATION,
+REPEALS AND TRANSITIONAL
+Part A—SHORT TITLE AND COMMENCEMENT
+162. Short title and commencement
+Part B—INTERPRETATION
+163. Interpretation
+Part C—REPEALS
+164. Repeals
+Part D—TRANSITIONAL
+165. Office of the President
+166. Prime Minister and Ministers
+167. Public or Constitutional officers
+168. Finance
+169. Functions of Parliament and Speaker
+170. Elections
+171. Succession of institutions
+172. Preservation of rights and obligations
+173. Preservation of laws
+174. Judicial proceedings
+SCHEDULE
 ________
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 1
 
+## PREAMBLE
+
 WE, THE PEOPLE OF FIJI,
 
-RECOGNISING the indigenous people or the iTaukei , their ownership of iTaukei lands, their unique culture, customs, traditions and language;
+RECOGNISING the indigenous people or the iTaukei, their ownership of iTaukei lands, their unique culture, customs, traditions and language;
 
-RECOGNISING the indigenous people or the Rotuman from the island of Rotuma, their  ownership of Rotuman lands, their unique culture, customs, traditions and language;
+RECOGNISING the indigenous people or the Rotuman from the island of Rotuma, their ownership of Rotuman lands, their unique culture, customs, traditions and language;
 
 RECOGNISING the descendants of the indentured labourers from British India and the Pacific Islands, their culture, customs, traditions and language; and
 
-RECOGNISING  the  descendants  of  the  settlers  and  immigrants  to  Fiji,  their culture, customs, traditions and language,
+RECOGNISING the descendants of the settlers and immigrants to Fiji, their culture, customs, traditions and language,
 
 DECLARE that we are all Fijians united by common and equal citizenry;
 
-RECOGNISE the Constitution  as  the  supreme  law  of  our  country  that  provides  the framework for the conduct of Government and all Fijians;
+RECOGNISE the Constitution as the supreme law of our country that provides the framework for the conduct of Government and all Fijians;
 
 COMMIT ourselves to the recognition and protection of human rights, and respect for human dignity;
 
-DECLARE our commitment to justice, national sovereignty and security,  social  and economic wellbeing, and safeguarding our environment,
+DECLARE our commitment to justice, national sovereignty and security, social and economic wellbeing, and safeguarding our environment,
 
 HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
-
-## PREAMBLE
 
 [[END OF PAGE 9]]
 
@@ -92,11 +289,11 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 2
 
-## CHAPTER 1-THE STATE
+## CHAPTER 1—THE STATE
 
 #### The Republic of Fiji
 
-1.  The Republic of Fiji is a sovereign democratic State founded on the values of-
+1.  The Republic of Fiji is a sovereign democratic State founded on the values of—
 
 (a) common and equal citizenry and national unity;
 
@@ -116,13 +313,13 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Supremacy of the Constitution
 
-2.-(1)  This Constitution is the supreme law of the State.
+2.—(1)  This Constitution is the supreme law of the State.
 
 (2)  Subject to the provisions of this Constitution, any law inconsistent with this Constitution is invalid to the extent of the inconsistency.
 
 (3)  This Constitution shall be upheld and respected by all Fijians and the State, including  all  persons  holding  public  office,  and  the  obligations  imposed  by  this Constitution must be fulfilled.
 
-(4)  This Constitution shall be enforced through the courts, to ensure that--
+(4)  This Constitution shall be enforced through the courts, to ensure that––
 
 (a) laws and conduct are consistent with this Constitution;
 
@@ -132,7 +329,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (5)  This Constitution cannot be abrogated or suspended by any person, and may only be amended in accordance with the procedures prescribed in Chapter 11.
 
-(6)  Any attempt to establish a Government other than in compliance with this Constitution shall be unlawful, and--
+(6)  Any attempt to establish a Government other than in compliance with this Constitution shall be unlawful, and––
 
 (a) anything done to further that attempt is invalid and of no force or effect; and
 
@@ -146,7 +343,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Principles of constitutional interpretation
 
-3.-(1)  Any person interpreting or applying this Constitution must promote the spirit, purpose and objects of this Constitution as a whole, and the values that underlie a democratic society based on human dignity, equality and freedom.
+3.—(1)  Any person interpreting or applying this Constitution must promote the spirit, purpose and objects of this Constitution as a whole, and the values that underlie a democratic society based on human dignity, equality and freedom.
 
 (2)  If a law appears to be inconsistent with a provision of this Constitution, the court must adopt a reasonable interpretation of that law that is consistent with the provisions of this Constitution over an interpretation that is inconsistent with this Constitution.
 
@@ -156,13 +353,13 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Secular State
 
-4.-(1)  Religious liberty, as recognised in the Bill of Rights, is a founding principle of the State.
+4.—(1)  Religious liberty, as recognised in the Bill of Rights, is a founding principle of the State.
 
-- Religious belief is personal.
+(2)  Religious belief is personal.
 
-(3)  Religion and the State are separate, which means-
+(3)  Religion and the State are separate, which means—
 
-(a) the  State  and  all  persons  holding  public  office  must  treat  all  religions equally;
+(a) the State and all persons holding public office must treat all religions equally;
 
 (b) the State and all persons holding public office must not dictate any religious belief;
 
@@ -172,9 +369,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Citizenship
 
-5.-(1)  All citizens of Fiji shall be known as Fijians.
+5.—(1)  All citizens of Fiji shall be known as Fijians.
 
-(2)  Subject to the provisions of this Constitution, all Fijians have equal status and identity, which means that they are equally-
+(2)  Subject to the provisions of this Constitution, all Fijians have equal status and identity, which means that they are equally—
 
 (a) entitled to all the rights, privileges and benefits of citizenship; and
 
@@ -188,15 +385,15 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 4
 
-- Citizens of Fiji may hold multiple citizenship, which means that-
+(4)  Citizens of Fiji may hold multiple citizenship, which means that—
 
 (a) upon accepting the citizenship of a foreign country, a person remains a citizen of Fiji unless he or she renounces that status;
 
-(b) a former citizen of Fiji, who lost that citizenship upon acquiring foreign citizenship,  may  regain  citizenship  of  Fiji,  while  retaining  that  foreign citizenship unless the laws of that foreign country provide otherwise; and
+(b) a former citizen of Fiji, who lost that citizenship upon acquiring foreign citizenship, may regain citizenship of Fiji, while retaining that foreign citizenship unless the laws of that foreign country provide otherwise; and
 
-(c) upon becoming a citizen of Fiji, a foreign person may retain his or her existing  citizenship  unless  the  laws  of  that  foreign  country  provide otherwise.
+(c) upon becoming a citizen of Fiji, a foreign person may retain his or her existing citizenship unless the laws of that foreign country provide otherwise.
 
-(5)  A written law shall prescribe-
+(5)  A written law shall prescribe—
 
 (a) the  conditions  upon  which  citizenship  of  Fiji  may  be  acquired  and  the conditions upon which a person may become a citizen of Fiji;
 
@@ -218,15 +415,15 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 5
 
-## CHAPTER 2-BILL OF RIGHTS
+## CHAPTER 2—BILL OF RIGHTS
 
 #### Application
 
-6.-(1)  This Chapter binds the legislative, executive and judicial branches of government at all levels, and every person performing the functions of any public office.
+6.—(1)  This Chapter binds the legislative, executive and judicial branches of government at all levels, and every person performing the functions of any public office.
 
 (2)  The State and every person holding public office must respect, protect, promote and fulfil the rights and freedoms recognised in this Chapter.
 
-(3)  A provision of this Chapter binds a natural or legal person, taking into account-
+(3)  A provision of this Chapter binds a natural or legal person, taking into account—
 
 (a) the nature of the right or freedom recognised in that provision; and
 
@@ -234,7 +431,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (4)  A legal person has the rights and freedoms recognised in this Chapter, to the extent required by the nature of the right or freedom, and the nature of the particular legal person.
 
-(5)  The rights and freedoms set out in this Chapter apply according to their tenor and may be limited by-
+(5)  The rights and freedoms set out in this Chapter apply according to their tenor and may be limited by—
 
 (a) limitations expressly prescribed, authorised or permitted (whether by or under  a  written  law)  in  relation  to  a  particular  right  or  freedom  in  this Chapter;
 
@@ -250,7 +447,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Interpretation of this Chapter
 
-7.-(1)  In addition to complying with section 3, when interpreting and applying this Chapter, a court, tribunal or other authority-
+7.—(1)  In addition to complying with section 3, when interpreting and applying this Chapter, a court, tribunal or other authority—
 
 (a) must promote the values that underlie a democratic society based on human dignity, equality and freedom; and
 
@@ -276,7 +473,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Right to personal liberty
 
-9.-(1)  A person must not be deprived of personal liberty except-
+9.—(1)  A person must not be deprived of personal liberty except—
 
 (a) for  the  purpose  of  executing  the  sentence  or  order  of  a  court,  whether handed down or made in Fiji or elsewhere, in  respect  of  an  offence  of which the person had been convicted;
 
@@ -304,11 +501,11 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (2)  Subsection (1) (c) does not permit a court to make an order depriving a person of personal liberty on the ground of failure to pay maintenance or a debt, fine or tax, unless the court considers that the person has wilfully refused to pay despite having the means to do so.
 
-(3)  If  a  person  is  detained  pursuant  to  a  measure  authorised  under  a  state  of emergency-
+(3)  If a person is detained pursuant to a measure authorised under a state of emergency—
 
 (a) the  person  must,  as  soon  as  is  reasonably  practicable  and  in  any  event within  7  days  after  the  start  of  the  detention,  be  given  a  statement  in writing, in a language that the person understands, specifying the grounds of the detention;
 
-(b) the person must be given the opportunity to communicate with, and to be visited by-
+(b) the person must be given the opportunity to communicate with, and to be visited by—
 
 (i) his or her spouse, partner or next-of-kin;
 
@@ -328,7 +525,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom from slavery, servitude, forced labour and human trafficking
 
-10.-(1)  A person must not be held in slavery or servitude, or subjected to forced labour or human trafficking.
+10.—(1)  A person must not be held in slavery or servitude, or subjected to forced labour or human trafficking.
 
 [[END OF PAGE 15]]
 
@@ -336,7 +533,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 8
 
-(2)  In this section, 'forced labour' does not include-
+(2)  In this section, “forced labour” does not include—
 
 (a) labour required in consequence of a sentence or order of a court;
 
@@ -346,7 +543,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom from cruel and degrading treatment
 
-11.-(1)  Every person has the right to freedom from torture of any kind, whether physical, mental or emotional, and from cruel, inhumane, degrading or disproportionately severe treatment or punishment.
+11.—(1)  Every person has the right to freedom from torture of any kind, whether physical, mental or emotional, and from cruel, inhumane, degrading or disproportionately severe treatment or punishment.
 
 (2)  Every person has the right to security of the person, which includes the right to be free from any form of violence from any source, at home, school, work or in any other place.
 
@@ -354,15 +551,15 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom from unreasonable search and seizure
 
-12.-(1)  Every person has the right to be secure against unreasonable search of his or her person or property and against unreasonable seizure of his or her property.
+12.—(1)  Every person has the right to be secure against unreasonable search of his or her person or property and against unreasonable seizure of his or her property.
 
 (2)  Search or seizure is not permissible otherwise than under the authority of the law.
 
 #### Rights of arrested and detained persons
 
-13.-(1)  Every person who is arrested or detained has the right-
+13.—(1)  Every person who is arrested or detained has the right—
 
-(a) to be informed promptly, in a language that he or she understands, of-
+(a) to be informed promptly, in a language that he or she understands, of—
 
 (i) the reason for the arrest or detention and the nature of any charge that may be brought against that person;
 
@@ -394,7 +591,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (j) to conditions of detention that are consistent with human dignity, including at  least  the  opportunity  to  exercise  regularly  and  the  provision,  at  State expense,  of  adequate  accommodation,  nutrition,  and  medical  treatment; and
 
-(k) to communicate with, and be visited by,-
+(k) to communicate with, and be visited by,—
 
 (i) his or her spouse, partner or next-of-kin; and
 
@@ -406,13 +603,13 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Rights of accused persons
 
-14.-(1)  A person shall not be tried for-
+14.—(1)  A person shall not be tried for—
 
 (a) any  act  or  omission  that  was  not  an  offence  under  either  domestic  or international law at the time it was committed or omitted; or
 
 (b) an  offence  in  respect  of  an  act  or  omission  for  which  that  person  has previously been either acquitted or convicted.
 
-(2)	 Every person charged with an offence has the right-
+(2)  Every person charged with an offence has the right—
 
 (a) to be presumed innocent until proven guilty according to law;
 
@@ -434,7 +631,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (g) to have the trial begin and conclude without unreasonable delay;
 
-(h) to be present when being tried, unless-
+(h) to be present when being tried, unless—
 
 (i) the court is satisfied that the person has been served with a summons or similar process requiring his or her attendance at the trial, and has chosen not to attend; or
 
@@ -462,7 +659,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (3)  Whenever this  section  requires  information  to  be  given  to  a  person,  that information must be given as simply and clearly as practicable, in a language that the person understands.
 
-(4)  A law is not inconsistent with subsection (1) (b) to the extent that it-
+(4)  A law is not inconsistent with subsection (1)(b) to the extent that it—
 
 (a) authorises a court to try a member of a disciplined force for a criminal offence  despite  his  or  her  trial  and  conviction  or  acquittal  under  a disciplinary law; and
 
@@ -470,7 +667,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Access to courts or tribunals
 
-15.-(1)  Every person charged with an offence has the right to a fair trial before a court of law.
+15.—(1)  Every person charged with an offence has the right to a fair trial before a court of law.
 
 (2)  Every party to a civil dispute has the right to have the matter determined by a court of law or if appropriate, by an independent and impartial tribunal.
 
@@ -478,7 +675,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (4)  The hearings of courts (other than military courts) and tribunals established by law must be open to the public unless the interests of justice require otherwise.
 
-(5)  Subsection (4) does not prevent-
+(5)  Subsection (4) does not prevent—
 
 (a) the making of laws relating to the trials of children, or to the determination of family or domestic disputes, in a closed court; or
 
@@ -506,7 +703,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Executive and administrative justice
 
-16.-(1)  Subject to the provisions of this Constitution and such other limitations as may be prescribed by law-
+16.—(1)  Subject to the provisions of this Constitution and such other limitations as may be prescribed by law—
 
 (a) every  person  has  the  right  to  executive  or  administrative  action  that  is lawful, rational, proportionate, procedurally fair, and reasonably prompt;
 
@@ -520,7 +717,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom of speech, expression and publication
 
-17.-(1)  Every  person  has  the  right  to  freedom  of  speech,  expression,  thought, opinion and publication, which includes-
+17.—(1)  Every person has the right to freedom of speech, expression, thought, opinion and publication, which includes—
 
 (a) freedom to seek, receive and impart information, knowledge and ideas;
 
@@ -536,23 +733,23 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (d) academic freedom and freedom of scientific research.
 
-(2)	 Freedom  of  speech,  expression,  thought,  opinion  and  publication  does  not protect-
+(2)  Freedom of speech, expression, thought, opinion and publication does not protect—
 
 (a) propaganda for war;
 
 (b) incitement to violence or insurrection against this Constitution; or
 
-(c) advocacy of hatred that-
+(c) advocacy of hatred that—
 
 (i) is  based  on  any  prohibited  ground  of  discrimination  listed  or prescribed under section 26; and
 
 (ii) constitutes incitement to cause harm.
 
-(3)  To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights and freedoms mentioned in subsection (1) in the interests of-
+(3)  To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights and freedoms mentioned in subsection (1) in the interests of—
 
 (a) national security, public safety, public order, public morality, public health or the orderly conduct of elections;
 
-(b) the protection or maintenance of the reputation, privacy, dignity, rights or freedoms of other persons, including-
+(b) the protection or maintenance of the reputation, privacy, dignity, rights or freedoms of other persons, including—
 
 (i) the  right  to  be  free  from  hate  speech,  whether  directed  against individuals or groups; and
 
@@ -576,13 +773,13 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 14
 
-(4)	 In  this  section, 'hate  speech' means  an  expression  in  whatever  form  that encourages,  or  has  the  effect  of  encouraging  discrimination  on  a  ground  listed  or prescribed under section 26.
+(4)  In this section, “hate speech” means an expression in whatever form that encourages, or has the effect of encouraging discrimination on a ground listed or prescribed under section 26.
 
 #### Freedom of assembly
 
-18.-(1)  Every  person  has  the  right,  peaceably  and  unarmed,  to  assemble, demonstrate, picket and to present petitions.
+18.—(1)  Every person has the right, peaceably and unarmed, to assemble, demonstrate, picket and to present petitions.
 
-(2)	 To the extent that it is necessary, a law may limit, or may authorise the limitation of, the right mentioned in subsection (1)-
+(2)  To the extent that it is necessary, a law may limit, or may authorise the limitation of, the right mentioned in subsection (1)—
 
 (a) in  the  interests  of  national  security,  public  safety,  public  order,  public morality, public health or the orderly conduct of elections;
 
@@ -592,9 +789,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom of association
 
-19.-(1)  Every person has the right to freedom of association.
+19.—(1)  Every person has the right to freedom of association.
 
-(2)	 A  law  may  limit,  or  may  authorise  the  limitation  of,  the  right  mentioned  in subsection (1)-
+(2)  A law may limit, or may authorise the limitation of, the right mentioned in subsection (1)—
 
 (a) in  the  interests  of  national  security,  public  safety,  public  order,  public morality, public health or the orderly conduct of elections;
 
@@ -610,9 +807,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Employment relations
 
-20.-(1)  Every person has the right to fair employment practices, including humane treatment and proper working conditions.
+20.—(1)  Every person has the right to fair employment practices, including humane treatment and proper working conditions.
 
-(2)	 Every worker has the right to form or join a trade union, and participate in its activities and programmes.
+(2)  Every worker has the right to form or join a trade union, and participate in its activities and programmes.
 
 [[END OF PAGE 22]]
 
@@ -624,7 +821,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (4)	 Trade unions and employers have the right to bargain collectively.
 
-(5)	 A law may limit, or may authorise the limitation of, the rights mentioned in this section-
+(5)  A law may limit, or may authorise the limitation of, the rights mentioned in this section—
 
 (a) in  the  interests  of  national  security,  public  safety,  public  order,  public morality, public health or the orderly conduct of elections;
 
@@ -636,9 +833,11 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (e) for the purposes of regulating collective bargaining processes, providing mechanisms for the resolution of employment disputes and grievances, and regulating strikes and lockouts; or
 
-(f) for  the  purposes  of  regulating  essential  services  and  industries,  in  the overall interests of the Fijian economy and the citizens of Fiji.
+(f) for the purposes of regulating essential services and industries, in the overall interests of the Fijian economy and the citizens of Fiji.
 
-21.-(1)  Every person has the right to freedom of movement.
+#### Freedom of movement and residence
+
+21.—(1)  Every person has the right to freedom of movement.
 
 (2)	 Every citizen has the right to apply for and be issued a passport or similar travel document, in accordance with any condition prescribed by written law.
 
@@ -648,9 +847,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (5)	 Every person who is not a citizen but is lawfully in Fiji has the right not to be expelled from Fiji except pursuant to an order of a court or a decision of the Minister responsible for immigration on a ground prescribed by law.
 
-(6)  A law, or anything done under the authority of a law, is not inconsistent with the rights granted by this section to the extent that the law-
+(6)  A law, or anything done under the authority of a law, is not inconsistent with the rights granted by this section to the extent that the law—
 
-(a) provides for the detention of the person or enables a restraint to be placed on the person's movements, whether-
+(a) provides for the detention of the person or enables a restraint to be placed on the person's movements, whether—
 
 (i) for the purpose of ensuring his or her appearance before a court for trial or other proceedings;
 
@@ -674,7 +873,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (f) regulates, controls or prohibits the entry of persons on to land or property owned or occupied by others.
 
-(7)  To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights mentioned in this section-
+(7)  To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights mentioned in this section—
 
 (a) in  the  interests  of  national  security,  public  safety,  public  order,  public morality, public health or the orderly conduct of elections;
 
@@ -690,7 +889,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Freedom of religion, conscience and belief
 
-22.­ -(1)  Every person has the right to freedom of religion, conscience and belief.
+22.—(1)  Every person has the right to freedom of religion, conscience and belief.
 
 [[END OF PAGE 24]]
 
@@ -700,11 +899,11 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (2)	 Every person has the right, either individually or in community with others, in  private  or  in  public,  to  manifest  and  practise  their  religion  or  belief  in  worship, observance, practice or teaching.
 
-(3)	 Every person has the right not to be compelled to-
+(3)  Every person has the right not to be compelled to—
 
 (a) act in any manner that is contrary to the person's religion or belief; or
 
-(b) take an oath, or take an oath in a manner, that--
+(b) take an oath, or take an oath in a manner, that––
 
 (i) is contrary to the person's religion or belief; or
 
@@ -716,9 +915,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (6)  Except with his or her consent or, in the case of a child, the consent of a parent or lawful guardian, a person attending a place of education is not required to receive religious instruction or to take part in or attend a religious ceremony or observance if the instruction, ceremony or observance relates to a religion that is not his or her own or if he or she does not hold any religious belief.
 
-(7)  To the extent that it is necessary, the rights and freedoms set out in this section may be made subject to such limitations prescribed by law-
+(7)  To the extent that it is necessary, the rights and freedoms set out in this section may be made subject to such limitations prescribed by law—
 
-(a) to protect-
+(a) to protect—
 
 (i) the rights and freedoms of other persons; or
 
@@ -728,7 +927,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Political rights
 
-23.-(1)  Every citizen has the freedom to make political choices, and the right to-
+23.—(1)  Every citizen has the freedom to make political choices, and the right to—
 
 (a) form or join a political party;
 
@@ -744,7 +943,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (2)	 Every citizen has the right to free, fair and regular elections for any elective institution or office established under this Constitution.
 
-(3)	 Every citizen who has reached the age of 18 years has the right-
+(3)  Every citizen who has reached the age of 18 years has the right—
 
 (a) to be registered as a voter;
 
@@ -754,7 +953,7 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (d) if elected, to hold office.
 
-(4)	 A law may limit, or may authorise the limitation of, the rights mentioned in this section-
+(4)  A law may limit, or may authorise the limitation of, the rights mentioned in this section—
 
 (a) for  the  purpose  of  regulating  the  registration  of  voters,  and  prescribing persons who do not have or have ceased to have the right to be registered as a voter;
 
@@ -764,7 +963,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (d) for the purpose of imposing restrictions on the holders of public offices (as defined in any such law) from the rights set out in this section.
 
-24.-(1)  Every person has the right to personal privacy, which includes the right to-
+#### Right to privacy
+
+24.—(1)  Every person has the right to personal privacy, which includes the right to—
 
 (a) confidentiality of their personal information;
 
@@ -774,7 +975,9 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 (2)	 To the extent that it is necessary, a law may limit, or may authorise the limitation of, the rights set out in subsection (1).
 
-25.-(1)  Every person has the right of access to-
+#### Access to information
+
+25.—(1)  Every person has the right of access to—
 
 (a) information held by any public office; and
 
@@ -792,11 +995,11 @@ HEREBY ESTABLISH THIS CONSTITUTION FOR THE REPUBLIC OF FIJI.
 
 #### Right to equality and freedom from discrimination
 
-26.-(1)  Every person is equal before the law and has the right to equal protection, treatment and benefit of the law.
+26.—(1)  Every person is equal before the law and has the right to equal protection, treatment and benefit of the law.
 
 (2)	 Equality  includes  the  full  and  equal  enjoyment  of  all  rights  and  freedoms recognised in this Chapter or any other written law.
 
-(3)	 A person must not be unfairly discriminated against, directly or indirectly on the grounds of his or her-
+(3)  A person must not be unfairly discriminated against, directly or indirectly on the grounds of his or her—
 
 (a) actual  or  supposed  personal  characteristics  or  circumstances,  including race, culture, ethnic or social origin, colour, place of origin, sex, gender, sexual orientation, gender identity and expression, birth, primary language, economic or social or health status, disability, age, religion, conscience, marital status or pregnancy; or
 
@@ -818,7 +1021,7 @@ or on any other ground prohibited by this Constitution.
 
 20
 
-(8)	 A law, or an administrative action taken under a law, is not inconsistent with the rights mentioned in this section on the ground that it-
+(8)  A law, or an administrative action taken under a law, is not inconsistent with the rights mentioned in this section on the ground that it—
 
 (a) appropriates revenues or other moneys for particular purposes;
 
@@ -836,13 +1039,13 @@ or on any other ground prohibited by this Constitution.
 
 #### Freedom from compulsory or arbitrary acquisition of property
 
-27.-(1)  Every person has the right not to be deprived of property by the State other than in accordance with a written law referred to in subsection (2), and no law may permit arbitrary acquisition or expropriation of any interest in any property.
+27.—(1)  Every person has the right not to be deprived of property by the State other than in accordance with a written law referred to in subsection (2), and no law may permit arbitrary acquisition or expropriation of any interest in any property.
 
-(2)	 A written law may authorise compulsory acquisition of property-
+(2)  A written law may authorise compulsory acquisition of property—
 
 (a) when necessary for a public purpose; and
 
-(b) on the basis that the owner will be promptly paid the agreed compensation for the property, or failing agreement, just and equitable compensation as determined by a court or tribunal, after considering all relevant factors, including-
+(b) on the basis that the owner will be promptly paid the agreed compensation for the property, or failing agreement, just and equitable compensation as determined by a court or tribunal, after considering all relevant factors, including—
 
 (i) the public purpose for which the property is being acquired;
 
@@ -860,7 +1063,7 @@ or on any other ground prohibited by this Constitution.
 
 21
 
-(3)	 Nothing contained in, or done under the authority of, a law is inconsistent with this section to the extent that the law makes provision for the acquisition of property by way of-
+(3)  Nothing contained in, or done under the authority of, a law is inconsistent with this section to the extent that the law makes provision for the acquisition of property by way of—
 
 (a) taxation;
 
@@ -876,7 +1079,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Rights of ownership and protection of iTaukei, Rotuman and Banaban lands
 
-28.-(1)  The ownership of all iTaukei land shall remain with the customary owners of that land and iTaukei land shall not be permanently alienated, whether by sale, grant, transfer or exchange, except to the State in accordance with section 27.
+28.—(1)  The ownership of all iTaukei land shall remain with the customary owners of that land and iTaukei land shall not be permanently alienated, whether by sale, grant, transfer or exchange, except to the State in accordance with section 27.
 
 (2)	 Any iTaukei land  acquired  by  the  State  for  a  public  purpose  after  the commencement of this Constitution under section 27 or under any written law shall revert to the customary owners if the land is no longer required by the State.
 
@@ -890,7 +1093,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Protection of ownership and interests in land
 
-29.-(1)  All ownership of land, and all rights and interests in land leases and land tenancies that existed immediately before the commencement of this Constitution shall continue to exist under this Constitution.
+29.—(1)  All ownership of land, and all rights and interests in land leases and land tenancies that existed immediately before the commencement of this Constitution shall continue to exist under this Constitution.
 
 (2)	 No law shall be made to diminish or adversely affect the rights and interests in land leases and land tenancies, whether existing immediately before the commencement of this Constitution or made or issued after the commencement of this Constitution.
 
@@ -906,17 +1109,17 @@ or on any other ground prohibited by this Constitution.
 
 (5)	 All land that existed as freehold land immediately before the commencement of this Constitution shall remain as freehold land even if it is sold or purchased, unless it is sold to the State or is acquired by the State for a public purpose under section 27.
 
-(6)  For the purposes of this section-
+(6)  For the purposes of this section—
 
-'land  leases' or 'land  tenancies' includes  sub-leases,  sub-tenancies  and tenancies-at-will,  but  shall  not  include  leases,  agreements  or  tenancies for  any  building,  structure  or  dwelling,  whether  used  for  residential, commercial, industrial or for tourism purposes, and shall not include any leases, agreements or tenancies for any fixture, equipment, plant or fittings on any land; and
+“land leases” or “land tenancies” includes sub-leases, sub-tenancies and tenancies-at-will, but shall not include leases, agreements or tenancies for any building, structure or dwelling, whether used for residential, commercial, industrial or for tourism purposes, and shall not include any leases, agreements or tenancies for any fixture, equipment, plant or fittings on any land; and
 
-'land lessees' or 'land tenants' includes sub-lessees, sub-tenants or tenantsat-will of land leases or land tenancies.
+“land lessees” or “land tenants” includes sub-lessees, sub-tenants or tenants-at-will of land leases or land tenancies.
 
 #### Right of landowners to fair share of royalties for extraction of minerals
 
-30.-(1)  All minerals in or under any land or water, are owned by the State, provided however, that the owners of any particular land (whether customary or freehold), or of any particular registered customary fishing rights shall be entitled to receive a fair share of royalties or other money paid to the State in respect of the grant by the State of rights to extract minerals from that land or the seabed in the area of those fishing rights.
+30.—(1)  All minerals in or under any land or water, are owned by the State, provided however, that the owners of any particular land (whether customary or freehold), or of any particular registered customary fishing rights shall be entitled to receive a fair share of royalties or other money paid to the State in respect of the grant by the State of rights to extract minerals from that land or the seabed in the area of those fishing rights.
 
-(2)	 A written law may determine the framework for calculating fair shares under subsection (1), taking into account all relevant factors, including the following-
+(2)  A written law may determine the framework for calculating fair shares under subsection (1), taking into account all relevant factors, including the following—
 
 (a) any benefit that the owners received or may receive as a result of mineral exploration or exploitation;
 
@@ -936,7 +1139,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Right to education
 
-31.-(1)  Every person has the right to-
+31.—(1)  Every person has the right to—
 
 (a) early childhood education;
 
@@ -944,7 +1147,7 @@ or on any other ground prohibited by this Constitution.
 
 (c) further education.
 
-(2)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right-
+(2)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right—
 
 (a) to free early childhood, primary, secondary and further education; and
 
@@ -958,7 +1161,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Right to economic participation
 
-32.-(1)  Every person has the right to full and free participation in the economic life of the State, which includes the right to choose their own work, trade, occupation, profession or other means of livelihood.
+32.—(1)  Every person has the right to full and free participation in the economic life of the State, which includes the right to choose their own work, trade, occupation, profession or other means of livelihood.
 
 (2)	 The  State  must  take  reasonable  measures  within  its  available  resources  to achieve the progressive realisation of the rights recognised in subsection (1).
 
@@ -966,7 +1169,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Right to work and a just minimum wage
 
-33.-(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to work and to a just minimum wage.
+33.—(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to work and to a just minimum wage.
 
 (2)	 In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.
 
@@ -978,31 +1181,31 @@ or on any other ground prohibited by this Constitution.
 
 #### Right to reasonable access to transportation
 
-34.-(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to have reasonable access to transportation.
+34.—(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to have reasonable access to transportation.
 
 (2)  In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.
 
 #### Right to housing and sanitation
 
-35.-(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to accessible and adequate housing and sanitation.
+35.—(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to accessible and adequate housing and sanitation.
 
 (2)  In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.
 
 #### Right to adequate food and water
 
-36.-(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to be free from hunger, to  have  adequate food of acceptable quality and to clean and safe water in adequate quantities.
+36.—(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to be free from hunger, to have adequate food of acceptable quality and to clean and safe water in adequate quantities.
 
 (2)  In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.
 
 #### Right to social security schemes
 
-37.-(1)  The State must take reasonable measures within its available resources to  achieve  the  progressive  realisation  of  the  right  of  every  person  to  social  security schemes, whether private or public, for their support in times of need, including the right to such support from public resources if they are unable to support themselves and their dependents.
+37.—(1)  The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to social security schemes, whether private or public, for their support in times of need, including the right to such support from public resources if they are unable to support themselves and their dependents.
 
 (2)	 In applying any right under this section, if the State claims that it does not have the resources to implement the right, it is the responsibility of the State to show that the resources are not available.
 
 #### Right to health
 
-38.-(1) The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to health, and to the conditions and facilities necessary to good health, and to health care services, including reproductive health care.
+38.—(1) The State must take reasonable measures within its available resources to achieve the progressive realisation of the right of every person to health, and to the conditions and facilities necessary to good health, and to health care services, including reproductive health care.
 
 (2)	 A person must not be denied emergency medical treatment.
 
@@ -1016,25 +1219,25 @@ or on any other ground prohibited by this Constitution.
 
 #### Freedom from arbitrary evictions
 
-39.-(1)  Every person has the right to freedom from arbitrary evictions from his or her home or to have his or her home demolished, without an order of a court made after considering all the relevant circumstances.
+39.—(1)  Every person has the right to freedom from arbitrary evictions from his or her home or to have his or her home demolished, without an order of a court made after considering all the relevant circumstances.
 
 (2)	 No law may permit arbitrary evictions.
 
 #### Environmental rights
 
-40.-(1)  Every person has the right to a clean and healthy environment, which includes the right to have the natural world protected for the benefit of present and future generations through legislative and other measures.
+40.—(1)  Every person has the right to a clean and healthy environment, which includes the right to have the natural world protected for the benefit of present and future generations through legislative and other measures.
 
 (2)	 To the extent that it is necessary, a law or an administrative action taken under a law may limit, or may authorise the limitation of, the rights set out in this section.
 
 #### Rights of children
 
-41.-(1)  Every child has the right-
+41.—(1)  Every child has the right—
 
 (a) to be registered at or soon after birth, and to have a name and nationality;
 
 (b) to basic nutrition, clothing, shelter, sanitation and health care;
 
-(c) to  family  care,  protection  and  guidance,  which  includes  the  equal responsibility of the child's parents to provide for the child-
+(c) to family care, protection and guidance, which includes the equal responsibility of the child's parents to provide for the child—
 
 (i) whether or not the parents are, or have ever been, married to each other; and
 
@@ -1042,7 +1245,7 @@ or on any other ground prohibited by this Constitution.
 
 (d) to be protected from abuse, neglect, harmful cultural practices, any form of  violence,  inhumane  treatment  and  punishment,  and  hazardous  or exploitative labour; and
 
-(e) not to be detained, except as a measure of last resort, and when detained, to be held-
+(e) not to be detained, except as a measure of last resort, and when detained, to be held—
 
 (i) only for such period of time as is necessary; and
 
@@ -1058,7 +1261,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Rights of persons with disabilities
 
-42.-(1)  A person with any disability has the right-
+42.—(1)  A person with any disability has the right—
 
 (a) to reasonable access to all places, public transport and information;
 
@@ -1072,9 +1275,9 @@ or on any other ground prohibited by this Constitution.
 
 #### Limitation of rights under states of emergency
 
-43.-(1)  Any law enacted or promulgated in consequence of a declaration of a state of emergency under this Constitution-
+43.—(1)  Any law enacted or promulgated in consequence of a declaration of a state of emergency under this Constitution—
 
-(a) may limit a right or freedom set out in  this Chapter (with the exception of the rights and freedoms set out in sections 8, 10, 11, 13, 14, 15, 16, 22 and 26) only to the extent that-
+(a) may limit a right or freedom set out in this Chapter (with the exception of the rights and freedoms set out in sections 8, 10, 11, 13, 14, 15, 16, 22 and 26) only to the extent that—
 
 (i) the limitation is strictly necessary and required by the emergency; and
 
@@ -1086,7 +1289,7 @@ or on any other ground prohibited by this Constitution.
 
 #### Enforcement
 
-44.-(1)  If a person considers that any of the provisions of this Chapter has been or is likely to be contravened in relation to him or her (or, in the case of a person who is detained, if another person considers that there has been, or is likely to be, a contravention in relation to the detained person), then that person (or the other person) may apply to the High Court for redress.
+44.—(1)  If a person considers that any of the provisions of this Chapter has been or is likely to be contravened in relation to him or her (or, in the case of a person who is detained, if another person considers that there has been, or is likely to be, a contravention in relation to the detained person), then that person (or the other person) may apply to the High Court for redress.
 
 (2)	 The right to make application to the High Court under subsection (1) is without prejudice to any other action with respect to the matter that the person concerned may have.
 
@@ -1096,7 +1299,7 @@ or on any other ground prohibited by this Constitution.
 
 27
 
-(3)	 The High Court has original jurisdiction-
+(3)  The High Court has original jurisdiction—
 
 (a) to hear and determine applications under subsection (1); and
 
@@ -1108,11 +1311,11 @@ and may make such orders and give such directions as it considers appropriate.
 
 (5)	 If  in  any  proceedings  in  a  subordinate  court  any  question  arises  as  to  the contravention  of  any  of  the  provisions  of  this  Chapter,  the  member  presiding  in  the proceedings may, and must if a party to the proceedings so requests, refer the question to the High Court unless, in the member's opinion (which is final and not subject to appeal), the raising of the question is frivolous or vexatious.
 
-(6)	 When the High Court gives its decision on a question referred to it under this section, the court in which the question arose must dispose of the case in accordance with-
+(6)  When the High Court gives its decision on a question referred to it under this section, the court in which the question arose must dispose of the case in accordance with—
 
 (a) the decision; or
 
-(b) if  the  decision  is  the  subject  of  appeal  to  the  Court  of Appeal  or  to  the Supreme Court -- the decision of the Court of Appeal or the Supreme Court, as the case may be.
+(b) if the decision is the subject of appeal to the Court of Appeal or to the Supreme Court –– the decision of the Court of Appeal or the Supreme Court, as the case may be.
 
 (7)	 The Attorney-General may, on behalf of the State, intervene in proceedings before the High Court that relate to a matter concerning a provision in this Chapter.
 
@@ -1124,7 +1327,7 @@ and may make such orders and give such directions as it considers appropriate.
 
 #### Human Rights and Anti-Discrimination Commission
 
-45.-(1)  The  Human  Rights  Commission  established  under  the  Human  Rights Commission  Decree  2009  continues  in  existence  as  the  Human  Rights  and  AntiDiscrimination Commission.
+45.—(1)  The Human Rights Commission established under the Human Rights Commission Decree 2009 continues in existence as the Human Rights and Anti-Discrimination Commission.
 
 [[END OF PAGE 35]]
 
@@ -1132,7 +1335,7 @@ and may make such orders and give such directions as it considers appropriate.
 
 28
 
-(2)	 The Commission consists of-
+(2)  The Commission consists of—
 
 (a) a chairperson, who must be a person who is or is qualified to be appointed as a judge; and
 
@@ -1142,7 +1345,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (3)	 In advising the President as to the person to be appointed as chairperson or other members of the Commission, the Constitutional Offices Commission must have regard not only to their personal attributes but also to their knowledge or experience of the various aspects of matters likely to come before the Commission.
 
-(4)	 Subject to this Constitution, the Commission is responsible for-
+(4)  Subject to this Constitution, the Commission is responsible for—
 
 (a) promoting the protection and observance of, and respect for, human rights in public and private institutions, and to develop a culture of human rights in Fiji;
 
@@ -1174,7 +1377,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (8)	 The Commission shall have the authority to appoint, remove and discipline all staff (including administrative staff) in the Commission.
 
-(9)	 The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including-
+(9)  The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including—
 
 (a) the terms and conditions of employment;
 
@@ -1196,33 +1399,33 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 30
 
-## CHAPTER 3-PARLIAMENT
+## CHAPTER 3—PARLIAMENT
 
-### Part A-LEGISLATIVE AUTHORITY
+### Part A—LEGISLATIVE AUTHORITY
 
 #### Legislative authority and power of Parliament
 
-46.-(1)  The authority and power to make laws for the State is vested in Parliament consisting of the members of Parliament and the President, and is exercised through the enactment of Bills passed by Parliament and assented to by the President.
+46.—(1)  The authority and power to make laws for the State is vested in Parliament consisting of the members of Parliament and the President, and is exercised through the enactment of Bills passed by Parliament and assented to by the President.
 
 (2)	 No person or body other than Parliament has authority to make any law in Fiji, except under authority conferred by this Constitution or by a written law.
 
 #### Exercise of legislative powers
 
-47.-(1)  Any member of Parliament may introduce a Bill in Parliament, but only the  Minister responsible for finance, or another Minister authorised by Cabinet, may introduce a Money Bill, as described in subsection (4).
+47.—(1)  Any member of Parliament may introduce a Bill in Parliament, but only the Minister responsible for finance, or another Minister authorised by Cabinet, may introduce a Money Bill, as described in subsection (4).
 
-(2)	 Parliament may proceed to consider any Bill in accordance with its standing orders, which must provide-
+(2)  Parliament may proceed to consider any Bill in accordance with its standing orders, which must provide—
 
 (a) a  structured  process  for  the  introduction,  deliberation,  amendment  and enactment of Bills; and
 
 (b) sufficient time to elapse between the steps in the process for members and committees to give due consideration to each Bill.
 
-(3)	 A Bill may proceed more quickly than permitted by the standing orders if-
+(3)  A Bill may proceed more quickly than permitted by the standing orders if—
 
 (a) when the Bill was introduced, the mover requested that Parliament approve consideration of the Bill without delay; and
 
 (b) a majority of the members of Parliament voted in support of that request.
 
-(4)	 In this section, a Money Bill is any Bill that-
+(4)  In this section, a Money Bill is any Bill that—
 
 (a) imposes,  increases,  alters,  remits,  grants  exemptions  from,  reduces  or abolishes taxes;
 
@@ -1244,7 +1447,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Presidential assent
 
-48.-(1)  When a Bill has been passed by Parliament, the Speaker must present it to the President for assent.
+48.—(1)  When a Bill has been passed by Parliament, the Speaker must present it to the President for assent.
 
 (2)	 Within  7  days  after  receipt  of  a  Bill,  the  President  must  provide  his  or  her assent.
 
@@ -1252,17 +1455,17 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Coming into force of laws
 
-49.-(1)  Within 7 days after a Bill has been assented to, the Attorney-General must publish the Bill in the Gazette as an Act of Parliament.
+49.—(1)  Within 7 days after a Bill has been assented to, the Attorney-General must publish the Bill in the Gazette as an Act of Parliament.
 
-(2)	 An Act of Parliament comes into force-
+(2)  An Act of Parliament comes into force—
 
 (a) on a date determined by or in accordance with the Act; or
 
-(b) on  the  7th  day  after  its  publication  in  the Gazette ,  if  the  Act  does  not determine a date or does not provide for a date to be determined.
+(b) on the 7th day after its publication in the Gazette, if the Act does not determine a date or does not provide for a date to be determined.
 
 #### Regulations and similar laws
 
-50.-(1)  No person may make regulations or issue any other instrument having the force of law, except as expressly authorised by this Constitution or a written law.
+50.—(1)  No person may make regulations or issue any other instrument having the force of law, except as expressly authorised by this Constitution or a written law.
 
 (2)	 A person making any regulations or issuing any instrument having the force of law must, so far as practicable, provide reasonable opportunity for public participation in the development and review of the law before it is made.
 
@@ -1270,7 +1473,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 51.  An  international  treaty  or  convention  binds  the  State  only  after  it  has  been approved by Parliament.
 
-### Part B-COMPOSITION
+### Part B—COMPOSITION
 
 #### Members of Parliament
 
@@ -1278,7 +1481,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Proportional representation system
 
-53.-(1)  The election of members of Parliament is by a multi-member open list system of proportional representation, under which each voter has one vote, with each vote being of equal value, in a single national electoral roll comprising all the registered voters.
+53.—(1)  The election of members of Parliament is by a multi-member open list system of proportional representation, under which each voter has one vote, with each vote being of equal value, in a single national electoral roll comprising all the registered voters.
 
 [[END OF PAGE 39]]
 
@@ -1286,7 +1489,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 32
 
-(2)	 Subject  to  subsections  (3)  and  (4),  in  each  general  election  of  members  of Parliament, the seats in Parliament must be awarded to candidates in proportion to-
+(2)  Subject to subsections (3) and (4), in each general election of members of Parliament, the seats in Parliament must be awarded to candidates in proportion to—
 
 (a) the total number of votes cast for each political party contesting the general election, which shall be determined by totalling the number of votes cast for each candidate of that political party; and
 
@@ -1298,7 +1501,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Composition of Parliament
 
-54.-(1)  For the first general election of members of Parliament held under this Constitution, Parliament shall consist of 50 members, elected in accordance with this Constitution.
+54.—(1)  For the first general election of members of Parliament held under this Constitution, Parliament shall consist of 50 members, elected in accordance with this Constitution.
 
 (2)	 For  each  general  election  of  members  of  Parliament  after  the  first  general election held under this Constitution, the Electoral Commission shall, at least one year before  any  such  general  election,  review  the  composition  of  Parliament  and  may,  if necessary, increase or decrease the total number of members of Parliament to ensure that,  as  far  as  practicable,  at  the  date  of  any  such  review,  the  ratio  of  the  number  of members of Parliament to the population of Fiji is the same as the ratio of the number of members of Parliament to the population of Fiji at the date of the first general election held under this Constitution.
 
@@ -1316,9 +1519,9 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Voter qualification and registration
 
-55.-(1)  Every citizen who is or will be the age of 18 years and over on or before the date of the issue of the writ for the next election of members to Parliament, has the right to be registered as a voter, in the manner and form prescribed by a written law governing elections or registration of voters.
+55.—(1)  Every citizen who is or will be the age of 18 years and over on or before the date of the issue of the writ for the next election of members to Parliament, has the right to be registered as a voter, in the manner and form prescribed by a written law governing elections or registration of voters.
 
-(2)	 A person who-
+(2)  A person who—
 
 (a) is serving a sentence of imprisonment of 12 months or longer imposed by a court in Fiji or by a court of another country;
 
@@ -1328,7 +1531,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 does not have the right to be registered as a voter.
 
-(3)	 A person who is registered as a voter and who, after his or her registration as a voter-
+(3)  A person who is registered as a voter and who, after his or her registration as a voter—
 
 (a) is serving a sentence of imprisonment of 12 months or longer imposed by a court in Fiji or by a court of another country;
 
@@ -1342,7 +1545,7 @@ ceases to be a registered voter.
 
 (5)	 The Electoral Commission must maintain a single, national common Register of Voters.
 
-(6)	 Every citizen who is registered as a voter and who is-
+(6)  Every citizen who is registered as a voter and who is—
 
 (a) resident in Fiji on the day of the elections is entitled to vote in that election; or
 
@@ -1356,13 +1559,13 @@ ceases to be a registered voter.
 
 #### Candidates for election to Parliament
 
-56.-(1)  A  candidate  for  election  to  Parliament  must  be  either  nominated  by  a registered political party or nominated as an independent candidate in accordance with the laws governing elections.
+56.—(1)  A candidate for election to Parliament must be either nominated by a registered political party or nominated as an independent candidate in accordance with the laws governing elections.
 
-(2)	 A person may be a candidate for election to Parliament only if the person-
+(2)  A person may be a candidate for election to Parliament only if the person—
 
 (a) is a citizen of Fiji, and does not hold citizenship of any other country;
 
-(b) is registered on the Register of V oters;
+(b) is registered on the Register of Voters;
 
 (c) is ordinarily resident in Fiji for at least 2 years immediately before being nominated;
 
@@ -1376,7 +1579,7 @@ ceases to be a registered voter.
 
 (h) has not been found guilty of any offence under a law relating to elections, registration of political parties or registration of voters.
 
-(3)	 The total number of candidates which a political party may nominate for any general election must not be more than the total number of seats in Parliament, and the total  number of candidates which a political party may nominate for any by-election must not be more than the total number of vacant seats in Parliament for which the byelection is being held.
+(3)  The total number of candidates which a political party may nominate for any general election must not be more than the total number of seats in Parliament, and the total number of candidates which a political party may nominate for any by-election must not be more than the total number of vacant seats in Parliament for which the by-election is being held.
 
 (4)	 A written law may make provision relating to the nomination of candidates for election to Parliament.
 
@@ -1384,7 +1587,7 @@ ceases to be a registered voter.
 
 #### Candidates who are public officers
 
-57.-(1)  A person who holds a public office is deemed to have vacated that office at the time at which his or her signed nomination as a candidate for election to Parliament is delivered to the relevant returning officer or to the person who under the laws governing elections is authorised to receive nominations of candidates.
+57.—(1)  A person who holds a public office is deemed to have vacated that office at the time at which his or her signed nomination as a candidate for election to Parliament is delivered to the relevant returning officer or to the person who under the laws governing elections is authorised to receive nominations of candidates.
 
 (2)	 A person who has held office as a member of the Electoral Commission or as the Supervisor of Elections is ineligible to be nominated as a candidate for election to Parliament for 4 years after ceasing to hold that office.
 
@@ -1394,7 +1597,7 @@ ceases to be a registered voter.
 
 35
 
-- For the purposes of this section, 'public office' means-
+(3) For the purposes of this section, “public office” means—
 
 (a) any office in, or as a member of, a statutory authority, a commission, or a board established by or continued in existence by this Constitution or any written law;
 
@@ -1412,11 +1615,11 @@ ceases to be a registered voter.
 
 (h) any office in any federation, congress, council or affiliation of employers (whether elected or appointed to that office, and including any position or  arrangement  under  which  a  person  receives  remuneration,  salary, allowances or fees from any federation, congress, council or affiliation of employers).
 
-(4)	 Notwithstanding anything contained in subsection (3), for the purposes of this section, 'public office' does not include the office of the Prime Minister, the office of a Minister, the office of the Deputy Speaker, the office of the Leader of the Opposition or an office held by a Minister by virtue of his or her appointment as a Minister.
+(4)  Notwithstanding anything contained in subsection (3), for the purposes of this section, “public office” does not include the office of the Prime Minister, the office of a Minister, the office of the Deputy Speaker, the office of the Leader of the Opposition or an office held by a Minister by virtue of his or her appointment as a Minister.
 
 #### Term of Parliament
 
-58.-(1)  Subject to this section, Parliament, unless sooner dissolved in accordance with this Constitution, continues for 4 years from the date of its first meeting after a general election of the members of Parliament.
+58.—(1)  Subject to this section, Parliament, unless sooner dissolved in accordance with this Constitution, continues for 4 years from the date of its first meeting after a general election of the members of Parliament.
 
 (2)	 The President may, acting on the advice of the Prime Minister, from time to time in the like manner prorogue Parliament by proclamation.
 
@@ -1430,7 +1633,7 @@ ceases to be a registered voter.
 
 #### Writ for election
 
-59.-(1)  The writ for the election of members of Parliament shall be issued by the President on the advice of the Prime Minister.
+59.—(1)  The writ for the election of members of Parliament shall be issued by the President on the advice of the Prime Minister.
 
 (2)	 The writ for a general election must be issued within 7 days from the expiry of Parliament or from the proclamation of its dissolution by the President.
 
@@ -1446,9 +1649,9 @@ ceases to be a registered voter.
 
 #### Early dissolution of Parliament
 
-62.-(1)  Notwithstanding  section  58(3),  the  President  must  declare  Parliament dissolved early if Parliament has adopted a resolution to dissolve early, supported by at least two-thirds of the members of Parliament.
+62.—(1)  Notwithstanding section 58(3), the President must declare Parliament dissolved early if Parliament has adopted a resolution to dissolve early, supported by at least two-thirds of the members of Parliament.
 
-(2)	 A resolution for early dissolution of Parliament under subsection (1) may be moved-
+(2)  A resolution for early dissolution of Parliament under subsection (1) may be moved—
 
 (a) only on the grounds that the Government lacks the confidence of Parliament;
 
@@ -1456,7 +1659,7 @@ ceases to be a registered voter.
 
 (c) only if Parliament has first rejected a motion of no confidence in the Prime Minister under section 94.
 
-(3)	 No motion for early dissolution may be moved within-
+(3)  No motion for early dissolution may be moved within—
 
 (a) 18 months immediately after the beginning of Parliament's term; or
 
@@ -1464,7 +1667,7 @@ ceases to be a registered voter.
 
 #### Vacation of seat of member of Parliament
 
-63.-(1)  The seat of a member of Parliament becomes vacant if the member-
+63.—(1)  The seat of a member of Parliament becomes vacant if the member—
 
 (a) dies, or resigns by giving to the Speaker a signed resignation;
 
@@ -1488,7 +1691,7 @@ ceases to be a registered voter.
 
 (h) votes or abstains from voting in Parliament contrary to any direction issued by the political party for which he or she was a candidate at the time he or she was elected to Parliament, without obtaining the prior permission of the political party; or
 
-(i) is expelled from the political party for which he or she was a candidate at the time he or she was elected to Parliament and-
+(i) is expelled from the political party for which he or she was a candidate at the time he or she was elected to Parliament and—
 
 (i) the expulsion was in accordance with the rules of the political party relating to party discipline; and
 
@@ -1516,7 +1719,7 @@ ceases to be a registered voter.
 
 #### Next candidate to fill vacancy
 
-64.-(1)  Subject  to  subsection  (3),  if  the  seat  held  by  a  member  of  Parliament who is a member of a political  party becomes vacant, then the Electoral Commission must award that seat to the candidate of the same party who, in the most recent general election,  is  the  highest  ranked  out  of  those  candidates  of  that  party  who  did  not  get elected to Parliament and who is still available to serve at the time of the vacancy (as may be determined by a written law governing elections), provided however that if no candidate in the most recent general election from that same political party is available, then a by-election must be held to fill the vacancy.
+64.—(1)  Subject to subsection (3), if the seat held by a member of Parliament who is a member of a political party becomes vacant, then the Electoral Commission must award that seat to the candidate of the same party who, in the most recent general election, is the highest ranked out of those candidates of that party who did not get elected to Parliament and who is still available to serve at the time of the vacancy (as may be determined by a written law governing elections), provided however that if no candidate in the most recent general election from that same political party is available, then a by-election must be held to fill the vacancy.
 
 (2)	 Subject to subsection (3), if the seat held by a member of Parliament who is an independent member becomes vacant during the term of Parliament, then a by-election must be held to fill the vacancy.
 
@@ -1528,7 +1731,7 @@ ceases to be a registered voter.
 
 #### Court of Disputed Returns
 
-66.-(1)  The  High  Court  is  the  Court  of  Disputed  Returns  and  has  original jurisdiction to hear and determine-
+66.—(1)  The High Court is the Court of Disputed Returns and has original jurisdiction to hear and determine—
 
 (a) by way of a petition, a question whether a person has been validly elected as a member of Parliament; and
 
@@ -1542,9 +1745,9 @@ ceases to be a registered voter.
 
 39
 
-(3)	 The petition under subsection (1) (a) -
+(3)  The petition under subsection (1)(a)—
 
-(a) may only be brought by-
+(a) may only be brought by—
 
 (i) a person who had the right to vote in the election concerned;
 
@@ -1556,7 +1759,7 @@ ceases to be a registered voter.
 
 (4)	 If the petitioner in a petition under subsection (1) (a) is not the  Attorney-General, the Attorney-General may intervene in the petition.
 
-(5)	 Proceedings pursuant to subsection (1) (b) may only be brought by-
+(5)  Proceedings pursuant to subsection (1)(b) may only be brought by—
 
 (a) a member of Parliament;
 
@@ -1564,7 +1767,7 @@ ceases to be a registered voter.
 
 (c) the Attorney-General.
 
-(6)  If  the  proceedings under subsection (1) (b) are  not  brought by the AttorneyGeneral, the Attorney-General may intervene in the proceedings.
+(6)  If the proceedings under subsection (1)(b) are not brought by the Attorney-General, the Attorney-General may intervene in the proceedings.
 
 (7)  Notwithstanding anything contained in subsection (5), proceedings under subsection (1) (b) cannot be brought under this section by the member of Parliament whose seat is the subject of the proceeding, and any proceeding by any such member which seeks to question or challenge the validity of his or her seat in Parliament becoming vacant must only be brought under section 63.
 
@@ -1574,9 +1777,9 @@ ceases to be a registered voter.
 
 #### Sessions of Parliament
 
-67.-(1)  After a general election of members of Parliament, the Parliament shall be summoned to meet by the President no later than 14 days after the announcement of the results of the general election.
+67.—(1)  After a general election of members of Parliament, the Parliament shall be summoned to meet by the President no later than 14 days after the announcement of the results of the general election.
 
-(2)	 At the first meeting, the agenda of business shall include-
+(2)  At the first meeting, the agenda of business shall include—
 
 (a) swearing-in  of  members,  presided  over  by  the  Secretary-General  to Parliament;
 
@@ -1598,7 +1801,7 @@ ceases to be a registered voter.
 
 (3)	 Other sessions of Parliament commence on a date appointed by the President on the advice of the Prime Minister but no longer than 6 months must elapse between the end of one session and the start of another.
 
-(4)	 If-
+(4)  If—
 
 (a) Parliament is not in session; and
 
@@ -1606,7 +1809,7 @@ ceases to be a registered voter.
 
 the President shall summon Parliament to meet.
 
-(5)  If-
+(5)  If—
 
 (a) Parliament is in session but more than 2 months have elapsed between the sitting of Parliament; and
 
@@ -1618,7 +1821,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Quorum
 
-68.-(1)  A sitting of Parliament may not begin, or continue, unless at least onethird of the members of Parliament are present.
+68.—(1)  A sitting of Parliament may not begin, or continue, unless at least one-third of the members of Parliament are present.
 
 (2)	 A vote on a Bill may not be held in Parliament unless a majority of the members of Parliament are present.
 
@@ -1632,9 +1835,9 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Voting
 
-69.-(1)  Except as otherwise provided in this Constitution, any question proposed for decision in Parliament must be determined by a majority vote of the members present and voting.
+69.—(1)  Except as otherwise provided in this Constitution, any question proposed for decision in Parliament must be determined by a majority vote of the members present and voting.
 
-(2)	 On a question proposed for decision in Parliament-
+(2)  On a question proposed for decision in Parliament—
 
 (a) the person presiding does not have a casting vote; and
 
@@ -1648,13 +1851,13 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Standing orders
 
-71.-(1)  Parliament may make standing orders and rules for the order and conduct of business and proceedings in Parliament and its committees and for the way in which its powers, privileges and immunities may be exercised and upheld.
+71.—(1)  Parliament may make standing orders and rules for the order and conduct of business and proceedings in Parliament and its committees and for the way in which its powers, privileges and immunities may be exercised and upheld.
 
-(2)	 Before the first sitting of the first Parliament elected under this Constitution, the Prime Minister shall, in consultation with the Attorney-General, prepare, and publish in the Gazette , the standing orders of Parliament, for adoption by Parliament at its first sitting.
+(2)  Before the first sitting of the first Parliament elected under this Constitution, the Prime Minister shall, in consultation with the Attorney-General, prepare, and publish in the Gazette, the standing orders of Parliament, for adoption by Parliament at its first sitting.
 
 #### Petitions, public access and participation
 
-72.-(1)  Parliament must-
+72.—(1)  Parliament must—
 
 (a) conduct its business in an open manner, and hold its sittings and those of its committees, in public; and
 
@@ -1664,7 +1867,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Powers, privileges, immunities and discipline
 
-73.-(1)  Every member of Parliament, and anyone else speaking in Parliament, has-
+73.—(1)  Every member of Parliament, and anyone else speaking in Parliament, has—
 
 (a) freedom of speech and debate in Parliament or its committees, subject to the standing orders; and
 
@@ -1680,21 +1883,21 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Power to call for evidence
 
-74.-(1)  Parliament, and each of its committees, has the power to summon any person to appear before it for the purpose of giving evidence or providing information.
+74.—(1)  Parliament, and each of its committees, has the power to summon any person to appear before it for the purpose of giving evidence or providing information.
 
-(2)  For the purposes of subsection (1), Parliament and each of its committees has the same powers as the High Court to-
+(2)  For the purposes of subsection (1), Parliament and each of its committees has the same powers as the High Court to—
 
 (a) enforce the attendance of witnesses and examine them on oath, affirmation or otherwise; and
 
 (b) compel the production of documents or other materials or information as required for its proceedings.
 
-### Part C-INSTITUTIONS AND OFFICES
+### Part C—INSTITUTIONS AND OFFICES
 
 #### Electoral Commission
 
-75.-(1)  The Electoral Commission established under the State Services Decree 2009 continues in existence.
+75.—(1)  The Electoral Commission established under the State Services Decree 2009 continues in existence.
 
-(2)	 The Commission has the responsibility for the registration of voters and the conduct of free and fair elections in accordance with the written law governing elections and any other relevant law, and in particular for-
+(2)  The Commission has the responsibility for the registration of voters and the conduct of free and fair elections in accordance with the written law governing elections and any other relevant law, and in particular for—
 
 (a) the registration of citizens as voters, and the regular revision of the Register of Voters;
 
@@ -1722,7 +1925,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 (7)	 The chairperson and the members of the Commission shall be appointed by the President, on the advice of the Constitutional Offices Commission.
 
-(8)	 A person is not qualified for appointment as a member if he or she is-
+(8)	 A person is not qualified for appointment as a member if he or she is—
 
 (a) a member of Parliament;
 
@@ -1734,13 +1937,13 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Supervisor of Elections
 
-76.-(1)  The  office  of  the  Supervisor  of  Elections  established  under  the  State Services Decree 2009 continues in existence.
+76.—(1)  The office of the Supervisor of Elections established under the State Services Decree 2009 continues in existence.
 
-(2)	 The  Supervisor  of  Elections,  acting  under  the  direction  of  the  Electoral Commission,-
+(2)	 The Supervisor of Elections, acting under the direction of the Electoral Commission,—
 
 (a) administers the registration of voters for elections of members to Parliament;
 
-(b) conducts-
+(b) conducts—
 
 (i) elections of members of Parliament; and
 
@@ -1754,7 +1957,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 #### Speaker and Deputy Speaker of Parliament
 
-77.-(1) At its first sitting after a general election, and whenever required to fill a vacancy, Parliament must elect, by simple majority vote-
+77.—(1) At its first sitting after a general election, and whenever required to fill a vacancy, Parliament must elect, by simple majority vote—
 
 (a) a Speaker, who is not a member of Parliament but who is qualified to be a candidate for election as a member of Parliament; and
 
@@ -1768,19 +1971,19 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 (2)	 The  Speaker  and  the  Deputy  Speaker  assumes  office  by  taking  the  oath  or affirmation  of  allegiance  and  office  set  out  in  the  Schedule,  as  administered  by  the Secretary-General to Parliament.
 
-- The Speaker shall preside over every sitting of Parliament.
+(3)	 The Speaker shall preside over every sitting of Parliament.
 
 (4)	 The Deputy Speaker must perform the duties of the Speaker if the Speaker is absent from duty or from Fiji or is, for any other reason, unable to perform those duties.
 
 (5)	 If  the  Speaker or the Deputy Speaker is unable to perform the duties of the Speaker,  the  members  of  Parliament  must  elect  one  of  their  members  to  preside  at meetings of Parliament.
 
-(6)	 The Speaker, Deputy Speaker, or any other person presiding at any time, in the performance of the functions of the Speaker-
+(6)	 The Speaker, Deputy Speaker, or any other person presiding at any time, in the performance of the functions of the Speaker—
 
 (a) is independent and subject only to this Constitution and any other law;
 
 (b) serves to secure the honour and dignity of Parliament;
 
-(c) is responsible for ensuring-
+(c) is responsible for ensuring—
 
 (i) the rights and privileges of all members; and
 
@@ -1790,11 +1993,11 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 (e) must act impartially, and without fear, favour or prejudice.
 
-(7)	 The office of the Speaker becomes vacant-
+(7)	 The office of the Speaker becomes vacant—
 
 (a) on  the  day  immediately  before  the  first  meeting  of  Parliament  after  a general election; or
 
-(b) if, before that day, the Speaker-
+(b) if, before that day, the Speaker—
 
 (i) resigns by giving to the President a written notice of resignation;
 
@@ -1812,7 +2015,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 45
 
-(8)	 The office of the Deputy Speaker becomes vacant if the Deputy Speaker-
+(8)	 The office of the Deputy Speaker becomes vacant if the Deputy Speaker—
 
 (a) resigns by giving to the Speaker a written notice of resignation;
 
@@ -1820,11 +2023,11 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 (c) is appointed as a Minister; or
 
-(d) is  removed  from  office  by  a  resolution  supported  by  not  less  than  twothirds of the members of Parliament.
+(d) is removed from office by a resolution supported by not less than two-thirds of the members of Parliament.
 
 #### Leader of the Opposition
 
-78.-(1) The members of Parliament who-
+78.—(1) The members of Parliament who—
 
 (a) do not belong to the Prime Minister's political party and are members of the opposition party or a coalition of opposition parties;
 
@@ -1834,7 +2037,7 @@ the Speaker must call a sitting of Parliament within one week of the date on whi
 
 must elect a person from amongst themselves to be the Leader of the Opposition, in accordance with this section.
 
-(2)	 At the first sitting of Parliament after a general election, the Speaker must call for nominations from those members of Parliament mentioned in subsection (1), and, if only one person is nominated and seconded, the Speaker shall declare that person elected as the Leader of the Opposition, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
+(2)	 At the first sitting of Parliament after a general election, the Speaker must call for nominations from those members of Parliament mentioned in subsection (1), and, if only one person is nominated and seconded, the Speaker shall declare that person elected as the Leader of the Opposition, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows—
 
 (a) if after the first vote, any nominee has the support of the majority of the members  of  Parliament  mentioned  in  subsection  (1),  the  Speaker  shall declare that person elected as the Leader of the Opposition; and
 
@@ -1856,7 +2059,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 #### Secretary-General to Parliament
 
-79.-(1) This section establishes the office of the Secretary-General to Parliament.
+79.—(1) This section establishes the office of the Secretary-General to Parliament.
 
 (2)	 The Secretary-General to Parliament shall be appointed by the President on the advice of the Constitutional Offices Commission.
 
@@ -1870,7 +2073,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 (7)	 The Secretary-General to Parliament shall have the authority to appoint, remove and discipline all staff (including administrative staff) in Parliament.
 
-(8)	 The Secretary-General to Parliament has the authority to determine all matters pertaining to the employment of all staff in Parliament, including-
+(8)	 The Secretary-General to Parliament has the authority to determine all matters pertaining to the employment of all staff in Parliament, including—
 
 (a) the terms and conditions of employment;
 
@@ -1888,7 +2091,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 (9)  The  salaries,  benefits  and  allowances  payable  to  the  Secretary-General  to Parliament and any person employed in Parliament are a charge on the Consolidated Fund.
 
-(10)  Parliament shall ensure that adequate funding and resources are made available to  the  Secretary-General  to  Parliament,  to  enable  him  or  her  to  independently  and effectively exercise the powers and perform the functions and duties of the SecretaryGeneral to Parliament.
+(10)  Parliament shall ensure that adequate funding and resources are made available to the Secretary-General to Parliament, to enable him or her to independently and effectively exercise the powers and perform the functions and duties of the Secretary-General to Parliament.
 
 #### Remunerations
 
@@ -1900,13 +2103,13 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 48
 
-## CHAPTER 4 -THE EXECUTIVE
+## CHAPTER 4—THE EXECUTIVE
 
-### Part A -THE PRESIDENT
+### Part A—THE PRESIDENT
 
 #### The President of Fiji
 
-81.-(1) This section establishes the office of the President.
+81.—(1) This section establishes the office of the President.
 
 (2)	 The President is the Head of State, and the executive authority of the State is vested in the President.
 
@@ -1920,7 +2123,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 #### Qualification for appointment
 
-83.-(1) A  person  shall  not  be  qualified  to  be  nominated  for  the  office  of  the President unless he or she-
+83.—(1) A person shall not be qualified to be nominated for the office of the President unless he or she—
 
 (a) has had a distinguished career in any aspect of national or international life, whether in the public or private sector;
 
@@ -1944,7 +2147,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 #### Appointment of President
 
-84.-(1) The President shall be appointed by Parliament in accordance with this section.
+84.—(1) The President shall be appointed by Parliament in accordance with this section.
 
 (2)	 Whenever a vacancy arises in the office of the President, the Prime Minister and the Leader of the Opposition shall nominate one name each to the Speaker who shall put both the names to the floor of Parliament for voting by the members of Parliament.
 
@@ -1956,7 +2159,7 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 #### Term of office and remuneration
 
-85.-(1) The President holds office for 3 years, and is eligible for re-appointment for one further term of 3 years, but is not eligible for re-appointment after that.
+85.—(1) The President holds office for 3 years, and is eligible for re-appointment for one further term of 3 years, but is not eligible for re-appointment after that.
 
 (2)  For the purposes of subsection (1), in determining whether a person is eligible for appointment or re-appointment, any period served before the commencement of this Constitution shall be taken into account.
 
@@ -1982,17 +2185,17 @@ must elect a person from amongst themselves to be the Leader of the Opposition, 
 
 #### Removal from office
 
-89.-(1) The President may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+89.—(1) The President may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
 (2)	 Removal of the President from office must only be done pursuant to this section.
 
-(3)	 If  the  Prime  Minister  considers  that  the  question  of  removing  the  President from office ought to be investigated, then-
+(3)	 If the Prime Minister considers that the question of removing the President from office ought to be investigated, then—
 
-(a) the Prime Minister shall request the Chief Justice to establish-
+(a) the Prime Minister shall request the Chief Justice to establish—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of  a chairperson and 2 other members each of whom is, or is eligible to be, a Judge; or
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and 2 other members each of whom is, or is eligible to be, a Judge; or
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner,
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner,
 
 and the Prime Minister shall notify the President of the request;
 
@@ -2002,7 +2205,7 @@ and the Prime Minister shall notify the President of the request;
 
 (4)	 In deciding whether to remove the President from office, Parliament must act in accordance with the advice given by the tribunal or the medical board, as the case may be.
 
-(5)	 The President is taken to be unable to perform the functions of his or her office during the period starting on the day on which the President receives notification under subsection (3) (a) and ending on the day a decision is made under subsection (4).
+(5)	 The President is taken to be unable to perform the functions of his or her office during the period starting on the day on which the President receives notification under subsection (3)(a) and ending on the day a decision is made under subsection (4).
 
 (6)	 The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (3) shall be made public.
 
@@ -2012,7 +2215,7 @@ and the Prime Minister shall notify the President of the request;
 
 51
 
-### Part B-CABINET
+### Part B—CABINET
 
 #### Responsible Government
 
@@ -2020,7 +2223,7 @@ and the Prime Minister shall notify the President of the request;
 
 #### Cabinet
 
-91.-(1) Cabinet consists of the Prime Minister as chairperson, and such number of Ministers as determined by the Prime Minister.
+91.—(1) Cabinet consists of the Prime Minister as chairperson, and such number of Ministers as determined by the Prime Minister.
 
 (2)	 Cabinet members are accountable individually and collectively to Parliament, for the exercise of their powers and the performance of their functions.
 
@@ -2032,17 +2235,17 @@ and the Prime Minister shall notify the President of the request;
 
 #### Office of the Prime Minister
 
-92.-(1) The Prime Minister is the head of the Government.
+92.—(1) The Prime Minister is the head of the Government.
 
 (2)	 The Prime Minister shall keep the President generally informed about the issues relating to the governance of Fiji.
 
-(3)	 The Prime Minister-
+(3)	 The Prime Minister—
 
 (a) appoints Ministers with such titles, portfolios and responsibilities as the Prime Minister determines from time to time;
 
 (b) dismisses Ministers; and
 
-(c) by notice published in the Gazette , assigns to any Minister or to himself or herself responsibility for the conduct of a specified part of the business of the Government, including responsibility for the general direction and control over a branch or branches of the public service or over a disciplined force and responsibility for the implementation and administration of each Act, provided however that the responsibility for any part of the business of Government that is not specifically assigned shall remain with the Prime Minister.
+(c) by notice published in the Gazette, assigns to any Minister or to himself or herself responsibility for the conduct of a specified part of the business of the Government, including responsibility for the general direction and control over a branch or branches of the public service or over a disciplined force and responsibility for the implementation and administration of each Act, provided however that the responsibility for any part of the business of Government that is not specifically assigned shall remain with the Prime Minister.
 
 (4)	 The Prime Minister shall appoint a Minister to act in the office of the Prime Minister during any period, or during all periods, when the Prime Minister is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the appointment of the Acting Prime Minister must be published in the Gazette.
 
@@ -2054,11 +2257,11 @@ and the Prime Minister shall notify the President of the request;
 
 #### Appointment of Prime Minister
 
-93.-(1) The Prime Minister must be a member of Parliament.
+93.—(1) The Prime Minister must be a member of Parliament.
 
 (2)	 After a general election, the member elected to Parliament who is the leader of one political party which has won more than 50% of the total number of seats in Parliament assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule.
 
-(3)  After a general election, if no one political party has won more than 50% of the total number of seats in Parliament, then, at the first sitting of Parliament, the Speaker must call for nominations from members of Parliament and, if only one person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule; but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
+(3)  After a general election, if no one political party has won more than 50% of the total number of seats in Parliament, then, at the first sitting of Parliament, the Speaker must call for nominations from members of Parliament and, if only one person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule; but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows—
 
 (a) if after the first vote, a person who is nominated has the support of more than 50% of the members of Parliament, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule;
 
@@ -2074,7 +2277,7 @@ and the Prime Minister shall notify the President of the request;
 
 53
 
-(4)	 A vacancy arises if the Prime Minister-
+(4)	 A vacancy arises if the Prime Minister—
 
 (a) resigns, by written notice to the President;
 
@@ -2082,7 +2285,7 @@ and the Prime Minister shall notify the President of the request;
 
 (c) dies.
 
-(5)	 If  a  vacancy arises in the office of the Prime Minister under subsection (4), then the Speaker shall immediately convene Parliament and call for nominations from members of Parliament for the  office  of  the  Prime  Minister  and,  if  only  one  person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows-
+(5)	 If a vacancy arises in the office of the Prime Minister under subsection (4), then the Speaker shall immediately convene Parliament and call for nominations from members of Parliament for the office of the Prime Minister and, if only one person is nominated and seconded, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule, but if more than one person is nominated and seconded, the Speaker must conduct a vote, as follows—
 
 (a) if after the first vote, a person who is nominated has the support of more than 50% of the members of Parliament, then that person assumes office as the Prime Minister by taking before the President the oath or affirmation of allegiance and office (which the President must administer) as set out in the Schedule;
 
@@ -2104,13 +2307,13 @@ and the Prime Minister shall notify the President of the request;
 
 #### Motion of no confidence
 
-94.-(1) The Prime Minister may only be dismissed by a motion of no confidence, which must also propose the name of another member of Parliament to be the Prime Minister.
+94.—(1) The Prime Minister may only be dismissed by a motion of no confidence, which must also propose the name of another member of Parliament to be the Prime Minister.
 
 (2)	 A motion of no confidence must be called for a vote within 24 hours of it being introduced.
 
 (3)	 A motion of no confidence passes if it is supported by at least a majority of the members of Parliament.
 
-(4)	 If a motion of no confidence passes-
+(4)	 If a motion of no confidence passes—
 
 (a) the incumbent Prime Minister immediately ceases to hold office;
 
@@ -2122,11 +2325,11 @@ and the Prime Minister shall notify the President of the request;
 
 #### Appointment of Ministers
 
-95.-(1) Subject to section 96(3), a Minister must be a member of Parliament.
+95.—(1) Subject to section 96(3), a Minister must be a member of Parliament.
 
 (2)	 Each member of Cabinet assumes office by taking the oath or affirmation of allegiance and office set out in the Schedule, as administered by the President.
 
-(3)	 Each Minister continues in office unless he or she-
+(3)	 Each Minister continues in office unless he or she—
 
 (a) is removed by the Prime Minister;
 
@@ -2134,11 +2337,11 @@ and the Prime Minister shall notify the President of the request;
 
 (c) resigns by delivering a written notice of resignation to the Prime Minister.
 
-(4)	 The  Prime  Minister  may  appoint  a  Minister  to  act  in  the  office  of  another Minister during any period, or during all periods, when the other Minister is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the appointment of an Acting Minister must be published in the Gazette .
+(4)	 The Prime Minister may appoint a Minister to act in the office of another Minister during any period, or during all periods, when the other Minister is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the appointment of an Acting Minister must be published in the Gazette.
 
 #### Attorney-General
 
-96.-(1) The Minister appointed as the Attorney-General is the chief legal adviser to the Government.
+96.—(1) The Minister appointed as the Attorney-General is the chief legal adviser to the Government.
 
 [[END OF PAGE 62]]
 
@@ -2146,13 +2349,13 @@ and the Prime Minister shall notify the President of the request;
 
 55
 
-(2)	 A person is not qualified to be appointed as the Attorney-General unless he or she-
+(2)	 A person is not qualified to be appointed as the Attorney-General unless he or she—
 
 (a) is admitted as a legal practitioner in Fiji and has had not less than 15 years post-admission practice as a legal practitioner whether in Fiji or abroad; and
 
 (b) has not been found guilty of any disciplinary proceeding involving legal practitioners whether in Fiji or abroad, including any proceeding by the Independent  Legal  Services  Commission  or  any  proceeding  under  the law  governing  legal  practitioners,  barristers  and  solicitors  prior  to  the establishment of the Independent Legal Services Commission.
 
-(3)	 If the Prime Minister considers that there are no members of Parliament who-
+(3)	 If the Prime Minister considers that there are no members of Parliament who—
 
 (a) belong to the Prime Minister's political party;
 
@@ -2160,7 +2363,7 @@ and the Prime Minister shall notify the President of the request;
 
 (c) are independent candidates who support the Prime Minister,
 
-who are qualified, suitable or available to be appointed as the Attorney-General, then the Prime Minister may appoint a person who is not a member of Parliament as the Attorney-General if that person-
+who are qualified, suitable or available to be appointed as the Attorney-General, then the Prime Minister may appoint a person who is not a member of Parliament as the Attorney-General if that person—
 
 (i) is  a  legal  practitioner  who  is  qualified  to  be  appointed  as  the Attorney-General under subsection (2); and
 
@@ -2170,9 +2373,9 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (5)	 Any person appointed as the Attorney-General must not, during the term of his or her appointment as the Attorney-General, practice as a legal practitioner in a law firm or have any interest in a law firm or have any law firm practice under his or her name.
 
-(6)	 The  Prime  Minister  may  appoint  a  Minister  or  a  member  of  Parliament  or another  person  (in  accordance  with  subsection  (3))  who  is  qualified  to  be  appointed as  the Attorney-General  to  act  as  the Attorney-General  during  any  period,  or  during all periods, when the Attorney-General is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the acting appointment must be published in the Gazette .
+(6)	 The Prime Minister may appoint a Minister or a member of Parliament or another person (in accordance with subsection (3)) who is qualified to be appointed as the Attorney-General to act as the Attorney-General during any period, or during all periods, when the Attorney-General is absent from duty or from Fiji or is, for any other reason, unable to perform the functions of office, and a notification of the acting appointment must be published in the Gazette.
 
-(7)	 Subsection (5) does not apply to any person appointed to act as the AttorneyGeneral under subsection (6).
+(7)	 Subsection (5) does not apply to any person appointed to act as the Attorney-General under subsection (6).
 
 [[END OF PAGE 63]]
 
@@ -2180,13 +2383,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 56
 
-## CHAPTER 5-JUDICIARY
+## CHAPTER 5—JUDICIARY
 
-### Part A-COURTS AND JUDICIAL OFFICERS
+### Part A—COURTS AND JUDICIAL OFFICERS
 
 #### Judicial authority and independence
 
-97.-(1) The judicial power and authority of the State is vested in the Supreme Court, the Court of Appeal, the High Court, the Magistrates Court, and in such other courts or tribunals as are created by law.
+97.—(1) The judicial power and authority of the State is vested in the Supreme Court, the Court of Appeal, the High Court, the Magistrates Court, and in such other courts or tribunals as are created by law.
 
 (2)	 The  courts  and  all  judicial  officers  are  independent  of  the  legislative  and executive branches of Government, and are subject only to this Constitution and the law, which they must apply without fear, favour or prejudice.
 
@@ -2200,7 +2403,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Supreme Court
 
-98.-(1) The Supreme Court consists of-
+98.—(1) The Supreme Court consists of—
 
 (a) the Chief Justice, who is the President of the Supreme Court; and
 
@@ -2208,7 +2411,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (2)	 If deemed necessary by the Chief Justice, any of the Justices of Appeal may sit on a matter being heard by the Supreme Court.
 
-(3)	 The Supreme Court-
+(3)	 The Supreme Court—
 
 (a) is the final appellate court;
 
@@ -2224,7 +2427,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 57
 
-(5)	 In the exercise of its appellate jurisdiction, the Supreme Court may-
+(5)	 In the exercise of its appellate jurisdiction, the Supreme Court may—
 
 (a) review, vary, set aside or affirm decisions or orders of the Court of Appeal; or
 
@@ -2236,7 +2439,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Court of Appeal
 
-99.-(1) The Court of Appeal consists of-
+99.—(1) The Court of Appeal consists of—
 
 (a) a Judge, other than the Chief Justice, who is appointed as the President of the Court of Appeal; and
 
@@ -2250,7 +2453,9 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (5)	 A written law may provide that appeals lie to the Court of Appeal, as of right or with leave, from other judgments of the High Court in accordance with such requirements as prescribed in that written law or under the rules pertaining to the Court of Appeal.
 
-100.-(1) The High Court consists of-
+#### High Court
+
+100.—(1) The High Court consists of—
 
 (a) the Chief Justice;
 
@@ -2280,7 +2485,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Magistrates Court
 
-101.-(1) The Magistrates Court consists of-
+101.—(1) The Magistrates Court consists of—
 
 (a) the Chief Magistrate; and
 
@@ -2294,7 +2499,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Court rules and procedures
 
-103.-(1) The  President  of  the  Supreme  Court  may  make  rules  of  court  and issue directions, consistent with this Constitution or a written law, for regulating and prescribing the practice and procedure to be followed in the Supreme Court.
+103.—(1) The President of the Supreme Court may make rules of court and issue directions, consistent with this Constitution or a written law, for regulating and prescribing the practice and procedure to be followed in the Supreme Court.
 
 (2)	 The  President  of  the  Court  of  Appeal  may  make  rules  of  court  and  issue directions, consistent with this Constitution or a written law, for regulating and prescribing the practice and procedure to be followed in the Court of Appeal.
 
@@ -2308,7 +2513,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Judicial Services Commission
 
-104.-(1) The Judicial Services Commission established under the Administration of Justice Decree 2009 continues in existence, and shall consist of-
+104.—(1) The Judicial Services Commission established under the Administration of Justice Decree 2009 continues in existence, and shall consist of—
 
 (a) the Chief Justice, who is to be the chairperson;
 
@@ -2316,7 +2521,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (c) the Permanent Secretary responsible for justice;
 
-(d) a legal practitioner to be appointed by the President on the advice of the Chief Justice following consultation by the Chief Justice with the AttorneyGeneral and who-
+(d) a legal practitioner to be appointed by the President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General and who—
 
 (i) has not less than 15 years post-admission practice; and
 
@@ -2334,7 +2539,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (6)	 The Commission may regulate its own procedure and may make such rules and regulations as it deems fit for regulating and facilitating the performance of its functions.
 
-(7)	 The  Commission  shall  provide  regular  updates  and  advice  to  the AttorneyGeneral on any matter relating to the Judiciary or the administration of justice.
+(7)	 The Commission shall provide regular updates and advice to the Attorney-General on any matter relating to the Judiciary or the administration of justice.
 
 (8)	 In the performance of its functions or the exercise of its authority and powers, the Commission shall be independent and shall not be subject to the direction or control of any person or authority, except by a court of law or as otherwise prescribed by written law.
 
@@ -2348,25 +2553,25 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (10)  The quorum for the meetings of the Commission shall consist of the chairperson and 2 other members.
 
-(11)  The members of the Commission referred to in subsection (1) (d) and (e) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
+(11)  The members of the Commission referred to in subsection (1)(d) and (e) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
 
-(12)  The members of the Commission referred to in subsection (1) (d) and (e) shall be entitled to such remuneration as determined by the President acting on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+(12)  The members of the Commission referred to in subsection (1)(d) and (e) shall be entitled to such remuneration as determined by the President acting on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
-(13)  The members of the Commission referred to in subsection (1) (d) or (e) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+(13)  The members of the Commission referred to in subsection (1)(d) or (e) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-(14)  Removal  from  office  of  the  members  of  the  Commission  referred  to  in subsection (1) (d) or (e) must be pursuant to subsection (15).
+(14)  Removal from office of the members of the Commission referred to in subsection (1)(d) or (e) must be pursuant to subsection (15).
 
-(15)  If  the  Chief  Justice,  following  consultation  with  the  Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (1) (d) or (e) from office ought to be investigated, then-
+(15)  If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (1)(d) or (e) from office ought to be investigated, then—
 
-(a) the Chief Justice appoints-
+(a) the Chief Justice appoints—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of a  chairperson  and  not  less  than  2  other  members,  selected  from amongst persons who hold or are qualified to hold the office of a Judge; and
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and not less than 2 other members, selected from amongst persons who hold or are qualified to hold the office of a Judge; and
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
-(b) the  tribunal  or  medical  board  enquires  into  the  matter  and  furnishes  a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (1) (d) or (e) should be removed from office; and
+(b) the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (1)(d) or (e) should be removed from office; and
 
-(c) in  deciding  whether  or  not  to  remove  the  member  of  the  Commission referred to in subsection (1) (d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
+(c) in deciding whether or not to remove the member of the Commission referred to in subsection (1)(d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
 
 [[END OF PAGE 68]]
 
@@ -2374,23 +2579,23 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 61
 
-(16)  The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (1) (d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (15), and may at any time, revoke the suspension.
+(16)  The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (1)(d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (15), and may at any time, revoke the suspension.
 
-(17)  The suspension of the member of the Commission referred to in subsection (1) (d) or (e) from  office  under  subsection  (16)  ceases  to  have  effect  if  the  President determines that the person should not be removed from office.
+(17)  The suspension of the member of the Commission referred to in subsection (1)(d) or (e) from office under subsection (16) ceases to have effect if the President determines that the person should not be removed from office.
 
 (18)  The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (15) shall be made public.
 
 #### Qualification for appointment
 
-105.-(1) The  making  of  appointments  to  a  judicial  office  is  governed  by  the principle that judicial officers should be of the highest competence and integrity.
+105.—(1) The making of appointments to a judicial office is governed by the principle that judicial officers should be of the highest competence and integrity.
 
-(2)	 A person is not qualified for appointment as a Judge unless he or she-
+(2)	 A person is not qualified for appointment as a Judge unless he or she—
 
 (a) holds,  or  has  held  a  high  judicial  office  in  Fiji  or  in  another  country prescribed by law; or
 
 (b) has had not less than 15 years post-admission practice as a legal practitioner in  Fiji  or  in  another  country  prescribed  by  law,  and  has  not  been  found guilty of any disciplinary proceeding involving legal practitioners whether in  Fiji  or  abroad,  including  any  proceeding  by  the  Independent  Legal Services  Commission  or  any  proceeding  under  the  law  governing  legal practitioners,  barristers  and  solicitors  prior  to  the  establishment  of  the Independent Legal Services Commission.
 
-(3)	 A person is not qualified for appointment as a Magistrate unless he or she-
+(3)	 A person is not qualified for appointment as a Magistrate unless he or she—
 
 (a) holds, or has held a judicial office in Fiji or in another country prescribed by law; or
 
@@ -2398,7 +2603,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Appointment of Judges
 
-106.-(1) The Chief Justice and the President of the Court of Appeal are appointed by the President on the advice of the Prime Minister following consultation by the Prime Minister with the Attorney-General.
+106.—(1) The Chief Justice and the President of the Court of Appeal are appointed by the President on the advice of the Prime Minister following consultation by the Prime Minister with the Attorney-General.
 
 [[END OF PAGE 69]]
 
@@ -2416,15 +2621,15 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Other appointments
 
-107.-(1) The Judicial Services Commission  has  the authority to appoint Magistrates, Masters of the High Court, the Chief Registrar, and other judicial officers as may be prescribed by any written law.
+107.—(1) The Judicial Services Commission has the authority to appoint Magistrates, Masters of the High Court, the Chief Registrar, and other judicial officers as may be prescribed by any written law.
 
 (2)	 In making appointments under subsection (1), the Judicial Services Commission must consult with the Attorney-General.
 
 #### Judicial department employees
 
-108.-(1) The Judicial Services Commission has the authority to appoint, remove and take disciplinary action against all non-judicial officers employed in the Judiciary.
+108.—(1) The Judicial Services Commission has the authority to appoint, remove and take disciplinary action against all non-judicial officers employed in the Judiciary.
 
-(2)	 The Judicial Services Commission has the authority to determine all matters pertaining  to  the  employment  of  non-judicial  officers  employed  in  the  Judiciary, including-
+(2)	 The Judicial Services Commission has the authority to determine all matters pertaining to the employment of non-judicial officers employed in the Judiciary, including—
 
 (a) the terms and conditions of employment;
 
@@ -2448,29 +2653,29 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Term of office
 
-110.-(1) A person who is not a citizen of Fiji and who is appointed to be a Judge in Fiji serves for a period not exceeding 3 years determined in each case by the Judicial Services Commission at the time of appointment, and may be eligible for re-appointment.
+110.—(1) A person who is not a citizen of Fiji and who is appointed to be a Judge in Fiji serves for a period not exceeding 3 years determined in each case by the Judicial Services Commission at the time of appointment, and may be eligible for re-appointment.
 
-(2)	 Any other appointment as a Judge continues until the Judge reaches retirement age, which is-
+(2)	 Any other appointment as a Judge continues until the Judge reaches retirement age, which is—
 
-(a) for  the  Chief  Justice,  President  of  the  Court  of  Appeal,  Judges  of  the Supreme Court and Justices of Appeal-the age of 75; and
+(a) for the Chief Justice, President of the Court of Appeal, Judges of the Supreme Court and Justices of Appeal—the age of 75; and
 
-(b) for the Judges of the High Court-the age of 70.
+(b) for the Judges of the High Court—the age of 70.
 
 (3)	 A person who retired as a Judge of the High Court, but has not reached the age of 75, is eligible for appointment as a Judge of the Supreme Court or as a Justice of Appeal.
 
 #### Removal of Chief Justice and President of the Court of Appeal for cause
 
-111.-(1) The Chief Justice or the President of the Court of Appeal may be removed from office for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+111.—(1) The Chief Justice or the President of the Court of Appeal may be removed from office for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
 (2)	 Removal of  the  Chief  Justice  or  the  President  of  the  Court  of Appeal  from office must be by the President pursuant to this section.
 
-(3)	 If the President, acting on the advice of the Prime Minister considers that the question of removing the Chief Justice or the President of the Court of Appeal from office ought to be investigated, then-
+(3)	 If the President, acting on the advice of the Prime Minister considers that the question of removing the Chief Justice or the President of the Court of Appeal from office ought to be investigated, then—
 
-(a) the President, acting on the advice of the Prime Minister, shall appoint-
+(a) the President, acting on the advice of the Prime Minister, shall appoint—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of a  chairperson  and  not  less  than  2  other  members,  selected  from amongst persons who hold or have held high judicial office in Fiji or in another country; and
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and not less than 2 other members, selected from amongst persons who hold or have held high judicial office in Fiji or in another country; and
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
 [[END OF PAGE 71]]
 
@@ -2490,17 +2695,17 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Removal of judicial officers for cause
 
-112.-(1) A  Judge,  Magistrate,  Master  of  the  High  Court,  the  Chief  Registrar or  any  other  judicial  officer  appointed  by  the  Judicial  Services  Commission  may  be removed from office for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+112.—(1) A Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission may be removed from office for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
 (2)	 Removal of a Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office must be by the President pursuant to this section.
 
-(3)	 If  the  President,  acting  on  the  advice  of  the  Judicial  Services  Commission, considers that the question of removing a Judge, Magistrate, Master of the High Court, the  Chief  Registrar  or  any  other  judicial  officer  appointed  by  the  Judicial  Services Commission from office ought to be investigated, then-
+(3)	 If the President, acting on the advice of the Judicial Services Commission, considers that the question of removing a Judge, Magistrate, Master of the High Court, the Chief Registrar or any other judicial officer appointed by the Judicial Services Commission from office ought to be investigated, then—
 
-(a) the President, acting on the advice of the Judicial Services Commission, shall appoint-
+(a) the President, acting on the advice of the Judicial Services Commission, shall appoint—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of a  chairperson  and  not  less  than  2  other  members,  selected  from amongst persons who hold or have held high judicial office in Fiji or in another country; and
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and not less than 2 other members, selected from amongst persons who hold or have held high judicial office in Fiji or in another country; and
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
 [[END OF PAGE 72]]
 
@@ -2522,7 +2727,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Remuneration of judicial officers
 
-113.-(1) The salaries and benefits payable to, or in respect of, a judicial officer must not be varied to the disadvantage of that judicial officer, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+113.—(1) The salaries and benefits payable to, or in respect of, a judicial officer must not be varied to the disadvantage of that judicial officer, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
 (2)	 The salaries and benefits payable to the Chief Justice and the President of the Court of Appeal shall be determined by the President on the advice of the Prime Minister following consultation by the Prime Minister with the Attorney-General.
 
@@ -2538,11 +2743,11 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 66
 
-### Part B-INDEPENDENT JUDICIAL AND LEGAL INSTITUTIONS
+### Part B—INDEPENDENT JUDICIAL AND LEGAL INSTITUTIONS
 
 #### Independent Legal Services Commission
 
-114.-(1) The Independent Legal Services Commission established by the Legal Practitioners Decree 2009 continues in existence.
+114.—(1) The Independent Legal Services Commission established by the Legal Practitioners Decree 2009 continues in existence.
 
 (2)	 The Commission shall consist of a Commissioner, who is, or is qualified to be appointed as a Judge.
 
@@ -2564,7 +2769,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (11)  The Commission may regulate its own procedure and may make such rules and regulations as it deems fit for regulating and facilitating the performance of its functions.
 
-(12)  The Commission shall provide regular updates and advice to the AttorneyGeneral on any matter relating to its functions and responsibilities.
+(12)  The Commission shall provide regular updates and advice to the Attorney-General on any matter relating to its functions and responsibilities.
 
 [[END OF PAGE 74]]
 
@@ -2574,13 +2779,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Fiji Independent Commission Against Corruption
 
-115.-(1) The  Fiji  Independent  Commission Against  Corruption  established  by the Fiji Independent Commission Against Corruption Promulgation 2007 continues in existence.
+115.—(1) The Fiji Independent Commission Against Corruption established by the Fiji Independent Commission Against Corruption Promulgation 2007 continues in existence.
 
 (2)	 The Commission shall consist of a Commissioner, Deputy Commissioner and such other officers as may be appointed by law.
 
 (3)	 The authority, functions and responsibility of the Commission shall be prescribed by written law, and a written law may make further provisions for the Commission.
 
-(4)	 Without prejudice to subsection (3), the Commission may-
+(4)	 Without prejudice to subsection (3), the Commission may—
 
 (a) investigate, institute and conduct criminal proceedings;
 
@@ -2596,11 +2801,11 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (8)	 The Commission may regulate its own procedure and may make such rules and regulations as it deems fit for regulating and facilitating the performance of its functions.
 
-(9)	 The  Commission  shall  provide  regular  updates  and  advice  to  the AttorneyGeneral on any matter relating to its functions and responsibilities.
+(9)	 The Commission shall provide regular updates and advice to the Attorney-General on any matter relating to its functions and responsibilities.
 
 (10)  The Commissioner and the Deputy Commissioner have the authority to appoint, remove and discipline all staff (including administrative staff) in the Commission.
 
-(11)  The  Commissioner  and  the  Deputy  Commissioner  have  the  authority  to determine all matters pertaining to the employment of all staff in the Fiji Independent Commission Against Corruption, including-
+(11)  The Commissioner and the Deputy Commissioner have the authority to determine all matters pertaining to the employment of all staff in the Fiji Independent Commission Against Corruption, including—
 
 (a) the terms and conditions of employment;
 
@@ -2620,11 +2825,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (13)  The salaries, benefits and allowances payable to any person employed in the Commission are a charge on the Consolidated Fund.
 
-(14)  Parliament shall ensure that adequate funding and resources are made available to the Commission, to enable it to independently and effectively exercise its powers and perform its functions and duties.
+(14) Parliament shall ensure that adequate funding and resources are made available to the Commission, to enable it to independently and effectively exercise its powers and perform its functions and duties.
 
-116.-(1) The  office  of  the  Solicitor-General  established  by  the  State  Services Decree 2009 continues in existence.
+#### Solicitor-General
 
-(2)	 The Solicitor-General is responsible for-
+116.—(1) The office of the Solicitor-General established by the State Services Decree 2009 continues in existence.
+
+(2) The Solicitor-General is responsible for—
 
 (a) providing independent legal advice to Government and to the holder of a public office, on request;
 
@@ -2648,7 +2855,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (5)	 The Solicitor-General shall be appointed by the President on the recommendation of  the  Judicial  Services  Commission  following  consultation  by  the  Judicial  Services Commission with the Attorney-General.
 
-(6)	 The President may, on the recommendation of the Judicial Services Commission following consultation by it with the Attorney-General, appoint a person to act as the Solicitor-General during any period or during all periods, when the office of the SolicitorGeneral is vacant or when the Solicitor-General is absent from duty or from Fiji or is, for any reason, unable to perform the functions of office.
+(6) The President may, on the recommendation of the Judicial Services Commission following consultation by it with the Attorney-General, appoint a person to act as the Solicitor-General during any period or during all periods, when the office of the Solicitor-General is vacant or when the Solicitor-General is absent from duty or from Fiji or is, for any reason, unable to perform the functions of office.
 
 (7)	 The Solicitor-General has the same status as that of a permanent secretary and shall be responsible as the Permanent Secretary for the Office of the Attorney-General and may be assigned such additional responsibilities as permanent secretary.
 
@@ -2660,7 +2867,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (11)  The Solicitor-General shall have the authority to appoint, remove and institute disciplinary action against all staff (including administrative staff) in the Office of the Attorney-General.
 
-(12)  The Solicitor-General has the authority to determine all matters pertaining to the employment of all staff in the Office of the Attorney-General, including-
+(12) The Solicitor-General has the authority to determine all matters pertaining to the employment of all staff in the Office of the Attorney-General, including—
 
 (a) the terms and conditions of employment;
 
@@ -2682,7 +2889,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Director of Public Prosecutions
 
-117.-(1) The office of the Director of Public Prosecutions established under the State Services Decree 2009 continues in existence.
+117.—(1) The office of the Director of Public Prosecutions established under the State Services Decree 2009 continues in existence.
 
 (2)	 The Director of Public Prosecutions must be a person who is qualified to be appointed as a Judge.
 
@@ -2696,7 +2903,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (7)	 The procedure for removal of the Director of Public Prosecutions from office shall be the same as the procedure for removal of a judicial officer under section 112.
 
-(8)	 The Director of Public Prosecutions may-
+(8) The Director of Public Prosecutions may—
 
 (a) institute and conduct criminal proceedings;
 
@@ -2712,7 +2919,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (d) intervene in proceedings that raise a question of public interest that may affect the conduct of criminal proceedings or criminal investigations.
 
-(9)	 The powers of the Director of Public Prosecutions may be exercised by the Director personally, or through other persons acting on the Director's instructions.
+(9) The powers of the Director of Public Prosecutions may be exercised by the Director personally, or through other persons acting on the Director’s instructions.
 
 (10)  In  the  exercise  of  the  powers  conferred  under  this  section,  the  Director  of Public Prosecutions shall not be subject to the direction or control of any other person or authority, except by a court of law or as otherwise prescribed by this Constitution or a written law.
 
@@ -2720,7 +2927,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (12)  The  Director  of  Public  Prosecutions  shall  have  the  authority  to  appoint, remove and institute disciplinary action against all staff (including administrative staff) in the office of the Director of Public Prosecutions.
 
-(13)  The  Director  of  Public  Prosecutions  has  the  authority  to  determine  all matters pertaining to the employment of all staff in the office of the Director of Public Prosecutions, including-
+(13) The Director of Public Prosecutions has the authority to determine all matters pertaining to the employment of all staff in the office of the Director of Public Prosecutions, including—
 
 (a) the terms and conditions of employment;
 
@@ -2742,7 +2949,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Legal Aid Commission
 
-118.-(1) The  Legal  Aid  Commission  established  by  the  Legal  Aid  Act  1996 continues in existence.
+118.—(1) The Legal Aid Commission established by the Legal Aid Act 1996 continues in existence.
 
 (2)	 The Commission shall provide free legal aid services to those members of the public who cannot afford the services of a legal practitioner, in accordance with such rules and guidelines as may be prescribed by or under a written law.
 
@@ -2754,7 +2961,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (6)	 The Commission shall have the authority to appoint, remove and discipline all staff (including administrative staff) in the Commission.
 
-(7)	 The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including-
+(7) The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including—
 
 (a) the terms and conditions of employment;
 
@@ -2770,7 +2977,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (10)  The Commission shall have the control of its own budget and finances, as approved by Parliament.
 
-(11)  The Commission shall provide regular updates and advice to the AttorneyGeneral on any matter relating to its functions and responsibilities.
+(11) The Commission shall provide regular updates and advice to the Attorney-General on any matter relating to its functions and responsibilities.
 
 [[END OF PAGE 80]]
 
@@ -2780,15 +2987,15 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Mercy Commission
 
-119.-(1) The  Commission  on  the  Prerogative  of  Mercy  established  under  the State Services Decree 2009 continues in existence as the Mercy Commission.
+119.—(1) The Commission on the Prerogative of Mercy established under the State Services Decree 2009 continues in existence as the Mercy Commission.
 
-(2)	 The Commission consists of-
+(2) The Commission consists of—
 
 (a) the Attorney-General who is to be its chairperson; and
 
 (b) 4  other  members  appointed  by  the  President,  acting  on  the  advice  of the Judicial Services Commission, following consultation by it with the Attorney-General.
 
-(3)	 On the petition of any convicted person, the Commission may recommend that the President exercise a power of mercy by­ -
+(3) On the petition of any convicted person, the Commission may recommend that the President exercise a power of mercy by—
 
 (a) granting a free or conditional pardon to a person convicted of an offence;
 
@@ -2796,9 +3003,9 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (c) remitting all or a part of a punishment.
 
-(4)	 The  Commission  may  dismiss  a  petition  that  it  reasonably  considers  to  be frivolous, vexatious or entirely without merit, but otherwise-
+(4) The Commission may dismiss a petition that it reasonably considers to be frivolous, vexatious or entirely without merit, but otherwise—
 
-(a) must consider a report on the case prepared by-
+(a) must consider a report on the case prepared by—
 
 (i) the Judge who presided at the trial; or
 
@@ -2810,7 +3017,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (5)	 The  President  must  act  in  accordance  with  the  recommendations  of  the Commission.
 
-(6)	 The  members  of  the  Commission  referred  to  in  subsection  (2) (b) shall  be appointed for a term of 3 years and shall be eligible for re-appointment.
+(6) The members of the Commission referred to in subsection (2)(b) shall be appointed for a term of 3 years and shall be eligible for re-appointment.
 
 (7)	 The President may, on the recommendation of the Judicial Services Commission following  consultation  by  it  with  the Attorney-General,  appoint  a  person  to  act  as  a member of the Commission during any period or during all periods, when there is a vacancy in the membership of the Commission or when a member is absent from duty or from Fiji or is, for any reason, unable to perform the functions of office.
 
@@ -2820,13 +3027,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 74
 
-(8)	 The  members  of  the  Commission  referred  to  in  subsection  (2) (b) may  be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+(8) The members of the Commission referred to in subsection (2)(b) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-(9)	 The procedure for removal of the members of the Commission referred to in subsection (2) (b) from office shall be the same as the procedure for removal of a judicial officer under section 112.
+(9) The procedure for removal of the members of the Commission referred to in subsection (2)(b) from office shall be the same as the procedure for removal of a judicial officer under section 112.
 
 (10)  In the performance of its functions or the exercise of its authority and powers, the Commission shall be independent and shall not be subject to the direction or control of any person or authority, except by a court of law or as otherwise prescribed by written law.
 
-(11)  The  members  of  the  Commission  referred  to  in  subsection  (2) (b) shall  be entitled to such remuneration as determined by the President acting on the advice of the  Judicial  Services  Commission  following  consultation  by  the  Judicial  Services Commission with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+(11) The members of the Commission referred to in subsection (2)(b) shall be entitled to such remuneration as determined by the President acting on the advice of the Judicial Services Commission following consultation by the Judicial Services Commission with the Attorney-General, and any such remuneration must not be varied to their disadvantage, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
 (12)  The Commission may regulate its own procedure and may make such rules and regulations as it deems fit for regulating and facilitating the performance of its functions.
 
@@ -2836,7 +3043,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Public Service Disciplinary Tribunal
 
-120.-(1) This section establishes the Public Service Disciplinary Tribunal.
+120.—(1) This section establishes the Public Service Disciplinary Tribunal.
 
 (2)  The Tribunal shall consist of a chairperson and 2 other members, appointed by the President, on the advice of the Judicial Services Commission following consultation by it with the Attorney-General.
 
@@ -2858,13 +3065,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (8)	 The authority, functions and responsibilities of the Tribunal shall be prescribed by written law, and a written law may make further provisions for the Tribunal.
 
-(9)	 In  addition  to  such  other  functions  as  may  be  conferred  by  written  law,  the Tribunal shall have the function of hearing and determining disciplinary action instituted by-
+(9) In addition to such other functions as may be conferred by written law, the Tribunal shall have the function of hearing and determining disciplinary action instituted by—
 
-(a) the Public Service Commission-against any permanent secretary; or
+(a) the Public Service Commission—against any permanent secretary; or
 
-(b) a  permanent  secretary,  the  Solicitor-General,  the  Director  of  Public Prosecutions or the Secretary-General to Parliament-against any person employed in their respective ministries or offices.
+(b) a permanent secretary, the Solicitor-General, the Director of Public Prosecutions or the Secretary-General to Parliament—against any person employed in their respective ministries or offices.
 
-- Any decision of the Tribunal shall be subject to review by the High Court.
+(10) Any decision of the Tribunal shall be subject to review by the High Court.
 
 (11)  A written law may make further provision for the Tribunal, including rules and procedures for the hearings before the Tribunal.
 
@@ -2888,7 +3095,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Accountability and Transparency Commission
 
-121.-(1) This section establishes the Accountability and Transparency Commission.
+121.—(1) This section establishes the Accountability and Transparency Commission.
 
 (2)	 The Commission shall consist of a chairperson and 2 other members appointed by the President, on the advice of the Judicial Services Commission following consultation by it with the Attorney-General.
 
@@ -2922,7 +3129,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (14)  The Commission shall have the authority to appoint, remove and discipline all staff (including administrative staff) in the Commission.
 
-(15)  The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including-
+(15) The Commission has the authority to determine all matters pertaining to the employment of all staff in the Commission, including—
 
 (a) the terms and conditions of employment;
 
@@ -2948,13 +3155,13 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 78
 
-## CHAPTER 6-STATE SERVICES
+## CHAPTER 6—STATE SERVICES
 
-### Part A-PUBLIC SERVICE
+### Part A—PUBLIC SERVICE
 
 #### Values and principles
 
-123.  The values and principles of State service include-
+123. The values and principles of State service include—
 
 (a) high  standards  of  professionalism,  including  professional  ethics  and integrity;
 
@@ -2968,7 +3175,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (f) accountability for administrative conduct;
 
-(g) transparency, including-
+(g) transparency, including—
 
 (i) timely, accurate disclosure of information to the public; and
 
@@ -2976,7 +3183,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 (h) cultivation of good human resource management and career development practices, to maximise human potential; and
 
-(i) recruitment and promotion based on-
+(i) recruitment and promotion based on—
 
 (i) objectivity, impartiality and fair competition; and
 
@@ -2988,7 +3195,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 #### Public Service Commission
 
-125.-(1) The  Public  Service  Commission  established  under  the  State  Services Decree 2009 continues in existence.
+125.—(1) The Public Service Commission established under the State Services Decree 2009 continues in existence.
 
 [[END OF PAGE 86]]
 
@@ -2996,7 +3203,7 @@ who are qualified, suitable or available to be appointed as the Attorney-General
 
 79
 
-(2)	 The Public Service Commission consists of-
+(2) The Public Service Commission consists of—
 
 (a) a chairperson; and
 
@@ -3010,7 +3217,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Functions of the Public Service Commission
 
-126.-(1) Subject to this section and other sections of this Constitution, the Public Service Commission has the following functions-
+126.—(1) Subject to this section and other sections of this Constitution, the Public Service Commission has the following functions—
 
 (a) to appoint permanent secretaries, with the agreement of the Prime Minister;
 
@@ -3020,7 +3227,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (d) to make such other appointments and perform such other duties, functions and responsibilities as may be prescribed by written law.
 
-(2)	 The functions of the Public Service Commission do not extend to-
+(2) The functions of the Public Service Commission do not extend to—
 
 (a) an office of a Judge or an office that is the responsibility of the Judicial Services Commission;
 
@@ -3030,7 +3237,9 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (d) an office in respect of which this Constitution makes provision.
 
-127.-(1) There  is  established  within  each  ministry  the  office  of  a  permanent secretary, which is an office in the public service.
+#### Permanent secretaries
+
+127.—(1) There is established within each ministry the office of a permanent secretary, which is an office in the public service.
 
 [[END OF PAGE 87]]
 
@@ -3050,7 +3259,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (7)  The permanent secretary of each ministry shall have the authority to appoint, remove  and  institute  disciplinary  action  against  all  staff  of  the  ministry,  with  the agreement of the Minister responsible for the ministry.
 
-(8)  The permanent secretary of each ministry, with the agreement of the Minister responsible for the ministry, has the authority to determine all matters pertaining to the employment of all staff in the ministry, including-
+(8) The permanent secretary of each ministry, with the agreement of the Minister responsible for the ministry, has the authority to determine all matters pertaining to the employment of all staff in the ministry, including—
 
 (a) the terms and conditions of employment;
 
@@ -3062,7 +3271,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 #### Appointment of ambassadors
 
-128.-(1) The  Prime  Minister  may,  on  the  advice  of  the  Minister  responsible for foreign affairs, make appointments to offices of ambassador, or of other principal representative, of the State to another country or an international organisation.
+128.—(1) The Prime Minister may, on the advice of the Minister responsible for foreign affairs, make appointments to offices of ambassador, or of other principal representative, of the State to another country or an international organisation.
 
 (2)  The Prime Minister may, on the advice of the Minister responsible for foreign affairs, remove a person from an office referred to in subsection (1).
 
@@ -3072,11 +3281,11 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 81
 
-### Part B-DISCIPLINED FORCE
+### Part B—DISCIPLINED FORCE
 
 #### Fiji Police Force
 
-129.-(1) The  Fiji  Police  Force  established  under  a  written  law  continues  in existence.
+129.—(1) The Fiji Police Force established under a written law continues in existence.
 
 (2)	 The office of the Commissioner of Police established under the State Services Decree 2009 continues in existence.
 
@@ -3084,7 +3293,7 @@ appointed by the President on the advice of the Constitutional Offices Commissio
 
 (4)	 The Commissioner of Police is appointed by the President, on the advice of the Constitutional Offices Commission following consultation with the Minister responsible for the Fiji Police Force.
 
-(5)	 The Commissioner of Police is responsible for-
+(5) The Commissioner of Police is responsible for—
 
 (a) the organisation and administration of the Fiji Police Force; and
 
@@ -3094,7 +3303,7 @@ and, subject to subsection (6), is not subject to the direction or control by an
 
 (6)	 The Minister responsible for the Fiji Police Force may from time to time issue general policy directions to the Commissioner of Police and, if such a direction has been issued, the Commissioner of Police must act in accordance with it.
 
-(7)	 The Commissioner of Police has the following powers in relation to the Fiji Police Force for all ranks, members and other employees, of the Fiji Police Force-
+(7) The Commissioner of Police has the following powers in relation to the Fiji Police Force for all ranks, members and other employees, of the Fiji Police Force—
 
 (a) to appoint persons to the Fiji Police Force;
 
@@ -3104,7 +3313,7 @@ and, subject to subsection (6), is not subject to the direction or control by an
 
 and all written laws governing the Fiji Police Force shall be construed accordingly.
 
-(8)	 The Commissioner of Police, with the agreement of the Minister responsible for  the  Fiji  Police  Force,  has  the  authority  to  determine  all  matters  pertaining  to  the employment of all staff in the Fiji Police Force, including-
+(8) The Commissioner of Police, with the agreement of the Minister responsible for the Fiji Police Force, has the authority to determine all matters pertaining to the employment of all staff in the Fiji Police Force, including—
 
 (a) the terms and conditions of employment;
 
@@ -3124,7 +3333,7 @@ and all written laws governing the Fiji Police Force shall be construed accordin
 
 #### Fiji Corrections Service
 
-130.-(1) The Fiji Corrections Service established under a written law continues in existence.
+130.—(1) The Fiji Corrections Service established under a written law continues in existence.
 
 (2)	 The  office  of  the  Commissioner  of  the  Fiji  Corrections  Service  established under the State Services Decree 2009 continues in existence.
 
@@ -3132,7 +3341,7 @@ and all written laws governing the Fiji Police Force shall be construed accordin
 
 (4)	 The Commissioner of the Fiji Corrections Service is appointed by the President, on the advice of the Constitutional Offices Commission, following consultation with the Minister responsible for the Fiji Corrections Service.
 
-(5)	 The Commissioner of the Fiji Corrections Service is responsible for-
+(5) The Commissioner of the Fiji Corrections Service is responsible for—
 
 (a) the organisation and administration of the Fiji Corrections Service; and
 
@@ -3142,7 +3351,7 @@ and, subject to subsection (6), is not subject to the direction or control by an
 
 (6)	 The Minister responsible for the Fiji Corrections Service may from time to time issue general policy directions with respect to the Fiji Corrections Service and, if such a direction has been issued, the Commissioner of the Fiji Corrections Service must act in accordance with it.
 
-(7)	 The Commissioner of the Fiji Corrections Service has the following powers in relation to the Fiji Corrections Service for all ranks, members and other employees of the Fiji Corrections Service-
+(7) The Commissioner of the Fiji Corrections Service has the following powers in relation to the Fiji Corrections Service for all ranks, members and other employees of the Fiji Corrections Service—
 
 (a) to appoint persons to the Fiji Corrections Service;
 
@@ -3158,7 +3367,7 @@ and  all  written  laws  governing  the  Fiji  Corrections  Service  shall  be  
 
 83
 
-(8)  The Commissioner of the Fiji Corrections Service, with the agreement of the Minister  responsible  for  the  Fiji  Corrections  Service,  has  the  authority  to  determine all  matters  pertaining  to  the  employment  of  all  staff  in  the  Fiji  Corrections  Service, including-
+(8) The Commissioner of the Fiji Corrections Service, with the agreement of the Minister responsible for the Fiji Corrections Service, has the authority to determine all matters pertaining to the employment of all staff in the Fiji Corrections Service, including—
 
 (a) the terms and conditions of employment;
 
@@ -3172,7 +3381,7 @@ and  all  written  laws  governing  the  Fiji  Corrections  Service  shall  be  
 
 #### Republic of Fiji Military Forces
 
-131.-(1) The Republic of Fiji Military Forces established under the State Services Decree 2009 continues in existence.
+131.—(1) The Republic of Fiji Military Forces established under the State Services Decree 2009 continues in existence.
 
 (2)  It shall be the overall responsibility of the Republic of Fiji Military Forces to ensure at all times the security, defence and well-being of Fiji and all Fijians.
 
@@ -3180,7 +3389,7 @@ and  all  written  laws  governing  the  Fiji  Corrections  Service  shall  be  
 
 (4)  The Commander of the Republic of Fiji Military Forces is appointed by the President, on the advice of the Constitutional Offices Commission, following consultation with the Minister responsible for the Republic of Fiji Military Forces.
 
-(5)  The  Commander  of  the  Republic  of  Fiji  Military  Forces  has  the  following powers in relation to the Republic of Fiji Military Forces for all ranks, members and other employees of the Republic of Fiji Military Forces-
+(5) The Commander of the Republic of Fiji Military Forces has the following powers in relation to the Republic of Fiji Military Forces for all ranks, members and other employees of the Republic of Fiji Military Forces—
 
 (a) to appoint persons to the Republic of Fiji Military Forces;
 
@@ -3196,7 +3405,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 84
 
-(6)  The Commander of the Republic of Fiji Military Forces, with the agreement of the Minister responsible for the Republic of Fiji Military Forces, has the authority to determine all matters pertaining to the employment of all staff in the Republic of Fiji Military Forces, including-
+(6) The Commander of the Republic of Fiji Military Forces, with the agreement of the Minister responsible for the Republic of Fiji Military Forces, has the authority to determine all matters pertaining to the employment of all staff in the Republic of Fiji Military Forces, including—
 
 (a) the terms and conditions of employment;
 
@@ -3208,13 +3417,13 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 (7)  A written law may prescribe provisions relating to the Republic of Fiji Military Forces.
 
-### Part C-CONSTITUTIONAL OFFICES COMMISSION
+### Part C—CONSTITUTIONAL OFFICES COMMISSION
 
 #### Constitutional Offices Commission
 
-132.-(1) This section establishes the Constitutional Offices Commission.
+132.—(1) This section establishes the Constitutional Offices Commission.
 
-(2)	 The Commission shall consist of-
+(2) The Commission shall consist of—
 
 (a) the Prime Minister, who shall be the chairperson;
 
@@ -3242,25 +3451,25 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 (7)	 The secretary of the Commission shall be the Solicitor-General.
 
-(8)	 The members of the Commission referred to in subsection (2) (d) and (e) hold office for a term of 3 years and are eligible for re-appointment.
+(8) The members of the Commission referred to in subsection (2)(d) and (e) hold office for a term of 3 years and are eligible for re-appointment.
 
-(9)	 The members of the Commission referred to in subsection (2) (d) and (e) are entitled to such remuneration and allowances as determined by the President, and the remuneration  and  allowances  must  not  be  varied  to  their  disadvantage  during  their term in office, except as part of an overall austerity reduction similarly applicable to all officers of the State.
+(9) The members of the Commission referred to in subsection (2)(d) and (e) are entitled to such remuneration and allowances as determined by the President, and the remuneration and allowances must not be varied to their disadvantage during their term in office, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
-(10)  The members of the Commission referred to in subsection (2) (d) or (e) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+(10) The members of the Commission referred to in subsection (2)(d) or (e) may be removed from office for inability to perform the functions of office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
-(11)  Removal  from  office  of  the  members  of  the  Commission  referred  to  in subsection (2) (d) and (e) must be pursuant to subsection (12).
+(11) Removal from office of the members of the Commission referred to in subsection (2)(d) and (e) must be pursuant to subsection (12).
 
-(12)  If  the  Chief  Justice,  following  consultation  with  the  Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (2) (d) or (e) from office ought to be investigated, then-
+(12) If the Chief Justice, following consultation with the Attorney-General, considers that the question of removal of the member of the Commission referred to in subsection (2)(d) or (e) from office ought to be investigated, then—
 
-(a) the Chief Justice appoints-
+(a) the Chief Justice appoints—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of a  chairperson  and  not  less  than  2  other  members,  selected  from amongst persons who hold or are qualified to hold the office of a Judge; and
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and not less than 2 other members, selected from amongst persons who hold or are qualified to hold the office of a Judge; and
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
-(b) the  tribunal  or  medical  board  enquires  into  the  matter  and  furnishes  a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (2) (d) or (e) should be removed from office; and
+(b) the tribunal or medical board enquires into the matter and furnishes a written report of the facts to the President and advises the President of its recommendation whether or not the member of the Commission referred to in subsection (2)(d) or (e) should be removed from office; and
 
-(c) in  deciding  whether  or  not  to  remove  the  member  of  the  Commission referred to in subsection (2) (d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
+(c) in deciding whether or not to remove the member of the Commission referred to in subsection (2)(d) or (e) from office, the President must act in accordance with the advice of the tribunal or medical board, as the case may be.
 
 [[END OF PAGE 93]]
 
@@ -3268,17 +3477,17 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 86
 
-(13)  The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (2) (d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (12), and may at any time, revoke the suspension.
+(13) The President on the advice of the Chief Justice following consultation by the Chief Justice with the Attorney-General may, on such terms and conditions as he or she deems fit, suspend the member of the Commission referred to in subsection (2)(d) or (e) from office pending investigation and pending referral to and appointment of a tribunal or a medical board under subsection (12), and may at any time, revoke the suspension.
 
-(14)  The suspension of the member of the Commission referred to in subsection (2 )(d) or (e) from  office  under  subsection  (13)  ceases  to  have  effect  if  the  President determines that the person should not be removed from office.
+(14) The suspension of the member of the Commission referred to in subsection (2)(d) or (e) from office under subsection (13) ceases to have effect if the President determines that the person should not be removed from office.
 
 (15)  The report of the tribunal or the recommendations of the medical board, as the case may be, made under subsection (12) shall be made public.
 
 #### Functions of the Constitutional Offices Commission
 
-133. The Constitutional Offices Commission has such functions and responsibilities as prescribed in this Constitution or by any other written law, and shall be responsible for providing advice to the President for the appointment of the following offices-
+133. The Constitutional Offices Commission has such functions and responsibilities as prescribed in this Constitution or by any other written law, and shall be responsible for providing advice to the President for the appointment of the following offices—
 
-(a) the  chairperson  and  the  members  of  the  Human  Rights  and  AntiDiscrimination Commission;
+(a) the chairperson and the members of the Human Rights and Anti-Discrimination Commission;
 
 (b) the chairperson and the members of the Electoral Commission;
 
@@ -3298,11 +3507,11 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 (j) Governor of the Reserve Bank of Fiji.
 
-### Part D-GENERAL PROVISIONS RELATING TO PUBLIC OFFICES
+### Part D—GENERAL PROVISIONS RELATING TO PUBLIC OFFICES
 
 #### Application
 
-134.  This Part applies to-
+134. This Part applies to—
 
 (a) Supervisor of Elections;
 
@@ -3332,9 +3541,9 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Terms and conditions of office
 
-135.-(1)  Subject to this section, a person holding the office referred to in section 134 (a) to (g) holds office for 5 years and is eligible for re-appointment.
+135.—(1) Subject to this section, a person holding the office referred to in section 134(a) to (g) holds office for 5 years and is eligible for re-appointment.
 
-(2)  Subject to this section, a person holding the office referred to in section 134 (h) to (j) holds office for 3 years, and is eligible for re-appointment.
+(2) Subject to this section, a person holding the office referred to in section 134(h) to (j) holds office for 3 years, and is eligible for re-appointment.
 
 (3)  The appointment of a person to whom this Part applies is subject to the terms and conditions (if any) set out in it.
 
@@ -3342,13 +3551,13 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Remuneration and allowances
 
-136.-(1)  A  person  to  whom  this  Part  applies  is  entitled  to  such  remuneration and  allowances  as  determined  by  the  President  on  the  advice  of  the  Constitutional Offices Commission, and the remuneration and allowances must not be varied to their disadvantage  during  his  or  her  term  in  office,  except  as  part  of  an  overall  austerity reduction similarly applicable to all officers of the State.
+136.—(1) A person to whom this Part applies is entitled to such remuneration and allowances as determined by the President on the advice of the Constitutional Offices Commission, and the remuneration and allowances must not be varied to their disadvantage during his or her term in office, except as part of an overall austerity reduction similarly applicable to all officers of the State.
 
 (2)  In  advising  the  President  on  the  remuneration  and  allowances  payable  to  a person to whom this Part applies, the Constitutional Offices Commission must establish an independent committee (not comprising any holder of a public office) which shall advise  the  Constitutional  Offices  Commission  on  the  appropriate  remuneration  and allowances that should be payable to a person to whom this Part applies.
 
 #### Removal from office for cause
 
-137.-(1)  A person to  whom this  Part  applies  may  be  removed  from  office  for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
+137.—(1) A person to whom this Part applies may be removed from office for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and may not otherwise be removed.
 
 (2)  Removal from office must be pursuant to this section.
 
@@ -3358,13 +3567,13 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 88
 
-(3)  If the Constitutional Offices Commission considers that the question of removal from office ought to be investigated, then-
+(3) If the Constitutional Offices Commission considers that the question of removal from office ought to be investigated, then—
 
-(a) the Constitutional Offices Commission appoints-
+(a) the Constitutional Offices Commission appoints—
 
-(i) in  the  case  of  alleged  misbehaviour-a  tribunal,  consisting  of a  chairperson  and  not  less  than  2  other  members,  selected  from amongst persons who hold or are qualified to hold the office of a Judge; and
+(i) in the case of alleged misbehaviour—a tribunal, consisting of a chairperson and not less than 2 other members, selected from amongst persons who hold or are qualified to hold the office of a Judge; and
 
-(ii) in the case of alleged inability to perform the functions of office-a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
+(ii) in the case of alleged inability to perform the functions of office—a medical board, consisting of a chairperson and 2 other members, each of whom is a qualified medical practitioner;
 
 (b) the  tribunal  or  medical  board  enquires  into  the  matter  and  furnishes  a written report of the facts to the President and advises the President of its recommendation whether or not the person concerned should be removed from office; and
 
@@ -3378,7 +3587,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Performance of functions of commissions and tribunals
 
-138.-(1)  This section applies to-
+138.—(1) This section applies to—
 
 (a) Human Rights and Anti-Discrimination Commission;
 
@@ -3414,7 +3623,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 (5)  In the performance of its functions or the exercise of its powers, a commission, tribunal or board to which this section applies is not subject to the direction or control of any other person or authority, except as otherwise provided by this Constitution.
 
-(6)  Nothing in subsection (5) limits the responsibility of the Government for the structure of the State service, nor the Government's general policy responsibility for the management of the State service.
+(6) Nothing in subsection (5) limits the responsibility of the Government for the structure of the State service, nor the Government’s general policy responsibility for the management of the State service.
 
 (7)  In  addition  to  the  functions  conferred  on  it  by  or  under  this  Constitution,  a commission, tribunal or board to which this section applies has such powers and other functions (if any) as are prescribed by written law.
 
@@ -3428,21 +3637,21 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 90
 
-## CHAPTER 7-REVENUE AND EXPENDITURE
+## CHAPTER 7—REVENUE AND EXPENDITURE
 
 #### Raising of revenue
 
-139.-(1) The raising by the Government of revenue or moneys, whether through the imposition of taxation or otherwise, must be authorised by or under a written law.
+139.—(1) The raising by the Government of revenue or moneys, whether through the imposition of taxation or otherwise, must be authorised by or under a written law.
 
 (2)	 No taxation or fee may be imposed, waived or varied by the State, except as provided by written law.
 
-(3)	 If a written law permits the waiver or variation of any tax or fee-
+(3) If a written law permits the waiver or variation of any tax or fee—
 
 (a) a record of each waiver or variation must be maintained together with the reason for it; and
 
 (b) each waiver or variation,  and  the  reason  for  it,  must  be  reported  to  the Auditor-General.
 
-(4)	 No  law  may  exempt,  or  authorise  the  exemption  of,  a  public  officer  from payment of any tax or fee by reason of-
+(4) No law may exempt, or authorise the exemption of, a public officer from payment of any tax or fee by reason of—
 
 (a) the office held by that public officer; or
 
@@ -3450,7 +3659,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Consolidated Fund
 
-140.-(1) All revenue or moneys raised or received for the purposes of the State or Government must be paid into one Consolidated Fund.
+140.—(1) All revenue or moneys raised or received for the purposes of the State or Government must be paid into one Consolidated Fund.
 
 (2)	 Subsection  (1)  does  not  apply  to  revenue  or  moneys  that  are  payable  by  or under a written law into some other fund established for a specific purpose or that may, by or under a written law, be retained by the authority receiving them for the purposes of defraying the expenses of that authority.
 
@@ -3460,7 +3669,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Authorisation of expenditure in advance of appropriation
 
-142.-(1) Subject to any written law, if the Appropriation Act for a year has not come into operation by the beginning of the year, the Minister responsible for finance may, to the extent and subject to the conditions prescribed by any written law, authorise the  withdrawal  of  moneys  from  the  Consolidated  Fund  for  the  ordinary  services  of Government.
+142.—(1) Subject to any written law, if the Appropriation Act for a year has not come into operation by the beginning of the year, the Minister responsible for finance may, to the extent and subject to the conditions prescribed by any written law, authorise the withdrawal of moneys from the Consolidated Fund for the ordinary services of Government.
 
 (2)  The  total  amount  authorised  for  withdrawal  under  subsection  (1)  must  not exceed one-third of the appropriations made for the ordinary services of Government in respect of the immediately preceding year.
 
@@ -3472,7 +3681,7 @@ and  all  written  laws  governing  the  Republic  of  Fiji  Military  Forces  s
 
 #### Appropriation and taxing measures require ministerial consent
 
-143.  Any written law, that-
+143. Any written law, that—
 
 (a) appropriates revenue or moneys or increases such an appropriation;
 
@@ -3484,15 +3693,15 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 #### Annual budget
 
-144.-(1) In respect of each year ending on 31 December or on such other day as Parliament prescribes, the Minister responsible for finance must cause to be laid before Parliament an annual budget, reflecting estimates of revenue and of capital and current expenditure  for  the  year,  in  respect  of  the  ordinary  services  of  the  Government  and services of Parliament.
+144.—(1) In respect of each year ending on 31 December or on such other day as Parliament prescribes, the Minister responsible for finance must cause to be laid before Parliament an annual budget, reflecting estimates of revenue and of capital and current expenditure for the year, in respect of the ordinary services of the Government and services of Parliament.
 
 (2)	 A written law may prescribe the manner in which annual estimates are to be prepared.
 
 #### Guarantees by Government
 
-145.-(1) The Government must not guarantee the financial ability of any person or body in respect of a loan or otherwise unless the giving of the guarantee is authorised by Parliament in accordance with conditions prescribed by law.
+145.—(1) The Government must not guarantee the financial ability of any person or body in respect of a loan or otherwise unless the giving of the guarantee is authorised by Parliament in accordance with conditions prescribed by law.
 
-(2)  Parliament, by resolution, may require the Minister responsible for finance to present to Parliament, within 7 days after the resolution, information concerning any particular loan or guarantee, including all information necessary to show-
+(2) Parliament, by resolution, may require the Minister responsible for finance to present to Parliament, within 7 days after the resolution, information concerning any particular loan or guarantee, including all information necessary to show—
 
 (a) the extent of the total indebtedness by way of principal and accumulated interest;
 
@@ -3508,7 +3717,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 #### Standing appropriation of Consolidated Fund for payment of certain salaries and allowances
 
-147.-(1) This section applies to-
+147.—(1) This section applies to—
 
 (a) the President;
 
@@ -3544,15 +3753,15 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 (n) the  chairperson  and  members  of  the  Accountability  and  Transparency Commission;
 
-(o) the members of the Judicial Services Commission referred to in section 104(1) (d) and (e) ;
+(o) the members of the Judicial Services Commission referred to in section 104(1)(d) and (e);
 
-(p) the members of the Mercy Commission referred to in section 119(2) (b) ;
+(p) the members of the Mercy Commission referred to in section 119(2)(b);
 
 (q) the chairperson and members of the Public Service Disciplinary Tribunal;
 
 (r) the chairperson and members of the Public Service Commission;
 
-(s) the  members  of  the  Constitutional  Offices  Commission  referred  to  in section 132(2) (d) and (e) ; and
+(s) the members of the Constitutional Offices Commission referred to in section 132(2)(d) and (e); and
 
 (t) the chairperson and members of any tribunal or medical board established or appointed under this Constitution to consider the question of removal from office of any person.
 
@@ -3560,7 +3769,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 #### Standing appropriation of Consolidated Fund for other purposes
 
-148.-(1) All debt charges for which the State is liable and all pension benefits (except to the extent that they are a charge on another fund and have been paid out of that fund to the person or authority to whom payment is due) are payable out of the Consolidated Fund, which is appropriated accordingly.
+148.—(1) All debt charges for which the State is liable and all pension benefits (except to the extent that they are a charge on another fund and have been paid out of that fund to the person or authority to whom payment is due) are payable out of the Consolidated Fund, which is appropriated accordingly.
 
 [[END OF PAGE 100]]
 
@@ -3568,13 +3777,13 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 93
 
-- In this section-
+(2) In this section—
 
-'debt charges' means interest, sinking fund charges, amounts due in respect of repayment or amortisation of debt, and other expenditure incurred in connection with the raising of loans on the security of the revenue of the State or the Consolidated Fund;
+“debt charges” means interest, sinking fund charges, amounts due in respect of repayment or amortisation of debt, and other expenditure incurred in connection with the raising of loans on the security of the revenue of the State or the Consolidated Fund;
 
-'eligible service' means service in a public office but does not include service in a naval, military or air force; and
+“eligible service” means service in a public office but does not include service in a naval, military or air force; and
 
-'pension  benefits' means  pensions,  compensation,  gratuities  or  other  like payments payable to persons in respect of their eligible service or to their spouses, dependents, or personal representatives in respect of that service.
+“pension benefits” means pensions, compensation, gratuities or other like payments payable to persons in respect of their eligible service or to their spouses, dependents, or personal representatives in respect of that service.
 
 [[END OF PAGE 101]]
 
@@ -3582,19 +3791,19 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 94
 
-## CHAPTER 8-ACCOUNTABILITY
+## CHAPTER 8—ACCOUNTABILITY
 
-### Part A-CODE OF CONDUCT
+### Part A—CODE OF CONDUCT
 
 #### Code of conduct
 
-149. A written law shall-
+149. A written law shall—
 
 (a) establish  a  code  of  conduct  which  shall  be  applicable  to  the  President, Speaker, Deputy Speaker, Prime Minister, Ministers, members of Parliament,  holders  of  offices  established  by  or  continued  in  existence under this Constitution or under any written law, members of commissions, permanent secretaries, ambassadors or other principal representatives of the  State,  and  persons  who  hold  statutory  appointments  or  governing or  executive  positions  in  statutory  authorities,  and  to  such  other  offices (including public offices) as may be prescribed by written law;
 
 (b) establish  rules,  processes  and  procedures  for  the  implementation  of  the code of conduct by the Accountability and Transparency Commission;
 
-(c) provide  for  the  monitoring  by  the  Accountability  and  Transparency Commission  of  compliance  with  the  code  of  conduct  by  the  officers mentioned in paragraph (a) ;
+(c) provide for the monitoring by the Accountability and Transparency Commission of compliance with the code of conduct by the officers mentioned in paragraph (a);
 
 (d) make provision for the investigation of alleged breaches of the code of conduct and enforcement of the code of conduct by the Accountability and Transparency  Commission,  including  through  criminal  and  disciplinary proceedings, and provide for the removal from office of those officers who are found to be in breach of the code of conduct;
 
@@ -3602,7 +3811,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 (f) provide for the annual declaration by the officers mentioned in paragraph (a) of  the  assets  and  liabilities  and  financial  interests  of  the  officer,  and of such other direct relatives of the officer as may be prescribed, to the Accountability and Transparency Commission, and for such declarations to be accessible to the public.
 
-### Part B-FREEDOM OF INFORMATION
+### Part B—FREEDOM OF INFORMATION
 
 #### Freedom of information
 
@@ -3614,11 +3823,11 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 95
 
-### Part C-AUDITOR-GENERAL
+### Part C—AUDITOR-GENERAL
 
 #### Auditor-General
 
-151.-(1)  The office of the Auditor-General established under the State Services Decree 2009 continues in existence.
+151.—(1) The office of the Auditor-General established under the State Services Decree 2009 continues in existence.
 
 (2)	 The  Auditor-General  is  appointed  by  the  President  on  the  advice  of  the Constitutional Offices Commission, following consultation with the Minister responsible for finance.
 
@@ -3626,7 +3835,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 #### Functions of Auditor-General
 
-152.-(1)  At least once in every year, the Auditor-General shall inspect, audit and report to Parliament on-
+152.—(1) At least once in every year, the Auditor-General shall inspect, audit and report to Parliament on—
 
 (a) the public accounts of the State;
 
@@ -3634,7 +3843,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 (c) all transactions with or concerning the public money or public property of the State.
 
-(2)	 In the report, the Auditor-General must state whether, in his or her opinion-
+(2) In the report, the Auditor-General must state whether, in his or her opinion—
 
 (a) transactions  with  or  concerning  the  public  money  or  public  property  of the State have been authorised by or pursuant to this Constitution or any written law; and
 
@@ -3654,7 +3863,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 96
 
-(7)	 The Auditor-General has the authority to determine all matters pertaining to the employment of all staff in the office of the Auditor-General, including-
+(7) The Auditor-General has the authority to determine all matters pertaining to the employment of all staff in the office of the Auditor-General, including—
 
 (a) the terms and conditions of employment;
 
@@ -3684,11 +3893,11 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 97
 
-### Part D-RESERVE BANK OF FIJI
+### Part D—RESERVE BANK OF FIJI
 
 #### Reserve Bank of Fiji
 
-153.-(1)  The Reserve Bank of Fiji is the central bank of the State, whose primary objects are-
+153.—(1) The Reserve Bank of Fiji is the central bank of the State, whose primary objects are—
 
 (a) to protect the value of the currency in the interest of balanced and sustainable economic growth;
 
@@ -3716,11 +3925,11 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 98
 
-## CHAPTER 9-EMERGENCY POWERS
+## CHAPTER 9—EMERGENCY POWERS
 
 #### State of emergency
 
-154.-(1) The Prime Minister may, on the recommendation of the Commissioner of Police and the Commander of the Republic of Fiji Military Forces, declare a state of emergency in Fiji, or in a part of Fiji, and may make regulations relating to a state of emergency, if there are reasonable grounds to believe that-
+154.—(1) The Prime Minister may, on the recommendation of the Commissioner of Police and the Commander of the Republic of Fiji Military Forces, declare a state of emergency in Fiji, or in a part of Fiji, and may make regulations relating to a state of emergency, if there are reasonable grounds to believe that—
 
 (a) the security and safety of all or part of Fiji is threatened; and
 
@@ -3740,7 +3949,7 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 99
 
-## CHAPTER 10-IMMUNITY
+## CHAPTER 10—IMMUNITY
 
 #### Immunity granted under the Constitution of 1990 continues
 
@@ -3748,13 +3957,13 @@ may only be passed by Parliament with the consent of Cabinet, as signified by th
 
 #### Immunity granted under the Limitation of Liability for Prescribed Political Events Decree 2010 continues
 
-156.-(1) The immunities granted to prescribed persons for prescribed political events  under  the  Limitation  of  Liability  for  Prescribed  Political  Events  Decree  2010 shall continue in existence.
+156.—(1) The immunities granted to prescribed persons for prescribed political events under the Limitation of Liability for Prescribed Political Events Decree 2010 shall continue in existence.
 
 (2)  Notwithstanding  anything  contained  in  this  Constitution,  the  Limitation  of Liability for Prescribed Political Events Decree 2010 shall, in its entirety, continue in existence and shall not be reviewed, amended, altered, repealed or revoked by Parliament.
 
 #### Further immunity
 
-157.  Absolute and unconditional immunity is irrevocably granted to any person (whether in their official or personal or individual capacity) holding the office of, or holding the office in, as the case may be-
+157. Absolute and unconditional immunity is irrevocably granted to any person (whether in their official or personal or individual capacity) holding the office of, or holding the office in, as the case may be—
 
 (a) the President;
 
@@ -3782,7 +3991,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 #### Immunity entrenched
 
-158.-(1) Notwithstanding anything contained in this Constitution, this Chapter and any immunity granted or continued in this Chapter shall not be reviewed, amended, altered, repealed or revoked.
+158.—(1) Notwithstanding anything contained in this Constitution, this Chapter and any immunity granted or continued in this Chapter shall not be reviewed, amended, altered, repealed or revoked.
 
 (2)	 Notwithstanding anything contained in this Constitution, no court or tribunal shall have the jurisdiction to accept, hear or make any decision or order with respect to any challenge against the provisions of this Chapter and any immunity granted or continued in this Chapter.
 
@@ -3794,13 +4003,13 @@ from any criminal prosecution and from any civil or other liability in any court
 
 101
 
-## CHAPTER 11-AMENDMENT OF CONSTITUTION
+## CHAPTER 11—AMENDMENT OF CONSTITUTION
 
 #### Amendment of Constitution
 
-159.-(1) Subject  to  subsection  (2),  this  Constitution,  or  any  provision  of  this Constitution,  may  be  amended  in  accordance  with  the  procedure  prescribed  in  this Chapter, and may not be amended in any other way.
+159.—(1) Subject to subsection (2), this Constitution, or any provision of this Constitution, may be amended in accordance with the procedure prescribed in this Chapter, and may not be amended in any other way.
 
-(2)	 No amendment to this Constitution may ever-
+(2) No amendment to this Constitution may ever—
 
 (a) repeal  any  provision  in  Chapter  10  of  this  Constitution  or  in  Part  D  of Chapter 12 of this Constitution;
 
@@ -3810,9 +4019,9 @@ from any criminal prosecution and from any civil or other liability in any court
 
 #### Procedure for amendment
 
-160.-(1) A Bill for the amendment of this Constitution must be expressed as a Bill for an Act to amend this Constitution.
+160.—(1) A Bill for the amendment of this Constitution must be expressed as a Bill for an Act to amend this Constitution.
 
-(2)	 A Bill for the amendment of this Constitution must be passed by Parliament in accordance with the following procedure-
+(2) A Bill for the amendment of this Constitution must be passed by Parliament in accordance with the following procedure—
 
 (a) the Bill is read 3 times in Parliament;
 
@@ -3836,11 +4045,11 @@ from any criminal prosecution and from any civil or other liability in any court
 
 102
 
-(7)	 In this section, the use of the word ' amend ' or ' amendment ' is intended to be understood broadly, so that the section applies to any proposal to repeal, replace, revise, or alter any provision of this Constitution.
+(7) In this section, the use of the word “amend” or “amendment” is intended to be understood broadly, so that the section applies to any proposal to repeal, replace, revise, or alter any provision of this Constitution.
 
 #### Amendments before 31 December 2013
 
-161.-(1) Notwithstanding  anything  contained  in  this  Chapter,  on  or  before  31 December 2013, the President acting on the advice of Cabinet may, by Decree published in the Gazette , make such amendments to this Constitution, as are necessary to give full effect to the provisions of this Constitution or to rectify any inconsistency or errors in any provision of this Constitution.
+161.—(1) Notwithstanding anything contained in this Chapter, on or before 31 December 2013, the President acting on the advice of Cabinet may, by Decree published in the Gazette, make such amendments to this Constitution, as are necessary to give full effect to the provisions of this Constitution or to rectify any inconsistency or errors in any provision of this Constitution.
 
 (2)	 Cabinet can only advise the President for an amendment to this Constitution under  subsection  (1)  if  Cabinet  obtains  certification  of  the  Supreme  Court  for  the amendment.
 
@@ -3852,35 +4061,35 @@ from any criminal prosecution and from any civil or other liability in any court
 
 103
 
-## CHAPTER 12-COMMENCEMENT, INTERPRETATION, REPEALS AND TRANSITIONAL
+## CHAPTER 12—COMMENCEMENT, INTERPRETATION, REPEALS AND TRANSITIONAL
 
-### Part A-SHORT TITLE AND COMMENCEMENT
+### Part A—SHORT TITLE AND COMMENCEMENT
 
 #### Short title and commencement
 
-162.-(1) This Constitution may be cited as the Constitution of the Republic of Fiji.
+162.—(1) This Constitution may be cited as the Constitution of the Republic of Fiji.
 
-- This Constitution shall come into force on 7 September 2013.
+(2) This Constitution shall come into force on 7 September 2013.
 
-### Part B-INTERPRETATION
+### Part B—INTERPRETATION
 
 #### Interpretation
 
-- 163.-(1) In this Constitution, unless the contrary intention appears-
+163.—(1) In this Constitution, unless the contrary intention appears—
 
-' Act ' means an Act of Parliament, a Decree or a Promulgation;
+“Act” means an Act of Parliament, a Decree or a Promulgation;
 
-' adult ' means an individual who is 18 years of age or over;
+“adult” means an individual who is 18 years of age or over;
 
-' Bill of Rights ' means the rights and freedoms set out in Chapter 2;
+“Bill of Rights” means the rights and freedoms set out in Chapter 2;
 
-' child ' means an individual who has not reached the age of 18 years;
+“child” means an individual who has not reached the age of 18 years;
 
-' commission '  means a commission established by, or continued in existence under, this Constitution;
+“commission” means a commission established by, or continued in existence under, this Constitution;
 
-' Constitution of 1990 ' means the Constitution set out in the Constitution of the Sovereign Democratic Republic of Fiji (Promulgation) Decree 1990;
+“Constitution of 1990” means the Constitution set out in the Constitution of the Sovereign Democratic Republic of Fiji (Promulgation) Decree 1990;
 
-' corrupt practices ' includes-
+“corrupt practices” includes—
 
 (a) any attempt to improperly influence a public officer;
 
@@ -3890,7 +4099,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (d) requesting or accepting any benefit to which a person is not lawfully entitled;
 
-(e) withholding any service, benefit, decision or judgment, or threatening a person with the exercise of a lawful power against that person, or implying any such practice, in order to extort a personal benefit or to improperly obtain the person's consent to any action or omission;
+(e) withholding any service, benefit, decision or judgment, or threatening a person with the exercise of a lawful power against that person, or implying any such practice, in order to extort a personal benefit or to improperly obtain the person’s consent to any action or omission;
 
 (f) unlawfully taking or demanding any private property;
 
@@ -3904,19 +4113,19 @@ from any criminal prosecution and from any civil or other liability in any court
 
 104
 
-' criminal  proceedings '  means  proceedings  before  any  court,  other  than  a military court, in which a person is prosecuted for allegedly committing an offence, including an appeal, a case presented on the basis of agreed facts, or a question of law reserved;
+“criminal proceedings” means proceedings before any court, other than a military court, in which a person is prosecuted for allegedly committing an offence, including an appeal, a case presented on the basis of agreed facts, or a question of law reserved;
 
-' department ' means a department of the public service, under a ministry;
+“department” means a department of the public service, under a ministry;
 
-' disability '  includes  any  physical,  sensory,  mental,  psychological  or  other condition, or illness that-
+“disability” includes any physical, sensory, mental, psychological or other condition, or illness that—
 
-(a) has, or is perceived by significant sectors of the community to have, a significant adverse effect on an individual's ability to participate fully and effectively in society on an equal basis with others; or
+(a) has, or is perceived by significant sectors of the community to have, a significant adverse effect on an individual’s ability to participate fully and effectively in society on an equal basis with others; or
 
 (b) forms the basis of unfair discrimination;
 
-' disciplinary  law '  means  a  written  law  regulating  the  discipline  of  any disciplined force;
+“disciplinary law” means a written law regulating the discipline of any disciplined force;
 
-' disciplined force ' means-
+“disciplined force” means—
 
 (a) the Republic of Fiji Military Forces;
 
@@ -3924,17 +4133,17 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (c) the Fiji Corrections Service;
 
-' electoral offences ' includes an offence under a law governing elections and includes any offence under any law governing registration of voters and registration of political parties;
+“electoral offences” includes an offence under a law governing elections and includes any offence under any law governing registration of voters and registration of political parties;
 
-' Fiji ' or ' Republic of Fiji ' means the territories which immediately before 10 October 1970 constituted the Colony of Fiji and includes any other territory declared by Parliament to form part of Fiji;
+“Fiji” or “Republic of Fiji” means the territories which immediately before 10 October 1970 constituted the Colony of Fiji and includes any other territory declared by Parliament to form part of Fiji;
 
-' Gazette ' means the Government of the Republic of Fiji Gazette published by order or under the authority of the Government, or a supplement to the Gazette ;
+“Gazette” means the Government of the Republic of Fiji Gazette published by order or under the authority of the Government, or a supplement to the Gazette;
 
-' Government ' means the Government of the State;
+“Government” means the Government of the State;
 
-' human trafficking ' includes trafficking of persons as defined or prescribed by a written law;
+“human trafficking” includes trafficking of persons as defined or prescribed by a written law;
 
-' Judge ' means a Judge of the High Court (including the Chief Justice), a Justice of Appeal (including the President of the Court of Appeal) or a Judge of the Supreme Court;
+“Judge” means a Judge of the High Court (including the Chief Justice), a Justice of Appeal (including the President of the Court of Appeal) or a Judge of the Supreme Court;
 
 [[END OF PAGE 112]]
 
@@ -3942,25 +4151,25 @@ from any criminal prosecution and from any civil or other liability in any court
 
 105
 
-' judicial  officer '  includes  a  Judge  of  the  High  Court  (including  the  Chief Justice),  a  Justice  of  Appeal  (including  the  President  of  the  Court  of Appeal), a Judge of the Supreme Court, Magistrate, Masters of the High Court,  the  Chief  Registrar  and  other  judicial  officers  appointed  by  the Judicial Services Commission;
+“judicial officer” includes a Judge of the High Court (including the Chief Justice), a Justice of Appeal (including the President of the Court of Appeal), a Judge of the Supreme Court, Magistrate, Masters of the High Court, the Chief Registrar and other judicial officers appointed by the Judicial Services Commission;
 
-' law ' includes all written law;
+“law” includes all written law;
 
-' minerals ' includes  all  minerals  extracted  from  land  or  seabed  and  includes natural gases;
+“minerals” includes all minerals extracted from land or seabed and includes natural gases;
 
-' oath ' includes affirmation;
+“oath” includes affirmation;
 
-' oath or affirmation of allegiance and office ' means the oath or affirmation of allegiance and office as set out in the Schedule;
+“oath or affirmation of allegiance and office” means the oath or affirmation of allegiance and office as set out in the Schedule;
 
-' person ' means a natural or legal person, including a company or association or body of persons whether corporate or unincorporated;
+“person” means a natural or legal person, including a company or association or body of persons whether corporate or unincorporated;
 
-' political party ' means an organised group or association of persons striving for participation in the political life or Government of the Republic of Fiji that has been registered under a written law regulating the organisation of political parties;
+“political party” means an organised group or association of persons striving for participation in the political life or Government of the Republic of Fiji that has been registered under a written law regulating the organisation of political parties;
 
-' prescribed ' means prescribed in, by or under a written law;
+“prescribed” means prescribed in, by or under a written law;
 
-' President ' means the President of the Republic of Fiji appointed under Chapter 4 and includes any person appointed or holding office under Part D of this Chapter;
+“President” means the President of the Republic of Fiji appointed under Chapter 4 and includes any person appointed or holding office under Part D of this Chapter;
 
-' property ' includes any vested or contingent right to, or interest in or arising from-
+“property” includes any vested or contingent right to, or interest in or arising from—
 
 (a) land, or permanent fixtures on, or improvements to, land;
 
@@ -3970,7 +4179,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (d) money or negotiable instruments;
 
-' public office ' means-
+“public office” means—
 
 (a) an office created by, or continued in existence under, this Constitution;
 
@@ -3994,9 +4203,9 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (h) an office established by written law;
 
-' public officer ' means the holder of a public office;
+“public officer” means the holder of a public office;
 
-' public service ' means the service of the State in a civil capacity but does not include-
+“public service” means the service of the State in a civil capacity but does not include—
 
 (a) service in the judicial branch;
 
@@ -4004,27 +4213,27 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (c) service in an office created by, or continued in existence under, this Constitution;
 
-' session ',  in  relation  to  Parliament,  means  a  sitting  of  Parliament  starting when it first meets after a prorogation of Parliament or a dissolution of Parliament and ending when Parliament is next prorogued or Parliament is next dissolved;
+“session”, in relation to Parliament, means a sitting of Parliament starting when it first meets after a prorogation of Parliament or a dissolution of Parliament and ending when Parliament is next prorogued or Parliament is next dissolved;
 
-' sentence of imprisonment ' does not include a suspended sentence or a sentence of imprisonment with the option of a fine;
+“sentence of imprisonment” does not include a suspended sentence or a sentence of imprisonment with the option of a fine;
 
-' sitting ', in relation to Parliament, means a period during which Parliament is sitting continuously without adjournment, and includes any period during which Parliament is in committee;
+“sitting”, in relation to Parliament, means a period during which Parliament is sitting continuously without adjournment, and includes any period during which Parliament is in committee;
 
-' Speaker ' means the Speaker of Parliament;
+“Speaker” means the Speaker of Parliament;
 
-' State ' means the Republic of Fiji;
+“State” means the Republic of Fiji;
 
-' state of emergency ' means a state of emergency proclaimed under Chapter 9;
+“state of emergency” means a state of emergency proclaimed under Chapter 9;
 
-' State service ' means the public service and the disciplined force;
+“State service” means the public service and the disciplined force;
 
-' subordinate court ' means any court of law established for the State other than the High Court, Court of Appeal, Supreme Court or a court established by a disciplinary law;
+“subordinate court” means any court of law established for the State other than the High Court, Court of Appeal, Supreme Court or a court established by a disciplinary law;
 
-' subordinate law ' means any instrument made in exercise of a power to make the instrument conferred by an Act, and includes regulations, rules, orders, by-laws or declarations;
+“subordinate law” means any instrument made in exercise of a power to make the instrument conferred by an Act, and includes regulations, rules, orders, by-laws or declarations;
 
-' this Constitution ' means the Constitution of the Republic of Fiji; and
+“this Constitution” means the Constitution of the Republic of Fiji; and
 
-' written law ' means an Act, Decree, Promulgation and subordinate law made under those Acts, Decrees or Promulgations.
+“written law” means an Act, Decree, Promulgation and subordinate law made under those Acts, Decrees or Promulgations.
 
 [[END OF PAGE 114]]
 
@@ -4032,7 +4241,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 107
 
-(2)	 A reference in this Constitution to a power to make appointments to a public office includes a reference to-
+(2) A reference in this Constitution to a power to make appointments to a public office includes a reference to—
 
 (a) a power to make appointments on the promotion or transfer to the office; and
 
@@ -4040,7 +4249,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 (3)	 In this Constitution, unless the contrary intention appears, a reference to the holder of an office by the term designating his or her office includes a reference to any person for the time being acting in the office.
 
-(4)	 A person who has been appointed to an office established by this Constitution may resign from the office by notice in writing signed by him or her addressed to the person or authority by whom he or she was appointed, and the resignation takes effect-
+(4) A person who has been appointed to an office established by this Constitution may resign from the office by notice in writing signed by him or her addressed to the person or authority by whom he or she was appointed, and the resignation takes effect—
 
 (a) at the time or on the date specified in the notice; or
 
@@ -4048,7 +4257,7 @@ from any criminal prosecution and from any civil or other liability in any court
 
 whichever is the later.
 
-(5)	 A reference in this Constitution to a power to remove a person from a public office includes a reference to-
+(5) A reference in this Constitution to a power to remove a person from a public office includes a reference to—
 
 (a) a power to require the person to retire from office;
 
@@ -4056,7 +4265,7 @@ whichever is the later.
 
 (c) a power not to renew the contract on which the person is employed.
 
-(6)  A reference in this Constitution to amending any law (including this Constitution) is a reference to-
+(6) A reference in this Constitution to amending any law (including this Constitution) is a reference to—
 
 (a) repealing it with or without replacing it by another law;
 
@@ -4082,21 +4291,21 @@ whichever is the later.
 
 (11)  A power conferred by this Constitution to make, grant or issue any instrument (including a proclamation, order, regulation or rule), or to give any direction, includes the power, exercisable in the like manner, to repeal, rescind, revoke, amend or vary the instrument or direction.
 
-(12)  For  the  avoidance  of  doubt,  use  of  the  word 'must' in  this  Constitution imports obligation to the same extent as if the word 'shall' were used.
+(12) For the avoidance of doubt, use of the word “must” in this Constitution imports obligation to the same extent as if the word “shall” were used.
 
-(13)  A reference in this Constitution to an office named in this Constitution is to be read with any formal alteration necessary to make it applicable in the circumstances.
+(13) A reference in this Constitution to an office named in this Constitution is to be read with any formal alteration necessary to make it applicable in the circumstances.
 
-(14)  In this Constitution, unless the context otherwise requires-
+(14) In this Constitution, unless the context otherwise requires—
 
-(a) if  a  word  or  expression is defined in this Constitution, any grammatical variation or cognate expression of the word  or expression has a corresponding meaning, read with the changes required by the context; and
+(a) if a word or expression is defined in this Constitution, any grammatical variation or cognate expression of the word or expression has a corresponding meaning, read with the changes required by the context; and
 
-(b) the word 'includes' means 'includes, but is not limited to' .
+(b) the word “includes” means “includes, but is not limited to”.
 
-(15)  In calculating time between 2 events for any purpose under this Constitution, if the time is expressed-
+(15) In calculating time between 2 events for any purpose under this Constitution, if the time is expressed—
 
 (a) as days, the day on which the first event occurs is to be excluded, and the day by which the last event may occur is to be included;
 
-(b) as months, the time period ends at the beginning of the day in the relevant month-
+(b) as months, the time period ends at the beginning of the day in the relevant month—
 
 (i) that has the same number as the date on which the period began, if that month has a corresponding date; or
 
@@ -4120,15 +4329,15 @@ whichever is the later.
 
 (20)  Except to the extent that this Constitution provides otherwise, if a person has vacated an office established under this Constitution, the person may, if qualified, again be appointed, elected or otherwise selected to hold the office in accordance with this Constitution.
 
-(21)  The Schedule is a part of this Constitution, and every use of the expression ' this Constitution ' includes the Schedule.
+(21) The Schedule is a part of this Constitution, and every use of the expression “this Constitution” includes the Schedule.
 
 (22)  Any person required under any law to take an oath or affirmation of allegiance and office must take the appropriate oath or affirmation set out in the Schedule.
 
-### Part C-REPEALS
+### Part C—REPEALS
 
 #### Repeals
 
-164.  Subject to Part D of this Chapter and other provisions of this Constitution, the following written laws are repealed-
+164. Subject to Part D of this Chapter and other provisions of this Constitution, the following written laws are repealed—
 
 (a) Executive Authority of Fiji Decree 2009;
 
@@ -4140,11 +4349,11 @@ whichever is the later.
 
 (e) Administration of Justice Decree 2009.
 
-### Part D-TRANSITIONAL
+### Part D—TRANSITIONAL
 
 #### Office of the President
 
-165.-(1) Notwithstanding the repeal of the Executive Authority of Fiji Decree 2009, the President appointed under the Executive Authority of Fiji Decree 2009 shall continue to hold office for the term of his or her appointment made under the Executive Authority of Fiji Decree 2009, and any re-appointment to the office of the President must be done in accordance with the provisions of this Constitution.
+165.—(1) Notwithstanding the repeal of the Executive Authority of Fiji Decree 2009, the President appointed under the Executive Authority of Fiji Decree 2009 shall continue to hold office for the term of his or her appointment made under the Executive Authority of Fiji Decree 2009, and any re-appointment to the office of the President must be done in accordance with the provisions of this Constitution.
 
 [[END OF PAGE 117]]
 
@@ -4160,7 +4369,7 @@ whichever is the later.
 
 #### Prime Minister and Ministers
 
-166.-(1) Notwithstanding the repeal of the Executive Authority of Fiji Decree 2009, the Prime Minister and other Ministers appointed under the Executive Authority of Fiji Decree 2009 shall continue in office until a Prime Minister assumes office under section 93 of this Constitution.
+166.—(1) Notwithstanding the repeal of the Executive Authority of Fiji Decree 2009, the Prime Minister and other Ministers appointed under the Executive Authority of Fiji Decree 2009 shall continue in office until a Prime Minister assumes office under section 93 of this Constitution.
 
 (2)  The  Prime  Minister  and  other  Ministers  shall  continue  to  exercise  all  the authority  and  powers  vested  in  the  Prime  Minister  and  other  Ministers  under  the Executive Authority of Fiji Decree 2009 until a Prime Minister assumes office under section 93 of this Constitution.
 
@@ -4170,7 +4379,7 @@ whichever is the later.
 
 #### Public or Constitutional officers
 
-167.-(1) Any person who immediately before the date of commencement of this Constitution holds or is acting in a public office shall, from the date of the commencement of this Constitution hold or act in that office or the corresponding public office established by this Constitution as if he or she had been appointed to do so in accordance with the provisions of this Constitution and shall be deemed to have taken any oath or affirmation required upon such appointment by any existing law.
+167.—(1) Any person who immediately before the date of commencement of this Constitution holds or is acting in a public office shall, from the date of the commencement of this Constitution hold or act in that office or the corresponding public office established by this Constitution as if he or she had been appointed to do so in accordance with the provisions of this Constitution and shall be deemed to have taken any oath or affirmation required upon such appointment by any existing law.
 
 (2)  The provision of this section shall be without prejudice to any power conferred by or under this Constitution to make provision for the abolition of offices or for the removal from office of persons holding or acting in any office.
 
@@ -4182,7 +4391,7 @@ whichever is the later.
 
 (3)  Notwithstanding anything contained in this Constitution, until the first sitting of the first Parliament elected under this Constitution, any function, power or duty that is conferred under this Constitution on the Constitutional Offices Commission shall be performed by the Prime Minister.
 
-(4)  For  the  avoidance  of  doubt,  the  members  of  the  Constitutional  Offices Commission referred to in section 132(2) (d) and (e) shall only be appointed after the first sitting of the first Parliament elected under this Constitution, and the Constitution Offices Commission shall not hold any meeting until after the first sitting of the first Parliament elected under this Constitution.
+(4) For the avoidance of doubt, the members of the Constitutional Offices Commission referred to in section 132(2)(d) and (e) shall only be appointed after the first sitting of the first Parliament elected under this Constitution, and the Constitution Offices Commission shall not hold any meeting until after the first sitting of the first Parliament elected under this Constitution.
 
 (5)  Notwithstanding anything contained in this Constitution, sections 79(8), 108(2), 116(12), 117(13), 121(15), 127(8), 129(8), 130(8), 131(6) and 152(7) shall only take effect from 1 January 2014.
 
@@ -4192,7 +4401,7 @@ whichever is the later.
 
 #### Functions of Parliament and Speaker
 
-169.-(1) Notwithstanding  the  repeal  of  the  laws  mentioned  in  Part  C  of  this Chapter, any function that has to be performed by the Speaker in this Constitution shall, until the first sitting of the first Parliament under this Constitution, be performed by the Prime Minister.
+169.—(1) Notwithstanding the repeal of the laws mentioned in Part C of this Chapter, any function that has to be performed by the Speaker in this Constitution shall, until the first sitting of the first Parliament under this Constitution, be performed by the Prime Minister.
 
 (2)  Notwithstanding the repeal of the laws mentioned in Part C of this Chapter, any function that has to be performed by Parliament in this Constitution shall, until the first sitting of the first Parliament under this Constitution, be performed by Cabinet.
 
@@ -4200,7 +4409,7 @@ whichever is the later.
 
 #### Elections
 
-170.-(1)  Notwithstanding anything contained in Chapter 4 of this Constitution, the  first  general  election  for  members  of  Parliament  under  this  Constitution  shall  be held on a date to be determined by the President, on the advice of the Prime Minister, provided however that the first general election must be held no later than 30 September 2014.
+170.—(1) Notwithstanding anything contained in Chapter 4 of this Constitution, the first general election for members of Parliament under this Constitution shall be held on a date to be determined by the President, on the advice of the Prime Minister, provided however that the first general election must be held no later than 30 September 2014.
 
 (2)	 For the first general election of members of Parliament under this Constitution, the date on which such general election shall be held shall be publicly announced by the President at least 60 days before the date of the general election.
 
@@ -4218,13 +4427,13 @@ whichever is the later.
 
 #### Succession of institutions
 
-171.-(1)  An office or institution established under this Constitution shall be the legal successor of the corresponding office or institution existing immediately before the commencement of this Constitution.
+171.—(1) An office or institution established under this Constitution shall be the legal successor of the corresponding office or institution existing immediately before the commencement of this Constitution.
 
 (2)  Upon  its  appointment  under  this  Constitution,  the  Supervisor  of  Elections shall be the legal successor to the office of the Registrar of Voters under the Electoral (Registration of Voters) Decree 2012 and to the office of the Registrar under the Political Parties (Registration, Conduct, Funding and Disclosures) Decree 2013.
 
 #### Preservation of rights and obligations
 
-172.-(1)  Except to the extent that this Constitution expressly provides otherwise, all  rights  and  obligations,  however  arising,  of  the  State  and  subsisting  immediately before the commencement of this Constitution shall continue as rights and obligations of the State under this Constitution.
+172.—(1) Except to the extent that this Constitution expressly provides otherwise, all rights and obligations, however arising, of the State and subsisting immediately before the commencement of this Constitution shall continue as rights and obligations of the State under this Constitution.
 
 (2)  All permits, licences, rights or similar undertakings of the State issued to any person, and in force immediately before the commencement of this Constitution shall continue in the same terms from that date.
 
@@ -4232,7 +4441,7 @@ whichever is the later.
 
 (4)  All proceedings before a commission or a person referred to in any law repealed under Part C of this Chapter that had commenced but had not been determined on the date of the commencement of this Constitution shall continue after the commencement of this Constitution as if they had been commenced before the corresponding commission or person referred to in this Constitution.
 
-(5)  Any complaint lodged with the Human Rights Commission established under the Human Rights Commission Decree 2009 but which had not been determined by the date of the commencement of this Constitution shall continue to be dealt with by the Human Rights and Anti-Discrimination Commission established under section 45 of this Constitution, provided however that any complaint made to the Human Rights and Anti- Discrimination Commission after 21 August 2013 must be limited to matters, events or incidents which occurred or occur after 21 August 2013, and the Human Rights and Anti-Discrimination Commission must not in any way deal with any complaint made to it after 21 August 2013 if the complaint relates to matters, events or incidents occurring before 21 August 2013.
+(5) Any complaint lodged with the Human Rights Commission established under the Human Rights Commission Decree 2009 but which had not been determined by the date of the commencement of this Constitution shall continue to be dealt with by the Human Rights and Anti-Discrimination Commission established under section 45 of this Constitution, provided however that any complaint made to the Human Rights and Anti-
 
 [[END OF PAGE 120]]
 
@@ -4240,11 +4449,13 @@ whichever is the later.
 
 113
 
+Discrimination Commission after 21 August 2013 must be limited to matters, events or incidents which occurred or occur after 21 August 2013, and the Human Rights and Anti-Discrimination Commission must not in any way deal with any complaint made to it after 21 August 2013 if the complaint relates to matters, events or incidents occurring before 21 August 2013.
+
 #### Preservation of laws
 
-173.-(1)  Subject to subsection (2), all written laws in force immediately before the date of commencement of this Constitution (other than the laws referred to in Part C of this Chapter) shall continue in force as if they had been made under or pursuant to this Constitution, and shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
+173.—(1) Subject to subsection (2), all written laws in force immediately before the date of commencement of this Constitution (other than the laws referred to in Part C of this Chapter) shall continue in force as if they had been made under or pursuant to this Constitution, and shall be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
 
-(2)  Notwithstanding  anything  contained  in  this  Constitution,  any  Promulgation, Decree or Declaration (other than the laws referred to in Part C of this Chapter) and any subordinate laws made under any such Promulgation, Decree or Declaration-
+(2) Notwithstanding anything contained in this Constitution, any Promulgation, Decree or Declaration (other than the laws referred to in Part C of this Chapter) and any subordinate laws made under any such Promulgation, Decree or Declaration—
 
 (a) made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution; and
 
@@ -4252,13 +4463,13 @@ whichever is the later.
 
 shall continue to be in force in their entirety.
 
-(3)  Notwithstanding  anything  contained  in  this  Constitution,  any  Promulgation, Decree or Declaration (other than the laws referred to in Part C of this Chapter) and any subordinate laws made under any such Promulgation, Decree or Declaration-
+(3) Notwithstanding anything contained in this Constitution, any Promulgation, Decree or Declaration (other than the laws referred to in Part C of this Chapter) and any subordinate laws made under any such Promulgation, Decree or Declaration—
 
 (a) made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution; and
 
 (b) which  are  in  force  and  have  not  been  repealed  or  replaced  by  another Promulgation,  Decree  or  Declaration  or  by  any  subordinate  laws  made under any such Promulgation, Decree or Declaration (as the case may be),
 
-may  be  amended  by  Parliament  after  the  commencement  of  this  Constitution, provided however that no such amendment shall-
+may be amended by Parliament after the commencement of this Constitution, provided however that no such amendment shall—
 
 (i) have any retrospective effect;
 
@@ -4272,7 +4483,7 @@ may  be  amended  by  Parliament  after  the  commencement  of  this  Constituti
 
 114
 
-(4)  Notwithstanding anything contained in this Constitution, no court or tribunal (including any court or tribunal established or continued in existence by the Constitution) shall have the jurisdiction to accept, hear, determine, or in any other way entertain, or to grant any order, relief or remedy, in any proceeding of any nature whatsoever which seeks or purports to challenge or question-
+(4) Notwithstanding anything contained in this Constitution, no court or tribunal (including any court or tribunal established or continued in existence by the Constitution) shall have the jurisdiction to accept, hear, determine, or in any other way entertain, or to grant any order, relief or remedy, in any proceeding of any nature whatsoever which seeks or purports to challenge or question—
 
 (a) the validity or legality of any Promulgation, Decree or Declaration, and any  subordinate  laws  made  under  any  such  Promulgation,  Decree  or Declaration (including any provision of any such laws), made or as may be made between 5 December 2006 until the first sitting of the first Parliament under this Constitution;
 
@@ -4294,11 +4505,11 @@ may  be  amended  by  Parliament  after  the  commencement  of  this  Constituti
 
 #### Judicial proceedings
 
-174.-(1)  The  courts  established  by  the Administration  of  Justice  Decree  2009 shall continue in existence.
+174.—(1) The courts established by the Administration of Justice Decree 2009 shall continue in existence.
 
 (2)  All proceedings in the courts established under the Administration of Justice Decree  2009  that  had  commenced  but  had  not  been  determined  on  the  date  of  the commencement of this Constitution shall continue as if the provisions of this Constitution were in force at their commencement.
 
-(3)  Notwithstanding  anything  contained  in  this  Constitution,  sections  23,  23A, 23B, 23C, and 23D of the Administration of Justice Decree 2009 shall continue in force and shall not be amended, revised, altered or repealed, and the courts established by, or continued in existence under, this Constitution shall not have jurisdiction to-
+(3) Notwithstanding anything contained in this Constitution, sections 23, 23A, 23B, 23C, and 23D of the Administration of Justice Decree 2009 shall continue in force and shall not be amended, revised, altered or repealed, and the courts established by, or continued in existence under, this Constitution shall not have jurisdiction to—
 
 (a) accept, hear or determine any matter for which the jurisdiction of the courts is excluded under the Administration of Justice Decree 2009 or under any Promulgation, Decree, Declaration or under any other written law; or
 
@@ -4310,23 +4521,11 @@ may  be  amended  by  Parliament  after  the  commencement  of  this  Constituti
 
 116
 
-#### OATH FOR PRESIDENT
-
-I, .............., swear that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I will devote myself to the well-being of the Republic of  Fiji  and  all  Fijians,  protect  and  promote  their  rights  and  well  and  truly  serve  the Republic of Fiji in the office of the President. So help me, God!
-
-#### AFFIRMATION FOR PRESIDENT
-
-I, .............., do solemnly and sincerely and truly declare and affirm that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I will devote myself to the well-being of the Republic of Fiji and all Fijians, protect and promote their rights and well and truly serve the Republic of Fiji in the office of the President.
-
-#### OATH FOR MINISTERS
-
-I, .............., being appointed as Prime Minister/Minister, swear that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I solemnly and sincerely promise to hold my office with honour, dignity and integrity, to be a true and faithful counsellor, not to divulge any secret matter entrusted to me, and to perform the functions of my office conscientiously and to the best of my ability. So help me, God!
-
 # SCHEDULE
 
 ## OATHS AND AFFIRMATIONS
 
-### Part A-Allegiance
+### Part A—Allegiance
 
 #### OATH OF ALLEGIANCE
 
@@ -4336,7 +4535,19 @@ I, .............., swear that I will be faithful and bear true allegiance to the
 
 I, .............., do solemnly, sincerely and truly declare that I will be faithful and bear true allegiance to the Republic of Fiji according to law, and I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji.
 
-### Part B-For Taking Office
+### Part B—For Taking Office
+
+#### OATH FOR PRESIDENT
+
+I, .............., swear that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I will devote myself to the well-being of the Republic of Fiji and all Fijians, protect and promote their rights and well and truly serve the Republic of Fiji in the office of the President. So help me, God!
+
+#### AFFIRMATION FOR PRESIDENT
+
+I, .............., do solemnly and sincerely and truly declare and affirm that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I will devote myself to the well-being of the Republic of Fiji and all Fijians, protect and promote their rights and well and truly serve the Republic of Fiji in the office of the President.
+
+#### OATH FOR MINISTERS
+
+I, .............., being appointed as Prime Minister/Minister, swear that I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I solemnly and sincerely promise to hold my office with honour, dignity and integrity, to be a true and faithful counsellor, not to divulge any secret matter entrusted to me, and to perform the functions of my office conscientiously and to the best of my ability. So help me, God!
 
 [[END OF PAGE 124]]
 
@@ -4376,7 +4587,7 @@ I, .............., swear that, as the Speaker/Deputy Speaker of Parliament, I wi
 
 #### AFFIRMATION FOR SPEAKER/DEPUTY SPEAKER OF PARLIAMENT
 
-I, .............., do solemnly and sincerely and truly declare and affirm that, as the Speaker/ Deputy Speaker of Parliament, I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I solemnly and sincerely promise that I will defend the rule of law and the rights of the people, maintain the dignity and honour of Parliament to the best of my ability, and act without fear, favour or prejudice, in accordance with the Constitution of the Republic of Fiji and the law.
+I, .............., do solemnly and sincerely and truly declare and affirm that, as the Speaker/Deputy Speaker of Parliament, I will be faithful and bear true allegiance to the Republic of Fiji, and that I will obey, observe, uphold and maintain the Constitution of the Republic of Fiji and all other laws of Fiji; and I solemnly and sincerely promise that I will defend the rule of law and the rights of the people, maintain the dignity and honour of Parliament to the best of my ability, and act without fear, favour or prejudice, in accordance with the Constitution of the Republic of Fiji and the law.
 
 ________
 
