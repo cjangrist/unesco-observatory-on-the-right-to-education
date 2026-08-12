@@ -14,15 +14,15 @@ ENACTED by the King and the Parliament of Swaziland.
 
 ## Arrangement of sections
 
+Section
+
 ## CHAPTER I THE KINGDOM AND ITS CONSTITUTION
 
-- The Kingdom and its territory
+1. The Kingdom and its territory
 
-- The Constitution
+2. The Constitution
 
-- The Anthem, Flag and Languages
-
-Section
+3. The Anthem, Flag and Languages
 
 1
 
@@ -32,6 +32,80 @@ Section
 
 ## CHAPTER II MONARCHY
 
+4. The king and iNgwenyama
+
+5. Succession to the Throne
+
+6. Umntfwana (Crown Prince)
+
+7. The Ndlovukazi
+
+8. Umntfwanenkhosi Lomkhulu
+
+9. Civil List of the king and Ngwenyama
+
+10. Immunity of king and iNgwenyama from taxation
+
+11. Protection of the king and Ngwenyama in respect of legal proceedings
+
+12. Oath by the king and iNgwenyama
+
+13. The King’s Advisory Council
+
+## CHAPTER III PROTECTION AND PROMOTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
+
+14. Fundamental rights and freedoms of the individual
+
+15. Protection of right to life
+
+16. Protection of right to personal liberty
+
+17. Protection from slavery and forced labour
+
+18. Protection from inhuman or degrading treatment
+
+19. Protection from deprivation of property
+
+20. Equality before the law
+
+21. Right to fair hearing
+
+22. Protection against arbitrary search or entry
+
+23. Protection of freedom of conscience or religion
+
+24. Protection of freedom of expression
+
+25. Protection of freedom of assembly and association
+
+26. Protection of freedom of movement
+
+27. Rights and protection of the family
+
+28. Rights and freedoms of women
+
+29. Rights of the child
+
+30. Rights of persons with disabilities
+
+31. Abolition of the status of illegitimacy
+
+32. Rights of workers
+
+33. Right to administrative justice
+
+34. Property rights of spouses
+
+35. Enforcement of protective provisions
+
+36. Declaration of emergency
+
+37. Derogations during public emergency
+
+38. Prohibition of certain derogations
+
+39. Saving clauses and interpretation
+
 2
 
 [[END OF PAGE 2]]
@@ -40,13 +114,133 @@ Section
 
 ## CHAPTER IV CITIZENSHIP
 
+### Part 1 Acquisition of Citizenship
+
+40. Citizen of Swaziland
+
+41. Citizen by descent
+
+42. Citizenship by operation of law
+
+43. Citizenship by birth
+
+44. Citizenship by marriage
+
+45. Citizenship by registration
+
+46. Posthumous children
+
+47. Foundlings
+
+48. Birth aboard a ship or aircraft
+
+### PART 2 LOSS OF CITIZENSHIP
+
+49. Deprivation of citizenship
+
+50. Renunciation of citizenship
+
+51. Preservation of obligations on cessation of citizenship
+
+52. Death of citizen or loss of citizenship
+
+53. Citizenship Board
+
+54. Certificate of citizenship
+
+55. Provision for other matters
+
+## CHAPTER V DIRECTIVE PRINCIPLES OF STATE POLICY AND DUTIES OF THE CITIZEN
+
+56. General objectives
+
+57. Law enforcement objectives
+
+58. Political objectives
+
+59. Economic objectives
+
+60. Social objectives
+
+61. Foreign policy objectives
+
+62. Objectives on independence of the judiciary
+
+63. Duties of the citizen
+
+## CHAPTER VI THE EXECUTIVE
+
+64. Executive authority of Swaziland
+
+65. Exercise of King’s functions
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+66. The Cabinet of Ministers
+
+67. Appointment of Prime Minister and other Ministers
+
+68. Vacation of office of Prime Minister or Minister
+
+69. Responsibility of Cabinet
+
+70. Assignment of responsibilities
+
+71. Exercise of the Prime Minster’s functions during absence or illness
+
+72. Exercise of Minister’s functions during absence or illness
+
+73. Oaths of office
+
+74. Secretary to Cabinet
+
+75. Direction of government departments
+
+76. Principal Secretaries
+
+77. Attorney-General
+
+78. Prerogative of Mercy
+
 ## CHAPTER VII THE LEGISLATURE
+
+### Part 1 (a) System of government
+
+79. System of government
+
+80. Tinkhundla
+
+81. Bucopho (Inkhundla Committee)
+
+82. Regional Administration
+
+83. Regional Administrator
+
+### Part 1 (b) Representation of the people
+
+84. Right to representation
+
+85. Right to vote at elections
+
+86. Representation of women
+
+87. Election by secret ballot
+
+88. Qualification as a voter
+
+89. Disqualification as a voter
+
+### Part 1 (c) Regulation of elections
+
+90. Elections and Boundaries Commission
+
+91. Review of tinkhundla boundaries
+
+92. Report of the Elections and Boundaries Commission
 
 ### Part 2 Composition of Parliament
 
@@ -56,27 +250,145 @@ Section
 
 [[START OF PAGE 5]]
 
+93. Parliament
+
+94. Senate
+
+95. House of Assembly
+
+96. Qualifications for membership of Parliament
+
+97. Disqualifications for membership of Parliament
+
+98. Tenure of seats of members of Parliament
+
+99. Vacation of seat on sentence, etc
+
+100. President of Senate
+
+101. Deputy President of Senate
+
+102. The Speaker of the House
+
+103. Deputy Speaker of the House
+
+104. Acting President and Speaker
+
+105. Decision as to membership of Parliament
+
+### Part 3 (a) Legislation in Parliament
+
+106. Power to make laws
+
+107. Exercise of power to make laws
+
+108. Assent to bills
+
+109. When laws come into operation
+
+110. Introduction of bills
+
+111. Bills settling financial matters
+
+112. Limitation on powers of Senate – appropriation bills
+
+113. Limitation on powers of Senate – other money bills
+
+114. Limitation on powers of Senate – urgent bills
+
+115. Matters regulated by Swazi law and custom
+
+116. Procedure where chambers disagree on bills
+
+117. Reference back of bills by King
+
+118. Functions of Speaker
+
+119. Retroactive legislation
+
+120. Interpretation
+
 ### Part 3 (b) Regulation of procedure in Parliament
 
-- Regulation of procedure in Parliament
+121. Regulation of procedure in Parliament
 
-- Presiding in Senate
+122. Presiding in Senate
 
-- Presiding in the House of Assembly
+123. Presiding in the House of Assembly
 
-- Quorum in Senate and House
+124. Quorum in Senate and House
 
-- Voting in Parliament
+125. Voting in Parliament
 
-- Right of Ministers, etc to address other chamber
+126. Right of Ministers, etc to address other chamber
 
-- Unqualified persons sitting or voting
+127. Unqualified persons sitting or voting
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+128. Oaths by members of Parliament
+
+129. Committees of Parliament
+
+130. Parliamentary immunities and privileges
+
+### Part 3 (c) Parliamentary Service
+
+131. Parliamentary Service
+
+132. Clerk to Parliament and other staff
+
+### Part 4 Summoning, prorogation and dissolution
+
+133. Sessions of Parliament
+
+134. Prorogation and dissolution of Parliament
+
+135. Recalling Parliament in case of emergency
+
+136. General elections
+
+137. Filling of casual vacancies
+
+## CHAPTER VIII THE JUDICATURE
+
+### Part 1 General
+
+138. Administration of Justice
+
+139. The Judiciary
+
+140. Judicial power of Swaziland
+
+141. Independence of the Judiciary
+
+142. Administrative functions of the Chief Justice
+
+143. Oaths by Justices of the superior courts
+
+144. Appointment of assessors
+
+### Part 2 (a) The Supreme Court
+
+145. Composition of the Supreme Court
+
+146. Jurisdiction of Supreme Court (General)
+
+147. Appellate jurisdiction of Supreme Court
+
+148. Supervisory and review jurisdiction
+
+149. Powers of a single Justice of Supreme Court
+
+### Part 2 (b) The High Court
+
+150. Composition of the High Court
+
+151. Jurisdiction of the High Court
 
 6
 
@@ -88,51 +400,51 @@ Section
 
 ### Part 3 Appointment, removal, etc of Superior Court Justices
 
-- Appointment of Justices of the superior courts
+153. Appointment of Justices of the superior courts
 
-- Qualification for appointment to the superior courts
+154. Qualification for appointment to the superior courts
 
-- Tenure of office of superior court Justice
+155. Tenure of office of superior court Justice
 
-- Retirement and resignation of Justices of the superior courts
+156. Retirement and resignation of Justices of the superior courts
 
-- Appointment of Justices of the superior courts on contract
+157. Appointment of Justices of the superior courts on contract
 
-- Removal of Justices of superior courts
+158. Removal of Justices of superior courts
 
 ### Part 4 Judicial Service Commission
 
-- Judicial Service Commission
+159. Judicial Service Commission
 
-- Functions of the Judicial Service Commission
+160. Functions of the Judicial Service Commission
 
-- Secretariat to the Commission
+161. Secretariat to the Commission
 
 ## CHAPTER IX DIRECTOR OF PUBLIC PROSECUTIONS AND THE COMMISSION ON HUMAN RIGHTS AND PUBLIC ADMINISTRATION
 
 ### Part 1 Director of Public Prosecutions
 
-- Appointment, tenure, functions, etc
+162. Appointment, tenure, functions, etc
 
 ### Part 2 Commission on Human Rights and Public Administration
 
-- Commission on Human Rights and Public Administration
+163. Commission on Human Rights and Public Administration
 
-- Functions of the Commission
+164. Functions of the Commission
 
-- Powers of the Commission
+165. Powers of the Commission
 
-- Independence of the Commission
+166. Independence of the Commission
 
-- Discretion of Commissioner
+167. Discretion of Commissioner
 
-- Report of investigation
+168. Report of investigation
 
-- Restrictions on matters for investigation
+169. Restrictions on matters for investigation
 
-- Vacation of office and immunity of Commissioners
+170. Vacation of office and immunity of Commissioners
 
-- Staff and expenses of the Commission
+171. Staff and expenses of the Commission
 
 ## CHAPTER X THE PUBLIC SERVICE
 
@@ -146,11 +458,151 @@ Section
 
 ### Service Commissions
 
+172. Administration of the public service
+
+173. Establishment and membership
+
+174. Disqualification for membership
+
+175. Tenure of office and removal from office
+
+176. Functions and powers of service commissions
+
+177. Protection of members
+
+178. Independence of a service commission
+
+179. Privilege of communication
+
+180. Oaths of office
+
+181. Delegation of functions
+
+182. Legal representation
+
+183. Secretariat
+
+184. Annual reports
+
+185. Application of this Part
+
+### Part 2 Civil Service Commission
+
+186. Establishment, membership, etc
+
+187. Appointment, promotion, transfer, etc, of public officers
+
+188. Appointment and removal from office of Ambassadors, etc
+
+189. The Police Force
+
+190. Correctional Services
+
+191. The Defence Force
+
+192. Disciplinary control over principal secretaries, ambassadors, etc
+
+193. Recognition of other service commissions
+
+### Part 3 Miscellaneous
+
+194. Protection of public officers
+
+195. Pensions laws and protection of pensions rights
+
+196. Power of commission over pensions
+
+197. Right of action for wrongful dismissal, etc
+
+## CHAPTER XI PUBLIC FINANCE
+
+198. Consolidated Fund
+
+199. Withdrawals from Consolidated Fund or Public Fund
+
+200. Appropriation Act
+
+201. Supplementary estimates
+
+202. Expenditure in advance of appropriation
+
+203. Contingencies Fund
+
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+204. Power to borrow or lend
+
+205. Public debt
+
+206. The Central Bank
+
+207. Auditor-General
+
+208. Remuneration of certain officers
+
+209. The finance and public accounts committees
+
+## CHAPTER XII LAND, MINERALS, WATER, AND ENVIRONMENT
+
+210. Declaration of land, minerals and water as national resource
+
+211. Land
+
+212. Land Management Board
+
+213. Minerals
+
+214. Minerals Management Board
+
+215. Water
+
+216. Environment
+
+217. Further provisions
+
+## CHAPTER XIII LOCAL GOVERNMENT
+
+218. Local government
+
+219. Local government areas
+
+220. Administration of local government areas
+
+221. Duties of a local government authority
+
+222. Power to raise revenue, etc
+
+223. Subvention of local governments
+
+224. Integration of development programmes
+
+225. Management of local government affairs
+
+226. Constitution of local government authorities
+
+## CHAPTER XIV TRADITIONAL INSTITUTIONS
+
+227. Traditional institutions
+
+228. The Ngwenyama
+
+229. The Ndlovukazi
+
+230. Ligunqa
+
+231. Liqoqo
+
+232. Sibaya (the Swazi National Council)
+
+233. Tikhulu (Chiefs)
+
+234. Umntfwanenkhosi Lomkhulu (Senior Prince)
+
+235. Tindvuna
 
 ## CHAPTER XV INTERNATIONAL RELATIONS
 
@@ -160,41 +612,107 @@ Section
 
 [[START OF PAGE 10]]
 
+236. International relations
+
+237. Diplomatic representation
+
+238. International agreements
+
+## CHAPTER XVI LEADERSHIIP CODE OF CONDUCT
+
+239. Purpose of Code
+
+240. Conflict of interest
+
+241. Declaration of assets and liabilities
+
+242. Failure to comply with Code
+
+243. The Integrity Commission
+
+244. Penalties, etc
+
+## CHAPTER XVII AMENDMENT OF THE CONSTITUTION
+
+245. Mode of Amendment
+
+246. Amendment of specially entrenched provisions
+
+247. Amendment of the entrenched provisions
+
+248. Certificate of compliance
+
+249. Lapsing of a bill
+
+250. Interpretation
+
+## CHAPTER XVIII MISCELLANEOUS
+
+251. Council of Chiefs
+
+252. The Law of Swaziland
+
+253. Subordinate legislation
+
+254. References to public office, etc
+
+255. Acting appointments
+
+256. Removal from office
+
+257. Resignations
+
+258. Re-appointments and concurrent appointments
+
+259. Power to amend or revoke instruments, etc
+
+260. Saving for jurisdiction of the High Court
+
+261. Interpretation
+
+## CHAPTER XIX TRANSITIONAL PROVISIONS
+
+262. Existing Government
+
+263. Existing Parliament
+
+264. Existing Courts of Judicature
+
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- Continuation of appointment of justices of superior courts
+265. Continuation of appointment of justices of superior courts
 
-- Existing offices
+266. Existing offices
 
-- Appointment to certain offices
+267. Appointment to certain offices
 
-- Existing Law
+268. Existing Law
 
-- Enactments not yet in force
+269. Enactments not yet in force
 
-- Existing commissions and committees of inquiry
+270. Existing commissions and committees of inquiry
 
-- Pending matters
+271. Pending matters
 
-- Oaths deemed to have been taken
+272. Oaths deemed to have been taken
 
-- Proceedings pending before courts
+273. Proceedings pending before courts
 
-- Official seals, etc
+274. Official seals, etc
 
-- Prerogative of mercy
+275. Prerogative of mercy
 
-- Devolution of rights and liabilities
+276. Devolution of rights and liabilities
 
-- Succession to property
+277. Succession to property
 
-- Succession to contracts
+278. Succession to contracts
 
-- International agreements, etc
+279. International agreements, etc
 
 ___________________
 
@@ -208,23 +726,23 @@ Whereas We the People of the Kingdom of Swaziland do hereby undertake in humble 
 
 [[START OF PAGE 12]]
 
-- Whereas as  a  Nation  it  has  always  been  our  desire  to  achieve  full  freedom  and independence under a constitution created by ourselves for ourselves in complete liberty;
+Whereas as a Nation it has always been our desire to achieve full freedom and independence under a constitution created by ourselves for ourselves in complete liberty;
 
-- Whereas various vusela consultations,  economic  and  constitutional  commissions, political experiments and Sibaya meetings have been established and undertaken in the last thirty years in search of a sustainable home-grown political order;
+Whereas various vusela consultations, economic and constitutional commissions, political experiments and Sibaya meetings have been established and undertaken in the last thirty years in search of a sustainable home-grown political order;
 
-- Whereas it  has  become  necessary  to  review  the  various  constitutional  documents, decrees, laws, customs and practices so as to promote good governance, the rule of law, respect for our institutions and the progressive   development of the Swazi society;
+Whereas it has become necessary to review the various constitutional documents, decrees, laws, customs and practices so as to promote good governance, the rule of law, respect for our institutions and the progressive development of the Swazi society;
 
-- Whereas it  is  necessary  to  blend  the  good  institutions  of  traditional  Law  and  custom with those of an open and democratic society so as to promote transparency and the social, economic and cultural development of our Nation;
+Whereas it is necessary to blend the good institutions of traditional Law and custom with those of an open and democratic society so as to promote transparency and the social, economic and cultural development of our Nation;
 
-- Whereas it is necessary to protect and promote the fundamental rights and freedoms of ALL in our Kingdom in terms of a constitution which binds the Legislature, the Executive, the Judiciary and the other Organs and Agencies of the Government;
+Whereas it is necessary to protect and promote the fundamental rights and freedoms of ALL in our Kingdom in terms of a constitution which binds the Legislature, the Executive, the Judiciary and the other Organs and Agencies of the Government;
 
-- Whereas all  the  branches  of  government  are  the  Guardians  of  the  Constitution,  it  is necessary that the Courts be the ultimate Interpreters of the Constitution;
+Whereas all the branches of government are the Guardians of the Constitution, it is necessary that the Courts be the ultimate Interpreters of the Constitution;
 
-- Whereas as  a  Nation  we  desire  to  march  forward  progressively  under  our  own constitution  guaranteeing  peace,  order  and  good  government,  and  the  happiness and welfare of ALL our people;
+Whereas as a Nation we desire to march forward progressively under our own constitution guaranteeing peace, order and good government, and the happiness and welfare of ALL our people;
 
-- Whereas the  Constitution  in  draft  form  was  circulated  to  the  nation  in  both  official languages, was vetted by the people at tinkhundla and Sibaya meetings;
+Whereas the Constitution in draft form was circulated to the nation in both official languages, was vetted by the people at tinkhundla and Sibaya meetings;
 
-- Now , THEREFORE ,  WE, i Ngwenyama-in-Council,  acting  together  with  and  on  the Approval of the Swazi Nation meeting as the Swazi National Council assembled at  Ludzidzini  this  4th  day  of  October,  2004,  hereby  Accept  the  following Constitution as the Supreme Law of the Land.
+Now, THEREFORE, WE, iNgwenyama–in-Council, acting together with and on the Approval of the Swazi Nation meeting as the Swazi National Council assembled at Ludzidzini this 4th day of October, 2004, hereby Accept the following Constitution as the Supreme Law of the Land.
 
 __________________
 
@@ -232,7 +750,7 @@ __________________
 
 #### The Kingdom and its territory
 
-(1) Swaziland is a unitary, sovereign, democratic Kingdom.
+1. (1) Swaziland is a unitary, sovereign, democratic Kingdom.
 
 12
 
@@ -240,17 +758,17 @@ __________________
 
 [[START OF PAGE 13]]
 
-(2) The territory of Swaziland comprises all the land that immediately before the 6 th September 1968 comprised the former Protected State of Swaziland together with such additional land as may from time to time be declared to form part of Swaziland in accordance with international law.
+(2) The territory of Swaziland comprises all the land that immediately before the 6th September 1968 comprised the former Protected State of Swaziland together with such additional land as may from time to time be declared to form part of Swaziland in accordance with international law.
 
 #### The Constitution
 
-(1) This  Constitution  is  the  supreme  law  of  Swaziland  and  if  any  other  law  is inconsistent with this Constitution that other law  shall, to the extent of the inconsistency, be void.
+2. (1) This Constitution is the supreme law of Swaziland and if any other law is inconsistent with this Constitution that other law shall, to the extent of the inconsistency, be void.
 
-(2) The King and iNgwenyama and  all  the  citizens  of  Swaziland  have  the  right and duty at all times to uphold and defend this Constitution.
+(2) The King and iNgwenyama and all the citizens of Swaziland have the right and duty at all times to uphold and defend this Constitution.
 
 (3) Any person who -
 
-(a) by himself or in concert with others by any violent or other unlawful means  suspends  or  overthrows  or  abrogates  this  Constitution  or  any part of it, or attempts to do any such act; or
+(a) by himself or in concert with others by any violent or other unlawful means suspends or overthrows or abrogates this Constitution or any part of it, or attempts to do any such act; or
 
 (b) aids and abets in any manner any person referred to in paragraph (a);
 
@@ -258,15 +776,13 @@ commits the offence of treason.
 
 #### The Anthem, Flag and Languages
 
-(1) The  National  Anthem  and  Flag  of  Swaziland  shall  be  the  Anthem  or  Flag lawfully  in  use  at  the  time  of  commencement  of  this  Constitution  or  such  other Anthem or Flag as may from time to time be prescribed.
+3. (1) The National Anthem and Flag of Swaziland shall be the Anthem or Flag lawfully in use at the time of commencement of this Constitution or such other Anthem or Flag as may from time to time be prescribed.
 
-- The official languages of Swaziland are siSwati and English.
+(2) The official languages of Swaziland are siSwati and English.
 
 (3) Notwithstanding the provisions of subsection (2), the authoritative text of any law or document shall be the text in which that law or document was originally passed or produced.
 
 ## CHAPTER II MONARCHY
-
-.
 
 #### King and iNgwenyama
 
@@ -276,7 +792,7 @@ commits the offence of treason.
 
 [[START OF PAGE 14]]
 
-(1) Without prejudice to the provisions of section 228, King and iNgwenyama of Swaziland is an hereditary Head of State and shall have such official name as shall be designated on the occasion of his accession to the Throne.
+4. (1) Without prejudice to the provisions of section 228, King and iNgwenyama of Swaziland is an hereditary Head of State and shall have such official name as shall be designated on the occasion of his accession to the Throne.
 
 (2) The King and iNgwenyama is a symbol of unity and the eternity of the Swazi nation.
 
@@ -292,13 +808,13 @@ commits the offence of treason.
 
 #### Succession to the Throne
 
-(1) Succession to the office of King and iNgwenyama is hereditary and governed by this Constitution and Swazi law and custom.
+5. (1) Succession to the office of King and iNgwenyama is hereditary and governed by this Constitution and Swazi law and custom.
 
 (2) Where the office of King and iNgwenyama becomes vacant the successor to the  Throne  shall  be  determined  and  declared  in  accordance  with  Swazi  law  and custom.
 
 #### Umntfwana (Crown Prince)
 
-(1) Until he accedes to the Throne, a person declared a successor under section 5, shall be designated as Umntfwana .
+6. (1) Until he accedes to the Throne, a person declared a successor under section 5, shall be designated as Umntfwana.
 
 (2) Unless the situation otherwise requires, Umntfwana shall accede to the Throne when he has attained the age of eighteen years.
 
@@ -316,11 +832,11 @@ commits the offence of treason.
 
 [[START OF PAGE 15]]
 
-(1) Without  prejudice  to the provisions of section 229, the Ndlovukazi is traditionally the mother of the King and iNgwenyama and is appointed in accordance with Swazi law and custom.
+7. (1) Without prejudice to the provisions of section 229, the Ndlovukazi is traditionally the mother of the King and iNgwenyama and is appointed in accordance with Swazi law and custom.
 
-(2) Until the King and iNgwenyama has been installed, that is to say, until he has publicly assumed the functions and responsibilities of the King and iNgwenyama in accordance with this Constitution and Swazi law and custom, or during any period when he is by reason of absence from Swaziland or any other cause unable to perform the  functions  of  his  office,  those  functions  shall  be  performed,  save  as  otherwise provided in this Constitution, by the Ndlovukazi acting as Queen Regent.
+(2) Until the King and iNgwenyama has been installed, that is to say, until he has publicly assumed the functions and responsibilities of the King and iNgwenyama in accordance with this Constitution and Swazi law and custom, or during any period when he is by reason of absence from Swaziland or any other cause unable to perform the functions of his office, those functions shall be performed, save as otherwise provided in this Constitution, by the Ndlovukazi acting as Queen Regent.
 
-(3) In her capacity as Queen Regent, the Ndlovukazi shall be assisted and advised by the Umntfwanenkhosi Lomkhulu -inLibandla .
+(3) In her capacity as Queen Regent, the Ndlovukazi shall be assisted and advised by the Umntfwanenkhosi Lomkhulu-in-Libandla.
 
 (4) The Queen Regent shall be entitled to such remuneration as may be prescribed and  that  remuneration  shall  be  paid  out  of  the  Consolidated  Fund  and  shall  not  be reduced during the continuance in office of the Queen Regent.
 
@@ -348,7 +864,7 @@ commits the offence of treason.
 
 [[START OF PAGE 16]]
 
-(1) Without prejudice to the provisions of section 234, Umntfwanenkhosi Lomkhulu is appointed in accordance with Swazi law and custom.
+8. (1) Without prejudice to the provisions of section 234, Umntfwanenkhosi Lomkhulu is appointed in accordance with Swazi law and custom.
 
 (2) Where the Ndlovukazi in her capacity as Queen Regent is temporarily out of the  Kingdom  or  for  any  reason  temporarily  unable  to  perform  the  functions  of  her office, subject to any requirements under Swazi law and custom, the Umntfwanenkhosi  Lomkhulu may  perform  those  functions  subject  to  any  specific instructions she may make.
 
@@ -370,7 +886,7 @@ commits the offence of treason.
 
 #### Civil List of King and iNgwenyama
 
-(1) The King and iNgwenyama shall be paid such emoluments and shall have such Civil List as may be prescribed.
+9. (1) The King and iNgwenyama shall be paid such emoluments and shall have such Civil List as may be prescribed.
 
 16
 
@@ -378,39 +894,39 @@ commits the offence of treason.
 
 [[START OF PAGE 17]]
 
-- Any remuneration prescribed under this section shall be a charge on and paid out  of  the  Consolidated  Fund  and  shall  not  be  reduced  during  the  continuance  in office of King and iNgwenyama .
+(2) Any remuneration prescribed under this section shall be a charge on and paid out of the Consolidated Fund and shall not be reduced during the continuance in office of King and iNgwenyama.
 
 #### Immunity of King and iNgwenyama
 
-- The King and iNgwenyama shall be immune from taxation in respect of his Civil List, all income accruing to him and all property owned by him in any private capacity.
+10. The King and iNgwenyama shall be immune from taxation in respect of his Civil List, all income accruing to him and all property owned by him in any private capacity.
 
-#### Protection of  King and iNgwenyama in respect of legal proceedings
+#### Protection of King and iNgwenyama in respect of legal proceedings
 
-- The King and iNgwenyama shall be immune from -
+11. The King and iNgwenyama shall be immune from -
 
-(a) suit  or  legal  process  in  any  cause  in  respect  of  all  things  done  or omitted to be done by him; and
+(a) suit or legal process in any cause in respect of all things done or omitted to be done by him; and
 
-(b) being  summoned  to  appear  as  a  witness  in  any  civil  or  criminal proceeding.
+(b) being summoned to appear as a witness in any civil or criminal proceeding.
 
 #### Oath by King and iNgwenyama
 
-- The King and Ng wenyama shall upon his installation as King and Ngwenyama take and subscribe an oath for the due execution of his office in accordance with Swazi law and custom.
+12. The King and Ngwenyama shall upon his installation as King and Ngwenyama take and subscribe an oath for the due execution of his office in accordance with Swazi law and custom.
 
-#### The King's Advisory Council
+#### The King’s Advisory Council
 
-(1) There  shall  be  the  King's  Advisory  Council  composed  and  constituted  as Liqoqo under Section 231.
+13. (1) There shall be the King’s Advisory Council composed and constituted as Liqoqo under Section 231.
 
-- The function of the Council shall be to advise the King and Ngwenyama as provided for under Section 231.
+(2) The function of the Council shall be to advise the King and Ngwenyama as provided for under Section 231.
 
 ## CHAPTER III PROTECTION AND PROMOTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
 
 #### Fundamental rights and freedoms of the individual
 
-(1) The  fundamental  human  rights  and  freedoms  of  the  individual  enshrined  in this Chapter are hereby declared and guaranteed, namely -
+14. (1) The fundamental human rights and freedoms of the individual enshrined in this Chapter are hereby declared and guaranteed, namely -
 
-(a) respect  for  life,  liberty,  right  to  fair  hearing,  equality  before  the  law and equal protection of the law;
+(a) respect for life, liberty, right to fair hearing, equality before the law and equal protection of the law;
 
-(b) freedom  of  conscience,  of  expression  and  of  peaceful  assembly  and association and of movement;
+(b) freedom of conscience, of expression and of peaceful assembly and association and of movement;
 
 17
 
@@ -470,11 +986,19 @@ commits the offence of treason.
 
 #### Protection of right to personal liberty
 
-16. (1)
+16. (1) A person shall not be deprived of personal liberty save as may be authorised by law in any of the following cases -
 
-- A person shall not be deprived of personal liberty save as may be authorised by law in any of the following cases (a) in execution of the sentence or order of a court, whether established for Swaziland or another country, or of an international court or tribunal in respect of a conviction of a criminal offence; (b) in execution of the order of a court punishing that person for contempt of that court or of another court or tribunal; (c) in  execution  of  the  order  of  a  court  made  to  secure  the  fulfilment  of any obligation imposed on that person by law; (d) for the purpose of bringing that person before a court in execution of the order of a court; (e) upon reasonable suspicion of that person having committed, or being about to commit, a criminal offence under the laws of Swaziland; in the case of a person who has not attained the age of eighteen years,
+(a) in execution of the sentence or order of a court, whether established for Swaziland or another country, or of an international court or tribunal in respect of a conviction of a criminal offence;
 
-(f) for the purpose of the education, care or welfare of that person;
+(b) in execution of the order of a court punishing that person for contempt of that court or of another court or tribunal;
+
+(c) in execution of the order of a court made to secure the fulfilment of any obligation imposed on that person by law;
+
+(d) for the purpose of bringing that person before a court in execution of the order of a court;
+
+(e) upon reasonable suspicion of that person having committed, or being about to commit, a criminal offence under the laws of Swaziland;
+
+(f) in the case of a person who has not attained the age of eighteen years, for the purpose of the education, care or welfare of that person;
 
 19
 
@@ -536,9 +1060,9 @@ shall, unless sooner released, be brought without undue delay before a court.
 
 17. (1) A person shall not be held in slavery or servitude.
 
-- A person shall not be required to perform forced labour.
+(2) A person shall not be required to perform forced labour.
 
-- For the purposes of this section, the expression 'forced labour' does not include any labour -
+(3) For the purposes of this section, the expression “forced labour” does not include any labour -
 
 (a) required in consequence of the sentence or order of a court;
 
@@ -558,15 +1082,15 @@ shall, unless sooner released, be brought without undue delay before a court.
 
 #### Protection from inhuman or degrading treatment
 
-(1) The dignity of every person is inviolable.
+18. (1) The dignity of every person is inviolable.
 
-- A  person  shall  not  be  subjected  to  torture  or  to  inhuman  or  degrading treatment or punishment.
+(2) A person shall not be subjected to torture or to inhuman or degrading treatment or punishment.
 
 #### Protection from deprivation of property
 
-(1) A person has a right to own property either alone or in association with others.
+19. (1) A person has a right to own property either alone or in association with others.
 
-(2) A person shall not be compulsorily deprived of property or any interest in or right  over  property  of  any  description  except  where  the  following  conditions  are satisfied -
+(2) A person shall not be compulsorily deprived of property or any interest in or right over property of any description except where the following conditions are satisfied -
 
 (a) the taking of possession or acquisition is necessary for public use or in the interest of defence, public safety, public order, public morality or public health;
 
@@ -598,7 +1122,7 @@ shall, unless sooner released, be brought without undue delay before a court.
 
 #### Right to fair hearing
 
-(1) In  the  determination  of  civil  rights  and  obligations  or  any  criminal  charge  a person shall be given a fair and speedy public hearing within a reasonable time by an independent and impartial court or adjudicating authority established by law.
+21. (1) In the determination of civil rights and obligations or any criminal charge a person shall be given a fair and speedy public hearing within a reasonable time by an independent and impartial court or adjudicating authority established by law.
 
 (2) A person who is charged with a criminal offence shall be-
 
@@ -678,7 +1202,7 @@ shall, unless sooner released, be brought without undue delay before a court.
 
 #### Protection against arbitrary search or entry .
 
-(1) A person shall not be subjected -
+22. (1) A person shall not be subjected -
 
 (a) to the search of the person or the property of that person;
 
@@ -710,7 +1234,7 @@ except so far as, in respect of paragraph (c) or (d) that provision or, as the c
 
 #### Protection of freedom of conscience or religion
 
-(1) A person has a right to freedom of thought, conscience or religion.
+23. (1) A person has a right to freedom of thought, conscience or religion.
 
 (2) Except with the free consent of that person, a person shall not be hindered in the  enjoyment  of  the  freedom  of  conscience,  and  for  the  purposes  of  this  section freedom  of  conscience  includes  freedom  of  thought  and  of  religion,  freedom  to change religion or belief, and freedom of worship either alone or in community with others.
 
@@ -1534,7 +2058,7 @@ and that on any of these grounds it is not conducive to the public good that the
 
 #### The Cabinet of Ministers
 
-(1) There  shall  be  a  Cabinet  which  shall  consist  of  the  Prime  Minister,  Deputy Prime Minister and such number of Ministers as the King, after consultations with the Prime Minister, may deem necessary for the purpose of administering and executing the functions of the Government.
+66. (1) There shall be a Cabinet which shall consist of the Prime Minister, Deputy Prime Minister and such number of Ministers as the King, after consultations with the Prime Minister, may deem necessary for the purpose of administering and executing the functions of the Government.
 
 51
 
@@ -1546,11 +2070,11 @@ and that on any of these grounds it is not conducive to the public good that the
 
 #### Appointment of Prime Minister and other Ministers
 
-(1)
+67. (1) The King shall appoint the Prime Minister from among members of the House acting on recommendation of the King's Advisory Council.
 
-(3) elected members of the House.
+(2) The King shall appoint Ministers from both chambers of Parliament on the recommendation of the Prime Minister.
 
-The King shall appoint the Prime Minister from among members of the House acting on recommendation of the King's Advisory Council. (2) The  King  shall  appoint  Ministers  from  both  chambers  of  Parliament  on  the recommendation of the Prime Minister. At  least  half  the  number  of  Ministers  shall  be  appointed  from  among  the
+(3) At least half the number of Ministers shall be appointed from among the elected members of the House.
 
 #### Vacation of office of Prime Minister or Minister
 
@@ -1570,9 +2094,11 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (g) the Prime Minister dies.
 
-(2) Where the King considers the question of removing the Prime Minister from office in terms of subsection (1) (f) (a) the  King  shall  appoint  a  tribunal,  which  shall  consist  of  a  chairman who shall be the Chief Justice and two other reputable persons one of whom  should  have  held  the  position  of  a  Minister,  Speaker  of  the House or President of the Senate; the tribunal shall enquire into the matter and report to the King whether or  not  to  remove  the  Prime  Minister  from  office  for  inability  or
+(2) Where the King considers the question of removing the Prime Minister from office in terms of subsection (1) (f) -
 
-(b) misbehaviour.
+(a) the King shall appoint a tribunal, which shall consist of a chairman who shall be the Chief Justice and two other reputable persons one of whom should have held the position of a Minister, Speaker of the House or President of the Senate;
+
+(b) the tribunal shall enquire into the matter and report to the King whether or not to remove the Prime Minister from office for inability or misbehaviour.
 
 52
 
@@ -1580,9 +2106,9 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 [[START OF PAGE 53]]
 
-- The Prime Minister shall not hold office for more than two consecutive terms.
+(3) The Prime Minister shall not hold office for more than two consecutive terms.
 
-- The office of a Minister shall become vacant where  -
+(4) The office of a Minister shall become vacant where -
 
 (a) the King, acting on the recommendation of the Prime Minister, revokes that appointment;
 
@@ -1600,9 +2126,9 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (5) Where a resolution of no confidence is passed on the Cabinet by a three-fifths majority of all members of the House the King shall dissolve the Cabinet.
 
-- A Minister shall not be in office for more than two consecutive terms.
+(6) A Minister shall not be in office for more than two consecutive terms.
 
-- For purposes of this section -
+(7) For purposes of this section -
 
 (a) a  vote  of  no  confidence  in  the  Cabinet,  Prime  Minister  or  Minister shall not be moved more than once in a session;
 
@@ -1610,7 +2136,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Responsibility of Cabinet
 
-(1) The Cabinet shall keep the King fully informed about the general conduct of the government of Swaziland and shall furnish the King with such information as the King may require in respect of any particular  matter  relating  to  the  government  of Swaziland
+69. (1) The Cabinet shall keep the King fully informed about the general conduct of the government of Swaziland and shall furnish the King with such information as the King may require in respect of any particular matter relating to the government of Swaziland
 
 (2) The  Cabinet  shall  be  collectively  responsible  to  Parliament  for  any  advice given to the King by or under the general authority of the Cabinet and for all things done  by  or  under  the  authority  of  any  Minister  in  the  execution  of  the  office  of Minister.
 
@@ -1628,19 +2154,19 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Exercise of the Prime Minister's functions during absence or illness
 
-- Where the Prime Minister is absent from Swaziland or is by reason of illness or any other  cause  unable  to  exercise  the  functions  conferred  on  the  Prime  Minister  by  this Constitution or any other law, those functions shall be exercised by the Deputy Prime Minster or where the Deputy Prime Minister is for any reason unable to exercise the functions of the office of the Prime Minister, by such other Minister as the King may authorize in writing for a maximum period not exceeding three months.
+71. Where the Prime Minister is absent from Swaziland or is by reason of illness or any other cause unable to exercise the functions conferred on the Prime Minister by this Constitution or any other law, those functions shall be exercised by the Deputy Prime Minster or where the Deputy Prime Minister is for any reason unable to exercise the functions of the office of the Prime Minister, by such other Minister as the King may authorize in writing for a maximum period not exceeding three months.
 
 #### Exercise of Minister's functions during absence or illness
 
-- Where a Minister  is  absent  from  Swaziland  or  is  by  reason  of  illness  or  any  other cause unable to exercise the functions of the office of that Minister the Minister may, after consultation with the Prime Minister, delegate those functions to another Minister in writing for a maximum period not exceeding six months.
+72. Where a Minister is absent from Swaziland or is by reason of illness or any other cause unable to exercise the functions of the office of that Minister the Minister may, after consultation with the Prime Minister, delegate those functions to another Minister in writing for a maximum period not exceeding six months.
 
 #### Oaths of office
 
-- A  Prime  Minister,  Deputy  Prime  Minister  or  Minister  shall,  before  assuming  the duties of office take and subscribe the oath of allegiance and the oath for the due execution of office as set out in the Second Schedule.
+73. A Prime Minister, Deputy Prime Minister or Minister shall, before assuming the duties of office take and subscribe the oath of allegiance and the oath for the due execution of office as set out in the Second Schedule.
 
 #### Secretary to Cabinet
 
-(1) There shall be a Secretary to the Cabinet who shall be the head of the public service and whose office shall be a public office.
+74. (1) There shall be a Secretary to the Cabinet who shall be the head of the public service and whose office shall be a public office.
 
 (2) The King, in appointing the Secretary to Cabinet, shall act on the advice of the Prime Minister after recommendation by the Civil Service Commission.
 
@@ -1660,23 +2186,23 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Direction of government departments
 
-(1) Where a Minister has been charged with the responsibility for any department of government, the Minister shall be responsible for the policy and general direction and control over such department.
+75. (1) Where a Minister has been charged with the responsibility for any department of government, the Minister shall be responsible for the policy and general direction and control over such department.
 
 (2) Two or more government departments may be placed under the responsibility of one Minister.
 
 #### Principal Secretaries
 
-(1) The King, shall appoint Principal Secretaries on a renewable five year contract on the advice of the Civil Service Commission.
+76. (1) The King, shall appoint Principal Secretaries on a renewable five year contract on the advice of the Civil Service Commission.
 
 (2) Subject to the provisions of this Constitution, a Ministry or a department of the Government shall be under the supervision of a Principal Secretary whose office shall be a public office.
 
 #### Attorney-General
 
-(1) There  shall  be  an  Attorney-General  for  Swaziland  whose  office  shall  be  a public office and who shall be appointed by the King acting on the recommendation of  the  Minister  responsible  for  Justice  after  consultation  with  the  Judicial  Service Commission.
+77. (1) There shall be an Attorney-General for Swaziland whose office shall be a public office and who shall be appointed by the King acting on the recommendation of the Minister responsible for Justice after consultation with the Judicial Service Commission.
 
-- A  person  shall  qualify  to  be  appointed  Attorney-General  where  that  person qualifies for appointment as a judge of the superior courts.
+(2) A person shall qualify to be appointed Attorney-General where that person qualifies for appointment as a judge of the superior courts.
 
-- The Attorney-General shall -
+(3) The Attorney-General shall -
 
 (a) be the principal legal adviser to the Government;
 
@@ -1704,7 +2230,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (e) assist Ministers in piloting bills in Parliament and provide guidance in legal matters to Parliament.
 
-(f) perform  such  other  functions  as  may  be  assigned  to  the  AttorneyGeneral by law.
+(f) perform such other functions as may be assigned to the Attorney-General by law.
 
 (6) The functions of the Attorney-General under subsection (5)(a), (b) (c), (e) and (f)  may  be  exercised  by  the  Attorney-General  in  person  or  by  subordinate  officers acting in accordance with the general or special instructions of the Attorney-General.
 
@@ -1722,7 +2248,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 [[START OF PAGE 57]]
 
-(1) The King may, in respect of a person sentenced to death or life imprisonment -
+78. (1) The King may, in respect of a person sentenced to death or life imprisonment -
 
 (a) grant a pardon, either free or subject to lawful conditions;
 
@@ -1742,7 +2268,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (6) The provisions of this section shall not apply in relation to any conviction by a court established under a law of a country other than Swaziland that has jurisdiction in Swaziland in pursuance of arrangements made between the Government of Swaziland and another Government or an international organization relating to the presence in Swaziland of members of the armed forces of that other country or in relation to any punishment  imposed  in  respect  of  any  such  conviction  or  any  penalty  or  forfeiture resulting from any such conviction.
 
-(7) Nothing in this section shall be construed as precluding an Act of Parliament from making provision of general application under which any sentence of imprisonment  shall  be  reduced  where  such  conditions  (being  conditions  relating  to good behaviour by the person on whom the sentence was imposed whilst serving that sentence) as are prescribed are fulfilled.
+(7) Nothing in this section shall be construed as precluding an Act of Parliament from making provision of general application under which any sentence of imprisonment shall be reduced where such conditions (being conditions relating to
 
 57
 
@@ -1750,19 +2276,21 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 [[START OF PAGE 58]]
 
+good behaviour by the person on whom the sentence was imposed whilst serving that sentence) as are prescribed are fulfilled.
+
 ## CHAPTER VII THE LEGISLATURE
 
 ### Part 1(a) System of Government
 
 #### System of government
 
-- The system of government for Swaziland is a democratic, participatory, tinkhundla -based  system  which  emphasises  devolution  of  state  power  from  central  government  to tinkhundla areas and individual merit as a basis for election or appointment to public office.
+79. The system of government for Swaziland is a democratic, participatory, tinkhundla-based system which emphasises devolution of state power from central government to tinkhundla areas and individual merit as a basis for election or appointment to public office.
 
 #### Tinkhundla
 
-(1) For purposes of political organisation and popular representation of the people in Parliament, Swaziland is divided into several areas called tinkhundla .
+80. (1) For purposes of political organisation and popular representation of the people in Parliament, Swaziland is divided into several areas called tinkhundla.
 
-- An inkhundla -
+(2) An inkhundla -
 
 (a) is established by the King on the recommendation of the Elections and Boundaries Commission;
 
@@ -1774,11 +2302,11 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Bucopho (Inkhundla Committee)
 
-(1) An inkhundla, as a local authority area, is under the general administration of an executive committee called Bucopho .
+81. (1) An inkhundla, as a local authority area, is under the general administration of an executive committee called Bucopho.
 
-- Bucopho consists of persons elected from the chiefdoms or polling    divisions within an inkhundla and shall have same qualifications as a Member of Parliament .
+(2) Bucopho consists of persons elected from the chiefdoms or polling divisions within an inkhundla and shall have same qualifications as a Member of Parliament.
 
-- Bucopho operates  under  the  chairmanship  of  the  Indvuna  YeNkhundla  who supervises  the  activities  of  the inkhundla and  also  convenes  and  presides  over meetings of the inkhundla.
+(3) Bucopho operates under the chairmanship of the Indvuna YeNkhundla who supervises the activities of the inkhundla and also convenes and presides over meetings of the inkhundla.
 
 58
 
@@ -1790,27 +2318,27 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Regional Administration
 
-(1) Swaziland  is  divided  into  four  administrative  Regions,  namely,  Hhohho, Lubombo, Manzini and Shiselweni.
+82. (1) Swaziland is divided into four administrative Regions, namely, Hhohho, Lubombo, Manzini and Shiselweni.
 
-- Each Region is divided into as many tinkhundla as may be recommended by the Elections and Boundaries Commission.
+(2) Each Region is divided into as many tinkhundla as may be recommended by the Elections and Boundaries Commission.
 
-- Each Region has a Regional Council consisting of persons nominated by each inkhundla in that Region from among the Bucopho members in the Region.
+(3) Each Region has a Regional Council consisting of persons nominated by each inkhundla in that Region from among the Bucopho members in the Region.
 
-- A Regional Council shall advise the Regional Administrator, on the administration of the Region and coordinate social and economic development of the Region and perform such other functions within the Region as may be prescribed.
+(4) A Regional Council shall advise the Regional Administrator, on the administration of the Region and coordinate social and economic development of the Region and perform such other functions within the Region as may be prescribed.
 
-- A Regional Council may be subdivided into portfolio committees.
+(5) A Regional Council may be subdivided into portfolio committees.
 
 #### Regional Administrator
 
-- 83 . (1) Each  Region  is  headed  by  an  administrative  official  called  the  Regional Administrator.
+83. (1) Each Region is headed by an administrative official called the Regional Administrator.
 
-- The  Regional  Administrator  is  appointed  by  the  King  on  the  advice  of  the Minister responsible for tinkhundla.
+(2) The Regional Administrator is appointed by the King on the advice of the Minister responsible for tinkhundla.
 
-- The Regional Administrator shall convene and preside over meetings of the Regional Council and perform such other functions as may be prescribed.
+(3) The Regional Administrator shall convene and preside over meetings of the Regional Council and perform such other functions as may be prescribed.
 
-- A  Regional  Administrator  has  the  status  of  a  deputy  minister  and  has  such other benefits and privileges as may be prescribed.
+(4) A Regional Administrator has the status of a deputy minister and has such other benefits and privileges as may be prescribed.
 
-- A Regional Administrator may resign from office or be removed from office by the King on the advice of the Prime Minister or after a resolution of no confidence passed by a two-thirds majority of all members of the Regional Council.
+(5) A Regional Administrator may resign from office or be removed from office by the King on the advice of the Prime Minister or after a resolution of no confidence passed by a two-thirds majority of all members of the Regional Council.
 
 ### Part 1(b) Representation of the people
 
@@ -1864,7 +2392,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Qualification as a voter
 
-(1) Subject to the provisions of section 89, a person is qualified to be registered as a  voter  if,  and  is  not  otherwise  qualified  unless,  that  person  has  attained  the  age  of eighteen years and is a citizen of or is ordinarily resident in Swaziland.
+88. (1) Subject to the provisions of section 89, a person is qualified to be registered as a voter if, and is not otherwise qualified unless, that person has attained the age of eighteen years and is a citizen of or is ordinarily resident in Swaziland.
 
 (2) A person qualified for the purposes of this section is entitled to be registered as a voter in one inkhundla only.
 
@@ -1872,7 +2400,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Disqualification as a voter
 
-- A person is not qualified to be registered as a voter or to vote where that person -
+89. A person is not qualified to be registered as a voter or to vote where that person -
 
 (a) is certified to be insane or otherwise adjudged to be of unsound mind under any law for the time being in force in Swaziland;
 
@@ -1894,7 +2422,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (2) The members of the Commission shall be appointed by the King on the advice of the Judicial Service Commission.
 
-- A person shall not be appointed member of the Commission where that person -
+(3) A person shall not be appointed member of the Commission where that person -
 
 (a) is a member of Parliament;
 
@@ -1924,7 +2452,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 [[START OF PAGE 63]]
 
-- The functions of the Commission shall be to -
+(7) The functions of the Commission shall be to -
 
 (a) oversee and supervise the registration of voters and ensure fair and free elections at primary, secondary or other level;
 
@@ -2002,13 +2530,13 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Parliament
 
-- The Parliament of Swaziland shall consist of a Senate and a House of Assembly.
+93. The Parliament of Swaziland shall consist of a Senate and a House of Assembly.
 
 #### Senate
 
-(1) The  Senate  shall  consist  of  not  more  than  thirty-one  members  (in  this Constitution  referred      to  as    'Senators')  who  shall  be  elected  or  appointed  in accordance with this section.
+94. (1) The Senate shall consist of not more than thirty-one members (in this Constitution referred to as 'Senators') who shall be elected or appointed in accordance with this section.
 
-(2) Ten Senators, at least half of whom shall be female, shall be elected by the members of the House in such manner as may be prescribed by or under any law at their first meeting so as to represent a cross -section of the Swazi society.
+(2) Ten Senators, at least half of whom shall be female, shall be elected by the members of the House in such manner as may be prescribed by or under any law at their first meeting so as to represent a cross-section of the Swazi society.
 
 (3) Twenty Senators, at least eight of whom shall be female, shall be appointed by the King acting in his discretion after consultation with such bodies as the King may deem appropriate.
 
@@ -2020,7 +2548,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### House of Assembly
 
-(1) Subject  to  the  provisions  of  this  Constitution,  the  House  of  Assembly  shall consist of not more than seventy-six members composed as follows -
+95. (1) Subject to the provisions of this Constitution, the House of Assembly shall consist of not more than seventy-six members composed as follows -
 
 (a) not more than sixty members elected from tinkhundla areas serving as constituencies;
 
@@ -2118,7 +2646,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Tenure of seats of members of Parliament
 
-(1) The seat of a Senator or of a member of the House shall become vacant where-
+98. (1) The seat of a Senator or of a member of the House shall become vacant where-
 
 (a) Parliament is dissolved;
 
@@ -2170,7 +2698,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (6) The salary and other allowances payable to the President shall not be varied to the disadvantage of the President during tenure of office.
 
-- The office of President shall become vacant -
+(7) The office of President shall become vacant -
 
 (a) where  the  President  resigns  in  writing  addressed  to  the  Clerk  to Parliament;
 
@@ -2184,7 +2712,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Deputy President of Senate
 
-(1) The Deputy President of Senate shall be elected from among the Senators at the first meeting of the Senate after any general election or whenever such office has become vacant, in accordance with the Standing Orders.
+101. (1) The Deputy President of Senate shall be elected from among the Senators at the first meeting of the Senate after any general election or whenever such office has become vacant, in accordance with the Standing Orders.
 
 (2) The Deputy President shall perform the functions of the President whenever the  President  is  absent  or  is  for  any  reason  unable  to  perform  the  functions  of  that office or when the President authorises the Deputy to do so.
 
@@ -2194,7 +2722,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### The Speaker of the House
 
-(1) When the House of Assembly first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person from within or outside the House to be the Speaker of the House of Assembly, in accordance with the Standing Orders.
+102. (1) When the House of Assembly first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person from within or outside the House to be the Speaker of the House of Assembly, in accordance with the Standing Orders.
 
 70
 
@@ -2226,7 +2754,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Deputy Speaker of the House
 
-(1) When  the  House  first  meets  after  any  general  election  it  shall  elect  from among the members of  the  House  a  person  to  be  Deputy  Speaker  of  the  House  of Assembly.
+103. (1) When the House first meets after any general election it shall elect from among the members of the House a person to be Deputy Speaker of the House of Assembly.
 
 (2) Where the office of Deputy Speaker falls vacant at any time before the next dissolution of Parliament the House may elect as soon as practicable another person to that office.
 
@@ -2242,7 +2770,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Acting President and Speaker
 
-(1) Where the office of President or Deputy President is vacant or the holder of the office of President or Deputy President is for any reason unable to perform the functions  of  that  office,  the  Senate  may  elect  a  person  (not  being  a  Minister)  from among the members of the Senate to act as President until the President or Deputy President has been elected or as the case may be, the President or Deputy President has resumed the functions of that office.
+104. (1) Where the office of President or Deputy President is vacant or the holder of the office of President or Deputy President is for any reason unable to perform the functions of that office, the Senate may elect a person (not being a Minister) from among the members of the Senate to act as President until the President or Deputy President has been elected or as the case may be, the President or Deputy President has resumed the functions of that office.
 
 (2) Where the office of Speaker or Deputy Speaker is vacant or the holder of the office of Speaker or Deputy Speaker is for any reason unable to perform the functions of  that  office  the  House  may  elect  a  person  (not  being  a  Minister)  from  among  the members  of  the  House  to  act  as  Speaker  until  the  Speaker  or  Deputy  Speaker  is elected  or,  as  the  case  may  be,  the  Speaker  or  Deputy  Speaker  has  resumed  the functions of that office.
 
@@ -2250,7 +2778,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 #### Decision as to membership of  Parliament
 
-(1) The  High  Court  shall  have  jurisdiction  to  hear  and  determine  any  question whether -
+105. (1) The High Court shall have jurisdiction to hear and determine any question whether -
 
 (a) any  person  has  been  validly  elected  or  appointed  as  a  Member  of Parliament;
 
@@ -2260,7 +2788,7 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 (2) A person aggrieved by the determination of the High Court under this section may appeal to the Supreme Court within thirty days.
 
-(3) The Attorney -General or any member of the chamber in which the question under this section is raised or any aggrieved person may make application to the High Court in terms of subsection (1).
+(3) The Attorney-General or any member of the chamber in which the question under this section is raised or any aggrieved person may make application to the High Court in terms of subsection (1).
 
 72
 
@@ -2268,9 +2796,9 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 [[START OF PAGE 73]]
 
-(4) In the exercise of the functions under this section, the Attorney -General shall not be subject to the direction or control of any other person or authority.
+(4) In the exercise of the functions under this section, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
-- Provision may be made by Act of Parliament with respect to -
+(4) Provision may be made by Act of Parliament with respect to -
 
 (a) the circumstances and manner in which and the conditions upon which any application may be made to the High Court under this section; or
 
@@ -2284,13 +2812,13 @@ The King shall appoint the Prime Minister from among members of the House acting
 
 106.      Subject to the provisions of this Constitution -
 
-(a) the supreme legislative authority of Swaziland vests in the King-in- Parliament;
+(a) the supreme legislative authority of Swaziland vests in the King-in-Parliament;
 
 (b) the King and Parliament may make laws for the peace, order and good government of Swaziland.
 
 #### Exercise of power to make laws
 
-- Subject to the provisions of this Constitution, the power of the King and Parliament to make laws shall be exercised by bills -
+107. Subject to the provisions of this Constitution, the power of the King and Parliament to make laws shall be exercised by bills -
 
 (a) passed by both chambers of Parliament;
 
@@ -2310,7 +2838,7 @@ and assented to by the King under his hand.
 
 [[START OF PAGE 74]]
 
-(1) A bill shall not become law unless the King has assented to it and signed it in token of that assent.
+108. (1) A bill shall not become law unless the King has assented to it and signed it in token of that assent.
 
 (2) Subject to the provisions of sections 117 and 246, a bill shall be presented to the  King  for  assent  where,  and  shall  not  be  so  presented  unless,  that  bill  has  been passed by -
 
@@ -2330,7 +2858,7 @@ and assented to by the King under his hand.
 
 #### When laws come into operation
 
-(1) The Attorney-General shall cause a bill that has been duly passed and assented to in accordance with this Constitution, to be published in the Gazette as law as soon as practicable.
+109. (1) The Attorney-General shall cause a bill that has been duly passed and assented to in accordance with this Constitution, to be published in the Gazette as law as soon as practicable.
 
 (2) A law made by the King and Parliament shall not come into operation until that law has been published in the Gazette.
 
@@ -2340,7 +2868,7 @@ and assented to by the King under his hand.
 
 #### Introduction  of bills
 
-- A bill may be introduced in either chamber of Parliament except that -
+110. A bill may be introduced in either chamber of Parliament except that -
 
 (a)     a money bill shall not be introduced in the Senate,
 
@@ -2354,7 +2882,7 @@ and assented to by the King under his hand.
 
 #### Bills settling financial matters
 
-- Except with the consent of the Cabinet signified by the Prime Minister or the Minister responsible for finance, neither chamber of Parliament shall -
+111. Except with the consent of the Cabinet signified by the Prime Minister or the Minister responsible for finance, neither chamber of Parliament shall -
 
 (a) proceed  upon  any  bill  including  an  amendment  to  a  bill  that  in  the opinion  of  the  person  presiding  makes  provision  for  any  of  the following -
 
@@ -2368,11 +2896,11 @@ and assented to by the King under his hand.
 
 #### Limitation on powers of Senate -appropriation bills
 
-(1) When a bill that in the opinion of the Speaker is an appropriation bill is sent to the Senate from the House that bill shall bear a certificate of the Speaker that it is an appropriation bill.
+112. (1) When a bill that in the opinion of the Speaker is an appropriation bill is sent to the Senate from the House that bill shall bear a certificate of the Speaker that it is an appropriation bill.
 
-- Where  a  bill  passed  by  the  House  and  certified  by  the  Speaker  as  an appropriation bill  is  sent  to  the  Senate  that  bill  shall  forthwith  be  introduced  in  the Senate and passed by the Senate without delay.
+(2) Where a bill passed by the House and certified by the Speaker as an appropriation bill is sent to the Senate that bill shall forthwith be introduced in the Senate and passed by the Senate without delay.
 
-- Where the bill in terms of subsection (2) -
+(3) Where the bill in terms of subsection (2) -
 
 75
 
@@ -2388,11 +2916,11 @@ the bill, with such amendments, if any, as may have been agreed to by both chamb
 
 #### Limitation on powers of Senate - other money bills
 
-(1) When a bill that in the opinion of the Speaker is a money bill other than an appropriation bill is sent to the Senate from the House that bill shall bear a certificate of the Speaker that the bill is a money bill other than an appropriation bill.
+113. (1) When a bill that in the opinion of the Speaker is a money bill other than an appropriation bill is sent to the Senate from the House that bill shall bear a certificate of the Speaker that the bill is a money bill other than an appropriation bill.
 
 (2) Subject to the provisions of section 114, where a bill passed by the House and certified  as  provided  under  subsection  (1)  is  sent  to  the  Senate  at  least  thirty  days before  the  end  of  the  session,  the  Senate  shall  pass  that  bill,  with  or  without amendments, within those thirty days.
 
-- Where the bill referred to in subsection (2) -
+(3) Where the bill referred to in subsection (2) -
 
 (a) is not passed by the Senate as required, or
 
@@ -2418,7 +2946,7 @@ the bill, with such amendments, if any, as may be agreed to by both chambers, sh
 
 #### Matters regulated by Swazi law and custom
 
-(1) A  bill  (including  any  amendment  to  a  bill)  which,  in  the  opinion  of  the presiding  officer  would  affect  or  alter  any  matter  regulated  in  terms  of  this  section shall only be introduced in the Senate.
+115. (1) A  bill  (including  any  amendment  to  a  bill)  which,  in  the  opinion  of  the presiding  officer  would  affect  or  alter  any  matter  regulated  in  terms  of  this  section shall only be introduced in the Senate.
 
 (2) Where a bill, in terms of this section, is duly introduced the Senate shall not proceed to the Second Reading of that bill until -
 
@@ -2430,9 +2958,8 @@ the bill, with such amendments, if any, as may be agreed to by both chambers, sh
 
 (4) A bill having been duly introduced in and passed by the Senate shall not be referred to a joint sitting in terms of subsection (3) where the bill-
 
-has been sent to the House at least sixty days before the end
-
-(a) of the session, and
+(a) has been sent to the House at least sixty days before the end
+of the session, and
 
 (b) has not been considered by the House within sixty days after the bill is so sent,
 
@@ -2464,7 +2991,7 @@ but shall, unless the Senate otherwise agrees, be presented to the King for asse
 
 #### Procedure where chambers disagree on bills
 
-(1) Subject  to the provisions  of subsection  (2), where  a  bill  having  been introduced in and passed by one chamber of Parliament -
+116. (1) Subject  to the provisions  of subsection  (2), where  a  bill  having  been introduced in and passed by one chamber of Parliament -
 
 (a) has been sent to the other chamber at least sixty days before the end of the session; and
 
@@ -2492,9 +3019,9 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Reference back of bills by King
 
-(1) Where  a  bill,  having  been  passed  by  both  chambers  of  Parliament  sitting separately, is presented to the King for assent, the King, acting in his discretion, may by  message  refer  back  such  provisions  of  the  bill  as  the  King  may  indicate,  for consideration  at  a  joint  sitting  of  the  Senate  and  the  House  in  accordance  with  the provisions of the First Schedule.
+117. (1) Where  a  bill,  having  been  passed  by  both  chambers  of  Parliament  sitting separately, is presented to the King for assent, the King, acting in his discretion, may by  message  refer  back  such  provisions  of  the  bill  as  the  King  may  indicate,  for consideration  at  a  joint  sitting  of  the  Senate  and  the  House  in  accordance  with  the provisions of the First Schedule.
 
-- Where the bill referred to in subsection (1) -
+(2) Where the bill referred to in subsection (1) -
 
 (a) is passed within sixty days of the message, the bill shall again be  presented to the King for assent; or
 
@@ -2504,7 +3031,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Functions of Speaker
 
-(1) In this part, where a bill is presented to the King for assent in pursuance of the provisions of section 112(3), 113 (3), 114, or 116(2), as the case may be, that bill shall bear  a  certificate  of  the  Speaker  of  the  House  that  those  provisions  have  been complied with.
+118. (1) In this part, where a bill is presented to the King for assent in pursuance of the provisions of section 112(3), 113 (3), 114, or 116(2), as the case may be, that bill shall bear  a  certificate  of  the  Speaker  of  the  House  that  those  provisions  have  been complied with.
 
 (2) Any function under this section or section 112,113,114, or 116 which falls to be exercised by the Speaker may, if the Speaker is absent or is for any reason unable to exercise the functions of office, be exercised by the Deputy Speaker.
 
@@ -2512,7 +3039,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Retroactive legislation
 
-(1) Parliament or any other authority or person has no power to pass any law -
+119. (1) Parliament or any other authority or person has no power to pass any law -
 
 (a) to alter the decision or judgement of any court as between the parties to that decision or judgement; or
 
@@ -2530,11 +3057,11 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 (iii)      to impose a burden, obligation or liability on any person.
 
-- The provisions of subsection (1) (b) shall not apply in the case of law enacted under sections 199, 200, 201, 202, 204 and 205 of this Constitution.
+(2) The provisions of subsection (1) (b) shall not apply in the case of law enacted under sections 199, 200, 201, 202, 204 and 205 of this Constitution.
 
 #### Interpretation
 
-(1) In  this  Part,  'money  bill'  means  a  bill  that  contains  only  provisions  dealing with -
+120. (1) In  this  Part,  'money  bill'  means  a  bill  that  contains  only  provisions  dealing with -
 
 (a) the imposition, repeal, remission, alteration or regulation of taxation;
 
@@ -2554,7 +3081,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Regulation of procedure in Parliament
 
-(1) Subject to the provisions of this Constitution -
+121. (1) Subject to the provisions of this Constitution -
 
 (a) each chamber of Parliament may make Standing Orders with respect to -
 
@@ -2588,7 +3115,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Presiding in Senate
 
-- There shall preside at any meeting of the Senate -
+122. There shall preside at any meeting of the Senate -
 
 (a) the President of the Senate;
 
@@ -2604,7 +3131,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Presiding in the House of Assembly
 
-- There shall preside at any sitting of the House -
+123. There shall preside at any sitting of the House -
 
 (a) the Speaker of the House of Assembly;
 
@@ -2614,13 +3141,13 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Quorum in Senate and House
 
-(1) Where  objection  is  taken  by  a  Senator  present  that  there  are  present  in  the Senate  (besides  the  person  presiding)  fewer  than  twelve  Senators  and,  after  such interval  as  may  be  prescribed  in  the  rules  of  procedure  of  the  Senate,  the  person presiding ascertains that there are still fewer than twelve Senators present, the person presiding shall thereupon adjourn the Senate.
+124. (1) Where  objection  is  taken  by  a  Senator  present  that  there  are  present  in  the Senate  (besides  the  person  presiding)  fewer  than  twelve  Senators  and,  after  such interval  as  may  be  prescribed  in  the  rules  of  procedure  of  the  Senate,  the  person presiding ascertains that there are still fewer than twelve Senators present, the person presiding shall thereupon adjourn the Senate.
 
 (2) Where objection is taken by any member of the House present that there are present in the House (besides the person presiding) fewer than thirty members and, after such interval as may be prescribed in the rules of procedure of the House, the person presiding ascertains that there are still fewer than thirty members present, the person presiding shall thereupon adjourn the House.
 
 #### Voting in Parliament
 
-(1) Except as otherwise provided in this Constitution, any question   proposed for decision  in  either  chamber  of  Parliament  shall  be  determined  by  a  majority  of  the votes of the members of that chamber present and voting.
+125. (1) Except as otherwise provided in this Constitution, any question   proposed for decision  in  either  chamber  of  Parliament  shall  be  determined  by  a  majority  of  the votes of the members of that chamber present and voting.
 
 (2) Subject to the provisions of subsection (3), the President or Deputy President of  Senate  or  the  Speaker  or  Deputy  Speaker  of  the  House  or  a  member  of  either chamber presiding in that chamber shall have an original but not a casting vote.
 
@@ -2632,7 +3159,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 [[START OF PAGE 83]]
 
-- The Attorney-General shall have no vote in the House.
+(4) The Attorney-General shall have no vote in the House.
 
 (5) Where upon any question before either chamber the votes are equally divided the motion shall be lost.
 
@@ -2640,19 +3167,19 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Right of Ministers, etc to address other chamber
 
-(1) A  Minister  who  is  a  member  of  the  House  or  the  Attorney-General  shall  be entitled to attend all sittings of the Senate and to take part in all proceedings of the Senate but shall not be regarded as a member of or be entitled to vote on any question before the Senate.
+126. (1) A  Minister  who  is  a  member  of  the  House  or  the  Attorney-General  shall  be entitled to attend all sittings of the Senate and to take part in all proceedings of the Senate but shall not be regarded as a member of or be entitled to vote on any question before the Senate.
 
 (2) A Minister who is a Senator shall be entitled to attend all sittings of the House and take part in all proceedings of that House but shall not be regarded as a member of or be entitled to vote on any question before the House.
 
 #### Unqualified persons sitting or voting
 
-(1) Any person who sits or votes in either chamber knowing or having reasonable grounds  for  knowing  of  the  disqualification  to  sit  or  vote  commits  an  offence  and liable on conviction to a fine not exceeding an amount prescribed under the Standing Orders.
+127. (1) Any person who sits or votes in either chamber knowing or having reasonable grounds  for  knowing  of  the  disqualification  to  sit  or  vote  commits  an  offence  and liable on conviction to a fine not exceeding an amount prescribed under the Standing Orders.
 
 (2) Any  prosecution  for  an  offence  under  this  section  shall  be  instituted  in  the High Court only with the written consent of the Attorney-General.
 
 #### Oaths by members of Parliament
 
-(1) Every  member  of  Parliament  shall,  before  taking  the  seat  as  such  member, take and subscribe before the chamber of which that member is a member the oath of allegiance  that  is  set  out  in  the  Second  Schedule  or  such  other  oath  as  may  be prescribed.
+128. (1) Every  member  of  Parliament  shall,  before  taking  the  seat  as  such  member, take and subscribe before the chamber of which that member is a member the oath of allegiance  that  is  set  out  in  the  Second  Schedule  or  such  other  oath  as  may  be prescribed.
 
 (2) Notwithstanding  the  provisions  of  subsection  (1),  a  member  of  Parliament may before taking and subscribing the oath of allegiance take part in the election of the President of Senate or Speaker of the House or other person presiding.
 
@@ -2668,7 +3195,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Committees of Parliament
 
-(1) Each  chamber  of  Parliament  shall  appoint  sessional  committees  and  other committees as may be necessary for the effective discharge of the functions of that chamber.
+129. (1) Each  chamber  of  Parliament  shall  appoint  sessional  committees  and  other committees as may be necessary for the effective discharge of the functions of that chamber.
 
 (2) The standing committees shall be charged with such functions, including the investigation  and  inquiry  into  the  activities  and  administration  of  ministries  and departments as Parliament may determine and the investigations and enquiries may extend to proposals for legislation.
 
@@ -2686,7 +3213,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Parliamentary immunities and privileges
 
-(1) The  President, Speaker, members  of  Parliament and any other person participating or assisting in or acting in connection with or reporting the proceedings of  Parliament  or  any  of  its  committees  shall  be  entitled  to  such  immunities  and privileges as Parliament may by law prescribe.
+130. (1) The  President, Speaker, members  of  Parliament and any other person participating or assisting in or acting in connection with or reporting the proceedings of  Parliament  or  any  of  its  committees  shall  be  entitled  to  such  immunities  and privileges as Parliament may by law prescribe.
 
 (2) The freedom of speech, immunities and privileges, referred to in subsection (1),  shall  not  be  impeached  or  questioned  in  any  court  of  law  or  place  outside  of Parliament.
 
@@ -2702,7 +3229,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Parliamentary service
 
-(1) There  shall  be  a  parliamentary  service  which  shall  form  part  of  the  public service of Swaziland.
+131. (1) There  shall  be  a  parliamentary  service  which  shall  form  part  of  the  public service of Swaziland.
 
 (2) The  parliamentary  service  shall  be  administered  by  a  Parliamentary  Service Board consisting of -
 
@@ -2718,7 +3245,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Clerk to Parliament and other staff
 
-(1) There shall be a Clerk to Parliament and such other staff of the parliamentary service as the Parliamentary Service Board may determine.
+132. (1) There shall be a Clerk to Parliament and such other staff of the parliamentary service as the Parliamentary Service Board may determine.
 
 (2) The  Clerk to Parliament shall be head and controlling officer of the Parliamentary service.
 
@@ -2736,7 +3263,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Sessions of Parliament
 
-(1) There  shall  be  a  session  of  Parliament  at  least  once  in  every  year  so  that  a period of six months shall not intervene between the last sitting of Parliament in one session and the first sitting of Parliament in the next session.
+133. (1) There  shall  be  a  session  of  Parliament  at  least  once  in  every  year  so  that  a period of six months shall not intervene between the last sitting of Parliament in one session and the first sitting of Parliament in the next session.
 
 (2) Each session of Parliament shall be held at such a place within Swaziland and commence at such a time as the King may appoint by notice in the Gazette.
 
@@ -2746,7 +3273,7 @@ but  shall,  unless  the  House  otherwise  resolves,  be  presented  to  the  K
 
 #### Prorogation and dissolution of Parliament
 
-(1) The King may at any time -
+134. (1) The King may at any time -
 
 (a) prorogue Parliament; or
 
@@ -2782,7 +3309,7 @@ the King may refuse to dissolve Parliament; or,
 
 #### Recalling Parliament in case of emergency
 
-(1) Where,  between  a  dissolution  of  Parliament  and  the  next  ensuing  general election of the elected members of the House, an emergency arises of such a nature that in the opinion of the King, after consultation with the President and Speaker of the  dissolved  Parliament,  it  is  necessary  for  the  two  chambers  of  Parliament  to  be summoned before that general election can be held, the King may, by proclamation published in the Gazette, summon  the  preceding chambers  of Parliament as constituted immediately before that dissolution.
+135. (1) Where,  between  a  dissolution  of  Parliament  and  the  next  ensuing  general election of the elected members of the House, an emergency arises of such a nature that in the opinion of the King, after consultation with the President and Speaker of the  dissolved  Parliament,  it  is  necessary  for  the  two  chambers  of  Parliament  to  be summoned before that general election can be held, the King may, by proclamation published in the Gazette, summon  the  preceding chambers  of Parliament as constituted immediately before that dissolution.
 
 (2) Where the King has recalled Parliament in terms of subsection (1),  the  two chambers of Parliament shall be deemed (except for purposes of section 136) not to have been dissolved but shall be deemed (except for the purposes of section 137) to be dissolved as soon as the emergency has been disposed of or on the date on which the next ensuing general election of elected members of the House is held.
 
@@ -2790,7 +3317,7 @@ the King may refuse to dissolve Parliament; or,
 
 #### General elections
 
-(1) A general election of elected members of the House shall be held at such time within sixty days after every dissolution of Parliament, as the King shall appoint by proclamation published in the Gazette.
+136. (1) A general election of elected members of the House shall be held at such time within sixty days after every dissolution of Parliament, as the King shall appoint by proclamation published in the Gazette.
 
 87
 
@@ -2802,7 +3329,7 @@ the King may refuse to dissolve Parliament; or,
 
 #### Filling of casual vacancies
 
-(1) Where any person vacates a seat as a Senator for any reason other than a dissolution of Parliament -
+137. (1) Where any person vacates a seat as a Senator for any reason other than a dissolution of Parliament -
 
 (a) the King shall appoint a person; or
 
@@ -2830,7 +3357,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### The Judiciary
 
-(1) The Judiciary consists of  -
+139. (1) The Judiciary consists of  -
 
 (a) the Superior Court of Judicature comprising -
 
@@ -2856,13 +3383,13 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Judicial power of Swaziland
 
-(1) The judicial power of Swaziland vests in the Judiciary.  Accordingly, an organ or agency of the Crown shall not have or be conferred with final judicial power.
+140. (1) The judicial power of Swaziland vests in the Judiciary.  Accordingly, an organ or agency of the Crown shall not have or be conferred with final judicial power.
 
 (2) In the exercise of the judicial power under this Constitution or any other law, the superior courts may, in relation to any matter   within their jurisdiction, issue such orders or directions as may be necessary to ensure the enforcement of any judgement, decree or order of those courts.
 
 #### Independence of the Judiciary
 
-(1) In  the  exercise  of  the  judicial  power  of  Swaziland,  the  Judiciary,  in  both  its judicial  and  administrative  functions,  including  financial  administration,  shall  be independent  and  subject  only  to  this  Constitution,  and  shall  not  be  subject  to  the control or direction of any person or authority.
+141. (1) In  the  exercise  of  the  judicial  power  of  Swaziland,  the  Judiciary,  in  both  its judicial  and  administrative  functions,  including  financial  administration,  shall  be independent  and  subject  only  to  this  Constitution,  and  shall  not  be  subject  to  the control or direction of any person or authority.
 
 (2) Neither the Crown nor Parliament nor any person acting under the authority of the  Crown  or  Parliament  nor  any  person  whatsoever  shall  interfere  with  Judges  or judicial  officers,  or  other  persons  exercising  judicial  power,  in  the  exercise  of  their judicial functions.
 
@@ -2884,7 +3411,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Administrative functions of the Chief Justice
 
-- Subject to the provisions of this Constitution or any other law, the Chief Justice as head of the Judiciary may make rules for regulating the practice and procedure of the superior and  subordinate  courts,  including  the  specialised  and  local  courts  as  well  as  powers  of judicial officers.
+142. Subject to the provisions of this Constitution or any other law, the Chief Justice as head of the Judiciary may make rules for regulating the practice and procedure of the superior and  subordinate  courts,  including  the  specialised  and  local  courts  as  well  as  powers  of judicial officers.
 
 #### Oaths by Justices of the superior courts
 
@@ -2892,7 +3419,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Appointment of assessors
 
-(1) A  superior  court  may  hear  a  case  wholly  or  in  part  with  the  assistance  of assessors.
+144. (1) A  superior  court  may  hear  a  case  wholly  or  in  part  with  the  assistance  of assessors.
 
 (2) A  superior  court  may  in  any  case  in  which  it  appears  to  that  court  to  be expedient call in the aid of one or more assessors with such qualifications as the court may deem appropriate.
 
@@ -2906,27 +3433,27 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Composition of the Supreme Court
 
-(1) There shall be a Supreme Court of Judicature for Swaziland consisting of the Chief Justice and not less than four other Justices of the Supreme Court.
+145. (1) There shall be a Supreme Court of Judicature for Swaziland consisting of the Chief Justice and not less than four other Justices of the Supreme Court.
 
-- The Supreme Court shall be duly constituted for its ordinary work by not less than three Justices of the Supreme Court.
+(2) The Supreme Court shall be duly constituted for its ordinary work by not less than three Justices of the Supreme Court.
 
-- A full bench of the Supreme Court shall consist of five Justices of that Court.
+(3) A full bench of the Supreme Court shall consist of five Justices of that Court.
 
-- The Chief Justice shall preside at sittings of the Supreme Court, and when not sitting the most senior of the Justices constituting the court shall preside.
+(4) The Chief Justice shall preside at sittings of the Supreme Court, and when not sitting the most senior of the Justices constituting the court shall preside.
 
 #### Jurisdiction of Supreme Court (General)
 
-(1) The Supreme Court is the final  court  of  appeal.    Accordingly,  the  Supreme Court has appellate jurisdiction and such other jurisdiction as may be conferred on it by this Constitution or any other law.
+146. (1) The Supreme Court is the final  court  of  appeal.    Accordingly,  the  Supreme Court has appellate jurisdiction and such other jurisdiction as may be conferred on it by this Constitution or any other law.
 
-- Without  derogating  from  the  generality  of  the  foregoing  subsection,  the Supreme Court has -
+(2) Without  derogating  from  the  generality  of  the  foregoing  subsection,  the Supreme Court has -
 
 (a) such jurisdiction to hear and determine appeals from the High Court of Swaziland  and  such  powers  and  authority  as  the  Court  of  Appeal possesses at the date of commencement of this Constitution; and
 
 (b) such  additional  jurisdiction  to  hear  and  determine  appeals  from  the High Court of Swaziland and such additional powers and authority, as may be prescribed by or under any law for the time being in force in Swaziland.
 
-- Subject  to  the  provisions  of  subsection  (2),  the  Supreme  Court  has  for  all purposes  of  and  incidental  to  the  hearing  and  determination  of  any  appeal  in  its jurisdiction the power, authority and jurisdiction vested in the court from which the appeal is brought.
+(3) Subject  to  the  provisions  of  subsection  (2),  the  Supreme  Court  has  for  all purposes  of  and  incidental  to  the  hearing  and  determination  of  any  appeal  in  its jurisdiction the power, authority and jurisdiction vested in the court from which the appeal is brought.
 
-- A  decision  of  the  Supreme  Court  shall  be  enforced,  as  far  as  that  may  be effective, in like manner as if it were a judgment of the court from which the appeal was brought.
+(4) A  decision  of  the  Supreme  Court  shall  be  enforced,  as  far  as  that  may  be effective, in like manner as if it were a judgment of the court from which the appeal was brought.
 
 91
 
@@ -2940,7 +3467,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Appellate jurisdiction of Supreme Court
 
-(1) An appeal shall lie to the Supreme Court from a judgement, decree or order of the High Court -
+147. (1) An appeal shall lie to the Supreme Court from a judgement, decree or order of the High Court -
 
 (a) as of right in a civil or criminal cause or matter from a judgement of the High Court in the exercise of its original jurisdiction; or
 
@@ -2950,7 +3477,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Supervisory and review jurisdiction
 
-(1) The Supreme Court has supervisory jurisdiction over all courts of judicature and  over  any  adjudicating  authority  and  may,  in  the  discharge  of  that  jurisdiction, issue orders and directions for the purposes of enforcing or securing the enforcement of its supervisory power.
+148. (1) The Supreme Court has supervisory jurisdiction over all courts of judicature and  over  any  adjudicating  authority  and  may,  in  the  discharge  of  that  jurisdiction, issue orders and directions for the purposes of enforcing or securing the enforcement of its supervisory power.
 
 (2) The  Supreme  Court  may  review  any  decision  made  or  given  by  it  on  such grounds and subject to such conditions as may be prescribed by an Act of Parliament or rules of court.
 
@@ -2958,7 +3485,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Powers of a single Justice of Supreme Court
 
-(1) Subject  to  the  provisions  of  subsections  (2)  and  (3)  a  single  Justice  of  the Supreme Court may exercise power vested in the Supreme Court not involving the determination of the cause or matter before the Supreme Court.
+149. (1) Subject  to  the  provisions  of  subsections  (2)  and  (3)  a  single  Justice  of  the Supreme Court may exercise power vested in the Supreme Court not involving the determination of the cause or matter before the Supreme Court.
 
 92
 
@@ -2974,7 +3501,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Composition of the High Court
 
-(1) There shall be a High Court of Judicature for Swaziland consisting of -
+150. (1) There shall be a High Court of Judicature for Swaziland consisting of -
 
 (a) the Chief Justice, ex officio ;
 
@@ -2982,7 +3509,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 (c) such  other  Justices  of  the  Superior  Court  of  Judicature  as  the  Chief Justice may, in writing assign to sit as High Court Justices for any case or period.
 
-- The High Court shall be duly constituted -
+(2) The High Court shall be duly constituted -
 
 (a) by a single Judge of the High Court;
 
@@ -3006,7 +3533,7 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Jurisdiction of the High Court
 
-(1) The High Court has  -
+151. (1) The High Court has  -
 
 (a) unlimited original jurisdiction in civil and criminal matters as the High Court possesses at the date of commencement of this Constitution;
 
@@ -3016,13 +3543,13 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 (d) such additional revisional jurisdiction as may be prescribed by or under any law for the time being in force in Swaziland.
 
-- Without derogating from the generality of subsection (1) the High Court has jurisdiction -
+(2) Without derogating from the generality of subsection (1) the High Court has jurisdiction -
 
 (a) to enforce the fundamental human rights and freedoms guaranteed by this Constitution; and
 
 (b) to hear and determine any matter of a constitutional nature.
 
-- Notwithstanding the provisions of subsection (1), the High Court -
+(3) Notwithstanding the provisions of subsection (1), the High Court -
 
 (a) has  no  original  or  appellate  jurisdiction  in  any  matter  in  which  the Industrial Court has exclusive jurisdiction;
 
@@ -3052,9 +3579,9 @@ to fill the vacancy under the same provisions of section 96 as the member whose 
 
 #### Appointment of Justices of the superior courts
 
-(1) The Chief Justice and the other Justices of the superior courts- shall be appointed by the King on the advice of the Judicial Service Commission.
+153. (1) The Chief Justice and the other Justices of the superior courts- shall be appointed by the King on the advice of the Judicial Service Commission.
 
-- Where the office of the Chief Justice is vacant, or where the Chief Justice is for any reason unable to perform the functions of office -
+(2) Where the office of the Chief Justice is vacant, or where the Chief Justice is for any reason unable to perform the functions of office -
 
 (a) until a person has been appointed to, and has assumed the functions of, that office; or
 
@@ -3078,7 +3605,7 @@ those functions shall be performed by the most senior of the Justices of the Sup
 
 #### Qualification for appointment to the superior courts
 
-(1) A person  shall  not  be  appointed  as  a  Justice  of  a  superior  court  unless  that person  is  a  person  of  high  moral  character  and  integrity  and  in  the  case  of  an appointment to -
+154. (1) A person  shall  not  be  appointed  as  a  Justice  of  a  superior  court  unless  that person  is  a  person  of  high  moral  character  and  integrity  and  in  the  case  of  an appointment to -
 
 (a) the Supreme Court,
 
@@ -3106,7 +3633,7 @@ of the Commonwealth or the Republic of Ireland for a period of not less than fiv
 
 #### Tenure of office of superior court Justice
 
-(1) A Justice of the Supreme Court of Judicature shall hold office in terms of this Constitution.
+155. (1) A Justice of the Supreme Court of Judicature shall hold office in terms of this Constitution.
 
 (2) The office of a Justice of a superior court shall not be abolished while there is a substantive holder of that office.
 
@@ -3114,7 +3641,7 @@ of the Commonwealth or the Republic of Ireland for a period of not less than fiv
 
 #### Retirement and resignation of Justices of the superior courts
 
-(1) Subject to the provisions of this Constitution or any other law, a Justice of a superior court -
+156. (1) Subject to the provisions of this Constitution or any other law, a Justice of a superior court -
 
 (a) may retire at any time after attaining the age of sixty-five years subject to a service of at least ten years;
 
@@ -3138,13 +3665,13 @@ of the Commonwealth or the Republic of Ireland for a period of not less than fiv
 
 [[START OF PAGE 98]]
 
-(1) A person who is not a citizen of Swaziland shall not be appointed as Justice of a superior court after seven years from the commencement of this Constitution.
+157. (1) A person who is not a citizen of Swaziland shall not be appointed as Justice of a superior court after seven years from the commencement of this Constitution.
 
 (2) Unless otherwise agreed between the contracting parties, a judge on contract shall vacate office at the end of the period provided in the contract.
 
 #### Removal of Justices of superior courts
 
-(1) A  Justice  of  the  Superior  Court  of  Judicature  may  only  be  removed  from office in accordance with the provisions of this section.
+158. (1) A  Justice  of  the  Superior  Court  of  Judicature  may  only  be  removed  from office in accordance with the provisions of this section.
 
 (2) A Justice of a superior court shall not be removed from office except for stated serious  misbehaviour  or  inability  to  perform  the  functions  of  office  arising  from infirmity of body or mind.
 
@@ -3158,9 +3685,9 @@ of the Commonwealth or the Republic of Ireland for a period of not less than fiv
 
 (7) Subject to considerations of fairness and natural justice, the Commission shall be  reconstituted  for  the  purpose  as  may  be  appropriate,  the  Chief  Justice  being replaced  by  the  most  senior  Justice  of  the  Supreme  Court,  and  a  Justice  who  is  a member of the Commission being replaced by another Justice appointed by the other members of the Commission.
 
-- An inquiry in terms of this section shall not take longer than three months.
+(8) An inquiry in terms of this section shall not take longer than three months.
 
-- The King may at any time revoke a suspension under this section.
+(9) The King may at any time revoke a suspension under this section.
 
 (10) In  this  section  ' ad  hoc committee'  means  a  committee  made  up  of  the Minister responsible for Justice and Chairman of the Civil Service Commission and the President of the Law Society of Swaziland.
 
@@ -3202,8 +3729,6 @@ of the Commonwealth or the Republic of Ireland for a period of not less than fiv
 
 99
 
-Judicial Service Commission
-
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
@@ -3216,7 +3741,7 @@ Judicial Service Commission
 
 #### Functions of the Judicial Service Commission
 
-(1) Subject  to  any  other  powers  or  general  functions  conferred  on  a  service commission  in  terms  of  this  Constitution,  the  Judicial  Service  Commission  shall, among other things, perform the following functions -
+160. (1) Subject  to  any  other  powers  or  general  functions  conferred  on  a  service commission  in  terms  of  this  Constitution,  the  Judicial  Service  Commission  shall, among other things, perform the following functions -
 
 (a) advise the King in the exercise of the power to appoint persons to hold or act in any office specified in this Constitution which includes power to exercise disciplinary control over those persons and to remove those persons from office;
 
@@ -3232,7 +3757,7 @@ Judicial Service Commission
 
 (2) Without derogating from the provisions of subsection (1), the Commission has power  to  appoint  persons  to  hold  or  act  in  any  of  the  offices  mentioned  under subsection (3) including the power to exercise disciplinary control over those persons and the power to remove those persons from office.
 
-- The offices referred to in subsection (2) are -
+(3) The offices referred to in subsection (2) are -
 
 (a) the office of  -
 
@@ -3260,9 +3785,9 @@ Judicial Service Commission
 
 #### Secretariat to the Commission
 
-(1) There shall be a secretariat of the Commission established in terms of section 183.
+161. (1) There shall be a secretariat of the Commission established in terms of section 183.
 
-- The functions of the secretariat shall be as provided under section 183 (2).
+(2) The functions of the secretariat shall be as provided under section 183 (2).
 
 (3) The  secretary  of  the  Commission,  in  addition  to  the  functions  in  terms  of subsection (2),  shall  among  other  things,  organise  and  manage  the  secretariat,  keep the chairman informed of all activities of the Commission and act as a public relations officer for the Commission.
 
@@ -3272,7 +3797,7 @@ Judicial Service Commission
 
 #### Appointment, tenure functions, etc.
 
-(1) There shall be a Director of Public Prosecutions whose office shall be a public office.
+162. (1) There shall be a Director of Public Prosecutions whose office shall be a public office.
 
 (2) The  Director  of  Public  Prosecutions,  in  this  Chapter  referred  to  as  'the Director,'  shall  be  appointed  by  the  King  on  the  advice  of  the  Judicial  Service Commission.
 
@@ -3296,7 +3821,7 @@ Judicial Service Commission
 
 (5) The powers under subsection (4) may be exercised by the  Director  in person or by subordinate officers acting in accordance with the general or special instructions of the Director.
 
-- In the exercise of the powers conferred under this Chapter, the Director shall -
+(6) In the exercise of the powers conferred under this Chapter, the Director shall -
 
 (a) have regard to the public interest, the interest of the administration of justice and the need to prevent abuse of the legal process; and
 
@@ -3310,7 +3835,7 @@ Judicial Service Commission
 
 #### Commission on Human Rights and Public Administration
 
-(1) There shall be established within a year of the first meeting of Parliament after the commencement of this Constitution, a Commission on Human Rights and Public Administration in this Chapter referred to as 'the Commission'.
+163. (1) There shall be established within a year of the first meeting of Parliament after the commencement of this Constitution, a Commission on Human Rights and Public Administration in this Chapter referred to as 'the Commission'.
 
 102
 
@@ -3318,7 +3843,7 @@ Judicial Service Commission
 
 [[START OF PAGE 103]]
 
-- The Commission shall consist of -
+(2) The Commission shall consist of -
 
 (a) a Commissioner for Human Rights and Public Administration; and
 
@@ -3356,7 +3881,7 @@ Judicial Service Commission
 
 [[START OF PAGE 104]]
 
-- achieve acceptable delivery of services or equitable access by all in the recruitment to those services or fair administration by those services;
+achieve acceptable delivery of services or equitable access by all in the recruitment to those services or fair administration by those services;
 
 (d) take  appropriate  action  for  the  remedying,  correction  or  reversal  of instances specified in paragraphs (a), (b) and (c) through such means as are fair, proper and effective, including -
 
@@ -3370,7 +3895,7 @@ Judicial Service Commission
 
 (v) bringing proceedings to restrain the enforcement of any legislation  or  regulation  by  challenging  the  validity  of  that legislation or regulation where the offending action or conduct is  sought  to  be  justified  by  reference  to  that  legislation  or regulation.
 
-(e) investigate instances of alleged or suspected corruption and  the misappropriation of public moneys or property by officials and to take or  recommend  appropriate  steps,  including  reports  to  the  AttorneyGeneral or the Director of Public Prosecutions or the Auditor General;
+(e) investigate instances of alleged or suspected corruption and  the misappropriation of public moneys or property by officials and to take or  recommend  appropriate  steps,  including  reports  to  the  Attorney-General or the Director of Public Prosecutions or the Auditor General;
 
 (f) eliminate or foster the elimination of corruption, abuse of authority or public office;
 
@@ -3380,7 +3905,7 @@ Judicial Service Commission
 
 (i) take such other measures incidental to the above as may be prescribed by Parliament.
 
-- The Commission may investigate any matter referred to in subsection (1) in any of the following circumstances -
+(2) The Commission may investigate any matter referred to in subsection (1) in any of the following circumstances -
 
 104
 
@@ -3396,7 +3921,7 @@ Judicial Service Commission
 
 #### Powers of the Commission
 
-(1) The powers of the Commission shall include the following -
+165. (1) The powers of the Commission shall include the following -
 
 (a) to  issue  subpoenas  requiring  the  attendance  of  any  person  before  the Commission  and  the  production  of  any  document,  record  or  thing required for the investigation by the Commission;
 
@@ -3408,7 +3933,7 @@ Judicial Service Commission
 
 (2) The Commission may during the course of its proceedings or as a consequence of  its  findings,  make  such  orders  and  give  such  directions  as  are  necessary  and appropriate in the circumstances.
 
-- The Commission shall not investigate -
+(3) The Commission shall not investigate -
 
 (a) a matter which is pending before a court;
 
@@ -3440,7 +3965,7 @@ Judicial Service Commission
 
 #### Report of investigation
 
-(1) Where  a  complaint,  or  request  for  an  investigation,  is  duly  made  and  the Commissioner  decides  not  to  investigate  the  matter  or  where  the  Commissioner decides to discontinue an investigation of the matter, the Commissioner shall inform the person who made the complaint or request of the reasons for not investigating or for discontinuing the investigation.
+168. (1) Where  a  complaint,  or  request  for  an  investigation,  is  duly  made  and  the Commissioner  decides  not  to  investigate  the  matter  or  where  the  Commissioner decides to discontinue an investigation of the matter, the Commissioner shall inform the person who made the complaint or request of the reasons for not investigating or for discontinuing the investigation.
 
 (2) The  Commission  may,  where  necessary,  issue  an  interim  report  containing such recommendations as it may deem appropriate in the circumstances.
 
@@ -3468,13 +3993,13 @@ Judicial Service Commission
 
 #### Vacation of office and immunity of Commissioners
 
-(1) The  provision  of  this  Constitution  relating  to  the  removal  of  judges  of  the superior courts from  office shall, subject to any  necessary  modifications  and adaptations,  apply  to  the  removal  from  office  of  the  Commissioner  or  Deputy Commissioner.
+170. (1) The  provision  of  this  Constitution  relating  to  the  removal  of  judges  of  the superior courts from  office shall, subject to any  necessary  modifications  and adaptations,  apply  to  the  removal  from  office  of  the  Commissioner  or  Deputy Commissioner.
 
 (2) A  member  of  the  Commission  shall  have  such  and  like  protection  and privilege in the case of any action or suit brought against the Commission for any act done or omitted to be done in the honest execution of the duties of the Commission as is  by  law  given  to  acts  done  or  words  spoken  by  a  judge  of  the  superior  courts  in exercise of the judicial office.
 
 #### Staff and expenses of the Commission
 
-(1) The Commission shall have such staff as shall be appropriate for the effective discharge of the functions of the Commission.
+171. (1) The Commission shall have such staff as shall be appropriate for the effective discharge of the functions of the Commission.
 
 (2) Administrative  expenses  of  the  Commission  including  salaries,  allowances and pensions payable to, or in respect of, persons serving with the Commission, shall be charged on the Consolidated Fund.
 
@@ -3490,15 +4015,15 @@ Judicial Service Commission
 
 #### Administration of the public service
 
-(1) The  Public  Service  of  Swaziland  shall  be  administered  through  service commissions or similar bodies established under this Constitution or any other law.
+172. (1) The  Public  Service  of  Swaziland  shall  be  administered  through  service commissions or similar bodies established under this Constitution or any other law.
 
-- The  public  service  may  be  divided  into  sectoral  units  for  ease  of  management  and quick delivery.
+(2) The  public  service  may  be  divided  into  sectoral  units  for  ease  of  management  and quick delivery.
 
-- Each sectoral unit may have a separate service commission.
+(3) Each sectoral unit may have a separate service commission.
 
 #### Establishment and membership
 
-(1) There shall be independent and impartial service commissions established in terms of this Constitution or any other law for the better management and exercise of certain powers and functions regulating the public service or any part or aspect of the public service.
+173. (1) There shall be independent and impartial service commissions established in terms of this Constitution or any other law for the better management and exercise of certain powers and functions regulating the public service or any part or aspect of the public service.
 
 (2) A service commission shall consist of not less than three and not more than five members one of whom shall be appointed a chairman.
 
@@ -3508,7 +4033,7 @@ Judicial Service Commission
 
 #### Disqualification for membership
 
-(1) A  person  shall  not  qualify  to  be  appointed  as  a  member  of  a  service commission  unless  that  person  possesses  relevant  training  and  is  of  high  moral character and proven integrity and that person-
+174. (1) A  person  shall  not  qualify  to  be  appointed  as  a  member  of  a  service commission  unless  that  person  possesses  relevant  training  and  is  of  high  moral character and proven integrity and that person-
 
 (a) qualifies to be elected as a member of Parliament;
 
@@ -3528,7 +4053,7 @@ member of the King's Advisory Council or similar body; or
 
 #### Tenure of office and removal from office
 
-(1) The tenure of office of an inaugural chairman and each member shall be six and four years respectively.
+175. (1) The tenure of office of an inaugural chairman and each member shall be six and four years respectively.
 
 (2) The chairman and a member shall be eligible for re-appointment for a single term of four years.
 
@@ -3548,7 +4073,7 @@ member of the King's Advisory Council or similar body; or
 
 #### Functions and powers of service commissions
 
-(1) The functions of a service commission shall include appointments (including promotions and transfers) and selection of candidates for appointment, confirmation
+176. (1) The functions of a service commission shall include appointments (including promotions and transfers) and selection of candidates for appointment, confirmation
 
 109
 
@@ -3596,7 +4121,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Delegation of functions
 
-(1) Except as may be specified in this Constitution or any other law, nothing in this  Constitution  shall  be  construed  as  preventing  a  service  commission  from delegating any of its powers or functions to a principal secretary or head of department,  or  any  other  person  or  body  of  persons  or  line  managers  in  respect  of certain grades or ranks of officers.
+181. (1) Except as may be specified in this Constitution or any other law, nothing in this  Constitution  shall  be  construed  as  preventing  a  service  commission  from delegating any of its powers or functions to a principal secretary or head of department,  or  any  other  person  or  body  of  persons  or  line  managers  in  respect  of certain grades or ranks of officers.
 
 (2) Where a delegation of functions is  necessary,  an  appropriate  framework  for regulating the delegation of those functions shall be put in place before the delegated functions are exercised.
 
@@ -3610,9 +4135,9 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Secretariat
 
-(1) Every service commission shall set up and maintain a competent and qualified secretariat  consisting  of  a  secretary  and  support  staff  as  determined  by  the  body responsible for the public service management or any law.
+183. (1) Every service commission shall set up and maintain a competent and qualified secretariat  consisting  of  a  secretary  and  support  staff  as  determined  by  the  body responsible for the public service management or any law.
 
-- The functions of the secretariat shall include the following -
+(2) The functions of the secretariat shall include the following -
 
 111
 
@@ -3634,7 +4159,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Annual reports
 
-- Every service commission shall, as soon as possible after the end of  each financial year, submit a report to the line Minister in respect of the discharge of its functions during the past year and the line Minister shall lay every such report before both Houses of Parliament for consideration during budget debates.
+184. Every service commission shall, as soon as possible after the end of  each financial year, submit a report to the line Minister in respect of the discharge of its functions during the past year and the line Minister shall lay every such report before both Houses of Parliament for consideration during budget debates.
 
 #### Application of this Part
 
@@ -3644,9 +4169,9 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Establishment, membership etc
 
-(1) Subject to any other provision of this Constitution, the Civil Service Commission is established and constituted in terms of Part I of this Chapter.
+186. (1) Subject to any other provision of this Constitution, the Civil Service Commission is established and constituted in terms of Part I of this Chapter.
 
-- The Civil Service Commission may, among other things -
+(2) The Civil Service Commission may, among other things -
 
 (a) initiate  or  cause  to  be  initiated  appropriate  procedures  or  processes leading to the selection or short listing of candidates for appointment to public office;
 
@@ -3666,19 +4191,19 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Appointment, promotion, transfer etc of public officers
 
-(1) Subject to the provisions of this Constitution or any other law, the power of appointment  (including  acting  appointments,  secondments,  and  confirmation  of appointments) promotion, transfer, termination of appointment, dismissal and disciplinary control of public officers shall vest in the Civil Service Commission.
+187. (1) Subject to the provisions of this Constitution or any other law, the power of appointment  (including  acting  appointments,  secondments,  and  confirmation  of appointments) promotion, transfer, termination of appointment, dismissal and disciplinary control of public officers shall vest in the Civil Service Commission.
 
 (2) A  public  officer  holding  a  permanent  or  temporary  position  shall  not  be eligible for appointment to any body that acts in any advisory capacity to the Head of State.
 
 #### Appointment and removal from office of Ambassadors, etc
 
-(1) The power to appoint persons to hold or act in the offices to which this section applies and to remove from office persons holding or acting in those offices shall vest in  the  King  acting  on  the  recommendation  of  the  Minister  responsible  for  foreign affairs.
+188. (1) The power to appoint persons to hold or act in the offices to which this section applies and to remove from office persons holding or acting in those offices shall vest in  the  King  acting  on  the  recommendation  of  the  Minister  responsible  for  foreign affairs.
 
 (2) The offices to which this section applies are the office of Ambassador, High Commissioner,  Swaziland  Representative  in  any  other  foreign  country  or  to  an International Organisation.
 
 #### The Police Service
 
-(1) The  Royal  Swaziland  Police  Service  shall  be  responsible  for  preserving  the peace, for prevention and detection of crime and the apprehension of offenders.
+189. (1) The  Royal  Swaziland  Police  Service  shall  be  responsible  for  preserving  the peace, for prevention and detection of crime and the apprehension of offenders.
 
 (2) The Police Service shall have and exercise such other powers and functions as may be prescribed.
 
@@ -3696,7 +4221,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### The Correctional Services
 
-(1) The Correctional Services for Swaziland shall be responsible for the protection and holding on terms convicted persons and the rehabilitation of those persons and the keeping of order within the correctional or prison institutions of the Kingdom.
+190. (1) The Correctional Services for Swaziland shall be responsible for the protection and holding on terms convicted persons and the rehabilitation of those persons and the keeping of order within the correctional or prison institutions of the Kingdom.
 
 (2) The superintendence of the Correctional Services is vested in the Commissioner of Correctional Services.
 
@@ -3708,7 +4233,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### The Defence Force
 
-(1) The Umbutfo Swaziland Defence Force consists of an Army, an Air Force and a Navy, in that order of precedence.
+191. (1) The Umbutfo Swaziland Defence Force consists of an Army, an Air Force and a Navy, in that order of precedence.
 
 (2) The  primary  object  of  the  Defence  Force  is  to  defend  and  protect  the sovereignty and integrity and people of the Kingdom of Swaziland in accordance with the Constitution and the principles of international law regulating the use of force.
 
@@ -3730,7 +4255,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Disciplinary control over Principal Secretaries, Ambassadors, etc.
 
-(1) The power to exercise disciplinary control including removal of the officers to which this section applies vests in the King acting as provided in this section.
+192. (1) The power to exercise disciplinary control including removal of the officers to which this section applies vests in the King acting as provided in this section.
 
 (2) Before exercising any disciplinary control in terms of subsection (1), the King shall direct the line Minister to refer the question of the exercise of that disciplinary control to the Civil Service Commission or appropriate similar body.
 
@@ -3764,17 +4289,17 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 [[START OF PAGE 116]]
 
-(1) Subject to the provisions of this Constitution and any other law, other service sectors having separate service commissions or similar bodies may be recognised as part of the public service.
+193. (1) Subject to the provisions of this Constitution and any other law, other service sectors having separate service commissions or similar bodies may be recognised as part of the public service.
 
 (2) The  recognition  of  certain  service  commissions  or  similar  bodies  at  the commencement of this Constitution does not preclude the recognition or establishment of other service commissions in terms of any other law.
 
-- For  the  avoidance  of  any  doubt,  in  any  case  in  which  this  section  or  this Constitution  does  not  apply  the  power  to  appoint,  promote,  transfer,  or discipline  or  dismiss  public  officers  shall,  pending  the  establishment  of  the appropriate service commission or similar body continue to vest where it vests at the commencement of this Constitution.
+(3) For  the  avoidance  of  any  doubt,  in  any  case  in  which  this  section  or  this Constitution  does  not  apply  the  power  to  appoint,  promote,  transfer,  or discipline  or  dismiss  public  officers  shall,  pending  the  establishment  of  the appropriate service commission or similar body continue to vest where it vests at the commencement of this Constitution.
 
 ### Part 3 Miscellaneous
 
 #### Protection of public officers
 
-(1) A public officer shall not be -
+194. (1) A public officer shall not be -
 
 (a) victimized or discriminated against for having performed faithfully the duties of office in accordance with this Constitution; or
 
@@ -3790,7 +4315,7 @@ of appointments, termination of appointments, disciplinary control and removal f
 
 #### Pensions laws and protection of pensions rights
 
-(1) The law to be applied with respect to any pensions benefits that were granted to any person at the date of the commencement of this Constitution shall be the law
+195. (1) The law to be applied with respect to any pensions benefits that were granted to any person at the date of the commencement of this Constitution shall be the law
 
 116
 
@@ -3828,7 +4353,7 @@ or any law in force at a later date that is not less favourable to that person.
 
 #### Power of commissions over pensions
 
-(1) Where under any law any person or authority has a discretion -
+196. (1) Where under any law any person or authority has a discretion -
 
 (a) to decide whether or not any pensions benefits shall be granted; or
 
@@ -3838,9 +4363,9 @@ those  benefits  shall  be  granted  and  may  not  be  withheld,  reduced  in  
 
 (2) Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to that person shall be the greatest amount for which that person is eligible unless the appropriate Commission concurs in that person being granted benefits of a smaller amount.
 
-(3) The  appropriate Commission  shall  not  concur  under  subsection  (1) or subsection (2) in any  action  taken  on  the  ground  that  any  person  who  holds  or  has held  the  office  of  judge  of  the  High  Court,  judge  of  the  Supreme  Court,  AttorneyGeneral,  Auditor-General  or  Director  of  Public  Prosecutions  has  been  guilty  of misbehaviour  unless  that  person  has  been  removed  from  office  by  reason  of  that misbehaviour.
+(3) The  appropriate Commission  shall  not  concur  under  subsection  (1) or subsection (2) in any  action  taken  on  the  ground  that  any  person  who  holds  or  has held  the  office  of  judge  of  the  High  Court,  judge  of  the  Supreme  Court,  Attorney-General,  Auditor-General  or  Director  of  Public  Prosecutions  has  been  guilty  of misbehaviour  unless  that  person  has  been  removed  from  office  by  reason  of  that misbehaviour.
 
-- In this section 'the appropriate Commission' means -
+(4) In this section 'the appropriate Commission' means -
 
 (a) in the case of benefits for which any person may be eligible in respect of  the  service  in  the  public  service  of  a  person  who,  immediately before  that  person  ceased  to  be  a  public  officer,  was  subject  to  the disciplinary  control  of  the  Judicial  Service  Commission  or  that  have been granted in respect of such service, the Judicial Service Commission; and
 
@@ -3856,15 +4381,15 @@ those  benefits  shall  be  granted  and  may  not  be  withheld,  reduced  in  
 
 [[START OF PAGE 119]]
 
-(1) Where a public officer is removed from office under any of the provisions of this Constitution the removal of that person shall be without     prejudice to any right of  action  to  which  that  person  may  be  entitled  under  any  law  for  the  time  being  in force for damages for wrongful dismissal or loss of status.
+197. (1) Where a public officer is removed from office under any of the provisions of this Constitution the removal of that person shall be without     prejudice to any right of  action  to  which  that  person  may  be  entitled  under  any  law  for  the  time  being  in force for damages for wrongful dismissal or loss of status.
 
 (2) The  provisions  of  subsection  (1)  shall  not  apply  and  no  damages  shall  be recoverable where the public officer is offered appointment to another public office in respect of which the emoluments are not less than the emoluments of the office from which that officer is removed.
 
 (3) The law relating to rights of action for damages for wrongful dismissal or loss of  status  shall  not  be  altered  to  the  disadvantage  of  a  public  officer  during  the continuance in office of that public officer.
 
-- This section does not apply to the holder of the office -
+(4) This section does not apply to the holder of the office -
 
-(a) of  judge  of  the  High  Court,  judge  of  the  Supreme  Court,  AttorneyGeneral, Director of Public Prosecutions, or Auditor-General;
+(a) of  judge  of  the  High  Court,  judge  of  the  Supreme  Court,  Attorney-General, Director of Public Prosecutions, or Auditor-General;
 
 (b) of member of a Service Commission, Commission or Board, established under this Constitution;
 
@@ -3876,7 +4401,7 @@ who immediately prior to the appointment to that office (or where the person has
 
 #### Consolidated Fund
 
-(1) There shall be a Consolidated Fund into which, subject to the provisions of this Constitution, shall be paid -
+198. (1) There shall be a Consolidated Fund into which, subject to the provisions of this Constitution, shall be paid -
 
 (a) all  revenue or other monies raised or received for the purposes or on behalf of the Government; and
 
@@ -3896,7 +4421,7 @@ who immediately prior to the appointment to that office (or where the person has
 
 #### Withdrawals from Consolidated Fund or Public Fund
 
-(1) Monies shall not be withdrawn from the Consolidated Fund except-
+199. (1) Monies shall not be withdrawn from the Consolidated Fund except-
 
 (a) to  meet  expenditure  that  is  charged  upon  the  Fund  in  terms  of  this Constitution or any other law in force in Swaziland; or
 
@@ -3910,7 +4435,7 @@ who immediately prior to the appointment to that office (or where the person has
 
 (3) Monies  shall  not  be  withdrawn  from  the  Consolidated  Fund  except  in  the manner prescribed by an Act of Parliament.
 
-- For the purposes of this section -
+(4) For the purposes of this section -
 
 (a) the deposit with a bank of any monies forming part of the Consolidated Fund;
 
@@ -3922,7 +4447,7 @@ are not to be regarded as withdrawal of those monies from the Fund.
 
 #### Appropriation Act
 
-- 200 (1) The Minister responsible for finance shall cause to be prepared and laid before both chambers of Parliament, before or not later than sixty days after the
+200 (1) The Minister responsible for finance shall cause to be prepared and laid before both chambers of Parliament, before or not later than sixty days after the
 
 120
 
@@ -3936,7 +4461,7 @@ commencement of each financial year, estimates of the revenues and expenditure o
 
 #### Supplementary estimates
 
-(1) Where in any financial year it is found that-
+201. (1) Where in any financial year it is found that-
 
 (a) the  amount  appropriated  by  the  Appropriation  Act  for  the  purposes included in any head of expenditure is insufficient or that a need has arisen  for  expenditure  for  a  purpose  for  which  no  amount  has  been appropriated in terms of the Appropriation Act; or
 
@@ -3948,7 +4473,7 @@ a  supplementary  estimate  showing  the  sums  required  or  spent  shall  be  
 
 #### Expenditure in advance of appropriation
 
-(1) Where the Appropriation Act in  respect  of  any  financial  year  has  not  come into  operation  by  the  beginning  of  that  financial  year,  the  Minister  responsible  for finance may, where the Minister considers that there is an urgent need to incur the expenditure and after obtaining the approval by the House, authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure
+202. (1) Where the Appropriation Act in  respect  of  any  financial  year  has  not  come into  operation  by  the  beginning  of  that  financial  year,  the  Minister  responsible  for finance may, where the Minister considers that there is an urgent need to incur the expenditure and after obtaining the approval by the House, authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure
 
 121
 
@@ -3962,13 +4487,13 @@ necessary  to  carry  on  the  services  of  the  Government  until  the  expira
 
 #### Contingencies Fund
 
-(1) There shall be a Contingencies Fund into which shall be paid moneys voted by Parliament  or  obtained  pursuant  to  authority  under  an  Act  of  Parliament  and  from which advances may be authorised by the Finance Committee established in terms of this Constitution, whenever this Committee is satisfied that there has arisen an urgent and  unforeseen  need  for  expenditure  for  which  no  other  provision  exists,  to  make advances from that Fund to meet that need.
+203. (1) There shall be a Contingencies Fund into which shall be paid moneys voted by Parliament  or  obtained  pursuant  to  authority  under  an  Act  of  Parliament  and  from which advances may be authorised by the Finance Committee established in terms of this Constitution, whenever this Committee is satisfied that there has arisen an urgent and  unforeseen  need  for  expenditure  for  which  no  other  provision  exists,  to  make advances from that Fund to meet that need.
 
 (2) Where any advance is made from the Contingencies Fund, a supplementary estimate shall be laid before the House, and a bill or motion shall be introduced in that House, as soon as possible, for the purpose of replacing the amount so advanced.
 
 #### Power to borrow or lend
 
-(1) Subject  to  the  provisions  of  this  Constitution,  the  Government,  through  the Minister  responsible  for  finance,  may  borrow  or  raise  moneys  from  any  reputable source.
+204. (1) Subject  to  the  provisions  of  this  Constitution,  the  Government,  through  the Minister  responsible  for  finance,  may  borrow  or  raise  moneys  from  any  reputable source.
 
 (2) The  Minister  responsible  for  finance  shall  not  borrow,  guarantee  or  raise  a loan  on  behalf  of  Government  or  any  other  public  institution,  authority  or  person except as authorised by or under an Act of Parliament.
 
@@ -3998,15 +4523,15 @@ necessary  to  carry  on  the  services  of  the  Government  until  the  expira
 
 #### Public debt
 
-(1) All debt charges for which Swaziland is liable shall be a charge on and paid out of the Consolidated Fund.
+205. (1) All debt charges for which Swaziland is liable shall be a charge on and paid out of the Consolidated Fund.
 
 (2) For the purposes of this section 'debt charges' includes interest on that debt, sinking  fund  charges,  the  repayment  or  amortisation  of  debt  and  all  expenditure  in connection with the raising of loans on the security of the revenues of Swaziland or the Consolidated Fund and on the service and redemption of debt thereby created.
 
 #### The Central Bank
 
-(1) There shall be the Central Bank of Swaziland consisting of the Governor and such other staff and having such powers and functions as Parliament shall determine.
+206. (1) There shall be the Central Bank of Swaziland consisting of the Governor and such other staff and having such powers and functions as Parliament shall determine.
 
-- The Central Bank shall, among other things-
+(2) The Central Bank shall, among other things-
 
 (a) be the only authority to issue the currency of the Kingdom;
 
@@ -4102,13 +4627,13 @@ necessary  to  carry  on  the  services  of  the  Government  until  the  expira
 
 #### Declaration of land, minerals and water as national resource
 
-(1) Subject to the provisions of this Constitution or any other law, land, minerals and water are national resources.
+210. (1) Subject to the provisions of this Constitution or any other law, land, minerals and water are national resources.
 
 (2) In the interests of the present and future generations, the State shall protect and make rational  use  of  its  land,  mineral  and  water  resources  as  well  as  its  fauna  and flora, and shall take appropriate measures to conserve and improve the environment.
 
 #### Land
 
-(1) From the date of commencement of this Constitution, all land (including any existing concessions) in Swaziland, save privately held title-deed land, shall continue to  vest  in iNgwenyama in  trust  for  the  Swazi  Nation  as  it  vested  on  the  12 th April, 1973.
+211. (1) From the date of commencement of this Constitution, all land (including any existing concessions) in Swaziland, save privately held title-deed land, shall continue to vest in iNgwenyama in trust for the Swazi Nation as it vested on the 12th April, 1973.
 
 (2) Save as may be required by the exigencies of any particular situation, a citizen of  Swaziland,  without  regard  to  gender,  shall  have  equal  access  to  land  for  normal domestic purposes.
 
@@ -4126,7 +4651,7 @@ necessary  to  carry  on  the  services  of  the  Government  until  the  expira
 
 #### Land Management Board
 
-(1) There shall be established a Land Management Board (hereafter in this section referred as the 'Board'), shall consist of a chairman and not more than four members appointed by iNgwenyama .
+212. (1) There shall be established a Land Management Board (hereafter in this section referred as the 'Board'), shall consist of a chairman and not more than four members appointed by iNgwenyama.
 
 (2) The members of the Board shall be appointed for a period of not more than five years and shall be eligible for re-appointment.
 
@@ -4142,11 +4667,11 @@ necessary  to  carry  on  the  services  of  the  Government  until  the  expira
 
 #### Minerals
 
-- All minerals and mineral oils in, under or  upon any land in Swaziland shall, after the commencement of this Constitution, continue to vest in iNgwenyama in  trust  for  the  Swazi Nation as vested on the 12 th April 1973.
+213. All minerals and mineral oils in, under or upon any land in Swaziland shall, after the commencement of this Constitution, continue to vest in iNgwenyama in trust for the Swazi Nation as vested on the 12th April 1973.
 
 #### Minerals Management Board
 
-(1) There is established a Minerals Management Board (hereinafter referred to in this section as the 'Board') which shall consist of the Commissioner of Mines, a mine engineer,  an  economist,  a  legal  practitioner  with  at  least  five  years  experience  and three other persons all of whom shall be appointed by iNgwenyama on the advice of the Minister responsible for minerals.
+214. (1) There is established a Minerals Management Board (hereinafter referred to in this section as the 'Board') which shall consist of the Commissioner of Mines, a mine engineer, an economist, a legal practitioner with at least five years experience and three other persons all of whom shall be appointed by iNgwenyama on the advice of the Minister responsible for minerals.
 
 (2) INgwenyama shall  appoint  one  of  the  persons  referred  in  subsection  (1)  as Chairman of the Board.
 
@@ -5010,11 +5535,11 @@ with a view to ensuring that a local government area is, or has the potential fo
 
 #### Existing offices
 
-(1) A  person  who  immediately  before  the  commencement  of  this  Constitution held or was acting in any office established by or by virtue of the constitution then in force, so far as is consistent with the provisions of this Constitution, shall be deemed to have been appointed as from the commencement of this Constitution, to hold or to act    in the equivalent office under this Constitution.
+266. (1) A person who immediately before the commencement of this Constitution held or was acting in any office established by or by virtue of the constitution then in force, so far as is consistent with the provisions of this Constitution, shall be deemed to have been appointed as from the commencement of this Constitution, to hold or to act in the equivalent office under this Constitution.
 
 (2) A person who before the commencement of this Constitution would have been required under the law in force to vacate that office at the expiration of a period of service shall, notwithstanding the provisions of subsection (1), vacate that office at the expiration of that period.
 
-- The provisions of this section shall not prejudice any powers conferred by or under this Constitution or any other law or any person or authority to make provision for the abolition of office, or for the removal from office of persons holding or acting in any office and for requiring persons to retire from office.
+(3) The provisions of this section shall not prejudice any powers conferred by or under this Constitution or any other law or any person or authority to make provision for the abolition of office, or for the removal from office of persons holding or acting in any office and for requiring persons to retire from office.
 
 (4) In  determining,  for  the  purposes  of  any  law  relating  to  retiring  benefits  or otherwise to length of service, the length of service of a public officer to whom the provisions  of  subsection  (1)  and  (2)  apply,  service  as  a  public  officer  under  the Government  which  terminates immediately before the commencement  of  this Constitution shall be deemed to be continuous with service as a public officer which begins immediately at such commencement.
 
@@ -5050,7 +5575,7 @@ with a view to ensuring that a local government area is, or has the potential fo
 
 #### Existing law
 
-(1) The existing law, after the commencement of this Constitution, shall as far as possible be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with this Constitution.
+268. (1) The existing law, after the commencement of this Constitution, shall as far as possible be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with this Constitution.
 
 (2) For  the  purposes  of  this  section,  the  expression  'existing  law'  means  the written and  unwritten law  including customary  law  of  Swaziland  as  existing immediately  before  the  commencement  of  this  Constitution,  including  any  Act  of Parliament  or  subordinate  legislation  enacted  or  made  before  that  date  which  is  to come into force on or after that date.
 
@@ -5060,7 +5585,7 @@ with a view to ensuring that a local government area is, or has the potential fo
 
 #### Existing commissions and committees of inquiry
 
-(1) Notwithstanding anything in this Constitution to the contrary any commission or committee of inquiry in existence immediately before the commencement of this Constitution, may continue in existence until the submission of its report or until it is otherwise dissolved in accordance with law.
+270. (1) Notwithstanding anything in this Constitution to the contrary any commission or committee of inquiry in existence immediately before the commencement of this Constitution, may continue in existence until the submission of its report or until it is otherwise dissolved in accordance with law.
 
 152
 
@@ -5072,7 +5597,7 @@ with a view to ensuring that a local government area is, or has the potential fo
 
 #### Pending matters
 
-(1) Where any matter or thing has been commenced before the commencement of this  Constitution  by  a  person  or  authority  that  has  power  for  the  purpose  under  the existing law, that matter or thing may be carried on and completed by the person or authority having power for the purpose after the commencement of this Constitution, and it shall not be necessary for the person or authority to commence the matter or thing afresh.
+271. (1) Where any matter or thing has been commenced before the commencement of this Constitution by a person or authority that has power for the purpose under the existing law, that matter or thing may be carried on and completed by the person or authority having power for the purpose after the commencement of this Constitution, and it shall not be necessary for the person or authority to commence the matter or thing afresh.
 
 (2) This section shall have effect subject to the provisions of this Constitution and to any law made by Parliament.
 
@@ -5106,17 +5631,17 @@ with a view to ensuring that a local government area is, or has the potential fo
 
 #### Succession to property
 
-(1) Subject to the provisions of Chapter  XII, all properties and  all  assets  which immediately  before  the  commencement  of  this  Constitution  were  vested  in  any authority or person for the purposes of, or in the right of the Government or in the Government shall, on the commencement of this Constitution, vest in the Government. Any  property  which  was  liable,  immediately  before  the  commencement  of  this Constitution, to estreat or to be forfeited to the Government shall be liable to estreat or
+277. (1) Subject to the provisions of Chapter XII, all properties and all assets which immediately before the commencement of this Constitution were vested in any authority or person for the purposes of, or in the right of the Government or in the Government shall, on the commencement of this Constitution, vest in the Government.
 
-(2) to be forfeited to the Government under this Constitution.
+(2) Any property which was liable, immediately before the commencement of this Constitution, to estreat or to be forfeited to the Government shall be liable to estreat or to be forfeited to the Government under this Constitution.
 
 #### Succession to contracts
 
-- Where there is subsisting immediately before the commencement of this Constitution, a contract which has been entered into by or on behalf of Government, then on and after the commencement of this Constitution, all rights, liabilities and obligations of the Government under the contract shall be vested in or, as the case may be, subsist against the Government, and the contract shall otherwise continue to be of full force and effect.
+278. Where there is subsisting immediately before the commencement of this Constitution, a contract which has been entered into by or on behalf of Government, then on and after the commencement of this Constitution, all rights, liabilities and obligations of the Government under the contract shall be vested in or, as the case may be, subsist against the Government, and the contract shall otherwise continue to be of full force and effect.
 
 #### International agreements etc
 
-- Where Swaziland or the Government was a party immediately before the commencement  of  this  Constitution  to  any  treaty,  agreement  or  convention,  such  treaty, agreement or convention shall not be affected by the commencement of this Constitution, and Swaziland or the Government as the case may be, shall continue to be party to it.
+279. Where Swaziland or the Government was a party immediately before the commencement of this Constitution to any treaty, agreement or convention, such treaty, agreement or convention shall not be affected by the commencement of this Constitution, and Swaziland or the Government as the case may be, shall continue to be party to it.
 
 _____________
 
@@ -5130,7 +5655,7 @@ _____________
 
 Sections 36, 115, 116, 117, 245, 246, 247
 
-(1) The  King  shall  summon  a  joint  sitting  of  the  Senate  and  the  House  of Assembly -
+1. (1) The King shall summon a joint sitting of the Senate and the House of Assembly -
 
 (a) whenever  the  King  is  informed  by  the  Prime  Minister  that  it  is necessary in order that a joint sitting may deliberate and vote upon the question of approval, extending approval, or revocation of a declaration of a state of emergency under section 37;
 
@@ -5140,13 +5665,13 @@ Sections 36, 115, 116, 117, 245, 246, 247
 
 (d) whenever it is necessary, in order that a joint sitting of the Senate and the House of Assembly may deliberate and vote upon a bill to amend the Constitution in accordance with section 246(1) or 247(1).
 
-- Subject to sub-paragraph (5), the summons of a joint sitting -
+(2) Subject to sub-paragraph (5), the summons of a joint sitting -
 
 (a) shall be by message to the Senate and the House of Assembly through the President or the Speaker, as the case may be;
 
 (b) shall state the business which the sitting is summoned to transact; and
 
-(c) shall  appoint a day for the joint sitting, being not more that fourteen days  after  the  date  of  the  message  in  the  case  of  a  sitting  for  the purpose mentioned in sub-paragraph (1) (a) and not more than twentyone days after the message in any other case.
+(c) shall appoint a day for the joint sitting, being not more that fourteen days after the date of the message in the case of a sitting for the purpose mentioned in sub-paragraph (1) (a) and not more than twenty-one days after the message in any other case.
 
 (3) The  prorogation  of  Parliament  shall  not  affect  any  business  which  a  joint sitting of the Senate and the House of Assembly has, at the date of the prorogation, been summoned to transact in accordance with the provisions of this paragraph or, which is then under consideration by a joint sitting.
 
@@ -5160,9 +5685,9 @@ Sections 36, 115, 116, 117, 245, 246, 247
 
 (5) The provisions of section 135 (which relates to the recall of the chambers of Parliament after a dissolution) shall apply for the purpose of authorising the recall of members of those chambers in a joint sitting as they apply for authorising the recall of the chambers of Parliament.
 
-- The members of the Senate and the House of Assembly shall meet together in joint sitting on the day appointed and on any succeeding day or days that may be necessary and may deliberate and shall vote together upon the business the joint sitting was summoned to transact.
+2. The members of the Senate and the House of Assembly shall meet together in joint sitting on the day appointed and on any succeeding day or days that may be necessary and may deliberate and shall vote together upon the business the joint sitting was summoned to transact.
 
-- Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose  of  deliberating  and  voting  upon  a  bill  in  the  circumstances  mentioned  in  section 116(1) the following provisions shall apply-
+3. Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of deliberating and voting upon a bill in the circumstances mentioned in section 116(1) the following provisions shall apply-
 
 (a) the members of the Senate and the House of Assembly may deliberate and shall vote together upon such admissible amendments to the bill as may be proposed in the joint sitting;
 
@@ -5176,7 +5701,7 @@ Sections 36, 115, 116, 117, 245, 246, 247
 
 (iii) the decision of the person presiding in the joint sitting as to the amendments  that  are  admissible  under  the  provisions  of  this sub-paragraph shall be final.
 
-(1) Where a joint sitting of the Senate and the House of Assembly is summoned for  the  purpose  of  considering  a  bill  referred  back  by  the  King  in  accordance  with section 117(1) the following provisions shall apply -
+4. (1) Where a joint sitting of the Senate and the House of Assembly is summoned for the purpose of considering a bill referred back by the King in accordance with section 117(1) the following provisions shall apply -
 
 156
 
@@ -5192,13 +5717,13 @@ Sections 36, 115, 116, 117, 245, 246, 247
 
 (2) For  the  purposes  of  sub-paragraph  (1)  (b)  there  shall  be  admissible  only amendments to the provisions specified by the King and such other amendments as are relevant to the matters contained in the King's message, and the decision of the person presiding in the joint sitting as to the amendments that are admissible shall be final.
 
-- The Speaker of the House of Assembly and the President of the Senate shall, in that order, preside alternately at joint sittings of the Senate and the House of Assembly and for the purpose  of  this  paragraph  the  sitting  or  sittings  necessary  to  dispose  respectively  of  any motion for the purpose of section 36, of the business relating to any bill referred to a joint sitting in accordance with section 116(1) or 117(1), or of the business relating to any bill to amend the Constitution shall be regarded as a single sitting.
+5. The Speaker of the House of Assembly and the President of the Senate shall, in that order, preside alternately at joint sittings of the Senate and the House of Assembly and for the purpose of this paragraph the sitting or sittings necessary to dispose respectively of any motion for the purpose of section 36, of the business relating to any bill referred to a joint sitting in accordance with section 116(1) or 117(1), or of the business relating to any bill to amend the Constitution shall be regarded as a single sitting.
 
-- A joint sitting shall not be disqualified for the transaction of business by reason of any vacancy in the membership of either chamber.
+6. A joint sitting shall not be disqualified for the transaction of business by reason of any vacancy in the membership of either chamber.
 
-- If  objection  is  taken  by  a  member  of  either  chamber  who  is  present  that  there  are present in that sitting (besides the person presiding) fewer than seventy-five members of the chambers of Parliament and, after such interval as may be prescribed in the rules of procedure applying  to  a  joint  sitting,  the  member  presiding  ascertains  that  there  are  still  fewer  than seventy-five  members  of  the  chambers  of  Parliament  present,  the  member  presiding  shall thereupon adjourn the joint sitting.
+7. If objection is taken by a member of either chamber who is present that there are present in that sitting (besides the person presiding) fewer than seventy-five members of the chambers of Parliament and, after such interval as may be prescribed in the rules of procedure applying to a joint sitting, the member presiding ascertains that there are still fewer than seventy-five members of the chambers of Parliament present, the member presiding shall thereupon adjourn the joint sitting.
 
-(1) Save  as  otherwise  provided  in  this  Constitution,  any  question  proposed  for decision  in  a  joint  sitting  of  the  Senate  and  the  House  of  Assembly  shall  be determined  by  a  majority  of  the  votes  of  the  members  of  Parliament  present  and voting.
+8. (1) Save as otherwise provided in this Constitution, any question proposed for decision in a joint sitting of the Senate and the House of Assembly shall be determined by a majority of the votes of the members of Parliament present and voting.
 
 (2) A  President  elected  from  among  persons  who  are  Senators  or  a  Speaker elected  from  among  persons  who  are  members  of  the  House  (whether  or  not  that President or Speaker is  presiding in  a  joint  sitting)  shall  have  an  original  but  not  a casting vote.
 
@@ -5208,11 +5733,15 @@ Sections 36, 115, 116, 117, 245, 246, 247
 
 [[START OF PAGE 158]]
 
-(3) A President  or  Deputy  President  of  the  Senate  elected  from  among  persons who are not Senators or a Speaker or a Deputy Speaker of the House of Assembly elected from among persons who are not members of the House shall have no vote. (4) The Attorney-General shall have no vote. (5) Subject to the provisions of sections 36(4) 36(7) and 246(1) or 244(1), if upon any question before a joint sitting the votes of the persons entitled to vote are equally divided the motion shall be lost. If  the  rules  of  procedure  of  a  chamber  of  Parliament  make  provision  under which  a  member  who  votes  upon  a  question  in  which  that  member  has  a  direct pecuniary interest shall be deemed not have voted, those rules of procedure shall have
+(3) A President or Deputy President of the Senate elected from among persons who are not Senators or a Speaker or a Deputy Speaker of the House of Assembly elected from among persons who are not members of the House shall have no vote.
 
-(6) effect for determining whether a member of that chamber has voted in a joint sitting.
+(4) The Attorney-General shall have no vote.
 
-- Subject to the provisions of this Schedule, the rules of procedure for the time being of the  House  of  Assembly  shall  apply,  with  the  necessary  modifications,  for  regulating  any proceedings of a joint sitting under this Constitution which correspond to proceedings of the House of Assembly.
+(5) Subject to the provisions of sections 36(4) 36(7) and 246(1) or 244(1), if upon any question before a joint sitting the votes of the persons entitled to vote are equally divided the motion shall be lost.
+
+(6) If the rules of procedure of a chamber of Parliament make provision under which a member who votes upon a question in which that member has a direct pecuniary interest shall be deemed not have voted, those rules of procedure shall have effect for determining whether a member of that chamber has voted in a joint sitting.
+
+9. Subject to the provisions of this Schedule, the rules of procedure for the time being of the House of Assembly shall apply, with the necessary modifications, for regulating any proceedings of a joint sitting under this Constitution which correspond to proceedings of the House of Assembly.
 
 _____________________
 
