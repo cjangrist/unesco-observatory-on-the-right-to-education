@@ -22,7 +22,7 @@ Official Gazette n° Special of 24/12/2015
 # ITEGEKO NSHINGA RYA REPUBULIKA Y'U RWANDA RYO MU 2003 RYAVUGURUWE MU 2015 | THE CONSTITUTION OF THE REPUBLIC OF RWANDA OF 2003 REVISED IN 2015 | LA CONSTITUTION DE LA REPUBLIQUE DU RWANDA DE 2003 RÉVISÉE EN 2015
 --- | --- | ---
 ## ISHAKIRO | TABLE OF CONTENTS | TABLE DES MATIERES
-IRANGASHINGIRO UMUTWE WA MBERE: UBWIGENGE BW'ABANYARWANDA MU GUFATA IBYEMEZO NO GUSUMBA ANDI MATEGEKO KW'ITEGEKO NSHINGA Ingingo ya mbere: Inkomoko y'ubutegetsi bw'Igihugu Ingingo ya 2: Itora Ingingo ya 3: Ugusumba andi mategeko kw'Itegeko Nshinga UMUTWE WA II: REPUBULIKA Y'U RWANDA | PREAMBLE CHAPTER ONE: SOVEREIGNTY OF RWANDANS AND THE SUPREMACY OF THE CONSTITUTION Article One: Source of National sovereignty Article 2: Suffrage Article 3: Supremacy of the Constitution CHAPTER II: REPUBLIC OF RWANDA | PREAMBULE CHAPITRE PREMIER: SOUVERAINETE DU PEUPLE RWANDAIS ET SUPREMATIE DE LA CONSTITUTION Article premier: Source de la souveraineté nationale Article 2: Suffrage Article 3: Suprématie de la Constitution CHAPITRE II: REPUBLIQUE DU RWANDA
+IRANGASHINGIRO UMUTWE WA MBERE: UBWIGENGE BW'ABANYARWANDA MU GUFATA IBYEMEZO NO GUSUMBA ANDI MATEGEKO KW'ITEGEKO NSHINGA Ingingo ya mbere: Inkomoko y'ubutegetsi bw'Igihugu Ingingo ya 2: Itora Ingingo ya 3: Ugusumba andi mategeko kw'Itegeko Nshinga UMUTWE WA II: REPUBULIKA Y'U RWANDA Ingingo ya 4: Repubulika | PREAMBLE CHAPTER ONE: SOVEREIGNTY OF RWANDANS AND THE SUPREMACY OF THE CONSTITUTION Article One: Source of National sovereignty Article 2: Suffrage Article 3: Supremacy of the Constitution CHAPTER II: REPUBLIC OF RWANDA Article 4: The Republic | PREAMBULE CHAPITRE PREMIER: SOUVERAINETE DU PEUPLE RWANDAIS ET SUPREMATIE DE LA CONSTITUTION Article premier: Source de la souveraineté nationale Article 2: Suffrage Article 3: Suprématie de la Constitution CHAPITRE II: REPUBLIQUE DU RWANDA Article 4: La République
 
 2
 
@@ -30,140 +30,39 @@ IRANGASHINGIRO UMUTWE WA MBERE: UBWIGENGE BW'ABANYARWANDA MU GUFATA IBYEMEZO NO 
 
 [[START OF PAGE 3]]
 
-Ingingo ya
-
-5:
-
-Igihugu
-
-n'inzego z'imitegekere
-
-Ingingo ya
-
-6:
-
-Kwegereza
-
-cy'u Rwanda
-
-ubuyobozi
-
-Abaturage
-
-Ingingo ya 7: Umurwa Mukuru
-
-Ingingo ya
-
-8:
-
-Ururimi
-
-n'indimi zemewe mu butegetsi
-
-Ingingo ya
-
-9:
-
-Ibiranga
-
-Rwanda
-
-UMUTWE WA III: AMAHAME REMEZO NO KWISHAKAMO IBISUBIZO
-
-Ingingo ya 10: Amahame remezo
-
-Ingingo ya
-
-11:
-
-Umuco nyarwanda
-
-nk'isoko yo kwishakamo ibisubizo
-
-UMUTWE WA IV: UBURENGANZIRA
-
-N'UBWISANZURE BYA MUNTU
-
-Icyiciro cya mbere:
-
-n'ubwisanzure Uburenganzira Igihugu rw'Igihugu cy'u
-
 Official Gazette n° Special of 24/12/2015
 
-Article
+Ingingo ya 5: Igihugu cy’u Rwanda n’inzego z’imitegekere
+Ingingo ya 6: Kwegereza ubuyobozi Abaturage
+Ingingo ya 7: Umurwa Mukuru
+Ingingo ya 8: Ururimi rw’Igihugu n’indimi zemewe mu butegetsi
+Ingingo ya 9: Ibiranga Igihugu cy'u Rwanda
+UMUTWE WA III: AMAHAME REMEZO NO KWISHAKAMO IBISUBIZO
+Ingingo ya 10: Amahame remezo
+Ingingo ya 11: Umuco nyarwanda nk’isoko yo kwishakamo ibisubizo
+UMUTWE WA IV: UBURENGANZIRA N'UBWISANZURE BYA MUNTU
+Icyiciro cya mbere: Uburenganzira n'ubwisanzure
 
-5:
-
-Territory of
-
-administrative entities
-
+Article 5: Territory of Rwanda and administrative entities
 Article 6: Decentralisation
-
 Article 7: Capital City
-
-Article
-
-8:
-
-National language  and  official
-
-languages
-
+Article 8: National language and official languages
 Article 9: National Symbols of Rwanda
-
-CHAPTER
-
-III
-
-:
-
-PRINCIPLES
-
-AND
-
-FUNDAMENTAL
-
-HOME-GROWN
-
-SOLUTIONS
-
+CHAPTER III: FUNDAMENTAL PRINCIPLES AND HOME-GROWN SOLUTIONS
 Article 10: Fundamental principles
-
-Artile  11:  Rwandan  culture  as  a  source  of
-
-home-grown solutions
-
-CHAPTER  IV:  HUMAN  RIGHTS  AND
-
-FREEDOMS
-
+Artile 11: Rwandan culture as a source of home-grown solutions
+CHAPTER IV: HUMAN RIGHTS AND FREEDOMS
 Section One: Rights and freedoms
 
-Rwanda and Article 5: Territoire du Rwanda  et entités administratives Article 6: Décentralisation Article 7: La Capitale Article  8:  Langue  nationale  et  langues officielles Article 9: Symboles nationaux du Rwanda CHAPITRE
-
-III :
-
-PRINCIPES
-
-FONDAMENTAUX  ET    SOLUTIONS
-
-ENDOGÈNES
-
+Article 5: Territoire du Rwanda et entités administratives
+Article 6: Décentralisation
+Article 7: La Capitale
+Article 8: Langue nationale et langues officielles
+Article 9: Symboles nationaux du Rwanda
+CHAPITRE III : PRINCIPES FONDAMENTAUX ET SOLUTIONS ENDOGÈNES
 Article 10: Principes fondamentaux
-
-Article
-
-11 :
-
-Culture  rwandaise  comme
-
-source de solutions endogènes
-
-CHAPITRE IV: DROITS ET LIBERTES
-
-DE LA PERSONNE
-
+Article 11 : Culture rwandaise comme source de solutions endogènes
+CHAPITRE IV: DROITS ET LIBERTES DE LA PERSONNE
 Section première: Droits et libertés
 
 3
@@ -182,169 +81,37 @@ Ingingo ya 12: Uburenganzira bwo kubaho Ingingo ya 13: Ubudahungabanywa bw'umunt
 
 [[START OF PAGE 5]]
 
-Ingingo  ya  22:  Uburenganzira  bwo  kuba
-
-ahantu hatunganye
-
-Ingingo  ya  23:  Kubaha  imibereho  bwite
-
-y'Umuntu n'iy'umuryango
-
-Ingingo ya
-
-24:
-
-Uburenganzira ku
-
-bwisanzure n'umutekano bya muntu
-
-Ingingo  ya  25:  Uburenganzira  ku  gihugu
-
-no ku bwenegihugu
-
-Ingingo ya 26: Uburenganzira bwo kujya
-
-no gutura aho umuntu ashaka
-
-Ingingo ya 27: Uburenganzira bwo kugira
-
-uruhare mu bw'Igihugu no buyobozi
-
-kujya mu mirimo ya Leta
-
-Ingingo ya 28: Uburenganzira bwo gusaba
-
-ubuhungiro
-
-Ingingo ya 29:Uburenganzira ku butabera
-
-buboneye
-
-Ingingo ya
-
-30:
-
-guhitamo umurimo Uburenganzira bwo
-
 Official Gazette n° Special of 24/12/2015
 
+Ingingo ya 22: Uburenganzira bwo kuba ahantu hatunganye
+Ingingo ya 23: Kubaha imibereho bwite y’Umuntu n’iy’umuryango
+Ingingo ya 24: Uburenganzira ku bwisanzure n’umutekano bya muntu
+Ingingo ya 25: Uburenganzira ku gihugu no ku bwenegihugu
+Ingingo ya 26: Uburenganzira bwo kujya no gutura aho umuntu ashaka
+Ingingo ya 27: Uburenganzira bwo kugira uruhare mu buyobozi bw’Igihugu no kujya mu mirimo ya Leta
+Ingingo ya 28: Uburenganzira bwo gusaba ubuhungiro
+Ingingo ya 29:Uburenganzira ku butabera buboneye
+Ingingo ya 30: Uburenganzira bwo guhitamo umurimo
+
 Article 22: Right to a clean environment
-
-Article  23:  Respect  for  privacy  of  a  person
-
-and of family
-
-Article  24:  Right  to  liberty  and  security  of
-
-person
-
+Article 23: Respect for privacy of a person and of family
+Article 24: Right to liberty and security of person
 Article 25: Right to a country and nationality
-
-Article  26:  Right  to  freedom  of  movement
-
-and residence
-
-Article to
-
-27:
-
-Right participate
-
-Government and public services
-
+Article 26: Right to freedom of movement and residence
+Article 27: Right to participate in Government and public services
 Article 28: Right to seek asylum
+Article 29: Right to due process of law
+Article 30: Right to free choice of employment
 
-Article 29: Right to  due process of law
-
-Article
-
-30:
-
-Right
-
-employment to free choice in of Article propre Article  23:  Respect  de  la  vie  privée  de  la personne et celle de la famille Article
-
-24:
-
-Droit
-
-à
-
-la
-
-sécurité individuelle
-
-Article
-
-25:
-
-Droit
-
-à
-
-nationalité
-
-Article
-
-26:
-
-Droit
-
-à
-
-la liberté
-
-patrie
-
-la
-
-circulation et de résidence
-
-Article
-
-27:
-
-Droit de
-
-direction participer et
-
-à
-
-et
-
-à
-
-liberté
-
-à
-
-des affaires publiques
-
-d'accéder aux fonctions publiques
-
-Article 28: Droit de demande d'asile
-
+Article 22: Droit à un environnement propre
+Article 23: Respect de la vie privée de la personne et celle de la famille
+Article 24: Droit à la liberté et à la sécurité individuelle
+Article 25: Droit à la patrie et à la nationalité
+Article 26: Droit à la liberté de circulation et de résidence
+Article 27: Droit de participer à la direction des affaires publiques et d’accéder aux fonctions publiques
+Article 28: Droit de demande d’asile
 Article 29: Droit à la garantie de justice
-
 Article 30: Droit au libre choix du travail
-
-la
-
-la
-
-de
-
-la
-
-et
-
-22:
-
-Droit
-
-à
-
-un  environnement Ingingo ya 31: Uburenganzira bwo gushyiraho ingaga z'abakozi n'amashyirahamwe y'abakoresha Ingingo ya 32: Uburenganzira ku mishyikirano igamije amasezerano rusange Ingingo ya 33: Uburenganzira bw'abakozi bwo guhagarika imirimo Ingingo ya
 
 5
 
@@ -354,25 +121,35 @@ un  environnement Ingingo ya 31: Uburenganzira bwo gushyiraho ingaga z'abakozi n
 
 Official Gazette n° Special of 24/12/2015
 
-34:
-
-Uburenganzira
-
-mutungo bwite
-
-Ingingo ya 35: Uburenganzira ku mutungo bwite w'ubutaka
-
-Ingingo  ya  36:  Uburenganzira  ku  biteza imbere umuco w'Igihugu
-
+Ingingo ya 31: Uburenganzira bwo gushyiraho ingaga z’abakozi n’amashyirahamwe y’abakoresha
+Ingingo ya 32: Uburenganzira ku mishyikirano igamije amasezerano rusange
+Ingingo ya 33: Uburenganzira bw’abakozi bwo guhagarika imirimo
+Ingingo ya 34: Uburenganzira ku mutungo bwite
+Ingingo ya 35: Uburenganzira ku mutungo bwite w’ubutaka
+Ingingo ya 36: Uburenganzira ku biteza imbere umuco w’Igihugu
 Ingingo ya 37: Ubwisanzure mu mitekerereze no mu myemerere
-
-Ingingo ya 38: Ubwisanzure bw'itangazamakuru, ubwo kugaragaza ibitekerezo n'ubwo guhabwa amakuru
-
+Ingingo ya 38: Ubwisanzure bw’itangazamakuru, ubwo kugaragaza ibitekerezo n’ubwo guhabwa amakuru
 Ingingo ya 39: Uburenganzira bwo kwishyira hamwe
 
-ku Article  31:  Right  to  form  trade  unions  and employers'associations Article 32: Right to collective bargaining Article 33: Right to strike Article 34: Right to private property Article  35:  Right  to  private  ownership  of land Article 36: Right to activities  promoting National Culture Article 37: Freedom of conscience and religion Article  38:  Freedom  of  press,  of  expression and of access to information Article 39: Right to freedom of association Article  31:  Droit  de  former  des  syndicats et des associations d'employeurs Article 32: Droit aux négociations collectives Article 33: Droit à la grève Article 34: Droit à la propriété privée Article  35:  Droit  à  la  propri é t é foncière privée Article 36: Droit aux activités de promotion de la culture nationale Article  37:  Libert é de  conscience  et  de religion Article 38: Liberté de presse, d'expression et d'accès à l'information Article 39: Droit à la libert d'association
+Article 31: Right to form trade unions and employers’associations
+Article 32: Right to collective bargaining
+Article 33: Right to strike
+Article 34: Right to private property
+Article 35: Right to private ownership of land
+Article 36: Right to activities promoting National Culture
+Article 37: Freedom of conscience and religion
+Article 38: Freedom of press, of expression and of access to information
+Article 39: Right to freedom of association
 
-é
+Article 31: Droit de former des syndicats et des associations d’employeurs
+Article 32: Droit aux négociations collectives
+Article 33: Droit à la grève
+Article 34: Droit à la propriété privée
+Article 35: Droit à la propriété foncière privée
+Article 36: Droit aux activités de promotion de la culture nationale
+Article 37: Liberté de conscience et de religion
+Article 38: Liberté de presse, d’expression et d’accès à l’information
+Article 39: Droit à la liberté d’association
 
 6
 
@@ -382,77 +159,35 @@ ku Article  31:  Right  to  form  trade  unions  and employers'associations Arti
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya 40: Uburenganzira bwo guteranira hamwe Article 40: Right to freedom of assembly Article 40: Droit à la liberté de réunion
-
-Ingingo ya
-
-41:
-
-Aho uburenganzira
-
-n'ubwisanzure bigarukira
-
-Icyiciro cya 2: Guteza imbere no kurinda
-
-uburenganzira n'ubwisanzure
-
-Ingingo ya
-
-42:
-
-Guteza imbere
-
-uburenganzira bwa muntu
-
-Ingingo  ya  43:  Kurinda  uburenganzira
-
-n'ubwisanzure
-
-UMUTWE  WA  V:  INSHINGANO  ZA
-
-LETA N'IZ'ABENEGIHUGU
-
+Ingingo ya 40: Uburenganzira bwo guteranira hamwe
+Ingingo ya 41: Aho uburenganzira n’ubwisanzure bigarukira
+Icyiciro cya 2: Guteza imbere no kurinda uburenganzira n'ubwisanzure
+Ingingo ya 42: Guteza imbere uburenganzira bwa muntu
+Ingingo ya 43: Kurinda uburenganzira n’ubwisanzure
+UMUTWE WA V: INSHINGANO ZA LETA N'IZ’ABENEGIHUGU
 Ingingo ya 44: Kubaha umutungo wa Leta
+Ingingo ya 45: Guteza imbere ibikorwa bigamije ubuzima bwiza
+Ingingo ya 46: Kubana neza n’abandi
 
-Ingingo  ya  45:  Guteza  imbere  ibikorwa
+Article 40: Right to freedom of assembly
+Article 41: Limitation of rights and freedoms
+Section 2: Promotion and protection of rights and freedoms
+Article 42: Promotion of human rights
+Article 43: Protection of rights and freedoms
+CHAPTER V: DUTIES OF THE STATE AND OF CITIZENS
+Article 44: Respect for State property
+Article 45: Promotion of activities aimed at good health
+Article 46: Maintaining of good relations with others
 
-bigamije ubuzima bwiza Article 41: Limitation of rights and freedoms Section 2: Promotion and protection of rights and freedoms Article 42: Promotion of human rights Article
-
-43:
-
-Protection
-
-freedoms
-
-CHAPTER  V:  DUTIES  OF  THE  STATE
-
-AND OF CITIZENS
-
-Article 44: Respect for  State property
-
-Article  45:  Promotion  of  activities  aimed  at
-
-good health Article  41:  Limitation  de  l'exercice  des droits et libertés Section  2:  Promotion  et    protection  des droits et des libertés Article  42:  Promotion  des  droits  de  la personne Article 43: Protection des droits et libertés CHAPITRE  V:  DEVOIRS  DE  L'ETAT
-
-ET CEUX DES CITOYENS
-
-Article
-
-44:
-
-Respect du
-
-l'Etat
-
-Article  45:  Promotion  des  activités  visant
-
-la bonne santé
-
-Ingingo ya 46: Kubana neza n'abandi Article  46:  Maintaining  of  good  relations with others Article  46:  Entretien  de  bonnes  relations avec les autres
-
-patrimoine de
-
-of rights and Ingingo ya 47: Kurengera no guteza imbere umuco w'Igihugu Ingingo ya 48: Kugira uruhare mu iterambere ry'Igihugu Ingingo  ya  49:  Kubaha  Itegeko  Nshinga n'andi mategeko Ingingo ya 50: Kwita ku mibereho y'abatishoboye bacitse ku icumu rya Jenoside yakorewe Abatutsi Ingingo ya 51: Kwita ku mibereho y'abafite ubumuga n'abandi batishoboye Ingingo  ya  52:  Kubungabunga  inzibutso za jenoside yakorewe Abatutsi
+Article 40: Droit à la liberté de réunion
+Article 41: Limitation de l’exercice des droits et libertés
+Section 2: Promotion et protection des droits et des libertés
+Article 42: Promotion des droits de la personne
+Article 43: Protection des droits et libertés
+CHAPITRE V: DEVOIRS DE L'ETAT ET CEUX DES CITOYENS
+Article 44: Respect du patrimoine de l’Etat
+Article 45: Promotion des activités visant la bonne santé
+Article 46: Entretien de bonnes relations avec les autres
 
 7
 
@@ -462,31 +197,35 @@ of rights and Ingingo ya 47: Kurengera no guteza imbere umuco w'Igihugu Ingingo 
 
 Official Gazette n° Special of 24/12/2015
 
+Ingingo ya 47: Kurengera no guteza imbere umuco w’Igihugu
+Ingingo ya 48: Kugira uruhare mu iterambere ry’Igihugu
+Ingingo ya 49: Kubaha Itegeko Nshinga n’andi mategeko
+Ingingo ya 50: Kwita ku mibereho y’abatishoboye bacitse ku icumu rya Jenoside yakorewe Abatutsi
+Ingingo ya 51: Kwita ku mibereho y’abafite ubumuga n’abandi batishoboye
+Ingingo ya 52: Kubungabunga inzibutso za jenoside yakorewe Abatutsi
 Ingingo ya 53: Kurengera ibidukikije
-
 UMUTWE WA VI: IMITWE YA POLITIKI
+Ingingo ya 54: Iyemerwa ry’imitwe ya politiki
 
-Ingingo  ya  54:  Iyemerwa  ry'imitwe  ya politiki Article 47: Safeguard and promotion of national culture Article 48: Participation in the development of the country Article  49:  Respect  of  the  Constitution  and other laws Article 50: Welfare of needy survivors of the genocide against Tutsi Article 51: Welfare of persons with disabilities and other needy persons Article 52: Preservation of memorial sites of the genocide against Tutsi Article 53: Protection of the environment CHAPTER VI: POLITICAL ORGANISATIONS
-
+Article 47: Safeguard and promotion of national culture
+Article 48: Participation in the development of the country
+Article 49: Respect of the Constitution and other laws
+Article 50: Welfare of needy survivors of the genocide against Tutsi
+Article 51: Welfare of persons with disabilities and other needy persons
+Article 52: Preservation of memorial sites of the genocide against Tutsi
+Article 53: Protection of the environment
+CHAPTER VI: POLITICAL ORGANISATIONS
 Article 54: Recognition of political organisations
 
 Article 47: Sauvegarde et promotion de la culture nationale
-
 Article 48: Participation au développement du pays
-
-Article  49:  Respect  de  la  Constitution  et les autres lois
-
-Article  50:  Le  bien-être  des  nécessiteux rescapés  du  génocide  perpétré  contre  les Tutsi
-
-Article  51 :  Le  bien-être des  personnes avec handicap et des autres nécessiteux
-
-Article 52: Préservation des sites mémoriaux  du  génocide perpétré contre les Tutsi
-
-Article 53: Protection de  l'environnement
-
+Article 49: Respect de la Constitution et les autres lois
+Article 50: Le bien-être des nécessiteux rescapés du génocide perpétré contre les Tutsi
+Article 51 : Le bien-être des personnes avec handicap et des autres nécessiteux
+Article 52: Préservation des sites mémoriaux du génocide perpétré contre les Tutsi
+Article 53: Protection de l’environnement
 CHAPITRE VI: FORMATIONS POLITIQUES
-
-Article 54: Reconnaissance des formations politiques Ingingo ya 55: Uburenganzira bwo kujya mu mutwe wa politiki
+Article 54: Reconnaissance des formations politiques
 
 8
 
@@ -496,36 +235,37 @@ Article 54: Reconnaissance des formations politiques Ingingo ya 55: Uburenganzir
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya 56: Ibisabwa  imitwe ya politiki
-
+Ingingo ya 55: Uburenganzira bwo kujya mu mutwe wa politiki
+Ingingo ya 56: Ibisabwa imitwe ya politiki
 Ingingo ya 57: Ibibujijwe imitwe ya politiki
-
 Ingingo ya 58: Gukurikirana umutwe wa politiki
-
-Ingingo ya 59: Ihuriro ry'Igihugu Nyunguranabitekerezo ry'Imitwe ya Politiki
-
-Ingingo  ya  60:  Abantu  bakora  imirimo itabangikanywa  no    kuba  mu  mitwe  ya Politiki
-
-UMUTWE WA VII: INZEGO Z'UBUTEGETSI
-
+Ingingo ya 59: Ihuriro ry’Igihugu Nyunguranabitekerezo ry’Imitwe ya Politiki
+Ingingo ya 60: Abantu bakora imirimo itabangikanywa no kuba mu mitwe ya Politiki
+UMUTWE WA VII: INZEGO Z’UBUTEGETSI
 Icyiciro cya mbere: Ingingo Rusange
+Ingingo ya 61: Inzego z'Ubutegetsi bwa Leta
+Ingingo ya 62: Isaranganya ry’ubutegetsi
 
-Ingingo  ya  61:  Inzego  z'Ubutegetsi  bwa
-
-Leta
-
-Ingingo ya 62: Isaranganya ry'ubutegetsi Article 55: Freedom to join a political organisation Article 56: Obligations of political organisations Article 57: Prohibitions for political organisations Article  58:  Holding  accountable  a  political organisation Article  59:  National  Consultative  Forum  of Political Organisations Article 60: Persons whose services are incompatible  with  membership  in  political organisations CHAPTER VII: BRANCHES OF GOVERNMENT
-
+Article 55: Freedom to join a political organisation
+Article 56: Obligations of political organisations
+Article 57: Prohibitions for political organisations
+Article 58: Holding accountable a political organisation
+Article 59: National Consultative Forum of Political Organisations
+Article 60: Persons whose services are incompatible with membership in political organisations
+CHAPTER VII: BRANCHES OF GOVERNMENT
 Section One: General provisions
-
 Article 61: Branches of Government
+Article 62: Power sharing
 
-Article 62: Power sharing Article 55: Liberté d'adhérer à une formation politique Article 56: Obligations aux  formations politiques Article  57:  Interdictions  aux  formations politiques Article 58 : Tenir responsable une formation politique Article 59: Forum National de Concertation des Formations Politiques Article  60:  Personnes  dont  les  fonctions sont  incompatibles  avec  l'adhésion aux formations politiques CHAPITRE VII: POUVOIRS DE L'ETAT
-
+Article 55: Liberté d’adhérer à une formation politique
+Article 56: Obligations aux formations politiques
+Article 57: Interdictions aux formations politiques
+Article 58 : Tenir responsable une formation politique
+Article 59: Forum National de Concertation des Formations Politiques
+Article 60: Personnes dont les fonctions sont incompatibles avec l’adhésion aux formations politiques
+CHAPITRE VII: POUVOIRS DE L’ETAT
 Section première: Dispositions générales
-
-Article 61: Pouvoirs de l'Etat
-
+Article 61: Pouvoirs de l’Etat
 Article 62: Partage du pouvoir
 
 9
@@ -553,145 +293,43 @@ Ingingo ya 69: Aho Inama z'Inteko Rusange z'Imitwe y'Inteko Ishinga Amategeko zi
 
 [[START OF PAGE 11]]
 
-Ingingo ya 70: Iterana ry'inama z'Inteko
-
-Rusange
-
-Ingingo ya 71: Inama zihuriweho n'imitwe
-
-yombi y'Inteko Ishinga Amategeko
-
-Ingingo ya
-
-72:
-
-Ibihembwe by'Imitwe
-
-y'Inteko Ishinga Amategeko
-
-Ingingo ya 73: Imikorere  ya buri Mutwe
-
-w'Inteko Ishinga Amategeko
-
-Ingingo  ya  74:  Ubwisanzure  bwa  buri
-
-Mutwe w'Inteko Ishinga Amategeko
-
-Akiciro ka 2: Umutwe w'Abadepite
-
-Ingingo ya
-
-75:
-
-Abagize Umutwe
-
-w'Abadepite n'itorwa ryabo
-
-Ingingo ya 76: Manda y'Abadepite
-
-Ingingo ya
-
-77:
-
-Kuva
-
-k'Umudepite
-
-Ingingo ya 78: Isimburwa ry'Umudepite
-
-Ingingo ya
-
-79:
-
-Iseswa ry'Umutwe
-
-w'Abadepite ku mpamvu z'amatora
-
-mu mwanya
-
 Official Gazette n° Special of 24/12/2015
 
+Ingingo ya 70: Iterana ry’inama z’Inteko Rusange
+Ingingo ya 71: Inama zihuriweho n’imitwe yombi y’Inteko Ishinga Amategeko
+Ingingo ya 72: Ibihembwe by’Imitwe y’Inteko Ishinga Amategeko
+Ingingo ya 73: Imikorere ya buri Mutwe w’Inteko Ishinga Amategeko
+Ingingo ya 74: Ubwisanzure bwa buri Mutwe w’Inteko Ishinga Amategeko
+Akiciro ka 2: Umutwe w’Abadepite
+Ingingo ya 75: Abagize Umutwe w’Abadepite n’itorwa ryabo
+Ingingo ya 76: Manda y’Abadepite
+Ingingo ya 77: Kuva mu mwanya k'Umudepite
+Ingingo ya 78: Isimburwa ry’Umudepite
+Ingingo ya 79: Iseswa ry'Umutwe w’Abadepite ku mpamvu z'amatora
+
 Article 70: Sittings of plenary sessions
-
-Article 71: Joint sittings of the Chambers of
-
-Parliament
-
-Article
-
-72:
-
-Parliament
-
-Article 73: Functioning of each Chamber of
-
-Parliament
-
-Article  74:  Autonomy  of  each  Chamber  of
-
-Parliament
-
+Article 71: Joint sittings of the Chambers of Parliament
+Article 72: Sessions of Chambers of Parliament
+Article 73: Functioning of each Chamber of Parliament
+Article 74: Autonomy of each Chamber of Parliament
 Subsection 2: The Chamber of Deputies
-
-Article  75: Composition of the Chamber of
-
-Deputies and election of its members
-
+Article 75: Composition of the Chamber of Deputies and election of its members
 Article 76: Term of office of Deputies
-
 Article 77: Vacation of office of Deputies
-
 Article 78: Replacement of a Deputy
+Article 79: Dissolution of the Chamber of Deputies for election purposes
 
-Article  79:  Dissolution  of  the  Chamber  of
-
-Deputies for election purposes
-
-Sessions of Chambers of Article
-
-70:
-
-Tenue des séances de
-
-l'Assemblée Plénière
-
-Article  71:  Séances  communes  des  deux
-
-Chambres  du Parlement
-
-Article  72:  Sessions  des  Chambres  du
-
-Parlement
-
-Article  73:  Fonctionnement    de  chaque
-
-Chambre du Parlement
-
-Article
-
-74:
-
-Autonomie de chaque
-
-Chambre du Parlement
-
-Sous-section 2: La Chambre des  Députés
-
-Article  75:  Composition  de  la  Chambre
-
-des Députés et l'élection de ses membres
-
+Article 70: Tenue des séances de l’Assemblée Plénière
+Article 71: Séances communes des deux Chambres du Parlement
+Article 72: Sessions des Chambres du Parlement
+Article 73: Fonctionnement de chaque Chambre du Parlement
+Article 74: Autonomie de chaque Chambre du Parlement
+Sous-section 2: La Chambre des Députés
+Article 75: Composition de la Chambre des Députés et l’élection de ses membres
 Article 76: Mandat des Députés
-
-Article    77:  Déchéance  du  mandat  d'un
-
-Député
-
-Article 78: Remplacement d'un Député
-
-Article  79: Dissolution de la Chambre des
-
-Députés pour des raisons électorales Akiciro ka 3 : Sena Ingingo ya 80: Abagize Sena Ingingo ya 81: Manda y'abagize Sena Ingingo  ya  82:  Uko  Umusenateri  ava  mu mirimo y'ubusenateri Ingingo ya 83: Isimburwa ry'Umusenateri Ingingo  ya  84:  Inshingano  y'umwihariko ya Sena Ingingo  ya  85:  Ububasha  bwa  Sena  mu gutora amategeko Ingingo  ya  86:  Ububasha  bwa  Sena  mu kwemeza ishyirwaho ry'abayobozi Ingingo  ya  87:  Iyoherezwa  ry'Imishinga y'amategeko  muri Sena Akiciro ka
+Article 77: Déchéance du mandat d’un Député
+Article 78: Remplacement d’un Député
+Article 79: Dissolution de la Chambre des Députés pour des raisons électorales
 
 11
 
@@ -699,75 +337,40 @@ Députés pour des raisons électorales Akiciro ka 3 : Sena Ingingo ya 80: Abagi
 
 [[START OF PAGE 12]]
 
-4:
-
-Itegurwa
-
-ry'amategeko n'iyemezwa
-
 Official Gazette n° Special of 24/12/2015
 
+Akiciro ka 3 : Sena
+Ingingo ya 80: Abagize Sena
+Ingingo ya 81: Manda y’abagize Sena
+Ingingo ya 82: Uko Umusenateri ava mu mirimo y’ubusenateri
+Ingingo ya 83: Isimburwa ry’Umusenateri
+Ingingo ya 84: Inshingano y’umwihariko ya Sena
+Ingingo ya 85: Ububasha bwa Sena mu gutora amategeko
+Ingingo ya 86: Ububasha bwa Sena mu kwemeza ishyirwaho ry’abayobozi
+Ingingo ya 87: Iyoherezwa ry’Imishinga y’amategeko muri Sena
+Akiciro ka 4: Itegurwa n’iyemezwa ry’amategeko
+
 Subsection 3: The Senate
-
 Article 80: Composition of the Senate
-
-Article 81: Term of office of members of the
-
-Senate
-
-Article  82:  Circumstances  for  vacation  of
-
-office of a Senator
-
+Article 81: Term of office of members of the Senate
+Article 82: Circumstances for vacation of office of a Senator
 Article 83: Replacement of a Senator
+Article 84: Particular responsibility for the Senate
+Article 85: Powers of the Senate in legislative matters
+Article 86: Powers of the Senate to approve the appointment of officials
+Article 87: Transmission of draft laws to the Senate
+Subsection 4: Initiation and adoption of laws
 
-Article  84:  Particular  responsibility  for  the
-
-Senate
-
-Article 85: Powers of the Senate in legislative
-
-matters
-
-Article 86: Powers of the Senate to  approve
-
-the appointment of officials
-
-Article 87: Transmission of draft laws to the
-
-Senate
-
-Subsection 4: Initiation and adoption of laws Sous-section 3 : Le Sénat Article 80: Composition du Sénat Article 81: Mandat des membres du Sénat Article 82: Cas de cessation des fonctions de  Sénateur Article 83: Remplacement d'un Sénateur Article Attribution Sénat Article
-
-85:
-
-Compétences
-
-matière législative
-
-Article
-
-86:
-
-Compétence
-
-particulière
-
-du Sénat
-
-du au en Sénat
-
-d'approuver la nomination des autorités
-
-Article  87:  Transmission  des  projets  et
-
-propositions de loi au Sénat
-
-Sous-section 4: Initiation  et adoption des
-
-lois
-
-84:
+Sous-section 3 : Le Sénat
+Article 80: Composition du Sénat
+Article 81: Mandat des membres du Sénat
+Article 82: Cas de cessation des fonctions de Sénateur
+Article 83: Remplacement d’un Sénateur
+Article 84: Attribution particulière au Sénat
+Article 85: Compétences du Sénat en matière législative
+Article 86: Compétence du Sénat d’approuver la nomination des autorités
+Article 87: Transmission des projets et propositions de loi au Sénat
+Sous-section 4: Initiation et adoption des lois
 
 12
 
@@ -782,9 +385,9 @@ Ingingo ya 88: Uburenganzira bwo gutangiza no kuvugurura amategeko | Article 88:
 Ingingo ya 89: Umushinga w'itegeko rishobora kugira ingaruka ku mutungo w'Igihugu | Article 89: Draft of a law likely to affect the national budget | Article 89: Projet ou proposition de loi susceptible d'avoir une implication budgétaire
 Ingingo ya 90: Isuzumwa ry'imishinga y'amategeko muri za Komisiyo | Article 90: Examination of draft laws by Committees | Article 90: Examen des projets ou propositions de loi en commissions
 Ingingo ya 91: Uburyo itegeko ritorwa | Article 91: Procedures for adoption of law | Article 91: Procédure d'adoption d'une loi
-Ingingo ya 92: Ishyirwaho n'iyemezwa ry'amategeko-teka | Article 92: Initiation and adoption of decree- laws | Article 92: Initiation et adoption de décrets-lois
+Ingingo ya 92: Ishyirwaho n'iyemezwa ry'amategeko-teka | Article 92: Initiation and adoption of decree-laws | Article 92: Initiation et adoption de décrets-lois
 Ingingo ya 93: Gusuzuma ku buryo bwihutirwa umushinga w'itegeko cyangwa ikindi kibazo | Article 93: Urgent consideration of a draft law or any other matter | Article 93: Examen en urgence d'une proposition ou d'un projet de loi ou de toute autre question
-Ingingo ya 94: Komisiyo ihuriweho n'Imitwe yombi y'Inteko Ishinga Amategeko | Article 94: Joint c ommittee of Parliament | Article 94: Commission paritaire du Parlement
+Ingingo ya 94: Komisiyo ihuriweho n'Imitwe yombi y'Inteko Ishinga Amategeko | Article 94: Joint committee of Parliament | Article 94: Commission paritaire du Parlement
 Akiciro ka 5: Ubusumbane bw'amategeko n'isobanurampamo ryayo | Subsection 5: Hierarchy of laws and their authentic interpretation | Sous-section 5: Hiérarchie des lois et leur interprétation authentique
 Ingingo ya 95: Ubusumbane bw'amategeko | Article 95: Hierarchy of laws | Article 95: Hiérarchie des lois
 
@@ -796,83 +399,35 @@ Ingingo ya 95: Ubusumbane bw'amategeko | Article 95: Hierarchy of laws | Article
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya
-
-ry'amategeko
-
-Icyiciro cya
-
-Nyubahirizategeko
-
-Ingingo ya
-
-97:
-
-Nyubahirizategeko
-
+Ingingo ya 96: Isobanurampamo ry'amategeko
+Icyiciro cya 3: Ubutegetsi Nyubahirizategeko
+Ingingo ya 97: Ushinzwe Ubutegetsi Nyubahirizategeko
 Akiciro ka mbere: Perezida wa Repubulika
+Ingingo ya 98: Inshingano za Perezida wa Repubulika
+Ingingo ya 99: Ibisabwa umukandida ku mwanya wa Perezida wa Repubulika
+Ingingo ya 100: Igihe n’imigendekere y’itorwa rya Perezida wa Repubulika
+Ingingo ya 101: Manda ya Perezida wa Repubulika
+Ingingo ya 102: Indahiro ya Perezida wa Repubulika
 
-Ingingo ya 98: Inshingano za Perezida wa
+Article 96: Authentic interpretation of laws
+Section 3: The Executive
+Article 97: Exercise of Executive Power
+Subsection One: The President of the Republic
+Article 98: Responsibilities of the President of the Republic
+Article 99: Requirements of a candidate for the office of President of the Republic
+Article 100: Period and procedure for conducting Presidential elections
+Article 101: Term of office of the President of the Republic
+Article 102: Oath of the President of the Republic
 
-Repubulika
-
-Ingingo  ya  99:  Ibisabwa  umukandida  ku
-
-mwanya wa Perezida wa Repubulika
-
-Ingingo ya
-
-100:
-
-Igihe n'imigendekere
-
-y'itorwa rya Perezida wa Repubulika
-
-Ingingo  ya  101:  Manda  ya  Perezida  wa
-
-Repubulika
-
-Ingingo  ya  102:  Indahiro  ya  Perezida  wa
-
-Repubulika
-
-96:
-
-Isobanurampamo
-
-3:
-
-Ubutegetsi
-
-Ushinzwe Ubutegetsi Article 96: Authentic interpretation of laws Section 3: The Executive Article 97: Exercise of Executive Power Subsection One:
-
-The
-
-Republic
-
-Article  98:  Responsibilities  of  the  President
-
-of the Republic
-
-Article 99: Requirements of a candidate for
-
-the office of President of the Republic
-
-Article
-
-100:
-
-Period and procedure for
-
-conducting  Presidential elections
-
-Article  101:  Term  of  office  of  the  President
-
-of the Republic
-
-Article  102:  Oath  of  the  President  of  the
-
-Republic President of the Article 96: Interprétation authentique des lois Section 3: Pouvoir Exécutif Article 97: Exercice   du Pouvoir Exécutif Sous-section première: Le Président de la République Article 98: Attributions du Président de la République Article  99:  Conditions  requises  pour  être candidat à la Présidence de la République Article  100:  Période  et  déroulement  de l'élection présidentielle Article  101 :  Mandat  du  Président  de  la République Article  102:  Serment  du  Président  de  la République
+Article 96: Interprétation authentique des lois
+Section 3: Pouvoir Exécutif
+Article 97: Exercice du Pouvoir Exécutif
+Sous-section première: Le Président de la République
+Article 98: Attributions du Président de la République
+Article 99: Conditions requises pour être candidat à la Présidence de la République
+Article 100: Période et déroulement de l’élection présidentielle
+Article 101 : Mandat du Président de la République
+Article 102: Serment du Président de la République
 
 14
 
@@ -882,53 +437,35 @@ Republic President of the Article 96: Interprétation authentique des lois Secti
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo  ya  103:  Imirimo  itabangikanywa n'umurimo wa Perezida wa Repubulika
-
-Ingingo  ya  104:  Inzibacyuho  ya  Perezida wa Repubulika
-
+Ingingo ya 103: Imirimo itabangikanywa n’umurimo wa Perezida wa Repubulika
+Ingingo ya 104: Inzibacyuho ya Perezida wa Repubulika
 Ingingo ya 105: Isimburwa cyangwa isigarirwaho rya Perezida wa Repubulika
-
-Ingingo  ya  106:  Ububasha  bwo  gushyira umukono ku mategeko
-
+Ingingo ya 106: Ububasha bwo gushyira umukono ku mategeko
 Ingingo ya 107: Ububasha bwo gukoresha referandumu
-
-Ingingo  ya  108:  Ububasha  bwa  Perezida mu byerekeranye n'intambara, ibihe by'amage n'ibihe by'imidugararo
-
-Ingingo  ya  109:  Ububasha  bwo  gutanga imbabazi
-
+Ingingo ya 108: Ububasha bwa Perezida mu byerekeranye n’intambara, ibihe by’amage n'ibihe by’imidugararo
+Ingingo ya 109: Ububasha bwo gutanga imbabazi
 Ingingo ya 110: Ububasha bwo gushyiraho ifaranga
+Ingingo ya 111: Ububasha bwo guhagararira Igihugu
 
-Article  103:  Duties  incompatible  with  the office of the President of the Republic
-
+Article 103: Duties incompatible with the office of the President of the Republic
 Article 104: Presidential transition
-
-Article  105:  Replacing,  or  acting  on  behalf of, the President of the Republic
-
+Article 105: Replacing, or acting on behalf of, the President of the Republic
 Article 106: Powers to promulgate laws
-
 Article 107: Powers to call a referendum
-
-Article  108:  Powers  of  the  President  of  the Republic in matters of war, state of siege and state of emergency
-
+Article 108: Powers of the President of the Republic in matters of war, state of siege and state of emergency
 Article 109: Prerogative of mercy
+Article 110: Power to issue currency
+Article 111: Power to represent the State
 
-Article 110: Power to issue currency Article 103: Fonctions incompatibles avec le mandat du  Président de la République
-
+Article 103: Fonctions incompatibles avec le mandat du Président de la République
 Article 104: Transition présidentielle
-
 Article 105: Remplacement ou intérim du Président de la République
-
-Article  106:  Pouvoir  de  promulgation  de lois
-
-Article 107: Pouvoir d'initier un référendum
-
-Article  108:  Pouvoirs  du  Président  de  la République en  matière  de    guerre,  d'état de siège et d'urgence
-
+Article 106: Pouvoir de promulgation de lois
+Article 107: Pouvoir d’initier un référendum
+Article 108: Pouvoirs du Président de la République en matière de guerre, d’état de siège et d’urgence
 Article 109: Droit de grâce
-
-Article 110: Droit  de frapper  la monnaie
-
-Ingingo ya 111: Ububasha bwo guhagararira Igihugu Article 111: Power to represent the State Article 111: Pouvoir de représenter l'Etat
+Article 110: Droit de frapper la monnaie
+Article 111: Pouvoir de représenter l’Etat
 
 15
 
@@ -938,135 +475,38 @@ Ingingo ya 111: Ububasha bwo guhagararira Igihugu Article 111: Power to represen
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya
-
-112:
-
-Ububasha bwo
-
-gushyiraho amateka ya Perezida
-
-Ingingo  ya  113:  Ibigenerwa  Perezida  wa
-
-Repubulika
-
+Ingingo ya 112: Ububasha bwo gushyiraho amateka ya Perezida
+Ingingo ya 113: Ibigenerwa Perezida wa Repubulika
 Ingingo ya 114: Ukudakurikiranwaho icyaha ku wahoze ari Perezida wa Repubulika
-
-Akiciro ka 2:  Guverinoma
-
+Akiciro ka 2: Guverinoma
 Ingingo ya 115: Abagize Guverinoma
+Ingingo ya 116: Ishyirwaho ry’abagize Guverinoma
+Ingingo ya 117: Inshingano za Guverinoma
+Ingingo ya 118: Irahira ry’abagize Guverinoma
+Ingingo ya 119: Inshingano n’ububasha bya Minisitiri w’Intebe
+Ingingo ya 120: Gushyira umukono w’ingereka ku mategeko no ku mateka
 
-Ingingo  ya  116:  Ishyirwaho  ry'abagize
-
-Guverinoma
-
-Ingingo ya
-
-Guverinoma
-
-Ingingo ya
-
-Guverinoma
-
-Ingingo  ya  119:  Inshingano  n'ububasha
-
-bya Minisitiri w'Intebe
-
-Ingingo ya
-
-120:
-
-Gushyira umukono
-
-w'ingereka ku mategeko no ku mateka
-
-117:
-
-Inshingano
-
-118:
-
-Irahira za ry'abagize Article  112:  Powers  to  enact  presidential orders Article
-
-113:
-
-Benefits accorded to the
-
-President of the Republic
-
+Article 112: Powers to enact presidential orders
+Article 113: Benefits accorded to the President of the Republic
 Article 114: Exemption from prosecution for a former president of the Republic
-
 Subsection 2: The Cabinet
-
 Article 115: Composition of Cabinet
-
-Article
-
-116:
-
-Appointment
-
-members
-
+Article 116: Appointment of Cabinet members
 Article 117: Responsibilities of Cabinet
-
 Article 118: Oath of Cabinet members
+Article 119: Responsibilities and powers of the Prime Minister
+Article 120: Countersigning of laws and orders
 
-Article  119:  Responsibilities  and  powers  of
-
-the Prime Minister
-
-Article
-
-120:
-
-Countersigning
-
-orders of of Cabinet laws and Article  112:  Pouvoir  de  prise  d'arrêtés pr
-
-é
-
-sidentiels
-
-Article
-
-113:
-
-Avantages alloués au
-
-Président de la République
-
-Article  114:  Exonération  de  poursuites pénales au bénéfice  d'un ancien Président de la République
-
+Article 112: Pouvoir de prise d’arrêtés présidentiels
+Article 113: Avantages alloués au Président de la République
+Article 114: Exonération de poursuites pénales au bénéfice d’un ancien Président de la République
 Sous-section 2: Gouvernement
-
-Article
-
-115:
-
-Gouvernement
-
-Article  116:  Nomination  des  membres  du
-
-Gouvernement
-
-Article
-
-117:
-
-Gouvernement
-
-Article  118:  Prestation  de  serment  des
-
-membres du Gouvernement
-
-Article  119:  Attributions  et  compétences
-
-du Premier Ministre
-
-Article  120:  Contresignature  des  lois  et
-
-des arrêtés Composition du Attributions du
+Article 115: Composition du Gouvernement
+Article 116: Nomination des membres du Gouvernement
+Article 117: Attributions du Gouvernement
+Article 118: Prestation de serment des membres du Gouvernement
+Article 119: Attributions et compétences du Premier Ministre
+Article 120: Contresignature des lois et des arrêtés
 
 16
 
@@ -1076,7 +516,7 @@ des arrêtés Composition du Attributions du
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya 121: Ishyirwa mu bikorwa ry'amategeko n'abagize Guverinoma | Article 121: Implementation of laws Cabinet members | by Article 121: Exécution des lois par les membres du Gouvernement
+Ingingo ya 121: Ishyirwa mu bikorwa ry’amategeko n’abagize Guverinoma | Article 121: Implementation of laws by Cabinet members | Article 121: Exécution des lois par les membres du Gouvernement
 --- | --- | ---
 Ingingo ya 122: Inama y'Abaminisitiri | Article 122: The Cabinet meeting | Article 122: Conseil des Ministres
 Ingingo ya 123: Ibitabangikanywa n'imirimo y'abagize Guverinoma ndetse n'ibibagenerwa | Article 123: Incompatibilities with duties of Cabinet members as well as their benefits | Article 123: Incompatibilités avec les fonctions de membres du Gouvernement ainsi que leurs avantages
@@ -1094,21 +534,32 @@ Ingingo ya 127: Kugaragariza icyizere ibikorwa bya Guverinoma | Article 127: Vot
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya 128: Uburyo Umutwe w'Abadepite ugenzura ibikorwa bya Guverinoma
-
-Ingingo ya 129: Gukuraho icyizere Guverinoma,  umwe  cyangwa  benshi  mu bayigize
-
-Ingingo ya 130: Iyegura ritewe no kuvanwaho  icyizere
-
-Ingingo  ya  131:  Uburyo  Sena  igenzura ibikorwa bya Guverinoma
-
-Ingingo ya 132: Iseswa ry'Umutwe w'Abadepite ku mpamvu z'ibibazo bikomereye Igihugu
-
+Ingingo ya 128: Uburyo Umutwe w’Abadepite ugenzura ibikorwa bya Guverinoma
+Ingingo ya 129: Gukuraho icyizere Guverinoma, umwe cyangwa benshi mu bayigize
+Ingingo ya 130: Iyegura ritewe no kuvanwaho icyizere
+Ingingo ya 131: Uburyo Sena igenzura ibikorwa bya Guverinoma
+Ingingo ya 132: Iseswa ry’Umutwe w’Abadepite ku mpamvu z’ibibazo bikomereye Igihugu
 Ingingo ya 133: Kumenyesha Inteko Ishinga Amategeko ibikorwa bya Guverinoma
+Ingingo ya 134: Kumenyesha Inteko Ishinga Amategeko itangiza ry’intambara
+Ingingo ya 135: Ijambo Perezida wa Repubulika ageza ku Nteko Ishinga Amategeko
 
-Ingingo ya 134: Kumenyesha Inteko Ishinga Amategeko itangiza ry'intambara
+Article 128: Modalities of exercising oversight by the Chamber of Deputies over Government Activities
+Article 129: Motion of no confidence against the Government, or one or more of its members
+Article 130: Resignation due to a vote of no confidence
+Article 131: Modalities for exercising oversight by the Senate over Government activities
+Article 132: Dissolution of the Chamber of Deputies due to serious matters of national concern
+Article 133: Informing Parliament of Government activities
+Article 134: Informing the Parliament of a declaration of war
+Article 135: Presidential address to Parliament
 
-Ingingo ya 135: Ijambo Perezida wa Repubulika ageza ku Nteko Ishinga Amategeko Article 128: Modalities of exercising oversight  by  the  Chamber  of  Deputies  over Government  Activities Article 129: Motion of no confidence against the Government,  or  one  or more  of its members Article 130: Resignation due to a vote of no confidence Article 131: Modalities for exercising oversight  by  the  Senate  over  Government activities Article  132:  Dissolution  of  the  Chamber  of Deputies  due  to  serious  matters  of  national concern Article 133: Informing Parliament of Government activities Article  134:  Informing    the  Parliament  of  a declaration of war Article 135: Presidential address Parliament to Article 128: Moyens de contrôle de l'action gouvernementale par la Chambre des Députés Article 129: Motion de censure du Gouvernement,  d'un  ou  de  plusieurs  de ses membres Article 130: Démission suite à une motion de censure Article 131: Moyens de contrôle de l'action gouvernementale par le S é nat Article 132: Dissolution de la Chambre de Députés en raison des questions graves de préocupation nationale Article  133:  Informer  le    Parlement  de l'action du Gouvernement Article  134:  Informer  le  Parlement  de  la déclaration de guerre Article 135: Message adressé au Parlement par le Président de la République Ingingo  ya  136:  Ibihe  by'amage  n'ibihe by'imidugararo Ingingo ya 137: Gutangaza ibihe by'amage n'ibihe by'imidugararo Ingingo ya 138: Inteko Ishinga Amategeko mu bihe by'amage cyangwa ibihe by'imidugararo
+Article 128: Moyens de contrôle de l’action gouvernementale par la Chambre des Députés
+Article 129: Motion de censure du Gouvernement, d’un ou de plusieurs de ses membres
+Article 130: Démission suite à une motion de censure
+Article 131: Moyens de contrôle de l’action gouvernementale par le Sénat
+Article 132: Dissolution de la Chambre de Députés en raison des questions graves de préocupation nationale
+Article 133: Informer le Parlement de l’action du Gouvernement
+Article 134: Informer le Parlement de la déclaration de guerre
+Article 135: Message adressé au Parlement par le Président de la République
 
 18
 
@@ -1116,65 +567,40 @@ Ingingo ya 135: Ijambo Perezida wa Repubulika ageza ku Nteko Ishinga Amategeko A
 
 [[START OF PAGE 19]]
 
-Akiciro ka 4: Izindi nzego za Leta
-
-Ingingo ya 139: Komisiyo z'Igihugu, Inzego Zihariye, Inama z'Igihugu n'Ibigo bya Leta
-
-Akiciro ka 5: Inama y'Igihugu y'umushyikirano na Komite y'abunzi
-
-Ingingo ya 140: Inama y'Igihugu y'Umushyikirano
-
-Ingingo ya 141: Komite y'Abunzi
-
-Akiciro ka 6: Ubushinjacyaha
-
-Ingingo ya 142: Ubushinjacyaha Bukuru
-
 Official Gazette n° Special of 24/12/2015
 
-Article  136:  State  of    Siege  and  state  of Emergency
+Ingingo ya 136: Ibihe by’amage n’ibihe by’imidugararo
+Ingingo ya 137: Gutangaza ibihe by’amage n’ibihe by’imidugararo
+Ingingo ya 138: Inteko Ishinga Amategeko mu bihe by’amage cyangwa ibihe by’imidugararo
+Akiciro ka 4: Izindi nzego za Leta
+Ingingo ya 139: Komisiyo z’Igihugu, Inzego Zihariye, Inama z’Igihugu n’Ibigo bya Leta
+Akiciro ka 5: Inama y’Igihugu y’umushyikirano na Komite y’abunzi
+Ingingo ya 140: Inama y’Igihugu y’Umushyikirano
+Ingingo ya 141: Komite y’Abunzi
+Akiciro ka 6: Ubushinjacyaha
+Ingingo ya 142: Ubushinjacyaha Bukuru
 
+Article 136: State of Siege and state of Emergency
 Article 137: Declaration of state of siege and state of emergency
-
-Article  138:  Parliament  during  a  state  of siege or state of emergency
-
+Article 138: Parliament during a state of siege or state of emergency
 Subsection 4: Other State organs
-
 Article 139: National commissions, specialised organs, national councils and public institutions
-
 Subsection 5: National Umushyikirano Council and Abunzi Committee
-
 Article 140 : National Umushyikirano Council
-
 Article 141: Abunzi Committee
+Subsection 6: Public Prosecution
+Article 142: National Public Prosecution Authority
 
-Subsection 6:  Public Prosecution
-
-Article  142:  National    Public  Prosecution Authority Article 136: Etat de siège et état d'urgence Article 137: Déclaration de l'état de siège et de l'état d'urgence Article  138:  Parlement  durant  l'état  de siège ou l'état d'urgence
-
-Sous-section 4: Autres organes de l'Etat
-
-Article 139: Commissions nationales, organes  spécialisés,  conseils  nationaux  et établissements publics
-
-Sous-section 5 : Conseil National d' Umushyikirano et Comité d' Abunzi
-
-Article
-
-140:
-
-Conseil
-
-d'
-
-Umushyikirano
-
-Article 141: Comité d' Abunzi
-
+Article 136: Etat de siège et état d’urgence
+Article 137: Déclaration de l’état de siège et de l’état d’urgence
+Article 138: Parlement durant l’état de siège ou l’état d’urgence
+Sous-section 4: Autres organes de l’Etat
+Article 139: Commissions nationales, organes spécialisés, conseils nationaux et établissements publics
+Sous-section 5 : Conseil National d’Umushyikirano et Comité d’Abunzi
+Article 140: Conseil National d’Umushyikirano
+Article 141: Comité d’Abunzi
 Sous-section 6: Poursuite judiciaire
-
 Article 142: Organe national de Poursuite judiciaire
-
-National
 
 19
 
@@ -1184,75 +610,35 @@ National
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo ya 143: Ishyirwaho ry'abashinjacyaha Article 143: Appointment of prosecutors Article  143:  Nomination  des  officiers  de poursuite judiciaire
+Ingingo ya 143: Ishyirwaho ry’abashinjacyaha
+Ingingo ya 144: Manda y’abayobozi b’inzego z’ubushinjacyaha
+Ingingo ya 145: Imikoranire y’Urwego rw’Ubushinjacyaha n’izindi nzego
+Ingingo ya 146: Inama Nkuru y’Ubushinjacyaha
+Ingingo ya 147: Ubushinjacyaha bwa Gisirikare
+Icyiciro cya 3: Ubutegetsi bw’Ubucamanza
+Akiciro ka mbere : Ingingo rusange
+Ingingo ya 148: Ubucamanza
+Ingingo ya 149: Inama Nkuru y’Ubucamanza
 
-Ingingo ya
-
-144:
-
-Manda y'abayobozi
-
-b'inzego z'ubushinjacyaha
-
-Ingingo  ya  145:  Imikoranire  y'Urwego
-
-rw'Ubushinjacyaha n'izindi nzego
-
-Ingingo ya
-
-146:
-
-y'Ubushinjacyaha
-
-Ingingo ya
-
-147:
-
-Gisirikare
-
-Icyiciro cya Inama Nkuru Ubushinjacyaha bwa
-
-3:
-
-Ubutegetsi
-
-bw'Ubucamanza
-
-Akiciro ka mbere : Ingingo rusange Article 144: Term  of office of prosecutors in charge of prosecution services Article
-
-145:
-
-Collaboration between the
-
-National    Public  Prosecution  Authority  and
-
-other organs
-
-Article  146:  High  Council  of  the  National
-
-Public Prosecution Authority
-
-Article
-
-147:
-
-Military
-
-Department
-
+Article 143: Appointment of prosecutors
+Article 144: Term of office of prosecutors in charge of prosecution services
+Article 145: Collaboration between the National Public Prosecution Authority and other organs
+Article 146: High Council of the National Public Prosecution Authority
+Article 147: Military Prosecution Department
 Section 3: The Judiciary
-
 Subsection One: General provisions
+Article 148: Judicial Authority
+Article 149: High Council of the Judiciary
 
-Prosecution Article 144: Mandat des responsables des services de poursuite judiciaire Article 145: Collaboration entre l'Organe national de Poursuite judiciaire et d'autres institutions Article 146: Conseil supérieur de l'Organe national de Poursuite  judiciaire Article 147: Auditorat militaire Section 3 : Le Pouvoir judiciaire Sous-Section première:
-
-générales
-
-Ingingo ya 148: Ubucamanza Article 148: Judicial Authority Article 148 : Autorité judiciaire
-
-Ingingo ya 149: Inama Nkuru y'Ubucamanza Article 149: High Council of the Judiciary Article 149 : Conseil supérieur de la Magistrature
-
-Dispositions Ingingo ya 150: Ubwigenge bw'ubutegetsi bw'ubucamanza
+Article 143: Nomination des officiers de poursuite judiciaire
+Article 144: Mandat des responsables des services de poursuite judiciaire
+Article 145: Collaboration entre l’Organe national de Poursuite judiciaire et d’autres institutions
+Article 146: Conseil supérieur de l’Organe national de Poursuite judiciaire
+Article 147: Auditorat militaire
+Section 3 : Le Pouvoir judiciaire
+Sous-Section première: Dispositions générales
+Article 148 : Autorité judiciaire
+Article 149 : Conseil supérieur de la Magistrature
 
 20
 
@@ -1262,45 +648,41 @@ Dispositions Ingingo ya 150: Ubwigenge bw'ubutegetsi bw'ubucamanza
 
 Official Gazette n° Special of 24/12/2015
 
-Ingingo 151: Amahame y'ubucamanza
+Ingingo ya 150: Ubwigenge bw’ubutegetsi bw’ubucamanza
+Ingingo 151: Amahame y’ubucamanza
+Akiciro ka 2: Inkiko n’abacamanza
+Ingingo ya 152: Ibyiciro by’inkiko
+Ingingo ya 153: Ishyirwaho ry’abacamanza bayobora inkiko
+Ingingo ya 154: Ishyirwaho ry’abandi bacamanza
+Ingingo ya 155: Irahira ry’Abacamanza
+Ingingo ya 156: Manda y’abacamanza bayobora inkiko
+Ingingo ya 157: Ivanwaho ry’abacamanza
+UMUTWE WA VIII: KURINDA IGIHUGU N’UMUTEKANO
+Ingingo ya 158: Inzego zishinzwe kurinda Igihugu n’umutekano
 
-Akiciro ka 2: Inkiko n'abacamanza
+Article 150: Independence of the Judiciary
+Article 151: Principles of the judicial system
+Subsection 2: Courts and Judges
+Article 152: Classification of Courts
+Article 153: Appointment of Judges in charge of Courts
+Article 154: Appointment of other Judges
+Article 155: Swearing in of Judges
+Article 156: Term of office of Judges in charge of Courts
+Article 157: Removal of Judges
+CHAPTER VIII: NATIONAL DEFENCE AND SECURITY
+Article 158: National defence and security organs
 
-Ingingo ya 152: Ibyiciro by'inkiko
-
-Ingingo ya 153: Ishyirwaho ry'abacamanza bayobora inkiko
-
-Ingingo ya 154: Ishyirwaho ry'abandi bacamanza
-
-Ingingo ya 155: Irahira ry'Abacamanza
-
-Ingingo  ya  156:  Manda  y'abacamanza bayobora inkiko
-
-Ingingo ya 157: Ivanwaho ry'abacamanza
-
-UMUTWE WA VIII: KURINDA IGIHUGU N'UMUTEKANO
-
-Ingingo ya 158: Inzego zishinzwe kurinda Igihugu n'umutekano Article 150: Independence of the Judiciary Article 151: Principles of the judicial system Subsection 2: Courts and Judges Article 152: Classification of Courts Article 153: Appointment of Judges in charge of Courts Article 154: Appointment of other Judges Article 155: Swearing in of Judges Article  156:  Term  of  office  of  Judges  in charge  of Courts Article 157: Removal of Judges CHAPTER  VIII:  NATIONAL    DEFENCE AND SECURITY
-
-Article  158:  National  defence  and  security organs Article 150: Indépendance du Pouvoir Judiciaire Article 151: Principes du système judiciaire
-
+Article 150: Indépendance du Pouvoir Judiciaire
+Article 151: Principes du système judiciaire
 Sous-section 2: Juridictions et juges
-
-Article 152: Catégories  de juridictions
-
+Article 152: Catégories de juridictions
 Article 153: Nomination des juges responsables des juridictions
-
-Article 154: Nomination d'autres juges
-
-Article  155 : Prestation  de  serment  des juges
-
+Article 154: Nomination d’autres juges
+Article 155 : Prestation de serment des juges
 Article 156: Mandat des juges responsables des juridictions
-
 Article 157: Révocation des juges
-
 CHAPITRE VIII: DEFENSE ET SECURITE NATIONALE
-
-Article  158:  Organes  de  défense  et  de sécurité nationale Official Gazette n° Special of 24/12/2015
+Article 158: Organes de défense et de sécurité nationale
 
 21
 
@@ -1326,6 +708,7 @@ Ingingo ya 166: Raporo y'Umugenzuzi Mukuru w'Imari ya Leta | Article 166: Report
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+Official Gazette n° Special of 24/12/2015
 
 UMUTWE WA X: AMASEZERANO MPUZAMAHANGA | CHAPTER X: INTERNATIONAL TREATIES AND AGREEMENTS | CHAPITRE X: TRAITES ET ACCORDS INTERNATIONAUX
 --- | --- | ---
@@ -1359,19 +742,19 @@ Ingingo ya 177: Igihe iri Tegeko Nshinga ritangira gukurikizwa | Article 177: Co
 
 [[START OF PAGE 25]]
 
+Official Gazette n° Special of 24/12/2015
+
 # ITEGEKO NSHINGA RYA REPUBULIKA Y'U RWANDA RYO MU 2003 RYAVUGURUWE MU 2015
 
 ## IRANGASHINGIRO
 
 Twebwe, Abanyarwanda,
 
-DUHAYE ICYUBAHIRO GIKWIYE abakurambere  b'intwari  bitanze  batizigama bahanga u Rwanda n'intwari zaharaniye umutekano, ubutabera, ubwisanzure, zikanagarura ituze, agaciro n'ishema by'Igihugu cyacu;
+DUHAYE ICYUBAHIRO GIKWIYE abakurambere b’intwari bitanze batizigama bahanga u Rwanda n’intwari zaharaniye umutekano, ubutabera, ubwisanzure, zikanagarura ituze, agaciro n’ishema by’Igihugu cyacu;
 
-DUSHINGIYE ku mahirwe dufite yo kugira Igihugu kimwe, ururimi rumwe, umuco umwe  n'amateka  y'igihe  kirekire  dusangiye bigomba  gutuma  tugira  imyumvire  imwe y'aho tugana;
+DUSHINGIYE ku mahirwe dufite yo kugira Igihugu kimwe, ururimi rumwe, umuco umwe n’amateka y'igihe kirekire dusangiye bigomba gutuma tugira imyumvire imwe y’aho tugana;
 
-TWIBUKA jenoside  yakorewe  Abatutsi igahitana abana b'u Rwanda barenga miliyoni,  twibuka  n'amateka  mabi  yaranze Igihugu cyacu;
-
-Official Gazette n° Special of 24/12/2015
+TWIBUKA jenoside yakorewe Abatutsi igahitana abana b’u Rwanda barenga miliyoni, twibuka n’amateka mabi yaranze Igihugu cyacu;
 
 # THE CONSTITUTION OF THE REPUBLIC OF RWANDA OF 2003 REVISED IN 2015
 
@@ -1379,23 +762,23 @@ Official Gazette n° Special of 24/12/2015
 
 We, the People of Rwanda,
 
-HONOURING our valiant ancestors who sacrificed themselves to found Rwanda and the heroes who struggled for security, justice, freedom,  and  the  restoration  of  our  national tranquillity, dignity and pride;
+HONOURING our valiant ancestors who sacrificed themselves to found Rwanda and the heroes who struggled for security, justice, freedom, and the restoration of our national tranquillity, dignity and pride;
 
-CONSIDERING that we enjoy the privilege of having  one  country,  a  common  language,  a common  culture  and  a  long  shared  history which must enable us to have a common vision of our destiny;
+CONSIDERING that we enjoy the privilege of having one country, a common language, a common culture and a long shared history which must enable us to have a common vision of our destiny;
 
-CONSCIOUS of the genocide committed against Tutsi that  decimated  more  than  a million  sons  and  daughters  of  Rwanda,  and conscious of the tragic history of our country;
+CONSCIOUS of the genocide committed against Tutsi that decimated more than a million sons and daughters of Rwanda, and conscious of the tragic history of our country;
 
-# LA CONSTITUTION DE LA REPUBLIQUE  DU  RWANDA  DE  2003 RÉVISÉE EN 2015
+# LA CONSTITUTION DE LA REPUBLIQUE DU RWANDA DE 2003 RÉVISÉE EN 2015
 
 ## PREAMBULE
 
-Nous, Peuple Rwandais ,
+Nous, Peuple Rwandais,
 
-RENDANT  HOMMAGE à  nos  vaillants ancêtres qui se sont sacrifiés pour l'édification du Rwanda et aux héros qui ont mené  une  lutte  pour  garantir  la  sécurité,  la justice, la liberté et pour restaurer la tranquillité, la dignité et la fierté nationales;
+RENDANT HOMMAGE à nos vaillants ancêtres qui se sont sacrifiés pour l’édification du Rwanda et aux héros qui ont mené une lutte pour garantir la sécurité, la justice, la liberté et pour restaurer la tranquillité, la dignité et la fierté nationales;
 
-CONSIDERANT que nous avons le privilège  d'avoir  un  même  pays,  une  même langue,  une  même  culture  et  une  longue histoire commune qui doivent nous permettre d'avoir une vision commune de notre destin;
+CONSIDERANT que nous avons le privilège d’avoir un même pays, une même langue, une même culture et une longue histoire commune qui doivent nous permettre d’avoir une vision commune de notre destin;
 
-CONSCIENTS du génocide perpétré contre les  Tutsi  qui  a  décimé  plus  d'un  million  de fils  et  filles  du  Rwanda  et  conscients  du passé tragique qu'a connu notre pays;
+CONSCIENTS du génocide perpétré contre les Tutsi qui a décimé plus d’un million de fils et filles du Rwanda et conscients du passé tragique qu’a connu notre pays;
 
 25
 
@@ -1509,7 +892,7 @@ La souveraineté nationale appartient aux Rwandais qui l'exercent directement pa
 
 Le suffrage est universel et égal pour tous les Rwandais.
 
-Tous  les  Rwandais,  hommes  et  femmes, remplissant    les  conditions  légales,  ont    le ibyangombwa  bisabwa  n'amategeko  bafite uburenganzira bwo gutora no gutorwa.
+Tous les Rwandais, hommes et femmes, remplissant les conditions légales, ont le
 
 28
 
@@ -1517,7 +900,9 @@ Tous  les  Rwandais,  hommes  et  femmes, remplissant    les  conditions  légal
 
 [[START OF PAGE 29]]
 
-Itora rikorwa mu buryo butaziguye cyangwa buziguye kandi mu ibanga, keretse iyo biteganywa ukundi n'iri  Tegeko  Nshinga cyangwa andi mategeko.
+ibyangombwa bisabwa n'amategeko bafite uburenganzira bwo gutora no gutorwa.
+
+Itora rikorwa mu buryo butaziguye cyangwa buziguye kandi mu ibanga, keretse iyo biteganywa ukundi n'iri Tegeko Nshinga cyangwa andi mategeko.
 
 Itegeko  Ngenga  rigenga  amatora  riteganya ibigomba kubahirizwa n'uburyo bukoreshwa mu matora.
 
@@ -1551,9 +936,11 @@ Any  law, decision or act contrary to this Constitution is without effect.
 
 ##### Article 4: The Republic
 
-The Rwandan State is an independent, sovereign, democratic, social and secular droit de vote et d'éligibilité.
+The Rwandan State is an independent, sovereign, democratic, social and secular
 
-Le  suffrage  est  direct  ou  indirect  et  secret sauf dans les cas où  la présente Constitution ou une autre loi en dispose autrement.
+droit de vote et d'éligibilité.
+
+Le suffrage est direct ou indirect et secret sauf dans les cas où la présente Constitution ou une autre loi en dispose autrement.
 
 Une  loi organique  régissant les élections détermine les conditions et les modalités de tenue des  élections.
 
@@ -1567,7 +954,7 @@ Toute  loi,  décision  ou  acte  contraires  à  la présente Constitution sont
 
 ##### Article 4: La République
 
-L'Etat rwandais est une République indépendante, souveraine, démocratique, igamije  guteza  imbere  Abanyarwanda  kandi ntishingiye ku idini.
+L'Etat rwandais est une République indépendante, souveraine, démocratique,
 
 29
 
@@ -1575,7 +962,9 @@ L'Etat rwandais est une République indépendante, souveraine, démocratique, ig
 
 [[START OF PAGE 30]]
 
-Ihame shingiro rya Repubulika  y'u Rwanda ni: « Ubutegetsi bw'Abanyarwanda, butangwa  n'Abanyarwanda  kandi  bukorera Abanyarwanda ».
+igamije guteza imbere Abanyarwanda kandi ntishingiye ku idini.
+
+Ihame shingiro rya Repubulika y'u Rwanda ni: « Ubutegetsi bw'Abanyarwanda, butangwa n'Abanyarwanda kandi bukorera Abanyarwanda ».
 
 ##### Ingingo ya 5: Igihugu cy'u Rwanda n'inzego z'imitegekere
 
@@ -1705,7 +1094,7 @@ Official documents may be either in one, two or all of the official languages.
 
 The national symbols of Rwanda are the National  flag,  the  Motto  of  the  Republic,  the Seal of the Republic and the National Anthem.
 
-The flag comprises the following colours: from bottom  to  top  a  green  stripe,  followed  by  a yellow stripe both of which cover half the flag. The  upper  half  is  blue  and  bears  on  its  righthand side the image of the sun with its rays of golden yellow. The sun and its rays are separated by a blue ring.
+The flag comprises the following colours: from bottom to top a green stripe, followed by a yellow stripe both of which cover half the flag. The upper half is blue and bears on its right-hand side the image of the sun with its rays of golden yellow. The sun and its rays are separated by a blue ring.
 
 Une loi organique peut ajouter ou supprimer une langue officielle.
 
@@ -1867,7 +1256,7 @@ Ntawe ushobora kuvutswa ubuzima mu buryo bunyuranyije n'amategeko. | No one shal
 Umuntu ni umunyagitinyiro kandi ni indahungabanywa. | A human being is sacred and inviolable. | La personne humaine est sacrée et inviolable.
 Leta ifite inshingano zo kumwubaha, kumurinda no kumurengera. | The State has an obligation to respect, protect and defend the human being. | L'Etat a l'obligation de respecter, de protéger et de défendre la personne humaine.
 
-de
+
 
 36
 
@@ -2001,9 +1390,11 @@ The family, being the natural foundation of the Rwandan society, is protected by
 
 Both parents have the right and responsibility to raise their children.
 
-The  State  puts  in  place  appropriate  legislation and  organs  for  the  protection  of  the  family, particularly  the  child  and  mother,  in  order  to Toutefois,  le  mariage  monogamique  entre un homme et une femme contracté à l'étranger  conformément  à  la loi du pays de célébration de ce mariage est reconnu.
+The State puts in place appropriate legislation and organs for the protection of the family, particularly the child and mother, in order to
 
-Nul  ne  peut,  qu'il  soit  homme  ou  femme, contracter  le  mariage  que  de  son  libre  et plein consentement.
+Toutefois, le mariage monogamique entre un homme et une femme contracté à l'étranger conformément à la loi du pays de célébration de ce mariage est reconnu.
+
+Nul ne peut, qu'il soit homme ou femme, contracter le mariage que de son libre et plein consentement.
 
 Les époux ont les mêmes droits et les mêmes obligations  au  moment  du  mariage,  dans  le mariage et lors du divorce.
 
@@ -2015,13 +1406,15 @@ La famille, base naturelle de la société rwandaise, est protégée par l'Etat.
 
 Les deux parents ont le droit et la responsabilité d'élever leurs enfants.
 
-L'Etat  met  en  place  une  législation  et  des institutions appropriées pour la protection de la  famille,  de  l'enfant  et  de  la  mère  en umuryango ugire ubwisanzure.
+L'Etat met en place une législation et des institutions appropriées pour la protection de la famille, de l'enfant et de la mère en
 
 39
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+umuryango ugire ubwisanzure.
 
 ##### Ingingo ya 19: Uburenganzira bw'umwana bwo kurengerwa
 
@@ -2109,9 +1502,11 @@ Everyone  has the right to to live in a clean and healthy environment.
 
 The  privacy  of  a  person,  his  or  her  family, home or correspondence shall not be subjected to interference in a manner inconsistent with the law;  the  person's  honour  and  dignity  shall  be respected.
 
-A  person's  home  is  inviolable.  No  search  or entry  into  a  home  shall  be  carried  out  without Une  loi  définit  également  l'organisation  de l'enseignement.
+A person's home is inviolable. No search or entry into a home shall be carried out without
 
-##### Article 21: Droit à une bonne  santé
+Une loi définit également l'organisation de l'enseignement.
+
+##### Article 21: Droit à une bonne santé
 
 Tous  les  Rwandais  ont  droit  à  une  bonne santé.
 
@@ -2123,13 +1518,15 @@ Toute  personne  a  le  droit  de  vivre  dans  un environnement propre et sain.
 
 Nul ne peut faire l'objet d'immixtion arbitraire  dans  sa  vie  privée,  celle  de  sa famille,  son  domicile  ou  sa  correspondance ni d'atteinte à son honneur et à sa dignité.
 
-Le domicile d'une personne est inviolable. A défaut de son consentement, nulle cyangwa kurwinjiramo kubera impamvu z'igenzura nyirarwo atabyemeye, keretse mu bihe no mu buryo biteganyijwe n'amategeko.
+Le domicile d'une personne est inviolable. A défaut de son consentement, nulle
 
 41
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+cyangwa kurwinjiramo kubera impamvu z'igenzura nyirarwo atabyemeye, keretse mu bihe no mu buryo biteganyijwe n'amategeko.
 
 Ibanga ry'amabaruwa n'iry'itumanaho ntirishobora kuzitirwa keretse mu bihe no mu buryo biteganywa n'amategeko.
 
@@ -2499,7 +1896,7 @@ La propriété privée individuelle ou collective est inviolable.
 
 Il  ne  peut  être  porté  atteinte  au  droit  de propriété  que    pour  cause  d'utilité  publique et conformément aux dispositions légales.
 
-##### Article  35:  Droit  à  la  propri é t é foncière privée
+##### Article 35: Droit à la propriété foncière privée
 
 La  propriété  foncière privée  et d'autres droits réels grevant la propriété foncière sont concédés par l'Etat.
 
@@ -2545,7 +1942,7 @@ Freedom of press, of expression and  of  access to  information  are  recognised
 
 Tout  Rwandais  a  le  droit  aux  activités  de promotion de la culture nationale et le devoir de la promouvoir.
 
-##### Article  37:  Libert é de  conscience  et  de religion
+##### Article 37: Liberté de conscience et de religion
 
 La liberté de pensée, de conscience, de religion,  de  culte  et  de  leur  manifestation publique est garantie par l'Etat conformément à la loi.
 
@@ -2563,11 +1960,7 @@ La liberté de presse, d'expression et d'accès à  l'information  sont  reconnu
 
 Ubwisanzure bwo kugaragaza ibitekerezo n'ubwo guhabwa amakuru ntibugomba kubangamira ituze rusange rya rubanda n'imyifatire mbonezabupfura, ukurengera urubyiruko n'abana, n'uburenganzira bw'umwenegihugu bwo kugira icyubahiro n'agaciro, ubwo kutagira uwivanga mu mibereho ye bwite n'iy'umuryango we.
 
-ubwo bwisanzure n'iyubahirizwa ryabwo
-
-Uko n'amategeko.
-
-bukoreshwa biteganywa
+Uko ubwo bwisanzure bukoreshwa n'iyubahirizwa ryabwo biteganywa n'amategeko.
 
 ##### Ingingo ya 39: Uburenganzira bwo kwishyira hamwe
 
@@ -2599,7 +1992,7 @@ La liberté d'expression et la liberté d'accès à l' information ne doivent pa
 
 Les  conditions  d'exercice  et  de  respect  de ces libertés sont déterminées par la loi.
 
-##### Article 39: Droit à la libert é d'association
+##### Article 39: Droit à la liberté d'association
 
 Le droit à la liberté d'association est garanti et  ne  peut  pas  être  soumis  à  l'autorisation préalable.
 
@@ -2615,7 +2008,7 @@ Le droit à la liberté de se rassembler en des réunions pacifiques et sans arm
 
 [[START OF PAGE 52]]
 
-Ubu  burenganzira  bukore s hwa  hakurikijwe ibiteganywa n'amategeko.
+Ubu burenganzira bukoreshwa hakurikijwe ibiteganywa n'amategeko.
 
 Ubu burenganzira ntibubanza gusabirwa uruhushya keretse igihe biteganyijwe n'amategeko.
 
@@ -2643,7 +2036,9 @@ In  exercising  rights  and  freedoms,  everyone  is subject  only  to  limitati
 
 ##### Article 42: Promotion of human rights
 
-The promotion of human rights is a responsibility of the State. This responsibility is Les  conditions  d'exercice  de  ce  droit  sont déterminées  par la loi.
+The promotion of human rights is a responsibility of the State. This responsibility is
+
+Les conditions d'exercice de ce droit sont déterminées par la loi.
 
 Ce droit ne nécessite pas d'autorisation préalable,  sauf  lorsque  cela  est  prévu  par  la loi.
 
@@ -2801,7 +2196,7 @@ L'Etat  a  également  le  devoir  de  veiller  à  la conservation du patrimoin
 
 L'État  a  le  devoir  de  mettre  en  place  des stratégies de développement pour ses citoyens.
 
-Tous les Rwandais ont le devoir de contribuer  au  développement  du  pays  par leur dévouement au travail, en sauvegardant la  paix,  la  démocratie,  l'égalité  et  la  justice sociale  et  de  participer  à  la  défense  de  leur kurengera Igihugu cyabo.
+Tous les Rwandais ont le devoir de contribuer au développement du pays par leur dévouement au travail, en sauvegardant la paix, la démocratie, l'égalité et la justice sociale et de participer à la défense de leur
 
 55
 
@@ -2809,7 +2204,9 @@ Tous les Rwandais ont le devoir de contribuer  au  développement  du  pays  par
 
 [[START OF PAGE 56]]
 
-Itegeko  rigena  ibyerekeye  gukorera  Igihugu mu bwitange.
+kurengera Igihugu cyabo.
+
+Itegeko rigena ibyerekeye gukorera Igihugu mu bwitange.
 
 ##### Ingingo  ya  49:  Kubaha  Itegeko  Nshinga n'andi mategeko
 
@@ -2903,13 +2300,15 @@ L'Etat  et  toute  personne  ont  le  devoir  de préserver et sauvegarder les s
 
 ##### Article 53: Protection de  l'environnement
 
-Toute  personne  a  le  devoir  de  protéger,  de kubungabunga no guteza imbere ibidukikije.
+Toute personne a le devoir de protéger, de
 
 57
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+kubungabunga no guteza imbere ibidukikije.
 
 Leta yishingira kurengera ibidukikije.
 
@@ -2945,7 +2344,9 @@ Political  organisations  fulfilling  the  conditions required  by  law  may  be
 
 Duly  registered  political  oganisations  receive State grants.
 
-An  organic  law  determines  the  modalities  for the  establishment  and  functioning  of  political organisations, the conduct of their leaders, and sauvegarder et de promouvoir l'environnement.
+An organic law determines the modalities for the establishment and functioning of political organisations, the conduct of their leaders, and
+
+sauvegarder et de promouvoir l'environnement.
 
 L'Etat veille à la protection de l'environnement.
 
@@ -2997,7 +2398,9 @@ No Rwandan shall be subject to discrimination on grounds of membership in a give
 
 Political  organisations  must  always  reflect  the unity  of  Rwandans  as  well  as  equality  and complementarity  of  men  and  women  in  the recruitment  of  members,  in  establishing  their leadership organs, and in their functioning and activities.
 
-Political organisations must abide by the Constitution and other laws. They must conform to democratic principles and not compromise  national  unity,  territorial  integrity procédure  d'obtention  des  subventions  de l'Etat.
+Political organisations must abide by the Constitution and other laws. They must conform to democratic principles and not compromise national unity, territorial integrity
+
+procédure d'obtention des subventions de l'Etat.
 
 ##### Article 55: Liberté d'adhérer à une formation politique
 
@@ -3109,7 +2512,7 @@ Lorsque la décision consiste en l' annulation du certificat d'enregistrement de
 
 Le  Forum    national  de  Concertation  des Formations Politiques rassemble les formations  politiques    pour  des  raisons  de dialogue politique, et de construire le consensus et la cohésion nationale.
 
-Le  fonctionnement  du  Forum    national  de Concertation  des  Formations  Politiques  est rikora  biteganywa  n'Itegeko  Ngenga  rigena ishyirwaho n'imikorere by'imitwe ya politiki n'imyitwarire y'abayobozi bayo.
+Le fonctionnement du Forum national de Concertation des Formations Politiques est
 
 61
 
@@ -3117,7 +2520,9 @@ Le  fonctionnement  du  Forum    national  de Concertation  des  Formations  Pol
 
 [[START OF PAGE 62]]
 
-##### Ingingo  ya  60:  Abantu  bakora  imirimo itabangikanywa  no    kuba  mu  mitwe  ya Politiki
+rikora biteganywa n'Itegeko Ngenga rigena ishyirwaho n'imikorere by'imitwe ya politiki n'imyitwarire y'abayobozi bayo.
+
+##### Ingingo ya 60: Abantu bakora imirimo itabangikanywa no kuba mu mitwe ya Politiki
 
 Abacamanza, abashinjacyaha, abasirikare, abapolisi n'abakozi bo mu Rwego rw'Igihugu rushinzwe Iperereza n'Umutekano ntibemerewe kuba mu  mitwe ya politiki.
 
@@ -3248,7 +2653,7 @@ ndahiriye u Rwanda ku mugaragaro:
 
 - 5° ko nzakorana umurava imirimo nshinzwe;
 
-'I, …………………….,,
+“I, …………………….,,
 
 do solemnly swear to Rwanda that I will:
 
@@ -3286,7 +2691,7 @@ je jure solennellement à la Nation:
 
 Nintatira iyi ndahiro, nzabihanirwe n'amategeko.
 
-Imana ibimfashemo'.
+Imana ibimfashemo”.
 
 ### Icyiciro cya 2: Ubutegetsi Nshingamategeko
 
@@ -3308,7 +2713,7 @@ Official Gazette n° Special of 24/12/2015
 
 Should  I  fail  to  honour  this  oath,  may  I  be subjected to the rigours of the law.
 
-So help me God'.
+So help me God”.
 
 ### Section 2: The Legislature
 
@@ -3318,9 +2723,9 @@ So help me God'.
 
 Legislative  power  is  vested  in  a  Parliament composed  of two Chambers:
 
-- 1° the  members  of  the  Chamber  of  Deputies are known as 'Deputies';
+- 1° the members of the Chamber of Deputies are known as “Deputies”;
 
-- 2° the  members  of  the  Senate  are  known  as 'Senators'.
+- 2° the members of the Senate are known as “Senators”.
 
 Parliament debates and passes laws. It legislates and  exercises  control  over  the  Executive  in
 
@@ -3342,7 +2747,7 @@ Le Pouvoir Législatif est exercé par un Parlement composé de deux Chambres :
 
 - 2° le  membres  du  Sénat  portent  le  nom  de « Sénateurs ».
 
-Le Parlement débat et vote des lois. Il légifère et contrôle l'action du ikanagenzura  imikorere  ya  Guverinoma  mu buryo buteganywa n'iri Tegeko Nshinga.
+Le Parlement débat et vote des lois. Il légifère et contrôle l'action du
 
 66
 
@@ -3350,7 +2755,9 @@ Le Parlement débat et vote des lois. Il légifère et contrôle l'action du ika
 
 [[START OF PAGE 67]]
 
-##### Ingingo  ya  65:  Amahame  ngenderwaho y'abagize Inteko Ishinga Amategeko
+ikanagenzura imikorere ya Guverinoma mu buryo buteganywa n'iri Tegeko Nshinga.
+
+##### Ingingo ya 65: Amahame ngenderwaho y'abagize Inteko Ishinga Amategeko
 
 Umuntu  wese  mu  bagize Inteko Ishinga Amategeko  aba  ahagarariye  Igihugu  cyose; ntabwo aba ahagarariye gusa abamutoye cyangwa abamushyizeho, cyangwa se umutwe wa politiki wamutanzeho umukandida mu matora.
 
@@ -3498,19 +2905,23 @@ In case Parliament is in recess, an extraordinary session is convened for this p
 
 Any member of Parliament definitively convicted of a felony or misdemeanour automatically  loses  his  or  her  parliamentary office.
 
-Each Chamber of Parliament through the organic  law  determining  its  functioning  may provide for gross misconduct which may lead to the  removal  from  office  of  a  member  of  that Chamber upon approval of its members. In that Aucun membre du Parlement suspecté d'avoir commis un crime ou un délit ne peut être poursuivi ou arrêté qu'avec l'autorisation de la Chambre  dont  il est membre statuant à la majorité des  deux tiers (2/3) des membres présents sauf s'il est pris en  flagrant  délit  commettant  une  infraction qualifiée de crime ou de délit.
+Each Chamber of Parliament through the organic law determining its functioning may provide for gross misconduct which may lead to the removal from office of a member of that Chamber upon approval of its members. In that
+
+Aucun membre du Parlement suspecté d'avoir commis un crime ou un délit ne peut être poursuivi ou arrêté qu'avec l'autorisation de la Chambre dont il est membre statuant à la majorité des deux tiers (2/3) des membres présents sauf s'il est pris en flagrant délit commettant une infraction qualifiée de crime ou de délit.
 
 En cas de hors session, une session extraordinaire est convoquée à cet effet.
 
 Tout  membre  du  Parlement  condamné  pour crime ou délit  par une juridiction statuant en dernier  ressort  est  d'office  déchu  de  son mandat parlementaire.
 
-Chaque Chambre du Parlement peut prévoir, dans la loi organique portant son fonctionnement, les fautes graves qui entraînent la déchéance du mandat parlementaire après décision des membres de Icyo gihe icyemezo cyo kumukuraho gifatwa ku  bwiganze  bwa  bitatu  bya  gatanu  (3/5) by'abagize Umutwe w'Inteko Ishinga Amategeko bireba.
+Chaque Chambre du Parlement peut prévoir, dans la loi organique portant son fonctionnement, les fautes graves qui entraînent la déchéance du mandat parlementaire après décision des membres de
 
 70
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
+
+Icyo gihe icyemezo cyo kumukuraho gifatwa ku bwiganze bwa bitatu bya gatanu (3/5) by'abagize Umutwe w'Inteko Ishinga Amategeko bireba.
 
 ##### Ingingo ya 69: Aho Inama z'Inteko Rusange z'Imitwe y'Inteko Ishinga Amategeko ziteranira
 
@@ -3580,7 +2991,7 @@ Toutefois,  chaque  Chambre  du  Parlement peut  décider,  à  la  majorité  a
 
 ##### Article  71:  Séances  communes  des  deux Chambres  du Parlement
 
-Les  Chambres du Parlement ne se réunissent en séance commune que pour des questions que  la présente Constitution ou d'autres  lois exigent d'être considérées conjoitement, ou à l'occasion des cérémonies nationales y'Igihugu igomba kwitabira.
+Les Chambres du Parlement ne se réunissent en séance commune que pour des questions que la présente Constitution ou d'autres lois exigent d'être considérées conjoitement, ou à l'occasion des cérémonies nationales
 
 72
 
@@ -3588,7 +2999,9 @@ Les  Chambres du Parlement ne se réunissent en séance commune que pour des que
 
 [[START OF PAGE 73]]
 
-Iyo Inteko Ishinga Amategeko  isuzumira hamwe ikibazo Imitwe yombi y'Inteko Ishinga Amategeko yateranye, Perezida w'Umutwe w'Abadepite ni we uyobora inama, yaba adahari, ikayoborwa na Perezida wa Sena.
+y'Igihugu igomba kwitabira.
+
+Iyo Inteko Ishinga Amategeko isuzumira hamwe ikibazo Imitwe yombi y'Inteko Ishinga Amategeko yateranye, Perezida w'Umutwe w'Abadepite ni we uyobora inama, yaba adahari, ikayoborwa na Perezida wa Sena.
 
 Perezida wa Repubulika, amaze kugisha inama Biro ya buri Mutwe w'Inteko Ishinga Amategeko n'Urukiko rw'Ikirenga, ashobora kugena ibindi bibazo Imitwe yombi y'Inteko Ishinga Amategeko isuzumira hamwe.
 
@@ -3870,13 +3283,15 @@ Les contestations relatives à la décision d'exclure  un  Député  de  la  Cha
 
 ##### Article 78: Remplacement d'un Député
 
-Un Député qui quitte son siège comme prévu par  l'article  77  de  la    présente  Constitution est remplacé conformément à la loi ibiteganywa n'Itegeko Ngenga rigenga amatora.
+Un Député qui quitte son siège comme prévu par l'article 77 de la présente Constitution est remplacé conformément à la loi
 
 78
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
+
+ibiteganywa n'Itegeko Ngenga rigenga amatora.
 
 ##### Ingingo ya 79: Iseswa ry'Umutwe w'Abadepite ku mpamvu z'amatora
 
@@ -4028,7 +3443,9 @@ Senators who are former Heads of the State are not subject to term limits.
 
 ##### Article  82:  Circumstances  for  vacation  of office of a Senator
 
-A  Senator vacates his or her seat in the Les organes chargés de désigner les Sénateurs sont tenus de prendre en considération l'unité nationale et le principe d'égalité entre hommes et femmes.
+A Senator vacates his or her seat in the
+
+Les organes chargés de désigner les Sénateurs sont tenus de prendre en considération l'unité nationale et le principe d'égalité entre hommes et femmes.
 
 Au moins trente pourcent (30%) des Sénateurs élus et  des  Sénateurs  nommés doivent être de sexe féminin.
 
@@ -4042,13 +3459,15 @@ Les  Sénateurs  qui  sont  anciens  Chefs  de l'Etat  ne  sont  assujettis  à 
 
 ##### Article 82: Cas de cessation des fonctions de  Sénateur
 
-Un  Sénateur  quitte  son  siège    dans  les  cas iyo:
+Un Sénateur quitte son siège dans les cas
 
 82
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
+
+iyo:
 
 - 1° yeguye;
 
@@ -4230,7 +3649,9 @@ The Speaker of the Chamber of Deputies transmits  to  the  President  of  the  S
 
 ##### Article 88: Right to initiate and amend laws
 
-Initiation  and  amendment  laws  is  the  right  of every Deputy or the Government acting through Cabinet. However, the Senate initiates the draft organic law determining the functionning of the Le Sénat approuve aussi, en cas de nécessité, d'autres autorités  publiques déterminées  par la loi.
+Initiation and amendment laws is the right of every Deputy or the Government acting through Cabinet. However, the Senate initiates the draft organic law determining the functionning of the
+
+Le Sénat approuve aussi, en cas de nécessité, d'autres autorités publiques déterminées par la loi.
 
 Le  Gouvernement  transmet au Sénat les noms  et  les  renseignements  biographiques des  autorités  visées  au  premier  et  deuxième alinéas du présent article.
 
@@ -4242,13 +3663,15 @@ Le  Président  de  la  Chambre  des  Députés transmet au Président du Sénat
 
 ##### Article 88: Droit d'initiative et d'amendement des lois
 
-Le  droit  d'initiative  et  d'amendement  des lois appartient à  chaque  Député  ou  au Gouvernement en Conseil des Ministres. Toutefois,  la  proposition  de  loi  organique w'Itegeko Ngenga rigenga imikorere ya Sena utangizwa na Sena.
+Le droit d'initiative et d'amendement des lois appartient à chaque Député ou au Gouvernement en Conseil des Ministres. Toutefois, la proposition de loi organique
 
 86
 
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
+
+w'Itegeko Ngenga rigenga imikorere ya Sena utangizwa na Sena.
 
 Utangije umushinga w'itegeko awushyikiriza Perezida w'Umutwe w'Abadepite.
 
@@ -4318,9 +3741,11 @@ Organic laws are passed by a three fifths (3/5) majority  vote  of  Deputies  or
 
 The mode and procedure for voting are provided  for  by  organic  laws  determining  the functioning of Chambers of Parliament.
 
-##### Article 92: Initiation and adoption of decreelaws
+##### Article 92: Initiation and adoption of decree-laws
 
-If it is absolutely impossible for the Parliament Chaque Chambre du Parlement peut, lors de l'adoption  de  l'opportunité  d'un  projet  ou d'une proposition de loi, décider si le projet ou  la  proposition    de    loi  peuvent    être adoptés en séance plénière sans faire l'objet d'un  examen    préalable  par    la  commission compétente.
+If it is absolutely impossible for the Parliament
+
+Chaque Chambre du Parlement peut, lors de l'adoption de l'opportunité d'un projet ou d'une proposition de loi, décider si le projet ou la proposition de loi peuvent être adoptés en séance plénière sans faire l'objet d'un examen préalable par la commission compétente.
 
 ##### Article  91:  Procédure    d'adoption  d'une loi
 
@@ -4332,13 +3757,15 @@ Le mode et la précédure de vote sont déterminées  par  les  lois  organiques
 
 ##### Article 92: Initiation et adoption de décrets-lois
 
-Au cas où le Parlement est dans Amategeko iterana, Perezida wa Repubulika ashyiraho  muri  icyo  gihe  amategeko -teka yemejwe n'Inama y'Abaminisitiri, kandi ayo mategeko -teka agira agaciro k'amategeko asanzwe.
+Au cas où le Parlement est dans
 
 88
 
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
+
+Amategeko iterana, Perezida wa Repubulika ashyiraho muri icyo gihe amategeko-teka yemejwe n'Inama y'Abaminisitiri, kandi ayo mategeko-teka agira agaciro k'amategeko asanzwe.
 
 Ayo  mategeko-teka  ahita  ata  agaciro  iyo atemejwe  n'Inteko  Ishinga  Amategeko  mu gihe ishoboye kongera guterana mu gihembwe gikurikira.
 
@@ -4349,6 +3776,8 @@ Gusuzuma  ku  buryo  bwihutirwa  umushinga w'itegeko  cyangwa  ikindi  kibazo  b
 Iyo bisabwe n'uri mu bagize Inteko Ishinga Amategeko, Umutwe w'Inteko Ishinga Amategeko bireba ufata icyemezo kuri ubwo bwihutirwe.
 
 Mu gihe bisabwe na Guverinoma biremerwa iyo hari impamvu zumvikana.
+
+Iyo byemejwe ko uwo mushinga w'itegeko cyangwa ikibazo byihutirwa bisuzumwa mbere y'ibindi biri ku murongo w'ibyigwa.
 
 Official Gazette n° Special of 24/12/2015
 
@@ -4362,7 +3791,9 @@ Urgent consideration of a draft law or any other matter may be requested by eith
 
 When the petition is submitted by a member of Parliament,  the  relevant  Chamber  decides  on the urgency.
 
-When the petition is submitted by Government, it is granted provided there are reasonable l'impossibilité absolue de siéger, le Président de la République prend des décrets-lois approuvés  en  Conseil  des  Ministres.  Ces décrets-lois ont une valeur de lois ordinaires.
+When the petition is submitted by Government, it is granted provided there are reasonable
+
+l'impossibilité absolue de siéger, le Président de la République prend des décrets-lois approuvés en Conseil des Ministres. Ces décrets-lois ont une valeur de lois ordinaires.
 
 A défaut de leur adoption  par le Parlement à sa  plus  prochaine  session,  ces  décrets-lois perdent toute force de loi.
 
@@ -4372,7 +3803,7 @@ L'examen en urgence  d'une proposition ou d'un projet de loi ou de toute autre q
 
 Lorsque l'examen en urgence est sollicité par un  membre  du  Parlement,  la  Chambre  du Parlement  concernée  se  prononce  sur  cette urgence.
 
-En cas de requête présentée par le Gouvernement,  l'urgence  est  acceptée  s'il Iyo  byemejwe  ko  uwo  mushinga  w'itegeko cyangwa ikibazo byihutirwa bisuzumwa mbere y'ibindi biri ku murongo w'ibyigwa .
+En cas de requête présentée par le Gouvernement, l'urgence est acceptée s'il
 
 89
 
@@ -4394,13 +3825,15 @@ grounds.
 
 When the urgency of the draft law or the matter is confirmed, it is considered before other items on the agenda.
 
-##### Article 94: Joint c ommittee of Parliament
+##### Article 94: Joint committee of Parliament
 
 Draft laws subject to examination by the Senate are  transmitted  to  the  Senate  after  adoption  by the Chamber of Deputies.
 
 If the draft law is not approved by the Senate or the amendments proposed by the Senate are not accepted  by  the  Chamber  of  Deputies,  a  joint committee  composed  of  an  equal  number  of Deputies  and  Senators  is  established  to  make proposals on the outstanding matters.
 
-A  joint  Committee  of  Parliament  may  also  be established, if approved by the Plenary Assembly of each Chamber of Parliament by a existe des motifs convaincants.
+A joint Committee of Parliament may also be established, if approved by the Plenary Assembly of each Chamber of Parliament by a
+
+existe des motifs convaincants.
 
 Quand l'urgence du projet, la proposition de loi ou de la question est acceptée,  le projet, la proposition  ou la question sont examinés avant les autres points à l'ordre du jour.
 
@@ -4410,13 +3843,15 @@ Les projets ou propositions de loi dont l'examen  relève  de  la  compétence  
 
 Lorsqu'un projet ou une proposition de loi ne sont  pas    adoptés  par  le  Sénat  ou  que  des amendements  y  apportés  par  ce  dernier  ne sont pas acceptés par la Chambre des Députés, il est créé une commission paritaire composée à  égalité de nombre de Députés et de Sénateurs chargée de faire des propositions  sur    les  questions  restant  en discussion.
 
-Une commission paritaire du Parlement peut également être mise en place, après approbation par l'Assemblée Plénière de buri Mutwe w'Inteko Ishinga Amategeko ku bwiganze bwa bitatu bya gatanu (3/5) by'abagize buri mutwe w'Inteko Ishinga Amategeko, kugira ngo ifate umwanzuro ku kindi kibazo kigaragaye mu itegeko ryatowe n'Imitwe  yombi  igihe  cyose  ritaroherezwa gutangazwa.
+Une commission paritaire du Parlement peut également être mise en place, après approbation par l'Assemblée Plénière de
 
 90
 
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
+
+buri Mutwe w'Inteko Ishinga Amategeko ku bwiganze bwa bitatu bya gatanu (3/5) by'abagize buri mutwe w'Inteko Ishinga Amategeko, kugira ngo ifate umwanzuro ku kindi kibazo kigaragaye mu itegeko ryatowe n'Imitwe yombi igihe cyose ritaroherezwa gutangazwa.
 
 Inteko  Rusange  ya  buri  Mutwe  w'Inteko Ishinga Amategeko imenyeshwa umwanzuro wumvikanyweho  na  komisiyo  ikawufataho icyemezo.
 
@@ -4702,17 +4137,7 @@ Perezida wa  Repubulika atorerwa  manda y'imyaka itanu (5). Ashobora kongera gut
 
 ##### Ingingo  ya  102:  Indahiro  ya  Perezida  wa Repubulika
 
-Mbere  yo  gutangira  imirimo,  Perezida  wa Repubulika  arahirira  mu  ruhame,  imbere  ya Perezida  w'Urukiko  rw'Ikirenga  muri  aya magambo:
-
-Official Gazette n° Special of 24/12/2015
-
-##### Article  101:  Term  of  office  of  the  President of the Republic
-
-The  President  of  the  Republic  is  elected  for  a five (5) year term. He or she may be re-elected once.
-
-##### Article  102:  Oath  of  the  President  of  the Republic
-
-Before  assuming  office,  the  President  of  the Republic  publicly  swears  the  following  oath before the President of the Supreme Court:
+Mbere yo gutangira imirimo, Perezida wa Repubulika arahirira mu ruhame, imbere ya Perezida w'Urukiko rw'Ikirenga muri aya magambo:
 
 « Jyewe, ………..........., ndahiriye u Rwanda ku mugaragaro:
 
@@ -4722,9 +4147,19 @@ Before  assuming  office,  the  President  of  the Republic  publicly  swears  t
 
 - 3° ko nzakorana umurava imirimo nshinzwe;
 
-- 4° ko  nzaharanira  amahoro  n'ubusugire bw'Igihugu;
+- 4° ko nzaharanira amahoro n'ubusugire bw'Igihugu;
 
-' I, ………………………….  do  solemnly swear to Rwanda that I will:
+Official Gazette n° Special of 24/12/2015
+
+##### Article  101:  Term  of  office  of  the  President of the Republic
+
+The President of the Republic is elected for a five (5) year term. He or she may be re-elected once.
+
+##### Article  102:  Oath  of  the  President  of  the Republic
+
+Before assuming office, the President of the Republic publicly swears the following oath before the President of the Supreme Court:
+
+“ I, …………………………. do solemnly swear to Rwanda that I will:
 
 - 1° remain loyal to the Republic of Rwanda;
 
@@ -4784,7 +4219,7 @@ Official Gazette n° Special of 24/12/2015
 
 Should  I  fail  to  honour  this  oath,  may  I  be subjected to the rigours of the law.
 
-So help me God.'
+So help me God.”
 
 The President of the Republic takes the oath of office  within  thirty  (30)  days  following  his  or her election. His or her oath of office is administered  by  the  President  of  the  Supreme Court.
 
@@ -4806,13 +4241,15 @@ Le Président de la République prête serment endéans  les trente (30) jours �
 
 ##### Article 103: Fonctions incompatibles avec le mandat du  Président de la République
 
-Les fonctions de Président de la République sont  incompatibles  avec  l'exercice  de  tout autre  mandat  électif,  de  tout  emploi  public civil ou militaire ou de toute autre cyangwa se n'undi murimo w'umwuga.
+Les fonctions de Président de la République sont incompatibles avec l'exercice de tout autre mandat électif, de tout emploi public civil ou militaire ou de toute autre
 
 97
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+
+cyangwa se n'undi murimo w'umwuga.
 
 ##### Ingingo  ya  104:  Inzibacyuho  ya  Perezida wa Repubulika
 
@@ -5140,7 +4577,7 @@ Presidential orders on the following matters are approved by Cabinet:
 
 Les  Ambassadeurs  et  les  Envoyés  Spéciaux au Rwanda remettent leurs lettres de créance au  Président de la République.
 
-##### Article  112:  Pouvoir  de  prise  d'arrêtés pr é sidentiels
+##### Article 112: Pouvoir de prise d'arrêtés présidentiels
 
 Le  Président  de  la  République  prend    des arrêtés présidentiels en vertu des pouvoirs lui conférés par la présente Constitution et d'autres lois:
 
@@ -5160,47 +4597,47 @@ Les arrêtés présidentiels portant sur les matières suivantes sont approuvés
 
 - 4° gushyira no kuvana ku mirimo abacamanza n'abashinjacyaha bakurikira :
 
-- Perezida, Visi Perezida n'abacamanza b'Urukiko rw'Ikirenga;
+- a) Perezida, Visi Perezida n'abacamanza b'Urukiko rw'Ikirenga;
 
-- Perezida  na  Visi  Perezida  b'Urukiko Rukuru n'ab'Urukiko Rukuru rw'Ubucuruzi;
+- b) Perezida na Visi Perezida b'Urukiko Rukuru n'ab'Urukiko Rukuru rw'Ubucuruzi;
 
-- Umushinjacyaha Mukuru n'Umushinjacyaha Mukuru Wungirije.
+- c) Umushinjacyaha Mukuru n'Umushinjacyaha Mukuru Wungirije.
 
 - 5° gushyiraho no kuvanaho abayobozi bakurikira:
 
-- Umuyobozi w'Ibiro bya  Perezida  wa Repubulika;
+- a) Umuyobozi w'Ibiro bya Perezida wa Repubulika;
 
-- Abayobora n'abandi ba Komiseri bagize za Komisiyo z'Igihugu, abakuru n'ababungirije b'inzego zihariye  za  Leta  n'ab'ibigo  bya  Leta ndetse n'ibishamikiye kuri Leta bifite ubuzima gatozi;
+- b) Abayobora n'abandi ba Komiseri bagize za Komisiyo z'Igihugu, abakuru n'ababungirije b'inzego zihariye za Leta n'ab'ibigo bya Leta ndetse n'ibishamikiye kuri Leta bifite ubuzima gatozi;
 
 Official Gazette n° Special of 24/12/2015
 
 - 4° appointment and dismissal of the following judges and prosecutors:
 
-- the President, Vice President and Judges of the Supreme Court;
+- a) the President, Vice President and Judges of the Supreme Court;
 
-- the  President  and  Vice  President  of  the High Court, and the President and Vice President of the Commercial High Court;
+- b) the President and Vice President of the High Court, and the President and Vice President of the Commercial High Court;
 
-- the Prosecutor General  and the Deputy Prosecutor General.
+- c) the Prosecutor General and the Deputy Prosecutor General.
 
 - 5° appointment and dismissal of the following officials:
 
-- the Director of Cabinet in the Office of the President of the Republic;
+- a) the Director of Cabinet in the Office of the President of the Republic;
 
-- Chairpersons,  Vice  Chairpersons    and other Commissioners of national commissions, Heads and Deputy Heads of Government specialised organs, public  institutions  and  parastatals  with legal personality;
+- b) Chairpersons, Vice Chairpersons and other Commissioners of national commissions, Heads and Deputy Heads of Government specialised organs, public institutions and parastatals with legal personality;
 
-- 4° la  nomination  et  la  révocation  des juges et des procureurs suivants:
+- 4° la nomination et la révocation des juges et des procureurs suivants:
 
-- le  Président,  le  Vice-Président  et  les juges  de la Cour Suprême;
+- a) le Président, le Vice-Président et les juges de la Cour Suprême;
 
-- le Président et le Vice-président de la Haute Cour ainsi que le Président  et le Vice-président de la Haute Cour de Commerce;
+- b) le Président et le Vice-président de la Haute Cour ainsi que le Président et le Vice-président de la Haute Cour de Commerce;
 
-- le Procureur Général  et le Procureur Général  Adjoint.
+- c) le Procureur Général et le Procureur Général Adjoint.
 
-- 5° la  nomination  et  la  révocation  des autorités suivantes :
+- 5° la nomination et la révocation des autorités suivantes :
 
-- le Directeur de Cabinet à la Présidence de la République;
+- a) le Directeur de Cabinet à la Présidence de la République;
 
-- les Présidents, Vice-présidents et autres Commissaires des commissions nationales, les responsables et responsables adjoints  des  organes  spécialisés  de l'Etat  et  des  établissements  publics
+- b) les Présidents, Vice-présidents et autres Commissaires des commissions nationales, les responsables et responsables adjoints des organes spécialisés de l'Etat et des établissements publics
 
 106
 
@@ -5208,45 +4645,45 @@ Official Gazette n° Special of 24/12/2015
 
 [[START OF PAGE 107]]
 
-- Abayobozi n'Abayobozi bungirije ba za Kaminuza za Leta n'ab'ibigo by'amashuri makuru ya Leta;
+- c) Abayobozi n'Abayobozi bungirije ba za Kaminuza za Leta n'ab'ibigo by'amashuri makuru ya Leta;
 
-- Umunyamabanga wihariye wa Perezida wa Repubulika;
+- d) Umunyamabanga wihariye wa Perezida wa Repubulika;
 
-- Abajyanama muri Perezidansi ya Repubulika ;
+- e) Abajyanama muri Perezidansi ya Repubulika ;
 
-- Abayobozi b'imirimo muri Perezidansi ya Repubulika;
+- f) Abayobozi b'imirimo muri Perezidansi ya Repubulika;
 
-- Abanyamabanga  Bakuru  mu  Nteko Ishinga Amategeko n'ababungirije, Umunyamabanga Mukuru mu Rukiko rw'Ikirenga, Umunyamabanga Mukuru mu Bushinjyacyaha Bukuru, Abanyamabanga  Bahoraho  muri  za Minisiteri  n'Abanyamabanga  Bakuru b'izindi nzego za Leta;
+- g) Abanyamabanga Bakuru mu Nteko Ishinga Amategeko n'ababungirije, Umunyamabanga Mukuru mu Rukiko rw'Ikirenga, Umunyamabanga Mukuru mu Bushinjyacyaha Bukuru, Abanyamabanga Bahoraho muri za Minisiteri n'Abanyamabanga Bakuru b'izindi nzego za Leta;
 
-- abandi bayobozi  b'inzego za Leta bagenwa n'itegeko;
+- h) abandi bayobozi b'inzego za Leta bagenwa n'itegeko;
 
 Official Gazette n° Special of 24/12/2015
 
-- Heads and Deputy Heads of Public Universities  and  institutions  of  higher learning;
+- c) Heads and Deputy Heads of Public Universities and institutions of higher learning;
 
-- the  Principal  Private  Secretary  to  the President of the Republic;
+- d) the Principal Private Secretary to the President of the Republic;
 
-- Advisers in the Office of the President;
+- e) Advisers in the Office of the President;
 
-- Heads  of  services  in  the  Office  of  the President;
+- f) Heads of services in the Office of the President;
 
-- Clerks of Parliament and their Deputies, Secretary General of the Supreme Court, Secretary General of the National Public Prosecution Authority, Permanent Secretaries in Ministries and Secretaries General of other public institutions;
+- g) Clerks of Parliament and their Deputies, Secretary General of the Supreme Court, Secretary General of the National Public Prosecution Authority, Permanent Secretaries in Ministries and Secretaries General of other public institutions;
 
-- other heads of  public institutions as the law may determine;
+- h) other heads of public institutions as the law may determine;
 
-- et paraétatiques dotés de la personnalité juridique ;
+et paraétatiques dotés de la personnalité juridique ;
 
-- les responsables et responsables adjoints des universités et des institutions publiques d'enseignement supérieur;
+- c) les responsables et responsables adjoints des universités et des institutions publiques d'enseignement supérieur;
 
-- le  Secrétaire  Particulier  du  Président de la République ;
+- d) le Secrétaire Particulier du Président de la République ;
 
-- les  Conseillers  à  la  Présidence  de  la République ;
+- e) les Conseillers à la Présidence de la République ;
 
-- les chefs de service à la Présidence de la République;
+- f) les chefs de service à la Présidence de la République;
 
-- les secrétaires généraux du Parlement et leurs adjoints, le Secrétaire Général de la Cour Suprême,  le  Secrétaire  Général    de l'Organe National de Poursuite Judiciaire, les Secrétaires Permanents des Ministères et les Secrétaires Généraux d'autres institutions de l'Etat ;
+- g) les secrétaires généraux du Parlement et leurs adjoints, le Secrétaire Général de la Cour Suprême, le Secrétaire Général de l'Organe National de Poursuite Judiciaire, les Secrétaires Permanents des Ministères et les Secrétaires Généraux d'autres institutions de l'Etat ;
 
-- les  autres  responsables    des  organes de l'Etat déterminés par la loi ;
+- h) les autres responsables des organes de l'Etat déterminés par la loi ;
 
 107
 
@@ -5350,7 +4787,7 @@ Minisitiri w'Intebe ashyirwaho bitarenze iminsi cumi n'itanu (15) nyuma y'irahir
 
 Guverinoma ishyira mu bikorwa politiki y'Igihugu Perezida wa Repubulika yumvikanyeho n'Inama y'Abaminisitiri.
 
-Guverinoma  ibazwa  ibyo  ikora  na  Perezida wa Repubulika n`Inteko Ishinga Amategeko. Uburyo  Guverinoma  ibazwamo  ibyo  ikora n'Inteko Ishinga Amategeko buteganywa n'iri Tegeko Nshinga.
+Guverinoma ibazwa ibyo ikora na Perezida wa Repubulika n'Inteko Ishinga Amategeko. Uburyo Guverinoma ibazwamo ibyo ikora n'Inteko Ishinga Amategeko buteganywa n'iri Tegeko Nshinga.
 
 ##### Ingingo ya 118: Irahira ry'abagize Guverinoma
 
@@ -5370,19 +4807,21 @@ The Cabinet is  accountable to the President of the Republic and the Parliament.
 
 ##### Article 118: Oath of Cabinet members
 
-Before  assuming  office,  the  Prime  Minister, Les  autres  membres  du  Gouvernement  sont nommés  par  le  Président  de  la  République après consultation du Premier Ministre.
+Before assuming office, the Prime Minister,
 
-Le  Premier  Ministre  est  nommé  endéans quinze  (15)  jours  suivant  la  prestation  de serment  du  Président  de  la  République.  Les autres membres du Gouvernement sont nommés endéans quinze (15) jours suivant la nomination du Premier Ministre.
+Les autres membres du Gouvernement sont nommés par le Président de la République après consultation du Premier Ministre.
+
+Le Premier Ministre est nommé endéans quinze (15) jours suivant la prestation de serment du Président de la République. Les autres membres du Gouvernement sont nommés endéans quinze (15) jours suivant la nomination du Premier Ministre.
 
 ##### Article 117: Attributions du Gouvernement
 
-Le Gouvernement exécute la politique nationale  arrêtée  de  commun  accord  par  le Président de la République et le Conseil des Ministres.
+Le Gouvernement exécute la politique nationale arrêtée de commun accord par le Président de la République et le Conseil des Ministres.
 
-Le  Gouvernement  est  responsable  devant  le Président  de  la  République  et  le  Parlement. Les modalités de contrôle de l'action gouvernementale par le Parlement sont déterminées par la présente Constitution.
+Le Gouvernement est responsable devant le Président de la République et le Parlement. Les modalités de contrôle de l'action gouvernementale par le Parlement sont déterminées par la présente Constitution.
 
-##### Article  118:  Prestation  de  serment  des membres du Gouvernement
+##### Article 118: Prestation de serment des membres du Gouvernement
 
-Avant d'entrer en fonction, le Premier w'Intebe,  Abaminisitiri,  Abanyamabanga  ba Leta n'abandi bagize Guverinoma barahirira mu ruhame imbere ya Perezida wa Repubulika.
+Avant d'entrer en fonction, le Premier
 
 110
 
@@ -5390,7 +4829,9 @@ Avant d'entrer en fonction, le Premier w'Intebe,  Abaminisitiri,  Abanyamabanga 
 
 [[START OF PAGE 111]]
 
-##### Ingingo  ya  119:  Inshingano  n'ububasha bya Minisitiri w'Intebe
+w'Intebe, Abaminisitiri, Abanyamabanga ba Leta n'abandi bagize Guverinoma barahirira mu ruhame imbere ya Perezida wa Repubulika.
+
+##### Ingingo ya 119: Inshingano n'ububasha bya Minisitiri w'Intebe
 
 Minisitiri w'Intebe afite inshingano n'ububasha bikurikira:
 
@@ -5446,35 +4887,35 @@ Le  Premier  Ministre  a  les  attributions  et compétences suivantes:
 
 - 8°  ashyira  umukono  ku  mateka  yerekeye ishyirwa ku mirimo n'ivanwaho ry'abakozi bakuru bakurikira:
 
-- Umuyobozi w'Ibiro bya Minisitiri w'Intebe;
+- a) Umuyobozi w'Ibiro bya Minisitiri w'Intebe;
 
-- Abanyamabanga  Nshingwabikorwa  ba za Komisiyo z'Igihugu;
+- b) Abanyamabanga Nshingwabikorwa ba za Komisiyo z'Igihugu;
 
 Official Gazette n° Special of 24/12/2015
 
-- 5° convene Cabinet meetings, prepare the agenda of Cabinet meetings in consultation with other Cabinet members, and submit it to  the  President  of  the  Republic  and  other members of Cabinet at least three (3) days before the meeting, except for urgent matters considered by extraordinary Cabinet meetings;
+- 5° convene Cabinet meetings, prepare the agenda of Cabinet meetings in consultation with other Cabinet members, and submit it to the President of the Republic and other members of Cabinet at least three (3) days before the meeting, except for urgent matters considered by extraordinary Cabinet meetings;
 
-- 6° chair Cabinet meetings. However, when the President  of  the  Republic  is  in  attendance, he or she chairs;
+- 6° chair Cabinet meetings. However, when the President of the Republic is in attendance, he or she chairs;
 
-- 7° sign orders establishing and determining the organisation  and  responsibilities  of  public institutions under his or her authority;
+- 7° sign orders establishing and determining the organisation and responsibilities of public institutions under his or her authority;
 
-- 8° sign  orders  appointing  or  dismissing  the following senior civil servants:
+- 8° sign orders appointing or dismissing the following senior civil servants:
 
-- Director  of  Cabinet  in  the  Office  of  the Prime Minister;
+- a) Director of Cabinet in the Office of the Prime Minister;
 
-- Executive Secretaries of national commissions;
+- b) Executive Secretaries of national commissions;
 
-- 5° convoquer le Conseil des Ministres, établir  son  ordre  du  jour  en  consultation avec les autres membres du Gouvernement  et le  communiquer  au Président de la République et aux autres membres  du  Gouvernement  au  moins trois (3) jours  avant la tenue du Conseil, sauf les cas d'urgence dévolus aux Conseils extraordinaires des Ministres;
+- 5° convoquer le Conseil des Ministres, établir son ordre du jour en consultation avec les autres membres du Gouvernement et le communiquer au Président de la République et aux autres membres du Gouvernement au moins trois (3) jours avant la tenue du Conseil, sauf les cas d'urgence dévolus aux Conseils extraordinaires des Ministres;
 
-- 6° présider le Conseil des Ministres. Toutefois, lorsque le Président de la République  est  présent,  il  en  assure  la présidence;
+- 6° présider le Conseil des Ministres. Toutefois, lorsque le Président de la République est présent, il en assure la présidence;
 
 - 7° signer les arrêtés portant création, et déterminant l'organisation et les attributions des institutions de l'Etat sous sa supervision;
 
-- 8° signer  les  arrêtés  de  nomination  et  de cessation de fonction des hauts fonctionnaires suivants:
+- 8° signer les arrêtés de nomination et de cessation de fonction des hauts fonctionnaires suivants:
 
-- le Directeur de Cabinet du Premier Ministre;
+- a) le Directeur de Cabinet du Premier Ministre;
 
-- les Secrétaires Exécutifs des commissions nationales;
+- b) les Secrétaires Exécutifs des commissions nationales;
 
 112
 
@@ -5482,41 +4923,41 @@ Official Gazette n° Special of 24/12/2015
 
 [[START OF PAGE 113]]
 
-- Abajyanama  n'Abakuru  b'imirimo  mu Biro bya Minisitiri w'Intebe;
+- c) Abajyanama n'Abakuru b'imirimo mu Biro bya Minisitiri w'Intebe;
 
-- Abandi bakozi bakuru mu bigo bya Leta igihe ntaho biteganyijwe ukundi;
+- d) Abandi bakozi bakuru mu bigo bya Leta igihe ntaho biteganyijwe ukundi;
 
-- Abayobozi Bakuru n'Abayobozi mu Nteko  Ishinga  Amategeko,  mu  Rukiko rw'Ikirenga,  muri  Serivisi  za  Minisitiri w'Intebe, mu  Bushinjacyaha Bukuru, muri  Minisiteri  no  mu  zindi  nzego  za Leta;
+- e) Abayobozi Bakuru n'Abayobozi mu Nteko Ishinga Amategeko, mu Rukiko rw'Ikirenga, muri Serivisi za Minisitiri w'Intebe, mu Bushinjacyaha Bukuru, muri Minisiteri no mu zindi nzego za Leta;
 
-- Abashinjacyaha bo ku rwego rw'Igihugu, Abashinjacyaha bo ku Rwego  Rwisumbuye  n'Abashinjacyaha bo ku Rwego rw'Ibanze;
+- f) Abashinjacyaha bo ku rwego rw'Igihugu, Abashinjacyaha bo ku Rwego Rwisumbuye n'Abashinjacyaha bo ku Rwego rw'Ibanze;
 
-- Abakozi bashyirwaho mu rwego rumwe n'abavuzwe muri iyi ngingo kimwe n'abandi bayobozi bateganywa n'itegeko iyo bibaye ngombwa.
+- g) Abakozi bashyirwaho mu rwego rumwe n'abavuzwe muri iyi ngingo kimwe n'abandi bayobozi bateganywa n'itegeko iyo bibaye ngombwa.
 
 Abandi bakozi bashyirwaho hakurikijwe amategeko yihariye.
 
 Official Gazette n° Special of 24/12/2015
 
-- Advisers and Heads of service in the Office of the Prime Minister;
+- c) Advisers and Heads of service in the Office of the Prime Minister;
 
-- Other Senior officials of public institutions where not otherwise specified;
+- d) Other Senior officials of public institutions where not otherwise specified;
 
-- Director Generals and Directors in Parliament, the Supreme Court,  the Office of the Prime Minister, the National Public Prosecution Authority, Ministries and other public institutions;
+- e) Director Generals and Directors in Parliament, the Supreme Court, the Office of the Prime Minister, the National Public Prosecution Authority, Ministries and other public institutions;
 
-- National  Prosecutors,  Prosecutors  at  the intermediate and primary levels;
+- f) National Prosecutors, Prosecutors at the intermediate and primary levels;
 
-- Civil  servants  appointed  at  a  similar  level as  those  specified  in  this  Article  and  any other  official  as  the  law  may  determine when necessary.
+- g) Civil servants appointed at a similar level as those specified in this Article and any other official as the law may determine when necessary.
 
 Other Civil servants are appointed in accordance with specific laws.
 
-- les  Conseillers  et  Chefs  de  service  dans les services du Premier Ministre;
+- c) les Conseillers et Chefs de service dans les services du Premier Ministre;
 
-- les autres hauts cadres des établissements publics sauf s'il en est disposé autrement;
+- d) les autres hauts cadres des établissements publics sauf s'il en est disposé autrement;
 
-- les Directeurs Généraux et Directeurs  au sein du  Parlement, de la Cour Suprême, des services du Premier  Ministre, de l'Organe National de Poursuite Judiciaire, des Ministères et autres institutions publiques ;
+- e) les Directeurs Généraux et Directeurs au sein du Parlement, de la Cour Suprême, des services du Premier Ministre, de l'Organe National de Poursuite Judiciaire, des Ministères et autres institutions publiques ;
 
-- les procureurs nationaux, les officiers de poursuite  judiciaire  au  niveau  de  grande instance et ceux d'instance  de base;
+- f) les procureurs nationaux, les officiers de poursuite judiciaire au niveau de grande instance et ceux d'instance de base;
 
-- les fonctionnaires nommés à des fonctions  de  même  rang  que  ceux  cités au    présent  article  et  d'autres  dirigeants déterminés par la loi si nécessaire.
+- g) les fonctionnaires nommés à des fonctions de même rang que ceux cités au présent article et d'autres dirigeants déterminés par la loi si nécessaire.
 
 Les autres fonctionnaires sont nommés conformément à des lois spécifiques.
 
@@ -5848,9 +5289,9 @@ Les moyens d'information et de contrôle de la Chambre des Députés sur l'actio
 
 Une  loi  organique  fixe  les  conditions  et  les procédures relatives aux moyens d'information et de contrôle de l'action gouvernementale.
 
-##### Article 129: Motion de censure du Gouvernement,  d'un  ou  de  plusieurs  de ses membres
+##### Article 129: Motion de censure du Gouvernement, d'un ou de plusieurs de ses membres
 
-La  Chambre  des  Députés  peut  mettre  en cause la responsabilité du Gouvernement ou benshi  mu  bagize  Guverinoma  ukoresheje itora ry'icyemezo cyo kubavanaho icyizere.
+La Chambre des Députés peut mettre en cause la responsabilité du Gouvernement ou
 
 120
 
@@ -5858,7 +5299,9 @@ La  Chambre  des  Députés  peut  mettre  en cause la responsabilité du Gouver
 
 [[START OF PAGE 121]]
 
-Icyifuzo cyo gukuraho icyizere cyakirwa gusa nyuma yo kubarizwa mu ruhame rw'Inteko kandi kigashyirwaho umukono nibura na kimwe cya gatanu (1/5) cy'abagize Umutwe w'Abadepite  iyo  bireba  umwe  mu bagize  Guverinoma,  cyangwa  kimwe  cya gatatu  (1/3)  nibura  iyo  bireba  Guverinoma yose.
+benshi mu bagize Guverinoma ukoresheje itora ry'icyemezo cyo kubavanaho icyizere.
+
+Icyifuzo cyo gukuraho icyizere cyakirwa gusa nyuma yo kubarizwa mu ruhame rw'Inteko kandi kigashyirwaho umukono nibura na kimwe cya gatanu (1/5) cy'abagize Umutwe w'Abadepite iyo bireba umwe mu bagize Guverinoma, cyangwa kimwe cya gatatu (1/3) nibura iyo bireba Guverinoma yose.
 
 Icyemezo cyo kuvanaho icyizere ntigishobora gutorwa hadashize nibura amasaha  mirongo  ine  n'umunani  (48)  kuva itora  ry'icyo  cyemezo  risabwe,  cyemezwa gusa  kandi  n'itora  ribereye  mu  ibanga  ku bwiganze bwa bibiri bya gatatu (2/3) by'amajwi y'abagize Umutwe w'Abadepite.
 
@@ -5922,15 +5365,17 @@ Lorsque  la  motion  de  censure  est  adoptée contre l'ensemble du Gouvernemen
 
 Si la motion  de  censure  est rejetée, ses signataires ne sont pas permis d'en proposer une nouvelle  au cours de la même session.
 
-##### Article 131: Moyens de contrôle de l'action gouvernementale par le S é nat
+##### Article 131: Moyens de contrôle de l'action gouvernementale par le Sénat
 
-Dans le cadre de la procédure d'information et  de  contrôle  de  l'action  gouvernementale, les  membres  du  Sénat  peuvent  adresser  au Premier Ministre des questions orales ou des questions  écrites  auxquelles  il  répond  soit lui-même, s'il s'agit de questions concernant cyangwa agasubirizwa n'abagize Guverinoma bireba.
+Dans le cadre de la procédure d'information et de contrôle de l'action gouvernementale, les membres du Sénat peuvent adresser au Premier Ministre des questions orales ou des questions écrites auxquelles il répond soit lui-même, s'il s'agit de questions concernant
 
 122
 
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+
+cyangwa agasubirizwa n'abagize Guverinoma bireba.
 
 Sena ishobora na none gushyiraho za komisiyo zishinzwe kugenzura ibikorwa bya Guverinoma.
 
@@ -5966,7 +5411,7 @@ Toutefois,  le  Sénat    ne  peut  ni  procéder  à l'interpellation, ni initi
 
 ##### Article 132: Dissolution de la Chambre de Députés en raison des questions graves de préocupation nationale
 
-Sans  préjudice  des  dispositions  des  articles 77  et 79  de la présente Constitution, le Président de la République peut, après consultation du Premier Ministre, des Présidents des deux Chambres du Parlement et du Président de la Cour Suprême, prononcer  la  dissolution  de  la  Chambre  des Députés  en  raison  des  questions  graves  de Itora ry'Abadepite rikorwa mu minsi itarenze mirongo icyenda (90) ikurikira iryo seswa.
+Sans préjudice des dispositions des articles 77 et 79 de la présente Constitution, le Président de la République peut, après consultation du Premier Ministre, des Présidents des deux Chambres du Parlement et du Président de la Cour Suprême, prononcer la dissolution de la Chambre des Députés en raison des questions graves de
 
 123
 
@@ -5974,7 +5419,9 @@ Sans  préjudice  des  dispositions  des  articles 77  et 79  de la présente Co
 
 [[START OF PAGE 124]]
 
-Perezida  wa  Repubulika  ntashobora  gusesa Umutwe  w'abadepite  inshuro  zirenze  imwe muri manda ye ku mpamvu z'ibibazo bikomereye Igihugu.
+Itora ry'Abadepite rikorwa mu minsi itarenze mirongo icyenda (90) ikurikira iryo seswa.
+
+Perezida wa Repubulika ntashobora gusesa Umutwe w'abadepite inshuro zirenze imwe muri manda ye ku mpamvu z'ibibazo bikomereye Igihugu.
 
 Sena ntishobora guseswa.
 
@@ -6042,23 +5489,27 @@ In  case  the  President  of  the  Republic  declares war,  he  or  she  informs
 
 ##### Article 135: Presidential address to Parliament
 
-The President of the Republic addresses one or both  Chambers  of  Parliament,  either  in  person or in a message read on his or her behalf by the Au cours des sessions,  le  Parlement  réserve des séances consacrées aux questions formulées par les membres du Parlement au Gouvernement et à des réponses y relatives.
+The President of the Republic addresses one or both Chambers of Parliament, either in person or in a message read on his or her behalf by the
 
-Le  Gouvernement  est  tenu  de  fournir  au Parlement  toutes  les  explications      qui  lui sont  demandées  sur  ses  activités  et  sur  leur gestion.
+Au cours des sessions, le Parlement réserve des séances consacrées aux questions formulées par les membres du Parlement au Gouvernement et à des réponses y relatives.
 
-##### Article  134:  Informer  le  Parlement  de  la déclaration de guerre
+Le Gouvernement est tenu de fournir au Parlement toutes les explications qui lui sont demandées sur ses activités et sur leur gestion.
 
-En cas de déclaration de guerre par le Président de la République, il doit en informer  le  Parlement,  les  deux  Chambres réunies, dans un délai ne dépassant pas sept (7) jours. Le Parlement statue sur la déclaration de guerre à la majorité simple des membres de chaque Chambre du Parlement.
+##### Article 134: Informer le Parlement de la déclaration de guerre
+
+En cas de déclaration de guerre par le Président de la République, il doit en informer le Parlement, les deux Chambres réunies, dans un délai ne dépassant pas sept (7) jours. Le Parlement statue sur la déclaration de guerre à la majorité simple des membres de chaque Chambre du Parlement.
 
 ##### Article 135: Message adressé au Parlement par le Président de la République
 
-Le  Président  de  la  République  adresse  un message au Parlement devant l'une des Chambres ou les deux Chambres réunies.  Il cyangwa ahaye Minisitiri w'Intebe ubutumwa  asomera  imbere y'Inteko. Nta mpaka zigibwa kuri iryo jambo.
+Le Président de la République adresse un message au Parlement devant l'une des Chambres ou les deux Chambres réunies. Il
 
 125
 
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+
+cyangwa ahaye Minisitiri w'Intebe ubutumwa asomera imbere y'Inteko. Nta mpaka zigibwa kuri iryo jambo.
 
 Iyo atari igihe cy'ibihembwe, Inteko Ishinga Amategeko cyangwa umwe mu Mitwe yayo, itumizwa ikanaterana by'umwihariko kubera iyo mpamvu.
 
@@ -6082,7 +5533,9 @@ A state  of  siege  and  a  state  of  emergency  and are  provided  for  by  la
 
 A  declaration  of  a  state  of  siege  or  a  state  of emergency must be clearly justified, specify the part of national territory to which it applies and its  consequences,  indicate  the  rights,  freedoms and guarantees provided by law that are suspended and the duration of the state of siege or state of emergency which may not exceed a period of fifteen (15) days.
 
-The  state  of  siege  or  a  state  of  emergency cannot  be  extended  beyond  a  period  of  fifteen le  fait  en  personne  ou  délègue  le  Premier Ministre  pour  lire  ce  message.  Ce  message ne donne lieu à aucun débat.
+The state of siege or a state of emergency cannot be extended beyond a period of fifteen
+
+le fait en personne ou délègue le Premier Ministre pour lire ce message. Ce message ne donne lieu à aucun débat.
 
 Hors  session,  le  Parlement  ou  l'une  de  ses Chambres  est,  selon  le  cas,  convoqué  et  se réunit spécialement à cet effet.
 
@@ -6092,7 +5545,7 @@ L'état de siège et l'état d'urgence  sont régis par la loi et  sont  proclam
 
 La  déclaration  de  l'  état  de  siège  ou  l'état d'urgence doit être dûment motivée et spécifier l'étendue du territoire concerné, ses effets,  les  droits,  les  libertés  et  les  garanties suspendus de ce fait et sa durée qui ne peut pas aller au-delà de quinze (15) jours.
 
-Sa prorogation  au-delà de quinze (15) jours ne  peut  être  autorisée  que  par  le  Parlement bitangiwe uburenganzira n'Inteko Ishinga Amategeko ibyemeza ku bwiganze bwa bibiri  bya  gatatu  (2/3)  by'amajwi  y'abagize buri Mutwe.
+Sa prorogation au-delà de quinze (15) jours ne peut être autorisée que par le Parlement
 
 126
 
@@ -6100,7 +5553,9 @@ Sa prorogation  au-delà de quinze (15) jours ne  peut  être  autorisée  que  
 
 [[START OF PAGE 127]]
 
-Mu ntambara, iyo ibihe by'amage byatangajwe, itegeko rishobora kugena igihe gisumba  igiteganywa  mu  gika  kibanziriza iki.
+bitangiwe uburenganzira n'Inteko Ishinga Amategeko ibyemeza ku bwiganze bwa bibiri bya gatatu (2/3) by'amajwi y'abagize buri Mutwe.
+
+Mu ntambara, iyo ibihe by'amage byatangajwe, itegeko rishobora kugena igihe gisumba igiteganywa mu gika kibanziriza iki.
 
 Ibihe  by'amage  ntibigomba  kurenza  igihe cya ngombwa cyo kugira ngo hagaruke ibihe bisanzwe birangwa na demokarasi.
 
@@ -6118,7 +5573,9 @@ The duration of a state  of siege cannot exceed the  period  necessary  to  ensu
 
 A  declaration  of  a  state  of  siege  or  state  of emergency cannot under any circumstances violate the right to life and physical integrity of the person, the rights accorded to people by law in relation to their status, capacity and nationality; the principle of non-retroactivity of criminal law, the right to defence and freedom of conscience and religion.
 
-A  declaration  of  a  state  of  siege  or  state  of emergency cannot under any circumstances affect powers of the President of the Republic, the Prime Minister, the Parliament or the Supreme Court nor can  it modify the principles statuant à la majorité des deux tiers (2/3) des membres de chaque Chambre.
+A declaration of a state of siege or state of emergency cannot under any circumstances affect powers of the President of the Republic, the Prime Minister, the Parliament or the Supreme Court nor can it modify the principles
+
+statuant à la majorité des deux tiers (2/3) des membres de chaque Chambre.
 
 En temps de guerre, si l'état  de siège a été déclaré, une loi peut fixer la durée supérieure à celle prévue à l'alinéa précédent.
 
@@ -6126,13 +5583,15 @@ L'état  de  siège  doit  se  limiter  à  la  durée nécessaire pour rétabli
 
 La déclaration de l'état de siège ou de l'état d'urgence ne peut en aucun cas porter atteinte au droit à la vie, à l'intégrité physique, à l'état et à la capacité des personnes, à la nationalité, à la non rétroactivité  de  la  loi  pénale,  au  droit  de  la défense  ni  à  la  liberté  de  conscience  et  de religion.
 
-La déclaration de l'état de siège ou de l'état d'urgence  ne  peut  en  aucun  cas  affecter  les compétences du Président de la République, du  Premier  Ministre,  du  Parlement  et  de  la Cour  Suprême ni  modifier  les  principes  de w'Intebe cyangwa guhindura amahame yerekeye ibyo Leta n'abakozi bayo bashobora kuryozwa hakurikijwe iri Tegeko Nshinga.
+La déclaration de l'état de siège ou de l'état d'urgence ne peut en aucun cas affecter les compétences du Président de la République, du Premier Ministre, du Parlement et de la Cour Suprême ni modifier les principes de
 
 127
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
+
+w'Intebe cyangwa guhindura amahame yerekeye ibyo Leta n'abakozi bayo bashobora kuryozwa hakurikijwe iri Tegeko Nshinga.
 
 Mu bihe by'amage cyangwa mu bihe by'imidugararo kugeza hashize iminsi mirongo itatu (30) bivanyweho, nta gikorwa na kimwe cy'itora gishobora gukorwa.
 
@@ -6214,91 +5673,91 @@ Les commissions nationales, les organes spécialisés et les conseils nationaux 
 
 [[START OF PAGE 130]]
 
-- 1° Komisiyo z'Igihugu:
+1° Komisiyo z'Igihugu:
 
-- Komisiyo  y'Igihugu  y'Uburenganzira bwa Muntu;
+a) Komisiyo y'Igihugu y'Uburenganzira bwa Muntu;
 
-- Komisiyo y'Igihugu y'Ubumwe n'Ubwiyunge;
+b) Komisiyo y'Igihugu y'Ubumwe n'Ubwiyunge;
 
-- Komisiyo y'Igihugu yo Kurwanya Jenoside;
+c) Komisiyo y'Igihugu yo Kurwanya Jenoside;
 
-- Komisiyo y'Igihugu y'Amatora;
+d) Komisiyo y'Igihugu y'Amatora;
 
-- Komisiyo y'Igihugu ishinzwe Abakozi ba Leta.
+e) Komisiyo y'Igihugu ishinzwe Abakozi ba Leta.
 
 2° Inzego Zihariye:
 
-- Urwego rw'Umuvunyi;
+a) Urwego rw'Umuvunyi;
 
-- Urwego rw'Ubugenzuzi Bukuru bw'Imari ya Leta;
+b) Urwego rw'Ubugenzuzi Bukuru bw'Imari ya Leta;
 
-- Urwego rushinzwe Kugenzura Iyubahirizwa ry'Uburinganire n'Ubwuzuzanye bw'Abagore n'Abagabo mu Iterambere ry'Igihugu;
+c) Urwego rushinzwe Kugenzura Iyubahirizwa ry'Uburinganire n'Ubwuzuzanye bw'Abagore n'Abagabo mu Iterambere ry'Igihugu;
 
-- Urwego rushinzwe Intwari z'Igihugu, Imidari n'Impeta by'ishimwe;
+d) Urwego rushinzwe Intwari z'Igihugu, Imidari n'Impeta by'ishimwe;
 
-- Inteko Nyarwanda y'Ururimi n'Umuco.
+e) Inteko Nyarwanda y'Ururimi n'Umuco.
 
-- 3° Inama z'Igihugu :
+3° Inama z'Igihugu :
 
-- Inama y'Igihugu y'Abagore;
+a) Inama y'Igihugu y'Abagore;
 
 Official Gazette n° Special of 24/12/2015
 
 1° national commissions:
 
-- National Commission for Human Rights;
+a) National Commission for Human Rights;
 
-- National Unity and Reconciliation Commission;
+b) National Unity and Reconciliation Commission;
 
-- National Commission for the Fight against Genocide;
+c) National Commission for the Fight against Genocide;
 
-- National Electoral Commission;
+d) National Electoral Commission;
 
-- National Public Service Commission.
+e) National Public Service Commission.
 
-- 2° Specialised organs:
+2° Specialised organs:
 
-- Office of the Ombudsman;
+a) Office of the Ombudsman;
 
-- Office  of  the  Auditor  General  of  State Finances;
+b) Office of the Auditor General of State Finances;
 
-- Gender Monitoring Office;
+c) Gender Monitoring Office;
 
-- Chancellery for Heroes, National Orders and Decorations of Honour;
+d) Chancellery for Heroes, National Orders and Decorations of Honour;
 
-- Rwanda Academy of Language and Culture.
+e) Rwanda Academy of Language and Culture.
 
-- 3° National Councils :
+3° National Councils :
 
-- National Women Council;
+a) National Women Council;
 
 1°Les commissions nationales:
 
-- La Commission Nationale des Droits de la Personne ;
+a) La Commission Nationale des Droits de la Personne ;
 
-- La Commission Nationale de  l'Unité et la Réconciliation;
+b) La Commission Nationale de l'Unité et la Réconciliation;
 
-- La Commission Nationale de Lutte contre le Génocide;
+c) La Commission Nationale de Lutte contre le Génocide;
 
-- La Commission Nationale Electorale;
+d) La Commission Nationale Electorale;
 
-- La Commission de la Fonction Publique.
+e) La Commission de la Fonction Publique.
 
 2°Les organes spécialisés:
 
-- L'Office de l'Ombudsman;
+a) L'Office de l'Ombudsman;
 
-- L'Office  de  l'Auditeur  Général  des Finances de l'Etat;
+b) L'Office de l'Auditeur Général des Finances de l'Etat;
 
-- L'Observatoire du « Gender » ;
+c) L'Observatoire du « Gender » ;
 
-- La  Chancellerie des Héros  et des Ordres Nationaux ;
+d) La Chancellerie des Héros et des Ordres Nationaux ;
 
-- L'Académie Rwandaise de Langue et de Culture.
+e) L'Académie Rwandaise de Langue et de Culture.
 
-- 3° les conseils Nationaux :
+3° les conseils Nationaux :
 
-- Le Conseil National des Femmes ;
+a) Le Conseil National des Femmes ;
 
 130
 
@@ -6306,9 +5765,9 @@ Official Gazette n° Special of 24/12/2015
 
 [[START OF PAGE 131]]
 
-- Inama y'Igihugu y'Urubyiruko;
+b) Inama y'Igihugu y'Urubyiruko;
 
-- Inama y'Igihugu y'Abantu bafite ubumuga.
+c) Inama y'Igihugu y'Abantu bafite ubumuga.
 
 Amategeko yihariye ateganya inshingano, imitunganyirize n'imikorere byazo.
 
@@ -6320,9 +5779,9 @@ Itegeko Ngenga rishyiraho amategeko rusange agenga ibigo bya Leta.
 
 Official Gazette n° Special of 24/12/2015
 
-- National Youth Council;
+b) National Youth Council;
 
-- National Council of Persons with Disabilities.
+c) National Council of Persons with Disabilities.
 
 Specific laws determine the mission, organisation and functioning of these institutions.
 
@@ -6332,9 +5791,9 @@ When  deemed  necessary, a law may also remove national commissions, specialised
 
 An  organic  law  establishes  general  provisions governing public institutions.
 
-- Le Conseil National de la Jeunesse ;
+b) Le Conseil National de la Jeunesse ;
 
-- Le  Conseil  National  des  Personnes Handicapées.
+c) Le Conseil National des Personnes Handicapées.
 
 Les lois spécifiques déterminent  la mission, l'organisation  et  le  fonctionnement  de  ces institutions.
 
@@ -6380,19 +5839,19 @@ Resolutions of this Council are submitted to the relevant institutions to enable
 
 A  presidential  order  may  provide  for  other matters for the National Umushyikirano Council.
 
-#### Sous-section 5 : Conseil National d' Umushyikirano et Comité d' Abunzi
+#### Sous-section 5 : Conseil National d'Umushyikirano et Comité d'Abunzi
 
-##### Article 140: Conseil National d' Umushyikirano
+##### Article 140: Conseil National d'Umushyikirano
 
-Le Conseil National d' Umushyikirano réunit le Président de la République et les représentants des citoyens.
+Le Conseil National d'Umushyikirano réunit le Président de la République et les représentants des citoyens.
 
-Le Conseil National d' Umushyikirano se réunit au moins  une  (1)  fois par an. Il examine les questions relatives à l'état de la Nation et de l'unité nationale.
+Le Conseil National d'Umushyikirano se réunit au moins une (1) fois par an. Il examine les questions relatives à l'état de la Nation et de l'unité nationale.
 
-Le  Président  de  la  République  convoque  et dirige  le  Conseil  National  d' Umushyikirano et désigne ceux qui doivent y participer.
+Le Président de la République convoque et dirige le Conseil National d'Umushyikirano et désigne ceux qui doivent y participer.
 
-Les  recommandations  issues  dudit  Conseil sont  transmises  aux  institutions  et  services concernés afin d'améliorer les services rendus à la population.
+Les recommandations issues dudit Conseil sont transmises aux institutions et services concernés afin d'améliorer les services rendus à la population.
 
-Un arrêté presidentiel peut déterminer d'autres matières relatives au Conseil National d' Umushyikirano .
+Un arrêté presidentiel peut déterminer d'autres matières relatives au Conseil National d'Umushyikirano.
 
 132
 
@@ -6420,7 +5879,7 @@ Official Gazette n° Special of 24/12/2015
 
 ##### Article 141: Abunzi Committee
 
-The Abunzi Committee is responsible for conciliating  parties  in  conflict  with  the  aim  of consolidating  national  unity  and  peaceful  coexistence among Rwandans.
+The Abunzi Committee is responsible for conciliating parties in conflict with the aim of consolidating national unity and peaceful co-existence among Rwandans.
 
 The Abunzi Committee is comprised of persons of integrity who are recognised for their conciliation skills.
 
@@ -6434,13 +5893,13 @@ The  National  Public  Prosecution  Authority  is responsible  for  investigatin
 
 The National Public Prosecution Authority is a single  institution.  It  is  composed  of  the  Office of the Prosecutor General, the public
 
-##### Article 141: Comité d' Abunzi
+##### Article 141: Comité d'Abunzi
 
-Le  Comité d' Abunzi est chargé de régler les différends survenus entre les parties  en vue de consolider l'unité nationale et la cohabitation  harmonieuse  au  sein  du  peuple rwandais.
+Le Comité d'Abunzi est chargé de régler les différends survenus entre les parties en vue de consolider l'unité nationale et la cohabitation harmonieuse au sein du peuple rwandais.
 
-Le Comité d' Abunzi est composé de personnes  intègres  et  reconnues  pour  leur aptitude à concilier.
+Le Comité d'Abunzi est composé de personnes intègres et reconnues pour leur aptitude à concilier.
 
-Une  loi  détermine  l'organisation,  le  ressort, la compétence et le fonctionnement du Comité d' Abunzi .
+Une loi détermine l'organisation, le ressort, la compétence et le fonctionnement du Comité d'Abunzi.
 
 #### Sous-section 6: Poursuite judiciaire
 
@@ -6498,7 +5957,7 @@ Une loi détermine le statut et le code d'éthique des officiers de Poursuite ju
 
 Le Procureur général et le Procureur général Adjoint  sont nommés par arrêté présidentiel après leur approbation par le Sénat.
 
-Le  Président  de  la  République  propose  les candidats  à  chaque  poste  à  pourvoir,    après consultation du Conseil des Ministres et  du Conseil  Supérieur  de  l'Organe  national  de Abandi  bashinjacyaha  bashyirwaho  n'Iteka rya Minisitiri w'Intebe nyuma yo kwemezwa n'Inama Nkuru y'Ubushinjacyaha.
+Le Président de la République propose les candidats à chaque poste à pourvoir, après consultation du Conseil des Ministres et du Conseil Supérieur de l'Organe national de
 
 134
 
@@ -6506,7 +5965,9 @@ Le  Président  de  la  République  propose  les candidats  à  chaque  poste  
 
 [[START OF PAGE 135]]
 
-Itegeko ryerekeye sitati y'abashinjacyaha riteganya  uburyo  abashinjacyaha  bavugwa muri iyi ngingo barahira.
+Abandi bashinjacyaha bashyirwaho n'Iteka rya Minisitiri w'Intebe nyuma yo kwemezwa n'Inama Nkuru y'Ubushinjacyaha.
+
+Itegeko ryerekeye sitati y'abashinjacyaha riteganya uburyo abashinjacyaha bavugwa muri iyi ngingo barahira.
 
 ##### Ingingo ya 144: Manda y'abayobozi b'inzego z'ubushinjacyaha
 
@@ -6624,13 +6085,15 @@ L'Auditorat militaire est chargé de la poursuite  des  infractions  commises  p
 
 L'Auditorat militaire est dirigé par un Auditeur général militaire assisté d'un Auditeur général militaire adjoint.
 
-Une loi détermine l'organisation, la n'imikorere y'Ubushinjacyaha bwa gisirikare.
+Une loi détermine l'organisation, la
 
 137
 
 [[END OF PAGE 137]]
 
 [[START OF PAGE 138]]
+
+n'imikorere y'Ubushinjacyaha bwa gisirikare.
 
 ### Icyiciro cya 3: Ubutegetsi bw'Ubucamanza
 
@@ -6784,13 +6247,15 @@ Les  juridictions comprennent les juridictions ordinaires et  les juridictions s
 
 Les  juridictions  ordinaires  comprennent  la Cour Suprême, la Haute Cour, les Tribunaux de Grande Instance et les Tribunaux de Base.
 
-Les juridictions spécialisées comprennent les juridictions  de  commerce  et  les  juridictions Itegeko Ngenga rishobora gushyiraho cyangwa gukuraho urukiko rusanzwe cyangwa urukiko rwihariye.
+Les juridictions spécialisées comprennent les juridictions de commerce et les juridictions
 
 140
 
 [[END OF PAGE 140]]
 
 [[START OF PAGE 141]]
+
+Itegeko Ngenga rishobora gushyiraho cyangwa gukuraho urukiko rusanzwe cyangwa urukiko rwihariye.
 
 Itegeko rigena imitunganyirize, imikorere n'ububasha by'inkiko.
 
@@ -6799,6 +6264,8 @@ Itegeko rigena imitunganyirize, imikorere n'ububasha by'inkiko.
 Perezida na Visi Perezida b'Urukiko rw'Ikirenga, Perezida na Visi Perezida b'Urukiko Rukuru na Perezida na Visi Perezida    b'Urukiko  Rukuru  rw'Ubucuruzi bashyirwaho  n'Iteka  rya  Perezida  bamaze kwemezwa na Sena. Perezida wa Repubulika abanza kugisha inama Inama y'Abaminisitiri n'Inama Nkuru y'Ubucamanza.
 
 Perezida w'Urukiko rw'Ikirenga agomba kuba afite ubwenegihugu nyarwanda bw'inkomoko kandi nta bundi bwenegihugu agomba kuba bafite.
+
+Abacamanza bayobora izindi nkiko zisanzwe n'iz'ubucuruzi bashyirwaho n'Inama Nkuru y'Ubucamanza.
 
 Official Gazette n° Special of 24/12/2015
 
@@ -6824,7 +6291,7 @@ Le Président et le Vice-président de la Cour Suprême, le Président et le Vic
 
 - Le Président de la Cour Suprême doit être de nationalité rwandaise d'origine et ne  détenir aucune autre nationalité.
 
-Les  juges  responsables  d'autres  juridictions Abacamanza bayobora izindi nkiko zisanzwe n'iz'ubucuruzi  bashyirwaho  n'Inama  Nkuru y'Ubucamanza.
+Les juges responsables d'autres juridictions
 
 141
 
@@ -6916,13 +6383,15 @@ Le Président et le Vice -président de la Cour Suprême  sont  nommés  pour  u
 
 Le Président et le Vice-président de la Haute Cour, le Président et le Vice- président de la Haute Cour de Commerce sont nommés pour un mandat de cinq (5) ans renouvelable une seule fois.
 
-La loi portant  statut  des  juges  et  des  agents b'inkiko rinateganya ibirebana na  manda y'abayobozi b'izindi nkiko.
+La loi portant statut des juges et des agents
 
 143
 
 [[END OF PAGE 143]]
 
 [[START OF PAGE 144]]
+
+b'inkiko rinateganya ibirebana na manda y'abayobozi b'izindi nkiko.
 
 ##### Ingingo ya 157: Ivanwaho ry'abacamanza
 
@@ -6948,7 +6417,7 @@ de  l'ordre  judiciaire  détermine  également  le mandat des responsables d'au
 
 ##### Article 157: Révocation des juges
 
-Le  Président,  le  Vice-Président  et  les  juges de la Cour Suprême, le Président et le Viceprésident  de  la  Haute  Cour  et  de  la  Haute Cour  de  Commerce  peuvent  être  relevés  de leurs fonctions pour mauvaise conduite, incompétence ou faute professionnelle grave, à  l'initiative  des  trois  cinquièmes  (3/5)  des membres de la Chambre des Députés ou du Sénat; la décision de révocation est prise par les deux Chambres du Parlement, réunies en séance conjointe,  à la majorité de deux tiers (2/3) des membres de chaque Chambre.
+Le Président, le Vice-Président et les juges de la Cour Suprême, le Président et le Vice-président de la Haute Cour et de la Haute Cour de Commerce peuvent être relevés de leurs fonctions pour mauvaise conduite, incompétence ou faute professionnelle grave, à l'initiative des trois cinquièmes (3/5) des membres de la Chambre des Députés ou du Sénat; la décision de révocation est prise par les deux Chambres du Parlement, réunies en séance conjointe, à la majorité de deux tiers (2/3) des membres de chaque Chambre.
 
 Les autres juges d'autres juridictions ordinaires  et  de  commerce  prévues  par  la présente  Constitution  sont  révoqués  par  le Conseil Supérieur de la Magistrature.
 
@@ -7100,7 +6569,9 @@ A law determines responsibilities, organisation, functioning and powers of the N
 
 ##### Article 162: State Finance law
 
-Every financial  year, the Chamber of Deputies considers the relevance of the State finance bill Une loi détermine les principes directeurs,  la compétence, les responsabilités, l'organisation et le  fonctionnement  de  la Police Nationale du Rwanda.
+Every financial year, the Chamber of Deputies considers the relevance of the State finance bill
+
+Une loi détermine les principes directeurs, la compétence, les responsabilités, l'organisation et le fonctionnement de la Police Nationale du Rwanda.
 
 ##### Article 161 : Service National de Renseignements  et de Sécurité
 
@@ -7112,7 +6583,7 @@ Une loi détermine les responsabilités, l'organisation, le fonctionnement et le
 
 ##### Article 162: Loi des finances de l'Etat
 
-Pour chaque exercice budgétaire, la Chambre des Députés examine  l'opportunité du projet ry'umushinga  w'ingengo  y'imari  ya  Leta, ukanatora itegeko riyigenga.
+Pour chaque exercice budgétaire, la Chambre des Députés examine l'opportunité du projet
 
 147
 
@@ -7120,7 +6591,9 @@ Pour chaque exercice budgétaire, la Chambre des Députés examine  l'opportunit
 
 [[START OF PAGE 148]]
 
-Itegeko  ry'ingengo  y'imari  ya  Leta  rigena umutungo  Leta  izinjiza  n'uzakoreshwa  mu buryo  buteganywa  n'Itegeko  Ngenga.  Iryo tegeko ngenga rinagena umunsi ingengo y'imari y'umwaka w`ingengo y`imari izasomwaho imbere y'Imitwe yombi y'Inteko Ishinga Amategeko.
+ry'umushinga w'ingengo y'imari ya Leta, ukanatora itegeko riyigenga.
+
+Itegeko ry'ingengo y'imari ya Leta rigena umutungo Leta izinjiza n'uzakoreshwa mu buryo buteganywa n'Itegeko Ngenga. Iryo tegeko ngenga rinagena umunsi ingengo y'imari y'umwaka w`ingengo y`imari izasomwaho imbere y'Imitwe yombi y'Inteko Ishinga Amategeko.
 
 Mbere y'uko ingengo y'imari ya Leta yemezwa burundu, Sena igomba gushyikiriza Umutwe w'Abadepite icyo ivuga  ku  mushinga  w'ingengo  y'imari  ya Leta.
 
@@ -7204,7 +6677,7 @@ Une loi détermine les responsabilités, l'organisation  et  le  fonctionnement 
 
 ##### Article 166 : Rapport de l'Auditeur Général des Finances de l'Etat
 
-L'Office de l'Auditeur Général des Finances de l'Etat soumet chaque année, avant l'ouverture de la session consacrée à l'examen du budget de l'année suivante, aux y'imari  ya  Leta  y'umwaka  ushize  mbere y'itangira ry'igihembwe cyagenewe gusuzuma ingengo y'imari ya Leta y'umwaka  ukurikiye. Iyo raporo igomba kugaragaza uburyo imari yakoreshejwe, amafaranga  yakoreshejwe  bitari  ngombwa cyangwa  hadakurikijwe amategeko, kandi niba harabaye inyerezwa cyangwa isesagura ry'umutungo rusange.
+L'Office de l'Auditeur Général des Finances de l'Etat soumet chaque année, avant l'ouverture de la session consacrée à l'examen du budget de l'année suivante, aux
 
 149
 
@@ -7212,7 +6685,9 @@ L'Office de l'Auditeur Général des Finances de l'Etat soumet chaque année, av
 
 [[START OF PAGE 150]]
 
-Kopi  y'iyo  raporo  ishyikirizwa  Perezida  wa Repubulika, Guverinoma, Perezida w'Urukiko rw'Ikirenga n'Umushinjacyaha Mukuru.
+y'imari ya Leta y'umwaka ushize mbere y'itangira ry'igihembwe cyagenewe gusuzuma ingengo y'imari ya Leta y'umwaka ukurikiye. Iyo raporo igomba kugaragaza uburyo imari yakoreshejwe, amafaranga yakoreshejwe bitari ngombwa cyangwa hadakurikijwe amategeko, kandi niba harabaye inyerezwa cyangwa isesagura ry'umutungo rusange.
+
+Kopi y'iyo raporo ishyikirizwa Perezida wa Repubulika, Guverinoma, Perezida w'Urukiko rw'Ikirenga n'Umushinjacyaha Mukuru.
 
 Mu gihe kitarenze amezi atandatu (6), Inteko Ishinga Amategeko imaze gushyikirizwa raporo  y'Umugenzuzi  Mukuru  ivugwa  muri iyi  ngingo,  iyijyaho  impaka  ikanayifataho ibyemezo bikwiye.
 
@@ -7230,7 +6705,9 @@ Within six (6) months of receiving the report of the  Auditor  General  referred
 
 Institutions and public officials to which a copy of  the  annual  report  of  the  Auditor  General  is addressed must implement its recommendations by taking appropriate measures as regards irregularities and other shortcomings which were disclosed.
 
-The  Parliament  may  request  the  Office  of  the deux Chambres du Parlement le rapport sur le bilan des finances de l'Etat qui comprend l'exécution du budget de l'Etat de l'exercice écoulé.  Ce  rapport  doit  notamment  préciser la manière dont les comptes ont été gérés, les dépenses  faites  à  tort  ou  irrégulièrement,  et s'il  y  a  eu  détournement ou dilapidation des deniers publics.
+The Parliament may request the Office of the
+
+deux Chambres du Parlement le rapport sur le bilan des finances de l'Etat qui comprend l'exécution du budget de l'Etat de l'exercice écoulé. Ce rapport doit notamment préciser la manière dont les comptes ont été gérés, les dépenses faites à tort ou irrégulièrement, et s'il y a eu détournement ou dilapidation des deniers publics.
 
 Une  copie  de  ce  rapport  est  adressée  au Président de la République, au Gouvernement, au Président de la Cour Suprême et au Procureur Général.
 
@@ -7238,13 +6715,15 @@ Dans un délai ne dépassant pas six (6) mois à dater  de  la  réception  du  
 
 Les institutions et autorités destinataires de la copie du rapport de l'Auditeur Général sont tenues d'y donner suite en prenant les mesures  qui  s'imposent  en  ce  qui  concerne notamment les irrégularités et manquements constatés.
 
-Le Parlement peut charger l'Office urwo rwego gukora ubugenzuzi bw'imari mu nzego za Leta cyangwa ku mikoreshereze y'amafaranga yatanzwe na Leta.
+Le Parlement peut charger l'Office
 
 150
 
 [[END OF PAGE 150]]
 
 [[START OF PAGE 151]]
+
+urwo rwego gukora ubugenzuzi bw'imari mu nzego za Leta cyangwa ku mikoreshereze y'amafaranga yatanzwe na Leta.
 
 ## UMUTWE  WA X: AMASEZERANO MPUZAMAHANGA
 
@@ -7306,7 +6785,9 @@ Upon publication in the Official Gazette, international treaties and agreements 
 
 ##### Article 169: Prohibited International agreements
 
-It is prohibited to make international agreements permitting foreign military bases on Les traités ou accords de cession, d'échange, ou  d'adjonction  d'un  territoire  ne  peuvent pas  être  ratifiés  sans  le  consentement  des Rwandais consultés par referendum.
+It is prohibited to make international agreements permitting foreign military bases on
+
+Les traités ou accords de cession, d'échange, ou d'adjonction d'un territoire ne peuvent pas être ratifiés sans le consentement des Rwandais consultés par referendum.
 
 Le Président de la République et le Parlement sont informés de toutes les négociations des traités et accords internationaux  en  cours  non  soumis  à  la ratification par le Président de la République.
 
@@ -7316,13 +6797,15 @@ Les traités et accords internationaux régulièrement ratifiés ou approuvés, 
 
 ##### Article 169: Accords internationaux interdits
 
-Les accords d'installation de bases militaires étrangères sur le territoire national sont z'amahanga mu Gihugu.
+Les accords d'installation de bases militaires étrangères sur le territoire national sont
 
 152
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
+
+z'amahanga mu Gihugu.
 
 Birabujijwe gukora amasezerano mpuzamahanga  yemera  kunyuza  cyangwa kurunda mu Gihugu imyanda ihumanya n'ibindi byose byagira ingaruka zikomeye ku buzima bw'abantu no ku bidukikije.
 
@@ -7350,7 +6833,9 @@ Where  an  international treaty or  agreement contains  provisions  which  are  
 
 ##### Article 171: Laws in force
 
-All provisions of the Constitution of the Republic  of  Rwanda  of  4  June  2003  and  its amendments prior to this revision are  repealed and replaced by this revised Constitution. However,  persons  elected  or  appointed  to  a interdits.
+All provisions of the Constitution of the Republic  of  Rwanda  of  4  June  2003  and  its amendments prior to this revision are  repealed and replaced by this revised Constitution. However,  persons  elected  or  appointed  to  a
+
+interdits.
 
 Les accords autorisant le transit ou le stockage, sur le territoire national, de déchets toxiques  et  autres  matières  susceptibles  de porter  gravement  atteinte  à  la  santé  et  à l'environnement sont interdits.
 
@@ -7362,13 +6847,15 @@ Lorsqu'un traité ou accord international comporte une clause contraire à la Co
 
 ##### Article 171 : Lois en vigueur
 
-Toutes les dispositions de la Constitution de la République du Rwanda du 04 juin 2003 et ses  amendements  antérieurs  à  la  présente révision  sont  abrogés  et  remplacés  par  la présente  Constitution  révisée.  Toutefois,  les abantu batowe cyangwa bashyizweho hakurikijwe manda  zishingiye ku ngingo z'Itegeko Nshinga ritaravugururwa kandi batavuzwe  mu  zindi  ngingo  z'inzibacyuho z'iri  Tegeko  Nshinga  rivuguruye  bakomeza manda batorewe cyangwa bashyiriweho.
+Toutes les dispositions de la Constitution de la République du Rwanda du 04 juin 2003 et ses  amendements  antérieurs  à  la  présente révision  sont  abrogés  et  remplacés  par  la présente  Constitution  révisée.  Toutefois,  les
 
 153
 
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
+
+abantu batowe cyangwa bashyizweho hakurikijwe manda zishingiye ku ngingo z'Itegeko Nshinga ritaravugururwa kandi batavuzwe mu zindi ngingo z'inzibacyuho z'iri Tegeko Nshinga rivuguruye bakomeza manda batorewe cyangwa bashyiriweho.
 
 Andi  mategeko  yose  asanzwe  akurikizwa mbere y'uko iri Tegeko Nshinga rivuguruye ritangira  gukurikizwa  akomeza  kubahirizwa mu  ngingo  zayo  zose  zitanyuranyije  n'iri Tegeko  Nshinga  mu  ireme  ryazo kugeza igihe  ayo  mategeko  ahujwe  n'ibiteganywa n'iri Tegeko Nshinga rivuguruye.
 
@@ -7388,7 +6875,9 @@ All other laws in force before the commencement  of this revised Constitution co
 
 The  President  of  the  Republic  in  office  at  the time this revised Constitution comes into force continues to serve the term of office for which he was elected.
 
-Without prejudice to Article 101 of this Constitution, considering the petitions submitted by Rwandans that preceded the coming into  force  of  this  revised  Constitution, which were informed by the particular challenges of  Rwanda's tragic history and the personnes qui ont été élues ou nommées pour un  mandat  basé  sur  les  dispositions  de  la Constitution avant sa révision et qui ne sont pas  mentionnées  dans  d'autres  dispositions transitoires de la présente Constitution révisée  continuent  à  exercer  le  mandat  pour lequel elles ont été élues ou nommeés.
+Without prejudice to Article 101 of this Constitution, considering the petitions submitted by Rwandans that preceded the coming into  force  of  this  revised  Constitution, which were informed by the particular challenges of  Rwanda's tragic history and the
+
+personnes qui ont été élues ou nommées pour un  mandat  basé  sur  les  dispositions  de  la Constitution avant sa révision et qui ne sont pas  mentionnées  dans  d'autres  dispositions transitoires de la présente Constitution révisée  continuent  à  exercer  le  mandat  pour lequel elles ont été élues ou nommeés.
 
 D'autres  lois  en  vigueur  avant  l'entrée  en vigueur  de  la  présente  Constitution  révisée demeurent applicables en toutes leurs dispositions  qui  ne  sont  pas,  quant  à  leur fond,  contraires  à  la  présente  Constitution jusqu'à  ce  que  ces  lois  soient  harmonisées avec  la présente Constitution révisée.
 
@@ -7478,13 +6967,15 @@ L'initiative de la révision de la Constitution appartient    au  Président  de
 
 La révision n'est acquise que par un vote à la majorité  des  trois  quarts  (3/4)  des  membres qui composent chaque Chambre du Parlement.
 
-Toutefois,  lorsque  la  révision  porte  sur  le mandat du Président de la République, sur la démocratie  pluraliste  ou  sur  la  nature  du régime  constitutionnel  notamment  la  forme républicaine de l'Etat et l'intégrité du territoire  national,  elle  doit  être  approuvée par  référendum,    après  son  adoption  par bw'Igihugu, rigomba kwemezwa na referandumu, rimaze gutorwa na buri Mutwe w'Inteko Ishinga Amategeko.
+Toutefois,  lorsque  la  révision  porte  sur  le mandat du Président de la République, sur la démocratie  pluraliste  ou  sur  la  nature  du régime  constitutionnel  notamment  la  forme républicaine de l'Etat et l'intégrité du territoire  national,  elle  doit  être  approuvée par  référendum,    après  son  adoption  par
 
 156
 
 [[END OF PAGE 156]]
 
 [[START OF PAGE 157]]
+
+bw'Igihugu, rigomba kwemezwa na referandumu, rimaze gutorwa na buri Mutwe w'Inteko Ishinga Amategeko.
 
 Nta  mushinga  w'ivugururwa  ry'iyi  ngingo ushobora kwakirwa.
 
