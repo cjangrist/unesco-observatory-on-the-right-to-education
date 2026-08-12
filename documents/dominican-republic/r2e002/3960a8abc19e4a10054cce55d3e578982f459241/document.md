@@ -1,6 +1,15 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+República Dominicana
+
+Secretaría de Estado de Educación
+
+# Plan Decenal de Educación 2008-2018
+
+Un instrumento de trabajo en procura de la Excelencia Educativa
+
+GESTION EDUCATIVA
+2004-2008
 
 [[END OF PAGE 1]]
 
@@ -26,41 +35,41 @@ Mtra. Milagros Yost
 
 ## Integración:
 
-Ing. Ramón Flores
-
 Dr. César Picón
+
+Ing. Ramón Flores
 
 Ing. David Lapaix
 
 ## Revisión Técnica:
 
-Dr. Julio Leonardo Valeirón
-
 Mtro. Adarberto Martínez
+
+Dr. Julio Leonardo Valeirón
 
 Mtra. Milagros Yost
 
-Ing. David Lapaix
-
 Mtra. Zeneyda de Jesús Contreras
+
+Ing. David Lapaix
 
 Dr. Fernando Arturo Ogando
 
-Lic. Jacqueline Malagón
-
 Dr. Saturnino de los Santos
+
+Lic. Jacqueline Malagón
 
 ## Apoyo Logístico:
 
-Lic. Noemí Luna Mago
-
 Lic. Ana Isabel Vargas
+
+Lic. Noemí Luna Mago
 
 Lic. Brígida De León
 
-Lic. María Santana Mojica
-
 Lic. Juana María Rodríguez
+
+Lic. María Santana Mojica
 
 Lic. Manuel Rijo
 
@@ -74,13 +83,13 @@ Noelia Rodríguez
 
 ## Diseño y Diagramación:
 
-Yamaira Fernández
-
 Noelia Rodríguez
 
-Segunda edición revisada
+Yamaira Fernández
 
-Este  documento  se  elaboró  con  el  apoyo  del  Proyecto  de  Asistencia  Técnica Institucional  (ATI),  en  el  marco  del  Programa  de  Apoyo  a  la  Política  Sectorial  en Educación (PAPSE) que auspicia la Unión Europea mediante acuerdo con el Gobierno Dominicano.  Aprovechamos  además  para  agradecer  las  revisiones  realizadas  por consultores contratados con los auspicios del Instituto del Banco Mundial y el Banco Interamericano de Desarrollo.
+Este documento se elaboró con el apoyo del Proyecto de Asistencia Técnica Institucional (ATI), en el marco del Programa de Apoyo a la Política Sectorial en Educación (PAPSE) que auspicia la Unión Europea mediante acuerdo con el Gobierno Dominicano. Aprovechamos además para agradecer las revisiones realizadas por consultores contratados con los auspicios del Instituto del Banco Mundial y el Banco Interamericano de Desarrollo.
+
+Segunda edición revisada
 
 [[END OF PAGE 3]]
 
@@ -102,27 +111,29 @@ LIC. ALEJANDRINA GERMÁN
 
 Subsecretarios de Estado de Educación
 
-LIC. FAUSTO MOTA GARCÍA
-
 LIC. SUSANA MICHEL
+
+LIC. FAUSTO MOTA GARCÍA
 
 LIC. MERY VALERIO
 
-LIC. NERY SÁNCHEZ
-
 LIC. LUIS DE LEÓN
+
+LIC. NERY SÁNCHEZ
 
 LIC. RAMÓN CAMACHO
 
 LIC. GERARDO AQUINO
 
-Coordinador General  Plan Decenal de Educación 2008-2018
+Coordinador General Plan Decenal de Educación
+2008-2018
 
 LIC. FAUSTO MOTA GARCÍA
 
 Directora de la Oficina del Plan Decenal
+de Educación
 
-de Educación LIC. MILAGROS YOST
+LIC. MILAGROS YOST
 
 Plan Decenal de Educación 2008-2018
 
@@ -140,9 +151,35 @@ Plan Decenal de Educación 2008-2018
 
 # Indice
 
-1.
+1. Presentación...........................................................7
 
-Presentación...........................................................7
+2. Introducción............................................................12
+
+3. Síntesis de la Realidad Educativa Dominicana....16
+
+4. Política Educativa I..................................................26
+
+5. Política Educativa 2.................................................40
+
+6. Política Educativa 3.................................................55
+
+7. Política Educativa 4................................................69
+
+8. Política Educativa 5..............................................79
+
+9. Política Educativa 6............................................87
+
+10. Política Educativa 7.....................................103
+
+11. Política Educativa 8.................................108
+
+12. Política Educativa 9............................114
+
+13. Política Educativa 10.....................121
+
+14. Conclusiones.............................126
+
+15. Personalidades, Organismos e Instituciones Participantes.......133
 
 Plan Decenal de Educación 2008-2018
 
@@ -162,7 +199,7 @@ Plan Decenal de Educación 2008-2018
 
 Con gran satisfacción, la Secretaría de Estado de Educación presenta a la comunidad nacional el resultado de los trabajos que nos encomendara el Congreso Nacional del Foro Presidencial  por  la  Excelencia  de  la  Educación  Dominicana, cuando en la plenaria de clausura del referido evento, celebrado en enero del año 2007, otorgó a la Secretaría de Estado de Educación  -SEE-,  la  Secretaría  de  Estado  Superior,  Ciencia  y Tecnología  -SEESCYT-  y  al  Instituto  Nacional  de  Formación Técnico Profesional -INFOTEP- el mandato de elaborar un Plan Decenal para todo el sistema educativo dominicano, que articule los diferentes subsistemas de la educación que se ofrece  a  todos  los  niveles  y  en  todas  las  modalidades  en  la República Dominicana.
 
-En  el  ámbito  de  la  Secretaría  de  Estado  de Educación, esta responsabilidad se asumió conscientes de que este instrumento de trabajo se constituirá en un aporte significativo para  la  formación  durante  los próximos diez años de los ciudadanos y ciudadanas  con  las  capacidades,  competencias,  valores  y actitudes que aspiramos tanto el Señor Presidente de la República,  Dr.  Leonel  Fernández    Reyna,  como  todos  los que junto a él integramos la presente gestión.
+En el ámbito de la Secretaría de Estado de Educación, esta responsabilidad se asumió conscientes de que este instrumento de trabajo se constituirá en un aporte significativo para la formación durante los
 
 Plan Decenal de Educación 2008-2018
 
@@ -172,9 +209,11 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 9]]
 
+próximos diez años de los ciudadanos y ciudadanas con las capacidades, competencias, valores y actitudes que aspiramos tanto el Señor Presidente de la República, Dr. Leonel Fernández Reyna, como todos los que junto a él integramos la presente gestión.
+
 Todos y todas estamos comprometidos, con el desarrollo de un mejor país a partir de una educación de calidad, en condiciones de mayor equidad, con una oferta universal para toda la población. Pretendemos avanzar hacia ese propósito mediante la ejecución del Plan Decenal que se esboza en las páginas siguientes.
 
-Este  Plan  Decenal  que  la  Secretaría  de  Estado  de Educación  presenta  a  la  nación  para  el  período  20082018, representa la plataforma estructural de todo el sistema educativo y se ha elaborado, no en función de ideales, sino de las posibilidades reales y la firme disposición  que  tenemos,  de  poder  satisfacer  las demandas  que  surgen  de  las  necesidades que deben ser atendidas para lograr el grado  de  desarrollo  que  la  sociedad dominicana demanda.
+Este Plan Decenal que la Secretaría de Estado de Educación presenta a la nación para el período 2008-2018, representa la plataforma estructural de todo el sistema educativo y se ha elaborado, no en función de ideales, sino de las posibilidades reales y la firme disposición que tenemos, de poder satisfacer las demandas que surgen de las necesidades que deben ser atendidas para lograr el grado de desarrollo que la sociedad dominicana demanda.
 
 8
 
@@ -220,17 +259,17 @@ Plan Decenal de Educación 2008-2018
 
 # Introducción
 
-El Plan Decenal de Educación es un nuevo esfuerzo de la sociedad  dominicana  para  poner  en  marcha  un  sistema educativo de amplia cobertura y eficiencia, que reúna las condiciones de calidad y equidad necesarias para sustentar el desarrollo del país en las primeras décadas del siglo XXI.
-
 Plan Decenal de Educación 2008-2018
+
+El Plan Decenal de Educación es un nuevo esfuerzo de la sociedad dominicana para poner en marcha un sistema educativo de amplia cobertura y eficiencia, que reúna las condiciones de calidad y equidad necesarias para sustentar el desarrollo del país en las primeras décadas del siglo XXI.
 
 Haciendo recopilación de un conjunto de iniciativas ya discutidas o emprendidas dentro del sistema, con miras a sentar las bases de una transformación educativa, el Plan Decenal en el marco de la Ley General de Educación, persigue superar retrasos y limitaciones básicas que obstaculizan consolidar la educación dominicana y alcanzar sus grandes objetivos.
 
-En su formulación el Plan Decenal se sustenta en la Misión de la SEE y en las Diez Políticas Educativas, legitimadas en las consultas  que  hizo  la  SEE  y  en  los  debates  del  Congreso  de Educación  del  Foro  Presidencial  por  la  Excelencia  de  la Educación Dominicana. Esas grandes políticas, que responden  a  una  mirada  amplia  de  la  sociedad  dominicana acerca de la educación a la que aspira, tienen el propósito de lograr la Visión de 'que todos los dominicanos y dominicanas  tengan  acceso  a  una  educación  pertinente y de calidad.'
+En su formulación el Plan Decenal se sustenta en la Misión de la SEE y en las Diez Políticas Educativas, legitimadas en las consultas que hizo la SEE y en los debates del Congreso de Educación del Foro Presidencial por la Excelencia de la Educación Dominicana. Esas grandes políticas, que responden a una mirada amplia de la sociedad dominicana acerca de la educación a la que aspira, tienen el propósito de lograr la Visión de “que todos los dominicanos y dominicanas tengan acceso a una educación pertinente y de calidad.”
 
 ## Misión
 
-Regular el Sistema Educativo Dominicano de conformidad con la Ley General  de Educación 66-97, garantizando el derecho  de  todos  los  dominicanos    y dominicanas a una educación de calidad, mediante la formación de hombres y mujeres libres, críticos y creativos; capaces de participar y construir una sociedad  libre,  democrática  y  participativa,  justa  y  solidaria, aptos para cuestionarla en forma permanente; que combinen el trabajo productivo, el servicio comunitario y la formación humanística, científica y tecnológica, con el disfrute del acervo cultural de la humanidad y con la participación e integración de los distintos sectores de la sociedad, a fin de contribuir al desarrollo nacional y al suyo propio.
+Regular el Sistema Educativo Dominicano de conformidad con la Ley General de Educación 66-97, garantizando el derecho de todos los dominicanos y
 
 12
 
@@ -240,27 +279,29 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 14]]
 
+dominicanas a una educación de calidad, mediante la formación de hombres y mujeres libres, críticos y creativos; capaces de participar y construir una sociedad libre, democrática y participativa, justa y solidaria, aptos para cuestionarla en forma permanente; que combinen el trabajo productivo, el servicio comunitario y la formación humanística, científica y tecnológica, con el disfrute del acervo cultural de la humanidad y con la participación e integración de los distintos sectores de la sociedad, a fin de contribuir al desarrollo nacional y al suyo propio.
+
 ## Visión
 
 Lograr que todos los dominicanos y dominicanas tengan acceso a una educación pertinente y de calidad, asumiendo como principio el respeto a la diversidad, fortaleciendo la identidad cultural; formando seres humanos para el ejercicio de una vida activa  y  democrática,  generando  actitudes  innovadoras  y cambios en la sociedad y garantizando una calidad educativa que asegure el desarrollo sostenible y la cultura de paz.
 
 ## Valores
 
-- Respeto a la vida.
-
 - Valores éticos.
+
+- Respeto a la vida.
 
 - Respeto a los derechos fundamentales de la persona.
 
-- Justicia.
-
 - Solidaridad.
+
+- Justicia.
 
 - Respeto a la verdad.
 
-- Respeto a las diferencias individuales.
-
 - Igualdad de derechos entre hombres y mujeres.
+
+- Respeto a las diferencias individuales.
 
 - Dignidad.
 
@@ -276,25 +317,25 @@ Plan Decenal de Educación 2008-2018
 
 - Valores cristianos.
 
-- Respeto al principio de convivencia democrática.
-
 - Valores patrióticos, participativos y democráticos, en la perspectiva de armonizar las necesidades colectivas con las individuales.
+
+- Respeto al principio de convivencia democrática.
 
 - Conciencia de identidad.
 
-- Valoración del medio ambiente.
-
 - Convivencia pacífica y de comprensión entre los pueblos.
+
+- Valoración del medio ambiente.
 
 - Valores estéticos.
 
 ## Políticas Educativas
 
-- Movilizar las voluntades públicas y privadas con el objetivo de  asegurar  que  la  población  de  5  años  reciba  un  año  de Educación Inicial y 8 años de Educación Básica inclusiva y de calidad.
+1. Movilizar las voluntades públicas y privadas con el objetivo de asegurar que la población de 5 años reciba un año de Educación Inicial y 8 años de Educación Básica inclusiva y de calidad.
 
-- Consolidar,  expandir  y  diversificar  un  Nivel  de  Educación Media y una modalidad de Educación de Adultos de calidad, con el objetivo de crear ciudadanía y como paso al mercado laboral y/o a la educación superior.
+2. Consolidar, expandir y diversificar un Nivel de Educación Media y una modalidad de Educación de Adultos de calidad, con el objetivo de crear ciudadanía y como paso al mercado laboral y/o a la educación superior.
 
-- Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico  y promover una cultura de  su cumplimiento  desde  una  perspectiva  de  formación  en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos.
+3. Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos.
 
 14
 
@@ -304,19 +345,19 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 16]]
 
-- Establecer claros estándares de calidad y un sistema de evaluación que permita monitorear el desempeño del sistema educativo, que estimule la movilización de la escuela, la familia y la comunidad en favor de una mejor educación y garantice al país que los certificados y títulos otorgados estén avalados por los aprendizajes previstos.
+4. Establecer claros estándares de calidad y un sistema de evaluación que permita monitorear el desempeño del sistema educativo, que estimule la movilización de la escuela, la familia y la comunidad en favor de una mejor educación y garantice al país que los certificados y títulos otorgados estén avalados por los aprendizajes previstos.
 
-- Crear  las  condiciones  necesarias  y  movilizar  la  sociedad dominicana y las  comunidades educativas para asegurar el estricto cumplimiento del horario y calendario escolar a fin de posibilitar el aprendizaje de los estudiantes.
+5. Crear las condiciones necesarias y movilizar la sociedad dominicana y las comunidades educativas para asegurar el estricto cumplimiento del horario y calendario escolar a fin de posibilitar el aprendizaje de los estudiantes.
 
-- Priorizar la formación de recursos humanos de altas calificaciones para el sector educativo y promover la permanencia y crecimiento profesional del personal ya contratado.
+6. Priorizar la formación de recursos humanos de altas calificaciones para el sector educativo y promover la permanencia y crecimiento profesional del personal ya contratado.
 
-- Promover la equidad educativa con apoyo a los estudiantes provenientes de los sectores sociales más vulnerables.
+7. Promover la equidad educativa con apoyo a los estudiantes provenientes de los sectores sociales más vulnerables.
 
-- Estimular la participación de la familia, la comunidad e instituciones  no  gubernamentales  en  el  desarrollo  de  las políticas, los programas y los proyectos educativos.
+8. Estimular la participación de la familia, la comunidad e instituciones no gubernamentales en el desarrollo de las políticas, los programas y los proyectos educativos.
 
-- Promover el mejoramiento contínuo del sistema educativo para mantener  siempre una estructura ágil, flexible, abierta a la participación y centrada en la escuela.
+9. Promover el mejoramiento contínuo del sistema educativo para mantener siempre una estructura ágil, flexible, abierta a la participación y centrada en la escuela.
 
-- Movilizar los sectores públicos y privados, nacionales  e  internacionales,  en  procura  de  los  recursos necesarios para alcanzar los objetivos de cobertura, calidad y equidad educativas indispensables para enfrentar los retos económicos, políticos y sociales del siglo XXI.
+10. Movilizar los sectores públicos y privados, nacionales e internacionales, en procura de los recursos necesarios para alcanzar los objetivos de cobertura, calidad y equidad educativas indispensables para enfrentar los retos económicos, políticos y sociales del siglo XXI.
 
 Plan Decenal de Educación 2008-2018
 
@@ -326,15 +367,15 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 17]]
 
-# Síntesis  de  la  Realidad  Educativa Dominicana
-
-El sistema educativo dominicano ha tenido avances notables. Según  estudio  de Urquiola  M.  Calderón  V., 'Manzanas  y Naranjas: Matrícula y escolaridad en Países de América Latina y  el  Caribe' .  BID-2005; entre  las  Naciones  Latinoamericanas, República Dominicana, tiene la mayor cobertura escolar para la población entre 6 y 18 años de edad con un 91%. En los úlitimos años el país ha alcanzado un 98% de asistencia escolar en el rango de 6-13 años de edad. De igual modo, al alcanzar los 18 años  de  edad,  un  joven  dominicano  ha  estado  inscrito  en  la escuela un promedio de 11.8 años, una cifra que sólo es superada en América Latina por Argentina y Chile, con 12.1 años de escolaridad.
+# Síntesis de la Realidad Educativa Dominicana
 
 ## 1.Cobertura Escolar
 
-Durante el año escolar 2003-2004, la cobertura del Nivel Inicial (niñas y niños de cinco años) alcanzó el 75.5%, mientras que en América Latina y  el Caribe, para el año 2007, la cobertura neta para niños y niñas de la misma edad alcanza el 67.3% . Para el año escolar 2006-2007 en nuestro país se alcanza la cobertura total de niños y niñas de cinco años inscritos en los Centros Educativos.
+El sistema educativo dominicano ha tenido avances notables. Según estudio de Urquiola M. Calderón V., “Manzanas y Naranjas: Matrícula y escolaridad en Países de América Latina y el Caribe”. BID-2005; entre las Naciones Latinoamericanas, República Dominicana, tiene la mayor cobertura escolar para la población entre 6 y 18 años de edad con un 91%. En los últimos años el país ha alcanzado un 98% de asistencia escolar en el rango de 6-13 años de edad. De igual modo, al alcanzar los 18 años de edad, un joven dominicano ha estado inscrito en la escuela un promedio de 11.8 años, una cifra que sólo es superada en América Latina por Argentina y Chile, con 12.1 años de escolaridad.
 
-La cobertura neta del Nivel Básico (6 a 13 años), al 2004 alcanza  91.7%  y  al 2007 es  de  94.9%. Cobertura bruta alcanza al 2004 107.5% y al 2007 es de 114.2%.
+Durante el año escolar 2003-2004, la cobertura del Nivel Inicial (niñas y niños de cinco años) alcanzó el 75.5%, mientras que en América Latina y el Caribe, para el año 2007, la cobertura neta para niños y niñas de la misma edad alcanza el 67.3% . Para el año escolar 2006-2007 en nuestro país se alcanza la cobertura total de niños y niñas de cinco años inscritos en los Centros Educativos.
+
+La cobertura neta del Nivel Básico (6 a 13 años), al 2004 alcanza 91.7% y al 2007 es de 94.9%. Cobertura bruta alcanza al 2004 107.5% y al 2007 es de 114.2%.
 
 16
 
@@ -346,7 +387,7 @@ Plan Decenal de Educación 2008-2018
 
 La cobertura neta  del Nivel Medio alcanza al 2004 el 36.5%, y al 2007 es de 47.5%. La cobertura bruta para el año 2004 alcanza 61.8% y al 2007 es de 74.4%.
 
-Según datos de la Comisión Económica Para América Latina y el Caribe (CEPAL), registrados en el estudio 'Deserción escolar, un obstáculo para el logro de los Objetivos de Desarrollo para el Milenio' . Realizado en 1999 , las tasas de deserción en Argentina, Chile y Panamá fueron de 8.2 para el nivel básico y 11.2 para el nivel medio. Para El Salvador, Guatemala y Nicaragua fue de 11.9 para  el  nivel  básico  y  11.1  para  el  nivel  medio.  Para  Brasil, Colombia y Perú fue de 16.1 para el nivel básico y 11.5 para el nivel medio. México, Bolivia y Honduras obtuvieron un 30.7 en el nivel básico y 31.2 en el nivel medio. Para los cuatro grupos de países señalados la tasa de deserción global  fue de 20.7, 34.7, 42.1  y  67.1,  respectivamente.  Para  la  República  Dominicana, dicho estudio señala que la deserción a nivel básico en el segmento urbano es de 4% y de 2% a nivel rural. La tasa global de deserción fue de 19% en el segmento urbano, sólo por encima de Perú, Chile y Bolivia. A nivel rural fue la más baja de América Latina con 28% . En  el año lectivo 2000-2001 la deserción  para el nivel básico y medio fue de 6.90% y de 11.20%, respectivamente ; ya en el período 2005-2006 se ubicaba en un 6.40% para el nivel básico y 8.80% para el nivel medio.
+Según datos de la Comisión Económica Para América Latina y el Caribe (CEPAL), registrados en el estudio “Deserción escolar, un obstáculo para el logro de los Objetivos de Desarrollo para el Milenio”. Realizado en 1999, las tasas de deserción en Argentina, Chile y Panamá fueron de 8.2 para el nivel básico y 11.2 para el nivel medio. Para El Salvador, Guatemala y Nicaragua fue de 11.9 para el nivel básico y 11.1 para el nivel medio. Para Brasil, Colombia y Perú fue de 16.1 para el nivel básico y 11.5 para el nivel medio. México, Bolivia y Honduras obtuvieron un 30.7 en el nivel básico y 31.2 en el nivel medio. Para los cuatro grupos de países señalados la tasa de deserción global fue de 20.7, 34.7, 42.1 y 67.1, respectivamente. Para la República Dominicana, dicho estudio señala que la deserción a nivel básico en el segmento urbano es de 4% y de 2% a nivel rural. La tasa global de deserción fue de 19% en el segmento urbano, sólo por encima de Perú, Chile y Bolivia. A nivel rural fue la más baja de América Latina con 28% . En el año lectivo 2000-2001 la deserción para el nivel básico y medio fue de 6.90% y de 11.20%, respectivamente ; ya en el período 2005-2006 se ubicaba en un 6.40% para el nivel básico y 8.80% para el nivel medio.
 
 En el caso de la educación rural, en donde los problemas  de  equidad  son  más  complejos,  para  el rango entre 6 y 18 años, el país tiene el nivel de cobertura más alto de América Latina.
 
@@ -376,15 +417,15 @@ Plan Decenal de Educación 2008-2018
 
 No  obstante,  la  República  Dominicana  ocupa  un lugar  importante  respecto  a  los  demás  países  de América  Latina  en  cobertura,  deserción,  sobreedad  y repitencia, entre otros indicadores de eficiencia interna. Son notorios los avances del país en relación al número de años de escolaridad promedio de la población dominicana. El número de años de escolaridad promedio de la población mayor de 15 años es de 8 años, según la Encuesta Nacional de Fuerza  de  Trabajo  (ENFT),  abril  2000-octubre  2006  Banco Central de la República Dominicana casi duplicando el número de años de escolaridad en apenas una década.
 
-Un  problema  histórico  es  que  el  sistema  no  tiene  suficiente espacio para atender la población estudiantil que accede a la educación pública. La falta de aulas obliga a:
-
 ## 2.Tanda Escolar
+
+Un problema histórico es que el sistema no tiene suficiente espacio para atender la población estudiantil que accede a la educación pública. La falta de aulas obliga a:
 
 - Sobrepoblar las secciones de clase
 
-- Proliferación  de  escuelas  privadas  ubicadas  en  barrios marginados.
-
 - La organización de tres tandas en una misma escuela
+
+- Proliferación de escuelas privadas ubicadas en barrios marginados.
 
 ## 3.Calendario y horario dentro de un ambiente escolar
 
@@ -400,21 +441,21 @@ Plan Decenal de Educación 2008-2018
 
 Esa situación se explica por:
 
-La falta de aulas  obliga a cortar el horario para usarlas  en  dos  y  tres  tandas,  a  fin  de  atender  la  creciente población estudiantil, lo que condiciona a su vez el tipo de contratación de los docentes.
+- La indisciplina dentro del sistema, la cual propicia la pérdida de horas y días de clases.
 
-La indisciplina dentro del sistema, la cual propicia la pérdida de horas y días de clases.
+- La falta de aulas obliga a cortar el horario para usarlas en dos y tres tandas, a fin de atender la creciente población estudiantil, lo que condiciona a su vez el tipo de contratación de los docentes.
 
 El Currículo Oficial establece 1,080 horas de clases para el Nivel Inicial y Básico, 1,250 para la Educación Media General, y 1,400 para la Modalidad Técnico Profesional.
 
-La reivindicación del calendario y el horario escolar exige un aumento sistemático y gradual del financiamiento que permita  la  construcción  y  rehabilitación  masiva  de  escuelas,  una nueva forma de contratación de los maestros y  maestras, y el rescate de la disciplina escolar que respete el horario oficial.
-
-En los últimos años la SEE ha venido ejecutando un exitoso programa  de  textos  escolares  que  ha  contribuido  con  el desarrollo curricular en el aula. Los libros son enviados a los Distritos Escolares y éstos los distribuyen entre las escuelas. Mejorar la logística de entrega y el uso apropiado en el aula,  aumentaría  su  impacto  sobre  la  calidad  de  la educación.
+La reivindicación del calendario y el horario escolar exige un aumento sistemático y gradual del financiamiento que permita la construcción y rehabilitación masiva de escuelas, una nueva forma de contratación de los maestros y maestras, y el rescate de la disciplina escolar que respete el horario oficial.
 
 ## 4.Textos Escolares
 
-## 5.Formación  de  recursos humanos de calidad
+En los últimos años la SEE ha venido ejecutando un exitoso programa de textos escolares que ha contribuido con el desarrollo curricular en el aula. Los libros son enviados a los Distritos Escolares y éstos los distribuyen entre las escuelas. Mejorar la logística de entrega y el uso apropiado en el aula, aumentaría su impacto sobre la calidad de la educación.
 
-La disponibilidad y calidad de los recursos humanos es un elemento fundamental para  el  desarrollo  del  país.  A  partir del 1992, se inicia el fortalecimiento en la formación de  los  recursos  humanos  del  sector  educativo.  En  el 2007 más de la mitad del personal docente de la SEE tiene una licenciatura o grado superior. Sin embargo, la calidad del profesional de educación que está egresando de la universidad no parece haber mejorado sustancialmente; muchos de los docentes y directores que ya obtuvieron sus licenciaturas no están adecuadamente preparados para gestionar institucional y pedagógicamente una escuela.
+## 5.Formación de recursos humanos de calidad
+
+La disponibilidad y calidad de los recursos humanos es un elemento fundamental para el desarrollo del país. A partir
 
 20
 
@@ -424,7 +465,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 22]]
 
-El  sector  educativo  tiene  que  exigir  mayores  requisitos  para  el ingreso a los estudios de educación; disponer de currícula y sistema de evaluación más exigentes y pertinentes a los requerimientos de la SEE y al mercado local e internacional.
+del 1992, se inicia el fortalecimiento en la formación de los recursos humanos del sector educativo. En el 2007 más de la mitad del personal docente de la SEE tiene una licenciatura o grado superior. Sin embargo, la calidad del profesional de educación que está egresando de la universidad no parece haber mejorado sustancialmente; muchos de los docentes y directores que ya obtuvieron sus licenciaturas no están adecuadamente preparados para gestionar institucional y pedagógicamente una escuela.
+
+El sector educativo tiene que exigir mayores requisitos para el ingreso a los estudios de educación; disponer de currícula y sistema de evaluación más exigentes y pertinentes a los requerimientos de la SEE y al mercado local e internacional.
 
 Actualmente el salario del sector educativo compite con los salarios de otros organismos del gobierno y del sector privado. No obstante, su mejora no ha impactado suficientemente en la calidad de la educación.
 
@@ -442,15 +485,15 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 23]]
 
-En  ese  sentido,  se  han  instalado  laboratorios  en  los centros,  se  han  creado  programas  especiales  para que los profesores adquieran computadoras y se han llevado  a  cabo  programas  de  formación  para  que  los docentes aprendan a usar las TIC en el desarrollo del currículo. Se  requieren  esfuerzos  en  el  área  de  formación  docente  y más recursos para dotar a los estudiantes de un mayor número de horas de  acceso a las tecnologías aplicadas.
-
-El Centro Educativo es la unidad donde se produce el servicio educativo. Actualmente no dispone de los recursos necesarios, la autonomía administrativa y la organización que le permita cumplir de manera eficiente con sus funciones.
+En ese sentido, se han instalado laboratorios en los centros, se han creado programas especiales para que los profesores adquieran computadoras y se han llevado a cabo programas de formación para que los docentes aprendan a usar las TIC en el desarrollo del currículo. Se requieren esfuerzos en el área de formación docente y más recursos para dotar a los estudiantes de un mayor número de horas de acceso a las tecnologías aplicadas.
 
 ## 7. La escuela como el centro del sistema y su reorganización global
 
-El país ha estado en un proceso de urbanización significativo con diversas implicaciones sobre la escuela. Muchos grupos rurales  se  han  ido  concentrando en determinadas demarcaciones territoriales. Como consecuencia de este proceso existen grandes poblaciones estudiantiles atendidas en tres  tandas,  en  un  plantel  diseñado  para  atender  una tanda, lo que plantea un problema académico y social que no se puede ignorar.
+El Centro Educativo es la unidad donde se produce el servicio educativo. Actualmente no dispone de los recursos necesarios, la autonomía administrativa y la organización que le permita cumplir de manera eficiente con sus funciones.
 
-La organización de diversos Centros Educativos con diferentes direcciones en un mismo plantel, compitiendo  por  espacio  y  recursos  limitados, genera múltiples conflictos.
+El país ha estado en un proceso de urbanización significativo con diversas implicaciones sobre la escuela. Muchos grupos rurales se han ido concentrando en determinadas demarcaciones territoriales. Como consecuencia de este proceso existen grandes poblaciones estudiantiles atendidas en tres tandas, en un plantel diseñado para atender una tanda, lo que plantea un problema académico y social que no se puede ignorar.
+
+La organización de diversos Centros Educativos con diferentes direcciones en un mismo plantel, compitiendo por espacio y recursos limitados, genera múltiples conflictos.
 
 22
 
@@ -460,11 +503,11 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 24]]
 
-Se propone integrar la administración de los Centros Educativos pequeños dispersos, en otros centros  grandes y unificar la administración de los centros que funcionan en un mismo plantel.
-
-El Plan Decenal 1992-2002 coincide con una reforma tributaria que elevó la presión del 10 al 16 % del PIB en diez años, con un incremento de la presión tributaria de 6% resultó relativamente fácil incrementar el gasto en educación en 2% del PIB sin necesidad de una reestructuración radical del gasto.
+Se propone integrar la administración de los Centros Educativos pequeños dispersos, en otros centros grandes y unificar la administración de los centros que funcionan en un mismo plantel.
 
 ## 8. Financiamiento de la educación
+
+El Plan Decenal 1992-2002 coincide con una reforma tributaria que elevó la presión del 10 al 16 % del PIB en diez años, con un incremento de la presión tributaria de 6% resultó relativamente fácil incrementar el gasto en educación en 2% del PIB sin necesidad de una reestructuración radical del gasto.
 
 De haber continuado la tendencia observada entre el 1992 y el 2002 y haber mantenido el 16% del gasto público en educación, se hubiese superado ampliamente el 3% del PIB.
 
@@ -486,7 +529,7 @@ La  elaboración  del  Plan  Decenal  2008-2018  tomó como punto de partida los
 
 Las  experiencias  históricas  van  demostrando  que  es  posible introducir cambios sustanciales en el sistema educativo. Con el fin de construir respuestas para superar los problemas históricos y emergentes de la educación dominicana se han establecido diez políticas educativas, que tienen el carácter de políticas de Estado, las cuales se operacionalizan a través de objetivos  estratégicos    con  resultados  que  se  alcanzarán  a través  de  medidas  y  acciones  específicas  en  el  corto, mediano y largo plazos del Plan Decenal 2008-2018.
 
-Las  Políticas  Educativas  son  las  grandes  orientaciones pedagógicas,  institucionales  y  estratégicas  dirigidas  al logro  de  una  educación  con  calidad  y  equidad  en beneficio  de  las  personas  de  todas  las  situaciones  y condiciones  de  la  sociedad  dominicana.  Estas Políticas  responden a las necesidades de hoy y a los intereses estratégicos de la sociedad dominicana  con  visión  de  futuro,  que  posibilitarán encarar  los  desafíos  culturales,  sociales, económicos  y  políticos  de  la  República Dominicana en el Siglo XXI. Estos desafíos demandan de igual modo de una revisión a la Ley General de Educación 66'97 con la participación de todos los sectores  de  la  sociedad,  a  los  fines  de  hacerla  congruente con los cambios que se vienen operando en el ámbito local y la comunidad internacional.
+Las Políticas Educativas son las grandes orientaciones pedagógicas, institucionales y estratégicas dirigidas al logro de una educación con calidad y equidad en beneficio de las personas de todas las situaciones y condiciones de la sociedad dominicana. Estas Políticas responden a las necesidades de hoy y a los intereses estratégicos de la sociedad dominicana con visión de futuro, que posibilitarán encarar los desafíos culturales, sociales, económicos y políticos de la República
 
 24
 
@@ -495,6 +538,8 @@ Plan Decenal de Educación 2008-2018
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
+Dominicana en el Siglo XXI. Estos desafíos demandan de igual modo de una revisión a la Ley General de Educación 66’97 con la participación de todos los sectores de la sociedad, a los fines de hacerla congruente con los cambios que se vienen operando en el ámbito local y la comunidad internacional.
 
 Los Objetivos Estratégicos son los logros globales vinculados a cada  una  de  las  Políticas  Educativas;  los  Resultados  son  los logros intermedios de cada Objetivo Estratégico y que posibilitan la obtención del logro global, mientras que las Medidas y Acciones de cada resultado están dimensionadas para su aplicación en el corto plazo (2009); en el mediano plazo (2012)  y en el largo plazo (2018).
 
@@ -626,7 +671,7 @@ Muchos niños y niñas carecen de actas de nacimiento, y aún cuando la SEE orde
 
 Para  asegurar  que  a  los  15  años  los    estudiantes  dominicanos hayan completado un año de Educación Inicial y 8 años de Educación Básica de calidad y lograr que un mejoramiento de la cobertura del Nivel Medio se exprese en una mayor cantidad de egresados, hay que fortalecer  los  programas  para mejorar la eficiencia del Centro Educativo y para desarrollar las competencias y capacidades necesarias. Esto permitirá también atender los problemas de ingreso tardío a la escuela, repitencia, deserción y sobreedad.
 
-A pesar de que las tasas de repitencia y deserción disminuyeron considerablemente en los noventas y continúan disminuyendo a lo largo de la presente  década,  tanto  esas  como  la tasa  de  sobreedad  permanecen altas como para afectar la calidad, el costo de la educación, la equidad del sistema y el porcentaje de estudiantes que termina el octavo grado o el Nivel Medio.
+A pesar de que las tasas de repitencia y deserción disminuyeron considerablemente en los noventas y continúan disminuyendo a lo largo de la presente década, tanto esas como la tasa de sobreedad permanecen
 
 32
 
@@ -635,6 +680,8 @@ Plan Decenal de Educación 2008-2018
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+altas como para afectar la calidad, el costo de la educación, la equidad del sistema y el porcentaje de estudiantes que termina el octavo grado o el Nivel Medio.
 
 Un Centro Educativo eficazmente gestionado deberá contar con mecanismos de monitoreo para detectar temprano a los estudiantes con dificultades que pudieran conducirlos a la repitencia o a la deserción.
 
@@ -662,9 +709,9 @@ Al año 2012 se cuenta con una cobertura del 100% de la población de niños y n
 
 ##### MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 1.1
 
-- 1.1.1 Estrategia de sensibilización a las familias para que envíen a sus hijas e hijos a la escuela.
-
 ###### Corto Plazo
+
+- 1.1.1 Estrategia de sensibilización a las familias para que envíen a sus hijas e hijos a la escuela.
 
 - 1.1.2 Distribución del 100% de los textos e insumos de apoyo a la  labor  docente  del  Nivel  Inicial    con  mecanismos  eficaces que aseguren que los mismos se reciban antes del inicio del año escolar.
 
@@ -724,9 +771,9 @@ Al  año 2018 todos los niños y niñas de quince años alcanzan una Educación 
 
 ##### MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 1.2
 
-- 1.2.1 Apoyo a los estudiantes de menos ingresos con desayuno escolar, mochila y apoyo económico a la familia.
-
 ###### Corto Plazo
+
+- 1.2.1 Apoyo a los estudiantes de menos ingresos con desayuno escolar, mochila y apoyo económico a la familia.
 
 - 1.2.2 Estrategias específicas para lograr que las familias inscriban y/o mantengan a sus hijos e hijas de 6 años en la escuela.
 
@@ -825,7 +872,7 @@ Las medidas y acciones que se proponen, dentro de un enfoque holístico, persigu
 En el logro  de  esta  política  están  involucradas  la Educación Media, la Educación Técnico Profesional y la Educación de Adultos.
 
 ### Educación Media y Técnico Profesional
-Un país de ingreso medio bajo debe concentrar su atención en la Educación Media y Superior. Esa  concentración  en  la  Educación  Media se explica por la necesidad de disponer de personas calificadas que puedan integrarse al mercado de trabajo con salarios competitivos  y  lograr  su  certificación  como  bachilleres competentes para su inserción en la economía o para ingresar al nivel superior.
+Un país de ingreso medio bajo debe concentrar su atención en la Educación Media y Superior. Esa concentración en la Educación Media se explica por la necesidad de disponer de personas calificadas que puedan
 
 40
 
@@ -835,7 +882,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 42]]
 
-Sin embargo, en la República Dominicana el desarrollo de la  Educación  Media  tomó  forma  de  manera  tardía  y  aún cuando su crecimiento durante los  últimos  15  años  ha  sido sumamente importante, todavía la cobertura bruta alcanza solamente el 66%, mientras que la cobertura de la población de 14 a 17 años (neta) es tan sólo de 38%.
+integrarse al mercado de trabajo con salarios competitivos y lograr su certificación como bachilleres competentes para su inserción en la economía o para ingresar al nivel superior.
+
+Sin embargo, en la República Dominicana el desarrollo de la Educación Media tomó forma de manera tardía y aún cuando su crecimiento durante los últimos 15 años ha sido sumamente importante, todavía la cobertura bruta alcanza solamente el 66%, mientras que la cobertura de la población de 14 a 17 años (neta) es tan sólo de 38%.
 
 Cuando el desarrollo del Nivel Medio era todavía precario, la modalidad técnico profesional se fue debilitando, y aunque se ha  recuperado  notablemente  en  los  últimos  15  años,  esta modalidad apenas representa la quinta parte de la población del Nivel Medio. Por cuya razón, en adición a la tarea de consolidar  el  nivel,  ampliar  su  cobertura  y  mejorar  su  calidad, durante los próximos años habrá que hacer muy serios esfuerzos para su diversificación, promoviendo la ampliación de la educación técnico profesional y la educación artística.
 
@@ -857,7 +906,7 @@ La  Ley  General  de  Educación  establece  que  el  Nivel  Medio estará  inte
 
 Desde  que  se  creó  la  modalidad  técnico-profesional,  los Centros de Nivel Medio fueron organizados de conformidad con la modalidad que impartían. Los que ofrecían educación general fueron denominados Liceos, los que impartían educación técnica fueron denominados Politécnicos y los que  impartían  artes  fueron  denominados  Escuelas  de Artes.  Sin  embargo,  con  el  paso  de  los  años,  muchos Politécnicos comenzaron a ofrecer la Educación Media General y eventualmente algunos liceos comenzaron a formar bachilleres técnicos.
 
-Un elemento importante a desarrollar en los próximos diez años será la diversificación de la Educación Media  con  una  mayor  participación  de  la Educación  Técnico-Profesional  y  la  modalidad en artes. Con ese objetivo se promoverá  la  diversificación  de  los  liceos para que, a partir del segundo ciclo, ofrezcan simultáneamente  Educación  General,  Educación  Técnico Profesional y Educación en Artes. Con esto se persigue ofrecer  Educación  Técnico  Profesional  de  conformidad con las  necesidades  de  la  población,  sin  tener  que  crear Politécnicos.
+Un elemento importante a desarrollar en los próximos diez años será la diversificación de la Educación Media con una mayor participación de la Educación Técnico-Profesional y la modalidad en artes. Con ese objetivo se promoverá la diversificación de los liceos
 
 42
 
@@ -867,7 +916,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 44]]
 
-Ese  proceso  de  diversificación  demandará  consolidar  el  primer ciclo  del  Nivel  Medio,  introduciendo  en  el  mismo  las  Pruebas Nacionales. Demandará, asimismo, la tipificación de los Politécnicos actuales, para definir cuales de éstos permanecen como escuelas técnicas especializadas y cuales se convertirán en Liceos Técnicos. Se  prevé,  además, la creación de Centros Educativos del primer ciclo de Educación Media y Centros Educativos del segundo ciclo de Educación Media; de igual modo, la creación de Centros de Inserción Social y Laboral de Educación Media.
+para que, a partir del segundo ciclo, ofrezcan simultáneamente Educación General, Educación Técnico Profesional y Educación en Artes. Con esto se persigue ofrecer Educación Técnico Profesional de conformidad con las necesidades de la población, sin tener que crear Politécnicos.
+
+Ese proceso de diversificación demandará consolidar el primer ciclo del Nivel Medio, introduciendo en el mismo las Pruebas Nacionales. Demandará, asimismo, la tipificación de los Politécnicos actuales, para definir cuales de éstos permanecen como escuelas técnicas especializadas y cuales se convertirán en Liceos Técnicos. Se prevé, además, la creación de Centros Educativos del primer ciclo de Educación Media y Centros Educativos del segundo ciclo de Educación Media; de igual modo, la creación de Centros de Inserción Social y Laboral de Educación Media.
 
 ### Educación de Adultos
 
@@ -889,7 +940,7 @@ Aún cuando hay que continuar desarrollando programas de alfabetización,  la  e
 
 Será necesario crear incentivos que estimulen a las personas jóvenes a terminar la Educación Media General. Por ejemplo, el Estado puede exigir un nivel educativo mínimo para ingresar o permanecer como empleado público temporal o permanente.
 
-La  educación  de  personas  jóvenes  y  adultas  de  la República Dominicana se ha venido desarrollando con un conjunto de opciones educativas para la población nacional de 15 años y más. Los procesos  para  dicho  sector  poblacional  han crecido  dentro  de  un  marco  institucional  de  integración  y  colaboración con los diferentes sectores de la sociedad dominicana, así como con la participación de las distintas instancias del Sistema Educativo Dominicano.
+La educación de personas jóvenes y adultas de la República Dominicana se ha venido desarrollando con un conjunto de opciones educativas para la población nacional de 15 años y más. Los procesos para dicho sector poblacional han crecido dentro de un marco institucional de integración y colaboración
 
 44
 
@@ -899,7 +950,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 46]]
 
-Los programas que desde la Dirección de Personas Jóvenes y Adultas se han impulsado y realizado en los últimos años se han  concebido  desde  el  diálogo  permanente  con  la  realidad, intentando así dar respuestas pertinentes a las necesidades  de  los  beneficiarios  directos  de  los  procesos  que  desde esta área se desarrollan.
+con los diferentes sectores de la sociedad dominicana, así como con la participación de las distintas instancias del Sistema Educativo Dominicano.
+
+Los programas que desde la Dirección de Personas Jóvenes y Adultas se han impulsado y realizado en los últimos años se han concebido desde el diálogo permanente con la realidad, intentando así dar respuestas pertinentes a las necesidades de los beneficiarios directos de los procesos que desde esta área se desarrollan.
 
 Desde  este  diálogo  permanente  con  la  realidad  se  plantean urgencias en el ámbito de cobertura, desarrollo curricular y formación docente. En este orden, entre las principales inquietudes que reclaman una urgente respuesta, está como atender a más de un millón de jóvenes y adultos que no han concluido la Educación Básica y Media; y como dar respuesta a las demandas de formación para el trabajo, a través de la Educación Técnico-Profesional y de distintas opciones de la formación profesional,  a una población  creciente  de  jóvenes  y  adultos  que  busca  encontrar  un espacio en el mundo de la producción y el desarrollo.
 
@@ -1023,7 +1076,7 @@ Plan Decenal de Educación 2008-2018
 
 ###### Largo Plazo
 
-- 2.1.27 Incremento cobertura neta de la población de 1417 años a  58.94% para el 2018.
+- 2.1.27 Incremento cobertura neta de la población de 14-17 años a 58.94% para el 2018.
 
 - 2.1.28  Diversificación  del  20%  de  los  Liceos    para  el 2018.
 
@@ -1143,7 +1196,7 @@ Es  una  política  que  legitima  y  da  visibilidad  al  currículo,  en cuant
 
 ## Consideraciones Generales
 
-Hay amplio consenso en revisar el currículo oficial, fortalecer  el  área  de  lecto-escritura,  la  formación en valores e introducir las TICs, así como en provocar una interacción permanente de enriquecimiento recíproco entre el currículo y la sociedad, dado que es algo dinámico, como la sociedad misma y debe de ajustarse en forma periódica, a fin de mantener su pertinencia. Se considera fundamental trabajar en la difusión del currículo y en la creación de una cultura educativa que convierta al currículo en la guía del sistema y de la escuela.
+Hay amplio consenso en revisar el currículo oficial, fortalecer el área de lecto-escritura, la formación en valores e introducir las TICs, así como en provocar una interacción permanente de enriquecimiento recíproco entre el
 
 Plan Decenal de Educación 2008-2018
 
@@ -1153,13 +1206,15 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 57]]
 
-### Recursos para el aprendizaje
+currículo y la sociedad, dado que es algo dinámico, como la sociedad misma y debe de ajustarse en forma periódica, a fin de mantener su pertinencia. Se considera fundamental trabajar en la difusión del currículo y en la creación de una cultura educativa que convierta al currículo en la guía del sistema y de la escuela.
 
-Los recursos para la enseñanza de las ciencias y la tecnología procuran que los estudiantes utilicen y aprovechen el tiempo de  práctica  frente  al  computador  y  accedan  a  la  Internet para que fortalezcan y desarrollen nuevos aprendizajes y tengan las oportunidades de hacer una experimentación científica rigurosa.
+### Recursos para el aprendizaje
 
 Un elemento fundamental en la revisión curricular y en la creación de una cultura de respeto al currículo es la compatibilidad entre éste y los recursos de aprendizaje que se envían al aula. El suministro oportuno, el cuidado y mantenimiento de los recursos y el uso eficaz por parte de las y los estudiantes y del personal docente, son procesos que deben ser fortalecidos.
 
-En el caso de la tecnología de la información y de la comunicación, la experiencia va demostrando que la estrategia más apropiada para involucrar al personal docente y los estudiantes en las TICs es dotarlos de la infraestructura que  les  permita  su  uso  ilimitado.  En  ese  sentido,  la estrategia  propuesta  es  continuar  desarrollando centros  tecnológicos  de  libre  acceso,  dentro  y fuera  de  la  escuela,  hasta  que  el  rápido  y amplio desarrollo de la tecnología permita tener  computadoras    que  posibiliten  a cada estudiante disponer de una.
+Los recursos para la enseñanza de las ciencias y la tecnología procuran que los estudiantes utilicen y aprovechen el tiempo de práctica frente al computador y accedan a la Internet para que fortalezcan y desarrollen nuevos aprendizajes y tengan las oportunidades de hacer una experimentación científica rigurosa.
+
+En el caso de la tecnología de la información y de la comunicación, la experiencia va demostrando que la estrategia más apropiada para involucrar al personal docente y los estudiantes en las TICs es dotarlos de la infraestructura que les permita su uso ilimitado. En ese sentido, la estrategia propuesta es continuar desarrollando centros tecnológicos de libre acceso, dentro y fuera de la escuela, hasta que el rápido y amplio desarrollo de la tecnología permita tener computadoras que posibiliten a cada estudiante disponer de una.
 
 56
 
@@ -1177,9 +1232,9 @@ La Secretaría de Estado de Educación por más de quince años ha venido desarr
 
 #### Consolidación de programas y mejoramiento de los siguientes aspectos:
 
-- Entrega de textos escolares.  Los textos deben llegar oportunamente al estudiante, al inicio del año escolar.
+a. Entrega de textos escolares. Los textos deben llegar oportunamente al estudiante, al inicio del año escolar.
 
-- Fortalecimiento de los controles. A fin de mejorar la recuperación  de  los  textos  escolares,  controlar  el suministro y existencia así como determinación de las necesidades en base a la matrícula estudiantil,  lo  que  hace  necesario  automatizar  estos procesos.
+b. Fortalecimiento de los controles. A fin de mejorar la recuperación de los textos escolares, controlar el suministro y existencia así como determinación de las necesidades en base a la matrícula estudiantil, lo que hace necesario automatizar estos procesos.
 
 Plan Decenal de Educación 2008-2018
 
@@ -1199,7 +1254,7 @@ En el caso de las TICs, cuyo uso es más transversal, la SEE viene desarrollando
 
 ## POLITICA 3. OBJETIVOS, RESULTADOS, MEDIDAS Y ACCIONES
 
-Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de  su cumplimiento desde una perspectiva de formación en valores que oriente  el  desarrollo  humano  integral, consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos.
+Revisar periódicamente, difundir y aplicar el currículo garantizando la comprensión lectora y el desarrollo lógico matemático en el nivel básico y promover una cultura de su cumplimiento desde una perspectiva de formación en valores que oriente el desarrollo humano integral,
 
 58
 
@@ -1208,6 +1263,8 @@ Plan Decenal de Educación 2008-2018
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
+
+consolidando todas las demás dimensiones de la ciencia en los niveles educativos, así como la integración de las Tecnologías de la Información y la Comunicación (TIC) a los procesos educativos.
 
 ### Objetivo Estratégico 3
 
@@ -1323,7 +1380,7 @@ Centros Educativos  conocen y aplican de manera eficiente el Currículo  Oficial
 
 ###### Corto Plazo
 
-3.2.1  Actualización y aplicación de la Ordenanza 1'96  y aplicación efectiva de los criterios de la ordenanza, en especial  el  diseño  y  la  validación  del  currículo,  el desempeño, así como la evaluación formativa y la evaluación de competencias básicas.
+3.2.1 Actualización y aplicación de la Ordenanza 1’96 y aplicación efectiva de los criterios de la ordenanza, en especial el diseño y la validación del currículo, el desempeño, así como la evaluación formativa y la evaluación de competencias básicas.
 
 Plan Decenal de Educación 2008-2018
 
@@ -1479,13 +1536,13 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 71]]
 
-- Disponer  de  información  objetiva  del  rendimiento escolar particular y general.
+a. Disponer de información objetiva del rendimiento escolar particular y general.
 
-- Establecer,  además  de  la  evaluación  sistemática  y continua del rendimiento de los  educandos, mediciones periódicas mediante un sistema de pruebas nacionales de término  en  los  niveles  y  ciclos  que  el  Consejo  Nacional  de Educación considere pertinente.
+b. Establecer, además de la evaluación sistemática y continua del rendimiento de los educandos, mediciones periódicas mediante un sistema de pruebas nacionales de término en los niveles y ciclos que el Consejo Nacional de Educación considere pertinente.
 
-- Evaluar  sistemáticamente  los  parámetros  determinantes  de  la calidad.
+c. Evaluar sistemáticamente los parámetros determinantes de la calidad.
 
-- Utilizar la investigación educativa y los resultados de las evaluaciones para mejorar la calidad de la educación.
+d. Utilizar la investigación educativa y los resultados de las evaluaciones para mejorar la calidad de la educación.
 ### Pruebas Nacionales
 
 En el sistema educativo se han aplicado Pruebas Nacionales desde 1991; primero, fueron  pruebas al final del primer ciclo del Nivel Básico (4º); segundo, para el 1992, se aplicaron además  las de 8º de final de Nivel, así como las del Tercer Ciclo de  Adultos  Formal  y  No  Formal;  al  año  siguiente,  1993,  se añadieron las de final del Segundo Ciclo del Nivel Medio, 4to de Media. En el 1994-95 fueron aplicadas en el 6º del Nivel Básico como diagnóstica. En el 1996 fueron eliminadas las del 4º del Nivel Básico y el peso en la calificación final se redujo del 50% al 30%.
@@ -1513,7 +1570,7 @@ Para la obtención de la certificación tanto del Nivel Básico y Tercer Ciclo d
 Dado que las Pruebas Nacionales deben valorar no sólo a los estudiantes, sino también al sistema en su conjunto, a la escuela, a los directores y maestros, la administración de dichas pruebas, cuyos resultados afectarán a todos los actores del sistema, serán puestos en manos de  una  entidad  descentralizada  que  tenga  una relativa autonomía.
 
 ### Desarrollo de Estándares de Calidad
-El Consejo Nacional de Educación, a solicitud del  Sistema  de  Evaluación  de  la  Calidad Educativa  y  la  Dirección  General  de Currículo, cada cinco años o en un lapso menor si las circunstancias así lo exigen, deberá aprobar los estándares e indicadores de calidad para evaluar los factores  determinantes  de  la  calidad  que  define  la  Ley General de Educación.
+El Consejo Nacional de Educación, a solicitud del Sistema de Evaluación de la Calidad Educativa y la Dirección General de
 
 Plan Decenal de Educación 2008-2018
 
@@ -1523,7 +1580,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 73]]
 
-Los indicadores de calidad deben medir el grado de coherencia entre los fines, las estrategias y los resultados de las políticas, programas y proyectos educativos; el nivel de eficiencia de los procesos administrativos; las características socioeconómicas de los estudiantes; las características personales y profesionales del personal docente; el cumplimiento del calendario y el horario escolar, los contenidos curriculares y los materiales; los procesos de aprendizaje y las estrategias y metodologías; la infraestructura escolar desde el punto de vista del ambiente en que se desarrolla la actividad educativa; la participación de la familia;  la  orientación  educativa; los programas para mitigar los riesgos psicosociales y los desastres naturales, con un enfoque de educación preventiva.
+Currículo, cada cinco años o en un lapso menor si las circunstancias así lo exigen, deberá aprobar los estándares e indicadores de calidad para evaluar los factores determinantes de la calidad que define la Ley General de Educación.
+
+Los indicadores de calidad deben medir el grado de coherencia entre los fines, las estrategias y los resultados de las políticas, programas y proyectos educativos; el nivel de eficiencia de los procesos administrativos; las características socioeconómicas de los estudiantes; las características personales y profesionales del personal docente; el cumplimiento del calendario y el horario escolar, los contenidos curriculares y los materiales; los procesos de aprendizaje y las estrategias y metodologías; la infraestructura escolar desde el punto de vista del ambiente en que se desarrolla la actividad educativa; la participación de la familia; la orientación educativa; los programas para mitigar los riesgos psicosociales y los desastres naturales, con un enfoque de educación preventiva.
 
 ### Supervisión y Seguimiento
 
@@ -1735,15 +1794,15 @@ Plan Decenal de Educación 2008-2018
 
 - Atender el crecimiento de la población estudiantil.
 
-- Reducir el número máximo de estudiantes por sección.
-
 - Reducir el número de tandas en las escuelas.
+
+- Reducir el número máximo de estudiantes por sección.
 
 - Separar  las  escuelas  del  Nivel  Inicial  y  Básico  de  las escuelas del Nivel Medio.
 
-- Disponer  de  mobiliario  escolar  suficiente  para  atender  las necesidades de los  profesores y de los estudiantes.
-
 - Ajustar  la  infraestructura  escolar  al  currículo  oficial.  Que los Centros Educativos dispongan de espacios para biblioteca,  laboratorios,  salones  para  reuniones  y  otros  espacios requeridos para satisfacer la demanda curricular.
+
+- Disponer  de  mobiliario  escolar  suficiente  para  atender  las necesidades de los  profesores y de los estudiantes.
 
 - Desarrollar esquemas eficaces para la administración de las construcciones y rehabilitaciones escolares.
 
@@ -1767,9 +1826,9 @@ La SEE ha construido sobre la base de diseños estandarizados que, en muchos cas
 
 Dentro de la planificación y diseño de nuevos planteles escolares hay aspectos que se deben evaluar de manera cuidadosa:
 
-- Mecanismos de servicio de transporte privado para asegurar una mejor oferta educativa a los estudiantes de la zona rural.
-
 - Diferentes opciones constructivas.
+
+- Mecanismos de servicio de transporte privado para asegurar una mejor oferta educativa a los estudiantes de la zona rural.
 
 - Posibilidad  de  subcontratar  el  mantenimiento  cuando  tal modalidad resulta una opción conveniente.
 
@@ -2111,11 +2170,11 @@ Plan Decenal de Educación 2008-2018
 
 ##### Unidad Ejecutora Responsable del Resultado 6.1
 
-Dirección General de Recursos Humanos. Instituto Nacional de Formación Capacitación del Magisterio, INAFOCAM
+Dirección General de Recursos Humanos.
+Instituto Nacional de Formación y
+Capacitación del Magisterio, INAFOCAM
 
 98
-
-y
 
 Plan Decenal de Educación 2008-2018
 
@@ -2519,7 +2578,7 @@ Prioriza  a  la  escuela  como  el  núcleo  del  sistema,  a  la  que deben apo
 
 La SEE es el organismo más grande del Estado y la organización más grande de la República Dominicana. Además de normar  y  supervisar  toda  la  educación  reglada  de  nivel preuniversitario,  es  decir,  la  Educación  General,  la  SEE administra las escuelas públicas del Nivel Inicial, Básico y Media,  las  cuales  atienden  a  1.8  millones  de  los  2.2 millones de estudiantes de los tres niveles.
 
-El  aprendizaje  es  la  razón  de  ser  de  los  Centros Educativos,  la  organización  del  sistema  tiene que concebir el centro como su núcleo, lo que requiere de un proceso de descentralización para otorgar a la escuela la capacidad de tomar decisiones y asignarle recursos    para  obtener  los  resultados  que  el  Estado  y  la sociedad dominicana esperan de ella.
+El aprendizaje es la razón de ser de los Centros Educativos, la organización del sistema tiene que concebir el centro como su núcleo, lo que requiere de un proceso de descentralización para otorgar a la escuela
 
 114
 
@@ -2528,6 +2587,8 @@ Plan Decenal de Educación 2008-2018
 [[END OF PAGE 115]]
 
 [[START OF PAGE 116]]
+
+la capacidad de tomar decisiones y asignarle recursos para obtener los resultados que el Estado y la sociedad dominicana esperan de ella.
 
 ### Intervenciones organizacionales
 
@@ -2653,11 +2714,11 @@ Plan Decenal de Educación 2008-2018
 
 ##### Unidad Ejecutora Responsable del Resultado 9.1
 
-Oficina  de  Gestión  y  Desarrollo,  Oficina  de  Planificación, Direcciones  Generales  de  Niveles,  Modalidades  y  el  SubSistema  de  Educación  de  Adultos,    Dirección  General  de Informática y Dirección General de Recursos Humanos.
+Oficina  de  Gestión  y  Desarrollo,  Oficina  de  Planificación, Direcciones  Generales  de  Niveles,  Modalidades  y  el  Sub-Sistema  de  Educación  de  Adultos,    Dirección  General  de Informática y Dirección General de Recursos Humanos.
 
 #### Unidad Coordinadora del Objetivo Estratégico 9
 
-Direcciones  Generales  de  Niveles,  Modalidades  y  el  SubSistema  de  Educación  de  Adultos,  Dirección  General  de  la Oficina  de  Planificación,  Dirección  General  de  Currículo, Dirección General de Recursos Humanos, Oficina de Gestión y Desarrollo,  Equipos  de  Gestión  Pedagógica  e  Institucional, Centros Educativos, Distritos y Regionales de Educación, otros organismos del Estado y de la sociedad dominicana.
+Direcciones  Generales  de  Niveles,  Modalidades  y  el  Sub-Sistema  de  Educación  de  Adultos,  Dirección  General  de  la Oficina  de  Planificación,  Dirección  General  de  Currículo, Dirección General de Recursos Humanos, Oficina de Gestión y Desarrollo,  Equipos  de  Gestión  Pedagógica  e  Institucional, Centros Educativos, Distritos y Regionales de Educación, otros organismos del Estado y de la sociedad dominicana.
 
 120
 
@@ -2699,9 +2760,9 @@ Pacto firmado por todos los sectores de la sociedad dominicana  como  garantía 
 
 ##### MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 10.1
 
-10.1.1  Proceso  de  construcción  de  compromisos  recíprocos  en apoyo  a  la  ejecución  y  evaluación  del  Plan  Decenal  de Educación, en la perspectiva de Políticas Educativas de Estado.
-
 ###### Corto Plazo
+
+10.1.1  Proceso  de  construcción  de  compromisos  recíprocos  en apoyo  a  la  ejecución  y  evaluación  del  Plan  Decenal  de Educación, en la perspectiva de Políticas Educativas de Estado.
 
 ###### Mediano Plazo
 
@@ -2735,9 +2796,9 @@ El sistema educativo cuenta con un incremento progresivo y sostenido del financi
 
 ##### MEDIDAS Y ACCIONES PARA LOGRAR EL RESULTADO 10.2
 
-10.2.1 Lograr una activa captación de la cooperación internacional  en  apoyo  a  programas  y  proyectos estratégicos.
-
 ###### Corto Plazo
+
+10.2.1 Lograr una activa captación de la cooperación internacional  en  apoyo  a  programas  y  proyectos estratégicos.
 
 10.2.2 Alcanzar al 2009 el 2.67% del PIB o el 13.37% del gasto público.
 
@@ -2757,9 +2818,9 @@ Plan Decenal de Educación 2008-2018
 
 10.2.5 Alcanzar al 2012 el 4.09% del PIB o el 20.46% del gasto público.
 
-10.2.6 Alcanzar al 2013 el 4.60% del PIB o el 23.02% del gasto público.
-
 ###### Largo Plazo
+
+10.2.6 Alcanzar al 2013 el 4.60% del PIB o el 23.02% del gasto público.
 
 10.2.7 Alcanzar al 2014 el 4.76% del PIB o el 23.82% del gasto público.
 
@@ -2835,7 +2896,7 @@ La Secretaría de Estado de Educación debe establecer mecanismos, formas organi
 
 Es  de  la  mayor  relevancia  inventar  colectivamente  con  sus actores  protagónicos  una  nueva  escuela  dominicana,  vitalmente fortalecida en su capacidad gestora y en su condición de ser la célula movilizadora de la comunidad de aprendizaje;  una  escuela  con  reglas  del  juego  simples  y  claras  para todos los miembros de la comunidad educativa.
 
-Es fundamental que dicha comunidad de aprendizaje se organice y tenga una vida orgánica rica y se constituya en uno de los puntos focales de la vida y del desarrollo de las comunidades locales. Es indispensable que ella asuma plenamente las responsabilidades que de ella se esperan; y se convierta en una comunidad ampliada de aprendizaje, que tiene obligaciones y compromisos específicos,  pero  también una necesaria capacidad de decisión en campos que deben ser claramente delimitados. Es un hecho que una comunidad de aprendizaje,  empoderada y con sentido de sus responsabilidades y compromisos, puede hacer una contribución sustantiva a la sostenibilidad del desarrollo educativo nacional.
+Es fundamental que dicha comunidad de aprendizaje se organice y tenga una vida orgánica rica y se constituya en uno de los puntos focales de la vida y del desarrollo de las comunidades locales. Es indispensable que ella asuma plenamente las responsabilidades que de ella se esperan; y se convierta en una comunidad ampliada de aprendizaje, que tiene obligaciones y compromisos
 
 128
 
@@ -2845,7 +2906,9 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 130]]
 
-Ello implica definir e instrumentar, dentro del Pacto Social en proceso de construcción, la firme voluntad política del país, a través del Estado y de la Sociedad, de considerar a la educación como un tema de primera línea entre las prioridades estratégicas  de  la  Agenda  Nacional.  A  partir  de  ello,  será importante  impulsar  una  cultura  de  financiamiento  de  la Educación como responsabilidad del Estado, pero también de las familias y de las comunidades, dentro de sus posibilidades  y  niveles  de  desarrollo  relativo;  de  las  instituciones intermedias  del  Estado  y  de  la  Sociedad,  así  como  de  la Sociedad Dominicana en su conjunto.
+específicos, pero también una necesaria capacidad de decisión en campos que deben ser claramente delimitados. Es un hecho que una comunidad de aprendizaje, empoderada y con sentido de sus responsabilidades y compromisos, puede hacer una contribución sustantiva a la sostenibilidad del desarrollo educativo nacional.
+
+Ello implica definir e instrumentar, dentro del Pacto Social en proceso de construcción, la firme voluntad política del país, a través del Estado y de la Sociedad, de considerar a la educación como un tema de primera línea entre las prioridades estratégicas de la Agenda Nacional. A partir de ello, será importante impulsar una cultura de financiamiento de la Educación como responsabilidad del Estado, pero también de las familias y de las comunidades, dentro de sus posibilidades y niveles de desarrollo relativo; de las instituciones intermedias del Estado y de la Sociedad, así como de la Sociedad Dominicana en su conjunto.
 
 ## 2.  PARTICIPACIÓN DE LOS ACTORES DEL ESTADO Y DE LA SOCIEDAD EN LA EJECUCIÓN DEL PLAN
 
@@ -2869,7 +2932,7 @@ Las unidades ejecutoras son responsables del logro de resultados del Plan Decena
 
 Las unidades coordinadoras son responsables del acompañamiento, monitoreo y supervisión de la realización de las acciones técnicas, pedagógicas y operativas para el logro de  los  objetivos  establecidos  en  el  Plan  Decenal  de Educación.
 
-La frecuencia de los informes de los avances de los programas será: trimestral para la unidad ejecutora y  semestral  para  la  unidad  coordinadora,  de modo que se realicen cuatro informes trimestrales  por  unidad  ejecutora y dos informes semestrales  por unidad coordinadora. Los resultados de  estos  informes  serán  entregados  a  la  Oficina  de Planificación Educativa, que será responsable, después de previo análisis y verificación de los indicadores y su tendencia, de presentarlos al Consejo Nacional de Educación cada semestre para informar de los avances de las políticas establecidas en el Plan Decenal de Educación 2008-2018.
+La frecuencia de los informes de los avances de los programas será: trimestral para la unidad ejecutora y semestral para la unidad coordinadora, de modo que se realicen cuatro informes trimestrales por unidad ejecutora y dos informes
 
 130
 
@@ -2878,6 +2941,8 @@ Plan Decenal de Educación 2008-2018
 [[END OF PAGE 131]]
 
 [[START OF PAGE 132]]
+
+semestrales por unidad coordinadora. Los resultados de estos informes serán entregados a la Oficina de Planificación Educativa, que será responsable, después de previo análisis y verificación de los indicadores y su tendencia, de presentarlos al Consejo Nacional de Educación cada semestre para informar de los avances de las políticas establecidas en el Plan Decenal de Educación 2008-2018.
 
 Plan Decenal de Educación 2008-2018
 
@@ -2895,47 +2960,47 @@ Plan Decenal de Educación 2008-2018
 
 ## Comisión Institucional para la elaboración del Plan Decenal:
 
-- Lic. Susana Michel, Subsecretaria de Estado de Educación
-
 - Lic. Fausto Mota, Subsecretario de Estado de Educación
+
+- Lic. Susana Michel, Subsecretaria de Estado de Educación
 
 - Lic. Luis de León, Subsecretario de Estado de Educación
 
-- Lic. Nery Sánchez, Subsecretario de Estado de Educación
-
 - Lic. Mery Valerio, Subsecretaria de Estado de Educación
+
+- Lic. Nery Sánchez, Subsecretario de Estado de Educación
 
 - Lic. Josefina Pimentel, Miembro Consejo Nacional de Educación
 
-- Lic. Minerva Vincent, Directora Coordinadora OCI
-
 - Lic. Milagros Yost, Asesora y Encargada de la Oficina del Plan Decenal
 
-- Lic. Luis García, Director  General Relaciones Públicas
+- Lic. Minerva Vincent, Directora Coordinadora OCI
 
-- Lic. Rosa Mena,  Directora General Educación Básica
+- Lic. Luis García, Director General Relaciones Públicas
 
 - Lic. Adarberto Martínez, Director General Educación Media
 
-- Lic. Carmen Sánchez, Directora  General Educación Inicial
+- Lic. Rosa Mena, Directora General Educación Básica
 
-- Lic. Felipe Castillo Corporán, Director  General Técnico Profesional
+- Lic. Carmen Sánchez, Directora General Educación Inicial
 
 - Lic. Eulalia Jiménez, Directora General Educación Especial
 
-- Lic. Julio Leonardo Valeirón, Director General de Evaluación de la Calidad
+- Lic. Felipe Castillo Corporán, Director General Técnico Profesional
 
-- Lic. Rafael Teodoro Santana, Director General de Participación Comunitaria
+- Lic. Julio Leonardo Valeirón, Director General de Evaluación de la Calidad
 
 - Lic. Manuel Matos Moquete, Asesor de Curriculum
 
-- Ing. Víctor Sánchez, Director General Planificación Educativa
+- Lic. Rafael Teodoro Santana, Director General de Participación Comunitaria
 
-- Lic. Cástulo Reyes, Director General de Curriculum
+- Ing. Víctor Sánchez, Director General Planificación Educativa
 
 - Lic. Rafael García Romero, Director General Cultura
 
-- Lic. Manuel Suero, Director General Instituciones Educativas  Privadas
+- Lic. Cástulo Reyes, Director General de Curriculum
+
+- Lic. Manuel Suero, Director General Instituciones Educativas Privadas
 
 Plan Decenal de Educación 2008-2018
 
@@ -2947,39 +3012,39 @@ Plan Decenal de Educación 2008-2018
 
 - Lic. Herminio Aquino, Director Departamento de Tesorería
 
-- Lic. Zeneyda de Jesús Contreras, Asesora SEE
-
 - Lic. Jacqueline Malagón, Asesora SEE
+
+- Lic. Zeneyda de Jesús Contreras, Asesora SEE
 
 ## Miembros del Consejo Nacional de Educación:
 
-- Lic. Susana Michel, Subsecretaria de Estado de Educación
-
 - Lic. Alejandrina Germán, Secretaria de Estado de Educación, Presidenta del CNE
+
+- Lic. Susana Michel, Subsecretaria de Estado de Educación
 
 - Lic. Fausto Mota, Subsecretario de Estado de Educación
 
-- Lic. Carmen Sánchez, Directora General de Educación Inicial
+- Lic. Vernon Cabrera, Consultor Jurídico SEE
 
-- Lic. Vernon Cabrera,  Consultor Jurídico SEE
+- Lic. Carmen Sánchez, Directora General de Educación Inicial
 
 - Lic. Minerva Vincent, Directora Coordinadora OCI
 
-- Lic. Fausto Bueno Bueno, Representante Juntas Descentralizadas
+- Lic. Adarberto Martínez, Director General de Educación Media
 
-- Lic. Adarberto Martínez,  Director General de Educación Media
+- Lic. Fausto Bueno Bueno, Representante Juntas Descentralizadas
 
 - Lic. Pedro Antonio Eduardo, Representante Institutos Descentralizados de la SEE
 
-- Dr. Franklin Holguín Haché, Representante de Educación de Adultos y Educación Permanente para los diferentes niveles, ciclos y modalidades
+- Lic. Roberto Reyna, Rector Universidad Autónoma de Santo Domingo
 
-- Lic. Roberto Reyna,  Rector Universidad Autónoma de Santo Domingo
+- Dr. Franklin Holguín Haché, Representante de Educación de Adultos y Educación Permanente para los diferentes niveles, ciclos y modalidades
 
 - Lic. Altagracia Fernández, Representante del Sector Cultura y Comunicación
 
-- Dr. Víctor Hugo De Láncer, Representante del Consejo Nacional de Educación Superior
-
 - Lic. Felipe Jay Payano, Secretario de Estado de Deportes
+
+- Dr. Víctor Hugo De Láncer, Representante del Consejo Nacional de Educación Superior
 
 134
 
@@ -2991,27 +3056,27 @@ Plan Decenal de Educación 2008-2018
 
 - Lic. Josefina Pimentel, Representante de las nstituciones de Formación Técnico Profesional
 
-- Lic. Mariano Negrón, Representante del Sector Laboral
-
 - Lic. Carmen Salcé, Representante del Sector mpresarial
+
+- Lic. Mariano Negrón, Representante del Sector Laboral
 
 - Lic. Rosa María Suárez, Representante de la Secretaría de Estado de Salud Pública y Asistencia Social
 
-- Dr. José Nicolás Almánzar, Ex Secretario de Estado de Educación, no militante del partido en el gobierno
-
 - Lic. Aida Consuelo Hernández, Sector Privado que apoya directamente a la SEE con convenios de cooperación legalmente reconocidos
+
+- Dr. José Nicolás Almánzar, Ex Secretario de Estado de Educación, no militante del partido en el gobierno
 
 - Rvdo. Padre Néstor Pazos, Representante de la Conferencia del Episcopado Dominicano
 
-- Lic. María Teresa Cabrera, Representante de la Asociación Mayoritaria de los Educadores (ADP)
-
 - Rvdo. Manuel Rivera, Representante de las Iglesias Cristianas no Católicas
+
+- Lic. María Teresa Cabrera, Representante de la Asociación Mayoritaria de los Educadores (ADP)
 
 - Rolfin Rafael Núñez López, Representante del Sector Estudiantil
 
-- Rvdo. Fray Carlos Morales, Representante de los Colegios Privados Católicos
-
 - Ing. Ag. Orlando Virgilio Ferreras, Representante de las Asociaciones de Padres, Madres, Tutores y Amigos de la Escuela
+
+- Rvdo. Fray Carlos Morales, Representante de los Colegios Privados Católicos
 
 - Lic. Darío Mateo Mora, Representante de los Colegios Privados Confesionales no Católicos
 
@@ -3027,30 +3092,30 @@ Plan Decenal de Educación 2008-2018
 
 ## Consultores:
 
-- Ing. Ramón Flores, Consultor Nacional Senior, Proyecto ATEI
+- Dr. César Picón, Consultor Internacional Senior, Proyecto ATEI
 
-- Dr. César Picón, Consultor Internacional Senior , Proyecto ATEI
+- Ing. Ramón Flores, Consultor Nacional Senior, Proyecto ATEI
 
 - Ing. David Lapaix, Consultor Nacional Junior, Proyecto ATEI
 
-- Dr. Horacio Azevedo Loureiro De Amorín, Consultor Apoyo Presupuestario, Proyecto ATEI
-
 - Dr. Jean François Bernede, Coordinador del Proyecto de Asistencia Técnica Institucional - ATEI
+
+- Dr. Horacio Azevedo Loureiro De Amorín, Consultor Apoyo Presupuestario, Proyecto ATEI
 
 - Dra. Altagracia Rivera de Castillo, Consultora SEE
 
 ## Instituciones y Organismos participantes
 ### Asociaciones Empresariales:
 
-Asociación de Industrias de la República Dominicana - AIRD
-
 Consejo Nacional de la Empresa Privada - CONEP
+
+Asociación de Industrias de la República Dominicana - AIRD
 
 Cámara Americana de Comercio
 
-Asociación Nacional de Hoteles y Restaurantes
-
 Asociación de Jóvenes Empresarios, ANJE
+
+Asociación Nacional de Hoteles y Restaurantes
 
 Consejo Nacional de Empresas de Zona Franca
 
@@ -3058,20 +3123,19 @@ Asociación de Empresas Privadas
 
 ### Ex-Secretarios(as) de Educación:
 
-Dr. Leonardo Matos Berrido
-
 Dr. José Andrés Aybar Sánchez
+
+Dr. Leonardo Matos Berrido
 
 Lic. Jacqueline Malagón
 
-Dra. Altagracia Bautista de Suárez
-
 Dr. Nicolás Almánzar
+
+Dra. Altagracia Bautista de Suárez
 
 Ing. Pedro Porrello
 
 Dr. Pedro Gil Iturbides
-### Organizaciones No Gubernamentales:
 
 136
 
@@ -3081,59 +3145,55 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 138]]
 
-Casa Abierta
+### Organizaciones No Gubernamentales:
 
 Aide et Action
 
-Centro Poveda
+Casa Abierta
 
-Participación Ciudadana
+Centro Poveda
 
 EDUCA
 
-Fe y Alegría
+Participación Ciudadana
 
-Fundación Sur Futuro
+Fe y Alegría
 
 FLACSO
 
-Muchachos y Muchachas con Don Bosco
+Fundación Sur Futuro
 
-DevTech Systems
+Muchachos y Muchachas con Don Bosco
 
 Save the Children
 
-Fundación Aprendo 2000
+DevTech Systems
 
-Federación Campesina, Barahona
+Fundación Aprendo 2000
 
 FUNDEJANICO, Santiago
 
-Cooperativa La Sureña, Barahona, San Juan de la Maguana, Azua
+Federación Campesina, Barahona
 
-Asociación de Periodistas, San Pedro de Macorís
+Cooperativa La Sureña, Barahona, San Juan de la Maguana, Azua
 
 Colegios de Ingenieros y Agrimensores - CODIA
 
-Asociación de Amas de Casa, Barahona, Mao, San Juan de la Maguana
+Asociación de Periodistas, San Pedro de Macorís
 
-Asociación de Colegio de Abogados, Santo Domingo
+Asociación de Amas de Casa, Barahona, Mao, San Juan de la Maguana
 
 Asociación de Ferreteros, Santo Domingo
 
-Sector Productivo, San Pedro de Macorís, Azua
+Asociación de Colegio de Abogados, Santo Domingo
 
-Asociación de Colegios Privados, San Cristóbal, San Pedro
+Sector Productivo, San Pedro de Macorís, Azua
 
 Caritas Diocesanas
 
-de Macorís, La Vega, San Francisco de M., Santiago, Santo
+Asociación de Colegios Privados, San Cristóbal, San Pedro de Macorís, La Vega, San Francisco de M., Santiago, Santo Domingo II, Puerto Plata, Santo Domingo III
 
-Junta de Vecinos, Santiago, Mao, Montecristi, Azua,
-
-Domingo II, Puerto Plata, Santo Domingo III
-
-La Vega Foro Social, Barahona, La Vega Asociación de Desarrollo, Gaspar Hernández Asociación de Comerciantes, Barahona, Sto. Dgo.
+Junta de Vecinos, Santiago, Mao, Montecristi, Azua, La Vega
 
 Plan Decenal de Educación 2008-2018
 
@@ -3143,47 +3203,53 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 139]]
 
-Federación Campesina, Azua
+Foro Social, Barahona, La Vega
 
-Asociación de Detallistas, San Pedro de Macorís, San Cristóbal
+Asociación de Comerciantes, Barahona, Sto. Dgo.
+
+Asociación de Desarrollo, Gaspar Hernández
+
+Federación Campesina, Azua
 
 Asociación de Caficultores, Barahona, Constanza
 
+Asociación de Detallistas, San Pedro de Macorís, San Cristóbal
+
 Asociación de Comerciantes y Detallistas, Barahona, Neyba, Santiago
 
-Barahona, San Pedro de Macorís
-
-Movimiento Socioeducativo Dominicano, MSD, Santiago,
+Movimiento Socioeducativo Dominicano, MSD, Santiago, Barahona, San Pedro de Macorís
 
 Asociación Médica Dominicana, San Pedro de Macorís
 
-Asociación  de  Estudiantes,  San  Pedro  de  Macorís,  Mao,  Santo
-
 Asociación de Padres, Madres y Amigos de la Escuela, de Barahona, Santo Domingo
 
-Domingo, Barahona, Azua, San Cristóbal, Puerto Plata Juntas de Centro, Santiago, Santo Domingo, Mao, Azua, La Vega Federación de Asociaciones Comunitarias, FEDACOMIC, La Vega
+Asociación de Estudiantes, San Pedro de Macorís, Mao, Santo Domingo, Barahona, Azua, San Cristóbal, Puerto Plata
+
+Juntas de Centro, Santiago, Santo Domingo, Mao, Azua, La Vega
+
+Federación de Asociaciones Comunitarias, FEDACOMIC, La Vega
 
 ### Organizaciones Gubernamentales:
 
-Secretaría de Estado de la Mujer
-
 Secretaría de Estado de Educación
+
+Secretaría de Estado de la Mujer
 
 Secretaría de Estado de la Juventud
 
-Secretaría de Estado de Economía, Planificación y Desarrollo
-
 Secretaría de Estado de Agricultura
+
+Secretaría de Estado de Economía, Planificación y Desarrollo
 
 Secretaría de Estado de Salud Pública y Asistencia Social
 
-Secretaría de Estado de Cultura
+Secretaría de Estado de Medio Ambiente y Recursos Naturales
 
-Secretaría  de  Estado  de  Medio  Ambiente  y  Recursos Naturales
+Secretaría de Estado de Cultura
 
 Secretaría de Estado de las Fuerzas Armadas
 
-Banco Central Ayuntamiento del Distrito Nacional - ADN
+Banco Central
 
 138
 
@@ -3193,29 +3259,31 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 140]]
 
-Defensa Civil
+Ayuntamiento del Distrito Nacional - ADN
 
 Oficialía del Estado Civil
 
+Defensa Civil
+
 Cuerpo de Bomberos
 
-Suprema Corte de Justicia
-
 Cruz Roja Dominicana
+
+Suprema Corte de Justicia
 
 Policía Nacional
 
 ### Iglesias:
 
-Iglesia Asamblea de Dios, San Pedro de Macorís, Barahona y Azua
-
 Conferencia del Episcopado Dominicano
+
+Iglesia Asamblea de Dios, San Pedro de Macorís, Barahona y Azua
 
 Iglesia Metodista Libre
 
-Iglesia Evangélica Dominicana
-
 Iglesia Bíblica Cristiana, Mao
+
+Iglesia Evangélica Dominicana
 
 Iglesia Protestante de Neyba
 
@@ -3223,21 +3291,21 @@ Iglesia Adventista de La Vega
 
 ### Organismos Internacionales:
 
-Banco Interamericano de Desarrollo - BID
-
 Banco Mundial - BM
 
-Programa de las Naciones Unidas para el Desarrollo  - PNUD
+Banco Interamericano de Desarrollo - BID
 
-Cuerpo de Paz
+Programa de las Naciones Unidas para el Desarrollo - PNUD
 
 Proyecto ATI - Cooperación de la Unión Europea
 
+Cuerpo de Paz
+
 Organización Internacional del Trabajo - OIT
 
-Plan Internacional
-
 Agencia Internacional de Desarrollo - AID
+
+Plan Internacional
 
 Plan Decenal de Educación 2008-2018
 
@@ -3249,47 +3317,47 @@ Plan Decenal de Educación 2008-2018
 
 ### Partidos Políticos:
 
-Partido Reformista Social Cristiano
-
 Partido de la Liberación Dominicana
+
+Partido Reformista Social Cristiano
 
 Fuerza Nacional Progresista
 
-Partido Quisqueyano Demócrata
-
 Partido Revolucionario Independiente
+
+Partido Quisqueyano Demócrata
 
 Partido Revolucionario Social Demócrata
 
-Bloque Institucional Socialista Demócrata
-
 Partido de la Unidad Democrática
+
+Bloque Institucional Socialista Demócrata
 
 Partido de los Trabajadores Dominicanos
 
 ### Sindicatos:
 
-Asociación  Dominicana  de  Profesores  -  ADP:  La  Vega,  Azua,  San
-
 Asociación Dominicana de Profesores - ADP
 
-Juan de M., San Cristóbal, Santiago
-
-Consejo Nacional de Unidad Sindical - CNUS
+Asociación Dominicana de Profesores - ADP: La Vega, Azua, San Juan de M., San Cristóbal, Santiago
 
 Sindicato de la Construcción: Santiago, Santo Domingo
 
+Consejo Nacional de Unidad Sindical - CNUS
+
 SITRACOM
 
-Asociación de Maestros, Profesores y Técnicos de Educación, AMPROTED Metales Dominicanos, METALDOM
+Asociación de Maestros, Profesores y Técnicos de Educación, AMPROTED
+
+Metales Dominicanos, METALDOM
 
 ### Clubes Sociales:
+
+Clubes Sociales de: Santiago, Montecristi, San Juan de la Maguana, San Pedro de Macorís
 
 Club Rotario, Barahona y San Juan de la Maguana
 
 Club de Leones, San Pedro y San Juan de la Maguana
-
-Clubes  Sociales  de:  Santiago,  Montecristi,  San  Juan  de  la Maguana, San Pedro de Macorís
 
 140
 
@@ -3301,21 +3369,21 @@ Plan Decenal de Educación 2008-2018
 
 ### Universidades:
 
-Universidad Nacional Pedro Henríquez Ureña
-
 Universidad Autónoma de Santo Domingo
+
+Universidad Nacional Pedro Henríquez Ureña
 
 Universidad del Caribe
 
-Universidad de la Tercera Edad
-
 Pontificia Universidad Católica Madre y Maestra
+
+Universidad de la Tercera Edad
 
 Universidad Iberoamericana
 
-Instituto de Formación Docente Educación Superior Salomé Ureña
-
 Instituto Tecnológico de Santo Domingo
+
+Instituto de Formación Docente Educación Superior Salomé Ureña
 
 Universidad Católica Tecnológica del Cibao
 
@@ -3323,27 +3391,27 @@ Universidad Catolica Santo Domingo
 
 ### Medios de Difusión Radial:
 
-Radio Merengue 1210 AM
-
 Digital 94.7 FM
+
+Radio Merengue 1210 AM
 
 H 102 FM
 
-Radio Santa María
-
 Radio Taína
+
+Radio Santa María
 
 La Voz del Progreso
 
-Circuito Telesonido AM
-
 La Super 56, La Voz de Alabanza
+
+Circuito Telesonido AM
 
 91.7 FM
 
-Especial  93.5 FM
-
 90.3 Festival FM
+
+Especial 93.5 FM
 
 Dacer FM
 
@@ -3357,57 +3425,51 @@ Plan Decenal de Educación 2008-2018
 
 ### Medios Televisivos:
 
-Canal 49 UHF
-
 Arco Iris Televisión
+
+Canal 49 UHF
 
 Telenorte
 
-Cable TV
-
 Canal 8, 10 y 12 UHF
+
+Cable TV
 
 Canal 3
 
-### Telecomunicaciones :
-
-TRICOM
+### Telecomunicaciones:
 
 CENTENIAL
+
+TRICOM
 
 CODETEL
 
 ORANGE
 
-### Diáspora Dominicana  en los Estados Unidos:
-
-Asociación de Bodegueros
+### Diáspora Dominicana en los Estados Unidos:
 
 Asociación de Dominicanos Residentes en New York
+
+Asociación de Bodegueros
 
 Grupo de Profesionales Dominicanos en New Jersey
 
 ### Diáspora Dominicana en Europa:
 
-Consulado  General  de  la  República  Dominicana,  Madrid,
-
 Embajada de la República Dominicana, Madrid, España
 
-España
+Consulado General de la República Dominicana, Madrid, España
 
-Barcelona, España
+Consulado General de la República Dominicana, Barcelona, España
 
-Consulado General de la República Dominicana,
-
-Consulado  General  de  la  República  Dominicana,
+Consulado General de la República Dominicana, Génova, Italia
 
 Asociación de Dominicanos, Alemania
 
-Génova, Italia
-
 Asociación de Dominicanos, Ávila, España
 
-Asociación de Dominicanos, Italia Asociación de Dominicanos, Suiza Asociación de Odontólogos Dominicanos,  España Asociación de la Comunidad Dominicana, Cataluña Asociación por los Dominicanos Ausentes, España Consejo  Consultivo  de  la  Presidencia  Dominicana  en  el  Exterior, Cataluña Ayuntamiento de Vilafranca del Penedés, Barcelona Estudiantes Dominicanos en la Universidad Pontificia de Salamanca (2005-2006)
+Asociación de Dominicanos, Italia
 
 142
 
@@ -3417,40 +3479,54 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 144]]
 
-Instituto Duartiano, España
+Asociación de Dominicanos, Suiza
+
+Asociación de la Comunidad Dominicana, Cataluña
+
+Asociación de Odontólogos Dominicanos, España
+
+Asociación por los Dominicanos Ausentes, España
+
+Ayuntamiento de Vilafranca del Penedés, Barcelona
+
+Consejo Consultivo de la Presidencia Dominicana en el Exterior, Cataluña
+
+Estudiantes Dominicanos en la Universidad Pontificia de Salamanca (2005-2006)
 
 Iglesia Virgen de La Altagracia, España
 
+Instituto Duartiano, España
+
 Partido de la Liberación Dominicana, España
 
-Representantes de la Sociedad Civil, Barcelona
-
 Partido Reformista Social Cristiano, España
+
+Representantes de la Sociedad Civil, Barcelona
 
 ## PARTICIPANTES POR GRUPOS TEMÁTICOS
 ### La Escuela como Núcleo del Sistema:
 
-Cástulo Reyes, SEE
-
 Josefina Pimentel, Coordinadora
+
+Cástulo Reyes, SEE
 
 Dionisia Bencosme, Consultora
 
-Miguel Guirado, PRSC
-
 Ciana Martínez, SEE
+
+Miguel Guirado, PRSC
 
 Ángela López, SEE
 
-Jacqueline Hilario, Escuela República de Colombia
-
 Altagracia Rivera de Castillo, Consultora SEE
+
+Jacqueline Hilario, Escuela República de Colombia
 
 Basilia Rodríguez, SEE
 
-Ana Francisca Suero, Escuela España
-
 Iris De Jesús, SEE
+
+Ana Francisca Suero, Escuela España
 
 Ramona Contreras, Fe y Alegría
 
@@ -3464,55 +3540,61 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 145]]
 
-Alina Matos, Centro Educativo Los Prados Ana Cristalia Ramos, SEE María del Rosario, SEE
+Alina Matos, Centro Educativo Los Prados
+
+Ana Cristalia Ramos, SEE
+
+María del Rosario, SEE
 
 ### Evaluación del Desempeño:
 
-Zeneyda de Jesús Contreras, Plan Decenal
-
 Julio Leonardo Valeirón, Coordinador
 
-Genaro Antonio  Mencía, SEE
+Zeneyda de Jesús Contreras, Plan Decenal
 
-Carmen Salcé, CONEP
+Genaro Antonio Mencía, SEE
 
 Liduvina S. Cordero, SEE
 
-Rosa González, SEE
+Carmen Salcé, CONEP
 
-Pedro Gil Iturbides, UTESA
+Rosa González, SEE
 
 Víctor Encarnación, UASD, Escuela de Pedagogía
 
-Orlando V. Ferreras, APMAES
+Pedro Gil Iturbides, UTESA
 
-Adriana Márquez, OCI
+Orlando V. Ferreras, APMAES
 
 Alfredo Carrasco, APMAES
 
-Saturnino de los Santos, Consultor  ADAAC
+Adriana Márquez, OCI
 
-Aida Consuelo Hernández, EDUCA, Miembro del CNE
+Saturnino de los Santos, Consultor ADAAC
 
 Zoraida Trinidad, ADP
 
-Carlos Peña, ANJE
+Aida Consuelo Hernández, EDUCA, Miembro del CNE
 
-Belkis Cadena, UASD
+Carlos Peña, ANJE
 
 Domingo Mejía, ADP
 
+Belkis Cadena, UASD
+
 ### Aplicación del Currículo:
+
+Manuel Matos Moquete, Coordinador
+
+José Canario, DGETP/ SEE
 
 Gilda Y. Matos, Educación Artística, SEE
 
-Manuel Matos Moquete, Coordinador José Canario, DGETP/ SEE
-
 Deolegario Tapia, Regional 10, SEE
 
-F. Carlos Morales, UNEC
-
 Delsa M. Rosario, SEE
+
+F. Carlos Morales, UNEC
 
 144
 
@@ -3524,53 +3606,51 @@ Plan Decenal de Educación 2008-2018
 
 Joaquín Suero, SEE
 
-Vitalia Lara, SEE
-
 Danilo Contreras, SEE
 
-Maritza Batista, Politécnico
+Vitalia Lara, SEE
+
+Maritza Batista, Politécnico Las Caobas
 
 Felicia Campusano, SEE
 
-Las Caobas
-
 Carmen Matías Pérez, UASD
-
-Míreles Abad, SEE
 
 Manuel Suero, SEE
 
-Luisa Mateo Dicló, SEE
+Míreles Abad, SEE
 
-Juan Humberto Cevo, Consultor Internacional, SEE
+Luisa Mateo Dicló, SEE
 
 Noelia Hernández, SEE
 
-William Soto, SEE
+Juan Humberto Cevo, Consultor Internacional, SEE
 
-Carmen Evarista Matías Paz, UASD
+William Soto, SEE
 
 Alexis Algarrobo, SEE
 
+Carmen Evarista Matías Paz, UASD
+
 Zarife Kury, SEE
 
-María Soledad Lockard Puchalt, DGC/ SEE
-
 Nelio Omar Peña, SEE
+
+María Soledad Lockard Puchalt, DGC/ SEE
 
 Mérido Sánchez, Politécnico Las Caobas
 
 ### Educación Inicial y Básica, niveles y modalidades:
 
-Carmen Sánchez, Coordinadora
-
 Rosa Mena, Coordinadora
+
+Carmen Sánchez, Coordinadora
 
 Miledy Alcántara Mambrú, Educación Básica, SEE
 
-Crucita Pineda, Educación Inicial, SEE
-
 Mindris Amalfis Medrano, Educación Inicial, SEE
+
+Crucita Pineda, Educación Inicial, SEE
 
 Mercedes Hernández, OCI, SEE
 
@@ -3582,9 +3662,55 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 147]]
 
-Reyita Pinales, Educación Inicial, SEE Eulalia Jiménez, Educación Especial, SEE Juana Celenia Mota, Escuela Básica Santa Cruz Dignora Alt. Rivera Gómez, Escuela Básica Santa Cruz Sonia Pichardo, Colegios Privados, SEE Lucrecia Matos, Educación Especial, SEE Rafaela Betances Monción, Educación Básica, SEE Jacqueline Alserreco, Fe y Alegría Guadalupe Valdez, OCI, SEE Julia Vargas, Educación Inicial, SEE Virginia Cruz, Educación Inicial, SEE Milagros Concepción, Consultora Educación Inicial, SEE Dominga Sánchez, Educación Inicial, SEE Yudelka Morales, OCI, SEE Delfina Bravo, Consultora OCI, SEE Anastasia Lara, Escuela Ligia Portalatín Rosa Morales, Colegio La Ronda Denia Burgos, Regional 10, SEE Argentina Cabrera, Educación Básica, SEE Damaris D´Oleo, Educación Básica, SEE Miledi Alcántara, Educación Básica, SEE Gertrudis  Johnson, Educación Básica, SEE Ramona Rodríguez, Directora Escuela Básica Ramón Matías Mella Luz Eridania Marmolejos, Directora Escuela Básica República de Colombia Renato Malagón, Colegios Privados
-### Educación Media y Técnico Profesional:
-Adarberto Martínez, Coordinador Felipe Castillo, Coordinador Roque Diómedes, Colegio Babeque Pericles Romero, SEE Miguelina Polanco, SEE Jorge Antonio Minaya, SEE Pedro Hernández, Politécnico Loyola Violeta Morales, SEE Víctor Liria, CEM República de Colombia Percio A. Geraldo, SEE Wilfredo Rosario, SEE Luis Alberto Pérez, Liceo Unión Panamericana Milqueya Rodríguez, SEE Víctor Ruiz, Liceo Unión Panamericana Plácedes Santos, Politécnico Víctor Estrella Liz Alejandra Gratereaux, SEE Luciano Gómez, ENAO, SEE
+Reyita Pinales, Educación Inicial, SEE
+
+Eulalia Jiménez, Educación Especial, SEE
+
+Juana Celenia Mota, Escuela Básica Santa Cruz
+
+Dignora Alt. Rivera Gómez, Escuela Básica Santa Cruz
+
+Sonia Pichardo, Colegios Privados, SEE
+
+Lucrecia Matos, Educación Especial, SEE
+
+Rafaela Betances Monción, Educación Básica, SEE
+
+Jacqueline Alserreco, Fe y Alegría
+
+Guadalupe Valdez, OCI, SEE
+
+Julia Vargas, Educación Inicial, SEE
+
+Virginia Cruz, Educación Inicial, SEE
+
+Milagros Concepción, Consultora Educación Inicial, SEE
+
+Dominga Sánchez, Educación Inicial, SEE
+
+Yudelka Morales, OCI, SEE
+
+Delfina Bravo, Consultora OCI, SEE
+
+Anastasia Lara, Escuela Ligia Portalatín
+
+Rosa Morales, Colegio La Ronda
+
+Denia Burgos, Regional 10, SEE
+
+Argentina Cabrera, Educación Básica, SEE
+
+Damaris D´Oleo, Educación Básica, SEE
+
+Miledi Alcántara, Educación Básica, SEE
+
+Gertrudis Johnson, Educación Básica, SEE
+
+Ramona Rodríguez, Directora Escuela Básica Ramón Matías Mella
+
+Luz Eridania Marmolejos, Directora Escuela Básica República de Colombia
+
+Renato Malagón, Colegios Privados
 
 146
 
@@ -3594,9 +3720,55 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 148]]
 
+### Educación Media y Técnico Profesional:
+
+Adarberto Martínez, Coordinador
+
+Felipe Castillo, Coordinador
+
+Roque Diómedes, Colegio Babeque
+
+Pericles Romero, SEE
+
+Miguelina Polanco, SEE
+
+Jorge Antonio Minaya, SEE
+
+Pedro Hernández, Politécnico Loyola
+
+Violeta Morales, SEE
+
+Víctor Liria, CEM República de Colombia
+
+Percio A. Geraldo, SEE
+
+Wilfredo Rosario, SEE
+
+Luis Alberto Pérez, Liceo Unión Panamericana
+
+Milqueya Rodríguez, SEE
+
+Víctor Ruiz, Liceo Unión Panamericana
+
+Plácedes Santos, Politécnico Víctor Estrella Liz
+
+Alejandra Gratereaux, SEE
+
+Luciano Gómez, ENAO, SEE
+
 ### Educación de Adultos:
 
-Susana Michel, Coordinadora Argentina Henríquez, Centro Poveda Midalma López, Especialista Externa Rafael A. Tavarez, Colegios Católicos Damiana León, Especialista Externa Sonia M. Álvarez, Liceo General. Belisario Peguero José M. Mejía, Escuela Manuel de Jesús Cabrera José Alberto Jiménez, SEE
+Susana Michel, Coordinadora
+
+Argentina Henríquez, Centro Poveda
+
+Midalma López, Especialista Externa
+
+Rafael A. Tavarez, Colegios Católicos
+
+Damiana León, Especialista Externa
+
+Sonia M. Álvarez, Liceo General. Belisario Peguero
 
 Plan Decenal de Educación 2008-2018
 
@@ -3606,51 +3778,55 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 149]]
 
+José M. Mejía, Escuela Manuel de Jesús Cabrera
+
 Miriam Camilo, Consultora, SEE
+
+José Alberto Jiménez, SEE
 
 Yssa D. Moreta V., SEE
 
-Basilia Rodríguez, SEE
-
 Onavis Cabrera, SEE
+
+Basilia Rodríguez, SEE
 
 Milqueya Rodríguez, SEE
 
-Dinorah Nolasco, SEE
-
 Carmen Villanueva, SEE
+
+Dinorah Nolasco, SEE
 
 María Magdalena Valerio, SEE
 
 ### Recursos para el Aprendizaje:
 
-Luis Delgado, SEE-DGTP
-
 Nicolás Gomera, Coordinador
+
+Luis Delgado, SEE-DGTP
 
 Niurka Pérez, Editora Alfa y Omega
 
-Ernesto Cuello, Editora Taller
-
 José Trinidad, SEE
+
+Ernesto Cuello, Editora Taller
 
 Ligia Salomé Henríquez, ITLA
 
-María Isabel Incháustegui, Editorial Santillana
-
 Christian Herrera, Editora Taller
+
+María Isabel Incháustegui, Editorial Santillana
 
 Maritza Rossi, INABIMA
 
-Marcos Rosa Ramos, SEE
-
 Zoraida Trinidad, Comité Ejecutivo ADP
+
+Marcos Rosa Ramos, SEE
 
 Juana María Rodríguez, SEE
 
-Fausto A. Bueno, SEE
-
 Alexis Algarrobo, SEE
+
+Fausto A. Bueno, SEE
 
 Luis Soto, SEE
 
@@ -3664,59 +3840,59 @@ Plan Decenal de Educación 2008-2018
 
 ### Recursos Humanos:
 
-José Ramón Paulino, Recursos Humanos, SEE
-
 Nery Sánchez, Coordinador
+
+José Ramón Paulino, Recursos Humanos, SEE
 
 Ariadna Aybar Martín, Universidad del Caribe, UNICARIBE
 
-Martín Santos, SEE
-
 Diógenes Gómez Durán, UASD
 
-Rafael Santana,  SEE
+Martín Santos, SEE
 
-Gregorio Montero, ONAP
+Rafael Santana, SEE
 
 Abel González Cueva, ADP
 
+Gregorio Montero, ONAP
+
 Julio Vólquez, SEE
 
-Roberto Uzal, Consultor ATI - SEE
+David Lapaix, Consultor ATI – SEE
 
-David Lapaix, Consultor ATI - SEE
+Roberto Uzal, Consultor ATI – SEE
 
-Renato González, Consultor ATI - SEE
-
-Ricardo Salvador Fulcar,  SEE
+Renato González, Consultor ATI – SEE
 
 Gilberto Zorrilla, SEE
 
-Ramona Cáceres, SEE
+Ricardo Salvador Fulcar, SEE
 
-Leoncio Moreno, SEE
+Ramona Cáceres, SEE
 
 Santica Domínguez, SEE
 
+Leoncio Moreno, SEE
+
 Luis Manuel Mejia, SEE
 
-Amantina González, SEE
-
 Priscilla Gross, SEE
+
+Amantina González, SEE
 
 Aldo Ricardo Peña, SEE
 
 ### Infraestructura:
 
-Julio Peña, Coordinador
-
 Héctor T. Lockhart, Coordinador
+
+Julio Peña, Coordinador
 
 Maribel Villalona, CEDARQ
 
-Adolfo Cedeño de la Rosa, CODIA
-
 Guaroa Noboa, CEDARQ
+
+Adolfo Cedeño de la Rosa, CODIA
 
 Magaly Caba, INTEC
 
@@ -3732,45 +3908,45 @@ José Espaillat, OCI Domingo Valerio, Cuerpo de Paz Jorge Mesa, Consultor Privad
 
 ### Financiamiento:
 
-América Bastidas, SEEPyD
-
 Víctor Sánchez, Coordinador
+
+América Bastidas, SEEPyD
 
 Francisco Cruz, Senado de la República
 
-David Lapaix, Consultor ATI - SEE
+Francois Bernede, Consultor ATI – SEE
 
-Francois Bernede, Consultor ATI - SEE
+David Lapaix, Consultor ATI – SEE
 
 Modesto Ozuna, SEE
 
-Pascual Piña, SEE
+Horacio Azevedo Loureiro De Amerín, Consultor ATI – SEE
 
-Horacio Azevedo Loureiro De  Amerín, Consultor ATI - SEE
+Pascual Piña, SEE
 
 Silvano Rosario, SEE
 
-Jacqueline Malagón, Asesora, SEE
-
 Rosanna Rosso, SEE
+
+Jacqueline Malagón, Asesora, SEE
 
 Ydenia Doñé, Cámara de Diputados
 
-Kevin Manning, AMCHAM / EDUCA
-
 Herminio Aquino, SEE
+
+Kevin Manning, AMCHAM / EDUCA
 
 Roberto Blondet, Banco Central
 
-Victoriano Rivas, SEE
-
 Luis Sánchez Noble, Zona Industrial de Herrera
+
+Victoriano Rivas, SEE
 
 Altagracia Rivera de Castillo, Consultora SEE
 
-Angelina Riveiro, ANJE
-
 Edmundo Morel, SEE
+
+Angelina Riveiro, ANJE
 
 150
 
@@ -3782,27 +3958,27 @@ Plan Decenal de Educación 2008-2018
 
 Radhamés Camacho, ADP
 
-Robert Germán, DGETP, SEE
-
 Eduardo Cuello, ADP
+
+Robert Germán, DGETP, SEE
 
 Juan José Rosario, Cámara de Diputados
 
-Magdalena Lizardo, SEEPyD
-
 Jeffrey Lizardo, SEEPyD
+
+Magdalena Lizardo, SEEPyD
 
 Sandra González, Consejo Nacional de Competitividad
 
-Rosajilda Vélez, SEEPyD
-
 Beverly Fernández, SEEPyD
+
+Rosajilda Vélez, SEEPyD
 
 Marina Taveras, USAID
 
-Minerva Tavarez Mirabal, Cámara de Diputado
-
 Ramón Flores, ATI-SEE
+
+Minerva Tavarez Mirabal, Cámara de Diputado
 
 Alberto Calderón, SEE
 
@@ -3814,6 +3990,10 @@ Plan Decenal de Educación 2008-2018
 
 [[START OF PAGE 153]]
 
-(this page came through the extractor with no text)
+Por una Educación de Calidad. ¡Avancemos Ahora!
+
+GESTION
+EDUCATIVA
+2004-2008
 
 [[END OF PAGE 153]]
