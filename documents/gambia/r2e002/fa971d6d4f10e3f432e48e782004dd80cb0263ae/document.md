@@ -14,39 +14,70 @@ Education Strategic Plan 2006 -2015
 
 ## TABLE OF CONTENT
 
+PREFACE.......................................................................................................................... 4
+ACKNOWLEDGEMENTS ............................................................................................. 6
+LIST OF TABLES............................................................................................................ 7
+ABBREVIATIONS........................................................................................................... 8
+EXECUTIVE SUMMARY ............................................................................................ 10
+Background................................................................................................................... 10
+Achievement of The Gambia’s Objectives and Targets............................................... 11
+Purpose.......................................................................................................................... 11
+Indicators....................................................................................................................... 11
+Strategic Plan Programme Areas.................................................................................. 11
+Implementation Schedule.............................................................................................. 12
+Budget and Financing Plan ........................................................................................... 12
+CHAPTER 1: BACKGROUND .................................................................................... 14
+Policy Framework......................................................................................................... 14
+Situational Analysis...................................................................................................... 15
+Stakeholder Analysis .................................................................................................... 17
+Problem Description ..................................................................................................... 18
+Current Interventions.................................................................................................... 20
+CHAPTER 2: PLANNED INTERVENTIONS............................................................ 25
+Overall Development Objectives.................................................................................. 25
+Purpose.......................................................................................................................... 25
+Indicators....................................................................................................................... 26
+Strategic Plan Programme Areas.................................................................................. 26
+CHAPTER 3: IMPLEMENTATION ........................................................................... 35
+Implementation Guidelines........................................................................................... 35
+Organisation.................................................................................................................. 35
+Implementation Modalities........................................................................................... 36
+Implementation Schedule.............................................................................................. 37
+Budget and Financing Plan ........................................................................................... 37
+CHAPTER 4: DETAILED PROGRAMME AREAS.................................................. 41
+Basic Education ............................................................................................................ 41
+Secondary Education .................................................................................................... 51
+Tertiary Education ........................................................................................................ 62
+Technical And Vocational Education And Training .................................................... 73
+Quality Assurance......................................................................................................... 81
+Sector Management ...................................................................................................... 89
+CHAPTER 5: SUSTAINABILITY ............................................................................... 99
+Introduction................................................................................................................... 99
+Political Support............................................................................................................ 99
+Economic and Financial Dimensions............................................................................ 99
+Social, Cultural and Gender Aspects.......................................................................... 101
+Institutional and Management Aspects....................................................................... 101
+Socio-cultural Aspects................................................................................................ 102
+Appropriate Technological Aspects............................................................................ 102
+
 Education Strategic Plan 2006 -2015
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Environmental Assessment
+Environmental Assessment......................................................................................... 103
 
-......................................................................................... 103
+Environmental and Social Management Framework.................................................. 103
 
-Environmental and Social Management Framework
+The Environment ........................................................................................................ 103
 
-The Environment
+CHAPTER 6: MONITORING AND EVALUATION .............................................. 104
 
-.................................................. 103
+Monitoring Indicators ................................................................................................. 104
 
-........................................................................................................ 103
+Reviews and Evaluations............................................................................................ 105
 
-CHAPTER 6: MONITORING AND EVALUATION
-
-Monitoring Indicators
-
-.............................................. 104
-
-................................................................................................. 104
-
-Reviews and Evaluations
-
-............................................................................................ 105
-
-Reporting Guidelines
-
-.................................................................................................. 106
+Reporting Guidelines.................................................................................................. 106
 
 3
 
@@ -64,13 +95,15 @@ The  development  of  the  Education  Sector  Strategic  Plan  (2006  -  2015)  
 
 This  strategic  plan  summarizes  the  current  status,  government  policies,  and  progress made  in  the  Gambia's  education  sector  in  recent  years;  identifies  and  explains  major issues  and  constraints  in  the  development  of  education  and  factors  contributing  to  the issues; and outline the major strategic activities to be implemented to attain the desired policy  objectives.  To  this  effect,  the  document  outlines  six  programme  areas:  basic education,  secondary  education,  tertiary  education,  technical  and  vocational  education and training, quality assurance, and sector management. While recognising the importance of all the other programme areas in our drive to achieve the policy objectives, our success in all these will be premised on a very sound and robust management of the entire sector.  In this regard, Sector management will be strengthened through the Senior Management  team,  the  Coordinating  Committee  Meetings  and  donor  coordination efforts,  while  building  staff  capacity  and  provision  of  a  conducive  work  environment. Service  Level  Agreements  will  be  signed  by  teams  and  individuals  with  appropriate rewards and sanctions on performance.
 
-The strategic plan has been costed to provide an indication of the resource requirements and  shows  the  financing  gap  over  the  period  and  the  committed  resources  from  both government and partners. The Project Coordination Unit of DOSE will be charged with the fiduciary management of donor resources. While abiding by the reporting requirements of individual donors, the sector would seek to harmonize these requirements in the medium term.
+The strategic plan has been costed to provide an indication of the resource requirements and shows the financing gap over the period and the committed resources from both
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+government and partners. The Project Coordination Unit of DOSE will be charged with the fiduciary management of donor resources. While abiding by the reporting requirements of individual donors, the sector would seek to harmonize these requirements in the medium term.
 
 ……………..
 
@@ -103,6 +136,10 @@ Finally,  we  are  grateful  to  all  stakeholders  and  staff  of  the  Departm
 [[START OF PAGE 7]]
 
 ## LIST OF TABLES
+
+Table 1: Total Investment and Funding gap by Component............................................. 37
+Table 2: Total Costs by Programme and result area ......................................................... 38
+Table 3: Investment and Recurrent Costs by Financier ($ ’000) ...................................... 39
 
 7
 
@@ -215,7 +252,7 @@ WASSCE | West African Senior School Certificate Examination
 
 ### Background
 
-1. Over the years, the Government of The Gambia (GOTG) has adopted various policies which provide the main direction for the Education Sector Strategic Plan (ESSP) 2006 2015. In addition to the country's Vision 2020, these policy decisions are guided by the Millennium Development Goals; the EFA Action Plan; the Poverty Reduction Strategy Paper,  known  as  the  Strategy  for  Poverty  Alleviation  II  (SPAII);  and  the  National Education Policy  (2004 - 2015). The basic aims of the Education Policy, from which this strategic plan is derived, are to:
+1. Over the years, the Government of The Gambia (GOTG) has adopted various policies which provide the main direction for the Education Sector Strategic Plan (ESSP) 2006 – 2015. In addition to the country's Vision 2020, these policy decisions are guided by the Millennium Development Goals; the EFA Action Plan; the Poverty Reduction Strategy Paper, known as the Strategy for Poverty Alleviation II (SPAII); and the National Education Policy (2004 - 2015). The basic aims of the Education Policy, from which this strategic plan is derived, are to:
 
 - Promote  a  broad-based  education  at  the  basic  level  for  lifelong  learning  and training
 
@@ -231,11 +268,11 @@ WASSCE | West African Senior School Certificate Examination
 
 - Develop  a  healthy  body  and  an  appreciation  of  the  value  of  a  healthy  mind  in response to life-threatening diseases like HIV/AIDS, malaria and tuberculosis
 
-- Create  an  awareness  of  the  importance  of  peace,  democracy  and  human  rights, duties and responsibilities of the individual in fostering these qualities
-
-- Promote  a  sense  of  patriotism:  service,  loyalty,  integrity  and  dedication  to  the nation and humanity.
+- Create an awareness of the importance of peace, democracy and human rights, duties and responsibilities of the individual in fostering these qualities
 
 - Foster an appreciation of, and respect for, the cultural heritage of The Gambia
+
+- Promote a sense of patriotism: service, loyalty, integrity and dedication to the nation and humanity.
 
 2. These aims are tied to the Vision and Mission statements of the Department of State for Education (DOSE) thus:
 
@@ -245,9 +282,9 @@ Mission Statement: In view of the vision, the Department of State for Education 
 
 - Provide access to relevant and high quality basic education for all
 
-- Ensure gender equity in education
-
 - Provide high quality education services
+
+- Ensure gender equity in education
 
 - Provide relevant life skills
 
@@ -311,11 +348,11 @@ Output: Effective and efficient delivery of education services achieved
 
 ### Implementation Schedule
 
-8.  The  strategic  plan  will  be  implemented  over  a  period  of  ten  years.  DOSE  has conducted  a  Public  Expenditure  Review  (PER)  to  inform  the  sector  of  its  expenditure pattern in the past and to predict its expenditure pattern in the medium term. Following the  PER,  the  Department  initiated  the  development  of  a  Medium  Term  Expenditure Framework  (MTEF).  Through  the  Sector  Wide  Approach  (SWAp),  operational  plans have  been  meticulously  and  jointly  developed  for  the  Programme  and  sub-Programme areas by various stakeholders and DOSE directorates. In the course of implementing the strategic  plan,  annual  work  plans  detailing  out  the  various  procurement  activities,  time schedules  and  associated  budgets  will  be  prepared  for  each  Programme  area  and  subProgramme  area  to  guide  implementation,  based  on  the  individual  Programme  area logframes.  In  addition,  the  Projects  Coordination  Unit  (PCU)  shall  prepare,  based  on agreed regulations  with  development  partners,  annual  procurement  plans  with  an implementation schedule for the various projects under its purview  through the compilation of the individual Programme and sub-Programme area activities accordingly.
+8. The strategic plan will be implemented over a period of ten years. DOSE has conducted a Public Expenditure Review (PER) to inform the sector of its expenditure pattern in the past and to predict its expenditure pattern in the medium term. Following the PER, the Department initiated the development of a Medium Term Expenditure Framework (MTEF). Through the Sector Wide Approach (SWAp), operational plans have been meticulously and jointly developed for the Programme and sub-Programme areas by various stakeholders and DOSE directorates. In the course of implementing the strategic plan, annual work plans detailing out the various procurement activities, time schedules and associated budgets will be prepared for each Programme area and sub-Programme area to guide implementation, based on the individual Programme area logframes. In addition, the Projects Coordination Unit (PCU) shall prepare, based on agreed regulations with development partners, annual procurement plans with an implementation schedule for the various projects under its purview through the compilation of the individual Programme and sub-Programme area activities accordingly.
 
 ### Budget and Financing Plan
 
-9. The National Education Policy (2004 - 2015) lays emphasis on efficiency in resource utilisation and accountability. In pursuance of the policy pronouncements, resources will be  targeted  to  identify  activities  based  on  the  priorities  for  each  Programme  area,  and within Programmes, to priority targeted beneficiaries. Such allocation of resources will be predicated on the most cost-effective utilisation of available resources, guided by welldefined efficiency measures.
+9. The National Education Policy (2004 - 2015) lays emphasis on efficiency in resource utilisation and accountability. In pursuance of the policy pronouncements, resources will be targeted to identify activities based on the priorities for each Programme area, and within Programmes, to priority targeted beneficiaries. Such allocation of resources will be predicated on the most cost-effective utilisation of available resources, guided by well-defined efficiency measures.
 
 10. The overall investment for the ten-year strategic plan is US $194.6 million, of which 66.2% is investment cost and 33.8% is recurrent cost,  including  scholarships  for  girls. Currently,  secured  funding  amounts  to  35.9%,  thus  leaving  a  gap  of  64.1%.  This translates to approximately an annual funding gap of $12.5 million.
 
@@ -327,11 +364,11 @@ Output: Effective and efficient delivery of education services achieved
 
 [[START OF PAGE 13]]
 
-- Table I (chapter 3) shows the sector's priority on basic education over other areas, constitutive of 72.1% of total costs over the planned period. Though the Programme area constitutes 77% of current available funding, it accounts for 69% of the financing gap. Although quality assurance accounts for only 1.7% of the total, it should be noted that the quality inputs for effective teaching and learning and other quality inputs are spread in the Programme areas for the monitoring of implementation.
+12. Table I (chapter 3) shows the sector's priority on basic education over other areas, constitutive of 72.1% of total costs over the planned period. Though the Programme area constitutes 77% of current available funding, it accounts for 69% of the financing gap. Although quality assurance accounts for only 1.7% of the total, it should be noted that the quality inputs for effective teaching and learning and other quality inputs are spread in the Programme areas for the monitoring of implementation.
 
-- Table III (chapter 3) indicates the Government commitment and other donor partner intervention by recurrent and capital (investment) expenditure. It is worth observing that of  the  64.15%  funding  gap,  68%  is  on  investment  expenditures  and  32%  on  recurrent costs. Government contribution, as counterpart funding, to the Strategic Plan constitutes 1.19%, of which, 84% is being spent on investment costs.
+13. Table III (chapter 3) indicates the Government commitment and other donor partner intervention by recurrent and capital (investment) expenditure. It is worth observing that of the 64.15% funding gap, 68% is on investment expenditures and 32% on recurrent costs. Government contribution, as counterpart funding, to the Strategic Plan constitutes 1.19%, of which, 84% is being spent on investment costs.
 
-- To close the financing gap between 2011 and 2015, the domestic resources allocated to the education sector will have to increase to 2.7% of GDP in 2011 and, gradually, to 3.2%  of  GDP  in  2015  -  a  level  close  to  the  sub-Saharan  Africa  (SSA)  average.    It  is important,  however,  not  to  underplay  the  challenge,  for  although  macro-economic performance  has  improved,  the  system  is  still  relatively  fragile  and  the  risk  of  underfunding the Programme is feasible. With continued strong leadership at DOSE, and with the  high  demand  for  education  expressed  by  the  population,  there  is  little  reason  to believe that Government commitment will wane in the near future.
+14. To close the financing gap between 2011 and 2015, the domestic resources allocated to the education sector will have to increase to 2.7% of GDP in 2011 and, gradually, to 3.2% of GDP in 2015 - a level close to the sub-Saharan Africa (SSA) average. It is important, however, not to underplay the challenge, for although macro-economic performance has improved, the system is still relatively fragile and the risk of under-funding the Programme is feasible. With continued strong leadership at DOSE, and with the high demand for education expressed by the population, there is little reason to believe that Government commitment will wane in the near future.
 
 13
 
@@ -343,13 +380,13 @@ Output: Effective and efficient delivery of education services achieved
 
 ### Policy Framework
 
-1. Over the years, the Government of The Gambia (GOTG) has adopted various policies which provide the main direction for the Education Sector Strategic Plan (ESSP) 2006 2015. These policy decisions are principally contained in four seminal documents:
+1. Over the years, the Government of The Gambia (GOTG) has adopted various policies which provide the main direction for the Education Sector Strategic Plan (ESSP) 2006 – 2015. These policy decisions are principally contained in four seminal documents:
 
 - The Millennium Development Goals
 
-- The  Poverty  Reduction  Strategy  Paper,  known  as  the  Strategy  for  Poverty Alleviation II (SPAII) 1
-
 - The EFA Action Plan
+
+- The Poverty Reduction Strategy Paper, known as the Strategy for Poverty Alleviation II (SPAII) 1
 
 - The National Education Policy (2004 -2015).
 
@@ -459,7 +496,7 @@ In view of the vision, the Department of State for Education aims to:
 
 17. The regional administrations in The Gambia will contribute to the process, desiring more  efficient  and  effective  management  and  making  an  increased  contribution  to  the planning process.  They expect tangible improvements in the delivery and outcomes of education provision, as well as a meaningful role in decision-making.
 
-18. Donors are expected to contribute to the process, provide international experience and commit themselves to strengthen harmonisation of cooperation. A government-led sectorwide approach is the preferred strategy for support to the sector by many donors. This is to enhance increased synergy through harmonised procedures and funding modalities for some donors and, ultimately, reduce transaction costs.  As a result, development partners will have increased confidence to contribute funds to the sector, culminating in a more effective and efficient supervision of the whole sector's performance rather than isolated sub-sectors and segments.
+18. Donors are expected to contribute to the process, provide international experience and commit themselves to strengthen harmonisation of cooperation. A government-led sector-wide approach is the preferred strategy for support to the sector by many donors. This is to enhance increased synergy through harmonised procedures and funding modalities for some donors and, ultimately, reduce transaction costs. As a result, development partners will have increased confidence to contribute funds to the sector, culminating in a more effective and efficient supervision of the whole sector's performance rather than isolated sub-sectors and segments.
 
 17
 
@@ -483,9 +520,9 @@ In view of the vision, the Department of State for Education aims to:
 
 - Provision of quality education
 
-- Serious resource constraints both in recurrent and development terms
-
 - Retention of teachers and other personnel
+
+- Serious resource constraints both in recurrent and development terms
 
 25. These problems are not independent of one another. Crucially, though, teachers are the  most  important  resource  in  schools;  They  have  the  potential  to  catalyse  quality improvement.
 
@@ -495,9 +532,9 @@ In view of the vision, the Department of State for Education aims to:
 
 - Teacher training and support
 
-- Leadership and management in schools, including the participation of parents and the community.
-
 - Pedagogy and teaching / learning materials in schools
+
+- Leadership and management in schools, including the participation of parents and the community.
 
 18
 
@@ -505,9 +542,9 @@ In view of the vision, the Department of State for Education aims to:
 
 [[START OF PAGE 19]]
 
-- Various aspects of these problems are enumerated below.
+27. Various aspects of these problems are enumerated below.
 
-##### Teacher training and support
+##### 1. Teacher training and support
 
 - Low performance levels attained by the intake into Gambia College, especially in mathematics and English
 
@@ -529,7 +566,7 @@ In view of the vision, the Department of State for Education aims to:
 
 28.  The  teaching  of  reading  is  erratic.  While  literacy  is  the  key  to  unlocking  further learning  in  lower  basic  schools,  literacy  teaching  is  handicapped  by  the  insufficient supply of basic textbooks and supplementary readers, an ill-equipped classroom environment, together with a pedagogy that is based on rote learning.
 
-##### Leadership  and  management  in  schools  including  the  participation  of  parents and the community.
+##### 3. Leadership and management in schools including the participation of parents and the community.
 
 29. Generally, training and support for headteachers is not clearly defined and systematic, and this is compounded by a limited concept of school management, thereby inhibiting the effectiveness of schools. PTAs have a limited role in school management.
 
@@ -565,7 +602,7 @@ In view of the vision, the Department of State for Education aims to:
 
 - Putting in place more robust monitoring and evaluation systems.
 
-35. The Education for All Fast Track Initiative (EFA FTI) Catalytic Fund Project (20042007), managed by the World Bank, is also addressing several sub-components that are strongly  represented  in  the  ESDP,  notably  to  support  basic  education.    These  include: increasing access to, and equity in, basic education; increasing participation, performance and  retention  rates  for  girls;  improving  the  quality  of  teaching  and  learning;  and strengthening  management and institutional  capacity  at  the  central  and  regional  levels.
+35. The Education for All Fast Track Initiative (EFA FTI) Catalytic Fund Project (2004-2007), managed by the World Bank, is also addressing several sub-components that are strongly represented in the ESDP, notably to support basic education. These include: increasing access to, and equity in, basic education; increasing participation, performance and retention rates for girls; improving the quality of teaching and learning; and strengthening management and institutional capacity at the central and regional levels.
 
 > 4 World Bank Supervision Mission Aide-Memoire, December 2005
 
@@ -637,15 +674,15 @@ The  initial  stages  of  this  project  have  been  judged  satisfactory,  both
 
 50.  To  successfully  create  and  sustain  a  vibrant  education  sector  that  would  deliver improved access and quality, it is necessary to harmonise all projects and activities within the preparation and implementation process of the ESSP. Also, it is essential to establish the commitment of all the main donors to the coordination, cooperation and harmonisation of their inputs and, to the fullest extent possible, commitment to working arrangements among themselves and within the GOTG.
 
-- The duplication of donor efforts and activities and the continuation of separate and uncoordinated  reporting  requirements  and  missions  have  placed  considerable  stress  on the  system.    The  IDA  and  BESPOR  teams  have  now  spent  two  missions  sharing information on their respective Programmes, and contact has been established with the ADB although joint missions have not yet been conducted.
+51. The duplication of donor efforts and activities and the continuation of separate and uncoordinated reporting requirements and missions have placed considerable stress on the system. The IDA and BESPOR teams have now spent two missions sharing information on their respective Programmes, and contact has been established with the ADB although joint missions have not yet been conducted.
 
-- While  recognising  that  not  all  development  partners  will  be  able  to  comply, government encourages its development partners to contribute their financial support via the government system and to commit themselves to a Joint Financing Agreement (JFA) and to a Statement of Partnership Principles.
+52. While recognising that not all development partners will be able to comply, government encourages its development partners to contribute their financial support via the government system and to commit themselves to a Joint Financing Agreement (JFA) and to a Statement of Partnership Principles.
 
-- The JFA will set out the joint provisions and procedures for pooled financial support to  The  Gambia  ESSP  and  will  serve  as  a  coordination  framework  for  consultation between  the  signatories  for  ESSP  monitoring  and  decision-making,  joint  reviews  of performance, common  procedures on disbursement, reporting and audits. The coordination arrangements that apply to pooled funds and those described in the JFA will form  part  of  a  broader  consultation  process,  including  the  wider  group  of  all  main development partners providing support to the ESSP.
+53. The JFA will set out the joint provisions and procedures for pooled financial support to The Gambia ESSP and will serve as a coordination framework for consultation between the signatories for ESSP monitoring and decision-making, joint reviews of performance, common procedures on disbursement, reporting and audits. The coordination arrangements that apply to pooled funds and those described in the JFA will form part of a broader consultation process, including the wider group of all main development partners providing support to the ESSP.
 
-- The  financial  commitments  of  the  donors  will  be  confirmed  within  the  bilateral agreements concluded between the GOTG and each of the donors.  These donors will each establish individual agreements that are compatible with the spirit and provisions of the  JFA  and  are  required  to  refrain,  as  far  as  possible,  from  setting  conditions  in  the bilateral agreements that contradict or diverge from the spirit of the JFA.
+54. The financial commitments of the donors will be confirmed within the bilateral agreements concluded between the GOTG and each of the donors. These donors will each establish individual agreements that are compatible with the spirit and provisions of the JFA and are required to refrain, as far as possible, from setting conditions in the bilateral agreements that contradict or diverge from the spirit of the JFA.
 
-- The statement of Partnership Principles will include, for example, agreement that the GOTG and the donors recognise and reaffirm  the  principles  of  the  declarations  of  aid effectiveness  enunciated  in  Rome  and  Paris  (These  provide  a  basis  for  strengthened governance  and  improved  development  performance  through  harmonised  approaches).
+55. The statement of Partnership Principles will include, for example, agreement that the GOTG and the donors recognise and reaffirm the principles of the declarations of aid effectiveness enunciated in Rome and Paris (These provide a basis for strengthened governance and improved development performance through harmonised approaches).
 
 23
 
@@ -679,11 +716,9 @@ They will also state the responsibilities of the various partners; alignment wit
 
 4. While the education sector in The Gambia is obviously influenced by global economic trends  and  factors,  the  main  facilitators  and  drivers  of  development  in  the  sector  are DOSE, its affiliated institutions and the various national and international development partners.  While  it  is  recognised  that  some  progress  has  been  made  in  improving educational service delivery during the previous planning period, it has also been realised that there are still severe shortcomings in the quality of education delivered that need to be  addressed  in  order  to  achieve  the  development  objectives  specified  in  the  various policy documents. Consequently, the focus of the Education Sector Strategic Plan (2006-
 
-> 5
+> 5 UN Millennium Project 2005. Investing in Development. A Practical Plan to Achieve the Millennium Development Goals
 
 > 6 http://www.unmillenniumproject.org/reports/goals_targets.htm
-
-> UN Millennium Project 2005.  Investing in Development.  A Practical Plan to Achieve the Millennium Development Goals
 
 25
 
@@ -743,13 +778,13 @@ Output: Effective and efficient delivery of education services achieved.
 
 #### Programme Area 1: Basic Education
 
-- The Basic Education Programme areas comprise three sub-Programmes, namely:
+11. The Basic Education Programme areas comprise three sub-Programmes, namely:
 
 - Early Childhood Development
 
-- Adult and Non-formal Education
-
 - Basic Education (Grades 1-9)
+
+- Adult and Non-formal Education
 
 ##### Planned Output
 
@@ -757,33 +792,33 @@ Output: Effective and efficient delivery of education services achieved.
 
 ##### Indicators:
 
-- Increase by a minimum of 50% the number of LBS with ECD centres attached
-
 - ECD GER increased by 50%
+
+- Increase by a minimum of 50% the number of LBS with ECD centres attached
 
 - More than 80% of students achieve grade level competence in all the subjects
 
-- NER > 80%
-
 - More than 20% of students achieve mastery level competence in all the subjects
+
+- NER > 80%
 
 - GER > 100%
 
-- Double shift classes maintained at 32%
+- Completion rate >95%
 
-- Completion rate  >95%
+- Double shift classes maintained at 32%
 
 - PTR 45: 1
 
-- Decrease adult illiteracy rate by 50%
-
 - Increase enrolment to ANFE by 50%
+
+- Decrease adult illiteracy rate by 50%
 
 13. The GOTG is committed to upholding the right of every person to basic education, regardless  of  gender,  age,  religion  or  disability.  Accordingly,  basic  education  will  be open to all. Learning at this level will be geared towards the holistic development of the individual for the positive realisation of every person's full potential and aspirations.
 
 14. ECD has become part of the basic education cycle, given the importance of the early years  of  development  for  children.  The  National  Education  Policy  (2004  -  2015) acknowledges  the  importance  of  these  early  years,  and  DOSE  has  developed  linkages with  other  government  departments,  NGOs,  local  government  authorities  and  local committees  to  promote  an  integrated  approach  to  ECD.  The  GOTG  will  support  the expansion of the ECD system through the training of ECD facilitators and by facilitating attachment of ECD facilities to lower basic schools.
 
-15. The National Education Policy (2004 - 2015) provides for a unified basic education system, covering grades 1-9, with no transition examination at the end of the Grade 6. Thus,  there  is  a  rapid  expansion  taking  place  at  the  upper  basic  level,  and  a  policy  of integrating  basic  education  facilities  where  possible.  Also,  in  practice,  it  is  difficult  to draw the line  between  the  lower  and  the  upper  basic  cycles.  Expansion  of  Grades  1-6 implies expansion of Grades 7-9. The country cannot, in fact, commit all its resources to primary  education,  because  it  has  already  embarked  on  a  substantial  expansion  of  the upper basic level; hence transforming the structure from 6-3-3-4 to 9-3-4. While some success has been achieved in providing universal access to basic education, the quality of the  education  is  still  not  up  to  the  required  standard.  Hence,  the  focus  in  the  planned period  will  be  on  improving  the  quality  of  basic  education  in  terms  of  improved management of schools, improved quality of teaching and learning and the improvement of the teaching and learning environment.
+15. The National Education Policy (2004 - 2015) provides for a unified basic education system, covering grades 1-9, with no transition examination at the end of the Grade 6. Thus, there is a rapid expansion taking place at the upper basic level, and a policy of integrating basic education facilities where possible. Also, in practice, it is difficult to draw the line between the lower and the upper basic cycles. Expansion of Grades 1-6 implies expansion of Grades 7-9. The country cannot, in fact, commit all its resources to primary education, because it has already embarked on a substantial expansion of the
 
 27
 
@@ -791,9 +826,11 @@ Output: Effective and efficient delivery of education services achieved.
 
 [[START OF PAGE 28]]
 
-- The  Madrassa  is  a  formal  education  delivery  system  with  Arabic  as  medium  of instruction  and  a  strong  Islamic  orientation  in  content  and  practice.    The  system  offers instruction at different levels. A significant number of children prefer to attend Madrassa. Assistance  to  Madrassa  schools  recognised  by  the  DOSE  includes  English  language textbooks and teachers' guides, technical and financial assistance for classroom expansion and construction, and professional support.
+upper basic level; hence transforming the structure from 6-3-3-4 to 9-3-4. While some success has been achieved in providing universal access to basic education, the quality of the education is still not up to the required standard. Hence, the focus in the planned period will be on improving the quality of basic education in terms of improved management of schools, improved quality of teaching and learning and the improvement of the teaching and learning environment.
 
-- The  Gambia  has  a  low  literacy  rate,  estimated  at  46%  overall  and  only  28%  for women. EFA, as stated in the Dakar Framework for Action, cannot be achieved through the  formal  education  system  alone;  consequently,  the  adult  and  non-formal  education sector complements the efforts of formal education to achieve EFA.
+16. The Madrassa is a formal education delivery system with Arabic as medium of instruction and a strong Islamic orientation in content and practice. The system offers instruction at different levels. A significant number of children prefer to attend Madrassa. Assistance to Madrassa schools recognised by the DOSE includes English language textbooks and teachers' guides, technical and financial assistance for classroom expansion and construction, and professional support.
+
+17. The Gambia has a low literacy rate, estimated at 46% overall and only 28% for women. EFA, as stated in the Dakar Framework for Action, cannot be achieved through the formal education system alone; consequently, the adult and non-formal education sector complements the efforts of formal education to achieve EFA.
 
 ##### Main Deliverables
 
@@ -808,7 +845,7 @@ Children/Students adequately prepared for teaching and learning | ECD
 Improved management of schools | REDs
 Expanded access to literacy courses | ANFEU
 
-- The  main  implementing  agencies  will  be  the  Basic  and  Secondary  Education Directorate (BSED), the Regional Directorates (REDs) and DOSE Project Coordination Unit (PCU).
+18. The main implementing agencies will be the Basic and Secondary Education Directorate (BSED), the Regional Directorates (REDs) and DOSE Project Coordination Unit (PCU).
 
 28
 
@@ -826,13 +863,13 @@ Improved access to, and delivery of, relevant secondary education
 
 Achieve a completion rate of 95%
 
-- In  a  more  competitive  global  market,  and  in  which  lower  secondary  level  (Upper Basic  School-UBS)  has  been  universally  integrated  into  basic  education,  secondary education should be prioritised, given its key function in absorbing graduates from the basic level. However, in The Gambia, most of the schools at this level, in contrast to the UBS,  are  privately  operated,  thereby  rendering  access  quite  difficult  to  children  from poor households. Despite the fact that the majority of the senior secondary schools are located in prosperous urban regions (Regions 1 and 2), poor/rural regions are not left unserved and have witnessed the expansion of secondary schooling recently, which act as an effective boost to children's access to secondary education.
+19. In a more competitive global market, and in which lower secondary level (Upper Basic School-UBS) has been universally integrated into basic education, secondary education should be prioritised, given its key function in absorbing graduates from the basic level. However, in The Gambia, most of the schools at this level, in contrast to the UBS, are privately operated, thereby rendering access quite difficult to children from poor households. Despite the fact that the majority of the senior secondary schools are located in prosperous urban regions (Regions 1 and 2), poor/rural regions are not left unserved and have witnessed the expansion of secondary schooling recently, which act as an effective boost to children's access to secondary education.
 
-- Even  though  not  as  severe  as  in  the  1970s  and  1980s,  the  problem  of  equity (especially girls' access to secondary education) is still more acute at this level compared to the basic education level. Tuition fees and other costs (uniforms, textbooks, transportation, private tuition/classes, etc) of secondary education, including considerable opportunity costs, constitute serious barriers to access for children from poorer households.
+20. Even though not as severe as in the 1970s and 1980s, the problem of equity (especially girls' access to secondary education) is still more acute at this level compared to the basic education level. Tuition fees and other costs (uniforms, textbooks, transportation, private tuition/classes, etc) of secondary education, including considerable opportunity costs, constitute serious barriers to access for children from poorer households.
 
-- The quality of secondary education as reflected by the performance of students at the West  African  Senior  School  Certificate  Examination  (WASSCE)  leaves  a  lot  to  be desired. In 2004 and 2005 more than 90% of the candidates failed Mathematics, English and  the  Sciences,  while,  on  average,  more  than  half  of  the  candidates  failed  all  the courses put together.
+21. The quality of secondary education as reflected by the performance of students at the West African Senior School Certificate Examination (WASSCE) leaves a lot to be desired. In 2004 and 2005 more than 90% of the candidates failed Mathematics, English and the Sciences, while, on average, more than half of the candidates failed all the courses put together.
 
-- It is against these facts that stakeholders unanimously identified secondary education as one of the key programme areas under the DOSE 2006-2015 Strategic Plan.
+22. It is against these facts that stakeholders unanimously identified secondary education as one of the key programme areas under the DOSE 2006-2015 Strategic Plan.
 
 ##### Main deliverables
 
@@ -845,7 +882,7 @@ Improved quality of teaching and learning | SQAD
 Improved management of secondary schools | REDs
 Improved conditions of service for teachers in secondary schools | BSED
 
-- The main implementation agencies will be BSED, REDs, SQAD and CREDIT.
+23. The main implementation agencies will be BSED, REDs, SQAD and CREDIT.
 
 29
 
@@ -857,29 +894,25 @@ Improved conditions of service for teachers in secondary schools | BSED
 
 ##### Planned Output
 
-- Improved access to relevant, quality tertiary education achieved
+24. Improved access to relevant, quality tertiary education achieved
 
 ##### Indicators
 
 - 10,000 additional Gambian teachers by 2015 , comprising of:
-
-- square4 6,297 qualified Primary Teacher Certificate
-
-- square4 2,095 qualified Higher Teacher Certificate
-
-- square4 616 B Ed
-
-- square4 992 holders of academic degrees
+  - 6,297 qualified Primary Teacher Certificate
+  - 2,095 qualified Higher Teacher Certificate
+  - 616 B Ed
+  - 992 holders of academic degrees
 
 - Gender parity in enrolment and completion across all Programmes
 
-- Degree  Programmes  offered  at  the  GTTI,  the  MDI,  the  GC  and  the  UTG campuses under the integrated system will be accredited by the proposed Higher Education Observatory (HEO) .
-
 - Certificate-, diploma- and degree-level Programmes offered at tertiary institutions
 
-- The Tertiary Education Programme will cover all post-secondary Programmes in The Gambia including post-secondary technical training. During the 2004-2015 Policy period, GOTG will ensure that the tertiary education sub-sector provides a flexible and dynamic system of education and training that will address the demands of access and equity on the one hand, and the need for quality and standards (excellence), on the other.
+- Degree Programmes offered at the GTTI, the MDI, the GC and the UTG campuses under the integrated system will be accredited by the proposed Higher Education Observatory (HEO).
 
-- The  primary  challenges  in  this  regard  include  inadequate  physical  and  human resources to address the needs of the sub-sector.  Currently, tertiary institutions depend largely  on  government  support  for  funding  and  on  foreign  expertise  for  lecturers  and other academic functions.  These affect both access and quality of delivery of education. There is,  therefore,  a  need  for  interventions  to  strengthen  and  expand  the  provision  of tertiary education to give more opportunities for quality Programmes to more Gambians through an integrated system of tertiary education.
+25. The Tertiary Education Programme will cover all post-secondary Programmes in The Gambia including post-secondary technical training. During the 2004-2015 Policy period, GOTG will ensure that the tertiary education sub-sector provides a flexible and dynamic system of education and training that will address the demands of access and equity on the one hand, and the need for quality and standards (excellence), on the other.
+
+26. The primary challenges in this regard include inadequate physical and human resources to address the needs of the sub-sector. Currently, tertiary institutions depend largely on government support for funding and on foreign expertise for lecturers and other academic functions. These affect both access and quality of delivery of education. There is, therefore, a need for interventions to strengthen and expand the provision of tertiary education to give more opportunities for quality Programmes to more Gambians through an integrated system of tertiary education.
 
 ##### Main Deliverables
 
@@ -899,47 +932,46 @@ Improved relevant quality education in Tertiary Institutions or academic units. 
 [[START OF PAGE 31]]
 
 Improved awareness, academic culture and affordable education in Tertiary Institutions or academic units. | Tertiary Institutions
---- | ---
 
-28.  The  main  implementing agencies will be THERD, Tertiary  Institutions and Higher Education Observatory.
+28. The main implementing agencies will be THERD, Tertiary Institutions and Higher Education Observatory.
 
 #### Programme Area 4: Technical and Vocational Education and Training
 
 ##### Planned Output
 
-29. To  improve  access  to,  and  quality  of,  Technical  and  Vocational  Education  and Training.
+29. To improve access to, and quality of, Technical and Vocational Education and Training.
 
 ##### Indicators
 
-- Number of skills development centres in the rural areas increased (target of >2 centres
-
 - TVET institutions increased by 50%
+
+- Number of skills development centres in the rural areas increased (target of >2 centres
 
 - System of prior learning accreditation approved
 
-- Mechanical & engineering laboratories established
-
 - Labour Market Information System (LMIS) established
+
+- Mechanical & engineering laboratories established
 
 - Approved syllabi established
 
-- 50% increase in the number of differently abled people in TVET
-
 - TVET affordable to 90% of all eligible trainees
+
+- 50% increase in the number of differently abled people in TVET
 
 - Gender parity achieved in TVET
 
-- Functional Gambia Skills Qualifications Framework established
-
 - At least 75% of the total expected levy is collected
 
-- TVET Programme Area aims to address the skills development needs of the country.
+- Functional Gambia Skills Qualifications Framework established
 
-- The  TVET  policy  objectives  state,  among  other  things,  that  there  should  be improvement  in  access  to  post-secondary  TVET  and  improvement  in  its  coordination. They  also  seek  to  increase  opportunities  for  the  training  of  early  school-leavers, secondary school-leavers and adults who cannot make it to the next school level, in order to enhance employment, especially self-employment prospects.
+30. TVET Programme Area aims to address the skills development needs of the country.
 
-- During  the  policy  period,  the  GOTG  will  institutionalise  accredited  post-basic training  Programmes  such  as  apprenticeship  and  on-the-job  vocational  and  technical training.  The existing vocational/skills centres at the district/regional levels and those in the rural areas will be further developed to deliver such skills development Programmes.
+31. The TVET policy objectives state, among other things, that there should be improvement in access to post-secondary TVET and improvement in its coordination. They also seek to increase opportunities for the training of early school-leavers, secondary school-leavers and adults who cannot make it to the next school level, in order to enhance employment, especially self-employment prospects.
 
-- The Gambia has a monocrop agricultural economy with approximately 80% - 90% of the population living off the land. Efforts are now being focused on TVET and guidance that  will  eventually  lead  to  self-employment  in  the  formal  and  informal  sectors  of  the economy.
+32. During the policy period, the GOTG will institutionalise accredited post-basic training Programmes such as apprenticeship and on-the-job vocational and technical training. The existing vocational/skills centres at the district/regional levels and those in the rural areas will be further developed to deliver such skills development Programmes.
+
+33. The Gambia has a monocrop agricultural economy with approximately 80% - 90% of the population living off the land. Efforts are now being focused on TVET and guidance that will eventually lead to self-employment in the formal and informal sectors of the economy.
 
 31
 
@@ -947,7 +979,7 @@ Improved awareness, academic culture and affordable education in Tertiary Instit
 
 [[START OF PAGE 32]]
 
-- All the above can only be addressed if the access and quality of TVET is improved. One very important aspect of TVET in any economic development is the relevance of its Programmes.    The  implementation  of  the  TVET  sector  Programme  will  address  the problem  of  relevance  and  quality  in  the  sub-sector.    The  Gambia  Skills  Qualification Framework with its  registered  and  employer-driven  qualifications  and  standards,  to  be delivered  by  registered  and  accredited  training  providers,  will  contribute  greatly  to improved quality in TVET.  Priorities in training will be determined by the outcomes of labour market research, as presently developed by the National Training Authority.
+34. All the above can only be addressed if the access and quality of TVET is improved. One very important aspect of TVET in any economic development is the relevance of its Programmes. The implementation of the TVET sector Programme will address the problem of relevance and quality in the sub-sector. The Gambia Skills Qualification Framework with its registered and employer-driven qualifications and standards, to be delivered by registered and accredited training providers, will contribute greatly to improved quality in TVET. Priorities in training will be determined by the outcomes of labour market research, as presently developed by the National Training Authority.
 
 ##### Main Deliverables:
 
@@ -960,23 +992,23 @@ Improved Sector Management in TVET | NTA
 Predictable and adequate funding of TVET | STED
 Functional Policy and Strategic Framework. | STED
 
-- The main implementing agencies will be the National Training Authority (NTA) and the Science and Technology Education Directorate.
+35. The main implementing agencies will be the National Training Authority (NTA) and the Science and Technology Education Directorate.
 
 #### Programme Area 5: Quality Assurance
 
 ##### Planned Output
 
-- Improved Learning Outcomes achieved at all levels
+36. Improved Learning Outcomes achieved at all levels
 
 ##### Indicators
 
-- More than 20% of students achieve mastery level competence in all subjects
-
 - More than 80% of students achieve grade level competence
 
-- The National Education Policy (2004-2015) states as one of its main objectives: to improve learning outcomes at all levels in the education system. Currently, the quality of education  is  low  and  shows  little  improvement  across  the  country,  with  particular challenges for girls who continue to under-perform boys across all cycles. With less than 50% of the students in Grades 1 - 12 achieving grade level competence in subjects across the board, there is a strong need for effective interventions to continuously monitor and assess the quality of teaching and learning in the schools with the aim of improving the quality of education.
+- More than 20% of students achieve mastery level competence in all subjects
 
-- One  of  the  prerequisites  for  effective  monitoring  and  evaluation  of  the  quality  of teaching and learning is the existence of an effective qualifications framework specifying the standards to be observed and an effective quality assurance system to continuously monitor  compliance  with  standards.  However,  currently,  most  of  the  monitoring  and quality assurance measures are based on short-term ad-hoc interventions.
+37. The National Education Policy (2004-2015) states as one of its main objectives: to improve learning outcomes at all levels in the education system. Currently, the quality of education is low and shows little improvement across the country, with particular challenges for girls who continue to under-perform boys across all cycles. With less than 50% of the students in Grades 1 - 12 achieving grade level competence in subjects across the board, there is a strong need for effective interventions to continuously monitor and assess the quality of teaching and learning in the schools with the aim of improving the quality of education.
+
+38. One of the prerequisites for effective monitoring and evaluation of the quality of teaching and learning is the existence of an effective qualifications framework specifying the standards to be observed and an effective quality assurance system to continuously monitor compliance with standards. However, currently, most of the monitoring and quality assurance measures are based on short-term ad-hoc interventions.
 
 32
 
@@ -984,9 +1016,9 @@ Functional Policy and Strategic Framework. | STED
 
 [[START OF PAGE 33]]
 
-- The  Quality  Assurance  Programme  aims  at  improving  the  learning  outcomes  in Grades 1 - 12 through the improvement of school management, the establishment of an effective integrated quality assurance system based on a National Qualifications Framework (NQF), curriculum development, adequate supply of teaching and learning materials and the establishment of an efficient and effective quality monitoring system at all levels of the sector.
+39. The Quality Assurance Programme aims at improving the learning outcomes in Grades 1 - 12 through the improvement of school management, the establishment of an effective integrated quality assurance system based on a National Qualifications Framework (NQF), curriculum development, adequate supply of teaching and learning materials and the establishment of an efficient and effective quality monitoring system at all levels of the sector.
 
-- The main implementing agencies will be SQAD, CRED and the REDs.
+40. The main implementing agencies will be SQAD, CRED and the REDs.
 
 ##### Main deliverables:
 
@@ -1005,13 +1037,13 @@ Effective and efficient delivery of education services achieved
 
 ##### Indicators
 
-- More than 95% of the sectoral objectives achieved in time and  withinavailable resources
+- More than 95% of the sectoral objectives achieved in time and withinavailable resources
 
 - More than 95% delivery against service level agreements (SLA) (individuals and teams)
 
-- While  the  education  sector  during  the  last  planning  period  managed  to  achieve  a number of the policy target for creating universal access to education in the Gambia, the quality of the education provided still leaves a lot to be desired. As DOSE has been beset with many capacity and communication problems, some managers have found themselves implementing activities rather than managing or leading the processes.
+41. While the education sector during the last planning period managed to achieve a number of the policy target for creating universal access to education in the Gambia, the quality of the education provided still leaves a lot to be desired. As DOSE has been beset with many capacity and communication problems, some managers have found themselves implementing activities rather than managing or leading the processes.
 
-- Led by the Planning, Policy Analysis and Budgeting Directorate a committee will be set up to develop and review policies. The development of sub-sector policies will also be institutionalised.  The  SWAp  will  be  developed  to  ensure  predictability  of  funding  and avoid  duplication  or  overlapping  of  donor  interventions.  The  institutions  of  SMT  and CCM  will  continue  to  monitor  both  the  policy  and  implementation  of  the  sector Programmes. An institutional assessment will be carried out with a view to implementing a functional organogram that is aligned to objectives. A system of operational planning will be developed and implemented at all levels, from headquarters to the schools.
+42. Led by the Planning, Policy Analysis and Budgeting Directorate a committee will be set up to develop and review policies. The development of sub-sector policies will also be institutionalised. The SWAp will be developed to ensure predictability of funding and avoid duplication or overlapping of donor interventions. The institutions of SMT and CCM will continue to monitor both the policy and implementation of the sector Programmes. An institutional assessment will be carried out with a view to implementing a functional organogram that is aligned to objectives. A system of operational planning will be developed and implemented at all levels, from headquarters to the schools.
 
 33
 
@@ -1019,11 +1051,11 @@ Effective and efficient delivery of education services achieved
 
 [[START OF PAGE 34]]
 
-- DOSE's  management  information  system  (EMIS)  will  be  linked  to  the  Integrated Financial  Management  Information  System  (IFMIS)  being  implemented  at  DOSFEA. The  link  will  improve  the  management  of  the  payroll  system  which  will  enhance efficiency. The Management of budgets will also be decentralised from the office of the Permanent  Secretary.  With  the  national  decentralisation  process,  the  capacity  of  local authorities will be developed  to facilitate better financial  management  of  public resources. EMIS will be strengthened to improve access to relevant and timely data for decision-making. Information technology solutions will be sought to improve communication and information sharing among decision makers. Strategies will include the maintenance of Internet and Intranet solutions.
+43. DOSE's management information system (EMIS) will be linked to the Integrated Financial Management Information System (IFMIS) being implemented at DOSFEA. The link will improve the management of the payroll system which will enhance efficiency. The Management of budgets will also be decentralised from the office of the Permanent Secretary. With the national decentralisation process, the capacity of local authorities will be developed to facilitate better financial management of public resources. EMIS will be strengthened to improve access to relevant and timely data for decision-making. Information technology solutions will be sought to improve communication and information sharing among decision makers. Strategies will include the maintenance of Internet and Intranet solutions.
 
-- A system of proper management of resources will be developed and maintained. An identification and indexing system will be developed and movements recorded accordingly.  The  human  resources  (HR)  of  the  sector  will  be  developed  through  the development  of  an  HR  policy.  With  the  development  of  a  staff  appraisal  system, incentives will be created to motivate staff to perform at a consistently high level.
+44. A system of proper management of resources will be developed and maintained. An identification and indexing system will be developed and movements recorded accordingly. The human resources (HR) of the sector will be developed through the development of an HR policy. With the development of a staff appraisal system, incentives will be created to motivate staff to perform at a consistently high level.
 
-- Government policy is to shift from the monitoring of compliance towards supporting schools  and  teachers.  A  new  Monitoring  and  Evaluation  (M  &  E)  system  will  be developed,  tested  and  reviewed  before  being  submitted  to  Sector  Management  for approval, followed by a roll-out throughout the system.
+45. Government policy is to shift from the monitoring of compliance towards supporting schools and teachers. A new Monitoring and Evaluation (M & E) system will be developed, tested and reviewed before being submitted to Sector Management for approval, followed by a roll-out throughout the system.
 
 ##### Main Deliverables
 
@@ -1047,21 +1079,21 @@ Effective monitoring and evaluation of the implementation of the education polic
 
 ### Implementation Guidelines
 
-- The implementation guidelines are designed to assist in directing the implementation of  the  DOSE  Strategic  Plan,  in  terms  of  day-to-day  implementation  issues  and  overall supervision by DOSE and its development partners. Its purposes will be to generally help define  the  rules,  regulations  and  procedures  that  would  guide  the  management  and supervision of the main activities for smooth implementation.
+1. The implementation guidelines are designed to assist in directing the implementation of the DOSE Strategic Plan, in terms of day-to-day implementation issues and overall supervision by DOSE and its development partners. Its purposes will be to generally help define the rules, regulations and procedures that would guide the management and supervision of the main activities for smooth implementation.
 
-- DOSE  enjoys  a  satisfactory  working  relationship  with  DOSFEA  and  its  traditional partners,  notably  the  World  Bank,  the  ADB,  the  DFID,  the  EU,  BADEA,  the  IDB, UNICEF, UNESCO, and other friendly states such as Taiwan and Nigeria. There are also longstanding relations with NGOs in the sector such as Action Aid, Peace Corps, VSO, FIOH, CCF and Faith-Based Organisations.
+2. DOSE enjoys a satisfactory working relationship with DOSFEA and its traditional partners, notably the World Bank, the ADB, the DFID, the EU, BADEA, the IDB, UNICEF, UNESCO, and other friendly states such as Taiwan and Nigeria. There are also longstanding relations with NGOs in the sector such as Action Aid, Peace Corps, VSO, FIOH, CCF and Faith-Based Organisations.
 
-- In recognition of the invaluable contribution of the country's development partners to education, effective cooperation will continue to be promoted with the donor community. In  an  effort  to  intensify  resource  mobilisation  for  the  sector  through  bilateral  and multilateral grant financing, DOSE will work during the period towards the harmonisation  of  donor  regulations  and  reporting  guidelines,  while,  in  the  short  term, abiding by agreed covenants and implementation guidelines with individual development partner regulations at bilateral levels depending on the financing institution.
+3. In recognition of the invaluable contribution of the country's development partners to education, effective cooperation will continue to be promoted with the donor community. In an effort to intensify resource mobilisation for the sector through bilateral and multilateral grant financing, DOSE will work during the period towards the harmonisation of donor regulations and reporting guidelines, while, in the short term, abiding by agreed covenants and implementation guidelines with individual development partner regulations at bilateral levels depending on the financing institution.
 
-- At  the  Programme  level,  DOSE  will  continue  to  abide  by  current  Government fiduciary  and  procurement  guidelines  and  regulations,  as  prescribed  by  law  and  other statutes.
+4. At the Programme level, DOSE will continue to abide by current Government fiduciary and procurement guidelines and regulations, as prescribed by law and other statutes.
 
 ### Organisation
 
-- DOSE  is  responsible  for  policy  development,  management  and  coordination  of education in The Gambia. The Department will guide the development of the education sector during the implementation period of the strategic plan and beyond.
+5. DOSE is responsible for policy development, management and coordination of education in The Gambia. The Department will guide the development of the education sector during the implementation period of the strategic plan and beyond.
 
-- The  SOS  for  Education  is  responsible  for  leadership  in  the  sector  and  for  policy oversight.  The  Permanent  Secretary  is  the  chief  executive  and  adviser  to  the  SOS  and provides  oversight  for  strategic  plan  activities.  There  are  two  Deputy  Permanent Secretaries  one  of  whom  assists  the  Permanent  Secretary  in  the  administrative  and financial  management  functions,  while  the  other  assists  in  the  coordination  of  policy implementation.
+6. The SOS for Education is responsible for leadership in the sector and for policy oversight. The Permanent Secretary is the chief executive and adviser to the SOS and provides oversight for strategic plan activities. There are two Deputy Permanent Secretaries one of whom assists the Permanent Secretary in the administrative and financial management functions, while the other assists in the coordination of policy implementation.
 
-- There exist two management committees for the effective management and coordination of policy and the strategic plan implementation. First, the SMT chaired by the  SOS  and  comprising  the  directors,  the  Permanent  Secretary  and  the  two  Deputy Permanent Secretaries,  the  Project  Manager  and  the  Principal  Accountant.  Second,  the CCM  made  up  of  all  the  directors,  Principal  Education  Officers,  Managers/Deputy Managers  and  Deputy  Permanent  Secretaries  and  chaired  by  the  Permanent  Secretary.
+7. There exist two management committees for the effective management and coordination of policy and the strategic plan implementation. First, the SMT chaired by the SOS and comprising the directors, the Permanent Secretary and the two Deputy Permanent Secretaries, the Project Manager and the Principal Accountant. Second, the CCM made up of all the directors, Principal Education Officers, Managers/Deputy Managers and Deputy Permanent Secretaries and chaired by the Permanent Secretary.
 
 35
 
@@ -1073,19 +1105,19 @@ These two committees will continue to meet bi-monthly on a rotation basis within
 
 8.  DOSE  will  maintain  professional  directorates,  each  headed  by  a  director  who  will advise  the  Permanent  Secretary  on  technical  and  professional  matters  relating  to  their area of expertise and responsibility. These directorates are:
 
-- Planning, Policy Analysis and Budgeting Directorate
+1. Planning, Policy Analysis and Budgeting Directorate
 
-- Human resource development
+2. Human resource development
 
-- Basic and secondary education
+3. Basic and secondary education
 
-- Standards and quality assurance
+4. Standards and quality assurance
 
-- Curriculum Research, Evaluation & Development
+5. Curriculum Research, Evaluation & Development
 
-- Science and Technology Education
+6. Science and Technology Education
 
-- Tertiary/higher education and Research.
+7. Tertiary/higher education and Research.
 
 9. In addition there are six regional directorates, each headed by a regional director. The regional directorates, in the interim, are answerable to the Permanent Secretary pending the handover of the education service to the municipal/area councils. They will continue to be engaged in education policy dialogue and take full responsibility for the planning and implementation of educational Programmes in the regions.
 
@@ -1095,9 +1127,9 @@ These two committees will continue to meet bi-monthly on a rotation basis within
 
 - Monitoring progress and achievement
 
-- Coordinating the inputs from external partners and the use of external financing
-
 - Overseeing the implementation of Programmes/activities
+
+- Coordinating the inputs from external partners and the use of external financing
 
 - Identifying financing gaps in Programmes and implementation
 
@@ -1123,9 +1155,11 @@ These two committees will continue to meet bi-monthly on a rotation basis within
 
 15. The National Education Policy (2004 - 2015) lays emphasis on efficiency in resource utilisation and accountability. In pursuance of the policy pronouncements, resources will be  targeted  to  identify  activities  based  on  the  priorities  for  each  Programme  area,  and within Programmes, to priority targeted beneficiaries. Such allocation of resources will be  predicated  on  the  most  cost-effective  utilisation  of  available  resources,  guided  by efficiency measures.
 
-16. The overall investment for the ten-year strategic plan is US $194.6 million, of which 66.2% is investment cost and 33.8% is recurrent cost. Currently, funding acquired so far amounts  to  35.9%,  thus  leaving  a  gap  of  64.1%.  This  translates  to  approximately  an annual funding gap of $12.5 million (Table 1).
+16. The overall investment for the ten-year strategic plan is US $194.6 million, of which 66.2% is investment cost and 33.8% is recurrent cost. Currently, funding acquired so far amounts to 35.9%, thus leaving a gap of 64.1%. This translates to approximately an annual funding gap of $12.5 million (Table 1).
 
-Committed Funding | Funding Gap | Total
+Table 1: Total Investment and Funding gap by Component
+
+ | Committed Funding |  | Funding Gap |  | Total |
 --- | --- | --- | --- | --- | --- | ---
 Component Programme area | Amount | % | Amount | % | Amount | %
 Basic education | 54,013.46 | 38.5% | 86,351.85 | 61.5% | 140,365.31 | 72.1%
@@ -1136,8 +1170,6 @@ Quality assurance | 1,463.76 | 43.1% | 1,928.82 | 56.9% | 3,392.58 | 1.7%
 Sector management | 7,564.30 | 69.6% | 3,305.60 | 30.4% | 10,869.90 | 5.6%
 TOTAL INVESTMENT COSTS | 69,775.65 | 35.9% | 124,837.53 | 64.1% | 194,613.18 | 100%
 
-Table 1: Total Investment and Funding gap by Component
-
 37
 
 [[END OF PAGE 37]]
@@ -1146,7 +1178,9 @@ Table 1: Total Investment and Funding gap by Component
 
 17.  Much  as  the  needs  are  enormous,  it  is  apparent  that  the  funding  gap  will  not  be entirely met  by  external partners; hence  resources must  be  sought from  within. Government budgetary allocation must reflect policy priorities both at the national level and  by  Programme  area  at  the  sectoral  level.  At  the  macroeconomic  level,  better performance and management of the economy will generate much-needed resources for financing education from the national budget and supplemented by external resources. It is with this expectation that the sector will endeavour during the implementation of the strategic  plan  to  wean  itself  from  heavy  donor  lending  and  work  more  on  mobilising grants financing.
 
-18. Table 2 depicts the priority the sector accords to basic education; i.e. 72.1% of total costs  over  the  planned  period.  Though  the  Programme  area  constitutes  77%  of  current available funding, it accounts for 69% of the financing gap (table III). Although quality assurance accounts for only 1.7% of the total, it should be stated that the quality inputs for effective teaching and learning and other quality inputs are spread in the Programme areas.
+18. Table 2 depicts the priority the sector accords to basic education; i.e. 72.1% of total costs over the planned period. Though the Programme area constitutes 77% of current available funding, it accounts for 69% of the financing gap (table III). Although quality assurance accounts for only 1.7% of the total, it should be stated that the quality inputs for effective teaching and learning and other quality inputs are spread in the Programme areas.
+
+Table 2: Total Costs by Programme and result areas ($ 000)
 
 Programme and result Areas | Cost | % of Total
 --- | --- | ---
@@ -1178,8 +1212,6 @@ C. Tertiary education
 7. Improved access to tertiary institutions | 156.70 | 0.10
 Subtotal for Tertiary education | 3,982.56 | 2.10
 
-Table 2: Total Costs by Programme and result areas ($ 000)
-
 38
 
 [[END OF PAGE 38]]
@@ -1188,9 +1220,9 @@ Table 2: Total Costs by Programme and result areas ($ 000)
 
 D. Technical and vocational education and training
 --- | --- | ---
+1. Improved access to TVET | 3,694.41 | 1.90
 2. Increased relevance of TVET | 2,665.96 | 1.40
-3. Improved quality of TVET | 882.11
-0.50
+3. Improved quality of TVET | 882.11 | 0.50
 4. Improved TVET sub-sector management | 516.54 | 0.30
 5. Predictable and adequate funding of TVET | 55.61 | 0.00
 6. Functional policy and strategic planning framework | 26.59 | 0.00
@@ -1213,7 +1245,9 @@ F. Sector Management
 Subtotal for Sector Management | 10,869.90 | 5.60
 Total | 194,613.18 | 100
 
-- Table 3 shows the commitment by Government and other donor partner intervention by recurrent and capital (investment) expenditure. It would be observed that of the 64.1% funding gap, 68% is on investment expenditures and 32% on recurrent costs. Government contribution, as counterpart funding, to the strategic plan constitutes approximately 1.2%, with the bulk (84%) being spent on investment costs. Recurrent expenditures of NGOs are on the provision of scholarships, whereas expenditure of the World Food Programme is on the school rations for children.
+19. Table 3 shows the commitment by Government and other donor partner intervention by recurrent and capital (investment) expenditure. It would be observed that of the 64.1% funding gap, 68% is on investment expenditures and 32% on recurrent costs. Government contribution, as counterpart funding, to the strategic plan constitutes approximately 1.2%, with the bulk (84%) being spent on investment costs. Recurrent expenditures of NGOs are on the provision of scholarships, whereas expenditure of the World Food Programme is on the school rations for children.
+
+Table 3: Investment and Recurrent Costs by Financier ($ '000)
 
 Financier | Investment | % | Recurrent | % | Total | %
 --- | --- | --- | --- | --- | --- | ---
@@ -1228,8 +1262,6 @@ UNFPA | 22.09 | 0.02% | 0 | 0 | 22.09 | 0.01%
 World Food Programme | - | 0.00% | 13,143.12 | 19.99% | 13,143.12 | 6.75%
 BESPOR | 5,138.92 | 3.99% | 326.93 | 0.50% | 5,465.85 | 2.81%
 
-Table 3: Investment and Recurrent Costs by Financier ($ '000)
-
 39
 
 [[END OF PAGE 39]]
@@ -1241,7 +1273,7 @@ NGOs | 6,817.23 | 5.29% | 8,312.06 | 12.64% | 15,129.28 | 7.77%
 Funding Gap | 85,149.39 | 66.08% | 39,688.15 | 60.36% | 124,837.53 | 64.15%
 Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
-- To close the financing gap between 2011 and 2015, the domestic resources allocated to  the  education  sector  will  have  to  increase  to  2.7%  of  GDP  in  2011,  gradually increasing  to  3.2%  of  GDP  in  2015;  a  level  close  to  sub-Saharan  African  countries' average. It is important, however, not to underplay the challenge: although macroeconomic performance has improved, the system is still relatively fragile and the risk  of  under-funding  the  Programme  is  still  present.  However,  with  continued  strong leadership DOSE, and with the high demand for education expressed by the population, there is little reason to believe that Government commitment will wane in the near future.
+20. To close the financing gap between 2011 and 2015, the domestic resources allocated to the education sector will have to increase to 2.7% of GDP in 2011, gradually increasing to 3.2% of GDP in 2015; a level close to sub-Saharan African countries' average. It is important, however, not to underplay the challenge: although macroeconomic performance has improved, the system is still relatively fragile and the risk of under-funding the Programme is still present. However, with continued strong leadership DOSE, and with the high demand for education expressed by the population, there is little reason to believe that Government commitment will wane in the near future.
 
 40
 
@@ -1279,9 +1311,9 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 - Early Childhood Development
 
-- Adult and Non-Formal Education
-
 - Basic Education (Grades 1-9)
+
+- Adult and Non-Formal Education
 
 8.  The  GOTG is committed to upholding the right of every  person to basic education, regardless  of  gender,  age,  religion  or  disability.  Accordingly,  basic  education  will  be open to all. Learning at this level will be geared towards the holistic development of the individual for the positive realisation of every person's full potential and aspirations.
 
@@ -1295,7 +1327,7 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 ###### Basic Education (Grades 1-9)
 
-12.  The  National  Education  Policy  (2004-2015)  provides  for  a  unified  basic  education system, covering years 1-9, with automatic transition and no transition examination at the end of the lower basic cycle. Thus, there is a rapid expansion taking place at the upper basic level, and a policy of integrating basic education facilities where possible. Also, in practice, it is difficult to draw a line between the lower and upper basic cycles. Expansion of Grades 1-6 implies expansion of Grades 7-9. The country cannot, in fact, commit all its  resources  to  primary  education,  because  it  has  already  embarked  on  a  substantial expansion of the upper basic levels hence transforming the structure from 6-3-3-4 to 9-34.
+12. The National Education Policy (2004-2015) provides for a unified basic education system, covering years 1-9, with automatic transition and no transition examination at the end of the lower basic cycle. Thus, there is a rapid expansion taking place at the upper basic level, and a policy of integrating basic education facilities where possible. Also, in practice, it is difficult to draw a line between the lower and upper basic cycles. Expansion of Grades 1-6 implies expansion of Grades 7-9. The country cannot, in fact, commit all its resources to primary education, because it has already embarked on a substantial expansion of the upper basic levels hence transforming the structure from 6-3-3-4 to 9-3-4.
 
 13. This analysis, however, looks at the different levels of basic education principally for ease of reference and to see the performance of each level during the period. It should, therefore, not be seen as an attempt to separate basic education as a concept.
 
@@ -1398,27 +1430,27 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 ##### Indicators for the Result Areas
 ###### Result Area 1
 
-- 95% of schools provided with clean and safe drinking water
-
 - 80% of schools fenced
+
+- 95% of schools provided with clean and safe drinking water
 
 - 95% of schools provided with separate toilets for boys and girls
 
-- 90% of required furniture provided
-
 - 80% of existing classrooms rehabilitated and maintained
+
+- 90% of required furniture provided
 
 ###### Result Area 2
 
-- Over 80% of students perform well in all subjects
-
 - Over 90% of teachers qualified by 2015
+
+- Over 80% of students perform well in all subjects
 
 - Over 90% of trained teachers (GC and UTG) retained in the system
 
-- Reduce teacher attrition rate to 1%
-
 - More than 90% of teachers keep standard teaching records
+
+- Reduce teacher attrition rate to 1%
 
 - Over 90% of teachers trained in special needs education
 
@@ -1426,15 +1458,15 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 ###### Result Area 3
 
-- GER increased to 100%
-
 - Double shift classes increased by 32%
+
+- GER increased to 100%
 
 - Supply of qualified teachers increased to 100%
 
-- Completion rate increased to 100%
-
 - Pupil-teacher ratio increased to 45:1
+
+- Completion rate increased to 100%
 
 - Share of enrolment for girls increased to 50%
 
@@ -1442,9 +1474,9 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 ###### Result Area 4
 
-- Number of schools with well-equipped and functioning libraries
-
 - Number of teachers trained on local teaching aid production
+
+- Number of schools with well-equipped and functioning libraries
 
 46
 
@@ -1454,27 +1486,27 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 ###### Result Area 5
 
-- Pupil : Textbook ratio
-
 - Revised syllabus/pupils books/teachers' guides for all grades in basic education
+
+- Pupil : Textbook ratio
 
 ###### Result Area 6
 
-- An increase by a minimum of 50% in the number of schools with ECD centres attached
+- GER has increased by 50% or more
 
-- GER has increased  by 50% or more
+- An increase by a minimum of 50% in the number of schools with ECD centres attached
 
 ###### Result Area 7
 
-- Frequency of school visits increased to once a month by PTAs
-
 - Frequency of support visits increased to once a week by REDs
+
+- Frequency of school visits increased to once a month by PTAs
 
 - Frequency monitoring increased to twice a week by senior teachers
 
-- All cluster monitors adequately trained by 2015
-
 - Level of community involvement increased
+
+- All cluster monitors adequately trained by 2015
 
 - Teacher/Pupil contact hours increased to 880 hours
 
@@ -1551,7 +1583,7 @@ Total Costs | 128,862.78 | 100% | 65,750.40 | 100% | 194,613.18 | 100%
 
 ###### Develop and implement a communication strategy on ECD
 
-47. A communication strategy on ECD will be implemented to mobilise all stakeholders behind the vision of effective ECD policy and  practice.  There will be sensitisation of Parent-Teachers Associations (PTAs) on their roles and responsibilities, and parents will be trained on special needs.   Frameworks  for integration will be developed and multisectoral  networks  among stakeholders will be created. Clusters in ECD sectors will be established in order to enhance the sharing of good practice among ECD units in schools and elsewhere.
+47. A communication strategy on ECD will be implemented to mobilise all stakeholders behind the vision of effective ECD policy and practice. There will be sensitisation of Parent-Teachers Associations (PTAs) on their roles and responsibilities, and parents will be trained on special needs. Frameworks for integration will be developed and multi-sectoral networks among stakeholders will be created. Clusters in ECD sectors will be established in order to enhance the sharing of good practice among ECD units in schools and elsewhere.
 
 49
 
@@ -1590,20 +1622,20 @@ good quality with corresponding quantity is a sine qua non for effective and eff
 --- | ---
 That special needs and disadvantaged children can be accommodated | The key to the goals of Education for All is not only centred around the enrolment, retention and performance of children with advantaged circumstances but also that children with special needs and disadvantaged circumstances require attention for enrolment, retention and performance.
 That NGOs/CSOs are supportive of the education goals | The implementation of the basic education operational plan will require the participation of both NGOs and CSOs in support of the Education for All goals.
-That NGOs/CBOs would accept service agreement and will have the capacity to deliver | One of the most efficient implementable strategies for the delivery of adult and non- formal education is the contracting of NGOs/CBOs to provide literacy. It is , therefore, important that the contractual agreements with such providers are mutually agreed upon.
+That NGOs/CBOs would accept service agreement and will have the capacity to deliver | One of the most efficient implementable strategies for the delivery of adult and non-formal education is the contracting of NGOs/CBOs to provide literacy. It is , therefore, important that the contractual agreements with such providers are mutually agreed upon.
 That adequate, qualified and motivated facilitators are available for literacy classes | The quality of literacy provision has a direct bearing on the type of facilitators recruited to deliver their functions in literacy classes.
 
 ##### Implementation Issues
 
-- BSED is the institutional home for the Basic Education Programme Area. However, given the size of the Programme and its diverse nature, the units within the directorate will be responsible for coordinating all activities within the mandate of their units.
+51. BSED is the institutional home for the Basic Education Programme Area. However, given the size of the Programme and its diverse nature, the units within the directorate will be responsible for coordinating all activities within the mandate of their units.
 
-- It  is  for  this  reason  that  clear  terms  of  reference  and  implementation  roles  and functions will be provided to avoid the duplication of functions, particularly between the units and the regional directorates.
+52. It  is  for  this  reason  that  clear  terms  of  reference  and  implementation  roles  and functions will be provided to avoid the duplication of functions, particularly between the units and the regional directorates.
 
 #### SECONDARY EDUCATION
 
 ##### Summary
 
-- In a more competitive global market in which lower secondary level (UBS) has been universally integrated into the basic education, secondary education should be prioritised, given  its  key  function  in  absorbing  graduates  from  the  basic  level.  However,  in  The Gambia, most of the schools at this level, in contrast to the UBS, are privately operated, thereby,  rendering  access  quite  difficult  to  children  from  poor  households.  Despite  the fact that the majority of the senior secondary schools are located in the prosperous urban regions (Regions 1 and 2), poor/rural regions are not left un-served and have witnessed
+53. In a more competitive global market in which lower secondary level (UBS) has been universally integrated into the basic education, secondary education should be prioritised, given  its  key  function  in  absorbing  graduates  from  the  basic  level.  However,  in  The Gambia, most of the schools at this level, in contrast to the UBS, are privately operated, thereby,  rendering  access  quite  difficult  to  children  from  poor  households.  Despite  the fact that the majority of the senior secondary schools are located in the prosperous urban regions (Regions 1 and 2), poor/rural regions are not left un-served and have witnessed
 
 51
 
@@ -1625,7 +1657,7 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - The mainstreaming of gender in the creation of opportunities for all
 
-- Development of the physical and mental skills which will contribute  to  nationbuilding - economically, socially and culturally in a sustainable environment
+- Development of the physical and mental skills which will contribute  to  nation-building - economically, socially and culturally in a sustainable environment
 
 - Encouragement of creativity and the development of a critical and analytical mind
 
@@ -1653,13 +1685,13 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - All  senior  secondary  schools  will  be  governed  by  a  gender-balanced  Board  in accordance with the Education Act. Senior secondary schools will enhance their revenue raising efforts instead of relying solely on user charges.
 
-59. In addition, there are five policy prescriptions that are relevant to more than one subsector but which have particular applicability to secondary education. These are:
+59. In addition, there are five policy prescriptions that are relevant to more than one sub-sector but which have particular applicability to secondary education. These are:
 
 - Constant renewal and improvement of the quality and relevance of science and technology education (STE) curricula, teaching and learning methodologies and methods of assessment
 
 - Use  of  ICT  and  distance  learning  methods  and  technology  to  improve  access, equity and quality of STE and other subject areas as appropriate
 
-- Development of agriculturally-biased senior secondary schools and agrovocational institutions in deprived communities
+- Development of agriculturally-biased senior secondary schools and agro-vocational institutions in deprived communities
 
 - Promotion  of  life  skills  education  (LSE)  to  help  learners  acquire  not  only knowledge and skills but also adaptive behaviour relevant to their self-fulfilment in  a  changing  environment.  Areas  to  be  highlighted  are  HIV/AIDS  prevention; gender  responsiveness;  peace  building  and  tolerance;  population  issues,  family life education and environment; guidance and counselling and patriotism
 
@@ -1691,9 +1723,9 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - Minimising costs of education, especially for girls
 
-- Equal participation  by  women  and  men  at  the  PTAs,  governing  bodies  and  the management levels of schools
-
 - Ensuring that all co-educational schools have 'girl-friendly' environments
+
+- Equal participation  by  women  and  men  at  the  PTAs,  governing  bodies  and  the management levels of schools
 
 ###### Result Area 3:  Improved access to secondary education
 
@@ -1731,9 +1763,9 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - Pupil-textbook ratio of 1:1
 
-- Consumable materials for science and technology, vocational and industrial arts, sufficient to allow the practical activities specified by the curriculum to properly function
-
 - Supplementary reading materials for students and teachers increased by 50%
+
+- Consumable materials for science and technology, vocational and industrial arts, sufficient to allow the practical activities specified by the curriculum to properly function
 
 - Assets register maintained in all secondary institutions
 
@@ -1811,9 +1843,9 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - Provide sufficient access to libraries, workshops and laboratory facilities
 
-- Provide sufficient vocational and industrial art equipment and materials
-
 - Provide sufficient science and technical equipment and materials
+
+- Provide sufficient vocational and industrial art equipment and materials
 
 - Provide an adequate supply of high quality teaching and learning materials
 
@@ -1851,9 +1883,9 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - The timetable restructured to give equal opportunities in all the subjects
 
-- Career guidance and counselling provided
-
 - Extramural classes provided in subjects where girls are under-performing
+
+- Career guidance and counselling provided
 
 - Existing separated toilets maintained and the construction of adequate numbers of separate toilets for female and male students will be ensured
 
@@ -1869,9 +1901,9 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 - Sensitise stakeholders to guidance and counselling
 
-- Reduce class size to 45
-
 - Introduce the concept of 'student friendly' schools
+
+- Reduce class size to 45
 
 ###### 73. The quality of teaching and learning in secondary education
 
@@ -1949,7 +1981,7 @@ an  expansion  of  secondary  schooling  recently,  which  acts  as  an  effecti
 
 Assumption | Argument
 --- | ---
-That adequate funds are available on a reliable and predictable basis from all sources encompassing government, non- government and international donors | To enable the provision of all the required inputs, including classroom and school construction and rehabilitation necessary to accommodate the planned increase in student numbers, the development and implementation of reformed curricula, syllabuses and assessment approaches, the provision of textbooks and learning materials, professional development and training of teachers and school managers, and for management and supervision
+That adequate funds are available on a reliable and predictable basis from all sources encompassing government, non-government and international donors | To enable the provision of all the required inputs, including classroom and school construction and rehabilitation necessary to accommodate the planned increase in student numbers, the development and implementation of reformed curricula, syllabuses and assessment approaches, the provision of textbooks and learning materials, professional development and training of teachers and school managers, and for management and supervision
 That CSOs, FBOs, NGOs and the private sector will continue to provide and finance a large proportion of secondary education | To finance the gap not covered by government and hence enlarge the participation of NGO communities and the private sector in the provision of secondary education
 That Area Councils will have funds to support schools | As part of the decentralisation process, Area Councils will have enough funds to support schools under their mandate
 That the economy needs the planned increase in general secondary education graduates | The economy will have the capacity to absorb secondary education graduates and create the enabling environment for their employment
@@ -1959,9 +1991,9 @@ That the Government can offer adequate incentives to recruit and retain qualifie
 
 ###### Improved availability and quality of teaching and learning materials and facilities
 
-- To enable measurement of progress in these areas of provision, baseline data will be collected, against which to set progress towards planned improvements.
+78. To enable measurement of progress in these areas of provision, baseline data will be collected, against which to set progress towards planned improvements.
 
-- The  activities  to  be  carried  out  in  order  to  improve  the  availability  and  quality  of teaching  and  learning  materials  and  facilities  should  ensure,  on  the  one  hand,  an appropriate provision and availability of required resources  at the school level. On the other  hand,  the  regular  monitoring  and  review  of  resources  should  be  institutionalised. For this to happen and become a reality, staff of the SQAD, CRED, BSED and PPABD
+79. The  activities  to  be  carried  out  in  order  to  improve  the  availability  and  quality  of teaching  and  learning  materials  and  facilities  should  ensure,  on  the  one  hand,  an appropriate provision and availability of required resources  at the school level. On the other  hand,  the  regular  monitoring  and  review  of  resources  should  be  institutionalised. For this to happen and become a reality, staff of the SQAD, CRED, BSED and PPABD
 
 59
 
@@ -2001,7 +2033,7 @@ should complement their efforts to ensure not only that they properly monitor bu
 
 ###### Improved conditions of service for teachers in secondary schools
 
-87. Activities under this result area are supply side related and several among them will require  significant  funding  from  the  Government  or  other  sources.    The  professional development  Programme  is,  in  part,  a  consolidation  of  in-service  opportunities,  other training e.g. LSE and the establishment of a unified teaching service where professional standards will be debated and monitored. The Human Resources Directorate should play a key role in the betterment of teachers' conditions of service. The low status of teachers and the absence of career development are mainly seen as factors that lead to the nonwillingness  of  Gambians  to  embark  on  the  teaching  profession.  Henceforth,  the  HRD should  refocus  its  priority  through  not  only  training  opportunities  to  staff  but  also  on teachers'  career  development  plan.  Therefore,  HRD  staff  should  also  benefit  from training mainly on human resource development within structures such as ministries of education.
+87. Activities under this result area are supply side related and several among them will require  significant  funding  from  the  Government  or  other  sources.    The  professional development  Programme  is,  in  part,  a  consolidation  of  in-service  opportunities,  other training e.g. LSE and the establishment of a unified teaching service where professional standards will be debated and monitored. The Human Resources Directorate should play a key role in the betterment of teachers' conditions of service. The low status of teachers and the absence of career development are mainly seen as factors that lead to the non-willingness  of  Gambians  to  embark  on  the  teaching  profession.  Henceforth,  the  HRD should  refocus  its  priority  through  not  only  training  opportunities  to  staff  but  also  on teachers'  career  development  plan.  Therefore,  HRD  staff  should  also  benefit  from training mainly on human resource development within structures such as ministries of education.
 
 61
 
@@ -2167,7 +2199,7 @@ It is recognised that the most important constraint on the UTG is the lack of ph
 
 - square4 Degree programmes offered at the GTTI, MDI, GC and UTG campuses under the integrated system will be accredited by the proposed HEO
 
-111.  An  HEO  will  be  established  to  promote  and  maintain  academic  standards  in education,  learning  and  knowledge  associated  with  the  proposed  integrated  UTG  by setting and monitoring standards for tertiary education and acting as an advisory body to DOSE. 9 All  these  measures are consistent with the National Education Policy (2004 2015).
+111.  An  HEO  will  be  established  to  promote  and  maintain  academic  standards  in education,  learning  and  knowledge  associated  with  the  proposed  integrated  UTG  by setting and monitoring standards for tertiary education and acting as an advisory body to DOSE. 9 All  these  measures are consistent with the National Education Policy (2004 – 2015).
 
 ###### Result Area 1
 
@@ -2185,9 +2217,9 @@ It is recognised that the most important constraint on the UTG is the lack of ph
 
 ###### Result Area 3
 
-- Clear conditions of service for all tertiary education staff
-
 - The existence of a Human Resource Policy
+
+- Clear conditions of service for all tertiary education staff
 
 - Clearly outlined career profiles for tertiary education staff
 
@@ -2195,9 +2227,9 @@ It is recognised that the most important constraint on the UTG is the lack of ph
 
 ###### Result Area 4
 
-- 90% of all necessary equipment in place and functional
-
 - 90% of structures are well maintained
+
+- 90% of all necessary equipment in place and functional
 
 - Maintenance policy for structures and equipment in place
 
@@ -2239,7 +2271,7 @@ It is recognised that the most important constraint on the UTG is the lack of ph
 
 ###### Revise and implement rules, regulations and professional standards of the tertiary institutions
 
-113. The regulations on professional standards  at the institutional level  are  either  nonexistent  or  ad-  hoc  in  nature.    This  activity  will  help  to  standardise  procedures  and thereby contribute to the quality of delivery of tertiary education.
+113. The regulations on professional standards  at the institutional level  are  either  non-existent  or  ad-  hoc  in  nature.    This  activity  will  help  to  standardise  procedures  and thereby contribute to the quality of delivery of tertiary education.
 
 ###### Conduct  regular  meetings  of  students  and  guidance  counsellors  at  the  tertiary institution level (TIs).
 
@@ -2287,7 +2319,7 @@ Activities designed to bring about improved management:
 
 ###### Implement  a  performance  management  system  for  the  integrated  tertiary  education system (TIs)
 
-123. A  system  to  manage  performance  is  crucial  for  the  tertiary  education  system  to realise the full potential of its staff.  Staff output may be very much improved by a wellmanaged system and, as of now, no organised performance management system exists at the tertiary institution level.
+123. A  system  to  manage  performance  is  crucial  for  the  tertiary  education  system  to realise the full potential of its staff.  Staff output may be very much improved by a well-managed system and, as of now, no organised performance management system exists at the tertiary institution level.
 
 Activities to be implemented to achieve this result:
 
@@ -2307,7 +2339,7 @@ Activities to be implemented to achieve this result:
 
 ###### Secure and provide adequate funding for study Programmes, especially to the Master's and PhD levels, for staff that need to upgrade their qualifications (TIs)
 
-126. I ncreasing the qualification levels of staff to Master's and PhD degrees is critical for the  tertiary  education  sub-sector  to  fulfil  its  role  in  providing  lecturers  for  the  tertiary education level, senior secondary school teachers, medical doctors, engineers and other professionals  engaged  in  socio-economic  development  of  the  nation.    Funding  for  this purpose is essential and needs to be pursued vigorously.
+126. Increasing the qualification levels of staff to Master's and PhD degrees is critical for the  tertiary  education  sub-sector  to  fulfil  its  role  in  providing  lecturers  for  the  tertiary education level, senior secondary school teachers, medical doctors, engineers and other professionals  engaged  in  socio-economic  development  of  the  nation.    Funding  for  this purpose is essential and needs to be pursued vigorously.
 
 ###### Develop and implement a human resource policy at the tertiary institution level (TIs)
 127. All tertiary  institutions  have  Conditions  of  Service  which  are  short  of  full  human resource  policies.    Institutions,  therefore,  are  short  of  a  proper  planning  tool  for  staff development.  This activity will help resolve the issue.
@@ -2374,7 +2406,7 @@ Activities to be undertaken to achieve improved, relevant quality education:
 
 ###### Each year, train a minimum of 10% of the academic staff to the PhD level, 20% to the Master's degree level and 30% to the first degree level
 
-139.  For  any  tertiary  institution  to  survive  and  make  a  positive  impact  on  the  socioeconomic well-being of its citizenry there should be a well-structured and planned career development plan. This begins with a training  needs  assessment  that  will  establish  the gaps and the necessary capacity required by the institution to face challenges.
+139.  For  any  tertiary  institution  to  survive  and  make  a  positive  impact  on  the  socio-economic well-being of its citizenry there should be a well-structured and planned career development plan. This begins with a training  needs  assessment  that  will  establish  the gaps and the necessary capacity required by the institution to face challenges.
 
 ###### Establish and implement quality assurance units in all tertiary education units (TIs)
 
@@ -2435,15 +2467,15 @@ There is political will to merge tertiary institutions and create an integrated 
 
 148. The policy objectives state, among other things, that there should be improvement in access to post-secondary TVET and improvement in its coordination.  They also seek to increase opportunities for the training of early school leavers, secondary school leavers and adults who cannot make it to the next school level, in order to enhance employment, especially self-employment prospects.
 
-- With  a  TVET  Policy  and  National  Training  Authority  Act  already  in  place,  the GOTG will be able to enforce this legislative framework to support the implementation and sustainability of the TVET policy and management system.  The policy advocates the strengthening  the  institutional  and  management  capacity  of  the  TVET  system  and  the establishment of a sound financial basis for its long-term development and sustainability.
+149. With  a  TVET  Policy  and  National  Training  Authority  Act  already  in  place,  the GOTG will be able to enforce this legislative framework to support the implementation and sustainability of the TVET policy and management system.  The policy advocates the strengthening  the  institutional  and  management  capacity  of  the  TVET  system  and  the establishment of a sound financial basis for its long-term development and sustainability.
 
-- During  the  policy  period,  which  is  2006  to  2015,  the  GOTG  will  institutionalise accredited post-basic training programmes  such  as apprenticeship and on-the-job vocational and technical training. The existing vocational/skills centres at the district/regional  levels  and  in  the  rural  areas  will  be  further  developed  to  deliver  such skills development programmes.
+150. During  the  policy  period,  which  is  2006  to  2015,  the  GOTG  will  institutionalise accredited post-basic training programmes  such  as apprenticeship and on-the-job vocational and technical training. The existing vocational/skills centres at the district/regional  levels  and  in  the  rural  areas  will  be  further  developed  to  deliver  such skills development programmes.
 
-- Although the present situation of employment in The Gambia is not permanent, it is certainly not ideal.  The products of the education system can no longer look forward to being easily absorbed into employment by the public and private sectors.  Efforts are now being focused on TVET and guidance that will eventually lead to self-employment in the formal and informal sectors of the economy.
+151. Although the present situation of employment in The Gambia is not permanent, it is certainly not ideal.  The products of the education system can no longer look forward to being easily absorbed into employment by the public and private sectors.  Efforts are now being focused on TVET and guidance that will eventually lead to self-employment in the formal and informal sectors of the economy.
 
-- All of these can only be addressed if the access and quality of TVET is improved. One very important aspect of TVET in any economic development is the relevance of its Programmes.  The implementation will address the problem of relevance and quality in the TVET sub-sector.  Without quality, the TVET sub-sector will not address its mandate. The  Gambia  Skills  Qualifications  Framework  with  its  registered  and  employer-driven qualifications  and  standards,  to  be  delivered  by  registered  and  accredited  training providers, will contribute greatly to improved quality in TVET.  Priorities in training will be determined by the outcomes of labour market research, as presently developed by the National Training Authority.
+152. All of these can only be addressed if the access and quality of TVET is improved. One very important aspect of TVET in any economic development is the relevance of its Programmes.  The implementation will address the problem of relevance and quality in the TVET sub-sector.  Without quality, the TVET sub-sector will not address its mandate. The  Gambia  Skills  Qualifications  Framework  with  its  registered  and  employer-driven qualifications  and  standards,  to  be  delivered  by  registered  and  accredited  training providers, will contribute greatly to improved quality in TVET.  Priorities in training will be determined by the outcomes of labour market research, as presently developed by the National Training Authority.
 
-- Sector management in any programme is important.  It is, therefore, also important that the sector is improved and properly managed.
+153. Sector management in any programme is important.  It is, therefore, also important that the sector is improved and properly managed.
 
 73
 
@@ -2451,13 +2483,13 @@ There is political will to merge tertiary institutions and create an integrated 
 
 [[START OF PAGE 74]]
 
-154.  As  mentioned  above,  no  programme  can  develop  without  funding.    The  National Education  Technical  Training  Levy  is  the  only  source  of  funding  for  the  TVET  subsector and it needs to be consolidated to achieve the required funding.
+154.  As  mentioned  above,  no  programme  can  develop  without  funding.    The  National Education  Technical  Training  Levy  is  the  only  source  of  funding  for  the  TVET  sub-sector and it needs to be consolidated to achieve the required funding.
 
 ##### Background
 
 155.  In  recent  years,  TVET  has  taken  an  increasingly  important  role  in  the  education system in The Gambia. The GOTG considers TVET as an important tool for economic development. Thus DOSE has taken a number of important steps to address the needs of TVET in order to increase its relevance to the labour market. These steps include:
 
-- Provision of a legislative and policy framework.
+1) Provision of a legislative and policy framework.
 
 The policy framework for TVET consists of:
 
@@ -2473,9 +2505,9 @@ There are three components of the TVET policy:
 
 - Expansion and diversification of TVET activities
 
-- Increased  private  sector  participation  in  the  provision  and  financing  of  skills training.
-
 - Ensuring that training meets the needs of the labour market in quality
+
+- Increased  private  sector  participation  in  the  provision  and  financing  of  skills training.
 
 2)  Strengthening  institutional  capacity  at  all  levels  of  the  TVET,  such  as  planning  and monitoring, regulatory, financial, quality assurance and human resource capacity.
 
@@ -2581,15 +2613,15 @@ The  private  sector  plays  a  significant  role  and  will  contribute  to  po
 
 - Employers facilitate part-time training for their employees
 
-- Quality part-time mode of training for lifelong learning established
-
 - TVET programmes affordable
+
+- Quality part-time mode of training for lifelong learning established
 
 - One public TVET institution established in each region
 
-- Inclusion of HIV/AIDS programmes as part of registration requirements
-
 - Scholarship scheme for girls in TVET established
+
+- Inclusion of HIV/AIDS programmes as part of registration requirements
 
 - A comprehensive apprenticeship training system established
 
@@ -2597,21 +2629,21 @@ The  private  sector  plays  a  significant  role  and  will  contribute  to  po
 
 ###### Result Area 2
 
-- Train personnel in curriculum development
-
 - Design and implementation of a regular system of review of standards
+
+- Train personnel in curriculum development
 
 - Existing TVET institutions harmonised to standards set
 
-- Develop and maintain standards
-
 - Inventory of existing Programmes from TVET institutions harmonised to standard
+
+- Develop and maintain standards
 
 - LMIS output defined and established
 
-- GTVQF approved and gazetted
-
 - Information on present and future market needs obtained
+
+- GTVQF approved and gazetted
 
 - Ability to process data on the spot
 
@@ -2619,11 +2651,11 @@ The  private  sector  plays  a  significant  role  and  will  contribute  to  po
 
 ###### Result Area 3
 
-- 90% of TVET institutions registered by the NTA
-
 - 75% pass rate achieved within TVET validated institutions
 
-- All  registered  TVET  institutions  participate  in  NAVSTI  credential  validations system
+- 90% of TVET institutions registered by the NTA
+
+- All registered TVET institutions participate in NAVSTI credential validations system
 
 77
 
@@ -2637,55 +2669,55 @@ The  private  sector  plays  a  significant  role  and  will  contribute  to  po
 
 - 75% of TVET staff in career development Programmes
 
-- Distance learning for TVET staff arranged
-
 - Staff needs assessment made
+
+- Distance learning for TVET staff arranged
 
 ###### Result Area 4
 
-- Establish a TVET system in place
-
 - Sector targets achieved within stipulated time frame
+
+- Establish a TVET system in place
 
 - Stakeholder satisfaction level at 75%
 
-- NTA  budget developed and finances managed according to international standards
-
 - 85% of planned meetings with stakeholders held as scheduled
+
+- NTA budget developed and finances managed according to international standards
 
 - Monitoring system of work plans developed
 
 ###### Result Area 5
 
-- Disbursement plan agreed by key stakeholders by-mid 2007
-
 - At least 75% of potential levy payers are aware of the levy and its uses
+
+- Disbursement plan agreed by key stakeholders by-mid 2007
 
 - TVET investment plan approved by Board by end of 2006
 
-- Fees collected from relevant service beneficiaries of the NTA
-
 - 75% of submitted project proposals accepted by donors
+
+- Fees collected from relevant service beneficiaries of the NTA
 
 - Budget is managed and controlled properly
 
-- Annual TVET revenue projection
-
 - Annual TVET expenditure projection in line with revenue expectations
+
+- Annual TVET revenue projection
 
 ###### Result Area 6
 
-- Policy made functional by the planned period
-
 - Achievement of policy objectives
+
+- Policy made functional by the planned period
 
 - HIV/AIDS policy is part of the requirements for the registration and accreditation of training institutions
 
 - TVET related policies harmonised
 
-- Database on retention, enrolment, attrition, etc developed and retained
-
 - National TVET policy updated
+
+- Database on retention, enrolment, attrition, etc developed and retained
 
 - Increased investment in skills development by the private sector
 
@@ -2775,9 +2807,9 @@ LMIS managers will be retained in DOSE | Incentives sufficient to attract traine
 
 - Availability of qualified candidates for admission to tertiary institutions
 
-- Agreement of stakeholders on continued quality of localised TVET examinations.
-
 - LMIS updating biannually and continued maintenance
+
+- Agreement of stakeholders on continued quality of localised TVET examinations.
 
 #### QUALITY ASSURANCE
 
@@ -2793,7 +2825,7 @@ LMIS managers will be retained in DOSE | Incentives sufficient to attract traine
 
 191. The National Education Policy (2004 - 2015) states that the learning outcomes at all levels will be improved through the following:
 
-- Provision  of  an  adequate  supply  of  trained  teachers  through  cost  effective  preservice teacher education and in-service training Programmes
+- Provision of an adequate supply of trained teachers through cost effective pre-service teacher education and in-service training Programmes
 
 - Curriculum improvement - There will be ongoing review and upgrading of the curricula across basic and secondary levels based on explicit learning objectives upon  which  assessments  will  be  more  reliably  based.  Significant  focus  will  be placed  on  school  agriculture,  which  adequately  responds  to  the  'Back  to  the Land' philosophy.
 
@@ -2805,7 +2837,7 @@ LMIS managers will be retained in DOSE | Incentives sufficient to attract traine
 
 [[START OF PAGE 82]]
 
-- Assessments and examinations -Classroom assessment practices will be improved and continuous assessment strengthened to monitor student performance and learning achievements.
+- Assessments and examinations – Classroom assessment practices will be improved and continuous assessment strengthened to monitor student performance and learning achievements.
 
 ###### Situational Analysis
 
@@ -2885,15 +2917,15 @@ LMIS managers will be retained in DOSE | Incentives sufficient to attract traine
 
 ###### Result Area 4
 
-- Pupil-textbook ratio of 1:1 in all subjects
-
 - All schools have adequate quantities of stationery
+
+- Pupil-textbook ratio of 1:1 in all subjects
 
 - At least 25% of supplementary materials written by Gambian authors
 
-- A library facility in every school.
-
 - Teaching syllabuses are available for all subjects at all levels
+
+- A library facility in every school.
 
 ##### Strategic Activities
 
@@ -2901,7 +2933,7 @@ LMIS managers will be retained in DOSE | Incentives sufficient to attract traine
 
 ###### Develop and implement a Standard School Management Manual (SQAD)
 
-202.  Many  schools  are  managed  by  headteachers  who  have  little  or  no  management training or experience. In addition no guidelines currently exist to guide them in the dayto-day management of the schools. The development of a School Management Manual will  facilitate  the  establishment  of  improved  and  coherent management practices  at the school  level,  including  holding  regular  school  SMT  meetings,  drawing  up  specific  job descriptions  and  responsibilities  for  all  school  staff  and  enforcing  targets  for  teacherpupils contact hours (880).
+202. Many schools are managed by headteachers who have little or no management training or experience. In addition no guidelines currently exist to guide them in the day-to-day management of the schools. The development of a School Management Manual will facilitate the establishment of improved and coherent management practices at the school level, including holding regular school SMT meetings, drawing up specific job descriptions and responsibilities for all school staff and enforcing targets for teacher-pupils contact hours (880).
 
 ###### Establish relevant management capacities in schools (HRD)
 
@@ -3039,9 +3071,9 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 - A comprehensive policy agenda and framework to be developed and implemented
 
-- Effective financial planning and management ensured
-
 - Effective planning and management of the education sector
+
+- Effective financial planning and management ensured
 
 - Effective  education  information  and  knowledge  management  system  developed and implemented
 
@@ -3147,27 +3179,27 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 ###### Result Area 1
 
-- Sexual harassment policy
-
 - Updated education policy
+
+- Sexual harassment policy
 
 - Approved internal regulatory framework
 
-- Approved policy agenda
-
 - Harmonised sub-sector policies
+
+- Approved policy agenda
 
 ###### Result Area 2
 
-- An ESSP in place and operational
-
 - A SWAp adopted
+
+- An ESSP in place and operational
 
 - Strategic and operational plans approved and operational
 
-- Functional organogram aligned to objectives
-
 - An approved management system operational
+
+- Functional organogram aligned to objectives
 
 - Minutes of monthly SMT meetings and quarterly CCM
 
@@ -3175,21 +3207,21 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 ###### Result Area 3
 
-- Evidence of budgetary transfers to LGAs (following the decentralisation of school management to LGAs)
-
 - Approved financial management system operational
+
+- Evidence of budgetary transfers to LGAs (following the decentralisation of school management to LGAs)
 
 - IFMIS operational
 
-- Regular PER updates
-
 - Approved MTEF in place
+
+- Regular PER updates
 
 ###### Result Area 4
 
-- Timely publication of data with 95% accuracy
-
 - Approved communication strategy
+
+- Timely publication of data with 95% accuracy
 
 - System for storage and speedy retrieval of documents operational
 
@@ -3207,21 +3239,21 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 ###### Result Area 5
 
-- All resources accounted for within given timelines using prescribed procedures
-
 - Updated assets register developed and maintained
+
+- All resources accounted for within given timelines using prescribed procedures
 
 ###### Result Area 6
 
-- Approved HR management manual in use
-
 - Approved HR policy operational
+
+- Approved HR management manual in use
 
 - Capacity-building plan operational
 
-- Staff Performance Appraisal System (SPAS) operational
-
 - Clear accountability matrix
+
+- Staff Performance Appraisal System (SPAS) operational
 
 - Reduction of gender disparity in teacher recruitment, promotion and distribution by 50%
 
@@ -3229,9 +3261,9 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 ###### Result Area 7
 
-- Weekly school support visit by RED staff
-
 - Approved monitoring and evaluation system operational
+
+- Weekly school support visit by RED staff
 
 - Quarterly monitoring visits by HQ Directorate staff
 
@@ -3351,17 +3383,17 @@ Adequate deployment of staff/teachers to remote and poor areas | The rapid expan
 
 - o A  system of attachment for new  staff will be re-introduced. The attachment will ensure that new recruits have the chance to learn the ropes before they are left on their own. It will also reduce the incidence of errors by new staff due to inexperience.
 
-- A ctivities  to  be  undertaken  to  achieve  effective  monitoring  and  evaluation  of  the implementation of the education policy and strategic plan:
+254. Activities to be undertaken to achieve effective monitoring and evaluation of the implementation of the education policy and strategic plan:
 
 - Assess current monitoring and evaluation systems, procedures and guidelines
 
-- Establish relevant capacities for monitoring and evaluation
-
 - Establish effective monitoring and evaluation systems, procedures and guidelines
 
-- Conduct M & E activities on a planned basis .
+- Establish relevant capacities for monitoring and evaluation
 
-- M  &  E  systems  require  careful  and  sensitive  implementation,  hence  the  need  to build capacities for M & E in those who will use the approved system. In order that those who are monitored understand the purpose of and approach to, the new M & E system, all teachers, headteachers and managers will be oriented to the system as part of establishing the relevant capacity.
+- Conduct M & E activities on a planned basis.
+
+255. M & E systems require careful and sensitive implementation, hence the need to build capacities for M & E in those who will use the approved system. In order that those who are monitored understand the purpose of and approach to, the new M & E system, all teachers, headteachers and managers will be oriented to the system as part of establishing the relevant capacity.
 
 ##### Assumptions for Sector Management
 
@@ -3387,11 +3419,11 @@ That HR decisions will be made without political interference | Political interf
 
 ##### Implementation Issues
 
-256.  One  of  the  major  challenges  for  the  sector  is  the  ability  to  retain  staff.  With  the current  low  civil  service  salaries,  it  is  difficult  to  recruit  and  maintain  staff  in  key competencies,  especially  in  information  technology  areas.  The  built-in  incentives  will keep people for some time. Without civil service reforms, it is difficult to have a longterm solution.
+256. One of the major challenges for the sector is the ability to retain staff. With the current low civil service salaries, it is difficult to recruit and maintain staff in key competencies, especially in information technology areas. The built-in incentives will keep people for some time. Without civil service reforms, it is difficult to have a long-term solution.
 
-- The introduction of the SLA with the associated bonuses can only be effective if it is rolled out in other Departments of State. If the experience of the SPAS is anything to go by, the chances of rolling out are slim.
+257. The introduction of the SLA with the associated bonuses can only be effective if it is rolled out in other Departments of State. If the experience of the SPAS is anything to go by, the chances of rolling out are slim.
 
-- Special allowances and/or incentives should be created to keep key competencies in IT; otherwise staff will continue to be lost to the private sector after training.
+258. Special allowances and/or incentives should be created to keep key competencies in IT; otherwise staff will continue to be lost to the private sector after training.
 
 98
 
@@ -3399,11 +3431,13 @@ That HR decisions will be made without political interference | Political interf
 
 [[START OF PAGE 99]]
 
+# CHAPTER 5: SUSTAINABILITY
+
 ##### Introduction
 
 1. The sustainability of the strategic plan would be driven by the degree of ownership by key stakeholders, by the capacity of core education institutions especially DOSE, and by Government's continued commitment to education in the national budget.
 
-2. The sustainability of the plan beyond its implementation span, i.e. after 2015, can be considered  through  various  dimensions  and  perspectives.  These  could  be  political, economic and financial,  gender  and  equity-related,  institutional  and  managerial,  sociocultural,  technological  and  environmental  aspects.  Often,  specific  concerns  regarding sustainability  have  more  than  one  dimension.  For  instance,  free  and  compulsory  basic education requires funds, political will and ability  to implement and enforce. Hence, it has political, financial  and  management  aspects.  Sustaining  free  and  compulsory education,  therefore,  requires  political  leadership  at  the  national  and  local  government levels, allocation of funds and the machinery of DOSE and its Regional Directorates.
+2. The sustainability of the plan beyond its implementation span, i.e. after 2015, can be considered through various dimensions and perspectives. These could be political, economic and financial, gender and equity-related, institutional and managerial, socio-cultural, technological and environmental aspects. Often, specific concerns regarding sustainability have more than one dimension. For instance, free and compulsory basic education requires funds, political will and ability to implement and enforce. Hence, it has political, financial and management aspects. Sustaining free and compulsory education, therefore, requires political leadership at the national and local government levels, allocation of funds and the machinery of DOSE and its Regional Directorates.
 
 ##### Political Support
 
@@ -3417,9 +3451,7 @@ That HR decisions will be made without political interference | Political interf
 
 6.  In  discussing  sustainability  issues  linked  to  economic  and  financial  dimensions  the following need to be underscored:
 
-7. First, there are a number of sustainability issues that have a strong political dimension even though they may be primarily financial. These are attributable to basic education and  quality  assurance.  For  example,  while  equalisation  grants  from  Government  will have to address differences in fund-raising ability among LGAs and the involvement of other  local  partners  in  the  development  phase  (decentralisation),  quality  assurance  for
-
-# CHAPTER 5: SUSTAINABILITY
+7. First, there are a number of sustainability issues that have a strong political dimension even though they may be primarily financial. These are attributable to basic education and quality assurance. For example, while equalisation grants from Government will have to address differences in fund-raising ability among LGAs and the involvement of other local partners in the development phase (decentralisation), quality assurance for
 
 99
 
@@ -3435,23 +3467,23 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 - Adequate funding being available for curriculum development and implementation
 
-- Construction,  maintenance  and  rehabilitation  require  both  funding  and  technical capacity at the local levels
+- Construction, maintenance and rehabilitation require both funding and technical capacity at the local levels
 
 - Resources and capacities exist for rolling out a whole school development model.
 
-- Availability  of  sufficient  resources  to  support  the  implementation  of  a  career development plan
-
 - Maintenance of equipment and vehicles including fuel
+
+- Availability of sufficient resources to support the implementation of a career development plan
 
 - Availability of resources to support the scholarship programme
 
-- Adequate funding is available for curriculum development and implementation
+- Involvement of LGAs and civil society, in general, in the provision of scholarships
 
-- Involvement of  LGAs and civil society, in general, in the provision of scholarships
+- Adequate funding is available for curriculum development and implementation
 
 - Motivation and retention of teachers including staff incentive packages
 
-- Those that are specific to one sub-sector embrace:
+9. Those that are specific to one sub-sector embrace:
 
 ###### Secondary Education
 
@@ -3465,9 +3497,9 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 ###### TVET
 
-- Government continues to provide 75% of Levy to the NTA (0.25% of Gross Annual Turnover)
-
 - Financial and teacher resources for UBE pre-TVET courses are available
+
+- Government continues to provide 75% of Levy to the NTA (0.25% of Gross Annual Turnover)
 
 - Cost  recovery  from  test  takers  will  cover  the  costs  of  technical,  vocational  and commercial examinations when they are localised.
 
@@ -3475,19 +3507,21 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 ###### Quality Assurance
 
-- Financial  resources  needed,  as  well  as  technical  assistance,  for  development  and implementation of the educational management programme at the UTG
-
 - Financial resources needed for realising PPM and whole school development
+
+- Financial resources needed, as well as technical assistance, for development and implementation of the educational management programme at the UTG
 
 - Continuous funding for headteachers' management training
 
-10. Total projected investment outlay of the strategic plan comprised of 66% investment and  34%  recurrent  costs.  This  has  implications  on  domestic  recurrent  expenditure allocations to the sector. For instance, committed IDA funding is estimated to constitute about a 15 %t increase on the projected domestic budgetary allocation to the education sector between 2006 and 2010.  After the IDA intervention, to close the financing gap between  2011  and  2015,  the  domestic  resources  allocated  to  the  education  sector  will have to increase to 2.7 % of GDP in 2011, gradually increasing to 3.2 % of GDP in 2015. It  is  important,  however,  not  to  underplay  the  challenge:    although  macroeconomic performance  has  improved,  the  system  is  still  relatively  fragile  and  the  risk  of  underfunding the programme is still present.
+10. Total projected investment outlay of the strategic plan comprised of 66% investment and 34% recurrent costs. This has implications on domestic recurrent expenditure allocations to the sector. For instance, committed IDA funding is estimated to constitute about a 15 % increase on the projected domestic budgetary allocation to the education sector between 2006 and 2010. After the IDA intervention, to close the financing gap between 2011 and 2015, the domestic resources allocated to the education sector will have to increase to 2.7 % of GDP in 2011, gradually increasing to 3.2 % of GDP in 2015. It is important, however, not to underplay the challenge: although macroeconomic performance has improved, the system is still relatively fragile and the risk of underfunding the programme is still present.
 
 100
 
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+
+allocations to the sector. For instance, committed IDA funding is estimated to constitute about a 15 % increase on the projected domestic budgetary allocation to the education sector between 2006 and 2010. After the IDA intervention, to close the financing gap between 2011 and 2015, the domestic resources allocated to the education sector will have to increase to 2.7 % of GDP in 2011, gradually increasing to 3.2 % of GDP in 2015. It is important, however, not to underplay the challenge: although macroeconomic performance has improved, the system is still relatively fragile and the risk of underfunding the programme is still present.
 
 ##### Social, Cultural and Gender Aspects
 
@@ -3531,9 +3565,9 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 - Robust teacher training reform and effective in-service training on a regular basis
 
-- Learning targets are realistic and examinations are based on these targets
-
 - Sensitisation of teachers to cooperate in PPM
+
+- Learning targets are realistic and examinations are based on these targets
 
 - Implementation of M&E strategies.
 
@@ -3541,9 +3575,9 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 - Availability of qualified candidates for admission to tertiary institutions
 
-- Agreement of stakeholders on continued quality of localised TVET examinations.
-
 - LMIS updating bi-annually and continued maintenance, TVET.
+
+- Agreement of stakeholders on continued quality of localised TVET examinations.
 
 ##### Socio-cultural Aspects
 
@@ -3597,23 +3631,23 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 1. There are difficulties in measuring real achievement gains over relatively short periods, the strategic plan aims to look at indicators both of intermediate and long term outcomes, and  of  outputs.  Against  the  overall  strategic  purpose  of  providing  effective,  efficient, relevant and high quality education services to the education sector's clients, the two key indicators to be met are:
 
-- To achieve the Education for All objectives , and
+a) To achieve the Education for All objectives, and
 
-- to achieve the Strategy for Poverty Alleviation III education objectives
+b) to achieve the Strategy for Poverty Alleviation III education objectives
 
-- The master logframe and the programme area logframes of the strategic plan provided details  of  the  specific  indicators  (the  Objectively  Verifiable  Indicators  -  OVIs)  for measuring progress by component area and result area (see attached logframes).
+2. The master logframe and the programme area logframes of the strategic plan provided details of the specific indicators (the Objectively Verifiable Indicators - OVIs) for measuring progress by component area and result area (see attached logframes).
 
 ###### I. Basic Education
 
-- NER will be >80% and the GER 100%
-
 - Creation of additional school places in basic education
+
+- NER will be >80% and the GER 100%
 
 - Completion rate of 100%
 
-- More than 80% of students will achieve the level of competence appropriate to their grade in all the subjects (grade level competence)
-
 - Pupil-teacher ratio (PTR) of 1:45
+
+- More than 80% of students will achieve the level of competence appropriate to their grade in all the subjects (grade level competence)
 
 - 20% of students will achieve mastery level competence in all the subjects;
 
@@ -3623,29 +3657,29 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 - An increase in enrolment in ANFE of 50%
 
-- o Number  of  learners  successfully  completing  300  hours  of  literacy courses.
+- o Number of learners successfully completing 300 hours of literacy courses.
 
 ###### II. Secondary Education
 
-- Full gender parity
-
 - Completion rate of 95%
+
+- Full gender parity
 
 ###### III. Tertiary education
 
-- Gender parity in enrolment and completion across all disciplines
-
 - 10,000 additional teachers produced by 2015
 
-- Certificate,  diploma  and  degree  programmes  will  be  offered  at  the  tertiary institutions
+- Gender parity in enrolment and completion across all disciplines
+
+- Certificate, diploma and degree programmes will be offered at the tertiary institutions
 
 - o University of The Gambia (UTG) accrediting the degree programmes offered at GTTI, MDI and GC.
 
 ###### IV. Technical and Vocational Education and Training
 
-- An approved system of prior learning established, together with a functional National Vocational Qualification Framework
-
 - Labour Market Information System (LMIS) established
+
+- An approved system of prior learning established, together with a functional National Vocational Qualification Framework
 
 - Access at the GTTI increased by 15%
 
@@ -3663,9 +3697,9 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 ###### V. Quality Assurance
 
-- Increased instructional time
-
 - 90% of all students achieving grade competence
+
+- Increased instructional time
 
 - Use of new instructional methods/approaches in class
 
@@ -3673,23 +3707,23 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 ###### VI. Sector Management
 
-- More  than  90%  of  the  education  sector's  objectives  achieved  in  time  and within allocated resources
+- More than 90% of the education sector's objectives achieved in time and within allocated resources
 
 - The level of delivery against SLA, both individual and teams, set at 90%.
 
-- Availability  of  a  rationalised  organisational  structure  based  on  functional analyses and clearly identified roles and responsibilities
+- Availability of a rationalised organisational structure based on functional analyses and clearly identified roles and responsibilities
 
 - Participation of senior management in workflow analysis
 
-- Implementation of a personnel performance monitoring system and incentive framework in all the regional and central directorates
-
 - Availability of equipment to improve staff working conditions
+
+- Implementation of a personnel performance monitoring system and incentive framework in all the regional and central directorates
 
 - Number of managers and their support staff trained in workflow management;
 
-- Design and implementation of learning assessment tools
-
 - A designed career development ladder for all the key personnel
+
+- Design and implementation of learning assessment tools
 
 - Availability of validated data for each year, available by June of the following year for every year
 
@@ -3701,9 +3735,9 @@ basic  education  necessitates  the  provision  of  staff  accommodation,  insti
 
 - Monitor progress and achievement
 
-- Coordinate the inputs from external partners and the use of external financing
-
 - Oversee the implementation of programme/activities
+
+- Coordinate the inputs from external partners and the use of external financing
 
 - Identify financing gaps in programmes and implementation
 
