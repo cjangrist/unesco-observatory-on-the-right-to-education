@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-Strategic Goals
-
 Final D r a f t
 
 # TONGA EDUCATION POLICY FRAMEWORK
 
 2004 - 2019
+
+Strategic Goals
 
 Goal 1: To improve equitable access to and quality of universal basic education for all children in Tonga up to Year 8 (Form 2).
 
@@ -20,19 +20,23 @@ Goal 3. To improve the administration of education and training so that the qual
 
 [[START OF PAGE 2]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # Document Details
 
-Prepared By:
+Prepared By: Vince Catherwood, Education Management Consultant, &
+Victor Levine, Education Economics Consultant &
+Ministry of Education Planning Group.
 
-Vince Catherwood, Education Management Consultant, & Victor Levine, Education Economics Consultant & Ministry of Education Planning Group. 05 Ministry of Education, Government of Tonga
+Document No.: 05
 
-Document No.:
+For: Ministry of Education, Government of Tonga
 
-For:
+This document contains 109 pages
 
-This document contains 109  pages Version 05     Revised 5/17/2004 7:22 PM Document No. 05 Education Policy Framework.doc
+Version 05 Revised 5/17/2004 7:22 PM
+Document No. 05
+Education Policy Framework.doc
 
 Tonga Ministry of Education
 
@@ -42,7 +46,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 3]]
 
-'Ko e hakau 'o e 'aho ni, ko e fonua ia 'o e 'apongipongi'
+“Ko e hakau ‘o e ‘aho ni, ko e fonua ia ‘o e ‘apongipongi”
 
 (The reefs of today will be the islands of tomorrow)
 
@@ -50,11 +54,56 @@ Tonga Ministry of Education
 
 [[START OF PAGE 4]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # Table of Contents
 
-.................................................................................................................................... 107
+Opening Statement.........................................................................................................5
+1. Introduction............................................................................................................7
+The Education Sector in Tonga..................................................................................7
+Background to Present Developments.......................................................................7
+Purpose of the Education Policy Framework...........................................................10
+Scope & Design of the Education Policy Framework and its Relationship to Other
+Planning Documents ................................................................................................10
+2. Vision...................................................................................................................13
+Achieving the Vision ...........................................................................................13
+3. Mission Statement................................................................................................15
+4. Values ..................................................................................................................16
+Personal Values........................................................................................................16
+Philosophical Values................................................................................................17
+5. Policy Statement ..................................................................................................19
+6. Goals ....................................................................................................................20
+7. Principles..............................................................................................................21
+8. Policy Areas, Government Responses, and Expected Policy Outcomes .............22
+Policy Development, Planning and Monitoring...................................................22
+Universal Basic Education to Year 8 (Form 2);...................................................25
+Education After Year 8 (After Form 2); ..............................................................30
+Early Childhood Education..................................................................................32
+Special Education.................................................................................................34
+Language Policy...................................................................................................36
+Curriculum ...........................................................................................................40
+Assessment...........................................................................................................43
+Teacher Supply ....................................................................................................46
+Teacher Quality....................................................................................................48
+Skill Development and Lifelong Learning ..........................................................52
+Reorganisation of Tertiary Education..................................................................56
+Management and Control of Education ...............................................................59
+Efficiency.............................................................................................................65
+Sport.....................................................................................................................69
+Information and Communications Technology ...................................................71
+Financing Options and Financial Sustainability ..................................................74
+9. Strategies..............................................................................................................78
+10. Monitoring. ......................................................................................................82
+11. Budget..............................................................................................................83
+Major Cost Drivers and Assumptions......................................................................83
+Fifteen-Year Cost Estimates ....................................................................................89
+12. Resource Projections........................................................................................92
+Assumptions.............................................................................................................92
+Sustainability Analysis.............................................................................................98
+13. Appendix 1: Policy Advice & Policy Development ......................................102
+Appendix 2: Possible Approaches to Financing ........................................................104
+Appendix 3: Estimated 15 Year Costs By Program, By Sub-Program, & By Activity
+....................................................................................................................................107
 
 Tonga Ministry of Education
 
@@ -64,21 +113,21 @@ Tonga Ministry of Education
 
 [[START OF PAGE 5]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # Opening Statement
 
-The Government of Tonga, through the Ministry of Education, has been working for a period of over two years to develop this Education Policy Framework 2004-2019 . The initial impetus for this work was derived from two principal sources.
+The Government of Tonga, through the Ministry of Education, has been working for a period of over two years to develop this Education Policy Framework 2004-2019. The initial impetus for this work was derived from two principal sources.
 
-The  production  of Strategic  Development  Plan  7  (2001-2004) in  July  2001  was  a major  milestone  for  Tonga,  as  it  adopted  a  new  approach  to  economic  and  social development  planning.  The  three  key  themes  of  this  overarching  plan  for  Tonga's development  (Restructuring  for  Higher  Sustainable  Economic  Growth,  Ensuring Financial  Stability,  and  Investing  in  People)    focused  centrally  on  the  role  of  the education sector in promoting the country's growth. It was recognised, however, that a  more  detailed  planning  blueprint  was  needed  in  order  to  deliver  the  education outcomes that were being sought for Tonga.
+The production of Strategic Development Plan 7 (2001-2004) in July 2001 was a major milestone for Tonga, as it adopted a new approach to economic and social development planning. The three key themes of this overarching plan for Tonga’s development (Restructuring for Higher Sustainable Economic Growth, Ensuring Financial Stability, and Investing in People) focused centrally on the role of the education sector in promoting the country’s growth. It was recognised, however, that a more detailed planning blueprint was needed in order to deliver the education outcomes that were being sought for Tonga.
 
-The  comprehensive  review  of  the  education  sector  that  culminated  in  the Final Report: Tonga Education Sector Study (March 2003) was a further catalyst for action. The 28 recommendations of this review were formally adopted by the Government of Tonga in April 2003. At the same time,  the Government sought additional assistance from  the  New  Zealand  Agency  for  International  Development  (NZAID)  and  the World Bank in order to analyse and synthesise the findings from the Education Sector Study,  and  to  facilitate  the  development  of  policy  options  and  broadly  costed alternatives   for  discussion  by  stakeholders  invited  by  the  Government  of  Tonga  to take part in a consultative process. Following these discussions, the Government of Tonga wished to make  decisions on the most appropriate Education Policy Framework  for  the  country,  and  facilitate  the  development  of  a  Strategic  Plan  for implementing this framework.
+The comprehensive review of the education sector that culminated in the Final Report: Tonga Education Sector Study (March 2003) was a further catalyst for action. The 28 recommendations of this review were formally adopted by the Government of Tonga in April 2003. At the same time, the Government sought additional assistance from the New Zealand Agency for International Development (NZAID) and the World Bank in order to analyse and synthesise the findings from the Education Sector Study, and to facilitate the development of policy options and broadly costed alternatives for discussion by stakeholders invited by the Government of Tonga to take part in a consultative process. Following these discussions, the Government of Tonga wished to make decisions on the most appropriate Education Policy Framework for the country, and facilitate the development of a Strategic Plan for implementing this framework.
 
-This  document  is  the  result.  It  has  arisen  from  a  further  comprehensive  process  of consultation that has seen a discussion booklet ( Education Issues and Policy Options in  Tonga (September 2003) circulated  throughout Tonga, responses analysed, and a draft Education  Policy  Options  Paper  (November  2003) circulated  for  subsequent comment  and  feedback  from  stakeholders.  The  feedback  received  has  now  been incorporated in this publication.
+This document is the result. It has arisen from a further comprehensive process of consultation that has seen a discussion booklet (Education Issues and Policy Options in Tonga (September 2003) circulated throughout Tonga, responses analysed, and a draft Education Policy Options Paper (November 2003) circulated for subsequent comment and feedback from stakeholders. The feedback received has now been incorporated in this publication.
 
-The Education  Policy  Framework  2004-2019 provides  Tonga  with  a  vision  and  a broad outline strategy for the development of our education system over the medium to longer term (a period of approximately 15 years). It gives guidance for the future development of the country's education sector, and is the foundation document of two other linked and closely related education planning documents.
+The Education Policy Framework 2004-2019 provides Tonga with a vision and a broad outline strategy for the development of our education system over the medium to longer term (a period of approximately 15 years). It gives guidance for the future development of the country’s education sector, and is the foundation document of two other linked and closely related education planning documents.
 
-The first three years of this framework has been further developed in the Ministry of Education's Corporate  Plan  2004-2007 which  has  been  designed  according  to  the guidelines  set  out  by  the  Public  Service  Commission  as  part  of  the  Tonga  Public Service Reform activities. The design of the Corporate Plan 2004-2007 is also linked to  the  structure  of  the  Budget,  and  thus  focuses  on  the  6  broad  Programs  in  the Education  Budget.  These  six  Programs  in  turn  are  further  subdivided  into  SubPrograms, then Activities and finally Sub-Activities.
+The first three years of this framework has been further developed in the Ministry of Education’s Corporate Plan 2004-2007 which has been designed according to the guidelines set out by the Public Service Commission as part of the Tonga Public Service Reform activities. The design of the Corporate Plan 2004-2007 is also linked to the structure of the Budget, and thus focuses on the 6 broad Programs in the Education Budget. These six Programs in turn are further subdivided into Sub–Programs, then Activities and finally Sub-Activities.
 
 Tonga Ministry of Education
 
@@ -88,17 +137,18 @@ Tonga Ministry of Education
 
 [[START OF PAGE 6]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-Similarly, the first year of the three-year Corporate Plan 2004-2007 is the basis of the Ministry of Education's Annual Management Plan (2004-2005). This latter document is the foundation of Tonga's Annual Budget for the education sector.
+Similarly, the first year of the three-year Corporate Plan 2004-2007 is the basis of the Ministry of Education’s Annual Management Plan (2004-2005). This latter document is the foundation of Tonga’s Annual Budget for the education sector.
 
-The purpose of developing this Education Policy Framework 2004-2019 is to provide a  coherent and carefully thought out design according to which the education sector can  be  developed  over  time.  It  provides  a  conceptual  and  policy  framework  which allows  the  Government  to  discuss  its  future  policy  directions  and  investments  with stakeholders, both inside and  outside Tonga.  It identifies priorities for future investment and for further capacity development of the Ministry of Education.
+The purpose of developing this Education Policy Framework 2004-2019 is to provide a coherent and carefully thought out design according to which the education sector can be developed over time. It provides a conceptual and policy framework which allows the Government to discuss its future policy directions and investments with stakeholders, both inside and outside Tonga. It identifies priorities for future investment and for further capacity development of the Ministry of Education.
 
-A key set of education stakeholders is the donor community which provides tangible help  to  Tonga  to  assist  in  the  country's  development.  We  trust  that  this Education Policy  Framework  2004-2019 will  assist  donors  in  understanding  and  appreciating Tonga's long-term vision for its education system, and that it will provide a context in which  sector  priorities  can  be  considered  within  macro  economic  constraints.  Our objective is to integrate all development spending (by the Government of Tonga and by funding agencies) within a coherent and integrated approach, according to a well documented plan, so that investments in education can be planned wisely.
+A key set of education stakeholders is the donor community which provides tangible help to Tonga to assist in the country’s development. We trust that this Education Policy Framework 2004-2019 will assist donors in understanding and appreciating Tonga’s long-term vision for its education system, and that it will provide a context in which sector priorities can be considered within macro economic constraints. Our objective is to integrate all development spending (by the Government of Tonga and by funding agencies) within a coherent and integrated approach, according to a well documented plan, so that investments in education can be planned wisely.
 
-An integrated approach based on this Education Policy Framework 2004-2019 will, I believe, benefit both children and adults in Tonga, and will support the development of our most precious resource: 'our people.'
+An integrated approach based on this Education Policy Framework 2004-2019 will, I believe, benefit both children and adults in Tonga, and will support the development of our most precious resource: “our people.”
 
-Hon. Paula S. Bloomfield, INTERIM MINISTER OF EDUCATION.
+Hon. Paula S. Bloomfield,
+INTERIM MINISTER OF EDUCATION.
 
 Tonga Ministry of Education
 
@@ -108,13 +158,13 @@ Tonga Ministry of Education
 
 [[START OF PAGE 7]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 1. Introduction
 
 ## The Education Sector in Tonga
 
-- 1.1 The  Kingdom  of  Tonga  has  an  excellent  education  system  that  has  a  longstanding  tradition  of  providing  virtually  universal  access  to  six  years  of compulsory, free primary education.  Tongans are justifiably proud of the high quality  of  the  education  system  and  the  dedication  of  teachers  and  other educators.  Tonga is also proud of its relatively high adult literacy rates, at least comparatively within the Pacific.
+- 1.1 The Kingdom of Tonga has an excellent education system that has a long-standing tradition of providing virtually universal access to six years of compulsory, free primary education. Tongans are justifiably proud of the high quality of the education system and the dedication of teachers and other educators. Tonga is also proud of its relatively high adult literacy rates, at least comparatively within the Pacific.
 
 - 1.2 Education in Tonga is compulsory and free for all children between the ages of 6 and 14, until a child has completed 6 years of primary education. The formal primary  education  system  comprises  118  schools  (107  Government  and  11 Church  schools),  with  17,051  students  enrolled  in  2002  (53%  male,  47% female) and a teaching force of 823.
 
@@ -126,7 +176,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ## Background to Present Developments
 
-- 1.5 The Ministry of Education (MOE) has undertaken a broad consultative process to align the education sector with the demands of the 21 st century and to meet the  objectives  of    SDP7  and  the  NPRS.  In  2002,  the  Ministry  of  Education commissioned a comprehensive Tonga Education Sector Study , funded by the New Zealand Agency for International Development (NZAID) . The international consultancy team responsible completed its task and duly sought critical  feedback  from  the  Government  of  Tonga  and  from  NZAID.  A  final version of the Report was produced in March 2003, with an accompanying draft Strategic  Plan  for  Education  2003-2013. The Final  Report:  Tonga  Education Sector Study was circulated within Government, and among interested funding agencies (including the World Bank, AusAID, the European Union and JICA) in April 2003.
+- 1.5 The Ministry of Education (MOE) has undertaken a broad consultative process to align the education sector with the demands of the 21st century and to meet the objectives of SDP7 and the NPRS. In 2002, the Ministry of Education commissioned a comprehensive Tonga Education Sector Study, funded by the New Zealand Agency for International Development (NZAID). The international consultancy team responsible completed its task and duly sought critical feedback from the Government of Tonga and from NZAID. A final version of the Report was produced in March 2003, with an accompanying draft Strategic Plan for Education 2003-2013. The Final Report: Tonga Education Sector Study was circulated within Government, and among interested funding agencies (including the World Bank, AusAID, the European Union and JICA) in April 2003.
 
 - 1.6 The consultant team recommended the following major reforms:
 
@@ -142,7 +192,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 8]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 - Increased government involvement in pre-school education;
 
@@ -178,7 +228,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 9]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 implement this framework. As part of this process, the objective is to strengthen the  capacity  of  the  Ministry  of  Education  and  others  involved  in  respect  of policy development, strategic planning and donor co-ordination.
 
@@ -188,13 +238,13 @@ implement this framework. As part of this process, the objective is to strengthe
 
 - 1.13 In  mid  February  2004,  the  Ministry  of  Education  presented  the Education Policy Options Paper to development partners at a seminar in Wellington, New Zealand.    The  principles  and  approach  proposed  in  the Education  Policy Options Paper were strongly endorsed by development partners.  The Ministry of Education was encouraged to continue development of the Education Policy Framework ,  incorporating  the  ideas  outlined  in  the Education Policy  Options Paper ,  with  emphasis  on  a  number  of  agreed  principles.  These  principles, summarised  in  the  following  paragraphs,    were  adopted  in  a  formal  Aide Memoire recording the outcome of the seminar.
 
-- 1.14 First,  those  development  partners  present  would  move  as  quickly  as  possible towards providing budgetary support to Tonga's education sector.  The medium to long-term objective is to harmonise most external assistance in the form of budget support which would support both development and recurrent expenditure.  The  Ministry  of  Education  was  invited  to  propose  institutional arrangements for a Budget Supplementation Fund, which might be functional in providing limited support to the Financial Year (FY) 2004/05 budget.
+- 1.14 First, those development partners present would move as quickly as possible towards providing budgetary support to Tonga’s education sector. The medium to long-term objective is to harmonise most external assistance in the form of budget support which would support both development and recurrent expenditure. The Ministry of Education was invited to propose institutional arrangements for a Budget Supplementation Fund, which might be functional in providing limited support to the Financial Year (FY) 2004/05 budget.
 
 - 1.15 Second,  the  preferred  means  of  implementation  of  all  new  investments  and programmes  would  be  direct  Ministry  of  Education  management,  using  the regular financing, procurement and auditing procedures of the Government of Tonga.    Alternative  or  parallel  institutional  structures  (such  as  a  service contractor or project implementation unit) would be avoided if possible.
 
 - 1.16 Third, as an interim financing mechanism, major development partners would move toward the co-financing of a common Education Development Fund, and would co-ordinate appraisal, reporting, review and related activities to minimise the burden on the Ministry of Education.
 
-- 1.17 Fourth, both budgetary (the Budget Supplementation Fund) and project (Education  Development  Fund)  external  support  would  conform  to  and  be reflected in the existing structure of the Ministry of Education budget, the threeyear Ministry of Education Corporate Plan, and its Annual Management Plan.
+- 1.17 Fourth, both budgetary (the Budget Supplementation Fund) and project (Education Development Fund) external support would conform to and be reflected in the existing structure of the Ministry of Education budget, the three-year Ministry of Education Corporate Plan, and its Annual Management Plan.
 
 - 1.18 Fifth, the Government of Tonga undertook to host an education conference in May/June 2004, at which time a strategy for moving forward with co-ordinated assistance would be agreed.  The Ministry of Education will advise participating organisations  of  areas  in  which  it  would  like  professional  advice  regarding
 
@@ -206,9 +256,9 @@ Tonga Ministry of Education
 
 [[START OF PAGE 10]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-- policy options, and the required expertise will be reflected in the composition of the delegation attending the conference.
+policy options, and the required expertise will be reflected in the composition of the delegation attending the conference.
 
 - 1.19 As  a  result  of  decisions  agreed  at  the  Wellington  Seminar,  the  Ministry  of Education  will  be  structuring  its  FY  2004/05  budget  submission,  and  its Corporate Plan to reflect its priorities and the anticipated external support.
 
@@ -218,9 +268,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 1.21 The purpose of developing this Education Policy Framework for Tonga includes the intention to:
 
-- set guidelines and provide a framework and a context for the future development of Tonga's education sector;
+- set guidelines and provide a framework and a context for the future development of Tonga’s education sector;
 
-- strengthen the Ministry of Education's management of the education sector;
+- strengthen the Ministry of Education’s management of the education sector;
 
 - help the Ministry of Education assess whether the key strategic policy directions identified  for  the  improvement  of  education  in  Tonga  are  appropriate  and comprehensive;
 
@@ -246,17 +296,17 @@ Tonga Ministry of Education
 
 [[START OF PAGE 11]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-- 1.26 In order to develop a preliminary sense of the likely cost, financial implications, and long-term financial sustainability of the Education Policy Framework ,  the Ministry  of  Education  has  developed  a  set  of  simulation  tools  to  estimate 'indicative' cost and resource implications of various combinations of intervention  options.    A  set  of  estimates,  using  'high'  and  'low'  cost  and resource  assumptions  is  presented  in  Chapter  12  ('Resource  Projections')  of this document.
+- 1.26 In order to develop a preliminary sense of the likely cost, financial implications, and long-term financial sustainability of the Education Policy Framework, the Ministry of Education has developed a set of simulation tools to estimate “indicative” cost and resource implications of various combinations of intervention options. A set of estimates, using “high” and “low” cost and resource assumptions is presented in Chapter 12 (“Resource Projections”) of this document.
 
-- 1.27 It  should be stressed that the indicative figures presented in this document do not reflect a 'commitment' by the Government of Tonga to a specific approach or modality of implementation.  Rather, these indicative figures are intended to examine  whether,  in  principle,  the  proposed  agenda  of  reforms  will be financially sustainable, in the long run.  For example, in the case of Universal Basic  Education  (UBE)  for  Forms  1  &  2,  the  cost/resource  simulation  uses figures  are  based  on  assumptions  about  increasing  grant  support  to  NonGovernment providers, and associated efficiency improvements.  The estimates based on this policy option provide a basis for developing a reasonable set of assumptions in order to examine costs.  In practice, based on careful analysis of alternatives, and further policy development, the Government may decide on a combination  of  policy  options,  such  as  increased  provision  of  form  1  and  2 places  at  primary  schools,  construction  of  new  (middle)  schools,  and/or  grant support to Non-Government providers
+- 1.27 It should be stressed that the indicative figures presented in this document do not reflect a “commitment” by the Government of Tonga to a specific approach or modality of implementation. Rather, these indicative figures are intended to examine whether, in principle, the proposed agenda of reforms will be financially sustainable, in the long run. For example, in the case of Universal Basic Education (UBE) for Forms 1 & 2, the cost/resource simulation uses figures are based on assumptions about increasing grant support to Non-Government providers, and associated efficiency improvements. The estimates based on this policy option provide a basis for developing a reasonable set of assumptions in order to examine costs. In practice, based on careful analysis of alternatives, and further policy development, the Government may decide on a combination of policy options, such as increased provision of form 1 and 2 places at primary schools, construction of new (middle) schools, and/or grant support to Non-Government providers
 
-- 1.28 The  first  phase  of  the  15  year  plan  focuses  on transition and  the capacity building required for Tonga to achieve its long-term objectives. That programme  of  transition  and  capacity  building  is  reflected  in  the  other  two related documents that are derived from this framework document: the Ministry of  Education  Corporate  Plan  20042007  and  its Annual  Management  Plan 2004-2005 .
+- 1.28 The first phase of the 15 year plan focuses on transition and the capacity building required for Tonga to achieve its long-term objectives. That programme of transition and capacity building is reflected in the other two related documents that are derived from this framework document: the Ministry of Education Corporate Plan 2004-2007 and its Annual Management Plan 2004-2005.
 
-- 1.29 The  scope  of  this Education  Policy  Framework is  broad.  It  encompasses  all education sectors (early childhood education,  the compulsory primary schools sector  and  the  secondary  schools  sector,  as  well  as  post-secondary  and  nonformal  education.  It  goes  beyond  the  formal  education  system  to  include  all aspects of human resource development in Tonga, including strengthening the links  between  the  outcomes  of  the  formal  education  sector  and  the  training needs of the labour force. In that sense, everyone in Tonga has a stake in the future of education (including employers, parents, students, teachers, Ministry of  Education personnel, people in non-government education institutions such as  the  Mission  Schools,  other  workers  in  the  Government  and  the  private sectors, and members of the community). Education is not the sole responsibility of the Ministry of Education: everyone in Tonga is and must be involved.
+- 1.29 The scope of this Education Policy Framework is broad. It encompasses all education sectors (early childhood education, the compulsory primary schools sector and the secondary schools sector, as well as post-secondary and non-formal education. It goes beyond the formal education system to include all aspects of human resource development in Tonga, including strengthening the links between the outcomes of the formal education sector and the training needs of the labour force. In that sense, everyone in Tonga has a stake in the future of education (including employers, parents, students, teachers, Ministry of Education personnel, people in non-government education institutions such as the Mission Schools, other workers in the Government and the private sectors, and members of the community). Education is not the sole responsibility of the Ministry of Education: everyone in Tonga is and must be involved.
 
-## Problems Affecting the Education Sector's Development
+## Problems Affecting the Education Sector’s Development
 
 - 1.30 The Education Policy Framework was developed in the context of an extensive review and analysis of the education sector, and broad-based consultation with stakeholders. The Education  Policy  Framework is designed to address efficiently and effectively a range of issues and problems identified during this two year process.  We therefore encourage readers of this document, who are not  familiar  with  the  outputs  of  these  earlier  processes,  to  refer  to  the Tonga
 
@@ -268,7 +318,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 12]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 Education  Sector  Study (TESS)  of  March  2003  and  the Education  Policy Options  Paper (EPOP)  of  November  2003.  The  Ministry  of  Education  is arranging  to  make  these  (and  other  related)  documents  available  to  interested stakeholders on a Government of Tonga web site. These documents include an analysis of some problems facing the education sector in Tonga, and, in order to avoid  repetition,  are  not  repeated  in  this  document.  The  proposed  policy solutions  outlined  in  this Education  Policy  Framework have  been  designed, however,  to deal with the problems that have been  identified.
 
@@ -280,17 +330,17 @@ Tonga Ministry of Education
 
 [[START OF PAGE 13]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 2. Vision
 
-- 2.1 Education is the most valuable asset a person can possess. A well-informed and educated  people  is  fundamental  to  our  society's  well-being.  It  is  through education that individuals can achieve fulfilment, attain their goals, and improve their standard of living. Education in Tonga should encourage people to think for themselves  and  to  contribute  to  their  society.  It  should  help  us  find  the  right balance between the needs of the individual, the transmission of Tongan culture, and meeting the development needs of Tongan society.
+- 2.1 Education is the most valuable asset a person can possess. A well-informed and educated people is fundamental to our society’s well-being. It is through education that individuals can achieve fulfilment, attain their goals, and improve their standard of living. Education in Tonga should encourage people to think for themselves and to contribute to their society. It should help us find the right balance between the needs of the individual, the transmission of Tongan culture, and meeting the development needs of Tongan society.
 
-- 2.2 Our vision for education in Tonga is that the people of Tonga will achieve an excellence  in  education  that  is  unique  to  this  country,    and  that  Tonga  will become a learning society. .
+- 2.2 Our vision for education in Tonga is that the people of Tonga will achieve an excellence in education that is unique to this country, and that Tonga will become a learning society. .
 
-- 2.3 Educational  institutions,  irrespective  of  ownership,  will  have  the  incentive  and opportunity to become more efficient through increased capacity and responsibility for managing resources.  The education system will progress to a 'level playing field' in which Government (and other stakeholders) will finance 'outputs'  and  'outcomes,'  rather  than  inputs.  The  MOE  will  move  rapidly  to implementing the principles of program budgeting.
+- 2.3 Educational institutions, irrespective of ownership, will have the incentive and opportunity to become more efficient through increased capacity and responsibility for managing resources. The education system will progress to a “level playing field” in which Government (and other stakeholders) will finance “outputs” and “outcomes,” rather than inputs. The MOE will move rapidly to implementing the principles of program budgeting.
 
-- 2.4 The  'transformed'  education  sector  will  be  flexible  and  capable  of  quickly responding  to  the  needs  of  the  economy  and  of  a  quickly  changing  global environment.  The system will be capable of responding to 'market signals' and will move from a 'supply-driven' to a 'demand-driven' basis.
+- 2.4 The “transformed” education sector will be flexible and capable of quickly responding to the needs of the economy and of a quickly changing global environment. The system will be capable of responding to “market signals” and will move from a “supply-driven” to a “demand-driven” basis.
 
 ## Achieving the Vision
 
@@ -310,11 +360,11 @@ Tonga Ministry of Education
 
 [[START OF PAGE 14]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 - 2.9 We envision  a  future  Ministry  of  Education  that  puts  the  learning  of  children first.  We  will  have  the  trust  of  parents,  the  confidence  of  employers,  and  the respect  of  our  colleagues  in  government.  We  will  be  recognised  for  the achievement of our children, for the efficacy of our policy advice, and we will be looked  up  to  as  a  leader  in  educational  thinking  and  achievement  both  in  the Pacific and in the wider world beyond.
 
-- 2.10 .  Access to public support for education will be allocated on an equitable basis, and  no  child's prospects for receiving support for secondary, tertiary or vocational training will be determined primarily by his or her gender, place of birth, or family socio-economic status.
+- 2.10 . Access to public support for education will be allocated on an equitable basis, and no child’s prospects for receiving support for secondary, tertiary or vocational training will be determined primarily by his or her gender, place of birth, or family socio-economic status.
 
 - 2.11 We want nothing short of a world class education system.
 
@@ -326,13 +376,13 @@ Tonga Ministry of Education
 
 [[START OF PAGE 15]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 3. Mission Statement
 
 - 3.1 The mission of the Ministry of Education is as follows:
 
-'TO PROVIDE AND SUSTAIN LIFELONG RELEVANT AND QUALITY EDUCATION FOR THE DEVELOPMENT OF  TONGA, AND HER PEOPLE.'
+“TO PROVIDE AND SUSTAIN LIFELONG RELEVANT AND QUALITY EDUCATION FOR THE DEVELOPMENT OF TONGA, AND HER PEOPLE.”
 
 Tonga Ministry of Education
 
@@ -342,21 +392,21 @@ Tonga Ministry of Education
 
 [[START OF PAGE 16]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 4. Values
 
-- 4.1 The way the Ministry of Education operates, the perspectives it introduces, and the  way  the  people  in  the  education  system  relate  to  each  other  and  to  those outside the system all impact upon effectiveness, efficiency and the quality of the education work environment. These factors also influence the Ministry's ability to maintain a broader perspective and to develop as an organisation.
+- 4.1 The way the Ministry of Education operates, the perspectives it introduces, and the way the people in the education system relate to each other and to those outside the system all impact upon effectiveness, efficiency and the quality of the education work environment. These factors also influence the Ministry’s ability to maintain a broader perspective and to develop as an organisation.
 
 ## Personal Values
 
 - 4.2 The  following  personal  values  and  principles  underpin  this Education  Policy Framework . All those involved in education in Tonga are encouraged to embrace them.
 
-- 4.3 Be purposeful. See the bigger picture .  The vision, goals and aims of education need to be understood and subscribed to by all the workers in education, and by the community at large.  The outcomes of education need to be seen as relevant and  useful  to  each  individual's  own  personal  goals  and  aspirations.  People  in education  need  to  think  strategically  and  look  for  linkages,  by  recognising  that work in one area might inform or be informed by other areas.
+- 4.3 Be purposeful. See the bigger picture. The vision, goals and aims of education need to be understood and subscribed to by all the workers in education, and by the community at large. The outcomes of education need to be seen as relevant and useful to each individual’s own personal goals and aspirations. People in education need to think strategically and look for linkages, by recognising that work in one area might inform or be informed by other areas.
 
 - 4.4 Focus  on  achievement.  Seek  innovation  and  excellence. The  community  at large  needs  to  be  satisfied  that  the  goals  and  objectives  of  education  have  been successfully  achieved.  People  in  education  should  seek  to  meet  the  highest standards possible in everything they do.  Teachers  and Ministry  officers  should encourage new and innovative ways of doing things, both inside and outside the Ministry of Education.
 
-- 4.5 Support, help and care for each other . The people working in education should respect and support each other in order to achieve the aims and goals of education, by  providing  learners  with  all  necessary  resources  and  equipment,  and  by committing  themselves  selflessly  to  achieving  the  goals  in  a  secure,  clean  and attractive  environment.  Qualities  such  as  charity,  understanding,  consideration, selflessness, humility and justice will be valued.
+- 4.5 Support, help and care for each other. The people working in education should respect and support each other in order to achieve the aims and goals of education, by providing learners with all necessary resources and equipment, and by committing themselves selflessly to achieving the goals in a secure, clean and attractive environment. Qualities such as charity, understanding, consideration, selflessness, humility and justice will be valued.
 
 - 4.6 Seek  fulfilment.  Ask  questions.  Bring  solutions. Every  person  involved  in education will feel that his or her contributions are worthwhile, appreciated and acknowledged. People in education should be encouraged to question, challenge and take responsibility. The people working in education need to question whether they are doing the right things, as well as whether they are doing them correctly. Value those who work with others to find solutions, not problems.
 
@@ -370,11 +420,11 @@ Tonga Ministry of Education
 
 [[START OF PAGE 17]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 freedom of expression, or freedom of worship) should be supported for all staff and students.
 
-- 4.8 Develop a healthy mind in a healthy body .  Education should foster all aspects of growth and development: intellectual, social, emotional, spiritual and physical. As  part  of  developing  the  whole  person,  it  should  seek  to  improve  fitness  and health through physical education and sport.
+- 4.8 Develop a healthy mind in a healthy body. Education should foster all aspects of growth and development: intellectual, social, emotional, spiritual and physical. As part of developing the whole person, it should seek to improve fitness and health through physical education and sport.
 
 ## Philosophical Values
 
@@ -382,13 +432,13 @@ freedom of expression, or freedom of worship) should be supported for all staff 
 
 - 4.10 Focus on the individual learner. The essence of education is the development  of  the  individual  to  realise  his  or  her  potential  as  a  human  being, living  a  self-fulfilling  life  and  as  a  worthy  member  of  Tongan  society  and  the wider world.
 
-- 4.11 Strengthen moral and cultural values .  Education should seek to strengthen and  develop  the  moral  and  cultural  values  that  underpin  Tongan  society.  These values include dimensions such as tauhivaha'a (caring), mamahi'me'a (responsibility), faka'apa'apa (respect), and lotot ō (humility). There are generally agreed  moral  and  social  values  such  as  concern  for  others,  honesty,  justice  and personal integrity that the education system should seek to foster.
+- 4.11 Strengthen moral and cultural values. Education should seek to strengthen and develop the moral and cultural values that underpin Tongan society. These values include dimensions such as tauhivaha’a (caring), mamahi’me’a (responsibility), faka’apa’apa (respect), and lototō (humility). There are generally agreed moral and social values such as concern for others, honesty, justice and personal integrity that the education system should seek to foster.
 
 - 4.12 Acknowledge the primacy of parents in education .  Education  is  a  shared function in which the parents and the family play a vital role in caring, nurturing and providing for the emotional, social and physical welfare of the individual as he/she grows and develops from infancy to adulthood.
 
-- 4.13 Acknowledge Government's role in supporting education .  Education  is  a basic social service that must be accessible to all members of Tongan society as their  God-given  right.  Education  is  the  cornerstone  of  all  aspects  of  national development. The Government acknowledges that Tonga is fast becoming part of a global village, and education needs to develop the skills of Tonga's people so that  they  can  participate  in  the  wider  world  and  return  benefits  to  the  country. Nevertheless, the Government must always prioritise its investment in education, since Tonga is a small island nation with very limited resources.
+- 4.13 Acknowledge Government’s role in supporting education. Education is a basic social service that must be accessible to all members of Tongan society as their God-given right. Education is the cornerstone of all aspects of national development. The Government acknowledges that Tonga is fast becoming part of a global village, and education needs to develop the skills of Tonga’s people so that they can participate in the wider world and return benefits to the country. Nevertheless, the Government must always prioritise its investment in education, since Tonga is a small island nation with very limited resources.
 
-- 4.14 Support staff and employees in education . The people working in education need to see their role as contributing to the development of the nation as a whole. The Government, through the Ministry of Education, should support its workers (at  all  institutions,  both  Government  and  Non-Government)  to  ensure  that  the standard of education in Tonga is high, and that its quality is excellent. This goal can  be  achieved  by  recognising  competent  performance,  and  by  providing  just rewards and incentives for achieving objectives, as well as by providing appropriate resources and support services. Workers themselves have responsibilities  too:  they  need  to  develop  effective  leadership,  to  create  positive working environments, and to ensure communication is clear and efficient.
+- 4.14 Support staff and employees in education. The people working in education need to see their role as contributing to the development of the nation as a whole. The Government, through the Ministry of Education, should support its workers (at all institutions, both Government and Non-Government) to ensure that the standard of education in Tonga is high, and that its quality is excellent. This goal can be achieved by recognising competent performance, and by providing just rewards and incentives for achieving objectives, as well as by providing appropriate resources and support services. Workers themselves have responsibilities too: they need to develop effective leadership, to create positive working environments, and to ensure communication is clear and efficient.
 
 Tonga Ministry of Education
 
@@ -398,9 +448,9 @@ Tonga Ministry of Education
 
 [[START OF PAGE 18]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-- 4.15 Value the contribution of communities, Non Government Organisations, and Churches .  Communities, Non-Government Organisations and Churches all play  an  important  role  in  education  through  enhancing  the  spiritual,  social, cultural,  political  and  economic  welfare  of  the  country.  As  a  social  service, education should be people-centred, focusing on the development of the quality of life for the people of Tonga. This approach applies both in a national and a global context.
+- 4.15 Value the contribution of communities, Non Government Organisations, and Churches. Communities, Non-Government Organisations and Churches all play an important role in education through enhancing the spiritual, social, cultural, political and economic welfare of the country. As a social service, education should be people-centred, focusing on the development of the quality of life for the people of Tonga. This approach applies both in a national and a global context.
 
 - 4.16 Acknowledge the contribution of international agencies. It is now a global concern that education should be available for all. Tonga does not act alone in the provision  and  resourcing  of  education  for  its  people.  Due  consideration  must therefore be given to the part played by international agencies in the development of education in Tonga.
 
@@ -412,7 +462,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 19]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 5. Policy Statement
 
@@ -420,9 +470,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ♦ increase access;
 
-♦ improve equity;
-
 ♦ increase efficiency;
+
+♦ improve equity;
 
 ♦ improve organisational structures and management at different levels;
 
@@ -440,11 +490,11 @@ Tonga Ministry of Education
 
 [[START OF PAGE 20]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 6. Goals
 
-- 6.1 .The  three  goals  recommended  for  Tonga's  education  system  in  the Tonga Education Sector Study have been adopted in this Education Policy Framework . These goals are:
+- 6.1 .The three goals recommended for Tonga’s education system in the Tonga Education Sector Study have been adopted in this Education Policy Framework. These goals are:
 
 - GOAL 1: TO IMPROVE EQUITABLE ACCESS TO AND QUALITY  OF  UNIVERSAL  BASIC  EDUCATION  FOR  ALL CHILDREN IN TONGA UP TO YEAR 8 (FORM 2).
 
@@ -460,7 +510,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 21]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 7. Principles.
 
@@ -468,15 +518,15 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - place a focus on learners;
 
-- be responsive;
-
 - be committed to equity;
+
+- be responsive;
 
 - be transparent;
 
-- focus on results;
-
 - be inclusive;
+
+- focus on results;
 
 - decentralise decision-making where possible;
 
@@ -484,13 +534,13 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - move gradually to increase autonomy for institutions;
 
-- collaborate with other education partners;
-
 - be innovative;
+
+- collaborate with other education partners;
 
 - be accountable; and
 
-- undertake planning based on agreed principles (as set out in the Education Policy Options Paper,  November 2003)
+- undertake planning based on agreed principles (as set out in the Education Policy Options Paper, November 2003)
 
 Tonga Ministry of Education
 
@@ -500,43 +550,43 @@ Tonga Ministry of Education
 
 [[START OF PAGE 22]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 8. Policy Areas, Government Responses, and Expected Policy Outcomes
 
-- 8.1 This  section  identifies  seventeen  areas  for  policy  development,  arising  directly from  the  identification  of  problems  affecting    the  Tonga  education  sector.  The following  text  describes  the  policy  issue  for  each  policy  area,  outlines  the anticipated policy  outcomes,  and  sets  out  the  Government's  policy  responses  to the  problems  identified,  and  the  policy  choices  that  the  Government  wishes  to make.  These  policy  choices  are  intended  to  provide  a  strategic  direction  for Tonga's education policy over the medium to longer term (the next 15 years, or the period from 2004 to 2019).
+- 8.1 This section identifies seventeen areas for policy development, arising directly from the identification of problems affecting the Tonga education sector. The following text describes the policy issue for each policy area, outlines the anticipated policy outcomes, and sets out the Government’s policy responses to the problems identified, and the policy choices that the Government wishes to make. These policy choices are intended to provide a strategic direction for Tonga’s education policy over the medium to longer term (the next 15 years, or the period from 2004 to 2019).
 
 - 8.2 The seventeen policy areas identified for further policy development and action by the Government of Tonga are the following:
 
 - Policy Development, Planning and Monitoring;
 
-- Education After Year 8 (After Form 2);
-
 - Universal Basic Education to Year 8 (Form 2);
+
+- Education After Year 8 (After Form 2);
 
 - Early Childhood Education;
 
-- Language Policy;
-
 - Special Education;
+
+- Language Policy;
 
 - Curriculum;
 
-- Teacher Supply;
-
 - Assessment;
+
+- Teacher Supply;
 
 - Teacher Quality;
 
-- Reorganisation of Tertiary Education;
-
 - Skill Development and Lifelong Learning;
+
+- Reorganisation of Tertiary Education;
 
 - Management and Control of Education;
 
-- Sport;
-
 - Efficiency;
+
+- Sport;
 
 - Information and Communications Technology; and
 
@@ -550,7 +600,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.4 The desired policy outcome is that the MOE should have the appropriate capacity to  develop  policy,  and  to  design,  implement  and  monitor  the  existing  education system and the new investments that are envisioned 2 . The education system should meet the following tests:
 
-> 2 'Appropriate' in terms of the size of the education system and extent to which  quantitative information is seen as important for policy formulation, planning, management and monitoring.
+> 2 “Appropriate” in terms of the size of the education system and extent to which quantitative information is seen as important for policy formulation, planning, management and monitoring.
 
 Tonga Ministry of Education
 
@@ -560,23 +610,23 @@ Tonga Ministry of Education
 
 [[START OF PAGE 23]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 - the education system is informed and steered by education policy that has been designed and developed according to an appropriate education policy framework and a robust education policy methodology;
 
 - to  the  extent  that  it  is  appropriate  to  the  Tongan  context,  policy,  planning, management, assessment, monitoring, administration, budget preparation, and resource allocation will be based (or, at least validated by) reliable information and analysis,  and linked to measures or indicators of learning outcomes and social benefits;
 
-- there  will  be  Ministry  staff  specifically  responsible  for  these  functions,  and policy, planning and monitoring would be seen as 'core' responsibilities;
+- there will be Ministry staff specifically responsible for these functions, and policy, planning and monitoring would be seen as “core” responsibilities;
 
-- the 'culture' of information-based decision making  will be developed throughout  the  system,  and  staff  at  all  levels  will  be  provided  with  the necessary equipment and skills to utilise information effectively;
+- the “culture” of information-based decision making will be developed throughout the system, and staff at all levels will be provided with the necessary equipment and skills to utilise information effectively;
 
-- respondent  burden  will  be  minimised,  and  information  will  be  used  at  all levels from the classroom through the school to the Ministry of Education;
+- respondent burden will be minimised, and information will be used at all levels from the classroom through the school to the Ministry of Education;
 
 - redundant data capture and duplicated tasks will be eliminated;
 
-- projections and indicators, comparable to international and regional norms and standards, will be generated and reviewed on a regular basis.
-
 - time-series data, in a consistent format, will be available for analysis; and
+
+- projections and indicators, comparable to international and regional norms and standards, will be generated and reviewed on a regular basis.
 
 - 8.5 The  policy  methodology  required  will  consist  of  (a)  provision  of  high  quality policy  advice  and  (b)  the  undertaking  of  policy  development  and  analysis activities, plus policy projects. These are described in more detail in Appendix 1, including a description of the criteria against which the effectiveness or otherwise of policy advice can be assessed.
 
@@ -602,7 +652,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 24]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 for  having  an  information-based  planning  and  policy  capacity  fully  operational within  three  years.  This  capacity  will  include  addressing  staffing  and  space requirements  through  a  request  for  new  positions  and/or  a  re-designation  of existing posts within the Ministry of Education.
 
@@ -626,17 +676,17 @@ Tonga Ministry of Education
 
 [[START OF PAGE 25]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-Education will develop the necessary capacity to move forward in the remaining years, without projectised support.  While data collection and analysis tasks can be supported under a project, responsibility for policy making cannot be delegated. The Ministry  of  Education  would  still  have  to  invest  time  and  staff  in  order  to 'engage'  with  the  implications  of  information  that  would  be  produced.      The principal  risk  of  this  project  approach  is  that  the  'culture'  of  information-based analysis and the associated skills will not be internalised in the Ministry and that, at the end of the project, the investment will be of marginal value.  In addition, the costs  of  'projectised'  support  are  substantially  higher.  The  benefit  of  this approach is that the quantitative data and analyses, needed to operationalise and implement  the  plan  and  to  'validate  the  intervention  logic,'  could  be  produced relatively quickly.
+Education will develop the necessary capacity to move forward in the remaining years, without projectised support. While data collection and analysis tasks can be supported under a project, responsibility for policy making cannot be delegated. The Ministry of Education would still have to invest time and staff in order to “engage” with the implications of information that would be produced. The principal risk of this project approach is that the “culture” of information-based analysis and the associated skills will not be internalised in the Ministry and that, at the end of the project, the investment will be of marginal value. In addition, the costs of “projectised” support are substantially higher. The benefit of this approach is that the quantitative data and analyses, needed to operationalise and implement the plan and to “validate the intervention logic,” could be produced relatively quickly.
 
 ### Proposed New Investments
 
-- 8.17 The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are recommended, and will be included in the Corporate Plan :
+- 8.17 The following investments in new Ministry of Education Budget Sub-Programs and Activities are recommended, and will be included in the Corporate Plan:
 
 #### Policy Dialogue
 
-- 01: Consultative For a.
+- 01: Consultative Fora.
 
 #### Strengthen Policy Planning and Evaluation
 
@@ -698,7 +748,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - what intervention or combination of interventions (expanding existing government primary schools,  constructing new government (middle) schools, and/or full government finance at mission schools) is appropriate;
 
-- how to improve the partnership between the Government and NonGovernment  education authorities, and implications of increased direct Government  provision  for  the  viability  of  schools  in  the  Non-Government systems;
+- how to improve the partnership between the Government and Non-Government education authorities, and implications of increased direct Government provision for the viability of schools in the Non-Government systems;
 
 - whether there is an aggregate need (independent of ownership) for additional classroom  places,  and  the  cost-effectiveness  of  investments  in  new  physical infrastructure;
 
@@ -736,7 +786,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ##### Option 1: Increased Assistance to Non-Government Providers
 
-- 8.21 Under this option, the Government of Tonga proposes to increase assistance to the Non-Government  (Church)  providers,    in combination with negotiated arrangements  between  the  various  Non-Government  providers  and  the  MOE. Funding  will  be  sought  to  increase  over  time  the  current  grants  to  NonGovernment  providers.  The  most  practical  policy  to  assist  and  improve  the performance of the Non-Government schools immediately is the development of a subsidy  funding  policy  that  would  ensure  increased  funding  for  the  NonGovernment systems (to be used at the discretion of the employing authorities to improve quality and learning outcomes. The strategy for use of these additional funds  would  be  specified  in  an  annual  school  improvement  plan  and  impacts would be monitored on a regular basis.)
+- 8.21 Under this option, the Government of Tonga proposes to increase assistance to the Non-Government (Church) providers, in combination with negotiated arrangements between the various Non-Government providers and the MOE. Funding will be sought to increase over time the current grants to Non-Government providers. The most practical policy to assist and improve the performance of the Non-Government schools immediately is the development of a subsidy funding policy that would ensure increased funding for the Non-Government systems (to be used at the discretion of the employing authorities to improve quality and learning outcomes. The strategy for use of these additional funds would be specified in an annual school improvement plan and impacts would be monitored on a regular basis.)
 
 - 8.22 It would be necessary initially to increase the current subsidy (T$100 annually per student) to at least T$200 for each forms 1 & 2 student in Non-Government systems, and then  progressively seek to increase this amount until there is equity of  public  support  to  forms  1  and  2  between  Government  and  non-Government schools.  Non-Government schools will be provided with the additional funds in order  to improve quality and increase equitable access. The mechanism will be a gradual  increase to the amount of the annual per pupil subsidy. The increase in the subsidy amount will be part of a staged process, linked to a reduction in fees. The  conditions  under  which  the  policy  was  implemented  would    need  to  be negotiated.
 
@@ -764,7 +814,7 @@ system  and  the  Ministry  of  Education  to  reflect  the  negotiated  agreeme
 
 ##### Option 3: Towards Full Government Funding
 
-- 8.27 Under  the  third  option,  in  order  to  reach  its  ultimate  goal,  the  Government would  make  a  commitment  in  principle  to  move  to  fund  the  full  cost  of  the education  of  all  students  in  forms  1  &  2  in  both  Government  and  NonGovernment schools. This option could be combined with either (or both) Option 1  or  Option  2.  A  strategic  plan  would  be  developed  to  achieve  the  desired objective. Policy would need to be developed on how additional funding might be found. Introduction of the policy might need to be staged over a period of several years,  and  may  not  be  fully  achieved  within  the  time  frame  of  this Education Policy  Framework. Negotiations  would  be  needed  on  whether  the  Government would  provide  places  for  all  students  in  Government  schools,  and  on  any conditions  set  if  there  was  an  agreement  between  Government  and  NonGovernment  systems  to  move  towards  a  'level  playing  field'  under  which  the Government would fully fund all forms 1 & 2 education.
+- 8.27 Under the third option, in order to reach its ultimate goal, the Government would make a commitment in principle to move to fund the full cost of the education of all students in forms 1 & 2 in both Government and Non-Government schools. This option could be combined with either (or both) Option 1 or Option 2. A strategic plan would be developed to achieve the desired objective. Policy would need to be developed on how additional funding might be found. Introduction of the policy might need to be staged over a period of several years, and may not be fully achieved within the time frame of this Education Policy Framework. Negotiations would be needed on whether the Government would provide places for all students in Government schools, and on any conditions set if there was an agreement between Government and Non-Government systems to move towards a 'level playing field' under which the Government would fully fund all forms 1 & 2 education.
 
 Tonga Ministry of Education
 
@@ -778,9 +828,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 #### Implications
 
-- 8.28 For  purposes  of  forward  planning,  it  will  be  critical  that  the  Government develop  and  announce  a  clear  set  of  principles  and  intentions.    If  Government provision is to be  expanded to accommodate all students in forms 1 and 2, this policy  would  have  clear  implications  for  the  organisation  and  viability  of  NonGovernment schools.
+- 8.28 For purposes of forward planning, it will be critical that the Government develop and announce a clear set of principles and intentions. If Government provision is to be expanded to accommodate all students in forms 1 and 2, this policy would have clear implications for the organisation and viability of Non-Government schools.
 
-- 8.29 During the first three years (Phase 1) investments would focus on improving the  quality  and  efficiency  of    forms  1  and    2  education  services  in  NonGovernment  schools,  by  providing  additional  resources  for  non-salary  recurrent inputs  in  the  form  of  school  improvement  grants.    The  investment  will  also support data collection, analyses and consultative processes required to design and negotiate  strategies  required  to  move  toward  full  government  funding  and universal,  free,  compulsory  education  through  form  2,  with  high  quality  service delivery by all providers.
+- 8.29 During the first three years (Phase 1) investments would focus on improving the quality and efficiency of forms 1 and 2 education services in Non-Government schools, by providing additional resources for non-salary recurrent inputs in the form of school improvement grants. The investment will also support data collection, analyses and consultative processes required to design and negotiate strategies required to move toward full government funding and universal, free, compulsory education through form 2, with high quality service delivery by all providers.
 
 - 8.30 The strategy during Phase I would be designed to bring some targeted interim relief to schools offering forms 1 and 2 education, and to improve standards, with minimum  cost.    It  is  likely  that  the  strategy  will  include  a  combination  of interventions, such as expanding places at existing government primary schools, and  providing  additional  government  finance  at  mission  schools.  The  strategy adopted  would  be  designed  to  assist  the  MOE  and  other  education  systems  in identifying the best strategies for gaining maximum impact on learning outcomes, and  would  help  to  strengthen  the  collaborative  relationship  needed  to  move towards free, universal provision of eight years of basic education.
 
@@ -812,7 +862,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.34 The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are proposed, and, subject to further policy analysis and development,  will be included in the Corporate Plan :
+- 8.34 The following investments in new Ministry of Education Budget Sub-Programs and Activities are proposed, and, subject to further policy analysis and development, will be included in the Corporate Plan:
 
 #### Extend UBE to 8 Years
 
@@ -876,7 +926,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Government Policy Response
 
-- 8.37 The Government of Tonga will continue to strengthen the current academic program, and at the same time revise the secondary curriculum, providing more courses and opportunities for those students in school who elect to follow a nonacademic path. It essentially involves expanding the range of programmes on offer in  existing  institutions.  At  the  same  time  it  will  develop  policy  to  promote  a seamless  movement  between  secondary  and  tertiary  institutions.  This  approach would involve the provision of  targeted  funding  to  secondary  schools  to  enable them to purchase instruction or places in short vocational or technical courses at selected post-secondary institutions for selected students for part of the school day (the New Zealand 'STAR' funding  ( s econdary/ t ertiary a lignment r esource) is an example of this type of initiative).
+- 8.37 The Government of Tonga will continue to strengthen the current academic program, and at the same time revise the secondary curriculum, providing more courses and opportunities for those students in school who elect to follow a non-academic path. It essentially involves expanding the range of programmes on offer in existing institutions. At the same time it will develop policy to promote a seamless movement between secondary and tertiary institutions. This approach would involve the provision of targeted funding to secondary schools to enable them to purchase instruction or places in short vocational or technical courses at selected post-secondary institutions for selected students for part of the school day (the New Zealand 'STAR' funding (secondary/tertiary alignment resource) is an example of this type of initiative).
 
 - 8.38 In  tandem  with  this  approach,  the  Government  of  Tonga  will  expand opportunities for the secondary age cohort out of school. This approach envisages providing public support for those of a designated range of age cohorts who select technical and vocational training options outside schools. The actual mechanism used  might involve a voucher or entitlement (probably a subsidy delivered to an institution) for vocational, technical or life skills training delivered by Government  and  Non-Government  providers.    The  MOE  Secondary  Division would develop the capacity to administer a system of vouchers or an entitlement system  (possibly  needs-based),    and  to  set  and  monitor  standards  of  training providers in non-school settings.
 
@@ -896,7 +946,7 @@ scholarships, subsidies and/or vouchers) in targeted skills areas. The system wo
 
 ### Proposed New Investments
 
-- 8.40 The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are proposed, and will be included in the Corporate Plan :
+- 8.40 The following investments in new Ministry of Education Budget Sub-Programs and Activities are proposed, and will be included in the Corporate Plan:
 
 #### Education After Form 2 - Alternatives
 
@@ -978,11 +1028,13 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
+enrolments could be considered. Direct Government financial support should be considered only when a more developed infrastructure and an improved information base for the early childhood sector has been established. The Tonga Pre-School Association could take a leading role in these developments.
+
 .
 
 ### Proposed New Investments
 
-- 8.49 .  The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are proposed, and will be included in the Corporate Plan :
+- 8.49 . The following investments in new Ministry of Education Budget Sub-Programs and Activities are proposed, and will be included in the Corporate Plan:
 
 #### Early Childhood Education (ECE)
 
@@ -1004,15 +1056,13 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Policy Issue and Policy Outcome
 
-- 8.50 The desired policy outcome is that Tonga has an education system that ensures equal access to education and training for those children and adults with special learning  needs.  Those  people  with  special  learning  needs  include  the  physically handicapped (those who require wheelchairs, for instance), the visually impaired (the blind or near-sighted), those with hearing impairment (the deaf), those with speech defects, and those with intellectual disabilities. The category of those with special needs also includes the emotionally disturbed.
+- 8.50 The desired policy outcome is that Tonga has an education system that ensures equal access to education and training for those children and adults with special learning needs. Those people with special learning needs include the physically handicapped (those who require wheelchairs, for instance), the visually impaired (the blind or near-sighted), those with hearing impairment (the deaf), those with speech defects, and those with intellectual disabilities. The category of those with special needs also includes the emotionally disturbed.
 
-- 8.51 The  rationale  for  Government    intervention  is  based  on  the  principle  that access  to  education  should  be  provided  to  enable  all  people  with  disabilities  to develop to their full potential.  Students with physical and intellectual disabilities face impediments that make access to learning difficult, and as a matter of equity should be assisted to take their place in the formal education sector and develop fully as individuals.
+- 8.51 The rationale for Government intervention is based on the principle that access to education should be provided to enable all people with disabilities to develop to their full potential. Students with physical and intellectual disabilities face impediments that make access to learning difficult, and as a matter of equity should be assisted to take their place in the formal education sector and develop fully as individuals.
 
-- 8.52 The  first  step  in  improving  the  opportunities  for  students  with  physical  or intellectual  difficulties  is  to  recognise  their  rights  to  access  education.  The Ministry  of  Education  acknowledges  that,  flowing  from  such  recognition,  there are certain obligations which it will be required to meet.
+- 8.52 The first step in improving the opportunities for students with physical or intellectual difficulties is to recognise their rights to access education. The Ministry of Education acknowledges that, flowing from such recognition, there are certain obligations which it will be required to meet.
 
-- 8.53 While education of disabled children was previously catered for in Tonga by the extended family, this policy has meant that considerable human potential has remained undeveloped, owing to lack of access to education. Focused intervention would prevent this wastage of human potential. There exists therefore a need to provide more effective support, particularly for  people with special needs who are of school age.
-
-enrolments could be considered. Direct Government financial support should be considered only when a more developed infrastructure and an improved information base for the early childhood sector has been established. The Tonga Pre-School Association could take a leading role in these developments.
+- 8.53 While education of disabled children was previously catered for in Tonga by the extended family, this policy has meant that considerable human potential has remained undeveloped, owing to lack of access to education. Focused intervention would prevent this wastage of human potential. There exists therefore a need to provide more effective support, particularly for people with special needs who are of school age.
 
 Tonga Ministry of Education
 
@@ -1068,7 +1118,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.59 The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are proposed, and will be included in the Corporate Plan .
+- 8.59 The following investments in new Ministry of Education Budget Sub-Programs and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Special Education
 
@@ -1166,7 +1216,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.82 The  following  investments  in  new  Ministry  of  Education  Budget  SubPrograms and Activities are proposed, and will be included in the Corporate Plan .
+- 8.82 The following investments in new Ministry of Education Budget Sub-Programs and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Language Policy
 
@@ -1292,7 +1342,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.100 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan.
+- 8.100 The following investments in a new Ministry of Education Budget Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Curriculum Development & Support
 
@@ -1390,7 +1440,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.113 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.113 The following investments in a new Ministry of Education Budget Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Assessment for Better Learning
 
@@ -1434,9 +1484,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - a review of teacher remuneration policies;
 
-- supporting the Tonga graduate teacher preparation programme;
-
 - a public relations exercise to promote the teaching profession;
+
+- supporting the Tonga graduate teacher preparation programme;
 
 Tonga Ministry of Education
 
@@ -1456,9 +1506,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - establish a teacher relieving system using retired and experience teachers;
 
-- initiation of  a programme to upskill existing teachers.
-
 - review of policies to upgrade skills of unqualified teachers; and
+
+- initiation of a programme to upskill existing teachers.
 
 - 8.119 During  the  first  three  years,  the  Ministry  of  Education    will  focus  on identifying  factors  related  to  the  supply  of  and  demand  for  teachers  (with specialised  skills)  at  different  levels  of  the  system.    Special  emphasis  will  be placed on issues of remuneration and the implications of devolution of authority for staffing decisions to institutions.  By the end of Phase I, the MOE will have the appropriate  information needed to develop a coherent and financially sustainable strategy for balancing pupil:teacher ratios, conditions of service for teachers, and support  for  non-salary  operating  inputs  to  maximise  system  efficiency.  Initial estimates  of  the  recurrent  cost  implications  of  teacher  upgrading  and  modest improvements  in  terms  and  conditions  (to  be  considered  for  implementation  in Phase II and beyond) will be based on an initial workshop exercise using the cost projection/resource envelope simulation model.
 
@@ -1470,15 +1520,15 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - analysis of school population projections and trends over a ten-year time frame;
 
-- data base on numbers and location of teachers in the community pool;
-
 - study of patterns in teacher retention, mobility, loss rates;
+
+- data base on numbers and location of teachers in the community pool;
 
 - tracer studies of new teacher trainees;
 
-- analysis of time series data on intake at TIOE;
-
 - analysis of trends in advertisements for teacher vacancies;
+
+- analysis of time series data on intake at TIOE;
 
 - study of changes in the attitudes of a sample of secondary students regarding the teaching profession;
 
@@ -1508,7 +1558,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.123 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.123 The following investments in a new Ministry of Education Budget Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Improve Teacher Supply
 
@@ -1570,11 +1620,11 @@ assess and meet the needs of the various education systems in Tonga for quality 
 
 - 8.133 Tonga Institute of Education could plan the number of places and courses it offers to match more closely the needs of the various education systems. It would be able to appoint a stable core of trained and competent staff with planning skills and retain them at the Tonga Institute of Education. It would have the autonomy to select students for entry to the institute on the basis of a commitment to teaching in addition to academic performance.
 
-- 8.134 Policy  on  how  the  Tonga  Institute  of  Education  could  help  improve  the  inservice training of teachers as well as pre-service training will be developed. An in-service development  group will be formed  involving teachers from all education  systems  in  Tonga,  along  with  Ministry  of  Education  officers,    to produce an overall teacher in-service professional development  plan.
+- 8.134 Policy on how the Tonga Institute of Education could help improve the in-service training of teachers as well as pre-service training will be developed. An in-service development group will be formed involving teachers from all education systems in Tonga, along with Ministry of Education officers, to produce an overall teacher in-service professional development plan.
 
 - 8.135 Independently of these other developments, the Tonga Institute of Education will  investigate,  as  a  priority  goal,  how  it  could  obtain  accreditation  from  an appropriate  quality  assurance  agency.  This  accreditation  could  be  gained  within Tonga if the Tonga  National Qualifications Authority is speedily set up, and its operational procedures established without delay, although it is likely that, if this route  was  followed,  the  process  of  formal  accreditation,  even  with  a  following wind,  would not be effective at the earliest before 2006. Another option would be to seek accreditation from a quality assurance agency outside Tonga, although this process would also be time-consuming.
 
-- 8.136 More immediate steps will be taken. The Tonga Institute of Education will at once begin a process of self review and evaluation with a view to preparing itself for  formal  accreditation.  The  Tonga  Institute  of  Education  Advisory  Committee for  Teacher  Education, comprising representatives of the Government and NonGovernment education providers and other stakeholders,  will be re-established.
+- 8.136 More immediate steps will be taken. The Tonga Institute of Education will at once begin a process of self review and evaluation with a view to preparing itself for formal accreditation. The Tonga Institute of Education Advisory Committee for Teacher Education, comprising representatives of the Government and Non-Government education providers and other stakeholders, will be re-established.
 
 8.137 Among the functions of this Advisory Committee are the need to:
 
@@ -1604,7 +1654,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 initiated by the Minister of Education through a preliminary visit in February 2004 to  a  number  of  New  Zealand    tertiary  education  institutions,  with  a  view  to establishing a teaching degree programme at the Tonga Institute of Education. A conjoint arrangement with a suitable overseas provider of teacher education would enable the Tonga Institute of Education to improve its own standards by giving it access  to  other  established  high  quality  teacher  education  programmes,  support from high quality staff at the 'twinned' institution, and a raising of its standards through improvement of its own programmes and procedures. It would also be a practical first step towards the Government's goal of establishing a University of Tonga on Tongatapu.
 
-- 8.139 Incentives will be developed to improve the quality of teaching by encouraging existing teachers to improve their existing Diploma qualification by undertaking  degree  studies.  It  may  also  be  desirable  to  explore  links  and  cooperation  with  the  University  of  the  South  Pacific,  which  has  a  campus  on Tongatapu. Studies to upgrade existing teacher qualifications could be undertaken either through the University of the South Pacific, or through TIOE  if arrangements  to  offer  a  teaching  degree  programme  at  that  institution  can  be finalised.
+- 8.139 Incentives will be developed to improve the quality of teaching by encouraging existing teachers to improve their existing Diploma qualification by undertaking  degree  studies.  It  may  also  be  desirable  to  explore  links  and  co-operation  with  the  University  of  the  South  Pacific,  which  has  a  campus  on Tongatapu. Studies to upgrade existing teacher qualifications could be undertaken either through the University of the South Pacific, or through TIOE  if arrangements  to  offer  a  teaching  degree  programme  at  that  institution  can  be finalised.
 
 - 8.140 The Tonga Institute of Education will be supported, through donor assistance and by the Ministry of Education, to ensure that:
 
@@ -1644,7 +1694,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.145 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.145 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Improve Teacher Quality
 
@@ -1758,7 +1808,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.159 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.159 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Skill Development and Lifelong Learning
 
@@ -1800,7 +1850,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.160 The  anticipated  policy  outcomes  include  a  coordinated  national  system  of post-secondary education and training with adequate provision to meet the needs of Tonga's society and economy.  The  system should be characterised by equity, quality, relevance and efficiency. Qualifications would be internationally accredited and recognised, and limited resources would not be dissipated through unnecessary duplication of services. A further policy outcome is a strategic plan for the development of tertiary education in Tonga.
 
-- 8.161 The  integration  of  administration  of  some  or  all  government  funded  postsecondary  education  has  the  potential  to  provide  educational  and  efficiency benefits. There is a case for co-ordinating all government funded post-secondary education under the Tonga Institute of Higher Education. Considerable financial efficiencies, and non-financial benefits, could be achieved with such a development. This proposed development could extend to location of all delivery on one physical campus, but the actual physical integration of programmes on one site  would  be  a  longer-term  goal.  The  proposed  integration  of  services  would enhance  library  and  information  technology  services,  strengthen  staffing,  foster efficiency through use of specialist teachers across different faculties, rationalise resource use and programme delivery, and support adult and continuing education and the training of teachers for post-secondary education.
+- 8.161 The  integration  of  administration  of  some  or  all  government  funded  post-secondary  education  has  the  potential  to  provide  educational  and  efficiency benefits. There is a case for co-ordinating all government funded post-secondary education under the Tonga Institute of Higher Education. Considerable financial efficiencies, and non-financial benefits, could be achieved with such a development. This proposed development could extend to location of all delivery on one physical campus, but the actual physical integration of programmes on one site  would  be  a  longer-term  goal.  The  proposed  integration  of  services  would enhance  library  and  information  technology  services,  strengthen  staffing,  foster efficiency through use of specialist teachers across different faculties, rationalise resource use and programme delivery, and support adult and continuing education and the training of teachers for post-secondary education.
 
 - 8.162 Expanding  and  strengthening  TIHE  is  a  logical first step towards  the development  of  a  robust  tertiary  education  sector  and  the  development  of  a national  university  in  the  future.  Autonomy  of  governance  for  TIHE  is  seen  as necessary to ensure the international recognition of qualifications by  allowing for academic independence, enabling the development of specialist tertiary educators, attracting the return of qualified Tongans from positions overseas,  and providing for the development of an independent research focus.
 
@@ -1822,7 +1872,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.165 An  internationally  recognised  tertiary  education  sector  in  Tonga  will  be fostered by expanding the Tonga Institute of Higher Education, and coordinating existing post-secondary education under its umbrella.
 
-- 8.166 Financial efficiencies,  and  non-financial  benefits,  could  be  achieved through the  merger  and  location  on  a  single  campus  of  all  Tonga  Government  funded post-secondary  education  (including  the  nursing  training  and  health  studies currently funded by the Ministry of Health). Achieving this goal implies a broad review of various current providers such as the CDTC, TIST, TIOE, the Centre for Information Technology,  DECC and the Short-Term Training Centre, with a view to  eliminating  overlaps  and  achieving  greater  financial  efficiencies,  and  nonfinancial benefits. Possibilities for improving library and information technology services,  adult  and  continuing  education,  and  teacher  training  of  post-secondary teachers would be enhanced by this development. The goal of achieving a single campus is a longer-term objective, and may not be immediately achievable. As an interim measure,  most of the various separate Government institutions could be combined  for  administrative  purposes  under  one  overarching  entity  (the  Tonga Institute of Higher Education).
+- 8.166 Financial efficiencies,  and  non-financial  benefits,  could  be  achieved through the  merger  and  location  on  a  single  campus  of  all  Tonga  Government  funded post-secondary  education  (including  the  nursing  training  and  health  studies currently funded by the Ministry of Health). Achieving this goal implies a broad review of various current providers such as the CDTC, TIST, TIOE, the Centre for Information Technology,  DECC and the Short-Term Training Centre, with a view to  eliminating  overlaps  and  achieving  greater  financial  efficiencies,  and  non-financial benefits. Possibilities for improving library and information technology services,  adult  and  continuing  education,  and  teacher  training  of  post-secondary teachers would be enhanced by this development. The goal of achieving a single campus is a longer-term objective, and may not be immediately achievable. As an interim measure,  most of the various separate Government institutions could be combined  for  administrative  purposes  under  one  overarching  entity  (the  Tonga Institute of Higher Education).
 
 - 8.167 The MOE is considering a model under which this expanded institution will be formally  established  as  a  separate  autonomous  tertiary  education  institution, accountable to a duly constituted Governing Body, and responsible directly to the Minister of Education for its policy direction and for achievement of its negotiated outcomes.  Legislation  may  be  prepared  and  submitted  to  the  Parliament  for consideration, in order to enable the new institution to have formal autonomy and status.
 
@@ -1842,7 +1892,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 responsible for appointing and managing staff at a lower level. The duly appointed TIHE management team will set and collect fees, and manage staff appointments and remuneration.
 
-- 8.170 Autonomy  of  governance  for  a  Government  of  Tonga  combined  postsecondary education institute could be seen as a step towards the establishment of a national university in the future. Before proceeding to consider any proposal for the establishment of a national university in Tonga,  a full investigation and report on the costs and benefits, including the ongoing costs of supporting the staffing and infrastructure of a university, will be undertaken.
+- 8.170 Autonomy  of  governance  for  a  Government  of  Tonga  combined  post-secondary education institute could be seen as a step towards the establishment of a national university in the future. Before proceeding to consider any proposal for the establishment of a national university in Tonga,  a full investigation and report on the costs and benefits, including the ongoing costs of supporting the staffing and infrastructure of a university, will be undertaken.
 
 - 8.171 The increased use of technology to access learning and recognised qualifications can be a cost effective way to achieve higher education outcomes in Tonga.
 
@@ -1852,7 +1902,7 @@ responsible for appointing and managing staff at a lower level. The duly appoint
 
 - co-ordinate  existing  government  post-secondary  education  institutes  (including nursing and health studies) under a single administration. This could become the Tonga  Institute  of  Higher  Education  (TIHE)  and  would  be  a  stage  towards  the development of a national university for Tonga;
 
-- move to establish an autonomous governing body for TIHE,  reporting directly to the  Minister  of  Education,  and  representative  of  key  stakeholders  in  postsecondary education;
+- move to establish an autonomous governing body for TIHE,  reporting directly to the  Minister  of  Education,  and  representative  of  key  stakeholders  in  post-secondary education;
 
 - establish the Tonga National Qualifications and Accreditation Board (TNQAB) as a  statutory  body  reporting  through  the  Minister  of  Education,  to  provide  a framework for post compulsory education and training in Tonga and to implement quality assurance and audit for the sector;
 
@@ -1864,13 +1914,13 @@ responsible for appointing and managing staff at a lower level. The duly appoint
 
 - establish and maintain a register of providers of post-secondary education;
 
-- develop  an  equivalent  full-time  student  (EFTS)  system  and  an  appropriate education  management  information  system  for  recording  consumption  of  postsecondary education; and
+- develop  an  equivalent  full-time  student  (EFTS)  system  and  an  appropriate education  management  information  system  for  recording  consumption  of  post-secondary education; and
 
 - publish  and  promote  awareness  of  the  pathways  in  existing  post-secondary provision, and between secondary and post-secondary provision.
 
 ### Proposed New Investments
 
-- 8.174 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.174 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 Tonga Ministry of Education
 
@@ -1948,7 +1998,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 progressive steps that fit the cultural context of Tonga, perhaps over a period of several years.
 
-- 8.188 A strong and effective partnership between Government and Non-Government education systems is desirable. There has always been a close partnership between Government and Non-Government education providers in Tonga. The Advisory Council for Education established under the Education Act 1974 is a forum for dialogue between the Government and Non-Government systems. The Government of Tonga may wish to consider whether the existing networks and partnerships  could  be  strengthened  by  negotiating  an  accord  that  recognises  the contribution  made  to  education  in  Tonga  by  the  Non-Government  providers, particularly  the  Churches.  This  accord  could  recognise  the  Government's  wider responsibility  for  national  education  policy  and  administration  of  the  system, within the constraints of annual budgets, and at the same time acknowledge the valuable contributions (both financial and otherwise) made by the  NonGovernment systems.
+- 8.188 A strong and effective partnership between Government and Non-Government education systems is desirable. There has always been a close partnership between Government and Non-Government education providers in Tonga. The Advisory Council for Education established under the Education Act 1974 is a forum for dialogue between the Government and Non-Government systems. The Government of Tonga may wish to consider whether the existing networks and partnerships  could  be  strengthened  by  negotiating  an  accord  that  recognises  the contribution  made  to  education  in  Tonga  by  the  Non-Government  providers, particularly  the  Churches.  This  accord  could  recognise  the  Government's  wider responsibility  for  national  education  policy  and  administration  of  the  system, within the constraints of annual budgets, and at the same time acknowledge the valuable contributions (both financial and otherwise) made by the  Non-Government systems.
 
 - 8.189 Greater involvement of communities (including parents) in education will lead to  improved  educational  achievement.  The  Ministry  of  Education  places  a  high value on the contribution of parents to schools, and the good working relationships between schools, parents and people in local communities.
 
@@ -1964,9 +2014,9 @@ progressive steps that fit the cultural context of Tonga, perhaps over a period 
 
 - set out goals and objectives for  education in Tonga;
 
-- plan for progressive improvements to the education system over the medium term;
-
 - aim to increase effectiveness and efficiency;
+
+- plan for progressive improvements to the education system over the medium term;
 
 Tonga Ministry of Education
 
@@ -1980,7 +2030,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - allow the Ministry of Education to undertake responsibility for policy oversight of the whole education system through the development of national guidelines;
 
-- foster  improved  networks  and  partnerships  between  the  Government  and  NonGovernment sectors;
+- foster  improved  networks  and  partnerships  between  the  Government  and  Non-Government sectors;
 
 - set out where devolution of more responsibility to schools and their communities would  be  in  the  national  interest,  and  how  any  appropriate  changes  might    be managed progressively over time;
 
@@ -1996,7 +2046,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.196 National guidelines will be developed for all schools in the Kingdom (e.g. on curriculum,  or  on  examinations)  with  opportunity  for  innovation  within  the guidelines.    The  post-secondary  sector  will  be  developed  within  a  coordinated framework.  Government  will  support  and  encourage  early  childhood  education provision and special education provision for those students who are currently not catered  for  by  existing  policies.  It  will  in  principle  accept  responsibility  (within the  constraints  of  current  resourcing)  for  the  education  of  all  students  in  the compulsory education sector, including 'drop-outs' and early school leavers.
 
-- 8.197 As an interim measure, partnerships between Government and NonGovernment  sectors  will  be  fostered  in  which  the  Government  may  subsidise operational  costs,  while  the  Churches  provide  facilities  (using  their  existing buildings). Concessions will be needed by all partners to develop an agreed and effective working plan that is in the country's national interest. It is also implied that reform of the national distribution of funds for education will be required to achieve  an  effective  working  partnership  model.  If,  for  instance,  a  more  'level playing  field'  between  Government  and  Non-Government  providers  could  be achieved, funds to support education could be delivered on the basis of enrolments,  regardless  of  the  type  of  provider.  Development  of  an  appropriate funding  policy, however,   is a longer-term objective. These proposals for change need to be carefully evaluated by the Government to ensure that they are in the national interest.
+- 8.197 As an interim measure, partnerships between Government and Non-Government  sectors  will  be  fostered  in  which  the  Government  may  subsidise operational  costs,  while  the  Churches  provide  facilities  (using  their  existing buildings). Concessions will be needed by all partners to develop an agreed and effective working plan that is in the country's national interest. It is also implied that reform of the national distribution of funds for education will be required to achieve  an  effective  working  partnership  model.  If,  for  instance,  a  more  'level playing  field'  between  Government  and  Non-Government  providers  could  be achieved, funds to support education could be delivered on the basis of enrolments,  regardless  of  the  type  of  provider.  Development  of  an  appropriate funding  policy, however,   is a longer-term objective. These proposals for change need to be carefully evaluated by the Government to ensure that they are in the national interest.
 
 - 8.198 A clear  policy  to  reflect  the  contribution  made  by  all  the  education  sectors, including the Churches, should be articulated and implemented. At the same time, the Ministry of Education will consider Government responsibility in principle for
 
@@ -2034,7 +2084,7 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
-- 8.205 Progressive  moves  within  the  Government  sector  towards  increased  schoolbased management and shared community responsibility would have the potential to lead to more efficient management of scarce resources.
+- 8.205 Progressive  moves  within  the  Government  sector  towards  increased  school-based management and shared community responsibility would have the potential to lead to more efficient management of scarce resources.
 
 - 8.206 The Ministry of Education will investigate whether there is support for a trial of a more devolved system of education, based on the establishment of Boards of Trustees  for  individual  schools,  more  autonomy  for  school  Principals,  and increased  responsibility  for  school  management  of  staffing  and  resources.  The Ministry of Education considers such a system is not suitable for primary schools at this time, but may be suitable for some secondary schools. Principals of some Church secondary schools in Tonga have moved to adopt a more self-managing style of operation.
 
@@ -2060,11 +2110,11 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 an order of priority for necessary work over a period of several years established, so that the system can 'catch up' on maintenance that has not been attended to (largely, it is conceded, because of lack of funds).
 
-- 8.212 Tertiary  (post-secondary)  institutions  need  to  be  given  more  autonomy  in order to protect academic freedom and to ensure the efficient and effective use of resources.  Legislative  change  will  be  needed  to  establish  formally  a  Governing Body  (or  bodies)  that  would  undertake  responsibility  for  governance  of  postsecondary institutions. The functions of the Governing Body (or bodies) should be clearly set out in legislation. This issue is explored in more detail in the previous section Reorganisation of Tertiary Education .
+- 8.212 Tertiary  (post-secondary)  institutions  need  to  be  given  more  autonomy  in order to protect academic freedom and to ensure the efficient and effective use of resources.  Legislative  change  will  be  needed  to  establish  formally  a  Governing Body  (or  bodies)  that  would  undertake  responsibility  for  governance  of  post-secondary institutions. The functions of the Governing Body (or bodies) should be clearly set out in legislation. This issue is explored in more detail in the previous section Reorganisation of Tertiary Education .
 
 ### Proposed New Investments
 
-- 8.213 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.213 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Strengthen Management and Administration
 
@@ -2146,7 +2196,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Government Policy Response
 
-- 8.216 During  the  first  three  years,  investments  will  focus  on  identifying  costeffective  ways  to  improve  efficiency.    The  Ministry  of  Education  will  consider several efficiency and restructuring options,  but there is not a commitment to any specific  course  of  action  or  reform,  at  this  time.  Further  analysis  and  policy development is required before firm decisions can be made. Special attention will be  paid  to  efficiency  issues  both  at  the  system  level  (such  as  reviews  of  the configuration  of  schooling  provision,  and  of  school  staffing),  and  at  the  school level. Consideration will also be given to the impact of increasing resources for operations, teaching and learning materials, maintenance and supplies within the framework of school improvement plans.
+- 8.216 During  the  first  three  years,  investments  will  focus  on  identifying  cost-effective  ways  to  improve  efficiency.    The  Ministry  of  Education  will  consider several efficiency and restructuring options,  but there is not a commitment to any specific  course  of  action  or  reform,  at  this  time.  Further  analysis  and  policy development is required before firm decisions can be made. Special attention will be  paid  to  efficiency  issues  both  at  the  system  level  (such  as  reviews  of  the configuration  of  schooling  provision,  and  of  school  staffing),  and  at  the  school level. Consideration will also be given to the impact of increasing resources for operations, teaching and learning materials, maintenance and supplies within the framework of school improvement plans.
 
 - 8.217 The Government's response will be to adopt a mix of different policies that have  the  potential  to  increase  efficiencies.  The  process  will  involve  a  careful, information-based analysis of efficiency in the existing system, and the identification and analysis of difficult policy reforms to reduce repetition, increase pupil:teacher  ratios  (or  enforce  existing  staffing  guidelines),  redirect  available resources  towards  operating  costs  and  learning  materials,  upgrade  staff,  and provide  more  equitable  financing  of  secondary  and  post-secondary  education. Savings  realised  through  implementing  such  reforms  would  be  available  for quality  enhancements  under  this Education  Policy  Framework and  the  related planning documents.
 
@@ -2210,9 +2260,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - analysis of unit costs at all levels of the system;
 
-- assistance to schools in developing school improvement plans;
-
 - pilot testing options for multi-grade teaching and alternative pupil:teacher ratios;
+
+- assistance to schools in developing school improvement plans;
 
 - block grants to schools to develop improvement plans and to monitor implementation and impacts;
 
@@ -2234,7 +2284,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.230 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.230 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Efficiency Improvements
 
@@ -2308,7 +2358,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.241 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.241 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Sports Policy
 
@@ -2360,7 +2410,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.244 . The Ministry of Education recognises that there are many unique opportunities in the use of information and communications technology (ICT) and approaches.    Investments  in  information  and  communications  technology  will assist in more efficient management and analysis of information,  but will need to be  offset  by  efficiency-related  savings  in  service  delivery,  if  they  are  to  be affordable. Opportunities to invest in ICT as well as in human resource potential will  be  acted  upon  accordingly  where  the  efficiency  related  savings  cover expenses.
 
-- 8.245 .  The Ministry of Education will develop its capacity to design and revise an ICT  policy  and  strategy  on  an  ongoing  basis.    This  approach  may  require  an explicit  ICT  brief  in  the  job  description  of  a  Deputy  Director  or  other  senior official.  Given the rate at which technology changes, intensive and focused ongoing tracking of issues and opportunities will be required. The MOE may also establish an ICT Advisory Board.
+- 8.245 .  The Ministry of Education will develop its capacity to design and revise an ICT  policy  and  strategy  on  an  ongoing  basis.    This  approach  may  require  an explicit  ICT  brief  in  the  job  description  of  a  Deputy  Director  or  other  senior official.  Given the rate at which technology changes, intensive and focused on-going tracking of issues and opportunities will be required. The MOE may also establish an ICT Advisory Board.
 
 - 8.246 Under the direction of a senior official, the MOE  will undertake a comprehensive  review  of  options  for  using  information  and  communications technology in four areas:
 
@@ -2426,7 +2476,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ### Proposed New Investments
 
-- 8.253 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.253 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan.
 
 #### Information & Communications Technology
 
@@ -2486,7 +2536,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 8.258 The Ministry  of  Education  recognises  that  it  may  be  necessary  to  adjust  its expectations  to  reflect  resource  availability.  It  will  therefore  develop  a  range  of 'scenarios'  to  ensure  that  its  plans  are  realistic  and  can  be  implemented.    This 'reality  therapy'  will  mean  constraining  new  investments  to  levels  and  rates consistent with the capacity of the Government to finance recurrent costs (within Vote  19)  and  within  the  MOE's  staffing  and  capacity.  On  this  basis  it  will  be possible  to  make  some  moves  immediately,  without  the  delay  associated  with analysis, or the need to meet the demands of donor agencies.
 
-- 8.259 At the same time, as outlined in the earlier section on Efficiency , the Ministry of  Education  proposes  to  undertake  a  careful,  systematic,  information-based analysis  of  efficiency  in  the  existing  system.    Savings  realised  through  such reforms  would  be  available  to  (partially  or  fully)  address  the  recurrent  cost implications of new investments proposed under this Education Policy Framework and the related planning documents.  At present, the recurrent budget is  insufficient to adequately support free UBE up to Year 8,  and to support the other  services  provided  or  administered  by  the  MOE.    New  investments  and extension of public support to include forms 1 and 2 carry the danger of 'overstretching' resources which may result in a 'down-stream' deterioration of quality and efficiency.
+- 8.259 At the same time, as outlined in the earlier section on Efficiency , the Ministry of  Education  proposes  to  undertake  a  careful,  systematic,  information-based analysis  of  efficiency  in  the  existing  system.    Savings  realised  through  such reforms  would  be  available  to  (partially  or  fully)  address  the  recurrent  cost implications of new investments proposed under this Education Policy Framework and the related planning documents.  At present, the recurrent budget is  insufficient to adequately support free UBE up to Year 8,  and to support the other  services  provided  or  administered  by  the  MOE.    New  investments  and extension of public support to include forms 1 and 2 carry the danger of 'over-stretching' resources which may result in a 'down-stream' deterioration of quality and efficiency.
 
 - 8.260 The Ministry of Education takes the view that the goals and policy objectives emerging from the Final Report: Tonga Education Sector Study and  subsequent consultations  are  of  sufficient  importance  and  urgency  to  warrant  'fast  track' implementation.   While, in the medium term, these investments  may 'outstrip' the Government's capacity to finance recurrent costs, in the long term they will be financially sustainable.  Of greater importance, the investments in education and human resources will contribute directly to economic growth and development in Tonga,  thereby  providing  the  revenue  base  necessary  to  make  them  financially sustainable.
 
@@ -2522,7 +2572,7 @@ and  will  require  close  engagement  of  the  Government  with  donors  and  a
 
 ### Proposed New Investments
 
-- 8.265 The  following  investments  in  a  new  Ministry  of  Education  Budget  SubProgram and Activities are proposed, and will be included in the Corporate Plan .
+- 8.265 The  following  investments  in  a  new  Ministry  of  Education  Budget  Sub-Program and Activities are proposed, and will be included in the Corporate Plan .
 
 #### Transition to Sector Wide Approach (SWAp)
 
@@ -2602,9 +2652,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - Program 1: Leadership and Policy Advice
 
-- Program 3: Primary Services
-
 - Program 2: Professional Services
+
+- Program 3: Primary Services
 
 - Program 4: Secondary Services
 
@@ -2616,9 +2666,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - Program 1: Leadership and Policy Advice
 
-- Program 3: Universal Basic Education
-
 - Program 2: Professional Services
+
+- Program 3: Universal Basic Education
 
 - Program 4: Either: 'Secondary Education' or 'Post-Basic Education (Secondary)'
 
@@ -2648,7 +2698,7 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 9.12 In  the  next  financial  year  (2004/2005),  programmes  designated  within  the category  'Continuity'  will  be  funded  primarily  from  Government  of  Tonga resources.    Funding  for  activities  within  the  categories  'Improvement'  and 'Transformation' will be sought from external assistance.  During the course of the  indicative  three-year  planning  period,  the  Ministry  of  Education    plans  a review of its mission and institutional structures,  and this will, in all likelihood, be reflected in a new budget structure.
 
-- 9.13 In the structure of the Ministry of Education's Budget, each Program is subdivided into Sub-Programs  that are positioned within the three categories described above.  Each Sub-Program is then further sub-divided into a number of specific  Activities.  These  Activities  are  the  basis  of  the  actions  required  to implement the overall education strategy.
+- 9.13 In the structure of the Ministry of Education's Budget, each Program is sub-divided into Sub-Programs  that are positioned within the three categories described above.  Each Sub-Program is then further sub-divided into a number of specific  Activities.  These  Activities  are  the  basis  of  the  actions  required  to implement the overall education strategy.
 
 - 9.14 The  relationship  between  the  new  investments  identified  in  the Education Policy Framework 2004-2019 and the structure of the Corporate Plan 2004-2007 is shown in Figure 1.
 
@@ -2668,9 +2718,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 9.17 The existing Sub-Programs in each of the six main MOE Programs have been identified  as  the  ' CONTINUITY '  component  of  each  Program.  These  are  the Sub-Programs and Activities which appear in the  MOE  2003/04 budget framework.
 
-- 9.18 The  new  investments,  identified  in  this Education  Policy  Framework  20042019 , have been organised as new Sub-Programs related to either IMPROVEMENT or TRANSFORMATION . Each of the 121 specific investments is associated with a specific New Activity , under one of the new SubPrograms.
+- 9.18 The  new  investments,  identified  in  this Education  Policy  Framework  2004-2019 , have been organised as new Sub-Programs related to either IMPROVEMENT or TRANSFORMATION . Each of the 121 specific investments is associated with a specific New Activity , under one of the new Sub-Programs.
 
-- 9.19 In summary,  each  new  investment identified in this Education Policy Framework 2004-2019 'maps' to a specific activity in the Corporate Plan 20042007 .    For  each  activity,  details  on  the  timing  and  level  of  investment  required (over the first three years of the Corporate Plan ) are identified in detail by Special Expenditure Group (SEG) in the 2004/05 - 2006/07 Rolling Budget.  The MOE has developed more detailed (below the level of SEG) estimates for each activity and these are being used and updated as a planning tool by the Ministry.
+- 9.19 In summary,  each  new  investment identified in this Education Policy Framework 2004-2019 'maps' to a specific activity in the Corporate Plan 2004-2007 .    For  each  activity,  details  on  the  timing  and  level  of  investment  required (over the first three years of the Corporate Plan ) are identified in detail by Special Expenditure Group (SEG) in the 2004/05 - 2006/07 Rolling Budget.  The MOE has developed more detailed (below the level of SEG) estimates for each activity and these are being used and updated as a planning tool by the Ministry.
 
 - 9.20 The following figure explains the relationship graphically.
 
@@ -2684,139 +2734,143 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
-Tonga Ministry of Education
-
-81
-
 Figure 1:
 
 Relationship Between 17 Main Policy Areas & 6 MOE Programs
 
 Policy Framework
 
-Program 1
-
-Program 6
-
-CONTINUITY
-
-CONTINUITY
-
 Main Policy Area 1 of  17
 
-Existing Sub-Programe
-
-Existing Sub-Programe
+New Investment
 
 New Investment
 
-Existing Activity
-
-Existing Activity
-
 New Investment
-
-Existing Activity
-
-Existing Activity
-
-New Investment
-
-Existing Sub-Programe
-
-Existing Sub-Programe
-
-Existing Activity
-
-Existing Activity
 
 Main Policy Area 2 of  17
 
-Existing Activity
-
-Existing Activity
-
 New Investment
 
 New Investment
 
 New Investment
-
-IMPROVEMENT
-
-IMPROVEMENT
-
-New Sub-Programe
-
-New Sub-Programe
 
 Main Policy Area 3 of  17
 
-New Activity
-
-New Activity
+New Investment
 
 New Investment
 
-New Activity
-
-New Activity
-
 New Investment
-
-New Sub-Programe
-
-New Sub-Programe
-
-New Investment
-
-New Activity
-
-New Activity
-
-New Activity
-
-New Activity
-
-TRANSFORMATION
-
-TRANSFORMATION
-
-Main Policy Area 17 of  17
-
-New Sub-Programe
-
-New Sub-Programe
-
-New Investment
-
-New Activity
-
-New Activity
-
-New Investment
-
-New Activity
-
-New Activity
-
-New Investment
-
-New Sub-Programe
-
-New Sub-Programe
-
-New Activity
-
-New Activity
 
 MPAs 4-16
 
 omitted
 
+Main Policy Area 17 of  17
+
+New Investment
+
+New Investment
+
+New Investment
+
+Program 1
+
+CONTINUITY
+
+Existing Sub-Programe
+
+Existing Activity
+
+Existing Activity
+
+Existing Sub-Programe
+
+Existing Activity
+
+Existing Activity
+
+IMPROVEMENT
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+TRANSFORMATION
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
 Programs 2-5
 
 omitted
+
+Program 6
+
+CONTINUITY
+
+Existing Sub-Programe
+
+Existing Activity
+
+Existing Activity
+
+Existing Sub-Programe
+
+Existing Activity
+
+Existing Activity
+
+IMPROVEMENT
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+TRANSFORMATION
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+New Sub-Programe
+
+New Activity
+
+New Activity
+
+Tonga Ministry of Education
+
+81
 
 [[END OF PAGE 81]]
 
@@ -2856,18 +2910,11 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 .
 
-- 11.2 The Education  Policy  Framework is  structured  in  terms  of  26  new  SubPrograms (composed of 121 activities).  There are initial indicative estimates of costs for each of these 121 activities, aggregated by Program and Sub-Program, in the  three  year  rolling  budget  projection  which  constitutes  the  basis  of  the  MOE Corporate Plan 2004-2007 .  These cost estimates are used as the basis for 15 year cost projections.
+- 11.2 The Education  Policy  Framework is  structured  in  terms  of  26  new  Sub-Programs (composed of 121 activities).  There are initial indicative estimates of costs for each of these 121 activities, aggregated by Program and Sub-Program, in the  three  year  rolling  budget  projection  which  constitutes  the  basis  of  the  MOE Corporate Plan 2004-2007 .  These cost estimates are used as the basis for 15 year cost projections.
 
 - 11.3 In terms of resource implications, eight of these 26 sub-programs represent the major 'cost-drivers.'   The assumptions used in projecting the long-term costs of these eight sub-programs are the main determinants of costs and likely financial sustainability.      Unfortunately,  as  discussed  below,  at  present,  there  is  little information  or  analysis  available  to  use  as  a  robust  basis  for  these  projections. The  estimates  presented  in  the Education  Policy  Framework  2004-2019 must therefore be treated as tentative and preliminary, and possibly subject to change. A  range  of  higher  and  lower  cost  assumptions  has  been  developed  and  the underlying assumptions are discussed below.
 
 - 11.4 Following  the  structure  of  the  existing  MOE  budget,  the  eight  major  cost drivers are reflected in the following eight MOE sub-programs:
-
-- 11.5 The assumptions used in developing preliminary cost estimates are discussed below.
-
-### 11.6 Sub-Program  3.06 ( Improve  Primary  Education )
-involves  a  system  of grants  for  non-salary  inputs,  based  on  School  Improvement  Plans  (SIP)  to  be developed by teachers, principals and community members.
-
-- 11.7 This component is intended to improve the quality and efficiency of primary education by providing more resources for non-salary inputs such as teaching and learning materials, supplies and consumables.  It is assumed that this will improve the quality of learning and reduce the high rate of repetition at Class (grade) 6.
 
 Sub-Program | Activity
 --- | ---
@@ -2879,6 +2926,13 @@ Sub-Program | Activity
 5.18 | Skill Development and Lifelong Learning
 5.19 | Reorganisation of Tertiary Education
 1.08 | Improve Efficiency - a critical NEGATIVE cost driver
+
+- 11.5 The assumptions used in developing preliminary cost estimates are discussed below.
+
+### 11.6 Sub-Program  3.06 ( Improve  Primary  Education )
+involves  a  system  of grants  for  non-salary  inputs,  based  on  School  Improvement  Plans  (SIP)  to  be developed by teachers, principals and community members.
+
+- 11.7 This component is intended to improve the quality and efficiency of primary education by providing more resources for non-salary inputs such as teaching and learning materials, supplies and consumables.  It is assumed that this will improve the quality of learning and reduce the high rate of repetition at Class (grade) 6.
 
 Tonga Ministry of Education
 
@@ -2898,13 +2952,13 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 11.11 For purposes of the initial cost projections, the MOE has used the following assumptions:
 
-- Each  primary  school  will  receive  an  annual  planning  grant  to  prepare  the annual School Improvement Plan (SIP).  The high assumption is that annual grants  will  be  $1,000  per  school.  The  low  assumption  is  $500  per  school. [Activity 3.6.3]
+- (1) Each  primary  school  will  receive  an  annual  planning  grant  to  prepare  the annual School Improvement Plan (SIP).  The high assumption is that annual grants  will  be  $1,000  per  school.  The  low  assumption  is  $500  per  school. [Activity 3.6.3]
 
-- The initial round of grants for preparing School Improvement Grants will be made early in the 2005 academic year (for implementation in the 2006 school year) to 50% of Tonga's government primary schools (serving about half of the primary school population).  The remaining schools will be brought into the programme in the following year.  This staging will accommodate the need to  build  school-level  capacity  in  the  design  and  assessment  of  School Improvement Programmes.
+- (2) The initial round of grants for preparing School Improvement Grants will be made early in the 2005 academic year (for implementation in the 2006 school year) to 50% of Tonga's government primary schools (serving about half of the primary school population).  The remaining schools will be brought into the programme in the following year.  This staging will accommodate the need to  build  school-level  capacity  in  the  design  and  assessment  of  School Improvement Programmes.
 
-- The  level  of  funding  needed  to  provide  the  critical  level  of  inputs  will  be between $75 (high assumption) and $50 (low assumption) per pupil per year. This will commence for half the schools in 2006, with the remaining schools beginning to receive grants in 2007. [Activity  3.6.4]
+- (3) The  level  of  funding  needed  to  provide  the  critical  level  of  inputs  will  be between $75 (high assumption) and $50 (low assumption) per pupil per year. This will commence for half the schools in 2006, with the remaining schools beginning to receive grants in 2007. [Activity  3.6.4]
 
-- All  primary  schools  will  receive  the  same  level  of  per-capita  funding, independent  of  local  'fiscal  capacity.'    That  is,  grant  levels  will  not  be adjusted to compensate for lower community income.  If, over time, the MOE is  able  to  develop  appropriate  criteria  for  means-based  support,  the  costs  of this sub-program may be reduced.
+- (4) All  primary  schools  will  receive  the  same  level  of  per-capita  funding, independent  of  local  'fiscal  capacity.'    That  is,  grant  levels  will  not  be adjusted to compensate for lower community income.  If, over time, the MOE is  able  to  develop  appropriate  criteria  for  means-based  support,  the  costs  of this sub-program may be reduced.
 
 Tonga Ministry of Education
 
@@ -2916,23 +2970,23 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
-- The  annual  cost  of  impact  assessment  will  be  between    $75,000  (high assumption) and $50,000 (low assumption) and the assessment process will be discontinued    after  the  2008  school  year  because  required  information  will come from the improved broader assessment impact system.  [Activity 3.6.5]
+- (5) The  annual  cost  of  impact  assessment  will  be  between    $75,000  (high assumption) and $50,000 (low assumption) and the assessment process will be discontinued    after  the  2008  school  year  because  required  information  will come from the improved broader assessment impact system.  [Activity 3.6.5]
 
 ### 11.12 Sub-Program 3.07 ( Extend UBE to 8 years )
-involves providing information on  'best  practice'  to  all  secondary  schools  and  providing  School  Improvement Plan (SIP) grants for better use of resources at forms 1 and 2. Non-Government secondary schools will be the primary beneficiaries of these SIPs and will use this opportunity  to  plan  for  the  effective  use  of  increased  grants  provided  in  subprogram  3.08.    This  sub-program  will  also  include  a  system  for  assessing  the impact  of  additional  funds  and  provision  of  additional  funding  to  Government secondary schools to 'level the playing field.'
+involves providing information on  'best  practice'  to  all  secondary  schools  and  providing  School  Improvement Plan (SIP) grants for better use of resources at forms 1 and 2. Non-Government secondary schools will be the primary beneficiaries of these SIPs and will use this opportunity  to  plan  for  the  effective  use  of  increased  grants  provided  in  sub-program  3.08.    This  sub-program  will  also  include  a  system  for  assessing  the impact  of  additional  funds  and  provision  of  additional  funding  to  Government secondary schools to 'level the playing field.'
 
 - 11.13 For purposes of the initial cost projections, the MOE has used the following assumptions:
 
-- Each  secondary  school  offering  forms  1  and/or  2  will  receive  an  annual planning  grant  to  prepare  the  annual  School  Improvement  Plan  (SIP).    The high  assumption  is  that  annual  grants  will  be  $1,000  per  school.  The  low assumption is $500 per school. [Activity 3.7.4]
+- (1) Each  secondary  school  offering  forms  1  and/or  2  will  receive  an  annual planning  grant  to  prepare  the  annual  School  Improvement  Plan  (SIP).    The high  assumption  is  that  annual  grants  will  be  $1,000  per  school.  The  low assumption is $500 per school. [Activity 3.7.4]
 
-- Beginning in 2007, form 1 and form 2 fees will be eliminated at all schools. Compensation and incentives to Non-Government schools will be included in an  enhanced  grant  (Sub-Program  3.08).    Government  schools  will  receive additional  support  to  compensate  for  lost  fee  income.    For  purposes  of projection, future form 1 and 2 government enrolment is estimated at 1,500 students and fees are estimated at $110 per student per year (this figure is the average level of fees estimated for the 2004 year).
+- (2) Beginning in 2007, form 1 and form 2 fees will be eliminated at all schools. Compensation and incentives to Non-Government schools will be included in an  enhanced  grant  (Sub-Program  3.08).    Government  schools  will  receive additional  support  to  compensate  for  lost  fee  income.    For  purposes  of projection, future form 1 and 2 government enrolment is estimated at 1,500 students and fees are estimated at $110 per student per year (this figure is the average level of fees estimated for the 2004 year).
 
-- The  annual  cost  of  impact  assessment  will  be  between    $75,000  (high assumption) and $50,000 (low assumption) and the assessment process will be discontinued    after  the  2008  school  year  because  required  information  will come from the improved broader assessment impact system.  [Activity 3.7.6]
+- (3) The  annual  cost  of  impact  assessment  will  be  between    $75,000  (high assumption) and $50,000 (low assumption) and the assessment process will be discontinued    after  the  2008  school  year  because  required  information  will come from the improved broader assessment impact system.  [Activity 3.7.6]
 
 ### 11.14 Sub-Program  3.08 ( Grants  Programme  for  Forms  1  &  2 )
 involves 'levelling  the  playing  field'  by  providing  full  and  comparable  education  to  all children in Forms 1 and 2, independent of the ownership or management of the institution they attend.
 
-- 11.15 The  sub-program  is  intended  to  improve  the  quality  of  education  at  NonGovernment  schools  (currently  accommodating  about  72%  of  Form  1  and  2 enrolment).  It intends to eventually fully-fund eight years of basic education, with the elimination of fees. It is also assumed that by offering comparable quality in Government and Non-Government schools, there will be a substantial reduction of repetition at Class (grade) 6.
+- 11.15 The  sub-program  is  intended  to  improve  the  quality  of  education  at  Non-Government  schools  (currently  accommodating  about  72%  of  Form  1  and  2 enrolment).  It intends to eventually fully-fund eight years of basic education, with the elimination of fees. It is also assumed that by offering comparable quality in Government and Non-Government schools, there will be a substantial reduction of repetition at Class (grade) 6.
 
 - 11.16 In  the  medium  term,  the  sub-program  is  intended  to  increase  funding  to support  students  attending  Non-Government  schools  to  the  same  level  that  is currently provided at Government secondary schools.
 
@@ -2954,15 +3008,15 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 11.20 For purposes of the initial cost projections the MOE has used the following assumptions:
 
-- The 'full cost' (or more correctly, 'estimated subsidised cost') of Form 1 and 2 provision ranges from a high estimate of 75 percent of the observed average cost of education at Government secondary schools (i.e. government support plus fees) to a low estimate of 50 percent.
+- (1) The 'full cost' (or more correctly, 'estimated subsidised cost') of Form 1 and 2 provision ranges from a high estimate of 75 percent of the observed average cost of education at Government secondary schools (i.e. government support plus fees) to a low estimate of 50 percent.
 
-- Initial support to Non-Government secondary schools (which will based on a School Improvement Plan model similar to that proposed for primary schools) will commence during the 2006 school year.
+- (2) Initial support to Non-Government secondary schools (which will based on a School Improvement Plan model similar to that proposed for primary schools) will commence during the 2006 school year.
 
-- The initial level of support will be $100 per pupil (in addition to the existing grant of $100, that is currently in operation).
+- (3) The initial level of support will be $100 per pupil (in addition to the existing grant of $100, that is currently in operation).
 
-- The grant level will increase by $100 per student each year until it reaches parity with support for Government schools.
+- (4) The grant level will increase by $100 per student each year until it reaches parity with support for Government schools.
 
-- There may be scope for efficiency improvements in Government secondary unit costs which would be reflected in a lower target for 'levelling the playing field'    at  non-Government  schools.    Assumptions  on  potential  gains  range
+- (5) There may be scope for efficiency improvements in Government secondary unit costs which would be reflected in a lower target for 'levelling the playing field'    at  non-Government  schools.    Assumptions  on  potential  gains  range
 
 > 3 Calculated by dividing $4,903,588 (Program 4 total for Estimates FY2003/4) by 4037 (secondary enrolment total for 2002) = $1214.66 and adding $110 as a fee component. (=$1324.66).
 
@@ -2990,11 +3044,11 @@ from a low cost estimate of 25% improvement to a high cost estimate of no improv
 
 - 11.26 For purposes of the initial cost projections the MOE has used the following assumptions:
 
-- There will be no adjustment in teaching costs in FY 2004-05.
+- (1) There will be no adjustment in teaching costs in FY 2004-05.
 
-- In  response  to  policies  of  upgrading  and  improvements  in  average  teacher qualifications, the salary costs associated with a better-qualified teaching force will be reflected in a credential-based increase of 10 percent implemented over a ten-year period, beginning in the 2006 school year.
+- (2) In  response  to  policies  of  upgrading  and  improvements  in  average  teacher qualifications, the salary costs associated with a better-qualified teaching force will be reflected in a credential-based increase of 10 percent implemented over a ten-year period, beginning in the 2006 school year.
 
-- Based on the findings of a teacher supply and demand study and in the context of negotiations with the Public Service Commission, real wages will increase by 10 percent over a ten-year period, beginning with the 2007 school year.
+- (3) Based on the findings of a teacher supply and demand study and in the context of negotiations with the Public Service Commission, real wages will increase by 10 percent over a ten-year period, beginning with the 2007 school year.
 
 ### 11.27 Sub-Program 5.18 ( Skill Development and Lifelong Learning )
 
@@ -3043,9 +3097,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 - 11.36 For purposes of the initial cost  projections the MOE has used the following assumptions:
 
-- Investments in teacher upgrading must lead to anticipated efficiency benefits. That is, there will be a period of three to four years of additional net costs, as teacher  competencies,  motivation  and  supporting  structures  are  developed, before efficiency gains will be realised.
+- (1) Investments in teacher upgrading must lead to anticipated efficiency benefits. That is, there will be a period of three to four years of additional net costs, as teacher  competencies,  motivation  and  supporting  structures  are  developed, before efficiency gains will be realised.
 
-- Aside from this transitional period, the MOE  is using a 'neutrality assumption'.  That  is,  in  the  long  run,  efficiency  related  improvements  will fully  offset  the  costs  of  improvements  in  qualifications  and  terms  and conditions.
+- (2) Aside from this transitional period, the MOE  is using a 'neutrality assumption'.  That  is,  in  the  long  run,  efficiency  related  improvements  will fully  offset  the  costs  of  improvements  in  qualifications  and  terms  and conditions.
 
 ## Fifteen-Year Cost Estimates
 
@@ -3093,7 +3147,9 @@ Assessment for Better Learning | 108 | 166 | 141 | 141 | 141 | 141 | 141 | 141 |
 9 Teacher Supply
 Improve Teacher Supply | 45 | 105 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46 | 46
 Upgrading and Conditions of Service | 0 | 31 | 111 | 239 | 400 | 533 | 605 | 644 | 680 | 712 | 741 | 740 | 686 | 581 | 452
-Ministry of Education | Sub-total | 45 | 136 | 157 | 285 | 446 | 579 | 651 | 690 | 726 | 758 | 787 | 786 | 732 | 627 | 498
+Sub-total | 45 | 136 | 157 | 285 | 446 | 579 | 651 | 690 | 726 | 758 | 787 | 786 | 732 | 627 | 498
+
+Tonga Ministry of Education
 
 90
 
@@ -3116,7 +3172,8 @@ Upgrading and Conditions of Service | 0 | 31 | 111 | 239 | 400 | 533 | 605 | 644
 Technical and Vocational Training | 78 | 227 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271 | 271
 Skill Development and Lifelong Learning | 6 | 150 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300
 Sub-total | 84 | 377 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571 | 571
-12 Reorganisation of Tertiary Education Reorganisation of Tertiary Education | 34 | 150 | 295 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300
+12 Reorganisation of Tertiary Education
+Reorganisation of Tertiary Education | 34 | 150 | 295 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300
 13 Management and Control of Education
 Self-Managing Schools | 42 | 136 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71 | 71
 14 Efficiency
@@ -3125,8 +3182,8 @@ Efficiency Improvements | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 
 Sports Policy | 15 | 42 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35 | 35
 Talent Development in Sport | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5
 Sub-total | 20 | 47 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40
-16 Information and Communications Technology Information & Communications Technology
-35 | 255 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197
+16 Information and Communications Technology
+Information & Communications Technology | 35 | 255 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197 | 197
 17 Financing Options and Financial Sustainability
 Transition to Sector Wide Approach (SWAp) | 20 | 278 | 129 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20
 
@@ -3291,12 +3348,12 @@ Table 2:  Revenue Source by Program
 
 Program | Exam 03 | Fees 04 | CFT 61 | EU 63 | REVOLV 92
 --- | --- | --- | --- | --- | ---
-1 Leadership Policy
-2 Prof Services | 186,000 | 100,001
-3 Basic Education | 218,499 | 712,000 | 1
-4 Secondary | 470,000 | 528,000 | 1
-5 Post Sec & NFE | 137,000 | 25,000 | 1 | 1,440,900
-6 Youth, Sport, Cul
+1 Leadership Policy |  |  |  |  | 
+2 Prof Services | 186,000 |  |  |  | 100,001
+3 Basic Education |  | 218,499 |  | 712,000 | 1
+4 Secondary |  | 470,000 |  | 528,000 | 1
+5 Post Sec & NFE |  | 137,000 | 25,000 | 1 | 1,440,900
+6 Youth, Sport, Cul |  |  |  |  | 
 Grand Total | 186,000 | 825,499 | 25,000 | 1,240,001 | 1,540,903
 
 - 12.14 As the changes envisioned in the Education Policy Framework 2004-2019 are implemented,  it  is  entirely  possible  that  the  Government  will  move  toward  a policy  of  greater  cost-sharing  and  cost-recovery  in  post-secondary  programs. International  experience  indicates  that  the  private  rate  of  return  to  tertiary education is high and that cost-recovery at this level of the system is desirable. The assumption of Revolving Fund revenue remaining stable is therefore quite conservative.
@@ -3317,17 +3374,25 @@ Based upon the assumptions discussed above, three scenarios of projected resourc
 
 ### Scenario 1 - Low Estimate  - real growth of  2 percent per annum.
 
-Real Growth | Pa'anga (000) "Current" 2004 values
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2.5% | 4 | 5
-1 | 2 05/06 | 3 06/07 | 07/08 | 08-09 | 6 | 7 | 8 11/12 | 9 12/13 | 10 13/14 | 11 14/5 | 12 15/16 | 13 16/17 | 14 17/18 | 15 18/19
-04/05 | 16,872.1 | 17,293.9 | 17,726.3 | 09/10 18,623.7 | 10/11 | 21,597.8 | 22,137.7 | 22,691.1 | 23,258.4
-16,460.6 | 18,169.4 | 19,089.3 | 19,566.5 | 20,055.7 | 20,557.1 | 21,071.0
-1,265.0 | 1,265.0 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0
-1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9
-19,266.5 | 19,678.1 | 20,099.9 | 20,532.2 | 20,975.4 | 21,429.6 | 21,895.2 | 22,372.4 | 22,861.6 | 23,363.0 | 23,876.9 | 24,403.7 | 24,943.6 | 25,497.1 | 26,064.3
+Pa'anga (000) "Current" 2004 values
+Real Growth | 2.0%
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
+04/05 | 05/06 | 06/07 | 07/08 | 08-09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/5 | 15/16 | 16/17 | 17/18 | 18/19
+GoT Fund | 16,460.6 | 16,789.8 | 17,125.6 | 17,468.1 | 17,817.5 | 18,173.8 | 18,537.3 | 18,908.1 | 19,286.2 | 19,672.0 | 20,065.4 | 20,466.7 | 20,876.0 | 21,293.5 | 21,719.4
+Current Donor | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0
+Revolving Fund | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9
+TOTAL | 19,266.5 | 19,595.7 | 19,931.5 | 20,274.1 | 20,623.4 | 20,979.8 | 21,343.2 | 21,714.0 | 22,092.2 | 22,477.9 | 22,871.3 | 23,272.6 | 23,681.9 | 24,099.4 | 24,525.3
 
 ### Scenario 2 - Medium Estimate  - real growth of  2.5 percent per annum.
+
+Pa'anga (000) "Current" 2004 values
+Real Growth | 2.5%
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
+04/05 | 05/06 | 06/07 | 07/08 | 08-09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/5 | 15/16 | 16/17 | 17/18 | 18/19
+GoT Fund | 16,460.6 | 16,872.1 | 17,293.9 | 17,726.3 | 18,169.4 | 18,623.7 | 19,089.3 | 19,566.5 | 20,055.7 | 20,557.1 | 21,071.0 | 21,597.8 | 22,137.7 | 22,691.1 | 23,258.4
+Current Donor | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0
+Revolving Fund | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9
+TOTAL | 19,266.5 | 19,678.1 | 20,099.9 | 20,532.2 | 20,975.4 | 21,429.6 | 21,895.2 | 22,372.4 | 22,861.6 | 23,363.0 | 23,876.9 | 24,403.7 | 24,943.6 | 25,497.1 | 26,064.3
 
 Tonga Ministry of Education
 
@@ -3339,17 +3404,16 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
-Real Growth | Pa'anga (000) "Current" 2004 values
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-3.0%
+### Scenario 3 - High Estimate  - real growth of  3.0 percent per annum.
+
+Pa'anga (000) "Current" 2004 values
+Real Growth | 3.0%
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
 04/05 | 05/06 | 06/07 | 07/08 | 08-09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/5 | 15/16 | 16/17 | 17/18 | 18/19
-16,460.6 | 16,954.4 | 17,463.1 | 17,987.0 | 18,526.6 | 19,082.4 | 19,654.8 | 20,244.5 | 20,851.8 | 21,477.4 | 22,121.7 | 22,785.3 | 23,468.9 | 24,173.0 | 24,898.2
-1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0
-1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9
-19,266.5 | 19,760.4 | 20,269.0 | 20,792.9 | 21,332.5 | 21,888.3 | 22,460.8 | 23,050.4 | 23,657.7 | 24,283.3 | 24,927.6 | 25,591.3 | 26,274.8 | 26,978.9 | 27,704.1
-
-### Scenario 3 - High Estimate  - real growth of  3.0 percent per annum.
+GoT Fund | 16,460.6 | 16,954.4 | 17,463.1 | 17,987.0 | 18,526.6 | 19,082.4 | 19,654.8 | 20,244.5 | 20,851.8 | 21,477.4 | 22,121.7 | 22,785.3 | 23,468.9 | 24,173.0 | 24,898.2
+Current Donor | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0 | 1,265.0
+Revolving Fund | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9 | 1,540.9
+TOTAL | 19,266.5 | 19,760.4 | 20,269.0 | 20,792.9 | 21,332.5 | 21,888.3 | 22,460.8 | 23,050.4 | 23,657.7 | 24,283.3 | 24,927.6 | 25,591.3 | 26,274.8 | 26,978.9 | 27,704.1
 
 Tonga Ministry of Education
 
@@ -3363,9 +3427,9 @@ Final Draft Tonga Education Policy Framework - 23 April 2004
 
 ## Sustainability Analysis
 
-- 12.15 The MOE has developed indicative estimates of likely costs associated with implementing  the  recommendations  of  the Education  Policy  Framework  20042019 over a fifteen year time horizon.  For a set of eight major 'cost drivers' we have identified a set of high cost and lower cost assumptions.  Data in the body of the program summary table reflects the lower costs assumptions.  Similarly, we have developed high and low projections of the 'resource envelope' likely to be available to the sector over this 15 year time horizon.
+- 12.15 The MOE has developed indicative estimates of likely costs associated with implementing  the  recommendations  of  the Education  Policy  Framework  2004-2019 over a fifteen year time horizon.  For a set of eight major 'cost drivers' we have identified a set of high cost and lower cost assumptions.  Data in the body of the program summary table reflects the lower costs assumptions.  Similarly, we have developed high and low projections of the 'resource envelope' likely to be available to the sector over this 15 year time horizon.
 
-- 12.16 As  noted  in  the  earlier  sections  of  the Education  Policy  Framework  20042019 , additional work and analysis will be required to 'validate' and refine these assumptions.  This work is currently in progress with support of a local Tongan consulting  firm  and  financial  support  from  NZAID.    The  validity  of  the sustainability analysis depends upon the validity of the underlying assumptions. For this reason, the analysis presented below must be treated as preliminary.
+- 12.16 As  noted  in  the  earlier  sections  of  the Education  Policy  Framework  2004-2019 , additional work and analysis will be required to 'validate' and refine these assumptions.  This work is currently in progress with support of a local Tongan consulting  firm  and  financial  support  from  NZAID.    The  validity  of  the sustainability analysis depends upon the validity of the underlying assumptions. For this reason, the analysis presented below must be treated as preliminary.
 
 - 12.17 Figure 3 shows the pattern of the 'main cost drivers' over a fifteen year time horizon.  This figure is based on the lower cost assumptions, but the higher cost assumptions  display  a  similar  pattern.    Costs  rise  steeply  over  the  first  six  or seven  years  of  the  program,  as  improvements  are  put  in  place  and  investment costs  of  'Transformation'  are  met.    The  largest  single  'cost  driver'  is  the extension of Universal Basic Education from six to eight years.  Beginning in FY 2011/12 the rate of growth in costs levels out.  In part, this reflects the point at which  support  to  Non-Government  schools  matches  that  reaching  Government schools  and  cost  growth  is  contained.    Beginning  in  about  FY  2015/16,  total projected costs begin to decline . This reflects the impact of efficiency improvements that are anticipated to begin to be felt four years after investments in teacher quality have taken hold.
 
@@ -3459,9 +3523,11 @@ Tonga Ministry of Education
 
 Final Draft Tonga Education Policy Framework - 23 April 2004
 
+Table 3:  Projections of Financial Sustainability Under Different Scenarios
+
 Pa'anga (000) "Current" 2004 values
---- | --- | --- | --- | --- | --- | --- | --- | ---
 Scenarios | 1 04/05 | 2 05/06 | 3 06/07 | 4 07/08 | 5 08-09 | 6 09/10 | 7 10/11 | 8 11/12
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 Cost Low Proj | 20,578 | 24,002 | 25,804 | 25,004 | 25,564 | 25,934 | 26,079 | 26,158
 Cost High Proj | 20,604 | 24,287 | 26,520 | 25,917 | 26,457 | 26,967 | 27,431 | 27,829
 Res Env Low | 19,267 | 19,596 | 19,932 | 20,274 | 20,623 | 20,980 | 21,343 | 21,714
@@ -3469,8 +3535,6 @@ Res Env Hi | 19,267 | 19,760 | 20,269 | 20,793 | 21,332 | 21,888 | 22,461 | 23,0
 Projected Shortfall
 Best Case | -1,311 | -4,242 | -5,535 | -4,211 | -4,232 | -4,046 | -3,619 | -3,107
 Worst Case | -1,337 | -4,692 | -6,589 | -5,643 | -5,834 | -5,987 | -6,088 | -6,115
-
-Table 3:  Projections of Financial Sustainability Under Different Scenarios
 
 Scenarios | 9 12/13 | 10 13/14 | 11 14/5 | 12 15/16 | 13 16/17 | 14 17/18 | 15 18/19
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -3490,9 +3554,9 @@ Tonga Ministry of Education
 
 [[START OF PAGE 101]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-Figure 4:  Sustainability Projections - 'Best' and 'Worst' Case Scenarios
+Figure 4: Sustainability Projections – “Best” and “Worst” Case Scenarios
 
 Cost and Resource Envelope Projections
 
@@ -3562,7 +3626,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 102]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # 13. Appendix 1: Policy Advice & Policy Development
 
@@ -3588,13 +3652,13 @@ All  policy  advice  will  be  fit  for  the  purpose  of  informing  Government
 
 ### A Policy Analysis and the Policy Development Process
 
-Problem definition - the public policy problem, including the underlying causes, will be identified and supported by data or other evidence, and the policy objectives will be articulated.
+Problem definition – the public policy problem, including the underlying causes, will be identified and supported by data or other evidence, and the policy objectives will be articulated.
 
 Analysis incorporates the following aspects:
 
 - A  range  of  options will  be  identified  and  assessed  for  benefits,  costs,  risks (including strategic or long and medium-term risks, as well as operational or immediate risks) and consequences to the Government and the community.
 
-- Consistency -  linkages  will  be  drawn  with  prior  advice  provided  through cross-referencing or trade-offs, or explicit variations will be made to improve prior advice.
+- Consistency – linkages will be drawn with prior advice provided through cross-referencing or trade-offs, or explicit variations will be made to improve prior advice.
 
 Tonga Ministry of Education
 
@@ -3604,37 +3668,37 @@ Tonga Ministry of Education
 
 [[START OF PAGE 103]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-- Cross-sector inter-relationships - linkages with Government policy directions and  interventions  across  sectors,  particularly  other  social  policy  areas  and within the broad public education sector, will be taken into account.
+- Cross-sector inter-relationships – linkages with Government policy directions and interventions across sectors, particularly other social policy areas and within the broad public education sector, will be taken into account.
 
-- Stakeholder impact - the impact of the proposals on relevant stakeholders will be taken into account, including specifically the achievement or participation of disadvantaged or 'at risk' groups of students.
+- Stakeholder impact – the impact of the proposals on relevant stakeholders will be taken into account, including specifically the achievement or participation of disadvantaged or “at risk” groups of students.
 
 - Assumptions/Principles will  be  explicit  and  robust,  with  logical  argument supported by fact.
 
-- Cost implications - costs will be identified, and methods and assumptions for costings will be transparent and robust, with risks explicitly identified.
+- Cost implications – costs will be identified, and methods and assumptions for costings will be transparent and robust, with risks explicitly identified.
 
-- Regulatory impact - the impact of the proposals on efficiency and compliance costs for the sector will be identified.
+- Regulatory impact – the impact of the proposals on efficiency and compliance costs for the sector will be identified.
 
-- Implementation  implications -  the  proposals  will  include  approaches  for addressing any feasibility, timing and change management  issues, and associated legislative implications.
+- Implementation implications – the proposals will include approaches for addressing any feasibility, timing and change management issues, and associated legislative implications.
 
-Consultation -  relevant  Government  agencies  and  other  affected  parties  will  be provided with reasonable opportunities to influence policy advice, and any comments on the analysis, options, or proposals will be taken into account.
+Consultation – relevant Government agencies and other affected parties will be provided with reasonable opportunities to influence policy advice, and any comments on the analysis, options, or proposals will be taken into account.
 
-Timeliness -  Policy  advice  will  be  provided  to  the  Minister  in  sufficient  time  to enable the Minister and/or the Government to make decisions in a timely fashion.
+Timeliness – Policy advice will be provided to the Minister in sufficient time to enable the Minister and/or the Government to make decisions in a timely fashion.
 
 All policy papers, briefings to the Minister, and initial promulgation of Government policy will meet the following presentation standards:
 
-- Written  policy  advice -  will  be  presented  in  accordance  with  the  following standards
+- Written policy advice – will be presented in accordance with the following standards
 
-- o Purpose - the purpose of each policy paper and written briefing will be clearly stated.
+  - Purpose – the purpose of each policy paper and written briefing will be clearly stated.
 
-- o Argument -  each  policy  paper  will  present  the  assumptions  and principles on which it is based, and the evidence on which conclusions and recommendations are based.
+  - Argument – each policy paper will present the assumptions and principles on which it is based, and the evidence on which conclusions and recommendations are based.
 
-- o Recommendations -  all  papers  will include specific recommendations for decision or action.
+  - Recommendations – all papers will include specific recommendations for decision or action.
 
-- Oral  Policy  Advice -  will  be  provided  by  people  with  the  appropriate delegated authority.
+- Oral Policy Advice – will be provided by people with the appropriate delegated authority.
 
-- Initial  Promulgation -  notification  will  be  consistent  with  the  objectives  of those policies.
+- Initial Promulgation – notification will be consistent with the objectives of those policies.
 
 ### B Policy Projects
 
@@ -3648,13 +3712,13 @@ Tonga Ministry of Education
 
 [[START OF PAGE 104]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # Appendix 2: Possible Approaches to Financing
 
 Preliminary analyses strongly indicate that the main constraint facing the Kingdom of Tonga  and  Ministry  of  Education  is  financing  recurrent  costs  associated  with  new policies and investments.  There is a range of instruments that can be used to provide external  assistance  to  delivering  education.  They  overlap  and  are  not  mutually exclusive.    It  is  useful  to  briefly  to  describe  the  main  characteristics  of  different options, their advantages and disadvantages and the conditions under which they may be preferred.
 
-General  budget  support is the preferred option  in terms  of efficiency  (low 'transaction'  costs),  reinforcing  Government  capacity  and  the  rigour  of  existing Government  systems,  and  client  'ownership'  and  control  of  implementation.    The necessary preconditions for this option are:
+General budget support is the preferred option in terms of efficiency (low “transaction” costs), reinforcing Government capacity and the rigour of existing Government systems, and client “ownership” and control of implementation. The necessary preconditions for this option are:
 
 - agreement between Government and partners on social priorities, reflected in budget priorities and allocations, across all sectors and government programmes;
 
@@ -3662,9 +3726,9 @@ General  budget  support is the preferred option  in terms  of efficiency  (low 
 
 - sound and transparent systems of procurement, financial management, auditing, and accountability;
 
-- agreement by the Ministry of  Finance and international organisations (such as the  IMF  and  World  Bank)  on  the  macro-economic  impact  of  budgetary support and the economy's capacity to absorb higher levels of finance; and
+- agreement by the Ministry of Finance and international organisations (such as the IMF and World Bank) on the macro-economic impact of budgetary support and the economy’s capacity to absorb higher levels of finance; and
 
-- a clear and agreed strategy for the staged decline and eventual withdrawal of budget support, based on assumptions about economic growth and the 'downstream'  capacity  of  the  economy  and  Government  to  finance  the  ongoing recurrent costs.
+- a clear and agreed strategy for the staged decline and eventual withdrawal of budget support, based on assumptions about economic growth and the “down-stream” capacity of the economy and Government to finance the ongoing recurrent costs.
 
 When all of the above conditions are in place, and the only constraint is availability of funds,  general  budget  support  is  the  preferred  option.    Moving  to  general  budget support  requires  substantial  analysis  and  dialogue  and  often  involves  a  public expenditure review
 
@@ -3682,9 +3746,9 @@ Tonga Ministry of Education
 
 [[START OF PAGE 105]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-'tranches'  of  donor  funds  are  released.  (This  is  sometimes  referred  to  as 'conditionality');
+“tranches” of donor funds are released. (This is sometimes referred to as “conditionality”);
 
 - the overall programme is clearly linked to agreed objectives such as poverty alleviation,  and  indicators  and  monitoring  systems  are  in  place  to  assess progress in  meeting targets of access, equity and efficiency;
 
@@ -3702,15 +3766,15 @@ Key elements of a SWAp include:
 
 - a holistic view of education and the education sector, including all providers (Government and Non-Government) and the full range of learning experiences, including on-the-job training;
 
-- all costs and finance involved in education including contributions of families and communities and the 'opportunity' cost of students' time;
+- all costs and finance involved in education including contributions of families and communities and the “opportunity” cost of students’ time;
 
-- explicit  examination  of  priorities  and  'trade-offs'  between  education  subsectors and beneficiary groups;
+- explicit examination of priorities and “trade-offs” between education sub-sectors and beneficiary groups;
 
 - a rigorous conceptual model and information system to assess social impacts on access, equity, and efficiency and to monitor progress in reaching agreed goals and objectives.
 
-Ear-marked  sector  support involves  providing  additional  resources  (either  'onbudget' or 'off-budget') to meet a set of agreed objectives in the education sector. This is an appropriate instrument for financing an agreed set of activities to support education, when all of the conditions for budget support cannot be met.
+Ear-marked sector support involves providing additional resources (either “on-budget” or “off-budget”) to meet a set of agreed objectives in the education sector. This is an appropriate instrument for financing an agreed set of activities to support education, when all of the conditions for budget support cannot be met.
 
-Ear-marked sub-sector support involves  providing  additional  resources  to  meet  a set of agreed objectives in a sub-sector of education such as early childhood education or universal primary education.  Funds will be targeted at activities in a specific subsector.  External agencies will have an interest in ensuring that the ear-marked support is additive, and that government resources are not re-directed to other sub-sectors as a consequence of this support.
+Ear-marked sub-sector support involves providing additional resources to meet a set of agreed objectives in a sub-sector of education such as early childhood education or universal primary education. Funds will be targeted at activities in a specific sub-sector. External agencies will have an interest in ensuring that the ear-marked support is additive, and that government resources are not re-directed to other sub-sectors as a consequence of this support.
 
 Tonga Ministry of Education
 
@@ -3720,7 +3784,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 106]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 Government managed programmes are  implemented  when  there  is  agreement  on the need for a set of activities, and the Ministry of Education can demonstrate that it has, or can develop, capacity to implement this programme.  Commonly, this capacity is  developed  by  creating  a  Programme  Implementation  Unit  (PIU)  that  can  meet agreed standards in procurement; financial management; auditing; timely implementation; monitoring; and impact assessment. At the end of the programme the capacity available under the PIU is generally lost.
 
@@ -3740,7 +3804,7 @@ Tonga Ministry of Education
 
 [[START OF PAGE 107]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
 # Appendix 3: Estimated 15 Year Costs By Program, By Sub-Program, & By Activity
 
@@ -3752,18 +3816,104 @@ Tonga Ministry of Education
 
 [[START OF PAGE 108]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-Ministry of Education | 108
---- | ---
+SUB-PROGRAM | COMPONENT | 02/03 | 03/04 | 04/05
+--- | --- | ---: | ---: | ---:
+1 Leadership and Policy Advice |  |  |  | 
+01-02 | CONTINUITY | 414 | 1,022 | 1,022
+03 Policy Dialogue | IMPROVEMENT |  |  | 17
+04 Strengthen Policy, Planning and Evaluation |  |  |  | 264
+05 Capacity Building & Support Services |  |  |  | 117
+06: Strengthen Management and Administration | TRANSFORM |  |  | 23
+07: Transition to Sector Wide Approach (SWAp) |  |  |  | 20
+--> 08: Efficiency Improvements |  |  |  | 0
+09: Information & Communications Technology |  |  |  | 35
+2 Professional Services |  |  |  | 
+01-04 | CONTINUITY | 656 | 721 | 721
+05: Language Policy | IMPROVEMENT |  |  | 320
+06 Curriculum Development & Support | TRANSFORM |  |  | 0
+07 Assessment for Better Learning |  |  |  | 108
+3 Universal Basic Education |  |  |  | 
+01-05 | CONTINUITY | 7,533 | 8,042 | 8,042
+--> 06 Improve Primary Education | IMPROVEMENT |  |  | 39
+--> 07 Extend UBE to 8 Years |  |  |  | 134
+--> 08 Grant System for Forms 1 & 2 |  |  |  | 4
+--> 09 Teacher Upgrading and Conditions of Service |  |  |  | 0
+10 Early Childhood Education (ECE) | TRANSFORM |  |  | 0
+11 Special Education |  |  |  | 0
+4 Secondary |  |  |  | 
+01-10 | CONTINUITY | 4,549 | 4,904 | 4,904
+11 Education After Form 2 - Alternatives | IMPROVEMENT |  |  | 5
+--> 12: Teacher Upgrading and Conditions of Service |  |  |  | 0
+13: Technical and Vocational Training | TRANSFORM |  |  | 78
+14: Self-Managing Schools |  |  |  | 42
+5 Post Secondary & Non-Formal |  |  |  | 
+01-15 | CONTINUITY | 3,254 | 4,399 | 4,399
+16: Improve Teacher Supply | IMPROVEMENT |  |  | 45
+17: Improve Teacher Quality |  |  |  | 0
+--> 18: Skill Development and Lifelong Learning | TRANSFORM |  |  | 6
+--> 19: Reorganisation of Tertiary Education |  |  |  | 34
+6 Youth Development, Sport and Culture |  |  |  | 
+01-03 | CONTINUITY | 129 | 180 | 180
+04 Sports Policy | IMPROVEMENT |  |  | 15
+05 Talent Development in Sport | TRANSFORM |  |  | 5
+TOTAL |  | 16,535 | 19,268 | 20,578
+
+Tonga Ministry of Education
+
+108
 
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
 
-Final Draft Tonga Education Policy Framework - 23 April 2004
+Final Draft Tonga Education Policy Framework – 23 April 2004
 
-Ministry of Education | 109
---- | ---
+SUB-PROGRAM | COMPONENT | 10/11 | 11/12 | 12/13 | 13/14
+--- | --- | ---: | ---: | ---: | ---:
+1 Leadership and Policy Advice |  |  |  |  | 
+01-02 | CONTINUITY | 1,022 | 1,022 | 1,022 | 1,022
+03 Policy Dialogue | IMPROVE | 49 | 49 | 49 | 49
+04 Strengthen Policy, Planning and Evaluation |  | 162 | 162 | 162 | 162
+05 Capacity Building & Support Services |  | 89 | 89 | 89 | 89
+06: Strengthen Management and Administration | TRANSFORM | 200 | 200 | 200 | 200
+07: Transition to Sector Wide Approach (SWAp) |  | 20 | 20 | 20 | 20
+--> 08: Efficiency Improvements |  | 0 | 0 | 0 | 0
+09: Information & Communications Technology |  | 197 | 197 | 197 | 197
+2 Professional Services |  |  |  |  | 
+01-04 | CONTINUITY | 721 | 721 | 721 | 721
+05: Language Policy | IMPROVE | 25 | 25 | 25 | 25
+06 Curriculum Development & Support | TRANSFORM | 648 | 648 | 648 | 648
+07 Assessment for Better Learning |  | 141 | 141 | 141 | 141
+3 Universal Basic Education |  |  |  |  | 
+01-05 | CONTINUITY | 8,042 | 8,042 | 8,042 | 8,042
+--> 06 Improve Primary Education | IMPROVE | 831 | 831 | 831 | 831
+--> 07 Extend UBE to 8 Years |  | 180 | 180 | 180 | 180
+--> 08 Grant System for Forms 1 & 2 |  | 1,286 | 1,286 | 1,286 | 1,286
+--> 09 Teacher Upgrading and Conditions of Service |  | 818 | 871 | 919 | 963
+10 Early Childhood Education (ECE) | TRANSFORM | 122 | 122 | 122 | 122
+11 Special Education |  | 123 | 123 | 123 | 123
+4 Secondary |  |  |  |  | 
+01-10 | CONTINUITY | 4,904 | 4,904 | 4,904 | 4,904
+11 Education After Form 2 - Alternatives | IMPROVE | 148 | 148 | 148 | 148
+--> 12: Teacher Upgrading and Conditions of Service |  | 393 | 418 | 441 | 462
+13: Technical and Vocational Training | TRANSFORM | 271 | 271 | 271 | 271
+14: Self-Managing Schools |  | 71 | 71 | 71 | 71
+5 Post Secondary & Non-Formal |  |  |  |  | 
+01-15 | CONTINUITY | 4,399 | 4,399 | 4,399 | 4,399
+16: Improve Teacher Supply | IMPROVE | 46 | 46 | 46 | 46
+17: Improve Teacher Quality |  | 352 | 352 | 352 | 352
+--> 18: Skill Development and Lifelong Learning | TRANSFORM | 300 | 300 | 300 | 300
+--> 19: Reorganisation of Tertiary Education |  | 300 | 300 | 300 | 300
+6 Youth Development, Sport and Culture |  |  |  |  | 
+01-03 | CONTINUITY | 180 | 180 | 180 | 180
+04 Sports Policy | IMPROVE | 35 | 35 | 35 | 35
+05 Talent Development in Sport | TRANSFORM | 5 | 5 | 5 | 5
+TOTAL |  | 26,079 | 26,158 | 26,229 | 26,294
+
+Tonga Ministry of Education
+
+109
 
 [[END OF PAGE 109]]
