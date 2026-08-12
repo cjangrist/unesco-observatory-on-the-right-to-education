@@ -218,6 +218,8 @@ A República de Moçambique mantém laços especiais de amizade e cooperação c
 
 [[START OF PAGE 8]]
 
+8
+
 - os filhos de pai ou mãe que tenham nascido em Moçambique;
 
 - os filhos de pais apátridas, de nacionalidade desconhecida ou incógnita;
@@ -241,8 +243,6 @@ A República de Moçambique mantém laços especiais de amizade e cooperação c
 #### Artigo 25 (Por maioridade)
 
 São moçambicanos os indivíduos que preenchendo os pressupostos da nacionalidade originária, não a tenham adquirido por virtude de opção dos seus representantes legais, desde que, sendo maiores de dezoito anos de idade e até um ano depois de atingirem a maioridade, declarem, por si, que pretendem ser moçambicanos.
-
-8
 
 [[END OF PAGE 8]]
 
@@ -430,7 +430,7 @@ Todo o cidadão tem o dever de:
 
 #### Artigo 47 (Direitos da criança)
 
-1. As crianças têm direito à protecção e aos cuidados necessários ao seu bemestar.
+1. As crianças têm direito à protecção e aos cuidados necessários ao seu bem-estar.
 
 2. As crianças podem exprimir livremente a sua opinião, nos assuntos que lhes dizem respeito, em função da sua idade e maturidade.
 
@@ -822,9 +822,9 @@ O cidadão tem o direito de não acatar ordens ilegais ou que ofendam os seus di
 
 #### Artigo 88 (Direito à educação)
 
-- Na  República  de  Moçambique  a  educação  constitui  direito  e  dever  de  cada cidadão.
+1. Na República de Moçambique a educação constitui direito e dever de cada cidadão.
 
-- O Estado promove a extensão da educação à formação profissional contínua e a igualdade de acesso de todos os cidadãos ao gozo deste direito.
+2. O Estado promove a extensão da educação à formação profissional contínua e a igualdade de acesso de todos os cidadãos ao gozo deste direito.
 
 #### Artigo 89 (Direito à saúde)
 
@@ -832,19 +832,19 @@ Todos os cidadãos têm o direito à assistência médica e sanitária, nos term
 
 #### Artigo 90 (Direito ao ambiente)
 
-- Todo o cidadão tem o direito de viver num ambiente equilibrado e o dever de o defender.
+1. Todo o cidadão tem o direito de viver num ambiente equilibrado e o dever de o defender.
 
-- O Estado e as autarquias locais, com a colaboração das associações de defesa do ambiente, adoptam políticas de defesa do ambiente e velam pela utilização racional de todos os recursos naturais.
+2. O Estado e as autarquias locais, com a colaboração das associações de defesa do ambiente, adoptam políticas de defesa do ambiente e velam pela utilização racional de todos os recursos naturais.
 
 #### Artigo 91 (Habitação e urbanização)
 
-- Todos os cidadãos têm direito à habitação condigna, sendo dever do Estado, de  acordo  com  o  desenvolvimento  económico  nacional,  criar  as  adequadas condições institucionais, normativas e infra-estruturais.
+1. Todos os cidadãos têm direito à habitação condigna, sendo dever do Estado, de acordo com o desenvolvimento económico nacional, criar as adequadas condições institucionais, normativas e infra-estruturais.
 
-- Incumbe também ao Estado fomentar e apoiar as iniciativas das comunidades locais,  autarquias  locais  e  populações,  estimulando  a  construção  privada  e cooperativa, bem como o acesso à casa própria.
+2. Incumbe também ao Estado fomentar e apoiar as iniciativas das comunidades locais, autarquias locais e populações, estimulando a construção privada e cooperativa, bem como o acesso à casa própria.
 
 #### Artigo 92 (Direito dos consumidores)
 
-- Os consumidores têm direito à qualidade dos bens e serviços consumidos, à formação  e  à  informação,  à  protecção  da  saúde,  da  segurança  dos  seus interesses económicos, bem como à reparação de danos.
+1. Os consumidores têm direito à qualidade dos bens e serviços consumidos, à formação e à informação, à protecção da saúde, da segurança dos seus interesses económicos, bem como à reparação de danos.
 
 [[END OF PAGE 26]]
 
@@ -852,27 +852,27 @@ Todos os cidadãos têm o direito à assistência médica e sanitária, nos term
 
 27
 
-- A publicidade é disciplinada por lei, sendo proibidas as formas de publicidade oculta, indirecta ou enganosa.
+2. A publicidade é disciplinada por lei, sendo proibidas as formas de publicidade oculta, indirecta ou enganosa.
 
-- As associações de consumidores e as cooperativas têm direito, nos termos da lei, ao apoio do Estado e a serem ouvidas sobre as questões que digam respeito à defesa dos consumidores, sendo-lhes reconhecida legitimidade processual para a defesa dos seus associados.
+3. As associações de consumidores e as cooperativas têm direito, nos termos da lei, ao apoio do Estado e a serem ouvidas sobre as questões que digam respeito à defesa dos consumidores, sendo-lhes reconhecida legitimidade processual para a defesa dos seus associados.
 
 #### Artigo 93 (Cultura física e desporto)
 
-- Os cidadãos têm direito à educação física e ao desporto.
+1. Os cidadãos têm direito à educação física e ao desporto.
 
-- O Estado promove, através das instituições desportivas e escolares, a prática e a difusão da educação física e do desporto.
+2. O Estado promove, através das instituições desportivas e escolares, a prática e a difusão da educação física e do desporto.
 
 #### Artigo 94 (Liberdade de criação cultural)
 
-- Todos  os  cidadãos  têm  direito  à  liberdade  de  criação  científica,  técnica, literária e artística.
+1. Todos os cidadãos têm direito à liberdade de criação científica, técnica, literária e artística.
 
-- O Estado protege os direitos inerentes à propriedade intelectual, incluindo os direitos de autor e promove a prática e a difusão das letras e das artes.
+2. O Estado protege os direitos inerentes à propriedade intelectual, incluindo os direitos de autor e promove a prática e a difusão das letras e das artes.
 
 #### Artigo 95 (Direito à assistência na incapacidade e na velhice)
 
-- Todos os cidadãos  têm  direito  à  assistência  em  caso  de  incapacidade  e  na velhice.
+1. Todos os cidadãos têm direito à assistência em caso de incapacidade e na velhice.
 
-- O Estado promove e encoraja a criação de condições para a realização deste direito.
+2. O Estado promove e encoraja a criação de condições para a realização deste direito.
 
 [[END OF PAGE 27]]
 
@@ -886,31 +886,31 @@ Todos os cidadãos têm o direito à assistência médica e sanitária, nos term
 
 #### Artigo 96 (Política económica)
 
-- A política económica do Estado é dirigida à construção das bases fundamentais do desenvolvimento, à melhoria das condições de vida do povo, ao reforço da soberania do Estado e à consolidação da unidade nacional, através da participação  dos  cidadãos,  bem  como  da  utilização  eficiente  dos  recursos humanos e materiais.
+1. A política económica do Estado é dirigida à construção das bases fundamentais do desenvolvimento, à melhoria das condições de vida do povo, ao reforço da soberania do Estado e à consolidação da unidade nacional, através da participação dos cidadãos, bem como da utilização eficiente dos recursos humanos e materiais.
 
-- Sem prejuízo do desenvolvimento equilibrado, o Estado garante a distribuição da riqueza nacional, reconhecendo e valorizando o papel das zonas produtoras.
+2. Sem prejuízo do desenvolvimento equilibrado, o Estado garante a distribuição da riqueza nacional, reconhecendo e valorizando o papel das zonas produtoras.
 
 #### Artigo 97 (Princípios fundamentais)
 
-A  organização  económica  e  social  da  República  de  Moçambique  visam  a satisfação das necessidades essenciais da população e a promoção do bem-estar social e assenta nos seguintes princípios fundamentais:
+A organização económica e social da República de Moçambique visam a satisfação das necessidades essenciais da população e a promoção do bem-estar social e assenta nos seguintes princípios fundamentais:
 
-- na valorização do trabalho;
+a) na valorização do trabalho;
 
-- nas forças do mercado;
+b) nas forças do mercado;
 
-- na iniciativa dos agentes económicos;
+c) na iniciativa dos agentes económicos;
 
-- na coexistência do sector público, do sector privado e do sector cooperativo e social;
+d) na coexistência do sector público, do sector privado e do sector cooperativo e social;
 
-- na propriedade pública dos recursos naturais e de meios de produção, de acordo com o interesse colectivo;
+e) na propriedade pública dos recursos naturais e de meios de produção, de acordo com o interesse colectivo;
 
-- na protecção do sector cooperativo e social;
+f) na protecção do sector cooperativo e social;
 
-- na  acção  do  Estado  como  regulador  e  promotor  do  crescimento  e desenvolvimento económico e social.
+g) na acção do Estado como regulador e promotor do crescimento e desenvolvimento económico e social.
 
 #### Artigo 98 (Propriedade do Estado e domínio público)
 
-- Os recursos naturais situados no solo e no subsolo, nas águas interiores, no mar  territorial,  na  plataforma  continental  e  na  zona  económica  exclusiva  são propriedade do Estado.
+1. Os recursos naturais situados no solo e no subsolo, nas águas interiores, no mar territorial, na plataforma continental e na zona económica exclusiva são propriedade do Estado.
 
 [[END OF PAGE 28]]
 
@@ -918,43 +918,43 @@ A  organização  económica  e  social  da  República  de  Moçambique  visam 
 
 29
 
-- Constituem domínio público do Estado:
+2. Constituem domínio público do Estado:
 
-- a zona marítima;
+a) a zona marítima;
 
-- o espaço aéreo;
+b) o espaço aéreo;
 
-- o património arqueológico;
+c) o património arqueológico;
 
-- as zonas de protecção da natureza;
+d) as zonas de protecção da natureza;
 
-- o potencial  hidráulico;
+e) o potencial hidráulico;
 
-- o potencial energético;
+f) o potencial energético;
 
-- as estradas e linhas férreas;
+g) as estradas e linhas férreas;
 
-- as jazidas minerais;
+h) as jazidas minerais;
 
-- os demais bens como tal classificados por lei.
+i) os demais bens como tal classificados por lei.
 
-- A lei regula o regime jurídico dos bens do domínio público, bem como a sua gestão  e  conservação,  diferenciando  os  que  integram  o  domínio  público  do Estado, o domínio público das autarquias locais e o domínio público comunitário, com respeito pelos princípios da imprescritibilidade e impenhorabilidade.
+3. A lei regula o regime jurídico dos bens do domínio público, bem como a sua gestão e conservação, diferenciando os que integram o domínio público do Estado, o domínio público das autarquias locais e o domínio público comunitário, com respeito pelos princípios da imprescritibilidade e impenhorabilidade.
 
 #### Artigo 99 (Sectores de propriedade dos meios de produção)
 
-- A economia nacional garante a coexistência de três sectores de propriedade dos meios de produção.
+1. A economia nacional garante a coexistência de três sectores de propriedade dos meios de produção.
 
-- O sector público  é  constituído  pelos  meios  de  produção  cuja  propriedade  e gestão pertence ao Estado ou a outras entidades públicas.
+2. O sector público é constituído pelos meios de produção cuja propriedade e gestão pertence ao Estado ou a outras entidades públicas.
 
-- O sector privado é constituído pelos meios de produção cuja propriedade ou gestão  pertence  a  pessoas  singulares  ou  colectivas  privadas,  sem  prejuízo  do disposto no número seguinte.
+3. O sector privado é constituído pelos meios de produção cuja propriedade ou gestão pertence a pessoas singulares ou colectivas privadas, sem prejuízo do disposto no número seguinte.
 
-- O sector cooperativo e social compreende especificamente:
+4. O sector cooperativo e social compreende especificamente:
 
-- os meios de produção comunitários, possuídos e geridos por comunidades locais;
+a) os meios de produção comunitários, possuídos e geridos por comunidades locais;
 
-- os meios de produção destinados à exploração colectiva por trabalhadores;
+b) os meios de produção destinados à exploração colectiva por trabalhadores;
 
-- os  meios  de  produção  possuídos  e  geridos  por  pessoas  colectivas,  sem carácter  lucrativo,  que  tenham  como  principal  objectivo  a  solidariedade social, designadamente entidades de natureza mutualista.
+c) os meios de produção possuídos e geridos por pessoas colectivas, sem carácter lucrativo, que tenham como principal objectivo a solidariedade social, designadamente entidades de natureza mutualista.
 
 [[END OF PAGE 29]]
 
@@ -996,31 +996,31 @@ Na República de Moçambique a indústria é o factor impulsionador da economia 
 
 #### Artigo 105 (Sector familiar)
 
-- Na  satisfação  das  necessidades  essenciais  da  população,  ao  sector  familiar cabe um papel fundamental.
+1. Na satisfação das necessidades essenciais da população, ao sector familiar cabe um papel fundamental.
 
-- O  Estado  incentiva  e  apoia  a  produção  do  sector  familiar  e  encoraja  os camponeses,  bem  como  os  trabalhadores  individuais,  a  organizarem-se  em formas mais avançadas de produção.
+2. O Estado incentiva e apoia a produção do sector familiar e encoraja os camponeses, bem como os trabalhadores individuais, a organizarem-se em formas mais avançadas de produção.
 
 #### Artigo 106 (Produção de pequena escala)
 
-- O  Estado  reconhece  a  contribuição  da  produção  de  pequena  escala  para  a economia nacional e apoia o seu desenvolvimento como forma de valorizar as capacidades e a criatividade do povo.
+O Estado reconhece a contribuição da produção de pequena escala para a economia nacional e apoia o seu desenvolvimento como forma de valorizar as capacidades e a criatividade do povo.
 
 #### Artigo 107 (Empresariado nacional)
 
-- O Estado promove e apoia a participação activa do empresariado nacional no quadro do desenvolvimento e da consolidação da economia do país.
+1. O Estado promove e apoia a participação activa do empresariado nacional no quadro do desenvolvimento e da consolidação da economia do país.
 
-- O  Estado  cria  os  incentivos  destinados  a  proporcionar  o  crescimento  do empresariado nacional em todo o país, em especial nas zonas rurais.
+2. O Estado cria os incentivos destinados a proporcionar o crescimento do empresariado nacional em todo o país, em especial nas zonas rurais.
 
 #### Artigo 108 (Investimento estrangeiro)
 
-- O Estado garante o investimento estrangeiro, o qual opera no quadro da sua política económica.
+1. O Estado garante o investimento estrangeiro, o qual opera no quadro da sua política económica.
 
-- Os  empreendimentos  estrangeiros  são  autorizados  em  todo  o  território nacional  e  em  todos  os  sectores  económicos,  excepto  naqueles  que  estejam reservados à propriedade ou exploração exclusiva do Estado.
+2. Os empreendimentos estrangeiros são autorizados em todo o território nacional e em todos os sectores económicos, excepto naqueles que estejam reservados à propriedade ou exploração exclusiva do Estado.
 
 #### Artigo 109 (Terra)
 
-- A terra é propriedade do Estado.
+1. A terra é propriedade do Estado.
 
-- A  terra  não  deve  ser  vendida,  ou  por  qualquer  outra  forma  alienada,  nem hipotecada ou penhorada.
+2. A terra não deve ser vendida, ou por qualquer outra forma alienada, nem hipotecada ou penhorada.
 
 [[END OF PAGE 31]]
 
@@ -1028,13 +1028,13 @@ Na República de Moçambique a indústria é o factor impulsionador da economia 
 
 32
 
-- Como meio universal de criação da riqueza e do bem-estar social,  o  uso  e aproveitamento da terra é direito de todo o povo moçambicano.
+3. Como meio universal de criação da riqueza e do bem-estar social, o uso e aproveitamento da terra é direito de todo o povo moçambicano.
 
 #### Artigo 110 (Uso e aproveitamento da terra)
 
-- O Estado determina as condições de uso e aproveitamento da terra.
+1. O Estado determina as condições de uso e aproveitamento da terra.
 
-- O direito de uso e aproveitamento da terra é conferido às pessoas singulares ou colectivas tendo em conta o seu fim social ou económico.
+2. O direito de uso e aproveitamento da terra é conferido às pessoas singulares ou colectivas tendo em conta o seu fim social ou económico.
 
 #### Artigo 111 (Direitos adquiridos por herança ou ocupação da terra)
 
@@ -1044,21 +1044,21 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 #### Artigo 112 (Trabalho)
 
-- O trabalho é a força motriz do desenvolvimento e é dignificado e protegido.
+1. O trabalho é a força motriz do desenvolvimento e é dignificado e protegido.
 
-- O Estado propugna a justa repartição dos rendimentos do trabalho.
+2. O Estado propugna a justa repartição dos rendimentos do trabalho.
 
-- O Estado defende que a trabalho igual deve corresponder salário igual.
+3. O Estado defende que a trabalho igual deve corresponder salário igual.
 
 #### Artigo 113 (Educação)
 
-- A República de Moçambique promove uma estratégia de educação visando a unidade  nacional,  a  erradicação  do  analfabetismo,  o  domínio  da  ciência  e  da técnica, bem como a formação moral e cívica dos cidadãos.
+1. A República de Moçambique promove uma estratégia de educação visando a unidade nacional, a erradicação do analfabetismo, o domínio da ciência e da técnica, bem como a formação moral e cívica dos cidadãos.
 
-- O Estado organiza e desenvolve a educação através de um sistema nacional de educação.
+2. O Estado organiza e desenvolve a educação através de um sistema nacional de educação.
 
-- O ensino público não é confessional.
+3. O ensino público não é confessional.
 
-- O  ensino  ministrado  pelas  colectividades  e  outras  entidades  privadas  é exercido nos termos da lei e sujeito ao controlo do Estado.
+4. O ensino ministrado pelas colectividades e outras entidades privadas é exercido nos termos da lei e sujeito ao controlo do Estado.
 
 [[END OF PAGE 32]]
 
@@ -1098,31 +1098,31 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 34
 
-5. Compete  ao Estado promover, disciplinar e controlar a produção, a comercialização e o uso de produtos químicos, biológicos, farmacêuticos e outros meios de tratamento e de diagnóstico.
+5. Compete ao Estado promover, disciplinar e controlar a produção, a comercialização e o uso de produtos químicos, biológicos, farmacêuticos e outros meios de tratamento e de diagnóstico.
 
-6. A actividade da assistência médica e sanitária ministrada pelas colectividades e  entidades  privadas  é  exercida  nos  termos  da  lei  e  sujeita  ao  controlo  do Estado.
+6. A actividade da assistência médica e sanitária ministrada pelas colectividades e entidades privadas é exercida nos termos da lei e sujeita ao controlo do Estado.
 
 #### Artigo 117 (Ambiente e qualidade de vida)
 
-1. O  Estado  promove  iniciativas  para  garantir  o  equilíbrio  ecológico  e a conservação e preservação do ambiente visando a melhoria da qualidade de vida dos cidadãos.
+1. O Estado promove iniciativas para garantir o equilíbrio ecológico e a conservação e preservação do ambiente visando a melhoria da qualidade de vida dos cidadãos.
 
-2. Com  o fim de garantir o direito ao ambiente no quadro de um desenvolvimento sustentável, o Estado adopta políticas visando:
+2. Com o fim de garantir o direito ao ambiente no quadro de um desenvolvimento sustentável, o Estado adopta políticas visando:
 
-- prevenir e controlar a poluição e a erosão;
+a) prevenir e controlar a poluição e a erosão;
 
-- integrar os objectivos ambientais nas políticas sectoriais ;
+b) integrar os objectivos ambientais nas políticas sectoriais;
 
-- promover a integração dos valores do ambiente  nas políticas e programas educacionais;
+c) promover a integração dos valores do ambiente nas políticas e programas educacionais;
 
-- garantir o aproveitamento racional dos recursos naturais com salvaguarda da sua  capacidade de renovação, da estabilidade ecológica e dos direitos das gerações vindouras;
+d) garantir o aproveitamento racional dos recursos naturais com salvaguarda da sua capacidade de renovação, da estabilidade ecológica e dos direitos das gerações vindouras;
 
-- promover  o  ordenamento  do  território    com  vista  a  uma  correcta localização    das  actividades  e  a  um  desenvolvimento    sócio-  económico equilibrado.
+e) promover o ordenamento do território com vista a uma correcta localização das actividades e a um desenvolvimento sócio- económico equilibrado.
 
 #### Artigo 118 (Autoridade tradicional)
 
-1. O  Estado  reconhece  e  valoriza  a  autoridade  tradicional  legitimada  pelas populações e segundo o direito consuetudinário.
+1. O Estado reconhece e valoriza a autoridade tradicional legitimada pelas populações e segundo o direito consuetudinário.
 
-2. O Estado define  o  relacionamento  da  autoridade  tradicional  com  as  demais instituições e enquadra a sua participação na vida económica, social e cultural do país, nos termos da lei.
+2. O Estado define o relacionamento da autoridade tradicional com as demais instituições e enquadra a sua participação na vida económica, social e cultural do país, nos termos da lei.
 
 [[END OF PAGE 34]]
 
@@ -1132,31 +1132,31 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 #### Artigo 119 (Família)
 
-- A família é o elemento fundamental e a base de toda a sociedade.
+1. A família é o elemento fundamental e a base de toda a sociedade.
 
-- O  Estado  reconhece  e  protege,  nos  termos  da  lei,  o  casamento  como instituição que garante a prossecução dos objectivos da família.
+2. O Estado reconhece e protege, nos termos da lei, o casamento como instituição que garante a prossecução dos objectivos da família.
 
-- No quadro do desenvolvimento de relações sociais assentes no respeito pela dignidade da pessoa humana, o Estado consagra o princípio de que o casamento se baseia no livre consentimento.
+3. No quadro do desenvolvimento de relações sociais assentes no respeito pela dignidade da pessoa humana, o Estado consagra o princípio de que o casamento se baseia no livre consentimento.
 
-- A lei estabelece as formas de valorização do casamento tradicional e religioso, define os requisitos do seu registo e fixa os seus efeitos.
+4. A lei estabelece as formas de valorização do casamento tradicional e religioso, define os requisitos do seu registo e fixa os seus efeitos.
 
 #### Artigo 120 (Maternidade e paternidade)
 
-- A maternidade e a paternidade são dignificadas e protegidas.
+1. A maternidade e a paternidade são dignificadas e protegidas.
 
-- A família é responsável pelo crescimento harmonioso da criança e educa as novas gerações nos valores morais, éticos e sociais.
+2. A família é responsável pelo crescimento harmonioso da criança e educa as novas gerações nos valores morais, éticos e sociais.
 
-- A  família  e  o  Estado  asseguram  a  educação  da  criança,  formando-a  nos valores  da  unidade  nacional,  no  amor  à  pátria,  igualdade  entre  homens  e mulheres, respeito e solidariedade social.
+3. A família e o Estado asseguram a educação da criança, formando-a nos valores da unidade nacional, no amor à pátria, igualdade entre homens e mulheres, respeito e solidariedade social.
 
-- Os pais e as mães devem prestar assistência aos filhos nascidos dentro e fora do casamento.
+4. Os pais e as mães devem prestar assistência aos filhos nascidos dentro e fora do casamento.
 
 #### Artigo 121 (Infância)
 
-- Todas  as  crianças  têm  direito  à  protecção  da  família,  da  sociedade  e  do Estado, tendo em vista o seu desenvolvimento integral.
+1. Todas as crianças têm direito à protecção da família, da sociedade e do Estado, tendo em vista o seu desenvolvimento integral.
 
-- As  crianças,  particularmente  as  órfãs,  as  portadoras  de  deficiência  e  as abandonadas,  têm  protecção  da  família,  da  sociedade  e  do  Estado  contra qualquer forma de discriminação, de maus tratos e contra o exercício abusivo da autoridade na família e nas demais instituições.
+2. As crianças, particularmente as órfãs, as portadoras de deficiência e as abandonadas, têm protecção da família, da sociedade e do Estado contra qualquer forma de discriminação, de maus tratos e contra o exercício abusivo da autoridade na família e nas demais instituições.
 
-- A  criança  não  pode  ser  discriminada,  designadamente,  em  razão  do  seu nascimento, nem sujeita a maus tratos.
+3. A criança não pode ser discriminada, designadamente, em razão do seu nascimento, nem sujeita a maus tratos.
 
 [[END OF PAGE 35]]
 
@@ -1194,7 +1194,7 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 37
 
-2. O  Estado  promove  uma  política  de  terceira  idade  que  integra  acções  de carácter  económico, social e cultural, com vista à criação de oportunidades de realização pessoal através do seu envolvimento na vida da comunidade.
+2. O Estado promove uma política de terceira idade que integra acções de carácter económico, social e cultural, com vista à criação de oportunidades de realização pessoal através do seu envolvimento na vida da comunidade.
 
 #### Artigo 125 (Portadores de deficiência)
 
@@ -1202,25 +1202,25 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 2. O Estado promove a criação de condições para a aprendizagem e desenvolvimento da língua de sinais.
 
-3. O  Estado  promove  a  criação  de  condições  necessárias  para  a  integração económica e social dos cidadãos portadores de deficiência.
+3. O Estado promove a criação de condições necessárias para a integração económica e social dos cidadãos portadores de deficiência.
 
-4. O  Estado  promove,  em  cooperação  com  as  associações  de  portadores  de deficiência e entidades privadas, uma política que garanta:
+4. O Estado promove, em cooperação com as associações de portadores de deficiência e entidades privadas, uma política que garanta:
 
-- a reabilitação e integração dos portadores de deficiência;
+a) a reabilitação e integração dos portadores de deficiência;
 
-- a  criação  de  condições  tendentes    a  evitar  o  seu  isolamento  e  a marginalização social;
+b) a criação de condições tendentes a evitar o seu isolamento e a marginalização social;
 
-- a  prioridade  de  atendimento  dos  cidadãos    portadores  de  deficiência pelos serviços públicos e privados;
+c) a prioridade de atendimento dos cidadãos portadores de deficiência pelos serviços públicos e privados;
 
-- a facilidade de acesso a locais públicos.
+d) a facilidade de acesso a locais públicos.
 
-- O Estado encoraja a criação de associações de portadores de deficiência.
+5. O Estado encoraja a criação de associações de portadores de deficiência.
 
 ### CAPÍTULO IV SISTEMA FINANCEIRO E FISCAL
 
 #### Artigo 126 (Sistema financeiro)
 
-O sistema financeiro é organizado de forma a garantir a formação, a captação e a  segurança  das  poupanças,  bem  como  a  aplicação  dos  meios  financeiros necessários ao desenvolvimento económico e social do país.
+O sistema financeiro é organizado de forma a garantir a formação, a captação e a segurança das poupanças, bem como a aplicação dos meios financeiros necessários ao desenvolvimento económico e social do país.
 
 [[END OF PAGE 37]]
 
@@ -1230,29 +1230,29 @@ O sistema financeiro é organizado de forma a garantir a formação, a captaçã
 
 #### Artigo 127 (Sistema fiscal)
 
-- O  sistema  fiscal  é  estruturado  com  vista  a  satisfazer  as  necessidades financeiras do Estado e das demais entidades públicas, realizar os objectivos da política económica do Estado e garantir uma justa repartição dos rendimentos e da riqueza.
+1. O sistema fiscal é estruturado com vista a satisfazer as necessidades financeiras do Estado e das demais entidades públicas, realizar os objectivos da política económica do Estado e garantir uma justa repartição dos rendimentos e da riqueza.
 
-- Os impostos são criados ou alterados por lei, que determina a incidência, a taxa, os benefícios fiscais e as garantias dos contribuintes.
+2. Os impostos são criados ou alterados por lei, que determina a incidência, a taxa, os benefícios fiscais e as garantias dos contribuintes.
 
-- Ninguém pode ser obrigado a pagar impostos que não tenham sido criados nos  termos  da  Constituição  e  cuja  liquidação  e  cobrança  não  se  façam  nos termos da lei.
+3. Ninguém pode ser obrigado a pagar impostos que não tenham sido criados nos termos da Constituição e cuja liquidação e cobrança não se façam nos termos da lei.
 
-- No mesmo exercício financeiro, não pode ser alargada a base de incidência nem agravadas as taxas de impostos.
+4. No mesmo exercício financeiro, não pode ser alargada a base de incidência nem agravadas as taxas de impostos.
 
-- A lei fiscal não tem efeito retroactivo, salvo se for de conteúdo mais favorável ao contribuinte.
+5. A lei fiscal não tem efeito retroactivo, salvo se for de conteúdo mais favorável ao contribuinte.
 
 #### Artigo 128 (Plano Económico e Social)
 
-- O Plano Económico e Social tem como objectivo orientar o desenvolvimento económico  e  social  no  sentido  de  um  crescimento  sustentável,  reduzir  os desequilíbrios regionais e eliminar progressivamente as diferenças económicas e sociais entre a cidade e o campo.
+1. O Plano Económico e Social tem como objectivo orientar o desenvolvimento económico e social no sentido de um crescimento sustentável, reduzir os desequilíbrios regionais e eliminar progressivamente as diferenças económicas e sociais entre a cidade e o campo.
 
-- O Plano Económico e Social tem a sua expressão financeira no Orçamento do Estado.
+2. O Plano Económico e Social tem a sua expressão financeira no Orçamento do Estado.
 
-- A  proposta  do  Plano  Económico  e  Social  é  submetida  a  Assembleia  da República  acompanhada  de  relatórios  sobre  as  grandes  opções  globais  e sectoriais, incluindo a respectiva fundamentação.
+3. A proposta do Plano Económico e Social é submetida a Assembleia da República acompanhada de relatórios sobre as grandes opções globais e sectoriais, incluindo a respectiva fundamentação.
 
 #### Artigo 129 (Elaboração e execução do Plano Económico e Social)
 
-- O Plano Económico e Social é elaborado pelo Governo, tendo como base o seu programa quinquenal.
+1. O Plano Económico e Social é elaborado pelo Governo, tendo como base o seu programa quinquenal.
 
-- A  proposta  do  Plano  Económico  e  Social  é  submetida  à  Assembleia  da República  e  deve  conter  a  previsão  dos  agregados  macro-económicos  e  as
+2. A proposta do Plano Económico e Social é submetida à Assembleia da República e deve conter a previsão dos agregados macro-económicos e as
 
 [[END OF PAGE 38]]
 
@@ -1304,21 +1304,17 @@ Os órgãos de soberania assentam nos princípios de separação e interdependê
 
 #### Artigo 135 (Princípios gerais do sistema eleitoral)
 
-- O  sufrágio  universal,  directo,  igual,  secreto,  pessoal  e  periódico  constitui  a
+1. O sufrágio universal, directo, igual, secreto, pessoal e periódico constitui a regra geral de designação dos titulares dos órgãos electivos de soberania, das províncias e do poder local.
 
-- regra geral de designação dos titulares dos órgãos electivos de soberania, das províncias e do poder local.
+2. O apuramento dos resultados das eleições obedece ao sistema de representação proporcional.
 
-- O apuramento dos resultados das eleições obedece ao sistema de
+3. A supervisão do recenseamento e dos actos eleitorais cabe à Comissão Nacional de Eleições, órgão independente e imparcial, cuja composição, organização, funcionamento e competências são fixados por lei.
 
-- representação proporcional.
-
-- A  supervisão  do  recenseamento  e  dos  actos  eleitorais  cabe  à  Comissão Nacional de Eleições, órgão independente e imparcial, cuja composição, organização, funcionamento e competências são fixados por lei.
-
-- O processo eleitoral é regulado por lei.
+4. O processo eleitoral é regulado por lei.
 
 #### Artigo 136 (Referendo)
 
-- Os  cidadãos  eleitores  recenseados  no  território  nacional  e  os  cidadãos residentes  no  estrangeiro  regularmente  recenseados  podem  ser  chamados  a pronunciar-se em referendo sobre questões de relevante interesse nacional.
+1. Os cidadãos eleitores recenseados no território nacional e os cidadãos residentes no estrangeiro regularmente recenseados podem ser chamados a pronunciar-se em referendo sobre questões de relevante interesse nacional.
 
 [[END OF PAGE 40]]
 
@@ -1326,31 +1322,29 @@ Os órgãos de soberania assentam nos princípios de separação e interdependê
 
 41
 
-2. O  referendo  é  decidido  pelo  Presidente  da  República  sob  proposta  da Assembleia da República, aprovada pela maioria absoluta dos seus membros e por iniciativa de pelo menos um terço dos deputados.
+2. O referendo é decidido pelo Presidente da República sob proposta da Assembleia da República, aprovada pela maioria absoluta dos seus membros e por iniciativa de pelo menos um terço dos deputados.
 
-3.
+3. Não podem ser sujeitas a referendo:
 
-Não podem ser sujeitas a referendo:
+a) as alterações à Constituição, salvo quanto às matérias constantes do n.º 1 do artigo 292;
 
-- as alterações  à Constituição, salvo quanto às matérias constantes do n.º 1 do artigo 292;
-
-- as  matérias referidas no n.º 2 do artigo 179.
+b) as matérias referidas no n.º 2 do artigo 179.
 
 4. Se as matérias referidas no n.º 2 do artigo 179 forem objecto de convenção internacional podem ser submetidas a referendo, salvo se forem relativas à paz e à rectificação de fronteiras.
 
 5. Entre a data da convocação e da realização de eleições gerais para os órgãos de soberania não se pode convocar nem efectivar referendos.
 
-6. O referendo só é considerado válido e vinculativo  se  nele  votarem  mais  de metade dos eleitores inscritos no recenseamento.
+6. O referendo só é considerado válido e vinculativo se nele votarem mais de metade dos eleitores inscritos no recenseamento.
 
 7. Além das pertinentes disposições da lei eleitoral, vigente no momento da sua realização, lei própria determina as condições de formulação e de efectivação de referendos.
 
 #### Artigo 137 (Incompatibilidade)
 
-1. Os cargos de Presidente da República, Presidente da Assembleia da República, Primeiro-Ministro,  Presidente  do  Tribunal  Supremo,  Presidente  do  Conselho Constitucional, Presidente do Tribunal Administrativo, Procurador-Geral da República,  Provedor  de  Justiça,  Vice-Presidente  do  Tribunal  Supremo,  ViceProcurador-Geral  da  República,  Deputado,  Vice-Ministro,  Secretário  de  Estado, Governador Provincial, Administrador Distrital e Militar no activo são incompatíveis entre si.
+1. Os cargos de Presidente da República, Presidente da Assembleia da República, Primeiro-Ministro, Presidente do Tribunal Supremo, Presidente do Conselho Constitucional, Presidente do Tribunal Administrativo, Procurador-Geral da República, Provedor de Justiça, Vice-Presidente do Tribunal Supremo, Vice-Procurador-Geral da República, Deputado, Vice-Ministro, Secretário de Estado, Governador Provincial, Administrador Distrital e Militar no activo são incompatíveis entre si.
 
 2. A qualidade de membro do Governo é igualmente incompatível com os cargos referidos no número anterior, exceptuando-se o de Presidente da República e o de Primeiro-Ministro.
 
-3. A  lei  define  outras  incompatibilidades,  incluindo  entre  os  cargos  públicos  e funções privadas.
+3. A lei define outras incompatibilidades, incluindo entre os cargos públicos e funções privadas.
 
 [[END OF PAGE 41]]
 
@@ -1358,33 +1352,31 @@ Não podem ser sujeitas a referendo:
 
 42
 
-1.
-
 #### Artigo 138 (Órgãos centrais)
 
 São órgãos centrais do Estado os órgãos de soberania, o conjunto dos órgãos governativos e as instituições a quem cabem garantir a prevalência do interesse nacional e a realização da política unitária do Estado.
 
 #### Artigo 139 (Atribuições dos órgãos centrais)
 
-1. Aos  órgãos  centrais  compete,  de  forma  geral,  as  atribuições  relativas  ao exercício da soberania, a normação das matérias do âmbito da lei e a definição de políticas nacionais.
+1. Aos órgãos centrais compete, de forma geral, as atribuições relativas ao exercício da soberania, a normação das matérias do âmbito da lei e a definição de políticas nacionais.
 
-2. São  da  exclusiva  competência  dos  órgãos  centrais,  nomeadamente,  a representação  do  Estado,  a  definição  e  organização  do  território,  a  defesa nacional, a ordem pública, a fiscalização das fronteiras, a emissão da moeda e as relações diplomáticas.
+2. São da exclusiva competência dos órgãos centrais, nomeadamente, a representação do Estado, a definição e organização do território, a defesa nacional, a ordem pública, a fiscalização das fronteiras, a emissão da moeda e as relações diplomáticas.
 
 #### Artigo 140 (Dirigentes e agentes dos órgãos centrais)
 
 1. Os órgãos centrais exercem a sua acção directamente ou por intermédio de dirigentes ou agentes da administração nomeados que supervisam as actividades centrais realizadas em determinada área territorial.
 
-2. A lei determina  a  forma,  organização  e  competências  no  âmbito  da Administração Pública.
+2. A lei determina a forma, organização e competências no âmbito da Administração Pública.
 
 #### Artigo 141 (Governos provinciais)
 
-O representante do Governo a nível da Província é o Governador Provincial.
+1. O representante do Governo a nível da Província é o Governador Provincial.
 
 2. O Governo Provincial é o órgão encarregue de garantir a execução, ao nível da Província, da política governamental e exerce a tutela administrativa sobre as autarquias locais, nos termos da lei.
 
-3. Os  membros  do  Governo  Provincial  são  nomeados  pelos  ministros  das respectivas pastas, ouvido o Governador Provincial.
+3. Os membros do Governo Provincial são nomeados pelos ministros das respectivas pastas, ouvido o Governador Provincial.
 
-4. A  organização,  composição,  funcionamento  e  competência  do  Governo Provincial são definidos por lei.
+4. A organização, composição, funcionamento e competência do Governo Provincial são definidos por lei.
 
 [[END OF PAGE 42]]
 
@@ -1394,29 +1386,35 @@ O representante do Governo a nível da Província é o Governador Provincial.
 
 #### Artigo 142 (Assembleias provinciais)
 
-1. As assembleias provinciais são órgãos de representação democrática, eleitas por sufrágio universal, directo, igual, secreto e periódico e de harmonia com o princípio  de  representação proporcional, cujo mandato tem a duração de cinco anos;
+1. As assembleias provinciais são órgãos de representação democrática, eleitas por sufrágio universal, directo, igual, secreto e periódico e de harmonia com o princípio de representação proporcional, cujo mandato tem a duração de cinco anos;
 
-- Às assembleias provinciais compete, nomeadamente:
+2. Às assembleias provinciais compete, nomeadamente:
 
-- fiscalizar e controlar a observância dos princípios e normas estabelecidas na  Constituição  e  nas  leis,  bem  como  das  decisões  do  Conselho  de Ministros referentes a respectiva província;
+a) fiscalizar e controlar a observância dos princípios e normas estabelecidas na Constituição e nas leis, bem como das decisões do Conselho de Ministros referentes a respectiva província;
 
-- aprovar  o  programa  do  Governo  Provincial,  fiscalizar  e  controlar  o  seu cumprimento.
+b) aprovar o programa do Governo Provincial, fiscalizar e controlar o seu cumprimento.
 
-3. A  composição,  organização,  funcionamento  e  demais  competências  são fixadas por lei.
+3. A composição, organização, funcionamento e demais competências são fixadas por lei.
 
 #### Artigo 143 (Actos normativos)
 
-- São actos legislativos as leis e os decretos-leis. 2. Os  actos  da  Assembleia  da  República  revestem  a  forma  de  leis,  moções  e resoluções. 3. Os decretos-leis são actos legislativos, aprovados pelo Conselho de Ministros, mediante autorização da Assembleia da República. 4. Os  actos  regulamentares  do  Governo  revestem  a  forma  de  decreto,  quer quando  determinados  por  lei  regulamentar,  quer  no  caso  de  regulamentos autónomos. 5. Os  actos  do  Governador  do  Banco  de  Moçambique,  no  exercício  das  suas
+1. São actos legislativos as leis e os decretos-leis.
 
-- competências, revestem a forma de aviso.
+2. Os actos da Assembleia da República revestem a forma de leis, moções e resoluções.
+
+3. Os decretos-leis são actos legislativos, aprovados pelo Conselho de Ministros, mediante autorização da Assembleia da República.
+
+4. Os actos regulamentares do Governo revestem a forma de decreto, quer quando determinados por lei regulamentar, quer no caso de regulamentos autónomos.
+
+5. Os actos do Governador do Banco de Moçambique, no exercício das suas competências, revestem a forma de aviso.
 
 #### Artigo 144 (Publicidade)
 
-- São publicados no Boletim da República, sob pena de ineficácia jurídica:
+1. São publicados no Boletim da República, sob pena de ineficácia jurídica:
 
-- as leis, as moções e as resoluções da Assembleia da República;
+a) as leis, as moções e as resoluções da Assembleia da República;
 
-- os decretos do Presidente da República;
+b) os decretos do Presidente da República;
 
 [[END OF PAGE 43]]
 
@@ -1424,21 +1422,21 @@ O representante do Governo a nível da Província é o Governador Provincial.
 
 44
 
-- os  decretos-leis,  os  decretos,    as  resoluções  e  os  demais  diplomas emanados do Governo;
+c) os decretos-leis, os decretos, as resoluções e os demais diplomas emanados do Governo;
 
-- os assentos do Tribunal Supremo, os acórdãos do Conselho Constitucional, bem como as demais decisões dos outros tribunais a que a lei confira força obrigatória geral;
+d) os assentos do Tribunal Supremo, os acórdãos do Conselho Constitucional, bem como as demais decisões dos outros tribunais a que a lei confira força obrigatória geral;
 
-- os acórdãos sobre os resultados de eleições e referendos nacionais;
+e) os acórdãos sobre os resultados de eleições e referendos nacionais;
 
-- as resoluções de ratificação dos tratados e acordos internacionais;
+f) as resoluções de ratificação dos tratados e acordos internacionais;
 
-- os avisos do Governador do Banco de Moçambique.
+g) os avisos do Governador do Banco de Moçambique.
 
-2. A  lei  define  os  termos  da  publicidade  a  conferir  a  outros  actos  jurídicos públicos.
+2. A lei define os termos da publicidade a conferir a outros actos jurídicos públicos.
 
 #### Artigo 145 (Representação dos órgãos centrais)
 
-Os  órgãos  centrais  do  Estado  asseguram  a  sua  representação  nos  diversos escalões territoriais.
+Os órgãos centrais do Estado asseguram a sua representação nos diversos escalões territoriais.
 
 ## TÍTULO VI PRESIDENTE DA REPÚBLICA
 
@@ -1448,13 +1446,15 @@ Os  órgãos  centrais  do  Estado  asseguram  a  sua  representação  nos  div
 
 1. O Presidente da República é o Chefe do Estado, simboliza a unidade nacional, representa a Nação no plano interno e internacional e zela pelo funcionamento correcto dos órgãos do Estado.
 
-2. O Chefe do Estado é o garante da Constituição. 3. O Presidente da República é o Chefe do Governo. 4. O  Presidente  da  República  é  o  Comandante-Chefe  das  Forças  de  Defesa  e
+2. O Chefe do Estado é o garante da Constituição.
+
+3. O Presidente da República é o Chefe do Governo.
+
+4. O Presidente da República é o Comandante-Chefe das Forças de Defesa e Segurança.
 
 #### Artigo 147 (Elegibilidade)
 
-1. O  Presidente  da  República  é  eleito  por  sufrágio  universal  directo,  igual, secreto, pessoal e periódico.
-
-Segurança.
+1. O Presidente da República é eleito por sufrágio universal directo, igual, secreto, pessoal e periódico.
 
 [[END OF PAGE 44]]
 
@@ -1462,35 +1462,35 @@ Segurança.
 
 45
 
-- Podem ser candidatos a Presidente da República os cidadãos moçambicanos que cumulativamente:
+2. Podem ser candidatos a Presidente da República os cidadãos moçambicanos que cumulativamente:
 
-- tenham a nacionalidade originária e não possuam outra nacionalidade;
+a) tenham a nacionalidade originária e não possuam outra nacionalidade;
 
-- possuam a idade mínima de trinta e cinco anos;
+b) possuam a idade mínima de trinta e cinco anos;
 
-- estejam no pleno gozo dos direitos civis  e políticos;
+c) estejam no pleno gozo dos direitos civis e políticos;
 
-- tenham sido propostos por um mínimo de dez mil eleitores.
+d) tenham sido propostos por um mínimo de dez mil eleitores.
 
-- O mandato do Presidente da República é de cinco anos.
+3. O mandato do Presidente da República é de cinco anos.
 
-- O Presidente da República só pode ser reeleito uma vez.
+4. O Presidente da República só pode ser reeleito uma vez.
 
-- O Presidente da República que tenha sido eleito duas vezes consecutivas só pode candidatar-se a eleições presidenciais cinco anos após o último mandato.
+5. O Presidente da República que tenha sido eleito duas vezes consecutivas só pode candidatar-se a eleições presidenciais cinco anos após o último mandato.
 
 #### Artigo 148 (Eleição)
 
-- É eleito Presidente da República o candidato que reuna mais de metade dos votos expressos.
+1. É eleito Presidente da República o candidato que reuna mais de metade dos votos expressos.
 
-- Em caso de nenhum dos candidatos obter a maioria absoluta há uma segunda volta, na qual participam os dois candidatos mais votados.
+2. Em caso de nenhum dos candidatos obter a maioria absoluta há uma segunda volta, na qual participam os dois candidatos mais votados.
 
 #### Artigo 149 (Incompatibilidade)
 
-- O Presidente da República não pode, salvo nos casos expressamente previstos na  Constituição,  exercer  qualquer  outra  função  pública  e,  em  caso  algum, desempenhar quaisquer funções privadas.
+O Presidente da República não pode, salvo nos casos expressamente previstos na Constituição, exercer qualquer outra função pública e, em caso algum, desempenhar quaisquer funções privadas.
 
 #### Artigo 150 (Investidura e juramento)
 
-- O Presidente da República é investido no cargo pelo Presidente do Conselho Constitucional  em  acto  público  e  perante  os  deputados  da  Assembleia  da República e demais representantes dos órgãos de soberania.
+1. O Presidente da República é investido no cargo pelo Presidente do Conselho Constitucional em acto público e perante os deputados da Assembleia da República e demais representantes dos órgãos de soberania.
 
 [[END OF PAGE 45]]
 
@@ -1498,33 +1498,33 @@ Segurança.
 
 46
 
-- No  momento  da  investidura,  o  Presidente  da  República  eleito  presta  o seguinte juramento:
+2. No momento da investidura, o Presidente da República eleito presta o seguinte juramento:
 
-Juro, por minha honra, respeitar e fazer respeitar a Constituição, desempenhar com  fidelidade  o  cargo  de  Presidente  da  República  de  Moçambique,  dedicar todas  as  minhas  energias  à  defesa,  promoção  e  consolidação  da  unidade nacional,  dos  direitos  humanos,  da  democracia  e  ao  bem-estar  do  povo moçambicano e fazer justiça a todos os cidadãos .
+Juro, por minha honra, respeitar e fazer respeitar a Constituição, desempenhar com fidelidade o cargo de Presidente da República de Moçambique, dedicar todas as minhas energias à defesa, promoção e consolidação da unidade nacional, dos direitos humanos, da democracia e ao bem-estar do povo moçambicano e fazer justiça a todos os cidadãos.
 
 #### Artigo 151 (Impedimento e ausência)
 
-- Em caso de impedimento ou ausência do país, o Presidente da República é substituído  pelo  Presidente  da  Assembleia  da  República  ou,  no  impedimento deste, pelo seu substituto.
+1. Em caso de impedimento ou ausência do país, o Presidente da República é substituído pelo Presidente da Assembleia da República ou, no impedimento deste, pelo seu substituto.
 
-- É  vedada  a  ausência  simultânea  do  país  do  Chefe  do  Estado  e  do  seu substituto constitucional.
+2. É vedada a ausência simultânea do país do Chefe do Estado e do seu substituto constitucional.
 
-- Os impedimentos ou ausências do Presidente da República são de imediato notificados à Assembleia da República, ao Conselho Constitucional e ao Governo.
+3. Os impedimentos ou ausências do Presidente da República são de imediato notificados à Assembleia da República, ao Conselho Constitucional e ao Governo.
 
 #### Artigo 152 (Substituição interina e incompatibilidades)
 
-- As  funções  de  Chefe  do  Estado  são  ainda  assumidas  interinamente  pelo Presidente da Assembleia da República nas circunstâncias seguintes:
+1. As funções de Chefe do Estado são ainda assumidas interinamente pelo Presidente da Assembleia da República nas circunstâncias seguintes:
 
-- morte ou incapacidade permanente comprovadas por junta médica;
+a) morte ou incapacidade permanente comprovadas por junta médica;
 
-- renúncia, comunicada à Assembleia da República;
+b) renúncia, comunicada à Assembleia da República;
 
-- suspensão ou destituição em consequência de pronúncia ou condenação pelo Tribunal Supremo.
+c) suspensão ou destituição em consequência de pronúncia ou condenação pelo Tribunal Supremo.
 
-- As  circunstâncias  referidas  no  número  anterior  implicam  a  realização  de eleições Presidenciais.
+2. As circunstâncias referidas no número anterior implicam a realização de eleições Presidenciais.
 
-- Em  caso  de  renúncia  ao  cargo  o  Presidente  da  República  não  pode candidatar-se para um novo mandato nos dez anos seguintes.
+3. Em caso de renúncia ao cargo o Presidente da República não pode candidatar-se para um novo mandato nos dez anos seguintes.
 
-- Enquanto  exercer  interinamente  as  funções  de  Presidente  da  República,  o mandato de deputado do Presidente  da  Assembleia  da  República  suspende-se automaticamente.
+4. Enquanto exercer interinamente as funções de Presidente da República, o mandato de deputado do Presidente da Assembleia da República suspende-se automaticamente.
 
 [[END OF PAGE 46]]
 
@@ -1564,21 +1564,21 @@ Em  caso  algum  pode  o  Presidente  da  República,  em  exercício  efectivo 
 
 #### Artigo 156 (Incapacidade)
 
-- A  incapacidade  permanente  do  Presidente  da  República  é  comprovada  por junta médica definida nos termos da lei.
+1. A incapacidade permanente do Presidente da República é comprovada por junta médica definida nos termos da lei.
 
-- A  incapacidade  permanente  do  Presidente  da  República  é  declarada  pelo Conselho Constitucional.
+2. A incapacidade permanente do Presidente da República é declarada pelo Conselho Constitucional.
 
-- Cabe  ao  Conselho  Constitucional  verificar  a  morte  e  a  perda  do  cargo  de Presidente da República.
+3. Cabe ao Conselho Constitucional verificar a morte e a perda do cargo de Presidente da República.
 
 #### Artigo 157 (Regime de interinidade)
 
-- Durante  o  período  da  vacatura  do  cargo  de  Presidente  da  República  a Constituição não pode ser alterada.
+1. Durante o período da vacatura do cargo de Presidente da República a Constituição não pode ser alterada.
 
-- O Presidente da República interino garante o funcionamento dos órgãos do Estado e demais instituições e não pode exercer as competências referidas nas alíneas c), e), f), g), h), i) e j) do artigo 159, nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo 160, na alínea e) do artigo 161 e na alínea c) do artigo 162.
+2. O Presidente da República interino garante o funcionamento dos órgãos do Estado e demais instituições e não pode exercer as competências referidas nas alíneas c), e), f), g), h), i) e j) do artigo 159, nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo 160, na alínea e) do artigo 161 e na alínea c) do artigo 162.
 
 #### Artigo 158 (Forma dos actos)
 
-Os actos normativos do Presidente da República assumem a forma de decreto presidencial  e  as  demais  decisões  revestem  a  forma  de  despacho  e  são publicadas no Boletim da República.
+Os actos normativos do Presidente da República assumem a forma de decreto presidencial e as demais decisões revestem a forma de despacho e são publicadas no Boletim da República.
 
 ### CAPÍTULO II COMPETÊNCIA
 
@@ -1586,13 +1586,13 @@ Os actos normativos do Presidente da República assumem a forma de decreto presi
 
 Compete ao Chefe do Estado no exercício da sua função:
 
-- dirigir-se à nação através de mensagens e comunicações;
+a) dirigir-se à nação através de mensagens e comunicações;
 
-- informar anualmente a Assembleia da República sobre a situação geral da nação;
+b) informar anualmente a Assembleia da República sobre a situação geral da nação;
 
-- decidir,  nos  termos  do  artigo  136,  a  realização  de  referendo  sobre questões de interesse relevantes para a nação;
+c) decidir, nos termos do artigo 136, a realização de referendo sobre questões de interesse relevantes para a nação;
 
-- convocar eleições gerais;
+d) convocar eleições gerais;
 
 [[END OF PAGE 48]]
 
@@ -1600,51 +1600,51 @@ Compete ao Chefe do Estado no exercício da sua função:
 
 49
 
-- dissolver a Assembleia da República nos termos do artigo 188;
+e) dissolver a Assembleia da República nos termos do artigo 188;
 
-- demitir  os  restantes  membros  do  Governo  quando  o  seu  programa  seja rejeitado pela segunda vez pela  Assembleia da República;
+f) demitir os restantes membros do Governo quando o seu programa seja rejeitado pela segunda vez pela Assembleia da República;
 
-- nomear  o  Presidente  do  Tribunal  Supremo,  o  Presidente  do    Conselho Constitucional, o Presidente do Tribunal Administrativo e o Vice-Presidente do Tribunal Supremo;
+g) nomear o Presidente do Tribunal Supremo, o Presidente do Conselho Constitucional, o Presidente do Tribunal Administrativo e o Vice-Presidente do Tribunal Supremo;
 
-- nomear,  exonerar  e  demitir  o  Procurador-Geral  da  República  e  o  ViceProcurador-Geral da República;
+h) nomear, exonerar e demitir o Procurador-Geral da República e o Vice-Procurador-Geral da República;
 
-- indultar e comutar penas;
+i) indultar e comutar penas;
 
-- atribuir, nos termos da lei títulos honoríficos, condecorações  e distinções.
+j) atribuir, nos termos da lei títulos honoríficos, condecorações e distinções.
 
 #### Artigo 160 (No domínio do Governo)
 
-- No domínio do Governo, compete ao Presidente da República:
+1. No domínio do Governo, compete ao Presidente da República:
 
-- convocar e presidir as sessões do Conselho de Ministros;
+a) convocar e presidir as sessões do Conselho de Ministros;
 
-- nomear, exonerar e demitir o Primeiro-Ministro;
+b) nomear, exonerar e demitir o Primeiro-Ministro;
 
-- criar ministérios e comissões de natureza inter-ministerial.
+c) criar ministérios e comissões de natureza inter-ministerial.
 
-- Compete-lhe, ainda, nomear, exonerar e demitir:
+2. Compete-lhe, ainda, nomear, exonerar e demitir:
 
-- os  Ministros e Vice-Ministros;
+a) os Ministros e Vice-Ministros;
 
-- os Governadores Provinciais;
+b) os Governadores Provinciais;
 
-- os Reitores e Vice-Reitores das Universidades Estatais, sob proposta dos respectivos colectivos de direcção, nos termos da lei;
+c) os Reitores e Vice-Reitores das Universidades Estatais, sob proposta dos respectivos colectivos de direcção, nos termos da lei;
 
-- o Governador e o Vice-Governador do Banco de Moçambique;
+d) o Governador e o Vice-Governador do Banco de Moçambique;
 
-- os Secretários de Estado.
+e) os Secretários de Estado.
 
 #### Artigo 161 (No domínio da defesa e da ordem pública)
 
 No domínio da defesa nacional e da ordem pública, compete ao Presidente da República:
 
-- declarar a guerra e a sua cessação, o estado de sítio ou de emergência;
+a) declarar a guerra e a sua cessação, o estado de sítio ou de emergência;
 
-- celebrar tratados;
+b) celebrar tratados;
 
-- decretar a mobilização geral ou parcial;
+c) decretar a mobilização geral ou parcial;
 
-- presidir ao Conselho Nacional de Defesa e Segurança;
+d) presidir ao Conselho Nacional de Defesa e Segurança;
 
 [[END OF PAGE 49]]
 
@@ -1652,35 +1652,35 @@ No domínio da defesa nacional e da ordem pública, compete ao Presidente da Rep
 
 50
 
-- nomear,  exonerar  e  demitir  o  Chefe  e  o  Vice-Chefe  do  Estado-MaiorGeneral,  o  Comandante-Geral  e  Vice-Comandante-Geral  da  Polícia,  os Comandantes de Ramo das Forças Armadas de Defesa de Moçambique e outros oficiais  das Forças de Defesa e Segurança, nos termos definidos por lei.
+e) nomear, exonerar e demitir o Chefe e o Vice-Chefe do Estado-Maior-General, o Comandante-Geral e Vice-Comandante-Geral da Polícia, os Comandantes de Ramo das Forças Armadas de Defesa de Moçambique e outros oficiais das Forças de Defesa e Segurança, nos termos definidos por lei.
 
 #### Artigo 162 (No domínio das relações internacionais)
 
 No domínio das relações internacionais, compete ao Presidente da República:
 
-- orientar a política externa;
+a) orientar a política externa;
 
-- celebrar tratados internacionais;
+b) celebrar tratados internacionais;
 
-- nomear, exonerar e demitir os Embaixadores e enviados diplomáticos da República de Moçambique;
+c) nomear, exonerar e demitir os Embaixadores e enviados diplomáticos da República de Moçambique;
 
-- receber as cartas credenciais dos Embaixadores e enviados diplomáticos de outros países.
+d) receber as cartas credenciais dos Embaixadores e enviados diplomáticos de outros países.
 
 #### Artigo 163 (Promulgação e veto)
 
-- Compete ao Presidente da República promulgar e mandar publicar as leis no Boletim da República.
+1. Compete ao Presidente da República promulgar e mandar publicar as leis no Boletim da República.
 
-- As  leis  são  promulgadas  até  trinta  dias  após  a  sua  recepção,  ou  após  a notificação  do  acórdão  do  Conselho  Constitucional  que  se  pronuncia  pela  não inconstitucionalidade de qualquer norma delas constantes.
+2. As leis são promulgadas até trinta dias após a sua recepção, ou após a notificação do acórdão do Conselho Constitucional que se pronuncia pela não inconstitucionalidade de qualquer norma delas constantes.
 
-- O  Presidente  da  República  pode  vetar  a  lei  por  mensagem  fundamentada, devolvê-la para reexame pela Assembleia da República.
+3. O Presidente da República pode vetar a lei por mensagem fundamentada, devolvê-la para reexame pela Assembleia da República.
 
-- Se a lei reexaminada for aprovada por maioria de dois terços, o Presidente da República deve promulgá-la e mandá-la publicar.
+4. Se a lei reexaminada for aprovada por maioria de dois terços, o Presidente da República deve promulgá-la e mandá-la publicar.
 
 ### CAPÍTULO III CONSELHO DE ESTADO
 
 #### Artigo 164 (Definição e composição)
 
-- O  Conselho  de  Estado  é  o  órgão  político  de  consulta  do  Presidente  da República.
+1. O Conselho de Estado é o órgão político de consulta do Presidente da República.
 
 [[END OF PAGE 50]]
 
@@ -1984,6 +1984,12 @@ São poderes do Deputado:
 
 58
 
+#### Artigo 182 (Forma de actos)
+
+Os actos legislativos da Assembleia da República assumem a forma de lei e as demais deliberações revestem a forma de resolução e são publicados no Boletim da República.
+
+#### Artigo 183 (Iniciativa de lei)
+
 - A iniciativa de lei pertence:
 
 - aos deputados;
@@ -2005,12 +2011,6 @@ São poderes do Deputado:
 2. A  votação  compreende  uma  votação  na  generalidade,  uma  votação  na especialidade e uma votação final global.
 
 3. Se a Assembleia assim o deliberar, os textos aprovados na generalidade são votados na especialidade pelas comissões, sem prejuízo do poder de avocação pelo Plenário e do voto final deste para aprovação global.
-
-#### Artigo 182 (Forma de actos)
-
-Os actos legislativos da Assembleia da República assumem a forma de lei e as demais deliberações revestem a forma de resolução e são publicados no Boletim da República.
-
-#### Artigo 183 (Iniciativa de lei)
 
 [[END OF PAGE 58]]
 
@@ -2254,7 +2254,7 @@ O Governo da República de Moçambique é o Conselho de Ministros.
 
 - aprovar  decretos-leis  mediante  autorização  legislativa  da  Assembleia  da República;
 
-- preparar o Plano Económico e Social e o  Orçamento do Estado e executálos após aprovação pela Assembleia da República;
+- preparar o Plano Económico e Social e o  Orçamento do Estado e executá-los após aprovação pela Assembleia da República;
 
 - promover e regulamentar  a actividade económica e dos sectores sociais;
 
@@ -2326,7 +2326,7 @@ O Governo da República de Moçambique é o Conselho de Ministros.
 
 #### Artigo 207 (Responsabilidade e competências do Conselho de Ministros)
 
-O  Conselho  de  Ministros  responde  perante  o  Presidente  da  República  e  a Assembleia da República pela realização da política interna e externa e prestalhes contas das suas actividades nos termos da lei.
+O  Conselho  de  Ministros  responde  perante  o  Presidente  da  República  e  a Assembleia da República pela realização da política interna e externa e presta-lhes contas das suas actividades nos termos da lei.
 
 #### Artigo 208 (Responsabilidade política dos membros do Governo)
 
@@ -2338,7 +2338,7 @@ Os  membros  do  Governo  estão  vinculados  ao  Programa  do  Governo  e  às 
 
 #### Artigo 210 (Forma dos actos)
 
-- Os actos normativos do Conselho de Ministros revestem a forma de decretolei e de decreto.
+- Os actos normativos do Conselho de Ministros revestem a forma de decreto-lei e de decreto.
 
 - Os decretos-leis e os decretos, referidos no número anterior, devem indicar a lei ao abrigo da qual são aprovados.
 
@@ -2390,29 +2390,29 @@ As decisões dos tribunais são de cumprimento obrigatório para todos os cidad�
 
 69
 
-#### Artigo 216 (Participação dos juizes eleitos)
+#### Artigo 216 (Participação dos juízes eleitos)
 
-- Nos julgamentos podem participar juizes eleitos.
+- Nos julgamentos podem participar juízes eleitos.
 
-- Os juizes eleitos intervêm apenas nos julgamentos em primeira instância e na decisão da matéria de facto.
+- Os juízes eleitos intervêm apenas nos julgamentos em primeira instância e na decisão da matéria de facto.
 
-- A  intervenção  dos  juizes  eleitos  é  obrigatória  nos  casos  previstos  na  lei processual  ou  quando  for  determinada  pelo  juiz  da  causa,  promovida  pelo Ministério Público ou requerida pelas partes.
+- A  intervenção  dos  juízes  eleitos  é  obrigatória  nos  casos  previstos  na  lei processual  ou  quando  for  determinada  pelo  juiz  da  causa,  promovida  pelo Ministério Público ou requerida pelas partes.
 
-- A lei estabelece as formas de eleição e de participação dos juizes mencionados  no  presente  artigo  e  fixa  a  duração  do  respectivo  período  de exercício de funções.
+- A lei estabelece as formas de eleição e de participação dos juízes mencionados  no  presente  artigo  e  fixa  a  duração  do  respectivo  período  de exercício de funções.
 
-### CAPÍTULO II ESTATUTO DOS JUIZES
+### CAPÍTULO II ESTATUTO DOS JUÍZES
 
-#### Artigo 217 (Independência dos juizes)
+#### Artigo 217 (Independência dos juízes)
 
-- No exercício das suas funções, os juizes são independentes e apenas devem obediência à lei.
+- No exercício das suas funções, os juízes são independentes e apenas devem obediência à lei.
 
-- Os juizes têm igualmente as garantias de imparcialidade e irresponsabilidade.
+- Os juízes têm igualmente as garantias de imparcialidade e irresponsabilidade.
 
-- Os juizes são inamovíveis, não podendo  ser transferidos, suspensos, aposentados ou demitidos, senão nos casos previstos na lei.
+- Os juízes são inamovíveis, não podendo  ser transferidos, suspensos, aposentados ou demitidos, senão nos casos previstos na lei.
 
 #### Artigo 218 (Responsabilidade)
 
-- Os juizes respondem civil, criminal e disciplinarmente por actos praticados no exercício das suas funções apenas nos casos especialmente previstos na lei.
+- Os juízes respondem civil, criminal e disciplinarmente por actos praticados no exercício das suas funções apenas nos casos especialmente previstos na lei.
 
 - O afastamento de um juiz de carreira da função judicial só pode ocorrer nos termos legalmente estabelecidos.
 
@@ -2462,7 +2462,7 @@ Compete ao Conselho Superior da Magistratura Judicial, nomeadamente:
 
 - nomear,  colocar,  transferir,  promover,  exonerar  e    apreciar  o  mérito profissional,  exercer  a  acção  disciplinar  e,  em  geral,  praticar  todos  os actos de idêntica natureza respeitantes aos magistrados judiciais;
 
-- apreciar  o  mérito  profissional  e  exercer  a  acção  disciplinar  sobre  os funcionários da  justiça,  sem  prejuízo  das  competências  disciplinares atribuídas aos juizes;
+- apreciar  o  mérito  profissional  e  exercer  a  acção  disciplinar  sobre  os funcionários da  justiça,  sem  prejuízo  das  competências  disciplinares atribuídas aos juízes;
 
 - propor a realização de inspecções extraordinárias, sindicâncias e inquéritos aos tribunais;
 
@@ -2512,19 +2512,21 @@ Durante a vigência do estado de guerra são constituídos tribunais militares c
 
 #### Artigo 226 (Composição)
 
-1. O  Tribunal  Supremo  é  composto  por  juizes  conselheiros,  em  número  a  ser estabelecido por lei.
+1. O  Tribunal  Supremo  é  composto  por  juízes  conselheiros,  em  número  a  ser estabelecido por lei.
 
 2. O  Presidente  da  República  nomeia  o  Presidente  e  o  Vice-Presidente  do Tribunal Supremo, ouvido o Conselho Superior da Magistratura Judicial.
 
-3. Os  Juizes  Conselheiros  são  nomeados  pelo  Presidente  da  República,  sob proposta do Conselho Superior da Magistratura Judicial, após concurso público, de avaliação curricular, aberto aos magistrados e a outros cidadãos nacionais, de reputado mérito, todos licenciados em Direito, no pleno gozo dos seus direitos civis e políticos.
+3. Os  Juízes  Conselheiros  são  nomeados  pelo  Presidente  da  República,  sob proposta do Conselho Superior da Magistratura Judicial, após concurso público, de avaliação curricular, aberto aos magistrados e a outros cidadãos nacionais, de reputado mérito, todos licenciados em Direito, no pleno gozo dos seus direitos civis e políticos.
 
-4. Os  Juizes Conselheiros do Tribunal  Supremo  devem,  à  data  da sua designação, ter idade igual ou superior a trinta e cinco anos, haver exercido, pelo menos durante dez anos, actividade forense ou de docência em Direito, sendo os demais requisitos, fixados por lei.
+4. Os  Juízes Conselheiros do Tribunal  Supremo  devem,  à  data  da sua designação, ter idade igual ou superior a trinta e cinco anos, haver exercido, pelo menos durante dez anos, actividade forense ou de docência em Direito, sendo os demais requisitos, fixados por lei.
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
 
 73
+
+#### Artigo 227 (Funcionamento)
 
 - O Tribunal Supremo funciona:
 
@@ -2542,19 +2544,17 @@ Durante a vigência do estado de guerra são constituídos tribunais militares c
 
 #### Artigo 229 (Composição)
 
-1. O  Tribunal  Administrativo  é  composto  por  Juizes  Conselheiros,  em  número estabelecido por lei.
+1. O  Tribunal  Administrativo  é  composto  por  Juízes  Conselheiros,  em  número estabelecido por lei.
 
 2. O  Presidente  da  República  nomeia  o  Presidente  do  Tribunal  Administrativo, ouvido o Conselho Superior da Magistratura Judicial Administrativa.
 
-3. Os  Juizes  Conselheiros  do  Tribunal  Administrativo  são  nomeados  pelo Presidente  da  República,  sob  proposta  do  Conselho  Superior  da  Magistratura Judicial Administrativa.
+3. Os  Juízes  Conselheiros  do  Tribunal  Administrativo  são  nomeados  pelo Presidente  da  República,  sob  proposta  do  Conselho  Superior  da  Magistratura Judicial Administrativa.
 
-4. Os  Juizes  Conselheiros  do  Tribunal  Administrativo  devem,  à  data  da  sua nomeação,  ter  idade  igual  ou  superior  a  trinta  e  cinco  anos  e  preencher  os demais requisitos estabelecidos por lei.
+4. Os  Juízes  Conselheiros  do  Tribunal  Administrativo  devem,  à  data  da  sua nomeação,  ter  idade  igual  ou  superior  a  trinta  e  cinco  anos  e  preencher  os demais requisitos estabelecidos por lei.
 
 #### Artigo 230 (Competências)
 
 - Compete, nomeadamente ao Tribunal Administrativo:
-
-#### Artigo 227 (Funcionamento)
 
 [[END OF PAGE 73]]
 
@@ -2660,7 +2660,7 @@ pela Assembleia da República e membros de entre si eleitos pelos magistrados do
 
 1. Os Procuradores-Gerais Adjuntos representam o Ministério Público junto das secções do Tribunal Supremo e do Tribunal Administrativo e constituem o topo da carreira da Magistratura do Ministério Público.
 
-2. Os Procuradores-Gerais Adjuntos são nomeados pelo Presidente da República, sob proposta do Conselho Superior da Magistratura do Ministério Público, após concurso  público de avaliação curricular, aberto a cidadãos nacionais de reputado mérito, licenciados em Direito, no pleno gozo dos seus direitos civis e políticos,  que  tenham,  à  data  do  concurso,  idade  igual  ou  superior  a  trinta  e cinco anos e que tenham exercido, pelo menos durante dez anos, a actividade forense ou de docência em Direito.
+2. Os Procuradores-Gerais Adjuntos são nomeados pelo Presidente da República, sob proposta do Conselho Superior da Magistratura do Ministério Público, após concurso público de avaliação curricular, aberto a cidadãos nacionais de reputado mérito, licenciados em Direito, no pleno gozo dos seus direitos civis e
 
 [[END OF PAGE 76]]
 
@@ -2668,27 +2668,29 @@ pela Assembleia da República e membros de entre si eleitos pelos magistrados do
 
 77
 
+políticos, que tenham, à data do concurso, idade igual ou superior a trinta e cinco anos e que tenham exercido, pelo menos durante dez anos, a actividade forense ou de docência em Direito.
+
 ## TÍTULO XI CONSELHO CONSTITUCIONAL
 
 #### Artigo 241 (Definição)
 
-1. O  Conselho  Constitucional  é  o  órgão  de  soberania,  ao  qual  compete especialmente administrar a justiça, em matérias de natureza jurídicoconstitucional.
+1. O Conselho Constitucional é o órgão de soberania, ao qual compete especialmente administrar a justiça, em matérias de natureza jurídico-constitucional.
 
 2. A  organização,  funcionamento  e  o  processo  de  verificação  e  controlo  da constitucionalidade, da legalidade dos actos normativos e as demais competências do Conselho Constitucional são fixadas por lei.
 
 #### Artigo 242 (Composição)
 
-- O Conselho Constitucional é composto por sete juizes conselheiros, designados nos seguintes termos:
+- O Conselho Constitucional é composto por sete juízes conselheiros, designados nos seguintes termos:
 
-- um  juiz  conselheiro  nomeado  pelo  Presidente  da  República  que  é  o Presidente do Conselho Constitucional;
+- um juiz conselheiro nomeado pelo Presidente da República que é o Presidente do Conselho Constitucional;
 
-- cinco juizes conselheiros designados pela Assembleia da República segundo o critério da representação proporcional;
+- cinco juízes conselheiros designados pela Assembleia da República segundo o critério da representação proporcional;
 
-- um  juiz  conselheiro  designado  pelo  Conselho  Superior  da  Magistratura Judicial.
+- um juiz conselheiro designado pelo Conselho Superior da Magistratura Judicial.
 
-2. Os  juizes  conselheiros  do  Conselho  Constitucional  são  designados  para  um mandato  de  cinco  anos,  renovável  e  gozam  de  garantia  de  independência, inamovibilidade, imparcialidade e irresponsabilidade.
+2. Os juízes conselheiros do Conselho Constitucional são designados para um mandato de cinco anos, renovável e gozam de garantia de independência, inamovibilidade, imparcialidade e irresponsabilidade.
 
-3. Os juizes conselheiros do Conselho Constitucional, à data da sua designação, devem ter idade igual ou superior a trinta e cinco anos, ter pelo menos dez anos de experiência profissional na magistratura ou em qualquer actividade forense ou de docência em Direito.
+3. Os juízes conselheiros do Conselho Constitucional, à data da sua designação, devem ter idade igual ou superior a trinta e cinco anos, ter pelo menos dez anos de experiência profissional na magistratura ou em qualquer actividade forense ou de docência em Direito.
 
 [[END OF PAGE 77]]
 
@@ -2698,7 +2700,7 @@ pela Assembleia da República e membros de entre si eleitos pelos magistrados do
 
 #### Artigo 243 (Incompatibilidades)
 
-Os  Juizes  Conselheiros  do  Conselho  Constitucional,  em  exercício,  não  podem desempenhar quaisquer outras funções públicas ou privadas, excepto a actividade  de  docente  ou  de  investigação  jurídica  ou  outra  de  divulgação  e publicação científica, literária, artística e técnica, mediante prévia autorização do respectivo órgão.
+Os Juízes Conselheiros do Conselho Constitucional, em exercício, não podem desempenhar quaisquer outras funções públicas ou privadas, excepto a actividade de docente ou de investigação jurídica ou outra de divulgação e publicação científica, literária, artística e técnica, mediante prévia autorização do respectivo órgão.
 
 #### Artigo 244 (Competências)
 
@@ -3066,7 +3068,7 @@ A  criação  e  extinção  das  autarquias  locais  são  reguladas  por  lei,
 
 - O exercício do poder tutelar pode ser ainda aplicado sobre o mérito dos actos administrativos, apenas nos casos e nos termos expressamente previstos na lei.
 
-- A  dissolução  dos  órgãos  autárquicos,  ainda  que  resultante  de  eleições directas,  só  pode  ter  lugar  em  consequência  de  acções  ou  omissões  legais graves, previstas na lei e nos termos por ela estabelecidos.
+- A dissolução dos órgãos autárquicos, ainda que resultante de eleições directas, só pode ter lugar em consequência de acções ou omissões ilegais graves, previstas na lei e nos termos por ela estabelecidos.
 
 #### Artigo 278 (Poder regulamentar)
 
@@ -3206,7 +3208,7 @@ A declaração do estado de sítio ou de emergência não pode afectar a aplica�
 
 - a fiscalização  da constitucionalidade;
 
-- a independência dos juizes;
+- a independência dos juízes;
 
 - a autonomia  das autarquias  locais;
 
@@ -3270,7 +3272,7 @@ O livro, a enxada e a arma simbolizam o estudo, a produção e a defesa.
 
 #### Artigo 298 (Emblema)
 
-O emblema de República de Moçambique contém como elementos centrais um livro, uma arma e uma enxada, dispostos em cima do mapa de Moçambique e representando respectivamente: a educação, a defesa e vigilância, o campesinato e a produção agrícola.
+O emblema da República de Moçambique contém como elementos centrais um livro, uma arma e uma enxada, dispostos em cima do mapa de Moçambique e representando respectivamente: a educação, a defesa e vigilância, o campesinato e a produção agrícola.
 
 [[END OF PAGE 94]]
 
@@ -3288,7 +3290,7 @@ A circundar a roda dentada encontram-se à direita e à esquerda, respectivament
 
 No cimo, ao centro, uma  estrela simboliza o espírito de solidariedade internacional do povo moçambicano.
 
-Na parte inferior está disposta uma faixa vermelha com a inscrição 'República de Moçambique'.
+Na parte inferior está disposta uma faixa vermelha com a inscrição “República de Moçambique”.
 
 #### Artigo 299 (Hino nacional)
 
@@ -3342,8 +3344,6 @@ vigor até que seja modificada ou revogada.
 
 97
 
-Publique-se.
-
 #### Artigo 306 (Entrada em vigor)
 
 A Constituição entra em vigor no dia imediato ao da validação e proclamação dos resultados eleitorais das Eleições Gerais de 2004.
@@ -3353,6 +3353,8 @@ Aprovada pela Assembleia da República, aos 16 de Novembro de 2004.
 O Presidente da Assembleia da República
 
 Eduardo Joaquim Mulémbwè
+
+Publique-se.
 
 O Presidente da República
 
