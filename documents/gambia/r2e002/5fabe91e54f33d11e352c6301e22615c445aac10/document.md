@@ -14,15 +14,57 @@ AUGUST 2008
 
 ## Contents
 
-4
-
-5
+List of Tables 4
+Abbreviations 5
+Foreword 10
+Introduction 12
+1 18
+Achieving Universal Completion of Quality Basic Education 18
+1.1 Early Childhood Development 19
+1.2 Achieving Universal Completion of Quality Basic Education 21
+1.3 Adult and Non-Formal Education 25
+Quality and Relevance 26
+2 28
+Meeting Human Resource Needs Through Post-basic Education 28
+2.1 Secondary Education 28
+2.2 Technical Vocational Education and Training 29
+2.6 Higher Education 34
+3 37
+Cross-cutting Interventions 37
+3.1 Quality 37
+3.2 Classroom Construction 41
+3.3 Gender Mainstreaming 44
+3.4 Education Sector Response to HIV/AIDS 46
+3.5 Life Skills Education 48
+3.6 Special Needs Education 51
+3.7 Child Protection 53
+3.8 Teacher Education 54
 
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+3.9 Science and Technology Education 56
+4 59
+Improved Sector Management 59
+5 62
+Indicative ESSP Framework (Recurrent and Capital Costs) 62
+6 66
+Financial Framework for the ESSP (Cost Projections and Funding) 66
+7 75
+Sector Monitoring and Evaluation 75
+7.1 Key Performance Indicators 75
+7.2 Organization 75
+7.3 Management 76
+7.4 Information Systems 77
+Appendixes 79
+Appendix 1: Recurrent Expenditures on Education by Function & Source of Financing 79
+Appendix 2: Investment Programme by Component, Result Area and Share ($’000 & %) 80
+Appendix 3: Investment by Expenditure Type and Share 82
+Appendix 4: Summary Indicators (Baseline and Projections) 83
+Appendix 5: Sector SWOT Analysis 84
 
 3
 
@@ -31,6 +73,22 @@ AUGUST 2008
 [[START OF PAGE 4]]
 
 ## List of Tables
+
+Table 1: Key Sector Indicators (Baseline Vs Targets) 18
+Table 2: ECD GER by Region (1999/2000 – 2006/2007) 19
+Table 3: ECD Enrolment Projections (2008 – 2011) 21
+Table 4: LBS Enrolment Projections (2008 – 2011) 24
+Table 5: UBS Enrolment Projections (2008 – 2011) 24
+Table 6: Access Summary Indicators, Grades 1-6 41
+Access Table 7: Summary Indicators, Grades 7-9 43
+Table 8: Gross Enrolment Ratio & Share of Girls at the LBS and UBS 45
+Table 9: 2008 National Assessment Test Results 64
+Table 10: Macro-economic Data Assumptions /Projections 68
+Table 11: Summary Indicators (Access & Flow) by Level 70
+Table 12: Total Recurrent Expenditure on Education by Share (Govt & Private) 71
+Table 13: Share of Investment Programme by Component 72
+Table 14: Financing of Investment Programme by Financier and % Share 73
+Table 15: Total Government Recurrent and Investment Expenditure by Function and share (‘000GMD) 74
 
 4
 
@@ -73,105 +131,32 @@ DOSCIT | Department of State for Communication, Information & Information
 
 Technology
 
-DOSHERST
-
-DOSHSW
-
-EBS
-
-EC
-
-Department of State for Higher Education, Research, Science & Technology
-
-Department of State for Health and Social Welfare
-
-Education Broadcasting Services
-
-European Commission
-
-ECD
-
-Early Childhood Development
-
-EDF
-
-European Development Funding
-
-EFA
-
-EGRA
-
-Education For All
-
-Early Grade Reading Assessment
-
-EMIS
-
-Education Management Information System
-
-ESSP
-
-FDI
-
-FFE
-
-Education Sector Strategic Plan
-
-Foreign Direct Investment
-
-Food For Education
-
-FIOH
-
-FTI
-
-Future in Our Hands
-
-Fast Track Initiative
-
-GABECE
-
-Gambia Basic Education Certificate Examination
-
-GC
-
-Gambia College
-
-GDP
-
-Gross Domestic Product
-
-GER
-
-GFIS
-
-Gross Enrolment Ratio
-
-Girl Friendly Initiative School
-
-GOTG
-
-GRTS
-
-Government of The Gambia
-
-Gambia Radio and television Services
-
-GSQF
-
-Gambia Skills Qualifications Framework
-
-GTTI
-
-Gambia Technical Training Institute
-
-GTU
-
-HARK
-
-Gambia Teachers' Union
-
-Hearing Assessment and Research Centre
+DOSHERST | Department of State for Higher Education, Research, Science & Technology
+--- | ---
+DOSHSW | Department of State for Health and Social Welfare
+EBS | Education Broadcasting Services
+EC | European Commission
+ECD | Early Childhood Development
+EDF | European Development Funding
+EFA | Education For All
+EGRA | Early Grade Reading Assessment
+EMIS | Education Management Information System
+ESSP | Education Sector Strategic Plan
+FDI | Foreign Direct Investment
+FFE | Food For Education
+FIOH | Future in Our Hands
+FTI | Fast Track Initiative
+GABECE | Gambia Basic Education Certificate Examination
+GC | Gambia College
+GDP | Gross Domestic Product
+GER | Gross Enrolment Ratio
+GFIS | Girl Friendly Initiative School
+GOTG | Government of The Gambia
+GRTS | Gambia Radio and television Services
+GSQF | Gambia Skills Qualifications Framework
+GTTI | Gambia Technical Training Institute
+GTU | Gambia Teachers' Union
+HARK | Hearing Assessment and Research Centre
 
 6
 
@@ -247,97 +232,30 @@ SLA | Service Level Agreement
 
 [[START OF PAGE 9]]
 
-SMT
-
-Senior Management Team
-
-SNE
-
-Special Needs Education
-
-SOS
-
-Secretary of State
-
-SPA II
-
-Strategy for Poverty Alleviation II
-
-SQAD
-
-Standards and Quality Assurance Directorate
-
-SSA
-
-SSI
-
-STE
-
-Sub-Saharan Africa
-
-Sight Savers International
-
-Science and Technology Education
-
-SWAp
-
-Sector Wide Approach
-
-TA
-
-Technical Assistance
-
-TOR
-
-Terms of Reference
-
-TVET
-
-Technical and Vocational Education and Training
-
-UBE
-
-Universal Basic Education
-
-UBS
-
-Upper Basic School
-
-UN
-
-United Nations
-
-UNESCO
-
-United Nations Educational, Scientific and Cultural  Organization
-
-UNFPA
-
-United Nations Fund for Population Activities
-
-UNICEF
-
-United Nations Children's Fund
-
-UTG
-
-VCT
-
-University of The Gambia
-
-Voluntary Counselling and Testing
-
-VSO
-
-Voluntary Service Overseas
-
-WASSCE
-
-WPP
-
-West African Senior School Certificate Examination
-
-Work Place Policy
+SMT | Senior Management Team
+--- | ---
+SNE | Special Needs Education
+SOS | Secretary of State
+SPA II | Strategy for Poverty Alleviation II
+SQAD | Standards and Quality Assurance Directorate
+SSA | Sub-Saharan Africa
+SSI | Sight Savers International
+STE | Science and Technology Education
+SWAp | Sector Wide Approach
+TA | Technical Assistance
+TOR | Terms of Reference
+TVET | Technical and Vocational Education and Training
+UBE | Universal Basic Education
+UBS | Upper Basic School
+UN | United Nations
+UNESCO | United Nations Educational, Scientific and Cultural Organization
+UNFPA | United Nations Fund for Population Activities
+UNICEF | United Nations Children's Fund
+UTG | University of The Gambia
+VCT | Voluntary Counselling and Testing
+VSO | Voluntary Service Overseas
+WASSCE | West African Senior School Certificate Examination
+WPP | Work Place Policy
 
 9
 
@@ -355,7 +273,7 @@ Whilst the ESSP has been instrumental in the provision of educational services i
 
 The budgetary implications of the options adopted, within the realities of the global economic environment,  coupled  with  other  socio-political  considerations  have  discussed  perceptively  to guide  the  strategies  devised.  The  mobilisation  of  sufficient  resources  and  their  judicious utilisation for the attainment of the targets and goals set, to a considerable extent, determine the level  of  success  in  the  implementation  of  the  plan.  The  envisaged  government  contribution  to education  has  to  be  necessarily  complemented  by  support  from  our  donor  and  development partners.  This  makes  it  vital  to  access  another  round  of  FTI  funding.  Indeed,  with  sincere appreciation, it must be recorded that the first round of FTI funding contributed significantly to the successes registered within the education sector so far.
 
-In  light  of  the  encouraging  developments  within  the  education  sector,  I  extend  sincere appreciation  and  gratitude  to  all  the  in-country  development  partners  and  stakeholders  who contributed to the success of this very participatory process leading to the production of this plan. In  particular,  I  thank  the  UNICEF  Country Representative and her staff for acting as the lead agency  and  for  their  invaluable  support  and  endorsement  of  this  plan.  Similarly,  I  thank  the Permanent Secretary, Department of State for Basic and Secondary Education, the core team that spearheaded the process and the entire staff for relentlessly striving to make the document the success it is.
+In light of the encouraging developments within the education sector, I extend sincere appreciation and gratitude to all the in-country development partners and stakeholders who contributed to the success of this very participatory process leading to the production of this plan. In particular, I thank the UNICEF Country Representative and her staff for acting as the lead agency and for their invaluable support and endorsement of this plan. Similarly, I thank the Permanent Secretary, Department of State for Basic and Secondary Education, the core team that
 
 10
 
@@ -363,7 +281,9 @@ In  light  of  the  encouraging  developments  within  the  education  sector,  
 
 [[START OF PAGE 11]]
 
-I  wish  to  enjoin  our  partners  and  stakeholders  to  continue  to  support  and  collaborate  with  the sector as it braces itself to the challenges ahead.
+spearheaded the process and the entire staff for relentlessly striving to make the document the success it is.
+
+I wish to enjoin our partners and stakeholders to continue to support and collaborate with the sector as it braces itself to the challenges ahead.
 
 Hon. Fatou Lamin Faye Secretary of State for Basic and Secondary Education
 
@@ -377,7 +297,7 @@ Hon. Fatou Lamin Faye Secretary of State for Basic and Secondary Education
 
 The Education Sector Strategic Plan (2006-2015) has been a significant guiding document for the  provision  and  management  of  education  in  The  Gambia.  Derived  from  the  National Education Policy 2004-2015, it spells out the education sector's priorities, goals, achievements and,  further,  outlines  the  strategies  and  activities  that  should  be  implemented  to  achieve  the overall  objectives  of  the  education  sector.  The  plan  also  identifies  indicators  and  tracking mechanisms  for  monitoring  and  evaluating  the  implementation  of  the  six  programme  areas; namely,  basic  education,  secondary  education,  quality  assurance,  higher  education,  technical vocational education and training and sector management.
 
-A  key  feature  of  the  development  of  the  Education  Sector  Strategic  Plan  (ESSP)  was  the participatory  nature  that  marked  the  process.  Relevant  stakeholders  and  partners,  including representatives of government institutions, the private sector, non-governmental and communitybased  organizations,  international  agencies  and  the  general  public  participated  in  the  entire process and contributed substantially to determining the final output. Thus, relevant stakeholders and  partners  in  education  can  identify  with  the  plan,  and  have  been  contributing  to  its implementation. However, this has not stopped the sensitization of the general public on the key elements of the plan through the media, especially on national television and radio.
+A key feature of the development of the Education Sector Strategic Plan (ESSP) was the participatory nature that marked the process. Relevant stakeholders and partners, including representatives of government institutions, the private sector, non-governmental and community-based organizations, international agencies and the general public participated in the entire process and contributed substantially to determining the final output. Thus, relevant stakeholders and partners in education can identify with the plan, and have been contributing to its implementation. However, this has not stopped the sensitization of the general public on the key elements of the plan through the media, especially on national television and radio.
 
 ### Goals
 
@@ -389,9 +309,9 @@ Thus, the ESSP is grounded in the overall goal of ensuring that 'by 2015 univers
 
 - Provide access to relevant and high quality basic education for all
 
-- Ensure gender equity in education
-
 - Provide high quality education services
+
+- Ensure gender equity in education
 
 - Provide relevant life skills
 
@@ -421,15 +341,15 @@ The provision of quality education is  essentially the main thrust of the mandat
 
 - curriculum review and reform
 
-- provision of relevant instructional materials
-
 - introduction of a national language programme
+
+- provision of relevant instructional materials
 
 - better-suited assessment and examination procedures
 
-- computer literacy and ICT education
-
 - an integrated approach to ECD
+
+- computer literacy and ICT education
 
 > 1 These are madrassas that use the synchronized syllabus and are recognized by DOSBSE.
 
@@ -497,7 +417,7 @@ In spite of the achievements made over the years, critical challenges still rema
 
 - Mobilizing sufficient resources for both recurrent and development purposes is an issue that remains doggedly challenging.
 
-- Within  the  framework  of  the  ESSP,  'quality'  is  examined  from  three  perspectives  teacher  training  and  support,  pedagogy  and  teaching/learning  materials  and  leadership and school management including  parental and community participation.
+- Within the framework of the ESSP, ‘quality’ is examined from three perspectives – teacher training and support, pedagogy and teaching/learning materials and leadership and school management including parental and community participation.
 
 > 3 This is a result of children repeating and dropping out at the end of Grade 6.
 
@@ -527,7 +447,7 @@ Consideration  of  the  cost  implications  of  various  policy  options  has  b
 
 The  lessons  learnt  over  the  years  vary  in  significance,  ranging  from  the  consequences experienced  in  attempting  to  implement  ambitious  sector  plans  that  result  in  unaccomplished programme activities to failing to attain set targets. Salient among these lessons is the necessity of  acknowledging  that  the  development  of  a  practical  sector  plan  requires  that  relevant  key factors that influence implementation be considered in depth and exhaustively.
 
-This  was  not  done  during  the  development  of  the  current  National  Education  Policy  (20042015);  hence,  for  example,  as  regards  teacher  supply,  the  annual  target  of  graduating  300 students of the Primary Teachers' Certificate (PTC) and 300 students with the Higher Teachers' Certificate has not been achieved over the years due to higher than expected student attrition as well as the inability of the Gambia College to recruit and retain competent staff. Also, the policy shift leading to a keener focus on quality at the college, which was not quite evident during the planning phase, contributed to undermining some of these targets.
+This was not done during the development of the current National Education Policy (2004-2015); hence, for example, as regards teacher supply, the annual target of graduating 300 students of the Primary Teachers' Certificate (PTC) and 300 students with the Higher Teachers' Certificate has not been achieved over the years due to higher than expected student attrition as well as the inability of the Gambia College to recruit and retain competent staff. Also, the policy shift leading to a keener focus on quality at the college, which was not quite evident during the planning phase, contributed to undermining some of these targets.
 
 Notwithstanding this fact, teacher training has now taken a new dimension with the introduction of the PTC extension programme which involves all the unqualified teachers in a given region. Aside from these, it has been realized during the development of the MTP that the significant expansion  of  the  upper  level  of  the  basic  cycle  (Grades  7-9)  in  recent  years  was  done  while inadvertently failing to give the lower basic (primary) level the priority it deserves.
 
@@ -555,38 +475,38 @@ In  keeping with the above, the expanded vision of basic education being impleme
 
 - Early childhood development
 
-- Adult and non-formal education
-
 - Basic education (Grades 1-9)
 
-Indicators | Baseline 2006 (Female) | Target (Female) | 2011
---- | --- | --- | ---
-Access & Completion
-1. Intake Rates
+- Adult and non-formal education
+
+Table 1: Key Sector Indicators (Baseline Vs Targets)
+
+Indicators | Baseline 2006 (Female) | Target 2011 (Female)
+--- | --- | ---
+Access & Completion | |
+1. Intake Rates | |
 ECD | 39.4 % | 45 %
 LBS | 101 % (51%) | 125 % (51%)
 UBS | 88 % (51%) | 90 % (55%)
-2. Gross Enrolment Ratio
+2. Gross Enrolment Ratio | |
 ECD | 26% | 42%
 LBS | 91.4% (93%) | 101.9% (103%)
 UBS | 60% (58%) | 69% (71%)
-3. Net Enrolment Ratio
-ECD
+3. Net Enrolment Ratio | |
+ECD | |
 LBS | 75% (77%) | 85% (87%)
 UBS | 38% (37%) | 48% (47%)
-4. Gender Parity
-ECD
+4. Gender Parity | |
+ECD | |
 LBS | 1.03 | 1.03
 UBS | 0.91 | 1.0
-5. Completion Rate
+5. Completion Rate | |
 LBS | 65% (67%) | 80% (80%)
 UBS | 56% (52%) | 63% (63%)
 6. Literacy Rate | 42.55% (30.6%) | 50% (43%)
-Education Quality and Efficiency
-1. Pupil-Teacher Ratio
+Education Quality and Efficiency | |
+1. Pupil-Teacher Ratio | |
 LBS | 1:39 | 1:45
-
-Table 1: Key Sector Indicators (Baseline Vs Targets)
 
 18
 
@@ -595,12 +515,11 @@ Table 1: Key Sector Indicators (Baseline Vs Targets)
 [[START OF PAGE 19]]
 
 UBS | 1:22 | 1:45
---- | --- | --- | ---
-2. | % Qualified Teachers (LBS) | 70% (27%) | 80% (37%)
-3. | Annual Instruction Hours | 866 hrs | 880 hrs
-4. | Pupil: Textbooks/Instructional materials Ratio | 1:4 | 1:1
+2. % Qualified Teachers (LBS) | 70% (27%) | 80% (37%)
+3. Annual Instruction Hours | 866 hrs | 880 hrs
+4. Pupil: Textbooks/Instructional materials Ratio | 1:4 | 1:1
 LBS | 1:1 | 1:1
-3:1 | UBS 1:1
+UBS | 3:1 | 1:1
 
 Source: DOSBSE EMIS
 
@@ -616,6 +535,8 @@ Since ECD is largely provided by the private sector, affordability becomes an is
 
 In  spite  of  these  difficulties,  the  sector  has  witnessed  marked  development  in  the  area  of programming and programme implementation, which has resulted in growth in terms of gross enrolment  rates  in  all  the  regions,  as  can  be  seen  in  Table  1.  However,  there  are  regional disparities between urban and rural areas, which indicates greater participation in ECD provision in the urban than rural regions. Evidence of this can be traced to the fact that the GER for Region 1 increased from 26.8% to 42% whilst the GER for Region 6 increased from 6.1% to 9%.
 
+Table 2: ECD GER 4 by Region (1999/2000 - 2006/2007)
+
 Region | 1999/2000 | 2006/2007
 --- | --- | ---
 Region 1 | 26.8% | 42%
@@ -623,8 +544,6 @@ Region 2 | 30.5% | 34%
 Region 3 | 11.3% | 17%
 Region 4 | 18.1% | 19%
 Region 5 | 8.5% | 14%
-
-Table 2: ECD GER 4 by Region (1999/2000 - 2006/2007)
 
 > 4 GER is equal to ECD enrolment as a proportion of the population of 3-6-year olds
 
@@ -646,9 +565,9 @@ In view of the foregoing, the following targets will be pursued during the perio
 
 - Increase overall GER from 26% to 42%
 
-- Increase the admission rate from 39.4% to 45%
-
 - Increase the number of model centres from 10 to 60 (10 per region)
+
+- Increase the admission rate from 39.4% to 45%
 
 - Maintain the rate of promotion at 100%.
 
@@ -664,9 +583,9 @@ The Gambia College will continue to provide training to facilitators who are eng
 
 - Capacity building
 
-- Empowerment
-
 - Advocacy
+
+- Empowerment
 
 Under capacity building, the following areas will be focused on:
 
@@ -682,9 +601,9 @@ Under capacity building, the following areas will be focused on:
 
 - Development and delivery of a balanced curriculum
 
-- Development and enforcement of operational guidelines
-
 - Annexation of ECD centres to existing lower basic schools
+
+- Development and enforcement of operational guidelines
 
 - Development and implementation of developmental standards
 
@@ -692,7 +611,9 @@ Under the advocacy component, a comprehensive communication strategy will be dev
 
 The  empowerment  component  will  target  the  provision  of  literacy  skills  to  illiterate  parents which will help generate sustainable income to support ECD provision at the levels of the home, community and centre. The entry point for this  component will  be  the  Child  Friendly  School Initiative (CFSI) which is currently being implemented in all regions. In addition linkages and alliances will be forged to enhance participation of the private sector in the provision of ECD.
 
-The impact of the above strategies is expected to raise the admission rate of 39.4% of three-yearolds, which represented 40,124 children in 2006, to 45% by 2011. The enrolment output of this will be 91,076, as can be discerned in Table 2.
+The impact of the above strategies is expected to raise the admission rate of 39.4% of three-year-olds, which represented 40,124 children in 2006, to 45% by 2011. The enrolment output of this will be 91,076, as can be discerned in Table 2.
+
+Table 3: ECD Enrolment Projections (2008 - 2011)
 
 ECD Level | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
@@ -702,15 +623,13 @@ ECD Level | 2008 | 2009 | 2010 | 2011
 4 | 11,770 | 17,190 | 18,593 | 20,050
 Total | 69,072 | 78,908 | 84,886 | 91,076
 
-Table 3: ECD Enrolment Projections (2008 - 2011)
-
 Source: DOSBSE Simulation Model 2008
 
 ### 1.2 Achieving Universal Completion of Quality Basic Education
 
 The  National  Education  Policy  (2004  -  2015)  provides  for  a  unified  basic  education  system, covering years 1-9, with no transition examination at the end of the lower basic school. Thus, there is a rapid expansion taking place at the upper basic level, and a policy of integrating basic education  facilities  through  the  creation  of  basic  cycle  schools 5 and  standalone  upper  basic schools.
 
-Realising that expansion of Grades 1-6 implies expansion of Grades 7-9, a balance was struck between  the  provision  of  primary  and  upper  basic  facilities  by  embarking    on  a  substantial expansion  of  the  upper  basic  level;  hence  transforming  the  structure  from  six  years  of  lower basic education, three years of upper basic education, three years of senior secondary education and four years of higher education (6-3-3-4) to nine years of uninterrupted basic education, three years of senior secondary education and 4 years of tertiary  education (9-3-4).
+Realising that expansion of Grades 1-6 implies expansion of Grades 7-9, a balance was struck between the provision of primary and upper basic facilities by embarking on a substantial expansion of the upper basic level; hence transforming the structure from six years of lower basic education, three years of upper basic education, three years of senior secondary education
 
 > 5 These are schools that combine within the same structures the lower and upper basic components (Grades 1 -9) and administered by a single head teacher.
 
@@ -720,7 +639,9 @@ Realising that expansion of Grades 1-6 implies expansion of Grades 7-9, a balanc
 
 [[START OF PAGE 22]]
 
-Also, in practice, it is difficult to draw a line between the lower and the upper basic cycles.  The description of the achievements, however, looks at the two levels of basic education, principally for ease of reference and to see the performance of each level. It should, therefore, not be seen as an attempt to separate primary education from basic education as a standalone concept.
+and four years of higher education (6-3-3-4) to nine years of uninterrupted basic education, three years of senior secondary education and 4 years of tertiary education (9-3-4).
+
+Also, in practice, it is difficult to draw a line between the lower and the upper basic cycles. The description of the achievements, however, looks at the two levels of basic education, principally for ease of reference and to see the performance of each level. It should, therefore, not be seen as an attempt to separate primary education from basic education as a standalone concept.
 
 #### 1.2.1 Lower Basic Education
 
@@ -756,15 +677,15 @@ In order to sustain the gains registered thus far and remain on track to univers
 
 - Increase the admission rate from 101% to 125%
 
-- Reduce the repetition rate in LBS from 5.8% to 3.6%
+- Increase the LBS GER (including madrassas) from 91.4% to 101.9%
 
-- Increase the LBS GER (including madrassas ) from 91.4% to 101.9%
+- Reduce the repetition rate in LBS from 5.8% to 3.6%
 
 - Reduce the dropout rate in LBS from 4.1% to 2.8%
 
-- Increase the share of enrolment for boys in LBS from 49% to 50%
+- Increase the transition rate (from Grades 6 to 7) from 88% to 90%
 
-- Increase  the transition rate (from Grades 6 to 7) from 88% to 90%
+- Increase the share of enrolment for boys in LBS from 49% to 50%
 
 - Increase the achievement scores for girls at all levels to catch up with boys (NAT, EGRA, etc.)
 
@@ -788,6 +709,8 @@ However, as remote villages in the rural areas still show significant increases 
 
 [[START OF PAGE 24]]
 
+Table 4: LBS Enrolment Projections (2008 - 2011)
+
 LBS Grade Level | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
 Grade 1 | 52,216 | 55,283 | 58,575 | 62,109
@@ -798,18 +721,16 @@ Grade 5 | 33,148 | 33,554 | 36,326 | 39,464
 Grade 6 | 31,483 | 31,478 | 32,136 | 35,046
 Total | 236,743 | 248,594 | 264,247 | 283,378
 
-Table 4: LBS Enrolment Projections (2008 - 2011)
-
 Source: DOSBSE Simulation Model 2008
 
-UBS Level | 2008 | 2009 | 2010 | 2011
+Table 5: UBS Enrolment Projections (2008 - 2011)
+
+UBS Grade Level | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
 Grade 7 | 31,140 | 31,685 | 31,621 | 32,185
 Grade 8 | 28,434 | 30,568 | 31,086 | 30,972
 Grade 9 | 22,447 | 27,240 | 29,316 | 29,807
 Total | 82,021 | 89,493 | 92,023 | 92,965
-
-Table 5: UBS Enrolment Projections (2008 - 2011)
 
 Source: DOSBSE Simulation Model 2008
 
@@ -817,33 +738,25 @@ Source: DOSBSE Simulation Model 2008
 
 In  addition  to  the  UBS  enrolment  projections,  the  following  targets  have  been  set  under  the MTP:
 
-- Increase UBS GER (including official madrassa ) from 60% to 69%
-
-- Maintain the dropout rate in UBS at 2.0%
+- Increase UBS GER (including official madrassa) from 60% to 69%
 
 - Reduce the repetition rate in UBS from 4.7% to 3.0%
+
+- Maintain the dropout rate in UBS at 2.0%
 
 It  must  be  noted  that  the  targets  set  under  both  levels  have  been  carefully  guided  by  the principles of realism and the following key results are expected to be delivered during the period of implementing the ESSP.
 
 In order  to deliver the above  targets,  the  following  strategies  have  been  identified  for implementation under the MTP:
 
 - School environment conducive for teaching and learning
-
-- o Fencing of schools
-
-- o Provision of clean and safe drinking water
-
-- o Provision of separate toilet facilities for boys and girls
-
+  - Fencing of schools
+  - Provision of clean and safe drinking water
+  - Provision of separate toilet facilities for boys and girls
 - Improved quality of teaching
-
-- o Training and retention of teachers in the system
-
-- o Training of teachers on special needs education
-
-- o Training of official madrassa teachers
-
-- o Training of teachers on local teaching aid production
+  - Training and retention of teachers in the system
+  - Training of teachers on special needs education
+  - Training of official madrassa teachers
+  - Training of teachers on local teaching aid production
 
 24
 
@@ -852,36 +765,21 @@ In order  to deliver the above  targets,  the  following  strategies  have  been
 [[START OF PAGE 25]]
 
 - Cluster-based monitoring
-
-- o Monitoring and supervision of teaching and learning in schools
-
+  - Monitoring and supervision of teaching and learning in schools
 - Increased learning opportunities in basic education
-
-- o Rehabilitation of classrooms
-
-- o Provision of furniture
-
-- o Provision of school lunches through the Food for Education (FFE) Initiative
-
-- o Provision of customized donkey/horse carts for the transportation of students from satellite villages with very low school-age population
-
-- o Creation  of  feeder  schools  in  satellite  villages  with  a  sizeable  school-age population
-
+  - Rehabilitation of classrooms
+  - Provision of furniture
+  - Provision of school lunches through the Food for Education (FFE) Initiative
+  - Provision of customized donkey/horse carts for the transportation of students from satellite villages with very low school-age population
+  - Creation of feeder schools in satellite villages with a sizeable school-age population
 - Adequate quality and quantity of teaching and learning materials
-
-- o Providing schools with well-equipped and functioning libraries
-
-- o Provision of teaching and learning materials
-
+  - Providing schools with well-equipped and functioning libraries
+  - Provision of teaching and learning materials
 - Relevant and up-to-date curriculum for basic education
-
-- o Curriculum improvement for all grades in basic education
-
+  - Curriculum improvement for all grades in basic education
 - Improved management of schools
-
-- o Community participation
-
-- o Improvement of pedagogic leadership
+  - Community participation
+  - Improvement of pedagogic leadership
 
 ### 1.3 Adult and Non-Formal Education
 
@@ -897,9 +795,9 @@ To this end, the MTP will pursue the following objectives during the period 2008
 
 - Reduce the national illiteracy rate from 57.5% to about 50%
 
-- Reduce the national male illiteracy rate from 44.9% to 42 %
-
 - Reduce the national female illiteracy rate from 69.4% to 57%
+
+- Reduce the national male illiteracy rate from 44.9% to 42 %
 
 > 8 Conference International sur l'Education des Adultes
 
@@ -915,7 +813,7 @@ In  pursuance  of  the  above  targets,  a  comprehensive  non-formal  education
 
 In terms of education service delivery for this sub-sector, there is a major shift in focus from the traditional  approach,  of  providing  literacy  by  the  public  sector  to  a  public/private  partnership approach, which empowers NGOs and CBOs in the provision of literacy. Hence, the focus on partnerships and linkages will be crucial in the implementation of literacy programmes.
 
-Partnership  with  NGOs,  CSOs  and  other  stakeholders  through  a  public/private  partnership approach will therefore be an ongoing process building on trust and confidence, leading to a winwin  situation.    Partners  will  be  supported  through  the  provision  of  funds,  mobilization  of resources, capacity building in implementation strategies, monitoring and evaluation and other forms of participation. The partnership will be based on the Procedure Manual that clearly spells out the role and responsibilities of each stakeholder.
+Partnership with NGOs, CSOs and other stakeholders through a public/private partnership approach will therefore be an ongoing process building on trust and confidence, leading to a win-win situation. Partners will be supported through the provision of funds, mobilization of resources, capacity building in implementation strategies, monitoring and evaluation and other forms of participation. The partnership will be based on the Procedure Manual that clearly spells out the role and responsibilities of each stakeholder.
 
 Within the framework of the ESSP (2006 - 2015) from which the MTP is drawn, the education sector  is  committed  to  ensuring  that  partnership  is  based  on  outsourcing  to  key  players  in  the sub-sector. This will include identifying and selecting NGOs, CSOs and other providers who will in turn consult directly with communities driven by the need for literacy. The providers will be given support in the area of training, material production, monitoring and other resources that will ensure a sustainable approach to adult literacy nationwide during the implementation of the MTP. The quality of this approach will be subjected to periodic reviews, sharing of information and best practices.
 
@@ -975,7 +873,7 @@ The  function  of  education  and  human  capital  in  promoting  the  growth  o
 
 - Mainstreaming of gender in the creation of opportunities for all
 
-- Development of physical  and  mental  skills,  which  will  contribute  to  nation-building  economically, socially and culturally, in a sustainable environment
+- Development of physical and mental skills, which will contribute to nation-building – economically, socially and culturally, in a sustainable environment
 
 - Encouragement of creativity and the development of a critical and analytical mind
 
@@ -1009,9 +907,9 @@ In  order  to  attain  the  desired  enrolment  targets  set  to  increased  acc
 
 - Increase the number of teachers from 1034 to1531
 
-- Train at least 115 Gambian teachers each year to degree level and increase the proportion of female teachers in this group
-
 - Increase the number of Gambian teachers to 50% by 2011
+
+- Train at least 115 Gambian teachers each year to degree level and increase the proportion of female teachers in this group
 
 - Establish gender-balanced board of governors in accordance with the Education Act.
 
@@ -1025,13 +923,15 @@ Other  countries  face  the  same  difficulties  subsequent  to  the  rapid  exp
 
 The Gambia's secondary school leavers have been handicapped by the low quality of their earlier schooling. They perform poorly in English and mathematics in the WASSCE. The lack of  qualified  secondary  teachers  also  contributes  to  failure.  Most  qualified  secondary  school teachers are foreigners.
 
-Such is the 'raw material' with which TVET must work. It  must tailor  its  programmes to accommodate  the  current  low  standards  achieved  by  basic  education  and  secondary  leavers. TVET may have to look to DOSBSE to provide remedial 'night' classes in key subjects in order to facilitate training. For secondary leavers, the provision of further education though cooperative  programmes  linked  to  the  job  market  is  desirable.  Programmes  would  also  'prequalify' students for higher education (a second chance at WASSCE, for example) as well as placing them on the job market. 10
+Such is the 'raw material' with which TVET must work. It must tailor its programmes to accommodate the current low standards achieved by basic education and secondary leavers. TVET may have to look to DOSBSE to provide remedial 'night' classes in key subjects in order to facilitate training. For secondary leavers, the provision of further education though cooperative programmes linked to the job market is desirable. Programmes would also 'pre-
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+qualify' students for higher education (a second chance at WASSCE, for example) as well as placing them on the job market. 10
 
 #### Current TVET Programmes
 
@@ -1049,7 +949,7 @@ There  is  also  a Hotel  School which  would  benefit  from  greater  integrati
 
 Private sector providers typically offer business-related training in accounting, advertising and computer applications. They are licensed by the state. However, at present the NTA has yet to develop  quality  control  capacity,  with  standards  for  private  providers  which  go  beyond  basic safety and sanitation.
 
-NGO and CO training is highly specific to their own ongoing activities, frequently financed by international NGOs (such as CRS and FIOH) or by the donors. Programmes design, execution and evaluation is generally 'in-house'. The cost-effectiveness of these training programmes is not  known.    The apprenticeship  system is  floundering.  It  has  failed  to  keep  up  with  market demand  and  even  basic  technologies. The  most  sought-after electricians,  plumbers  and carpenters are often foreign-trained.
+NGO and CO training is highly specific to their own ongoing activities, frequently financed by international NGOs (such as CRS and FIOH) or by the donors. Programmes design, execution
 
 > 10 Fifty per cent of all United States undergraduates are in community colleges, transferring to traditional colleges and universities typically after two years. The community college often provides remedial high school instruction as well as grounding in degree courses to be pursued later.
 
@@ -1059,13 +959,15 @@ NGO and CO training is highly specific to their own ongoing activities, frequent
 
 [[START OF PAGE 31]]
 
-There is a lack of labour market information. With regard to labour market information, a preliminary employment survey under way (financed under the WB-assisted CDD project) will likely provide useful baseline data. However, unless a permanent mechanism for monitoring the labour  market  and  tracking  schools  -  such  as  a  labour  market  'observatory'  -  is  established, future updating will continue to depend on external technical assistance, with little local valueadded.  The new observatory could be developed at the University of The Gambia's Department of Social Sciences, in collaboration with the NTA. The Department could provide the expertise in economics, sociology and anthropology, the disciplines required to implement regular surveys and  longitudinal  studies  with  due  attention  being  given  to  both  quantitative  and  qualitative analyses.  The  Department  would  benefit  from  hands-on  field  training  for  its  undergraduate students. Institutionalization of labour market studies and the strengthening of analytical capacity in  the  country  would  also  pay  off  in  the  improvement  of  ongoing  poverty  analysis  under  the PRSP.
+and evaluation is generally 'in-house'. The cost-effectiveness of these training programmes is not known. The apprenticeship system is floundering. It has failed to keep up with market demand and even basic technologies. The most sought-after electricians, plumbers and carpenters are often foreign-trained.
+
+There is a lack of labour market information. With regard to labour market information, a preliminary employment survey under way (financed under the WB-assisted CDD project) will likely provide useful baseline data. However, unless a permanent mechanism for monitoring the labour market and tracking schools - such as a labour market 'observatory' - is established, future updating will continue to depend on external technical assistance, with little local value-added. The new observatory could be developed at the University of The Gambia's Department of Social Sciences, in collaboration with the NTA. The Department could provide the expertise in economics, sociology and anthropology, the disciplines required to implement regular surveys and longitudinal studies with due attention being given to both quantitative and qualitative analyses. The Department would benefit from hands-on field training for its undergraduate students. Institutionalization of labour market studies and the strengthening of analytical capacity in the country would also pay off in the improvement of ongoing poverty analysis under the PRSP.
 
 #### Training Priorities and Challenges
 
 The priorities are training to support social investment (education, health and water supply -  Pillar  II  of  the  PRSP)  and  the  economic  investment  (Pillar  III)  required  to  grow  the economy. Training  for  the education  sector is  an  integral  part  of  the  MTP  and  a  robust programme  has  been  developed  under  the  Second  and  Third  Phases  of  the  Education  Sector Support Programme, financed by the WB, the AFDB and other donors.
 
-Water supply is  successfully addressing its own needs, too. In contrast, health faces a neverending task in training, as health personnel continue to migrate in large numbers because of low civil service pay and uncertain career opportunities.  Between 2003and 2005, the Royal Victoria Teaching  Hospital  alone  lost  250  nurses.    New  agreements  with  destination  countries  are probably a prerequisite for resolving this problem. In this regard, the WHO (August 2008) called on the United Kingdom to tighten up the regulations governing its public sector recruitment of African health workers.
+Water supply is successfully addressing its own needs, too. In contrast, health faces a never-ending task in training, as health personnel continue to migrate in large numbers because of low civil service pay and uncertain career opportunities. Between 2003and 2005, the Royal Victoria Teaching Hospital alone lost 250 nurses. New agreements with destination countries are probably a prerequisite for resolving this problem. In this regard, the WHO (August 2008) called on the United Kingdom to tighten up the regulations governing its public sector recruitment of African health workers.
 
 TVET  therefore  focuses  squarely  on  economic  growth. The Gambia's  economy  depends primarily on tourism and related construction and services (60 per cent of government revenues); on  agriculture  (historically  more  than  a  third  of  GDP);  on  commerce,  transport  and  the facilitation of cross-border trade. The economy's lack of diversification is unlikely to change in the short term.
 
@@ -1087,7 +989,7 @@ In  agriculture,  the  provision  of  agricultural  extension  training  is  woe
 
 The success of the proposed 2009 Public Sector Reform Project (Joint AFDB/WB Grant) effort to  improve production and quality in the groundnut sub-sector will also depend on farm-level extension and training services, so too will any initiatives seeking to diversify the sector towards export  crops.  An  important  step  will  be  to  re-vitalize  the  existing  agricultural  and  extension service to ensure long-term support to the sector. The programmes at the Gambia College will also be reviewed to see how they can better back-stop the sector.
 
-Information technology is likely to underpin the development of all sectors. While phone companies  and  Internet  Service  Providers  (ISPs)  handle  their  own  training,  consumers,  in government (where education and health are evident priorities) and the private sector, lack access to  training.  Most  available  training  -  provided  by  mainly  small  entrepreneurs  -  is  limited  to standard  business  'applications'  rather  than  to  system  design.  For  example,  there  is  no comprehensive  training  on  networking  (hardware  and  software)  in  The  Gambia.  The  few qualified personnel have been trained abroad. This presents the GTTI with an opportunity.
+Information technology is likely to underpin the development of all sectors. While phone companies and Internet Service Providers (ISPs) handle their own training, consumers, in government (where education and health are evident priorities) and the private sector, lack access to training. Most available training - provided by mainly small entrepreneurs - is limited to standard business 'applications' rather than to system design. For example, there is no
 
 32
 
@@ -1095,11 +997,13 @@ Information technology is likely to underpin the development of all sectors. Whi
 
 [[START OF PAGE 33]]
 
+comprehensive training on networking (hardware and software) in The Gambia. The few qualified personnel have been trained abroad. This presents the GTTI with an opportunity.
+
 #### Gender and youth also present formidable challenges to TVET
 
 The  'youth  bulge'  is  a  challenge  recently  apprehended  and  not  yet  fully  quantified. Overall population growth is 2.8 per cent per annum, with the total fertility rate past the 'tipping point' of five children per woman. Growth will be difficult to slow down, even though family planning is now accepted. Given The Gambia's topography, the pressures on public services and on land will be great.
 
-If  the  experience  of  other  counties  in  sub-Saharan  African  (SSA)  is  an  indicator 11 ,  then  high urban  population  growth  will  exacerbate  these  problems,  creating  an  urgent  need  for youth support programmes including 'survival skills' (health, sex and anti-smoking education, nonformal education and skill training) to reduce the likely destabilizing impact of high unemployment, as more primary and then lower secondary school students drop out of or decide to leave their studies 12 .  The school health programme, including sex education, is the first step towards  'survival  skills',  from  the  middle  grades  of  basic  education  onward.  Secondary education  should  include  other  survival  skills  such  as  averting  'risky  behaviour',  parenting, handling money and entrepreneurialism (clubs for youth entrepreneurs).
+If the experience of other counties in sub-Saharan African (SSA) is an indicator 11, then high urban population growth will exacerbate these problems, creating an urgent need for youth support programmes including 'survival skills' (health, sex and anti-smoking education, non-formal education and skill training) to reduce the likely destabilizing impact of high unemployment, as more primary and then lower secondary school students drop out of or decide to leave their studies 12. The school health programme, including sex education, is the first step towards 'survival skills', from the middle grades of basic education onward. Secondary education should include other survival skills such as averting 'risky behaviour', parenting, handling money and entrepreneurialism (clubs for youth entrepreneurs).
 
 Establishing  an  array  of  specific  youth  training  opportunities  is  essential  but  their identification will be difficult without more sector knowledge. Given the rapid urban growth rate  and  consequent  rapidly  changing  social  patterns,  a  more  comprehensive  knowledge  base must be built by:
 
@@ -1113,7 +1017,7 @@ Accomplishing  these  tasks  will  require  creation  of  a  multidisciplinary  
 
 ##### Programmes to Empower Women
 
-A comprehensive gender sector study is needed. Recent IFC country studies on gender and economic empowerment provide a good model. Diagnostic assessments of women's needs for literacy and education, their status under the law (family protection; inheritance of real property), access to credit and business advice and their political representation provide the basis for the participatory design of action programmes. 13
+A comprehensive gender sector study is needed. Recent IFC country studies on gender and economic empowerment provide a good model. Diagnostic assessments of women's needs for
 
 > 11 Urban population growth rates (2006): Bamako 5.1 per cent p.a.; Ouagadougou 5.3; Niamey 5.9; Bujumbura 7.6; and Kigali 10.7 ( Economist World Survey 2008).
 
@@ -1125,11 +1029,13 @@ A comprehensive gender sector study is needed. Recent IFC country studies on gen
 
 [[START OF PAGE 34]]
 
+literacy and education, their status under the law (family protection; inheritance of real property), access to credit and business advice and their political representation provide the basis for the participatory design of action programmes. 13
+
 #### International Support
 
 The  Gambia  plans  to  explore  IFC  financing  and  technical  assistance  for  TVET  programme design by the NTA and the key public sector training establishments. The IFC may also assist private sector training providers' association in its efforts to improve the relevance and quality of programme offerings. The ILO can provide assistance on the design of labour market surveys and  workplace  policies  and  practices  (WPP)  relative  to  HIV/AIDS  expected  to  be  an  integral component of all training.
 
-### 2.6 Higher Education [ [
+### 2.6 Higher Education
 
 #### Overview
 
@@ -1193,9 +1099,9 @@ Under  the  MTP  the  higher  education  programme  aims  at  providing  expande
 
 - Improved access to relevant quality education in tertiary institutions
 
-- Improved regular maintenance of structures and resources for improved access to quality higher education
-
 - Improved management in all tertiary institutions
+
+- Improved regular maintenance of structures and resources for improved access to quality higher education
 
 #### Strategies
 
@@ -1203,19 +1109,19 @@ In order to achieve the above-mentioned objectives and targets, The Gambia aims 
 
 - Promoting staff development
 
-- Recruiting and  retaining staff in specialized areas, i.e.  mathematics,  science  and pedagogy
+- Recruiting and retaining staff in specialized areas, i.e. mathematics, science and pedagogy
 
 - Developing and implementing a quality assurance and accreditation system
 
-- Updating and/or modernizing the curriculum
-
 - Improving library services
+
+- Updating and/or modernizing the curriculum
 
 - Encouraging private sector participation
 
-- Ensuring affordable cost of higher education through effective cost sharing mechanisms
-
 - Improving resource mobilization and financial management
+
+- Ensuring affordable cost of higher education through effective cost sharing mechanisms
 
 - Promoting research.
 
@@ -1231,21 +1137,21 @@ Under the basic education programme, the following cross-cutting interventions w
 
 - Quality
 
-- Gender mainstreaming
-
 - Classroom construction
+
+- Gender mainstreaming
 
 - Education sector response to HIV/AIDS
 
-- Special needs education
-
 - Life skills education
+
+- Special needs education
 
 - Child protection
 
-- Science and technology
-
 - Teacher education
+
+- Science and technology
 
 ### 3.1 Quality
 
@@ -1261,9 +1167,9 @@ Although there are questions about the validity of some of the instruments used 
 
 - Low content knowledge by teacher-trainees entering teacher training
 
-- Few or no professional development opportunities for teachers both before and during their teaching service
-
 - Poor or outdated pedagogical knowledge and skills of teachers
+
+- Few or no professional development opportunities for teachers both before and during their teaching service
 
 37
 
@@ -1283,15 +1189,15 @@ Under  the  MTP,  the  following  objectives  under  the  quality  component  wi
 
 - Increase grade level competence (mastery) in the core subjects from 10% to 15%;
 
-- Maintain the pupil-textbook ratio in LBS at 1:1
-
 - Increase grade level competence (minimum)in the core subjects from 46% to 60%
+
+- Maintain the pupil-textbook ratio in LBS at 1:1
 
 - Decrease the pupil-textbook ratio in UBS from 3:1 to 1:1
 
-- Decrease the pupil-supplementary reader ratio in UBS from 4:1 to 1:1
-
 - Decrease the pupil-supplementary reader ratio in LBS from 2:1 to 1:1
+
+- Decrease the pupil-supplementary reader ratio in UBS from 4:1 to 1:1
 
 - Increase hours of instruction to 866 14
 
@@ -1313,9 +1219,9 @@ In  order  to  achieve  effective  and  efficient  school  management  by  2015,
 
 - Establish effective and efficient monitoring in schools
 
-- Develop and implement a cluster-based monitoring framework
-
 - Develop and implement an integrated quality assurance framework
+
+- Develop and implement a cluster-based monitoring framework
 
 - Develop  and  use  model  classrooms  for  the  learner-centred  approach  to  assist  in  the development of capacity in the approach
 
@@ -1355,21 +1261,21 @@ The way forward for implementing the national language policy includes:
 
 - Printing of manuals for Grades 1 -3
 
-- Development of syllabuses and instructional materials for Grades 1- 3
-
 - Training of teachers and monitors in the use of the manuals for Grades 1-3
+
+- Development of syllabuses and instructional materials for Grades 1- 3
 
 - Distribution of materials and further teacher orientation and monitoring for Grades 1-3
 
-- Development and validation of training manuals  for Grades 4 - 9
+- Language mapping with the support and involvements of REDs and PTAs
 
-- Language mapping with the support and involvements of REDs and  PTAs
+- Development and validation of training manuals for Grades 4 - 9
 
 - Printing of manuals for Grades 4 -9
 
-- Development of syllabuses  uses and instructional materials for Grades 4- 9
-
 - Training of teachers and monitors in the use of the manuals for Grades 4 -9
+
+- Development of syllabuses and instructional materials for Grades 4- 9
 
 - Distribution of materials and further teacher orientation and monitoring
 
@@ -1391,15 +1297,15 @@ The way forward for the development of reading abilities include:
 
 - Review and update of the EGRA assessment tools
 
-- Further  improvement  of  the  handbook  and  its  integration  into  the  English  language instructional materials
-
 - Conduct of impact assessment on the use of the EGRA handbook
+
+- Further improvement of the handbook and its integration into the English language instructional materials
 
 - Training of teachers in the EGRA assessment tools and methods
 
-- Monitoring and evaluation of EGRA in schools
-
 - Further training of teachers and the relevant education sector personnel in EGRA
+
+- Monitoring and evaluation of EGRA in schools
 
 ##### C: An expanded teaching of French at all levels and wide dissemination of the language
 
@@ -1435,19 +1341,19 @@ For the principal objective :
 
 - Increasing and improving contacts in the Francophone working world
 
-- Creation of suitable university courses such as undergraduate and postgraduate language courses ( Langues Etrangères Appliquées (LEA), law programmers, etc.)
+- Creation of suitable university courses such as undergraduate and postgraduate language courses (Langues Etrangères Appliquées (LEA), law programmes, etc.)
 
 ###### French as the actor of bilingualism:
 
-- Existence of bilingual programmers in pilot schools
+- Existence of bilingual programmes in pilot schools
 
 - Verified  increase  in  the  number  of  schools  with  French  as  a  principal  teaching language
 
 - Dynamism of French clubs in schools
 
-- Increased use of French in the media.
-
 - Increasing the number of French language courses taught at university
+
+- Increased use of French in the media.
 
 ###### Strategies
 
@@ -1455,9 +1361,9 @@ In  order  to  achieve  the  set  objectives  during  the  MTP,  the  following 
 
 - Train more French teachers
 
-- Enhance the quality of training and the status of future French teachers
-
 - Train teachers in specialist French
+
+- Enhance the quality of training and the status of future French teachers
 
 - Encourage the extension of bilingualism to primary education so as to strengthen the project's coherence
 
@@ -1501,13 +1407,17 @@ Source: DOSBSE Simulation Model 2008
 
 a/ Includes replacement of temporary classrooms
 
-One of the most important determinants of school expansion is the size of enrolment which, in turn, is determined by the annual growth rate of the school-age population, currently estimated at the lower basic level at 2.8% per annum. Over the period the enrolment is projected to increase from  238,469  in  2008  to  294,120  in  2011.  The  number  of  additional  places  at  this  level  is estimated  at  22,734  thus  representing  an  additional  need  of  1,149  classrooms,  or  an  annual average of 287, leading to a gross enrolment rate of 120%. The projections depict a shift in the double-shifting policy from the original target of 25%, requiring 3000 additional classrooms, to 50% of the classroom and thus reducing the classrooms needs to a much manageable size.
+One of the most important determinants of school expansion is the size of enrolment which, in turn, is determined by the annual growth rate of the school-age population, currently estimated at the lower basic level at 2.8% per annum. Over the period the enrolment is projected to increase from 238,469 in 2008 to 294,120 in 2011. The number of additional places at this level is estimated at 22,734 thus representing an additional need of 1,149 classrooms, or an annual average of 287, leading to a gross enrolment rate of 120%. The projections depict a shift in the
 
 42
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+double-shifting policy from the original target of 25%, requiring 3000 additional classrooms, to 50% of the classroom and thus reducing the classrooms needs to a much manageable size.
+
+Access Table 7: Summary Indicators, Grades 7-9
 
 GRADES 7-9 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
@@ -1527,8 +1437,6 @@ Private& Grant Aided
 NEW ADDITIONS | 11 | 13 | 8 | 6
 TOTAL STOCK PERMANENT | 173 | 186 | 194 | 200
 
-Access Table 7: Summary Indicators, Grades 7-9
-
 Source: DOSBSE Simulation Model 2008
 
 Enrolment at the upper basic level is estimated to increase from the current 74,255 to 86,238, while the additional places will decrease from 4,708 (2008) to only 2,657 (2011) because the current capacity at the upper basic level will be able to accommodate the potential increase in enrolment  over  this  period  as  well  as  the  efficiency  measures  being  put  in  place  to  reduce repetition  and  dropout  rates.  This  takes  into  account  the  variations  of  the  intake  of  students across grade levels and rates of repetition and drop outs. Thus the annual classroom requirement will vary from 76 classrooms in 2008 to 46 classrooms in 2011 while the GER at this level will fluctuate between 62% and 66%.
@@ -1537,7 +1445,7 @@ At  the  secondary  level,  in  order  to  cater  for  the  increasing  demand  
 
 #### Strategies
 
-In  response to  the  growing demand for additional places in the basic cycle, DOSBSE will, in collaboration  with  its  development  partners,  continue  to  construct  normal  type  additional classrooms in urban and fast-growth centres where the demand is on the rise while multi-grade types of classrooms will be piloted or built in remote and under populated areas. The proposed expansion programmed the will assess the level of under-utilization in schools and how much growth can  be  absorbed  through  better  utilization  of  existing  structures,  prior  to  any  new  construction  or rehabilitation.
+In response to the growing demand for additional places in the basic cycle, DOSBSE will, in collaboration with its development partners, continue to construct normal type additional classrooms in urban and fast-growth centres where the demand is on the rise while multi-grade types of classrooms will be piloted or built in remote and under populated areas. The proposed
 
 43
 
@@ -1545,15 +1453,17 @@ In  response to  the  growing demand for additional places in the basic cycle, D
 
 [[START OF PAGE 44]]
 
-Under the MTP, the construction of classrooms across the country will be intensified to respond to  the  growing  demand  in  order  to  meet  the  policy  target  of  universal  basic  education.  The construction works will be executed through a framework agreement to be signed with NGOs and CBOs specialized in civil works. DOSBSE will also promote private sector participation in the delivery of education services at the basic level.
+expansion programme will assess the level of under-utilization in schools and how much growth can be absorbed through better utilization of existing structures, prior to any new construction or rehabilitation.
+
+Under the MTP, the construction of classrooms across the country will be intensified to respond to the growing demand in order to meet the policy target of universal basic education. The construction works will be executed through a framework agreement to be signed with NGOs and CBOs specialized in civil works. DOSBSE will also promote private sector participation in the delivery of education services at the basic level.
 
 Education  policies  are  based  on  the  assumption  that  schooling  must  be  affordable  and  that  it must  be  conducted  in  safe,  modestly  comfortable  and  hygienic  facilities.    To  achieve  the outcome  and  targets  of  equitably  expanding  basic  education,  the  following  strategies  will  be adopted:
 
 - Provide an adequate number of schools and classrooms
 
-- Increase awareness and participation
-
 - Maintain school facilities
+
+- Increase awareness and participation
 
 ### 3.3 Gender Mainstreaming
 
@@ -1583,7 +1493,9 @@ As  shown  in  Table  8,  the  resultant  effect  of  the  above  strategies  ga
 
 10.3%. Translating this into LBS GER for girls means an increase from 48% in 1992/93 to 77% in 2002/2003 whilst the UBS GER for the same sex increased from 27% to 44% during the same period.
 
-1992/93 | 2002/03 | 2006/07
+Table 8: Gross Enrolment Ratio & Share of Girls at the LBS and UBS
+
+| 1992/93 | 2002/03 | 2006/07
 --- | --- | --- | ---
 LBS
 GER | 48% | 77% | 92%
@@ -1595,8 +1507,6 @@ SSS
 GER | 7% | 18% | 32%
 Girls' Share of Enrolment | 26% | 34% | 42%
 
-Table 8: Gross Enrolment Ratio & Share of Girls at the LBS and UBS
-
 Source: DOSBSE EMIS
 
 Expansion in access beyond 2003 continued, with gains for girls across all cycles but worrisome drops for boys in lower basic education. This is manifested in the share of enrolment for girls shooting up from 48% in 2002/2003 to 51% in 2006/2007.
@@ -1607,15 +1517,15 @@ Hence under the MTP, focus of the gender education programme will be guided by t
 
 - Creating equal opportunities for all
 
-- Attaining gender equity in education by 2005 and sustaining it
-
 - Reduction of illiteracy rates, especially for females
+
+- Attaining gender equity in education by 2005 and sustaining it
 
 - Equitable supply of quality teachers of both sexes
 
-- Establishing high retention, performance and completion rates, especially of girls
-
 - Reduction of gender disparities in teacher recruitment, training, promotion and posting
+
+- Establishing high retention, performance and completion rates, especially of girls
 
 - Improved performance and participation in all subjects, particularly in mathematics and science.
 
@@ -1657,9 +1567,9 @@ The response clearly sets out the agenda through the following interventions:
 
 - Prevention
 
-- Non-discrimination
-
 - Care and support
+
+- Non-discrimination
 
 #### Prevention
 
@@ -1667,9 +1577,9 @@ Under  prevention,  DOSBSE  will  undertake  the  core  responsibility  of  addr
 
 - Safe school and institution environment
 
-- Provision of information
-
 - Prevention of transmission through play and sports
+
+- Provision of information
 
 - Provision of HIV/AIDS preventive services
 
@@ -1697,7 +1607,7 @@ All learners and education personnel will be entitled to have access to informat
 
 The education sector will promote the principles of abstinence, fidelity and the use of condoms. However, condom promotion shall take due consideration  of  age  appropriateness,  culture  and parental guidance and HIV status of the individuals at all times.
 
-Hence DOSBSE will facilitate access to HIV/AIDS services, with emphasis on the specific needs of  women  and  girls,  orphans,  people  with  special  needs  and  other  vulnerable  groups.  In particular, DOSBSE will facilitate access to preventive services including prevention of parent to- child transmission (PPTCT) and VCT services.
+Hence DOSBSE will facilitate access to HIV/AIDS services, with emphasis on the specific needs of women and girls, orphans, people with special needs and other vulnerable groups. In particular, DOSBSE will facilitate access to preventive services including prevention of parent - to- child transmission (PPTCT) and VCT services.
 
 #### Care and Support
 
@@ -1707,13 +1617,15 @@ This is based on the proposition that good nutrition cannot cure AIDS or prevent
 
 #### Non-Discrimination
 
-According to UNAIDS, ' discrimination occurs when a distinction made against a person results in  him  or  her  being  treated  unfairly  and  unjustly  on  the  basis  of  their  belonging  or  being perceived  to  belong  to  a  particular  group.  Any  action  directed  at  eliminating  stigma  and discrimination is therefore considered the promotion of human rights and fundamental freedom.'
+According to UNAIDS, ' discrimination occurs when a distinction made against a person results in him or her being treated unfairly and unjustly on the basis of their belonging or being
 
 47
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
+
+perceived to belong to a particular group. Any action directed at eliminating stigma and discrimination is therefore considered the promotion of human rights and fundamental freedom.'
 
 ##### Disclosures and Confidentiality
 
@@ -1797,7 +1709,7 @@ To deliver on the expectations of this component, learners will be exposed to sk
 
 Quality education can be perceived to embody both cognitive and emotional domains to ensure that pupils acquire not only relevant and sufficient knowledge for adulthood but also practical experience and expertise in citizenship and human rights through the promotion of a culture of peace, democratic principles and the development of creativity and affectivity.
 
-From  this  perspective,  human  rights  education  (HRE)  will  be  integrated  into  the  school curriculum  and  given  due  prominence  in  the  life  skills  programme  in  accordance  with  the recommendations of a recent study on human rights education. 16 H uman rights education is conceived  from  social,  legal,  educational,  economic  and  political  perspectives;  therefore, the  HRE  programme  will  reflect  these  various  strands.  However,  while  recognizing pertinent universal precepts and values, human rights and citizenship will be linked to the context or socio-political realities of The Gambia.
+From this perspective, human rights education (HRE) will be integrated into the school curriculum and given due prominence in the life skills programme in accordance with the recommendations of a recent study on human rights education. 16 Human rights education is conceived from social, legal, educational, economic and political perspectives; therefore, the HRE programme will reflect these various strands. However, while recognizing pertinent universal precepts and values, human rights and citizenship will be linked to the context or socio-political realities of The Gambia.
 
 #### Guidance and Counselling
 
@@ -1805,7 +1717,7 @@ Guidance  and  counselling  (GC)  has  continued  to  be  one  of  the  support 
 
 It is for this reason that GC will be used as a service necessary for all the components of LSE.
 
-[
+
 
 #### Patriotism
 
@@ -1831,9 +1743,9 @@ Strategy  1 :  To  support  the  implementation  of  the  LSE  programme  in  sc
 
 - Train teachers in LSE at Gambia College and UTG
 
-- Provide continuous in-service training for teachers in LSE
-
 - Provide support in the form of teaching and learning materials
+
+- Provide continuous in-service training for teachers in LSE
 
 - Support the establishment and continued training of peer counsellors/health educators in schools
 
@@ -1869,15 +1781,15 @@ As a matter of priority for special needs education focusing on the two general 
 
 - Itinerant teacher training and supply
 
-- Support for the provision of technical vocational education and training
-
 - Early identification and assessment of children
+
+- Support for the provision of technical vocational education and training
 
 - Provision of school buses to enhance access and school attendance
 
-- Provision of braille printing facility for the transcription of core textbooks and supplementary readers into braille for use by low vision and blind children
-
 - Provision of braille machines for individual blind and low vision students
+
+- Provision of braille printing facility for the transcription of core textbooks and supplementary readers into braille for use by low vision and blind children
 
 #### Strategies
 
@@ -1993,9 +1905,9 @@ In our drive to achieve these targets, government will adopt the following strat
 
 - Introduce remedial classes for weak students before the start of their training
 
-- In the long run phase out the PTC programme
-
 - Establish decentralized teacher training centres
+
+- In the long run phase out the PTC programme
 
 - Train more teachers of mathematics and science as a priority area
 
@@ -2041,19 +1953,17 @@ It is generally agreed that science and technology is crucial in resolving major
 
 - Inadequate  laboratory  apparatus  and  equipment  in  upper  basic  and  senior  secondary schools
 
-·
-
 - Lack of trained laboratory technicians and assistants in schools
 
 - Non-existence of laboratories in lower basic schools
 
-- Non-availability of trained ICT teachers in schools
-
 - Lack of continuous learning and professional development of existing teachers
+
+- Non-availability of trained ICT teachers in schools
 
 - Limited science and technology infrastructure, resources and capacity
 
-- Lack  of  critical  mass  of  scientifically  literate  policy-makers  or  decision-makers  who appreciate the link between science and technology and the socio-economic and sociopolitical issues to a level where they can commit costly and long-term investment as a matter of priority
+- Lack of critical mass of scientifically literate policy-makers or decision-makers who appreciate the link between science and technology and the socio-economic and socio-political issues to a level where they can commit costly and long-term investment as a matter of priority
 
 - Lack  of  a  critical  mass  of  trained  and  motivated  personnel,  policies  or  appropriate incentives to retain the few that exist within the system
 
@@ -2075,7 +1985,7 @@ The  constraints  highlighted  above  (together  with  the  interest  and  commi
 
 During the MTP, science and technology education will be given prominence, pursued to ensure that there is development of a strong science and technology commencing at the basic level to the development of in-country-based research scientists and engineers at the tertiary education level.
 
-In order to realise the above vision, these objectives will be carried out|:
+In order to realise the above vision, these objectives will be carried out:
 
 - Raising the status of STE  through:
 
@@ -2085,17 +1995,17 @@ In order to realise the above vision, these objectives will be carried out|:
 
 - Celebration of the National Science and Technology Week
 
-- Annual girls' science and mathematics clinics and camps
-
 - Extramural classes for mathematics and science students in secondary schools
+
+- Annual girls' science and mathematics clinics and camps
 
 - Provision of adequate and appropriate laboratory apparatus and other teaching/learning materials for science
 
 - Refurbishment of science labs in schools
 
-- Procurement of chemical reagents and distribution to schools
-
 - Construction of labs for LBS
+
+- Procurement of chemical reagents and distribution to schools
 
 - Provision of micro-science kits to LBS
 
@@ -2139,9 +2049,9 @@ The targets in the realization of these strategies may include the following :
 
 - Refurbish and procure chemical reagents for 5% of labs per region annually
 
-- Create  three labs for  three LBS per region
-
 - Provide 40% of lab apparatus and equipment prototype
+
+- Create three labs for three LBS per region
 
 - Provide scholarships to mathematics and science students at the UTG
 
@@ -2149,13 +2059,13 @@ The targets in the realization of these strategies may include the following :
 
 The importance of ICT is recognized as an essential tool to better facilitate effective and efficient management of the sector. This policy will ensure, through the use of ICT, that quality education is accessible to all and sundry.
 
-An  integrated  ICT  strategy,  within a sound  ICT  infrastructure, vital for the successful achievement of DOSBSE`s main priorities, will be developed. The key elements of the strategy will:
+An integrated ICT strategy, within a sound ICT infrastructure, vital for the successful achievement of DOSBSE's main priorities, will be developed. The key elements of the strategy will:
 
 - provide an integrated system to meet the needs of the employees of the sector
 
-- create and nurture an ICT culture within the sector personnel
-
 - promote computer and information literacy within the sector personnel
+
+- create and nurture an ICT culture within the sector personnel
 
 - provide  the  necessary  ICT  resources  (hardware,  software)  to  ensure  efficient  and effective administration of the sector
 
@@ -2237,9 +2147,9 @@ To monitor the management performance of the sector, key results will be used an
 
 - A comprehensive policy agenda and framework developed and implemented
 
-- Effective financial planning and management ensured
-
 - Effective planning and management of the education sector
+
+- Effective financial planning and management ensured
 
 - Effective  education,  information  and  knowledge  management  system  developed  and implemented
 
@@ -2311,19 +2221,19 @@ The Quality Assurance Programme aims at improving the learning outcomes in Grade
 
 The National Assessment Test (NAT) will be institutionalized starting in 2008. All students in Grades 3 and 5 will be required to take the test in English, mathematics and integrated studies. According to the latest NAT, the following results (in percentages) have been recorded:
 
-Grade 3 | Grade 5
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Mastery | Pass | Mastery | Pass
-Subjects | M | F | M | F | M | F | M | F
-English | 2.83 | 3.34 | 19.69 | 20.63 | 6.45 | 5.86 | 31.7 | 27.32
-Mathematics | 0.78 | 0.75 | 18.06 | 17.96 | 0.49 | 0.51 | 12.94 | 10.95
-Integrated Studies 19 | 2.32 | 2.14 | 14.84 | 14.65
-Social and Environmental Studies (SES) | 2.94 | 1.93 | 31.19 | 25.49
-Science | 0.91 | 0.63 | 19.4 | 16.11
-
 Table 9: 2008 National Assessment Test Results
 
-Source: National Assessment Test Results - WAEC, 2008
+| | Grade 3 | | | | Grade 5 | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Mastery | | Pass | | Mastery | | Pass | |
+| Subjects | M | F | M | F | M | F | M | F |
+| English | 2.83 | 3.34 | 19.69 | 20.63 | 6.45 | 5.86 | 31.7 | 27.32 |
+| Mathematics | 0.78 | 0.75 | 18.06 | 17.96 | 0.49 | 0.51 | 12.94 | 10.95 |
+| Integrated Studies 19 | 2.32 | 2.14 | 14.84 | 14.65 | | | | |
+| Social and Environmental Studies (SES) | | | | | 2.94 | 1.93 | 31.19 | 25.49 |
+| Science | | | | | 0.91 | 0.63 | 19.4 | 16.11 |
+
+Source: National Assessment Test Results – WAEC, 2008
 
 A quality  assurance  framework  will  be  developed.  This  will  include  school  level  monitoring, monitoring at the cluster and national levels.
 
@@ -2335,7 +2245,7 @@ An  institutional  assessment  will  be  carried  out  with  a  view  to  implem
 
 DOSBSE's management information system (EMIS) will be linked to IFMIS being implemented at DOSFEA. The link will improve the management of the payroll system which will enhance efficiency.  The  management  of  budgets  will  also  be  decentralised  from  the  office  of  the permanent secretary.
 
-With the national decentralization process, the capacity of local authorities will be developed to facilitate better financial management of public resources. EMIS will be strengthened to improve access to relevant and timely data for decision-making. Information technology solutions will be sought to improve communication and information sharing among decision-makers. Strategies will include the maintenance of Internet and Intranet solutions.
+With the national decentralization process, the capacity of local authorities will be developed to facilitate better financial management of public resources. EMIS will be strengthened to improve access to relevant and timely data for decision-making. Information technology solutions will be
 
 > 19 Combines the science and SES syllabuses into one subject as part of the revised curriculum.
 
@@ -2344,6 +2254,8 @@ With the national decentralization process, the capacity of local authorities wi
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
+
+sought to improve communication and information sharing among decision-makers. Strategies will include the maintenance of Internet and Intranet solutions.
 
 A  system of proper management  of  resources will be developed and maintained.  An identification and indexing system will be developed and movements recorded accordingly. The human resources of the sector will be enhanced through the development of an HR policy. With the  development  of  a  staff  appraisal  system,  incentives  will  be  created  to  motivate  staff  to perform at a consistently high level.
 
@@ -2411,19 +2323,19 @@ DOSBSE also plans to conduct a public expenditure review in 2010 which is expect
 
 ### Macro-economic Assumptions
 
-The framework is predicated on some macro-economic assumptions based on available data as shown  in  Table  10.  An  average  real  GDP  growth  rate  of  5%  is  expected,  of  which  total government expenditure would average 25.4% over the period. Meanwhile, population growth is projected  to  remain  constant  at  3%  annually.  Capital  expenditure  as  a  percentage  of  GDP  is projected to grow at an annual average of 9.7%.
-
-( 000 Dalasi) | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
---- | --- | --- | --- | --- | --- | ---
-Assumptions | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
-Projected Nominal GDP (000s) | 14,248,000 | 16,007,000 | 17,900,000 | 20,017,000 | 22,226,000 | 24,620,000
-Real Growth Rate of GDP (IMF Data) | 6.5% | 7.0% | 6.5% | 6.5% | 6.0% | 6.0%
-Population Growth Rate | 3.0% | 3.0% | 3.0% | 3.0% | 3.0%
-Total Government Expenditure as % of GDP | 27.8% | 27.2% | 27.7% | 23.2% | 23.2% | 23.2%
-Capital Expenditure as % of GDP | 8.9% | 11.9% | 9.7% | 9.2% | 9.2% | 9.2%
-TOTAL CURRENT EXPENDITURE AS % OF GDP | 18.9% | 15.3% | 18.0% | 14.1% | 14.1% | 14.1%
+The framework is predicated on some macro-economic assumptions based on available data as shown in Table 10. An average real GDP growth rate of 5% is expected, of which total government expenditure would average 25.4% over the period. Meanwhile, population growth is projected to remain constant at 3% annually. Capital expenditure as a percentage of GDP is projected to grow at an annual average of 9.7%.
 
 Table 10: Macro-economic Data Assumptions /Projections
+
+| ( 000 Dalasi) | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Assumptions | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 |
+| Projected Nominal GDP (000s) | 14,248,000 | 16,007,000 | 17,900,000 | 20,017,000 | 22,226,000 | 24,620,000 |
+| Real Growth Rate of GDP (IMF Data) | 6.5% | 7.0% | 6.5% | 6.5% | 6.0% | 6.0% |
+| Population Growth Rate | | 3.0% | 3.0% | 3.0% | 3.0% | 3.0% |
+| Total Government Expenditure as % of GDP | 27.8% | 27.2% | 27.7% | 23.2% | 23.2% | 23.2% |
+| Capital Expenditure as % of GDP | 8.9% | 11.9% | 9.7% | 9.2% | 9.2% | 9.2% |
+| TOTAL CURRENT EXPENDITURE AS % OF GDP | 18.9% | 15.3% | 18.0% | 14.1% | 14.1% | 14.1% |
 
 Source: DOSBSE Simulation Model 2008
 
@@ -2453,36 +2365,36 @@ Against  the  backdrop  of  these  targets  and  indicators  in  the  flow  mode
 
 [[START OF PAGE 70]]
 
-Lower Basic | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
---- | --- | --- | --- | --- | --- | ---
-Total Enrolment | 220,421 | 228,272 | 238,469 | 252,750 | 271,386 | 294,120
-Annual Growth Rate | 3.6% | 4.5% | 6.0% | 7.4% | 8.4%
-Enrolment Government and Grant-Aided (%) | 80% | 80% | 80% | 80% | 80% | 80%
-Gross Admission Rate | 90% | 95% | 101% | 107% | 113% | 120%
-Gross Enrolment Rate | 85% | 86% | 88% | 91% | 95% | 101%
-Repetition Rate | 6% | 5% | 5% | 5% | 4% | 4%
-Dropout rate | 5% | 5% | 5% | 4% | 4% | 3%
-Dropout rate | 10% | 10% | 9% | 8% | 8% | 7%
-Completion rate | 70% | 73% | 72% | 70% | 70% | 75%
-Upper Basic | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
-Total Enrolment | 66,956 | 69,547 | 74,255 | 79,823 | 83,481 | 86,138
-Annual growth rate | 3.9% | 6.8% | 7.5% | 4.6% | 3.2%
-Enrolment Government and Grant-Aided (%) | 88% | 88% | 88% | 88% | 88% | 88%
-Transition Rate from Grade 6 | 90% | 91% | 91% | 92% | 92%
-Gross Enrolment Rate | 59% | 60% | 62% | 64% | 66% | 66%
-Gross Admission Rate | 58% | 63% | 66% | 66% | 65% | 65%
-Repetition Rate | 4% | 4% | 4% | 3% | 3% | 3%
-Completion rate | 56% | 55% | 53% | 58% | 62% | 63%
-Senior Secondary | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
-Total Enrolment | 32,991 | 35,278 | 35,671 | 35,682 | 36,853 | 39,243
-Annual growth rate | 6.9% | 1.1% | 0.0% | 3.3% | 6.5%
-Enrolment Government and Grant-Aided (%) | 44% | 44% | 45% | 45% | 46% | 46%
-Transition Rate from Grade 9 | 52% | 53% | 54% | 48% | 44%
-Gross Enrolment Rate | 32% | 33% | 33% | 31% | 32% | 33%
-Repetition Rate | 5% | 5% | 4% | 4% | 4% | 3%
-Completion rate (=non-repeaters in s6/population aged 18 yrs) | 27% | 31% | 31% | 31% | 30% | 29%
-
 Table 11: Summary Indicators (Access & Flow) by Level
+
+| Lower Basic | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Total Enrolment | 220,421 | 228,272 | 238,469 | 252,750 | 271,386 | 294,120 |
+| Annual Growth Rate | | 3.6% | 4.5% | 6.0% | 7.4% | 8.4% |
+| Enrolment Government and Grant-Aided (%) | 80% | 80% | 80% | 80% | 80% | 80% |
+| Gross Admission Rate | 90% | 95% | 101% | 107% | 113% | 120% |
+| Gross Enrolment Rate | 85% | 86% | 88% | 91% | 95% | 101% |
+| Repetition Rate | 6% | 5% | 5% | 5% | 4% | 4% |
+| Dropout rate | 5% | 5% | 5% | 4% | 4% | 3% |
+| Dropout rate | 10% | 10% | 9% | 8% | 8% | 7% |
+| Completion rate | 70% | 73% | 72% | 70% | 70% | 75% |
+| Upper Basic | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 |
+| Total Enrolment | 66,956 | 69,547 | 74,255 | 79,823 | 83,481 | 86,138 |
+| Annual growth rate | | 3.9% | 6.8% | 7.5% | 4.6% | 3.2% |
+| Enrolment Government and Grant-Aided (%) | 88% | 88% | 88% | 88% | 88% | 88% |
+| Transition Rate from Grade 6 | | 90% | 91% | 91% | 92% | 92% |
+| Gross Enrolment Rate | 59% | 60% | 62% | 64% | 66% | 66% |
+| Gross Admission Rate | 58% | 63% | 66% | 66% | 65% | 65% |
+| Repetition Rate | 4% | 4% | 4% | 3% | 3% | 3% |
+| Completion rate | 56% | 55% | 53% | 58% | 62% | 63% |
+| Senior Secondary | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 |
+| Total Enrolment | 32,991 | 35,278 | 35,671 | 35,682 | 36,853 | 39,243 |
+| Annual growth rate | | 6.9% | 1.1% | 0.0% | 3.3% | 6.5% |
+| Enrolment Government and Grant-Aided (%) | 44% | 44% | 45% | 45% | 46% | 46% |
+| Transition Rate from Grade 9 | | 52% | 53% | 54% | 48% | 44% |
+| Gross Enrolment Rate | 32% | 33% | 33% | 31% | 32% | 33% |
+| Repetition Rate | 5% | 5% | 4% | 4% | 4% | 3% |
+| Completion rate (=non-repeaters in s6/population aged 18 yrs) | 27% | 31% | 31% | 31% | 30% | 29% |
 
 Source: DOSBSE Simulation Model 2008
 
@@ -2496,16 +2408,16 @@ Source: DOSBSE Simulation Model 2008
 
 The National Education Policy (2004 - 2015) calls for private participation in the delivery of educational  services.  The  model  therefore  projects  private  participation  by  level  and  function over the period based on the projected targets from the flow model.
 
-2008 | 2009 | 2010 | 2011
---- | --- | --- | --- | ---
-Total Recurrent Expenditure on Education | 768,497 | 874,711 | 940,405 | 1,016,844
-Government | 303,534 | 322,467 | 342,897 | 366,787
-Private | 464,963 | 552,243 | 597,508 | 650,057
-% Share
-Government | 39.5% | 36.9% | 36.5% | 36.1%
-Private | 60.5% | 63.1% | 63.5% | 63.9%
+Table 12: Total Recurrent Expenditure on Education by Share (Govt & Private)
 
-Table 12: Total Recurrent Expenditure on Education by Share (Govt & Private )
+| | 2008 | 2009 | 2010 | 2011 |
+| --- | --- | --- | --- | --- |
+| Total Recurrent Expenditure on Education | 768,497 | 874,711 | 940,405 | 1,016,844 |
+| Government | 303,534 | 322,467 | 342,897 | 366,787 |
+| Private | 464,963 | 552,243 | 597,508 | 650,057 |
+| % Share | | | | |
+| Government | 39.5% | 36.9% | 36.5% | 36.1% |
+| Private | 60.5% | 63.1% | 63.5% | 63.9% |
 
 Source: DOSBSE Simulation Model 2008
 
@@ -2515,7 +2427,7 @@ Over the period, average share of government accounts for 37.2% of total recurre
 
 ### ESSP Investment Costs
 
-The  investment  programme  of  the  ESSP  2006  -  2015  and  the  MTP  were  developed  using  a World Bank package (Costab). Like the financial model, it assumes an inflation rate of 5.4% over the period and established unit costs and rates for various activities. The investments herein reflect the activities for the investment programme covering the medium term period for basic and  secondary  education,  and  include  only  those  activities  at  the  higher  education  subcomponent with  a  direct  bearing  on  basic  and  secondary  education.  The  activities  are  in  two broad categories, namely investment costs 21 and recurrent costs. 22
+The investment programme of the ESSP 2006 - 2015 and the MTP were developed using a World Bank package (Costab). Like the financial model, it assumes an inflation rate of 5.4% over the period and established unit costs and rates for various activities. The investments herein reflect the activities for the investment programme covering the medium term period for basic and secondary education, and include only those activities at the higher education sub-component with a direct bearing on basic and secondary education. The activities are in two broad categories, namely investment costs 21 and recurrent costs. 22
 
 > 21 Includes all capital items (civil works, goods and services) and training (workshops, long and short-term training)
 
@@ -2531,18 +2443,18 @@ The  investment  programme  is  divided  into  five  components  (Table  13)  wi
 
 It should be stated that the quality assurance component does not include expenditures on quality inputs  which  are  spread  in  the  various  other  components  such  as  basic  education.  Within  the quality assurance component, the bulk of the investments are dedicated to 'improved quality of teaching  and  learning'  while  sector  management  devotes  53.1%  of  its  projected  investment resources to 'effective planning and management of the education sector' (Appendix 2).
 
-Component | % Share
---- | ---
-Basic Education | 73.36
-Lower Basic | 74.23
-Upper Basic | 24.74
-Adult Literacy | 1.03
-Secondary Education | 15.05
-Higher Education | 1.32
-Quality Assurance | 1.41
-Sector Management | 8.86
-
 Table 13: Share of Investment Programme by Component
+
+| Component | % Share |
+| --- | --- |
+| Basic Education | 73.36 |
+| Lower Basic | 74.23 |
+| Upper Basic | 24.74 |
+| Adult Literacy | 1.03 |
+| Secondary Education | 15.05 |
+| Higher Education | 1.32 |
+| Quality Assurance | 1.41 |
+| Sector Management | 8.86 |
 
 Source: DOSBSE Simulation Model 2008
 
@@ -2572,24 +2484,24 @@ Whereas the sector continues to feature prominently as a priority for government
 
 Other donors with ongoing projects in the sector include IDB, BADEA, the French Cooperation, UNFPA, WFP and UNICEF. The sector, therefore, is undoubtedly becoming a donor orphan and this explains the heavy reliance of the sector on the catalytic fund resources over the past three years and its projected share of financing over the medium term.
 
-(US$ '000) | 2008 | 2009 | 2010 | 2011 | Total | % share | Overall % share
---- | --- | --- | --- | --- | --- | --- | ---
-I. Investment Costs
-Government | 889.0 | 13,180.1 | 7,414.5 | 7,730.9 | 29,214.4 | 17.7% | 14.3%
-PHRD Co-financing | 953.4 | 2,711.1 | 698.9 | 472.8 | 4,836.2 | 2.9% | 2.4%
-IDA | 338.9 | 5,539.7 | 2,632.5 | 1,284.3 | 9,795.5 | 5.9% | 4.8%
-FTI | 1,325.2 | 7,905.5 | 6,949.3 | 7,438.6 | 23,618.6 | 14.3% | 11.5%
-Other Donors | 9,627.9 | 11,936.7 | 2,231.1 | 2,222.5 | 6,018.2 | 15.8% | 12.7%
-FUNDING GAP | 474.7 | 20,836.2 | 20,203.4 | 29,983.9 | 71,498.3 | 43.3% | 34.9%
-Total Investment Costs | 13,609.2 | 62,109.4 | 40,129.7 | 49,133.0 | 164,981.3 | 80.6% | 80.6%
-II. Recurrent Costs
-Government | 638.2 | 1,721.9 | 1,820.2 | 1,918.5 | 6,098.9 | 15.4% | 3.0%
-IDA | 512.1 | 1,036.9 | 1,092.9 | 1,164.2 | 3,806.3 | 9.6% | 1.9%
-FTI | 1,285.1 | 1,990.5 | 2,190.5 | 2,350.9 | 7,817.0 | 19.7% | 3.8%
-Other Donors | 970.9 | 2677.4 | 2788.8 | 2939.3 | 9376.5 | 23.6% | 4.6%
-FUNDING GAP | 1,739.4 | 2,977.1 | 3,814.6 | 4,067.6 | 12,598.8 | 31.7% | 6.2%
-
 Table 14: Financing of Investment Programme by Financier and % Share
+
+| (US$ '000) | 2008 | 2009 | 2010 | 2011 | Total | % share | Overall % share |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| I. Investment Costs | | | | | | | |
+| Government | 889.0 | 13,180.1 | 7,414.5 | 7,730.9 | 29,214.4 | 17.7% | 14.3% |
+| PHRD Co-financing | 953.4 | 2,711.1 | 698.9 | 472.8 | 4,836.2 | 2.9% | 2.4% |
+| IDA | 338.9 | 5,539.7 | 2,632.5 | 1,284.3 | 9,795.5 | 5.9% | 4.8% |
+| FTI | 1,325.2 | 7,905.5 | 6,949.3 | 7,438.6 | 23,618.6 | 14.3% | 11.5% |
+| Other Donors | 9,627.9 | 11,936.7 | 2,231.1 | 2,222.5 | 6,018.2 | 15.8% | 12.7% |
+| FUNDING GAP | 474.7 | 20,836.2 | 20,203.4 | 29,983.9 | 71,498.3 | 43.3% | 34.9% |
+| Total Investment Costs | 13,609.2 | 62,109.4 | 40,129.7 | 49,133.0 | 164,981.3 | 80.6% | 80.6% |
+| II. Recurrent Costs | | | | | | | |
+| Government | 638.2 | 1,721.9 | 1,820.2 | 1,918.5 | 6,098.9 | 15.4% | 3.0% |
+| IDA | 512.1 | 1,036.9 | 1,092.9 | 1,164.2 | 3,806.3 | 9.6% | 1.9% |
+| FTI | 1,285.1 | 1,990.5 | 2,190.5 | 2,350.9 | 7,817.0 | 19.7% | 3.8% |
+| Other Donors | 970.9 | 2677.4 | 2788.8 | 2939.3 | 9376.5 | 23.6% | 4.6% |
+| FUNDING GAP | 1,739.4 | 2,977.1 | 3,814.6 | 4,067.6 | 12,598.8 | 31.7% | 6.2% |
 
 73
 
@@ -2598,8 +2510,7 @@ Table 14: Financing of Investment Programme by Financier and % Share
 [[START OF PAGE 74]]
 
 Total Recurrent Costs | 5,145.7 | 10,403.9 | 11,707.1 | 12,440.6 | 39,697.4 | 19.4% | 19.4%
---- | --- | --- | --- | --- | --- | --- | ---
-Overall Programme Costs | 18,754.9 | 72,513.3 | 51,836.8 | 61,573.7 | 204,678.7
+Overall Programme Costs | 18,754.9 | 72,513.3 | 51,836.8 | 61,573.7 | 204,678.7 | | |
 
 Source: DOSBSE Financial Model and Investment Programme
 
@@ -2607,23 +2518,23 @@ Source: DOSBSE Financial Model and Investment Programme
 
 The combined expenditure projections from the financial model and the investment programme are shown in Table 15 by recurrent and investment expenditure over the period.
 
-Whereas figures for 2008 in Table 15 are budget estimates, the other years are projects from the model and the investment programme. As stated earlier, the increase in government budgetary allocations  to  the  sector  in  the  2009  budget  estimates,  the  additional  resources  to  government resulting  from  the  HIPIC  and  MDRI  funds  account  for  the  increase  from  2008  to  2009  and beyond.
-
-2008 | 2009 | 2010 | 2011 | Average | % Share
---- | --- | --- | --- | --- | --- | ---
-Govt Recurrent Expenditure | 303,534 | 322,467 | 342,897 | 366,787 | 333,921 | 65.4%
-Lower Basic | 130,653 | 138,978 | 150,399 | 164,384 | 146,103 | 28.6%
-Upper Basic | 88,223 | 93,790 | 96,881 | 98,611 | 94,376 | 18.5%
-Senior Secondary | 28,727 | 29,236 | 30,633 | 33,055 | 30,413 | 6.0%
-Teacher Training | 8,130 | 8,173 | 9,567 | 11,669 | 9,385 | 1.8%
-Higher Education | 5,400 | 7,200 | 7,200 | 7,200 | 6,750 | 1.3%
-Administration/Sector Management | 42,401 | 45,090 | 48,218 | 51,868 | 46,894 | 9.2%
-Govt Investment Expenditure | 30,543 | 298,040 | 184,694 | 192,988 | 176,566 | 34.6%
-Investment Costs | 17,780 | 263,601 | 148,290 | 154,618 | 146,072 | 28.6%
-Recurrent Costs | 12,763 | 34,439 | 36,405 | 38,371 | 30,494 | 6.0%
-Total Govt Expenditure on Education | 334,077 | 620,508 | 527,591 | 559,776 | 510,488
+Whereas figures for 2008 in Table 15 are budget estimates, the other years are projects from the model and the investment programme. As stated earlier, the increase in government budgetary allocations to the sector in the 2009 budget estimates, the additional resources to government resulting from the HIPIC and MDRI funds account for the increase from 2008 to 2009 and beyond.
 
 Table 15: Total Government Recurrent and Investment Expenditure by Function and share ('000GMD)
+
+| | 2008 | 2009 | 2010 | 2011 | Average | % Share |
+| --- | --- | --- | --- | --- | --- | --- |
+| Govt Recurrent Expenditure | 303,534 | 322,467 | 342,897 | 366,787 | 333,921 | 65.4% |
+| Lower Basic | 130,653 | 138,978 | 150,399 | 164,384 | 146,103 | 28.6% |
+| Upper Basic | 88,223 | 93,790 | 96,881 | 98,611 | 94,376 | 18.5% |
+| Senior Secondary | 28,727 | 29,236 | 30,633 | 33,055 | 30,413 | 6.0% |
+| Teacher Training | 8,130 | 8,173 | 9,567 | 11,669 | 9,385 | 1.8% |
+| Higher Education | 5,400 | 7,200 | 7,200 | 7,200 | 6,750 | 1.3% |
+| Administration/Sector Management | 42,401 | 45,090 | 48,218 | 51,868 | 46,894 | 9.2% |
+| Govt Investment Expenditure | 30,543 | 298,040 | 184,694 | 192,988 | 176,566 | 34.6% |
+| Investment Costs | 17,780 | 263,601 | 148,290 | 154,618 | 146,072 | 28.6% |
+| Recurrent Costs | 12,763 | 34,439 | 36,405 | 38,371 | 30,494 | 6.0% |
+| Total Govt Expenditure on Education | 334,077 | 620,508 | 527,591 | 559,776 | 510,488 | |
 
 Source: DOSBSE Financial Model and Investment
 
@@ -2697,17 +2608,19 @@ The  SMT  has  the  overall  policy  directive  and  responsibility for ensuring
 
 - Coordinating inputs from external partners and the use of external financing
 
-- Reviewing progress and financial reports
-
 - Identifying financing gaps in programmes and implementation
 
-The  SMT  will  delegate  the  implementation  activities  of  the  strategic  plan  to  the  relevant directorates, including the PCU, based on individual mandates prescribed in the programme area logical  frameworks  and  professional  competence.  The  directorates  will,  on  the  basis  of  the service  level  agreements  drawn  up  and  signed  with  the  Permanent  Secretary,  be  tasked  with implementation activities based on agreed work plans and budgetary allocation. The annual plans will form the basis of the service level agreements.
+- Reviewing progress and financial reports
+
+The  SMT  will  delegate  the  implementation  activities  of  the  strategic  plan  to  the  relevant directorates, including the PCU, based on individual mandates prescribed in the programme area logical  frameworks  and  professional  competence.  The  directorates  will,  on  the  basis  of  the service  level  agreements  drawn  up  and  signed  with  the  Permanent  Secretary,  be  tasked  with
 
 76
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+
+implementation activities based on agreed work plans and budgetary allocation. The annual plans will form the basis of the service level agreements.
 
 Development projects agreed with financial institutions will continue to be delegated to the PCU for  fiduciary  responsibilities,  including  procurement  and  financial  management,  as  well  as construction  supervision,  whereas  sub-activities  under  these  projects  shall  be  implemented  by line directorates and units with the relevant competency, as detailed in the various programme area activities.
 
@@ -2741,6 +2654,8 @@ EMIS will be strengthened to improve access to relevant and timely data for deci
 
 ## Appendixes
 
+### Appendix 1: Recurrent Expenditures on Education by Function & Source of Financing
+
 Nominal Share | % Share
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2008 | 2009 | 2010 | 2011 | 2008 | 2009 | 2010 | 2011 | Ave
@@ -2762,18 +2677,17 @@ Private | - | - | - | - | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%
 Administration/Sector Management | 42,401 | 45,090 | 48,218 | 51,868 | 5.5% | 5.2% | 5.1% | 5.1% | 5.2%
 Public | 42,401 | 45,090 | 48,218 | 51,868 | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
 Private | - | - | - | - | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%
-Total Education Recurrent
-Expenditure Public | 768,497 | 874,711 | 940,405 | 1,016,844 | 39.5% | 36.1% | 37.1%
-303,534 | 322,467 | 342,897 | 366,787 | 36.9% | 36.5% | 63.9% | 62.9%
-Private | 464,963 | 552,243 | 597,508 | 650,057 | 60.5% | 63.1% | 63.5%
-
-### Appendix 1: Recurrent Expenditures on Education by Function & Source of Financing
+Total Education Recurrent Expenditure | 768,497 | 874,711 | 940,405 | 1,016,844 |  |  |  |  |
+Public | 303,534 | 322,467 | 342,897 | 366,787 | 39.5% | 36.9% | 36.5% | 36.1% | 37.1%
+Private | 464,963 | 552,243 | 597,508 | 650,057 | 60.5% | 63.1% | 63.5% | 63.9% | 62.9%
 
 79
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
+### Appendix 2: Investment Programme by Component, Result Area and Share ($'000 & %)
 
 Cost (US$ '000) | % of Total
 --- | --- | ---
@@ -2816,8 +2730,6 @@ F. Sector Management
 2. Effective financial planning and management ensured | 444.9 | 0.22%
 3. A comprehensive policy agenda and framework developed and implemented | 158.4 | 0.08%
 
-### Appendix 2: Investment Programme by Component, Result Area and Share ($'000 & %)
-
 80
 
 [[END OF PAGE 80]]
@@ -2837,6 +2749,8 @@ Total PROGRAMME COSTS | 204,678.7 | 100.00%
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
+
+### Appendix 3: Investment by Expenditure Type and Share
 
 Cost ($'000) | % Share
 --- | --- | ---
@@ -2871,18 +2785,18 @@ C. Scholarships | 5,500.1 | 2.7%
 Total -Recurrent Costs | 39,697.4 | 19.4%
 Total - Investment Costs | 204,678.7
 
-### Appendix 3: Investment by Expenditure Type and Share
-
 82
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
+### Appendix 4: Summary Indicators (Baseline and Projections)
+
 Lower Basic | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | --- | ---
 Total Enrolment | 220,421 | 228,272 | 238,469 | 252,750 | 271,386 | 294,120
-Annual Growth Rate | 3.6% | 4.5% | 6.0% | 7.4% | 8.4%
+Annual Growth Rate |  | 3.6% | 4.5% | 6.0% | 7.4% | 8.4%
 Enrolment Government and Grant-Aided (%) | 80% | 80% | 80% | 80% | 80% | 80%
 Gross Admission Rate (new entrants/population aged 7 yrs) | 90% | 95% | 101% | 107% | 113% | 120%
 Gross Enrolment Rate (=total primary enrolment/population aged 7-12yrs) | 85% | 86% | 88% | 91% | 95% | 101%
@@ -2892,26 +2806,24 @@ Dropout rate (grade 6) (=total dropouts year t /total enrolment year t-1) | 10% 
 Completion rate (=p6 non-repeaters/population aged 12yrs) | 70% | 73% | 72% | 70% | 70% | 75%
 Upper Basic
 Total Enrolment | 66,956 | 69,547 | 74,255 | 79,823 | 83,481 | 86,138
-Annual growth rate | 3.9% | 6.8% | 7.5% | 4.6% | 3.2%
+Annual growth rate |  | 3.9% | 6.8% | 7.5% | 4.6% | 3.2%
 Enrolment Government and Grant-Aided (%) | 88% | 88% | 88% | 88% | 88% | 88%
-Transition Rate from Grade 6 (=new entrants grade 7 year t+1 /p6 non repeaters year t) | 90% | 91% | 91% | 92% | 92%
-Transition Rate from Grade 6 (=new entrants grade 7 year t+1/p6 enrollment year t) | 88% | 88% | 89% | 89% | 90%
+Transition Rate from Grade 6 (=new entrants grade 7 year t+1 /p6 non repeaters year t) |  | 90% | 91% | 91% | 92% | 92%
+Transition Rate from Grade 6 (=new entrants grade 7 year t+1/p6 enrollment year t) |  | 88% | 88% | 89% | 89% | 90%
 Gross Enrolment Rate (=total enrolment /population aged 13-15 yrs) | 59% | 60% | 62% | 64% | 66% | 66%
 Gross Admission Rate (=new entrants in grade 7/population aged 13 yrs) | 58% | 63% | 66% | 66% | 65% | 65%
 Repetition Rate (=total repeaters year t /total enrolment year t-1) | 4% | 4% | 4% | 3% | 3% | 3%
 Completion rate (=non-repeaters in grade 9/population aged 15 yrs) | 56% | 55% | 53% | 58% | 62% | 63%
 Senior Secondary
 Total Enrolment | 32,991 | 35,278 | 35,671 | 35,682 | 36,853 | 39,243
-Annual growth rate | 6.9% | 1.1% | 0.0% | 3.3% | 6.5%
+Annual growth rate |  | 6.9% | 1.1% | 0.0% | 3.3% | 6.5%
 Enrolment Government and Grant-Aided (%) | 44% | 44% | 45% | 45% | 46% | 46%
-Transition Rate from Grade 9 (=new entrants grade 10 year t+1 /g9 non repeaters year t) | 52% | 53% | 54% | 48% | 44%
-Transition Rate from Grade 9 (=new entrants grade 10 year t+1/g9 enrollment year t) | 50% | 52% | 53% | 47% | 43%
-Gross Enrolment Rate (=total enrolment in/population aged 16- 18 yrs) | 32% | 33% | 33% | 31% | 32% | 33%
+Transition Rate from Grade 9 (=new entrants grade 10 year t+1 /g9 non repeaters year t) |  | 52% | 53% | 54% | 48% | 44%
+Transition Rate from Grade 9 (=new entrants grade 10 year t+1/g9 enrollment year t) |  | 50% | 52% | 53% | 47% | 43%
+Gross Enrolment Rate (=total enrolment in/population aged 16-18 yrs) | 32% | 33% | 33% | 31% | 32% | 33%
 Gross Admission Rate (=new entrants in grade10/population aged 16 yrs) | 33% | 32% | 31% | 30% | 33% | 35%
 Repetition Rate (=total repeaters year t /total enrolment year t-1) | 5% | 5% | 4% | 4% | 4% | 3%
 Completion rate (=non-repeaters in grade 12/population aged 18 yrs) | 27% | 31% | 31% | 31% | 30% | 29%
-
-### Appendix 4: Summary Indicators (Baseline and Projections)
 
 83
 
@@ -2923,7 +2835,7 @@ Completion rate (=non-repeaters in grade 12/population aged 18 yrs) | 27% | 31% 
 
 Priorities | Key issues | Threats | Strengths | Weaknesses | Opportunities
 --- | --- | --- | --- | --- | ---
-Access | -increase ECD GER, number of model centres and admission rate and maintain promotion rate -Increase Transition Rate from LBS to UBS and Maintaining it at the Secondary level-Lower basic - increasing NER, -Upper Basic Senior secondary -Increasing demand for education | -increase in poverty levels and regional disparities -High population growth -Domestic chores and other family/social activities overriding educational initiatives - | -Programming and implementation of ECD policy -Sexual Harassment Policy -ECD training programme for ECD facilitators -Partnership and collaboration among relevant sectors (e.g., through Multi- sectoral Working Group) | -Absence of reliable data | -Expanded Vision of Basic Education to cover ECD and Non Formal -Impetus accorded to ECD -Partnership with proprietors of madrassas and private schools -media programmes (e.g., the televised forum on education) - Existence of a Framework agreement with a reputable NGO on Classroom/school construction
+Access | -increase ECD GER, number of model centres and admission rate and maintain promotion rate -Increase Transition Rate from LBS to UBS and Maintaining it at the Secondary level-Lower basic - increasing NER, -Upper Basic Senior secondary -Increasing demand for education | -increase in poverty levels and regional disparities -High population growth -Domestic chores and other family/social activities overriding educational initiatives - | -Programming and implementation of ECD policy -Sexual Harassment Policy -ECD training programme for ECD facilitators -Partnership and collaboration among relevant sectors (e.g., through Multi-sectoral Working Group) | -Absence of reliable data | -Expanded Vision of Basic Education to cover ECD and Non Formal -Impetus accorded to ECD -Partnership with proprietors of madrassas and private schools -media programmes (e.g., the televised forum on education) - Existence of a Framework agreement with a reputable NGO on Classroom/school construction
 Equity | -Regional disparities -Safe environment -Equitable supply of teachers across regions -Increasing female qualified teachers | -Low participation of regional administrations in education investment -Staff attrition -Stalling the hardship allowance for teachers -Low enrolment of female student-teachers at GC | -Child-friendly school initiative -Incentive and motivation packages for teachers -Hardship allowance for teachers -Support for female students in school | -inequitable economic base across Local Administrative Authorities | -Local Government Act -Strategies to attract teachers to underserved areas (Hardship Allowances & Staff quarters) -Bonding procedures
 
 84
@@ -2934,7 +2846,7 @@ Equity | -Regional disparities -Safe environment -Equitable supply of teachers a
 
 Priorities | Key issues | Strengths | Weaknesses | Opportunities | Threats
 --- | --- | --- | --- | --- | ---
-Quality | -Meeting teacher supply requirements -Improved quality of teaching and learning approaches -Instituting a functional quality assurance system - Poor Performance of Students in the EGRA and NAT - Increase Instructional Time | -Cluster monitoring system -Management manual for schools -Quality Assurance Framework -Procurement policy of supplementary readers -Whole School Development initiative - Provision of free textbooks to grades 1-9 students | -Criteria for entry to the Gambia College (GC) -Inability to attract qualified lecturers for GC - Absence of the implementation of the flexible school calendar at the school level | -National coverage of the National Assessment Test for Grades 3 and 5 -Whole School Development initiative - Use of the EGRA and NAT results to improve teaching and learning - The existence of the PTC Extension Program - Introduction and use of the flexible school calendar | -Quality of teacher education programmes -Disposition of teachers vis-à- vis level of motivation, commitment, etc. -Social instability
+Quality | -Meeting teacher supply requirements -Improved quality of teaching and learning approaches -Instituting a functional quality assurance system - Poor Performance of Students in the EGRA and NAT - Increase Instructional Time | -Cluster monitoring system -Management manual for schools -Quality Assurance Framework -Procurement policy of supplementary readers -Whole School Development initiative - Provision of free textbooks to grades 1-9 students | -Criteria for entry to the Gambia College (GC) -Inability to attract qualified lecturers for GC - Absence of the implementation of the flexible school calendar at the school level | -National coverage of the National Assessment Test for Grades 3 and 5 -Whole School Development initiative - Use of the EGRA and NAT results to improve teaching and learning - The existence of the PTC Extension Program - Introduction and use of the flexible school calendar | -Quality of teacher education programmes -Disposition of teachers vis-à-vis level of motivation, commitment, etc. -Social instability
 Relevance | -Reforming the curriculum respond to national and stakeholder needs | -Policy of procuring supplementary material by Gambian writers -Curriculum audit and review conducted Recent surge in provision of instructional materials | -Inadequate institutional capacity at the Curriculum, Research and Evaluation and Development Directorate -Lack of articulation between levels | -Proposed intervention through the Basic Education for Africa Programme (BEAP) -Proposed curriculum reform -Proposed development of syllabuses for senior secondary schools | -Ineffective delivery and non-coverage of syllabuses -Low institutional capacity for curriculum development -Absence of research for curriculum reviews -Regular feedback system on curriculum
 
 85
@@ -2945,8 +2857,8 @@ Relevance | -Reforming the curriculum respond to national and stakeholder needs 
 
 Priorities | Key issues | Strengths | Weaknesses | Opportunities | Threats
 --- | --- | --- | --- | --- | ---
-Efficiency | -Increasing completion rates -Judicious use of resources | -Double-shift and multi- grade systems -NAT and policy on repetition | Untrained school managers | Certificate programme on school management for Heads of school at the University of The Gambia -Introduction of the Performance Management System | -Repetition and dropout Waste
-Resourcing | -Donor coordination -Strengthening partnerships -Increasing government budget allocation to education | -Increased allocation government budget FTI interventions | -Withdrawal of key partners from supporting education programmes in The Gambia - e.g., ADB -non- implementation of the MTEF | -Political will -Sustained support from committed partners (e.g., IDA, UNICEF, WFP, DFID, UNFPA, French Cooperation | -Negative economic trends globally (recession) -Criteria used for proportioning support to countries -Cumbersome financial management system/procedures
+Efficiency | -Increasing completion rates -Judicious use of resources | -Double-shift and multi-grade systems -NAT and policy on repetition | Untrained school managers | Certificate programme on school management for Heads of school at the University of The Gambia -Introduction of the Performance Management System | -Repetition and dropout Waste
+Resourcing | -Donor coordination -Strengthening partnerships -Increasing government budget allocation to education | -Increased allocation government budget FTI interventions | -Withdrawal of key partners from supporting education programmes in The Gambia - e.g., ADB -non-implementation of the MTEF | -Political will -Sustained support from committed partners (e.g., IDA, UNICEF, WFP, DFID, UNFPA, French Cooperation | -Negative economic trends globally (recession) -Criteria used for proportioning support to countries -Cumbersome financial management system/procedures
 Management and Governance of Education | -Empowerment of educational management and governance structures | -Political will | Absence of effective Boards of Governors for schools | -Instituting the PMS The BOARDS of -Governors -The Act Local Government Act on decentralization -Capacity building activities undertaken by the DoSBSE -Propose civil service reform | -Attrition at the middle-level management cadre
 
 86
