@@ -8,7 +8,9 @@
 
 [[START OF PAGE 2]]
 
-### GİRİŞ
+## BİRİNCİ BÖLÜM
+
+### 1. GİRİŞ
 
 - 2014-2018  dönemini  kapsayan  Onuncu  Kalkınma  Planı,  ülkemizin  2023  hedefleri doğrultusunda,  toplumumuzu  yüksek  refah  seviyesine  ulaştırma  yolunda  önemli  bir kilometre taşı olacaktır. Plan, küresel ekonomide  geleceğe  dönük  risklerin ve belirsizliklerin sürdüğü, dünya ekonomisinde değişim ve dönüşümlerin yaşandığı, yeni dengelerin  oluştuğu,  gelişmiş  ve  gelişmekte  olan  ülkeler  arasında  güç  dengelerinin yeniden şekillendiği bir ortamda hazırlanmıştır.
 
@@ -17,8 +19,6 @@
 - Ülkemizin  potansiyelini,  bölgesel  dinamikleri  ve  insanımızın  yeteneklerini  harekete geçirerek kalkınma  sürecinin hızlandırılması amacıyla,  yeniden  şekillenen  dünya ekonomisinde uluslararası işbölümü ve değer zinciri hiyerarşisinde Türkiye'nin konumunun aşamalı olarak üst basamaklara çıkarılması hedeflenmektedir.
 
 - Küreselleşme sürecinin ve yaşanan krizlerin yol açtığı belirsizlikler nedeniyle planların, ileriye dönük karar alma süreçlerinde kurumların ve ekonomik aktörlerin daha tutarlı ve bilinçli bir şekilde hareket etmelerine yardımcı olma işlevi öne çıkmaktadır. Planlar, daha  yüksek  refah  seviyesine  ulaşılmasında  topluma  yol  göstermekte,  kısa  vadeli yaklaşımların ötesine geçerek uzun vadeli temel amaç ve öncelikleri ortaya
-
-## BİRİNCİ BÖLÜM
 
 1
 
@@ -70,7 +70,7 @@
 
 [[START OF PAGE 6]]
 
-### KÜRESEL GELİŞMELER VE EĞİLİMLER
+### 2. KÜRESEL GELİŞMELER VE EĞİLİMLER
 
 #### 2.1. KÜRESEL EĞİLİMLER VE TÜRKİYE ETKİLEŞİMİ
 
@@ -80,7 +80,7 @@
 
 - Küresel rekabet giderek artarken, rekabet anlayışı da değişmektedir. Daha önce tek bir işletme çatısı altında gerçekleştirilen üretim süreçleri artık birden fazla yerde yürütülebilmekte,  üretimde  uzmanlık  alanları  oluşmaktadır.  Böylece  değer  zincirinin farklı aşamalarının farklı bölge ve ülkelerde konumlandırılması mümkün olabilmektedir.  Üretimin  bu  şekilde  yeniden  örgütlenmesi  sebebiyle  uluslararası ticaretin gittikçe artan bir bölümü nihai ürünler yerine ara ürünlerden ve endüstri içi ticaretten oluşmaktadır. Maliyetleri azalan ve kalitesi artan ulaştırma, lojistik hizmetleri ile bilgi ve iletişim teknolojileri, üretim ve ticaretin yeniden organizasyonunu kolaylaştırmaktadır.
 
-- Bireylerin bilgiye ve çeşitli ürünlere doğrudan erişim imkânlarının artması ve internet kullanımının yaygınlaşmasıyla elektronik, otomotiv, ilaç, tıbbi cihaz, tekstil gibi alanlardaki tüketici tercihlerinde kişiye veya talebe özel ürünlere yönelim artmaktadır. Ürün tasarımı, üreticinin karar alanı olmaktan çıkmış, tüketici tercihleriyle belirlenmeye  başlamıştır.  Önceki  dönemde  çok  sayıda  perakendecinin  karşısında  az sayıda,  büyük  ve  güçlü  üreticiler  yer  alırken,  yeni  dönemde  çok  sayıda  üreticinin karşısında  büyük  ve  organize  perakendecilerin  yer  alması  beklenmektedir.  Ayrıca, sanayi  ve  hizmet  sektörleri  daha  fazla  bütünleşmekte  ve  iç  içe  geçmektedir.  Bilgiiletişim  altyapı  ve  hizmetlerinin  gelişmesiyle,  sanal  ortam  giderek  daha  fazla  üretim, tüketim ve ticaret alanı haline gelmektedir. Bir diğer gelişme ise, geleneksel olarak dış ticarete konu olmayan hizmetler sektöründe özellikle eğitim ve sağlık alanında hizmet ihracatının hacim ve öneminin artmakta olmasıdır.
+- Bireylerin bilgiye ve çeşitli ürünlere doğrudan erişim imkânlarının artması ve internet kullanımının yaygınlaşmasıyla elektronik, otomotiv, ilaç, tıbbi cihaz, tekstil gibi alanlardaki tüketici tercihlerinde kişiye veya talebe özel ürünlere yönelim artmaktadır. Ürün tasarımı, üreticinin karar alanı olmaktan çıkmış, tüketici tercihleriyle belirlenmeye  başlamıştır.  Önceki  dönemde  çok  sayıda  perakendecinin  karşısında  az sayıda,  büyük  ve  güçlü  üreticiler  yer  alırken,  yeni  dönemde  çok  sayıda  üreticinin karşısında  büyük  ve  organize  perakendecilerin  yer  alması  beklenmektedir.  Ayrıca, sanayi  ve  hizmet  sektörleri  daha  fazla  bütünleşmekte  ve  iç  içe  geçmektedir.  Bilgi-iletişim  altyapı  ve  hizmetlerinin  gelişmesiyle,  sanal  ortam  giderek  daha  fazla  üretim, tüketim ve ticaret alanı haline gelmektedir. Bir diğer gelişme ise, geleneksel olarak dış ticarete konu olmayan hizmetler sektöründe özellikle eğitim ve sağlık alanında hizmet ihracatının hacim ve öneminin artmakta olmasıdır.
 
 - Gelişmiş  ülkeler  değer  zincirlerinin  yüksek  katma  değer  yaratan  aşamalarına  hâkim olup, zincirin diğer aşamalarını ve üretim ağını da yönetmektedir. Daha düşük katma değerli aşamalar, çoğunlukla gelişmekte olan ülkeler tarafından gerçekleştirilmektedir. Türkiye henüz yüksek katma değer yaratan halkalar içerisinde potansiyeli ile orantılı
 
@@ -120,7 +120,7 @@
 
 ##### Bilimsel ve Teknolojik Gelişmeler
 
-- Bilginin önemi ve değeri giderek artmakta, yenilikçilik ve farklılık yaratma en önemli rekabet  unsurlarından  biri  haline  gelmektedir.  Önümüzdeki  dönemde,  bilim  ve teknoloji  alanındaki  gelişmeler  ile  bilgiye  dayalı  üretim,  büyümenin  temel  belirleyici gücü  olmaya  devam  edecektir.  Bu  nedenle  bazı  teknolojik  yatırımlar  ve  araştırmageliştirme  (Ar-Ge)  faaliyetleri  sadece  serbest  piyasa  mekanizmasıyla  değil,  kamunun yönlendirici, düzenleyici ve destekleyici yaklaşımlarıyla da geliştirilmektedir. Bununla birlikte,  birçok Ar-Ge çalışması ise uluslararası nitelik taşımakta ve çoğunlukla büyük küresel şirketler tarafından yürütülmektedir.
+- Bilginin önemi ve değeri giderek artmakta, yenilikçilik ve farklılık yaratma en önemli rekabet  unsurlarından  biri  haline  gelmektedir.  Önümüzdeki  dönemde,  bilim  ve teknoloji  alanındaki  gelişmeler  ile  bilgiye  dayalı  üretim,  büyümenin  temel  belirleyici gücü  olmaya  devam  edecektir.  Bu  nedenle  bazı  teknolojik  yatırımlar  ve  araştırma-geliştirme  (Ar-Ge)  faaliyetleri  sadece  serbest  piyasa  mekanizmasıyla  değil,  kamunun yönlendirici, düzenleyici ve destekleyici yaklaşımlarıyla da geliştirilmektedir. Bununla birlikte,  birçok Ar-Ge çalışması ise uluslararası nitelik taşımakta ve çoğunlukla büyük küresel şirketler tarafından yürütülmektedir.
 
 7
 
@@ -336,37 +336,41 @@
 
 [[START OF PAGE 20]]
 
-2002-2006 | 2007-2013 | (Yüzde) 2014-2018
---- | --- | --- | ---
-Dünya GSYH Artışı | 4,3 | 3,3 | 4,4
-Gelişmiş Ekonomiler | 2,5 | 0,9 | 2,5
-Avro Bölgesi | 1,8 | 0,2 | 1,5
-ABD | 2,7 | 1,0 | 3,2
-Japonya | 1,5 | 0,5 | 1,2
-Yükselen ve Gelişmekte Olan Ekonomiler | 6,9 | 6,0 | 6,0
-Çin | 10,6 | 9,8 | 8,4
-Hindistan | 7,5 | 7,1 | 6,7
-Brezilya | 3,3 | 3,6 | 4,1
-Rusya | 6,7 | 3,1 | 3,7
-ASEAN-5 1 | 5,6 | 5,2 | 5,6
-Orta Doğu ve Kuzey Afrika | 6,4 | 4,5 | 4,4
-Dünya Ticaret Hacmi Artışı | 7,5 | 3,6 | 6,1
-Dünya Enflasyon Oranı | 3,8 | 3,9 | 3,8
-Gelişmiş Ekonomiler | 2,0 | 2,0 | 2,0
-Yükselen ve Gelişmekte Olan Ekonomiler | 6,1 | 6,2 | 5,9
-Genel Yönetim Bütçe Dengesi/GSYH
-Gelişmiş Ekonomiler | -2,9 | -5,5 | -2,8
-Yükselen ve Gelişmekte Olan Ekonomiler | -1,1 | -1,4 | -1,6
-Genel Yönetim Brüt Borç Stoku/GSYH
-Gelişmiş Ekonomiler | 76,7 | 96,0 | 106,6
-Yükselen ve Gelişmekte Olan Ekonomiler | 43,3 | 35,2 | 31,2
-Dünya İşsizlik Oranı 2 | 6,1 | 5,9 | ---
-Gelişmiş Ekonomiler | 6,4 | 7,4 | 7,4
-Avro Bölgesi | 8,7 | 10,5 | 11,1
-
 Tablo 1: Dünya Ekonomisine İlişkin Temel Makroekonomik Göstergeler
 
-Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 2013 Not: 2007-2013 ve 2014-2018 dönemleri yıllık ortalama artış tahminleri
+(Yüzde)
+
+|  | 2002-2006 | 2007-2013 | 2014-2018 |
+| --- | --- | --- | --- |
+| Dünya GSYH Artışı | 4,3 | 3,3 | 4,4 |
+| Gelişmiş Ekonomiler | 2,5 | 0,9 | 2,5 |
+| Avro Bölgesi | 1,8 | 0,2 | 1,5 |
+| ABD | 2,7 | 1,0 | 3,2 |
+| Japonya | 1,5 | 0,5 | 1,2 |
+| Yükselen ve Gelişmekte Olan Ekonomiler | 6,9 | 6,0 | 6,0 |
+| Çin | 10,6 | 9,8 | 8,4 |
+| Hindistan | 7,5 | 7,1 | 6,7 |
+| Brezilya | 3,3 | 3,6 | 4,1 |
+| Rusya | 6,7 | 3,1 | 3,7 |
+| ASEAN-5¹ | 5,6 | 5,2 | 5,6 |
+| Orta Doğu ve Kuzey Afrika | 6,4 | 4,5 | 4,4 |
+| Dünya Ticaret Hacmi Artışı | 7,5 | 3,6 | 6,1 |
+| Dünya Enflasyon Oranı | 3,8 | 3,9 | 3,8 |
+| Gelişmiş Ekonomiler | 2,0 | 2,0 | 2,0 |
+| Yükselen ve Gelişmekte Olan Ekonomiler | 6,1 | 6,2 | 5,9 |
+| Genel Yönetim Bütçe Dengesi/GSYH |  |  |  |
+| Gelişmiş Ekonomiler | -2,9 | -5,5 | -2,8 |
+| Yükselen ve Gelişmekte Olan Ekonomiler | -1,1 | -1,4 | -1,6 |
+| Genel Yönetim Brüt Borç Stoku/GSYH |  |  |  |
+| Gelişmiş Ekonomiler | 76,7 | 96,0 | 106,6 |
+| Yükselen ve Gelişmekte Olan Ekonomiler | 43,3 | 35,2 | 31,2 |
+| Dünya İşsizlik Oranı² | 6,1 | 5,9 | --- |
+| Gelişmiş Ekonomiler | 6,4 | 7,4 | 7,4 |
+| Avro Bölgesi | 8,7 | 10,5 | 11,1 |
+
+Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 2013
+
+Not: 2007-2013 ve 2014-2018 dönemleri yıllık ortalama artış tahminleri
 
 (1) ASEAN-5 ülkeleri Malezya, Endonezya, Filipinler, Tayland ve Vietnam'dır.
 
@@ -378,7 +382,7 @@ Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 
 
 [[START OF PAGE 21]]
 
-### PLAN ÖNCESİ DÖNEMDE TÜRKİYE'DE EKONOMİK VE SOSYAL GELİŞMELER
+### 3. PLAN ÖNCESİ DÖNEMDE TÜRKİYE'DE EKONOMİK VE SOSYAL GELİŞMELER
 
 - 2000'li yılların  başından  itibaren  kararlılıkla  uygulanan  ekonomi  politikaları  ve gerçekleştirilen yapısal reformlar sonucunda sağlanan makroekonomik istikrarın yanı sıra  elverişli  küresel  ekonomik  ortamın  da  etkisiyle  ülkemiz  ekonomik  ve  sosyal alanda  önemli  mesafeler  kat  etmiştir.  Bu  gelişmeler  sonucunda  satın  alma  gücü paritesine  göre  kişi  başına  milli  gelir,  son  on  yılda  AB-27  ortalamasının  yüzde 36,1'inden yüzde 52,6'sına ulaşmıştır.
 
@@ -454,7 +458,7 @@ Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 
 
 - Türkiye Petrolleri Anonim Ortaklığı (TPAO) tarafından gerçekleştirilen ham petrol ve doğal gaz rezerv ve üretimini artırmaya yönelik çalışmalarla ülkemizin üretim seviyesi korunmuş, başta deniz sahalarında olmak üzere ülke genelinde arama veri altyapısı geliştirilmeye devam edilmiştir.
 
-- Plan  döneminde,  ulaştırma  altyapısını  geliştirerek  yurtiçi  ve  yurtdışı  üretim  ve tüketim  merkezlerini birbirine bağlama  ve  ulaştırma türlerini kendi içerisinde entegre hale getirme yönünde çalışmalar yürütülmüştür. Bu çerçevede Trans-Avrupa Ulaştırma  Ağları  (TEN-T),  Kafkas  ülkeleri  ve  Ortadoğu  ile  bağlantıları  güçlendiren projeler büyük ölçüde gerçekleştirilmiş, bölünmüş yol çalışmalarına devam edilmiş, hızlı tren hatları işletmeye alınmaya başlanmış, iki büyük konteynır liman projesine öncelik verilmiş, havayolundaki yurtiçi ve yurtdışı yolcu ve sefer sayıları artırılmıştır. Ulaştırma  altyapısının  finansmanında  kamu-özel  işbirliği  modeli;  havalimanı  ve terminal yapımlarına ilave olarak otoyol, tünel ve köprü yapımlarında da uygulanmaya  başlanmıştır.  Önümüzdeki  dönemde  koridor  yaklaşımına  geçilmesi, ulaşım  türleri  arasında  entegrasyonun  sağlanması,  az  gelişmiş  bölgelerin  ulaşım bağlantısının daha da geliştirilmesi ihtiyacı bulunmaktadır. Türkiye'nin coğrafi avantajlarını  ekonomik  gelişmeye  ve  ticaret  hacmine  yeterince  yansıtabilmesi  için maliyetleri  optimize  edecek,  ürün  döngü  sürecini  kısaltacak,  ulaştırma,  depolama, paketleme ve stok yönetimi gibi işlevleri bütünleştirebilecek bir  yük taşımacılığı ve lojistik altyapısının gerçekleştirilmesi gerekmektedir. Bölgelerin özellikle yük taşımacılığında daha etkin, hızlı ve güvenli ulaşıma ve lojistik altyapıya kavuşması ve ülkenin  önemli  bölgesel  merkezleri  arasında  da  etkileşimi  artıracak  şekilde  kuzeygüney bağlantılarının güçlendirilmesi önemini korumaktadır.
+- Plan  döneminde,  ulaştırma  altyapısını  geliştirerek  yurtiçi  ve  yurtdışı  üretim  ve tüketim  merkezlerini birbirine bağlama  ve  ulaştırma türlerini kendi içerisinde entegre hale getirme yönünde çalışmalar yürütülmüştür. Bu çerçevede Trans-Avrupa Ulaştırma  Ağları  (TEN-T),  Kafkas  ülkeleri  ve  Ortadoğu  ile  bağlantıları  güçlendiren projeler büyük ölçüde gerçekleştirilmiş, bölünmüş yol çalışmalarına devam edilmiş, hızlı tren hatları işletmeye alınmaya başlanmış, iki büyük konteynır liman projesine öncelik verilmiş, havayolundaki yurtiçi ve yurtdışı yolcu ve sefer sayıları artırılmıştır. Ulaştırma  altyapısının  finansmanında  kamu-özel  işbirliği  modeli;  havalimanı  ve terminal yapımlarına ilave olarak otoyol, tünel ve köprü yapımlarında da uygulanmaya  başlanmıştır.  Önümüzdeki  dönemde  koridor  yaklaşımına  geçilmesi, ulaşım  türleri  arasında  entegrasyonun  sağlanması,  az  gelişmiş  bölgelerin  ulaşım bağlantısının daha da geliştirilmesi ihtiyacı bulunmaktadır. Türkiye'nin coğrafi avantajlarını  ekonomik  gelişmeye  ve  ticaret  hacmine  yeterince  yansıtabilmesi  için maliyetleri  optimize  edecek,  ürün  döngü  sürecini  kısaltacak,  ulaştırma,  depolama, paketleme ve stok yönetimi gibi işlevleri bütünleştirebilecek bir  yük taşımacılığı ve lojistik altyapısının gerçekleştirilmesi gerekmektedir. Bölgelerin özellikle yük taşımacılığında daha etkin, hızlı ve güvenli ulaşıma ve lojistik altyapıya kavuşması ve ülkenin  önemli  bölgesel  merkezleri  arasında  da  etkileşimi  artıracak  şekilde  kuzey-güney bağlantılarının güçlendirilmesi önemini korumaktadır.
 
 - Plan  döneminde,  ülkemizin  bilgi  toplumuna  dönüşüm  sürecinde  kritik  bir  öneme sahip  olan  bilgi  ve  iletişim  teknolojileri  sektöründe  geniş  bant  erişim  başta  olmak üzere, iletişim hizmetlerinin kullanımı artmıştır. Ekonomideki verimlilik düzeyinin ve rekabet gücünün artırılması ile kamu hizmetlerinin etkin ve etkili sunulabilmesi için işletmelerin,  vatandaşların  ve  kurumların  bilgi  ve  iletişim  teknolojilerini  yaygın kullanmasına hizmet edecek önemli ilerlemeler sağlanmıştır.  Bununla  birlikte,  bilgi teknolojileri pazarı,  elektronik  haberleşme  sektöründeki  büyümeye  paralel  bir büyüme gösterememiştir.
 
@@ -576,7 +580,7 @@ Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 
 
 ##### 2.1.1. Eğitim
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Eğitimde fırsat eşitliğinin artırılması ve hizmet sunumunun iyileştirilmesi kapsamında ücretsiz ders kitabı temini, şartlı eğitim yardımları, taşımalı eğitim gibi uygulamalar gerçekleştirilmiş, öğretmenlerin istihdamında ve hizmet içi eğitimlerinde artış sağlanmış, eğitime ayrılan kamu kaynağı artırılmış, FATİH Projesi başlatılmış, 12 yıllık kademeli zorunlu eğitim sistemi tesis edilmiş ve müfredat bu doğrultuda yenilenmiştir.  Eğitimde  beşeri  ve  fiziki  altyapı  iyileştirilmiş,  başta  kız  çocuklarının okullaşması  olmak  üzere  eğitimin  tüm  kademelerinde  okullaşma  oranlarında  artış sağlanmıştır.
 
@@ -608,6 +612,8 @@ Kaynak: Uluslararası Para Fonu (IMF), Dünya Ekonomik Görünüm Raporu, Nisan 
 
 [[START OF PAGE 34]]
 
+Tablo 2: Eğitimde Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Derslik Başına Öğrenci Sayısı 30 ve Altı Olan İl Sayısı
@@ -618,10 +624,7 @@ Yükseköğretimde Brüt Okullaşma Oranı (%) 1
 Örgün | 29,1 | 42,9 | 47,2 | 55,0
 Toplam | 46,0 | 81,6 | 87,0 | 94,0
 Öğretim Üyesi Başına Öğrenci Sayısı 1 | 41,6 | 43,1 | 43,0 | 36,0
-Yükseköğretimde Dünyadaki Uluslararası Öğrenci | 0,54 | 0,64 2 | 0,76 | 1,50
-Havuzundan Alınan Pay (%)
-
-Tablo 2: Eğitimde Gelişmeler ve Hedefler
+Yükseköğretimde Dünyadaki Uluslararası Öğrenci Havuzundan Alınan Pay (%) | 0,54 | 0,64 2 | 0,76 | 1,50
 
 Kaynak: 2006 ve 2012 yılı verileri Milli Eğitim Bakanlığı (MEB), Kalkınma Bakanlığı, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), OECD ve Avrupa Topluluğu İstatistik Ofisi'ne (Eurostat) aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -689,7 +692,7 @@ Kaynak: 2006 ve 2012 yılı verileri Milli Eğitim Bakanlığı (MEB), Kalkınma
 
 ##### 2.1.2. Sağlık
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Sağlıkta Dönüşüm Programı çerçevesinde sağlıkta hizmet kalitesi ve erişimde önemli ilerlemeler  kaydedilmiştir.  Bu  kapsamda;  aile  hekimliği,  anne  ve  çocuk  sağlığı, hastane ve hasta yatak sayıları, sağlık personeli, koruyucu sağlık, kurumsal yapılanma,  bulaşıcı  hastalıklarla  mücadele  ve  hasta  hakları  başta  olmak  üzere  pek çok alanda reform niteliğinde gelişmeler sağlanmıştır.
 
@@ -713,6 +716,8 @@ Kaynak: 2006 ve 2012 yılı verileri Milli Eğitim Bakanlığı (MEB), Kalkınma
 
 - Vatandaşlarımızın yaşam kalitesi ve süresinin yükseltilmesi ile  ekonomik, sosyal ve kültürel  hayata  bilinçli,  aktif  ve  sağlıklı  bir  şekilde  katılımlarının  sağlanması  temel amaçtır.  Bu  amaç  doğrultusunda  veriye  ve  kanıta  dayalı  politikalarla  desteklenen, erişilebilir, nitelikli, maliyet etkin ve sürdürülebilir bir sağlık hizmet sunumu esastır.
 
+Tablo 3: Sağlık Alanında Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 10 Bin Kişiye Düşen Yatak Sayısı | 25,1 | 26,5 | 26,7 | 28,4
@@ -723,8 +728,6 @@ Sağlık Personelinin Dengeli Dağılım Oranı 2 | 3,40 | 2,24 3 | 2,20 | 2,00
 Hekim Başına Düşen Hemşire Sayısı | 0,79 | 1,04 | 1,09 | 1,53
 Bebek Ölüm Hızı (Binde) | 16,5 | 7,7 3 | 7,1 | 6,0
 Anne Ölüm Hızı (Yüz Bin Canlı Doğumda) | 28,5 | 15,5 3 | 14,5 | 9,5
-
-Tablo 3: Sağlık Alanında Gelişmeler ve Hedefler
 
 Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye  İstatistik  Kurumu  (TÜİK)  verilerinden  hesaplanmış  olup, 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -784,11 +787,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Bu  gelişmelere rağmen,  hâkim  ve  adalet  personeli sayısının artırılması, yargı mensuplarının  etik  ilkelerinin  evrensel  ölçütler  ışığında  düzenlenmesi,  yargılama sürecinin hızlandırılması, yargıya ulaşılabilirliğin artırılması, icra daireleri ve bilirkişilik mekanizmasının geliştirilmesi,  hukuk  eğitimi  ve  öğretiminde  kalitenin  yükseltilmesi ihtiyacı devam etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Evrensel hukuk normları, hukuk devleti ve hukukun üstünlüğünün gerekleri doğrultusunda  yargılama  sürecinin  hızlı,  adil,  etkin,  güvenli  ve  isabetli  şekilde işlemesi  adalet  sisteminin  temel  amacıdır.  Adalet  ve  yargının  yapısı  ve  işleyişinde ekonomik  etkinliğin  de  gözetilmesi  esastır.  İyi  işleyen,  etkili  bir  adalet  sistemi ekonomide  öngörülebilirliğin  artması  ve  yatırım  ortamının  daha  uygun  bir  hale gelmesi bakımından son derece önemlidir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Yargıya ulaşılabilirliği kolaylaştırmak amacıyla savunma hakkı ve adli yardım güçlendirilecektir.
 
@@ -810,7 +813,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 ##### 2.1.4. Güvenlik
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 38
 
@@ -834,11 +837,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Asayiş hizmetlerinde vatandaş memnuniyeti  TÜİK verilerine göre yüzde 79,4 olmuştur. Güvenlik hizmetlerinin gerek kurumsal gerekse işlevsel niteliğinin artırılması, güvenlik birimlerinin yetki ve görev çakışmalarının önlenmesi, önleyici ve koruyucu  hizmet  sunumunda  etkinliğin  artırılması,  kurumlar  arası  koordinasyonda etkinliğin sağlanması ile güvenlik birim ve faaliyetleri üzerinde sivil denetimin daha da güçlendirilmesi önem arz etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Toplumsal düzenin korunması ve vatandaşlarımızın kanunlarla güvence altına alınan hak ve özgürlüklerinin kullanımına yönelik olarak güvenlik hizmetlerinin etkinleştirilmesi  ve  bütün  kesimler  için  daha  güvenli  bir  iş  ve  yaşam  ortamının oluşturulması temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Güvenlik hizmetleri sunan kuruluşların sahip oldukları altyapı ve kabiliyetlerini ortak kullanabilmesine yönelik işbirliği mekanizmaları daha da güçlendirilecektir.
 
@@ -860,7 +863,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 ##### 2.1.5. Temel Hak ve Özgürlükler
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Bireylerin  fikir,  inanç  ve  teşebbüs  özgürlüklerini  etkin  bir  şekilde  kullanabilmeleri toplumsal  bütünleşme  ile  ekonomik,  sosyal  ve  kültürel  gelişmenin  temel  unsuru olarak  görülmektedir.  Bu  doğrultuda,  Dokuzuncu  Kalkınma  Planı döneminde temel hak  ve  özgürlüklerin  kurumsallaşması  ve  uluslararası  insan  hakları  standartlarına uyumu konusunda önemli adımlar atılmıştır.
 
@@ -904,11 +907,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Bütün bu önemli gelişmeler zemininde ülkemizde çoğulcu ve özgürlükçü demokrasiyi temel hak ve hürriyetler, hukuk devleti, düşünce, inanç ve teşebbüs özgürlüğü gibi ilke  ve  değerlerle bütünleştirip daha köklü bir şekilde yerleştirme ve ileriye taşıma ihtiyacı devam etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Çoğulcu  ve  özgürlükçü  bir  demokrasi  anlayışıyla  bireylerin  ve  toplumdaki  farklı kesimlerin bütün yönleriyle kendilerini özgürce ifade ettiği, tüm inançlara ve yaşam tarzlarına saygıyı ilke kabul eden bir toplumsal zeminin geliştirilmesi temel amaçtır. Anayasada ifadesini bulan cinsiyet, yaş, ırk, dil, renk, felsefi inanç, din, mezhep, sağlık durumu, gelir, uyruk, etnik köken, göçmenlik, siyasi tercih ayrımı yapmama, bütün vatandaşların temel hak ve özgürlüklerini güvence altına alma anlayışı esastır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Temel hak ve özgürlükler evrensel ölçüt ve uygulamalar ışığında geliştirilmeye devam edilecektir.
 
@@ -924,7 +927,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 ##### 2.1.6. Sivil Toplum Kuruluşları
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Toplumsal  bütünleşme  ve  yardımlaşmada  önemli  rol  oynayan,  kalkınma  sürecine tüm  kesimleri  dâhil  ederek  katılımcı  ve  demokratik  süreçleri  güçlendiren  STK'lara yönelik önemli idari ve yasal düzenlemeler yapılarak, örgütlenme hak ve özgürlüğüne daha  fazla  imkân  sağlayan  bir  ortam  oluşturulmuş,  dernek  ve  vakıfları  ilgilendiren mevzuat iyileştirilerek uygulamada görülen aksaklıklar giderilmiştir.
 
@@ -936,11 +939,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - STK'ların faaliyet ve programlarının hesap verebilir ve şeffaf olması, finansman, insan kaynağı ve teknolojik altyapı yetersizlikleri ile sürdürülebilirlikleri önemini korumaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Güçlü, çeşitli, çoğulcu, sürdürülebilir bir sivil toplum için uygun ortamın oluşturularak sosyal  ve  ekonomik  kalkınma  süreçlerine  toplumun  tüm  kesimlerinin  daha  etkin katılımının sağlanması temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - STK'ların kurumsal kapasitelerini güçlendirmek, sürdürülebilirliklerini ve hesap verebilirliklerini sağlamak amacıyla kapsayıcı yasal ve kurumsal düzenleme yapılacaktır.
 
@@ -960,7 +963,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 ##### 2.1.7. Aile ve Kadın
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Dokuzuncu  Kalkınma  Planı  döneminde  aile  eğitim  programları  başlatılmış,  ailelere yönelik  danışmanlık  hizmetleri  yaygınlaştırılmış,  yoksul  aileler  için  sosyal  yardımlar artırılmış,  sosyal  yardım  ve  hizmetlerde  aile  temelli  bir  yaklaşıma  geçilmiş  ve  aile sorunlarının tespiti amacıyla araştırmalar artırılmıştır.
 
@@ -970,11 +973,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Ülkemizde  geniş  aileden  çekirdek  aileye  doğru  bir  geçişin  sürdüğü  ve  aile  üyeleri arasındaki ilişki biçimlerinin de değiştiği görülmektedir. Boşanma sonucunda oluşan tek  ebeveynli  ailelerin  sorunlarının  çözümüne  yönelik,  izleme  ve  rehberlik  ihtiyacı bulunmaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Toplumsal  cinsiyet  eşitliği  bağlamında,  kadınların  sosyal,  kültürel  ve  ekonomik yaşamdaki rolünün güçlendirilmesi, aile kurumunun korunarak statüsünün geliştirilmesi ve toplumsal bütünleşmenin kuvvetlendirilmesi temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Aile  yardımlarının  geliştirilmesi,  aile  danışmanlık  ve  eğitim  hizmetlerinin  kapsamlı, standart,  etkin  ve  yaygın  hale  getirilmesi,  evlilik  öncesi  eğitimin  yaygınlaştırılması, sosyal yardım ve hizmetlerin aile temelli sunulması temin edilecektir.
 
@@ -1000,9 +1003,9 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 ##### 2.1.8. Çocuk ve Gençlik
 
-###### Durum Analizi
+###### a. Durum Analizi
 
-- 2012  yılı  verilerine  göre  Türkiye'de  çocuklar  (18  yaş  altı)  toplam  nüfusun  yüzde 30'unu, gençler (15-24) ise, yüzde 16,6'lık bölümünü oluşturmaktadır. Ülkemizde 1529  yaş  grubundakilerin  yüzde  31,4'ü  eğitimde,  yüzde  47,1'i  işgücü  piyasasında  yer almakta iken yüzde 28,1'i ne işgücünde ne de eğitimdedir.
+- 2012  yılı  verilerine  göre  Türkiye'de  çocuklar  (18  yaş  altı)  toplam  nüfusun  yüzde 30'unu, gençler (15-24) ise, yüzde 16,6'lık bölümünü oluşturmaktadır. Ülkemizde 15-29  yaş  grubundakilerin  yüzde  31,4'ü  eğitimde,  yüzde  47,1'i  işgücü  piyasasında  yer almakta iken yüzde 28,1'i ne işgücünde ne de eğitimdedir.
 
 - Gençlere  ve  çocuklara  yönelik  hizmetlerin  bütüncül  bir  yaklaşımla  sunulması  ve yaygınlaştırılması amacıyla yeni bakanlıklar kurulmuş ve strateji belgeleri hazırlanmıştır. Çocuk  ve gençlerin fırsat eşitliğinin artırılmasına yönelik sağlık sigortasının  kapsamı  genişletilmiş;  şartlı  eğitim  ve  sağlık  yardımları,  ücretsiz  kitap, okul  sütü  ve  taşımalı  eğitim  uygulamaları  geliştirilmiş;  erken  çocukluk  eğitimi yaygınlaştırılmış  ve  okullaşma  oranları  artırılmıştır.  Ayrıca  gençlere  yönelik  burs, kredi ve barınma imkânları iyileştirilmiş, gençlik merkezleri ve kampları ile hareketlilik  programları  yaygınlaştırılmıştır.  Dezavantajlı  çocuk  ve  gençlere  yönelik başta SODES olmak üzere sosyal destek programları yürütülmektedir.
 
@@ -1018,13 +1021,13 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Sosyo-ekonomik  ve  bölgesel  eşitsizlikler,  yoksulluk,  toplumsal  cinsiyet  eşitsizliği, çocuk  evlilikleri,  çocuk  işçiliği,  suça  sürüklenme,  çocuğa  yönelik  şiddet  ve  cinsel istismar, aile yapısındaki çözülmeler, aidiyet ve dayanışma duygusunun zayıflaması, sigara,  alkol  ve  uyuşturucu  gibi  zararlı  alışkanlıklar,  internet  bağımlılığı  çocuklar  ve gençler için önemli risk faktörleri olmaya devam etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Çocukların üstün yararı gözetilerek iyi olma hallerinin desteklenmesi, potansiyellerini geliştirmeye  ve  gerçekleştirmeye  yönelik  fırsat  ve  imkânların  artırılması,  başta eğitim,  sağlık,  adalet  ve  sosyal  hizmetler  olmak  üzere  temel  kamu  hizmetlerine erişimlerinin artırılması; gençlerin ise bilgi toplumunun gerekleriyle donanmış, ülke kalkınmasında aktif, yaşam becerileri güçlü, özgüven sahibi, insani ve milli değerleri haiz,  girişimci  ve  katılımcı  olmalarının  sağlanması  ve  gençlere  sunulan  hizmetlerin kalitesinin yükseltilmesi temel amaçtır.
 
 - Çocukların  yoksulluktan  kaynaklanan  yoksunluklarının  giderilmesi,  erken  çocukluk gelişiminin  desteklenmesi,  kız  çocuklarının  okullaşma  ve  okula  devam  oranlarının yükseltilmesi;  eğitimde  ve  istihdamda  olmayan  gençlerin  ekonomik  ve  toplumsal hayata katılımlarının artırılması hedeflenmektedir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Çocukların iyi olma hallerini ve refahlarını destekleyici bütüncül modeller geliştirilerek  daha  iyi  eğitim  ve  sağlık  hizmeti  almaları  sağlanacak,  temel  becerileri geliştirilecek,  özellikle  zor  şartlar  altındaki  ve  risk  grubundaki  çocukların  yaşam kalitesi yükseltilecek, toplumla bütünleşmeleri sağlanacaktır.
 
@@ -1050,6 +1053,8 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sağlık  Bakanlığı  ve  Türkiye 
 
 - Düşük gelir gruplarına yönelik sosyal koruma ödemeleri kapsamında ücret ve maaş gelirleri  ile  emekli  aylıklarında  önemli  iyileşmeler  yapılmıştır.  Yoksulluğun  nesiller arası  aktarımını  engellemek  için,  eğitim  alanındaki  sosyal  yardımlarda  alt  gelir gruplarına  önem  verilmiş,  bu  kapsamdaki  yardımlar  Dokuzuncu  Kalkınma  Planı döneminde yaklaşık iki katına çıkarılmıştır.
 
+Tablo 4: Gelir Gruplarının Toplam Gelirden Aldıkları Paylar
+(Yüzde)
 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | --- | ---
 Birinci Yüzde 20 (En Yoksul) | 5,8 | 6,4 | 6,4 | 6,2 | 6,5 | 6,5
@@ -1060,15 +1065,11 @@ Beşinci Yüzde 20 (En Zengin) | 46,5 | 45,5 | 45,3 | 46,0 | 44,9 | 45,2
 Toplam | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0
 Gini Katsayısı | 0,40 | 0,39 | 0,39 | 0,39 | 0,38 | 0,38
 
-Tablo 4: Gelir Gruplarının Toplam Gelirden Aldıkları Paylar
-
 Kaynak: TÜİK Gelir ve Yaşam Koşulları Araştırması
 
 - 2006 yılında toplam kamu sosyal yardım harcamalarının GSYH'ya oranı yüzde 0,86 iken,  bu  oran  2011  yılında  yüzde  1,18'e  yükselmiştir.  Sosyal  hizmet  ve  yardım alanındaki dağınıklığın giderilmesi ve hizmet bütünlüğünün  sağlanması amacıyla bu alanda faaliyet gösteren kurumlar, Aile ve Sosyal Politikalar Bakanlığı altında yeniden yapılandırılmıştır.
 
 - Sosyal  hizmet  ve  yardımlardan  yararlanacak  kişi  ve  grupların  tespitinde  nesnel ölçütler oluşturulmuş, sosyal yardım alanında faaliyet gösteren kurum ve kuruluşlar arasında  iletişim ve işbirliği artırılmış ve sosyal  yardım  istihdam  bağlantısının güçlendirilmesine yönelik çalışmalar sürdürülmüştür. Korunmaya muhtaç çocuklara yönelik sevgi evi ve çocuk evi modellerine geçilmiş, engellilere yönelik evde bakım ve eğitim desteğinin kapsamı genişletilmiş ve istihdam teşvikleri getirilmiştir.
-
-(Yüzde)
 
 46
 
@@ -1086,13 +1087,13 @@ Kaynak: TÜİK Gelir ve Yaşam Koşulları Araştırması
 
 - Plan döneminde ülkemizde mutlak yoksulluğun ihmal edilebilir seviyelere indirilmesi ve gelişmiş ülkelerde olduğu gibi göreli yoksulluğa odaklanılması amaçlanmaktadır.
 
+Tablo 5: Sosyal Koruma Alanında Gelişmeler ve Hedefler
+
 2006 | 2011 | 2013 | 2018
 --- | --- | --- | --- | ---
 Gini Katsayısı 1 | 0,40 | 0,38 | 0,37 | 0,36
-Kişi Başı Günlük 4,30 Doların Altındaki Nüfus Oranı (%) | 13,3 | 2,8 | 2,3 | <1,0
+Kişi Başı Günlük 4,30 Doların Altındaki Nüfus Oranı (%) 2 | 13,3 | 2,8 | 2,3 | <1,0
 Göreli Yoksulluk (%) 3 | 25,0 | 22,6 | 22,0 | 19,0
-
-Tablo 5: Sosyal Koruma Alanında Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2011 yılı verileri TÜİK ve Aile ve Sosyal Politikalar Bakanlığına aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminidir.
 
@@ -1128,7 +1129,7 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK ve Aile ve Sosyal Politikalar Bakanl
 
 ##### 2.1.10. Kültür ve Sanat
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Kültür mirasımızın korunması kapsamında yurtiçi ve yurtdışı envanter çalışmalarına devam  edilmiş,  başta  vakıf  eserleri  olmak  üzere  tarihi  eserlerin  önemli  bir  kısmı restore  edilmiş,  yazma  ve  nadir  eserlerin  dijital  ortama  aktarılması  faaliyetleri yürütülmüştür.
 
@@ -1152,11 +1153,11 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK ve Aile ve Sosyal Politikalar Bakanl
 
 - Kültür  politikalarının  toplumun  bütünlüğünü  ve  dayanışmasını  pekiştirecek,  ortak kimlik  tasavvurunu  güçlendirecek  şekilde  tesis  edilmesi,  güçlü  bir  toplum  olma yolunda önemli bir unsurdur.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Kültürel  zenginlik  ve  çeşitliliğin  korunup  geliştirilerek  gelecek  nesillere  aktarılması, kültür  ve  sanat  faaliyetlerinin  yaygınlaştırılması  ile  milli  kültür  ve  ortak  değerler etrafında toplumsal bütünlüğün ve dayanışmanın güçlendirilmesi temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Kültürümüzün  özgün  yapısını  ve  zenginliğini  kaybetmeden  gelişime  açık  olması  ve evrensel kültür birikimine katkıda bulunması,  kültürel ve sanatsal faaliyetlere katılımın bir yaşam alışkanlığı olarak gelişmesi sağlanacaktır.
 
@@ -1194,7 +1195,7 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK ve Aile ve Sosyal Politikalar Bakanl
 
 ##### 2.1.11. İstihdam ve Çalışma Hayatı
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - İstihdama  yönelik  tedbirlerin  ve  kriz  sonrası  ekonomideki  güçlü  toparlanmanın etkisiyle başta işsizlik ve istihdam alanlarında olmak üzere işgücü piyasasında önemli gelişme kaydedilmiştir. Türkiye kriz sonrasında OECD ülkeleri arasında işsizliği en çok azaltan  ülke  olmuştur.  Dokuzuncu  Kalkınma  Planı  döneminde  işgücüne  katılma  ve istihdam oranları özellikle kadınlarda olmak üzere artış göstermiş, işsizlik oranı tek haneli  rakamlara  gerilemiştir.  2007-2012  döneminde  yaklaşık  4,4  milyon  ilave istihdam sağlanmış, kayıt dışı istihdam oranı özellikle tarım dışı sektörlerde önemli oranda gerilemiştir.
 
@@ -1214,6 +1215,10 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK ve Aile ve Sosyal Politikalar Bakanl
 
 - Toplumun  tüm  kesimlerine  insana  yaraşır  iş  fırsatlarının  sunulduğu,  işgücünün niteliğinin  yükseltilip  etkin  kullanıldığı,  toplumsal  cinsiyet  eşitliği  ile  iş  sağlığı  ve güvenliği şartlarının iyileştirildiği ve güvenceli esneklik yaklaşımının benimsendiği bir işgücü piyasasının oluşturulması temel amaçtır.
 
+Tablo 6: İstihdam ve Çalışma Hayatında Gelişmeler ve Hedefler
+
+(Yüzde)
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 İşsizlik Oranı | 10,2 | 9,2 | 9,2 | 7,2
@@ -1226,8 +1231,6 @@ Kayıt Dışı İstihdam Oranı | 47,0 | 39,0 | 37,5 | 30,0
 Lise ve Üstü Eğitimlilerin İşgücü İçerisindeki Payı | 35,2 | 38,5 | 39,2 | 42,0
 Uzun Süreli İşsizlerin Toplam İşsizler İçerisindeki Payı | 35,8 | 24,8 | 24,0 | 18,0
 İŞKUR'a Kayıtlı İşsizlerin İşe Yerleştirilme Oranı | 12,3 | 23,5 | 35,0 | 50,0
-
-Tablo 6: İstihdam ve Çalışma Hayatında Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Türkiye İş Kurumuna (İŞKUR) aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -1273,13 +1276,13 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Türkiye İş Kurumuna (İŞKUR) 
 
 - Sosyal güvenlik sisteminin nüfusun tamamını kapsayan, adil, kaliteli ve mali açıdan sürdürülebilir bir yapıya kavuşturulması temel amaçtır.
 
+Tablo 7: Sosyal Güvenlik Alanında Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Aktif-Pasif Oranı 1 | 1,75 | 1,74 | 1,77 | 2,00
 Sosyal Sigorta Kapsamı (%) | 77,9 | 82,8 | 84,0 | 90,0
 Tamamlayıcı Emeklilik Kapsamındaki Nüfusun Oranı (%) 2 | 2,3 | 6,0 | 7,5 | 18,0
-
-Tablo 7: Sosyal Güvenlik Alanında Gelişmeler ve Hedefler
 
 Kaynak:  2006  ve  2012  yılı  verileri  Sosyal  Güvenlik  Kurumu  (SGK),  TÜİK,  Emeklilik  Gözetim  Merkezi  verilerinden hesaplanmıştır. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -1307,7 +1310,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sosyal  Güvenlik  Kurumu  (SGK),  T�
 
 ##### 2.1.13. Spor
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Spor  alanında  tesisleşme,  lisanslı  sporcu,  antrenör  ve  kulüp  sayılarında  önemli gelişmeler sağlanmış, spor federasyonlarının statüsü güçlendirilmiş ve hizmet sunumunda etkinliği artırmak amacıyla merkez ve bağlı teşkilatlar yeniden yapılandırılmıştır.
 
@@ -1317,11 +1320,11 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sosyal  Güvenlik  Kurumu  (SGK),  T�
 
 - Fiziki ve beşeri altyapının güçlendirilerek ülke genelinde dengeli dağılımının sağlanması, spor eğitiminin iyileştirilmesi, sporda etiğin geliştirilmesi, başarılı sporcuların  yetiştirilmesi  ve  sporun  bir  yaşam  tarzı  olarak  benimsetilerek  geniş kitlelere yaygınlaştırılması önemini korumaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Sağlıklı  ve  hareketli  bir  yaşamın  gereği  olarak  toplumda  spor  yapma  kültürünün yerleştirilmesi, spor hizmetlerinin kalitesi ve çeşitliliği artırılarak sporun  geniş kitlelere yaygınlaştırılması ve başarılı sporcular yetiştirilmesi temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 53
 
@@ -1347,7 +1350,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sosyal  Güvenlik  Kurumu  (SGK),  T�
 
 ##### 2.1.14. Nüfus Dinamikleri
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Ülkemiz nüfusu 2012 yılı sonunda 75,6 milyona ulaşmıştır. 2006 yılında nüfus artış hızı  binde  12,2  iken,  2012  yılında  binde  12'ye  düşmüştür.  2006  yılında  2,12  çocuk olan  toplam  doğurganlık  hızı  2012  yılında  2,08'e  gerileyerek,  nüfusun  kendini yenileme  seviyesi  olan  2,10'un  altına  inmiştir.  Eğitim  ve  gelir  seviyesinin  yüksek olduğu  toplum  kesimlerinde  bu  hız  1,02'ye  kadar  düşmektedir.  Doğuşta  beklenen yaşam süresinin ise 2013 yılı itibarıyla 76,9 yıla ulaşacağı tahmin edilmektedir. TÜİK tarafından  2013  yılında  yapılan  uzun  dönem  nüfus  projeksiyonlarına  göre,  tedbir alınmaması  halinde,  toplam  nüfusun  2023,  2050  ve  2075  yıllarında  sırasıyla  84,2 milyon, 93,5 milyon ve 89,2 milyon kişiye ulaşması beklenmektedir.
 
@@ -1367,6 +1370,8 @@ Kaynak:  2006  ve  2012  yılı  verileri  Sosyal  Güvenlik  Kurumu  (SGK),  T�
 
 - Nüfus alanında uygulanacak politikalarla toplam doğurganlık hızının tedricen yükseltilmesi hedeflenmektedir.
 
+Tablo 8: Nüfus Gelişmeleri ve Tahminleri
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Toplam Doğurganlık Hızı | 2,12 | 2,08 | 1,99 | 2,10
@@ -1375,8 +1380,6 @@ Erkek | 72,5 | 74,6 | 74,7 | 75,2
 Kadın | 76,9 | 79,1 | 79,2 | 79,7
 Nüfus Artış Hızı (Binde) | 12,2 | 12,0 | 11,2 | 10,8
 Yıl Sonu Nüfus (Bin Kişi) | 69.597 | 75.627 | 76.482 | 80.796
-
-Tablo 8: Nüfus Gelişmeleri ve Tahminleri
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -1426,7 +1429,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 [[START OF PAGE 58]]
 
-###### Politikalar
+###### c. Politikalar
 
 - Kamuda stratejik yönetim sürecinin tüm aşamalarının uyum ve bütünlük içerisinde yürütülmesi için yönlendirmeden sorumlu kurumlar arasındaki koordinasyon güçlendirilecektir.
 
@@ -1470,13 +1473,13 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - Bu gelişmelerle birlikte, kamuda istihdam türleri arasındaki farklılıkların giderilmesi, liyakata  dayalı  ve  objektif  işe  alma  ve  terfi  sisteminin  oluşturulması,  kısmi  zamanlı çalışma imkânlarının geliştirilmesi, performans değerlendirme sisteminin oluşturulması, kurumlar arası ve kurumların merkez-taşra örgütleri arasında personel dağılımının dengeli hale getirilmesi, kamu çalışanlarının kariyer planlaması ve  hizmet  içi  eğitim  faaliyetlerine  erişiminin  artırılarak  niteliğinin  yükseltilmesi ihtiyacı devam etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Kamu sektöründe, işe alımdan emekliliğe kadar bütün süreçlerde hizmet kalitesi ve personel verimliliğinin yükseltilmesi temel amaçtır.
 
 - Hizmet içi eğitim uygulamalarının yaygınlaştırılması suretiyle kamu personelinin bilgi ve  beceri  düzeyinin  artırılması,  kamu  insan  kaynakları  süreçlerinde  liyakatin  temel alınması, uygun kurumlardan başlanarak esnek çalışma biçimlerinin yaygınlaştırılması  ve  işlevsel  bir  performans  değerlendirme  sisteminin  geliştirilmesi hedeflenmektedir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Kamu  sektöründe  hizmet  kalitesi  ve  personel  verimliliğini  yükseltecek  bir  insan kaynağı yönetim modeli oluşturulacaktır.
 
@@ -1502,7 +1505,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 ##### 2.1.17. Kamu Hizmetlerinde e-Devlet Uygulamaları
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - e-Devlet  uygulama  ve  hizmetleriyle  kamu  kesiminde  etkinlik  ve  verimlilik  artışı sağlanmış;  şeffaf,  hesap  verebilir  ve  katılımcı  bir  kamu  yönetimi  oluşturulması sürecinde  ilerleme  kaydedilmiştir.  Kamu  hizmetlerinde  kullanıcı  odaklılık  açısından doğrudan  ve  dolaylı  katkıları  olan  bu  gelişmeler  sayesinde,  vatandaş  ve  işletmeler üzerinde kamu hizmetlerinden kaynaklanan mali ve idari yükler azalmıştır.
 
@@ -1538,6 +1541,8 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - Etkin,  katılımcı,  şeffaf  ve  hesap  verebilir  kamu  yönetimine  katkı  sağlamak  üzere; dezavantajlı  kesimler  de  dâhil  kullanıcı  ihtiyaçlarına  göre  tasarlanmış  hizmetlerin, kişisel bilgi mahremiyeti ve bilgi güvenliği sağlanarak, çeşitli platformlardan, kullanıcı odaklı, birlikte işler, bütünleşik ve güvenilir şekilde sunulacağı bir e-devlet yapısının oluşturulması temel amaçtır.
 
+Tablo 9: e-Devlet Alanında Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 e-Devlet Hizmetlerini Kullanan Bireyler (%) 1 | 26,7 2 | 45,1 | 48,0 | 65,0
@@ -1545,8 +1550,6 @@ e-Devlet Hizmetlerini Kullanan Girişimler (%) 3 | 66,2 | 81,5 4 | 85,0 | 90,0
 e-Devlet Hizmetleri Memnuniyet Oranı (%) 5 | 95,0 6 | 94,4 | 97,5 | 98,0
 e-Devlet Kapısı Kayıtlı Kullanıcı Sayısı (Milyon Kişi) | 0,01 | 13,8 | 15,0 | 30,0
 e-Devlet Kapısından Sunulan Hizmet Sayısı | 22 7 | 547 | 700 | 3.000
-
-Tablo 9: e-Devlet Alanında Gelişmeler ve Hedefler
 
 Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013  ve  2018  yılı  verileri  Onuncu  Kalkınma  Planı tahminleridir.
 
@@ -1570,7 +1573,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 [[START OF PAGE 62]]
 
-###### Politikalar
+###### c. Politikalar
 
 - e-Devlet çalışmaları etkin kamu yönetimi bakış açısıyla yürütülecek, kurumlar üstü ve kurumlar arası düzeyde güçlü bir yönetim ve koordinasyon yapısına kavuşturulacaktır.
 
@@ -1624,7 +1627,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 - Ülkemizin büyüme performansını istikrarlı hale getirip daha üst seviyeye taşımak için bir taraftan yüksek düzeyde üretken yatırımlara, diğer taraftan da hem nüfusun daha büyük bir bölümünün ekonomik olarak aktif hale gelmesine, hem de daha verimli bir biçimde üretim faaliyeti içerisinde yer almasına ihtiyaç vardır.
 
-- Ekonomide  üretken  yatırımları  artırma  ihtiyacı  iki  temel  sorun  alanını  gündeme getirmektedir.  Bunların  ilki,  Türkiye  ekonomisinde  yurtiçi  tasarruf  oranlarının  son yıllarda  düşük  olması  ve  yatırım  finansmanında  dış  tasarrufların  önemli  bir  rol üstlenmesidir. Yüksek oranlı cari işlemler açığının arkasındaki dinamik olan tasarrufyatırım açığı, ekonomiyi dış finansman şartlarında yaşanabilecek olumsuzluklara karşı daha duyarlı  hale  getirmektedir.  Bu  sebeple,  yurtiçi  tasarruf  oranlarının  artırılması Onuncu Kalkınma Planının temel makroekonomik hedeflerinden birisidir. İkinci temel sorun  alanı  ise  tasarrufların  üretken  yatırımlara  yeterince  yönlendirilememesidir. Cari  işlemler  açığı  veren  bir  ekonomide,  üretim  kapasitesini  ve  ihracatı  artıracak yatırımlar  öncelikli  olmalıdır.  Dolayısıyla,  Onuncu  Kalkınma  Planında  tasarrufların artması kadar, artan tasarrufların üretken yatırımlara dönüşmesi de öncelikli konular arasında yer almaktadır.
+- Ekonomide  üretken  yatırımları  artırma  ihtiyacı  iki  temel  sorun  alanını  gündeme getirmektedir.  Bunların  ilki,  Türkiye  ekonomisinde  yurtiçi  tasarruf  oranlarının  son yıllarda  düşük  olması  ve  yatırım  finansmanında  dış  tasarrufların  önemli  bir  rol üstlenmesidir. Yüksek oranlı cari işlemler açığının arkasındaki dinamik olan tasarruf-yatırım açığı, ekonomiyi dış finansman şartlarında yaşanabilecek olumsuzluklara karşı daha duyarlı  hale  getirmektedir.  Bu  sebeple,  yurtiçi  tasarruf  oranlarının  artırılması Onuncu Kalkınma Planının temel makroekonomik hedeflerinden birisidir. İkinci temel sorun  alanı  ise  tasarrufların  üretken  yatırımlara  yeterince  yönlendirilememesidir. Cari  işlemler  açığı  veren  bir  ekonomide,  üretim  kapasitesini  ve  ihracatı  artıracak yatırımlar  öncelikli  olmalıdır.  Dolayısıyla,  Onuncu  Kalkınma  Planında  tasarrufların artması kadar, artan tasarrufların üretken yatırımlara dönüşmesi de öncelikli konular arasında yer almaktadır.
 
 - 2023  yılında  dünyanın  en  büyük  ekonomileri  arasında  yer  alma  hedefinin,  işgücü potansiyelinin  ancak  yarısını  harekete  geçirebilen  bir  ekonomik  yapıyla başarılması mümkün  değildir.  Nüfusun  daha  büyük  bir  bölümünün  üretim  sürecine  katılması gereklidir.  Bu  süreçte  kadınların  işgücüne  katılma  oranında  meydana  gelecek  artış büyük  rol  oynayacaktır.  Sermaye  ve  işgücü  faktörlerinin  nicelik  artışının  yanı  sıra verimlilik  düzeylerinin  artması  da  yüksek  ve  istikrarlı  büyüme  açısından  elzemdir. Ayrıca, hâlihazırda ciddi farklılıklar sergileyen bölgesel işgücü göstergelerinin iyileştirilmesi de büyümeye önemli katkıda bulunacaktır.
 
@@ -1654,7 +1657,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 [[START OF PAGE 66]]
 
-- Ayrıca,  ithalata  bağımlılığın  yüksek  olduğu  bu  sektörde,  cari  açık  sorunu  ve  arz güvenliği gözetilerek yerli ve yenilenebilir kaynaklardan azami derecede faydalanma yoluna gidilecektir.
+Ayrıca,  ithalata  bağımlılığın  yüksek  olduğu  bu  sektörde,  cari  açık  sorunu  ve  arz güvenliği gözetilerek yerli ve yenilenebilir kaynaklardan azami derecede faydalanma yoluna gidilecektir.
 
 - Bütün bunların yapılabilmesi için öngörülebilir ve istikrarlı bir makroekonomik ortam gerekmektedir. Para ve maliye politikasının uyum içerisinde yürütülmesi ekonomide istikrarın korunması açısından büyük önem  taşımaktadır. Bu bağlamda, para politikası  fiyat  istikrarını  sağlama  ve  koruma  amacı  çerçevesinde  yürütülecektir. Maliye politikası ise mali kazanımları koruyarak istikrarlı yüksek büyüme ortamının tesis edilmesine destek olacak biçimde uygulanacaktır. Yatırım ve teşvik politikaları üretken bir ekonomik yapıyı destekleyecek mahiyette yürütülecektir. Mali piyasaların geliştirilmesi suretiyle de yabancı sermayenin  ülkeye  çekilmesi ve ekonominin ihtiyaç duyduğu finansal kaynaklara uygun şartlarla erişilmesi sağlanacaktır.
 
@@ -1662,7 +1665,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 ##### 2.2.1. Büyüme ve İstihdam
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - 2002-2006  döneminde  yüksek  büyüme  performansı  yakalayan  Türkiye  ekonomisi, 2007 yılında potansiyel büyüme seviyesine yaklaşmış, 2008 yılından itibaren ise tüm dünyayı  etkisi  altına  alan  küresel  krizin  olumsuz  etkilerine  maruz  kalmıştır.  Bu süreçte  ekonomiyi  canlandırmaya  yönelik  bir  dizi  tedbir  alınmıştır.  Buna  rağmen 2009  yılında  Türkiye  ekonomisi  yüzde  4,8  oranında  daralmıştır.  Alınan  tedbirlerin etkisiyle  bozulan  kamu  mali  dengelerini  orta  vadede  düzeltmek  amacıyla  kapsamlı bir  politika  setinin  kararlılıkla  uygulanması  sonucunda,  iç  talep  kaynaklı  güçlü  bir toparlanma sürecine girilmiştir. Böylece Türkiye ekonomisi, 2010 ve 2011 yıllarında sırasıyla yüzde 9,2 ve yüzde 8,8 oranında büyümüştür. Bu dönemde iç ve dış talep arasında  yaşanan  dengesizliğin  etkisiyle  artan  cari  işlemler  açığı  ve  bu  açığın finansmanının ağırlıklı olarak kısa vadeli sermaye girişiyle yapılması, makroekonomik istikrar  açısından  bir  risk  unsuru  olarak  ortaya  çıkmıştır.  Bu  gelişme  karşısında zamanında alınan doğru tedbirler neticesinde, 2012 yılında iç ve dış talep arasındaki dengesizlik önemli ölçüde giderilmiş ve makroekonomik istikrar ortamı güçlendirilmiştir.
 
@@ -1674,7 +1677,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 [[START OF PAGE 67]]
 
-- olurken, GSYH hesabına negatif olarak giren  dolaylı ölçülen mali aracılık hizmetleri kaleminin payı ise yüzde 1,6 olmuştur.
+olurken, GSYH hesabına negatif olarak giren  dolaylı ölçülen mali aracılık hizmetleri kaleminin payı ise yüzde 1,6 olmuştur.
 
 - 2002-2012 döneminde GSYH büyümesi yıllık ortalama yüzde 5,1 olarak kaydedilmiş, büyüme yurtiçi talep ağırlıklı bir yapıda gerçekleşmiştir. Bu dönemde yurtiçi talebin büyümeye  katkısı,  2  puanı  sabit  sermaye  yatırımlarından  3,8  puanı  ise  tüketim harcamalarından olmak üzere, yıllık ortalama 5,8 puan olarak kaydedilirken, net dış talebin büyümeye katkısı ortalama -0,7 puan olmuştur. Aynı dönemde, özel sektör tüketim  ve  yatırım  artışı  sırasıyla  yıllık  ortalama  yüzde  4,9  ve  yüzde  9,7  olarak gerçekleşmiştir. Kamu tüketim ve yatırım artışları ise sırasıyla yüzde 3,8 ve yüzde 7,2 olmuştur.
 
@@ -1692,9 +1695,9 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 [[START OF PAGE 68]]
 
-- durum  kriz  sonrası  Türkiye'nin  hızla  kriz  öncesi  üretim  düzeylerini  yakalamasına olanak  sağlamış  ve  önümüzdeki  dönemde  de  yüksek  ve  istikrarlı  bir  büyüme  için gerekli ortamı oluşturmuştur.
+durum  kriz  sonrası  Türkiye'nin  hızla  kriz  öncesi  üretim  düzeylerini  yakalamasına olanak  sağlamış  ve  önümüzdeki  dönemde  de  yüksek  ve  istikrarlı  bir  büyüme  için gerekli ortamı oluşturmuştur.
 
-###### Amaç, Hedef ve Politikalar
+###### b. Amaç, Hedef ve Politikalar
 
 - Refah artışının hızlandırılması yolunda, uzun vadeli bakış açısıyla yüksek ve istikrarlı büyüme ortamının sağlanması temel amaçtır.
 
@@ -1712,25 +1715,9 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  TÜRKSAT'a  aittir.  2013
 
 [[START OF PAGE 69]]
 
-Şekil 1: Büyüme Stratejisi
+Makroekonomik
 
-YÜKSEK VE İSTİKRARLI BÜYÜME
-
-Verimlilik artışı ve sanayileşmenin hızlandırılması
-
-yoluyla ihracata dayalı, özel sektör öncülüğünde,
-
-rekabetçi üretim yapısının geliştirilmesi
-
-Kurumsal
-
-Kalite
-
-Fiziki Altyapı
-
-Teknoloji ve
-
-Yenilik
+İstikrar
 
 Beşeri Sermaye
 
@@ -1738,9 +1725,25 @@ ve İşgücü
 
 Piyasası
 
-Makroekonomik
+Teknoloji ve
 
-İstikrar
+Yenilik
+
+Fiziki Altyapı
+
+Kurumsal
+
+Kalite
+
+Verimlilik artışı ve sanayileşmenin hızlandırılması
+
+yoluyla ihracata dayalı, özel sektör öncülüğünde,
+
+rekabetçi üretim yapısının geliştirilmesi
+
+YÜKSEK VE İSTİKRARLI BÜYÜME
+
+Şekil 1: Büyüme Stratejisi
 
 - Makroekonomik istikrar, karar alma süreçlerinin ve geleceğe dönük planların sağlıklı biçimde yapılmasına imkan tanımakta ve bu sayede ekonomide kaynakların optimal dağılımla en verimli biçimde değerlendirilmesini mümkün kılmaktadır. Son dönemde sağlanan istikrarın güçlendirilerek korunması Plan hedeflerine ulaşmak açısından ön şart  olarak  görülmektedir.  Bu  kapsamda,  kamu  gelir  ve  harcamalarında  kalitenin artırılmasına  yönelik  çalışmalar  yapılacaktır.  Kamu  harcamalarının  toplam  hâsıla içerisindeki  payının  artırılmamasına  ve  böylelikle  kamunun  özel  sektörü  dışlayıcı etkisinin en aza indirilmesine dikkat edilecektir. Verginin tabana yayılması gibi gelir artırıcı  çalışmalarla  oluşturulacak  mali  alan,  yeni  politikaların uygulanmasına  imkân sağlayacaktır. Ayrıca, fiyat istikrarını güçlendirecek para politikası çerçevesi korunacaktır.  Bunların  yanı  sıra,  cari  açığın  kalıcı  çözümüne  yönelik  politika  ve önlemler  hayata  geçirilecektir.  Bunlara  paralel  olarak  son  on  yılda  azalma  eğilimi gösteren yurtiçi tasarrufların artırılmasına yönelik çalışmalar sürdürülecektir.
 
@@ -1754,7 +1757,7 @@ Makroekonomik
 
 [[START OF PAGE 70]]
 
-- artırarak  potansiyel  büyümeye  katkı  sağlamaktadır.  Firma  açısından  ise,  kârlılığı  ve dolayısıyla yeni yatırım imkânlarını artıran bir unsurdur. Bu doğrultuda Plan döneminde, çevre faktörünü de dikkate alan Ar-Ge ve yenilik faaliyetleri özel sektör odaklı olacak şekilde artırılacak, elde edilecek çıktıların ticarileştirme ve markalaşma süreçlerinin hızlandırılmasıyla katma değer artışı sağlanacaktır.
+artırarak  potansiyel  büyümeye  katkı  sağlamaktadır.  Firma  açısından  ise,  kârlılığı  ve dolayısıyla yeni yatırım imkânlarını artıran bir unsurdur. Bu doğrultuda Plan döneminde, çevre faktörünü de dikkate alan Ar-Ge ve yenilik faaliyetleri özel sektör odaklı olacak şekilde artırılacak, elde edilecek çıktıların ticarileştirme ve markalaşma süreçlerinin hızlandırılmasıyla katma değer artışı sağlanacaktır.
 
 - Fiziki altyapı yatırımlarının yeteri kadar yapılmaması, ülkelerin kalkınma süreçlerinde kısıt  oluşturabilmektedir.  Bu  nedenle,    kamu  altyapı  yatırımlarının  ekonomide üretimin sağlıklı olarak gelişmesini destekleyecek, ancak kaynak israfına yol açmayacak biçimde planlanması gerekmektedir. Kamu eliyle yapılan nitelikli altyapı yatırımları  özel  sektör  yatırımlarını  güdüleyerek  üretim  kapasitesini  artıracak;  bir taraftan da verimlilik bazlı büyüme dinamiğine katkı sağlayacaktır.
 
@@ -1772,7 +1775,7 @@ Makroekonomik
 
 [[START OF PAGE 71]]
 
-- atılacak adımlarla sanayi  sektörünün  yüzde  6,4  oranında  büyümesi  ve  GSYH içerisindeki  payının  bir  miktar  artması  öngörülmektedir.  Tarım  sektörünün  yıllık ortalama  yüzde  3,1  oranında  büyümesi  ve  GSYH  içerisindeki  payının  Plan  dönemi sonunda yüzde 6,8'e gerilemesi, hizmetler sektörünün ise GSYH'ya paralel bir eğilim sergilemesi beklenmektedir.
+atılacak adımlarla sanayi  sektörünün  yüzde  6,4  oranında  büyümesi  ve  GSYH içerisindeki  payının  bir  miktar  artması  öngörülmektedir.  Tarım  sektörünün  yıllık ortalama  yüzde  3,1  oranında  büyümesi  ve  GSYH  içerisindeki  payının  Plan  dönemi sonunda yüzde 6,8'e gerilemesi, hizmetler sektörünün ise GSYH'ya paralel bir eğilim sergilemesi beklenmektedir.
 
 - Onuncu  Kalkınma  Planı  döneminde,  yıllık  ortalama  yüzde  2,9  oranında  istihdam artışıyla  toplamda  4  milyon  yeni  iş  yaratılması  öngörülmektedir.  İstihdam  artışının sanayi  ve  hizmetler  sektörlerinde  yoğunlaşması  sonucunda,  tarım  istihdamının toplam içerisindeki payı yüzde 21,9'a gerileyecek ve istihdam daha verimli alanlara kaymış  olacaktır.  Hızlı  istihdam  artışı  yanında  işgücü  piyasasına  yönelik  politikalar yoluyla  özellikle  kadınların  iş  hayatına  katılımının  artırılması  sayesinde  toplam işgücüne katılma oranının 2,7 puan artışla yüzde 53,8 seviyesine yükseleceği tahmin edilmektedir. Bu gelişmeler doğrultusunda, işsizlik oranı tedrici bir düşüşle 2013 yılı için  beklenen  yüzde  9,2  seviyesinden  Plan  dönemi  sonunda  yüzde  7,2  seviyesine indirilecektir.
 
@@ -1783,6 +1786,8 @@ Makroekonomik
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+Tablo 10: Büyüme ve İstihdam Gelişmeleri ve Hedefleri
 
 2006 | 2012 | 2013 | 2018 | 2014-2018
 --- | --- | --- | --- | --- | ---
@@ -1810,8 +1815,6 @@ Vergi-Sübvansiyon | 13,2 | 12,4 | 13,1 | 12,6 | 12,7 2
 İstihdam Oranı (%) | 41,5 | 45,4 | 46,4 | 49,9 | 48,2 2
 İşsizlik Oranı (%) | 10,2 | 9,2 | 9,2 | 7,2 | 8,2 2
 
-Tablo 10: Büyüme ve İstihdam Gelişmeleri ve Hedefleri
-
 Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
 (1) Dolaylı Ölçülen Mali Aracılık Hizmetleri GSYH hesabına eksi olarak girmektedir.
@@ -1833,6 +1836,10 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+Tablo 11: Ekonominin Genel Dengesi
+
+(Cari Fiyatlarla, GSYH'ya Oran, Yüzde)
 
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
@@ -1867,10 +1874,6 @@ Kamu Tasarruf-Yatırım Farkı | 0,5 | -1,4 | -2,1 | -1,1
 Özel Tasarruf-Yatırım Farkı | -6,3 | -4,4 | -4,6 | -4,4
 Toplam Yurtiçi Tasarruflar | 16,6 | 14,8 | 14,4 | 19,0
 
-Tablo 11: Ekonominin Genel Dengesi
-
-(Cari Fiyatlarla, GSYH'ya Oran, Yüzde)
-
 Kaynak:  2006  ve  2012  yılı  verileri  Kalkınma  Bakanlığına  aittir.  2013  ve  2018  yılı  verileri  Onuncu  Kalkınma  Planı tahminleridir.
 
 Not:  Rakamlar virgülden  sonra tek basamağa yuvarlanmıştır. Toplam değerler, alt bileşenlerinin toplamından farklılık gösterebilir.
@@ -1883,19 +1886,19 @@ Not:  Rakamlar virgülden  sonra tek basamağa yuvarlanmıştır. Toplam değerl
 
 [[START OF PAGE 74]]
 
-- yüzde 13,2'si olarak kaydedilmiştir. 2009 yılı sonrasındaki dönemde toplam tasarruf oranları sınırlı da olsa bir artış eğilimine girmiştir.
+yüzde 13,2'si olarak kaydedilmiştir. 2009 yılı sonrasındaki dönemde toplam tasarruf oranları sınırlı da olsa bir artış eğilimine girmiştir.
 
 - 2012 yılı itibarıyla özel kesim tasarruf oranı yüzde 11,8, kamu kesimi tasarruf oranı yüzde  2,9  ve  toplam  yurtiçi  tasarruf  oranı  yüzde  14,8  olarak  gerçekleşmiştir. Ülkemizdeki tasarruf oranı OECD ülkelerinin ve özellikle de hızlı büyüyen ekonomilerin tasarruf oranlarından düşüktür.
 
 - Son  yıllarda,  büyümenin  düşük  veya  negatif  olduğu  yıllar  hariç  tutulduğunda, tasarruf-yatırım  açığının  genel  olarak  artış  eğiliminde  olduğu  gözlenmektedir.  Bu eğilimin  temel  belirleyicisi  tasarruf  oranlarındaki  azalma  olmuştur.  2011  yılında GSYH'ya  oranla  yüzde  9,5  seviyesine  ulaşan  tasarruf-yatırım  açığı,  alınan  makro ihtiyati tedbirler sonucunda 2012 yılında yüzde 5,8 seviyesinde gerçekleşmiştir. Söz konusu toplam açık; yüzde 4,4 özel kesim ve yüzde 1,4 kamu kesimi tasarruf-yatırım açıklarından oluşmaktadır.
 
-- Türkiye ekonomisi yakın geçmişte dış finansmana erişimde sorun yaşamamış olsa da, yatırımların  ve  büyümenin  istikrarlı  bir  biçimde  sürdürülmesi  açısından  tasarrufyatırım dengesini düzeltici önlemler alınması önem taşımaktadır. Yurtiçi tasarrufların artırılması, cari açığın azaltılmasına da katkı sağlayacaktır.
+- Türkiye ekonomisi yakın geçmişte dış finansmana erişimde sorun yaşamamış olsa da, yatırımların  ve  büyümenin  istikrarlı  bir  biçimde  sürdürülmesi  açısından  tasarruf-yatırım dengesini düzeltici önlemler alınması önem taşımaktadır. Yurtiçi tasarrufların artırılması, cari açığın azaltılmasına da katkı sağlayacaktır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Plan  döneminde  yurtiçi  tasarrufların  artırılması  ve  üretken  alanlarda  yatırımlara yönlendirilmesi  amaçlanmaktadır.  Büyüme  ve  cari  açık  hedefleriyle  de  uyumlu  bir şekilde,  yurtiçi  tasarruf  oranının  Plan  dönemi  sonunda  yüzde  19'a  yükseltilmesi hedeflenmektedir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Tasarruf oranlarını artırmak için uygun makroekonomik koşullar temin edilecektir. Bu bağlamda, yurtiçi tasarruflar, kredi büyümesini ve TL'nin aşırı değerlenmesini kontrol altında  tutan  para  ve  kur  politikalarıyla  desteklenecek;  tasarrufu  artırmaya  yönelik bugüne  kadar  uygulanan  makro  ihtiyati  politikalar  gerekli  olduğu  koşulda  yeni tedbirlerle güçlendirilecek; vergi politikalarının belirlenmesinde tasarrufların artırılması amacı da gözetilecektir.
 
@@ -1941,6 +1944,8 @@ Not:  Rakamlar virgülden  sonra tek basamağa yuvarlanmıştır. Toplam değerl
 
 - 2006  yılında  63,3  milyar  dolar  olan  Merkez  Bankası  net  rezervleri,  küresel  kriz döneminin başında kısmen azalmakla birlikte, 2012 yılında altın fiyatlarının artması ve rezerv politikasındaki değişiklikle 119,2 milyar dolara ulaşmıştır.
 
+Tablo 12: Ödemeler Dengesine İlişkin Temel Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018 | 2014-2018
 --- | --- | --- | --- | --- | ---
 İhracat (fob) (Milyar Dolar) 1 | 85,5 | 152,5 | 157,8 | 277,2 | 11,9
@@ -1953,8 +1958,6 @@ Turizm Gelirleri (Milyar Dolar) 1 ve 3 | 17,5 | 25,7 | 28,0 | 40,8 | 7,8
 Cari İşlemler Dengesi (Milyar Dolar) | -31,8 | -47,5 | -55,3 | -67,1 | ---
 Cari İşlemler Dengesi / GSYH (%) 2 | -6,0 | -6,0 | -6,5 | -5,2 | -5,8
 Uluslararası Doğrudan Yatırım Girişi (Milyar Dolar) 1 | 20,2 | 12,6 | 15,3 | 28,3 | 13,1
-
-Tablo 12: Ödemeler Dengesine İlişkin Temel Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -2022,7 +2025,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - TCMB, cari dengedeki bozulmayı kontrol altına almak ve ekonomiyi daha sağlıklı bir büyüme kompozisyonuna kavuşturmak için, 2010 yılının sonlarından itibaren, kredi büyümesinin  yavaşlatılmasına  yönelik  politikalar  uygulamaya  başlamış ve  Türk Lirasının  aşırı  dalgalanmalardan  korunmasına  ilişkin  uygulamalarını  sürdürmüştür. Yeni  rejimde,  fiyat  istikrarı  ve  finansal  istikrar  hedefleri  doğrultusunda  temel  para politikası aracı olan bir hafta vadeli repo ihale faiz oranının yanı sıra diğer otoriteler ile eşgüdüm halinde zorunlu karşılıklar, rezerv opsiyonu mekanizması, faiz koridoru ve likidite yönetimi gibi araçlar aktif olarak kullanılmıştır. Rezerv opsiyonu mekanizması aracılığıyla altının finansal sistemde kullanım alanı artırılmıştır. Uygulamaya konulan bu politikaların etkisiyle ekonomi yeniden dengelenme sürecine girmiş ve 2011  yılının son çeyreğinden itibaren cari açık  azalmaya başlamıştır.  Ancak  cari  açıkta  sağlanan  iyileşmenin  kalıcı  olması  için  uygulanmakta olan para politikalarına ilave olarak yapısal tedbirlerin alınması gerekmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Para  politikasının  temel  amacı  fiyat  istikrarını  sağlamak  ve  korumaktır.  Bu  amaca yönelik  olarak  uygulanan  enflasyon  hedeflemesi  rejiminde  finansal  istikrar  da gözetilmeye devam edilecektir. Plan döneminin ilk yıllarında TÜFE yıllık artış hızının yüzde 5 civarında korunması, sonrasında ise yüzde 4,5'e indirilmesi hedeflenmektedir.
 
@@ -2032,13 +2035,13 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 [[START OF PAGE 79]]
 
-2006 | 2012 | 2013 | 2018 | 2014-2018
---- | --- | --- | --- | --- | ---
-TÜFE (Yıl Sonu Yüzde Değişim) (%) | 9,7 | 6,2 | 5,3 | 4,5 | 4,8
-
 Tablo 13: Enflasyon Gelişmeleri ve Tahminleri
 
 (Yüzde Değişme)
+
+2006 | 2012 | 2013 | 2018 | 2014-2018
+--- | --- | --- | --- | --- | ---
+TÜFE (Yıl Sonu Yüzde Değişim) (%) | 9,7 | 6,2 | 5,3 | 4,5 | 4,8
 
 Kaynak:    2006  ve  2012  yılına  ait  veriler  TÜİK'e  aittir.  2013  yılı  verisi  TCMB;  2018  yılı  verisi  ve  2014-2018  dönemi ortalaması Onuncu Kalkınma Planı tahminleridir.
 
@@ -2112,6 +2115,8 @@ Kaynak:    2006  ve  2012  yılına  ait  veriler  TÜİK'e  aittir.  2013  yıl
 
 oranının  hızlı  bir  şekilde  artacağı  ve  bu  artışın  özel  sektör  borçlanma  araçlarından kaynaklanacağı değerlendirilmektedir.
 
+Tablo 14: Finansal Hizmetlerde Seçilmiş Göstergelerde Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Bankacılık Sektörü
@@ -2121,8 +2126,6 @@ Borsa İstanbul Şirket Sayısı (Adet) | 329 | 406 | 431 | 606
 Piyasa Kapitalizasyonu/GSYH (%) | 30 | 39 | 41 | 66
 Borçlanma Araçları Nominal Stoku/GSYH (%) | 33 | 29 | 32 | 47
 İstanbul'un GFCI Sıralaması 1 | --- | 56 | --- | 25
-
-Tablo 14: Finansal Hizmetlerde Seçilmiş Göstergelerde Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri BDDK, Borsa İstanbul, SPK ve TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -2176,13 +2179,13 @@ Kaynak: 2006 ve 2012 yılı verileri BDDK, Borsa İstanbul, SPK ve TÜİK'e aitt
 
 - Genel devlet gelir ve harcamalarındaki gelişmeler sonucunda, 2006-2008 döneminde GSYH'ya  oranla  ortalama  yüzde  0,2  olarak  gerçekleşen  genel  devlet  açığı,  2009 yılında  yüzde  5,5'e  yükselmiş,  2010-2012  döneminde  ise  ortalama  yüzde  1,4 olmuştur.  Faiz  giderleri  ve  özelleştirme  gelirleri  hariç  tutulduğunda  ise,  2006-2008 döneminde  GSYH'ya  oranla  ortalama  yüzde  4,4  fazla  veren  genel  devlet  dengesi, 2009 yılında yüzde 0,2 açık vermiş, 2010-2012 döneminde ise ortalama yüzde 2 fazla vermiştir.
 
-- Kamu  maliyesinin  uzun  dönemli  mali  sürdürülebilirliğini yansıtan bir  gösterge niteliğinde  olan  yapısal  genel  devlet  dengesi,  konjonktürel  gelişmelerin  gelir  ve harcamalar  üzerindeki  etkilerinin  ortadan  kaldırılması  suretiyle  hesaplanmakta  ve özelleştirme  gelirleri  ile  bir  defalık  gelirleri  içermemektedir.  Dokuzuncu  Kalkınma Planı  döneminde faiz hariç yapısal  genel  devlet harcamalarının potansiyel  GSYH'ya oranı sürekli artarak 2012 yılında yüzde 34,7'ye yükselmiştir. Genel devlet gelirlerinin potansiyel GSYH'ya oranı ise, kısmen dalgalı bir seyir gösterse de, Plan döneminde artış  eğiliminde  olmuş  ve  2012  yılında  yüzde  36,5'e  ulaşmıştır.  Böylece,  potansiyel GSYH'ya oranla 2006 yılında yüzde 4,2 olan yapısal genel devlet faiz dışı fazlası, 20072012  döneminde  faiz  dışı  harcamaların  gelirlerden  daha  fazla  artması  sonucunda ortalama yüzde 1,8 olarak gerçekleşmiştir.
+- Kamu  maliyesinin  uzun  dönemli  mali  sürdürülebilirliğini yansıtan bir  gösterge niteliğinde  olan  yapısal  genel  devlet  dengesi,  konjonktürel  gelişmelerin  gelir  ve harcamalar  üzerindeki  etkilerinin  ortadan  kaldırılması  suretiyle  hesaplanmakta  ve özelleştirme  gelirleri  ile  bir  defalık  gelirleri  içermemektedir.  Dokuzuncu  Kalkınma Planı  döneminde faiz hariç yapısal  genel  devlet harcamalarının potansiyel  GSYH'ya oranı sürekli artarak 2012 yılında yüzde 34,7'ye yükselmiştir. Genel devlet gelirlerinin potansiyel GSYH'ya oranı ise, kısmen dalgalı bir seyir gösterse de, Plan döneminde artış  eğiliminde  olmuş  ve  2012  yılında  yüzde  36,5'e  ulaşmıştır.  Böylece,  potansiyel GSYH'ya oranla 2006 yılında yüzde 4,2 olan yapısal genel devlet faiz dışı fazlası, 2007-2012  döneminde  faiz  dışı  harcamaların  gelirlerden  daha  fazla  artması  sonucunda ortalama yüzde 1,8 olarak gerçekleşmiştir.
 
 - Genel  devlet  dengesindeki  gelişmelere  paralel  olarak,  küresel  kriz  öncesi  gerileme eğiliminde olan AB tanımlı genel devlet borç stokunun GSYH'ya oranı krizle birlikte yükselmiş, kriz sonrasında ise tekrar gerileme eğilimine girmiştir.
 
 - Sekizinci  ve Dokuzuncu Kalkınma Planları süresince izlenen ekonomik programların bir sonucu olarak kamu mali dengelerinde iyileşme yaşanmış ve kamu borç stokunun GSYH'ya  oranı  önemli  ölçüde  gerilemiştir.  Bununla  birlikte,  kamu  mali  sisteminin devresel hareketlere karşı oldukça duyarlı olduğu görülmektedir. Onuncu Kalkınma Planı döneminde, bir taraftan elde edilen kazanımların korunması diğer taraftan da daha güçlü bir kamu mali görünümünün tesis edilebilmesi için kamu harcamalarının rasyonelleştirilmesi ve kamu gelirlerinin kalitesinin artırılması öncelik olarak değerlendirilmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Maliye politikasının, istikrarlı yüksek büyüme ortamının tesis edilebilmesine yönelik olarak,  ekonomik  istikrarın  desteklenmesi,  yurtiçi  tasarrufların  artırılması  ve  cari açığın kontrol altında tutulmasına yardımcı olacak şekilde para ve gelirler politikalarıyla uyumlu bir biçimde uygulanması esastır.
 
@@ -2225,11 +2228,11 @@ Not:  Kamu  kesimi;  merkezi  yönetim  bütçesi  kapsamındaki  kurum  ve  kur
 
 (3) Faiz gelirleri ve giderleri, özelleştirme gelirleri, kamu bankaları kâr payları ve bazı özellikli gelirler ile giderler hariç tutularak hesaplanmaktadır.
 
-- Özelleştirme ve bir defalık gelirler hariç, potansiyel GSYH'ya orandır.
+(4) Özelleştirme ve bir defalık gelirler hariç, potansiyel GSYH'ya orandır.
 
-- Faiz giderleri hariç, potansiyel GSYH'ya orandır.
+(5) Faiz giderleri hariç, potansiyel GSYH'ya orandır.
 
-- Potansiyel GSYH'ya orandır.
+(6) Potansiyel GSYH'ya orandır.
 
 - Dokuzuncu Kalkınma Planı döneminde kamu brüt borç stoku ile faiz harcamalarının GSYH'ya  oranının  düşürülmesi  sonucunda  elde  edilen  makroekonomik  ve  mali kazanımların, kamu kesimi borçlanma gereğinin kontrol altında tutulması suretiyle, kalıcı hale getirilmesi amaçlanmaktadır.
 
@@ -2273,7 +2276,7 @@ Not:  Kamu  kesimi;  merkezi  yönetim  bütçesi  kapsamındaki  kurum  ve  kur
 
 ##### 2.2.7. Sosyal Güvenlik Finansmanı
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - 2006  yılında  sosyal  sigorta  kuruluşlarının  tek  çatı  altında  toplanmasıyla  başlatılan Sosyal  Güvenlik  Reformu  kademeli  olarak  hayata  geçirilerek  norm  ve  standart birliğinin  sağlanmasına  yönelik  önemli  adımlar  atılmış,  sosyal  güvenlik  sisteminin kapsamı  genişletilmiş,  kaliteli  hizmet  sunumunun  ve  mali  sürdürülebilirliğin  temini yönünde önemli ilerlemeler kaydedilmiştir. Bu kapsamda, farklı standartlarda hizmet sunan kamu sağlık sigortaları tek çatı altında toplanarak nüfusun tamamını kapsayan zorunlu GSS kurulmuştur. Sistemin mali sürdürülebilirliğini sağlamak üzere emeklilik
 
@@ -2303,7 +2306,7 @@ Not:  Kamu  kesimi;  merkezi  yönetim  bütçesi  kapsamındaki  kurum  ve  kur
 
 - Sosyal güvenlik sisteminde 1999 ve 2008 yıllarında kapsamlı reformlar yapılmasına rağmen;  emeklilik  yaşına  ilişkin  belirlenen  kademeli  geçiş  sürelerinin  uzunluğu nedeniyle fiili emeklilik yaşının düşük olması, emekli aylıklarına öngörülen oranların üzerinde artış yapılması, prim borçlarının yapılandırılması, yurtdışı  borçlanma uygulamasının sürdürülmesi, kayıt dışı istihdamın ve kayıt dışı ücretin halen istenilen düzeye indirilememesi sosyal güvenlik sisteminin uzun dönemli mali sürdürülebilirliğini  zayıflatmaktadır.  Ayrıca,  nüfusun  yaşlanması;  hastalık  yükünün değişimi; yeni sağlık teknolojilerinin geliştirilmesiyle oluşan sağlık enflasyonu; sağlık bilinci  ve  gelir  düzeyi  artışına  bağlı  olarak  sağlık  hizmetlerine  talebin  artması  gibi nedenlerle  sağlık  harcamaları  artış  eğilimini  korumakta  ve  mali  sürdürülebilirlik üzerinde baskı yaratmaktadır.
 
-Tablo 16: Sosyal Güvenlik Kurumu Gelir-Gider Dengesi
+Tablo 16: Sosyal Güvenlik Kurumu Gelir–Gider Dengesi
 
 (GSYH'ya Oran, Yüzde)
 
@@ -2336,13 +2339,13 @@ Kaynak:  2006  ve  2012  yılı  verileri  nakit  bazlı  olup  SGK'ya  aittir. 
 
 [[START OF PAGE 89]]
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Sosyal güvenlik reformunun kararlılıkla uygulanması ve sistemin aktüeryal dengesini bozucu uygulamalardan kaçınılması suretiyle sosyal güvenlik sisteminin uzun dönemli mali sürdürülebilirliğinin iyileştirilmesi amaçlanmaktadır.
 
 - Plan  dönemi  sonunda  merkezi  yönetim  bütçesinden  sosyal  güvenlik  sistemine yapılacak bütçe transferinin GSYH'ya oranının yüzde 4'e düşürülmesi hedeflenmektedir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Kayıt  dışı  istihdam  ve  kayıt  dışı  ücretle  mücadele  edilerek  kayıtlı  çalışan  sayısı artırılacak ve prim tabanı genişletilecektir.
 
@@ -2354,7 +2357,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  nakit  bazlı  olup  SGK'ya  aittir. 
 
 ##### 2.2.8. Kamu İşletmeciliği
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Kamu sermayeli işletmeler, 233 sayılı KHK kapsamındaki KİT'ler ile 4046 sayılı Kanun hükümleri çerçevesinde faaliyetlerini sürdüren kamu işletmeleri, sermayesinin yüzde 50'sinden  fazlası  Hazineye  ait  olan  işletmeler  ve  döner  sermayeli  işletmelerden oluşmaktadır.
 
@@ -2424,7 +2427,7 @@ Kaynak: 2006 ve 2012 yılı verileri Kalkınma Bakanlığı ve Hazine Müsteşar
 
 - KİT'ler, istikrarlı yüksek büyümeye katkı sağlamak amacıyla teknolojik altyapılarını ve Ar-Ge  faaliyetlerini  geliştirerek  katma  değeri  yüksek  ürünlere  yoğunlaşacak,  yerli enerji kaynaklarından faydalanacak ve ihracata yönelik yeni fırsatları değerlendirecektir.
 
-- KİT'lerde  hizmet  alım  süreçleri  etkinleştirilerek  mal  ve  hizmet  üretiminde  kalitemaliyet dengesi sağlanacaktır.
+- KİT'lerde  hizmet  alım  süreçleri  etkinleştirilerek  mal  ve  hizmet  üretiminde  kalite-maliyet dengesi sağlanacaktır.
 
 - Özelleştirme uygulamaları, uzun vadeli sektörel öncelikler çerçevesinde belirlenmiş bir program dâhilinde sürdürülecektir. Uygulamalarda halka arz yönteminin kullanılmasına ağırlık verilecektir.
 
@@ -2434,7 +2437,7 @@ Kaynak: 2006 ve 2012 yılı verileri Kalkınma Bakanlığı ve Hazine Müsteşar
 
 ##### 2.2.9.1. Kamu Yatırımları
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Öncelikli  sosyal  ihtiyaçları  gidermeye,  üretken  faaliyetleri  destekleyecek  nitelikteki altyapıyı geliştirmeye yönelik olarak, Dokuzuncu Kalkınma Planı döneminde; bölgeler arası  gelişmişlik  farklarının  azaltılması  da  dikkate  alınarak,  eğitim,  sağlık,  teknolojik araştırma, ulaştırma, sulama, içme suyu ile bilgi ve iletişim teknolojilerinin geliştirilmesine yönelik altyapı yatırımlarına ağırlık verilmiştir.
 
@@ -2520,7 +2523,7 @@ Not: Mahalli idare yatırımları ve yatırım işçiliği tutarları dâhildir.
 
 - Kamu yatırımlarının ortalama tamamlanma süresinde sağlanan iyileşme, bu sürenin halen nispi olarak yüksek olduğu sektörlere odaklanılarak sürdürülecektir.
 
-- Mevcut  sermaye  stokundan  azami  faydayı  sağlamak  için  idame-yenileme,  bakımonarım ve rehabilitasyon harcamalarına ağırlık verilecektir.
+- Mevcut  sermaye  stokundan  azami  faydayı  sağlamak  için  idame-yenileme,  bakım-onarım ve rehabilitasyon harcamalarına ağırlık verilecektir.
 
 - KÖİ uygulamalarına ilişkin geleceğe yönelik yol haritası niteliğinde bir strateji belgesi hazırlanacak ve dağınık yapıdaki KÖİ mevzuatının çerçeve bir kanun altında toplanması sağlanacaktır.
 
@@ -2530,7 +2533,7 @@ Not: Mahalli idare yatırımları ve yatırım işçiliği tutarları dâhildir.
 
 ##### 2.2.9.2. Özel Kesim Yatırımları
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - 1981-2012  döneminde  yüzde  80'ler  düzeyinde  olan  sermaye  stokunun  büyümeye katkısı, Dokuzuncu Kalkınma Planı döneminde yaklaşık yüzde 75 düzeyinde
 
@@ -2562,7 +2565,7 @@ Not: Mahalli idare yatırımları ve yatırım işçiliği tutarları dâhildir.
 
 - önemli  rol  oynamıştır.  Onuncu  Kalkınma  Planı  döneminde  uluslararası  doğrudan yatırımların, mülkiyet değişmesinden ziyade, yeni yatırımlara ve ek üretim kapasitesi oluşturacak  alanlara  yönlendirilmesi  uzun  dönemde  cari  açığın  sürdürülebilirliği açısından önem taşımaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Plan  döneminde,  yatırım  ortamının  daha  cazip  hale  getirilmesi  ve  yatırımların özendirilmesi yoluyla yüksek büyüme için gerekli özel kesim yatırımlarının artırılması temel amaçtır.
 
@@ -2570,7 +2573,7 @@ Not: Mahalli idare yatırımları ve yatırım işçiliği tutarları dâhildir.
 
 - 2018  yılı  itibarıyla  özel  kesim  sabit  sermaye  yatırımlarının  GSYH'nın  yüzde  19,3'ü olması  hedeflenmektedir.  Plan  döneminde  GSYH'ya  oranla  yıllık  ortalama  yüzde  2 uluslararası doğrudan yatırım girişi öngörülmektedir.
 
-###### Politikalar
+###### c. Politikalar
 
 - Yatırım teşvik uygulamalarında maliyet-etkinlik, hesap verebilirlik, şeffaflık, öngörülebilirlik, esneklik, atıl kapasite oluşturulmaması ile verimlilik ilkeleri gözetilerek istihdam, yüksek katma  değer  ve ihracat artışına yönelik yatırım alanlarına öncelik verilecektir.
 
@@ -2638,6 +2641,8 @@ Not: Mahalli idare yatırımları ve yatırım işçiliği tutarları dâhildir.
 
 - Ar-Ge  ve  yenilik  politikasının  temel  amacı;  teknoloji  ve  yenilik  faaliyetlerinin  özel sektör  odaklı  artırılarak  faydaya  dönüştürülmesine,  yeniliğe  dayalı  bir  ekosistem oluşturularak  araştırma  sonuçlarının  ticarileştirilmesine  ve  markalaşmış  teknoloji yoğun ürünlerle ülkemizin küresel ölçekte yüksek rekabet gücüne erişmesine katkıda bulunmaktır.
 
+Tablo 19: Ar-Ge ve Yenilik Alanında Gelişmeler ve Hedefler
+
 2006 | 2011 | 2013 | 2018
 --- | --- | --- | --- | ---
 Ar-Ge Harcamalarının GSYH'ya Oranı (%) | 0,60 | 0,86 | 0,92 | 1,80
@@ -2645,8 +2650,6 @@ Ar-Ge Harcamalarında Özel Sektörün Payı (%) | 37,0 | 43,2 | 46,0 | 60,0
 TZE Cinsinden Ar-Ge Personeli Sayısı | 54.444 | 92.801 | 100.000 | 220.000
 TZE Cinsinden Araştırmacı Sayısı | 42.663 | 72.109 | 80.000 | 176.000
 Ar-Ge Personeli İçinde Özel Sektörde İstihdam Edilenlerin Payı (%) | 33,1 | 48,9 | 52,0 | 60,0
-
-Tablo 19: Ar-Ge ve Yenilik Alanında Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2011 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -2688,7 +2691,7 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 ##### 2.2.11. İmalat Sanayiinde Dönüşüm
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - 2007-2012  döneminde  imalat  sanayii  üretimi  ortalama  yüzde  3,7  ve  istihdamı  ise ortalama yüzde 1,5 oranında artmıştır. 2012 yılında imalat sanayiinin  GSYH içerisindeki payı yüzde 15,6 olmuştur. İmalat sanayiinde katma değer/üretim oranı ise  Plan  dönemi  boyunca  yatay  seyretmiş  ve  2010  yılında  yüzde  18,9  oranında gerçekleşmiştir.
 
@@ -2704,7 +2707,7 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 [[START OF PAGE 101]]
 
-- rağmen  imalat  sanayii  ihracatı  içindeki  payında  düşme  gözlenmiştir.  Ara  malı ithalatının  payının  yüksek  seyri  ve  büyük  ve  küçük  işletmeler  arasındaki  verimlilik farkı bir arada değerlendirildiğinde, uluslararası rekabet gücü kazanmış büyük ölçekli işletmeler  ile  KOBİ'lerin  daha  entegre  çalışması  önem  arz  etmektedir.  Ar-Ge  ve yenilik faaliyetlerinde hedeflenen düzeye ulaşılabilmesi açısından ana ve yan sanayi firmalarının  ortak  Ar-Ge  ve  yenilik  faaliyetlerinde  bulunarak  kolektif  becerilerini artırmaları gerekmektedir.
+rağmen  imalat  sanayii  ihracatı  içindeki  payında  düşme  gözlenmiştir.  Ara  malı ithalatının  payının  yüksek  seyri  ve  büyük  ve  küçük  işletmeler  arasındaki  verimlilik farkı bir arada değerlendirildiğinde, uluslararası rekabet gücü kazanmış büyük ölçekli işletmeler  ile  KOBİ'lerin  daha  entegre  çalışması  önem  arz  etmektedir.  Ar-Ge  ve yenilik faaliyetlerinde hedeflenen düzeye ulaşılabilmesi açısından ana ve yan sanayi firmalarının  ortak  Ar-Ge  ve  yenilik  faaliyetlerinde  bulunarak  kolektif  becerilerini artırmaları gerekmektedir.
 
 - Sanayi  mallarının rekabetinde,  imalat  dışı faaliyetlerin etkisinin arttığı dikkate alındığında, imalat-tarım-hizmetler sektörleri arasında işbirliğinde etkinliğin sağlanması  gereği  ortaya  çıkmaktadır.  Ayrıca,  sektörlerin  üretim  kapasitelerinden azami  oranda  yararlanabilmek  ve  yaratılan  toplam  değer  içerisinde  yerli  üretimin payını artırmak için, imalat sanayii sektörleri arasında da işbirliklerinin güçlendirilmesi gerekmektedir.
 
@@ -2716,7 +2719,7 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - İmalat sanayiinde; teknoloji üretiminin gelişmesi, modern teknoloji kullanımının hızla yaygınlaşması, nitelikli işgücü temini, yüksek katma  değerli ürünlerde üretim kabiliyetinin artması, yeni gelişen sektörlere yatırım yapılması, KOBİ'lerin üretim ve yönetim yapılarının iyileşmesi gibi yapısal nitelikteki konular önemini korumaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Türkiye'nin  uluslararası  rekabet  gücünü  ve  dünya  ihracatından  aldığı  payı  artırmak için  imalat  sanayiinde  dönüşümü  gerçekleştirerek  yüksek  katma  değerli  yapıya geçmek ve yüksek teknoloji sektörlerinin payını artırmak temel amaçtır.
 
@@ -2728,11 +2731,13 @@ Kaynak: 2006 ve 2011 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 [[START OF PAGE 102]]
 
-- entegrasyonun  geliştirilmesiyle  verimlilik  ve  yurtiçi  katma  değerin  artırılması;  dış pazar çeşitliliği ve bölgesel üretim kapasitelerinin geliştirilmesiyle de istikrarlı yüksek büyümenin sağlanması hedeflenmektedir.
+entegrasyonun  geliştirilmesiyle  verimlilik  ve  yurtiçi  katma  değerin  artırılması;  dış pazar çeşitliliği ve bölgesel üretim kapasitelerinin geliştirilmesiyle de istikrarlı yüksek büyümenin sağlanması hedeflenmektedir.
 
 - Sanayinin TFV artışının uzun dönem ortalamasının üzerine çıkarılması hedeflenmektedir.
 
 - Ülkemizin uzun dönemde Avrasya'nın üretim merkezi olması hedefi doğrultusunda Plan  döneminde  imalat  sanayiinin;  daha  yüksek  katma  değer  yaratan,  teknoloji üreten ve kullanabilen, çevre dostu teknolojileri kullanan ve üretebilen, becerilerini sürekli geliştirebilen, geleceğin ticaret dünyasının taleplerine cevap verebilen, sürdürülebilir  küresel  rekabet  gücü  kazanmış,  bölgesel  potansiyellerin  ekonomiye katkısının artırıldığı, girdi tedarikinde etkinliğin sağlandığı, yatırım ve ara mallarında ithalat bağımlılığının azaltıldığı bir yapıya doğru dönüşmesi öngörülmektedir.
+
+Tablo 20: İmalat Sanayiinde Gelişmeler ve Hedefler
 
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
@@ -2742,8 +2747,6 @@ Yüksek Teknoloji Sektörlerinin İmalat Sanayii İhracatı İçindeki Payı (%)
 Ortanın Üstü Teknoloji Sektörlerinin İmalat Sanayii İhracatı İçindeki Payı (%) 1 | 30,8 | 31,4 | 31,4 | 32,1
 Türkiye Üçlü Patent (Triadic) Başvuru Sayısı 2 | 14 | 35 3 | 63 | 167
 Sanayide TFV Artışı (%) | 1,2 | -0,9 | -0,8 | 1,9
-
-Tablo 20: İmalat Sanayiinde Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -2767,7 +2770,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 [[START OF PAGE 103]]
 
-- değerlendirme kapasitesi geliştirilecek, iyi uygulama örneklerinin kamuda yaygınlaştırılması ve tanıtılması sağlanacaktır.
+değerlendirme kapasitesi geliştirilecek, iyi uygulama örneklerinin kamuda yaygınlaştırılması ve tanıtılması sağlanacaktır.
 
 - Kentleşme  ve  kentsel dönüşüm,  imalat  sanayii ile bütünleşik bir şekilde ele alınacaktır.  Bu  çerçevede  akıllı  bina,  yapı  malzemeleri,  toplu  taşıma  araçları  ve sinyalizasyon sistemleri gibi alanlarda üretim ve ihracat kapasitesi artırılacaktır.
 
@@ -2809,7 +2812,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - Toprağa dayalı sanayide ithalatla karşılanan refrakter malzeme ve ileri seramik gibi ürünlerin  yerli  üretimi  ile  katma  değeri  yüksek  ürünler  ve  sürdürülebilir  üretime yönelik yatırımlar özendirilecektir.
 
-- Ana  metal  sanayiinde  sürdürülebilir  ve  güvenli  girdi  tedariki  sağlanacaktır.  Demirçelik  sektörü  üretiminde  ithalatla  karşılanan  paslanmaz  çelik,  vasıflı  çelik,  yapısal çelik  ve  dikişsiz  boru  gibi  yüksek  katma  değerli  ürünlerin  ağırlıkları  artırılarak  ürün çeşitliliğinin sağlanması temin edilecektir.
+- Ana  metal  sanayiinde  sürdürülebilir  ve  güvenli  girdi  tedariki  sağlanacaktır.  Demir-çelik  sektörü  üretiminde  ithalatla  karşılanan  paslanmaz  çelik,  vasıflı  çelik,  yapısal çelik  ve  dikişsiz  boru  gibi  yüksek  katma  değerli  ürünlerin  ağırlıkları  artırılarak  ürün çeşitliliğinin sağlanması temin edilecektir.
 
 - Elektronik  sektöründe  yeni  iş  alanlarına  girmek  için  teknolojiler  geliştirilecektir.  Bu kapsamda  çift  amaçlı  teknolojilerin  (savunma/sivil)  uygulama  imkânları  dikkate alınacak; sektörün ulaştırma, otomotiv, makine başta olmak üzere diğer sektörler ile entegrasyonu artırılacaktır. Elektronik haberleşme alanında yeni nesil telsiz teknolojisine geçiş sürecinde baz istasyonu ve kontrol birimleri ürünlerinin geliştirilmesi  ve  üretimine  önem  verilecektir.  Bilgi  ve  iletişim  teknolojileri  destekli yenilikçi çözümlerin yaygınlaşmasında sektörün üretici olarak yer alması desteklenecektir. Sektörde rekabet öncesi Ar-Ge teşvik edilecek, laboratuvar kapasitesi  ile  aydınlatma  ve  görüntü  teknolojileri  konusunda  araştırma  altyapısı geliştirilecektir.
 
@@ -2825,7 +2828,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK'e aittir. 2013 ve 2018 yılı verile
 
 - Yenilenebilir enerjinin ekonomiye katkısını en üst seviyeye çıkarmak için ekipmanlarda yerli imalat düzeyi artırılacak ve özgün teknolojiler geliştirilecektir.
 
-- Otomotiv  sanayiinde,  tedarik  zincirini  kapsayan,  tasarım/Ar-Ge,  üretim  ve  satışpazarlama  süreçleri  bütününün  yurtiçinde  geliştirilmesi  sağlanarak,  katma  değer artırılacaktır. Çevreye  duyarlı yeni teknolojilerin geliştirilmesi desteklenecektir. Yurtiçinde elektronik, yazılım, elektrikli makine, ana metal, savunma sanayi gibi diğer sektörlerle  işbirliği  ve  bütünleşme  sağlanacaktır.  İç  pazar  ve  küresel  pazarların ihtiyaçlarına yönelik özgün tasarımlı araçlarla markalaşma özendirilecektir.
+- Otomotiv  sanayiinde,  tedarik  zincirini  kapsayan,  tasarım/Ar-Ge,  üretim  ve  satış-pazarlama  süreçleri  bütününün  yurtiçinde  geliştirilmesi  sağlanarak,  katma  değer artırılacaktır. Çevreye  duyarlı yeni teknolojilerin geliştirilmesi desteklenecektir. Yurtiçinde elektronik, yazılım, elektrikli makine, ana metal, savunma sanayi gibi diğer sektörlerle  işbirliği  ve  bütünleşme  sağlanacaktır.  İç  pazar  ve  küresel  pazarların ihtiyaçlarına yönelik özgün tasarımlı araçlarla markalaşma özendirilecektir.
 
 - Küresel kriz nedeniyle üretim ve ihracat seviyesinde önemli düşüş gerçekleşen Türk gemi  inşa  sanayiinin  rekabet  gücünün  bulunduğu  alanlarda,  Ar-Ge  çalışmalarıyla gemi tasarımı ve üretiminde dünya piyasalarından alınan pay artırılacaktır.
 
@@ -2863,6 +2866,8 @@ hususlarda  güçlendirilmesine  ihtiyaç  bulunmaktadır.  Girişimcilik  yeten
 
 - KOBİ'lerin rekabet güçlerinin artırılarak ekonomik büyümeye katkısının yükseltilmesi temel  amaçtır.  Bu  kapsamda,  öncelikle  hızlı  büyüyen  veya  büyüme  potansiyeline sahip girişimler ile ürün, hizmet  ve iş modeli  açılarından yenilikçi KOBİ'lerin desteklenmesi esastır.
 
+Tablo 21: Girişimcilik ve KOBİ'lere İlişkin Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Yeni Kurulan Şirket Sayısı (Bin) | 53 | 39 | 50 | 75
@@ -2873,8 +2878,6 @@ KOBİ'lerin İhracat Miktarı (Milyar Dolar) | 50 3 | 90 | 100 | 150
 İhracat Yapan KOBİ Sayısı (Bin) | 44 | 50 | 52 | 60
 KOBİ'lerin Ar-Ge Harcamalarındaki Payı (%) | 10,0 3 | 14,9 2 | 17,0 | 20,0
 TGB'lerde Faaliyet Gösteren Girişim Sayısı | 604 | 2.174 | 2.500 | 4.000
-
-Tablo 21: Girişimcilik ve KOBİ'lere İlişkin Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK, Bilim, Sanayi ve Teknoloji Bakanlığı ve Türkiye Odalar ve Borsalar Birliğine (TOBB) aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -2894,7 +2897,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK, Bilim, Sanayi ve Teknoloji Bakanlı
 
 [[START OF PAGE 107]]
 
-- modellerinin tanıtılması ve ödüllendirilmesine yönelik uygulamalar yoluyla geliştirilecektir.
+modellerinin tanıtılması ve ödüllendirilmesine yönelik uygulamalar yoluyla geliştirilecektir.
 
 - Girişimcilik  ekosisteminde  hizmet  ve  destek  sağlayan  tüm  kurum  ve  kuruluşların kurumsal kapasiteleri  ve  işbirliği  düzeyleri  artırılacaktır.  Kamu  tüzel  kişiliğine  sahip meslek kuruluşları, ekonomiye katkılarını artırmak ve girişimciliği desteklemek üzere yeniden yapılandırılacaktır.
 
@@ -2918,7 +2921,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK, Bilim, Sanayi ve Teknoloji Bakanlı
 
 ##### 2.2.13. Fikri Mülkiyet Hakları
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Sınai mülkiyet hakları alanında Dokuzuncu Kalkınma Plan döneminde önemli bir ivme kaydedilmiş,  2006  yılında  66.855  olan  marka  başvuruları  yıllık  ortalama  yüzde  8,8 artışla  2012  yılında  111.137'ye,  tasarım  başvuruları  yüzde  5,7  artışla  29.484'ten
 
@@ -2928,7 +2931,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK, Bilim, Sanayi ve Teknoloji Bakanlı
 
 [[START OF PAGE 108]]
 
-- 41.220'ye  ve  patent  başvuruları  yüzde  14,4  artışla  5.165'ten  11.599'a  ulaşmıştır. Dünya  Fikri  Mülkiyet  Teşkilatının  2011  yılı  verilerine  göre  Türkiye,  ulusal  düzeyde patent başvurularında 17'nci, marka başvurularında 6'ncı ve tasarım başvurularında 5'inci sırada yer almaktadır. Ulusal düzeyde toplam sınai mülkiyet verilerine göre ise genel sıralamada 9'uncu sırada bulunan ülkemiz; İngiltere, Rusya, İspanya, Brezilya gibi ülkelerin önünde yer almıştır.
+41.220'ye  ve  patent  başvuruları  yüzde  14,4  artışla  5.165'ten  11.599'a  ulaşmıştır. Dünya  Fikri  Mülkiyet  Teşkilatının  2011  yılı  verilerine  göre  Türkiye,  ulusal  düzeyde patent başvurularında 17'nci, marka başvurularında 6'ncı ve tasarım başvurularında 5'inci sırada yer almaktadır. Ulusal düzeyde toplam sınai mülkiyet verilerine göre ise genel sıralamada 9'uncu sırada bulunan ülkemiz; İngiltere, Rusya, İspanya, Brezilya gibi ülkelerin önünde yer almıştır.
 
 - Yerli  patent  başvurularının  toplam  patent  başvuruları içerisindeki oranı,  2006 yılındaki  yüzde  21  düzeyinden  2012  yılında  yüzde  39'a  ulaşmıştır.  Ancak,  yenilikçi üretimin temel alınacağı bir ekonomi için bu oranın artırılması gerekmektedir.
 
@@ -2942,13 +2945,13 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK, Bilim, Sanayi ve Teknoloji Bakanlı
 
 - Fikri  mülkiyetin  korunması  ve  hakların  kullanılması  için  etkin,  yaygın  ve  toplumca benimsenmiş  bir  fikri  mülkiyet  hakları  sistemi  oluşturularak,  fikri  hakların  ve  bu haklara konu ürünlerin kalkınma sürecine katkısının artırılması temel amaçtır.
 
+Tablo 22: Patent Başvurularında Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Yerli Patent Başvuru Sayısı 1 | 1.090 | 4.543 | 5.600 | 16.000
 Yerli Patent Başvurularının Toplam İçerisindeki Payı (%) 1 | 21 | 39 | 42 | 55
-Türkiye Orijinli Uluslararası ve Bölgesel Patent Başvuru Sayısı | 605 | 1.130 | 1.260 | 2.140
-
-Tablo 22: Patent Başvurularında Gelişmeler ve Hedefler
+Türkiye Orijinli Uluslararası ve Bölgesel Patent Başvuru Sayısı 2 | 605 | 1.130 | 1.260 | 2.140
 
 Kaynak: Türk Patent Enstitüsü (TPE)
 
@@ -2976,7 +2979,7 @@ Kaynak: Türk Patent Enstitüsü (TPE)
 
 ##### 2.2.14. Bilgi ve İletişim Teknolojileri
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Bilgi ve iletişim teknolojilerinin, ülkelerin rekabet gücünün artırılması, refah düzeyinin yükseltilmesi ve nitelikli istihdamın geliştirilmesi bakımından taşıdığı önem giderek  artmaktadır.  Başta  mobil  cihaz  ve  internet  olmak  üzere,  küresel  düzeyde hızla yaygınlaşan bilgi ve iletişim teknolojileri  kullanımıyla birlikte, bilgi yoğun ürün ve hizmetlere olan talep artmakta, ülkelerin bilgi tabanlı ekonomilere dönüşümleri hızlanmaktadır.
 
@@ -2994,7 +2997,7 @@ Kaynak: Türk Patent Enstitüsü (TPE)
 
 [[START OF PAGE 110]]
 
-- çeşitlenmektedir. Geleneksel  program  akışlı doğrusal yayıncılıktan isteğe bağlı yayıncılık hizmetlerine doğru kayma yaşanmaktadır. 2011 yılında Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri  Hakkında Kanunla karasal sayısal yayıncılığa  geçiş  süreci  belirlenmiş  ve  isteğe  bağlı  yayıncılık  hizmetlerinin  ve  yeni yayın ortamlarının gelişimine uygun düzenlemeler getirilmiştir.
+çeşitlenmektedir. Geleneksel  program  akışlı doğrusal yayıncılıktan isteğe bağlı yayıncılık hizmetlerine doğru kayma yaşanmaktadır. 2011 yılında Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri  Hakkında Kanunla karasal sayısal yayıncılığa  geçiş  süreci  belirlenmiş  ve  isteğe  bağlı  yayıncılık  hizmetlerinin  ve  yeni yayın ortamlarının gelişimine uygun düzenlemeler getirilmiştir.
 
 - Türkiye'nin bilgi toplumuna dönüşüm  faaliyetlerinin hızlandırılması, büyümeyi desteklemek ve istihdam oluşturmak üzere bilgi ve iletişim teknolojileri kullanımının etkinleştirilmesi  gerekmektedir.  Bilgi  ve  iletişim  teknolojilerinin  toplum  genelinde nitelikli ve bilinçli olarak kullanılmasına, farklı kesimler ve bölgeler arasındaki sayısal bölünmenin azaltılmasına ihtiyaç duyulmaktadır.
 
@@ -3006,7 +3009,7 @@ Kaynak: Türk Patent Enstitüsü (TPE)
 
 - İnternet  ekonomisinin  gelişimi,  ülkemizin  büyüme  ve  ihracat  hedefleri  bakımından önemli fırsatlar sunmaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Ülkemizin bilgi toplumuna dönüşümünü  hızlandırmak üzere bilgi ve iletişim teknolojilerinin  yaygın  ve  etkin  kullanılması,  bilgi  tabanlı  ekonomiye  dönüşüm  ve nitelikli  istihdamı  geliştirilmek  amacıyla  bilgi  ve  iletişim  teknolojilerinden  etkili  bir araç  olarak  faydalanılması  ve  bu  teknolojilerin  üretiminde  yerli  katma  değerin artırılması temel amaçtır.
 
@@ -3018,6 +3021,8 @@ Kaynak: Türk Patent Enstitüsü (TPE)
 
 [[START OF PAGE 111]]
 
+Tablo 23: Bilgi ve İletişim Teknolojileri Alanında Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Genişbant Abone Yoğunluğu (%)¹ | 3,8 | 26,5 | 45,0 | 70,0
@@ -3027,8 +3032,6 @@ Bilgi Teknolojileri Pazarı (Milyar Dolar) | 5,1 | 10,5 | 11,6 | 23,0
 Bilgi Teknolojileri İhracatı (Milyar Dolar) | 0,1 | 0,5 | 0,8 | 2,0
 e-Ticaret İşlem Hacmi (Milyar TL) 4 | 2,4 | 30,7 | 40,0 | 170,0
 İnternetten Alışveriş Yapanların Oranı (%) 5 | --- | 14,3 | 20,0 | 70,0
-
-Tablo 23: Bilgi ve İletişim Teknolojileri Alanında Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri Bilgi Teknolojileri ve İletişim Kurumu, TÜİK ve Bankalararası Kart Merkezine aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -3084,13 +3087,11 @@ Kaynak: 2006 ve 2012 yılı verileri Bilgi Teknolojileri ve İletişim Kurumu, T
 
 ##### 2.2.15. Tarım ve Gıda
 
-###### Durum Analizi
+###### a. Durum Analizi
 
-- 740.
+- Dokuzuncu  Kalkınma  Planı  döneminin  başında,  dünya  gıda  arz-talep  dengesinde sürekli  ve  hızlı  değişimlerin  ve  aşırı  spekülatif  hareketlerin  etkisiyle  tarım  ürünleri fiyatlarında  meydana  gelen  artış  istikrarsızlığa  neden  olmuş,  bu  durum  gıda  krizini beraberinde  getirmiştir.  Diğer  taraftan,  2007-2012  dönemi  boyunca  ülkemizdeki tarımsal  ürünler  fiyat  endeksi,  toplam  üretici  fiyatları  endeksine  göre  daha  hızlı yükselmiş,  göreceli  olarak  kârlı  bir  sektör  haline  gelen  tarıma  yapılan  yatırımlar dolayısıyla istihdam artmıştır.
 
-- yüzde 2,1 olarak büyümüştür. 2007 yılı dikkate alınmadığında ise, tarım sektöründeki
-
-Dokuzuncu  Kalkınma  Planı  döneminin  başında,  dünya  gıda  arz-talep  dengesinde sürekli  ve  hızlı  değişimlerin  ve  aşırı  spekülatif  hareketlerin  etkisiyle  tarım  ürünleri fiyatlarında  meydana  gelen  artış  istikrarsızlığa  neden  olmuş,  bu  durum  gıda  krizini beraberinde  getirmiştir.  Diğer  taraftan,  2007-2012  dönemi  boyunca  ülkemizdeki tarımsal  ürünler  fiyat  endeksi,  toplam  üretici  fiyatları  endeksine  göre  daha  hızlı yükselmiş,  göreceli  olarak  kârlı  bir  sektör  haline  gelen  tarıma  yapılan  yatırımlar dolayısıyla istihdam artmıştır. Plan  döneminin  başında  ülkemizde  yaşanan  kuraklık  sonucu  2007  yılında  tarım sektörü önemli oranda küçülme gösterse de 2007-2012 döneminde yıllık ortalama
+- Plan  döneminin  başında  ülkemizde  yaşanan  kuraklık  sonucu  2007  yılında  tarım sektörü önemli oranda küçülme gösterse de 2007-2012 döneminde yıllık ortalama yüzde 2,1 olarak büyümüştür. 2007 yılı dikkate alınmadığında ise, tarım sektöründeki
 
 111
 
@@ -3098,7 +3099,7 @@ Dokuzuncu  Kalkınma  Planı  döneminin  başında,  dünya  gıda  arz-talep  
 
 [[START OF PAGE 113]]
 
-- yıllık  ortalama büyüme hızı yüzde 3,9 olmaktadır. 2006 yılında yüzde 24 düzeyinde olan tarım sektörü istihdamının toplam istihdamdan aldığı pay, 2012 yılında yüzde 24,6 olarak gerçekleşmiştir. Tarımın GSYH içindeki payı, Plan dönemi başında yüzde 8,3 seviyesindeyken 2012 yılı sonuna gelindiğinde yüzde 7,9'a gerilemiştir.
+yıllık  ortalama büyüme hızı yüzde 3,9 olmaktadır. 2006 yılında yüzde 24 düzeyinde olan tarım sektörü istihdamının toplam istihdamdan aldığı pay, 2012 yılında yüzde 24,6 olarak gerçekleşmiştir. Tarımın GSYH içindeki payı, Plan dönemi başında yüzde 8,3 seviyesindeyken 2012 yılı sonuna gelindiğinde yüzde 7,9'a gerilemiştir.
 
 - 2013 yılı Küresel Gıda Güvenliği Endeksinde, Türkiye 105 ülke arasında 36'ncı sırada yer  almıştır.  Bu  endekste  gıda  güvenliğinin  boyutlarına  göre  Türkiye  erişilebilirlikte (ekonomik  ulaşılabilirlik)  44'üncü,  bulunabilirlikte  (fiziksel  ulaşılabilirlik)  26'ncı  ve kalite ve gıda güvenilirliği boyutunda ise 35'inci sırada bulunmaktadır.
 
@@ -3120,7 +3121,7 @@ Dokuzuncu  Kalkınma  Planı  döneminin  başında,  dünya  gıda  arz-talep  
 
 [[START OF PAGE 114]]
 
-- beklenmektedir.  Sulama  yatırımları  ile  arazi  toplulaştırma  çalışmalarının  uyumlu yürütülmesi ve sulama oranı ve randımanının artırılması önceliğini korumaktadır.
+beklenmektedir.  Sulama  yatırımları  ile  arazi  toplulaştırma  çalışmalarının  uyumlu yürütülmesi ve sulama oranı ve randımanının artırılması önceliğini korumaktadır.
 
 - Son  on  yıllık  dönemde,  birim  alan  ve  hayvandan  elde  edilen  verimler  ile  tarımsal işgücü verimliliği artmıştır. Bitkisel üretim ve hayvancılıktaki verim artışında; TİGEM başta olmak üzere kamu kesimi ve özel kesimin sertifikalı tohum ve damızlık hayvan üretimine dönük yatırımları ile kırsal kalkınma destekleri aracılığıyla yapılanlar dâhil mekanizasyon yatırımlarının  olumlu  sonuçları  etkili  olmuştur.  Bu  bağlamda,  süt  ve beyaz et üretiminin yanı sıra, özellikle mısır, pirinç ve ayçiçeğinde verim artışına bağlı üretim artışları gözlenmiştir.
 
@@ -3148,6 +3149,8 @@ Dokuzuncu  Kalkınma  Planı  döneminin  başında,  dünya  gıda  arz-talep  
 
 - Sektörün yıllık ortalama büyüme  hızının yüzde 3,1 olması, toplam istihdam içerisindeki  payının  yüzde  21,9'a  gerilemesi  ve  GSYH  içerisindeki  payının  ise  yüzde 6,8 olması beklenmektedir.
 
+Tablo 24: Tarımsal Yapıda ve Gıda Güvenliğinde Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Arazi Toplulaştırma Faaliyetleri (Kümülatif, Milyon ha) 1 | 0,6 | 3,2 | 4,2 | 8,0
@@ -3158,8 +3161,6 @@ Sertifikalı Buğday-Arpa Tohumu Kullanım Oranı (%) | 30,0 | 59,5 | 60,0 | 70,
 Sığır Varlığı İçerisinde Saf Kültür Irkı Oranı (%) 4 | 26 | 42 | 44 | 56
 İyi Tarım Uygulamaları Üretim Alanları (Bin ha) | 5 | 87 | 96 | 154
 Yağlı Tohumlarda Kendine Yeterlilik Oranı (%) 5 | 28 | 36 | 38 | 45
-
-Tablo 24: Tarımsal Yapıda ve Gıda Güvenliğinde Gelişmeler ve Hedefler
 
 Kaynak: Gıda Tarım ve Hayvancılık Bakanlığı, Orman ve Su İşleri Bakanlığı, TÜİK, DSİ, Orman Genel Müdürlüğü.
 
@@ -3241,7 +3242,7 @@ Kaynak: Gıda Tarım ve Hayvancılık Bakanlığı, Orman ve Su İşleri Bakanl�
 
 [[START OF PAGE 118]]
 
-- anlaşmalarla  6  milyar  metreküplük  gazın  ithalat  izni  özel  sektöre  geçmiş,  böylece özel sektörün Batı Hattından ithal ettiği gaz hacmi 10 milyar metreküpe yükselmiştir.
+anlaşmalarla  6  milyar  metreküplük  gazın  ithalat  izni  özel  sektöre  geçmiş,  böylece özel sektörün Batı Hattından ithal ettiği gaz hacmi 10 milyar metreküpe yükselmiştir.
 
 - Yenilenen  Elektrik  Piyasası  Kanunuyla  enerji  borsasının  kurulması  öngörülmüş, yatırımların hızlandırılmasını teminen ön lisans mekanizması getirilmiş, yatırımcılara sağlanan  teşviklerin süresi uzatılmıştır.  Elektrik  ticaretinin  sağlanması  amacıyla Avrupa  Elektrik  İletim  Sistemi  İşletmecileri  Birliği  (ENTSO-E)  sistemine  deneme senkron  paralel  bağlantısı  gerçekleştirilerek,  ülkemiz  ile  Bulgaristan  ve  Yunanistan arasında elektrik alışverişi başlatılmıştır.
 
@@ -3261,6 +3262,8 @@ Kaynak: Gıda Tarım ve Hayvancılık Bakanlığı, Orman ve Su İşleri Bakanl�
 
 [[START OF PAGE 119]]
 
+Tablo 25: Enerji Sektöründe Gelişmeler ve Hedefler
+
 2006 | 2012 1 | 2013 | 2018
 --- | --- | --- | --- | ---
 Birincil Enerji Talebi (BTEP) | 99.642 | 119.302 | 123.600 | 154.000
@@ -3271,8 +3274,6 @@ Doğal Gazın Elektrik Üretimindeki Payı (%) | 45,8 | 43,2 | 43,0 | 41,0
 Yenilenebilir Kaynakların Elektrik Üretimindeki Payı (%) | 25,3 | 27,0 | 27,7 | 29,0
 Elektrik Kurulu Gücü (MW) | 40.565 | 57.058 | 58.500 | 78.000
 Enerji Yoğunluğu (TEP/1000 Dolar) 2 | 0,288 | 0,276 | 0,272 | 0,243
-
-Tablo 25: Enerji Sektöründe Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri Enerji ve Tabii Kaynaklar Bakanlığı ve TEİAŞ'a aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -3302,7 +3303,7 @@ Kaynak: 2006 ve 2012 yılı verileri Enerji ve Tabii Kaynaklar Bakanlığı ve T
 
 [[START OF PAGE 120]]
 
-- başlanacaktır. Plan döneminde 5.000 MW'lık üçüncü bir NGS'nin saha belirleme, ön fizibilite ve yatırım hazırlıklarına başlanacaktır.
+başlanacaktır. Plan döneminde 5.000 MW'lık üçüncü bir NGS'nin saha belirleme, ön fizibilite ve yatırım hazırlıklarına başlanacaktır.
 
 - Nükleer  enerji  alanında  hukuki  ve  kurumsal  altyapı  güçlendirilecektir.  Nükleer alandaki  faaliyetlerin  güvenli  ve  emniyetli  bir  şekilde  yürütülmesini  tespit  ve  teyit etmek için  bağımsız,  güçlü  ve  yetkin  bir  nükleer  düzenleme  ve  denetleme  sistemi oluşturulacaktır.
 
@@ -3330,9 +3331,9 @@ Kaynak: 2006 ve 2012 yılı verileri Enerji ve Tabii Kaynaklar Bakanlığı ve T
 
 [[START OF PAGE 121]]
 
-- 22 milyar dolar iken 2012 yılında 42,2 milyar dolara yükselmiş olup, bunun yaklaşık 39,5  milyar  dolarlık  kısmını  ham  petrol  ve  doğal  gaz,  1,1  milyar  dolarlık  kısmını taşkömürü, 1,1 milyar dolarlık kısmını ise demir oluşturmaktadır.
+22 milyar dolar iken 2012 yılında 42,2 milyar dolara yükselmiş olup, bunun yaklaşık 39,5  milyar  dolarlık  kısmını  ham  petrol  ve  doğal  gaz,  1,1  milyar  dolarlık  kısmını taşkömürü, 1,1 milyar dolarlık kısmını ise demir oluşturmaktadır.
 
-- Enerjide dışa bağımlılığın azaltılmasına ve sanayide hammadde ihtiyacının karşılanmasına  yönelik  maden,  enerji  hammaddeleri  ve  jeotermal  kaynak  arama yatırımları  için  ayrılan  kaynaklar  önemli  oranda  artırılmıştır.  Bu  kapsamda,  20062013 döneminde maden ve jeotermal kaynak aramaları için Maden Tetkik ve Arama Genel  Müdürlüğüne  (MTA)  ayrılan  ödenek  2006  yılında  32  milyon  TL  iken,  2013 yılında 200 milyon TL'ye, petrol ve doğalgaz aramaları için TPAO'ya ayrılan ödenek ise aynı yıllarda 450 milyon TL'den, 1.050 milyon TL'ye çıkarılmıştır. Petrol ve doğal gazda yerli üretimi artırmak amacıyla, arama faaliyetlerinin aksamadan yürütülmesini  teminen  2012  yılında  bir  sismik  araştırma  gemisi  alınmıştır.  Diğer taraftan, TPAO ve BOTAŞ tarafından yurtdışında başlatılan petrol ve doğal gaz arama çalışmaları  devam  etmektedir.  Bunun  yanında,  MTA'nın  tam  donanımlı  ulusal araştırma gemisinin yapım çalışmalarına devam edilmektedir.
+- Enerjide dışa bağımlılığın azaltılmasına ve sanayide hammadde ihtiyacının karşılanmasına  yönelik  maden,  enerji  hammaddeleri  ve  jeotermal  kaynak  arama yatırımları  için  ayrılan  kaynaklar  önemli  oranda  artırılmıştır.  Bu  kapsamda,  2006-2013 döneminde maden ve jeotermal kaynak aramaları için Maden Tetkik ve Arama Genel  Müdürlüğüne  (MTA)  ayrılan  ödenek  2006  yılında  32  milyon  TL  iken,  2013 yılında 200 milyon TL'ye, petrol ve doğalgaz aramaları için TPAO'ya ayrılan ödenek ise aynı yıllarda 450 milyon TL'den, 1.050 milyon TL'ye çıkarılmıştır. Petrol ve doğal gazda yerli üretimi artırmak amacıyla, arama faaliyetlerinin aksamadan yürütülmesini  teminen  2012  yılında  bir  sismik  araştırma  gemisi  alınmıştır.  Diğer taraftan, TPAO ve BOTAŞ tarafından yurtdışında başlatılan petrol ve doğal gaz arama çalışmaları  devam  etmektedir.  Bunun  yanında,  MTA'nın  tam  donanımlı  ulusal araştırma gemisinin yapım çalışmalarına devam edilmektedir.
 
 - Gelişmekte olan ülkelerin, özellikle Çin ve Hindistan'ın, hızlı büyüme eğilimleri, dünya maden piyasasını  etkileyerek  maden  fiyatlarında  yüksek  artışlara  neden  olmuştur. ABD,  AB,  Japonya,  Güney  Kore  ve  Çin  gibi  dünyanın  önde  gelen  gelişmiş  ve gelişmekte olan ekonomileri, hammaddelerin arz ve talep odaklı yönetimi konusunda  çalışmalar  yürütmekte ve kendi hammadde  yönetimi  stratejilerini geliştirip  uygulamaktadır.  Bu  durum  ülkemizin  de  bu  konuda  inisiyatif  geliştirmesi gerekliliğini ortaya koymaktadır.
 
@@ -3352,7 +3353,9 @@ artırılması, kamu kuruluşlarının yeniden yapılandırılması ve verimlili
 
 ###### b. Amaç ve Hedefler
 
-804. Ülkemiz maden potansiyelinin sağlıklı tespit edilmesi, üretim için gerekli hammadde arz güvenliğinin sağlanması  ve madenlerin  yurtiçinde işlenip  katma  değerinin yükseltilerek ülke ekonomisine katkısının artırılması temel amaçtır.
+- Ülkemiz maden potansiyelinin sağlıklı tespit edilmesi, üretim için gerekli hammadde arz güvenliğinin sağlanması  ve madenlerin  yurtiçinde işlenip  katma  değerinin yükseltilerek ülke ekonomisine katkısının artırılması temel amaçtır.
+
+Tablo 26: Madencilik Sektöründe Gelişmeler ve Hedefler
 
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
@@ -3361,8 +3364,6 @@ Madencilik İhracatı (Milyar Dolar) | 1,1 | 3,2 | 3,8 | 7,0
 Bor İhracatı (Milyar Dolar) | 0,4 | 0,8 | 0,9 | 1,5
 Sondaj Metrajı (Bin Metre) 1 | 500 | 1.000 | 1.300 | 3.000
 Görünür Linyit Rezervi (Milyar Ton) | 8,3 | 12,8 | 14,0 | 18,0
-
-Tablo 26: Madencilik Sektöründe Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Enerji ve Tabii Kaynaklar Bakanlığına aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -3414,7 +3415,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Enerji ve Tabii Kaynaklar Bakanl�
 
 [[START OF PAGE 124]]
 
-- 2012 yılı sonu itibarıyla 8.770 km'si konvansiyonel ana hat, 2.350 km'si tali hat ve 888  km'si  yüksek  hızlı  tren  hattı  olmak  üzere  toplam  12.008  km  demiryolu  ağı bulunmaktadır.  2009  yılında  Ankara-Eskişehir,  2011  yılında  Ankara-Konya,  2013 yılında  ise  Eskişehir-Konya arası  yüksek hızlı tren hattı işletmeye alınmıştır. Ayrıca, Gebze-Eskişehir hattının tamamlanarak  2013  yılında  Ankara-İstanbul  hızlı tren seferlerinin başlatılması öngörülmektedir.
+- 2012 yılı sonu itibarıyla 8.770 km'si konvansiyonel ana hat, 2.350 km'si tali hat ve 888  km'si  yüksek  hızlı  tren  hattı  olmak  üzere  toplam  12.008  km  demiryolu  ağı bulunmaktadır.  2009  yılında  Ankara-Eskişehir,  2011  yılında  Ankara-Konya,  2013 yılında  ise  Eskişehir–Konya arası  yüksek hızlı tren hattı işletmeye alınmıştır. Ayrıca, Gebze-Eskişehir hattının tamamlanarak  2013  yılında  Ankara-İstanbul  hızlı tren seferlerinin başlatılması öngörülmektedir.
 
 - Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanunla TCDD şebekesinin  özel  kesime  açılması  ve  yük  taşımacılığında  rekabetçi  bir  piyasanın oluşturulması yönünde yeniden yapılandırma süreci başlatılmıştır. Demiryolu taşıtları imalat  sanayiinde  özel  kesimin  katılımının  artırılması  hedefi  kapsamında  TCDD  ile yerli ve yabancı şirketler arasında iştirakler kurulmuş, bu doğrultuda Adapazarı'nda demiryolu araçları, Çankırı'da hızlı tren makasları ve Sivas'ta beton travers üretimine başlanmıştır.
 
@@ -3434,7 +3435,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Enerji ve Tabii Kaynaklar Bakanl�
 
 [[START OF PAGE 125]]
 
-- Bodrum Havalimanı dış hatlar terminali, Sabiha Gökçen Havalimanı iç ve dış hatlar terminalleri, Adnan Menderes Havalimanı dış hatlar terminali, Esenboğa Havalimanı iç ve dış hatlar terminali ve Zafer Havalimanı hizmete açılmıştır.
+Bodrum Havalimanı dış hatlar terminali, Sabiha Gökçen Havalimanı iç ve dış hatlar terminalleri, Adnan Menderes Havalimanı dış hatlar terminali, Esenboğa Havalimanı iç ve dış hatlar terminali ve Zafer Havalimanı hizmete açılmıştır.
 
 - Gümrük  hizmetlerinin  etkin  sunulması,  dış  ticarette  sürenin  kısalmasını  ve  lojistik sürecinin  daha  etkin  bir  hale  gelmesini  sağlamaktadır.  KÖİ  yöntemiyle  gümrük kapıları  modernize  edilmiş,  gümrük  uygulamalarında  bilgi  teknolojileri  kullanımı yaygınlaştırılmış, yetkilendirilmiş yükümlü statüsüyle gümrük işlemleri azaltılmış, ikili işbirliği anlaşmalarıyla ülkeler arası gümrük işlemlerinin sadeleştirilmesi sağlanmıştır. Dış ticaretin gelişmesine paralel olarak yeni gümrük kapılarının açılması, modernizasyonlara devam  edilmesi  ve  tesislerin  donanım  ihtiyaçlarının  giderilmesi önem arz etmektedir.
 
@@ -3453,8 +3454,9 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Enerji ve Tabii Kaynaklar Bakanl�
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+Tablo 27: Lojistik ve Ulaştırmada Gelişmeler ve Hedefler
 
-2006 | 2012 | 2013 | 2018 | 2014-2018 1
+ | 2006 | 2012 | 2013 | 2018 | 2014-2018 1
 --- | --- | --- | --- | --- | ---
 Lojistik
 Lojistik Performans Endeksi Sıralaması | 34 2 | 27 | 27 | <15 | ---
@@ -3481,8 +3483,6 @@ Türk Bayraklı Deniz Ticaret Filosu (Milyon DWT) | 7,3 | 10,3 | 11,0 | 14,0 | 4
 Havayolu
 Havayolu Yolcu Sayısı (Milyon Yolcu) | 62 | 131 | 151 | 232 | 9,0
 
-Tablo 27: Lojistik ve Ulaştırmada Gelişmeler ve Hedefler
-
 Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Bakanlığı ve TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
 (1) 2014-2018 dönemi yıllık ortalama değişimi göstermektedir.
@@ -3503,7 +3503,7 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 [[START OF PAGE 127]]
 
-- yapılmasına  özen  gösterilecek,  kullanıcıların  gereksinimleri  gözetilerek,  tüm  lojistik hizmet sağlayıcılarının eşit şartlarda yararlanacağı kamu-özel işletim modelinin etkin bir şekilde kullanılması sağlanacaktır.
+yapılmasına  özen  gösterilecek,  kullanıcıların  gereksinimleri  gözetilerek,  tüm  lojistik hizmet sağlayıcılarının eşit şartlarda yararlanacağı kamu-özel işletim modelinin etkin bir şekilde kullanılması sağlanacaktır.
 
 - Lojistik  pazarında  faaliyet  gösteren  firmaların  yeterli  ölçek  büyüklüğüne  ulaşması desteklenecektir.
 
@@ -3523,7 +3523,7 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 - Karayolu Trafik Güvenliği Stratejisi ve Eylem Planı'nda yer alan trafik kazası nedeniyle meydana gelen ölümlerin yüzde 50 oranında azaltılması hedefi doğrultusunda Trafik Elektronik  Denetim  Sistemlerinin  kullanımı  Akıllı  Ulaşım  Sistemleriyle  entegre  bir şekilde yaygınlaştırılacaktır.
 
-- Hızlı tren ağı; Ankara merkez olmak üzere İstanbul-Ankara-Sivas, AnkaraAfyonkarahisar-İzmir,  Ankara-Konya  ve  İstanbul-Eskişehir-Antalya  koridorlarından oluşmaktadır. Plan dönemi sonuna kadar 393 km uzunluğundaki Ankara-Sivas ve 167 km  uzunluğundaki Ankara (Polatlı)-Afyonkarahisar hızlı tren hatları işletmeye açılacaktır.
+- Hızlı tren ağı; Ankara merkez olmak üzere İstanbul-Ankara-Sivas, Ankara-Afyonkarahisar-İzmir,  Ankara-Konya  ve  İstanbul-Eskişehir-Antalya  koridorlarından oluşmaktadır. Plan dönemi sonuna kadar 393 km uzunluğundaki Ankara-Sivas ve 167 km  uzunluğundaki Ankara (Polatlı)-Afyonkarahisar hızlı tren hatları işletmeye açılacaktır.
 
 126
 
@@ -3581,13 +3581,13 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 [[START OF PAGE 130]]
 
-- büyük  zincirlerin  tecrübelerini  ülkemize  taşımalarıyla  lokantacılık  sektöründe  iş hacminin artacağı tahmin edilmektedir.
+büyük  zincirlerin  tecrübelerini  ülkemize  taşımalarıyla  lokantacılık  sektöründe  iş hacminin artacağı tahmin edilmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Ticaret faaliyetlerinde yüksek katma değerli hizmet üretiminin ve verimlilik artışının sağlanması, teknoloji kullanımı ve yeniliğin özendirilerek hizmet kalitesinin artırılması, rekabetin ve tüketicinin korunması ile sektör içi kesimler arasında dengeli gelişmeyi sağlayan bir ortamın tesis edilmesi temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Toptan ve perakende ticaret hizmetleri sektörüne yönelik düzenlemelerde, sektörün girdi ve çıktı tarafı göz önüne alınarak, tarım ve imalat sanayii sektörleri ile tüketiciler üzerindeki  etkileri  çok  yönlü  olarak  analiz  edilecek  ve  piyasa  işleyişinde  ortaya çıkabilecek aksaklıklar giderilecektir.
 
@@ -3599,7 +3599,7 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 ##### 2.2.20. Turizm
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - 2007-2012  döneminde  ülkemizde  yabancı  ziyaretçi  sayısı  yıllık  ortalama  yüzde  8,2 oranında artarak 31,8 milyon kişiye, revize edilen istatistiklere göre turizm geliri yıllık ortalama  yüzde  7,9  oranında  artarak  29,4  milyar  dolara  ulaşmıştır.  Türkiye,  2012 yılında  dünyada  en  çok  turist  kabul  eden  ülke  sıralamasında  6'ncı,  gelirlerde  ise 12'nci sırada yer almıştır.
 
@@ -3613,7 +3613,7 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 [[START OF PAGE 131]]
 
-- sistemiyle ilgili başlatılan çalışmaların sektörün tüm çalışanlarını kapsayacak şekilde yaygınlaştırılması ihtiyacı bulunmaktadır.
+sistemiyle ilgili başlatılan çalışmaların sektörün tüm çalışanlarını kapsayacak şekilde yaygınlaştırılması ihtiyacı bulunmaktadır.
 
 - Sürdürülebilir turizmin özendirilmesi amacıyla, 2008 yılında çevreye duyarlı konaklama tesislerinin standartları belirlenmiş ve belgeleme çalışmalarına başlanmıştır. Turizm  merkezlerinde  artan  yapılaşma,  altyapı  eksikliği  ve  çevre sorunlarının  giderilmesi,  yatırımların  turizm  odaklı  gelişme  planlarına  uyumunun sağlanması önem arz etmektedir.
 
@@ -3625,15 +3625,15 @@ Kaynak: 2006 ve 2012 yılı verileri Ulaştırma, Denizcilik ve Haberleşme Baka
 
 - Sektörde, doğal  ve  kültürel  değerlerin  koruma-kullanma  dengesinin  gözetilmesi  ve nitelikten ödün vermeden sürdürülebilir bir büyümenin gerçekleştirilmesi hedeflenmektedir.
 
-2006 | 2012 | 2013 | 2018 | 2014-2018 1
+Tablo 28: Turizmde Gelişmeler ve Hedefler
+
+ | 2006 | 2012 | 2013 | 2018 | 2014-2018 1
 --- | --- | --- | --- | --- | ---
 Ziyaretçi Sayısı (Bin Kişi) | 23.149 | 36.778 | 38.500 | 48.300 | 4,6
 Yabancı Ziyaretçi Sayısı (Bin Kişi) | 19.820 | 31.782 | 33.500 | 42.000 | 4,6
 Turizm Geliri (Milyon Dolar) | 18.594 | 29.351 | 32.000 | 45.000 | 7,1
 Turizm Gideri (Milyon Dolar) | 3.271 | 4.593 | 4.990 | 8.000 | 9,9
 Ziyaretçi Başına Ortalama Harcama (Dolar) | 803 | 798 | 831 | 932 | 2,3
-
-Tablo 28: Turizmde Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Kültür ve Turizm Bakanlığına aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -3649,7 +3649,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Kültür ve Turizm Bakanlığına
 
 - Sağlık turizmi başta olmak üzere, kongre turizmi, kış turizmi, kruvaziyer turizmi, golf turizmi ve kültür turizmine ilişkin altyapı eksiklikleri tamamlanarak pazarın çeşitlendirilmesi sağlanacak ve alternatif turizm türlerinin gelişimi desteklenecektir.
 
-- Turizm türleri bütüncül bir şekilde ele alınarak 'Varış Noktası Yönetimi' kapsamında yeni projeler hayata geçirilecektir.
+- Turizm türleri bütüncül bir şekilde ele alınarak “Varış Noktası Yönetimi” kapsamında yeni projeler hayata geçirilecektir.
 
 - Pazardaki ve müşteri profilindeki gelişmeler sürekli izlenerek dış tanıtım faaliyetleri etkinleştirilecektir.
 
@@ -3675,7 +3675,7 @@ Kaynak: 2006 ve 2012 yılı verileri TÜİK ve Kültür ve Turizm Bakanlığına
 
 [[START OF PAGE 133]]
 
-- gücünü  koruyabilmek  amacıyla  yüksek  nitelikli  ve  bilgi  yoğun  projelere  ağırlık verilmesi önem taşımaktadır.
+gücünü  koruyabilmek  amacıyla  yüksek  nitelikli  ve  bilgi  yoğun  projelere  ağırlık verilmesi önem taşımaktadır.
 
 - Yurtdışı müteahhitlik hizmetleri dolayısıyla elde edilen hizmet gelirleri yıllık yaklaşık 1 milyar  dolar  düzeyindedir.  Bununla  birlikte,  yurtdışında  üstlenilen  taahhütler,  yapı malzemesi ihracı, yurtdışında istihdam ve teknoloji transferi açılarından da ülkemize katkılar  sağlamaktadır.  Ayrıca,  girişimci  bir  yapıya  sahip  olan  müteahhitlerimiz yurtdışında farklı sektörlerde yatırımcı ve işletmeci olarak da faaliyet göstererek ilave potansiyel ortaya koymaya başlamıştır.
 
@@ -3691,7 +3691,7 @@ Tablo 29: Müteahhitlik Hizmetleri ve Yapı Malzemesi Alanlarında Gelişmeler v
 
 (Milyar Dolar)
 
-2006 | 2012 | 2013 | 2018
+ | 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Yurtdışı Müteahhitlik Hizmetleri İş Hacmi | 24,3 | 27,2 | 30,0 | 50,0
 Yapı Malzemesi İhracatı | 12,5 | 22,5 | 25,0 | 45,0
@@ -3710,7 +3710,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Ekonomi  Bakanlığına  aittir.  201
 
 [[START OF PAGE 134]]
 
-- göstermeleri temin edilecektir. Ayrıca, teknik müşavirlik firmalarının yurtdışı faaliyetlerinin desteklenmesine devam edilecektir.
+göstermeleri temin edilecektir. Ayrıca, teknik müşavirlik firmalarının yurtdışı faaliyetlerinin desteklenmesine devam edilecektir.
 
 - Yurtdışı  müteahhitlik  hizmetlerinde  kaliteyi  artıran  ve  yapı  malzemelerinin  ihracat potansiyelini yükselten faaliyetler desteklenecektir.
 
@@ -3744,7 +3744,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Ekonomi  Bakanlığına  aittir.  201
 
 [[START OF PAGE 136]]
 
-- birbirleriyle etkileşimini artıran, mekânsal boyutu da içeren bir üretim organizasyonuna olan ihtiyaç devam etmektedir.
+birbirleriyle etkileşimini artıran, mekânsal boyutu da içeren bir üretim organizasyonuna olan ihtiyaç devam etmektedir.
 
 - Şehirlerimizde  aşırı  ve  niteliksiz  büyüme,  barınma,  trafik,  güvenlik,  altyapı,  sosyal uyum ve çevre sorunları önemini korumaktadır. Şehirlerimizin önemli bir kısmının, bir  taraftan  bu  tür  riskleri  yöneterek,  uygun  müdahalelerle  yaşanabilir  mekânlara dönüştürülmesi, diğer taraftan da kentsel imaj yönetimi ve markalaşma çabalarıyla çekim merkezi olması gözetilmesi gereken hususlardır.
 
@@ -3762,7 +3762,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  Ekonomi  Bakanlığına  aittir.  201
 
 [[START OF PAGE 137]]
 
-- işbirliği, koordinasyon  ve  veri paylaşımının geliştirilmesi ve özel sektör, yerel yönetimler  ve  sivil  toplum  kuruluşlarının  rolünün  artırılması  önem  kazanmaktadır. Ayrıca,  doğal  kaynakların ekonomik değerlerinin belirlenmesi, üretim ve tüketimde çevre standartlarının rekabetçilik ve yeşil büyüme anlayışıyla geliştirilmesi yanında, iklim değişikliğiyle mücadelenin ve biyolojik çeşitliliğin sürdürülebilir kullanımının da gözetilmesi gereklidir.
+işbirliği, koordinasyon  ve  veri paylaşımının geliştirilmesi ve özel sektör, yerel yönetimler  ve  sivil  toplum  kuruluşlarının  rolünün  artırılması  önem  kazanmaktadır. Ayrıca,  doğal  kaynakların ekonomik değerlerinin belirlenmesi, üretim ve tüketimde çevre standartlarının rekabetçilik ve yeşil büyüme anlayışıyla geliştirilmesi yanında, iklim değişikliğiyle mücadelenin ve biyolojik çeşitliliğin sürdürülebilir kullanımının da gözetilmesi gereklidir.
 
 - İklim  değişikliğinin  de  bir  sonucu  olarak  afetlerin  sıklığı  artmış  ve  etkileri  ciddi boyutlara ulaşmıştır. Ülkemizde afet yönetimi ve afet öncesi risk azaltımına yönelik tedbirlerde ilerlemeler sağlanmakla birlikte, bütünleşik afet tehlike ve risk haritalarının  hazırlanarak,  yerleşme  düzeni  ve  imar  planlaması  süreçlerine  dâhil edilmesi ihtiyacı devam etmektedir.
 
@@ -3777,6 +3777,8 @@ Kaynak:  2006  ve  2012  yılı  verileri  Ekonomi  Bakanlığına  aittir.  201
 [[END OF PAGE 137]]
 
 [[START OF PAGE 138]]
+
+Tablo 30: Düzey 2 Bölgeleri İtibarıyla Çeşitli Göstergeler
 
 Bölgeler | SEGE 2011 1 | Nüfusun Payı 2 | Nüfus Artış Hızı 3 | Şehirleşme Oranı 4 | GSKD'ye Katkısı 5 | Büyüme Hızı 6 | Kişi Başına Gelir 7 | İşsizlik Oranı 8
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -3806,27 +3808,25 @@ TRC2 (Diyarbakır, Şanlıurfa) | 23 | 4,4 | 2,3 | 61,8 | 1,7 | 2,6 | 40 | 6,9
 TRC3 (Batman, Mardin, Siirt, Şırnak) | 24 | 2,8 | 1,6 | 58,5 | 1,1 | 8,0 | 41 | 21,3
 TRA2 (Ağrı, Ardahan, Iğdır, Kars) | 25 | 1,5 | 0,3 | 36,9 | 0,6 | 2,7 | 38 | 7,4
 TRB2 (Bitlis, Hakkari, Muş, Van) | 26 | 2,8 | 1,2 | 43,5 | 1,0 | 5,1 | 36 | 8,9
-TÜRKİYE | 100 | 1,4 | 72,3 | 100 | 5,4 | 100 | 9,2
-
-Tablo 30: Düzey 2 Bölgeleri İtibarıyla Çeşitli Göstergeler
+TÜRKİYE |  | 100 | 1,4 | 72,3 | 100 | 5,4 | 100 | 9,2
 
 Kaynak: TÜİK ve Kalkınma Bakanlığı
 
-- İllerin ve Bölgelerin Sosyo-Ekonomik Gelişmişlik Endeksi Araştırması (SEGE 2011) sonuçlarına göre sıralanmıştır.
+(1) İllerin ve Bölgelerin Sosyo-Ekonomik Gelişmişlik Endeksi Araştırması (SEGE 2011) sonuçlarına göre sıralanmıştır.
 
-- 2012 yılında bölgelerin Türkiye nüfusundan aldığı yüzde payı göstermektedir.
+(2) 2012 yılında bölgelerin Türkiye nüfusundan aldığı yüzde payı göstermektedir.
 
-- 2007-2012 dönemi yıllık ortalama nüfus artış hızını göstermektedir.
+(3) 2007-2012 dönemi yıllık ortalama nüfus artış hızını göstermektedir.
 
-- 2012 yılında 20.000 üstü yerleşimlerdeki nüfusun toplam nüfusa yüzde oranını göstermektedir.
+(4) 2012 yılında 20.000 üstü yerleşimlerdeki nüfusun toplam nüfusa yüzde oranını göstermektedir.
 
-- 2008 yılında bölgelerin ulusal Gayri Safi Katma Değerdeki (GSKD) yüzde payı
+(5) 2008 yılında bölgelerin ulusal Gayri Safi Katma Değerdeki (GSKD) yüzde payı
 
-- 2004-2008 dönemi yıllık ortalama GSKD büyüme hızı, 2004 yılı fiyatlarıyla hesaplanmıştır.
+(6) 2004-2008 dönemi yıllık ortalama GSKD büyüme hızı, 2004 yılı fiyatlarıyla hesaplanmıştır.
 
-- Endeks 2008 verisi kullanılarak TR=100 baz alınarak hesaplanmıştır.
+(7) Endeks 2008 verisi kullanılarak TR=100 baz alınarak hesaplanmıştır.
 
-- 2012 yılında bölgelerin işsizlik oranlarını yüzde olarak göstermektedir.
+(8) 2012 yılında bölgelerin işsizlik oranlarını yüzde olarak göstermektedir.
 
 137
 
@@ -3843,6 +3843,19 @@ Harita 1: İllerin Nüfus Büyüklükleri, Kır-Kent Dağılımı ve Nüfus Yoğ
 Kaynak: TÜİK verilerine göre üretilmiştir.
 
 Not: Şehir nüfusu 20.000 üstü olarak kabul edilmiştir.
+
+Nüfus Yoğunluğu (km²’ye düşen kişi)
+2.660 - 2.670 (1)
+180 - 2.660 (9)
+80 - 180 (21)
+10 - 80 (50)
+
+Nüfus Büyüklüğü ve Kır-Kent Dağılımı
+14.000.000
+7.000.000
+1.400.000
+Kent
+Kır
 
 138
 
@@ -3868,13 +3881,28 @@ Not: Şehir nüfusu 20.000 üstü olarak kabul edilmiştir.
 
 - Türkiye'de üretim, metropollerde ve nüfusu bir milyonun üzerindeki büyük şehirlerde  yoğunlaşmıştır.  Bölgelerin  üretim  kompozisyonu  sanayi  ve  hizmetler sektörleri  lehine  gelişmektedir.  İmalat  sanayii,  İstanbul  başta  olmak  üzere  ağırlıklı olarak  Marmara  ve  Ege  Bölgesi'nde  yer  almıştır.  Son  dönemde,  imalat  sanayiinde Anadolu'daki yeni endüstriyel büyüme odağı şehirlerin payı artmakla birlikte, Ar-Ge faaliyetleri,  yeniliğin  ticarileştirilmesi  ve  markalaşma  metropoller  ile  birkaç  önemli merkezde yoğunlaşmıştır. Patent tescillerinin üçte ikisi İstanbul, Ankara ve İzmir'de gerçekleştirilmektedir.
 
+Harita 2: 2008 Yılı İtibarıyla Bölge Düzeyinde Gayrisafi Katma Değer Dağılımı
+
+GSKD (bin TL)
+240.000.000
+120.000.000
+24.000.000
+Tarım
+Sanayi
+Hizmetler
+
+Kişi başına GSKD (TL)
+14.800 - 18.700 (6)
+10.500 - 14.800 (5)
+8.500 - 10.500 (7)
+5.800 - 8.500 (4)
+4.300 - 5.800 (4)
+
+Kaynak: TÜİK verilerine göre üretilmiştir.
+
 - Ekonomik faaliyetin mekânda daha dengeli ve etkin şekilde dağılımı ve örgütlenmesi için  politikaların  ve  uygulamaların  bölge  ve  yerleşme  şartlarına  daha  duyarlı  hale getirilmesine  ihtiyaç  vardır.  Bu  kapsamda,  metropollerin  küresel  düzeyde  nitelikli ürün  ve  hizmet  sunmaları  sağlanırken,  Anadolu'daki  imalat  ve  ihracat  odaklarının rekabet  gücünün  artırılması,  gelir  düzeyi  orta  ve  düşük  olan  bölgelerin  ise  ulusal piyasayla güçlü bir biçimde bütünleşmeleri, ekonomik yapılarının güçlendirilmesi ve çeşitlendirilmesi gerekmektedir.
 
 - Bölgelerin rekabetçi üstünlüğe sahip oldukları alanlarda desteklenmelerini sağlamak üzere 2009 ve 2012 yılında yapılan revizyonlarla yatırım teşvik sisteminin bölgesel ve
-
-Harita 2: 2008 Yılı İtibarıyla Bölge Düzeyinde Gayrisafi Katma Değer Dağılımı
-
-Kaynak: TÜİK verilerine göre üretilmiştir.
 
 140
 
@@ -3882,13 +3910,13 @@ Kaynak: TÜİK verilerine göre üretilmiştir.
 
 [[START OF PAGE 142]]
 
-- sektörel  öncelikleri  daha  hassas  tanımlanmıştır.  Teşvik  kapsamı,  destek  araçları  ve destek oranlarının sosyo-ekonomik gelişmişlik düzeyi düşük bölgeler lehine iyileştirilmesi  sonucunda  teşvik  belgesi  alan  yatırımlar  içinde  bu  bölgelerin  oranı artmıştır.
+sektörel  öncelikleri  daha  hassas  tanımlanmıştır.  Teşvik  kapsamı,  destek  araçları  ve destek oranlarının sosyo-ekonomik gelişmişlik düzeyi düşük bölgeler lehine iyileştirilmesi  sonucunda  teşvik  belgesi  alan  yatırımlar  içinde  bu  bölgelerin  oranı artmıştır.
 
 - Plan  döneminde,  rekabet  edebilirlik politikaları bölgelere göre  farklılaştırılarak geliştirilmiş  ve  uygulanmıştır.  Bölgesel  yenilik  stratejileri  hazırlanmış,  üretim  ve ihracatta  değer  zincirlerinin  organizasyonunu  işbirlikleriyle  geliştiren  kümelenme modeli,  merkezi  ve  bölgesel  düzeyde  desteklenmeye  başlanmıştır.  Yatırımcılara danışmanlık  ve  destek  hizmetleri  sağlayacak  yerel  kurumsal  kapasite,  kalkınma ajansları bünyesinde oluşturulmaya başlanmıştır. Ancak, bölgelerin rekabet edebilirliklerinin  mukayeseli  olarak  analiz  edilmesine,  karar  alma  ve  uygulamada katılımın  ve  yerindenliğin  güçlendirilmesine,  kurumlar  arasında  koordinasyonun artırılmasına ihtiyaç duyulmaktadır.
 
 - AB ile ekonomik ve sosyal uyum alanında yürütülen çalışmaların, ülkemizde bölgesel politikaların  gelişimine  önemli  katkısı  olmuştur.  2007-2013  döneminde,  Türkiye'ye Katılım Öncesi Mali İşbirliği Aracıyla (IPA) bölgesel kalkınma ve insan kaynaklarının geliştirilmesine yönelik yaklaşık 2,2 milyar avro kaynak tahsis edilmiştir. Bu kaynaklar,  Bölgesel  Rekabet  Edebilirlik,  Çevre,  Ulaştırma  ve  İnsan  Kaynaklarının Geliştirilmesi  Operasyonel  Programları  kapsamında  hazırlanan  projeler  aracılığıyla kullanılmaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Bölgesel  gelişme  politikalarıyla,  bir  taraftan  bölgesel  gelişmişlik  farkları  azaltılarak refahın ülke sathına daha dengeli yayılması sağlanacak, diğer taraftan tüm bölgelerin potansiyeli değerlendirilip rekabet güçleri artırılarak ulusal büyümeye ve kalkınmaya katkıları azami seviyeye çıkarılacaktır.
 
@@ -3898,18 +3926,18 @@ Kaynak: TÜİK verilerine göre üretilmiştir.
 
 [[START OF PAGE 143]]
 
-2006 | 2012 | 2013 | 2018
+Tablo 31: Bölgesel Gelişme ve Rekabet Edebilirlik Alanlarında Gelişme ve Hedefler
+
+ | 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 En Yüksek Gelirli Bölgenin Kişi Başına Gelirinin En Düşük Gelirli Bölgeye Oranı 1 | 4,4 | 4,3 | --- | <4
-Bölge Ekonomisinde Sanayi ve Hizmetlerin Payı En Düşük Bölge Değeri ( % ) | 72,0 | 75,4 | --- | >80
-Eğitim Düzeyi En Düşük 5 Bölgede Yüksekokul ve Üzeri Mezunların Oranı ( % ) 2 | --- | 6,3 | --- | >12
+Bölge Ekonomisinde Sanayi ve Hizmetlerin Payı En Düşük Bölge Değeri (%) | 72,0 | 75,4 | --- | >80
+Eğitim Düzeyi En Düşük 5 Bölgede Yüksekokul ve Üzeri Mezunların Oranı (%) 2 | --- | 6,3 | --- | >12
 SEGE'ye Göre Son Beş Bölgenin İşgücüne Katılım Oranı (%) | 38,0 | 38,9 | --- | >42
-Teşvik Sisteminde 5. ve 6. Bölge İllerindeki Teşvik Belgeli Yatırım Tutarının Teşvik Belgeli Toplam Yatırım İçindeki Payı ( % ) 3 | 7,8 | 14,9 | 16,0 | >20
-Teşvik Sisteminde 5. ve 6. Bölge İllerindeki Teşvik Belgeli İstihdamın Teşvik Belgeli Toplam İstihdam İçindeki Payı ( % ) 3 | 9,7 | 22,8 | 25,0 | >30
+Teşvik Sisteminde 5. ve 6. Bölge İllerindeki Teşvik Belgeli Yatırım Tutarının Teşvik Belgeli Toplam Yatırım İçindeki Payı (%) 3 | 7,8 | 14,9 | 16,0 | >20
+Teşvik Sisteminde 5. ve 6. Bölge İllerindeki Teşvik Belgeli İstihdamın Teşvik Belgeli Toplam İstihdam İçindeki Payı (%) 3 | 9,7 | 22,8 | 25,0 | >30
 Kurulan Girişim Sayısı (En Düşük 5 Bölge Ortalaması, Milyon Kişi Başına) | 252 4 | 535 | 570 | >850
 Kurulan Girişim Sayısı (En Yüksek 5 Bölge Ortalaması, Milyon Kişi Başına) | 1.216 4 | 2.083 | 2.250 | >2.900
-
-Tablo 31: Bölgesel Gelişme ve Rekabet Edebilirlik Alanlarında Gelişme ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri Ekonomi Bakanlığı, TOBB, TÜİK'e aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -3937,7 +3965,7 @@ Not:  Bölge ifadesi, teşvik sistemine dair göstergeler dışında, Düzey-2 i
 
 [[START OF PAGE 144]]
 
-- destekleyen programlar güçlendirilerek sürdürülecek, göçün bölgesel büyüme odağı işlevi görecek bu merkezlere yönelmesini kolaylaştıran şartların oluşumu desteklenecektir.
+destekleyen programlar güçlendirilerek sürdürülecek, göçün bölgesel büyüme odağı işlevi görecek bu merkezlere yönelmesini kolaylaştıran şartların oluşumu desteklenecektir.
 
 - Orta  gelirli  bölgelerde  üretim  yapısının  dönüşümü,  sektörel  çeşitliliğin  artırılması, girişimcilik ortam ve kültürünün geliştirilmesi ve yeni istihdam alanlarının oluşturulması sağlanacaktır. Şehirlerin alt ve üst yapısının iyileştirilmesiyle  bu bölgelerin yaşam ve yatırım koşulları bakımından cazibesi artırılacaktır.
 
@@ -3995,18 +4023,18 @@ Not:  Bölge ifadesi, teşvik sistemine dair göstergeler dışında, Düzey-2 i
 
 yoğunluklarının ve niteliğinin değişmesine yol açan bu süreçte şehirlerde doku hızlı bir  şekilde  yenilenmektedir.  Bu  durum,  insan  refahı,  erişim  ve  kullanım  kolaylığı, sosyal uyum, şehir bütünlüğü ve estetiği ile kentlilik kültürü açısından çok boyutlu bir politika yaklaşımını gerekli kılmaktadır.
 
-2007 | 2008 | 2009 | 2010 | 2011 | 2012
+Tablo 32: Şehirleşmeye İlişkin Gelişmeler
+
+ |  | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | ---
 Nüfus (Bin Kişi) | Türkiye | 70.586 | 71.517 | 72.561 | 73.722 | 74.724 | 75.627
-Kent 1 | 47.652 | 49.515 | 50.873 | 52.341 | 53.631 | 54.705
-Kır | 22.934 | 22.003 | 21.689 | 21.382 | 21.093 | 20.922
+ | Kent 1 | 47.652 | 49.515 | 50.873 | 52.341 | 53.631 | 54.705
+ | Kır | 22.934 | 22.003 | 21.689 | 21.382 | 21.093 | 20.922
 Dağılım (%) | Kent | 67,5 | 69,2 | 70,1 | 71,0 | 71,8 | 72,3
-Kır | 32,5 | 30,8 | 29,9 | 29,0 | 28,2 | 27,7
+ | Kır | 32,5 | 30,8 | 29,9 | 29,0 | 28,2 | 27,7
 Nüfus Artışı (‰) | Türkiye | --- | 13,2 | 14,6 | 16,0 | 13,6 | 12,0
-Kent | --- | 39,1 | 27,4 | 28,9 | 24,6 | 20,0
-Kır | --- | -40,6 | -14,3 | -14,2 | -13,5 | -8,1
-
-Tablo 32: Şehirleşmeye İlişkin Gelişmeler
+ | Kent | --- | 39,1 | 27,4 | 28,9 | 24,6 | 20,0
+ | Kır | --- | -40,6 | -14,3 | -14,2 | -13,5 | -8,1
 
 Kaynak: TÜİK
 
@@ -4028,15 +4056,15 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 [[START OF PAGE 147]]
 
-- büyük ölçekli konut projelerinin yer seçimi ve tasarım kriterlerinin şehirlerin kimliği, dokusu ve yoğunluğu ile uyumunun güçlendirilmesi ihtiyacı devam etmektedir.
+büyük ölçekli konut projelerinin yer seçimi ve tasarım kriterlerinin şehirlerin kimliği, dokusu ve yoğunluğu ile uyumunun güçlendirilmesi ihtiyacı devam etmektedir.
 
 - Kentsel  dönüşüm  faaliyetlerinin  yanı  sıra,  gayrimenkul  yatırımlarında  da  hızlı  bir büyüme dikkat çekmektedir. Bölgeler ve şehirleri doğrudan küresel aktörler haline getiren  süreçler,  sanayi  alanı,  işyeri  ve  konut  başta  olmak  üzere  gayrimenkul talebinin, özellikle metropol  alanlarda, uluslararası  düzeye  taşınmasına  neden olmuştur.  Bu  kapsamda,  kentsel  dönüşümün,  kamulaştırma,  toplulaştırma  ve  imar uygulamalarının  etkililiğini  artırmak  ve  piyasanın  daha  sağlıklı  işlemesini  sağlamak üzere objektif ölçütlere dayalı bir gayrimenkul değerleme sisteminin geliştirilmesine ihtiyaç vardır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Ülkemizin coğrafi koşullarına, kent-kır ayrımına, tarihi, kültürel ve çevresel değerlerine  uygun;  insan  ve  toplum  ihtiyaçlarına  cevap  veren,  daha  geniş  ortak kullanım  alanlarına  sahip,  üst  standartlarda  yaşanabilir  mekânlara  kavuşturulması temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Mekânsal  planlama  sistemi  merkezin  düzenleyici  ve  denetleyici  rol  üstleneceği, planlama ve uygulamanın ise yerinde gerçekleştirileceği, ortak karar alma süreçlerini güçlendiren bir yapıya dönüştürülecektir.
 
@@ -4064,7 +4092,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 ##### 2.3.3. Kentsel Dönüşüm ve Konut
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Sağlıksız  yapılaşma,  eskiyen  ve  yıpranan  yapı  stoku,  afet  riskleri,  hızlı  nüfus  artışı, değişen mekân tercihleriyle işlev ve değer kaybeden alanların oluşması ve üretim ve hizmet alanlarının sıkışması gibi faktörler şehirlerde yapıların ve alanların dönüşüm ihtiyacını artırmıştır.
 
@@ -4076,7 +4104,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 - Konut  piyasasında  arz-talep  dengesinin  kurulması,  konut  finansman,  yapım  ve örgütlenme yöntemleri ile altyapılı arsa arzının geliştirilmesi; konut üretiminin gelir gruplarının  ihtiyaçlarına,  yerleşmelerin  gelişme  eğilimlerine  ve  özelliklerine  göre yönlendirilmesi; yaşlı, çocuk ve engellilerin ihtiyaçlarına uygun konut ve çevrelerinin tasarlanması ve yapımına olan ihtiyaç devam etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Şehirlerde  afet  riski  taşıyan,  altyapı  darboğazı  yaşayan,  eski  değerini  ve  işlevini kaybeden,  mekân  kalitesi  düşük  bölgeleri  sosyal,  ekonomik,  çevresel  ve  estetik boyutlar dikkate alınarak yenilemek; kentsel refahı, yapı ve yaşam  kalitesini yükseltmek temel amaçtır.
 
@@ -4088,7 +4116,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 [[START OF PAGE 149]]
 
-###### Politikalar
+###### c. Politikalar
 
 - Afet  riski  taşıyan  alanlar  başta  olmak  üzere  üretim  ve  ortak  kullanım  alanlarında yüksek  fayda  ve  değer  üreten,  büyüme  ve  kalkınmaya  katkı  sağlayan,  mekân  ve yaşam kalitesini yaygın şekilde artıran dönüşüm projelerine öncelik verilecektir.
 
@@ -4106,7 +4134,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 ##### 2.3.4. Kentsel Altyapı
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Hızlı  şehirleşme  nedeniyle  artan  altyapı  ihtiyaçlarının  karşılanmasında  kayda  değer ilerlemeler  sağlanmakla  birlikte,  hizmet  kalitesinin  yükseltilmesi,  sürekliliğinin  ve sürdürülebilirliğin sağlanması ihtiyacı devam etmektedir.
 
@@ -4120,7 +4148,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 [[START OF PAGE 150]]
 
-- belediye  nüfusuna  oranı,  2006  yılında  yüzde  51  iken,  2010  yılında  yüzde  62'ye ulaşmış, toplam nüfusa oranı ise yüzde 52 olmuştur.
+belediye  nüfusuna  oranı,  2006  yılında  yüzde  51  iken,  2010  yılında  yüzde  62'ye ulaşmış, toplam nüfusa oranı ise yüzde 52 olmuştur.
 
 - Yatırım ve işletme maliyetleri, personel, teknoloji seçimi ve denetim gibi nedenlerle atık  su  altyapı  hizmetlerinde  yeterli  etkinlik  sağlanamamaktadır.  Tarifelerin  uygun düzeyde ayarlanması ve kurumsal kapasitenin güçlendirilmesi de önem arz etmektedir.
 
@@ -4138,7 +4166,7 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 [[START OF PAGE 151]]
 
-- Belediyelerin  uygun  raylı  sistem  projelerinin  Ulaştırma,  Denizcilik  ve  Haberleşme Bakanlığınca üstlenilmesine de imkân tanınmıştır.
+Belediyelerin  uygun  raylı  sistem  projelerinin  Ulaştırma,  Denizcilik  ve  Haberleşme Bakanlığınca üstlenilmesine de imkân tanınmıştır.
 
 - Kentiçi ulaşımda mekânsal planlama ve gelişme hedefleriyle tutarlı ulaşım planlarına dayalı olarak sistemler arası entegrasyon ve uyumun güçlendirilmesi, altyapının yaya ve  toplu  taşıma  ağırlıklı  geliştirilmesi  ve  dönüştürülmesi,  şehirler  arası  ve  şehir  içi bağlantıların etkili şekilde kurulması, çevreye duyarlı, akıllı, verimli ve maliyet etkin uygulamaların  yaygınlaştırılması  ve  artan  taşıt  sahipliğine  cevap  verecek  altyapının kurulması önemini korumaktadır.
 
@@ -4146,7 +4174,9 @@ Not: Yıl sonu nüfus verileri kullanılmıştır.
 
 - Nüfusun sağlıklı ve güvenilir içme ve kullanma suyuna erişiminin sağlanması; atıkların insan ve çevre sağlığına etkilerinin en aza indirilerek etkin yönetiminin gerçekleştirilmesi; şehirlerimizde arazi kullanım kararlarıyla uyumlu politikalar yoluyla  trafik  sıkışıklığını  azaltan,  erişilebilirliği  ve  yakıt  verimliliği  yüksek,  konforlu, güvenli, çevre dostu, maliyet etkin ve sürdürülebilir bir ulaşım altyapısının oluşturulması temel amaçtır.
 
-- Plan  döneminde;  Ankara'da  Kızılay-Çayyolu,  Batıkent-Sincan  ve  Tandoğan-Keçiören metro  projeleri  ile  Esenboğa  raylı  sistem;  İstanbul'da  Üsküdar-Ümraniye,  OtogarBağcılar,  Aksaray-Yenikapı,  Bakırköy-Beylikdüzü,  Şişhane-Yenikapı,  Kartal-Kaynarca, Kabataş-Mahmutbey, Bakırköy-Kirazlı metro; İzmir'de Trafik Yönetim Sistemi, Deniz Ulaşımı Geliştirme, Üçyol-F. Altay metro ile Konak ve Karşıyaka tramvay; Bursa'da 3. aşama,  Kayseri'de  2.  ve  3.  aşama  hafif  raylı  sistem;  Gaziantep'te  3.  aşama  ve Konya'da 2. aşama tramvay projelerinin tamamlanması beklenmektedir.
+- Plan  döneminde;  Ankara'da  Kızılay-Çayyolu,  Batıkent-Sincan  ve  Tandoğan-Keçiören metro  projeleri  ile  Esenboğa  raylı  sistem;  İstanbul'da  Üsküdar-Ümraniye,  Otogar-Bağcılar,  Aksaray-Yenikapı,  Bakırköy-Beylikdüzü,  Şişhane-Yenikapı,  Kartal-Kaynarca, Kabataş-Mahmutbey, Bakırköy-Kirazlı metro; İzmir'de Trafik Yönetim Sistemi, Deniz Ulaşımı Geliştirme, Üçyol-F. Altay metro ile Konak ve Karşıyaka tramvay; Bursa'da 3. aşama,  Kayseri'de  2.  ve  3.  aşama  hafif  raylı  sistem;  Gaziantep'te  3.  aşama  ve Konya'da 2. aşama tramvay projelerinin tamamlanması beklenmektedir.
+
+Tablo 33: Kentsel Altyapıya İlişkin Gelişmeler ve Hedefler
 
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
@@ -4156,8 +4186,6 @@ Atıksu Arıtma Tesisiyle Hizmet Edilen Belediye Nüfusunun Toplam Belediye Nüf
 Ambalaj Atıklarının Geri Dönüşüm Oranı (%) | 33 | 50 | 53 | 56
 Düzenli Depolamadan Yararlanan Belediye Nüfusu Oranı (%) | 34 | 60 | 65 | 85
 Kentiçi Raylı Sistem Uzunluğu (km) | 292 | 455 | 477 | 787
-
-Tablo 33: Kentsel Altyapıya İlişkin Gelişmeler ve Hedefler
 
 Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  Çevre  ve  Şehircilik  Bakanlığına  aittir.  2013  ve  2018  yılı  verileri  Onuncu Kalkınma Planı tahminleridir.
 
@@ -4169,7 +4197,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  Çevre  ve  Şehircilik  
 
 [[START OF PAGE 152]]
 
-###### Politikalar
+###### c. Politikalar
 
 - Yerleşim  yerlerinin  içme  ve  kullanma  suyu  ihtiyaçlarının  tamamı  karşılanacak,  su kayıp-kaçakları  önlenecek,  mevcut  şebekeler  iyileştirilerek  sağlıklı  ve  çevre  dostu malzeme kullanımı yaygınlaştırılacaktır.
 
@@ -4207,7 +4235,7 @@ Kaynak:  2006  ve  2012  yılı  verileri  TÜİK  ve  Çevre  ve  Şehircilik  
 
 - 2007  yılı  Adrese  Dayalı  Nüfus  Kayıt  Sistemi  (ADNKS)  sonuçlarına  göre  belediye yönetiminde yaşayan nüfus yaklaşık 58,6 milyon ve bu nüfusun toplam nüfusa oranı yüzde 83 iken, 2012 yılında bu rakamlar sırasıyla 63,7 milyon ve yüzde 84,3 olmuştur.
 
-- 2012  ve  2013  yıllarında  yapılan  düzenlemelerle  büyükşehir  belediye  sayısı  30'a yükselmekte,  büyükşehir  belediye  sınırları  il  mülki  sınırları  ile  bütünleştirilmekte, büyükşehirlerdeki il özel idareleri ile büyükşehir sınırları içerisindeki belde belediyeleri  ve  köyler  kaldırılmaktadır.  Ayrıca,  2011  yılı  ADNKS  sonuçlarına  göre büyükşehir  belediyesi  dışındaki  illerde  nüfusu  2  binin  altındaki  belediyeler  köye dönüştürülmekte ve genel bütçeden belediyelere aktarılan paylar yeniden düzenlenmektedir.  2014  yılı  mahalli  idare  seçimleri  sonrasında  toplam  belediye sayısının  1.395'e  düşmesi  ve  toplam  nüfusun  yüzde  90'ından  fazlasının  belediye sınırları içerisinde kalması beklenmektedir.
+Tablo 34: Mahalli İdarelere İlişkin Göstergeler
 
 2006 | 2012
 --- | --- | ---
@@ -4217,11 +4245,13 @@ Köy Sayısı | 34.406 | 34.340
 Belediye Nüfusu (Bin Kişi) | 58.582 1 | 63.743
 Mahalli İdareler Personel Sayısı | 310.883 | 256.501
 
-Tablo 34: Mahalli İdarelere İlişkin Göstergeler
-
 Kaynak: İçişleri Bakanlığı, TÜİK
 
 (1) 2007 yılı ADNKS belediye nüfusudur.
+
+- 2012  ve  2013  yıllarında  yapılan  düzenlemelerle  büyükşehir  belediye  sayısı  30'a yükselmekte,  büyükşehir  belediye  sınırları  il  mülki  sınırları  ile  bütünleştirilmekte, büyükşehirlerdeki il özel idareleri ile büyükşehir sınırları içerisindeki belde belediyeleri  ve  köyler  kaldırılmaktadır.  Ayrıca,  2011  yılı  ADNKS  sonuçlarına  göre büyükşehir  belediyesi  dışındaki  illerde  nüfusu  2  binin  altındaki  belediyeler  köye dönüştürülmekte ve genel bütçeden belediyelere aktarılan paylar yeniden düzenlenmektedir.  2014  yılı  mahalli  idare  seçimleri  sonrasında  toplam  belediye sayısının  1.395'e  düşmesi  ve  toplam  nüfusun  yüzde  90'ından  fazlasının  belediye sınırları içerisinde kalması beklenmektedir.
+
+Tablo 35: 6360 ve 6447 Sayılı Kanunlar Uyarınca Türlerine Göre Belediye Sayıları
 
 Mevcut Durum (2013) | İlk Yerel Seçimlerde Esas Alınacak Durum 1 (2014)
 --- | --- | ---
@@ -4232,9 +4262,7 @@ Büyükşehir İlçe Belediyesi | 143 | 519
 Belde Belediyesi | 1.977 | 395 2
 Toplam Belediye | 2.950 | 1.395
 
-Tablo 35: 6360 ve 6447 Sayılı Kanunlar Uyarınca Türlerine Göre Belediye Sayıları
-
-> Kaynak: İçişleri Bakanlığı
+Kaynak: İçişleri Bakanlığı
 
 (1) Haziran 2013 itibarıyla
 
@@ -4273,7 +4301,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 - 2008 yılında yapılan düzenlemeyle mahalli idarelere merkezi bütçeden aktarılacak payların oranları ve dağıtım esasları değiştirilmiş, nüfus kriterinin yanı sıra gelişmişlik  endeksi  ile  özel  idareler  için  illerin  yüzölçümü,  köy  sayısı,  kırsal  alan nüfusu  gibi  yeni  kriterler  eklenmiş  ve  böylece  belediyeler  ve  il  özel  idarelerinin genel bütçe vergi paylarında artış sağlanmıştır.
 
-- Plan döneminde KÖYDES, BELDES ve SUKAP gibi projeler kapsamında kırsal altyapı ve  orta-küçük  ölçekli  belediyelerin  altyapı  yatırımları  desteklenmiş,  sürekli  işçi kadrolarından merkezi idare kuruluşlarına yapılan devir sonucunda, özelikle küçük ölçekli belediyelerde, cari harcamaların bütçe üzerindeki yükü hafifletilmeye çalışılmıştır.
+- Plan döneminde KÖYDES, BELDES ve SUKAP gibi projeler kapsamında kırsal altyapı ve  orta-küçük  ölçekli  belediyelerin  altyapı  yatırımları  desteklenmiş,  sürekli  işçi kadrolarından merkezi idare kuruluşlarına yapılan devir sonucunda, özellikle küçük ölçekli belediyelerde, cari harcamaların bütçe üzerindeki yükü hafifletilmeye çalışılmıştır.
 
 - Yapılan düzenlemeler  sonucunda  belediyelerin personel istihdamında disiplin sağlanmış, personel sayıları  düşmüş  ve personel harcamalarının GSYH içerisindeki payları azalmıştır. Bununla birlikte hizmet alım yönteminin yaygın olarak kullanılması personel harcamalarında sağlanan bütçe tasarrufunu azaltmıştır.
 
@@ -4287,15 +4315,15 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 [[START OF PAGE 155]]
 
-- meralar, orman alanları ve ekolojik hassasiyeti olan bölgeleri korumak; yerindenlik ilkesini  zayıflatmamak  gibi  amaçlarla  hizmet  sunum  yöntemlerinin  yeni bir  model çerçevesinde değerlendirilmesi ihtiyacı bulunmaktadır. Diğer yandan, sürdürülebilir şehirler yaklaşımı çerçevesinde, mahalli idarelerin desteklenmesi, kalkınma konusunda  artan  yetki  ve  sorumlulukları  ile  genişleyen  hizmet  alanları  kurumsal kapasitelerinin geliştirilmesi ihtiyacını da artırmıştır.
+meralar, orman alanları ve ekolojik hassasiyeti olan bölgeleri korumak; yerindenlik ilkesini  zayıflatmamak  gibi  amaçlarla  hizmet  sunum  yöntemlerinin  yeni bir  model çerçevesinde değerlendirilmesi ihtiyacı bulunmaktadır. Diğer yandan, sürdürülebilir şehirler yaklaşımı çerçevesinde, mahalli idarelerin desteklenmesi, kalkınma konusunda  artan  yetki  ve  sorumlulukları  ile  genişleyen  hizmet  alanları  kurumsal kapasitelerinin geliştirilmesi ihtiyacını da artırmıştır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Mahalli  idarelerin  daha  etkin,  hızlı  ve  nitelikli  hizmet  sunabilen,  katılımcı,  şeffaf, çevreye duyarlı, dezavantajlı kesimlerin ihtiyaçlarını gözeten ve mali sürdürülebilirliği sağlamış bir yapıya kavuşturulması temel amaçtır.
 
 - Mahalli idarelerin temel hedefi, vatandaşlara sunulan hizmetlerden duyulan memnuniyeti en üst düzeye çıkarmaktır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Başta yeni kurulan büyükşehir belediyeleri olmak üzere mahalli idarelerde çalışan personelin uzmanlaşma düzeyi yükseltilecek, proje hazırlama, finansman, uygulama, izleme ve değerlendirme, mali yönetim, katılımcı yöntemler ve benzeri konularda kapasiteleri artırılacaktır.
 
@@ -4313,7 +4341,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 ##### 2.3.6. Kırsal Kalkınma
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 - Dokuzuncu  Kalkınma  Planı  döneminde  kırsal  kalkınma  politikaları,  ağırlıklı  olarak kırsal altyapının geliştirilmesini ve tarım dışı ekonomik faaliyetlerin
 
@@ -4323,7 +4351,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 [[START OF PAGE 156]]
 
-- çeşitlendirilmesini  destekleyecek  şekilde  tarım  politikalarıyla  eşgüdüm  içerisinde uygulanmıştır.
+çeşitlendirilmesini  destekleyecek  şekilde  tarım  politikalarıyla  eşgüdüm  içerisinde uygulanmıştır.
 
 - Daha  etkili  bir  kırsal  kalkınma  politikası  yönetimi  için  ilk  defa  UKKS  ve  Kırsal Kalkınma  Planı  belgeleri  yürürlüğe  konulmuş,  Planın  izlenmesi  için  çok  taraflı  bir izleme komitesi oluşturulmuş, uygulamalar büyük ölçüde yerel kurumlara devredilmiştir.
 
@@ -4343,19 +4371,19 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 [[START OF PAGE 157]]
 
-- barındıran  geçimlik  işletmelerdedir.  Bu  işletmelerin  ölçek  ve  pazarlama  sorunları yeterli  ve  düzenli  işletme  geliri  elde  etmelerini  engelleyerek  yoksulluk  ve  göç sorunlarını  tetiklemektedir.  Tarım  istihdamındaki  olası  çözülme  karşısında,  kırsal alanda  tarım  dışı  istihdam  imkânlarının  artması  ve  kırsal  işgücünün  tarım  dışı sektörlerdeki  istihdam  edilebilirliği  daha  önemli  hale  gelmektedir.  Bu  bağlamda, 2007-2012 döneminde kırsal işgücü içinde lise ve üstü eğitime sahip olanların payı yüzde 18'den yüzde 18,2'ye yükselmiştir.
+barındıran  geçimlik  işletmelerdedir.  Bu  işletmelerin  ölçek  ve  pazarlama  sorunları yeterli  ve  düzenli  işletme  geliri  elde  etmelerini  engelleyerek  yoksulluk  ve  göç sorunlarını  tetiklemektedir.  Tarım  istihdamındaki  olası  çözülme  karşısında,  kırsal alanda  tarım  dışı  istihdam  imkânlarının  artması  ve  kırsal  işgücünün  tarım  dışı sektörlerdeki  istihdam  edilebilirliği  daha  önemli  hale  gelmektedir.  Bu  bağlamda, 2007-2012 döneminde kırsal işgücü içinde lise ve üstü eğitime sahip olanların payı yüzde 18'den yüzde 18,2'ye yükselmiştir.
 
 - Kırsal yoksullukla mücadelenin  etkili ve sürdürülebilir yollarından biri eğitim hizmetlerine  erişimdir.  Köylerde  okul  öncesi  eğitim  hizmetlerinde  belirgin  bir iyileşme  görülmektedir.  Ayrıca,  2008-2012  döneminde  6  ve  üzeri  yaş  grubunda okuma-yazma  bilmeyenlerin  oranı  yüzde  13,3'ten  yüzde  7,3'e  gerilemiştir.  Diğer taraftan, köylerde nüfus azalmasına paralel olarak okul çağındaki nüfusun düşmesi nedeniyle  faal  örgün  eğitim  kurumu  sayısı  azalmıştır.  Bu  eğilim  taşımalı  eğitim hizmetlerinin iyileştirme ihtiyacını artırdığı gibi ailesi köylerde yerleşik olan ortaöğretim öğrencilerinin il ve ilçe merkezlerinde barınma ihtiyacını da beraberinde getirmektedir.
 
 - Kırsal nüfusun bilgiye erişiminde bilişim teknolojileri altyapısının ve mobil uygulamaların  önemi  giderek  artmaktadır.  Dokuzuncu  Kalkınma  Planı  döneminde bireysel internet erişimi kırsal alanda yüzde 15'ten yüzde 26'ya, hanelerde bilgisayar sahipliği ise yüzde 11'den yüzde 28'e yükselmiştir. Bu gelişmelere rağmen bilgisayar  sahipliği  ve  internet  erişimi  bakımından  kır  ve  kent  arasındaki  farkın azaltılması önemini korumaktadır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Kırsal  kesimdeki  asgari  refah  düzeyinin  ülke  ortalamasına  yaklaştırılması  temel amaçtır. Hizmet sunumunda kırsalın yeni demografik yapısını ve coğrafi dezavantajlarını  gözeten  yenilikçi  yöntemler  geliştirilecek;  arz  yönlü  bir  hizmet sunumu için ihtiyaç duyulan kurumsallaşma, merkezi ve yerel idarelerin işbirliğiyle gerçekleştirilecektir.
 
 - Kırsal kalkınma politikasının temel hedefi, kırsal toplumun iş ve yaşam koşullarının bulunduğu  yörede  iyileştirilmesidir.  Kırsal  politikanın  genel  çerçevesini  ise;  kırsal ekonominin  ve  istihdamın  güçlendirilmesi,  insan  kaynaklarının  geliştirilmesi  ve yoksulluğun azaltılması,  sosyal  ve  fiziki  altyapının  iyileştirilmesi  ile  çevre  ve  doğal kaynakların korunması oluşturacaktır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Kırsal  ekonominin  üretim  ve  istihdam  yapısı  turizm,  ticaret,  gıda  sanayi,  küçük ölçekli üretim gibi tarım dışı ekonomik faaliyetlerle çeşitlendirilecektir.
 
@@ -4367,7 +4395,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 [[START OF PAGE 158]]
 
-- güçlendirilecek,  potansiyel  yararlanıcılar  ve  coğrafi  kapsam  bakımından  uyum  ve tamamlayıcılık ilişkisi geliştirilecektir.
+güçlendirilecek,  potansiyel  yararlanıcılar  ve  coğrafi  kapsam  bakımından  uyum  ve tamamlayıcılık ilişkisi geliştirilecektir.
 
 - Sosyal hizmet ve yardımlar köylere arz yönlü sunulacak ve yoksulluk sınırı altındaki haneler ile uzak kırsal yerleşimler öncelikli olarak dikkate alınacaktır.
 
@@ -4387,7 +4415,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 ##### 2.3.7. Çevrenin Korunması
 
-###### Durum Analizi
+###### a. Durum Analizi
 
 1028. Dokuzuncu  Kalkınma  Planı  döneminde,  sürdürülebilir  kalkınmayı  hedefleyen  bir yaklaşımla, çevre mevzuatı ve standartları geliştirilmiş, kurumsal ve teknik altyapı iyileştirilmiş ve çevre yönetiminin güçlendirilmesine yönelik projeler gerçekleştirilmiştir. İklim Değişikliği Strateji Belgesi ve Biyolojik Çeşitlilik Stratejisi ve Eylem Planı gibi temel strateji belgeleri hazırlanarak çevre politikasına ve uygulamaya yön veren çerçeve geliştirilmiştir. Böylece başta emisyonların kontrolü, korunan alanların genişletilmesi, biyolojik çeşitliliğin korunması olmak üzere çevre kirliliğinin önlenmesi, çevre kalitesinin iyileştirilmesi ve doğal kaynakların sürdürülebilir yönetimi yönünde önemli ilerlemeler kaydedilmiştir.
 
@@ -4457,7 +4485,7 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 - Su  ve  toprak  kaynaklarının  miktarının  ve  kalitesinin  korunması,  geliştirilmesi  ve talebin en yüksek olduğu tarım sektörü başta olmak üzere sürdürülebilir kullanımını sağlayacak bir yönetim sisteminin geliştirilmesi temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Su  yönetimine  ilişkin  mevzuattaki  eksiklik  ve  belirsizlikler  giderilerek  kurumların görev,  yetki  ve  sorumlulukları  netleştirilecek,  su  yönetimiyle  ilgili  tüm  kurum  ve kuruluşlar arasında işbirliği ve koordinasyon geliştirilecektir.
 
@@ -4509,12 +4537,12 @@ Not: Mahalli idareler dengesi; il özel idareleri, belediyeler, İller Bankası,
 
 - Makroekonomik, sektörel ve mekânsal planlama süreçlerinde afet risk ve zararlarının  dikkate  alınması;  afetlere  karşı  toplumsal  direncin  ve  bilinç  düzeyinin artırılması; afetlere dayanıklı ve güvenli yerleşimler oluşturulması temel amaçtır.
 
+Tablo 37: Afet Risklerinin Azaltılmasına Yönelik Gelişmeler ve Hedefler
+
 2006 | 2012 | 2013 | 2018
 --- | --- | --- | --- | ---
 Bütünleşik Afet Tehlike Haritası Tamamlanan İl Sayısı | --- | 3 | 6 | 81
 Zorunlu Deprem Sigortasına Dâhil Olan Konut ve İşyeri Sayısı (Milyon) | 2,5 | 4,8 | 5,4 | 9,5
-
-Tablo 37: Afet Risklerinin Azaltılmasına Yönelik Gelişmeler ve Hedefler
 
 Kaynak: 2006 ve 2012 yılı verileri Kalkınma Bakanlığı ve Doğal Afet Sigortaları Kurumuna aittir. 2013 ve 2018 yılı verileri Onuncu Kalkınma Planı tahminleridir.
 
@@ -4554,6 +4582,8 @@ Kaynak: 2006 ve 2012 yılı verileri Kalkınma Bakanlığı ve Doğal Afet Sigor
 
 - Kalkınma işbirliği  alanında  yükselen  bir  donör  olan  Türkiye  tarafından  yapılan  Resmi Kalkınma Yardımları (RKY), son yıllarda hızla artış göstermektedir. Türkiye'nin kalkınma yardımlarındaki artış oranı, büyük donör ülkelerin yer aldığı OECD Kalkınma Yardımları Komitesi (OECD DAC) üyelerinin yaptığı toplam yardımların artış oranından çok daha yüksek  seviyelerde  gerçekleşmektedir.  Bu  eğilimin  önümüzdeki  yıllarda  da  sürmesi beklenmektedir.
 
+Tablo 38: Resmi Kalkınma Yardımları
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 2
 --- | --- | --- | --- | --- | --- | ---
 Toplam RKY (Milyar Dolar)
@@ -4564,8 +4594,6 @@ Toplam RKY (Yüzde Değişim)
 DAC Ülkeleri | -0,6 | 17,0 | -1,8 | 7,1 | 4,2 | -6,0
 DAC'a Üye Olmayan Ülkeler | 9,6 | 47,5 | -33,1 | -1,2 | 45,1 | -53,3
 Türkiye | -15,7 | 29,6 | -9,4 | 36,8 | 31,6 | 98,9
-
-Tablo 38: Resmi Kalkınma Yardımları
 
 Kaynak: OECD DAC İstatistikleri
 
@@ -4619,6 +4647,9 @@ Kaynak: OECD DAC İstatistikleri
 
 - Son  on  yılda  Türkiye'nin  AB  ülkeleri  ile  ticaretinin  toplam  ticaret  içindeki  payı azalırken;  komşu  ülkeler  ve  bölge  ülkeleriyle  olan  ticaretinin  payında  önemli  ölçüde artış görülmektedir. Bu çerçevede, Yüksek Düzeyli Stratejik İşbirliği Konseyi mekanizmaları  aracılığıyla başlatılan kapsamlı  ekonomik  işbirliği ve ikili STA  ile yoğunlaşan teknik işbirliği ve kalkınma işbirliği programları, Türkiye'nin yakın coğrafyasıyla  artan  ve  çeşitlenen  iktisadi  ve  ticari  etkileşiminin  önünü  açmakta  ve ilişkilerin kurumsallaşmasını sağlamaktadır.
 
+Tablo 39: Ülke Gruplarının Türkiye'nin Toplam İhracatı İçindeki Payları
+
+(Yüzde)
 2002 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | ---
 Avrupa Birliği (AB-27) | 56,6 | 48,0 | 46,0 | 46,3 | 46,2 | 38,8
@@ -4626,22 +4657,19 @@ Avrupa Birliği (AB-27) | 56,6 | 48,0 | 46,0 | 46,3 | 46,2 | 38,8
 Ortadoğu ve Kuzey Afrika (ODKA) | 13,1 | 23,7 | 26,1 | 26,6 | 25,7 | 34,0
 Kara Sınırı Olan Komşu Ülkeler | 5,3 | 10,8 | 13,5 | 14,2 | 14,7 | 18,5
 
-Tablo 39: Ülke Gruplarının Türkiye'nin Toplam İhracatı İçindeki Payları
-
 Kaynak: TÜİK
 
-2002 | 2008 | 2009 | 2010 | 2011 | (Yüzde) 2012
+Tablo 40: Ülke Gruplarının Türkiye'nin Toplam İthalatı İçindeki Payları
+
+(Yüzde)
+2002 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | ---
 Avrupa Birliği (AB-27) | 49,8 | 36,8 | 40,1 | 38,9 | 37,8 | 37,0
 İslam İşbirliği Teşkilatı (İİT) | 7,3 | 10,9 | 9,5 | 12,0 | 13,0 | 13,4
 Ortadoğu ve Kuzey Afrika (ODKA) | 6,2 | 8,3 | 6,6 | 8,7 | 9,9 | 10,4
 Kara Sınırı Olan Komşu Ülkeler | 4,4 | 6,2 | 4,6 | 6,5 | 7,7 | 8,0
 
-Tablo 40: Ülke Gruplarının Türkiye'nin Toplam İthalatı İçindeki Payları
-
 Kaynak: TÜİK
-
-(Yüzde)
 
 165
 
@@ -4653,11 +4681,11 @@ Kaynak: TÜİK
 
 - Kurucu  üyesi  olduğumuz  EİT,  ülkemizin  komşu  ülkelerle  ve  yakın  coğrafyası  ile ekonomik  ilişkilerinin  geliştirilmesinde  önemli  bir  potansiyel  taşımaktadır.  Ancak uzmanlık kapasitesi ve mali kısıtları göz önüne alındığında, EİT'in yürüttüğü faaliyetlerin  öncelik  arz  eden  işbirliği  alanlarında  sonuç  odaklı  program  ve  projelere yoğunlaştırılması  gerekli  görülmektedir.  Bu  kapsamda  Türkiye'nin  önerisiyle  kurulan Akil  Adamlar  Grubu;  EİT'in  daha  etkin,  dinamik  ve  görünürlüğü  yüksek  bir  teşkilat haline gelmesine önemli bir katkı sağlayacaktır.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - AB,  bölge  ülkeleri  ve  bölgesel  oluşumlarla  karşılıklı  ekonomik,  sosyal  ve  kültürel faaliyetlerin artırılması ve çok taraflı ve bölgesel işbirliklerinden daha etkin yararlanılması temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - AB'ye  tam  üyeliğe  yönelik  çalışmalar  kararlılıkla  sürdürülecek,  tam  üyelik  hedefi çerçevesinde gerçekleştirilecek reformlarla sürecin getireceği faydaların azami düzeye çıkarılmasına  odaklanılacak,  ilişkiler  hukukun  üstünlüğü  temelinde,  uzun  dönemli  ve karşılıklı yarar ilkesi doğrultusunda yürütülecektir.
 
@@ -4675,7 +4703,7 @@ Kaynak: TÜİK
 
 [[START OF PAGE 168]]
 
-- sağlanacak,  başta  vizeler  olmak  üzere  bu  tür  faaliyetlerin  yürütülmesini  engelleyen veya zorlaştıran uygulamaların sonlandırılması için çabalar yoğunlaştırılacaktır.
+sağlanacak,  başta  vizeler  olmak  üzere  bu  tür  faaliyetlerin  yürütülmesini  engelleyen veya zorlaştıran uygulamaların sonlandırılması için çabalar yoğunlaştırılacaktır.
 
 - Komşu  ülkelerle  ve  bölge  ülkeleriyle  karşılıklı  ekonomik  faaliyetler  artırılacak  ve çeşitlendirilecektir.
 
@@ -4709,7 +4737,7 @@ Kaynak: TÜİK
 
 [[START OF PAGE 169]]
 
-- değerlendirilecektir. Bu kapsamda yakın bölgeye odaklanan sektörel stratejiler, ortak program ve projeler hazırlanacaktır.
+değerlendirilecektir. Bu kapsamda yakın bölgeye odaklanan sektörel stratejiler, ortak program ve projeler hazırlanacaktır.
 
 ##### 2.4.3. Küresel Kalkınma Gündemine Katkı
 
@@ -4733,13 +4761,13 @@ Kaynak: TÜİK
 
 [[START OF PAGE 170]]
 
-- oluşturulması  ve  kurumsal  yapıların  güçlendirilmesi  Türkiye'nin  bölgesel  ve  küresel düzeydeki sorumluluk bilinci ve yaklaşımı açısından önem arz etmektedir.
+oluşturulması  ve  kurumsal  yapıların  güçlendirilmesi  Türkiye'nin  bölgesel  ve  küresel düzeydeki sorumluluk bilinci ve yaklaşımı açısından önem arz etmektedir.
 
-###### Amaç ve Hedefler
+###### b. Amaç ve Hedefler
 
 - Yükselen  ekonomiler  ve  EAGÜ'ler  başta  olmak  üzere  küresel  ölçekte  geliştirilen ilişkiler, küresel yönetişimin iyileştirilmesine yönelik girişimler ve uluslararası kuruluşlarda artan etkinlikler aracılığıyla küresel kalkınma gündemine daha nitelikli ve güçlü katkıların sunulması temel amaçtır.
 
-###### Politikalar
+###### c. Politikalar
 
 - Türkiye çok taraflı platformlarda küresel ekonomik yönetişimin iyileştirilmesine dönük aktif  çalışmalar  yürütecek,  üye  ülkeler  arasında  daha  yakın  işbirliği  ve  koordinasyon sağlanmasına azami gayret gösterecektir.
 
@@ -4861,17 +4889,10 @@ Genel Koordinatör: Kalkınma Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- 1.
-
-- Bileşen: Kalkınma Bakanlığı
-
-- 2.
-
-- Bileşen: KOSGEB
-
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
-
-- Bileşen: Ekonomi Bakanlığı
+1. Bileşen: Kalkınma Bakanlığı
+2. Bileşen: KOSGEB
+3. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+4. Bileşen: Ekonomi Bakanlığı
 
 173
 
@@ -4959,13 +4980,13 @@ Genel Koordinatör: Ekonomi Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+1. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+2. Bileşen: Ekonomi Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+3. Bileşen: Ekonomi Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+4. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
 175
 
@@ -5049,7 +5070,7 @@ Bu  program  çerçevesinde,  yüksek  ve  istikrarlı  bir  büyüme  dinamiği
 
  Kredi maliyetlerinin farklılaştırılması ve diğer teşvik edici veya caydırıcı önlemlerle ticari kredilerin toplam krediler içerisindeki payının artırılması
 
-###### Bileşen: Tamamlayıcı Sigortacılığın Geliştirilmesi
+###### 4. Bileşen: Tamamlayıcı Sigortacılığın Geliştirilmesi
 
  Bireysel emeklilik sisteminin (BES) daha da genişletilmesi için yönetim ve işletim giderlerinin uluslararası düzeylere yaklaştırılması
 
@@ -5057,29 +5078,27 @@ Bu  program  çerçevesinde,  yüksek  ve  istikrarlı  bir  büyüme  dinamiği
 
  Uzun vadeli hayat sigortaları ürünlerinin geliştirilmesi
 
-###### Bileşen:  Vergisel Araçlarla Tasarrufların Özendirilmesi ve Üretken Yatırımlara Yönlendirilmesi
+###### 5. Bileşen: Vergisel Araçlarla Tasarrufların Özendirilmesi ve Üretken Yatırımlara Yönlendirilmesi
 
  Dolaylı vergi kompozisyonunun tasarruf önceliği çerçevesinde gözden geçirilmesi
 
  Vergisel araçlarla üretken yatırımların özendirilmesi
 
-##### Koordinatör ve Sorumlu Kurum/Kuruluşlar
-
-- Bileşen: Sermaye Piyasası Kurulu
-
-- Bileşen: Gümrük ve Ticaret Bakanlığı
-
-- 3.
-
-- Bileşen: Bankacılık Düzenleme ve Denetleme Kurumu
-
-- Bileşen: Hazine Müsteşarlığı
-
-- Bileşen: Maliye Bakanlığı
+##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
 Genel Koordinatör: Kalkınma Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
+
+1. Bileşen: Sermaye Piyasası Kurulu
+
+2. Bileşen: Gümrük ve Ticaret Bakanlığı
+
+3. Bileşen: Bankacılık Düzenleme ve Denetleme Kurumu
+
+4. Bileşen: Hazine Müsteşarlığı
+
+5. Bileşen: Maliye Bakanlığı
 
 177
 
@@ -5193,21 +5212,21 @@ Ekonomik  büyümenin  desteklenmesi  ve  katma  değeri  yüksek  olan  finans 
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Kalkınma Bakanlığı Bileşenlerden Sorumlu Kurumlar
+Genel Koordinatör: Kalkınma Bakanlığı
 
-- 1.
+Bileşenlerden Sorumlu Kurumlar
 
-- Bileşen: Kalkınma Bakanlığı
+1. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Sermaye Piyasası Kurulu
+2. Bileşen: Sermaye Piyasası Kurulu
 
-- Bileşen: Adalet Bakanlığı
+3. Bileşen: Adalet Bakanlığı
 
-- Bileşen: İstanbul Büyükşehir Belediyesi
+4. Bileşen: İstanbul Büyükşehir Belediyesi
 
-- Bileşen: Borsa İstanbul
+5. Bileşen: Borsa İstanbul
 
-- Bileşen: Milli Eğitim Bakanlığı
+6. Bileşen: Milli Eğitim Bakanlığı
 
 179
 
@@ -5319,19 +5338,21 @@ Bu program çerçevesinde, mevcut harcama programları gözden geçirilerek veri
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatörler: Kalkınma Bakanlığı, Maliye Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatörler: Kalkınma Bakanlığı, Maliye Bakanlığı
 
-- Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
+1. Bileşen: Aile ve Sosyal Politikalar Bakanlığı
 
-- Bileşen: Kalkınma Bakanlığı
+2. Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
 
-- Bileşen: Maliye Bakanlığı
+3. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Maliye Bakanlığı
+4. Bileşen: Maliye Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+5. Bileşen: Maliye Bakanlığı
+
+6. Bileşen: Sağlık Bakanlığı
 
 181
 
@@ -5433,19 +5454,15 @@ Genel Koordinatör: Maliye Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- 1.
+1. Bileşen: Maliye Bakanlığı
 
-- Bileşen: Maliye Bakanlığı
+2. Bileşen: Gelir İdaresi Başkanlığı
 
-- Bileşen: Gelir İdaresi Başkanlığı
+3. Bileşen: Maliye Bakanlığı
 
-- Bileşen: Maliye Bakanlığı
+4. Bileşen: Gelir İdaresi Başkanlığı
 
-- 4.
-
-- Bileşen: Gelir İdaresi Başkanlığı
-
-- Bileşen: İçişleri Bakanlığı
+5. Bileşen: İçişleri Bakanlığı
 
 183
 
@@ -5507,7 +5524,7 @@ Bu  programda,  iş  ve  yatırım  ortamının  öncelikli  sorunlarına  odakl
 
  Mevzuatın uluslararası standartlara ve en iyi uygulamalara uygun şekilde güncellenmesi
 
-###### Bileşen: Yatırım Yeri Temininin Kolaylaştırılması
+###### 3. Bileşen: Yatırım Yeri Temininin Kolaylaştırılması
 
  İllerde yatırıma uygun arazilerin tespiti ve arazi envanterinin oluşturulması
 
@@ -5517,25 +5534,25 @@ Bu  programda,  iş  ve  yatırım  ortamının  öncelikli  sorunlarına  odakl
 
  Stratejik ve büyük ölçekli yatırımlara uygun yatırım yerleri hazırlanması
 
-###### Bileşen: İş ve Yatırım Ortamıyla İlgili Yönetişimin Bölgesel Düzeyde Geliştirilmesi
+###### 4. Bileşen: İş ve Yatırım Ortamıyla İlgili Yönetişimin Bölgesel Düzeyde Geliştirilmesi
 
  İş  ve  yatırım  ortamıyla  ilgili  ulusal  ve  bölgesel  düzeyde  göstergeler  geliştirilerek düzenli takip ve değerlendirme sistemi oluşturulması
 
  İş  ve  yatırım  ortamının  iyileştirilmesine  yönelik  yaklaşımın  bölgesel  düzeyde yaygınlaştırılması, geliştirilmesi ve yatırımcının yerel düzeyde desteklenmesi
 
-##### Koordinatör ve Sorumlu Kurum/Kuruluşlar
+##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Ekonomi Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Ekonomi Bakanlığı
 
-- Bileşen: Başbakanlık
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Adalet Bakanlığı
+1. Bileşen: Başbakanlık
 
-- 3.
+2. Bileşen: Adalet Bakanlığı
 
-- Bileşen: Çevre ve Şehircilik Bakanlığı
+3. Bileşen: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Kalkınma Bakanlığı
+4. Bileşen: Kalkınma Bakanlığı
 
 185
 
@@ -5631,19 +5648,15 @@ Genel Koordinatör: Çalışma ve Sosyal Güvenlik Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- 1.
+1. Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
 
-- Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
+2. Bileşen: İŞKUR
 
-- 2.
+3. Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
 
-- Bileşen: İŞKUR
+4. Bileşen: İŞKUR
 
-- Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
-
-- Bileşen: İŞKUR
-
-- Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
+5. Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
 
 187
 
@@ -5731,15 +5744,15 @@ Genel Koordinatör: Gelir İdaresi Başkanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Kalkınma Bakanlığı
+1. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Gelir İdaresi Başkanlığı
+2. Bileşen: Gelir İdaresi Başkanlığı
 
-- Bileşen: Gelir İdaresi Başkanlığı
+3. Bileşen: Gelir İdaresi Başkanlığı
 
-- Bileşen: Gelir İdaresi Başkanlığı
+4. Bileşen: Gelir İdaresi Başkanlığı
 
-- Bileşen: Gümrük ve Ticaret Bakanlığı
+5. Bileşen: Gümrük ve Ticaret Bakanlığı
 
 189
 
@@ -5827,13 +5840,15 @@ Paylaşımcı, işbirliğine dayalı ve planlı bir  istatistik üretim süreci 
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Türkiye İstatistik Kurumu Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Türkiye İstatistik Kurumu
 
-- Bileşen: Kalkınma Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Türkiye İstatistik Kurumu
+1. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Türkiye İstatistik Kurumu
+2. Bileşen: Türkiye İstatistik Kurumu
+
+3. Bileşen: Türkiye İstatistik Kurumu
 
 191
 
@@ -5939,19 +5954,19 @@ Bu  programla,  ülke  açısından  önem  taşıyan  sektörlerde,  uluslarara
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Bilim, Sanayi ve Teknoloji Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- 1.
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+1. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+2. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+3. Bileşen: Ekonomi Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+4. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+5. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
 193
 
@@ -5993,7 +6008,7 @@ Program  kapsamında  kamu  alımları  ve  kullanım  hakkı  tahsislerinde  ye
 
 ##### iv. Program Bileşenleri
 
-###### Bileşen: Kamu Tedarik Sisteminin Ar-Ge ve Yeniliği Destekleyecek Şekilde Düzenlenmesi
+###### 1. Bileşen: Kamu Tedarik Sisteminin Ar-Ge ve Yeniliği Destekleyecek Şekilde Düzenlenmesi
 
  Kamu kurum ve kuruluşlarının uzun vadeli ihtiyaç planlaması yapmasının sağlanması
 
@@ -6043,17 +6058,19 @@ Program  kapsamında  kamu  alımları  ve  kullanım  hakkı  tahsislerinde  ye
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Bilim, Sanayi ve Teknoloji Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+1. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+2. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+3. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+4. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+
+5. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
 195
 
@@ -6099,7 +6116,7 @@ Türkiye  ekonomisinin  yüksek  ve  istikrarlı  büyüyebilmesi  için  mümk�
 
  Kömür aramalarına hız verilerek rezervlerin artırılması
 
- Yerli kömürlerin kullanımdaki ısıl değerini artıracak veya kalitesini yükseltecek ArGe çalışmalarına ağırlık verilmesi
+ Yerli kömürlerin kullanımdaki ısıl değerini artıracak veya kalitesini yükseltecek Ar-Ge çalışmalarına ağırlık verilmesi
 
  Yerli kömürlere dayalı elektrik üretim tesisi yatırımlarına yönelik teşvik uygulamasının izlenerek ihtiyaçlara göre güncellenmesi
 
@@ -6135,15 +6152,17 @@ Türkiye  ekonomisinin  yüksek  ve  istikrarlı  büyüyebilmesi  için  mümk�
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+1. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+2. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+3. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+
+4. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
 197
 
@@ -6155,7 +6174,7 @@ Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı Bileşenlerden Soruml
 
 ##### i. Programın Amacı ve Kapsamı
 
-Türkiye,  son  yıllarda  enerji  verimliliği  alanında  kaydettiği  ilerlemelere  rağmen,  gelişmiş ülkelere  kıyasla  'enerji  yoğun'  ekonomilerden  biridir.  Uluslararası  Enerji  Ajansı  (IEA)  ve Eurostat  verilerine  göre,  ülkemizde  enerji  yoğunluğu  OECD  ve  AB-27  ortalamalarının üzerindedir.
+Türkiye,  son  yıllarda  enerji  verimliliği  alanında  kaydettiği  ilerlemelere  rağmen,  gelişmiş ülkelere  kıyasla  “enerji  yoğun”  ekonomilerden  biridir.  Uluslararası  Enerji  Ajansı  (IEA)  ve Eurostat  verilerine  göre,  ülkemizde  enerji  yoğunluğu  OECD  ve  AB-27  ortalamalarının üzerindedir.
 
 Türkiye'nin gelişmiş ülkelere kıyasla yüksek olan enerji yoğunluğunun düşürülmesi ve enerji verimliliği  alanında  iyileştirmeler  yapılması  sürdürülebilir  kalkınma  açısından  önem  arz etmektedir. 2012 yılında yürürlüğe giren Enerji Verimliliği Strateji Belgesi (2012-2023), enerji verimliliği alanında yapılması gereken çalışmalara ışık tutan bir niteliğe sahiptir. Bu programla seçilmiş bazı sektör ve alanlarda enerji verimliliğini iyileştirmeye yönelik çalışmalar yürütülmesi, mevcut bazı uygulamaların yaygınlaştırılması, örnek uygulamaların duyurularak kamuoyu bilincinin yükseltilmesi ve nihayetinde talep tarafı yönetimine katkıda bulunulması amaçlanmaktadır.
 
@@ -6175,13 +6194,13 @@ Türkiye'nin gelişmiş ülkelere kıyasla yüksek olan enerji yoğunluğunun d�
 
 ##### iv. Program Bileşenleri
 
-###### Bileşen: Enerji Verimliliğine Yönelik İdari ve Kurumsal Kapasitenin Geliştirilmesi
+###### 1. Bileşen: Enerji Verimliliğine Yönelik İdari ve Kurumsal Kapasitenin Geliştirilmesi
 
  Enerji  verimliliği  çalışmalarının,  idari  ve  mali  açıdan  güçlü,  yatay  sektörlerde çalışmalar  yapabilecek  şekilde  yapılandırılmış  tek  bir  çatı  altında  toplanması  ve farklı sektörlere yönelik politika ve uygulamalar arasında entegrasyonun sağlanması
 
  Enerji  verimliliği  alanında  istatistik,  ölçme-değerlendirme  ve  izlemeye  yönelik bir mekanizma oluşturulması
 
-###### Bileşen: Enerji Verimliliği Çalışmalarının ve Projelerinin Finansmanı İçin Sürdürülebilir Mali Mekanizmaların Geliştirilmesi
+###### 2. Bileşen: Enerji Verimliliği Çalışmalarının ve Projelerinin Finansmanı İçin Sürdürülebilir Mali Mekanizmaların Geliştirilmesi
 
  Uygulanmakta olan mali teşviklerin etkinleştirilmesi ve yaygınlaştırılması
 
@@ -6219,19 +6238,21 @@ Türkiye'nin gelişmiş ülkelere kıyasla yüksek olan enerji yoğunluğunun d�
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+1. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+2. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
-- Bileşen: Çevre ve Şehircilik Bakanlığı
+3. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Ulaştırma, Denizcilik ve Haberleşme Bakanlığı
+4. Bileşen: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
+5. Bileşen: Ulaştırma, Denizcilik ve Haberleşme Bakanlığı
+
+6. Bileşen: Enerji ve Tabii Kaynaklar Bakanlığı
 
 199
 
@@ -6245,7 +6266,7 @@ Genel Koordinatör: Enerji ve Tabii Kaynaklar Bakanlığı Bileşenlerden Soruml
 
 Su  kaynaklarının  etkin  kullanımı  ve  yönetimi,  sürdürülebilir  kalkınma  ve  gıda  güvenliği  için önem taşımaktadır.
 
-Ülkemiz  toplam  112  milyar  m 3 ve  kişi  başına  1.500  m 3 düzeyinde  toplam  tüketilebilir  su potansiyeli ile su kısıtı yaşayan bir ülke konumundadır. Diğer taraftan, bu potansiyel içinde 44 milyar m 3 'e ulaşan toplam kullanımın yüzde 73'ü tarım sektöründe gerçekleşmektedir.
+Ülkemiz toplam 112 milyar m3 ve kişi başına 1.500 m3 düzeyinde toplam tüketilebilir su potansiyeli ile su kısıtı yaşayan bir ülke konumundadır. Diğer taraftan, bu potansiyel içinde 44 milyar m3'e ulaşan toplam kullanımın yüzde 73'ü tarım sektöründe gerçekleşmektedir.
 
 Bu programla tarımda su kullanımının etkinleştirilmesinden başlanarak ülke çapında ve havza bazında  iklim  şartları,  yanlış  ve  aşırı  su  kullanımından  kaynaklanan  veya  kaynaklanması beklenen sorunların çözümü amaçlanmaktadır.
 
@@ -6303,7 +6324,7 @@ Bu programla tarımda su kullanımının etkinleştirilmesinden başlanarak ülk
 
  Suyu tasarruflu kullanan sistemlerin tarımsal üretimde doğru kullanımı için eğitim ve yayım faaliyetlerinin artırılması
 
-###### Bileşen: Destekleme Politikalarının Su Kısıtı Esas Alınarak Gözden Geçirilmesi
+###### 3. Bileşen: Destekleme Politikalarının Su Kısıtı Esas Alınarak Gözden Geçirilmesi
 
  Destekleme politikalarının geliştirilmesinde bölgesel su kısıtı ve çevrenin korunması unsurlarının göz önüne alınması
 
@@ -6329,17 +6350,19 @@ Bu programla tarımda su kullanımının etkinleştirilmesinden başlanarak ülk
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Orman ve Su İşleri Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Orman ve Su İşleri Bakanlığı
 
-- Bileşen: Orman ve Su İşleri Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
+1. Bileşen: Orman ve Su İşleri Bakanlığı
 
-- Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
+2. Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
 
-- Bileşen: Orman ve Su İşleri Bakanlığı
+3. Bileşen: Gıda Tarım ve Hayvancılık Bakanlığı
 
-- Bileşen: Orman ve Su İşleri Bakanlığı
+4. Bileşen: Orman ve Su İşleri Bakanlığı
+
+5. Bileşen: Orman ve Su İşleri Bakanlığı
 
 201
 
@@ -6431,15 +6454,17 @@ Bu kapsamda orta vadede yerli üretim kapasitesinin artırılması, Ar-Ge ve gir
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatörler: Kalkınma Bakanlığı, Sağlık Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatörler: Kalkınma Bakanlığı, Sağlık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+1. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+2. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+3. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+
+4. Bileşen: Ekonomi Bakanlığı
 
 203
 
@@ -6519,7 +6544,7 @@ Bu  programla,  Türkiye'nin  dünyada  yükselen  pazar  konumunda  olduğu  me
 
  Konaklama ve diğer yardımcı hizmetler için kolaylaştırıcı mekanizmaların geliştirilmesi
 
-###### Bileşen:  Sağlık Turizmi Alanında Etkin Tanıtım ve Pazarlama Yapılması
+###### 4. Bileşen: Sağlık Turizmi Alanında Etkin Tanıtım ve Pazarlama Yapılması
 
  Hedef ülke ve bölgelerde tanıtım ve pazarlama faaliyetlerinin artırılması
 
@@ -6531,15 +6556,13 @@ Genel Koordinatörler: Sağlık Bakanlığı, Kültür ve Turizm Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- 1.
+1. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+2. Bileşen: Kültür ve Turizm Bakanlığı
 
-- Bileşen: Kültür ve Turizm Bakanlığı
+3. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
-
-- Bileşen: Kültür ve Turizm Bakanlığı
+4. Bileşen: Kültür ve Turizm Bakanlığı
 
 205
 
@@ -6647,19 +6670,21 @@ Program, lojistik  alanında  etkin  ve  verimli  planlama  yapabilmek  amacıyl
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatörler: Kalkınma Bakanlığı, Ulaştırma, Denizcilik ve Haberleşme Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatörler: Kalkınma Bakanlığı, Ulaştırma, Denizcilik ve Haberleşme Bakanlığı
 
-- Bileşen: Kalkınma Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Çevre ve Şehircilik Bakanlığı
+1. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Gümrük ve Ticaret Bakanlığı
+2. Bileşen: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Ulaştırma, Denizcilik ve Haberleşme Bakanlığı
+3. Bileşen: Gümrük ve Ticaret Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+4. Bileşen: Ulaştırma, Denizcilik ve Haberleşme Bakanlığı
 
-- Bileşen: Ekonomi Bakanlığı
+5. Bileşen: Ekonomi Bakanlığı
+
+6. Bileşen: Ekonomi Bakanlığı
 
 207
 
@@ -6745,15 +6770,15 @@ Genel Koordinatör: Çalışma ve Sosyal Güvenlik Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
+1. Bileşen: Çalışma ve Sosyal Güvenlik Bakanlığı
 
-- Bileşen: Milli Eğitim Bakanlığı
+2. Bileşen: Milli Eğitim Bakanlığı
 
-- Bileşen: İŞKUR
+3. Bileşen: İŞKUR
 
-- Bileşen: Gençlik ve Spor Bakanlığı
+4. Bileşen: Gençlik ve Spor Bakanlığı
 
-- Bileşen: Mesleki Yeterlilik Kurumu
+5. Bileşen: Mesleki Yeterlilik Kurumu
 
 209
 
@@ -6847,13 +6872,15 @@ Programın hedef kitlesi başta yurtdışında yaşayan, Türkiye'ye ivme kazand
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Türkiye Bilimsel ve Teknik Araştırma Kurumu Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Türkiye Bilimsel ve Teknik Araştırma Kurumu
 
-- Bileşen: Türkiye Bilimsel ve Teknik Araştırma Kurumu
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+1. Bileşen: Türkiye Bilimsel ve Teknik Araştırma Kurumu
 
-- Bileşen: Türkiye Bilimsel ve Teknik Araştırma Kurumu
+2. Bileşen: Bilim, Sanayi ve Teknoloji Bakanlığı
+
+3. Bileşen: Türkiye Bilimsel ve Teknik Araştırma Kurumu
 
 211
 
@@ -6927,7 +6954,7 @@ Bu  programla  sağlıksız  beslenme,  hareketsiz  yaşam,  tütün  kullanım�
 
  Tütün kullanımıyla ilgili kapalı mekân yasaklarının etkin bir şekilde uygulanması
 
-###### Bileşen:  Kanser,  Kalp  ve  Damar  ve  Diyabet  gibi  Bulaşıcı  Olmayan  Hastalıkların Görülme Sıklığının ve Risk Faktörlerinin Azaltılması
+###### 4. Bileşen: Kanser, Kalp ve Damar ve Diyabet gibi Bulaşıcı Olmayan Hastalıkların Görülme Sıklığının ve Risk Faktörlerinin Azaltılması
 
  Bulaşıcı  olmayan  hastalıklar  konusunda  eğitim  ve  kampanyalar  düzenlenmesi, izlem ve yönetim için sürveyans sisteminin kurulması
 
@@ -6955,19 +6982,21 @@ Bu  programla  sağlıksız  beslenme,  hareketsiz  yaşam,  tütün  kullanım�
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Sağlık Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Sağlık Bakanlığı
 
-- Bileşen: Gıda, Tarım ve Hayvancılık Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Sağlık Bakanlığı
+1. Bileşen: Gıda, Tarım ve Hayvancılık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+2. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+3. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Sağlık Bakanlığı
+4. Bileşen: Sağlık Bakanlığı
 
-- Bileşen: Gençlik ve Spor Bakanlığı
+5. Bileşen: Sağlık Bakanlığı
+
+6. Bileşen: Gençlik ve Spor Bakanlığı
 
 213
 
@@ -7051,13 +7080,15 @@ Program  kapsamında  aile  refahının  korunması,  evlilik  öncesi  eğitim 
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar:
 
-Genel Koordinatör: Aile ve Sosyal Politikalar Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Aile ve Sosyal Politikalar Bakanlığı
 
-- Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+1. Bileşen: Aile ve Sosyal Politikalar Bakanlığı
 
-- Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+2. Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+
+3. Bileşen: Aile ve Sosyal Politikalar Bakanlığı
 
 215
 
@@ -7121,7 +7152,7 @@ Programın  hedef  kitlesi;  merkezi  idarelerin  taşra  teşkilatları,  büy�
 
  Başta büyükşehir belediyeleri olmak  üzere  mahalli idarelerin mali  yönetim kapasitesinin ve öz gelirlerinin artırılması
 
-###### Bileşen: Yerelde Kapasite, Yönetişim ve Katılımcılığın Geliştirilmesi
+###### 2. Bileşen: Yerelde Kapasite, Yönetişim ve Katılımcılığın Geliştirilmesi
 
  Merkezi  idarenin  taşra  teşkilatının  ve  mahalli  idarelerin  yeterli  sayı  ve  nitelikte personele sahip olmalarının desteklenmesi, beşeri kaynak yönetiminin güçlendirilmesi
 
@@ -7135,19 +7166,15 @@ Programın  hedef  kitlesi;  merkezi  idarelerin  taşra  teşkilatları,  büy�
 
  Sivil ve mesleki örgütlülüğün artırılması
 
-##### Koordinatör ve Sorumlu Kurum/Kuruluşlar
+##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
 Genel Koordinatör: Kalkınma Bakanlığı
 
 Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- 1.
+1. Bileşen: İçişleri Bakanlığı
 
-- Bileşen: İçişleri Başkanlığı
-
-- 2.
-
-- Bileşen: Kalkınma Bakanlığı
+2. Bileşen: Kalkınma Bakanlığı
 
 217
 
@@ -7251,17 +7278,19 @@ Program  kapsamında,  kentsel  dönüşümün  yerli  ve  yenilikçi  üretimi 
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Çevre ve Şehircilik Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Çevre ve Şehircilik Bakanlığı
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Çevre ve Şehircilik Bakanlığı
+1. Bileşen: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Kalkınma Bakanlığı
+2. Bileşen: Çevre ve Şehircilik Bakanlığı
 
-- Bileşen: Toplu Konut İdaresi Başkanlığı
+3. Bileşen: Kalkınma Bakanlığı
 
-- Bileşen: Aile ve Sosyal Politikalar Bakanlığı
+4. Bileşen: Toplu Konut İdaresi Başkanlığı
+
+5. Bileşen: Aile ve Sosyal Politikalar Bakanlığı
 
 219
 
@@ -7331,7 +7360,7 @@ Programın  amacı,  kalkınma  işbirliği  politikasının  stratejik  bir  ç
 
  Uzman  görevlendirme  ve  hizmet  alımı  konularında  bu  birimlerin  esnekliğinin artırılması
 
-###### Bileşen: Yurtdışı Misyonların Uzmanlık Kapasitelerinin Güçlendirilmesi
+###### 4. Bileşen: Yurtdışı Misyonların Uzmanlık Kapasitelerinin Güçlendirilmesi
 
  Yurtdışı  misyonlarda  ihtiyaç  duyulan  uzman  personele  yönelik  esnek  istihdam biçimlerinin geliştirilmesi
 
@@ -7345,19 +7374,19 @@ Programın  amacı,  kalkınma  işbirliği  politikasının  stratejik  bir  ç
 
 ##### v. Koordinatör ve Sorumlu Kurum/Kuruluşlar
 
-Genel Koordinatör: Kalkınma Bakanlığı Bileşenlerden Sorumlu Kurum/Kuruluş
+Genel Koordinatör: Kalkınma Bakanlığı
 
-- 1.
+Bileşenlerden Sorumlu Kurum/Kuruluş
 
-- Bileşen: Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı
+1. Bileşen: Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı
 
-- Bileşen: Milli Eğitim Bakanlığı
+2. Bileşen: Milli Eğitim Bakanlığı
 
-- Bileşen: Başbakanlık
+3. Bileşen: Başbakanlık
 
-- Bileşen: Dışişleri Bakanlığı
+4. Bileşen: Dışişleri Bakanlığı
 
-- Bileşen: Afet ve Acil Durum Yönetimi Başkanlığı
+5. Bileşen: Afet ve Acil Durum Yönetimi Başkanlığı
 
 221
 
