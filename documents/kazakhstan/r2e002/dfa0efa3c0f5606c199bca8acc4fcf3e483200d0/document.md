@@ -26,6 +26,20 @@ The views presented in this publication are those of the authors and do not nece
 
 ## Table of Contents:
 
+EXECUTIVE SUMMARY 11
+
+GOAL 1. TO ERADICATE EXTREME POVERTY AND HUNGER 16
+
+Target 1. To halve, between 1990 and 2015, the proportion of people whose income is below the subsistence minimum
+
+Target 2. To halve, between 1990 and 2015, the proportion of people who suffer from hunger
+
+GOAL 2. TO ACHIEVE UNIVERSAL PRIMARY EDUCATION 36
+
+Target 3. To ensure that by 2015 children everywhere, boys and girls alike, will be able to complete a full course of primary schooling
+
+GOAL 3. TO PROMOTE GENDER EQUALITY AND EMPOWER WOMEN 50
+
 Target 4. To eliminate gender disparity in primary and secondary education, preferably by 2005 and at all levels of education no later than 2015
 
 Target 4+.
@@ -40,25 +54,44 @@ Target 4+.
 
 [[START OF PAGE 5]]
 
+GOAL 4. TO REDUCE CHILD MORTALITY 60
+
+Target 5. To reduce by two thirds, between 1990 and 2015, the under-five mortality rate
+
+GOAL 5. TO IMPROVE MATERNAL HEALTH 70
+
+Target 6. To reduce by three quarters, between 1990 and 2015, the maternal mortality ratio.
+By 2015, to achieve universal access to reproductive health
+
+GOAL 6. TO COMBAT HIV/AIDS AND TUBERCULOSIS 82
+
+Target 7. To halt, by 2015, and begin to reverse the spread of HIV/AIDS
+
+Target 8. To halt, by 2015, and begin to reverse the incidence of tuberculosis
+
+GOAL 7. TO ENSURE ENVIRONMENTAL SUSTAINABILITY 96
+
+Target 9. To integrate the principles of sustainable development into the country's policies and programmes and reverse the loss of environmental resources
+
+Target 10. To halve, by 2015, the proportion of people without sustainable access to clean drinking water and main sanitary technical facilities
+
+Target 11. To achieve, by 2020, a significant improvement in the lives of the rural population residing in the most unfavourable social, housing and ecological environment
+
+GOAL 8. TO DEVELOP A GLOBAL PARTNERSHIP FOR DEVELOPMENT 116
+
+ANNEXES 125
+
+GLOSSARY 137
+
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-
-
-GOAL 8.  TO DEVELOP A GLOBAL PARTNERSHIP FOR DEVELOPMENT
-
-ANNEXES
-
-125
-
-GLOSSARY
-
-137
+3
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-
+4
 
 ## Acronyms and Abbreviations
 
@@ -144,7 +177,7 @@ MLSP | Ministry of Labour and Social Protection
 MM | Mass Media
 MMR | Maternal Mortality Ratio
 
-
+5
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -193,7 +226,7 @@ SNR | State Nature Reserve
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-
+6
 
 [[END OF PAGE 8]]
 
@@ -238,7 +271,7 @@ WB | World Bank
 WHO | World Health Organisation
 WTO | World Trade Organisation
 
-
+7
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -260,7 +293,7 @@ Kanat Saudabayev, State Secretary, Minister of Foreign Affairs Republic of Kazak
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-
+8
 
 [[END OF PAGE 10]]
 
@@ -286,7 +319,7 @@ Hanaa Singer UN Acting Resident Coordinator in the Republic of Kazakhstan
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-
+9
 
 [[END OF PAGE 11]]
 
@@ -328,7 +361,7 @@ Achievement of this target by 2015 will require an enabling environment in rural
 
 In Kazakhstan Target 2, calling for halving the proportion of people worldwide who suffer from hunger as part of MDG 1, to eradicate extreme poverty and hunger, has now been achieved. For Kazakhstan, the issue of hunger is no longer urgent. Therefore, Target 2 was adapted in 2007 to a national target of halving the proportion of people having no access to balanced nutrition.
 
-A substantial proportion of the population, especially those from risk groups including children and women of reproductive age, need to have better nutrition. Particularly, some children under five, who are under-weight and under-height, factors which characterise nutrition quality. Deficiency of some micro-nutrients remains high among risk groups; such deficiency is called 'hidden hunger' .
+A substantial proportion of the population, especially those from risk groups including children and women of reproductive age, need to have better nutrition. Particularly, some children under five, who are under-weight and under-height,
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -337,6 +370,8 @@ MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+factors which characterise nutrition quality. Deficiency of some micro-nutrients remains high among risk groups; such deficiency is called 'hidden hunger'.
 
 The reduction and eradication of micro-nutrient deficiency will help to significantly improve health and reduce child and maternal mortality, which is a contribution to the achievement of MDG 4 and 5. This will require preparation, government approval and implementation of a comprehensive programme on balanced nutritition for children under five and prevention of malnutritition and nutritional status abnormalities.
 
@@ -494,11 +529,11 @@ MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 [[START OF PAGE 18]]
 
+## GOAL 1 To Eradicate Extreme Poverty and Hunger
+
 ### Target 1
 
 To halve, between 1990 and 2015, the proportion of people whose income is below the subsistence minimum
-
-## GoAl 1 To Eradicate Extreme Poverty and Hunger
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -512,7 +547,7 @@ To Eradicate Extreme Poverty and Hunger
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-To Eradicate Extreme Poverty and Hunger The baseline for Target 1 monitoring is 1996 data, this being the year when the Agency for Statistics, with the World Bank's support, performed a quantitative poverty assessment in Kazakhstan for the first time since independence, yielding a poverty level of 34.6 percent.
+To Eradicate Extreme Poverty and Hunger
 
 17
 
@@ -520,7 +555,9 @@ To Eradicate Extreme Poverty and Hunger The baseline for Target 1 monitoring is 
 
 [[START OF PAGE 20]]
 
-As noted in the 2005 National MDG Report, Kazakhstan had already achieved Target 1 of MDG 1, halving the proportion of people with incomes below the subsistence minimum, in  2004.  Poverty, however, remains a serious problem for the country, especially in rural areas, which is why the 2007 MDG report proposed a new MDG 1+ target, which is halving the proportion of people in rural areas with incomes below the subsistence minimum.
+The baseline for Target 1 monitoring is 1996 data, this being the year when the Agency for Statistics, with the World Bank's support, performed a quantitative poverty assessment in Kazakhstan for the first time since independence, yielding a poverty level of 34.6 percent.
+
+As noted in the 2005 National MDG Report, Kazakhstan had already achieved Target 1 of MDG 1, halving the proportion of people with incomes below the subsistence minimum, in 2004. Poverty, however, remains a serious problem for the country, especially in rural areas, which is why the 2007 MDG report proposed a new MDG 1+ target, which is halving the proportion of people in rural areas with incomes below the subsistence minimum.
 
 New 1+ indicators were adopted to measure the achievement of this target:
 
@@ -554,10 +591,10 @@ Table 1.1 Incidence of Poverty in Kazakhstan 2001-2009
 
 Poverty indicators | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Average per capita household consump- tion income, KZT | 5,729 | 6,518 | 7,569 | 8,387 | 9,751 | 13,723 | 16,935 | 20,037 | 21,348
-Subsistence minimum based on the 2006 methodology, KZT | 4,945 | 5,655 | 6,003 | 6,457 | 6,785 | 7,618 | 8,410 | 9,653 | 1,2364
+Average per capita household consumption income, KZT | 5,729 | 6,518 | 7,569 | 8,387 | 9,751 | 13,723 | 16,935 | 20,037 | 21,348
+Subsistence minimum based on the 2006 methodology, KZT | 4,945 | 5,655 | 6,003 | 6,457 | 6,785 | 7,618 | 8,410 | 9,653 | 12,364
 Consumption income as a percentage of the subsistence minimum | 101.3 | 108.6 | 117.2 | 123.6 | 128.0 | 163.2 | 175.4 | 162.1 | 168.6
-Subsistence minimum based on the pre- 2006 methodology, KZT | 4,007 | 4,596 | 4,761 | 5,128 | 5,427
+Subsistence minimum based on the pre-2006 methodology, KZT | 4,007 | 4,596 | 4,761 | 5,128 | 5,427 |  |  |  |
 Percentage of population with incomes below the subsistence minimum | 46.7 | 44.5 | 37.5 | 33.9 | 31.6 | 18.2 | 12.7 | 12.1 | 8.2
 Poverty depth, % | 14.8 | 13.3 | 10.2 | 8.3 | 7.5 | 3.9 | 2.4 | 2.3 | 1.3
 Poverty acuteness, % | 6.5 | 5.5 | 3.9 | 2.9 | 2.5 | 1.3 | 0.8 | 0.7 | 0.3
@@ -589,15 +626,28 @@ Another measure of income inequality is the income concentration  ratio  (Gini  
 
 The share of the poorest quintile of the population in na-
 
+Figure 1.2. Distribution of Consumption Income by Quintile Groups 2001-2009 (%)
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 41.9 | 41.4 | 40.0 | 39.55 | 38.61 | 40.68 | 40.54 | 38.89 | 37.02
---- | --- | --- | --- | --- | --- | --- | --- | ---
 23.0 | 22.7 | 23.1 | 22.85 | 22.81 | 22.01 | 21.92 | 22.11 | 22.46
 16.3 | 16.3 | 16.7 | 16.75 | 16.81 | 16.37 | 16.45 | 16.76 | 17.24
 11.6 | 11.9 | 12.2 | 12.44 | 12.45 | 12.50 | 12.55 | 13.01 | 13.56
 7.3 | 7.7 | 7.9 | 8.41 | 8.45 | 8.44 | 8.54 | 9.23 | 9.72
-Quintile I 0 2001 2002 | Quintile II 2003 2004 | Quintile III | Quintile IV | Quintile V
 
-Figure  1.2. Distribution of Consumption Income by Quintile Groups 2001-2009 (%)
+Quintile I | Quintile II | Quintile III | Quintile IV | Quintile V
 
 Source: Agency for Statistics.
 
@@ -607,12 +657,12 @@ It should be noted that the RoK's Agency for Statistics uses the equivalence sca
 
 The income of a one-member household is compared to the subsistence minimum and, based on this, a member of a household is classified either as poor or not. As far as the average income of a household consisting of several members is concerned, the income of the first member and the other members of a household is compared to 100 percent and 80 percent of the subsistence minimum, respectively. It is assumed that the first member of the household pays
 
-2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+Table 1.2 Economic Inequality in Kazakhstan 2001-2009
+
+ | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Fund coefficient | 8.8 | 8.1 | 7.4 | 6.8 | 6.8 | 7.4 | 7.2 | 6.2 | 5.33
 Income concentration ratio (Gini coefficient) by 10% groups | 0.339 | 0.328 | 0.315 | 0.305 | 0.304 | 0.312 | 0.309 | 0.288 | 0.267
-
-Table 1.2 Economic Inequality in Kazakhstan 2001-2009
 
 * Since 2003 data have been obtained using the income equivalence scale.
 
@@ -630,9 +680,11 @@ To Eradicate Extreme Poverty and Hunger
 
 [[START OF PAGE 22]]
 
+Table 1.3. Income Distribution by 10 percent Groups, 2009
+
 Deciles | Income Range, KZT | Percentage of Income in the Range | Average Monthly Per Capita Income in the Range, KZT | Increase in the Average Monthly Per Capita Income as % of Subsistence Minimum
 --- | --- | --- | --- | ---
-1 | 0-10,509 | 4.20 | 8,772
+1 | 0-10,509 | 4.20 | 8,772 |
 2 | 10,510-12,404 | 5.52 | 11,511 | 21.6
 3 | 12,405-14,140 | 6.37 | 13,311 | 14.2
 4 | 14,141-15,880 | 7.19 | 14,997 | 13.3
@@ -642,9 +694,7 @@ Deciles | Income Range, KZT | Percentage of Income in the Range | Average Monthl
 8 | 23,342-27,377 | 12.06 | 25,165 | 27.3
 9 | 27,378-34,655 | 14.61 | 30,482 | 42.0
 10 | 34,656-157,568 | 22.41 | 46,789 | 128.8
-Total | 100.00
-
-Table 1.3. Income Distribution by 10 percent Groups, 2009
+Total |  | 100.00 |  |
 
 Source: Agency for Statistics.
 
@@ -658,7 +708,7 @@ When the subsistence minimum methodology was revised in 2006, it was not only th
 
 It  should  be  noted  that  recently  the  pattern  of  cash  expenses has been demonstrating a reverse trend, with the share of food and non-food products and services being 40 percent and 60 percent respectively.
 
-The Ministry of Labour and Social Protection has set a task to increase the subsistence minimum as the basic social standard. The best way to achieve this is to do it gradually, first increasing the share of the non-food component to 50 percent, thus raising the subsistence minimum by 20 percent, and then to 60 percent, increasing the subsistence  minimum by another 25 percent. The country has the financial capacity to do this as annual cash revenues in nominal terms are expected to grow at about the same pace.
+The Ministry of Labour and Social Protection has set a task to increase the subsistence minimum as the basic social
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -669,6 +719,8 @@ To Eradicate Extreme Poverty and Hunger
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+standard. The best way to achieve this is to do it gradually, first increasing the share of the non-food component to 50 percent, thus raising the subsistence minimum by 20 percent, and then to 60 percent, increasing the subsistence minimum by another 25 percent. The country has the financial capacity to do this as annual cash revenues in nominal terms are expected to grow at about the same pace.
 
 Given an annual inflation rate of 6-8 percent, the share of non-food items in the subsistence minimum should be increased every two years. These structural changes can be implemented, for example, in 2012 and 2014. Such changes in the subsistence minimum pattern are reasonable and based on the fact that the structure of consumers' expenditures, in particular, the share of food consumption in total expenditures, is also seen as a poverty measure. The definition of this indicator suggests that whenever a household spends more than 50 percent of consumer expenditures on food, it is considered to be poor.
 
@@ -804,7 +856,7 @@ Others  are  regions  with  an  average  poverty  level.  In  the past  two  yea
 
 #### Urban and Rural Poverty
 
-Regional  differences  in  poverty  levels  are  accompanied by differences between urban and rural areas. In 2007 and 2009, the population with income below the subsistence minimum accounted for 18.1 percent and 12.1 percent of the rural population respectively; the subsistence minimum was KZT 9,653 and 12,660 in 2007 and 2009 respectively 2 . As a whole, the rural poverty level remains almost twice as high as the urban one. The highest rural poverty level was in Mangistau Oblast, with 63.5 percent of the rural population having consumption income below the subsistence minimum in 2008, with the poverty level for the entire Oblast being 32.4 percent. This Oblast also saw the widest gap between rural poverty and urban poverty, standing at five times. The highest levels of rural poverty remain in Kyzylorda (23.6 percent), Almaty (22 percent) and Atyrau (17.5 percent) Oblasts 3 .  The rural poverty level in Karaganda, Pavlodar, Kostanai and Aktobe Oblasts is four or more times as high as the urban one. In Kyzylorda Oblast, the level of urban poverty remains the country's highest at 25 percent in 2008, exceeding rural poverty by 1.4 percent.
+Regional differences in poverty levels are accompanied by differences between urban and rural areas. In 2007 and 2009, the population with income below the subsistence minimum accounted for 18.1 percent and 12.1 percent of the rural population respectively; the subsistence minimum was KZT 9,653 and 12,660 in 2007 and 2009 respectively². As a whole, the rural poverty level remains almost twice as high as the urban one. The highest rural poverty level was in Mangistau Oblast, with 63.5 percent of the rural population having consumption income below the subsistence
 
 > 2   Based on data of the Agency for Statistics of the Republic of Kazakhstan http://www.stat.kz
 
@@ -817,6 +869,8 @@ To Eradicate Extreme Poverty and Hunger
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+minimum in 2008, with the poverty level for the entire Oblast being 32.4 percent. This Oblast also saw the widest gap between rural poverty and urban poverty, standing at five times. The highest levels of rural poverty remain in Kyzylorda (23.6 percent), Almaty (22 percent) and Atyrau (17.5 percent) Oblasts³. The rural poverty level in Karaganda, Pavlodar, Kostanai and Aktobe Oblasts is four or more times as high as the urban one. In Kyzylorda Oblast, the level of urban poverty remains the country's highest at 25 percent in 2008, exceeding rural poverty by 1.4 percent.
 
 The rural poverty situation is determined by the following factors and challenges:
 
@@ -864,9 +918,9 @@ Though decreasing, in 2009, women's unemployment, at 7.5  percent, remains highe
 
 Given that a majority of the working population works for hire, wages in many respects determine the level of financial well-being of individuals and households and opportunities for investing into human development. Significant differences  in  men's  and  women's  wages  still  remain.  In 2009, women's average wage was 65.1 percent of the average  men's  wage 7 ,  having  increased  by  2.8  percentage points since 2006.
 
-The  wage  differences  for  men  and  women  are,  in  many respects, related to the nature of men's and women's concentration in economic sectors and professions (horizontal segregation) with corresponding differences in wages, and distribution in professional hierarchy within jobs and types of activity (vertical segregation). In each type of economic activity, men's wages remain higher than women's by 1.11.8 times. Even in sectors with a traditionally high concentration of women (public healthcare and education) men's wages  are  10-20  percent  higher  than  those  of  women, which is caused, at least in part, by the over-representation of men in better-paid executive positions.
+The wage differences for men and women are, in many respects, related to the nature of men's and women's concentration in economic sectors and professions (horizontal segregation) with corresponding differences in wages, and distribution in professional hierarchy within jobs and types of activity (vertical segregation). In each type of economic activity, men's wages remain higher than women's by 1.1-1.8 times. Even in sectors with a traditionally high concentration of women (public healthcare and education) men's wages are 10-20 percent higher than those of women, which is caused, at least in part, by the over-representation of men in better-paid executive positions.
 
-The economic vulnerability of women in the labour market is also determined by their over-representation in the selfemployment category with lower wages and larger social vulnerability.
+The economic vulnerability of women in the labour market is also determined by their over-representation in the self-employment category with lower wages and larger social vulnerability.
 
 The  limited  access  for  women  to  financial  resources  and information, and a lack of liquid collateral for loans considerably impairs rural their entrepreneurship activities. As a result, only 12 percent of the country's farms are headed by women, who own about three percent of agricultural land.
 
@@ -910,10 +964,14 @@ In 2009, people aged 60 and over accounted for 10.1 percent of the entire popula
 
 Differences in men's and women's jobs and incomes make the gender gap in pension provision wider, raising the poverty  risk  for  elderly  women.  About  70  percent  of  elderly women fall under the poor category. More pronounced economic vulnerability of women of the retirement age (with pensioners, as a whole, falling into the poverty risk group) is also related to the fact that most of them remain alone in old age due to a significant difference in the life expectancies of men (61.9 years) and women (72.4 years) 9  and men's high mortality.
 
+Table 1.5 The Number of Pensioners and the Average Monthly Pension Benefit
+
 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Number of pension- ers, thousands | 1,786.8 | 1,749.1 | 1,690.6 | 1,660.0 | 1,640.7 | 1,645.9 | 1,637.1 | 1,635 | 1,640.5
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Number of pensioners, thousands | 1,786.8 | 1,749.1 | 1,690.6 | 1,660.0 | 1,640.7 | 1,645.9 | 1,637.1 | 1,635 | 1,640.5
 Average pension benefit, KZT | 4,298 | 4,947 | 5,818 | 8,198 | 8,628 | 9,061 | 9,898 | 10,654 | 13,418
+
+Source: Agency for Statistics, http://www.stat.kz
 
 > 9   2008 Demographic Yearbook of Kazakhstan, Astana, 2009.
 
@@ -991,11 +1049,12 @@ To Eradicate Extreme Poverty and Hunger
 
 [[START OF PAGE 28]]
 
+GOAL 1
+To Eradicate Extreme Poverty and Hunger
+
 ### TARGET 2
 
 To halve the proportion of people who suffer from hunger between 1990 and 2015
-
-GoAl 1 To Eradicate Extreme Poverty and Hunger
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1015,7 +1074,7 @@ To Eradicate Extreme Poverty and Hunger 27 MILLENNIUM  DEVELOPMENT  GOALS  IN  K
 
 #### The Relevance of MDG 1 Target 2 for Kazakhstan
 
-Target 2, calling to halve the proportion of people suffering from hunger within MDG 1, Eradication of Extreme Poverty and Hunger, has already been achieved in Kazakhstan. For Kazakhstan, the problem of hunger is no longer relevant. At the same time, a significant share of the population, especially risk groups including children and women of childbearing age, needs better nutrition. In particular, a proportion of children under five years of age have low weightfor-height  ratios,  indicating  the  status  of  their  nutrition. Micronutrient deficiency, the so-called 'hidden hunger' is widespread in risk groups.
+Target 2, calling to halve the proportion of people suffering from hunger within MDG 1, Eradication of Extreme Poverty and Hunger, has already been achieved in Kazakhstan. For Kazakhstan, the problem of hunger is no longer relevant. At the same time, a significant share of the population, especially risk groups including children and women of childbearing age, needs better nutrition. In particular, a proportion of children under five years of age have low weight-for-height ratios, indicating the status of their nutrition. Micronutrient deficiency, the so-called 'hidden hunger' is widespread in risk groups.
 
 In this context, Target 2 was adapted to the situation in Kazakhstan to reflect the target of reduction by half of the proportion of the population that does not have access to balanced  and  adequate  nutrition.  Progress  in  achieving this  target  has  been  assessed  based  on  the  following  indicators:
 
@@ -1041,15 +1100,15 @@ The country currently lacks programmes to prevent vitamin A deficiency in childr
 
 #### Assessment of the Target 2 Status
 
-A  child's  nutritional  status  reflects  his  or  her  overall health. When children have access to  an  adequate  food supply, are not exposed to repeated illnesses, and are well cared for, they reach their growth potential and are considered well nourished. Lower weight/height/age ratios in children under five, as a rule, imply protein-calorie deficiency. Hence, by the incidence of low weight/height/age one can assess the nutritional status of children of a certain age group. Progress in achieving this target has been assessed on the basis of the following three indicators: weight-forage, height-for-age and weight-for-height.
+A child's nutritional status reflects his or her overall health. When children have access to an adequate food supply, are not exposed to repeated illnesses, and are well cared for, they reach their growth potential and are considered well nourished. Lower weight/height/age ratios in children under five, as a rule, imply protein-calorie deficiency. Hence, by the incidence of low weight/height/age one can assess the nutritional status of children of a certain age group. Progress in achieving this target has been assessed on the basis of the following three indicators: weight-for-age, height-for-age and weight-for-height.
 
-For  children  under  five  having  good  and  balanced  nutrition, there is a standard ratio of weight/height/age indicators that measure acute and chronic malnutrition.
+For children under five having good and balanced nutrition, there is a standard ratio of weight/height/age indicators that measure acute and chronic malnutrition.
 
-Height-for-age is a measure both of acute and chronic malnutrition, lack  of  adequate  nutrition  for  a  long  time and frequent or chronic diseases. Children whose heightfor-age is more than two standard deviations (-2SD) below the median are considered short for their age and are classified as moderately stunted. If it is more than three standard deviations (-3SD) below the median, they are considered severely stunted.
+Height-for-age is a measure both of acute and chronic malnutrition, lack of adequate nutrition for a long time and frequent or chronic diseases. Children whose height-for-age is more than two standard deviations (-2SD) below the median are considered short for their age and are classified as moderately stunted. If it is more than three standard deviations (-3SD) below the median, they are considered severely stunted.
 
-Weight-for-height ratio indicates children's nutrition at present. Children  whose  weight  for-height  is  more  than two standard deviations (-2SD) below the average recommended value are considered underweight or moderately wasted. This status shows acute malnutrition in the recent past. If the weight for-height is more than three standard deviations (-3SD), they are considered severely wasted.
+Weight-for-height ratio indicates children's nutrition at present. Children whose weight-for-height is more than two standard deviations (-2SD) below the average recommended value are considered underweight or moderately wasted. This status shows acute malnutrition in the recent past. If the weight-for-height is more than three standard deviations (-3SD), they are considered severely wasted.
 
-The weight-for-age index is an integrated indicator of a  child's  nutritional  status. Children  whose  weight-forage is more than two standard deviations (-2SD), but less than three standard deviations (-3SD) are considered to be moderately malnourished. Children whose weight-for-age is  more than three standard deviations (-3SD) are considered to be severely malnourished.
+The weight-for-age index is an integrated indicator of a child's nutritional status. Children whose weight-for-age is more than two standard deviations (-2SD), but less than three standard deviations (-3SD) are considered to be moderately malnourished. Children whose weight-for-age is more than three standard deviations (-3SD) are considered to be severely malnourished.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1065,34 +1124,37 @@ The parameters of the 1995 Demographic and Health Survey (DHS, 1995) were taken 
 
 The most widespread incidence of all forms of moderate deficiency of weight-for-height indicators has been identified, with  few  exceptions,  in  the  age-band  12-23  months,  with the lowest incidence in the age group 0-6 months (Table 1). The age-band 12-23 months is the most vulnerable in terms of development of protein-calorie deficiency in children. The majority of children aged 0-6 months are breast-fed, which, apparently,  protects  children  from  malnutrition  in  an  essential manner. Due to early termination of breast-feeding a significant proportion of children aged 12 to 23 months are deprived of breast-feeding, which can promote malnutrition in them. The incidence of malnutrition in children aged 7-11 months can be explained by the untimely or inadequate introduction of supplemental nutrition.
 
-Regional differences in the incidence of various forms of malnutrition have also been identified. In 2006 children in West Kazakhstan (8.8 percent) and Almaty Oblast (8.1 percent) were more likely to be underweight for their age than other children; as for height-for-age - Aktobe Oblast (23.5 percent), Kyzylorda Oblast (23.3 percent) and Almaty Oblast  (22.1  percent). The highest proportion of moderately underweight children for their height was found in West Kazakhstan  (12.5  percent)  and  in  Mangistau  Oblast  (9.3 percent). Furthermore, those children whose mothers have higher levels of education are the least likely to be underweight and stunted compared to children of mothers with primary/incomplete secondary education.
+Regional differences in the incidence of various forms of malnutrition have also been identified. In 2006 children in West Kazakhstan (8.8 percent) and Almaty Oblast (8.1 percent) were more likely to be underweight for their age than other children; as for height-for-age - Aktobe Oblast (23.5 percent), Kyzylorda Oblast (23.3 percent) and Almaty Ob-
+
+Table 1. Comparative incidence (as a percentage) of moderate (-2 SD*) and critical (-3 SD*) deviations in the nutritional status of children under five in Kazakhstan, as per DHS 1995 and MICS 2006
 
 Incidence of Weight-for-Height Deficit, %
+
+Age, Months | Height/Age 1995 | Height/Age 2006 | Weight/Height 1995 | Weight/Height 2006 | Weight/Age 1995 | Weight/Age 2006
 --- | --- | --- | --- | --- | --- | ---
-Age, Months | Height/Age | Weight/Height | Weight/Age
-1995 | 2006 | 1995 | 2006 | 1995 | 2006
-Moderate deviations (-2 SD*) in nutritional status indicators
+Moderate deviations (-2 SD*) in nutritional status indicators |  |  |  |  |  |
 <6 | 4.2 | 5.8 | 2.1 | 6.7 | 1.6 | 3.3
 6-11 | 9.6 | 8.2 | 3.5 | 5.1 | 5.1 | 3.5
 12-23 | 23 | 16.6 | 4.1 | 3.1 | 11.1 | 4.9
 24-35 | 16.3 | 12.5 | 2.7 | 2.7 | 10 | 4.4
-36-47 | 13.9 | 3.2 | 2.7
-48-59 | 13.4 | 4.4 | 4.5
+36-47 |  | 13.9 |  | 3.2 |  | 2.7
+48-59 |  | 13.4 |  | 4.4 |  | 4.5
 Median** | 15.8 | 12.8 | 3.3 | 3.8 | 8.3 | 4.0
 By 1995, % | 100.0 | 81.0 | 100.0 | 115.2 | 100.0 | 48.2
-Changes from 1995, % | -19.0 | +15.2 | -51.8
-Moderate Deviations (-3 SD*) in Nutritional Status Indicators
+Changes from 1995, % |  | -19.0 |  | +15.2 |  | -51.8
+Moderate Deviations (-3 SD*) in Nutritional Status Indicators |  |  |  |  |  |
 <6 | 1.1 | 2.2 | 0.0 | 2.4 | 0.0 | 1.4
 6-11 | 1.3 | 3.5 | 0.0 | 0.6 | 0.9 | 0.8
 12-23 | 3.3 | 4.8 | 1.5 | 0.7 | 1.9 | 0.8
 24-35 | 5.0 | 4.1 | 0.3 | 0.6 | 2.0 | 0.8
-36-47 | 4.4 | 0.9 | 0.4
-48-59 | 4.0 | 1.1 | 1.1
+36-47 |  | 4.4 |  | 0.9 |  | 0.4
+48-59 |  | 4.0 |  | 1.1 |  | 1.1
 Median** | 3.1 | 4.1 | 0.6 | 0.9 | 1.5 | 0.8
 By 1995, % | 100.0 | 132.3 | 100.0 | 150.0 | 100.0 | 53.3
-Changes from 1995, % | +32.3 | +50.0 | -46.7
+Changes from 1995, % |  | +32.3 |  | +50.0 |  | -46.7
 
-Table 1. Comparative incidence (as a percentage) of moderate (-2 SD*) and critical (-3 SD*) deviations in the nutritional status of children under five in Kazakhstan, as per DHS 1995 and MICS 2006
+* - standard deviation;
+** - number of surveyed children: 717 in 1995, and 4,193 in 2006
 
 > 11 Multiple  Indicator  Cluster  Survey  (MICS)  in  Kazakhstan.  Agency  for  Statistics  of  the  Republic  of  Kazakhstan,  UNICEF,  Kazakh  Nutrition  Academy, Astana-Almaty, 2006, p. 198.
 
@@ -1108,29 +1170,15 @@ To Eradicate Extreme Poverty and Hunger
 
 Figure 1. Change in incidence of various lower nutritional status indicators in children under five in 2006 (MICS-2006) as a percentage of the 1995 baseline (DHC-1995) taken as 100 percent
 
-Moderate Deficit
+Indicator | Moderate Deficit | Severe Deficit
+--- | --- | ---
+Height/Age | 81 | 132
+Weight/Height | 115 | 150
+Weight/Age | 48 | 53
 
-Severe Deficit
+last (22.1 percent). The highest proportion of moderately underweight children for their height was found in West Kazakhstan (12.5 percent) and in Mangistau Oblast (9.3 percent). Furthermore, those children whose mothers have higher levels of education are the least likely to be underweight and stunted compared to children of mothers with primary/incomplete secondary education.
 
-Height/Age
-
-Weight/Height
-
-Weight/Age
-
-81
-
-115
-
-48
-
-132
-
-150
-
-53
-
-Most  widespread  was  moderate chronic  malnutrition (15.8 percent in 1995 and 12.8 percent in 2006), or stunting in children as defined by lower a height-for-age ratio. In  2006,  this  indicator  dropped  by  19  percent  compared to the baseline. Severe height-for-age deficit occurred less often (3.1 percent in 1995 and 4.1 in 2006), with this indicator,  on  the  contrary, growing by 32 percent compared to the baseline in 2006 (Fig. 1).
+Most widespread was moderate chronic malnutrition (15.8 percent in 1995 and 12.8 percent in 2006), or stunting in children as defined by lower a height-for-age ratio. In 2006, this indicator dropped by 19 percent compared to the baseline. Severe height-for-age deficit occurred less often (3.1 percent in 1995 and 4.1 in 2006), with this indicator, on the contrary, growing by 32 percent compared to the baseline in 2006 (Fig. 1).
 
 Moderate wasting resulting from acute malnutrition and defined by lower weight-for-height, was found in 3.3 percent  of  children  in  1995  and  3.8  percent  in  2006,  severe wasting was found in 0.6 percent of children in 1995 and 0.9 percent of children in 2006. This parameter in 2006 had grown by 50 percent compared to the baseline.
 
@@ -1144,18 +1192,18 @@ Anaemia is  viewed  as  a  major  problem in global healthcare. It is one of the
 
 This  subsection provides comparative results and trends in the incidence of anaemia received from nationally representative DHS 1995 (baseline data) and NMNS 2008 12  (National Micronutrient Survey, 2008). Though severe anaemia occurs quite seldom, moderate and especially mild anaemia is evident in a significant part of surveyed population (Table  3).  Anaemia  occurs  more  frequently  in  ethnic  Kazakhs than in Russians. The rural population suffers from anaemia a little more often than urban dwellers.
 
-Age | No Anaemia | Mild Anaemia | Moderate Anaemia | Severe Anaemia
---- | --- | --- | --- | --- | ---
-Children aged: | 6-59 months | ≥11 | 10-11.9 | 7-9.9 | <7
-5-11 years | ≥11.5 | 10-11.9 | 7-9.9 | <7
-12-14 years | ≥12 | 10-11.9 | 7-9.9 | <7
-Women (≥15 years) | Pregnant | ≥11 | 10-11.9 | 7-9.9 | <7
-Not Pregnant | ≥12 | 10-11.9 | 7-9.9 | <7
-Men (≥15 years) | ≥13 | 10-11.9 | 7-9.9 | <7
-
 Table 2. Estimated anaemia incidence based on blood haemoglobin concentrations (g/dl) in different gender and age groups 13
 
-12 Assessment of efficiency of activities targeting incidence of micronutrient deficiency among most vulnerable population groups. Chapter 1. Almaty, Kazakh Nutrition Academy, 2008, p. 243
+Group | Age | No Anaemia | Mild Anaemia | Moderate Anaemia | Severe Anaemia
+--- | --- | --- | --- | --- | ---
+Children aged: | 6-59 months | ≥11 | 10-11.9 | 7-9.9 | <7
+ | 5-11 years | ≥11.5 | 10-11.9 | 7-9.9 | <7
+ | 12-14 years | ≥12 | 10-11.9 | 7-9.9 | <7
+Women (≥15 years) | Pregnant | ≥11 | 10-11.9 | 7-9.9 | <7
+ | Not Pregnant | ≥12 | 10-11.9 | 7-9.9 | <7
+Men (≥15 years) |  | ≥13 | 10-11.9 | 7-9.9 | <7
+
+> 12 Assessment of efficiency of activities targeting incidence of micronutrient deficiency among most vulnerable population groups. Chapter 1. Almaty, Kazakh Nutrition Academy, 2008, p. 243
 
 > 13 Methods of assessing iron status. In: Iron Deficiency Anemia. Assessment, Prevention and Control. A Guide for programme managers. UNICEF, UNU, WHO, 2001, p. 33-46.
 
@@ -1169,24 +1217,23 @@ To Eradicate Extreme Poverty and Hunger
 
 [[START OF PAGE 33]]
 
-Description | Total | Mild | Moderate | Severe
---- | --- | --- | --- | --- | --- | --- | --- | ---
-1995 | 2008 | 1995 | 2008 | 1995 | 2008 | 1995 | 2008
-Children under 15 (n=1,395) | 44.9 | 30.2 | 14.2 | 0.6
-0-59 months (n=500) | 69.2 | 47.4 | 30.1 | 26.0 | 33.6 | 20.6 | 5.5 | 0.8
-5-11 years (n=638) | 41.2 | 30.4 | 10.2 | 0.6
-12-14 years (n=257) | 49.4 | 37.7 | 11.7 | 0.0
-Women aged 15-59 (n=1,852) | 45.3 | 33.4 | 10.9 | 1.0
-15-49 years (n=1,543) | 48.8 | 48.2 | 37.1 | 34.7 | 10.6 | 12.3 | 1.1 | 1.2
-50-59 years (n=309) | 31.1 | 27.2 | 3.9 | 0.0
-Men aged 15-59 (n=759) | 28.1 | 25.6 | 2.4 | 0.1
-15-49 years (n=631) | 26.9 | 24.2 | 2.5 | 0.2
-50-59 years (n=128) | 33.6 | 32.0 | 1.6 | 0.0
-Total surveyed population (n=4,006) | 41.9 | 30.8 | 10.4 | 0.7
-
 Table 3. Incidence of anaemia by severity (as a percentage) among different population groups in Kazakhstan, comparative results of DHS 1995 and NMNS 2008
 
-In 2008, the incidence of anaemia in children under 5 decreased  by  31.5  percent  compared  to  the  1995  baseline. The incidence of severe anaemia dropped by almost seven times. However, the incidence of anaemia in reproductiveage women in 2008 did not undergo any noticeable changes compared to the 1995 baseline.
+Description | Total 1995 | Total 2008 | Mild 1995 | Mild 2008 | Moderate 1995 | Moderate 2008 | Severe 1995 | Severe 2008
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Children under 15 (n=1,395) |  | 44.9 |  | 30.2 |  | 14.2 |  | 0.6
+0-59 months (n=500) | 69.2 | 47.4 | 30.1 | 26.0 | 33.6 | 20.6 | 5.5 | 0.8
+5-11 years (n=638) |  | 41.2 |  | 30.4 |  | 10.2 |  | 0.6
+12-14 years (n=257) |  | 49.4 |  | 37.7 |  | 11.7 |  | 0.0
+Women aged 15-59 (n=1,852) |  | 45.3 |  | 33.4 |  | 10.9 |  | 1.0
+15-49 years (n=1,543) | 48.8 | 48.2 | 37.1 | 34.7 | 10.6 | 12.3 | 1.1 | 1.2
+50-59 years (n=309) |  | 31.1 |  | 27.2 |  | 3.9 |  | 0.0
+Men aged 15-59 (n=759) |  | 28.1 |  | 25.6 |  | 2.4 |  | 0.1
+15-49 years (n=631) |  | 26.9 |  | 24.2 |  | 2.5 |  | 0.2
+50-59 years (n=128) |  | 33.6 |  | 32.0 |  | 1.6 |  | 0.0
+Total surveyed population (n=4,006) |  | 41.9 |  | 30.8 |  | 10.4 |  | 0.7
+
+In 2008, the incidence of anaemia in children under 5 decreased by 31.5 percent compared to the 1995 baseline. The incidence of severe anaemia dropped by almost seven times. However, the incidence of anaemia in reproductive-age women in 2008 did not undergo any noticeable changes compared to the 1995 baseline.
 
 It  should  be  emphasised  that  in  2008  the  incidence  of anaemia  both  among  children  under  five  and  reproductive-age women was considerably higher than 40 percent, a level suggested by the WHO, United Nations University (UNU) and UNICEF when the situation in the country could be  classified  as  high-risk.  Hence,  there  is  not  doubt  that anaemia remains a priority problem for healthcare in Kazakhstan. This dictates a need to take immediate measures to  prevent  anaemia  in  risk  groups,  which  is  required  to achieve the MDGs in this indicator by 2015.
 
@@ -1194,43 +1241,20 @@ Progress in achieving the target of halving the incidence of iodine deficiency i
 
 In Kazakhstan, the issue of iodine deficiency is being successfully resolved  through  salt iodisation.  Since  1999 (baseline)  to  2006  the  level  of  good-quality  iodised  salt
 
+Figure 2. Incidence of iodine deficiency (ID) in different forms of severity (percentage) in reproductive-age women in Kazakhstan, comparative data of DHS, 1999, and MICS, 2006
+
+Year | Total | Light | Moderate | Severe
+--- | --- | --- | --- | ---
+1999 | 54.2 | 29.9 | 18.1 | 6.2
+2006 | 15.9 | 10 | 4.1 | 1.8
+
+Table 4. Estimated low urinary iodine excretion or iodine deficiency (ID) based on urine iodine concentrations (mkg/l) 14
+
 Age | Standard | Mild ID | Moderate ID | Severe ID | Above Standard | Excessive Level
 --- | --- | --- | --- | --- | --- | ---
 Women aged 15-45 | 100-200 | 50<100 | 20<50 | <20 | 201-299 | ≥300
 
-Table 4. Estimated low urinary iodine excretion or iodine deficiency (ID) based on urine iodine concentrations (mkg/l) 14
-
-> 14   	 Urinary iodine. In: /Assessment of Iodine Deficiency Disorders and Monitoring their Elimination. A Guide for programme managers. ICCIDD, UNICEF, WHO, 2001, p. 31-36.
-
-Figure 2. Incidence of iodine deficiency (ID) in different forms of severity (percentage) in reproductive-age women in Kazakhstan, comparative data of DHS, 1999, and MICS, 2006
-
-Total
-
-Light
-
-Moderate
-
-Severe
-
-54.2
-
-29.9
-
-18.1
-
-6.2
-
-15.9
-
-10
-
-4.1
-
-1.8
-
-1999
-
-2006
+> 14 Urinary iodine. In: /Assessment of Iodine Deficiency Disorders and Monitoring their Elimination. A Guide for programme managers. ICCIDD, UNICEF, WHO, 2001, p. 31-36.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1250,10 +1274,8 @@ Children aged 6-59 months | ≥30 | 20<30 | 10<20 | <10
 
 Table 6. Vitamin A status and incidence of vitamin A deficiency (VAD) based on blood retinol concentrations (mkg/dl) in children aged 6-59 months in Kazakhstan, NMNS, 2006
 
-Retinol Concentration (mkg/dl) in Blood Serum
+Country | n | Normal Level n | Normal Level % | Threshold Level n | Threshold Level % | Total VAD n | Total VAD % | Moderate VAD n | Moderate VAD % | Severe VAD n | Severe VAD %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Country | n | Normal Level | Threshold Level | Total VAD | Moderate VAD | Severe VAD
-n | % | n | % | n | % | n | % | n | %
 Kazakhstan | 1,032 | 161 | 15.6 | 281 | 27.2 | 590 | 57.2±1.07 | 487 | 47.2 | 103 | 10.0
 
 consumption has increased from 29 percent (DHS, 1999) to 92 percent (NMNS, 2006). Because of this, the level of iodine excretion in urine among women of childbearing age has increased from 93mcg/ml to 230mcg/ml, which meets WHO standards.
@@ -1314,69 +1336,37 @@ According to the findings of the 2006 national micronutrient research (NMNS, 200
 
 Major problems hindering the achievement of MDG 1 Target 2 have to do with the following factors:
 
-- Lower incidence and duration of breast-feeding (BF) including exclusive breast-feeding (EBF) in recent years. Thus, EBF incidence in the age 0-3 months was as follows:  12.3  percent  in  1995,  46.6  percent  in  1999 23 ,  57 percent in 2002 24  and 24.8 percent in 2006. Incidence of all forms of BF of infants under 12 months of age was as follows: 75.3 percent in 1995, 80.2 percent in 1999 25 , 79 percent in 2002 and 61.2 percent in 2006. It is common knowledge that whenever breast-feeding is practiced less, children's nutritional status worsens.
+1. Lower incidence and duration of breast-feeding (BF) including exclusive breast-feeding (EBF) in recent years. Thus, EBF incidence in the age 0-3 months was as follows: 12.3 percent in 1995, 46.6 percent in 1999 23, 57 percent in 2002 24 and 24.8 percent in 2006. Incidence of all forms of BF of infants under 12 months of age was as follows: 75.3 percent in 1995, 80.2 percent in 1999 25, 79 percent in 2002 and 61.2 percent in 2006. It is common knowledge that whenever breast-feeding is practiced less, children's nutritional status worsens.
 
-- Possible irrational diet for children under 5 in children's pre-school  organisations  and  at  home.  Children's  nutritional status in these organisations has not been researched since Kazakhstan's independence.
+2. Possible irrational diet for children under 5 in children's pre-school organisations and at home. Children's nutritional status in these organisations has not been researched since Kazakhstan's independence.
 
-- Medical staff's lower capacity to consult parents and introduce rational and adequate nutrition for children.
+3. Medical staff's lower capacity to consult parents and introduce rational and adequate nutrition for children.
 
-- The outreach component of nutritional diversification efforts  targeting  better  awareness  of  the  population about  nutritional  aspects  of  anaemia  prevention  by changing food habits is insufficiently effective.
+4. The outreach component of nutritional diversification efforts targeting better awareness of the population about nutritional aspects of anaemia prevention by changing food habits is insufficiently effective.
 
 Figure 3. Frequency of deficiency (VAD), threshold and normal levels of vitamin A in blood serum (percent) in children aged 6-59 months, Kazakhstan, NMNS, 2006
 
-Standard
-
-15,6%
-
-Threshold
-
-27,2%
-
-VAD
-
-57,2%
+Standard | 15,6%
+Threshold | 27,2%
+VAD | 57,2%
 
 Figure 4. Percentage of children aged 6-59 months with normal and threshold folic acid levels in blood and folic acid deficiency (FAD) in Kazakhstan, NMNS, 2006
 
+Area | Normal level (%) | Threshold level (%) | FAD (%)
+--- | --- | --- | ---
+Urban (n=425) | 41.4 | 48.7 | 9.9
+Rural (n=607) | 31.6 | 49.3 | 19.1
+Total (n=1032) | 35.7 | 49.0 | 15.3
+
 > 21 Folic acid deficiency cut off points: moderate deficiency 1,3<3,0 ng/ml or ng/L; severe deficiency <1,3 ng/ml or ng/L. Source: 'Medicine I. o. (2000) Dietary Reference Intakes: thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, biotin, and choline. National Academy Press, Washington, D.C.'
 
-> 22 Cut off points for folic acid level in blood plasma: marginal level 3-6 ng/ml.; normal level >6 ng/ml. Source: T.Brody, Barry Shane 'Folic Acid' . In: Handbook of Vitamins. Third Edition, edited by R.B.Bucker, J.W.Suttie, D.B.McCormick and L.J.Machlin. New York, 2001, p. 427-462.
+> 22 Cut off points for folic acid level in blood plasma: marginal level 3-6 ng/ml.; normal level >6 ng/ml. Source: T.Brody, Barry Shane 'Folic Acid'. In: Handbook of Vitamins. Third Edition, edited by R.B.Bucker, J.W.Suttie, D.B.McCormick and L.J.Machlin. New York, 2001, p. 427-462.
 
 > 23 Demographic and Health Survey of Kazakhstan, 1999. // Academy of Preventive Medicine, Kazakhstan, and Macro International, USA, November 2000. p. 214.
 
-> 24 Tazhibayev Sh., Sharmanov T., Ergalieva A., Dolmatova O., Mukasheva O., Seidakhmetova A., Kushenova R. 'Promotion of Lactation Amenorrhea Method Intervention Trial, Kazakhstan' . //Population Council, Frontiers in Reproductive Health, Washington D.C. May 2004. p. 32.
+> 24 Tazhibayev Sh., Sharmanov T., Ergalieva A., Dolmatova O., Mukasheva O., Seidakhmetova A., Kushenova R. 'Promotion of Lactation Amenorrhea Method Intervention Trial, Kazakhstan'. //Population Council, Frontiers in Reproductive Health, Washington D.C. May 2004. p. 32.
 
 > 25 Demographic and Health Survey of Kazakhstan, 1999. // Academy of Preventive Medicine, Kazakhstan, and Macro International, USA, November 2000. p. 214.
-
-Normal level  (%)
-
-Threshold level (%)
-
-FAD (%)
-
-Urban  (n=425)
-
-Rural  (n=607)
-
-Total (n=1032)
-
-41.4
-
-31.6
-
-35.7
-
-48.7
-
-49.3
-
-49.0
-
-9.9
-
-19.1
-
-15.3
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1388,15 +1378,17 @@ To Eradicate Extreme Poverty and Hunger
 
 [[START OF PAGE 36]]
 
-- In Kazakhstan, causes of anaemia are yet to be studied. It is believed that more than half of anaemia cases have to  do  with  iron  deficiency,  and  that  iron  deficiency  is the main cause of anaemia. Other causes of anaemia include dietary factors including deficiency of vitamins A, B2, B6, B12 and folic acid. Anaemia can also be caused by systemic infections, intestinal parasites, chronic diseases, loss of blood and more rare blood system disorders (e.g., hemoglobinopathy, thalassemia, etc.) 26 .
+5. In Kazakhstan, causes of anaemia are yet to be studied. It is believed that more than half of anaemia cases have to do with iron deficiency, and that iron deficiency is the main cause of anaemia. Other causes of anaemia include dietary factors including deficiency of vitamins A, B2, B6, B12 and folic acid. Anaemia can also be caused by systemic infections, intestinal parasites, chronic diseases, loss of blood and more rare blood system disorders (e.g., hemoglobinopathy, thalassemia, etc.) 26.
 
-- Unfortunately, there are no vitamin A deficiency (VAD) prevention programmes in Kazakhstan so far. All main VAD prevention components such as supplementation, fortification and food diversification are lacking.
+6. Unfortunately, there are no vitamin A deficiency (VAD) prevention programmes in Kazakhstan so far. All main VAD prevention components such as supplementation, fortification and food diversification are lacking.
 
-- Folic acid is a part of a premix used to enrich wheat flour in Kazakhstan. A provision about mandatory wheat flour fortification was incorporated into the Health and Healthcare Code in late 2009. However, manufacture of FWF is yet to be resumed, since bylaws in the form of corresponding Government Resolutions to implement the specified law of the RoK are yet to be developed and passed.
+7. Folic acid is a part of a premix used to enrich wheat flour in Kazakhstan. A provision about mandatory wheat flour fortification was incorporated into the Health and Healthcare Code in late 2009. However, manufacture of FWF is yet to be resumed, since bylaws in the form of corresponding Government Resolutions to implement the specified law of the RoK are yet to be developed and passed.
 
 #### Assessment of the Impact of the Economic Crisis on MDG Progress
 
 A certain increase in incidence of malnutrition among children under five over the past 2-3 years is quite likely due to a negative impact of the economic crisis on availability of  children's  foods. This  matter,  however,  is  yet  to  be  researched in Kazakhstan.
+
+An increase in the incidence of anaemia and vitamin A deficiency over the past 2-3 years is likely due to a negative impact of the economic crisis on the socio-economic status of the population. This matter, however, is yet to be researched in Kazakhstan.
 
 #### Conclusions
 
@@ -1412,21 +1404,19 @@ To draft, nationally adopt and implement a comprehensive programme targeting bal
 
 ###### Actions
 
-- to continuously raise medical personnel's awareness of children's healthy nutrition; to increase the state order for upgrading doctors' skills with regards to children's nutrition.
+1. to continuously raise medical personnel's awareness of children's healthy nutrition; to increase the state order for upgrading doctors' skills with regards to children's nutrition.
 
-- to  ensure  an  ongoing set of outreach events devoted to children's nutrition among the population, especially mothers including breast-feeding mothers.
+2. to ensure an ongoing set of outreach events devoted to children's nutrition among the population, especially mothers including breast-feeding mothers.
 
-- to provide funds and create conditions required for fullscale  continuation  of  efforts  to  protect,  support  and promote breast-feeding and timely introduction of supplementary baby nutrition.
+3. to provide funds and create conditions required for full-scale continuation of efforts to protect, support and promote breast-feeding and timely introduction of supplementary baby nutrition.
 
-- to  research  the  status  of  nutrition  in  children's  preschool  organisations  including  orphanages,  develop and implement recommendations on improvement of nutrition in these organisations.
+4. to research the status of nutrition in children's pre-school organisations including orphanages, develop and implement recommendations on improvement of nutrition in these organisations.
 
-- to provide funds for targeted supply of children under five coming from poor families with children's foods.
+5. to provide funds for targeted supply of children under five coming from poor families with children's foods.
 
-- to provide for analysis of a regularly updated children's growth and development data including anthropometric database in the MoH.
+6. to provide for analysis of a regularly updated children's growth and development data including anthropometric database in the MoH.
 
-- to monitor and assess the child growth and monitoring indicators including anthropometric data among children under five and to take timely measures to prevent malnutrition.
-
-An  increase  in  the  incidence  of  anaemia  and  vitamin  A deficiency over the past 2-3 years is likely due to a negative impact of the economic crisis on the socio-economic status of the population. This matter, however, is yet to be researched in Kazakhstan.
+7. to monitor and assess the child growth and monitoring indicators including anthropometric data among children under five and to take timely measures to prevent malnutrition.
 
 ##### Conclusion 2
 
@@ -1454,17 +1444,17 @@ To  ensure  comprehensive  implementation  of  the  main strategy to control iro
 
 ###### Actions
 
-- to  ensure  monitoring  and  assessment  of  efficiency  of the programme on iron and folic acid supplementation of women of childbearing age and children under five, based on which to develop, recommendations on how to improve and increase its efficiency.
+1. to ensure monitoring and assessment of efficiency of the programme on iron and folic acid supplementation of women of childbearing age and children under five, based on which to develop, recommendations on how to improve and increase its efficiency.
 
-- to  develop  and  adopt  a  Government  Resolution  and other  bylaws  and  regulations  addressing  wheat  flour fortification.
+2. to develop and adopt a Government Resolution and other bylaws and regulations addressing wheat flour fortification.
 
-- to achieve fast sustainable fortification of the first- and premium-grade wheat flour in full and to ensure corresponding quality assurance, monitoring and evaluation.
+3. to achieve fast sustainable fortification of the first- and premium-grade wheat flour in full and to ensure corresponding quality assurance, monitoring and evaluation.
 
-- to ensure continuation of the programme on iron and folic  acid  supplementation  of  women  of  childbearing age  and  children  under  with  low  haemoglobin  until the satisfactory coverage of the flour fortification programme is achieved.
+4. to ensure continuation of the programme on iron and folic acid supplementation of women of childbearing age and children under with low haemoglobin until the satisfactory coverage of the flour fortification programme is achieved.
 
-- to  ensure  an  ongoing  set  of  food  diversification  outreach  events  aimed  to  raise  awareness  of  population about healthy nutrition and dietary aspects of prevention of anaemia and micronutrient deficiency by changing one's eating habits.
+5. to ensure an ongoing set of food diversification outreach events aimed to raise awareness of population about healthy nutrition and dietary aspects of prevention of anaemia and micronutrient deficiency by changing one's eating habits.
 
-- to set up a state system of monitoring and evaluation of the  anaemia  control  programme  including  biological monitoring and evaluation of anaemia and iron status and to ensure its sustainable functioning on an ongoing basis.
+7. to set up a state system of monitoring and evaluation of the anaemia control programme including biological monitoring and evaluation of anaemia and iron status and to ensure its sustainable functioning on an ongoing basis.
 
 ##### Conclusion 3
 
@@ -1476,15 +1466,15 @@ To ensure comprehensive implementation of core Vitamin A deficiency prevention s
 
 ###### Actions
 
-- to urgently consider, amend, adopt and launch the draft comprehensive VAD prevention programme this year.
+1. to urgently consider, amend, adopt and launch the draft comprehensive VAD prevention programme this year.
 
-- to include vitamin A preparations into a list of Essential Drugs, included into the Basic Benefit Package. To start vitamin A supplements among the specified risk groups this year.
+2. to include vitamin A preparations into a list of Essential Drugs, included into the Basic Benefit Package. To start vitamin A supplements among the specified risk groups this year.
 
-- to  start  preparations  for  vitamin  A  fortification  of  the most appropriate product(s).
+3. to start preparations for vitamin A fortification of the most appropriate product(s).
 
-- to conduct, on an ongoing basis, a set of outreach events to prevent vitamin A deficiency among risk groups.
+4. to conduct, on an ongoing basis, a set of outreach events to prevent vitamin A deficiency among risk groups.
 
-- to monitor and evaluate introduction of the vitamin A deficiency  prevention  programme  and  to  take  timely measures to improve it.
+5. to monitor and evaluate introduction of the vitamin A deficiency prevention programme and to take timely measures to improve it.
 
 ##### Conclusion 4
 
@@ -1496,7 +1486,7 @@ To ensure, on an ongoing basis, biological monitoring and evaluation of iodine d
 
 ###### Actions
 
-- to  provide for and introduce mandatory ongoing biological monitoring and evaluation of iodine deficiency into the state system of monitoring and evaluation of the iodine deficiency prevention programme this year.
+1. to provide for and introduce mandatory ongoing biological monitoring and evaluation of iodine deficiency into the state system of monitoring and evaluation of the iodine deficiency prevention programme this year.
 
 ##### Conclusion 5
 
@@ -1508,13 +1498,13 @@ To  study  incidence  of  folic  acid  deficiency  in  pregnant women  and  othe
 
 ###### Actions
 
-- to study incidence of folic acid deficiency in pregnant women and other population groups.
+1. to study incidence of folic acid deficiency in pregnant women and other population groups.
 
-- to perform a set of supplementation and folic acid fortification activities (see actions in Conclusion 2).
+2. to perform a set of supplementation and folic acid fortification activities (see actions in Conclusion 2).
 
-- to conduct, on an ongoing basis, a set of outreach activities to prevent folic acid deficiency in risk groups.
+3. to conduct, on an ongoing basis, a set of outreach activities to prevent folic acid deficiency in risk groups.
 
-- to monitor and evaluate, on an ongoing basis, the folic acid  deficiency  prevention  programme  including  biological monitoring.
+4. to monitor and evaluate, on an ongoing basis, the folic acid deficiency prevention programme including biological monitoring.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1526,13 +1516,13 @@ To Eradicate Extreme Poverty and Hunger
 
 [[START OF PAGE 38]]
 
+## GOAL 2 To Achieve Universal Primary Education
+
 ### TARGET 3
 
 To ensure that by 2015 children everywhere, boys and girls alike, will be able to complete a full course of primary schooling.
 
 National Context (Target 3+): To achieve universal secondary education
-
-## To Achieve Universal Primary Education GoAl 2
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1560,7 +1550,7 @@ Despite  the  financial  crisis,  education  in  Kazakhstan  has continued to de
 
 The current status of the educational system is characterised by a number of achievements verified through quantitative and qualitative indicators. Thus, in 2009, for the first time in its history Kazakhstan was included into the list of countries with a high human development index (HDI) 27 . Then,  the  country  ranked  first  among  129  countries  in terms of the international Education for All Development Index (EDI) 28  and 67 th  in the Global Competitiveness Index (GCI): out of 18 parameters describing education and science Kazakhstan's position improved in seven indicators 29 . In terms of its literacy rate, 99.5 percent, it ranks 14 th  among 177 countries of the world. For the first time, Kazakhstani schoolchildren took part in an international TIMSS 2007 30 comparative  study  and  finished  5th  in  mathematics  and 11 th  in science out of the 43 countries that attended. Overall, Kazakhstan's team was seventh.
 
-Recently, there has been a stable increase in the number of  pre-school  education  organisations  and  children  attending them. As at 1 January 2010, the country had 4,972 pre-school  organisations  enrolling  373,100  children,  or 38.7 percent of pre-school age children 31 , an 11.1 percent increase from 2006/2007. Primary, basic and general secondary  education  enrolment  has  increased,  standing  at 99.8 percent, 100 percent and 99.6 percent of the population of the typical age respectively, in 2008. This compares with attendance figures of 99.5 percent for primary, 99.8 percent  for  basic  and  99.2  percent  for  secondary  education in 2006 32 .  In the past three years, enrolment of seven to 17-year-olds in general secondary schools was 99.9 percent.  Government  funding  of  education  is  growing  year on year. In 2009, the education budget grew by 35.6 percent from 2007 and amounted to KZT 746.5 billion or USD 5.06 billion 33 (in 2007, KZT 480.7 billion or USD 3.9 billion). The share of state budget spending on education has increased: according to the MoES, education spending was 4.4 percent in 2009, compared with 3.7 percent of GDP in 2007.
+Recently, there has been a stable increase in the number of pre-school education organisations and children attending them. As at 1 January 2010, the country had 4,972 pre-school organisations enrolling 373,100 children, or 38.7 percent of pre-school age children 31, an 11.1 percent increase from 2006/2007. Primary, basic and general secondary education enrolment has increased, standing at 99.8 percent, 100 percent and 99.6 percent of the population of the typical age respectively, in 2008. This compares with attendance figures of 99.5 percent for primary, 99.8 percent for basic and 99.2 percent for secondary education in 2006 32. In the past three years, enrolment of seven to 17-year-olds in general secondary schools was 99.9 percent. Government funding of education is growing year
 
 > 27 The 2009 UN Report 'Overcoming Barriers: Human Mobility and Development' ranked Kazakhstan 82nd in the HDI.
 
@@ -1584,23 +1574,29 @@ To Achieve Universal Primary Education
 
 [[START OF PAGE 41]]
 
-These  achievements  resulted  from  state  educational  policies, whose principles and content are set out in the RoK's Constitution and the Law 'On Education' updated in 2007.
+on year. In 2009, the education budget grew by 35.6 percent from 2007 and amounted to KZT 746.5 billion or USD 5.06 billion 33 (in 2007, KZT 480.7 billion or USD 3.9 billion). The share of state budget spending on education has increased: according to the MoES, education spending was 4.4 percent in 2009, compared with 3.7 percent of GDP in 2007.
 
-Education development priorities are set out in a number of strategic documents 34 . The MoES Memorandum on Achievement of GCI Target Indicators  is  being  enforced.  An  Intersectoral Agreement was signed by the MoES and MIA on the prevention of school non-attendance. The development of the MoES 2010-2014 Strategic Plan is ongoing, as is the LongTerm Education Development Programme until 2020, which includes standards, and a list of state education services; the National Education Quality Evaluation System, which are be-
+These achievements resulted from state educational policies, whose principles and content are set out in the RoK's Constitution and the Law 'On Education' updated in 2007.
+
+Education development priorities are set out in a number of strategic documents 34. The MoES Memorandum on Achievement of GCI Target Indicators is being enforced. An Intersectoral Agreement was signed by the MoES and MIA on the prevention of school non-attendance. The development of the MoES 2010-2014 Strategic Plan is ongoing, as is the Long-Term Education Development Programme until 2020, which includes standards, and a list of state education services; the National Education Quality Evaluation System, which are being improved. For the first time in the country's history, Kazakhstan has set up a state system to monitor children's rights advocacy. One of goals of these planned educational programmes is to ensure equal opportunities for each national of the country in obtaining high-quality life-long education to achieve the level that suits his or her capacity most 35.
+
+As follows from the MDG 2002 and 2005 reports, MDG 2 in its original version has already been achieved in the country. Based on the analysis of national priorities, statistics and state education programmes and given other countries' experience it was concluded that there is a need for assessment of secondary education as a whole with a focus on the quality of education and enrolment of children with special needs and students from socially vulnerable groups. The MDG 2007 report takes into account this conclusion and determines Target 3+, ensuring universal secondary education, for further monitoring of the achievement of the expanded version of MDG 2. The following parameters have been adopted as progress indicators 36:
 
 3.1. Enrolment rate in general secondary education (of population of respective age group; availability of schools and places in them)
 
-3.4. Gross entry ratio of students enrolled in secondary vocational and higher education ing improved. For the first time in the country's history, Kazakhstan has set up a state system to monitor children's rights advocacy. One of goals of these planned educational programmes is to ensure equal opportunities for each national of the country in obtaining high-quality life-long education to achieve the level that suits his or her capacity most 35 .
-
-As follows from the MDG 2002 and 2005 reports, MDG 2 in its original version has already been achieved in the country. Based on the analysis of national priorities, statistics and state  education  programmes  and  given  other  countries' experience it was concluded that there is a need for assessment of secondary education as a whole with a focus on the quality of education and enrolment of children with special needs  and  students  from  socially  vulnerable  groups.  The MDG 2007 report takes into account this conclusion and determines Target 3+, ensuring universal secondary education, for  further  monitoring of the achievement of the expanded version of MDG 2. The following parameters have been adopted as progress indicators 36 :
-
 3.2. Survival rate of each level of general secondary education (from grade 1 to grade 5, from grade 5 to grade 9 (10)), etc. including secondary education graduates
+
+3.3. Enrolment rate in secondary education for children with special needs
+
+3.4. Gross entry ratio of students enrolled in secondary vocational and higher education
 
 3.5. Number of children covered by pre-school training and education, especially those living in villages, from poor families and exposed to social risks
 
+3.6. Development of a unified standard of the national education statistics mandatory for all
+
 3.7. Enrolment rate in secondary education for children doing distance learning in rural area
 
-Each  indicator  is  characterised  both  by  achievements and unresolved challenges, which the 2009-2011 MoES Strategic Plan determined as systemic issues. In the first instance, this has to do with the provision of equal access to pre-schooling, high-quality educational services, further education programmes in the context of development of life skills and life-long learning opportunities, especially for representatives from rural and remote areas, and children and teenagers from vulnerable groups. The  rate  of  child  homelessness  and  neglect  is  going down too slowly; the quality of children's life is not sufficiently secured by economic, social and legal guarantees. Despite an increased state education budget, these funds are not sufficient to ensure sustainability of development of the educational system in line with international standards 37 .
+Each indicator is characterised both by achievements and unresolved challenges, which the 2009-2011 MoES Strategic Plan determined as systemic issues. In the first instance, this has to do with the provision of equal access to pre-schooling, high-quality educational services, further education programmes in the context of development of life skills and life-long learning opportunities, especially for representatives from rural and remote areas, and children and teenagers from vulnerable groups. The rate of child homelessness and neglect is going down too slowly; the quality of children's life is not sufficiently secured by economic, social and legal guarantees. Despite an increased state education budget, these funds are not sufficient to ensure sustainability of development of the educational system in line with international standards 37.
 
 > 33 National Report on Education Status and Development. Astana. 2009, p. 187
 
@@ -1611,10 +1607,6 @@ Each  indicator  is  characterised  both  by  achievements and unresolved challe
 > 36 The structure of these parameters determines the overall logics of this chapter
 
 > 37 Dakar EFA Conference recommended that state education funding should be 6-7% of GDP.
-
-3.3. Enrolment rate in secondary education for children with special needs
-
-3.6. Development of a unified standard of the national education statistics mandatory for all
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1649,14 +1641,14 @@ The  high  secondary  enrolment  rate  is  influenced  by  the fact  that  schoo
 
 The decrease in school enrolment and an increase in vocational training observed in the past few years has been caused by a number of factors, including financial problems of families, a decrease in teenagers' interest in school, impossibility to obtain professional qualifications at school 45 , unwillingness  to  participate  in  Uniform  National  Testing (UNT) and high tuition fees for higher education.
 
-As noted above, there was an increase in the share of rural schools from 76.4 percent in 2006 to 78.8 percent in 2009 against the background of a reduction in the total number of comprehensive schools; the number of students also increased from 1,285,800 to 1,322,900, (i.e. from 48.1 percent to 52.3 percent). The majority of rural schools are ungraded (US) (Figure 3). In 2009 there were 4,288 USs, accounting for 56.6 percent of all schools in the country and 71.7 percent of all rural schools. Two years ago this share was smaller: 55 percent and 53.4 percent respectively 46 . Notwithstanding a gradual decrease in the US number, these schools are still attended by 405,772 children, or more than 16 percent of all students. An analysis of sources shows that this type of school is particularly vulnerable in terms of the quality and quantity of the educational services provided, because of challenges such as shortage of qualified staff and poor training facilities. During the period 2007-2009, the number of settlements having no schools grew by 10 percent (from 1,369 to 1,522), whereas the number of children of school age living in such settlements grew by 19.3 percent (from 29,847 to 36,960) 47 .
-
-Total schools | Students, thousands | PS | Students | BS | Students | SS | Students
---- | --- | --- | --- | --- | --- | --- | --- | ---
-2009/10 | 7,811 | 2,534 | 1,076 13.7% | 29,729 12% | 1,160 14.8% | 91,370 3.6% | 5,340 68.4% | 2,370,103 93.5%
-2007/08 | 7,958 | 2,627 | 1,093 13.7% | 31,601 12% | 1,210 15.2% | 101,459 3.9% | 5,427 68.2% | 2,450,300 93.2%
+As noted above, there was an increase in the share of rural schools from 76.4 percent in 2006 to 78.8 percent in 2009 against the background of a reduction in the total number of comprehensive schools; the number of students also increased from 1,285,800 to 1,322,900, (i.e. from 48.1 percent to 52.3 percent). The majority of rural schools are ungraded (US) (Figure 3). In 2009 there were 4,288 USs, accounting for 56.6 percent of all schools in the country and 71.7 percent
 
 Table 2. Dynamics of a network and enrolment in primary, basic and secondary daytime comprehensive schools in 2007/08-2009/10
+
+Total schools | Students, thousands | PS | Students | BS | Students | SS | Students
+--- | --- | --- | --- | --- | --- | --- | ---
+2009/10 | 7,811 | 2,534 | 1,076 13.7% | 29,729 12% | 1,160 14.8% | 91,370 3.6% | 5,340 68.4% | 2,370,103 93.5%
+2007/08 | 7,958 | 2,627 | 1,093 13.7% | 31,601 12% | 1,210 15.2% | 101,459 3.9% | 5,427 68.2% | 2,450,300 93.2%
 
 > 38 National Report on Education Status and Development. Astana. 2009, p. 187
 
@@ -1684,7 +1676,9 @@ To Achieve Universal Primary Education
 
 [[START OF PAGE 43]]
 
-Despite  an  increased  provision  of  school  bus  services  to take children to schools in 2009 (from 66.5 to 71.6 percent), there is a pressing need for a state-funded programme targeting children in need of such services.
+of all rural schools. Two years ago this share was smaller: 55 percent and 53.4 percent respectively 46. Notwithstanding a gradual decrease in the US number, these schools are still attended by 405,772 children, or more than 16 percent of all students. An analysis of sources shows that this type of school is particularly vulnerable in terms of the quality and quantity of the educational services provided, because of challenges such as shortage of qualified staff and poor training facilities. During the period 2007-2009, the number of settlements having no schools grew by 10 percent (from 1,369 to 1,522), whereas the number of children of school age living in such settlements grew by 19.3 percent (from 29,847 to 36,960) 47.
+
+Despite an increased provision of school bus services to take children to schools in 2009 (from 66.5 to 71.6 percent), there is a pressing need for a state-funded programme targeting children in need of such services.
 
 In  2009,  1,898  schools  provided  enhanced  instruction  in various  subjects,  a  15  percent  increase  from  2007.  Such schools enrolled 342,700 and 183,800 students respectively. The share of rural schoolchildren having access to this educational  service  has  not  exceeded  5  -  6  percent  over the  past  three  years 48 .  In  2009,  there  were  107  organisations offering instruction to gifted children in mathematics, natural sciences, social sciences and humanities, music, art, military science and sports (versus 86 in 2007). According to the assignment given by the President of Kazakhstan to  implement  innovative  social  projects,  20  Intellectual Schools of the RoK's First President specialising in physics and mathematics, chemistry and biology have been set up in the country since 2008. Three more Intellectual Schools, providing  instruction  for  2,214  students  were  opened  in 2009.  To  meet  children's  educational  needs  in  a  variety of  ways,  the  country  has  further  education  organisations gradually increasing in number: about 533 organisations in 2007 versus 620 in 2009. However, in rural areas, access to this service is low (11 percent of children in 2007).
 
@@ -1692,89 +1686,35 @@ As far as the language of instruction is concerned, the situation  in  general  
 
 Figure 1. Secondary enrolment in educational institutions, percentage
 
-comprehensive schools
-
-vocational lyceums
-
-colleges
-
-2006
-
-2007
-
-2008
-
-84.1
-
-81.4
-
-83.4
-
-4.2
-
-5.5
-
-5.3
-
-10.9
-
-12.5
-
-10.9
+Year | comprehensive schools | vocational lyceums | colleges
+--- | --- | --- | ---
+2006 | 84.1 | 4.2 | 10.9
+2007 | 81.4 | 5.5 | 12.5
+2008 | 83.4 | 5.3 | 10.9
 
 Figure 2. Dynamics of a network of and enrolment in vocational lyceums/schools (VL/VS) and colleges in 2006-2009
 
-VS/VL
-
-colleges
-
-2006
-
-2007
-
-2008
-
-2009
-
-322
-
-296
-
-313
-
-312
-
-560
-
-471
-
-460
-
-442
+Year | VS/VL | colleges
+--- | --- | ---
+2006 | 560 | 322
+2007 | 471 | 296
+2008 | 460 | 313
+2009 | 442 | 312
 
 Figure 3. Dynamics of Ungraded Schools network (2006-2009)
+
+Year | Ungraded Schools
+--- | ---
+2006 | 4,431
+2007 | 4,406
+2008 | 4,303
+2009 | 4,288
 
 > 46 Draft Concept of Development of Ungraded Schools ('US') in the Republic of Kazakhstan for 2010-2020, Astana. 2009. p. 3; RoK MOES Collected Works 'Data on Ungraded Schools in 2007', Astana, 2007, p.7.
 
 > 47 Based on data of the RoK Agency for Statistics.
 
 > 48 stat.kz/digital/obraz/Pages/
-
-2006
-
-2007
-
-2008
-
-2009
-
-4,431
-
-4,406
-
-4,303
-
-4,288
 
 To Achieve Universal Primary Education 41 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1790,7 +1730,7 @@ The lack of official statistics on transition to other educational  levels  of  
 
 ##### 3.3. Enrolment rate in secondary education for children with special needs
 
-According  to  the  Republican  Psychological,  Medical  and Pedagogical  Consultation  Board  the  number  of  children requiring  special  education  has  been  increasing  in  Kazakhstan in recent years 51 . In 2007, there were 120,000 children  requiring  special  education,  and  in  2009,  this  had risen to 154,870 children. Their enrolment in special educational  programmes has increased from 23.0 percent in 2006 to 41.4 percent in 2009. The share of such students in rural areas does not exceed 11 percent. Currently there are  37  special  kindergartens  and  228  special  groups  at general kindergartens, which have over 10,000 pre-schoolage children with development limitations. Nearly 24,000 school-age children with a limited development capacity (LDC) go to 101 special schools and 820 special classes at comprehensive  schools.  In  2007,  there  were  100  special schools  enrolling  15,300  children.  Special  education  enrols 6,600 students in 241 comprehensive schools. In 2009, there were 277 such schools enrolling 12,830 students.
+According to the Republican Psychological, Medical and Pedagogical Consultation Board the number of children requiring special education has been increasing in Kazakhstan in recent years 51. In 2007, there were 120,000 children requiring special education, and in 2009, this had risen to 154,870 children. Their enrolment in special educational programmes has increased from 23.0 percent in 2006 to 41.4 percent in 2009. The share of such students in rural areas does not exceed 11 percent. Currently there are 37 special kindergartens and 228 special groups at general kindergartens, which have over 10,000 pre-school-age children with development limitations. Nearly 24,000 school-age children with a limited development capacity (LDC) go to 101 special schools and 820 special classes at comprehensive schools. In 2007, there were 100 special schools enrolling 15,300 children. Special education enrols 6,600 students in 241 comprehensive schools. In 2009, there were 277 such schools enrolling 12,830 students.
 
 To improve learning arrangements for children with LDC, model special comprehensive curricula were developed in 2009, taking into account the severity of disorders in psychophysical development and cognitive capacity. The 'Concept of Development of Inclusive Education in Kazakhstan' was also drafted during this period. Integration ideas are gradually  acquiring  a  better  understanding  and  recognition in the public mind. In 2009, over 12,000 children with LDC were integrated into mass schools and kindergartens: 3,000 children attended 395 kindergartens; over 9,000 children of school age went to 769 comprehensive schools offering special teaching support.
 
@@ -1818,49 +1758,25 @@ In  recent  years,  basic  school  graduates  have  increasingly entered vocatio
 
 ##### 3.5. Number of children covered by preschool training and education, especially those living in villages, from poor families and exposed to social risks
 
-In 2007-2010, the number of organisations of all kinds of pre-school  education  and  training  (PSO),  especially  preschool mini-centres is growing. According to the MoES the PSO network has increased by about 42 percent over the three years, standing at 4,972 entities in the 2009/10 academic year; PSO enrolment has increased from 27.6 percent to 38.7 percent, pre-primary enrolment went up from 77 percent to 83 percent (i.e. from 242,700 to 271,400). As for rural children, their access to PSO programmes is visibly lower 56 (Table 3, Figure 4).
+In 2007-2010, the number of organisations of all kinds of pre-school education and training (PSO), especially pre-school mini-centres is growing. According to the MoES the PSO network has increased by about 42 percent over the three years, standing at 4,972 entities in the 2009/10 academic year; PSO enrolment has increased from 27.6 percent to 38.7 percent, pre-primary enrolment went up from 77 percent to 83 percent (i.e. from 242,700 to 271,400). As for rural children, their access to PSO programmes is visibly lower 56 (Table 3, Figure 4).
 
-Notwithstanding the positive dynamics, PSO still remains one  of  most  challenging  educational  subsectors.  Preschool enrolment and the number of places in PSO still remain very low compared to many other countries, including  CIS  countries.  Over  900,000  children  aged  one  to  six years are not enrolled in organised pre-schooling. A total of  260,000 children are on the waiting list for pre-school organisations.
+Notwithstanding the positive dynamics, PSO still remains one of most challenging educational subsectors. Pre-school enrolment and the number of places in PSO still remain very low compared to many other countries, including CIS countries. Over 900,000 children aged one to six
 
 Figure 4 Enrolment of 5-6-year-old children in mandatory pre-primary education in dynamics, percentage (2007-2009)
 
-2007
+Area | 2007 | 2008 | 2009
+--- | --- | --- | ---
+Total | 77 | 78.7 | 83.3
+Urban | 80 | 82.4 | 84.6
+Rural | 74 | 75 | 81.8
 
-2008
-
-2009
-
-Total
-
-Urban
-
-Rural
-
-77
-
-80
-
-74
-
-78.7
-
-82.4
-
-75
-
-83.3
-
-84.6
-
-81.8
+Table 3. Pre-school training and education in the RoK in dynamics, 2007-2010
 
 PSO Network | Enrolment (thousands) | Enrolment, % | Placement Capacity (children per 100 places) | Urban enrolment | Rural enrolment
---- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 2008/09 | 376.3 | 324.3 | 35.6 | 114 | 45.2 | 20.1
 2007/08 | 304.4 | 283.3 | 32.3 | 115 | 44 | 20.1
 2006/07 | 2115 | 230.8 | 27.6 | 114 | 38.7 | 12.4
-
-Table 3. Pre-school training and education in the RoK in dynamics, 2007-2010
 
 > 52 Based on data of the RoK Agency for Statistics. stat.kz/digital/obraz/Pages/
 
@@ -1882,25 +1798,25 @@ To Achieve Universal Primary Education
 
 [[START OF PAGE 46]]
 
-Demographic forecasts project an increase in the birth rate, thus  making  the  shortage  of  kindergarten  places  worse. Pre-school  education  and  training  remains  unaffordable for many families due to low incomes. State funding of preschooling has not exceeded 0.2 percent of GDP during the past three years. Advanced countries spend 1-2 percent of GDP on pre-school funding.
+years are not enrolled in organised pre-schooling. A total of 260,000 children are on the waiting list for pre-school organisations.
+
+Demographic forecasts project an increase in the birth rate, thus making the shortage of kindergarten places worse. Pre-school education and training remains unaffordable for many families due to low incomes. State funding of pre-schooling has not exceeded 0.2 percent of GDP during the past three years. Advanced countries spend 1-2 percent of GDP on pre-school funding.
 
 ##### 3.6. Development of a unified standard of the national education statistics mandatory for all
 
 Cooperation between Kazakhstan and other countries and international organisations within global educational strategies such as EFA, MDG, LLL 57   and others calls for an adequate supply of information and statistics for this process. It stands to reason that quantitative information should be collected and processed on a regular basis since the country will participate in these global projects in the current and following decades. A shortage of statistical resources, survey data and the need to search for appropriate sources complicates high-quality monitoring, evaluation and analysis of the national education achievements in the context of requirements of international strategies and indicators set out in these strategies.
 
-The Agency for Statistics and the MoES provided the majority of the data required for Chapter 2 herein. However, as was the case for the previous MDG and EFA reports, the available statistics on a number of pressing issues including  the  following  data  (broken  down  by  urban  and  rural area) was not sufficient:
-
-> 57 Life-long learning
+The Agency for Statistics and the MoES provided the majority of the data required for Chapter 2 herein. However, as was the case for the previous MDG and EFA reports, the available statistics on a number of pressing issues including the following data (broken down by urban and rural area) was not sufficient:
 
 - the transition of students graduating in a corresponding year to other educational levels;
 
-- school-age  children  from  socially  vulnerable  groups (street  children,  refugee  children,  migrants,  working children);
+- school-age children from socially vulnerable groups (street children, refugee children, migrants, working children);
 
-- children  not  attending  schools/  drop-outs  (children migrating within or outside a city or a region; children on the wanted list; children unwilling to study; children under police investigation, etc.);
+- children not attending schools/ drop-outs (children migrating within or outside a city or a region; children on the wanted list; children unwilling to study; children under police investigation, etc.);
 
 - paid services provided by GSE organisations (including contributions made by private sector, families, etc.);
 
-- informal  /  further  education  (enrolment  /  coverage, education costs; informal education as a percentage of total state expenditure);
+- informal / further education (enrolment / coverage, education costs; informal education as a percentage of total state expenditure);
 
 - secondary enrolment of children doing distance learning in rural areas;
 
@@ -1908,7 +1824,9 @@ The Agency for Statistics and the MoES provided the majority of the data require
 
 - integration of life skills into GSE programmes.
 
-There  are  still  differences  between  statistics  provided  by the Agency for Statistics, education authorities and other departments (on pre-schooling enrolment, secondary education, the number of students at different GSE levels, network  of  education  organisations,  school  attendance). Some indicators are not correlated with ISCED (International Standard Classification of Education). There is an obvious need for unification and standardisation of national education for all  statistics  between various departments, especially the Agency for Statistics, MOES and MIA. Incomplete and inconsistent statistics do not allow timely measures to be taken to ensure general and fair enrolment of all schoolage children in high-quality training.
+There are still differences between statistics provided by the Agency for Statistics, education authorities and other departments (on pre-schooling enrolment, secondary education, the number of students at different GSE levels, network of education organisations, school attendance). Some indicators are not correlated with ISCED (International Standard Classification of Education). There is an obvious need for unification and standardisation of national education for all statistics between various departments, especially the Agency for Statistics, MOES and MIA. Incomplete and inconsistent statistics do not allow timely measures to be taken to ensure general and fair enrolment of all school-age children in high-quality training.
+
+> 57 Life-long learning
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -1934,7 +1852,7 @@ Quality  of  education  is  determined,  in  the  first  instance,  by staffing,
 
 As  reported  by  the  MoES,  in  the  2009/10  academic  year there  were  274,900  teachers  in  daytime  comprehensive schools, a 2.2 percent increase from 2007 to 2008, with 36.2 percent and 63.8 percent of them working in urban and rural  areas respectively. The number of university-educated teachers has increased by 2.7 percent (accounting for 86 percent), the number of young teachers having a teaching experience  of  less  than  three  years  has  increased  by  0.7 percent;  the  number  of  teachers  with  a  teaching  experience of over 20 years has dropped by 28 percent. In 2009, 27  percent  of  teachers  had  no  professional  grade;  each fifth teacher was over 50 years old. In recent years, schools have been short of teachers of Kazakh, Russian and foreign languages, mathematics, physics and computer science. In 2009, there were 2,440 teaching vacancies. The number of teaching staff  in  colleges  and  vocational  lyceums  has  increased (by 4.7 and 13.3 respectively), but the most qualified and promising teachers prefer to quit the TVE system for enterprises; about 12 percent of ET 65  were 55 years old or over.
 
-Education quality indicators are both positive and negative. From  2007  to  2009,  UNT  average  scores  improved  (from 63.3 to 74.9), just like results of the ISM 66 of grade 9 learning achievement (from 24.7 to 61.6) 67 . A total of 54.5 percent of Altyn Belgi contenders were awarded Altyn Belgi medals (versus 34.3 percent in 2008). A total of 895 people (versus 864 in 2008) won international and republican academic competitions and scientific project contests 68 . At the same time, the number of straight-A students in senior grades is dropping and rural school leavers have been performing 10-15 percent worse at UNT than urban ones for a number of years.
+Education quality indicators are both positive and negative. From 2007 to 2009, UNT average scores improved (from 63.3 to 74.9), just like results of the ISM 66 of grade 9 learning achievement (from 24.7 to 61.6) 67. A total of 54.5 percent of Altyn Belgi contenders were awarded Altyn Belgi medals (versus 34.3 percent in 2008). A total of 895 people (versus 864 in 2008) won international and republican academic competitions and scientific project contests 68. At the same time, the number of straight-A students in senior grades is
 
 > 58 www.schools.kz, www.stportal.kz, www.rumcdo.kz, www.obrazovanie.kz,  www.mektep-rk.kz, www.uroki.ru, www.collegy.ucoz.ru.
 
@@ -1964,13 +1882,17 @@ To Achieve Universal Primary Education 45 MILLENNIUM  DEVELOPMENT  GOALS  IN  KA
 
 [[START OF PAGE 48]]
 
-Due to the transition to a 12-year education model, documents governing GSE upgrade strategy including contents were prepared in 2007-2009 69 . Among the expected outcomes, educational standards set out basic competencies. However,  the  life  skills  concept  is  missing.  New  subjects have been introduced into the school curricula: financial literacy (grades 4-11), basic religion studies (grade 9) and driving  (grades  10-11).  As  far  as  the  TVE  system  is  concerned,  a  new  Occupation  Classifier  taking  into  account employers'  proposals  was  developed;  six  Interregional Centres  for  Retraining  of Vocational  Lyceum  and  College Teachers were established. In 2009, a total of 85,715 school teachers (33 percent) passed retraining courses devoted to the transition to the 12-year educational system and updating of teaching content and technologies.
+dropping and rural school leavers have been performing 10-15 percent worse at UNT than urban ones for a number of years.
+
+Due to the transition to a 12-year education model, documents governing GSE upgrade strategy including contents were prepared in 2007-2009 69. Among the expected outcomes, educational standards set out basic competencies. However, the life skills concept is missing. New subjects have been introduced into the school curricula: financial literacy (grades 4-11), basic religion studies (grade 9) and driving (grades 10-11). As far as the TVE system is concerned, a new Occupation Classifier taking into account employers' proposals was developed; six Interregional Centres for Retraining of Vocational Lyceum and College Teachers were established. In 2009, a total of 85,715 school teachers (33 percent) passed retraining courses devoted to the transition to the 12-year educational system and updating of teaching content and technologies.
 
 Efforts  are  continuing  to  improve  the  quality  of  school textbooks.  Towards  this  goal,  Rules  for  Organisation  of Preparation, Review and Publication of Textbooks, Teaching Materials and Manuals were introduced. In 2008, over a thousand textbooks were deemed non-compliant with the new standards and are no longer allowed to be used in the teaching process. A total of 80 percent of students' needs for textbook are met.
 
 School logistics are being improved through equipment in new subject classrooms, language and multi-media rooms (LMR) and interactive boards. In 2009, equipment for 580 biology classrooms, 459 LMRs, interactive boards were delivered to 721 schools (in 2008, schools received equipment for 700 physics classrooms and 483 LMRs). As reported by the MOES, this year 64.6 percent of schools are accommodated  in  standard  buildings  (61.1  percent  in  2007),  with 35.4  percent  accommodated  in  adjusted  premises  (versus 38.9 percent in 2007), 201 schools are deemed to be in emergency condition (versus 216 in 2007), 25.1 percent of schools require major renovation (versus 23 percent in 2007). By early 2010, 56 schools (52 in 2007) had been built using republican budget funds and commissioned, 27 had been built using local budget funds and commissioned (25 in  2007).  45.8  percent  of  centralised  networks  were  connected to the water supply system, 23.8 percent - to the sanitation system and 20 percent of GSE organisations - to the heating system. A total of 82 percent of schools had medical  offices.  Logistical  and  teaching-methodical  support as well as staffing of ungraded schools require immediate attention.
 
-Social support of poor students has been monitored on a quarterly basis. In 2009, total spending on financial aid to students from socially vulnerable groups exceeded KZT 5 billion or USD 33.9 million (about 2 percent of total school maintenance spending), twice as much as in 2008. Within the  annual  Republican  Action  'Road  to  School'  children from poor families receive financial aid from entrepreneurs, institutions, patron organisations and the civil community. In  2009,  over  190,000  children  in  the  country  benefited from such support totalling KZT 1 billion or US 6.8 million. (against 100,000 children for KZT 405 million. or USD 3.4 million in 2008) 70 .  As reported by the MOES press service, 61.3 percent of school students are supplied with hot meals in schools. Despite these measures, the number of children not  attending  schools  is  not  dropping.  By  late  2008/09, 3,512 students were found to have missed school for up to 10 days without a valid reason, with 3,165 children returning to school. About 90 percent of children not attending school come from poor and disadvantaged families.
+Social support of poor students has been monitored on a quarterly basis. In 2009, total spending on financial aid to students from socially vulnerable groups exceeded KZT 5 billion or USD 33.9 million (about 2 percent of total school maintenance spending), twice as much as in 2008. Within the annual Republican Action 'Road to School' children from poor families receive financial aid from entrepreneurs, institutions, patron organisations and the civil community. In 2009, over 190,000 children in the country benefited from such support totalling KZT 1 billion or US 6.8 million. (against 100,000 children for KZT 405 million. or USD 3.4 million in 2008) 70. As reported by the MOES press service, 61.3 percent of school students are supplied with hot meals in schools. Despite these measures, the number of children not attending schools is not dropping. By late 2008/09, 3,512 students were found to have missed school for up to 10 days without a valid reason, with 3,165 children return-
+
+Table 4. Dynamics of state budget education costs by the MoES organisations (KZT million)
 
 Level of Education | 2006 | 2007 | 2008 | 2009 71
 --- | --- | --- | --- | ---
@@ -1984,8 +1906,6 @@ TVE (colleges) | 10,144 ($80.4) | 13,310 ($108.6) | 14,395 ($119.7) | 28,773 ($1
 …….
 Total | 331,503 ($2,628.9) | 480,696 ($3,924) | 641,060 ($5,328.8) | 746,477 ($5,064.3)
 % of GDP | 3.4 | 3.7 | 4.0 | 4.4
-
-Table 4. Dynamics of state budget education costs by the MoES organisations (KZT million)
 
 > 69 Concept of 12-year General Secondary Education in RoK; Upbringing Concept in the System of Continuous Education in the RoK; pre-school education and training standards, primary education standards; draft standards of basic secondary education, standards of general secondary education, conditions for introduction of State Mandatory Educations Standards by educational organisations training children with disabilities; draft concepts of development of field-specific training, ungraded schools, inclusive education
 
@@ -2003,7 +1923,9 @@ To Achieve Universal Primary Education
 
 [[START OF PAGE 49]]
 
-From 2006 to 2009, education costs more than doubled. The share of state budget education costs as a percentage of GDP is growing (Table 4) 72 . This trend is becoming even stronger within the country's long-term educational policies.
+ing to school. About 90 percent of children not attending school come from poor and disadvantaged families.
+
+From 2006 to 2009, education costs more than doubled. The share of state budget education costs as a percentage of GDP is growing (Table 4) 72. This trend is becoming even stronger within the country's long-term educational policies.
 
 Compared with last year, per student costs have increased on the average by 1.3 times at all educational levels. The transition  to  per  capita  funding  of  secondary  education, firstly,  in  11-12 th grades  is  currently  being  considered. Compared to 2006, teachers' salaries have increased by 40 percent on the average. However, according to the Agency for Statistics last year's average monthly wages in education were 63.5 percent of the Republican average wages. As  reported  by  different  sources  including  mass-media, notwithstanding  improvements  in  financial  aid  provided to GSE organisations, families are increasingly contributing to pre-school and secondary education. According to the Union of the Crisis Centres in Kazakhstan, in 2009 schools collected an average of USD 300 or more from each family, in primary grades this amount can be less, in senior grades it is higher 73 . It can become a serious obstacle for children from poor families to access high-quality educational services.
 
@@ -2163,9 +2085,13 @@ To eliminate gender disparity in primary and secondary education, preferably by 
 
 - To ensure sustainable gender mainstreaming of national planning and budgeting, especially aiming at minimising the gender wage gap
 
-## To Promote Gender Equality and Empower Women GoAl 3
+## GOAL 3 To Promote Gender Equality and Empower Women
 
-To Promote Gender Equality and Empower Women 50 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
+MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
+
+50
+
+To Promote Gender Equality and Empower Women
 
 [[END OF PAGE 52]]
 
@@ -2193,7 +2119,7 @@ The statistical  yearbook 'Women and Men in Kazakhstan' has been published to re
 
 However, despite of the achievements in gender policies there is still a lot to be done in Kazakhstan to achieve true gender equality in the country. Thus, for example, women in high-level positions are represented noticeably less than men. There were only two female ministers among 19 ministers as of the beginning of 2010 (the Ministry of Labour and Social Protection and Ministry of Economic Development and Trade). The proportion of women in the Mazhilis of the Parliament comprised 18 percent.
 
-Women are less in demand than men in the labour market. Due to various reasons, female employment is more represented in informal economy, particularly amongst the selfemployed population. The level of crimes against women remains high.
+Women are less in demand than men in the labour market. Due to various reasons, female employment is more represented in informal economy, particularly amongst the self-employed population. The level of crimes against women remains high.
 
 #### Public Administration
 
@@ -2239,7 +2165,7 @@ the Parliament of Kazakhstan increases from year to year (Figure 1). There were 
 
 #### Violence against Women
 
-Combating  violence  against  women  is  one  of  the  toppriority  objectives  of  social  and  economic  development in  Kazakhstan.  Accordingly,  the  Republic  of  Kazakhstan undertakes important political measures to find new and more  effective  approaches  to  combating  this  phenomenon. Such measures have included Kazakhstan ratifying the UN Convention on Elimination of All Forms of Discrimination  against  Women  on  June  29,  1998  and  joining  its Optional Protocol on July 4, 2001. In 1999, special units for the protection of women against violence (SUPWV) were established  in  the  system  of  Internal  Affairs  authorities, down to the district level. It became one of the practical measures to implement gender policies. The main objective  of  these  units  is  to  protect  women's  constitutional rights and freedoms as well as legitimate interests against unlawful offences. The functioning of the SUPWV is based on strict compliance with the UN Convention on Elimination of All Forms of Discrimination Against Women, the National Strategy of Gender Equality in the Republic of Kazakhstan for 2006-2016, the Law on Prevention of Domestic Violence, the Code on Family and Marriage and the Order of the Ministry of Internal Affairs. The principles of SUPWV activities  are  to  provide  assistance  to  any  woman  seeking such assistance in the police and to prevent violence against women. SUPWV officials coordinate the activities of different police units to prevent and suppress violence against women and review reasons and conditions, which cause violence 83 .
+Combating violence against women is one of the top-priority objectives of social and economic development in Kazakhstan. Accordingly, the Republic of Kazakhstan undertakes important political measures to find new and more effective approaches to combating this phenomenon. Such measures have included Kazakhstan ratifying the UN Convention on Elimination of All Forms of Discrimination against Women on June 29, 1998 and joining its Optional Protocol on July 4, 2001. In 1999, special units for the protection of women against violence (SUPWV) were established in the system of Internal Affairs authorities, down to the district level. It became one of the practical measures to implement gender policies. The main objective of these units is to protect women's constitutional rights and freedoms as well as legitimate interests against unlawful offences. The functioning of the SUPWV is based on strict compliance with the UN Convention on Elimination of All Forms of Discrimination Against Women, the National Strategy of Gender Equality in the Republic of Kazakhstan for 2006-2016, the Law on Prevention of Domestic Violence, the Code on Family and Marriage and the Order of the Ministry of Internal Affairs. The principles of SUPWV activities are to provide assistance to any woman seeking such assistance in the police and to prevent violence against women. SUPWV officials coordinate the activities of different police units to prevent and suppress violence against women and review reasons and conditions, which cause violence 83 .
 
 In  2009,  34,515  cases  of  violence  against  women  were registered (against 35,131 cases in 2008). Property crimes, personal crimes, crimes against health and morality prevail among the crimes against women. Over a third of crimes of  violence  are  thefts  (39.1  percent).  In  addition,  women frequently become victims of robbery (6.6 percent), rapes (14.5  percent),  intended  bodily  harms  (5.4  percent)  and murders (4.2 percent) 84 .
 
@@ -2257,11 +2183,11 @@ Despite some positive changes in the protection of women's rights at the legisla
 
 - there is no unified methodological framework for collection and processing of statistics on violence.
 
-Kazakhstan  assigns  a  high  priority  to  direct  work  with women who have suffered from violence. For this, internal affairs authorities have established collaboration with nongovernmental organisations, including crisis centres; these provide free confidential psychological support, legal advice and social workers' counsellorship to female victims. In fact, only non-governmental crisis centres operating in the country do what they can to help women who suffered from violence.
+Kazakhstan assigns a high priority to direct work with women who have suffered from violence. For this, internal affairs authorities have established collaboration with non-governmental organisations, including crisis centres; these provide free confidential psychological support, legal advice and social workers' counsellorship to female victims. In fact, only non-governmental crisis centres operating in the country do what they can to help women who suffered from violence.
 
 Today there are 21 crisis centres working with victims of violence: 19 of them are for women with children, including eight centres with shelters and two for men. In 2009-2010, 13 crisis centres were financed from the state budget. Over 31,000 people approached and received support from the crisis centres in 2009. However, there are no crisis centres in Atyrau, West Kazakhstan, Zhambyl, Karaganda and Kyzylorda Oblasts.
 
-These are the oblasts that 'traditionally'  are  amongst  the poorest regions (in 2008, the poverty level was 10.2, 11.3, Source: Data of the Secretariat of the National Commission on Women's and Family Affairs and Demographic Policy under the President of Kazakhstan. Astana, 2010.
+These are the oblasts that 'traditionally' are amongst the poorest regions (in 2008, the poverty level was 10.2, 11.3,
 
 > 83 According to the data of the RoK Ministry of Internal Affairs and the National Commission on Women Affairs and Demographic Policies under the President of Kazakhstan, 2010.
 
@@ -2306,21 +2232,23 @@ Almaty | - | 483 | 935 | 7 | 11
 
 * Phone calls from young women and their parents about going abroad to work (usually it is followed by illegal migration with further forced labour and sexual exploitation).
 
+Source: Data of the Secretariat of the National Commission on Women's and Family Affairs and Demographic Policy under the President of Kazakhstan. Astana, 2010.
+
 24.3 and 32.4 respectively, while the national poverty rate was 12.1 percent) 86 . As a rule, poverty is one of the main causes of violence.
 
-Briefly analysing the activities of one of the Crisis Centres in Almaty, called 'Helpmates' ('Podrugi') in the 3rd quarter of 2009, more women apply to the Crisis Centres than men for help (309 phone calls to the hotline from women and only 3 from men). Women between 21 and 50 (29 percent between 21 and 30; 42 percent between 31 and 40 and 20 percent between 41 and 50) suffer from major types of violence such as physical abuse (62 percent) and mental  violence  (24  percent). The  majority  of  victims  of  domestic violence who applied to the Centre live in Almaty
+Briefly analysing the activities of one of the Crisis Centres in Almaty, called 'Helpmates' ('Podrugi') in the 3rd quarter of 2009, more women apply to the Crisis Centres than men for help (309 phone calls to the hotline from women and only 3 from men). Women between 21 and 50 (29 percent between 21 and 30; 42 percent between 31 and 40 and 20 percent between 41 and 50) suffer from major types of violence such as physical abuse (62 percent) and mental violence (24 percent). The majority of victims of domestic violence who applied to the Centre live in Almaty
+
+(26 women), Auezov (33 women), Bostandyk (28 women), Zhetysu (22 women) and Turksib (24 women) districts of Almaty 87 .
+
+While working with domestic violence victims who applied to the centre from 1 January to 30 September 2009, the Helpmates Crisis Centre staff identified major factors causing aggression.
+
+- about 30 percent of aggressors had suffered from child abuse from their parents;
+
+- about 50 percent of aggressors had been raised in the families where quarrels were often between parents and usually ended up with beating of their mothers;
 
 > 86 Standards of Life: Statistic Yearbook. Astana, 2009.
 
 > 87 According to the data provided by 'Helpmates' Crisis Center
-
-(26 women), Auezov (33 women), Bostandyk (28 women), Zhetysu (22 women) and Turksib (24 women) districts of Almaty 87 .
-
-While working with domestic violence victims who applied to  the  centre  from  1  January  to  30  September  2009,  the Helpmates Crisis Centre staff identified major factors causing aggression.
-
-- about 30 percent of aggressors had suffered from child abuse from their parents;
-
-- about 50 percent of aggressors had been raised in the families  where  quarrels  were  often  between  parents and usually ended up with beating of their mothers;
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -2370,59 +2298,10 @@ To Promote Gender Equality and Empower Women
 
 Figure 2. Sex Distribution of Self-Employed, 2003-2008
 
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2,755.6
-
-2,711.9
-
-2,626.9
-
-2,657.6
-
-2657.8
-
-2,020.4
-
-1,330.4
-
-1,334.8
-
-1,283.4
-
-1,307.9
-
-1,332.4
-
-1,306.8
-
-1,425.2
-
-1,377.1
-
-1,337
-
-1,319
-
-1,325.3
-
-1,351
-
-Total
-
-Men
-
-Women
+2003 | 2004 | 2005 | 2006 | 2007 | 2008
+Total | 2,755.6 | 2,711.9 | 2,020.4 | 2,626.9 | 2,657.6 | 2657.8
+Men | 1,330.4 | 1,334.8 | 1,283.4 | 1,307.9 | 1,332.4 | 1,306.8
+Women | 1,425.2 | 1,377.1 | 1,337 | 1,319 | 1,325.3 | 1,351
 
 Source: Agency for Statistics. www.stat.kz
 
@@ -2440,19 +2319,19 @@ Employment in the informal sector in 2008 amounted to 1.86 million people (or 23
 
 > 89 Ibid.
 
-> 90 Based on the materials of the Conference of the RoK Ministry of Labour and Social Protection 'Discussions of the Concept of State Policy at the Labour Market and Employment in Kazakhstan for 2010-2019'. Astana, 25 February 2010.
+A study organised and held in 2008 as requested by the Ministry of Labour and Social Protection and the National Commission on Women and Family Affairs and Demographic Policy under the President of Kazakhstan and supported by the UN Development Fund for Women (UNIFEM), 'Socio-Economic Profile of the Self-Employed in Kazakhstan (case study of Yenbekshy Kazakh District of Almaty Oblast)', demonstrated that:
 
-A study organised and held in 2008 as requested by the Ministry of Labour and Social Protection and the National  Commission on Women and Family Affairs and Demographic Policy under the President of Kazakhstan and supported by the UN Development Fund for Women (UNIFEM), 'Socio-Economic Profile of the Self-Employed in Kazakhstan (case study of Yenbekshy Kazakh District of Almaty Oblast)' , demonstrated that:
+- The self-employed are represented by young and middle-aged people, most of whom are women (59 percent of respondents), mainly Kazakhs (43 percent of respondents) and Russians (41 percent of respondents). Kazakhs and Russians are the prevailing ethnicities in the country. Such demographic profile can be explained by the fact that women represent a majority in the overall population and for different reasons have no or limited access to other employment types;
 
-- The self-employed are represented by young and middle-aged people, most of whom are women (59 percent of respondents), mainly Kazakhs (43 percent of respondents)  and Russians (41 percent of respondents). Kazakhs  and  Russians  are  the  prevailing  ethnicities  in  the country. Such demographic profile can be explained by the fact that women represent a majority in the overall population and for different reasons have no or limited access to other employment types;
-
-- Respondents were mostly employed in the service industries (49 percent of respondents) and trade (38 percent of respondents). Over a half of respondents (55 percent) have been self-employed for more than five years and the majority of them are women. Such a record of self-employment, especially among women, allows us to assume that this type of employment is larger than as presented by the official  statistics  of  the  executive  authorities  responsible for  employment issues. Hence, the mechanisms for registering this group of people should be improved taking into account different forms of labour activities.
+- Respondents were mostly employed in the service industries (49 percent of respondents) and trade (38 percent of respondents). Over a half of respondents (55 percent) have been self-employed for more than five years and the majority of them are women. Such a record of self-employment, especially among women, allows us to assume that this type of employment is larger than as presented by the official statistics of the executive authorities responsible for employment issues. Hence, the mechanisms for registering this group of people should be improved taking into account different forms of labour activities.
 
 - Self-employment represents special types of private business activities having a place in the overall national employment structure as the employment type of a majority of people involved in the informal sector of the economy as 61.3 percent of respondents work without a licence / permit. This means that this sector of the employed population does not participate in contributions to the pension system and are not covered by the social insurance system. As a result, they have no paid sick leaves and do not benefit from the pension and social funds, etc.
 
-Nowadays, there is an obvious premise that self-employment will increase, especially among women, as the economic crisis has affected the national labour market and caused  an  abrupt  release  of  employees,  resulting  in  increased  numbers  of  the  unemployed.  According  to  the 2008  official  statistics,  unemployment  among  women reduced  by  2.5  percent  and  by  1.9  percent  among  men compared to 2005; while the overall unemployment rate reduced by 2.2 percent (Figure 3).
+Nowadays, there is an obvious premise that self-employment will increase, especially among women, as the economic crisis has affected the national labour market and caused an abrupt release of employees, resulting in increased numbers of the unemployed. According to the 2008 official statistics, unemployment among women reduced by 2.5 percent and by 1.9 percent among men compared to 2005; while the overall unemployment rate reduced by 2.2 percent (Figure 3).
 
-The Almaty Safe City Project is being implemented in Kazakhstan, initiated by UNIFEM and UNESCO. The project is aimed at  supporting a systematic and coordinated partnership among local authorities, the national government, non-governmental institutions and community for sharing ideas, knowledge, experience and resources; such sharing will help to fulfil obligations related to the development and implementation of local measures to prevent crimes in public places.
+The Almaty Safe City Project is being implemented in Kazakhstan, initiated by UNIFEM and UNESCO. The project is aimed at supporting a systematic and coordinated partnership among local authorities, the national government, non-governmental institutions and community for sharing ideas, knowledge, experience and resources; such sharing will help to fulfil obligations related to the development and implementation of local measures to prevent crimes in public places.
+
+> 90 Based on the materials of the Conference of the RoK Ministry of Labour and Social Protection 'Discussions of the Concept of State Policy at the Labour Market and Employment in Kazakhstan for 2010-2019'. Astana, 25 February 2010.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -2478,59 +2357,10 @@ Female  labour  migration  from  the  reviewed  countries  of origin has become 
 
 Figure 3. Unemployment by sex, 2003-2008, %
 
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-10.4
-
-9.8
-
-9.2
-
-8.7
-
-7.9
-
-9.6
-
-8.8
-
-8.4
-
-7.8
-
-7.3
-
-6.6
-
-8.1
-
-7.2
-
-7
-
-6.4
-
-5.9
-
-5.3
-
-6.7
-
-Men
-
-Women
-
-Total
+2003 | 2004 | 2005 | 2006 | 2007 | 2008
+Men | 7.2 | 7 | 6.7 | 6.4 | 5.9 | 5.3
+Women | 10.4 | 9.8 | 9.6 | 9.2 | 8.7 | 7.9
+Total | 8.8 | 8.4 | 8.1 | 7.8 | 7.3 | 6.6
 
 Source: Agency for Statistics. www.stat.kz
 
@@ -2540,7 +2370,7 @@ Being actually 'on the fringes of society' , female migrants have no chances for
 
 Problems of women migrant workers arising while working in Kazakhstan tend to be addressed by money payments. Migrant women are not aware of or have a dim idea about the existence of organisations dealing with the protection of migrant workers' rights (other than applications to embassies or consulting with their fellow nationals). The State mechanism of protection of rights is still poor and almost not accessible for migrants (for example, they have no access to courts or such judicial recourse would be not effective for them), the NGOs network is poorly developed and trade unions insufficiently protect labour and social rights of migrants.
 
-In  2010-2012, the International Organisation for Migration (IOM) and UNIFEM with financial support from UK Department of International Development (DFID) will launch a joint programme aimed at protecting human rights and promoting the social and economic status of labour migrants, men and women, and their families in Central Asia and Russia.
+In 2010-2012, the International Organisation for Migration (IOM) and UNIFEM with financial support from UK Department of International Development (DFID) will launch a joint programme aimed at protecting human rights and promot-
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -2552,7 +2382,9 @@ To Promote Gender Equality and Empower Women
 
 [[START OF PAGE 60]]
 
-Particularly,  the  programme will  focus  on  addressing  the following interrelated issues:
+ing the social and economic status of labour migrants, men and women, and their families in Central Asia and Russia.
+
+Particularly, the programme will focus on addressing the following interrelated issues:
 
 - Inefficient  migration  policies  at  the  national  and  regional levels are mainly caused by shortcomings of the labour migration legislation
 
@@ -2610,15 +2442,15 @@ Kazakhstan is efficiently using gender equality promotion instruments in differe
 
 Local governments should give more attention to developing these types of entrepreneurship activities to enhance its stability, especially for women, by creating new job opportunities. In this situation, the development of regional infrastructure  (urban  and  rural)  becomes  critical,  firstly, through  creating  conditions  for  private  businesses.  It  is these private businesses that can absorb the labour outflows, including women. Meanwhile, effective training and retraining system should be created for occupations enabling further employment to newly created jobs.
 
+In 2009, following the President's instructions at the Fourth Women's Forum in Kazakhstan the National Commission on Women Affairs and Family and Demographic Policies under the President of Kazakhstan, the 2009-2015 Programme for Conditional Placement of Funds in Commercial Banks for Micro-crediting of Women Private Businesses was developed. The programme was approved by the Board of Directors of DAMU Business Development Fund. The allocations in 2009 totalled KZT 450 million and KZT 835 million in 2010; the allocations for 2011-2015 will be estimated according to the Budget Programme. The measures for promotion of women's entrepreneurship have resulted in achieving 52 percent of women among SMEs operating as legal entities and 66 percent among registered self-employed entrepreneurs. Thus, one can say that the social and economic development policies pursued in Kazakhstan promote gender equality in the society. 92
+
+However, the role of civil society (non-governmental organisations, research organisations, professional organisations, mass media and businesses) should be increased in the development and monitoring of targeted programmes aimed to enhance safety, particularly safety of women employment in the informal economy, including migrant workers.
+
+Today the fundamental internationally accepted statutory instruments for Kazakhstan to promote gender equality in labour migration are the International Covenant on Economic, Social and Cultural Rights and the UN Convention on Elimination of All Forms of Discrimination against Women. These treaties provide the basis for determining and implementing general measures for providing equal rights for men and women in labour and employment.
+
+The 2006-2016 Strategy of Gender Equality, adopted in 2005 in Kazakhstan, identifies the achievement of gender equality in the economy and competitive recovery of women in the labour market as some of the main focuses of the strategy. This document may provide the basis for gender mainstreaming in various strategic and programme documents of the Government, central and local executive authorities, including those related to the labour migration. However, the issues of gender equality in labour and employment are not adequately prioritised in the current activities of the National Commission on Women's Affairs and Family and Demographic Policies under the President of Kazakhstan and relevant commissions under local governments. Currently, such activities are mainly focused on gender mainstreaming in budget planning and development of social and economic development programmes and not considering this issue in the context of the migration policies and labour migrants working in Kazakhstan.
+
 > 92 http://www.zakon.kz/166828-gendernyjj-aspekt-poslanija-glavy.html
-
-In 2009, following the President's instructions at the Fourth Women's Forum in Kazakhstan the National Commission on Women Affairs and Family and Demographic Policies under the President of Kazakhstan, the 2009-2015 Programme for Conditional Placement of Funds in Commercial Banks for Micro-crediting  of  Women  Private  Businesses  was  developed. The programme was approved by the Board of Directors of DAMU Business Development Fund. The allocations in 2009 totalled KZT 450 million and KZT 835 million in  2010;  the  allocations  for  2011-2015  will  be  estimated according  to  the  Budget  Programme.  The  measures  for promotion of women's entrepreneurship have resulted in achieving 52 percent of women among SMEs operating as legal  entities  and  66  percent  among  registered  self-employed entrepreneurs. Thus, one can say that the social and economic  development  policies  pursued  in  Kazakhstan promote gender equality in the society. 92
-
-However,  the  role  of  civil  society  (non-governmental  organisations, research organisations, professional organisations, mass media and businesses) should be increased in the development and monitoring of targeted programmes aimed  to  enhance  safety,  particularly  safety  of  women employment in the informal economy, including migrant workers.
-
-Today the fundamental internationally accepted statutory instruments  for  Kazakhstan  to  promote  gender  equality in labour migration are the International Covenant on Economic, Social and Cultural Rights and the UN Convention on Elimination of All Forms of Discrimination against Women. These treaties provide the basis for determining and implementing general measures for providing equal rights for men and women in labour and employment.
-
-The  2006-2016  Strategy  of  Gender  Equality,  adopted  in 2005  in  Kazakhstan,  identifies  the  achievement  of  gender equality in the economy and competitive recovery of women in the labour market as some of the main focuses of  the  strategy. This document may provide the basis for gender mainstreaming in various strategic and programme documents of the Government, central and local executive authorities,  including  those  related  to  the  labour  migration. However, the issues of gender equality in labour and employment are not adequately prioritised in the current activities of the National Commission on Women's Affairs and Family and Demographic Policies under the President of Kazakhstan and relevant commissions under local governments. Currently, such activities are mainly focused on gender mainstreaming in budget planning and development  of  social  and  economic  development  programmes and not considering this issue in the context of the migration policies and labour migrants working in Kazakhstan.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -2630,11 +2462,11 @@ To Promote Gender Equality and Empower Women
 
 [[START OF PAGE 62]]
 
-## To Reduce Child Mortality GoAl 4
+## GOAL 4 To Reduce Child Mortality
 
 ### TARGET 5
 
-To reduce by two thirds, between 1990 and 2015, the under-five mortality rate MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
+To reduce by two thirds, between 1990 and 2015, the under-five mortality rate
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -2645,6 +2477,8 @@ To Reduce Child Mortality
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 To Reduce Child Mortality
 
@@ -2740,9 +2574,11 @@ In countries boasting well-organised perinatal care and low infant mortality (le
 
 In Kazakhstan, mortality in newborns with a birth weight from 500 to 1,500g in the early neonatal period is primarily caused by severe respiratory disorders (asphyxia + respiratory distress syndrome in 32.8 percent in 2008 and 35.7 percent  in  2009).  Conditions  caused  by  reasons  that  are hard to prevent (connected with extreme immaturity) were cited as the cause of death for 29.0 percent of newborns with a gestational age (GA) below 26 weeks in 2008 and 2009 (Figure 9, 10).
 
-Name of Region | Infant mortality | 1,000 live births) Child mortality (per 1,000
+Table 1. Infant and child mortality in the Republic of Kazakhstan in 2006-2009
+
+Name of Region | Infant mortality (per 1,000 live births) |  |  |  | Child mortality (per 1,000 live births) |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-2006 | 2007 | 2008 | 2009 | 2006 | 2007 | 2008 | 2009
+ | 2006 | 2007 | 2008 | 2009 | 2006 | 2007 | 2008 | 2009
 Kazakhstan | 13.91 | 14.57 | 20.76 | 18.23 | 17.54 | 17.91 | 23.52 | 21.28
 Akmola Oblast | 11.84 | 12.11 | 17.58 | 17.18 | 15.73 | 14.15 | 19.87 | 20.06
 Aktobe Oblast | 14.37 | 13.89 | 19.05 | 17.81 | 17.08 | 17.08 | 21.66 | 20.76
@@ -2760,6 +2596,8 @@ North Kazakhstan Oblast | 10.79 | 15.22 | 21.05 | 13.91 | 13.96 | 18.61 | 22.78 
 South Kazakhstan Oblast | 16.41 | 19.29 | 25.56 | 20.98 | 21.66 | 24.16 | 29.36 | 24.52
 Almaty | 11.76 | 13.29 | 19.21 | 15.18 | 12.94 | 14.68 | 20.12 | 16.27
 Astana | 10.98 | 10.97 | 13.45 | 14.08 | 12.57 | 12.39 | 15.21 | 15.89
+
+Data of the Ministry of Healthcare of the Republic of Kazakhstan
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -3081,65 +2919,13 @@ Inexpensive  perinatal  technologies  are  required  to  prevent these condition
 
 Figure 10. Causes of mortality in newborns with birth weight less than 1,500g in early neonatal period, 2009
 
-35.7%
-
-29.1%
-
-24.6%
-
-16.0%
-
-13.1%
-
-11.1%
-
-Asphyxia +
-
-Immaturity
-
-RDS
-
-conditions
-
-Total
-
-Birth weight of 500-999g
-
-11.3%
-
-6.6%
-
-4.7%
-
-0.5%
-
-Infections
-
-0.2%
-
-Birth
-
-5.1%
-
-2.0%
-
-3.1%
-
-0.3%
-
-Congenital
-
-injuries disorders
-
-Birth weight of 1,000-1,499g
-
-19.3%
-
-11.6%
-
-7.7%
-
-Others Despite the adoption of the Programme on Support and Promotion of Breast-feeding (Order of the MoH №113 dd. 25/07/97) few obstetric care facilities realise the importance of exclusive breast-feeding and early skin-to-skin contact of mothers and newborns in preventing infectious diseases in babies. Assessment of the existing situation in obstetric facilities in Kazakhstan (UNICEF, 2006) shows that though 97  percent  and  54  percent  of  obstetric  facilities  practice early  breast-feeding  after  normal  labour  and  caesarean section respectively, in 50 percent of cases the first breastfeeding does not last longer than 10-15 minutes instead of recommended 60-90 minutes. Such situation implies brief skin-to-skin contact of mothers and infants, which means lack of passive transfer of colostral antibodies from mother to child and primarily nosocomial colonisation with subsequent severe bacterial infections.
+ | Total | Birth weight of 500-999g | Birth weight of 1,000-1,499g
+Asphyxia + RDS | 35.7% | 24.6% | 11.1%
+Immaturity conditions | 29.1% | 16.0% | 13.1%
+Infections | 11.3% | 4.7% | 6.6%
+Birth injuries | 0.5% | 0.2% | 0.3%
+Congenital disorders | 5.1% | 2.0% | 3.1%
+Others | 19.3% | 11.6% | 7.7%
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -3151,8 +2937,9 @@ To Reduce Child Mortality
 
 [[START OF PAGE 68]]
 
+Table 2. Stillbirth and infant mortality in Kazakhstan in 2008 (per 1,000 births in the respective birth weight category)
+
 Time of Death
---- | --- | --- | --- | --- | --- | ---
 Birth weight, g | Antepartum | Intrapartum | 0-6 days | 7-28 days | 28 days - 1 year | Total
 500-999 | 344.5 | 77.4 | 440.1 | 43.2 | 20.8 | 926
 1,000-1,499 | 170 | 21.8 | 279.1 | 57.7 | 21.4 | 560.2
@@ -3160,145 +2947,37 @@ Birth weight, g | Antepartum | Intrapartum | 0-6 days | 7-28 days | 28 days - 1 
 2,500 | 2.7 | 0.9 | 3.5 | 1.3 | 4.3 | 12.6
 Total | 8.8 | 1.9 | 12 | 2.8 | 5.4 | 30.9
 
-Table 2. Stillbirth and infant mortality in Kazakhstan in 2008 (per 1,000 births in the respective birth weight category)
+Despite the adoption of the Programme on Support and Promotion of Breast-feeding (Order of the MoH №113 dd. 25/07/97) few obstetric care facilities realise the importance of exclusive breast-feeding and early skin-to-skin contact of mothers and newborns in preventing infectious diseases in babies. Assessment of the existing situation in obstetric facilities in Kazakhstan (UNICEF, 2006) shows that though 97 percent and 54 percent of obstetric facilities practice early breast-feeding after normal labour and caesarean section respectively, in 50 percent of cases the first breast-feeding does not last longer than 10-15 minutes instead of recommended 60-90 minutes. Such situation implies brief skin-to-skin contact of mothers and infants, which means lack of passive transfer of colostral antibodies from mother to child and primarily nosocomial colonisation with subsequent severe bacterial infections.
 
 Figure 11. Causes of mortality in newborns with birth weight less than 1,500g, 2008
 
+ | Total | Birth weight of 1,500-2,499g | Birth weight of 2,500g and over
+asphyxia + RDS | 18% | 11.2% | 6.8%
+Infections | 21.4% | 12.3% | 9.1%
+Immaturity conditions | 12.3% | 9.8% | 2.5%
+Birth injuries | 3.1% | 0.7% | 2.4%
+Congenital disorders | 21.7% | 7.9% | 13.8%
+Others | 23.5% | 11.1% | 12.4%
+
 Thus, in most cases diseases and deaths of newborns with a birth weight exceeding 1,500g in the early neonatal period is not a consequence of severe perinatal pathologies and occurs due to lack of quality perinatal care. The introduction of exclusive breast-feeding and efficient evidence-based perinatal technologies recommended by the WHO into obstetric care will promote the survival of the majority of newborns with an intermediate (1,500-2,499) and normal birth weight and decrease their mortality by at least 50 percent.
 
-In most cases mortality of children seven days to one year old (late neonatal and post-neonatal periods, Figure 7-8) is caused by congenital disorders (18.5 percent in 2008 and 20.2  percent  in  2009),  i.e.  one  in  every  four  babies  with this  pathology.  In  absolute  numbers,  1,343  children  died of congenital disorders in 2009 in Kazakhstan, exceeding the number of deaths from respiratory diseases (514 - 8.1 percent) and infections (476 - 5.3 percent) taken together.
+In most cases mortality of children seven days to one year old (late neonatal and post-neonatal periods, Figure 7-8) is caused by congenital disorders (18.5 percent in 2008 and 20.2 percent in 2009), i.e. one in every four babies with this pathology. In absolute numbers, 1,343 children died of congenital disorders in 2009 in Kazakhstan, exceeding the number of deaths from respiratory diseases (514 – 8.1 percent) and infections (476 – 5.3 percent) taken together.
 
-There is doubt about validity of this indicator, since if these were  fatal  disorders,  in  most  cases  infants  would  die  in their  early  neonatal  period.  Nevertheless,  this  situation calls for a thorough check. It could be that in children with congenital disorders, any secondary disease, in particular, an infection or a respiratory disease proceeds with more complications than without a disorder and can result in a fatal outcome. Nevertheless, in this case the main cause of death is a disease, not a development disorder.
+There is doubt about validity of this indicator, since if these were fatal disorders, in most cases infants would die in their early neonatal period. Nevertheless, this situation calls for a thorough check. It could be that in children with congenital disorders, any secondary disease, in particular, an infection or a respiratory disease proceeds with more complications than without a disorder and can result in a fatal outcome. Nevertheless, in this case the main cause of death is a disease, not a development disorder.
 
-Second among significant causes of mortality in children seven  days  to  one  year  old  are  respiratory  diseases  (ARI, pneumonia) and infections (Figure 7-8). A major determinant of child mortality in the aforementioned cases is poor performance of primary healthcare (PHC and hospitals) in clinical case management and patronage care for child for disease prevention.
+Second among significant causes of mortality in children seven days to one year old are respiratory diseases (ARI, pneumonia) and infections (Figure 7-8). A major determinant of child mortality in the aforementioned cases is poor performance of primary healthcare (PHC and hospitals) in clinical case management and patronage care for child for disease prevention.
 
 The country still reports high within-day mortality (10.2 to 11.1 percent) of children admitted to hospitals. This has to do with parents' unawareness of danger signs as pointed out in UNICEF's Multi-indicator Cluster Survey (MICS, 2006).
 
 Figure 12. Causes of mortality in newborns with birth weight less than 1,500g, 2009
 
-asphyxia +
-
-RDS
-
-Infections
-
-Immaturity
-
-conditions
-
-Birth
-
-injuries
-
-Congenital
-
-disorders
-
-Others
-
-Total
-
-Birth weight of 1,500-2,499g
-
-Birth weight of 2,500g and over
-
-18%
-
-11.2%
-
-6.8%
-
-21.4%
-
-12.3%
-
-3.1%
-
-21.7%
-
-23.5%
-
-9.1%
-
-9.8%
-
-0.7%
-
-7.9%
-
-11.1%
-
-12.3%
-
-2.5%
-
-2.4%
-
-13.8%
-
-12.4%
-
-asphyxia +
-
-RDS
-
-Infections
-
-Immaturity
-
-conditions
-
-Birth
-
-injuries
-
-Congenital
-
-disorders
-
-Others
-
-Total
-
-Birth weight of 1,500-2,499g
-
-Birth weight of 2,500g and over
-
-16.9%
-
-9.7%
-
-7.1%
-
-20.5%
-
-12.0%
-
-3.0%
-
-25.5%
-
-22.1%
-
-10%
-
-9.9%
-
-0.7%
-
-9.3%
-
-10.8%
-
-10.5%
-
-2.2%
-
-2.2%
-
-16.2%
-
-11.3%
+ | Total | Birth weight of 1,500-2,499g | Birth weight of 2,500g and over
+asphyxia + RDS | 16.9% | 9.7% | 7.1%
+Infections | 20.5% | 10% | 10.5%
+Immaturity conditions | 12.0% | 9.9% | 2.2%
+Birth injuries | 3.0% | 0.7% | 2.2%
+Congenital disorders | 25.5% | 9.3% | 16.2%
+Others | 22.1% | 10.8% | 11.3%
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -3413,12 +3092,13 @@ To Reduce Child Mortality
 [[START OF PAGE 70]]
 
 Table 3. Determinants of feto-infant mortality in Kazakhstan, 2008
---- | --- | --- | --- | --- | ---
+
 Birth weight, g | Antenatal mortality | Intranatal mortality | Early neonatal mortality | Late neonatal mortality | Post-neonatal mortality
-500-999 | Pre-pregnancy health:
-1,000-1,499 | 11.5‰
-1,500-2,499 | Pregnancy care: | Newborn care: | 6.2‰
-2,500 | 6.0‰ | 7.2‰ | Baby care:
+--- | --- | --- | --- | --- | ---
+500-999 | Pre-pregnancy health: |  |  |  | 
+1,000-1,499 | 11.5‰ |  |  |  | 
+1,500-2,499 | Pregnancy care: |  | Newborn care: |  | 6.2‰
+2,500 | 6.0‰ |  | 7.2‰ | Baby care: | 
 
 One  of  significant  reasons  for  insufficient  introduction  of effective perinatal technologies in the country is the MoH Order №335 dd. 02/08/2006 is not binding as it has not been yet approved by the Ministry of Justice, whereas the current Order №420 dd. August 17, 1998. This contradicts the MoH Order №335 dd. 02/08/2006 and thus hampers considerably the introduction of effective perinatal technologies.
 
@@ -3538,7 +3218,7 @@ To Reduce Child Mortality
 
 [[START OF PAGE 72]]
 
-## To Improve Maternal Health GoAl 5
+## GOAL 5 To Improve Maternal Health
 
 ### TARGET 6
 
@@ -3771,51 +3451,11 @@ Table 2. Percentage of women visiting a doctor or a midwife, at least, once duri
 
 Also, there are no disaggregated data of access to antenatal care and obstetric care on the part of persons with disabilities,  migrants,  persons  living  below  the  poverty  line, representatives of marginal population groups, PLH, etc.
 
+Table 3. Percentage of childbirths in Kazakhstan attended by obstetrician-gynaecologists or certified midwifes,% 109
+
 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 99.7 | 99.8 | 99.9 | 100 | 100 | 99.9 | 100 | 100 | 100 | 100
-
-Table 3. Percentage of childbirths in Kazakhstan attended by obstetrician- gynaecologists or certified midwifes,% 109
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-99.7
-
-99.8
-
-99.9
-
-100
-
-100
-
-99.9
-
-100
-
-100
-
-100
-
-100
 
 Along with the above-stated indicators, progress in achieving MDG 5 should be measured by other indicators based on the above mentioned causes of still high maternal mortality.
 
@@ -3837,20 +3477,35 @@ To Improve Maternal Health
 
 #### Extent of implementation of modern evidence-based clinical protocols to manage pregnancy, labour and their complications
 
-There  is  no  national  data  on  percentage  of  reproductive health  and  obstetric  aid  organisations  using  evidencebased clinical protocols recommended by WHO. However, with  the  support  of  the  MoH  and  assistance  from  WHO and UNFPA the above-mentioned protocols are known to be  increasingly  implemented  in  the  reproductive  health and obstetric aid services. Clinical protocols and protocolbased internal standards of pregnancy, labour and labour complications based on evidence-based medicine are currently used in a large number of obstetric facilities in Astana,  Almaty,  South-Kazakhstan,  Aktobe,  Karaganda,  East Kazakhstan and other oblasts of Kazakhstan.
+There is no national data on percentage of reproductive health and obstetric aid organisations using evidence-based clinical protocols recommended by WHO. However, with the support of the MoH and assistance from WHO and UNFPA the above-mentioned protocols are known to be increasingly implemented in the reproductive health and obstetric aid services. Clinical protocols and protocol-based internal standards of pregnancy, labour and labour complications based on evidence-based medicine are currently used in a large number of obstetric facilities in Astana, Almaty, South-Kazakhstan, Aktobe, Karaganda, East Kazakhstan and other oblasts of Kazakhstan.
 
 #### Family planning, STI and HIV/AIDS prevention
 
 There is no data on the percentage of population covered with family planning and STI and HIV prevention services. Only use of contraceptives by women registered with obstetrician-gynaecologists  is  accounted  for.  In  total,  based on  2008  statistics,  1.78  million  women  (out  of  total  4.42 million women aged 15-49) used contraceptives. Just like before, almost all family planning facilities recommend at least three modern contraception methods, but, as a rule, contraceptives  are  prescribed  and  not  distributed  free  of charge to people, including socially vulnerable groups. According to the 2006 survey approximately a half of women of  child-bearing  age,  currently  married  or  in  continuous sexual partnership, report the use of contraception, with an overwhelming majority of them using modern contraceptives. The other half did not use contraceptives (Table 4).
 
-Table 15-49 using any method | currently married or in union, % 110
+Table 4. Use of contraceptives by women aged 15-49 currently married or in union, % 110
+
+Not using any method | Intrauterine devices | Pills | Injections | Male condoms | Any modern method | Any traditional method
 --- | --- | --- | --- | --- | --- | ---
-Intrauterine devices | Pills | Injections | Male condoms | Any modern method | Any tradition- al method
 49.3 | 36.2 | 6.7 | 0.3 | 4.8 | 48.7 | 2.0
+
+A 2009 survey reported an unsatisfied need for modern contraception 111 in South Kazakhstan Oblast (14 percent), and the former Semipalatinsk nuclear range (11 percent) 112. In 1999, the unsatisfied need for contraception was 9 percent in Kazakhstan as a whole 113. Thus, no progress in meeting women's need for contraceptives has been observed. Meanwhile, according to registered statistics, one out of four pregnancies in the country ended in an abortion in 2009.
+
+Available statistics show a decrease in the abortion rates in Kazakhstan. Over the past ten years the ratio of registered pregnancies to abortions has dropped from 2.5:1 to 4:1. It should be noted that this might have to do with decreased registration of abortions rather than a true drop in the abortion rate. In the experts' opinion, it is quite possible that:
+
+- the share of unregistered paid services in total abortion services including informal ones in state facilities has increased;
+
+- the informal practice of medical abortions has expanded both in and outside of medical facilities;
+
+- abortions for the population of Kazakhstan, in particular, that in southern regions, are increasingly performed in bordering countries (Uzbekistan, Kyrgyzstan) for a lower fee, including informal fees: the healthcare price gap between these countries and Kazakhstan is growing steadily.
+
+To confirm or challenge a genuine reduction in abortions in Kazakhstan, each of the provided alternative assumptions needs to be checked and more data needs to be obtained.
+
+In some cities in Kazakhstan, the reproductive health network is complemented by youth-friendly clinics (youth health centres) and friendly facilities for hard-to-reach groups which are most vulnerable for HIV transmission (primarily injecting drug consumers, sex workers and men having sex with men). Youth health centres are still few in number, and their functions basically boil down to education, information and counselling. These centres do not provide family planning, STI treatment or safe abortion services. A 2008 survey 114 has shown that, as a rule, socially vulnerable young people do not consider centres with a limited range of services to be useful and do not visit them, though 10 percent responded that they need help. Meanwhile, in 2009 the birth rate among teenage girls aged 15-19 years, 31.1 per 1,000 girls of this age-group, was too high to be acceptable and has not been declining over the past few years (Table 5).
 
 > 110 2006 Multiple Indicator Cluster Survey, final report, Astana, 2007
 
-> 111 i.e.  percentage of fertile sexually active women who do not want to become pregnant within the upcoming 2 years and are not using modern contraceptives
+> 111 i.e. percentage of fertile sexually active women who do not want to become pregnant within the upcoming 2 years and are not using modern contraceptives
 
 > 112 Study on introduction of effective perinatal technologies and family planning in South Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009; Research on introduction of effective perinatal technologies and family planning in East Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009 (available in Russian only).
 
@@ -3858,33 +3513,19 @@ Intrauterine devices | Pills | Injections | Male condoms | Any modern method | A
 
 > 114 Survey on sexual and reproductive health needs of vulnerable young people in Kazakhstan: results of the survey, Center for Public Opinion Surveys, Almaty, 2009 (available in Russian only).
 
-A  2009  survey  reported  an  unsatisfied  need  for  modern contraception 111  in South Kazakhstan Oblast (14 percent), and the former Semipalatinsk nuclear range (11 percent) 112 . In 1999, the unsatisfied need for contraception was 9 percent in Kazakhstan as a whole 113 . Thus, no progress in meeting women's need for contraceptives has been observed. Meanwhile,  according  to  registered  statistics,  one  out  of four  pregnancies  in  the  country  ended  in  an  abortion  in 2009.
-
-Available statistics show a decrease in the abortion rates in Kazakhstan. Over the past ten years the ratio of registered pregnancies to abortions has dropped from 2.5:1 to 4:1. It should be noted that this might have to do with decreased registration of abortions rather than a true drop in the abortion rate. In the experts' opinion, it is quite possible that:
-
-- the share of unregistered paid services in total abortion services  including  informal  ones  in  state  facilities  has increased;
-
-- the informal practice of medical abortions has expanded both in and outside of medical facilities;
-
-- abortions for the population of Kazakhstan, in particular, that in southern regions, are increasingly performed in  bordering  countries  (Uzbekistan,  Kyrgyzstan)  for  a lower fee, including informal fees: the healthcare price gap between these countries and Kazakhstan is growing steadily.
-
-To confirm or challenge a genuine reduction in abortions in Kazakhstan, each of the provided alternative assumptions needs to be checked and more data needs to be obtained.
-
-In some cities in Kazakhstan, the reproductive health network  is  complemented  by  youth-friendly  clinics  (youth health  centres)  and  friendly  facilities  for  hard-to-reach groups  which  are  most  vulnerable  for  HIV  transmission (primarily injecting drug consumers, sex workers and men having sex with men). Youth health centres are still few in number, and their functions basically boil down to education,  information  and  counselling.  These  centres  do  not provide  family  planning,  STI  treatment  or  safe  abortion services. A 2008 survey 114 has shown that, as a rule, socially vulnerable young people do not consider centres with a limited range of services to be useful and do not visit them, though 10 percent responded that they need help. Meanwhile,  in  2009  the  birth  rate  among  teenage  girls  aged 15-19 years, 31.1 per 1,000 girls of this age-group, was too high to be acceptable and has not been declining over the past few years (Table 5).
-
 75 To Improve Maternal Health MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
 
-1999 | 2006 | 2007 | 2008
+Table 5. Birth rate among teenagers aged 15-19 in Kazakhstan per 1,000 girls of this age 115
+
+ | 1999 | 2006 | 2007 | 2008
 --- | --- | --- | --- | ---
 Urban | 31.3 | 30.5 | 32.9 | 35.0
 Rural | 36.9 | 24.9 | 25.9 | 27.5
 Total | 33.8 | 27.9 | 28.5 | 31.1
-
-Table 5. Birth rate among teenagers aged 15-19 in Kazakhstan per 1,000 girls of this age 115
 
 #### Preventive behaviour and population awareness
 
@@ -3900,7 +3541,7 @@ The extent to which the healthcare regulatory framework ensures implementation o
 
 Further examples demonstrate contradictions in the regulations  of  the  Ministry  of  Healthcare.  These  regulations provide, on the one hand, for delivery in a private delivery ward in the presence and with the support of her partner (husband  or  relative)  as  recommended  by  WHO,  whilst on  the  other  hand,  observance  of  sterility  during  labour as  prescribed  by  the  sanitary  and  epidemiologic  service, which excludes the presence of relatives.
 
-The  period  2007-2009  saw  positive  changes  in  the  infrastructure of obstetric care. Many obstetric hospitals were converted into structural divisions of multi-type hospitals, which has considerably enhanced and facilitated emergency surgery and resuscitation interventions. It is planned to accommodate  obstetric  facilities  within  the  new  multitype  hospitals,  being  constructed  as  a  part  of  the  social programme '100  schools,  100  hospitals'  initiated  by  the President of the Republic.
+The period 2007-2009 saw positive changes in the infrastructure of obstetric care. Many obstetric hospitals were converted into structural divisions of multi-type hospitals, which has considerably enhanced and facilitated emergency surgery and resuscitation interventions. It is planned to
 
 > 115 Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2008; Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2009 (available in Kazakh and Russian only).
 
@@ -3916,7 +3557,9 @@ To Improve Maternal Health
 
 [[START OF PAGE 79]]
 
-The Republic has some regulations on the regionalisation of perinatal care aimed at providing pregnant women with access  to  higher-level  medical  facilities,  which  can  offer them more skilled care. Nevertheless, there is no data on the share of women, whose condition required hospitalisation  and  who  were  admitted  to  second-  or  third-level obstetric  facilities.  Meanwhile,  in  2009,  one  in  every  four mothers died in conditions when the regionalisation principle was not observed, i.e. at the first level, in the central regional hospital or during transportation to a higher-level obstetric facility. In some cases, first-level maternity hospitals were not ready to provide emergency aid.
+accommodate obstetric facilities within the new multi-type hospitals, being constructed as a part of the social programme '100 schools, 100 hospitals' initiated by the President of the Republic.
+
+The Republic has some regulations on the regionalisation of perinatal care aimed at providing pregnant women with access to higher-level medical facilities, which can offer them more skilled care. Nevertheless, there is no data on the share of women, whose condition required hospitalisation and who were admitted to second- or third-level obstetric facilities. Meanwhile, in 2009, one in every four mothers died in conditions when the regionalisation principle was not observed, i.e. at the first level, in the central regional hospital or during transportation to a higher-level obstetric facility. In some cases, first-level maternity hospitals were not ready to provide emergency aid.
 
 Nevertheless,  one  should  admit  that  progress  has  been achieved  in  the  way  to  regionalisation  of  perinatal  care. Compared to 2006, in the context of an essential reduction in  maternal  mortality  the  share  of  mothers,  who  died  in first-level hospitals, dropped by almost two times in 2009 (Figure 2). In 2009, the majority of deceased mothers had been offered medical care of quite high level.
 
@@ -3928,33 +3571,10 @@ Progress achieved in integrating reproductive health, STIs and HIV/AIDS care is 
 
 Figure 2. Maternal Mortality in the Republic of Kazakhstan, by place of death 117
 
-Level I
-
-Level II
-
-12%
-
-46%
-
-26%
-
-16%
-
-6%
-
-20%
-
-40%
-
-34%
-
-2009
-
-2006
-
-Level III
-
-Others
+Year | Level I | Level II | Level III | Others
+--- | --- | --- | --- | ---
+2009 | 16% | 26% | 46% | 12%
+2006 | 34% | 40% | 20% | 6%
 
 At the same time, the reproductive health system has failed to cover the full scope of STIs care contrary to WHO recommendations. Reproductive health entities are not authorised to treat syphilis, gonococcal and chlamydial infections in women and their partners, and whenever the specified infections are detected, patients are referred to dermatological  /  STD  dispensaries.  Given  that  an  overwhelming majority of laboratories are not equipped to diagnose correctly half or more cases of gonococcal and chlamydial infections in women, a significant proportion of patients of the reproductive health service having genital lesion symptoms as well as their partners are not treated adequately. As  a  result,  infection  agents  resulting  in  habitual  miscarriages and infertility circulate among population. It comes as no surprise that STIs are so widespread, as indicated by incidence of easily recognisable syphilis, which agent's antibodies were found by sentinel surveillance to be present in 2-3 percent of pregnant women in 2006-2007 119 .
 
@@ -3986,7 +3606,7 @@ Peer-to-peer training has not achieved essential progress either.  Thus,  in  So
 
 No essential progress has been achieved in fighting gender  stereotypes,  which  impact  on  sexual  and  reproductive health. Stability of these stereotypes has not yet been measured. Counteracting violence against women has not been integrated into public healthcare. However, the Law 'On Prevention of Domestic Violence' , passed in 2009, opens new prospects for improving the conditions for women to exercise of their reproductive rights, which should have a positive impact on maternal health.
 
-Changes in reproductive health investments over the past three years are hard to measure since, as mentioned above, the healthcare budget does not contain a separate item on investments. However, in 2009, Kazakhstan's total healthcare expenses remained quite low, only 3.7 percent of the country's  GNP  versus  an  average  of  8.4  percent  of  GNP (2006) in the WHO European region 121 . In 2009, healthcare expenses  per  capita  in  Kazakhstan  totalled  KZT  30,373, equivalent to USD 225, or eight times lower than the average expenses in the WHO European region. Considerable amounts have been spent on construction of buildings and facilities as well as the creation and maintenance of large well-equipped  clusters  (including  obstetric-gynaecologic clusters)  in  the  centre,  whereas  many  primary-  and  secondary-level facilities in provinces, which provide care an overwhelming majority of women, had no conditions required for providing high-quality obstetric care in line with modern requirements. As mentioned above, the supply for vulnerable groups, including the poor, large families, migrants, women with complicated extra-genital pathology, making a pregnancy contraindicative, and marginal groups with contraceptives remains unresolved.
+Changes in reproductive health investments over the past three years are hard to measure since, as mentioned above, the healthcare budget does not contain a separate item on investments. However, in 2009, Kazakhstan's total healthcare expenses remained quite low, only 3.7 percent of the country's GNP versus an average of 8.4 percent of GNP (2006) in the WHO European region 121. In 2009, healthcare expenses per capita in Kazakhstan totalled KZT 30,373, equivalent to USD 225, or eight times lower than the average expenses in the WHO European region. Considerable amounts have been spent on construction of buildings and facilities as well as the creation and maintenance of large well-equipped clusters (including obstetric-gynaecologic
 
 > 120 Report on assessment of youth awareness of reproductive rights and sexual health in South Kazakhstan Oblast: Center for Public Opinion Surveys, Almaty, 2009 (available in Russian only).
 
@@ -4002,7 +3622,9 @@ To Improve Maternal Health
 
 [[START OF PAGE 81]]
 
-Thus,  over  the  past  three  years,  progress  on  the  way  to MDG 5 has been observed, although not all reserves have been used to strengthen maternal health.
+clusters) in the centre, whereas many primary- and secondary-level facilities in provinces, which provide care an overwhelming majority of women, had no conditions required for providing high-quality obstetric care in line with modern requirements. As mentioned above, the supply for vulnerable groups, including the poor, large families, migrants, women with complicated extra-genital pathology, making a pregnancy contraindicative, and marginal groups with contraceptives remains unresolved.
+
+Thus, over the past three years, progress on the way to MDG 5 has been observed, although not all reserves have been used to strengthen maternal health.
 
 #### Main barriers and risks towards the achievement of MDG 5
 
@@ -4010,13 +3632,13 @@ The main MDG 5 barriers have legal and socio-economic components. Though the cur
 
 Age limits on young people's legal capacity to make decisions on health care pose a serious obstacle on the way to achievement  of  universal  access  to  reproductive  health. According to the National Centre for Problems of Healthy Lifestyle  Development,  quite  often  teenagers  have  their first  sexual  experience  at  the  age  of  15  or  younger.  The criminal law of the country considers a girl capable of making deciding on having a sexual intercourse when she turns 16. However, the legislation does not recognise a teenager's right to be examined by a gynaecologist, to be treated from STIs, to receive contraceptives or to decide on termination of pregnancy without the consent of her parents or legal guardians until she turns 18. This situation excludes a range of friendly services to teenagers, whose majority is only willing to receive confidential free services. As a result, teenagers do not seek help they need, get unwanted pregnancies, high-risk labour and STIs.
 
-Another important obstacle to achieving MDG 5 is certain inertness of health staff in introducing modern evidencebased  technologies.  This  includes  conservatism  of  some leading scientists and experts trained in the 'Soviet' school of  obstetrics  and  gynaecology,  which  did  not  always  follow  the  principles  of  evidence-based  medicine,  and  often  relied  on  subjective  clinical  experience.  Quite  often WHO-supported approaches of evidence-based medicine and  approaches  described  in  treatises  of  representatives of  the  Soviet  school  of  obstetrics  and  gynaecology differ considerably. It is not always easy for obstetric scientists to rethink paradigms that until recently had seemed to be so unshakeable;  furthermore,  these  are  the  paradigms  they had been relied on for many years in their treatises, teaching materials and lectures.
+Another important obstacle to achieving MDG 5 is certain inertness of health staff in introducing modern evidence-based technologies. This includes conservatism of some leading scientists and experts trained in the 'Soviet' school of obstetrics and gynaecology, which did not always follow the principles of evidence-based medicine, and often relied on subjective clinical experience. Quite often WHO-supported approaches of evidence-based medicine and approaches described in treatises of representatives of the Soviet school of obstetrics and gynaecology differ considerably. It is not always easy for obstetric scientists to rethink paradigms that until recently had seemed to be so unshakeable; furthermore, these are the paradigms they had been relied on for many years in their treatises, teaching materials and lectures.
 
 These doubts are quite often well-tuned to moods reigning in obstetric facilities. As informal fees are paid to delivering staff,  obstetrician-gynaecologists  can  be  willing  to  act  as recommended by the Soviet school and to speed up delivery (which turned out to make complications more frequent) without sufficient reasons, as far as WHO experts are concerned. Similarly, in order to prevent the attendance of physiological delivery by midwives strongly recommended by WHO experts doctors can remain committed to outdated labour medicalisation recommendations recognised by the WHO experts to be unnecessary and harmful.
 
 Attempts continue to prove the unacceptability of recommendations of the WHO, with a presumably very low index of the health of fertile aged women in the country, which makes Kazakhstan different from other countries. According to available estimates, there are, on average, 31 percent of pregnant women with pathologies in Kazakhstan, with a  very  large  variation  (±40  percent)  between  oblasts 122 . However, this indicator has never been studied within the framework  of  clear-cut  criteria  of  customer  classification as  healthy,  apparently healthy and sick. The health index was measured through a retrospective data collection with no  standard  methodology  for  initial  examination.  Women's classification under one of these categories has been determined by the depth of the examination, the doctor's ability to correctly diagnose and classify diseases and their subjective attitude towards a need to write a diagnosis in medical records. No prospective studies to confirm the validity of reference to health index have been ever held.
 
-A serious barrier is the inertness of the management system, which is focused on activities, rather than on outputs, and tracking of their effects on outcomes and the ultimate achievement of the goal. Cited above are examples of lacking information on basic indicators describing short-term outcomes of maternal health strengthening programmes, which are directly linked to the causes of quite high maternal mortality in the country. Their values should be measured  during  programme  interventions.  High-quality  strategic planning is in absolute need for data on the degree of regionalisation of perinatal care, the extent of the introduction of evidence-based clinical protocols of pregnancy, labour and their complications, the level of a satisfied need for basic drugs and contraceptives, on a national scale, and other related data. However, these are neither established nor used. In addition, there is no reliable data on financing of the reproductive health protection system. The lack of  disaggregated  data  describing  maternal  health  in  the context of resource inequality between regions, urban and rural areas, and mothers belonging to socially vulnerable groups, hinders appropriate intervention focus.
+A serious barrier is the inertness of the management system, which is focused on activities, rather than on outputs, and tracking of their effects on outcomes and the ultimate achievement of the goal. Cited above are examples of lacking information on basic indicators describing short-term outcomes of maternal health strengthening programmes, which are directly linked to the causes of quite high maternal mortality in the country. Their values should be measured during programme interventions. High-quality strategic planning is in absolute need for data on the degree of regionalisation of perinatal care, the extent of the introduction of evidence-based clinical protocols of pregnancy, labour and their complications, the level of a satisfied need
 
 > 122 Data of the Research Center of Obstetrics, Gynecology and Perinatology of the Ministry of Healthcare of the Republic of Kazakhstan
 
@@ -4030,7 +3652,9 @@ To Improve Maternal Health
 
 [[START OF PAGE 82]]
 
-As practice shows, adequate resources are key to the success of any social programmes. At the moment, the healthcare budget is still set and spent taking into account needs for maintaining the infrastructure rather than implementation of programmes including achievement of MDG 5. In the course of the implementation of programmes relevant to  the  achievement  of  MDG  5,  low-efficiency  institutions are still  supported instead of efficient allocation of funds into priority areas. For example, as far as STI treatment is concerned,  arrangements  providing  privileges  to  dermatovenerologic dispensaries are supported, the redundant hospital bed stock in the context of new perinatal technologies is still retained.
+for basic drugs and contraceptives, on a national scale, and other related data. However, these are neither established nor used. In addition, there is no reliable data on financing of the reproductive health protection system. The lack of disaggregated data describing maternal health in the context of resource inequality between regions, urban and rural areas, and mothers belonging to socially vulnerable groups, hinders appropriate intervention focus.
+
+As practice shows, adequate resources are key to the success of any social programmes. At the moment, the healthcare budget is still set and spent taking into account needs for maintaining the infrastructure rather than implementation of programmes including achievement of MDG 5. In the course of the implementation of programmes relevant to the achievement of MDG 5, low-efficiency institutions are still supported instead of efficient allocation of funds into priority areas. For example, as far as STI treatment is concerned, arrangements providing privileges to dermatovenerologic dispensaries are supported, the redundant hospital bed stock in the context of new perinatal technologies is still retained.
 
 The  last,  but  not  the  least  obstacle  is  poor  inter-sectoral coordination  in  the  maternal  health  improvement  area, which traditionally is considered to be a healthcare problem.  Meanwhile,  the  state  of  maternal  health  and  reproductive health depends not only on the quality of healthcare services, but on public behaviour, gender stereotypes generated with the help of education, the mass media and civil society.
 
@@ -4046,9 +3670,9 @@ In the course of the global crisis, Kazakhstan managed to prevent stagnation of 
 
 To  achieve  MDG  5,  Kazakhstan  needs  to  reduce  its  MMR from 55 per 100,000 live births in 1990 to 14 in 2015. Is this achievable? During the five years to come, MMR needs to be almost halved compared to the current indicator. Over the 19 years since 1990, MMR was reduced by less than two times.  It  is  clear  that  as  the  MMR  is  being  reduced,  each subsequent reduction will be most probably more difficult to achieve.
 
-Progress achieved in recent years in decreasing maternal mortality  in  Kazakhstan,  nevertheless,  inspires  cautious optimism.  In  the  1990s,  the  MMR  increased,  which  coincided  with  the  socio-economic  stagnation  period.  However, since 1999, this indicator has decreased on average faster than by five percent annually (Figure 3). Its 11-year evolution is  approximately described by the linear equation y =-2.5х + 61.1, where х is the number of years since 1999 (1999=1). It should be emphasised that that in order to achieve the planned target by 2015, the country should double the current maternal mortality reduction rates over the next five years.
+Progress achieved in recent years in decreasing maternal mortality in Kazakhstan, nevertheless, inspires cautious optimism. In the 1990s, the MMR increased, which coincided with the socio-economic stagnation period. However, since 1999, this indicator has decreased on average faster than by five percent annually (Figure 3). Its 11-year evolution is approximately described by the linear equation y =-2.5x + 61.1, where x is the number of years since 1999 (1999=1). It should be emphasised that that in order to achieve the planned target by 2015, the country should double the current maternal mortality reduction rates over the next five years.
 
-One should mention that the world has seen examples of fast decline in maternal mortality. For example, according to  modelling-based  estimates  using  special-temporal  regression (the database was formed on the basis of demographic  statistics,  population  census,  surveys  and  verbal autopsies 124 ),  Egypt's average maternal mortality declined during the period 1990-2008 at 8.4 percent per year. Over this period, Egypt's MMR has dropped from 195 to 43 per 100,000 live births. In Romania, the MMR dropped from 92 to 26 per 100,000 live births over the same period. (For Kazakhstan,  similar  estimations  yield  an  MMR  of  61  and  44 respectively).
+One should mention that the world has seen examples of fast decline in maternal mortality. For example, according to modelling-based estimates using special-temporal regression (the database was formed on the basis of demo-
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -4060,19 +3684,21 @@ To Improve Maternal Health
 
 [[START OF PAGE 83]]
 
-Achievement of MDG 5 in Kazakhstan will depend on how fast the legislation will change, how successful healthcare structural  reforms  will  be  and  how  efficiently  maternal mortality reduction programmes will be managed and financed. To advance the achievement of MDG 5 it is necessary to:
+graphic statistics, population census, surveys and verbal autopsies 124), Egypt's average maternal mortality declined during the period 1990-2008 at 8.4 percent per year. Over this period, Egypt's MMR has dropped from 195 to 43 per 100,000 live births. In Romania, the MMR dropped from 92 to 26 per 100,000 live births over the same period. (For Kazakhstan, similar estimations yield an MMR of 61 and 44 respectively).
 
-- develop mechanisms for implementing law-enshrined guarantees for population, first of all, vulnerable groups, to  receive  the  highest  possible  standard  of  reproductive health services;
+Achievement of MDG 5 in Kazakhstan will depend on how fast the legislation will change, how successful healthcare structural reforms will be and how efficiently maternal mortality reduction programmes will be managed and financed. To advance the achievement of MDG 5 it is necessary to:
+
+- develop mechanisms for implementing law-enshrined guarantees for population, first of all, vulnerable groups, to receive the highest possible standard of reproductive health services;
 
 - legislate guarantees for young people including teenagers to receive full scope of youth-friendly services in the area of sexual and reproductive health at their personal discretion;
 
-- harmonise  pronatal  strategies  and  strategies  of  preventing unwanted pregnancies and family planning in the course of development and implementation of demographic policies;
+- harmonise pronatal strategies and strategies of preventing unwanted pregnancies and family planning in the course of development and implementation of demographic policies;
 
 - bring regulations of the Ministry of Healthcare into conformity with the requirements of modern standards of perinatal care technologies;
 
-- toughen control over  the  quality  of  obstetric  care  on the basis of evidence-based clinical protocols;
+- toughen control over the quality of obstetric care on the basis of evidence-based clinical protocols;
 
-- revise pharmacological support policies to ensure the uninterrupted  supply  of  health  facilities  with  essential  reproductive health goods and socially vulnerable groups with contraceptives, for free or on a subsidised basis, to meet the family-planning needs of the population;
+- revise pharmacological support policies to ensure the uninterrupted supply of health facilities with essential reproductive health goods and socially vulnerable groups with contraceptives, for free or on a subsidised basis, to meet the family-planning needs of the population;
 
 - legislate unconditional access of pregnant women with extra-genital diseases to specialised facilities;
 
@@ -4080,35 +3706,17 @@ Achievement of MDG 5 in Kazakhstan will depend on how fast the legislation will 
 
 - include prevention and mitigation of consequences of violence against women into healthcare sector activities;
 
-- introduce results-oriented management in sexual and reproductive  health  programmes  including  maternal health programmes; and
+- introduce results-oriented management in sexual and reproductive health programmes including maternal health programmes; and
+
+- improve monitoring and evaluation of programmes guaranteeing availability of required data, including those of confidential audits of maternal mortality and near-miss cases, their analysis and use to enable a fast response.
 
 Figure 3. Evolution of annual maternal mortality rates in Kazakhstan since 1999 123
 
-65.3
+Year | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Maternal mortality rate | 65.3 | 60.9 | 48.6 | 50.5 | 42.1 | 36.9 | 40.5 | 45.6 | 46.8 | 30.9 | 36.9
 
-60.9
-
-48.6
-
-50.5
-
-42.1
-
-36.9
-
-40.5
-
-45.6
-
-46.8
-
-30.9
-
-36.9
-
-1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
-
-Achievement of MDG 5 will depend on adequate doctor and midwife training. In this context, essential efforts need to  be  taken  for  academic  and  methodological entities  of the Ministry of Healthcare to:
+Achievement of MDG 5 will depend on adequate doctor and midwife training. In this context, essential efforts need to be taken for academic and methodological entities of the Ministry of Healthcare to:
 
 - revise curricula and programmes of post-graduate and graduate expert training, prepare and publish relevant recommendations, manuals and textbooks;
 
@@ -4120,13 +3728,11 @@ Achievement of MDG 5 will depend on adequate doctor and midwife training. In thi
 
 - teach communication skills to medical workers.
 
-Achievement of MDG 5 requires a strengthened multi-sectoral  approach  in  addressing  maternal  health  improvement, for which purpose the education sector, healthcare, mass media and non-governmental sector need to join and coordinate their efforts to achieve a substantial improvement in awareness of the population. This includes, in the first  instance,  raising  awareness  amongst  youths,  about prevention of unwanted pregnancies, STIs and HIV/AIDS. To meet this end, it is necessary to:
+Achievement of MDG 5 requires a strengthened multi-sectoral approach in addressing maternal health improvement, for which purpose the education sector, healthcare, mass media and non-governmental sector need to join and coordinate their efforts to achieve a substantial improvement in awareness of the population. This includes, in the first instance, raising awareness amongst youths, about prevention of unwanted pregnancies, STIs and HIV/AIDS. To meet this end, it is necessary to:
 
 - ensure relevant training in secondary schools under the standards compliant with UNESCO recommendations;
 
-- develop  a  network  of  informal  teenager-to-teenager education; ensure social service commissioning to expand the non-governmental sector's activities in peerto-peer training;
-
-- improve  monitoring  and  evaluation  of  programmes guaranteeing  availability  of  required  data,  including those of confidential audits of maternal mortality and near-miss cases, their analysis and use to enable a fast response.
+- develop a network of informal teenager-to-teenager education; ensure social service commissioning to expand the non-governmental sector's activities in peer-to-peer training;
 
 - increase the number of publications of preventive materials in the mass media.
 
@@ -4146,7 +3752,7 @@ To Improve Maternal Health
 
 [[START OF PAGE 84]]
 
-## To Combat HIV/AIDS and Tuberculosis GoAl 6
+## GOAL 6 To Combat HIV/AIDS and Tuberculosis
 
 
 
@@ -4172,27 +3778,27 @@ To Combat HIV/AIDS and Tuberculosis
 
 #### Relevance for Kazakhstan
 
-In Kazakhstan, HIV-infection is recognised as a significant problem. In this context, combating the spread of the HIV epidemic is one of priorities set forth in the overall longterm  development  strategy  of  Kazakhstan  till  2030.  The 2006-2010, the AIDS Epidemic Counteraction Programme approved by the Government Resolution №1216 dd. December 15, 2006, is under way and has helped to stabilise the spread of HIV infection at its initial stage, having prevented its transition to a generalised infection. The 20112015 National Healthcare Development Programme of the Republic of Kazakhstan is being developed and will incorporate activities targeting HIV-infection.
+In Kazakhstan, HIV-infection is recognised as a significant problem. In this context, combating the spread of the HIV epidemic is one of priorities set forth in the overall long-term development strategy of Kazakhstan till 2030. The 2006-2010, the AIDS Epidemic Counteraction Programme approved by the Government Resolution №1216 dd. December 15, 2006, is under way and has helped to stabilise the spread of HIV infection at its initial stage, having prevented its transition to a generalised infection. The 2011-2015 National Healthcare Development Programme of the Republic of Kazakhstan is being developed and will incorporate activities targeting HIV-infection.
 
 Regional and agency programmes (those of the Ministries of Justice and Defence, work plan of the Ministry of Education and others) have been based on the national programme. HIV Coordination Councils are functioning both at the national, regional and city levels. In 2009, the Country Coordination Committee (CCC) for Global Fund for AIDS, TB and Malaria was renamed the CCC for Cooperation with International Organisations, which is why the CCC composition was changed and its functions were expanded. Civil sector  representatives,  including  people  living  with  HIV (PLH) account for 40 percent of the Country Coordination Committee. It was the first time that a representative of Kazakhstan's Union of People Living with HIV was elected as CCC Vice-President in Kazakhstan.
 
 ##### Progress in achieving Target 7 of MDG 6 was assessed on the basis of the following indicators:
 
-- the percentage of women and men aged 15-49 who are HIV-infected
+1. the percentage of women and men aged 15-49 who are HIV-infected
 
-- the percentage of injection drug users who are HIV-infected
+2. the percentage of injection drug users who are HIV-infected
 
-- the  percentage  of  injection  drug  users  reporting  the use of sterile injecting equipment the last time they had an injection
+3. the percentage of injection drug users reporting the use of sterile injecting equipment the last time they had an injection
 
-- the percentage of young women and men aged 15-24 with correct knowledge of HIV transmission modes
+4. the percentage of young women and men aged 15-24 with correct knowledge of HIV transmission modes
 
-- the percentage of sex workers reporting condom use
+5. the percentage of sex workers reporting condom use
 
-- the  percentage  of  HIV-positive  pregnant  women  and babies born to HIV-positive mothers, who received fullcourse antiretroviral prophylaxis
+6. the percentage of HIV-positive pregnant women and babies born to HIV-positive mothers, who received full-course antiretroviral prophylaxis
 
-- the percentage of PLH needing and receiving ARV therapy
+7. the percentage of PLH needing and receiving ARV therapy
 
-- the percentage of donor blood samples tested for HIV
+8. the percentage of donor blood samples tested for HIV
 
 #### Analysis of HIV epidemiologic situation in Kazakhstan
 
@@ -4202,157 +3808,45 @@ HIV incidence rate amongst the population aged 15-49 is 0.15 percent. As before,
 
 Figure 1. Development of HIV-infection epidemic in the RoK's population in 1987-2009 (absolute numbers)
 
-4
-
-3
-
-4
-
-4
-
-2
-
-1
-
-6
-
-2
-
-5
-
-48
-
-1987
-
-1988
-
-1989
-
-1990
-
-1991
-
-1992
-
-1993
-
-1994
-
-1995
-
-1996
-
-1997
-
-1998
-
-1999
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-437
-
-299
-
-185
-
-347
-
-1,175
-
-735
-
-746
-
-699
-
-964
-
-1,754
-
-1,979
-
-2,335
-
-2,081
+Year | HIV-infection cases
+--- | ---
+1987 | 4
+1988 | 3
+1989 | 4
+1990 | 4
+1991 | 2
+1992 | 1
+1993 | 6
+1994 | 2
+1995 | 5
+1996 | 48
+1997 | 437
+1998 | 299
+1999 | 185
+2000 | 347
+2001 | 1,175
+2002 | 735
+2003 | 746
+2004 | 699
+2005 | 964
+2006 | 1,754
+2007 | 1,979
+2008 | 2,335
+2009 | 2,081
 
 Figure 2. Percentage of sexual and injection (injecting drug use) HIV transmission modes, 2001-2009
 
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-88
-
-70
-
-67
-
-62
-
-66
-
-66
-
-64
-
-60
-
-55.5
-
-5
-
-17
-
-22
-
-29
-
-25
-
-20
-
-25
-
-29.1
-
-35.5
-
-intravenous injections
-
-sex
+Year | intravenous injections | sex
+--- | --- | ---
+2001 | 88 | 5
+2002 | 70 | 17
+2003 | 67 | 22
+2004 | 62 | 29
+2005 | 66 | 25
+2006 | 66 | 20
+2007 | 64 | 25
+2008 | 60 | 29.1
+2009 | 55.5 | 35.5
 
 HIV transmission through intravenous drug use is the leading mode, but year-on-year dynamics shows an increase in the share of sexual transmission (from five percent in 2001 to 35.5 percent in 2009) (Figure 2).
 
@@ -4374,37 +3868,10 @@ To Combat HIV/AIDS and Tuberculosis
 
 Figure 3. Distribution of HIV cases by sex and transmission mode (percentage, 2009)
 
-intravenous
-
-injections
-
-73%
-
-HIV transmission among men (2009)
-
-sex
-
-20%
-
-other
-
-7%
-
-HIV transmission among women (2009)
-
-intravenous
-
-injections
-
-20%
-
-sex
-
-71%
-
-other
-
-8%
+Population | intravenous injections | sex | other
+--- | --- | --- | ---
+HIV transmission among men (2009) | 73% | 20% | 7%
+HIV transmission among women (2009) | 20% | 71% | 8%
 
 - 15 percent - workers
 
@@ -4433,66 +3900,23 @@ In 2009, sentinel surveillance yielded the following results:
 Figure 4. Planned Programme financing by sources of funding (KZT million)
 
 1800
-
 1600
-
 1400
-
 1200
-
 1000
-
 800
-
 600
-
 400
-
 200
-
 0
 
-Republican budget
-
-Targeted transfers from republican budget
-
-Grants from international organizations
-
-14.3
-
-250.6
-
-965.06
-
-41.2
-
-350.0
-
-1069.04
-
-59.44
-
-815.5
-
-452.12
-
-263.21
-
-992.03
-
-486.58
-
-949.87
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
+Year | Republican budget | Targeted transfers from republican budget | Grants from international organizations
+--- | --- | --- | ---
+2006 |  |  | 949.87
+2007 | 965.06 | 250.6 | 14.3
+2008 | 1069.04 | 350.0 | 41.2
+2009 | 452.12 | 815.5 | 59.44
+2010 | 486.58 | 992.03 | 263.21
 
 Realising the severity of the problem, the Government of Kazakhstan consistently increases financing of HIV prevention activities. Thus, the share of state budget financing of the AIDS Epidemic Counteraction Programme was 65 percent in 2009 and should increase to 72.0 percent in 2010.
 
@@ -4500,7 +3924,7 @@ Realising the severity of the problem, the Government of Kazakhstan consistently
 
 ##### Implementation of prevention programmes for the population
 
-Monitoring  has  demonstrated  that  in  2008  a  total  of 856,141  copies  of  information  and  educational  materials were published in order to secure access of various population groups to information. Each year special awareness programmes  cover  school  and  university  students,  MIA and MOD cadets, with staff of the Criminal Correction System  Committee  of  the  Ministry  of  Justice  and  prisoners also  receiving  training.  The  year  2009  saw  continued  interaction under approved tripartite Agreements between Oblast Akimats, employers' associations and trades unions, which included HIV and AIDS prevention issues. HIV and AIDS outreach activities cover workers of industrial enterprises, with information booklets distributed. Though HIV incidence among the population aged 15-49 is low, standing at 0.15 percent, there is a possibility for deterioration, as the HIV awareness level among young people is quite low, at 30 percent.
+Monitoring has demonstrated that in 2008 a total of 856,141 copies of information and educational materials were published in order to secure access of various population groups to information. Each year special awareness programmes cover school and university students, MIA and MOD cadets, with staff of the Criminal Correction System Committee of the Ministry of Justice and prisoners also receiving training. The year 2009 saw continued interaction under approved tripartite Agreements between
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -4512,9 +3936,11 @@ To Combat HIV/AIDS and Tuberculosis
 
 [[START OF PAGE 88]]
 
+Oblast Akimats, employers' associations and trades unions, which included HIV and AIDS prevention issues. HIV and AIDS outreach activities cover workers of industrial enterprises, with information booklets distributed. Though HIV incidence among the population aged 15-49 is low, standing at 0.15 percent, there is a possibility for deterioration, as the HIV awareness level among young people is quite low, at 30 percent.
+
 ##### Drug use harm reduction strategy
 
-The  harm  reduction  strategy  includes  awareness-raising efforts and provides all willing IDUs with training, information  and  counselling  on  individual  risks  and  prevention of  HIV  transmission. The  country  has  a  total  of  168  trust centres,  with  19  new Trust  Centres  (TC)  opened  and  the number of mobile centres increased from 15 to 24 in 20082009. According to the monitoring data 47 percent of IDUs are  covered  with  prevention  programmes,  compared  to 29 percent in 2007. Trust centres provided 20,510,779 syringes to IDUs, 350 syringes per each IDU involved in the prevention programme; IDUs also received 7,099,650 condoms (4,156,715 in 2008) and 160,553 copies of information booklets (126,075 in 2008).
+The harm reduction strategy includes awareness-raising efforts and provides all willing IDUs with training, information and counselling on individual risks and prevention of HIV transmission. The country has a total of 168 trust centres, with 19 new Trust Centres (TC) opened and the number of mobile centres increased from 15 to 24 in 2008-2009. According to the monitoring data 47 percent of IDUs are covered with prevention programmes, compared to 29 percent in 2007. Trust centres provided 20,510,779 syringes to IDUs, 350 syringes per each IDU involved in the prevention programme; IDUs also received 7,099,650 condoms (4,156,715 in 2008) and 160,553 copies of information booklets (126,075 in 2008).
 
 In 2009, out of 52,135 TC customers, 43,010 IDUs, i.e. 82.5 percent,  were  covered  with  Voluntary  Counselling  and Testing  VCT  services.  A  total  of  28,674  TC  customers  received  medical  advice  including  that  from  narcologists, phthisiatricians, STI and skin doctors, gynaecologists, surgeons,  therapists,  etc.  As  a  result  of  the  harm  reduction programmes, HIV incidence among IDUs dropped from 3.9 percent in 2007 to 2.9 percent in 2009, for the first time in Kazakhstan.
 
@@ -4534,9 +3960,9 @@ The network of psychosocial counselling and HIV testing facilities is expanding.
 
 ##### Preventing mother-to-child transmission of HIV (PMTCT)
 
-The MoH issued Order №699 dd. December 29, 2008, approving the healthcare standard 'Prevention of Mother-toChild Transmission of HIV' , which governs PMTCT efforts.
+The MoH issued Order №699 dd. December 29, 2008, approving the healthcare standard 'Prevention of Mother-to-Child Transmission of HIV', which governs PMTCT efforts.
 
-Since 2007, all obstetric facilities have been provided with free  rapid  HIV  tests  and  introduced  rapid  diagnostics  for pregnant women admitted to maternity hospitals without examination. Access to medicated prevention of motherto-child HIV is provided to all HIV-infected pregnant women,  who  need  it.  In  2009,  3,582  doctors  were  trained  in accordance with the vertical HIV transmission prevention action plan.
+Since 2007, all obstetric facilities have been provided with free rapid HIV tests and introduced rapid diagnostics for pregnant women admitted to maternity hospitals without examination. Access to medicated prevention of mother-to-child HIV is provided to all HIV-infected pregnant women, who need it. In 2009, 3,582 doctors were trained in accordance with the vertical HIV transmission prevention action plan.
 
 ##### Post-contact prevention
 
@@ -4559,7 +3985,7 @@ To Combat HIV/AIDS and Tuberculosis 86 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAK
 
 This  area  of  work  is  one  of  priorities.  In  two  years,  Kazakhstan has made a significant leap forward in covering HIV cases with treatment and care. Over the past two years, the number of PLHs covered with ART has increased, with over 70 percent of treated PLHs being injection drug users.
 
-The range of ARV medications has been expanded, with 24 medications for HIV treatment registered to date. In 2009, antiretroviral  treatment of adults and children was statefunded. All HIV-infected adults and children are provided with free ARV medications and other medicines within the guaranteed healthcare volume.
+The range of ARV medications has been expanded, with 24 medications for HIV treatment registered to date. In 2009, antiretroviral treatment of adults and children was state-funded. All HIV-infected adults and children are provided with free ARV medications and other medicines within the guaranteed healthcare volume.
 
 However, full coverage with treatment is yet to be achieved. Only 75 percent of those in need receive modern antiretroviral  treatment.  One  of  the  main  problems  is  the  high cost of antiretroviral therapy, a limited list of generic HIV medications and lack of medicines to treat hepatitis B and C.  ARV  medication  procurement  planning  and  management requires further strengthening. Annual growth in the number of PLHs requiring ARV therapy can become a concern.
 
@@ -4573,21 +3999,21 @@ The  Sentinel  Surveillance  (SS)  system  became  a  great achievement of Kazak
 
 ##### The results described above are represented in the following indicators used for assessing progress in the achievement of Goal 6, Target 7:
 
-- HIV incidence rate among the age group 15-49 is 0.15 percent,  i.e.  the  epidemic  was  restrained  at  its  initial stage;
+1. HIV incidence rate among the age group 15-49 is 0.15 percent, i.e. the epidemic was restrained at its initial stage;
 
-- HIV  incidence  among  injection  drug  users  is  2.9  percent.
+2. HIV incidence among injection drug users is 2.9 percent.
 
-- A  total  of  63  percent  of  injection  drug  users  reported using sterile injecting equipment;
+3. A total of 63 percent of injection drug users reported using sterile injecting equipment;
 
-- Only 30 percent of young people aged 15-24 correctly identify HIV transmission modes;
+4. Only 30 percent of young people aged 15-24 correctly identify HIV transmission modes;
 
-- A total of 96 percent of sex workers reported condom use;
+5. A total of 96 percent of sex workers reported condom use;
 
-- ARV treatment is provided for 94 percent of HIV-positive  pregnant  women, who decided to keep their babies and children born to HIV-positive mothers;
+6. ARV treatment is provided for 94 percent of HIV-positive pregnant women, who decided to keep their babies and children born to HIV-positive mothers;
 
-- A total of 75 percent of people living with HIV have access to modern antiretroviral treatment;
+7. A total of 75 percent of people living with HIV have access to modern antiretroviral treatment;
 
-- Donor  blood  safety  is  being  secured,  i.e.  100  percent HIV testing of donor blood is performed.
+8. Donor blood safety is being secured, i.e. 100 percent HIV testing of donor blood is performed.
 
 #### Conclusions
 
@@ -4597,17 +4023,17 @@ The  situational  analysis  shows  that  though  Kazakhstan does manage to restr
 
 Despite significant progress in combating the HIV epidemic, the following efforts need to be strengthened in order to achieve Target 7 of MDG 6:
 
-- Strengthen political commitment to HIV and AIDS: This includes  the  incorporating  all  necessary  HIV-related activities  into  the  2011-2015  National  Healthcare  Development Programme, their financing from the state budget,  maintaining  and  developing  the  institutional AIDS system at the republican, regional and city levels.
+1) Strengthen political commitment to HIV and AIDS: This includes the incorporating all necessary HIV-related activities into the 2011-2015 National Healthcare Development Programme, their financing from the state budget, maintaining and developing the institutional AIDS system at the republican, regional and city levels.
 
-- Provide access to ARV therapy for all patients in need. There is a need to revise HIV treatment protocols in line with modern international requirements, develop protocols  for  diagnostics  and  treatment  of  opportunistic infections,  develop  programmes  on  commitment  to ARV therapy  and  expand  palliative  care  programmes. Furthermore, there is a need to promote wider involvement of PLH into aid and mutual aid programmes and to form commitment to the ARV therapy.
+2) Provide access to ARV therapy for all patients in need. There is a need to revise HIV treatment protocols in line with modern international requirements, develop protocols for diagnostics and treatment of opportunistic infections, develop programmes on commitment to ARV therapy and expand palliative care programmes. Furthermore, there is a need to promote wider involvement of PLH into aid and mutual aid programmes and to form commitment to the ARV therapy.
 
-- Increase Youth  awareness  on  HIV  and  AIDS  issues  remains  insufficient.  There  is  no  integration  of  HIV  and AIDS  issues  into  the  mandatory  training  curricula; HIV  education  programmes  for  youth  need  to  be  improved.
+3) Increase Youth awareness on HIV and AIDS issues remains insufficient. There is no integration of HIV and AIDS issues into the mandatory training curricula; HIV education programmes for youth need to be improved.
 
-- Ensure  sustainable  prevention  programmes  for  the most vulnerable groups: injection drug users, sex workers, men having sex with men, migrants, prisoners, etc.
+4) Ensure sustainable prevention programmes for the most vulnerable groups: injection drug users, sex workers, men having sex with men, migrants, prisoners, etc.
 
-- Further  improve  the  epidemiologic  tracking  system including  sentinel  surveillance  and  strengthening  of technical capacity of experts.
+5) Further improve the epidemiologic tracking system including sentinel surveillance and strengthening of technical capacity of experts.
 
-- Strengthen cooperation with NGOs. Facilitating broader involvement of PLH and representatives of vulnerable groups into combating HIV; promoting partnership and dialogue  on  HIV  counteraction  between  the  government, NGOs and private sector.
+6) Strengthen cooperation with NGOs. Facilitating broader involvement of PLH and representatives of vulnerable groups into combating HIV; promoting partnership and dialogue on HIV counteraction between the government, NGOs and private sector.
 
 87 To Combat HIV/AIDS and Tuberculosis MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -4615,7 +4041,7 @@ Despite significant progress in combating the HIV epidemic, the following effort
 
 [[START OF PAGE 90]]
 
-## To combat HIV/AIDS and tuberculosis GoAl 6
+## GOAL 6 To Combat HIV/AIDS and Tuberculosis
 
 
 
@@ -4673,7 +4099,7 @@ To Combat HIV/AIDS and Tuberculosis
 
 [[START OF PAGE 93]]
 
-- resistant TB (MDR TB) patients of oblast and regional TB dispensaries.
+resistant TB (MDR TB) patients of oblast and regional TB dispensaries.
 
 - In 2009, NTBC relocated the National Reference Laboratory to a reconstructed and renovated building in line with WHO standards, which has dramatically improved staff's working conditions and allowed modern laboratory TB diagnostics standards to be used.
 
@@ -4707,145 +4133,34 @@ In 2007-2009, TB incidence in Kazakhstan dropped by 16.7 percent from 126.4 to 1
 
 TB Morbidity and Incidence in Kazakhstan per 100,000 population
 
-ROK
+Year | Incidence | Mortality
+--- | --- | ---
+1990 | 65.8 | 10.1
+1991 | 64.4 | 10.6
+1992 | 64.2 | 11.7
+1993 | 61.7 | 14
+1994 | 59.7 | 17.6
+1995 | 67.1 | 25.4
+1996 | 82.5 | 34.6
+1997 | 91.3 | 37.7
+1998 | 118.8 | 38.4
+1999 | 141 | 30.7
+2000 | 153.2 | 26.4
+2001 | 155.7 | 24.5
+2002 | 165.1 | 24.2
+2003 | 160.4 | 22.4
+2004 | 154.3 | 20.6
+2005 | 147.3 | 20.8
+2006 | 132.1 | 20.3
+2007 | 126.4 | 18.1
+2008 | 125.5 | 16.9
+2009 | 105.3 | 12.9
 
-President's
-
-Decree-
-
-WHO
-
-Prog-
-
-ramme
-
-65.8
-
-64.4
-
-10.1
-
-1990
-
-1991
-
-1992
-
-1993
-
-1994
-
-1995
-
-1996
-
-1997
-
-1998
-
-1999
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
+ROK President's Decree—WHO Programme
 
 Down by 16.1%
 
 Down by 23.7%
-
-64.2
-
-61.7
-
-59.7
-
-67.1
-
-82.5
-
-91.3
-
-118.8
-
-141
-
-153.2
-
-155.7
-
-165.1
-
-160.4
-
-154.3
-
-147.3
-
-132.1
-
-126.4
-
-125.5
-
-105.3
-
-10.6
-
-11.7
-
-14
-
-17.6
-
-25.4
-
-34.6
-
-37.7
-
-38.4
-
-30.7
-
-26.4
-
-24.5
-
-24.2
-
-22.4
-
-20.6
-
-20.8
-
-20.3
-
-18.1
-
-16.9
-
-12.9
-
-Incidence
-
-Mortality
 
 The decrease in incidence rates are not the same in all oblasts and varied from 5.9 percent in East Kazakhstan Oblast to 26.2 percent in West Kazakhstan Oblast in 2009.
 
@@ -4853,111 +4168,25 @@ Notwithstanding positive changes in this indicator throughout  the  country,  hi
 
 Tuberculosis Incidence in Kazakhstanper 100,000 population
 
-Akmola Oblast
-
-Aktobe Oblast
-
-Almaty Oblast
-
-Atyrau Oblast
-
-EКО
-
-Zhambyl Oblast
-
-WКО
-
-Karagandy Oblast
-
-Kyzylorda Oblast
-
-Kostanai Oblast
-
-Mangystau Oblast
-
-Pavlodar Oblast
-
-NКО
-
-SКО
-
-city of Almaty
-
-city of Astana
-
-ROK
-
-155.1
-
-145.4
-
-98.7
-
-181.9
-
-138.3
-
-120.6
-
-159.8
-
-136.7
-
-167.1
-
-148.8
-
-157.9
-
-147.5
-
-167.2
-
-86.2
-
-72.2
-
-128.3
-
-126.4
-
-158.3
-
-96.0
-
-90.9
-
-123.1
-
-121.4
-
-88.8
-
-105.5
-
-96.9
-
-118.5
-
-115.9
-
-118.4
-
-112.4
-
-119.5
-
-78.1
-
-75.4
-
-191.8
-
-105.3
-
-2007
-
-2008
+Region | 2007 | 2008
+--- | --- | ---
+Akmola Oblast | 155.1 | 158.3
+Aktobe Oblast | 145.4 | 96.0
+Almaty Oblast | 98.7 | 90.9
+Atyrau Oblast | 181.9 | 123.1
+EKO | 138.3 | 121.4
+Zhambyl Oblast | 120.6 | 88.8
+WKO | 159.8 | 105.5
+Karagandy Oblast | 136.7 | 96.9
+Kyzylorda Oblast | 167.1 | 118.5
+Kostanai Oblast | 148.8 | 115.9
+Mangystau Oblast | 157.9 | 118.4
+Pavlodar Oblast | 147.5 | 112.4
+NKO | 167.2 | 119.5
+SKO | 86.2 | 78.1
+city of Almaty | 72.2 | 75.4
+city of Astana | 128.3 | 191.8
+ROK | 126.4 | 105.3
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -4973,63 +4202,17 @@ The child morbidity pattern has also demonstrated positive trends by declining f
 
 Age-Specific TB Incidence in Kazakhstan per 100,000 population
 
-146.1
-
-48.4
-
-Teenagers
-
-Children
-
-161.3
-
-141.3
-
-139.9
-
-139.2
-
-128.5
-
-114.7
-
-126.8
-
-117.1
-
-43.3
-
-47.2
-
-40.1
-
-39.4
-
-31.7
-
-30.6
-
-26
-
-20.9
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
+Year | Teenagers | Children
+--- | --- | ---
+2001 | 146.1 | 48.4
+2002 | 161.3 | 43.3
+2003 | 141.3 | 47.2
+2004 | 139.9 | 40.1
+2005 | 139.2 | 39.4
+2006 | 128.5 | 31.7
+2007 | 114.7 | 30.6
+2008 | 126.8 | 26
+2009 | 117.1 | 20.9
 
 The country reports a decline in bacillary TB incidence. Bacillary TB cases accounted for 37.3 percent of new cases. An annual  decrease  in  the  number  of  infectious TB  patients should be noted. In 2009 there were 5,352 new smear-positive cases against 6,197 in 2007, despite an increase in the number of surveyed patients every year.
 
@@ -5037,63 +4220,17 @@ In Kazakhstan, particular attention is paid to registration of neglected and sev
 
 MDR TB Incidence, per 100,000 population
 
-9,079
-
-61.2
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-9,452
-
-8,665
-
-7,927
-
-6,911
-
-6,160
-
-6,197
-
-6,020
-
-5,352
-
-63.6
-
-58.1
-
-52.8
-
-45.6
-
-40.2
-
-40
-
-39.6
-
-33.7
-
-MDR TB + patients
-
-Incidence
+Year | MDR TB + patients | Incidence
+--- | --- | ---
+2001 | 9,079 | 61.2
+2002 | 9,452 | 63.6
+2003 | 8,665 | 58.1
+2004 | 7,927 | 52.8
+2005 | 6,911 | 45.6
+2006 | 6,160 | 40.2
+2007 | 6,197 | 40
+2008 | 6,020 | 39.6
+2009 | 5,352 | 33.7
 
 meningitis cases testifies to still insufficient cooperation of the TB control service ('TCS') and the PHC network and need to raise awareness of early TB detection.
 
@@ -5109,7 +4246,7 @@ In controlling MDR TB, the main evidence is bacterial diagnostics and drug susce
 
 Establishment of a laboratory facility and introduction of the  DOTS-Plus  programme  in  the  country  have  made  it possible  to  treat  patients  with  second-line  anti-TB  drugs, covering 85.8 percent (4,366 patients) in 2008-2009. Analysis of the effectiveness of MDR TB treatment in Kazakhstan in  2006  shows that the 'cure' rate hit 78.9 percent. In Kazakhstan,  the  supporting  phase  of  MDR  TB  treatment  is arranged  through  2,000  PHC  controlled  treatment  (DCT) centres, which allows the place of treatment to be made as close to the place of residence of a patient as possible. At the same time, efficiency of treatment of new TB smearpositive cases in the country does not exceed 64 percent, which may be caused by late TB diagnostics and drug resistance.
 
-Arrangement  of  long-lasting  out-patient  treatment  requires expertise in MDR TB case management. In this context,  within  the  GFATM  Round  6  project  phthisiatricians from  the  civil  sector  and  CCS  remote  colonies  receiving training in TB and MDR TB control standards. In 2008-2009, 186 experts involved in diagnostics and treatment of MDR TB were trained in MDR TB issues (including seven from the CCS), the training was funded by the MoH, WHO, GFATM, the US Gorgas Fund and KNCV. Since 2000, the country has conducted annual international conferences on management of MDR TB cases involving foreign experts.
+Arrangement of long-lasting out-patient treatment requires expertise in MDR TB case management. In this context, within the GFATM Round 6 project phthisiatricians from the civil sector and CCS remote colonies receiving training in TB and MDR TB control standards. In 2008-2009, 186 experts involved in diagnostics and treatment of MDR TB were trained in MDR TB issues (including seven from the CCS), the training was funded by the MoH, WHO, GFATM,
 
 To Combat HIV/AIDS and Tuberculosis 92 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -5117,7 +4254,9 @@ To Combat HIV/AIDS and Tuberculosis 92 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAK
 
 [[START OF PAGE 95]]
 
-With an increased survey coverage, MDR TB incidence has increased, standing at 8.5 in 2009 versus 5.8 per 100,000 population  in  2007.  High  MDR TB  incidence  per  100,000 population  remains  in  Atyrau  Oblast  (16.7),  Mangystau Oblast (15.1),  East  Kazakhstan  (13.7)  and  Kostanai  Oblast (12.5).
+the US Gorgas Fund and KNCV. Since 2000, the country has conducted annual international conferences on management of MDR TB cases involving foreign experts.
+
+With an increased survey coverage, MDR TB incidence has increased, standing at 8.5 in 2009 versus 5.8 per 100,000 population in 2007. High MDR TB incidence per 100,000 population remains in Atyrau Oblast (16.7), Mangystau Oblast (15.1), East Kazakhstan (13.7) and Kostanai Oblast (12.5).
 
 In the context of the adopted TB Control Strategy, the MoH focuses on the need to detect patients with infectious TB by microscopy at the PHC network level. In 2008, the number of TB suspects surveyed by microscopy was 132,600 versus 133,100 in 2007, with 4,474 TB cases (4,244 in 2007), or 69 percent of the expected detection rate, detected.
 
@@ -5125,41 +4264,17 @@ The 'cure'  rate  for  new  microbiologically  proven  cases  in 2007 rose to 71
 
 MDR TB Incidence, per 100,000 population
 
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-3.1
-
-6.4
-
-5.0
-
-5.4
-
-4.6
-
-3.7
-
-5.8
-
-8.5
-
-8.5
+Year | Incidence
+--- | ---
+2001 | 3.1
+2002 | 6.4
+2003 | 5.0
+2004 | 5.4
+2005 | 4.6
+2006 | 3.7
+2007 | 5.8
+2008 | 8.5
+2009 | 8.5
 
 In  order  to  improve  the  existing  MDR TB  situation,  Kazakhstan has passed statutory acts on MDR TB detection, diagnostics, treatment and monitoring, 'Manual on Management of Multi-Drug Resistant Tuberculosis Cases in Kazakhstan' as recommended by the WHO. During 2003-2008, a  joint  MDR  TB  pilot  project  between  NTBC,  Almaty  TB Dispensary and University of Alabama developed contemporary protocols for MDR TB detection, diagnostics, treatment  and  monitoring  based  on  WHO  recommendations and principles of evidence-based medicine.
 
@@ -5185,53 +4300,20 @@ The tuberculosis situation in the penitentiary system remains complicated due to
 
 TB Incidence and Mortality in Prisoners in TB Facilities of CCS, per 100,000
 
-1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
-
-Incidence
-
-Morbidity
-
-4,267.7
-
-2,994
-
-2,515.4
-
-2,210
-
-2,316
-
-1,937
-
-1,573
-
-1,391
-
-771.3
-
-750.5	 767.6
-
-643.9
-
-820
-
-300
-
-140
-
-130
-
-100
-
-90
-
-80
-
-55
-
-64.9
-
-83.2	 115.9	 107.7
+Year | Incidence | Morbidity
+--- | --- | ---
+1998 | 4,267.7 | 820
+1999 | 2,994 | 300
+2000 | 2,515.4 | 140
+2001 | 2,210 | 130
+2002 | 2,316 | 100
+2003 | 1,937 | 90
+2004 | 1,573 | 80
+2005 | 1,391 | 55
+2006 | 771.3 | 64.9
+2007 | 750.5 | 83.2
+2008 | 767.6 | 115.9
+2009 | 643.9 | 107.7
 
 CCS facilities  report  a  high  MDR TB  incidence.  According to the research performed by the CCS Committee and the NTBC,  with  the  support  of  the  Royal  Netherlands Tuberculosis Association (KNCV), multi-drug resistant TB in the CCS in three Oblasts was observed in 23.1 to 58.6 percent of new TB cases and 54.0 to 89.1 percent of re-treatment cases in 2006. As reported by the laboratory of Karaganda Oblast Division of the CCS Committee, the share of first-line and second-line MDR occurs in 40 percent and 82.2 percent of cases.
 
@@ -5301,9 +4383,7 @@ To Combat HIV/AIDS and Tuberculosis
 
 - To  improve pre-degree and post-degree training programmes in line with the national and international recommendations.
 
-- To  develop  a  uniform  HR  training  action  plan,  to  create a HR database, to arrange regular on-the-job train-
-
-- ing  (clinical,  laboratory,  management  subjects)  for  all healthcare staff involved in the TB control programme.
+- To develop a uniform HR training action plan, to create a HR database, to arrange regular on-the-job training (clinical, laboratory, management subjects) for all healthcare staff involved in the TB control programme.
 
 - To strengthen intra- and inter-agency integration of the TB control programme with the general healthcare network,  HIV/AIDS  prevention  and  control  programmes, penitentiary service for timely detection, treatment and management of cases.
 
@@ -5315,11 +4395,11 @@ To Combat HIV/AIDS and Tuberculosis
 
 To secure more resources from national and international sources to support initiatives covering the following activities:
 
-- strengthening of the interaction between TB and HIVinfection programmes;
+- strengthening of the interaction between TB and HIV-infection programmes;
 
 - expansion  of  access  to  guaranteed-quality  drugs  to treat TB and MDR TB using such mechanisms as Global Drug Facility and Green Light Committee;
 
-- using the initiative to improve treatment of respiratory diseases as a whole, and, at the same time, expanding high-quality TB control activities (introduction of a PALstrategy);
+- using the initiative to improve treatment of respiratory diseases as a whole, and, at the same time, expanding high-quality TB control activities (introduction of a PAL-strategy);
 
 - practical research aimed at creating initiatives on development of new evidence-based TB control approaches.
 
@@ -5333,7 +4413,7 @@ To Combat HIV/AIDS and Tuberculosis
 
 [[START OF PAGE 98]]
 
-## To Ensure Environmental Sustainability GoAl 7
+## GOAL 7 To Ensure Environmental Sustainability
 
 The prospects of Kazakhstan achieving MDG 7 are generally reflected in the Kazakhstan-2030 Strategy and the Strategic Development Plan of the Republic of Kazakhstan by 2020, which set out a long term development of the sovereign state aimed at transforming the country into one of the  most  secure,  stable  and  environmentally  sustainable developing countries of the world 126 .
 
@@ -5365,7 +4445,7 @@ MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 #### Target importance and key indicators
 
-Achieving this target would require a consistent and continuous integration of sustainable development principles into the national and regional/local programmes, legislation and legal regulations in order to prevent degradation/ loss  of  environmental  resources  and  allow  their  possible recovery.
+Achieving this target would require a consistent and continuous integration of sustainable development principles into the national and regional/local programmes, legislation and legal regulations in order to prevent degradation/loss of environmental resources and allow their possible recovery.
 
 The  current  economy  of  Kazakhstan  is  focused  mainly on the extraction of minerals and, partially, on the initial processing of such minerals. This resource-focused nature of economy, as was pointed out in the previous 2007 report, results in the loss/depletion of natural resources and anthropogenic impact on environment in megalopolis and industrial  areas.  There  is  a  real  threat  to  the  agricultural bio-diversity, as a result of both anthropogenic and natural factors. A lack of eco-system based approach in developing and implementing economic and social programmes, and non-compliance with principles of comprehensive and balanced environment quality management have been named as the main issues in achieving the environmental sustainability. At the same time, it is worth saying that some fragments of sustainable development, to some extent, have been incorporated into most state programme papers and legislative acts issued in the reporting period.
 
@@ -5375,7 +4455,7 @@ To assess the progress in this situation, the following global environment indic
 
 - the percentage of protected areas to maintain bio-diversity of ground environment;
 
-- carbon dioxide emission (per capita) and use of ozoneabsorbing substances;
+- carbon dioxide emission (per capita) and use of ozone-absorbing substances;
 
 - ecologic-economic indicator - GDP power intensity.
 
@@ -5450,7 +4530,7 @@ The Naurzum and Korgalzhyn state natural reserves have become the first protecte
 
 The  Government Resolution №119 date 6 February 2009 created  the  Akzhaiyk  nature  reserve.  In  the  same  year, 2009,  the  areas  of  the  Alakol  State  Natural  Reserve,  the Karkaraly and the Charyn State National Nature Parks were expanded.
 
-Kazakhstan  has  52  wildlife  parks  covering  the  area  of 6,020,300 ha. The largest of these are: Almaty Integrated Source: Agriculture, Forestry and Fishery of Kazakhstan. Statistical Yearbook. Astana, 2009.
+Kazakhstan has 52 wildlife parks covering the area of 6,020,300 ha. The largest of these are: Almaty Integrated
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -5462,15 +4542,17 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 102]]
 
+Table 7.9.3. Nature reserves and state national parks
+
 Years | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Number of nature reserves, state national parks and state nature reserves | 25 | 18 | 20 | 20 | 21 | 23 | 23 | 24
 Area, thousand ha | 2,833.4 | 3,262.0 | 3,427.1 | 3,463.6 | 3,816.5 | 4,794.1 | 4,811.6 | 4,821.4
 Headcount | 1,790 | 2,597 | 3,012 | 3,304 | 3,446 | 3,768 | 3,806 | 3,375*
 
-Таble 7.9.3. Nature reserves and state national parks
-
 * excluding regional state natural parks
+
+Source: Agriculture, Forestry and Fishery of Kazakhstan. Statistical Yearbook. Astana, 2009.
 
 Wildlife  Park  located  in  the  Ili  (Zaili)  Alatau  mountains (542,400  ha),  Karoi  and  Pribalkhash  Zoo  Park  located  in the Ili river delta (509,000 and 503,000 ha), Turgai Zoo Park located in the Lower Turgai river (348,000 ha), Lepsy and VerkhneKoksu Zoo Parks located in the Zhetysu (Dzhungar) Alatau (258,000 and 240,000 ha), Smirnov Zoo Park located in  Northern  Kazakhstan  (240,000  ha),  the  Aktau-Buzachi and  Karagie-Karakol  Zoo  Parks  located  in  the  Mangistau oblast (170,000 and 137,500 ha).
 
@@ -5528,7 +4610,7 @@ Agriculture
 
 Wastes
 
-Source: www.climate.kz (Каzakh Science and Research Institute of Ecology and Climate)
+Source: www.climate.kz (Kazakh Science and Research Institute of Ecology and Climate)
 
 > 130 Quantitative Assessment of Greenhouse Gas Emissions / Report of the Kazakh Science and Research Institute of Ecology and Climate, Almaty, 2008.
 
@@ -5598,7 +4680,9 @@ The emissions of the main GHG, carbon dioxide, in Kazakhstan are produced from f
 
 ##### GDP energy intensity
 
-The  ecological  and  economic  indicator,  GDP  energy  intensity,  is  the  ratio  of  total  energy  consumption  to  GDP . Usually in characterising a particular economy, this ratio is used along with the energy consumption per capita indicator.  Highly  developed  countries  have  a  high  energy  consumption per capita and low GDP energy intensity while countries with lower income per capita have a high GDP energy intensity. Reducing energy intensity and increasing revenue generation (GDP) would require a structural transformation of economy, transition to new technologies, and a tightening of standards and requirements set to the energy consuming equipment.
+The ecological and economic indicator, GDP energy intensity, is the ratio of total energy consumption to GDP. Usually in characterising a particular economy, this ratio is used along with the energy consumption per capita indicator. Highly developed countries have a high energy consumption per capita and low GDP energy intensity while
+
+Table 7.9.4. Production growth and energy consumption indicators
 
 Indicators | 2002 | 2003 | 2004 | 2005 | 2006
 --- | --- | --- | --- | --- | ---
@@ -5610,9 +4694,7 @@ Gross consumption of thermal power engineering, million tonne of equivalent fuel
 Electricity consumption, billion KWT/hour | 49.83 | 52.74 | 53.30 | 57.99 | 71.8
 Proportion of energy intensity of GDP, TOE/USD thousand accounting for PCP | 0.62 | 0.53 | 0.53 | 0.5 | 0.52
 Proportion of energy intensity of GDP, TFOE / USD thousand accounting for PCP | 0.885 | 0.757 | 0.757 | 0.714 | 0.742
-Proportion of electric power intensity of GDP, KWT/hour/ USD accounting for PCP | 0.67 | 0.56 | 0.52 | 0.55 | 0.61
-
-Таble 7.9.4. Production growth and energy consumption indicators
+Proportion of electric power intensity of GDP, KWT/hour/USD accounting for PCP | 0.67 | 0.56 | 0.52 | 0.55 | 0.61
 
 > 131 Economic downturn between 1990 and 1996 had a significant accumulated time lag and was most conspicuous in the industry sector. The positive changes were observed in 2000 with the GDP growth reaching 9.5 percent. To have a significant economic impact on the negative social processes (poverty, unemployment, low life standards, marginalization) would require an annual economic growth of 5-8 percent during 5-10 years [*Source: 2000 National Report on Human Development in Kazakhstan, Astana, 2001, p. 6].
 
@@ -5626,7 +4708,9 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 104]]
 
-As of today, most of the fixed assets of local enterprises are worn out, the equipment is out of date and introduction of new technologies is slow. This is coupled with the high energy intensity of GDP in Kazakhstan: the survey by the Kazakhstan Institute of Strategic Research shows the GDP energy  intensity  in  the  country  2-3  times  higher  than  in many developed countries. This also signals that the equipment used in Kazakhstani enterprises does not meet modern requirements 132 .
+countries with lower income per capita have a high GDP energy intensity. Reducing energy intensity and increasing revenue generation (GDP) would require a structural transformation of economy, transition to new technologies, and a tightening of standards and requirements set to the energy consuming equipment.
+
+As of today, most of the fixed assets of local enterprises are worn out, the equipment is out of date and introduction of new technologies is slow. This is coupled with the high energy intensity of GDP in Kazakhstan: the survey by the Kazakhstan Institute of Strategic Research shows the GDP energy intensity in the country 2-3 times higher than in many developed countries. This also signals that the equipment used in Kazakhstani enterprises does not meet modern requirements 132.
 
 International  experience  shows  that  an  effective  energy saving policy is based on well-developed legislation. In the U.S. some fifty energy related laws have been adopted during the last 25-30 years with half of them relating to energy saving. 133     In Kazakhstan, the Energy Saving Law No.210-1 was adopted on 25 December 1997 and is still in effect with the amendments introduced on December 20, 2004 (Ref. №13-III). With the aim to remove inconsistencies in the effective legislation, the Law was adopted to support renewable energy sources (RoK Law No.165-IV dated July 4, 2009) and stage 1 of the Comprehensive Energy Saving Plan for 2009-2010 was endorsed (Government Resolution No 221). The Republican Energy Saving and Energy Efficiency Centre (at the Academician Chokin Kazakh Science and Research Institute of Power Engineering) devised the Energy Saving Programme by 2015 134 . This document contains a number of indicators for calculating proportional energy intensity of GDP using different methodologies (see Table 7.9.4).
 
@@ -5634,7 +4718,27 @@ In order to put the tracking system in order and to provide users with the infor
 
 Energy intensity reduction is important for ensuring production  intensification  and  resource  saving.  This  can  be achieved  through  implementation  of  a  set  of  technical, technological,  organisational,  economic  and  educational measures aimed at comprehensive enhancement of production processes and energy consumption.
 
-The  biggest  issues  are  related  to  the  domestic  energy prices policy aimed at keeping the prices below the cost recovery level, which results in less incentives for energy Source: Fuel and Energy Balance of Republic of Kazakhstan / Statistical Yearbook, Astana, 2009.
+The biggest issues are related to the domestic energy prices policy aimed at keeping the prices below the cost recovery level, which results in less incentives for energy saving and investment into more clean technologies. This also requires setting relatively higher energy prices as the big difference between the domestic and outside energy prices does not stimulate energy saving and limits investment into energy effective technologies. 135
+
+Table 7.9.5. Energy intensity of GDP in Kazakhstan, tonnes of oil equivalent per USD thousand in 2000 prices
+
+Years | 2004 | 2005 | 2006 | 2007 | 2008
+--- | --- | --- | --- | --- | ---
+GDP power intensity | 2.00 | 1.77 | 1.85 | 1.71 | 1.77
+
+Source: Fuel and Energy Balance of Republic of Kazakhstan / Statistical Yearbook, Astana, 2009.
+
+A crucial role in reducing energy intensity of products belongs to capital reconstruction of the fuel and energy balance and extensive use of energy saving technologies. Production of energy-saving engines that consume less fuel and oil; enhancement of the heating and lighting equipment; stimulation of energy saving and setting penalties for over-consumption will allow us to reduce gradually the energy intensity of the national product and national income. Reduction of energy intensity of products, works and services will require an active administrative and economic state management.
+
+It is critical to develop energy consumption from renewable sources. In this regard, it is worth mentioning that the Law of Republic of Kazakhstan 'On Support of Use of Renewable Energy Sources' was adopted on 4 July 2009. Currently, the Ministry of Energy and Mineral Resources of Republic of Kazakhstan and the Agency for Statistics are undertaking some work to develop the methodology and statistical tools for recording the renewable sources. This work is scheduled to be completed by 2014.
+
+It is necessary to develop a system for encouraging enterprises and individuals to introduce energy saving technologies and equipment. Additional measures include:
+
+- setting up statistical recording of the fuel and energy saving through energy saving measurements
+
+- development and endorsement of sector methodologies for calculating fuel and energy saving as a result of introducing the energy saving technologies and equipment
+
+- development of an action plan to promote energy saving technologies and the use of renewable energy sources and local fuels.
 
 > 132 http://www.nomad.su/?a=4-200712060032
 
@@ -5643,26 +4747,6 @@ The  biggest  issues  are  related  to  the  domestic  energy prices policy aime
 > 134 energy.vko.gov.kz
 
 > 135 http://www.energosovet.ru/bul_stat.php?idd=18
-
-Years | 2004 | 2005 | 2006 | 2007 | 2008
---- | --- | --- | --- | --- | ---
-GDP power intensity | 2.00 | 1.77 | 1.85 | 1.71 | 1.77
-
-Table 7.9.5. Energy intensity of GDP in Kazakhstan, tonnes of oil equivalent per USD thousand in 2000 prices
-
-saving and investment into more clean technologies. This also requires setting relatively higher energy prices as the big difference between the domestic and outside energy prices does not stimulate energy saving and limits investment into energy effective technologies. 135
-
-A crucial role in reducing energy intensity of products belongs to capital reconstruction of the fuel and energy balance and extensive use of energy saving technologies. Production of energy-saving engines that consume less fuel and oil; enhancement of the heating and lighting equipment; stimulation of energy saving and setting penalties for  over-consumption  will  allow  us  to  reduce  gradually the energy intensity of the national product and national income. Reduction of energy intensity of products, works and services will require an active administrative and economic state management.
-
-It  is  critical  to  develop  energy  consumption  from  renewable  sources.  In  this  regard,  it  is  worth  mentioning  that the Law of Republic of Kazakhstan 'On Support of Use of Renewable Energy Sources' was adopted on 4 July 2009. Currently, the Ministry of Energy and Mineral Resources of Republic of Kazakhstan and the Agency for Statistics are undertaking some work to develop the methodology and statistical  tools  for  recording  the  renewable  sources. This work is scheduled to be completed by 2014.
-
-It is necessary to develop a system for encouraging enterprises and individuals to introduce energy saving technologies and equipment. Additional measures include:
-
-- setting up statistical recording of the fuel and energy saving through energy saving measurements
-
-- development and endorsement of sector methodologies for calculating fuel and energy saving as a result of introducing the energy saving technologies and equipment
-
-- development  of  an  action  plan  to  promote  energy saving technologies and the use of renewable energy sources and local fuels.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -5679,7 +4763,7 @@ To Ensure Environmental Sustainability
 ##### Percentage of forest areas.
 In  spite  of  some  increase  in the current year of the forest stock area, a number of issues still remain outstanding related to the structural and organisational, human resources, technical as well as funding issues.
 
-A  strategic  goal  would  be  to  shape  a  long-term  government  policy  centred  on  the  harmonisation  of  the  country's  economic  development  goals  with  the  forest  stock conservation. The next priority would be to ensure a clear distribution of roles and an effective coordination system between  central  and  local  government.  Effectiveness  of forestry  institutions  and  implementation  of  bio-diversity conservation programmes would depend on qualification level of the implementing personnel, which would require a  system  in  place  for  personnel  training,  retraining  and qualification upgrade at all levels. It is necessary to secure sufficient funding given that this sector is originally funded from government subsidies and therefore cannot be selfsustainable.  In  addition  to  the  above,  experts  note  lack of  forest  culture  fund  and  advanced  forestation  growing technologies.
+A strategic goal would be to shape a long-term government policy centred on the harmonisation of the country's economic development goals with the forest stock conservation. The next priority would be to ensure a clear distribution of roles and an effective coordination system between central and local government. Effectiveness of forestry institutions and implementation of bio-diversity conservation programmes would depend on qualification level of the implementing personnel, which would require a system in place for personnel training, retraining and qualification upgrade at all levels. It is necessary to secure sufficient funding given that this sector is originally funded from government subsidies and therefore cannot be self-sustainable. In addition to the above, experts note lack of forest culture fund and advanced forestation growing technologies.
 
 ##### Proportion of protected areas for bio-diversity conservation.
 
@@ -5691,7 +4775,7 @@ The challenges in achieving this objective are related to:
 
 - weak social protection of PAs personnel and a low professional level of ordinary personnel
 
-- conflict  of  interests  between  local  communities  and Pas
+- conflict of interests between local communities and PAs
 
 - insufficient  environmental  education  on  the  importance of forest and bio-diversity conservation.
 
@@ -5735,7 +4819,7 @@ Special  attention  should  be  paid  to  improving  environment and natural res
 
 [[START OF PAGE 106]]
 
-## To Ensure Environmental Sustainability GoAl 7
+## GOAL 7 To Ensure Environmental Sustainability
 
 ### TARGET 10
 
@@ -5762,7 +4846,7 @@ To Ensure Environmental Sustainability
 
 The progress in achieving this target is assessed based on the indicator of the proportion of population with a sustainable access to safe water supply.
 
-One of the priorities set in the State Programme 'Health of the Nation' 136  and the National Action Plan for Environmental  Hygiene  (NAPEH)  is  to  provide  the  population  of  the country with a sufficient supply of safe drinking water. The Action Plan for the State Programme of Rural Areas Development of Republic of Kazakhstan for 2007-2009 and the Sectoral Programme of Drinking Water (Stage 2) for 20062010 137 , set a number of objectives to improve water supply. This will be done through construction and restoration of water pipelines, network refurbishment, drilling of artesian wells, using disinfecting chemical agents in the pipelines, timely emergency mitigation on water intake facilities and rural pipeline network. As a result of the scheduled actions, 77.2 percent of the rural population will have had access to quality drinking water by the end of 2010.
+One of the priorities set in the State Programme 'Health of the Nation' 136 and the National Action Plan for Environmental Hygiene (NAPEH) is to provide the population of the country with a sufficient supply of safe drinking water. The Action Plan for the State Programme of Rural Areas Development of Republic of Kazakhstan for 2007-2009 and the Sectoral Programme of Drinking Water (Stage 2) for 2006-2010 137, set a number of objectives to improve water supply. This will be done through construction and restoration of water pipelines, network refurbishment, drilling of artesian wells, using disinfecting chemical agents in the pipelines, timely emergency mitigation on water intake facilities and rural pipeline network. As a result of the scheduled actions, 77.2 percent of the rural population will have had access to quality drinking water by the end of 2010.
 
 #### Trend analysis
 
@@ -5774,10 +4858,11 @@ The  construction  of  water  supply  and  draining  facilities in cities and vi
 
 According  to  the  regional  departments  of  state  sanitary and  epidemiological  supervision,  the  population  of  the Republic benefited some KZT 2034.0 million in 2009 to address drinking water issues, including access to 55.1 MCM of drinking water for 1,761,600 people.
 
-Таble 7.10.2. Ratio of various water consumption
---- | --- | --- | --- | ---
+Table 7.10.2. Ratio of various water consumption
+
 Republic of Kazakhstan | Water consumption, percent
-Total | domes- tic | indus- tries | agricul- ture | Other
+--- | --- | --- | --- | --- | ---
+Total | domestic | industries | agriculture | Other
 100 | 5.0 | 16.0 | 78.0 | 1.0
 
 KZT  26.3  billion  (total  329  water  supply  facilities)  of  targeted transfers were given to the oblasts and Astana and Almaty  cities  for  the  development  of  their  water  supply systems. KZT 9.5 billion were provided for the construction and reconstruction of 30 drinking water supply facilities.
@@ -5788,14 +4873,14 @@ The funding provided in 2008 for the development of rural drinking water supply 
 
 In accordance with the Strategic Development Plan of the Republic of Kazakhstan by 2010, the reduction of water deficit  and  water supply enhancement are named as some of the  current  strategic  priorities  of  the  Government.  One  of the main documents that regulates drinking water supply is a sectoral programme Drinking Water for 2002-2010. In addition, funding of drinking water supply is provided as part of the State Programme for Rural Areas Development for 20042010 and the Programme for Small Towns Development for 2004-2006. The Decision of the Government of the Republic of Kazakhstan №956 dated 16 October 2007 amended the sectoral  programme  Drinking  Waters  for  2002-2010  and approved an updated Programme with the funding of KZT 300 billion, including KZT 168.8 billion from the Republican Budget. The Programme envisages covering all residential areas that require water supply system reconstruction and overhaul with the aim of preventing the use of imported wa-
 
+Table 7.10.1. Use of fresh water, MCM (million m³)
+
 Years | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | ---
 Total, including: | 14,930 | 15,242 | 20,204 | 21,422 | 18,442 | 19,906 | 18,034
 Irrigation, watering and agricultural water supply | 10,590 | 10,573 | 12,021 | 11,329 | 10,897 | 11,512 | 10,002
 Industrial needs | 3,710 | 3,983 | 4,442 | 4,062 | 4,419 | 5,133 | 5,199
 Household needs | 600 | 601 | 621 | 694 | 698 | 709 | 735
-
-Таble 7.10.1. Use of fresh water, MCM (million m 3 )
 
 Source: Kazakhstan in 2008. Statistical Yearbook / Editor A.A. Smailova. Astana, Agency for Statistics of Republic of Kazakhstan, 2009, p.493.
 
@@ -5813,7 +4898,9 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 109]]
 
-2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007
+Table 7.10.3. Proportion of population with access to piped water, percentage
+
+ | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007
 --- | --- | --- | --- | --- | --- | --- | ---
 Republic of Kazakhstan | 74.0 | 73.7 | 75.1 | 76.4 | 77.4 | 78.7 | 79.4
 Akmola Oblast | 77.0 | 77.7 | 74.4 | 76.1 | 77.8 | 79.8 | 79.0
@@ -5834,8 +4921,6 @@ Astana City | 100 | 100 | 100 | 100 | 100 | 99.6 | 100
 Almaty City | 100 | 100 | 100 | 100 | 100 | 100 | 100
 Transport central health authority | 89.2 | 88.0 | 93.7 | 91.8 | 92.5 | 94.7 | 0.0
 
-Таble 7.10.3. Proportion of population with access to piped water, percentage
-
 Source: Protection of Environment and Sustainable Development of Kazakhstan. Statistical Yearbook/Editor A.Meshimbayeva/Astana, 2008.
 
 ter and untreated water from open sources, which will allow to address the issue of a guaranteed quality drinking water supply. 138
@@ -5844,7 +4929,7 @@ The overall structure of water supply in rural settlements is shown in Table 7.1
 
 As at 1 January 2009, 267 rural settlements use imported water; most of these settlements are located in the South Kazakhstan (57), Kostanai (61), Akmola (30) and Atyrau (25) oblasts. Residents of 4,114 rural settlements use decentralised water supply sources.
 
-Sanitary  epidemiological  examinations  were  undertaken at 371 construction and reconstruction facilities; out of this number, 58 facilities (15.6 percent) were found to be noncompliant.
+Sanitary epidemiological examinations were undertaken at 371 construction and reconstruction facilities; out of this number, 58 facilities (15.6 percent) were found to be non-compliant.
 
 Overall piped water supply in the Republic rated up to 76.8 percent as of 1 January 2009 (76.4 percent in 2007). A total of 19.2 percent of the population of the Republic (19.9 percent in 2007) still use water from non-centralised water sources. More than 206,000 people, i.e. 1.2 percent of total population (1.7 percent in 2007) drink water from open water reservoirs and more than 411,000 people (2.2 percent) use imported water of unsafe quality.
 
@@ -5882,7 +4967,7 @@ Number of rural settlements
 
 Population, thousand people
 
-Source: Presentation on Implementation of Sectoral Programme Drinking Water for 2002-2010/ www.carecnet.org Source: Presentation on Implementation of Sectoral Programme Drinking Water for 2002-2010/ www.carecnet.org Insufficient  piped  water  supply  remains  an  issue  in  the North Kazakhstan (63.2 percent), Kostanai (67.5 percent), West  Kazakhstan  (66.3  percent),  Zhambyl  (67  percent), South Kazakhstan (65.7 percent) and Atyrau (68.9 percent) oblasts.
+Source: Presentation on Implementation of Sectoral Programme Drinking Water for 2002-2010/ www.carecnet.org
 
 > 138 A.Ryabtsev, Chairman of the Water Resources Committee of the Ministry of Agriculture of the Republic of Kazakhstan. Report at the 5th World Water Forum. Istanbul, 2009.
 
@@ -5896,40 +4981,44 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 110]]
 
-Total | Centralised wa- ter supply | Decentralised water supply | Imported water
+Table 7.10.4. Structure of water supply in rural settlements
+
+ | Total | Centralised water supply | Decentralised water supply | Imported water
 --- | --- | --- | --- | ---
 Number of rural settlements | 7,093 | 2,685 | 4,114 | 267
 Number of population, thousand people | 7,417.8 | 4,706.9 | 2,587.8 | 123.1
 
-Таble 7.10.4. Structure of water supply in rural settlements
+Source: Presentation on Implementation of Sectoral Programme Drinking Water for 2002-2010/ www.carecnet.org
 
-Urban water consumption per capita rates are between 50 and 350 litres per day while in rural areas this rate ranges between 25 and 250 litres per day. This issue has been fully resolved in major cities thanks to the centralised water supply (Tables 7.10.5 and 7.10.6). Given the existing water supply network development and the use of state-of-theart  autonomous  water  supply  systems  in  rural  areas,  the projection that this target will be achieved at the country level is quite positive.
+Insufficient piped water supply remains an issue in the North Kazakhstan (63.2 percent), Kostanai (67.5 percent), West Kazakhstan (66.3 percent), Zhambyl (67 percent), South Kazakhstan (65.7 percent) and Atyrau (68.9 percent) oblasts.
 
-2005 | 2006 | 2007 | 2008 | 2009
+Urban water consumption per capita rates are between 50 and 350 litres per day while in rural areas this rate ranges between 25 and 250 litres per day. This issue has been fully resolved in major cities thanks to the centralised water supply (Tables 7.10.5 and 7.10.6). Given the existing water supply network development and the use of state-of-the-art autonomous water supply systems in rural areas, the projection that this target will be achieved at the country level is quite positive.
+
+Table 7.10.5. Piped water supply, 2005-2009
+
+ | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | ---
 Total Republic | 74 | 77.4 | 73.7 | 75.1 | 76.8
-Astana city | 100 | 100 | 100 | 100
-Almaty city | 100 | 100 | 100 | 100
+Astana city |  | 100 | 100 | 100 | 100
+Almaty city |  | 100 | 100 | 100 | 100
 Transport central health authority | 89.2 | 92.5 | 88 | 93.7 | 91.8
 
-Таble 7.10.5. Piped water supply, 2005-2009
+Table 7.10.6. Drinking water supply from decentralised water supply sources, 2005-2009
 
-As a result of the Sectoral Programme Drinking Water and Village  Support Programme, in 2009 the total number of water  pipelines  increased  by  61  to  reach  2,617  against 2,556 in 2007. The number of rural pipelines increased by 57 to reach 2,311 against 2,254 in 2007. The number of idle pipelines was reduced from 237 down to 216 (by 21) including reduction of rural pipelines from 219 in 2007 down to 207 (i.e. by 12). Out of all existing working pipelines, 329 (including 302 in rural areas) do not meet the sanitary requirements (292 in 2007 including 272 in rural areas), which is 13.7 percent of the total number (12.5 percent in 2007).
+ | 2005 | 2006 | 2007 | 2008 | 2009
+--- | --- | --- | --- | --- | ---
+Total Republic | 20.9 | 20.6 | 20.2 | 19.9 | 19.2
+Astana city | - | - | - | - |
+Almaty city | - | - | - | - |
+Transport central health authority | 2.2 | 3.6 | 3.4 | 4.1 | 3.5
 
-The  health  authority  undertook  control  over  the  action plan implementation and conducted monthly monitoring over the drinking water quality in accordance with the order of the chief state sanitary doctor of the RoK dated 28 May 2004, No 17.
+As a result of the Sectoral Programme Drinking Water and Village Support Programme, in 2009 the total number of water pipelines increased by 61 to reach 2,617 against 2,556 in 2007. The number of rural pipelines increased by 57 to reach 2,311 against 2,254 in 2007. The number of idle pipelines was reduced from 237 down to 216 (by 21) including reduction of rural pipelines from 219 in 2007 down to 207 (i.e. by 12). Out of all existing working pipelines, 329 (including 302 in rural areas) do not meet the sanitary requirements (292 in 2007 including 272 in rural areas), which is 13.7 percent of the total number (12.5 percent in 2007).
+
+The health authority undertook control over the action plan implementation and conducted monthly monitoring over the drinking water quality in accordance with the order of the chief state sanitary doctor of the RoK dated 28 May 2004, No 17.
 
 The inspection ratio per water supply facility in 2007 was 5.1 including a laboratory inspections ratio of 5.6.
 
-Centralised  drinking  water  quality  saw  an  improvement against 2007. The proportion of water samples non-compliant with the sanitary chemical standards at the national level  remained  the  same  as  in  the  previous  year,  i.e.  4.3 percent (2008), while samples non-compliant with microbiological  standards  saw  some  reduction,  2.5  percent  as against 3.0 percent in 2007. However, the average national indicator was exceeded in the following oblasts, with regard to the sanitary and chemical standards non-compliance:
-
-2005 | 2006 | 2007 | 2008 | 2009
---- | --- | --- | --- | --- | ---
-Total Republic | 20.9 | 20.6 | 20.2 | 19.9 | 19.2
-Astana city | - | - | - | -
-Almaty city | - | - | - | -
-Transport central health authority | 2.2 | 3.6 | 3.4 | 4.1 | 3.5
-
-Таble 7.10.6. Drinking water supply from decentralised water supply sources, 20052009
+Centralised drinking water quality saw an improvement against 2007. The proportion of water samples non-compliant with the sanitary chemical standards at the national level remained the same as in the previous year, i.e. 4.3 percent (2008), while samples non-compliant with microbiological standards saw some reduction, 2.5 percent as against 3.0 percent in 2007. However, the average national indicator was exceeded in the following oblasts, with regard to the sanitary and chemical standards non-compliance:
 
 - Kyzylorda  (13.5  percent  in  2008,  compared  with  14.9 percent in 2007)
 
@@ -5965,15 +5054,15 @@ The main reasons for water pollution still include non-compliance with the size 
 
 In order to address the water supply issues and to provide population with the quality drinking water, the Republican Health Authority proposes the following actions:
 
-- Continue  the  work  started  to  implement  the  Sectoral Programme Drinking Waters for 2002-2010, with the aim of  upgrading  the  water  supply  facilities  and  providing the population with quality drinking water with a special focus on rural pipelines. These data are to be fed to the Republican Health Authority on a quarterly basis.
+1. Continue the work started to implement the Sectoral Programme Drinking Waters for 2002-2010, with the aim of upgrading the water supply facilities and providing the population with quality drinking water with a special focus on rural pipelines. These data are to be fed to the Republican Health Authority on a quarterly basis.
 
-- Ensure  that  detailed  information  is  available  on  the condition  of  regional  water  supply  facilities  including laboratory  control  and  infectious  intestinal  diseases data. Develop specific measured aimed to improve this situation.
+2. Ensure that detailed information is available on the condition of regional water supply facilities including laboratory control and infectious intestinal diseases data. Develop specific measured aimed to improve this situation.
 
-- Ensure enhanced monitoring during the pre-epidemic period for intestinal diseases over the water supply facilities with increased examinations as needed.
+3. Ensure enhanced monitoring during the pre-epidemic period for intestinal diseases over the water supply facilities with increased examinations as needed.
 
-- Enhance sanitary and epidemiological monitoring over open water reservoirs.
+4. Enhance sanitary and epidemiological monitoring over open water reservoirs.
 
-- Conduct wide advocacy among population encouraging the use of bottled water and domestic water filters with the aim to prevent infectious diseases transmitted through water.
+5. Conduct wide advocacy among population encouraging the use of bottled water and domestic water filters with the aim to prevent infectious diseases transmitted through water.
 
 #### Use of water for domestic and drinking needs
 
@@ -5981,7 +5070,7 @@ Supply of water for drinking and domestic needs is one of the priorities in the 
 
 Water  consumption  for  domestic  needs  of  cities,  workers' camps and industrial enterprises increased in 2002 against the previous year by 3 percent to make 0.61 m3. In future, the domestic water consumption in the republic is expected to grow on average by 4 percent annually. Along with the overall domestic water consumption growth, there is a tendency for increase in the per capita water consumption.
 
-Public utilities enterprises waste into surface water facilities amounts about 0.14 m3, out of which only 0.05 m3 is treated  up  to  comply  with  the  normative  requirements. The  situation  is  aggravated  by  the  fact  that  a  significant amount of industrial waste (up to 24 percent in some cities) is drained to the treatment facilities that are not designed for that purpose.
+Public utilities enterprises waste into surface water facilities amounts about 0.14 m3, out of which only 0.05 m3 is
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -5993,9 +5082,10 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 112]]
 
-Including | Planned | Total wa- ter con- sumption
+Table 7.10.7. Total water intake by sectors of economy from various sources (projections for 2020), km³
+
+Consuming sectors | Total intake | Including: surface waters | underground waters | mine waters | Sea waters | Planned: drain waters | waste waters | Total water consumption
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Consuming sectors | Total intake | surface waters | under- ground waters | mine waters | Sea waters | drain waters | waste waters
 Public utilities | 1.244 | 0.545 | 0.677 | 0 | 0.022 | 0 | 0.023 | 1.267
 Industries | 5.575 | 4.023 | 0.341 | 0.20 | 1.011 | 0 | 0.10 | 5.675
 Agriculture including: | 16.248 | 15.78 | 0.468 | 0 | 0 | 0.064 | 0.127 | 16.439
@@ -6007,11 +5097,11 @@ Agriculture including: | 16.248 | 15.78 | 0.468 | 0 | 0 | 0.064 | 0.127 | 16.439
 Fishing | 0.174 | 0.174 | 0 | 0 | 0 | 0 | 0 | 0.174
 Total | 23.241 | 20.522 | 1.486 | 0.20 | 1.033 | 0.064 | 0.25 | 23.555
 
-Таble 7.10.7. Total water intake by sectors of economy from various sources (projections for 2020), km 3
+treated up to comply with the normative requirements. The situation is aggravated by the fact that a significant amount of industrial waste (up to 24 percent in some cities) is drained to the treatment facilities that are not designed for that purpose.
 
 According to the projections, the population of the republic  is  expected to reach 17.98 million people by 2020, including 9.784 million of urban population. The growth is expected to be higher in Astana and Almaty cities with an expected 0.84 and 1.5 million people respectively.
 
-This sector saw a clear tendency for growth in the last 45 years in terms of water consumption due to population growth and overall water infrastructure enhancement. This tendency for growth will remain, and is expected to reach 1,100 and 1,267 million m3 in 2010 and 2020 respectively. The  increased  demand  will  be  covered  through  state  investment in the sector; potential use of alternative drinking water sources; enhancement of water management and rational use of water resources in all sectors of economy.
+This sector saw a clear tendency for growth in the last 4-5 years in terms of water consumption due to population growth and overall water infrastructure enhancement. This tendency for growth will remain, and is expected to reach 1,100 and 1,267 million m3 in 2010 and 2020 respectively. The increased demand will be covered through state investment in the sector; potential use of alternative drinking water sources; enhancement of water management and rational use of water resources in all sectors of economy.
 
 Water  consumption  by  recreational  sites  is  currently  not recorded in full. In future this will be recorded as part of the public utilities sector. However, further down it can be treated as a separate sector if needed.
 
@@ -6043,7 +5133,7 @@ The refocus of water supply networks on other water sources is not expected and 
 
 Water  supply  of  the  capital  of  the  Republic  depends  on the waters resources of the Yesil River. In order to ensure a sustainable water supply of Astana, the diversion of runoff from Kanysh Satpayev Canal is envisaged using a 'compensatory' regime: with a maximum water supply during low water levels and no water supply in high water years.
 
-The water supply of the Karaganda and Temirtau industrial zones will be still provided from the Satpayev Canal. In order to secure water supply for the oil producing areas of the Atyrau and Mangistau oblasts it is expected to increase supply from the Volga River transmitted through the Astrakhan-Mangyshlak Conduit.
+The water supply of the Karaganda and Temirtau industrial zones will be still provided from the Satpayev Canal. In or-
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6054,7 +5144,7 @@ To Ensure Environmental Sustainability
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
-
+der to secure water supply for the oil producing areas of the Atyrau and Mangistau oblasts it is expected to increase supply from the Volga River transmitted through the Astrakhan-Mangyshlak Conduit.
 Figure 7.10.2. Share of sectors of economy in total water intake, percentage
 
 public utilities
@@ -6113,7 +5203,7 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 114]]
 
-## To Ensure Environmental Sustainability GoAl 7
+## GOAL 7 To Ensure Environmental Sustainability
 
 
 
@@ -6127,9 +5217,9 @@ The Republic of Kazakhstan is behind the most developed countries of the world i
 
 Progress in achieving this target has been assessed on the basis of the following indicators:
 
--the  proportion  of  households  with  access  to  tenure, owned or leasehold
+- the proportion of households with access to tenure, owned or leasehold
 
--the proportion of the population having access to improved sanitation systems
+- the proportion of the population having access to improved sanitation systems
 
 To  ensure  sustainable  development  of  Kazakhstan  it  is necessary to undertake further steps in order to eradicate poverty through a set of comprehensive measures, in particular in rural areas.
 
@@ -6155,40 +5245,41 @@ MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 ##### Access to housing and improved sanitary technical facilities
 
-Improving housing conditions is one of the priorities for the country's  sustainable  development.  Improved  public  wellbeing  requires  enhancement  of  housing  construction  and improvement of domestic conditions. At the same time, the situation  with  housing  supply  has  deteriorated  in  recent years. One of the reasons for this has been the global economic downturn, which is one of the first sectors to experience the impact of the downturn. Many construction firms were forced to quit the market and shareholders from among ordinary citizens were also affected. Given this situation, the government undertook emergency measures to protect the citizens and revised its housing programme. However, it was not able to fully alleviate the financial implications and is currently undertaking steps to gradually recover the losses. In today's situation, only a few can afford to purchase unsubsidised  housing.  The  situation  with  illegal  residential  construction is aggravated in the suburbs of big cities. To some extent, the pressure comes from labour migration (including illegal migration). Thus, the population in Almaty in summer periods doubles due to visitor inflow, including guests and labour migrants. There is no doubt that this problem requires a  comprehensive approach covering education, healthcare service, social benefits, employment and other issues.
+Improving housing conditions is one of the priorities for the country's sustainable development. Improved public well-being requires enhancement of housing construction and improvement of domestic conditions. At the same time, the situation with housing supply has deteriorated in recent years. One of the reasons for this has been the global economic downturn, which is one of the first sectors to experience the impact of the downturn. Many construction firms were forced to quit the market and shareholders from among ordinary citizens were also affected. Given this situation, the government undertook emergency measures to protect the citizens and revised its housing programme. However, it was not able to fully alleviate the financial implications and is currently undertaking steps to gradually recover the losses. In today's situation, only a few can afford to purchase unsubsidised housing. The situation with illegal residential construction is aggravated in the suburbs of big cities. To some extent, the pressure comes from labour migration (including illegal migration). Thus, the population in Almaty in summer periods doubles due to visitor inflow, including guests and labour migrants. There is no doubt that this problem requires a comprehensive approach covering education, healthcare service, social benefits, employment and other issues.
 
-2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
+Table 7.11.1. Basic Indicators of Housing Conditions
+
+ | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | ---
-Average hous- ing available per capita, m 2 | 16.6 | 17.0 | 17.3 | 17.5 | 17.6 | 17.9 | 18.1
+Average housing available per capita, m² | 16.6 | 17.0 | 17.3 | 17.5 | 17.6 | 17.9 | 18.1
 Including:
 urban | 17.3 | 18.0 | 18.4 | 18.7 | 18.9 | 19.4 | 19.7
 rural | 15.6 | 15.8 | 15.9 | 15.9 | 15.9 | 16.2 | 16.4
 Percentage of available housing with:
 water pipe | 52.4 | 52.8 | 53.5 | 54.4 | 54.9 | 56.3 | 58.9
 Sewage system | 41.3 | 43.3 | 43.7 | 44.6 | 45.0 | 45.6 | 47.4
-central heat- ing | 38.1 | 38.6 | 38.8 | 38.9 | 40.5
-baths | 37.7 | 39.5 | 40.1 | 40.6 | 42.4
-gas | 87.9 | 87.6 | 87.3 | 88.4 | 87.6
-hot water sup- ply | 33.7 | 33.9 | 34.0 | 34.0 | 35.4
-Electric cook- ing appliances | 7.0 | 7.3 | 7.6 | 7.6 | 8.5
-
-Таble 7.11.1. Basic Indicators of Housing Conditions
+central heating |  |  | 38.1 | 38.6 | 38.8 | 38.9 | 40.5
+baths |  |  | 37.7 | 39.5 | 40.1 | 40.6 | 42.4
+gas |  |  | 87.9 | 87.6 | 87.3 | 88.4 | 87.6
+hot water supply |  |  | 33.7 | 33.9 | 34.0 | 34.0 | 35.4
+Electric cooking appliances |  |  | 7.0 | 7.3 | 7.6 | 7.6 | 8.5
 
 Source: based on the materials of the statistical yearbook 'Kazakhstan in 2008' (Agency for Statistics of the Republic of Kazakhstan, Astana, 2009) and the 2007 MDG Report for Kazakhstan.
 
-Table 7.11.2 Housing Stock (million m 2 )
---- | --- | --- | --- | --- | --- | ---
+Table 7.11.2 Housing Stock (million m²)
+
 Housing stock | 2004 | 2005 | 2006 | 2007 | 2008
+--- | --- | --- | --- | --- | ---
 Total | 252.7 | 254.6 | 256.1 | 260.6 | 267.8
-including: | Private | 244.9 | 247.3 | 248.9 | 253.7 | 261.4
+including: Private | 244.9 | 247.3 | 248.9 | 253.7 | 261.4
 State | 7.8 | 7.3 | 7.2 | 6.9 | 6.4
 Urban housing stock
 Total | 153.0 | 155.7 | 157.2 | 150.4 | 153.4
-including: | Private | 146.3 | 149.6 | 151.2 | 144.9 | 148.3
+including: Private | 146.3 | 149.6 | 151.2 | 144.9 | 148.3
 State | 6.7 | 6.1 | 6.0 | 5.5 | 5.1
 Rural housing stock
 Total | 99.7 | 98.9 | 98.9 | 110.2 | 114.4
-including: | Private | 98.6 | 97.7 | 97.7 | 108.7 | 113.2
+including: Private | 98.6 | 97.7 | 97.7 | 108.7 | 113.2
 State | 1.1 | 1.2 | 1.2 | 1.4 | 1.2
 
 Source: Kazakhstan in 2008. Statistical Yearbook. Astana, Agency for Statistics of the Republic of Kazakhstan, 2009.
@@ -6215,10 +5306,10 @@ To Ensure Environmental Sustainability
 
 Table 7.11.3 Objectives and Targets for the Development of Housing and Public Utilities
 
-By 2020 | The normative losses during transportation are expected to be 17 percent for thermal energy, 15 percent for water, and 12 percent for electricity Access to the centralised water supply will be 50 percent in rural areas and 100 percent in towns At least 70 percent of consumers in each re- gion should be satisfied with the quality of public utilities.
+By 2020 | The normative losses during transportation are expected to be 17 percent for thermal energy, 15 percent for water, and 12 percent for electricity Access to the centralised water supply will be 50 percent in rural areas and 100 percent in towns At least 70 percent of consumers in each region should be satisfied with the quality of public utilities.
 --- | ---
-By 2015 | The normative losses during transportation are expected to be 20 percent for thermal energy, 19 percent for water, and 15 percent for electricity Access to the centralised water supply will be 35 percent in rural areas and 70 percent in towns At least 50 percent of consumers in each re- gion should be satisfied with the quality of public utilities The condominiums will ensure themselves the standard maintenance of the housing stock.
-By 2011 | Based on the inventory, housing stock and public utilities infrastructure, databases will be regularly updated The Government provides targeted loans to implement housing and public utilities infra- structure modernisation projects State-of-the-art management is implement- ed in public utilities
+By 2015 | The normative losses during transportation are expected to be 20 percent for thermal energy, 19 percent for water, and 15 percent for electricity Access to the centralised water supply will be 35 percent in rural areas and 70 percent in towns At least 50 percent of consumers in each region should be satisfied with the quality of public utilities The condominiums will ensure themselves the standard maintenance of the housing stock.
+By 2011 | Based on the inventory, housing stock and public utilities infrastructure, databases will be regularly updated The Government provides targeted loans to implement housing and public utilities infrastructure modernisation projects State-of-the-art management is implemented in public utilities
 
 #### Challenges
 
@@ -6378,7 +5469,7 @@ To Ensure Environmental Sustainability
 
 [[START OF PAGE 118]]
 
-## To Develop a Global Partnership for Development GOAL 8
+## GOAL 8 To Develop a Global Partnership for Development
 
 The Millennium Declaration underlying the MDGs emphasises that MDGs are interrelated and that their achievement requires a comprehensive multi-sectoral approach. Their success depends on the commitment of the government and the quality of management in each country, but it equally depends on cooperation and collaboration between countries, to enhance the quality and transparency of financial, monetary and trade systems. Developed countries have undertaken additional commitments to ensure favourable conditions for developing countries to participate in the international systems and to link official development assistance (ODA) to national priorities. Therefore, Millennium Development Goal 8 is focused on the value and importance of partners at the international level (global partnerships) and in each country (national partnerships), as such partnerships directly affect the achievement of all development goals by each country. National governments can progress more quickly in implementing their strategies and programmes should they effectively use the capacity of the private sector and civil society. In the international market-place the role of international and regional organisations in promoting national interests is well known. Partnerships help to achieve sustained economic growth, which in its turn may result in innovative models of partnerships.
 
@@ -6414,23 +5505,23 @@ This target calls upon national governments to enhance the quality of public man
 
 Some of the indicators listed below are monitored separately for the least developed countries (LDCs), Africa, landlocked developing countries and small-island developing States.
 
-- Net ODA, including total ODA and ODA to the least developed countries, as a percentage of OECD/DAC donors' gross national income
+1. Net ODA, including total ODA and ODA to the least developed countries, as a percentage of OECD/DAC donors' gross national income
 
-- The proportion of total bilateral, sector-allocable ODA of OECD/DAC donors to basic social services (basic education, primary health care, nutrition, safe water and sanitation)
+2. The proportion of total bilateral, sector-allocable ODA of OECD/DAC donors to basic social services (basic education, primary health care, nutrition, safe water and sanitation)
 
-- The proportion of bilateral official development assistance of OECD/DAC donors that is untied
+3. The proportion of bilateral official development assistance of OECD/DAC donors that is untied
 
-- ODA received in landlocked developing countries as a proportion of their gross national incomes
+4. ODA received in landlocked developing countries as a proportion of their gross national incomes
 
-- ODA received in small-island developing States as a proportion of their gross national incomes
+5. ODA received in small-island developing States as a proportion of their gross national incomes
 
-- Proportion of total developed country imports (by value and excluding arms) from developing countries and least developed countries, admitted free of duty
+6. Proportion of total developed country imports (by value and excluding arms) from developing countries and least developed countries, admitted free of duty
 
-- Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries
+7. Average tariffs imposed by developed countries on agricultural products and textiles and clothing from developing countries
 
-- Agricultural support estimates for OECD countries as a percentage of their gross domestic product
+8. Agricultural support estimates for OECD countries as a percentage of their gross domestic product
 
-- The proportion of ODA provided to help build trade capacity
+9. The proportion of ODA provided to help build trade capacity
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6448,11 +5539,11 @@ International organisations and developed countries have adopted a number of ini
 
 #### Target 3 indicators:
 
-- The total number of countries that have reached their HIPC decision points and the number that have reached their HIPC completion points (cumulative)
+1. The total number of countries that have reached their HIPC decision points and the number that have reached their HIPC completion points (cumulative)
 
-- Debt relief committed under HIPC and MDRI Initiatives
+2. Debt relief committed under HIPC and MDRI Initiatives
 
-- Debt service as a percentage of exports of goods and services
+3. Debt service as a percentage of exports of goods and services
 
 ### Target 4: In cooperation with pharmaceutical companies, to provide access to affordable essential drugs in developing countries.
 
@@ -6468,11 +5559,11 @@ Information and communication technologies (ICT) can be powerful instruments for
 
 #### Target 5 indicators:
 
-- Telephone lines per 100 population
+1. Telephone lines per 100 population
 
-- Cellular subscribers per 100 population
+2. Cellular subscribers per 100 population
 
-- Internet users per 100 population
+3. Internet users per 100 population
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6498,9 +5589,11 @@ The  economic  partnerships  of  the  country  on  the  international  arena  fo
 
 After  the  global  financial  and  economic  crisis  broke  out, the  Government  continued  to  work  actively  with  international  financial  institutions. These  have  included  Asian Development Bank, the World Bank Group, the European Bank  for  Reconstruction  and  Development,  the  Islamic Development Bank and others to attract experts, lending and finance to implement innovative projects for overcoming  the  impact  of  the  international  crisis  on  the  national economy.
 
-ODA to developing land-locked coun- tries, as percentage of gross national income | ODA to developing land-locked countries (USD million)
+##### Table 1. Data on Kazakhstan's Progress in Available Global Indicators
+
+ | ODA to developing land-locked countries, as percentage of gross national income | ODA to developing land-locked countries (USD million)
 --- | --- | ---
-1990
+1990 |  |
 1991 | 0.45 | 111.5
 1992 | 0.05 | 11.62
 1993 | 0.08 | 18.35
@@ -6518,12 +5611,12 @@ ODA to developing land-locked coun- tries, as percentage of gross national incom
 2005 | 0.43 | 220.89
 2006 | 0.24 | 171.76
 2007 | 0.22 | 202.43
-2008
-2009
+2008 |  |
+2009 |  |
 
-##### Table 1. Data on Kazakhstan's Progress in Available Global Indicators
+* Kazakhstan is a land-locked country
 
-The  country  has  received  general  donor  assistance  programmes,  and  now  its  development  needs  are  more  focused on specialised and advanced knowledge and practice. The World Bank, USAID and EU Delegation cooperate with  the  Government  of  Kazakhstan  through  joint  co-financed  programmes  to  address  new  development  challenges. The United Nations in Kazakhstan has agreed with the Government a new partnership programme for 20102015, focused on assisting the government to achieve the Millennium  Development  Goals  especially  in  the  areas where the UN has competitive advantages. The United Nations  Development  Programme  has  signed  a  Memorandum of Understanding with the Government, which confirms the value of partnerships with middle-income countries, such as Kazakhstan, and reiterates the Government's readiness to co-finance joint initiatives in priority areas. The Government and UNDP already co-finance several projects (assistance to the National Action Plan for Implementation of Kyoto Protocol, preparation to ratification of the UN Convention on the Rights of People with Disabilities by Kazakhstan, and gender equality promotion).
+The country has received general donor assistance programmes, and now its development needs are more focused on specialised and advanced knowledge and practice. The World Bank, USAID and EU Delegation cooperate with the Government of Kazakhstan through joint co-financed programmes to address new development challenges. The United Nations in Kazakhstan has agreed with the Government a new partnership programme for 2010-2015, focused on assisting the government to achieve the Millennium Development Goals especially in the areas where the UN has competitive advantages. The United Nations Development Programme has signed a Memorandum of Understanding with the Government, which confirms the value of partnerships with middle-income coun-
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6534,6 +5627,8 @@ To Develop a Global Partnership for Development
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+
+tries, such as Kazakhstan, and reiterates the Government's readiness to co-finance joint initiatives in priority areas. The Government and UNDP already co-finance several projects (assistance to the National Action Plan for Implementation of Kyoto Protocol, preparation to ratification of the UN Convention on the Rights of People with Disabilities by Kazakhstan, and gender equality promotion).
 
 The Ministry of Economy and Budget Planning, as the coordinator of development work and
 
@@ -6547,7 +5642,7 @@ The Customs Union Agreement signed in November 2009 by Kazakhstan, Russia and Be
 
 Considerable preparatory work has been performed since 1  January  2010  to  enable  Customs  Union  operations.  In particular, about 38 international agreements building the legal framework of the Customs Union have been signed. These  treaties  envisage  application  of  unified  tariff  and non-tariff  regulation,  customs  regulation,  indirect  taxation, etc. In addition, the Customs Union is to set unified customs clearance regulation, i.e. common rules of declaring goods and customs duty payment, unified customs regimes, application of unified rules of determining customs value and country of origin. All this creates the preconditions for uniting customs areas of the member states into a Unified Customs Union Area, i.e. there will be no customs checks at in-union customs borders between the member states, which will make movement of goods between the Customs Union member states virtually free.
 
-The  Agreement  on  the  Principles  of  Indirect  Taxation  of Exported and Imported Goods, Work and Services in the Customs Union will become effective on 1 July 2010; the agreement envisages national treatment for goods originating from the Customs Union member states.
+The Agreement on the Principles of Indirect Taxation of Exported and Imported Goods, Work and Services in the Customs Union will become effective on 1 July 2010; the agreement envisages national treatment for goods origi-
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6558,7 +5653,9 @@ To Develop a Global Partnership for Development
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
+nating from the Customs Union member states.
 
+On 1 January 2010, Unified Customs Tariff became effective as a basis for trade policies with third countries. At the beginning of Unified Customs Tariff, about 40 percent of customs duties of three countries matched together and hence were not changed. When unifying the rest 60 percent of tariffs due consideration was given to the availability and plans for manufacturing goods in the countries. High customs duties were set for manufactured goods already produced within the countries (pipes, some construction materials), as for goods in imports of which Kazakhstan is interested there are mechanisms for exemption from customs duties.
 On 1 January 2010, Unified Customs Tariff became effective as a basis for trade policies with third countries. At the beginning of Unified Customs Tariff, about 40 percent of customs duties of three countries matched together and hence were not changed. When unifying the rest 60 percent of  tariffs  due  consideration  was  given  to  the  availability and plans for manufacturing goods in the countries. High customs duties were set for manufactured goods already produced within the countries (pipes, some construction materials), as for goods in imports of which Kazakhstan is interested there are mechanisms for exemption from customs duties.
 
 Thus, to avoid the negative impact of increased customs duties  on  Kazakh  companies  using  feedstock  from  third countries, or on customers of goods planned to be developed later, Kazakhstan has reserved the right to apply lower rates of customs duties for imports of about 400 goods during the transition period.
@@ -6607,13 +5704,15 @@ The government emphasises the need to further develop PPP in Kazakhstan as one o
 
 In cooperation with the private sector, make available the benefits  of  new  technologies,  especially  information  and communications technologies.
 
+##### Table 2: Data on a Number of Fixed Line and Cellular Subscribers, Internet Users
+
 Year | Number of fixed line subscribers per 100 population | Number of fixed lines (thousands) | Number of cellular subscribers per 100 population | Number of cellular subscribers | Number of Internet users per 100 population | Number of Internet users
 --- | --- | --- | --- | --- | --- | ---
 1990 | 8.08 | 1,333,454 | 0 | 0 | 0 | 0
-1991 | 8.65 | 1,425,213 | 0 | 0
-1992 | 9.1 | 1,490,384 | 0 | 0
-1993 | 12.18 | 1,975,840 | 0 | 0
-1994 | 12.38 | 1,987,001 | 0 | 400 | 84
+1991 | 8.65 | 1,425,213 | 0 | 0 |  |
+1992 | 9.1 | 1,490,384 | 0 | 0 |  |
+1993 | 12.18 | 1,975,840 | 0 | 0 |  |
+1994 | 12.38 | 1,987,001 | 0 | 400 |  | 84
 1995 | 12.37 | 1,962,940 | 0.03 | 4,600 | 0.01 | 1,800
 1996 | 12.22 | 1,916,592 | 0.06 | 9,798 | 0.03 | 5,000
 1997 | 11.65 | 1,805,330 | 0.07 | 11,202 | 0.06 | 10,000
@@ -6629,8 +5728,6 @@ Year | Number of fixed line subscribers per 100 population | Number of fixed lin
 2007 | 20.99 | 3,136,500 | 79.9 | 12,322,676 | 4 | 683,000
 2008 | 21.95 | 3,428,704 | 96.00 | 15,674,027 | 11 | 3,202,000
 2009 | 24 | 3,762,932 | 95.00 | 14,995,325 | 32 | 5,151,325
-
-##### Table 2: Data on a Number of Fixed Line and Cellular Subscribers, Internet Users
 
 Source: OECD DAC Database, 2008. Data by countries.
 
@@ -6710,25 +5807,25 @@ ANNEXES
 
 Indicators | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-% of people having in- come below the sub- sistence minimum 1 | 34.6 | 38.3 | 39.0 | 34.5 | 31.8 | 46.7 | 44.5 | 37.5 | 33.9 | 31.6 | 18.2 | 12.7 | 12.1 | 8.2
+% of people having income below the subsistence minimum 1 | 34.6 | 38.3 | 39.0 | 34.5 | 31.8 | 46.7 | 44.5 | 37.5 | 33.9 | 31.6 | 18.2 | 12.7 | 12.1 | 8.2
 Urban | - | 32.7 | 38.5 | 32.9 | 30.0 | 36.0 | 33.0 | 24.7 | 23.4 | 20.2 | 13.6 | 6.9 | 8.1 | 5.6
 Rural | - | 46 | 47.7 | 37.1 | 34.2 | 59.4 | 58.4 | 53.2 | 47.1 | 45.6 | 24.4 | 18.1 | 15.9 | 12.1
-% of people having in- come below the food basket 1 | - | 12.7 | 16.2 | 14.5 | 11.7 | 16.1 | 13.8 | 9.1 | 6.3 | 5.2 | 2.7 | 1.4 | 1.2 | 0.6
+% of people having income below the food basket 1 | - | 12.7 | 16.2 | 14.5 | 11.7 | 16.1 | 13.8 | 9.1 | 6.3 | 5.2 | 2.7 | 1.4 | 1.2 | 0.6
 Urban | - | - | - | - | - | 10.7 | 8.6 | 4.9 | 3.9 | 2.4 | 1.8 | 0.7 | 0.6 | 0.2
 Rural | - | - | - | - | - | 22.6 | 20.1 | 14.2 | 9.4 | 8.5 | 3.8 | 2.1 | 1.7 | 0.9
 Poverty depth 1 , % | 11.4 | 12.1 | 12.8 | 13.7 | 10.3 | 14.8 | 13.3 | 10.2 | 8.3 | 7.5 | 3.9 | 2.4 | 2.3 | 1.3
 Incidence of poverty 1 , % | 5.2 | 3.1 | 3.8 | 5.5 | 4.0 | 6.5 | 5.5 | 3.9 | 2.9 | 2.5 | 1.3 | 0.8 | 0.7 | 0.3
-Household income (used for consump- tion), per capita, KZT | - | - | 3806 | 4375 | 5030 | 5729 | 6518 | 7569 | 8387 | 9751 | 13723 | 16935 | 20037 | 21348
+Household income (used for consumption), per capita, KZT | - | - | 3806 | 4375 | 5030 | 5729 | 6518 | 7569 | 8387 | 9751 | 13723 | 16935 | 20037 | 21348
 Urban | - | - | - | - | - | 6787 | 7799 | 8988 | 9860 | 11504 | 16121 | 19865 | 23365 | 25008
 Rural | - | - | - | - | - | 4477 | 4989 | 5828 | 6560 | 7599 | 10527 | 13687 | 16271 | 17136
-Ratio of income used for consumption to the subsistence mini- mum, % | - | - | 114.1 | 128.9 | 125.5 | 101.3 | 108.6 | 117.2 | 123.6 | 128.0 | 163.2 | 175.4 | 162.1 | 168.6
-Average nominal in- come, per capita, KZT | 2371 | 2849 | 3020 | 5539 | 6352 | 7670 | 8958 | 10533 | 12817 | 15787 | 19152 | 25226 | 30781 | 34736 3)
+Ratio of income used for consumption to the subsistence minimum, % | - | - | 114.1 | 128.9 | 125.5 | 101.3 | 108.6 | 117.2 | 123.6 | 128.0 | 163.2 | 175.4 | 162.1 | 168.6
+Average nominal income, per capita, KZT | 2371 | 2849 | 3020 | 5539 | 6352 | 7670 | 8958 | 10533 | 12817 | 15787 | 19152 | 25226 | 30781 | 34736 3)
 Real income index, % | 98.9 | 102.4 | 99 | 104.2 | 101.3 | 111.3 | 110.3 | 110.5 | 113.8 | 114.5 | 111.7 | 118.9 | 104.3 | 105.2 3)
 Average expenditure, per capita, KZT | 2318 | 2770 | 2992 | 3327 | 3954 | 4918 | 5671 | 6674 | 7500 | 8800 | 12602 | 15516 | 18324 | 19718
 Urban | 3309 | 3814 | 4101 | 4042 | 4941 | 6255 | 7267 | 8424 | 9349 | 10990 | 15535 | 19172 | 22569 | 24220
 Rural | 1401 | 1720 | 1829 | 2004 | 2698 | 3336 | 3765 | 4527 | 5206 | 6111 | 8691 | 11465 | 13520 | 14537
-Income ratio from the richest 10% to the poorest 10% 2 , times | 10.2 | 11.3 | 9.4 | 8.3 | 8.8 | 8.1 | 7.4 | 6.8 | 6.8 | 7.4 | 7.2 | 6.2 | 5.3
-Income distribution coefficient (Gini in- dex) | 0.319 | 0.338 | 0.347 | 0.332 | 0.307 | 0.339 | 0.328 | 0.315 | 0.305 | 0.304 | 0.312 | 0.309 | 0.288 | 0.267
+Income ratio from the richest 10% to the poorest 10% 2 , times |  | 10.2 | 11.3 | 9.4 | 8.3 | 8.8 | 8.1 | 7.4 | 6.8 | 6.8 | 7.4 | 7.2 | 6.2 | 5.3
+Income distribution coefficient (Gini index) | 0.319 | 0.338 | 0.347 | 0.332 | 0.307 | 0.339 | 0.328 | 0.315 | 0.305 | 0.304 | 0.312 | 0.309 | 0.288 | 0.267
 Average household size, persons | 3.6 | 3.5 | 3.5 | 3.4 | 3.4 | 3.7 | 3.6 | 3.6 | 3.5 | 3.5 | 3.4 | 3.4 | 3.3 | 3.4
 Urban | 3.1 | 3.0 | 3.0 | 3.1 | 3.1 | 3.2 | 3.1 | 3.1 | 3.1 | 3.0 | 3.0 | 2.9 | 2.9 | 3.0
 Rural | 4.2 | 4.1 | 4.3 | 4.2 | 4.1 | 4.6 | 4.5 | 4.3 | 4.3 | 4.2 | 4.1 | 3.9 | 3.9 | 4.0
@@ -6738,7 +5835,6 @@ Rural | 4.2 | 4.1 | 4.3 | 4.2 | 4.1 | 4.6 | 4.5 | 4.3 | 4.3 | 4.2 | 4.1 | 3.9 | 
 2) The 1990-2000 data is presented following the resource balance and usage of key agricultural products. The data starting from 2001 is presented based on a sample survey of households.
 
 3) Provisional data
-#### Education coverage of children with disabilities, 2005-2009
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6750,9 +5846,12 @@ ANNEXES
 
 [[START OF PAGE 129]]
 
+### GOAL 2: To Achieve Universal Primary Education
+
 #### Coverage of Children between 7 and 17 with General Secondary Education, by Oblasts
---- | --- | --- | --- | --- | ---
+
 № | Oblasts/cities | 2006 | 2007 | 2008 | 2009
+--- | --- | --- | --- | --- | ---
 1 | Akmola Oblast | 99.9286367 | 99.9132003 | 99.9403634 | 99.9118767
 2 | Aktobe Oblast | 99.9695134 | 99.9758623 | 99.9850314 | 99.9685013
 3 | Atyrau Oblast | 99.9820255 | 99.9790315 | 99.981838 | 99.9785589
@@ -6769,9 +5868,9 @@ ANNEXES
 13 | South Kazakhstan | 99.9852442 | 99.9756057 | 99.9789153 | 99.9904989
 15 | Almaty City | 99.981572 | 99.9731042 | 99.9803208 | 99.9793795
 16 | Astana City | 99.8548716 | 99.9286269 | 99.9222514 | 99.9175391
-TOTAL | 99.9471604 | 99.9285766 | 99.9375488 | 99.9452875
+ | TOTAL | 99.9471604 | 99.9285766 | 99.9375488 | 99.9452875
 
-### GOAL 2: To Achieve Universal Primary Education
+#### Education coverage of children with disabilities, 2005-2009
 
 № п/п | Oblast | 2005-2006 academic year (%) | 2006-2007 academic year (%) | 2007-2008 academic year (%) | 2008-2009 academic year (%) | 2009-2010 academic year (%)
 --- | --- | --- | --- | --- | --- | ---
@@ -6791,7 +5890,9 @@ TOTAL | 99.9471604 | 99.9285766 | 99.9375488 | 99.9452875
 14 | South Kazakhstan | 9.3 | 8.3 | 9.7 | 11 | 13.1
 15 | Almaty City | 100 | 74.7 | 66.5 | 52 | 44.1
 16 | Astana City | 56.7 | 57.9 | 50.2 | 48 | 47.1
-TOTAL | 24.7 | 23.3 | 36.0 | 38.0 | 41.4
+ | TOTAL | 24.7 | 23.3 | 36.0 | 38.0 | 41.4
+
+Source: Agency for Statistics.
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -6817,7 +5918,7 @@ Senate Secretariat Chief of Staff | 1 | - | - | 1 | 100.0
 Senate Secretariat Deputy Chief of Staff | 3 | - | - | 3 | 100.0
 Heads of departments | 13 | 1 | 7.7 | 12 | 92.3
 Deputy Heads of Departments | 17 | 6 | 35.3 | 11 | 64.7
-Assistants to Senate Chairperson, Deputy Chairper- son, Chief of Staff, Advisors | 8 | - | - | 8 | 100.0
+Assistants to Senate Chairperson, Deputy Chairperson, Chief of Staff, Advisors | 8 | - | - | 8 | 100.0
 Section Heads | 8 | 3 | 37.5 | 5 | 62.5
 Consultants | 39 | 21 | 53.8 | 18 | 46.2
 Chief Experts | 19 | 18 | 94.7 | 1 | 5.3
@@ -6837,7 +5938,7 @@ Chief of Staff | 1 | - | - | 1 | 100.0
 Deputy Chief of Staff | 2 | - | - | 2 | 100.0
 Heads of Departments, Secretariats | 15 | 5 | 33.3 | 10 | 66.7
 Deputy Heads of Departments, Advisors | 19 | 4 | 21.1 | 15 | 78.9
-Assistants to Mazhilis Chairperson, Deputy Chairper- son, Chief of Staff, Advisors | 6 | 1 | 16.7 | 5 | 83.3
+Assistants to Mazhilis Chairperson, Deputy Chairperson, Chief of Staff, Advisors | 6 | 1 | 16.7 | 5 | 83.3
 Section Heads | 20 | 11 | 55.0 | 9 | 45.0
 Chief Consultants | 58 | 26 | 44.8 | 32 | 55.2
 Chief Experts | 18 | 12 | 66.7 | 6 | 33.3
@@ -6857,7 +5958,7 @@ ANNEXES
 
 #### Gender Profile of Maslikhat Members, 2008
 
-Maslikhat Members of all levels, persons | Including | Distribution by Sex
+Maslikhat Members of all levels, persons | Including | Distribution by Sex (%)
 --- | --- | --- | --- | --- | ---
 Women | Men | Women | Men
 Kazakhstan | 3325 | 567 | 2758 | 17.1 | 82.9
@@ -6893,10 +5994,9 @@ ANNEXES
 [[START OF PAGE 132]]
 
 #### Crimes by Types, 2008
+Registered Crimes
 --- | --- | --- | --- | --- | ---
-Registered Crimes which
-Total | of Against women | Against minors
-Number | % | Number | %
+ | Total | of which: Against women, Number | Against women, % | Against minors, Number | Against minors, %
 Total number of registered crimes | 127,478 | 35,131 | 27.6 | 5,769 | 4.5
 Of which heavy and especially grave crimes | 31,268 | 7,555 | 24.2 | 25,626 | 8.1
 Crimes against personality | 8,623 | 3,336 | 36.7 | 841 | 9.8
@@ -6917,7 +6017,8 @@ Fraud | 10,679 | 3,659 | 34.3 | 536 | 5.0
 Robbery | 11,231 | 4,086 | 34.4 | 2110 | 18.8
 Robbery with violence | 1,950 | 624 | 32.0 | 209 | 10.7
 Extortion | 792 | 107 | 13.5 | 262 | 33.1
-Crimes against public security and public order of which: | 7,715 | 1,338 | 17.3 | 494 | 6.4
+Crimes against public security and public order | 7,715 | 1,338 | 17.3 | 494 | 6.4
+of which:
 Disorderly behaviour | 6,077 | 1,319 | 21.7 | 486 | 8.0
 Crimes against health, people and morality | 10,049 | 29 | 0.3 | 4 | 0.0
 of which:
@@ -6941,6 +6042,8 @@ ANNEXES
 
 ### GOAL 4: To Reduce Child Mortality
 
+#### Показатели младенческой и материнской смертности в 2008- 2009* гг.
+
 Oblasts | Младенческая смертность на 1000 родившихся живыми | Материнская смертность на 100 000 родившихся живыми
 --- | --- | --- | --- | ---
 2008 | 2009 | 2008 | 2009
@@ -6962,6 +6065,10 @@ South Kazakhstan Oblast | 25.17 | 21.56 | 31.8 | 37.1
 Astana City | 13.44 | 14.33 | 29.0 | 31.5
 Almaty City | 19.11 | 15.06 | 11.1 | 31.8
 
+Data for 2009* is preliminary
+
+Source: MoH
+
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 ANNEXES
@@ -6976,29 +6083,17 @@ ANNEXES
 
 #### Changes in Annual Maternal Mortality Ratios in Kazakhstan Since 1999
 
-65.3
-
-60.9
-
-48.6
-
-50.5
-
-42.1
-
-36.9
-
-40.5
-
-45.6
-
-46.8
-
-30.9
-
-36.9
-
-1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+1999 | 65.3
+2000 | 60.9
+2001 | 48.6
+2002 | 50.5
+2003 | 42.1
+2004 | 36.9
+2005 | 40.5
+2006 | 45.6
+2007 | 46.8
+2008 | 30.9
+2009 | 36.9
 
 #### Percentage of Childbirths in Kazakhstan Attended by Obstetrician-gynaecologists or Certified Midwifes
 
@@ -7012,48 +6107,12 @@ ANNEXES
 --- | --- | ---
 99.4 | 98.2 | 98.7
 
+#### Use of Contraceptives by Women Aged 15-49 Currently Married or in Continuous Sexual Partnership, Percentage
+
 Using
 --- | --- | --- | --- | --- | --- | ---
-Not using any method | Intrauterine de- vices | Pills | Injections | Male condoms | Any modern method | Any traditional method
+Not using any method | Intrauterine devices | Pills | Injections | Male condoms | Any modern method | Any traditional method
 49.3 | 36.2 | 6.7 | 0.3 | 4.8 | 48.7 | 2.0
-
-#### Use of Contraceptives by Women Aged 15- 49 Currently Married or in Continuous Sexual Partnership, Percentage
-
-Not using any method
-
-Using
-
-Intrauterine de-
-
-vices
-
-Pills
-
-Injections
-
-Male condoms
-
-Any modern
-
-method
-
-Any traditional
-
-method
-
-49.3
-
-36.2
-
-6.7
-
-0.3
-
-4.8
-
-48.7
-
-2.0
 
 #### Birth Rate Among Teenagers Aged 15-19 in Kazakhstan per 1,000 Teenage Girls
 
@@ -7065,11 +6124,11 @@ Total | 33.8 | 27.9 | 28.5 | 31.1
 
 #### Unsatisfied Needs for Family Planning, Percentage
 
-1999 | 2009
---- | ---
-Kazakhstan | 9
-South Kazakhstan Oblast | 14*
-Semipalatinsk region | 11*
+ | 1999 | 2009
+--- | --- | ---
+Kazakhstan | 9 | 
+South Kazakhstan Oblast |  | 14*
+Semipalatinsk region |  | 11*
 
 * Unsatisfied needs in modern contraception
 
@@ -7087,159 +6146,16 @@ ANNEXES
 
 #### Development of HIV-infection Epidemic in the ROK Population in 1987-2009 (Absolute Numbers)
 
+1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+4 | 3 | 4 | 4 | 2 | 1 | 6 | 2 | 5 | 48 | 437 | 299 | 185 | 347 | 1,175 | 735 | 746 | 699 | 964 | 1,754 | 1,979 | 2,335 | 2,081
+
 #### Share of Sexual and Injection (injecting drug use) HIV Transmission Modes, percentage (2001-2009)
 
-4
-
-3
-
-4
-
-4
-
-2
-
-1
-
-6
-
-2
-
-5
-
-48
-
-1987
-
-1988
-
-1989
-
-1990
-
-1991
-
-1992
-
-1993
-
-1994
-
-1995
-
-1996
-
-1997
-
-1998
-
-1999
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-437
-
-299
-
-185
-
-347
-
-1,175
-
-735
-
-746
-
-699
-
-964
-
-1,754
-
-1,979
-
-2,335
-
-2,081
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-88
-
-70
-
-67
-
-62
-
-66
-
-66
-
-64
-
-60
-
-55.5
-
-5
-
-17
-
-22
-
-29
-
-25
-
-20
-
-25
-
-29.1
-
-35.5
+ | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+intravenous injections | 88 | 70 | 67 | 62 | 66 | 66 | 64 | 60 | 55.5
+sex | 5 | 17 | 22 | 29 | 25 | 20 | 25 | 29.1 | 35.5
 
 Source: Republican AIDS Centre
-
-intravenous injections
-
-sex
 
 #### Tuberculosis Data in Kazakhstan, 2000-2009
 --- | --- | --- | ---
@@ -7254,6 +6170,8 @@ Years | Incidence | Morbidity | Cure rate
 2007 | 283.6 | 18.1 | 71.8
 2008 | 201.4 | 16.9 | 68.5
 2009 | 180.0 | 12.5 | 64.1
+
+Source: National TB Centre under the MoH
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -7333,6 +6251,8 @@ Astana City | 100 | 100 | 100 | 100 | 100 | 99.6 | 100
 Almaty City | 100 | 100 | 100 | 100 | 100 | 100 | 100
 Transport central health authority | 89.2 | 88.0 | 93.7 | 91.8 | 92.5 | 94.7 | 0.0
 
+Source: Protection of Environment and Sustainable Development of Kazakhstan. Statistical Yearbook/Editor A.Meshimbayeva/Astana, 2008.
+
 #### Major Housing Indicators
 
 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
@@ -7344,11 +6264,11 @@ rural | 15.6 | 15.8 | 15.9 | 15.9 | 15.9 | 16.2 | 16.4
 Percentage of available housing with:
 water pipe | 52.4 | 52.8 | 53.5 | 54.4 | 54.9 | 56.3 | 58.9
 sewage system | 41.3 | 43.3 | 43.7 | 44.6 | 45.0 | 45.6 | 47.4
-central heating | 38.1 | 38.6 | 38.8 | 38.9 | 40.5
-baths | 37.7 | 39.5 | 40.1 | 40.6 | 42.4
-gas | 87.9 | 87.6 | 87.3 | 88.4 | 87.6
-hot water supply | 33.7 | 33.9 | 34.0 | 34.0 | 35.4
-electric cooking appliances | 7.0 | 7.3 | 7.6 | 7.6 | 8.5
+central heating |  |  | 38.1 | 38.6 | 38.8 | 38.9 | 40.5
+baths |  |  | 37.7 | 39.5 | 40.1 | 40.6 | 42.4
+gas |  |  | 87.9 | 87.6 | 87.3 | 88.4 | 87.6
+hot water supply |  |  | 33.7 | 33.9 | 34.0 | 34.0 | 35.4
+electric cooking appliances |  |  | 7.0 | 7.3 | 7.6 | 7.6 | 8.5
 
 Source: based on the materials of the statistical yearbook 'Kazakhstan in 2008' (Agency for Statistics of the Republic of Kazakhstan, Astana, 2009) and the 2007 MDG Report for Kazakhstan.
 
@@ -7452,7 +6372,7 @@ Human nutritional status is  a  state  of  the  structure,  functions  and  adap
 
 Hunger is a state of an organism caused by insufficient intake of nutrients and energy required to maintain homeostasis.
 
-Iodine deficiency is a state of an organism arising when a person's need for iodine is not satisfied and, therefore, iodinedeficient disorders develop. Presence of iodine deficiency is determined by the level of urinary iodine excretion.
+Iodine deficiency is a state of an organism arising when a person's need for iodine is not satisfied and, therefore, iodine-deficient disorders develop. Presence of iodine deficiency is determined by the level of urinary iodine excretion.
 
 Iodine-deficiency disorder is any condition, for example, cretinism, brain disorders, goiter or hypothyroidism developing due to iodine deficiency and corrected by adequate iodine intake.
 
@@ -7520,9 +6440,9 @@ Xenophobia (Greek: ξένος 'stranger' and φόβος 'fear') is intolerance t
 
 BABIES Matrix is an adaptable assessment tool allowing a programme manager to collect, arrange, analyse and convert data into information for interventions targeting newborn and infant health protection, which is based on combination and use of two data pieces:
 
-- age at death of fetus / newborn
+a) age at death of fetus / newborn
 
-- birth weight group.
+b) birth weight group.
 
 Child mortality means the number of deaths of children aged from one to five years.
 
@@ -7758,61 +6678,61 @@ ANNEXES
 
 ### Bibliography
 
-- A.Ryabtsev, Chairman of the Water Resources Committee of the Ministry of Agriculture of Republic of Kazakhstan. Report at the 5th World Water Forum. Istanbul, 2009.
+1. A.Ryabtsev, Chairman of the Water Resources Committee of the Ministry of Agriculture of Republic of Kazakhstan. Report at the 5th World Water Forum. Istanbul, 2009.
 
-- Assessment of efficiency of activities targeting incidence of micronutrient deficiency among most vulnerable population groups. Almaty, Kazakh Nutrition Academy, 2008
+2. Assessment of efficiency of activities targeting incidence of micronutrient deficiency among most vulnerable population groups. Almaty, Kazakh Nutrition Academy, 2008
 
-- Ballew C., Bowman B.A., Sowell A.L., Gillespe C. Serum retinol distributions in residents of the United States: Third National Health and Nutrition Examination Survey, 1988-1994. M. J. Clin. Nutr., 2001, v. 73.
+3. Ballew C., Bowman B.A., Sowell A.L., Gillespe C. Serum retinol distributions in residents of the United States: Third National Health and Nutrition Examination Survey, 1988-1994. M. J. Clin. Nutr., 2001, v. 73.
 
-- Collected works, Education and Science in Figures. Astana. 2009.
+4. Collected works, Education and Science in Figures. Astana. 2009.
 
-- Daly, L.E., Kirke, P .M., Molloy, A., Weir, D.G. & Scott, J.M. 1995. Folate levels and neural tube defects. Implications for prevention. JAMA, 274: 1698-1702.
+5. Daly, L.E., Kirke, P.M., Molloy, A., Weir, D.G. & Scott, J.M. 1995. Folate levels and neural tube defects. Implications for prevention. JAMA, 274: 1698-1702.
 
-'Data on Ungraded Schools in 2007', RoK MOES Collected Works, Astana, 2007.
+6. ‘Data on Ungraded Schools in 2007’, RoK MOES Collected Works, Astana, 2007.
 
-- Demographic and Health Survey of Kazakhstan, 1999. // Academy of Preventive Medicine, Kazakhstan and Macro International, USA, November 2000.
+7. Demographic and Health Survey of Kazakhstan, 1999. // Academy of Preventive Medicine, Kazakhstan and Macro International, USA, November 2000.
 
-- Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2008.
+8. Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2008.
 
-- Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2009.
+9. Demographic Yearbook of Kazakhstan: Statistics Digest, Astana, 2009.
 
-- Draft Concept of Development of Inclusive Education in the Republic of Kazakhstan. Astana, 2009.
+10. Draft Concept of Development of Inclusive Education in the Republic of Kazakhstan. Astana, 2009.
 
-- Draft  Concept  of  Development  of  Ungraded  Schools  ('US')  in  the  Republic  of  Kazakhstan  for  2010-2020,  Astana. 2009.
+11. Draft Concept of Development of Ungraded Schools (‘US’) in the Republic of Kazakhstan for 2010-2020, Astana. 2009.
 
-- Draft Long-Term Education Development Programme till 2020. Astana. 2009.
+12. Draft Long-Term Education Development Programme till 2020. Astana. 2009.
 
-- Fatma Gul Unal, Mirjana Dokmanovic, Rafis Abazov. The Economic and Financial Crises in CEE and CIS. Contribution to the Fifteen-year review of the Implementation of the Beijing Platform for Action arranged by the UN Economic Commission for Europe. UNIFEM. New York, 2009.
+13. Fatma Gul Unal, Mirjana Dokmanovic, Rafis Abazov. The Economic and Financial Crises in CEE and CIS. Contribution to the Fifteen-year review of the Implementation of the Beijing Platform for Action arranged by the UN Economic Commission for Europe. UNIFEM. New York, 2009.
 
-- Health of Population of the Republic of Kazakhstan in 2008 and Activities of Healthcare Providers: Statistic Yearbook, Astana, 2009.
+14. Health of Population of the Republic of Kazakhstan in 2008 and Activities of Healthcare Providers: Statistic Yearbook, Astana, 2009.
 
-- Hill K, Thomas K, AbouZahr C, Walker N, Say L, Inoue M, et al.: Estimates of maternal mortality worldwide between 1990 and 2005: an assessment of available data. Lancet 2007, 370:1311-1319.
+15. Hill K, Thomas K, AbouZahr C, Walker N, Say L, Inoue M, et al.: Estimates of maternal mortality worldwide between 1990 and 2005: an assessment of available data. Lancet 2007, 370:1311-1319.
 
-- Hogan M., Foreman K.J., Nafhavi M.et al. Maternal mortality for 181 countries, 1980-2008: a systematic analysis of progress towards Millennium Development Goal 5//Lancet, Vol. 375, Issue 9726, P. 1609 - 1623.
+16. Hogan M., Foreman K.J., Naghavi M. et al. Maternal mortality for 181 countries, 1980—2008: a systematic analysis of progress towards Millennium Development Goal 5//Lancet, Vol. 375, Issue 9726, P. 1609 – 1623.
 
-- Human Development Report 2009. Overcoming barriers: Human mobility and development.
+17. Human Development Report 2009. Overcoming barriers: Human mobility and development.
 
-- Impact  of  the  Economic  Crisis  and  Food  and  Fuel  Price Volatility  on  Children  and Women  in  Kazakhstan,  UNCEF, 2009.
+18. Impact of the Economic Crisis and Food and Fuel Price Volatility on Children and Women in Kazakhstan, UNICEF, 2009.
 
-- Informatization Strategy of the Education System of the Republic of Kazakhstan till 2020, Astana. 2008
+19. Informatization Strategy of the Education System of the Republic of Kazakhstan till 2020, Astana. 2008
 
-- Kazakhstan: Health and Demographic Survey, 1999, Almaty, 2000.
+20. Kazakhstan: Health and Demographic Survey, 1999, Almaty, 2000.
 
-- Kazakhstan's National Human Development Report 'Education for All: the Key Goal for a New Millennium' , 2004
+21. Kazakhstan’s National Human Development Report ‘Education for All: the Key Goal for a New Millennium’, 2004
 
-- Methods of assessing iron status. In: /Iron Deficiency Anemia. Assessment, Prevention and Control. A Guide for programme managers. UNICEF, UNU, WHO, 2001.
+22. Methods of assessing iron status. In: /Iron Deficiency Anemia. Assessment, Prevention and Control. A Guide for programme managers. UNICEF, UNU, WHO, 2001.
 
-- Multiple Indicator Cluster Survey (MICS) in Kazakhstan. Agency for Statistics of the Republic of Kazakhstan, UNICEF, Kazakh Nutrition Academy, Astana-Almaty, 2006.
+23. Multiple Indicator Cluster Survey (MICS) in Kazakhstan. Agency for Statistics of the Republic of Kazakhstan, UNICEF, Kazakh Nutrition Academy, Astana-Almaty, 2006.
 
-- National Report 'Mid-term Evaluation of Achievement of EFA Goals' , 2006.
+24. National Report ‘Mid-term Evaluation of Achievement of EFA Goals’, 2006.
 
-- National Report on Education Status and Development. Astana. 2009
+25. National Report on Education Status and Development. Astana. 2009
 
-- Needs Assessment of Women Labour Migrants. Public Opinion Survey Centre with the support of UNIFEM Regional Office for CIS. 2009
+26. Needs Assessment of Women Labour Migrants. Public Opinion Survey Centre with the support of UNIFEM Regional Office for CIS. 2009
 
-- Nutritional Anemia. Edited by Klaus Kraemer Sight and Life Press, Basel, Switzerland, 2007
+27. Nutritional Anemia. Edited by Klaus Kraemer Sight and Life Press, Basel, Switzerland, 2007
 
-- Olmedilla B., Granado F., Southon S. et al. Serum concentrations of carotenoids and vitamins A, E, and C in control subjects from five European countries. Br. J. Nutr., 2001, v. 85.
+28. Olmedilla B., Granado F., Southon S. et al. Serum concentrations of carotenoids and vitamins A, E, and C in control subjects from five European countries. Br. J. Nutr., 2001, v. 85.
 
 ANNEXES
 
@@ -7824,63 +6744,63 @@ MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
 [[START OF PAGE 147]]
 
-- Quantitative Assessment of Greenhouse Gas Emissions / Report of the Kazakh Science and Research Institute of Ecology and Climate, Almaty, 2008.
+29. Quantitative Assessment of Greenhouse Gas Emissions / Report of the Kazakh Science and Research Institute of Ecology and Climate, Almaty, 2008.
 
-- Register of Environmental Issues of the Republic of Kazakhstan. Approved by the Order of the Minister of Environmental Protection No.15 as of February 4, 2008.
+30. Register of Environmental Issues of the Republic of Kazakhstan. Approved by the Order of the Minister of Environmental Protection No.15 as of February 4, 2008.
 
-- Report on assessment of youth awareness of reproductive rights and sexual health in South Kazakhstan Oblast: Center for Public Opinion Surveys, Almaty, 2009
+31. Report on assessment of youth awareness of reproductive rights and sexual health in South Kazakhstan Oblast: Center for Public Opinion Surveys, Almaty, 2009
 
-- Research on introduction of effective perinatal technologies and family planning in South Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009.
+32. Research on introduction of effective perinatal technologies and family planning in South Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009.
 
-- Research on introduction of effective perinatal technologies and family planning in East Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009.
+33. Research on introduction of effective perinatal technologies and family planning in East Kazakhstan Oblast, Center for Public Opinion Surveys, Almaty, 2009.
 
-- Review of non-government sector status in Kazakhstan and development perspectives by the Civil Alliance of Kazakhstan, Astana, 2009.
+34. Review of non-government sector status in Kazakhstan and development perspectives by the Civil Alliance of Kazakhstan, Astana, 2009.
 
-- RoK MOES 2009-2011 Strategic Plan. Astana, 2008.
+35. RoK MOES 2009-2011 Strategic Plan. Astana, 2008.
 
-- Saskia de Pee, Omar Dary: Biochemical indicators of vitamin A deficiency: serum retinol and serum retinol binding protein. Presented at the Proceedings of the XX International Vitamin Consultative Group Meeting, Hanoi, Vietnam, February 12-15, 2001. // J. Nutr., Sep. 2002, v. 132, №9S.
+36. Saskia de Pee, Omar Dary: Biochemical indicators of vitamin A deficiency: serum retinol and serum retinol binding protein. Presented at the Proceedings of the XX International Vitamin Consultative Group Meeting, Hanoi, Vietnam, February 12-15, 2001. // J. Nutr., Sep. 2002, v. 132, №9S.
 
-- Scott, J.M. & Weir , D.G. 1996. Homo-cysteine and cardiovascular disease. Q. J. Med., 89: 561-563.
+37. Scott, J.M. & Weir, D.G. 1996. Homo-cysteine and cardiovascular disease. Q. J. Med., 89: 561-563.
 
-- Sectoral Programme 'Drinking Waters for 2002-2010' (approved by the Resolution of the Government of the Republic of Kazakhstan №93 dated 23.01.2002).
+38. Sectoral Programme ‘Drinking Waters for 2002-2010’ (approved by the Resolution of the Government of the Republic of Kazakhstan №93 dated 23.01.2002).
 
-- Selhub J et al. Vitamin status and intake as primary determinants of homocysteinemia in an elderly population. Journal of the American Medical Association, 1993, 270: 2693-2698.
+39. Selhub J et al. Vitamin status and intake as primary determinants of homocysteinemia in an elderly population. Journal of the American Medical Association, 1993, 270: 2693–2698.
 
-- Standards of Life: Statistic Yearbook. Astana, 2009.
+40. Standards of Life: Statistic Yearbook. Astana, 2009.
 
-- State Programme 'Health of the Nation' approved by the Decree of the President of the Republic of Kazakhstan №34153 dated 16.11.98 (with amendments introduced by the Decree of RoK President №1016 dated 15.01.03).
+41. State Programme ‘Health of the Nation’ approved by the Decree of the President of the Republic of Kazakhstan №34153 dated 16.11.98 (with amendments introduced by the Decree of RoK President №1016 dated 15.01.03).
 
-- Strategic Development Plan of the Republic of Kazakhstan by 2020. Approved by the Decree of the President of Republic of Kazakhstan as of 1 February 2010, No.922.
+42. Strategic Development Plan of the Republic of Kazakhstan by 2020. Approved by the Decree of the President of Republic of Kazakhstan as of 1 February 2010, No.922.
 
-- Survey on sexual and reproductive health needs of vulnerable young people in Kazakhstan: results of the survey, Center for Public Opinion Surveys, Almaty, 2009.
+43. Survey on sexual and reproductive health needs of vulnerable young people in Kazakhstan: results of the survey, Center for Public Opinion Surveys, Almaty, 2009.
 
-- Tazhibayev Sh., Sharmanov T., Ergalieva A., Dolmatova O., Mukasheva O., Seidakhmetova A., Kushenova R. 'Promotion of Lactation Amenorrhea Method Intervention Trial, Kazakhstan' . //Population Council, Frontiers in Reproductive Health, Washington D.C. May 2004.
+44. Tazhibayev Sh., Sharmanov T., Ergalieva A., Dolmatova O., Mukasheva O., Seidakhmetova A., Kushenova R. ‘Promotion of Lactation Amenorrhea Method Intervention Trial, Kazakhstan’. //Population Council, Frontiers in Reproductive Health, Washington D.C. May 2004.
 
-- T.Brody, Barry Shane  'Folic Acid' . In: Handbook of Vitamins. Third Edition, edited by R.B.Bucker, J.W.Suttie, D.B.McCormick and L.J.Machlin. New York, 2001, p. 427-462.
+45. T.Brody, Barry Shane ‘Folic Acid’. In: Handbook of Vitamins. Third Edition, edited by R.B.Rucker, J.W.Suttie, D.B.McCormick and L.J.Machlin. New York, 2001, p. 427-462.
 
-- The Global Competitiveness Report. 2007-2008 (World Economic Forum, 2007).
+46. The Global Competitiveness Report. 2007-2008 (World Economic Forum, 2007).
 
-- The Trends in International Mathematics and Science Study - TIMSS.
+47. The Trends in International Mathematics and Science Study – TIMSS.
 
-- UNGASS National Progress Report, Kazakhstan, Reporting Period: January 2008 - December 2009, 2010.
+48. UNGASS National Progress Report, Kazakhstan, Reporting Period: January 2008 – December 2009, 2010.
 
-- UNGASS National Progress Report, Kazakhstan, Reporting Period: January 2006 - December 2007, 2010.
+49. UNGASS National Progress Report, Kazakhstan, Reporting Period: January 2006 – December 2007, 2010.
 
-- Urinary  iodine.  In:  /Assessment  of  Iodine  Deficiency  Disorders  and  Monitoring  their  Elimination.  A  Guide  for  programme managers. ICCIDD, UNICEF, WHO, 2001.
+50. Urinary iodine. In: /Assessment of Iodine Deficiency Disorders and Monitoring their Elimination. A Guide for programme managers. ICCIDD, UNICEF, WHO, 2001.
 
-- Women and Men of Kazakhstan: Statistic Yearbook. Astana, 2009.
+51. Women and Men of Kazakhstan: Statistic Yearbook. Astana, 2009.
 
-- World Health Statistics, WHO, Geneva, 2009.
+52. World Health Statistics, WHO, Geneva, 2009.
 
-- WHO Global Report, 2007.
+53. WHO Global Report, 2007.
 
-- Yazbeck A.S. Challenges in measuring maternal mortality//Lancet 2007, vol. 370, issue 9595, P. 1291-1292).
+54. Yazbeck A.S. Challenges in measuring maternal mortality//Lancet 2007, vol. 370, issue 9595, P. 1291-1292).
 
-- 2000 National Report on Human Development in Kazakhstan, Astana, 2001.
+55. 2000 National Report on Human Development in Kazakhstan, Astana, 2001.
 
-- 2006 Multiple Indicator Cluster Survey in Kazakhstan, final report, Astana, 2007
+56. 2006 Multiple Indicator Cluster Survey in Kazakhstan, final report, Astana, 2007
 
-- 2007 National Report on the State of Environment in the Republic of Kazakhstan / Editor M.K.Baekenova, RoK Ministry of Environmental Protection. Kazakh Science and Research Institute of Ecology and Climate - Almaty, 2008
+57. 2007 National Report on the State of Environment in the Republic of Kazakhstan / Editor M.K.Baekenova, RoK Ministry of Environmental Protection. Kazakh Science and Research Institute of Ecology and Climate – Almaty, 2008
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
@@ -7906,7 +6826,7 @@ To halve the proportion of people in rural areas whose income is below subsisten
 
 Y.Shokamanov, Professor, Doctor of Economics, Executive Secretary of the Agency for Statistics of the Republic of Kazakhstan.
 
-G.Moldakulova, Associate Professor, PhD in Economics, MPh, Coordinator of Population and Develop- ment Programmes, UNFPA Kazakhstan.
+G.Moldakulova, Associate Professor, PhD in Economics, MPh, Coordinator of Population and Development Programmes, UNFPA Kazakhstan.
 
 ##### Target 2.
 
@@ -7936,15 +6856,9 @@ A.Khalafova, Education Officer, UNESCO Cluster Office for Kazakhstan, Kyrgyzstan
 
 #### GOAL 3.
 
-##### Задачи «4+»
-
-###### Author:
-
-###### Consultative Board:
-
-#### GOAL 4.
-
 To Promote Gender Equality and Empower Women
+
+##### Задачи «4+»
 
 To ensure adoption and implementation of measures aimed to increase representation of women in legislative and executive bodies.
 
@@ -7952,7 +6866,11 @@ To ensure legislative and executive measures to prevent and eliminate violence a
 
 To ensure sustainable gender mainstreaming of national planning and budgeting, especially aiming at minimising gender wage gaps.
 
+###### Author:
+
 A.Ilyassova, PhD in Economics, National Expert.
+
+###### Consultative Board:
 
 R.Naubetova, Consultant of the National Commission for Family Affairs and Gender Policy under the President of the Republic of Kazakhstan.
 
@@ -7961,6 +6879,8 @@ S.Nurakhmetova, Expert of the National Commission for Family Affairs and Gender 
 D.Sartbayeva, UNIFEM Regional Programme Director for CIS.
 
 Y.Kudryavtseva, UNIFEM Regional Programme Officer Director for CIS.
+
+#### GOAL 4.
 
 To Reduce Child Mortality
 
@@ -8057,7 +6977,7 @@ To achieve, by 2020, a significant improvement in the lives of the rural populat
 
 ###### Author:
 
-A.Atrtemyev, Ph.D. in Technical Sciences, Head of Tourism Sub-department in Al-Farabi Kazakh National Uni- versity.
+A.Artemyev, Ph.D. in Technical Sciences, Head of Tourism Sub-department in Al-Farabi Kazakh National University.
 
 ###### Consultative Board:
 
@@ -8093,8 +7013,6 @@ ANNEXES
 
 [[START OF PAGE 150]]
 
-148
-
 #### Coordination by:
 
 D. Khassenova, MPA, UN Coordination Officer, UN Resident Coordinator's Office in the Republic of Kazakhstan
@@ -8116,11 +7034,11 @@ L.Nenasheva
 
 #### Published by:
 
-'Kuik' Printing House
+“Kuik” Printing House
 
 MILLENNIUM  DEVELOPMENT  GOALS  IN  KAZAKHSTAN   2010
 
-ANNEXES
+148 ANNEXES
 
 [[END OF PAGE 150]]
 
