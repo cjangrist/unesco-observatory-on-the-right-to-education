@@ -3,6 +3,15 @@
 # PLAN SECTORIAL 2010-2014
 Documento Nº 9
 
+educación de calidad
+EL CAMINO PARA LA PROSPERIDAD
+
+Libertad y Orden
+Ministerio de Educación Nacional
+República de Colombia
+
+Prosperidad para todos
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -14,6 +23,15 @@ Documento Nº 9
 [[START OF PAGE 3]]
 
 PLAN SECTORIAL 2010-2014
+
+educación de calidad
+EL CAMINO PARA LA PROSPERIDAD
+
+Libertad y Orden
+Ministerio de Educación Nacional
+República de Colombia
+
+Prosperidad para todos
 
 3
 
@@ -31,11 +49,79 @@ PLAN SECTORIAL 2010-2014
 
 ## Contenido
 
+Introducción .......................................................................................................................................................9
+1. Educación inicial de calidad para la primera infancia en el marco de una atención integral ........12-13
+• Educación Inicial en el marco de una atención integral .....................................................................16
+• Ambientes educativos especializados y pertinentes .........................................................................16
+• Construcción e implementación de un sistema de información de registro niño a niño ..................17
+• Construcción de lineamientos pedagógicos de educación inicial en el marco de una atención integral .....17
+• Formación y cualificación de agentes educativos .............................................................................18
+• Diseño e implementación del sistema de aseguramiento de la calidad .........................................18
+• Encuentros Regionales - Principales propuestas y compromisos ...................................................20
+2. Mejorar la calidad de la educación en todos los niveles ...................................................................22-23
+• La política de calidad .............................................................................................................................25
+• Avances y desafíos de la calidad educativa en Colombia .................................................................25
+• Componentes del Programa de Transformación ...............................................................................32
+• Transformación de la calidad en educación superior ........................................................................34
+• Evaluación, certificación y acreditación de la calidad de educación superior ...............................34
+• Sistema de aseguramiento de la calidad para la formación para el trabajo y el desarrollo humano ........36
+• Definición de competencias en educación superior .........................................................................38
+• Plan Nacional de Lectura y Escritura ....................................................................................................39
+• Atención educativa a grupos étnicos ..................................................................................................41
+• Programa de Educación Rural ..............................................................................................................43
+• Cualificación y evaluación de modelos flexibles ................................................................................43
+• Proyecto de Ley por el cual se crea el Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, Sexuales y Reproductivos y la Prevención y Mitigación de la Violencia Escolar ..................................................................................................................................45
+• Formulación y desarrollo de un CONPES en convivencia escolar y ciudadanía .............................46
+• Expansión del Programa de Competencias Ciudadanas ..................................................................46
+• Fortalecimiento y expansión de los Programas Transversales .........................................................47
+• Programa de Apoyo en Gestión al Plan de Educación de Calidad para la prosperidad. Empréstito BID ......47
+• Referentes de calidad ............................................................................................................................49
+• Consolidación del Sistema Nacional de Evaluación ..........................................................................50
+• Encuentros Regionales - Principales propuestas y compromisos ....................................................53
+3. Disminuir las brechas en acceso y permanencia entre población rural – urbana, poblaciones diversas, vulnerables y por regiones ...................................................................................................................56-57
+• Planeación estratégica con enfoque regional ....................................................................................64
+
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+• Nuevos esquemas de prestación del servicio .....................................................................................65
+• Fortalecimiento de la financiación ......................................................................................................65
+• Apoyos complementarios para la permanencia ................................................................................66
+• Atención a la diversidad ........................................................................................................................66
+• Mejorar el análisis, seguimiento y evaluación del acceso y la permanencia escolar ...........................67
+• Alianzas estratégicas y optimización de recursos ..............................................................................68
+• Proyectos de regionalización ...............................................................................................................69
+• Creación y fortalecimiento de los CERES .............................................................................................69
+• Atención a población con necesidades educativas diversas ............................................................70
+• Fortalecer el análisis y seguimiento permanente de la deserción en todos los niveles ....................73
+• Fortalecer estrategias para disminuir la deserción en el sistema educativo ..................................74
+• Promover desarrollos normativos que generen nuevas fuentes de financiación para el sector .75
+• Programa Beca Crédito ..........................................................................................................................77
+• Fortalecimiento del crédito FINDETER ................................................................................................77
+• Encuentros Regionales - Principales propuestas y compromisos ...................................................78
+4. Educar con pertinencia e incorporar innovación en la educación ..................................................80-81
+• Fortalecimiento de la capacidad investigativa de las instituciones ................................................87
+• Fortalecimiento de la oferta de programas de maestría y doctorado ............................................88
+• Cooperación técnica e intercambio tecno-científico ........................................................................89
+• Fortalecimiento del recurso humano altamente calificado .............................................................89
+• Relación universidad – sociedad ..........................................................................................................89
+• Diseño e implementación de la metodología de predicción de necesidades de recurso humano ...................................................................................................................................................92
+• Diseño e implementación de un Marco Nacional de Cualificaciones ..............................................92
+• Seguimiento a graduados y sus condiciones de vinculación al mercado laboral a través del Observatorio Laboral para la Educación .............................................................................................93
+• Encuentros Regionales - Principales propuestas y compromisos ....................................................94
+5. Fortalecer la gestión del sector educativo para ser modelo de eficiencia y transparencia ..........96-97
+• Fortalecimiento institucional .............................................................................................................100
+• Monitoreo y control a los recursos financieros .................................................................................101
+• Fortalecimiento de la administración del recurso humano ............................................................102
+• Fortalecimiento de los sistemas de información ..............................................................................105
+• Fortalecimiento de servicios TIC ........................................................................................................105
+• Fortalecimiento de acceso a TIC .........................................................................................................105
+• Fortalecimiento de la infraestructura tecnológica ..........................................................................106
+• Encuentros Regionales - Principales propuestas y compromisos ..................................................107
+6. Anexo. Objetivos y estrategias del Plan Sectorial de Educación 2010-2014 ......................................108
 
 6
 
@@ -71,9 +157,9 @@ Esta nueva realidad determina la necesidad de desarrollar habilidades que son co
 
 En la búsqueda de este objetivo, no cabe duda de que la clave del desarrollo y la cohesión social y uno de los factores estratégicos más importantes para asegurar el  crecimiento  económico es la educación. En un país como el nuestro, con tantas necesidades y las circunstancias culturales, sociales y políticas que lo han caracterizado,  hoy  más  que  nunca  se  necesitan  personas formadas para ejercer una ciudadanía responsable, que les permita desarrollarse integralmente y les de plena libertad para ejercer sus derechos y participar de manera activa y significativa en las transformaciones del entorno que el país reclama.
 
-Una  educación  que  responda  no  sólo  a  las  metas del sector sino que, además, respalde los objetivos del Gobierno Nacional, formulados en el Plan Nacional de Desarrollo 2010-2014, 'Prosperidad para todos': más empleo, menos pobreza y más seguridad. Como lo ha planteado el Presidente de la República, Juan Manuel Santos, desde el inicio de su gobierno, con una educación de calidad es posible hacer la diferencia en materia de oportunidades para las poblaciones más pobres y generar las ventajas que necesitan no sólo los individuos sino la sociedad colombiana en su conjunto para hacer realidad la meta de alcanzar la prosperidad y el sueño común de vivir en paz.
+Una educación que responda no sólo a las metas del sector sino que, además, respalde los objetivos del Gobierno Nacional, formulados en el Plan Nacional de Desarrollo 2010-2014, “Prosperidad para todos”: más empleo, menos pobreza y más seguridad. Como lo ha planteado el Presidente de la República, Juan Manuel Santos, desde el inicio de su gobierno, con una educación de calidad es posible hacer la diferencia en materia de oportunidades para las poblaciones más pobres y generar las ventajas que necesitan no sólo los individuos sino la sociedad colombiana en su conjunto para hacer realidad la meta de alcanzar la prosperidad y el sueño común de vivir en paz.
 
-El Gobierno Nacional, a través de la política sectorial, se ha propuesto convertir la calidad de la educación en un propósito nacional, entendiendo que para alcanzarla es imprescindible una transformación educativa que atienda todos los factores que inciden en ella. Con este referente, la política educativa se estructura alrededor de una premisa fundamental: una educación de calidad es aquella que forma ciudadanos con valores éticos, respetuosos de lo público, que ejercen los derechos humanos,  cumplen sus deberes sociales y conviven en paz. Una educación que genera oportunidades legítimas de progreso y prosperidad, competitiva y que contribuye a cerrar las brechas de inequidad. Una educación centrada en la institución educativa, que compromete la participación de toda la sociedad en un contexto diverso, multiétnico y pluricultural.
+El Gobierno Nacional, a través de la política sectorial, se ha propuesto convertir la calidad de la educación en un propósito nacional, entendiendo que para alcanzarla es imprescindible una transformación educativa que atienda todos los factores que inciden en ella. Con este referente, la política educativa se estructura alrededor de
 
 9
 
@@ -81,11 +167,13 @@ El Gobierno Nacional, a través de la política sectorial, se ha propuesto conve
 
 [[START OF PAGE 10]]
 
-Con el propósito de articular los compromisos del Gobierno Nacional con los del sector educativo, y en el camino hacia un entorno de igualdad de oportunidades para la población, donde se logre ampliar la cobertura con una educación de calidad y cerrar las brechas de inequidad desde lo territorial, se expone a continuación el Plan Sectorial de Educación 2010-2014, 'Educación de calidad - El camino para la prosperidad', como un dinamizador de los planes de mejoramiento educativo en el país.
+una premisa fundamental: una educación de calidad es aquella que forma ciudadanos con valores éticos, respetuosos de lo público, que ejercen los derechos humanos, cumplen sus deberes sociales y conviven en paz. Una educación que genera oportunidades legítimas de progreso y prosperidad, competitiva y que contribuye a cerrar las brechas de inequidad. Una educación centrada en la institución educativa, que compromete la participación de toda la sociedad en un contexto diverso, multiétnico y pluricultural.
+
+Con el propósito de articular los compromisos del Gobierno Nacional con los del sector educativo, y en el camino hacia un entorno de igualdad de oportunidades para la población, donde se logre ampliar la cobertura con una educación de calidad y cerrar las brechas de inequidad desde lo territorial, se expone a continuación el Plan Sectorial de Educación 2010-2014, “Educación de calidad – El camino para la prosperidad”, como un dinamizador de los planes de mejoramiento educativo en el país.
 
 El Plan Sectorial 2010-2014 representa un pacto que defiende el derecho a la educación y a la calidad de la misma.  Bajo  la  visión  del  Ministerio  de  Educación  Nacional, orienta acciones para lograr en 2014 una reducción significativa de las brechas de inequidad y el reconocimiento de Colombia como uno de los tres países con mejor calidad de la educación de América Latina, y como un modelo de eficiencia y transparencia a nivel nacional e internacional.
 
-El presente documento se fundamenta en los lineamientos del Plan Nacional Decenal de Educación 20062016, cuya finalidad primordial es lograr que en 2016 'La educación sea un derecho cumplido para toda la población y un bien público de calidad, garantizado en condiciones de equidad e inclusión social por el Estado, con la participación co-responsable de la sociedad y la familia en el sistema educativo'.
+El presente documento se fundamenta en los lineamientos del Plan Nacional Decenal de Educación 2006-2016, cuya finalidad primordial es lograr que en 2016 “La educación sea un derecho cumplido para toda la población y un bien público de calidad, garantizado en condiciones de equidad e inclusión social por el Estado, con la participación co-responsable de la sociedad y la familia en el sistema educativo”.
 
 En cumplimiento de lo ordenado por la Ley General de Educación 115 de 1994 y la Ley 1450 de 2011, la política educativa del Gobierno Nacional, contenida en el Plan Nacional de Desarrollo 2010-2014, está en armonía con los propósitos del Plan Nacional Decenal, en cuanto:
 
@@ -115,7 +203,7 @@ PLAN SECTORIAL 2010-2014
 
 Bajo los lineamientos del Plan Nacional de Desarrollo y el Plan Nacional Decenal de Educación, el presente documento es el resultado de un amplio análisis de las necesidades del sector educativo y la definición de las políticas que garantizarán el desarrollo de la calidad del mismo, orientando el  camino  para  la  prosperidad  de Colombia.
 
-Acorde con las metas del cuatrienio y sus principales programas, se constituyen en objetivos del Plan Sectorial  de  Educación  2010  -  2014:  alcanzar  una  educación inicial de calidad en el marco de una atención integral a la primera infancia; mejorar la calidad de la educación en todos los niveles, disminuir las brechas en acceso y permanencia entre población rural - urbana, poblaciones diversas,  vulnerables  y  por  regiones;  educar  con  pertinencia e incorporar innovación en la educación, y fortalecer la gestión del sector educativo para ser modelo de eficiencia y transparencia.
+Acorde con las metas del cuatrienio y sus principales programas, se constituyen en objetivos del Plan Sectorial de Educación 2010 - 2014: alcanzar una educación inicial de calidad en el marco de una atención integral a la primera infancia; mejorar la calidad de la educación en todos los niveles, disminuir las brechas en acceso y permanencia entre población rural – urbana, poblaciones diversas, vulnerables y por regiones; educar con pertinencia e incorporar innovación en la educación, y fortalecer la gestión del sector educativo para ser modelo de eficiencia y transparencia.
 
 Estos objetivos se constituyen en los ejes de política bajo los cuales el Ministerio de Educación Nacional ha  trazado  las  metas  del  próximo  cuatrenio.  El  presente documento presenta una contextualización del sector educativo, los énfasis de política mencionados, sus necesidades actuales, los retos y las metas para el cuatrienio.
 
@@ -136,17 +224,18 @@ Trabajar por la calidad de la educación no sólo significa abrir oportunidades 
 [[START OF PAGE 13]]
 
 ## Educación inicial de calidad para la primera infancia en el marco de una atención integral
-L a  primera  infancia  se  reconoce  como  una  etapa fundamental en el desarrollo del ser humano. Los aprendizajes  y  experiencias  que  se  adquieren  en este periodo perduran toda la vida; las formas de relacionarse  consigo  mismo,  con  el  otro  y  con  el  entorno permiten explorar y conocer el mundo, adquirir conocimientos, capacidades y habilidades que juegan un papel determinante en el desarrollo integral de los niños y las niñas.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Por ello, el país desde el año 2006 viene trabajando en la construcción de políticas públicas que contribuyen a garantizar el cuidado, la atención, la nutrición y la educación inicial  de  los  niños  y  las  niñas  menores  de  seis años. Ejemplo de ello es la formulación de los documentos CONPES 109 de 2006 Colombia por la primera infancia , 115 de 2008 y 123 de 2009, donde se hacen recomendaciones sobre responsabilidades y alcances de las instancias nacional y territorial para garantizar el derecho al desarrollo integral de la primera infancia, acorde con lo establecido en el Código de Infancia y Adolescencia (Ley 1098 de 2006).
+La primera infancia se reconoce como una etapa fundamental en el desarrollo del ser humano. Los aprendizajes y experiencias que se adquieren en este periodo perduran toda la vida; las formas de relacionarse consigo mismo, con el otro y con el entorno permiten explorar y conocer el mundo, adquirir conocimientos, capacidades y habilidades que juegan un papel determinante en el desarrollo integral de los niños y las niñas.
 
-Con estos parámetros, el Ministerio de Educación Nacional, desde el año 2009, ha liderado la formulación e implementación de la política educativa para la primera infancia, en el marco de una atención integral, buscando generar capacidad para que los niños y las niñas menores  de  5  años  más  vulnerables,  puedan acceder a una educación inicial en el marco de una atención integral, y ha creado las condiciones para que esta sea pertinente, oportuna y de calidad.
+Por ello, el país desde el año 2006 viene trabajando en la construcción de políticas públicas que contribuyen a garantizar el cuidado, la atención, la nutrición y la educación inicial de los niños y las niñas menores de seis años. Ejemplo de ello es la formulación de los documentos CONPES 109 de 2006 Colombia por la primera infancia, 115 de 2008 y 123 de 2009, donde se hacen recomendaciones sobre responsabilidades y alcances de las instancias nacional y territorial para garantizar el derecho al desarrollo integral de la primera infancia, acorde con lo establecido en el Código de Infancia y Adolescencia (Ley 1098 de 2006).
 
-La  estrategia  de  acceso  a  la  educación  inicial  en  el marco de la atención integral, se ha venido implementando a través del Programa de Atención Integral para la Primera Infancia, PAIPI, el cual articula acciones con entidades territoriales, sectores e instituciones del orden Nacional y Regional, y surge de la alianza del Ministerio de Educación y el Instituto Colombiano de Bienestar Familiar.
+Con estos parámetros, el Ministerio de Educación Nacional, desde el año 2009, ha liderado la formulación e implementación de la política educativa para la primera infancia, en el marco de una atención integral, buscando generar capacidad para que los niños y las niñas menores de 5 años más vulnerables, puedan acceder a una educación inicial en el marco de una atención integral, y ha creado las condiciones para que esta sea pertinente, oportuna y de calidad.
+
+La estrategia de acceso a la educación inicial en el marco de la atención integral, se ha venido implementando a través del Programa de Atención Integral para la Primera Infancia, PAIPI, el cual articula acciones con entidades territoriales, sectores e instituciones del orden Na-
 
 14
 
@@ -154,33 +243,35 @@ La  estrategia  de  acceso  a  la  educación  inicial  en  el marco de la atenc
 
 [[START OF PAGE 15]]
 
-El  PAIPI  atiende  a  los  niños  menores de cinco años en condición de vulnerabilidad, de los niveles 1 y 2 del Sisbén,  a  través  de  tres  modalidades  (entorno  familiar, entorno institucional y entorno comunitario 1 ) con metodologías flexibles que responden tanto a las necesidades diferenciales de la población (zona rural y urbana), como a las características demográficas, sociales y culturales.
+PLAN SECTORIAL 2010-2014
+
+cional y Regional, y surge de la alianza del Ministerio de Educación y el Instituto Colombiano de Bienestar Familiar.
+
+El PAIPI atiende a los niños menores de cinco años en condición de vulnerabilidad, de los niveles 1 y 2 del Sisbén, a través de tres modalidades (entorno familiar, entorno institucional y entorno comunitario 1) con metodologías flexibles que responden tanto a las necesidades diferenciales de la población (zona rural y urbana), como a las características demográficas, sociales y culturales.
 
 A 2010 el 25.2% de los niños y las niñas de primera infancia, recibieron atención integral a través de diferentes modalidades, de los cuales 387.038 niños y niñas correspondientes al 18.8% fueron atendidos por el Ministerio de Educación a través del programa PAIPI. 2
 
-Bajo  la  premisa  de  que  la  educación  debe  ser  una oportunidad que se brinda a todos y todas a lo largo de la vida, comenzando por los más pequeños, incluso desde la gestación, y para dar continuidad a las acciones que se vienen liderando desde el Ministerio de Educación  Nacional,  se  propone  durante  este  cuatrienio  desarrollar estrategias que permitan disminuir las brechas existentes en la educación inicial, en materia de cobertura y de calidad.
+Bajo la premisa de que la educación debe ser una oportunidad que se brinda a todos y todas a lo largo de la vida, comenzando por los más pequeños, incluso desde la gestación, y para dar continuidad a las acciones que se vienen liderando desde el Ministerio de Educación Nacional, se propone durante este cuatrienio desarrollar estrategias que permitan disminuir las brechas existentes en la educación inicial, en materia de cobertura y de calidad.
 
-La  política  se  fundamenta  en  lo  planteado  en  el Plan  Nacional  de  Desarrollo,  donde  la  atención  integral y la educación inicial a la primera infancia, desde
+La política se fundamenta en lo planteado en el Plan Nacional de Desarrollo, donde la atención integral y la educación inicial a la primera infancia, desde la gestación y hasta los 5 años 11 meses de edad, son consideradas como acciones prioritarias: “las intervenciones orientadas a potenciar el desarrollo de los niños y las niñas, durante sus primeros años, además de ser un derecho, se constituyen en una ventana de oportunidad para el desarrollo social y económico, dado que generan impactos duraderos relacionados con la fortaleza psicológica, la disminución de la morbilidad y la criminalidad en el ciclo de vida de las personas; mejor rendimiento académico, menor deserción escolar y menores índices de repitencia, aumentando con ello la permanencia de los niños dentro del sistema educativo; la productividad y los ingresos futuros; por ende se constituyen en la inversión social con mayor tasa de retorno.” 3
 
-> 1	 Entorno familiar: atiende a niños, padres o cuidadores a través de encuentros educativos semanales y visitas a los hogares, en las cuales se forma a los padres de familia para que puedan asumir su rol de educadores en el hogar, entorno comunitario: atiende a niños y madres comunitarias en Unidades Pedagógicas de Apoyo, UPA, una vez a la semana, donde se complementan los servicios de cuidado y nutrición con el componente educativo; entorno institucional: atiende a los niños en un espacio especializado y con un equipo interdisciplinario, durante 5 días de la semana, en jornadas de 8 horas cada día.
+Para avanzar en su propósito de disminuir las brechas sociales, la inequidad y la pobreza extrema en el país, comenzando desde la primera infancia, el gobierno plantea la estrategia de carácter nacional y territorial “De Cero a Siempre”, dirigida a promover y garantizar el desarrollo infantil temprano de los niños y las niñas menores de 6 años, a través de un trabajo unificado e intersectorial, que desde el perspectiva de derechos articula y promueve el desarrollo de planes, programas, proyectos y acciones en favor de la atención integral que deben asegurarse para cada niño y niña, de acuerdo con su edad, contexto y condición.
 
-> 2	 De acuerdo con las proyecciones del DANE, en Colombia hay un total de 5.132.760 niños menores de 6 años (0 a 5 años 11 meses), de los cuales el 56% pertenecen a los niveles 1, 2 y 3 del Sisbén.
+Para lograrlo, se creó la Comisión Intersectorial de Primera Infancia, de la que el Ministerio de Educación Nacional hace parte. Esta Instancia tiene a cargo la coordinación, orientación y seguimiento de la política de atención integral a la primera infancia, así como la responsabilidad de garantizar que el trabajo que se diseñe e implemente, se ejecute de mane-
 
-PLAN SECTORIAL 2010-2014
+> 1 Entorno familiar: atiende a niños, padres o cuidadores a través de encuentros educativos semanales y visitas a los hogares, en las cuales se forma a los padres de familia para que puedan asumir su rol de educadores en el hogar, entorno comunitario: atiende a niños y madres comunitarias en Unidades Pedagógicas de Apoyo, UPA, una vez a la semana, donde se complementan los servicios de cuidado y nutrición con el componente educativo; entorno institucional: atiende a los niños en un espacio especializado y con un equipo interdisciplinario, durante 5 días de la semana, en jornadas de 8 horas cada día.
 
-la gestación y hasta los 5 años 11 meses de edad, son consideradas como acciones prioritarias: 'las intervenciones orientadas a potenciar el desarrollo de los niños y las niñas, durante sus primeros años, además de ser un derecho, se constituyen en una ventana de oportunidad  para  el  desarrollo  social  y  económico,  dado que generan impactos duraderos relacionados con la fortaleza psicológica, la disminución de la morbilidad y la criminalidad en el ciclo de vida de las personas; mejor rendimiento académico, menor deserción escolar y menores índices de repitencia, aumentando con ello la permanencia de los niños dentro del sistema educativo; la productividad y los ingresos futuros; por ende se constituyen en la inversión social con mayor tasa de retorno.' 3
+> 2 De acuerdo con las proyecciones del DANE, en Colombia hay un total de 5.132.760 niños menores de 6 años (0 a 5 años 11 meses), de los cuales el 56% pertenecen a los niveles 1, 2 y 3 del Sisbén.
 
-Para avanzar en su propósito de disminuir las brechas sociales, la inequidad y la pobreza extrema en el país, comenzando desde la primera infancia, el gobierno plantea la estrategia de carácter nacional y territorial ' De Cero a Siempre ', dirigida a promover y garantizar el desarrollo infantil temprano de los niños y las niñas menores de 6 años, a través de un trabajo unificado e intersectorial, que desde el perspectiva de derechos articula y promueve el desarrollo de planes, programas, proyectos y acciones en favor de la atención integral que deben asegurarse para cada niño y niña, de acuerdo con su edad, contexto y condición.
-
-Para lograrlo, se creó la Comisión Intersectorial de Primera  Infancia,  de  la  que  el  Ministerio  de  Educación Nacional hace parte. Esta Instancia tiene a cargo la coordinación, orientación y seguimiento de la política de atención integral a la primera infancia, así como la responsabilidad de garantizar que el trabajo que  se  diseñe  e  implemente,  se  ejecute  de  manera organizada, articulada y armónica entre todos los sectores responsables. 4
-
-> 3	 Plan Nacional de Desarrollo 'Prosperidad para Todos' (2010-2014), Capítulo IV Igualdad de oportunidades para la prosperidad social.
+> 3 Plan Nacional de Desarrollo “Prosperidad para Todos” (2010-2014), Capítulo IV Igualdad de oportunidades para la prosperidad social.
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+ra organizada, articulada y armónica entre todos los sectores responsables. 4
 
 Para dar cumplimiento a los propósitos del país en materia de atención integral a la primera infancia, el Ministerio de Educación Nacional, como ente rector de la educación, plantea para el cuatrienio las siguientes líneas de acción, que están orientadas a potenciar el desarrollo integral de los niños y las niñas durante sus primeros años, a promover una educación inicial diferencial y de calidad, que además de ser un derecho, se constituye en una ventana de oportunidad para el desarrollo social y la prosperidad del país.
 
@@ -190,15 +281,15 @@ Con un enfoque de inclusión social y perspectiva de derechos, el Gobierno Nacio
 
 #### Educación Inicial en el marco de una atención integral
 
-El  Gobierno  se  propone  aumentar  la  cobertura  de 566.429 niños y niñas de primera infancia atendidos integralmente en 2010 a 1'200.000 niños y niñas a 2014; donde se garanticen los componentes de salud, nutrición, educación inicial y protección. Con ello se busca disminuir las brechas en calidad y acceso y avanzar a mayores niveles de equidad, bajo los lineamientos técnicos y estándares de calidad definidos por la Comisión intersectorial para la estrategia ' De Cero a Siempre '.
-
-> 4	 Los integrantes de la Comisión son: Ministerio de Educación Nacional, Ministerio de Protección Social, Ministerio de Cultura, Instituto Colombiano de Bienestar Familiar, Departamento Nacional de Planeación, Familias en Acción, Alta Consejería para la Prosperidad Social y Alta Consejería para Programas Especiales.
+El Gobierno se propone aumentar la cobertura de 566.429 niños y niñas de primera infancia atendidos integralmente en 2010 a 1’200.000 niños y niñas a 2014; donde se garanticen los componentes de salud, nutrición, educación inicial y protección. Con ello se busca disminuir las brechas en calidad y acceso y avanzar a mayores niveles de equidad, bajo los lineamientos técnicos y estándares de calidad definidos por la Comisión intersectorial para la estrategia “De Cero a Siempre”.
 
 Para cumplir con este propósito, el Ministerio de Educación Nacional, en el 2011, continúa brindando educación inicial en el marco de una atención integral, a través de las modalidades de atención institucional, familiar y comunitaria, hasta lograr la meta de 400.000 niños y niñas, dando prioridad a los grupos de población vulnerable, indígena y afrodescendiente.
 
 #### Ambientes educativos especializados y pertinentes
 
 Con el fin de favorecer una atención integral de calidad se requiere de la construcción y adecuación de ambientes educativos especializados para la atención integral a la primera infancia. Para ello se desarrollarán proyectos que permitan cumplir con la meta a 2012 de 74 infraestructuras diseñadas, construidas y en operación, partiendo de una línea de base a 2010 de 41 infraestructuras.
+
+> 4 Los integrantes de la Comisión son: Ministerio de Educación Nacional, Ministerio de Protección Social, Ministerio de Cultura, Instituto Colombiano de Bienestar Familiar, Departamento Nacional de Planeación, Familias en Acción, Alta Consejería para la Prosperidad Social y Alta Consejería para Programas Especiales.
 
 16
 
@@ -222,17 +313,19 @@ Para alcanzar una educación inicial de calidad,  inclusiva, equitativa y solid
 
 #### Construcción de lineamientos pedagógicos de educación inicial en el marco de una atención integral
 
-Para favorecer una educación inicial diferencial y de calidad que posibilite el desarrollo integral de la primera infancia, el Ministerio de Educación Nacional liderará la construcción de los lineamientos técnicos pedagógicos de educación inicial, los lineamientos para la valoración del desarrollo de niños y niñas y los lineamientos para la formación del talento humano, los cuales se construirán de acuerdo a las líneas de la estrategia 'De Cero a Siempre' y de manera conjunta con todos los integrantes de la Comisión Intersectorial de Primera Infancia.
+Para favorecer una educación inicial diferencial y de calidad que posibilite el desarrollo integral de la primera infancia, el Ministerio de Educación Nacional liderará la construcción de los lineamientos técnicos pedagógicos de educación inicial, los lineamientos para la valoración del desarrollo de niños y niñas y los lineamientos para la formación del talento humano, los cuales se construirán de acuerdo a las líneas de la estrategia “De Cero a Siempre” y de manera conjunta con todos los integrantes de la Comisión Intersectorial de Primera Infancia.
 
 Así  mismo,  construirá  orientaciones  pedagógicas para la atención diferencial de la población con discapacidad, campesina, indígena, afrodescendiente; todos estos procesos enmarcados desde un enfoque de inclusión y en el marco de una atención integral.
 
-Esta construcción recogerá los logros y las experiencias anteriores, los avances de entidades territoriales y las experiencias de entidades públicas y privadas con trayectoria en el tema; tendrá en consideración diversos enfoques y modelos pedagógicos, y acogerá las propuestas construidas desde la diversidad cultural y social del país; propiciará mecanismos para la articulación entre los sectores  y  las  entidades  responsables  de  la  educación inicial en el marco de una atención integral y trabajará en el fortalecimiento de la articulación entre los niveles de educación inicial y preescolar en coherencia con los lineamientos técnicos pedagógicos.
+Esta construcción recogerá los logros y las experiencias anteriores, los avances de entidades territoriales y las
 
 17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+experiencias de entidades públicas y privadas con trayectoria en el tema; tendrá en consideración diversos enfoques y modelos pedagógicos, y acogerá las propuestas construidas desde la diversidad cultural y social del país; propiciará mecanismos para la articulación entre los sectores y las entidades responsables de la educación inicial en el marco de una atención integral y trabajará en el fortalecimiento de la articulación entre los niveles de educación inicial y preescolar en coherencia con los lineamientos técnicos pedagógicos.
 
 #### Formación y cualificación de agentes educativos
 
@@ -346,7 +439,7 @@ Un  proceso  de  enseñanza-aprendizaje  que  apunta a  brindar  una  educación
 
 Una política centrada en la calidad educativa estructura la operación del sistema como un todo, donde los ciclos de formación están interrelacionados en un proceso permanente que no se agota con la conclusión de los niveles formativos institucionales sino que acompaña al ser humano bajo la premisa de que el aprendizaje permanente forma parte de su proyecto de vida.
 
-Del mismo modo, la política de calidad ha consolidado el Sistema Nacional de Evaluación 5 1 , mediante el cual se valora el desempeño de cada uno de los actores que intervienen en la acción educativa: estudiantes, docentes e instituciones.
+Del mismo modo, la política de calidad ha consolidado el Sistema Nacional de Evaluación 5, mediante el cual se valora el desempeño de cada uno de los actores que intervienen en la acción educativa: estudiantes, docentes e instituciones.
 
 > 5	Este Sistema se entiende como el conjunto de componentes, procesos, estrategias y actores que en una dinámica coordinada permiten avanzar cualitativa y cuantitativamente en el fomento de la calidad de la educación. La apropiación del sistema de evaluación en el sector educativo posibilita que a nivel institucional se consolide una cultura basada en la valoración, orientada al mejoramiento continuo de los procesos y por ende de los resultados. Este sistema contempla, en cuanto al proceso de formación integral de los estudiantes, una educación de calidad que apunte a que todos los niños y jóvenes del país independientemente de su procedencia, situación social, económica o cultural, aprendan lo que deben aprender y lo sepan aplicar y aprovechar. Esto es que los estudiantes desarrollen las competencias que les permitan enfrentarse exitosamente a las diferentes situaciones que se les presentan a lo largo de la vida.
 
@@ -360,13 +453,13 @@ PLAN SECTORIAL 2010-2014
 
 Los  estudiantes  son  evaluados  a  través  de  pruebas censales,  SABER  5º  y  9º  en  el  nivel  básico;  Examen  de Estado, SABER 11º, en el nivel medio, y Exámenes de Calidad, SABER PRO, en el nivel superior. Con el fin de compararse con otros países, se ha participado en Pruebas internacionales de prestigio como el Estudio de Tendencias Internacionales y Ciencias, TIMSS; el Programa Internacional de Evaluación de Estudiantes PISA; el Segundo Estudio Regional Comparativo y Explicativo, SERCE; y el Estudio Internacional de Educación Cívica y Ciudadanía, ICCS.
 
-Los docentes y directivos de la educación preescolar, básica y media son evaluados en cuatro momentos con el fin de identificar el nivel de competencias y las demandas de formación: concurso de méritos para ingreso; período de prueba; evaluación anual de desempeño, y evaluación de competencias para ascenso y reubicación en el escalafón. 2 6 Como resultado, en la actualidad hay 104.844 docentes y directivos de la educación básica y media en el nuevo estatuto, de estos 446.709 participaron en el año 2011 en el proceso de evaluación de competencias  para  ascenso  o  reubicación.  A  la  planta docente se suman 934 docentes orientadores que están en proceso de nombramiento, como resultado del concurso de méritos iniciado en septiembre de 2010.
+Los docentes y directivos de la educación preescolar, básica y media son evaluados en cuatro momentos con el fin de identificar el nivel de competencias y las demandas de formación: concurso de méritos para ingreso; período de prueba; evaluación anual de desempeño, y evaluación de competencias para ascenso y reubicación en el escalafón. 6 Como resultado, en la actualidad hay 104.844 docentes y directivos de la educación básica y media en el nuevo estatuto, de estos 46.709 participaron en el año 2011 en el proceso de evaluación de competencias para ascenso o reubicación. A la planta docente se suman 934 docentes orientadores que están en proceso de nombramiento, como resultado del concurso de méritos iniciado en septiembre de 2010.
 
-Los establecimientos educativos se autoevalúan anualmente. El Sistema de Mejoramiento de Calidad ha acompañado durante los últimos años a las instituciones educativas en el desarrollo de sus planes de mejoramiento institucional y en la implementación de la ruta de mejoramiento institucional. 3 7
+Los establecimientos educativos se autoevalúan anualmente. El Sistema de Mejoramiento de Calidad ha acompañado durante los últimos años a las instituciones educativas en el desarrollo de sus planes de mejoramiento institucional y en la implementación de la ruta de mejoramiento institucional. 7
 
-- 6	El Estado ha previsto la evaluación de los educadores, bajo el enfoque de sus competencias básicas y profesionales, a través de la prueba Saber Pro. En este contexto, la formación docente está planteada en diferentes momentos de un continuo de vida profesional, verificados por procesos de evaluación orientada al mejoramiento.
+> 6 El Estado ha previsto la evaluación de los educadores, bajo el enfoque de sus competencias básicas y profesionales, a través de la prueba Saber Pro. En este contexto, la formación docente está planteada en diferentes momentos de un continuo de vida profesional, verificados por procesos de evaluación orientada al mejoramiento.
 
-7	Guía No. 34, Ministerio de Educación Nacional. 2008
+> 7 Guía No. 34, Ministerio de Educación Nacional. 2008
 
 ### La política de calidad
 
@@ -378,42 +471,43 @@ Teniendo en cuenta este concepto, se han establecido  cinco  programas  estraté
 
 El Sistema de Evaluación en su conjunto permite detectar las fortalezas así como las debilidades que presentan hoy los procesos de enseñanza-aprendizaje. Gracias a  las  Pruebas  SABER  se  hace  visible  la  inequidad  en  la calidad educativa, y con ella las enormes brechas entre unas poblaciones y otras.
 
-Por ejemplo, las Pruebas SABER 2009 para 5º grado evidencian las desigualdades existentes entre las zonas urbana y rural, así como entre los sectores oficial y privado (Ver Tabla No. 1). Así mismo, los resultados de 5º junto con los de 9º muestran que un alto índice de estudiantes, (para los colegios oficiales el 65% en lenguaje, el 73% en matemáticas y 75% en ciencias), se ubica en el nivel de desempeño insuficiente en lenguaje, matemáticas y ciencias naturales.
+Por ejemplo, las Pruebas SABER 2009 para 5º grado evidencian las desigualdades existentes entre las zonas urba-
 
 25
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+na y rural, así como entre los sectores oficial y privado (Ver Tabla No. 1). Así mismo, los resultados de 5º junto con los de 9º muestran que un alto índice de estudiantes, (para los colegios oficiales el 65% en lenguaje, el 73% en matemáticas y 75% en ciencias), se ubica en el nivel de desempeño insuficiente en lenguaje, matemáticas y ciencias naturales.
 
 Por su parte, los exámenes SABER 11 para el mismo año muestran que los mejores desempeños de los estudiantes se encuentran en el área de lenguaje con 46,47 puntos como promedio nacional, mientras áreas como filosofía y física no alcanzan los 44 puntos.
 
 Tabla Nº 1 Resumen Nacional Resultados Pruebas SABER 5º Por Tipo de Institución y zona urbana y rural - Año 2009
 
-Nivel de desempeño | Insuficiente y mmo | Satisfactorio | Avanzado
---- | --- | --- | ---
-Oficial | 65% | 27% | 7%
-Privado | 34% | 34% | 29%
-Urbano | 56% | 38% | 13%
-Rural | 72% | 22% | 6%
-Oficial | 73% | 15% | 8%
-Privado | 42% | 30% | 28%
-Urbano | 65% | 22% | 13%
-Rural | 76% | 16% | 8%
-Oficial | 75% | 19% | 6%
-Privado | 45% | 32% | 23%
-Urbano | 68% | 22% | 10%
-Rural | 76% | 17% | 7%
+Nivel de desempeño |  | Insuficiente y mínimo | Satisfactorio | Avanzado
+--- | --- | --- | --- | ---
+Lenguaje | Oficial | 65% | 27% | 7%
+Lenguaje | Privado | 34% | 34% | 29%
+Lenguaje | Urbano | 56% | 38% | 13%
+Lenguaje | Rural | 72% | 22% | 6%
+Matemáticas | Oficial | 73% | 15% | 8%
+Matemáticas | Privado | 42% | 30% | 28%
+Matemáticas | Urbano | 65% | 22% | 13%
+Matemáticas | Rural | 76% | 16% | 8%
+Ciencias | Oficial | 75% | 19% | 6%
+Ciencias | Privado | 45% | 32% | 23%
+Ciencias | Urbano | 68% | 22% | 10%
+Ciencias | Rural | 76% | 17% | 7%
 
 Fuente: Instituto Colombiano para la Evaluación de la Educación. ICFES.
 
-Las mismas pruebas indican que el 67% de los establecimientos educativos de la zona rural se ubican en las categorías muy inferior, inferior y bajo, mientras que en la zona urbana este porcentaje es de 44%. Así mismo, en las categorías alto, superior y muy superior se encuentra el 1 1% de los establecimientos de la zona rural y el 32% de la zona urbana.
+Las mismas pruebas indican que el 67% de los establecimientos educativos de la zona rural se ubican en las categorías muy inferior, inferior y bajo, mientras que en la zona urbana este porcentaje es de 44%. Así mismo, en las categorías alto, superior y muy superior se encuentra el 11% de los establecimientos de la zona rural y el 32% de la zona urbana.
 
-En cuanto a los resultados de las evaluaciones internacionales, aun cuando el estudio PISA 2009 señala una moderada mejora en el desempeño de las competencias en lenguaje, estos resultados y los de competencias en ciencias y matemáticas de Colombia 8, 4 distan de los alcanzados por países de la Organización para la Cooperación y el Desarrollo Económico, OCDE, e inclusive de algunos países latinoamericanos. En lectura, el incremento en el período fue de 28 puntos (de 385 en 2006 a 413 en 2009), lo que equivale  a  un  aumento  anual  de  9,3  puntos.  En  ciencias el incremento fue de 14 puntos (de 388 en 2006 a 402 en 2009), para un aumento asociado por año de 4,6 puntos. En matemáticas el aumento en el período fue de 1 1 puntos (de 370 en 2006 a 381 en 2009), es decir, 3,6 puntos anuales.
+En cuanto a los resultados de las evaluaciones internacionales, aun cuando el estudio PISA 2009 señala una moderada mejora en el desempeño de las competencias en lenguaje, estos resultados y los de competencias en ciencias y matemáticas de Colombia 8, distan de los alcanzados por países de la Organización para la Cooperación y el Desarrollo Económico, OCDE, e inclusive de algunos países latinoamericanos. En lectura, el incremento en el período fue de 28 puntos (de 385 en 2006 a 413 en 2009), lo que equivale a un aumento anual de 9,3 puntos. En ciencias el incremento fue de 14 puntos (de 388 en 2006 a 402 en 2009), para un aumento asociado por año de 4,6 puntos. En matemáticas el aumento en el período fue de 11 puntos (de 370 en 2006 a 381 en 2009), es decir, 3,6 puntos anuales.
 
 Al comparar estos logros con los de los demás países, se observa que los incrementos anuales de los promedios  colombianos  en  las  tres  áreas  están  entre  los más altos. En lectura nuestro país sólo es superado por Qatar y Kirguistán, donde los aumentos anuales fueron de  19,8  y  9,8  puntos,  respectivamente.  En  ciencias,  los avances de mayor magnitud son los de Turquía y Qatar (10 puntos), Portugal (6,2), Corea (5,3), Túnez (5,1) y Brasil (5,0). En matemáticas los incrementos más altos se dan en Qatar (16,7 puntos), Kirguistán (6,9), México (5,5), Brasil (5,0),  Bulgaria (4,9 -aunque la diferencia no es significativa-), Rumania (4,1) y Turquía (3,7) (Cuadro 11). Además, solo Colombia, Brasil, Portugal, Turquía, Indonesia y Qatar presentan mejoras en las tres áreas.
 
-Igual situación se presenta en las evaluaciones de ingreso y ascenso de los docentes, donde los desempeños de los docentes de las zonas rurales son inferiores a los de las zonas urbanas, diferencia que oscila entre 5 y 10 puntos. Los educadores que obtienen los resultados más bajos son los que corresponde a matemáticas, tecnología y educación física.
+Igual situación se presenta en las evaluaciones de ingreso y ascenso de los docentes, donde los desempeños de los
 
 > 8	Los ocho países latinoamericanos que participaron en PISA 2009 tuvieron promedios inferiores al de la OCDE (494 puntos). El puntaje de Colombia fue 413, por debajo de Chile, México y Uruguay, similar a Brasil y superior a Argentina, Panamá y Perú.
 
@@ -422,24 +516,23 @@ Igual situación se presenta en las evaluaciones de ingreso y ascenso de los doc
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+###### PLAN SECTORIAL 2010-2014
+
+docentes de las zonas rurales son inferiores a los de las zonas urbanas, diferencia que oscila entre 5 y 10 puntos. Los educadores que obtienen los resultados más bajos son los que corresponde a matemáticas, tecnología y educación física.
 
 Con relación a la educación superior, Colombia cuenta hoy con un sistema de aseguramiento muy consolidado, que ha permitido elevar el nivel de calidad de las instituciones y programas académicos.
 
-La  Comisión  Nacional  de  Aseguramiento  de  la  Calidad  -CONACES-,  integrada  por  académicos  de  altas calidades y experiencia, es la encargada de evaluar las solicitudes  de  registro  calificado  y  reconocimiento  de instituciones con base en los informes institucionales y los  reportes  de  pares  académicos  independientes.  Su concepto  académico  es  acogido  por  el  Ministerio  de Educación.
+La Comisión Nacional de Aseguramiento de la Calidad -CONACES-, integrada por académicos de altas calidades y experiencia, es la encargada de evaluar las solicitudes de registro calificado y reconocimiento de instituciones con base en los informes institucionales y los reportes de pares académicos independientes. Su concepto académico es acogido por el Ministerio de Educación.
 
-Por su parte, la Acreditación de Alta Calidad, como reconocimiento a la excelencia, ha evolucionado desde 1998, posicionándose tanto a nivel nacional como internacional.  El  modelo,  liderado  por  el  Consejo  Nacional de Acreditación -CNA-, basado en los informes de autoevaluación de las instituciones y los informes de pares académicos internacionales, ha demostrado ser exitoso y generado procesos de auto-regulación y mejoramiento continuo en las instituciones de educación superior.
+Por su parte, la Acreditación de Alta Calidad, como reconocimiento a la excelencia, ha evolucionado desde 1998, posicionándose tanto a nivel nacional como internacional. El modelo, liderado por el Consejo Nacional de Acreditación -CNA-, basado en los informes de autoevaluación de las instituciones y los informes de pares académicos internacionales, ha demostrado ser exitoso y generado procesos de auto-regulación y mejoramiento continuo en las instituciones de educación superior.
 
-Entre los beneficios atribuidos por las instituciones de educación superior al proceso de acreditación se resaltan, entre otros, los siguientes: facilitar el reconocimiento social, la visibilidad y el prestigio  entre la comunidad académica nacional e internacional; fortalecer la cultura de la calidad y autorregulación; promover la creación de comunidades académicas; generar mayor gobernabilidad, al impulsar el diálogo, la transparencia y la participación en  las decisio-
-
-###### PLAN SECTORIAL 2010-2014
-
-nes de mejoramiento de la calidad; inducir la modernización institucional; reforzar la identidad,  el compromiso y la responsabilidad  institucional; estimular la responsabilidad social universitaria y promover reformas en aspectos curriculares, pedagógicos y de investigación.
+Entre los beneficios atribuidos por las instituciones de educación superior al proceso de acreditación se resaltan, entre otros, los siguientes: facilitar el reconocimiento social, la visibilidad y el prestigio entre la comunidad académica nacional e internacional; fortalecer la cultura de la calidad y autorregulación; promover la creación de comunidades académicas; generar mayor gobernabilidad, al impulsar el diálogo, la transparencia y la participación en las decisiones de mejoramiento de la calidad; inducir la modernización institucional; reforzar la identidad, el compromiso y la responsabilidad institucional; estimular la responsabilidad social universitaria y promover reformas en aspectos curriculares, pedagógicos y de investigación.
 
 El esquema de aseguramiento y acreditación ha fortalecido no sólo la autonomía y objetividad sino también la  transparencia  en  el  proceso  de  autorización  para  la oferta educativa y de reconocimiento a la excelencia. Su efectividad ha sido destacada en Latinoamérica por sus impactos positivos en la calidad de la educación superior. Este mismo prestigio ha abierto la posibilidad para la suscripción de acuerdos de reconocimiento mutuo de títulos universitarios con otros países, lo que garantiza la movilidad de estudiantes y el intercambio científico con otras universidades en el mundo.
 
 Elemento esencial  del  Sistema  de  Aseguramiento  lo constituye sin duda la evaluación de estudiantes en educación superior, que se ha venido realizando desde 2004 a través del Examen de Estado de Calidad de la Educación Superior SABER PRO, con base en lo definido por el Decreto 1781 de 2003 que los hizo de obligatoria presentación por parte de los estudiantes de programas de pregrado.
 
-Los resultados de estas pruebas 5 9 se han presentado a la comunidad académica para su análisis y toma de decisiones, y se han comparado con los resultados obtenidos en vigencias anteriores con el fin de brindar información pertinente sobre la evolución del desempeño de los estudiantes y permitir la reflexión sobre los factores que han determinado dichos desempeños.
+Los resultados de estas pruebas 9 se han presentado a la comunidad académica para su análisis y toma de decisiones, y se han comparado con los resultados obtenidos en vigencias anteriores con el fin de brindar información pertinente sobre la evolución del desempeño de los estudiantes y permitir la reflexión sobre los factores que han determinado dichos desempeños.
 
 9	Con la expedición del Decreto 3963 del 14 de octubre de 2009 se reglamentó el Examen de Estado de Calidad de la Educación Superior y se estableció la evaluación, a partir de ese año, de las competencias genéricas de los estudiantes que están próximos a culminar los distintos programas de pregrado o de los egresados. Debido a que este informe da cuenta de los resultados del período 2004-2008, estas pruebas no son analizadas.
 
@@ -477,17 +570,17 @@ Fuente: Colciencias - Agosto 20 de 2010
 
 Tabla Nº 4 Oferta de programas de maestría y doctorado en Colombia, por área del conocimiento Comparativo 2000 - 2010
 
-Áreas | Doctorados | Maestrías
+Áreas | Doctorados |  | Maestrías |
 --- | --- | --- | --- | ---
-2000 | 2010 | 2000 | 2010
-Agronomía, Veterinaria y Afines | 3 | 19
-Bellas Artes | 2 | 7
+ | 2000 | 2010 | 2000 | 2010
+Agronomía, Veterinaria y Afines |  | 3 |  | 19
+Bellas Artes |  | 2 |  | 7
 Ciencias de la Educación | 5 | 6 | 13 | 82
-Ciencias de la Salud | 9 | 49
-Ciencias Sociales, Derecho, Ciencias Políticas | 35 | 201
-Economía, Administración, Contaduría y Afines | 6 | 122
-Ingeniería, Arquitectura, Urbanismo y Afines | 17 | 130
-Matemáticas y Ciencias Naturales | 20 | 89
+Ciencias de la Salud |  | 9 |  | 49
+Ciencias Sociales, Derecho, Ciencias Políticas |  | 35 |  | 201
+Economía, Administración, Contaduría y Afines |  | 6 |  | 122
+Ingeniería, Arquitectura, Urbanismo y Afines |  | 17 |  | 130
+Matemáticas y Ciencias Naturales |  | 20 |  | 89
 Total | 5 | 98 | 13 | 699
 
 Fuente: Ministerio de Educación Nacional - SACES, Diciembre de 2010
@@ -496,9 +589,9 @@ Tabla Nº 5 Instituciones de educación superior con Acreditación de alta Calid
 
 Carácter | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Institución tecnológica | 1 | 1
-Institución universitaria /Escuela tecnológica | 3 | 1 | 4
-Universidad | 3 | 1 | 5 | 1 | 1 | 1 | 3 | 15
+Institución tecnológica |  |  |  |  |  | 1 |  |  | 1
+Institución universitaria /Escuela tecnológica |  |  |  | 3 |  |  |  | 1 | 4
+Universidad | 3 | 1 | 5 |  | 1 | 1 | 1 | 3 | 15
 Total | 3 | 1 | 5 | 3 | 1 | 2 | 1 | 4 | 20
 
 28
@@ -513,18 +606,18 @@ Tabla Nº 6 Programas de educación superior con acreditación de alta calidad, 
 
 Áreas | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Economía, Administración, Contadu- ría y Afines | 2 | 4 | 3 | 1 | 8 | 8 | 32 | 23 | 20 | 17 | 118
-Matemáticas y Ciencias Naturales | 1 | 1 | 3 | 2 | 3 | 3 | 11 | 9 | 7 | 4 | 44
+Economía, Administración, Contaduría y Afines | 2 |  | 4 | 3 | 1 | 8 | 8 | 32 | 23 | 20 | 17 | 118
+Matemáticas y Ciencias Naturales | 1 | 1 |  | 3 | 2 | 3 | 3 | 11 | 9 | 7 | 4 | 44
 Ciencias de la Salud | 1 | 1 | 3 | 1 | 1 | 5 | 14 | 12 | 15 | 10 | 16 | 79
 Ciencias Sociales, Derecho, Ciencias Políticas | 1 | 1 | 1 | 2 | 1 | 13 | 21 | 25 | 22 | 26 | 28 | 141
-Bellas Artes | 1 | 2 | 2 | 6 | 4 | 10 | 5 | 6 | 36
-Ingeniería, Arquitectura, Urbanismo y Afines | 1 | 5 | 8 | 6 | 19 | 16 | 44 | 30 | 46 | 50 | 225
-Ciencias de la Educación | 11 | 9 | 12 | 5 | 10 | 18 | 65
-Ciencias de la Salud | 1 | 2 | 3
-Agronomía, Veterinaria y Afines | 1 | 1 | 4 | 2 | 5 | 10 | 7 | 4 | 6 | 40
+Bellas Artes |  |  | 1 |  | 2 | 2 | 6 | 4 | 10 | 5 | 6 | 36
+Ingeniería, Arquitectura, Urbanismo y Afines |  | 1 | 5 | 8 | 6 | 19 | 16 | 44 | 30 | 46 | 50 | 225
+Ciencias de la Educación |  |  |  |  |  | 11 | 9 | 12 | 5 | 10 | 18 | 65
+Ciencias de la Salud |  |  |  |  | 1 |  |  |  | 2 |  |  | 3
+Agronomía, Veterinaria y Afines |  | 1 | 1 | 4 |  | 2 | 5 | 10 | 7 | 4 | 6 | 40
 Total | 5 | 5 | 15 | 21 | 14 | 63 | 82 | 150 | 123 | 128 | 145 | 751
 
-Estos  avances  son  importantes,  pero  insuficientes. En términos de calidad, la educación superior aún enfrenta el reto de lograr una cultura de autoevaluación 6 10 como base para la acreditación de más programas e instituciones; el posicionamiento de la evaluación docente como insumo  fundamental  para  la  transformación  de la calidad; la consolidación de la investigación, apoyada por la oferta de programas de maestría y doctorado; la formulación de estrategias para la atención integral del estudiante que conduzca a la superación de las vulnerabilidades y los riesgos de deserción y bajo desempeño académico, y el fortalecimiento de la capacidad institucional  para  hacer  seguimiento  al  cumplimiento  de  los fines de la educación superior por parte de las instituciones de educación superior.
+Estos avances son importantes, pero insuficientes. En términos de calidad, la educación superior aún enfrenta el reto de lograr una cultura de autoevaluación 10 como base para la acreditación de más programas e instituciones; el posicionamiento de la evaluación docente como insumo fundamental para la transformación de la calidad; la consolidación de la investigación, apoyada por la oferta de programas de maestría y doctorado; la formulación de estrategias para la atención integral del estudiante que conduzca a la superación de las vulnerabilidades y los riesgos de deserción y bajo desempeño académico, y el fortalecimiento de la capacidad institucional para hacer seguimiento al cumplimiento de los fines de la educación superior por parte de las instituciones de educación superior.
 
 10 La autoevaluación, como herramienta de mejoramiento continuo, conduce procesos reflexivos que evalúan los principales factores determinantes del logro de los propósitos de la educación superior. Específicamente, el decreto 1295 de 2010 establece como una de las condiciones de calidad de carácter institucional, la autoevaluación, la cual se espera que sea realizada, por lo menos, cada dos años.
 
@@ -590,7 +683,23 @@ Durante el 2011, el Ministerio de Educación realizó diversos encuentros region
 
 #### Componentes del Programa de TRANSFORMACIÓN
 
-La creación de condiciones para lograr prácticas de aula  efectivas,  que  propicien  el  proceso  de  aprendizaje del grupo de estudiantes, conlleva una aproximación integral y sistémica que toma en cuenta acciones sobre un conjunto de factores asociados al desempeño. Desde esta perspectiva, el Programa involucra cuatro componentes centrales y uno transversal de apoyo, los cuales comprenden a su vez elementos específicos, como se muestra en la siguiente figura.
+La creación de condiciones para lograr prácticas de aula efectivas, que propicien el proceso de aprendizaje del grupo de estudiantes, conlleva una aproximación integral y sistémica que toma en cuenta acciones sobre un conjunto de factores asociados al desempeño. Desde esta perspectiva, el Programa involucra cuatro componentes centrales y uno transversal de apoyo, los cuales comprenden a su vez elementos específicos, como se muestra en la siguiente figura.
+
+Referentes Curriculares
+Evaluación de los Aprendizajes
+Materiales Educativos de Aula
+Interacción de las comunidades de aprendizaje, tutoría al cuerpo docente (maestros y directivos), desarrollo de capacidad de formación
+Componente pedagógico
+Componente de formación situada sustentada en acompañamiento
+Prácticas de aula y aprendizaje
+Componente de condiciones básicas
+Componente de gestión educativa
+Infraestructura (física, tecnológica, materiales)
+Permanencia (transporte, alimentación)
+Gestión en aula
+Gestión en establecimiento educativo
+Gestión en la secretaría de educación
+Componente de apoyo: Comunicación, movilización y compromiso social
 
 Figura 1: Componentes del PTCE
 
@@ -632,7 +741,7 @@ Por ser una convocatoria de voluntades, la movilización es un acto de libertad 
 
 ##### Educadores: líderes naturales
 
-Si  bien  para  mejorar  el  desempeño  académico  es necesario crear las condiciones que faciliten el proceso de  aprendizaje,  es  indudable  que  la  estrategia  central de transformación se traduce en prácticas de enseñanza más efectivas. Estas prácticas están asociadas, entre otros factores, a educadores con conocimiento de lo que enseñan (conocimiento de la disciplina) y de cómo se enseña (conocimiento de la didáctica de la disciplina). 11 7
+Si bien para mejorar el desempeño académico es necesario crear las condiciones que faciliten el proceso de aprendizaje, es indudable que la estrategia central de transformación se traduce en prácticas de enseñanza más efectivas. Estas prácticas están asociadas, entre otros factores, a educadores con conocimiento de lo que enseñan (conocimiento de la disciplina) y de cómo se enseña (conocimiento de la didáctica de la disciplina). 11
 
 Para lograr estas competencias, la literatura especializada destaca la importancia del desarrollo profesional situado en el marco de las prácticas de aula y de comunidades de aprendizaje, incluidos procesos de interacción y acompañamiento a los educadores. Igualmente, indica que la existencia de materiales apropiados disponibles en el aula (educadores y estudiantes), ayuda en el proceso de enseñanza-aprendizaje, lógica que se presenta en la Figura 2.
 
@@ -706,17 +815,17 @@ De  las  286  instituciones  de  educación  superior,  22 cuentan con Acreditac
 
 Para lograrlo, se propone implementar las siguientes acciones:
 
-- Revisar el modelo de acreditación con el que cuenta el país con el objetivo de armonizarlo con estándares internacionales.
+1. Revisar el modelo de acreditación con el que cuenta el país con el objetivo de armonizarlo con estándares internacionales.
 
-- Fomentar  la  autoevaluación  como  esquema  fundamental del mejoramiento continuo de la calidad educativa  y  conducente  a  la  acreditación  de  alta calidad.
+2. Fomentar la autoevaluación como esquema fundamental del mejoramiento continuo de la calidad educativa y conducente a la acreditación de alta calidad.
 
-- Ampliar el alcance del sistema de información de aseguramiento de la calidad -SACES- para el proceso de acreditación de alta calidad, lo que contribuirá a mejorar la eficiencia, efectividad y transparencia del proceso.
+3. Ampliar el alcance del sistema de información de aseguramiento de la calidad -SACES- para el proceso de acreditación de alta calidad, lo que contribuirá a mejorar la eficiencia, efectividad y transparencia del proceso.
 
-- Desarrollar  estímulos  que  incentiven  a  las  instituciones a optar por este reconocimiento.
+4. Desarrollar estímulos que incentiven a las instituciones a optar por este reconocimiento.
 
-- Consolidar  la  consulta  de  los  indicadores  de  calidad de las instituciones de educación superior por parte de todos los actores de la comunidad académica, como insumo para el mejoramiento de la calidad. Estos indicadores han sido generados por el SNIES desde hace varios años, es necesario generalizar su uso y aplicación.
+5. Consolidar la consulta de los indicadores de calidad de las instituciones de educación superior por parte de todos los actores de la comunidad académica, como insumo para el mejoramiento de la calidad. Estos indicadores han sido generados por el SNIES desde hace varios años, es necesario generalizar su uso y aplicación.
 
-- Realizar  el  acompañamiento  a  los  planes  de  mejoramiento  de  las  instituciones  de  educación  superior,  el  fortalecimiento  y  la  actualización  de  las competencias de los docentes, el uso efectivo de los resultados de la evaluación docente para el mejoramiento de la calidad y la formación a nivel doctoral de los profesores.
+6. Realizar el acompañamiento a los planes de mejoramiento de las instituciones de educación superior, el fortalecimiento y la actualización de las competencias de los docentes, el uso efectivo de los resultados de la evaluación docente para el mejoramiento de la calidad y la formación a nivel doctoral de los profesores.
 
 35
 
@@ -754,11 +863,11 @@ En forma paralela a la consolidación del Sistema de Aseguramiento para este niv
 
 Para cumplir este propósito, se pondrán en marcha las siguientes acciones:
 
-- Definir el esquema óptimo para el sistema de aseguramiento de la calidad en este nivel de formación, fortaleciendo o habilitando las instancias que sea necesario para garantizar su funcionamiento.
+1. Definir el esquema óptimo para el sistema de aseguramiento de la calidad en este nivel de formación, fortaleciendo o habilitando las instancias que sea necesario para garantizar su funcionamiento.
 
-- Brindar acompañamiento a las instituciones de Formación para el Trabajo en procesos de autoevaluación conducentes al mejoramiento continuo de la calidad.
+2. Brindar acompañamiento a las instituciones de Formación para el Trabajo en procesos de autoevaluación conducentes al mejoramiento continuo de la calidad.
 
-- Establecer mecanismos de incentivos para premiar el logro de la certificación y acreditación de programas e instituciones.
+3. Establecer mecanismos de incentivos para premiar el logro de la certificación y acreditación de programas e instituciones.
 
 En el sistema educativo, las competencias laborales son otra pieza del engranaje de la calidad, en cuanto conectan a la educación con el mundo del trabajo y centran la atención en el mejoramiento del capital humano como fuente de innovación, conocimiento, diferenciación y productividad.
 
@@ -818,13 +927,13 @@ De acuerdo con los resultados censales de las pruebas SABER (2009), el 18% de es
 
 [[START OF PAGE 40]]
 
-Según  la  última  encuesta  de  consumo  cultural  del DANE, aplicada en 2008, sólo el 57% de niños entre 5 y 1 1 años leyó voluntariamente libros que no son textos escolares, y el 43% no lo hizo, especialmente por falta de interés.
+Según la última encuesta de consumo cultural del DANE, aplicada en 2008, sólo el 57% de niños entre 5 y 11 años leyó voluntariamente libros que no son textos escolares, y el 43% no lo hizo, especialmente por falta de interés.
 
 De  igual  manera,  los  resultados  del  Estudio  PISA (2009),  realizado  por  la  Organización  para  la  Cooperación y el Desarrollo Económico OCDE, cuyo énfasis fue la lectura, indican que el 47% de los estudiantes colombianos de 15 años se encuentra por debajo del nivel mínimo aceptable, según los estándares de PISA.
 
 Está  comprobado que un buen nivel de lectura es la  base  no sólo para que los estudiantes logren mejores aprendizajes en áreas como matemáticas y ciencias, sino también para desarrollar un pensamiento crítico y autónomo. Alcanzar un buen nivel de lectura y escritura contribuye a que el estudiante permanezca y concluya sus estudios y facilita su participación activa en la vida social, cultural y laboral.
 
-La  UNESCO, por su parte, al abordar la problemática mundial de la lectura, ha señalado que 'Los libros y el acto de leer constituyen los pilares de la educación y la  difusión  del  conocimiento,  la  democratización  de  la cultura y la superación individual y colectiva de los seres humanos.' En esta perspectiva, señala la UNESCO: 'los libros y la lectura son y seguirán siendo, con fundamentada razón, instrumentos indispensables para conservar y transmitir el tesoro cultural de la humanidad, pues al contribuir  de  tantas  maneras  al  desarrollo,  se  convierten  en  agentes  activos  del  progreso.  En  esta  visión,  la UNESCO reconoce que saber leer y escribir constituye una capacidad necesaria  en  sí  misma,  y  es  la  base  de otras aptitudes vitales...' 12 8
+La UNESCO, por su parte, al abordar la problemática mundial de la lectura, ha señalado que 'Los libros y el acto de leer constituyen los pilares de la educación y la difusión del conocimiento, la democratización de la cultura y la superación individual y colectiva de los seres humanos.' En esta perspectiva, señala la UNESCO: 'los libros y la lectura son y seguirán siendo, con fundamentada razón, instrumentos indispensables para conservar y transmitir el tesoro cultural de la humanidad, pues al contribuir de tantas maneras al desarrollo, se convierten en agentes activos del progreso. En esta visión, la UNESCO reconoce que saber leer y escribir constituye una capacidad necesaria en sí misma, y es la base de otras aptitudes vitales...' 12
 
 Por esta razón, es preciso adelantar acciones desde la  escuela  que  favorezcan  el  desarrollo  de  las  competencias comunicativas, y lo hagan teniendo en cuenta el desempeño del ser humano como ciudadano capaz de asumir una posición legítima frente a las diversas situaciones sociales, políticas, culturales y económicas de su contexto.
 
@@ -843,6 +952,7 @@ Asimismo,  el  Plan  promoverá  el  acceso  a  los  libros y  demás  materiale
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+PLAN SECTORIAL 2010-2014
 
 que los materiales circulen dentro y fuera de ella, que los educadores los usen en sus prácticas de aula y estén al alcance de los niños, jóvenes y, en general, de toda la comunidad educativa.
 
@@ -854,11 +964,7 @@ La atención educativa a grupos étnicos en el Ministerio de Educación Nacional
 
 En Colombia hoy son reconocidos más de 86 pueblos  indígenas,  comunidades  afrocolombianas,  negras, palenqueras,  raizales  y  Rom;  que  representan  el  20% de la población nacional. Parte esencial de la diversidad es el reconocimiento de las lenguas nativas. En nuestro país existen 65 lenguas habladas por pueblos indígenas, dos lenguas criollas habladas por las comunidades afrocolombianas del Palenque de San Basilio y San Andrés y Providencia y las islas de Santa Catalina y una lengua romani hablada por el pueblo gitano.
 
-La atención educativa tiene su base, además, en el reconocimiento de la normatividad educativa vigente para grupos étnicos. En especial, la Constitución Política de Colombia de 1991, donde se reconoce el derecho a una educación propia y bilingüe y la oficialidad de las len-
-
-PLAN SECTORIAL 2010-2014
-
-guas nativas en sus territorios. El desarrollo de sus principios están contenidos en la Ley General de Educación, que institucionaliza la atención educativa a través de la modalidad de etnoeducación; el Decreto 804 de 1995 que reglamenta la atención educativa a grupos étnicos; la Ley de Lenguas Nativas 1380 de 2010 que promueve la enseñanza, la formación de educadores y la producción de material bilingüe, y la Ley 70 de 1993 para comunidades negras afrocolombianas y raizales. Igualmente, se consideran  normas  internacionales  como  el  Convenio 169 de la OIT que obliga a la consulta y la concertación de las acciones relativas al tema de educación, ratificada por el Gobierno Nacional con la Ley 21 de 1991.
+La atención educativa tiene su base, además, en el reconocimiento de la normatividad educativa vigente para grupos étnicos. En especial, la Constitución Política de Colombia de 1991, donde se reconoce el derecho a una educación propia y bilingüe y la oficialidad de las lenguas nativas en sus territorios. El desarrollo de sus principios están contenidos en la Ley General de Educación, que institucionaliza la atención educativa a través de la modalidad de etnoeducación; el Decreto 804 de 1995 que reglamenta la atención educativa a grupos étnicos; la Ley de Lenguas Nativas 1380 de 2010 que promueve la enseñanza, la formación de educadores y la producción de material bilingüe, y la Ley 70 de 1993 para comunidades negras afrocolombianas y raizales. Igualmente, se consideran normas internacionales como el Convenio 169 de la OIT que obliga a la consulta y la concertación de las acciones relativas al tema de educación, ratificada por el Gobierno Nacional con la Ley 21 de 1991.
 
 La  concertación  de  los  procesos  educativos  con  los pueblos y  comunidades se realiza  través  de  sus  instancias  representativas:  La  Comisión  Nacional  de  Trabajo  y Concertación de Política Educativa a Pueblos Indígenas, CONTCEPI (Decreto 2406 de 2007), y la Comisión Pedagógica Nacional, CPN (Decreto 2249 de 1995) para comunidades negras, afrocolombianas, raizales y palenqueras. En ellas participan representantes de los grupos étnicos. Para 2011, se tiene prevista la mesa de concertación con los pueblos Rom. Igualmente, existen espacios para concertación e implementación de políticas educativas en los niveles regionales, a través de las mesas departamentales.
 
@@ -932,7 +1038,7 @@ El Sistema Regional para el Desarrollo y Evaluación de las Competencias Ciudada
 
 Estos resultados muestran la urgencia de fortalecer los conocimientos, las actitudes y las habilidades necesarias para el ejercicio activo de la ciudadanía y el ejercicio los derechos humanos en la escuela.
 
-En el marco del SREDECC se realizó también un análisis comparado de los currículos de educación cívica y ciudadana de seis países de América Latina. 13 9 El estudio reveló la riqueza temática de los currículos y estándares de la región, gracias al enfoque por competencias y al reconocimiento de que la educación ciudadana y para el ejercicio de los derechos humanos requiere de acciones en todos los grados y áreas.
+En el marco del SREDECC se realizó también un análisis comparado de los currículos de educación cívica y ciudadana de seis países de América Latina. 13 El estudio reveló la riqueza temática de los currículos y estándares de la región, gracias al enfoque por competencias y al reconocimiento de que la educación ciudadana y para el ejercicio de los derechos humanos requiere de acciones en todos los grados y áreas.
 
 > 13 Cox, C. (2010) Oportunidades de aprendizaje escolar de la ciudadanía en América  Latina:  currículos  comparados.  Bogotá:  BID.  En  http://sredecc. org/Foro/Informe_rft_regional/index.html
 
@@ -991,6 +1097,7 @@ El Programa de competencias ciudadanas se desarrolla a través de 4 estrategias:
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+PLAN SECTORIAL 2010-2014
 
 #### Fortalecimiento y expansión de los Programas Transversales
 
@@ -998,15 +1105,13 @@ Los Programas de Educación Ambiental, Educación para  la  Sexualidad  y  Const
 
 En conjunto, ofrecen herramientas útiles para fomentar proyectos de vida que promuevan el libre desarrollo de la personalidad; contribuyen de manera sustancial a la generación de una cultura de los derechos humanos en las instituciones escolares; pretenden impregnar la organización escolar, así como todos los ambientes de la escuela, y se caracterizan por asumir una labor transversal que involucra los diversos procesos y escenarios de la escuela. Así mismo, acompañan la integración de diversos saberes para el desarrollo de competencias para la vida, así como la revisión y reorientación de las prácticas pedagógicas a partir de la construcción de conocimiento significativo y con sentido, y posibilitan transformar las dinámicas sociales hacia la construcción de unas relaciones más justas, democráticas y responsables consigo mismo, con los demás y con el entorno.
 
-Uno de los propósitos de la política de calidad educativa  en  el  marco  de  la  formación  para  la  ciudadanía es realizar la expansión de los programas transversales para que, desde los proyectos pedagógicos, mejoren el desarrollo de competencias ciudadanas y básicas en aspectos fundamentales de la formación de cualquier ser humano, desde su dimensión humana, socioeconómica, cultural,  natural  y  biológica,  con  sus  implicaciones  demográficas, técnicas, tecnológicas, y políticas.
+Uno de los propósitos de la política de calidad educativa en el marco de la formación para la ciudadanía es realizar la expansión de los programas transversales para que, desde los proyectos pedagógicos, mejoren el desarrollo de competencias ciudadanas y básicas en aspectos fundamentales de la formación de cualquier ser humano, desde su dimensión humana, socioeconómica, cultural, natural y biológica, con sus implicaciones demográficas, técnicas, tecnológicas, y políticas.
 
-PLAN SECTORIAL 2010-2014
-
-Esta expansión se realizará en equipo con las entidades territoriales con el fin de acompañar a las instituciones educativas en la implementación de proyectos pedagógicos transversales que integran la escuela con la comunidad. El Gobierno Nacional dará continuidad a los procesos de capacitación y formación de docentes  y  agentes  educativos,  de  conformación  y  consolidación  de  alianzas  y  a  la  implementación  de  estrategias  de  comunicación para la movilización social a nivel nacional, regional y local que promuevan el ejercicio de los derechos.
+Esta expansión se realizará en equipo con las entidades territoriales con el fin de acompañar a las instituciones educativas en la implementación de proyectos pedagógicos transversales que integran la escuela con la comunidad. El Gobierno Nacional dará continuidad a los procesos de capacitación y formación de docentes y agentes educativos, de conformación y consolidación de alianzas y a la implementación de estrategias de comunicación para la movilización social a nivel nacional, regional y local que promuevan el ejercicio de los derechos.
 
 #### Programa de Apoyo en Gestión al Plan de Educación de Calidad para la prosperidad. Empréstito BID.
 
-Los  estudios  internacionales  coinciden  en  señalar que el clima escolar es la variable que mayor influencia ejerce sobre el rendimiento de los estudiantes. 14 10 El clima escolar se refiere a las actitudes, creencias, valoraciones y normas que subyacen a las prácticas educativas, los logros académicos y las actividades propias de la escuela. 15. 11 Demuestran, además, que cuanto mayor es la calidad académica de la escuela, menor es el nivel de delito y delincuencia de sus integrantes. Revelan, también, que en  los  ambientes  escolares  donde  se  presenta  menor ocurrencia de vandalismo, violencia física o verbal entre el alumnado y menor discriminación por razones racia-
+Los estudios internacionales coinciden en señalar que el clima escolar es la variable que mayor influencia ejerce sobre el rendimiento de los estudiantes. 14 El clima escolar se refiere a las actitudes, creencias, valoraciones y normas que subyacen a las prácticas educativas, los logros académicos y las actividades propias de la escuela. 15 Demuestran, además, que cuanto mayor es la calidad académica de la escuela, menor es el nivel de delito y delincuencia de sus integrantes. Revelan, también, que en los ambientes escolares donde se presenta menor ocurrencia de vandalismo, violencia física o verbal entre el alumnado y menor discriminación por razones racia-
 
 - 14  SERCE.  Los  aprendizajes  de  los  estudiantes  de  América  Latina  y  el Caribe. Resumen Ejecutivo. 2008 en: http://unesdoc.unesco.org/ images/0016/001606/160659S.pdf. Segundo Estudio Regional Comparativo y Explicativo (SERCE, 2006), desarrollado por el Laboratorio Latinoamericano de Evaluación de la Calidad Educativa (LLECE) de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO).
 
@@ -1018,25 +1123,25 @@ Los  estudios  internacionales  coinciden  en  señalar que el clima escolar es 
 
 [[START OF PAGE 48]]
 
-les, lingüísticas o sociales, los estudiantes tienden a obtener mejores aprendizajes. 16 12
+les, lingüísticas o sociales, los estudiantes tienden a obtener mejores aprendizajes. 16
 
 A través de un empréstito con el Banco Interamericano de Desarollo, BID, que contempla un componente de competencias ciudadanas y una educación para el ejercicio de los derechos humanos, el Gobierno  Nacional  buscará  fortalecer  la  capacidad  de  los establecimientos  educativos  de  preescolar,  básica  y media para crear ambientes de aprendizaje democráticos, que incidan en la percepción del clima escolar y favorezcan el desempeño de los estudiantes.
 
 El Programa desarrollará las siguientes acciones:
 
-- Administrar un fondo concursable dirigido a las Secretarías  de  Educación  y  Escuelas  Normales  Superiores, para fomentar el desarrollo de competencias ciudadanas y proyectos pedagógicos en derechos humanos.
+1. Administrar un fondo concursable dirigido a las Secretarías de Educación y Escuelas Normales Superiores, para fomentar el desarrollo de competencias ciudadanas y proyectos pedagógicos en derechos humanos.
 
-- Acompañar a las Secretarías de Educación para gestionar  con  otros  actores  el  posicionamiento y  articulación de las acciones para el desarrollo de competencias ciudadanas y derechos humanos,  desde  el  mandato  educativo  en  lo  local  y regional.
+2. Acompañar a las Secretarías de Educación para gestionar con otros actores el posicionamiento y articulación de las acciones para el desarrollo de competencias ciudadanas y derechos humanos, desde el mandato educativo en lo local y regional.
 
-- Fomentar y financiar investigación sobre clima escolar, ambientes de aprendizaje democráticos y desarrollo de competencias ciudadanas.
+3. Fomentar y financiar investigación sobre clima escolar, ambientes de aprendizaje democráticos y desarrollo de competencias ciudadanas.
 
-- Formar  docentes,  directivos  docentes  y  docentes orientadores en competencias ciudadanas y en la implementación de proyectos pedagógicos en derechos humanos.
+4. Formar docentes, directivos docentes y docentes orientadores en competencias ciudadanas y en la implementación de proyectos pedagógicos en derechos humanos.
+
+5. Implementar una estrategia de valoración de los Establecimientos Educativos a partir de un conjunto de indicadores que miden el clima escolar, los ambientes democráticos de aprendizaje.
+
+6. Diseñar e incorporar en las pruebas SABER PRO para estudiantes normalistas superiores de un componente sobre desarrollo de competencias ciudadanas.
 
 > 16 Jesús Duarte, María Soledad Bos, Martín Moreno. Banco Interamericano de Desarrollo. 2010 Los docentes, las escuelas y los aprendizajes escolares en América Latina: un estudio regional usando la base de datos del SERCE.
-
-- Implementar  una  estrategia  de  valoración  de  los Establecimientos Educativos a partir de un conjunto  de  indicadores que miden el clima escolar, los ambientes democráticos de aprendizaje.
-
-- Diseñar  e  incorporar  en  las  pruebas  SABER  PRO para  estudiantes  normalistas  superiores  de  un componente  sobre  desarrollo  de  competencias ciudadanas.
 
 ### Aseguramiento de la Calidad de la Educación Preescolar, Básica y Media.
 
@@ -1098,7 +1203,10 @@ Externas
 
 Interna
 
-* Evaluación en el aula Decreto 1290 de 2009 * Evaluación Formativa Decreto ley 1278 de 2002 Una carrera docente fundamentada en el mérito
+* Evaluación en el aula - Decreto 1290 de 2009
+* Evaluación Formativa
+
+Decreto ley 1278 de 2002 - Una carrera docente fundamentada en el mérito
 
 - Concurso de méritos
 
@@ -1122,21 +1230,19 @@ Una gestión institucional enfocada al mejoramiento
 
 [[START OF PAGE 51]]
 
+PLAN SECTORIAL 2010-2014
+
 ##### Evaluación de modelos educativos flexibles
 
-Con el fin de cerrar las brechas de inequidad que distancian a los estudiantes de zonas rurales y urbano marginales de los que reciben una educación en establecimiento urbanos, el Gobierno Nacional consolidará  un  sistema  de  evaluación  de  los  modelos educativos flexibles ofrecidos por los particulares, lo cual contribuirá a que todos los niños y jóvenes del país reciban una formación de calidad en igualdad de condiciones.
+Con el fin de cerrar las brechas de inequidad que distancian a los estudiantes de zonas rurales y urbano marginales de los que reciben una educación en establecimiento urbanos, el Gobierno Nacional consolidará un sistema de evaluación de los modelos educativos flexibles ofrecidos por los particulares, lo cual contribuirá a que todos los niños y jóvenes del país reciban una formación de calidad en igualdad de condiciones.
 
-En ese sentido, y tal como se ha venido haciendo desde  el  año  2009,  se  emitirán  conceptos  técnicos sobre el material que conforman dichos modelos y su  concordancia  con  los  referentes  de  calidad  producidos por el Ministerio de Educación. Estas evaluaciones constituirán un insumo fundamental para las entidades territoriales certificadas a la hora de determinar el modelo flexible con el cual se educarán sus estudiantes.
+En ese sentido, y tal como se ha venido haciendo desde el año 2009, se emitirán conceptos técnicos sobre el material que conforman dichos modelos y su concordancia con los referentes de calidad producidos por el Ministerio de Educación. Estas evaluaciones constituirán un insumo fundamental para las entidades territoriales certificadas a la hora de determinar el modelo flexible con el cual se educarán sus estudiantes.
 
 ##### Apoyo a la evaluación formativa y censal de estudiantes
 
-Se alinearán las tres grandes evaluaciones nacionales  de  educación  básica  (SABER  5º  y  9º)  y  educación media  (SABER  11º).  En  complemento,  se  aplicará  una cuarta evaluación que corresponde al grado 3º. A las áreas  actualmente  evaluadas  (lenguaje,  matemáticas y  ciencias  naturales)  se  adicionará  el  componente  de competencias ciudadanas. Estas evaluaciones se aplicarán anualmente.
+Se alinearán las tres grandes evaluaciones nacionales de educación básica (SABER 5º y 9º) y educación media (SABER 11º). En complemento, se aplicará una cuarta evaluación que corresponde al grado 3º. A las áreas actualmente evaluadas (lenguaje, matemáticas y ciencias naturales) se adicionará el componente de competencias ciudadanas. Estas evaluaciones se aplicarán anualmente.
 
-Para cumplir con lo dispuesto en el decreto 1290 de  2009,  el  Ministerio  de  Educación  Nacional  for-
-
-PLAN SECTORIAL 2010-2014
-
-talecerá  el  acompañamiento  a  los  sistemas  institucionales  de  evaluación  de  estudiantes  (SIEE),  contribuyendo de esta forma al proceso formativo del estudiante y la autonomía institucional. Igualmente, se  promoverà  la  formación  de  los  docentes  en  la formulación de evaluaciones de aula que permitan que los estudiantes que presenten dificultades en su proceso formativo logren superarlas durante el año escolar.
+Para cumplir con lo dispuesto en el decreto 1290 de 2009, el Ministerio de Educación Nacional fortalecerá el acompañamiento a los sistemas institucionales de evaluación de estudiantes (SIEE), contribuyendo de esta forma al proceso formativo del estudiante y la autonomía institucional. Igualmente, se promoverá la formación de los docentes en la formulación de evaluaciones de aula que permitan que los estudiantes que presenten dificultades en su proceso formativo logren superarlas durante el año escolar.
 
 ##### Consolidación del sistema de evaluación de los docentes
 
@@ -1253,13 +1359,14 @@ PLAN SECTORIAL
 [[START OF PAGE 57]]
 
 ## Disminuir las brechas en acceso y permanencia entre población rural - urbana, poblaciones diversas, vulnerables y por regiones
-E l  Gobierno  del  Presidente  Juan  Manual  Santos  se  ha propuesto que todos los niños, niñas y jóvenes colombianos, independiente de su condición de género, el lugar donde residen, la raza que les caracteriza, la situación socioeconómica que afrontan, y demás aspectos que denoten diferencias, puedan tener las mismas posibilidades de acceder a una educación de calidad y concluir sus estudios con buenos resultados educativos. Para alcanzar este objetivo se hace necesario vencer la inequidad que hoy existe y garantizar las mismas oportunidades educativas a aquellas poblaciones excluidas de una educación de calidad.
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
 
-Si bien para 2010 el país alcanzó una cobertura bruta total para educación preescolar, básica y media del 103,97%, el análisis por niveles evidencia la necesidad de consolidar los avances en transición y media, en los que se registran coberturas brutas del 89,37% y 78,61% respectivamente. 1 17 La cobertura neta para educación preescolar, básica y media para el país es de 89,79% y por niveles, los más bajos están en transición y en media (61,8% y 41,65%, respectivamente).
+El Gobierno del Presidente Juan Manual Santos se ha propuesto que todos los niños, niñas y jóvenes colombianos, independiente de su condición de género, el lugar donde residen, la raza que les caracteriza, la situación socioeconómica que afrontan, y demás aspectos que denoten diferencias, puedan tener las mismas posibilidades de acceder a una educación de calidad y concluir sus estudios con buenos resultados educativos. Para alcanzar este objetivo se hace necesario vencer la inequidad que hoy existe y garantizar las mismas oportunidades educativas a aquellas poblaciones excluidas de una educación de calidad.
+
+Si bien para 2010 el país alcanzó una cobertura bruta total para educación preescolar, básica y media del 103,97%, el análisis por niveles evidencia la necesidad de consolidar los avances en transición y media, en los que se registran coberturas brutas del 89,37% y 78,61% respectivamente. 17 La cobertura neta para educación preescolar, básica y media para el país es de 89,79% y por niveles, los más bajos están en transición y en media (61,8% y 41,65%, respectivamente).
 
 Los resultados en la cobertura bruta y neta muestran brechas evidentes entre zonas (rural o urbana), regiones, estratos socioeconómicos y poblaciones diversas y vulnerables.  Diferencias  que  hacen  evidente  la  inequidad en las oportunidades de los colombianos para acceder al derecho a una educación de calidad en los distintos niveles de formación desde el momento en que nacen.
 
@@ -1267,59 +1374,22 @@ Gráfica Nº 1. Tasas de cobertura bruta por nivel y zona de residencia
 
 Fuente: Ministerio de Educación Nacional - Oficina Asesora de Planeación, Finanzas y Sistemas de Información a partir de SINEB.
 
-Rural
-
-Urbana
-
 120,0%
-
 100,0%
-
 80,0%
-
 60,0%
-
 40,0%
-
 20,0%
-
 0,0%
 
-80,3%
-
-93,7%
-
-123,1%
-
-114,8%
-
-112,8%
-
-83,7%
-
-48,8%
-
-91,1%
-
-112,0%
-
-103,1%
-
-94,4%
-
-108,3%
-
-Transición
-
-Primaria
-
-Secundaria
-
-Media
-
-Básica
-
-Total
+ | Rural | Urbana
+--- | --- | ---
+Transición | 80,3% | 93,7%
+Primaria | 123,1% | 114,8%
+Secundaria | 83,7% | 112,8%
+Media | 48,8% | 91,1%
+Básica | 112,0% | 103,1%
+Total | 94,4% | 108,3%
 
 17 La tasa de cobertura bruta en 2010 para primaria fue de 117,4% y 103,7% para secundaria.
 
@@ -1335,75 +1405,34 @@ PLAN SECTORIAL
 
 Gráfica Nº 2. Tasas de cobertura neta por nivel y zona de residencia
 
-Rural
-
-Urbana
-
-100,0%
-
-90,0%
-
-80,0%
-
-70,0%
-
-60,0%
-
-50,0%
-
-40,0%
-
-30,0%
-
-20,0%
-
-10,0%
-
-0,0%
-
-Transición
-
-Primaria
-
-Secundaria
-
-Media
-
-Básica
-
-Total
-
-50,8%
-
-67,0%
-
-83,5%
-
-92,6%
-
-80,3%
-
-49,9%
-
-21,8%
-
-50,0%
-
-95,5%
-
-82,2%
-
-79,1%
-
-94,7%
-
 Fuente: Ministerio de Educación Nacional - Oficina Asesora de Planeación, Finanzas y Sistemas de Información a partir de SINEB.
 
-Para  2010  la  matrícula  en  la  educación  preescolar, básica y media se acercaba a los 11,1 millones de personas, de las cuales 9,9 millones estaban entre transición y undécimo grado. Sin embargo, cerca de un millón de niños, niñas y jóvenes en edad escolar se encontraban por fuera del sistema educativo, de los cuales alrededor del 70% pertenecía a la zona rural. Para el mismo año, el país presentó una tasa de analfabetismo de 6.63% para las personas mayores de 15 años, con una brecha marcada de 10 puntos en la zona rural, mientras el 4,5% de los habitantes de 15 años y más de las zonas urbanas no sabían leer ni escribir, el 14,16% de dicha población de las zonas rurales estaba en tales condiciones. 18 2
+100,0%
+90,0%
+80,0%
+70,0%
+60,0%
+50,0%
+40,0%
+30,0%
+20,0%
+10,0%
+0,0%
+
+ | Rural | Urbana
+--- | --- | ---
+Transición | 50,8% | 67,0%
+Primaria | 83,5% | 92,6%
+Secundaria | 49,9% | 80,3%
+Media | 21,8% | 50,0%
+Básica | 82,2% | 95,5%
+Total | 79,1% | 94,7%
+
+Para 2010 la matrícula en la educación preescolar, básica y media se acercaba a los 11,1 millones de personas, de las cuales 9,9 millones estaban entre transición y undécimo grado. Sin embargo, cerca de un millón de niños, niñas y jóvenes en edad escolar se encontraban por fuera del sistema educativo, de los cuales alrededor del 70% pertenecía a la zona rural. Para el mismo año, el país presentó una tasa de analfabetismo de 6.63% para las personas mayores de 15 años, con una brecha marcada de 10 puntos en la zona rural, mientras el 4,5% de los habitantes de 15 años y más de las zonas urbanas no sabían leer ni escribir, el 14,16% de dicha población de las zonas rurales estaba en tales condiciones. 18
 
 > 18 Las tasas de analfabetismo en 2010 para las personas entre 15 y 24 años de edad fueron de: 1,9% para el total, 1,19% en lo urbano y 4,06% en lo rural.
 
-Con relación a la permanencia educativa, se presentó un importante avance entre 2002 y 2009. La tasa de deserción intra-anual 19 3 pasó de 8,0% en 2002 a 4.89% en 2010. No obstante, la deserción fue mayor en las zonas rurales, en algunos departamentos y para algunos grupos poblacionales, particularmente los más vulnerables. Por ejemplo, para 2009, en ciudades como Bogotá fue de 2,19% mientras en algunos departamentos las cifras superaron el 10%: Guainía (14,09%), Putumayo (11,97%), Vichada (11,38%), Amazonas (11,18%), Guaviare (10,13%), y Casanare (10,09%).
+Con relación a la permanencia educativa, se presentó un importante avance entre 2002 y 2009. La tasa de deserción intra-anual 19 pasó de 8,0% en 2002 a 4.89% en 2010. No obstante, la deserción fue mayor en las zonas rurales, en algunos departamentos y para algunos grupos poblacionales, particularmente los más vulnerables. Por ejemplo, para 2009, en ciudades como Bogotá fue de 2,19% mientras en algunos departamentos las cifras superaron el 10%: Guainía (14,09%), Putumayo (11,97%), Vichada (11,38%), Amazonas (11,18%), Guaviare (10,13%), y Casanare (10,09%).
 
 > 19 Corresponde al porcentaje de estudiantes de establecimientos educativos oficiales, entre transición y undécimo grado, que se desvincularon en el transcurso del año escolar.
 
@@ -1413,113 +1442,47 @@ Con relación a la permanencia educativa, se presentó un importante avance entr
 
 [[START OF PAGE 60]]
 
-Al  analizar  la  tasa  de  supervivencia 20 4 en el  sistema educativo, si se toma la población de 18 años, se confirma el comportamiento diferencial por zonas: de 100 personas que ingresaron al sistema educativo en la zona urbana, el 18% ya ha desertado cuando alcanza los 18 años de edad, mientras en la zona rural la cifra llega al 52%.
+Al analizar la tasa de supervivencia 20 en el sistema educativo, si se toma la población de 18 años, se confirma el comportamiento diferencial por zonas: de 100 personas que ingresaron al sistema educativo en la zona urbana, el 18% ya ha desertado cuando alcanza los 18 años de edad, mientras en la zona rural la cifra llega al 52%.
 
-De acuerdo con la Gran Encuesta Integrada de Hogares (2010),  si  se  comparan  las  cifras  de  no  asistentes que alguna vez estuvieron en la educación con los no asistentes que nunca ingresaron, para los grupos de 5 a 16 años, el 63% de los que están por fuera alguna vez ingresaron, por lo tanto, son desertores.
+De acuerdo con la Gran Encuesta Integrada de Hogares (2010), si se comparan las cifras de no asistentes que alguna vez estuvieron en la educación con los no asistentes que nunca ingresaron, para los grupos de 5 a 16 años, el 63% de los que están por fuera alguna vez ingresaron, por lo tanto, son desertores.
 
-Según  la  Encuesta  Nacional  de  Deserción  Escolar (ENDE) realizada por el Ministerio de Educación Nacional, los factores asociados a la deserción incluyen variables relacionadas con las instituciones educativas y las
+Según la Encuesta Nacional de Deserción Escolar (ENDE) realizada por el Ministerio de Educación Nacional, los factores asociados a la deserción incluyen variables relacionadas con las instituciones educativas y las condiciones de la oferta, con diferencias entre regiones y zonas, además de variables del contexto social, de los hogares y los niños (Gráfico Nº 4).
 
 Gráfica Nº 3. Tasa de supervivencia por cohorte en el sistema educativo según grado y zona
 
-Porcentaje de estudiantes que permanecen en el
-
-sistema
+Porcentaje de estudiantes que permanecen en el sistema
 
 Grados educativos
 
-1º
-
-2º
-
-3º
-
-4º
-
-5º
-
-6º
-
-7º
-
-8º
-
-9º
-
-10º
-
-11º
-
-99%
-
-96%
-
-93%
-
-89%
-
-71%
-
-68%
-
-60%
-
-57%
-
-53%
-
-48%
-
 100%
-
-100%
-
-100% 98%
-
-98%
-
-96%
-
-93%
-
 90%
-
-87%
-
-84%
-
-82%
-
-URBANO
-
-RURAL
-
-100%
-
-90%
-
 80%
-
 70%
-
 60%
-
 50%
-
 40%
-
 30%
-
 20%
-
 10%
-
 0%
+
+ | URBANO | RURAL
+--- | --- | ---
+1º | 100% | 100%
+2º | 100% | 99%
+3º | 100% | 96%
+4º | 98% | 93%
+5º | 98% | 89%
+6º | 96% | 71%
+7º | 93% | 68%
+8º | 90% | 60%
+9º | 87% | 57%
+10º | 84% | 53%
+11º | 82% | 48%
 
 Fuente: Cálculos propios a partir de DANE-ECV 2008
 
 20 La tasa de supervivencia es un cálculo que se obtiene a partir de descontar a una cohorte esperada por grado la cantidad de desertores, según su último grado aprobado cursado. Dentro de la tasa se encuentra la población en rezago, es decir quienes aún no se han graduado de once.
-
-condiciones de la oferta, con diferencias entre regiones y zonas, además de variables del contexto social, de los hogares y los niños (Gráfico Nº 4).
 
 60
 
@@ -1681,7 +1644,7 @@ Fuente: Ministerio de Educación Nacional - Encuesta Nacional de Deserción Esco
 
 PLAN SECTORIAL 2010-2014
 
-Por otro lado, en términos de infraestructura educativa, en los últimos años el país avanzó en mejoramiento y ampliación de espacios escolares, lo que permitió que entre 2002 y 2010 se crearan 12.732 aulas para cerca de 649.410 cupos con una inversión cercana a los 1,2 billones de pesos. Sin embargo, el país aún requiere mejorar espacios  escolares,  especialmente  en  las  zonas  rurales y reubicar establecimientos educativos que se encuentran  en  zonas  de  riesgo  o  afectados  por  los  desastres ambientales. 22 5
+Por otro lado, en términos de infraestructura educativa, en los últimos años el país avanzó en mejoramiento y ampliación de espacios escolares, lo que permitió que entre 2002 y 2010 se crearan 12.732 aulas para cerca de 649.410 cupos con una inversión cercana a los 1,2 billones de pesos. Sin embargo, el país aún requiere mejorar espacios escolares, especialmente en las zonas rurales y reubicar establecimientos educativos que se encuentran en zonas de riesgo o afectados por los desastres ambientales. 22
 
 Con  relación  a  la  educación  superior,  el  país pasó de una tasa bruta de cobertura del 24,4% en 2002 a 35,3% en 2009. No obstante, persiste la concentración de estudiantes en departamentos como Antioquia, Valle, Santander y Atlántico, y en ciudades como Bogotá en donde se agrupa el 63,6% de la matrícula.
 
@@ -1809,7 +1772,7 @@ Se fomentará la articulación sectorial e intersectorial que garantice una aten
 
 #### Mejorar el análisis, seguimiento y evaluación del acceso y la permanencia escolar
 
-El Ministerio de Educación Nacional realizará seguimiento  y  evaluación  sistemática  a  las  estrategias  de acceso y permanencia y a los resultados de la deserción escolar, mediante el Sistema de Monitoreo para la  Prevención  y  Análisis  de  la  Deserción  Escolar  en Educación Preescolar, Básica y Media (SIMPADE); el seguimiento a la implementación de las estrategias de permanencia, mediante el reporte niño a niño a través de Sistema de Información de Matrícula (SIMAT), el Sistema de Información Nacional de Educación Básica y Media (SINEB), y la Encuesta Nacional de Deserción Escolar.
+El Ministerio de Educación Nacional realizará seguimiento y evaluación sistemática a las estrategias de
 
 67
 
@@ -1817,7 +1780,9 @@ El Ministerio de Educación Nacional realizará seguimiento  y  evaluación  sis
 
 [[START OF PAGE 68]]
 
-Se diseñará e implementará la Encuesta Nacional de Educación, que incluye variables como deserción, alfabetización,  acceso,  permanencia  con  calidad, entre  otras.  Así  mismo,  se  fomentará  la  cultura  del uso de dicha información en las entidades territoriales, los establecimientos educativos y la comunidad educativa.
+acceso y permanencia y a los resultados de la deserción escolar, mediante el Sistema de Monitoreo para la Prevención y Análisis de la Deserción Escolar en Educación Preescolar, Básica y Media (SIMPADE); el seguimiento a la implementación de las estrategias de permanencia, mediante el reporte niño a niño a través de Sistema de Información de Matrícula (SIMAT), el Sistema de Información Nacional de Educación Básica y Media (SINEB), y la Encuesta Nacional de Deserción Escolar.
+
+Se diseñará e implementará la Encuesta Nacional de Educación, que incluye variables como deserción, alfabetización, acceso, permanencia con calidad, entre otras. Así mismo, se fomentará la cultura del uso de dicha información en las entidades territoriales, los establecimientos educativos y la comunidad educativa.
 
 #### Alianzas estratégicas y optimización de recursos
 
@@ -1863,7 +1828,7 @@ El Ministerio de Educación Nacional apoyará proyectos en las regiones a travé
 
 #### Creación y fortalecimiento de los CERES
 
-El  Ministerio  de  Educación  ha  venido  impulsando estrategias para ampliar la cobertura en educación superior y disminuir las brechas regionales a través de los CERES. Entre el año 2003 y 2010 se crearon 164 con una cobertura en 31 departamentos y 589 municipios. La población beneficiada alcanzó más de 34.000 estudiantes a través de la oferta de 1.001 programas académicos.
+El Ministerio de Educación ha venido impulsando estrategias para ampliar la cobertura en educación superior y disminuir las brechas regionales a través de los CERES. Entre el año 2003 y 2010 se crearon 164 con una
 
 69
 
@@ -1871,7 +1836,9 @@ El  Ministerio  de  Educación  ha  venido  impulsando estrategias para ampliar 
 
 [[START OF PAGE 70]]
 
-Mediante la creación de 70 nuevos CERES entre 2010 y  2014,  se  espera  ampliar  el  porcentaje  de  municipios con oferta  de  educación  superior  teniendo  en  cuenta las  condiciones  regionales,  las  apuestas  productivas  y las necesidades educativas que promuevan el desarrollo regional. Estos Centros tendrán el soporte de alianzas entre las entidades territoriales, los sectores productivos, las instituciones de educación superior y las organizaciones sociales.
+cobertura en 31 departamentos y 589 municipios. La población beneficiada alcanzó más de 34.000 estudiantes a través de la oferta de 1.001 programas académicos.
+
+Mediante la creación de 70 nuevos CERES entre 2010 y 2014, se espera ampliar el porcentaje de municipios con oferta de educación superior teniendo en cuenta las condiciones regionales, las apuestas productivas y las necesidades educativas que promuevan el desarrollo regional. Estos Centros tendrán el soporte de alianzas entre las entidades territoriales, los sectores productivos, las instituciones de educación superior y las organizaciones sociales.
 
 De igual  manera,  en  los  CERES  ya  creados  se  fortalecerá  el  modelo  de  operación  en  sus  componentes financieros,  de  difusión  y  de  gestión,  y  se  apoyarán  el mejoramiento de la infraestructura física y tecnológica, la ampliación de las líneas de financiación a estudiantes y los procesos de articulación de la educación media con la educación superior para impulsar la continuidad y movilidad de los estudiantes dentro del sistema educativo.
 
@@ -1999,14 +1966,14 @@ Para alcanzar una transformación de impacto se requieren nuevas y mayores fuent
 
 El  financiamiento  de  la  educación  superior  en  Colombia se ha venido dando a través de esfuerzos públicos y privados con mecanismos destinados a financiar la oferta y la demanda. Ante el incremento del número de jóvenes que esperan acceder a la educación superior, y ante las demandas de la sociedad de un recurso humano cada vez mejor formado, se siente la necesidad de gestionar nuevos y mayores recursos para la educación superior que permitan cerrar las brechas en el acceso a este nivel de formación.
 
-El Ministerio de Educación Nacional ha trabajado con las  distintas  instancias  del  Gobierno  Nacional,  con  los diversos  actores  del  sector  de  la  educación  superior  y con la comunidad en general, en la construcción de una propuesta de reforma integral a la educación superior para presentar a consideración del Congreso de la República, con el objetivo de aumentar la oferta y generar condiciones para que más jóvenes, principalmente los de menores ingresos, accedan y se gradúen en programas de calidad.
+El Ministerio de Educación Nacional ha trabajado con las distintas instancias del Gobierno Nacional, con los diversos actores del sector de la educación superior y
 
 75
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
-
+con la comunidad en general, en la construcción de una propuesta de reforma integral a la educación superior para presentar a consideración del Congreso de la República, con el objetivo de aumentar la oferta y generar condiciones para que más jóvenes, principalmente los de menores ingresos, accedan y se gradúen en programas de calidad.
 La  reforma  a  la  educación  superior  busca,  además, adecuar el sistema de educación superior a la realidad nacional, armonizándolo con las tendencias regionales e internacionales en términos de equidad, pertinencia e internacionalización, y fortalecer los principios de buen gobierno y transparencia del sector, combinando la autonomía institucional y la responsabilidad pública.
 
 En la parte financiera, la propuesta se dirige a fortalecer el financiamiento del sector con fuentes públicas, partiendo del concepto central de reconocer la complejidad, la diversidad y la sostenibilidad de las instituciones de educación superior, al igual que la necesidad de garantizar nuevas fuentes de recursos y aumentar las oportunidades  de  acceso  y  permanencia  a  una  educación superior con altos estándares de calidad.
@@ -2017,14 +1984,16 @@ También, se propone vincular a las entidades territoriales en el fortalecimient
 
 Para  incentivar  el  mejoramiento  de  la  calidad  de  la educación superior, la propuesta contempla que el Gobierno Nacional pueda orientar recursos con criterios objetivos de elegibilidad a las instituciones de educación superior privadas, los cuales se asignarán a través de fondos competitivos o convenios de desempeño. Se destinarán recursos  a  las  instituciones  de  educación  superior  que cuenten con la Acreditación de Alta Calidad con el fin de promover la excelencia y se dotará al sistema de mecanismos de fondeo para que las instituciones de educación superior financien sus proyectos de expansión a través de recursos de crédito provistos por la banca de fomento y de respaldo a sus obligaciones financieras.
 
-Adicionalmente, la reglamentación del nuevo Sistema General de Regalías permitirá asignar recursos al sector  educativo a través el Fondo Desarrollo Regional, el Fondo de Compensación Regional y el Fondo de Ciencia,  Tecnología e Innovación. Estos fondos apoyaran la inversión en infraestructura física de las instituciones de educación superior y el aumento de la capacidad científica de las universidades
+Adicionalmente, la reglamentación del nuevo Sistema General de Regalías permitirá asignar recursos al sector educativo a través el Fondo Desarrollo Regional, el Fondo de Compensación Regional y el Fondo de Ciencia, Tecnología e Innovación. Estos fondos apoyaran la
 
 76
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+PLAN SECTORIAL 2010-2014
 
+inversión en infraestructura física de las instituciones de educación superior y el aumento de la capacidad científica de las universidades
 #### Programa Beca Crédito
 
 El proyecto Beca Crédito tiene por objeto el fortalecimiento de los recursos de financiamiento de la demanda a través del ICETEX, para garantizar a los bachilleres colombianos la continuidad y permanencia en el nivel superior, en igualdad de condiciones.
@@ -2035,11 +2004,7 @@ Para  mitigar  la  deserción  estudiantil,  se  dispondrá de  un  crédito  ed
 
 A través de este proyecto crediticio, los estudiantes de programas técnicos y tecnológicos tendrán como beneficio una tasa de interés del 4% efectivo anual, durante la  época de estudios y el año del periodo de gracia, y del 8% efectivo anual en el periodo de amortización. En 2011,  los  estudiantes  beneficiarios  que  cursen  estudios universitarios tendrán una tasa real del 0% anual durante toda la carrera y del 12% efectivo anual en la etapa de amortización.
 
-Así mismo, a partir del año 2012, los estudiantes de los  dos  tipos  de  programas  pagarán  una  tasa  anual
-
-PLAN SECTORIAL 2010-2014
-
-equivalente  al  IPC  del  año  anterior  reportado  en  el mes de octubre por el Departamento Administrativo de Estadística, DANE, en época de estudios, al tiempo que para la época de amortización se estableció en IPC  +  4%  anual  para  programas  técnicos  y  tecnológicos y del IPC + 8% anual para programas universitarios.
+Así mismo, a partir del año 2012, los estudiantes de los dos tipos de programas pagarán una tasa anual equivalente al IPC del año anterior reportado en el mes de octubre por el Departamento Administrativo de Estadística, DANE, en época de estudios, al tiempo que para la época de amortización se estableció en IPC + 4% anual para programas técnicos y tecnológicos y del IPC + 8% anual para programas universitarios.
 
 Los créditos nuevos se acompañarán con un subsidio de sostenimiento de $630.000 semestrales durante toda la carrera, dirigidos a estudiantes de pregrado, de acuerdo con los puntajes de pobreza establecidos por  el  Departamento  Nacional  de  Planeación  en  la nueva  metodología  para  el  Sisbén.  Los  estudiantes de pregrado cuyo Sisbén sea 1 ó 2, o su equivalente, que culminen exitosamente sus estudios y hayan sido financiados  con  crédito  del  ICETEX,  obtendrán  una condonación del 25% sobre el valor del dinero girado; el descuento no aplica a los intereses generados por este capital.
 
@@ -2103,7 +2068,7 @@ PLAN SECTORIAL
 
 [[START OF PAGE 82]]
 
-U na  educación  pertinente  es  aquella  que  forma ciudadanos  capaces  de  aprovechar  el  conocimiento  para  transformar  positivamente  su  realidad,  mejorar su entorno y, en consecuencia, elevar la calidad de vida individual y social.
+Una educación pertinente es aquella que forma ciudadanos capaces de aprovechar el conocimiento para transformar positivamente su realidad, mejorar su entorno y, en consecuencia, elevar la calidad de vida individual y social.
 
 La política educativa con énfasis en la pertinencia y la innovación guarda correspondencia con la educación como factor de crecimiento, inclusión y prosperidad. En congruencia, desarrolla competencias asociadas con los desafíos del mundo contemporáneo como el uso de las Tecnologías de Información y Comunicación, TIC, el dominio de una lengua extranjera y la preparación de los jóvenes para su ingreso al mundo del trabajo.
 
@@ -2127,9 +2092,10 @@ El Gobierno Nacional considera necesario no sólo dar continuidad a este proceso
 
 Al  desarrollo  de  las  competencias  se  suman,  como componentes  primordiales,  el  fomento  a  la  investigación, el acceso a contenidos y fuentes de conocimiento y el robustecimiento de la infraestructura tecnológica.
 
-Hasta el momento la política de innovación ha desarrollado las  fases  de  iniciación  e  implantación,  como lo señala el diagnóstico elaborado por KERIS 23 1 (Korean Education Research and Information Services) sobre el avance  e  integración  de  las  TIC  al  contexto  educativo nacional. El Gobierno del Presidente Juan Manuel Santos concentrará sus esfuerzos en la expansión y madurez de los componentes de la innovación.
+Hasta el momento la política de innovación ha desarrollado las fases de iniciación e implantación, como lo señala el diagnóstico elaborado por KERIS 23 (Korean Education Research and Information Services) sobre el avance e integración de las TIC al contexto educativo nacional. El Gobierno del Presidente Juan Manuel Santos concentrará sus esfuerzos en la expansión y madurez de los componentes de la innovación.
 
-23 Korean Education Research and Information Services, Feasibility Study for 'ICT Education Capability Building Project' , Bogotá, 2009.
+23 Korean Education Research and Information Services, Feasibility Study for
+“ICT Education Capability Building Project”, Bogotá, 2009.
 
 ### Sistema Nacional de Innovación Educativa
 
@@ -2139,14 +2105,14 @@ El  Ministerio  de  Educación  Nacional  consolidará  el Sistema Nacional de I
 
 A través del Sistema se incentivará el mejoramiento de las prácticas de aula y se pondrán en diálogo con el mundo del trabajo para despertar en los estudiantes la necesidad de cultivar los procesos de formación a lo largo de la vida como una dinámica propia pero con un impacto en el desarrollo colectivo.
 
-El  Sistema  facilitará  dar  respuesta,  desde  la  educación, a las necesidades locales, regionales y nacionales. Mantendrá las alianzas intersectoriales existentes y abrirá las puertas a nuevos aliados. Fortalecerá la capacidad investigativa, la generación de conocimiento y la internacionalización de la educación superior. Promoverá el uso y la apropiación de las Tecnologías de la Información y la Comunicación, TIC, y a la vez, hará de éstas el principal de sus soportes.
+El Sistema facilitará dar respuesta, desde la educación, a las necesidades locales, regionales y nacionales. Mantendrá las alianzas intersectoriales existentes y abrirá las puertas a nuevos aliados. Fortalecerá la capacidad in-
 
 83
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
-
+vestigativa, la generación de conocimiento y la internacionalización de la educación superior. Promoverá el uso y la apropiación de las Tecnologías de la Información y la Comunicación, TIC, y a la vez, hará de éstas el principal de sus soportes.
 Las TIC son herramientas que posibilitan mejorar los procesos de enseñanza-aprendizaje. Su uso creativo, en ambientes colaborativos a través de la participación en redes y comunidades, permite hallar nuevas y mejores opciones para atender diferentes necesidades y amplía las posibilidades de formar ciudadanos críticos. La incorporación estratégica de las TIC en la educación garantiza el  acceso  a  contenidos  educativos  digitales  e  información, despierta el interés por nuevas metodologías y promueve prácticas de enseñanza innovadoras.
 
 Para hacer de las TIC un dinamizador de la innovación y la pertinencia, se creará el Centro de Innovación Educativa  Nacional,  CIEN,  coordinado  por  el  Ministerio  de Educación Nacional, al que se articulan cinco centros de Innovación Educativa Regional, CIER. Los centros, nacional y regionales, contribuirán al desarrollo tecnológico, la innovación en las prácticas educativas y la generación de conocimiento en el país.
@@ -2175,14 +2141,14 @@ El Gobierno trabajará para que a 2014 el 60% de las instituciones de educación
 
 Entendida la educación como una herramienta que enriquece, orienta y potencializa la construcción del proyecto de vida de los individuos, es necesario que se establezcan todos los mecanismos para que los jóvenes, en el tránsito por la educación media, puedan descubrir las dimensiones del mundo laboral y las oportunidades que ofrece la educación para participar de éste con mayores ventajas. Por esta razón, el Gobierno Nacional trabajará en el mejoramiento de la educación media y su articulación con la educación superior y la educación para el trabajo y el desarrollo humano.
 
-La educación media prepara a los estudiantes para su acceso al mundo del trabajo y para el pleno ejercicio de su ciudadanía y se constituye en un puente entre la educación básica, la formación profesional y el mundo del trabajo.  La  articulación  fortalece  la  educación  media  y genera incentivos para una gestión interinstitucional del sector educativo. Favorece el acceso, la permanencia y la movilidad de los estudiantes en los distintos niveles educativos.  Reconoce  aprendizajes  generados  en  distintos escenarios  formativos  y  dinamiza  la  oferta  académica, haciéndola pertinente con respuestas a las necesidades sociales y exigencias de calidad.
+La educación media prepara a los estudiantes para su acceso al mundo del trabajo y para el pleno ejercicio de su ciudadanía y se constituye en un puente entre la educación básica, la formación profesional y el mundo del trabajo. La articulación fortalece la educación media y
 
 85
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
-
+genera incentivos para una gestión interinstitucional del sector educativo. Favorece el acceso, la permanencia y la movilidad de los estudiantes en los distintos niveles educativos. Reconoce aprendizajes generados en distintos escenarios formativos y dinamiza la oferta académica, haciéndola pertinente con respuestas a las necesidades sociales y exigencias de calidad.
 Con estas acciones se busca que todos los jóvenes, especialmente  los  que  pertenecen  a  poblaciones  vulnerables, logren altos niveles de desarrollo y desempeño en las competencias básicas, aborden con éxito los procesos de formación de la educación superior, y tengan más oportunidades de formación en competencias específicas que mejoren sus condiciones de emprendimiento y empleabilidad y faciliten la construcción de sus trayectorias vitales y laborales.
 
 A 2010 cerca del 16% de las instituciones de educación  media  se  encontraban  adelantando  procesos  de articulación. La meta a 2014 es lograr que el 60% de estas instituciones hayan transformado su oferta de educación media y tengan programas de articulación con el nivel técnico profesional, mediante currículos de formación por competencias y ciclos secuenciales y complementarios  (propedéuticos).  Para  esto  el  Ministerio liderará un proceso de formulación de propuestas, que permitan avanzar en la construcción de un pensamiento estratégico sobre la educación media en Colombia, y definir los diseños institucionales y pedagógicos que garanticen el cumplimiento de los objetivos de este nivel. Para lograrlo, se trabajará de manera articulada con las secretarias de educación certificadas, las instituciones de educación superior y las instituciones de educación para el trabajo y el desarrollo humano certificadas en calidad y el Servicio Nacional de Aprendizaje SENA.
@@ -2195,7 +2161,7 @@ Las actividades de ciencia, tecnología e innovación tienen un carácter transv
 
 Con la expedición de la Ley 1286 de 2009, Colombia abrió el camino para fortalecer el Sistema Nacional de Ciencia  y  Tecnología  (SNCT)  y  consolidar  un  departamento administrativo, con recursos humanos y financieros. Este fortalecimiento se está logrando con el soporte de un crédito de 50 millones de dólares, del Banco Interamericano de Desarrollo (BID) y el Banco Mundial (BM) firmado en agosto de 2010, cuya ejecución se inició en 2011.
 
-Este recurso, a su vez, contribuye al fortalecimiento de sistemas de información, la creación de una unidad de investigación en política de CT+I, el diseño e implementación de planes  sectoriales  y  regionales  de  CT+I, el fortalecimiento de los mecanismos de evaluación, la revisión de los instrumentos de fomento y el desarrollo de pilotos de nuevos instrumentos de apoyo a la investigación, la innovación, la formación de investigadores e innovadores, así como la apropiación social del conocimiento.
+Este recurso, a su vez, contribuye al fortalecimiento de sistemas de información, la creación de una unidad de investigación en política de CT+I, el diseño e imple-
 
 86
 
@@ -2204,7 +2170,7 @@ Este recurso, a su vez, contribuye al fortalecimiento de sistemas de informació
 [[START OF PAGE 87]]
 
 PLAN SECTORIAL 2010-2014
-
+mentación de planes sectoriales y regionales de CT+I, el fortalecimiento de los mecanismos de evaluación, la revisión de los instrumentos de fomento y el desarrollo de pilotos de nuevos instrumentos de apoyo a la investigación, la innovación, la formación de investigadores e innovadores, así como la apropiación social del conocimiento.
 En aras de continuar con el esquema de focalización propuesto por el Gobierno Nacional, se adelanta desde Colciencias el proyecto de apoyo a la formulación de los Planes Estratégicos de los Programas Nacionales de CT+I para el periodo 2010-2014.
 
 Desde la perspectiva regional, se tiene como meta a 2014 soportar la definición e implementación de planes estratégicos regionales de CT+I en los 32 departamentos del país, con los cuales se busca lograr un modelo productivo y social sustentado en la generación, uso y apropiación del conocimiento relacionado con las potencialidades y realidades regionales.
@@ -2217,14 +2183,14 @@ El sector educación es un actor importante en la formulación  de  estos  plane
 
 #### Fortalecimiento de la capacidad investigativa de las instituciones
 
-El Ministerio de Educación Nacional, en conjunto con el Departamento Administrativo de Ciencia, Tecnología e  Innovación,  Colciencias;  el  Observatorio  Colombiano de  Ciencia  y  Tecnología,  OCYT,  y  las  instituciones  de educación  superior,  desarrollará  un  diagnóstico  de  la capacidad investigativa del sector. Su objetivo es identificar nuevos proyectos e iniciativas, aprovechar recursos y prever los requerimientos de formulación de proyectos regionales de ciencia, tecnología e innovación necesarios ante la creación del Fondo de Ciencia y Tecnología, de acuerdo con el nuevo esquema propuesto por el Sistema General de Regalías.
+El Ministerio de Educación Nacional, en conjunto con el Departamento Administrativo de Ciencia, Tecnología e Innovación, Colciencias; el Observatorio Colombiano
 
 87
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
-
+de Ciencia y Tecnología, OCYT, y las instituciones de educación superior, desarrollará un diagnóstico de la capacidad investigativa del sector. Su objetivo es identificar nuevos proyectos e iniciativas, aprovechar recursos y prever los requerimientos de formulación de proyectos regionales de ciencia, tecnología e innovación necesarios ante la creación del Fondo de Ciencia y Tecnología, de acuerdo con el nuevo esquema propuesto por el Sistema General de Regalías.
 Así mismo, el Ministerio apoyará 60 instituciones de educación superior en el desarrollo de condiciones favorables al ejercicio de la investigación y la producción de conocimiento, mediante la adecuación de sistemas de información, el acceso a bases de datos especializadas,  la  adquisición  de  bibliografía  y  la  dotación  de laboratorios.
 
 Esta  acción  contribuirá  a  la  meta  propuesta  por  el país de 449 investigadores por millón de habitantes, cifra equivalente a la de Brasil y México, que tendrán un impacto directo en el desarrollo de programas estratégicos de investigación y en la visibilización de resultados de la investigación nacional en revistas indexadas.
@@ -2253,7 +2219,7 @@ Como metas, se beneficiarán de la política de movilidad 500 estudiantes, docen
 
 El Ministerio de Educación Nacional, en conjunto con el Departamento Administrativo de Ciencia, Tecnología e Innovación, Colciencias, y entidades cooperantes, trabajará para fortalecer el Programa Nacional Generación del Bicentenario, a través del cual se elevará el nivel de formación de la población colombiana. Por esta vía se logrará que en 2014 Colombia alcance el 18% de docentes con formación doctoral, 3.500 nuevos doctores en formación y 50.000 nuevos cupos en el nivel de postgrado.
 
-#### Relación universidad sociedad
+#### Relación universidad - sociedad
 
 La  innovación  para  la  pertinencia  y  la  competitividad también se origina en el impacto de las relaciones universidad-sociedad.  El  Ministerio  de  Educación  Nacional  viene  impulsando la  articulación  entre  el  sector empresarial e industrial,  las  instituciones  de  educación superior, sus grupos de investigación y otros actores del orden  departamental.  A  2014  se  espera  consolidar  los sistemas regionales de ciencia, tecnología e innovación y hacer de los comités universidad-empresa los gestores de la transferencia de tecnología y conocimiento en las regiones.
 
@@ -2287,23 +2253,23 @@ El reconocimiento de la importancia del aprendizaje de una segunda lengua llevó
 
 El objetivo del Gobierno es que a 2014 el 40% de los estudiantes de grado 11 logre desarrollar las habilidades y competencias del nivel Pre Intermedio B1 en el dominio del inglés. Para ello, el Ministerio de Educación Nacional consolidará estrategias tales como la definición de estándares de competencia en inglés, la evaluación de competencias de estudiantes y docentes en el uso del idioma y la formulación de programas de desarrollo profesional para los docentes de inglés. Al igual, implementará estrategias virtuales complementarias para el aprendizaje del idioma, tanto para docentes como para estudiantes.
 
-Para el caso de la educación superior, la meta es que el  80% de los estudiantes de Licenciatura en Inglés alcancen mínimo el nivel Intermedio B2. Para lograrlo, el Ministerio ha definido dentro de las estrategias la formulación de planes de mejoramiento para el fortalecimiento de las licenciaturas y el acompañamiento en su implementación;  la  incorporación  de  nuevas  tecnologías y medios para la enseñanza y aprendizaje del inglés; la gestión de convenios que faciliten la presencia de asistentes de inglés extranjeros en dichos programas, y el aseguramiento de la calidad de estos programas.
+Para el caso de la educación superior, la meta es que el 80% de los estudiantes de Licenciatura en Inglés al-
 
 90
 
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
+PLAN SECTORIAL 2010-2014
 
+cancen mínimo el nivel Intermedio B2. Para lograrlo, el Ministerio ha definido dentro de las estrategias la formulación de planes de mejoramiento para el fortalecimiento de las licenciaturas y el acompañamiento en su implementación; la incorporación de nuevas tecnologías y medios para la enseñanza y aprendizaje del inglés; la gestión de convenios que faciliten la presencia de asistentes de inglés extranjeros en dichos programas, y el aseguramiento de la calidad de estos programas.
 Igualmente, se plantea como meta que el 20% de los estudiantes de otros programas de educación superior alcancen el nivel de inglés Intermedio B2 al finalizar sus estudios. En este propósito, el Ministerio fomentará y promoverá metodologías que favorezcan el aprendizaje del inglés a través de medios presenciales, virtuales y combinados; el diseño de un portafolio de estrategias a mediano y largo plazo que complementen las ofertas de programas de inglés, y el intercambio de experiencias significativas entre programas e instituciones.
 
 ### Consolidación de la estrategia de gestión del capital humano
 
 El Gobierno dará desarrollo al Conpes 3674 en el que se fijan políticas para garantizar un Marco Nacional de Cualificaciones. Igualmente, fortalecerá el Observatorio Laboral de la Educación como fuente principal de seguimiento a los graduados e incorporará a este sistema datos de los graduados de la educación media y de la formación para el trabajo y el desarrollo humano.
 
-PLAN SECTORIAL 2010-2014
-
-El  Gobierno Nacional trabajará por la consolidación e implementación de un esquema de gestión del recurso humano para el país, que responda a las necesidades de los  sectores  que  se  constituyen  en  punta  de  lanza del crecimiento y desarrollo de la economía colombiana, como está consignado en el Documento de Política Conpes 3674 de julio de 2010: 'Lineamientos de Política para el Fortalecimiento del Sistema de Formación de Capital Humano - SFCH'.
+El Gobierno Nacional trabajará por la consolidación e implementación de un esquema de gestión del recurso humano para el país, que responda a las necesidades de los sectores que se constituyen en punta de lanza del crecimiento y desarrollo de la economía colombiana, como está consignado en el Documento de Política Conpes 3674 de julio de 2010: “Lineamientos de Política para el Fortalecimiento del Sistema de Formación de Capital Humano - SFCH”.
 
 El Conpes 3674 precisa los siguientes objetivos:
 
@@ -2313,14 +2279,14 @@ El Conpes 3674 precisa los siguientes objetivos:
 
 - Conformar el esquema institucional para el desarrollo de la estrategia de gestión del recurso humano en Colombia, mediante la creación de la Comisión Interinstitucional para la Gestión del Recurso Humano y la creación del Sistema Nacional de Certificación de Competencias Laborales.
 
-Esto implica que a 2014 el país deberá contar con un plan estadístico que permita mejorar la información sobre la oferta y demanda laboral, diseñar un modelo de predicción e implementarlo en los sectores locomotora, trabajar en la preparación y el diseño para la implementación de un Marco de Cualificaciones, generar canales de comunicación entre todas las instituciones para llegar  a  puntos  comunes en los temas que lo requieran, así como mejorar los análisis e instrumentos con los que cuenta el país para entender la relación entre la educación y el mundo productivo.
+Esto implica que a 2014 el país deberá contar con un plan estadístico que permita mejorar la información sobre la oferta y demanda laboral, diseñar un modelo de
 
 91
 
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
-
+predicción e implementarlo en los sectores locomotora, trabajar en la preparación y el diseño para la implementación de un Marco de Cualificaciones, generar canales de comunicación entre todas las instituciones para llegar a puntos comunes en los temas que lo requieran, así como mejorar los análisis e instrumentos con los que cuenta el país para entender la relación entre la educación y el mundo productivo.
 En este último aspecto, el Ministerio de Educación ha venido avanzando en los instrumentos que permitan conocer la relación entra la oferta educativa y el mercado laboral. En particular, el trabajo se ha centrado en el seguimiento y análisis de las condiciones de vinculación al mercado laboral de graduados de la educación superior que se realiza mediante el Observatorio Laboral para la Educación.
 
 Para cumplir con estos objetivos el Ministerio de Educación Nacional desarrollará las siguientes acciones:
@@ -2361,14 +2327,14 @@ El fortalecimiento del Observatorio será un factor clave en la consolidación d
 
 En este contexto, el Ministerio trabajará en conjunto con las entidades responsables del desarrollo del Conpes 3576 de 2009, en fortalecer la capacidad estatal a nivel nacional y territorial para producir, recopilar, procesar y analizar los flujos de información de recurso humano, tanto en el sector productivo como en el de formación, los cuales se requerirán para realizar una efectiva gestión del recurso humano en el país, consistente con las necesidades presentes y futuras del sector productivo.
 
-Particularmente, se fortalecerán y articularán los sistemas de información con los que cuenta el país: Observatorio Laboral para la Educación, Servicio Público de Empleo y Observatorio Laboral y Ocupacional Colombiano,  entre  otros,  como  instrumentos  estratégicos  de las políticas de Gobierno en materia de intermediación laboral, empleo, educación y formación para el trabajo, y como fuentes de información para orientar los procesos de toma de decisiones de estudiantes, padres de familia y directivos de los sectores productivos.
+Particularmente, se fortalecerán y articularán los sistemas de información con los que cuenta el país: Observatorio Laboral para la Educación, Servicio Público de Empleo y Observatorio Laboral y Ocupacional Colombiano, entre otros, como instrumentos estratégicos de
 
 93
 
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
-
+las políticas de Gobierno en materia de intermediación laboral, empleo, educación y formación para el trabajo, y como fuentes de información para orientar los procesos de toma de decisiones de estudiantes, padres de familia y directivos de los sectores productivos.
 Para lograr este objetivo se promoverá la utilización de la información del Observatorio en distintas instancias: en los procesos de aseguramiento de la calidad; en la  orientación de la oferta de programas y contenidos, y en la elección de programas académicos de acuerdo con las oportunidades de inserción al mercado de trabajo  en  condiciones  de  mayor  productividad,  calidad laboral y retornos económicos.
 
 El fortalecimiento del Observatorio incluirá la ampliación al seguimiento de los graduados de educación media y de formación para el trabajo y sus condiciones  de  vinculación  al  mercado  laboral  formal. Así mismo, mejorará los instrumentos cualitativos de seguimiento a graduados para que se constituyan en herramientas de análisis comparativo en el tiempo y así profundizar en la relación entre la educación y el mundo productivo. Se dará énfasis a la información y el análisis local y regional.
@@ -2423,7 +2389,7 @@ los estudiantes de las otras carreras incrementen su nivel de inglés hasta alca
 
 [[START OF PAGE 98]]
 
-L a gestión se entiende como un proceso o suma de procesos  (diseñar,  planear,  ejecutar  y  evaluar),  su implementación y con ella, la consolidación de una cultura organizacional que se caracteriza, entre otras cosas, por la capacidad de actuar en contexto y responder al cambio. Una adecuada gestión fortalece la autonomía institucional en el marco de las políticas públicas, convoca la participación activa y con conciencia de la comunidad académica da legitimidad al gobierno institucional.
+La gestión se entiende como un proceso o suma de procesos (diseñar, planear, ejecutar y evaluar), su implementación y con ella, la consolidación de una cultura organizacional que se caracteriza, entre otras cosas, por la capacidad de actuar en contexto y responder al cambio. Una adecuada gestión fortalece la autonomía institucional en el marco de las políticas públicas, convoca la participación activa y con conciencia de la comunidad académica da legitimidad al gobierno institucional.
 
 El fortalecimiento de la gestión educativa busca robustecer la capacidad de las Secretarías de Educación, los establecimientos educativos estatales, las instituciones de educación superior y del Ministerio de Educación Nacional, a fin mejorar de manera continua la aplicación y el seguimiento de los recursos humanos, físicos y financieros para garantizar la prestación del servicio educativo en condiciones de calidad, oportunidad y eficiencia.
 
@@ -2439,7 +2405,7 @@ El Ministerio de Educación Nacional construirá e implementará en su función 
 
 Es claro para el Ministerio que la construcción de un sector  educativo  eficiente  requiere  del  fortalecimiento de los mecanismos de participación. Por esta razón, continuará promoviendo la comunicación y la gestión participativa con la ciudadanía y los distintos actores del sector mediante información abierta para fines académicos o de gestión, y espacios de deliberación como foros, encuentros, mesas de trabajo, rendición de cuentas, entre otros.
 
-Del mismo modo, impulsará estrategias conducentes a ampliar la participación de proponentes en las distintas convocatorias contractuales. La identificación de fortalezas y debilidades en la prestación del servicio mantendrá el empeño en la promoción de la cultura del servicio como una de las principales características de gestión de la entidad, incorporada en sus valores institucionales y compromisos éticos.
+Del mismo modo, impulsará estrategias conducentes a ampliar la participación de proponentes en las distintas convocatorias contractuales. La identificación de fortalezas y debilidades en la prestación del servicio mantendrá el empeño en la promoción de la cultura del servicio como una de las principales características de gestión
 
 98
 
@@ -2450,24 +2416,23 @@ Del mismo modo, impulsará estrategias conducentes a ampliar la participación d
 PLAN SECTORIAL
 
 2010-2014
-
+de la entidad, incorporada en sus valores institucionales y compromisos éticos.
 La prestación de servicios eficientes y pertinentes a los  grupos de interés estará soportada en la optimización de los procesos, los sistemas de información, la estructura e infraestructura, el talento humano y la cultura organizacional, con el fin de garantizar la atención integral, el uso eficiente de los recursos públicos y la racionalización de trámites.
 
-El Ministerio dirigirá esfuerzos a fortalecer permanentemente las competencias laborales de sus servidores a través de un plan de capacitación que involucre no sólo los mecanismos presenciales sino que fortalezca medios virtuales e innovadores de transmisión de conocimiento estratégico para la organización, mediante su Escuela de Gestión con Calidad MENTOR. 24 1
+El Ministerio dirigirá esfuerzos a fortalecer permanentemente las competencias laborales de sus servidores a través de un plan de capacitación que involucre no sólo los mecanismos presenciales sino que fortalezca medios virtuales e innovadores de transmisión de conocimiento estratégico para la organización, mediante su Escuela de Gestión con Calidad MENTOR. 24
 
 En este sentido, el Ministerio fomentará la innovación y la gestión del conocimiento como elementos característicos de la organización y capitalizará el potencial humano de la entidad mediante la construcción de redes de conocimiento que fortalezcan el trabajo colaborativo y el aprendizaje organizacional, y contribuyan al mejoramiento continuo de la gestión de la entidad.
 
 Una acción que complementa el logro de este objetivo  será  la  continuidad  que  el  Ministerio  dará  a  la gestión  ambiental.  Por  ello,  trabajará  en  la  ejecución, sostenimiento  y  mejoramiento  de  programas  relacionados con el ahorro y uso eficiente del agua, la energía y el papel, y en la clasificación adecuada de residuos. Así mismo, avanzará en el componente de responsabilidad social.
 
 24 MENTOR: Escuela de Gestión con Calidad implementada en el MEN desde
+el 2009
 
 ### Fortalecimiento de la gestión de las Secretarías de Educación y establecimientos educativos
 
-El Gobierno Nacional brindará herramientas y apoyo a las Secretarías de Educación para que lideren procesos que conduzcan a mejorar la gestión del sector en las regiones, implementen las prácticas de rendición de cuentas y garanticen la prestación del servicio educativo en condiciones de calidad, oportunidad y eficiencia.
+El Gobierno Nacional brindará herramientas y apoyo a las Secretarías de Educación para que lideren procesos que conduzcan a mejorar la gestión del sector en las regiones, implementen las prácticas de rendición de cuentas y garanticen la prestación del servicio educativo en condiciones de calidad, oportunidad y eficiencia.
 
 99
-
-el 2009
 
 [[END OF PAGE 99]]
 
@@ -2531,7 +2496,7 @@ El Gobierno fortalecerá la gestión en las instituciones de educación superior
 
 La gestión educativa para alcanzar la calidad, además de ser una política que impulsa el Gobierno Nacional en el marco de la estrategia de Buen Gobierno, es uno de los puntos abordados en el Plan Decenal de Educación, en el que se acuerda un conjunto de objetivos, metas y acciones, orientados al fortalecimiento de la gestión educativa en tres direcciones: liderazgo, gestión y transparencia.
 
-La gestión educativa se presenta a las instituciones de educación superior como una oportunidad para alcanzar una real transformación del sistema y lograr un mayor impacto en la sociedad. Por consiguiente, la gestión es una estrategia que las instituciones, en la medida en que son una organización, tienen como herramienta para administrar de manera eficiente y transparente sus recursos, lograr una viabilidad económica y alcanzar las metas propuestas.
+La gestión educativa se presenta a las instituciones de educación superior como una oportunidad para alcanzar una real transformación del sistema y lograr un mayor impacto en la sociedad. Por consiguiente, la gestión es una estrategia que las instituciones, en la medida en que son una organización, tienen como herramienta
 
 102
 
@@ -2540,6 +2505,8 @@ La gestión educativa se presenta a las instituciones de educación superior com
 [[START OF PAGE 103]]
 
 PLAN SECTORIAL 2010-2014
+
+para administrar de manera eficiente y transparente sus recursos, lograr una viabilidad económica y alcanzar las metas propuestas.
 
 Por tal razón, en este cuatrienio el Ministerio de Educación Nacional se ha propuesto continuar apoyando el desarrollo de modelos de gestión institucional en la educación superior, que contribuyan a fortalecer las competencias de sus directivos, la planeación estratégica y el mejoramiento continuo de sus sistemas de gestión de la  calidad,  y  promuevan la toma de decisiones basada en indicadores, la gestión participativa, la rendición de cuentas,  la  autorregulación  y  transparencia  institucional y el buen gobierno universitario. Con ello se busca afianzar las estrategias del uso eficiente de los recursos, propender por la equidad y mejorar la calidad en la educación superior.
 
@@ -2577,19 +2544,21 @@ Para el año 2011, el SIET registra 3.016 instituciones de formación para el tr
 
 El Gobierno trabajará para garantizar que todos los colombianos, sin discriminación alguna, puedan acceder a los servicios que ofrecen las Tecnologías de Información y Comunicación, y para que estas sean una herramienta de transparencia y buen gobierno.
 
-El Gobierno Nacional ha establecido que 'Las entidades del Estado de los niveles nacional, departamental, distrital y municipal, en el ejercicio de sus competencias constitucionales y legales, promoverán el goce efectivo del derecho de acceso a todas las personas a la información y las comunicaciones, dentro de los límites establecidos por la Constitución y la Ley a través de Tecnologías de la Información y las Comunicaciones y se abstendrán de establecer barreras, prohibiciones y restricciones que impidan dicho acceso' 25 2
+El Gobierno Nacional ha establecido que “Las entidades del Estado de los niveles nacional, departamental, distrital y municipal, en el ejercicio de sus competencias constitucionales y legales, promoverán el goce efectivo del derecho de acceso a todas las personas a la información y las comunicaciones, dentro de los límites establecidos por la Constitución y la Ley a través de Tecnologías de la Información y las Comunicaciones y se abstendrán de establecer barreras, prohibiciones y restricciones que impidan dicho acceso” 25
 
-En el cumplimiento de la Ley, el Gobierno trabajará en la estrategia de igualdad de oportunidades que garanticen  a  cada  colombiano  el  acceso  a  herramientas básicas que le permitan labrar su propio destino, sin ser discriminado por razones de género, étnicas, sociales o culturales. En este sentido, la Gestión de Tecnología en el sector está orientada a fortalecer los sistemas de información, los servicios de Tecnología de Información y Comunicaciones (TIC), el acceso a TIC y la infraestructura tecnológica.
-
-104
+En el cumplimiento de la Ley, el Gobierno trabajará en la estrategia de igualdad de oportunidades que ga-
 
 25 Ley 1450 de 2011. Artículo 55. Accesibilidad a servicios TIC
+
+104
 
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
 
 PLAN SECTORIAL 2010-2014
+
+ranticen a cada colombiano el acceso a herramientas básicas que le permitan labrar su propio destino, sin ser discriminado por razones de género, étnicas, sociales o culturales. En este sentido, la Gestión de Tecnología en el sector está orientada a fortalecer los sistemas de información, los servicios de Tecnología de Información y Comunicaciones (TIC), el acceso a TIC y la infraestructura tecnológica.
 
 #### Fortalecimiento de los sistemas de información
 
@@ -2601,7 +2570,7 @@ En este propósito, trabajará en la interoperabilidad de los sistemas de inform
 
 #### Fortalecimiento de servicios TIC
 
-Una de las prioridades del Gobierno Nacional es promover la implementación de la estrategia de Gobierno en Línea y Antitrámites, al interior de todas las entidades del orden territorial y nacional, lo que conlleva a la construcción de un Estado más eficiente, transparente y participativo que, mediante el aprovechamiento de las TIC, preste mejores servicios a toda la sociedad. 26 3
+Una de las prioridades del Gobierno Nacional es promover la implementación de la estrategia de Gobierno en Línea y Antitrámites, al interior de todas las entidades del orden territorial y nacional, lo que conlleva a la construcción de un Estado más eficiente, transparente y participativo que, mediante el aprovechamiento de las TIC, preste mejores servicios a toda la sociedad. 26
 
 Para  contribuir  a  este  propósito,  todas  las  áreas  del Ministerio  de  Educación  Nacional  brindarán  apoyo  al sector facilitando la ejecución y prestación de servicios web que otorguen valor agregado y converjan en una relación más eficaz, eficiente y transparente con los ciudadanos.
 
@@ -2667,19 +2636,19 @@ Línea Base                          Meta 2014
 
 ## Brindar educación inicial de calidad en el marco de una atención integral
 
-### Ampliación de cobertura
-
-### Calidad y pertinencia de la educación inicial
-
-### Fortalecimiento de la educación inicial en el marco de una atención integral
+### 1. Ampliación de cobertura
 
 Continuidad y ampliación de cobertura con atención por 11 meses | 387.038 | 1.200.000 Meta País
 --- | --- | ---
+
+### 2. Calidad y pertinencia de la educación inicial
 
 Formación de agentes educativos | 23.161 | 69.161
 --- | --- | ---
 Construcción y validación de los Lineamientos Técnicos Pedagógicos
 Diseño e implementación del Sistema de Aseguramiento de la Calidad
+
+### 3. Fortalecimiento de la educación inicial en el marco de una atención integral
 
 Fortalecimiento de la educación inicial en las Secretarías de Educación | 94
 --- | ---
@@ -2688,7 +2657,7 @@ Fortalecimiento de la educación inicial en las Secretarías de Educación | 94
 
 ### Educación Preescolar, Básica y Media
 
-#### Programa de Transformación
+#### 1. Programa de Transformación
 
 Establecimientos educativos acompañados en el programa de Transformación de la Calidad
 
@@ -2698,28 +2667,28 @@ Establecimientos educativos acompañados en el programa de Transformación de la
 
 Colombia, uno de los tres países con mejor calidad en América Latina, según prueba PISA.
 
-#### Cierre de brechas en calidad
-
-#### Formación para la ciudadanía
+#### 2. Cierre de brechas en calidad
 
 Instituciones educativas que implementan el Plan de Lectura y Escritura | 6.900
 --- | ---
 Secretarias de Educación que implementan estrategias para el mejoramiento y la jornada extendida y complementaria | 52
 Educadores acompañados en sus prácticas para la transformación de la calidad | 70.000
 
+#### 3. Formación para la ciudadanía
+
 Instituciones Educativas con proyectos para desarrollar competencias ciudadanas | 15% | 100%
 --- | --- | ---
 
 ### Educación Superior
 
-#### Fortalecimiento del desarrollo de competencias genéricas y específicas
-
-#### Fortalecimiento del Sistema de Evaluación
+#### 1. Fortalecimiento del desarrollo de competencias genéricas y específicas
 
 Programas técnicos y tecnológicos con enfoque de competencias | 25% | 80%
 --- | --- | ---
 Programas universitarios organizados por ciclos | 4% | 10%
 Definición de competencias generales y específicas para todas las áreas
+
+#### 2. Fortalecimiento del Sistema de Evaluación
 
 Reestructurar las pruebas SABER PRO (antiguos ECAES) para evaluar competencias
 
@@ -2733,7 +2702,7 @@ Iniciar la medición del país en AHELO
 
 PLAN SECTORIAL 2010-2014
 
-#### Fortalecimiento del Sistema de Aseguramiento de la Calidad
+#### 3. Fortalecimiento del Sistema de Aseguramiento de la Calidad
 
 Matrícula impactada acompañando IES en procesos de acreditación de alta calidad | 0% | 20%
 --- | --- | ---
@@ -2746,13 +2715,13 @@ Programas técnicos y tecnológicos del Sena con registro calificado | 4% | 100%
 
 ### Formación para el trabajo y desarrollo urbano
 
-#### Fortalecimiento del desarrollo de competencias
-
-#### Fortalecimiento del Sistema de Aseguramiento de la Calidad
+#### 1. Fortalecimiento del desarrollo de competencias
 
 Programas de formación para el trabajo por competencias laborales | 30% | 100%
 --- | --- | ---
 Creación del sistema nacional de competencias laborales (Con el MPS)
+
+#### 2. Fortalecimiento del Sistema de Aseguramiento de la Calidad
 
 Programas con certificación de calidad | 1% | 15%
 --- | --- | ---
@@ -2763,14 +2732,12 @@ Programas con registro calificado | 50%
 
 ### Educación Preescolar, Básica y Media
 
-#### Disminución del analfabetismo
-
-#### Ampliación de Cobertura
-
-#### Disminución de la deserción
+#### 1. Disminución del analfabetismo
 
 Tasa de analfabetismo de población de 15 años y más | 6.7% | 5.7%
 --- | --- | ---
+
+#### 2. Ampliación de Cobertura
 
 Cobertura Bruta Transición | 90% | 100%
 --- | --- | ---
@@ -2780,31 +2747,33 @@ Cobertura Neta EPBM | 90% | 94%
 Nuevos cupos | 600.000
 --- | ---
 
+#### 3. Disminución de la deserción
+
 Tasa de deserción intra-anual | 5% | 3.8%
 --- | --- | ---
 
 ### Educación Superior
 
-#### Aumento de Cobertura
-
-#### Fortalecimiento de la financiación
-
-#### Ampliación y fortalecimiento de la regionalización
-
-#### Disminución de la deserción
+#### 1. Aumento de Cobertura
 
 Tasa de cobertura | 37% | 50%
 --- | --- | ---
 Participación T&T | 33% | 45%
 Nuevos cupos | 645.00
 
+#### 2. Fortalecimiento de la financiación
+
 Estudiantes con apoyo financiero del estado | 66% | 75%
 --- | --- | ---
 Estudiantes con crédito educativo de largo plazo | 18,6% | 23%
 Incremento de financiación | Reforma Ley 30
 
+#### 3. Ampliación y fortalecimiento de la regionalización
+
 Municipios con oferta de educación superior | 62% | 75%
 --- | --- | ---
+
+#### 4. Disminución de la deserción
 
 Tasa de deserción intra-anual | 12% | 9%
 --- | --- | ---
@@ -2817,7 +2786,7 @@ Tasa de deserción intra-anual | 12% | 9%
 
 ## Educar con pertinencia e incorporar innovación en la educación
 
-### Innovación en todos los niveles de la educación
+### 1. Innovación en todos los niveles de la educación
 
 Centros Regionales de innovación educativa | 0 | 5
 --- | --- | ---
@@ -2835,28 +2804,28 @@ Establecimientos educativos con proyectos de emprendimiento | ND | 30%
 Oferta de programas de investigación acordes con las áreas estratégicas para el desarrollo del país
 Liderar la estrategia de gestión de capital humano.
 
-### Fomento a la internacionalización de la educación superior
+### 3. Fomento a la internacionalización de la educación superior
 
 Acuerdos internacionales para el reconocimiento mutuo de títulos | 4 | 8
 --- | --- | ---
 Instituciones de educación superior con planes de internacionalización | 54% | 70%
 Acreditación internacional del CNA | 0 | 1
 
-110
-
 ## Fortalecer la gestión del sector para ser modelo de eficiencia y transparencia
 
-### Fortalecimiento  de  la  eficiencia  y  transparencia  del sector
-
-### Fortalecimiento y modernización de la Gestión de las Secretarías de Educación y sus establecimientos educativos.
+### 1. Fortalecimiento de la eficiencia y transparencia del sector
 
 Adopción del Manual de Buen Gobierno por parte de las IES | 0% | 50%
 --- | --- | ---
 Mejorar el resultado del índice de transparencia obtenido por el sector | Último quintil | Segundo quintil
 Lograr, para el Ministerio, el Premio Iberoamericano de Innovación y Gestión en Calidad
 
+### 2. Fortalecimiento y modernización de la Gestión de las Secretarías de Educación y sus establecimientos educativos.
+
 Certificación en gestión de calidad de las Secretarías de Educación | 55% | 100%
 --- | --- | ---
+
+110
 
 [[END OF PAGE 110]]
 
