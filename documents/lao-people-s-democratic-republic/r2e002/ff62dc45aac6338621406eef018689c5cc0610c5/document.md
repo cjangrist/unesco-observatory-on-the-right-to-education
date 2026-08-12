@@ -1,10 +1,11 @@
 [[START OF PAGE 1]]
 
+Lao People Democratic Republic
+Peace Independence Democracy Unity Prosperity
+
 Ministry of Education and Sports
 
 # Education and Sports Sector Development Plan (2016-2020)
-
-Lao People Democratic Republic Peace Independence Democracy Unity Prosperity
 
 Vientiane, December 2015
 
@@ -14,11 +15,85 @@ Vientiane, December 2015
 
 # Table of content
 
+PREAMBLE ........................................................................................................................................ i
+ACKNOWLEDGMENT ....................................................................................................................... ii
+PART I .............................................................................................................................................. 1
+EDUCATION AND SPORTS SECTOR DEVELOPMENT PLAN .............................................................. 1
+2016-2020 ....................................................................................................................................... 1
+I. INTRODUCTION ....................................................................................................................... 1
+1.1 IMPORTANCE OF EDUCATION: ......................................................................................... 1
+1.2 BACKGROUND TO DEVELOPMENT OF THE EDUCATION SECTOR .................................... 1
+1.3 APPROACH TO DEVELOP ESDP 2016-2020 ....................................................................... 2
+II. THE ACHIEVEMENTS AND CHALLENGES OF THE SECTOR ....................................................... 3
+2.1. IMPLEMENTATION OF ESDP 2011-2015 .......................................................................... 3
+2.2. THE ACHIEVEMENT OF THE IMPLEMENTATION OF MDG’S AND EFA GOALS .................. 3
+2.3. CHALLENGES AND NEXT STEPS: ....................................................................................... 5
+III. EDUCATION VISION TO 2030 .................................................................................................. 6
+3.1 VISION AND MISSION ....................................................................................................... 6
+3.2 GENERAL DIRECTION ........................................................................................................ 7
+3.3 EDUCATION AND SPORTS DEVELOPMENT STRATEGY TO 2025 ....................................... 7
+IV. GOALS, PURPOSES AND OUTCOMES OF ESDP 2016-20 ......................................................... 8
+4.1 OVERALL GOAL ................................................................................................................. 8
+4.2 OVER-ARCHING OUTCOME .............................................................................................. 9
+4.3 OBJECTIVES AND TARGETS ............................................................................................... 9
+4.4 Expected outcomes ........................................................................................................ 10
+V. RESOURCES AND FINANCIAL REQUIREMENT FOR ESDP 2016-20 ........................................ 24
+5.1 BACKGROUND ................................................................................................................ 24
+5.2 ESDP 2016-2020 FINANCING REQUIREMENTS............................................................... 26
+5.3 DOMESTIC RESOURCES PROJECTION ............................................................................. 27
+5.4 EXTERNAL RESOURCES ................................................................................................... 28
+VI. IMPLEMENTATION, M&E FRAMEWORK FOR ESDP 2016-20 ................................................ 29
+6.1 IMPLEMENTATION ARRANGEMENT .............................................................................. 29
+6.2 FINANCIAL ARRANGEMENTS FOR ESDP IMPLEMENTATION ......................................... 30
+6.3 MONITORING AND EVALUATION FRAMEWORK FOR ESDP 2016-20 ............................. 31
+6.4 ESDP PROGRESS REPORTING ......................................................................................... 32
+6.5 MONITORING AND EVALUATION: SUPPORTING STRUCTURES ..................................... 32
+6.6 KEY PERFORMANCE INDICATORS (KPIS) FOR MONITORING AND EVALUATION ........... 33
+Part II ............................................................................................................................................... 1
+Education Sub-sector Development Plan ....................................................................................... 1
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+(2016-2020) ..................................................................................................................................... 1
+1. EARLY CHILDHOOD EDUCATION (ECE) .................................................................................. 36
+1.1. Background: ................................................................................................................... 36
+1.2. Objective and targets ..................................................................................................... 36
+1.3. Strategy .......................................................................................................................... 37
+1.4. Projected enrolment and resources requirements. ...................................................... 38
+2. PRIMARY EDUCATION ........................................................................................................... 39
+2.1. Background ..................................................................................................................... 39
+2.2. Objectives and targets ................................................................................................... 40
+2.3. Strategy .......................................................................................................................... 40
+2.4. Projected enrolment and resources requirements ....................................................... 42
+3. LOWER SECONDARY EDUCATION ......................................................................................... 43
+3.1 Background: ................................................................................................................... 43
+3.2 Objectives and targets ................................................................................................... 44
+3.3 Strategy: ......................................................................................................................... 45
+3.4 Enrolment and Financial projection ............................................................................... 46
+4. UPPER SECONDARY EDUCATION .......................................................................................... 46
+4.1 Background ..................................................................................................................... 46
+4.2 Objectives and targets ................................................................................................... 47
+4.3 Strategy .......................................................................................................................... 48
+4.4 Enrolment and financial projections .............................................................................. 49
+5. NON-FORMAL EDUCATION ................................................................................................... 49
+5.1 Background ..................................................................................................................... 49
+5.2 Objectives and Targets ................................................................................................... 50
+5.3 Target group of non-formal education: ......................................................................... 50
+5.4 Strategy .......................................................................................................................... 51
+5.5 Budget projection ........................................................................................................... 54
+6. TEACHER EDUCATION ........................................................................................................... 54
+6.1. Background ..................................................................................................................... 54
+6.2. Objectives and Targets ................................................................................................... 56
+6.3. Strategy .......................................................................................................................... 57
+6.4. Enrolment projection and budget requirement ........................................................... 60
+7. VOCATIONAL EDUCATION AND TRAINING ........................................................................... 61
+7.1 Background ..................................................................................................................... 61
+7.2 Objectives and Targets ................................................................................................... 62
+7.3 Strategies ........................................................................................................................ 62
 
 ii
 
@@ -26,11 +101,62 @@ ii
 
 [[START OF PAGE 4]]
 
+7.4 Enrolment projection and Financial requirement ......................................................... 64
+8. HIGHER EDUCATION ............................................................................................................. 65
+8.1. Background ..................................................................................................................... 65
+8.2. Objectives and targets ................................................................................................... 66
+8.3. Strategies: ....................................................................................................................... 67
+8.4. Enrolment projection and budget requirements (millions kip) ..................................... 70
+9. EDUCATION ADMINISTRATION AND MANAGEMENT ........................................................... 70
+9.1 Background: ................................................................................................................... 70
+9.2 Objectives ....................................................................................................................... 71
+9.3 Strategies ........................................................................................................................ 71
+9.4 Financial projection ........................................................................................................ 75
+10. SPORTS ........................................................................................................................... 75
+10.1. Background ................................................................................................................. 75
+10.2. Objectives: .................................................................................................................. 76
+10.3. Targets ........................................................................................................................ 76
+10.4. Strategies .................................................................................................................... 77
+
 iii
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Figure 1 – Education budgets under the ESDP 2011-2015 (in kip, current prices) ...................... 25
+Table 1 – ESDP 2011-2015 financial targets compared to actual allocations .............................. 25
+Table 2 – Financing requirements for ESDP 2016-2020 implementation (millions of kip) .......... 26
+Table 3 – Education budget composition under ESDP 2016-2020 (in % of financing .................. 26
+Table 4 – Sub-sector shares of the financing requirements (%) ................................................... 27
+Table 5 – Budget constraint and financing gap/surplus: (millions of kip) .................................... 28
+Table 6 – Pledged ODA (millions of Kip) ....................................................................................... 28
+Table 7: External assistance to education sub-sectors by Major Development Partners ............ 29
+Table 8: Key Indicators for monitoring and evaluation ................................................................ 33
+Table 9: Comparison of indicators of ECE from 2010-2015 ......................................................... 36
+Table 10 : Expected enrolments in ECE ........................................................................................ 38
+Table 11: Financial requirements for ECE (millions of kip) ........................................................... 39
+Table 12: Comparison of key indicators of primary education from 2010-2015 ......................... 39
+Table 12: Comparison of internal efficiency for primary education ........................................... 40
+Table 13: Enrolment projections to primary education .............................................................. 43
+Table 14: Financial requirements for primary education (millions of kip) ................................... 43
+Table 15: Comparison of secondary education data by school year 2010-2015 ......................... 44
+Table 16: Enrolment projections in lower secondary education ................................................. 46
+Table 17: Financial requirements for lower secondary education (millions of kip) .................... 46
+Table 18: Comparison upper secondary education indicators from 2010-2015 ......................... 47
+Table 19: Enrolment projections for upper secondary education ............................................... 49
+Table 20: Financial requirements for upper secondary education (millions of kip) .................... 49
+Table 21: Budget requirements for non-formal education (millions of kip) ................................ 54
+Table 22: Teacher education ........................................................................................................ 55
+Table 23: Graduate teachers-students in each year ..................................................................... 55
+Table 24: Enrolment projections at teacher education institutes ................................................ 61
+Table 25: Budget requirements for teacher education (millions of kip) ...................................... 61
+Table 26: Enrolment projections for vocational education .......................................................... 64
+Table 27: Financial requirements for vocational education (millions of kip) .............................. 65
+Table 28: Enrolment projections at four universities .................................................................. 70
+Table 29: Financial requirements ................................................................................................. 70
+Table 30: Financial requirements for education administration and management (millions of kip) ................................................................................................................................................ 75
+Table 31: Financial requirements for sports ................................................................................. 80
 
 iv
 
@@ -40,7 +166,7 @@ iv
 
 # PREAMBLE
 
-This  Education  Sector  Development  Plan  (ESDP)  for  2016-2020  draws  on  the  achievements, challenges and lessons learned from the Education Sector Development Plan 2011-2015.  Based on the evidence collected during the Midterm Review, the National EFA 2015 Review and final evaluation and progress made towards meeting the Millennium Development Goals targets for Education,  this  plan  outlines  how  the  Education  Sector  will  support  the  achievement  of  the overall goals and vision of the 8 th  Five-Year National Socio-economic Development Plan (20162020).    Additionally,  the  development  of  the  ESDP  2016-2020  considers  how  to  achieve  the education  vision  to  2030  and  strategies  to  2025.    The  internationally  developed  post-2015 Education Agenda has been a key reference for the identification of policies, strategies, and targets in this sector development plan.
+This Education Sector Development Plan (ESDP) for 2016-2020 draws on the achievements, challenges and lessons learned from the Education Sector Development Plan 2011-2015. Based on the evidence collected during the Midterm Review, the National EFA 2015 Review and final evaluation and progress made towards meeting the Millennium Development Goals targets for Education, this plan outlines how the Education Sector will support the achievement of the overall goals and vision of the 8th Five-Year National Socio-economic Development Plan (2016-2020). Additionally, the development of the ESDP 2016-2020 considers how to achieve the education vision to 2030 and strategies to 2025. The internationally developed post-2015 Education Agenda has been a key reference for the identification of policies, strategies, and targets in this sector development plan.
 
 The key objective of the five-year ESDP (2016-2020) is to build on the policies and strategies of the government to enable the Lao PDR to be eligible to graduate from the ranks of the least developed countries by 2020. This ESDP 2016-2020 will serve as a key reference document for development partners in developing their own programmes to support education development of the Lao government to create opportunities for all Lao citizens to have equitable access to quality education.
 
@@ -48,7 +174,9 @@ In response to the Vientiane Declaration, the Education Sector Development Plan 
 
 The Lao version of this document includes additional information to provide more context. The English version is shorter to make it more readable. I fully trust that this document will provide guidance for government agencies at all levels and development partners in their joint efforts and collaboration toward achieving the National Development Goals of the government and achieving the implementation of education related programmes and activities that can ensure education quality based on the mandates, roles and responsibility of each level.
 
-Vientiane, date Minister of Ministry of Education and Sports
+Vientiane, date
+Minister of Ministry of Education and Sports
+Sengdeuane LACHANTHABOUN
 
 i
 
@@ -102,7 +230,7 @@ The Education Sector Development Plan for 2016-2020 (ESDP 2016-20) responds to t
 
 ### 1.2 BACKGROUND TO DEVELOPMENT OF THE EDUCATION SECTOR
 
-The 8 th   Lao People's Revolutionary Party Congress of 2006 emphasized its long-term national development goal of enabling the Lao People's Democratic Republic (Lao PDR) to be eligible to graduate from the ranks of least developed countries by 2020, and to build basic human and physical  infrastructure  for  the  shift  to  industrialization  and  modernity.  The  Congress  also confirmed that education is the main focus for human resources development and that reform of the national education system is urgently required for the improvement of educational quality and standards.
+The 8th Lao People’s Revolutionary Party Congress of 2006 emphasized its long-term national development goal of enabling the Lao People’s Democratic Republic (Lao PDR) to be eligible to graduate from the ranks of least developed countries by 2020, and to build basic human and physical infrastructure for the shift to industrialization and modernity. The Congress also confirmed that education is the main focus for human resources development and that reform
 
 1
 
@@ -112,7 +240,9 @@ The 8 th   Lao People's Revolutionary Party Congress of 2006 emphasized its long
 
 Education Sector Development Plan 2016-2020
 
-As a result, the Ministry of Education and Sports drafted the National Education System Reform Strategy  (NESRS)  2006-2015.  This  was  followed  by  development  of  the  Education  Sector Development  Framework  2009-15 which outlined a policy framework for educational development.  Together  these  two  documents  provided  the  necessary  foundation  for  the Education  Sector  Development  Plan  2011-15.  Both  the  Government  of  the  Lao  PDR  and  its development partners endorsed the Education Sector Development Plan 2011-15 and adopted it  as  the  basis  of  budget  formulation  and  external  financing  support.  An  extensive  mid-term review of the Education Sector Development Plan 2011-15 was implemented in mid-2013. The results of this review together with the National EFA 2015 Review have informed the drafting of the  current  education  sector plan,  the  Education  Sector Development Plan  2016-2020  (ESDP 2016-20).
+of the national education system is urgently required for the improvement of educational quality and standards.
+
+As a result, the Ministry of Education and Sports drafted the National Education System Reform Strategy (NESRS) 2006-2015. This was followed by development of the Education Sector Development Framework 2009-15 which outlined a policy framework for educational development. Together these two documents provided the necessary foundation for the Education Sector Development Plan 2011-15. Both the Government of the Lao PDR and its development partners endorsed the Education Sector Development Plan 2011-15 and adopted it as the basis of budget formulation and external financing support. An extensive mid-term review of the Education Sector Development Plan 2011-15 was implemented in mid-2013. The results of this review together with the National EFA 2015 Review have informed the drafting of the current education sector plan, the Education Sector Development Plan 2016-2020 (ESDP 2016-20).
 
 Since 2011, a number of sub-sectoral policies and action plans have been developed such as an Inclusive Education Policy, a Teacher Education Strategy and Action Plan, a Policy on Promoting School Meals, a Decree on Teachers, Sports Law, Sports Development Strategy to 2020 and TVET Master Plan. The 2007 Education Law has also been amended and endorsed by the National Assembly  as  of  July  2015.  The  ESDP  2016-20  accommodates  all  of  these  documents  as appropriate.
 
@@ -122,7 +252,7 @@ Before drafting the content of the ESDP 2016-2020, a Theory of Change approach w
 
 Workshops  of  the  four  Focal  Groups 1   were  held  to  identify  the  overall  goal,  purpose  and expected outcomes of the ESDP 2016-2020. This Theory of Change was then taken to various regional  workshops  where  PESS  staff  worked  to  identify  the  necessary  interventions  and intermediate outcomes necessary to achieve the 2020 expected outcomes. The resulting Theory of Change for ESDP 2016-2020 links very closely to Sustainable Development Goals of UN 2  and the 2015 UNESCO Muscat Agreement 3 . The expected outcomes are consistent with the Incheon Declaration 4 on  the  Future  of  Education  that ' encourages  countries  to  ensure  inclusive  and equitable quality education and  promote  life-long learning opportunities for all'. This Declaration will underpin the education targets in the Sustainable Development Goals.
 
-In addition to a participatory approach to developing the strategic plan for the education sector for  2016-2020,  more  detailed  sub-sectoral  plans  have  been  drafted  by  the  respective  line departments  and  these  are  also  included,  as  Part  Two,  since  they  provide  more  detailed descriptions  of  how  the  various  interventions  support  achievement  of  the  broader  expected outcomes as defined by the ESDP Theory of Change.
+In addition to a participatory approach to developing the strategic plan for the education sector for 2016-2020, more detailed sub-sectoral plans have been drafted by the respective line departments and these are also included, as Part Two, since they provide more detailed
 
 > 1  Basic Education Focal Group; Post-Basic Education Focal Group, Planning, Budgeting and Monitoring Focal Group; and the Research Focal Group
 
@@ -141,6 +271,8 @@ In addition to a participatory approach to developing the strategic plan for the
 [[START OF PAGE 11]]
 
 Education Sector Development Plan 2016-2020
+
+descriptions of how the various interventions support achievement of the broader expected outcomes as defined by the ESDP Theory of Change.
 
 ## II. THE ACHIEVEMENTS AND CHALLENGES OF THE SECTOR
 
@@ -188,7 +320,7 @@ Goal 2. Universal Primary Education: See MDG 2 above.
 
 Goal 3: Life skills and lifelong learning : Enrolments in NFE equivalency primary programmes and secondary  education  have  increased  every  year.  In  2014-2015,  Laos  was  able  to  announce nationwide completion of the Primary Education Equivalency Programme in 42 districts and one province,  Xayyabouly,  also  announced  completion  of  the  Secondary  Education  Equivalency Programme.
 
-Goal 4: Literacy- Adult Literacy Rate : In general, the availability of information related to the literacy  rate  is  limited.  According  to  information  from  some  available  sources,  there  was  no significant  improvement  in  literacy  over  the  period.  For  example,  according  to  the  results obtained  from  the  Population  Census  (2005)  and  Labour  Force  Survey  (2010),  no  significant progress was seen over the period (73% in population census (2005) vs. 74% in Labour Force Survey (2010)). National functional literacy rates are difficult to estimate except through some sample surveys. Both the Multiple Indicator Cluster Survey (2006) and the Lao Social Indictor Survey (2011/12) tested functional literacy status of young females 6  (15 - 24 years) by the wealth index generated from MICS and LSIS. The female literacy rate is almost the same over the fiveyear period, although a slight increase was found among the lowest and third quintile families.
+Goal 4: Literacy- Adult Literacy Rate: In general, the availability of information related to the literacy rate is limited. According to information from some available sources, there was no significant improvement in literacy over the period. For example, according to the results obtained from the Population Census (2005) and Labour Force Survey (2010), no significant progress was seen over the period (73% in population census (2005) vs. 74% in Labour Force Survey (2010)). National functional literacy rates are difficult to estimate except through some sample surveys. Both the Multiple Indicator Cluster Survey (2006) and the Lao Social Indictor Survey (2011/12) tested functional literacy status of young females 6 (15 – 24 years) by the wealth index generated from MICS and LSIS. The female literacy rate is almost the same over the five-year period, although a slight increase was found among the lowest and third quintile families.
 
 Goal 5: Gender parity and equality in education : See MDG3 above
 
@@ -244,7 +376,7 @@ outcomes for mathematics were also critically low, partly linked to poor languag
 
 - The  Progressive  Promotion  Policy  was  developed  to  address  poor  student  learning, specifically to reduce repetition. The successful implementation of the policy requires schools to provide these students with remedial support and additional lessons during the vacation period. Grade 1 repetition rates remain high with 40 districts having rates higher than 20% in 2014/15.
 
-- An analysis of EMIS data from school year 2013/14 on school education reveals that there is a need to improve the efficiency of teacher deployment within all provinces especially in rural and remote primary schools, in line with Ministerial Decree 177/Gov. on pupilteacher ratios.
+- An analysis of EMIS data from school year 2013/14 on school education reveals that there is a need to improve the efficiency of teacher deployment within all provinces especially in rural and remote primary schools, in line with Ministerial Decree 177/Gov. on pupil-teacher ratios.
 
 - Improvements in gender parity (MDG-3) have been constrained by limited awareness and acceptance of  (i)  gender  equality  and  special  support  in  increasing  opportunities  and claiming women's rights as important issues that need to be addressed; and (ii) the rights of all children, adolescents and young people to access education. There will need to be system-wide attention to the needs of out-of-school children, adolescents and young people, including those with disabilities, child labourers and others presently unable to access education.
 
@@ -282,13 +414,13 @@ Based on the government's vision and strategy, the Ministry of Education and Spo
 
 In order to achieve this vision, the Ministry of Education and Sports (MoES) needs to focus on the following missions:
 
-- Aim to achieve compulsory primary education and expand it up to lower secondary level by  ensuring  everyone  has  access  to  education  and  is  ready  to  contribute  to  socialeconomic development.
+- Aim to achieve compulsory primary education and expand it up to lower secondary level by ensuring everyone has access to education and is ready to contribute to social-economic development.
 
 - Completely eradicate illiteracy across all ethnic groups by promoting lifelong learning in order to improve their living conditions.
 
 - Promote  learning-teaching  of  basic  vocational  skills  in  secondary  education,  improve technical, vocational and higher education focusing on improving quality and ensuring that students have skills that meet the needs of the labour market and that graduates can enter the workforce.
 
-- Training skilled labour, technicians, professionals and officials to have knowledge and the ability to use science and modern information technology to meet the needs of socioeconomic development.
+- Training skilled labour, technicians, professionals and officials to have knowledge and the ability to use science and modern information technology to meet the needs of socio-economic development.
 
 - Improve the quality and relevance of education so that the learners can be equipped with the knowledge necessary for socio-economic development, and provide skills and basic knowledge so that they can run family businesses, particularly in remote areas.
 
@@ -350,7 +482,7 @@ The Ministry of Education and Sports has set the overall goal for the ESDP from 
 
 Over the past five years with the assistance of development partners supporting the Poverty Reduction Support Operation (PRSO 1-9) the Lao economy has grown rapidly. The objective is to transform  the  commercial  and  investment  environment,  improve  social  services  using  the country's natural resources to benefit the health and education of the Lao population.
 
-Improvements to education and cross-cutting human resources development will change the socio-economic context in the Lao PDR, leading to improved livelihoods and stronger national socio-economic  development  growth.  In  order  to  achieve  this,  an  appropriate  education structure and system improvement is required to ensure consistent and sufficient resources. An appropriate  structure  will  ensure  that  the  school-age  population  can  access  five  grades  of primary education ensuring that the majority of these students will also be able to make the transition to, and complete lower secondary education. It will also ensure that all students will be able to enrol in community-based readiness programmes for early childhood education. Thus, children and youth will have the necessary skills and knowledge to contribute to national socioeconomic development, and benefit from development.
+Improvements to education and cross-cutting human resources development will change the socio-economic context in the Lao PDR, leading to improved livelihoods and stronger national socio-economic development growth. In order to achieve this, an appropriate education structure and system improvement is required to ensure consistent and sufficient resources. An appropriate structure will ensure that the school-age population can access five grades of primary education ensuring that the majority of these students will also be able to make the transition to, and complete lower secondary education. It will also ensure that all students will be able to enrol in community-based readiness programmes for early childhood education. Thus, children and youth will have the necessary skills and knowledge to contribute to national socio-economic development, and benefit from development.
 
 8
 
@@ -514,7 +646,7 @@ Recent assessments (EGRA and ASLO) at Grades 3 and 5 have demonstrated that curr
 
 ##### Responsible departments:
 
-Achievement of this strategic outcome is the joint responsibility of the Department of Preschool and Primary Education the Department of Teacher Education, the Research Institute for  Educational  Sciences,  the  Education  and  Sports  Research  Centre,  the  Institute  for Education Administrators Development and the Research Institute for Educational Sciences.
+Achievement of this strategic outcome is the joint responsibility of the Department of Pre-school and Primary Education the Department of Teacher Education, the Research Institute for Educational Sciences, the Education and Sports Research Centre, the Institute for Education Administrators Development and the Research Institute for Educational Sciences.
 
 ##### Intermediate outcomes:
 
@@ -562,11 +694,11 @@ Education Sector Development Plan 2016-2020
 
 ##### Rationale:
 
-MoES  has  prioritized  the  need  to  improve  the  quality  of  learning  outcomes  through improved teaching across the whole curriculum, but there are a number of issues to be overcome for this to occur. Issues include: (i) insufficient numbers of secondary teachers to cover  all  subjects  of  the  curriculum,  (ii)  pre-service  and  in-service  teacher  education programmes for all levels of schools are not fully aligned with current school curriculum requirements,  (iii)  many  primary  schools  are  not  delivering  the  complete  curriculum requirements largely due to insufficient time, (iv) personnel involved in pre-service and inservice teacher education programmes do not have the required knowledge, experience of teaching and pedagogical skills to effectively deliver the curricula and (v) inadequate teacher trainee practicum during pre-service training
+MoES has prioritized the need to improve the quality of learning outcomes through improved teaching across the whole curriculum, but there are a number of issues to be overcome for this to occur. Issues include: (i) insufficient numbers of secondary teachers to cover all subjects of the curriculum, (ii) pre-service and in-service teacher education programmes for all levels of schools are not fully aligned with current school curriculum requirements, (iii) many primary schools are not delivering the complete curriculum requirements largely due to insufficient time, (iv) personnel involved in pre-service and in-service teacher education programmes do not have the required knowledge, experience of teaching and pedagogical skills to effectively deliver the curricula and (v) inadequate teacher trainee practicum during pre-service training
 
 ##### Responsible departments:
 
-Achievement of this strategic outcome is the joint responsibility of the Department of Preschool and Primary Education, the Department of Secondary Education, the Department of Teacher Education, for the Education and Sports Research Centre, the Education Standard and Quality Assurance Centre, the Teacher Development Centre and the Research Institute for Educational Sciences.
+Achievement of this strategic outcome is the joint responsibility of the Department of Pre-school and Primary Education, the Department of Secondary Education, the Department of Teacher Education, for the Education and Sports Research Centre, the Education Standard and Quality Assurance Centre, the Teacher Development Centre and the Research Institute for Educational Sciences.
 
 13
 
@@ -580,7 +712,7 @@ Education Sector Development Plan 2016-2020
 
 - Pre-service  teacher  education  curricula  become  better  aligned  with  ECE,  primary  and secondary curricula and extended practicum included in the training.
 
-- Appropriate  instructional  materials/modules/learning  resources  for  pre-service  and  inservice  teacher  training  are  improved,  with  priority  given  to  improving  literacy  and numeracy in primary curricula.
+- Appropriate instructional materials/modules/learning resources for pre-service and in-service teacher training are improved, with priority given to improving literacy and numeracy in primary curricula.
 
 - National Competency-based Teacher Standards developed and trialled.
 
@@ -668,7 +800,7 @@ Education Sector Development Plan 2016-2020
 
 - The requirements and regulatory framework for appointment and deployment of teacher education personnel will be reviewed and revised to improve efficiency.
 
-#### 4.4.5 Outcome 5:  Increased numbers of basic education graduates who have acquired basic skills and knowledge and can apply for work in the labour market or continue postbasic education or become entrepreneurs.
+#### 4.4.5 Outcome 5: Increased numbers of basic education graduates who have acquired basic skills and knowledge and can apply for work in the labour market or continue post-basic education or become entrepreneurs.
 
 ##### Rationale:
 
@@ -676,7 +808,7 @@ MoES has prioritised the need to address concerns around the insufficient knowle
 
 ##### Responsible departments:
 
-Achievement of this strategic outcome is the joint responsibility of the Department of PrePrimary and Primary, the Department of Secondary Education, the Department of Technical and  Vocational  Education,  the  Department  of  Teacher  Education,  the  Institute  for Educational Administrators, ICT Centre and the Research Institute for Education Science,
+Achievement of this strategic outcome is the joint responsibility of the Department of Pre-Primary and Primary, the Department of Secondary Education, the Department of Technical and Vocational Education, the Department of Teacher Education, the Institute for Educational Administrators, ICT Centre and the Research Institute for Education Science,
 
 ##### Intermediate outcomes:
 
@@ -724,7 +856,7 @@ MoES has therefore prioritised addressing key issues that constrain the country'
 
 ##### Responsible departments:
 
-Achievement of this strategic outcome is the joint responsibility of the Department of NonFormal Education, the Research Institute for Education Sciences, the Education and Sports Research Centre, and the Education Standards and Quality Assurance Centre
+Achievement of this strategic outcome is the joint responsibility of the Department of Non-Formal Education, the Research Institute for Education Sciences, the Education and Sports Research Centre, and the Education Standards and Quality Assurance Centre
 
 ##### Intermediate outcomes:
 
@@ -748,7 +880,7 @@ Education Sector Development Plan 2016-2020
 
 - An accurate sampling instrument, which uses functional testing for adult literacy will be developed and piloted.
 
-- The Education and Sports Research Centre in conjunction with the Department of NonFormal Education will monitor changes in adult literacy, by gender and ethnicity and report outcomes to the Basic Education Focal Group. Targets for 2020 are (i) literacy rate of 1524-year olds reach 99%, and (ii) literacy rate of 15 + year olds reach 95%.
+- The Education and Sports Research Centre in conjunction with the Department of Non-Formal Education will monitor changes in adult literacy, by gender and ethnicity and report outcomes to the Basic Education Focal Group. Targets for 2020 are (i) literacy rate of 15-24-year olds reach 99%, and (ii) literacy rate of 15 + year olds reach 95%.
 
 - Differentiated  curriculum  and  learning  materials  will  be  developed  which  address  the needs of the target groups in each location.
 
@@ -800,7 +932,7 @@ alignment with the Human Resources Development Plan and socio-economic developme
 
 - Conduct regular labour assessment surveys and tracer studies of the graduates.
 
-- Provide incentives to students in select of areas of study (which align with the goals of the National Development Goals of 8 th  NSEDP ) and consult on entrepreneurships.
+- Provide incentives to students in select of areas of study (which align with the goals of the National Development Goals of 8th NSEDP) and consult on entrepreneurships.
 
 - Post-basic education curriculum, learning materials, infrastructure and teaching approaches are aligned with National Qualification Framework.
 
@@ -910,7 +1042,7 @@ Achievement  of  this  strategic  outcome  is  the  joint  responsibility  of  a
 
 - All projects have a specific target for reducing gender disparities.
 
-- Establish a list of priorities and/or safeguard for specific budget lines (particularly nonwage budget lines) to be considered for budget allocation, disbursement/expenditures and budget cuts.
+- Establish a list of priorities and/or safeguard for specific budget lines (particularly non-wage budget lines) to be considered for budget allocation, disbursement/expenditures and budget cuts.
 
 21
 
@@ -928,7 +1060,7 @@ Education Sector Development Plan 2016-2020
 
 - The incidence of disabilities by type will be mapped country-wide to inform targeting of investment in services. Incidence of students with disabilities  will be reported  in  EMIS. Principles  and  skills  relating  to  physically  challenged  children  will  be  incorporated  in teacher development programmes, pre-service and in-service, as they are improved (see Outcome 3).
 
-- Provinces will provide annual reports to the Department of Organization and Personnel on how deployment of new teachers has reduced the extent of teacher shortages in underserved areas.
+- Provinces will provide annual reports to the Department of Organization and Personnel on how deployment of new teachers has reduced the extent of teacher shortages in under-served areas.
 
 - The MoES will negotiate with both the Ministry of Home Affairs and the Ministry of Finance to increase the education recurrent share to non-wage budget lines.
 
@@ -988,7 +1120,7 @@ Achievement  of  this  strategic  outcome  is  the  joint  responsibility  of  t
 
 - The  Department  of  Planning  in  collaboration  with  Department  of  Finance  will  develop annual work and budget plans of the sector based on the PESS plans.
 
-- The Department of Planning will maintain sector performance reports and annual research reports produced by the Education and Sports Research Centre to inform both the midterm review of ESDP 2016-20 and planning for the sector plan of 2020-25.
+- The Department of Planning will maintain sector performance reports and annual research reports produced by the Education and Sports Research Centre to inform both the mid-term review of ESDP 2016-20 and planning for the sector plan of 2020-25.
 
 ##### Anticipated policy and regulatory development
 
@@ -1052,7 +1184,7 @@ Achievement of this strategic outcome is the joint responsibility of the Departm
 
 ### 5.1 BACKGROUND
 
-The ESDP  2011-2015  called  for simultaneous  education system  expansion  and  quality improvement. In order to finance this policy, it called for an increased share of the State Budget from 13 to 18% and for increased official development assistance (ODA) to cover the financing gap. The ESDP 2011-2015 identified the low level of non-wage recurrent spending as a major constraint  to  improving  quality  of  teaching  and  learning  and  strengthening  governance.  It therefore prescribed an increase of the share of non-salary recurrent expenditures to 25 percent of the total education budget by 2015, notably with the introduction of school block grants for operational expenditures. During the four first years of the ESDP, however, priority was clearly on system expansion (school construction and recruitment of teachers) and salary increases. The share of non-wage operational expenditures remained under 10% of the education budget as a result.
+The ESDP 2011-2015 called for simultaneous education system expansion and quality improvement. In order to finance this policy, it called for an increased share of the State Budget
 
 24
 
@@ -1062,7 +1194,9 @@ The ESDP  2011-2015  called  for simultaneous  education system  expansion  and 
 
 Education Sector Development Plan 2016-2020
 
-Figure 1 - Education budgets 11  under the ESDP 2011-2015 (in kip at current prices)
+from 13 to 18% and for increased official development assistance (ODA) to cover the financing gap. The ESDP 2011-2015 identified the low level of non-wage recurrent spending as a major constraint to improving quality of teaching and learning and strengthening governance. It therefore prescribed an increase of the share of non-salary recurrent expenditures to 25 percent of the total education budget by 2015, notably with the introduction of school block grants for operational expenditures. During the four first years of the ESDP, however, priority was clearly on system expansion (school construction and recruitment of teachers) and salary increases. The share of non-wage operational expenditures remained under 10% of the education budget as a result.
+
+Figure 1 - Education budgets 11 under the ESDP 2011-2015 (in kip at current prices)
 
 0
 
@@ -1106,14 +1240,14 @@ In the period 2011-2014, as shown in Figure 1 above, the education budget increa
 
 Overall, as can be seen in Table 1 below, while education budgets have been higher than planned in the ESDP since 2012/13 mainly due to wage increases, the sector has not been allocated the share of the State Budget that was envisioned in the ESDP 2011-2015. Education now stands at 14.6% of the State Budget instead of the 18% originally planned.
 
+Table 1 - ESDP 2011-2015 financial targets compared to actual allocations
+
 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15
 --- | --- | --- | --- | --- | ---
 ESDP 2011-2015 projected education share of State budget (*) | 13.2% | 14.4% | 15.6% | 16.8% | 18.0%
 ESDP 2011-2015 financing needs (billions of kip) (*) | 2,430 | 2,525 | 2,678 | 2,742 | 2,903
 Actual budget allocated (billions of kip) (**) | 1,730 | 2,009 | 3,302 | 3,942 | 3,714
 Actual share allocated (**) | 13.2% | 13.0% | 14.5% | 15.5% | 14.6%
-
-Table 1 - ESDP 2011-2015 financial targets compared to actual allocations
 
 Note: (*) data from ESDP, (**) data from MOF Official Gazettes
 
@@ -1137,6 +1271,8 @@ ESDP requirements are  assessed  taking  into  consideration  implementation  of
 
 Tables 2 and 3 below show projected financing requirements to support implementation of ESDP 2016-2020 targets.
 
+Table 2 - Financing requirements for ESDP 2016-2020 implementation (millions of kip)
+
 2014/15 (revised) | 2015/16 (Approved) | 2016/17 (projected) | 2017/18 (projected) | 2018/19 (projected) | 2019/20 (projected)
 --- | --- | --- | --- | --- | --- | ---
 Total education | 3,714,502 | 4,416,806 | 4,898,126 | 4,969,860 | 5,322,760 | 5,517,092
@@ -1144,11 +1280,11 @@ Wages (incl. family/petrol allowances) | 2,559,651 | 2,682,429 | 2,747,936 | 2,8
 Non-Wage Recurrent | 437,566 | 940,681 | 1,064,420 | 1,057,159 | 1,083,845 | 1,141,598
 Investments | 717,285(*) | 793,696 | 1,085,770 | 1,102,537 | 1,254,225 | 1,258,623
 
-Table 2 - Financing requirements for ESDP 2016-2020 implementation (millions of kip)
-
 (*) includes ODA
 
 Source: MoES Dept. of Planning (based on Planning Model)
+
+Table 3 - Education budget composition under ESDP 2016-2020 (in % of financing requirements)
 
 2014/15 (actual) | 2015/16 (projected) | 2016/17 (projected) | 2017/18 (projected) | 2018/19 (projected) | 2019/20 (projected)
 --- | --- | --- | --- | --- | --- | ---
@@ -1156,13 +1292,11 @@ Wages (incl. family/ petrol allowances) | 69 | 61 | 56 | 57 | 56 | 56
 Non-Wage Recurrent | 10 | 21 | 22 | 21 | 20 | 21
 Investments | 19 | 18 | 22 | 22 | 24 | 23
 
-Table 3 - Education budget composition under ESDP 2016-2020 (in % of financing requirements)
-
 Source: MoES Dept. of Planning (based on Planning Model)
 
 The planning assumptions from Tables 2 and 3 all show that, regardless of the mix of planning targets, the ESDP financial requirements would require a proportional shift from the wage and allowances budget items to non-wage recurrent expenditure to support the implementation of policies. The underlying assumption is that expenditure is geared towards creating a conducive environment for education and improving the quality of education. Similarly, there would be a need for a proportional increase in the investment budget over the ESDP 2016-2020 period.
 
-Table 4 below shows the sub-sectoral shares under ESDP 2016-2020. Considering population projections and education system expansion hitherto, the share of primary education should decrease  in  favour  of  early  childhood, upper  secondary  and  TVET,  and  all  other  sub-sectors remain fairly stable in proportion to the total education budget.
+Table 4 below shows the sub-sectoral shares under ESDP 2016-2020. Considering population projections and education system expansion hitherto, the share of primary education should
 
 26
 
@@ -1171,6 +1305,10 @@ Table 4 below shows the sub-sectoral shares under ESDP 2016-2020. Considering po
 [[START OF PAGE 35]]
 
 Education Sector Development Plan 2016-2020
+
+decrease in favour of early childhood, upper secondary and TVET, and all other sub-sectors remain fairly stable in proportion to the total education budget.
+
+Table 4 - Sub-sector shares of the financing requirements (%)
 
 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2019/20
 --- | --- | --- | --- | --- | ---
@@ -1185,13 +1323,11 @@ Non-Formal Education | 1.1 | 1.0 | 0.9 | 1.0 | 1.0
 Management | 9.9 | 9.6 | 9.7 | 10.3 | 10.2
 Sport | 1.0 | 1.9 | 1.4 | 1.3 | 1.8
 
-Table 4 - Sub-sector shares of the financing requirements (%)
-
 Source: MoES Dept. of Planning (based on Planning Model)
 
 ### 5.3 DOMESTIC RESOURCES PROJECTION
 
-The domestic resources made available to ESDP 2016-2020 implementation would depend on economic growth and the Government's fiscal policy. In the framework of the 8 th  NSEDP, the Government expects steady economic growth, at 7.5% on average over the five-year period. At the same time, it intends to pursue a policy of fiscal consolidation to bring back public finances to a sustainable path, with the ratio of public expenditure to GDP declining progressively over the period
+The domestic resources made available to ESDP 2016-2020 implementation would depend on economic growth and the Government's fiscal policy. In the framework of the 8th NSEDP, the Government expects steady economic growth, at 7.5% on average over the five-year period. At the same time, it intends to pursue a policy of fiscal consolidation to bring back public finances to a sustainable path, with the ratio of public expenditure to GDP declining progressively over the period
 
 The National Assembly has made it a target that the education budget should reach 17% of the State Budget 12 . This target however has not yet been achieved due to lack of fiscal space. In the revised Budget 2014/15, the share of education was 14.6% of the State Budget.
 
@@ -1213,6 +1349,8 @@ It is important to note however that the Government may revise downwards its med
 
 Education Sector Development Plan 2016-2020
 
+Table 5 - Budget constraints and financing gap/surplus: (millions of kip)
+
 2015/16 (approved) | 2016/17 (projected) | 2017/18 (projected) | 2018/19 (projected) | 2019/20 (projected)
 --- | --- | --- | --- | --- | ---
 Government primary expenditure (excluding ODA) | 19,777,000 | 21,989,000 | 24,655,000 | 27,603,000 | 30,866,000
@@ -1224,11 +1362,9 @@ Projected ODA in education | 656,000 | 619,000 | 625,000 | 705,000 | 625,000
 Financing gap/surplus (including ODA) | -376,981 | -540,996 | -153,510 | 74,750 | 355,128
 Financing gap/surplus (cumulative) | -376,981 | -917,977 | -1,071,487 | -966,737 | -641,609
 
-Table 5 - Budget constraints and financing gap/surplus: (millions of kip)
-
 Source: For government expenditures: Ministry of Finance; for ODA, MoES Dept. of Planning
 
-There is an assumption that there will be available fiscal space to allow a steady increase in Government financing over the ESDP 2016-2020 as compared to allocations in the period 20112015.
+There is an assumption that there will be available fiscal space to allow a steady increase in Government financing over the ESDP 2016-2020 as compared to allocations in the period 2011-2015.
 
 The budget projection shows a diminishing financing gap over the period 2016-2020, excluding ODA pledges. If ODA pledges are factored in, the gap in the first three years of the ESDP is turned into a surplus in 2018/19 due to an increase in resources available and a relative decrease in financing needs. However, this surplus in the last two years of the ESDP would not suffice to compensate  for  the  gap  accumulated  during  the  first  three  years.  Indeed,  the  accumulated financing gap at the end of the five-year period would amount to 641 billion kip (USD 79 million).
 
@@ -1238,11 +1374,11 @@ Should government spending or ODA projections be revised downwards, and the fina
 
 Tables  6  below  show  the  overall  pledges  by  donors  over  the  ESDP  2016-2020  period.  As mentioned earlier, ODA projections include overheads and technical assistance, which do not directly participate in the financing of ESDP costs identified above.
 
+Table 6 - Pledged ODA (millions of Kip)
+
 2015/16 (projected) | 2016/17 (projected) | 2017/18 (projected) | 2018/19 (projected) | 2019/20 (projected)
 --- | --- | --- | --- | --- | ---
 ODA (millions of kip) | 656,000 | 619,000 | 625,000 | 705,000 | 625,000
-
-Table 6 - Pledged ODA (millions of Kip)
 
 Sources: MoES Dept. of Planning
 
@@ -1253,6 +1389,8 @@ Sources: MoES Dept. of Planning
 [[START OF PAGE 37]]
 
 Education Sector Development Plan 2016-2020
+
+Table 7: External Assistance to Education Sub-sectors by Major Development Partners
 
 Subsectors | Major Development Partners: ESDP 2011-15 | Major Development Partners: ESDP 2016-20
 --- | --- | ---
@@ -1266,8 +1404,6 @@ University | ADB, China, France, Australia, Japan, USA, China and Vietnam throug
 Non-Formal | UNESCO, EFA-FTI, UNFPA, DVV | UNESCO, UNFPA, DVV
 Administration | EU through PRSO, Australia, JICA, USA, China and Vietnam through scholarships | EU & Japan through PRSO
 Sports
-
-Table 7: External Assistance to Education Sub-sectors by Major Development Partners
 
 ## VI. IMPLEMENTATION, M&E FRAMEWORK FOR ESDP 2016-20
 
@@ -1289,9 +1425,9 @@ The ESDP 2016-2020 is a cross sector development plan, therefore all parties inc
 
 Education Sector Development Plan 2016-2020
 
-- Technical  Departments have the responsibility to guide PESS and Education Institutes under their management to achieve policies and strategies specified in the ESDP20162020 through their annual action plans that are aligned with the five-year plans of ESDP.
+- Technical Departments have the responsibility to guide PESS and Education Institutes under their management to achieve policies and strategies specified in the ESDP2016-2020 through their annual action plans that are aligned with the five-year plans of ESDP.
 
-- Provincial Education and Sports Service (PESS) has the responsibility to develop its own annual plans and five-year plans based on the policies and strategies of the ESDP 201620.  These  plans  should  also  be  aligned  with  provincial  Socio-economic  Development Plans .
+- Provincial Education and Sports Service (PESS) has the responsibility to develop its own annual plans and five-year plans based on the policies and strategies of the ESDP 2016-20. These plans should also be aligned with provincial Socio-economic Development Plans.
 
 - District Education and Sports Bureau (DESB) follow education development plans of PESS in the development of the DESB annual development plan. In addition, the DESB must disseminate the policies and strategies of the ESDP to school principals and VEDCs and support  them  in  developing  their  school  development  plans  that  align  with  the  ESDP 2016-20.
 
@@ -1337,7 +1473,7 @@ Joint  Sector  Review  Mission  (JSRM): A  high-level  review  of  sector  perfo
 
 In order to comply with the planning and budgeting cycle the review will be held in May -June of each year. The participants include: senior MoES leadership and technical staff from central and sub-national  levels,  development  partners  and  NGO  representatives,  senior  staff  from  other government ministries and agencies, and the private sector. The JSRM process and the findings of an Annual Thematic Review (ATR) will inform the Annual Sector Performance Report (ASPR).
 
-The Annual Sector Performance Report (ASPR) will  provide a report and analysis on the Key Performance Indicators for the sector. It reports on, and reviews progress and trends against ESDP targets and benchmarks and provide recommendations for updating plans as necessary for consideration by the ESWG. The ASPR will be produced by the Department of Planning. The ASPR will be informed by analysis of prioritised EMIS data and annual progress reports from each subsector. Each annual sub-sector report will provide a summary of progress policies, strategies and programmes against the agreed targets given in the ESDP policy and activity matrix. The subsector reports are produced by the relevant sub-sector against a standardised format and are submitted to the Department of Planning by end of April each year.
+The Annual Sector Performance Report (ASPR) will provide a report and analysis on the Key Performance Indicators for the sector. It reports on, and reviews progress and trends against ESDP targets and benchmarks and provide recommendations for updating plans as necessary for consideration by the ESWG. The ASPR will be produced by the Department of Planning. The ASPR will be informed by analysis of prioritised EMIS data and annual progress reports from each sub-sector. Each annual sub-sector report will provide a summary of progress policies, strategies and programmes against the agreed targets given in the ESDP policy and activity matrix. The sub-sector reports are produced by the relevant sub-sector against a standardised format and are submitted to the Department of Planning by end of April each year.
 
 The Annual Thematic Reviews (ATR ) will provide a report and recommendations in relation to specific  issues  or  themes  within  the  education  sector.  The  specific  area  of  focus  for  the subsequent year will be agreed at the annual JSMR each year. The ATR will be facilitated by the Department of Inspection which will  draw  on the  findings  of  the  annual  thematic  review  to produce evaluation of findings and recommendations for consideration at the JSMR.
 
@@ -1399,6 +1535,8 @@ The indicator system will address the following requirements for monitoring sect
 
 In order to provide continuity with ESDP 2011-15 and consistency with present sector planning tools, the following table of indicators will be monitored and assessed annually:
 
+Table 8: Key Indicators for Monitoring and Evaluation
+
 ECE | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Enrolment of 5-year-old children | 69% | 72% | 74% | 77% | 80%
@@ -1406,8 +1544,6 @@ Enrolment of 3- 5-year- old children | 46% | 48% | 50% | 53% | 55%
 Proportion of enrolment in private schools | 20% | 21% | 23% | 24% | 25%
 PCR | 18 | 17 | 17 | 16 | 15
 PTR | 21 | 20 | 18 | 17 | 15
-
-Table 8: Key Indicators for Monitoring and Evaluation
 
 33
 
@@ -1449,6 +1585,7 @@ New enrolment (Non-quota) | 2,800 | 2,800 | 2,800 | 2,800 | 2,800
 HE (Universities) | 2016 | 2017 | 2018 | 2019 | 2020
 Transition rate of M7 graduates to public universities | 19% | 19% | 19% | 20% | 20%
 New enrolments | 9,000 | 10,000 | 11,000 | 12,000 | 12,500
+Leadership, Management and Financing
 
 34
 
@@ -1494,23 +1631,23 @@ Education Sector Development Plan 2016-2020
 
 ### 1.1. Background:
 
-Over the past five years Early Child Education has significantly improved and resulted in increased numbers of pupils, teachers and classrooms. Under the policy of expanding access to education through  pre-primary  and  community-based  school  readiness  programmes  with  support  of Development  Partners,  the  enrolment  rate  of  five-year-old  children  increased  to  66%.  The enrolment rate of 3-5-year olds increased to 43.2%. In addition to the expansion of ECE school networks, the Ministry of Education and Sports (MoES) also has paid attention to developing preschool curricula and providing teaching and learning materials. Table 1 below indicates that over the past five years access to ECE has significantly increased as a result the enrolment rate of 3-5year olds and 5-year-old children has increased at an average of 5% per year .
-
-Indicator | 2009-10 | 2010-11 | 201 1-12 | 201 2-13 | 201 3-14 | 2014-15
---- | --- | --- | --- | --- | --- | ---
-Total schools | 1,284 | 1,358 | 1,577 | 1,802 | 2,125 | 2,403
-Number of children in | 95,974 | 103,200 | 119,929 | 137,359 | 159,491 | 175,492
-kindergarten and pre-school | F : 47,835 | F : 51,884 | F : 59,914 | F : 68,398 | F : 79,494 | F : 87,707
-Number of staff and teachers (only Public) | 5,048 | 6,499 | 5,090 | 5,748 | 6, 919 | 7,385
-Enrolment rate of 3-4-year-old children | 14.6% | 16.4% | 19.3% | 22.3% | 27 .3% | 31.5%
-Enrolment rate of 3-5-year-old children | 22.1% | 24.5% | 28.6% | 33% | 3 9 . 1% | 43.2%
-Enrolment rate of 5-year-old children | 36.6% | 40.2% | 46.6% | 52.9% | 6 1 . 4% | 66%
+Over the past five years Early Child Education has significantly improved and resulted in increased numbers of pupils, teachers and classrooms. Under the policy of expanding access to education through pre-primary and community-based school readiness programmes with support of Development Partners, the enrolment rate of five-year-old children increased to 66%. The enrolment rate of 3-5-year olds increased to 43.2%. In addition to the expansion of ECE school networks, the Ministry of Education and Sports (MoES) also has paid attention to developing pre-school curricula and providing teaching and learning materials. Table 1 below indicates that over the past five years access to ECE has significantly increased as a result the enrolment rate of 3-5-year olds and 5-year-old children has increased at an average of 5% per year.
 
 Table 9 : Comparison of indicators of ECE from 2010-2015
 
+Indicator | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
+--- | --- | --- | --- | --- | --- | ---
+Total schools | 1,284 | 1,358 | 1,577 | 1,802 | 2,125 | 2,403
+Number of children in kindergarten and pre-school | 95,974 | 103,200 | 119,929 | 137,359 | 159,491 | 175,492
+ | F: 47,835 | F: 51,884 | F: 59,914 | F: 68,398 | F: 79,494 | F: 87,707
+Number of staff and teachers (only Public) | 5,048 | 6,499 | 5,090 | 5,748 | 6,919 | 7,385
+Enrolment rate of 3-4-year-old children | 14.6% | 16.4% | 19.3% | 22.3% | 27.3% | 31.5%
+Enrolment rate of 3-5-year-old children | 22.1% | 24.5% | 28.6% | 33% | 39.1% | 43.2%
+Enrolment rate of 5-year-old children | 36.6% | 40.2% | 46.6% | 52.9% | 61.4% | 66%
+
 Source: MoES EMIS
 
-Although the average enrolment rate of 3-5-year-old children nationwide met the 2015 targets, the  quality  of  teaching  and  learning  is  still  not  yet  taken  into  account  especially  for  ethnic students and children from the remote areas; many provinces have not expanded preschool to rural areas. There are many reasons that cause the slow expansion of preschool in some areas such as limitation of learning facilities for activities, the number of preschool teachers in preservice is sufficient but there is a limitation of quota recruitment of preschool teachers and lack of community and other stakeholders' contribution to ECE.
+Although the average enrolment rate of 3-5-year-old children nationwide met the 2015 targets, the quality of teaching and learning is still not yet taken into account especially for ethnic students and children from the remote areas; many provinces have not expanded preschool to rural areas. There are many reasons that cause the slow expansion of preschool in some areas such as limitation of learning facilities for activities, the number of preschool teachers in pre-service is sufficient but there is a limitation of quota recruitment of preschool teachers and lack of community and other stakeholders' contribution to ECE.
 
 In order to develop and overcome problems and challenges related to ECE in the next 5 years, MoES has set up objectives, targets and key activities as follows:
 
@@ -1629,7 +1766,9 @@ Education Sector Development Plan 2016-2020
 
 ### 1.4. Projected enrolment and resources requirements.
 
-Based on the policies and targets from now to 2020, the projected enrolment in ECE and preprimary, ECE teachers and classrooms needed including budget requirements will be as follows:
+Based on the policies and targets from now to 2020, the projected enrolment in ECE and pre-primary, ECE teachers and classrooms needed including budget requirements will be as follows:
+
+Table 10 : Expected enrolment in ECE
 
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
@@ -1641,8 +1780,6 @@ Number of new teachers recruitment needed (only public) | 834 | 905 | 985 | 1,07
 Number of classrooms (only public) | 6,617 | 7,454 | 8,427 | 9,575 | 10,950
 Number of new classrooms required (only public) | 729 | 837 | 974 | 1,148 | 1,375
 
-Table 10 : Expected enrolment in ECE
-
 38
 
 [[END OF PAGE 47]]
@@ -1650,6 +1787,8 @@ Table 10 : Expected enrolment in ECE
 [[START OF PAGE 48]]
 
 Education Sector Development Plan 2016-2020
+
+Table 11: Financial requirement for ECE (millions of kip)
 
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
@@ -1662,28 +1801,26 @@ Budget for building facilities for sanitation | 5,555 | 5,555 | 5,555 | 5,555 | 
 Total investment | 118,104 | 129,531 | 148,416 | 172,017 | 202,174
 Grand total | 148,080 | 170,071 | 192,560 | 220,076 | 253,738
 
-Table 11: Financial requirement for ECE (millions of kip)
-
 ## 2. PRIMARY EDUCATION
 
 ### 2.1. Background
 
-By following the EFA policy of equitable and access to education for all, in academic year 20142015, the enrolment rate of primary education increased satisfactorily compared to the previous five years. Under the government investment, local authority, community combined with the assistance  from  the  development  partners,  many  projects  were  implemented  to  improve primary  education.  Thus  primary  education  in  the  Lao  PDR  has  improved  quantitatively  and qualitatively. Details are as follows:
+By following the EFA policy of equitable and access to education for all, in academic year 2014-2015, the enrolment rate of primary education increased satisfactorily compared to the previous five years. Under the government investment, local authority, community combined with the assistance from the development partners, many projects were implemented to improve primary education. Thus primary education in the Lao PDR has improved quantitatively and qualitatively. Details are as follows:
+
+Table 12: Comparison of key indicators of primary education from 2010-2015
 
 Indicators | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | ---
-Number of schools ( public and private ) | 8,968 | 8,902 | 8,912 | 8,927 | 8,884 | 8,887
-Number of classrooms ( public and private) | 31,648 | 31,057 | 31,957 | 32,745 | 33,173 | 33,666
-Total students | 916,341 | 900,123 | 883, 938 | 878,283 | 870,893 | 850,466
-( public &private ) | F : 432,349 | F : 427,050 | F : 420,877 | F : 419,231 | F : 416,627 | F : 408,251
+Number of schools (public and private) | 8,968 | 8,902 | 8,912 | 8,927 | 8,884 | 8,887
+Number of classrooms (public and private) | 31,648 | 31,057 | 31,957 | 32,745 | 33,173 | 33,666
+Total students (public &private) | 916,341 | 900,123 | 883,938 | 878,283 | 870,893 | 850,466
+ | F: 432,349 | F: 427,050 | F: 420,877 | F: 419,231 | F: 416,627 | F: 408,251
 Number of students in public schools | 884,632 | 865,878 | 847,439 | 839,556 | 831,419 | 808,529
-Average rate of students per teacher ( Public school ) | 30 | 28 | 27 | 25 | 25 | 24
+Average rate of students per teacher (Public school) | 30 | 28 | 27 | 25 | 25 | 24
 Average rate for students /classroom | 29 | 28 | 28 | 27 | 26 | 25
-Total educational staff and teachers (only public ) | 30.541 | 32,265 | 33,029 | 32,242 | 35 ,289 | 33,439
-Net enrolment of new students | 84.2% | 85.3% | 89.9% | 93.9% | 96.3% | 97.2 %
-Net enrolment | 92.7% | 94.1% | 95.2% | 96.8% | 98.0% | 98.5 %
-
-Table 12: Comparison of key indicators of primary education from 2010-2015
+Total educational staff and teachers (only public) | 30.541 | 32,265 | 33,029 | 32,242 | 35,289 | 33,439
+Net enrolment of new students | 84.2% | 85.3% | 89.9% | 93.9% | 96.3% | 97.2%
+Net enrolment | 92.7% | 94.1% | 95.2% | 96.8% | 98.0% | 98.5%
 
 Source: EMIS, MoES
 
@@ -1697,15 +1834,15 @@ Although the government and development partners have paid attention to investin
 
 Education Sector Development Plan 2016-2020
 
-Indicator | 2009-10 | 2010-11 | 201 1-12 | 201 2-13 | 201 3-14 | 2014-15 | Expected target for 2015
---- | --- | --- | --- | --- | --- | --- | ---
-Grade 1 drop-out rate | 10.5 % | 12.1 % | 11.7 % | 11.0 % | 9.9 % | 8.5 % | 3%
-Grade 1 repetition rate | 28.4 % | 25.7 % | 22.8 % | 20.1 % | 15.3 % | 13.5 % | 3%
-Drop-out rate for primary education. | 6.8 % | 7.8 % | 7.1 % | 6.3 % | 5.4 % | 5.2 % | 1%
-Repetition rate for primary education. | 14.2 % | 12.2 % | 10.5 % | 9 % | 6.9 % | 5.8 % | 1%
-Survival rate for primary education | 71.1 % | 67.7 % | 69.9 % | 73.3 % | 75.7 % | 78.3 % | 95%
-
 Table 12 : Comparison of internal efficiency for primary education
+
+Indicator | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | Expected target for 2015
+--- | --- | --- | --- | --- | --- | --- | ---
+Grade 1 drop-out rate | 10.5% | 12.1% | 11.7% | 11.0% | 9.9% | 8.5% | 3%
+Grade 1 repetition rate | 28.4% | 25.7% | 22.8% | 20.1% | 15.3% | 13.5% | 3%
+Drop-out rate for primary education. | 6.8% | 7.8% | 7.1% | 6.3% | 5.4% | 5.2% | 1%
+Repetition rate for primary education. | 14.2% | 12.2% | 10.5% | 9% | 6.9% | 5.8% | 1%
+Survival rate for primary education | 71.1% | 67.7% | 69.9% | 73.3% | 75.7% | 78.3% | 95%
 
 Source: EMIS, MoES
 
@@ -1885,6 +2022,8 @@ Based  on  the  policies  and  targets,  in  2020  the  projected  enrolment  in
 
 Education Sector Development Plan 2016-2020
 
+Table 13: Enrolment projection in primary education
+
 Primary education | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Net enrolment rate | 98% | 98% | 98% | 99% | 99%
@@ -1893,9 +2032,9 @@ Number of teachers (public) | 32,810 | 32,192 | 31,506 | 31,094 | 31,192
 Total number of classrooms (public) | 31,714 | 31,384 | 30,979 | 30,833 | 31,192
 Number of additional classrooms and replacement | 1,586 | 1,569 | 1,549 | 1,542 | 1,560
 
-Table 13:  Enrolment projection in primary education
+Table 14: Financial requirement in primary education (million kip)
 
-2016 | 2017 | 2018 | 2019 | 2020
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 School Block Grant | 57,244 | 81,391 | 80,577 | 80,561 | 80,512
 Budget for training and upgrading teachers | 81,206 | 79,674 | 77,978 | 76,957 | 77,199
@@ -1905,8 +2044,6 @@ Building and renovating schools | 237,853 | 235,380 | 232,342 | 231,250 | 233,93
 Construction of sanitation facilities | 30,282 | 30,282 | 30,282 | 30,282 | 30,282
 Subtotal | 268,135 | 265,662 | 262,624 | 261,532 | 264,219
 Grand total | 440,840 | 456,118 | 451,262 | 448,815 | 453,009
-
-Table 14: Financial requirement in primary education (million kip)
 
 ## 3. LOWER SECONDARY EDUCATION
 
@@ -1922,20 +2059,18 @@ The Lao government and international development agencies including Asian Develo
 
 Education Sector Development Plan 2016-2020
 
+Table 15: Comparison of secondary education data by school year 2010-2015
+
 Indicator | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | ---
 No. of classrooms (public and private) | 8,103 | 8,560 | 9,217 | 9,946 | 10,941 | 11,631
 No. of staff and teachers (public schools) | 19,816 | 23,560 | 26,849 | 29,577 | 31,595 | 32,870
-Total students | 335,388 | 345,283 | 361,875 | 385,552 | 420,720 | 442,806
-(public and private) | F: 150,225 | F: 157,015 | F: 167.040 | F: 180,030 | F: 198,935 | F: 210,816
+Total students (public and private) | 335,388 | 345,283 | 361,875 | 385,552 | 420,720 | 442,806
+ | F: 150,225 | F: 157,015 | F: 167.040 | F: 180,030 | F: 198,935 | F: 210,816
 Gross Enrolment | 60.2% | 62.9% | 64.7% | 69.0% | 74.4% | 78.1%
-Transition- completion rate | 86.5% | 87.5% | 88.2% | 90.1% | 92.5% | 91.3%
+Transition-completion rate | 86.5% | 87.5% | 88.2% | 90.1% | 92.5% | 91.3%
 
-Table 15 : Comparison of secondary education data by school year 2010-2015
-
-Source
-
-: EMIS, MoES
+Source: EMIS, MoES
 
 Although the  government  and  development  partners  have  paid  close  attention  to  providing support to secondary education it is observed that the expansion of lower secondary education is  not  responsive  to  meeting  the  increased  number  of  students.  Some  schools  are  crowded, recruitment of teachers has not met the needs and as a result individual teachers have to teach many subjects, mismatched with their qualifications. Some teachers and school administrators have not regularly received the continual upgrading programmes. In addition, facilities are not sufficient. For example; buildings, laboratories, libraries, dormitories for teachers and students as  well  as  teaching-learning  materials,  textbooks,  experimental  equipment  are  also  not sufficient. The drop-out rate remains high particularly in Grades 6 and 7 and this predominantly appears in those districts bordering other countries and some southern provinces of Laos.
 
@@ -2057,7 +2192,9 @@ Education Sector Development Plan 2016-2020
 
 Based on policy and targets, from now to 2020 the expectation is that all students enrol in lower secondary education. Teachers, number of classrooms and budget requirements to implement this are as follows:
 
-2016 | 2017 | 2018 | 2019 | 2020
+Table 16: Enrolment projection to lower secondary education
+
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Transition rate of primary education graduates to Grade 6 | 93,4% | 95.0% | 96.7% | 98.3% | 100%
 Total number of students (public and private) | 458,989 | 473,352 | 487,008 | 511,291 | 534,715
@@ -2065,9 +2202,9 @@ Number of teachers (public only) | 22,056 | 21,467 | 20,909 | 20,842 | 20,747
 Number of classrooms (public only) | 11,500 | 11,762 | 12,003 | 12,499 | 12,967
 Number of new classrooms required | 313 | 262 | 241 | 497 | 468
 
-Table 16: Enrolment projection to lower secondary education
+Table 17: Financial requirement for lower secondary education (million kip)
 
-2016 | 2017 | 2018 | 2019 | 2020
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 School Block Grant | 23,009 | 57,412 | 59,691 | 61,140 | 62,905
 Stipend | 17,810 | 18,367 | 18,897 | 19,838 | 20,747
@@ -2080,13 +2217,11 @@ Building sanitation facilities | 2,523 | 2,523 | 2,523 | 2,523 | 2,523
 Total Capital | 151,629 | 226,850 | 224,704 | 291,687 | 290,684
 Grand Total | 268,169 | 379,765 | 382,281 | 453,583 | 458,678
 
-Table 17:  Financial requirement for lower secondary education (million kip)
-
 ## 4. UPPER SECONDARY EDUCATION
 
 ### 4.1 Background
 
-Upper secondary education has been substantially expanded both in quantity and quality. The number of classrooms have gradually increased from year to year. The gross enrolment rate increased from 33.9% in 2009 -2010 to 45.8 % in 2014 -2015 . This significant achievement has resulted from the efforts of the government and development partners through investment in providing  teaching  and  learning  materials,  teacher  training  and  infrastructure  development; namely the construction of new classrooms and dormitories for students and teachers and the provision of education scholarships for students from poor families . Such support significantly contributes to positive changes in key performance indicators on an annual basis as can be seen from the table below:
+Upper secondary education has been substantially expanded both in quantity and quality. The number of classrooms have gradually increased from year to year. The gross enrolment rate
 
 46
 
@@ -2096,14 +2231,16 @@ Upper secondary education has been substantially expanded both in quantity and q
 
 Education Sector Development Plan 2016-2020
 
+increased from 33.9% in 2009-2010 to 45.8% in 2014-2015. This significant achievement has resulted from the efforts of the government and development partners through investment in providing teaching and learning materials, teacher training and infrastructure development; namely the construction of new classrooms and dormitories for students and teachers and the provision of education scholarships for students from poor families. Such support significantly contributes to positive changes in key performance indicators on an annual basis as can be seen from the table below:
+
+Table 18: Comparison of upper secondary education indicators from 2010-2015
+
 Indicator | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | --- | ---
-No. of classrooms | 2,214 | 3,277 | 3,519 | 3,860 | 4,294 | 4 , 710
+No. of classrooms | 2,214 | 3,277 | 3,519 | 3,860 | 4,294 | 4,710
 Total students (public and private) | 98,039 | 142,860 | 149,065 | 157,737 | 171,645 | 187,870
-F: 43,450 | F: 63,631 | F: 66,659 | F: 71,112 | F: 78,561 | F: 86,784
+ | F: 43,450 | F: 63,631 | F: 66,659 | F: 71,112 | F: 78,561 | F: 86,784
 Gross enrolment | 33.9% | 33.4% | 34.7% | 37.3% | 41.3% | 45.8%
-
-Table 18 : Comparison of upper secondary education indicators from 2010-2015
 
 Source: EMIS, MoES
 
@@ -2207,7 +2344,9 @@ Education Sector Development Plan 2016-2020
 
 Based  on  the  policies  and  targets,  the  projected  enrolment  in  upper  secondary  education, teachers and classrooms needed including the budget requirement will be as follows:
 
-2016 | 2017 | 2018 | 2019 | 2020
+Table 19: Enrolment projection to upper secondary education
+
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Transition of LSE Grade 9 graduates to USE Grade 10 | 93% | 92% | 91% | 91% | 90%
 Total enrolment | 198,952 | 212,811 | 226,558 | 245,829 | 259,980
@@ -2216,9 +2355,9 @@ Total enrolment | 198,952 | 212,811 | 226,558 | 245,829 | 259,980
 # of classrooms | 4,487 | 4,897 | 5,321 | 5,895 | 6,370
 # of new classrooms to be built | 333 | 410 | 424 | 575 | 474
 
-Table 19: Enrolment projection to upper secondary education
+Table 20: Financial requirement for upper secondary education (million kip)
 
-2016 | 2017 | 2018 | 2019 | 2020
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 School Block Grants | 10,119 | 33,423 | 36,786 | 39,420 | 41,575
 Stipends | 7,794 | 8,338 | 8,878 | 9,635 | 10,191
@@ -2230,8 +2369,6 @@ Dormitory for teachers and students | 15,000 | 15,000 | 15,000 | 15,000 | 15,000
 Construction of laboratories | 3,000 | 6,000 | 6,000 | 6,000 | 6,000
 Total Investment | 123,581 | 184,055 | 193,173 | 236,498 | 219,097
 Grand Total | 185,016 | 269,943 | 283,510 | 331,287 | 317,086
-
-Table 20: Financial requirement for upper secondary education (million kip)
 
 ## 5. NON-FORMAL EDUCATION
 
@@ -2257,7 +2394,7 @@ While there has been progress in literacy, there are still ongoing challenges th
 
 - Insufficient  budget  and  delays  in  the  budget  release  for  supporting  non-formal education activities and staff: Low pay for volunteer teachers and failure in providing SBGs and financial support (incentives) for the teachers working in rural and remote areas .
 
-- Lack of and poor non-formal education facilities, teaching and learning materials at nonformal  education  centres  at  provincial,  district  and  community  levels and  insufficient community learning centres  that also do not meet standards.
+- Lack of and poor non-formal education facilities, teaching and learning materials at non-formal education centres at provincial, district and community levels and insufficient community learning centres that also do not meet standards.
 
 In order to improve the quality of non-formal education the department has identified purposes, strategies, policies and key areas of non-formal education for the next five years 2016-2020 as follows:
 
@@ -2273,15 +2410,15 @@ In order to improve the quality of non-formal education the department has ident
 
 - Provide literacy programmes for illiterate youth and adults (level 1) to reach 30,000 people and primary programme to reach 20,000 people.
 
-- Organize the teaching and learning programmes of lower secondary education level for 300,000 children and upper secondary education level for 15 , 000 students.
+- Organize the teaching and learning programmes of lower secondary education level for 300,000 children and upper secondary education level for 15,000 students.
 
-- Provide basic vocational training for 20 , 000 youth.
+- Provide basic vocational training for 20,000 youth.
 
 - Establish non-formal education centres in two more provinces.
 
 - Create an environment to support non-formal education centres in all district  across the country.
 
-- Continue providing lower secondary education equivalency programmes to 15-35year olds so that by 2020 every province can declare completion of lower secondary education.
+- Continue providing lower secondary education equivalency programmes to 15-35-year olds so that by 2020 every province can declare completion of lower secondary education.
 
 - Upgrade  non-formal  education  centres  at  Km  8to  become  non-formal  education institutions.
 
@@ -2321,7 +2458,7 @@ To eradicate illiteracy and upgrade education for Lao citizens continuously, par
 
 - To expand non-formal education to villages with no schools or incomplete primary schools .
 
-- Collect village data of target groups of children aged 6 to 14 years who are out of primary school and/or drop-outs from primary schools in rural and remote areas and organize teaching and learning programmes for them through the utilization of multiteaching  and  learning  approaches  relevant  to  each  local  context  with  community participation and contributions.
+- Collect village data of target groups of children aged 6 to 14 years who are out of primary school and/or drop-outs from primary schools in rural and remote areas and organize teaching and learning programmes for them through the utilization of multi-teaching and learning approaches relevant to each local context with community participation and contributions.
 
 - Provide facilities and teaching - learning materials for the programme to every person to access .
 
@@ -2445,7 +2582,7 @@ Education Sector Development Plan 2016-2020
 
 ##### Objective :
 
-To ensure t he quality management of non-formal education.
+To ensure the quality management of non-formal education.
 
 ##### Key activities :
 
@@ -2469,7 +2606,9 @@ Education Sector Development Plan 2016-2020
 
 To implement the targets and strategies set, there is a need to budget for non-formal education by 2020 as follows:
 
-2016 | 2017 | 2018 | 2019 | 2020
+Table 21: Budget requirement for non-formal education (million kip)
+
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Allowance for volunteers | 9,658 | 9,948 | 10,246 | 10,554 | 10,870
 Training | 906 | 906 | 906 | 906 | 906
@@ -2478,8 +2617,6 @@ Total recurrent | 11,564 | 11,854 | 12,153 | 12,460 | 12,777
 Construction | 8,446 | 8,555 | 8,665 | 8,774 | 8,884
 Total investment | 8,446 | 8,555 | 8,665 | 8,774 | 8,884
 Grand total | 20,010 | 20,409 | 20,817 | 21,234 | 21,661
-
-Table 21: Budget requirement for non-formal education (million kip)
 
 ## 6. TEACHER EDUCATION
 
@@ -2497,29 +2634,29 @@ Moreover, the implementation of upgrading of qualification and in-service traini
 
 Education Sector Development Plan 2016-2020
 
+Table 22: Teacher education
+
 indicator | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | ---
 Number of staff and teachers | 1,143 | 1,227 | 1,218 | 1,436 | 1,759
-Total number of pre-school teachers- students | 1,209 | 1,939 | 3 . 664 | 4,901 | 4,839
-Total number of primary education teachers-students | 1,968 | 2,688 | 4 , 452 | 5,739 | 5,401
-Total number of lower secondary education teacher-student | 11,475 | 14,129 | 1 2 ,169 | 10,589 | 9,468
+Total number of pre-school teachers-students | 1,209 | 1,939 | 3.664 | 4,901 | 4,839
+Total number of primary education teachers-students | 1,968 | 2,688 | 4,452 | 5,739 | 5,401
+Total number of lower secondary education teacher-student | 11,475 | 14,129 | 12,169 | 10,589 | 9,468
 Total number of upper secondary education teachers-students | 4,118 | 5,823 | 5,716 | 5,238 | 3,628
-Total number of secondary education teachers-students | 975 | 3,444
+Total number of secondary education teachers-students |  |  |  | 975 | 3,444
 Total number of physical education teacher-students | 642 | 998 | 1,127 | 928 | 824
 Total number of arts teachers students | 549 | 524 | 626 | 492 | 552
 
-Table 22: Teacher education
+Table 23: Graduated teachers-students in each year
 
 indicators | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15
 --- | --- | --- | --- | --- | ---
 Total number of pre-school teachers-students | 925 | 603 | 1,037 | 2,028 | 1,928
 Total number of primary education teachers-students | 1,192 | 749 | 1,506 | 2,195 | 2,101
-Total number of lower secondary education teachers- students | 4,810 | 5,429 | 4,701 | 3,158 | 3,144
-Total number of upper secondary education teachers- students | 597 | 689 | 1,479 | 1,391 | 1,454
-Total number of physical education teachers-students | 194 | 377 | 277 | 313
+Total number of lower secondary education teachers-students | 4,810 | 5,429 | 4,701 | 3,158 | 3,144
+Total number of upper secondary education teachers-students | 597 | 689 | 1,479 | 1,391 | 1,454
+Total number of physical education teachers-students |  | 194 | 377 | 277 | 313
 Total number of arts education teachers-students | 67 | 97 | 188 | 122 | 139
-
-Table 23: Graduated teachers-students in each year
 
 Source: Department of Teacher Education, MoES
 
@@ -2601,11 +2738,7 @@ Education Sector Development Plan 2016-2020
 
 - 6  to  7  TEIs  train  secondary  education  teachers  at  bachelor's  level  in  selected subjects based on the strength and readiness of each TEI to teach these subjects.
 
-·
-
-Each TEI has a demonstration school under their institute, with defined missions
-
-and duties in detail for implementation.
+- Each TEI has a demonstration school under their institute, with defined missions and duties in detail for implementation.
 
 - Each  TEI  has  the  capacity  to  support  continuing  professional  development  for general education teachers through in-service training programmes
 
@@ -2629,7 +2762,7 @@ There are five strategic development plans to be implemented in order to achieve
 
 - Launch an advisory council meeting on teacher education comprising of representatives from the Department of Teacher Education, all Teacher Education Institutes, Education Faculties, the Research Institute for Education and Science to revise teacher education curricula  and  facilitate  the  environment  for  improving  content  in  order  to  ensure coherence with primary and secondary curriculum in line with school quality standards.
 
-- Develop  learning  resources  in  all  disciplines  of  teacher  education  curricula  to  be harmonized with the improved school curriculum. (These resources can be used for inservice programmes within TEIs as well).
+- Develop learning resources in all disciplines of teacher education curricula to be harmonized with the improved school curriculum. (These resources can be used for in-service programmes within TEIs as well).
 
 - Review  and  improve  teacher  education  curricula  by  focussing  on  competencies including  skills  and  ability  to  promote  reading,  writing  and  numerical  calculation  for primary education and this must be in line with the revised primary education curricula.
 
@@ -2709,7 +2842,7 @@ Education Sector Development Plan 2016-2020
 
 - Strengthen the competence of TEI lecturers to work with master trainers and pedagogical advisors to support principals and teachers to deliver the school curriculum and improve the student learning outcomes based on the improved curriculum.
 
-- Strengthen the capacity of master trainers and in-service trainers, PAs to develop inservice curricula, course materials and for supervising teaching practice as a pre-requisite for work in training teachers.
+- Strengthen the capacity of master trainers and in-service trainers, PAs to develop in-service curricula, course materials and for supervising teaching practice as a pre-requisite for work in training teachers.
 
 - Pay attention to implementing the advisory system, support practicum and supervision for the new teachers.
 
@@ -2783,7 +2916,9 @@ Based on the policies and strategies for Teacher Education in each year includin
 
 Education Sector Development Plan 2016-2020
 
-2016 | 2017 | 2018 | 2019 | 2020
+Table 24: Enrolment projection at Teacher Education Institutes
+
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Number of students under quota | 1,200 | 1,200 | 1,200 | 1,200 | 1,200
 Number of students out of quota | 2,800 | 2,800 | 2,800 | 2,800 | 2,800
@@ -2796,9 +2931,9 @@ Physical education teachers | 180 | 180 | 180 | 180 | 180
 Art education teachers | 150 | 150 | 150 | 150 | 150
 Grand total of student enrolment | 25,373 | 21,373 | 17,800 | 16,000 | 16,000
 
-Table 24: Enrolment projection at Teacher Education Institutes
+Table 25: Budget requirement for Teacher Education (million kip)
 
-2016 | 2017 | 2018 | 2019 | 2020
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Operating cost | 7,612 | 6,412 | 5,340 | 4,800 | 4,800
 Stipends | 18,269 | 15,389 | 12,816 | 11,520 | 11,520
@@ -2811,13 +2946,11 @@ Laboratory construction | 0 | 3,200 | 6,400 | 6,400 | 6,400
 Sub total | 3,200 | 6,400 | 12,800 | 12,800 | 12,800
 Grand total | 51,821 | 50,652 | 53,132 | 51,214 | 51,373
 
-Table 25: Budget requirement for Teacher Education (million kip)
-
 ## 7. VOCATIONAL EDUCATION AND TRAINING
 
 ### 7.1 Background
 
-With  cooperation  from  different  stakeholders  such  as  government,  business  units  and development  partners  particularly  the  Asian  Development  Bank  (ADB),  German  and  Korean governments,  vocational  education  and  training  has  been  steadily  improved  every  year. Investment has gone into infrastructure for vocational education institutes nationwide. In 2015, there are 23 vocational education institutes under the management of the Ministry of Education and Sports. These are 2 institutes, 8 colleges, 5 technical and vocational schools, 6 integrated technical  and  vocational  schools,  2  integrated  vocational  schools  and  76  private  vocational educational  locations.  There  are  23  vocational  education  institutes  that  are  under  the management of other ministries in other sectors.
+With cooperation from different stakeholders such as government, business units and development partners particularly the Asian Development Bank (ADB), German and Korean governments, vocational education and training has been steadily improved every year. Investment has gone into infrastructure for vocational education institutes nationwide. In 2015, there are 23 vocational education institutes under the management of the Ministry of Education and Sports. These are 2 institutes, 8 colleges, 5 technical and vocational schools, 6 integrated technical and vocational schools, 2 integrated vocational schools and 76 private vocational
 
 61
 
@@ -2827,7 +2960,9 @@ With  cooperation  from  different  stakeholders  such  as  government,  busines
 
 Education Sector Development Plan 2016-2020
 
-Despite  the  investment  going  into  infrastructure  and  curriculum  improvement  the  student enrolment process  cannot  respond  to  the  demands  of  the  labour  market.  The  enrolment  in vocational schools is mostly in the service and industry sectors; while the ratio in the agriculture sector, which is highly needed by the labour market, is very low particularly in the private sector. Some reasons why the development of vocational education is not functional are as follows:
+educational locations. There are 23 vocational education institutes that are under the management of other ministries in other sectors.
+
+Despite the investment going into infrastructure and curriculum improvement the student enrolment process cannot respond to the demands of the labour market. The enrolment in vocational schools is mostly in the service and industry sectors; while the ratio in the agriculture sector, which is highly needed by the labour market, is very low particularly in the private sector. Some reasons why the development of vocational education is not functional are as follows:
 
 -Vocational guidance is neither deep, equitable nor systematic.
 
@@ -2997,14 +3132,14 @@ Education Sector Development Plan 2016-2020
 
 Based on the policies, the enrolment targets in the TVET institutions that belong to MoES and the budget requirement for the implementation of the TVET plan from now to 2020 will be as follows:
 
+Table 26: Enrolment Projection for Vocational Education
+
 Vocational Education | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 No. of students enrol in curriculum Levels 1 and 2 | 3,800 | 3,300 | 3,000 | 2,600 | 2,400
 No. of students enrol new curriculum 9+3 | 2,000 | 2,500 | 3,000 | 4,000 | 5,000
 No. of students enrol in new curriculum 12+2 and 12+3 | 12,000 | 13,000 | 14,000 | 15,000 | 16,000
 Total number of students (including Levels 1 and 2) | 34,500 | 39,000 | 43,000 | 48,000 | 51,000
-
-Table 26: Enrolment Projection for Vocational Education
 
 64
 
@@ -3014,7 +3149,9 @@ Table 26: Enrolment Projection for Vocational Education
 
 Education Sector Development Plan 2016-2020
 
-2016 | 2017 | 2018 | 2019 | 2020
+Table 27: Financial requirements for Vocational Education (million kip)
+
+ | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Budget for administration | 17,234 | 19,410 | 21,436 | 24,060 | 25,658
 Stipend | 40,356 | 47,381 | 53,637 | 62,031 | 68,354
@@ -3027,8 +3164,6 @@ Teacher and student dormitory construction | 6,400 | 9,600 | 9,600 | 9,600 | 9,6
 Experimental rooms construction | 0 | 16,000 | 16,000 | 16,000 | 16,000
 Total investment | 13,900 | 33,022 | 30,136 | 35,902 | 33,100
 Grand Total | 90,462 | 119,674 | 125,930 | 143,916 | 149,787
-
-Table 27:  Financial requirements for Vocational Education (million kip)
 
 ## 8. HIGHER EDUCATION
 
@@ -3266,12 +3401,14 @@ Education Sector Development Plan 2016-2020
 
 ### 8.4. Enrolment projection and budget requirements (millions kip)
 
+Table 28:  Enrolment projection at four universities
+
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Number of new enrolments | 9,000 | 10,000 | 11,000 | 12,000 | 12,500
 Total students (four universities only) | 36,000 | 38,000 | 39,000 | 42,000 | 45,000
 
-Table 28:  Enrolment projection at four universities
+Table 29: Financial requirements
 
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
@@ -3290,15 +3427,13 @@ Establish SEAMEO Centre | - | 15,000 | 10,000 | 10,000 | 5,000
 Investment budget in total | 45,058 | 114,265 | 105,395 | 116,081 | 107,882
 Grand Total | 109,959 | 181,230 | 172,934 | 188,130 | 183,166
 
-Table 29: Financial requirements
-
 ## 9. EDUCATION ADMINISTRATION AND MANAGEMENT
 
 ### 9.1 Background:
 
 The Ministry of Education and Sports has reformed education administration and management aimed at improving the effectiveness of management and administration. To achieve the reform, the Ministry has adopted the policy of decentralization based on the 'Three-Builds' policy at all levels.  In  addition,  the  Ministry  has  improved  EMIS,  FMIS,  PMIS  as  well  as  its  organizational structure  at  central  and  local  levels.    The  Ministry  has  also  established  Focal  Groups  as  the mechanism to ensure consultative and participatory-based decision-making for all development work of the sector. In the past Education Administration and Management improved significantly and has seen many changes. However, there are some issues that need to be addressed in order to improve the management system to be effective for the long term sustainability of the sector.
 
-The current policy of the government on decentralization is aimed at transferring authority to local levels, but the capacity of provincial and district staff to implement this objective of the policy needs to be more improved, particularly in the technical skills of educational staff. It needs to monitor the implementation of government decrees and guidance orders with the objective of  reforming  the  system  of  planning,  budgeting  and  management  to  be  more  improved.  In addition, there is a need to strengthen the strategic coordination between departments of MoES such  as  the  Departments  of  Personnel,  Planning,  Finance  and  Inspection  in  order  that  the evidence-based planning and budgeting is well linked as specified in the policy framework of ESDP. Strategic coordination improvement and strengthening should be through the Planning, Budgeting and Monitoring Focal Group.
+The current policy of the government on decentralization is aimed at transferring authority to local levels, but the capacity of provincial and district staff to implement this objective of the policy needs to be more improved, particularly in the technical skills of educational staff. It needs to monitor the implementation of government decrees and guidance orders with the objective of reforming the system of planning, budgeting and management to be more improved. In
 
 70
 
@@ -3307,6 +3442,8 @@ The current policy of the government on decentralization is aimed at transferrin
 [[START OF PAGE 80]]
 
 Education Sector Development Plan 2016-2020
+
+addition, there is a need to strengthen the strategic coordination between departments of MoES such as the Departments of Personnel, Planning, Finance and Inspection in order that the evidence-based planning and budgeting is well linked as specified in the policy framework of ESDP. Strategic coordination improvement and strengthening should be through the Planning, Budgeting and Monitoring Focal Group.
 
 Currently, the concerned institutes and staff have limited capacity to monitor the implementation  of  ESDP.  There  is  need  to  improve  the  use  and  management  of  human resources/teachers in a more effective manner. The responsibilities and mandates at educational institutes and the quality of training in education management and administration is now in the initial  stages  and  there  is  need  to  upgrade  these  in  order  to  achieve  their  responsibility  in providing training to educators. At present there is no  common assessment standard for school principals and teachers. Some existing legislations are not applicable or are even not applied at all. The implementation of teacher policies is not effective. From the issues mentioned, there is a need to focus on addressing them during the next five years. These issues are:
 
@@ -3542,6 +3679,8 @@ Education Sector Development Plan 2016-2020
 
 In order to implement targets and strategies in improving education administration and management, budget requirement by 2020 as follows:
 
+Table 30: Financial requirement for education administration and management (million kip)
+
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Operating budget | 85,333 | 86,500 | 87,667 | 88,833 | 90,000
@@ -3557,13 +3696,11 @@ IFEAD building construction | 0 | 10,000 | 10,000 | 10,000 | 10,000
 Total investment | 10,960 | 33,460 | 33,460 | 33,460 | 33,460
 Grand Total | 213,501 | 237,317 | 238,633 | 239,949 | 241,265
 
-Table 30: Financial requirement for education administration and management (million kip)
-
 ## 10. SPORTS
 
 ### 10.1. Background
 
-Lao sports has broadly expanded in both urban and rural areas. It also contributes to human resources  development  and  solves  socially  negative  phenomena  including  poverty,  socioeconomic development, national security and defence. Sports contributes to the linkage and friendship between countries in the region and the world. Nowadays, it can be said that alternate sports is broadly merged in the social context in all regions Sports is played in offices, villages, and communities, based on  their capacity. It can be said that 'where there is community, there is sports' especially the great success of Lao people in organising the 25 th  SEA Games in 2009 and the 16 th  ASEAN University Games in 2012.
+Lao sports has broadly expanded in both urban and rural areas. It also contributes to human resources  development  and  solves  socially  negative  phenomena  including  poverty,  socio-economic development, national security and defence. Sports contributes to the linkage and friendship between countries in the region and the world. Nowadays, it can be said that alternate sports is broadly merged in the social context in all regions Sports is played in offices, villages, and communities, based on  their capacity. It can be said that 'where there is community, there is sports' especially the great success of Lao people in organising the 25th SEA Games in 2009 and the 16th ASEAN University Games in 2012.
 
 Although  in  general  sports  has  seen  a  broad  expansion,  this  expansion  has  not  reached  all communities and local areas. Sports organization structures from central to local levels are not very strong; the standard of Lao sports development is not comprehensive; the quantity and quality of sport staff is limited and the use of basic infrastructure is not highly effective, and materials for sports is limited or cannot be provided as it should be.
 
@@ -3633,7 +3770,7 @@ Education Sector Development Plan 2016-2020
 
 Education Sector Development Plan 2016-2020
 
--By 2020, make the effort to train 1,800-2,200 talented physical sports athletes to have quality in each age group nationwide; 600-700 athletes in 14-year-old age group, 500-600 athletes in 16-year-old age group, 400-500 athletes in 18-year-old age group, and 300400 athletes in 20-year- old age group.
+-By 2020, make the effort to train 1,800-2,200 talented physical sports athletes to have quality in each age group nationwide; 600-700 athletes in 14-year-old age group, 500-600 athletes in 16-year-old age group, 400-500 athletes in 18-year-old age group, and 300-400 athletes in 20-year- old age group.
 
 #### Physical sports for internal and external competition
 
@@ -3771,7 +3908,7 @@ Education Sector Development Plan 2016-2020
 
 - Support some sports that are Laos' strengths to  become professional sports in the future.
 
-- Coordinate with the National University to establish a Sports Science Faculty by 20162017.
+- Coordinate with the National University to establish a Sports Science Faculty by 2016-2017.
 
 - Manage and utilise sports infrastructure
 
@@ -3807,6 +3944,8 @@ Education Sector Development Plan 2016-2020
 
 To implement the targets and policies for improving sports and financial requiremenst for sports to 2020:
 
+Table 31: Financial requirements for sports
+
 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | ---
 Budget for sports equipment | 5,000 | 5,000 | 5,000 | 5,000 | 5,000
@@ -3817,13 +3956,15 @@ Sport talented school construction | 5,000 | 5,000 | 5,000 | 5,000 | 5,000
 Total investment | 5,000 | 5,000 | 5,000 | 5,000 | 5,000
 Grand Total | 43,200 | 68,200 | 68,200 | 68,200 | 68,200
 
-Table 31: Financial requirements for sports
-
 80
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
+
+Australian Aid
+
+European Union
 
 Supported by Australia and the European Union
 
