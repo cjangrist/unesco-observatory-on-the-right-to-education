@@ -22,6 +22,27 @@ PDF generated: 17 Jan 2018, 20:28
 
 # Table of contents
 
+SECTION I: The Nation and Its Sovereignty 3
+SECTION II: Rights, Duties and Guarantees 4
+SECTION III: Citizenship and Suffrage 14
+SECTION IV: The Form of Government and Its Various Powers 19
+SECTION V: The Legislative Power 19
+SECTION VI: Sessions of the General Assembly. Provisions Common to Both Chambers. The Permanent Commission 24
+SECTION VII: Introduction, Discussion, Passage and Promulgation of the Laws 30
+SECTION VIII: Relations Between the Legislative Power and the Executive Power 32
+SECTION IX: The Executive Power 34
+SECTION X: The Ministers of State 42
+SECTION XI: The Autonomous Entities and Decentralized Services 44
+SECTION XII: The National Economic Council 49
+SECTION XIII: The Tribunal of Accounts 49
+SECTION XIV: The Public Wealth 51
+SECTION XV: The Judicial Power 56
+SECTION XVI: The Government and Administration of the Departments 62
+SECTION XVII: The Contentious-Administrative 74
+SECTION XVII: Electoral Justice 77
+SECTION XIX: The Observance of Former Laws. Enforcement and Amendment of the Present Constitution 78
+Transitory and Special Provisions 81
+
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
 Page 2
@@ -434,23 +455,23 @@ Water is a natural resource essential for life.
 
 The  access  to  potable  water  and  the  access  to  sanitation,  constitute  fundamental human rights.
 
-- The national policy concerning water and sanitation shall be based on:
+1. The national policy concerning water and sanitation shall be based on:
 
-- the ordering of the territory, conservation and protection of the Environment and the restoration of nature.
+a. the ordering of the territory, conservation and protection of the Environment and the restoration of nature.
 
-- the  sustainable  management, in solidarity  with  the  future  generations,  of the hydro resources and the preservation of the hydrological cycle which constitutes [a] matter of public interest. The users and the civil society, shall participate  in  all  the  instances  of  planning,  management  and  control  of hydro  resources;  establishing  the  hydrological  basins  [cuencas]  as  basic unities.
+b. the sustainable management, in solidarity with the future generations, of the hydro resources and the preservation of the hydrological cycle which constitutes [a] matter of public interest. The users and the civil society, shall participate in all the instances of planning, management and control of hydro resources; establishing the hydrological basins [cuencas] as basic unities.
 
-- the  establishment  of  priorities  for  the  use  of  water  by  regions,  basins,  or parts of them, having the first priority [be] the provision of potable water to the population.
+c. the establishment of priorities for the use of water by regions, basins, or parts of them, having the first priority [be] the provision of potable water to the population.
 
-- the principle that the delivery [prestación] of the services of potable water and sanitation, must have preference for reasons of social order over the economic order.
+d. the principle that the delivery [prestación] of the services of potable water and sanitation, must have preference for reasons of social order over the economic order.
 
-Any  authorization,  concession  or  permission  that  in  any  manner  infringes  the provisions above[,] will be considered of no effect.
+Any authorization, concession or permission that in any manner infringes the provisions above[,] will be considered of no effect.
 
-- The surface waters, as well as the subterranean [waters], with the exception of rain  water,  composing  a  hydrological  cycle,  constitute  a  unitary  resource, subordinate to the general interest, that forms part of the public state domain, as public hydraulic domain.
+2. The surface waters, as well as the subterranean [waters], with the exception of rain water, composing a hydrological cycle, constitute a unitary resource, subordinate to the general interest, that forms part of the public state domain, as public hydraulic domain.
 
-- The public service of sanitation, and the public service of the provision of water for  the  human  consumer  will  be  provided  exclusively  and  directly  by  state juridical persons.
+3. The public service of sanitation, and the public service of the provision of water for the human consumer will be provided exclusively and directly by state juridical persons.
 
-- The  law,  by  three-fifths  of  the  votes  of  the  total  of  the  members  of  each Chamber,  can  authorize  the  supply  of  water,  to  another  country,  when  such [country] encounters [the] inability to provide it[,] and for reasons of solidarity.
+4. The law, by three-fifths of the votes of the total of the members of each Chamber, can authorize the supply of water, to another country, when such [country] encounters [the] inability to provide it[,] and for reasons of solidarity.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -568,15 +589,15 @@ The law shall establish civil service regulations on the basis that the official
 
 Its principles shall apply to subordinate officials:
 
-- of  the  Executive  Power,  with  the  exception  of  the  military,  police  and diplomatic officials, who shall be governed by special laws;
+A. of the Executive Power, with the exception of the military, police and diplomatic officials, who shall be governed by special laws;
 
-- of  the  Judicial  Power  and  of  the  Contentious-Administrative  Tribunal except with respect to judgeships;
+B. of the Judicial Power and of the Contentious-Administrative Tribunal except with respect to judgeships;
 
-- of the Tribunal of Accounts;
+C. of the Tribunal of Accounts;
 
-- of  the  Electoral  Court  and  its  agencies,  without  prejudice  to  regulations enacted for the control of political parties;
+D. of the Electoral Court and its agencies, without prejudice to regulations enacted for the control of political parties;
 
-- of  the  Decentralized  Services,  without  prejudice  to  whatever  may  be provided in special laws covering the diverse nature of their functions.
+E. of the Decentralized Services, without prejudice to whatever may be provided in special laws covering the diverse nature of their functions.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -656,9 +677,9 @@ The adjustments to Retirement and Pension assignments cannot be inferior to the 
 
 The benefits specified in the previous paragraph are financed on the basis of:
 
-- Worker  and  employer  contributions  and  other  taxes  established  by  law; and
+A. Worker and employer contributions and other taxes established by law; and
 
-- The financial assistance that must be proportional to the State, if deemed necessary.
+B. The financial assistance that must be proportional to the State, if deemed necessary.
 
 ### Article 68
 
@@ -738,7 +759,7 @@ All men and women born at any place within the territory of the Republic are nat
 
 The following have the right to legal citizenship:
 
-- Foreign men and women of good conduct, and having a family within the Republic,  who  possess  some  capital  or  property  in  the  country,  or  are engaged in some profession, craft, or industry, and have resided habitually in the Republic for three years;
+A. Foreign men and women of good conduct, and having a family within the Republic, who possess some capital or property in the country, or are engaged in some profession, craft, or industry, and have resided habitually in the Republic for three years;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -758,9 +779,9 @@ PDF generated: 17 Jan 2018, 20:28
 
 · Secret ballot
 
-- Foreign men and women of good conduct, without families in the Republic, who  possess any of the qualifications mentioned in the preceding paragraph and who have resided habitually in the country for five years;
+B. Foreign men and women of good conduct, without families in the Republic, who possess any of the qualifications mentioned in the preceding paragraph and who have resided habitually in the country for five years;
 
-- Foreign  men  and  women  who  obtain  special  courtesy  from  the  General Assembly for noteworthy services or outstanding merit.
+C. Foreign men and women who obtain special courtesy from the General Assembly for noteworthy services or outstanding merit.
 
 Proof  of  residence  must  necessarily  be  based  on  a  public  or  private  document  of proven date.
 
@@ -782,11 +803,11 @@ Every citizen is a member of the sovereignty of the Nation; as such he is a vote
 
 Suffrage shall be exercised in the manner determined by law, but on the following bases:
 
-- Compulsory inscription in the Civil Register;
+1. Compulsory inscription in the Civil Register;
 
-- Secret  and  compulsory  vote.  The  law,  by  an  absolute  majority  of  the  full membership  of  each  Chamber,  shall regulate the fulfillment of this obligation.
+2. Secret and compulsory vote. The law, by an absolute majority of the full membership of each Chamber, shall regulate the fulfillment of this obligation.
 
-- Integral proportional representation.
+3. Integral proportional representation.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -802,21 +823,21 @@ PDF generated: 17 Jan 2018, 20:28
 
 · Scheduling of elections
 
-- Judicial magistrates, members of the Contentious-Administrative Tribunal and the Tribunal of Accounts, Directors of the Autonomous Entities and the Decentralized  Services,  persons  in  active  military  service  regardless  of rank, and police officials of whatever category, must abstain, under penalty of dismissal and withdrawal of eligibility to hold any other public office for from two to ten years, from membership in political committees or clubs, from  signing  party  proclamations,  and  from  authorizing  the  use  of  their names  and,  in  general,  from  any  other  public  or  private  act  of  a  political character,  with  the  exception  of  voting.  The  participation  of  Directors  of the Autonomous Entities and the Decentralized Services in party organizations  engaged  in  the  specific  task  of  the  study  of  government, legislation, and  administration, is not regarded  as  included in  these prohibitions.
+4. Judicial magistrates, members of the Contentious-Administrative Tribunal and the Tribunal of Accounts, Directors of the Autonomous Entities and the Decentralized Services, persons in active military service regardless of rank, and police officials of whatever category, must abstain, under penalty of dismissal and withdrawal of eligibility to hold any other public office for from two to ten years, from membership in political committees or clubs, from signing party proclamations, and from authorizing the use of their names and, in general, from any other public or private act of a political character, with the exception of voting. The participation of Directors of the Autonomous Entities and the Decentralized Services in party organizations engaged in the specific task of the study of government, legislation, and administration, is not regarded as included in these prohibitions.
 
-The Electoral Court shall be competent to take cognizance of and impose penalties  for  the  above-mentioned  electoral  offenses.  The  accusation should be made before the Electoral Court by either of the Chambers, the Executive Power, or the national authorities of the Parties.
+The Electoral Court shall be competent to take cognizance of and impose penalties for the above-mentioned electoral offenses. The accusation should be made before the Electoral Court by either of the Chambers, the Executive Power, or the national authorities of the Parties.
 
-Without  prejudice  to  the  above  provisions,  the  facts  shall  in  all  cases  be referred to the ordinary courts for such additional action as they may deem appropriate.
+Without prejudice to the above provisions, the facts shall in all cases be referred to the ordinary courts for such additional action as they may deem appropriate.
 
-- The President of the Republic and members of the Electoral Court may not belong to political committees or clubs, nor hold directive positions in party organizations, nor take part in any way in political election propaganda;
+5. The President of the Republic and members of the Electoral Court may not belong to political committees or clubs, nor hold directive positions in party organizations, nor take part in any way in political election propaganda;
 
-- All electoral boards which may be designated to intervene in questions of suffrage must be elected with the guarantees provided in this article.
+6. All electoral boards which may be designated to intervene in questions of suffrage must be elected with the guarantees provided in this article.
 
-- Any  new  law  concerning  the  Civil  Register  or  Elections,  as  well  as  any amendment or interpretation of the existing laws, shall require a two-thirds vote  of  the  full  membership  of  each  Chamber.  This  special  majority  shall apply only to the guarantees  of suffrage and  election,  composition, functions, and procedure of the Electoral Court and electoral boards. For action  in  matters  of  expenditures,  budgets,  and  internal  regulations,  a simple majority will be sufficient.
+7. Any new law concerning the Civil Register or Elections, as well as any amendment or interpretation of the existing laws, shall require a two-thirds vote of the full membership of each Chamber. This special majority shall apply only to the guarantees of suffrage and election, composition, functions, and procedure of the Electoral Court and electoral boards. For action in matters of expenditures, budgets, and internal regulations, a simple majority will be sufficient.
 
-- By a two-thirds vote of the full membership of each Chamber, the law may extend  the  prohibitions  contained  in  items  (4)  and  (5)  to  include  other officials.
+8. By a two-thirds vote of the full membership of each Chamber, the law may extend the prohibitions contained in items (4) and (5) to include other officials.
 
-- The election of members of both Chambers of the Legislative Power, of the President and Vice President of the Republic, as well as that of any organ for which the constitution or membership the laws establish the procedure of election by the Electoral Body, with the exception of those referred to in the third paragraph of this numeral, shall take place on the last Sunday of the month of October every five years, without prejudice to the provisions of Article 148 and 151.
+9. The election of members of both Chambers of the Legislative Power, of the President and Vice President of the Republic, as well as that of any organ for which the constitution or membership the laws establish the procedure of election by the Electoral Body, with the exception of those referred to in the third paragraph of this numeral, shall take place on the last Sunday of the month of October every five years, without prejudice to the provisions of Article 148 and 151.
 
 The lists of candidates for both Chambers and for the President and Vice President of the Republic must figure on an individualized ballot paper with the lema [identifier] of a political party.
 
@@ -832,19 +853,21 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Restrictions on voting The election of the Intendants, the members of the Departmental Boards, and  the  other  local  elective  authorities,  shall  take  place  on  the  second Sunday of the month of May of the year following the national elections. The  lists  of  candidates  for  the  departmental  offices  must  figure  on  an individualized ballot paper with the lema of a political party.
+The election of the Intendants, the members of the Departmental Boards, and the other local elective authorities, shall take place on the second Sunday of the month of May of the year following the national elections. The lists of candidates for the departmental offices must figure on an individualized ballot paper with the lema of a political party.
 
-- No Legislator or Intendant who resigns his post after assuming office shall have  the  right  to  collect  any  compensation  or  retirement  benefit  which might  pertain  to  him  by  reason  of  his  termination,  until  the  full  term  for which he was elected has expired.
+10. No Legislator or Intendant who resigns his post after assuming office shall have the right to collect any compensation or retirement benefit which might pertain to him by reason of his termination, until the full term for which he was elected has expired.
 
-This provision does  not  include resignations because  of  illness  duly substantiated  by  the  Medical  Board,  nor  those  expressly  authorized  by three-fifths of the votes of the full membership of the body concerned, nor to  Intendants  who  resign  three  months  before  an  election  in  order  to become a candidate.
+This provision does not include resignations because of illness duly substantiated by the Medical Board, nor those expressly authorized by three-fifths of the votes of the full membership of the body concerned, nor to Intendants who resign three months before an election in order to become a candidate.
 
-- The  State  shall  secure  the  broadest  freedom  for  the  political  parties. Without prejudice to the former, the parties shall:
+11. The State shall secure the broadest freedom for the political parties. Without prejudice to the former, the parties shall:
 
-- effectively exercise internal democracy  in the election of their authorities; [and,]
+a. effectively exercise internal democracy in the election of their authorities; [and,]
 
-- provide  maximum  publicity  to  their  Organic  Acts  [Cartas  Orgánicas] and  Programs  of  Principles,  in  such  a  manner  that  the  citizen  can extensively familiarize himself with them.
+b. provide maximum publicity to their Organic Acts [Cartas Orgánicas] and Programs of Principles, in such a manner that the citizen can extensively familiarize himself with them.
 
-- The  political  parties  shall  elect  their  candidate  for  the  President  of  the Republic by way of internal elections that the law shall regulate, sanctioned by the vote of two-thirds of the total of the members of each Chamber. The form of electing the candidate of each party to the Vice Presidency of the Republic shall be determined by [an] identical majority and[,] while this law is  not  adopted,  it  will  be  that  which  in  this  respect  the  competent  party organs  resolve.  This  law  shall  determine  also,  the  form  in  which  the vacancies of the candidate for the Presidency and the Vice Presidency will be filled  [,]  that  are  produced  after  their  election  and  before  the  national election.
+12. The political parties shall elect their candidate for the President of the Republic by way of internal elections that the law shall regulate, sanctioned by the vote of two-thirds of the total of the members of each Chamber. The form of electing the candidate of each party to the Vice Presidency of the Republic shall be determined by [an] identical majority and[,] while this law is not adopted, it will be that which in this respect the competent party organs resolve. This law shall determine also, the form in which the vacancies of the candidate for the Presidency and the Vice Presidency will be filled [,] that are produced after their election and before the national election.
+
+· Restrictions on voting
 
 ### Article 78
 
@@ -884,19 +907,19 @@ Twenty-five percent of all persons registered and qualified to vote may, within 
 
 Citizenship is suspended:
 
-- By physical or mental ineptitude which prevents free and reflective action;
+1. By physical or mental ineptitude which prevents free and reflective action;
 
-- By  being  under  indictment  on  a  criminal  charge  which  may  result  in  a penitentiary sentence;
+2. By being under indictment on a criminal charge which may result in a penitentiary sentence;
 
-- By being under eighteen years of age;
+3. By being under eighteen years of age;
 
-- By  being  under  sentence  which  imposes  the  penalty  of  exile,  prison, penitentiary, or loss of political rights during the term of the sentence;
+4. By being under sentence which imposes the penalty of exile, prison, penitentiary, or loss of political rights during the term of the sentence;
 
-- By  habitually  engaging  in  morally  dishonest  activities  which  shall  be specified by law in accordance with item 7 of Article 77;
+5. By habitually engaging in morally dishonest activities which shall be specified by law in accordance with item 7 of Article 77;
 
-- By being a member of social or political organizations which advocate the destruction of the fundamental  bases  of the nation by violence  or propaganda inciting to violence. Those mentioned in Sections I and II of this Constitution are considered to be such for the purposes of this provision;
+6. By being a member of social or political organizations which advocate the destruction of the fundamental bases of the nation by violence or propaganda inciting to violence. Those mentioned in Sections I and II of this Constitution are considered to be such for the purposes of this provision;
 
-- By a continuing lack of good conduct as required by Article 75.
+7. By a continuing lack of good conduct as required by Article 75.
 
 The last two grounds shall apply only with respect to legal citizens.
 
@@ -956,9 +979,9 @@ The latter shall be composed of two Chambers: one of Representatives and the oth
 
 The General Assembly is competent:
 
-- To enact and order publication of the Codes;
+1. To enact and order publication of the Codes;
 
-- To  establish  Tribunals  and  regulate  the  Administration  of  Justice  and  of Contentious-Administrative matters;
+2. To establish Tribunals and regulate the Administration of Justice and of Contentious-Administrative matters;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -984,27 +1007,27 @@ PDF generated: 17 Jan 2018, 20:28
 
 · Designation of commander in chief
 
-- To  enact  laws  relating  to  the  independence,  security,  tranquility,  and decorum  of  the  Republic;  the  protection  of  all  individual  rights  and  the fostering  of  education,  agriculture,  industry,  and  domestic  and  foreign trade;
+3. To enact laws relating to the independence, security, tranquility, and decorum of the Republic; the protection of all individual rights and the fostering of education, agriculture, industry, and domestic and foreign trade;
 
-- To impose the necessary taxes to meet budgetary expenditures, provide for their  distribution,  collection  and  appropriation,  and  to  repeal,  modify,  or increase those in existence;
+4. To impose the necessary taxes to meet budgetary expenditures, provide for their distribution, collection and appropriation, and to repeal, modify, or increase those in existence;
 
-- To approve or disapprove, in whole or in part, the accounts presented by the Executive Power;
+5. To approve or disapprove, in whole or in part, the accounts presented by the Executive Power;
 
-- To authorize, on the initiative of the Executive Power, the National Public Debt,  to  consolidate  it,  to  provide  for  its  guaranties,  and  to  regulate  the public credit, an absolute majority of the full membership of each Chamber being necessary in the three first-mentioned cases;
+6. To authorize, on the initiative of the Executive Power, the National Public Debt, to consolidate it, to provide for its guaranties, and to regulate the public credit, an absolute majority of the full membership of each Chamber being necessary in the three first-mentioned cases;
 
-- To declare war and to approve or disapprove, by an absolute majority of the full membership  of both Chambers, the treaties of peace, alliance, commerce, and conventions or contracts of any nature which the Executive Power may make with foreign powers;
+7. To declare war and to approve or disapprove, by an absolute majority of the full membership of both Chambers, the treaties of peace, alliance, commerce, and conventions or contracts of any nature which the Executive Power may make with foreign powers;
 
-- To  designate  each  year  the  armed  force  that  may  be  necessary.  Military effectives may be increased only by an absolute majority of the votes of the full membership of each Chamber;
+8. To designate each year the armed force that may be necessary. Military effectives may be increased only by an absolute majority of the votes of the full membership of each Chamber;
 
-- To  create  new  Departments  by  a  vote  of  two-thirds  majority  of  the  full membership of each Chamber; to establish their boundaries; to establish ports  of  entry;  to  establish  customhouses  and  export  and  import  duties, applying, with respect to the latter, the provisions of Article 87; and also to declare as of national interest tourist zones, which shall be administered by the appropriate Ministry;
+9. To create new Departments by a vote of two-thirds majority of the full membership of each Chamber; to establish their boundaries; to establish ports of entry; to establish customhouses and export and import duties, applying, with respect to the latter, the provisions of Article 87; and also to declare as of national interest tourist zones, which shall be administered by the appropriate Ministry;
 
-- To establish the weight, standard and value of monies; to fix the rates and denominations thereof; and to provide a system of weights and measures;
+10. To establish the weight, standard and value of monies; to fix the rates and denominations thereof; and to provide a system of weights and measures;
 
-- To permit or prohibit the entry of foreign troops into the territory of the Republic,  and  in  the  former  case,  to  fix  the  time  when  they  must  depart. Excepted from the above are forces which may enter for the sole purpose of  doing  honor  and  whose  entry  shall  be  authorized  by  the  Executive Power;
+11. To permit or prohibit the entry of foreign troops into the territory of the Republic, and in the former case, to fix the time when they must depart. Excepted from the above are forces which may enter for the sole purpose of doing honor and whose entry shall be authorized by the Executive Power;
 
-- To refuse or permit the expedition of national forces outside the Republic, in the latter case fixing the time for their return to the country;
+12. To refuse or permit the expedition of national forces outside the Republic, in the latter case fixing the time for their return to the country;
 
-- To  create  or  abolish  public  offices,  determining  their  compensation  and retirement  regulations,  and  to  approve,  disapprove,  or  decrease  the budgets  of  expenditures  presented  by  the  Executive  Power;  to  grant pensions and other classes of pecuniary compensation and to decree public honors as a reward for distinguished services;
+13. To create or abolish public offices, determining their compensation and retirement regulations, and to approve, disapprove, or decrease the budgets of expenditures presented by the Executive Power; to grant pensions and other classes of pecuniary compensation and to decree public honors as a reward for distinguished services;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -1030,19 +1053,19 @@ Constitutional interpretation
 
 · First chamber selection
 
-- To  grant  pardons  by  a  two-thirds  vote  of  the  full  membership  of  the General Assembly in joint session, and to grant amnesties in extraordinary cases,  by  an  absolute  majority  vote  of  the  full  membership  of  each Chamber;
+14. To grant pardons by a two-thirds vote of the full membership of the General Assembly in joint session, and to grant amnesties in extraordinary cases, by an absolute majority vote of the full membership of each Chamber;
 
-- To  issue  regulations  concerning  the  militia  and  to  fix  their  number  and designate the times they shall be called to service;
+15. To issue regulations concerning the militia and to fix their number and designate the times they shall be called to service;
 
-- To  select  the  place  where  the  principal  authorities  of  the  Nation  must reside;
+16. To select the place where the principal authorities of the Nation must reside;
 
-- To grant monopolies by a two-thirds vote of the full membership of each Chamber. To establish a monopoly in favor of the State or of a Departmental  Government  requires  an  absolute  majority  of  the  votes  of the full membership of each Chamber;
+17. To grant monopolies by a two-thirds vote of the full membership of each Chamber. To establish a monopoly in favor of the State or of a Departmental Government requires an absolute majority of the votes of the full membership of each Chamber;
 
-- To elect, in joint session of both Chambers, the members of the Supreme Court of Justice, of the Electoral Court, of the Contentious-Administrative Tribunal, and of the Tribunal of Accounts, subject to the provisions of the respective Sections;
+18. To elect, in joint session of both Chambers, the members of the Supreme Court of Justice, of the Electoral Court, of the Contentious-Administrative Tribunal, and of the Tribunal of Accounts, subject to the provisions of the respective Sections;
 
-- To  pass  political  judgment  on  the  conduct  of  the  Ministers  of  State,  in accordance with the provisions of Section VIII;
+19. To pass political judgment on the conduct of the Ministers of State, in accordance with the provisions of Section VIII;
 
-- To  interpret  the  Constitution,  without  prejudice  to  the  power  of  the Supreme Court of Justice under Article 256 to 261.
+20. To interpret the Constitution, without prejudice to the power of the Supreme Court of Justice under Article 256 to 261.
 
 ### Article 86
 
@@ -1096,9 +1119,9 @@ To be a Representative it is necessary to be a natural citizen in full exercise 
 
 The following may not be Representatives:
 
-- The President and Vice President of the Republic, members of the Judicial Power, the Tribunal of Accounts, the Contentious-Administrative Tribunal, the Electoral Court, of the Councils or Boards of Directors, or Directors of the Autonomous  Entities  and of the Decentralized Services, of  the Departmental Boards, the Local Boards, and Intendants;
+1. The President and Vice President of the Republic, members of the Judicial Power, the Tribunal of Accounts, the Contentious-Administrative Tribunal, the Electoral Court, of the Councils or Boards of Directors, or Directors of the Autonomous Entities and of the Decentralized Services, of the Departmental Boards, the Local Boards, and Intendants;
 
-- Military  employees  or  civil  employees  of  the  Executive,  Legislative  or Judicial Powers, the Electoral Court, Contentious-Administrative Tribunal, Tribunal  of  Accounts,  the  Departmental  Governments,  the  Autonomous Entities  and  the  Decentralized  Services,  if  they  receive  a  salary,  but excepting retired or pensioned employees. This provision does not apply to university teaching positions or university technicians with  teaching functions,  but  if  the  elected  Representative  chooses  to  continue  in  such position, it must be honorary during his term in office. Military persons who resign their posts and salary in order to serve in the Legislature shall retain their rank, but for the duration of their legislative functions they may not be promoted;  they  shall  be  exempt  from  all  military  discipline  and  the  time during  which  they  hold  their  legislative  position  shall  not  be  counted  for purposes of seniority for promotion.
+2. Military employees or civil employees of the Executive, Legislative or Judicial Powers, the Electoral Court, Contentious-Administrative Tribunal, Tribunal of Accounts, the Departmental Governments, the Autonomous Entities and the Decentralized Services, if they receive a salary, but excepting retired or pensioned employees. This provision does not apply to university teaching positions or university technicians with teaching functions, but if the elected Representative chooses to continue in such position, it must be honorary during his term in office. Military persons who resign their posts and salary in order to serve in the Legislature shall retain their rank, but for the duration of their legislative functions they may not be promoted; they shall be exempt from all military discipline and the time during which they hold their legislative position shall not be counted for purposes of seniority for promotion.
 
 ### Article 92
 
@@ -1240,21 +1263,17 @@ Page 24
 
 [[START OF PAGE 25]]
 
-· Extraordinary legislative sessions
-
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
 · Extraordinary legislative sessions
 
-· Leader of first chamber Likewise, a recess is automatically suspended for the Chamber which has before it or which  receives  for  consideration,  during  the  recess,  a  proposal  declared  to  be  of urgent consideration.
+Likewise, a recess is automatically suspended for the Chamber which has before it or which receives for consideration, during the recess, a proposal declared to be of urgent consideration.
 
-· Attendance by legislators
+· Extraordinary legislative sessions
 
-· Quorum for legislative sessions
-
-A  simple  convocation  to  extraordinary  sessions  does  not  suffice  to  terminate  the recess of the General Assembly or of either of its Chambers. For the recess to be interrupted sessions must actually be held, and the interruption shall last as long as the sessions are being held.
+A simple convocation to extraordinary sessions does not suffice to terminate the recess of the General Assembly or of either of its Chambers. For the recess to be interrupted sessions must actually be held, and the interruption shall last as long as the sessions are being held.
 
 ## Chapter II
 
@@ -1262,21 +1281,27 @@ A  simple  convocation  to  extraordinary  sessions  does  not  suffice  to  ter
 
 Each Chamber shall be governed internally by such regulations as it may issue, and when they meet jointly in General Assembly, by such rule as the General Assembly may make.
 
+· Leader of first chamber
+
 ### Article 106
 
 Each Chamber shall appoint its president and vice presidents, with the exception of the president of the Chamber of Senators, whose appointment is governed by the provisions of Article 94.
 
 ### Article 107
 
-Each  Chamber  shall  appoint  its  secretaries  and  personnel,  in  conformity  with regulations which must be established in accordance with the guaranties provided in Article 58 to 66, wherever appropriate.
+Each Chamber shall appoint its secretaries and personnel, in conformity with regulations which must be established in accordance with the guaranties provided in Article 58 to 66, wherever appropriate.
 
 ### Article 108
 
-Within the first twelve months of each legislative term, each Chamber shall approve its  budget  by  a  vote  of  three-fifths  of  its  full  membership,  and  shall  notify  the Executive  Power  in  order  that  it  may  be  included  in  the  National  Budget.  These budgets shall be structured by programs and, in addition, shall be given broad public dissemination.
+Within the first twelve months of each legislative term, each Chamber shall approve its budget by a vote of three-fifths of its full membership, and shall notify the Executive Power in order that it may be included in the National Budget. These budgets shall be structured by programs and, in addition, shall be given broad public dissemination.
 
-Within the first five months  of each legislative  term,  any  changes  deemed indispensable may be adopted by the same quorum.
+Within the first five months of each legislative term, any changes deemed indispensable may be adopted by the same quorum.
 
 If the budget has not been approved before these periods have expired, the previous budget shall continue in force.
+
+· Attendance by legislators
+
+· Quorum for legislative sessions
 
 ### Article 109
 
@@ -1298,21 +1323,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-·
 
-- Head of state immunity
-
-- Immunity of legislators
-
-· Head of state immunity
-
-- Immunity of legislators
-
-· Head of state immunity
-
-· Removal of individual legislators
-
-· Replacement of legislators
 
 ### Article 111
 
@@ -1322,17 +1333,29 @@ The regulations of each Chamber may provide for a secret vote in cases of pardon
 
 ## Chapter III
 
+· Head of state immunity
+
+· Immunity of legislators
+
 ### Article 112
 
 Senators and Representatives shall never be held liable for the votes they cast or opinions expressed during the discharge of their duties.
+
+· Head of state immunity
+
+· Immunity of legislators
 
 ### Article 113
 
 No  Senator  or  Representative,  from  the  day  of  his  election  until  that  of  his termination, may be arrested except in case of flagrante delicto and then notice shall immediately be given to the respective Chamber, with a summary report of the case.
 
+· Head of state immunity
+
 ### Article 114
 
 No  Senator  or  Representative,  from  the  day  of  his  election  until  that  of  his termination,  may  be  indicted  on  a  criminal  charge,  or  even  for  common  offenses which  are  not  specified  in  Article  93,  except  before  his  own  Chamber,  which,  by two-thirds of the votes of its full membership, shall decide whether or not there are grounds for prosecution and if so, shall declare him suspended from office, and he shall be placed at the disposition of a competent Tribunal.
+
+· Removal of individual legislators
 
 ### Article 115
 
@@ -1341,6 +1364,8 @@ Each  Chamber  may  reprimand  any  of  its  members  for  disorderly  conduct  
 By  the  same  number  of  votes  it  may  remove  a  member  for  physical  or  mental incapacity  which  developed  after  he  took  office,  or  for  conduct  rendering  him unworthy of his office after he was declared elected.
 
 A simple majority of those present shall be sufficient to accept voluntary resignations.
+
+· Replacement of legislators
 
 ### Article 116
 
@@ -1358,19 +1383,13 @@ Page 26
 
 constituteproject.org
 
-- Attendance by legislators
 
-- Compensation of legislators
 
-- Joint meetings of legislative chambers
+· Attendance by legislators
 
-- Legislative oversight of the executive
+· Compensation of legislators
 
-· Legislative oversight of the executive
-
-- Legislative committees
-
-- Legislative oversight of the executive
+· Joint meetings of legislative chambers
 
 ### Article 117
 
@@ -1382,17 +1401,25 @@ The salary shall be fixed by a two-thirds vote of the full membership of the Gen
 
 ## Chapter IV
 
+· Legislative oversight of the executive
+
 ### Article 118
 
 Any  Legislator  may  ask  a  Minister  of  state,  the  Supreme  Court  of  Justice,  the Electoral  Court,  the  Contentious-Administrative  Tribunal,  and  the  Tribunal  of Accounts,  for  such  data  and  information  as  he  may  consider  necessary  for  the discharge  of  his  duties.  The  request  shall  be  made  in  writing  and  through  the intermediary  of  the  President  of  the  respective  Chamber,  who  will  transmit  it immediately to the appropriate agency. If the latter does not supply the information within  the  period  to  be  fixed  by  law,  the  Legislator  may  request  it  through  the Chamber to which he belongs, which will make a final decision in the case.
 
 Matters  pertaining  to  the  jurisdictional  business  and  competence  of  the  Judicial Power and of the Contentious-Administrative Tribunal may not be de object of such a request.
 
+· Legislative oversight of the executive
+
 ### Article 119
 
 Each Chamber has the right, by a resolution of one-third of its full membership, to require the presence on its floor of the Ministers of state in order to question them and  receive  from  them  information  which  it  considers  appropriate,  whether  for legislative purposes or for purposes of inspection or investigation, without prejudice to the provisions of Section VIII.
 
 When such  information  refers  to  Autonomous  Entities  or  Decentralized  Services, the Ministers may require the simultaneous attendance of a Representative of the corresponding Council or Board of Directors.
+
+· Legislative committees
+
+· Legislative oversight of the executive
 
 ### Article 120
 
@@ -1416,17 +1443,19 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Outside professions of legislators
 
-· Outside professions of legislators
 
 ## Chapter V
+
+· Outside professions of legislators
 
 ### Article 122
 
 Senators and Representatives, after they have taken their seats in their respective Chambers,  may  not  hold  salaried  positions  under  the  State,  the  Departmental Governments,  the  Autonomous  Entities,  the  Decentralized  Services,  or  any  other public agency, or perform remunerative services of any kind for them, without the consent of the Chamber to which they belong, and in all such cases their seats shall be  considered  vacated  by  the  act  of  accepting  such  a  position  or  rendering  such service.
 
 Whenever a Senator is called to serve temporarily as President of the Republic and whenever Senators and Representatives are called to serve as Ministers or Under Secretaries  of  State,  their  legislative  functions  are  suspended,  and  during  such suspension their corresponding alternates shall replace them.
+
+· Outside professions of legislators
 
 ### Article 123
 
@@ -1436,9 +1465,9 @@ The  legislative  function  is  likewise  incompatible  with  the  holding  of  
 
 Senators  and  Representatives,  during  their  term  of  office,  are  likewise  prohibited from:
 
-- Participating  as  Directors,  administrators,  or  employees  of  enterprises under  contract  for  works  or  services  with  the  State,  the  Departmental Governments,  Autonomous  Entities,  Decentralized  Services  or  any  other public agency;
+1. Participating as Directors, administrators, or employees of enterprises under contract for works or services with the State, the Departmental Governments, Autonomous Entities, Decentralized Services or any other public agency;
 
-- Carrying or directing matters in behalf of third parties before the Central Administration,  Departmental  Governments,  Autonomous  Entities  or  the Decentralized Services.
+2. Carrying or directing matters in behalf of third parties before the Central Administration, Departmental Governments, Autonomous Entities or the Decentralized Services.
 
 Nonobservance  of  the  provisions  of  this  article  will  entail  immediate  loss  of  the legislative office.
 
@@ -1462,17 +1491,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Standing committees
 
-· Standing committees
-
-· Standing committees
-
-· Standing committees
-
-· Standing committees
 
 ## Chapter VI
+
+· Standing committees
 
 ### Article 127
 
@@ -1480,19 +1503,27 @@ There  shall  be  a  Permanent  Commission  composed  of  four  Senators  and  s
 
 The designation is to be made annually within fifteen days after the organization of the General Assembly or after the beginning of each period of regular sessions of the Legislature.
 
+· Standing committees
+
 ### Article 128
 
 At the same time that this election is held, an alternate is to be elected for each of the eleven members, who shall replace the member in case of his illness, death, or other impediment.
 
+· Standing committees
+
 ### Article 129
 
 The  Permanent  Commission  shall  be  the  guardian  of  the  observance  of  the Constitution  of  the  laws,  and  shall  make  the  necessary  representations  to  the Executive  Power  in  this  respect,  under  responsibility  to  the  existing  or  following General Assembly, as the case may be.
+
+· Standing committees
 
 ### Article 130
 
 In the event the aforementioned representations, if made for the second time, do not produce any effect, the Commission may, according to the importance and gravity of the matter in question, convoke the General Assembly on its own responsibility.
 
 In the event that the President of the Republic has made use of the power granted him  by  Article  148,  Paragraph  7,  the  Permanent  Commission  shall  report  to  the General  Assembly  when  the  new  Chambers  are  organized,  or  when  the  previous ones renew their functions.
+
+· Standing committees
 
 ### Article 131
 
@@ -1518,17 +1549,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Standing committees
-
-· Initiation of general legislation
-
-· Division of labor between chambers When the recess is ended, matters before the Permanent Commission that have not been decided shall be referred directly to the appropriate body.
+When the recess is ended, matters before the Permanent Commission that have not been decided shall be referred directly to the appropriate body.
 
 The  obligation  and  the  responsibility  imposed  on  the  Permanent  Commission  by Article 129 shall not be affected by the circumstance that the General Assembly or either Chamber meets in special session, even if the General Assembly or Chamber of  Senators  has  assumed  jurisdiction  over  all  matters  under  consideration  by  the Permanent Commission.
 
 If  the  powers  of  the  Senators  and  Representatives  have  lapsed  by  reason  of  the expiration  of  their  constitutional  terms,  and  the  newly  elected  Senators  and Representatives  have  not  been  proclaimed,  or  use  has  been  made  of  the  power granted by Article 148, Paragraph 7, the Permanent Commission shall continue to exercise the functions conferred upon it by this chapter, until the new Chambers are organized.
 
 In such case, when each Chamber is organized it shall designate new members of the Permanent Commission.
+
+· Standing committees
 
 ### Article 132
 
@@ -1537,6 +1566,8 @@ The  Permanent  Commission  shall  likewise  be  competent  to  give  or  withho
 # SECTION VII: Introduction, Discussion, Passage and Promulgation of the Laws
 
 ## Chapter I
+
+· Initiation of general legislation
 
 ### Article 133
 
@@ -1547,6 +1578,8 @@ The  initiative  of  the  Executive  Power  shall  be  required  for  any  bill 
 The  Legislative  Power  may  not  increase  the  tax  exemptions  nor  the  minimums proposed  by  the  Executive  Power  for  wages  and  prices,  nor  may  it  lower  the proposed maximum prices.
 
 ## Chapter II
+
+· Division of labor between chambers
 
 ### Article 134
 
@@ -1564,19 +1597,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+
+
 · Joint meetings of legislative chambers
-
-- Approval of general legislation
-
-- Approval of general legislation
-
-- Joint meetings of legislative chambers
-
-- Veto override procedure
-
-- Joint meetings of legislative chambers
-
-- Secrecy of legislative votes
 
 ### Article 135
 
@@ -1588,9 +1611,17 @@ If the Chamber to which a bill has been sent has no objection to offer, it shall
 
 Bills  which  have  not  passed  both  Chambers  in  the  same  Legislature  shall  be considered as having originated in the Chamber which last passed them.
 
+· Approval of general legislation
+
 ### Article 137
 
 If, upon receipt of a bill, the Executive Power has objections or observations to make, the bill shall be returned with them to the General Assembly within the prescribed period of ten days.
+
+· Approval of general legislation
+
+· Joint meetings of legislative chambers
+
+· Veto override procedure
 
 ### Article 138
 
@@ -1600,9 +1631,13 @@ When  a  bill  of  law  is  returned  by  the  Executive  Power  with  objection
 
 If  thirty  days  have  passed  from  the  first  convocation  without  reaching  an  express rejection  of  the  observations  of  the  Executive  Power,  they  will  be  considered accepted.
 
+· Joint meetings of legislative chambers
+
 ### Article 140
 
 If the Chambers in joint session disapprove the bill returned by the Executive Power it shall be considered null and void for the time being and may not again be presented until the following Legislature.
+
+· Secrecy of legislative votes
 
 ### Article 141
 
@@ -1620,15 +1655,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Approval of general legislation
 
-- Approval of general legislation
-
-- Joint meetings of legislative chambers
-
-· Cabinet removal
-
-- Joint meetings of legislative chambers
 
 ### Article 142
 
@@ -1636,13 +1663,19 @@ Whenever  a  bill  passed  by  one  Chamber  shall  be  rejected  by  the  other
 
 ## Chapter III
 
+· Approval of general legislation
+
 ### Article 143
 
 If the Executive Power has no objection to offer to a bill which has been submitted to it, it shall immediately give notice to that effect, the bill being thereby approved, and promulgated without delay.
 
+· Approval of general legislation
+
 ### Article 144
 
 If the Executive does not return a bill within the ten days prescribed in Article 137, it shall  become  law  and  shall  be  complied  with  as  such,  the  Chamber  which  sent  it having the right to demand such action if this is not done.
+
+· Joint meetings of legislative chambers
 
 ### Article 145
 
@@ -1660,6 +1693,10 @@ When a law has been passed, the following formula shall be invariably used for i
 
 ## Chapter I
 
+· Cabinet removal
+
+· Joint meetings of legislative chambers
+
 ### Article 147
 
 Either of the Chambers may pass judgment on the conduct of Ministers of State by proposing that the General Assembly in joint session shall declare that their acts of administration or of government are censured.
@@ -1676,11 +1713,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Cabinet removal Whenever motions to this effect are presented, the Chamber in which they are made shall be specially convoked, within a period of not over forty-eight hours, to decide upon its course of action.
+Whenever motions to this effect are presented, the Chamber in which they are made shall be specially convoked, within a period of not over forty-eight hours, to decide upon its course of action.
 
 If the motion is approved by a majority of those present, notice shall be given to the General Assembly, which shall be called within forty-eight hours.
 
 If  upon  the  first  convocation  of  the  General  Assembly  there  are  not  a  sufficient number of members present to hold a meeting, a second convocation shall be made and  the  General  Assembly  shall  be  considered  organized  with  the  number  of Legislators who attend.
+
+· Cabinet removal
 
 ### Article 148
 
@@ -1722,23 +1761,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Establishment of cabinet/ministers
 
-- Name/structure of executive(s)
-
-- Deputy executive
-
-- Head of state replacement
-
-- Deputy executive
-
-- Head of state selection
-
-- Head of state selection
-
-- Minimum age of head of state
-
-- Eligibility for head of state
 
 If  within ninety days following the election, the Electoral Court has not proclaimed elected a majority of the members of each Chamber, the dissolved Chambers shall also recover their rights.
 
@@ -1754,15 +1777,33 @@ The Chambers elected by special election shall complete the normal term of those
 
 ## Chapter I
 
+· Establishment of cabinet/ministers
+
+· Name/structure of executive(s)
+
 ### Article 149
 
 The Executive Power shall be exercised by the President of the Republic, acting with the respective Minister or Ministers, or with the Council of Minister, as established in this Section and other concordant provisions.
+
+· Deputy executive
+
+· Head of state replacement
 
 ### Article 150
 
 There shall be a Vice President who, in all cases of temporary or permanent vacancy in the Presidency, must fill that office with its same powers and duties. If the vacancy is permanent, he shall hold the office until the end of the Governmental term.
 
 The  Vice  President  of  the  Republic  shall  be  the  presiding  officer  of  the  General Assembly and the Chamber of Senators.
+
+· Deputy executive
+
+· Head of state selection
+
+· Head of state selection
+
+· Minimum age of head of state
+
+· Eligibility for head of state
 
 ### Article 151
 
@@ -1784,15 +1825,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-·
 
-- Head of state term length
 
-- Head of state term limits
+· Head of state term length
 
-· Head of state replacement
-
-· Head of state replacement
+· Head of state term limits
 
 ### Article 152
 
@@ -1804,6 +1841,8 @@ The  Vice  President  and  any  citizen  who  has  occupied  the  Presidency  du
 
 Likewise, the Vice President or the citizen who occupied the Presidency within the three months preceding an election may not be elected President.
 
+· Head of state replacement
+
 ### Article 153
 
 In the case of a definitive or temporary vacancy of the Presidency of the Republic, or for reasons of absence, resignation, cessation, or death of the President and of the Vice President, in such case, it will be assumed by the first titular Senator of the list most voted for of the political party by which they were elected, and who meets the qualifications required by Article 151 and is not impeded by that provided in Article 152.  In  his  default,  it  shall  be  filled  by  the  first  titular  [person]  on  the  same  list  in exercise  of  the  office  that  meets  these  qualifications,  if  [he]  does  not  have  these impediments, and so on successively.
@@ -1811,6 +1850,8 @@ In the case of a definitive or temporary vacancy of the Presidency of the Republ
 ### Article 154
 
 The remuneration of the President of the Republic shall be fixed by law prior to each election and may not be altered during his term of office.
+
+· Head of state replacement
 
 ### Article 155
 
@@ -1834,27 +1875,29 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Oaths to abide by constitution
 
-- Foreign affairs representative
-
-- Establishment of cabinet/ministers
-
-- Powers of cabinet
 
 ### Article 157
 
 Whenever the President-elect is temporarily incapacitated from assuming office or from performing his duties, he shall be replaced by the Vice President, and in default of the latter, in accordance with the procedure established by Article 153, for such time as the causes of the incapacity persist.
 
+· Oaths to abide by constitution
+
 ### Article 158
 
 On the first of March following the election, the President and Vice President of the Republic shall take office, after first making the following declaration in the presence of both Chambers meeting in joint session as General Assembly: "I, N.N., promise on my honor loyally to fulfill the office which has been entrusted to me, and to guard and defend the Constitution of the Republic."
+
+· Foreign affairs representative
 
 ### Article 159
 
 The President of the Republic shall represent the State both at home and abroad.
 
 ## Chapter II
+
+· Establishment of cabinet/ministers
+
+· Powers of cabinet
 
 ### Article 160
 
@@ -1886,11 +1929,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Foreign affairs representative
 
-- Designation of commander in chief
-
-- Selection of active-duty commanders
 
 ### Article 164
 
@@ -1914,19 +1953,25 @@ Whenever a Minister is temporarily in charge of another Ministry, only a single 
 
 The President of the Republic, acting with the respective Minister or Ministers, or with the Council of Ministers, has the following duties:
 
-- The preservation of internal order and tranquility, and external security;
+· Foreign affairs representative
 
-- The supreme command of all armed forces;
+1. The preservation of internal order and tranquility, and external security;
 
-- To  grant  retirement  and  regulate  the  pensions  of  civilian  and  military employees, in accordance with the laws;
+· Designation of commander in chief
 
-- To publish and circulate without delay all laws which, in accordance with Section VII, are ready to be published and circulated; to enforce them and see that they are enforced, and to issue such special regulations as may be necessary for their execution;
+2. The supreme command of all armed forces;
 
-- To inform the Legislative Power, at the beginning of regular sessions, of the state  of  the  Republic  and  of  the  improvements  and  reforms  which  he considers worthy of its attention;
+· Selection of active-duty commanders
 
-- To  set  forth  objections  or  make  observations  concerning  bills  which  the Legislative Power sends him, and to suspend or oppose their promulgation in the manner provided in Section VII;
+3. To grant retirement and regulate the pensions of civilian and military employees, in accordance with the laws;
 
-- To  propose  bills  to  the  Chambers  or  amendments  to  laws  previously enacted. Such  bills may  be  submitted  with  a declaration of  urgent consideration.
+4. To publish and circulate without delay all laws which, in accordance with Section VII, are ready to be published and circulated; to enforce them and see that they are enforced, and to issue such special regulations as may be necessary for their execution;
+
+5. To inform the Legislative Power, at the beginning of regular sessions, of the state of the Republic and of the improvements and reforms which he considers worthy of its attention;
+
+6. To set forth objections or make observations concerning bills which the Legislative Power sends him, and to suspend or oppose their promulgation in the manner provided in Section VII;
+
+7. To propose bills to the Chambers or amendments to laws previously enacted. Such bills may be submitted with a declaration of urgent consideration.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -1942,21 +1987,21 @@ PDF generated: 17 Jan 2018, 20:28
 
 The declaration of urgency must  be made  simultaneously with  the submission of such proposal, in which case they must be considered by the Legislative  Power  within  the  periods  stated  below,  and  they  shall  be considered as adopted if within such periods they have not been expressly rejected and no substitute proposal has been adopted. Their adoption shall follow these rules:
 
-- The  Executive  Power  may  not  send  more  than  one  bill  with  a declaration of urgency to the General Assembly at the same time, nor may he submit a new bill under those conditions before the period for the consideration of one previously submitted has expired;
+a. The Executive Power may not send more than one bill with a declaration of urgency to the General Assembly at the same time, nor may he submit a new bill under those conditions before the period for the consideration of one previously submitted has expired;
 
-- Draft  budgets  may  not  be  given  this  qualification  nor  bills  which require a three-fifths or two-thirds vote of the full membership of each Chamber;
+b. Draft budgets may not be given this qualification nor bills which require a three-fifths or two-thirds vote of the full membership of each Chamber;
 
-- Each Chamber by a vote of three-fifths  of  its  total  membership  may void  the  declaration  or  urgency,  after  which  the  normal  procedure prescribed in Section VII shall be applicable;
+c. Each Chamber by a vote of three-fifths of its total membership may void the declaration or urgency, after which the normal procedure prescribed in Section VII shall be applicable;
 
-- The  Chamber  that  first  receives  the  bill  must  consider  it  within  a period of forty-five days. When the first thirty days have elapsed, the Chamber shall be convoked to extraordinary session for the consideration  of  the  bill.  When  the  fifteen  days  of  such  convocation have elapsed and the bill has not been expressly rejected, it shall be regarded  as  approved  by  that  Chamber  in  the  form  in  which  it  was submitted by the Executive Power, and it shall be immediately and of office communicated to the other Chamber;
+d. The Chamber that first receives the bill must consider it within a period of forty-five days. When the first thirty days have elapsed, the Chamber shall be convoked to extraordinary session for the consideration of the bill. When the fifteen days of such convocation have elapsed and the bill has not been expressly rejected, it shall be regarded as approved by that Chamber in the form in which it was submitted by the Executive Power, and it shall be immediately and of office communicated to the other Chamber;
 
-- The second Chamber shall have thirty days to give its opinion and if it approves a different text from the one submitted by the first, it shall be returned to it, which shall have fifteen days for its consideration. If this new  period  expires  without  an  express  decision,  the  bill  shall  be immediately and of office  submitted  to  the  General  Assembly.  If  the period  of  thirty  days  expires  without  express  rejection  of  the  bill,  it shall be considered approved by this Chamber in the form in which it was presented by the Executive Power and it shall be communicated to it immediately and of office, if it corresponds to it, or in the same form to  the  first  Chamber,  if  it  approved  a  different  text  than  that  of  the Executive Power;
+e. The second Chamber shall have thirty days to give its opinion and if it approves a different text from the one submitted by the first, it shall be returned to it, which shall have fifteen days for its consideration. If this new period expires without an express decision, the bill shall be immediately and of office submitted to the General Assembly. If the period of thirty days expires without express rejection of the bill, it shall be considered approved by this Chamber in the form in which it was presented by the Executive Power and it shall be communicated to it immediately and of office, if it corresponds to it, or in the same form to the first Chamber, if it approved a different text than that of the Executive Power;
 
-- The General Assembly shall have ten days for its consideration. If this new  period  expires  without  an  express  decision  the  bill  shall  be considered  approved  in  the  form  in  which  it  was  voted  by  the  last Chamber to give its express approval.
+f. The General Assembly shall have ten days for its consideration. If this new period expires without an express decision the bill shall be considered approved in the form in which it was voted by the last Chamber to give its express approval.
 
 The General Assembly, if it makes an express declaration, shall do it in conformity with Article 135;
 
-- Whenever  a  bill  containing  a  declaration  of  urgency  is  rejected  by either of the two Chambers, the provisions of Article 142 shall apply;
+g. Whenever a bill containing a declaration of urgency is rejected by either of the two Chambers, the provisions of Article 142 shall apply;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -1970,31 +2015,33 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Selection of active-duty commanders
+
+
+h. The period allowed for consideration by the first Chamber shall begin to run on the day following the date of receipt of the bill by the Legislative Power. Each of the subsequent periods shall begin to run automatically upon expiration of the immediately preceding period or as of the day following the date of receipt by the pertinent organ if there has been express approval before expiration of the period.
+
+8. To convoke the Legislative Power to special sessions, specifying the matters which give rise to the convocation, in accordance with the provisions of Article 104;
 
 · Selection of active-duty commanders
+
+9. To confer civilian and military offices in accordance with the Constitution and the laws;
+
+10. To remove employees for inefficiency, dereliction of duty or malfeasance, with the consent of the Chamber of Senators in all cases, or during its recess, with that of the Permanent Commission; in cases of malfeasance, the matter shall be submitted to the courts. Diplomatic and consular officers may likewise be dismissed with the previous consent of the Chamber of Senators for the commission of acts which affect their good name or the prestige of the country and of the office they hold. If the Chamber of Senators or Permanent Commission does not take definite action within ninety days, the Executive Power may proceed with the dismissal without the consent requested;
+
+· Selection of active-duty commanders
+
+11. To grant military promotions in accordance with the laws, the consent of the Chamber of Senators, or during its recess, of the Permanent Commission, being required for promotions to colonel or higher ranks;
+
+12. To appoint consular and diplomatic personnel, the consent of the Chamber of Senators, or during its recess, of the Permanent Commission, being necessary for the appointment of Chiefs of Mission. If the Chamber of Senators or the Permanent Commission does not take action within sixty days, the Executive Power shall act without the requested consent.
+
+The posts of Ambassador and Minister in the foreign service shall be regarded as positions of personal trust of the Executive Power, unless a law adopted by an affirmative vote of an absolute majority of the full membership of each Chamber shall provide otherwise.
 
 · Attorney general
 
+13. To appoint the Court Prosecutor [Fiscal de Corte] and other prosecuting attorneys [fiscales letrados] in the Republic, with the consent of the Chamber of Senators or of the Permanent Commission, as the case may be, by a three-fifths vote of the full membership. Such consent shall not be necessary for appointment of the Procurator of the State [Procurador del Estado] for the Contentious-Administrative Tribunal or for the prosecutors in the Ministries of Government and Treasury;
+
 · Selection of active-duty commanders
 
-- The period allowed for consideration by the first Chamber shall begin to  run  on  the  day  following  the  date  of  receipt  of  the  bill  by  the Legislative  Power.  Each  of  the  subsequent  periods  shall  begin  to  run automatically upon expiration of the immediately preceding period or as  of  the  day  following  the  date  of  receipt  by  the  pertinent  organ  if there has been express approval before expiration of the period.
-
-- To  convoke  the  Legislative  Power  to  special  sessions,  specifying  the matters  which  give  rise  to  the  convocation,  in  accordance  with  the provisions of Article 104;
-
-- To confer civilian and military offices in accordance with the Constitution and the laws;
-
-- To remove employees for inefficiency, dereliction of duty or malfeasance, with  the  consent  of  the  Chamber  of  Senators  in  all  cases,  or  during  its recess,  with  that  of  the  Permanent  Commission;  in  cases  of  malfeasance, the  matter  shall  be  submitted  to  the  courts.  Diplomatic  and  consular officers  may  likewise  be  dismissed  with  the  previous  consent  of  the Chamber of Senators for  the  commission  of  acts  which  affect  their  good name  or  the  prestige  of  the  country  and  of  the  office  they  hold.  If  the Chamber  of  Senators  or  Permanent  Commission  does  not  take  definite action  within  ninety  days,  the  Executive  Power  may  proceed  with  the dismissal without the consent requested;
-
-- To grant military promotions in accordance with the laws, the consent of the Chamber  of Senators, or during its recess, of the  Permanent Commission, being required for promotions to colonel or higher ranks;
-
-- To appoint consular and diplomatic personnel, the consent of the Chamber of  Senators,  or  during  its  recess,  of  the  Permanent  Commission,  being necessary  for  the  appointment  of  Chiefs  of  Mission.  If  the  Chamber  of Senators or the Permanent Commission does not take action within sixty days, the Executive Power shall act without the requested consent.
-
-The  posts  of  Ambassador  and  Minister  in  the  foreign  service  shall  be regarded as positions of personal trust of the Executive Power, unless a law adopted  by  an  affirmative vote of an absolute majority of the full membership of each Chamber shall provide otherwise.
-
-- To appoint the Court Prosecutor [Fiscal de Corte] and other prosecuting attorneys  [fiscales  letrados]  in  the  Republic,  with  the  consent  of  the Chamber of Senators or of the Permanent Commission, as the case may be, by  a  three-fifths  vote  of  the  full  membership.  Such  consent  shall  not  be necessary for appointment of the Procurator of the State [Procurador del Estado] for the Contentious-Administrative Tribunal or for the prosecutors in the Ministries of Government and Treasury;
-
-- To remove on his own initiative military and police employees and others which the law declares removable;
+14. To remove on his own initiative military and police employees and others which the law declares removable;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2008,47 +2055,49 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-Head of state powers
 
-Head of state decree power
 
-Power to declare/approve war
+· Head of state powers
 
-Emergency provisions
+15. To receive diplomatic agents and authorize foreign consuls to exercise their functions;
+
+· Head of state decree power
+
+· Power to declare/approve war
+
+16. To decree the severance of relations, and in accordance with a prior resolution of the General Assembly, to declare war, provided that arbitration or other pacific means to avoid it have been unsuccessful;
+
+· Emergency provisions
+
+17. To take prompt measures of security in grave and unforeseen cases of foreign attack or internal disorder, giving an account within twenty-four hours to a joint session of the General Assembly, or during its recess, to the Permanent Commission, of the action taken and its motives, the decision of the latter bodies being final.
+
+With respect to persons, the prompt measures of security authorize only their arrest or removal from one place in the territory of the country to another provided they do not elect to leave it. This measure, like the others, must be submitted within twenty-four hours to a joint session of the General Assembly or to the Permanent Commission, which will make the final decision;
+
+The detention shall not be at a place intended for the incarceration of criminals.
+
+18. To collect the revenues through its agencies in conformity with the laws and to appropriate them in accordance therewith;
 
 · Budget bills
 
-International law
+19. To prepare and submit the general budget annually to the General Assembly, in accordance with the provisions of Section XIV, and to render an itemized account of the expenditures made during the preceding year;
 
-Treaty ratification
+· International law
 
-- To receive diplomatic agents and authorize foreign consuls to exercise their functions;
+· Treaty ratification
 
-- To  decree  the  severance  of  relations,  and  in  accordance  with  a  prior resolution of the General Assembly, to declare war, provided that arbitration or other pacific means to avoid it have been unsuccessful;
+20. To conclude and sign treaties, the approval of the Legislative Power being necessary for their ratification;
 
-- To  take  prompt  measures  of  security  in  grave  and  unforeseen  cases  of foreign  attack  or  internal  disorder,  giving  an  account  within  twenty-four hours to a joint session of the General Assembly, or during its recess, to the Permanent Commission, of the action taken and its motives, the decision of the latter bodies being final.
+21. To grant industrial privileges in accordance with the laws;
 
-With respect to persons, the prompt measures of security authorize only their  arrest  or  removal  from  one  place  in  the  territory  of  the  country  to another provided they do not elect to leave it. This measure, like the others, must  be  submitted  within  twenty-four  hours  to  a  joint  session  of  the General Assembly or to the Permanent Commission, which will make the final decision;
+22. To grant or withhold authorization to create any proposed Banks;
 
-The  detention  shall  not  be  at  a  place  intended  for  the  incarceration  of criminals.
+23. To lend, at the request of the Judicial Power, the assistance of the public force;
 
-- To  collect  the  revenues  through  its  agencies  in  conformity  with  the  laws and to appropriate them in accordance therewith;
+24. To delegate any powers considered desirable, by a resolution with reasons and under his political responsibility;
 
-- To  prepare  and  submit  the  general  budget  annually  to  the  General Assembly, in accordance with the provisions of Section XIV, and to render an itemized account of the expenditures made during the preceding year;
+25. The President of the Republic shall sign the resolutions and communications of the Executive Power, along with the Minister or Ministers concerned; otherwise no one is obligated to obey them.
 
-- To conclude and sign treaties, the approval of the Legislative Power being necessary for their ratification;
-
-- To grant industrial privileges in accordance with the laws;
-
-- To grant or withhold authorization to create any proposed Banks;
-
-- To lend, at the request of the Judicial Power, the assistance of the public force;
-
-- To delegate any powers considered desirable, by a resolution with reasons and under his political responsibility;
-
-- The President of the Republic shall sign the resolutions and communications  of  the  Executive  Power,  along  with  the  Minister  or Ministers concerned; otherwise no one is obligated to obey them.
-
-Nevertheless, the Executive Power may provide that specified resolutions may  be  authorized  by an act issued in  accordance  with  previously established requirements;
+Nevertheless, the Executive Power may provide that specified resolutions may be authorized by an act issued in accordance with previously established requirements;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2062,13 +2111,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Head of state immunity
 
-· Head of state removal
 
-- The  President  of  the  Republic  may  freely  appoint  a  Secretary  and  an Assistant Secretary, who shall serve as such in the Council of Ministers.
+26. The President of the Republic may freely appoint a Secretary and an Assistant Secretary, who shall serve as such in the Council of Ministers.
 
-Both  shall  cease  to  serve  along  with  the  President  and  they  may  be removed or replaced by him at any time.
+Both shall cease to serve along with the President and they may be removed or replaced by him at any time.
 
 ### Article 169
 
@@ -2080,9 +2127,13 @@ The  payment  of  salary  is  not  remitted  for  any  other  reasons  than  act
 
 The  President  of  the  Republic  may  not  leave  the  national  territory  for  more  than forty-eight hours without the authorization of the Chamber of Senators.
 
+· Head of state immunity
+
 ### Article 171
 
 The President of the Republic shall enjoy the same immunities and shall be subject to the same disqualifications and prohibitions as Senators and Representatives.
+
+· Head of state removal
 
 ### Article 172
 
@@ -2110,21 +2161,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Establishment of cabinet/ministers
 
-Cabinet selection
-
-Cabinet selection
-
-Cabinet selection
-
-· Cabinet removal
-
-- Eligibility for cabinet
 
 # SECTION X: The Ministers of State
 
 ## Chapter I
+
+· Establishment of cabinet/ministers
 
 ### Article 174
 
@@ -2132,11 +2175,19 @@ The Law, by absolute majority of members of each Chamber and at the initiative o
 
 The President of the Republic, acting in the Council of Ministers, may redistribute attributions and competences.
 
+· Cabinet selection
+
 The President of the Republic shall allot the Ministries to citizens who, by virtue of their parliamentary support, are assured of permanency in office.
 
-The President of the Republic may require an express vote of confidence from the General Assembly for the Council of Ministers. To this effect he shall appear before the General Assembly, which shall decide without debate, by the vote of the absolute majority of the total  of  its  members  and  within  a  period  not  greater  than seventy-two  hours  from  when  the  General  Assembly  receives  the  communication from the President of the Republic. If it does not meet within the time stipulated or, having  met,  does  not  adopt  a  decision,  it  shall  be  understood  that  the  vote  of confidence has been granted.
+· Cabinet selection
+
+The President of the Republic may require an express vote of confidence from the General Assembly for the Council of Ministers. To this effect he shall appear before the General Assembly, which shall decide without debate, by the vote of the absolute majority of the total of its members and within a period not greater than seventy-two hours from when the General Assembly receives the communication from the President of the Republic. If it does not meet within the time stipulated or, having met, does not adopt a decision, it shall be understood that the vote of confidence has been granted.
+
+· Cabinet selection
 
 The Ministers shall cease in their responsibilities by resolution of the President of the Republic, without prejudice to that established in Section VIII.
+
+· Cabinet removal
 
 ### Article 175
 
@@ -2151,6 +2202,8 @@ The Executive Power, acting in the Council of Ministers, must solicit the approv
 The faculties granted in this article may not be exercised during the first year of the mandate of the Government nor during the twelve months before the assumption of the following government.
 
 These  faculties  may  also  not  be  exercised  with  respect  to  the  authorities  of  the University of the Republic.
+
+· Eligibility for cabinet
 
 ### Article 176
 
@@ -2168,9 +2221,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Cabinet removal
 
-· Legislative committees
 
 ### Article 177
 
@@ -2182,11 +2233,15 @@ Ministers of State shall be entitled to the same immunities and shall be subject
 
 They may not be impeached except in the manner indicated in Article 93 and even then,  only  while  holding  office.  Whenever  an  impeachment  is  supported  by  a two-thirds  vote  of  the  full  membership  of  the  Chamber  of  Representatives,  the impeached Minister is thereby suspended from his duties.
 
+· Cabinet removal
+
 ### Article 179
 
 The Minister or the Ministers shall be responsible for the decrees and orders that they may sign or issue with the President of the Republic, except in case of express resolution of the Council of Ministers in which the responsibility shall be with those who agreed to the decision, becoming effective in accordance with Articles 93, 102 and 103.
 
 The Ministers shall not be exempt from responsibility for cause of crime even if they invoke the written or verbal order of the President of the Republic or the Council of Ministers.
+
+· Legislative committees
 
 ### Article 180
 
@@ -2196,13 +2251,13 @@ Ministers may attend the sessions of the General Assembly, of either Chamber, of
 
 The  powers  and  duties  of  the  Ministers,  in  their  respective  portfolios  and  in accordance with the laws and regulations of the Executive Power, are as follows:
 
-- To enforce the Constitution, laws, decrees, and resolutions;
+1. To enforce the Constitution, laws, decrees, and resolutions;
 
-- To formulate and submit to the consideration of superior authority, such projects of laws, decrees and resolutions as they may deem appropriate;
+2. To formulate and submit to the consideration of superior authority, such projects of laws, decrees and resolutions as they may deem appropriate;
 
-- To  effect,  within  the  limits  of  their  functions,  the  payment  of  recognized debts of the State;
+3. To effect, within the limits of their functions, the payment of recognized debts of the State;
 
-- To grant leaves of absence to the employees of their departments;
+4. To grant leaves of absence to the employees of their departments;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2216,15 +2271,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- To propose the appointment or discharge of employees of their divisions;
+5. To propose the appointment or discharge of employees of their divisions;
 
-- To  supervise  administrative  functions  and  adopt  the  necessary  measures for their proper conduct, and to impose disciplinary penalties;
+6. To supervise administrative functions and adopt the necessary measures for their proper conduct, and to impose disciplinary penalties;
 
-- To sign and communicate the resolutions of the Executive Power;
+7. To sign and communicate the resolutions of the Executive Power;
 
-- To perform any other functions entrusted to them by laws or by measures adopted by the Executive Power in Council of Ministers, without prejudice to the provisions of Article 160;
+8. To perform any other functions entrusted to them by laws or by measures adopted by the Executive Power in Council of Ministers, without prejudice to the provisions of Article 160;
 
-- To  delegate  any  functions  deemed  desirable,  determined  by  a  reasoned resolution and under their political responsibility.
+9. To delegate any functions deemed desirable, determined by a reasoned resolution and under their political responsibility.
 
 ### Article 182
 
@@ -2262,13 +2317,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Central bank The law, by a two-thirds vote of the full membership of each Chamber, may prescribe that  the  Decentralized  Services  shall  be  headed  by  a  Director  General,  appointed according to the procedure indicated in Article 187.
+The law, by a two-thirds vote of the full membership of each Chamber, may prescribe that the Decentralized Services shall be headed by a Director General, appointed according to the procedure indicated in Article 187.
 
 In  the  conclusion  of  agreements between the Councils or Boards of Directors and international  organizations  or  institutions  or  foreign  governments,  the  Executive Power shall specify those cases that will require its prior approval, without prejudice to the powers pertaining to the Legislative Power, as established by Section V.
 
 ### Article 186
 
 The services of Posts and Telegraph, Customs and Ports Administrations, and Public Health may not be decentralized in the form of Autonomous Entities, although the law may grant them a degree of autonomy compatible with control by the Executive Power.
+
+· Central bank
 
 ### Article 187
 
@@ -2350,7 +2407,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Central bank Its  Directors may not be candidates for any elective office until one governmental term  has  elapsed  following  their  termination,  the  provisions  of  Article  201,  third paragraph, being applicable in this case.
+Its Directors may not be candidates for any elective office until one governmental term has elapsed following their termination, the provisions of Article 201, third paragraph, being applicable in this case.
+
+· Central bank
 
 ### Article 196
 
@@ -2394,7 +2453,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Reference to art permanent in character nor with fixed remuneration.
+permanent in character nor with fixed remuneration.
 
 Nor may members of Boards of Directors or Directors General of the Autonomous Entities or Decentralized Services simultaneously practice professions or engage in activities which directly or indirectly bear relation to the institution with which they are connected.
 
@@ -2409,6 +2468,8 @@ In such cases, the mere presentation of a resignation based on these grounds sha
 Electoral Organizations shall not certify lists which include candidates who have not complied with this requirement.
 
 ## Chapter II
+
+· Reference to art
 
 ### Article 202
 
@@ -2444,7 +2505,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Legislative committees
+
 
 ### Article 205
 
@@ -2457,6 +2518,8 @@ Articles 189, 190, 191, 192, 193, 194, 198 (paragraphs 1 and 2), 200, and 201 sh
 ### Article 206
 
 The  law  may  create  a  National  Economic  Council,  to  be  advisory  and  honorary  in character, composed of Representatives of the economic and professional interests of  the  country.  The  law  shall  specify  the  form  of  organization  and  the  functions thereof.
+
+· Legislative committees
 
 ### Article 207
 
@@ -2502,21 +2565,21 @@ The Tribunal of Accounts shall have functional autonomy, which shall be regulate
 
 It shall be the province of the Tribunal of Accounts:
 
-- To deliver opinions and furnish information on budget matters;
+a. To deliver opinions and furnish information on budget matters;
 
-- To supervise expenditures and payments, in accordance with the rules and regulations to be established by law, for the sole purpose of certifying as to their  legality,  appending  whenever  necessary  any  pertinent  objections. Should the respective auditor persist, he shall communicate the matter to the Tribunal, without prejudice to compliance with the order.
+b. To supervise expenditures and payments, in accordance with the rules and regulations to be established by law, for the sole purpose of certifying as to their legality, appending whenever necessary any pertinent objections. Should the respective auditor persist, he shall communicate the matter to the Tribunal, without prejudice to compliance with the order.
 
-Should  the  Tribunal  of  Accounts  in  turn  maintain  its  objections,  it  shall communicate detailed information to the General Assembly, or to whoever may be acting in its stead, for appropriate action.
+Should the Tribunal of Accounts in turn maintain its objections, it shall communicate detailed information to the General Assembly, or to whoever may be acting in its stead, for appropriate action.
 
 In the Departmental Governments, Autonomous Entities and Decentralized Services, the duties to which this paragraph refers may be performed under like conditions through the intermediary of the respective accountants or officials acting in their stead, who shall perform such duties under the supervision of the Tribunal of Accounts, subject to the provisions of law, which may extend this rules to other public services administering funds;
 
-- To deliver opinions and furnish information with respect to the submission of accounts and activities of all the organs of the State, including Departmental Governments, Autonomous  Entities and Decentralized Services, regardless of their nature, as well as, insofar as appropriate action in cases of responsibility is concerned, setting forth the pertinent considerations and objections;
+c. To deliver opinions and furnish information with respect to the submission of accounts and activities of all the organs of the State, including Departmental Governments, Autonomous Entities and Decentralized Services, regardless of their nature, as well as, insofar as appropriate action in cases of responsibility is concerned, setting forth the pertinent considerations and objections;
 
-- To  present  to  the  General  Assembly  an  annual  report  relative  to  the rendering of accounts required under the preceding paragraph;
+d. To present to the General Assembly an annual report relative to the rendering of accounts required under the preceding paragraph;
 
-- To intervene in all matters relating to the financial activities of the organs of  the  State,  the  Departmental  Governments,  Autonomous  Entities  and Decentralized  Services,  and  to  report  to  the  appropriate  authority  all irregularities in the management of public funds or infractions of budgetary and accounting laws;
+e. To intervene in all matters relating to the financial activities of the organs of the State, the Departmental Governments, Autonomous Entities and Decentralized Services, and to report to the appropriate authority all irregularities in the management of public funds or infractions of budgetary and accounting laws;
 
-- To issue ordinances on accounting which shall be binding on all organs of the State, Departmental Governments, Autonomous Entities and Decentralized Services, regardless of their nature;
+f. To issue ordinances on accounting which shall be binding on all organs of the State, Departmental Governments, Autonomous Entities and Decentralized Services, regardless of their nature;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2530,9 +2593,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Budget bills
-
-- To  draft  its  budget,  which  it  shall  submit  to  the  Executive  Power  to  be included in the general budget. The Executive Power, with such modifications as it may see fit to make, shall transmit it to the Legislative Power for final action.
+g. To draft its budget, which it shall submit to the Executive Power to be included in the general budget. The Executive Power, with such modifications as it may see fit to make, shall transmit it to the Legislative Power for final action.
 
 ### Article 212
 
@@ -2546,15 +2607,17 @@ The Tribunal of Accounts shall present to the Executive Power the draft of a Law
 
 ## Chapter I
 
+· Budget bills
+
 ### Article 214
 
 The Executive Power shall draft, with the assistance of the Office of Planning and Budget, the National Budget for its term of Government and shall present it to the Legislative Power within the first six months of the exercise of its mandate.
 
 The National Budget shall be drafted and adopted with a structure that shall contain:
 
-- The current expenses and investments of the State distributed into  each Chapter by program;
+a. The current expenses and investments of the State distributed into each Chapter by program;
 
-- The functional  wage  scales  and  salaries  distributed  into  each  Chapter  by program;
+b. The functional wage scales and salaries distributed into each Chapter by program;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2568,17 +2631,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Budget bills
-
-- The revenues and the estimate of their amount, as well as the percentage that, over the total amount of resources, corresponds to the Departmental Governments. To this effect, the Sectoral Commission referred to in Article 230,  shall  assist  concerning  the  percentage  to  be  established  thirty  days before the period established in the first paragraph expires. If the Office of Planning  and  Budget  does  not  share  its  opinion,  it  shall  be  presented equally to the Executive Power, and the latter shall communicate it to the Legislative Power;
+c. The revenues and the estimate of their amount, as well as the percentage that, over the total amount of resources, corresponds to the Departmental Governments. To this effect, the Sectoral Commission referred to in Article 230, shall assist concerning the percentage to be established thirty days before the period established in the first paragraph expires. If the Office of Planning and Budget does not share its opinion, it shall be presented equally to the Executive Power, and the latter shall communicate it to the Legislative Power;
 
 The  Departmental  Governments  shall  remit  to  the  Legislative  Power, within  the  six  months  after  the  close  of  the  fiscal  year,  a  rendering  of accounts  of  the  resources  received  by  application  of  this  literal,  with  a precise indication of the amounts of the allocations made.
 
-- The norms for the execution and interpretation of the budget.
+d. The norms for the execution and interpretation of the budget.
 
 The  foregoing  parts  may  be  the  object  of  separate  laws  by  reason  of  the  subject matter they include.
 
 The Executive Power, within six months after the close of a fiscal year, to coincide with  the  calendar  year,  shall  present  to  the  Legislative  Power  the  Rendition  of Accounts and the Balance of Budgetary Execution corresponding to that [fiscal] year, and  it  may  propose  any  modifications  that  are  deemed  indispensable  in  the  total amount  of  expenditures,  investments,  and  salaries  or  revenues  and  may  effect creations, suppressions and modifications, in programs for duly justifiable reasons.
+
+· Budget bills
 
 ### Article 215
 
@@ -2706,7 +2769,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Economic plans Tribunal of Accounts with the facts concerning its objections, if any.
+Tribunal of Accounts with the facts concerning its objections, if any.
 
 ## Chapter V
 
@@ -2722,6 +2785,8 @@ The  Legislative  Power,  the  Departmental  Boards,  the  Autonomous  Entities 
 
 ## Chapter VI
 
+· Economic plans
+
 ### Article 230
 
 There  shall  be  an  Office  of  Planning  and  Budget  that  shall  depend  directly  the Presidency  of  the  Republic.  It  shall  be  directed  by  a  Commission  composed  of representatives  of  the  Ministers  connected  with  development  and  by  a  Director appointed by the President of the Republic that presides over it.
@@ -2734,9 +2799,9 @@ It  shall  form  Sectoral  Commissions  on  which  workers  and  public  and  pr
 
 The  Office  of  Planning  and  Budget  shall  assist  the  Executive  Power  in  the formulation of the plans and programs of development, as well as in the planning of the policies of decentralization that shall be executed:
 
-- By the Executive Power, the Autonomous Entities and the Decentralized Services, with respect to their corresponding duties.
+A. By the Executive Power, the Autonomous Entities and the Decentralized Services, with respect to their corresponding duties.
 
-- By  the  Departmental  Governments  with  respect  to  the  duties  that  the Constitution  and  the  Law  assign  to  them.  To  this  effect  a  Sectoral Commission  shall be formed  that shall be exclusively  composed  of delegates of the Congress of Intendants and of the competent Ministers, who shall propose plans of decentralization that, with the prior approval of the  Executive  Power,  shall  be  applied  by  the  corresponding  organisms. Without prejudice to the latter, the law may establish the number of the members,  the  duties  and  the  attributions  of  this  Commission,  as  well  as regulate its functioning.
+B. By the Departmental Governments with respect to the duties that the Constitution and the Law assign to them. To this effect a Sectoral Commission shall be formed that shall be exclusively composed of delegates of the Congress of Intendants and of the competent Ministers, who shall propose plans of decentralization that, with the prior approval of the Executive Power, shall be applied by the corresponding organisms. Without prejudice to the latter, the law may establish the number of the members, the duties and the attributions of this Commission, as well as regulate its functioning.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2750,19 +2815,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+The Office of Planning and Budget shall also have the other duties that by other provisions are expressly assigned to it as the law determines.
+
 · Economic plans
-
-· Structure of the courts
-
-- Min age of administrative judges
-
-- Eligibility for administrative judges
-
-· Minimum age of supreme court judges
-
-· Eligibility for supreme court judges
-
-The  Office  of  Planning  and  Budget  shall  also  have  the  other  duties  that  by  other provisions are expressly assigned to it as the law determines.
 
 ### Article 231
 
@@ -2778,6 +2833,8 @@ Small property owners, to be defined by law, shall always receive full compensat
 
 ## Chapter I
 
+· Structure of the courts
+
 ### Article 233
 
 The  Judicial  Power  shall  be  vested  in  the  Supreme  Court  of  Justice  and  in  the Tribunals and Courts as prescribed by law.
@@ -2787,6 +2844,14 @@ The  Judicial  Power  shall  be  vested  in  the  Supreme  Court  of  Justice  a
 ### Article 234
 
 The Supreme Court of Justice shall be composed of five members.
+
+- Min age of administrative judges
+
+- Eligibility for administrative judges
+
+· Minimum age of supreme court judges
+
+· Eligibility for supreme court judges
 
 ### Article 235
 
@@ -2814,6 +2879,12 @@ PDF generated: 17 Jan 2018, 20:28
 
 - Supreme court selection
 
+### Article 236
+
+The  members  of  the  Supreme  Court  of  Justice  shall  be  appointed  by  the  General Assembly  by  a  two-thirds  vote  of  its  full  membership.  The  appointment  must  be made within ninety days after a vacancy has occurred, for which purpose the General Assembly  shall  be  called  into  special  session.  If  this  period  expires  without  an appointment having been made, the appointment as member of the Supreme Court of Justice shall go automatically to the member of the Appellate Tribunals having the longest service in such post, and, if there is equal seniority, to the person who has served  longest  in  the  Judiciary  or  in  the  Public  or  Fiscal  Ministry  or  prosecution service.
+
+In  cases  of  vacancy,  and  as  long  as  they  are  not  filled,  and  of  challenge,  excuse,  or disability in fulfilling the judicial function, the Supreme Court shall be constituted in the manner prescribed by law.
+
 - Administrative court term length
 
 - Administrative court term limits
@@ -2821,22 +2892,6 @@ PDF generated: 17 Jan 2018, 20:28
 - Supreme court term length
 
 - Supreme court term limits
-
-- Supreme court powers
-
-- Customary international law
-
-- Supreme court opinions
-
-- International law
-
-- Legal status of treaties
-
-### Article 236
-
-The  members  of  the  Supreme  Court  of  Justice  shall  be  appointed  by  the  General Assembly  by  a  two-thirds  vote  of  its  full  membership.  The  appointment  must  be made within ninety days after a vacancy has occurred, for which purpose the General Assembly  shall  be  called  into  special  session.  If  this  period  expires  without  an appointment having been made, the appointment as member of the Supreme Court of Justice shall go automatically to the member of the Appellate Tribunals having the longest service in such post, and, if there is equal seniority, to the person who has served  longest  in  the  Judiciary  or  in  the  Public  or  Fiscal  Ministry  or  prosecution service.
-
-In  cases  of  vacancy,  and  as  long  as  they  are  not  filled,  and  of  challenge,  excuse,  or disability in fulfilling the judicial function, the Supreme Court shall be constituted in the manner prescribed by law.
 
 ### Article 237
 
@@ -2848,17 +2903,27 @@ Their compensation shall be fixed by the Legislative Power.
 
 ## Chapter III
 
+- Supreme court powers
+
 ### Article 239
 
 The Supreme Court of Justice shall:
 
-- Try all violators of the Constitution, without exception; offenses against the law of nations and cases in admiralty; questions relating to treaties, pacts and conventions with other States; and take cognizance of cases involving diplomatic Representatives in such cases as are contemplated in international law.
+1. Try all violators of the Constitution, without exception; offenses against the law of nations and cases in admiralty; questions relating to treaties, pacts and conventions with other States; and take cognizance of cases involving diplomatic Representatives in such cases as are contemplated in international law.
 
-In  the  aforementioned  matters  and  in  all  others  in  which  the  Supreme Court has original jurisdiction, it shall be the province of the law to decide on the procedure to be followed, which in any case shall be public and shall require final judgments, with opinions and express reference to the law that is applied;
+- Customary international law
 
-- Exercise directive, corrective, advisory, and economic supervision over the Tribunals, Courts and other dependencies of the Judicial Power;
+- Supreme court opinions
 
-- Prepare the draft budgets of the Judicial Power and transmit them in due course  to  the  Executive  Power  for  inclusion  in  the  draft  of  the  general budget, together with such modifications as may be deemed appropriate;
+- International law
+
+- Legal status of treaties
+
+In the aforementioned matters and in all others in which the Supreme Court has original jurisdiction, it shall be the province of the law to decide on the procedure to be followed, which in any case shall be public and shall require final judgments, with opinions and express reference to the law that is applied;
+
+2. Exercise directive, corrective, advisory, and economic supervision over the Tribunals, Courts and other dependencies of the Judicial Power;
+
+3. Prepare the draft budgets of the Judicial Power and transmit them in due course to the Executive Power for inclusion in the draft of the general budget, together with such modifications as may be deemed appropriate;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2872,21 +2937,19 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+4. With the approval of the Chamber of Senators, or during its recess with that of the Permanent Commission, appoint the citizens who shall compose the Appellate Tribunals, such appointments to be contingent upon the following:
+
 · Ordinary court selection
 
-Ordinary court selection
+a. A favorable vote of three of its members, for candidates who belong to the Judiciary or the Public Ministry;
 
-Ordinary court term length
+b. A favorable vote of four, for candidates not having the qualifications of the foregoing paragraph;
 
-· Supreme/ordinary court judge removal
+5. Appoint the Lawyer Judges [jueces letrados] of all grades and classes, an absolute majority of all members of the Supreme Court being required in each case.
 
-- With  the  approval  of  the  Chamber  of  Senators,  or  during  its  recess  with that of the Permanent Commission, appoint the citizens who shall compose the  Appellate  Tribunals,  such  appointments  to  be  contingent  upon  the following:
+· Ordinary court selection
 
-- A favorable vote of three of its members, for candidates who belong to the Judiciary or the Public Ministry;
-
-- A favorable vote of four, for candidates not having the qualifications of the foregoing paragraph;
-
-- Appoint the Lawyer Judges [jueces letrados] of all grades and classes, an absolute majority of all members of the Supreme Court being required in each case.
+· Ordinary court term length
 
 These  appointments  shall  be  permanent  in  character  from  the  moment they are made whenever the candidates concerned are citizens who have served at least two years in the Judiciary, the Public or Fiscal Ministry, or as a justice of peace, in positions which must be filled by lawyers.
 
@@ -2894,11 +2957,13 @@ If  such  officials  had  less  seniority  in  their  respective  posts,  they  
 
 During such interim period the Supreme Court may at any time remove the Interim Lawyer Judge by absolute majority of all its members. At the end of the period the appointment shall be considered confirmed in full right;
 
-- Appoint  the  permanent  Official  Defenders  and  Justices  of  the  Peace  by absolute majority of all members of the Supreme Court of Justice;
+6. Appoint the permanent Official Defenders and Justices of the Peace by absolute majority of all members of the Supreme Court of Justice;
 
-- Appoint,  promote,  or  remove,  by  a  vote  of  four  of  its  members,  the employees  of  the  Judicial  Power,  in  accordance  with  the  provisions  of Articles 58 to 66, wherever pertinent;
+7. Appoint, promote, or remove, by a vote of four of its members, the employees of the Judicial Power, in accordance with the provisions of Articles 58 to 66, wherever pertinent;
 
-- Perform such other duties as the law may prescribe.
+· Supreme/ordinary court judge removal
+
+8. Perform such other duties as the law may prescribe.
 
 ### Article 240
 
@@ -2916,35 +2981,29 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Structure of the courts
-
-- Eligibility for ordinary court judges
-
-- Minimum age of ordinary court judges
-
-- Ordinary court term length
-
-- Structure of the courts
-
-- Eligibility for ordinary court judges
-
-- Minimum age of ordinary court judges
-
 ## Chapter IV
+
+- Structure of the courts
 
 ### Article 241
 
 There shall be established such Appellate Tribunals as the law may determine, and with  such  powers  as  the  law  may  confer  upon  them.  Each  of  such  Tribunals  shall consist of three members.
 
+- Eligibility for ordinary court judges
+
 ### Article 242
 
 To be a member of an Appellate Tribunal requires the following qualification:
 
-- Thirty-five years of age or more;
+1. Thirty-five years of age or more;
 
-- Native  citizenship  in  full  exercise  of  such  rights,  or  legal  citizenship exercised for at least seven years;
+- Minimum age of ordinary court judges
 
-- To have been a lawyer for at least eight years or to have been engaged in such capacity in the Judiciary or Public Ministry for six years.
+2. Native citizenship in full exercise of such rights, or legal citizenship exercised for at least seven years;
+
+3. To have been a lawyer for at least eight years or to have been engaged in such capacity in the Judiciary or Public Ministry for six years.
+
+- Ordinary court term length
 
 ### Article 243
 
@@ -2952,19 +3011,25 @@ The members of the Appellate Tribunals shall remain in office during good conduc
 
 ## Chapter V
 
+- Structure of the courts
+
 ### Article 244
 
 The law shall fix the number of Lawyer Courts [juzgados letrados] in the Republic, consistent  with  the  exigencies  of  a  most  prompt  and  efficient  administration  of Justice, and shall indicate the location of the seat of each of these, its powers, and the manner of exercising them.
+
+- Eligibility for ordinary court judges
 
 ### Article 245
 
 To be a Lawyer Judge the following requirements must be met:
 
-- Twenty-eight years of age or more;
+1. Twenty-eight years of age or more;
 
-- Native citizenship in full exercise thereof, or legal citizenship for four years or more;
+- Minimum age of ordinary court judges
 
-- To have been a lawyer for at least four years or to have been engaged in such capacity in the Public or Fiscal Ministry or as a justice of the peace for at least two years.
+2. Native citizenship in full exercise thereof, or legal citizenship for four years or more;
+
+3. To have been a lawyer for at least four years or to have been engaged in such capacity in the Public or Fiscal Ministry or as a justice of the peace for at least two years.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -2978,19 +3043,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Mandatory retirement age for judges
-
-· Minimum age of ordinary court judges
-
-· Ordinary court term length
-
 ### Article 246
 
 Lawyer  judges  who  render  effective  service  shall  remain  in  office  during  good conduct, up to the limit imposed by Article 250. Notwithstanding, and for reasons of the good of the service, the Supreme Court may transfer them at any time, from their office or place or from both, provided such transfer is decided upon after hearing the Court Prosecutor, and subject to the following conditions:
 
-- Vote of approval of three members of the Supreme Court in favor of the transfer, if the new  office does  not imply a reduction  in  grade  or remuneration or both, as compared with the former;
+1. Vote of approval of three members of the Supreme Court in favor of the transfer, if the new office does not imply a reduction in grade or remuneration or both, as compared with the former;
 
-- Vote of approval of four of its members in favor of the transfer if the new office  does  imply  a  reduction  in  grade  or  remuneration,  or  both,  as compared with the former.
+2. Vote of approval of four of its members in favor of the transfer if the new office does imply a reduction in grade or remuneration, or both, as compared with the former.
 
 ## Chapter VI
 
@@ -2998,9 +3057,9 @@ Lawyer  judges  who  render  effective  service  shall  remain  in  office  duri
 
 To be a Justice of the Peace the following requirements are prescribed:
 
-- Twenty-five years of age or more;
+1. Twenty-five years of age or more;
 
-- Native citizenship in full exercise thereof, or legal citizenship for two years.
+2. Native citizenship in full exercise thereof, or legal citizenship for two years.
 
 To the qualifications stated there should be added the requirement that candidates for  Justice  of  the  Peace  in  the  Department  of  Montevideo  must  be  lawyers,  and either lawyer or notary public in the capitals and citizens of the other departments or in any other town of the Republic where the judicial activity so demands, in the opinion of the Supreme Court.
 
@@ -3013,6 +3072,12 @@ There  shall  be  as  many  Justice  of  the  Peace  Courts  in  the  Republic  
 Justices of the Peace shall hold office for four years and may be removed at any time, if the best interests of the public service so demand.
 
 ## Chapter VII
+
+· Mandatory retirement age for judges
+
+· Minimum age of ordinary court judges
+
+· Ordinary court term length
 
 ### Article 250
 
@@ -3029,12 +3094,6 @@ Page 60
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
-
-· Right to counsel
-
-· Constitutional interpretation
-
-· Constitutionality of legislation
 
 ### Article 251
 
@@ -3058,6 +3117,8 @@ Military jurisdiction shall be limited to military offenses and to a state of wa
 
 Common offenses committed by the military in time of peace, regardless of the place in which they are committed, shall be subject to the ordinary courts.
 
+· Right to counsel
+
 ### Article 254
 
 The  administration  of  justice  shall  be  gratis  for  those  who  are  declared  paupers according to law. In suits in which such a declaration has been made in favor of the plaintiff, the defendant shall enjoy a like privilege up to the time of final judgment, which shall confirm his right thereto if such judgment declares the plaintiff guilty of bringing suit without sufficient cause.
@@ -3067,6 +3128,10 @@ The  administration  of  justice  shall  be  gratis  for  those  who  are  decla
 No suit in a civil matter may be brought without first showing that settlement has been attempted before a Justice of the Peace, save for those exceptions established by law.
 
 ## Chapter IX
+
+· Constitutional interpretation
+
+· Constitutionality of legislation
 
 ### Article 256
 
@@ -3082,29 +3147,29 @@ Page 61
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 20:28
+
 · Constitutional interpretation
-
-· Constitutionality of legislation
-
-· Constitutionality of legislation
-
-· Subsidiary unit government
 
 ### Article 257
 
 The Supreme Court of Justice has original and exclusive jurisdiction in the hearing and decision of such matters; and must render its decision in accordance with the requirement for final decisions.
 
+· Constitutionality of legislation
+
 ### Article 258
 
 The  declaration  of  the  unconstitutionality  of  a  law  and  the  inapplicability  of  the provisions affected thereby, may be requested by any person who considers that his direct, personal, and legitimate interest is injured:
 
-- By  means  of  lawsuit,  which  must  be  filed  before  the  Supreme  Court  of Justice;
+1. By means of lawsuit, which must be filed before the Supreme Court of Justice;
 
-- By plea of exception, which may be made in any judicial proceeding.
+2. By plea of exception, which may be made in any judicial proceeding.
 
 A judge or court which hears any judicial proceeding, or the Contentious-Administrative  Tribunal,  as  the  case  may  be,  may  also  request  the declaration of unconstitutionality of a law and its inapplicability, before rendering a decision.
 
 In this case and in that provided in subparagraph 2 above, the proceedings shall be suspended and the case referred to the Supreme Court of Justice.
+
+· Constitutionality of legislation
 
 ### Article 259
 
@@ -3122,11 +3187,11 @@ The law shall prescribe the pertinent procedure.
 
 ## Chapter I
 
+· Subsidiary unit government
+
 ### Article 262
 
-The Government and Administration of the Departments, with the exception of the services  of  public  security,  shall  be  exercised  by  a  Departmental  Board  and  an Intendant.  They  shall  have  their  seats  in  the  capital  of  each  Department  and  shall
-
-PDF generated: 17 Jan 2018, 20:28
+The Government and Administration of the Departments, with the exception of the services of public security, shall be exercised by a Departmental Board and an Intendant. They shall have their seats in the capital of each Department and shall
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -3184,12 +3249,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Subsidiary unit government
-
-· Municipal government
-
-· Subsidiary unit government
-
 ### Article 268
 
 Simultaneously with an Intendant four alternates shall be elected, who may be called upon in their order of election to perform the duties in the event of a vacancy in the post, a temporary impediment, or leave of absence of the principal. Non-acceptance of the post by an alternate shall mean the loss of his status as such, unless the call was to fill a temporary vacancy.
@@ -3204,9 +3263,13 @@ The law, by a two-thirds vote of the full membership of each Chamber, may change
 
 ## Chapter II
 
+· Subsidiary unit government
+
 ### Article 270
 
 The  Departmental  Boards  and  Intendants  shall  be  elected  directly  by  the  people, under  the  guaranties  and  in  accordance  with  the  rules  of  suffrage  prescribed  in Section III.
+
+· Municipal government
 
 ### Article 271
 
@@ -3217,6 +3280,8 @@ For the election of Municipal Intendant the votes in favor of each political par
 The office of Municipal Intendant shall correspond to the candidate of the list most vote for of the political party most voted for.
 
 The law, sanctioned by the majority stipulated in the first paragraph, may establish that each party may present a sole candidate for Municipal Intendant.
+
+· Subsidiary unit government
 
 ### Article 272
 
@@ -3236,9 +3301,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Subsidiary unit government The  remaining  seats  are  to  be  distributed  according  to  the  system  of  integral proportional representation among those lemas which did not obtain representation under the previous allotment.
+The remaining seats are to be distributed according to the system of integral proportional representation among those lemas which did not obtain representation under the previous allotment.
 
 ## Chapter III
+
+· Subsidiary unit government
 
 ### Article 273
 
@@ -3248,25 +3315,25 @@ Its jurisdiction shall extend throughout the territory of the Department.
 
 In addition to whatever the law may prescribe, the Departmental Board shall have these powers:
 
-- To  issue,  at  the  instance  of  the  Intendant  or  on  its  own  initiative,  such decrees and resolutions as it may deem necessary, within its competence;
+1. To issue, at the instance of the Intendant or on its own initiative, such decrees and resolutions as it may deem necessary, within its competence;
 
-- To approve the budgets submitted to its consideration by the Intendant, in accordance with the provisions of Section XIV;
+2. To approve the budgets submitted to its consideration by the Intendant, in accordance with the provisions of Section XIV;
 
-- To  create  or  fix  the  amount,  at  the  instance  of  the  Intendant,  of  taxes, excises,  rates  and  charges  for  services  offered,  by  vote  of  an  absolute majority of its full membership;
+3. To create or fix the amount, at the instance of the Intendant, of taxes, excises, rates and charges for services offered, by vote of an absolute majority of its full membership;
 
-- To  requisition  the  intervention  of  the  Tribunal  of  Accounts  for  advice concerning questions relating to Departmental Finances or Administration. Such  requisition  must  always  be  made  if  requested  by  one-third  of  the members of the Board;
+4. To requisition the intervention of the Tribunal of Accounts for advice concerning questions relating to Departmental Finances or Administration. Such requisition must always be made if requested by one-third of the members of the Board;
 
-- To remove from office, at the instance of the Intendant, and by a majority vote of all its members, members of nonelective Local Boards;
+5. To remove from office, at the instance of the Intendant, and by a majority vote of all its members, members of nonelective Local Boards;
 
-- To adopt, within the first twelve months of its term of office, its budgets for salaries  and  expenditures,  by  a  three-fifths  vote  of  all  its  members,  and transmit them to the Intendant for inclusion in the general budget.
+6. To adopt, within the first twelve months of its term of office, its budgets for salaries and expenditures, by a three-fifths vote of all its members, and transmit them to the Intendant for inclusion in the general budget.
 
-During  the  first  five  months  of  each  year  a  three-fifths  vote  of  the  full membership may make such modifications as are deemed strictly necessary in the budget of salaries and expenditures;
+During the first five months of each year a three-fifths vote of the full membership may make such modifications as are deemed strictly necessary in the budget of salaries and expenditures;
 
-- To  appoint  the  employees  of  its  staff,  and  discipline,  suspend,  or  remove them  in  cases  of  inefficiency,  neglect,  or  malfeasance,  in  the  latter  case referring the matter to the courts;
+7. To appoint the employees of its staff, and discipline, suspend, or remove them in cases of inefficiency, neglect, or malfeasance, in the latter case referring the matter to the courts;
 
-- To  grant  concessions  for  local  or  departmental  public  services,  at  the instance of the Intendant, and by an absolute majority of its full membership;
+8. To grant concessions for local or departmental public services, at the instance of the Intendant, and by an absolute majority of its full membership;
 
-- To create new Local Boards, at the instance of the Intendant;
+9. To create new Local Boards, at the instance of the Intendant;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -3280,15 +3347,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Subsidiary unit government
+10. To consider requests for authorization or concurrence submitted by the Intendant;
 
-· Subsidiary unit government
-
-- To  consider  requests  for  authorization  or  concurrence  submitted  by  the Intendant;
-
-- To petition the Legislative Power directly for amendments or additions to the Organic Law on Departmental Governments.
+11. To petition the Legislative Power directly for amendments or additions to the Organic Law on Departmental Governments.
 
 ## Chapter IV
+
+· Subsidiary unit government
 
 ### Article 274
 
@@ -3298,23 +3363,25 @@ The Intendant exercises the executive functions of the Departmental Government.
 
 In addition to whatever the law may prescribe, his powers are as follows:
 
-- To comply with and enforce the Constitution and the laws;
+1. To comply with and enforce the Constitution and the laws;
 
-- To  promulgate  and  publish  the  decrees  sanctioned  by  the  Departmental Board, issuing such regulations and resolutions  as  may  be  deemed appropriate for the administration thereof;
+2. To promulgate and publish the decrees sanctioned by the Departmental Board, issuing such regulations and resolutions as may be deemed appropriate for the administration thereof;
 
-- To prepare the budget and submit it to the approval of the Departmental Board, in accordance with the provisions of Section XIV;
+3. To prepare the budget and submit it to the approval of the Departmental Board, in accordance with the provisions of Section XIV;
 
-- To  propose  taxes,  excises,  and  assessments;  fix  charges  for  the  use  or appropriation of departmental property or services and establish the rate schedules for public services to be charged by concessionaires or permittees;
+4. To propose taxes, excises, and assessments; fix charges for the use or appropriation of departmental property or services and establish the rate schedules for public services to be charged by concessionaires or permittees;
 
-- To appoint the employees of its staff, and discipline or suspend them. To remove  them  in  case  of  inefficiency,  neglect  or  malfeasance,  on  the authorization  of  the  Departmental  Board,  which  must  take  action  within forty days. If it fails to act, the removal shall be considered as effected. In case of malfeasance the matter shall also be referred to the courts;
+5. To appoint the employees of its staff, and discipline or suspend them. To remove them in case of inefficiency, neglect or malfeasance, on the authorization of the Departmental Board, which must take action within forty days. If it fails to act, the removal shall be considered as effected. In case of malfeasance the matter shall also be referred to the courts;
 
-- To  present  drafts  of  decrees  and  resolutions  to  the  Departmental  Board and  offer  objections  to  those  which  the  board  approves,  within  ten  days from the date of notification of passage;
+6. To present drafts of decrees and resolutions to the Departmental Board and offer objections to those which the board approves, within ten days from the date of notification of passage;
 
-- To  give  notice  of  property  to  be  expropriated  for  reasons  of  public necessity or utility, with the approval of the Departmental Board;
+7. To give notice of property to be expropriated for reasons of public necessity or utility, with the approval of the Departmental Board;
 
-- To  appoint  the  members  of  the  Local  Boards,  with  the  approval  of  the Departmental Board;
+· Subsidiary unit government
 
-- To  oversee  public  health  and  primary,  secondary,  preparatory,  industrial and  artistic  education  and  propose  to  competent  authorities  suitable measures for their improvement.
+8. To appoint the members of the Local Boards, with the approval of the Departmental Board;
+
+9. To oversee public health and primary, secondary, preparatory, industrial and artistic education and propose to competent authorities suitable measures for their improvement.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -3382,8 +3449,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Municipal government
-
 ### Article 283
 
 The  Intendants  or  Departmental  Boards  may  bring  suit  in  the  Supreme  Court  of Justice  for  any  alleged  injury  to  the  autonomy  of  the  Department,  in  the  manner prescribed by law.
@@ -3406,6 +3471,8 @@ The Departmental Board may appoint investigating committees to obtain such data 
 
 ## Chapter VII
 
+· Municipal government
+
 ### Article 287
 
 The  number  of  members  of  the  local  authorities,  which  may  be  uni-personal  or pluri-personal, their form  of membership  in  the  latter case, as well as  the qualifications required to be a titular [member] of the same, shall be established by the law.
@@ -3422,9 +3489,9 @@ Page 68
 
 constituteproject.org
 
-· Municipal government
-
 PDF generated: 17 Jan 2018, 20:28
+
+· Municipal government
 
 ### Article 288
 
@@ -3446,9 +3513,9 @@ Neither may the officials mentioned in item four of Article 77 be members of the
 
 Intendants  and  members  of  the  Departmental  Boards  or  the  Local  Boards,  during their term of office, are likewise prohibited from:
 
-- Acting  as  Directors  or  administrators  of  enterprises  which  contract  for works or supplies for a Departmental Government or for any other public agency related thereto;
+1. Acting as Directors or administrators of enterprises which contract for works or supplies for a Departmental Government or for any other public agency related thereto;
 
-- Handing or conducting business for themselves or for third parties with the Departmental Government.
+2. Handing or conducting business for themselves or for third parties with the Departmental Government.
 
 ### Article 292
 
@@ -3494,9 +3561,9 @@ The Chamber of Senators may separate them from office by a two-thirds vote of it
 
 The sources of revenues of the Departmental Governments, decreed and administered by them, shall be the following:
 
-- Taxes on urban and suburban real property, located within their jurisdiction,  excepting  in  all  cases  the  national  supplementary  taxes,  in existence  or  subsequently  imposed.  Taxes  on  rural  real  property  will  be levied by the Legislative Power, but their collection and all proceeds, except from the supplementary taxes in existence or subsequently imposed, shall go to the Departmental  Governments.  The  amount  of  the  national supplementary  taxes  may  not  be  greater  than  the  taxes  going  to  the departments;
+1. Taxes on urban and suburban real property, located within their jurisdiction, excepting in all cases the national supplementary taxes, in existence or subsequently imposed. Taxes on rural real property will be levied by the Legislative Power, but their collection and all proceeds, except from the supplementary taxes in existence or subsequently imposed, shall go to the Departmental Governments. The amount of the national supplementary taxes may not be greater than the taxes going to the departments;
 
-- The tax on idle lands [baldios] and on inappropriate building construction in urban  and  suburban  districts  of  cities,  towns,  villages,  and  populated centers;
+2. The tax on idle lands [baldios] and on inappropriate building construction in urban and suburban districts of cities, towns, villages, and populated centers;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -3510,37 +3577,35 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-·
+3. Taxes levied for the benefit of the Departmental Governments and those that may be imposed by law in the future for the same purpose on sources not enumerated in this article;
 
-Radio
+4. Special levies for improvements to real estate benefited by departmental public works;
 
-- Taxes levied for the benefit of the Departmental Governments and those that may be imposed by law in the future for the same purpose on sources not enumerated in this article;
+5. Excises, fees and charges for the utilization, supply, or benefits obtained from services supplied by the Departmental Government, and special taxes on enterprises holding exclusively departmental concessions;
 
-- Special levies for improvements to real estate benefited by departmental public works;
+6. Taxes on public entertainment, with the exception of those established by law for special purposes until they are repealed, and taxes on transport vehicles;
 
-- Excises,  fees  and  charges  for  the  utilization,  supply,  or  benefits  obtained from services supplied by the Departmental Government, and special taxes on enterprises holding exclusively departmental concessions;
+7. Taxes on advertisements and announcements of all kinds. Excepted therefrom are press and radio advertising as well as political, religious, trade union, cultural and sports advertising and any others that the law may exempt by an absolute majority of the full membership of each Chamber;
 
-- Taxes on public entertainment, with the exception of those established by law  for  special  purposes  until  they  are  repealed,  and  taxes  on  transport vehicles;
+· Radio
 
-- Taxes  on  advertisements  and  announcements  of  all  kinds.  Excepted therefrom  are  press  and  radio  advertising  as  well  as  political,  religious, trade union, cultural and sports advertising and any others that the law may exempt by an absolute majority of the full membership of each Chamber;
+8. Profits obtained from games of chance already authorized or subsequently authorized by law, in such form and under the conditions established therein;
 
-- Profits obtained from games of chance already authorized or subsequently authorized  by  law,  in  such  form  and  under  the  conditions  established therein;
+9. Taxes on horse racing and other competitive sports in which mutual betting is used, with the exception of those exempted by law until it is repealed;
 
-- Taxes on horse racing and other competitive sports in which mutual betting is used, with the exception of those exempted by law until it is repealed;
+10. Proceeds from fines:
 
-- Proceeds from fines:
+a. as established by the Departmental Government, until repealed or that may be established under its powers;
 
-- as established by the Departmental Government, until repealed or that may be established under its powers;
+b. as established by laws in effect, for the benefit of the Departmental Governments;
 
-- as  established  by  laws  in  effect,  for  the  benefit  of  the  Departmental Governments;
+c. that may be established by new laws, for the benefit of the Departmental Governments.
 
-- that may  be established by new  laws, for the benefit of the Departmental Governments.
+11. Income from property owned by the Departmental Government and the proceeds from sales thereof;
 
-- Income  from  property  owned  by  the  Departmental  Government  and  the proceeds from sales thereof;
+12. Gifts, inheritances and legacies made to it and accepted;
 
-- Gifts, inheritances and legacies made to it and accepted;
-
-- The quota share in the percentage that, over the total amount of resources of the National Budget, the Budgetary Law establishes.
+13. The quota share in the percentage that, over the total amount of resources of the National Budget, the Budgetary Law establishes.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -3558,11 +3623,11 @@ PDF generated: 17 Jan 2018, 20:28
 
 The law, that shall require the initiative of the Executive Power and by the vote of the absolute majority of the total of the members of each Chamber, may:
 
-- Without creating negative superimpositions, extend the sphere of application of the departmental taxes, as well as broaden the sources upon which the latter can devolve.
+1. Without creating negative superimpositions, extend the sphere of application of the departmental taxes, as well as broaden the sources upon which the latter can devolve.
 
-- Assign  for  the  development  of  the  interior  of  the  country  and  for  the execution of the policies of decentralization, a proportion [alícuota] of the national  taxes  collected  outside  of  the  Department  of  Montevideo.  With the  proceeds  a  budgetary  fund  shall  be  produced,  allocated  for  the financing of the programs and plans to which the fifth paragraph of Article 230 refers. This proportion shall be proposed preceptively in the National Budget.
+2. Assign for the development of the interior of the country and for the execution of the policies of decentralization, a proportion [alícuota] of the national taxes collected outside of the Department of Montevideo. With the proceeds a budgetary fund shall be produced, allocated for the financing of the programs and plans to which the fifth paragraph of Article 230 refers. This proportion shall be proposed preceptively in the National Budget.
 
-- Temporarily  exonerate  from  national  taxes,  as  well  as  to  rebate  their proportions,  the  businesses  that  locate  [instalaren]  themselves  in  the interior of the country.
+3. Temporarily exonerate from national taxes, as well as to rebate their proportions, the businesses that locate [instalaren] themselves in the interior of the country.
 
 ### Article 299
 
@@ -3638,24 +3703,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Min age of administrative judges
-
-- Eligibility for administrative judges
-
-·
-
-Administrative court selection
-
-- Administrative court term length
-
-- Administrative court term limits
-
-- Establishment of administrative courts
-
-- Ultra-vires administrative actions
-
-- Ultra-vires administrative actions
-
 ### Article 306
 
 The  public  force  shall  lend  its  cooperation  to  the  Departmental  Boards  and Intendants and to the Local Boards, whenever this is required for the fulfillment of their functions.
@@ -3670,11 +3717,25 @@ There  shall  be  a  Contentious-Administrative  Tribunal  which  shall  be  com
 
 In cases of vacancy and as long as these are not filled, and in the event of challenge, excuse, or disability to fulfill the jurisdictional function, the places shall be filled in such manner as may be prescribed by law.
 
+- Min age of administrative judges
+
+- Eligibility for administrative judges
+
+· Administrative court selection
+
+- Administrative court term length
+
+- Administrative court term limits
+
 ### Article 308
 
 The  qualifications  necessary  for  members  of  this  Tribunal,  the  manner  of  their appointment, the prohibitions and incompatibilities, their remuneration and term of office shall be those established for members of the Supreme Court of Justice.
 
+- Establishment of administrative courts
+
 ## Chapter II
+
+- Ultra-vires administrative actions
 
 ### Article 309
 
@@ -3683,6 +3744,8 @@ The  Contentious-Administrative  Tribunal  shall  hear  pleas  for  the  nullifi
 The  Tribunal  shall  also  have  jurisdiction  over  definitive  administrative  acts  of  the Departmental  Governments,  the  Autonomous  Entities,  and  the  Decentralized Services.
 
 Action for nullification may be taken only by one who has a right or a direct, personal and legitimate interest which is violated or injured by the administrative act.
+
+- Ultra-vires administrative actions
 
 ### Article 310
 
@@ -3702,11 +3765,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Ultra-vires administrative actions
+In other cases, annulment of an act shall require four favorable votes. However, the Tribunal shall reserve to the complaining party the right to sue for redress if three favorable votes declare the grounds for annulment sufficiently justified.
 
 · Ultra-vires administrative actions
-
-· Attorney general In other cases, annulment of an act shall require four favorable votes. However, the Tribunal shall reserve to the complaining party the right to sue for redress if three favorable votes declare the grounds for annulment sufficiently justified.
 
 ### Article 311
 
@@ -3714,15 +3775,15 @@ Whenever the  Contentious-Administrative  Tribunal  declares  the  annulment  of
 
 If  the  decision declares the annulment of an act with respect to a rule of law or of good administration, it shall have general and absolute effect.
 
+· Ultra-vires administrative actions
+
 ### Article 312
 
 The  action  for  reparation  for  harms  caused  by  the  administrative  acts  to  which Article 309 refers shall be interposed before the jurisdiction that the law determines and  may  only  be  employed  by  those  who  have  active  legitimation  to  demand  the annulment of the act at issue.
 
 The  plaintiff  [actor]  may  opt  between  requesting  the  annulment  of  the  act  or reparation for the damage caused by it.
 
-In the first case and if an annulment sentence is obtained, the reparation before the corresponding  seat  may  be  subsequently  [luego]  demanded.  One  may  not,  on  the other  hand,  request  an  annulment  if  one  first  opted  for  the  reparatory  cause  of action, whatever the respective sentence may contain. If the sentence of the
-
-Tribunal is affirmed, [and] the reason invoked for annulment is declared sufficiently justified, one may also demand the reparation.
+In the first case and if an annulment sentence is obtained, the reparation before the corresponding seat may be subsequently [luego] demanded. One may not, on the other hand, request an annulment if one first opted for the reparatory cause of action, whatever the respective sentence may contain. If the sentence of the Tribunal is affirmed, [and] the reason invoked for annulment is declared sufficiently justified, one may also demand the reparation.
 
 ### Article 313
 
@@ -3733,6 +3794,8 @@ It shall act also upon disputes or differences that may arise among the members 
 All  disputes  based  on  the  Constitution  shall  be  heard  by  the  Supreme  Court  of Justice.
 
 ## Chapter III
+
+· Attorney general
 
 ### Article 314
 
@@ -3798,12 +3861,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Electoral court powers
-
-· Eligibility for electoral court judges
-
-- Electoral court selection
-
 ## Chapter V
 
 ### Article 320
@@ -3816,23 +3873,29 @@ These  organs  shall  be  appointed  by  the  Contentious-Administrative  Tribun
 
 The  Contentious-Administrative  Tribunal  shall  prepare  its  budgets  and  transmit them in due course to the Executive Power for inclusion in the draft general budget with such modifications as may be deemed pertinent.
 
-# SECTION XVII: Electoral Justice
+# SECTION XVIII: Electoral Justice
 
 ## Chapter I
+
+· Electoral court powers
 
 ### Article 322
 
 There shall be an Electoral Court which shall have the following powers in addition to those established in Section III or which may be prescribed by law:
 
-- To act in all matters relating to electoral acts or procedures;
+a. To act in all matters relating to electoral acts or procedures;
 
-- To exercise directive, disciplinary, advisory, and economic supervision over electoral organs;
+b. To exercise directive, disciplinary, advisory, and economic supervision over electoral organs;
 
-- To render final decision on all appeals and claims that may arise and act as judge  of the elections to all elective offices,  and  of  plebiscites  and referendums.
+c. To render final decision on all appeals and claims that may arise and act as judge of the elections to all elective offices, and of plebiscites and referendums.
 
 ### Article 323
 
 In budgetary and financial matters, the provisions of Section XIV shall apply.
+
+· Eligibility for electoral court judges
+
+· Electoral court selection
 
 ### Article 324
 
@@ -3868,7 +3931,7 @@ In such event it must call for a new election-in whole or in part-which shall ta
 
 ### Article 328
 
-The Executive Committee shall communicate directly with the Public Powers.
+The Electoral Court shall communicate directly with the Public Powers.
 
 # SECTION XIX: The Observance of Former Laws. Enforcement and Amendment of the Present Constitution
 
@@ -3896,23 +3959,23 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-· Constitution amendment procedure
-
 ## Chapter III
+
+· Constitution amendment procedure
 
 ### Article 331
 
 The present Constitution may be amended, in whole or in part, in accordance with the following procedures:
 
-- Upon the initiative of ten percent of the citizens inscribed in the National Civil Register, by presenting a detailed proposal which shall be referred to the  President  of  the  General  Assembly,  to  be  submitted  for  popular decision at the next election.
+a. Upon the initiative of ten percent of the citizens inscribed in the National Civil Register, by presenting a detailed proposal which shall be referred to the President of the General Assembly, to be submitted for popular decision at the next election.
 
-The  General  Assembly,  meeting  in  joint  session,  may  take  substitute proposals which shall be submitted to plebiscitary decision together with the popular initiative.
+The General Assembly, meeting in joint session, may take substitute proposals which shall be submitted to plebiscitary decision together with the popular initiative.
 
-- By proposal of amendment approved by two-fifths of the full membership of the General Assembly, presented to the President thereof,  and submitted to plebiscite at the next ensuing election.
+b. By proposal of amendment approved by two-fifths of the full membership of the General Assembly, presented to the President thereof, and submitted to plebiscite at the next ensuing election.
 
-For an affirmative result in the methods outlined in paragraphs (a) and (b), a "yes"  vote  of  an  absolute  majority  of  the  citizens  participating  in  the elections  shall  be  required,  and  this  majority  must  represent  at  least thirty-five percent of all persons inscribed in National Civil Register.
+For an affirmative result in the methods outlined in paragraphs (a) and (b), a "yes" vote of an absolute majority of the citizens participating in the elections shall be required, and this majority must represent at least thirty-five percent of all persons inscribed in National Civil Register.
 
-- The  Senators,  Representatives,  and  the  Executive  Power  may  present proposed amendments which must be approved by an absolute majority of the full membership of the General Assembly.
+c. The Senators, Representatives, and the Executive Power may present proposed amendments which must be approved by an absolute majority of the full membership of the General Assembly.
 
 A  proposal  which  is  rejected  may  not  be  renewed  until  the  succeeding legislative period, and the same formalities must be observed.
 
@@ -3940,9 +4003,9 @@ Voting shall be by "yes" or "no" and if there are several texts of amendment, it
 
 In  the  cases  contemplated  by  paragraphs  (a)  and  (b),  there  shall  be submitted  for  ratification  by  plebiscite  at  the  same  time  as  the  next elections  only  those  proposals  which  have  been  presented  at  least  six months before the date of such elections, or in the first of these cases, three months before, for substitute proposals approved by the General Assembly.  Proposals  presented  after  the  periods  mentioned  shall  be submitted to plebiscite at the time of the subsequent elections.
 
-- The Constitution may be amended, also, by constitutional laws which shall require  for  their  sanction  two-thirds  of  the  full  membership  of  each Chamber  in  the  same  legislative  period.  Constitutional  laws  may  not  be vetoed  by  the  Executive  Power  and  shall  take  effect  as  soon  as  the electorate specially convoked on the date specified in such laws shall have expressed their approval by an absolute majority of the votes cast and they shall be promulgated by the President of the General Assembly.
+d. The Constitution may be amended, also, by constitutional laws which shall require for their sanction two-thirds of the full membership of each Chamber in the same legislative period. Constitutional laws may not be vetoed by the Executive Power and shall take effect as soon as the electorate specially convoked on the date specified in such laws shall have expressed their approval by an absolute majority of the votes cast and they shall be promulgated by the President of the General Assembly.
 
-- If  the convocation of the electorate for ratification of amendments, in the cases  contemplated  in  paragraphs  (a),  (b),  (c),  and  (d)  coincides  with  any election of members of the organs of the State, the citizens must express their will on the constitutional amendments on ballots separate and apart from the election lists.  Whenever  the  amendments  submitted  to  a plebiscite  relate  to  election  to  elective  offices,  the  voting  for  such  offices shall  be  both  by  the  system  proposed  and  by  the  existing  system,  and decision of the plebiscite shall be final.
+e. If the convocation of the electorate for ratification of amendments, in the cases contemplated in paragraphs (a), (b), (c), and (d) coincides with any election of members of the organs of the State, the citizens must express their will on the constitutional amendments on ballots separate and apart from the election lists. Whenever the amendments submitted to a plebiscite relate to election to elective offices, the voting for such offices shall be both by the system proposed and by the existing system, and decision of the plebiscite shall be final.
 
 ## Chapter IV
 
@@ -3962,43 +4025,43 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+# Transitory and Special Provisions
+
+A. If the plebiscite is declared affirmative, by signed resolution of the Electoral Court, this [reform] will enter into force obligatorily from that moment.
+
+B. The provisions contained in Sections VIII, IX, X, XI and XVI shall take effect on March 1, 1967.
+
+C. The lists of candidates for electoral boards, created by Law 7.690 of January 9,1924, shall be included on the same ballot as are the candidates for national office.
+
+D. The General Assembly, in joint session, within fifteen days following the inauguration of the next legislative term, shall fix the remuneration to be allotted to the President and Vice President of the Republic and to the Municipal Intendants who are elected under these proposed constitutional amendments.
+
+E. The Ministries of Labor and Social Security and of Transportation, Communications and Tourism are hereby established, with jurisdiction over the matters their titles indicate.
+
 · Media commission
+
+The present Ministries of Public Information and Social Welfare and of Industries and Labor shall become the Ministries of Culture and of Industry and Commerce.
+
+The Tourist Commission, the Postal Administration, the Telecommunications Administration, Civil Aviation, and the Weather Bureau shall become centralized services under the Ministry of Transportation, Communications and Tourism. Nevertheless, the Executive Power, under his responsibility and by decree stating reasons, may delegate such jurisdiction as is deemed necessary to ensure efficiency and continuity in providing services.
 
 · Telecommunications
 
+The Executive Power is authorized to take from the general revenues the amounts needed for the organization and functioning of the aforementioned Ministries, until a law shall enact their budgets of salaries, expenditures and investments.
+
+F. The Autonomous Entities and Decentralized Services indicated below shall be administered, until such time as a law prescribes their form of organization, as follows:
+
+1. The Central Bank of the Republic; the Bank of the Oriental Republic of Uruguay; the State Insurance Bank; the Mortgage Bank of Uruguay; the Electric Power and Telephone Administration, ANCAP, and the National Port Administration, by Boards of five Directors each, selected in the manner indicated in Article 187.
+
 · Central bank
 
-# Transitory and Special Provisions
+2. The State Sanitation Works and the State Railways Administration, by Boards of three Directors, selected in the manner prescribed by Article 187.
 
-- If  the  plebiscite  is  declared  affirmative,  by  signed  resolution  of  the  Electoral Court, this [reform] will enter into force obligatorily from that moment.
+3. The Oceanographic and Fishery Service and the Primary Air Lines, by Directors General chosen in the manner indicated in Article 187.
 
-- The provisions contained in Sections VIII, IX, X, XI and XVI shall take effect on March 1, 1967.
+G. A Board of Directors composed as indicated herein shall govern the Colonization Institute:
 
-- The  lists  of  candidates  for  electoral  boards,  created  by  Law  7.690  of  January 9,1924, shall be included on the same ballot as are the candidates for national office.
+a. A chairman appointed by the Executive Power in the manner prescribed by Article 187;
 
-- The  General  Assembly,  in  joint  session,  within  fifteen  days  following  the inauguration  of  the  next  legislative  term,  shall  fix  the  remuneration  to  be allotted to the President and Vice President of the Republic and to the Municipal Intendants who are elected under these proposed constitutional amendments.
-
-- The Ministries of Labor and Social Security and of Transportation, Communications and Tourism are hereby established, with jurisdiction over the matters their titles indicate.
-
-The  present  Ministries  of  Public  Information  and  Social  Welfare  and  of Industries and Labor shall become the Ministries of Culture and of Industry and Commerce.
-
-The  Tourist  Commission,  the  Postal  Administration,  the  Telecommunications Administration, Civil Aviation, and the Weather Bureau shall become centralized services under the Ministry of Transportation, Communications and Tourism.  Nevertheless,  the  Executive  Power,  under  his  responsibility  and  by decree stating reasons, may delegate such jurisdiction as is deemed necessary to ensure efficiency and continuity in providing services.
-
-The  Executive  Power  is  authorized  to  take  from  the  general  revenues  the amounts  needed  for  the  organization  and  functioning  of  the  aforementioned Ministries,  until  a  law  shall  enact  their  budgets  of  salaries,  expenditures  and investments.
-
-- The Autonomous Entities and Decentralized Services indicated below shall be administered, until such time as a law prescribes their form of organization, as follows:
-
-- The  Central  Bank  of  the  Republic;  the  Bank  of  the  Oriental  Republic  of Uruguay;  the  State  Insurance  Bank;  the  Mortgage  Bank  of  Uruguay;  the Electric  Power  and  Telephone  Administration,  ANCAP,  and  the  National Port  Administration,  by  Boards  of  five  Directors  each,  selected  in  the manner indicated in Article 187.
-
-- The  State  Sanitation  Works  and  the  State  Railways  Administration,  by Boards  of  three  Directors,  selected  in  the  manner  prescribed  by  Article 187.
-
-- The  Oceanographic  and  Fishery  Service  and  the  Primary  Air  Lines,  by Directors General chosen in the manner indicated in Article 187.
-
-- A Board of Directors composed as indicated herein shall govern the Colonization Institute:
-
-- A chairman appointed by the Executive Power in the manner prescribed by Article 187;
-
-- One delegate from the Ministry of Livestock and Agriculture;
+b. One delegate from the Ministry of Livestock and Agriculture;
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4012,29 +4075,29 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+c. One delegate from the Ministry of Finance [Hacienda];
+
+d. One member appointed by the Executive Power, who must be selected from a list consisting of two candidates nominated by the University of the Republic and two candidates nominated by the Labor University of Uruguay; and
+
+e. One member appointed by the Executive Power, who must be selected from among candidates proposed by the national producers organizations, the farm cooperatives, and the rural development societies, each of which may nominate one candidate.
+
+H. As of March 1, 1967 and until a law, by an absolute majority of the full membership of each Chamber established the composition of the Board of Directors of the Central Bank of the Republic and its jurisdiction, this board shall be organized in the manner prescribed by paragraph (1) of Clause F of these Transitory Provisions, and it shall have the powers and duties that presently pertain to the Issue Department of the Bank of the Republic.
+
 · Central bank
 
-- One delegate from the Ministry of Finance [Hacienda];
+I. The provisions of Section XVII shall apply to administrative acts completed or executed on or after March 1, 1952.
 
-- One  member  appointed  by  the  Executive  Power,  who  must  be  selected from a list consisting of two candidates nominated by the University of the Republic  and  two  candidates  nominated  by  the  Labor  University  of Uruguay; and
+Administrative acts performed prior to that date may be challenged, or proceedings shall be continued in accordance with the system in force at the time the acts were performed. All provisions of law that give jurisdiction to organs of regular justice over matters in first or later instance are hereby repealed, if they should be submitted to the jurisdiction of the Contentious-Administrative Tribunal.
 
-- One  member  appointed  by  the  Executive  Power,  who  must  be  selected from among candidates proposed by the national producers organizations, the farm cooperatives, and the rural development societies, each of which may nominate one candidate.
+J. Until such time as the Organic Law for the Contentious-Administrative Tribunal is promulgated:
 
-- As  of  March  1,  1967  and  until  a  law,  by  an  absolute  majority  of  the  full membership  of  each  Chamber  established  the  composition  of  the  Board  of Directors of the Central Bank of the Republic and its jurisdiction, this board shall be  organized  in  the  manner  prescribed  by  paragraph  (1)  of  Clause  F  of  these Transitory  Provisions,  and  it  shall  have  the  powers  and  duties  that  presently pertain to the Issue Department of the Bank of the Republic.
+1. Its composition and functioning shall be governed, whenever applicable, by Law 3.246 of October 28, 1907 and amendatory and supplementary laws.
 
-- The provisions of Section XVII shall apply to administrative acts completed or executed on or after March 1, 1952.
+2. The procedure to be followed before this body shall be the same as that provided in the Code of Civil Procedure for ordinary suits of lesser amount.
 
-Administrative  acts  performed  prior  to  that  date  may  be  challenged,  or proceedings  shall  be  continued  in  accordance  with  the  system  in  force  at  the time  the  acts  were  performed.  All  provisions  of  law  that  give  jurisdiction  to organs  of  regular  justice  over  matters  in  first  or  later  instance  are  hereby repealed, if they should be submitted to the jurisdiction of the Contentious-Administrative Tribunal.
+3. It must render its decisions within the period established for this purpose for the Supreme Court of Justice under Law 9.594 of September 12,1936 and Law 13.355 of August 17, 1965; and the State Attorney of the Contentious-Administrative Tribunal must act within the period established under the same law for the Court Prosecutor [Fiscal de Corte]. Decisions of the Tribunal shall be susceptible of amplification or clarification in accordance with the provisions of Articles 486 and 487 of the Code of Civil Procedure.
 
-- Until such time as the Organic Law for the Contentious-Administrative Tribunal is promulgated:
-
-- Its composition and functioning shall be governed, whenever applicable, by Law 3.246 of October 28, 1907 and amendatory and supplementary laws.
-
-- The procedure to be followed before this body shall be the same as that provided in the Code of Civil Procedure for ordinary suits of lesser amount.
-
-- It  must render its decisions within the period established for this purpose for the Supreme Court of Justice under Law 9.594 of September 12,1936 and  Law  13.355  of  August  17,  1965;  and  the  State  Attorney  of  the Contentious-Administrative Tribunal must act within the period established under the same law for the Court Prosecutor [Fiscal de Corte]. Decisions of the Tribunal shall be susceptible of amplification or clarification in accordance with the provisions of Articles 486 and 487 of the Code of Civil Procedure.
-
-- The organs of ordinary justice shall transmit to the Contentious-Administrative  Tribunal  an  attested  copy  of  the  Judgments issued  with  respect  to  suits  for  redress  provided  for  in  Article  312.  The Representatives of the defendant party shall likewise transmit an attested copy of such judgments to the State Attorney of the Tribunal.
+4. The organs of ordinary justice shall transmit to the Contentious-Administrative Tribunal an attested copy of the Judgments issued with respect to suits for redress provided for in Article 312. The Representatives of the defendant party shall likewise transmit an attested copy of such judgments to the State Attorney of the Tribunal.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4048,35 +4111,35 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+5. An action for annulment must be entered, under penalty of forfeiture, within the periods heretofore established in laws in force up to the present time, in order to be heard by judicial authority. In those cases not expressly provided for, the period shall be sixty days counting from the day following personal notification of the definitive administrative act, or of its publication in the Diario Oficial or the expiration of the time limit in which the authority may act.
+
+K. The provisions of Article 247 shall not be applicable to Justices of the Peace who are in office at the time of the present Constitution is adopted, and they may be reelected more than once even if they fail to meet the qualifications stated in the final paragraph of that article.
+
+L. The option to which Article 312 refers, may only be exercised with respect to administrative acts adopted after the entry into force of this reform.
+
+M. The Civil and School Retirement and Pensions Fund, the one for Industry and Commerce, and the one for Rural Workers and Domestics and for Old Age Pensions, shall be governed by the Board of Directors of the Social Welfare Bank which shall consist of the following:
+
+a. Four members appointed by the Executive Power, in the manner prescribed by Article 187, one of whom shall be chairman;
+
+b. One elected by active members;
+
+c. One elected by retired members;
+
+d. One elected by contributing enterprises.
+
+Until the elections are held for choosing the Representatives of members as Directors of the Social Welfare Bank, the Board shall consist of the members appointed by the Executive Power, and during this interval the vote of the President of the Board shall be decisive in the event of a tie, even if this occurred because of his own vote.
+
+N. Until a law is enacted providing of its composition, the National Council of Primary and Normal Education shall consist of five members, at least three of whom must be teachers with more than ten years experience, appointed by the Executive Power as provided for in Article 187.
+
+O. The Planning and Budget Commission shall consist of the Ministers of Finance; Livestock and Agriculture; Industry and Commerce; Labor and Social Security; Public Works; Public Health; Transportation, Communications and Tourism; and Culture, or their Representatives; and the director of the office, who shall be presiding officer. It shall be installed immediately with the duties, equipment, furniture, and personnel of the present Commission for Investments and Economic Development.
+
+P. The National Council of Supplies and Price Control, the Board of Directors of the National Institute of Low-Cost Housing [Instituto Nacional de Viviendas Económicas], the National Commission of Physical Education, and the Board of the Official Service of Radio Broadcasting, shall each consist of three members appointed by the Executive Power in Council of Ministers.
+
 · Radio
 
-- An  action  for  annulment  must  be  entered,  under  penalty  of  forfeiture, within the periods heretofore established in laws in force up to the present time, in order to be heard by judicial authority. In those cases not expressly provided for, the period shall be sixty days counting from the day following personal notification of the definitive administrative act, or of its publication in the Diario Oficial or the expiration of the time limit in which the authority may act.
+Q. All boards of Directors and authorities whose composition is changed by these amendments shall continue to function until their successors are appointed or elected.
 
-- The provisions of Article 247 shall not be applicable to Justices of the Peace who are in office at the time of the present Constitution is adopted, and they may be reelected more than once even if they fail to meet the qualifications stated in the final paragraph of that article.
-
-- The option to which Article 312 refers, may only be exercised with respect to administrative acts adopted after the entry into force of this reform.
-
-- The Civil and School Retirement and Pensions Fund, the one for Industry and Commerce,  and  the  one  for  Rural  Workers  and  Domestics  and  for  Old  Age Pensions,  shall  be  governed  by  the  Board  of  Directors  of  the  Social  Welfare Bank which shall consist of the following:
-
-- Four members appointed by the Executive Power, in the  manner prescribed by Article 187, one of whom shall be chairman;
-
-- One elected by active members;
-
-- One elected by retired members;
-
-- One elected by contributing enterprises.
-
-Until  the  elections  are  held  for  choosing  the  Representatives  of  members  as Directors  of  the  Social  Welfare  Bank,  the  Board  shall  consist  of  the  members appointed  by  the  Executive  Power,  and  during  this  interval  the  vote  of  the President of the Board shall be decisive in the event of a tie, even if this occurred because of his own vote.
-
-- Until  a  law  is  enacted  providing  of  its  composition,  the  National  Council  of Primary and Normal Education shall consist of five members, at least three of whom must be teachers with more than ten years experience, appointed by the Executive Power as provided for in Article 187.
-
-- The Planning and Budget Commission shall consist of the Ministers of Finance; Livestock and Agriculture; Industry and Commerce; Labor and Social Security; Public Works; Public Health; Transportation, Communications and Tourism; and Culture,  or  their  Representatives;  and  the  director  of  the  office,  who  shall  be presiding  officer.  It  shall  be  installed  immediately  with  the  duties,  equipment, furniture,  and  personnel  of  the  present  Commission  for  Investments  and Economic Development.
-
-- The National Council of Supplies and Price Control, the Board of Directors of the  National  Institute  of  Low-Cost  Housing  [Instituto  Nacional  de  Viviendas Económicas], the National Commission of Physical Education, and the Board of the Official Service of Radio Broadcasting, shall each consist of three members appointed by the Executive Power in Council of Ministers.
-
-- All boards of Directors and authorities whose composition is changed by these amendments shall continue to function until their successors are appointed or elected.
-
-- The provision contained in Article 77, Section 9, that refers to the separation of ballots  for  the  Departmental  Governments,  shall  not  apply  in  the  election  of November 27, 1966.
+R. The provision contained in Article 77, Section 9, that refers to the separation of ballots for the Departmental Governments, shall not apply in the election of November 27, 1966.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4090,33 +4153,33 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- Within  the  period  of  one  year  the  Executive  Power  shall  submit  to  the Legislative Power the bill referred to in Article 202.
+S. Within the period of one year the Executive Power shall submit to the Legislative Power the bill referred to in Article 202.
 
-- The  members  of  the  present  Council  of  Government  may  be  elected  to  the offices  of  President  or  Vice  President  of  the  Republic;  and  members  of  the present Departmental Councils may be elected to the office of Intendant. The prohibitions set forth in Article 201 shall not apply to the national election of 1966.
+T. The members of the present Council of Government may be elected to the offices of President or Vice President of the Republic; and members of the present Departmental Councils may be elected to the office of Intendant. The prohibitions set forth in Article 201 shall not apply to the national election of 1966.
 
-- The Presidency of the General Assembly shall immediately publish the new text of the Constitution.
+U. The Presidency of the General Assembly shall immediately publish the new text of the Constitution.
 
-- This reform of Article 67 shall enter into force on the 1st of May of 1990. On the occasion of  the  first  adjustment  to  be  made  after  this  date,  the  same  shall  be made, as a minimum, as a function of the variation operating in the Median Index of Salaries between the first of January of 1990 and the date of effectiveness of this adjustment.
+V. This reform of Article 67 shall enter into force on the 1st of May of 1990. On the occasion of the first adjustment to be made after this date, the same shall be made, as a minimum, as a function of the variation operating in the Median Index of Salaries between the first of January of 1990 and the date of effectiveness of this adjustment.
 
-- Without prejudice to that established in Articles 216 and 256 and in accordance with  the  Constitution  of  the  Republic,  any  modification  of  the  social  security, social insurance, or social provision (Art.67) that is contained in the budgetary laws or the rendering of accounts, from the 1st of October of 1992 is declared unconstitutional. The Supreme Court of Justice, of office, or on the petition of any inhabitant of the Republic, shall issue a decision [pronunciamiento] without further  steps,  indicating  the  norms  to  which  this  declaration  shall  be  applied, which shall be communicated to the Executive Power and the Legislative Power. These norms cease to produce effect for all cases, and with retroactivity to their entry into force.
+V. Without prejudice to that established in Articles 216 and 256 and in accordance with the Constitution of the Republic, any modification of the social security, social insurance, or social provision (Art.67) that is contained in the budgetary laws or the rendering of accounts, from the 1st of October of 1992 is declared unconstitutional. The Supreme Court of Justice, of office, or on the petition of any inhabitant of the Republic, shall issue a decision [pronunciamiento] without further steps, indicating the norms to which this declaration shall be applied, which shall be communicated to the Executive Power and the Legislative Power. These norms cease to produce effect for all cases, and with retroactivity to their entry into force.
 
-- The internal elections to select the sole presidential candidacy for the national elections to be held in 1999, as well as those which successively take place, and before the law foreseen in number 12) of Article 77 is enacted, shall be carried out in accordance with the following principles:
+W. The internal elections to select the sole presidential candidacy for the national elections to be held in 1999, as well as those which successively take place, and before the law foreseen in number 12) of Article 77 is enacted, shall be carried out in accordance with the following principles:
 
-- All those registered in the Civil Registry may vote.
+a. All those registered in the Civil Registry may vote.
 
-- They shall be carried out simultaneously on the last Sunday of April of the year  in  which  national  elections  should  be  celebrated  for  all  the  political parties that concur with the latter.
+b. They shall be carried out simultaneously on the last Sunday of April of the year in which national elections should be celebrated for all the political parties that concur with the latter.
 
-- Suffrage shall be secrete and not obligatory.
+c. Suffrage shall be secrete and not obligatory.
 
-- In one act and through one voting paper a vote shall be cast:
+d. In one act and through one voting paper a vote shall be cast:
 
-- for the citizen to be nominated as the sole candidate of the party to the Presidency of the Republic;
+1. for the citizen to be nominated as the sole candidate of the party to the Presidency of the Republic;
 
-- for the employment [nómina] of national and departmental conventions.
+2. for the employment [nómina] of national and departmental conventions.
 
 To form both conventions proportional representation shall be applied and pre-candidates may not accumulate [votes] among themselves.
 
-The  reference  to  conventions  [also]  includes  the  electoral  college  or deliberative  organ  with  factional  electoral  functions  determined  by  the Organic Act or equivalent statute of each political party.
+The reference to conventions [also] includes the electoral college or deliberative organ with factional electoral functions determined by the Organic Act or equivalent statute of each political party.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4130,23 +4193,23 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- The pre-candidate that receives the most votes shall be directly nominated as  the  sole  candidate  to  the  Presidency  of  the  Republic  as  long  as  he receives an absolute majority of the valid votes of his party. In addition, that pre-candidate  that  has  more  than  forty  percent  of  the  valid  votes  of  his party and that, also surpassed the second pre-candidate by no less than ten percent of the referred to votes, shall also be [nominated].
+e. The pre-candidate that receives the most votes shall be directly nominated as the sole candidate to the Presidency of the Republic as long as he receives an absolute majority of the valid votes of his party. In addition, that pre-candidate that has more than forty percent of the valid votes of his party and that, also surpassed the second pre-candidate by no less than ten percent of the referred to votes, shall also be [nominated].
 
-- If none of the circumstances referred to in the preceding paragraph occur, the national electoral college, or the deliberative organ that takes its place, arising  from  said  internal  election,  shall  carry  out  the  nomination  of  the candidate for the President through a public and registered [nominal] vote, by an absolute majority of its members.
+f. If none of the circumstances referred to in the preceding paragraph occur, the national electoral college, or the deliberative organ that takes its place, arising from said internal election, shall carry out the nomination of the candidate for the President through a public and registered [nominal] vote, by an absolute majority of its members.
 
-- Those  persons  who  present  themselves  as  a  candidate  for  any  office  in internal  elections,  may  only  do  so  through  a  political  party  and  are disqualified from presenting themselves as the candidate for any office for another party in the next national and departmental elections.
+g. Those persons who present themselves as a candidate for any office in internal elections, may only do so through a political party and are disqualified from presenting themselves as the candidate for any office for another party in the next national and departmental elections.
 
-Said disqualification also reaches those who  present themselves as candidates for any office before the partisan electoral organs.
+Said disqualification also reaches those who present themselves as candidates for any office before the partisan electoral organs.
 
-- If  the  definitive  vacancy  of  a  presidential  candidature  occurs  prior  to  the National  Election,  it  shall  be  occupied  automatically  by  the  candidate  for Vice President, unless [there is] a contrary resolution before the registry of the lists by the National Electoral College or equivalent deliberative organ convoked expressly to such effect.
+h. If the definitive vacancy of a presidential candidature occurs prior to the National Election, it shall be occupied automatically by the candidate for Vice President, unless [there is] a contrary resolution before the registry of the lists by the National Electoral College or equivalent deliberative organ convoked expressly to such effect.
 
-- While the law provided for in the penultimate paragraph of Article 230 is not adopted,  the  Sectoral  Commission  shall  be  composed  of  the  delegates  of  the competent Ministries and by five delegates of the Congress of Intendants, who shall be installed within ninety days from the entry into force of this constitutional.
+X. While the law provided for in the penultimate paragraph of Article 230 is not adopted, the Sectoral Commission shall be composed of the delegates of the competent Ministries and by five delegates of the Congress of Intendants, who shall be installed within ninety days from the entry into force of this constitutional.
 
-- While  the  laws  foreseen  in  Articles  262  and  287  are  not  prescribed  the  local authorities shall be governed by the following norms:
+Y. While the laws foreseen in Articles 262 and 287 are not prescribed the local authorities shall be governed by the following norms:
 
-- They shall be named Local Boards, [and] shall have five members and, when they are elected, they shall be created through proportional representation,  in  which  case  the  first  officeholder  from  the  list  with  the most votes of the most voted for party in the respective territorial district shall preside.
+1. They shall be named Local Boards, [and] shall have five members and, when they are elected, they shall be created through proportional representation, in which case the first officeholder from the list with the most votes of the most voted for party in the respective territorial district shall preside.
 
-- There shall be Local Boards in all the communities in which they exist on the date in which the present Constitution enters into effect, as well as in those which, from that date, the Departmental Board create, on proposal of the Intendant.
+2. There shall be Local Boards in all the communities in which they exist on the date in which the present Constitution enters into effect, as well as in those which, from that date, the Departmental Board create, on proposal of the Intendant.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4160,17 +4223,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
-- While the law provided for in Article 271 is not adopted, the candidates of each party for Municipal Intendant shall be nominated by their deliberative departmental  organ  or  by  that  [which],  in  agreement  with  their  respective Organic Acts or Statutes[,] substitutes for the Electoral College. This organ shall be elected in the internal elections to which the Transitory Provision W) refers.
+Z. While the law provided for in Article 271 is not adopted, the candidates of each party for Municipal Intendant shall be nominated by their deliberative departmental organ or by that [which], in agreement with their respective Organic Acts or Statutes[,] substitutes for the Electoral College. This organ shall be elected in the internal elections to which the Transitory Provision W) refers.
 
 The person who receives the most votes by the members of the electoral organ shall be nominated as candidate. In addition, [the candidate] may be the person who follows in number of votes as long as he receives more than thirty percent of the votes emitted. Each member of the convention or members of the organ that substitutes for the electoral college may vote for one candidate.
 
-If  a  definitive  vacancy  in  the  candidacy  for  the  Municipal  Intendant  occurs before  the  departmental  election,  it  shall  be  filled  automatically  by  his  first alternate, unless [there is] a resolution to the contrary before the registry of the lists  by  the  Departmental  Electoral  College  or  equivalent  Deliberative  Organ, convoked expressly to this effect.
+If a definitive vacancy in the candidacy for the Municipal Intendant occurs before the departmental election, it shall be filled automatically by his first alternate, unless [there is] a resolution to the contrary before the registry of the lists by the Departmental Electoral College or equivalent Deliberative Organ, convoked expressly to this effect.
 
-If  [a  definitive  absence]  of  the  first  substitute  occurs,  the  designation  of  a substitute  shall  correspond  to  the  Departmental  Electoral  College  or  the equivalent Deliberative Organ.
+If [a definitive absence] of the first substitute occurs, the designation of a substitute shall correspond to the Departmental Electoral College or the equivalent Deliberative Organ.
 
-- The  current  mandate  of  the  Municipal  Intendants,  Town  Councillors,  and members of  elective  Local  Boards,  shall  be  extended,  one  sole  time,  until  the assumption of the new authorities according to that provided in Article 262 of this Constitution.
+Z. The current mandate of the Municipal Intendants, Town Councillors, and members of elective Local Boards, shall be extended, one sole time, until the assumption of the new authorities according to that provided in Article 262 of this Constitution.
 
-- The reparation that shall correspond, by the entry into force of this reform, will not  create  indemnization  for  profits  lost,  reimbursing  only  non-amortized investments.
+Z. The reparation that shall correspond, by the entry into force of this reform, will not create indemnization for profits lost, reimbursing only non-amortized investments.
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4186,6 +4249,54 @@ PDF generated: 17 Jan 2018, 20:28
 
 # Topic index
 
+## A
+
+Administrative court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57, 74
+Administrative court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57, 74
+Administrative court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57, 74
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 32
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 27
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 75
+
+## B
+
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40, 51, 52
+
+## C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32, 33, 42, 43
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45, 47, 81, 82
+Compensation of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Compulsory voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 61, 62
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61, 62
+Customary international law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+## D
+
+Deputy executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 37
+Division of labor between chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Duty to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+## E
+
+Economic plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55, 56
+Electoral court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Electoral court removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Electoral court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Eligibility for administrative judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 74
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 42
+Eligibility for electoral court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Eligibility for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
 Page 87
@@ -4197,6 +4308,58 @@ Page 87
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
+
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Establishment of administrative courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34, 36, 42
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+## F
+
+First chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36, 37
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+## G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Guarantee of due process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+## H
+
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 41
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 24, 41
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34, 35
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+## I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 26
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 6, 7
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+International human rights treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 20, 40, 57
+
+## J
+
+Joint meetings of legislative chambers . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 19, 21, 27, 31, 32
+
+## L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4210,6 +4373,57 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+Leader of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 43, 49
+Legislative initiatives by citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+## M
+
+Mandatory retirement age for judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Media commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Min age of administrative judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 74
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Minimum age for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Minimum age of ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59, 60
+Minimum age of supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64, 68, 69
+
+## N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+## O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Ordinary court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58, 59, 60
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+## P
+
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 40
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Privileges for juveniles in criminal process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of capital punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+## Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+## R
+
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
 Page 89
@@ -4222,7 +4436,51 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
 
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71, 83
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 14, 48
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Regional group(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 17, 18
+Right of petition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to academic freedom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 61
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to equal pay for work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 7
+Right to pre-trial release . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 6
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to shelter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to strike . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to transfer property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 10
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rights of debtors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
 ## S
+
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Second chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Secrecy of legislative votes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37, 39
+Separation of church and state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Size of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Standing committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 30
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
@@ -4235,6 +4493,36 @@ Page 90
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 20:28
+
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+State support for the unemployed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 13
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 21, 23
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 59
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62, 64, 65, 66, 67
+Supreme court opinions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Supreme court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Supreme court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 24, 58
+
+## T
+
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 21
+Tax status of religious organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Term length of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 40
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+## U
+
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74, 75
+
+## V
+
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
 
 Uruguay 1966 (reinst. 1985, rev. 2004)
 
