@@ -64,13 +64,71 @@ Explanatory Notes have been produced to assist in the understanding of this Act 
 
 ii
 
-Education Act 2011 (c. 21 )
+Education Act 2011 (c. 21)
+
+### Abolition of the Training and Development Agency for Schools
+
+- 14 Abolition of the Training and Development Agency for Schools
+
+- 15 Training the school workforce: powers of Secretary of State and Welsh Ministers
+
+- 16 Abolition of the TDA: consequential amendments
+
+- 17 Abolition of the TDA: transfer schemes
+
+### Abolition of the School Support Staff Negotiating Body
+
+- 18 Abolition of the School Support Staff Negotiating Body
+
+### Staff: minor amendments
+
+- 19 Staffing of maintained schools: suspension of delegated budget
+
+## PART 4
+
+### QUALIFICATIONS AND THE CURRICULUM
+
+### International comparison surveys
+
+- 20 Requirement for schools to participate in international surveys
+
+### Ofqual
+
+- 21 The Chief Regulator of Qualifications and Examinations
+
+- 22 The qualifications standards objective
+
+- 23 Enforcement powers
+
+### Qualifications: Wales
+
+- 24 Enforcement powers of Welsh Ministers
+
+### Abolition of the Qualifications and Curriculum Development Agency
+
+- 25 Abolition of the Qualifications and Curriculum Development Agency
+
+- 26 Abolition of the QCDA: consequential amendments
+
+- 27 Abolition of the QCDA: transfer schemes
+
+### Careers education and guidance
+
+- 28 Education and training support services in England
+
+- 29 Careers guidance in schools in England
+
+### Repeal of the diploma entitlement
+
+- 30 Repeal of diploma entitlement for 16 to 18 year olds
+
+- 31 Repeal of diploma entitlement for fourth key stage
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Education Act 2011 (c. 21 )
+Education Act 2011 (c. 21)
 
 iii
 
@@ -78,25 +136,163 @@ iii
 
 ### EDUCATIONAL INSTITUTIONS: OTHER PROVISIONS
 
+### Repeal of duties of governing bodies, local authorities and others
+
+- 32 Duty to prepare and publish school profile
+
+- 33 Duty to appoint school improvement partners
+
+- 34 Duties in relation to school admissions
+
+- 35 Duties in relation to school meals etc
+
+### Admissions
+
+- 36 Objections to admission arrangements
+
+### New schools
+
+- 37 Establishment of new schools
+
+### Governing bodies: constitution and dissolution
+
+- 38 Constitution of governing bodies: maintained schools in England
+
+- 39 Discontinuance of federated school: governing body not to be dissolved
+
+### Standards
+
+- 40 School inspections: exempt schools
+
+- 41 School inspections: matters to be covered in Chief Inspector’s report
+
+- 42 Inspection of further education institutions: exempt institutions
+
+- 43 Inspection of boarding accommodation
+
+- 44 Schools causing concern: powers of Secretary of State
+
+- 45 Complaints: repeal of power to complain to Local Commissioner
+
+### Finance
+
+- 46 Local authorities’ financial schemes
+
+- 47 Payments in respect of dismissal, etc
+
+- 48 Determination of permitted charges
+
+### Further education institutions
+
+- 49 Further education institutions: amendments
+
+### Pupil referral units
+
+- 50 Financing of pupil referral units
+
+- 51 Repeal of provision changing name of pupil referral units
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 iv
 
-Education Act 2011 (c. 21 )
+Education Act 2011 (c. 21)
 
 ## PART 6
 
 ### ACADEMIES
 
+### Academy arrangements
+
+- 52 Academies: removal of requirement to have specialism
+
+- 53 Academy arrangements: post-16 education and alternative provision
+
+- 54 Consequential amendments: 16 to 19 Academies and alternative provision Academies
+
+### Academy orders
+
+- 55 Academy orders: involvement of religious bodies etc
+
+- 56 Academies: consultation on conversion
+
+- 57 Academy conversions: federated schools
+
+- 58 Academy orders: local authority powers
+
+- 59 Transfer of property, rights and liabilities to Academies
+
+### Academies: other provisions
+
+- 60 Academies: new and expanded educational institutions
+
+- 61 Charges at boarding Academies
+
+- 62 Staff at Academies with religious character
+
+- 63 Academies: land
+
+- 64 Academy admissions arrangements: references to adjudicator
+
+- 65 Academies: minor amendments
+
+## PART 7
+
+### POST-16 EDUCATION AND TRAINING
+
+### Abolition of the Young People’s Learning Agency for England
+
+- 66 Abolition of the Young People’s Learning Agency for England
+
+- 67 Abolition of the YPLA: consequential amendments
+
+- 68 Abolition of the YPLA: transfer schemes
+
+### Apprenticeships
+
+- 69 The apprenticeship offer
+
+- 70 Securing the provision of apprenticeship training
+
+- 71 Apprenticeship certificates
+
+### The Chief Executive of Skills Funding
+
+- 72 Consultation by Chief Executive of Skills Funding
+
+- 73 Functions of the Chief Executive of Skills Funding
+
+### Raising the participation age: commencement
+
+- 74 Duty to participate in education or training: commencement
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-Education Act 2011 (c. 21 )
+Education Act 2011 (c. 21)
 
 v
+
+## PART 8
+
+### DIRECT PAYMENTS
+
+- 75 Direct payments: persons with special educational needs or subject to learning difficulty assessment
+
+## PART 9
+
+### STUDENT FINANCE
+
+- 76 Student loans: interest rates
+
+- 77 Limit on student fees: part-time courses
+
+## PART 10
+
+### GENERAL
 
 - 78 Orders and regulations
 
@@ -110,59 +306,41 @@ v
 
 - 83 Short title
 
-- Schedule 1 - Review of exclusions from schools in England: consequential amendments
+- Schedule 1 — Review of exclusions from schools in England: consequential amendments
 
-- Schedule 2 - Abolition of the GTCE: consequential amendments
+- Schedule 2 — Abolition of the GTCE: consequential amendments
 
-- Schedule 3 - Abolition of the GTCE: transfer schemes
+- Schedule 3 — Abolition of the GTCE: transfer schemes
 
-- Schedule 4 - Offence  of  breach  of  reporting  restrictions:  application  to providers of information society services
+- Schedule 4 — Offence of breach of reporting restrictions: application to providers of information society services
 
-- Schedule 5 - Abolition of the TDA: consequential amendments
+- Schedule 5 — Abolition of the TDA: consequential amendments
 
-- Schedule 6 - Abolition of the TDA: transfer schemes
+- Schedule 6 — Abolition of the TDA: transfer schemes
 
-- Schedule 7 - The Chief Regulator of Qualifications and Examinations
+- Schedule 7 — The Chief Regulator of Qualifications and Examinations
 
-- Schedule 8 - Abolition of the QCDA: consequential amendments
+- Schedule 8 — Abolition of the QCDA: consequential amendments
 
-- Schedule 9 - Abolition of the QCDA: transfer schemes
+- Schedule 9 — Abolition of the QCDA: transfer schemes
 
-- Schedule 10 - School admissions: consequential amendments
+- Schedule 10 — School admissions: consequential amendments
 
-- Schedule 11 - Establishment of new schools
+- Schedule 11 — Establishment of new schools
 
-- Schedule 12 - Further education institutions: amendments
+- Schedule 12 — Further education institutions: amendments
 
-- Schedule 13 - 16  to  19  Academies  and  alternative  provision  Academies: consequential amendments
+- Schedule 13 — 16 to 19 Academies and alternative provision Academies: consequential amendments
 
-- Schedule 14 - Academies: land
+- Schedule 14 — Academies: land
 
-- Schedule 15 - Academies: minor amendments
+- Schedule 15 — Academies: minor amendments
 
-- Schedule 16 - Abolition of the YPLA: consequential amendments
+- Schedule 16 — Abolition of the YPLA: consequential amendments
 
-- Schedule 17 - Abolition of the YPLA: transfer schemes
+- Schedule 17 — Abolition of the YPLA: transfer schemes
 
-- Schedule 18 - The apprenticeship offer: consequential amendments
-
-## PART 8
-
-### DIRECT PAYMENTS
-
-- 75 Direct  payments:  persons  with  special  educational  needs  or  subject  to learning difficulty assessment
-
-## PART 9
-
-### STUDENT FINANCE
-
-- 76 Student loans: interest rates
-
-- 77 Limit on student fees: part-time courses
-
-## PART 10
-
-### GENERAL
+- Schedule 18 — The apprenticeship offer: consequential amendments
 
 [[END OF PAGE 6]]
 
@@ -178,7 +356,7 @@ c. 21
 
 An  Act  to  make  provision  about  education,  childcare,  apprenticeships  and training; to make  provision about schools and the school workforce, institutions within the further education sector and Academies; to abolish the General  Teaching  Council  for  England,  the  Training  and  Development Agency for Schools, the School Support Staff Negotiating Body, the Qualifications and Curriculum Development Agency and the Young People's Learning  Agency  for  England;  to  make  provision  about  the  Office  of Qualifications and Examinations Regulation and the Chief Executive of Skills Funding; to make provision about student loans and fees; and for connected purposes. [15th November 2011]
 
-E IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and consent  of  the  Lords  Spiritual  and  Temporal,  and  Commons,  in  this  present Parliament assembled, and by the authority of the same, as follows:B
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
 ## PART 1
 
@@ -186,13 +364,13 @@ E IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and c
 
 #### 1 Free of charge early years provision
 
-- Part 1 of the Childcare Act 2006 (functions of local authorities in England in relation to childcare) is amended as set out in subsections (2) and (3).
+(1) Part 1 of the Childcare Act 2006 (functions of local authorities in England in relation to childcare) is amended as set out in subsections (2) and (3).
 
-- For section 7 (duty to secure prescribed early years provision free of charge) substitute-
+(2) For section 7 (duty to secure prescribed early years provision free of charge) substitute—
 
-##### '7 Duty to secure early years provision free of charge in accordance with regulations
+##### “7 Duty to secure early years provision free of charge in accordance with regulations
 
-- An English local authority must secure that early years provision of such description as may be prescribed is available free of charge, in
+(1) An English local authority must secure that early years provision of such description as may be prescribed is available free of charge, in
 
 [[END OF PAGE 7]]
 
@@ -210,35 +388,35 @@ Part 1 - Early years provision
 
 (b) is of such description as may be prescribed.
 
-- Regulations under subsection (1) may in particular include provision about-
+(2) Regulations under subsection (1) may in particular include provision about—
 
-(a) how  much  early  years  provision  is  to  be  made  available  in pursuance of the duty imposed by subsection (1);
+(a) how much early years provision is to be made available in pursuance of the duty imposed by subsection (1);
 
-(b) the  times  at  which,  and  periods  over  which,  early  years provision is to be made available in pursuance of that duty.
+(b) the times at which, and periods over which, early years provision is to be made available in pursuance of that duty.
 
-- In  discharging  the  duty  under  subsection  (1)  a  local  authority  must have regard to any guidance given from time to time by the Secretary of State.'
+(3) In discharging the duty under subsection (1) a local authority must have regard to any guidance given from time to time by the Secretary of State.”
 
 (3) After section 13 insert-
 
 ##### '13A   Supply of information: free of charge early years provision
 
-- This  subsection  applies  to  information  held  for  the  purposes  of functions relating to tax credits-
+(1) This subsection applies to information held for the purposes of functions relating to tax credits—
 
-(a) by the Commissioners for Her Majesty's Revenue and Customs, or
+(a) by the Commissioners for Her Majesty’s Revenue and Customs, or
 
 (b) by a person providing services to them, in connection with the provision of those services.
 
-- This  subsection  applies  to  information  held  for  the  purposes  of functions relating to social security-
+(2) This subsection applies to information held for the purposes of functions relating to social security—
 
 (a) by the Secretary of State, or
 
-(b) by  a  person  providing  services  to  the  Secretary  of  State,  in connection with the provision of those services.
+(b) by a person providing services to the Secretary of State, in connection with the provision of those services.
 
-- Information to which subsection (1) or (2) applies may be supplied to the Secretary of State, or a person providing services to the Secretary of State, for use for the purpose of determining eligibility for free of charge early years provision.
+(3) Information to which subsection (1) or (2) applies may be supplied to the Secretary of State, or a person providing services to the Secretary of State, for use for the purpose of determining eligibility for free of charge early years provision.
 
-- Information  to  which  subsection  (2)  applies  may  be  supplied  to  an English local authority for use for that purpose.
+(4) Information to which subsection (2) applies may be supplied to an English local authority for use for that purpose.
 
-- Information received by virtue of subsection (3) may be supplied-
+(5) Information received by virtue of subsection (3) may be supplied—
 
 (a) to another person to whom it could have been supplied under that subsection, or
 
@@ -246,9 +424,9 @@ Part 1 - Early years provision
 
 for use for that purpose.
 
-- The references in subsections (4) and (5)(b) to an English local authority include references to a person exercising on behalf of an English local authority functions relating to eligibility for free of charge early years provision.
+(6) The references in subsections (4) and (5)(b) to an English local authority include references to a person exercising on behalf of an English local authority functions relating to eligibility for free of charge early years provision.
 
-- For the purposes of this section and section 13B, free of charge early years provision is early years provision which is required to be made available in pursuance of the duty imposed by section 7.
+(7) For the purposes of this section and section 13B, free of charge early years provision is early years provision which is required to be made available in pursuance of the duty imposed by section 7.
 
 [[END OF PAGE 8]]
 
@@ -258,11 +436,11 @@ Education Act 2011 (c. 21 ) Part 1 - Early years provision
 
 3
 
-- This section does not limit the circumstances in which information may be supplied apart from this section.
+(8) This section does not limit the circumstances in which information may be supplied apart from this section.
 
 ##### 13B Unauthorised disclosure of information received under section 13A
 
-- A person commits an offence if the person discloses any information-
+(1) A person commits an offence if the person discloses any information—
 
 (a) which the person received by virtue of any of subsections (3) to (5) of section 13A, and
 
@@ -270,27 +448,27 @@ Education Act 2011 (c. 21 ) Part 1 - Early years provision
 
 unless the information is disclosed in accordance with subsection (2).
 
-- Information  is  disclosed  in  accordance  with  this  subsection  if  it  is disclosed in any of the following ways-
+(2) Information is disclosed in accordance with this subsection if it is disclosed in any of the following ways—
 
 (a) in the case of information received by virtue of section 13A(3), in accordance with section 13A(5);
 
-(b) in  the  course  of  a  duty  that  the  person  disclosing  it  has  in connection with the exercise of functions relating to eligibility for free of charge early years provision;
+(b) in the course of a duty that the person disclosing it has in connection with the exercise of functions relating to eligibility for free of charge early years provision;
 
 (c) in accordance with an enactment or an order of a court;
 
 (d) with consent given by or on behalf of the person to whom the information relates.
 
-- It is a defence for a person charged with an offence under subsection (1) to prove that the person reasonably believed that the disclosure was lawful.
+(3) It is a defence for a person charged with an offence under subsection (1) to prove that the person reasonably believed that the disclosure was lawful.
 
-- A person guilty of an offence under subsection (1) is liable-
+(4) A person guilty of an offence under subsection (1) is liable—
 
 (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both;
 
-(b) on  summary  conviction,  to  imprisonment  for  a  term  not exceeding  12  months,  or  a  fine  not  exceeding  the  statutory maximum, or both.
+(b) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum, or both.
 
-- In  relation  to  an  offence  committed  before  the  commencement  of section  154(1)  of  the  Criminal  Justice  Act  2003,  the  reference  in subsection (4)(b) to 12 months is to be read as a reference to 6 months.'
+(5) In relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003, the reference in subsection (4)(b) to 12 months is to be read as a reference to 6 months.”
 
-- Section 100 of the Childcare Act 2006 (provision of information about young children: transitory provision) is repealed.
+(4) Section 100 of the Childcare Act 2006 (provision of information about young children: transitory provision) is repealed.
 
 ## PART 2
 
@@ -298,9 +476,9 @@ unless the information is disclosed in accordance with subsection (2).
 
 #### 2 Power of members of staff at schools to search pupils
 
-- Chapter  2  of  Part  10  of  EA  1996  (punishment  and  restraint  of  pupils)  is amended as set out in subsections (2) to (5).
+(1) Chapter 2 of Part 10 of EA 1996 (punishment and restraint of pupils) is amended as set out in subsections (2) to (5).
 
-- In section 550ZA (power of members of staff to search pupils for prohibited items: England)-
+(2) In section 550ZA (power of members of staff to search pupils for prohibited items: England)—
 
 (a) in subsection (3) (prohibited items), after paragraph (e) insert-
 
@@ -348,7 +526,7 @@ Part 2 - Discipline
 
 'non-maintained  special  school'  means  a  school  that  is approved under section 342.'
 
-- In section 550ZB (power of search under section 550ZA: supplementary)-
+(3) In section 550ZB (power of search under section 550ZA: supplementary)—
 
 (a) in  subsection (5),  after  'section  550ZA' insert  'to  search  for  an  item within section 550ZA(3)(a) to (f)';
 
@@ -384,7 +562,7 @@ Education Act 2011 (c. 21 ) Part 2 - Discipline
 
 (b) in the time available it is not reasonably practicable for the search to be carried out in the presence of another member of staff.'
 
-- In  section  550ZC  (power  to  seize  items  found  during  search  under  section 550ZA)-
+(4) In section 550ZC (power to seize items found during search under section 550ZA)—
 
 (a) in subsection (2) after 'subsection (1)' insert 'to seize an item within section 550ZA(3)(a) to (f) or anything within subsection (1)(b)';
 
@@ -430,15 +608,15 @@ Education Act 2011 (c. 21 )
 
 Part 2 - Discipline
 
-- In section 550ZD (section 550ZC: supplementary)-
+(5) In section 550ZD (section 550ZC: supplementary)—
 
-(a) in subsection (1), after '(5)(a)' insert ', (6A)(a)';
+(a) in subsection (1), after “(5)(a)” insert “, (6A)(a)”;
 
-(b) in subsection (2)(a), for the words from 'alcohol' to 'article' substitute 'an item within subsection (2A)';
+(b) in subsection (2)(a), for the words from “alcohol” to “article” substitute “an item within subsection (2A)”;
 
-(c) after subsection (2), insert-
+(c) after subsection (2), insert—
 
-'(2A) The items referred to in subsection (2)(a) are-
+“(2A) The items referred to in subsection (2)(a) are—
 
 (a) alcohol or its container;
 
@@ -446,49 +624,49 @@ Part 2 - Discipline
 
 (c) a stolen article;
 
-(d) an  item  that  is  a  prohibited  item  by  virtue  of  section 550ZA(3)(ea) or (g).
+(d) an item that is a prohibited item by virtue of section 550ZA(3)(ea) or (g).
 
-(2B) Subsection (3) also applies where a person-
+(2B) Subsection (3) also applies where a person—
 
-(a) erases  data  or  a  file  from  an  electronic  device  under section 550ZC(6F); and
+(a) erases data or a file from an electronic device under section 550ZC(6F); and
 
-(b) proves that the erasure was lawful.';
+(b) proves that the erasure was lawful.”;
 
-(d) in subsection (3)(a), for 'or disposal' substitute ', disposal or erasure';
+(d) in subsection (3)(a), for “or disposal” substitute “, disposal or erasure”;
 
-(e) in subsection (4), after '(2)' insert ', (2B)'.
+(e) in subsection (4), after “(2)” insert “, (2B)”.
 
-- In section 569 of EA 1996, in subsection (2A) (regulations subject to affirmative procedure), for '550ZA or 550ZC' substitute '550ZA(3)(f) or 550ZC(7)'.
+(6) In section 569 of EA 1996, in subsection (2A) (regulations subject to affirmative procedure), for “550ZA or 550ZC” substitute “550ZA(3)(f) or 550ZC(7)”.
 
-- In section 89 of EIA 2006 (determination by head teacher of behaviour policy), after subsection (4) insert-
+(7) In section 89 of EIA 2006 (determination by head teacher of behaviour policy), after subsection (4) insert—
 
-'(4A) In relation to a school in England, rules made under subsection (4) must identify the items for which a search may be made.'
+“(4A) In relation to a school in England, rules made under subsection (4) must identify the items for which a search may be made.”
 
 #### 3 Power of members of staff at further education institutions to search students
 
-- Part 3 of FHEA 1992 (miscellaneous and general) is amended as follows.
+(1) Part 3 of FHEA 1992 (miscellaneous and general) is amended as follows.
 
-- In section 85AA (power of members of staff to search students for prohibited items:  England),  in  subsection  (3)  (prohibited  items),  after  paragraph  (e) insert-
+(2) In section 85AA (power of members of staff to search students for prohibited items: England), in subsection (3) (prohibited items), after paragraph (e) insert—
 
-'(ea) an article that the member of staff reasonably suspects has been, or is likely to be, used-
+“(ea) an article that the member of staff reasonably suspects has been, or is likely to be, used—
 
 (i) to commit an offence, or
 
-(ii) to cause personal injury to, or damage to the property of, any person (including S);'.
+(ii) to cause personal injury to, or damage to the property of, any person (including S);”.
 
-- In section 85AB (power of search under section 85AA: supplementary)(a) in subsection (6)-
+(3) In section 85AB (power of search under section 85AA: supplementary)—
 
-(i) in  paragraph  (b),  after  'S'  insert  ',  unless  the  condition  in subsection (6A) is satisfied';
+(a) in subsection (6)—
 
-(ii) in paragraph (c), after 'staff' insert ', unless the condition in subsection (6A) is satisfied';
+(i) in paragraph (b), after “S” insert “, unless the condition in subsection (6A) is satisfied”;
 
-(b) after subsection (6), insert-
+(ii) in paragraph (c), after “staff” insert “, unless the condition in subsection (6A) is satisfied”;
 
-'(6A) The condition is satisfied if-
+(b) after subsection (6), insert—
+
+“(6A) The condition is satisfied if—
 
 (a) the person carrying out the search reasonably believes that there is a risk that serious harm will be caused to a
-
-(3)
 
 [[END OF PAGE 12]]
 
@@ -512,7 +690,7 @@ person  if  the  search  is  not  carried  out  as  a  matter  of urgency, and
 
 (b) in the time available it is not reasonably practicable for the search to be carried out in the presence of another member of staff.'
 
-- In  section  85AC  (power  to  seize  items  found  during  search  under  section 85AA)-
+(4) In section 85AC (power to seize items found during search under section 85AA)—
 
 (a) after subsection (6) insert-
 
@@ -554,7 +732,7 @@ Part 2 - Discipline
 
 (b) in subsection (9), for 'and (5)' substitute ', (5) and (6A)'.
 
-- In section 85AD (section 85AC: supplementary)-
+(5) In section 85AD (section 85AC: supplementary)—
 
 (a) in subsection (1), after '(5)(a)' insert ', (6A)(a)';
 
@@ -584,29 +762,29 @@ Part 2 - Discipline
 
 #### 4 Exclusion of pupils from schools in England: review
 
-- Chapter 3 of Part 3 of EA 2002 (maintained schools: admissions, exclusions and attendance) is amended as follows.
+(1) Chapter 3 of Part 3 of EA 2002 (maintained schools: admissions, exclusions and attendance) is amended as follows.
 
-- Before section 52, insert-
+(2) Before section 52, insert—
 
-##### '51A Exclusion of pupils: England
+##### “51A Exclusion of pupils: England
 
-- The head teacher of a maintained school in England may exclude a pupil from the school for a fixed period or permanently.
+(1) The head teacher of a maintained school in England may exclude a pupil from the school for a fixed period or permanently.
 
-- The teacher in charge of a pupil referral unit in England may exclude a pupil from the unit for a fixed period or permanently.
+(2) The teacher in charge of a pupil referral unit in England may exclude a pupil from the unit for a fixed period or permanently.
 
-- Regulations must make provision-
+(3) Regulations must make provision—
 
 (a) requiring prescribed persons to be given prescribed information relating to any exclusion under subsection (1) or (2);
 
 (b) requiring the responsible body, in prescribed cases, to consider whether the pupil should be reinstated;
 
-(c) requiring the local authority to make arrangements enabling a prescribed person to apply to a review panel for a review, in any prescribed  case,  of  a  decision  of  the  responsible  body  not  to reinstate a pupil;
+(c) requiring the local authority to make arrangements enabling a prescribed person to apply to a review panel for a review, in any prescribed case, of a decision of the responsible body not to reinstate a pupil;
 
 (d) about the constitution of a review panel;
 
-(e) about  the  procedure  to  be  followed  on  a  review  under paragraph (c).
+(e) about the procedure to be followed on a review under paragraph (c).
 
-- On  an  application  by  virtue  of  subsection  (3)(c),  the  review  panel may-
+(4) On an application by virtue of subsection (3)(c), the review panel may—
 
 (a) uphold the decision of the responsible body,
 
@@ -624,43 +802,43 @@ Part 2 - Discipline
 
 (c) if  it  considers  that  the  decision  of  the  responsible  body  was flawed when considered in the light of the principles applicable on an application for judicial review, quash the decision of the responsible body and direct the responsible body to reconsider the matter.
 
-- Regulations may provide for the panel to have supplementary powers, and in particular may provide that the panel has the power to make a direction about the effect on an excluded pupil of a recommendation under subsection (4)(b) or a direction under subsection (4)(c).
+(5) Regulations may provide for the panel to have supplementary powers, and in particular may provide that the panel has the power to make a direction about the effect on an excluded pupil of a recommendation under subsection (4)(b) or a direction under subsection (4)(c).
 
-- In a case where the panel gives a direction under subsection (4)(c) to the governing body of a maintained school, the panel may, in prescribed circumstances, order an adjustment of the school's budget share for a funding period.
+(6) In a case where the panel gives a direction under subsection (4)(c) to the governing body of a maintained school, the panel may, in prescribed circumstances, order an adjustment of the school’s budget share for a funding period.
 
-- Regulations must make provision about-
+(7) Regulations must make provision about—
 
 (a) how the amount of the adjustment is to be determined;
 
-(b) the  effect  of  the  adjustment  on  the  budget  shares  of  other maintained schools for the funding period.
+(b) the effect of the adjustment on the budget shares of other maintained schools for the funding period.
 
-- Regulations under this section may also make provision-
+(8) Regulations under this section may also make provision—
 
-(a) for  the  payment  by  the  local  authority  of  allowances  to members of the review panel;
+(a) for the payment by the local authority of allowances to members of the review panel;
 
 (b) requiring a person or body exercising functions under subsection (1) or (2) or under the regulations to have regard to any guidance given from time to time by the Secretary of State;
 
 (c) requiring local authorities to give prescribed information to the Secretary of State;
 
-(d) in  relation  to  any  other  matter  relating  to  the  exercise  of  the powers conferred by subsections (1) and (2).
+(d) in relation to any other matter relating to the exercise of the powers conferred by subsections (1) and (2).
 
-- Regulations made by virtue of subsection (8)(a) may provide for any of the provisions of sections 173 to 174 of the Local Government Act 1972 (allowances to members of local authorities and other bodies) to apply with prescribed modifications in relation to members of a review panel.
+(9) Regulations made by virtue of subsection (8)(a) may provide for any of the provisions of sections 173 to 174 of the Local Government Act 1972 (allowances to members of local authorities and other bodies) to apply with prescribed modifications in relation to members of a review panel.
 
-- In this section-
+(10) In this section—
 
-'budget share' and 'funding period' have the same meaning as in Part 2 of the School Standards and Framework Act 1998;
+“budget share” and “funding period” have the same meaning as in Part 2 of the School Standards and Framework Act 1998;
 
-'exclude', in relation to the exclusion of a pupil from a school or pupil referral unit, means exclude on disciplinary grounds (and 'exclusion' is to be construed accordingly);
+“exclude”, in relation to the exclusion of a pupil from a school or pupil referral unit, means exclude on disciplinary grounds (and “exclusion” is to be construed accordingly);
 
-'maintained school' has the same meaning as in Chapter 1;
+“maintained school” has the same meaning as in Chapter 1;
 
-'the responsible body' means-
+“the responsible body” means—
 
-(a) in  relation  to  exclusion  from  a  maintained  school,  the governing body of the school;
+(a) in relation to exclusion from a maintained school, the governing body of the school;
 
 (b) in relation to exclusion from a pupil referral unit, such person as may be prescribed.
 
-- In  relation  to  any  time  when  no  responsible  body  is  prescribed  in relation to permanent exclusion from a pupil referral unit, subsection (3) has effect in relation to such an exclusion as if-
+(11) In relation to any time when no responsible body is prescribed in relation to permanent exclusion from a pupil referral unit, subsection (3) has effect in relation to such an exclusion as if—
 
 (a) paragraph (b) were omitted, and
 
@@ -676,23 +854,23 @@ Part 2 - Discipline
 
 (b) the decision referred to in paragraph (c) were the decision of the teacher in charge of the unit permanently to exclude the pupil.
 
-- Regulations may make provision for this section and regulations made under  it  to  apply,  with  prescribed  modifications,  in  relation  to Academies or a description of Academy.'
+(12) Regulations may make provision for this section and regulations made under it to apply, with prescribed modifications, in relation to Academies or a description of Academy.”
 
-- In section 52 (exclusion of pupils)-
+(3) In section 52 (exclusion of pupils)—
 
-(a) in subsection (1), after 'maintained school' insert 'in Wales';
+(a) in subsection (1), after “maintained school” insert “in Wales”;
 
-(b) in subsection (2), after 'pupil referral unit' insert 'in Wales';
+(b) in subsection (2), after “pupil referral unit” insert “in Wales”;
 
-(c) in subsection (4)-
+(c) in subsection (4)—
 
-(i) in paragraph (b), omit from first '(in' to 'Wales)';
+(i) in paragraph (b), omit from first “(in” to “Wales)”;
 
-(ii) in paragraph (c), omit 'the Secretary of State or' and 'as the case may be,';
+(ii) in paragraph (c), omit “the Secretary of State or” and “as the case may be,”;
 
-(d) in the heading, at the end insert ': Wales'.
+(d) in the heading, at the end insert “: Wales”.
 
-- Schedule 1 (consequential amendments) has effect.
+(4) Schedule 1 (consequential amendments) has effect.
 
 #### 5 Repeal of requirement to give notice of detention to parent: England
 
@@ -710,19 +888,19 @@ Section  248  of  ASCLA  2009  (co-operation  with  a  view  to  promoting  good
 
 #### 7 Abolition of the General Teaching Council for England
 
-- Section  1  of  THEA  1998  (the  General  Teaching  Council  for  England)  is amended as follows.
+(1) Section 1 of THEA 1998 (the General Teaching Council for England) is amended as follows.
 
-- For subsection (1), substitute-
+(2) For subsection (1), substitute—
 
-'(1) In  this  Act,  'the  Council'  means  the  General  Teaching  Council  for Wales (see section 8).'
+“(1) In this Act, “the Council” means the General Teaching Council for Wales (see section 8).”
 
-- For subsection (3), substitute-
+(3) For subsection (3), substitute—
 
-'(3) The functions conferred on the Council by or under this Chapter are exercisable by them only in relation to Wales.'
+“(3) The functions conferred on the Council by or under this Chapter are exercisable by them only in relation to Wales.”
 
-- Omit subsection (10).
+(4) Omit subsection (10).
 
-- For the heading, substitute 'Aims and constitution of the Council'.
+(5) For the heading, substitute “Aims and constitution of the Council”.
 
 [[END OF PAGE 16]]
 
@@ -736,13 +914,13 @@ Part 3 - School workforce
 
 #### 8 Functions of Secretary of State in relation to teachers
 
-- In Part 8 of EA 2002 (teachers), after section 141 insert-
+(1) In Part 8 of EA 2002 (teachers), after section 141 insert—
 
 ##### 'Teacher misconduct etc: England
 
 ###### 141A Teachers to whom sections 141B to 141E apply
 
-- Sections 141B to 141E apply to a person who is employed or engaged to carry out teaching work at-
+(1) Sections 141B to 141E apply to a person who is employed or engaged to carry out teaching work at—
 
 (a) a school in England,
 
@@ -750,41 +928,41 @@ Part 3 - School workforce
 
 (c) relevant youth accommodation in England, or
 
-(d) a children's home in England.
+(d) a children’s home in England.
 
-- In subsection (1)-
+(2) In subsection (1)—
 
-'children's home' has the same meaning as in the Care Standards Act 2000;
+“children’s home” has the same meaning as in the Care Standards Act 2000;
 
-'teaching work' means work of a kind specified in regulations under this section (and such regulations may make provision by reference to specified activities or by reference to the circumstances in which activities are carried out).
+“teaching work” means work of a kind specified in regulations under this section (and such regulations may make provision by reference to specified activities or by reference to the circumstances in which activities are carried out).
 
 ###### 141B Investigation of disciplinary cases by Secretary of State
 
-- The Secretary of State may investigate a case where an allegation is referred to the Secretary of State that a person to whom this section applies-
+(1) The Secretary of State may investigate a case where an allegation is referred to the Secretary of State that a person to whom this section applies—
 
 (a) may be guilty of unacceptable professional conduct or conduct that may bring the teaching profession into disrepute, or
 
 (b) has been convicted (at any time) of a relevant offence.
 
-- Where the Secretary of State finds on an investigation of a case under subsection (1) that there is a case to answer, the Secretary of State must decide whether to make a prohibition order in respect of the person.
+(2) Where the Secretary of State finds on an investigation of a case under subsection (1) that there is a case to answer, the Secretary of State must decide whether to make a prohibition order in respect of the person.
 
-- Schedule 11A (regulations about decisions under subsection (2)) has effect.
+(3) Schedule 11A (regulations about decisions under subsection (2)) has effect.
 
-- In this section-
+(4) In this section—
 
-- a  'prohibition order' means an order prohibiting the person to whom it relates from carrying out teaching work;
+a “prohibition order” means an order prohibiting the person to whom it relates from carrying out teaching work;
 
-'teaching work' has the same meaning as in section 141A(1);
+“teaching work” has the same meaning as in section 141A(1);
 
-'relevant offence', in relation to a person, means-
+“relevant offence”, in relation to a person, means—
 
-(a) in  the  case  of  a  conviction  in  England  and  Wales,  a criminal  offence  other  than  one  having  no  material relevance to the person's fitness to be a teacher, and
+(a) in the case of a conviction in England and Wales, a criminal offence other than one having no material relevance to the person’s fitness to be a teacher, and
 
-(b) in the case of a conviction elsewhere, an offence which, if  committed in England and Wales, would be within paragraph (a).
+(b) in the case of a conviction elsewhere, an offence which, if committed in England and Wales, would be within paragraph (a).
 
 ###### 141C List of persons prohibited from teaching etc
 
-- The Secretary of State must keep a list containing-
+(1) The Secretary of State must keep a list containing—
 
 (a) the names of persons in relation to whom a prohibition order has effect, and
 
@@ -800,33 +978,33 @@ Part 3 - School workforce
 
 (b) the  names  of  persons  who  have  begun,  but  have  failed satisfactorily  to  complete,  an  induction  period  under  section 135A in such circumstances as may be prescribed.
 
-- The Secretary of State may include on the list the name of any person who has been prohibited from teaching in Wales, Scotland or Northern Ireland that the Secretary of State thinks appropriate to include on the list.
+(2) The Secretary of State may include on the list the name of any person who has been prohibited from teaching in Wales, Scotland or Northern Ireland that the Secretary of State thinks appropriate to include on the list.
 
-- The Secretary of State must secure that, where the name of a person is included on the list because an interim prohibition order has effect in respect of the person, there is an indication on the list to that effect.
+(3) The Secretary of State must secure that, where the name of a person is included on the list because an interim prohibition order has effect in respect of the person, there is an indication on the list to that effect.
 
-- The Secretary of State must secure that, where the name of a person is included  on  the  list  because  the  person  has  failed  satisfactorily  to complete an induction period under section 135A, there is an indication on the list to that effect.
+(4) The Secretary of State must secure that, where the name of a person is included on the list because the person has failed satisfactorily to complete an induction period under section 135A, there is an indication on the list to that effect.
 
-- The list may contain such other information in relation to the persons whose  names  are  included  on  it  as  the  Secretary  of  State  considers appropriate.
+(5) The list may contain such other information in relation to the persons whose names are included on it as the Secretary of State considers appropriate.
 
-- The list must be available for inspection by members of the public.
+(6) The list must be available for inspection by members of the public.
 
-- In this section-
+(7) In this section—
 
-'prohibition order' has the same meaning as in section 141B;
+“prohibition order” has the same meaning as in section 141B;
 
-'interim  prohibition  order'  means  an  order  made  by  virtue  of paragraph 3 of Schedule 11A.
+“interim prohibition order” means an order made by virtue of paragraph 3 of Schedule 11A.
 
 ###### 141D Supply of information following dismissal, resignation etc
 
-- This section applies where a relevant employer has ceased to use the services  of  a  teacher  because  the  teacher  has  been  guilty  of  serious misconduct.
+(1) This section applies where a relevant employer has ceased to use the services of a teacher because the teacher has been guilty of serious misconduct.
 
-- This section also applies where a relevant employer might have ceased to use the services of a teacher as mentioned in subsection (1) had the teacher not ceased to provide those services.
+(2) This section also applies where a relevant employer might have ceased to use the services of a teacher as mentioned in subsection (1) had the teacher not ceased to provide those services.
 
-- The  employer  must  consider  whether  it  would  be  appropriate  to provide prescribed information about the teacher to the Secretary of State.
+(3) The employer must consider whether it would be appropriate to provide prescribed information about the teacher to the Secretary of State.
 
-- In this section-
+(4) In this section—
 
-'relevant employer' means-
+“relevant employer” means—
 
 (a) a local authority;
 
@@ -836,13 +1014,13 @@ Part 3 - School workforce
 
 (d) a sixth form college corporation;
 
-(e) a person who employs a person to teach in a children's home or in relevant youth accommodation;
+(e) a person who employs a person to teach in a children’s home or in relevant youth accommodation;
 
-'education' includes vocational, social, physical and recreational training;
+“education” includes vocational, social, physical and recreational training;
 
-'children's home' has the same meaning as in the Care Standards Act 2000;
+“children’s home” has the same meaning as in the Care Standards Act 2000;
 
-'services' includes professional and voluntary services;
+“services” includes professional and voluntary services;
 
 [[END OF PAGE 18]]
 
@@ -858,39 +1036,39 @@ Part 3 - School workforce
 
 ###### 141E Supply of information by contractor, agency etc
 
-- This section applies where arrangements have been made by a person (the 'agent') for a teacher to carry out work at the request of or with the consent of a relevant employer (whether or not under a contract) and the  agent  has  terminated  the  arrangements  because  the  teacher  has been guilty of serious misconduct.
+(1) This section applies where arrangements have been made by a person (the “agent”) for a teacher to carry out work at the request of or with the consent of a relevant employer (whether or not under a contract) and the agent has terminated the arrangements because the teacher has been guilty of serious misconduct.
 
-- This section also applies where the agent-
+(2) This section also applies where the agent—
 
-(a) might  have  terminated  the  arrangements  as  mentioned  in subsection (1) had the teacher not terminated them, or
+(a) might have terminated the arrangements as mentioned in subsection (1) had the teacher not terminated them, or
 
-(b) might have refrained from making new arrangements because of the teacher's serious misconduct had the teacher not ceased to be available for work.
+(b) might have refrained from making new arrangements because of the teacher’s serious misconduct had the teacher not ceased to be available for work.
 
-- The agent must consider whether it would be appropriate to provide prescribed information about the teacher to the Secretary of State.
+(3) The agent must consider whether it would be appropriate to provide prescribed information about the teacher to the Secretary of State.
 
-- In  this  section  'relevant  employer'  and  'teacher'  have  the  same meanings as in section 141D.'
+(4) In this section “relevant employer” and “teacher” have the same meanings as in section 141D.”
 
-- In EA 2002, after Schedule 11, insert-
+(2) In EA 2002, after Schedule 11, insert—
 
-##### 'SCHEDULE 11A
+##### “SCHEDULE 11A
+
+Section 141B
 
 ###### REGULATIONS ABOUT DECISIONS UNDER SECTION 141B
 
 ###### Regulations: general
 
-- 1 The Secretary of State must make regulations in accordance with the following provisions of this Schedule.
+1 The Secretary of State must make regulations in accordance with the following provisions of this Schedule.
 
 ###### Procedure for decisions under section 141B(2)
 
-- 2 (1) Regulations  under  paragraph  1  must  make  provision  about  the procedure  to  be  followed  by  the  Secretary  of  State  in  reaching  a decision under section 141B(2).
+2 (1) Regulations under paragraph 1 must make provision about the procedure to be followed by the Secretary of State in reaching a decision under section 141B(2).
 
-- The  regulations  must  not  require  a  person  to  give  evidence  or produce any document or other material evidence which the person could not be compelled to give or produce in civil proceedings in any court in England and Wales.
+(2) The regulations must not require a person to give evidence or produce any document or other material evidence which the person could not be compelled to give or produce in civil proceedings in any court in England and Wales.
 
-- The  regulations  may  make  provision  for  any  functions  of  the Secretary of State under section 141B to be excluded or restricted in such circumstances as may be specified in or determined under the regulations.
+(3) The regulations may make provision for any functions of the Secretary of State under section 141B to be excluded or restricted in such circumstances as may be specified in or determined under the regulations.
 
-- The circumstances include, in particular, where the Secretary of State considers this to be appropriate taking into account the powers of the Independent Safeguarding Authority under the Safeguarding Vulnerable Groups Act 2006.
-
-Section 141B
+(4) The circumstances include, in particular, where the Secretary of State considers this to be appropriate taking into account the powers of the Independent Safeguarding Authority under the Safeguarding Vulnerable Groups Act 2006.
 
 [[END OF PAGE 19]]
 
@@ -904,33 +1082,33 @@ Part 3 - School workforce
 
 ###### Interim prohibition orders
 
-- 3 (1) Regulations  under  paragraph  1  may  make  provision  for  the Secretary of State to make an interim prohibition order, pending the Secretary of State's final decision under section 141B(2).
+3 (1) Regulations under paragraph 1 may make provision for the Secretary of State to make an interim prohibition order, pending the Secretary of State’s final decision under section 141B(2).
 
-- Regulations about interim prohibition orders must provide that an interim prohibition order may be made only if the Secretary of State considers that it is necessary in the public interest to do so.
+(2) Regulations about interim prohibition orders must provide that an interim prohibition order may be made only if the Secretary of State considers that it is necessary in the public interest to do so.
 
-- Regulations about interim prohibition orders must provide that the Secretary of State must review an interim prohibition order-
+(3) Regulations about interim prohibition orders must provide that the Secretary of State must review an interim prohibition order—
 
 (a) within six months of the order being made, and
 
 (b) within each subsequent six month period,
 
-- if the person to whom the order relates makes an application to the Secretary of State for such a review.
+if the person to whom the order relates makes an application to the Secretary of State for such a review.
 
 ###### Prohibition orders
 
-- 4 (1) Regulations under paragraph 1 may make provision-
+4 (1) Regulations under paragraph 1 may make provision—
 
 (a) about the service on a person to whom a prohibition order relates of notice of the order and of the right to appeal against the order under paragraph 5;
 
 (b) about the publication of information relating to the case of a person to whom a prohibition order relates;
 
-(c) prescribing  circumstances  in  which  a  person  to  whom  a prohibition order relates may nevertheless carry out teaching work (within the meaning of section 141A).
+(c) prescribing circumstances in which a person to whom a prohibition order relates may nevertheless carry out teaching work (within the meaning of section 141A).
 
-- Regulations under paragraph 1 may also make provision-
+(2) Regulations under paragraph 1 may also make provision—
 
 (a) as to the time when a prohibition order takes effect;
 
-(b) allowing  a  person  to  whom  a  prohibition  order  relates  to apply to the Secretary of State for the order to be set aside;
+(b) allowing a person to whom a prohibition order relates to apply to the Secretary of State for the order to be set aside;
 
 (c) as to the minimum period for which a prohibition order must be in effect before such an application may be made;
 
@@ -938,13 +1116,13 @@ Part 3 - School workforce
 
 ###### Appeals against prohibition orders
 
-- 5 (1) Regulations under paragraph 1 must make provision conferring on a person to whom a prohibition order relates a right to appeal against the order to the High Court.
+5 (1) Regulations under paragraph 1 must make provision conferring on a person to whom a prohibition order relates a right to appeal against the order to the High Court.
 
-- The regulations must provide that an appeal must be brought within 28  days  of  the  person  being  served  with  notice  of  the  prohibition order.
+(2) The regulations must provide that an appeal must be brought within 28 days of the person being served with notice of the prohibition order.
 
-- No appeal is to lie from any decision of the Court on such an appeal.
+(3) No appeal is to lie from any decision of the Court on such an appeal.
 
-- In this paragraph, 'prohibition order' does not include an interim prohibition order made by virtue of paragraph 3.
+(4) In this paragraph, “prohibition order” does not include an interim prohibition order made by virtue of paragraph 3.
 
 [[END OF PAGE 20]]
 
@@ -956,19 +1134,19 @@ Education Act 2011 (c. 21 ) Part 3 - School workforce
 
 ###### Supplementary provisions
 
-- 6 (1) Regulations under paragraph 1 may make incidental and supplementary provision, including provision-
+6 (1) Regulations under paragraph 1 may make incidental and supplementary provision, including provision—
 
-(a) where a prohibition order has effect in relation to a person, for the Secretary of State to serve notice of the order on the person's employer;
+(a) where a prohibition order has effect in relation to a person, for the Secretary of State to serve notice of the order on the person’s employer;
 
 (b) requiring the employer of such a person to take such steps in consequence of the order (which may include dismissing the person) as may be prescribed;
 
 (c) authorising the delegation of functions conferred by virtue of this Schedule and the determination of matters by any person or persons specified in the regulations.
 
-- Regulations under paragraph 1 may also make provision-
+(2) Regulations under paragraph 1 may also make provision—
 
-(a) for the Secretary of State to make a decision in a particular case  about  the  effect  in  England  of  an  order  prohibiting  a person  from  teaching  in  schools  in  Wales,  Scotland  or Northern Ireland;
+(a) for the Secretary of State to make a decision in a particular case about the effect in England of an order prohibiting a person from teaching in schools in Wales, Scotland or Northern Ireland;
 
-(b) about the effect in general in England of orders prohibiting a person  from  teaching  in  schools  in  Wales,  Scotland  or Northern Ireland.'
+(b) about the effect in general in England of orders prohibiting a person from teaching in schools in Wales, Scotland or Northern Ireland.”
 
 #### 9 Requirement for teachers in England to serve induction period
 
@@ -978,7 +1156,7 @@ In Part 8 of EA 2002 (teachers), after section 135 insert-
 
 ###### 135A  Requirement to serve induction period: teachers in England
 
-- Regulations may make provision for, and in connection with, requiring persons employed as teachers at relevant schools in England, subject to such exceptions as may be provided by or under the regulations, to have satisfactorily completed an induction period of not less than three school terms in-
+(1) Regulations may make provision for, and in connection with, requiring persons employed as teachers at relevant schools in England, subject to such exceptions as may be provided by or under the regulations, to have satisfactorily completed an induction period of not less than three school terms in—
 
 (a) a relevant school,
 
@@ -992,7 +1170,7 @@ In Part 8 of EA 2002 (teachers), after section 135 insert-
 
 (d) in  such  circumstances  as  may  be  prescribed,  an  institution within the further education sector (or an institution within the further education sector of a prescribed description).
 
-- Regulations under this section may, in particular, make provision-
+(2) Regulations under this section may, in particular, make provision—
 
 (a) as  to  the  length  of  the  induction  period  in  any  prescribed circumstances;
 
@@ -1042,7 +1220,7 @@ in such circumstances following a decision that the person has failed satisfacto
 
 (m) requiring any  person or body  exercising  any prescribed function under the regulations to have regard to any guidance given  from  time  to  time  by  the  Secretary  of  State  as  to  the exercise of that function.
 
-- Regulations under subsection (1)(d) may, in particular-
+(3) Regulations under subsection (1)(d) may, in particular—
 
 (a) provide that  an  induction  period  may  not  be  begun  without approval  of  the  appropriate  body  for  the  serving  of  that induction period;
 
@@ -1060,41 +1238,41 @@ Education Act 2011 (c. 21 ) Part 3 - School workforce
 
 (d) impose  conditions  or  limitations  on  the  appropriate  body's power to give or withhold approval.
 
-- In this section-
+(4) In this section—
 
-'the appropriate body' means such person or body (including a local authority) as may be prescribed by, or determined by the Secretary  of  State  in  accordance  with,  regulations  under  this section (and such regulations may provide for an appropriate body which is not a local authority to include a representative of such an authority);
+“the appropriate body” means such person or body (including a local authority) as may be prescribed by, or determined by the Secretary of State in accordance with, regulations under this section (and such regulations may provide for an appropriate body which is not a local authority to include a representative of such an authority);
 
-'relevant school' means a school maintained by a local authority or a special school not so maintained.
+“relevant school” means a school maintained by a local authority or a special school not so maintained.
 
-- In  the  application  of  this  section  to  an  institution  within  the  further education sector-
+(5) In the application of this section to an institution within the further education sector—
 
 (a) a reference to a school term is to be read as a reference to a term of the institution;
 
-(b) a  reference  to  the  head  teacher  of  a  school  is  to  be  read  as  a reference to the principal of the institution.
+(b) a reference to the head teacher of a school is to be read as a reference to the principal of the institution.
 
 ###### 135B Induction periods: appeals
 
-- Regulations under section 135A must include provision conferring on a person aggrieved by a decision under subsection (2)(g) of that section a right to appeal against the decision to the Secretary of State.
+(1) Regulations under section 135A must include provision conferring on a person aggrieved by a decision under subsection (2)(g) of that section a right to appeal against the decision to the Secretary of State.
 
-- A decision on an appeal made by virtue of subsection (1) is to be final.
+(2) A decision on an appeal made by virtue of subsection (1) is to be final.
 
-- Regulations under section 135A made in pursuance of subsection (1) may make provision for, or for the determination in accordance with the regulations of, such matters relating to appeals as the Secretary of State considers necessary or expedient.
+(3) Regulations under section 135A made in pursuance of subsection (1) may make provision for, or for the determination in accordance with the regulations of, such matters relating to appeals as the Secretary of State considers necessary or expedient.
 
 ###### 135C Induction periods: supplementary
 
-- During the induction period which a person is required to serve by virtue of regulations under section 135A, the provisions of section 131 (appraisal of teachers' performance) and regulations under that section do not apply to the person.
+(1) During the induction period which a person is required to serve by virtue of regulations under section 135A, the provisions of section 131 (appraisal of teachers’ performance) and regulations under that section do not apply to the person.
 
-- Where,  in  accordance  with  a  requirement  imposed  by  virtue  of subsection  (2)(j)(ii)  of  section  135A,  a  teacher  employed  at  a  school maintained by a local authority-
+(2) Where, in accordance with a requirement imposed by virtue of subsection (2)(j)(ii) of section 135A, a teacher employed at a school maintained by a local authority—
 
 (a) continues to be employed at the school, but
 
 (b) is not undertaking his or her normal teaching duties there,
 
-any  costs  incurred  by  the  local  authority  in  respect  of  the  teacher's emoluments are not to be met from the school's budget share for any funding period except in so far as the authority have good reason for deducting those costs, or any part of those costs, from that share.
+any costs incurred by the local authority in respect of the teacher’s emoluments are not to be met from the school’s budget share for any funding period except in so far as the authority have good reason for deducting those costs, or any part of those costs, from that share.
 
 Nothing in this subsection applies to a maintained school at any time when the school does not have a delegated budget.
 
-- In subsection (2)-
+(3) In subsection (2)—
 
 [[END OF PAGE 23]]
 
@@ -1110,7 +1288,7 @@ Part 3 - School workforce
 
 (b) 'funding period', in relation to a school's budget share, has the same meaning as in that Part.
 
-- Sections  496  and  497  of  the  Education  Act  1996  (default  powers  of Secretary  of  State)  have  effect  in  relation  to  the  duties  imposed  and powers conferred by virtue of section 135A as if the bodies to which those sections apply included-
+(4) Sections 496 and 497 of the Education Act 1996 (default powers of Secretary of State) have effect in relation to the duties imposed and powers conferred by virtue of section 135A as if the bodies to which those sections apply included—
 
 (a) the governing body of a special school that is not maintained by a local authority;
 
@@ -1120,27 +1298,29 @@ Part 3 - School workforce
 
 #### 10 Abolition of the GTCE: transitional provision
 
-- Subsections  (2)  to  (9)  apply  to  a  disciplinary  order  made  by  the  General Teaching Council for England ('the Council') by virtue of Schedule 2 to THEA 1998 that is in force immediately before the commencement date.
+(1) Subsections (2) to (9) apply to a disciplinary order made by the General Teaching Council for England (“the Council”) by virtue of Schedule 2 to THEA 1998 that is in force immediately before the commencement date.
 
-- A prohibition order is to be treated, after the commencement date, as if it were a prohibition order made by the Secretary of State under section 141B of EA 2002.
+(2) A prohibition order is to be treated, after the commencement date, as if it were a prohibition order made by the Secretary of State under section 141B of EA 2002.
 
-- A conditional registration order is to continue in force for the period during which  any  condition  specified  in  the  order  has  effect,  or,  if  any  condition specified in the order has effect without limit of time, until such time as the order is revoked.
+(3) A conditional registration order is to continue in force for the period during which any condition specified in the order has effect, or, if any condition specified in the order has effect without limit of time, until such time as the order is revoked.
 
-- A suspension order is to continue in force until the later of-
+(4) A suspension order is to continue in force until the later of—
 
 (a) the end of the suspension period specified in the order, and
 
 (b) the date on which the person to whom the order relates has complied with any condition specified in the order by virtue of paragraph 4(2) of Schedule 2 to THEA 1998.
 
-- Where a conditional registration order remains in force after the commencement date by virtue of subsection (3), sub-paragraphs (1) to (3) of paragraph 3 of Schedule 2 to THEA 1998 continue to apply to the order, but with the modification specified in subsection (6).
+(5) Where a conditional registration order remains in force after the commencement date by virtue of subsection (3), sub-paragraphs (1) to (3) of paragraph 3 of Schedule 2 to THEA 1998 continue to apply to the order, but with the modification specified in subsection (6).
 
-- Sub-paragraph (1) of paragraph 3 is modified so that for the words 'eligible for registration under section 3' there is substituted 'allowed to carry out teaching work within the meaning of section 141A of the Education Act 2002'.
+(6) Sub-paragraph (1) of paragraph 3 is modified so that for the words “eligible for registration under section 3” there is substituted “allowed to carry out teaching work within the meaning of section 141A of the Education Act 2002”.
 
-- Where a suspension order remains in force after the commencement date by virtue of subsection (4), sub-paragraphs (1) to (3) of paragraph 4 of Schedule 2 to  THEA  1998  continue  to  apply  to  the  order,  but  with  the  modifications specified in subsection (8).
+(7) Where a suspension order remains in force after the commencement date by virtue of subsection (4), sub-paragraphs (1) to (3) of paragraph 4 of Schedule 2 to THEA 1998 continue to apply to the order, but with the modifications specified in subsection (8).
 
-- Sub-paragraphs (1) and (2) of paragraph 4 are modified as follows(a) in sub-paragraph (1)-
+(8) Sub-paragraphs (1) and (2) of paragraph 4 are modified as follows—
 
-(i) in paragraph (a), for the words 'eligible for registration under section  3'  there  is  substituted  'allowed  to  carry  out  teaching
+(a) in sub-paragraph (1)—
+
+(i) in paragraph (a), for the words “eligible for registration under section 3” there is substituted “allowed to carry out teaching
 
 [[END OF PAGE 24]]
 
@@ -1152,7 +1332,7 @@ Part 3 - School workforce
 
 19
 
-- work within the meaning of section 141A of the Education Act 2002';
+work within the meaning of section 141A of the Education Act 2002”;
 
 (ii) paragraph (b) (and the 'and' preceding it) is omitted;
 
@@ -1164,43 +1344,39 @@ Part 3 - School workforce
 
 (ii) in paragraph (b), for 'become so eligible' there is substituted 'be allowed to carry out such work'.
 
-- Where a conditional registration order or a suspension order remains in force after the commencement date by virtue of subsection (3) or (4)-
+(9) Where a conditional registration order or a suspension order remains in force after the commencement date by virtue of subsection (3) or (4)—
 
-(a) any regulations under Schedule 2 to THEA 1998 that make provision about  the  variation  or  revocation  of  disciplinary  orders  continue  to apply in relation to the order, but those regulations have effect as if functions conferred on the Council (or a committee of the Council) by the regulations had been transferred to the Secretary of State;
+(a) any regulations under Schedule 2 to THEA 1998 that make provision about the variation or revocation of disciplinary orders continue to apply in relation to the order, but those regulations have effect as if functions conferred on the Council (or a committee of the Council) by the regulations had been transferred to the Secretary of State;
 
 (b) regulations under paragraph 6 of Schedule 2 to THEA 1998 (appeals against disciplinary orders to High Court) continue to apply;
 
 (c) the Secretary of State may consider an application to vary or revoke the order.
 
-- The Secretary of State may include on the list maintained under section 141C of EA 2002 (list of persons prohibited from teaching etc) any person in relation to whom a conditional registration order or a suspension order is in force.
+(10) The Secretary of State may include on the list maintained under section 141C of EA 2002 (list of persons prohibited from teaching etc) any person in relation to whom a conditional registration order or a suspension order is in force.
 
-- Where immediately before the commencement date a teacher in England was the subject of an investigation by the Council (or a committee of the Council) by virtue of Schedule 2 to THEA 1998, the Secretary of State may continue the investigation and make a decision under section 141B of EA 2002.
+(11) Where immediately before the commencement date a teacher in England was the subject of an investigation by the Council (or a committee of the Council) by virtue of Schedule 2 to THEA 1998, the Secretary of State may continue the investigation and make a decision under section 141B of EA 2002.
 
-- In this section-
+(12) In this section—
 
-'the commencement date' means the date on which section 7 (abolition of the General Teaching Council for England) comes into force;
+“the commencement date” means the date on which section 7 (abolition of the General Teaching Council for England) comes into force;
 
-'disciplinary  order',  'conditional  registration  order'  and  'suspension order' have the same meanings as in Schedule 2 to THEA 1998 (see paragraph 2(3)).
+“disciplinary order”, “conditional registration order” and “suspension order” have the same meanings as in Schedule 2 to THEA 1998 (see paragraph 2(3)).
 
 #### 11 Abolition of the GTCE: consequential amendments
 
-- Schedule 2 (consequential amendments) has effect.
+(1) Schedule 2 (consequential amendments) has effect.
 
-- The Secretary of State may by order make changes in consequence of sections 7 to 10 to any provision of subordinate legislation made before the date on which this Act is passed.
+(2) The Secretary of State may by order make changes in consequence of sections 7 to 10 to any provision of subordinate legislation made before the date on which this Act is passed.
 
-'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
+(3) “Subordinate legislation” has the meaning given by section 21(1) of the Interpretation Act 1978.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
 20
-
-Education Act 2011 (c.
-
-21 )
-
-Part 3 - School workforce
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 
 #### 12 Abolition of the GTCE: transfer schemes
 
@@ -1210,45 +1386,45 @@ Schedule 3 (schemes for the transfer of staff, property, rights and liabilities 
 
 #### 13 Restrictions on reporting alleged offences by teachers
 
-- In  Part  8  of  EA  2002  (teachers),  after  section  141E  (inserted  by  section  8), insert-
+(1) In Part 8 of EA 2002 (teachers), after section 141E (inserted by section 8), insert—
 
-##### 'Allegations of offences committed by teachers in England and Wales: reporting restrictions
+##### “Allegations of offences committed by teachers in England and Wales: reporting restrictions
 
 ###### 141F Restrictions on reporting alleged offences by teachers
 
-- This section applies where a person who is employed or engaged as a teacher  at  a  school  is  the  subject  of  an  allegation  falling  within subsection (2).
+(1) This section applies where a person who is employed or engaged as a teacher at a school is the subject of an allegation falling within subsection (2).
 
-- An allegation falls within this subsection if-
+(2) An allegation falls within this subsection if—
 
 (a) it is an allegation that the person is or may be guilty of a relevant criminal offence, and
 
 (b) it is made by or on behalf of a registered pupil at the school.
 
-- No matter relating to the person is to be included in any publication if it is likely to lead members of the public to identify the person as the teacher who is the subject of the allegation.
+(3) No matter relating to the person is to be included in any publication if it is likely to lead members of the public to identify the person as the teacher who is the subject of the allegation.
 
-- Any person may make an application to a magistrates' court for an order dispensing with the restrictions imposed by subsection (3).
+(4) Any person may make an application to a magistrates’ court for an order dispensing with the restrictions imposed by subsection (3).
 
-- The court may make an order dispensing with the restrictions, to the extent specified in the order, if it is satisfied that it is in the interests of justice to do so, having regard to the welfare of-
+(5) The court may make an order dispensing with the restrictions, to the extent specified in the order, if it is satisfied that it is in the interests of justice to do so, having regard to the welfare of—
 
 (a) the person who is the subject of the allegation, and
 
 (b) the victim of the offence to which the allegation relates.
 
-- The power under subsection (5) may be exercised by a single justice.
+(6) The power under subsection (5) may be exercised by a single justice.
 
-- In  the  case  of  a  decision  to  make  or  refuse  to  make  an  order  under subsection (5), a person mentioned in subsection (8) may, in accordance with Criminal Procedure Rules-
+(7) In the case of a decision to make or refuse to make an order under subsection (5), a person mentioned in subsection (8) may, in accordance with Criminal Procedure Rules—
 
 (a) appeal to the Crown Court against the decision, or
 
 (b) appear or be represented at the hearing of such an appeal.
 
-- The persons referred to in subsection (7) are-
+(8) The persons referred to in subsection (7) are—
 
 (a) a person who was a party to the proceedings on the application for the order;
 
 (b) any other person with the leave of the Crown Court.
 
-- On an appeal under subsection (7), the Crown Court may-
+(9) On an appeal under subsection (7), the Crown Court may—
 
 (a) make such order as is necessary to give effect to its determination of the appeal, and
 
@@ -1256,59 +1432,55 @@ Schedule 3 (schemes for the transfer of staff, property, rights and liabilities 
 
 [[START OF PAGE 27]]
 
-)
-
-Education Act 2011 (c. 21 Part 3 - School workforce
-
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 21
 
 (b) make such incidental or consequential orders as appear to it to be just.
 
-- The restrictions in subsection (3) cease to apply once proceedings for the offence have been instituted.
+(10) The restrictions in subsection (3) cease to apply once proceedings for the offence have been instituted.
 
-- The restrictions in subsection (3) also cease to apply if-
+(11) The restrictions in subsection (3) also cease to apply if—
 
-(a) the Secretary of State publishes information about the person who  is  the  subject  of  the  allegation  in  connection  with  an investigation or decision under section 141B (investigation of disciplinary  cases  by  Secretary  of  State)  relating  to  the  same allegation, or
+(a) the Secretary of State publishes information about the person who is the subject of the allegation in connection with an investigation or decision under section 141B (investigation of disciplinary cases by Secretary of State) relating to the same allegation, or
 
-(b) the General Teaching Council for Wales publishes information about  the  person  who  is  the  subject  of  the  allegation  in connection  with  an  investigation,  hearing  or  determination under Schedule 2 to the Teaching and Higher Education Act 1998 (investigation of disciplinary cases by the General Teaching Council for Wales) relating to the same allegation.
+(b) the General Teaching Council for Wales publishes information about the person who is the subject of the allegation in connection with an investigation, hearing or determination under Schedule 2 to the Teaching and Higher Education Act 1998 (investigation of disciplinary cases by the General Teaching Council for Wales) relating to the same allegation.
 
-- The restrictions in subsection (3) also cease to apply if-
+(12) The restrictions in subsection (3) also cease to apply if—
 
 (a) the person who is the subject of the allegation includes a matter in a publication, or
 
-(b) another  person  includes  a  matter  in  a  publication  with  the written  consent  of  the  person  who  is  the  subject  of  the allegation;
+(b) another person includes a matter in a publication with the written consent of the person who is the subject of the allegation;
 
 and, in either case, the inclusion of the matter in the publication would otherwise be in breach of subsection (3).
 
-- Written consent is to be ignored for the purposes of subsection (12)(b) if it is proved that any person interfered unreasonably with the peace or comfort of the person giving the consent, with intent to obtain it.
+(13) Written consent is to be ignored for the purposes of subsection (12)(b) if it is proved that any person interfered unreasonably with the peace or comfort of the person giving the consent, with intent to obtain it.
 
-- In this section-
+(14) In this section—
 
-'publication' includes any speech, writing, relevant programme or other communication in whatever form, which is addressed to the public at large or any section of the public (and for this purpose,  every  relevant  programme  shall  be  taken  to  be  so addressed), but does not include-
+“publication” includes any speech, writing, relevant programme or other communication in whatever form, which is addressed to the public at large or any section of the public (and for this purpose, every relevant programme shall be taken to be so addressed), but does not include—
 
-(a) an  indictment  or  other  document  prepared  for  use  in particular legal proceedings, or
+(a) an indictment or other document prepared for use in particular legal proceedings, or
 
 (b) a document published by the regulator of a profession of which the person who is the subject of the allegation is a member in connection with disciplinary proceedings in relation to the person;
 
-'relevant criminal offence', in relation to a person employed or engaged as a teacher at a school, means an offence against the law of England and Wales where the victim of the offence is a registered pupil at the school;
+“relevant criminal offence”, in relation to a person employed or engaged as a teacher at a school, means an offence against the law of England and Wales where the victim of the offence is a registered pupil at the school;
 
-'relevant programme'  means  a  programme  included  in a programme service, within the meaning of the Broadcasting Act 1990.
+“relevant programme” means a programme included in a programme service, within the meaning of the Broadcasting Act 1990.
 
-- For  the  purposes  of  this  section,  proceedings  for  an  offence  are instituted at the earliest of the following times-
+(15) For the purposes of this section, proceedings for an offence are instituted at the earliest of the following times—
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
 22
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 
-Education Act 2011 (c. 21 )
+(a) when a justice of the peace issues a summons or warrant under section 1 of the Magistrates’ Courts Act 1980 in respect of the offence;
 
-Part 3 - School workforce
-
-(a) when a justice of the peace issues a summons or warrant under section 1 of the Magistrates' Courts Act 1980 in respect of the offence;
-
-(b) when  a public prosecutor issues a written charge  and requisition in respect of the offence;
+(b) when a public prosecutor issues a written charge and requisition in respect of the offence;
 
 (c) when a person is charged with the offence after being taken into custody without a warrant;
 
@@ -1316,109 +1488,105 @@ Part 3 - School workforce
 
 ###### 141G Offence of breach of reporting restrictions
 
-- This section applies if a publication includes any matter in breach of section 141F(3).
+(1) This section applies if a publication includes any matter in breach of section 141F(3).
 
-- Where the publication is a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical is guilty of an offence.
+(2) Where the publication is a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical is guilty of an offence.
 
-- Where  the  publication  is  a  programme  included  in  a  programme service  (within  the  meaning  of  the  Broadcasting  Act  1990),  the following are guilty of an offence-
+(3) Where the publication is a programme included in a programme service (within the meaning of the Broadcasting Act 1990), the following are guilty of an offence—
 
-(a) any  body  corporate  engaged  in  providing  the  programme service in which the programme is included, and
+(a) any body corporate engaged in providing the programme service in which the programme is included, and
 
-(b) any  person  having  functions  in  relation  to  the  programme corresponding to those of an editor of a newspaper.
+(b) any person having functions in relation to the programme corresponding to those of an editor of a newspaper.
 
-- In the case of any other publication, any person publishing it is guilty of an offence.
+(4) In the case of any other publication, any person publishing it is guilty of an offence.
 
-- A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-- If an offence committed by a body corporate is proved-
+(6) If an offence committed by a body corporate is proved—
 
 (a) to have been committed with the consent or connivance of, or
 
 (b) to be attributable to any neglect on the part of,
 
-- an  officer,  the  officer  as  well  as  the  body  corporate  is  guilty  of  the offence and liable to be proceeded against and punished accordingly.
+an officer, the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-- In subsection (6), 'officer' means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+(7) In subsection (6), “officer” means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
 
-- If  the  affairs  of  a  body  corporate  are  managed  by  its  members, 'director' in subsection (7) means a member of that body.
+(8) If the affairs of a body corporate are managed by its members, “director” in subsection (7) means a member of that body.
 
-- Schedule 11B contains supplementary provision relating to an offence under this section.
+(9) Schedule 11B contains supplementary provision relating to an offence under this section.
 
 ###### 141H Defences
 
-- Where a person is charged with an offence under section 141G, it is a defence  for  the  person  to  prove  either  of  the  matters  mentioned  in subsection (2).
+(1) Where a person is charged with an offence under section 141G, it is a defence for the person to prove either of the matters mentioned in subsection (2).
 
-- The matters are-
+(2) The matters are—
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-Education Act 2011 (c. 21 )
-
-Part 3 - School workforce
-
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 23
 
-(a) that,  at  the  time  of  the  alleged  offence,  the  person  was  not aware, and neither suspected nor had reason to suspect, that the publication included the matter in question;
+(a) that, at the time of the alleged offence, the person was not aware, and neither suspected nor had reason to suspect, that the publication included the matter in question;
 
-(b) that,  at  the  time  of  the  alleged  offence,  the  person  was  not aware, and neither suspected nor had reason to suspect, that the allegation in question had been made.'
+(b) that, at the time of the alleged offence, the person was not aware, and neither suspected nor had reason to suspect, that the allegation in question had been made.”
 
-- Schedule 4 (offence of breaching reporting restrictions: application to providers of information society services) has effect.
+(2) Schedule 4 (offence of breaching reporting restrictions: application to providers of information society services) has effect.
 
 ### Abolition of the Training and Development Agency for Schools
 
 #### 14 Abolition of the Training and Development Agency for Schools
 
-Sections  74  to  84  of,  and  Schedule  13  to,  EA  2005  (the  Training  and Development Agency for Schools) are repealed.
+Sections 74 to 84 of, and Schedule 13 to, EA 2005 (the Training and Development Agency for Schools) are repealed.
 
 #### 15 Training the school workforce: powers of Secretary of State and Welsh Ministers
 
-- Part  2  of  EA  2002  (financial  assistance  for  education  and  children  etc)  is amended as set out in subsections (2) and (3).
+(1) Part 2 of EA 2002 (financial assistance for education and children etc) is amended as set out in subsections (2) and (3).
 
-- In section 14 (power of Secretary of State and Welsh Ministers to give financial assistance for purposes related to education or children etc)-
+(2) In section 14 (power of Secretary of State and Welsh Ministers to give financial assistance for purposes related to education or children etc)—
 
-(a) in subsection (2), after paragraph (c) insert-
+(a) in subsection (2), after paragraph (c) insert—
 
-'(ca) enabling any person to receive any training for teachers or for non-teaching staff;';
+“(ca) enabling any person to receive any training for teachers or for non-teaching staff;”;
 
-(b) in subsection (2ZA), for '(2)(g)' substitute '(2)'.
+(b) in subsection (2ZA), for “(2)(g)” substitute “(2)”.
 
-- In section 16 (terms on which assistance under section 14 is given)-
+(3) In section 16 (terms on which assistance under section 14 is given)—
 
-(a) in  subsection  (1),  after  'appropriate'  insert  ',  subject  to  subsection (2B)';
+(a) in subsection (1), after “appropriate” insert “, subject to subsection (2B)”;
 
-(b) in subsection (2)(b), after 'appropriate' insert ', subject to subsection (2B)';
+(b) in subsection (2)(b), after “appropriate” insert “, subject to subsection (2B)”;
 
-(c) after subsection (2) insert-
+(c) after subsection (2) insert—
 
-'(2A) Subsection (2B) applies to-
+“(2A) Subsection (2B) applies to—
 
-(a) financial assistance given under section 14 to  an institution within the higher education sector, and
+(a) financial assistance given under section 14 to an institution within the higher education sector, and
 
-(b) financial  assistance  required  by  virtue  of  subsection (2)(b) to be given to such an institution.
+(b) financial assistance required by virtue of subsection (2)(b) to be given to such an institution.
 
-(2B) The terms on which the assistance is given may not be framed by reference to criteria for the selection and appointment of staff or the admission of students.'
+(2B) The terms on which the assistance is given may not be framed by reference to criteria for the selection and appointment of staff or the admission of students.”
 
-- Part  3  of  EA  2005  (training  the  school  workforce)  is  amended  as  set  out  in subsections (5) to (9).
+(4) Part 3 of EA 2005 (training the school workforce) is amended as set out in subsections (5) to (9).
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 24
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 
-Education Act 2011 (c. 21 )
+(5) Before section 85 (and the italic heading preceding it), insert—
 
-Part 3 - School workforce
-
-(5) Before section 85 (and the italic heading preceding it), insert-
-
-##### 'Functions of Welsh Ministers with respect to the school workforce
+##### “Functions of Welsh Ministers with respect to the school workforce
 
 ###### 84A General duty of Welsh Ministers with respect to teacher training
 
-In carrying out their duties under sections 10 and 11 of the Education Act 1996, the Welsh Ministers must in particular make such arrangements as they consider expedient for securing that sufficient facilities are available for the training of teachers to serve in-
+In carrying out their duties under sections 10 and 11 of the Education Act 1996, the Welsh Ministers must in particular make such arrangements as they consider expedient for securing that sufficient facilities are available for the training of teachers to serve in—
 
 (a) schools maintained by local authorities in Wales,
 
@@ -1428,109 +1596,107 @@ In carrying out their duties under sections 10 and 11 of the Education Act 1996,
 
 ###### 84B Power to promote careers in school workforce in Wales
 
-- The Welsh Ministers may promote careers in the school workforce in Wales.
+(1) The Welsh Ministers may promote careers in the school workforce in Wales.
 
-- The Welsh Ministers may exercise the power conferred by subsection (1) jointly with the Secretary of State or any other person with functions relating to careers in the school workforce.
+(2) The Welsh Ministers may exercise the power conferred by subsection (1) jointly with the Secretary of State or any other person with functions relating to careers in the school workforce.
 
-- The Welsh Ministers may make arrangements for the power conferred by subsection (1) to be exercised on their behalf by any other person.
+(3) The Welsh Ministers may make arrangements for the power conferred by subsection (1) to be exercised on their behalf by any other person.
 
-- Arrangements under subsection (3) may (in particular) make provision for that power to be exercised-
+(4) Arrangements under subsection (3) may (in particular) make provision for that power to be exercised—
 
 (a) to the extent, and on the terms, specified in the arrangements;
 
-(b) generally  or  in  such  circumstances  as  are  specified  in  the arrangements;
+(b) generally or in such circumstances as are specified in the arrangements;
 
 (c) jointly with any person with whom it can be exercised jointly by the Welsh Ministers by virtue of subsection (2).
 
-- Arrangements under subsection (3) do not prevent the power conferred by subsection (1) from being exercised by the Welsh Ministers.'
+(5) Arrangements under subsection (3) do not prevent the power conferred by subsection (1) from being exercised by the Welsh Ministers.”
 
-- In section 92 (joint exercise of functions)-
+(6) In section 92 (joint exercise of functions)—
 
-(a) in subsection (1), for 'A funding agency' substitute 'The Secretary of State, HEFCW';
+(a) in subsection (1), for “A funding agency” substitute “The Secretary of State, HEFCW”;
 
-(b) in subsection (2), omit 'the other funding agency,';
+(b) in subsection (2), omit “the other funding agency,”;
 
-(c) after subsection (2) insert-
+(c) after subsection (2) insert—
 
-'(2A) The reference in subsection (1) to the functions of the Secretary of State is to the functions of the Secretary of State relating to training for members of the school workforce.';
+“(2A) The reference in subsection (1) to the functions of the Secretary of State is to the functions of the Secretary of State relating to training for members of the school workforce.”;
 
 (d) omit subsection (3).
 
-- In section 93 (efficiency studies)-
+(7) In section 93 (efficiency studies)—
 
-(a) in subsection (1), for 'A funding agency' substitute 'The Secretary of State and HEFCW';
+(a) in subsection (1), for “A funding agency” substitute “The Secretary of State and HEFCW”;
 
-(b) in subsection (2), for 'a funding agency' substitute 'the Secretary of State or HEFCW';
+(b) in subsection (2), for “a funding agency” substitute “the Secretary of State or HEFCW”;
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-Education Act 2011 (c. 21 ) Part 3 - School workforce
-
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 25
 
-(c) in  subsection  (3)(a),  for  'support  under  this  Part  from  the  Agency' substitute 'assistance under section 14 of the Education Act 2002 from the Secretary of State'.
+(c) in subsection (3)(a), for “support under this Part from the Agency” substitute “assistance under section 14 of the Education Act 2002 from the Secretary of State”.
 
-- For section 94 (duty to provide information) substitute-
+(8) For section 94 (duty to provide information) substitute—
 
-'94 Provision of information
+“94 Provision of information
 
-- HEFCW may give the Secretary of State information for the purposes of the exercise of the Secretary of State's functions relating to training for members of the school workforce.
+(1) HEFCW may give the Secretary of State information for the purposes of the exercise of the Secretary of State’s functions relating to training for members of the school workforce.
 
-- The Secretary of State may give HEFCW information for the purposes of the exercise of their functions under any enactment.
+(2) The Secretary of State may give HEFCW information for the purposes of the exercise of their functions under any enactment.
 
-- The persons and bodies mentioned in subsection (4) must-
+(3) The persons and bodies mentioned in subsection (4) must—
 
-(a) give the Secretary of State such information as the Secretary of State may require for the purpose of the exercise of the Secretary of  State's  functions  relating  to  training  for  members  of  the school workforce;
+(a) give the Secretary of State such information as the Secretary of State may require for the purpose of the exercise of the Secretary of State’s functions relating to training for members of the school workforce;
 
-(b) give  HEFCW  such  information  as  they  may  require  for  the purpose of the exercise of their functions under any enactment.
+(b) give HEFCW such information as they may require for the purpose of the exercise of their functions under any enactment.
 
-- The persons and bodies referred to in subsection (3) are-
+(4) The persons and bodies referred to in subsection (3) are—
 
 (a) a person receiving, or who has received or applied for, a grant, loan or other payment under section 86, or financial assistance from the Secretary of State under section 14 of the Education Act 2002;
 
-(b) a local authority.'
+(b) a local authority.”
 
-- In section 100 (interpretation of Part 3)-
+(9) In section 100 (interpretation of Part 3)—
 
-(a) omit the definitions of 'the Agency' and 'a funding agency';
+(a) omit the definitions of “the Agency” and “a funding agency”;
 
-(b) in the definition of 'the school workforce', for 'section 75(5)' substitute 'subsection (1A)';
+(b) in the definition of “the school workforce”, for “section 75(5)” substitute “subsection (1A)”;
 
-(c) in the definition of 'training provider', for 'has the meaning given by section  78(3)'  substitute  'means  a  person  who  provides  training  for members of the school workforce';
+(c) in the definition of “training provider”, for “has the meaning given by section 78(3)” substitute “means a person who provides training for members of the school workforce”;
 
-(d) after subsection (1) insert-
+(d) after subsection (1) insert—
 
-'(1A) For the purposes of this Part, the school workforce consists of the following members-
+“(1A) For the purposes of this Part, the school workforce consists of the following members—
 
 (a) persons who work in schools, and
 
-(b) other persons who are teachers or who carry out work that consists of or includes teaching.'
+(b) other persons who are teachers or who carry out work that consists of or includes teaching.”
 
 #### 16 Abolition of the TDA: consequential amendments
 
-- Schedule 5 (abolition of the TDA: consequential amendments) has effect.
+(1) Schedule 5 (abolition of the TDA: consequential amendments) has effect.
 
-- The Secretary of State may by order make changes in consequence of sections 14 and 15 to any provision of subordinate legislation made before the date on which this Act is passed.
+(2) The Secretary of State may by order make changes in consequence of sections 14 and 15 to any provision of subordinate legislation made before the date on which this Act is passed.
 
-- The Welsh Ministers may by order make changes in consequence of sections 14 and 15, so far as applicable to Wales, to any provision of-
+(3) The Welsh Ministers may by order make changes in consequence of sections 14 and 15, so far as applicable to Wales, to any provision of—
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
 26
-
-Education Act 2011 (c. 21 )
-
-Part 3 - School workforce
+Education Act 2011 (c. 21)
+Part 3 — School workforce
 
 (a) an instrument made under a Measure of the National Assembly for Wales before the date on which this Act is passed;
 
 (b) any other subordinate legislation made before the date on which this Act is passed, so far as applicable to Wales.
 
-'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
+(4) “Subordinate legislation” has the meaning given by section 21(1) of the Interpretation Act 1978.
 
 #### 17 Abolition of the TDA: transfer schemes
 
@@ -1540,17 +1706,17 @@ Schedule 6 (schemes for the transfer of staff, property, rights and liabilities 
 
 #### 18 Abolition of the School Support Staff Negotiating Body
 
-- Sections 227 to 241 of, and Schedule 15 to, ASCLA 2009 (the School Support Staff Negotiating Body) are repealed.
+(1) Sections 227 to 241 of, and Schedule 15 to, ASCLA 2009 (the School Support Staff Negotiating Body) are repealed.
 
-- In consequence of subsection (1), in the House of Commons Disqualification Act 1975, in Part 3 of Schedule 1 (other disqualifying offices), omit 'Person appointed to chair the School Support Staff Negotiating Body.'
+(2) In consequence of subsection (1), in the House of Commons Disqualification Act 1975, in Part 3 of Schedule 1 (other disqualifying offices), omit “Person appointed to chair the School Support Staff Negotiating Body.”
 
 ### Staff: minor amendments
 
 #### 19 Staffing of maintained schools: suspension of delegated budget
 
-- In  section  35  of  EA  2002  (staffing  of  community,  voluntary  controlled, community special and maintained nursery schools), in subsection (7) (effect of suspension of school's delegated budget), after 'the School Standards and Framework Act 1998' insert ', or section 66 of the Education and Inspections Act 2006,'.
+(1) In section 35 of EA 2002 (staffing of community, voluntary controlled, community special and maintained nursery schools), in subsection (7) (effect of suspension of school’s delegated budget), after “the School Standards and Framework Act 1998” insert “, or section 66 of the Education and Inspections Act 2006,”.
 
-- In  section  36  of  EA  2002  (staffing  of  foundation,  voluntary  aided  and foundation special schools), in subsection (7) (effect of suspension of school's delegated  budget),  after  'the  School  Standards  and  Framework  Act  1998' insert ', or section 66 of the Education and Inspections Act 2006,'.
+(2) In section 36 of EA 2002 (staffing of foundation, voluntary aided and foundation special schools), in subsection (7) (effect of suspension of school’s delegated budget), after “the School Standards and Framework Act 1998” insert “, or section 66 of the Education and Inspections Act 2006,”.
 
 ## PART 4
 
@@ -1560,16 +1726,14 @@ Schedule 6 (schemes for the transfer of staff, property, rights and liabilities 
 
 #### 20 Requirement for schools to participate in international surveys
 
-In Chapter 4 of Part 9 of EA 1996 (provision of information by governing bodies etc), after section 538, insert-
+In Chapter 4 of Part 9 of EA 1996 (provision of information by governing bodies etc), after section 538, insert—
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 27
 
 ##### '538A    Power to direct participation in international surveys
@@ -1598,45 +1762,43 @@ In  section  128  of  ASCLA  2009  (Ofqual's  objectives)  for  subsection  (2) 
 
 #### 23 Enforcement powers
 
-- Part  7  of  ASCLA  2009  (the  Office  of  Qualifications  and  Examinations Regulation) is amended as set out in subsections (2) to (6).
+(1) Part 7 of ASCLA 2009 (the Office of Qualifications and Examinations Regulation) is amended as set out in subsections (2) to (6).
 
-- In section 151 (power to give directions), for subsection (1) substitute-
+(2) In section 151 (power to give directions), for subsection (1) substitute—
 
-'(1) Subsection (2) applies if it appears to Ofqual that a recognised body has failed  or  is  likely  to  fail  to  comply  with  a  condition  to  which  the recognition is subject.'
+“(1) Subsection (2) applies if it appears to Ofqual that a recognised body has failed or is likely to fail to comply with a condition to which the recognition is subject.”
 
-- After section 151 insert-
+(3) After section 151 insert—
 
-##### '151A    Power to impose monetary penalties
+##### “151A Power to impose monetary penalties
 
-- Subsection (2) applies if it appears to Ofqual that a recognised body has failed to comply with a condition to which the recognition is subject.
+(1) Subsection (2) applies if it appears to Ofqual that a recognised body has failed to comply with a condition to which the recognition is subject.
 
-- Ofqual may impose a monetary penalty on the recognised body.
+(2) Ofqual may impose a monetary penalty on the recognised body.
 
-- A 'monetary penalty' is a requirement to pay to Ofqual a penalty of an amount determined by Ofqual in accordance with section 151B.
+(3) A “monetary penalty” is a requirement to pay to Ofqual a penalty of an amount determined by Ofqual in accordance with section 151B.
 
-- Before  imposing  a  monetary  penalty  on  a  recognised  body,  Ofqual must give notice to the body of its intention to do so.
+(4) Before imposing a monetary penalty on a recognised body, Ofqual must give notice to the body of its intention to do so.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
 28
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
+(5) The notice must—
 
-Part 4 - Qualifications and the Curriculum
+(a) set out Ofqual’s reasons for proposing to impose the penalty, and
 
-- The notice must-
+(b) specify the period during which, and the way in which, the recognised body may make representations about the proposal.
 
-(a) set out Ofqual's reasons for proposing to impose the penalty, and
+(6) The period specified under subsection (5)(b) must not be less than 28 days beginning with the date on which the notice is received.
 
-(b) specify  the  period  during  which,  and  the  way  in  which,  the recognised body may make representations about the proposal.
+(7) Ofqual must have regard to any representations made by the recognised body during the period specified in the notice in deciding whether to impose a monetary penalty on the body.
 
-- The period specified under subsection (5)(b) must not be less than 28 days beginning with the date on which the notice is received.
-
-- Ofqual  must  have  regard  to  any  representations  made  by  the recognised body during the period specified in the notice in deciding whether to impose a monetary penalty on the body.
-
-- If Ofqual decides to impose a monetary penalty on the body, it must give the body a notice containing information as to-
+(8) If Ofqual decides to impose a monetary penalty on the body, it must give the body a notice containing information as to—
 
 (a) the grounds for imposing the penalty,
 
@@ -1652,21 +1814,21 @@ Part 4 - Qualifications and the Curriculum
 
 ##### 151B Monetary penalties: amount
 
-- The  amount  of  a  monetary  penalty  imposed  on  a  recognised  body under section 151A must not exceed 10% of the body's turnover.
+(1) The amount of a monetary penalty imposed on a recognised body under section 151A must not exceed 10% of the body’s turnover.
 
-- The  turnover  of  a  body  for  the  purposes  of  subsection  (1)  is  to  be determined in accordance with an order made by the Secretary of State.
+(2) The turnover of a body for the purposes of subsection (1) is to be determined in accordance with an order made by the Secretary of State.
 
-- Subject to subsection (1), the amount may be whatever Ofqual decides is appropriate in all the circumstances of the case.
+(3) Subject to subsection (1), the amount may be whatever Ofqual decides is appropriate in all the circumstances of the case.
 
-##### 151C   Monetary penalties: appeals
+##### 151C Monetary penalties: appeals
 
-- A recognised body may appeal to the First-tier Tribunal against-
+(1) A recognised body may appeal to the First-tier Tribunal against—
 
-(a) a  decision  to  impose  a  monetary  penalty  on  the  body  under section 151A;
+(a) a decision to impose a monetary penalty on the body under section 151A;
 
 (b) a decision as to the amount of the penalty.
 
-- An appeal under this section may be made on the grounds-
+(2) An appeal under this section may be made on the grounds—
 
 (a) that the decision was based on an error of fact;
 
@@ -1674,9 +1836,9 @@ Part 4 - Qualifications and the Curriculum
 
 (c) that the decision was unreasonable.
 
-- The  requirement  to  pay  the  penalty  is  suspended  pending  the determination of an appeal under this section.
+(3) The requirement to pay the penalty is suspended pending the determination of an appeal under this section.
 
-- On an appeal under this section the Tribunal may-
+(4) On an appeal under this section the Tribunal may—
 
 (a) withdraw the requirement to pay the penalty;
 
@@ -1690,49 +1852,47 @@ Part 4 - Qualifications and the Curriculum
 
 [[START OF PAGE 35]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 29
 
 (e) remit the decision whether to confirm the requirement to pay the penalty, or any matter relating to that decision, to Ofqual.
 
-##### 151D    Monetary penalties: interest and recovery
+##### 151D Monetary penalties: interest and recovery
 
-- This section applies if all or part of a monetary penalty imposed on a recognised  body  is  unpaid  at  the  end  of  the  period  ending  on  the applicable date.
+(1) This section applies if all or part of a monetary penalty imposed on a recognised body is unpaid at the end of the period ending on the applicable date.
 
-- The applicable date is-
+(2) The applicable date is—
 
 (a) the last date on which the recognised body may make an appeal under section 151C in respect of the penalty, if no such appeal is made;
 
-(b) if  an  appeal  under  section  151C  in  respect  of  the  penalty  is made-
+(b) if an appeal under section 151C in respect of the penalty is made—
 
 (i) the date on which the appeal is determined, or
 
 (ii) if the appeal is withdrawn before being determined, the date on which the appeal is withdrawn.
 
-- The unpaid amount of the penalty for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
+(3) The unpaid amount of the penalty for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
 
-- The total amount of interest imposed under subsection (3) must not exceed the amount of the penalty.
+(4) The total amount of interest imposed under subsection (3) must not exceed the amount of the penalty.
 
-- Ofqual may recover from the body, as a civil debt due to it, the unpaid amount of the penalty and any unpaid interest.'
+(5) Ofqual may recover from the body, as a civil debt due to it, the unpaid amount of the penalty and any unpaid interest.”
 
-- In section 152 (power to withdraw recognition), for subsection (2) substitute-
+(4) In section 152 (power to withdraw recognition), for subsection (2) substitute—
 
-'(2) Ofqual may withdraw recognition from the recognised body in respect of the award or authentication of-
+“(2) Ofqual may withdraw recognition from the recognised body in respect of the award or authentication of—
 
-(a) a  specified  qualification  or  description  of  qualification  in respect of which the body is recognised, or
+(a) a specified qualification or description of qualification in respect of which the body is recognised, or
 
-(b) every qualification or description of qualification in respect of which the body is recognised.'
+(b) every qualification or description of qualification in respect of which the body is recognised.”
 
-- After section 152 insert-
+(5) After section 152 insert—
 
-##### '152A    Costs recovery
+##### “152A Costs recovery
 
-- Ofqual may, by notice, require a recognised body on which a sanction has been imposed to pay the costs incurred by Ofqual in relation to imposing the sanction, up to the time it is imposed.
+(1) Ofqual may, by notice, require a recognised body on which a sanction has been imposed to pay the costs incurred by Ofqual in relation to imposing the sanction, up to the time it is imposed.
 
-- The references in subsection (1) to imposing a sanction are to-
+(2) The references in subsection (1) to imposing a sanction are to—
 
 (a) giving a direction under section 151;
 
@@ -1740,7 +1900,7 @@ Part 4 - Qualifications and the Curriculum
 
 (c) withdrawing recognition under section 152.
 
-'Costs' includes in particular-
+(3) “Costs” includes in particular—
 
 (a) investigation costs;
 
@@ -1753,12 +1913,10 @@ Part 4 - Qualifications and the Curriculum
 [[START OF PAGE 36]]
 
 30
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
-- A notice given to a recognised body under subsection (1) must contain information as to-
+(4) A notice given to a recognised body under subsection (1) must contain information as to—
 
 (a) the amount required to be paid,
 
@@ -1772,17 +1930,17 @@ Part 4 - Qualifications and the Curriculum
 
 (f) the consequences of non-payment.
 
-- The body may require Ofqual to provide a detailed breakdown of the amount specified in the notice.
+(5) The body may require Ofqual to provide a detailed breakdown of the amount specified in the notice.
 
 ##### 152B Costs recovery: appeals
 
-- A recognised body may appeal to the First-tier Tribunal against-
+(1) A recognised body may appeal to the First-tier Tribunal against—
 
-(a) a  decision  under  section  152A(1)  to  require  the  body  to  pay costs;
+(a) a decision under section 152A(1) to require the body to pay costs;
 
 (b) a decision as to the amount of those costs.
 
-- An appeal under this section may be made on the grounds-
+(2) An appeal under this section may be made on the grounds—
 
 (a) that the decision was based on an error of fact;
 
@@ -1790,9 +1948,9 @@ Part 4 - Qualifications and the Curriculum
 
 (c) that the decision was unreasonable.
 
-- The requirement to pay the costs is suspended pending the determination of an appeal under this section.
+(3) The requirement to pay the costs is suspended pending the determination of an appeal under this section.
 
-- On an appeal under this section the Tribunal may-
+(4) On an appeal under this section the Tribunal may—
 
 (a) withdraw the requirement to pay the costs;
 
@@ -1804,97 +1962,93 @@ Part 4 - Qualifications and the Curriculum
 
 (e) remit the decision whether to confirm the requirement to pay the costs, or any matter relating to that decision, to Ofqual.
 
-##### 152C   Costs: interest and recovery
+##### 152C Costs: interest and recovery
 
-- This section applies if all or part of an amount of costs that a recognised body is required to pay under section 152A(1) is unpaid at the end of the period ending on the applicable date.
+(1) This section applies if all or part of an amount of costs that a recognised body is required to pay under section 152A(1) is unpaid at the end of the period ending on the applicable date.
 
-- The applicable date is-
+(2) The applicable date is—
 
 (a) the last date on which the recognised body may make an appeal under section 152B in respect of the costs, if no such appeal is made;
 
-(b) if an appeal under section 152B in respect of the costs is made-
+(b) if an appeal under section 152B in respect of the costs is made—
 
 (i) the date on which the appeal is determined, or
 
 (ii) if the appeal is withdrawn before being determined, the date on which the appeal is withdrawn.
 
-- The unpaid amount of the costs for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
+(3) The unpaid amount of the costs for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 31
 
-- The total amount of interest imposed under subsection (3) must not exceed the amount of the costs.
+(4) The total amount of interest imposed under subsection (3) must not exceed the amount of the costs.
 
-- Ofqual may recover from the body, as a civil debt due to it, the unpaid amount of the costs and any unpaid interest.'
+(5) Ofqual may recover from the body, as a civil debt due to it, the unpaid amount of the costs and any unpaid interest.”
 
-- In section 153 (qualifications regulatory framework), in subsection (8)(e), for '152' substitute '152C'.
+(6) In section 153 (qualifications regulatory framework), in subsection (8)(e), for “152” substitute “152C”.
 
-- In section 262(6) of ASCLA 2009 (orders and regulations subject to affirmative resolution procedure), after paragraph (e) insert-
+(7) In section 262(6) of ASCLA 2009 (orders and regulations subject to affirmative resolution procedure), after paragraph (e) insert—
 
-'(ea) an order under section 151B(2);'.
+“(ea) an order under section 151B(2);”.
 
 ### Qualifications: Wales
 
 #### 24 Enforcement powers of Welsh Ministers
 
-- Chapter 2 of Part 5 of EA 1997 (functions of Welsh Ministers: qualifications and the school curriculum) is amended as set out in subsections (2) to (6).
+(1) Chapter 2 of Part 5 of EA 1997 (functions of Welsh Ministers: qualifications and the school curriculum) is amended as set out in subsections (2) to (6).
 
-- In  section  32A  (power  to  give  directions),  for  subsections  (1)  and  (2) substitute-
+(2) In section 32A (power to give directions), for subsections (1) and (2) substitute—
 
-'(1) Subsection  (1A)  applies  if  it  appears  to  the  Welsh  Ministers  that  a recognised  person  has  failed  or  is  likely  to  fail  to  comply  with  a condition subject to which the recognition has effect.
+“(1) Subsection (1A) applies if it appears to the Welsh Ministers that a recognised person has failed or is likely to fail to comply with a condition subject to which the recognition has effect.
 
 (1A) The Welsh Ministers may direct the recognised person to take or refrain from taking specified steps with a view to securing compliance with the conditions subject to which the recognition has effect.
 
-- Subsection  (2A)  applies  if  it  appears  to  the  Welsh  Ministers  that  a recognised person who  awards  or  authenticates a qualification accredited  by  them  has  failed  or  is  likely  to  fail  to  comply  with  a condition subject to which the accreditation has effect.
+(2) Subsection (2A) applies if it appears to the Welsh Ministers that a recognised person who awards or authenticates a qualification accredited by them has failed or is likely to fail to comply with a condition subject to which the accreditation has effect.
 
-(2A) The Welsh Ministers may direct the recognised person to take or refrain from taking specified steps with a view to securing compliance with the conditions subject to which the accreditation has effect.'
+(2A) The Welsh Ministers may direct the recognised person to take or refrain from taking specified steps with a view to securing compliance with the conditions subject to which the accreditation has effect.”
 
-- In section 32A(5), for '32B and' substitute '32AA to'.
+(3) In section 32A(5), for “32B and” substitute “32AA to”.
 
-- After section 32A insert-
+(4) After section 32A insert—
 
-##### '32AA    Power of Welsh Ministers to impose monetary penalties
+##### “32AA Power of Welsh Ministers to impose monetary penalties
 
-- Subsection  (2)  applies  if  it  appears  to  the  Welsh  Ministers  that  a recognised  person  has  failed  to  comply  with  a  condition  subject  to which the recognition has effect.
+(1) Subsection (2) applies if it appears to the Welsh Ministers that a recognised person has failed to comply with a condition subject to which the recognition has effect.
 
-- The Welsh Ministers may impose a monetary penalty on the recognised person.
+(2) The Welsh Ministers may impose a monetary penalty on the recognised person.
 
-- Subsection  (4)  applies  if  it  appears  to  the  Welsh  Ministers  that  a recognised person who  awards  or  authenticates a qualification accredited by them has failed to comply with a condition subject to which the accreditation has effect.
+(3) Subsection (4) applies if it appears to the Welsh Ministers that a recognised person who awards or authenticates a qualification accredited by them has failed to comply with a condition subject to which the accreditation has effect.
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 32
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
+(4) The Welsh Ministers may impose a monetary penalty on the recognised person.
 
-Part 4 - Qualifications and the Curriculum
+(5) A “monetary penalty” is a requirement to pay to the Welsh Ministers a penalty of an amount determined by them in accordance with section 32AB.
 
-- The Welsh Ministers may impose a monetary penalty on the recognised person.
+(6) Before imposing a monetary penalty on a recognised person, the Welsh Ministers must give notice to the person of their intention to do so.
 
-- A 'monetary penalty' is a requirement to pay to the Welsh Ministers a penalty of an amount determined by them in accordance with section 32AB.
-
-- Before imposing a monetary penalty on a recognised person, the Welsh Ministers must give notice to the person of their intention to do so.
-
-- The notice must-
+(7) The notice must—
 
 (a) set out their reasons for proposing to impose the penalty, and
 
-(b) specify  the  period  during  which,  and  the  way  in  which,  the recognised person may make representations about the proposal.
+(b) specify the period during which, and the way in which, the recognised person may make representations about the proposal.
 
-- The period specified under subsection (7)(b) must not be less than 28 days beginning with the date on which the notice is received.
+(8) The period specified under subsection (7)(b) must not be less than 28 days beginning with the date on which the notice is received.
 
-- The Welsh Ministers must have regard to any representations made by the  recognised  person  during  the  period  specified  in  the  notice  in deciding whether to impose a monetary penalty on the person.
+(9) The Welsh Ministers must have regard to any representations made by the recognised person during the period specified in the notice in deciding whether to impose a monetary penalty on the person.
 
-- If  the  Welsh  Ministers  decide  to  impose  a  monetary  penalty  on  the person, they must give the person a notice containing information as to-
+(10) If the Welsh Ministers decide to impose a monetary penalty on the person, they must give the person a notice containing information as to—
 
 (a) the grounds for imposing the penalty,
 
@@ -1908,23 +2062,23 @@ Part 4 - Qualifications and the Curriculum
 
 (f) the consequences of non-payment.
 
-##### 32AB    Monetary penalties: amount
+##### 32AB Monetary penalties: amount
 
-- The amount of a monetary penalty imposed on a recognised person under section 32AA must not exceed 10% of the person's turnover.
+(1) The amount of a monetary penalty imposed on a recognised person under section 32AA must not exceed 10% of the person’s turnover.
 
-- The turnover of a person for the purposes of subsection (1) is to be determined in accordance with an order made by the Welsh Ministers.
+(2) The turnover of a person for the purposes of subsection (1) is to be determined in accordance with an order made by the Welsh Ministers.
 
-- Subject  to  subsection  (1),  the  amount  may  be  whatever  the  Welsh Ministers decide is appropriate in all the circumstances of the case.
+(3) Subject to subsection (1), the amount may be whatever the Welsh Ministers decide is appropriate in all the circumstances of the case.
 
-##### 32AC    Monetary penalties: appeals
+##### 32AC Monetary penalties: appeals
 
-- A recognised person may appeal to the First-tier Tribunal against-
+(1) A recognised person may appeal to the First-tier Tribunal against—
 
 (a) a decision to impose a monetary penalty on the person under section 32AA;
 
 (b) a decision as to the amount of the penalty.
 
-- An appeal under this section may be made on the grounds-
+(2) An appeal under this section may be made on the grounds—
 
 (a) that the decision was based on an error of fact;
 
@@ -1936,15 +2090,13 @@ Part 4 - Qualifications and the Curriculum
 
 [[START OF PAGE 39]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 33
 
-- The  requirement  to  pay  the  penalty  is  suspended  pending  the determination of an appeal under this section.
+(3) The requirement to pay the penalty is suspended pending the determination of an appeal under this section.
 
-- On an appeal under this section the Tribunal may-
+(4) On an appeal under this section the Tribunal may—
 
 (a) withdraw the requirement to pay the penalty;
 
@@ -1956,61 +2108,59 @@ Part 4 - Qualifications and the Curriculum
 
 (e) remit the decision whether to confirm the requirement to pay the penalty, or any matter relating to that decision, to the Welsh Ministers.
 
-##### 32AD   Monetary penalties: interest and recovery
+##### 32AD Monetary penalties: interest and recovery
 
-- This section applies if all or part of a monetary penalty imposed on a recognised person is unpaid at the end of the period ending on the applicable date.
+(1) This section applies if all or part of a monetary penalty imposed on a recognised person is unpaid at the end of the period ending on the applicable date.
 
-- The applicable date is-
+(2) The applicable date is—
 
-(a) the  last  date  on  which  the  recognised  person  may  make  an appeal under section 32AC in respect of the penalty, if no such appeal is made;
+(a) the last date on which the recognised person may make an appeal under section 32AC in respect of the penalty, if no such appeal is made;
 
-(b) if  an  appeal  under  section  32AC  in  respect  of  the  penalty  is made-
+(b) if an appeal under section 32AC in respect of the penalty is made—
 
 (i) the date on which the appeal is determined, or
 
 (ii) if the appeal is withdrawn before being determined, the date on which the appeal is withdrawn.
 
-- The unpaid amount of the penalty for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
+(3) The unpaid amount of the penalty for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
 
-- The total amount of interest imposed under subsection (3) must not exceed the amount of the penalty.
+(4) The total amount of interest imposed under subsection (3) must not exceed the amount of the penalty.
 
-- The Welsh Ministers may recover from the person, as a civil debt due to them, the unpaid amount of the penalty and any unpaid interest.'
+(5) The Welsh Ministers may recover from the person, as a civil debt due to them, the unpaid amount of the penalty and any unpaid interest.”
 
-- In section 32B (power to withdraw recognition)-
+(5) In section 32B (power to withdraw recognition)—
 
-(a) for subsection (2) substitute-
+(a) for subsection (2) substitute—
 
-'(2) The  Welsh  Ministers  may  withdraw  recognition  from  the recognised person in respect of the award or authentication of-
+“(2) The Welsh Ministers may withdraw recognition from the recognised person in respect of the award or authentication of—
 
 (a) a specified qualification or description of qualification in respect of which the person is recognised, or
 
-(b) every  qualification  or  description  of  qualification  in respect of which the person is recognised.';
+(b) every qualification or description of qualification in respect of which the person is recognised.”;
 
-(b) for subsection (4) substitute-
+(b) for subsection (4) substitute—
 
-'(4) The  Welsh  Ministers  may  withdraw  recognition  from  the recognised person in respect of the award or authentication of-
+“(4) The Welsh Ministers may withdraw recognition from the recognised person in respect of the award or authentication of—
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
 
 34
-
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
 (a) the qualification or a specified description of qualification in respect of which the person is recognised, or
 
 (b) every  qualification  or  description  of  qualification  in respect of which the person is recognised.'
 
-- After section 32B insert-
+(6) After section 32B insert—
 
-##### '32BA    Costs recovery
+##### “32BA Costs recovery
 
-- The Welsh Ministers may, by notice, require a recognised person on whom a sanction has been imposed to pay the costs incurred by the Welsh Ministers in relation to imposing the sanction, up to the time it is imposed.
+(1) The Welsh Ministers may, by notice, require a recognised person on whom a sanction has been imposed to pay the costs incurred by the Welsh Ministers in relation to imposing the sanction, up to the time it is imposed.
 
-- The references in subsection (1) to imposing a sanction are to-
+(2) The references in subsection (1) to imposing a sanction are to—
 
 (a) giving a direction under section 32A;
 
@@ -2018,7 +2168,7 @@ Part 4 - Qualifications and the Curriculum
 
 (c) withdrawing recognition under section 32B.
 
-'Costs' includes in particular-
+(3) “Costs” includes in particular—
 
 (a) investigation costs;
 
@@ -2026,7 +2176,7 @@ Part 4 - Qualifications and the Curriculum
 
 (c) costs of obtaining expert advice (including legal advice).
 
-- A  notice  given  to  a  recognised  person  under  subsection  (1)  must contain information as to-
+(4) A notice given to a recognised person under subsection (1) must contain information as to—
 
 (a) the amount required to be paid,
 
@@ -2040,17 +2190,17 @@ Part 4 - Qualifications and the Curriculum
 
 (f) the consequences of non-payment.
 
-- The  person  may  require  the  Welsh  Ministers  to  provide  a  detailed breakdown of the amount specified in the notice.
+(5) The person may require the Welsh Ministers to provide a detailed breakdown of the amount specified in the notice.
 
-##### 32BB    Costs recovery: appeals
+##### 32BB Costs recovery: appeals
 
-- A recognised person may appeal to the First-tier Tribunal against-
+(1) A recognised person may appeal to the First-tier Tribunal against—
 
 (a) a decision under section 32BA(1) to require the person to pay costs;
 
 (b) a decision as to the amount of those costs.
 
-- An appeal under this section may be made on the grounds-
+(2) An appeal under this section may be made on the grounds—
 
 (a) that the decision was based on an error of fact;
 
@@ -2058,9 +2208,9 @@ Part 4 - Qualifications and the Curriculum
 
 (c) that the decision was unreasonable.
 
-- The requirement to pay the costs is suspended pending the determination of an appeal under this section.
+(3) The requirement to pay the costs is suspended pending the determination of an appeal under this section.
 
-- On an appeal under this section the Tribunal may-
+(4) On an appeal under this section the Tribunal may—
 
 (a) withdraw the requirement to pay the costs;
 
@@ -2070,10 +2220,8 @@ Part 4 - Qualifications and the Curriculum
 
 [[START OF PAGE 41]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 35
 
 (c) vary that requirement;
@@ -2084,31 +2232,31 @@ Part 4 - Qualifications and the Curriculum
 
 ##### 32BC    Costs: interest and recovery
 
-- This section applies if all or part of an amount of costs that a recognised person is required to pay under section 32BA(1) is unpaid at the end of the period ending on the applicable date.
+(1) This section applies if all or part of an amount of costs that a recognised person is required to pay under section 32BA(1) is unpaid at the end of the period ending on the applicable date.
 
-- The applicable date is-
+(2) The applicable date is—
 
-(a) the  last  date  on  which  the  recognised  person  may  make  an appeal under section 32BB in respect of the costs, if  no  such appeal is made;
+(a) the last date on which the recognised person may make an appeal under section 32BB in respect of the costs, if no such appeal is made;
 
-(b) if an appeal under section 32BB in respect of the costs is made-
+(b) if an appeal under section 32BB in respect of the costs is made—
 
 (i) the date on which the appeal is determined, or
 
 (ii) if the appeal is withdrawn before being determined, the date on which the appeal is withdrawn.
 
-- The unpaid amount of the costs for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
+(3) The unpaid amount of the costs for the time being carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838 (and does not also carry interest as a judgment debt under that section).
 
-- The total amount of interest imposed under subsection (3) must not exceed the amount of the costs.
+(4) The total amount of interest imposed under subsection (3) must not exceed the amount of the costs.
 
-- The Welsh Ministers may recover from the person, as a civil debt due to them, the unpaid amount of the costs and any unpaid interest.'
+(5) The Welsh Ministers may recover from the person, as a civil debt due to them, the unpaid amount of the costs and any unpaid interest.”
 
-- In section 54 of EA 1997 (orders and regulations)-
+(7) In section 54 of EA 1997 (orders and regulations)—
 
-(a) in subsection (2), after 'section' insert '32AB(2) or';
+(a) in subsection (2), after “section” insert “32AB(2) or”;
 
-(b) after subsection (2) insert-
+(b) after subsection (2) insert—
 
-'(2A) A statutory instrument which contains (whether alone or with other  provision)  an  order  under  section  32AB(2)  may  not  be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.'
+“(2A) A statutory instrument which contains (whether alone or with other provision) an order under section 32AB(2) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.”
 
 ### Abolition of the Qualifications and Curriculum Development Agency
 
@@ -2118,21 +2266,19 @@ Sections 175 to 191 of, and Schedule 11 to, ASCLA 2009 (the Qualifications and C
 
 #### 26 Abolition of the QCDA: consequential amendments
 
-- Schedule 8 (abolition of the QCDA: consequential amendments) has effect.
+(1) Schedule 8 (abolition of the QCDA: consequential amendments) has effect.
 
-- The Secretary of State may by order make changes in consequence of section 25 to any provision of subordinate legislation made before the date on which this Act is passed.
+(2) The Secretary of State may by order make changes in consequence of section 25 to any provision of subordinate legislation made before the date on which this Act is passed.
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
 36
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
-'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
+(3) “Subordinate legislation” has the meaning given by section 21(1) of the Interpretation Act 1978.
 
 #### 27 Abolition of the QCDA: transfer schemes
 
@@ -2142,65 +2288,63 @@ Schedule 9 (schemes for the transfer of staff, property, rights and liabilities 
 
 #### 28 Education and training support services in England
 
-- Part  2  of  ESA  2008  (education  and  training  support  services  in  England)  is amended as set out in subsections (2) to (5).
+(1) Part 2 of ESA 2008 (education and training support services in England) is amended as set out in subsections (2) to (5).
 
-- Section 69 (Secretary of State directions in relation to education and training support services) is repealed.
+(2) Section 69 (Secretary of State directions in relation to education and training support services) is repealed.
 
-- In consequence of subsection (2)-
+(3) In consequence of subsection (2)—
 
-(a) in section 68 (provision of support services by local authorities)-
+(a) in section 68 (provision of support services by local authorities)—
 
 (i) omit subsection (2);
 
-(ii) in subsection (3), omit 'and section 69';
+(ii) in subsection (3), omit “and section 69”;
 
-(iii) in subsection (4), omit paragraph (a) (and the 'and' after it);
+(iii) in subsection (4), omit paragraph (a) (and the “and” after it);
 
-(b) in section 70(2) (local authorities: supplementary powers), omit 'or 69';
+(b) in section 70(2) (local authorities: supplementary powers), omit “or 69”;
 
-(c) in section 71(8) (provision of support on conditional basis), for '68(2) and (4)' substitute '68(4)'.
+(c) in section 71(8) (provision of support on conditional basis), for “68(2) and (4)” substitute “68(4)”.
 
-- Section 73 (duty on schools and FE institutions to permit access by persons involved in providing education and training support services) is repealed.
+(4) Section 73 (duty on schools and FE institutions to permit access by persons involved in providing education and training support services) is repealed.
 
-- In section 76A (supply of information obtained in connection with education and  training  support  services),  omit  subsection  (5)  (information  not  to  be disclosed in a way that reveals identity of individual to whom it relates).
+(5) In section 76A (supply of information obtained in connection with education and training support services), omit subsection (5) (information not to be disclosed in a way that reveals identity of individual to whom it relates).
 
-- In consequence of the amendment made by subsection (2), omit section 255(2) of ASCLA 2009.
+(6) In consequence of the amendment made by subsection (2), omit section 255(2) of ASCLA 2009.
 
 #### 29 Careers guidance in schools in England
 
-- Part 7 of EA 1997 (careers education and guidance) is amended as set out in subsections (2) to (8).
+(1) Part 7 of EA 1997 (careers education and guidance) is amended as set out in subsections (2) to (8).
 
-- Before section 43 insert-
+(2) Before section 43 insert—
 
-##### '42A Provision of careers guidance in schools in England
+##### “42A Provision of careers guidance in schools in England
 
-- The responsible authorities for a school in England within subsection (2) must secure that all registered pupils at the school are provided with independent  careers  guidance  during  the  relevant  phase  of  their education.
+(1) The responsible authorities for a school in England within subsection (2) must secure that all registered pupils at the school are provided with independent careers guidance during the relevant phase of their education.
 
-- A school is within this subsection if it provides secondary education and is one of the following-
+(2) A school is within this subsection if it provides secondary education and is one of the following—
 
 (a) a community, foundation or voluntary school;
 
-(b) a  community  or  foundation  special  school  (other  than  one established in a hospital);
+(b) a community or foundation special school (other than one established in a hospital);
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 37
 
 (c) a pupil referral unit.
 
-- The responsible authorities for a school within subsection (2) are-
+(3) The responsible authorities for a school within subsection (2) are—
 
-(a) in  the  case  of  a  school  within  subsection  (2)(a)  or  (b),  its governing body;
+(a) in the case of a school within subsection (2)(a) or (b), its governing body;
 
-(b) in  the  case  of  a  pupil  referral  unit,  the  local  authority  that maintain it.
+(b) in the case of a pupil referral unit, the local authority that maintain it.
 
-- The responsible authorities must secure that careers guidance provided under subsection (1)-
+(4) The responsible authorities must secure that careers guidance provided under subsection (1)—
 
 (a) is presented in an impartial manner,
 
@@ -2208,37 +2352,37 @@ Part 4 - Qualifications and the Curriculum
 
 (c) is guidance that the person giving it considers will promote the best interests of the pupils to whom it is given.
 
-- Careers guidance provided to pupils at a school is independent for the purposes of this section if it is provided other than by-
+(5) Careers guidance provided to pupils at a school is independent for the purposes of this section if it is provided other than by—
 
 (a) a teacher employed or engaged at the school, or
 
 (b) any other person employed at the school.
 
-- For  the  purposes  of  this  section  the  relevant  phase  of  a  pupil's education is the period-
+(6) For the purposes of this section the relevant phase of a pupil’s education is the period—
 
-(a) beginning  at  the  same  time  as  the  school  year  in  which  the majority of pupils in the pupil's class attain the age of 14, and
+(a) beginning at the same time as the school year in which the majority of pupils in the pupil’s class attain the age of 14, and
 
-(b) ending with the expiry of the school year in which the majority of pupils in the pupil's class attain the age of 16.
+(b) ending with the expiry of the school year in which the majority of pupils in the pupil’s class attain the age of 16.
 
-- In this section-
+(7) In this section—
 
-'apprenticeship' includes employment and training leading to the issue of an apprenticeship certificate under section 3 or 4 of the Apprenticeships, Skills, Children and Learning Act 2009;
+“apprenticeship” includes employment and training leading to the issue of an apprenticeship certificate under section 3 or 4 of the Apprenticeships, Skills, Children and Learning Act 2009;
 
-'career' includes undertaking any training, education, employment or occupation;
+“career” includes undertaking any training, education, employment or occupation;
 
-'careers guidance' means guidance about careers;
+“careers guidance” means guidance about careers;
 
-'class', in relation to a pupil, means-
+“class”, in relation to a pupil, means—
 
-(a) the  teaching  group  in  which  the  pupil  is  regularly taught, or
+(a) the teaching group in which the pupil is regularly taught, or
 
-(b) if  the  pupil  is  taught  in  different  groups  for  different subjects, such one of those groups as is designated by the head teacher of the school or, in the case of a pupil at a pupil referral unit, by the teacher in charge of the unit;
+(b) if the pupil is taught in different groups for different subjects, such one of those groups as is designated by the head teacher of the school or, in the case of a pupil at a pupil referral unit, by the teacher in charge of the unit;
 
-'16  to  18  education  or  training'  means  education  or  training suitable to the requirements of persons who have ceased to be of compulsory school age but have not attained the age of 18;
+“16 to 18 education or training” means education or training suitable to the requirements of persons who have ceased to be of compulsory school age but have not attained the age of 18;
 
-'training' includes a voluntary or other placement apt to enable the  development of any skill  or  competency  (whether  or  not taking  place  at  a  time  when  the  person  concerned  is  still  a registered pupil at a school in England).'
+“training” includes a voluntary or other placement apt to enable the development of any skill or competency (whether or not taking place at a time when the person concerned is still a registered pupil at a school in England).”
 
-- In section 43 (careers education in schools)-
+(3) In section 43 (careers education in schools)—
 
 (a) in subsection (1), after 'school' insert 'in Wales';
 
@@ -2251,76 +2395,76 @@ Part 4 - Qualifications and the Curriculum
 [[START OF PAGE 44]]
 
 38
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
+(d) in subsection (3)—
 
-Part 4 - Qualifications and the Curriculum
+(i) omit “(and, where applicable, subsection (2B))”;
 
-(d) in subsection (3)-
-
-(i) omit '(and, where applicable, subsection (2B))';
-
-(ii) omit paragraph (b) (but not the 'and' after it);
+(ii) omit paragraph (b) (but not the “and” after it);
 
 (e) omit subsection (4);
 
-(f) in subsection (6)-
+(f) in subsection (6)—
 
-(i) in the definition of 'class', for the words from ', in relation' to the end substitute 'has the same meaning as in section 42A;';
+(i) in the definition of “class”, for the words from “, in relation” to the end substitute “has the same meaning as in section 42A;”;
 
-(ii) omit  the  definitions  of  '16-18  education  or  training'  and 'training';
+(ii) omit the definitions of “16-18 education or training” and “training”;
 
-(g) in the heading, at the end insert 'in Wales'.
+(g) in the heading, at the end insert “in Wales”.
 
-- In section 44-
+(4) In section 44—
 
-(a) in subsection (8)(a), for 'listed in section 43(2)(a) to (d)' substitute 'in Wales listed in section 43(2)(a) and (c)';
+(a) in subsection (8)(a), for “listed in section 43(2)(a) to (d)” substitute “in Wales listed in section 43(2)(a) and (c)”;
 
-(b) in subsection (8)(b), after 'institutions' insert 'in Wales';
+(b) in subsection (8)(b), after “institutions” insert “in Wales”;
 
-(c) for subsection (9) substitute-
+(c) for subsection (9) substitute—
 
-'(9) It  is  the  duty  of  the  each  of  the  following  to  secure  that subsections (1), (4) and (6) are complied with-
+“(9) It is the duty of the each of the following to secure that subsections (1), (4) and (6) are complied with—
 
 (a) the governing body of the school or institution;
 
-(b) its head teacher, principal or other head.';
+(b) its head teacher, principal or other head.”;
 
-(d) in subsection (10)(a), after 'a school' insert 'in Wales';
+(d) in subsection (10)(a), after “a school” insert “in Wales”;
 
-(e) in subsection (10)(b), after 'an institution' insert 'in Wales';
+(e) in subsection (10)(b), after “an institution” insert “in Wales”;
 
-(f) in the heading, after 'institutions' insert 'in Wales'.
+(f) in the heading, after “institutions” insert “in Wales”.
 
-- In section 45 (provision of careers information at schools and other institutions)-
+(5) In section 45 (provision of careers information at schools and other institutions)—
 
-(a) in subsection (2)(a), for 'listed in section 43(2)(a) to (d)' substitute 'in Wales listed in section 43(2)(a) and (c)';
+(a) in subsection (2)(a), for “listed in section 43(2)(a) to (d)” substitute “in Wales listed in section 43(2)(a) and (c)”;
 
-(b) in subsection (2), omit the words from 'and, in the case' to the end;
+(b) in subsection (2), omit the words from “and, in the case” to the end;
 
 (c) omit subsections (2A) and (2B);
 
-(d) for subsection (3) substitute-
+(d) for subsection (3) substitute—
 
-'(3) It is the duty of each of the following to secure that subsection (1) is complied with-
+“(3) It is the duty of each of the following to secure that subsection (1) is complied with—
 
 (a) the governing body of the school or institution;
 
-(b) its head teacher, principal or other head.';
+(b) its head teacher, principal or other head.”;
 
-(e) in  subsection  (5),  for  ''careers  education'  and  '16-18  education  or training'' substitute 'and 'careers education''.
+(e) in subsection (5), for ““careers education” and “16-18 education or training”” substitute “and “careers education””.
 
-- In section 45A (guidance as to discharge of duties)-
+(6) In section 45A (guidance as to discharge of duties)—
 
-(a) in subsection (1), for '43(2)(a), (c) or (e)' substitute '42A(2)';
+(a) in subsection (1), for “43(2)(a), (c) or (e)” substitute “42A(2)”;
 
-(b) in subsection (2), for 'any of sections 43(3), 44(9) and 45(3)' substitute '42A(1) or (4)';
+(b) in subsection (2), for “any of sections 43(3), 44(9) and 45(3)” substitute “42A(1) or (4)”;
 
-(c) in the heading, at the end insert ': schools in England'.
+(c) in the heading, at the end insert “: schools in England”.
 
-- In section 45B (provision of curriculum information), in the heading, at the end insert ': Wales'.
+(7) In section 45B (provision of curriculum information), in the heading, at the end insert “: Wales”.
 
-- In section 46 (extension or modification of provisions of sections 43 to 45)-
+(8) In section 46 (extension or modification of provisions of sections 43 to 45)—
+
+(a) in subsection (1), for the words from “43” to “44(10)(a)(i)” substitute “42A, 43 or 44 by substituting for the period specified in section 42A(6), 43(5) or 44(10)(a)(i)”;
 
 (a) in subsection (1), for the words from '43' to '44(10)(a)(i)' substitute '42A, 43 or 44 by substituting for the period specified in section 42A(6), 43(5) or 44(10)(a)(i)';
 
@@ -2328,29 +2472,27 @@ Part 4 - Qualifications and the Curriculum
 
 [[START OF PAGE 45]]
 
-Education Act 2011 (c. 21 )
-
-Part 4 - Qualifications and the Curriculum
-
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 39
 
-(b) after subsection (2) insert-
+(b) after subsection (2) insert—
 
-'(2A) The Secretary of State may by regulations make provision for requiring-
+“(2A) The Secretary of State may by regulations make provision for requiring—
 
 (a) the governing bodies of institutions in England within the further education sector, and
 
 (b) the principals or other heads of such institutions,
 
-to  secure  that  careers  guidance  is  provided  for  any  specified description of persons attending such institutions.';
+to secure that careers guidance is provided for any specified description of persons attending such institutions.”;
 
-(c) in subsection (3)(a), after 'institutions' insert 'in Wales';
+(c) in subsection (3)(a), after “institutions” insert “in Wales”;
 
-(d) in subsection (5), after the definition of 'careers education' insert''careers  guidance'  has  the  same  meaning  as  in  section
+(d) in subsection (5), after the definition of “careers education” insert—
 
-42A;'.
+““careers guidance” has the same meaning as in section 42A;”.
 
-- In consequence of the amendments made by subsections (1) to (8), omit-
+(9) In consequence of the amendments made by subsections (1) to (8), omit—
 
 (a) paragraph 71 of Schedule 9 to LSA 2000;
 
@@ -2364,96 +2506,92 @@ to  secure  that  careers  guidance  is  provided  for  any  specified descripti
 
 #### 30 Repeal of diploma entitlement for 16 to 18 year olds
 
-- In section 45 of ASCLA 2009 (local authority duties in relation to the core and additional  entitlements),  the  provisions  to  be  inserted  into  EA  1996  are amended as set out in subsections (2) to (6).
+(1) In section 45 of ASCLA 2009 (local authority duties in relation to the core and additional entitlements), the provisions to be inserted into EA 1996 are amended as set out in subsections (2) to (6).
 
-- In the italic cross-heading above  section 17A, for ' core and additional entitlements ' substitute ' core entitlement '.
+(2) In the italic cross-heading above section 17A, for “core and additional entitlements” substitute “core entitlement”.
 
-- In section 17A (duties in relation to the core and additional entitlements)-
+(3) In section 17A (duties in relation to the core and additional entitlements)—
 
-(a) in subsection (1), for 'core entitlement and the additional entitlement are' substitute 'core entitlement is';
+(a) in subsection (1), for “core entitlement and the additional entitlement are” substitute “core entitlement is”;
 
 (b) omit subsections (2) to (5);
 
-(c) in subsection (7), omit the definitions of 'additional entitlement area' and 'the additional entitlement';
+(c) in subsection (7), omit the definitions of “additional entitlement area” and “the additional entitlement”;
 
 (d) omit subsection (8);
 
-(e) in subsection (9)-
+(e) in subsection (9)—
 
-(i) for 'references in subsections (1) and (2)' substitute 'reference in subsection (1)';
+(i) for “references in subsections (1) and (2)” substitute “reference in subsection (1)”;
 
-(ii) for 'do' substitute 'does';
+(ii) for “do” substitute “does”;
 
-(f) in the heading, for 'core and additional entitlements' substitute 'core entitlement'.
+(f) in the heading, for “core and additional entitlements” substitute “core entitlement”.
 
-- Omit section 17B (election for either core entitlement or additional entitlement).
+(4) Omit section 17B (election for either core entitlement or additional entitlement).
 
-- In section 17C (the core entitlement)-
+(5) In section 17C (the core entitlement)—
 
-(a) before subsection (1) insert-
+(a) before subsection (1) insert—
 
-'(A1) A person over compulsory school age but under 19 has the core entitlement.';
+“(A1) A person over compulsory school age but under 19 has the core entitlement.”;
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
 40
+Education Act 2011 (c. 21)
+Part 4 — Qualifications and the Curriculum
 
-Education Act 2011 (c. 21 )
+(b) in subsection (1), for “electing for” substitute “who has”;
 
-Part 4 - Qualifications and the Curriculum
+(c) after subsection (4) insert—
 
-(b) in subsection (1), for 'electing for' substitute 'who has';
+“(5) In this section “course of study” means a course of education or training leading to a qualification specified, or a qualification of a description specified, by the Secretary of State by order for the purposes of this subsection.”
 
-(c) after subsection (4) insert-
+(6) Omit section 17D (the additional entitlement).
 
-'(5) In this section 'course of study' means a course of education or training leading to a qualification specified, or a qualification of a description specified, by the Secretary of State by order for the purposes of this subsection.'
+(7) In section 48 of ASCLA 2009 (provision of education for persons subject to youth detention), in the section 18A to be inserted into EA 1996—
 
-- Omit section 17D (the additional entitlement).
+(a) in subsection (2)(e), omit “and the additional entitlement” and “who have elected for them”;
 
-- In  section  48  of  ASCLA  2009 (provision of education for persons subject to youth detention), in the section 18A to be inserted into EA 1996-
+(b) for subsection (4) substitute—
 
-(a) in subsection (2)(e), omit 'and the additional entitlement' and 'who have elected for them';
+“(4) Section 17C (the core entitlement) applies for the purposes of subsection (2)(e).”
 
-(b) for subsection (4) substitute-
+(8) In section 86 of ASCLA 2009 (duties of Chief Executive of Skills Funding in respect of persons aged 19 or over or subject to adult detention)—
 
-'(4) Section 17C (the core entitlement) applies for the purposes of subsection (2)(e).'
+(a) in subsection (4)(h), omit “and the additional entitlement” and “who have elected for them”;
 
-- In section 86 of ASCLA 2009 (duties of Chief Executive of Skills Funding in respect of persons aged 19 or over or subject to adult detention)-
+(b) for subsection (8) substitute—
 
-(a) in subsection (4)(h), omit 'and the additional entitlement' and 'who have elected for them';
-
-(b) for subsection (8) substitute-
-
-'(8) Section  17C  of  the  Education  Act  1996  (the  core  entitlement) applies for the purposes of subsection (4)(h).'
+“(8) Section 17C of the Education Act 1996 (the core entitlement) applies for the purposes of subsection (4)(h).”
 
 #### 31 Repeal of diploma entitlement for fourth key stage
 
-- Section 74 of EIA 2006 (curriculum requirements for the fourth key stage) is amended as follows.
+(1) Section 74 of EIA 2006 (curriculum requirements for the fourth key stage) is amended as follows.
 
-- In subsection (1), in the new section 85A to be inserted into EA 2002-
+(2) In subsection (1), in the new section 85A to be inserted into EA 2002—
 
-(a) in subsection (1), for the words from 'do either of the following' to the end substitute 'follow a course of study in a subject within each of such one or more of the four entitlement areas specified in subsection (2) as the pupil may choose.';
+(a) in subsection (1), for the words from “do either of the following” to the end substitute “follow a course of study in a subject within each of such one or more of the four entitlement areas specified in subsection (2) as the pupil may choose.”;
 
-(b) in subsection (2), for '(1)(a)' substitute '(1)';
+(b) in subsection (2), for “(1)(a)” substitute “(1)”;
 
-(c) in subsection (4), for the words after 'satisfied' substitute 'if a course of study in a subject within each of the entitlement areas specified in subsection  (2)  is  made  available  to  the  pupil  by  or  on  behalf  of  the school at which the pupil is a registered pupil.';
+(c) in subsection (4), for the words after “satisfied” substitute “if a course of study in a subject within each of the entitlement areas specified in subsection (2) is made available to the pupil by or on behalf of the school at which the pupil is a registered pupil.”;
 
-(d) in subsection (5), for '(1)(a) or (b)' substitute '(1)';
+(d) in subsection (5), for “(1)(a) or (b)” substitute “(1)”;
 
-(e) in subsection (6), for the words after 'means' substitute 'a course of education or training which leads to such qualification as the governing body may choose from among those approved under section 98 of the Learning and Skills Act 2000 for the purposes of section 96 of that Act.'
+(e) in subsection (6), for the words after “means” substitute “a course of education or training which leads to such qualification as the governing body may choose from among those approved under section 98 of the Learning and Skills Act 2000 for the purposes of section 96 of that Act.”
 
-- Omit subsection (3).
+(3) Omit subsection (3).
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-Education Act 2011 (c. 21 )
-
-Part 5 - Educational institutions: other provisions
-
+Education Act 2011 (c. 21)
+Part 5 — Educational institutions: other provisions
 41
 
 ## PART 5
@@ -2464,109 +2602,107 @@ Part 5 - Educational institutions: other provisions
 
 #### 32 Duty to prepare and publish school profile
 
-- Section  30A  of  EA  2002  (duty  of  governing  body  of  maintained  school  in England to prepare and publish school profile) is repealed.
+(1) Section 30A of EA 2002 (duty of governing body of maintained school in England to prepare and publish school profile) is repealed.
 
-- In consequence of subsection (1), section 104 of EA 2005 (insertion of section 30A of EA 2002) is repealed.
+(2) In consequence of subsection (1), section 104 of EA 2005 (insertion of section 30A of EA 2002) is repealed.
 
 #### 33 Duty to appoint school improvement partners
 
-- Section  5  of  EIA  2006  (requirement  for  local  authority  to  appoint  school improvement partner for each school they maintain) is repealed.
+(1) Section 5 of EIA 2006 (requirement for local authority to appoint school improvement partner for each school they maintain) is repealed.
 
-- In consequence of subsection (1), in section 187(3) of EIA 2006 (provisions to be read as if they were contained in EA 1996), omit paragraph (a).
+(2) In consequence of subsection (1), in section 187(3) of EIA 2006 (provisions to be read as if they were contained in EA 1996), omit paragraph (a).
 
 #### 34 Duties in relation to school admissions
 
-- Part 3 of SSFA 1998 (school admissions) is amended as follows.
+(1) Part 3 of SSFA 1998 (school admissions) is amended as follows.
 
-- In section 85A (admission forums)-
+(2) In section 85A (admission forums)—
 
-(a) in subsection (1)-
+(a) in subsection (1)—
 
-(i) in the opening words, after 'authority' insert 'in Wales';
+(i) in the opening words, after “authority” insert “in Wales”;
 
-(ii) at the end of paragraph (a), insert 'and';
+(ii) at the end of paragraph (a), insert “and”;
 
-(iii) omit paragraph (c) (and the 'and' preceding it);
+(iii) omit paragraph (c) (and the “and” preceding it);
 
 (b) omit subsections (1A) to (1C);
 
-(c) in subsection (3), omit paragraph (ba) (but not the 'and' following it);
+(c) in subsection (3), omit paragraph (ba) (but not the “and” following it);
 
 (d) omit subsection (3A);
 
 (e) omit subsections (5A) and (5B).
 
-- In section 88I (other functions of adjudicator relating to admission arrangements), in subsection (3), omit paragraph (b) (and the 'or' preceding it).
+(3) In section 88I (other functions of adjudicator relating to admission arrangements), in subsection (3), omit paragraph (b) (and the “or” preceding it).
 
-- Section  88J  (changes  to  admission  arrangements  by  schools  adjudicator)  is repealed.
+(4) Section 88J (changes to admission arrangements by schools adjudicator) is repealed.
 
-- In section 88P (reports by local authorities)-
+(5) In section 88P (reports by local authorities)—
 
-(a) in subsection (1) for 'prescribed' substitute 'required by the code for school admissions';
+(a) in subsection (1) for “prescribed” substitute “required by the code for school admissions”;
 
 (b) omit subsections (4) and (5).
 
-- Schedule 10 (consequential amendments) has effect.
+(6) Schedule 10 (consequential amendments) has effect.
 
 #### 35 Duties in relation to school meals etc
 
-- Part 9 of EA 1996 (ancillary functions) is amended as follows.
+(1) Part 9 of EA 1996 (ancillary functions) is amended as follows.
 
-- In section 512ZA (power to charge for meals etc)-
+(2) In section 512ZA (power to charge for meals etc)—
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
 42
+Education Act 2011 (c. 21)
+Part 5 — Educational institutions: other provisions
 
-Education Act 2011 (c. 21 )
+(a) after subsection (1) insert—
 
-Part 5 - Educational institutions: other provisions
+“(1A) Where a local authority in England exercise the power to charge under subsection (1), the price they charge for an item must not exceed the cost of providing that item.”;
 
-(a) after subsection (1) insert-
+(b) in subsection (2), after “authority” insert “in Wales”.
 
-'(1A) Where a local authority in England exercise the power to charge under subsection (1), the price they charge for an item must not exceed the cost of providing that item.';
+(3) In section 533 (functions of governing bodies of maintained schools with respect to provision of school meals etc)—
 
-(b) in subsection (2), after 'authority' insert 'in Wales'.
+(a) after subsection (3) insert—
 
-- In  section  533  (functions  of  governing  bodies  of  maintained  schools  with respect to provision of school meals etc)-
+“(3A) Where the governing body of a school in England exercise the power to charge under subsection (3), the price they charge for an item must not exceed the cost of providing that item.”;
 
-(a) after subsection (3) insert-
-
-'(3A) Where the governing body of a school in England exercise the power to charge under subsection (3), the price they charge for an item must not exceed the cost of providing that item.';
-
-(b) in subsection (4), after 'school' insert 'in Wales'.
+(b) in subsection (4), after “school” insert “in Wales”.
 
 ### Admissions
 
 #### 36 Objections to admission arrangements
 
-- Section 88H of SSFA 1998 (reference of objections to adjudicator) is amended as set out in subsections (2) to (6).
+(1) Section 88H of SSFA 1998 (reference of objections to adjudicator) is amended as set out in subsections (2) to (6).
 
-- In subsection (2)-
+(2) In subsection (2)—
 
-(a) in  paragraph  (a),  for  'an  appropriate  person'  substitute  'a  body  or person';
+(a) in paragraph (a), for “an appropriate person” substitute “a body or person”;
 
-(b) after 'that' insert 'body or'.
+(b) after “that” insert “body or”.
 
-- Omit subsection (3).
+(3) Omit subsection (3).
 
-- In subsection (4) omit 'or (3)'.
+(4) In subsection (4) omit “or (3)”.
 
-- In subsection (5)-
+(5) In subsection (5)—
 
-(a) in paragraph (a)(i) omit 'or (3)';
+(a) in paragraph (a)(i) omit “or (3)”;
 
-(b) in paragraph (a)(ii) for '(3)' substitute '(2)';
+(b) in paragraph (a)(ii) for “(3)” substitute “(2)”;
 
-(c) in paragraph (c) omit 'or (3)';
+(c) in paragraph (c) omit “or (3)”;
 
-(d) in paragraph (d) omit 'or (3)'.
+(d) in paragraph (d) omit “or (3)”.
 
-- Omit subsection (6).
+(6) Omit subsection (6).
 
-- In  section  88K  of  SSFA  1998  (sections  88H  to  88J:  supplementary),  for subsection (2)(b) substitute-
+(7) In section 88K of SSFA 1998 (sections 88H to 88J: supplementary), for subsection (2)(b) substitute—
 
 '(b) any other person or body.'
 
@@ -2580,21 +2716,19 @@ Schedule 11 (establishment of new schools) has effect.
 
 [[START OF PAGE 49]]
 
-Education Act 2011 (c. 21 )
-
-Part 5 - Educational institutions: other provisions
-
+Education Act 2011 (c. 21)
+Part 5 — Educational institutions: other provisions
 43
 
 ### Governing bodies: constitution and dissolution
 
 #### 38 Constitution of governing bodies: maintained schools in England
 
-- Section 19 of EA 2002 (governing bodies) is amended as follows.
+(1) Section 19 of EA 2002 (governing bodies) is amended as follows.
 
-- After subsection (1) insert-
+(2) After subsection (1) insert—
 
-'(1A) Regulations must provide for a governing body of a maintained school in England to consist of-
+“(1A) Regulations must provide for a governing body of a maintained school in England to consist of—
 
 (a) persons elected or appointed as parent governors,
 
@@ -2604,89 +2738,87 @@ Part 5 - Educational institutions: other provisions
 
 (d) a person appointed as a local authority governor,
 
-(e) in the case of a foundation school, a foundation special school or a voluntary school, persons appointed as  foundation governors or partnership governors, and
+(e) in the case of a foundation school, a foundation special school or a voluntary school, persons appointed as foundation governors or partnership governors, and
 
-(f) such other persons as may be prescribed.'
+(f) such other persons as may be prescribed.”
 
-- In  subsection  (2),  after  'governing  body'  insert  'of  a  maintained  school  in Wales'.
+(3) In subsection (2), after “governing body” insert “of a maintained school in Wales”.
 
-- After subsection (4) insert-
+(4) After subsection (4) insert—
 
-'(4A) Regulations  made  by  virtue  of  subsection  (3)(c)  in  relation  to  a maintained  school  in  England  may  include  provision  for  eligibility criteria for the school's local authority governor to be such as may be specified by the school's governing body.
+“(4A) Regulations made by virtue of subsection (3)(c) in relation to a maintained school in England may include provision for eligibility criteria for the school’s local authority governor to be such as may be specified by the school’s governing body.
 
-(4B) Regulations  made  by  virtue  of  subsection  (3)(e)  in  relation  to  a maintained school in England may include provision allowing the head teacher  of  the  school  to  resign  from  office  as  a  governor  (and  to withdraw any such resignation).'
+(4B) Regulations made by virtue of subsection (3)(e) in relation to a maintained school in England may include provision allowing the head teacher of the school to resign from office as a governor (and to withdraw any such resignation).”
 
 #### 39 Discontinuance of federated school: governing body not to be dissolved
 
-In paragraph 5 of Schedule 1 to EA 2002 (dissolution of school governing body on discontinuance of school), after sub-paragraph (1) insert-
+In paragraph 5 of Schedule 1 to EA 2002 (dissolution of school governing body on discontinuance of school), after sub-paragraph (1) insert—
 
-'(1A) Sub-paragraph (1) does not apply if-
+“(1A) Sub-paragraph (1) does not apply if—
 
 (a) the school is a federated school in England, and
 
 (b) immediately after the discontinuance date, there will be more than one other school remaining in the federation.
 
-(1B) 'Federation'  and  'federated  school'  have  the  meanings  given  by section 24(2).'
+(1B) “Federation” and “federated school” have the meanings given by section 24(2).”
 
 ### Standards
 
 #### 40 School inspections: exempt schools
 
-- Part  1  of  EA  2005  (school  inspections  and  other  inspections  by  school inspectors) is amended as set out in subsections (2) to (8).
+(1) Part 1 of EA 2005 (school inspections and other inspections by school inspectors) is amended as set out in subsections (2) to (8).
 
-- In section 5 (duty to inspect certain schools at prescribed intervals)-
+(2) In section 5 (duty to inspect certain schools at prescribed intervals)—
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
 44
+Education Act 2011 (c. 21)
+Part 5 — Educational institutions: other provisions
 
-Education Act 2011 (c. 21 )
+(a) in subsection (2), for “subsection (3)” substitute “subsections (3) and (4A)”;
 
-Part 5 - Educational institutions: other provisions
+(b) after subsection (4), insert—
 
-(a) in  subsection (2),  for  'subsection  (3)' substitute 'subsections (3) and (4A)';
+“(4A) Regulations may provide that this section does not apply to prescribed categories of school in prescribed circumstances.
 
-(b) after subsection (4), insert-
+(4B) A school to which this section does not apply by virtue of regulations under subsection (4A) is an “exempt school”.”
 
-'(4A) Regulations  may  provide  that  this  section  does  not  apply  to prescribed categories of school in prescribed circumstances.
+(3) In section 6 (duty to notify parents of section 5 inspection), in subsection (1)—
 
-(4B) A  school  to  which  this  section  does  not  apply  by  virtue  of regulations under subsection (4A) is an 'exempt school'.'
+(a) omit “to which section 5 applies”;
 
-- In section 6 (duty to notify parents of section 5 inspection), in subsection (1)-
+(b) for “that section” substitute “section 5”.
 
-(a) omit 'to which section 5 applies';
+(4) In section 8 (other inspections), at the end insert—
 
-(b) for 'that section' substitute 'section 5'.
+“(3) If the Chief Inspector carries out an inspection of a school under subsection (2) in response to a request from the appropriate authority for the school, the Chief Inspector may charge the appropriate authority for the cost of the inspection.
 
-- In section 8 (other inspections), at the end insert-
+(4) In subsection (3), “appropriate authority” has the meaning given by section 6(3).”
 
-'(3) If  the  Chief  Inspector  carries  out  an  inspection  of  a  school  under subsection (2) in response to a request from the appropriate authority for  the  school,  the  Chief  Inspector  may  charge  the  appropriate authority for the cost of the inspection.
-
-- In  subsection  (3),  'appropriate  authority'  has  the  meaning  given  by section 6(3).'
-
-- In  section  9  (power  of  Chief  Inspector  to  treat  other  inspection  as  section  5 inspection)-
+(5) In section 9 (power of Chief Inspector to treat other inspection as section 5 inspection)—
 
 (a) the existing provision is renumbered subsection (1);
 
-(b) at the end insert-
+(b) at the end insert—
 
-'(2) In the case of an inspection of an exempt school under section 8, the  Chief  Inspector  may  elect  to  treat  the  inspection  for  the purposes of subsections (5) to (5B) and (7) of section 5, sections 6 and 7 and Chapter 2 as if it were an inspection under section 5.
+“(2) In the case of an inspection of an exempt school under section 8, the Chief Inspector may elect to treat the inspection for the purposes of subsections (5) to (5B) and (7) of section 5, sections 6 and 7 and Chapter 2 as if it were an inspection under section 5.
 
-- In the case of an inspection of an exempt school under section 8(1), the Secretary of State may require the Chief Inspector to treat the inspection for the purposes of subsections (5) to (5B) and (7) of section 5, sections 6 and 7 and Chapter 2 as if it were an inspection under section 5.
+(3) In the case of an inspection of an exempt school under section 8(1), the Secretary of State may require the Chief Inspector to treat the inspection for the purposes of subsections (5) to (5B) and (7) of section 5, sections 6 and 7 and Chapter 2 as if it were an inspection under section 5.
 
-- In the case of an inspection of a school under section 8(2) which is  carried  out  in  response  to  a  request  from  the  appropriate authority  for  the  school,  the  Chief  Inspector  must  treat  the inspection for the purposes of subsections (5) to (5B) and (7) of section  5,  sections  6  and  7  and  Chapter  2  as  if  it  were  an inspection under section 5.
+(4) In the case of an inspection of a school under section 8(2) which is carried out in response to a request from the appropriate authority for the school, the Chief Inspector must treat the inspection for the purposes of subsections (5) to (5B) and (7) of section 5, sections 6 and 7 and Chapter 2 as if it were an inspection under section 5.
 
-- In  subsection  (4),  'appropriate  authority'  has  the  meaning given by section 6(3).';
+(5) In subsection (4), “appropriate authority” has the meaning given by section 6(3).”;
 
-(c) in the heading, for 'of Chief Inspector' substitute 'or duty'.
+(c) in the heading, for “of Chief Inspector” substitute “or duty”.
 
-- In section 12 (interpretation of Chapter 1), after the definition of 'the Chief Inspector' insert-
+(6) In section 12 (interpretation of Chapter 1), after the definition of “the Chief Inspector” insert—
 
-''exempt school' has the meaning given in section 5(4B);'.
+““exempt school” has the meaning given in section 5(4B);”.
 
-- In section 15 (measures to be taken by local authority), in subsection (2C) for the words from 'in respect of' to the end substitute 'which is not treated as a section 5 inspection by virtue of section 9'.
+(7) In section 15 (measures to be taken by local authority), in subsection (2C) for the words from “in respect of” to the end substitute “which is not treated as a section 5 inspection by virtue of section 9”.
 
 [[END OF PAGE 50]]
 
@@ -2698,9 +2830,9 @@ Part 5 - Educational institutions: other provisions
 
 45
 
-- In section 17 (statement to be prepared by proprietor of school), in subsection (1D) for the words from 'in respect of' to the end substitute 'which is not treated as a section 5 inspection by virtue of section 9'.
+(8) In section 17 (statement to be prepared by proprietor of school), in subsection (1D) for the words from 'in respect of' to the end substitute 'which is not treated as a section 5 inspection by virtue of section 9'.
 
-- In section 121 of EA 2005 (parliamentary control of subordinate legislation)-
+(9) In section 121 of EA 2005 (parliamentary control of subordinate legislation)-
 
 (a) in subsection (2)(a), after 'subsection' insert '(2A) or';
 
@@ -2712,7 +2844,7 @@ Part 5 - Educational institutions: other provisions
 
 #### 41 School inspections: matters to be covered in Chief Inspector's report
 
-- In section 5 of EA 2005 (duty to inspect certain schools at prescribed intervals), for subsections (5) and (5A) (matters for report), substitute-
+(1) In section 5 of EA 2005 (duty to inspect certain schools at prescribed intervals), for subsections (5) and (5A) (matters for report), substitute-
 
 '(5) It  is  the  general  duty  of  the  Chief  Inspector,  when  conducting  an inspection  under  this  section,  to  report  on  the  quality  of  education provided in the school.
 
@@ -2736,13 +2868,13 @@ Part 5 - Educational institutions: other provisions
 
 (ii) pupils who have special educational needs.'
 
-- In  consequence  of  subsection  (1),  section  154  of  EIA  2006  (amendments  of section 5(5) of EA 2005) is repealed.
+(2) In  consequence  of  subsection  (1),  section  154  of  EIA  2006  (amendments  of section 5(5) of EA 2005) is repealed.
 
 #### 42 Inspection of further education institutions: exempt institutions
 
-- Chapter 3 of Part 8 of EIA 2006 (inspection of further education and training etc) is amended as set out in subsections (2) to (10).
+(1) Chapter 3 of Part 8 of EIA 2006 (inspection of further education and training etc) is amended as set out in subsections (2) to (10).
 
-- In section 125 (inspection of further education institutions)-
+(2) In section 125 (inspection of further education institutions)-
 
 (a) in subsection (1), at the end insert 'subject to subsection (1A)';
 
@@ -2764,13 +2896,13 @@ Part 5 - Educational institutions: other provisions
 
 (c) in subsection (2), for 'The inspections' substitute 'Inspections under subsection (1)'.
 
-- Section 126 (other inspections) is amended as set out in subsections (4) to (9).
+(3) Section 126 (other inspections) is amended as set out in subsections (4) to (9).
 
-- After subsection (1), insert-
+(4) After subsection (1), insert-
 
 '(1A) The Chief Inspector must inspect an exempt institution if requested to do so by the Secretary of State.'
 
-- After subsection (2) insert-
+(5) After subsection (2) insert-
 
 '(2A) On completing an inspection under subsection (1) or (1A) conducted in response to a request from the Secretary of State or any other person or body, the Chief Inspector must-
 
@@ -2778,21 +2910,21 @@ Part 5 - Educational institutions: other provisions
 
 (b) arrange for the report to be published in such manner as the Chief Inspector considers appropriate.'
 
-- In subsection (3), after 'this section' insert 'conducted in any other case'.
+(6) In subsection (3), after 'this section' insert 'conducted in any other case'.
 
-- In subsection (4), after 'subsection (1)' insert 'or (1A)'.
+(7) In subsection (4), after 'subsection (1)' insert 'or (1A)'.
 
-- After subsection (5) insert-
+(8) After subsection (5) insert-
 
 '(5A) In the case of an inspection conducted under subsection (1) in response to a request from the provider of the education or training concerned, the  Chief  Inspector  may  charge  the  provider  for  the  cost  of  the inspection.'
 
-- At the end, insert-
+(9) At the end, insert-
 
 '(8) In this section 'exempt institution' has the meaning given by section 125(1B).'
 
-- In section 127 (action plans), in subsection (1) at the end insert 'or (1A)'.
+(10) In section 127 (action plans), in subsection (1) at the end insert 'or (1A)'.
 
-- In section 182 of EIA 2006 (parliamentary control of orders and regulations)-
+(11) In section 182 of EIA 2006 (parliamentary control of orders and regulations)-
 
 (a) in subsection (2), after paragraph (a) insert-
 
@@ -2802,9 +2934,7 @@ Part 5 - Educational institutions: other provisions
 
 '(2A) This  subsection  applies  to  regulations  made  under  section 125(1A) (power to prescribe institutions exempt from inspection), apart from the first regulations to be made under that subsection.';
 
-(c)
-
-- in subsection (3), after paragraph (a) insert-
+(c) in subsection (3), after paragraph (a) insert-
 
 '(aa) regulations to which subsection (2A) applies,'.
 
@@ -2820,9 +2950,9 @@ Part 5 - Educational institutions: other provisions
 
 #### 43 Inspection of boarding accommodation
 
-- Part 12 of the Children Act 1989 (miscellaneous and general) is amended as follows.
+(1) Part 12 of the Children Act 1989 (miscellaneous and general) is amended as follows.
 
-- In section 87 (welfare of children in boarding schools and colleges)-
+(2) In section 87 (welfare of children in boarding schools and colleges)-
 
 (a) after subsection (1), insert-
 
@@ -2844,7 +2974,7 @@ Part 5 - Educational institutions: other provisions
 
 (e) in subsection (9A), for 'he is accommodated' substitute 'accommodation for the child is provided'.
 
-- In section 87A (suspension of duty under section 87(3))-
+(3) In section 87A (suspension of duty under section 87(3))-
 
 (a) in subsection (1)(b), for 'they are accommodated' substitute 'accommodation for the children is provided';
 
@@ -2852,15 +2982,15 @@ Part 5 - Educational institutions: other provisions
 
 '(4A) The Secretary of State may by regulations specify matters that must be taken into account in deciding whether to appoint a person  to  be  an  inspector  for  the  purposes  of  this  section  in relation to schools or colleges in England, or to terminate the appointment of such a person under subsection (4)(b).'
 
-- After section 87B insert-
+(4) After section 87B insert-
 
 ##### '87BA    Quality assurance of inspectors under section 87A
 
-- The Chief Inspector for England must, at intervals of no more than a year,  prepare  and  send  to  the  Secretary  of  State  a  report  about inspectors who are appointed under section 87A in relation to schools or colleges in England.
+(1) The Chief Inspector for England must, at intervals of no more than a year,  prepare  and  send  to  the  Secretary  of  State  a  report  about inspectors who are appointed under section 87A in relation to schools or colleges in England.
 
-- In preparing a report under this section the Chief Inspector for England must have regard to such matters as the Secretary of State may direct.
+(2) In preparing a report under this section the Chief Inspector for England must have regard to such matters as the Secretary of State may direct.
 
-- The Secretary of State may in particular give directions about-
+(3) The Secretary of State may in particular give directions about-
 
 [[END OF PAGE 53]]
 
@@ -2876,15 +3006,15 @@ Part 5 - Educational institutions: other provisions
 
 (b) the form and contents of a report.'
 
-- In section 87C (boarding schools: national minimum standards), in subsection (1), for 'in' substitute 'by'.
+(5) In section 87C (boarding schools: national minimum standards), in subsection (1), for 'in' substitute 'by'.
 
 #### 44 Schools causing concern: powers of Secretary of State
 
-- Part 4 of EIA 2006 (schools causing concern: England) is amended as follows.
+(1) Part 4 of EIA 2006 (schools causing concern: England) is amended as follows.
 
-- In  section  68  (power  of  Secretary  of  State  to  direct  closure  of  school),  in subsection (1), for 'by virtue of section 62 (school requiring special measures)' substitute 'other than by virtue of section 60A'.
+(2) In  section  68  (power  of  Secretary  of  State  to  direct  closure  of  school),  in subsection (1), for 'by virtue of section 62 (school requiring special measures)' substitute 'other than by virtue of section 60A'.
 
-- In section 69A (power of Secretary of State to direct local authority to consider giving performance standards and safety warning notice)-
+(3) In section 69A (power of Secretary of State to direct local authority to consider giving performance standards and safety warning notice)-
 
 (a) omit subsection (5);
 
@@ -2912,9 +3042,9 @@ Part 5 - Educational institutions: other provisions
 
 #### 45 Complaints: repeal of power to complain to Local Commissioner
 
-- Sections 206 to 224 of ASCLA 2009 (complaints against schools in England) are repealed.
+(1) Sections 206 to 224 of ASCLA 2009 (complaints against schools in England) are repealed.
 
-- In consequence of subsection (1)-
+(2) In consequence of subsection (1)-
 
 (a) in  section  409  of  EA  1996  (complaints  and  enforcement:  maintained schools)-
 
@@ -2960,13 +3090,13 @@ In Schedule 14 to SSFA 1998 (revision of local authority schemes), in paragraph 
 
 '(4) The Secretary of State may by a direction revise the whole or any part of a scheme maintained by a local authority in England as from such date as may be specified in the direction.
 
-- Before giving such a direction the Secretary of State must consult the local authority and such other persons as the Secretary of State thinks fit.'
+(5) Before giving such a direction the Secretary of State must consult the local authority and such other persons as the Secretary of State thinks fit.'
 
 #### 47 Payments in respect of dismissal, etc
 
-- Section 37 of EA 2002 (payments in respect of dismissal, etc) is amended as follows.
+(1) Section 37 of EA 2002 (payments in respect of dismissal, etc) is amended as follows.
 
-- After subsection (7), insert-
+(2) After subsection (7), insert-
 
 '(7A) Any amount payable by virtue of subsection (7) by the governing body of a maintained school in England to the local authority may be met by the governing body out of the school's budget share for any funding period if and to the extent that the condition in subsection (7B) is met.
 
@@ -2984,19 +3114,19 @@ Part 5 - Educational institutions: other provisions
 
 interfere with the performance of any duty imposed on them by section 21(2) or by any other provision of the Education Acts.'
 
-- In subsection (8), after 'maintained school' insert 'in Wales'.
+(3) In subsection (8), after 'maintained school' insert 'in Wales'.
 
 #### 48 Determination of permitted charges
 
-- Section 456 of EA 1996 (regulation of permitted charges) is amended as follows.
+(1) Section 456 of EA 1996 (regulation of permitted charges) is amended as follows.
 
-- In subsection (4), after paragraph (a) insert-
+(2) In subsection (4), after paragraph (a) insert-
 
 '(aa) attributable to the provision of the buildings and accommodation used in connection with the provision of the optional extra, or'.
 
-- In subsection (5), for 'subsection (6)' substitute 'subsections (6) and (6A)'.
+(3) In subsection (5), for 'subsection (6)' substitute 'subsections (6) and (6A)'.
 
-- After subsection (6), insert-
+(4) After subsection (6), insert-
 
 '(6A) Where the optional extra  in  question  consists  of  education  which  is early  years  provision  (as  defined  by  section  20  of  the  Childcare  Act 2006),  the  cost  of  its  provision  includes  the  costs,  or  an  appropriate proportion of the costs, attributable to the provision of teaching staff employed for the purpose of providing the education.'
 
@@ -3010,13 +3140,13 @@ Schedule 12 (further education institutions: amendments) has effect.
 
 #### 50 Financing of pupil referral units
 
-- Section 45 of SSFA 1998 (financing of maintained schools: maintained schools to have budget shares) is amended as follows.
+(1) Section 45 of SSFA 1998 (financing of maintained schools: maintained schools to have budget shares) is amended as follows.
 
-- In subsection (1A), omit 'or' at the end of paragraph (b), and after paragraph (c) insert ', or
+(2) In subsection (1A), omit 'or' at the end of paragraph (b), and after paragraph (c) insert ', or
 
 (d) a pupil referral unit in England.'
 
-- In subsection (3)-
+(3) In subsection (3)-
 
 (a) in paragraph (a), after 'pupil referral units' insert 'in Wales';
 
@@ -3038,17 +3168,17 @@ Part 5 - Educational institutions: other provisions
 
 #### 51 Repeal of provision changing name of pupil referral units
 
-- ASCLA 2009 is amended as set out in subsections (2) and (3).
+(1) ASCLA 2009 is amended as set out in subsections (2) and (3).
 
-- In section 249 (short stay schools: miscellaneous)-
+(2) In section 249 (short stay schools: miscellaneous)-
 
 (a) omit subsections (1) and (2) (change of name from pupil referral unit to short stay school);
 
 (b) for the heading, substitute 'Regulations about pupil referral units'.
 
-- For the italic cross-heading above section 249, substitute 'Pupil referral units'.
+(3) For the italic cross-heading above section 249, substitute 'Pupil referral units'.
 
-- In Schedule 1 to EA 1996 (pupil referral units), in paragraph 3A-
+(4) In Schedule 1 to EA 1996 (pupil referral units), in paragraph 3A-
 
 (a) in sub-paragraph (a), for 'short stay school' substitute 'pupil referral unit';
 
@@ -3066,9 +3196,9 @@ In  section  1(6)  of  AA  2010  (Academy  arrangements:  characteristics  of Ac
 
 #### 53 Academy arrangements: post-16 education and alternative provision
 
-- Section  1  of  AA  2010  (Academy  arrangements)  is  amended  as  set  out  in subsections (2) to (6).
+(1) Section  1  of  AA  2010  (Academy  arrangements)  is  amended  as  set  out  in subsections (2) to (6).
 
-- For subsection (5) substitute-
+(2) For subsection (5) substitute-
 
 '(5) The undertakings are-
 
@@ -3082,13 +3212,13 @@ In  section  1(6)  of  AA  2010  (Academy  arrangements:  characteristics  of Ac
 
 (b) to carry on, or provide for the carrying on, of the institution.'
 
-- Omit subsection (6).
+(3) Omit subsection (6).
 
-- In  subsection  (7),  for  'a  school  within  subsection  (5)(a)(i)'  substitute  'an educational institution within section 1A(1)'.
+(4) In  subsection  (7),  for  'a  school  within  subsection  (5)(a)(i)'  substitute  'an educational institution within section 1A(1)'.
 
-- In subsection (9), for 'school' (in both places) substitute 'institution'.
+(5) In subsection (9), for 'school' (in both places) substitute 'institution'.
 
-- In subsection (10), for 'A school' substitute 'An educational institution'.
+(6) In subsection (10), for 'A school' substitute 'An educational institution'.
 
 [[END OF PAGE 57]]
 
@@ -3104,7 +3234,7 @@ Part 6 - Academies
 
 ##### '1A Academy schools
 
-- An educational institution meets the requirements of this section if-
+(1) An educational institution meets the requirements of this section if-
 
 (a) it is an independent school,
 
@@ -3116,25 +3246,25 @@ Part 6 - Academies
 
 (e) it is not an alternative provision Academy (see section 1C).
 
-- An educational institution also meets the requirements of this section if-
+(2) An educational institution also meets the requirements of this section if-
 
 (a) it is an independent school, and
 
 (b) it is specially organised to make special educational provision for pupils with special educational needs.
 
-- An Academy which meets the  requirements  of  this  section  is  to  be known as an Academy school.
+(3) An Academy which meets the  requirements  of  this  section  is  to  be known as an Academy school.
 
 ##### 1B 16 to 19 Academies
 
-- An educational institution meets the requirements of this section if it is principally concerned with providing full-time or part-time education suitable to the requirements of persons over compulsory school age but under 19.
+(1) An educational institution meets the requirements of this section if it is principally concerned with providing full-time or part-time education suitable to the requirements of persons over compulsory school age but under 19.
 
-'Education'  includes  vocational,  social,  physical  and  recreational training.
+(2) 'Education'  includes  vocational,  social,  physical  and  recreational training.
 
-- An Academy which meets the  requirements  of  this  section  is  to  be known as a 16 to 19 Academy.
+(3) An Academy which meets the  requirements  of  this  section  is  to  be known as a 16 to 19 Academy.
 
 ##### 1C Alternative provision Academies
 
-- An educational institution meets the requirements of this section if-
+(1) An educational institution meets the requirements of this section if-
 
 (a) it is principally concerned with providing full-time or part-time education for children of compulsory school age who, by reason of illness, exclusion from  school or otherwise,  may  not otherwise receive suitable education for any period,
 
@@ -3142,13 +3272,13 @@ Part 6 - Academies
 
 (c) it  provides  education  for  children  who  are  wholly  or  mainly drawn from the area in which it is situated.
 
-'Suitable education', in relation to a child, means efficient education suitable  to  the  child's  age,  ability  and  aptitude  and  to  any  special educational needs the child may have.
+(2) 'Suitable education', in relation to a child, means efficient education suitable  to  the  child's  age,  ability  and  aptitude  and  to  any  special educational needs the child may have.
 
-- An Academy which meets the  requirements  of  this  section  is  to  be known as an alternative provision Academy.
+(3) An Academy which meets the  requirements  of  this  section  is  to  be known as an alternative provision Academy.
 
 ##### 1D Alternative provision Academies: powers to apply provisions with modifications
 
-- Regulations may  provide for a statutory provision relating to maintained schools or a description of maintained school, or to pupil
+(1) Regulations may  provide for a statutory provision relating to maintained schools or a description of maintained school, or to pupil
 
 [[END OF PAGE 58]]
 
@@ -3162,39 +3292,39 @@ Part 6 - Academies
 
 referral units, to apply in relation to alternative provision Academies, or  a  description  of  alternative  provision  Academy,  with  or  without modifications.
 
-- Regulations may  provide for a statutory provision relating to Academies, Academy schools or 16 to 19 Academies-
+(2) Regulations may  provide for a statutory provision relating to Academies, Academy schools or 16 to 19 Academies-
 
 (a) to  apply  in  relation  to  alternative  provision  Academies,  or  a description of alternative provision Academy, with or without modifications;
 
 (b) not to apply in relation to alternative provision Academies or a description of alternative provision Academy.
 
-- Regulations may  provide for a statutory provision relating to alternative provision Academies  or a description of alternative provision Academy-
+(3) Regulations may  provide for a statutory provision relating to alternative provision Academies  or a description of alternative provision Academy-
 
 (a) to  apply  in  relation  to  a  description  of  alternative  provision Academy, with modifications;
 
 (b) not to apply in relation to a description of alternative provision Academy.
 
-'Statutory provision' means a provision made by or under this or any other Act, whenever passed or made.'
+(4) 'Statutory provision' means a provision made by or under this or any other Act, whenever passed or made.'
 
 #### 54 Consequential amendments: 16 to 19 Academies and alternative provision Academies
 
-- Schedule  13  (16  to  19  Academies  and  alternative  provision  Academies: consequential amendments) has effect.
+(1) Schedule  13  (16  to  19  Academies  and  alternative  provision  Academies: consequential amendments) has effect.
 
-- The Secretary of State may by order make further changes in consequence of section 53 to any provision of-
+(2) The Secretary of State may by order make further changes in consequence of section 53 to any provision of-
 
 (a) an Act passed before, or in the same Session as, this Act;
 
 (b) subordinate  legislation  made  before  the  date  on  which  this  Act  is passed.
 
-'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
+(3) 'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
 
 ### Academy orders
 
 #### 55 Academy orders: involvement of religious bodies etc
 
-- Section 4 of AA 2010 (Academy orders) is amended as follows.
+(1) Section 4 of AA 2010 (Academy orders) is amended as follows.
 
-- After subsection (1), insert-
+(2) After subsection (1), insert-
 
 '(1A) Before making an Academy order under subsection (1)(b) in respect of a foundation or voluntary school that has a foundation, the Secretary of State must consult-
 
@@ -3214,7 +3344,7 @@ Education Act 2011 (c. 21 )
 
 Part 6 - Academies
 
-- In subsection (4)-
+(3) In subsection (4)-
 
 (a) at the end of paragraph (a), omit 'and';
 
@@ -3228,7 +3358,7 @@ Part 6 - Academies
 
 (iii) in  the  case  of  a  school  which  has  a  religious character, the appropriate religious body.'
 
-- In subsection (5)-
+(4) In subsection (5)-
 
 (a) at the end of paragraph (a), omit 'and';
 
@@ -3242,7 +3372,7 @@ Part 6 - Academies
 
 (iii) in  the  case  of  a  school  which  has  a  religious character, the appropriate religious body.'
 
-- At the end, insert-
+(5) At the end, insert-
 
 '(8) In this section, 'the appropriate religious body', in relation to a school, means-
 
@@ -3250,11 +3380,11 @@ Part 6 - Academies
 
 (b) in  any  other  case,  such  body  or  person  representing  the specified  religion  or  religious  denomination  as  is  prescribed under section 88F(3)(e) of SSFA 1998.
 
-- In  the  case  of  a  school  in  relation  to  which  there  is  more  than  one religion or religious denomination specified, references to 'the appropriate religious body' are to be read as references to both or all of the bodies concerned.
+(9) In  the  case  of  a  school  in  relation  to  which  there  is  more  than  one religion or religious denomination specified, references to 'the appropriate religious body' are to be read as references to both or all of the bodies concerned.
 
-- In  subsections  (8)  and  (9),  'specified'  means  specified  in  the  order under section 69(3) of SSFA 1998 relating to the school.
+(10) In  subsections  (8)  and  (9),  'specified'  means  specified  in  the  order under section 69(3) of SSFA 1998 relating to the school.
 
-- Expressions used in this section and SSFA 1998 have the same meaning as in that Act.'
+(11) Expressions used in this section and SSFA 1998 have the same meaning as in that Act.'
 
 #### 56 Academies: consultation on conversion
 
@@ -3262,35 +3392,37 @@ For section 5 of AA 2010 (consultation on conversion), substitute-
 
 ##### '5 Consultation on conversion
 
-- Before a maintained school in England is converted into an Academy, there must be a consultation on the question of whether the conversion should take place.
+(1) Before a maintained school in England is converted into an Academy, there must be a consultation on the question of whether the conversion should take place.
 
-- The consultation may take place before or after an Academy order, or an application for an Academy order, has been made in respect of the school.
+(2) The consultation may take place before or after an Academy order, or an application for an Academy order, has been made in respect of the school.
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
-Education Act 2011 (c. 21 ) Part 6 - Academies
+Education Act 2011 (c. 21 )
+
+Part 6 - Academies
 
 55
 
-- In  the  case  of  a  school  that  is  eligible  for  intervention  (within  the meaning of Part 4 of EIA 2006), the consultation may be carried out by-
+(3) In  the  case  of  a  school  that  is  eligible  for  intervention  (within  the meaning of Part 4 of EIA 2006), the consultation may be carried out by-
 
 (a) the school's governing body, or
 
 (b) a  person with whom the Secretary of State proposes to enter into  Academy  arrangements  in  respect  of  the  school  or  an educational institution that replaces it.
 
-- In any other case, the consultation must be carried out by the school's governing body.
+(4) In any other case, the consultation must be carried out by the school's governing body.
 
-- The consultation must seek the views of such persons as the person carrying it out thinks appropriate.
+(5) The consultation must seek the views of such persons as the person carrying it out thinks appropriate.
 
-- In  the  case  of  a  federated  school,  references  in  this  section  to  the governing  body  include  references  to  any  of  the  members  of  the governing body.'
+(6) In  the  case  of  a  federated  school,  references  in  this  section  to  the governing  body  include  references  to  any  of  the  members  of  the governing body.'
 
 #### 57 Academy conversions: federated schools
 
-- AA 2010 is amended as follows.
+(1) AA 2010 is amended as follows.
 
-- In section 3 (application for Academy order) after subsection (5) insert-
+(2) In section 3 (application for Academy order) after subsection (5) insert-
 
 '(6) In  the  case  of  a  federated  school,  references  in  this  section  to  the governing body include references to members of the governing body who-
 
@@ -3298,9 +3430,9 @@ Education Act 2011 (c. 21 ) Part 6 - Academies
 
 (b) consist of or include members of any prescribed description.'
 
-- In section 4 (Academy orders), in subsection (1)(a), for 'the governing body of the school make an application' substitute 'an application in respect of the school is made'.
+(3) In section 4 (Academy orders), in subsection (1)(a), for 'the governing body of the school make an application' substitute 'an application in respect of the school is made'.
 
-- In section 7 (transfer of school surpluses)-
+(4) In section 7 (transfer of school surpluses)-
 
 (a) in  subsection  (6)(a),  after  'made  available'  insert  'in  respect  of  the school';
 
@@ -3318,7 +3450,7 @@ Education Act 2011 (c. 21 ) Part 6 - Academies
 
 are to be determined in accordance with regulations.'
 
-- In section 17 (interpretation of Act), in subsection (2), after the definition of 'the conversion date' insert-
+(5) In section 17 (interpretation of Act), in subsection (2), after the definition of 'the conversion date' insert-
 
 ''federated school' has the meaning given by section 24(2) of EA 2002;'.
 
@@ -3346,9 +3478,9 @@ In section 6 of AA 2010 (effect of Academy order), after subsection (2) insert-
 
 #### 59 Transfer of property, rights and liabilities to Academies
 
-- Section 8 of AA 2010 (transfer of other property) is amended as follows.
+(1) Section 8 of AA 2010 (transfer of other property) is amended as follows.
 
-- For subsection (2) substitute-
+(2) For subsection (2) substitute-
 
 '(2) The  Secretary  of  State  may  make  a  scheme  (a  'transfer  scheme')  in relation to-
 
@@ -3356,59 +3488,61 @@ In section 6 of AA 2010 (effect of Academy order), after subsection (2) insert-
 
 (b) rights and liabilities (including rights and liabilities in relation to staff) of the local authority or the governing body which were acquired or incurred for the purposes of the school.'
 
-- In  subsections  (3)  to  (10),  for  'property  transfer  scheme'  (in  each  place) substitute 'transfer scheme'.
+(3) In  subsections  (3)  to  (10),  for  'property  transfer  scheme'  (in  each  place) substitute 'transfer scheme'.
 
-- In  subsection  (4),  for  'the  proprietor  of  the  Academy'  substitute  'a  person concerned with the running of the Academy'.
+(4) In  subsection  (4),  for  'the  proprietor  of  the  Academy'  substitute  'a  person concerned with the running of the Academy'.
 
-- For  the  heading  substitute  'Transfer  schemes:  other  property,  rights  and liabilities'.
+(5) For  the  heading  substitute  'Transfer  schemes:  other  property,  rights  and liabilities'.
 
 ### Academies: other provisions
 
 #### 60 Academies: new and expanded educational institutions
 
-- For section 9 of AA 2010 (impact: additional schools) substitute-
+(1) For section 9 of AA 2010 (impact: additional schools) substitute-
 
 ##### '9 Impact: new and expanded educational institutions
 
-- This section applies if the Secretary of State is deciding whether to enter into Academy arrangements in relation to-
+(1) This section applies if the Secretary of State is deciding whether to enter into Academy arrangements in relation to-
 
 (a) a new educational institution, or
 
 (b) an existing educational institution that, if the arrangements are entered into, will provide education for pupils of a wider range of ages.
 
-- The  Secretary  of  State  must  take  into  account  what  the  impact  of entering into the arrangements would be likely to be on maintained schools,  Academies,  institutions  within  the  further  education  sector and  alternative  provision  in  the  area  in  which  the  institution  is proposed to be, or is, situated.
+(2) The  Secretary  of  State  must  take  into  account  what  the  impact  of entering into the arrangements would be likely to be on maintained schools,  Academies,  institutions  within  the  further  education  sector and  alternative  provision  in  the  area  in  which  the  institution  is proposed to be, or is, situated.
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
 
-Education Act 2011 (c. 21 ) Part 6 - Academies
+Education Act 2011 (c. 21 )
+
+Part 6 - Academies
 
 57
 
-- An educational institution is not new for the purposes of this section if-
+(3) An educational institution is not new for the purposes of this section if-
 
 (a) it replaces one or more maintained schools, Academies or sixth form colleges that have been or are to be discontinued, and
 
 (b) it provides education for persons of the same range of ages as the institution it replaces (or, as the case may be, the institutions it replaces, taken together).
 
-'Alternative provision' means educational provision for which a local authority  has  made  arrangements  under  section  19  of  EA  1996 (exceptional provision of education in pupil referral units or elsewhere).'
+(4) 'Alternative provision' means educational provision for which a local authority  has  made  arrangements  under  section  19  of  EA  1996 (exceptional provision of education in pupil referral units or elsewhere).'
 
-- For section 10 of AA 2010 (consultation: additional schools) substitute-
+(2) For section 10 of AA 2010 (consultation: additional schools) substitute-
 
 ##### '10 Consultation: new and expanded educational institutions
 
-- This section applies before a person enters into Academy arrangements with the Secretary of State in relation to-
+(1) This section applies before a person enters into Academy arrangements with the Secretary of State in relation to-
 
 (a) a  new  educational  institution,  other  than  a  new  educational institution that is the subject of proposals under section 7 of EIA 2006  (proposals  to  establish  new  school  following  invitation from local authority), or
 
 (b) an existing educational institution that, if the arrangements are entered into, will provide education for pupils of a wider range of ages.
 
-- The person must carry out a consultation on the question of whether the arrangements should be entered into.
+(2) The person must carry out a consultation on the question of whether the arrangements should be entered into.
 
-- The consultation must seek the views of such persons as the person carrying it out thinks appropriate.
+(3) The consultation must seek the views of such persons as the person carrying it out thinks appropriate.
 
-- Section  9(3)  (when  educational  institution  not  new)  applies  for  the purposes of this section.'
+(4) Section  9(3)  (when  educational  institution  not  new)  applies  for  the purposes of this section.'
 
 #### 61 Charges at boarding Academies
 
@@ -3416,15 +3550,15 @@ After section 10 of AA 2010 insert-
 
 ##### '10A Charges at boarding Academies
 
-- This section applies where-
+(1) This section applies where-
 
 (a) a registered pupil at an Academy is provided with board and lodging at the Academy, and
 
 (b) the  local  authority  for  the  pupil's  area  is  satisfied  that  either condition A or condition B is met.
 
-- Condition A is that education suitable to the pupil's age, ability and aptitude,  and  to  any  special  educational  needs  the  pupil  may  have, cannot otherwise be provided for the pupil.
+(2) Condition A is that education suitable to the pupil's age, ability and aptitude,  and  to  any  special  educational  needs  the  pupil  may  have, cannot otherwise be provided for the pupil.
 
-- Condition B is that payment of the full amount of the charges in respect of  the  board  and  lodging  would  involve  financial  hardship  to  the pupil's parent.
+(3) Condition B is that payment of the full amount of the charges in respect of  the  board  and  lodging  would  involve  financial  hardship  to  the pupil's parent.
 
 [[END OF PAGE 63]]
 
@@ -3436,23 +3570,23 @@ Education Act 2011 (c. 21 )
 
 Part 6 - Academies
 
-- If the authority is satisfied that condition A is met, the authority must pay the full amount of the charges in respect of the board and lodging to the proprietor of the Academy.
+(4) If the authority is satisfied that condition A is met, the authority must pay the full amount of the charges in respect of the board and lodging to the proprietor of the Academy.
 
-- If the authority is satisfied that condition B is met, the authority must pay to the proprietor of the Academy so much of the charges in respect of the board and lodging as, in the opinion of the authority, is needed to avoid financial hardship to the pupil's parent.
+(5) If the authority is satisfied that condition B is met, the authority must pay to the proprietor of the Academy so much of the charges in respect of the board and lodging as, in the opinion of the authority, is needed to avoid financial hardship to the pupil's parent.
 
-- The  proprietor  of  the  Academy  must  remit  the  charges  that  would otherwise be payable by the pupil's parent, to the extent that it receives a payment from the local authority in respect of those charges under subsection (4) or (5).'
+(6) The  proprietor  of  the  Academy  must  remit  the  charges  that  would otherwise be payable by the pupil's parent, to the extent that it receives a payment from the local authority in respect of those charges under subsection (4) or (5).'
 
 #### 62 Staff at Academies with religious character
 
-- Part 5A of SSFA 1998 (employment of teachers at independent schools having a religious character) is amended as set out in subsections (2) and (3).
+(1) Part 5A of SSFA 1998 (employment of teachers at independent schools having a religious character) is amended as set out in subsections (2) and (3).
 
-- In  section  124A  (employment  of  teachers  at  independent  schools  having  a religious  character),  in  subsection  (1),  at  the  end  insert  ',  other  than  an Academy to which section 124AA applies'.
+(2) In  section  124A  (employment  of  teachers  at  independent  schools  having  a religious  character),  in  subsection  (1),  at  the  end  insert  ',  other  than  an Academy to which section 124AA applies'.
 
-- After section 124A, insert-
+(3) After section 124A, insert-
 
 ##### '124AA     Staff at certain Academies with religious character
 
-- This section applies if-
+(1) This section applies if-
 
 (a) an Academy order has been made in respect of a foundation or voluntary controlled school which is designated by order under section 69(3) as a school having a religious character,
 
@@ -3460,17 +3594,17 @@ Part 6 - Academies
 
 (c) the Secretary of State has not made an order in respect of the school under subsection (2).
 
-- The Secretary of State may by order provide that this section does not apply to a school specified in the order.
+(2) The Secretary of State may by order provide that this section does not apply to a school specified in the order.
 
-- Where there are more than two teachers at the Academy, the teachers must include persons who-
+(3) Where there are more than two teachers at the Academy, the teachers must include persons who-
 
 (a) are selected for their fitness and competence to give religious education in accordance with the tenets of the religion or the religious denomination specified in relation to the Academy in the order under section 69(3) (as applied by section 6(8) of the Academies Act 2010), and
 
 (b) are specifically appointed to do so.
 
-- A teacher employed or engaged at the Academy in pursuance of this subsection  is  a  'reserved  teacher',  and  any  other  teacher  at  the Academy is a 'non-reserved teacher'.
+A teacher employed or engaged at the Academy in pursuance of this subsection  is  a  'reserved  teacher',  and  any  other  teacher  at  the Academy is a 'non-reserved teacher'.
 
-- The number of reserved teachers in the Academy must not exceed onefifth of the total number of teachers, including the principal (and for this purpose, where the total number of teachers is not a multiple of five, it is to be treated as if it were the next higher multiple of five).
+(4) The number of reserved teachers in the Academy must not exceed one-fifth of the total number of teachers, including the principal (and for this purpose, where the total number of teachers is not a multiple of five, it is to be treated as if it were the next higher multiple of five).
 
 [[END OF PAGE 64]]
 
@@ -3482,9 +3616,9 @@ Part 6 - Academies
 
 59
 
-- In connection with the appointment of a person to be the principal of the  Academy,  in  a  case  where  the  principal  is  not  to  be  a  reserved teacher,  regard  may  be  had  to  that  person's  ability  and  fitness  to preserve and develop the religious character of the Academy.
+(5) In connection with the appointment of a person to be the principal of the  Academy,  in  a  case  where  the  principal  is  not  to  be  a  reserved teacher,  regard  may  be  had  to  that  person's  ability  and  fitness  to preserve and develop the religious character of the Academy.
 
-- Preference may  be  given, in  connection  with  the  appointment, promotion or remuneration of reserved teachers at the Academy, to persons-
+(6) Preference may  be  given, in  connection  with  the  appointment, promotion or remuneration of reserved teachers at the Academy, to persons-
 
 (a) whose religious opinions are in accordance with the tenets of the religion or the religious denomination specified in relation to the Academy in the order under section 69(3) (as applied by section 6(8) of the Academies Act 2010), or
 
@@ -3492,23 +3626,23 @@ Part 6 - Academies
 
 (c) who  give,  or  are  willing  to  give,  religious  education  at  the Academy in accordance with those tenets.
 
-- Regard may be had, in connection with the termination of employment or engagement of any reserved teacher at the Academy, to any conduct on the part of the teacher which is incompatible with the precepts, or with the upholding  of the tenets, of the religion or religious denomination specified in the order under section 69(3) (as applied by section 6(8) of the Academies Act 2010).
+(7) Regard may be had, in connection with the termination of employment or engagement of any reserved teacher at the Academy, to any conduct on the part of the teacher which is incompatible with the precepts, or with the upholding  of the tenets, of the religion or religious denomination specified in the order under section 69(3) (as applied by section 6(8) of the Academies Act 2010).
 
-- No person, other than a reserved teacher, is to be disqualified by reason of their religious opinions, or of their attending or omitting to attend religious worship-
+(8) No person, other than a reserved teacher, is to be disqualified by reason of their religious opinions, or of their attending or omitting to attend religious worship-
 
 (a) from being a teacher at the Academy, or
 
 (b) from  being  employed  or  engaged  for  the  purposes  of  the Academy otherwise than as a teacher.
 
-- A  non-reserved  teacher  must  not  be  required  to  give  religious education.
+(9) A  non-reserved  teacher  must  not  be  required  to  give  religious education.
 
-- A non-reserved teacher must not receive any less remuneration than any other non-reserved teacher, or be deprived of, or disqualified for, any  promotion  or  other  advantage  available  to  other  non-reserved teachers-
+(10) A non-reserved teacher must not receive any less remuneration than any other non-reserved teacher, or be deprived of, or disqualified for, any  promotion  or  other  advantage  available  to  other  non-reserved teachers-
 
 (a) for the reason that the teacher gives, or does not give, religious education, or
 
 (b) for reasons related to the teacher's religious opinions or to the teacher's attending or omitting to attend religious worship.'
 
-- In consequence of the amendments made by subsections (2) and (3)-
+(4) In consequence of the amendments made by subsections (2) and (3)-
 
 (a) in  the  title  to  Part  5A  of  SSFA  1998,  for  'Employment  of  Teachers' substitute 'Teachers and Staff';
 
@@ -3534,9 +3668,9 @@ Schedule 14 (Academies: land) has effect.
 
 #### 64 Academy admissions arrangements: references to adjudicator
 
-- Chapter 1 of Part 3 of SSFA 1998 (school admissions: admission arrangements) is amended as follows.
+(1) Chapter 1 of Part 3 of SSFA 1998 (school admissions: admission arrangements) is amended as follows.
 
-- In section 88 (admission authorities and admission arrangements)-
+(2) In section 88 (admission authorities and admission arrangements)-
 
 (a) in subsection (1), omit the 'and' at the end of paragraph (a);
 
@@ -3546,11 +3680,11 @@ Schedule 14 (Academies: land) has effect.
 
 (c) in subsection (2), omit 'maintained'.
 
-- In  section  88H  (reference  of  objections  to  adjudicator),  after  subsection  (1) insert-
+(3) In  section  88H  (reference  of  objections  to  adjudicator),  after  subsection  (1) insert-
 
 '(1A) This  section  also  applies  where  admission  arrangements  for  an Academy  have  been  determined  by  the  proprietor  of  an  Academy under Academy arrangements.'
 
-- In section 88I (other functions of adjudicator relating to admission arrangements), in subsection (1)-
+(4) In section 88I (other functions of adjudicator relating to admission arrangements), in subsection (1)-
 
 (a) after 'determined' insert '-
 
@@ -3560,7 +3694,7 @@ Schedule 14 (Academies: land) has effect.
 
 (b) by an admission authority for an Academy.'
 
-- In section 88K (sections 88H and 88I: supplementary)-
+(5) In section 88K (sections 88H and 88I: supplementary)-
 
 (a) in subsection (4)(a), after 'England' insert 'or an Academy';
 
@@ -3596,11 +3730,11 @@ Sections  60  to  80  of,  and  Schedule  3  to,  ASCLA  2009  (the  Young  Peop
 
 #### 67 Abolition of the YPLA: consequential amendments
 
-- Schedule 16 (abolition of the YPLA: consequential amendments) has effect.
+(1) Schedule 16 (abolition of the YPLA: consequential amendments) has effect.
 
-- The Secretary of State may by order make further changes in consequence of section 66 to any provision of subordinate legislation made before the date on which this Act is passed.
+(2) The Secretary of State may by order make further changes in consequence of section 66 to any provision of subordinate legislation made before the date on which this Act is passed.
 
-'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
+(3) 'Subordinate  legislation'  has  the  meaning  given  by  section  21(1)  of  the Interpretation Act 1978.
 
 #### 68 Abolition of the YPLA: transfer schemes
 
@@ -3610,21 +3744,21 @@ Schedule 17 (schemes for the transfer of staff, property, rights and liabilities
 
 #### 69 The apprenticeship offer
 
-- ASCLA 2009 is amended as follows.
+(1) ASCLA 2009 is amended as follows.
 
-- After section 83 insert-
+(2) After section 83 insert-
 
 ##### '83A The apprenticeship offer
 
-- The Chief Executive must secure the provision of proper facilities for apprenticeship training that is suitable to the requirements of persons who-
+(1) The Chief Executive must secure the provision of proper facilities for apprenticeship training that is suitable to the requirements of persons who-
 
 (a) are within subsection (4), (5) or (6), and
 
 (b) have an apprenticeship opportunity. This is subject to section 83B (limit on scope of apprenticeship offer).
 
-- The duty imposed by subsection (1) is referred to in this section and section 83B as 'the apprenticeship offer'.
+(2) The duty imposed by subsection (1) is referred to in this section and section 83B as 'the apprenticeship offer'.
 
-- An apprenticeship opportunity is an opportunity to-
+(3) An apprenticeship opportunity is an opportunity to-
 
 (a) enter into an apprenticeship agreement,
 
@@ -3646,45 +3780,45 @@ Part 7 - Post-16 education and training
 
 (ii) in connection with which training will be provided in accordance with an apprenticeship framework.
 
-- A person within this subsection is one who is over compulsory school age but under 19.
+(4) A person within this subsection is one who is over compulsory school age but under 19.
 
-- A person within this subsection is one who is not within subsection (4) and-
+(5) A person within this subsection is one who is not within subsection (4) and-
 
 (a) is a person aged under 21 towards whom a local authority in England  has  the  duties  provided  for  in  section  23C  of  the Children Act 1989 (continuing functions in relation to certain formerly looked after children), or
 
 (b) is a person to whom section 23CA of that Act applies (further assistance for certain formerly looked after children aged under 25),  in  relation  to  whom  a  local  authority  in  England  is  the responsible local authority (within the meaning of that section).
 
-- A person within this subsection is one who-
+(6) A person within this subsection is one who-
 
 (a) is not within subsection (4), and
 
 (b) is of a prescribed description.
 
-- If regulations under subsection (6)(b) describe a person by reference to an age or an age range, the age, or the upper age of the age range, must be less than 25.
+(7) If regulations under subsection (6)(b) describe a person by reference to an age or an age range, the age, or the upper age of the age range, must be less than 25.
 
-- Facilities are proper if they are-
+(8) Facilities are proper if they are-
 
 (a) of  a  quantity  sufficient  to  meet  the  reasonable  needs  of individuals, and
 
 (b) of a quality adequate to meet those needs.
 
-- Section  83(2)  and  (3)  (when  apprenticeship  training  is  suitable,  and matters  to  which  Chief  Executive  must  have  regard)  apply  for  the purposes of the apprenticeship offer.
+(9) Section  83(2)  and  (3)  (when  apprenticeship  training  is  suitable,  and matters  to  which  Chief  Executive  must  have  regard)  apply  for  the purposes of the apprenticeship offer.
 
-- In complying with the apprenticeship offer the Chief Executive must make the best use of the Chief Executive's resources.
+(10) In complying with the apprenticeship offer the Chief Executive must make the best use of the Chief Executive's resources.
 
-- In this section 'apprenticeship framework' has the meaning given by section 12.
+(11) In this section 'apprenticeship framework' has the meaning given by section 12.
 
-- The Secretary of State may by order amend this section for the purpose of changing the descriptions of persons to whom the apprenticeship offer applies.
+(12) The Secretary of State may by order amend this section for the purpose of changing the descriptions of persons to whom the apprenticeship offer applies.
 
 ##### 83B Limit on scope of the apprenticeship offer
 
-- The  Chief  Executive  is  not  required  by  the  apprenticeship  offer  to secure  the  provision  of  facilities  for  apprenticeship  training  at  a particular level for a person who-
+(1) The  Chief  Executive  is  not  required  by  the  apprenticeship  offer  to secure  the  provision  of  facilities  for  apprenticeship  training  at  a particular level for a person who-
 
 (a) has already completed an English apprenticeship in relation to an apprenticeship framework at that level, or
 
 (b) holds an apprenticeship certificate at that level.
 
-- For the purposes of this section apprenticeship training is at a particular level  if  it  might  reasonably  be  expected  to  lead  to  the  issue  of  an apprenticeship certificate at that level.
+(2) For the purposes of this section apprenticeship training is at a particular level  if  it  might  reasonably  be  expected  to  lead  to  the  issue  of  an apprenticeship certificate at that level.
 
 [[END OF PAGE 68]]
 
@@ -3696,21 +3830,21 @@ Part 7 - Post-16 education and training
 
 63
 
-- The following provisions of Chapter 1 of Part 1 apply for the purposes of this section-
+(3) The following provisions of Chapter 1 of Part 1 apply for the purposes of this section-
 
 section 1 (meaning of 'completing an English apprenticeship'); section 12 (meaning of apprenticeship framework and level of an apprenticeship framework).
 
-- In  this  section  'apprenticeship  certificate'  means  an  apprenticeship certificate issued under section 3 or 4.
+(4) In  this  section  'apprenticeship  certificate'  means  an  apprenticeship certificate issued under section 3 or 4.
 
-- A reference in this section to an apprenticeship certificate at any level includes  a  reference  to  a  certificate  or  other  evidence  (including  a certificate awarded or evidence provided by a person outside England) which appears to the Chief Executive to be evidence of experience and attainment at a comparable or higher level.'
+(5) A reference in this section to an apprenticeship certificate at any level includes  a  reference  to  a  certificate  or  other  evidence  (including  a certificate awarded or evidence provided by a person outside England) which appears to the Chief Executive to be evidence of experience and attainment at a comparable or higher level.'
 
-- Schedule 18 (consequential amendments) has effect.
+(3) Schedule 18 (consequential amendments) has effect.
 
 #### 70 Securing the provision of apprenticeship training
 
-- Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) is amended as follows.
+(1) Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) is amended as follows.
 
-- In  section  85  (encouragement  of  training  provision  etc  for  persons  within section 83)-
+(2) In  section  85  (encouragement  of  training  provision  etc  for  persons  within section 83)-
 
 (a) for subsection (1)(a) substitute-
 
@@ -3722,17 +3856,17 @@ section 1 (meaning of 'completing an English apprenticeship'); section 12 (meani
 
 (d) in  the  heading,  for  'Encouragement  of  training  provision  etc  for persons  within  section  83'  substitute  'Provision  of  apprenticeship training etc for persons within section 83 or 83A'.
 
-- In section 118 (guidance by Secretary of State), after subsection (1) insert-
+(3) In section 118 (guidance by Secretary of State), after subsection (1) insert-
 
 '(1A) Guidance  under this section must  include guidance about the performance by the Chief Executive of the duty imposed by section 85(1)(a).'
 
 #### 71 Apprenticeship certificates
 
-- ASCLA 2009 is amended as follows.
+(1) ASCLA 2009 is amended as follows.
 
-- In section 5 (issue of certificates by the English certifying authority: supplementary), in subsection (3), for the words from 'the English certifying authority' to the end substitute 'a person supplying a copy of  an apprenticeship certificate to charge a fee for doing so.'
+(2) In section 5 (issue of certificates by the English certifying authority: supplementary), in subsection (3), for the words from 'the English certifying authority' to the end substitute 'a person supplying a copy of  an apprenticeship certificate to charge a fee for doing so.'
 
-- For  section  6  (apprenticeship  certificates:  the  English  certifying  authority)
+(3) For  section  6  (apprenticeship  certificates:  the  English  certifying  authority)
 
 [[END OF PAGE 69]]
 
@@ -3748,7 +3882,7 @@ substitute-
 
 ##### '6 The English certifying authority
 
-- In  this  Chapter,  the  'English  certifying  authority',  in  relation  to  an apprenticeship certificate of any description, means-
+(1) In  this  Chapter,  the  'English  certifying  authority',  in  relation  to  an apprenticeship certificate of any description, means-
 
 (a) the person (if any) designated by the Secretary of State under this section to issue apprenticeship certificates of that description;
 
@@ -3756,17 +3890,17 @@ substitute-
 
 (c) if there is no-one within paragraph (a) or (b), the Secretary of State.
 
-- The power conferred by subsection (1)(a) must be exercised so as to secure  that,  at  any  time,  only  one  person  is  designated  to  issue apprenticeship  certificates  relating  to  a  particular  apprenticeship sector.
+(2) The power conferred by subsection (1)(a) must be exercised so as to secure  that,  at  any  time,  only  one  person  is  designated  to  issue apprenticeship  certificates  relating  to  a  particular  apprenticeship sector.
 
-- A  person  designated  under  this  section  to  issue  apprenticeship certificates must, in exercising functions under this Chapter-
+(3) A  person  designated  under  this  section  to  issue  apprenticeship certificates must, in exercising functions under this Chapter-
 
 (a) comply with directions given by the Secretary of State, and
 
 (b) have regard to guidance given by the Secretary of State.
 
-- A designation under this section may be amended or revoked by the Secretary of State.'
+(4) A designation under this section may be amended or revoked by the Secretary of State.'
 
-- In  section  39(1)  (interpretation  of  Chapter  1  of  Part  1)  for  the  definition  of 'English certifying authority' substitute-
+(4) In  section  39(1)  (interpretation  of  Chapter  1  of  Part  1)  for  the  definition  of 'English certifying authority' substitute-
 
 ''English  certifying  authority',  in  relation  to  an  apprenticeship certificate of any description, has the meaning given by section 6(1);'.
 
@@ -3778,9 +3912,9 @@ In Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) after section 11
 
 ##### '118A Directions: consultation
 
-- The  Secretary  of  State  may  direct  the  Chief  Executive  to  carry  out consultation in connection with matters related to the performance of any of the functions of the office.
+(1) The  Secretary  of  State  may  direct  the  Chief  Executive  to  carry  out consultation in connection with matters related to the performance of any of the functions of the office.
 
-- A direction under this section may (in particular) specify-
+(2) A direction under this section may (in particular) specify-
 
 (a) the persons, or descriptions of persons, to be consulted;
 
@@ -3788,7 +3922,7 @@ In Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) after section 11
 
 #### 73 Functions of the Chief Executive of Skills Funding
 
-- Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) is amended as follows.
+(1) Part 4 of ASCLA 2009 (the Chief Executive of Skills Funding) is amended as follows.
 
 [[END OF PAGE 70]]
 
@@ -3800,7 +3934,7 @@ Part 7 - Post-16 education and training
 
 65
 
-- In section 88 (learning aims for persons aged 19 or over: payment of tuition fees)-
+(2) In section 88 (learning aims for persons aged 19 or over: payment of tuition fees)-
 
 (a) in subsection (1), for 'paragraph 1' substitute 'paragraph 1(a) or (b)';
 
@@ -3810,7 +3944,7 @@ Part 7 - Post-16 education and training
 
 (c) in subsection (4)(a), for '25' substitute '24'.
 
-- Sections 112 to 114 (Secretary of State's power to specify bodies to formulate strategy for the Chief Executive) are repealed.
+(3) Sections 112 to 114 (Secretary of State's power to specify bodies to formulate strategy for the Chief Executive) are repealed.
 
 ### Raising the participation age: commencement
 
@@ -3824,7 +3958,7 @@ In  section  173  of  ESA  2008  (commencement),  for  subsections  (9)  and  (1
 
 (b) section 29(1)(b) (employer to enable participation in education or training: extension for persons reaching 18).
 
-- The Secretary of State must-
+(10) The Secretary of State must-
 
 (a) exercise the powers conferred by subsections (4) and (9) so as to secure that sections 1 to 10 are in force with the substitution in section 1(b) mentioned in subsection (9) no later than the day after the day which is the school leaving date for 2013, and
 
@@ -3838,7 +3972,7 @@ subject, in each case, to any provision made by virtue of subsection (8).'
 
 #### 75 Direct payments: persons with special educational needs or subject to learning difficulty assessment
 
-- In Chapter 2 of Part 9 of EA 1996 (ancillary functions of local authorities) after
+(1) In Chapter 2 of Part 9 of EA 1996 (ancillary functions of local authorities) after
 
 [[END OF PAGE 71]]
 
@@ -3856,7 +3990,7 @@ section 532 insert-
 
 ###### 532A Persons with special educational needs or subject to learning difficulty assessment
 
-- A local authority in England may make a payment (a 'direct payment') for  the  purpose of securing the provision of any goods and services mentioned in subsection (2) to a person ('the beneficiary')-
+(1) A local authority in England may make a payment (a 'direct payment') for  the  purpose of securing the provision of any goods and services mentioned in subsection (2) to a person ('the beneficiary')-
 
 (a) for  whom  the  authority  maintain  a  statement  of  special educational needs under section 324, or
 
@@ -3864,7 +3998,7 @@ section 532 insert-
 
 This power is subject to subsection (3).
 
-- The goods and services referred to in subsection (1) are-
+(2) The goods and services referred to in subsection (1) are-
 
 (a) where  the  beneficiary is within  subsection (1)(a), special educational  provision  specified  in  the  statement  of  special educational needs;
 
@@ -3872,15 +4006,15 @@ This power is subject to subsection (3).
 
 (c) transport or anything else that may  be the subject of arrangements  under  section  508B(1),  508F(1)  or  509AA(7)(b) that apply in relation to the beneficiary.
 
-- A direct payment may be made only in accordance with a pilot scheme made under section 532B.
+(3) A direct payment may be made only in accordance with a pilot scheme made under section 532B.
 
 ###### 532B Pilot schemes
 
-- The Secretary of State may by order make pilot schemes in accordance with which direct payments may be made under section 532A.
+(1) The Secretary of State may by order make pilot schemes in accordance with which direct payments may be made under section 532A.
 
-- Subject to the following provisions of this section, a pilot scheme may include such provision as the Secretary of State thinks appropriate.
+(2) Subject to the following provisions of this section, a pilot scheme may include such provision as the Secretary of State thinks appropriate.
 
-- A pilot scheme must include provision about-
+(3) A pilot scheme must include provision about-
 
 (a) circumstances  in  which,  and  the  descriptions  of  goods  and services in respect of which, direct payments may (or may not) be made;
 
@@ -3912,25 +4046,25 @@ Part 8 - Direct payments
 
 (j) treating  such  support  to  any  extent  as  goods  or  services  in respect of which direct payments may be made.
 
-- The conditions referred to in subsection (3)(c)-
+(4) The conditions referred to in subsection (3)(c)-
 
 (a) must include a requirement to obtain the written consent of the person to whom a direct payment is to be made before making the payment;
 
 (b) may include a requirement to obtain the written consent of one or more other persons before making a direct payment.
 
-- The  circumstances  referred  to  in  subsection  (3)(f)  in  which  a  local authority must stop making direct payments must include where the consent required by virtue of subsection (4)(a), or any consent required by virtue of subsection (4)(b), is withdrawn.
+(5) The  circumstances  referred  to  in  subsection  (3)(f)  in  which  a  local authority must stop making direct payments must include where the consent required by virtue of subsection (4)(a), or any consent required by virtue of subsection (4)(b), is withdrawn.
 
-- A pilot scheme must include provision for a sum required to be repaid to a local authority by virtue of the scheme to be recoverable as a debt due to the authority.
+(6) A pilot scheme must include provision for a sum required to be repaid to a local authority by virtue of the scheme to be recoverable as a debt due to the authority.
 
-- A  pilot  scheme  may  provide  for  paid-for  goods  and  services  to  be treated as goods and services provided or arranged by a local authority in pursuance of a statutory duty specified in the scheme.
+(7) A  pilot  scheme  may  provide  for  paid-for  goods  and  services  to  be treated as goods and services provided or arranged by a local authority in pursuance of a statutory duty specified in the scheme.
 
-- A  pilot  scheme  may  provide  for  paid-for  goods  and  services  to  be treated in that way-
+(8) A  pilot  scheme  may  provide  for  paid-for  goods  and  services  to  be treated in that way-
 
 (a) to the extent set out in the scheme, and
 
 (b) subject to any conditions set out in the scheme.
 
-- The only statutory duties that may be specified are-
+(9) The only statutory duties that may be specified are-
 
 (a) section 324(5)(a)(i) (duty to arrange special educational provision specified in statement of special educational needs);
 
@@ -3940,7 +4074,7 @@ Part 8 - Direct payments
 
 (d) section  509AA(7)(b)  (duty  to  make,  and  secure  that  effect  is given to, arrangements for provision of transport etc for persons of sixth form age).
 
-'Paid-for  goods  and  services'  are  goods  and  services  acquired  by means of a direct payment.
+(10) 'Paid-for  goods  and  services'  are  goods  and  services  acquired  by means of a direct payment.
 
 [[END OF PAGE 73]]
 
@@ -3954,21 +4088,21 @@ Part 8 - Direct payments
 
 ###### 532C Pilot schemes: local authorities and duration
 
-- An order under section 532B(1) making a pilot scheme must specify-
+(1) An order under section 532B(1) making a pilot scheme must specify-
 
 (a) the local authorities in respect of which the scheme operates, and
 
 (b) the period for which the scheme has effect.
 
-- The  period  specified  under  subsection  (1)(b)  must  not  exceed  two years, subject to subsection (3).
+(2) The  period  specified  under  subsection  (1)(b)  must  not  exceed  two years, subject to subsection (3).
 
-- An order under section 532B(1) may extend the period for which a pilot scheme has effect, subject to subsection (4).
+(3) An order under section 532B(1) may extend the period for which a pilot scheme has effect, subject to subsection (4).
 
-- The period for which a pilot scheme has effect may not be extended so as to end after the end of the relevant four year period.
+(4) The period for which a pilot scheme has effect may not be extended so as to end after the end of the relevant four year period.
 
-'The relevant four year period' is the period of four years beginning with the day on which the Education Act 2011 is passed.'
+(5) 'The relevant four year period' is the period of four years beginning with the day on which the Education Act 2011 is passed.'
 
-- In section 568 of EA 1996 (orders)-
+(2) In section 568 of EA 1996 (orders)-
 
 (a) in subsection (3), after 'other than' insert 'an order to which subsection (3A) applies or';
 
@@ -3976,7 +4110,7 @@ Part 8 - Direct payments
 
 '(3A) A  statutory  instrument  which  contains  (alone  or  with  other provision)  an  order  under  section  532B(1)  (direct  payments: pilot schemes) may not be made unless a draft of the instrument has  been  laid  before,  and  approved  by  a  resolution  of,  each House of Parliament.'
 
-- The provisions inserted into EA 1996 by subsections (1) and (2) are repealed at the end of four years beginning with the day on which this Act is passed.
+(3) The provisions inserted into EA 1996 by subsections (1) and (2) are repealed at the end of four years beginning with the day on which this Act is passed.
 
 ## PART 9
 
@@ -3984,7 +4118,7 @@ Part 8 - Direct payments
 
 #### 76 Student loans: interest rates
 
-- In section 22 of THEA 1998 (financial support for students), in subsection (4) (interest  rates  on  loans),  for  paragraph  (a)  (but  not  the  'and'  after  it) substitute-
+(1) In section 22 of THEA 1998 (financial support for students), in subsection (4) (interest  rates  on  loans),  for  paragraph  (a)  (but  not  the  'and'  after  it) substitute-
 
 '(a) the  rates  prescribed  by  regulations  made  in  pursuance  of subsection (3)(a) must be-
 
@@ -3992,7 +4126,7 @@ Part 8 - Direct payments
 
 (ii) no higher than those prevailing on the market, where the other terms on which such loans are provided are more favourable to borrowers than those prevailing on the market;'.
 
-- In consequence of subsection (1)-
+(2) In consequence of subsection (1)-
 
 (a) in section 22 of THEA 1998, omit subsections (8) and (9);
 
@@ -4002,15 +4136,15 @@ Part 8 - Direct payments
 
 [[START OF PAGE 75]]
 
-Education Act 2011 (c. 21 Part 9 - Student finance
+Education Act 2011 (c. 21 )
 
-)
+Part 9 - Student finance
 
 69
 
-- This section applies in relation to a student who begins a course on or after 1 September 2012, except in such circumstances as may be prescribed.
+(3) This section applies in relation to a student who begins a course on or after 1 September 2012, except in such circumstances as may be prescribed.
 
-- In subsection (3) 'prescribed'-
+(4) In subsection (3) 'prescribed'-
 
 (a) in relation to England, means prescribed by regulations made by the Secretary of State;
 
@@ -4018,11 +4152,11 @@ Education Act 2011 (c. 21 Part 9 - Student finance
 
 #### 77 Limit on student fees: part-time courses
 
-- In  section  41(1)  of  HEA  2004  (interpretation  of Part 3: student fees and fair access), in the definition of 'course', omit 'part-time or'.
+(1) In  section  41(1)  of  HEA  2004  (interpretation  of Part 3: student fees and fair access), in the definition of 'course', omit 'part-time or'.
 
-- This section applies in relation to a part-time course that a student begins on or after 1 September 2012, except in such circumstances as may be prescribed.
+(2) This section applies in relation to a part-time course that a student begins on or after 1 September 2012, except in such circumstances as may be prescribed.
 
-- In subsection (2) 'prescribed'-
+(3) In subsection (2) 'prescribed'-
 
 (a) in relation to England, means prescribed by regulations made by the Secretary of State;
 
@@ -4034,9 +4168,9 @@ Education Act 2011 (c. 21 Part 9 - Student finance
 
 #### 78 Orders and regulations
 
-- A  power  to  make  an  order  or  regulations  under  this  Act  is  exercisable  by statutory instrument.
+(1) A  power  to  make  an  order  or  regulations  under  this  Act  is  exercisable  by statutory instrument.
 
-- A  power  to  make  an  order  or  regulations  under  this  Act  (except  a  power conferred by section 82) includes power-
+(2) A  power  to  make  an  order  or  regulations  under  this  Act  (except  a  power conferred by section 82) includes power-
 
 (a) to make different provision for different purposes (including different areas);
 
@@ -4044,11 +4178,11 @@ Education Act 2011 (c. 21 Part 9 - Student finance
 
 (c) to make incidental, consequential, supplementary, transitional, transitory or saving provision.
 
-- Subject  to  subsection  (4),  a  statutory  instrument  containing  an  order  or regulations made by the Secretary of State under this Act (other than an order under section 82) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(3) Subject  to  subsection  (4),  a  statutory  instrument  containing  an  order  or regulations made by the Secretary of State under this Act (other than an order under section 82) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-- A statutory instrument which contains (alone or with other provision) an order under section 54(2) which amends or repeals any provision of an Act may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(4) A statutory instrument which contains (alone or with other provision) an order under section 54(2) which amends or repeals any provision of an Act may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-- A statutory instrument containing an order or regulations made by the Welsh Ministers under this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+(5) A statutory instrument containing an order or regulations made by the Welsh Ministers under this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
 [[END OF PAGE 75]]
 
@@ -4100,15 +4234,15 @@ There  is  to  be  paid  out  of  money  provided  by  Parliament  any  increase
 
 #### 81 Extent
 
-- This Act extends to England and Wales only, subject to subsections (2) and (3).
+(1) This Act extends to England and Wales only, subject to subsections (2) and (3).
 
-- This Part extends to the whole of the United Kingdom.
+(2) This Part extends to the whole of the United Kingdom.
 
-- An amendment or repeal made by this Act has the same extent as the provision to which it relates.
+(3) An amendment or repeal made by this Act has the same extent as the provision to which it relates.
 
 #### 82 Commencement
 
-- The  following  provisions  come  into  force  on  the  day  on  which  this  Act  is passed-
+(1) The following provisions come into force on the day on which this Act is passed-
 
 (a) section 33;
 
@@ -4126,7 +4260,7 @@ There  is  to  be  paid  out  of  money  provided  by  Parliament  any  increase
 
 (h) this Part.
 
-- The following provisions come into force at the end of two months beginning with the day on which this Act is passed-
+(2) The following provisions come into force at the end of two months beginning with the day on which this Act is passed-
 
 (a) section 6;
 
@@ -4146,15 +4280,15 @@ Education Act 2011 (c. 21 ) Part 10 - General
 
 (e) section 61.
 
-- The other provisions of this Act come into force on such day as the Secretary of State may by order appoint.
+(3) The other provisions of this Act come into force on such day as the Secretary of State may by order appoint.
 
-- The Secretary of State must exercise the power conferred by subsection (3) so as to secure that, subject to any provision made by virtue of subsection (7), sections 69 and 70 and Schedule 18 are in force no later than the day after the day which is the school leaving date for 2013.
+(4) The Secretary of State must exercise the power conferred by subsection (3) so as to secure that, subject to any provision made by virtue of subsection (7), sections 69 and 70 and Schedule 18 are in force no later than the day after the day which is the school leaving date for 2013.
 
-- Before making an order bringing section 13 into force, the Secretary of State must consult the Welsh Ministers.
+(5) Before making an order bringing section 13 into force, the Secretary of State must consult the Welsh Ministers.
 
-- Before making an order bringing sections 14 to 17 into force, the Secretary of State must obtain the consent of the Welsh Ministers.
+(6) Before making an order bringing sections 14 to 17 into force, the Secretary of State must obtain the consent of the Welsh Ministers.
 
-- An order under this section may-
+(7) An order under this section may-
 
 (a) appoint  different  days  for  different  purposes  (including  different areas);
 
@@ -4162,9 +4296,9 @@ Education Act 2011 (c. 21 ) Part 10 - General
 
 #### 83 Short title
 
-- This Act may be cited as the Education Act 2011.
+(1) This Act may be cited as the Education Act 2011.
 
-- This Act is to be included in the list of Education Acts set out in section 578 of EA 1996.
+(2) This Act is to be included in the list of Education Acts set out in section 578 of EA 1996.
 
 [[END OF PAGE 77]]
 
@@ -4175,14 +4309,6 @@ Education Act 2011 (c. 21 ) Part 10 - General
 Education Act 2011 (c. 21 )
 
 Schedule 1 - Review of exclusions from schools in England: consequential amendments
-
-#### EA 1996
-
-- 5 EA 1996 is amended as follows.
-
-- 6 In  section  444ZA  (application  of  section  444  to  alternative  educational provision), in subsection (1D), in paragraph (a), for 'section 52' substitute 'section 51A'.
-
-- 7 In Schedule 35B (meaning of 'eligible child' for purposes of school travel arrangements),  in  paragraph  8(2)(b),  for  'section  52'  substitute  'section 51A'.
 
 # S C H E D U L E S
 
@@ -4196,9 +4322,7 @@ Section 4
 
 - 1 In section 177 of the Local Government Act 1972 (provisions supplementary to provisions on allowances), in subsection (1A)-
 
-(a)
-
-- before paragraph (c) insert-
+(a) before paragraph (c) insert-
 
 '(ba) regulations made by virtue of section 51A(8) of the Education Act 2002 (allowances for exclusion review panels: England);';
 
@@ -4206,7 +4330,7 @@ Section 4
 
 #### Local Government Act 1974 (c. 7)
 
-- 2 In  section  25  of  the  Local  Government  Act  1974  (authorities  subject  to investigation), in subsection (5)(e)-
+- 2 In section 25 of the Local Government Act 1974 (authorities subject to investigation), in subsection (5)(e)-
 
 (a) for 'appeal' substitute 'review';
 
@@ -4218,7 +4342,15 @@ Section 4
 
 - 4 In Part 1 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under direct supervision of the Council), in paragraph 15 (education), after sub-paragraph (a), insert-
 
-'(aa) exclusion  review  panels  constituted  in  accordance  with regulations under section 51A of the Education Act 2002;'.
+'(aa) exclusion review panels constituted in accordance with regulations under section 51A of the Education Act 2002;'.
+
+#### EA 1996
+
+- 5 EA 1996 is amended as follows.
+
+- 6 In section 444ZA (application of section 444 to alternative educational provision), in subsection (1D), in paragraph (a), for 'section 52' substitute 'section 51A'.
+
+- 7 In Schedule 35B (meaning of 'eligible child' for purposes of school travel arrangements), in paragraph 8(2)(b), for 'section 52' substitute 'section 51A'.
 
 [[END OF PAGE 78]]
 
@@ -4286,6 +4418,8 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 ## SCHEDULE 2
 
+Section 11
+
 ### ABOLITION OF THE GTCE: CONSEQUENTIAL AMENDMENTS
 
 #### Amendments to THEA 1998
@@ -4337,8 +4471,6 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 (c) in subsection (3), for 'either' substitute 'the';
 
 (d) omit subsection (4).
-
-Section 11
 
 [[END OF PAGE 80]]
 
@@ -4404,11 +4536,11 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 - 16 (1) Schedule 1 is amended as follows.
 
-- In the title, for 'England' substitute 'Wales'.
+(2) In the title, for 'England' substitute 'Wales'.
 
-- In paragraph 2, omit sub-paragraph (3).
+(3) In paragraph 2, omit sub-paragraph (3).
 
-- In paragraph 4(1)-
+(4) In paragraph 4(1)-
 
 (a) in paragraph (a), for 'the Secretary of State' substitute 'they';
 
@@ -4426,23 +4558,23 @@ Education Act 2011 (c. 21 )
 
 Schedule 2 - Abolition of the GTCE: consequential amendments
 
-- For paragraph 4(2) substitute-
+(5) For paragraph 4(2) substitute-
 
-'(2) If a person ceases to be a member of the Council and it appears to the  Council  that  there  are  special  circumstances  which  make  it right  that  the  person  should  receive  compensation,  the  Council may make to that person a payment of such amount as they may determine.'
+'(2) If a person ceases to be a member of the Council and it appears to the Council that there are special circumstances which make it right that the person should receive compensation, the Council may make to that person a payment of such amount as they may determine.'
 
-- In paragraph 4(3), for 'the Secretary of State' substitute 'they'.
+(6) In paragraph 4(3), for 'the Secretary of State' substitute 'they'.
 
-- In paragraph 4(4), for 'the Secretary of State' substitute 'they'.
+(7) In paragraph 4(4), for 'the Secretary of State' substitute 'they'.
 
-- In paragraph 5, omit sub-paragraph (4).
+(8) In paragraph 5, omit sub-paragraph (4).
 
-- In paragraph 6-
+(9) In paragraph 6-
 
-(a) in  sub-paragraph  (1),  omit  ',  with  the  consent  of  the  Secretary  of State,';
+(a) in sub-paragraph (1), omit ', with the consent of the Secretary of State,';
 
-(b) in  sub-paragraph  (3),  for  the  words  following  paragraph  (b) substitute  'the  Council  may  make  provision  for  that  person  to continue to participate in that scheme, on such terms and conditions as they may determine, as if the person's service as a member were service  as  an  employee;  and  any  such  provision  shall  be  without prejudice to paragraph 4.'
+(b) in sub-paragraph (3), for the words following paragraph (b) substitute 'the Council may make provision for that person to continue to participate in that scheme, on such terms and conditions as they may determine, as if the person's service as a member were service as an employee; and any such provision shall be without prejudice to paragraph 4.'
 
-- In paragraph 11, omit sub-paragraph (1).
+(10) In paragraph 11, omit sub-paragraph (1).
 
 - 17 In Schedule 2 (disciplinary powers of Council), in paragraph 7 (supplementary provisions) for sub-paragraph (2) substitute-
 
@@ -4454,9 +4586,9 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 - 19 (1) EA 2002 is amended as follows.
 
-- In section 132 (qualified teacher status), omit subsection (3) (consultation of GTCE).
+(2) In section 132 (qualified teacher status), omit subsection (3) (consultation of GTCE).
 
-- In section 134 (requirement to be registered)-
+(3) In section 134 (requirement to be registered)-
 
 (a) in subsection (1)-
 
@@ -4470,9 +4602,9 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 (d) in the heading, at the end insert ': teachers in Wales'.
 
-- In section 145 (specification of qualification or course), in subsection (1)(c), omit 'the General Teaching Council for England,'.
+(4) In section 145 (specification of qualification or course), in subsection (1)(c), omit 'the General Teaching Council for England,'.
 
-- In Schedule 12 (the General Teaching Councils for England and Wales), in Part 1 (amendments to the Teaching and Higher Education Act 1998), omit paragraph 7 (amendment to section 9(1)).
+(5) In Schedule 12 (the General Teaching Councils for England and Wales), in Part 1 (amendments to the Teaching and Higher Education Act 1998), omit paragraph 7 (amendment to section 9(1)).
 
 [[END OF PAGE 82]]
 
@@ -4506,15 +4638,15 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 - 27 (1) The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
-- In section 41 (registers: duty to refer), in the table in subsection (7), in entry 1, for the entry in column 2 substitute 'The General Teaching Council for Wales'.
+(2) In section 41 (registers: duty to refer), in the table in subsection (7), in entry 1, for the entry in column 2 substitute 'The General Teaching Council for Wales'.
 
-- In section 45 (supervisory authorities: duty to refer), in subsection (7), after paragraph (a) insert-
+(3) In section 45 (supervisory authorities: duty to refer), in subsection (7), after paragraph (a) insert-
 
-'(aza) the  Secretary  of  State  in  respect  of  the  Secretary  of  State's functions under sections 141B to 141E of the Education Act 2002;
+'(aza) the Secretary of State in respect of the Secretary of State's functions under sections 141B to 141E of the Education Act 2002;
 
-(azb) the  Secretary  of  State  in  respect  of  the  Secretary  of  State's functions  under  Chapter  1  of  Part  4  of  the  Education  and Skills Act 2008;'.
+(azb) the Secretary of State in respect of the Secretary of State's functions under Chapter 1 of Part 4 of the Education and Skills Act 2008;'.
 
-- In  Schedule  3  (barred  lists),  in  paragraph  16  (representations),  in  subparagraph (4)-
+(4) In Schedule 3 (barred lists), in paragraph 16 (representations), in sub-paragraph (4)-
 
 (a) after  'before'  insert  'the  Secretary  of  State  in  the  exercise  of  the Secretary of State's functions under section 141B of the Education Act 2002, or in proceedings before';
 
@@ -4530,7 +4662,7 @@ Education Act 2011 (c. 21 )
 
 Schedule 2 - Abolition of the GTCE: consequential amendments
 
-- In Schedule 8 (transitional provision), in paragraph 2 (existing restrictions relating to children)-
+(5) In Schedule 8 (transitional provision), in paragraph 2 (existing restrictions relating to children)-
 
 (a) in sub-paragraph (3), omit paragraphs (a) and (c);
 
@@ -4540,11 +4672,13 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 ## SCHEDULE 3
 
+Section 12
+
 ### ABOLITION OF THE GTCE: TRANSFER SCHEMES
 
 #### Staff transfer schemes
 
-- 1 (1) The  Secretary  of  State  may  make  a  scheme  (a  'staff  transfer  scheme') providing-
+- 1 (1) The Secretary of State may make a scheme (a 'staff transfer scheme') providing-
 
 (a) for a designated employee of the GTCE to become a member of staff of the Secretary of State (and accordingly to become employed in the civil service of the state);
 
@@ -4554,19 +4688,17 @@ Schedule 2 - Abolition of the GTCE: consequential amendments
 
 (d) for anything done (or having effect as if done) before that transfer by or  in  relation  to  the  GTCE  in  respect  of  such  a  contract  or  the employee to be treated as having been done by or in relation to the Secretary of State.
 
-- A  staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Secretary of State's staff  to count as a period during which the employee was a member of the Secretary of State's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
+(2) A staff transfer scheme may provide for a period before the employee became a member of the Secretary of State's staff to count as a period during which the employee was a member of the Secretary of State's staff (and for the operation of the scheme not to be treated as having interrupted the continuity of that period).
 
-- A  staff  transfer  scheme  may  provide  for  the  employee  not  to  become  a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
+(3) A staff transfer scheme may provide for the employee not to become a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
 
-- A staff transfer scheme may provide for a person who would be treated (by an  enactment  or  otherwise)  as  being  dismissed  by  the  operation  of  the scheme not to be so treated.
+(4) A staff transfer scheme may provide for a person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
 
-- A staff transfer scheme may provide for an employee of the GTCE to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
+(5) A staff transfer scheme may provide for an employee of the GTCE to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
 
 #### Property transfer schemes
 
-- 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing  for  the  transfer  from  the  GTCE  to  the  Secretary  of  State  of designated property, rights or liabilities.
-
-Section 12
+- 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing for the transfer from the GTCE to the Secretary of State of designated property, rights or liabilities.
 
 [[END OF PAGE 84]]
 
@@ -4578,17 +4710,17 @@ Schedule 3 - Abolition of the GTCE: transfer schemes
 
 79
 
-- A property transfer scheme may-
+(2) A property transfer scheme may-
 
 (a) create rights, or impose liabilities, in relation to property or rights transferred by virtue of the scheme;
 
-(b) provide  for  anything  done  by  or  in  relation  to  the  GTCE  in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the Secretary of State;
+(b) provide for anything done by or in relation to the GTCE in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the Secretary of State;
 
 (c) apportion property, rights and liabilities;
 
 (d) make provision about the continuation of legal proceedings.
 
-- The things that may be transferred by a property transfer scheme include-
+(3) The things that may be transferred by a property transfer scheme include-
 
 (a) property, rights and liabilities that could not otherwise be transferred;
 
@@ -4638,21 +4770,21 @@ Education Act 2011 (c. 21 )
 
 Schedule 4 - Offence of breach of reporting restrictions: application to providers of information society services
 
-- The purpose of this Schedule is to comply with Directive 2000/31/ EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information  society services, in particular  electronic  commerce,  in  the  Internal  Market  ('the  ECommerce Directive').
+(2) The purpose of this Schedule is to comply with Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('the E-Commerce Directive').
 
 ###### Domestic service providers: extension of liability
 
 - 2 (1) This paragraph applies where a service provider is established in England and Wales (a 'domestic service provider').
 
-- Section 141G applies to a domestic service provider who-
+(2) Section 141G applies to a domestic service provider who-
 
 (a) publishes information in breach of section 141F(3) in an EEA state other than the United Kingdom, and
 
-(b) does  so  in  the  course  of  providing  information  society services,
+(b) does so in the course of providing information society services,
 
-- as  it  applies  to  a  person  who  publishes  such  information  in England and Wales.
+as it applies to a person who publishes such information in England and Wales.
 
-- In such a case-
+(3) In such a case-
 
 (a) proceedings for the offence may be taken at any place in England and Wales, and
 
@@ -4662,7 +4794,7 @@ Schedule 4 - Offence of breach of reporting restrictions: application to provide
 
 - 3 (1) This paragraph applies where a service provider is established in an EEA state other than the United Kingdom (a 'non-UK service provider').
 
-- Proceedings  for  an  offence  under  section  141G  must  not  be brought against a non-UK service provider in respect of anything done in the course of the provision of information society services.
+(2) Proceedings for an offence under section 141G must not be brought against a non-UK service provider in respect of anything done in the course of the provision of information society services.
 
 ###### Exceptions for mere conduits
 
@@ -4674,7 +4806,7 @@ Schedule 4 - Offence of breach of reporting restrictions: application to provide
 
 if the following condition is satisfied.
 
-- The condition is that the service provider does not-
+(2) The condition is that the service provider does not-
 
 (a) initiate the transmission,
 
@@ -4682,7 +4814,7 @@ if the following condition is satisfied.
 
 (c) select or modify the information contained in the transmission.
 
-- For the purposes of sub-paragraph (1)-
+(3) For the purposes of sub-paragraph (1)-
 
 (a) the provision of access to a communication network, and
 
@@ -4700,23 +4832,23 @@ Schedule 4 - Offence of breach of reporting restrictions: application to provide
 
 includes the automatic, intermediate and transient storage of the information  transmitted  so  far  as  the  storage  is  solely  for  the purpose of carrying out the transmission in the network.
 
-- Sub-paragraph (3) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
+(4) Sub-paragraph (3) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
 
 ###### Exception for caching
 
-- 5 (1) This  paragraph  applies  where  an  information  society  service consists  in  the  transmission  in  a  communication  network  of information provided by a recipient of the service.
+- 5 (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
-- The service provider is not guilty of an offence under section 141G in respect of the automatic, intermediate and temporary storage of information so provided, if-
+(2) The service provider is not guilty of an offence under section 141G in respect of the automatic, intermediate and temporary storage of information so provided, if-
 
-(a) the storage of the information is solely for the purpose of making  more  efficient  the  onward  transmission  of  the information  to  other  recipients  of  the  service  at  their request, and
+(a) the storage of the information is solely for the purpose of making more efficient the onward transmission of the information to other recipients of the service at their request, and
 
 (b) the following conditions are satisfied.
 
-- The first condition is that the service provider does not modify the information.
+(3) The first condition is that the service provider does not modify the information.
 
-- The second condition is that the service provider complies with any conditions attached to having access to the information.
+(4) The second condition is that the service provider complies with any conditions attached to having access to the information.
 
-- The third condition is that if the service provider obtains actual knowledge that-
+(5) The third condition is that if the service provider obtains actual knowledge that-
 
 (a) the information at the initial source of the transmission has been removed from the network,
 
@@ -4728,9 +4860,9 @@ the  service  provider  expeditiously  removes  the  information  or disables ac
 
 ###### Exception for hosting
 
-- 6 (1) A service provider is not guilty of an offence under section 141G in respect of anything done in the course of providing so much of an  information  society  service  as  consists  in  the  storage  of information provided by a recipient of the service, if the condition is met.
+- 6 (1) A service provider is not guilty of an offence under section 141G in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service, if the condition is met.
 
-- The condition is that-
+(2) The condition is that-
 
 (a) the service provider had no actual knowledge when the information  was  provided  that  it  contained  offending material, or
 
@@ -4746,9 +4878,9 @@ Education Act 2011 (c. 21 )
 
 Schedule 4 - Offence of breach of reporting restrictions: application to providers of information society services
 
-'Offending  material'  means  material  the  publication  of  which constitutes an offence under section 141G.
+(3) 'Offending material' means material the publication of which constitutes an offence under section 141G.
 
-- This  paragraph  does  not  apply  if  the  recipient  of  the  service  is acting under the authority or control of the service provider.
+(4) This paragraph does not apply if the recipient of the service is acting under the authority or control of the service provider.
 
 ###### Interpretation
 
@@ -4756,7 +4888,7 @@ Schedule 4 - Offence of breach of reporting restrictions: application to provide
 
 'information society services'-
 
-(a) has  the  meaning  given  in  Article  2(a)  of  the  ECommerce Directive (which refers to Article 1(2) of Directive 98/34/EC of the European Parliament and of  the  Council  of  22  June  1998  laying  down  a procedure for the provision of information in the field of technical standards and regulations), and
+(a) has the meaning given in Article 2(a) of the E-Commerce Directive (which refers to Article 1(2) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations), and
 
 (b) is  summarised  in  recital  17  of  the  E-Commerce Directive as covering 'any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service';
 
@@ -4764,7 +4896,7 @@ Schedule 4 - Offence of breach of reporting restrictions: application to provide
 
 'service provider' means a person providing an information society service.
 
-- For  the  purpose  of  construing  references  in  this  Schedule  to  a service provider who is established in England and Wales or in an EEA state other than the United Kingdom-
+(2) For the purpose of construing references in this Schedule to a service provider who is established in England and Wales or in an EEA state other than the United Kingdom-
 
 (a) a service provider is established in England and Wales, or in  an  EEA  state  other  than  the  United  Kingdom,  if  the service provider-
 
@@ -4786,6 +4918,36 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 83
 
+## SCHEDULE 5
+
+Section 16
+
+### ABOLITION OF THE TDA: CONSEQUENTIAL AMENDMENTS
+
+#### Public Records Act 1958 (c. 51)
+
+- 1 In paragraph 3 of Schedule 1 to the Public Records Act 1958, in Part 2 of the Table (definition of public records: other establishments and organisations) omit 'Training and Development Agency for Schools.' and 'Teacher Training Agency.'
+
+#### Parliamentary Commissioner Act 1967 (c. 13)
+
+- 2 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) omit 'Training and Development Agency for Schools.'
+
+#### Superannuation Act 1972 (c. 11)
+
+- 3 In Schedule 1 to the Superannuation Act 1972 (kinds of employment, etc, referred to in section 1 of that Act) omit 'Training and Development Agency for Schools.'
+
+#### House of Commons Disqualification Act 1975 (c. 24)
+
+- 4 In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices) omit the entry relating to members of the Training and Development Agency for Schools in receipt of remuneration.
+
+#### Education (Fees and Awards) Act 1983 (c. 40)
+
+- 5 In section 1(3) of the Education (Fees and Awards) Act 1983 (institutions in respect of which regulations may provide for differential fees), in paragraph (e), for 'support under section 78 of that Act from the Training and Development Agency for Schools' substitute 'assistance-
+
+(i) from the Secretary of State or the Welsh Ministers under section 14 of the Education Act 2002, or
+
+(ii) from a person who is receiving financial assistance under that section;'.
+
 #### EA 1994
 
 - 6 Part 1 of EA 1994 (teacher training) is amended as follows.
@@ -4795,36 +4957,6 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 - 8 In section 18B (inspection of teacher training), in subsections (3) and (8), for 'Training and Development Agency for Schools' substitute 'Secretary of State'.
 
 - 9 In section 18C (inspection of teacher training in Wales), in subsection (12)(b), omit 'or the Training and Development Agency for Schools'.
-
-## SCHEDULE 5
-
-### ABOLITION OF THE TDA: CONSEQUENTIAL AMENDMENTS
-
-#### Public Records Act 1958 (c. 51)
-
-- 1 In paragraph 3 of Schedule 1 to the Public Records Act 1958, in Part 2 of the Table (definition of public records: other establishments and organisations) omit  'Training  and  Development  Agency  for  Schools.'  and  'Teacher Training Agency.'
-
-#### Parliamentary Commissioner Act 1967 (c. 13)
-
-- 2 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject  to  investigation)  omit  'Training  and  Development  Agency  for Schools.'
-
-#### Superannuation Act 1972 (c. 11)
-
-- 3 In Schedule 1 to the Superannuation Act 1972 (kinds of employment, etc, referred to in section 1 of that Act) omit 'Training and Development Agency for Schools.'
-
-#### House of Commons Disqualification Act 1975 (c. 24)
-
-- 4 In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other  disqualifying  offices)  omit  the  entry  relating  to  members  of  the Training and Development Agency for Schools in receipt of remuneration.
-
-#### Education (Fees and Awards) Act 1983 (c. 40)
-
-- 5 In section 1(3) of the Education (Fees and Awards) Act 1983 (institutions in respect of which regulations may provide for differential fees), in paragraph (e),  for  'support  under  section  78  of  that  Act  from  the  Training  and Development Agency for Schools' substitute 'assistance-
-
-(i) from  the  Secretary  of  State  or  the  Welsh  Ministers under section 14 of the Education Act 2002, or
-
-(ii) from a person who is receiving financial  assistance under that section;'.
-
-Section 16
 
 [[END OF PAGE 89]]
 
@@ -4846,23 +4978,25 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 #### Audit Commission Act 1998 (c. 18)
 
-- 13 (1) The Table in section 36(1)  of  the  Audit  Commission Act 1998  (studies  at request of educational bodies) is amended as follows.
+- 13 (1) The Table in section 36(1) of the Audit Commission Act 1998 (studies at request of educational bodies) is amended as follows.
 
-- Omit the entry for the Training and Development Agency for Schools.
+(2) Omit the entry for the Training and Development Agency for Schools.
 
-- For  the  entry  for  a  training  provider  receiving  financial  support  under section 78 of the Education Act 2005 substitute-
+(3) For the entry for a training provider receiving financial support under section 78 of the Education Act 2005 substitute-
 
-'A person who provides training for  members of the school workforce (within the meaning of Part 3 of the Education Act 2005) and receives financial assistance-
+'A person who provides training for members of the school workforce (within the meaning of Part 3 of the Education Act 2005) and receives financial assistance-
 
-(a) from the Secretary of State under section 14 of the  Education  Act  2002, or
+(a) from the Secretary of State under section 14 of the Education Act 2002, or
 
-(b) from  a  person  who  is receiving financial assistance from the Secretary  of  State  under that section.
+(b) from a person who is receiving financial assistance from the Secretary of State under that section.
+
+The provider or the Secretary of State.'
 
 #### THEA 1998
 
 - 14 (1) Section 26 of THEA 1998 (imposition of conditions as to fees at further or higher education institutions) is amended as follows.
 
-- In subsection (3)-
+(2) In subsection (3)-
 
 (a) omit '81(1), 82(1) or';
 
@@ -4870,7 +5004,7 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 (c) omit '78 or'.
 
-- In subsection (11)-
+(3) In subsection (11)-
 
 (a) omit 'or the Training and Development Agency for Schools';
 
@@ -4879,8 +5013,6 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 #### Government of Wales Act 1998 (c. 38)
 
 - 15 (1) Section 145B of the Government of Wales Act 1998 (studies at request of educational bodies) is amended as follows.
-
-The provider or the Secretary of State.'
 
 [[END OF PAGE 90]]
 
@@ -4892,13 +5024,13 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 85
 
-- In the Table in subsection (1), omit the entry for a training provider receiving financial support under section 78 of the Education Act 2005.
+(2) In the Table in subsection (1), omit the entry for a training provider receiving financial support under section 78 of the Education Act 2005.
 
-- Omit subsection (1A).
+(3) Omit subsection (1A).
 
-- In subsection (2), for 'Subsections (1) and (1A) do' substitute 'Subsection (1) does'.
+(4) In subsection (2), for 'Subsections (1) and (1A) do' substitute 'Subsection (1) does'.
 
-- In subsection (3), omit 'or (1A)'.
+(5) In subsection (3), omit 'or (1A)'.
 
 #### Freedom of Information Act 2000 (c. 36)
 
@@ -4920,19 +5052,19 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 ##### '23 Duty of Secretary of State to impose condition as to student fees, etc
 
-- Subsection (2) applies to a grant made by the Secretary of State to the Higher Education Funding Council for England under section 68 of the 1992 Act.
+(1) Subsection (2) applies to a grant made by the Secretary of State to the Higher Education Funding Council for England under section 68 of the 1992 Act.
 
-- The grant must be made subject to a condition requiring the Council to impose a condition under section 24 in relation to any grants, loans or other payments made by the Council under section 65 of the 1992 Act to the governing body of a relevant institution.
+(2) The grant must be made subject to a condition requiring the Council to impose a condition under section 24 in relation to any grants, loans or other payments made by the Council under section 65 of the 1992 Act to the governing body of a relevant institution.
 
-- Subsection (4) applies to financial assistance given by the Secretary of State under section 14 of the Education Act 2002 to the governing body of a relevant institution.
+(3) Subsection (4) applies to financial assistance given by the Secretary of State under section 14 of the Education Act 2002 to the governing body of a relevant institution.
 
-- The terms on which the financial assistance is given must include a condition under section 24.
+(4) The terms on which the financial assistance is given must include a condition under section 24.
 
-'Relevant institution' means-
+(5) 'Relevant institution' means-
 
-(a) in  the  case  of  a  grant  to  which  subsection  (2)  applies,  an institution specified, or of a class specified, by the Secretary of State in a condition under subsection (2);
+(a) in the case of a grant to which subsection (2) applies, an institution specified, or of a class specified, by the Secretary of State in a condition under subsection (2);
 
-(b) in  the  case  of  financial  assistance  to  which  subsection  (4) applies,  an  institution  specified,  or  of  a  class  specified,  by order made by the Secretary of State for the purposes of that subsection.'
+(b) in the case of financial assistance to which subsection (4) applies, an institution specified, or of a class specified, by order made by the Secretary of State for the purposes of that subsection.'
 
 [[END OF PAGE 91]]
 
@@ -4946,19 +5078,19 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 - 20 (1) Section 24 (condition to be imposed by English funding bodies) is amended as follows.
 
-- In subsection (3)-
+(2) In subsection (3)-
 
-(a) in  paragraph (a)(ii),  for  the  words  from  'of  other'  to  'section  23' substitute  '(where  the  funding  body  is  the  Higher  Education Funding  Council  for  England)  of  other  financial  requirements determined by the Council in accordance with principles specified by the Secretary of State in the condition under section 23(2)';
+(a) in paragraph (a)(ii), for the words from 'of other' to 'section 23' substitute '(where the funding body is the Higher Education Funding Council for England) of other financial requirements determined by the Council in accordance with principles specified by the Secretary of State in the condition under section 23(2)';
 
-(b) in  paragraph  (b),  for  the  words  from  'financial  requirements'  to 'section 23' substitute '-
+(b) in paragraph (b), for the words from 'financial requirements' to 'section 23' substitute '-
 
-(i) where the funding body is the Higher Education Funding Council for England, financial  requirements  determined  by  the Council in accordance with principles specified  by  the  Secretary  of  State  in  the condition under section 23(2);
+(i) where the funding body is the Higher Education Funding Council for England, financial requirements determined by the Council in accordance with principles specified by the Secretary of State in the condition under section 23(2);
 
-(ii) where  the  funding  body  is  the  Secretary  of State, such financial requirements as the Secretary of State thinks appropriate';
+(ii) where the funding body is the Secretary of State, such financial requirements as the Secretary of State thinks appropriate';
 
-- In subsection (4)(c), for '78 of the 2005 Act' substitute '14 of the Education Act 2002'.
+(3) In subsection (4)(c), for '78 of the 2005 Act' substitute '14 of the Education Act 2002'.
 
-- In subsection (6)-
+(4) In subsection (6)-
 
 (a) for the definition of 'funding body' substitute-
 
@@ -4972,21 +5104,21 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 - 21 (1) Section 27 (power of NAW to impose conditions as to student fees, etc) is amended as follows.
 
-- In subsection (1)-
+(2) In subsection (1)-
 
 (a) omit '82(1) or';
 
-(b) for  'a  funding  body'  substitute  'the  Higher  Education  Funding Council for Wales';
+(b) for 'a funding body' substitute 'the Higher Education Funding Council for Wales';
 
 (c) for 'the funding body' (in both places) substitute 'the Council';
 
 (d) omit '78 or'.
 
-- In subsection (2), omit the definition of 'funding body'.
+(3) In subsection (2), omit the definition of 'funding body'.
 
 - 22 (1) Section 28 (condition that may be required to be imposed by Welsh funding bodies) is amended as follows.
 
-- In subsection (3), for 'funding body' substitute 'Higher Education Funding Council for Wales'.
+(2) In subsection (3), for 'funding body' substitute 'Higher Education Funding Council for Wales'.
 
 [[END OF PAGE 92]]
 
@@ -4998,11 +5130,11 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 87
 
-- In subsection (4)(c), omit '78 or'.
+(3) In subsection (4)(c), omit '78 or'.
 
-- In subsection (6), omit the definition of 'funding body'.
+(4) In subsection (6), omit the definition of 'funding body'.
 
-- In the heading, for 'Welsh funding bodies' substitute 'HEFCW'.
+(5) In the heading, for 'Welsh funding bodies' substitute 'HEFCW'.
 
 - 23 In  section  29  (sections  23  to  28:  supplementary  provisions),  in  subsection (3)-
 
@@ -5032,13 +5164,13 @@ may apply to the relevant authority for approval of a proposed plan relating to 
 
 - 28 (1) Section 40 (provision of information) is amended as follows.
 
-- In  subsection  (1),  omit  'and  the  Training  and  Development  Agency  for Schools'.
+(2) In subsection (1), omit 'and the Training and Development Agency for Schools'.
 
-- After subsection (1B) insert-
+(3) After subsection (1B) insert-
 
-'(1C) The Secretary of State may provide the Director with information for the  purposes  of  the  exercise  by  the  Director  of  the  Director's functions.'
+'(1C) The Secretary of State may provide the Director with information for the purposes of the exercise by the Director of the Director's functions.'
 
-- In subsection (2)-
+(4) In subsection (2)-
 
 (a) for  'Training  and  Development  Agency  for  Schools'  substitute 'Secretary of State';
 
@@ -5058,6 +5190,14 @@ Education Act 2011 (c. 21 )
 
 Schedule 5 - Abolition of the TDA: consequential amendments
 
+(b) the Secretary of State for the purposes of the Secretary of State's functions relating to training for members of the school workforce (within the meaning of Part 3 of the 2005 Act).'
+
+- 29 In section 41 (interpretation of Part 3), in subsection (2)(a)-
+
+(a) omit '78 or';
+
+(b) after '2005 Act,' insert 'or financial assistance under section 14 of the Education Act 2002,'.
+
 #### EA 2005
 
 - 30 EA 2005 is amended as follows.
@@ -5066,17 +5206,17 @@ Schedule 5 - Abolition of the TDA: consequential amendments
 
 - 32 In Schedule 14 (amendments relating to training of school workforce), omit paragraphs 1 to 4, 8, 19(4)(b), 21(3) to (5), 22, 24, 25, 28(5), 29(b) and 32 to 34.
 
-- 33 Schedule  15  (transitional  and  transitory  provisions  relating  to  Part  3)  is repealed.
+- 33 Schedule 15 (transitional and transitory provisions relating to Part 3) is repealed.
 
 ## SCHEDULE 6
 
-### ABOLITION OF THE TDA: TRANSFER SCHEMES
-
 Section 17
+
+### ABOLITION OF THE TDA: TRANSFER SCHEMES
 
 #### Staff transfer schemes
 
-- 1 (1) The  Secretary  of  State  may  make  a  scheme  (a  'staff  transfer  scheme') providing-
+- 1 (1) The Secretary of State may make a scheme (a 'staff transfer scheme') providing-
 
 (a) for a designated employee of the TDA to become a member of staff of the Secretary of State (and accordingly to become employed in the civil service of the state);
 
@@ -5086,17 +5226,9 @@ Section 17
 
 (d) for anything done (or having effect as if done) before that transfer by or in relation to the TDA in respect of such a contract or the employee to be treated as having been done by or in relation to the Secretary of State.
 
-- A  staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Secretary of State's staff  to count as a period during which the employee was a member of the Secretary of State's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
+(2) A staff transfer scheme may provide for a period before the employee became a member of the Secretary of State's staff to count as a period during which the employee was a member of the Secretary of State's staff (and for the operation of the scheme not to be treated as having interrupted the continuity of that period).
 
-- A  staff  transfer  scheme  may  provide  for  the  employee  not  to  become  a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
-
-(b) the Secretary of State for the purposes of the Secretary of State's functions relating to training for members of the school workforce (within the meaning of Part 3 of the 2005 Act).'
-
-- 29 In section 41 (interpretation of Part 3), in subsection (2)(a)-
-
-(a) omit '78 or';
-
-(b) after '2005 Act,' insert 'or financial assistance under section 14 of the Education Act 2002,'.
+(3) A staff transfer scheme may provide for the employee not to become a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
 
 [[END OF PAGE 94]]
 
@@ -5108,25 +5240,25 @@ Schedule 6 - Abolition of the TDA: transfer schemes
 
 89
 
-- A staff transfer scheme may provide for a person who would be treated (by an  enactment  or  otherwise)  as  being  dismissed  by  the  operation  of  the scheme not to be so treated.
+(4) A staff transfer scheme may provide for a person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
 
-- A staff transfer scheme may provide for an employee of the TDA to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
+(5) A staff transfer scheme may provide for an employee of the TDA to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
 
 #### Property transfer schemes
 
-- 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing  for  the  transfer  from  the  TDA  to  the  Secretary  of  State  of designated property, rights or liabilities.
+- 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing for the transfer from the TDA to the Secretary of State of designated property, rights or liabilities.
 
-- A property transfer scheme may-
+(2) A property transfer scheme may-
 
 (a) create rights, or impose liabilities, in relation to property or rights transferred by virtue of the scheme;
 
-(b) provide for anything done by or in relation to the TDA in connection with any property, rights or liabilities transferred by the scheme to be  treated  as  done,  or  to  be  continued,  by  or  in  relation  to  the Secretary of State;
+(b) provide for anything done by or in relation to the TDA in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the Secretary of State;
 
 (c) apportion property, rights and liabilities;
 
 (d) make provision about the continuation of legal proceedings.
 
-- The things that may be transferred by a property transfer scheme include-
+(3) The things that may be transferred by a property transfer scheme include-
 
 (a) property, rights and liabilities that could not otherwise be transferred;
 
@@ -5160,6 +5292,8 @@ Schedule 7 - The Chief Regulator of Qualifications and Examinations
 
 ## SCHEDULE 7
 
+Section 21
+
 ### THE CHIEF REGULATOR OF QUALIFICATIONS AND EXAMINATIONS
 
 #### Amendments to Schedule 9 to ASCLA 2009
@@ -5168,27 +5302,25 @@ Schedule 7 - The Chief Regulator of Qualifications and Examinations
 
 - 2 (1) Paragraph 2 (membership) is amended as follows.
 
-- In sub-paragraph (1)-
+(2) In sub-paragraph (1)-
 
-(a)
-
-- before paragraph (a), insert-
+(a) before paragraph (a), insert-
 
 '(za) a member appointed by Her Majesty by Order in Council as the chief executive of Ofqual,';
 
-(b) in  paragraph  (a),  for  'Her  Majesty  by  Order  in  Council  to  chair Ofqual,'  substitute  'the  Secretary  of  State  to  chair  Ofqual  ('the chair'), and';
+(b) in paragraph (a), for 'Her Majesty by Order in Council to chair Ofqual,' substitute 'the Secretary of State to chair Ofqual ('the chair'), and';
 
 (c) omit paragraph (c) and the 'and' immediately before it.
 
-- In sub-paragraph (2), for 'to chair' substitute 'as the chief executive of';
+(3) In sub-paragraph (2), for 'to chair' substitute 'as the chief executive of';
 
-- In  sub-paragraphs  (3)  to  (6),  for  'Chief  Regulator',  wherever  occurring, substitute 'chair'.
+(4) In sub-paragraphs (3) to (6), for 'Chief Regulator', wherever occurring, substitute 'chair'.
 
 - 3 (1) Paragraph 3 (the Chief Regulator) is amended as follows.
 
-- In sub-paragraph (6), for 'Chief Regulator' substitute 'the chief executive of Ofqual (whether before or after the relevant commencement date)'.
+(2) In sub-paragraph (6), for 'Chief Regulator' substitute 'the chief executive of Ofqual (whether before or after the relevant commencement date)'.
 
-- After sub-paragraph (6) insert-
+(3) After sub-paragraph (6) insert-
 
 '(7) 'The  relevant  commencement  date'  means  the  date  on  which Schedule 7 to the Education Act 2011 comes fully into force.'
 
@@ -5198,21 +5330,19 @@ Schedule 7 - The Chief Regulator of Qualifications and Examinations
 
 - 3A (1) The chair holds and vacates office in accordance with the terms of the appointment.
 
-- Those terms are to be determined by the Secretary of State, subject to the following provisions of this Schedule.
+(2) Those terms are to be determined by the Secretary of State, subject to the following provisions of this Schedule.
 
-- The chair must not be appointed for a term of more than 5 years.
+(3) The chair must not be appointed for a term of more than 5 years.
 
-- The chair may resign from office at any time by giving written notice to the Secretary of State.
+(4) The chair may resign from office at any time by giving written notice to the Secretary of State.
 
-- The Secretary of State may remove the chair from office on either of the following grounds-
+(5) The Secretary of State may remove the chair from office on either of the following grounds-
 
 (a) inability or unfitness to carry out the duties of the office;
 
 (b) absence from Ofqual's meetings for a continuous period of more than 6 months without Ofqual's permission.
 
-- The previous appointment of a person to chair Ofqual (whether before or after the relevant commencement date) does not affect the person's eligibility for re-appointment.
-
-Section 21
+(6) The previous appointment of a person to chair Ofqual (whether before or after the relevant commencement date) does not affect the person's eligibility for re-appointment.
 
 [[END OF PAGE 96]]
 
@@ -5224,35 +5354,35 @@ Schedule 7 - The Chief Regulator of Qualifications and Examinations
 
 91
 
-'The  relevant  commencement  date'  means  the  date  on  which Schedule 7 to the Education Act 2011 comes fully into force.'
+(7) 'The relevant commencement date' means the date on which Schedule 7 to the Education Act 2011 comes fully into force.'
 
-- 5 In paragraph 4 (the deputy and other ordinary members: tenure), in subparagraphs (7) to (11), for 'Chief Regulator', wherever occurring, substitute 'chair'.
+- 5 In paragraph 4 (the deputy and other ordinary members: tenure), in sub-paragraphs (7) to (11), for 'Chief Regulator', wherever occurring, substitute 'chair'.
 
-- 6 In the heading before paragraph 5, for ' Chief Regulator and ordinary members ' substitute ' members '.
+- 6 In the heading before paragraph 5, for 'Chief Regulator and ordinary members' substitute 'members'.
 
 - 7 (1) Paragraph 5 (remuneration of members of Ofqual) is amended as follows.
 
-- In  sub-paragraph  (1),  for  'Chief  Regulator  and  any  of  the  ordinary members' substitute 'members of Ofqual'.
+(2) In sub-paragraph (1), for 'Chief Regulator and any of the ordinary members' substitute 'members of Ofqual'.
 
-- In sub-paragraph (2), for 'current or former Chief Regulator or' substitute 'person who is or has been the chair or an'.
+(3) In sub-paragraph (2), for 'current or former Chief Regulator or' substitute 'person who is or has been the chair or an'.
 
-- In  sub-paragraph  (3),  for  'Chief  Regulator  or  an  ordinary  member' substitute 'a member of Ofqual'.
+(4) In sub-paragraph (3), for 'Chief Regulator or an ordinary member' substitute 'a member of Ofqual'.
 
-- In sub-paragraph (4), for 'this paragraph' substitute 'sub-paragraph (1), (2) or (3)'.
+(5) In sub-paragraph (4), for 'this paragraph' substitute 'sub-paragraph (1), (2) or (3)'.
 
-- After sub-paragraph (4) insert-
+(6) After sub-paragraph (4) insert-
 
-'(5) Service  as  the  Chief  Regulator  is  one  of  the  kinds  of  service  to which a scheme under section 1 of the Superannuation Act 1972 (superannuation schemes as respects civil servants etc) can apply.
+'(5) Service as the Chief Regulator is one of the kinds of service to which a scheme under section 1 of the Superannuation Act 1972 (superannuation schemes as respects civil servants etc) can apply.
 
-- Ofqual must pay to the Minister for the Civil Service, at such times as  the  Minister  may  direct,  such  sums  as  the  Minister  may determine in respect of any increase attributable to sub-paragraph (5)  in  the  sums  payable  out  of  money  provided  by  Parliament under the Superannuation Act 1972.'
+(6) Ofqual must pay to the Minister for the Civil Service, at such times as the Minister may direct, such sums as the Minister may determine in respect of any increase attributable to sub-paragraph (5) in the sums payable out of money provided by Parliament under the Superannuation Act 1972.'
 
-- 8 For the heading before paragraph 6 substitute ' Staff '.
+- 8 For the heading before paragraph 6 substitute 'Staff'.
 
 - 9 (1) Paragraph 6 (staff of Ofqual) is amended as follows.
 
-- Omit sub-paragraphs (1) to (3).
+(2) Omit sub-paragraphs (1) to (3).
 
-- In sub-paragraphs (4) and (5)(a), omit 'other'.
+(3) In sub-paragraphs (4) and (5)(a), omit 'other'.
 
 #### Consequential amendments
 
@@ -5273,6 +5403,8 @@ Education Act 2011 (c. 21 )
 Schedule 8 - Abolition of the QCDA: consequential amendments
 
 ## SCHEDULE 8
+
+Section 26
 
 ### ABOLITION OF THE QCDA: CONSEQUENTIAL AMENDMENTS
 
@@ -5310,8 +5442,6 @@ Schedule 8 - Abolition of the QCDA: consequential amendments
 
 - 9 In section 98 of LSA 2000 (approved qualifications: England), in subsections (7) and (8), omit 'the Qualifications and Curriculum Development Agency or'.
 
-Section 26
-
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
@@ -5336,35 +5466,35 @@ Schedule 8 - Abolition of the QCDA: consequential amendments
 
 - 14 (1) Section 90 (development work and experiments) is amended as follows.
 
-- In subsection (3)-
+(2) In subsection (3)-
 
 (a) after paragraph (a) insert 'or';
 
 (b) omit paragraph (c) (and the 'or' immediately before it).
 
-- In subsection (4) omit the words after 'by the governing body'.
+(3) In subsection (4) omit the words after 'by the governing body'.
 
-- In subsection (5), for paragraph (b) substitute-
+(4) In subsection (5), for paragraph (b) substitute-
 
 '(b) a person designated for the purposes of this subsection by the Secretary of State.'
 
-- In subsection (5A) for 'the reviewing body' substitute 'a person designated for the purposes of this subsection by the Secretary of State'.
+(5) In subsection (5A) for 'the reviewing body' substitute 'a person designated for the purposes of this subsection by the Secretary of State'.
 
-- Omit subsection (5B).
+(6) Omit subsection (5B).
 
-- In  subsection  (5C)  for  'subsection  (5B)'  substitute  'subsection  (5)(b)  or (5A)'.
+(7) In subsection (5C) for 'subsection (5B)' substitute 'subsection (5)(b) or (5A)'.
 
 - 15 For section 96 substitute-
 
 ##### '96 Procedure for making certain orders and regulations
 
-- This section applies where the Secretary of State proposes to make-
+(1) This section applies where the Secretary of State proposes to make-
 
 (a) an order under section 82(4), 84(6) or 87(3)(a) or (b), or
 
 (b) regulations under section 91.
 
-- The Secretary of State must give notice of the proposal to such of the following as appear to the Secretary of State to be concerned with the proposal-
+(2) The Secretary of State must give notice of the proposal to such of the following as appear to the Secretary of State to be concerned with the proposal-
 
 (a) associations of local authorities,
 
@@ -5372,7 +5502,7 @@ Schedule 8 - Abolition of the QCDA: consequential amendments
 
 (c) organisations representing school teachers.
 
-- The Secretary of State must also give notice of the proposal to any other persons with whom consultation appears to the Secretary of State to be desirable.
+(3) The Secretary of State must also give notice of the proposal to any other persons with whom consultation appears to the Secretary of State to be desirable.
 
 [[END OF PAGE 99]]
 
@@ -5384,17 +5514,17 @@ Education Act 2011 (c. 21 )
 
 Schedule 8 - Abolition of the QCDA: consequential amendments
 
-- The  Secretary  of  State  must  give  the  bodies  and  other  persons mentioned  in  subsections  (2)  and  (3)  a  reasonable  opportunity  of submitting evidence and representations as to the issues arising from the proposal.
+(4) The Secretary of State must give the bodies and other persons mentioned in subsections (2) and (3) a reasonable opportunity of submitting evidence and representations as to the issues arising from the proposal.
 
-- After  considering  any  evidence  and  representations  submitted  in pursuance of subsection (4), the Secretary of State must publish, in such manner as, in the Secretary of State's opinion, is likely to bring them to the notice of persons with a special interest in education-
+(5) After considering any evidence and representations submitted in pursuance of subsection (4), the Secretary of State must publish, in such manner as, in the Secretary of State's opinion, is likely to bring them to the notice of persons with a special interest in education-
 
-(a) a  draft  of  the  proposed  order  or  regulations  and  any associated document, and
+(a) a draft of the proposed order or regulations and any associated document, and
 
 (b) a summary of the views expressed during the consultation.
 
-- The  Secretary  of  State  must  allow  a  period  of  at  least  one  month beginning with the publication of the draft of the proposed order or regulations for the submission of any further evidence  and representations as to the issues arising.
+(6) The Secretary of State must allow a period of at least one month beginning with the publication of the draft of the proposed order or regulations for the submission of any further evidence and representations as to the issues arising.
 
-- When the period allowed has expired, the Secretary of State may make the order or regulations, with or without modifications.'
+(7) When the period allowed has expired, the Secretary of State may make the order or regulations, with or without modifications.'
 
 #### Childcare Act 2006 (c. 21)
 
@@ -5402,13 +5532,13 @@ Schedule 8 - Abolition of the QCDA: consequential amendments
 
 - 17 In section 42(2) (persons on whom order specifying assessment arrangements may confer or impose functions) omit paragraph (d) (but not the 'and' immediately after it).
 
-- 18 (1) Section  46  (power  to  enable  exemptions  from  learning  and  development requirements to be conferred) is amended as follows.
+- 18 (1) Section 46 (power to enable exemptions from learning and development requirements to be conferred) is amended as follows.
 
-- In subsection (1B) for 'the reviewing body' substitute 'a person designated by the Secretary of State for the purposes of this subsection'.
+(2) In subsection (1B) for 'the reviewing body' substitute 'a person designated by the Secretary of State for the purposes of this subsection'.
 
-- Omit subsection (1C).
+(3) Omit subsection (1C).
 
-- In subsection (1D) for 'subsection (1C)' substitute 'subsection (1B)'.
+(4) In subsection (1D) for 'subsection (1C)' substitute 'subsection (1B)'.
 
 #### EIA 2006
 
@@ -5448,9 +5578,9 @@ Schedule 8 - Abolition of the QCDA: consequential amendments
 
 ## SCHEDULE 9
 
-### ABOLITION OF THE QCDA: TRANSFER SCHEMES
-
 Section 27
+
+### ABOLITION OF THE QCDA: TRANSFER SCHEMES
 
 #### Staff transfer schemes
 
@@ -5464,11 +5594,11 @@ Section 27
 
 (d) for anything done (or having effect as if done) before that transfer by or  in  relation  to  the  QCDA  in  respect  of  such  a  contract  or  the employee to be treated as having been done by or in relation to the Crown employer.
 
-- A  staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Crown employer's staff  to count as a period during which the employee was a member of the Crown employer's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
+- (2) A  staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Crown employer's staff  to count as a period during which the employee was a member of the Crown employer's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
 
-- A  staff  transfer  scheme  may  provide  for  the  employee  not  to  become  a member of the Crown employer's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
+- (3) A  staff  transfer  scheme  may  provide  for  the  employee  not  to  become  a member of the Crown employer's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
 
-- A staff transfer scheme may provide for a person who would be treated (by an  enactment  or  otherwise)  as  being  dismissed  by  the  operation  of  the scheme not to be so treated.
+- (4) A staff transfer scheme may provide for a person who would be treated (by an  enactment  or  otherwise)  as  being  dismissed  by  the  operation  of  the scheme not to be so treated.
 
 [[END OF PAGE 101]]
 
@@ -5480,13 +5610,13 @@ Education Act 2011 (c. 21 )
 
 Schedule 9 - Abolition of the QCDA: transfer schemes
 
-- A  staff  transfer  scheme  may  provide  for  an  employee  of  the  QCDA  to become a member of the Crown employer's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
+- (5) A  staff  transfer  scheme  may  provide  for  an  employee  of  the  QCDA  to become a member of the Crown employer's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
 
 #### Property transfer schemes
 
 - 2 (1) The Secretary of State may make a scheme (a 'property transfer scheme') providing for the transfer from the QCDA of designated property, rights or liabilities of the QCDA to Ofqual or the Secretary of State.
 
-- A property transfer scheme may-
+- (2) A property transfer scheme may-
 
 (a) create rights, or impose liabilities, in relation to property or rights transferred by virtue of the scheme;
 
@@ -5496,7 +5626,7 @@ Schedule 9 - Abolition of the QCDA: transfer schemes
 
 (d) make provision about the continuation of legal proceedings.
 
-- The things that may be transferred by a property transfer scheme include-
+- (3) The things that may be transferred by a property transfer scheme include-
 
 (a) property, rights and liabilities that could not otherwise be transferred;
 
@@ -5532,17 +5662,19 @@ Schedule 10 - School admissions: consequential amendments
 
 ## SCHEDULE 10
 
+Section 34
+
 ### SCHOOL ADMISSIONS: CONSEQUENTIAL AMENDMENTS
 
 #### Amendments consequential on the amendments to section 85A (admission forums)
 
 - 1 (1) Part 3 of SSFA 1998 (school admissions) is amended as follows.
 
-- Section  85B  (functions  of  admission  forums  in  relation  to  Academies)  is repealed.
+- (2) Section  85B  (functions  of  admission  forums  in  relation  to  Academies)  is repealed.
 
-- In section 88F (sections 88C to 88E: supplementary), in subsection (3), omit paragraph (f) (but not the 'and' following it).
+- (3) In section 88F (sections 88C to 88E: supplementary), in subsection (3), omit paragraph (f) (but not the 'and' following it).
 
-- In  section  88Q  (reports  under  section  88P:  provision  of  information),  in subsection (2), omit paragraph (b).
+- (4) In  section  88Q  (reports  under  section  88P:  provision  of  information),  in subsection (2), omit paragraph (b).
 
 - 2 In EA 2002, section 66 (insertion of section 85B of SSFA 1998: admissions forums in relation to Academies) is repealed.
 
@@ -5552,7 +5684,7 @@ Schedule 10 - School admissions: consequential amendments
 
 - 4 (1) Part 3 of SSFA 1998 (school admissions) is amended as follows.
 
-- In section 88K (sections 88H to 88J: supplementary)-
+- (2) In section 88K (sections 88H to 88J: supplementary)-
 
 (a) in subsection (1)-
 
@@ -5574,9 +5706,7 @@ Schedule 10 - School admissions: consequential amendments
 
 (e) in the heading, for 'to 88J' substitute 'and 88I'.
 
-- Section 88L (restriction on alteration of admission arrangements following adjudicator's decision) is repealed.
-
-Section 34
+- (3) Section 88L (restriction on alteration of admission arrangements following adjudicator's decision) is repealed.
 
 [[END OF PAGE 103]]
 
@@ -5590,6 +5720,8 @@ Schedule 11 - Establishment of new schools
 
 ## SCHEDULE 11
 
+Section 37
+
 ### ESTABLISHMENT OF NEW SCHOOLS
 
 #### Amendments to Part 2 of EIA 2006
@@ -5600,17 +5732,17 @@ Schedule 11 - Establishment of new schools
 
 ##### '6A Requirement to seek proposals for establishment of new Academies
 
-- If  a  local  authority  in  England  think  a  new  school  needs  to  be established in their area, they must seek proposals for the establishment of an Academy.
+- (1) If  a  local  authority  in  England  think  a  new  school  needs  to  be established in their area, they must seek proposals for the establishment of an Academy.
 
-- The  local  authority  must  specify  a  date  by  which  any  proposals sought under subsection (1) must be submitted to them.
+- (2) The  local  authority  must  specify  a  date  by  which  any  proposals sought under subsection (1) must be submitted to them.
 
-- After the specified date, the local authority must notify the Secretary of State-
+- (3) After the specified date, the local authority must notify the Secretary of State-
 
 (a) of  the  steps  they  have  taken  to  seek  proposals  for  the establishment of an Academy, and
 
 (b) of  any  proposals  submitted  to  them  as  a  result  before  the specified date, or of the fact that no such proposals have been submitted to them before that date.
 
-- A notification under subsection (3) must-
+- (4) A notification under subsection (3) must-
 
 (a) identify a possible site for the Academy, and
 
@@ -5630,17 +5762,15 @@ Schedule 11 - Establishment of new schools
 
 ##### '7A Withdrawal of notices under section 7
 
-- This section applies where a local authority have published a notice under section 7.
+- (1) This section applies where a local authority have published a notice under section 7.
 
-- At any time before the date specified in the notice-
+- (2) At any time before the date specified in the notice-
 
 (a) the local authority may withdraw it, with the consent of the Secretary of State, or
 
 (b) the  Secretary  of  State  may  direct  the  local  authority  to withdraw it.'
 
 - 5 Section 8 (proposals under section 7 relating to community or community special schools) is repealed.
-
-Section 37
 
 [[END OF PAGE 104]]
 
@@ -5654,13 +5784,13 @@ Schedule 11 - Establishment of new schools
 
 - 6 (1) Section 10 (publication of proposals with consent of Secretary of State) is amended as follows.
 
-- In subsection (1), for the words from '(otherwise' to the end substitute 'a new  community,  community  special,  foundation  or  foundation  special school, which-
+- (2) In subsection (1), for the words from '(otherwise' to the end substitute 'a new  community,  community  special,  foundation  or  foundation  special school, which-
 
 (a) is  not  to  be  one  providing  education  suitable  only  to  the requirements of persons above compulsory school age, and
 
 (b) is to replace one or more maintained schools, except where section 11(A2) applies or in a case within section 11(A3).'
 
-- In subsection (2)-
+- (3) In subsection (2)-
 
 (a) after 'voluntary' insert 'controlled';
 
@@ -5668,7 +5798,7 @@ Schedule 11 - Establishment of new schools
 
 - 7 (1) Section 11 (publication of proposals to establish maintained schools: special cases) is amended as follows.
 
-- Before subsection (1) insert-
+- (2) Before subsection (1) insert-
 
 '(A1) Subsection (A2) applies where a local authority in England publish a notice under section 7 (notice inviting proposals for establishment of new schools), and-
 
@@ -5686,11 +5816,11 @@ Schedule 11 - Establishment of new schools
 
 the authority must publish their proposals under this section.'
 
-- After subsection (1) insert-
+- (3) After subsection (1) insert-
 
 '(1A) Where  any  persons  ('proposers')  propose  to  establish  a  new voluntary aided school in England, they may publish their proposals under this section.'
 
-- In subsection (2)-
+- (4) In subsection (2)-
 
 (a) after 'voluntary' insert 'controlled';
 
@@ -5708,7 +5838,7 @@ Education Act 2011 (c. 21 )
 
 Schedule 11 - Establishment of new schools
 
-- After subsection (2) insert-
+- (5) After subsection (2) insert-
 
 '(2A) For  the  purposes  of  subsection  (2)(aa),  a  new  foundation  or voluntary  controlled  school  replaces  a  foundation  or  voluntary school which has a religious character if it is proposed that the new school-
 
@@ -5718,11 +5848,11 @@ Schedule 11 - Establishment of new schools
 
 (c) should not have a religious character.'
 
-- In subsection (3), after 'voluntary' insert 'controlled'.
+- (6) In subsection (3), after 'voluntary' insert 'controlled'.
 
-- In subsection (7), after 'subsection' insert '(1A) or'.
+- (7) In subsection (7), after 'subsection' insert '(1A) or'.
 
-- For subsection (9) substitute-
+- (8) For subsection (9) substitute-
 
 '(9) In this section-
 
@@ -5738,7 +5868,7 @@ Schedule 11 - Establishment of new schools
 
 - 10 (1) Schedule 2 (consideration, approval and implementation of proposals for establishment  or  discontinuance  of  schools  in  England)  is  amended  as follows.
 
-- After paragraph 3 insert-
+- (2) After paragraph 3 insert-
 
 ##### ''Academy proposals' and 'non-Academy proposals'
 
@@ -5748,9 +5878,9 @@ Schedule 11 - Establishment of new schools
 
 (b) 'non-Academy proposals' means proposals under section 7 for the establishment of a school falling within subsection (2)(a) of that section.'
 
-- In paragraph 4(a) (references to persons by whom proposals under section 7 are  made),  omit  'or  in  the  case  of  proposals  published  by  the  relevant authority under subsection (5)(b) of that section, by the relevant authority,'.
+- (3) In paragraph 4(a) (references to persons by whom proposals under section 7 are  made),  omit  'or  in  the  case  of  proposals  published  by  the  relevant authority under subsection (5)(b) of that section, by the relevant authority,'.
 
-- In paragraph 5(b) (requirement to forward objections and comments made in relation to proposals)-
+- (4) In paragraph 5(b) (requirement to forward objections and comments made in relation to proposals)-
 
 (a) for 'referred to' substitute 'to be considered by the Secretary of State or';
 
@@ -5766,39 +5896,39 @@ Schedule 11 - Establishment of new schools
 
 (b) after 'forward to' insert 'the Secretary of State or (as the case may be)'.
 
-- In the heading to Part 2, omit 'by Local Authority or Adjudicator'.
+- (5) In the heading to Part 2, omit 'by Local Authority or Adjudicator'.
 
-- For the heading before paragraph 6 substitute ' Consideration of proposals '.
+- (6) For the heading before paragraph 6 substitute ' Consideration of proposals '.
 
-- Before paragraph 6 insert-
+- (7) Before paragraph 6 insert-
 
 '5A (1) Academy proposals do not require consideration under paragraph 8 (see paragraph 7A instead).
 
-- If  proposals  under  section  7  consist  wholly  of  non-Academy proposals, the proposals require consideration under paragraph 8.
+- (2) If  proposals  under  section  7  consist  wholly  of  non-Academy proposals, the proposals require consideration under paragraph 8.
 
-- If proposals under section 7 include both Academy proposals and non-Academy  proposals,  the  non-Academy  proposals  do  not require consideration under paragraph 8 unless and until paragraph 7A(5) or (6) applies.'
+- (3) If proposals under section 7 include both Academy proposals and non-Academy  proposals,  the  non-Academy  proposals  do  not require consideration under paragraph 8 unless and until paragraph 7A(5) or (6) applies.'
 
-- In paragraph 6 (proposals under section 7, 10 or 11 requiring consideration under paragraph 8), omit '7,'.
+- (8) In paragraph 6 (proposals under section 7, 10 or 11 requiring consideration under paragraph 8), omit '7,'.
 
-- After paragraph 7 insert-
+- (9) After paragraph 7 insert-
 
 '7A (1) This paragraph applies where proposals under section 7 consist of or include Academy proposals.
 
-- The Secretary of State must decide whether to enter into Academy arrangements as a result of any of the Academy proposals.
+- (2) The Secretary of State must decide whether to enter into Academy arrangements as a result of any of the Academy proposals.
 
-- The  Secretary  of  State  must  notify  the  relevant  authority  of  a decision under sub-paragraph (2).
+- (3) The  Secretary  of  State  must  notify  the  relevant  authority  of  a decision under sub-paragraph (2).
 
-- Sub-paragraphs  (5)  and  (6)  apply  where  the  proposals  under section 7 include non-Academy proposals.
+- (4) Sub-paragraphs  (5)  and  (6)  apply  where  the  proposals  under section 7 include non-Academy proposals.
 
-- If  the  Secretary  of  State  decides  not  to  enter  into  Academy arrangements as a result of any of the Academy proposals, the non-Academy proposals require consideration under paragraph 8.
+- (5) If  the  Secretary  of  State  decides  not  to  enter  into  Academy arrangements as a result of any of the Academy proposals, the non-Academy proposals require consideration under paragraph 8.
 
-- In any other case, the Secretary of State may direct that all or any of  the  non-Academy  proposals  require  consideration  under paragraph 8.'
+- (6) In any other case, the Secretary of State may direct that all or any of  the  non-Academy  proposals  require  consideration  under paragraph 8.'
 
-- Omit the heading before paragraph 8.
+- (10) Omit the heading before paragraph 8.
 
-- In  paragraph  9  (consideration  of  proposals  that  are  related  to  other proposals), for sub-paragraph (2) substitute-
+- (11) In  paragraph  9  (consideration  of  proposals  that  are  related  to  other proposals), for sub-paragraph (2) substitute-
 
-'(2) Where  proposals  within  sub-paragraph  (2A)  appear  to  the relevant authority to be related to other proposals within that subparagraph that have not yet been determined, the authority must consider the proposals together.
+'(2) Where  proposals  within  sub-paragraph  (2A)  appear  to  the relevant authority to be related to other proposals within that sub-paragraph that have not yet been determined, the authority must consider the proposals together.
 
 (2A) The proposals within this sub-paragraph are-
 
@@ -5816,7 +5946,7 @@ Education Act 2011 (c. 21 )
 
 Schedule 11 - Establishment of new schools
 
-- In paragraph 10(1) (duty to refer to adjudicator certain proposals made by or involving relevant authority), for paragraph (a) substitute-
+- (12) In paragraph 10(1) (duty to refer to adjudicator certain proposals made by or involving relevant authority), for paragraph (a) substitute-
 
 '(a) all the proposals published under section 7 in response to a notice under that section and which-
 
@@ -5824,7 +5954,7 @@ Schedule 11 - Establishment of new schools
 
 (ii) consist of or include proposals which relate to the establishment of a foundation school with a foundation falling within sub-paragraph (2);'.
 
-- In  paragraph  12  (duty  to  refer  proposals  to  adjudicator  in  pursuance  of direction of Secretary of State)-
+- (13) In  paragraph  12  (duty  to  refer  proposals  to  adjudicator  in  pursuance  of direction of Secretary of State)-
 
 (a) in sub-paragraph (1)(a)-
 
@@ -5836,11 +5966,11 @@ Schedule 11 - Establishment of new schools
 
 (c) omit sub-paragraphs (2) and (3).
 
-- In paragraph 13 (duty to refer proposals to adjudicator where determination delayed),  in  paragraph  (a),  after  'section  7'  insert  'and  which  require consideration under paragraph 8'.
+- (14) In paragraph 13 (duty to refer proposals to adjudicator where determination delayed),  in  paragraph  (a),  after  'section  7'  insert  'and  which  require consideration under paragraph 8'.
 
-- Omit  paragraph  18  and  the  heading  before  it  (consultation  in  respect  of proposals to establish Academy).
+- (15) Omit  paragraph  18  and  the  heading  before  it  (consultation  in  respect  of proposals to establish Academy).
 
-- In paragraph 19(4) (determination whether or not to implement proposals under section 15 not requiring consideration under paragraph 8)-
+- (16) In paragraph 19(4) (determination whether or not to implement proposals under section 15 not requiring consideration under paragraph 8)-
 
 (a) after paragraph (a) insert-
 
@@ -5848,7 +5978,7 @@ Schedule 11 - Establishment of new schools
 
 (b) in paragraph (b), omit '7,'.
 
-- Omit paragraph 27 (proposals relating to Academy: implementation).
+- (17) Omit paragraph 27 (proposals relating to Academy: implementation).
 
 #### Other amendments
 
@@ -5856,13 +5986,13 @@ Schedule 11 - Establishment of new schools
 
 ## SCHEDULE 12
 
+Section 49
+
 ### FURTHER EDUCATION INSTITUTIONS: AMENDMENTS
 
 #### Amendments to FHEA 1992
 
 - 1 FHEA 1992 is amended as follows.
-
-Section 49
 
 [[END OF PAGE 108]]
 
@@ -5878,11 +6008,11 @@ Schedule 12 - Further education institutions: amendments
 
 ##### '16A Publication of proposals
 
-- The  appropriate  authority  may  not  make  an  order  under  section 16(1) or (3) unless the authority has published a draft of the proposed order, or of an order in substantially the same form, by such time and in such manner as may be prescribed.
+- (1) The  appropriate  authority  may  not  make  an  order  under  section 16(1) or (3) unless the authority has published a draft of the proposed order, or of an order in substantially the same form, by such time and in such manner as may be prescribed.
 
-- A  draft  proposal  or  order  in  respect  of  an  institution  which  is maintained by a local authority may not be published without the consent of the governing body and the local authority.
+- (2) A  draft  proposal  or  order  in  respect  of  an  institution  which  is maintained by a local authority may not be published without the consent of the governing body and the local authority.
 
-- In this section 'the appropriate authority' means-
+- (3) In this section 'the appropriate authority' means-
 
 (a) in relation to a proposal or order in respect of an institution in England, the Secretary of State;
 
@@ -5890,25 +6020,25 @@ Schedule 12 - Further education institutions: amendments
 
 - 3 (1) Section  19  (supplementary  powers  of  further  education  corporations)  is amended as follows.
 
-- In subsection (4)(c), for '27' substitute '27C or 33P'.
+- (2) In subsection (4)(c), for '27' substitute '27C or 33P'.
 
-- In subsection (4A), after 'exercised' insert 'by a further  education corporation in Wales'.
+- (3) In subsection (4A), after 'exercised' insert 'by a further  education corporation in Wales'.
 
-- In  subsection  (4AA),  after  'exercised'  insert  'by  a  further  education corporation in Wales'.
+- (4) In  subsection  (4AA),  after  'exercised'  insert  'by  a  further  education corporation in Wales'.
 
-- In subsection (4AB), for 'appropriate authority consents' substitute 'Welsh Ministers consent'.
+- (5) In subsection (4AB), for 'appropriate authority consents' substitute 'Welsh Ministers consent'.
 
-- Omit subsection (4AC).
+- (6) Omit subsection (4AC).
 
-- In subsection (4B)-
+- (7) In subsection (4B)-
 
 (a) after  'exercised'  insert  'by  a  further  education  corporation  in Wales';
 
 (b) omit 'the Chief Executive of Skills Funding or'.
 
-- In subsection (4C), omit 'the Chief Executive or' and '(as the case may be)'.
+- (8) In subsection (4C), omit 'the Chief Executive or' and '(as the case may be)'.
 
-- In subsection (5)-
+- (9) In subsection (5)-
 
 (a) after  'exercised'  insert  'by  a  further  education  corporation  in Wales';
 
@@ -5948,21 +6078,21 @@ A further education corporation in England may modify or replace their instrumen
 
 ##### 22ZA Subsequent instruments and articles: Wales
 
-- Subject to subsections (2) and (3), the Welsh Ministers may-
+- (1) Subject to subsections (2) and (3), the Welsh Ministers may-
 
 (a) if a further education corporation in Wales submits a draft of an instrument of government to have effect in place of their existing  instrument,  by  order  make  a  new  instrument  of government in the terms of the draft or in such terms as they think fit, and
 
 (b) if  such  a  corporation  submits  draft  modifications  of  an instrument made under paragraph (a), by order modify the instrument in the terms of the draft or in such terms as they think fit.
 
-- The  Welsh  Ministers  must  not  make  a  new  instrument  otherwise than in the terms of the draft, or modify the instrument otherwise than  in  the  terms  of  the  draft,  unless  they  have  consulted  the corporation.
+- (2) The  Welsh  Ministers  must  not  make  a  new  instrument  otherwise than in the terms of the draft, or modify the instrument otherwise than  in  the  terms  of  the  draft,  unless  they  have  consulted  the corporation.
 
-- If  the  institution  conducted  by  a  further  education  corporation mainly  serves  the  population  of  England,  or  receives  financial support  from  the  Chief  Executive  of  Skills  Funding,  the  Welsh Ministers must consult the Chief Executive of Skills Funding before making an order under subsection (1).
+- (3) If  the  institution  conducted  by  a  further  education  corporation mainly  serves  the  population  of  England,  or  receives  financial support  from  the  Chief  Executive  of  Skills  Funding,  the  Welsh Ministers must consult the Chief Executive of Skills Funding before making an order under subsection (1).
 
-- The Welsh Ministers may by order modify, replace or revoke any instrument of government or articles of government of any further education corporation in Wales.
+- (4) The Welsh Ministers may by order modify, replace or revoke any instrument of government or articles of government of any further education corporation in Wales.
 
-- An order under subsection (4) may relate to all further education corporations in Wales, to any category of such corporations specified in the order or to any such corporation so specified.
+- (5) An order under subsection (4) may relate to all further education corporations in Wales, to any category of such corporations specified in the order or to any such corporation so specified.
 
-- Before making an order under subsection (4), the Welsh Ministers must consult-
+- (6) Before making an order under subsection (4), the Welsh Ministers must consult-
 
 (a) the further education corporation or (as the case may be) each further education corporation to which the order relates, and
 
@@ -5978,13 +6108,13 @@ Schedule 12 - Further education institutions: amendments
 
 105
 
-- A further education corporation in Wales may, with the consent of the Welsh Ministers-
+- (7) A further education corporation in Wales may, with the consent of the Welsh Ministers-
 
 (a) make new articles of government in place of their existing articles, or
 
 (b) modify their existing articles.
 
-- The Welsh Ministers may by a direction under this section require further education corporations in Wales, any class of such corporations  specified  in  the  direction  or  any  particular  further education corporation so specified-
+- (8) The Welsh Ministers may by a direction under this section require further education corporations in Wales, any class of such corporations  specified  in  the  direction  or  any  particular  further education corporation so specified-
 
 (a) to modify, replace or revoke their articles of government, or
 
@@ -5992,35 +6122,35 @@ Schedule 12 - Further education institutions: amendments
 
 in any manner so specified.
 
-- Before  giving  a  direction  under  this  section,  the  Welsh  Ministers must consult the further education corporation or (as the case may be)  each  further  education  corporation  to  which  the  direction applies.'
+- (9) Before  giving  a  direction  under  this  section,  the  Welsh  Ministers must consult the further education corporation or (as the case may be)  each  further  education  corporation  to  which  the  direction applies.'
 
 - 7 For section 27 substitute-
 
 ##### '27 Proposals for dissolution of further education corporations: England
 
-- This section applies if a further education corporation in England propose that the corporation should be dissolved.
+- (1) This section applies if a further education corporation in England propose that the corporation should be dissolved.
 
-- The corporation must publish details of the proposal, and such other information as may be prescribed, in accordance with regulations.
+- (2) The corporation must publish details of the proposal, and such other information as may be prescribed, in accordance with regulations.
 
-- The corporation must consult on the proposal, and take account of the views of those consulted, in accordance with regulations.
+- (3) The corporation must consult on the proposal, and take account of the views of those consulted, in accordance with regulations.
 
 ##### 27A Dissolution of further education corporations: England
 
-- This section and section 27B apply if, after complying with section 27,  a  further  education  corporation  in  England  resolve  that  the corporation should be dissolved on a specified date.
+- (1) This section and section 27B apply if, after complying with section 27,  a  further  education  corporation  in  England  resolve  that  the corporation should be dissolved on a specified date.
 
-'The dissolution date' means the date specified in a resolution under subsection (1).
+(2) 'The dissolution date' means the date specified in a resolution under subsection (1).
 
-- The corporation must notify the Secretary of State of the resolution and the dissolution date as soon as reasonably practicable.
+- (3) The corporation must notify the Secretary of State of the resolution and the dissolution date as soon as reasonably practicable.
 
-- The corporation are dissolved on the dissolution date.
+- (4) The corporation are dissolved on the dissolution date.
 
 ##### 27B Dissolution of further education corporations: England: transfer of property, rights and liabilities
 
-- At any time before the dissolution date, the corporation may transfer any of their property, rights or liabilities to such person or body, or a person or body of such description, as may be prescribed.
+- (1) At any time before the dissolution date, the corporation may transfer any of their property, rights or liabilities to such person or body, or a person or body of such description, as may be prescribed.
 
-- The corporation may do so only with the consent of the person or body concerned.
+- (2) The corporation may do so only with the consent of the person or body concerned.
 
-- A transfer under subsection (1) has effect on the dissolution date.
+- (3) A transfer under subsection (1) has effect on the dissolution date.
 
 [[END OF PAGE 111]]
 
@@ -6032,31 +6162,31 @@ Education Act 2011 (c. 21 )
 
 Schedule 12 - Further education institutions: amendments
 
-- Subsection  (5)  applies  if  a  person  or  body  prescribed,  or  of  a description prescribed, under  subsection (1) is not a charity established for charitable purposes which are exclusively educational purposes.
+- (4) Subsection  (5)  applies  if  a  person  or  body  prescribed,  or  of  a description prescribed, under  subsection (1) is not a charity established for charitable purposes which are exclusively educational purposes.
 
-- Any property transferred to the person or body must be transferred on  trust  to  be  used  for  charitable  purposes  which  are  exclusively educational purposes.
+- (5) Any property transferred to the person or body must be transferred on  trust  to  be  used  for  charitable  purposes  which  are  exclusively educational purposes.
 
 ##### 27C Dissolution of further education corporations: Wales
 
-- Subject  to  the  following  provisions  of  this  section,  the  Welsh Ministers may by order provide for-
+- (1) Subject  to  the  following  provisions  of  this  section,  the  Welsh Ministers may by order provide for-
 
 (a) the dissolution of a further education corporation in Wales, and
 
 (b) the transfer to any person mentioned in subsection (2) or (3) of property, rights and liabilities of the corporation.
 
-- Such  property,  rights  and  liabilities  may,  with  the  consent  of  the person or body concerned, be transferred to-
+- (2) Such  property,  rights  and  liabilities  may,  with  the  consent  of  the person or body concerned, be transferred to-
 
 (a) any person appearing to the Welsh Ministers to be wholly or mainly engaged in the provision of educational facilities or services of any description, or
 
 (b) any body corporate established for purposes which include the provision of such facilities or services.
 
-- Such property, rights and liabilities may be transferred to a higher education funding council.
+- (3) Such property, rights and liabilities may be transferred to a higher education funding council.
 
-- Where the recipient of a transfer under an order under this section is not a charity established for charitable purposes which are exclusively educational purposes, any property transferred must be transferred  on  trust  to  be  used  for  charitable  purposes  which  are exclusively charitable purposes.
+- (4) Where the recipient of a transfer under an order under this section is not a charity established for charitable purposes which are exclusively educational purposes, any property transferred must be transferred  on  trust  to  be  used  for  charitable  purposes  which  are exclusively charitable purposes.
 
-- An  order  under  this  section  may  apply  section  26  with  such modifications as the Welsh Ministers consider necessary or desirable.
+- (5) An  order  under  this  section  may  apply  section  26  with  such modifications as the Welsh Ministers consider necessary or desirable.
 
-- Before  making an  order  under  this  section  in  respect  of  a  further education corporation, the Welsh Ministers must consult-
+- (6) Before  making an  order  under  this  section  in  respect  of  a  further education corporation, the Welsh Ministers must consult-
 
 (a) the corporation, and
 
@@ -6066,7 +6196,7 @@ Schedule 12 - Further education institutions: amendments
 
 ##### '29 Government and conduct of designated institutions
 
-- This section applies to a designated institution, other than-
+- (1) This section applies to a designated institution, other than-
 
 (a) an institution conducted by a company, or
 
@@ -6082,13 +6212,13 @@ Schedule 12 - Further education institutions: amendments
 
 107
 
-- For each designated institution to which this section applies, there is to be-
+- (2) For each designated institution to which this section applies, there is to be-
 
 (a) an instrument providing for the constitution of a governing body  of  the  institution  (to  be  known  as  the  instrument  of government), and
 
 (b) an instrument in accordance with which the institution is to be conducted (to be known as the articles of government).
 
-- In sections 29A to 29C-
+- (3) In sections 29A to 29C-
 
 'instrument' means an instrument of government or articles of government;
 
@@ -6100,11 +6230,11 @@ Schedule 12 - Further education institutions: amendments
 
 ##### 29A First post-designation instruments and articles of designated institutions: England and Wales
 
-- The first post-designation instrument and articles of government of a  designated  institution  to  which  section  29  applies  must  each comply  with  subsection  (3)  and  (if  the  institution  is  in  Wales) subsection (6).
+- (1) The first post-designation instrument and articles of government of a  designated  institution  to  which  section  29  applies  must  each comply  with  subsection  (3)  and  (if  the  institution  is  in  Wales) subsection (6).
 
-- The 'first post-designation instrument and articles of government' of  a  designated  institution  are  the  first  instrument  of  government and  articles of government  that  the  institution has after  the designation takes effect.
+- (2) The 'first post-designation instrument and articles of government' of  a  designated  institution  are  the  first  instrument  of  government and  articles of government  that  the  institution has after  the designation takes effect.
 
-- The instrument must meet one of the following requirements-
+- (3) The instrument must meet one of the following requirements-
 
 (a) the instrument was in force when the designation took effect and  is  approved  for  the  purposes  of  this  section  by  the appropriate authority;
 
@@ -6116,9 +6246,9 @@ Schedule 12 - Further education institutions: amendments
 
 (c) the  instrument  is  made  by  the  appropriate  authority  by order.
 
-- An instrument made by the governing body under subsection (3)(b) or  the  appropriate  authority  under  subsection  (3)(c)  may  replace wholly or in part an existing regulatory instrument.
+- (4) An instrument made by the governing body under subsection (3)(b) or  the  appropriate  authority  under  subsection  (3)(c)  may  replace wholly or in part an existing regulatory instrument.
 
-- Before making an instrument under subsection (3)(c), the appropriate authority must, so far as it appears practicable to do so, consult-
+- (5) Before making an instrument under subsection (3)(c), the appropriate authority must, so far as it appears practicable to do so, consult-
 
 (a) the governing body of the institution, and
 
@@ -6134,9 +6264,9 @@ Education Act 2011 (c. 21 )
 
 Schedule 12 - Further education institutions: amendments
 
-- If the institution is in Wales, provision made by the instrument in relation to the appointment of members of the governing body must take into account the members who may be appointed by the Welsh Ministers under section 39 of the Learning and Skills Act 2000.
+- (6) If the institution is in Wales, provision made by the instrument in relation to the appointment of members of the governing body must take into account the members who may be appointed by the Welsh Ministers under section 39 of the Learning and Skills Act 2000.
 
-- In this section 'the appropriate authority'-
+- (7) In this section 'the appropriate authority'-
 
 (a) in relation to an institution in England, means the Secretary of State;
 
@@ -6144,11 +6274,11 @@ Schedule 12 - Further education institutions: amendments
 
 ##### 29B Changes to instruments and articles: England
 
-- This section applies to a designated institution in England which is an institution to which section 29 applies.
+- (1) This section applies to a designated institution in England which is an institution to which section 29 applies.
 
-- The  governing  body  of  the  institution  may  modify  or  replace  its instrument of government and articles of government.
+- (2) The  governing  body  of  the  institution  may  modify  or  replace  its instrument of government and articles of government.
 
-- The  instrument  of  government  and  articles  of  government  (as modified or replaced)-
+- (3) The  instrument  of  government  and  articles  of  government  (as modified or replaced)-
 
 (a) must comply with the requirements of Part 2 of Schedule 4, and
 
@@ -6156,9 +6286,9 @@ Schedule 12 - Further education institutions: amendments
 
 ##### 29C Changes to instruments and articles: Wales
 
-- This section applies to a designated institution in Wales which is an institution to which section 29 applies.
+- (1) This section applies to a designated institution in Wales which is an institution to which section 29 applies.
 
-- Subject to subsection (3), the governing body of the institution may modify, replace or revoke its instrument of government and articles of government if -
+- (2) Subject to subsection (3), the governing body of the institution may modify, replace or revoke its instrument of government and articles of government if -
 
 (a) the instrument falls within section 29A(3)(a),
 
@@ -6166,11 +6296,11 @@ Schedule 12 - Further education institutions: amendments
 
 (c) the instrument was made in pursuance of a power under a regulatory  instrument,  where  there  is  no  other  power  to modify it.
 
-- An instrument approved under section 29A(3)(a) or (b) by the Welsh Ministers  may  not  be  modified,  replaced  or  revoked  without  the consent of the Welsh Ministers.
+- (3) An instrument approved under section 29A(3)(a) or (b) by the Welsh Ministers  may  not  be  modified,  replaced  or  revoked  without  the consent of the Welsh Ministers.
 
-- The Welsh Ministers may by order modify, replace or revoke the instrument of government or articles of government of the institution.
+- (4) The Welsh Ministers may by order modify, replace or revoke the instrument of government or articles of government of the institution.
 
-- Before making an order under subsection (4), the Welsh Ministers must, so far as it appears practicable to do so, consult-
+- (5) Before making an order under subsection (4), the Welsh Ministers must, so far as it appears practicable to do so, consult-
 
 (a) the governing body of the institution, and
 
@@ -6192,11 +6322,11 @@ Schedule 12 - Further education institutions: amendments
 
 - 11 (1) Section 33C (establishment of new bodies corporate as sixth form college corporations) is amended as follows.
 
-- In subsection (2), for 'the responsible local authority' substitute 'a person or body ('the proposer')'.
+- (2) In subsection (2), for 'the responsible local authority' substitute 'a person or body ('the proposer')'.
 
-- In subsection (3)(a), for 'authority have' substitute 'proposer has'.
+- (3) In subsection (3)(a), for 'authority have' substitute 'proposer has'.
 
-- In subsection (3)(c)-
+- (4) In subsection (3)(c)-
 
 (a) for 'authority have' substitute 'proposer has';
 
@@ -6226,11 +6356,11 @@ Schedule 12 - Further education institutions: amendments
 
 - 17 (1) Section 33J (special provision for certain institutions) is amended as follows.
 
-- After subsection (1) insert-
+- (2) After subsection (1) insert-
 
 '(1A) A sixth form college corporation to which this section applies may (accordingly) conduct the relevant sixth form college in a way that secures  that  the  established  character  of  the  sixth  form  college  is preserved  and  developed  (and,  in  particular,  in  a  way  that  is  in accordance with any trust deed relating to the college).'
 
-- In subsection (3)-
+- (3) In subsection (3)-
 
 (a) for 'reference in subsection (1)(a) to the established character of a sixth form college is' substitute 'references in subsections (1)(a) and (1A) to the established character of a sixth form college are';
 
@@ -6262,37 +6392,37 @@ Schedule 12 - Further education institutions: amendments
 
 ##### '33L Changes to instruments and articles
 
-- A  sixth  form  college  corporation  may  modify  or  replace  their instrument of government or articles of government.
+- (1) A  sixth  form  college  corporation  may  modify  or  replace  their instrument of government or articles of government.
 
-- A sixth form college corporation to which section 33J applies may do the things mentioned in subsection (1) only with the consent of the trustees of the relevant sixth form college.'
+- (2) A sixth form college corporation to which section 33J applies may do the things mentioned in subsection (1) only with the consent of the trustees of the relevant sixth form college.'
 
 - 20 For section 33N substitute-
 
 ##### '33N Proposals for dissolution of sixth form college corporations
 
-- This section applies if a sixth form college corporation propose that the corporation should be dissolved.
+- (1) This section applies if a sixth form college corporation propose that the corporation should be dissolved.
 
-- The corporation must publish details of the proposal, and such other information as may be prescribed, in accordance with regulations.
+- (2) The corporation must publish details of the proposal, and such other information as may be prescribed, in accordance with regulations.
 
-- The corporation must consult on the proposal, and take account of the views of those consulted, in accordance with regulations.
+- (3) The corporation must consult on the proposal, and take account of the views of those consulted, in accordance with regulations.
 
 ##### 33O Dissolution of sixth form college corporations
 
-- This section and section 33P apply if, after complying with section 33N, a sixth form college corporation resolve that the corporation should be dissolved on a specified date.
+- (1) This section and section 33P apply if, after complying with section 33N, a sixth form college corporation resolve that the corporation should be dissolved on a specified date.
 
-'The dissolution date' means the date specified in a resolution under subsection (1).
+(2) 'The dissolution date' means the date specified in a resolution under subsection (1).
 
-- The corporation must notify the Secretary of State of the resolution and the dissolution date as soon as reasonably practicable.
+- (3) The corporation must notify the Secretary of State of the resolution and the dissolution date as soon as reasonably practicable.
 
-- The corporation are dissolved on the dissolution date.
+- (4) The corporation are dissolved on the dissolution date.
 
 ##### 33P Dissolution of sixth form college corporations: transfer of property, rights and liabilities
 
-- At any time before the dissolution date, the corporation may transfer any of their property, rights or liabilities to such person or body, or a person or body of such description, as may be prescribed, subject to subsection (4).
+- (1) At any time before the dissolution date, the corporation may transfer any of their property, rights or liabilities to such person or body, or a person or body of such description, as may be prescribed, subject to subsection (4).
 
-- The corporation may do so only with the consent of the person or body concerned.
+- (2) The corporation may do so only with the consent of the person or body concerned.
 
-- A transfer under subsection (1) has effect on the dissolution date.
+- (3) A transfer under subsection (1) has effect on the dissolution date.
 
 [[END OF PAGE 116]]
 
@@ -6304,13 +6434,13 @@ Schedule 12 - Further education institutions: amendments
 
 111
 
-- In the case of a sixth form college corporation to which section 33J applies,  any  property  held  by  the  corporation  on  trust  for  the purposes of the relevant sixth form college must be transferred to the trustees of the relevant sixth form college.
+- (4) In the case of a sixth form college corporation to which section 33J applies,  any  property  held  by  the  corporation  on  trust  for  the purposes of the relevant sixth form college must be transferred to the trustees of the relevant sixth form college.
 
-- Subsection  (6)  applies  if  a  person  or  body  prescribed,  or  of  a description prescribed, under  subsection (1) is not a charity established for charitable purposes which are exclusively educational purposes.
+- (5) Subsection  (6)  applies  if  a  person  or  body  prescribed,  or  of  a description prescribed, under  subsection (1) is not a charity established for charitable purposes which are exclusively educational purposes.
 
-- Any property transferred to the person or body must be transferred on  trust  to  be  used  for  charitable  purposes  which  are  exclusively educational purposes.
+- (6) Any property transferred to the person or body must be transferred on  trust  to  be  used  for  charitable  purposes  which  are  exclusively educational purposes.
 
-- Subsection (6) does not apply to property transferred to the person or body by virtue of subsection (4).'
+- (7) Subsection (6) does not apply to property transferred to the person or body by virtue of subsection (4).'
 
 - 21 In section 38 (payments in respect of loan liabilities), in subsection (2), for 'YPLA' in both places substitute 'Secretary of State'.
 
@@ -6326,25 +6456,25 @@ Schedule 12 - Further education institutions: amendments
 
 - 25 (1) Section 56A (intervention by Chief Executive of Skills Funding) is amended as follows.
 
-- In subsection (1), for the words from 'Chief Executive of Skills Funding' to 'Executive')' substitute 'Secretary of State'.
+- (2) In subsection (1), for the words from 'Chief Executive of Skills Funding' to 'Executive')' substitute 'Secretary of State'.
 
-- In subsection (3), for 'Chief Executive' substitute 'Secretary of State'.
+- (3) In subsection (3), for 'Chief Executive' substitute 'Secretary of State'.
 
-- Omit subsection (4).
+- (4) Omit subsection (4).
 
-- In  subsections  (5)  and  (6),  for  'Chief  Executive',  wherever  occurring, substitute 'Secretary of State'.
+- (5) In  subsections  (5)  and  (6),  for  'Chief  Executive',  wherever  occurring, substitute 'Secretary of State'.
 
-- In subsection (7), after 'include' insert '- (a)' and at the end insert-
+- (6) In subsection (7), after 'include' insert '- (a)' and at the end insert-
 
 '(b) a direction requiring a governing body to make a resolution under section 27A(1) for the body to be dissolved on a date specified in the direction.
 
 (7A) A  governing  body  to  which  a  direction  such  as  is  mentioned  in subsection (7)(b) is given is to be taken for the purposes of section 27A(1)  to  have  complied  with  section  27  before  making  the resolution required by the direction.'
 
-- For subsection (9) substitute-
+- (7) For subsection (9) substitute-
 
 '(9) The Secretary of State may not give a direction to a governing body under subsection (6)(c) which relates to the dismissal of a member of staff.'
 
-- Omit subsection (10).
+- (8) Omit subsection (10).
 
 [[END OF PAGE 117]]
 
@@ -6366,11 +6496,11 @@ Schedule 12 - Further education institutions: amendments
 
 - 30 (1) Section 56E (intervention by local authority) is amended as follows.
 
-- In subsection (1), for 'responsible local authority are' substitute 'Secretary of State is'.
+- (2) In subsection (1), for 'responsible local authority are' substitute 'Secretary of State is'.
 
-- In subsection (3), for 'authority' substitute 'Secretary of State'.
+- (3) In subsection (3), for 'authority' substitute 'Secretary of State'.
 
-- For subsection (4) substitute-
+- (4) For subsection (4) substitute-
 
 '(4) Subsections  (4A)  and  (4B)  apply  to  a  sixth  form  college  which  is specified, or falls within a class specified, in an order under section 33J(2).
 
@@ -6386,7 +6516,7 @@ Schedule 12 - Further education institutions: amendments
 
 (b) the reasons for the decision.'
 
-- In subsection (5)-
+- (5) In subsection (5)-
 
 (a) for  'authority  do  one  or  more  of  those  things,  the  authority' substitute 'Secretary of State does one or more of the things listed in subsection (6), the Secretary of State';
 
@@ -6394,13 +6524,13 @@ Schedule 12 - Further education institutions: amendments
 
 (c) in paragraph (b), for 'authority have' substitute 'Secretary of State has'.
 
-- In subsection (6)-
+- (6) In subsection (6)-
 
 (a) for 'The authority' substitute 'The Secretary of State';
 
 (b) in paragraph (c), for 'authority think' substitute 'Secretary of State thinks'.
 
-- In subsection (7), after 'include' insert '- (a)' and at the end insert-
+- (7) In subsection (7), after 'include' insert '- (a)' and at the end insert-
 
 '(b) a direction requiring a governing body to make a resolution under section 33O(1) for the body to be dissolved on a date specified in the direction.
 
@@ -6416,13 +6546,13 @@ Schedule 12 - Further education institutions: amendments
 
 113
 
-- For subsection (9) substitute-
+- (8) For subsection (9) substitute-
 
 '(9) The Secretary of State may not give a direction to a governing body under subsection (6)(c) which relates to the dismissal of a member of staff.'
 
-- Omit subsection (10).
+- (9) Omit subsection (10).
 
-- In the heading, for 'local authorities' substitute 'Secretary of State'.
+- (10) In the heading, for 'local authorities' substitute 'Secretary of State'.
 
 - 31 Section  56F  (appointment  by  local  authorities  of  members  of  sixth  form college governing body) is repealed.
 
@@ -6436,7 +6566,7 @@ Schedule 12 - Further education institutions: amendments
 
 - 36 (1) Section 82 (joint exercise of functions) is amended as follows.
 
-- For subsection (1) substitute-
+- (2) For subsection (1) substitute-
 
 '(1) A relevant authority may exercise any of its functions jointly with-
 
@@ -6454,9 +6584,9 @@ where the condition in subsection (1B) is met.
 
 (b) will enable them more effectively to discharge any of their functions.'
 
-- In subsection (2), for the words from the beginning to 'provision' substitute 'A relevant authority must, if directed to do so by the Secretary of State, make provision jointly with another relevant authority or with the Secretary of State'.
+- (3) In subsection (2), for the words from the beginning to 'provision' substitute 'A relevant authority must, if directed to do so by the Secretary of State, make provision jointly with another relevant authority or with the Secretary of State'.
 
-- In subsection (3)(a) omit 'the YPLA,'.
+- (4) In subsection (3)(a) omit 'the YPLA,'.
 
 - 37 In section 83 (efficiency studies), in the table in subsection (1B), for 'YPLA' substitute 'Secretary of State'.
 
@@ -6484,7 +6614,7 @@ Schedule 12 - Further education institutions: amendments
 
 - 40 (1) Section 89 (orders, regulations and directions) is amended as follows.
 
-- In subsection (2)-
+- (2) In subsection (2)-
 
 (a) for '22, 29(6) and (8)' substitute '22ZA(1) and (4), 29A(3)(c), 29C(4)';
 
@@ -6492,9 +6622,9 @@ Schedule 12 - Further education institutions: amendments
 
 (c) omit 'or section 33L'.
 
-- In subsection (3), after 'subsection (3A)' insert 'or (3B)'.
+- (3) In subsection (3), after 'subsection (3A)' insert 'or (3B)'.
 
-- After subsection (3A) insert-
+- (4) After subsection (3A) insert-
 
 '(3B) An order falls within this subsection if-
 
@@ -6504,7 +6634,7 @@ Schedule 12 - Further education institutions: amendments
 
 - 41 (1) Section 90 (interpretation) is amended as follows.
 
-- In subsection (1)-
+- (2) In subsection (1)-
 
 (a) after the definition of 'further education' insert-
 
@@ -6514,19 +6644,14 @@ Schedule 12 - Further education institutions: amendments
 
 (b) omit  the  definitions  of  'the  responsible  local  authority'  and  'the YPLA'.
 
-- Omit subsection (2ZA).
+- (3) Omit subsection (2ZA).
 
 - 42 In section 92 (index)-
 
 (a) after the entry for 'further education corporation' insert-
 
-'further education corporation in England
-
-further education corporation in Wales
-
-section 90(1)
-
-section 90(1)'
+'further education corporation in England    section 90(1)
+further education corporation in Wales      section 90(1)'
 
 (b) omit the entries for 'responsible local authority' and 'the YPLA'.
 
@@ -6566,7 +6691,37 @@ Schedule 12 - Further education institutions: amendments
 
 ### ENGLAND
 
-2 This Part applies in relation to(a) a further education corporation in England; (b) the governing body of a designated institution in England; (c) a sixth form college corporation. 3 In this Part 'the body' means(a) in  the  case  of  a  further  education  corporation  or  a  sixth form college corporation, the corporation; (b) in the case of a governing body, the governing body. 4 An instrument must provide for(a) the number of members of the body, (b) the eligibility of persons for membership, (c) the members to include(i) staff and students at the institution, and (ii) in  the  case  of  a  sixth  form  college  corporation, parents of students at the institution aged under 19, and (d) the appointment of members. 5 (1) An instrument must make provision about the procedures of the body and the institution. (2) In  particular,  an  instrument  must  specify  how  the  body  may resolve for its dissolution and the transfer of its property, rights and liabilities.
+2 This Part applies in relation to-
+
+(a) a further education corporation in England;
+
+(b) the governing body of a designated institution in England;
+
+(c) a sixth form college corporation.
+
+3 In this Part 'the body' means-
+
+(a) in  the  case  of  a  further  education  corporation  or  a  sixth form college corporation, the corporation;
+
+(b) in the case of a governing body, the governing body.
+
+4 An instrument must provide for-
+
+(a) the number of members of the body,
+
+(b) the eligibility of persons for membership,
+
+(c) the members to include-
+
+(i) staff and students at the institution, and
+
+(ii) in  the  case  of  a  sixth  form  college  corporation, parents of students at the institution aged under 19, and
+
+(d) the appointment of members.
+
+5 (1) An instrument must make provision about the procedures of the body and the institution.
+
+(2) In  particular,  an  instrument  must  specify  how  the  body  may resolve for its dissolution and the transfer of its property, rights and liabilities.
 
 - 6 (1) An instrument must make provision for there to be-
 
@@ -6584,9 +6739,9 @@ Schedule 12 - Further education institutions: amendments
 
 (b) a clerk to the body.
 
-- An  instrument must make  provision about the respective responsibilities of the body, the chief executive and the clerk.
+- (2) An  instrument must make  provision about the respective responsibilities of the body, the chief executive and the clerk.
 
-- The responsibilities of the body must include-
+- (3) The responsibilities of the body must include-
 
 (a) in  the  case  of  a  sixth  form  college  corporation  to  which section 33J applies, the preservation and development of the  educational  character  and  mission  of  the  institution and the oversight of its activities;
 
@@ -6640,7 +6795,7 @@ who may be appointed by the Welsh Ministers under section 39 of the Learning and
 
 (c) the appointment of members.
 
-- An instrument may provide for the nomination of any person for membership by another, including by a body nominated by the Welsh Ministers.
+- (2) An instrument may provide for the nomination of any person for membership by another, including by a body nominated by the Welsh Ministers.
 
 - 16 An instrument must provide for one or more officers to be chosen from among the members.
 
@@ -6696,9 +6851,9 @@ Schedule 12 - Further education institutions: amendments
 
 - 44 (1) LSA 2000 is amended as follows.
 
-- In  section  110  (secondary  education),  in  subsection  (5),  for  '51(3A)' substitute '16A(2)'.
+- (2) In  section  110  (secondary  education),  in  subsection  (5),  for  '51(3A)' substitute '16A(2)'.
 
-- In section 143 (further education sector: designated institutions), in subsection (6)(b), for 'section 29' substitute 'any of sections 29 to 29C'.
+- (3) In section 143 (further education sector: designated institutions), in subsection (6)(b), for 'section 29' substitute 'any of sections 29 to 29C'.
 
 - 45 In section 22 of the Further Education and Training Act 2007 (consultation of further education institutions), in the new section 49A to be inserted into FHEA 1992 in relation to Wales-
 
@@ -6712,11 +6867,11 @@ Schedule 12 - Further education institutions: amendments
 
 - 46 (1) ASCLA 2009 is amended as follows.
 
-- In section 256 (further education corporations in England: co-operation and promotion of well-being), omit subsection (3).
+- (2) In section 256 (further education corporations in England: co-operation and promotion of well-being), omit subsection (3).
 
-- In Schedule 6 (dissolution of the Learning and Skills Council for England: minor and consequential amendments), omit paragraphs 3(2), 4(a), 5(a), 7(2), (3), (4)(b), (5)(a), (6) and (7), 8 to 11 and 12(a).
+- (3) In Schedule 6 (dissolution of the Learning and Skills Council for England: minor and consequential amendments), omit paragraphs 3(2), 4(a), 5(a), 7(2), (3), (4)(b), (5)(a), (6) and (7), 8 to 11 and 12(a).
 
-- In Schedule 8 (sixth form college sector), omit paragraphs 7 and 11(3).
+- (4) In Schedule 8 (sixth form college sector), omit paragraphs 7 and 11(3).
 
 ## SCHEDULE 13
 
@@ -6732,9 +6887,9 @@ Section 54
 
 - 3 (1) Section 6 (effect of Academy order) is amended as follows.
 
-- In subsection (2), for 'a school' substitute 'an educational institution'.
+- (2) In subsection (2), for 'a school' substitute 'an educational institution'.
 
-- In subsection (3) -
+- (3) In subsection (3) -
 
 (a) after  'selective  school'  insert  'and  is  to  be  converted  into  an Academy school';
 
@@ -6742,7 +6897,7 @@ Section 54
 
 (c) for 'a school' substitute 'an educational institution'.
 
-- In subsection (5)-
+- (4) In subsection (5)-
 
 (a) at the beginning insert 'If the Academy is an Academy school,';
 
@@ -6758,7 +6913,7 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 119
 
-- In subsection (7), after 'the school' insert '(a)' and at the end insert ', and
+- (5) In subsection (7), after 'the school' insert '(a)' and at the end insert ', and
 
 (b) is to be converted into an Academy school.'
 
@@ -6766,25 +6921,23 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 - 5 (1) Schedule 1 (Academies: land) (substituted by Schedule 14) is amended as follows.
 
-- In  paragraph  10  (power  of  Secretary  of  State  to  make  direction  where Academy order made)-
+- (2) In  paragraph  10  (power  of  Secretary  of  State  to  make  direction  where Academy order made)-
 
 (a) in sub-paragraph (1)(b), for  'Academy'  substitute  'Academy school';
 
 (b) in sub-paragraph (3)(c), for 'Academy'  substitute  'Academy school'.
 
-- In  paragraph  13  (transfer  of  land  and  other  property  on  dissolution  of governing body), in sub-paragraph  (3)(b), for  'Academy'  substitute 'Academy school'.
+- (3) In  paragraph  13  (transfer  of  land  and  other  property  on  dissolution  of governing body), in sub-paragraph  (3)(b), for  'Academy'  substitute 'Academy school'.
 
 #### Other Acts
 
 - 6 (1) The Children Act 1989 is amended as follows.
 
-- In section 62 (voluntary organisations providing accommodation: duties of local  authorities),  in  subsection  (10),  after  '1992,'  insert  'a  16  to  19 Academy'.
+- (2) In section 62 (voluntary organisations providing accommodation: duties of local  authorities),  in  subsection  (10),  after  '1992,'  insert  'a  16  to  19 Academy'.
 
-- In section 80 (inspection of children's homes etc by persons authorised by Secretary of State)-
+- (3) In section 80 (inspection of children's homes etc by persons authorised by Secretary of State)-
 
-(a)
-
-- in subsection (5), after paragraph (dc) insert-
+(a) in subsection (5), after paragraph (dc) insert-
 
 '(dd) proprietor of a 16 to 19 Academy;';
 
@@ -6794,7 +6947,7 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 ''proprietor' has the same meaning as in the Education Act 1996.'
 
-- In section 87 (welfare of children in boarding schools and colleges)-
+- (4) In section 87 (welfare of children in boarding schools and colleges)-
 
 (a) in  subsection  (10),  in  the  definition  of  'college',  after  '1992  Act' insert 'or a 16 to 19 Academy';
 
@@ -6808,7 +6961,7 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 - 8 (1) FHEA 1992 is amended as follows.
 
-- In section 85A (nuisance or disturbance on educational premises)-
+- (2) In section 85A (nuisance or disturbance on educational premises)-
 
 (a) in  subsection  (2),  omit  the  'and'  after  paragraph  (a)  and  after paragraph (b) insert ', and
 
@@ -6824,29 +6977,51 @@ Education Act 2011 (c. 21 )
 
 Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequential amendments
 
-(5)
+(b) in subsection (4), omit the 'and' after paragraph (a) and after paragraph (b) insert ', and
 
-- 9 (1) EA 1996 is amended as follows.
+(c) in relation to premises of a 16 to 19 Academy, the proprietor.';
 
-(2)
-
-(b) in  subsection  (4),  omit  the  'and'  after  paragraph  (a)  and  after paragraph (b) insert ', and
-
-(c) in  relation  to  premises  of  a  16  to  19  Academy,  the proprietor.';
-
-(c) in  subsection  (6),  omit  the  'and'  after  paragraph  (a)  and  after paragraph (b) insert ', and
+(c) in subsection (6), omit the 'and' after paragraph (a) and after paragraph (b) insert ', and
 
 (c) in relation to an offence committed on premises of a 16 to 19 Academy, a person whom the proprietor has authorised to bring such proceedings.'
 
-- In section 85AA (power of members of staff to search students for prohibited items: England)-
+- (3) In section 85AA (power of members of staff to search students for prohibited items: England)-
 
 (a) in subsection (1), after 'England' insert ', or a 16 to 19 Academy,';
 
-(b) in subsection (6), in the definition of 'member of staff', after 'further
+(b) in subsection (6), in the definition of 'member of staff', after 'further education sector' insert 'or a 16 to 19 Academy'.
 
-- education sector' insert 'or a 16 to 19 Academy'. (4) In section 85AB (power of search under section 85AA: supplementary), in subsection  (3),  after  'England'  insert  ',  or  a  principal  of  a  16  to  19 Academy,'. In section 85C (power of members of staff to use force)(a) in subsection (1), after 'further education sector' insert 'or is a 16 to 19 Academy'; (b) in subsection (5), after 'further education sector' insert 'or a 16 to 19 Academy'. In section 4 (schools: general)(a) in subsection (1), for 'subsection (1A)' substitute 'subsections (1A) to (1C)'; (b) after subsection (1A) insert'(1B) A 16 to 19 Academy is not a school. (1C) An alternative provision Academy is a school.' (3) In section 11 (Secretary of State's duty in the case of primary, secondary and further education)(a) in subsection (1)(a), omit the 'or' after sub-paragraph (i) and after sub-paragraph (ii) insert 'or (iii) in 16 to 19 Academies,'; (b) in subsection (1)(b), for 'or institutions within the further education sector' substitute ', institutions within the further education sector or 16 to 19 Academies'; (c) in subsection (2), for 'and institutions within the further education sector' substitute ', institutions within the further education sector and 16 to 19 Academies'.
+- (4) In section 85AB (power of search under section 85AA: supplementary), in subsection (3), after 'England' insert ', or a principal of a 16 to 19 Academy,'.
 
-(4) In section 329A (review or assessment of educational needs at request of responsible body), in subsection (12), after paragraph (d) insert-
+- (5) In section 85C (power of members of staff to use force)-
+
+(a) in subsection (1), after 'further education sector' insert 'or is a 16 to 19 Academy';
+
+(b) in subsection (5), after 'further education sector' insert 'or a 16 to 19 Academy'.
+
+- 9 (1) EA 1996 is amended as follows.
+
+- (2) In section 4 (schools: general)-
+
+(a) in subsection (1), for 'subsection (1A)' substitute 'subsections (1A) to (1C)';
+
+(b) after subsection (1A) insert-
+
+'(1B) A 16 to 19 Academy is not a school.
+
+(1C) An alternative provision Academy is a school.'
+
+- (3) In section 11 (Secretary of State's duty in the case of primary, secondary and further education)-
+
+(a) in subsection (1)(a), omit the 'or' after sub-paragraph (i) and after sub-paragraph (ii) insert 'or
+
+(iii) in 16 to 19 Academies,';
+
+(b) in subsection (1)(b), for 'or institutions within the further education sector' substitute ', institutions within the further education sector or 16 to 19 Academies';
+
+(c) in subsection (2), for 'and institutions within the further education sector' substitute ', institutions within the further education sector and 16 to 19 Academies'.
+
+- (4) In section 329A (review or assessment of educational needs at request of responsible body), in subsection (12), after paragraph (d) insert-
 
 '(da) an alternative provision Academy that is not an independent school,'.
 
@@ -6860,17 +7035,17 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 121
 
-- In  section  332B  (special  educational  provision:  resolution  of  disputes),  in subsection (8)(c), for 'or an Academy' substitute ', an Academy school or an alternative provision Academy'.
+- (5) In section 332B (special educational provision: resolution of disputes), in subsection (8)(c), for 'or an Academy' substitute ', an Academy school or an alternative provision Academy'.
 
-- In section 337 (special schools), in paragraph (b), for 'Academy' substitute 'Academy school'.
+- (6) In section 337 (special schools), in paragraph (b), for 'Academy' substitute 'Academy school'.
 
-- In  section  444  (offence:  failure  to  secure  regular  attendance  at  school  of registered pupil), in subsection (7A)(a), for sub-paragraph (iii) substitute-
+- (7) In section 444 (offence: failure to secure regular attendance at school of registered pupil), in subsection (7A)(a), for sub-paragraph (iii) substitute-
 
 '(iii) an Academy school,
 
 (iiia) an alternative provision Academy,'.
 
-- In  section  444ZA  (application  of  section  444  to  alternative  education provision), in subsection (8)-
+- (8) In section 444ZA (application of section 444 to alternative education provision), in subsection (8)-
 
 (a) in paragraph (a), for sub-paragraph (iii) substitute-
 
@@ -6880,25 +7055,25 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 (b) in paragraph (b), after '(iii),' insert '(iiia),'.
 
-- In  section  444B  (penalty  notices:  supplemental),  in  subsection  (4),  in  the definition of 'relevant school', for paragraph (c) substitute-
+- (9) In section 444B (penalty notices: supplemental), in subsection (4), in the definition of 'relevant school', for paragraph (c) substitute-
 
 '(c) an Academy school,
 
 (ca) an alternative provision Academy,'.
 
-- In section 508A (local authorities in England: duty to promote sustainable modes of travel)-
+- (10) In section 508A (local authorities in England: duty to promote sustainable modes of travel)-
 
 (a) in subsection (5)(b), after 'further education sector' insert ', or 16 to 19 Academies,';
 
 (b) in subsection (6)(b), after 'further education sector' insert ', or 16 to 19 Academies,'.
 
-- In  section  508C  (local  authorities  in  England:  travel  arrangements  etc  for children  other  than  eligible  children),  in  subsection  (6)(b),  after  'further education sector' insert ', or 16 to 19 Academy,'.
+- (11) In section 508C (local authorities in England: travel arrangements etc for children other than eligible children), in subsection (6)(b), after 'further education sector' insert ', or 16 to 19 Academy,'.
 
-- In section 508G (local authorities in England: transport policy statements for young adults subject to learning difficulty assessment), in subsection (1), after paragraph (b) insert-
+- (12) In section 508G (local authorities in England: transport policy statements for young adults subject to learning difficulty assessment), in subsection (1), after paragraph (b) insert-
 
 '(ba) proprietors of 16 to 19 Academies in the authority's area,'.
 
-- In section 509AA (local authorities in England: provision of transport etc for persons of sixth form age)-
+- (13) In section 509AA (local authorities in England: provision of transport etc for persons of sixth form age)-
 
 (a) in subsection (2), omit the 'or' at the end of paragraph (c) and after that paragraph insert-
 
@@ -6906,11 +7081,11 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 (b) in subsection (2)(d), for 'or (c)' substitute ', (c) or (ca)'.
 
-- In  section  510  (provision  of  clothing),  in  subsection  (4)(b),  after  'further education sector' insert 'or a 16 to 19 Academy'.
+- (14) In section 510 (provision of clothing), in subsection (4)(b), after 'further education sector' insert 'or a 16 to 19 Academy'.
 
-- In  section  537  (power  of  Secretary  of  State  to  require  information  from governing bodies etc), in subsection (1)(b), after 'every' insert '(i)' and at the end insert 'or
+- (15) In section 537 (power of Secretary of State to require information from governing bodies etc), in subsection (1)(b), after 'every' insert '(i)' and at the end insert 'or
 
-(ii) alternative  provision  Academy  which  is  not  an independent school,'.
+(ii) alternative provision Academy which is not an independent school,'.
 
 [[END OF PAGE 127]]
 
@@ -6922,11 +7097,11 @@ Education Act 2011 (c. 21 )
 
 Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequential amendments
 
-- In  section  557  (adoption  of  statutory  trusts),  in  subsection  (10),  in  the definition of 'relevant school', for 'Academy,' substitute 'Academy school, alternative provision Academy,'.
+- (16) In section 557 (adoption of statutory trusts), in subsection (10), in the definition of 'relevant school', for 'Academy,' substitute 'Academy school, alternative provision Academy,'.
 
-- In section 579(1) (general interpretation)-
+- (17) In section 579(1) (general interpretation)-
 
-(a) in  the  definition  of  'Academy',  for  'a  school'  substitute  'an educational institution';
+(a) in the definition of 'Academy', for 'a school' substitute 'an educational institution';
 
 (b) after the definition of 'Academy order' insert-
 
@@ -6938,34 +7113,33 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 (ii) after 'the school' insert 'or Academy'.
 
-- In section 580 (index), at the appropriate places insert the following entries-
+- (18) In section 580 (index), at the appropriate places insert the following entries-
 
-- In paragraph 15(2) of Schedule 1 (management committees of pupil referral units), after paragraph (g) insert-
+'Academy school | Section 579(1)'
+'alternative provision Academy | Section 579(1)'
+'16 to 19 Academy | Section 579(1)'.
 
-'(ga) about  the  effect  of  closure  of  a  pupil  referral  unit  on members  of  the  management  committee  for  the  unit  or members of any sub-committee;'.
+- (19) In paragraph 15(2) of Schedule 1 (management committees of pupil referral units), after paragraph (g) insert-
 
-- In  paragraph  15(2)  of  Schedule  35B  (travel  arrangements  for  eligible children:  meaning  of  'qualifying  school'),  in  paragraph  (f),  for  'or  an Academy'  substitute  ',  an  Academy  school  or  an  alternative  provision Academy'.
+'(ga) about the effect of closure of a pupil referral unit on members of the management committee for the unit or members of any sub-committee;'.
+
+- (20) In paragraph 15(2) of Schedule 35B (travel arrangements for eligible children: meaning of 'qualifying school'), in paragraph (f), for 'or an Academy' substitute ', an Academy school or an alternative provision Academy'.
 
 - 10 (1) SSFA 1998 is amended as follows.
 
-- In section 77 (control of disposals or changes in use of school playing fields) (as amended by Schedule 14)-
+- (2) In section 77 (control of disposals or changes in use of school playing fields) (as amended by Schedule 14)-
 
 (a) in subsection (2B)(c)(ii), for 'of Academy' substitute 'of Academy school';
 
-(b) in subsection (3), for 'Academy'  (in both places) substitute 'Academy school';
+(b) in subsection (3), for 'Academy' (in both places) substitute 'Academy school';
 
 (c) in subsection (4B), for 'Academy' substitute 'Academy school'.
 
-- In  section  88  (admission  authorities  and  admission  arrangements),  in subsection  (1)(c)  (inserted  by  section  64),  for  'Academy'  (in  both  places) substitute 'Academy school'.
+- (3) In section 88 (admission authorities and admission arrangements), in subsection (1)(c) (inserted by section 64), for 'Academy' (in both places) substitute 'Academy school'.
 
-- In  section  88H  (reference  of  objections  to  adjudicator)  (as  amended  by section 64)-
+- (4) In section 88H (reference of objections to adjudicator) (as amended by section 64)-
 
 (a) in subsection (1A), for 'an Academy' (in both places) substitute 'an Academy school';
-
-'Academy school | Section 579(1)'
---- | --- | ---
-'alternative Academy | provision | Section 579(1)'
-'16 to 19 Academy | Section 579(1)'.
 
 [[END OF PAGE 128]]
 
@@ -6979,23 +7153,23 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 (b) in subsection (6)(b), for 'Academy' substitute 'Academy school'.
 
-- In section 88I (other functions of adjudicator relating  to  admission arrangements), in subsection (1)(b) (inserted by section 64), for 'Academy' substitute 'Academy school'.
+- (5) In section 88I (other functions of adjudicator relating to admission arrangements), in subsection (1)(b) (inserted by section 64), for 'Academy' substitute 'Academy school'.
 
-- In  section  88K  (sections  88H  and  88I:  supplementary)  (as  amended  by section 64)-
+- (6) In section 88K (sections 88H and 88I: supplementary) (as amended by section 64)-
 
 (a) in subsection (4)(a), for 'Academy' substitute 'Academy school';
 
-(b) in  subsection  (5)(b),  for  'an  Academy'  substitute  'an  Academy school'.
+(b) in subsection (5)(b), for 'an Academy' substitute 'an Academy school'.
 
-- In  section  88P  (reports  by  local  authorities),  in  subsection  (3)(b),  for 'Academy' substitute 'Academy school'.
+- (7) In section 88P (reports by local authorities), in subsection (3)(b), for 'Academy' substitute 'Academy school'.
 
-- In  section  88Q  (reports  under  section  88P:  provision  of  information),  in subsection (2)(d)(i), for 'Academy' substitute 'Academy school'.
+- (8) In section 88Q (reports under section 88P: provision of information), in subsection (2)(d)(i), for 'Academy' substitute 'Academy school'.
 
-- In section 110 (home-school agreements), in subsection (1)(b), for 'Academy' substitute 'Academy school'.
+- (9) In section 110 (home-school agreements), in subsection (1)(b), for 'Academy' substitute 'Academy school'.
 
 - 11 In section 24 of the Anti-social Behaviour Act 2003 (sections 19 to 22A and 24: interpretation)-
 
-(a) in  the  definition  of  'governing  body',  for  'Academy'  substitute 'Academy school, alternative provision Academy';
+(a) in the definition of 'governing body', for 'Academy' substitute 'Academy school, alternative provision Academy';
 
 (b) in the definition of 'relevant school', for paragraph (e) substitute-
 
@@ -7007,23 +7181,25 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 - 13 (1) EA 2002 is amended as follows.
 
-- In section 135A (requirement to serve induction period: teachers in England) (inserted by section 9)-
+- (2) In section 135A (requirement to serve induction period: teachers in England) (inserted by section 9)-
 
 (a) in subsection (1)(d), after 'prescribed description)' insert 'or a 16 to 19 Academy';
 
-(b) in  subsection  (2)(k),  for  'or  to  institutions  within  the  further education sector' substitute 'institutions within the further education sector or 16 to 19 Academies';
+(b) in subsection (2)(k), for 'or to institutions within the further education sector' substitute 'institutions within the further education sector or 16 to 19 Academies';
 
 (c) in subsection (5), after 'further education sector' insert 'or a 16 to 19 Academy'.
 
-- In section 141A (teacher misconduct: teachers to whom sections 141B to 141E apply) (inserted by section 8), in subsection (1), after paragraph (b) insert'(ba) a 16 to 19 Academy,'.
+- (3) In section 141A (teacher misconduct: teachers to whom sections 141B to 141E apply) (inserted by section 8), in subsection (1), after paragraph (b) insert-
 
-- In section 141D (supply of information following dismissal, resignation etc) (inserted by section 8), in subsection (4), in paragraph (c) of the definition of 'relevant employer', after 'school' insert 'or 16 to 19 Academy'.
+'(ba) a 16 to 19 Academy,'.
 
-(5)
+- (4) In section 141D (supply of information following dismissal, resignation etc) (inserted by section 8), in subsection (4), in paragraph (c) of the definition of 'relevant employer', after 'school' insert 'or 16 to 19 Academy'.
 
-- In section 203 (further education institutions: hazardous material, etc)(a) after subsection (1) insert-
+- (5) In section 203 (further education institutions: hazardous material, etc)-
 
-'(1A) The  Secretary  of  State  may  by  regulations  require  the proprietor of a 16 to 19 Academy to prevent the use in the
+(a) after subsection (1) insert-
+
+'(1A) The Secretary of State may by regulations require the proprietor of a 16 to 19 Academy to prevent the use in the
 
 [[END OF PAGE 129]]
 
@@ -7035,51 +7211,51 @@ Education Act 2011 (c. 21 )
 
 Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequential amendments
 
-Academy  of  specified  equipment  or  specified  materials without the approval of the Secretary of State.';
+Academy of specified equipment or specified materials without the approval of the Secretary of State.';
 
 (b) in subsection (5), at the end insert 'and 'proprietor' has the same meaning as in the Education Act 1996'.
 
-- 14 In  section  71  of  the  Income  Tax  (Trading  and  Other  Income)  Act  2005 (educational establishments for the purposes of section 70), in subsection (1), omit the 'or' after paragraph (c) and after paragraph (d) insert ', or
+- 14 In section 71 of the Income Tax (Trading and Other Income) Act 2005 (educational establishments for the purposes of section 70), in subsection (1), omit the 'or' after paragraph (c) and after paragraph (d) insert ', or
 
 (e) a 16 to 19 Academy.'
 
 - 15 (1) EA 2005 is amended as follows.
 
-- In  section  5  (duty  to  inspect  certain  schools  at  prescribed  intervals),  in subsection (2), for paragraph (d) substitute-
+- (2) In section 5 (duty to inspect certain schools at prescribed intervals), in subsection (2), for paragraph (d) substitute-
 
 '(d) Academy schools,
 
 (da) alternative provision Academies,'.
 
-- In  section  113  (information  about  the  school  workforce:  introductory),  in subsection (2)(c), after 'institution' insert 'or a 16 to 19 Academy'.
+- (3) In section 113 (information about the school workforce: introductory), in subsection (2)(c), after 'institution' insert 'or a 16 to 19 Academy'.
 
 - 16 (1) EIA 2006 is amended as follows.
 
-- In section 7 (invitation for proposals for establishment of new schools), in subsection (2)(b), for 'Academy' substitute 'Academy school'.
+- (2) In section 7 (invitation for proposals for establishment of new schools), in subsection (2)(b), for 'Academy' substitute 'Academy school'.
 
-- In section 100 (duty of governing body or proprietor where pupil excluded for fixed period), in subsection (5), in the definition of 'governing body', for 'Academy,' substitute 'Academy school, an alternative provision Academy,'.
+- (3) In section 100 (duty of governing body or proprietor where pupil excluded for fixed period), in subsection (5), in the definition of 'governing body', for 'Academy,' substitute 'Academy school, an alternative provision Academy,'.
 
-- In section 104 (notice to parent relating to excluded pupil), in subsection (8), in  paragraph  (c)  of  the  definition  of  'the  appropriate  authority',  for 'Academy,' substitute 'Academy school, an alternative provision Academy,'.
+- (4) In section 104 (notice to parent relating to excluded pupil), in subsection (8), in paragraph (c) of the definition of 'the appropriate authority', for 'Academy,' substitute 'Academy school, an alternative provision Academy,'.
 
-- In  section  111  (meaning  of  'maintained  school'  and  'relevant  school'  in Chapter 2 of Part 7), in the definition of 'relevant school', for paragraph (b) substitute-
+- (5) In section 111 (meaning of 'maintained school' and 'relevant school' in Chapter 2 of Part 7), in the definition of 'relevant school', for paragraph (b) substitute-
 
 '(b) an Academy school,
 
 (ba) an alternative provision Academy,'.
 
-- In  section  123  (inspections:  education  and  training  to  which  Chapter applies), in subsection (1) after paragraph (b) insert-
+- (6) In section 123 (inspections: education and training to which Chapter applies), in subsection (1) after paragraph (b) insert-
 
 '(ba) education provided in 16 to 19 Academies;'.
 
-- In section 125 (inspection of further education institutions), in subsection (1) (amended by section 42), after 'sector' insert ', and all 16 to 19 Academies,'.
+- (7) In section 125 (inspection of further education institutions), in subsection (1) (amended by section 42), after 'sector' insert ', and all 16 to 19 Academies,'.
 
-- In Schedule 2 (consideration, approval and implementation of proposals for establishment or discontinuance of schools in England), in paragraph 3A(a) (inserted  by  Schedule  11),  for  'an  Academy'  substitute  'an  Academy school'.
+- (8) In Schedule 2 (consideration, approval and implementation of proposals for establishment or discontinuance of schools in England), in paragraph 3A(a) (inserted by Schedule 11), for 'an Academy' substitute 'an Academy school'.
 
 - 17 (1) The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
-- In section 21 (controlled activity relating to children), in subsection (4), after 'Education Act 2002)' insert 'or a 16 to 19 Academy'.
+- (2) In section 21 (controlled activity relating to children), in subsection (4), after 'Education Act 2002)' insert 'or a 16 to 19 Academy'.
 
-- In  section  59  (meaning  of  'vulnerable  adults'),  in  subsection  (3),  after
+- (3) In section 59 (meaning of 'vulnerable adults'), in subsection (3), after
 
 [[END OF PAGE 130]]
 
@@ -7093,7 +7269,7 @@ Schedule 13 - 16 to 19 Academies and alternative provision Academies: consequent
 
 paragraph (d) insert-
 
-'(e) a  16  to  19  Academy  which  provides  accommodation  for children.'
+'(e) a 16 to 19 Academy which provides accommodation for children.'
 
 - 18 In section 71 of the Corporation Tax Act 2009 (educational establishments for the purposes of section 70), in subsection (1), omit the 'or' after paragraph (c) and after paragraph (d) insert ', or
 
@@ -7105,7 +7281,7 @@ paragraph (d) insert-
 
 - 20 (1) The Equality Act 2010 is amended as follows.
 
-- In section 91 (students: admission and treatment, etc)-
+- (2) In section 91 (students: admission and treatment, etc)-
 
 (a) in subsection (10), after paragraph (c) insert-
 
@@ -7115,27 +7291,27 @@ paragraph (d) insert-
 
 '(aa) in the case of an institution within subsection (10)(d), the proprietor (within the meaning of the Education Act 1996);'.
 
-- In  Schedule  10  (accessibility  for  disabled  pupils),  in  paragraph  5(3),  for paragraph (b) substitute-
+- (3) In Schedule 10 (accessibility for disabled pupils), in paragraph 5(3), for paragraph (b) substitute-
 
 '(b) Academy schools;
 
 (c) alternative provision Academies.'
 
-- In  Schedule  17  (disabled  pupils:  enforcement),  in  paragraph  13(5)(b),  for 'Academy'  substitute 'Academy  school or an alternative provision Academy'.
+- (4) In Schedule 17 (disabled pupils: enforcement), in paragraph 13(5)(b), for 'Academy' substitute 'Academy school or an alternative provision Academy'.
 
 ## SCHEDULE 14
 
-### ACADEMIES: LAND
-
 Section 63
 
-Section 13
+### ACADEMIES: LAND
 
 #### Schedule 1 to AA 2010
 
 - 1 For Schedule 1 to AA 2010 (Academies: land) substitute-
 
 ## 'SCHEDULE 1
+
+Section 13
 
 ### ACADEMIES: LAND
 
@@ -7157,21 +7333,21 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-- The requirements are as follows-
+- (2) The requirements are as follows-
 
 (a) a local authority holds a freehold or leasehold interest in the land when the scheme is made;
 
 (b) at any time in the period of eight years ending with the day on which the scheme is made the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy;
 
-(c) at the time the scheme is made the land is no longer used for  the  purposes  of  the  school  or  16  to  19  Academy mentioned in paragraph (b) or the Secretary of State thinks it is about to be no longer so used.
+(c) at the time the scheme is made the land is no longer used for the purposes of the school or 16 to 19 Academy mentioned in paragraph (b) or the Secretary of State thinks it is about to be no longer so used.
 
-- The scheme must meet the requirements in paragraph 3(1).
+- (3) The scheme must meet the requirements in paragraph 3(1).
 
 #### Transfer scheme following proposals for establishment of new Academy
 
 - 2 (1) The Secretary of State may make a scheme in relation to land if the requirements in sub-paragraph (2) are met.
 
-- The requirements are as follows-
+- (2) The requirements are as follows-
 
 (a) a local authority holds a freehold or leasehold interest in the land when the scheme is made;
 
@@ -7179,25 +7355,25 @@ Schedule 14 - Academies: land
 
 (c) before making the scheme, the Secretary of State consulted the authority.
 
-- The scheme must meet the requirements in paragraph 3(1).
+- (3) The scheme must meet the requirements in paragraph 3(1).
 
 #### Transfer schemes under paragraphs 1 and 2: general
 
-- 3 (1) These  requirements  must  be  met  as  regards  a  scheme  under paragraph 1 or 2-
+- 3 (1) These requirements must be met as regards a scheme under paragraph 1 or 2-
 
 (a) the scheme must provide for a transfer of the land or such part of it as is specified in the scheme;
 
-(b) the  scheme  must  specify  whether  the  transfer  is  the transfer of a freehold or leasehold interest in the land or the grant of a lease in respect of the land (see paragraph 22(4));
+(b) the scheme must specify whether the transfer is the transfer of a freehold or leasehold interest in the land or the grant of a lease in respect of the land (see paragraph 22(4));
 
-(c) the  transfer  must  be  to  a  person  who  is  specified  in  the scheme and is concerned with the running of an Academy;
+(c) the transfer must be to a person who is specified in the scheme and is concerned with the running of an Academy;
 
-(d) the  transfer  must  be  made  to  the  transferee  for  the purposes of the Academy;
+(d) the transfer must be made to the transferee for the purposes of the Academy;
 
 (e) in the case of a scheme under paragraph 2, the Academy must have been the subject of proposals under section 6A or 7 of EIA 2006;
 
-(f) the scheme must make provision about the transfer to the transferee  of  any  right  or  liability  held  by  the  local authority as holder of the land or specified part concerned.
+(f) the scheme must make provision about the transfer to the transferee of any right or liability held by the local authority as holder of the land or specified part concerned.
 
-- In sub-paragraph (1) the reference to a right or liability-
+- (2) In sub-paragraph (1) the reference to a right or liability-
 
 (a) includes a reference to a right or liability as a trustee, but
 
@@ -7213,19 +7389,19 @@ Schedule 14 - Academies: land
 
 (b) excludes a reference to a liability in respect of the principal of or interest on a loan.
 
-- A  scheme  may  include  incidental,  consequential,  supplemental and transitional provision.
+- (3) A scheme may include incidental, consequential, supplemental and transitional provision.
 
-- A scheme under paragraph 1 must be so expressed that it does not come into force while the land concerned is used for the purposes of the school or 16 to 19 Academy mentioned in paragraph 1(2)(b).
+- (4) A scheme under paragraph 1 must be so expressed that it does not come into force while the land concerned is used for the purposes of the school or 16 to 19 Academy mentioned in paragraph 1(2)(b).
 
-- A scheme comes into force-
+- (5) A scheme comes into force-
 
 (a) on the day it specifies for it to come into force, or
 
 (b) on the day it otherwise identifies as the day for it to come into force.
 
-- When  a  scheme  comes  into  force  it  has  effect  to  transfer  (in accordance with its provisions) the land, rights and liabilities to which it applies.
+- (6) When a scheme comes into force it has effect to transfer (in accordance with its provisions) the land, rights and liabilities to which it applies.
 
-- A transfer made by virtue of a scheme is binding on all persons even if, apart from this sub-paragraph, it would have required the consent or concurrence of any person.
+- (7) A transfer made by virtue of a scheme is binding on all persons even if, apart from this sub-paragraph, it would have required the consent or concurrence of any person.
 
 #### Restriction on disposal of land held by local authority for purposes of a school or 16 to 19 Academy
 
@@ -7237,17 +7413,17 @@ Schedule 14 - Academies: land
 
 (c) at any time in the period of eight years ending with the day on which the disposal is proposed to be made, the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
 
-- Unless  the  Secretary  of  State  consents,  the  authority  must  not make the disposal.
+- (2) Unless the Secretary of State consents, the authority must not make the disposal.
 
-- Sub-paragraph (2) does not apply to a disposal made in pursuance of a contract made, or option granted, before 26 July 2002.
+- (3) Sub-paragraph (2) does not apply to a disposal made in pursuance of a contract made, or option granted, before 26 July 2002.
 
-- A disposal is not invalid only because it is made in contravention of sub-paragraph (2).
+- (4) A disposal is not invalid only because it is made in contravention of sub-paragraph (2).
 
-- A person acquiring land, or entering into a contract to acquire it, is not to be concerned to enquire whether the consent required by sub-paragraph (2) has been given.
+- (5) A person acquiring land, or entering into a contract to acquire it, is not to be concerned to enquire whether the consent required by sub-paragraph (2) has been given.
 
 - 5 (1) This paragraph applies if a local authority has made a disposal in contravention of paragraph 4(2).
 
-- In  a  case  where  the  authority  has  made  a  disposal  within  the meaning of this Schedule because it has granted an option (see paragraph 22(5)(d)), the Secretary of State may by notice served on the  option  holder  repudiate  the  option  at  any  time  before  it  is exercised.
+- (2) In a case where the authority has made a disposal within the meaning of this Schedule because it has granted an option (see paragraph 22(5)(d)), the Secretary of State may by notice served on the option holder repudiate the option at any time before it is exercised.
 
 [[END OF PAGE 133]]
 
@@ -7259,29 +7435,29 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-- In  a  case  where  the  authority  has  made  a  disposal  within  the meaning of this Schedule because it has entered into a contract to dispose of land (see paragraph 22(5)(c)), the Secretary of State may by notice served on the other party to the contract repudiate it at any time before a conveyance of the land is executed.
+- (3) In a case where the authority has made a disposal within the meaning of this Schedule because it has entered into a contract to dispose of land (see paragraph 22(5)(c)), the Secretary of State may by notice served on the other party to the contract repudiate it at any time before a conveyance of the land is executed.
 
-- A repudiation under sub-paragraph (2) or (3) has effect-
+- (4) A repudiation under sub-paragraph (2) or (3) has effect-
 
 (a) when the notice is served, and
 
 (b) as if the repudiation were made by the authority.
 
-- In a case where the land has been transferred (whether or not in pursuance of an option or contract falling within sub-paragraph (2) or (3)) the Secretary of State may  purchase the land compulsorily.
+- (5) In a case where the land has been transferred (whether or not in pursuance of an option or contract falling within sub-paragraph (2) or (3)) the Secretary of State may purchase the land compulsorily.
 
-- The  Acquisition  of  Land  Act  1981  applies  in  relation  to  the compulsory purchase of land under sub-paragraph (5).
+- (6) The Acquisition of Land Act 1981 applies in relation to the compulsory purchase of land under sub-paragraph (5).
 
-- On  completion  of  a  compulsory  purchase  of  land  under  subparagraph (5) the Secretary of State must transfer it to a person concerned with the running of an Academy.
+- (7) On completion of a compulsory purchase of land under sub-paragraph (5) the Secretary of State must transfer it to a person concerned with the running of an Academy.
 
-- If  the  Secretary  of  State  acquires  land  by  compulsory  purchase under  sub-paragraph  (5),  the  Secretary  of  State  is  entitled  to recover from the authority an amount equal to the aggregate of-
+- (8) If the Secretary of State acquires land by compulsory purchase under sub-paragraph (5), the Secretary of State is entitled to recover from the authority an amount equal to the aggregate of-
 
-(a) the  compensation  agreed  or  awarded  in  respect  of  the purchase,
+(a) the compensation agreed or awarded in respect of the purchase,
 
 (b) any interest payable by the Secretary of State in respect of the compensation, and
 
 (c) the costs and expenses incurred by the Secretary of State in connection with the making of the compulsory purchase order.
 
-- The  authority  must  provide  the  Secretary  of  State  with  such information as the Secretary of State may require it to provide in connection with a compulsory purchase under sub-paragraph (5).
+- (9) The authority must provide the Secretary of State with such information as the Secretary of State may require it to provide in connection with a compulsory purchase under sub-paragraph (5).
 
 #### Restriction on appropriation of land held by local authority for purposes of a school or 16 to 19 Academy
 
@@ -7289,13 +7465,13 @@ Schedule 14 - Academies: land
 
 (a) a freehold or leasehold interest in land is held by a local authority,
 
-(b) the  authority  proposes  to  make  an  appropriation  of  the land under section 122 of the Local Government Act 1972, and
+(b) the authority proposes to make an appropriation of the land under section 122 of the Local Government Act 1972, and
 
-(c) at any time in the period of eight years ending with the day on which the appropriation is proposed to be made the land  was  used  wholly  or  mainly  for  the  purposes  of  a school or a 16 to 19 Academy.
+(c) at any time in the period of eight years ending with the day on which the appropriation is proposed to be made the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
 
-- Unless  the  Secretary  of  State  consents,  the  authority  must  not make the appropriation.
+- (2) Unless the Secretary of State consents, the authority must not make the appropriation.
 
-- 7 (1) This paragraph applies if a local authority has  made  an appropriation in contravention of paragraph 6(2).
+- 7 (1) This paragraph applies if a local authority has made an appropriation in contravention of paragraph 6(2).
 
 [[END OF PAGE 134]]
 
@@ -7305,9 +7481,9 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 129
 
-- The Secretary of State may  purchase the land concerned compulsorily.
+- (2) The Secretary of State may purchase the land concerned compulsorily.
 
-- Sub-paragraphs (6) to (9) of paragraph 5 apply to a compulsory purchase  of  land  under  sub-paragraph  (2)  as  they  apply  to  a compulsory purchase of land under paragraph 5(5).
+- (3) Sub-paragraphs (6) to (9) of paragraph 5 apply to a compulsory purchase of land under sub-paragraph (2) as they apply to a compulsory purchase of land under paragraph 5(5).
 
 #### Class consents
 
@@ -7323,11 +7499,11 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 (a) a freehold or leasehold interest in land is held by a local authority,
 
-(b) the  authority  proposes  to  change  the  use  of  the  land  in such a way that (were the change made) the land would cease  to  be  capable  of  use  wholly  or  mainly  for  the purposes of a school or a 16 to 19 Academy, and
+(b) the authority proposes to change the use of the land in such a way that (were the change made) the land would cease to be capable of use wholly or mainly for the purposes of a school or a 16 to 19 Academy, and
 
-(c) at  any time in the period of eight years ending with the date  of  the  proposed  change  of  use  the  land  was  used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
+(c) at any time in the period of eight years ending with the date of the proposed change of use the land was used wholly or mainly for the purposes of a school or a 16 to 19 Academy.
 
-- The authority must inform the Secretary of State of the proposal.
+- (2) The authority must inform the Secretary of State of the proposal.
 
 ## PART 2
 
@@ -7347,7 +7523,7 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 (b) the school is to be converted into an Academy.
 
-- The Secretary of State may make one or more of the directions listed  in  sub-paragraph  (3)  in  respect  of  publicly  funded  land which is held for the purposes of the school by-
+- (2) The Secretary of State may make one or more of the directions listed in sub-paragraph (3) in respect of publicly funded land which is held for the purposes of the school by-
 
 (a) the governing body of the school,
 
@@ -7355,7 +7531,7 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 (c) the trustees of the school.
 
-- The directions are-
+- (3) The directions are-
 
 [[END OF PAGE 135]]
 
@@ -7367,19 +7543,19 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-(a) that the land or any part of the land be transferred to such local  authority  as  the  Secretary  of  State  may  specify, subject to the payment by that authority of such sum by way  of  consideration  (if  any)  as  the  Secretary  of  State determines to be appropriate;
+(a) that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
-(b) that  the  governing  body,  the  foundation  body  or  the trustees, as the case may be, pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+(b) that the governing body, the foundation body or the trustees, as the case may be, pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
 
-(c) that  the  land  or  any  part  of  the  land  be  transferred  to  a person  concerned  with  the  running  of  the  Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+(c) that the land or any part of the land be transferred to a person concerned with the running of the Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
 
-- Unless otherwise specified in the direction, any transfer of land pursuant to sub-paragraph (3) is to take place on the conversion date.
+- (4) Unless otherwise specified in the direction, any transfer of land pursuant to sub-paragraph (3) is to take place on the conversion date.
 
 #### Power of Secretary of State to make direction on discontinuance of foundation, voluntary or foundation special school
 
 - 11 (1) This paragraph applies where the Secretary of State has received an application under sub-paragraph (2), (3) or (4ZA) of paragraph 5 of Schedule 22 to SSFA 1998 (application in respect of land held by governing body, foundation body or trustees on discontinuance of school).
 
-- The Secretary of State may direct that the land or any part of the land to which the application relates be transferred to a person concerned  with  the  running  of  an  Academy,  subject  to  the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+- (2) The Secretary of State may direct that the land or any part of the land to which the application relates be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
 
 #### Power of Secretary of State to make direction on proposed disposal of school land
 
@@ -7389,11 +7565,11 @@ Schedule 14 - Academies: land
 
 (b) paragraph A7A(4) (notice by foundation body of intention to dispose of publicly funded land);
 
-(c) paragraph  A13A(6)  (notice  by  trustees  of  intention  to dispose of publicly funded land);
+(c) paragraph A13A(6) (notice by trustees of intention to dispose of publicly funded land);
 
 (d) paragraph A23(4)(b) (notice by local authority of intention to apply for transfer order in respect of publicly funded land).
 
-- The Secretary of State may direct that the land or any part of the land  to  which  the  notice  relates  be  transferred  to  a  person concerned  with  the  running  of  an  Academy,  subject  to  the payment by that person or the Secretary of State of such sum by
+- (2) The Secretary of State may direct that the land or any part of the land to which the notice relates be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by
 
 [[END OF PAGE 136]]
 
@@ -7411,21 +7587,21 @@ way of consideration (if any) as the Secretary of State determines to be appropr
 
 - 13 (1) This paragraph applies where a governing body of a school are to be dissolved by virtue of paragraph 5(2)(a)(iv) of Schedule 1 to EA 2002 (dissolution of governing body on conversion date following Academy order).
 
-- Where  a  governing  body  are  so  dissolved,  the  following  are transferred as provided in sub-paragraph (3)-
+- (2) Where a governing body are so dissolved, the following are transferred as provided in sub-paragraph (3)-
 
-(a) all  publicly funded land which is held by the governing body  for  the  purposes  of  the  school  and  which  is  not transferred on the conversion date (pursuant to a direction under paragraph 10 or otherwise);
+(a) all publicly funded land which is held by the governing body for the purposes of the school and which is not transferred on the conversion date (pursuant to a direction under paragraph 10 or otherwise);
 
 (b) all other property of the governing body which is used or held for the purposes of the school;
 
-(c) all rights and liabilities of the governing body (including rights  and  liabilities  in  relation  to  staff)  which  were acquired or incurred for the purposes of the school.
+(c) all rights and liabilities of the governing body (including rights and liabilities in relation to staff) which were acquired or incurred for the purposes of the school.
 
-- The  land,  other  property,  rights and  liabilities are,  on  the conversion date, transferred to, and by virtue of this Act vest in-
+- (3) The land, other property, rights and liabilities are, on the conversion date, transferred to, and by virtue of this Act vest in-
 
 (a) the local authority that maintained the school, or
 
 (b) such person concerned with the running of an Academy as the Secretary of State directs before the conversion date.
 
-- Sub-paragraph (2) does not apply to-
+- (4) Sub-paragraph (2) does not apply to-
 
 (a) any land for which provision has been made for payment under paragraph 10(3)(b),
 
@@ -7435,13 +7611,13 @@ way of consideration (if any) as the Secretary of State determines to be appropr
 
 (d) unless the Secretary of State otherwise directs before the conversion date, any liabilities of the governing body in respect of a loan made to the governing body.
 
-- Subject to sub-paragraphs (6) and (7), a governing body who are to be dissolved as mentioned in sub-paragraph (1) may transfer any land or other property which is held by them on trust for the purposes of the school to any person to hold such land or other property on trust for purposes connected with the provision of education in schools.
+- (5) Subject to sub-paragraphs (6) and (7), a governing body who are to be dissolved as mentioned in sub-paragraph (1) may transfer any land or other property which is held by them on trust for the purposes of the school to any person to hold such land or other property on trust for purposes connected with the provision of education in schools.
 
-- Sub-paragraph (5) does not apply to land in respect of which a direction has been made under paragraph 10(3)(a) or (c).
+- (6) Sub-paragraph (5) does not apply to land in respect of which a direction has been made under paragraph 10(3)(a) or (c).
 
-- Sub-paragraph (5) does not apply to land or other property held by a governing body on trust for the purposes of the school in a case where any other persons ('other trustees') also hold land or other property on trust for the purposes of the school.
+- (7) Sub-paragraph (5) does not apply to land or other property held by a governing body on trust for the purposes of the school in a case where any other persons ('other trustees') also hold land or other property on trust for the purposes of the school.
 
-- In  a  case  mentioned  in  sub-paragraph  (7),  the  land  or  other property held on trust by the governing body is, on the conversion
+- (8) In a case mentioned in sub-paragraph (7), the land or other property held on trust by the governing body is, on the conversion
 
 [[END OF PAGE 137]]
 
@@ -7453,9 +7629,9 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-- date, transferred to, and by virtue of this Act vests in, the other trustees.
+date, transferred to, and by virtue of this Act vests in, the other trustees.
 
-- If any doubt or dispute arises as to the persons to whom land or other property is transferred under sub-paragraph (8), it is to be treated as so transferred to such persons as the Secretary of State directs.
+- (9) If any doubt or dispute arises as to the persons to whom land or other property is transferred under sub-paragraph (8), it is to be treated as so transferred to such persons as the Secretary of State directs.
 
 ## PART 3
 
@@ -7467,7 +7643,7 @@ Schedule 14 - Academies: land
 
 (a) that is held for the purposes of an Academy, and
 
-(b) that  has  been  acquired  or  enhanced  in  value  wholly  or partly by payments made by or on behalf of-
+(b) that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of-
 
 (i) a local authority, or
 
@@ -7475,27 +7651,27 @@ Schedule 14 - Academies: land
 
 This is subject to sub-paragraph (2).
 
-- If  a  leasehold interest in land is held for the purposes of a new Academy, this paragraph does not apply to-
+- (2) If a leasehold interest in land is held for the purposes of a new Academy, this paragraph does not apply to-
 
 (a) that or any other leasehold interest in the land, or
 
 (b) a freehold interest in the land.
 
-- An  Academy  is  a  new  Academy  for  the  purposes  of  subparagraph  (2)  if,  by  virtue  of  section  9(1)(a)  (new  educational institutions), the duty in section 9(2) (impact on other schools etc) applied when the Secretary of State was deciding whether to enter into Academy arrangements in relation to it.
+- (3) An Academy is a new Academy for the purposes of sub-paragraph (2) if, by virtue of section 9(1)(a) (new educational institutions), the duty in section 9(2) (impact on other schools etc) applied when the Secretary of State was deciding whether to enter into Academy arrangements in relation to it.
 
-- In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by  or  on  behalf  of  a  local  authority,  the  authority  may  serve  a notice under sub-paragraph (6).
+- (4) In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of a local authority, the authority may serve a notice under sub-paragraph (6).
 
-- In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of the Secretary of State, the Secretary of State may serve a notice under sub-paragraph (6).
+- (5) In the case of land to which this paragraph applies that has been acquired or enhanced in value wholly or partly by payments made by or on behalf of the Secretary of State, the Secretary of State may serve a notice under sub-paragraph (6).
 
-- A  notice  under  this  sub-paragraph  is  a  notice  that  the  land  is publicly funded land for the purposes of this Schedule.
+- (6) A notice under this sub-paragraph is a notice that the land is publicly funded land for the purposes of this Schedule.
 
-- A notice under sub-paragraph (6) must be served-
+- (7) A notice under sub-paragraph (6) must be served-
 
 (a) on the person holding the land (subject to sub-paragraph (8)),
 
 (b) within the period of six months beginning with the date on which the payments were made, or, if there is more than one such date, the latest of those dates.
 
-- Where the land is vested in the official custodian for charities in trust  for  a  charity,  a  notice  under  sub-paragraph  (6)  must  be served-
+- (8) Where the land is vested in the official custodian for charities in trust for a charity, a notice under sub-paragraph (6) must be served-
 
 [[END OF PAGE 138]]
 
@@ -7519,17 +7695,17 @@ Schedule 14 - Academies: land
 
 (b) immediately before it does so, publicly funded land is held by a person for the purposes of the Academy.
 
-- Sub-paragraph (1)(a) applies whether or not, on the educational institution ceasing to be an Academy, it simultaneously ceases to function as an educational institution.
+- (2) Sub-paragraph (1)(a) applies whether or not, on the educational institution ceasing to be an Academy, it simultaneously ceases to function as an educational institution.
 
-- The Secretary of State  may  make one or more of the following directions-
+- (3) The Secretary of State may make one or more of the following directions-
 
-(a) a  direction  that  the  land  or  any  part  of  the  land  be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
-(b) a direction that the person holding the land pay, either to the  Secretary  of  State  or  to  such  local  authority  as  the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
+(b) a direction that the person holding the land pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
 
-(c) a  direction  that  the  land  or  any  part  of  the  land  be transferred to a person concerned with the running of an Academy, subject to  the  payment  by  that  person  or  the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
-(d) a  direction  that  the  land  or  any  part  of  the  land  be transferred  to  the  governing  body,  foundation  body  or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+(d) a direction that the land or any part of the land be transferred to the governing body, foundation body or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
 
 #### Termination of occupation by Academy of land held by trustees: notice of termination and power of Secretary of State to make direction
 
@@ -7537,7 +7713,7 @@ Schedule 14 - Academies: land
 
 (a) land has been held for the purposes of a maintained school by the trustees of the school,
 
-(b) the  land  is  held  by  the  trustees  for  the  purposes  of  an Academy, and
+(b) the land is held by the trustees for the purposes of an Academy, and
 
 (c) the termination of the Academy's occupation of the land would have the result that it was not reasonably practicable for the Academy to continue to be conducted at its existing site.
 
@@ -7551,27 +7727,27 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-- A  notice  given  by  the  trustees  to  the  Academy  proprietor  that purports to terminate the Academy's occupation of the land is not effective unless-
+- (2) A notice given by the trustees to the Academy proprietor that purports to terminate the Academy's occupation of the land is not effective unless-
 
-(a) the  period  of  notice  is  reasonable,  having  regard  to  the length of time that it would take to terminate the Academy arrangements, and in any event is not less than two years, and
+(a) the period of notice is reasonable, having regard to the length of time that it would take to terminate the Academy arrangements, and in any event is not less than two years, and
 
 (b) a copy of the notice is given to the Secretary of State and the local authority by which the school was maintained at the same time as the notice is given to the proprietor.
 
-- Where the trustees give, at the same (or substantially the same) time, notices purporting to terminate an Academy's occupation of two or more pieces of land held by the trustees for the purposes of the Academy, then for the purpose of determining whether subparagraph (1)(c) applies in relation to any of those pieces of land, regard  may  be  had  to  the  combined  effect  of  terminating  the Academy's occupation of both or all of them.
+- (3) Where the trustees give, at the same (or substantially the same) time, notices purporting to terminate an Academy's occupation of two or more pieces of land held by the trustees for the purposes of the Academy, then for the purpose of determining whether sub-paragraph (1)(c) applies in relation to any of those pieces of land, regard may be had to the combined effect of terminating the Academy's occupation of both or all of them.
 
-- If a question arises as to whether the termination of an Academy's occupation of any land would have the result mentioned in subparagraph  (1)(c) (including a question as to  whether  subparagraph (3) applies in any particular circumstances), it is to be determined by the Secretary of State.
+- (4) If a question arises as to whether the termination of an Academy's occupation of any land would have the result mentioned in sub-paragraph (1)(c) (including a question as to whether sub-paragraph (3) applies in any particular circumstances), it is to be determined by the Secretary of State.
 
-- Sub-paragraph  (6)  applies  where  a  notice  that  is  effective  to terminate  an  Academy's  occupation  of  land  relates  to  publicly funded land.
+- (5) Sub-paragraph (6) applies where a notice that is effective to terminate an Academy's occupation of land relates to publicly funded land.
 
-- The Secretary of State  may  make one or more of the following directions-
+- (6) The Secretary of State may make one or more of the following directions-
 
-(a) a  direction  that  the  land  or  any  part  of  the  land  be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
 (b) a direction that the trustees pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
 
-(c) a  direction  that  the  land  or  any  part  of  the  land  be transferred to a person concerned with the running of an Academy, subject to  the  payment  by  that  person  or  the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
-(d) a  direction  that  the  land  or  any  part  of  the  land  be transferred  to  the  governing  body,  foundation  body  or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
+(d) a direction that the land or any part of the land be transferred to the governing body, foundation body or trustees of a school, subject to the payment by that body or trustees (as the case may be) or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
 
 [[END OF PAGE 140]]
 
@@ -7585,35 +7761,35 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 - 17 (1) This paragraph applies to a disposal of publicly funded land that is held by a person ('P') for the purposes of an Academy.
 
-- P must give the Secretary of State notice of P's intention to dispose of the land.
+- (2) P must give the Secretary of State notice of P's intention to dispose of the land.
 
-- In determining whether, and how, to give notice to the Secretary of  State  under  sub-paragraph  (2),  P  must  have  regard  to  any guidance given from time to time by the Secretary of State.
+- (3) In determining whether, and how, to give notice to the Secretary of State under sub-paragraph (2), P must have regard to any guidance given from time to time by the Secretary of State.
 
-- On receipt of the notice, the Secretary of State must-
+- (4) On receipt of the notice, the Secretary of State must-
 
 (a) decide whether to make a direction under sub-paragraph (7) in respect of the land specified in the notice, and
 
 (b) notify P of that decision.
 
-- P  may  not  dispose  of  the  land  until  P  has  been  notified  of  the Secretary of State's decision.
+- (5) P may not dispose of the land until P has been notified of the Secretary of State's decision.
 
-- If the Secretary of State decides to make a direction in respect of the land, P may not dispose of the land except in accordance with the direction.
+- (6) If the Secretary of State decides to make a direction in respect of the land, P may not dispose of the land except in accordance with the direction.
 
-- The Secretary of State  may  make one or more of the following directions-
+- (7) The Secretary of State may make one or more of the following directions-
 
-(a) a  direction  that  the  land  or  any  part  of  the  land  be transferred to such local authority as the Secretary of State may specify, subject to the payment by that local authority of  such  sum  by  way  of  consideration  (if  any)  as  the Secretary of State determines to be appropriate;
+(a) a direction that the land or any part of the land be transferred to such local authority as the Secretary of State may specify, subject to the payment by that local authority of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
 (b) a direction that P pay, either to the Secretary of State or to such local authority as the Secretary of State may specify, the whole or any part of the value, as at the date of the direction, of the whole or any part of the land;
 
-(c) a  direction  that  the  land  or  any  part  of  the  land  be transferred to a person concerned with the running of an Academy, subject to  the  payment  by  that  person  or  the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
+(c) a direction that the land or any part of the land be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate;
 
-(d) in  the  case  of  playing  field  land,  a  direction  that  the disposal is not to be made.
+(d) in the case of playing field land, a direction that the disposal is not to be made.
 
-- In this paragraph-
+- (8) In this paragraph-
 
-(a) 'playing field land' means land in the open air which is provided  for the purposes  of physical  education  or recreation, other than any land falling within a description prescribed under section 77(7) of SSFA 1998;
+(a) 'playing field land' means land in the open air which is provided for the purposes of physical education or recreation, other than any land falling within a description prescribed under section 77(7) of SSFA 1998;
 
-(b) references  to  a  disposal  of  land  include  references  to  a change of use of the land in cases where the land is no longer to be used for the purposes of an Academy.
+(b) references to a disposal of land include references to a change of use of the land in cases where the land is no longer to be used for the purposes of an Academy.
 
 [[END OF PAGE 141]]
 
@@ -7631,7 +7807,7 @@ Schedule 14 - Academies: land
 
 #### Directions under this Schedule: general
 
-- 18 (1) Where  a  transfer  pursuant  to  a  direction  under  this  Schedule relates to registered land, it is the duty of the transferor-
+- 18 (1) Where a transfer pursuant to a direction under this Schedule relates to registered land, it is the duty of the transferor-
 
 (a) to execute any such instrument under the Land Registration Act 2002,
 
@@ -7639,33 +7815,33 @@ Schedule 14 - Academies: land
 
 (c) to do such other things under that Act,
 
-as the transferor would be required to execute, deliver or do in the case  of  a  transfer  by  agreement  between  the  transferor  and  the transferee.
+as the transferor would be required to execute, deliver or do in the case of a transfer by agreement between the transferor and the transferee.
 
-- A  direction  under  this  Schedule  may  include  such  incidental, consequential,  supplemental  and  transitional  provision  as  the Secretary of State thinks is appropriate for giving it full effect.
+- (2) A direction under this Schedule may include such incidental, consequential, supplemental and transitional provision as the Secretary of State thinks is appropriate for giving it full effect.
 
 #### Disapplication of rule against perpetuities
 
-19 (1) Where-
+- 19 (1) Where-
 
 (a) land is transferred for no consideration for the purposes of an Academy, and
 
-(b) the person who transferred the land is granted an option to make  a  re-acquisition  of  the  land  (subject  to  whatever conditions),
+(b) the person who transferred the land is granted an option to make a re-acquisition of the land (subject to whatever conditions),
 
 the rule against perpetuities does not apply to the option.
 
-- Sub-paragraph (1) does not apply to an option granted before 26 July 2002.
+- (2) Sub-paragraph (1) does not apply to an option granted before 26 July 2002.
 
 #### Disapplication of other Acts
 
-- 20 (1) Where  a  lease  is  granted  or  transferred  to  a  person  for  the purposes of an Academy on or after 26 July 2002, section 153 of the Law of Property Act 1925 (enlargement of leases granted for no rent etc) does not apply to permit that person to enlarge the term under the lease.
+- 20 (1) Where a lease is granted or transferred to a person for the purposes of an Academy on or after 26 July 2002, section 153 of the Law of Property Act 1925 (enlargement of leases granted for no rent etc) does not apply to permit that person to enlarge the term under the lease.
 
-- Subsections (2) and (2A) of section 123 of the Local Government Act 1972 (disposals of land by principal councils) do not apply to a disposal of land to a person for the purposes of an Academy.
+- (2) Subsections (2) and (2A) of section 123 of the Local Government Act 1972 (disposals of land by principal councils) do not apply to a disposal of land to a person for the purposes of an Academy.
 
 #### Regulations
 
-- 21 (1) The  Secretary  of  State  may  make  regulations  containing  such incidental, consequential, supplemental and transitional provisions  as  the  Secretary  of  State  thinks  are  appropriate  in consequence of this Schedule or for giving it full effect.
+- 21 (1) The Secretary of State may make regulations containing such incidental, consequential, supplemental and transitional provisions as the Secretary of State thinks are appropriate in consequence of this Schedule or for giving it full effect.
 
-- Regulations under sub-paragraph (1) about transfer schemes may in particular include provision-
+- (2) Regulations under sub-paragraph (1) about transfer schemes may in particular include provision-
 
 [[END OF PAGE 142]]
 
@@ -7681,35 +7857,33 @@ Schedule 14 - Academies: land
 
 (b) requiring the appointed person to identify the land, rights and liabilities to be transferred by or under a scheme;
 
-(c) requiring  a  transferor  under  a  scheme  to  provide  the appointed person with  such  documents  as  may  be required in order to identify the land, rights and liabilities to be transferred by or under the scheme;
+(c) requiring a transferor under a scheme to provide the appointed person with such documents as may be required in order to identify the land, rights and liabilities to be transferred by or under the scheme;
 
-(d) requiring  a  transferor  under  a  scheme  to  execute  such instruments,  deliver  such  certificates  and  do  any  other such things as are required by the Land Registration Act 2002 in order to transfer the land;
+(d) requiring a transferor under a scheme to execute such instruments, deliver such certificates and do any other such things as are required by the Land Registration Act 2002 in order to transfer the land;
 
-(e) treating  a  transferor  under  a  scheme  as  having  given acknowledgement in writing of the rights to production of documents.
+(e) treating a transferor under a scheme as having given acknowledgement in writing of the rights to production of documents.
 
-- Regulations under sub-paragraph (1) about land held by a local authority may in particular include provision-
+- (3) Regulations under sub-paragraph (1) about land held by a local authority may in particular include provision-
 
-(a) that  consent  under  paragraph  4  (proposed  disposal  of school land) is to be sought in a specified way;
+(a) that consent under paragraph 4 (proposed disposal of school land) is to be sought in a specified way;
 
-(b) that information is to be given under paragraph 9 (duty to inform  Secretary  of  State  of  proposed  change  of  use  of school land) in a specified way.
+(b) that information is to be given under paragraph 9 (duty to inform Secretary of State of proposed change of use of school land) in a specified way.
 
-- Regulations under sub-paragraph (1) about the transfer of land, other  property  and  rights  and  liabilities  under  paragraph  13 (transfer of land and other property on dissolution of governing body) may in particular include provision about the production of documents, execution of instruments, delivery of certificates and any other related matters.
+- (4) Regulations under sub-paragraph (1) about the transfer of land, other property and rights and liabilities under paragraph 13 (transfer of land and other property on dissolution of governing body) may in particular include provision about the production of documents, execution of instruments, delivery of certificates and any other related matters.
 
 #### Interpretation
 
-- 22 (1) A dwelling-house used for occupation by a person employed to work at an educational institution is to be treated for the purposes of  this  Schedule  as  used  for  the  purposes  of  the  educational institution.
+- 22 (1) A dwelling-house used for occupation by a person employed to work at an educational institution is to be treated for the purposes of this Schedule as used for the purposes of the educational institution.
 
-(2)
+- (2) In this Schedule-
 
-- In this Schedule-
-
-'foundation  body',  in  relation  to  a  school,  has  the  same meaning as in SSFA 1998 (see section 21(4) of that Act);
+'foundation body', in relation to a school, has the same meaning as in SSFA 1998 (see section 21(4) of that Act);
 
 'trustees', in relation to a school, means any person (other than the governing body) holding property on trust for the purposes of the school.
 
-- In this Schedule, 'publicly funded land' means-
+- (3) In this Schedule, 'publicly funded land' means-
 
-(a) in relation to land held by a governing body, land falling within any of paragraphs (a) to (i) of paragraph A1(1) of Schedule  22  to  SSFA  1998  (disposals  of  school  land  on discontinuance etc);
+(a) in relation to land held by a governing body, land falling within any of paragraphs (a) to (i) of paragraph A1(1) of Schedule 22 to SSFA 1998 (disposals of school land on discontinuance etc);
 
 (b) in relation to land held by a foundation body, land falling within any of paragraphs (a) to (h) of paragraph A7(1) of that Schedule;
 
@@ -7723,23 +7897,23 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-(c) in relation to land held by trustees, other than land held for the  purposes  of  an  Academy,  land  falling  within  subparagraph (1), (2) or (3) of paragraph A13 of that Schedule;
+(c) in relation to land held by trustees, other than land held for the purposes of an Academy, land falling within sub-paragraph (1), (2) or (3) of paragraph A13 of that Schedule;
 
 (d) in relation to land held for the purposes of an Academy-
 
-(i) land acquired from a governing body, foundation body  or  trustees  that  was,  at  the  time  of  the acquisition, publicly funded land within the meaning of paragraph (a), (b) or (c);
+(i) land acquired from a governing body, foundation body or trustees that was, at the time of the acquisition, publicly funded land within the meaning of paragraph (a), (b) or (c);
 
-(ii) land  held  by  trustees  for  the  purposes  of  an Academy  which  was  previously  held by the trustees  for  the  purposes  of  a  maintained  school and which, at the time it was held for the purposes of a maintained school, was publicly funded land within the meaning of paragraph (c);
+(ii) land held by trustees for the purposes of an Academy which was previously held by the trustees for the purposes of a maintained school and which, at the time it was held for the purposes of a maintained school, was publicly funded land within the meaning of paragraph (c);
 
 (iii) land acquired from a local authority;
 
 (iv) land in relation to which a notice has been served under paragraph 14;
 
-(v) land  acquired  from  a  person  concerned  with  the running of an Academy that was, at the time of the acquisition, publicly funded land within the meaning of sub-paragraphs (i) to (iv) or this subparagraph.
+(v) land acquired from a person concerned with the running of an Academy that was, at the time of the acquisition, publicly funded land within the meaning of sub-paragraphs (i) to (iv) or this sub-paragraph.
 
-- References in this Schedule to a transfer or disposal of land are to the transfer or disposal of a freehold or leasehold interest in the land or to the grant of a lease in respect of the land.
+- (4) References in this Schedule to a transfer or disposal of land are to the transfer or disposal of a freehold or leasehold interest in the land or to the grant of a lease in respect of the land.
 
-- References in this Schedule to a disposal of land include references to-
+- (5) References in this Schedule to a disposal of land include references to-
 
 (a) a compulsory disposal,
 
@@ -7747,17 +7921,17 @@ Schedule 14 - Academies: land
 
 (c) entering into a contract to dispose of land, and
 
-(d) granting  an  option  to  acquire  a  freehold  or  leasehold interest in land.
+(d) granting an option to acquire a freehold or leasehold interest in land.
 
-- Where-
+- (6) Where-
 
-(a) a person (A) holds a freehold or leasehold interest in land from  which  a  leasehold  interest  has  been  granted  to another person (B), and
+(a) a person (A) holds a freehold or leasehold interest in land from which a leasehold interest has been granted to another person (B), and
 
 (b) B is concerned with the running of an Academy,
 
-- for the purposes of this Schedule both A and B are to be treated as holding land for the purposes of an Academy.
+for the purposes of this Schedule both A and B are to be treated as holding land for the purposes of an Academy.
 
-- References in this Schedule to a lease include references to a sublease.'
+- (7) References in this Schedule to a lease include references to a sub-lease.'
 
 #### Amendments to Schedule 22 to SSFA 1998
 
@@ -7771,53 +7945,51 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 139
 
-3
+- 3 In paragraph A1, in sub-paragraph (1)(b), at the end insert-
 
-- In paragraph A1, in sub-paragraph (1)(b), at the end insert'paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,'.
+'paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,'.
 
 - 4 After paragraph A1, insert-
 
-'A1A(1) This paragraph applies to a disposal of land to which paragraph A1 applies if, or to the extent that, it comprises a disposal of nonplaying field land.
+'A1A(1) This paragraph applies to a disposal of land to which paragraph A1 applies if, or to the extent that, it comprises a disposal of non-playing field land.
 
-'Non-playing  field  land'  means  land  which  does  not  include playing fields within the meaning of section 77.
+- (2) 'Non-playing field land' means land which does not include playing fields within the meaning of section 77.
 
-- Accordingly,  in  this  paragraph,  paragraphs  A2  to  A5  and paragraph A19-
+- (3) Accordingly, in this paragraph, paragraphs A2 to A5 and paragraph A19-
 
-(a) references  to  the  disposal  are  to  the  disposal  by  the governing body of the non-playing field land, and
+(a) references to the disposal are to the disposal by the governing body of the non-playing field land, and
 
 (b) references to the land are to that non-playing field land.
 
-- The governing body must give the Secretary of State notice of their intention to dispose of the land.
+- (4) The governing body must give the Secretary of State notice of their intention to dispose of the land.
 
-- On receipt of the notice, the Secretary of State must-
+- (5) On receipt of the notice, the Secretary of State must-
 
-(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies  Act  2010  (transfer to Academy) in respect of the land, and
+(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 (transfer to Academy) in respect of the land, and
 
 (b) notify the governing body of that decision.
 
-- The governing body may not dispose of the land until they have been notified of the Secretary of State's decision.
+- (6) The governing body may not dispose of the land until they have been notified of the Secretary of State's decision.
 
-- If the Secretary of State decides to make a direction in respect of the land, the governing body may not dispose of the land except in accordance with the direction.'
+- (7) If the Secretary of State decides to make a direction in respect of the land, the governing body may not dispose of the land except in accordance with the direction.'
 
 - 5 In paragraph A2, for sub-paragraphs (1) to (3), substitute-
 
-'(1) This  paragraph  applies  where  a  governing  body  receives  a notification under paragraph A1A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.'
+'(1) This paragraph applies where a governing body receives a notification under paragraph A1A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.'
 
 - 6 In paragraph A7, in sub-paragraph (1)(b), at the end insert-
 
-'paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies
-
-Act 2010,'.
+'paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,'.
 
 - 7 After paragraph A7, insert-
 
-'A7A(1) This paragraph applies to a disposal of land to which paragraph A7 applies if, or to the extent that, it comprises a disposal of nonplaying field land.
+'A7A(1) This paragraph applies to a disposal of land to which paragraph A7 applies if, or to the extent that, it comprises a disposal of non-playing field land.
 
-'Non-playing  field  land'  means  land  which  does  not  include playing fields within the meaning of section 77.
+- (2) 'Non-playing field land' means land which does not include playing fields within the meaning of section 77.
 
-- Accordingly,  in  this  paragraph,  paragraphs  A8  to  A11  and paragraph A19-
+- (3) Accordingly, in this paragraph, paragraphs A8 to A11 and paragraph A19-
 
-(a) references  to  the  disposal  are  to  the  disposal  by  the foundation body of the non-playing field land, and
+(a) references to the disposal are to the disposal by the foundation body of the non-playing field land, and
 
 (b) references to the land are to that non-playing field land.
 
@@ -7831,29 +8003,29 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
-- The foundation body must give the Secretary of State notice of its intention to dispose of the land.
+- (4) The foundation body must give the Secretary of State notice of its intention to dispose of the land.
 
-- On receipt of the notice, the Secretary of State must-
+- (5) On receipt of the notice, the Secretary of State must-
 
-(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies  Act  2010  (transfer to Academy) in respect of the land, and
+(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 (transfer to Academy) in respect of the land, and
 
 (b) notify the foundation body of that decision.
 
-- The foundation body may not dispose of the land until it has been notified of the Secretary of State's decision.
+- (6) The foundation body may not dispose of the land until it has been notified of the Secretary of State's decision.
 
-- If the Secretary of State decides to make a direction in respect of the land, the foundation body may not dispose of the land except in accordance with the direction.'
+- (7) If the Secretary of State decides to make a direction in respect of the land, the foundation body may not dispose of the land except in accordance with the direction.'
 
 - 8 In paragraph A8, for sub-paragraphs (1) to (3), substitute-
 
-'(1) This  paragraph  applies  where  a  foundation  body  receives  a notification under paragraph A7A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.'
+'(1) This paragraph applies where a foundation body receives a notification under paragraph A7A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.'
 
 - 9 (1) Paragraph A13 is amended as follows.
 
-- In sub-paragraph (1)(d), at the end insert-
+- (2) In sub-paragraph (1)(d), at the end insert-
 
 'paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,'.
 
-- In sub-paragraph (7)-
+- (3) In sub-paragraph (7)-
 
 (a) after 'maintained schools' insert 'or Academies';
 
@@ -7861,19 +8033,19 @@ Schedule 14 - Academies: land
 
 - 10 After paragraph A13, insert-
 
-'A13A(1)  This  paragraph  applies  to  a  disposal  of  land  to  which  subparagraph (1), (2) or (3) of paragraph A13 applies.
+'A13A(1) This paragraph applies to a disposal of land to which sub-paragraph (1), (2) or (3) of paragraph A13 applies.
 
-- But this paragraph only applies to a disposal if, or to the extent that, it comprises a disposal of non-playing field land which does not fall within sub-paragraph (5).
+- (2) But this paragraph only applies to a disposal if, or to the extent that, it comprises a disposal of non-playing field land which does not fall within sub-paragraph (5).
 
-'Non-playing  field  land'  means  land  which  does  not  include playing fields within the meaning of section 77.
+- (3) 'Non-playing field land' means land which does not include playing fields within the meaning of section 77.
 
-- Accordingly,  in  this  paragraph,  paragraphs  A14  to  A17  and paragraph A19-
+- (4) Accordingly, in this paragraph, paragraphs A14 to A17 and paragraph A19-
 
 (a) references to the disposal are to the disposal by the trustees of the non-playing field land, and
 
 (b) references to the land are to that non-playing field land.
 
-- A  disposal  of  non-playing  field  land  falls  within  this  subparagraph if it is a disposal of-
+- (5) A disposal of non-playing field land falls within this sub-paragraph if it is a disposal of-
 
 (a) land acquired under section 60 or 61 of the Education Act 1996, or
 
@@ -7891,17 +8063,17 @@ Schedule 14 - Academies: land
 
 by the trustees of an institution which is, or has at any time been, within the further education sector (as defined by section 4(3) of the Education Act 1996).
 
-- The  trustees  must  give  the  Secretary  of  State  notice  of  their intention to dispose of the land.
+- (6) The trustees must give the Secretary of State notice of their intention to dispose of the land.
 
-- On receipt of the notice, the Secretary of State must-
+- (7) On receipt of the notice, the Secretary of State must-
 
-(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies  Act  2010  (transfer to Academy) in respect of the land, and
+(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 (transfer to Academy) in respect of the land, and
 
 (b) notify the trustees of that decision.
 
-- The  trustees  may  not  dispose  of  the  land  until  they  have  been notified of the Secretary of State's decision.
+- (8) The trustees may not dispose of the land until they have been notified of the Secretary of State's decision.
 
-- If the Secretary of State decides to make a direction in respect of the  land,  the  trustees  may  not  dispose  of  the  land  except  in accordance with the direction.'
+- (9) If the Secretary of State decides to make a direction in respect of the land, the trustees may not dispose of the land except in accordance with the direction.'
 
 - 11 In paragraph A14, for sub-paragraphs (1) to (5), substitute-
 
@@ -7911,27 +8083,27 @@ by the trustees of an institution which is, or has at any time been, within the 
 
 '(A1) In determining whether, and how, to give notice to the Secretary of State under paragraph A1A, A7A or A13A, a governing body, a foundation body or trustees must have regard to any guidance given from time to time by the Secretary of State.'
 
-- 13 (1) Paragraph A23 (land required by local authority for  certain  purposes)  is amended as follows.
+- 13 (1) Paragraph A23 (land required by local authority for certain purposes) is amended as follows.
 
-- For sub-paragraph (4), substitute-
+- (2) For sub-paragraph (4), substitute-
 
-'(4) Before  making  an  application  under  sub-paragraph  (1)  for  a transfer order in relation to publicly funded land, the authority must give notice of their intention to make the application to-
+'(4) Before making an application under sub-paragraph (1) for a transfer order in relation to publicly funded land, the authority must give notice of their intention to make the application to-
 
 (a) the body or trustees holding the land, and
 
 (b) the Secretary of State.'
 
-- In sub-paragraph (6), for 'such an application' substitute 'an application under sub-paragraph (1) or a notice under sub-paragraph (4)'.
+- (3) In sub-paragraph (6), for 'such an application' substitute 'an application under sub-paragraph (1) or a notice under sub-paragraph (4)'.
 
-- After sub-paragraph (6), insert-
+- (4) After sub-paragraph (6), insert-
 
 '(6A) On receipt of a notice under sub-paragraph (4)(b), the Secretary of State must-
 
-(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies  Act  2010  (transfer to Academy) in respect of the land, and
+(a) decide whether to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 (transfer to Academy) in respect of the land, and
 
 (b) notify the local authority of that decision.
 
-(6B) If  the  Secretary  of  State  decides  to  make  a  direction  under paragraph 12 of Schedule 1 to the Academies Act 2010 in respect
+(6B) If the Secretary of State decides to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 in respect
 
 [[END OF PAGE 147]]
 
@@ -7943,6 +8115,40 @@ Education Act 2011 (c. 21 )
 
 Schedule 14 - Academies: land
 
+of the land, the local authority may not make an application under sub-paragraph (1) for a transfer order in relation to the land.'
+
+- 14 (1) Paragraph 5 (discontinuance of foundation, voluntary and foundation special schools: land) is amended as follows.
+
+- (2) After sub-paragraph (1), insert-
+
+'(1A) But this paragraph does not apply where proposals mentioned in sub-paragraph (1)(a) have been approved, adopted, confirmed or determined to be implemented in consequence of an Academy order made in respect of the school.'
+
+- (3) In sub-paragraph (4), after paragraph (a) insert-
+
+'(aa) in the case of a school in England, make a direction in respect of the land under paragraph 11 of Schedule 1 to the Academies Act 2010 (transfer to Academy);'.
+
+- (4) In sub-paragraph (4B), after paragraph (a) insert-
+
+'(aa) in the case of a school in England, make a direction in respect of the land under paragraph 11 of Schedule 1 to the Academies Act 2010 (transfer to Academy);'.
+
+- (5) In sub-paragraph (5A), in paragraph (b), after 'maintained schools' insert 'or Academies'.
+
+- 15 (1) Paragraph 7 (disposal of property held by governing body of maintained school on their dissolution) is amended as follows.
+
+- (2) In sub-paragraph (1), at the end insert 'other than a dissolution by virtue of paragraph 5(2)(a)(iv) of that Schedule (dissolution following Academy order)'.
+
+- (3) In sub-paragraph (2)(ii), for the words from 'following' to 'new school' substitute 'persons or bodies mentioned in sub-paragraph (2A)'.
+
+- (4) After sub-paragraph (2), insert-
+
+'(2A) The persons and bodies are-
+
+(a) the governing body of a maintained school;
+
+(b) the temporary governing body of a new school;
+
+(c) in the case of the dissolution of a governing body of a maintained school in England, a person concerned with the running of an Academy.'
+
 #### Other amendments
 
 - 16 Section 482 of EA 1996 (Academies) is repealed.
@@ -7951,47 +8157,13 @@ Schedule 14 - Academies: land
 
 - 18 (1) Section 77 of SSFA 1998 (control of disposals or changes in use of school playing fields) is amended as follows.
 
-- In subsection (2B)-
+- (2) In subsection (2B)-
 
 (a) omit 'or' at the end of paragraph (a);
 
 (b) after paragraph (b), insert 'or
 
 (c) to a disposal in pursuance of-
-
-of the land, the local authority may not make an application under sub-paragraph (1) for a transfer order in relation to the land.'
-
-- 14 (1) Paragraph  5  (discontinuance  of  foundation,  voluntary  and  foundation special schools: land) is amended as follows.
-
-- After sub-paragraph (1), insert-
-
-'(1A) But this paragraph does not apply where proposals mentioned in sub-paragraph (1)(a) have been approved, adopted, confirmed or determined  to  be  implemented  in  consequence  of  an  Academy order made in respect of the school.'
-
-- In sub-paragraph (4), after paragraph (a) insert-
-
-'(aa) in  the  case  of  a  school  in  England,  make  a  direction  in respect of the land under paragraph 11 of Schedule 1 to the Academies Act 2010 (transfer to Academy);'.
-
-- In sub-paragraph (4B), after paragraph (a) insert-
-
-'(aa) in  the  case  of  a  school  in  England,  make  a  direction  in respect of the land under paragraph 11 of Schedule 1 to the Academies Act 2010 (transfer to Academy);'.
-
-- In sub-paragraph (5A), in paragraph (b), after 'maintained schools' insert 'or Academies'.
-
-- 15 (1) Paragraph 7 (disposal of property held by governing body of maintained school on their dissolution) is amended as follows.
-
-- In sub-paragraph (1), at the end insert 'other than a dissolution by virtue of paragraph  5(2)(a)(iv)  of  that  Schedule  (dissolution  following  Academy order)'.
-
-- In  sub-paragraph (2)(ii),  for  the  words  from  'following'  to  'new  school' substitute 'persons or bodies mentioned in sub-paragraph (2A)'.
-
-- After sub-paragraph (2), insert-
-
-'(2A) The persons and bodies are-
-
-(a) the governing body of a maintained school;
-
-(b) the temporary governing body of a new school;
-
-(c) in  the  case  of  the  dissolution  of  a  governing  body  of  a maintained school in  England,  a  person  concerned  with the running of an Academy.'
 
 [[END OF PAGE 148]]
 
@@ -8001,27 +8173,31 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 143
 
-- In subsection (3)-
+(i) a transfer scheme under paragraph 1 or 2 of Schedule 1 to the Academies Act 2010 (transfer to person concerned with running of Academy), or
+
+(ii) a direction under paragraph 10 of Schedule 1 to that Act (direction to transfer to local authority or person concerned with running of Academy, where Academy order made).'
+
+- (3) In subsection (3)-
 
 (a) in the opening words, for 'subsections (4) and' substitute 'subsection';
 
 (b) in the opening words, for '(2B)(a) or (b)' substitute '(2B)(a), (b) or (c)';
 
-(c) at  the  end  insert  ',  or  by  an  Academy  for  the  purposes  of  the Academy'.
+(c) at the end insert ', or by an Academy for the purposes of the Academy'.
 
-- Omit subsection (4).
+- (4) Omit subsection (4).
 
-- After subsection (4A), insert-
+- (5) After subsection (4A), insert-
 
 '(4B) On receiving an application for consent under subsection (1) or (3), the Secretary of State may direct that the playing fields, or any part of them, be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.'
 
 - 19 In section 65 of EA 2002 (Academies), omit subsection (1).
 
-- 20 (1) Section  12  of  AA  2010  (charitable  status  of  Academy  proprietors  etc)  is amended as follows.
+- 20 (1) Section 12 of AA 2010 (charitable status of Academy proprietors etc) is amended as follows.
 
-- After subsection (1) insert-
+- (2) After subsection (1) insert-
 
-'(1A) In  the  definition  of  'trust  corporation'  in  the  provisions  listed  in subsection (1B), the reference to a corporation appointed by the court in  any  particular  case  to  be  a  trustee  includes  a  reference  to  a qualifying Academy proprietor.
+'(1A) In the definition of 'trust corporation' in the provisions listed in subsection (1B), the reference to a corporation appointed by the court in any particular case to be a trustee includes a reference to a qualifying Academy proprietor.
 
 (1B) The provisions are-
 
@@ -8035,19 +8211,15 @@ Education Act 2011 (c. 21 ) Schedule 14 - Academies: land
 
 (e) section 128 of the Senior Courts Act 1981.'
 
-- In the heading, after 'charitable' insert 'and trust corporation'.
+- (3) In the heading, after 'charitable' insert 'and trust corporation'.
 
 ## SCHEDULE 15
 
+Section 65
+
 ### ACADEMIES: MINOR AMENDMENTS
 
-- 1 In  Schedule  4  to  the  Finance  Act  2003  (stamp  duty  land  tax:  chargeable consideration),  in  paragraph  17(2)(e)  (arrangements  involving  public  or
-
-(i) a transfer scheme under paragraph 1 or 2 of Schedule 1 to the Academies Act 2010 (transfer to person concerned with running of Academy), or
-
-(ii) a direction under paragraph 10 of Schedule 1 to  that  Act  (direction  to  transfer  to  local authority or person concerned with running of Academy, where Academy order made).'
-
-Section 65
+- 1 In Schedule 4 to the Finance Act 2003 (stamp duty land tax: chargeable consideration), in paragraph 17(2)(e) (arrangements involving public or
 
 [[END OF PAGE 149]]
 
@@ -8059,15 +8231,17 @@ Education Act 2011 (c. 21 )
 
 Schedule 15 - Academies: minor amendments
 
-- educational bodies) for 'section 482 of the Education Act 1996' substitute 'section 1 of the Academies Act 2010'.
+educational bodies) for 'section 482 of the Education Act 1996' substitute 'section 1 of the Academies Act 2010'.
 
 - 2 In Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement), in paragraph 13(4) (admissions) for paragraph (b) substitute-
 
-'(b) Academy  arrangements  (as  defined  in  section  1  of  the Academies Act 2010) between the responsible body for an Academy and the Secretary of State,'.
+'(b) Academy arrangements (as defined in section 1 of the Academies Act 2010) between the responsible body for an Academy and the Secretary of State,'.
 
-- 3 In  section  2  of  AA  2010  (payments  under  Academy  arrangements),  omit subsection (5).
+- 3 In section 2 of AA 2010 (payments under Academy arrangements), omit subsection (5).
 
 ## SCHEDULE 16
+
+Section 67
 
 ### ABOLITION OF THE YPLA: CONSEQUENTIAL AMENDMENTS
 
@@ -8077,11 +8251,11 @@ Schedule 15 - Academies: minor amendments
 
 #### Parliamentary Commissioner Act 1967 (c. 13)
 
-- 2 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject  to  investigation)  omit  'The  Young  People's  Learning  Agency  for England.'
+- 2 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) omit 'The Young People's Learning Agency for England.'
 
 #### Superannuation Act 1972 (c. 11)
 
-- 3 In Schedule 1 to the Superannuation Act 1972 (kinds of employment, etc, referred  to  in  section  1  of  that  Act)  omit  'The  Young  People's  Learning Agency for England.'
+- 3 In Schedule 1 to the Superannuation Act 1972 (kinds of employment, etc, referred to in section 1 of that Act) omit 'The Young People's Learning Agency for England.'
 
 #### House of Commons Disqualification Act 1975 (c. 24)
 
@@ -8089,15 +8263,13 @@ Schedule 15 - Academies: minor amendments
 
 #### Education (Fees and Awards) Act 1983 (c. 40)
 
-- 5 In section 1 of the Education (Fees and Awards) Act 1983 (fees at universities and  further  education  establishments),  in  subsection  (3)(f),  for  'Young People's Learning Agency for England' substitute 'Secretary of State'.
+- 5 In section 1 of the Education (Fees and Awards) Act 1983 (fees at universities and further education establishments), in subsection (3)(f), for 'Young People's Learning Agency for England' substitute 'Secretary of State'.
 
 #### Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
 
-- 6 In section 5 of the Disabled Persons (Services, Consultation and Representation) Act 1986 (disabled persons leaving special education), in subsection  (9),  in  paragraph  (c)  of  the  definition  of  'the  responsible authority'-
+- 6 In section 5 of the Disabled Persons (Services, Consultation and Representation) Act 1986 (disabled persons leaving special education), in subsection (9), in paragraph (c) of the definition of 'the responsible authority'-
 
 (a) omit ', the Young People's Learning Agency for England';
-
-Section 67
 
 [[END OF PAGE 150]]
 
@@ -8143,7 +8315,7 @@ For the purposes of subsection (1A) and this subsection, trainees are persons re
 
 - 9 (1) Group  6  of  Part  2  of  Schedule  9  to  the  Value  Added  Tax  Act  1994 (exemptions: education) is amended as follows.
 
-- In item 5A-
+- (2) In item 5A-
 
 (a) omit paragraph (a);
 
@@ -8159,7 +8331,7 @@ Education Act 2011 (c. 21 )
 
 Schedule 16 - Abolition of the YPLA: consequential amendments
 
-- After item 5A insert-
+- (3) After item 5A insert-
 
 '5B The provision of education or vocational training and the supply, by the person providing that education or training, of any goods or services essential to that provision, to persons who are-
 
@@ -8173,9 +8345,9 @@ Schedule 16 - Abolition of the YPLA: consequential amendments
 
 to the extent that the consideration payable is ultimately a charge to funds provided by the Secretary of State.'
 
-- In note (5A), for 'item 5A' substitute 'items 5A and 5B'.
+- (4) In note (5A), for 'item 5A' substitute 'items 5A and 5B'.
 
-- After note (5A) insert-
+- (5) After note (5A) insert-
 
 '(5B) In item 5B, 'subject to learning difficulty assessment' has the same meaning as in the Education Act 1996.'
 
@@ -8201,7 +8373,7 @@ In  performing  the  duties  imposed  by  sections  15ZA(1),  15ZB  and 15ZC(1)(
 
 - 15 (1) Section  144  (designated  institutions:  disposal  of  land,  etc)  is  amended  as follows.
 
-- In subsection (4)(b), for sub-paragraphs (i) and (ii) substitute-
+- (2) In subsection (4)(b), for sub-paragraphs (i) and (ii) substitute-
 
 '(i) in the case of land in England held for the purposes of a sixth form college, or land in Wales, by an arbitrator to  be  appointed  in  default  of  agreement  by  the President of the Chartered Institute of Arbitrators;
 
@@ -8214,6 +8386,54 @@ Education Act 2011 (c. 21 )
 Schedule 16 - Abolition of the YPLA: consequential amendments
 
 147
+
+(ii) in the case of any other land in England, by the Secretary of State.'
+
+- (3) After subsection (4) insert-
+
+'(4A) The expense of an arbitrator appointed under subsection (4)(b)(i) is to be borne equally by the trustees and-
+
+(a) in the case of land in England, the Secretary of State;
+
+(b) in the case of land in Wales, the Welsh Ministers.'
+
+- (4) In subsection (9)(a), for 'Young People's Learning Agency for England' substitute 'Secretary of State'.
+
+- 16 In Schedule 9 (amendments), omit paragraph 14.
+
+#### Freedom of Information Act 2000 (c. 36)
+
+- 17 In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general) omit 'The Young People's Learning Agency for England.'
+
+#### EA 2002
+
+- 18 EA 2002 is amended as follows.
+
+- 19 In section 183 (transfer of functions relating to allowances under section 181), in subsection (1), omit paragraph (aa) (but not the 'or' after it).
+
+- 20 Omit section 208A (recoupment: adjustment between local authorities and the YPLA).
+
+- 21 In section 210(6A) (Welsh orders and regulations subject to negative resolution), omit 'or section 208A'.
+
+#### HEA 2004
+
+- 22 In section 41 (interpretation of Part 3), in subsection (2)(a), omit '61 or'.
+
+#### Children Act 2004 (c. 31)
+
+- 23 In section 10 (co-operation to improve wellbeing), in subsection (9)(c), omit '66,'.
+
+#### EA 2005
+
+- 24 EA 2005 is amended as follows.
+
+- 25 In section 14 (destination of reports: maintained schools), omit subsection (3).
+
+- 26 In section 14A (destination of interim statements: maintained schools), omit subsection (3).
+
+- 27 In section 92 (joint exercise of functions), in subsection (2), omit 'the Young People's Learning Agency for England,'.
+
+- 28 In section 108 (supply of information: education maintenance allowances), in subsection (3), omit paragraph (ba).
 
 [[END OF PAGE 153]]
 
@@ -8231,9 +8451,9 @@ Schedule 16 - Abolition of the YPLA: consequential amendments
 
 - 30 (1) Section  123  (inspection  of  further  education  and  training:  education  and training to which Chapter applies) is amended as follows.
 
-- In  subsection  (1),  in  paragraphs  (b),  (c)  and  (g),  for  'YPLA'  substitute 'Secretary of State'.
+- (2) In  subsection  (1),  in  paragraphs  (b),  (c)  and  (g),  for  'YPLA'  substitute 'Secretary of State'.
 
-- In subsection (3)(a), omit '61(4)(f) or'.
+- (3) In subsection (3)(a), omit '61(4)(f) or'.
 
 - 31 In  section  124  (inspection  of  education  and  training  to  which  Chapter applies), in subsection (5), omit paragraph (b).
 
@@ -8247,11 +8467,11 @@ Schedule 16 - Abolition of the YPLA: consequential amendments
 
 - 36 (1) Section 130 (action plans following area inspections) is amended as follows.
 
-- In subsection (2), for 'a relevant body' substitute 'the Chief Executive'.
+- (2) In subsection (2), for 'a relevant body' substitute 'the Chief Executive'.
 
-- In subsections (4) and (5), for 'body' substitute 'Chief Executive'.
+- (3) In subsections (4) and (5), for 'body' substitute 'Chief Executive'.
 
-- Omit subsection (6).
+- (4) Omit subsection (6).
 
 - 37 In section 159(1) (interpretation of Part 8), omit the definition of 'the YPLA'.
 
@@ -8303,9 +8523,9 @@ for 'Young People's Learning Agency for England' substitute 'Secretary of State'
 
 - 48 (1) Section 122 (sharing of information for education and training purposes) is amended as follows.
 
-- In  subsection  (3)(b),  for  'Young  People's  Learning  Agency  for  England' substitute 'Secretary of State'.
+- (2) In  subsection  (3)(b),  for  'Young  People's  Learning  Agency  for  England' substitute 'Secretary of State'.
 
-- In  subsection  (5)(b),  for  'Young  People's  Learning  Agency  for  England' substitute 'Secretary of State relating to education or training'.
+- (3) In  subsection  (5)(b),  for  'Young  People's  Learning  Agency  for  England' substitute 'Secretary of State relating to education or training'.
 
 - 49 In Schedule 6 (dissolution of the Learning and Skills Council for England: minor and consequential amendments), omit paragraphs 54 to 56 and 57(b).
 
@@ -8313,9 +8533,9 @@ for 'Young People's Learning Agency for England' substitute 'Secretary of State'
 
 ## SCHEDULE 17
 
-### ABOLITION OF THE YPLA: TRANSFER SCHEMES
-
 Section 68
+
+### ABOLITION OF THE YPLA: TRANSFER SCHEMES
 
 #### Staff transfer schemes
 
@@ -8327,7 +8547,7 @@ Section 68
 
 - 2 (1) This  paragraph  applies  where  a  staff  transfer  scheme  provides  for  an employee of the YPLA to become a member of staff of the Secretary of State.
 
-- The staff transfer scheme may provide-
+- (2) The staff transfer scheme may provide-
 
 (a) so far as may be consistent with employment in the civil service of the state, for the terms and conditions of the employee's employment
 
@@ -8347,17 +8567,17 @@ Schedule 17 - Abolition of the YPLA: transfer schemes
 
 (c) for anything done (or having effect as if done) before that transfer by or  in  relation  to  the  YPLA  in  respect  of  such  a  contract  or  the employee to be treated as having been done by or in relation to the Secretary of State.
 
-- The staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Secretary of State's staff  to count as a period during which the employee was a member of the Secretary of State's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
+- (3) The staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the Secretary of State's staff  to count as a period during which the employee was a member of the Secretary of State's staff (and for the  operation  of  the  scheme  not  to  be  treated  as  having  interrupted  the continuity of that period).
 
-- The staff transfer scheme may provide for the employee not to become a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
+- (4) The staff transfer scheme may provide for the employee not to become a member of the Secretary of State's staff if the employee gives notice objecting to the operation of the scheme in relation to the employee.
 
-- The staff transfer scheme may provide for a person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
+- (5) The staff transfer scheme may provide for a person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
 
-- The  staff  transfer  scheme  may  provide  for  an  employee  of  the  YPLA  to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
+- (6) The  staff  transfer  scheme  may  provide  for  an  employee  of  the  YPLA  to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
 
 - 3 (1) This  paragraph  applies  where  a  staff  transfer  scheme  provides  for  the transfer of an employee of the YPLA to a permitted transferee.
 
-- The staff transfer scheme may provide-
+- (2) The staff transfer scheme may provide-
 
 (a) for the employee's contract of employment to have effect (subject to any necessary modifications)-
 
@@ -8369,9 +8589,9 @@ Schedule 17 - Abolition of the YPLA: transfer schemes
 
 (c) for anything done (or having effect as if done) before that transfer by or  in  relation  to  the  YPLA  in  respect  of  such  a  contract  or  the employee to be treated as having been done by or in relation to the permitted transferee.
 
-- The staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the permitted transferee's staff to count as a period during which the employee was a member of the permitted transferee's staff (and for the operation of the scheme not to be treated as having interrupted the continuity of that period).
+- (3) The staff  transfer  scheme  may  provide  for  a  period  before  the  employee became a member of the permitted transferee's staff to count as a period during which the employee was a member of the permitted transferee's staff (and for the operation of the scheme not to be treated as having interrupted the continuity of that period).
 
-- The staff transfer scheme may provide for the employee not to become a member  of  the  permitted  transferee's  staff  if  the  employee  gives  notice objecting to the operation of the scheme in relation to the employee.
+- (4) The staff transfer scheme may provide for the employee not to become a member  of  the  permitted  transferee's  staff  if  the  employee  gives  notice objecting to the operation of the scheme in relation to the employee.
 
 [[END OF PAGE 156]]
 
@@ -8383,9 +8603,9 @@ Schedule 17 - Abolition of the YPLA: transfer schemes
 
 151
 
-- The staff transfer scheme may provide for any person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
+- (5) The staff transfer scheme may provide for any person who would be treated (by an enactment or otherwise) as being dismissed by the operation of the scheme not to be so treated.
 
-- The staff transfer scheme may provide for the transfer of an employee of the YPLA to a permitted transferee despite any provision, of whatever nature, which would otherwise prevent the employee from being so transferred.
+- (6) The staff transfer scheme may provide for the transfer of an employee of the YPLA to a permitted transferee despite any provision, of whatever nature, which would otherwise prevent the employee from being so transferred.
 
 #### Property transfer schemes
 
@@ -8395,7 +8615,7 @@ Schedule 17 - Abolition of the YPLA: transfer schemes
 
 (b) a permitted transferee.
 
-- A property transfer scheme may-
+- (2) A property transfer scheme may-
 
 (a) create rights, or impose liabilities, in relation to property or rights transferred by virtue of the scheme;
 
@@ -8405,7 +8625,7 @@ Schedule 17 - Abolition of the YPLA: transfer schemes
 
 (d) make provision about the continuation of legal proceedings.
 
-- The things that may be transferred by a property transfer scheme include-
+- (3) The things that may be transferred by a property transfer scheme include-
 
 (a) property, rights and liabilities that could not otherwise be transferred;
 
@@ -8441,6 +8661,8 @@ Schedule 18 - The apprenticeship offer: consequential amendments
 
 ## SCHEDULE 18
 
+Section 69
+
 ### THE APPRENTICESHIP OFFER: CONSEQUENTIAL AMENDMENTS
 
 - 1 ASCLA 2009 is amended as follows.
@@ -8471,7 +8693,7 @@ Schedule 18 - The apprenticeship offer: consequential amendments
 
 '(5) In this section 'apprenticeship certificate' means an apprenticeship certificate issued under section 3 or 4.
 
-- A reference in this section to an apprenticeship certificate at any level includes a reference to a certificate or other evidence (including a certificate  awarded  or  evidence  provided  by  a  person  outside England)  which  appears  to  the  Chief  Executive  to  be  evidence  of experience and attainment at a comparable or higher level.'
+- (6) A reference in this section to an apprenticeship certificate at any level includes a reference to a certificate or other evidence (including a certificate  awarded  or  evidence  provided  by  a  person  outside England)  which  appears  to  the  Chief  Executive  to  be  evidence  of experience and attainment at a comparable or higher level.'
 
 - 12 In  section  121(3)  (interpretation  of  Part  4:  training  within  the  Chief Executive's remit), after paragraph (a) insert-
 
@@ -8479,15 +8701,13 @@ Schedule 18 - The apprenticeship offer: consequential amendments
 
 - 13 (1) Section 262 (orders and regulations) is amended as follows.
 
-- After subsection (3) insert-
+- (2) After subsection (3) insert-
 
 '(3A) An order under section 83A(12) may amend, repeal or revoke any provision of, or in an instrument made under, this or any other Act.'
 
-- Omit subsection (4).
+- (3) Omit subsection (4).
 
-- In subsection (6) (orders and regulations subject to affirmative resolution)-
-
-Section 69
+- (4) In subsection (6) (orders and regulations subject to affirmative resolution)-
 
 [[END OF PAGE 158]]
 
@@ -8499,8 +8719,12 @@ Schedule 18 - The apprenticeship offer: consequential amendments
 
 153
 
-- 14
+(a) before paragraph (b) insert-
 
-(a) before paragraph (b) insert'(ab) an order under section 83A(12);'; (b) omit paragraph (c). In section 269 (commencement), omit subsection (5).
+'(ab) an order under section 83A(12);';
+
+(b) omit paragraph (c).
+
+- 14 In section 269 (commencement), omit subsection (5).
 
 [[END OF PAGE 159]]
