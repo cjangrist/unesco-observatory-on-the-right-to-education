@@ -1,6 +1,12 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+FA'AVAE I LE ATUA SĀMOA
+GOVERNMENT OF SĀMOA
+
+# SĀMOA EDUCATION SECTOR PLAN
+# JULY 2013 - JUNE 2018
+
+## Improved Focus on Access to Education and Training and Quality Learning Outcomes
 
 [[END OF PAGE 1]]
 
@@ -48,81 +54,79 @@ Education Sector Plan (July 2013 - June 2018)
 
 # ACRONYMS AND ABBREVIATIONS
 
-ACEO Assistant Chief Executive Officer ADB Asian Development Bank AMIS Assessment Management Information System AMP Annual Management Plan APTC Australia-Pacific Technical Centre CAP Community Access Programme CAS Career Advisory Service CDC Cabinet Development Committee CEO Chief Executive Officer CMAD Curriculum, Materials & Assessment Division CSD Central Services Division DPs Development Partners DVC Deputy Vice Chancellor ECE Early Childhood Education EMIS Education Management Information System ESAC Education Sector Advisory Committee ESCD Education Sector Coordination Division ESP Education Sector Plan ESP II Education Sector Programme II ESWG Education Sector Working Group GDP Gross Domestic Product GoS Government of Samoa IA Implementing Agency IAD Internal Audit Division ICT Information and Communications Technology IE Inclusive Education MCIL Ministry of Commerce, Industry and Labour MDG Millennium Development Goal M&E Monitoring and Evaluation MERD Monitoring Education Research and Development Division, MESC MESC Ministry of Education, Sports and Culture MoF Ministry of Finance MSS Minimum Service Standards MTEF Medium Term Expenditure Framework MWCSD Ministry of Women, Community and Social Services
-
 ## Currency
 
 All currency is in Samoan Tala (SAT) unless otherwise stated.
 
-NCECES
-
-NCS
-
-NER
-
-NFE
-
-NGO
-
-NTDF
-
-NUS
-
-OPDC
-
-PaBER
-
-PPRD
-
-PSC
-
-PSET
-
-PSSC
-
-QAD
-
-QD
-
-SAT
-
-SDS
-
-SFS
-
-SIEDP
-
-SOD
-
-SPBEA
-
-SPECA
-
-SPELL
-
-SQ
-
-SQA
-
-SQF
-
-SSFGS
-
-SSLC
-
-SUNGO
-
-SWAp
-
-TA
-
-TVET
-
-USP
-
-VC
-
-National Council of Early Childhood Education for Samoa National Competency Standards Net Enrolment Rate Non Formal Education Non Government Organisation National Teacher Development Framework National University of Samoa Oloamanu Professional Development Centre Pacific Benchmarking for Education Results Policy, Planning and Research Division, MESC Public Service Commission Post School Education and Training Pacific Senior School Certificate Quality Assurance Davison Qualifications Division Samoan Tala Strategy for the Development of Samoa Sosaiete Faiaoga Samoa Samoa Inclusive Education Demonstration Programme School Operations Division Secretariat of the Pacific Board for Educational Assessment Samoa Primary Education Certificate Assessment Samoa Primary Education Literacy Level Test Samoa Qualifications Samoa Qualifications Authority Samoa Quality Framework Samoa School Fee Grant Scheme Samoa Secondary Leaving Certificate Samoa Umbrella Organisation for NGOs Sector Wide Approach Technical Assistance Technical and Vocational Education and Training University of the South Pacific Vice Chancellor
+ACEO Assistant Chief Executive Officer
+NCECES National Council of Early Childhood Education for Samoa
+ADB Asian Development Bank
+NCS National Competency Standards
+AMIS Assessment Management Information System
+NER Net Enrolment Rate
+AMP Annual Management Plan
+NFE Non Formal Education
+APTC Australia-Pacific Technical Centre
+NGO Non Government Organisation
+CAP Community Access Programme
+NTDF National Teacher Development Framework
+CAS Career Advisory Service
+NUS National University of Samoa
+CDC Cabinet Development Committee
+OPDC Oloamanu Professional Development Centre
+CEO Chief Executive Officer
+PaBER Pacific Benchmarking for Education Results
+CMAD Curriculum, Materials & Assessment Division
+PPRD Policy, Planning and Research Division, MESC
+CSD Central Services Division
+PSC Public Service Commission
+DPs Development Partners
+PSET Post School Education and Training
+DVC Deputy Vice Chancellor
+PSSC Pacific Senior School Certificate
+ECE Early Childhood Education
+QAD Quality Assurance Davison
+EMIS Education Management Information System
+QD Qualifications Division
+ESAC Education Sector Advisory Committee
+SAT Samoan Tala
+ESCD Education Sector Coordination Division
+SDS Strategy for the Development of Samoa
+ESP Education Sector Plan
+SFS Sosaiete Faiaoga Samoa
+ESP II Education Sector Programme II
+SIEDP Samoa Inclusive Education Demonstration Programme
+ESWG Education Sector Working Group
+SOD School Operations Division
+GDP Gross Domestic Product
+SPBEA Secretariat of the Pacific Board for Educational Assessment
+GoS Government of Samoa
+SPECA Samoa Primary Education Certificate Assessment
+IA Implementing Agency
+SPELL Samoa Primary Education Literacy Level Test
+IAD Internal Audit Division
+SQ Samoa Qualifications
+ICT Information and Communications Technology
+SQA Samoa Qualifications Authority
+IE Inclusive Education
+SQF Samoa Quality Framework
+MCIL Ministry of Commerce, Industry and Labour
+SSFGS Samoa School Fee Grant Scheme
+MDG Millennium Development Goal
+SSLC Samoa Secondary Leaving Certificate
+M&E Monitoring and Evaluation
+SUNGO Samoa Umbrella Organisation for NGOs
+MERD Monitoring Education Research and Development Division, MESC
+SWAp Sector Wide Approach
+MESC Ministry of Education, Sports and Culture
+TA Technical Assistance
+MoF Ministry of Finance
+TVET Technical and Vocational Education and Training
+MSS Minimum Service Standards
+USP University of the South Pacific
+MTEF Medium Term Expenditure Framework
+VC Vice Chancellor
+MWCSD Ministry of Women, Community and Social Services
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -134,6 +138,43 @@ Education Sector Plan (July 2013 - June 2018)
 
 # TABLE OF CONTENTS
 
+MESSAGE FROM THE MINISTER OF EDUCATION, SPORTS AND CULTURE ..................................................... 3
+ACRONYMS AND ABBREVIATIONS ................................................................................................................ 4
+EXECUTIVE SUMMARY .................................................................................................................................. 7
+CHAPTER 1: INTRODUCTION ......................................................................................................................... 9
+1.1 COUNTRY CONTEXT .............................................................................................................................. 9
+1.2 SAMOA’S DEVELOPMENT STRATEGY ........................................................................................................ 9
+1.3 DEVELOPMENT OF THE EDUCATION SECTOR PLAN .................................................................................... 10
+CHAPTER 2: EDUCATION SECTOR ................................................................................................................ 12
+2.1 SECTOR SCOPE AND STRUCTURE ........................................................................................................... 12
+2.2 REVIEW OF SECTOR PERFORMANCE ....................................................................................................... 18
+2.3 KEY DEVELOPMENT ISSUES, CONSTRAINTS AND OPPORTUNITIES .................................................................. 24
+CHAPTER 3: GOALS AND OBJECTIVES .......................................................................................................... 29
+3.1 VISION, MISSION AND GUIDING PRINCIPLES ............................................................................................ 29
+3.2 SECTOR GOALS .................................................................................................................................. 29
+3.3 RELATIONSHIP BETWEEN THE ESP GOALS AND EXISTING STRATEGIES WITHIN THE SECTOR ................................ 30
+3.4 OUTCOMES AND TARGETS ................................................................................................................... 31
+CHAPTER 4: PROGRAMMES AND OUTPUTS ................................................................................................ 34
+4.1 PROGRAMMES TARGETING GOAL 1 ....................................................................................................... 34
+4.2 PROGRAMMES TARGETING GOAL 2 ....................................................................................................... 37
+4.3 PROGRAMMES TARGETING GOAL 3 ....................................................................................................... 39
+4.4 PROGRAMMES TARGETING GOAL 4 ....................................................................................................... 41
+4.5 PROGRAMMES TARGETING GOAL 5 ....................................................................................................... 43
+CHAPTER 5: RESOURCE REQUIREMENTS ..................................................................................................... 45
+5.1 OVERVIEW - MEDIUM TERM EXPENDITURE FRAMEWORK .......................................................................... 45
+5.2 CAPACITY DEVELOPMENT .................................................................................................................... 46
+5.3 ADDITIONAL RECURRENT COSTS RESULTING FROM ESP POLICIES AND STRATEGIES ........................................... 47
+5.4 FINANCING PLAN ............................................................................................................................... 47
+5.5 UPDATING THE MTEF ......................................................................................................................... 51
+5.6 IMPLEMENTING AGENCY FORWARD ESTIMATES, AND SECTOR FORWARD ESTIMATES ...................................... 51
+5.7 FINANCIAL MANAGEMENT REPORTING .................................................................................................. 51
+CHAPTER 6: MANAGING IMPLEMENTATION ............................................................................................... 52
+6.1 MANAGING IMPLEMENTATION AT AGENCY LEVEL .................................................................................... 52
+6.2 INSTITUTIONAL ARRANGEMENTS FOR A SECTOR-WIDE APPROACH .............................................................. 56
+6.3 SECTORAL PLANNING AND BUDGETING .................................................................................................. 61
+6.4 PROCUREMENT AND AUDIT ARRANGEMENTS .......................................................................................... 62
+6.5 INITIAL 5-YEAR IMPLEMENTATION PLAN .................................................................................................. 63
+
 Education Sector Plan (July 2013 - June 2018)
 
 5
@@ -141,6 +182,24 @@ Education Sector Plan (July 2013 - June 2018)
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+CHAPTER 7: MONITORING AND EVALUATION ............................................................................................. 64
+7.1 ESP PERFORMANCE MONITORING ......................................................................................................... 64
+7.2 ANNUAL REVIEW ............................................................................................................................... 64
+7.3 MID-TERM REVIEW AND EVALUATION ................................................................................................... 65
+CHAPTER 8: RISK MANAGEMENT AND SUSTAINABILITY ............................................................................. 66
+8.1 RISK MANAGEMENT ........................................................................................................................... 66
+8.2 ANNUAL REVIEW OF THE RISK MANAGEMENT MATRIX ............................................................................. 66
+8.3 SUSTAINABILITY ................................................................................................................................. 67
+ANNEX A: SITUATION ANALYSIS .................................................................................................................. 68
+ANNEX B: LOGICAL FRAMEWORK ............................................................................................................... 74
+ANNEX C: MTEF 2012-2016 RECURRENT EXPENDITURES ............................................................................ 79
+ANNEX D: MTEF 2012-2016 ‘DEVELOPMENT’ EXPENDITURES ..................................................................... 80
+ANNEX E: ESP IMPLEMENTATION PLAN ...................................................................................................... 81
+ANNEX F: MONITORING AND EVALUATION FRAMEWORK ........................................................................ 103
+ANNEX G: RISK MATRIX ............................................................................................................................. 111
+ANNEX H: ESP DEVELOPMENT TEAM ........................................................................................................ 114
+ANNEX I: REFERENCES ............................................................................................................................... 115
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -150,32 +209,32 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 7]]
 
+# EXECUTIVE SUMMARY
+
 ## Background
 
-The  Samoa  Education  Sector  Plan  (ESP)  brings  together  the  forward  plans  of  the  Ministry  of  Education, Sports and Culture (MESC), the Samoa Qualifications Authority (SQA) and the National University of Samoa (NUS), together with the arrangements for implementing and monitoring these plans. It strengthens Samoa's Sector  Wide  Approach  (SWAp),  involving  all  stakeholders  in  tackling  the  developmental  needs  of  the education sector in Samoa.  Education is key to the Strategy for the Development of Samoa (SDS), including the need to improve employment prospects 1 and reduce the scarcity of skilled labour that constrains private sector growth.
+The Samoa Education Sector Plan (ESP) brings together the forward plans of the Ministry of Education, Sports and Culture (MESC), the Samoa Qualifications Authority (SQA) and the National University of Samoa (NUS), together with the arrangements for implementing and monitoring these plans. It strengthens Samoa’s Sector Wide Approach (SWAp), involving all stakeholders in tackling the developmental needs of the education sector in Samoa. Education is key to the Strategy for the Development of Samoa (SDS), including the need to improve employment prospects 1 and reduce the scarcity of skilled labour that constrains private sector growth.
 
-The  education  sector  comprises:  government  and  non-government  primary  and  secondary  schools;  early childhood  education  (ECE);  post-school  education  and  training  (PSET)  of  which  the  largest  government provider is NUS 2 ; and the policy, planning and regulation bodies - MESC for schools&ECE, and SQA for PSET.
+The education sector comprises: government and non-government primary and secondary schools; early childhood education (ECE); post-school education and training (PSET) of which the largest government provider is NUS 2; and the policy, planning and regulation bodies - MESC for schools&ECE, and SQA for PSET.
 
-Primary  education  is  compulsory  for  5  to  14  year  olds,  and  almost  universal,  though  still  with  some vulnerable children out of school.   There is a significant drop-out in transition to and within the four years of secondary education, especially for boys.   ECE - either mission, community or privately run - is not universal and is constrained by the lack of a developmental policy framework for standards and resourcing.   PSET is constrained  by  high  user  costs  (also  affecting  schools),  by  limited  pathways  into  PSET  from  secondary education and within PSET, and by a lack of recognition of Non Formal Education. But at all levels, the quality of  provision  is  the  major  problem,  including  in  many  cases  inadequately  motivated  and  trained  teachers. Another  problem  is  inadequate  relevance  of  courses  to  the  Samoan  economy  and  culture.The  ESP  is designed to tackle these problems directly and through improvements both in sectoral coordination of policy and planning and in sectoral management.  The ESP builds both on the MESC, SQA and NUS strategic and corporate plans and on existing projects supported by Development Partners (DPs).
+Primary education is compulsory for 5 to 14 year olds, and almost universal, though still with some vulnerable children out of school. There is a significant drop-out in transition to and within the four years of secondary education, especially for boys. ECE - either mission, community or privately run - is not universal and is constrained by the lack of a developmental policy framework for standards and resourcing. PSET is constrained by high user costs (also affecting schools), by limited pathways into PSET from secondary education and within PSET, and by a lack of recognition of Non Formal Education. But at all levels, the quality of provision is the major problem, including in many cases inadequately motivated and trained teachers. Another problem is inadequate relevance of courses to the Samoan economy and culture.The ESP is designed to tackle these problems directly and through improvements both in sectoral coordination of policy and planning and in sectoral management. The ESP builds both on the MESC, SQA and NUS strategic and corporate plans and on existing projects supported by Development Partners (DPs).
 
 ## ESP Objectives
 
-The vision of  the  sector  plan  is  that  all  people  in  Samoa  are  educated  and  productively  engaged.    The mission of the agencies supporting the sector is : to promote the achievement of high quality education and training  to  meet  the  national,  economic,  social, and cultural  goals  of  Samoa.     The  ESP  has  5  goals,  with associated Sector Outcomes to be achieved by 2018, as follows:
+The vision of the sector plan is that all people in Samoa are educated and productively engaged. The mission of the agencies supporting the sector is: to promote the achievement of high quality education and training to meet the national, economic, social, and cultural goals of Samoa. The ESP has 5 goals, with associated Sector Outcomes to be achieved by 2018, as follows:
 
 Goal | Sector Outcomes
 --- | ---
 1. Enhanced quality of education at all levels. | Improved learning outcomes at all levels
-2. Enhanced educational access and opportunities at all levels | At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate- resistant learning environments
+2. Enhanced educational access and opportunities at all levels | At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate-resistant learning environments
 3. Enhanced relevance of education at all levels | Improved employability of school leavers as a result of education and training responding to national economic, social and cultural needs
 4. Improved sector co-ordination of Research, Policy and Planning Development | A co-ordinated approach through effective partnerships with key stakeholders ensures newly developed and implemented policies contribute to improved quality across the education sector
-Analysis of research findings, evaluations and monitoring evidence increasingly used to inform policy and planning across the sector
+ | Analysis of research findings, evaluations and monitoring evidence increasingly used to inform policy and planning across the sector
 5. Established Sustainable and Efficient Management of All Education Resources | Education resources are increasingly managed efficiently and sustainably across the sector
 
-> 1 According to the 2011 Samoa Population and Housing Census, only around 22% of Samoa's total population is engaged in formal paid employment.
+> 1 According to the 2011 Samoa Population and Housing Census, only around 22% of Samoa’s total population is engaged in formal paid employment.
 
 > 2 NUS offers both technical and vocational education and training (TVET) and higher education courses
-
-# EXECUTIVE SUMMARY
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -223,6 +282,8 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 9]]
 
+# CHAPTER 1: INTRODUCTION
+
 ## 1.1 Country Context
 
 The  Education Sector of Samoa serves a population of 187,820 3 on  a  land  area  of  2,820  km 2 (43% arable) comprising the two main islands of Upolu and Savai'i and eight small islands.   76% of the population lives in Upolu, with 20% in the urban area of the capital city, Apia.  Although the annual population growth rate is only 0.8%, partly a result of high emigration, around 55% of the population are under 25 and 35% are under 15, putting heavy pressures on the education system.
@@ -250,8 +311,6 @@ Education is crucial to this vision: the seventh SDS Key Outcome is 'Improved Fo
 > 6 'A report on the estimation of basic needs poverty lines, andthe incidence and characteristics of hardship & povertyanalysis of the 2008 household income and expenditure survey', Samoa Bureau of Statistics, 2008
 
 > 7 IMF Country Report 2013
-
-# CHAPTER 1: INTRODUCTION
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -389,14 +448,14 @@ Table 1 shows the number of ECE centres, primary and secondary schools and PSET 
 
 Level | Type | Government | Mission | Private | Other | Total
 --- | --- | --- | --- | --- | --- | ---
-ECE Centres | 42 | 35 | 20 (Community) | 97
-Schools 11 | Primary schools | 142 | 17 | 6 | 165
-Secondary schools | 24 | 12 | 1 | 37
-Joint Primary/Secondary | - | 4 | 2 | 6
-Total | 166 | 33 | 9 | 208
+ | ECE Centres |  | 42 | 35 | 20 (Community) | 97
+Schools 11 | Primary schools | 142 | 17 | 6 |  | 165
+ | Secondary schools | 24 | 12 | 1 |  | 37
+ | Joint Primary/Secondary | - | 4 | 2 |  | 6
+ | Total | 166 | 33 | 9 |  | 208
 PSET Providers 12 | Registered & Listed Formal 13 | 2 14 | 16 | 9 | 2 (Regional) | 29
-Listed Non Formal 15 | 8 | 8
-Total | 2 | 16 | 17 | 2 | 37
+ | Listed Non Formal 15 |  |  | 8 |  | 8
+ | Total | 2 | 16 | 17 | 2 | 37
 
 Table 1: ECE Centres, schools and PSET providers is Samoa 16
 
@@ -424,9 +483,7 @@ NUS  combines  the  provision  of  higher  education  and  Technical  and  Vocat
 
 > 13 Number of registered & listed formal PSET providers as of October 2013
 
-14
-
-Includes NUS which is both TVET and Higher Education Sciences,  besides  provision  of  higher  education  for  nursing  and  health  science  courses,  is  the  main government  provider  of  TVET.    Business  education  is  provided  through  the  Faculty  of  Business  and Entrepreneurship.   The NUS Centre for Samoan Studies is also the Research Centre of the university as well as providing courses in Samoan Language and Culture.   The NUS Oloamanu Centre was established by the university in  2006  to facilitate  and  provide  short-term  formal  in-country  training  and  professional development, in accordance to training needs analysis by employers in both government and private sector organisations.
+> 14 Includes NUS which is both TVET and Higher Education
 
 > 15 Number of listed NFL providers as of October 2013
 
@@ -443,6 +500,8 @@ Education Sector Plan (July 2013 - June 2018)
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+Sciences, besides provision of higher education for nursing and health science courses, is the main government provider of TVET. Business education is provided through the Faculty of Business and Entrepreneurship. The NUS Centre for Samoan Studies is also the Research Centre of the university as well as providing courses in Samoan Language and Culture. The NUS Oloamanu Centre was established by the university in 2006 to facilitate and provide short-term formal in-country training and professional development, in accordance to training needs analysis by employers in both government and private sector organisations.
 
 ### 2.1.3 Policy, Planning and Regulation
 
@@ -482,25 +541,25 @@ These include the following: 20
 
 ESP  II  is  the  second  phase  of  a  programme  providing  pooled  support  from  the  Governments  of  Samoa, Australia and New Zealand, the Asian Development Bank (ADB) and civil works supported by JICA.   In 2012, funds were provided for civil works by JICA at the request of GoS.  The goal of ESP II is 'the establishment of a  more  equitable  and  effective  education  system  that  enhances  learning  outcomes  of  young  people  for further study, work, and adult life'.  The project has 5 components as follows:
 
-- Curriculum Reform and Assessment System to 'ensure that all students have the opportunity to learn and acquire the knowledge, skills and attitudes specified in the national curriculum.'
+1. Curriculum Reform and Assessment System – to ‘ensure that all students have the opportunity to learn and acquire the knowledge, skills and attitudes specified in the national curriculum.’
 
-- Developing Effective Teachers: ensuring that 'teachers are at the core of efforts to improve the quality of  education and the level of student learning'.  The main outcome of this programme has been the development of a National Teacher Development Framework (NTDF).
+2. Developing Effective Teachers: ensuring that ‘teachers are at the core of efforts to improve the quality of education and the level of student learning’. The main outcome of this programme has been the development of a National Teacher Development Framework (NTDF).
 
-- Improving  Access  to  Quality  Education: Providing  infrastructure  in  the  form  of  'improved  Secondary School Facilities and a Community Learning Centre.'
+3. Improving Access to Quality Education: Providing infrastructure in the form of ‘improved Secondary School Facilities and a Community Learning Centre.’
 
-- Strengthening Capacity to Undertake Research, Evaluation, Policy Analysis and Planning: 'The outcomes of  this  component include increased capacity for research and  evaluation, the completion  of at least five  (5)  Major  Research  Studies  that  contribute  to  Sector  Analysis  and  Policy  Development,  and  the Completion of specific evaluation studies associated with ESP I and II activities.'
+4. Strengthening Capacity to Undertake Research, Evaluation, Policy Analysis and Planning: ‘The outcomes of this component include increased capacity for research and evaluation, the completion of at least five (5) Major Research Studies that contribute to Sector Analysis and Policy Development, and the Completion of specific evaluation studies associated with ESP I and II activities.’
 
-- Strengthening Capacity to Implement and Manage Development Projects: This 'component is associated with Project Management, and in developing MESC's capacity to implement donor-funded programs'. The key outcome will be effective management of ESP II, with the aim of moving towards a Sector-Wide Approach in Education.
+5. Strengthening Capacity to Implement and Manage Development Projects: This ‘component is associated with Project Management, and in developing MESC’s capacity to implement donor-funded programs’. The key outcome will be effective management of ESP II, with the aim of moving towards a Sector-Wide Approach in Education.
 
-- Enhanced  quality  of  education  by  delivering  the  curriculum,  assessment,  learning  materials,  teachers training  and  learning  through  Information  and  Communications  Technology  (ICT). This  component, otherwise known as the 'SchoolNET and Community Access project' has 4 subcomponents:
+6. Enhanced quality of education by delivering the curriculum, assessment, learning materials, teachers training and learning through Information and Communications Technology (ICT). This component, otherwise known as the ‘SchoolNET and Community Access project’ has 4 subcomponents:
 
-- Improving quality of teaching and learning through e-learning materials and approaches,
+i. Improving quality of teaching and learning through e-learning materials and approaches,
 
-- Increasing access of schools to e-teaching and e-learning tools,
+ii. Increasing access of schools to e-teaching and e-learning tools,
 
-- Establishing  Public-Private  partnerships  to  support  SchoolNET  and  Community  Access  Program (CAP), and
+iii. Establishing Public-Private partnerships to support SchoolNET and Community Access Program (CAP), and
 
-- Strengthening education management through ICT systems.
+iv. Strengthening education management through ICT systems.
 
 The project ends in December 2014.  The final year focuses on completing the outstanding activities such as the initial implementation of the NTDF, implementation of the New Bilingual Primary Curriculum, SchoolNET and preparations for the present Education Sector Plan.   The ESP will help the latter through its creation of informal structures for sectoral coordination that are being built on for implementing the present ESP, and in strengthening M&E.
 
@@ -622,6 +681,17 @@ This section provides a summary of performance of the sector in recent years, in
 
 MESC statistics show 3,639 enrolments in early childhood education (ECE) in 2013, a 4% increase on 2012. The actual number can be assumed to be higher because of the known existence of  community-run, unregistered pre-schools. The two charts below show known enrolments by age and by gender. In 2013, girls' enrolment constituted 52% of the total, so the gender balance is a healthy one.
 
+Early Childhood Education Enrolment by Gender, 2013
+Female 52%
+Male 48%
+
+Early Childhood Education Enrolment by Age, 2013
+Age 2 15%
+Age 3 27%
+Age 4 39%
+Age 5 19%
+Age 6 0%
+
 Graph 1: Early Childhood Education (ECE) Enrolment by Age and Gender, 2013
 
 Little is known yet about how equitable the current provision of ECE provision is or how good the quality of what is offered for those enrolled. Anecdotally, the quality is highly variable and often poor - the result of many contributory factors.
@@ -647,34 +717,42 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 19]]
 
+Net Enrolment Rate, 2008 - 2013
+Rates (%)
+0 10 20 30 40 50 60 70 80 90 100 110
+2008 2009 2010 2011 2012 2013
+Year
+Primary
+Secondary
+
 Graph 2: NERs for Primary and Secondary Schools
 
 Most children also go on to complete the full cycle of eight years of primary education. Primary drop-out rates have been low over recent decades, with current  MESC data remarkably showing no children  at all dropping out in 2013.
 
 Drop-out rates increase, however, as students enter and progress through the secondary school cycle. The table and graph above show that around 70% of children leave primary school and enter Year 9.  Throughout the secondary  cycle, drop out is significant, as the table and graphs  below show, although, over the long term,  a  slight  decrease  is  evident.  The  highest  drop-out  unsurprisingly  occurs  from  Year  12  to  13,  when highly  selective  assessment  (the  Samoa  School  Certificate  and  the  Senior  Secondary  Leaving  certificate) restricts entry for most.
 
-Y e a r | Y e a r L e v e l s
+Year Levels
+Year | 1 - 2 | 2 - 3 | 3 - 4 | 4 - 5 | 5 - 6 | 6 - 7 | 7 - 8 | 8 - 9 | 9 - 10 | 10 - 11 | 11 - 12 | 12 - 13
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1 - 2 | 2 - 3 | 3 - 4 | 4 - 5 | 5 - 6 | 6 - 7 | 7 - 8 | 8 - 9 | 9 - 1 0 | 1 0 - 1 1 | 1 1 - 1 2 | 1 2 - 1 3
-1 9 9 4 - 1 9 9 5 | 6 | 0 | 0 * | 1 | 0 * | 2 | 0 * | 1 6 | 9 | 5 | 3 9 | 4 2
-1 9 9 5 - 1 9 9 6 | 9 | 1 | 0 | 3 | 5 | 4 | 0 * | 2 0 | 1 5 | 9 | 3 8 | 4 9
-1 9 9 6 - 1 9 9 7 | 1 0 | 2 | 1 | 2 | 2 | 2 | 0 * | 1 7 | 5 | 8 | 1 5 | 4 9
-1 9 9 7 - 1 9 9 8 | 9 | 1 | 0 | 5 | 1 | 5 | 0 * | 1 6 | 1 0 | 9 | 2 5 | 4 2
-1 9 9 8 - 1 9 9 9 | 8 | 2 | 2 | 3 | 2 | 7 | 0 * | 1 5 | 6 | 8 | 1 7 | 4 2
-1 9 9 9 - 2 0 0 0 | 6 | 0 * | 1 | 3 | 2 | 5 | 0 * | 1 1 | 1 0 | 1 2 | 1 7 | 4 7
-2 0 0 0 - 2 0 0 1 | 5 | 1 | 0 | 1 | 0 * | 2 | 0 * | 1 1 | 1 0 | 1 3 | 1 0 | 4 4
-2 0 0 1 - 2 0 0 2 | 7 | 0 * | 0 * | 2 | 0 * | 1 | 2 | 1 0 | 9 | 1 5 | 6 | 3 9
-2 0 0 2 - 2 0 0 3 | 5 | 1 | 0 | 4 | 1 | 3 | 2 | 9 | 4 | 1 2 | 4 | 3 8
-2 0 0 3 - 2 0 0 4 | 8 | 0 | 0 | 1 | 2 | 3 | 3 | 9 | 1 1 | 1 4 | 1 5 | 3 1
-2 0 0 4 - 2 0 0 5 | 7 | 2 | 3 | 2 | 2 | 2 | 4 | 1 0 | 9 | 1 3 | 8 | 3 9
-2 0 0 5 - 2 0 0 6 | 8 | 4 | 1 | 2 | 4 | 2 | 5 | 9 | 9 | 1 8 | 3 | 4 1
-2 0 0 6 - 2 0 0 7 | 6 | 0 | 0 | 0 | 2 | 1 | 5 | 9 | 8 | 1 9 | 4 | 3 9
-2 0 0 7 - 2 0 0 8 | 5 | 1 | 0 * | 2 | 2 | 2 | 2 | 1 0 | 9 | 2 0 | 6 | 4 0
-2 0 0 8 - 2 0 0 9 | 6 | 0 * | 0 * | 1 | 1 | 1 | 3 | 9 | 9 | 1 8 | 4 | 3 9
-2 0 0 9 - 2 0 1 0 | 1 | 0 * | 0 | 0 | 1 | 0 * | 1 | 9 | 9 | 1 5 | 6 | 3 5
-2 0 1 0 - 2 0 1 1 | 1 1 | 5 | 1 | 4 | 4 | 6 | 4 | 1 2 | 1 1 | 1 7 | 1 2 | 2 7
-2 0 1 1 - 2 0 1 2 | 5 | 1 | 0 | 3 | 2 | 2 | 1 | 1 2 | 1 1 | 1 7 | 5 | 2 5
-2 0 1 2 - 2 0 1 3 | 0 | 0 * | 0 * | 0 | 0 | 0 | 0 * | 1 0 | 5 | 1 3 | 7 | 3 1
+1994-1995 | 6 | 0 | 0* | 1 | 0* | 2 | 0* | 16 | 9 | 5 | 39 | 42
+1995-1996 | 9 | 1 | 0 | 3 | 5 | 4 | 0* | 20 | 15 | 9 | 38 | 49
+1996-1997 | 10 | 2 | 1 | 2 | 2 | 2 | 0* | 17 | 5 | 8 | 15 | 49
+1997-1998 | 9 | 1 | 0 | 5 | 1 | 5 | 0* | 16 | 10 | 9 | 25 | 42
+1998-1999 | 8 | 2 | 2 | 3 | 2 | 7 | 0* | 15 | 6 | 8 | 17 | 42
+1999-2000 | 6 | 0* | 1 | 3 | 2 | 5 | 0* | 11 | 10 | 12 | 17 | 47
+2000-2001 | 5 | 1 | 0 | 1 | 0* | 2 | 0* | 11 | 10 | 13 | 10 | 44
+2001-2002 | 7 | 0* | 0* | 2 | 0* | 1 | 2 | 10 | 9 | 15 | 6 | 39
+2002-2003 | 5 | 1 | 0 | 4 | 1 | 3 | 2 | 9 | 4 | 12 | 4 | 38
+2003-2004 | 8 | 0 | 0 | 1 | 2 | 3 | 3 | 9 | 11 | 14 | 15 | 31
+2004-2005 | 7 | 2 | 3 | 2 | 2 | 2 | 4 | 10 | 9 | 13 | 8 | 39
+2005-2006 | 8 | 4 | 1 | 2 | 4 | 2 | 5 | 9 | 9 | 18 | 3 | 41
+2006-2007 | 6 | 0 | 0 | 0 | 2 | 1 | 5 | 9 | 8 | 19 | 4 | 39
+2007-2008 | 5 | 1 | 0* | 2 | 2 | 2 | 2 | 10 | 9 | 20 | 6 | 40
+2008-2009 | 6 | 0* | 0* | 1 | 1 | 1 | 3 | 9 | 9 | 18 | 4 | 39
+2009-2010 | 1 | 0* | 0 | 0 | 1 | 0* | 1 | 9 | 9 | 15 | 6 | 35
+2010-2011 | 11 | 5 | 1 | 4 | 4 | 6 | 4 | 12 | 11 | 17 | 12 | 27
+2011-2012 | 5 | 1 | 0 | 3 | 2 | 2 | 1 | 12 | 11 | 17 | 5 | 25
+2012-2013 | 0 | 0* | 0* | 0 | 0 | 0 | 0* | 10 | 5 | 13 | 7 | 31
 
 Table 3: Dropout Rates (percentage) by Year Level, 1995 - 2013
 
@@ -688,173 +766,35 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 20]]
 
-Graphs 3&4: Dropout Rates (%) by Year Level, 1995 - 2013 (Primary and Secondary)
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-1994-1995
-
-1995-1996
-
-1996-1997
-
-1997-1998
-
-1998-1999
-
-1999-2000
-
-2000-2001
-
-2001-2002
-
-2002-2003
-
-2003-2004
-
-2004-2005
-
-2005-2006
-
-2006-2007
-
-2007-2008
-
-2008-2009
-
-2009-2010
-
-2010-2011
-
-2011-2012
-
-2012-2013
-
+Dropout Rates (%) of all Primary Schools since 1995
 Rates (%)
-
+0 10 20 30 40 50 60 70 80
+1994-1995 1995-1996 1996-1997 1997-1998 1998-1999 1999-2000 2000-2001 2001-2002 2002-2003 2003-2004 2004-2005 2005-2006 2006-2007 2007-2008 2008-2009 2009-2010 2010-2011 2011-2012 2012-2013
 Years
-
-Dropout Rates (%) of all Primary Schools
-
-since 1995
-
 Yr 1 - Yr 2
-
 Yr 2 - Yr 3
-
 Yr 3 - Yr 4
-
 Yr 4 - Yr 5
-
 Yr 5 - Yr 6
-
 Yr 6 - Yr 7
-
 Yr 7 - Yr 8
 
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-1994-1995
-
-1995-1996
-
-1996-1997
-
-1997-1998
-
-1998-1999
-
-1999-2000
-
-2000-2001
-
-2001-2002
-
-2002-2003
-
-2003-2004
-
-2004-2005
-
-2005-2006
-
-2006-2007
-
-2007-2008
-
-2008-2009
-
-2009-2010
-
-2010-2011
-
-2011-2012
-
-2012-2013
-
+Dropout Rates (%) of all Secondary Schools since 1995
 Rates (%)
-
+0 10 20 30 40 50 60 70 80 90 100
+1994-1995 1995-1996 1996-1997 1997-1998 1998-1999 1999-2000 2000-2001 2001-2002 2002-2003 2003-2004 2004-2005 2005-2006 2006-2007 2007-2008 2008-2009 2009-2010 2010-2011 2011-2012 2012-2013
 Years
-
-Dropout Rates (%) of all Secondary Schools
-
-since 1995
-
 Yr 8 - Yr 9
-
 Yr 9 - Yr 10
+Yr 10 - Yr 11
+Yr 11 - Yr 12
+Yr 12 - Yr 13
 
-Yr 10 - Yr
-
-11
-
-Yr 11 - Yr
-
-12
-
-Yr 12 - Yr
-
-13
+Graphs 3&4: Dropout Rates (%) by Year Level, 1995 - 2013 (Primary and Secondary)
 
 The available data on enrolment and drop-out cannot provide insight into the equity dimension of primary and secondary school access. Reliable analysis is not yet available on where those students not in school or dropping  out  live  (in  towns,  in  rural  and  remote  areas),  whether  or  not  they  come  from  economically disadvantaged households, or whether they have disabilities or learning difficulties, for example.
 
-Despite a long history in Samoa of high enrolment and strong family and government commitment to basic education, there has been growing concern in recent years over the quality of primary education. Literacy in both Samoan and English has become a specific concern. The following graphs illustrate the percentage over the last six years of Year 6 students assessed as 'At Risk' in English, Samoan and Numeracy, based on their performance in the SPELL 2 Tests.
+Despite a long history in Samoa of high enrolment and strong family and government commitment to basic education, there has been growing concern in recent years over the quality of primary education. Literacy in both Samoan and English has become a specific concern. The following graphs illustrate the percentage over
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -864,13 +804,33 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 21]]
 
-Graph 5:  Students at Risk, Year 6 English Test
+the last six years of Year 6 students assessed as “At Risk” in English, Samoan and Numeracy, based on their performance in the SPELL 2 Tests.
 
-The percentage of at risk students in the level 2 Samoa Primary Education Literacy Level (SPELL 2) English test  has  improved  since  2008.  However,  the  percentage  has  increased  again  in  2012  for  both  genders reaching the high figure of 44%. Overall boys are more at risk than girls.
+Students Identified as at Risk (%), Yr 6 English Test
+Percentages
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+2006 2007 2008 2009 2010 2011 2012
+Years
+Boys
+Girls
+Total
 
-Graph 6:  Students at Risk - Year 6 Samoan Test
+Graph 5: Students at Risk, Year 6 English Test
 
-Perhaps not surprisingly, far fewer children are at risk in Samoan language, compared to both English and numeracy. However, it's concerning that the percentage at risk has gradually increased from 13% in 2006 to 17% in 2012. Again, boys are more at risk than girls.
+The percentage of at risk students in the level 2 Samoa Primary Education Literacy Level (SPELL 2) English test has improved since 2008. However, the percentage has increased again in 2012 for both genders reaching the high figure of 44%. Overall boys are more at risk than girls.
+
+Students Identified as at Risk (%), Yr 6 Samoan Test
+Percentages
+0% 10% 20% 30% 40% 50%
+2006 2007 2008 2009 2010 2011 2012
+Years
+Boys
+Girls
+Total
+
+Graph 6: Students at Risk - Year 6 Samoan Test
+
+Perhaps not surprisingly, far fewer children are at risk in Samoan language, compared to both English and numeracy. However, it’s concerning that the percentage at risk has gradually increased from 13% in 2006 to 17% in 2012. Again, boys are more at risk than girls.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -880,11 +840,20 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 22]]
 
-Graph 7 -  Students at Risk -  Year 6 Numeracy Test
+Students Identified as at Risk (%), Yr 6 Numeracy Test
+Percentages
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+2006 2007 2008 2009 2010 2011 2012
+Years
+Boys
+Girls
+Total
 
-The above graph shows very high numbers at risk in numeracy, with a worrying up-turn in 2012. Boys again are more at risk than girls, with a 2012 figure of 62%. Girls, however, showed the sharper increase in 2012 from 40% to 50%.
+Graph 7 - Students at Risk - Year 6 Numeracy Test
 
-The table and graph below showing Year 8 National Examination scores in the five core subjects over the last eight years reveals variable trends over the years.  The most striking feature is the continued downward trend in Samoan since 2009.
+The above graph shows very high numbers at risk in numeracy, with a worrying up-turn in 2012. Boys again are more at risk than girls, with a 2012 figure of 62%. Girls, however, showed the sharper increase in 2012 - from 40% to 50%.
+
+The table and graph below showing Year 8 National Examination scores in the five core subjects over the last eight years reveals variable trends over the years. The most striking feature is the continued downward trend in Samoan since 2009.
 
 Subject | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -894,57 +863,20 @@ Mathematics | 26 | 32 | 33 | 35 | 33 | 29 | 26 | 32 | 28
 Basic Science | 29 | 37 | 33 | 29 | 34 | 39 | 39 | 32 | 35
 Social Science | 34 | 36 | 41 | 39 | 43 | 43 | 41 | 43 | 40
 
-Table 4& Graph 8: Average Raw Score at National Year 8 Examinations All (Government and Non Government) for Core Subjects
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
-
-2012
-
-Average Scores
-
-Years
-
 Year 8 National Examination
-
 Average Raw Scores, 2004 - 2012
-
+Average Scores
+0 10 20 30 40 50 60
+2004 2005 2006 2007 2008 2009 2010 2011 2012
+Years
 English
-
 Samoan
-
 Mathematics
-
 Basic Science
-
 Social Science
+
+Table 4& Graph 8: Average Raw Score at National Year 8 Examinations
+All (Government and Non Government) for Core Subjects
 
 At Year 12 School Certificate, results over the last eight years show a slow but steady improvement in English and mathematics, but, in recent years, a slight decline in Samoan. In 2012, with the exception of Agriculture science, Food and Textile Technology, and Visual Arts which all had lower scores, average results across all subjects were closely grouped in the 50 to 60 score range.
 
@@ -967,8 +899,8 @@ Enrolments at NUS have continued to expand since its establishment in 1984 with 
 NUS have seen considerable growth over the last decade in terms of enrolments, staffing, courses offered and physical infrastructure. From  2003  to 2011, enrolment growth has been approximately 100%   (from 1,423 to 2,823 students). In 2011, there were  3,022  students enrolled at NUS,  including in the Apprenticeship Scheme.  The latest figures (excluding Apprenticeships) are presented in Table 4 below.
 
 NUS Enrolment Numbers 2012 and 2013
+ | Female | Male | Total
 --- | --- | --- | ---
-Female | Male | Total
 2012 Semester 2 | 1,215 | 811 | 2,026
 2013 Semester 1 | 1,532 | 1,223 | 2,755
 2013 Semester 2 | 1,440 | 1,144 | 2,584
@@ -1051,7 +983,7 @@ At the primary level, it is recognized that there are still small numbers of har
 
 Reaching  all  children  with  disabilities  and  enrolling  them  in  appropriate  education  remains  a  challenge. Today's  policy  of  increasingly  including  disabled  children  in  mainstream  primary  and  secondary  schools brings different potential constraints - teachers not yet with the knowledge and skills (or the professional support) to do justice to the disabled students in their school.
 
-As well as financial constraints, other factors, particularly at the secondary level might concern students or parents' perception of the relevance and quality of what the school can offer. Often there is limited access to appropriate Maths and Science courses at secondary level, and a shortage of teachers in specialist subjects particularly in Science, ICT and Maths.
+As well as financial constraints, other factors, particularly at the secondary level might concern students or parents’ perception of the relevance and quality of what the school can offer. Often there is limited access to
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -1060,6 +992,7 @@ Education Sector Plan (July 2013 - June 2018)
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+appropriate Maths and Science courses at secondary level, and a shortage of teachers in specialist subjects particularly in Science, ICT and Maths.
 
 There is a significant equity issue inside schools too. There is growing concern about the education of boys. Boys are over-represented in literacy and numeracy at risk categories and in dropout rates at both primary and secondary levels. The trend of boys outnumbering girls at secondary school has been evident since 1996 and it is still continuing. Sixty three per cent of boys attend secondary education, compared with 78 per cent of girls. Girls also make up the majority (59%) of enrolments in the SSLC Examination. Key factors to consider in  educating  boys  will  be  engaging  them  and  motivating  them  to  want  to  learn  through  the  use  of appropriate  teaching  methods  and  relevant  curriculum  materials.  It  will  also  be  important  to  gain  the support of parents and the wider community. Often it is not that students can't learn, it is that they don't want to or can't see the point and limited pathways from secondary to PSET may also be a factor.
 
@@ -1205,7 +1138,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 The vision of the sector plan is that all people in Samoa are educated and productively engaged
 
-The mission of the agencies supporting the sector is : to promote the achievement of high quality education and training to meet the national, economic, social, and cultural goals of Samoa
+The mission of the agencies supporting the sector is: to promote the achievement of high quality education and training to meet the national, economic, social, and cultural goals of Samoa
 
 The guiding principles of the sector plan are those of the MESC Strategic Policy and Plan and the first five guiding values of the SQA Corporate Plan, namely:
 
@@ -1347,13 +1280,14 @@ O1.6 Professional development for NUS lecturers results in more relevant and eff
 O1.7 Increased provision by NUS of high quality, accessible and relevant courses, prioritizing teacher education
 SO2. At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate-resistant learning environments | ECE, Primary and Secondary Education
 O2.1 More students, including those from disadvantaged and vulnerable backgrounds, enrol and complete early childhood, primary and secondary schooling
-02.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools
+O2.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools
 PSET
 O2.3 More students, including those from disadvantaged backgrounds, enrol and complete PSET
 O2.4 More students with disabilities undertake and complete accessible and relevant PSET
 SO3. Education and training responsive to national economic, social and cultural needs | ECE, Primary and Secondary Education
+O3.1 TVET initiatives in secondary schools lead to improved student retention and transition to PSET
 PSET
-03.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market
+O3.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market
 
 Table 9: Subsector Outcomes
 
@@ -1387,9 +1321,7 @@ Primary, Secondary
 
 Implementing Agency (IA) Outputs: MESC 3 (salary increase) and 4 (Teacher Development)
 
-Current external suppor
-
-t: Part funded under ESP II until December 2014.
+Current external support: Part funded under ESP II until December 2014.
 
 #### ESP Outputs expected by 2018 :
 
@@ -1403,7 +1335,7 @@ t: Part funded under ESP II until December 2014.
 
 ### Programme 1.2: School Level Curriculum Reform
 
-This  programme  will  provide  curriculum-related  professional  support  for  early  childhood,  primary  and secondary  school  teachers.  The  initial  focus  will  be  on  ensuring  effective  implementation  of  the  new bilingual curriculum now in place in primary schools. This new primary curriculum is  outcomes based and places the student at the centre of all teaching and learning.  Training of teachers on the new curriculum is continuing through a contracted team of Core Trainers working alongside MESC's curriculum officers.  Ongoing support is needed for teachers to effectively deliver the new curriculum.
+This  programme  will  provide  curriculum-related  professional  support  for  early  childhood,  primary  and secondary  school  teachers.  The  initial  focus  will  be  on  ensuring  effective  implementation  of  the  new bilingual curriculum now in place in primary schools. This new primary curriculum is  outcomes based and places the student at the centre of all teaching and learning.  Training of teachers on the new curriculum is continuing through a contracted team of Core Trainers working alongside MESC's curriculum officers.  On-going support is needed for teachers to effectively deliver the new curriculum.
 
 At secondary level, the programme will provide support to the localisation of the Pacific Secondary School Certificate  and  evaluation  and  revision  of  the  secondary  curriculum.  The  Curriculum  Guidelines  for  early childhood will be revised and implemented.
 
@@ -1505,7 +1437,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 ### Programme 1.5: PSET Quality Assurance
 
-Through  this  programme,  SQA  will  implement  the  national  quality  assurance  system  for  PSET.    This  will include: the registration of PSET Providers; accreditation of programmes; quality audit; recognition of nonformal  learning  activities;  and  the  registration  of  qualifications  on  the  Samoa  Qualifications  Framework (SQF).
+Through  this  programme,  SQA  will  implement  the  national  quality  assurance  system  for  PSET.    This  will include: the registration of PSET Providers; accreditation of programmes; quality audit; recognition of non-formal  learning  activities;  and  the  registration  of  qualifications  on  the  Samoa  Qualifications  Framework (SQF).
 
 SQA  will  also  implement  a  strategy  for  achieving  international  recognition  of  Samoa  Qualifications  and introduce measures to facilitate recognition in Samoa of foreign qualifications.
 
@@ -1663,7 +1595,7 @@ Current external support: Funded under the Samoa School Fee Grants Scheme (SSFGS
 
 ### Programme 2.3: PSET Access Measures
 
-The Current PSET Access Grant (under the TVET Support Programme) ends in June 2015.  The first three years of the ESP will see the continuation of the  Small Grant Scheme for Non-formal Education and NonGovernment Providers and the development and implementation of other mechanisms to improve access to PSET.  The  efficiency  and  transparency  of  processes  will  be  continually  monitored  through  quarterly  site visits. Also the impact on enrolment and retention of students will be assessed.  An evaluation of the scheme in 2015 is planned, after which GOS and development partners will consider the future of the scheme.
+The Current PSET Access Grant (under the TVET Support Programme) ends in June 2015.  The first three years of the ESP will see the continuation of the  Small Grant Scheme for Non-formal Education and Non-Government Providers and the development and implementation of other mechanisms to improve access to PSET.  The  efficiency  and  transparency  of  processes  will  be  continually  monitored  through  quarterly  site visits. Also the impact on enrolment and retention of students will be assessed.  An evaluation of the scheme in 2015 is planned, after which GOS and development partners will consider the future of the scheme.
 
 A Careers Advisory Service (CAS) will be established and a process for the Recognition of Current Competencies (RCC). This will be an important step in the development of more flexible learning pathways for PSET students to follow.  NUS and TVET providers will collaborate in developing more PSE choices.
 
@@ -2051,7 +1983,7 @@ including Primary School Improvement (Grassroots Human Security Projects)
 
 ### Programme 5.4: Disaster and Climate change Resilience at all levels
 
-In the light of recent natural disasters that have had serious effects on the education sector, it is timely to develop a Sector Strategy for disaster and climate change resilience.  This will  include better planning for future  natural  events,  ensuring  the  Minimum  Service  Standards  concerning  the  physical  safety  and  wellbeing of children and young people are increasingly enforced, and that awareness-raising of climate change effects and responses is increased at all levels (including in school classrooms).
+In the light of recent natural disasters that have had serious effects on the education sector, it is timely to develop a Sector Strategy for disaster and climate change resilience.  This will  include better planning for future  natural  events,  ensuring  the  Minimum  Service  Standards  concerning  the  physical  safety  and  well-being of children and young people are increasingly enforced, and that awareness-raising of climate change effects and responses is increased at all levels (including in school classrooms).
 
 Lead: ESCD
 
@@ -2197,6 +2129,8 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 48]]
 
+Table 10: Indicative Financing Plan by programme based on the March 2013 MTEF
+
 Programme | IA Output | Cost/financing (SAT) | 2013-2014 | 2014-2015 | 2015-2016
 --- | --- | --- | --- | --- | --- | ---
 1.1 | NTDF | MESC 3 | Developmental costs | 1,282,000 | 1,282,000 | 1,282,000
@@ -2245,7 +2179,7 @@ Government Funding | 45,687,313 | 50,255,502 | 49,121,945
 Foreign Aid/Loan Funding | 2,292,451 | 1,080,405 | 225,000
 Funding gap | 3,660,618 | 4,392,154 | 2,919,789
 
-Table 10: Indicative Financing Plan by programme based on the March 2013 MTEF
+
 
 > 29 Cost of the ESP activities for the programme plus appropriate fraction of relevant, existing IA output budget
 
@@ -2269,13 +2203,13 @@ Total required for ESP implementation | 8,670,713 | 8,627,675 | 8,622,886
 Government Funding | 1,070,913 | 1,027,875 | 1,023,086
 Foreign Aid/Loan Funding | 7,967,464 | 8,397,464 | 6,024,650
 Funding gap | (-367,664) | (-797,664) | 1,575,150
-2.3 | PSET Access measures | SQA 3 + NUS !! | Developmental costs | 1,514,000 | 1,414,000 | 1,414,000
+2.3 | PSET Access measures | SQA 3 + NUS 11 | Developmental costs | 1,514,000 | 1,414,000 | 1,414,000
 Total required for ESP implementation | 2,864,857 | 2,623,046 | 2,575,368
 Government Funding | 1,350,857 | 1,209,046 | 1,161,368
 Foreign Aid/Loan Funding | 378,091 | 466,306 | 0
 Funding gap | 1,135,909 | 947,694 | 1,414,000
 Developmental costs | 9,363,800 | 9,199,800 | 9,113,800
-TOTALS | Total required for ESP implementation | 12,856,483 | 12,464,595 | 12,321,340
+TOTALS FOR GOAL 2 | Total required for ESP implementation | 12,856,483 | 12,464,595 | 12,321,340
 Government Funding | 3,492,683 | 3,264,795 | 3,207,540
 Foreign Aid/Loan Funding | 9,370,555 | 8,863,770 | 6,024,650
 Funding gap | 993,245 | 336,030 | 3,089,150
@@ -2315,7 +2249,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 Programme | IA Output | Cost/financing (SAT) | 2013-2014 | 2014-2015 | 2015-2016
 --- | --- | --- | --- | --- | --- | ---
-4.1 | Sectoral coordination of research and | MESC 13 | Developmental costs | 1,849,940 | 1,321,940 | 1,465,000
+4.1 | Sectoral coordination of research and policy | MESC 13 | Developmental costs | 1,849,940 | 1,321,940 | 1,465,000
 (New | Total required for ESP implementation | 1,849,940 | 1,321,940 | 1,465,000
 output to | Government Recurrent Budget | 0 | 0 | 0
 be | Foreign Aid/Loan Funded | 150,000 | 150,000 | 0
@@ -2336,11 +2270,11 @@ Government Recurrent Budget | 152,340 | 152,527 | 150,866
 Foreign Aid/Loan Funded | 0 | 0 | 0
 Funding gap | 200,000 | 200,000 | 200,000
 Developmental costs | 2,589,780 | 2,003,940 | 1,897,000
-TOTALS | Total required for ESP implementation | 4,106,721 | 3,370,461 | 3,207,899
+TOTALS FOR GOAL 4 | Total required for ESP implementation | 4,106,721 | 3,370,461 | 3,207,899
 Government Recurrent Budget | 1,516,991 | 1,366,521 | 1,310,899
 Foreign Aid/Loan Funded | 180,000 | 170,000 | 0
 Funding gap | 2,409,780 | 1,833,940 | 1,897,000
-5.1 | Strengthen management capacity and | MESC 13 | Developmental costs | 723,000 | 843,500 | 964,000
+5.1 | Strengthen management capacity and M&E | MESC 13 | Developmental costs | 723,000 | 843,500 | 964,000
 Total required for ESP implementation | 723,000 | 843,500 | 964,000
 Government Recurrent Budget | 0 | 0 | 0
 Foreign Aid/Loan Funded | 0 | 0 | 0
@@ -2358,16 +2292,17 @@ Funding gap | 960,859 | 960,859 | 1,441,288
 5.4 | Disaster and climate change resilience | MESC 9 | Developmental costs | 960,859 | 960,859 | 1,441,288
 Total required for ESP implementation | 1,934,935 | 1,928,728 | 2,397,577
 Government Recurrent Budget | 974,077 | 967,869 | 956,289
-Foreign Aid/Loan Funded Funding gap | 0 960,859 | 0 960,859 | 0 1,441,288
-Developmental costs | 3,057,717 | 3,178,217
-TOTALS FOR GOAL 5 | 4,259,575
-Total required for ESP implementation | 5,005,870 | 5,113,955 | 6,172,153
-Government Recurrent Budget | 1,948,153 | 1,935,738 0 | 1,912,578 0
-Foreign Aid/Loan Funded | 0
-Developmental | 27,392,366
-costs | 25,991,516 | 26,434,151
-All programmes | (totals) | Total required for ESP implementation | 81,090,899 | 84,022,438 58,423,461 | 83,161,113 57,119,501
-Government Recurrent Budget Foreign Aid/Loan Funded | 54,332,072 11,240,876 | 10,176,871 | 6,249,650
+Foreign Aid/Loan Funded | 0 | 0 | 0
+Funding gap | 960,859 | 960,859 | 1,441,288
+Developmental costs | 3,057,717 | 3,178,217 | 4,259,575
+TOTALS FOR GOAL 5 | Total required for ESP implementation | 5,005,870 | 5,113,955 | 6,172,153
+Government Recurrent Budget | 1,948,153 | 1,935,738 | 1,912,578
+Foreign Aid/Loan Funded | 0 | 0 | 0
+Funding gap | 3,057,717 | 3,178,217 | 4,259,575
+All programmes (totals) | Developmental costs | 27,392,366 | 25,991,516 | 26,434,151
+Total required for ESP implementation | 81,090,899 | 84,022,438 | 83,161,113
+Government Recurrent Budget | 54,332,072 | 58,423,461 | 57,119,501
+Foreign Aid/Loan Funded | 11,240,876 | 10,176,871 | 6,249,650
 TOTAL FUNDING GAP | 16,151,490 | 15,814,645 | 20,184,501
 
 Education Sector Plan (July 2013 - June 2018)
@@ -2382,7 +2317,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 The  earlier  MTEF  2012-2016  was  prepared  and  completed  prior  to  finalisation  of  the  ESP.    Although  it projected  funding  levels  from  different  funding  sources,  and  estimated  GoS  funded  expenditures,  donor funded project expenditures and ESP programme expenditures, it did not arrive at a funding gap.
 
-Now that an agreed ESP has been finalised, the MTEF can be updated and finalised.  The new MTEF will need to reflect the revised ESP duration (2013-2018), the revised set of ESP programmes, revised donor funded project  expenditures,  and  revised  GoS  Forward  Estimates  projections  of  GoS  funded  expenditures.  Most importantly, the revised MTEF will need to clearly identify the funding gap in each year.  Because this revised MTEF based on ESP policies and programmes will be used to update the Forward Estimates for 2014/152016/17,  the  MTEF  needs  to  be  updated  urgently,  i.e.  before  end  of  2013.    MoF  will  issue  the  mid  year update of the Forward Estimates in November 2013, for completion by December 2013.
+Now that an agreed ESP has been finalised, the MTEF can be updated and finalised.  The new MTEF will need to reflect the revised ESP duration (2013-2018), the revised set of ESP programmes, revised donor funded project expenditures, and revised GoS Forward Estimates projections of GoS funded expenditures. Most importantly, the revised MTEF will need to clearly identify the funding gap in each year. Because this revised MTEF based on ESP policies and programmes will be used to update the Forward Estimates for 2014/15-2016/17, the MTEF needs to be updated urgently, i.e. before end of 2013. MoF will issue the mid year update of the Forward Estimates in November 2013, for completion by December 2013.
 
 ## 5.6  Implementing Agency Forward Estimates, and Sector Forward Estimates
 
@@ -2392,11 +2327,11 @@ At the time of writing of this ESP, there is no Education sector Forward Estimat
 
 Technical assistance will be secured to work with the ECSD to:
 
-- Update the MTEF 2014-2018;
+i. Update the MTEF 2014-2018;
 
-- Prepare Forward Estimates templates for the Education Sector for 2014/15-2016/17, and
+ii. Prepare Forward Estimates templates for the Education Sector for 2014/15-2016/17, and
 
-- Build  capacity  in  the  ESCD  to  monitor,  coordinate  and  support  the  maintenance  of  these  Forward Estimates.
+iii. Build capacity in the ESCD to monitor, coordinate and support the maintenance of these Forward Estimates.
 
 ## 5.7  Financial Management Reporting
 
@@ -2412,113 +2347,47 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 52]]
 
-#### Planning
-
-The basis for planning all MESC activities is the 3 year MESC Corporate Plan (Current Version 2012-2015). This is based on the third cycle of the 9-year MESC Strategic Plan 2006 - 2015.    The Corporate Plan provides detailed  Strategies  and  Objectives,  with  expected  outcomes  and  performance  measures,  for  each  MESC Strategic  Objective.      MESC  Divisions,  in  some  cases  jointly,  are  assigned  responsibility  for  each  Strategic Objective.    The Head (Assistant Chief Executive Officer - ACEO) of the Division uses the Strategies as the basis for developing the Division's Annual Management Plan (AMP) and submits the AMP to the ACEO of the Policy,  Planning  and  Research  Division  (PPRD)  who  is  responsible  to  the  Chief  Executive  Officer  (CEO)  for harmonising and consolidating the AMPs into the corporate AMP.
-
-#### Budgeting
-
-Each Division is responsible for costing its AMP and submitting an annual budget to the ACEO of Corporate Services Division (CSD).  The structure of the budget is based on the Sector Outputs for reporting to MoF. ACEO CSD is responsible for coordinating budget planning, preparation, presentation through the MESC CEO and Minister, and distribution.
-
-#### Financing
-
-All  financial  transactions  are  handled  by  CSD  in  liaison  with  the  ACEO  requiring  goods  or  services  to  be funded for the implementation of the AMP.
-
 # CHAPTER 6: MANAGING IMPLEMENTATION
 
 ## 6.1  Managing Implementation at Agency Level
 
 ### 6.1.1 Institutional arrangements and procedures within MESC
 
-Figure 1: Organogram for MESC.
-
 MINISTER
 
 ASSOCIATE MINISTER
 
-ACEO
-
-POLICY
-
-PLANNING
-
-&
-
-RESEARCH
-
-DIVISION
-
-(PPRD)
-
-ACEO
-
-SCHOOLS
-
-OPERATION
-
-S
-
-DIVISION
-
-(SOD)
-
-ACEO
-
-CURRICULUM
-
-MATERIALS &
-
-ASSESSMENT
-
-DIVISION
-
-(CMAD)
-
-ACEO
-
-SPORTS
-
-DIVISION
-
-ACEO
-
-CULTURE
-
-DIVISION
-
-ACEO
-
-CORPORATE
-
-SERVICES
-
-DIVISION
-
-(CSD)
-
-ACEO
-
-EDUCATION
-
-SECTOR
-
-COORDINATION
-
-DIVISION
-
-(ESCD)
-
 CHIEF EXECUTIVE OFFICER
 
-ACEO
+ACEO POLICY PLANNING & RESEARCH DIVISION (PPRD)
 
-MONITORING
+ACEO SCHOOLS OPERATIONS DIVISION (SOD)
 
-AND
+ACEO CURRICULUM MATERIALS & ASSESSMENT DIVISION (CMAD)
 
-EVALUATION
+ACEO MONITORING AND EVALUATION DIVISION
 
-DIVISION
+ACEO SPORTS DIVISION
+
+ACEO CULTURE DIVISION
+
+ACEO CORPORATE SERVICES DIVISION (CSD)
+
+ACEO EDUCATION SECTOR COORDINATION DIVISION (ESCD)
+
+Figure 1: Organogram for MESC.
+
+#### Planning
+
+The basis for planning all MESC activities is the 3 year MESC Corporate Plan (Current Version 2012-2015). This is based on the third cycle of the 9-year MESC Strategic Plan 2006 - 2015. The Corporate Plan provides detailed Strategies and Objectives, with expected outcomes and performance measures, for each MESC Strategic Objective. MESC Divisions, in some cases jointly, are assigned responsibility for each Strategic Objective. The Head (Assistant Chief Executive Officer - ACEO) of the Division uses the Strategies as the basis for developing the Division's Annual Management Plan (AMP) and submits the AMP to the ACEO of the Policy, Planning and Research Division (PPRD) who is responsible to the Chief Executive Officer (CEO) for harmonising and consolidating the AMPs into the corporate AMP.
+
+#### Budgeting
+
+Each Division is responsible for costing its AMP and submitting an annual budget to the ACEO of Corporate Services Division (CSD). The structure of the budget is based on the Sector Outputs for reporting to MoF. ACEO CSD is responsible for coordinating budget planning, preparation, presentation through the MESC CEO and Minister, and distribution.
+
+#### Financing
+
+All financial transactions are handled by CSD in liaison with the ACEO requiring goods or services to be funded for the implementation of the AMP.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -2530,9 +2399,9 @@ Education Sector Plan (July 2013 - June 2018)
 
 #### Monitoring and Reporting
 
-PPRD is  responsible  for  ensuring  the  implementation  of  all  MESC  plans  through  constant  monitoring  and review  and  through  regular  meetings  of  the  corporate  planning  committee.      (N.B.  The  Monitoring, Evaluation and Review Division,MERD, is responsible for monitoring schools, not the work of MESC.)
+PPRD is responsible for ensuring the implementation of all MESC plans through constant monitoring and review and through regular meetings of the corporate planning committee. (N.B. The Monitoring, Evaluation and Review Division,MERD, is responsible for monitoring schools, not the work of MESC.)
 
-The  Annual  Management  Plans  and  Budget  Performance  Measures  of  all  divisions  are  reported  on  and reviewed on a monthly basis through meetings of the Assistant Chief Education Officers (ACEOs) chaired by the ACEO PPRD, and more fully on a quarterly basis.
+The Annual Management Plans and Budget Performance Measures of all divisions are reported on and reviewed on a monthly basis through meetings of the Assistant Chief Education Officers (ACEOs) chaired by the ACEO PPRD, and more fully on a quarterly basis.
 
 PPRD is responsible for collecting and analysing all data and information relating to the work of the Ministry, including conducting an annual school census, and informing all stakeholders through analytical report and by producing the MESC Annual Statistical Digest and the MESC Annual Report.
 
@@ -2540,41 +2409,27 @@ PPRD is also responsible for monitoring and reporting to the CEO and CDC on all 
 
 ### 6.1.2 Institutional arrangements and procedures within SQA
 
-Figure 2: Organogram for SQA.
-
 MINISTER OF EDUCATION
 
 SAMOA QUALIFICATIONS AUTHORITY BOARD
 
 CHIEF EXECUTIVE OFFICER
 
-ACEO
+ACEO QUALITY ASSURANCE
 
-QUALITY
+ACEO QUALIFICATIONS
 
-ASSURANCE
+ACEO RESEARCH, POLICY AND PLANNING
 
-ACEO
+ACEO CORPORATE SERVICES
 
-QUALIFICATIONS
-
-ACEO
-
-RESEARCH,POLICY
-
-ANDPLANNING
-
-ACEO
-
-CORPORATE
-
-SERVICES
+Figure 2: Organogram for SQA.
 
 #### Planning:
-The basis for planning all SQA activities is the 3 year SQA Corporate Plan (Current Version 20122015).   This is based on the third cycle of the PSET Strategic Plan 2008 - 2016.    The Corporate Plan provides detailed  Strategies  and  Objectives,  with  expected  outcomes  and  performance  measures,  for  each  SQA Strategic Objective. The Head of each Division uses the Strategies, as they relate to that Division, as the basis for  developing  the  Division's Annual  Management  Plan  (AMP)  and  submits the  AMP  to  the  ACEO  of the Research, Policy and Planning Division (RPPD) for coordination. The RPPD is responsible for monitoring and review of the AMPs on a quarterly and annual basis.
+The basis for planning all SQA activities is the 3 year SQA Corporate Plan (Current Version 2012-2015). This is based on the third cycle of the PSET Strategic Plan 2008 - 2016. The Corporate Plan provides detailed Strategies and Objectives, with expected outcomes and performance measures, for each SQA Strategic Objective. The Head of each Division uses the Strategies, as they relate to that Division, as the basis for developing the Division's Annual Management Plan (AMP) and submits the AMP to the ACEO of the Research, Policy and Planning Division (RPPD) for coordination. The RPPD is responsible for monitoring and review of the AMPs on a quarterly and annual basis.
 
 #### Budgeting:
-Each Division is responsible for costing its AMP and submitting an annual budget to the ACEO of Corporate Services Division (CSD).     Whilst SQA funding is included in the national budget  estimates as a single line item, the structure of the budget is based internally on the Sector Outputs for reporting to MoF, i.e. the SQA Divisions. ACEO CSD is responsible for coordinating budget planning, preparation, presentation through the CEO and Minister, and distribution.
+Each Division is responsible for costing its AMP and submitting an annual budget to the ACEO of Corporate Services Division (CSD). Whilst SQA funding is included in the national budget estimates as a single line item, the structure of the budget is based internally on the Sector Outputs for reporting to MoF, i.e. the SQA Divisions. ACEO CSD is responsible for coordinating budget planning, preparation, presentation through the CEO and Minister, and distribution.
 
 #### Financing:
 All financial transactions are handled by CSD in liaison with the ACEO requiring goods or services to be funded for the implementation of the AMP.
@@ -2588,108 +2443,70 @@ Education Sector Plan (July 2013 - June 2018)
 [[START OF PAGE 54]]
 
 #### Monitoring and Reporting:
-RPPD is responsible for ensuring the implementation of all SQA AMPs through quarterly  reviews.  The  AMPs  and  Budget  Performance  Measures  of  all  divisions  are  reported  on  and reviewed on a monthly basis.
+RPPD is responsible for ensuring the implementation of all SQA AMPs through quarterly reviews. The AMPs and Budget Performance Measures of all divisions are reported on and reviewed on a monthly basis.
 
 SQA produces Annual Reports and Quarterly Progress Reports including financial statements to MOF.
 
-RPPD is responsible for collecting and analysing all data and information relating to the work of SQA, and informing  all  stakeholders  through  analytical  reports  and  by  producing  the  SQA  Post  School  Education  & Training Statistical Bulletin and the SQA Annual Report.
+RPPD is responsible for collecting and analysing all data and information relating to the work of SQA, and informing all stakeholders through analytical reports and by producing the SQA Post School Education & Training Statistical Bulletin and the SQA Annual Report.
 
 RPPD is also responsible for monitoring and reporting to the CDC on all SQA projects.
 
 ### 6.1.3 Institutional arrangements within NUS
 
-Figure 3: Organogram for NUS.
+MINISTER OF EDUCATION
 
 COUNCIL
 
-DEPUTY VICE-CHANCELLOR
-
 VICE-CHANCELLOR/PRESIDENT
 
-DIRECTOR
-
-CENTRE FOR
-
-SAMOAN STUDIES
+DEPUTY VICE-CHANCELLOR
 
 DEAN, APPLIED SCIENCES
 
-INTERNAL
-
-AUDITOR
-
-REGISTRAR
-
 SCHOOL OF ENGINEERING
+
+SCHOOL OF MARITIME TRAINING
+
+SCHOOL OF NURSING AND HEALTH SCIENCE
 
 DEAN OF ARTS
 
-DEAN, BUSINESS &
-
-ENTREPRENEURSHIP
+DEAN, BUSINESS & ENTREPRENEURSHIP
 
 DEAN, EDUCATION
 
 DEAN, SCIENCE
 
-DIRECTOR
+DIRECTOR CENTRE FOR SAMOAN STUDIES
 
-CENTRE FOR
+DIRECTOR CENTRE FOR PROFESSIONAL STUDIES & CONTINUING EDUCATION
 
-PROFESSIONAL
+REGISTRAR
 
-STUDIES &
-
-CONTINUING
-
-EDUCATION
-
-DIRECTOR
-
-FINANCIAL SERVICES
+DIRECTOR FINANCIAL SERVICES
 
 DIRECTOR, ICT
 
-DIRECTOR
+DIRECTOR PHYSICAL FACILITIES
 
-SECRETARIAL SERVICES
-
-DIRECTOR
-
-PHYSICAL FACILITIES
+DIRECTOR SECRETARIAL SERVICES
 
 MANAGER, COUNSELLING
 
 MANAGER, PERSONNEL
 
-MANAGER
+MANAGER MARKETING & PRINTERY
 
-MARKETING &
+MANAGER STUDENT ADMIN
 
-PRINTERY
+UNIVERSITY LIBRARIAN & LEARNING RESOURCE CENTRE
 
-MANAGER
+INTERNAL AUDITOR
 
-STUDENT ADMIN
-
-UNIVERSITY
-
-LIBRARIAN
-
-&LEARNING
-
-RESOURCE
-
-CENTRE
-
-SCHOOL OFMARITIME TRAINING
-
-SCHOOL OF NURSING AND HEALTH SCIENCE
-
-MINISTER OF EDUCATION
+Figure 3: Organogram for NUS.
 
 #### Planning:
-NUS planning is based on the NUS Strategic Plan 2010-2020 and 3 year NUS Corporate Plans.   The Strategic  Plan  identifies  5  goals  based,  respectively,  on:  quality  and  creativity  in  teaching  and  learning; development  of  research;  staff  development;  establishing  partnerships  and  community  engagement;
+NUS planning is based on the NUS Strategic Plan 2010-2020 and 3 year NUS Corporate Plans. The Strategic Plan identifies 5 goals based, respectively, on: quality and creativity in teaching and learning; development of research; staff development; establishing partnerships and community engagement;
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -2706,7 +2523,7 @@ The University  Budget is financed mainly  by a government  grant and therefore 
 
 The draft budget is discussed and debated by the Vice Chancellor's Committee before it is submitted to the Finance Committee for its scrutiny and approval of Council. The budget proposal is then submitted to the Ministry of Finance to bid for approval of an appropriate government grant.
 
-Not everything submitted in the budget is going to be funded by the grant hence a recast budget is again discussed at the Vice Chancellor's Committee and submitted to Finance & Council for final approval once the government grant is official.' 30
+Not everything submitted in the budget is going to be funded by the grant hence a recast budget is again discussed at the Vice Chancellor's Committee and submitted to Finance & Council for final approval once the government grant is official.’30
 
 The  budget  outputs  essentially  correspond  to  the  Faculties  and  Departments  of  the  NUS.      In  putting together  the  budget,  the  University  separates  off  funding  for  non-teaching  departments  such  as  the administrative  departments,  for  internal  research  grants  and  for  the  mainly-externally-funded  Centre  for Professional Studies and Continuing Education (Oloamanu Centre) that is not funded by the university on a per-student basis.    The remaining funds are allocated to teaching departments on the basis of weighted full-time-equivalent student numbers, the weighting giving additional funds to those departments requiring more expensive equipment.
 
@@ -2730,61 +2547,37 @@ Education Sector Plan (July 2013 - June 2018)
 
 ### 6.2.1 Education Sector Coordination Division
 
+Education Sector Coordinator
+
+Principal Executive Assistant
+
+PEO Sectoral Policy and Planning
+
+PEO Sectoral Budgeting and Finance
+
+PEO Sectoral Monitoring and Evaluation
+
+PEO Sectoral Reporting, communications and advocacy
+
 Figure 4: Organogram for ESCD
 
-Education Sector
-
-Coordinator
-
-PEO
-
-Sectoral Reporting,
-
-communications
-
-and advocacy
-
-PEO
-
-Sectoral Monitoring
-
-and Evaluation
-
-PEO
-
-Sectoral Budgeting
-
-and Finance
-
-PEO
-
-Sectoral Policy
-
-and Planning
-
-Principal
-
-Executive
-
-Assistant
-
-The Education Sector Coordination Division (ESCD) located in MESC has been established to coordinate the planning, budgeting, financing and monitoring and reporting of MESC, SQA and NUS.    ESCD is responsible for ensuring that annual management plans are in line with the ESP, for overseeing sectoral monitoring and evaluation, and producing the annual MTEF.   ESCD takes the lead on two coordinating programmes (4.1 and 4.4) and  the goal 5 sector  strengthening programmes.  The  ESCD  is  also  responsible  for general communications with other stakeholders, notably development partners.  It services the sector coordinating committees, and coordinates reports, preparations and follow-up to the annual ESP reviews.
+The Education Sector Coordination Division (ESCD) located in MESC has been established to coordinate the planning, budgeting, financing and monitoring and reporting of MESC, SQA and NUS. ESCD is responsible for ensuring that annual management plans are in line with the ESP, for overseeing sectoral monitoring and evaluation, and producing the annual MTEF. ESCD takes the lead on two coordinating programmes (4.1 and 4.4) and the goal 5 sector strengthening programmes. The ESCD is also responsible for general communications with other stakeholders, notably development partners. It services the sector coordinating committees, and coordinates reports, preparations and follow-up to the annual ESP reviews.
 
 Tasks of the ESCD include the following:
 
-- Servicing  the  Education  Sector  Advisory  Committee  and  Education  Sector  Working  Group,  and facilitating preparations for, and follow up to, the Annual Reviews;
+i. Servicing the Education Sector Advisory Committee and Education Sector Working Group, and facilitating preparations for, and follow up to, the Annual Reviews;
 
-- Liaising  with  planning  divisions  and  those  responsible  for  the  individual  programmes  to  ensure coherent and coordinated Annual Management Plans in line with the ESP objectives and outputs, and support prioritisation to fit budget allocations;
+ii. Liaising with planning divisions and those responsible for the individual programmes to ensure coherent and coordinated Annual Management Plans in line with the ESP objectives and outputs, and support prioritisation to fit budget allocations;
 
-- Updating the MTEF and liaising with budgeting units and those responsible for costing the individual programmes  to  ensure  coherence  between  development  budgets,  their  compatibility  with  the MTEF, and to check for any unexpected changes in recurrent budgets that also affect the MTEF;
+iii. Updating the MTEF and liaising with budgeting units and those responsible for costing the individual programmes to ensure coherence between development budgets, their compatibility with the MTEF, and to check for any unexpected changes in recurrent budgets that also affect the MTEF;
 
-- Developing  a  sectoral  Electronic  Management  Information  System  (EMIS)  and  working  with monitoring units to ascertain ongoing progress against the M&E framework;
+iv. Developing a sectoral Electronic Management Information System (EMIS) and working with monitoring units to ascertain ongoing progress against the M&E framework;
 
-- Preparing  reports,  including  liaising  with  Finance  units  in  Implementing  Agencies  to  prepare consolidated Education Sector quarterly financial reports of actual expenditure against budget;
+v. Preparing reports, including liaising with Finance units in Implementing Agencies to prepare consolidated Education Sector quarterly financial reports of actual expenditure against budget;
 
-- Checking  progress  against  timed  benchmarks  for  completion  of  activities,  and  providing  sector progress reports, including quarterly financial reports in liaison with Corporate Services Divisions and other divisions;
+vi. Checking progress against timed benchmarks for completion of activities, and providing sector progress reports, including quarterly financial reports in liaison with Corporate Services Divisions and other divisions;
 
-- Liaising  with  the  appropriate  units  in  the  three  agencies  to  monitor  planning  and  progress  on Development  Partner  Projects  and  other  outputs  provided  by  third  parties,  encouraging  their consistency with the ESP;
+vii. Liaising with the appropriate units in the three agencies to monitor planning and progress on Development Partner Projects and other outputs provided by third parties, encouraging their consistency with the ESP;
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -2794,9 +2587,9 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 57]]
 
-- General liaison with development partners and other stakeholders, linking them with the individuals in sector agencies for specific issues, provide briefing and information on sectoral issues;
+viii. General liaison with development partners and other stakeholders, linking them with the individuals in sector agencies for specific issues, provide briefing and information on sectoral issues;
 
-- Ensuring  effective  publicity  and  advocacy  for  the  ESP  in  liaison  with  the  Implementing  Agency information/communication units.
+ix. Ensuring effective publicity and advocacy for the ESP in liaison with the Implementing Agency information/communication units.
 
 At present, only the ACEO of the ESCD has been appointed: the Education Sector Coordinator.  The other posts shown in Figure 4 need to be filled as soon as possible with highly skilled staff to support the Education Sector Coordinator in these tasks to support the three implementing agencies,
 
@@ -2832,51 +2625,27 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 58]]
 
-Figure 5: Organogram for ESP Coordination Structures
-
-EDUCATION
-
-SECTOR
-
-WORKING
-
-GROUP
-
-EDUCATION
-
-SECTOR
-
-ADVISORY
-
-COMMITTEE
-
 MINISTER OF EDUCATION
 
-Sector Agencies
+Other stakeholders (Ministries, private sector, civil society)
 
-(MESC, SQA, NUS)
+EDUCATION SECTOR ADVISORY COMMITTEE
+
+Sector Agencies (MESC, SQA, NUS)
 
 ESCD
 
-Other stakeholders
-
-(Ministries,  private
-
-sector, civil
-
-society)
-
-Technical
-
-Task
-
-Forces
+EDUCATION SECTOR WORKING GROUP
 
 Development Partners
 
+Technical Task Forces
+
+Figure 5: Organogram for ESP Coordination Structures
+
 ### 6.2.4 Balancing the needs of efficiency and wide stakeholder involvement
 
-Coordination committees need to be small to operate efficiently.  At the same time, the ESP needs to capitalise on the experience and expertise of a wide cross-section of stakeholders.
+Coordination committees need to be small to operate efficiently. At the same time, the ESP needs to capitalise on the experience and expertise of a wide cross-section of stakeholders.
 
 The coordination structure takes this into account by having:
 
@@ -2888,9 +2657,9 @@ The coordination structure takes this into account by having:
 
 (d) open, informal tasks forces focusing on key interest groups.
 
-Thus all Development Partners are free to attend the Annual Review for the high-level strategy discussions, and take part in Task Forces for specific issues.   However, their participation in the ESAC is only through a single representative.    DPs may need to have occasional informal meetings to select and obtain feedback from their representative.
+Thus all Development Partners are free to attend the Annual Review for the high-level strategy discussions, and take part in Task Forces for specific issues. However, their participation in the ESAC is only through a single representative. DPs may need to have occasional informal meetings to select and obtain feedback from their representative.
 
-DPs can also liaise with the ESCD.   But given the number of tasks to be covered by the limited staffing of the ESCD (especially in the current absence of ESCD staff other than the Sector Coordinator), they should confine project-specific discussions to other staff of MESC or SQA taking the lead in that programme area.
+DPs can also liaise with the ESCD. But given the number of tasks to be covered by the limited staffing of the ESCD (especially in the current absence of ESCD staff other than the Sector Coordinator), they should confine project-specific discussions to other staff of MESC or SQA taking the lead in that programme area.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -2924,19 +2693,19 @@ Others as appropriate by invitation of the Chair.
 
 The ESAC will undertake the following tasks:
 
-- Monitor the progress of the ESP at a strategic level against the ESP objectives and Implementation Plan, making use of reports from the Education Sector Working Group (ESWG) and other available evidence;
+i. Monitor the progress of the ESP at a strategic level against the ESP objectives and Implementation Plan, making use of reports from the Education Sector Working Group (ESWG) and other available evidence;
 
-- Consider  and  approve  ESWG  reports  to  the  annual  and  mid-year  reviews  and  the  annual  MTEF updates;
+ii. Consider and approve ESWG reports to the annual and mid-year reviews and the annual MTEF updates;
 
-- Approve  education  sector  program  progress  reports,  endorse  proposed  operational  plans  and support the development of program budgets;
+iii. Approve education sector program progress reports, endorse proposed operational plans and support the development of program budgets;
 
-- Provide  overall  policy  and  strategic  guidance  on  education  sector  program  implementation  and propose corrective action, if needed;
+iv. Provide overall policy and strategic guidance on education sector program implementation and propose corrective action, if needed;
 
-- Ensure that externally supported education sector programs are in accordance with Samoan policies, priorities and plans;
+v. Ensure that externally supported education sector programs are in accordance with Samoan policies, priorities and plans;
 
-- Propose the resolution of such issues and conflicts that may arise from time to time;
+vi. Propose the resolution of such issues and conflicts that may arise from time to time;
 
-- Provide advice to Development Partners on implementation of activities.
+vii. Provide advice to Development Partners on implementation of activities.
 
 The ESAC will consider the reports and proposals from the ESWG and will advise the Minister of Education on  any  concerns  or  proposals,  and  especially  policy  issues  that  have  arisen  from  the  Committee's deliberations.
 
@@ -2966,13 +2735,13 @@ The  audited  accounts  of  the  MESC,  SQA,  and  NUS will  be  circulated  in 
 
 This meeting will, amongst other tasks,
 
-- Review quarterly financial and performance reports for the quarter ended in March.
+a. Review quarterly financial and performance reports for the quarter ended in March.
 
-- Review the proposed sector budget and implementation priorities for the following financial year, to confirm that they reflect the priorities agreed in the annual review, and remain realistic in the light of implementation progress in the current year.
+b. Review the proposed sector budget and implementation priorities for the following financial year, to confirm that they reflect the priorities agreed in the annual review, and remain realistic in the light of implementation progress in the current year.
 
-- Review progress in implementing the agreed audit recommendations. This would be a standard item in quarterly meetings until action is complete.
+c. Review progress in implementing the agreed audit recommendations. This would be a standard item in quarterly meetings until action is complete.
 
-- DPs providing budget support will confirm that their funds for the following year will be paid in full in July if the proposed budget is in line with expected priorities, and if implementation of the sector plan and of the specific priorities being tracked by budget support donors is on track.  If implementation is behind schedule, raising doubts as to whether the level of expenditure in the coming year will reach the agreed  level  on  which  donor  commitments  were  based,  the  budget  support  donors  may  declare  an intention to hold back disbursement of a portion of their funding until later in the year. The idea would be to review actual implementation and expenditure in subsequent quarterly meetings, and to disburse the  balance  of  the  funds  if  and  when  expenditure  on  the  agreed  priorities  picks  up  sufficiently  to indicate a need for them.
+d. DPs providing budget support will confirm that their funds for the following year will be paid in full in July if the proposed budget is in line with expected priorities, and if implementation of the sector plan and of the specific priorities being tracked by budget support donors is on track. If implementation is behind schedule, raising doubts as to whether the level of expenditure in the coming year will reach the agreed level on which donor commitments were based, the budget support donors may declare an intention to hold back disbursement of a portion of their funding until later in the year. The idea would be to review actual implementation and expenditure in subsequent quarterly meetings, and to disburse the balance of the funds if and when expenditure on the agreed priorities picks up sufficiently to indicate a need for them.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -2986,11 +2755,11 @@ Education Sector Plan (July 2013 - June 2018)
 
 This meeting will, amongst other tasks:
 
-- Review quarterly financial and performance reports to end June, covering cumulative performance for the previous year.
+e. Review quarterly financial and performance reports to end June, covering cumulative performance for the previous year.
 
-- Review the approved budget for the current year, and the implications of any changes made since the budget submission by the sector.
+f. Review the approved budget for the current year, and the implications of any changes made since the budget submission by the sector.
 
-- Discuss preparations for the annual review in November, including issues to be addressed, approach, required preparation and responsibility for doing it, and agenda.
+g. Discuss preparations for the annual review in November, including issues to be addressed, approach, required preparation and responsibility for doing it, and agenda.
 
 #### October Quarterly ESAC Meeting
 
@@ -3002,7 +2771,12 @@ ESWG will meet on a monthly basis to coordinate the planning, budgeting, monitor
 
 Membership of the ESWG will be as follows:
 
-Education Sector Coordinator (Chair) ACEO Policy, Planning and Research Division, MESC ACEO Research, Policy and Planning Division, SQA Deputy Vice Chancellor, NUS ACEO, Economic Planning and Policy Division, MoF DP Representatives
+Education Sector Coordinator (Chair)
+ACEO Policy, Planning and Research Division, MESC
+ACEO Research, Policy and Planning Division, SQA
+Deputy Vice Chancellor, NUS
+ACEO, Economic Planning and Policy Division, MoF
+DP Representatives
 
 The  ESWG  will  meet,  as  needed  and  on  at  least  a  monthly  basis,  to  coordinate  planning,  financing, implementation, M&E and reporting.    The ESWG will report to the Education Sector Advisory Council (ESAC) on sectoral plans, performance, expenditures and other issues as appropriate.  It will also seek approval of any joint proposals from the three agencies.
 
@@ -3110,7 +2884,7 @@ MESC ESCD is responsible for collating the overall monitoring information on the
 
 Each November, the Minister of Education will convene and lead the Annual Review of the education sector. This  will  involve  representation  from  all  national  stakeholders,  and  all  Development  Partners.  Before  the annual review, the Education Sector Coordinator will circulate to those attending the review meeting:
 
-- A report on performance in the education sector since the last Annual Meeting. This will include data showing  progress  against  the  overall  performance  assessment  framework  included  in  the  ESP, including any data identified by DPs as part of their own monitoring requirements.    The report will include an analysis of major issues to be addressed for the coming year, and recommendations on actions to be taken, for discussion during the review.
+i. A report on performance in the education sector since the last Annual Meeting. This will include data showing progress against the overall performance assessment framework included in the ESP, including any data identified by DPs as part of their own monitoring requirements. The report will include an analysis of major issues to be addressed for the coming year, and recommendations on actions to be taken, for discussion during the review.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3120,9 +2894,9 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 65]]
 
-- A  financial  report,  showing  how  sector  expenditure  was  financed  and  providing  a  comparison  of budgeted and actual expenditure in the previous year, using the format for annual accounts agreed with the MoF.  The format of the report will have been discussed with DPs to ensure it meets their needs in terms of financial monitoring.
+ii. A financial report, showing how sector expenditure was financed and providing a comparison of budgeted and actual expenditure in the previous year, using the format for annual accounts agreed with the MoF. The format of the report will have been discussed with DPs to ensure it meets their needs in terms of financial monitoring.
 
-- Outline of any proposed changes to the forward plan, including any necessary revisions to targets and  indicators  in  the  light  of  experience,  major  expenditure  priorities  for  the  coming  year,  and proposed funding from GoS and project sources and from any budget support.   This may confirm the targets and financing included in the original plan, but in practice some divergence is likely to occur.
+iii. Outline of any proposed changes to the forward plan, including any necessary revisions to targets and indicators in the light of experience, major expenditure priorities for the coming year, and proposed funding from GoS and project sources and from any budget support. This may confirm the targets and financing included in the original plan, but in practice some divergence is likely to occur.
 
 The review will agree issues needing to be addressed and what should be done about them, any revisions to targets and indicators for the following year, and major priorities and expected shifts in the make-up of the budget for the following year. The review will also provide confirmation that spending commitments have been met in the previous year.
 
@@ -3188,7 +2962,7 @@ The MTEF, based on the sector plan and implementation agency outputs, facilitate
 
 ### b. Sustainability of systems and procedures
 
-The ESP is based on long-standing implementation agency plans, and the ESP and sector coordinator support and coordinate these plans rather than replacing them.     Thus the ESP is building on and not replacing wellestablished and thus inherent sustainable systems and procedures.
+The ESP is based on long-standing implementation agency plans, and the ESP and sector coordinator support and coordinate these plans rather than replacing them. Thus the ESP is building on and not replacing well-established and thus inherent sustainable systems and procedures.
 
 ### c. Human sustainability
 
@@ -3206,35 +2980,35 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 68]]
 
-### Equity
-
-'calls  for  the  system  to  treat  all  individuals  fairly  and  justly  in  the  provision  of  services    and opportunities.  It  requires  that  every  Samoan  is  provided  with  an  opportunity  for  a  good  education, opportunity  to  participate  in  sports  and  to  be  involved  in  cultural  activities.  Policies,  strategies  and practices  are  to  be  articulated  properly  to  avoid  treatment  that  may  disadvantage  any  social  group. Those which address existing inequalities in access, treatment and outcomes are promoted.' [MESC SPP 2006-2015]
-
-#### 3.1.1 Gross Enrolment Rates, Net Enrolment Rates 31
-
-These two rates indicate access to and participation in education. The primary total GER and NER are 106% and 98% respectively for the age cohort of 5-12 years of age in 2010. The gender disaggregated figures show that GER for male is 106% and 107% for female, while NER is 96% for male and 99% for female.
-
-The total GER for secondary level is 81% and 73% for male and 89% for female while the total NER is 70% and 63% for male and 78% for female, calculated on the  13-17 years of age cohort.
-
-#### 3.1.2 Special Needs Enrolments
-
-Enrolment  figures  of  children  with  special  needs  are  obtained  from  the  enrolments  in  the  special schools. This has noted a steady increase from 123 students in 2006 to 237 in 2010. With the advent of inclusive education, it is anticipated that most of those children with special needs will be counted as part  of  the  school  enrolments.  The  Samoa  Inclusive  Education  Demonstration  Programme  (SIEDP)  is addressing the general strategies for inclusive education in Samoa. A second phase of this programme anticipates a greater leadership and management role for MESC. Further discussion is provided later in this paper.
-
-Clearly there are improvements to be made in both GER and NER at primary and secondary levels. While GER and NER can both be improved for boys and girls, that of boys need to be addressed more urgently and will require some creative strategies to encourage them to stay and participate in school.
-
-#### 3.1.3  Drop Out rates, Transition Rates and Completion Rates
-
-Students drop out at all class levels but of concern are the drop out rates at year 1 at 11, and year 8 at 12. The high drop out rate at year 1 is not new as it was first pointed out in 2004 32 yet the trend has continued and no satisfactory explanation or intervention to address this has been offered.  At primary level, except for the transition rate from year 1 to 2, the rates for all levels are quite high. The transition from year 8 to 9 has shown a decrease since 2008 (90% to 85% in 2011) which is of concern. If universal
-
-> 31 From MESC Manumea Database 2010
-
-> 32 Education Review Report 2004 (ADB)
-
 # Annex A: Situational Analysis
 
 Excerpt from the Analysis prepared by GTTAfamasaga, Strategic Adviser, MESC, February 2011
 
 ## Equity and Quality
+
+### Equity
+
+“calls for the system to treat all individuals fairly and justly in the provision of services and opportunities. It requires that every Samoan is provided with an opportunity for a good education, opportunity to participate in sports and to be involved in cultural activities. Policies, strategies and practices are to be articulated properly to avoid treatment that may disadvantage any social group. Those which address existing inequalities in access, treatment and outcomes are promoted.” [MESC SPP 2006-2015]
+
+#### 3.1.1 Gross Enrolment Rates, Net Enrolment Rates 31
+
+These two rates indicate access to and participation in education. The primary total GER and NER are 106% and 98% respectively for the age cohort of 5-12 years of age in 2010. The gender disaggregated figures show that GER for male is 106% and 107% for female, while NER is 96% for male and 99% for female.
+
+The total GER for secondary level is 81% and 73% for male and 89% for female while the total NER is 70% and 63% for male and 78% for female, calculated on the 13-17 years of age cohort.
+
+#### 3.1.2 Special Needs Enrolments
+
+Enrolment figures of children with special needs are obtained from the enrolments in the special schools. This has noted a steady increase from 123 students in 2006 to 237 in 2010. With the advent of inclusive education, it is anticipated that most of those children with special needs will be counted as part of the school enrolments. The Samoa Inclusive Education Demonstration Programme (SIEDP) is addressing the general strategies for inclusive education in Samoa. A second phase of this programme anticipates a greater leadership and management role for MESC. Further discussion is provided later in this paper.
+
+Clearly there are improvements to be made in both GER and NER at primary and secondary levels. While GER and NER can both be improved for boys and girls, that of boys need to be addressed more urgently and will require some creative strategies to encourage them to stay and participate in school.
+
+#### 3.1.3  Drop Out rates, Transition Rates and Completion Rates
+
+Students drop out at all class levels but of concern are the drop out rates at year 1 at 11, and year 8 at 12. The high drop out rate at year 1 is not new as it was first pointed out in 2004 32 yet the trend has continued and no satisfactory explanation or intervention to address this has been offered. At primary level, except for the transition rate from year 1 to 2, the rates for all levels are quite high. The transition from year 8 to 9 has shown a decrease since 2008 (90% to 85% in 2011) which is of concern. If universal
+
+> 31 From MESC Manumea Database 2010
+
+> 32 Education Review Report 2004 (ADB)
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3256,7 +3030,7 @@ The SIEDP commenced implementation in 2010 and since then it has made substantia
 
 MESC ownership and commitment to this program is significant given the  objective  of  this  program which  is  to  demonstrate  a  model  of  service  provision  for  girls  and  boys  with  disability  for  inclusive education which can be replicated and supported by the Government of Samoa in its future program development  that  inclusive  education  will  be  brought  into  the  education  sector  wide  approach  and therefore move from a specific project to be part of the overall core business of MESC. In September 2011, a mission was conducted to design the next phase of SIEDP.  The findings of the mission noted that there has been good progress in some but not all of the areas of the program.
 
-To date, there is considerable understanding and recognition within the MESC of the importance and value  of  inclusive  education.  In  addition  there  are  emerging  opportunities,  for  example  within curriculum  development,  for  inclusive  education  to  be  mainstreamed  within  the  Ministry.  Important processes to build the enabling environment for inclusive education are under way and/or are soon to commence 33 .
+To date, there is considerable understanding and recognition within the MESC of the importance and value of inclusive education. In addition there are emerging opportunities, for example within curriculum development, for inclusive education to be mainstreamed within the Ministry. Important processes to build the enabling environment for inclusive education are under way and/or are soon to commence33.
 
 However there are some challenges and these were identified by the mission conducted in September 2011 to develop the next phase of the program.
 
@@ -3304,7 +3078,7 @@ The quality of teachers is crucial in any educational enterprise. It is critical
 
 ### Quality
 
-' is  exemplified  by  high  standards  of  achievement,  cultural  understanding,  and  sensitivity  and  social cohesiveness. This implies a solid foundation of worthwhile learning resulting from a complex interplay of  professional  and  technical  knowledge  and  skills  and  social  and  cultural  practices.  It  requires  high standards of well being of individuals in pursuit of excellence and performance. Core values of the faaSamoa must  underpin  academic,  social  behaviour  and  cultural  excellence.  This  will  better  enable  the individual  to  cope  with  change  and  relationships  in  an  increasingly  complex  environment.  Policies promoting these will focus on learning institutions, be it the classroom [at school, at university], sports field, local environment and community at large .' [MESC SPP 2006-2015]
+“ is exemplified by high standards of achievement, cultural understanding, and sensitivity and social cohesiveness. This implies a solid foundation of worthwhile learning resulting from a complex interplay of professional and technical knowledge and skills and social and cultural practices. It requires high standards of well being of individuals in pursuit of excellence and performance. Core values of the faa-Samoa must underpin academic, social behaviour and cultural excellence. This will better enable the individual to cope with change and relationships in an increasingly complex environment. Policies promoting these will focus on learning institutions, be it the classroom [at school, at university], sports field, local environment and community at large.” [MESC SPP 2006-2015]
 
 #### 3.2.1  Literacy and Numeracy
 
@@ -3364,16 +3138,10 @@ Education Sector Plan (July 2013 - June 2018)
 
 ESP Goals | ESP Sector Outcomes | ESP Sub-sector Outcomes | ESP Programmes | ESP Outputs by 2018
 --- | --- | --- | --- | ---
-Goal 1 Enhanced Quality of Education at all Levels | SO1 Improved student learning outcomes at all levels. | Early Childhood, Primary and Secondary Education O1.1 Improved literacy and numeracy outcomes at all levels, with boys and girls each achieving to agreed National Benchmarks O1.2 Early childhood providers and primary and secondary schools increasingly meet national Minimum Service Standards O1.3 Professionally more competent teaching force at levels, especially in the teaching of literacy and numeracy O1.4 Improved teacher morale and retention resulting from improved remuneration and professional development | 1.1 National Teacher Development Framework | 1.1.1 Teachers Act passed
-1.1.2 Standards for teacher registration implemented, including performance appraisal for all teachers
-1.1.3 Enhanced remuneration package for teachers implemented
-1.1.4 Teachers professional development strategy developed, implemented and monitored
-all | 1.2 School-Level curriculum reform | 1.2.1 Curriculum-related professional development for early childhood, primary and secondary teachers implemented and evaluated
-1.2.2 Secondary curriculum reform completed and implemented
-1.2.3 Curriculum Guidelines for early childhood education revised and implemented
-1.3 Information and Communications Technology in secondary schools | 1.3.1 On-going ICT initiatives in secondary schools consolidated and expanded
-1.3.2 A sector ICT Master Plan devised, with targeted implementation in both primary and secondary schools
-1.4 School-level assessment reform | 1.4.1 National Assessment Policy Framework fully implemented and national benchmarks for literacy and numeracy developed
+Goal 1 Enhanced Quality of Education at all Levels | SO1 Improved student learning outcomes at all levels. | Early Childhood, Primary and Secondary Education O1.1 Improved literacy and numeracy outcomes at all levels, with boys and girls each achieving to agreed National Benchmarks O1.2 Early childhood providers and primary and secondary schools increasingly meet national Minimum Service Standards O1.3 Professionally more competent teaching force at all levels, especially in the teaching of literacy and numeracy O1.4 Improved teacher morale and retention resulting from improved remuneration and professional development | 1.1 National Teacher Development Framework | 1.1.1 Teachers Act passed 1.1.2 Standards for teacher registration implemented, including performance appraisal for all teachers 1.1.3 Enhanced remuneration package for teachers implemented 1.1.4 Teachers professional development strategy developed, implemented and monitored
+ |  |  | 1.2 School-Level curriculum reform | 1.2.1 Curriculum-related professional development for early childhood, primary and secondary teachers implemented and evaluated 1.2.2 Secondary curriculum reform completed and implemented 1.2.3 Curriculum Guidelines for early childhood education revised and implemented
+ |  |  | 1.3 Information and Communications Technology in secondary schools | 1.3.1 On-going ICT initiatives in secondary schools consolidated and expanded 1.3.2 A sector ICT Master Plan devised, with targeted implementation in both primary and secondary schools
+ |  |  | 1.4 School-level assessment reform | 1.4.1 National Assessment Policy Framework fully implemented and national benchmarks for literacy and numeracy developed
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3383,17 +3151,21 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 75]]
 
-ESP Goals | ESP Sector Outcomes | ESP Sub-sector Outcomes | ESP Programmes | ESP Outputs b
+ESP Goals | ESP Sector Outcomes | ESP Sub-sector Outcomes | ESP Programmes | ESP Outputs by 2018
 --- | --- | --- | --- | ---
-Goal 1 (Continued) | Post Secondary Education and Training O1.5 Improved quality of PSET programmes O1.6 Professional development for NUS lecturers results in more relevant and effective teacher education O1.7 Increased provision by NUS of high quality, accessible and relevant courses, prioritizing teacher education | 1.5 PSET quality assurance | 1.5.1 Quality assur
-1.5.2 Strategy imp recognition of Sam
-1.5.3 Foreign Qua implemented
-1.5.4 NUS quality higher education p
-1.6 Professional development for PSET lecturers and trainers | 1.6.1 Lecturer qua prioritizing the nee literacy and numer
-1.6.2 Professional established
-1.6.3 Professional
-1.7 Strengthening the quality and relevance of NUS Education Programmes | 1.7.1 NUS teacher align with school c graduates have bes improve literacy an
-1.7.2Flexible delive courses
+Goal 1 (Continued) |  | Post Secondary Education and Training O1.5 Improved quality of PSET programmes O1.6 Professional development for NUS lecturers results in more relevant and effective teacher education O1.7 Increased provision by NUS of high quality, accessible and relevant courses, prioritizing teacher education | 1.5 PSET quality assurance | 1.5.1 Quality assurance system implemented
+ |  |  |  | 1.5.2 Strategy implemented for international recognition of Samoa
+ |  |  |  | 1.5.3 Foreign Qualifications Recognition services implemented
+ |  |  |  | 1.5.4 NUS quality assurance system implemented for higher education program
+ |  |  | 1.6 Professional development for PSET lecturers and trainers | 1.6.1 Lecturer qualifications and skills up
+ |  |  |  | prioritizing the needs of teacher trainees (focussing on literacy and numeracy and the new curriculum).
+ |  |  |  | 1.6.2 Professional standards for TVET trainers established
+ |  |  |  | 1.6.3 Professional development
+ |  |  | 1.7 Strengthening the quality and relevance of NUS Education Programmes | 1.7.1 NUS teacher education
+ |  |  |  | align with school curriculum
+ |  |  |  | graduates have best practice knowledge and skills to improve literacy and numeracy
+ |  |  |  | 1.7.2 Flexible delivery
+ |  |  |  | courses
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3401,26 +3173,26 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 76]]
 
-ESP Goals | ESP Sector Outcomes | ESP Sub-sector Outcomes | ESP Programmes | ESP Outputs b
+ESP Goals | ESP Sector Outcomes | ESP Sub-sector Outcomes | ESP Programmes | ESP Outputs by 2018
 --- | --- | --- | --- | ---
-Goal 2 Enhanced Educational Access and Opportunities at all Levels | SO2 At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate-resistant learning environments | Early Childhood, Primary and Secondary Education O2.1 More students, including those from disadvantaged and vulnerable backgrounds, enrol and complete early childhood, primary and secondary schooling 02.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools Post Secondary Education and Training O2.3 More students, including those from disadvantaged backgrounds, enrol and complete PSET | 2.1 Inclusive education at all levels | 2.1.1 Compulsory e Act 2009 reviewed
-2.1.2 Minimum Se and secondary full evaluated
-2.1.3 MSS for ECE
-2.2 School Fee Relief Grants (SSFGS) | 2.2.1 School Fee R delivered in all pri
-2.2.2 School Fee R and reviewed
-O2.4 More students with disabilities undertake and complete accessible and relevant PSET | 2.3 PSET Access Measures | 2.3.1 PSET Access monitored and eva
-2.3.2 Effective Care
-2.3.3 Effective pro Competency establ
-2.3.4 More flexible established
-Goal 3 Enhanced Relevance of Education and Training at all Levels | SO3.Improved employability of school leavers as a result of education and training responding to national economic, social and cultural needs | Early Childhood, Primary and Secondary Education O3.1 TVET initiatives in secondary schools lead to improved student retention and transition to PSET Post Secondary Education and Training 03.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market | 3.1 Improving the relevance of secondary education | 3.1.1 Feasibility stu and policy recomm
-3.2 Development and Application of national qualifications and courses relevant to the Samoan economy | 3.2.1 Samoa Qualif Competency Stand developed and app
-3.2.2 Findings from Surveys used to inf
-3.2.3 New courses development/mar
-3.2.4 TVET provide
-3.2.5 Flexible deliv NUS programmes
-3.2.6 Increased qu programmes to th
-3.3 National strategy for sport in education | 3.3.1 Increased nu communities enga
-3.4 National strategy for Culture in education | 3.4.1 National Cult developed and imp
+Goal 2 Enhanced Educational Access and Opportunities at all Levels | SO2 At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate-resistant learning environments | Early Childhood, Primary and Secondary Education O2.1 More students, including those from disadvantaged and vulnerable backgrounds, enrol and complete early childhood, primary and secondary schooling O2.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools Post Secondary Education and Training O2.3 More students, including those from disadvantaged backgrounds, enrol and complete PSET O2.4 More students with disabilities undertake and complete accessible and relevant PSET | 2.1 Inclusive education at all levels | 2.1.1 Compulsory education provision in the Education Act 2009 reviewed and regulations developed
+ |  |  |  | 2.1.2 Minimum Service Standards (MSS) for primary and secondary fully implemented, monitored and evaluated
+ |  |  |  | 2.1.3 MSS for ECE developed
+ |  |  | 2.2 School Fee Relief Grants (SSFGS) | 2.2.1 School Fee Relief Grants Schemes effectively delivered in all primary and secondary schools
+ |  |  |  | 2.2.2 School Fee Relief Grants effectively monitored and reviewed
+ |  |  | 2.3 PSET Access Measures | 2.3.1 PSET Access Grant developed, implemented, monitored and evaluated
+ |  |  |  | 2.3.2 Effective Career Advisory Service established
+ |  |  |  | 2.3.3 Effective process for Recognition of Current Competency established
+ |  |  |  | 2.3.4 More flexible PSET Learning Pathways established
+Goal 3 Enhanced Relevance of Education and Training at all Levels | SO3.Improved employability of school leavers as a result of education and training responding to national economic, social and cultural needs | Early Childhood, Primary and Secondary Education O3.1 TVET initiatives in secondary schools lead to improved student retention and transition to PSET Post Secondary Education and Training O3.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market | 3.1 Improving the relevance of secondary education | 3.1.1 Feasibility study of TVET in schools completed and policy recommendations implemented
+ |  |  | 3.2 Development and Application of national qualifications and courses relevant to the Samoan economy | 3.2.1 Samoa Qualifications (SQs) and National Competency Standards (NCS) for priority sectors developed and applied in PSET
+ |  |  |  | 3.2.2 Findings from tracer studies and employer Surveys used to inform PSET policy and practice
+ |  |  |  | 3.2.3 New courses developed at NUS relevant to development/market needs
+ |  |  |  | 3.2.4 TVET providers supported to offer NCS and SQs
+ |  |  |  | 3.2.5 Flexible delivery modes developed for selected NUS programmes
+ |  |  |  | 3.2.6 Increased quality and relevance of NUS programmes to the needs of all professions and trades
+ |  |  | 3.3 National strategy for sport in education | 3.3.1 Increased numbers of schools and village communities engaged in organized sport
+ |  |  | 3.4 National strategy for Culture in education | 3.4.1 National Culture in Education Strategy developed and implemented
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3428,24 +3200,24 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 77]]
 
-ESP Goals | ESP Sector Outcomes | ESP Programmes | ESP Outputs b
+ESP Goals | ESP Sector Outcomes | ESP Programmes | ESP Outputs by 2018
 --- | --- | --- | ---
-Goal 4 Improved Sector Co-ordination of Research, Policy and Planning Development | SO4a A coordinated approach through effective partnerships with key stakeholders ensures newly developed and implemented policies contribute to improved quality and access across the education sector SO4b Analysis of research findings, evaluations and monitoring evidence increasingly used to inform policy and planning across the sector | 4.1 Strengthening sectoral coordination of research, policy and planning | 4.1.1 Education Se fully established an functions effectivel
-4.1.2 Effective Par especially those ou
-4.1.3 Annual Revie MTEF updated ann
-4.2 Policy development for early childhood and school education | 4.2.1 Planned new implemented.
-4.2.2 A sector polic established
-4.3 Policy development for PSET | 4.3.1 Planned new implemented, and process establishe
-4.4 Strengthening sector capacity for research, evaluation, policy analysis and planning | 4.4.1 Education Se and implemented
-Goal 5 Established Sustainable and Efficient Management of All Education Resources | SO5 Education resources are managed efficiently and sustainably across the sector | 5.1 Strengthening management capability and M&E in education sector agencies | 5.1.1 Effective syst
-5.1.2 Effective Edu System (EMIS) in pl
-5.1.3 Effective ESP processes in place
-5.2 Developing financial management, internal auditing and procurement in sector agencies | 5.2.1 Effective sec reporting to the ES EAC on a quarterly
-5.2.2 A sector Res and operational
-5.2.3 Effective inte three key agencies
-5.2.4 Capability Pla agencies
-5.2.5 Sub-sector P national regulatory and IA procuremen
-5.2.6 Annual procu approved by EAC p financial year
+Goal 4 Improved Sector Co-ordination of Research, Policy and Planning Development | SO4a A coordinated approach through effective partnerships with key stakeholders ensures newly developed and implemented policies contribute to improved quality and access across the education sector SO4b Analysis of research findings, evaluations and monitoring evidence increasingly used to inform policy and planning across the sector | 4.1 Strengthening sectoral coordination of research, policy and planning | 4.1.1 Education Sector Coordination Division (ESCD) fully established and performing its mandated functions effectively
+ |  |  | 4.1.2 Effective Partnerships with key stakeholders especially those outside of the formal system
+ |  |  | 4.1.3 Annual Review processes institutionalised and MTEF updated annually
+ |  | 4.2 Policy development for early childhood and school education | 4.2.1 Planned new policies developed and implemented.
+ |  |  | 4.2.2 A sector policy, monitoring and review process established
+ |  | 4.3 Policy development for PSET | 4.3.1 Planned new PSET-related policies developed and implemented, and a policy monitoring and review process established
+ |  | 4.4 Strengthening sector capacity for research, evaluation, policy analysis and planning | 4.4.1 Education Sector Research Strategy developed and implemented
+Goal 5 Established Sustainable and Efficient Management of All Education Resources | SO5 Education resources are managed efficiently and sustainably across the sector | 5.1 Strengthening management capability and M&E in education sector agencies | 5.1.1 Effective systems for asset management in place
+ |  |  | 5.1.2 Effective Education Management Information System (EMIS) in place
+ |  |  | 5.1.3 Effective ESP Monitoring and Evaluation processes in place
+ |  | 5.2 Developing financial management, internal auditing and procurement in sector agencies | 5.2.1 Effective sector-level budgeting and financial reporting to the ESWG on a monthly basis, and to the EAC on a quarterly basis
+ |  |  | 5.2.2 A sector Resourcing Policy Framework in place and operational
+ |  |  | 5.2.3 Effective internal audit approach in each of the three key agencies
+ |  |  | 5.2.4 Capability Plans in place for each of the three key agencies
+ |  |  | 5.2.5 Sub-sector Procurement processes aligned with national regulatory framework, IA procurement plans and IA procurement data bases
+ |  |  | 5.2.6 Annual procurement plans prepared and approved by EAC prior to commencement of new financial year
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3453,10 +3225,11 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 78]]
 
-ESP Goals | ESP Sector Outcomes | ESP Programmes | ESP Outputs b
+ESP Goals | ESP Sector Outcomes | ESP Programmes | ESP Outputs by 2018
 --- | --- | --- | ---
-Goal 5 (Continued) | 5.3 Strengthening the coordination of external support to the sector | 5.3.1 All governme supported infrastr ordinated effective
-5.4 Disaster and climate change resilience at all levels | 5.3.2 All support fr agencies and regio coordinated 5.4.1 Sector strate resilience develope
+Goal 5 (Continued) |  | 5.3 Strengthening the coordination of external support to the sector | 5.3.1 All government and development partner-supported infrastructure improvement initiatives co-ordinated effectively
+ |  |  | 5.3.2 All support from bilateral and multi-lateral agencies and regional organisations effectively coordinated
+ |  | 5.4 Disaster and climate change resilience at all levels | 5.4.1 Sector strategy for disaster and climate change resilience developed and implemented
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3468,35 +3241,36 @@ Education Sector Plan (July 2013 - June 2018)
 
 The following is a summary of tables in the MTEF, revised to align with the 2013-2018 ESP programmes
 
-Implementing Agency (IA) Outputs | GOAL | ESP Programme | 2013-2014 | 2014-2015 | 2015-2016
+Implementing Agency (IA) Outputs |  | GOAL | ESP Programme | 2013-2014 | 2014-2015 | 2015-2016
 --- | --- | --- | --- | --- | --- | ---
 MESC OUTPUTS
 MESC 3 | Teaching Service | 1 | 1.1 NTDF (salary increase) | 41,091,164 | 46,028,253 | 45,533,809
 MESC 4 | Teacher Development Services | 1 | 1.1 NTDF (Teacher Development) 1.7 Strengthening the quality of NUS Education programmes | 775,745 | 769,431 | 751,960
 MESC 5 | School Improvement Services | 2 | 2.1 Inclusive Education all levels 2.2 School Fee Relief Grants, Planning & Research | 2,141,826 | 2,055,749 | 2,046,172
 MESC 6 | Curriculum Services | 1 | 1.2 School Curriculum Reform 1.3 ICT in secondary schools | 1,690,634 | 1,483,448 | 1,430,978
-3 | 3.1 Improving relevance of secondary education
+ |  | 3 | 3.1 Improving relevance of secondary education |  |  | 
 MESC 7 | Assessment &Examinations | 1 | 1.4 Schools Assessment Reform | 1,156,338 | 1,145,780 | 956,781
 MESC 8 | Policy | 4 | 4.2 Policy Development for ECE and School Education | 676,950 | 672,209 | 658,937
-MESC 9 | Assets Management Services | 5 | 5.3 Strengthening coordination of external support to the sector 5.4 Disaster and climate change | 1,948,153 | 1,935,738 | 1,912,578
+MESC 9 | Assets Management Services | 5 | 5.3 Strengthening coordination of external support to the sector 5.4 Disaster and climate change resilience at all levels | 1,948,153 | 1,935,738 | 1,912,578
 MESC 11 | Sports Development Services | 3 | 3.3 National Strategy for Sport in Education | 587,940 | 569,943 | 556,676
 MESC 12 | Cultural Development Services | 3 | 3.4 National Culture Policy | 1,098,714 | 936,522 | 931,558
-MESC 13 | ESCD (new output for 2014) | 4 | 4.1 Strengthening sectoral coordination 4.4 Strengthening research, policy analysis and planning | No figures as output not present for 2012 MTEF
-5 | 5.1 Strengthening management capability and M&E 5.2 Developing FM, internal auditing &procurement
-SUBTOTAL TOTAL MESC OUTPUTS | 53,133,211 | 57,551,813 | 56,712,495
-SUBTOTAL OUTPUTS PROVIDED BY THIRD PARTIES | 13,215,392 | 11,815,392 | 12,115,392
-SUBTOTAL TRANSACTIONS ON BEHALF OF THE STATE | 24,054,664 | 12,379,529 | 12,380,429
-TOTAL APPROPRIATIONS | 103,846,755 | 89,401,772 | 88,353,552
-SQA 2 | SQA OUTPUTS Quality Assurance | 1 | 1.5 PSET Quality Assurance | 1,002,459 | 945,675 | 965,832
+MESC 13 | ESCD (new output for 2014) | 4 | 4.1 Strengthening sectoral coordination 4.4 Strengthening research, policy analysis and planning | No figures as output not present for 2012 MTEF |  | 
+ |  | 5 | 5.1 Strengthening management capability and M&E 5.2 Developing FM, internal auditing &procurement |  |  | 
+SUBTOTAL TOTAL MESC OUTPUTS |  |  |  | 53,133,211 | 57,551,813 | 56,712,495
+SUBTOTAL OUTPUTS PROVIDED BY THIRD PARTIES |  |  |  | 13,215,392 | 11,815,392 | 12,115,392
+SUBTOTAL TRANSACTIONS ON BEHALF OF THE STATE |  |  |  | 24,054,664 | 12,379,529 | 12,380,429
+TOTAL APPROPRIATIONS |  |  |  | 103,846,755 | 89,401,772 | 88,353,552
+SQA OUTPUTS
+SQA 2 | Quality Assurance | 1 | 1.5 PSET Quality Assurance | 1,002,459 | 945,675 | 965,832
 SQA 3 | Research, Policy & Planning | 2 | 2.3 PSET Access Measures | 1,369,402 | 1,083,570 | 1,002,192
-SQA4 | Qualifications | 3 | 1.6 Professional Development for PSET Lecturers & Trainers 3.2 Development of relevant | 766,214 | 767,904 | 764,010
-PSET qualifications/courses TOTAL SQA APPROPRIATIONS (All IA outputs) | 4,411,077 | 4,005,530 | 3,923,936
-NUS 2 | Polic Advice to Vice Chancellor | 1 | 1.5 PSET Quality Assurance 1.6 Professional Development for PSET Lecturers & Trainers 1.7 Quality NUS Education Prog's | 609,360 | 610,108 | 603,463
-3 | 3.2 Development of relevant PSET qualifications & courses
-4 | Strengthening research, analysis and planning
-NUS 11 | Oloamanu Centre | 2 | 4.4 policy
-TOTAL NUS | 2.3 PSET Access Measures | 666,156 | 667,261 | 660,272 17,884,526
-APPROPRIATIONS (All IA | outputs) | 18,106,388 | 17,977,793
+ |  | 4 | 4.3 Policy Development PSET |  |  | 
+SQA4 | Qualifications | 3 | 1.6 Professional Development for PSET Lecturers & Trainers 3.2 Development of relevant PSET qualifications/courses | 766,214 | 767,904 | 764,010
+TOTAL SQA APPROPRIATIONS (All IA outputs) |  |  |  | 4,411,077 | 4,005,530 | 3,923,936
+NUS 2 | Polic Advice to Vice Chancellor | 1 | 1.5 PSET Quality Assurance 1.6 Professional Development for PSET Lecturers & Trainers 1.7 Quality NUS Education Prog’s | 609,360 | 610,108 | 603,463
+ |  | 3 | 3.2 Development of relevant PSET qualifications & courses |  |  | 
+ |  | 4 | 4.4 Strengthening research, policy analysis and planning |  |  | 
+NUS 11 | Oloamanu Centre | 2 | 2.3 PSET Access Measures | 666,156 | 667,261 | 660,272
+TOTAL NUS APPROPRIATIONS (All IA outputs) |  |  |  | 18,106,388 | 17,977,793 | 17,884,526
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3506,42 +3280,41 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 80]]
 
-# Annex D: MTEF 2012-2016 'Development' Expenditures
+# Annex D: MTEF 2012-2016 ‘Development’ Expenditures
 
-IA Outputs | GOAL | ESP Programme | 2013-14 | 2014-15 | 2015-16
+IA Outputs |  | GOAL | ESP Programme | 2013-14 | 2014-15 | 2015-16
 --- | --- | --- | --- | --- | --- | ---
 MESC OUTPUTS
 MESC 3 | Teaching Service | 1 | 1.1 National Teacher Development Framework (Salary increase part) | 1,282,000 | 1,282,000 | 1,282,000
 MESC 4 | Teacher Development Services | 1 | 1.1 NTDF (Teacher development) | 1,451,660 | 955,010 | 582,000
-1.7 Strengthening the quality & relevance of NUS Education Programmes | 100,000 | 264,000 | 264,000
+ |  |  | 1.7 Strengthening the quality & relevance of NUS Education Programmes | 100,000 | 264,000 | 264,000
 MESC 5 | School Improvement Services | 2 | 2.1 Inclusive Education | 250,000 | 186,000 | 100,000
-2.2 School Fee Grants | 7,599,800 | 7,599,800 | 7,599,800
+ |  |  | 2.2 School Fee Grants | 7,599,800 | 7,599,800 | 7,599,800
 MESC 6 | Curriculum Services | 1 | 1.2 School level Curriculum Reform | 828,000 | 1,001,040 | 100,000
-1.3 ICT in secondary schools | 708,000 | 232,000 | 100,000
-3.1 Improving relevance of secondary education | 5,100,000 | 4,800,000 | 6,549,987
+ |  |  | 1.3 ICT in secondary schools | 708,000 | 232,000 | 100,000
+ |  | 3 | 3.1 Improving relevance of secondary education | 5,100,000 | 4,800,000 | 6,549,987
 MESC 7 | Assessment & Examinations | 1 | 1.4 Schools Assessment Reform | 793,000 | 1,205,000 | 264,000
 MESC 8 | Policy, Planning & Research | 4 | 4.2 Policy Development for School Education | 539,840 | 482,000 | 232,000
-MESC 9 | Assets Management Services | 5 | 5.3 Strengthening the coordination of external support to the sector | 1,921,717 | 1,921,717 | 2,882,575
-5.4 Disaster and climate change resilience at all levels
-MESC 11 | Sports Development Services | 3 | 3.3 National Strategy for Sport in Education | No activities envisaged in 2012 MTEF
+MESC 9 | Assets Management Services | 5 | 5.3 Strengthening the coordination of external support to the sector 5.4 Disaster and climate change resilience at all levels | 1,921,717 | 1,921,717 | 2,882,575
+MESC 11 | Sports Development Services | 3 | 3.3 National Strategy for Sport in Education | No activities envisaged in 2012 MTEF |  | 
 MESC 12 | Cultural Development Services | 3 | 3.4 National Strategy for Culture in Education | 746,000 | 100,000 | 100,000
 MESC 13 | ESCD (new output) | 4 | 4.1 Strengthening sectoral coordination | 1,849,940 | 1,321,940 | 1,465,000
-4.4 Strengthening sectoral capacity for research, evaluation, policy analysis and planning | 100,000 | 100,000 | 100,000
-5 | 5.1 Strengthen management capability and M&E in education sector agencies | 723,000 | 843,500 | 964,000
-5.2 Develop financial management, internal auditing and procurement in sector agencies | 413,000 | 413,000 | 413,000
+ |  |  | 4.4 Strengthening sectoral capacity for research, evaluation, policy analysis and planning | 100,000 | 100,000 | 100,000
+ |  | 5 | 5.1 Strengthen management capability and M&E in education sector agencies | 723,000 | 843,500 | 964,000
+ |  |  | 5.2 Develop financial management, internal auditing and procurement in sector agencies | 413,000 | 413,000 | 413,000
 SQA OUTPUTS
-SQA 2 | Quality Assurance | 1 | 1.5 PSET Quality Assurance | 140,970 | 160,250
-SQA 3 | Research, Policy & | 2 | 2.3 PSET Access Measures | 1,514,000 | 1,414,000 | 1,414,000
-Planning | 4 | 4.3 Policy Development PSET | Not 2012 MTEF activities
-SQA4 | Qualifications | 1 | 1.6 Professional Development for Lecturers and Trainers | Seen as just an NUS activity in the 2012 MTEF
-3 | 3.2 Development of PSET qualifications and courses relevant to Samoa Economy | 746,000 | 591,000 | 1,205,000
+SQA 2 | Quality Assurance | 1 | 1.5 PSET Quality Assurance | 140,970 | 160,250 | 
+SQA 3 | Research, Policy & Planning | 2 | 2.3 PSET Access Measures | 1,514,000 | 1,414,000 | 1,414,000
+ |  | 4 | 4.3 Policy Development PSET | Not 2012 MTEF activities |  | 
+SQA4 | Qualifications | 1 | 1.6 Professional Development for Lecturers and Trainers | Seen as just an NUS activity in the 2012 MTEF |  | 
+ |  | 3 | 3.2 Development of PSET qualifications and courses relevant to Samoa Economy | 746,000 | 591,000 | 1,205,000
 NUS OUTPUTS
-NUS 2 | Policy advice to the Vice Chancellor | 1 | 1.5 PSET Quality Assurance for | Budget | included in SQA | in MTEF
-1.6 Professional Development Lecturers and Trainers | 633,539 | 392,539 | 392,539
-1.7 Quality NUS Education Prog's | Budget included in SQA in MTEF
-3 | 3.2 Development of PSET qualifications and courses | 582,000 | 746,000 | 264,000
-4 | 4.4 Strengthening research, policy analysis and planning | 100,000 | 100,000 | 100,000
-NUS 11 Oloamanu | Centre | 2 | 2.3 PSET Access Measures | Not 2012 MTEF activities
+NUS 2 | Policy advice to the Vice Chancellor | 1 | 1.5 PSET Quality Assurance | Budget included in SQA in MTEF |  | 
+ |  |  | 1.6 Professional Development for Lecturers and Trainers | 633,539 | 392,539 | 392,539
+ |  |  | 1.7 Quality NUS Education Prog’s | Budget included in SQA in MTEF |  | 
+ |  | 3 | 3.2 Development of PSET qualifications and courses | 582,000 | 746,000 | 264,000
+ |  | 4 | 4.4 Strengthening research, policy analysis and planning | 100,000 | 100,000 | 100,000
+NUS 11 | Oloamanu Centre | 2 | 2.3 PSET Access Measures | Not 2012 MTEF activities |  | 
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3551,16 +3324,16 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 81]]
 
+# Annex E: ESP Implementation Plan
+
 ## 5-year Implementation Plan for Goal 1
 
 ### Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity | 2017/2018 Activity
 1.1 National Teacher Development Framework (NTDF) | 1.1.1 Teachers Act passed | Development of the Teachers Act | Consultations with all stakeholders | Teachers Act Passed | Implementation of Act | Implementation of Act
-1.1.2 Standards for teacher registration implemented, including performance appraisal for all teachers | Develop Teacher Induction Framework to support new teachers Commence implementation of Teachers Self- Assessment Appraisal (SAP) | Commence implementation of Quality Assurance Performance Appraisal (QAPA) Commence implementation of Teacher Induction Framework | Continue implementation of SAP and QAPA Continue implementation of Teacher Induction Framework | Continue implementation of SAP QAPA implemented for 50% of teachers Master Teacher Standards implemented Continue implementation of Teacher Induction Framework | Evaluate effectiveness of SAP and QAPA Master Teacher Standards implementation continued Evaluate effectiveness of the Teacher Induction Framework
-1.1.3 Enhanced remuneration package for teachers implemented | Remuneration package and attractive career pathway framework developed and submitted to PSC | Commence implementing the improved teachers salary package | Commence implementing of designated positions of responsibility, including school-based mentors | Continue roll out of remuneration packages | Continue roll out of remuneration packages
-
-# Annex E: ESP Implementation Plan
+ | 1.1.2 Standards for teacher registration implemented, including performance appraisal for all teachers | Develop Teacher Induction Framework to support new teachers Commence implementation of Teachers Self-Assessment Appraisal (SAP) | Commence implementation of Quality Assurance Performance Appraisal (QAPA) Commence implementation of Teacher Induction Framework | Continue implementation of SAP and QAPA Continue implementation of Teacher Induction Framework | Continue implementation of SAP QAPA implemented for 50% of teachers Master Teacher Standards implemented Continue implementation of Teacher Induction Framework | Evaluate effectiveness of SAP and QAPA Master Teacher Standards implementation continued Evaluate effectiveness of the Teacher Induction Framework
+ | 1.1.3 Enhanced remuneration package for teachers implemented | Remuneration package and attractive career pathway framework developed and submitted to PSC | Commence implementing the improved teachers salary package | Commence implementing of designated positions of responsibility, including school-based mentors | Continue roll out of remuneration packages | Continue roll out of remuneration packages
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3570,10 +3343,10 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 82]]
 
-Goal 1 Enhanced
+Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
-1.1.4 Teachers professional development strategy developed, implemented and monitored | Development of Teacher Professional Development Framework Convene the In Service Training Committee (ISTC) Deployment of providers of professional development for teachers Development of professional development packages and materials: i. Leadership and management programmes ii. Mentor programmes iii. Heads of Department programmes | Teacher development programmes developed and resources deployed Teacher development for TVET and specialised subjects including Science and Mathematics Support school-based professional development in 50% of schools Identify and commence training of first tranche of: i. school-based Teacher Mentors ii. Leadership and management Commence teacher qualifications up-grade from T. Cert to Diploma level and from Diploma to Bachelor level Delivery of leadership and management training for principals commenced On-going professional support for principals | Continue with Professional Development for teachers conducted by appropriate and certified providers Continue with upgrading qualifications of teachers Continue training of school-based Teacher Mentors and leaders Delivery of training for principals roll out On-going professional support for principals, mentors and leaders | Continue with teacher qualification upgrade Continue with professional development of teachers Continue training of school-based Teacher Delivery of training for principals roll out On-going professional support for principals Mentors and leaders Evaluation instruments designed
+ | 1.1.4 Teachers professional development strategy developed, implemented and monitored | Development of Teacher Professional Development Framework Convene the In Service Training Committee (ISTC) Deployment of providers of professional development for teachers Development of professional development packages and materials: i. Leadership and management programmes ii. Mentor programmes iii. Heads of Department programmes | Teacher development programmes developed and resources deployed Teacher development for TVET and specialised subjects including Science and Mathematics Support school-based professional development in 50% of schools Identify and commence training of first tranche of: i. school-based Teacher Mentors ii. Leadership and management Commence teacher qualifications up-grade from T. Cert to Diploma level and from Diploma to Bachelor level Delivery of leadership and management training for principals commenced On-going professional support for principals | Continue with Professional Development for teachers conducted by appropriate and certified providers Continue with upgrading qualifications of teachers Continue training of school-based Teacher Mentors and leaders Delivery of training for principals roll out On-going professional support for principals, mentors and leaders | Continue with teacher qualification upgrade Continue with professional development of teachers Continue training of school-based Teacher Mentors and leaders Delivery of training for principals roll out On-going professional support for principals Evaluation instruments designed
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3581,13 +3354,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 83]]
 
-Goal 1 Enhanced Quality of
+Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
-1.2 School-Level curriculum reform | 1.2.1 Curriculum- related professional development for early childhood, primary and secondary teachers implemented and evaluated | Implementation of the new Primary Curriculum | Implementation of the new Primary Curriculum Produce and deploy relevant materials to support the new bilingual primary curriculum | Support and monitor the implementation of the new Primary Curriculum Independent Monitoring and evaluation of the new primary curriculum | Support and monitor the implementation of the new Primary Curriculum reform
-1.2.2 Secondary curriculum reform completed and implemented | Review of secondary curriculum implemented | Commence addressing findings of Curriculum Review Two streams of Maths and Samoan developed | Two streams of Maths and Samoan trialled and implemented Support and monitor the implementation of the revised Secondary Curriculum | Support and monitor the implementation of the revised Secondary Curriculum
-1.2.3 Curriculum Guidelines for early childhood education revised and implemented | Consultations commenced | Commence addressing review findings. Develop revised ECE Curriculum Guidelines (aligned with findings of ECE situational analysis and emerging policy) | Support and monitor the implementation of the revised ECE Curriculum Guidelines | Support and monitor the implementation of the revised ECE Curriculum Guidelines
-1.3. Information and Communications Technology (ICT) in Primary and Secondary Schools | 1.3.1 On-going ICT initiatives in secondary schools consolidated and expanded 1.3.2 A sector ICT Master Plan devised, with targeted implementation in both | Integration of ICT and multimedia tools in all subjects Comprehensive baseline study on the use of ICT in secondary teaching conducted and evaluated, including | Continue integration of multimedia tools in secondary schools Develop and deploy e- resources for subjects in Yr 12 and Yr 13 Commence training | Monitor the implementation of e- resources Continue training teachers on the use of e-resources | Monitor the implementation of e- resources Continue training teachers on the use of e-resources
+1.2 School-Level curriculum reform | 1.2.1 Curriculum-related professional development for early childhood, primary and secondary teachers implemented and evaluated | Implementation of the new Primary Curriculum | Implementation of the new Primary Curriculum Produce and deploy relevant materials to support the new bilingual primary curriculum | Support and monitor the implementation of the new Primary Curriculum Independent Monitoring and evaluation of the new primary curriculum | Support and monitor the implementation of the new Primary Curriculum reform
+ | 1.2.2 Secondary curriculum reform completed and implemented | Review of secondary curriculum implemented | Commence addressing findings of Curriculum Review Two streams of Maths and Samoan developed | Two streams of Maths and Samoan trialled and implemented Support and monitor the implementation of the revised Secondary Curriculum | Support and monitor the implementation of the revised Secondary Curriculum
+ | 1.2.3 Curriculum Guidelines for early childhood education revised and implemented | Consultations commenced | Commence addressing review findings. Develop revised ECE Curriculum Guidelines (aligned with findings of ECE situational analysis and emerging policy) | Support and monitor the implementation of the revised ECE Curriculum Guidelines | Support and monitor the implementation of the revised ECE Curriculum Guidelines
+1.3. Information and Communications Technology (ICT) in Primary and Secondary Schools | 1.3.1 On-going ICT initiatives in secondary schools consolidated and expanded 1.3.2 A sector ICT Master Plan devised, with targeted implementation in both | Integration of ICT and multimedia tools in all subjects Comprehensive baseline study on the use of ICT in secondary teaching conducted and evaluated, including | Continue integration of multimedia tools in secondary schools Develop and deploy e-resources for subjects in Yr 12 and Yr 13 Commence training | Monitor the implementation of e-resources Continue training teachers on the use of e-resources | Monitor the implementation of e-resources Continue training teachers on the use of e-resources
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3598,8 +3371,8 @@ Education Sector Plan (July 2013 - June 2018)
 Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
-primary and secondary schools | options for sustainable implementation of a Sector ICT Master Plan for the integration of ICT in education to enhance teaching and learning outcomes | teachers on the use of e- resources Commence professional development for ICT integration in curriculum implementation for primary and secondary teachers ICT in Education policies and procedures developed | Continue roll-out of professional development for ICT integration in curriculum implementation for primary and secondary teachers Implementation of ICT in Education policies and procedures | Continue roll-out of professional development for ICT integration in curriculum implementation for primary and secondary teachers Implementation and monitoring of ICT in Education policies and procedures
-1.4 School-level assessment reform | 1.4.1 National Assessment Policy Framework fully implemented and national benchmarks for literacy and numeracy developed | Full localisation of PSSC Commence implementation of SPECA at Year 8. PaBER implementation continues Commence the Home- School Literacy Partnership programme implementation National Implementation of the student portfolios Identify appropriate instrument for assessing school readiness of children completing early childhood education (sample cohort to be monitored over the ESP) | Implement school based assessment policy areas PaBER implementation continues Monitor and evaluate implementation of the student portfolios. School based training in assessment continues Roll out continues of the Home-School Literacy Partnership programme National benchmarks for literacy and numeracy finalized and implemented | PaBER review School based training in assessment continues Support and monitoring of the Home-School Literacy Partnership programme | Evaluation of the SNAP PaBER implementation continues School based training i assessment continues Support and monitorin of the Home-School Literacy Partnership programme
+ | primary and secondary schools | options for sustainable implementation of a Sector ICT Master Plan for the integration of ICT in education to enhance teaching and learning outcomes | teachers on the use of e-resources Commence professional development for ICT integration in curriculum implementation for primary and secondary teachers ICT in Education policies and procedures developed | Continue roll-out of professional development for ICT integration in curriculum implementation for primary and secondary teachers Implementation of ICT in Education policies and procedures | Continue roll-out of professional development for ICT integration in curriculum implementation for primary and secondary teachers Implementation and monitoring of ICT in Education policies and procedures
+1.4 School-level assessment reform | 1.4.1 National Assessment Policy Framework fully implemented and national benchmarks for literacy and numeracy developed | Full localisation of PSSC Commence implementation of SPECA at Year 8. PaBER implementation continues Commence the Home-School Literacy Partnership programme implementation National Implementation of the student portfolios Identify appropriate instrument for assessing school readiness of children completing early childhood education (sample cohort to be monitored over the ESP) | Implement school based assessment policy areas PaBER implementation continues Monitor and evaluate implementation of the student portfolios. School based training in assessment continues Roll out continues of the Home-School Literacy Partnership programme National benchmarks for literacy and numeracy finalized and implemented | PaBER review School based training in assessment continues Support and monitoring of the Home-School Literacy Partnership programme | Evaluation of the SNAPF PaBER implementation continues School based training in assessment continues Support and monitoring of the Home-School Literacy Partnership programme
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3607,16 +3380,16 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 85]]
 
-Goal 1 Enhanced
+Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
 1.5 PSET quality assurance | 1.5.1 Quality Assurance System Implemented | Review and implement Quality Assurance Policies and Guidelines | Implement Quality Assurance Policies and Guidelines | Implement Quality Assurance Policies and Guidelines | Implement Quality Assurance Policies and Guidelines
-Register formal PSET providers | Register formal PSET providers | Register formal PSET providers | Register formal PSET providers
-Conduct Annual registration renewal for formal PSET providers | Conduct Annual Registration Renewal for Formal PSET Providers | Conduct Annual Registration Renewal for Formal PSET Providers | Conduct Annual Registration Renewal for Formal PSET Providers
-Conduct programme accreditation | Conduct programme accreditation | Conduct programme accreditation | Conduct programme accreditation
-Recognition of Non- Formal learning (NFL) Activities | Recognition of Non-Formal learning (NFL) Activities | Recognition of Non- Formal learning (NFL) Activities | Recognition of Non- Formal learning (NFL) Activities
-Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework
-Provide PSET Support Services | Provide PSET Support Services | Provide PSET Support Services | Provide PSET Support Services
+ |  | Register formal PSET providers | Register formal PSET providers | Register formal PSET providers | Register formal PSET providers
+ |  | Conduct Annual registration renewal for formal PSET providers | Conduct Annual Registration Renewal for Formal PSET Providers | Conduct Annual Registration Renewal for Formal PSET Providers | Conduct Annual Registration Renewal for Formal PSET Providers
+ |  | Conduct programme accreditation | Conduct programme accreditation | Conduct programme accreditation | Conduct programme accreditation
+ |  | Recognition of Non-Formal learning (NFL) Activities | Recognition of Non-Formal learning (NFL) Activities | Recognition of Non-Formal learning (NFL) Activities | Recognition of Non-Formal learning (NFL) Activities
+ |  | Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework | Register Qualifications on the Samoa Qualifications Framework
+ |  | Provide PSET Support Services | Provide PSET Support Services | Provide PSET Support Services | Provide PSET Support Services
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3627,10 +3400,10 @@ Education Sector Plan (July 2013 - June 2018)
 Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
-1.5.2 Strategy implemented for international recognition of Samoa qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications
-Phase 1 Activities: Self-assessment of SQA against Guidelines of Best Practices by INQAAHE Peer review of SQA's self-assessment | Phase 1 Activities continue External review of SQA by INQAAHE Phase 2 Activities start Develop and implement plan for SQF mutual recognition with PQF | Phase 2 Activities continue Facilitate comparability exercise for SQF with frameworks for New Zealand and Australia and develop and implement plan for mutual recognition
-1.5.3 Foreign Qualifications Recognition services implemented | Provide efficient foreign qualification recognition services Review FQRS fees | Provide efficient foreign qualification recognition services | Provide efficient foreign qualification recognition services | Provide efficient foreig qualification recognition services Review foreign qualifications recognition service an fees
-1.5.4 NUS quality assurance system implemented for higher education programs | Commence internal audits of HE programmes Commence external QA reviews of HE programmes | Continue internal audits and external reviews of HE programmes Conduct graduate surveys | Continue internal audits and external reviews of HE programmes Develop and implement plan for supporting CSS | Continue QA reviews o HE programmes, aspiring to increased international recognition of NUS HE qualifications Develop research publication, professional associatio membership, peer partnerships with othe universities etc.
+ | 1.5.2 Strategy implemented for international recognition of Samoa qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications | Implementation of Strategy for Recognition of Samoa Qualifications
+ |  | Phase 1 Activities: Self-assessment of SQA against Guidelines of Best Practices by INQAAHE Peer review of SQA’s self-assessment | Phase 1 Activities continue External review of SQA by INQAAHE Phase 2 Activities start Develop and implement plan for SQF mutual recognition with PQF | Phase 2 Activities continue Facilitate comparability exercise for SQF with frameworks for New Zealand and Australia and develop and implement plan for mutual recognition | 
+ | 1.5.3 Foreign Qualifications Recognition services implemented | Provide efficient foreign qualification recognition services Review FQRS fees | Provide efficient foreign qualification recognition services | Provide efficient foreign qualification recognition services | Provide efficient foreign qualification recognition services Review foreign qualifications recognition service and fees
+ | 1.5.4 NUS quality assurance system implemented for higher education programs | Commence internal audits of HE programmes Commence external QA reviews of HE programmes | Continue internal audits and external reviews of HE programmes Conduct graduate surveys | Continue internal audits and external reviews of HE programmes Develop and implement plan for supporting CSS | Continue QA reviews of HE programmes, aspiring to increased international recognition of NUS HE qualifications Develop research publication, professional association membership, peer partnerships with other universities etc.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3642,8 +3415,8 @@ Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
 1.6. Professional development for PSET lecturers and trainers | 1.6.1 NUS Lecturer qualifications and skills up-graded, prioritizing the needs of teacher trainees (focussing on literacy and numeracy and the new curriculum) | Training Needs Analysis conducted conducted with NUS lecturers | Based on the needs analysis, a NUS staff professional development plan developed NUS HR Plan developed and updated 80% of staff to have a minimum of a tertiary teaching qualification and masters degree or other relevant qualifications by 2014 | Implementation of the NUS staff professional development plan Support for staff needing to complete masters degrees or other relevant qualifications | Continued implementation of the NUS staff professional plan Support for NUS staff needing to complete masters degrees or other relevant qualifications
-1.6.2 Professional standards established for TVET trainers | Establish professional standards for TVET trainers | Implement professional standards for TVET trainers | Implement professional standards for TVET trainers | Implement profession standards for TVET trainers
-1.6.3 Professional development for TVET trainers implemented | Professional development Needs Analysis for TVET trainers | Professional development for TVET trainers in targeted fields Monitor impact on student outcomes | Professional development for TVET trainers in targeted fields Monitor impact on student outcomes | Evaluation of PD programme impact on TVET student outcome Establish medium-long term professional development strategy for TVET trainers
+ | 1.6.2 Professional standards established for TVET trainers | Establish professional standards for TVET trainers | Implement professional standards for TVET trainers | Implement professional standards for TVET trainers | Implement professional standards for TVET trainers
+ | 1.6.3 Professional development for TVET trainers implemented | Professional development Needs Analysis for TVET trainers | Professional development for TVET trainers in targeted fields Monitor impact on student outcomes | Professional development for TVET trainers in targeted fields Monitor impact on student outcomes | Evaluation of PD programme impact on TVET student outcomes Establish medium-long term professional development strategy for TVET trainers
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3655,7 +3428,7 @@ Goal 1 Enhanced Quality of Education at All levels
 --- | --- | --- | --- | --- | ---
 Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
 1.7 Strengthening the quality and relevance of NUS courses | 1.7.1 NUS teacher education courses revised to better align with school curriculum and especially to ensure graduates have best practice knowledge and skills to improve literacy and numeracy in schools | Build on existing collaborative relationship between NUS and MESC CMAD for curriculum development to ensure on-going two-way feedback to improve alignment with new and revised curriculum | On-going feedback on alignment informs revision of course content and delivery approach | On-going feedback on alignment informs revision of course content and delivery approach | On-going feedback on alignment informs revision of course content and delivery approach
-1.7.2Flexible delivery modes developed for education courses | Develop an action plan to devise flexible delivery options | Commence designing flexible learning packages (including online and DFL) for courses in teacher education. | Continue designing flexible learning packages Commence offering courses in flexible mode, monitor & support | Continue to roll out Evaluate success of first courses, comparing effectiveness and result with the traditional fac to face mode
+ | 1.7.2Flexible delivery modes developed for education courses | Develop an action plan to devise flexible delivery options | Commence designing flexible learning packages (including online and DFL) for courses in teacher education. | Continue designing flexible learning packages Commence offering courses in flexible mode, monitor & support | Continue to roll out Evaluate success of first courses, comparing effectiveness and results with the traditional face to face mode
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3665,14 +3438,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 ## 5-Year Implementation Plan for Goal 2
 
-### Goal 2 Enhanced Educational Access and Opportunities at all Level
+### Goal 2 Enhanced Educational Access and Opportunities at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2
-Programme | Output | Activity | Activity | Activity | Activit
-2.1 Inclusive education at all levels | 2.1.1Compulsory education provision in the Education Act 2009 reviewed and regulations developed | Consultations commenced | Consultations completed | Amendment to the Act passed in Parliament | Implemen continues
-2.1.2Minimum Service Standards (MSS) for primary and secondary fully implemented, monitored and evaluated | MSS finalized and endorsed by cabinet for all government schools | Implementing and monitoring MSS for all schools Workshop materials developed for community- related standards | Implementing and monitoring MSS for all schools Workshops implemented | Implemen monitorin schools Worksho implemen
-2.1.3Minimum Service Standards for early chi1.3 Minimum Service Standards for early childhood education developed and implemented | Consultations commenced | Consultations completed. Standards developed, informed by ECE situational analysis and newly developed ECE policy Implementation strategy devised and implementation begun | MSS implementation, monitoring and review continues | MSS impl monitorin continues
-2.2 School Fee Relief | 2.2.1School Fee Relief | Continued SSFGS | SSFGS implementation | SSFGS implementation | SSFGS im
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+2.1 Inclusive education at all levels | 2.1.1Compulsory education provision in the Education Act 2009 reviewed and regulations developed | Consultations commenced | Consultations completed | Amendment to the Act passed in Parliament | Implementation continues
+ | 2.1.2Minimum Service Standards (MSS) for primary and secondary fully implemented, monitored and evaluated | MSS finalized and endorsed by cabinet for all government schools | Implementing and monitoring MSS for all schools Workshop materials developed for community-related standards | Implementing and monitoring MSS for all schools Workshops implemented | Implementing and monitoring MSS for all schools Workshops implemented
+ | 2.1.3Minimum Service Standards for early chi1.3 Minimum Service Standards for early childhood education developed and implemented | Consultations commenced | Consultations completed. Standards developed, informed by ECE situational analysis and newly developed ECE policy Implementation strategy devised and implementation begun | MSS implementation, monitoring and review continues | MSS implementation, monitoring and review continues
+2.2 School Fee Relief | 2.2.1School Fee Relief | Continued SSFGS | SSFGS implementation | SSFGS implementation | SSFGS implementation
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3680,13 +3452,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 90]]
 
-Goal 2 Enhanced Educational Access and Opportunities at all Level
+Goal 2 Enhanced Educational Access and Opportunities at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2
-Programme | Output | Activity | Activity | Activity | Activit
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
 Grants (primary and secondary) | Grant Schemes effectively delivered in all Government and Mission primary and secondary schools | implementation in primary schools SSFGS implementation begins in secondary schools | continues | continues | continues
-2.2.2 School Fee Relief Grant Schemes effectively monitored in all Government and Mission primary and secondary schools | Regular monitoring of SSFGS implementation in primary schools Preparations for and initial implementation of monitoring of secondary school grants | SSFGS monitoring and evaluation continues Evaluate impact of primary scheme. Modification as necessary | SSFGS monitoring and evaluation continues Mid-term review of secondary scheme. Modification as necessary | SSFGS mo evaluatio
-2.3 PSET Access Measures | 2.3.1 Develop, implement, monitor and evaluate the PSET Access Grant | Administration, monitoring and evaluation of the Small Grant Scheme for Non Formal Education & Non Government providers Develop, implement and monitor the application of Small Grant for registered training providers to deliver accredited programmes in the community Develop, implement and monitor mechanism to encourage registered training providers to attract female enrolments in non- traditional trades training Develop, implement and | Manage and monitor the implementation of the Small Grant Scheme for Non Government & Non Formal Providers Implement and monitor the application of Small Grant for registered training providers to deliver accredited programmes in the community Implement and monitor mechanism to encourage registered training providers to attract female enrolments in non- traditional trades training Implement and monitor | The PSET Access Grant is under the TVET Support Programme which ends in June 2015. Evaluate impact of the Access Grant scheme
+ | 2.2.2 School Fee Relief Grant Schemes effectively monitored in all Government and Mission primary and secondary schools | Regular monitoring of SSFGS implementation in primary schools Preparations for and initial implementation of monitoring of secondary school grants | SSFGS monitoring and evaluation continues Evaluate impact of primary scheme. Modification as necessary | SSFGS monitoring and evaluation continues Mid-term review of secondary scheme. Modification as necessary | SSFGS monitoring and evaluation continues
+2.3 PSET Access Measures | 2.3.1 Develop, implement, monitor and evaluate the PSET Access Grant | Administration, monitoring and evaluation of the Small Grant Scheme for Non Formal Education & Non Government providers Develop, implement and monitor the application of Small Grant for registered training providers to deliver accredited programmes in the community Develop, implement and monitor mechanism to encourage registered training providers to attract female enrolments in non-traditional trades training Develop, implement and | Manage and monitor the implementation of the Small Grant Scheme for Non Government & Non Formal Providers Implement and monitor the application of Small Grant for registered training providers to deliver accredited programmes in the community Implement and monitor mechanism to encourage registered training providers to attract female enrolments in non-traditional trades training Implement and monitor | The PSET Access Grant is under the TVET Support Programme which ends in June 2015. Evaluate impact of the Access Grant scheme | 
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3694,14 +3465,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 91]]
 
-Goal 2 Enhanced Educational Access and Opportunities at all Level
+Goal 2 Enhanced Educational Access and Opportunities at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2
-Programme | Output | Activity | Activity | Activity | Activit
-monitor mechanism to encourage training providers to deliver on the job trainings in skills demand areas from their accredited programmes Management the process of approval applications for the Access Grant Conduct quarterly visits to monitor and evaluate the Access Grant effectiveness | mechanism to encourage training providers to deliver on the job trainings in skills demand areas from their accredited programmes Management the process of approval applications for the Access Grant Conduct quarterly visits to monitor and evaluate the effectiveness of the Access Grant
-2.3.2 Career Advisory Service effectively established | Provide Career Advisory Services (CAS) Commence CAS school visits | Provide Career Advisory Services | Provide Career Advisory Services Evaluate impact of CAS and review provision | Provide C Services
-2.3.3 Process for Recognition of Current Competency effectively established | Design a process for Recognition of Current Competency (RCC) Produce training manual for RCC training Conduct training for TVET providers - in three clusters Produce RCC information package for TVET providers | Implement Recognition of Current Competency RCC enables NUS to develop partnerships with other PSET providers to enable pathways to TVET or higher education | Evaluate of RCC pr modify as
-2.3.4 More flexible PSET Learning Pathways established | Conduct situational analysis on current Learning Pathways | Establish for develo Learning througho from scho
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+ |  | monitor mechanism to encourage training providers to deliver on the job trainings in skills demand areas from their accredited programmes Management the process of approval applications for the Access Grant Conduct quarterly visits to monitor and evaluate the Access Grant effectiveness | mechanism to encourage training providers to deliver on the job trainings in skills demand areas from their accredited programmes Management the process of approval applications for the Access Grant Conduct quarterly visits to monitor and evaluate the effectiveness of the Access Grant |  | 
+ | 2.3.2 Career Advisory Service effectively established | Provide Career Advisory Services (CAS) Commence CAS school visits | Provide Career Advisory Services | Provide Career Advisory Services Evaluate impact of CAS and review provision | Provide Career Advisory Services
+ | 2.3.3 Process for Recognition of Current Competency effectively established |  | Design a process for Recognition of Current Competency (RCC) Produce training manual for RCC training Conduct training for TVET providers – in three clusters Produce RCC information package for TVET providers | Implement Recognition of Current Competency RCC enables NUS to develop partnerships with other PSET providers to enable pathways to TVET or higher education | Evaluate effectiveness of RCC process and modify as required
+ | 2.3.4 More flexible PSET Learning Pathways established |  |  | Conduct situational analysis on current Learning Pathways | Establish policy direction for development of Learning Pathways throughout PSET and from schools to PSET
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3711,12 +3481,11 @@ Education Sector Plan (July 2013 - June 2018)
 
 ## 5-Year Implementation Plan for Goal 3
 
-### Goal 3 | Enhanced Relevance of Education and Training at all Leve
+### Goal 3 Enhanced Relevance of Education and Training at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
-Programme | Output | Activity | Activity | Activity | Activity
-3.1 Improving the relevance of secondary education | 3.1.1 Feasibility study of TVET in schools completed and policy recommendations implemented | Feasibility study commenced | Developing policy based on findings of the feasibility study Develop program to support TVET in schools | Commence implementation of TVET program | Support and mo continues
-3.2Development and application of PSET qualifications and courses relevant to the Samoan economy | 3.2.1Samoa Qualifications (SQs) and National Competency Standards (NCS) for priority sectors developed and applied in PSET | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET. Develop and implement Moderation system Promote application of Generic Skills NCS in PSET programmes | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET Monitor application of NCS & SQs in PSET | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET sub- sector. Monitor application of NCS & SQs in PSET | Coordinate and f development of Qualifications (S National Compet Standards (NCS) sectors for appli PSET Coordinate Appli SQs & NCS in PS Monitor applicat & SQs in PSET
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+3.1 Improving the relevance of secondary education | 3.1.1 Feasibility study of TVET in schools completed and policy recommendations implemented | Feasibility study commenced | Developing policy based on findings of the feasibility study Develop program to support TVET in schools | Commence implementation of TVET program | Support and monitoring continues
+3.2Development and application of PSET qualifications and courses relevant to the Samoan economy | 3.2.1Samoa Qualifications (SQs) and National Competency Standards (NCS) for priority sectors developed and applied in PSET | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET. Develop and implement Moderation system Promote application of Generic Skills NCS in PSET programmes | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET Monitor application of NCS & SQs in PSET | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET sub-sector. Monitor application of NCS & SQs in PSET | Coordinate and facilitate development of Samoa Qualifications (SQs) and National Competency Standards (NCS) in priority sectors for application in PSET Coordinate Application of SQs & NCS in PSET. Monitor application of NCS & SQs in PSET
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3724,12 +3493,11 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 93]]
 
-Goal 3 Enhanced Relevance of Education and Training at all Leve
+Goal 3 Enhanced Relevance of Education and Training at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
-Programme | Output | Activity | Activity | Activity | Activity
-3.2.2 Findings from tracer studies and employer Surveys used to inform PSET policy and practice | Conduct a survey of employers satisfaction with regards to graduates performance (based on findings from the FY 2012.13 Tracer Study) | Conduct a PSET Tracer Study of graduates from formal PSET providers in 2012, 2013 & 2014 | Conduct a surve employers satisf regards to gradu performance (ba findings from th conducted in FY
-3.2.3 New courses developed at NUS relevant to development and market needs | Commence development of new academic and TVET programmes relevant to national needs and priorities. Commence development of Diploma level programmes for TVET, also MEd and MA. TVET programmes (certificate & diploma) to be linked to National Competency Standards & workforce needs Feasibility study to examine best options to deliver agricultural and other courses relevant to development needs Continue support to TVET through funding for professional development. Identify funding for TVET Consumables for the School of Applied Science | NUS Implementation and continuous monitoring and evaluation of new courses Development of new courses e.g. Bachelors in Tourism Develop: i. learning support for all students including those with special needs ii. Students learning centre iii. Student health and welfare Strengthen QA for all programmes (Registration and accreditation) Continuation of support to the TVET area through professional development and consumables | Additional programmes developed at NUS in higher education linked to national needs New courses delivered and monitored Consumables budget of NUS fully accommodates TVET needs NUS programmes fully audited for response to national needs. i.e. Form 7 (Foundation programme) in schools Review of certificate level 1 programmes with a view to shift to other PSET providers | Additional progr developed at NU education linked national needs New courses deli monitored NUS programmes audited for respo national needs.
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+ | 3.2.2 Findings from tracer studies and employer Surveys used to inform PSET policy and practice | Conduct a survey of employers satisfaction with regards to graduates performance (based on findings from the FY 2012.13 Tracer Study) |  | Conduct a PSET Tracer Study of graduates from formal PSET providers in 2012, 2013 & 2014 | Conduct a survey of employers satisfaction with regards to graduates performance (based on findings from the TS conducted in FY 15/16)
+ | 3.2.3 New courses developed at NUS relevant to development and market needs | Commence development of new academic and TVET programmes relevant to national needs and priorities. Commence development of Diploma level programmes for TVET, also MEd and MA. TVET programmes (certificate & diploma) to be linked to National Competency Standards & workforce needs Feasibility study to examine best options to deliver agricultural and other courses relevant to development needs Continue support to TVET through funding for professional development. Identify funding for TVET Consumables for the School of Applied Science | NUS Implementation and continuous monitoring and evaluation of new courses Development of new courses e.g. Bachelors in Tourism Develop: i. learning support for all students including those with special needs ii. Students learning centre iii. Student health and welfare Strengthen QA for all programmes (Registration and accreditation) Continuation of support to the TVET area through professional development and consumables | Additional programmes developed at NUS in higher education linked to national needs New courses delivered and monitored Consumables budget of NUS fully accommodates TVET needs NUS programmes fully audited for response to national needs. i.e. Form 7 (Foundation programme) in schools Review of certificate level 1 programmes with a view to shift to other PSET providers | Additional programmes developed at NUS education linked to national needs New courses delivered and monitored NUS programmes fully audited for response to national needs.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3737,13 +3505,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 94]]
 
-Goal 3 Enhanced Relevance of Education and Training at all Leve
+Goal 3 Enhanced Relevance of Education and Training at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
-Programme | Output | Activity | Activity | Activity | Activity
-3.2.4 TVET providers supported to offer NCS and SQs | Continue support to TVET through professional development and consumables. | Continue support to TVET through professional development and consumables. | Continue support to TVET through professional development and consumables. | Continue suppor through professi development an consumables.
-3.2.5 Flexible delivery modes developed for selected NUS programmes | Identify and prioritize courses according to national need and develop an action plan to devise flexible delivery options | Commence designing flexible learning packages (including online and DFL) for courses in teacher education, science, mathematics and others | Continue designing flexible learning packages Commence offering courses in flexible mode, monitor & support | Continue to roll o Evaluate success courses, compari effectiveness an with the traditio face mode
-3.2.6 Increased quality and relevance of NUS programmes to the needs of all professions and trades | Development of new academic and TVET programmes according to national needs and priorities Diploma level programmes for TVET MEd and MA. Continuation of support to the TVET area through funding for Professional development Consumables for the School of Applied Science | Develop learning support for all students including those with special needs, with students learning centre and student health and welfare Continue support to the TVET area through Professional development and Consumables Strengthen QA for all programmes Registration and accreditation | Consumables budget of the NUS fully accommodates TVET needs | NUS programmes audited for respo national needs. i.e. Form 7 (Foun programme) in sc Review of certific programmes with shift to other PSE Consumables bud NUS fully accom TVET needs
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+ | 3.2.4 TVET providers supported to offer NCS and SQs | Continue support to TVET through professional development and consumables. | Continue support to TVET through professional development and consumables. | Continue support to TVET through professional development and consumables. | Continue support to TVET through professional development and consumables.
+ | 3.2.5 Flexible delivery modes developed for selected NUS programmes | Identify and prioritize courses according to national need and develop an action plan to devise flexible delivery options | Commence designing flexible learning packages (including online and DFL) for courses in teacher education, science, mathematics and others | Continue designing flexible learning packages Commence offering courses in flexible mode, monitor & support | Continue to roll out Evaluate success of first courses, comparing effectiveness and results with the traditional face to face mode
+ | 3.2.6 Increased quality and relevance of NUS programmes to the needs of all professions and trades | Development of new academic and TVET programmes according to national needs and priorities Diploma level programmes for TVET MEd and MA. Continuation of support to the TVET area through funding for Professional development Consumables for the School of Applied Science | Develop learning support for all students including those with special needs, with students learning centre and student health and welfare Continue support to the TVET area through Professional development and Consumables Strengthen QA for all programmes Registration and accreditation | Consumables budget of the NUS fully accommodates TVET needs | NUS programmes fully audited for response to national needs. i.e. Form 7 (Foundation programme) in schools Review of certificate level 1 programmes with a view to shift to other PSET providers Consumables budget of the NUS fully accommodates TVET needs
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3751,12 +3518,11 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 95]]
 
-Goal 3 Enhanced Relevance of Education and Training at all Leve
+Goal 3 Enhanced Relevance of Education and Training at all Levels
 --- | --- | --- | --- | --- | ---
-2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
-Programme | Output | Activity | Activity | Activity | Activity
-3.3National strategy for sport in education | 3.3.1 Increased numbers of schools and village communities engaged in organized sport | Continue extending the Fiafia Sports Programme to more primary schools (at least 60 more schools to be included by 2015) Continue involving more village communities in the Samoa Sports for Development Programme (in 36 villages by 2015) | Continue extending the Fiafia Sports Programme to more primary schools Continue involving more village communities in the Samoa Sports for Development Programme | Continue extending the Fiafia Sports Programme to more primary schools. Set new target for 2015 to 2018 Continue involving more village communities in the Samoa Sports for Development Programme Set new target for 2015 to 2018 | Continue extend Fiafia Sports Pro more primary sc Continue involvi village communi Samoa Sports fo Development Pr
-3.4National culture in education strategy | 3.4.1 National Culture in Education Strategy developed and implemented | Conduct research and consultations for the development of the National Culture in Education Strategy Complete the museum legal framework Establish National Archives and Records Authority NARA) Ratify the UNESCO Convention on the Safeguarding of Intangible Cultural Heritage | National Culture in Education Strategy finalized and action plan Developed. Complete the integration of the museum, libraries and archives into the National Culture Centre architectural design concept | Implement strategy and monitor progress | Implement strat monitor progres
+Programme | Output | 2013/2014 Activity | 2014/2015 Activity | 2015/2016 Activity | 2016/2017 Activity
+3.3National strategy for sport in education | 3.3.1 Increased numbers of schools and village communities engaged in organized sport | Continue extending the Fiafia Sports Programme to more primary schools (at least 60 more schools to be included by 2015) Continue involving more village communities in the Samoa Sports for Development Programme (in 36 villages by 2015) | Continue extending the Fiafia Sports Programme to more primary schools Continue involving more village communities in the Samoa Sports for Development Programme | Continue extending the Fiafia Sports Programme to more primary schools. Set new target for 2015 to 2018 Continue involving more village communities in the Samoa Sports for Development Programme Set new target for 2015 to 2018 | Continue extending the Fiafia Sports Programme to more primary schools Continue involving more village communities in the Samoa Sports for Development Programme
+3.4National culture in education strategy | 3.4.1 National Culture in Education Strategy developed and implemented | Conduct research and consultations for the development of the National Culture in Education Strategy Complete the museum legal framework Establish National Archives and Records Authority NARA) Ratify the UNESCO Convention on the Safeguarding of Intangible Cultural Heritage | National Culture in Education Strategy finalized and action plan Developed. Complete the integration of the museum, libraries and archives into the National Culture Centre architectural design concept | Implement strategy and monitor progress | Implement strategy monitor progress
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3766,14 +3532,14 @@ Education Sector Plan (July 2013 - June 2018)
 
 ## 5-Year Implementation Plan for Goal 4
 
-### Goal 4        Improved  Sector Coordination of Research, Policy and Planning Devel
+### Goal 4 Improved Sector Coordination of Research, Policy and Planning Development
 
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 --- | --- | --- | --- | --- | ---
 Programme | Output | Activity | Activity | Activity | Activity
-4.1 Strengthening sectoral coordination of research, policy and planning | 4.1.1 Education Sector Coordination Division (ESCD) fully established and performing its mandated functions effectively | Education Sector Governance & Institutional Arrangements developed and endorsed Establish sector coordination mechanism Develop the sector communication Strategy Strengthening sub sector coordination linking to sector coordination Develop, monitor & review PSET strategic plans | Implementation Coordination of M & E Communication to all stakeholders Strengthening sub sector coordination linking to sector coordination Develop, monitor & review PSET strategic plans Schools sub sector separation of functions : Policy & regulations and Operations Development of a tertiary sub sector strategy Consultations, Design, Agreements, priorities | Implementation Coordination of M & E Communication to all stakeholders Develop, monitor & review PSET strategic plans Agreements and decisions at appropriate levels on priorities and implementation | Evaluation of the rol functions of the ESA Coordination of M & Communication to al stakeholders Develop, monitor & r PSET strategic plans Action Plan: schedul Targets Review of education arrangement, roles a functions and denvelopment Priori
-4.1.2 Effective partnerships with key stakeholders especially those outside of the formal system | Conduct Review to inform potential partnerships with key stakeholders/ organisations outside of the formal system | Development of partnerships to support implementation of sector plan Commence implementation | Partnership strengthening | Partnership strength
-4.1.3 ESP Annual | Conduct ESP Annual | Conduct ESP Annual Review | Conduct ESP Annual Review | Conduct ESP Annual
+4.1 Strengthening sectoral coordination of research, policy and planning | 4.1.1 Education Sector Coordination Division (ESCD) fully established and performing its mandated functions effectively | Education Sector Governance & Institutional Arrangements developed and endorsed Establish sector coordination mechanism Develop the sector communication Strategy Strengthening sub sector coordination linking to sector coordination Develop, monitor & review PSET strategic plans | Implementation Coordination of M & E Communication to all stakeholders Strengthening sub sector coordination linking to sector coordination Develop, monitor & review PSET strategic plans Schools sub sector separation of functions : Policy & regulations and Operations Development of a tertiary sub sector strategy Consultations, Design, Agreements, priorities | Implementation Coordination of M & E Communication to all stakeholders Develop, monitor & review PSET strategic plans Agreements and decisions at appropriate levels on priorities and implementation | Evaluation of the roles and functions of the ESAC Coordination of M & E Communication to all stakeholders Develop, monitor & review PSET strategic plans Action Plan: schedules and Targets Review of education sector arrangement, roles and functions and denvelopment Priorities
+ | 4.1.2 Effective partnerships with key stakeholders especially those outside of the formal system | Conduct Review to inform potential partnerships with key stakeholders/ organisations outside of the formal system | Development of partnerships to support implementation of sector plan Commence implementation | Partnership strengthening | Partnership strengthening
+ | 4.1.3 ESP Annual | Conduct ESP Annual | Conduct ESP Annual Review | Conduct ESP Annual Review | Conduct ESP Annual
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3781,12 +3547,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 97]]
 
-Goal 4 Improved Sector Coordination of Research, Policy and Planning Devel
+Goal 4 Improved Sector Coordination of Research, Policy and Planning Development
 --- | --- | --- | --- | --- | ---
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 Programme | Output | Activity | Activity | Activity | Activity
-Review processes institutionalised and MTEF updated annually | Review and update of MTEF Review and address findings accordingly | and update of MTEF Review and address findings accordingly | and update of MTEF Review and address findings accordingly | Review and update MTEF Review and address findings accordingly
-4.2Policy development for early childhood and school education | 4.2.1 Planned new policies developed and implemented 4.2.2 A sector policy, monitoring and review process established | Policy Review, Formulation and Consultations: i. Early Childhood ii. Education (ECE) iii. MSS for ECE iv. Inclusive Education v. Bilingual Education vi. Enforcement of the regulations of the Education Act 2009 Develop Regulations for the Education Act 2009 Prioritize policy development and devise action plan Situational Analysis of Early Childhood Education in Samoa to inform policy development | Development of Implementation Plans for each of the policy areas, costing and implementation. Development of policy monitoring and review process Strengthen linkages between NCECES and MESC Transition to full management and implementation of SIEDP by MESC | Implementation and monitoring of all developed policies Strengthen partnership with NFE providers SIEDP Coordinator becomes a MESC permanent position IE research based on outcomes of the Situational Analysis continues | Implementation and monitoring of all dev policies continues Review of Bilingual Education Policy IE research based on outcomes of the Situ Analysis continues
+ | Review processes institutionalised and MTEF updated annually | Review and update of MTEF Review and address findings accordingly | and update of MTEF Review and address findings accordingly | and update of MTEF Review and address findings accordingly | Review and update of MTEF Review and address findings accordingly
+4.2Policy development for early childhood and school education | 4.2.1 Planned new policies developed and implemented 4.2.2 A sector policy, monitoring and review process established | Policy Review, Formulation and Consultations: i. Early Childhood ii. Education (ECE) iii. MSS for ECE iv. Inclusive Education v. Bilingual Education vi. Enforcement of the regulations of the Education Act 2009 Develop Regulations for the Education Act 2009 Prioritize policy development and devise action plan Situational Analysis of Early Childhood Education in Samoa to inform policy development | Development of Implementation Plans for each of the policy areas, costing and implementation. Development of policy monitoring and review process Strengthen linkages between NCECES and MESC Transition to full management and implementation of SIEDP by MESC | Implementation and monitoring of all developed policies Strengthen partnership with NFE providers SIEDP Coordinator becomes a MESC permanent position IE research based on outcomes of the Situational Analysis continues | Implementation and monitoring of all developed policies continues Review of Bilingual Education Policy IE research based on outcomes of the Situational Analysis continues
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3794,12 +3560,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 98]]
 
-Goal 4 Improved Sector Coordination of Research, Policy and Planning Devel
+Goal 4 Improved Sector Coordination of Research, Policy and Planning Development
 --- | --- | --- | --- | --- | ---
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 Programme | Output | Activity | Activity | Activity | Activity
-4.3Policy development for PSET | 4.3.1 Planned new PSET-related policies developed and implemented, and a policy monitoring and review process established | Policy Review, Formulation and Consultations: i. Non Formal Education ii. Learning Pathways iii. NCS and SQs in PSET | Formulate PSET funding mechanism and develop costed Implementation Plan | Implementation and monitoring of NFE policy & PSET funding mechanism | Formulate and imple policy on NCS and S PSET
-4.4 Strengthening sector capacity for research, evaluation, policy analysis and planning | 4.4.1Education Sector Research Strategy developed and implemented | Development of an Education Sector Research Strategy, and an Action Plan for implementation. Identify research priorities by sub-sector and whole of sector Research strategy to include mechanisms for using research findings and analysis to inform policy and practice across the sector | ESCD coordinates a new research programme to inform policy: quality, access, relevance, efficiency, and sustainability across the sector Conduct or identify opportunities for capacity training of responsible staff on education research, policy and information analysis for wider sector | Continue research programme Continue capacity training for responsible staff on PSET research, policy and information analysis Support and quality assure new PSET research | Continue research programme Support and quality new PSET research
+4.3Policy development for PSET | 4.3.1 Planned new PSET-related policies developed and implemented, and a policy monitoring and review process established | Policy Review, Formulation and Consultations: i. Non Formal Education ii. Learning Pathways iii.NCS and SQs in PSET | Formulate PSET funding mechanism and develop costed Implementation Plan | Implementation and monitoring of NFE policy & PSET funding mechanism | Formulate and implement policy on NCS and SQs in PSET
+4.4 Strengthening sector capacity for research, evaluation, policy analysis and planning | 4.4.1Education Sector Research Strategy developed and implemented | Development of an Education Sector Research Strategy, and an Action Plan for implementation. Identify research priorities by sub-sector and whole of sector Research strategy to include mechanisms for using research findings and analysis to inform policy and practice across the sector | ESCD coordinates a new research programme to inform policy: quality, access, relevance, efficiency, and sustainability across the sector Conduct or identify opportunities for capacity training of responsible staff on education research, policy and information analysis for wider sector | Continue research programme Continue capacity training for responsible staff on PSET research, policy and information analysis Support and quality assure new PSET research | Continue research programme Support and quality assure new PSET research
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3809,13 +3575,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 ## 5-Year Implementation Plan for Goal 5
 
-### Goal 5       Established Sustainable and Efficient Management of all Education Reso
+### Goal 5 Established Sustainable and Efficient Management of all Education Resources
 
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 --- | --- | --- | --- | --- | ---
 Programme | Output | Activity | Activity | Activity | Activity
-5.1 Strengthening management capability and M&E in education sector agencies | 5.1.1 Effective Education Sector Management Information System in place | Assess current status of management information systems in MESC, NUS and SQA (situational analysis) Identify prioritized strategies to strengthen sub-sector EMIS capacity Development of the sector management information system Analysis and reporting Dissemination of | Commence strengthening of EMIS, data analysis and reporting at sub sector level Data Gathering across the sector Analysis and reporting Information Dissemination | Continue to strengthen EMIS, data analysis and reporting at sub sector level Data gathering across the sector Analysis and Reporting Dissemination | Continue to stren EMIS, data analys reporting at sub s level Data gathering ac sector Analysis and Rep Dissemination
-5.1.2Effective ESP Monitoring and Evaluation processes in place | Establish M & E Unit in ESCD Develop an ESP Monitoring and Evaluation Work Plan: i. Identify and prioritize tasks to establish and then run an effective M&E process for ESP ii. Establish institutional roles and responsibilities | Implement M&E Work Plan Ensure reporting, dissemination and consultation mechanisms are transparent and effective Process in place for reporting findings to all stakeholders, and for ensuring feedback from stakeholders, validating and reviewing findings | Implement M & E Work Plan ESCD establishes transparent mechanisms for using the ESP M&E findings to systematically inform policy, decision - making, and resource allocation across the sector | Implement M & E Plan
+5.1 Strengthening management capability and M&E in education sector agencies | 5.1.1 Effective Education Sector Management Information System in place | Assess current status of management information systems in MESC, NUS and SQA (situational analysis) Identify prioritized strategies to strengthen sub-sector EMIS capacity Development of the sector management information system Analysis and reporting Dissemination of information | Commence strengthening of EMIS, data analysis and reporting at sub sector level Data Gathering across the sector Analysis and reporting Information Dissemination | Continue to strengthen EMIS, data analysis and reporting at sub sector level Data gathering across the sector Analysis and Reporting Dissemination | Continue to strengthen EMIS, data analysis and reporting at sub sector level Data gathering across the sector Analysis and Reporting Dissemination
+ | 5.1.2Effective ESP Monitoring and Evaluation processes in place | Establish M & E Unit in ESCD Develop an ESP Monitoring and Evaluation Work Plan: i. Identify and prioritize tasks to establish and then run an effective M&E process for ESP ii. Establish institutional roles and responsibilities | Implement M&E Work Plan Ensure reporting, dissemination and consultation mechanisms are transparent and effective Process in place for reporting findings to all stakeholders, and for ensuring feedback from stakeholders, validating and reviewing findings | Implement M & E Work Plan ESCD establishes transparent mechanisms for using the ESP M&E findings to systematically inform policy, decision - making, and resource allocation across the sector | Implement M & E Work Plan
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3823,13 +3589,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 100]]
 
-Goal 5 Established Sustainable and Efficient Management of all Education Reso
+Goal 5 Established Sustainable and Efficient Management of all Education Resources
 --- | --- | --- | --- | --- | ---
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 Programme | Output | Activity | Activity | Activity | Activity
-iii. Decide sequence and time line for completion of tasks Establish baseline evidence where needed to inform the ESP Monitoring and Evaluation Framework Establish process for addressing 'Key Evaluation Questions' (reporting at Annual Review etc.)
-5.1.3 Effective management and leadership skills and knowledge in the sector | Sector Human Resourcing Plan | Develop program to address HR needs across the sector?
-5.2 Developing financial, internal auditing and procurement in sector agencies | 5.2.1 Effective sector-level budgeting and financial reporting to the ESWG on a monthly basis, and to the EAC on a quarterly basis | Establish networks with IAs CSSD units and agree on formats for  FE and Budget Submissions  Submission of financial reports to ESCD and for consolidation by ESCD | Prepare annual sector budget and ensure consistency with IA budgets Submit quarterly financial reports to EAC | Prepare annual sector budget and ensure consistency with IA budgets Submit quarterly financial reports to EAC | Prepare annual s budget and ensur consistency with I budgets Submit quarterly reports to EAC
+ |  | iii. Decide sequence and time line for completion of tasks Establish baseline evidence where needed to inform the ESP Monitoring and Evaluation Framework Establish process for addressing “Key Evaluation Questions” (reporting at Annual Review etc.) |  |  | 
+ | 5.1.3 Effective management and leadership skills and knowledge in the sector | Sector Human Resourcing Plan | Develop program to address HR needs across the sector? |  | 
+5.2 Developing financial, internal auditing and procurement in sector agencies | 5.2.1 Effective sector-level budgeting and financial reporting to the ESWG on a monthly basis, and to the EAC on a quarterly basis | Establish networks with IAs CSSD units and agree on formats for  FE and Budget Submissions  Submission of financial reports to ESCD and for consolidation by ESCD | Prepare annual sector budget and ensure consistency with IA budgets Submit quarterly financial reports to EAC | Prepare annual sector budget and ensure consistency with IA budgets Submit quarterly financial reports to EAC | Prepare annual sector budget and ensure consistency with IA budgets Submit quarterly financial reports to EAC
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3837,12 +3603,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 101]]
 
-Goal 5 Established Sustainable and Efficient Management of all Education Reso
+Goal 5 Established Sustainable and Efficient Management of all Education Resources
 --- | --- | --- | --- | --- | ---
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 Programme | Output | Activity | Activity | Activity | Activity
 5.2.2 A sector Resourcing Policy Framework in place and operational | Develop a sector resourcing policy framework
-5.2.3 Effective internal audit approach in each of the three key agencies | Internal auditors to be appointed for SQA | Design a risk based internal audit approach for the sector, and ensure IA audit plans support this | ESCD coordinates IA audit plans and monitors implementation in cooperation with MoF IAD | ESCD coordinates plans and monito implementation i cooperation with IAD
+5.2.3 Effective internal audit approach in each of the three key agencies | Internal auditors to be appointed for SQA | Design a risk based internal audit approach for the sector, and ensure IA audit plans support this | ESCD coordinates IA audit plans and monitors implementation in cooperation with MoF IAD | ESCD coordinates IA audit plans and monitors implementation in cooperation with MoF IAD
 5.2.4 Capability Plans in place for each of the three key agencies | Develop capability plans for all sub sectors MESC,NUS,SQA
 5.2.5 Sub-sector Procurement processes aligned with national regulatory framework, IA procurement plans and IA procurement data bases | Tailor each sub sector's Financial Procedures Manual and Procurement Manual to the national regulatory framework for procurement (MESC, NUS, SQA) | All procurement and internal audit staff in each sub sector IA trained in the new national procurement regulatory framework
 
@@ -3852,12 +3618,13 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 102]]
 
-Goal 5 Established Sustainable and Efficient Management of all Education Reso
+Goal 5 Established Sustainable and Efficient Management of all Education Resources
 --- | --- | --- | --- | --- | ---
 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 Programme | Output | Activity | Activity | Activity | Activity
-5.2.6 Annual procurement plans prepared and approved by EAC prior to commencement of new financial year | Annual procurement plans prepared prior to commencement of FY | Annual procurement plans prepared prior to commencement of FY | Annual procurement plans prepared prior to commencement of FY | Annual procurem plans prepared pr commencement
-5.3 Strengthening the co-ordination of external support to the sector | 5.3.1All government and development partner- supported infrastructure improvement initiatives co- ordinated effectively 5.3.2 All support from bi- lateral and multilateral agencies and regional organizations effectively co- ordinated | Develop standards for infrastructural improvement initiatives Develop policy for monitoring and implementation of other support to the sector | Conduct consultations on standards Conduct consultations and implement
+5.2.6 Annual procurement plans prepared and approved by EAC prior to commencement of new financial year | Annual procurement plans prepared prior to commencement of FY | Annual procurement plans prepared prior to commencement of FY | Annual procurement plans prepared prior to commencement of FY | Annual procurement plans prepared prior to commencement of FY
+5.3 Strengthening the co-ordination of external support to the sector | 5.3.1All government and development partner-supported infrastructure improvement initiatives co-ordinated effectively | Develop standards for infrastructural improvement initiatives | Conduct consultations on standards
+ | 5.3.2 All support from bi-lateral and multilateral agencies and regional organizations effectively co-ordinated | Develop policy for monitoring and implementation of other support to the sector | Conduct consultations and implement
 5.4 Disaster and climate change resilience at all levels | 5.4.1 Sector Strategy for Disaster and Climate Change Resilience developed and implemented | Develop a Sector Strategy to improve Disaster Preparedness and Climate Change resilience across the sector | Conduct consultations on Sector Strategy & implement
 
 Education Sector Plan (July 2013 - June 2018)
@@ -3867,14 +3634,15 @@ Education Sector Plan (July 2013 - June 2018)
 [[START OF PAGE 103]]
 
 # Annex F: Monitoring and Evaluation Framework
---- | --- | --- | --- | --- | --- | ---
-Outcomes | Indicators | Baseline Data | Target Yr 1 | Target Yr 2 | Target Yr 3 | Target
-Yr 4 Y
+--- | --- | --- | --- | --- | --- | --- | ---
+Outcomes | Indicators | Baseline Data | Target Yr 1 | Target Yr 2 | Target Yr 3 | Target Yr 4 | 2018 Target Yr 5
 ## Goal 1 Enhanced Quality of Education at all Levels
 ### Key Evaluation Questions include:
- What is the geographic and socio-economic distribution of children in the 'At Risk' category in their SPELL results? Is ES any issues here?
+ What is the geographic and socio-economic distribution of children in the “At Risk” category in their SPELL results? Is ESP adequately addressing any issues here?
+ Do schools that meet national Minimum Service Standards have proportionately fewer students in the “At Risk” category?
+ Are NTDF remuneration packages and career path incentives leading to improved morale and better performance by teachers in the classroom?
 ### Sector Outcome
-SO1. Improved learning outcomes at all levels | % of children categorized as At Risk in English and Samoan Literacy at Years 4 and 6, by gender | SPELL Yr 4 2012 English Girls 18 % Boys 35 % SPELL Yr 4 2012 Samoan Girls 12 % Boys 21 % SPELL Yr 6 2012 English Girls 32% Boys 55% SPELL Yr 6 2012 Samoan Girls 12 % Boys 22 % | 18 % 35 % 12 % 21 % 32 % 55 % 12 % 22 % | 15 % 32 % 9 % 18 % 29 % 52 % 9 % 19 % | 12 % 29 % 6% 15 % 26 % 49 % 6 % 22 % | 9% 26 % 3% 12 % 23 % 46 % 3 % 19 %
+SO1. Improved learning outcomes at all levels | % of children categorized as At Risk in English and Samoan Literacy at Years 4 and 6, by gender | SPELL Yr 4 2012 English Girls 18 % Boys 35 % SPELL Yr 4 2012 Samoan Girls 12 % Boys 21 % SPELL Yr 6 2012 English Girls 32% Boys 55% SPELL Yr 6 2012 Samoan Girls 12 % Boys 22 % | 18 % 35 % 12 % 21 % 32 % 55 % 12 % 22 % | 15 % 32 % 9 % 18 % 29 % 52 % 9 % 19 % | 12 % 29 % 6% 15 % 26 % 49 % 6 % 22 % | 9% 26 % 3% 12 % 23 % 46 % 3 % 19 % | 6 % 23 % 1 % 9 % 20 % 43 % 1 % 16 %
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3882,12 +3650,12 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 104]]
 
-% of children categorized as At Risk in Numeracy at Year 4 and 6, by gender | SPELL Yr 4 2012 Numeracy Girls 23 % Boys 32 % SPELL Yr 6 2012 Numeracy Girls 50 % Boys 62 % | 16 % 26 % 50 % 62 % | 13 % 22 % 47 % 59 % | 10 % 17 % 44 % 56 % | 8 % 14 % 41 % 53 % | 5 1 3 5
+% of children categorized as At Risk in Numeracy at Year 4 and 6, by gender | SPELL Yr 4 2012 Numeracy Girls 23 % Boys 32 % SPELL Yr 6 2012 Numeracy Girls 50 % Boys 62 % | 16 % 26 % 50 % 62 % | 13 % 22 % 47 % 59 % | 10 % 17 % 44 % 56 % | 8 % 14 % 41 % 53 % | 5 % 10 % 38 % 50 %
 --- | --- | --- | --- | --- | --- | ---
 Number of students passing Year 12 National Examinations in Maths and Science | Baseline and targets to be established in Year 1
-Literacy levels (English and Samoan) at Years 12 and 13 | Baseline to be up-dated in Year 1 and targets revised Yr 12 2010 English 46% Samoan 42 % Yr 13 2010 English 45 % | 46 % 42 % 45 % | 49 % 50 % 47 % 60 % | 53 % 60 % 49 % | 57 % 70 % 51 % 67 % | 6 8 5
-% of PSET students graduating with internationally recognised qualifications | Samoan 57 % Male: Female: Baseline and targets to be established in Year 1 | 57 % | 64 % | 7 F
-Percentage of Samoan Qualifications recognised nationally and internationally | Nationally 17% Internationally 0% | N. 22% I. 3% | N. 27% I. 7% | N. 32% I. 11% | N. 36% I. 14% | N I.
+Literacy levels (English and Samoan) at Years 12 and 13 | Baseline to be up-dated in Year 1 and targets revised Yr 12 2010 English 46% Samoan 42 % Yr 13 2010 English 45 % Samoan 57 % | 46 % 42 % 45 % 57 % | 49 % 50 % 47 % 60 % | 53 % 60 % 49 % 64 % | 57 % 70 % 51 % 67 % | 60 % 80 % 55 % 75 %
+% of PSET students graduating with internationally recognised qualifications | Male: Female: Baseline and targets to be established in Year 1 |  |  |  |  | M. 12% F. 5%
+Percentage of Samoan Qualifications recognised nationally and internationally | Nationally 17% Internationally 0% | N. 22% I. 3% | N. 27% I. 7% | N. 32% I. 11% | N. 36% I. 14% | N. 40% I. 17%
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3898,8 +3666,8 @@ Education Sector Plan (July 2013 - June 2018)
 ### Sub-Sector Outcomes
 --- | --- | --- | ---
 O1.1 Improved literacy and numeracy outcomes at all levels, with boys and girls each achieving to agreed national benchmarks | Assessment of school readiness of children completing early childhood education Achievement gap between girls and boys: literacy and numeracy at Year 6 | Baseline and targets to be established in Year 1 Literacy Yr 6 % Gap date Numeracy Yr 6 % Gap date | Sample cohort assessed using recognized instrument.
-O1.2 Early childhood providers and primary and secondary schools increasingly meet national Minimum Service Standards | % of primary schools meeting those Minimum Service Standards identified as key to achieving improving the teaching of literacy and numeracy | Qualitative Research in Year 1 (interviews) to establish baseline and targets to be monitored through interviews and observation with a sample cohort of teachers in ESP Year 3 and Year 5. Targets may relate to teacher attendance, lesson preparation and follow-up, engagement with parents and community about students' learning, engagement in out-of-school activities with students, career aspirations,
-O1.3 Professionally more competent teaching force at all levels, especially in the teaching of literacy and numeracy | Professional development brings observable improvement in primary teachers' performance in the teaching literacy and numeracy | In Year 1, findings of ESPII qualitative classroom research: 1. Teacher Effectiveness Study 2. Causes of Low Achievement Study will be used to establish baseline and set ESP targets to be monitored in ESP Year 3 and Year 5 through observation and interview. e.g.10 % of primary teachers in sampled schools achieving six ESP targets. Targets may relate to: i. teachers' planning regularly and working to the planning
+O1.2 Early childhood providers and primary and secondary schools increasingly meet national Minimum Service Standards | % of primary schools meeting those Minimum Service Standards identified as key to achieving improving the teaching of literacy and numeracy | Qualitative Research in Year 1 (interviews) to establish baseline and targets to be monitored through interviews and observation with a sample cohort of teachers in ESP Year 3 and Year 5. Targets may relate to teacher attendance, lesson preparation and follow-up, engagement with parents and community about students' learning, engagement in out-of-school activities with students, career aspirations, attitudes to work, to students, to colleagues etc.
+O1.3 Professionally more competent teaching force at all levels, especially in the teaching of literacy and numeracy | Professional development brings observable improvement in primary teachers' performance in the teaching literacy and numeracy | In Year 1, findings of ESPII qualitative classroom research: 1. Teacher Effectiveness Study 2. Causes of Low Achievement Study will be used to establish baseline and set ESP targets to be monitored in ESP Year 3 and Year 5 through observation and interview. e.g.10 % of primary teachers in sampled schools achieving six ESP targets. Targets may relate to: i. teachers' planning regularly and working to the planning ii. teachers using classroom assessment to inform planning iii. teachers engaging children in active learning processes iv. teachers differentiating tasks according to children's ability
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3907,7 +3675,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 106]]
 
-O1.4Improved teacher morale and retention resulting from improved remuneration and professional development. | Teacher morale and attitudes regarding their career choice and aspirations | Qualitative Research in Year 1 (interviews) to establish baseline and targets to be monitored through interviews and observation with a sample cohort of teachers in ESP Year 3 and Year 5. Targets may relate to teacher attendance, lesson preparation and follow-up, engagement with parents and community about students' learning, engagement in out-of-school activities with students, Career aspirations, attitudes to work, to students, to colleagues
+O1.4Improved teacher morale and retention resulting from improved remuneration and professional development. | Teacher morale and attitudes regarding their career choice and aspirations | Qualitative Research in Year 1 (interviews) to establish baseline and targets to be monitored through interviews and observation with a sample cohort of teachers in ESP Year 3 and Year 5. Targets may relate to teacher attendance, lesson preparation and follow-up, engagement with parents and community about students' learning, engagement in out-of-school activities with students, Career aspirations, attitudes to work, to students, to colleagues etc.
 --- | --- | ---
 Annual retention rates of primary and secondary school teachers | Baseline and targets to be established in Year 1 | Primary: Secondary:
 O1.5Improved quality of PSET programmes | Student completion/certification rates Lecturer/ trainer retention rate | Baseline and targets to be established in Year 1
@@ -3925,7 +3693,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 ### Key Evaluation Questions include:
 
- To what extent have secondary completion rates improved amongst children from households in the lowest socio-econo
+ To what extent have secondary completion rates improved amongst children from households in the lowest socio-economic group?
 
  Are young people from these disadvantaged families increasingly able to access post-secondary education or training?
 
@@ -3934,14 +3702,14 @@ Education Sector Plan (July 2013 - June 2018)
  Are disabled young people increasingly able to enrol in relevant and appropriate post-secondary education or training?
 
 ### Sector Outcome
-| Net enrolment Ratio for primary education, by gender (MDG 2) | Total 97 % (101% MESC Stats Digest 2013) | 97 % | 98 % | 99 % | 99.5 % | 9
+SO2. At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate-resistant learning environments | Net enrolment Ratio for primary education, by gender (MDG 2) | Total 97 % (101% MESC Stats Digest 2013) | 97 % | 98 % | 99 % | 99.5 % | 99. 8 %
 --- | --- | --- | --- | --- | --- | --- | ---
-SO2. At all levels, more students, including those with special needs, have access to quality educational opportunities in safe, climate- resistant learning environments | Percentage of children commencing Year 1 Primary and completing Year 8, by gender (Primary Completion Rate MDG2 ) | Total 81.8% in 2008 (GoS/Australia Partnership document) | 82 % | 83 % | 86% | 90 % | 9
-Net enrolment ratio for secondary education, by gender | Total 68% 2013 | 72% | 72 % | 75 % | 80 % | 8
-Transition rate to Secondary, by gender(Global Partnership for Education) | Baselines and targets to be established in Year 1
-Secondary Completion Rate, by gender (Global Partnership for Education) | Baselines and targets to be established in Year 1
-Transition rate from secondary to PSET by gender | Baselines and targets to be established in Year 1
-Enrolment rate within formal PSET | Male 47% Female 53%
+ | Percentage of children commencing Year 1 Primary and completing Year 8, by gender (Primary Completion Rate MDG2 ) | Total 81.8% in 2008 (GoS/Australia Partnership document) | 82 % | 83 % | 86% | 90 % | 95%
+ | Net enrolment ratio for secondary education, by gender | Total 68% 2013 | 72% | 72 % | 75 % | 80 % | 85%
+ | Transition rate to Secondary, by gender(Global Partnership for Education) | Baselines and targets to be established in Year 1
+ | Secondary Completion Rate, by gender (Global Partnership for Education) | Baselines and targets to be established in Year 1
+ | Transition rate from secondary to PSET by gender | Baselines and targets to be established in Year 1
+ | Enrolment rate within formal PSET | Male 47% Female 53%
 ### Sub-Sector Outcomes
 O2.1 More students, including those from disadvantaged and vulnerable backgrounds, enrol and complete early childhood, primary and secondary schooling | Primary Out of School Rate, by gender (Global Partnership for Education) Secondary Out of School rate, by gender | Baselines and targets to be established in Year 1
 
@@ -3951,7 +3719,7 @@ Education Sector Plan (July 2013 - June 2018)
 
 [[START OF PAGE 108]]
 
-02.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools | Numbers of children with disability enrolled in mainstream schools, by gender | 105 children in 2010 Targets to be established in Year 1
+O2.2 More children with disabilities enrol and complete their early childhood, primary and secondary schooling in mainstream schools | Numbers of children with disability enrolled in mainstream schools, by gender | 105 children in 2010 Targets to be established in Year 1
 --- | --- | ---
 O2.3 More students, including those from disadvantaged backgrounds, enrol and complete PSET | Numbers enrolled in PSET institutions, by gender | Baselines and targets to be established in Year 1
 O2.3 More students with disabilities undertake and complete accessible and relevant PSET | Numbers of students with disabilities enrolled in PSET institutions, by gender | Baselines and targets to be established in Year 1
@@ -3959,12 +3727,12 @@ O2.3 More students with disabilities undertake and complete accessible and relev
 ## Goal 3                      Enhanced Relevance of Education and Training at all Levels
 ### Key Evaluation Question:
 
- Has increasing the relevance of postsecondary education and training translated into increasing numbers of young people
+ Has increasing the relevance of postsecondary education and training translated into increasing numbers of young people finding employment?
 
 ### Sector Outcome
 SO3. Improved employability of school leavers as a result of Education and training responding to national economic, social and cultural needs | Parents of secondary school leavers' level of satisfaction with the relevance of their children's knowledge and skills to the national economic, social and cultural needs Employers of school leavers' and PSET graduates' level of satisfaction with the relevance of their knowledge and skills to the workplace | Baseline to be established during Year 1. Design and conduct baseline survey of parents Define targets for ESP Years 3 and 5 Conduct monitoring interviews in Years 3 and 5. Baseline to be established during Year 1. Design and conduct baseline survey of employers Define targets for ESP Years 3 and 5. Conduct monitoring interviews in Years 3 and 5
 --- | --- | --- | --- | --- | ---
-% of PSET graduates finding employment on exit | 31% (2011) | 38% | 46% | 54% | 62%
+% of PSET graduates finding employment on exit | 31% (2011) | 38% | 46% | 54% | 62% | 70%
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -3973,9 +3741,9 @@ Education Sector Plan (July 2013 - June 2018)
 [[START OF PAGE 109]]
 
 ### Sub-Sector Outcomes
-| Transition rate from secondary school to post-school TVET institutions | Baseline and targets to be established in Year 1
+O3.1 TVET initiatives in secondary schools lead to improved student retention and transition to PSET | Transition rate from secondary school to post-school TVET institutions | Baseline and targets to be established in Year 1
 --- | --- | ---
-03.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market | Samoa job vacancy rate as % of total employment | 4% 2007
+O3.2 Increased numbers of PSET graduates with knowledge and skills relevant to the Samoa job market | Samoa job vacancy rate as % of total employment | 4% 2007
 % of Samoa employers identifying skills shortages | 30% 2007 (GoS /Australia Partnership document)
 
 ## Goal 4                   Co-ordination of Research Improved Sector, Policy and Planning Development
@@ -4000,13 +3768,13 @@ Education Sector Plan (July 2013 - June 2018)
 
  Is the sector managing its resources more efficiently and so delivering a better service across the country?
 
- Is sector coordination ensuring that all financial, procurement, and auditing processes increasingly meet the standards re Finance and development partners under the budgetary support model?
+ Is sector coordination ensuring that all financial, procurement, and auditing processes increasingly meet the standards required by the Ministry of Finance and development partners under the budgetary support model?
 
 ### Sector Outcome
 SO5 Education resources are increasingly managed efficiently and sustainably across the sector | Actual Expenditure Outturn for the Sector as % of Budget  Recurrent SIG  Recurrent ESSP  Projects | Baseline survey in Year 1 of year 0 (i.e. 2013/14).
 --- | --- | --- | --- | --- | --- | ---
 No. of Annual Audit Plans for the three IAs approved by MoF IAD before commencement of FY | Baseline survey in Year 1. | 3 | 3 | 3 | 3 | 3
-No. of Quarterly progress reports against Audit Plans by the three IA Internal Auditors to their CEOs and copied to MoF IAD | Baseline survey in Year 1) | 4 for each IA | 4 for each IA | 4 for each IA | 4 for each IA | 4 I
+No. of Quarterly progress reports against Audit Plans by the three IA Internal Auditors to their CEOs and copied to MoF IAD | Baseline survey in Year 1) | 4 for each IA | 4 for each IA | 4 for each IA | 4 for each IA | 4 for each IA
 Annual procurement plans prepared by each of the three IAs and the ESCD and submitted to ESWG before start of financial year | Baseline survey in Year 1 | 4 | 4 | 4 | 4 | 4
 
 Education Sector Plan (July 2013 - June 2018)
@@ -4020,10 +3788,10 @@ Education Sector Plan (July 2013 - June 2018)
 Risks/Challenges | Implications | Remedial Measures/ Strategy
 --- | --- | ---
 ## Economic, Environmental and Institutional Risks
-1. Deterioration of the Samoan economy, changes in the status of key development partner funding, reduction in GoS commitment to education as opposed to other sectors, or other threat to the education budget. | Inability to fund and therefore deliver the planned education services and ESP activities. | Effective Education Sector Advisory Committee able to adapt prom financial situation. Maintain a close link between the ESP, and the evolving Samoan D and national macroeconomic strategy. Strengthen the relationship between school and PSET programme economy. Maintain a strategic overview of the ESP and prioritise its activitie effectiveness and efficiency in change financial conditions. Ensure systems in place to facilitate development partner support.
-2. Natural disasters, exacerbated by climate change, can lead to heavy destruction of educational buildings, equipment and materials | Reduced access for children and young people to education programmes. Reduction in the quality of programmes due to loss of equipment, materials and facilities. Loss of funding for the ESP in order to fund reconstruction activities. | Improved strategic planning for natural disasters and climate ch levels (ESP Programme 1.7)
-3. Institutional changes affect the Implementing Agencies and the relevance of specific aspects of ESP structures for implementation management and monitoring | Weakened implementation and monitoring of the ESP | ESP updated as needed to reflect institutional changes. EASC provides prompt guidance on adapting to the institutional ch
-4. Decline in effectiveness and morale of personnel implementing the ESP due to poor employment conditions, high staff turnover and staffing vacancies, excessive workloads, insufficient staff development and other factors | Inadequate commitment to ESP implementation, monitoring and coordination within the sector agencies Inadequate commitment by teachers and lecturers due to poor remuneration packages and inadequate staff development | Ensure that the Coordination Unit is fully staffed as soon as possibl Ensure all relevant staff are trained in monitoring and evaluation MESC to incorporate research and evaluation training into an ind counter employee turnover and enhance skills and knowledge of st Ensure prompt implementation of the National Teacher Deve including its enhanced remuneration package for teachers.
+1. Deterioration of the Samoan economy, changes in the status of key development partner funding, reduction in GoS commitment to education as opposed to other sectors, or other threat to the education budget. | Inability to fund and therefore deliver the planned education services and ESP activities. | Effective Education Sector Advisory Committee able to adapt promptly to changes in the financial situation. Maintain a close link between the ESP, and the evolving Samoan Development Strategy and national macroeconomic strategy. Strengthen the relationship between school and PSET programmes to the needs of the economy. Maintain a strategic overview of the ESP and prioritise its activities to ensure maximum effectiveness and efficiency in change financial conditions. Ensure systems in place to facilitate development partner support.
+2. Natural disasters, exacerbated by climate change, can lead to heavy destruction of educational buildings, equipment and materials | Reduced access for children and young people to education programmes. Reduction in the quality of programmes due to loss of equipment, materials and facilities. Loss of funding for the ESP in order to fund reconstruction activities. | Improved strategic planning for natural disasters and climate change resilience at all levels (ESP Programme 1.7)
+3. Institutional changes affect the Implementing Agencies and the relevance of specific aspects of ESP structures for implementation management and monitoring | Weakened implementation and monitoring of the ESP | ESP updated as needed to reflect institutional changes. EASC provides prompt guidance on adapting to the institutional changes
+4. Decline in effectiveness and morale of personnel implementing the ESP due to poor employment conditions, high staff turnover and staffing vacancies, excessive workloads, insufficient staff development and other factors | Inadequate commitment to ESP implementation, monitoring and coordination within the sector agencies Inadequate commitment by teachers and lecturers due to poor remuneration packages and inadequate staff development | Ensure that the Coordination Unit is fully staffed as soon as possible Ensure all relevant staff are trained in monitoring and evaluation MESC to incorporate research and evaluation training into an induction programme to counter employee turnover and enhance skills and knowledge of staff. Ensure prompt implementation of the National Teacher Development Framework including its enhanced remuneration package for teachers.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -4032,12 +3800,11 @@ Education Sector Plan (July 2013 - June 2018)
 [[START OF PAGE 112]]
 
 ## Main PFM & Procurement Risks
---- | --- | --- | ---
-5. | No recent assessment of procurement systems | Out of date framework weakens internal control & limits scope for procurement audit | MAPS assessment of procurement regulatory framework and cap and validated
-6. | bidders Lack of understanding of the role of internal audit Lack of follow up on audit recommendations- procurement improvements are not realised. | CEOs and Vice Chancellor not aware of their responsibility for internal controls, and of role internal audit to provide assurance on control framework and compliance. Currently audit recommendations are systematically addressed by CEOs and VC, weaknesses in place | Internal audit capacity should be in place in each of the three imp SQA position yet to be filled Internal audit adviser in MoF IAD to support implementation Strategic Plan, functioning Internal Audit Forum, and SQA internal auditors in the Forum
-7. | Sector entities not operating under a coordinated procurement plan. No capacity yet in MESC ESCD to update MTEF or FE templates, or coordinate FE for three IAs No capacity yet in MESC ESCD to implement a results framework and implement an M&E framework | of internal not leaving Procurement plans of 3 IAs may not reflect needs of ESP; and procurement plan implementation delays may adversely impact ESP implementation; Sector MTEF and MoF FE submission (for sector and 3 IAs) need to reflect revised ESP programmes, otherwise Approved Estimates may not adequately resource the agreed ESP The ESP results framework will not be reflected in | participatio Education Sector Coordination Division established in MESC with k Coordinator, Planning/Budgeting & Finance, M&E, and Procurem Procurement Advisory Support will need to coordinate imple procurement risk mitigation measures across the corporate service The training and capacity building to cover all key implementin MESC, NUS, SQA and other relevant agencies (refer Appendix 7 in ESP ESCD and 3 IAs work with MoF to ensure consistency of secto MTEF framework requirements
-8. | SQA and NUS, as SOEs, NOT obliged to follow GoS procurement framework. NUS & SQA Financial Procedures Manuals not clear on a number of issues | Approved Estimates Performance Framework, or data collection systems may not be in place or may not function to support the ESP results framework Gaps and weaknesses in existing manuals and procedures in NUS and SQA may result in inefficiencies, poor value for money, and risk of mis | and SQA Financial Policies and Procedures Manuals need into line with revised Treasury Instructions, including new
-procurement | NUS brought
+--- | --- | ---
+5. No recent assessment of procurement systems Lack of procurement skills and expertise Lack of transparency on award of contracts and feedback to bidders | Out of date framework weakens internal control & limits scope for procurement audit Results in inefficiencies in procurement, and can invalidate procurement processes Reduces competition, increases inefficiencies and limits value for money | MAPS assessment of procurement regulatory framework and capacity to be completed and validated Part K of Treasury Instructions to be approved by MoF CEO and published Revised SBDs, RFQ and Contracts to be finalised and approved by Attorney General Based on updated regulatory framework, procurement training program delivered across all government agencies, and including to internal auditors
+6. Lack of understanding of the role of internal audit Lack of follow up on audit recommendations- procurement improvements are not realised. | CEOs and Vice Chancellor not aware of their responsibility for internal controls, and of role of internal audit to provide assurance on internal control framework and compliance. Currently audit recommendations are not systematically addressed by CEOs and VC, leaving weaknesses in place | Internal audit capacity should be in place in each of the three implementing agencies SQA position yet to be filled Internal audit adviser in MoF IAD to support implementation of the Internal Audit Strategic Plan, functioning Internal Audit Forum, and participation of MESC, NUS and SQA internal auditors in the Forum
+7. Sector entities not operating under a coordinated procurement plan. No capacity yet in MESC ESCD to update MTEF or FE templates, or coordinate FE for three IAs No capacity yet in MESC ESCD to implement a results framework and implement an M&E framework | Procurement plans of 3 IAs may not reflect needs of ESP; and procurement plan implementation delays may adversely impact ESP implementation; Sector MTEF and MoF FE submission (for sector and 3 IAs) need to reflect revised ESP programmes, otherwise Approved Estimates may not adequately resource the agreed ESP The ESP results framework will not be reflected in Approved Estimates Performance Framework, or data collection systems may not be in place or may not function to support the ESP results framework | Education Sector Coordination Division established in MESC with key positions filled for Coordinator, Planning/Budgeting & Finance, M&E, and Procurement Advisory Support. Procurement Advisory Support will need to coordinate implementation of other procurement risk mitigation measures across the corporate service units of the three IAs The training and capacity building to cover all key implementing agencies including MESC, NUS, SQA and other relevant agencies (refer Appendix 7 in Volume II) ESP ESCD and 3 IAs work with MoF to ensure consistency of sector MTEF with national MTEF framework requirements
+8. SQA and NUS, as SOEs, NOT obliged to follow GoS procurement framework. NUS & SQA Financial Procedures Manuals not clear on a number of issues | Gaps and weaknesses in existing manuals and procedures in NUS and SQA may result in inefficiencies, poor value for money, and risk of mis procurement | NUS and SQA Financial Policies and Procedures Manuals need to be updated and brought into line with revised Treasury Instructions, including new part K.
 
 Education Sector Plan (July 2013 - June 2018)
 
@@ -4047,17 +3814,17 @@ Education Sector Plan (July 2013 - June 2018)
 
 ## Other PFM and Procurement Risks
 --- | --- | ---
-9. Lack of skills and expertise in procurement. Procurement is regarded as a clerical function rather than as a profession | Inefficient procurement, poor value for money procurement, and failure to comply with regulatory requirements and good procurement practice | MoF Procurement Division to work with NUS or USP to develop a co to help professionalise procurement across GoS
-10. SSFGS Operations Manual is not consistent with procurement legal framework | Gaps and weaknesses in existing manuals and procedures may result in inefficiencies, poor value for money, and risk of mis procurement | SSFGS Manual needs to be updated and brought into line w Instructions, including new part K.
-11. Fragmented procurement record. NO database of annual procurement statistics in the 3 IAs | Fragmented procurement records and lack of centralised database in each IA results in poor management oversight of procurement. | Introduce a centralized filing/ record keeping system within eac history of all records in chronological order specific to a particular set up appropriate IA databases that can be consolidated into a s using existing, or by providing new software
-12. In NUS, individuals with authority to procure may also have authority to pay | This lack of separation of duties increases chance of undetected misappropriation | Ensure that individuals with authority to procure are separate from to pay in order to improve probity. NUS Policies and Procedures M
-13. MESC - Poor supply chain management of bulk supplies | Results in over ordering, poor warehousing contaminating goods, especially school stationery | MESC - Better warehousing facilities and software tools to manage
-14. NUS & SQA - financial reporting formats from commercial MYOB and Attaché accounting packages not suited to monitoring actual spending against budget | ESCD will not be able to consolidated reporting for the sector from 3 IAs for quarterly financial reports to EAC and DPs unless formats are consistent across all 3 IAs | NUS and SQA need to adapt their financial reporting to include act budget, by Output. Where ESSP funding is used to support im Programmes, this reporting must also separately identify ESSP fu each Output
-15. MESC ACEO Corporate Services Support Division not connected to Finance One | Head of Corporate Services not in a position to monitor budgets of Output Managers, or to check TY1s and TY11s to regularity and probity | MESC IT and MoF IT and MoF Application Support need to jointly and ensure ACEO is connected and has appropriate user access righ
-16. Internal Auditors in the 3 IAs not trained on new GoS procurement regulatory framework | Internal audit of procurements need be carried out against approved policies and procedures. If not understood by internal auditor, the audits will not be carried out or will not be effective | MoF Procurement Division to include all internal auditors in th programme for the revised procurement regulatory framework, bid etc
+9. Lack of skills and expertise in procurement. Procurement is regarded as a clerical function rather than as a profession | Inefficient procurement, poor value for money procurement, and failure to comply with regulatory requirements and good procurement practice | MoF Procurement Division to work with NUS or USP to develop a course on procurement to help professionalise procurement across GoS
+10. SSFGS Operations Manual is not consistent with procurement legal framework | Gaps and weaknesses in existing manuals and procedures may result in inefficiencies, poor value for money, and risk of mis procurement | SSFGS Manual needs to be updated and brought into line with revised Treasury Instructions, including new part K.
+11. Fragmented procurement record. NO database of annual procurement statistics in the 3 IAs | Fragmented procurement records and lack of centralised database in each IA results in poor management oversight of procurement. | Introduce a centralized filing/ record keeping system within each IA that contains a history of all records in chronological order specific to a particular contract package and set up appropriate IA databases that can be consolidated into a sector database either using existing, or by providing new software
+12. In NUS, individuals with authority to procure may also have authority to pay | This lack of separation of duties increases chance of undetected misappropriation | Ensure that individuals with authority to procure are separate from those with authority to pay in order to improve probity. NUS Policies and Procedures Manual to require this
+13. MESC - Poor supply chain management of bulk supplies | Results in over ordering, poor warehousing contaminating goods, especially school stationery | MESC - Better warehousing facilities and software tools to manage inventories
+14. NUS & SQA - financial reporting formats from commercial MYOB and Attaché accounting packages not suited to monitoring actual spending against budget | ESCD will not be able to consolidated reporting for the sector from 3 IAs for quarterly financial reports to EAC and DPs unless formats are consistent across all 3 IAs | NUS and SQA need to adapt their financial reporting to include actual spending against budget, by Output. Where ESSP funding is used to support implementation of ESP Programmes, this reporting must also separately identify ESSP funded spending within each Output
+15. MESC ACEO Corporate Services Support Division not connected to Finance One | Head of Corporate Services not in a position to monitor budgets of Output Managers, or to check TY1s and TY11s to regularity and probity | MESC IT and MoF IT and MoF Application Support need to jointly resolve this problem and ensure ACEO is connected and has appropriate user access rights to Finance One.
+16. Internal Auditors in the 3 IAs not trained on new GoS procurement regulatory framework | Internal audit of procurements need be carried out against approved policies and procedures. If not understood by internal auditor, the audits will not be carried out or will not be effective | MoF Procurement Division to include all internal auditors in their proposed training programme for the revised procurement regulatory framework, bidding documents, RFQ etc
 ## Short Term
-17. Effective implementation of the ESP Monitoring and Management Frameworks | Gaps in planning and implementation of MTEF process. | Government agencies to: 1. ensure consistent representations on ESAC and working committ 2. ensure that these committees have clear Terms of References. 3. incorporate MTEF work into current work commitments given se 4. ensure commitments to broader MTEF training and capacity stre
-18. Securing sustainable financing modalities | Delay in mobilisation of budget support and phasing out of key development projects such as ESP II and Schoolnet will impact on the predictability of funding to the sector. | Government to reconfirm availability of resources from both development budget over the next four years
+17. Effective implementation of the ESP Monitoring and Management Frameworks | Gaps in planning and implementation of MTEF process. | Government agencies to: 1. ensure consistent representations on ESAC and working committees. 2. ensure that these committees have clear Terms of References. 3. incorporate MTEF work into current work commitments given sector benefits. 4. ensure commitments to broader MTEF training and capacity strengthening coverage.
+18. Securing sustainable financing modalities | Delay in mobilisation of budget support and phasing out of key development projects such as ESP II and Schoolnet will impact on the predictability of funding to the sector. | Government to reconfirm availability of resources from both the recurrent and development budget over the next four years
 
 Education Sector Plan (July 2013 - June 2018)
 
