@@ -1,5 +1,11 @@
 [[START OF PAGE 1]]
 
+Biblioteca
+DIGITAL
+CÂMARA
+
+CÂMARA DOS DEPUTADOS
+
 Biblioteca Digital da Câmara dos Deputados
 
 Centro de Documentação e Informação
@@ -14,14 +20,14 @@ http://bd.camara.gov.br
 
 [[START OF PAGE 2]]
 
+3rd Edition
+2010
+
 CHAMBER OF DEPUTIES
 
 Constitutional text of October 5, 1988, with the alterations introduced by Constitutional Amendments No. 1/1992 through 64/2010 and by Revision Constitutional Amendments No. 1/1994 through 6/1994.
 
 # CONSTITUTION of the Federative Republic of Brazil
-
-3rd Edition
-2010
 
 [[END OF PAGE 2]]
 
@@ -77,11 +83,9 @@ Chamber of Deputies
 
 3rd edition
 
-Constitutional text of October 5, 1988, with the alterations introduced by Constitutional Amendments No. 1/1992 through 64/2010 and by Revision Constitutional Amendments No. 1/1994 through 6/1994.
+Constitutional text of October 5, 1988, with the alterations introduced by  Constitutional Amendments  No.  1/1992  through  64/2010  and  by Revision Constitutional Amendments No. 1/1994 through 6/1994.
 
-Documentation and Information Center
-Publishing Coordination
-Brasília – 2010
+Documentation and Information Center Publishing Coordination Brasília - 2010
 
 [[END OF PAGE 5]]
 
@@ -141,188 +145,189 @@ Preamble .......................................................................
 Title I – Fundamental Principles (Arts. 1 through 4) ........................................ 13
 Title II – Fundamental Rights and Guarantees ............................................... 15
 Chapter I – Individual and Collective Rights and Duties (Art. 5) ........................ 15
-Chapter II – Social Rights (Arts. 6 through 11)..................................................... 21
-Chapter III – Nationality (Arts. 12 and 13)............................................................ 24
-Chapter IV – Political Rights (Arts. 14 through 16).............................................. 25
-Chapter V – Political Parties (Art. 17)................................................................... 27
+Chapter II – Social Rights (Arts. 6 through 11) .................................................... 21
+Chapter III – Nationality (Arts. 12 and 13) ........................................................... 24
+Chapter IV – Political Rights (Arts. 14 through 16) ............................................. 25
+Chapter V – Political Parties (Art. 17) .................................................................. 27
 Title III – The Organization of the State ........................................................... 29
 Chapter I – The Political and Administrative Organization (Arts. 18 and 19) ..... 29
 Chapter II – The Union (Arts. 20 through 24) ...................................................... 29
 Chapter III – The Federated States (Arts. 25 through 28) ..................................... 35
 Chapter IV – The Municipalities (Arts. 29 through 31) ........................................ 36
-Chapter V – The Federal District and the Territories............................................. 41
+Chapter V – The Federal District and the Territories ............................................ 41
 Section I – The Federal District (Art. 32) ........................................................... 41
 Section II – The Territories (Art. 33) .................................................................. 41
-Chapter VI – Intervention (Arts. 34 through 36)................................................... 41
-Chapter VII – Public Administration ..................................................................... 43
-Section I – General Provisions (Arts. 37 and 38)................................................ 43
+Chapter VI – Intervention (Arts. 34 through 36) ................................................... 41
+Chapter VII – Public Administration .................................................................... 43
+Section I – General Provisions (Arts. 37 and 38) ................................................ 43
 Section II – Government Employees (Arts. 39 through 41) ............................... 47
 Section III – The Military of the States, of the Federal District and of the Territories (Art. 42) ..................................................................... 51
-Section IV – The Regions (Art. 43) ................................................................... 51
-Title IV – The Organization of the Powers........................................................ 53
+Section IV – The Regions (Art. 43) .................................................................... 51
+Title IV – The Organization of the Powers ........................................................ 53
 Chapter I – The Legislative Power ........................................................................ 53
-Section I – The National Congress (Arts. 44 through 47).................................. 53
-Section II – Powers of the National Congress (Arts. 48 through 50)................. 53
-Section III – The Chamber of Deputies (Art. 51)............................................... 55
+Section I – The National Congress (Arts. 44 through 47) .................................. 53
+Section II – Powers of the National Congress (Arts. 48 through 50) ................. 53
+Section III – The Chamber of Deputies (Art. 51) ............................................... 55
 Section IV – The Federal Senate (Art. 52) ......................................................... 56
-Section V – Deputies and Senators (Arts. 53 through 56).................................. 57
+Section V – Deputies and Senators (Arts. 53 through 56) .................................. 57
 Section VI – The Sessions (Art. 57) ................................................................... 59
 Section VII – The Committees (Art. 58) ............................................................ 60
 Section VIII – The Legislative Process .............................................................. 61
-Subsection I – General Provision (Art. 59)...................................................... 61
-Subsection II – Amendments to the Constitution (Art. 60).............................. 62
-Subsection III – The Laws (Arts. 61 through 69)............................................. 62
+Subsection I – General Provision (Art. 59) ...................................................... 61
+Subsection II – Amendments to the Constitution (Art. 60) .............................. 62
+Subsection III – The Laws (Arts. 61 through 69) ............................................. 62
 Section IX – Accounting, Financial and Budgetary Control (Arts. 70 through 75) .................................................................................... 66
-Chapter II – The Executive Power......................................................................... 69
+Chapter II – The Executive Power ......................................................................... 69
 Section I – The President and the Vice-President of the Republic (Arts. 76 through 83) .................................................................................... 69
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Section II – Duties of the President of the Republic (Art. 84)............................. 70
-Section III – Liability of the President of the Republic (Arts. 85 and 86)........... 72
-Section IV – The Ministers of State (Arts. 87 and 88)......................................... 73
+Section II – Duties of the President of the Republic (Art. 84) ............................ 70
+Section III – Liability of the President of the Republic (Arts. 85 and 86) .......... 72
+Section IV – The Ministers of State (Arts. 87 and 88) ........................................ 73
 Section V – The Council of the Republic and the National Defense Council ........................................................................ 73
-Subsection I – The Council of the Republic (Arts. 89 and 90).......................... 73
-Subsection II – The National Defense Council (Art. 91) .................................. 74
-Chapter III – The Judicial Power............................................................................ 75
-Section I – General Provisions (Arts. 92 through 100)........................................ 75
-Section II – The Supreme Federal Court (Arts. 101 through 103-B)................... 81
-Section III – The Superior Court of Justice (Arts. 104 and 105)......................... 86
-Section IV – The Federal Regional Courts and the Federal Judges (Arts. 106 through 110).................................................................................. 88
-Section V – Labour Courts and Judges (Arts. 111 through 117).......................... 91
-Section VI – Electoral Courts and Judges (Arts. 118 through 121)..................... 93
-Section VII – Military Courts and Judges (Arts. 122 through 124)..................... 94
-Section VIII – Courts and Judges of the States (Arts. 125 and 126) ................... 95
-Chapter IV – The Functions Essential to Justice .................................................... 96
-Section I – The Public Prosecution (Arts. 127 through 130-A)........................... 96
-Section II – The Public Advocacy (Arts. 131 and 132) ..................................... 100
-Section III – The Legal Profession and the Public Legal Defense (Arts. 133 through 135)................................................................................ 101
+Subsection I – The Council of the Republic (Arts. 89 and 90) ......................... 73
+Subsection II – The National Defense Council (Art. 91) ................................. 74
+Chapter III – The Judicial Power ........................................................................... 75
+Section I – General Provisions (Arts. 92 through 100) ....................................... 75
+Section II – The Supreme Federal Court (Arts. 101 through 103-B) .................. 81
+Section III – The Superior Court of Justice (Arts. 104 and 105) ........................ 86
+Section IV – The Federal Regional Courts and the Federal Judges (Arts. 106 through 110) ................................................................................. 88
+Section V – Labour Courts and Judges (Arts. 111 through 117) ........................ 91
+Section VI – Electoral Courts and Judges (Arts. 118 through 121) .................... 93
+Section VII – Military Courts and Judges (Arts. 122 through 124) .................... 94
+Section VIII – Courts and Judges of the States (Arts. 125 and 126) .................. 95
+Chapter IV – The Functions Essential to Justice ................................................... 96
+Section I – The Public Prosecution (Arts. 127 through 130-A) .......................... 96
+Section II – The Public Advocacy (Arts. 131 and 132) .................................... 100
+Section III – The Legal Profession and the Public Legal Defense (Arts. 133 through 135) ............................................................................... 101
 Title V – The Defense of the State and of the Democratic Institutions ......... 103
-Chapter I – The State of Defense and the State of Siege ...................................... 103
-Section I – The State of Defense (Art. 136)....................................................... 103
-Section II – The State of Siege (Arts. 137 through 139).................................... 104
-Section III – General Provisions (Arts. 140 and 141)........................................ 105
-Chapter II – The Armed Forces (Arts. 142 and 143)............................................ 105
-Chapter III – Public Security (Art. 144) ............................................................... 106
-Title VI – Taxation and Budget.......................................................................... 109
-Chapter I – The National Tax System................................................................... 109
-Section I – General Principles (Arts. 145 through 149-A)................................. 109
-Section II – Limitations on the Power to Tax (Arts. 150 through 152).............. 111
-Section III – Federal Taxes (Arts. 153 and 154) ................................................ 113
-Section IV – State and Federal District Taxes (Art. 155)................................... 114
-Section V – Municipal Taxes (Art. 156) ............................................................ 117
-Section VI – Tax Revenue Sharing (Arts. 157 through 162) ............................. 118
-Chapter II – Public Finances................................................................................. 120
-Section I – General Rules (Arts. 163 and 164) .................................................. 120
-Section II – Budgets (Arts. 165 through 169).................................................... 121
+Chapter I – The State of Defense and the State of Siege ..................................... 103
+Section I – The State of Defense (Art. 136) ...................................................... 103
+Section II – The State of Siege (Arts. 137 through 139) ................................... 104
+Section III – General Provisions (Arts. 140 and 141) ....................................... 105
+Chapter II – The Armed Forces (Arts. 142 and 143) ........................................... 105
+Chapter III – Public Security (Art. 144) .............................................................. 106
+Title VI – Taxation and Budget ......................................................................... 109
+Chapter I – The National Tax System .................................................................. 109
+Section I – General Principles (Arts. 145 through 149-A) ................................ 109
+Section II – Limitations on the Power to Tax (Arts. 150 through 152) ............. 111
+Section III – Federal Taxes (Arts. 153 and 154) ............................................... 113
+Section IV – State and Federal District Taxes (Art. 155) .................................. 114
+Section V – Municipal Taxes (Art. 156) ........................................................... 117
+Section VI – Tax Revenue Sharing (Arts. 157 through 162) ............................ 118
+Chapter II – Public Finances ................................................................................ 120
+Section I – General Rules (Arts. 163 and 164) ................................................. 120
+Section II – Budgets (Arts. 165 through 169) ................................................... 121
 Title VII – The Economic and Financial Order .............................................. 127
-Chapter I – The General Principles of the Economic Activity (Arts. 170 through 181).................................................................................. 127
-Chapter II – Urban Policy (Arts. 182 and 183) .................................................... 131
-Chapter III – Agricultural and Land Policy and Agrarian Reform (Arts. 184 through 191).................................................................................. 131
-Chapter IV – The National Financial System (Art. 192)...................................... 133
+Chapter I – The General Principles of the Economic Activity (Arts. 170 through 181) .................................................................................. 127
+Chapter II – Urban Policy (Arts. 182 and 183) ................................................... 131
+Chapter III – Agricultural and Land Policy and Agrarian Reform (Arts. 184 through 191) .................................................................................. 131
+Chapter IV – The National Financial System (Art. 192) ..................................... 133
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Title VIII – The Social Order............................................................................. 135
-Chapter I – General Provision (Art. 193).............................................................. 135
-Chapter II – Social Welfare................................................................................... 135
-Section I – General Provisions (Arts. 194 and 195).......................................... 135
-Section II – Health (Arts. 196 through 200)...................................................... 137
-Section III – Social Security (Arts. 201 and 202).............................................. 139
-Section IV – Social Assistance (Arts. 203 and 204).......................................... 141
-Chapter III – Education, Culture and Sports......................................................... 142
-Section I – Education (Arts. 205 through 214).................................................. 142
-Section II – Culture (Arts. 215 and 216) ........................................................... 145
-Section III – Sports (Art. 217)........................................................................... 147
-Chapter IV – Science and Technology (Arts. 218 and 219) ................................. 147
-Chapter V – Social Communication (Arts. 220 through 224) .............................. 148
-Chapter VI – Environment (Art. 225)................................................................... 150
-Chapter VII – Family, Children, Adolescents and the Elderly (Arts. 226 through 230).................................................................................. 151
-Chapter VIII – Indians (Arts. 231 and 232).......................................................... 152
-Title IX – General Constitutional Provisions (Arts. 233 through 250) ............ 155
-Temporary Constitutional Provisions Act (Arts. 1 through 97) ....................... 163
+Title VIII – The Social Order ............................................................................ 135
+Chapter I – General Provision (Art. 193) ............................................................. 135
+Chapter II – Social Welfare .................................................................................. 135
+Section I – General Provisions (Arts. 194 and 195) ......................................... 135
+Section II – Health (Arts. 196 through 200) ..................................................... 137
+Section III – Social Security (Arts. 201 and 202) ............................................. 139
+Section IV – Social Assistance (Arts. 203 and 204) ......................................... 141
+Chapter III – Education, Culture and Sports ........................................................ 142
+Section I – Education (Arts. 205 through 214) ................................................. 142
+Section II – Culture (Arts. 215 and 216) .......................................................... 145
+Section III – Sports (Art. 217) .......................................................................... 147
+Chapter IV – Science and Technology (Arts. 218 and 219) ................................ 147
+Chapter V – Social Communication (Arts. 220 through 224) ............................. 148
+Chapter VI – Environment (Art. 225) .................................................................. 150
+Chapter VII – Family, Children, Adolescents and the Elderly (Arts. 226 through 230) .................................................................................. 151
+Chapter VIII – Indians (Arts. 231 and 232) ......................................................... 152
+Title IX – General Constitutional Provisions (Arts. 233 through 250) ........... 155
+Temporary Constitutional Provisions Act (Arts. 1 through 97) ...................... 163
 Constitutional Amendments
-Constitutional Amendment No. 1, 1992 ............................................................... 205
-Constitutional Amendment No. 2, 1992 ............................................................... 207
-Constitutional Amendment No. 3, 1993 ............................................................... 208
-Constitutional Amendment No. 4, 1993 ............................................................... 212
-Constitutional Amendment No. 5, 1995 ............................................................... 213
-Constitutional Amendment No. 6, 1995 ............................................................... 214
-Constitutional Amendment No. 7, 1995 ............................................................... 216
-Constitutional Amendment No. 8, 1995 ............................................................... 217
-Constitutional Amendment No. 9, 1995 ............................................................... 218
-Constitutional Amendment No. 10, 1996 ............................................................. 220
-Constitutional Amendment No. 11, 1996.............................................................. 223
-Constitutional Amendment No. 12, 1996 ............................................................. 224
-Constitutional Amendment No. 13, 1996 ............................................................. 225
-Constitutional Amendment No. 14, 1996 ............................................................. 226
-Constitutional Amendment No. 15, 1996 ............................................................. 229
-Constitutional Amendment No. 16, 1997 ............................................................. 230
-Constitutional Amendment No. 17, 1997 ............................................................. 232
-Constitutional Amendment No. 18, 1998 ............................................................. 234
-Constitutional Amendment No. 19, 1998 ............................................................. 237
-Constitutional Amendment No. 20, 1998 ............................................................. 252
-Constitutional Amendment No. 21, 1999 ............................................................. 264
-Constitutional Amendment No. 22, 1999 ............................................................. 266
-Constitutional Amendment No. 23, 1999 ............................................................. 268
-Constitutional Amendment No. 24, 1999 ............................................................. 270
-Constitutional Amendment No. 25, 2000 ............................................................. 272
-Constitutional Amendment No. 26, 2000 ............................................................. 275
-Constitutional Amendment No. 27, 2000 ............................................................. 276
+Constitutional Amendment No. 1, 1992 .............................................................. 205
+Constitutional Amendment No. 2, 1992 .............................................................. 207
+Constitutional Amendment No. 3, 1993 .............................................................. 208
+Constitutional Amendment No. 4, 1993 .............................................................. 212
+Constitutional Amendment No. 5, 1995 .............................................................. 213
+Constitutional Amendment No. 6, 1995 .............................................................. 214
+Constitutional Amendment No. 7, 1995 .............................................................. 216
+Constitutional Amendment No. 8, 1995 .............................................................. 217
+Constitutional Amendment No. 9, 1995 .............................................................. 218
+Constitutional Amendment No. 10, 1996 ............................................................ 220
+Constitutional Amendment No. 11, 1996 ............................................................ 223
+Constitutional Amendment No. 12, 1996 ............................................................ 224
+Constitutional Amendment No. 13, 1996 ............................................................ 225
+Constitutional Amendment No. 14, 1996 ............................................................ 226
+Constitutional Amendment No. 15, 1996 ............................................................ 229
+Constitutional Amendment No. 16, 1997 ............................................................ 230
+Constitutional Amendment No. 17, 1997 ............................................................ 232
+Constitutional Amendment No. 18, 1998 ............................................................ 234
+Constitutional Amendment No. 19, 1998 ............................................................ 237
+Constitutional Amendment No. 20, 1998 ............................................................ 252
+Constitutional Amendment No. 21, 1999 ............................................................ 264
+Constitutional Amendment No. 22, 1999 ............................................................ 266
+Constitutional Amendment No. 23, 1999 ............................................................ 268
+Constitutional Amendment No. 24, 1999 ............................................................ 270
+Constitutional Amendment No. 25, 2000 ............................................................ 272
+Constitutional Amendment No. 26, 2000 ............................................................ 275
+Constitutional Amendment No. 27, 2000 ............................................................ 276
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 Constitutional Amendment No. 28, 2000 ............................................................ 277
-Constitutional Amendment No. 29, 2000 ............................................................. 278
-Constitutional Amendment No. 30, 2000 ............................................................. 282
-Constitutional Amendment No. 31, 2000 ............................................................. 285
-Constitutional Amendment No. 32, 2001 ............................................................. 288
-Constitutional Amendment No. 33, 2001 ............................................................. 292
+Constitutional Amendment No. 29, 2000 ............................................................ 278
+Constitutional Amendment No. 30, 2000 ............................................................ 282
+Constitutional Amendment No. 31, 2000 ............................................................ 285
+Constitutional Amendment No. 32, 2001 ............................................................ 288
+Constitutional Amendment No. 33, 2001 ............................................................ 292
 Constitutional Amendment No. 34, 2001 ............................................................ 296
-Constitutional Amendment No. 35, 2001 ............................................................. 297
-Constitutional Amendment No. 36, 2002 ............................................................. 299
-Constitutional Amendment No. 37, 2002 ............................................................. 301
-Constitutional Amendment No. 38, 2002 ............................................................. 305
-Constitutional Amendment No. 39, 2002 ............................................................. 306
-Constitutional Amendment No. 40, 2003 ............................................................. 307
-Constitutional Amendment No. 41, 2003 ............................................................. 309
-Constitutional Amendment No. 42, 2003 ............................................................. 317
-Constitutional Amendment No. 43, 2004 ............................................................. 325
-Constitutional Amendment No. 44, 2004 ............................................................. 326
-Constitutional Amendment No. 45, 2004 ............................................................. 327
-Constitutional Amendment No. 46, 2005 ............................................................. 344
-Constitutional Amendment No. 47, 2005 ............................................................. 345
-Constitutional Amendment No. 48, 2005 ............................................................. 348
-Constitutional Amendment No. 49, 2006 ............................................................. 349
-Constitutional Amendment No. 50, 2006 ............................................................. 351
-Constitutional Amendment No. 51, 2006 ............................................................. 353
-Constitutional Amendment No. 52, 2006 ............................................................. 355
-Constitutional Amendment No. 53, 2006 ............................................................. 356
-Constitutional Amendment No. 54, 2007 ............................................................. 362
-Constitutional Amendment No. 55, 2007 ............................................................. 364
-Constitutional Amendment No. 56, 2007 ............................................................. 365
-Constitutional Amendment No. 57, 2008 ............................................................. 366
-Constitutional Amendment No. 58, 2009 ............................................................. 367
-Constitutional Amendment No. 59, 2009 ............................................................. 371
-Constitutional Amendment No. 60, 2009 ............................................................. 374
-Constitutional Amendment No. 61, 2009 ............................................................. 376
-Constitutional Amendment No. 62, 2009 ............................................................. 377
-Constitutional Amendment No. 63, 2010 ............................................................. 386
-Constitutional Amendment No. 64, 2010 ............................................................. 387
+Constitutional Amendment No. 35, 2001 ............................................................ 297
+Constitutional Amendment No. 36, 2002 ............................................................ 299
+Constitutional Amendment No. 37, 2002 ............................................................ 301
+Constitutional Amendment No. 38, 2002 ............................................................ 305
+Constitutional Amendment No. 39, 2002 ............................................................ 306
+Constitutional Amendment No. 40, 2003 ............................................................ 307
+Constitutional Amendment No. 41, 2003 ............................................................ 309
+Constitutional Amendment No. 42, 2003 ............................................................ 317
+Constitutional Amendment No. 43, 2004 ............................................................ 325
+Constitutional Amendment No. 44, 2004 ............................................................ 326
+Constitutional Amendment No. 45, 2004 ............................................................ 327
+Constitutional Amendment No. 46, 2005 ............................................................ 344
+Constitutional Amendment No. 47, 2005 ............................................................ 345
+Constitutional Amendment No. 48, 2005 ............................................................ 348
+Constitutional Amendment No. 49, 2006 ............................................................ 349
+Constitutional Amendment No. 50, 2006 ............................................................ 351
+Constitutional Amendment No. 51, 2006 ............................................................ 353
+Constitutional Amendment No. 52, 2006 ............................................................ 355
+Constitutional Amendment No. 53, 2006 ............................................................ 356
+Constitutional Amendment No. 54, 2007 ............................................................ 362
+Constitutional Amendment No. 55, 2007 ............................................................ 364
+Constitutional Amendment No. 56, 2007 ............................................................ 365
+Constitutional Amendment No. 57, 2008 ............................................................ 366
+Constitutional Amendment No. 58, 2009 ............................................................ 367
+Constitutional Amendment No. 59, 2009 ............................................................ 371
+Constitutional Amendment No. 60, 2009 ............................................................ 374
+Constitutional Amendment No. 61, 2009 ............................................................ 376
+Constitutional Amendment No. 62, 2009 ............................................................ 377
+Constitutional Amendment No. 63, 2010 ............................................................ 386
+Constitutional Amendment No. 64, 2010 ............................................................ 387
 International Acts Equivalent to Constitutional Amendments
-Legislative Decree No. 186, 2008......................................................................... 391
+Legislative Decree No. 186, 2008 ........................................................................ 391
 Revision Constitutional Amendments
-Revision Constitutional Amendment No. 1, 1994 ................................................ 427
-Revision Constitutional Amendment No. 2, 1994 ................................................ 430
-Revision Constitutional Amendment No. 3, 1994 ................................................ 431
-Revision Constitutional Amendment No. 4, 1994 ................................................ 433
-Revision Constitutional Amendment No. 5, 1994 ................................................ 434
-Revision Constitutional Amendment No. 6, 1994 ................................................ 435
+Revision Constitutional Amendment No. 1, 1994 ............................................... 427
+Revision Constitutional Amendment No. 2, 1994 ............................................... 430
+Revision Constitutional Amendment No. 3, 1994 ............................................... 431
+Revision Constitutional Amendment No. 4, 1994 ............................................... 433
+Revision Constitutional Amendment No. 5, 1994 ............................................... 434
+Revision Constitutional Amendment No. 6, 1994 ............................................... 435
 
 [[END OF PAGE 10]]
 
@@ -523,7 +528,7 @@ XXXVI - the law shall not injure the vested right, the perfect juridical act and
 
 XXXVII - there shall be no exceptional tribunal or court;
 
-XXXVIII - the institution of the jury is recognized, according to the organization which the law shall establish, and the following are ensured:
+XXXVIII - the institution  of  the  jury  is  recognized,  according  to  the organization which the law shall establish, and the following are ensured:
 
 a) full defense;
 
@@ -581,11 +586,11 @@ e) which is cruel;
 
 XLVIII - the sentence shall be served in separate establishments, according to the nature of the offense, the age and the sex of the convict;
 
-XLIX - prisoners are ensured of respect to their physical and moral integrity;
+- XLIX - prisoners are ensured of respect to their physical and moral integrity;
 
-L - female prisoners shall be ensured of adequate conditions to stay with their children during the nursing period;
+- L - female prisoners shall be ensured of adequate conditions to stay with their children during the nursing period;
 
-LI - no Brazilian shall be extradited, except the naturalized ones in the case of a common crime committed before naturalization, or in the case there is sufficient evidence of participation in the illicit traffic of narcotics and related drugs, under the terms of the law;
+- LI - no Brazilian shall be extradited, except the naturalized ones in the case of a common crime committed before naturalization, or in the case there is sufficient evidence of participation in the illicit traffic of narcotics and related drugs, under the terms of the law;
 
 LII - extradiction of a foreigner on the basis of political or ideological crime shall not be granted;
 
@@ -675,7 +680,7 @@ Paragraph 2. The rights and guarantees expressed in this Constitution do not exc
 
 Paragraph 3. International human rights treaties and conventions which are approved in each House of the National Congress, in two rounds of voting, by three fifths of the votes of the respective members shall be equivalent to constitutional amendments.1
 
-1 See International Acts equivalent to Constitutional Amendments.
+> 1 See International Acts equivalent to Constitutional Amendments.
 
 20
 
@@ -759,7 +764,7 @@ XXVII - protection on account of automation, as established by law;
 
 XXVIII - occupational accident insurance, to be paid for by the employer, without excluding the employer's liability for indemnity in the event of malice or fault;
 
-XXIX - legal action, with respect to credits arising from employment relationships, with a limitation of five years for urban and rural workers, up to the limit of two years after the end of the employment contract;
+XXIX - legal action, with respect  to  credits  arising  from  employment relationships, with a limitation of five years for urban and rural workers, up to the limit of two years after the end of the employment contract;
 
 a) (revoked);
 
@@ -846,31 +851,31 @@ a) those who, as set forth by law, acquire Brazilian nationality, it being the o
 
 b) foreigners of any nationality, resident in the Federative Republic of Brazil for over fifteen uninterrupted years and without criminal conviction, provided that they apply for the Brazilian nationality.
 
-Paragraph 1. The rights inherent to Brazilians shall be attributed to Portuguese citizens with permanent residence in Brazil, if there is reciprocity in favour of Brazilians, except in the cases stated in this Constitution.
+- Paragraph 1.  The rights inherent to Brazilians shall be attributed to Portuguese citizens  with  permanent  residence  in  Brazil,  if  there  is  reciprocity  in  favour  of Brazilians, except in the cases stated in this Constitution.
 
-Paragraph 2. The law may not establish any distinction between born and naturalized Brazilians, except in the cases stated in this Constitution.
+- Paragraph 2.  The  law  may  not  establish  any  distinction  between  born  and naturalized Brazilians, except in the cases stated in this Constitution.
 
-Paragraph 3. The following offices are exclusive for born Brazilians:
+- Paragraph 3.  The following offices are exclusive for born Brazilians:
 
-I - those of President and Vice-President of the Republic;
+- I - those of President and Vice-President of the Republic;
 
-II - that of President of the Chamber of Deputies;
+- II - that of President of the Chamber of Deputies;
 
-III - that of President of the Federal Senate;
+- III - that of President of the Federal Senate;
 
-IV - that of Justice of the Supreme Federal Court;
+- IV - that of Justice of the Supreme Federal Court;
 
-V - those of the diplomatic career;
+- V - those of the diplomatic career;
 
-VI - that of officer of the Armed Forces;
+- VI - that of officer of the Armed Forces;
 
-VII - that of Minister of Defense.
+- VII - that of Minister of Defense.
 
-Paragraph 4. Loss of nationality shall be declared for a Brazilian who:
+- Paragraph 4.  Loss of nationality shall be declared for a Brazilian who:
 
-I - has his naturalization cancelled by court decision on account of an activity harmful to the national interests;
+- I - has his naturalization cancelled by court decision on account of an activity harmful to the national interests;
 
-II - acquires another nationality, save in the cases:
+- II - acquires another nationality, save in the cases:
 
 a) of recognition of the original nationality by the foreign law;
 
@@ -884,29 +889,29 @@ Constitution of the Federative Republic of Brazil
 
 b) of imposition of naturalization, under the foreign rules, to the Brazilian resident in a foreign State, as a condition for permanence in its territory, or for the exercise of civil rights.
 
-##### Article 13.
-Portuguese is the official language of the Federative Republic of Brazil.
+##### Article  13.
+Portuguese is the official  language  of  the  Federative  Republic  of Brazil.
 
-Paragraph 1. The national flag, anthem, coat of arms and seal are the symbols of the Federative Republic of Brazil.
+- Paragraph 1.  The national flag, anthem, coat of arms and seal are the symbols of the Federative Republic of Brazil.
 
-Paragraph 2. The states, the Federal District and the municipalities may have symbols of their own.
+- Paragraph 2.  The states, the Federal District and the municipalities may have symbols of their own.
 
 ### CHAPTER IV Political Rights
 
 ##### Article 14.
 The sovereignty of the people shall be exercised by universal suffrage and by the direct and secret voting, with equal value for all, and, according to the law, by means of: (RCA No. 4, 1993; CA No. 16, 1997)
 
-I - plebiscite;
+- I - plebiscite;
 
-II - referendum;
+- II - referendum;
 
-III - people’s initiative.
+- III - people's initiative.
 
-Paragraph 1. Electoral enrollment and voting are:
+- Paragraph 1.  Electoral enrollment and voting are:
 
-I - mandatory for persons over eighteen years of age;
+- I - mandatory for persons over eighteen years of age;
 
-II - optional for:
+- II - optional for:
 
 a) the illiterate;
 
@@ -914,21 +919,21 @@ b) those over seventy years of age;
 
 c) those over sixteen and under eighteen years of age.
 
-Paragraph 2. Foreigners cannot register as voters and neither can conscripts during their period of compulsory military service;
+- Paragraph 2.  Foreigners cannot register as voters and neither can conscripts during their period of compulsory military service;
 
-Paragraph 3. The conditions for eligibility, according to the law, are:
+- Paragraph 3.  The conditions for eligibility, according to the law, are:
 
-I - the Brazilian nationality;
+- I - the Brazilian nationality;
 
-II - the full exercise of the political rights;
+- II - the full exercise of the political rights;
 
-III - the electoral enrollment;
+- III - the electoral enrollment;
 
-IV - the electoral domicile in the electoral district;
+- IV - the electoral domicile in the electoral district;
 
-V - the membership in a political party;
+- V - the membership in a political party;
 
-VI - the minimum age of:
+- VI - the minimum age of:
 
 a) thirty-five years for President and Vice-President of the Republic and Senator;
 
@@ -1115,7 +1120,7 @@ X - maintain the postal service and the national air mail;
 
 XI - operate, directly or through authorization, concession or permission, the telecommunications services, as set forth by law, which law shall provide for the organization of the services, the establishment of a regulatory agency and other institutional issues;
 
-XII - operate, directly or through authorization, concession or permission:
+- XII - operate, directly or through authorization, concession or permission:
 
 a) the services of sound broadcasting and of sound and image broadcasting;
 
@@ -1167,9 +1172,9 @@ c) under a permission, authorization is granted for the production, sale, and us
 
 d) civil liability for nuclear damages does not depend on the existence of fault;
 
-XXIV - organize, maintain and carry out inspection of working conditions;
+- XXIV - organize, maintain and carry out inspection of working conditions;
 
-XXV - establish the areas and conditions for the exercise of placer mining activities in associative form.
+- XXV - establish the areas and conditions for the exercise of placer mining activities in associative form.
 
 ##### Article 22.
 The Union has the exclusive power to legislate on: (CA No. 19, 1998)
@@ -1389,7 +1394,7 @@ I - election of the Mayor, Vice-Mayor and Councilmen for a term of office of fou
 
 - III  -  investiture  of  the  Mayor  and  Vice-Mayor  on  January  1  of  the  year subsequent to the year of the election;
 
-IV - the following limits shall apply to the composition of Municipal Chambers:
+- IV  -  the  following  limits  shall  apply  to  the  composition  of  Municipal Chambers:
 
 a) 9 (nine) councilmen, in Municipalities with up to 15,000 (fifteen thousand) inhabitants;
 
@@ -1457,7 +1462,7 @@ x) 55 (fifty-five) councilmen, in Municipalities with over 8,000,000 (eight mill
 
 V - compensation of the Mayor, the Vice-Mayor, and the Local Cabinet Members established by an act of the Town Council, as provided by articles 37, XI, 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I;
 
-VI - the compensation of Local Councilmen shall be stipulated by their respective Town Councils in each legislative term for the subsequent one, with due regard for the provisions of this Constitution, in accordance with the criteria set forth in the respective Organic Law and the following maximum limits:
+- VI - the compensation of Local Councilmen shall be stipulated by their respective Town Councils in each legislative term for the subsequent one, with due regard for the provisions of this Constitution, in accordance with the criteria set forth in the respective Organic Law and the following maximum limits:
 
 a) In Municipalities having up to ten thousand inhabitants, the compensation of Local Councilmen shall correspond, at the most, to twenty percent of the compensation of State Deputies;
 
@@ -1611,23 +1616,23 @@ The Organization of the State
 
 [[START OF PAGE 41]]
 
-I - to maintain national integrity;
+- I - to maintain national integrity;
 
-II - to repel foreign invasion or that of one unit of the Federation into another;
+- II - to repel foreign invasion or that of one unit of the Federation into another;
 
-III - to put an end to serious jeopardy to public order;
+- III - to put an end to serious jeopardy to public order;
 
-IV - to guarantee the free exercise of any of the powers of the units of the Federation;
+- IV - to guarantee the free exercise of any of the powers of the units of the Federation;
 
-V - to reorganize the finances of a unit of the Federation that:
+- V - to reorganize the finances of a unit of the Federation that:
 
 a) stops the payment of its funded debt for more than two consecutive years, except for reasons of force majeure;
 
 b) fails to deliver to the municipalities the tax revenues established in this Constitution, within the periods of time set forth by law;
 
-VI - to provide for the enforcement of federal law, judicial order or decision;
+- VI - to provide for the enforcement of federal law, judicial order or decision;
 
-VII - to ensure compliance with the following constitutional principles:
+- VII - to ensure compliance with the following constitutional principles:
 
 a) republican form, representative system and democratic regime;
 
@@ -1639,23 +1644,21 @@ d) rendering of accounts of the direct and indirect public administration;
 
 e) the application of the minimum required amount of the revenues resulting from state taxes, including revenues originating from transfers, to the maintenance and development of education and to health actions and public services.
 
-##### Article 35.
-The state shall not intervene in its municipalities, neither the Union in the municipalities located in a federal territory, except when: (CA No. 29, 2000)
+- Article 35. The state shall not intervene in its municipalities, neither the Union in the municipalities located in a federal territory, except when: (CA No. 29, 2000)
 
-I - the funded debt is not paid for two consecutive years, without reasons of force majeure;
+- I - the funded debt is not paid for two consecutive years, without reasons of force majeure ;
 
-II - the due accounts are not rendered, in the manner prescribed by law;
+- II - the due accounts are not rendered, in the manner prescribed by law;
 
-III - the minimum required amount of the municipal revenues has not been applied to the maintenance and development of education and to health actions and public services;
+- III - the minimum required amount of the municipal revenues has not been applied to the maintenance and development of education and to health actions and public services;
 
-IV - the Court of Justice grants a petition to ensure observance of the principles indicated in the state Constitution or to provide for the enforcement of the law, judicial order or decision.
+- IV - the Court of Justice grants a petition to ensure observance of the principles indicated in the state Constitution or to provide for the enforcement of the law, judicial order or decision.
 
-##### Article 36.
-The issuance of a decree of intervention shall depend: (CA No. 45, 2004)
+- Article 36. The issuance of a decree of intervention shall depend: (CA No. 45, 2004)
 
 I - on a request from the coerced or impeded Legislative or Executive Power, or on a requisition from the Supreme Federal Court, if the coercion is exercised against the Judicial Power, in the case of article 34, IV;
 
-II - in case of disobedience to a judicial order or decision, on a requisition from the Supreme Federal Court, the Superior Court of Justice or the Superior Electoral Court;
+- II - in case of disobedience to a judicial order or decision, on a requisition from the Supreme Federal Court, the Superior Court of Justice or the Superior Electoral Court;
 
 42
 
@@ -1677,16 +1680,15 @@ Paragraph 3.  In the case of article 34, VI and VII, or article 35, IV, when the
 
 Paragraph 4.  Upon cessation of the reasons that caused the intervention, the authorities removed from their offices shall return to them, unless there is some legal impediment.
 
-### CHAPTER VII
+## CHAPTER VII
 
 Public Administration
 
-#### SECTION I
+### SECTION I
 
-General Provisions
+##### General Provisions
 
-##### Article 37.
-The governmental entities and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and also the following: (CA No. 19, 1998; CA No. 20, 1998; CA No. 41, 2003; CA No. 42, 2003; CA No. 47, 2005)
+Article 37. The governmental entities and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and also the following: (CA No. 19, 1998; CA No. 20, 1998; CA No. 41, 2003; CA No. 42, 2003; CA No. 47, 2005)
 
 I - public offices, positions and functions are accessible to all Brazilians who meet the requirements established by law, as well as to foreigners, under the terms of the law;
 
@@ -1796,7 +1798,7 @@ Paragraph 10.  Receiving retirement pensions arising from article 40 or from art
 
 Paragraph 11.  The compensatory amounts set forth in law shall not be computed for the purposes of the remuneration limits referred to in item XI of the head paragraph of this article.
 
-Paragraph 12.  For the purposes provided by item XI of the head paragraph of this article, the States and the Federal District may stipulate, within their own sphere, by means of an amendment to their respective Constitutions and Organic Law, as a single limit, the monthly compensation of the Judges of the respective State Court of Justice, limited to ninety and twenty-five hundredths percent of the monthly compensation of the Justices of the Supreme Federal Court, and the provision of this paragraph shall not be applied to the compensation of State and Federal District Deputies and of City Councilmen.
+Paragraph 12.  For the purposes provided by item XI of the head paragraph of this article, the States and the Federal District may stipulate, within their own sphere, by means of an amendment to their respective Constitutions and Organic Law, as a single limit, the monthly compensation of the Judges of the respective State Court of Justice, limited to ninety and twenty-five hundredths percent of the monthly compensation
 
 46
 
@@ -1806,8 +1808,9 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 46]]
 
-##### Article 38.
-The following provisions are applicable to public employees holding elective offices in a governmental entity, an associate government agency, and a foundation: (CA No. 19, 1998)
+of the Justices of the Supreme Federal Court, and the provision of this paragraph shall not be applied to the compensation of State and Federal District Deputies and of City Councilmen.
+
+Article 38. The following provisions are applicable to public employees holding elective  offices  in  a  governmental  entity,  an  associate  government  agency,  and  a foundation: (CA No. 19, 1998)
 
 I - in the case of a federal, state or district elective office, he shall leave his office, position or function;
 
@@ -1819,12 +1822,11 @@ IV - in any case requiring leave of absence for the exercise of an elective offi
 
 V - for purposes of social security benefits, in the case of leave of absence, the amounts shall be established as if he were in activity.
 
-#### SECTION II
+### SECTION II
 
 Government Employees (CA No. 18, 1998)
 
-##### Article 39.
-The Union, the States, the Federal District and the Municipalities shall institute a board of administration policy and personnel remuneration policy, composed of public employees appointed by the respective Branches. (CA No. 19, 1998)
+Article 39. The Union, the States, the Federal District and the Municipalities shall institute a board of administration policy and personnel remuneration policy, composed of public employees appointed by the respective Branches. (CA No. 19, 1998)
 
 Paragraph 1.  The stipulation  of  pay  levels  and  of  other  components  of  the remuneration system shall comply with:
 
@@ -1856,8 +1858,7 @@ Paragraph 7.  The legislation of the Union, the States, the Federal District, an
 
 Paragraph 8.  The remuneration of public employees organized in a career may be established under the terms of paragraph 4.
 
-##### Article 40.
-Employees holding effective posts in the Union, the States, the Federal District, and the Municipalities, therein included their associate government agencies and foundations, are ensured of a social security scheme on a contributory and solidary basis, with contributions from the respective public entity, from the current employees, retired personnel, and pensioners, with due regard for criteria that preserve financial and actuarial balance and for the provisions of this article. (CA No. 20, 1998; CA No. 41, 2003; CA No. 47, 2005)
+Article 40. Employees holding effective posts in the Union, the States, the Federal District, and the Municipalities, therein included their associate government agencies and foundations, are ensured of a social security scheme on a contributory and solidary basis, with contributions from the respective public entity, from the current employees, retired personnel, and pensioners, with due regard for criteria that preserve financial and actuarial balance and for the provisions of this article. (CA No. 20, 1998; CA No. 41, 2003; CA No. 47, 2005)
 
 Paragraph 1.  The employees covered by the social security scheme set forth in this article shall go into retirement, their pensions being calculated according to the amounts stipulated under the terms of paragraphs 3 and 17:
 
@@ -1891,7 +1892,7 @@ II - engaged in hazardous activities;
 
 III  -  engaged  in  activities  carried  out  under  special  conditions  which  are harmful to health or to physical wholeness.
 
-Paragraph 5.  The requirements concerning age and period of contribution will be reduced by five years, as regards the provision of paragraph 1, item III, letter a, for teachers who document exclusively a period of effective exercise of teaching functions in children education and in elementary and secondary education.
+Paragraph 5.  The requirements concerning age and period of contribution will be reduced by five years, as regards the provision of paragraph 1, item III, letter a , for teachers who document exclusively a period of effective exercise of teaching functions in children education and in elementary and secondary education.
 
 Paragraph 6.  With the exception of the cases of retirement from posts that can be accumulated under the terms of this Constitution, receiving more than one retirement pension charged to the social security scheme set forth in this article is forbidden.
 
@@ -1907,7 +1908,7 @@ Paragraph 9.  The period of contribution in a federal, state, or municipal post 
 
 Paragraph 10.  The law may not establish any method of computation of fictitious periods of contribution.
 
-Paragraph 11.  The limit set forth in article 37, XI, applies to the total amount of the retirement pension and other pensions, including those resulting from the accumulation of public posts or positions, as well as from other activities which must contribute to the general social security scheme, and to the amount resulting from the addition of pensions and the remuneration of a post which may be accumulated under the terms of this Constitution, a commission office declared by law as being of free appointment and discharge, and an elective office.
+Paragraph 11.  The limit set forth in article 37, XI, applies to the total amount of the retirement pension and other pensions, including those resulting from the accumulation of public posts or positions, as well as from other activities which must contribute to
 
 The Organization of the State
 
@@ -1916,6 +1917,8 @@ The Organization of the State
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+the general social security scheme, and to the amount resulting from the addition of pensions and the remuneration of a post which may be accumulated under the terms of this Constitution, a commission office declared by law as being of free appointment and discharge, and an elective office.
 
 Paragraph 12.  In addition to the provisions of this article, the social security scheme of government employees who hold effective posts shall comply, whenever appropriate, with the requirements and criteria stipulated for the general social security scheme.
 
@@ -1931,11 +1934,11 @@ Paragraph 17.  All remuneration amounts taken into account in the calculation of
 
 Paragraph 18.  A contribution shall be levied on retirement pensions and other pensions granted by the scheme referred to in this article if such pensions exceed the maximum limit established for the benefits of the general social security scheme mentioned in article 201, at a percentage equal to the one established for employees holding effective posts.
 
-Paragraph 19.  Employees referred to in this article who have fulfilled the requirements for voluntary retirement stipulated in paragraph 1, III, a, and who choose to remain working shall be entitled to a continuous activity bonus equivalent to the amount of their social security contribution until such date as they fulfill the requirements for compulsory retirement set forth in paragraph 1, II.
+Paragraph 19.  Employees referred to in  this  article  who  have  fulfilled  the requirements for voluntary retirement stipulated in paragraph 1,  III, a ,  and  who choose to remain working shall be entitled to a continuous activity bonus equivalent to the amount of their social security contribution until such date as they fulfill the requirements for compulsory retirement set forth in paragraph 1, II.
 
 Paragraph 20.  The establishment of more than one special social security scheme for  employees holding effective posts, and of more than one unit to manage the respective scheme in each state is forbidden, except for the provision of article 142, paragraph 3, X.
 
-Paragraph 21.  The contribution set forth in paragraph 18 of this article shall be levied only on the portions of retirement pensions and other pensions which exceed an amount equal to twice the maximum limit established for the benefits of the general social security scheme mentioned in article 201 of this Constitution, if the beneficiaries, under the terms of the law, suffer from incapacitating diseases.
+Paragraph 21.  The contribution set forth in paragraph 18 of this article shall be levied only on the portions of retirement pensions and other pensions which exceed an amount equal to twice the maximum limit established for the benefits of the general
 
 50
 
@@ -1945,8 +1948,9 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 50]]
 
-##### Article 41.
-Servants who, by virtue of public entrance examinations, are appointed to effective posts, acquire tenure after three years of actual service. (CA No. 19, 1998)
+social security scheme mentioned in article 201 of this Constitution, if the beneficiaries, under the terms of the law, suffer from incapacitating diseases.
+
+- Article 41. Servants who, by virtue of public entrance examinations, are appointed to effective posts, acquire tenure after three years of actual service. (CA No. 19, 1998)
 
 Paragraph 1.  A tenured public employee shall only lose his office:
 
@@ -1962,23 +1966,21 @@ Paragraph 1.  A tenured public employee shall only lose his office:
 
 - Paragraph 4.  As a requirement to acquire tenure, a special appraisal of performance by a committee created for this purpose is mandatory.
 
-#### SECTION III
+### SECTION III
 
 The Military of the States, of the Federal District and of the Territories (CA No. 18, 1998)
 
-##### Article 42.
-The members of the Military Police and of the Military Fire Brigades, institutions whose organization is based on hierarchy and discipline, are military of the States, of the Federal District and of the Territories. (CA No. 18, 1998; CA No. 20, 1998; CA No. 41, 2003)
+- Article 42. The members of the Military Police and of the Military Fire Brigades, institutions whose organization is based on hierarchy and discipline, are military of the States, of the Federal District and of the Territories. (CA No. 18, 1998; CA No. 20, 1998; CA No. 41, 2003)
 
 - Paragraph 1.  The provisions of article 14, paragraph 8; article 40, paragraph 9; and of article 142, paragraphs 2 and 3, apply to the military of the States, of the Federal District, and of the Territories, in addition to other provisions that the law may establish, it being incumbent upon specific state legislation to provide for the matters of article 142, paragraph 3, item X, the ranks of the officers being awarded by the respective State Governors.
 
 - Paragraph 2.  The provisions that may be established by a specific act of the respective state shall apply to the pensioners of the military of the States, of the Federal District, and of the Territories.
 
-#### SECTION IV
+### SECTION IV
 
 The Regions
 
-##### Article 43.
-For administrative purposes, the Union may coordinate its action in one same social and geoeconomic complex, seeking to attain its development and to reduce regional inequalities.
+- Article 43. For administrative purposes, the Union may coordinate its action in one same social and geoeconomic complex, seeking to attain its development and to reduce regional inequalities.
 
 The Organization of the State
 
@@ -3108,39 +3110,39 @@ The Organization of the Powers
 
 [[START OF PAGE 77]]
 
-- III - engage in political or party activities;
+III - engage in political or party activities;
 
-- IV - receive, on any account or for any reason, financial aid or contribution from individuals, and from public or private institutions, save for the exceptions set forth in law;
+IV - receive, on any account or for any reason, financial aid or contribution from individuals, and from public or private institutions, save for the exceptions set forth in law;
 
-- V - practice law in the court or tribunal on which they served as judges, for a period of three years following their retirement or discharge.
+V - practice law in the court or tribunal on which they served as judges, for a period of three years following their retirement or discharge.
 
 #### Article 96. It is of the exclusive competence of: (CA No. 41, 2003)
 
 ##### I - the courts:
 
-- to elect their directive bodies and to draw up their internal regulations, in compliance with the rules of proceedings and the procedural guarantees of the parties, and regulating the competence and the operation of the respective jurisdictional and administrative bodies;
+a) to elect their directive bodies and to draw up their internal regulations, in compliance with the rules of proceedings and the procedural guarantees of the parties, and regulating the competence and the operation of the respective jurisdictional and administrative bodies;
 
-- to organize their secretariats and auxiliary services, as well as those of the tribunals connected with them, guaranteeing the exercise of the respective inspection activities;
+b) to organize their secretariats and auxiliary services, as well as those of the tribunals connected with them, guaranteeing the exercise of the respective inspection activities;
 
-- to fill, under the terms of this Constitution, offices of career judges within their respective jurisdiction;
+c) to fill, under the terms of this Constitution, offices of career judges within their respective jurisdiction;
 
-- to propose the creation of new courts of first instance;
+d) to propose the creation of new courts of first instance;
 
-- to fill, by means of a civil service entrance examination of tests, or of tests and presentation of academic and professional credentials, according to the provisions of article 169, sole paragraph 3 , the offices required for the administration of justice, except for the positions of trust as defined in law;
+e) to fill, by means of a civil service entrance examination of tests, or of tests and presentation of academic and professional credentials, according to the provisions of article 169, sole paragraph³, the offices required for the administration of justice, except for the positions of trust as defined in law;
 
-- to grant leave, vacations and other absences to their members and to the judges and employees who are immediately subordinated to them;
+f) to grant leave, vacations and other absences to their members and to the judges and employees who are immediately subordinated to them;
 
-- II - the Supreme Federal Court, the Superior Courts and the Courts of Justice, to propose to the respective Legislative Power, with due regard for the provisions of article 169:
+II - the Supreme Federal Court, the Superior Courts and the Courts of Justice, to propose to the respective Legislative Power, with due regard for the provisions of article 169:
 
-- alteration in the number of members of the lower courts;
+a) alteration in the number of members of the lower courts;
 
-- creation and abolishment of offices and the remuneration of the auxiliary services and of the courts connected with them, as well as the establishment of the compensation for their members and for the judges, including those of the lower courts, if existing;
+b) creation and abolishment of offices and the remuneration of the auxiliary services and of the courts connected with them, as well as the establishment of the compensation for their members and for the judges, including those of the lower courts, if existing;
 
-- creation or abolishment of lower courts;
+c) creation or abolishment of lower courts;
 
-- alteration of the judicial organization and division;
+d) alteration of the judicial organization and division;
 
-- III - the Courts of Justice, to try judges of the states, of the Federal District and of the Territories, as well as members of the Public Prosecution, for common crimes and crimes of malversation, except in those cases within the competency of the Electoral Courts.
+III - the Courts of Justice, to try judges of the states, of the Federal District and of the Territories, as well as members of the Public Prosecution, for common crimes and crimes of malversation, except in those cases within the competency of the Electoral Courts.
 
 > 3 Should read as 'paragraph 1', by virtue of the provisions of CA no. 19/1998.
 
@@ -3187,6 +3189,7 @@ The Organization of the Powers
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
+
 stipulated in the law of budgetary directives, except when previously authorized, by opening supplementary or special credits.
 
 Article 100. Payments owed by the federal, state, Federal District, or municipal treasuries, by virtue of a court decision, shall be made exclusively in chronological order of submission of court orders and charged to the respective credits, it being forbidden to designate cases or persons in the budgetary appropriations and in the additional credits opened for such purpose. (CA No. 20, 1998; CA No. 30, 2000; CA No. 37, 2002; CA No. 62, 2009)
@@ -3214,6 +3217,7 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
 the amount under execution - so that the provision of Paragraph 3 may be applied to a portion of the total amount - are forbidden.
 
 Paragraph 9.  At the time a court order is issued, irrespective of the relevant regulation, there shall be deducted from such court order, for the purpose of a set-off, an amount corresponding to clear legal debits, either registered or not under debts in execution and attributed to the original creditor by the Treasury in debt, including future accruing installments of parcelings, save for those whose execution has been stayed by virtue of administrative or judicial challenge.
@@ -3232,7 +3236,7 @@ Paragraph 15.  Without prejudice to the provisions of this article, a supplement
 
 Paragraph 16.  The Federal Government may, at its own discretion and under the terms of relevant law, take on debts resulting from court orders issued against a State, the Federal District, or a Municipality, and refinance them directly.
 
-### Section II
+### SECTION II
 
 ##### The Supreme Federal Court
 
@@ -3251,35 +3255,35 @@ The Organization of the Powers
 #### Article 102.
 The Supreme Federal Court is responsible, essentially, for safeguarding the Constitution, and it is within its competence: (CA No. 3, 1993; CA No. 22, 1999; CA No. 23, 1999; CA No. 45, 2004)
 
-- I - to institute legal proceeding and trial, in the first instance, of:
+I - to institute legal proceeding and trial, in the first instance, of:
 
-- direct actions of unconstitutionality of a federal or state law or normative act, and declaratory actions of constitutionality of a federal law or normative act;
+a) direct actions of unconstitutionality of a federal or state law or normative act, and declaratory actions of constitutionality of a federal law or normative act;
 
-- in  common criminal offenses, the President of the Republic, the Vice-President, the members of the National Congress, its own Justices and the Attorney-General of the Republic;
+b) in common criminal offenses, the President of the Republic, the Vice-President, the members of the National Congress, its own Justices and the Attorney-General of the Republic;
 
-- in common criminal offenses and crimes of malversation, the Ministers of State and the Commanders of the Navy, the Army, and the Air Force, except as provided in article 52, I, the members of the Superior Courts, those of the Federal Audit Court and the heads of permanent diplomatic missions;
+c) in common criminal offenses and crimes of malversation, the Ministers of State and the Commanders of the Navy, the Army, and the Air Force, except as provided in article 52, I, the members of the Superior Courts, those of the Federal Audit Court and the heads of permanent diplomatic missions;
 
-- habeas corpus , when the petitioner is any one of the persons referred to in the preceding subitems; the writ of mandamus and habeas data against acts of the President of the Republic, of the Directing Boards of the Chamber of Deputies and of the Federal Senate, of the Federal Audit Court, of the Attorney-General of the Republic and of the Supreme Federal Court itself;
+d) habeas corpus, when the petitioner is any one of the persons referred to in the preceding subitems; the writ of mandamus and habeas data against acts of the President of the Republic, of the Directing Boards of the Chamber of Deputies and of the Federal Senate, of the Federal Audit Court, of the Attorney-General of the Republic and of the Supreme Federal Court itself;
 
-- litigation between a foreign State or an international organization and the Union, a state, the Federal District or a territory;
+e) litigation between a foreign State or an international organization and the Union, a state, the Federal District or a territory;
 
-- disputes and conflicts between the Union and the states, the Union and the Federal District, or between one another, including the respective indirect administration bodies;
+f) disputes and conflicts between the Union and the states, the Union and the Federal District, or between one another, including the respective indirect administration bodies;
 
-- extradition requested by a foreign state;
+g) extradition requested by a foreign state;
 
-(revoked);
+h) (revoked);
 
-- habeas corpus , when the constraining party is a Superior Court, or when the constraining party or the petitioner is an authority or employee whose acts are directly subject to the jurisdiction of the Supreme Federal Court, or in the case of a crime, subject to the same jurisdiction in one sole instance;
+i) habeas corpus, when the constraining party is a Superior Court, or when the constraining party or the petitioner is an authority or employee whose acts are directly subject to the jurisdiction of the Supreme Federal Court, or in the case of a crime, subject to the same jurisdiction in one sole instance;
 
-- criminal review of and actions to overrule its final judgements;
+j) criminal review of and actions to overrule its final judgements;
 
-- claims for the preservation of its powers and guarantee of the authority of its decisions;
+l) claims for the preservation of its powers and guarantee of the authority of its decisions;
 
-- enforcement of court decisions in the cases where it has original competence, the delegation of duties to perform procedural acts being allowed;
+m) enforcement of court decisions in the cases where it has original competence, the delegation of duties to perform procedural acts being allowed;
 
-- a  suit  in  which  all  members  of  the  judicature  are  directly  or  indirectly involved, and a suit in which more than half of the members of the court of origin are disqualified or have a direct or indirect interest;
+n) a suit in which all members of the judicature are directly or indirectly involved, and a suit in which more than half of the members of the court of origin are disqualified or have a direct or indirect interest;
 
-- conflicts of powers between the Superior Court of Justice and any other courts,  between  Superior  Courts,  or  betweeen  the  latter  and  any  other court;
+o) conflicts of powers between the Superior Court of Justice and any other courts, between Superior Courts, or between the latter and any other court;
 
 82
 
@@ -3289,27 +3293,27 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 82]]
 
-- petitions of provisional remedy in direct actions of unconstitutionality;
+p) petitions of provisional remedy in direct actions of unconstitutionality;
 
-- writs of injunction, when drawing up of the regulation is the responsibility of the President of the Republic, of the National Congress, of the Chamber of Deputies, of the Federal Senate, of the Directing Boards of one of these legislative houses, of the Federal Audit Court, of one of the Superior Courts, or of the Supreme Federal Court itself;
+q) writs of injunction, when drawing up of the regulation is the responsibility of the President of the Republic, of the National Congress, of the Chamber of Deputies, of the Federal Senate, of the Directing Boards of one of these legislative houses, of the Federal Audit Court, of one of the Superior Courts, or of the Supreme Federal Court itself;
 
-- lawsuits against the National Council of Justice and against the National Council of the Public Prosecution;
+r) lawsuits against the National Council of Justice and against the National Council of the Public Prosecution;
 
-- II - to judge on ordinary appeal:
+II - to judge on ordinary appeal:
 
-- habeas corpus ,  writs of mandamus, habeas data and writs of injunction decided in a sole instance by the Superior Courts, in the event of a denial;
+a) habeas corpus, writs of mandamus, habeas data and writs of injunction decided in a sole instance by the Superior Courts, in the event of a denial;
 
-- political crimes;
+b) political crimes;
 
-- III - to judge, on extraordinary appeal, cases decided in a sole or last instance, when the decision appealed:
+III - to judge, on extraordinary appeal, cases decided in a sole or last instance, when the decision appealed:
 
-- is contrary to a provision of this Constitution;
+a) is contrary to a provision of this Constitution;
 
-- declares a treaty or a federal law unconstitutional;
+b) declares a treaty or a federal law unconstitutional;
 
-- considers valid a law or act of a local government contested in the light of this Constitution;
+c) considers valid a law or act of a local government contested in the light of this Constitution;
 
-- considers valid a local law challenged in the light of a federal law.
+d) considers valid a local law challenged in the light of a federal law.
 
 Paragraph 1.  A claim of non-compliance with a fundamental precept deriving from this Constitution shall be examined by the Supreme Federal Court, under the terms of the law.
 
@@ -3447,7 +3451,7 @@ Paragraph 7.  The Union shall establish Justice ombudsman's offices, including i
 ##### The Superior Court of Justice
 
 #### Article 104.
-The Superior Court of Justice is composed of a minimum of thirty-
+The Superior Court of Justice is composed of a minimum of thirty-three Justices. (CA No. 45, 2004)
 
 86
 
@@ -3456,7 +3460,6 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
-three Justices. (CA No. 45, 2004)
 
 Sole paragraph. The Justices of the Superior Court of Justice shall be appointed by the President of the Republic chosen from among Brazilians over thirty-five and under sixty-five years of age, of notable juridical learning and spotless reputation, after  the  nomination  has  been  approved  by  the  absolute  majority  of  the  Federal Senate, as follows:
 
@@ -3479,9 +3482,9 @@ d) conflicts of competence between any courts, except as provided in article 102
 
 e) criminal review of and actions to overrule its final judgements;
 
-- claims for the preservation of its competence and guarantee of the authority of its decisions;
+f) claims for the preservation of its competence and guarantee of the authority of its decisions;
 
-- conflicts  of  duties  between  administrative  and  judicial  authorities  of  the Union, or between judicial authorities of one state and administrative authorities of another or of the Federal District, or between those of the latter and those of the Union;
+g) conflicts of duties between administrative and judicial authorities of the Union, or between judicial authorities of one state and administrative authorities of another or of the Federal District, or between those of the latter and those of the Union;
 
 h) writs of injunction, when the drawing up of a regulation is the responsibility of a federal body, entity, or authority, of the direct or indirect administration, with the exception of the cases within the competence of the Supreme Federal Court and of the bodies of the Military Justice, of the Electoral Justice, of the Labour Justice and of the Federal Justice;
 
@@ -3497,19 +3500,19 @@ The Organization of the Powers
 
 II - judge, on ordinary appeal:
 
-- habeas corpus decided in a sole or last instance by the Federal Regional Courts or  by  the  courts  of  the  states,  of  the  Federal  District  and  the Territories, in the event of a denial;
+a) habeas corpus decided in a sole or last instance by the Federal Regional Courts or by the courts of the states, of the Federal District and the Territories, in the event of a denial;
 
-- writs of mandamus decided in a sole instance by the Federal Regional Courts or by the courts of the states, of the Federal District and the Territories, in the event of a denial;
+b) writs of mandamus decided in a sole instance by the Federal Regional Courts or by the courts of the states, of the Federal District and the Territories, in the event of a denial;
 
-- cases in which the parties are a foreign state or international organization, on the one part, and a municipality or a person residing or domiciled in the country, on the other part;
+c) cases in which the parties are a foreign state or international organization, on the one part, and a municipality or a person residing or domiciled in the country, on the other part;
 
 III - judge, on special appeal, the cases decided, in a sole or last instance, by the Federal Regional Courts or by the courts of the states, of the Federal District and the Territories, when the decision appealed:
 
-- is contrary to a treaty or a federal law, or denies it effectiveness;
+a) is contrary to a treaty or a federal law, or denies it effectiveness;
 
-- considers valid an act of a local government challenged in the light of a federal law;
+b) considers valid an act of a local government challenged in the light of a federal law;
 
-- confers upon a federal law an interpretation different from that which has been conferred upon it by another court.
+c) confers upon a federal law an interpretation different from that which has been conferred upon it by another court.
 
 Sole paragraph. The following shall operate in conjunction with the Superior Court of Justice:
 
@@ -3554,17 +3557,17 @@ The Federal Regional Courts have the competence to:
 
 I - institute legal proceeding and trial, in the first instance, of:
 
-- federal judges within the area of their jurisdiction, including those of the Military and Labour Courts, in common crimes and crimes of malversation, and the members of the Public Prosecution of the Union, except for the competence of the Electoral Courts;
+a) federal judges within the area of their jurisdiction, including those of the Military and Labour Courts, in common crimes and crimes of malversation, and the members of the Public Prosecution of the Union, except for the competence of the Electoral Courts;
 
-- criminal reviews of and actions to overrule their final judgements or those of the federal judges of the region;
+b) criminal reviews of and actions to overrule their final judgements or those of the federal judges of the region;
 
-- writs of mandamus and habeas data against an act of the Court itself or of a federal judge;
+c) writs of mandamus and habeas data against an act of the Court itself or of a federal judge;
 
-- habeas corpus , when the constraining authority is a federal judge;
+d) habeas corpus, when the constraining authority is a federal judge;
 
-- conflicts of competence between federal judges subject to the Court;
+e) conflicts of competence between federal judges subject to the Court;
 
-- II  -  judge,  at  the  level  of  appeal,  cases  decided  by  federal  judges  and  by state  judges  in  the  exercise  of  the  federal  competence  within  the  area  of  their jurisdiction.
+II - judge, at the level of appeal, cases decided by federal judges and by state judges in the exercise of the federal competence within the area of their jurisdiction.
 
 #### Article 109.
 The federal judges have the competence to institute legal proceeding and trial of: (CA No. 45, 2004)
@@ -3591,7 +3594,7 @@ V-A - cases regarding human rights referred to in paragraph 5 of this article;
 
 VI - crimes against the organization of labour and, in the cases determined by law, those against the financial system and the economic and financial order;
 
-VII - habeas corpus , in criminal matters within their competence or when the coercion is exercised by an authority whose acts are not directly subject to another jurisdiction;
+VII - habeas corpus, in criminal matters within their competence or when the coercion is exercised by an authority whose acts are not directly subject to another jurisdiction;
 
 VIII - writs of mandamus and habeas data against an act of a federal authority, except for the cases within the competence of the federal courts;
 
@@ -3689,7 +3692,7 @@ VI - judicial actions arising from labour relations which seek compensation for 
 
 VII  -  judicial  actions  regarding  administrative  penalties  imposed  upon employers by the bodies charged with supervising labour relations;
 
-VIII - ex-officio enforcement of the welfare contributions set forth in article 195, I, a , and II, and their legal raises, arising from the judgments it pronounces;
+VIII - ex-officio enforcement of the welfare contributions set forth in article 195, I, a, and II, and their legal raises, arising from the judgments it pronounces;
 
 IX - other disagreements arising from labour relations, under the terms of the law.
 
@@ -3744,30 +3747,30 @@ The following are the bodies of Electoral Justice:
 #### Article 119.
 The Superior Electoral Court shall be composed of a minimum of seven members chosen:
 
-- I - through election, by secret vote:
+I - through election, by secret vote:
 
-- three judges from among the Justices of the Supreme Federal Court;
+a) three judges from among the Justices of the Supreme Federal Court;
 
-- two judges from among the Justices of the Superior Court of Justice;
+b) two judges from among the Justices of the Superior Court of Justice;
 
-- II - through appointment by the President of the Republic, two judges from among six lawyers of notable juridical learning and good moral repute, nominated by the Supreme Federal Court.
+II - through appointment by the President of the Republic, two judges from among six lawyers of notable juridical learning and good moral repute, nominated by the Supreme Federal Court.
 
-- Sole paragraph. The Superior Electoral Court shall elect its President and Vice-President from among the Justices of the Supreme Federal Court, and its Electoral Corregidor from among the Justices of the Superior Court of Justice.
+Sole paragraph. The Superior Electoral Court shall elect its President and Vice-President from among the Justices of the Supreme Federal Court, and its Electoral Corregidor from among the Justices of the Superior Court of Justice.
 
 #### Article 120.
 There shall be a Regional Electoral Court in the capital of each state and in the Federal District.
 
-- Paragraph 1.  The Regional Electoral Courts shall be composed:
+Paragraph 1.  The Regional Electoral Courts shall be composed:
 
-- I - through election, by secret vote:
+I - through election, by secret vote:
 
-- of two judges chosen from among the judges of the Court of Justice;
+a) of two judges chosen from among the judges of the Court of Justice;
 
-- of two judges chosen by the Court of Justice from among court judges;
+b) of two judges chosen by the Court of Justice from among court judges;
 
-- II - of a judge of the Federal Regional Court with its seat in the capital of a state or in the Federal District, or, in the absence thereof, of a federal judge chosen in any case by the respective Federal Regional Court;
+II - of a judge of the Federal Regional Court with its seat in the capital of a state or in the Federal District, or, in the absence thereof, of a federal judge chosen in any case by the respective Federal Regional Court;
 
-- III - through appointment by the President of the Republic, of two judges nominated by the Court of Justice from among six lawyers of notable juridical learning and good moral repute.
+III - through appointment by the President of the Republic, of two judges nominated by the Court of Justice from among six lawyers of notable juridical learning and good moral repute.
 
 The Organization of the Powers
 
@@ -3905,17 +3908,17 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 96]]
 
-- the Labour Public Prosecution;
+b) the Labour Public Prosecution;
 
-- the Military Public Prosecution;
+c) the Military Public Prosecution;
 
-- the Public Prosecution of the Federal District and the Territories;
+d) the Public Prosecution of the Federal District and the Territories;
 
-- II - the Public Prosecutions of the states.
+II - the Public Prosecutions of the states.
 
 Paragraph 1.  The head of the Public Prosecution of the Union is the Attorney-General of the Republic, appointed by the President of the Republic from among career members over thirty-five years of age, after his name has been approved by the absolute majority of the members of the Federal Senate, for a term of office of two years, reappointment being allowed.
 
-Paragraph 2.  The removal of the  Attorney-General of the Republic, on the initiative of the President of the Republic, shall be subject to prior authorization by the absolute majority of the Federal Senate.
+Paragraph 2.  The removal of the Attorney-General of the Republic, on the initiative of the President of the Republic, shall be subject to prior authorization by the absolute majority of the Federal Senate.
 
 Paragraph 3.  The Public Prosecutions of the states, of the Federal District and the Territories shall prepare a list of three names from among career members, under the terms of the respective law, for the selection of their Attorney-General, who shall be appointed by the Head of the Executive Power for a term of office of two years, one reappointment being allowed.
 
@@ -3923,25 +3926,25 @@ Paragraph 4.  The Attorneys-General in the states, in the Federal District and t
 
 Paragraph 5.  Supplementary laws of the Union and of the states, which may be proposed by the respective Attorneys-General, shall establish the organization, the duties and the statute of each Public Prosecution, observing, as regards their members:
 
-- I - the following guarantees:
+I - the following guarantees:
 
-- life tenure, after two years in office, with loss of office only by a final and unappealable judicial decision;
+a) life tenure, after two years in office, with loss of office only by a final and unappealable judicial decision;
 
-- irremovability, save for reason of public interest, through decision of the competent collegiate body of the Public Prosecution, by the vote of the absolute majority of its members, full defense being ensured;
+b) irremovability, save for reason of public interest, through decision of the competent collegiate body of the Public Prosecution, by the vote of the absolute majority of its members, full defense being ensured;
 
-- irreducibility of compensation, stipulated according to article 39, paragraph 4, and with due regard for the provisions of articles 37, X and XI, 150, II, 153, III, 153, paragraph 2, I;
+c) irreducibility of compensation, stipulated according to article 39, paragraph 4, and with due regard for the provisions of articles 37, X and XI, 150, II, 153, III, 153, paragraph 2, I;
 
-- II - the following prohibitions:
+II - the following prohibitions:
 
-- receiving,  on  any  account  or  for  any  reason,  fees,  percentages  or  court costs;
+a) receiving, on any account or for any reason, fees, percentages or court costs;
 
-- practicing the legal profession;
+b) practicing the legal profession;
 
-- participating in a commercial company, under the terms of the law;
+c) participating in a commercial company, under the terms of the law;
 
-- exercising, even when on paid availability, any other public function, except for a teaching position;
+d) exercising, even when on paid availability, any other public function, except for a teaching position;
 
-- engaging in political or party activities;
+e) engaging in political or party activities;
 
 The Organization of the Powers
 
@@ -4053,7 +4056,7 @@ Paragraph 5.  Federal and state legislation shall establish ombudsman's offices 
 #### Article 131.
 The Advocacy-General of the Union is the institution which, either directly  or  through  a  subordinated  agency,  represents  the  Union  judicially  or extrajudicially, and it is responsible, under the terms of the supplementary law which provides for its organization and operation, for the activities of judicial consultation and assistance to the Executive Power.
 
-Paragraph 1.  The Advocacy-General of the Union is headed by the Advocate-General of the Union, freely appointed by the President of the Republic from among citizens  over  thirty-five  years  of  age,  of  notable  juridical  learning  and  spotless reputation.
+Paragraph 1.  The Advocacy-General of the Union is headed by the Advocate-General of the Union, freely appointed by the President of the Republic from among citizens over thirty-five years of age, of notable juridical learning and spotless reputation.
 
 Paragraph 2.  Admission into the initial classes of the careers of the institution dealt with in this article shall take place by means of a civil service entrance examination of tests and presentation of academic and professional credentials.
 
@@ -4224,7 +4227,7 @@ Paragraph  2. Habeas  corpus shall  not  apply  to  military  disciplinary punis
 
 Paragraph 3.  The members of the Armed Forces are called military, and the following provisions apply to them, in addition to other provisions that the law may establish:
 
-I - the ranks, with the prerogatives, rights and duties inherent to them, are awarded by the President of the Republic and are guaranteed in full to officers in active service, those of the reserve or in retirement, and such officers have exclusive rights to military titles and posts, and, together with the other members, to the use of the uniforms of the Armed Forces;
+I - the ranks, with the prerogatives, rights and duties inherent to them, are awarded by the President of the Republic and are guaranteed in full to officers in active service, those of the reserve or in retirement, and such officers have exclusive
 
 The Organization of the Powers
 
@@ -4233,6 +4236,8 @@ The Organization of the Powers
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
+
+rights to military titles and posts, and, together with the other members, to the use of the uniforms of the Armed Forces;
 
 II - a military in active service who takes office in a permanent civil public position or job shall be transferred to the reserve, under the terms of the law;
 
@@ -4724,7 +4729,7 @@ The municipalities shall have the competence to institute taxes on: (CA No. 3, 1
 
 - I - urban buildings and urban land property;
 
-- II inter vivos transfer, on any account, by onerous acts, of real property, by nature or physical accession, and of real rights to property, except for real security, as well as the assignment of rights to the purchase thereof;
+- II - inter vivos transfer, on any account, by onerous acts, of real property, by nature or physical accession, and of real rights to property, except for real security, as well as the assignment of rights to the purchase thereof;
 
 - III  -  services  of  any  nature  not  included in article 155, II, as defined in a supplementary law;
 
@@ -4738,7 +4743,7 @@ The municipalities shall have the competence to institute taxes on: (CA No. 3, 1
 
 Paragraph 2.  The tax set forth in item II:
 
-I - shall not be levied on the transfer of goods or rights incorporated into the assets of a corporate body to pay up its capital, nor on the transfer of goods or rights resulting from the merger, incorporation, division or dissolution of corporate bodies, unless, in such cases, the predominant activity of the purchaser is the purchase and sale of such goods or rights, the lease of real property or leasing;
+I - shall not be levied on the transfer of goods or rights incorporated into the assets of a corporate body to pay up its capital, nor on the transfer of goods or rights
 
 Taxation and Budget
 
@@ -4747,6 +4752,8 @@ Taxation and Budget
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+
+resulting from the merger, incorporation, division or dissolution of corporate bodies, unless, in such cases, the predominant activity of the purchaser is the purchase and sale of such goods or rights, the lease of real property or leasing;
 
 II - is within the competence of the municipality where the property is located.
 
@@ -5159,7 +5166,7 @@ It is incumbent upon the Government, as set forth by law, to provide public util
 
 Sole paragraph. The law shall provide for:
 
-I  -  the  operating  rules  for  the  public  service  concession-  or  permission-holding companies, the special nature of their contract and of the extension thereof, as well as the conditions of forfeiture, control and termination of the concession or permission;
+I - the operating rules for the public service concession- or permission-holding companies, the special nature of their contract and of the extension thereof,
 
 128
 
@@ -5168,6 +5175,8 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 124]]
 
 [[START OF PAGE 125]]
+
+as well as the conditions of forfeiture, control and termination of the concession or permission;
 
 II - the rights of the users;
 
@@ -5223,17 +5232,17 @@ Paragraph 4.  The law which institutes a contribution tax of intervention in the
 
 - I - the contribution rate may be:
 
-- a) different for each product or use;
+a) different for each product or use;
 
-- b) lowered and restored to its original level by an act of the Executive Branch, and the provision of Article 150, III, b, shall not apply thereto;
+b) lowered and restored to its original level by an act of the Executive Branch, and the provision of Article 150, III, b, shall not apply thereto;
 
 - II - the proceeds from the collection of the contribution shall be allocated:
 
-- a) to the payment of price or transportation subsidies for fuel alcohol, natural gas and its by-products, and petroleum products;
+a) to the payment of price or transportation subsidies for fuel alcohol, natural gas and its by-products, and petroleum products;
 
-- b) to the financing of environmental projects related to the petroleum and gas industry;
+b) to the financing of environmental projects related to the petroleum and gas industry;
 
-- c) to the financing of transportation infrastructure programs.
+c) to the financing of transportation infrastructure programs.
 
 #### Article 178.
 The law shall provide for the regulation of air, water and ground transportation, and it shall, in respect to the regulation of international transportation, comply with the agreements entered into by the Union, with due regard to the principle of reciprocity. (CA No. 7, 1995)
@@ -5457,9 +5466,9 @@ Social welfare shall be financed by all of society, either directly or indirectl
 
 - I - of employers, companies, and entities defined by law as being comparable to companies, assessed on:
 
-- a) the payroll and other labour earnings paid or credited, on any account, to individuals who render services to them, even when there is no employment bond;
+a) the payroll and other labour earnings paid or credited, on any account, to individuals who render services to them, even when there is no employment bond;
 
-- b) income or revenues;
+b) income or revenues;
 
 The Economic and Financial Order
 
@@ -6255,9 +6264,9 @@ IV - the Court of Justice shall have seven Judges;
 
 V - the first Judges shall be appointed by the elected Governor, chosen in the following manner:
 
-- a) five of them from among judges with more than thirty-five years of age, in exercise within the area of the new state or of the original one;
+a) five of them from among judges with more than thirty-five years of age, in exercise within the area of the new state or of the original one;
 
-- b) two of them from among public prosecutors, under the same conditions, and from among attorneys of proven good repute and legal knowledge, with at least ten years of professional practice, complying with the procedures set forth in this Constitution;
+b) two of them from among public prosecutors, under the same conditions, and from among attorneys of proven good repute and legal knowledge, with at least ten years of professional practice, complying with the procedures set forth in this Constitution;
 
 VI - in the case of a state which originated from a federal territory, the first five Judges may be chosen from among judges from any part of the country;
 
@@ -6267,7 +6276,7 @@ VIII - until the promulgation of the state Constitution, the offices of Attorney
 
 IX - if the new state results from the transformation of a federal territory, the transfer of financial burden from the Union for payment of opting civil servants who belonged to the Federal Administration, shall take place as follows:
 
-- a) in the sixth year after its creation, the state shall assume twenty percent of the financial burden for the payment of the civil servants, the remainder continuing as a responsibility of the Union;
+a) in the sixth year after its creation, the state shall assume twenty percent of the financial burden for the payment of the civil servants, the remainder continuing as a responsibility of the Union;
 
 The Social Order
 
@@ -6277,7 +6286,7 @@ The Social Order
 
 [[START OF PAGE 151]]
 
-- b) in the seventh year, thirty percent shall be added to the burden of the state and, in the eighth year, the remaining fifty percent;
+b) in the seventh year, thirty percent shall be added to the burden of the state and, in the eighth year, the remaining fifty percent;
 
 X - the appointments subsequent to the first ones, for the offices mentioned in this article, shall be regulated by the state Constitution;
 
@@ -6305,7 +6314,7 @@ Paragraph 1.  At least forty percent of the funds mentioned in the head paragrap
 
 Paragraph 2.  The accrued assets of the Social Integration Programme and of the Civil Servants Asset Development Programme shall be preserved, maintaining the criteria for withdrawal in the situations provided for in specific laws, with the exception of withdrawal by reason of marriage, it being forbidden the distribution of the revenues referred to in the head paragraph of this article, for deposit in the personnal accounts of the participants.
 
-Paragraph 3.  Employees who receive monthly remuneration of up to two minimum wages from employers who contribute to the Social Integration Programme and to the Civil Servants Asset Development Programme shall be ensured the annual payment of one minimum wage, in which value the income of the individual accounts shall be computed, in the case of those who already participated in such programmes before the date of the promulgation of this Constitution.
+Paragraph 3.  Employees who receive monthly remuneration of up to two minimum wages from employers who contribute to the Social Integration Programme and to the
 
 156
 
@@ -6314,6 +6323,8 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 151]]
 
 [[START OF PAGE 152]]
+
+Civil Servants Asset Development Programme shall be ensured the annual payment of one minimum wage, in which value the income of the individual accounts shall be computed, in the case of those who already participated in such programmes before the date of the promulgation of this Constitution.
 
 Paragraph 4.  Funding of the unemployment insurance programme shall receive an additional contribution from companies in which employee turnover exceeds the average turnover rate of the sector, in the manner established by law.
 
@@ -6480,7 +6491,7 @@ Amnesty is granted to those who, during the period from September 18, 1946, to t
 
 Paragraph 1.  The provisions of this article shall only generate financial effects as from the promulgation of the Constitution, any kind of retroactive compensation being forbidden.
 
-Paragraph 2.  The benefits established in this article are ensured to workers of the private sector, union officers and representatives who, for exclusively political reasons, have been punished, dismissed or compelled to leave the remunerated activities they had been performing, as well as to those who have been prevented from performing their professional activities by virtue of ostensive pressures or secret official procedures.
+Paragraph 2.  The benefits established in this article are ensured to workers of the private sector, union officers and representatives who, for exclusively political reasons,
 
 164
 
@@ -6489,6 +6500,8 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 158]]
 
 [[START OF PAGE 159]]
+
+have been punished, dismissed or compelled to leave the remunerated activities they had been performing, as well as to those who have been prevented from performing their professional activities by virtue of ostensive pressures or secret official procedures.
 
 Paragraph 3.  Reparation of economic nature shall be granted, as set forth by a law to be proposed by the National Congress and to become effective within twelve months counted from the promulgation of the Constitution, to citizens who were prevented from performing, as civilians, a specific professional activity by virtue of Reserved Ordinances of the Ministry of the Air Force no. S-50-GM5 of June 19, 1964, and no. S-285-GM5.
 
@@ -6508,9 +6521,9 @@ I - the protection referred to therein is limited to the increase, to four times
 
 II - arbitrary dismissal or dismissal without just cause is prohibited:
 
-- a) of an employee elected to an executive office of internal accident prevention committees, from the date of the registration of his candidacy to one year after the end of his term of office;
+a) of an employee elected to an executive office of internal accident prevention committees, from the date of the registration of his candidacy to one year after the end of his term of office;
 
-- b) of a pregnant employee, from the date the pregnancy is confirmed to five months after delivery.
+b) of a pregnant employee, from the date the pregnancy is confirmed to five months after delivery.
 
 Paragraph 1.  Until such time as the law shall regulate the provisions of article 7, XIX, of the Constitution, the period of paternity leave referred to in the item is of five days.
 
@@ -6656,7 +6669,7 @@ Until such time as the regulations of article 21, XVI, of the Constitution are i
 Sole paragraph. Such law shall provide for the reassignment of the Federal Censors as set forth in this article.
 
 #### Article 24.
-The Union, the states, the Federal District and the municipalities shall issue laws establishing criteria to make their staffs compatible with the provisions of article 39 of the Constitution and with the administrative reorganization resulting therefrom, within eighteen months as from the promulgation of the Constitution.
+The Union, the states, the Federal District and the municipalities shall issue laws establishing criteria to make their staffs compatible with the provisions
 
 > 8 Should read as 'paragraph 1', by virtue of the provisions of CA no. 45/2004.
 
@@ -6668,7 +6681,9 @@ Temporary Constitutional Provisions Act
 
 [[START OF PAGE 164]]
 
-#### Article  25.
+of article 39 of the Constitution and with the administrative reorganization resulting therefrom, within eighteen months as from the promulgation of the Constitution.
+
+#### Article 25.
 As of one hundred and eighty days after the promulgation of the Constitution, such period being subject to extension by law, all legal provisions which confer on or delegate to an agency of the Executive Power authority assigned to the National Congress by the Constitution shall be revoked, especially those referring to:
 
 I - normative action;
@@ -6681,7 +6696,7 @@ I - if issued up to September 2, 1988, they shall be examined by the National Co
 
 II - if the time limit defined in the preceding item elapses without the decree-laws mentioned therein having been examined, they shall be considered rejected;
 
-III - in the cases defined in items I and II, the acts performed during the effectiveness of the respective decree-laws shall be fully valid and the National Congress may, if necessary, legislate on their remaining effects.
+III  -  in  the  cases  defined  in  items  I  and  II,  the  acts  performed  during  the effectiveness of the respective decree-laws shall be fully valid and the National Congress may, if necessary, legislate on their remaining effects.
 
 Paragraph 2.  The decree-laws issued between September 3, 1988 and the date of the promulgation of the Constitution shall be converted on such date into provisional measures, with the rules established in article 62, sole paragraph 9, being applied thereto.
 
@@ -6735,7 +6750,7 @@ The federal judges referred to  in  article  123,  paragraph  2,  of  the Consti
 Sole paragraph. For purposes of promotion for seniority, the period of service of such judges shall be computed as from the day of their taking of office.
 
 #### Article  29.
-Until  such  time  as  the  supplementary  laws  relating  to  the  Public Prosecution and to the Advocacy-General of the Union are approved, the Federal Public Prosecution, the Office of the Attorney-General of the National Treasury, the Legal Consultancies of the Ministries, the Prosecution and Legal Departments of the federal autonomous government agencies having their own representation, and the members of the Prosecution Offices of public foundation universities shall continue to conduct their activities within their respective incumbencies.
+Until such time as the supplementary laws relating to the Public Prosecution and to the Advocacy-General of the Union are approved, the Federal Public Prosecution, the Office of the Attorney-General of the National Treasury, the
 
 Temporary Constitutional Provisions Act
 
@@ -6744,6 +6759,8 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 165]]
 
 [[START OF PAGE 166]]
+
+Legal Consultancies of the Ministries, the Prosecution and Legal Departments of the federal autonomous government agencies having their own representation, and the members of the Prosecution Offices of public foundation universities shall continue to conduct their activities within their respective incumbencies.
 
 Paragraph 1.  The President of the Republic shall, within one hundred and twenty days, submit to the National Congress a bill of supplementary law dealing with the organization and operation of the Advocacy-General of the Union.
 
@@ -6800,7 +6817,7 @@ Paragraph 6.  Until December 31, 1989, the provisions of article 150, III, b , s
 
 Paragraph 7.  Until the maximum rates of the municipal tax on retail sales of liquid and gaseous fuels have been established in a supplementary law, such rates shall not exceed three percent.
 
-Paragraph  8.  If,  within  sixty  days  counted  from  the  promulgation  of  the Constitution, the supplementary law required for the institution of the tax referred to in article 155, I, b 11 , has not been issued, the states and the Federal District, by means of an agreement concluded in the manner set forth in Supplementary Law number 24 of January 7, 1975, shall establish the rules to regulate the matter provisionally.
+Paragraph 8.  If, within sixty days counted from the promulgation of the Constitution, the supplementary law required for the institution of the tax referred to
 
 > 10 These subitems were revoked by CA no. 3/1993.
 
@@ -6811,6 +6828,8 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 167]]
 
 [[START OF PAGE 168]]
+
+in article 155, I, b11, has not been issued, the states and the Federal District, by means of an agreement concluded in the manner set forth in Supplementary Law number 24 of January 7, 1975, shall establish the rules to regulate the matter provisionally.
 
 Paragraph 9.  Until a supplementary law provides for the matter, electric power distribution companies, in the capacity of taxpayers or of substitute taxpayers, shall be liable, when the product leaves their facilities, even if the destination is another unit of the federation, for the payment of the tax on the circulation of goods levied on electric power, from production or importation to the last operation, such tax being calculated on the price charged on the occasion of the final operation, its collection being ensured to the state or the Federal District, depending on the place where such operation occurs.
 
@@ -7104,15 +7123,15 @@ II - the Funds referred to in item I of the head paragraph of this article shall
 
 III - with due regard for the guarantees established in items I, II, III, and IV of the head paragraph of article 208 of the Federal Constitution, as well as for the basic education universalization goals established in the National Education Plan, the law shall provide for:
 
-- a) the organization of the Funds, the proportional distribution of their resources, the differences and weightings regarding the annual value per student among the various grades and modalities of basic education and types of schools;
+a) the organization of the Funds, the proportional distribution of their resources, the differences and weightings regarding the annual value per student among the various grades and modalities of basic education and types of schools;
 
-- b) the form of calculation of the minimum annual value per student;
+b) the form of calculation of the minimum annual value per student;
 
-- c) the maximum percentages for the allocation of fund resources to the various grades and modalities of basic education, with due regard for articles 208 and 214 of the Federal Constitution, as well as for the National Education Plan goals;
+c) the maximum percentages for the allocation of fund resources to the various grades and modalities of basic education, with due regard for articles 208 and 214 of the Federal Constitution, as well as for the National Education Plan goals;
 
-- d) oversight and control of the Funds;
+d) oversight and control of the Funds;
 
-- e) a deadline to stipulate, by means of a specific law, a nationwide professional minimum salary for public school teachers of basic education;
+e) a deadline to stipulate, by means of a specific law, a nationwide professional minimum salary for public school teachers of basic education;
 
 > 13 Should read as 'Constitutional Amendment no. 53/2006'.
 
@@ -7126,29 +7145,29 @@ Temporary Constitutional Provisions Act
 
 IV - the resources transferred to the Funds established under the terms of item I of the head paragraph of this article shall be applied by the States and Municipalities exclusively within the scope of their priority actions, as established by paragraphs 2 and 3 of article 211 of the Federal Constitution;
 
-- V - the Federal Government shall supplement the resources of the Funds referred to in item II of the head paragraph of this article, whenever in the Federal District and in each State, the value per student does not reach the nationally set minimum value, stipulated in accordance with the provisions of item VII of the head paragraph of this article, and use of the resources referred to in paragraph 5 of article 212 of the Federal Constitution is forbidden;
+V - the Federal Government shall supplement the resources of the Funds referred to in item II of the head paragraph of this article, whenever in the Federal District and in each State, the value per student does not reach the nationally set minimum value, stipulated in accordance with the provisions of item VII of the head paragraph of this article, and use of the resources referred to in paragraph 5 of article 212 of the Federal Constitution is forbidden;
 
-- VI - up to 10% (ten percent) of the resources supplemented by the Federal Government as set forth in item V of the head paragraph of this article may be distributed to the Funds by means of programs aimed at improving the quality of education, under the terms of the law referred to in item III of the head paragraph of this article;
+VI - up to 10% (ten percent) of the resources supplemented by the Federal Government as set forth in item V of the head paragraph of this article may be distributed to the Funds by means of programs aimed at improving the quality of education, under the terms of the law referred to in item III of the head paragraph of this article;
 
 VII - the minimum amount of resources supplemented by the Federal Government as set forth in item V of the head paragraph of this article shall be equal to:
 
-- a) R$ 2,000,000,000.00 (two billion reais), in the first year the Funds are in force;
+a) R$ 2,000,000,000.00 (two billion reais), in the first year the Funds are in force;
 
-- b) R$ 3,000,000,000.00 (three billion reais), in the second year the Funds are in force;
+b) R$ 3,000,000,000.00 (three billion reais), in the second year the Funds are in force;
 
-- c) R$ 4,500,000,000.00 (four billion and five hundred million reais), in the third year the Funds are in force;
+c) R$ 4,500,000,000.00 (four billion and five hundred million reais), in the third year the Funds are in force;
 
-- d) 10% (ten percent) of the total amount of resources referred to in item II of the head paragraph of this article, as from the fourth year the Funds are in force;
+d) 10% (ten percent) of the total amount of resources referred to in item II of the head paragraph of this article, as from the fourth year the Funds are in force;
 
-- VIII  -  the  resources  earmarked  for  the  maintenance  and  development  of education as established in article  212  of  the  Federal  Constitution  may  cover  a maximum amount of 30% (thirty percent) of the resources supplemented by the Federal Government, taking into consideration, for the purposes of this item, the amounts set forth in item VII of the head paragraph of this article;
+VIII - the resources earmarked for the maintenance and development of education as established in article 212 of the Federal Constitution may cover a maximum amount of 30% (thirty percent) of the resources supplemented by the Federal Government, taking into consideration, for the purposes of this item, the amounts set forth in item VII of the head paragraph of this article;
 
-- IX - the amounts referred to in subitems a , b , and c of item VII of the head paragraph of this article shall be adjusted every year as from the promulgation of this Constitutional Amendment 14 , so that the real value of the supplementation provided by the Federal Government is permanently preserved;
+IX - the amounts referred to in subitems a, b, and c of item VII of the head paragraph of this article shall be adjusted every year as from the promulgation of this Constitutional Amendment 14, so that the real value of the supplementation provided by the Federal Government is permanently preserved;
 
-- X - the supplementation provided by the Federal Government shall comply with the provisions of article 160 of the Federal Constitution;
+X - the supplementation provided by the Federal Government shall comply with the provisions of article 160 of the Federal Constitution;
 
-- XI - the competent authority shall be held liable for crime of malversation in case of non-compliance with the provisions of items V and VII of the head paragraph of this article;
+XI - the competent authority shall be held liable for crime of malversation in case of non-compliance with the provisions of items V and VII of the head paragraph of this article;
 
-- XII - a share of not less than 60% (sixty percent) of the resources of each Fund referred to in item I of the head paragraph of this article shall be used for the payment of basic education teachers who are actually teaching.
+XII - a share of not less than 60% (sixty percent) of the resources of each Fund referred to in item I of the head paragraph of this article shall be used for the payment of basic education teachers who are actually teaching.
 
 > 14 Should read as 'Constitutional Amendment no. 53/2006'.
 
@@ -7172,19 +7191,19 @@ Paragraph 5.  The percentage of resources to constitute the Funds, in accordance
 
 I - as to the taxes and transfers mentioned in item II of the head paragraph of article 155; item IV of the head paragraph of article 158; and subitems a and b of item I and item II of the head paragraph of article 159 of the Federal Constitution:
 
-- a) 16.66% (sixteen and sixty-six hundredths of one percent), in the first year;
+a) 16.66% (sixteen and sixty-six hundredths of one percent), in the first year;
 
-- b) 18.33% (eighteen and thirty-three hundredths of one percent), in the second year;
+b) 18.33% (eighteen and thirty-three hundredths of one percent), in the second year;
 
-- c) 20% (twenty percent), as from the third year;
+c) 20% (twenty percent), as from the third year;
 
-II  -  as  to  the  taxes  and  transfers  mentioned in items I and III of the head paragraph of article 155; item II of the head paragraph of article 157; and items II and III of the head paragraph of article 158 of the Federal Constitution:
+II - as to the taxes and transfers mentioned in items I and III of the head paragraph of article 155; item II of the head paragraph of article 157; and items II and III of the head paragraph of article 158 of the Federal Constitution:
 
-- a) 6.66% (six and sixty-six hundredths of one percent), in the first year;
+a) 6.66% (six and sixty-six hundredths of one percent), in the first year;
 
-- b) 13.33% (thirteen and thirty-three hundredths of one percent), in the second year;
+b) 13.33% (thirteen and thirty-three hundredths of one percent), in the second year;
 
-- c) 20% (twenty percent), as from the third year.
+c) 20% (twenty percent), as from the third year.
 
 Paragraph 6.  (Revoked).
 
@@ -7312,8 +7331,10 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 180]]
 
 [[START OF PAGE 181]]
+
 months, and the same extension applies to the effect of Law no. 9,539, of December 12, 1997, which modified Law no. 9,311. (CA No. 21, 1999)
-Paragraph 1.  With due regard for paragraph 6 of article 195 of the Federal Constitution, the rate of the contribution shall be thirty-eight hundredths of one percent, in the first twelve months, and thirty hundredths in the subsequent months, and the Executive Power may reduce it, in whole or in part, in the limits hereby stipulated.
+
+Paragraph 1. With due regard for paragraph 6 of article 195 of the Federal Constitution, the rate of the contribution shall be thirty-eight hundredths of one percent, in the first twelve months, and thirty hundredths in the subsequent months, and the Executive Power may reduce it, in whole or in part, in the limits hereby stipulated.
 
 Paragraph 2.  The proceeds from increased collection of the contribution, resulting from the alteration of the rate, during the financial years of 1999, 2000, and 2001, shall be allocated to the financing of social security.
 
@@ -7333,9 +7354,9 @@ Until the financial year of 2004, the minimum amount of funds applied to health 
 
 I - in the case of the Union:
 
-- a) in the year 2000, the amount of checks issued to health actions and public services during the financial year of 1999, plus at least five percent;
+a) in the year 2000, the amount of checks issued to health actions and public services during the financial year of 1999, plus at least five percent;
 
-- b) from the year 2001 through the year 2004, the amount expended in the previous year, restated according to the nominal changes of the Gross Domestic Product - GDP;
+b) from the year 2001 through the year 2004, the amount expended in the previous year, restated according to the nominal changes of the Gross Domestic Product - GDP;
 
 II - in the case of the States and of the Federal District, twelve percent of the proceeds from the collection of the taxes referred to in article 155 and of the funds
 
@@ -7346,8 +7367,10 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 181]]
 
 [[START OF PAGE 182]]
+
 mentioned in articles 157 and 159, item I, subitem a, and item II, after deducting the portions transferred to the respective Municipalities;
-III - in the case of the Municipalities and of the Federal District, fifteen percent of the proceeds from the collection of the taxes mentioned in article 156 and of the funds mentioned in articles 158 and 159, item I, subitem b , and paragraph 3.
+
+III - in the case of the Municipalities and of the Federal District, fifteen percent of the proceeds from the collection of the taxes mentioned in article 156 and of the funds mentioned in articles 158 and 159, item I, subitem b, and paragraph 3.
 
 Paragraph 1.  The States, the Federal District, and the Municipalities which apply percentages lower than those stipulated in items II and III shall raise them gradually, until the financial year of 2004, the difference being reduced at the rate of at least one fifth per year, and the application shall consist of at least seven percent as of the year 2000.
 
@@ -7366,7 +7389,7 @@ Paragraph 2.  In the event the annual installments referred to in the head parag
 
 Paragraph 3.  The period of time referred to in the head paragraph of this article is reduced to two years, in the case of court order debts deriving from the expropriation of a creditor's residential property, provided that such property is proven to be the creditor's only residential property at the time of emission of a writ of ejectment.
 
-Paragraph 4.  If the time limit has elapsed, or in the case of omission in the budget, or in the event the right of precedence is not respected, the President of the appropriate
+Paragraph 4. If the time limit has elapsed, or in the case of omission in the budget, or in the event the right of precedence is not respected, the President of the appropriate
 
 > 18 Should read as 'Constitutional Amendment no. 30/2000'.
 
@@ -7377,7 +7400,9 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 182]]
 
 [[START OF PAGE 183]]
+
 Court shall, upon petition of a creditor, requisition or order the seizure of funds of the debtor entity, at an amount sufficient to pay the installment.
+
 #### Article 79.
 The Fund to Fight and Eradicate Poverty, hereby instituted within the sphere of the Federal Executive Branch, shall be in force through the year 2010 and shall be regulated by a supplementary law, aiming at enabling all Brazilians to  have  access  to  adequate  subsistence  levels,  and  its  resources  shall  be  applied to  supplementary  initiatives  regarding  nutrition,  housing,  education,  health,  a complementary family income, and other programs of relevant social interest oriented towards the improvement of the quality of life. (CA No. 31, 2000)
 
@@ -7412,8 +7437,10 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 183]]
 
 [[START OF PAGE 184]]
+
 generated as from June 18, 2002, shall be transferred to the Fund to Fight and Eradicate Poverty. (CA No. 31, 2000)
-Paragraph 1.  In case the yearly amount of income to be transferred to the Fund to Fight and Eradicate Poverty, as set forth in this article, does not add up to the total of four billion reais, it shall be supplemented according to article 80, item IV , of the Temporary Constitutional Provisions Act.
+
+Paragraph 1. In case the yearly amount of income to be transferred to the Fund to Fight and Eradicate Poverty, as set forth in this article, does not add up to the total of four billion reais, it shall be supplemented according to article 80, item IV, of the Temporary Constitutional Provisions Act.
 
 Paragraph 2.  Without prejudice to the provision of paragraph 1, the Executive Branch may allocate other revenues deriving from the sale of Federal Government assets to the Fund mentioned in this article.
 
@@ -7446,38 +7473,38 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 185]]
 
-- II - ten hundredths percent to the financing of social security;
+II - ten hundredths percent to the financing of social security;
 
-- III - eight hundredths percent to the Fund to Fight and Eradicate Poverty, set forth in articles 80 and 81 of this Temporary Constitutional Provisions Act.
+III - eight hundredths percent to the Fund to Fight and Eradicate Poverty, set forth in articles 80 and 81 of this Temporary Constitutional Provisions Act.
 
-Paragraph 3.  The rate of the contribution mentioned in this article shall be equal to:
+Paragraph 3. The rate of the contribution mentioned in this article shall be equal to:
 
-- I - thirty-eight hundredths percent in the financial years of 2002 and 2003;
+I - thirty-eight hundredths percent in the financial years of 2002 and 2003;
 
 II - (revoked).
 
 #### Article 85.
 The contribution mentioned in article 84 of this Temporary Constitutional Provisions Act shall not be levied, as from the thirtieth day after the publication of this Constitutional Amendment, on entries concerning: (CA No. 37, 2002)
 
-- I  -  current  deposit  accounts  especially  opened  and  exclusively  used  for transactions carried out by:
+I - current deposit accounts especially opened and exclusively used for transactions carried out by:
 
-- a) clearinghouses and providers of clearing and settlement services referred to in article 2, sole paragraph, of Law no. 10,214, of March 27, 2001;
+a) clearinghouses and providers of clearing and settlement services referred to in article 2, sole paragraph, of Law no. 10,214, of March 27, 2001;
 
-- b) securitization companies referred to in Law no. 9,514, of November 20, 1997;
+b) securitization companies referred to in Law no. 9,514, of November 20, 1997;
 
-- c) business corporations whose exclusive purpose is to purchase credits originating from transactions carried out in the financial market;
+c) business corporations whose exclusive purpose is to purchase credits originating from transactions carried out in the financial market;
 
-- II - current deposit accounts, when such entries are related to:
+II - current deposit accounts, when such entries are related to:
 
-- a) stock purchase and sale transactions, effected within stock exchange trading floors or electronic systems, and in the organized over-the-counter market;
+a) stock purchase and sale transactions, effected within stock exchange trading floors or electronic systems, and in the organized over-the-counter market;
 
-- b) contracts written on stocks or stock indices, in their various modes, negotiated in stock exchanges, commodities and futures exchanges;
+b) contracts written on stocks or stock indices, in their various modes, negotiated in stock exchanges, commodities and futures exchanges;
 
 III - foreign investors' accounts, regarding entries into and remittances from Brazil of funds employed exclusively in transactions and contracts referred to in item II of this article.
 
-Paragraph 1.  The Executive Branch shall regulate the provisions of this article within thirty days as of the date of publication of this Constitutional Amendment 19 .
+Paragraph 1. The Executive Branch shall regulate the provisions of this article within thirty days as of the date of publication of this Constitutional Amendment 19.
 
-- Paragraph 2.  The provisions of item I of this article apply only to the transactions specified in an act issued by the Executive Branch, from among the transactions that constitute the purpose of said entities.
+Paragraph 2. The provisions of item I of this article apply only to the transactions specified in an act issued by the Executive Branch, from among the transactions that constitute the purpose of said entities.
 
 Paragraph 3.  The provisions of item II of this article apply only to transactions and contracts effected through financial institutions, securities brokerage houses, securities distribution companies, and commodities brokerage houses.
 
@@ -7493,32 +7520,34 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 185]]
 
 [[START OF PAGE 186]]
+
 Constitutional Provisions Act not being applicable, if such debts meet the following cumulative conditions: (CA No. 37, 2002)
-- I - having been the subject of a court order;
 
-- II  -  having  been  defined  as  small  amount  debts  by  the  law  referred  to  in paragraph 3 of article 100 of the Federal Constitution, or by article 87 of this Temporary Constitutional Provisions Act;
+I - having been the subject of a court order;
 
-- III  -  their  payment  being  outstanding,  in  whole  or  in  part,  on  the  date  of publication of this Constitutional Amendment 20 .
+II - having been defined as small amount debts by the law referred to in paragraph 3 of article 100 of the Federal Constitution, or by article 87 of this Temporary Constitutional Provisions Act;
 
-- Paragraph 1.  The debts referred to in the head paragraph of this article, or their respective  balances,  shall  be  paid  in  chronological  order  of  presentation  of  the respective court orders, with precedence over debts of a higher amount.
+III - their payment being outstanding, in whole or in part, on the date of publication of this Constitutional Amendment 20.
 
-- Paragraph 2.  If the debts referred to in the head paragraph of this article have not been subject to partial payment yet, under the terms of article 78 of this Temporary Constitutional Provisions Act, they may be paid in two annual installments, as the law provides.
+Paragraph 1. The debts referred to in the head paragraph of this article, or their respective balances, shall be paid in chronological order of presentation of the respective court orders, with precedence over debts of a higher amount.
 
-Paragraph 3.  The payment of the alimony debts referred to in this article, with due respect for the chronological order of their presentation, shall take precedence over the payment of all other debts.
+Paragraph 2. If the debts referred to in the head paragraph of this article have not been subject to partial payment yet, under the terms of article 78 of this Temporary Constitutional Provisions Act, they may be paid in two annual installments, as the law provides.
+
+Paragraph 3. The payment of the alimony debts referred to in this article, with due respect for the chronological order of their presentation, shall take precedence over the payment of all other debts.
 
 #### Article 87.
 For purposes of the provisions set forth in paragraph 3 of article 100 of the Federal Constitution, and in article 78 of this Temporary Constitutional Provisions Act, and until such time as the official publication of the respective defining acts by the units of the Federation is effected, the debts or bonds stated in court orders shall be considered as being of a small amount, with due regard for paragraph 4 of article 100 of the Federal Constitution, if their amount is equal to or lesser than: (CA No. 37, 2002)
 
-- I  -  forty  minimum monthly wages, in the case of debts owed by the Tax Authorities of the States and of the Federal District;
+I - forty minimum monthly wages, in the case of debts owed by the Tax Authorities of the States and of the Federal District;
 
-- II - thirty minimum monthly wages, in the case of debts owed by the Tax Authorities of the Municipalities.
+II - thirty minimum monthly wages, in the case of debts owed by the Tax Authorities of the Municipalities.
 
 Sole paragraph. Should the amount under execution exceed the amount stipulated in this article, payment shall always be made by means of a court order, the execution creditor being entitled to waiving the credit of the excess amount, so that he may opt to receive the balance without the emission of a court order, in the manner set forth in paragraph 3 of article 100.
 
 #### Article 88.
 Until such time as a supplementary law regulates the provisions of items I and III of paragraph 3 of article 156 of the Federal Constitution, the tax referred to in item III of the head paragraph of said article shall: (CA No. 37, 2002)
 
-- I - have a minimum rate of two percent, save for the services referred to in items 32, 33, and 34 of the List of Services appended to Decree-Law no. 406, of December 31, 1968;
+I - have a minimum rate of two percent, save for the services referred to in items 32, 33, and 34 of the List of Services appended to Decree-Law no. 406, of December 31, 1968;
 
 > 20 Should read as 'Constitutional Amendment no. 37/2002'.
 
@@ -7592,26 +7621,28 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 188]]
 
 [[START OF PAGE 189]]
-Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62. (CA No. 62, 2009)
-Paragraph 1.  The States, the Federal District, and Municipalities subject to the special regime set forth in this article shall, by means of an Executive Power act, opt for either:
 
-I  -  depositing  the  amount  referred  to  in  Paragraph  2  of  this  article  into  a special account; or
+Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62. (CA No. 62, 2009)
+
+Paragraph 1. The States, the Federal District, and Municipalities subject to the special regime set forth in this article shall, by means of an Executive Power act, opt for either:
+
+I - depositing the amount referred to in Paragraph 2 of this article into a special account; or
 
 II - adopting the special regime for a period of up to 15 (fifteen) years, in which case the percentage to be deposited into the special account referred to in Paragraph 2 of this article shall be equivalent to the total yearly balance of court-ordered debts, increased by the official rate applied to savings accounts and by simple interest applied at the same percentage of interest applied to savings accounts for the purpose of compensation of delay in the payment - the employment of compensatory interest being excluded, reduced by any paid amount, and divided by the remaining number of years in the special regime of payment.
 
-Paragraph 2.  In order to pay up both its past due and future accruing court-ordered debts through the special regime, the States, the Federal District, and Municipalities in debt shall effect a monthly deposit into a special account created for such purpose, of 1/12 (one twelfth) of the amount calculated as a percentage of the respective net current revenues, as computed in the second month preceding the month of payment, whereas such percentage, calculated at the time of opting for the special regime and kept unchanged through the end of the period referred to in Paragraph 14 of this article, shall be equal to:
+Paragraph 2. In order to pay up both its past due and future accruing court-ordered debts through the special regime, the States, the Federal District, and Municipalities in debt shall effect a monthly deposit into a special account created for such purpose, of 1/12 (one twelfth) of the amount calculated as a percentage of the respective net current revenues, as computed in the second month preceding the month of payment, whereas such percentage, calculated at the time of opting for the special regime and kept unchanged through the end of the period referred to in Paragraph 14 of this article, shall be equal to:
 
 I - in the case of the States and of the Federal District:
 
-- a) at least 1.5% (one whole and five tenths per cent), for the States of the North, Northeast, and Centre-West regions, in addition to the Federal District, or for those States where the backlog of court orders owed by their respective direct and indirect administration corresponds to up to 35% (thirty-five per cent) of the total net current revenues;
+a) at least 1.5% (one whole and five tenths per cent), for the States of the North, Northeast, and Centre-West regions, in addition to the Federal District, or for those States where the backlog of court orders owed by their respective direct and indirect administration corresponds to up to 35% (thirty-five per cent) of the total net current revenues;
 
-- b) at least 2% (two per cent), for the States of the South and Southeast Regions, where the backlog of court orders owed by their respective direct and indirect administration corresponds to over 35% (thirty-five per cent) of the net current revenues;
+b) at least 2% (two per cent), for the States of the South and Southeast Regions, where the backlog of court orders owed by their respective direct and indirect administration corresponds to over 35% (thirty-five per cent) of the net current revenues;
 
 II - in the case of Municipalities:
 
-- a) at least 1% (one per cent), for Municipalities of the North, Northeast, and Centre-West regions, or for those Municipalities where the backlog of court orders owed by their respective direct and indirect administration corresponds to up to 35% (thirty-five per cent) of the net current revenues;
+a) at least 1% (one per cent), for Municipalities of the North, Northeast, and Centre-West regions, or for those Municipalities where the backlog of court orders owed by their respective direct and indirect administration corresponds to up to 35% (thirty-five per cent) of the net current revenues;
 
-- b) at least 1.5% (one whole and five tenths per cent), for Municipalities of the South and Southeast Regions, where the backlog of court orders owed by their respective direct and indirect administration corresponds to over 35% (thirty-five per cent) of the net current revenues.
+b) at least 1.5% (one whole and five tenths per cent), for Municipalities of the South and Southeast Regions, where the backlog of court orders owed by their respective direct and indirect administration corresponds to over 35% (thirty-five per cent) of the net current revenues.
 
 Temporary Constitutional Provisions Act
 
@@ -7656,7 +7687,9 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 190]]
 
 [[START OF PAGE 191]]
+
 pending within the Judicial Power shall be qualified to take part in an auction, whereas, at the initiative of the Executive Power, it will be permitted to offset court-order debt payments against clear legal debits, either registered or not under debts in execution and attributed to the original debtor by the Treasury in debt up to the date of issuance of respective court order, save for those whose enforceability has been stayed under the terms of the law, or which have already been subject to deduction under the terms of Paragraph 9 of Article 100 of the Federal Constitution;
+
 III - auctions will be effected through public offer to all creditors qualified by the respective federating unit in debt;
 
 IV - any creditor who meets the requirements of Item II shall be considered automatically qualified;
@@ -7711,7 +7744,7 @@ Paragraph 15.  Court-ordered debts divided into installments under the terms of 
 
 Paragraph 16.  As from the date Constitutional Amendment no. 62 is enacted, the amounts stated in court orders, up until effective payment, irrespective of their nature, shall be adjusted according to the official rate applied to savings accounts, whereas, for the purpose of compensation of delay in the payment, simple interest will be applied at the same percentage of interest applied to savings accounts, the employment of compensatory interest being excluded.
 
-Paragraph 17.  While the special regime is in force, any amount in excess of the limit set forth in Paragraph 2 of Article 100 of the Federal Constitution shall be paid in accordance with Paragraphs 6 and 7 or with Items I, II, and III of Paragraph 8 of
+Paragraph 17. While the special regime is in force, any amount in excess of the limit set forth in Paragraph 2 of Article 100 of the Federal Constitution shall be paid in accordance with Paragraphs 6 and 7 or with Items I, II, and III of Paragraph 8 of
 
 198
 
@@ -7720,8 +7753,10 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 192]]
 
 [[START OF PAGE 193]]
+
 this article, whereas the amounts used to meet the provision of Paragraph 2 of Article 100 of the Federal Constitution shall be computed for the purposes of Paragraph 6 of this article.
-Paragraph 18.  While the special regime referred to in this article is in effect, the original holders of court orders who have reached the age of 60 (sixty) years old by the date of enactment of Constitutional Amendment no. 62 shall also be entitled to the priority referred to in Paragraph 6.
+
+Paragraph 18. While the special regime referred to in this article is in effect, the original holders of court orders who have reached the age of 60 (sixty) years old by the date of enactment of Constitutional Amendment no. 62 shall also be entitled to the priority referred to in Paragraph 6.
 
 Brasília, October 5, 1988.
 
@@ -7736,7 +7771,9 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 193]]
 
 [[START OF PAGE 194]]
+
 Eduardo Jorge – Eduardo Moreira – Egídio Ferreira Lima – Elias Murad – Eliel Rodrigues – Eliézer Moreira – Enoc Vieira – Eraldo Tinoco – Eraldo Trindade – Erico Pegoraro – Ervin Bonkoski – Etevaldo Nogueira – Euclides Scalco – Eunice Michiles – Evaldo Gonçalves – Expedito Machado – Ézio Ferreira – Fábio Feldmann – Fábio Raunheitti – Farabulini Júnior – Fausto Fernandes – Fausto Rocha – Felipe Mendes – Feres Nader – Fernando Bezerra Coelho – Fernando Cunha – Fernando Gasparian – Fernando Gomes – Fernando Henrique Cardoso – Fernando Lyra – Fernando Santana – Fernando Velasco – Firmo de Castro – Flavio Palmier da Veiga – Flávio Rocha – Florestan Fernandes – Floriceno Paixão – França Teixeira – Francisco Amaral – Francisco Benjamim – Francisco Carneiro – Francisco Coelho – Francisco Diógenes – Francisco Dornelles – Francisco Küster – Francisco Pinto – Francisco Rollemberg – Francisco Rossi – Francisco Sales – Furtado Leite – Gabriel Guerreiro – Gandi Jamil – Gastone Righi – Genebaldo Correia – Genésio Bernardino – Geovani Borges – Geraldo Alckmin Filho – Geraldo Bulhões – Geraldo Campos – Geraldo Fleming – Geraldo Melo – Gerson Camata – Gerson Marcondes – Gerson Peres – Gidel Dantas – Gil César – Gilson Machado – Gonzaga Patriota – Guilherme Palmeira – Gumercindo Milhomem – Gustavo de Faria – Harlan Gadelha – Haroldo Lima – Haroldo Sabóia – Hélio Costa – Hélio Duque – Hélio Manhães – Hélio Rosas – Henrique Córdova – Henrique Eduardo Alves – Heráclito Fortes – Hermes Zaneti – Hilário Braun – Homero Santos – Humberto Lucena – Humberto Souto – Iberê Ferreira – Ibsen Pinheiro – Inocêncio Oliveira – Irajá Rodrigues – Iram Saraiva – Irapuan Costa Júnior – Irma Passoni – Ismael Wanderley – Israel Pinheiro – Itamar Franco – Ivo Cersósimo – Ivo Lech – Ivo Mainardi – Ivo Vanderlinde – Jacy Scanagatta – Jairo Azi – Jairo Carneiro – Jalles Fontoura – Jamil Haddad – Jarbas Passarinho – Jayme Paliarin – Jayme Santana – Jesualdo Cavalcanti – Jesus Tajra – Joaci Góes – João Agripino – João Alves – João Calmon – João Carlos Bacelar – João Castelo – João Cunha – João da Mata – João de Deus Antunes – João Herrmann Neto – João Lobo – João Machado Rollemberg – João Menezes – João Natal – João Paulo – João Rezek – Joaquim Bevilácqua – Joaquim Francisco – Joaquim Hayckel – Joaquim Sucena – Jofran Frejat – Jonas Pinheiro – Jonival Lucas – Jorge Bornhausen – Jorge Hage – Jorge Leite – Jorge Uequed – Jorge Vianna – José Agripino – José Camargo – José Carlos Coutinho – José Carlos Grecco – José Carlos Martinez – José Carlos Sabóia – José Carlos Vasconcelos – José Costa – José da Conceição – José Dutra – José Egreja – José Elias – José Fernandes – José Freire – José Genoíno – José Geraldo – José Guedes – José Ignácio Ferreira – José Jorge – José Lins – José Lourenço – José Luiz de Sá – José Luiz Maia – José Maranhão – José Maria Eymael – José Maurício – José Melo – José Mendonça Bezerra – José Moura – José Paulo Bisol – José Queiroz – José Richa – José Santana de Vasconcellos – José Serra – José Tavares – José Teixeira – José Thomaz Nonô – José Tinoco – José Ulísses de Oliveira – José Viana – José Yunes – Jovanni Masini – Juarez Antunes – Júlio Campos – Júlio Costamilan – Jutahy Júnior – Jutahy Magalhães – Koyu Iha – Lael Varella – Lavoisier Maia – Leite Chaves – Lélio Souza – Leopoldo Peres – Leur Lomanto – Levy Dias – Lézio Sathler – Lídice da Mata – Louremberg Nunes Rocha – Lourival Baptista – Lúcia Braga – Lúcia Vânia – Lúcio Alcântara – Luís Eduardo – Luís Roberto Ponte – Luiz Alberto Rodrigues – Luiz Freire – Luiz Gushiken – Luiz Henrique – Luiz Inácio Lula da Silva – Luiz Leal – Luiz Marques – Luiz Salomão – Luiz Viana – Luiz Viana Neto – Lysâneas Maciel – Maguito Vilela – Maluly Neto –
+
 200
 
 Constitution of the Federative Republic of Brazil
@@ -7747,7 +7784,7 @@ Constitution of the Federative Republic of Brazil
 
 Manoel Castro – Manoel Moreira – Manoel Ribeiro – Mansueto de Lavor – Manuel Viana – Márcia Kubitschek – Márcio Braga – Márcio Lacerda – Marco Maciel – Marcondes Gadelha – Marcos Lima – Marcos Queiroz – Maria de Lourdes Abadia – Maria Lúcia – Mário Assad – Mário Covas – Mário de Oliveira – Mário Lima – Marluce Pinto – Matheus Iensen – Mattos Leão – Maurício Campos – Maurício Correa – Maurício Fruet – Maurício Nasser – Maurício Pádua – Maurílio Ferreira Lima – Mauro Borges – Mauro Campos – Mauro Miranda – Mauro Sampaio – Max Rosenmann – Meira Filho – Melo Freire – Mello Reis – Mendes Botelho – Mendes Canale – Mendes Ribeiro – Messias Góis – Messias Soares – Michel Temer – Milton Barbosa – Milton Lima – Milton Reis – Miraldo Gomes – Miro Teixeira – Moema São Thiago – Moysés Pimentel – Mozarildo Cavalcanti – Mussa Demes – Myrian Portella – Nabor Júnior – Naphtali Alves de Souza – Narciso Mendes – Nelson Aguiar – Nelson Carneiro – Nelson Jobim – Nelson Sabrá – Nelson Seixas – Nelson Wedekin – Nelton Friedrich – Nestor Duarte – Ney Maranhão – Nilso Sguarezi – Nilson Gibson – Nion Albernaz – Noel de Carvalho – Nyder Barbosa – Octávio Elísio – Odacir Soares – Olavo Pires – Olívio Dutra – Onofre Corrêa – Orlando Bezerra – Orlando Pacheco – Oscar Corrêa – Osmar Leitão – Osmir Lima – Osmundo Rebouças – Osvaldo Bender – Osvaldo Coelho – Osvaldo Macedo – Osvaldo Sobrinho – Oswaldo Almeida – Oswaldo Trevisan – Ottomar Pinto – Paes de Andrade – Paes Landim – Paulo Delgado – Paulo Macarini – Paulo Marques – Paulo Mincarone – Paulo Paim – Paulo Pimentel – Paulo Ramos – Paulo Roberto – Paulo Roberto Cunha – Paulo Silva – Paulo Zarzur – Pedro Canedo – Pedro Ceolin – Percival Muniz – Pimenta da Veiga – Plínio Arruda Sampaio – Plínio Martins – Pompeu de Sousa – Rachid Saldanha Derzi – Raimundo Bezerra – Raimundo Lira – Raimundo Rezende – Raquel Cândido – Raquel Capiberibe – Raul Belém – Raul Ferraz – Renan Calheiros – Renato Bernardi – Renato Johnsson – Renato Vianna – Ricardo Fiuza – Ricardo Izar – Rita Camata – Rita Furtado – Roberto Augusto – Roberto Balestra – Roberto Brant – Roberto Campos – Roberto D’Ávila – Roberto Freire – Roberto Jefferson – Roberto Rollemberg – Roberto Torres – Roberto Vital – Robson Marinho – Rodrigues Palma – Ronaldo Aragão – Ronaldo Carvalho – Ronaldo Cezar Coelho – Ronan Tito – Ronaro Corrêa – Rosa Prata – Rose de Freitas – Rospide Netto – Rubem Branquinho – Rubem Medina – Ruben Figueiró – Ruberval Pilotto – Ruy Bacelar – Ruy Nedel – Sadie Hauache – Salatiel Carvalho – Samir Achôa – Sandra Cavalcanti – Santinho Furtado – Sarney Filho – Saulo Queiroz – Sérgio Brito – Sérgio Spada – Sérgio Werneck – Severo Gomes – Sigmaringa Seixas – Sílvio Abreu – Simão Sessim – Siqueira Campos – Sólon Borges dos Reis – Stélio Dias – Tadeu França – Telmo Kirst – Teotonio Vilela Filho – Theodoro Mendes – Tito Costa – Ubiratan Aguiar – Ubiratan Spinelli – Uldurico Pinto – Valmir Campelo – Valter Pereira – Vasco Alves – Vicente Bogo – Victor Faccioni – Victor Fontana – Victor Trovão – Vieira da Silva – Vilson Souza – Vingt Rosado – Vinicius Cansanção – Virgildásio de Senna – Virgílio Galassi – Virgílio Guimarães – Vitor Buaiz – Vivaldo Barbosa – Vladimir Palmeira – Wagner Lago – Waldec Ornélas – Waldyr Pugliesi – Walmor de Luca – Wilma Maia – Wilson Campos – Wilson Martins – Ziza Valadares.
 
-##### PARTICIPANTS:
+##### Participants:
 Álvaro Dias – Antônio Britto – Bete Mendes – Borges da Silveira – Cardoso Alves – Edivaldo Holanda – Expedito Júnior – Fadah Gattass – Francisco Dias – Geovah Amarante – Hélio Gueiros – Horácio Ferraz – Hugo Napoleão –
 
 Temporary Constitutional Provisions Act
@@ -7757,9 +7794,10 @@ Temporary Constitutional Provisions Act
 [[END OF PAGE 195]]
 
 [[START OF PAGE 196]]
+
 Iturival Nascimento – Ivan Bonato – Jorge Medauar – José Mendonça de Morais – Leopoldo Bessone – Marcelo Miranda – Mauro Fecury – Neuto de Conto – Nivaldo Machado – Oswaldo Lima Filho – Paulo Almada – Prisco Viana – Ralph Biasi – Rosário Congro Neto – Sérgio Naya – Tidei de Lima.
 
-##### IN MEMORIAM:
+##### In Memoriam:
 Alair Ferreira – Antônio Farias – Fábio Lucena – Norberto Schwantes – Virgílio Távora.
 
 Published in the Official Journal, October 5, 1988.
@@ -7787,7 +7825,7 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 #### Article 1.
 Paragraph 2 of article 27 of the Constitution shall henceforth be in force with the following wording:
 
-'Article 27
+“Article 27
 
 ............................................................................
 
@@ -7795,12 +7833,12 @@ Paragraph 2 of article 27 of the Constitution shall henceforth be in force with 
 
 Paragraph 2.  The remuneration of the State Deputies shall be established in each legislative term, for the subsequent one, by the Legislative Assembly, as provided by articles 150, II, 153, III, and 153, paragraph 2, I, in the proportion of seventy-five percent, at most, of the remuneration established, in legal tender, for the Federal Deputies.
 
-................................................................................................ '
+................................................................................................ ”
 
 #### Article 2.
 The following items VI and VII are added to article 29 of the Constitution, the subsequent ones being renumbered:
 
-'Article 29
+“Article 29
 
 ............................................................................
 
@@ -7812,7 +7850,7 @@ VI - the remuneration of the City Councilmen shall correspond, at  the  most,  t
 
 VII - the total expenditure with the remuneration of the City Councilmen may not exceed the amount of five percent of the revenue of the Municipality;
 
-................................................................................................ '
+................................................................................................ ”
 
 #### Article 3.
 This Constitutional Amendment shall come into force on the date of its publication.
@@ -7850,9 +7888,9 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 #### Sole article.
 The plebiscite mentioned in article 2 of the Temporary Constitutional Provisions Act shall be held on April 21, 1993.
 
-- Paragraph 1.  The form and system of government defined by the plebiscite shall become effective on January 1, 1995.
+Paragraph 1. The form and system of government defined by the plebiscite shall become effective on January 1, 1995.
 
-- Paragraph 2.  The law may provide for the holding of the plebiscite, including provisions for the free divulgation, free of charge, of the forms and systems of government, through public utility mass communication vehicles, equal allotment of time and parity of scheduling being ensured.
+Paragraph 2. The law may provide for the holding of the plebiscite, including provisions for the free divulgation, free of charge, of the forms and systems of government, through public utility mass communication vehicles, equal allotment of time and parity of scheduling being ensured.
 
 Paragraph 3.  The rule set forth in the preceding paragraph does not preclude the competence of the Superior Electoral Court to issue instructions necessary to the holding of the plebiscite.
 
@@ -8034,9 +8072,9 @@ Item IV and paragraph 4 of article 156 of the Federal Constitution are hereby re
 
 Brasília, March 17, 1993.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Inocêncio Oliveira, President – Deputy Adylson Motta, First Vice-President – Deputy Fernando Lyra, Second Vice-President – Deputy Wilson Campos, First Secretary – Deputy Cardoso Alves, Second Secretary – Deputy B. Sá, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Inocêncio Oliveira , President - Deputy Adylson Motta , First Vice-President - Deputy Fernando Lyra ,  Second Vice-President - Deputy Wilson Campos ,  First  Secretary  -  Deputy Cardoso Alves , Second Secretary - Deputy B. Sá , Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator Humberto Lucena, President – Senator Chagas Rodrigues, First Vice-President – Senator Levy Dias, Second Vice-President – Senator Júlio Campos, First Secretary – Senator Nabor Júnior, Second Secretary – Senator Júnia Marise, Third Secretary – Senator Nelson Wedekin, Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator Humberto Lucena , President - Senator Chagas Rodrigues , First Vice-President - Senator Levy Dias , Second Vice-President - Senator Júlio Campos , First Secretary - Senator Nabor Júnior , Second Secretary - Senator Júnia Marise , Third Secretary - Senator Nelson Wedekin , Fourth Secretary.
 
 Published in the Official Journal , March 18, 1993.
 
@@ -8061,9 +8099,9 @@ Article 16 of the Federal Constitution shall henceforth be in force with the fol
 
 Brasília, September 14, 1993.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Inocêncio Oliveira, President – Deputy Wilson Campos, First Secretary – Deputy Cardoso Alves, Second Secretary – Deputy B. Sá, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Inocêncio Oliveira , President - Deputy Wilson Campos , First Secretary - Deputy Cardoso Alves , Second Secretary - Deputy B. Sá , Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator Humberto Lucena, President – Senator Chagas Rodrigues, First Vice-President – Senator Levy Dias, Second Vice-President – Senator Júlio Campos, First Secretary – Senator Nabor Júnior, Second Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator Humberto Lucena , President - Senator Chagas Rodrigues , First Vice-President - Senator Levy Dias , Second Vice-President - Senator Júlio Campos , First Secretary - Senator Nabor Júnior , Second Secretary.
 
 Published in the Official Journal , September 15, 1993.
 
@@ -8135,7 +8173,7 @@ Article 171 of the Federal Constitution is hereby revoked.
 
 Brasília, August 15, 1995.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Luís Eduardo, President – Ronaldo Perim, First Vice-President – Beto Mansur, Second Vice-President – Wilson Campos, First Secretary – Leopoldo Bessone, Second Secretary – Benedito Domingos, Third Secretary – João Henrique, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Luís Eduardo , President - Ronaldo Perim , First Vice-President - Beto Mansur , Second Vice-President - Wilson Campos , First Secretary - Leopoldo Bessone , Second Secretary - Benedito Domingos , Third Secretary - João Henrique , Fourth Secretary.
 
 > 23 This article was repeated in CA no. 7/1995.
 
@@ -8270,9 +8308,9 @@ The issuing of any provisional measure for the regulation of the matter set fort
 
 Brasília, November 9, 1995.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Luís Eduardo, President – Ronaldo Perim, First Vice-President – Beto Mansur, Second Vice-President – Wilson Campos, First Secretary – Leopoldo Bessone, Second Secretary – Benedito Domingos, Third Secretary – João Henrique, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Luís Eduardo , President - Ronaldo Perim , First Vice-President - Beto Mansur , Second Vice-President - Wilson Campos , First Secretary - Leopoldo Bessone , Second Secretary - Benedito Domingos , Third Secretary - João Henrique , Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: José Sarney, President – Teotonio Vilela Filho, First Vice-President – Júlio Campos, Second Vice-President
+THE DIRECTING BOARD OF THE FEDERAL SENATE: José Sarney , President - Teotonio Vilela Filho , First Vice-President - Júlio Campos , Second Vice-President
 
 218
 
@@ -8530,7 +8568,7 @@ Paragraph 2.  The Fund referred to in the preceding paragraph shall be made up b
 
 Paragraph 3.  The Union shall supplement the resources of the Funds referred to in paragraph 1, whenever in each State and in the Federal District its value per student does not reach the nationally set minimum.
 
-Paragraph 4.  The Union, the States, the Federal District and the Municipalities shall effect, during a period of five years, progressive adjustments of their contributions to the Fund, so
+Paragraph 4.  The Union, the States, the Federal District and the Municipalities shall effect, during a period of five years, progressive adjustments of their contributions to the Fund, so as to guarantee a value per student corresponding to a minimum quality standard of education, defined at the national level.
 
 Constitutional Amendments
 
@@ -8539,8 +8577,6 @@ Constitutional Amendments
 [[END OF PAGE 220]]
 
 [[START OF PAGE 221]]
-
-as to guarantee a value per student corresponding to a minimum quality standard of education, defined at the national level.
 
 Paragraph 5.  A share of not less than 60% of the resources of each Fund referred to in paragraph 1 shall be used for the payment of elementary education teachers actually teaching.
 
@@ -8710,11 +8746,11 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, November 22, 1997.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Paulo Paim , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Paulo Paim, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antonio  Carlos Magalhães , President Geraldo Melo , First Vice-President Júnia Marise , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Flaviano Melo , Third Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antonio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Júnia Marise, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Flaviano Melo, Third Secretary.
 
-Published in the Official Journal , November 25, 1997.
+Published in the Official Journal, November 25, 1997.
 
 Constitutional Amendments
 
@@ -8765,7 +8801,7 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 1.  ............................................................................
 
-II - . ...........................................................................................
+II - ...........................................................................................
 
 c) government employees of the Union and Territories, their legal statute, appointment to offices, tenure and retirement;
 
@@ -8815,11 +8851,11 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, February 5, 1998.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Paulo Paim , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Paulo Paim, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antonio  Carlos Magalhães , President Geraldo Melo , First Vice-President Júnia Marise , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Flaviano Melo , Third Secretary Lucídio Portella , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antonio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Júnia Marise, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Flaviano Melo, Third Secretary – Lucídio Portella, Fourth Secretary.
 
-Published in the Official Journal , February 6, 1998.
+Published in the Official Journal, February 6, 1998.
 
 236
 
@@ -8883,7 +8919,7 @@ Paragraph 2.  The compensation of State Deputies shall be established by an act 
 
 Paragraph 1.  The Governor who takes another post or function in governmental entities or entities owned by the Government shall lose his office, with the exception of the taking of office by virtue of a public sector entrance examination, and with due regard for the provisions in article 38, I, IV , and V .
 
-Paragraph 2.  The compensation of the Governor, the Vice- Governor, and of the State Cabinet Members shall be established by an act of the State Legislative  Assembly, as provided by articles 37, XI, 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I.'
+Paragraph 2.  The compensation of the Governor, the Vice-Governor, and of the State Cabinet Members shall be established by an act of the State Legislative Assembly, as provided by articles 37, XI, 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I.'
 
 'Article 29. ..............................................................................
 
@@ -8944,11 +8980,11 @@ Constitutional Amendments
 
 XVI - remunerated accumulation of public offices is forbidden, except, when there is compatibility of working hours, and with due regard, in any instance, for the provision of item XI:
 
-- of two teaching positions;
+a) of two teaching positions;
 
-- of one teaching position with another technical or scientific position;
+b) of one teaching position with another technical or scientific position;
 
-- of two exclusively medical positions;
+c) of two exclusively medical positions;
 
 XVII - the prohibition to accumulate extends to positions and functions and includes associate government agencies, foundations, public enterprises, joint  stock  companies,  their subsidiary companies, and companies controlled either directly or indirectly by the Government;
 
@@ -9389,11 +9425,11 @@ This Constitutional Amendment shall come into force on the date of its promulgat
 
 Brasília, June 4, 1998.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Paulo Paim , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Paulo Paim, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Júnia Marise , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Flaviano Melo , Third Secretary Lucídio Portella , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Júnia Marise, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Flaviano Melo, Third Secretary – Lucídio Portella, Fourth Secretary.
 
-Published in the Official Journal , June 5, 1998.
+Published in the Official Journal, June 5, 1998.
 
 Constitutional Amendments
 
@@ -9526,7 +9562,7 @@ VI - the retirement of judges as well as the pensions for their dependents shall
 
 Paragraph 3.  The provision contained in the head paragraph of this article, regarding the emission of court orders, does not apply to bonds defined by law as being of a small amount, which must be paid by the federal, state, or municipal finance authorities by virtue of a final and unappealable court decision.'
 
-'Article 114. . ............................................................................
+'Article 114. ............................................................................
 
 Constitutional Amendments
 
@@ -9572,11 +9608,11 @@ VII - democratic and decentralized character of administration, by means of a qu
 
 I - of employers, companies, and entities defined by law as being comparable to companies, assessed on:
 
-- the payroll and other labour earnings paid or credited, on any account, to individuals who render services to them, even when there is no employment bond;
+a) the payroll and other labour earnings paid or credited, on any account, to individuals who render services to them, even when there is no employment bond;
 
-- income or revenues;
+b) income or revenues;
 
-- profits;
+c) profits;
 
 II - of workers and other persons insured by social security, no contribution being assessed on retirement pensions and other pensions granted by the general social security scheme referred to in article 201;
 
@@ -9640,11 +9676,11 @@ Paragraph 8.  The requirements referred to in item I of the preceding paragraph 
 
 Paragraph  9.  For  purposes  of  retirement,  the  reciprocal computation of the period of contribution in government bodies and in private activity, either rural or urban, shall be ensured, in which case the various social security schemes shall offset each other financially, in accordance with criteria established by law.
 
-Paragraph 10.  The law shall regulate the coverage of employmentinjury risks, and such coverage shall be provided both by the general social security scheme and the private sector.
+Paragraph 10.  The law shall regulate the coverage of employment-injury risks, and such coverage shall be provided both by the general social security scheme and the private sector.
 
 Paragraph 11.  The amounts habitually earned by an employee, on any account, shall be incorporated into his monthly salary for purposes of social security contribution and the resulting effects on benefits, in the cases and in the manner provided by law.'
 
-'Article  202.  The  private  social  security  scheme,  of  a complementary nature and organized on an autonomous basis as regards the general social security scheme, shall be optional, based  on  the  formation  of  reserves  which  guarantee  the contracted benefit, and regulated by a supplementary law.
+'Article 202.  The private social security scheme, of a complementary nature and organized on an autonomous basis as regards the general social security scheme, shall be optional,
 
 258
 
@@ -9654,7 +9690,9 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 252]]
 
-Paragraph 1.  The supplementary law referred to in this article shall ensure that the participant in benefit plans of private pension plan  companies is provided with full access to information regarding the management of their respective plans.
+based on the formation of reserves which guarantee the contracted benefit, and regulated by a supplementary law.
+
+Paragraph 1.  The supplementary law referred to in this article shall ensure that the participant in benefit plans of private pension plan companies is provided with full access to information regarding the management of their respective plans.
 
 Paragraph 2.  The contributions of employers, the benefits, and the terms of contracts set forth in the bylaws, regulations, and benefit plans of the private pension plan companies are neither an integral part of the employment contract of participants, nor, with the exception of the benefits granted, an integral part of the remuneration of participants, under the terms of the law.
 
@@ -9669,7 +9707,7 @@ Paragraph 6.  The supplementary law referred to in paragraph 4 of this article s
 #### Article 2.
 The following articles are added to the General Constitutional Provisions of the Federal Constitution:
 
-'Article  248. The benefits  paid,  under  any  auspices,  by  the agency in charge of the general social security scheme, even if they are financed by the National Treasury, and those benefits not  subject  to  the  maximum  amount  stipulated  for  benefits granted by such scheme shall comply with the limits set forth in article 37, XI.
+'Article 248. The benefits paid, under any auspices, by the agency in charge of the general social security scheme, even if they are financed by the National Treasury, and those benefits not subject to the maximum amount stipulated for benefits
 
 Constitutional Amendments
 
@@ -9679,7 +9717,9 @@ Constitutional Amendments
 
 [[START OF PAGE 253]]
 
-Article 249. For the purpose of securing monies for the payment of  retirement  pensions  and  other  pensions  granted  to  their respective employees and their dependents, in addition to the monies of their respective treasuries, the Union, the States, the Federal District, and the Municipalities may establish funds, made up of monies arising from contributions, and of property, rights,  and  assets  of  any  kind,  by  means  of  a  law  that  shall provide for the nature and the management of such funds.
+granted by such scheme shall comply with the limits set forth in article 37, XI.
+
+Article 249. For the purpose of securing monies for the payment of retirement pensions and other pensions granted to their respective employees and their dependents, in addition to the monies of their respective treasuries, the Union, the States, the Federal District, and the Municipalities may establish funds, made up of monies arising from contributions, and of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such funds.
 
 Article 250. For the purpose of securing monies for the payment of benefits granted by the general social security scheme, in addition to the monies arising from taxation, the Union may establish a fund made up of property, rights, and assets of any kind, by means of a law that shall provide for the nature and the management of such a fund.'
 
@@ -9696,7 +9736,7 @@ Paragraph 3.  All rights and guarantees ensured by constitutional provisions in 
 With due regard for article 40, paragraph 10, of the Federal Constitution, the period of service taken into account by the current legislation for the purpose of retirement, and completed by the time the law regulates the matter, shall be computed as a period of contribution.
 
 #### Article 5.
-The provision of article 202, paragraph 3, of the Federal Constitution, regarding the requirement of parity between the contribution of the sponsor and that of the insured, shall come into force two years as from the publication of this Amendment, or on the date of publication of the supplementary law mentioned in paragraph 4 of the same article, if such publication takes place first.
+The provision of article 202, paragraph 3, of the Federal Constitution, regarding the requirement of parity between the contribution of the sponsor and
 
 260
 
@@ -9705,6 +9745,8 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 253]]
 
 [[START OF PAGE 254]]
+
+that of the insured, shall come into force two years as from the publication of this Amendment, or on the date of publication of the supplementary law mentioned in paragraph 4 of the same article, if such publication takes place first.
 
 #### Article 6.
 The closed private pension plan companies sponsored by public entities, including public enterprises and joint stock companies, must review, two years as from the publication of this  Amendment, their benefit and service plans, so as to adjust them to their assets in terms of actuarial calculations, otherwise subject to intervention, and their managers as well as those of their respective sponsors shall bear civil and criminal liability for non-compliance with the provision of this article.
@@ -9718,25 +9760,25 @@ The bills of supplementary laws stated in article 202 of the Federal Constitutio
 #### Article 9.
 With due regard for the provision of article 4 of this Amendment, and excepting the right to opt for retirement under the terms established by this Amendment for the general social security scheme, the right to retirement is ensured to participants who join the general social security scheme, before the date of publication of this Amendment, when they meet the following cumulative conditions:
 
-- I - fifty-three years of age, if a man, and forty-eight, if a woman;
+I - fifty-three years of age, if a man, and forty-eight, if a woman;
 
-- II - a period of contribution equal to at least the sum of:
+II - a period of contribution equal to at least the sum of:
 
-- thirty-five years, if a man, and thirty, if a woman; and
+a) thirty-five years, if a man, and thirty, if a woman; and
 
-- an additional period of contribution equivalent to twenty percent of the period which, at the date of publication of this Amendment, would still be necessary to reach the limit set forth in the preceding letter.
+b) an additional period of contribution equivalent to twenty percent of the period which, at the date of publication of this Amendment, would still be necessary to reach the limit set forth in the preceding letter.
 
 Paragraph 1.  The participants mentioned in this article, with due regard for its item I, and in accordance with article 4 of this Amendment, may go into retirement with pay in proportion to the period of contribution, if they meet the following conditions:
 
-- I - a period of contribution equal to at least the sum of:
+I - a period of contribution equal to at least the sum of:
 
-- thirty years, if a man, and twenty-five years, if a woman; and
+a) thirty years, if a man, and twenty-five years, if a woman; and
 
-- an additional period of contribution equivalent to forty percent of the period which, at the date of publication of this Amendment, would still be necessary to reach the limit set forth in the preceding letter;
+b) an additional period of contribution equivalent to forty percent of the period which, at the date of publication of this Amendment, would still be necessary to reach the limit set forth in the preceding letter;
 
 II - the proportional retirement pay shall be equivalent to seventy percent of the retirement pay referred to in the head paragraph of this article, increased by the addition of five percent per year of contribution which exceeds the sum referred to in the preceding item, up to the limit of one hundred percent.
 
-Paragraph 2.  The  period  of  service  performed  until  the  publication  of  this Amendment shall be increased by the addition of seventeen percent, for a male teacher, and twenty percent, for a female teacher, who, until the date of publication of this Amendment, has exercised teaching activities and opts to retire under the terms of the head paragraph of this article, provided that such retirement is based exclusively on the period of effective exercise of a teaching function.
+Paragraph 2.  The period of service performed until the publication of this Amendment shall be increased by the addition of seventeen percent, for a male teacher, and twenty percent, for a female teacher, who, until the date of publication of this Amendment, has exercised teaching activities and opts to retire under the terms of
 
 Constitutional Amendments
 
@@ -9745,6 +9787,8 @@ Constitutional Amendments
 [[END OF PAGE 254]]
 
 [[START OF PAGE 255]]
+
+the head paragraph of this article, provided that such retirement is based exclusively on the period of effective exercise of a teaching function.
 
 #### Article 10.
 The complementary social security scheme referred to in article 40, paragraphs 14, 15, and 16, of the Federal Constitution, may only be instituted after the publication of the supplementary law set forth in paragraph 15 of the same article.
@@ -9780,11 +9824,11 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 256]]
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Paulo Paim , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Paulo Paim, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Júnia Marise , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Flaviano Melo , Third Secretary Lucídio Portella , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Júnia Marise, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Flaviano Melo, Third Secretary – Lucídio Portella, Fourth Secretary.
 
-Published in the Official Journal , December 16, 1998.
+Published in the Official Journal, December 16, 1998.
 
 Constitutional Amendments
 
@@ -9816,7 +9860,7 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, March 18, 1999.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Efraim Morais, Fourth Secretary.
 
 264
 
@@ -9826,9 +9870,9 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 258]]
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior ,  Third Secretary -Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , March 19, 1999.
+Published in the Official Journal, March 19, 1999.
 
 Constitutional Amendments
 
@@ -9862,7 +9906,7 @@ Subitem i of item I of article 102 of the Federal Constitution shall be in force
 
 I - .............................................................................................
 
-- habeas corpus ,  when  the  constraining  party  is  a  Superior Court, or when the constraining party or the petitioner is an authority or employee whose acts are directly subject to the jurisdiction of the Supreme Federal Court, or in the case of a crime, subject to the same jurisdiction in one sole instance;
+i) habeas corpus, when the constraining party is a Superior Court, or when the constraining party or the petitioner is an authority or employee whose acts are directly subject to the jurisdiction of the Supreme Federal Court, or in the case of a crime, subject to the same jurisdiction in one sole instance;
 
 ................................................................................................ '
 
@@ -9875,7 +9919,7 @@ Subitem c of item I of article 105 of the Federal Constitution shall be in force
 
 I - .............................................................................................
 
-- habeas corpus , when the constraining party or the petitioner is any of the persons mentioned in subitem a , when the constraining party is a court, subject to its jurisdiction, or a Minister of State, except for the competence of the Electoral Courts;
+c) habeas corpus, when the constraining party or the petitioner is any of the persons mentioned in subitem a, when the constraining party is a court, subject to its jurisdiction, or a Minister of State, except for the competence of the Electoral Courts;
 
 ................................................................................................ '
 
@@ -9892,11 +9936,11 @@ Constitution of the Federative Republic of Brazil
 
 Brasília, March 18, 1999.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior ,  Third Secretary -Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , March 19, 1999.
+Published in the Official Journal, March 19, 1999.
 
 Constitutional Amendments
 
@@ -9965,7 +10009,7 @@ Constitution of the Federative Republic of Brazil
 
 I - .............................................................................................
 
-- in common criminal offenses and crimes of malversation, the Ministers of State and the Commanders of the Navy, the Army, and the Air Force, except as provided in article 52, I, the members of the Superior Courts, those of the Federal Audit Court and the heads of permanent diplomatic missions;
+c) in common criminal offenses and crimes of malversation, the Ministers of State and the Commanders of the Navy, the Army, and the Air Force, except as provided in article 52, I, the members of the Superior Courts, those of the Federal Audit Court and the heads of permanent diplomatic missions;
 
 ................................................................................................ '
 
@@ -9975,9 +10019,9 @@ I - ............................................................................
 
 I - .............................................................................................
 
-- writs  of  mandamus  and habeas data against  an  act  of  a Minister of State, of the Commanders of the Navy, the Army, and the Air Force, or of the Court itself;
+b) writs of mandamus and habeas data against an act of a Minister of State, of the Commanders of the Navy, the Army, and the Air Force, or of the Court itself;
 
-- habeas corpus , when the constraining party or the petitioner is  any  of  the  persons  mentioned  in  subitem a ,  or  when  the constraining party is a court subject to its jurisdiction, a Minister of State or Commander of the Navy, the Army, or the Air Force, except for the competence of the Electoral Courts;
+c) habeas corpus, when the constraining party or the petitioner is any of the persons mentioned in subitem a, or when the constraining party is a court subject to its jurisdiction, a Minister of State or Commander of the Navy, the Army, or the Air Force, except for the competence of the Electoral Courts;
 
 ................................................................................................ '
 
@@ -9986,11 +10030,11 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, September 2, 1999.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Carlos Patrocínio , Second Secretary, Acting First Secretary Nabor Júnior , Third Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Carlos Patrocínio, Second Secretary, Acting First Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , September 3, 1999.
+Published in the Official Journal, September 3, 1999.
 
 Constitutional Amendments
 
@@ -10009,9 +10053,7 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 #### Article 1.
 Articles 111, 112, 113, 115, and 116 of the Federal Constitution shall henceforth be in force with the following wording:
 
-'Article 111. 25
-
-��������������������������������������������������������������������������
+'Article 111.25
 
 ..................................................................................................
 
@@ -10062,11 +10104,11 @@ Article 117 of the Federal Constitution is hereby revoked.
 
 Brasília, December 9, 1999.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , December 10, 1999.
+Published in the Official Journal, December 10, 1999.
 
 Constitutional Amendments
 
@@ -10084,8 +10126,6 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 #### Article 1.
 Item VI of article 29 of the Federal Constitution shall henceforth be in force with the following wording:
-
-'Article 29. ..............................................................................
 
 'Article 29. ..............................................................................
 
@@ -10145,7 +10185,7 @@ This Amendment shall come into force on January 1, 2001.
 
 Brasília, February 14, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
 Constitutional Amendments
 
@@ -10155,9 +10195,9 @@ Constitutional Amendments
 
 [[START OF PAGE 267]]
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , February 15, 2000.
+Published in the Official Journal, February 15, 2000.
 
 274
 
@@ -10183,11 +10223,11 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, February 14, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , February 15, 2000.
+Published in the Official Journal, February 15, 2000.
 
 Constitutional Amendments
 
@@ -10217,11 +10257,11 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, March 21, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , March 22, 2000.
+Published in the Official Journal, March 22, 2000.
 
 276
 
@@ -10254,11 +10294,11 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, May 25, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Casildo Maldaner , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Casildo Maldaner, Fourth Secretary.
 
-Published in the Official Journal , May 26, 2000, rectified on May 29, 2000.
+Published in the Official Journal, May 26, 2000, rectified on May 29, 2000.
 
 Constitutional Amendments
 
@@ -10281,9 +10321,9 @@ Subitem e of item VII of article 34 shall henceforth read as follows:
 
 ..................................................................................................
 
-VII - . ........................................................................................
+VII - ........................................................................................
 
-- the  application  of  the  minimum  required  amount  of  the revenues  resulting  from  state  taxes,  including  revenues originating from transfers, to the maintenance and development of education and to health actions and public services.'
+e) the application of the minimum required amount of the revenues resulting from state taxes, including revenues originating from transfers, to the maintenance and development of education and to health actions and public services.'
 
 #### Article 2.
 Item III of article 35 shall henceforth read as follows:
@@ -10346,7 +10386,7 @@ Article 198 shall henceforth include the following paragraphs 2 and 3, and the c
 
 ..................................................................................................
 
-Paragraph 1 (original sole paragraph) . .....................................
+Paragraph 1 (original sole paragraph) .....................................
 
 Paragraph 2.  The Union, the States, the Federal District, and the Municipalities shall apply each year, to health actions and public services, a minimum amount of funds derived from the application of percentages calculated upon the following:'
 
@@ -10412,11 +10452,11 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, September 13, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary.
 
-Published in the Official Journal , September 14, 2000.
+Published in the Official Journal, September 14, 2000.
 
 Constitutional Amendments
 
@@ -10434,8 +10474,6 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 
 #### Article  1.
 Article  100  of  the  Federal  Constitution  shall  henceforth  read  as follows:
-
-'Article 100. ............................................................................
 
 'Article 100. ............................................................................
 
@@ -10479,7 +10517,7 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, September 13, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
 Constitutional Amendments
 
@@ -10489,7 +10527,7 @@ Constitutional Amendments
 
 [[START OF PAGE 277]]
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary.
 
 Published in the Official Journal , September 14, 2000.
 
@@ -10518,7 +10556,7 @@ Article 80. The Fund to Fight and Eradicate Poverty is comprised of:
 
 I - the part of the proceeds from the collection corresponding to  additional  eight  hundredths  of  one  percent,  applicable from June 18, 2000, through June 17, 2002, to the rate of the social contribution referred to in article 75 of the Temporary Constitutional Provisions Act;
 
-II - the part of the proceeds from the collection corresponding to additional five percent on the rate of the federal V AT [IPI], or of the tax that may eventually replace it, levied on luxury goods and applicable while the Fund is in force;
+II - the part of the proceeds from the collection corresponding to additional five percent on the rate of the federal VAT [IPI], or of the tax that may eventually replace it, levied on luxury goods and applicable while the Fund is in force;
 
 III - the proceeds from the collection of the tax referred to in article 153, item VII, of the Constitution;
 
@@ -10550,7 +10588,7 @@ Paragraph 3.  The resources that make up the Fund referred to  in  the  head  pa
 
 Article 82. The States, the Federal District, and the Municipalities shall institute Funds to Fight Poverty, comprised of the resources referred to in this article and other resources that may eventually be allocated for this purpose, and the said Funds shall be managed by entities which include the participation of civil society.
 
-Paragraph 1.  With a view to financing the State Funds and the Federal District Fund, an additional tax of up to two percent may be created, to raise the rate of the State V AT [ICMS], or the rate of the tax that may eventually replace it, levied on luxury goods and services, and the provision of article 158, item IV, of the Constitution shall not be applicable to such additional tax.
+Paragraph 1.  With a view to financing the State Funds and the Federal District Fund, an additional tax of up to two percent may be created, to raise the rate of the State VAT [ICMS], or the rate of the tax that may eventually replace it, levied on luxury goods
 
 286
 
@@ -10559,7 +10597,7 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 279]]
 
 [[START OF PAGE 280]]
-
+and services, and the provision of article 158, item IV, of the Constitution shall not be applicable to such additional tax.
 Paragraph 2.  With a view to financing the Municipal Funds, an additional tax of up to half of one percent may be created, to raise the rate of the local service tax [ISS], or the rate of the tax that may eventually replace it, levied on luxury services.
 
 Article  83. A  federal  law  shall  define  the  luxury  goods  and services referred to in articles 80, item II, and 82, paragraphs 1 and 2.'
@@ -10569,9 +10607,9 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, December 14, 2000.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer , President Heráclito Fortes ,  First Vice-President Severino Cavalcanti ,  Second Vice-President Ubiratan Aguiar , First Secretary Nelson Trad , Second Secretary -Jaques Wagner , Third Secretary Efraim Morais , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Michel Temer, President – Heráclito Fortes, First Vice-President – Severino Cavalcanti, Second Vice-President – Ubiratan Aguiar, First Secretary – Nelson Trad, Second Secretary – Jaques Wagner, Third Secretary – Efraim Morais, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio  Carlos Magalhães , President Geraldo Melo , First Vice-President Ademir Andrade , Second Vice-President Ronaldo Cunha Lima , First Secretary Carlos Patrocínio , Second Secretary Nabor Júnior , Third Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Antônio Carlos Magalhães, President – Geraldo Melo, First Vice-President – Ademir Andrade, Second Vice-President – Ronaldo Cunha Lima, First Secretary – Carlos Patrocínio, Second Secretary – Nabor Júnior, Third Secretary.
 
 Published in the Official Journal , December 18, 2000.
 
@@ -10658,7 +10696,7 @@ Paragraph 4.  The period mentioned in paragraph 3 shall be counted from the date
 
 Paragraph 5.  Deliberation  by  each  House  of  the  National Congress upon the merits of provisional measures shall depend on prior determination of their compliance with the constitutional requirements.
 
-Paragraph 6.  If a provisional measure is not examined within forty-five days as of its date of publication, it shall subsequently be  forwarded to  urgent  consideration  in  each  House  of  the National Congress, and the deliberation of all other legislative matters  shall  be  suspended  in  the  House  where  it  is  under consideration, until such time as voting is concluded.
+Paragraph 6.  If a provisional measure is not examined within forty-five days as of its date of publication, it shall subsequently be forwarded to urgent consideration in each House of the National Congress, and the deliberation of all other legislative
 
 Constitutional Amendments
 
@@ -10667,7 +10705,7 @@ Constitutional Amendments
 [[END OF PAGE 282]]
 
 [[START OF PAGE 283]]
-
+matters shall be suspended in the House where it is under consideration, until such time as voting is concluded.
 Paragraph 7.  If  the  voting  of  a  provisional  measure  is  not concluded in both Houses of the National Congress within the period of sixty days as of its date of publication, its period of effectiveness may be extended once for an identical period of time.
 
 Paragraph 8.  The voting of provisional measures shall start in the House of Deputies.
@@ -10704,9 +10742,9 @@ Constitution of the Federative Republic of Brazil
 
 VI - provide for the following, by means of a decree:
 
-- organization and operation of federal government services, whenever no augmentation of expenditures or creation or abolishment of government bodies is involved;
+a) organization and operation of federal government services, whenever no augmentation of expenditures or creation or abolishment of government bodies is involved;
 
-- abolishment of public positions or posts, if vacant;
+b) abolishment of public positions or posts, if vacant;
 
 ................................................................................................ '
 
@@ -10722,9 +10760,9 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, September 11, 2001.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President  Efraim Morais ,  First  Vice-President  Barbosa Neto ,  Second VicePresident Nilton Capixaba , Second Secretary Paulo Rocha ,  Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Efraim Morais, First Vice-President – Barbosa Neto, Second Vice-President – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Edison Lobão , President Pro-Tempore Antonio Carlos Valadares , Second Vice-President Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary Ronaldo Cunha Lima , Third Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Edison Lobão, President Pro-Tempore – Antonio Carlos Valadares, Second Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Ronaldo Cunha Lima, Third Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , September 12, 2001.
 
@@ -10753,15 +10791,15 @@ Paragraph 1.  ..................................................................
 
 Paragraph 2.  The social contribution taxes mentioned in the head paragraph of this article, as well as the contribution taxes regarding intervention in the economic domain:
 
-- I - shall not be levied on export earnings;
+I – shall not be levied on export earnings;
 
-II - may be levied on the importation of petroleum and petroleum products, natural gas and its by-products, and fuel alcohol;
+II – may be levied on the importation of petroleum and petroleum products, natural gas and its by-products, and fuel alcohol;
 
-III - may have the following rates:
+III – may have the following rates:
 
-- ad valorem rates, having as basis the proceeds, gross revenues, or the value of the transaction, and, in the case of importation, the customs value;
+a) ad valorem rates, having as basis the proceeds, gross revenues, or the value of the transaction, and, in the case of importation, the customs value;
 
-- specific  rates,  having  as  basis  the  unit  of  measurement adopted.
+b) specific rates, having as basis the unit of measurement adopted.
 
 Paragraph 3.  A natural person who is the recipient in an import transaction may be held as equivalent to a corporate body, under the terms of the law.
 
@@ -10804,7 +10842,7 @@ I - in transactions involving lubricants and petroleum-derived fuels, the tax sh
 
 II - in interstate transactions among taxpayers involving natural gas and its by-products, and lubricants and fuels not included in item I of this paragraph, the tax shall be shared by the state of origin and the state of destination, and the proportion existing in transactions involving other goods shall be observed;
 
-III - in interstate transactions involving natural gas and its byproducts, and lubricants and fuels not included in item I of this paragraph, when it is not incumbent upon the recipient to pay the tax, such tax shall be attributed to the state of origin;
+III - in interstate transactions involving natural gas and its by-products, and lubricants and fuels not included in item I of this paragraph, when it is not incumbent upon the recipient to pay the tax, such tax shall be attributed to the state of origin;
 
 IV - the tax rates shall be defined by joint decision of states and the Federal District, under the terms of paragraph 2, XII, g , with due regard for the following:
 
@@ -10833,19 +10871,19 @@ Article  177  of  the  Federal  Constitution  shall  henceforth  include  the fo
 
 Paragraph 4.  The law which institutes a contribution tax of intervention  in  the  economic  domain  regarding  activities  of importation  or  sale  of  petroleum  and  petroleum  products, natural gas and its by-products, and fuel alcohol shall include the following requirements:
 
-- I - the contribution rate may be:
+I – the contribution rate may be:
 
-- different for each product or use;
+a) different for each product or use;
 
-- lowered and restored to its original level by an act of the Executive Branch, and the provision of article 150, III, b , shall not apply thereto;
+b) lowered and restored to its original level by an act of the Executive Branch, and the provision of article 150, III, b, shall not apply thereto;
 
-- II - the proceeds from the collection of the contribution shall be allocated:
+II – the proceeds from the collection of the contribution shall be allocated:
 
-- to  the  payment  of  price  or  transportation  subsidies  for fuel  alcohol,  natural  gas  and  its  by-products,  and  petroleum products;
+a) to the payment of price or transportation subsidies for fuel alcohol, natural gas and its by-products, and petroleum products;
 
-- to  the  financing  of  environmental  projects  related  to  the petroleum and gas industry;
+b) to the financing of environmental projects related to the petroleum and gas industry;
 
-- to the financing of transportation infrastructure programs.'
+c) to the financing of transportation infrastructure programs.'
 
 #### Article 4.
 Until  such  time  as  the  supplementary  law  mentioned  in  article  155, paragraph 2, XII, h , of the Federal Constitution, comes into force, the states and the Federal District, by means of an agreement entered into under the terms of paragraph 2, XII, g , of the said article, shall establish provisional rules to regulate the matter.
@@ -10855,7 +10893,7 @@ This Constitutional Amendment shall come into force on the date of its promulgat
 
 Brasília, December 11, 2001.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President  Efraim Morais ,  First  Vice-President  Barbosa Neto ,  Second Vice- President Severino Cavalcanti , First Secretary Nilton Capixaba , Second Secretary -Paulo Rocha , Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Efraim Morais, First Vice-President – Barbosa Neto, Second Vice-
 
 294
 
@@ -10864,8 +10902,9 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 287]]
 
 [[START OF PAGE 288]]
+President – Severino Cavalcanti, First Secretary – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President Edison Lobão , First Vice-President Antonio Carlos Valadares , Second Vice-President -Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary Ronaldo Cunha Lima , Third Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Antonio Carlos Valadares, Second Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Ronaldo Cunha Lima, Third Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , December 12, 2001.
 
@@ -10928,7 +10967,7 @@ Article 53 of the Federal Constitution shall henceforth be in force with the fol
 
 Paragraph 1.  Deputies and Senators, from the date of issuance of the certificate of election victory, shall be tried by the Supreme Federal Court.
 
-Paragraph 2.  From the date of issuance of the certificate of election victory, the members of the National Congress may not be arrested, except in fl agrante delicto of a non-bailable offense. In such case, the case records shall be sent within twenty-four hours to the respective House, which, by the vote of the majority of its members, shall decide on the arrest.
+Paragraph 2.  From the date of issuance of the certificate of election victory, the members of the National Congress may not be arrested, except in flagrante delicto of a non-bailable offense. In such case, the case records shall be sent within twenty-four hours to the respective House, which, by the vote of the majority of its members, shall decide on the arrest.
 
 Paragraph 3.  Upon receiving an accusation against a Senator or Deputy, for an offense committed after the issuance of the certificate of election victory, the Supreme Federal Court shall inform the respective House, which, by the initiative of a political party therein represented and by the vote of the majority of those House members, may, until such time as a final decision is issued, stay consideration of the action.
 
@@ -10955,9 +10994,9 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, December 20, 2001.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President  Efraim Morais ,  First  Vice-President  Barbosa Neto ,  Second VicePresident Severino Cavalcanti , First Secretary Nilton Capixaba , Second Secretary -Paulo Rocha , Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Efraim Morais, First Vice-President – Barbosa Neto, Second Vice-President – Severino Cavalcanti, First Secretary – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President Edison Lobão , First Vice-President Antonio Carlos Valadares , Second Vice-President -Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary Ronaldo Cunha Lima , Third Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Antonio Carlos Valadares, Second Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Ronaldo Cunha Lima, Third Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , December 21, 2001.
 
@@ -11003,9 +11042,9 @@ Constitutional Amendments
 
 Brasília, May 28, 2002.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President  Barbosa Neto ,  Second Vice-President  Severino Cavalcanti ,  First Secretary Nilton Capixaba , Second Secretary Paulo Rocha , Third Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Barbosa Neto, Second Vice-President – Severino Cavalcanti, First Secretary – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President -Edison Lobão ,  First  Vice-President  Antonio Carlos Valadares ,  Second VicePresident Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary -Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Antonio Carlos Valadares, Second Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , May 29, 2002.
 
@@ -11155,9 +11194,9 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, June 12, 2002.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President Barbosa Neto , Second Vice-President Nilton Capixaba , Second Secretary -Paulo Rocha , Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Barbosa Neto, Second Vice-President – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President -Edison Lobão , First Vice-President Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary Ronaldo Cunha Lima , Third Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Ronaldo Cunha Lima, Third Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , June 13, 2002.
 
@@ -11187,9 +11226,9 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, June 12, 2002.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves , President Barbosa Neto , Second Vice-President Nilton Capixaba , Second Secretary -Paulo Rocha , Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Aécio Neves, President – Barbosa Neto, Second Vice-President – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President -Edison Lobão , First Vice-President Carlos Wilson , First Secretary Antero Paes de Barros , Second Secretary Ronaldo Cunha Lima , Third Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Carlos Wilson, First Secretary – Antero Paes de Barros, Second Secretary – Ronaldo Cunha Lima, Third Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , June 13, 2002.
 
@@ -11219,9 +11258,9 @@ This Constitutional Amendment shall come into force on the date of its publicati
 
 Brasília, December 19, 2002.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Efraim Morais , President  Barbosa Neto ,  Second Vice-President  Severino Cavalcanti ,  First Secretary Nilton Capixaba , Second Secretary Paulo Rocha ,  Third Secretary Ciro Nogueira , Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Efraim Morais, President – Barbosa Neto, Second Vice-President – Severino Cavalcanti, First Secretary – Nilton Capixaba, Second Secretary – Paulo Rocha, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet , President Edison Lobão , First Vice-President Antonio Carlos Valadares , Second Vice-President -Carlos Wilson , First Secretary Mozarildo Cavalcanti , Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Ramez Tebet, President – Edison Lobão, First Vice-President – Antonio Carlos Valadares, Second Vice-President – Carlos Wilson, First Secretary – Mozarildo Cavalcanti, Fourth Secretary.
 
 Published in the Official Journal , December 20, 2002.
 
@@ -11255,25 +11294,25 @@ Article  192  of  the  Federal  Constitution  shall  henceforth  read  as follow
 
 'Article  192. The national financial  system,  structured  to promote the balanced development of the country and to serve the  collective  interests,  in  all  of  the  component  elements  of the  system,  including  credit  cooperatives,  shall  be  regulated by  supplementary  laws  which  shall  also  provide  for  the participation of foreign capital in the institutions that make up the said system.
 
-- I - (Revoked);
+I – (Revoked);
 
-- II - (Revoked);
+II – (Revoked);
 
-- III - (Revoked);
+III – (Revoked);
 
-(Revoked);
+a) (Revoked);
 
-(Revoked);
+b) (Revoked);
 
-- IV - (Revoked);
+IV – (Revoked);
 
-- V - (Revoked);
+V – (Revoked);
 
-- VI - (Revoked);
+VI – (Revoked);
 
-- VII - (Revoked);
+VII – (Revoked);
 
-VIII - (Revoked).
+VIII – (Revoked).
 
 Paragraph 1. (Revoked).
 
@@ -11286,23 +11325,23 @@ Constitutional Amendments
 [[START OF PAGE 301]]
 
 Paragraph 2. (Revoked).
-Paragraph 3. (Revoked).'
+Paragraph 3. (Revoked).”
 
 #### Article 3.
 The head paragraph of article 52 of the Temporary Constitutional Provisions Act shall henceforth read as follows:
 
-'Article 52. Until such time as the conditions referred to in article 192 are established, the following are forbidden:
+“Article 52. Until such time as the conditions referred to in article 192 are established, the following are forbidden:
 
-................................................................................................ '
+................................................................................................ ”
 
 #### Article 4.
 This Constitutional Amendment shall come into force on the date of its publication.
 
 Brasília, May 29, 2003.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: João Paulo Cunha, President - Inocêncio de Oliveira, First Vice-President - Luiz Piauhylino, Second Vice-President - Geddel Vieira Lima, First Secretary - Severino Cavalcanti, Second Secretary - Nilton Capixaba, Third Secretary - Ciro Nogueira, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: João Paulo Cunha, President – Inocêncio de Oliveira, First Vice-President – Luiz Piauhylino, Second Vice-President – Geddel Vieira Lima, First Secretary – Severino Cavalcanti, Second Secretary – Nilton Capixaba, Third Secretary – Ciro Nogueira, Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: José Sarney, President - Paulo Paim, First Vice-President - Eduardo Siqueira Campos, Second Vice-President - Romeu Tuma, First Secretary - Alberto Silva, Second Secretary - Heráclito Fortes, Third Secretary - Sérgio Zambiasi, Fourth Secretary.
+THE DIRECTING BOARD OF THE FEDERAL SENATE: José Sarney, President – Paulo Paim, First Vice-President – Eduardo Siqueira Campos, Second Vice-President – Romeu Tuma, First Secretary – Alberto Silva, Second Secretary – Heráclito Fortes, Third Secretary – Sérgio Zambiasi, Fourth Secretary.
 
 Published in the Official Journal, May 30, 2003.
 
@@ -11395,7 +11434,7 @@ XV - stipulation  of  the  compensation  for  the  Justices  of the  Supreme Fed
 
 'Article 96. ..............................................................................
 
-II - ...........................................................................................
+II – ...........................................................................................
 
 b) creation and abolishment of offices and the remuneration of the auxiliary services and of the courts connected with them, as  well  as  the  establishment  of  the  compensation  for  their members and for the judges, including those of the lower courts, if existing;
 
@@ -11426,11 +11465,11 @@ Paragraph 12.  The law shall provide for a special system to include low-income 
 #### Article 2.
 With due regard for the provision of article 4 of Constitutional  Amendment no. 20, December 15, 1998, the right to opt for voluntary retirement with pay calculated according to article 40, paragraphs 3 and 17, of the Federal Constitution, is ensured to  employees who have properly taken effective posts in government services, associate government agencies, and foundations, before the date of publication of said Amendment, when such employees meet the following cumulative conditions:
 
-- I - fifty-three years of age, if a man, and forty-eight, if a woman;
+I – fifty-three years of age, if a man, and forty-eight, if a woman;
 
-- II - five years of effective exercise in the post from which retirement takes place;
+II – five years of effective exercise in the post from which retirement takes place;
 
-- III - a period of contribution equal to at least the sum of:
+III – a period of contribution equal to at least the sum of:
 
 a) thirty-five years, if a man, and thirty years, if a woman; and
 
@@ -11438,11 +11477,11 @@ b) an additional period of contribution equivalent to twenty percent of the peri
 
 Paragraph 1.  The employees mentioned in this article who meet the requirements for  retirement  under  the  terms  of  the  head  paragraph  shall  have  their  retirement pay reduced for each year their retirement is brought forward as regards the age limits established by article 40, paragraph 1, III, a , and paragraph 5, of the Federal Constitution, according to the following proportion:
 
-- I - three and five tenths per cent, for employees who meet the requirements for retirement under the terms of the head paragraph by December 31, 2005;
+I – three and five tenths per cent, for employees who meet the requirements for retirement under the terms of the head paragraph by December 31, 2005;
 
-- II - five per cent, for employees who meet the requirements for retirement under the terms of the head paragraph as from January 1, 2006.
+II – five per cent, for employees who meet the requirements for retirement under the terms of the head paragraph as from January 1, 2006.
 
-- Paragraph 2.  The provisions of this article are applicable to judges and to members of the Office of the Public Interest Attorney and of audit courts.
+Paragraph 2. The provisions of this article are applicable to judges and to members of the Office of the Public Interest Attorney and of audit courts.
 
 312
 
@@ -11529,7 +11568,7 @@ Brasília, December 19, 2003.
 
 THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy João Paulo Cunha , President - Deputy Inocêncio Oliveira , First Vice-President - Deputy Luiz Pianhylino , Second Vice-President - Deputy Geddel Vieira Lima , First Secretary - Deputy Severino Cavalcanti , Second Secretary - Deputy Nilton Capixaba , Third Secretary - Deputy Ciro Nogueira , Fourth Secretary.
 
-THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney, President - Senator Paulo Paim, First Vice-President - Senator Eduardo Siqueira
+THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney, President – Senator Paulo Paim, First Vice-President – Senator Eduardo Siqueira
 
 Constitutional Amendments
 
@@ -11539,7 +11578,7 @@ Constitutional Amendments
 
 [[START OF PAGE 309]]
 
-Campos, Second Vice-President - Senator Romeu Tuma, First Secretary - Senator Alberto Silva, Second Secretary - Senator Heráclito Fortes, Third Secretary - Senator Sérgio Zambiasi, Fourth Secretary.
+Campos, Second Vice-President – Senator Romeu Tuma, First Secretary – Senator Alberto Silva, Second Secretary – Senator Heráclito Fortes, Third Secretary – Senator Sérgio Zambiasi, Fourth Secretary.
 
 Published in the Official Journal, December 31, 2003.
 
@@ -11630,7 +11669,7 @@ Paragraph 1.  The prohibition set forth in item III, b , shall not apply to the 
 
 ................................................................................................ '
 
-'Article 153. ............................................................................
+“Article 153. ............................................................................
 
 ..................................................................................................
 
@@ -11660,9 +11699,9 @@ III  -  shall  be  controlled  and  collected  by  the  Municipalities which opt
 
 ..................................................................................................
 
-Paragraph 2.  ............................................................................
+Paragraph 2. ...........................................................................
 
-X - ...........................................................................................
+X – ...........................................................................................
 
 a) on transactions involving goods to be shipped abroad, nor on services to be delivered to parties abroad, and tax charges and credits in preceding transactions involving such goods or services shall continue in effect;
 
@@ -11740,7 +11779,7 @@ Constitution of the Federative Republic of Brazil
 
 Paragraph 12. The law shall define the sectors of economic activity for which the contributions stipulated under the terms of items I, b; and IV of the head paragraph, shall be non-cumulative.
 
-Paragraph 13.  The provision of paragraph 12 shall also apply in the case of gradual replacement, either total ou partial, of the contribution stipulated under the terms of item I, a , by the contribution due on income or revenues.'
+Paragraph 13. The provision of paragraph 12 shall also apply in the case of gradual replacement, either total ou partial, of the contribution stipulated under the terms of item I, a, by the contribution due on income or revenues.”
 
 'Article 204. ............................................................................
 
@@ -11798,15 +11837,15 @@ Paragraph 1. With a view to financing the State Funds and the Federal District F
 #### Article 3.
 The Temporary Constitutional Provisions Act shall henceforth include the following articles:
 
-'Article 90. The time limit set forth in the head paragraph of article 84 of this Temporary Constitutional Provisions Act is hereby extended through December 31, 2007.
+“Article 90. The time limit set forth in the head paragraph of article 84 of this Temporary Constitutional Provisions Act is hereby extended through December 31, 2007.
 
-- Paragraph 1.  The effect of Law no. 9,311, of October 24, 1996, as well as of its alterations, is hereby extended through the date mentioned in the head paragraph of this article.
+Paragraph 1. The effect of Law no. 9,311, of October 24, 1996, as well as of its alterations, is hereby extended through the date mentioned in the head paragraph of this article.
 
-- Paragraph 2.  The rate of the contribution referred to in article 84 of this Temporary Constitutional Provisions Act shall be equal to thirty-eight hundredths per cent through the date referred to in the head paragraph of this article.'
+Paragraph 2. The rate of the contribution referred to in article 84 of this Temporary Constitutional Provisions Act shall be equal to thirty-eight hundredths per cent through the date referred to in the head paragraph of this article.”
 
-'Article 91. The Union shall remit to the States and to the Federal District the amount defined by a supplementary law, in accordance with the criteria,  time  limits,  and  terms  therein  determined, taking into consideration exports of primary commodities and semi-manufactured products to other countries, the import-export ratio, credits deriving from purchases intended for the permanent assets, and the effective maintenance and utilization of the tax credits referred to in article 155, paragraph 2, X, a .
+“Article 91. The Union shall remit to the States and to the Federal District the amount defined by a supplementary law, in accordance with the criteria, time limits, and terms therein determined, taking into consideration exports of primary commodities and semi-manufactured products to other countries, the import-export ratio, credits deriving from purchases intended for the permanent assets, and the effective maintenance and utilization of the tax credits referred to in article 155, paragraph 2, X, a.
 
-- Paragraph 1.  As to the amount of funds to be remitted to each State, seventy-five percent of such amount shall be assigned to the State itself, and twenty-five percent to its Municipalities,
+Paragraph 1. As to the amount of funds to be remitted to each State, seventy-five percent of such amount shall be assigned to the State itself, and twenty-five percent to its Municipalities,
 
 322
 
@@ -11904,7 +11943,9 @@ The Directing Boards of the Chamber of Deputies and of the Federal Senate, under
 #### Article 1.
 Item III of article 159 of the Constitution shall henceforth be in force with the following wording:
 
-'Article 159. ............................................................................ ..................................................................................................
+“Article 159. ............................................................................
+
+..................................................................................................
 
 III - of the proceeds from the collection of the contribution for intervention in the economic domain set forth in article 177, paragraph 4, twenty-nine per cent to the States and to the Federal District, distributed in accordance with the law, with due regard for the allocation referred to in item II, c , of said paragraph.
 
@@ -11994,7 +12035,7 @@ Paragraph 2.  The Supreme Federal Court and the Superior Courts have their juris
 
 I - admission into the career, with the initial post of substitute judge, by means of a civil service entrance examination of tests and presentation of academic and professional credentials, with the participation of the Brazilian Bar Association in all phases, at least three years of legal practice being required of holders of  a  B.A.  in  law,  and  obeying  the  order  of  classification  for appointments;
 
-II - ...........................................................................................
+II – ...........................................................................................
 
 c) appraisal of merit according to performance and to the objective criteria of productivity and promptness in the exercise of the jurisdictional function and according to attendance and achievement in official or recognized improvement courses;
 
@@ -12004,7 +12045,7 @@ e) promotion shall not be granted to a judge who unjustifiably withholds case re
 
 III - access to the courts of second instance shall obey seniority and merit, alternately, as determined at the last or single level;
 
-IV - provision of official courses for preparation, improvement, and promotion of judges, while the participation in an official course or in a course recognized by a national school for the
+IV - provision of official courses for preparation, improvement, and promotion of judges, while the participation in an official course or in a course recognized by a national school for the education and further development of judges shall constitute a mandatory stage of the tenure acquisition process;
 
 328
 
@@ -12013,8 +12054,6 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 321]]
 
 [[START OF PAGE 322]]
-
-education and further development of judges shall constitute a mandatory stage of the tenure acquisition process;
 
 ..................................................................................................
 
@@ -12174,7 +12213,7 @@ V-A. cases regarding human rights referred to in paragraph 5 of this article;
 
 Paragraph 5.  In cases of serious human rights violations, and with a view to ensuring compliance with obligations deriving from international human rights treaties to which Brazil is a party, the Attorney-General of the Republic may request, before the Superior Court of Justice, and in the course of any of the stages of the inquiry or judicial action, that jurisdiction on the matter be taken to Federal Justice.'
 
-'Article 111. ............................................................................
+“Article 111. ............................................................................
 
 Paragraph 1.  (Revoked).
 
@@ -12321,7 +12360,7 @@ Paragraph 2.  The Public Legal Defense of each state shall be ensured of functio
 #### Article 2.
 The Federal Constitution shall henceforth include the following articles 103-A, 103-B, 111-A, and 130-A:
 
-'Article 103-A. The Federal Supreme Court may, ex-officio or upon request, upon decision of two thirds of its members, and following reiterated judicial decisions on constitutional matter, issue  a  summula  (restatement  of  case  law)  which,  as  from publication in the official press, shall have a binding effect upon
+'Article 103-A. The Federal Supreme Court may, ex-officio or upon request, upon decision of two thirds of its members, and following reiterated judicial decisions on constitutional matter, issue  a  summula  (restatement  of  case  law)  which,  as  from publication in the official press, shall have a binding effect upon the lower bodies of the Judicial Power and the direct and indirect public administration, in the federal, state, and local levels, and which may also be reviewed or revoked, as set forth in law.
 
 336
 
@@ -12330,8 +12369,6 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 329]]
 
 [[START OF PAGE 330]]
-
-the lower bodies of the Judicial Power and the direct and indirect public administration, in the federal, state, and local levels, and which may also be reviewed or revoked, as set forth in law.
 
 Paragraph 1.  The purpose of a summula is to validate, construe, and impart effectiveness to some rules about which there is a current controversy among judicial bodies or among such bodies and the public administration, and such controversy brings about serious juridical insecurity and the filing of multiple lawsuits involving similar issues.
 
@@ -12419,7 +12456,7 @@ Paragraph 7.  The Union shall establish Justice ombudsman's offices, including i
 
 'Article 111-A. The Superior Labour Court shall be composed of twenty-seven Justices, chosen from among Brazilians over thirty-five and under sixty-five years of age, appointed by the President of the Republic after approval by the absolute majority of the Federal Senate, as follows:
 
-I  -  one-fifth from among lawyers effectively practicing their professional activity for more than ten years and from among
+I  -  one-fifth from among lawyers effectively practicing their professional activity for more than ten years and from among members of the Labour Public Prosecution with over ten years of  effective  exercise,  with  due  regard  for  the  provisions  of article 94;
 
 Constitutional Amendments
 
@@ -12428,8 +12465,6 @@ Constitutional Amendments
 [[END OF PAGE 332]]
 
 [[START OF PAGE 333]]
-
-members of the Labour Public Prosecution with over ten years of effective exercise, with due regard for the provisions of article 94;
 
 II - the others, from among career judges of the Regional Labour Courts, nominated by the Superior Labour Court.
 
@@ -13031,25 +13066,23 @@ Constitutional Amendments
 
 [[START OF PAGE 351]]
 
-resources referred to in items I, II, and III of article 155; item II of the head paragraph of article 157; items II, III, and IV of the head paragraph of article 158; and subitems a and b of item I, and item II of the head paragraph of article 159, of the Federal Constitution, and shall be distributed among each State and its municipalities, in proportion to the number of students in the various grades and modalities of on-site basic education, enrolled in the respective school systems, within the respective scope of priority action as established by paragraphs 2 and 3 of article 211 of the Federal Constitution;
-
 III - with due regard for the guarantees established in items I, II, III, and IV of the head paragraph of article 208 of the Federal Constitution, as well as for the basic education universalization goals established in the National Education Plan, the law shall provide for:
 
-a) the organization of the Funds, the proportional distribution of their resources, the differences and weightings regarding the annual value per student among the various grades and modalities of basic education and types of schools;
+- the organization of the Funds, the proportional distribution of  their  resources,  the  differences  and  weightings  regarding the  annual  value  per  student  among  the  various  grades  and modalities of basic education and types of schools;
 
-b) the form of calculation of the minimum annual value per student;
+- the form of calculation of the minimum annual value per student;
 
-c) the maximum percentages for the allocation of fund resources to the various grades and modalities of basic education, with due regard for articles 208 and 214 of the Federal Constitution, as well as for the National Education Plan goals;
+- the maximum percentages for the allocation of fund resources to the various grades and modalities of basic education, with due regard for articles 208 and 214 of the Federal Constitution, as well as for the National Education Plan goals;
 
-d) oversight and control of the Funds;
+- oversight and control of the Funds;
 
-e) a deadline to stipulate, by means of a specific law, a nationwide professional minimum salary for public school teachers of basic education;
+- a deadline to stipulate, by means of a specific law, a nationwide professional minimum salary for public school teachers of basic education;
 
 IV - the resources transferred to the Funds established under the terms of item I of the head paragraph of this article shall be applied by the States and Municipalities exclusively within the scope of their priority actions, as established by paragraphs 2 and 3 of article 211 of the Federal Constitution;
 
 V - the Federal Government shall supplement the resources of  the  Funds  referred  to  in  item  II  of  the  head  paragraph  of this  article,  whenever  in  the  Federal  District  and  in  each State, the value per student does not reach the nationally set minimum value, stipulated in accordance with the provisions of item VII of the head paragraph of this article, and use of the resources referred to in paragraph 5 of article 212 of the Federal Constitution is forbidden;
 
-VI - up to 10% (ten percent) of the resources supplemented by the Federal Government as set forth in item V of the head
+VI - up to 10% (ten percent) of the resources supplemented by the Federal Government as set forth in item V of the head paragraph of this article may be distributed to the Funds by means of programs aimed at improving the quality of education, under the terms of the law referred to in item III of the head paragraph of this article;
 
 358
 
@@ -13058,8 +13091,6 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 351]]
 
 [[START OF PAGE 352]]
-
-paragraph of this article may be distributed to the Funds by means of programs aimed at improving the quality of education, under the terms of the law referred to in item III of the head paragraph of this article;
 
 VII - the minimum amount of resources supplemented by the Federal Government as set forth in item V of the head paragraph of this article shall be equal to:
 
@@ -13101,11 +13132,11 @@ Paragraph 5.  The percentage of resources to constitute the Funds, in accordance
 
 I - as to the taxes and transfers mentioned in item II of the head paragraph of article 155; item IV of the head paragraph of article 158; and subitems a and b of  item I and item II of the head paragraph of article 159 of the Federal Constitution:
 
-a) 16.66% (sixteen and sixty-six hundredths of one percent), in the first year;
+- 16.66% (sixteen and sixty-six hundredths of one percent), in the first year;
 
-b) 18.33% (eighteen and thirty-three hundredths of one percent), in the second year;
+- 18.33% (eighteen and thirty-three hundredths of one percent), in the second year;
 
-c) 20% (twenty percent), as from the third year;
+- 20% (twenty percent), as from the third year;
 
 II - as to the taxes and transfers mentioned in items I and III of the head paragraph of article 155; item II of the head paragraph of article 157; and items II and III of the head paragraph of article 158 of the Federal Constitution:
 
@@ -13325,21 +13356,21 @@ Item IV of the head paragraph of article 29 of the Federal Constitution shall he
 
 IV - the following limits shall apply to the composition of Municipal Chambers:
 
-a) 9 (nine) councilmen, in Municipalities with up to 15,000 (fifteen thousand) inhabitants;
+- 9  (nine)  councilmen,  in  Municipalities  with  up  to  15,000 (fifteen thousand) inhabitants;
 
-b) 11 (eleven) councilmen, in Municipalities with over 15,000 (fifteen thousand) inhabitants and with up to 30,000 (thirty thousand) inhabitants;
+- 11 (eleven) councilmen, in Municipalities with over 15,000 (fifteen  thousand)  inhabitants  and  with  up  to  30,000  (thirty thousand) inhabitants;
 
-c) 13 (thirteen) councilmen, in Municipalities with over 30,000 (thirty thousand) inhabitants and with up to 50,000 (fifty thousand) inhabitants;
+- 13 (thirteen) councilmen, in Municipalities with over 30,000 (thirty  thousand)  inhabitants  and  with  up  to  50,000  (fifty thousand) inhabitants;
 
-d) 15 (fifteen) councilmen, in Municipalities with over 50,000 (fifty thousand) inhabitants and with up to 80,000 (eighty thousand) inhabitants;
+- 15 (fifteen) councilmen, in Municipalities with over 50,000 (fifty  thousand)  inhabitants  and  with  up  to  80,000  (eighty thousand) inhabitants;
 
-e) 17 (seventeen) councilmen, in Municipalities with over 80,000 (eighty thousand) inhabitants and with up to 120,000 (one hundred and twenty thousand) inhabitants;
+- 17  (seventeen)  councilmen,  in  Municipalities  with  over 80,000 (eighty thousand) inhabitants and with up to 120,000 (one hundred and twenty thousand) inhabitants;
 
-f) 19 (nineteen) councilmen, in Municipalities with over 120,000 (one hundred and twenty thousand) inhabitants and with up to 160,000 (one hundred and sixty thousand) inhabitants;
+- 19 (nineteen) councilmen, in Municipalities with over 120,000 (one hundred and twenty thousand) inhabitants and with up to 160,000 (one hundred and sixty thousand) inhabitants;
 
-g) 21 (twenty-one) councilmen, in Municipalities with over 160,000 (one hundred and sixty thousand) inhabitants and with up to 300,000 (three hundred thousand) inhabitants;
+- 21  (twenty-one)  councilmen, in Municipalities with over 160,000 (one hundred and sixty thousand) inhabitants and with up to 300,000 (three hundred thousand) inhabitants;
 
-h) 23 (twenty-three) councilmen, in Municipalities with over 300,000 (three hundred thousand) inhabitants and with up to 450,000 (four hundred and fifty thousand) inhabitants;
+- 23 (twenty-three) councilmen, in Municipalities with over 300,000 (three hundred thousand) inhabitants and with up to 450,000 (four hundred and fifty thousand) inhabitants;
 
 Constitutional Amendments
 
@@ -13349,31 +13380,31 @@ Constitutional Amendments
 
 [[START OF PAGE 361]]
 
-i) 25 (twenty-five) councilmen, in Municipalities with over 450,000 (four hundred and fifty thousand) inhabitants and with up to 600,000 (six hundred thousand) inhabitants;
+- 25  (twenty-five)  councilmen,  in  Municipalities  with  over 450,000 (four hundred and fifty thousand) inhabitants and with up to 600,000 (six hundred thousand) inhabitants;
 
-j) 27 (twenty-seven) councilmen, in Municipalities with over 600,000 (six hundred thousand) inhabitants and with up to 750,000 (seven hundred thousand) inhabitants;
+- 27 (twenty-seven) councilmen, in Municipalities with over 600,000 (six hundred thousand) inhabitants and with up to 750,000 (seven hundred thousand) inhabitants;
 
-k) 29 (twenty-nine) councilmen, in Municipalities with over 750,000 (seven hundred thousand) inhabitants and with up to 900,000 (nine hundred thousand) inhabitants;
+- 29  (twenty-nine)  councilmen, in Municipalities with over 750,000 (seven hundred thousand) inhabitants and with up to 900,000 (nine hundred thousand) inhabitants;
 
-l) 31 (thirty-one) councilmen, in Municipalities with over 900,000 (nine hundred thousand) inhabitants and with up to 1,050,000 (one million and fifty thousand) inhabitants;
+- 31  (thirty-one)  councilmen,  in  Municipalities  with  over 900,000 (nine hundred thousand) inhabitants and with up to 1,050,000 (one million and fifty thousand) inhabitants;
 
-m) 33 (thirty-three) councilmen, in Municipalities with over 1,050,000 (one million and fifty thousand) inhabitants and with up to 1,200,000 (one million and two hundred thousand) inhabitants;
+- 33 (thirty-three) councilmen, in Municipalities with over 1,050,000 (one million and fifty thousand) inhabitants and with up to 1,200,000 (one million and two hundred thousand) inhabitants;
 
-n) 35 (thirty-five) councilmen, in Municipalities with over 1,200,000 (one million and two hundred thousand) inhabitants and with up to 1,350,000 (one million three hundred and fifty thousand) inhabitants;
+- 35  (thirty-five)  councilmen,  in  Municipalities  with  over 1,200,000 (one million and two hundred thousand) inhabitants and with up to 1,350,000 (one million three hundred and fifty thousand) inhabitants;
 
-o) 37 (thirty-seven) councilmen, in Municipalities with 1,350,000 (one million three hundred and fifty thousand) inhabitants and with up to 1,500,000 (one million five hundred thousand) inhabitants;
+- 37  (thirty-seven)  councilmen,  in  Municipalities  with 1,350,000  (one  million  three  hundred  and  fifty  thousand) inhabitants and with up to 1,500,000 (one million five hundred thousand) inhabitants;
 
-p) 39 (thirty-nine) councilmen, in Municipalities with over 1,500,000 (one million five hundred thousand) inhabitants and with up to 1,800,000 (one million eight hundred thousand) inhabitants;
+- 39  (thirty-nine)  councilmen,  in  Municipalities  with  over 1,500,000 (one million five hundred thousand) inhabitants and with up to 1,800,000 (one million eight hundred thousand) inhabitants;
 
-q) 41 (forty-one) councilmen, in Municipalities with over 1,800,000 (one million eight hundred thousand) inhabitants and with up to 2,400,000 (two million four hundred thousand) inhabitants;
+- 41 (forty-one) councilmen, in Municipalities with over 1,800,000 (one million eight hundred thousand) inhabitants and with up to 2,400,000 (two million four hundred thousand) inhabitants;
 
-r) 43 (forty-three) councilmen, in Municipalities with over 2,400,000 (two million four hundred thousand) inhabitants and with up to 3,000,000 (three million) inhabitants;
+- 43  (forty-three)  councilmen,  in  Municipalities  with  over 2,400,000 (two million four hundred thousand) inhabitants and with up to 3,000,000 (three million) inhabitants;
 
-s) 45 (forty-five) councilmen, in Municipalities with over 3,000,000 (three million) inhabitants and with up to 4,000,000 (four million) inhabitants;
+- 45  (forty-five)  councilmen,  in  Municipalities  with  over 3,000,000 (three million) inhabitants and with up to 4,000,000 (four million) inhabitants;
 
-t) 47 (forty-seven) councilmen, in Municipalities with over 4,000,000 (four million) inhabitants and with up to 5,000,000 (five million) inhabitants;
+- 47  (forty-seven)  councilmen,  in  Municipalities  with  over 4,000,000 (four million) inhabitants and with up to 5,000,000 (five million) inhabitants;
 
-u) 49 (forty-nine) councilmen, in Municipalities with over 5,000,000 (five million) inhabitants and with up to 6,000,000 (six million) inhabitants;
+- 49  (forty-nine)  councilmen,  in  Municipalities  with  over 5,000,000 (five million) inhabitants and with up to 6,000,000 (six million) inhabitants;
 
 368
 
@@ -13383,11 +13414,11 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 362]]
 
-v) 51 (fifty-one) councilmen, in Municipalities with over 6,000,000 (six million) inhabitants and with up to 7,000,000 (seven million) inhabitants;
+- 51  (fifty-one)  councilmen,  in  Municipalities  with  over 6,000,000 (six million) inhabitants and with up to 7,000,000 (seven million) inhabitants;
 
-w) 53 (fifty-three) councilmen, in Municipalities with over 7,000,000 (seven million) inhabitants and with up to 8,000,000 (eight million) inhabitants; and
+- 53 (fifty-three)  councilmen,  in  Municipalities  with  over 7,000,000 (seven million) inhabitants and with up to 8,000,000 (eight million) inhabitants; and
 
-x) 55 (fifty-five) councilmen, in Municipalities with over 8,000,000 (eight million) inhabitants;
+- 55  (fifty-five)  councilmen,  in  Municipalities  with  over 8,000,000 (eight million) inhabitants;
 
 ................................................................................................ '
 
@@ -13396,30 +13427,30 @@ Article  29-A  of  the  Federal  Constitution  shall  henceforth  read  as follo
 
 'Article 29-A ...........................................................................
 
-I - 7% (seven percent) in the case of Municipalities having up to 100,000 (one hundred thousand) inhabitants;
+- I - 7% (seven percent) in the case of Municipalities having up to 100,000 (one hundred thousand) inhabitants;
 
-II - 6% (six percent) in the case of Municipalities having between 100,000 (one hundred thousand) and 300,000 (three hundred thousand) inhabitants;
+- II - 6% (six percent) in the case of Municipalities having between 100,000 (one hundred thousand) and 300,000 (three hundred thousand) inhabitants;
 
-III - 5% (five percent) in the case of Municipalities having between 300,001 (three hundred thousand and one) inhabitants and 500,000 (five hundred thousand) inhabitants;
+- III  -  5%  (five  percent)  in  the  case  of  Municipalities  having between 300,001 (three hundred thousand and one) inhabitants and 500,000 (five hundred thousand) inhabitants;
 
-IV - 4.5% (four and five tenths per cent) in the case of Municipalities having between 500,001 (five hundred thousand and one) and 3,000,000 (three million) inhabitants;
+- IV  -  4.5%  (four  and  five  tenths  per  cent)  in  the  case  of Municipalities having between 500,001 (five hundred thousand and one) and 3,000,000 (three million) inhabitants;
 
-V - 4% (four percent) in the case of Municipalities having between 3,000,001 (three million and one) and 8,000,000 (eight million) inhabitants;
+- V - 4% (four percent) in the case of Municipalities having between 3,000,001 (three million and one) and 8,000,000 (eight million) inhabitants;
 
-VI - 3.5% (three and five tenths per cent) in the case of Municipalities having over 8,000,001 (eight million and one) inhabitants.
+- VI - 3.5% (three and five tenths  per  cent)  in  the  case  of Municipalities having over 8,000,001 (eight million and one) inhabitants.
 
 ................................................................................................ '
 
 #### Article 3.
 This Constitutional Amendment shall come into force on the date of its publication, as follows:
 
-I - the provisions of Article 1 shall be effective as from the 2008 elections; and
+- I - the provisions of Article 1 shall be effective as from the 2008 elections; and
 
-II - the provisions of Article 2 shall be effective as from January 1 of the year following the year this amendment is published.
+- II - the provisions of Article 2 shall be effective as from January 1 of the year following the year this amendment is published.
 
 Brasília, December 23, 2009.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer, Speaker - Deputy Marco Maia, First Vice-President - Deputy Antônio Carlos
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer , Speaker - Deputy Marco Maia , First Vice-President - Deputy Antônio Carlos Magalhães Neto , Second Vice-President - Deputy Rafael Guerra , First Secretary Deputy Inocêncio Oliveira , Second Secretary - Deputy Odair Cunha ,  Third Secretary - Deputy Nelson Marquezelli , Fourth Secretary.
 
 Constitutional Amendments
 
@@ -13428,8 +13459,6 @@ Constitutional Amendments
 [[END OF PAGE 362]]
 
 [[START OF PAGE 363]]
-
-Magalhães Neto, Second Vice-President - Deputy Rafael Guerra, First Secretary - Deputy Inocêncio Oliveira, Second Secretary - Deputy Odair Cunha, Third Secretary - Deputy Nelson Marquezelli, Fourth Secretary.
 
 THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney , President - Senator Marconi Perillo , First Vice-President - Senator Heráclito Fortes , Second Vice-President - Senator Mão Santa ,  Second  Secretary  -  Senator César Borges , Acting Fourth Secretary.
 
@@ -13445,7 +13474,7 @@ Constitution of the Federative Republic of Brazil
 
 ## CONSTITUTIONAL AMENDMENT No. 59, 2009
 
-Adds Paragragh 3 to Article 76 of the Temporary Constitutional Provisions Act, in order to effect a yearly reduction, as from fiscal year 2009, of the percentage of the DRU mechanism to de-earmark federal revenues calculated on the funds assigned to maintenance and development of education referred to in Article 212 of the Federal Constitution; gives new wording to items I and VII of Article 208, so as to make basic education mandatory for every individual from the age of four through the age of seventeen, and to extend supplementary programs to all grades of basic education; and gives new wording to Paragraph 4 of Article 211, to Paragraph 3 of Article 212, and to the head paragraph of Article 214, also adding item VI to Article 214.
+Adds Paragragh 3 to Article 76 of the Temporary Constitutional Provisions Act, in order to effect a yearly reduction, as from fiscal year 2009, of the  percentage  of  the  DRU  mechanism  to  deearmark federal revenues calculated on the funds assigned to  maintenance and development of education referred to in Article 212 of the Federal Constitution; gives new wording to items I and VII of Article 208, so as to make basic education mandatory for every individual from the age of four through the age of seventeen, and to extend supplementary programs to all grades of basic education; and gives new wording to Paragraph 4 of Article 211, to Paragraph 3 of Article 212, and to the head paragraph of Article 214, also adding item VI to Article 214.
 
 The Directing Boards of the Chamber of Deputies and of the Federal Senate, under the terms of paragraph 3 of article 60 of the Federal Constitution, enact the following Amendment to the constitutional text:
 
@@ -13463,11 +13492,11 @@ VII - assistance to students in all grades of basic education, by  means  of  su
 #### Article 2.
 Paragraph 4 of Article 211 of the Federal Constitution shall henceforth read as follows:
 
-'Article 211. ............................................................................
+'Article 211. . ............................................................................
 
 ..................................................................................................
 
-Paragraph 4. In the organization of respective educational systems, the Federal Government, the States, the Federal District, and the Municipalities shall establish forms of cooperation, so as to guarantee the universalization of mandatory education.'
+Paragraph 4.  In the organization of respective educational sys- tems, the Federal Government, the States, the Federal District, and the Municipalities shall establish forms of cooperation, so as to guarantee the universalization of mandatory education.'
 
 Constitutional Amendments
 
@@ -13522,7 +13551,7 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 366]]
 
-Magalhães Neto, Second Vice-President - Deputy Rafael Guerra, First Secretary - Deputy Inocêncio Oliveira, Second Secretary - Deputy Odair Cunha, Third Secretary - Deputy Nelson Marquezelli, Fourth Secretary.
+Magalhães Neto , Second Vice-President - Deputy Rafael Guerra , First Secretary Deputy Inocêncio Oliveira , Second Secretary - Deputy Odair Cunha ,  Third Secretary - Deputy Nelson Marquezelli , Fourth Secretary.
 
 THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney , President - Senator Marconi Perillo , First Vice-President - Senator Serys Slhessarenko , Second Vice-President - Senator Heráclito Fortes , First Secretary - Senator João Vicente Claudino , Second Secretary - Senator Mão Santa , Third Secretary - Senator César Borges , Acting Fourth Secretary.
 
@@ -13564,7 +13593,7 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 368]]
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer, Speaker - Deputy Marco Maia, First Vice-President - Deputy Antônio Carlos Magalhães Neto, Second Vice-President - Deputy Rafael Guerra, First Secretary - Deputy Inocêncio Oliveira, Second Secretary - Deputy Odair Cunha, Third Secretary - Deputy Nelson Marquezelli, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer , Speaker - Deputy Marco Maia , First Vice-President - Deputy Antônio Carlos Magalhães Neto , Second Vice-President - Deputy Rafael Guerra , First Secretary Deputy Inocêncio Oliveira , Second Secretary - Deputy Odair Cunha ,  Third Secretary - Deputy Nelson Marquezelli , Fourth Secretary.
 
 THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney , President - Senator Marconi Perillo , First Vice-President - Senator Serys Slhessarenko , Second Vice-President - Senator Heráclito Fortes , First Secretary - Senator João Vicente Claudino , Second Secretary - Senator Mão Santa , Third Secretary - Senator César Borges , Acting Fourth Secretary.
 
@@ -13604,7 +13633,7 @@ This Amendment shall come into force on the date of its publication.
 
 Brasília, November 11, 2009.
 
-THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer, Speaker - Deputy Marco Maia, First Vice-President - Deputy Antônio Carlos Magalhães Neto, Second Vice-President - Deputy Rafael Guerra, First Secretary - Deputy Inocêncio Oliveira, Second Secretary - Deputy Odair Cunha, Third Secretary - Deputy Nelson Marquezelli, Fourth Secretary.
+THE DIRECTING BOARD OF THE CHAMBER OF DEPUTIES: Deputy Michel Temer , Speaker - Deputy Marco Maia , First Vice-President - Deputy Antônio Carlos Magalhães Neto , Second Vice-President - Deputy Rafael Guerra , First Secretary Deputy Inocêncio Oliveira , Second Secretary - Deputy Odair Cunha ,  Third Secretary - Deputy Nelson Marquezelli , Fourth Secretary.
 
 THE DIRECTING BOARD OF THE FEDERAL SENATE: Senator José Sarney , President - Senator Marconi Perillo , First Vice-President - Senator Serys Slhessarenko , Second Vice-President - Senator Heráclito Fortes , First Secretary - Senator João Vicente Claudino , Second Secretary - Senator Mão Santa , Third Secretary - Senator César Borges , Acting Fourth Secretary.
 
@@ -13635,7 +13664,7 @@ Paragraph 2. Support-related debts owed to persons aged 60 (sixty) or over on th
 
 Paragraph 3. The provision contained in the head paragraph of this article, regarding the issuance of court orders, does not apply to obligations defined by law as small amounts, which must be paid by the treasuries herein referred to by virtue of a final and unappealable court decision.
 
-Paragraph 4. For the purposes of the provision of Paragraph 3, different amounts may be stipulated for the federating units through their own legislation and according to their various economic capabilities, whereas the minimum amount shall be
+Paragraph 4. For the purposes of the provision of Paragraph 3, different amounts may be stipulated for the federating units through their own legislation and according to their various economic capabilities, whereas the minimum amount shall be equal to the amount of the highest benefit paid by the general Social Security scheme.
 
 Constitutional Amendments
 
@@ -13645,11 +13674,9 @@ Constitutional Amendments
 
 [[START OF PAGE 371]]
 
-equal to the amount of the highest benefit paid by the general Social Security scheme.
-
 Paragraph 5. It is mandatory for the budgets of the federating units to include the funds required for payment of debts arising from final and unappealable judicial decisions, stated in court orders submitted until or on July 1, and payment shall be made before the close of the subsequent fiscal year, on which date their amounts shall be adjusted for inflation.
 
-Paragraph 6. The budgetary allocations and the credits opened shall be assigned to the Judicial Power, it being within the competence of the Presiding Judge of the Court which rendered the decision of execution to determine full payment and to authorize - upon petition of a creditor and exclusively in the event that his right of precedence is not respected or that the amount necessary to satisfy the debt has not been set aside - attachment of the respective amount.
+Paragraph 6. The budgetary allocations and the credits opened shall  be  assigned  to  the  Judicial  Power,  it  being  within  the competence of the Presiding Judge of the Court which rendered the  decision  of  execution  to  determine  full  payment  and  to authorize - upon petition of a creditor and exclusively in the event that his right of precedence is not respected or that the amount necessary to satisfy the debt has not been set aside attachment of the respective amount.
 
 Paragraph 7. The Presiding Judge of the appropriate Court who, by means of an act or omission, delays or attempts to frustrate the regular payment of a court-ordered debt shall be liable to crime of malversation and shall also appear before the National Council of Justice.
 
@@ -13661,7 +13688,7 @@ Paragraph 10. Before a court order is issued, the relevant court shall request t
 
 Paragraph 11. In accordance with legislation of the federating unit in debt, a creditor may employ court order credits to purchase public property belonging to the respective federating unit.
 
-Paragraph 12. As from the date Constitutional Amendment no. 62 is enacted, the amounts stated in court orders, after such court
+Paragraph 12. As from the date Constitutional Amendment no. 62 is enacted, the amounts stated in court orders, after such court orders are issued up until effective payment, irrespective of their nature, shall be adjusted according to the official rate applied to savings accounts, whereas, for the purpose of compensation of delay in the payment, simple interest will be applied at the same percentage of interest applied to savings accounts, the employment of compensatory interest being excluded.
 
 378
 
@@ -13670,8 +13697,6 @@ Constitution of the Federative Republic of Brazil
 [[END OF PAGE 371]]
 
 [[START OF PAGE 372]]
-
-orders are issued up until effective payment, irrespective of their nature, shall be adjusted according to the official rate applied to savings accounts, whereas, for the purpose of compensation of delay in the payment, simple interest will be applied at the same percentage of interest applied to savings accounts, the employment of compensatory interest being excluded.
 
 Paragraph 13. Creditors may assign their court order credits, in whole or in part, to third parties, irrespective of consent by the debtor, and the provisions of Paragraphs 2 and 3 shall not be applied to the assignee.
 
@@ -13684,11 +13709,11 @@ Paragraph  16.  The  Federal  Government  may,  at  its  own discretion and unde
 #### Article 2.
 The Temporary Constitutional Provisions Act shall henceforth include the following Article 97:
 
-'Article 97. Up until the supplementary law referred to in Paragraph 15 of Article 100 of the Federal Constitution is enacted, the States, the Federal District, and Municipalities which, on the date of enactment of Constitutional Amendment no. 62, have not yet effected payment of past due court-ordered debts regarding their respective direct and indirect administration, including court orders issued during the period the special regime instituted by this article is in force, shall effect such payments in accordance with the rules set forth in this article, whereas the provisions of Article 100 of this Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62.
+'Article  97.  Up  until  the  supplementary  law  referred  to  in Paragraph 15 of Article 100 of the Federal Constitution is enacted,  the  States,  the  Federal  District,  and  Municipalities which, on the date of enactment of Constitutional Amendment no.  62,  have  not  yet  effected  payment  of  past  due  courtordered debts regarding their respective direct and indirect administration, including court orders issued during the period the  special  regime  instituted  by  this  article  is  in  force,  shall effect such payments in accordance with the rules set forth in this article, whereas the provisions of Article 100 of this Federal Constitution shall not be applicable, save for its Paragraphs 2, 3, 9, 10, 11, 12, 13, and 14, and without prejudice to conciliation agreements already formalized by the date of publication of Constitutional Amendment no. 62.
 
 Paragraph 1. The States, the Federal District, and Municipalities subject to the special regime set forth in this article shall, by means of an Executive Power act, opt for either:
 
-I - depositing the amount referred to in Paragraph 2 of this article into a special account; or
+I - depositing the amount referred to in Paragraph 2 of this article into a special account; or II - adopting the special regime for a period of up to 15 (fifteen) years,  in  which  case  the  percentage  to  be  deposited  into  the special account referred to in Paragraph 2 of this article shall be equivalent to the total yearly balance of court-ordered debts, increased by the official rate applied to savings accounts and by simple interest applied at the same percentage of interest applied to savings accounts for the purpose of compensation of delay in the payment - the employment of compensatory interest being excluded, reduced by any paid amount, and divided by the remaining number of years in the special regime of payment.
 
 Constitutional Amendments
 
@@ -13698,9 +13723,7 @@ Constitutional Amendments
 
 [[START OF PAGE 373]]
 
-II - adopting the special regime for a period of up to 15 (fifteen) years, in which case the percentage to be deposited into the special account referred to in Paragraph 2 of this article shall be equivalent to the total yearly balance of court-ordered debts, increased by the official rate applied to savings accounts and by simple interest applied at the same percentage of interest applied to savings accounts for the purpose of compensation of delay in the payment - the employment of compensatory interest being excluded, reduced by any paid amount, and divided by the remaining number of years in the special regime of payment.
-
-Paragraph 2. In order to pay up both its past due and future accruing court-ordered debts through the special regime, the States, the Federal District, and Municipalities in debt shall effect a monthly deposit into a special account created for such purpose, of 1/12 (one twelfth) of the amount calculated as a percentage of the respective net current revenues, as computed in the second month preceding the month of payment, whereas such percentage, calculated at the time of opting for the special regime and kept unchanged through the end of the period referred to in Paragraph 14 of this article, shall be equal to:
+Paragraph 2. In order to pay up both its past due and future accruing court-ordered debts through the special regime, the States,  the  Federal  District,  and  Municipalities  in  debt  shall effect a monthly deposit into a special account created for such purpose, of 1/12 (one twelfth) of the amount calculated as a percentage of the respective net current revenues, as computed in the second month preceding the month of payment, whereas such percentage, calculated at the time of opting for the special regime and kept unchanged through the end of the period referred to in Paragraph 14 of this article, shall be equal to:
 
 I - in the case of the States and of the Federal District:
 
@@ -13714,7 +13737,7 @@ a) at least 1% (one per cent), for Municipalities of the North, Northeast, and C
 
 b)  at  least  1.5%  (one  whole  and  five  tenths  per  cent),  for Municipalities of the South and Southeast Regions, where the backlog of court orders owed by their respective direct and indirect administration corresponds to over 35% (thirty-five per cent) of the net current revenues.
 
-Paragraph 3. For the purposes of this article, net current revenues mean the total sum of tax, industry, and agriculture
+Paragraph  3.  For  the  purposes  of  this  article,  net  current revenues mean the total sum of tax, industry, and agriculture revenues, property income, revenues from contributions and from services, current transfers, and other current revenues, including those deriving from Paragraph 1 of Article 20 of the  Federal  Constitution,  such  total  sum  being  computed  in the period including the reference month and the 11 (eleven) preceding months, excluding any double counting but at the same time deducting:
 
 380
 
@@ -13724,9 +13747,7 @@ Constitution of the Federative Republic of Brazil
 
 [[START OF PAGE 374]]
 
-revenues, property income, revenues from contributions and from services, current transfers, and other current revenues, including those deriving from Paragraph 1 of Article 20 of the Federal Constitution, such total sum being computed in the period including the reference month and the 11 (eleven) preceding months, excluding any double counting but at the same time deducting:
-
-I - in the case of the States, the portions remitted to the Municipalities as set forth by the Constitution;
+I  -  in  the  case  of  the  States,  the  portions  remitted  to  the Municipalities as set forth by the Constitution;
 
 II  -  in  the  case  of  the  States,  the  Federal  District,  and Municipalities, the contribution paid by respective employees to fund their own social security and social assistance system, as well as revenues deriving from the financial offsetting referred to in Paragraph 9 of Article 201 of the Federal Constitution.
 
@@ -13776,7 +13797,7 @@ IX - the payment in part of a court order shall be ratified by the court which i
 
 Paragraph 10. Should the funds referred to in Item II of Paragraph 1 and in Paragraphs 2 and 6 of this article not be made available in due time:
 
-I - there shall be effected attachment of the relevant amount in the accounts belonging to the States, the Federal District, and Municipalities in debt, by order of the Presiding Judge of the
+I - there shall be effected attachment of the relevant amount in the accounts belonging to the States, the Federal District, and Municipalities in debt, by order of the Presiding Judge of the Court referred to in Paragraph 4, up to the limit of the amount not made available;
 
 382
 
@@ -14911,7 +14932,7 @@ Constitution of the Federative Republic of Brazil
 
 ##### Amendments
 
-1. Any State Party may propose an amendment to the present Convention and submit it  to  the  Secretary-General  of  the  United  Nations. The  Secretary-General  shall communicate any proposed amendments to States Parties, with a request to be notified whether they favour a conference of States Parties for the purpose of considering and deciding upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of two thirds of the States Parties present  and  voting  shall  be  submitted  by  the  Secretary-General  to  the  General Assembly for approval and thereafter to all States Parties for acceptance.
+1. Any State Party may propose an amendment to the present Convention and submit it to the Secretary-General of the United Nations. The Secretary-General shall communicate any proposed amendments to States Parties, with a request to be notified whether they favour a conference of States Parties for the purpose of considering and deciding upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of two thirds of the States Parties present and voting shall be submitted by the Secretary-General to the General Assembly for approval and thereafter to all States Parties for acceptance.
 
 2. An amendment adopted and approved in accordance with paragraph 1 of this article shall enter into force on the thirtieth day after the number of instruments of acceptance deposited reaches two thirds of the number of States Parties at the date of adoption of the amendment. Thereafter, the amendment shall enter into force for any State Party on the thirtieth day following the deposit of its own instrument of acceptance. An amendment shall be binding only on those States Parties which have accepted it.
 
@@ -14983,7 +15004,7 @@ The Committee shall consider a communication inadmissible when:
 
 #### Article 3
 
-Subject to the provisions of article 2 of the present Protocol, the Committee shall bring any communications submitted to it confidentially to the attention of the State Party. Within six months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
+Subject to the provisions of article 2 of the present Protocol, the Committee shall bring any communications submitted to it confidentially to the attention of the State Party. Within six months, the receiving State shall submit to the Committee written
 
 International Acts
 
@@ -14992,6 +15013,8 @@ International Acts
 [[END OF PAGE 410]]
 
 [[START OF PAGE 411]]
+
+explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
 
 #### Article 4
 
@@ -15244,31 +15267,31 @@ Subitem c of item I, subitem b of item II, paragraph 1 and item II of paragraph 
 
 ..................................................................................................
 
-I – ............................................................................................
+I - .............................................................................................
 
-a) .............................................................................................
+a) ..............................................................................................
 
-b) .............................................................................................
+b) ..............................................................................................
 
 c) Those born abroad, of a Brazilian father or a Brazilian mother, provided that they come to reside in the Federative Republic of Brazil and opt for the Brazilian nationality at any time;
 
 II – ...........................................................................................
 
-a) .............................................................................................
+a) ..............................................................................................
 
 b) foreigners of any nationality, resident in the Federative Republic of Brazil for over fifteen uninterrupted years and without criminal conviction, provided that they apply for the Brazilian nationality.
 
-Paragraph 1. The rights inherent to Brazilians shall be attributed to Portuguese citizens with permanent residence in Brazil, if there is reciprocity in favour of Brazilians, except in the cases stated in the Constitution.
+Paragraph 1.  The rights inherent to Brazilians shall be attributed to Portuguese citizens with permanent residence in Brazil, if there is reciprocity in favour of Brazilians, except in the cases stated in the Constitution.
 
-Paragraph 2. ...........................................................................
+Paragraph 2.  ............................................................................
 
-Paragraph 3. ...........................................................................
+Paragraph 3.  ............................................................................
 
-Paragraph 4. ...........................................................................
+Paragraph 4.  ............................................................................
 
-I – ............................................................................................
+I - .............................................................................................
 
-II – acquires another nationality, save in the cases:
+II - acquires another nationality, save in the cases:
 
 a) of recognition of the original nationality by the foreign law;
 
