@@ -104,8 +104,8 @@ Contents | Page
 6.5.5 Meetings of Steering Committees …………………….. | 80
 6.5.6 Program Implementation ……………………………... | 80
 Annex 1 Key performance Indications of ESDP III ……………….. | I
-3 Terms of Reference for Steering committees to the | VI
-Annex (ESDP)
+Annex 2 Financial Requirements for ESDP | III
+Annex 3 Terms of Reference for Steering committees to the (ESDP) | VI
 
 - 3 -
 
@@ -167,13 +167,15 @@ This was an outcome of the Government's deliberate plan to implement rural devel
 
 In  addition  to  this,  well-trained  and  qualified  manpower  equipped  with  modern  managerial, technical, research and leadership capabilities play an indispensable role for the speedy development of competitive industries in the country. Because of this, due attention is given to the reform  in  the  structure  of  education  system  to  make  education  and  training  responsive  to  the country's development strategy.
 
-Therefore, the policy framework for the education and training programs helps to achieve various objectives,  i.e.,  rural  and  agricultural  development,  urban  and  industrial  development  and  the building  of  a  democratic  society.  It  is  believed  that  these  undertakings  will  contribute  to  the Government's efforts to eradicate poverty and achieve its objective of transforming Ethiopia into a middle income country in 20-30 years.
+Therefore, the policy framework for the education and training programs helps to achieve various objectives, i.e., rural and agricultural development, urban and industrial development and the
 
 - 6 -
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+building of a democratic society. It is believed that these undertakings will contribute to the Government's efforts to eradicate poverty and achieve its objective of transforming Ethiopia into a middle income country in 20-30 years.
 
 ### 2.4 Access and Equity
 
@@ -211,13 +213,13 @@ Efforts made to increase enrollment in the rural areas have brought about signif
 
 The major problems that have faced both ESDP-I and ESDP-II are the low levels of net enrollment and the disparities between male and female, regional gaps and urban-rural enrollment. In order to enhance  access  and  narrow  these  gaps,  the  Government  has  undertaken  a  number  of  different initiatives.
 
-In  2000  MoE  undertook  a  policy  study  on  'Alternative  Routes  to  Basic  Education"  in  a  bid  to achieve UPE by the year 2015. Following this study, ABE was given more attention and this is reflected in its enhanced role in ESDP II. Moreover, a study conducted on Nomadic Education in East  Africa  (2002)  by  IIEP/UNESCO,  proposed  the  expansion  of  ABE  and  a  multi-sectoral approach to address the problems in the Pastoralist and Semi- agriculturalist areas. A resolution was passed at the National Education Conference to incorporate ABE in the education system as a means for providing basic primary education. To address the socio-economic problems of the four emerging regions (Afar, Benishangul-Gumuz, Gambella and Somali) and in an attempt to provide access  to  education  for  all,  the  government  undertook  a  sector-integrated  initiative  through  the Ministry of Federal Affairs. A Task Force was established in the MoE to assume the responsibility of introducing the ABE package in the education system particularly in the pastoralist and semiagriculturalist areas, which includes Borena and South Omo zones in addition to the four emerging regions.  To  this  effect,  guidelines  for  the  implementation  of  ABE  syllabi  and  teaching  learning materials  in  four  subjects  for  the  three  levels  (level  1  to  Level  3)  of  the  ABE  program  (Mother Tongue, English, Mathematics, and Environmental Science) have been developed. Currently, ABE centers are established on a pilot basis in selected woredas of the four emerging regions and two zones in Oromia.
+In 2000 MoE undertook a policy study on 'Alternative Routes to Basic Education" in a bid to achieve UPE by the year 2015. Following this study, ABE was given more attention and this is reflected in its enhanced role in ESDP II. Moreover, a study conducted on Nomadic Education in East Africa (2002) by IIEP/UNESCO, proposed the expansion of ABE and a multi-sectoral approach to address the problems in the Pastoralist and Semi- agriculturalist areas. A resolution was passed at the National Education Conference to incorporate ABE in the education system as a means for providing basic primary education. To address the socio-economic problems of the four emerging regions (Afar, Benishangul-Gumuz, Gambella and Somali) and in an attempt to provide access to education for all, the government undertook a sector-integrated initiative through the Ministry of Federal Affairs. A Task Force was established in the MoE to assume the responsibility of introducing the ABE package in the education system particularly in the pastoralist and semi-agriculturalist areas, which includes Borena and South Omo zones in addition to the four emerging regions. To this effect, guidelines for the implementation of ABE syllabi and teaching learning materials in four subjects for the three levels (level 1 to Level 3) of the ABE program (Mother Tongue, English, Mathematics, and Environmental Science) have been developed. Currently, ABE centers are established on a pilot basis in selected woredas of the four emerging regions and two zones in Oromia.
 
 School feeding was identified as a strategy in ESDP II to raise and maintain school enrolment in order  to  increase  the  demand  for  education  amongst  chronically  food  insecure  and  vulnerable children. As a result, of the program about 544,000 primary school children were fed in 2004/2005, In  addition,  the  program  contributed  to  lowering  the  level  of  dropouts,  stabilizing  attendance, improving children's ability to learn, and narrowing the gender gap in schools. The program has been implemented in Afar, Somali, Oromia, Amhara, Tigray and the Southern Nations Nationalities and Peoples Region (SNNPR).
 
 ##### c) Adult and Non Formal Education
 
-The  adult  and  non-formal  education  program  includes  a  range  of  basic  education  and  training components  for  children  and  adults  who  are  out  of  school.  The  program  focuses  primarily  on literacy and numeracy in order to enhance the skills and develop problem-solving abilities of those who are enrolled.
+The adult and non-formal education program includes a range of basic education and training components for children and adults who are out of school. The program focuses primarily on
 
 - 9 -
 
@@ -225,7 +227,9 @@ The  adult  and  non-formal  education  program  includes  a  range  of  basic  
 
 [[START OF PAGE 10]]
 
-The program has three sub-components: a scheme for out-of-school children between the ages of 714, a literacy program for youth and adults who are older than 15, and basic skill training to youth and adults in the community skill training centers.
+literacy and numeracy in order to enhance the skills and develop problem-solving abilities of those who are enrolled.
+
+The program has three sub-components: a scheme for out-of-school children between the ages of 7-14, a literacy program for youth and adults who are older than 15, and basic skill training to youth and adults in the community skill training centers.
 
 The  Community  Skill  Training  Centers  (CSTCs)  offer  training  programs  related  to  the  specific needs of the rural  community, and as a result lead to an improvement in the capability of rural areas.  In  addition  to  this,  CSTCs  are  seeking  to  introduce  and  expand  appropriate  technology. There are 287 CSTCs located in eight regions (with the exception of Dire Dawa, Afar and Somali) and they have been responsible for training over 58,614 adults. CSTCs have encountered problems in  relation  to  inadequate  budget,  trained  manpower  and  equipment  and  poor  organization  of  the programs.
 
@@ -235,7 +239,7 @@ Several studies were undertaken to expand the provision of adult and non-formal 
 
 ##### d) Secondary Education
 
-As with primary education, a substantial expansion of secondary education also took place under ESDP  I  and  II.  Consequently,  the  total  enrollment  in  secondary  education  (Grades  9  to  12) increased from 426,495 in 1996/97 to 953,217 in 2004/05, a rise of 123%. In 2004/05, the GER for girls,  boys  and  the  total  in  the  first  cycle  of  secondary  education  (Grades  9-10)  reached  19.8%, 34.6%  and  27.3%  respectively.  This  increase  was  facilitated  by  an  increase  in  the  number  of secondary schools from 369 in 1996/97 to 706 in 2004/05, which represents an increase of 91%. Previously, secondary schools were mainly concentrated in urban areas. However, during ESDP-I and ESDP-II the percentage of secondary schools in rural areas increased from 7.0% in 1996/97 to 12.7% in 2004/05.
+As with primary education, a substantial expansion of secondary education also took place under ESDP I and II. Consequently, the total enrollment in secondary education (Grades 9 to 12) increased from 426,495 in 1996/97 to 953,217 in 2004/05, a rise of 123%. In 2004/05, the GER for girls, boys and the total in the first cycle of secondary education (Grades 9-10) reached 19.8%, 34.6% and 27.3% respectively. This increase was facilitated by an increase in the number of
 
 - 10 -
 
@@ -243,11 +247,13 @@ As with primary education, a substantial expansion of secondary education also t
 
 [[START OF PAGE 11]]
 
-Different services and forms of support were provided to retain female students in schools and to improve  their  academic  performances.  This  included  scholarships  to  girls  from  poor  families, tutorial, guidance and counseling services. The scholarship support was provided to 1,380 female students  who  came  from  very  poor  family  background  and  had  high  academic  performance. Attention was also paid to raising the awareness of communities and teachers and improving the schools'  environment  to  make  them  more  friendly  to  girls.  As  a  result  the  GER  for  girls  at secondary level (Grades 9-10) increased from 11.2% in 1999/2000 to 19.8% in 2004/05. However, the gender gap in GER rose from 2.2 percentage points in 1999/2000 to 14.8 percentage points in 2004/05. This is a serious concern.
+secondary schools from 369 in 1996/97 to 706 in 2004/05, which represents an increase of 91%. Previously, secondary schools were mainly concentrated in urban areas. However, during ESDP-I and ESDP-II the percentage of secondary schools in rural areas increased from 7.0% in 1996/97 to 12.7% in 2004/05.
+
+Different services and forms of support were provided to retain female students in schools and to improve their academic performances. This included scholarships to girls from poor families, tutorial, guidance and counseling services. The scholarship support was provided to 1,380 female students who came from very poor family background and had high academic performance. Attention was also paid to raising the awareness of communities and teachers and improving the schools' environment to make them more friendly to girls. As a result the GER for girls at secondary level (Grades 9-10) increased from 11.2% in 1999/2000 to 19.8% in 2004/05. However, the gender gap in GER rose from 2.2 percentage points in 1999/2000 to 14.8 percentage points in 2004/05. This is a serious concern.
 
 #### 2.4.2 Technical Vocational Education and Training
 
-Technical  and  Vocational  Education  and  Training  (TVET)  was  the  most  neglected  area  in  the history of the Ethiopian Education System. However, since 2000/01 a massive expansion of this sub-sector  has  been  operational.  The  strategic  thinking  behind  the  expansion  of  the  TVET  subsector  is  to  meet  the  middle-level  human  power  demand  of  the  industry,  service  sector  and commercial  agriculture,  which  have  become  very  essential  to  the  overall  development  of  the country. TVET is an instrument for producing technicians equipped with practical knowledge, who unlike  in  the  past,  would  be  job  creators  rather  than  expecting  jobs  to  be  provided  by  the Government.
+Technical and Vocational Education and Training (TVET) was the most neglected area in the history of the Ethiopian Education System. However, since 2000/01 a massive expansion of this sub-sector has been operational. The strategic thinking behind the expansion of the TVET sub-sector is to meet the middle-level human power demand of the industry, service sector and commercial agriculture, which have become very essential to the overall development of the country. TVET is an instrument for producing technicians equipped with practical knowledge, who unlike in the past, would be job creators rather than expecting jobs to be provided by the Government.
 
 The objective is to provide quality education and training in the TVET sub-sector. To this end, the curriculum  was  revised,  skill  upgrading  training  was  given  to  TVET  teachers,  and  expatriate teachers  were  employed  to  overcome  the  shortage  of  teachers.  In  order  to  provide  diversified training and education to the trainees, fields of specializations have now reached 25 in government and  16  in  non-government  institutions.  In  collaboration  with  the  private  sector  and  government enterprises  an  apprenticeship  program  was  also  introduced  to  develop  the  skill  of  the  trainees before their deployment to the world of work.
 
@@ -285,13 +291,15 @@ In response to the anticipated labor market needs of the nation's development st
 
 ##### a) Pre-primary Education
 
-Taking teacher qualification as one of the quality indicators the 2004/05 data shows that 21.2 % of teachers are not trained to teach at this level. The share of untrained teachers was 26% in 2003/04, which shows an increase of 4.8 percentage points in the share of trained teachers in one year. As the government's role at this level is to set standards and maintain quality, the REBs have provided supervision  services  to  kindergartens;  and  created  supportive  environment  for  the  private  sector and the community to enhance the delivery of pre-primary education.
+Taking teacher qualification as one of the quality indicators the 2004/05 data shows that 21.2 % of teachers are not trained to teach at this level. The share of untrained teachers was 26% in 2003/04, which shows an increase of 4.8 percentage points in the share of trained teachers in one year. As the government's role at this level is to set standards and maintain quality, the REBs have provided
 
 - 13 -
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+supervision services to kindergartens; and created supportive environment for the private sector and the community to enhance the delivery of pre-primary education.
 
 ##### b) Primary Education
 
@@ -343,7 +351,7 @@ However,  at  present  most  TVET  graduates  do  not  meet  the  expectations  
 
 - Ongoing  formal  and  informal  non-public  and  private  company-based  training  is  closer  to people and to the world of work. All these different training approaches are not yet part of the over-all training system thus excluding large majority of trainees, job seekers (creators) and working people. Thus their skills, knowledge and experience are not sufficiently acknowledged, developed and utilized.
 
-Therefore, there is a need for a coherent system which includes formal and non-formal initial and subsequent training programs that allows access to certification at all levels - no matter how and where the skills and knowledge were acquired - and opens access to academic studies for everyone through required standard assessments/ tests. Moreover,  it is necessary to strengthen the qualification  framework,  which  is  the  basis  of  the  outcome  and  competency  based  system.  This requires the development of additional occupational standards test items, and the establishment of one appropriate assessment/testing infrastructure.
+Therefore, there is a need for a coherent system which includes formal and non-formal initial and subsequent training programs that allows access to certification at all levels - no matter how and where the skills and knowledge were acquired - and opens access to academic studies for everyone through required standard assessments/ tests. Moreover, it is necessary to strengthen the
 
 - 16 -
 
@@ -351,7 +359,9 @@ Therefore, there is a need for a coherent system which includes formal and non-f
 
 [[START OF PAGE 17]]
 
-Based  on  the  government  economic  and  social  development  strategy  program  new  training programs have been identified,  and  occupational  standards  were  prepared  for  50  priority  trades. The  Government  TVET  institutions  were  provided  with  the  necessary  equipment,  machinery, furniture and computers to make the training practical and of better quality. Training modules were also produced and distributed to the institutions. Moreover, 69 expatriate teachers were recruited and assigned in the different TVET institutions to improve the quality of training.
+qualification framework, which is the basis of the outcome and competency based system. This requires the development of additional occupational standards test items, and the establishment of one appropriate assessment/testing infrastructure.
+
+Based on the government economic and social development strategy program new training programs have been identified, and occupational standards were prepared for 50 priority trades. The Government TVET institutions were provided with the necessary equipment, machinery, furniture and computers to make the training practical and of better quality. Training modules were also produced and distributed to the institutions. Moreover, 69 expatriate teachers were recruited and assigned in the different TVET institutions to improve the quality of training.
 
 The TVET qualification framework document was prepared to put in place a trade-testing center with the corresponding procedure and 5 other implementation guidelines were also developed and 5 centers of competencies development plans are prepared.
 
@@ -361,13 +371,15 @@ In order to enhance the quality of tertiary education, procurement of essential 
 
 The rapid expansion in tertiary education has brought about an increase in the number of academic staff from 1,835 (1,718 Ethiopian and 117 Expatriate) in 1996/97 to 4,848 (4,293 Ethiopian and 555 Expatriate) in 2004/05. There has been a rise in the percentage of female teachers from 5.83% in 1996/97 to 10.3% in 2003/04. Attempts have also been made to produce large numbers of staff for existing and newly established institutions. Masters and Doctoral programs have been expanded in seven universities. This momentum will continue to meet the academic staff requirement.
 
-There  have  been  continuous  consultative  meetings  with  both  government  and  private  higher learning  institutions  over  the  last  four  years  focusing  on  higher  education  leadership  and management,  monitoring  and  evaluation  of  plans  and  performances,  expansion,  and  problems encountered. There has been a concerted effort to improve the overall quality of higher education. As  a  result  of  these  efforts,  overall  management  and  service  delivery  in  higher  education  is becoming  student-centered,  with  students  and  staff  having  an  input  into  the  management  and evaluation process.
+There have been continuous consultative meetings with both government and private higher learning institutions over the last four years focusing on higher education leadership and management, monitoring and evaluation of plans and performances, expansion, and problems encountered. There has been a concerted effort to improve the overall quality of higher education. As a result of these efforts, overall management and service delivery in higher education is
 
 - 17 -
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+becoming student-centered, with students and staff having an input into the management and evaluation process.
 
 As per the Education and Training Policy, the curricula for all the programs have been revised to ensure the relevance of the training programs.
 
@@ -395,13 +407,15 @@ Much has been done to improve the pupil/textbook ratio at the primary level. Acc
 
 #### 2.5.6 ICT in Education and Training
 
-Information communication Technology (ICT) today has become a global issue, with information playing  a  very  important  role  in  a  country's  economic  development.  Cognizant  of  this  fact,  the government  embarked  on  a  full-fledged  ICT  capacity  building  program  including  ICT  for education. Fiber cable institutional networking is being provided in higher education institutions and secondary schools are provided with necessary ICT infrastructure to receive satellite education transmissions in six subjects. Moreover, the facilitation of Internet laboratories in high schools is underway.  This  is  believed  to  bring  about  improvements  in  the  quality  of  education,  as  it  will enable  students  to  utilize  on-line  and  electronic  libraries  and  information.  It  will  also  assist  the professional development of teachers.
+Information communication Technology (ICT) today has become a global issue, with information playing a very important role in a country's economic development. Cognizant of this fact, the government embarked on a full-fledged ICT capacity building program including ICT for education. Fiber cable institutional networking is being provided in higher education institutions and secondary schools are provided with necessary ICT infrastructure to receive satellite education transmissions in six subjects. Moreover, the facilitation of Internet laboratories in high schools is underway. This is believed to bring about improvements in the quality of education, as it will
 
 - 19 -
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+enable students to utilize on-line and electronic libraries and information. It will also assist the professional development of teachers.
 
 ### 2.6 Efficiency
 
@@ -453,13 +467,15 @@ One of the common indicators of efficiency is the ratio of academic staff to stu
 
 surely the lower the number here the better
 
-HEIs  generally  have  developed  an  appropriate  range  of  modern  and  effective  human  resources management and resource practices and procedures. This is reflected in the investment made for the expansion of postgraduate training program in most universities. Compared to academic staff, the number of non-academic staff in Ethiopian universities is very high suggesting that too many persons have been hired showing inefficient administrative processes. While the ratio of academic staff to non-academic staff ranges from 1:1 to 1:3 in universities of Ethiopia, it is believed that this ratio should fall between 2:1 and 3:1.
+HEIs generally have developed an appropriate range of modern and effective human resources
 
 - 22 -
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+management and resource practices and procedures. This is reflected in the investment made for the expansion of postgraduate training program in most universities. Compared to academic staff, the number of non-academic staff in Ethiopian universities is very high suggesting that too many persons have been hired showing inefficient administrative processes. While the ratio of academic staff to non-academic staff ranges from 1:1 to 1:3 in universities of Ethiopia, it is believed that this ratio should fall between 2:1 and 3:1.
 
 ### 2.7 Decentralization
 
@@ -565,13 +581,17 @@ Following the establishment of the National HIV/AIDS council, MOE organized the 
 
 ### 2.10 Review of Major Activities Proposed in ESDP II
 
-The overall objective of ESDP-II was put in line with the priorities of SDPRP and the Millennium Development Goals, i.e. good quality universal primary education by 2015, meeting qualitative and quantitative  demand  for  human  power,  etc.  To  attain  the  above  goals,  ESDP-II  identified  and carried out different activities during the program period. In order to measure those achievements the program has identified indicators and set targets. Table 1 below provides the indicators along with their base year values, targets and achievements. As indicated in Table 1, access indicators are either achieved or exceeded. Although significant progress has been made towards achieving the quality and efficiency targets, they have not yet been reached. The share of girls in primary school enrollment was slightly higher than the target while the achievement for primary GER in the two most underserved regions was below the target .
+The overall objective of ESDP-II was put in line with the priorities of SDPRP and the Millennium Development Goals, i.e. good quality universal primary education by 2015, meeting qualitative and quantitative demand for human power, etc. To attain the above goals, ESDP-II identified and carried out different activities during the program period. In order to measure those achievements the program has identified indicators and set targets. Table 1 below provides the indicators along with their base year values, targets and achievements. As indicated in Table 1, access indicators are either achieved or exceeded. Although significant progress has been made towards achieving the
 
 - 27 -
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+quality and efficiency targets, they have not yet been reached. The share of girls in primary school enrollment was slightly higher than the target while the achievement for primary GER in the two most underserved regions was below the target.
+
+Table 1: ESDP II Performance Indicators - Targets and Achievements
 
 Indicators | Base Year EC 1993 (2000/1) | Result EC 1995 (2002/3) | Result EC 1997 (2004/5) | Target set for EC 1997 (2004/5)
 --- | --- | --- | --- | ---
@@ -599,19 +619,19 @@ Primary GER in two most underserved Regions | 10.8% | 14.8 | 22.1% | 20.0%
 Share of girls in primary school enrolment (Grades 1- 8) | 40.6% | 41.2 | 44.2% | 43.3%
 Share of female teachers in primary education | 29.4% | 31.1 | 35.6% | N/A
 
-Table 1: ESDP II Performance Indicators - Targets and Achievements
-
-*  These  are  revised  targets.  The  original  targets  were  65.0%  for  both  sexes,  which  is  72.8%  and  57.0%  for  boys  and  Girls respectively.
+* These are revised targets. The original targets were 65.0% for both sexes, which is 72.8% and 57.0% for boys and Girls respectively.
 
 ### 2.11 ESDP-II Experience: Challenges and Lessons Learned
 
-Many lessons have been learned during the implementation of ESDP-II.  The regular Joint Review Missions (JRMs) and Annual Review Meetings (ARMs) conducted to monitor the implementation of  ESDP-II  have  been  helpful  in  identifying  the  challenges  facing  the  education  system. Recognition of these challenges is an important step in finding timely solutions to strengthen the implementation  capacity  of  ESDP-III,  and  to  achieve  the  important  goals  set  for  the  education system. Though the following list is not intended to be exhaustive it is believed that it represents the most prominent and persistent challenges facing the education system:
+Many lessons have been learned during the implementation of ESDP-II. The regular Joint Review Missions (JRMs) and Annual Review Meetings (ARMs) conducted to monitor the implementation of ESDP-II have been helpful in identifying the challenges facing the education system. Recognition of these challenges is an important step in finding timely solutions to strengthen the implementation capacity of ESDP-III, and to achieve the important goals set for the education
 
 - 28 -
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+system. Though the following list is not intended to be exhaustive it is believed that it represents the most prominent and persistent challenges facing the education system:
 
 #### a) Challenges
 
@@ -641,7 +661,7 @@ Many lessons have been learned during the implementation of ESDP-II.  The regula
 
 - In  the  last  two  years  the  community  participated  not  only  in  raising  funds  and  constructing classrooms but also in owning and managing the development of education in their respective schools.  Education  and  training  boards  and  PTAs  have  become  instrumental  for  lowering dropout  and  repetition  rates  and  restoring  good  discipline  in  schools. Concerted  efforts  are needed to build their capacity in order to further strengthen their involvement in improving the quality and efficiency of education.
 
-- Since available resources (human and financial) are in short supply, the system should strive to make efficient use of what is available (e.g. low cost construction of school buildings, multigrade  teaching,  the  employment  of  paraprofessional,  investments  in  creating  a  minimum  of quality core staff in education offices).
+- Since available resources (human and financial) are in short supply, the system should strive to make efficient use of what is available (e.g. low cost construction of school buildings, multi-grade teaching, the employment of paraprofessional, investments in creating a minimum of quality core staff in education offices).
 
 - ICT applications have just been introduced in the post primary education levels and need to be effectively used for the teaching-learning process. Proper planning, monitoring and evaluation of these applications as well as continuous training of teachers and technicians in both software and hardware management of the system are necessary to ensure their optimal use.
 
@@ -667,7 +687,7 @@ To  implement  the  Poverty  Reduction  Strategy  successfully,  the  economy  w
 
 Although  significant  progress  has  been  made  in  increasing  access  and  coverage  for  primary education, faster progress needs to be made in this area in order to achieve the goal of Universal Primary Education (UPE) by the year 2015.  Along with further increases in access and coverage, the gains made in attaining equity need to be strengthened further, with special attention to the two disadvantaged regions, Somali and Afar.
 
-International research has proved that a person with at least 4 or 5 years of primary education is more productive than someone who is illiterate. Productivity, although it may not happen always, generally  leads  to  growth  in  income  and  this  in  its  turn  brings  about  a  decline  in  the  level  of poverty. Moreover, a person with at least 4 or 5 years of primary education is more responsive to attitudinal changes in nutrition, health, family planning, etc., thus facilitating the alleviation of nonincome  poverty.  Parental  literacy  not  only  increases  productivity  but  also  helps  parents  and communities  to  better  appreciate  the  value  of  education,  which  in  turn  results  in  better  school participation. In addition to sending their children to school, parents will also have the feeling of and better capacity in owning and managing schools.
+International research has proved that a person with at least 4 or 5 years of primary education is more productive than someone who is illiterate. Productivity, although it may not happen always, generally leads to growth in income and this in its turn brings about a decline in the level of poverty. Moreover, a person with at least 4 or 5 years of primary education is more responsive to
 
 - 31 -
 
@@ -675,7 +695,9 @@ International research has proved that a person with at least 4 or 5 years of pr
 
 [[START OF PAGE 32]]
 
-However, Ethiopia has a high level of adult illiteracy with the adult literacy rate equaling 41.5% (33.8% for women and 49.2% for men). In order to achieve the first MDG (eradicating extreme poverty),  it  will  be  necessary  for  the  country  to  raise  the  level  of  literacy  of  its  population  as  a whole.  To some extent this will be done through the expansion of the primary education system, as all  primary school age children will be able to attend school in the near future. But in the short term, the education system has to respond to this by way of initiating and strengthening functional adult  literacy  programs  as  well  as  expanding  and  improving  the  Community  Skills  Training Centers that provide the basic skills to increase productivity in small scale agriculture and other economic  sectors.  However,  the  Government  alone  cannot  carryout  such  programs  without  the active involvement, ownership and commitment of communities, NGOs and civil society.
+attitudinal changes in nutrition, health, family planning, etc., thus facilitating the alleviation of non-income poverty. Parental literacy not only increases productivity but also helps parents and communities to better appreciate the value of education, which in turn results in better school participation. In addition to sending their children to school, parents will also have the feeling of and better capacity in owning and managing schools.
+
+However, Ethiopia has a high level of adult illiteracy with the adult literacy rate equaling 41.5% (33.8% for women and 49.2% for men). In order to achieve the first MDG (eradicating extreme poverty), it will be necessary for the country to raise the level of literacy of its population as a whole. To some extent this will be done through the expansion of the primary education system, as all primary school age children will be able to attend school in the near future. But in the short term, the education system has to respond to this by way of initiating and strengthening functional adult literacy programs as well as expanding and improving the Community Skills Training Centers that provide the basic skills to increase productivity in small scale agriculture and other economic sectors. However, the Government alone cannot carryout such programs without the active involvement, ownership and commitment of communities, NGOs and civil society.
 
 One of the major bottlenecks for the timely utilization of the resources is the lack of organizational and human capacity. Though much has been done during the ESDP-I & ESDP-II, still more efforts need to be exerted to harmonize procedures, provide appropriate technical systems for the timely flow of information, strengthen managerial leadership, etc. Without building adequate implementation capacity at the center and in the regions, the targets set for ESDP-III cannot be fully realized.
 
@@ -779,7 +801,7 @@ and demands; and at the same time prepares students not for today's world but fo
 
  A third  of  students  admitted  to  universities  will  be  enrolled  in  the  teacher  education program in order to alleviate the shortage of qualified teachers in secondary schools.
 
- The  existing  School  Cluster  Resource  Centers  (SCRCs)  shall  be  strengthened  and expanded  to  provide  in-service  and  regular  training  for  both  qualified  and  Paraprofessional teachers.  The centers can be utilized to provide training and share teaching materials.  Most of the materials will be developed by the teachers themselves.  Such materials are not only essential for improving learning in the classroom, but constitute an important way  of validating and motivating teachers' own  inputs into the improvement of the education system.  The SCRC shall become an agent of change in terms of school curriculum and pedagogy.
+ The existing School Cluster Resource Centers (SCRCs) shall be strengthened and expanded to provide in-service and regular training for both qualified and Para-professional teachers. The centers can be utilized to provide training and share teaching materials. Most of the materials will be developed by the teachers themselves. Such materials are not only essential for improving learning in the classroom, but constitute an important way of validating and motivating teachers' own inputs into the improvement of the education system. The SCRC shall become an agent of change in terms of school curriculum and pedagogy.
 
  Efficient school leadership and management will be established in schools in order to enhance the quality of instruction and thereby improve learning achievements.
 
@@ -831,13 +853,15 @@ The following sections provide details of the component activities and strategie
 
 #### 4.1.1 Pre-primary Education
 
-Access to pre-primary education is important since it introduces children to basic learning skills that are needed in primary schools and enhance their chances of success in the education system. It has been proved that educating children at an early age is more critical than at a later age. It is believed  that  the  incidence  of  repetition  and  dropout  in  lower  grades  of  primary  schools  would decline  if  children  are  better  prepared  for  school,  which  in  turn  would  improve  the  internal efficiency  of  primary  education.  Hence,  expanding  access  to  pre-school  program  will  serve  two purposes:  enhancing  the  quality  of  education  and  improving  the  internal  efficiency  of  primary schools.
+Access to pre-primary education is important since it introduces children to basic learning skills that are needed in primary schools and enhance their chances of success in the education system. It has been proved that educating children at an early age is more critical than at a later age. It is believed that the incidence of repetition and dropout in lower grades of primary schools would decline if children are better prepared for school, which in turn would improve the internal efficiency of primary education. Hence, expanding access to pre-school program will serve two
 
 - 38 -
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+purposes: enhancing the quality of education and improving the internal efficiency of primary schools.
 
 Government policy for this sub-sector is not to establish and run pre-schools in the next five years. However, it has a critical role to play in policy development, curriculum design, standard setting, supervision, etc. Therefore, the Government will:
 
@@ -863,7 +887,7 @@ Government policy for this sub-sector is not to establish and run pre-schools in
 
 Universal access to primary education is of fundamental importance for achieving the Government's strategic objective, as it plays a key role in the elimination of poverty. Ensuring that all  children  are  able  to  enroll  in  schools  opens  up  new  opportunities  for  disadvantaged  children including girls, children with special needs, and children from pastoralist, semi-agriculturalist and in  isolated  rural  areas  where  access  has  been  limited.  To  expand  access  to  primary  education services, formal  schools,  ABECs  and  village  schools  will  be  established  and  multi-grade classrooms will be used wherever necessary.
 
-To ensure the realization of Universal Primary Education (UPE), the Government will make every effort  to  provide  financial,  human  and  material  resources.  However,  it  is  apparent  that  the Government's resources will not be sufficient. Expanding educational opportunities will therefore require  the  partnership  of  a  wide  range  of  domestic  and  international  partners.  The  program assumes  an  increased  role  of  communities'  in  constructing  low  cost  schools  and  classrooms. Similarly, increased participation of local and international partners and the private sector will have a  significant  role  to  play  in  contributing  to  expanding  access  to  primary  education  services  to children.
+To ensure the realization of Universal Primary Education (UPE), the Government will make every effort to provide financial, human and material resources. However, it is apparent that the Government's resources will not be sufficient. Expanding educational opportunities will therefore
 
 - 39 -
 
@@ -871,17 +895,21 @@ To ensure the realization of Universal Primary Education (UPE), the Government w
 
 [[START OF PAGE 40]]
 
-The  major  objectives  of  this  sub-program  for  the  coming  five  years  are  raising  enrollment, improving equity and quality and reducing dropout and repetition rates. By the end of the program period  (2009/10),  GER  will  reach  109.7%,  the  pupil/section  ratio  will  be  reduced  to  50  and pupil/teacher ratios will be 54 and 45 for first cycle and second cycle primary respectively. The program focuses on reaching not only children at the appropriate admission age (age 7) but also out-of-school children, those who didn't get the opportunity to enter schools at their appropriate age. Therefore, a target of over 100% GER is set due to the inclusion of overage children in total enrollment.
+require the partnership of a wide range of domestic and international partners. The program assumes an increased role of communities' in constructing low cost schools and classrooms. Similarly, increased participation of local and international partners and the private sector will have a significant role to play in contributing to expanding access to primary education services to children.
+
+The major objectives of this sub-program for the coming five years are raising enrollment, improving equity and quality and reducing dropout and repetition rates. By the end of the program period (2009/10), GER will reach 109.7%, the pupil/section ratio will be reduced to 50 and pupil/teacher ratios will be 54 and 45 for first cycle and second cycle primary respectively. The program focuses on reaching not only children at the appropriate admission age (age 7) but also out-of-school children, those who didn't get the opportunity to enter schools at their appropriate age. Therefore, a target of over 100% GER is set due to the inclusion of overage children in total enrollment.
 
 To meet the objectives stated above, 194,748 classrooms (95,142 for the first cycle and 99,606 for second cycle primary) will be constructed in order to provide space for new pupils and to reduce the  pupil/section  ratio  and  the  percentage  of  schools  with  double  shifts.  The  classrooms  will  be furnished  and  equipped  with  basic  necessary  furniture  and  equipment.  The  classrooms  could  be constructed as new schools or as additional classrooms in existing schools based on the needs of each locality. A total of 294,760 teachers (168,847 first cycle and 125,913 second cycle teachers) will be recruited to take care of the additional enrollments and reduce the pupil/teacher ratios in both  cycles.  Moreover,  3.7  million  sets  of  textbooks  (146.9  million  copies)  will  be  printed  and distributed to schools/ABECs to achieve and maintain a pupil/textbook ratio of 1:1 throughout the program period.
 
-The targets are quite high and may seem unachievable. However, the Government is confident that the targets will be met mainly for its two major strategies. First, expanding primary education is the responsibility of the woreda education offices. Hence, the activities will be undertaken by over 600 woredas, which will reduce the operations to a manageable size. For instance, the average number of  classrooms  that  will  be  constructed  in  each  woreda  per  year  will  be  about  65.  Secondly,  the program  will  make  use  of  different  modalities  for  the  provision  and  improvement  of  quality  of primary education. The modalities include low-cost formal schooling, alternative basic education (ABE),  multi-grade  classrooms,  etc.  Those  approaches  will  reduce  the  cost  of  the  program significantly.  Moreover,  the  construction  of  low-cost  formal  school  and  ABECs  require  low  or medium level of skills, which are available in each community. This will have the effect of raising the implementation capacity of woredas considerably. Although different approaches will be used to expand primary education, the program will make sure that good quality education is provided. To  this  end,  the  program  will  focus  on  the  use  of  continuous  assessment,  improving  internal efficiency and reducing the percentage of double shift classes to increase the time children spend in the classroom. The summary of activities under each component (which will be used to expand and improve the quality of primary education) is provided below.
+The targets are quite high and may seem unachievable. However, the Government is confident that the targets will be met mainly for its two major strategies. First, expanding primary education is the responsibility of the woreda education offices. Hence, the activities will be undertaken by over 600 woredas, which will reduce the operations to a manageable size. For instance, the average number of classrooms that will be constructed in each woreda per year will be about 65. Secondly, the program will make use of different modalities for the provision and improvement of quality of primary education. The modalities include low-cost formal schooling, alternative basic education (ABE), multi-grade classrooms, etc. Those approaches will reduce the cost of the program significantly. Moreover, the construction of low-cost formal school and ABECs require low or
 
 - 40 -
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+medium level of skills, which are available in each community. This will have the effect of raising the implementation capacity of woredas considerably. Although different approaches will be used to expand primary education, the program will make sure that good quality education is provided. To this end, the program will focus on the use of continuous assessment, improving internal efficiency and reducing the percentage of double shift classes to increase the time children spend in the classroom. The summary of activities under each component (which will be used to expand and improve the quality of primary education) is provided below.
 
 ##### A) Promote the Construction of Low-cost Schools and Classrooms
 
@@ -903,7 +931,7 @@ ABE  programs  are  critically  important  as  an  emergency  short-term  measur
 
 - Instruction will be focused, sustained and targeted to reflect learners' local life. There will also be continuous monitoring of students' progress towards the lessons they learn, increase academic  achievement  and  improve  attendance.  Facilitators  will  be  continuously  trained through closer supervision and a support system will be in place.
 
-- School  cluster  resource  centers  will  also  be  strengthened  and  expanded  to  provide  inservice and regular training for the facilitators working in ABECs. The centers shall also be utilized for the preparation of teaching materials and for the exchange of experiences on the challenges met and successes achieved in the area of teaching-learning process and in the mobilization and cooperation of the community to support the centers.
+- School cluster resource centers will also be strengthened and expanded to provide in-service and regular training for the facilitators working in ABECs. The centers shall also be utilized for the preparation of teaching materials and for the exchange of experiences on the challenges met and successes achieved in the area of teaching-learning process and in the mobilization and cooperation of the community to support the centers.
 
 - The  ABE  curriculum  will  be  the  condensed  version  of  the  first  cycle  of  primary  school curriculum to meet the demands of the learners and establish horizontal and vertical links with the formal education system. This will help learners to smoothly transfer from ABE to the formal education system.
 
@@ -927,7 +955,7 @@ facilitate participatory management. To this end, woreda education offices will 
 
 Running  multi-grade  classes  is  not  a  new  invention  for  Ethiopia.  Such  classes  in  Ethiopia  are usually identified as religious schools where there is one teacher but graded students based on their level of study and age. There are also private or individual schools in most of the urban centers that practice multi-grade classes.  Recently, Amhara and Oromia Regional Education Bureaus have also piloted the modern type of multi-grade classes and have found them promising on two grounds: improving access and quality.
 
-Evidence  from  other  countries  suggests  that  multi-grade  classes  can  result  in  a  very  effective organization of school resources and can lead to the efficient use of scarce resources if the teachers are well trained in multi-grade teaching techniques, feel confident in their management of multigrade classrooms, and are able to arrange the pupils' time in the classroom so that children will not waste valuable classroom time.
+Evidence from other countries suggests that multi-grade classes can result in a very effective organization of school resources and can lead to the efficient use of scarce resources if the teachers are well trained in multi-grade teaching techniques, feel confident in their management of multi-grade classrooms, and are able to arrange the pupils' time in the classroom so that children will not waste valuable classroom time.
 
 Therefore, based on domestic as well as international experiences, regions are placing empasis on the use of multi-grade classes, especially in areas where the student population is very small and constructing a four-classroom school is not necessary.
 
@@ -957,9 +985,9 @@ The lives of pastoralist and semi-agriculturalists will only be improved through
 
 - Special consideration will be given to girls to increase their participation in schools.  The involvement of women in the management of schools will also be increased.
 
-- Beneficiary communities will be involved in the selection process of facilitators for ABECs and  mobile  schools.  Facilitators  will  be  recruited  from  each  locality  and  priority  will  be given  to  females.  The  capacity  of  those  facilitators,  who  are  professionals-professionals, will also be enhanced through short-term initial and continuous on and off the job training programs and through the provision of educational materials and other vital inputs.
+- Beneficiary communities will be involved in the selection process of facilitators for ABECs and mobile schools. Facilitators will be recruited from each locality and priority will be given to females. The capacity of those facilitators, who are para-professionals, will also be enhanced through short-term initial and continuous on and off the job training programs and through the provision of educational materials and other vital inputs.
 
-- TTIs will be organized to undertake the training of professionals-professionals beside their formal teacher training programs. The existing criteria for admission to TTIs will also be modified in accordance with the realities of pastoralist and semi-agriculturalist communities.
+- TTIs will be organized to undertake the training of para-professionals beside their formal teacher training programs. The existing criteria for admission to TTIs will also be modified in accordance with the realities of pastoralist and semi-agriculturalist communities.
 
 ##### E) Arrange Special Program for Over-age children
 
@@ -983,9 +1011,9 @@ In collaboration with development partners, ESDP-III will expand school feeding 
 
 The  Government  attaches  high  importance  to  the  development  of  Adult  and  Non-Formal Education,  especially  to  combat  the  present  high  rate  of  illiteracy  with  a  particular  focus  on women. The participation of NGOs in the delivery of Adult and Non-Formal Education program is important and their continuous and increasing participation is welcome.
 
-The Adult and NFE program includes a range of basic education and training components for outof-school children and adults. The program focuses on literacy, numeracy and the environment to enable learners to develop problem-solving abilities and change their mode of life. The program will have three sub-components: a program for out-of-school children between the ages of 7-14, a functional adult literacy program for those youth and adults who are older than 15, and offering basic skill training to youth and adults in the Community Skills Training Centers (CSTCs).
+The Adult and NFE program includes a range of basic education and training components for out-of-school children and adults. The program focuses on literacy, numeracy and the environment to enable learners to develop problem-solving abilities and change their mode of life. The program will have three sub-components: a program for out-of-school children between the ages of 7-14, a functional adult literacy program for those youth and adults who are older than 15, and offering basic skill training to youth and adults in the Community Skills Training Centers (CSTCs).
 
-The  first  component  of  the  Adult  and  NFE  program  serves  as  an  alternative  approach  to complement  the  formal  education  program  in  the  effort  to  increase  access  to  basic  primary education. This is discussed in details under the Alternative Basic Education (ABE) program.  The second component, functional adult literacy will enhance the participation of communities in the national development and poverty reduction strategies. Moreover, the realization of this component will make adults more productive and self-reliant. The NFE program will specifically address the problem  of  gender  disparity  in  the  provision  of  functional  adult  literacy.    The  Adult  and  NFE program,  through  it  functional  adult  literacy  component,  will  reach  5.2  million  adults  in  the program period.  Moreover,  143,500  adults  will  be  trained  in  different  skills  in  the  existing  287 CSTCs.
+The first component of the Adult and NFE program serves as an alternative approach to complement the formal education program in the effort to increase access to basic primary education. This is discussed in details under the Alternative Basic Education (ABE) program. The
 
 - 45 -
 
@@ -993,11 +1021,13 @@ The  first  component  of  the  Adult  and  NFE  program  serves  as  an  altern
 
 [[START OF PAGE 46]]
 
-It is obvious that the government alone cannot provide sufficient financial or human resources to support  the  program  and  hence  there  is  a  need  to  get  support  from  other  stakeholders.  In  this connection,
+second component, functional adult literacy will enhance the participation of communities in the national development and poverty reduction strategies. Moreover, the realization of this component will make adults more productive and self-reliant. The NFE program will specifically address the problem of gender disparity in the provision of functional adult literacy. The Adult and NFE program, through it functional adult literacy component, will reach 5.2 million adults in the program period. Moreover, 143,500 adults will be trained in different skills in the existing 287 CSTCs.
+
+It is obvious that the government alone cannot provide sufficient financial or human resources to support the program and hence there is a need to get support from other stakeholders. In this connection,
 
 - Multilateral  and  bilateral  development  partners,  NGOs,  local  governments,  communities will be encouraged to offer various kinds of adult and NFE and training. The involvement of this diverse array of stakeholders can maximize the local responsiveness and relevance of the programs.
 
-- The Government will provide support in the preparation and supply of literacy curriculum guides,  learning  materials,  and  professional  assistance.  It  will  also  set  standards  for  nonformal  education  programs,  buildings  and  other  facilities  for  non-formal  education  and training courses.
+- The Government will provide support in the preparation and supply of literacy curriculum guides, learning materials, and professional assistance. It will also set standards for non-formal education programs, buildings and other facilities for non-formal education and training courses.
 
 - The Government will also establish an equivalence system between skills and credentials obtained  in  schools  and  those  obtained  through  NFE  and  training  programs,  in  order  to increase the chance that learners who complete non-formal courses will subsequently find employment or enter the formal school system.
 
@@ -1057,7 +1087,7 @@ In  order  to  ensure  a  planned  and  controlled  expansion  and  improve  the
 
 - Community sensitization will be enhanced while recruitment of more female teachers and school directors will become other important intervention areas during the program period.
 
-- The  government  will  also  take  steps  to  improve  the  quality  of  instruction  in  secondary schools  through  a  review  of  the  curriculum  aimed  at  incorporating  relevant  contents  and better  assessment  practices  to  enhance  student  performance  standards;  rehabilitation  of science  laboratories;  training  and  recruitment  of  qualified  teachers;  and  expansion  of  inservice training opportunities.
+- The government will also take steps to improve the quality of instruction in secondary schools through a review of the curriculum aimed at incorporating relevant contents and better assessment practices to enhance student performance standards; rehabilitation of science laboratories; training and recruitment of qualified teachers; and expansion of in-service training opportunities.
 
 #### 4.1.5 Teachers' Training
 
@@ -1089,7 +1119,7 @@ One of the main constraints in the expansion of primary education is the supply 
 
 - Private  teacher  training  institutes  and  colleges  will  be  encouraged.  The  Government  will use them as sources for teacher recruitment.
 
-- The  Government  will  also  explore  ways  in  which  the  curriculum  can  be  revised  to accelerate the production of new teachers and shift a greater share of their preparation to inservice training.
+- The Government will also explore ways in which the curriculum can be revised to accelerate the production of new teachers and shift a greater share of their preparation to in-service training.
 
 - 49 -
 
@@ -1135,15 +1165,15 @@ TVET  quality  awards  will  be  introduced  to  promote  the  performance  stan
 
 [[START OF PAGE 52]]
 
-TVET institutions  will  have  the  necessary  teaching  staff  by  introducing  ICT  and  by  providing training to teachers in different universities. In addition to this, institutions will also be networked. This  strategy  will  help  training  institutions  to  ensure  quality  through  the  education  and  training system for competency-based vocational and technical qualification. For the successful implementation of this strategy, training materials will be revised in order to make them practiceoriented and relevant to the training program. E-learning will be introduced in the education and training  systems,  especially  for  the  training  of  teachers.  An  independent  institution  will  be established  for  measuring  and  certification  of  trainees  on  the  basis  of  occupational  standards  to ensure the quality of the training.
+TVET institutions will have the necessary teaching staff by introducing ICT and by providing training to teachers in different universities. In addition to this, institutions will also be networked. This strategy will help training institutions to ensure quality through the education and training system for competency-based vocational and technical qualification. For the successful implementation of this strategy, training materials will be revised in order to make them practice-oriented and relevant to the training program. E-learning will be introduced in the education and training systems, especially for the training of teachers. An independent institution will be established for measuring and certification of trainees on the basis of occupational standards to ensure the quality of the training.
 
 Five regional governments and one non-government TVET trade testing and certification centers as well as their satellites will be operational through the enhancement of the capacity of professionals assigned in the centers.
 
-To match skill  requirements  of  training,  a  continual  dialog  between  training  providers  and  endusers  will  be  undertaken  both  at  national  and  regional  level.  Employers,  learners  and  training institutions must articulate skill requirements in their hiring to achieve productivity and a proper skill  and  job  match.  Training  institutions  will  also  have  the  same  vocational  information  for training  and  retraining.  Assisting  learners  to  access  and  examine  employment  information  is critical to workplace entrants in making informed career decisions.
+To match skill requirements of training, a continual dialog between training providers and end-users will be undertaken both at national and regional level. Employers, learners and training institutions must articulate skill requirements in their hiring to achieve productivity and a proper skill and job match. Training institutions will also have the same vocational information for training and retraining. Assisting learners to access and examine employment information is critical to workplace entrants in making informed career decisions.
 
 The  Ethiopian  government  priority  areas  in  addressing  SDPRP  strategy  are  road,  education, agriculture&  natural  resource  and  health.  These  priority  areas  can  not  be  successful  without  the availability of skilled human power at various levels. Hence, the objective of TVET is to produce the necessary skilled human power at junior and middle levels aligned to the specific requirements of  these  sectors  and  the  corresponding  labor  market  needs.  In  addition  to  this,  National  and regional labor market study will be undertaken to review the existing and introduce new training programs.  Occupational  standards  will  fully  be  developed  so  that  employers,  employees  and training  providers  will  have  a  common  understanding  of  what  is  required  for  a  particular employment in the labor market. In addition to this, civic and ethical education will be given in all TVET institutions to ensure positive work values and attitude during employment.
 
-Effective  counseling  and  career  guidance  arrangements  will  be  established  to  encourage  young people to make realistic training and career choices. The arrangement will also help teachers and trainees  to  overcome  gender  bias  when  giving  advice  to  trainees  and  to  encourage  prospective trainees  to  consider  a  broader  range  of  training  program  options.  There  will  also  be  targeted improvement  to  female  participation  in  all  training  programs  through  counseling  and  career guidance arrangements to advise prospective girls to enter into various TVET programs.
+Effective counseling and career guidance arrangements will be established to encourage young people to make realistic training and career choices. The arrangement will also help teachers and trainees to overcome gender bias when giving advice to trainees and to encourage prospective trainees to consider a broader range of training program options. There will also be targeted
 
 - 52 -
 
@@ -1151,11 +1181,13 @@ Effective  counseling  and  career  guidance  arrangements  will  be  establishe
 
 [[START OF PAGE 53]]
 
+improvement to female participation in all training programs through counseling and career guidance arrangements to advise prospective girls to enter into various TVET programs.
+
 Tracer studies are useful instruments to gather information about the employment history of TVET graduates and the relevance of the program undertaken. Hence, tracer studies will be undertaken to ascertain the career path of TVET graduates and modify or strengthen TVET programs. In addition to this, TVET providers will have continuous supervisory support to deal with quality issues.
 
 Better  management  at  TVET  institutions  should  result  in  more  effective  outcomes.  Therefore, TVET management will have clear objective to manage resources under their control and will be held  accountable  for  the  achievement  of  targets  set.  They  will  also  make  sure  that  the  training programs meet the needs of the local community. TVET will provide access to rural people so that they can enrich their own environment and improve their living standards
 
-The training will also address the skill requirements of economic activities in the rural areas and pastoralist and semi-agriculturalist communities. TVET training programs for Pastoralist and Semiagriculturalist communities will be organized in  harmony  with  locally  available  resources  and market demands.
+The training will also address the skill requirements of economic activities in the rural areas and pastoralist and semi-agriculturalist communities. TVET training programs for Pastoralist and Semi-agriculturalist communities will be organized in harmony with locally available resources and market demands.
 
 The contribution and the role of industry and other private partners in the planning, management and delivery of education and training will be maximized.
 
@@ -1175,7 +1207,7 @@ The relevance and quality of TVET will be diversified and strengthened in order 
 
 The  overall  strategy  is  to  provide  good  quality  higher  education  to  a  large  number  of  students equitably but based on merit. This is mainly to meet the demand of the economy that is expected to grow steadily and requires large numbers of degree level graduates in different fields.  During this program period a study to inform the sector on current and future expansions will be conducted.
 
-The existing eight universities will be expanded to have capacity accommodating 8 - 10 thousands additional  students.    Thirteen  new  higher  education  institutions,  which  will  ultimately  grow  to universities,  will  be  established.    These  institutions  will  be  established  in  Dessie/Kombolcha, Debrebirhan,  Debremarkos,  Nekemte,  Bale-Robe,  Nazareth,  Sodo,  Dilla,  Mizan/Tepi,  Jijiga, Semera, Diredawa and Axum. At the end of the planning period each of these new institutions will have a capacity to enroll 9 - 10 thousand students.
+The existing eight universities will be expanded to have capacity accommodating 8 – 10 thousands additional students. Thirteen new higher education institutions, which will ultimately grow to universities, will be established. These institutions will be established in Dessie/Kombolcha, Debrebirhan, Debremarkos, Nekemte, Bale-Robe, Nazareth, Sodo, Dilla, Mizan/Tepi, Jijiga, Semera, Diredawa and Axum. At the end of the planning period each of these new institutions will have a capacity to enroll 9 – 10 thousand students.
 
 In most of these institutions a third of the students will be enrolled in teacher education programs to  produce  qualified  teachers  for  secondary  schools  and  TVET  institutions.    In  addition  to  this, programs  in  engineering  and  technology,  computer  sciences  and  IT,  applied  sciences,  resource management, veterinary technology, etc., will be opened. From the existing universities, a college will  be  selected  to  serve  as  an  Ethiopian  Open  University  enrolling  not  less  than  10  thousand students annually.
 
@@ -1183,7 +1215,7 @@ The total annual intake capacity of institutions under the auspices of the Minis
 
 The  private  provision  of  higher  education  will  be  encouraged  through  the  facilitation  of  quick access to incentives (e.g., land, tax exemption, etc.), provision of technical support and short-term training  programs.  Moreover, joint experience sharing modalities with national and international higher education institutions will be devised.  Mechanisms to foster public-private partnerships will also be developed by undertaking joint studies and designing development strategies.
 
-To meet the demand for qualified teaching staff, the enrolment in the graduate (masters and PhD.) programs  will  be  further  expanded.    By  the  end  of  the  planning  period  enrolment  for  the  post graduate level will reach 26 thousands by strengthening existing and opening new programs in all universities.    As  the  undergraduate  program  has  been  expanding  the  last  few  years,  reaching  an annual intake of about 32 thousands in 2004, there will be a sufficient number of candidates to employ and enroll in the graduate programs.
+To meet the demand for qualified teaching staff, the enrolment in the graduate (masters and PhD.) programs will be further expanded. By the end of the planning period enrolment for the post
 
 - 54 -
 
@@ -1191,13 +1223,15 @@ To meet the demand for qualified teaching staff, the enrolment in the graduate (
 
 [[START OF PAGE 55]]
 
-Expatriate staff will continue to be employed as a stopgap measure, and the Ethiopian Diaspora will be mobilized.  In addition to enrolling staff in graduate programs at home, academic staff will be sent abroad for masters and Ph.D. training.  Employment and training of staff will be based on ensuring that women staff will account for at least 25% at the end of the planning period.
+graduate level will reach 26 thousands by strengthening existing and opening new programs in all universities. As the undergraduate program has been expanding the last few years, reaching an annual intake of about 32 thousands in 2004, there will be a sufficient number of candidates to employ and enroll in the graduate programs.
+
+Expatriate staff will continue to be employed as a stopgap measure, and the Ethiopian Diaspora will be mobilized. In addition to enrolling staff in graduate programs at home, academic staff will be sent abroad for masters and Ph.D. training. Employment and training of staff will be based on ensuring that women staff will account for at least 25% at the end of the planning period.
 
 The  expansion  of  graduate  programs  in  the  existing  universities  will  also  be  a  strategy  of revitalizing relevant and quality research undertaking in these institutions.  Both the masters and PhD programs will be major venues for research in universities.  Research policies and strategies for  efficient,  transparent,  relevant  and  quality  research  undertakings  in  universities  will  be developed. A research database system will also be designed.
 
 In  addition  to  maximizing  available  resources,  new  facilities  and  capacities  with  respect  to classrooms, libraries,  laboratories,  workshops  and  computer  centers  will  be  built.    Constructions will  be  carried  out  using  cost-effective  construction  technologies.    In  the  newly  establishing institutions,  dormitories  will  also  be  constructed.  Equipment  and  teaching  materials  will  be procured.  ICT policy, master plan and networking will be developed so that the technology could effectively be used for teaching-learning and day to day activities of the institutions.
 
-The leadership and management capacities of universities will be enhanced through implementation of the civil service reform.  Capable personnel will be put in place at all positions and continuous skills upgrading will be provided. Capacity in income generation and diversification will be built in all institutions. Cost sharing and out sourcing of student services will be expanded and strengthened. Governance at the level of boards and decentralization of decision making  to  the  level  of  faculties  and  departments  will  be  strengthened  and  implemented  in  all institutions.  Key  stakeholders,  including  students,  industries  and  regional  governments  will  be involved  in  the  governance  of  institutions  in  a  strengthened  manner.    Mechanisms  to  ensure accountability, transparency, cost-effectiveness and result-orientation will be put in place through the  higher  education  reform  (Employing  Civil  Service  Reform)  program.  Study  to  identify inefficiencies  in  the  system  (e.g.,  attrition  rate,  academic  to  administrative  staff  and  cost  ratios, etc.) will be undertaken.
+The leadership and management capacities of universities will be enhanced through implementation of the civil service reform. Capable personnel will be put in place at all positions and continuous skills upgrading will be provided. Capacity in income generation and diversification will be built in all institutions. Cost sharing and out sourcing of student services will be expanded and strengthened. Governance at the level of boards and decentralization of decision making to the level of faculties and departments will be strengthened and implemented in all institutions. Key stakeholders, including students, industries and regional governments will be involved in the governance of institutions in a strengthened manner. Mechanisms to ensure accountability, transparency, cost-effectiveness and result-orientation will be put in place through the higher education reform (Employing Civil Service Reform) program. Study to identify
 
 - 55 -
 
@@ -1205,7 +1239,9 @@ The leadership and management capacities of universities will be enhanced throug
 
 [[START OF PAGE 56]]
 
-The  Higher  Education  Strategy  Center  will  be  strengthened  in  terms  of  human  resources  and overall capacity to undertake studies and design appropriate strategies for the sector. The Quality and  Relevance  Assurance  Agency  will  be  strengthened  to  develop  standards  and  support mechanisms  to  ensure  quality  and  relevance  of  programs  delivered  in  both  public  and  private institutions.  Benchmarks will be set to monitor progress to targets and standards.
+inefficiencies in the system (e.g., attrition rate, academic to administrative staff and cost ratios, etc.) will be undertaken.
+
+The Higher Education Strategy Center will be strengthened in terms of human resources and overall capacity to undertake studies and design appropriate strategies for the sector. The Quality and Relevance Assurance Agency will be strengthened to develop standards and support mechanisms to ensure quality and relevance of programs delivered in both public and private institutions. Benchmarks will be set to monitor progress to targets and standards.
 
 New fields of study will be opened based on demand. Moreover, in addition to the face-to-face delivery mode, the use of distance mode of education and training will also be encouraged in all higher learning institutions.  To avoid wasteful duplication, it will be preferable if universities will agree on a common use of distance education facilities, with shared subject curricula and lectures, especially at first-year and second-year university levels. University vice-chancellors are invited to cooperate  in  developing  such  a  common  approach,  with  joint  use  of  expensive  facilities.  ICT facilities and networks in the universities will be instruments in facilitating the distance learning.
 
@@ -1235,7 +1271,7 @@ Efforts made to improve the quality of education are offset by the greater push 
 
 - In order to improve the professional capability of teachers at primary and secondary levels continuous professional development (CPD) will be put in place and institutionalized.
 
-- The  content  of  pre-service  and  in-service  teacher  training  programs  will  be  revised  in order  to  enable  teachers  to  acquire  and  develop  appropriate  pedagogical  skills  that  are academically  sound,  child  friendly,  and  gender  sensitive  together  with  individual  lifeskills which take into account the current HIV /AIDS crises.
+- The content of pre-service and in-service teacher training programs will be revised in order to enable teachers to acquire and develop appropriate pedagogical skills that are academically sound, child friendly, and gender sensitive together with individual life-skills which take into account the current HIV /AIDS crises.
 
 - Cluster based local in-service training and distance education models will be strengthened as this has a strong impact on improving the quality of learning. Cluster based in-service training  will  mainly  focus  on  active  learning  methodology,  continuous  assessment, managing self-contained classrooms, action research, etc.
 
@@ -1287,7 +1323,7 @@ Improving  efficiency  entails  reducing  dropout  and  repetition  rates  and  
 
 [[START OF PAGE 60]]
 
-increase the time-on-task by reducing the operation of the shift system. Construction of new schools or building additional classrooms in existing schools shall be undertaken in order to reduce the percentage of double shifts.  The reduction in the percentage of double shifts will be introduced gradually.
+increase the time–on-task by reducing the operation of the shift system. Construction of new schools or building additional classrooms in existing schools shall be undertaken in order to reduce the percentage of double shifts. The reduction in the percentage of double shifts will be introduced gradually.
 
 ### 4.6 Cross-cutting Issues
 
@@ -1357,11 +1393,11 @@ Hence, recognizing the exclusion and barriers to active learning and participati
 
 The following three strategic priorities were defined:
 
-- Including SNE in national and regional education sector planning and reporting systems,
+1) Including SNE in national and regional education sector planning and reporting systems,
 
-- Developing guidelines and providing technical assistance to regions, and
+2) Developing guidelines and providing technical assistance to regions, and
 
-- Strengthening the capacity of the education system.
+3) Strengthening the capacity of the education system.
 
 Special needs education aims at making the education system inclusive by educating teachers and establishing  support  systems.  All  forms  of  special  needs  education  require  adequate  teacher education and continuous professional development.
 
@@ -1397,7 +1433,7 @@ To reverse the situation in the education sector, at all levels from pre-primary
 
 - HIV/AIDS  shall  be  integrated  into  all  aspects  of  educational  planning  and  management including projection of teachers' demand for all levels. Training and recruitment of teachers shall take into account teachers' attrition due to HIV/AIDS.
 
-- Focal  persons  will  be  designated  and  co-coordinating  committees  shall  be  established  at Federal,  regional,  woreda  and  school/institution  levels  for  effective  management  and  coordination of HIV/AIDS activity in the education sector.
+- Focal persons will be designated and co-coordinating committees shall be established at Federal, regional, woreda and school/institution levels for effective management and co-ordination of HIV/AIDS activity in the education sector.
 
 - Existing curriculum shall be strengthened by offering life skills based HIV/AIDS prevention education  in  school  curriculum  for  all  levels  (primary,  secondary,  TVET,  tertiary  and TTI/TTCs) to promote behavioral changes.
 
@@ -1441,7 +1477,7 @@ The community will participate in the construction and management of schools and
 
 Under Ethiopia's Federal Constitution, the Government is committed to a policy of decentralization of responsibilities and executive powers. To this end, significant decision-making responsibility has been devolved to the regions and then to the woredas. The Regional Education Bureau is responsible for the implementation of the respective regional ESDP, whereas the Woreda Education Office is responsible for formulating educational plans at the local district level, based on  demand,  and  for  extending  the  necessary  support  to  schools.  Among  other  duties  and responsibilities,  the  WEO  should  establish  and  administer  primary,  secondary  and  technical  and vocational schools; devise and implement plans based on the region's educational plan; ensure that the  education  system  complies  with  national  and  regional  standards;  formulate  and  implement mechanisms  to  expand  education  and  encourage  and  support  community  involvement  in  the educational sector.
 
-At the regional level and even more so at woreda level, capacity has been a serious problem, with a shortage of qualified staff, high staff turnover and staff posts left unfilled, and with the situation being much more serious in the less developed regions. Efforts to develop staff capacity have met with the problem of trained staff leaving their posts since the training enabled them to secure more attractive employment elsewhere. Devolving of responsibilities at woreda level is continuing, but will take time to fully realize. Resources available to woreda education offices are largely used up for the payment of salaries for teachers and other staff, with only small sums remaining for nonsalary  expenditure.  Monitoring  of  activities  and  developments  in  schools  is  largely  related  to recording increases in pupil numbers and similar data, with little possibility of monitoring student performance. To this end,
+At the regional level and even more so at woreda level, capacity has been a serious problem, with a shortage of qualified staff, high staff turnover and staff posts left unfilled, and with the situation being much more serious in the less developed regions. Efforts to develop staff capacity have met with the problem of trained staff leaving their posts since the training enabled them to secure more attractive employment elsewhere. Devolving of responsibilities at woreda level is continuing, but will take time to fully realize. Resources available to woreda education offices are largely used up for the payment of salaries for teachers and other staff, with only small sums remaining for non-salary expenditure. Monitoring of activities and developments in schools is largely related to recording increases in pupil numbers and similar data, with little possibility of monitoring student performance. To this end,
 
 - 65 -
 
@@ -1475,17 +1511,17 @@ At the regional level and even more so at woreda level, capacity has been a seri
 
 The total cost of the ESDP-III is estimated at Birr53.9 billion of which Birr 22.8 billion is capital expenditure  while  the  remaining  Birr31.1  billion  is  recurrent  expenditure.  Unlike  ESDP  II,  the share of capital expenditure has dropped to 42.4% from 47.9% due to the emphasis given to the improvement of quality of education, which called for a significant increase in non-salary recurrent expenditure. Both capital and recurrent expenditures are projected based on the 2004/05 prices.
 
+Table 2: Program Cost Summary by Type of Expenditure
+
 Type of Expenditure | Amount (Million Birr) | Percentage Share (%)
 --- | --- | ---
 Capital | 22,851.10 | 42.4
 Recurrent | 31,061.40 | 57.6
 Total | 53,912.40 | 100
 
-Table 2:  Program Cost Summary by Type of Expenditure
+Primary education remains the highest priority for the Government of Federal Democratic Republic of Ethiopia (GFDRE) and receives the highest share from the total estimated expenditure of ESDP-III. As indicated in Table 3 below, the share of primary education has increased from 46.4% in ESDP-II to 50.6% in ESDP-III. In terms of resource allocation, the program has allocated 24.0%, 12.3%, 8.6% for tertiary, secondary and technical and vocational education and training (TVET) respectively. The remaining three sub-programs namely, special education, capacity building and administration and others account for 4.5 % of the total estimated program expenditure.
 
-Primary education remains the highest priority for the Government of Federal Democratic Republic of Ethiopia (GFDRE) and receives the highest share from the total estimated expenditure of ESDPIII.  As  indicated  in  Table  3  below,  the  share  of  primary  education  has  increased  from  46.4%  in ESDP-II to 50.6% in ESDP-III. In terms of resource allocation, the program has allocated 24.0%, 12.3%, 8.6% for tertiary, secondary and technical and vocational education and training (TVET) respectively. The remaining three sub-programs namely, special education, capacity building and administration and others account for 4.5 % of the total estimated program expenditure.
-
-The  broader  primary  education  sub-program  covers  three  major  areas,  i.e.,  primary  education (formal  and  alternative  basic  education),  teacher  training  (both  in  teacher  training  institutes  and teacher training colleges) and adult and non-formal education. However, the allocation to teacher training in ESDP-III is exclusively for recurrent expenditure of which a significant proportion goes to instructional materials and quality enhancement, teaching practice, preventive maintenance, etc. The  allocation  to  adult  and  non-formal  education  has  also  increased  from  Birr164.1  million  in ESDP-II  to  Birr  288.2  million  in  ESDP-III.  Moreover,  the  allocation  to  adult  and  non-formal education  in  ESDP-III  is  totally  for  recurrent  expenditure.  Since  the  adult  and  non-formal education program will use formal primary schools, alternative basic education centers and CSTC, as  learning places, there is no need to construct learning centers. This has released the financial resource for use in improving the quality of the program, which could have been used otherwise.
+The broader primary education sub-program covers three major areas, i.e., primary education (formal and alternative basic education), teacher training (both in teacher training institutes and teacher training colleges) and adult and non-formal education. However, the allocation to teacher training in ESDP-III is exclusively for recurrent expenditure of which a significant proportion goes to instructional materials and quality enhancement, teaching practice, preventive maintenance, etc. The allocation to adult and non-formal education has also increased from Birr164.1 million in ESDP-II to Birr 288.2 million in ESDP-III. Moreover, the allocation to adult and non-formal education in ESDP-III is totally for recurrent expenditure. Since the adult and non-formal
 
 - 67 -
 
@@ -1493,7 +1529,9 @@ The  broader  primary  education  sub-program  covers  three  major  areas,  i.e
 
 [[START OF PAGE 68]]
 
-Table 3:  Recurrent and Capital Cost by Sub-Programs
+education program will use formal primary schools, alternative basic education centers and CSTC, as learning places, there is no need to construct learning centers. This has released the financial resource for use in improving the quality of the program, which could have been used otherwise.
+
+Table 3: Recurrent and Capital Cost by Sub-Programs
 
 (Million Birr)
 
@@ -1512,9 +1550,9 @@ Administration and Others | 61 | 2,204.90 | 2,265.90 | 4.2
 Total | 22,851.10 | 31,061.40 | 53,912.40 | 100.0
 Grand Total | 22,851.10 | 31,061.40 | 53,912.40 | 100
 
-Table 4 provides the estimated program expenditure by major types of expenditure. Under capital expenditure three major components are identified, namely, civil works, equipment and furniture. Expenditure  on  civil  works  accounts  for  77.3%  of  the  total  estimated  capital  expenditure.  The remaining 22.7% is divided between equipment (17.4%), furniture (4%), equipment and furniture for special needs education and capacity building (0.8) and (0.4%) for vehicles to higher education. In most cases the share of cost of furniture and equipment from the total construction cost ranges from 10% -15%. But the share of equipment and furniture in this program seems higher than one may  expect  because  of  two  reasons.  The  first  one  is  the  inclusion  of  cost  of  replacement  of furniture  and  equipment  in  schools  that  are  desperately  in  need.  As  discussed  in  the  program description most of the primary and secondary schools either do not have the necessary equipment and  furniture  or  are  partly  out  of  use.  This  situation  calls  for  the  provision  of  equipment  and furniture, at least, for some of the existing schools. The second reason is the high cost of equipment in TVET and tertiary education.
+Table 4 provides the estimated program expenditure by major types of expenditure. Under capital expenditure three major components are identified, namely, civil works, equipment and furniture. Expenditure on civil works accounts for 77.3% of the total estimated capital expenditure. The remaining 22.7% is divided between equipment (17.4%), furniture (4%), equipment and furniture for special needs education and capacity building (0.8) and (0.4%) for vehicles to higher education. In most cases the share of cost of furniture and equipment from the total construction cost ranges from 10% –15%. But the share of equipment and furniture in this program seems higher than one may expect because of two reasons. The first one is the inclusion of cost of replacement of furniture and equipment in schools that are desperately in need. As discussed in the program description most of the primary and secondary schools either do not have the necessary equipment and furniture or are partly out of use. This situation calls for the provision of equipment and furniture, at least, for some of the existing schools. The second reason is the high cost of equipment in TVET and tertiary education.
 
-The  recurrent  expenditure  mainly  focuses  on  the  improvement  of  quality  of  education  and maintenance  of  building,  equipment  and  furniture.  As  indicated  in  the  quality  section  above, enhancing the professional capability of teachers, improving the quality and provision of textbooks, increasing the supply of instructional materials are identified as key areas to improve the quality of education and decrease the repetition rates at primary and secondary levels. This will also have a significant  contribution  in  reducing  the  dropout  rates  since  failure  in  examination  and  lack  of textbooks and instructional materials are some of the reasons for dropping out.
+The recurrent expenditure mainly focuses on the improvement of quality of education and maintenance of building, equipment and furniture. As indicated in the quality section above,
 
 - 68 -
 
@@ -1522,13 +1560,14 @@ The  recurrent  expenditure  mainly  focuses  on  the  improvement  of  quality 
 
 [[START OF PAGE 69]]
 
+enhancing the professional capability of teachers, improving the quality and provision of textbooks, increasing the supply of instructional materials are identified as key areas to improve the quality of education and decrease the repetition rates at primary and secondary levels. This will also have a significant contribution in reducing the dropout rates since failure in examination and lack of textbooks and instructional materials are some of the reasons for dropping out.
+
 Table 4: Estimated Program Cost by type of Expenditure
 
 (Million Birr)
 
-Type of Expenditure | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10
+Type of Expenditure | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | Total
 --- | --- | --- | --- | --- | --- | ---
-Total
 1. CAPITAL EXPENDITURE | 4,877.08 | 4,442.21 | 5,314.84 | 4,898.51 | 3,318.43 | 22,851.07
 Civil Works | 3,314.13 | 3241.75 | 4076.18 | 4186.3 | 2848.2 | 17666.6
 Furniture | 184.33 | 157.44 | 199.82 | 190.8 | 178.2 | 910.6
@@ -1547,7 +1586,7 @@ Vehicles | 0 | 0.00 | 78.24 | 0.0 | 0.0 | 78.2
 Total Recurrent Expenditure | 4,064.93 | 5,334.33 | 6,179.32 | 7225.8 | 8,259.10 | 31,061.36
 Total Capital and Recurrent Expenditure | 8,942.00 | 9,776.54 | 11,494.16 | 12,124.29 | 11,577.53 | 53,912.43
 
-ESDP-III allocates significant amount of resources for upgrading the qualification and improve the professional capability of teachers. Both pre-service and in-service teacher-training programs will be  used  to  improve  the  professional  capability  of  teachers.  In  addition  to  the  upgrading  of qualification of untrained teachers, the in-service teacher-training program will reach all existing primary school teachers through the school based training program. In-service training will also be provided to secondary, TVET, TTI/TTC and tertiary level teachers/instructors.  The  provision  of instructional materials and support to enhance quality at all levels will be other major focus areas to improve the quality of education. It is true both textbooks and instructional materials are in short supply. However, ESDP-III allocates financial resources that would help to increase the supply of textbooks and instructional materials to the required level.
+ESDP-III allocates significant amount of resources for upgrading the qualification and improve the professional capability of teachers. Both pre-service and in-service teacher-training programs will be used to improve the professional capability of teachers. In addition to the upgrading of qualification of untrained teachers, the in-service teacher-training program will reach all existing primary school teachers through the school based training program. In-service training will also be provided to secondary, TVET, TTI/TTC and tertiary level teachers/instructors. The provision of instructional materials and support to enhance quality at all levels will be other major focus areas to
 
 - 69 -
 
@@ -1555,13 +1594,15 @@ ESDP-III allocates significant amount of resources for upgrading the qualificati
 
 [[START OF PAGE 70]]
 
-As indicated in Figure 1, share of salary expenditure out of the total recurrent expenditure drops to 56.3% as opposed to 85% or 90% in the previous years. Out of the total recurrent expenditure 26.5 % will be allocated to non-salary expenditures that are used improvement of instructional materials and to conduct school-based training and carry out other quality enhancement activities. The other 7.1 % is allocated to non salary expenditure of special needs education and capacity building and also  salary  expenditure  of  administration  and  others.4.6  %  goes  to  the  supply  of  textbooks  to enhance quality education. In order to use the equipment, furniture and buildings properly, 0.5% of the total recurrent expenditure will be allocated to preventive maintenance. The remaining 5% of the recurrent non-salary expenditure goes to Teacher Training (Pre Service - TTIs and TTCs), inService  Training  for  Teachers  (Upgrading)  and  CPD  for  Teachers.  In  terms  of  unit  non-salary recurrent expenditure at primary level, ESDP-III is planning to raise it from the current below Birr 50  to  Birr  166 . 2 per  student  in  2009/10.  This  clearly  shows  how  the  Government  is  serious  in improving quality of education.
+improve the quality of education. It is true both textbooks and instructional materials are in short supply. However, ESDP-III allocates financial resources that would help to increase the supply of textbooks and instructional materials to the required level.
+
+As indicated in Figure 1, share of salary expenditure out of the total recurrent expenditure drops to 56.3% as opposed to 85% or 90% in the previous years. Out of the total recurrent expenditure 26.5 % will be allocated to non-salary expenditures that are used improvement of instructional materials and to conduct school-based training and carry out other quality enhancement activities. The other 7.1 % is allocated to non salary expenditure of special needs education and capacity building and also salary expenditure of administration and others.4.6 % goes to the supply of textbooks to enhance quality education. In order to use the equipment, furniture and buildings properly, 0.5% of the total recurrent expenditure will be allocated to preventive maintenance. The remaining 5% of the recurrent non-salary expenditure goes to Teacher Training (Pre Service - TTIs and TTCs), in-Service Training for Teachers (Upgrading) and CPD for Teachers. In terms of unit non-salary recurrent expenditure at primary level, ESDP-III is planning to raise it from the current below Birr 50 to Birr 166.2 per student in 2009/10. This clearly shows how the Government is serious in improving quality of education.
 
 ### 5.2 Program Financing
 
-The  sources  of  finance  for  ESDP-III  are  Government,  community,  students  and  bilateral  and multilateral donors. In ESDP-III community contribution will be significant as opposed to ESDPII. The cost that will be shared by pre-tertiary (Grades 11 & 12), TVET and tertiary level students will also be another source to finance ESDP-III.
+The sources of finance for ESDP-III are Government, community, students and bilateral and multilateral donors. In ESDP-III community contribution will be significant as opposed to ESDP-II. The cost that will be shared by pre-tertiary (Grades 11 & 12), TVET and tertiary level students will also be another source to finance ESDP-III.
 
-In the coming years, the rate of growth of GDP is assumed to be in the range of 7% and 10 %. The Government  is  also  committed  to  increase  the  share  of  education  from  GDP  to  over  4.1%  in 2009/10 from 3.1% in 2003/04. As indicated in Table 5, between 2004/05 and 2009/10 GDP is assumed to grow on average by 7 % (best case scenario). Under this scenario, the Government allocation  to  education  will  increase  from  about  Birr  6.6  billion  in  2005/06  to  Birr7.8  billion  in 2009/10. The community's cash contribution will range from zero to 100% of schools construction cost as the case may be. Community contribution will depend on the capacity of the community. However, all communities will contribute local materials and labor for schools or alternative basic education centers construction if required. Moreover, the community will also contribute to nonsalary recurrent expenditures of schools based on its will and ability. Assuming the minimum rates of  contributions  for  the  different  levels,  the  financial  resource  that  the  community  will  make available  would  increase  from  Birr  857  million  in  2005/06  to  Birr  967million  in  2009/10.  It  is assumed  that  the  contribution  of  the  community  in  terms  of  cash,  material  and  labor  for establishment and operation of local schools and its involvement in the management of school will increase significantly since the awareness of the community in owning the school will improve. Similarly,  taking  the  minimum  average  that  pre-tertiary,  TVET  and  tertiary  student's  pay,  the revenue  that  comes  from  cost  sharing  would  increase  from  Birr  30.1  million  in  2005/06  to Birr123.3 million in 2009/10.
+In the coming years, the rate of growth of GDP is assumed to be in the range of 7% and 10 %. The Government is also committed to increase the share of education from GDP to over 4.1% in 2009/10 from 3.1% in 2003/04. As indicated in Table 5, between 2004/05 and 2009/10 GDP is assumed to grow on average by 7 % (best case scenario). Under this scenario, the Government allocation to education will increase from about Birr 6.6 billion in 2005/06 to Birr7.8 billion in 2009/10. The community's cash contribution will range from zero to 100% of schools construction cost as the case may be. Community contribution will depend on the capacity of the community. However, all communities will contribute local materials and labor for schools or alternative basic education centers construction if required. Moreover, the community will also contribute to non-salary recurrent expenditures of schools based on its will and ability. Assuming the minimum rates
 
 - 70 -
 
@@ -1569,7 +1610,9 @@ In the coming years, the rate of growth of GDP is assumed to be in the range of 
 
 [[START OF PAGE 71]]
 
-All  these  three  sources  together,  will  cover  about  77.4%  of  the  program  cost.  Therefore,  the financing  gap,  which  is  expected  to  come  from  bilateral  and  multilateral  education  donors,  is 22.6%. Unlike ESDP-I and ESDP-II, which required about 27% and 30% of the program costs respectively, ESDP-III assumes a small portion of the total program expenditure (22.6%).
+of contributions for the different levels, the financial resource that the community will make available would increase from Birr 857 million in 2005/06 to Birr 967million in 2009/10. It is assumed that the contribution of the community in terms of cash, material and labor for establishment and operation of local schools and its involvement in the management of school will increase significantly since the awareness of the community in owning the school will improve. Similarly, taking the minimum average that pre-tertiary, TVET and tertiary student's pay, the revenue that comes from cost sharing would increase from Birr 30.1 million in 2005/06 to Birr123.3 million in 2009/10.
+
+All these three sources together, will cover about 77.4% of the program cost. Therefore, the financing gap, which is expected to come from bilateral and multilateral education donors, is 22.6%. Unlike ESDP-I and ESDP-II, which required about 27% and 30% of the program costs respectively, ESDP-III assumes a small portion of the total program expenditure (22.6%).
 
 Table 5: Indicative Financing Plan
 
@@ -1579,12 +1622,12 @@ Source of Finance | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10
 --- | --- | --- | --- | --- | --- | ---
 (a) GDP (at 7% increase per annum ) | 96,800 | 111,279 | 125,802 | 143,893 | 165,029 | 188,961
 (b) Allocation to education as percentage of GDP | 3.90 | 5.95 | 5.48 | 4.98 | 4.61 | 4.12
-(c) Government budget allocation to education | 6,618.00 | 6,888.00 | 7,166.00 | 7,611.00 | 7,776.00
-(d)Community Contribution | 857.115 | 961.245 | 1170.165 | 1323.535 | 966.695
-(e) Cost shared by students | 30.11 | 58.15 | 81.93 | 102.94 | 123.3
-(f) Total (c+d+e) | 7,505.23 | 7,907.40 | 8,418.10 | 9,037.48 | 8,866.00
-(g) Financing Gap (h-f) | 1,408.36 | 1,806.73 | 3,085.15 | 3,126.90 | 2,751.12
-(h) Total ESDP III Financial Requirement | 8,913.58 | 9,714.12 | 11,503.24 | 12,164.37 | 11,617.11
+(c) Government budget allocation to education |  | 6,618.00 | 6,888.00 | 7,166.00 | 7,611.00 | 7,776.00
+(d)Community Contribution |  | 857.115 | 961.245 | 1170.165 | 1323.535 | 966.695
+(e) Cost shared by students |  | 30.11 | 58.15 | 81.93 | 102.94 | 123.3
+(f) Total (c+d+e) |  | 7,505.23 | 7,907.40 | 8,418.10 | 9,037.48 | 8,866.00
+(g) Financing Gap (h-f) |  | 1,408.36 | 1,806.73 | 3,085.15 | 3,126.90 | 2,751.12
+(h) Total ESDP III Financial Requirement |  | 8,913.58 | 9,714.12 | 11,503.24 | 12,164.37 | 11,617.11
 
 The Government does all its best to allocate a total of about Birr36.2 billion in the coming five years  and  would  also  like  to  get  the  balance  from  community,  students  and  bilateral  and multilateral  funding  partners  in  order  to  implement  the  program  and  achieve  targets  as  planned. However,  two  different  scenarios  are  developed  if  the  above  assumptions  are  not  going  to  be realized for various reasons. The three scenarios, including the above, are summarized in Table 6.
 
@@ -1626,7 +1669,7 @@ Detailed  Terms  of  Reference  for  these  forums  are  included  in  Annex 3. 
 
 - Regular monthly meetings of donor representatives with the Ministry of Education.
 
-- The meetings of the education donor group (often held to prepare for joint governmentdonor forums).
+- The meetings of the education donor group (often held to prepare for joint government-donor forums).
 
 These ESDP-specific and donor-related forums are additional to other regular forums and activities that are embedded in the routines of education sector planning, review and implementation.  These include national and regional education conferences, which are held annually, and various ad hoc task forces and working groups that are set up from time to time.
 
@@ -1812,7 +1855,7 @@ YR | TARGETS/PROJECTIONS
 1.1 Educations share of the national budget | 16.7 | 19 | 19.3 | 19.6 | 19.9 | 20.2
 1.2 Share of General Education in the total education budget | 56.8% | 61.7% | 61.1% | 66.6% | 66.6%
 1.3 Share of TVET in the total education budget | 12.4% | 10.6% | 9.1% | 6.9% | 5.2%
-1.4 Share of Higher Education in the total budget | education | 25.3% | 22.7% | 25.6% | 22.6% | 24.0%
+1.4 Share of Higher Education in the total education budget | 25.3% | 22.7% | 25.6% | 22.6% | 24.0%
 2. ACCESS INDICATORS
 2.1 Grade 1 Net Intake Rate | 60.9% | 80.0% | 96.0% | 96.0% | 96.0% | 96.0%
 2.1.1 Male | 62.2% | 81.0% | 96.0% | 96.0% | 96.0% | 96.0%
@@ -1844,13 +1887,12 @@ YR | TARGETS/PROJECTIONS
 2.9 Admission to Preparatory 11 | 45,671 | 72,658 | 121,309 | 158,574 | 181,915 | 212,807
 2.9.1 Male | 31,582 | 54,527 | 77,225 | 100,031 | 110,165 | 123,507
 2.9.2 Female | 14,089 | 18,131 | 44,084 | 58,543 | 71,750 | 89,299
-2.10 Admission to TVET | 94,592 | 137,625 | 243,009 | 265,044 | 304,058
-2.10.1 Male | 46,161 | 67,161 | 118,588 | 129,342 | 148,380 | 312,826 152,659
+2.10 Admission to TVET | 94,592 | 137,625 | 243,009 | 265,044 | 304,058 | 312,826
+2.10.1 Male | 46,161 | 67,161 | 118,588 | 129,342 | 148,380 | 152,659
 2.10.2 Female | 48,431 | 70,464 | 124,421 | 135,703 | 155,678 | 160,167
 2.11 Admission to Degree program | 36,405 | 40,440 | 41,050 | 70,043 | 116,097 | 150,077
-2.11.1 Female | 8,883 | 25,916 | 44,117 | 58,530
-2.11.2 Male | 10,514 | 11,904
-27,522 | 29,925 | 29,145 | 44,127 | 71,980 | 91,547
+2.11.1 Female | 8,883 | 10,514 | 11,904 | 25,916 | 44,117 | 58,530
+2.11.2 Male | 27,522 | 29,925 | 29,145 | 44,127 | 71,980 | 91,547
 
 - 78 -
 
@@ -1858,7 +1900,7 @@ YR | TARGETS/PROJECTIONS
 
 [[START OF PAGE 79]]
 
-2.12 Admission to Post graduate program | 3,884 | 6,550 | 11,413 16,275 | 21,138 | 26,000
+2.12 Admission to Post graduate program | 3,884 | 6,550 | 11,413 | 16,275 | 21,138 | 26,000
 --- | --- | --- | --- | --- | --- | ---
 2.13 Share of female students in higher education enrollment | 24% | 26% | 29% | 37% | 38% | 39%
 3. QUALITY INDICATORS
@@ -1872,7 +1914,8 @@ YR | TARGETS/PROJECTIONS
 3.6 Primary 1-8 student/teacher ratio | 66 | 64 | 61 | 57 | 53 | 50
 3.8 Secondary 9-12 student/teacher ratio | 51 | 50 | 48 | 45 | 43 | 40
 3.9 Grade 4 sample assessment of learning achievement
-3.10 Grade 8 sample assessment of learning achievement 4. EFFICIENCY INDICATORS
+3.10 Grade 8 sample assessment of learning achievement
+4. EFFICIENCY INDICATORS
 4.1 Primary 1-4 student/section ratio | 71.0 | 66.8 | 62.6 | 58.4 | 54.2 | 50.0
 4.2 Primary 5-8 student/section ratio | 68.4 | 64.7 | 61.1 | 57.4 | 53.7 | 50.0
 4.1 Primary 1-8 student/section ratio | 69.0 | 66.2 | 62.1 | 58.1 | 54.0 | 50.0
@@ -2043,9 +2086,9 @@ C. SUMMARY COSTS BY TYPE OF EXPENDITURE | 2005/06 1998 | 2006/07 1999 | 2007/08 
 
 190.80 | 910.569
 --- | --- | --- | --- | --- | --- | ---
-2.3 Equipment | 1,308.12 | 941.02 | 931.10 | 521.44 | 292.01 | 3 , 993.685
+2.3 Equipment | 1,308.12 | 941.02 | 931.10 | 521.44 | 292.01 | 3,993.685
 2.4 Vehicles | - | - | 78.238 | - | - | 78.238
-SUB-TOTAL (EXCL. SPECIAL NEEDS, CAP BUILDING, ADMIN AND OTHERS) | 8,427.40 | 9,227.94
+SUB-TOTAL (EXCL. SPECIAL NEEDS, CAP BUILDING, ADMIN AND OTHERS) | 8,427.40 | 9,227.94 | 11,017.06 | 11,678.19 | 11,130.93 | 51,481.53
 6. TOTAL - SPECIAL NEEDS EDUCATION (Millions Birr) | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 5.000
 7. TOTAL - CAPACITY BUILDING (Millions Birr) | 32.00 | 32.00 | 32.00 | 32.00 | 32.00 | 160.000
 8. TOTAL - ADMINISTRATION AND OTHERS (Millions Birr) | 453.18 | 453.18 | 453.18 | 453.18 | 453.18 | 2,265.900
@@ -2064,7 +2107,7 @@ C. SUMMARY COSTS BY TYPE OF EXPENDITURE | 2005/06 1998 | 2006/07 1999 | 2007/08 
 2.2 Furniture | 2.1% | 1.6% | 1.7% | 1.6% | 1.5% | 1.7%
 2.3 Equipment | 14.7% | 9.7% | 8.1% | 4.3% | 2.5% | 7.4%
 2.4 Vehicles | 0.0% | 0.0% | 0.7% | 0.0% | 0.0% | 0.1%
-SUB-TOTAL (EXCL. SPECIAL NEEDS, CAP BUILDING, ADMIN AND OTHERS) | 94.5% | 95.0%
+SUB-TOTAL (EXCL. SPECIAL NEEDS, CAP BUILDING, ADMIN AND OTHERS) | 94.5% | 95.0% | 95.8% | 96.0% | 95.8% | 95.5%
 1. TOTAL COST - PRIMARY EDUCATION INCL. ABE | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0%
 2. TOTAL COST - TEACHER TRAINING FOR PRIMARY | 0.4% | 0.3% | 0.3% | 0.3% | 0.3% | 0.3%
 3. TOTAL COST - SECONDARY EDUCATION | 5.1% | 4.7% | 3.9% | 3.7% | 3.9% | 4.2%
