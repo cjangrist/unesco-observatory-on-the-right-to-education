@@ -1,6 +1,14 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+REPUBLIQUE DU CAMEROUN
+PAIX - TRAVAIL - PATRIE
+
+REPUBLIC OF CAMEROON
+PEACE - WORK - FATHERLAND
+
+# PLAN D'ACTION NATIONAL DE PROMOTION ET DE PROTECTION DES DROITS DE L'HOMME AU CAMEROUN ( 2015 - 2019 )
+
+Yaoundé, décembre 2015
 
 [[END OF PAGE 1]]
 
@@ -18,15 +26,16 @@
 
 [[START OF PAGE 4]]
 
-© Copyright Ministère de la Justice - Tous droits de reproduction réservés 2015
+© Copyright Ministère de la Justice – Tous droits de reproduction réservés
+2015
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-## Avant-propos
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+## Avant-propos
 
 « Nous nous sommes ainsi engagés à faire ensemble du Cameroun une République exemplaire, une Nation respectée à l'extérieur, un Etat juste qui assure l'égalité des chances, un pays où la richesse nationale sera équitablement répartie.
 
@@ -82,7 +91,7 @@ BIT
 
 BUCREP
 
-: Bureau Central des Recensements et des Etudes de la Po- pulation
+: Bureau Central des Recensements et des Etudes de la Population
 
 BUNEC
 
@@ -94,7 +103,7 @@ CADBEE
 
 CADEG
 
-: Charte Africaine sur la Démocratie, les Elections et la Gou- vernance
+: Charte Africaine sur la Démocratie, les Elections et la Gouvernance
 
 CADHP
 
@@ -134,7 +143,7 @@ CEDAW
 
 CEDEF
 
-: Convention sur l'Elimination de toutes les formes de Discri- mination à l'Egard des Femmes
+: Convention sur l'Elimination de toutes les formes de Discrimination à l'Egard des Femmes
 
 CEFAM
 
@@ -190,7 +199,7 @@ CNC
 
 CNDHL
 
-: Commission Nationale des Droits de l'Homme et des Li- bertés
+: Commission Nationale des Droits de l'Homme et des Libertés
 
 CNLS
 
@@ -210,7 +219,7 @@ Commission Nationale Anti-Corruption
 
 CONRHA
 
-: Comité National de Réadaptation et de Réinsertion des Per- sonnes Handicapées
+: Comité National de Réadaptation et de Réinsertion des Personnes Handicapées
 
 CONSUPE
 
@@ -294,7 +303,7 @@ EPU
 
 FEICOM
 
-: Fonds Spécial d'Équipement et d'Intervention intercom- munal
+: Fonds Spécial d'Équipement et d'Intervention intercommunal
 
 FENASSCO
 
@@ -318,9 +327,7 @@ GIE
 
 GTZ
 
-:
-
-Deutsche Gesellschaftfûr Technische Zusammenarbeit
+: Deutsche Gesellschaftfür Technische Zusammenarbeit
 
 HCR
 
@@ -340,11 +347,11 @@ LMD
 
 LUTRENA
 
-: Programme sous-Régional de lutte contre la traite des en- fants à des fins d'exploitation de leur travail en Afrique de l'Ouest et du Centre
+: Programme sous-Régional de lutte contre la traite des enfants à des fins d'exploitation de leur travail en Afrique de l'Ouest et du Centre
 
 MAETUR
 
-: Mission d'Aménagement et d'Equipement des Terrains Ur- bains et Ruraux
+: Mission d'Aménagement et d'Equipement des Terrains Urbains et Ruraux
 
 MBOSCUDA :
 
@@ -368,7 +375,7 @@ MINAS
 
 MINATD
 
-: Ministère  de  l'Administration  Territoriale  et  de  la  Dé- centralisation
+: Ministère de l'Administration Territoriale et de la Décentralisation
 
 MINCOM
 
@@ -402,11 +409,13 @@ ix
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-MINEFOP MINEPDED
+MINEFOP
 
 : Ministère de l'Emploi et de la Formation Professionnelle
 
-: Ministère de l'Environnement, de la Protection de la Nature et du Développement  Durable
+MINEPDED
+
+: Ministère de l'Environnement, de la Protection de la Nature et du Développement Durable
 
 MINEPIA
 
@@ -430,7 +439,7 @@ MINFOF
 
 MINFOPRA
 
-: Ministère de la Fonction Publique et de la Réforme Ad- ministrative
+: Ministère de la Fonction Publique et de la Réforme Administrative
 
 MINHDU
 
@@ -510,7 +519,7 @@ OMS
 
 ONEFOP
 
-Observatoire National de l'Emploi et de la Formation Pro- fessionnelle
+Observatoire National de l'Emploi et de la Formation Professionnelle
 
 ONG
 
@@ -546,7 +555,7 @@ OSC
 
 PACA
 
-: Projet d'Amélioration de la Compétitivité Agricole au Ca- meroun
+: Projet d'Amélioration de la Compétitivité Agricole au Cameroun
 
 PACDET
 
@@ -562,7 +571,7 @@ PDPP
 
 PIAASI
 
-: Programme Intégré d'Appui aux Acteurs du Secteur In- formel
+: Programme Intégré d'Appui aux Acteurs du Secteur Informel
 
 PIDCP
 
@@ -684,6 +693,8 @@ xii
 
 [[START OF PAGE 13]]
 
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
 ## Préface
 
 L'Etat du Cameroun a, depuis son accession à l'indépendance en 1960, œuvré pour la promotion et la protection des Droits de l'Homme.
@@ -702,9 +713,8 @@ Dans cette perspective, notre Plan d'Action doit être considéré comme un socl
 
 Le Gouvernement compte sur la participation de tous les citoyens et de tous ses partenaires au développement pour relever les défis de sa mise en œuvre.
 
-Le Premier Ministre, Chef du Gouvernement Philemon YANG
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+Le Premier Ministre, Chef du Gouvernement
+Philemon YANG
 
 xiii
 
@@ -734,7 +744,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 L'élaboration du présent Plan d'Action National de Promotion et de Protection des Droits de l'Homme (ci- après désigné Plan d'Action) est l'une des manifestations de l'engagement du Cameroun à œuvrer pour la promotion et la protection des Droits de l'Homme.
 
-La production de ce document s'est faite dans un contexte précis. Sa justification a permis de définir les objectifs à atteindre ainsi que les mécanismes de mise en œuvre et de suiviévaluation.
+La production de ce document s'est faite dans un contexte précis. Sa justification a permis de définir les objectifs à atteindre ainsi que les mécanismes de mise en œuvre et de suivi-évaluation.
 
 ### CONTEXTE D'ELABORATION ET JUSTIFICATION DU PLAN D'ACTION
 
@@ -744,11 +754,11 @@ Le présent Plan d'Action se justifie et peut être situé dans un double contex
 
 Depuis le retour au pluralisme en 1990, le Cameroun a résolument inscrit la garantie des Droits de l'Homme dans ses actions prioritaires.
 
-La libéralisation de la vie publique s'est accompagnée d'un vaste mouvement de réforme au plan normatif. Depuis la révision constitutionnelle du 18 janvier 1996, les instruments internationaux relatifs aux droits fondamentaux ont été intégrés au bloc de constitutionnalité avec la reconnaissance de la valeur constitutionnelle au Préambule de la Constitution. Une multitude de textes ont été adoptés pour régir divers secteurs d'activités et renforcer la garantie des droits consacrés par la Constitution. Ainsi, le Code de Procédure Pénale (CPP) a été adopté en 2005 et est entré en vigueur le 1 er janvier 2007 pour consolider la garantie des droits des personnes sujettes à une accusation pénale. Un Code Electoral a été adopté le 19 avril 2012 dans l'optique d'améliorer la qualité des élections, option déjà perceptible dans le changement institutionnel qui a abouti au remplacement de l'Observatoire National des Elections par un organe indépendant « Elections Cameroon » .
+La libéralisation de la vie publique s'est accompagnée d'un vaste mouvement de réforme au plan normatif. Depuis la révision constitutionnelle du 18 janvier 1996, les instruments internationaux relatifs aux droits fondamentaux ont été intégrés au bloc de constitutionnalité avec la reconnaissance de la valeur constitutionnelle au Préambule de la Constitution. Une multitude de textes ont été adoptés pour régir divers secteurs d'activités et renforcer la garantie des droits consacrés par la Constitution. Ainsi, le Code de Procédure Pénale (CPP) a été adopté en 2005 et est entré en vigueur le 1er janvier 2007 pour consolider la garantie des droits des personnes sujettes à une accusation pénale. Un Code Electoral a été adopté le 19 avril 2012 dans l'optique d'améliorer la qualité des élections, option déjà perceptible dans le changement institutionnel qui a abouti au remplacement de l'Observatoire National des Elections par un organe indépendant « Elections Cameroon ».
 
 Cette évolution s'est inscrite dans une logique de remodelage du paysage institutionnel déjà marquée par un réaménagement de l'organisation des pouvoirs de l'Etat. En effet, la justice, jadis considérée comme une autorité a été érigée en pouvoir judiciaire. Le Sénat a été mise en place. Le Conseil Constitutionnel a été institué.
 
-La mise en relief de la question des Droits de l'Homme a été concrétisée par plusieurs mutations institutionnelles avec notamment  le raffermissement de l'institution nationale des Droits de l'Homme. L'on est ainsi passé d'un Comité National des Droits de l'Homme et des Libertés, créé par Décret n°90/1459 du 8 novembre 1990, à la Commission Nationale des Droits de l'Homme et des Libertés (CNDHL), instituée par la Loi n°2004/016 du 22 juillet 2004. De plus, l'organisation du travail gouvernemental a formellement pris en compte cette question avec la création d'une Direction des Droits de l'Homme et de la Coopération Internationale au sein du Ministère de la Justice et d'un Comité Interministé- Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+La mise en relief de la question des Droits de l'Homme a été concrétisée par plusieurs mutations institutionnelles avec notamment le raffermissement de l'institution nationale des Droits de l'Homme. L'on est ainsi passé d'un Comité National des Droits de l'Homme et des Libertés, créé par Décret n°90/1459 du 8 novembre 1990, à la Commission Nationale des Droits de l'Homme et des Libertés (CNDHL), instituée par la Loi n°2004/016 du 22 juillet 2004. De plus, l'organisation du travail gouvernemental a formellement pris en compte cette question avec la création d'une Direction des Droits de l'Homme et de la Coopération Internationale au sein du Ministère de la Justice et d'un Comité Interministé-
 
 3
 
@@ -756,7 +766,9 @@ La mise en relief de la question des Droits de l'Homme a été concrétisée par
 
 [[START OF PAGE 18]]
 
-riel de Suivi de la Mise en Œuvre des Décisions et/ou Recommandations des Mécanismes Internationaux et Régionaux de Promotion et de Protection des Droits de l'Homme logé dans les Services du Premier Ministre. D'autres évolutions ayant une importance significative méritent d'être signalées. Il s'agit du rattachement de l'Administration Pénitentiaire au Ministère de la Justice en 2004 et la création d'une Division Spéciale de Contrôle des Services de Police  au sein de la  Délégation Générale à la Sûreté Nationale (DGSN) pour assurer la police des polices.
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+riel de Suivi de la Mise en Œuvre des Décisions et/ou Recommandations des Mécanismes Internationaux et Régionaux de Promotion et de Protection des Droits de l'Homme logé dans les Services du Premier Ministre. D'autres évolutions ayant une importance significative méritent d'être signalées. Il s'agit du rattachement de l'Administration Pénitentiaire au Ministère de la Justice en 2004 et la création d'une Division Spéciale de Contrôle des Services de Police au sein de la Délégation Générale à la Sûreté Nationale (DGSN) pour assurer la police des polices.
 
 L'ambition de ces aménagements aux niveaux normatifs et institutionnels était la création d'un cadre favorable à la jouissance des droits.
 
@@ -768,7 +780,7 @@ La volonté d'inscrire les principes de gouvernance et la lutte contre la corrup
 
 La nécessité d'une approche participative a rendu nécessaire l'implication de la société civile composée d'associations et d'Organisations non Gouvernementales (ONG) dans le domaine des Droits de l'Homme, ce qui a favorisé l'émergence des Défenseurs des Droits de l'Homme dont les activités méritent d'être valorisées.
 
-Si des évolutions notables ont été ainsi enregistrées au plan des droits civils et politiques, l'environnement économique et social caractérisé par des inégalités sociales frappantes, une pauvreté rampante et un taux de chômage important a rendu la réalisation des droits économiques, sociaux et culturels difficile. Pour y remédier, le Gouvernement s'est doté en avril 2003 d'un Document de Stratégie de Réduction de la Pauvreté (DSRP) qui a montré ses limites à l'application, d'où sa révision en mars 2008 suivi de l'adoption en décembre 2009 du Document de Stratégie pour la Croissance et l'Emploi (DSCE). Ce Document est le cadre de référence de l'action gouvernementale pour la période 2010-2020. Il tire luimême sa source d'une vision de développement à long terme à l'horizon 2035 qui pro-
+Si des évolutions notables ont été ainsi enregistrées au plan des droits civils et politiques, l'environnement économique et social caractérisé par des inégalités sociales frappantes, une pauvreté rampante et un taux de chômage important a rendu la réalisation des droits économiques, sociaux et culturels difficile. Pour y remédier, le Gouvernement s'est doté en avril 2003 d'un Document de Stratégie de Réduction de la Pauvreté (DSRP) qui a montré ses limites à l'application, d'où sa révision en mars 2008 suivi de l'adoption en décembre 2009 du Document de Stratégie pour la Croissance et l'Emploi (DSCE). Ce Document est le cadre de référence de l'action gouvernementale pour la période 2010-2020. Il tire lui-même sa source d'une vision de développement à long terme à l'horizon 2035 qui pro-
 
 4
 
@@ -778,7 +790,7 @@ Si des évolutions notables ont été ainsi enregistrées au plan des droits civ
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-jette le Cameroun comme «… un pays émergent, démocratique et uni dans sa diversité » . C'est dans la logique de l'option de programmation insufflée par le DSCE et dans l'optique d'avoir une articulation plus claire des actions de l'Etat que le Cameroun se dote d'un Plan d'Action. Cette démarche avait déjà été suggérée au plan international.
+jette le Cameroun comme «… un pays émergent, démocratique et uni dans sa diversité ». C'est dans la logique de l'option de programmation insufflée par le DSCE et dans l'optique d'avoir une articulation plus claire des actions de l'Etat que le Cameroun se dote d'un Plan d'Action. Cette démarche avait déjà été suggérée au plan international.
 
 #### AU PLAN INTERNATIONAL
 
@@ -894,6 +906,8 @@ Le Plan d'Action comprend une première partie dédiée à l'analyse situationne
 
 ## Première Partie
 
+ANALYSE SITUATIONNELLE
+
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
@@ -906,7 +920,7 @@ Le Plan d'Action comprend une première partie dédiée à l'analyse situationne
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-L'examen de la mise en œuvre des Droits de l'Homme repose sur l'analyse des actions de l'Etat et de ses partenaires, suivant des indicateurs précis. Cette évaluation qui porte respectivement sur la réalisation des droits civils et politiques (Chapitre 1) , des droits économiques, sociaux et culturels, ainsi que du droit à un environnement sain (Chapitre 2) , des droits catégoriels (Chapitre 3) , vise à décrire des actions majeures entreprises, à dégager les contraintes et les difficultés, et à formuler des orientations stratégiques adéquates des différents droits concernés.
+L'examen de la mise en œuvre des Droits de l'Homme repose sur l'analyse des actions de l'Etat et de ses partenaires, suivant des indicateurs précis. Cette évaluation qui porte respectivement sur la réalisation des droits civils et politiques (Chapitre 1), des droits économiques, sociaux et culturels, ainsi que du droit à un environnement sain (Chapitre 2), des droits catégoriels (Chapitre 3), vise à décrire des actions majeures entreprises, à dégager les contraintes et les difficultés, et à formuler des orientations stratégiques adéquates des différents droits concernés.
 
 Par ailleurs, sont décrits également l'état de la Coopération du Cameroun avec les mécanismes internationaux des Droits de l'Homme ainsi que le dispositif de suivi-évaluation du présent Plan d'Action (Chapitre 4).
 
@@ -922,7 +936,9 @@ Par ailleurs, sont décrits également l'état de la Coopération du Cameroun av
 
 [[START OF PAGE 27]]
 
-### Chapitre  1
+### Chapitre 1
+
+LES DROITS CIVILS ET POLITIQUES
 
 [[END OF PAGE 27]]
 
@@ -962,7 +978,7 @@ Le droit à la vie est inhérent à la personne humaine. Ce droit doit être pro
 
 L'article 1 de la Convention contre la Torture, dispose : « aux fins de la présente Convention, le terme « torture » désigne tout acte par lequel une douleur ou des souffrances aigües, physiques ou mentales, sont intentionnellement infligées à une personne aux fins notamment d'obtenir d'elle ou d'une tierce personne des renseignements ou des aveux, de la punir d'un acte qu'elle ou une tierce personne a commis ou est soupçonnée d'avoir commis, de l'intimider ou de faire pression sur une tierce personne, ou pour tout autre motif fondé sur une forme de discrimination quelle qu'elle soit lorsqu'une telle douleur ou de telles souffrances sont infligées par un agent de le fonction publique ou toute autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite » .
 
-L'expression «peine ou traitement cruel, inhumain ou dégradant » doit être interprétée de façon à assurer une protection aussi large que possible contre tous sévices, qu'ils aient un caractère physique ou moral, y compris le fait de soumettre une personne détenue ou em- Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+L'expression «peine ou traitement cruel, inhumain ou dégradant » doit être interprétée de façon à assurer une protection aussi large que possible contre tous sévices, qu'ils aient un caractère physique ou moral, y compris le fait de soumettre une personne détenue ou em-
 
 > 1 Voir l'article 6 du Pacte international relatif aux droits civils et politiques et l'article 3 de la Déclaration universelle des droits de l'homme.
 
@@ -971,6 +987,8 @@ L'expression «peine ou traitement cruel, inhumain ou dégradant » doit être i
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 prisonnée à des conditions qui la privent temporairement ou en permanence de l'usage de l'un quelconque de ses sens, tels que la vue ou l'ouïe, ou de la conscience du lieu où elle se trouve et du passage du temps 2 .
 
@@ -1008,7 +1026,7 @@ On peut citer notamment :
 
 Les acteurs intervenant dans la garantie du droit à la vie sont d'une part les acteurs étatiques que sont le MINJUSTICE, le MINDEF(DJM), le MINRESI, le SED, la DGSN, la DGRE, les juridictions, la CNDHL et d'autre part, les partenaires internationaux comme le Haut-Commissariat aux Droits de l'Homme, à travers le CNUDHD-AC, l'Union Européenne, la Com-
 
-> 2 Les Nations Unies et les droits de l'homme 1945-1995, publié par le Département de l'information de l'ONU.DPI/1676 ISBN 92-1200175-0, ddoc 58, p.329.
+> 2 Les Nations Unies et les droits de l'homme 1945-1995, publié par le Département de l'information de l'ONU.DPI/1676 ISBN 92-1-200175-0, ddoc 58, p.329.
 
 16
 
@@ -1410,7 +1428,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 #### Section 5 : Le droit à un procès équitable
 
-Toute personne a droit à ce que sa cause soit entendue équitablement et publiquement par un tribunal compétent, indépendant et impartial, établi par la loi, qui décidera soit du bienfondé de toute accusation en matière pénale dirigée contre elle, soit des contestations sur ses droits et obligations de caractère civil.
+Toute personne a droit à ce que sa cause soit entendue équitablement et publiquement par un tribunal compétent, indépendant et impartial, établi par la loi, qui décidera soit du bien-fondé de toute accusation en matière pénale dirigée contre elle, soit des contestations sur ses droits et obligations de caractère civil.
 
 Au sens des dispositions  du PIDCP et de la Charte Africaine, les « standard minima » destinés à assurer un procès équitable sont :
 
@@ -1502,6 +1520,8 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 [[START OF PAGE 41]]
 
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
 ##### §2 : Cadre institutionnel
 
 Le droit à un procès équitable est garanti par l'action des juridictions, du MINJUSTICE, du MINDEF, de la DGSN, du SED, du MINREX, du MINESUP, de la CNDHL, de la CONAC, du Barreau et de la Chambre Nationale des Huissiers de Justice.
@@ -1529,8 +1549,6 @@ La justice fonctionne dans l'observance des lois de forme, des lois de fond et d
 -la mise à la disposition des Magistrats des recueils de textes nationaux, régionaux et internationaux sur les Droits de l'Homme.
 
 > 4 Il faut noter la proximité de cet énoncé avec la CADHP qui impose aux individus le devoir de préserver les valeurs culturelles africaines positives (voir article 29 de la Charte).
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 27
 
@@ -1846,9 +1864,9 @@ Le respect des libertés d'association, de réunion et de manifestation, incombe
 
 > 6 A la date du 11 mars 2014.
 
-> 8 Idem.
-
 > 7 Idem.
+
+> 8 Idem.
 
 33
 
@@ -2090,7 +2108,9 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 [[START OF PAGE 53]]
 
-### Chapitre  2
+### Chapitre 2
+
+### LES DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
 
 [[END OF PAGE 53]]
 
@@ -2868,6 +2888,8 @@ Les mesures prises en vue d'assurer la réalisation du droit à l'alimentation s
 
 [[START OF PAGE 71]]
 
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
 -la faible mécanisation de l'agriculture ;
 
 -l'impact négatif des changements climatiques sur l'agriculture ;
@@ -2909,8 +2931,6 @@ Les mesures prises en vue d'assurer la réalisation du droit à l'alimentation s
 -l'absence de statistiques fiables du secteur agropastoral et halieutique ;
 
 -l'accaparement des grandes surfaces par les multinationales au détriment des nationaux ;
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 57
 
@@ -2968,6 +2988,8 @@ On peut citer notamment :
 
 [[START OF PAGE 73]]
 
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
 ###### B : Au plan national
 
 -la Loi n° 98/005 du 14 avril 1998 portant régime de l'eau ;
@@ -3008,8 +3030,6 @@ On peut citer notamment :
 
 -le Décret n° 2012/2806/PM du 24 septembre 2012 portant application de cer-
 
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
 59
 
 [[END OF PAGE 73]]
@@ -3018,7 +3038,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-- taines dispositions de la Loi n°2011/022 du 14 décembre 2011 régissant le secteur de l'électricité au Cameroun ;
+taines dispositions de la Loi n°2011/022 du 14 décembre 2011 régissant le secteur de l'électricité au Cameroun ;
 
 -l'Arrêté n° 2000/935/PM du 13 novembre 2000 fixant les conditions d'exercice des activités du secteur pétrolier aval ;
 
@@ -3068,9 +3088,9 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 ###### 1: Acquis et avancées
 
--le projet « Sanaga » dont la production d'eau attendue est de 300.000 m 3 par jour extensible à 400.000 m 3 ;
+-le projet « Sanaga » dont la production d'eau attendue est de 300.000 m³ par jour extensible à 400.000 m³ ;
 
--la réhabilitation de la station de traitement d'eau de la Mefou d'une production de 50.000 m 3 par jour, l'avancement global des travaux est estimée à 85% (en cours);
+-la réhabilitation de la station de traitement d'eau de la Mefou d'une production de 50.000 m³ par jour, l'avancement global des travaux est estimée à 85% (en cours);
 
 -les études  d'extension de la station de traitement d'Akomnyada (en cours) ;
 
@@ -3234,7 +3254,7 @@ L'état des lieux du droit à un logement décent s'analyse autour de la disponi
 
 -la construction de 1 675 logements dans le cadre du programme gouvernemental en cours de construction de 10 000 logements sociaux et 50 000 parcelles aménagées ;
 
--l'aménagement de 10 000 hectares de terrain dont 3 000 hectares pour les voiries et 7 000 hectares pour la production des parcelles équivalant à 45 000 parcelles pour une moyenne de 500 m 2 environ ;
+-l'aménagement de 10 000 hectares de terrain dont 3 000 hectares pour les voiries et 7 000 hectares pour la production des parcelles équivalant à 45 000 parcelles pour une moyenne de 500 m² environ ;
 
 -l'aménagement de 50 000 parcelles à Douala (Bwang Bakoko1 et Bwang Bakoko 2), à Yaoundé (Mbalgong et Olembe) ;
 
@@ -3446,7 +3466,7 @@ Axe stratégique transversal de l'action du Gouvernement, la lutte contre la cor
 
 ###### B : Contraintes et difficultés
 
--le mauvais rang du Cameroun qui, suivant l'indice de perception de la corruption de Transparency International, est classé en 2012, 144 e sur 183 pays dans le monde et 34 e sur les 48 pays africains classés ;
+-le mauvais rang du Cameroun qui, suivant l'indice de perception de la corruption de Transparency International, est classé en 2012, 144e sur 183 pays dans le monde et 34e sur les 48 pays africains classés ;
 
 68
 
@@ -3492,7 +3512,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Le droit au travail est le droit reconnu à toute personne, remplissant les conditions légales requises, de choisir librement un travail décent, d'en tirer un revenu lui permettant de vivre et de faire vivre sa famille dans la dignité. Il suppose également les mesures favorisant l'accès à l'emploi, le droit de bénéficier des conditions favorables à la sécurité de l'emploi dans le cadre des relations avec l'employeur, notamment une protection contre les licenciements abusifs ou autres abus ainsi que le droit de constituer un syndicat ou de s'y affilier. Il intègre ainsi l'interdiction du travail forcé, des pires formes de travail des enfants, du trafic et de la traite des personnes 14 .
 
-Le droit à la sécurité sociale englobe le droit d'avoir accès à des prestations, en espèces ou en nature, et de continuer à en bénéficier, sans discrimination, afin de garantir une protection entre autres, contre : a) la perte du revenu lié à l'emploi, pour cause de maladie, Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+Le droit à la sécurité sociale englobe le droit d'avoir accès à des prestations, en espèces ou en nature, et de continuer à en bénéficier, sans discrimination, afin de garantir une protection entre autres, contre : a) la perte du revenu lié à l'emploi, pour cause de maladie,
 
 > 14 Observation générale n° 18 sur le droit au travail, CDESC.
 
@@ -3501,6 +3521,7 @@ Le droit à la sécurité sociale englobe le droit d'avoir accès à des prestat
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 d'invalidité, de maternité, d'accident de travail, de chômage, de vieillesse ou de décès d'un membre de la famille ; b) le coût élevé de l'accès aux soins de santé ; c) l'insuffisance des prestations familiales 15 .
 
@@ -3536,7 +3557,7 @@ On peut citer notamment :
 
 -les Résolutions et Recommandations du Sommet extraordinaire des Chefs d'Etats et de Gouvernement de l'Union Africaine d'Ouagadougou, 2004 sur l'emploi et la réduction de la pauvreté ;
 
--les Résolutions de la 39 ème Conférence des ministres africains des finances, de la planification et du développement économique et social de mai 2006 à Ouagadougou sur le thème « relever le défi de l'emploi en Afrique » ;
+-les Résolutions de la 39ème Conférence des ministres africains des finances, de la planification et du développement économique et social de mai 2006 à Ouagadougou sur le thème « relever le défi de l'emploi en Afrique » ;
 
 -les Résolutions des Ministres en charge des questions de travail des pays membres de l'OCI durant la Conférence des Ministres tenue à Bakou, en Azerbaïdjan, en
 
@@ -3622,7 +3643,7 @@ Sur la sécurité sociale, on relève :
 
 -le Décret n° 74/26 du 11 janvier 1974 fixant les modalités d'application de certaines dispositions de l'Ordonnance n° 73/17 du 22 mai 1973 portant organisation  de  la  prévoyance  sociale  modifiée  par  le  Décret  n°99/223/PM  du  30 septembre 1999 ;
 
--le Décret n° 75-607 du 1 er septembre 1975 fixant les règles aux opérations financières et comptables de la Caisse Nationale de Prévoyance Sociale ;
+-le Décret n° 75-607 du 1er septembre 1975 fixant les règles aux opérations financières et comptables de la Caisse Nationale de Prévoyance Sociale ;
 
 -le Décret n° 76-321 du 02 août 1976 confiant la gestion des risques professionnels à la Caisse Nationale de Prévoyance Sociale ;
 
@@ -3641,6 +3662,7 @@ Sur la sécurité sociale, on relève :
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 giène et de sécurité sur les lieux de travail ;
 
@@ -3667,8 +3689,6 @@ Dans l'optique d'atteindre l'émergence à l'horizon 2035, l'Etat du Cameroun a 
 -la fourniture des services d'information, d'orientation et d'insertion professionnelle par le FNE ;
 
 -la signature par le FNE, sous la supervision du MINEFOP, des accords de partenariats d'insertion avec certains maîtres d'ouvrage des grands projets dont le projet  de  construction  du  barrage  hydroélectrique  de  Lom  Pangar  ou  le  projet d'exploitation du diamant de Mobilong ;
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 73
 
@@ -3728,7 +3748,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-- mobile, l'hôtellerie, le tourisme, la coiffure professionnelle, l'industrie d'habillement, les TIC, avec l'appui financier du Gouvernement Sud Coréen ;
+mobile, l'hôtellerie, le tourisme, la coiffure professionnelle, l'industrie d'habillement, les TIC, avec l'appui financier du Gouvernement Sud Coréen ;
 
 -le lancement de la construction de 06 Centres de formation professionnelle en milieu rural dans les métiers non agricoles avec l'appui de l'Agence Française de Développement en 2014 ;
 
@@ -3890,7 +3910,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 ###### A : Acquis et avancées
 
--l'organisation d'un Atelier Régional sur le thème : ''Entreprises et Droits de l'Homme : le Rôle des Institutions Nationales des Droits de l'Homme'' du 29 septembre au 1 er octobre 2011 à Yaoundé, par la CNDHLet le Réseau des Institutions Nationales Africaines des Droits de l'Homme (RINADH) ;
+-l'organisation d'un Atelier Régional sur le thème : ''Entreprises et Droits de l'Homme : le Rôle des Institutions Nationales des Droits de l'Homme'' du 29 septembre au 1er octobre 2011 à Yaoundé, par la CNDHLet le Réseau des Institutions Nationales Africaines des Droits de l'Homme (RINADH) ;
 
 -la sensibilisation des organisations syndicales, des dirigeants d'entreprises et des autorités administratives sur les droits fondamentaux des travailleurs en milieu ouvrier, le 17 avril 2012 à Yaoundé par la CNDHL ;
 
@@ -4006,7 +4026,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 [[START OF PAGE 95]]
 
-au Cameroun ( 2015 - 2019 )
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 ##### Sous-section 4 : Le droit à la sécurité sociale
 
@@ -4052,15 +4072,12 @@ au Cameroun ( 2015 - 2019 )
 
 -le renforcement de la mise en œuvre des stratégies de lutte contre la traite et le trafic des personnes ;
 
-Plan d'Action National de Promotion
-
-et de Protection des Droits de l'Homme Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
 81
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 -l'amélioration de l'accès de tous au système de sécurité sociale ;
 
@@ -4256,7 +4273,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 -l'attribution des aides aux artistes et aux associations culturelles ;
 
--la tenue du 38 e Congrès annuel de l' Africa Travel Association du 16 au 22 octobre 2013 avec pour thème « Cameroun, destination à redécouvrir : produits émergents et marché de niches » ;
+-la tenue du 38e Congrès annuel de l'Africa Travel Association du 16 au 22 octobre 2013 avec pour thème « Cameroun, destination à redécouvrir : produits émergents et marché de niches » ;
 
 -la création des bibliothèques publiques auprès des collectivités locales ;
 
@@ -4538,7 +4555,7 @@ Les acteurs du droit à un environnement sain sont prioritairement le MINEPDED, 
 
 ###### A : Acquis et avancées
 
--la mise sur pied d'un plan d'urgence pour la sécurisation des aires protégées 20122017, comme outil stratégique de lutte contre le braconnage des espèces protégées ;
+-la mise sur pied d'un plan d'urgence pour la sécurisation des aires protégées 2012-2017, comme outil stratégique de lutte contre le braconnage des espèces protégées ;
 
 -l'adoption, par le Ministère en charge de l'environnement et du développement durable, d'outils stratégiques à savoir la stratégie nationale de gestion des déchets, la Stratégie et Plan d'Action National pour la biodiversité révisée de 2012, la Stratégie sur l'accès et le partage des avantages issus de l'utilisation des ressources génétiques de 2012, le Plan d'Action pour la lutte contre la désertification de 2006
 
@@ -4637,6 +4654,8 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 109]]
 
 ### Chapitre  3
+
+### LES DROITS CATEGORIELS
 
 [[END OF PAGE 109]]
 
@@ -4786,7 +4805,7 @@ La promotion et la protection des droits de la femme nécessitent l'action des D
 
 -l'adoption d'un Document de Politique nationale genre 2011-2020 ;
 
--l'adoption du Plan stratégique sur le Genre et les élections au Cameroun 20122017 ;
+-l'adoption du Plan stratégique sur le Genre et les élections au Cameroun 2012-2017 ;
 
 -l'adoption de la Stratégie nationale sur la lutte contre les violences basées sur le genre ;
 
@@ -4900,9 +4919,9 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 #### Section 2 : Les droits de l'Enfant
 
-Selon l'article 1 er de la CDE, l'enfant est une personne âgée de moins de 18 ans 17 .
+Selon l'article 1er de la CDE, l'enfant est une personne âgée de moins de 18 ans17.
 
-D'une manière générale, l'enfant a droit à la vie et au développement ainsi qu'au respect de ses opinions. Il doit bénéficier des libertés et droits civils tels que l'enregistrement de la naissance, le droit de ne pas être soumis à la torture ou à d'autres traitements ou peines cruels, inhumains ou dégradants. Il doit en outre bénéficier d'une protection dans le milieu Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+D'une manière générale, l'enfant a droit à la vie et au développement ainsi qu'au respect de ses opinions. Il doit bénéficier des libertés et droits civils tels que l'enregistrement de la naissance, le droit de ne pas être soumis à la torture ou à d'autres traitements ou peines cruels, inhumains ou dégradants. Il doit en outre bénéficier d'une protection dans le milieu
 
 > 17 Voir également l'article 2 de la CADBEE et l'article 80 (4) du CP.
 
@@ -4911,6 +4930,8 @@ D'une manière générale, l'enfant a droit à la vie et au développement ainsi
 [[END OF PAGE 115]]
 
 [[START OF PAGE 116]]
+
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 familial et dans le milieu de remplacement en cas de défaillance de la famille. Il a droit à la santé, au bien-être, à l'éducation, aux loisirs et aux activités culturelles. Il a également droit à des mesures spéciales de protection dans l'administration de la justice, notamment, le droit d'être protégé contre la violence, les abus, et toutes les formes d'exploitation y compris la traite et le trafic.
 
@@ -4968,7 +4989,7 @@ La promotion et la protection des droits de l'enfant interpellent l'action de pl
 
 ##### §3 : Etat des lieux
 
-Plus de la moitié de la population est âgée de moins de 18 ans 18 .
+Plus de la moitié de la population est âgée de moins de 18 ans18.
 
 L'examen de la condition de l'enfant permet de relever ce qui suit :
 
@@ -4986,7 +5007,7 @@ L'examen de la condition de l'enfant permet de relever ce qui suit :
 
 -l'actualisation en 2012 du registre d'accueil, de sécurisation et de placement provisoire des enfants en détresse dans les institutions publiques et privées agréées ;
 
-> 18 Bureau Central des Recensements et des Etudes de la Population, 3 ème RGPH (Recensement général de la population et de l'habitat).
+> 18 Bureau Central des Recensements et des Etudes de la Population, 3ème RGPH (Recensement général de la population et de l'habitat).
 
 103
 
@@ -5014,7 +5035,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 -la non effectivité de la séparation des détenus mineurs des adultes dans certaines prisons ;
 
--l'implication des enfants dans le commerce du sexe 19 ;
+-l'implication des enfants dans le commerce du sexe19 ;
 
 -la traite et le trafic des enfants ;
 
@@ -5158,6 +5179,8 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 [[START OF PAGE 121]]
 
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
 cas observés ;
 
 -renforcer les mécanismes d'identification et de prise en charge des enfants victimes de traite ;
@@ -5168,13 +5191,13 @@ cas observés ;
 
 #### Section 3 : Les droits des personnes vivant avec le VIH
 
-La Personne Vivant avec le VIH (PVVIH) est une personne séropositive au VIH c'est-à-dire possédant des anticorps contre le VIH décelés lors d'un test sanguin, soit d'une personne malade du Sida. Les droits des PVVIH sont les Droits de l'Homme associés à l'épidémie du VIH. Il s'agit des droits ayant une incidence particulière dans le contexte de telle sorte que leur non-respect ruine les efforts de prévention et de traitement et augmente la vulnérabilité des personnes infectées ou affectées par le VIH. C'est spécialement le droit à la nondiscrimination.
+La Personne Vivant avec le VIH (PVVIH) est une personne séropositive au VIH c'est-à-dire possédant des anticorps contre le VIH décelés lors d'un test sanguin, soit d'une personne malade du Sida. Les droits des PVVIH sont les Droits de l'Homme associés à l'épidémie du VIH. Il s'agit des droits ayant une incidence particulière dans le contexte de telle sorte que leur non-respect ruine les efforts de prévention et de traitement et augmente la vulnérabilité des personnes infectées ou affectées par le VIH. C'est spécialement le droit à la non-discrimination.
 
 ##### §1 : Cadre juridique
 
 On peut citer notamment :
 
-###### A : Au plan international 20
+###### A : Au plan international20
 
 -la DUDH ;
 
@@ -5201,8 +5224,6 @@ On peut citer notamment :
 -la ChADHP relative aux droits de la femme en Afrique (le Protocole de Maputo).
 
 > 20 Les textes ci-dessous évoqués sont en lien avec la protection du droit à la vie et la lutte contre la non-discrimination.
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 107
 
@@ -5240,13 +5261,15 @@ Au plan institutionnel, des structures spécifiques ont été créées ou aména
 
 ##### §3 : Etat des lieux
 
-Selon les résultats de la 4 ème enquête démographique et de santé réalisée en 2011, le taux de dépistage déclaré du VIH/Sida est estimé à 20,7%.
+Selon les résultats de la 4ème enquête démographique et de santé réalisée en 2011, le taux de dépistage déclaré du VIH/Sida est estimé à 20,7%.
 
 108
 
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+
+Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 ###### A : Acquis et avancées
 
@@ -5285,8 +5308,6 @@ Selon les résultats de la 4 ème enquête démographique et de santé réalisé
 -la réduction de l'impact du VIH sur les PVVIH, les OEV et les personnes affectées par la garantie d'une égale opportunité d'accès aux services sociaux de base et à la citoyenneté ;
 
 -le renforcement du cadre juridique de protection des PVVIH, des OEV et des personnes affectées.
-
-Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 109
 
@@ -5332,7 +5353,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 #### Section 4 : Les droits des personnes handicapées
 
-La personne handicapée est celle qui se trouve dans l'incapacité d'assurer par elle-même tout ou partie des nécessités d'une vie individuelle ou sociale normale, du fait d'une déficience physique ou mentale, congénitale ou non. Le handicap se présente comme toute déficience physique, mentale, intellectuelle ou sensorielle durable dont l'interaction avec diverses barrières peut faire obstacles à leur pleine et effective participation à la société sur la base de l'égalité avec les autres 21 .
+La personne handicapée est celle qui se trouve dans l'incapacité d'assurer par elle-même tout ou partie des nécessités d'une vie individuelle ou sociale normale, du fait d'une déficience physique ou mentale, congénitale ou non. Le handicap se présente comme toute déficience physique, mentale, intellectuelle ou sensorielle durable dont l'interaction avec diverses barrières peut faire obstacles à leur pleine et effective participation à la société sur la base de l'égalité avec les autres21.
 
 > 21 Article 2 de la Loi n° 2010/002 du 13avril 2010 portant protection et promotion des personnes handicapées.
 
@@ -5472,7 +5493,7 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-- vention du handicap, la réadaptation, l'intégration socioéconomique et politique des personnes handicapées ;
+vention du handicap, la réadaptation, l'intégration socioéconomique et politique des personnes handicapées ;
 
 -la promulgation de la Loi n° 2011/018 du 15 juillet 2011 relative à l'organisation et à la promotion des activités physiques et sportives, qui rend obligatoire la pratique des activités physiques et sportives notamment dans les établissements scolaires et les institutions de réadaptation des personnes handicapées et à la faveur de laquelle quatre nouvelles fédérations sportives dédiées respectivement aux déficients visuels, aux déficients intellectuels, aux déficients physiques et aux déficients auditifs ont été créées ;
 
@@ -6294,6 +6315,8 @@ Le Cameroun accueille sur son sol de nombreux réfugiés provenant notamment de 
 
 ### Chapitre  4
 
+### COOPERATION, PILOTAGE ET SUIVI-EVALUATION
+
 [[END OF PAGE 147]]
 
 [[START OF PAGE 148]]
@@ -6640,6 +6663,14 @@ MINJUSTICE
 
 ###### Tableau 1 : Présentation des programmes
 
+Administration publique :
+
+Programmes | Objectifs | Indicateurs | Valeur de référence — Année | Valeur de référence — Valeur | Valeur cible — Année | Valeur cible — Valeur | Dotation budgétaire 2015 — CP | Dotation budgétaire 2015 — AE
+PT1 : DROITS CIVILS ET POLITIQUES | Renforcer l’Etat de droit | Taux de mise en place des Institutions/mécanismes prévus dans la Constitution | | | | | |
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Améliorer les conditions de vie des populations | Indicateur du taux de pauvreté | 2007 | 39,9% | 2020 | 28,5% | |
+PT3 : DROITS CATEGORIELS | Favoriser l’inclusion sociale | Taux d’insertion professionnelle des populations socialement vulnérables | | | | | |
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PANPPDH | Améliorer la coordination des acteurs dans la mise en œuvre des obligations de l’Etat en matière de Droits de l’Homme | Taux de rapports périodiques de qualité déposés dans les délais | | | | | |
+
 PT : Programme Technique
 
 CP : Crédit de paiement
@@ -6656,6 +6687,18 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 ###### Tableau 2 : Présentation des actions
 
+Programmes | Désignations des actions | Objectifs | Indicateurs
+PT1 : DROITS CIVILS ET POLITIQUES | Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Lutter contre l’impunité | Nombre de sanctions prononcées contre les auteurs des violations du droit à la vie, à l’intégrité physique et morale
+PT1 : DROITS CIVILS ET POLITIQUES | Action 2 : Sauvegarde du droit au respect de la vie privée | Renforcer la protection de la vie privée et des données personnelles des citoyens | Nombre de campagnes de formation et de sensibilisation sur la sauvegarde du droit au respect de la vie privée
+PT1 : DROITS CIVILS ET POLITIQUES | Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Garantir un meilleur accès à l’information | Niveau d’accessibilité aux sources d’informations publiques
+PT1 : DROITS CIVILS ET POLITIQUES | Action 4 : Amélioration du cadre normatif et institutionnel de la liberté de culte | Réguler l’exercice de la liberté de culte | Nombre d’associations religieuses autorisées et/ou fermées
+PT1 : DROITS CIVILS ET POLITIQUES | Action 5 : Consolidation du droit à un procès équitable | Faciliter l’accès à la justice | -Niveau des ressources matérielles et humaines allouées au système judiciaire ; -Nombre de personnels judiciaires ayant fait l’objet de poursuites et de sanctions
+PT1 : DROITS CIVILS ET POLITIQUES | Action 6 : Amélioration de la garantie du droit à la propriété | Diminuer les difficultés d’accès à la propriété foncière et protéger la propriété immobilière | Nombre de titres fonciers établis
+PT1 : DROITS CIVILS ET POLITIQUES | Action 7 : Renforcement de la liberté d’association, de réunion et de manifestation | Garantir la pleine jouissance des libertés d’association, de réunion et de manifestation | -Nombre d’associations légales ; -Nombre de réunions et de manifestations interdites
+PT1 : DROITS CIVILS ET POLITIQUES | Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Garantir la pleine participation des citoyens à la gestion des affaires publiques | -Taux de participation aux élections ; -Nombre de personnes recrutées dans la fonction publique (désagrégé par genre, groupes spécifiques et catégories socialement vulnérables)
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 1 : Accès équitable à la santé des populations | Garantir l’accès aux soins de santé de qualité à un coût raisonnable | -Ratio médecin-patient ; -Taux de mortalité ; -Taux de fréquentation des formations sanitaires
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 2 : Consolidation du droit à l’éducation | Donner à tous une éducation de qualité | - Ratio enseignant/élève ; - Taux de scolarisation ; - Taux d’insertion professionnelle
+
 146
 
 [[END OF PAGE 160]]
@@ -6663,6 +6706,16 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 161]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programmes | Désignations des actions | Objectifs | Indicateurs
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 3 : Amélioration du niveau de vie des populations | Offrir à tous une alimentation saine et équilibrée, un logement décent ainsi qu’un approvisionnement en eau et en énergie adéquats | -Indice des prix des produits de consommation courante ; - Niveau du pouvoir d’achat
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Améliorer la gouvernance et réduire la corruption | Indice de perception de la corruption selon Transparency International
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 5 : Consolidation du droit au travail et renforcement du système de sécurité sociale | Mettre en place les conditions du travail décent et de la sécurité sociale | -Taux de chômage ; -Nombre d’assurés sociaux ; -Nombre de syndicats enregistrés
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 6 : Intensification de la promotion du droit à la culture et aux loisirs | renforcer les moyens juridiques, financiers et matériels nécessaires à la promotion et à la protection du droit à la culture et aux loisirs | -Nombre d’espaces culturels et des loisirs créés ou restaurés ; -Nombre de touristes (internes et internationaux) accueillis par an
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 7 : Renforcement du droit à un environnement sain | Garantir un environnement sain à tous | -Superficie d’aires protégées ; -Nombre de sanctions prononcées ; -Nombre de campagnes de sensibilisation menées
+PT3 : DROITS CATEGORIELS | Action 1 : Défense des droits de la femme | Assurer l’autonomisation des femmes et l’égalité des genres | Etat de la mise en œuvre de la politique nationale en matière de genre
+PT3 : DROITS CATEGORIELS | Action 2 : Renforcement du respect des droits de l’enfant | Améliorer les conditions de vie de l’enfant | - Nombre d’actes de naissance établis ; -Nombre de structures d’encadrement d’enfants réhabilités ou ouverts
+PT3 : DROITS CATEGORIELS | Action 3 : Défense des droits des personnes vivant avec le VIH | Réduire les conséquences socioéconomiques négatives du VIH sur les personnes infectées et/ou affectées | -Nombre de campagnes de formation et de sensibilisation sur les droits des personnes vivant avec le VIH ; -Nombre d’associations de PVVIH ayant bénéficié de soutien ; -Nombre et qualité des services juridiques liés au VIH ; -Nombre de PVVIH impliqués dans le processus de prise de décision
 
 147
 
@@ -6672,11 +6725,18 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-COOPERATION, SUIVI-EVALUATION D'ACTION
----
-PILOTAGE ET DU PLAN
-PT 4 :
-
+Programmes | Désignations des actions | Objectifs | Indicateurs
+PT3 : DROITS CATEGORIELS | Action 4 : Consolidation des droits des personnes handicapées | Améliorer l’inclusion socio-économique des personnes handicapées | - Nombre de structures d’encadrement des personnes handicapées réhabilités ou ouverts ; - Taux d’intégration de l’approche handicap dans la construction des édifices publics ; - Proportion d’enfants scolarisés vivant avec un handicap ; - Nombre de personnes handicapées occupant des postes de prise de décisions et/ou électifs
+PT3 : DROITS CATEGORIELS | Action 5 : Renforcement des droits des personnes âgées | Valoriser et encadrer les personnes âgées | -Nombre de services de gériatrie créés ; -Nombre de personnes âgées abandonnées ; -Nombre de personnes âgées qui reçoivent leur pension
+PT3 : DROITS CATEGORIELS | Action 6 : Consolidation des droits des populations autochtones | Améliorer l’intégration socioéconomique des populations autochtones dans les politiques de développement | -Nombre de campagnes de sensibilisation sur les droits des populations autochtones ; -Niveau de représentativité des populations autochtones dans les postes électifs et/ou de prise de décision ; -Taux d’accès aux services sociaux de base (éducation, santé, etc.) ; -Taux d’enregistrement à l’état civil ; - Taux d’établissement ou de délivrance de carte nationale d’identité
+PT3 : DROITS CATEGORIELS | Action 7 : renforcement du respect des droits des personnes détenues | Améliorer les conditions de détention et assurer la réinsertion sociale des détenus | - Montant de la ration journalière ; - Taux d’occupation des lieux de détention ; - Taux de mortalité en détention ; - Nombre de prisons aménagées pour accueillir les mères accompagnées d’enfants ; - Ratio gardien/détenu ; - Niveau d’application du principe de séparation détenus/condamnés homme/femmes/mineurs/majeurs
+PT3 : DROITS CATEGORIELS | Action 8 : Renforcement de la protection des droits des réfugiés | Assurer une meilleure gestion des problèmes des réfugiés | - Nombre de demandes d’asile examinées ; - Taux d’accès des réfugiés aux services sociaux de base ; -Nombre de séminaires de renforcement des capacités sur les droits des réfugiés
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 1 : Elaboration et soumission des Rapports | Soumettre les Rapports de qualité dans les délais | Nombre de Rapports préparés et soumis dans les délais impartis
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 2 : Amélioration de la gestion du contentieux | Assurer la défense effective des intérêts de l’Etat dans les affaires contentieuses | Proportion d’affaires dans lesquelles la défense des intérêts de l’Etat a été assurée
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 3 : Amélioration de la coordination dans la préparation et le déroulement des visites des Procédure spéciales | Assurer un déroulement harmonieux des visites des procédures spéciales |
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 4 : Amélioration du niveau de mise en œuvre des recommandations | Accroitre le niveau de mise en œuvre des recommandations | Proportion des recommandations mises en œuvre
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 5 : Elaboration des Rapports semestriels et annuels | Evaluer la mise en œuvre du Plan chaque année | Disponibilité des Rapports semestriels et annuels de mise en œuvre du Plan
+PT4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION DU PLAN D’ACTION | Action 6 : Elaboration du Rapport global | Réorienter et recadrer les actions en vue de l’élaboration d’un nouveau Plan | Disponibilité du Rapport global de mise en œuvre du Plan d’Action
 148
 
 [[END OF PAGE 162]]
@@ -6685,12 +6745,24 @@ PT 4 :
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-25
----
+###### Tableau 3.1 : Déclinaison des actions du Programme Technique 1 en activités
 
-###### Tableau 3.1 : Déclinaison des actions du Programme Technique 1en activités
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 1 : Sensibilisation des populations sur tous les aspects de violation du droit à la vie, à l’intégrité physique et morale et l’interdiction de la torture | Les populations maîtrisent tous les aspects de la violation du droit à la vie, à l’intégrité physique et morale et à l’interdiction de la torture | CNDHL²⁵, DGSN (émission radio), Société civile | 250 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 2 : Renforcement des capacités des forces de maintien de l’ordre dans le but d’éviter l’usage abusif de la force létale | Les forces de maintien de l’ordre sont édifiées et n’utilisent plus abusivement la force létale | DGSN, MINDEF, CNDHL | 100 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 3 : Vulgarisation du Manuel d’Istanbul et des lignes directrices de Robben Island dans les écoles de formation des forces du maintien de l’ordre et des professionnels de la santé | Les professionnels de la santé et les forces de l’ordre maîtrisent le Manuel d’Istanbul et les lignes directrices de Robben Island | MINDEF, DGSN, MINJUSTICE, MINSANTE, SED, CNDHL, Société civile | 100 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 4 : Poursuite de la vulgarisation des dispositions du CPP sur les droits du suspect en garde à vue | Les droits du suspect en garde à vue sont connus de tous | MINJUSTICE, MINDEF, DGSN, SED, CNDHL, société civile | 250 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 5 : Amélioration des conditions de détention dans les prisons et les chambres de sûreté | Les conditions de détention sont améliorées | MINJUSTICE, MINDEF, DGSN, SED | 13 650 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 6 : Mise en place d’un système de protection des témoins et des victimes | La protection des témoins, des victimes et des dénonciateurs des actes de torture est effective et efficace | MINJUSTICE, DGSN, SED, DGRE, MINAS, Société civile | 30 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 7 : Institution d’un numéro de téléphone (n° vert) pour enregistrer les dénonciations en cas de violation des droits à la vie, à l’intégrité physique et morale | Les dénonciations sont facilitées | DGSN, SED, CNDHL, MINPOSTEL | 60 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 8 : Mise en place d’un mécanisme national de surveillance des lieux de détention | Le contrôle indépendant des lieux de détention est effectif | MINJUSTICE, MINDEF, DGSN, SED, CNDHL, Société civile | 75 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 9 : Adoption et mise en œuvre des politiques de lutte contre la justice populaire | La fréquence des actes de justice populaire baisse | MINJUSTICE, SED, PARLEMENT, DGSN, CNDHL, Société civile | 75 000
+Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | Activité 10 : Adoption et mise en œuvre d’une loi sur les mutilations génitales | La loi sur les mutilations génitales est adoptée et mise en œuvre | MINJUSTICE, PARLEMENT, CNDHL, société civile | 75 000
 
-> 25 Les institutions portées en gras sont les porteurs d'activités.
+25 Les institutions portées en gras sont les porteurs d’activités.
 
 149
 
@@ -6700,6 +6772,20 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 1 : Sensibilisation des autorités administratives, judiciaires et des forces du maintien de l’ordre sur le droit au respect de la vie privée | Les autorités administratives et judiciaires, les forces de maintien de l’ordre et des populations sont sensibilisées sur le droit au respect de la vie privée | MINJUSTICE, DGSN, SED, MINATD, MINPOSTEL, CNC | 75 000
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 2 : Elaboration d’un Code de déontologie pour les structures en charge des enquêtes, des contrôles et des investigations | Le Code de déontologie pour les structures en charge des enquêtes, des contrôles et des investigations est élaboré | MINJUSTICE, MINDEF | 75 000
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 3 : Sensibilisation du personnel médical sur le respect du secret médical | Le personnel médical est sensibilisé sur le respect du secret médical | MINSANTE, ORDRE NATIONAL DES MEDECINS, CNDHL, Société civile | 250 000
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 4 : Sensibilisation des professionnels de la presse sur l’obligation de respecter la vie privée | Les professionnels de la presse sont sensibilisés sur l’obligation de respecter la vie privée | CNC, MINCOM, CNDHL, société civile | 50 000
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 5 : Sensibilisation des opérateurs des services postaux, de téléphonie et de messagerie sur le respect du droit à la vie privée | Les opérateurs des services postaux, de téléphonie et de messagerie sont sensibilisés sur le respect du droit à la vie privée | MINJUSTICE, MINPOSTEL, CNDHL | 50 000
+Action 2 : Sauvegarde du droit au respect de la vie privée | Activité 6 : Vulgarisation des dispositions légales garantissant le respect de la vie privée | Les dispositions légales garantissant le respect de la vie privée sont vulgarisées | CNDHL, MINJUSTICE, Société civile | 50 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 1 : Sensibilisation des citoyens par rapport au droit de réponse | Les citoyens exercent leur droit de réponse | CNC, MINCOM, MINJUSTICE | 50 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 2 : Renforcement des capacités des professionnels de la communication en matière de déontologie | Les capacités des professionnels de la communication en matière de déontologie sont renforcées | MINCOM, CNC, Société civile | 50 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 3 : Facilitation du processus d’octroi des licences d’exploitation audiovisuelle et d’aide publique à la presse privée | Le processus d’octroi des licences d’exploitation audiovisuelle et d’aide publique à la presse privée bénéficie d’un meilleur encadrement | MINCOM, CNC | 1 200 000
+
 150
 
 [[END OF PAGE 164]]
@@ -6708,9 +6794,23 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-Action 3 : Consolidation du droit à la liberté d'ex- pression et d'opinion
----
-
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 4 : Elaboration, adoption et mise en œuvre d’une Loi sur l’accès à l’information | La Loi sur l’accès à l’information est élaborée et adoptée | MINCOM, MINJUSTICE, PARLEMENT, CNDHL, société civile | 75 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 5 : Opérationnalisation des sites internet des administrations publiques | Les sites internet des administrations publiques sont opérationnels et actualisés | MINPOSTEL, Toutes les administrations | 1 000 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 6 : Extension du bénéfice de la redevance audiovisuelle aux médias privés | Les médias privés bénéficient de la redevance audiovisuelle | MINFI, MINCOM | 5 000
+Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | Activité 7 : Répartition équitable du temps d’antenne des partis politiques dans les médias de service public | Les partis politiques bénéficient temps d’antenne équitable dans les médias de service public | MINCOM, CNC | 5 000
+Action 4 : Amélioration du cadre normatif et institutionnel du droit à la liberté de culte | Activité 1 : Mise en place d’un cadre juridique approprié pour l’exercice des activités religieuses | Un cadre juridique approprié pour l’exercice des activités religieuses est mis en place | MINATD, MINJUSTICE, CNDHL, société civile | 50 000
+Action 4 : Amélioration du cadre normatif et institutionnel du droit à la liberté de culte | Activité 2 : Mise en place d’une Commission nationale des demandes et du suivi des activités des associations religieuses | La Commission nationale est opérationnelle | MINATD, MINREX, MINJUSTICE, DGRE, CNDHL, Congrégations religieuses | 25 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 1 : Elaboration et adoption d’un Code de Justice militaire (statut du personnel, organisation des tribunaux militaires, procédure applicable) | Le Code de justice militaire est élaboré et adopté | MINDEF, MINJUSTICE, PARLEMENT | 4 180 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 2 : Renforcement des capacités des acteurs judiciaires en matière des droits de l’homme | Les acteurs judiciaires maîtrisent les procédures en matière des droits de l’Homme | MINJUSTICE, MINDEF, DGSN, SED, Barreau, CNDHL | 500 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 3 : Finalisation du processus d’Informatisation du système judiciaire | Le système judiciaire est informatisé | MINJUSTICE | 250 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 4 : Renforcement de la lutte contre la corruption en milieu judiciaire | La corruption en milieu judiciaire est réduite | MINJUSTICE, CONAC, SED, DGSN | 150 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 5 : Vulgarisation et sensibilisation de la population sur la loi portant assistance judiciaire | Les populations sont sensibilisées sur la loi portant assistance judiciaire | CNDHL, MINJUSTICE, MINDEF, BARREAU, société civile | 100 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 6 : Redynamisation du fonctionnement des juridictions traditionnelles | Le fonctionnement des juridictions traditionnelles est redynamisé | MINJUSTICE | 25 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 7 : Opérationnalisation du Centre de Documentation Juridique et Judiciaire Multimédia | Le Centre de Documentation Juridique et Judiciaire Multimédia est opérationnel | MINJUSTICE, MINFI | 210 000
 151
 
 [[END OF PAGE 165]]
@@ -6718,6 +6818,23 @@ Action 3 : Consolidation du droit à la liberté d'ex- pression et d'opinion
 [[START OF PAGE 166]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+Action 5 : Consolidation du droit à un procès équitable | Activité 8 : Opérationnalisation de la Commission d’indemnisation prévue par l’article 237 CPP | La Commission d’indemnisation est opérationnelle | MINJUSTICE, Parlement | 10 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 9 : Finalisation du processus d’élaboration et adoption des projets de Code civil, de refonte du Code Pénal et de Code de Procédure Civile et commerciales élaborés | Le processus d’adoption des projets de Code civil, de Code Pénal et de Code de Procédure Civile et commerciale est finalisé et les textes adoptés | MINJUSTICE, Parlement | 500 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 10 : Mise en conformité des textes du droit interne avec les conventions internationales ratifiées et publiées | Les textes du droit interne sont conformes avec les conventions internationales ratifiées et publiées | MINJUSTICE, Parlement, MINREX | 4 180 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 11 : Mise en place d’un institut de formation aux professions judiciaires | Un institut de formation aux professions judiciaires est opérationnel | MINJUSTICE, MINESUP, Barreau | 500 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 12 : Révision à la baisse des frais de justice (suppression des frais de multiplication de dossiers, enregistrement de la décision lorsqu’elle est définitive, taux fixe pour l’accès, taux proportionnel, tarification des actes d’huissiers de justice et des notaires) | Les frais de justice sont revus à la baisse | MINJUSTICE, Parlement, MINFI, Chambre nationale des Huissiers, Chambre Nationale des Notaires, Barreau | 10 000
+Action 5 : Consolidation du droit à un procès équitable | Activité 13 : Mise en place des bureaux d’accueil dans les juridictions | Les bureaux d’accueil sont mis en place dans les juridictions | MINJUSTICE | 100 000
+Action 6 : Amélioration de la garantie du droit à la propriété | Activité 1 : Vulgarisation des nouvelles dispositions relatives à l’obtention du titre foncier | Les nouvelles dispositions relatives à l’obtention du titre foncier sont vulgarisées | MINDCAF, Société civile | 50 000
+Action 6 : Amélioration de la garantie du droit à la propriété | Activité 2 : Sécurisation du titre foncier | Le titre foncier est sécurisé | MINDCAF | 15 000
+Action 6 : Amélioration de la garantie du droit à la propriété | Activité 3 : Le contrôle de l’effectivité des opérations d’indemnisation en cas d’expropriation pour cause d’utilité publique | Les populations expropriées sont effectivement et préalablement indemnisées | MINDCAF, MINDHU, MINATD, MINADER | 750 000
+Action 6 : Amélioration de la garantie du droit à la propriété | Activité 4 : Finalisation du processus d’élaboration et adoption des textes législatifs et réglementaires relatifs à la réforme foncière et domaniale | Des textes législatifs et réglementaires relatifs à la réforme foncière et domaniale sont élaborés et adoptés | MINDCAF, Parlement | 50 000
+Action 6 : Amélioration de la garantie du droit à la propriété | Activité 5 : Renforcement des capacités des Administrations en charge des domaines, des affaires foncières et du patrimoine de l’Etat | Les capacités des Administrations en charge des domaines, des affaires foncières et du patrimoine de l’Etat sont renforcées | MINDCAF | 50 000
+Action 7 : Renforcement des | Activité 1 : Renforcement des mécanismes d’appui aux associations par l’Etat | Les associations sont soutenues par l’Etat | MINATD | 750 000
 
 152
 
@@ -6727,6 +6844,22 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+libertés d’association, de réunion et de manifestation | Activité 2 : Réforme du cadre juridique des regroupements associatifs | Le cadre juridique pour le fonctionnement de tous les regroupements associatifs est réformé | MINATD | 50 000
+libertés d’association, de réunion et de manifestation | Activité 3 : La mise en place des mécanismes de suivi et de coordination des regroupements associatifs | Des mécanismes de suivi et de coordination des regroupements associatifs sont mis en place | MINATD | 150 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 1 : Rationalisation de la gestion des Ressources Humaines de l’Etat | La gestion des ressources humaines de l’Etat est de meilleure qualité | MINFOPRA | 15 354 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 2 : Tenue d’un fichier désagrégé des compétences nationales par corps de fonctionnaires et agents de l’Etat | Le fichier désagrégé des compétences nationales par corps de fonctionnaires et agents de l’Etat existe et est disponible | MINFOPRA | 100 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 3 : La prise en compte de la diversité sociologique dans l’accès à la Fonction publique | La Fonction publique reflète la diversité sociologique de l’Etat | MINFOPRA, MINAS, MINPROFF | 20 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 4 : Densification des mécanismes de suivi participatif de la gestion des investissements publics | Les populations sont impliquées dans le suivi de la gestion des investissements publics | MINEPAT | 500 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 5 : Prise en compte des spécificités des CTD dans le Code des Marchés Publics | Les spécificités des CTD sont prises en compte dans le Code des Marchés Publics | MINMAP | 50 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 6 : Initiation et adoption du projet de statut de l’élu et du personnel des CTD | Le projet de statut de l’élu et du personnel des CTD est initié et adopté | MINATD | 20 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 7 : Initiation et adoption du projet de cahiers de charges-types et les règlements-types concernant les services publics locaux | Le projet de cahiers de charges-types et les règlements-types concernant les services publics locaux est initié et adopté | MINATD | 100 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 8 : Finalisation et adoption du projet de texte réglementaire relatif aux modes de coopération entre l’Etat et les Collectivités Territoriales Déconcentrées | Le projet de texte réglementaire relatif aux modes de coopération entre l’Etat et les Collectivités Territoriales Déconcentrées est finalisé et adopté | MINATD | 20 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 9 : Finalisation de la réforme du Centre de Formation de l’Administration Municipale (CEFAM) pour relever l’offre de formation | La réforme du Centre de Formation de l’Administration Municipale (CEFAM) est finalisée | MINATD | 20 000
+
 153
 
 [[END OF PAGE 167]]
@@ -6734,6 +6867,16 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 168]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programme Technique 1: | DROITS CIVILS ET POLITIQUES
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019 (en milliers de FCFA)
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 10 : Poursuite de l’encadrement juridique, institutionnel et stratégique de la décentralisation | l’encadrement tant juridique, qu’institutionnel ainsi que stratégique de la décentralisation est effectif et pérenne | MINATD | 25 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 11 : Révision du Code électoral | Le Code électoral est révisé | MINATD, ELECAM, MINJUSTICE, Parlement | 25 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 12 : Contrôle de la gestion des financements octroyés aux partis politiques | Les partis politiques rendent compte de la gestion des financements qui leurs sont octroyés | MINATD, MINFI | 50 000
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 13 : Finalisation de la mise en place de tous les organes prévus par la Constitution | Tous les organes prévus par la Constitution sont mis en place | PRC | PM
+Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | Activité 14 : Renforcement des capacités des élus et techniciens locaux ainsi que les exécutifs communaux en management et en gestion des finances publiques | Les élus et techniciens locaux ainsi que les exécutifs communaux sont formés en management et en gestion des finances publiques | MINATD | 1 500 000
 
 154
 
@@ -6745,6 +6888,28 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 ###### Tableau 3.2 : Déclinaison des actions du Programme Technique 2 en activités
 
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 1 : Accès équitable à la santé des populations | Activité 1 : Renforcement des activités de lutte contre les pandémies, endémies et autres maladies | L’incidence des pandémies, endémies et autres maladies baisse drastiquement | MINSANTE | 1 569 600
+Action 1 : Accès équitable à la santé des populations | Activité 2 : Sensibilisation sur l’éducation à la santé et au bien-être des familles | La population a acquis des comportements sains en termes de santé et de bien-être | MINSANTE, société civile | 1 681 762
+Action 1 : Accès équitable à la santé des populations | Activité 3 : Vulgarisation des droits du patient | Les droits du patient sont connus de tous | MINSANTE, MINJUSTICE, CNDHL, société civile | 531 000
+Action 1 : Accès équitable à la santé des populations | Activité 4 : Amélioration de la performance du système de santé | Le système de santé est plus performant | MINSANTE | 1 681 762
+Action 1 : Accès équitable à la santé des populations | Activité 5 : Mutualisation des soins de santé | Les soins de santé sont mutualisés et accessibles à tous | MINSANTE, Société civile | 3 198 521
+Action 1 : Accès équitable à la santé des populations | Activité 6 : Acquisition et distribution des kits obstétricaux et des soins prénataux | La santé de la mère, de l’enfant et de l’adolescent est une réalité au Cameroun | MINSANTE, Société civile | 4 407 697
+Action 1 : Accès équitable à la santé des populations | Activité 7 : Prise en charge intégrée des adolescents | Prise en charge des adolescents effective | MINSANTE | 677 550
+Action 1 : Accès équitable à la santé des populations | Activité 8 : Organisation des campagnes de vaccination | Campagnes de vaccination des enfants organisées | MINSANTE, société civile | 16 632 821
+Action 1 : Accès équitable à la santé des populations | Activité 9 : Amélioration de l’accès aux médicaments, réactifs et dispositifs médicaux | 10 ateliers de promotion de l’usage rationnel des médicaments et consommables médicaux essentiels organisés | MINSANTE | 10 478 674
+Action 1 : Accès équitable à la santé des populations | Activité 10 : Approvisionnement en médicament, intrants et tests pour la prévention et prise en charge du Sida | Les Antirétroviraux sont disponibles et distribués | MINSANTE, CNLS | 134 773 597
+Action 1 : Accès équitable à la santé des populations | Activité 11 : Multiplication des campagnes de sensibilisation sur les différentes stratégies de prévention du VIH/Sida | La communauté est de plus en plus sensibilisée sur les méthodes de prévention du VIH/Sida | MINSANTE, CNLS, CNDHL, MINRESI, société civile | 2 615 250
+Action 1 : Accès équitable à la santé des populations | Activité 12 : Approvisionnement en médicaments pour la prévention et la Prise en charge du paludisme | Cas de paludisme simple traités | MINSANTE, PNLP, CNDHL | 104 031 826
+Action 1 : Accès équitable à la santé des populations | Activité 13 : Amélioration de l’hygiène au sein des Communautés | Campagnes d’hygiène et salubrité organisées | MINSANTE | 700 735
+Action 1 : Accès équitable à la santé des populations | Activité 14 : Campagne de sensibilisation sur l’alimentation et la nutrition du jeune enfant | La grande majorité d’enfants est mise au sein dans la 1ère heure après la naissance | MINSANTE | 1 011 830
+Action 1 : Accès équitable à la santé des populations | Activité 15 : Contrôle des épidémies et des pandémies (PEC) | 181 districts sous contrôle | MINSANTE | 2 759 816
+Action 1 : Accès équitable à la santé des populations | Activité 16 : Prise en charge globale de la tuberculose | Tous les cas de tuberculose sont pris en charge | MINSANTE, Société civile | 5 519 633
+Action 1 : Accès équitable à la santé des populations | Activité 17 : Recherche opérationnelle sur le paludisme | Rapport de recherche disponible | MINSANTE, PNLPP | 200 000
+
 155
 
 [[END OF PAGE 169]]
@@ -6752,6 +6917,24 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 170]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 1 : Accès équitable à la santé des populations | Activité 18 : Lutte contre l’exercice illégal de la médecine, le trafic illicite des médicaments et les médicaments contrefaits | Campagnes de sensibilisation et opérations de saisie des faux médicaments effectuées | MINSANTE, MINJUSTICE, DGSN, SED, CNDHL, MINFI, Ordre National des Médecins, Société civile | 280 000
+Action 1 : Accès équitable à la santé des populations | Activité 19 : Elaboration des modules de formation à la gouvernance et à l’éthique en milieu médical | Etude de formation élaborée | MINSANTE | 104 700
+Action 1 : Accès équitable à la santé des populations | Activité 20 : Formation des agents de santé et relais communautaires dans la Prise en Charge Intégrée des Maladies de l’Enfance à base communautaire dans le cadre des Semaines d’Action de Santé et de Nutrition Infantile et Maternelle. | Les agents de santé et relais communautaires sont formés dans la prise en charge des maladies de l’enfance | MINSANTE | 2 250 000
+Action 1 : Accès équitable à la santé des populations | Activité 21 : Construction/réhabilitation des hôpitaux et des centres de santé | Les hôpitaux et les centres de santé sont construits et/ou réhabilités | MINSANTE, MINTP, MINIMAP, CTD | 10 395 513
+Action 1 : Accès équitable à la santé des populations | Activité 22 : Amélioration du ratio médecin/patients | Le ratio médecin/patients se rapproche de la norme internationale | MINSANTE, MINESUP | 15 231 052
+Action 1 : Accès équitable à la santé des populations | Activité 23 : Amélioration de la prise en charge hospitalière et préhospitalière des accidents de la voie publique(AVP) | La prise en charge des AVP est améliorée | MINSANTE, CTD | 1 599 261
+Action 1 : Accès équitable à la santé des populations | Activité 24 : Désenclavement des zones rurales et incitation du personnel médical à rester dans ces zones | Le personnel médical est de plus en plus présent dans les zones rurales | MINTP, MINSANTE, CTD, MINADER | 8 227 701
+Action 2 : Consolidation du droit à l’éducation | Activité 1 : Amélioration des conditions de vie et de travail des enseignants | Les enseignants bénéficient de meilleures conditions de vie et de travail | MINEDUB, MINESEC, MINESUP | 250 000
+Action 2 : Consolidation du droit à l’éducation | Activité 2 : Amélioration de l’efficacité interne du service éducatif | Les élèves sont bien formés | MINEDUB, MINESEC, MINESUP, MINRESI, MINFI | 600 000
+Action 2 : Consolidation du droit à l’éducation | Activité 3 : Développement d’un partenariat efficace avec les différents membres de la communauté éducative | Les différents membres de la communauté éducative travaillent en synergie | MINEDUB, MINESEC, MINESUP | 75 000
+Action 2 : Consolidation du droit à l’éducation | Activité 4 : Amélioration de la gouvernance du système éducatif | La gouvernance du système éducatif est de meilleure qualité | MINEDUB, MINESEC, MINESUP, CONAC, MINMAP | 100 000
+Action 2 : Consolidation du droit à l’éducation | Activité 5 : Accroissement de l’accès à l’éducation de tous les enfants en âge scolaire | Tous les enfants en âge scolaire ont accès à l’éducation | MINEDUB, MINESEC, MINRESI, société civile | 1 000 000
+Action 2 : Consolidation du droit à l’éducation | Activité 6 : Renforcement de la scolarisation des filles et des garçons | Les filles et garçons sont de plus en plus scolarisés sans discrimination de sexe | MINEDUB, MINESEC, société civile | 600 000
 
 156
 
@@ -6761,6 +6944,22 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 2 : Consolidation du droit à l’éducation | Activité 7 : Renforcement de la scolarisation des enfants issus des groupes vulnérables et marginaux | Les enfants issus des groupes vulnérables et marginaux bénéficient au même titre que les autres enfants, d’un accès normal à la scolarisation | MINEDUB, MINESEC, société civile, MINAS | 600 000
+Action 2 : Consolidation du droit à l’éducation | Activité 8 : Renforcement de la lutte contre les déperditions scolaires | Les déperditions scolaires sont réduites au maximum | MINEDUB, MINESEC, CNDHL, MINAS, MINPROFF, société civile | 250 000
+Action 2 : Consolidation du droit à l’éducation | Activité 9 : Densification et modernisation de la carte scolaire | La carte scolaire est densifiée et modernisée | MINEDUB, MINESEC, MINESUP, MINMAP, MINDCAF | 225 000
+Action 2 : Consolidation du droit à l’éducation | Activité 10 : Professionnalisation des enseignements | Les enseignements sont de plus en plus professionnalisés | MINESEC, MINESUP, MINEFOP, MINEPIA, MINADER, MINTOUL | 300 000
+Action 2 : Consolidation du droit à l’éducation | Activité 11 : Rationalisation de la gestion du livre scolaire | La gestion du livre scolaire est rationalisée et cohérente | MINCOMMERCE, MINEDUB, MINESEC | 250 000
+Action 2 : Consolidation du droit à l’éducation | Activité 12 : Développement de l’enseignement des langues et cultures nationales | Les langues et les cultures nationales sont enseignées | MINAC, MINEDUB, MINESEC, MINESUP | 1 000 000
+Action 2 : Consolidation du droit à l’éducation | Activité 13 : Densification de l’enseignement aux Droits de l’Homme | La culture des Droits de l’Homme est de plus en plus ancrée | CNDHL, MINEDUB, MINESEC, MINESUP, société civile | 250 000
+Action 2 : Consolidation du droit à l’éducation | Activité 14 : Renforcement des programmes d’éducation à la vie familiale, à l’environnement et au VIH/Sida | Les apprenants sont sensibilisés sur la vie familiale, à l’environnement et au VIH/Sida | MINEDUB, MINESEC, MINSANTE | 600 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 1 : Développement des filières de production agricoles, animales et halieutiques | Les filières de production agricoles, animales et halieutiques sont développées | MINADER, MINEPIA, MINRESI, MINESUP, société civile | 25 000 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 2 : Mise sur pied des structures de financement agropastorales | Les structures de financement agropastorales sont mises sur pied | MINADER, MINEPIA, MINFI, MINEPAT, société civile | 2 500 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 3 : Renforcement des capacités des organisations des producteurs | Les organisations des producteurs sont mieux outillées | MINADER, MINEPIA, MINRESI, société civile | 1 000 000
+
 157
 
 [[END OF PAGE 171]]
@@ -6768,6 +6967,25 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 172]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 3 : Amélioration du niveau de vie des populations | Activité 4 : Renforcement des contrôles de la qualité des produits | Les produits sont désormais de qualité supérieure | MINADER, MINEPIA, MINFI, MINEPAT, MINCOMMERCE, ANOR, MINRESI | 250 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 5 : Désenclavement des bassins de production | Les bassins de production sont désenclavés | MINTP, MINEPIA, MINADER, CTD | 60 000 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 6 : Développement des infrastructures de production et de distribution d’eau | Les infrastructures de production et de distribution d’eau sont fonctionnelles | MINEE, MINTP, MINADER, CDE, CAMWATER, CTD | 2 096 601
+Action 3 : Amélioration du niveau de vie des populations | Activité 7 : Amélioration de la qualité de l’eau distribuée | L’eau distribuée est de meilleure qualité | MINEE, CAMWATER | 200 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 8 : Renforcement de la lutte contre les maladies hydriques | Les maladies hydriques sont combattues et réduites à un niveau résiduel | MINSANTE, MINEE, CDE, CAMWATER, société civile | 584 456
+Action 3 : Amélioration du niveau de vie des populations | Activité 9 : Production et vulgarisation de statistiques fiables sur le nombre de personnes qui ont accès à l’énergie, à un logement décent et à une nourriture suffisante | Les statistiques fiables sont disponibles | INS, MINADER, MINEPIA, MINEE, MINHDU, SIC | 500 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 10 : Valorisation énergétique des déchets des métropoles (Yaoundé et Douala) par gazéification | Les déchets des métropoles (Yaoundé et Douala) sont transformés en énergie par gazéification | MINEE, HYSACAM | 240 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 11 : Renforcement des capacités des associations des consommateurs | Les capacités des associations des consommateurs sont renforcées | MINCOMMERCE, Société civile | 125 500
+Action 3 : Amélioration du niveau de vie des populations | Activité 12 : Maîtrise des coûts des matériaux de construction | Les coûts des matériaux de construction sont maîtrisés | MINCOMMERCE, MINTP | 250 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 13 : Promotion et vulgarisation de l’utilisation des matériaux locaux | L’utilisation des matériaux locaux est connue et adoptée | MINRESI, MIPROMALO | 250 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 14 : Accélération de l’aménagement des parcelles constructibles | Les parcelles constructibles sont disponibles et distribuées | MINDCAF, MAETUR | 84 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 15 : Finalisation du programme d’urgence de 10 000 logements sociaux | Les 10 000 logements sont construits et attribués | MINHDU, SIC, MAETUR, MINTP, AES SONEL, CAMTEL, CDE, CFC | 300 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 16 : Intensification des programmes de restructuration et de rénovation des zones à habitations précaires | Les zones d’habitation précaires sont réaménagées et viabilisées | MINHDU, MAETUR, SIC, CTD | 7 650 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 17 : Constitution des réserves foncières | Les réserves foncières sont constituées | MINDCAF, MAETUR, CTD | 2 146 179
 
 158
 
@@ -6777,6 +6995,23 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 3 : Amélioration du niveau de vie des populations | Activité 18 : Amélioration de la prise en compte des personnes socialement vulnérables dans l’attribution des logements sociaux | Les personnes socialement vulnérables ont accès aux logements sociaux | MINDHU, MINAS, CTD, SIC | 2 668 000
+Action 3 : Amélioration du niveau de vie des populations | Activité 19 : Finalisation de la réforme foncière | La gestion des terres est rationalisée | MINDCAF, MINHDU, MINADER, CTD | 500 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 1 : Renforcement des capacités de gestion financière et de contrôle | La qualité de la gestion financière est améliorée | CONSUPE, MINFI, Chambre des Comptes, Parlement, ANIF, CONAC, société civile | 250 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 2 : Vulgarisation des manuels de procédures et guides de l’usager | L’usager a une meilleure connaissance des procédures | MINEFOPRA, Toutes les Administrations publiques | 88 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 3 : Amélioration de l’environnement des affaires et promotion du partenariat public-privé | L’environnement des affaires est amélioré et la participation du secteur privé au développement est effective | MINEPAT, MINFI, MINREX, MINDCAF et toutes les autres Administrations concernées, organisations patronales | 250 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 4 : Mise en place des mécanismes de déclaration des biens et avoirs de certains personnels de l’Etat | La déclaration des biens telle que prévue par la Constitution est effective | PRC, SPM | 100 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 5 : Renforcement des mesures incitatives de lutte contre la corruption | L’intégrité est renforcée | CONAC, Toutes les Administrations | 2 554 438
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 6 : Evaluation du dispositif institutionnel de lutte contre la corruption | L’action des pouvoirs publics dans la lutte contre la corruption est rationnalisée | CONAC, PRC, SPM, CONSUPE, ANIF, Chambre des Comptes, Parlement | 1 000 000
+Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | Activité 7 : Adoption de la Loi portant prévention et répression de la corruption et des infractions assimilées | la Loi portant prévention et répression de la corruption et des infractions assimilées | PRC | 50 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 1 : Facilitation de l’accès à l’emploi | Les chercheurs d’emploi bénéficient d’une meilleure orientation | MINEFOP, FNE, MINPMEESA, MINJEC, tous les partenaires éducatifs | 100 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 2 : Elaboration des instruments stratégiques de promotion de l’emploi décent | Les textes juridiques et études stratégiques sont disponibles | MINEFOP | 100 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 3 : Collecte, production et publication des informations sur l’emploi et la formation professionnelle | 2 notes de conjecture sont publiées par an | MINEFOP, ONEFOP | 500 000
+
 159
 
 [[END OF PAGE 173]]
@@ -6784,6 +7019,26 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 174]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 4 : Construction des Centres de formation professionnelle avec l’appui des partenaires étrangers | Des grands Centres de formation professionnelle sont construits | MINEPAT, MINEFOP, MINMAP | 25 000 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 5 : Amélioration de l’accès à la formation professionnelle | Des bourses sont allouées et les capacités techniques des Centres de formation sont renforcées | MINEFOP, MINFI | 2 500 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 6 : Mise en place d’un dispositif d’orientation professionnelle | Les populations sont informées sur les filières porteuses | MINEFOP, MINEPAT | 200 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 7 : Accélération du processus d’adoption de la Politique Nationale de Santé et Sécurité au travail | la Politique Nationale de Santé et Sécurité au travail est adoptée | MINTSS, MSP, MINEFOP | 160 800
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 8 : Renforcement de la promotion des métiers accessibles aux personnes handicapées et âgées | Les personnes handicapées et âgées ont une meilleure connaissance des métiers qui leur sont accessibles | MINAS, MINTSS, MINFOPRA, MINEFOP, MINPROFF, société civile | 100 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 9 : Renforcement du cadre juridique et institutionnel en matière de santé et sécurité au travail | Le cadre juridique et institutionnel en matière de santé et sécurité au travail est renforcé | MINTSS, MSP, MINJUSTICE | 66 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 10 : Sensibilisation des usagers sur les règles et procédures en matière de sécurité sociale | Les usagers ont une meilleure connaissance des règles et procédures en matière de sécurité sociale | MINTSS, MINFOPRA, MINFI, CNPS | 50 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 11 : Accélération du processus d’adoption des réformes juridiques entamées en matière de sécurité sociale notamment :
+-l’avant-projet de loi-cadre de sécurité sociale ;
+-l’avant-projet de loi-cadre général sur les mutuelles de sécurité sociale ;
+-l’avant-projet de loi fixant le cadre général de la couverture du risque maladie ;
+-le projet de Décret relatif à la création de la Caisse Nationale d’Assurance Maladie (CNAM) ;
+-le projet de Décret relatif à la création de la Caisse Nationale de Sécurité Sociale ;
+-le projet de Décret relatif à la création de la Caisse Nationale des Personnels de l’Etat | Les réformes juridiques entamées en matière de sécurité sociale sont adoptées | PRC, SPM, MINTSS, Parlement | 906 900
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 12 : Accélération du processus de ratification des Conventions pertinentes de l’OIT relatives à la sécurité sociale | Les Conventions pertinentes de l’OIT relatives à la sécurité sociale sont ratifiées | MINTSS, PRC, SPM, MINREX, MINEFOP, MINJUSTICE | 75 000
 
 160
 
@@ -6793,160 +7048,429 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 13 : Renforcement de la mise en œuvre des stratégies de lutte contre la traite et le trafic des personnes | Les stratégies de lutte contre la traite et le trafic des personnes sont mises en œuvre | SPM, MINAS, MINTSS, MINJUSTICE, DGSN, DGRE, SED, CNDHL, SOCIETE CIVILE | 794 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 14 : Promotion de la sécurité sociale pour le plus grand nombre | Le plus grand nombre des travailleurs a un meilleur accès au système de sécurité sociale | MINTSS, MINFI, MINFOPRA, Organisations patronales, syndicats, CNPS | 4 700 300
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 15 : Renforcement du dialogue social | La concertation tripartite entre le Gouvernement, les employeurs et les travailleurs est renforcée | MINTSS, Syndicat employeurs/employés, CNDHL | 150 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 16 : Validation et mise en œuvre de la politique nationale de l’emploi | la politique nationale de l’emploi est validée et mise en œuvre | MINEFOP, SPM, MINPMEESA, MINTSS, MINEPAT, FNE | 250 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 17 : Production et vulgarisation des statistiques fiables | Des statistiques fiables relatives au travail et à la sécurité sociale sont produites et vulgarisées | INS, MINTSS (ONT), MINEFOP, CNPS/toutes autres administrations | 500 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 18 : Sensibilisation sur les mesures de lutte contre les abus des employeurs sur les employés | Les employés sont outillés pour faire face aux abus de leurs employeurs | MINTSS, MINJUSTICE, CNDHL, les partenaires sociaux | 250 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 19 : Facilitation de l’accès à l’emploi | Les chercheurs d’emploi bénéficient d’une meilleure orientation | MINEFOP, MINPMEESA, MINJEC, tous les partenaires éducatifs, FNE | 250 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 20 : Concertations avec les divers domaines d’activité et les Maîtres d’œuvre des grands projets | 250 000 emplois créés/an | MINEFOP, MINEPAT | 250 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 21 : Sensibilisation des entreprises sur le respect des Droits de l’Homme en leur sein | Les droits des travailleurs sont mieux respectés au sein des entreprises | CNDHL, MINTSS, GICAM, Syndicats et partenaires intéressés | 250 000
+
 161
 
 [[END OF PAGE 175]]
 
 [[START OF PAGE 176]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-162
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 22 : Sensibilisation des entreprises sur le respect des Droits des populations locales, autochtones dans le cadre des Projets d’investissements et des Grands Projets | Les entreprises sont sensibilisées sur le respect des Droits des populations locales, autochtones au cours de leurs activités | CNDHL, GICAM, et partenaires sociaux | 250 000
+Action 5 : Consolidation des mesures favorisant l’accès à l’emploi, au travail et renforcement du système de sécurité sociale | Activité 23 : Sensibilisation des entreprises sur le respect du droit à l’environnement | Le droit de l’environnement est mieux respecté par les entreprises | CNDHL, GICAM, MINEPDED et partenaires sociaux | 250 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 1 : Appui aux institutions à vocation culturelle | Les institutions à vocation culturelle bénéficient d’appuis divers | MINAC | 250 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 2 : Renforcement de la lutte contre la piraterie des œuvres de l’esprit | La piraterie des œuvres de l’esprit est réduite de manière significative | MINAC, MINATD, MINJUSTICE, DGSN, SED, Sociétés de gestions collectives du droit d’auteur | 800 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 3 : Création d’espaces culturels et de loisirs | Des espaces culturels et de loisirs sont créés | MINTOUL, MINAC, MINATD, MINJEC | 7 500 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 4 : Renforcement de la protection des droits d’auteurs | Les droits d’auteurs sont mieux protégés | MINAC, MINJUSTICE, SED, DGSN, les sociétés de gestion collective du droit d’auteur | 255 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 5 : Valorisation du patrimoine culturel camerounais | Le patrimoine culturel camerounais est valorisé | MINAC, MINTOUL, MINATD, Société civile | 1 625 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 6 : Promotion de la culture des loisirs | La population a adopté une culture des loisirs | MINTOUL, MINJEC, MINPROFF, MINATD, Société civile | 250 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 7 : Réaménagement et protection des sites touristiques | Les sites touristiques sont réaménagés et protégés | MINTOUL, MINEPIA, MINJUSTICE, MINEPDED, MINFOF, MINDEF, CNDHL, Société civile | 3 630 000
 
+162
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-163
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 8 : Réhabilitation et promotion des visites des musées nationaux | Les musées nationaux sont réhabilités et fréquentés | MINAC, MINTOUL, MINESEC, MINEDUB, MINESUP, MINTP, MINDCAF | 2 555 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 9 : Elaboration et mise en œuvre des programmes nationaux de vulgarisation de la lecture et des loisirs | Des programmes nationaux de vulgarisation de la lecture et des loisirs sont élaborés et exécutés | MINAC, MINTOUL | 100 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 10 : Accroissement des structures de formation aux métiers de la culture et des loisirs | Les structures de formation aux métiers de la culture et des loisirs sont en nombre suffisant | MINAC, MINTOUL, MINFOP, MINTP, MINESUP, MINRESI | 2 000 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 11 : Renforcement des capacités des personnels chargés du contrôle de la circulation illicite des produits culturels et artisanaux, des espèces fauniques et des produits forestiers ligneux et non ligneux | Les capacités des personnels chargés du contrôle sont renforcées | MINFOF, MINAC, MINTOUL, MINDEF, MINPMEESA, DGSN, SED | 4 692 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 12 : Inventaire et mise en valeur des sites touristiques, des parcs d’attraction et des loisirs | Les sites sont identifiés, aménagés et ouverts au public | MINTOUL, MINFOF, MINAC, MINATD, CTD | 370 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 13 : Assainissement du secteur hôtelier et augmentation de la capacité d’hébergement | La capacité d’accueil est accrue et la qualité du service est améliorée | MINTOUL, MINTP, MINHDU | 1 150 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 14 : Elaboration d’un cadre juridique des loisirs | Les textes législatifs et réglementaires régissant les loisirs sont disponibles | MINTOUL, MINJUSTICE, MINAC | 60 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 15 : Construction des infrastructures des loisirs | Les infrastructures des loisirs sont disponibles | MINTOUL, MINAC, MINTP, MINMAP | 2 500 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 16 : Développement de l’offre et du produit touristiques | L’offre et du produit touristiques sont disponibles | MINTOUL, MINAC, ONG, société civile, Promoteurs | 710 000
+Action 6 : Intensification de la promotion et du développement du droit à la culture et aux loisirs | Activité 17 : Construction des villages de vacances | Les villages de vacances sont disponibles sur l’étendue nationale | MINTOUL, CTD | 1 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 1 : Réforme de la réglementation environnementale | De nouveaux textes sont adoptés | MINEPDED, Société civile | 5 413 832
+Action 7 : Renforcement du droit à un environnement sain | Activité 2 : Mise en place et opérationnalisation du système de monitoring environnemental | Le système de monitoring environnemental est mis en place et est opérationnel | MINEPDED, Société civile | 55 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 3 : Organisation de l’information et de la sensibilisation environnementale | Les campagnes de sensibilisation sont menées | MINEPDED, MINCOM, CNDHL | 675 000
 
+163
 [[END OF PAGE 177]]
 
 [[START OF PAGE 178]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-164
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 7 : Renforcement du droit à un environnement sain | Activité 4 : Mise sur pied effective de l’Observatoire National des changements climatiques | L’Observatoire National des changements climatiques est effectivement mis sur pied | MINEPDED, SPM, MINRESI, MINTRANSPORT, MINTP | 371 639
+Action 7 : Renforcement du droit à un environnement sain | Activité 5 : Développement des capacités de production des filières forestières et fauniques | Des capacités de production des filières forestières et fauniques sont développées | MINFOF, MINRESI, MINEPDED, CTD, WWF, IUCN, PSFE | 338 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 6 : Développement des plantations forestières | La politique nationale de gestion des zones humides est développée et mise en œuvre | MINFOF, MINRESI, MINEPDED, MINADER, ANAFOR | 8 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 7 : Renforcement de la sécurisation du domaine forestier permanent et des autres aires protégées | Les plantations forestières sont créées | MINFOF, MINRESI, PSFE | 1 400 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 8 : Promotion de la certification forestière | Le domaine forestier permanent et les autres aires protégées sont sécurisés | MINFOF, MINRESI | 37 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 9 : Mise en œuvre de schémas directeurs et de plans d’assainissement réalistes | Les schémas directeurs et de plans d’assainissement réalistes sont mis en œuvre | MINFOF, MINRESI, MINEPDED, INC | 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 10 : Création et réhabilitation des stations d’épuration des eaux usées dans les grandes agglomérations | Les stations d’épuration des eaux usées sont créées et/ou réhabilitées | MINEPDED, MINRESI, MINMAP, CTD | 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 11 : Construction et réhabilitation des systèmes d’assainissement des eaux par lagunage | Des systèmes d’assainissement des eaux par lagunage sont construits et réhabilités | MINEE, MINRESI, MINMAP, MINTP | 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 12 : Réalisation des ouvrages de drainage à Nkolbisson (Yaoundé) | Les ouvrages de drainage à Nkolbisson (Yaoundé) sont réalisés | MINTP, MINRESI, MINDHU, MINEE, MINMAP | 75 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 13 : Construction ou réhabilitation des ouvrages de franchissement dans dix villes | Les ouvrages de franchissement dans dix villes sont construits et ou réhabilités | MINEPDED, MINRESI, MINATD | 100 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 14 : Etude en vue de la construction de décharges contrôlées dans 4 villes Chef-lieu de région autres que Yaoundé et Douala | L’étude est réalisée et disponible | MINDHU, MINEPDED, MINRESI, MINMAP, MINATD | 63 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 15 : Renforcement des contrôles environnementaux | Les postes de contrôles environnementaux sont créés et fonctionnels | MINEPDED | 346 375
+Action 7 : Renforcement du droit à un environnement sain | Activité 16 : Etude sur l’élaboration des plans locaux de gestion des déchets urbains | Etude est réalisée et disponible | MINEPDED, MINRESI, MINATD, CTD, HYSACAM | 65 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 17 : Construction d’une décharge pour déchets industriels à Douala | La décharge pour déchets industriels à Douala est construite | MINEPDED, MINRESI, MINMAP, MINATD | 200 000
 
+164
 [[END OF PAGE 178]]
 
 [[START OF PAGE 179]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-165
+Programme Technique 2: | DROITS ECONOMIQUES, SOCIAUX ET CULTURELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 7 : Renforcement du droit à un environnement sain | Activité 18 : Renforcement des capacités des éco gardes des aires protégées | Les aires protégées sont mieux sécurisées | MINFOF, MINRESI, MINDEF | 3 696 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 19 : Construction et réhabilitation des ouvrages de gestion des déchets industriels et hospitaliers | Les déchets industriels et hospitaliers sont adéquatement traités | MINEPDED, MINSANTE, MINRESI, MINMAP, MINDHU | 1 000 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 20 : Prise en compte des principes de développement durable dans les documents de stratégies sectorielles | Le nombre de stratégies sectorielles prend en compte le développement durable | MINEPDED | 418 937,5
+Action 7 : Renforcement du droit à un environnement sain | Activité 21 : Elaboration et opérationnalisation de la stratégie nationale sur le développement durable | Le nombre des plans directeurs des sectorielles est élaboré et validé | MINEPDED, MINRESI | 500 000
+Action 7 : Renforcement du droit à un environnement sain | Activité 22 : Inversion de la tendance à la dégradation des terres et promotion de l’adaptation aux effets néfastes de changement climatique | La superficie des terres est restaurée et les différentes mesures d’adaptation aux effets néfastes de changement climatique sont prises | MINEPDED | 1 440 850
+Action 7 : Renforcement du droit à un environnement sain | Activité 23 : La réduction des pollutions et nuisances environnementales par la gestion écologiquement rationnelle et durable des déchets et substances chimiques | Le niveau des pollutions et nuisances environnementales est réduit | MINEPDED | 1 771 391
 
+165
 [[END OF PAGE 179]]
 
 [[START OF PAGE 180]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 ###### Tableau 3.3 : Déclinaison des actions du Programme Technique 3 en activités
 
-166
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 1 : Défense des droits de la femme | Activité 1 : Renforcement de la sensibilisation des femmes sur leurs droits | Les femmes ont une meilleure connaissance de leurs droits et des mécanismes de mobilisation de ces droits | MINPROFF, MINJUSTICE, MINAS, CNDHL, ONU-Femmes, UNFPA, CNUDHD-AC, société civile | 200 000
+Action 1 : Défense des droits de la femme | Activité 2 : Implication des organisations de défense des droits des femmes dans l’élaboration et la mise en œuvre des politiques et programmes | Les organisations de défense des droits des femmes sont impliquées | MINPROFF, MINAS, MINJUSTICE, CNDHL société civile | 140 000
+Action 1 : Défense des droits de la femme | Activité 3 : Renforcement de l’autonomisation économique de la femme | Les femmes ont une meilleure autonomie économique | MINPROFF, MINEPAT, MINAS, MINJUSTICE, MINADER, CNDHL, société civile | 6 559 000
+Action 1 : Défense des droits de la femme | Activité 4 : Internalisation des instruments juridiques internationaux de promotion et de protection des droits de la femme | Les instruments sont internalisés | MINJUSTICE, MINREX, MINPROFF, CNDHL | 500 000
+Action 1 : Défense des droits de la femme | Activité 5 : Amélioration des mécanismes d’information et de sensibilisation à la paix des familles, des femmes et des hommes victimes et auteurs des violences | Les femmes, les hommes et les familles sont sensibilisés | MINPROFF, MINAS, SED, DGSN, ONU-FEMMES, UNFPA, MINJUSTICE, CNDHL, société civile | 149 000
+Action 1 : Défense des droits de la femme | Activité 6 : Formation des acteurs sociaux et judiciaires sur l’application des instruments juridiques relatifs aux droits de la femme | Les acteurs sociaux et judiciaires sont formés sur l’application des instruments juridiques relatifs aux Droits de la femme | MINJUSTICE, MINPROFF, MINAS, CNDHL, CNUDHD-AC, ONU-FEMMES, UNFPA société civile | 180 000
+Action 1 : Défense des droits de la femme | Activité 7 : Mise en œuvre du Plan d’Action national d’élimination des mutilations génitales féminines | La pratique des mutilations génitales féminines est réduite | MINPROFF, MINJUSTICE, MINAS, CNDHL, UNFPA, société civile | 125 000
+Action 1 : Défense des droits de la femme | Activité 8 : Adoption d’une loi portant sur la parité dans la gestion des affaires publiques | Une loi portant sur la parité dans la gestion des affaires publiques est adoptée | MINPROFF, MINAS, ONU-FEMMES, MINATD | 50 000
+Action 1 : Défense des droits de la femme | Activité 9 : Elaboration d’un texte clarifiant les dispositions du Code Electoral sur le Genre | Les dispositions du Code Electoral sur le Genre sont clarifiées | MINATD, ELECAM, MINPROFF, MINAS, PNUD, ONU-FEMMES, société civile | 50 000
+Action 1 : Défense des droits de la femme | Activité 10 : Elaboration d’un texte spécifique sur les violences basées sur le Genre | Le texte sur les violences basées sur le Genre est élaboré | MINJUSTICE, MINPROFF, CNDHL, ONU-FEMMES, CNUDHD-AC | 50 000
 
+166
 [[END OF PAGE 180]]
 
 [[START OF PAGE 181]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-167
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 1 : Défense des droits de la femme | Activité 11 : Création de structures d’accueil des femmes victimes de violences domestiques /familiales | Des structures d’accueil des femmes victimes de violence domestiques/familiales sont créées | MINPROFF, MINAS, CNDHL, ONU-FEMMES, UNFPA, société civile, | 250 000
+Action 1 : Défense des droits de la femme | Activité 12 : Création d’un fonds d’appui à l’insertion socioéconomique des femmes notamment pour la mécanisation de l’agriculture | Un fonds d’appui à l’insertion socioéconomique des femmes est créé | MINADER, MINPROFF, MINEPAT, MINFI, MINEPIA | 2 000 000
+Action 1 : Défense des droits de la femme | Activité 13 : Mise en œuvre de la Politique Nationale Genre | La Politique Nationale Genre est mise en œuvre | MINPROFF, ONU-FEMMES, société civile | 220 000
+Action 1 : Défense des droits de la femme | Activité 14 : Intensification de la sensibilisation pour l’éducation de la jeune fille et de la femme | Le niveau d’éducation de la jeune fille et de la femme est amélioré | MINPROFF, MINJEC, MINEDUB, CNDHL, UNICEF, société civile | 596 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 1 : Finalisation de l’élaboration du projet de Code de protection de l’enfant | Le Code de protection de l’enfant est adopté | MINJUSTICE, MINAS, SPM, CNDHL, MINPROFF, UNICEF | 25 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 2 : Sensibilisation des populations au phénomène de la traite et du trafic des enfants | Les populations sont édifiées sur le phénomène du trafic des enfants | MINAS, MINJUSTICE, MINTSS, CNDHL, MINEFOP, CNUDHD-AC, OIM, société civile | 125 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 3 : Adoption d’une politique de lutte contre l’exploitation des enfants | Une politique de lutte contre l’exploitation des enfants est adoptée | MINAS, MINEFOP, MINPROFF, UNICEF société civile | 50 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 4 : Création de juridictions spécialisées pour enfants | Des juridictions spécialisées pour enfants sont créées | MINJUSTICE, MINPROFF, MINAS, UNICEF, CNDHL | 250 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 5 : Renforcement de la capacité d’accueil des Centres de détention pour enfants existants | Les Centres de détention pour enfants disposent des moyens adéquats pour l’encadrement des enfants | MINAS, MINPROFF, MINJUSTICE, UNICEF, CNDHL | 1 000 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 6 : Opérationnalisation du système de liberté surveillée | Les mécanismes de liberté surveillée fonctionnent de manière efficace | MINAS, MINPROFF, MINJUSTICE, UNICEF, CNDHL | 100 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 7 : Ouverture des prisons pour enfants | Les prisons pour enfants sont ouvertes | MINJUSTICE, MINPROFF, MINAS, UNICEF, CNDHL | 5 000 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 8 : Ratification du protocole additionnel à la Convention des Nations Unies relative aux droits de l’enfant (Protocole sur la prostitution et la lutte contre la pornographie) | Le Protocole est ratifié | MINREX, MINAS, MINPROFF, MINAC MINJUSTICE, UNICEF, société civile | 50 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 9 : Promotion et facilitation de l’enregistrement des naissances | L’enregistrement des naissances est facilité | MINATD, MINPROFF, MINAS, UNICEF, CNDHL, Plan Cameroon | 1 250 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 10 : Renforcement de la prévention et de la lutte contre les violences intrafamiliales | Les violences intrafamiliales sont réduites à un niveau résiduel | MINPROFF, MINAS, CNDHL, ONU-FEMMES, UNICEF, société civile | 500 000
 
+167
 [[END OF PAGE 181]]
 
 [[START OF PAGE 182]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-168
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 11 : Facilitation de l’accès des enfants ou de leurs parents aux services sociaux de base | Les enfants ont un meilleur accès aux services sociaux de base | MINAS, MINEDUB, MINSANTE, société civile | 7 600 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 12 : Harmonisation de la ligne pédagogique des institutions de rééducation des mineurs | La ligne pédagogique des institutions de rééducation des mineurs est harmonisée | MINAS, MINPROFF, MINJUSTICE, UNICEF, société civile | 125 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 13 : Renforcement de la formation des formateurs la la justice juvénile et à la lutte contre l’exploitation des enfants | Les formateurs à la justice juvénile et à la lutte contre l’exploitation des enfants sont formés | MINJUSTICE, MINAS, MINPROFF, SED, DGSN, MINTSS, ENAM, UNICEF | 100 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 14 : Internalisation des normes internationales relatives aux droits de l’enfant | Les normes sont internalisées | MINJUSTICE, MINREX, MINAS, MINPROFF, CNDHL, UNICEF | 15 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 15 : Finalisation du projet de Politique Nationale d’Education des Enfants ayant besoin de mesures spéciales de protection | Le projet de Politique Nationale d’Education des Enfants ayant besoin de mesures spéciales de protection est finalisé | MINAS, MINPROFF, MINEDUB, MINJEC, MINESEC, UNICEF, société civile | 100 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 16 : Intensification de la mise en œuvre du Programme d’éducation prénuptiale, matrimoniale et familiale | La mise en œuvre du Programme d’éducation prénuptiale, matrimoniale et familiale est intensifiée | MINPROFF, ONU-FEMMES | 760 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 17 : Vulgarisation du Plan stratégique et du Guide de prise en charge des OEV | Le plan stratégique et le Guide de prise en charge des OEV sont vulgarisés | MINAS, UNICEF, Plan Cameroon, Care | 125 000
+Action 2 : Renforcement du respect des droits de l’enfant | Activité 18 : Institutionnalisation de la prise en compte de la dimension sociale favorisant une toile sécuritaire autour des OEV | La prise en compte de la dimension sociale favorisant une toile sécuritaire autour des OEV est institutionnalisée | MINAS, MINPROFF, UNICEF | 50 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 1 : Facilitation de l’accès des PVVIH aux services sociaux de base et à la citoyenneté | Les personnes vivant avec le VIH/Sida ont les mêmes opportunités d’accès aux services sociaux de base et à la citoyenneté | MINAS, MINSANTE (CNLS), ONUSIDA | 1 500 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 2 : Mise en place d’un cadre juridique de parrainage des OEV | Un cadre juridique de parrainage des OEV est mis en place | MINAS | 50 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 3 : Vulgarisation des instruments juridiques relatifs aux droit et devoirs des PVVIH et personnes affectées | Les instruments juridiques relatifs aux droits et devoirs des PVVIH et personnes affectées sont vulgarisés | MINSANTE, MINJUSTICE, société civile | 125 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 4 : Mise en place des services juridiques de base liés au VIH | Des services juridiques de base liés au VIH sont mis en place | MINSANTE, MINJUSTICE | PM
 
+168
 [[END OF PAGE 182]]
 
 [[START OF PAGE 183]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-169
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 5 : Renforcement du cadre juridique de protection des droits des PVVIH et de promotion de leurs devoirs | Le cadre juridique de protection des droits des PVVIH et de promotion de leurs devoirs est renforcé | MINJUSTICE | 25 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 6 : Renforcement des capacités des personnels chargés de l’application de la loi sur les droits associés au VIH et l’application des instruments juridiques pertinents | Les capacités des personnels chargés de l’application de la loi sur les droits associés au VIH et l’application des instruments juridiques pertinents sont renforcées | MINJUSTICE, Barreau, CNDHL, société civile | 35 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 7 : Renforcement des capacités des personnels de santé, de l’enseignement et des employeurs sur le respect des droits des PVVIH et la non-discrimination | Les capacités des personnels de santé, de l’enseignement et des employeurs sur le respect des droits des PVVIH et la non-discrimination sont renforcées | MINJUSTICE, MINSANTE MINEDUB, MINESEC, MINESUP, MINTSS, OSC | 125 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 8 : Organisation des campagnes de sensibilisation des PVVIH sur leurs droits et sur les mécanismes de leur revendication | Les PVVIH ont une meilleure connaissance de leurs droits et des mécanismes de leur revendication | MINJUSTICE, MINSANTE, CNDHL, société civile | 125 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 9 : Organisation des campagnes de lutte contre les pratiques stigmatisantes et discriminatoires dans les communautés | Les communautés sont mieux informées sur les pratiques stigmatisantes et discriminatoires à l’égard des PVVIH | MINSANTE, MINJUSTICE, CNDHL, société civile | 50 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 10 : Renforcement des capacités d’intervention des membres des associations de PVVIH | Les membres des associations de PVVIH sont plus aptes à intervenir dans la lutte contre la discrimination | MINSANTE, MINJUSTICE, CNDHL, société civile | 250 000
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 11 : Renforcement des capacités managériales des associations de PVVIH | Les capacités managériales des associations de PVVIH ont été renforcées | MINSANTE, société civile | 689 039
+Action 3 : Défense des droits des personnes vivant avec le VIH | Activité 12 : Implication des PVVIH aux différents processus de prise de décisions liées à la lutte contre le VIH/Sida | Les PVVIH sont impliquées dans les différentes sphères de prise de décisions liées à la lutte contre le VIH/Sida | MINSANTE, société civile | 125 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 1 : Vulgarisation et adoption de l’approche handicap dans l’aménagement des édifices publics | L’aménagement des édifices publics est conforme à l’approche handicap | MINTP, MINAS, Toutes les administrations, société civile | 125 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 2 : Renforcement de la prévention et du dépistage du handicap | Le développement du handicap est contrôlé | MINSANTE, MINAS, société civile | 750 000
 
+169
 [[END OF PAGE 183]]
 
 [[START OF PAGE 184]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-170
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 4 : Consolidation des droits des personnes handicapées | Activité 3 : Adoption des textes d’application de la Loi de 2010 sur la protection et la promotion des personnes handicapées | Les textes d’application de la Loi de 2010 sont adoptés et disponibles | SPM, MINAS | 50 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 4 : Réhabilitation et développement des Institutions publiques d’encadrement des personnes handicapées | Les Institutions publiques d’encadrement des personnes handicapées sont réhabilitées et/ou développées | MINAS, MINEPAT, MINMAP, société civile | 350 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 5 : Renforcement des capacités des structures et organisations d’encadrement des personnes handicapées | Les structures d’encadrement des personnes handicapées sont renforcées | MINAS, MINEFI, MINEPAT, MINREX, MINATD société civile | 100 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 6 : Appui à l’insertion et à la réinsertion socioéconomiques | Les personnes handicapées sont mieux intégrées dans la société | MINAS, MINEFOP, MINATD, FNE, société civile | 1 250 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 7 : Finalisation du processus de ratification de la Convention des Nations Unies sur les droits des personnes handicapées | La Convention des Nations Unies sur les droits des personnes handicapées est ratifiée | MINREX, MINJUSTICE, SPM, MINAS, | 50 000
+Action 4 : Consolidation des droits des personnes handicapées | Activité 8 : Sensibilisation et vulgarisation des droits des personnes handicapées | La société a une meilleure connaissance du respect des droits des personnes handicapées | MINAS, MINJUSTICE, CNDHL société civile | 250 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 1 : Création d’un système de soins de santé pour les personnes du troisième âge | Un système de soins de santé pour les personnes du troisième âge est créé | MINSANTE, MINAS, MINPROFF, société civile | 50 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 2 : Amélioration du système de sécurité sociale pour la prise en charge des personnes du troisième âge | Les personnes du troisième âge bénéficient d’une sécurité sociale adéquate | MINTSS, MINAS, MINPROFF, société civile | 35 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 3 : Sensibilisation des familles sur l’encadrement de leurs parents âgés | Les personnes âgées sont encadrées par les familles | MINAS, MINPROFF, CNDHL, société civile | 250 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 4 : Encadrement des personnes âgées recueillies par des associations privées | Les associations privées bénéficient d’appui pour l’encadrement des personnes âgées délaissées | MINAS, MINPROFF société civile | 750 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 5 : Intensification de la lutte contre toutes les formes de violence et de discrimination à l’égard des personnes âgées | Les violences et les discriminations à l’égard des personnes âgées sont réduites | MINJUSTICE, MINAS, MINPROFF, CNDHL société civile | 25 000
 
+170
 [[END OF PAGE 184]]
 
 [[START OF PAGE 185]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-171
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 5 : Renforcement des droits des personnes âgées | Activité 6 : Renforcement de la lutte contre la précarité des conditions de vie des personnes âgées | Les conditions de vie des personnes âgées sont améliorées | MINAS, MINPROFF | 250 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 7 : Appui à la reconversion des personnes âgées | La reconversion des personnes âgées est facilitée | MINAS, MINPROFF, CNDHL | 100 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 8 : Sensibilisation de la communauté sur les problèmes liés au 3ème âge | La communauté est plus alerte sur les problèmes liés au 3ème âge | MINAS, MINPROFF, société civile | 75 000
+Action 5 : Renforcement des droits des personnes âgées | Activité 9 : Sensibilisation sur le respect des droits des personnes âgées | La société est sensibilisée aux droits des personnes âgées | MINAS, MINPROFF, MINJUSTICE, société civile | 75 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 1 : Sensibilisation des populations autochtones à l’enregistrement des naissances et à l’établissement des cartes nationales d’identité | Les populations autochtones sont enregistrées à l’état civil et disposent de cartes nationales d’identité | MINAS, MINATD, MINJUSTICE, DGSN, CNDHL, société civile | 123 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 2 : Facilitation de l’accès des populations autochtones aux services sociaux de base | Les populations autochtones ont un meilleur accès aux services sociaux de base tels que l’eau, l’énergie, l’éducation, la santé et la justice | MINAS, MINEPAT, MINEDUB, MINSANTE | 1 250 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 3 : Renforcement des capacités techniques des différents intervenants sociaux impliqués dans la lutte contre l’exclusion sociale des populations autochtones | Les capacités techniques des différents intervenants sociaux impliqués dans la lutte contre l’exclusion sociale des populations autochtones sont renforcées | MINAS, MINEPAT | 100 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 4 : Implication des populations autochtones dans la gestion de l’exploitation forestière et faunique | Les populations autochtones sont mieux impliquées dans la gestion de l’exploitation forestière et faunique | MINFOF, MINDCAF | 100 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 5 : Création des chefferies de communauté dans les régions où les populations autochtones sont sédentarisées | Des chefferies de communauté sont créées dans les régions où les populations autochtones sont sédentarisées | MINATD | 100 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 6 : Renforcement de la sécurité foncière des populations autochtones par le réaménagement de la Loi foncière du 6 juillet 1974 | La sécurité foncière des populations autochtones est renforcée | MINDCAF, MINATD, société civile | 50 000
 
+171
 [[END OF PAGE 185]]
 
 [[START OF PAGE 186]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-172
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 6 : Consolidation des droits des populations autochtones | Activité 7 : Elaboration d’une politique sectorielle des droits et d’encadrement des populations autochtones | Une politique sectorielle des droits et d’encadrement des populations autochtones est élaborée | MINAS | 10 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 8 : Elaboration d’une cartographie des populations autochtones | Une cartographie des populations autochtones est élaborée | MINAS, MINREX, INC | 15 000
+Action 6 : Consolidation des droits des populations autochtones | Activité 9 : Sensibilisation des populations autochtones sur leurs droits et devoirs | Les populations autochtones sont mieux édifiées sur leurs droits et devoirs | MINAS, société civile | 75 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 1 : Amélioration qualitative et quantitative de la ration pénale | L’alimentation des détenus est améliorée | MINJUSTICE, société civile | 10 500 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 2 : Amélioration de l’hygiène et de la santé des détenus | La couverture sanitaire des détenus est améliorée | MINJUSTICE, MINSANTE | 935 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 3 : Organisation du transfèrement des détenus des prisons surpeuplées | Le transfèrement des détenus est effectué | MINJUSTICE | 150 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 4 : Application effective des dispositions du CPP sur les délais de la détention provisoire | Les détentions provisoires anormalement longues sont réduites | MINJUSTICE, MINAS, CNDHL | 50 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 5 : Valorisation de la mission de production de la prison | Les détenus participent au travail pénitentiaire et à la production | MINJUSTICE, société civile | 30 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 6 : Organisation de l’éducation et de l’alphabétisation dans les prisons | Les détenus sont instruits | MINEDUB, MINJUSTICE, CNDHL | 46 500
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 7 : Prise en charge psycho sociale des détenus | Les détenus sont suivis | MINAS, MINSANTE, société civile | 30 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 8 : Mise en place d’un fonds d’appui à la réinsertion sociale des détenus | Le fonds d’appui à la réinsertion sociale des détenus est mis en place | MINJUSTICE, MINAS, MINFI | 150 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 9 : Organisation des activités socioculturelles dans les prisons | Les détenus sont impliqués dans les activités socio culturelles | MINJUSTICE, MINAS, MINAC, MINJEC, société civile | 75 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 10 : Elaboration d’un Guide d’information des détenus sur leurs droits et leurs devoirs | Le Guide d’information est disponible et distribué | MINJUSTICE, CNDHL, société civile | 25 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 11 : Renforcement de la lutte contre la corruption en milieu carcéral | La corruption est réduite à un niveau résiduel en milieu carcéral | MINJUSTICE, CNDHL, CONAC | 75 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 12 : Renforcement des capacités du personnel pénitentiaire quant à la connaissance et au respect des droits des détenus | Le personnel pénitentiaire est mieux édifié sur le respect des droits des détenus | MINJUSTICE, CNDHL, société civile | 100 000
 
+172
 [[END OF PAGE 186]]
 
 [[START OF PAGE 187]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-173
+Programme Technique 3: | LES DROITS CATEGORIELS
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2014-2016
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 13 : Renforcement de la lutte contre les abus du personnel pénitentiaire | Les abus sont réduits à leur plus bas niveau en milieu carcéral | MINJUSTICE, CNDHL | 50 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 14 : Amélioration du suivi des procédures d’exécution de peine | Le suivi des procédures d’exécution de peine est amélioré | MINJUSTICE | 150 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 15 : Renforcement de l’application de la séparation effective des catégories des détenus | Les catégories de détenus sont effectivement séparées | MINJUSTICE, DGSN, SED | 500 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 16 : Renforcement de l’application effective des alternatives à l’emprisonnement et des mécanismes de justice restauratrice | Les alternatives à l’emprisonnement sont une réalité | MINJUSTICE | 100 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 17 : Elaboration d’un Code de conduite pour le personnel de l’Administration pénitentiaire | Un Code de conduite pour le personnel de l’Administration pénitentiaire est élaboré et distribué | MINJUSTICE | 35 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 18 : Renforcement des effectifs du personnel d’encadrement et amélioration de leurs conditions de travail | Le personnel d’encadrement est renforcé et ses conditions de travail sont améliorées | MINJUSTICE | 10 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 19 : Construction de nouvelles prisons, équipement, aménagement des locaux et réhabilitation des prisons existantes suivant les standards internationaux | De prisons sont construites et/ou réhabilités suivant les standards internationaux | MINJUSTICE | 15 000 000
+Action 7 : Renforcement du respect des droits des personnes détenues | Activité 20 : Organisation de la prise en charge des enfants des mères emprisonnées | La prise en charge des enfants des mères emprisonnées est améliorée | MINPROFF, MINAS, MINJUSTICE, CNDHL, société civile | 100 000
+Action 8 : Renforcement de la protection des droits des réfugiés | Activité 1 : Opérationnalisation des organes de gestion du statut des réfugiés | Les organes de gestion du statut des réfugiés sont opérationnels | MINREX | 1 500 000
+Action 8 : Renforcement de la protection des droits des réfugiés | Activité 2 : Renforcement des capacités des organes de gestion du statut des réfugiés | Les capacités des organes de gestion du statut des réfugiés sont renforcées | MINREX | 100 000
+Action 8 : Renforcement de la protection des droits des réfugiés | Activité 3 : Renforcement des capacités des administrations publiques sur la gestion des questions des réfugiés | Les problèmes des réfugiés sont mieux gérés | MINREX | 100 000
+Action 8 : Renforcement de la protection des droits des réfugiés | Activité 4 : Amélioration de la coordination des initiatives de prise en charge des réfugiés et des personnes déplacées | Les initiatives de prise en charge des réfugiés sont coordonnées | MINREX, HCR | 250 000
+Action 8 : Renforcement de la protection des droits des réfugiés | Activité 5 : Accélération du processus d’adhésion à la Convention de l’Union Africaine sur la protection et l’assistance aux personnes déplacées internes en Afrique du 23 octobre 2009 | Le Cameroun a adhéré à la Convention de l’Union Africaine sur la protection et l’assistance aux personnes déplacées internes en Afrique du 23 octobre 2009 | MINREX, MINATD | 50 000
 
+173
 [[END OF PAGE 187]]
 
 [[START OF PAGE 188]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 ###### Tableau 3.4 : Déclinaison des actions du Programme Technique 4 en activités
 
-174
+Programme Technique 4 : | COOPERATION, PILOTAGE ET SUIVI EVALUATION
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 1 : Elaboration et soumission des Rapports | Activité 1 : Elaboration du Rapport périodique au Comité des droits de l’enfant | Le troisième Rapport périodique est élaboré et soumis | MINPROFF, MINJUSTICE, MINREX, les autres Département ministériels, SED, DGSN, la société civile | 20 000
+Action 1 : Elaboration et soumission des Rapports | Activité 2 : Elaboration et la soumission du Rapport périodique à la CADHP | Le Rapport est élaboré suivant une approche participative | MINJUSTICE, MINREX, tous les Départements ministériels, la société civile | 15 000
+Action 1 : Elaboration et soumission des Rapports | Activité 3 : Préparation et la soumission du 3e Rapport périodique au CDESC | Le Rapport est élaboré suivant une approche participative | MINJUSTICE, MINREX, autres Administrations concernées et la société civile | 30 000
+Action 1 : Elaboration et soumission des Rapports | Activité 4 : Préparation et soumission du 6e Rapport périodique au CAT | Le Rapport est élaboré et soumis | MINJUSTICE, MINREX, MINDEF, DGSN, SED et d’autres administrations concernées | 30 000
+Action 1 : Elaboration et soumission des Rapports | Activité 5 : Préparation du 6e Rapport périodique à soumettre au Comité CEDAW | Le Rapport est élaboré et soumis | MINPROFF, MINJUSTICE, MINREX, DGSN, SED et d’autres administrations concernées, la société civile | 30 000
+Action 1 : Elaboration et soumission des Rapports | Activité 6 : Elaboration du 2e Rapport périodique au CAEDBEE | Le 2e Rapport périodique est élaboré et soumis | MINPROFF, MINJUSTICE, MINREX, DGSN, SED et d’autres administrations concernées, la société civile | 30 000
+Action 1 : Elaboration et soumission des Rapports | Activité 7 : Soumission du Rapport initial à la Commission Africaine de l’UA au titre de la CADEG | Le Rapport est élaboré et soumis | MINATD, MINJUSTICE, MINREX, CONAC, ELECAM | 30 000
 
+174
 [[END OF PAGE 188]]
 
 [[START OF PAGE 189]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-175
+Programme Technique 4 : | COOPERATION, PILOTAGE ET SUIVI EVALUATION
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 1 : Elaboration et soumission des Rapports | Activité 8 : Préparation du 1e Rapport périodique du Cameroun au titre de la CADEG | Le Rapport est soumis dans les délais | MINATD, MINREX, MINJUSTICE, CONAC, la société civile | 30 000
+Action 1 : Elaboration et soumission des Rapports | Activité 9 : Renforcement des capacités des personnels chargés de l’élaboration et la défense des Rapports périodiques | La qualité et la des Rapports périodiques est améliorée | MINJUSTICE, MINREX, MINPROFF, CNDHL, société civile | 50 000
+Action 1 : Elaboration et soumission des Rapports | Activité 10 : Préparation du 3e passage du Cameroun à l’EPU | Le Rapport national est soumis et défendu | SPM, MINJUSTICE, MINREX, CNDHL | 50 000
+Action 2 : Amélioration de la gestion du contentieux en matière de Droits de l’Homme | Activité 1 : Renforcement des capacités des personnels chargés de la gestion du contentieux | La qualité de la défense est améliorée | SPM, MINJUSTICE, MINREX et les administrations concernées, CNDHL | 50 000
+Action 2 : Amélioration de la gestion du contentieux en matière de Droits de l’Homme | Activité 2 : Préparation de la défense des intérêts de l’Etat dans le cadre des affaires contentieuses | La défense est effective | SPM, MINJUSTICE, MINREX, DGSN, MINDEF, CNDHL et les administrations concernées | 50 000
+Action 3 : Amélioration de la coordination dans la préparation et le déroulement des visites des Procédure spéciales | Activité 1 : Organisation efficiente des visites au Cameroun des titulaires de mandat des Nations Unies et de l’Union Africaine | Les visites sont organisées de manière efficiente | MINREX, MINJUSTICE, les autres administrations concernées, la CNDHL, la société civile | 200 000
+Action 3 : Amélioration de la coordination dans la préparation et le déroulement des visites des Procédure spéciales | Activité 2 : Sensibilisation des Administrations publiques sur le mandat des procédures spéciales et le mécanisme de l’EPU | Les responsables des Administrations publiques sont sensibilisés | SPM, MINREX, MINJUSTICE | 100 000
+Action 4 : Amélioration du niveau de mise en œuvre des recommandations | Activité 1 : Diffusion des recommandations | Les recommandations sont mises à la disposition des parties prenantes | MINREX, MINCOM, MINJUSTICE, la société civile | 500 000
+Action 4 : Amélioration du niveau de mise en œuvre des recommandations | Activité 2 : Suivi et évaluation de la mise en œuvre des recommandations | Les rapports d’évaluation sont disponibles | SPM, MINREX, MINJUSTICE, CNDHL, la société civile | 1 000 000
+Action 5 : Elaboration des Rapports semestriels et annuels | Activité 1 : Elaboration et dissémination des fiches de suivi | Les fiches de suivi sont disponibles et disséminées | MINJUSTICE, CNDHL, INS, MINEPAT | 25 000
+Action 5 : Elaboration des Rapports semestriels et annuels | Activité 2 : Collecte et analyse des informations | Les fiches de suivi sont collectées | MINJUSTICE | 50 000
 
+175
 [[END OF PAGE 189]]
 
 [[START OF PAGE 190]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-176
+Programme Technique 4 : | COOPERATION, PILOTAGE ET SUIVI EVALUATION
+Responsable de mise en œuvre : |
+Activités d’une Action et leurs caractéristiques
+Désignation des actions | Famille d’activités | Extrants attendus par activité | Acteurs | Coût sur la période 2015-2019
+Action 5 : Elaboration des Rapports semestriels et annuels | Activité 3 : Rédaction effective des Rapports de suivi | Les Rapports sont rédigés | MINJUSTICE et les points focaux | 25 000
+Action 5 : Elaboration des Rapports semestriels et annuels | Activité 4 : Validation des Rapports de suivi | Les Rapports sont validés | MINJUSTICE et tous les acteurs impliqués | 50 000
+Action 5 : Elaboration des Rapports semestriels et annuels | Activité 5 : Elaboration et diffusion des Rapports de suivi | Les Rapports sont disponibles et distribués | MINJUSTICE | 10 000
+Action 6 : Elaboration du Rapport global | Activité 1 : Elaboration des TDR | Les TDR sont disponibles | CNDHL | 500
+Action 6 : Elaboration du Rapport global | Activité 2 : Passation du marché en vue de la rédaction du Rapport global | Le marché est passé et le Consultant recruté | CNDHL | 500
+Action 6 : Elaboration du Rapport global | Activité 3 : Rédaction effective du Rapport global | Le Rapport est rédigé et transmis par le Consultant | Consultant | 50 000
+Action 6 : Elaboration du Rapport global | Activité 4 : Evaluation du Rapport global | Le Rapport est évalué et révisé | MINJUSTICE, CNDHL et les points focaux | 15 000
+Action 6 : Elaboration du Rapport global | Activité 5 : Validation du Rapport global | Le Rapport global est validé | MINJUSTICE, CNDHL et les acteurs impliqués | 10 000
+Action 6 : Elaboration du Rapport global | Activité 6 : Production et diffusion du Rapport global | Le Rapport global est disponible et distribué | MINJUSTICE, CNDHL | 20 000
+Action 6 : Elaboration du Rapport global | Activité 7 : Organisation d’un Forum de réflexion sur les questions de promotion et de protection des Droits de l’Homme au Cameroun | Le Forum est organisé et des éléments de réorientation du PANPPDH sont identifiés | MINJUSTICE, MINREX, CNDHL, Départements ministériels, Société civile | 100 000
+Action 7 : Gouvernance et appui institutionnel à la mise en œuvre et au suivi-évaluation du Plan d’Action | Activité 1 : Renforcement des capacités des membres du Comité technique | Les membres du Comité technique sont outillés sur le cadre de mis en œuvre et de suivi-évaluation du Plan d’Action | MINJUSTICE, CNDHL, Départements ministériels concernés, Société civile | 15 000
+Action 7 : Gouvernance et appui institutionnel à la mise en œuvre et au suivi-évaluation du Plan d’Action | Activité 2 : Sessions périodiques du Comité technique | Le Comité technique tient des sessions | MINJUSTICE, CNDHL, Départements ministériels concernés, Société civile | 30 000
+Action 7 : Gouvernance et appui institutionnel à la mise en œuvre et au suivi-évaluation du Plan d’Action | Activité 3 : Plan de communication du Plan d’Action | Un Plan de communication est adopté et mis en œuvre | MINJUSTICE, CNDHL, MINCOM et autres départements ministériels | 15 000
+Action 7 : Gouvernance et appui institutionnel à la mise en œuvre et au suivi-évaluation du Plan d’Action | Activité 4 : Renforcement du système de données statistiques | Les responsables des cellules statistiques des différentes administrations sont outillés sur le mécanisme de collecte des données statistiques du Plan | INS, MINEPAT, les responsables des cellules statistiques des différentes administrations | 30 000
 
+176
 [[END OF PAGE 190]]
 
 [[START OF PAGE 191]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
 ###### Tableau 4 : Synthèse des programmes et des actions
 
 ###### Tableau 4.1 : Récapitulatif du coût des actions des programmes
 
-177
+Programmes | Actions | Cout sur la période (en milliers de FCFA)
+PT1 : DROITS CIVILS ET POLITIQUES | Action 1 : Défense du droit à la vie, à l’intégrité physique et morale | 14 665 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 2 : Sauvegarde du droit au respect de la vie privée | 550 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 3 : Consolidation du droit à la liberté d’expression et d’opinion | 2 385 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 4 : Amélioration du cadre normatif et institutionnel de la liberté de culte | 75 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 5 : Consolidation du droit à un procès équitable | 10 715 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 6 : Amélioration de la garantie du droit à la propriété | 915 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 7 : Renforcement de la liberté d’association, de réunion et de manifestation | 950 000
+PT1 : DROITS CIVILS ET POLITIQUES | Action 8 : Amélioration de la participation des citoyens à la gestion des affaires publiques | 17 784 000
+PT1 : DROITS CIVILS ET POLITIQUES | COUT TOTAL DES ACTIONS DU PROGRAMME | 48 039 000
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 1 : Accès équitable à la santé des populations | 222 029 265
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 2 : Consolidation du droit à l’éducation | 6 100 000
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 3 : Amélioration du niveau de vie des populations | 106 344 736
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 4 : Renforcement de la transparence et optimisation de la lutte contre la corruption | 4 292 438
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 5 : Consolidation du droit au travail et renforcement du système de sécurité sociale | 36 903 000
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 6 : Intensification de la promotion du droit à la culture et aux loisirs | 29 947 000
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Action 7 : Renforcement du droit à un environnement sain | 27 967 024
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | COUT TOTAL DES ACTIONS DU PROGRAMME | 433 583 463
+PT3 : DROITS CATEGORIELS | Action 1 : Défense des droits de la femme | 11 169 000
+PT3 : DROITS CATEGORIELS | Action 2 : Renforcement du respect des droits de l’enfant | 17 225 000
+PT3 : DROITS CATEGORIELS | Action 3 : Défense des droits des personnes vivant avec le VIH | 3 099 039
+PT3 : DROITS CATEGORIELS | Action 4 : Consolidation des droits des personnes handicapées | 2 925 000
+PT3 : DROITS CATEGORIELS | Action 5 : Renforcement des droits des personnes âgées | 1 610 000
+PT3 : DROITS CATEGORIELS | Action 6 : Consolidation des droits des populations autochtones | 1 823 000
+PT3 : DROITS CATEGORIELS | Action 7 : renforcement du respect des droits des personnes détenues | 28 111 500
+PT3 : DROITS CATEGORIELS | Action 8 : Renforcement de la protection des droits des réfugiés | 2 000 000
+PT3 : DROITS CATEGORIELS | COUT TOTAL DES ACTIONS DU PROGRAMME | 67 962 539
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 1 : Elaboration et soumission des Rapports | 315 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 2 : Amélioration de la gestion du contentieux | 100 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 3 : Amélioration de la coordination dans la préparation et le déroulement des visites des Procédures spéciales | 300 000
 
+177
 [[END OF PAGE 191]]
 
 [[START OF PAGE 192]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
+
+Programmes | Actions | Cout sur la période (en milliers de FCFA)
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 4 : Amélioration du niveau de mise en œuvre des recommandations | 1 500 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 5 : Elaboration des Rapports semestriels et annuels | 160 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 6 : Elaboration du Rapport global | 196 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Action 7 : Gouvernance et appui institutionnel à la mise en œuvre et au suivi-évaluation du Plan d’Action | 90 000
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | COUT TOTAL DES ACTIONS DU PROGRAMME | 2 661 000
+COUT TOTAL DE TOUS LES PROGRAMMES | 552 246 002
 
 ###### Tableau 4.2 : Récapitulatif du coût des programmes
 
-178
+Programmes | Objectifs | Indicateurs | Cout sur la période (en milliers de FCFA)
+PT1 : DROITS CIVILS ET POLITIQUES | Renforcer l’Etat de droit | Taux de mise en place des Institutions/mécanismes prévus dans la Constitution | 48 039 000
+PT2 : DROITS ECONOMIQUES, SOCIAUX ET CULTURELS | Améliorer les conditions de vie des populations | Indicateur du taux de pauvreté | 433 583 463
+PT3 : DROITS CATEGORIELS | Favoriser l’inclusion sociale | Taux d’insertion professionnelle des populations socialement vulnérables | 67 962 539
+PT4 : COOPERATION, PILOTAGE ET SUIVI EVALUATION DU PLAN D’ACTION | Améliorer la coordination des acteurs dans la mise en œuvre des obligations de l’Etat en matière de droits de l’homme | Taux de rapports périodiques de qualité déposés dans les délais | 2 571 000
+Total | 552 156 002
 
+178
 [[END OF PAGE 192]]
 
 [[START OF PAGE 193]]
 
 ## Table des matières
-Avant-propos
 
 [[END OF PAGE 193]]
 
@@ -6957,59 +7481,288 @@ Avant-propos
 [[END OF PAGE 194]]
 
 [[START OF PAGE 195]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-..........................................................................................................................v
+Avant-propos ..........................................................................................................................v
+CARTE ADMINISTRATIVE ....................................................................................................vi
+LISTE DES SIGLES ET DES ABBREVIATIONS...................................................................vii
+Préface ...................................................................................................................................xiii
+INTRODUCTION ....................................................................................................................1
+CONTEXTE D’ELABORATION ET JUSTIFICATION DU PLAN D’ACTION........................3
+AU PLAN NATIONAL..............................................................................................................3
+AU PLAN INTERNATIONAL ...................................................................................................5
+OBJECTIFS DU PLAN D’ACTION ..........................................................................................6
+PROCESSUS D’ELABORATION, DE MISE EN ŒUVRE, ET DE SUIVI-EVALUATION DU
+PLAN D’ACTION......................................................................................................................7
+MISE EN ŒUVRE ET SUIVI-EVALUATION ...........................................................................8
+ARTICULATIONS DU PLAN D’ACTION................................................................................8
+PREMIERE PARTIE : ANALYSE SITUATIONNELLE ..........................................................9
+CHAPITRE 1 : LES DROITS CIVILS ET POLITIQUES ......................................................13
+Section 1 : Le droit à la vie, à l’intégrité physique et morale, et l’interdiction de la torture,
+et autres peines ou traitements cruels, inhumains ou dégradants......................................15
+§1 : Cadre juridique ..............................................................................................................16
+A: Au plan international.........................................................................................................16
+B: Au plan national ................................................................................................................16
+§2: Cadre institutionnel .........................................................................................................16
+§3: Etat des lieux....................................................................................................................17
+A: Acquis et avancées ...........................................................................................................17
+B: Contraintes et difficultés ....................................................................................................17
+§4: Enjeux stratégiques .........................................................................................................17
+§5: Orientations stratégiques................................................................................................17
+A : renforcement des capacités.............................................................................................17
+B : renforcement du cadre juridique.....................................................................................18
+C : Amélioration du cadre institutionnel ...............................................................................18
+Section 2 : Le droit au respect de la vie privée...................................................................18
+§1 : Cadre juridique ..............................................................................................................18
+A : Au Plan international........................................................................................................18
+B : Au Plan national................................................................................................................19
+§2 : Cadre institutionnel ........................................................................................................19
 
 181
-
 [[END OF PAGE 195]]
 
 [[START OF PAGE 196]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-182
+§3: Etat des lieux....................................................................................................................19
+A : Acquis et avancées ..........................................................................................................19
+B : Contraintes et difficultés ..................................................................................................19
+§4: Enjeu stratégique.............................................................................................................20
+§5 : Orientations stratégiques...............................................................................................20
+A : Renforcement des capacités............................................................................................20
+B : Renforcement du cadre juridique....................................................................................20
+C : Renforcement du cadre institutionnel..............................................................................20
+Section 3 : Le droit à la liberté d’expression et d’opinion .................................................20
+§1 : Cadre juridique ..............................................................................................................20
+A : Au plan international........................................................................................................21
+B : Au plan national ..............................................................................................................21
+§2 : Cadre institutionnel ........................................................................................................22
+§3 : Etat des lieux .................................................................................................................22
+A : Acquis et avancées ..........................................................................................................22
+B : Contraintes et difficultés ...................................................................................................22
+§4 : Enjeux stratégiques ........................................................................................................22
+§5 : Orientations stratégiques...............................................................................................23
+Section 4 : Le droit à la liberté de culte ...............................................................................23
+§1 : Cadre juridique ..............................................................................................................23
+A : Au plan international........................................................................................................23
+B : Au plan national ...............................................................................................................24
+§2 : Cadre institutionnel ........................................................................................................24
+§3 : Etat des lieux...................................................................................................................24
+A : Acquis et avancées ..........................................................................................................24
+B : Contraintes et difficultés ...................................................................................................24
+§4 : Enjeux stratégiques ........................................................................................................24
+§5 : Orientations stratégiques...............................................................................................25
+Section 5 : Le droit à un procès équitable...........................................................................25
+§1 : Cadre juridique ..............................................................................................................25
+A : Au plan international ......................................................................................................25
+B : Au plan national ..............................................................................................................26
+§2 : Cadre institutionnel ........................................................................................................27
+§3 : Etat des lieux...................................................................................................................27
 
+182
 [[END OF PAGE 196]]
 
 [[START OF PAGE 197]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-183
+A : Acquis et avancées ..........................................................................................................27
+B : Contraintes et difficultés ...................................................................................................28
+§4 : Enjeu stratégique ...........................................................................................................28
+§5 : Orientations stratégiques...............................................................................................28
+A : L’amélioration de l’accès à la Justice.............................................................................28
+B : Le renforcement des capacités du système judiciaire ..................................................29
+C : L’affirmation de l'indépendance du Pouvoir judiciaire .................................................29
+Section 6 : Le droit à la propriété.........................................................................................29
+§1 : Cadre juridique ..............................................................................................................29
+A : Au plan international........................................................................................................29
+B : Au plan national ..............................................................................................................30
+§2 : Cadre institutionnel ........................................................................................................30
+§3 : Etat des lieux...................................................................................................................31
+A : Acquis et avancées ..........................................................................................................31
+B : Contraintes et difficultés ...................................................................................................31
+§4 : Enjeux stratégiques ........................................................................................................31
+§5 - Orientations stratégiques...............................................................................................31
+Section 7 : Les libertés d’association, de réunion et de manifestation ..............................32
+§1 : Cadre juridique ..............................................................................................................32
+A : Au plan international........................................................................................................32
+B : Au plan national ...............................................................................................................32
+§2 : Cadre institutionnel ........................................................................................................33
+§3: Etat des lieux....................................................................................................................33
+A : Acquis et avancées .........................................................................................................33
+B : Contraintes et difficultés ..................................................................................................33
+§4: Enjeu stratégique.............................................................................................................33
+§5 : Orientations stratégiques...............................................................................................33
+Section 8 : Le droit de prendre part à la gestion des affaires publiques..........................34
+§1 : Cadre juridique ..............................................................................................................34
+A : Au plan international ......................................................................................................34
+B : Au plan national ..............................................................................................................35
+§2 : Cadre institutionnel ........................................................................................................35
+§3 : Etat des lieux...................................................................................................................35
+A : Sur la consolidation du système électoral .....................................................................35
 
+183
 [[END OF PAGE 197]]
 
 [[START OF PAGE 198]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-184
+1 : Acquis et avancées...........................................................................................................35
+2 : Contraintes et difficultés ...................................................................................................36
+B : Sur l’amélioration du processus de décentralisation.....................................................36
+1 : Acquis et avancées...........................................................................................................36
+2: Contraintes et difficultés ....................................................................................................36
+C : Sur l’égalité d’accès à la Fonction publique................................................................37
+1 : Acquis et avancées...........................................................................................................37
+2 : Contraintes et difficultés ...................................................................................................37
+§4 : Enjeux stratégiques .......................................................................................................37
+§5 : Orientations stratégiques...............................................................................................37
+A : Sur la consolidation du système électoral .....................................................................37
+B : Sur l’amélioration du processus de décentralisation....................................................37
+1 : Renforcement du cadre normatif :...................................................................................37
+2 : Développement et renforcement des capacités.............................................................38
+C : Sur l’égalité d’accès à la Fonction publique................................................................38
+CHAPITRE 2 : LES DROITS ECONOMIQUES, SOCIAUX ET CULTURELS ................39
+Section 1: Le droit à la santé.................................................................................................41
+§1 : Cadre juridique ..............................................................................................................41
+A : Au plan international ......................................................................................................41
+B : Au plan national ..............................................................................................................42
+§2 : Cadre institutionnel ........................................................................................................42
+§3 : Etat des lieux...................................................................................................................43
+A : Au plan de la disponibilité ..............................................................................................43
+1 : Acquis et avancées .........................................................................................................43
+2 : Contraintes et difficultés ..................................................................................................43
+B : Au plan de l’accessibilité .................................................................................................43
+1 : Acquis et avancées .........................................................................................................43
+2 : Contraintes et difficultés ..................................................................................................44
+C : Au plan de l’acceptabilité et la qualité des soins de santé..........................................44
+1 : Acquis et avancées...........................................................................................................44
+2 : Contraintes et difficultés ..................................................................................................44
+§ 4 : Enjeu stratégique...........................................................................................................45
+§ 5 : Orientations stratégiques .............................................................................................45
+Section 2 : Le droit à l’éducation..........................................................................................45
 
+184
 [[END OF PAGE 198]]
 
 [[START OF PAGE 199]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-185
+§1 : Cadre juridique ..............................................................................................................45
+A : Au plan international ......................................................................................................45
+B : Au plan national ..............................................................................................................46
+§2 : Cadre institutionnel ........................................................................................................48
+§ 3 : Etat des lieux .................................................................................................................48
+A : Au niveau de l’éducation de base..................................................................................48
+1 : Sur la disponibilité............................................................................................................48
+2: Sur l’accessibilité ...............................................................................................................49
+3 : Sur l’acceptabilité ou l’adaptabilité de l’enseignement primaire et des manuels......49
+B : Au niveau de l’enseignement secondaire ......................................................................50
+1 : Sur la disponibilité............................................................................................................50
+2: Sur l’accessibilité ...............................................................................................................50
+3 : Sur l’acceptabilité ou l’adaptabilité................................................................................50
+C : Au niveau de l’enseignement supérieur et de la formation professionnelle ...............51
+1: Sur la disponibilité .............................................................................................................51
+2: Sur l’accessibilité ...............................................................................................................52
+3 : Sur l’acceptabilité ou l’adaptabilité................................................................................52
+§ 4 : Enjeux stratégiques ......................................................................................................53
+§ 5 : Orientations stratégiques .............................................................................................53
+Section 3 : Le droit à un niveau de vie suffisant ..................................................................53
+Sous-section 1 : Le droit à l’alimentation..............................................................................53
+§1 : Cadre juridique ..............................................................................................................53
+A : Au plan international........................................................................................................54
+B : Au plan national ...............................................................................................................54
+§ 2 : Cadre institutionnel .......................................................................................................56
+§ 3 : Etat des lieux .................................................................................................................56
+A : Sur la disponibilité des denrées alimentaires ................................................................56
+1: Acquis et avancées............................................................................................................56
+2: Contraintes et difficultés ....................................................................................................56
+B : Sur l’accessibilité physique et économique aux denrées alimentaires........................57
+1: Acquis et avancées............................................................................................................57
+2: Contraintes et difficultés ....................................................................................................57
+§ 4 : Enjeux stratégiques .......................................................................................................58
+§ 5 : Orientations stratégiques .............................................................................................58
 
+185
 [[END OF PAGE 199]]
 
 [[START OF PAGE 200]]
-
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
 
-186
+Sous-section 2 : Le droit à l’eau et à l’énergie ....................................................................58
+§ 1 : Cadre juridique.............................................................................................................58
+A : Au plan international........................................................................................................58
+B : Au plan national ...............................................................................................................59
+§ 2 : Cadre institutionnel .......................................................................................................60
+§ 3 : Etat des lieux .................................................................................................................60
+A : Au plan de la disponibilité ..............................................................................................60
+1: Acquis et avancées............................................................................................................60
+2: Contraintes et difficultés ....................................................................................................60
+B : Au plan de l’accessibilité et de l’acceptabilité ..............................................................61
+1: Acquis et avancées............................................................................................................61
+2: Contraintes et difficultés ....................................................................................................61
+§ 4 : Enjeu stratégique ..........................................................................................................61
+§ 5 : Orientation stratégique ...............................................................................................62
+Sous-section 3 : Le droit à un logement décent...................................................................62
+§ 1 : Cadre juridique.............................................................................................................62
+A : Au plan international ......................................................................................................62
+B : Au plan national ..............................................................................................................62
+§ 2 : Cadre institutionnel .......................................................................................................64
+§ 3 : Etat des lieux .................................................................................................................64
+A : Sur la disponibilité............................................................................................................64
+1: Acquis et avancées............................................................................................................64
+2: Contraintes et difficultés ....................................................................................................64
+B : Sur l’accessibilité ..............................................................................................................65
+1: Acquis et avancées............................................................................................................65
+2: Contraintes et difficultés ....................................................................................................65
+§ 4 : Enjeux stratégiques .......................................................................................................65
+§ 5 : Orientations stratégiques .............................................................................................65
+Section 4 : La bonne gouvernance et la lutte contre la corruption ...................................65
+§1: Cadre juridique ...............................................................................................................65
+A : Au plan international........................................................................................................66
+B : Au plan national ..............................................................................................................66
+B : Contraintes et difficultés ...................................................................................................68
+§ 4 : Enjeux stratégiques .......................................................................................................69
 
+186
 [[END OF PAGE 200]]
 
 [[START OF PAGE 201]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+##### § 5 : Orientations stratégiques .............................................................................................69
+#### Section 5 : Le droit au travail et à la sécurité sociale .........................................................69
+##### §1 : Cadre juridique ..............................................................................................................70
+###### A : Au plan international........................................................................................................70
+###### B : Au plan national ...............................................................................................................71
+##### § 2 : Cadre institutionnel .......................................................................................................73
+##### §3 : Etat des lieux...................................................................................................................73
+##### Sous-section 1 : L’accès à l’emploi.......................................................................................73
+###### A : Sur la disponibilité et l’accessibilité................................................................................73
+###### 1: Acquis et avancées............................................................................................................73
+###### 2 : Contraintes et difficultés ...................................................................................................74
+###### B : Sur l’amélioration de la capacité d’employabilité des nationaux...............................74
+###### 1 : Acquis et avancée ............................................................................................................74
+###### 2 : Contraintes et difficultés ...................................................................................................75
+###### 3 : Enjeux stratégiques...........................................................................................................75
+###### 4 : Orientations stratégiques .................................................................................................76
+##### Sous-section 2 : Le droit à un travail décent ........................................................................76
+###### A : Sur la disponibilité............................................................................................................76
+###### 1: Acquis et avancées............................................................................................................76
+###### 2: Contraintes et difficultés ....................................................................................................76
+###### B : Sur l’accessibilité ..............................................................................................................76
+###### 1 : Acquis et avancées...........................................................................................................76
+###### 2: Contraintes et difficultés ....................................................................................................76
+###### C : Sur l’acceptabilité du travail ...........................................................................................77
+###### 1: Acquis et avancées............................................................................................................77
+###### 2: Contraintes et difficultés ...................................................................................................77
+##### Sous- section 3: Entreprise et Droits de l’Homme................................................................78
+###### A : Acquis et avancées ..........................................................................................................78
+###### B : Contraintes et difficultés ...................................................................................................78
+###### C : Enjeux stratégiques ..........................................................................................................79
+###### D : Orientations stratégiques.................................................................................................79
+###### 1 : Amélioration du cadre juridique ....................................................................................79
+###### 2 : Amélioration du cadre institutionnel ...............................................................................79
+###### 3 : Renforcement de la protection sociale des travailleurs ................................................80
 187
 
 [[END OF PAGE 201]]
@@ -7017,7 +7770,39 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 202]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+###### 4 : Protection de la propriété foncière (contentieux lié à l’acquisition des terres par les entreprises nationales et multinationales)...........................................................................80
+###### 5 : Protection de l’environnement .......................................................................................80
+##### Sous-section 4 : Le droit à la sécurité sociale ......................................................................81
+###### A : Acquis et avancées ..........................................................................................................81
+###### B : Contraintes et difficultés ...................................................................................................81
+##### § 4 : Enjeux stratégiques .......................................................................................................81
+##### §5 : Orientations stratégiques...............................................................................................82
+#### Section 6 : Le droit à la culture et aux loisirs.......................................................................82
+##### §1 : Cadre juridique ..............................................................................................................83
+###### A : Au plan international........................................................................................................83
+###### B : Au plan national ..............................................................................................................84
+##### §2 : Cadre institutionnel ........................................................................................................85
+##### §3 : Etat des lieux...................................................................................................................85
+###### A : Acquis et avancées ..........................................................................................................85
+###### B : Contraintes et difficultés ...................................................................................................86
+##### § 4 : Enjeux stratégiques .......................................................................................................87
+##### § 5 : Orientations stratégiques .............................................................................................87
+#### Section 7 : Le droit à un environnement sain.......................................................................88
+##### §1 : Cadre juridique ..............................................................................................................88
+###### A : Au plan international........................................................................................................88
+###### B : Au plan national ..............................................................................................................89
+##### § 2 : Cadre institutionnel .......................................................................................................91
+##### § 3 : Etat des lieux .................................................................................................................91
+###### A : Acquis et avancées ..........................................................................................................91
+###### B : Contraintes et difficultés ...................................................................................................92
+##### § 4: Enjeux stratégiques ........................................................................................................92
+##### §5 : Orientations stratégiques...............................................................................................93
+### CHAPITRE 3 : LES DROITS CATEGORIELS .....................................................................95
+#### Section 1 : Les droits de la femme........................................................................................97
+##### §1 : Cadre juridique ..............................................................................................................97
+###### A : Au plan international........................................................................................................97
+###### B : Au plan national ..............................................................................................................98
+##### §2 : Cadre institutionnel ........................................................................................................99
 188
 
 [[END OF PAGE 202]]
@@ -7025,7 +7810,40 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 203]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+##### §3 : Etat des lieux...................................................................................................................99
+###### A : Acquis et avancées ..........................................................................................................99
+###### B : Contraintes et difficultés.................................................................................................100
+##### § 4: Enjeux stratégiques......................................................................................................100
+##### § 5 : Orientations stratégiques...........................................................................................100
+###### 1: Renforcement des capacités ..........................................................................................100
+###### 2: Renforcement du cadre normatif ...................................................................................101
+###### 3: Renforcement du cadre institutionnel.............................................................................101
+#### Section 2 : Les droits de l’Enfant ........................................................................................101
+##### §1 : Cadre juridique............................................................................................................102
+###### A : Au plan international....................................................................................................102
+###### B : Au plan national ...........................................................................................................102
+##### §2 : Cadre institutionnel......................................................................................................103
+##### §3 : Etat des lieux................................................................................................................103
+###### A : Acquis et avancées .......................................................................................................103
+###### B : Contraintes et difficultés.................................................................................................104
+##### §4 : Enjeux stratégiques .....................................................................................................105
+##### §5 : Orientations stratégiques ............................................................................................105
+###### A : Renforcement des capacités .........................................................................................105
+###### 1 : Sur la prévention de la délinquance des enfants........................................................105
+###### 2 : Sur l’autonomisation des enfants..................................................................................105
+###### 3 : Sur la justice des mineurs ..............................................................................................105
+###### B : Renforcement du cadre normatif ..................................................................................106
+###### C : Renforcement du cadre institutionnel ..........................................................................106
+###### 1 : Sur la prévention de la délinquance des enfants........................................................106
+###### 2 : Sur l’autonomisation des enfants..................................................................................106
+###### 3: Sur la justice juvénile.......................................................................................................106
+###### 4 : Sur la lutte contre la traite et le trafic des enfants .......................................................106
+#### Section 3 : Les droits des personnes vivant avec le VIH ..................................................107
+##### §1 : Cadre juridique............................................................................................................107
+###### A : Au plan international20 ...............................................................................................107
+###### B : Au plan national ............................................................................................................108
+##### §2 : Cadre institutionnel......................................................................................................108
+##### §3 : Etat des lieux................................................................................................................108
 189
 
 [[END OF PAGE 203]]
@@ -7033,7 +7851,38 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 204]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+###### A : Acquis et avancées........................................................................................................109
+###### B : Contraintes et difficultés.................................................................................................109
+##### §4 : Enjeux stratégiques......................................................................................................109
+##### §5 : Orientations stratégiques ...........................................................................................110
+###### 1: Création d’un environnement juridique favorable à la réponse au VIH ..................110
+###### 2: Développement et renforcement des capacités des cibles et des acteurs impliqués dans la protection des droits des PVVIH.....................................................................................110
+#### Section 4 : Les droits des personnes handicapées ...........................................................110
+##### §1 : Cadre juridique............................................................................................................111
+###### A : Au plan international ....................................................................................................111
+###### B : Au plan national.............................................................................................................111
+##### §2 : Cadre institutionnel......................................................................................................113
+##### §3 : L’état des lieux .............................................................................................................113
+###### A : Au niveau de l’évolution du cadre normatif et institutionnel......................................113
+###### 1: Acquis et avancées .........................................................................................................113
+###### 2: Contraintes et difficultés..................................................................................................114
+###### B : Au niveau de l’accès aux édifices publics et des mesures favorisant la mobilité physique .........................................................................................................................114
+###### 1: Acquis et avancée...........................................................................................................114
+###### 2: Contraintes et difficultés..................................................................................................115
+###### C : Au niveau de l’accès à l’éducation et à la santé .......................................................115
+###### 1: Acquis et avancées .........................................................................................................115
+###### 2: Contraintes et difficultés..................................................................................................115
+###### D : Au niveau de l’accès à l’emploi et à la sécurité sociale............................................116
+###### 1: Acquis et avancées .........................................................................................................116
+###### 2: Contraintes et difficultés..................................................................................................116
+###### E : Sur la participation à la gestion des affaires publiques .............................................116
+###### 1: Acquis et avancées .........................................................................................................116
+###### 2: Contraintes et difficultés..................................................................................................117
+###### F : Au niveau de l’accès à la justice...................................................................................117
+###### 1: Acquis et avancées .........................................................................................................117
+###### 2: Contraintes et difficultés..................................................................................................117
+##### § 4 : Enjeux stratégiques.....................................................................................................117
+##### § 5 : Orientations stratégiques...........................................................................................117
 190
 
 [[END OF PAGE 204]]
@@ -7041,7 +7890,40 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 205]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+#### Section 5 : Les droits des personnes âgées.......................................................................118
+##### §1 : Cadre juridique............................................................................................................118
+###### A : Au plan international.....................................................................................................118
+###### B : Au plan national.............................................................................................................119
+##### §2 : Cadre institutionnel......................................................................................................119
+##### §3 : Etat des lieux ...............................................................................................................119
+###### A : Acquis et avancées........................................................................................................120
+###### B : Contraintes et difficultés ................................................................................................120
+##### §4 : Enjeux Stratégiques.....................................................................................................121
+##### §5 : Orientations stratégiques ............................................................................................121
+###### A : Cadre de renforcement des capacités.........................................................................121
+###### B : Cadre normatif ...............................................................................................................121
+###### C : Cadre institutionnel........................................................................................................121
+#### Section 6 : Les droits des populations autochtones..........................................................122
+##### §1 : Cadre juridique............................................................................................................122
+###### A : Au plan international.....................................................................................................122
+###### B : Au plan national ............................................................................................................123
+##### §2 : Cadre institutionnel......................................................................................................123
+##### §3 : Etat des lieux................................................................................................................123
+###### A : Acquis et les avancées ..................................................................................................123
+###### B : Contraintes et les difficultés ...........................................................................................124
+##### §4 : Enjeux stratégiques .....................................................................................................124
+##### §5 : Orientations stratégiques ............................................................................................125
+###### A : Renforcement des capacités .........................................................................................125
+###### B : Renforcement du cadre normatif ..................................................................................125
+#### Section 7: Les droits des personnes détenues...................................................................125
+##### §1 : Cadre juridique............................................................................................................125
+###### A : Au plan international.....................................................................................................126
+###### B : Au plan national ............................................................................................................126
+##### §2 : Cadre institutionnel......................................................................................................126
+##### §3 : Etat des lieux ...............................................................................................................127
+###### A : Acquis et avancées........................................................................................................127
+###### B : Contraintes et difficultés.................................................................................................127
+##### §4 : Enjeux stratégiques......................................................................................................128
 191
 
 [[END OF PAGE 205]]
@@ -7049,7 +7931,39 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 206]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+##### §5 : Orientations stratégiques ............................................................................................128
+###### A : Renforcement des capacités .........................................................................................128
+###### B : Amélioration du cadre normatif....................................................................................128
+###### C : Amélioration du cadre institutionnel.............................................................................128
+###### D. Lutte contre l’impunité.....................................................................................................129
+#### Section 8 : Les droits des personnes réfugiées..................................................................129
+##### §1 : Cadre juridique............................................................................................................129
+###### A : Au plan international.....................................................................................................130
+###### B : Au plan national.............................................................................................................130
+##### §2 : Cadre institutionnel......................................................................................................130
+##### §3 : Etat des lieux ...............................................................................................................131
+###### A : Acquis et avancées........................................................................................................131
+###### B : Contraintes et Difficultés ................................................................................................131
+##### §4 : Enjeux stratégiques......................................................................................................131
+##### §5 : Orientations stratégiques ............................................................................................131
+### CHAPITRE 4 : COOPERATION, PILOTAGE ET SUIVI-EVALUATION .....................133
+#### Section 1: La coopération entre le Cameroun et les mécanismes internationaux de promotion et de protection des Droits de l’Homme ...............................................................135
+##### Sous-Section 1 : La coopération avec les mécanismes conventionnels..........................135
+##### §1 : Cadre juridique............................................................................................................135
+###### A : Au plan international.....................................................................................................135
+###### B : Au plan national.............................................................................................................136
+##### §2 : Cadre institutionnel......................................................................................................136
+##### §3 : Etat des lieux................................................................................................................136
+###### A : L’état de la participation du Cameroun au mécanisme de rapportage ...................136
+###### 1: Acquis et avancées ........................................................................................................136
+###### 2: Contraintes et difficultés..................................................................................................137
+###### B : L’état de la coopération contentieuse ..........................................................................137
+###### 1: Acquis et avancées .........................................................................................................137
+###### 2: Contraintes et difficultés..................................................................................................137
+##### § 4 : Enjeux stratégiques.....................................................................................................137
+##### § 5 : Orientations stratégiques...........................................................................................137
+##### Sous-Section 2 : La coopération avec les mécanismes non conventionnels ..................137
+##### §1 : Cadre juridique............................................................................................................138
 192
 
 [[END OF PAGE 206]]
@@ -7057,15 +7971,42 @@ Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Ca
 [[START OF PAGE 207]]
 
 Plan d'Action National de Promotion et de Protection des Droits de l'Homme au Cameroun ( 2015 - 2019 )
-
+##### §2 : Cadre institutionnel......................................................................................................138
+##### §3 : Etat des lieux................................................................................................................138
+###### A : La coopération avec les titulaires de mandat .............................................................138
+###### 1: Acquis et avancées .........................................................................................................138
+###### 2: Contraintes et difficultés..................................................................................................138
+###### B : La participation au mécanisme de l’Examen Périodique Universel (EPU)................139
+###### 1: Acquis et avancées .........................................................................................................139
+###### 2: Contraintes et difficultés..................................................................................................139
+##### § 4 : Enjeux stratégiques.....................................................................................................139
+##### § 5 : Orientations stratégiques...........................................................................................139
+#### Section 2 : Mécanismes de suivi-évaluation de la mise en œuvre du Plan d’Action ....139
+##### §1 : Le dispositif institutionnel de suivi-évaluation.............................................................140
+###### A- Le Comité de supervision du Plan d’Action ..................................................................140
+###### B- Le Comité technique de suivi-évaluation du Plan d’Action ..........................................140
+##### §2 : La méthodologie et les outils de suivi-évaluation......................................................141
+###### A- La gestion axée sur les résultats.....................................................................................141
+###### B- Le suivi-participatif ..........................................................................................................142
+###### C- Le dispositif statistique.....................................................................................................142
+## DEUXIEME PARTIE............................................................................................................143
+###### Tableau 1 : Présentation des programmes........................................................................145
+###### Tableau 2 : Présentation des actions .................................................................................146
+###### Tableau 3.1 : Déclinaison des actions du Programme Technique 1en activités ...........149
+###### Tableau 3.2 : Déclinaison des actions du Programme Technique 2 en activités ..........155
+###### Tableau 3.3 : Déclinaison des actions du Programme Technique 3 en activités ..........166
+###### Tableau 3.4 : Déclinaison des actions du Programme Technique 4en activités ...........174
+###### Tableau 4.1 : Récapitulatif du coût des actions des programmes ..................................177
+###### Tableau 4.2 : Récapitulatif du coût des programmes ......................................................178
+## TABLE DES MATIERES ......................................................................................................179
 193
 
 [[END OF PAGE 207]]
 
 [[START OF PAGE 208]]
 
-Achevé d'impression
-
-sur les presses  de l'imprimerie de la SOPECAM BP. : 1218 Yaoundé - Cameroun 2015
+Achevé d’impression
+sur les presses de l’imprimerie de la SOPECAM BP. : 1218 Yaoundé - Cameroun
+2015
 
 [[END OF PAGE 208]]
