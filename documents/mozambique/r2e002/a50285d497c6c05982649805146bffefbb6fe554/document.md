@@ -1,12 +1,21 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+Plano Estratégico da Educação
+
+2012-2016
+
+vamos aprender
+
+Construindo competências para o desenvolvimento de Moçambique
+
+República de Moçambique
+Ministério da Educação
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-## Ficha Técnica
+# Ficha Técnica
 
 ©2012 Ministério de Educação, Moçambique
 
@@ -18,9 +27,12 @@ Primeira impressão: 	 2013
 
 Nº de exemplares:
 
-6.000 (1 a  impressão)
+6.000 (1ª impressão)
 
-Ministério da Educação Avenida 24 de Julho n o 167, C.P. 34 Maputo Moçambique
+Ministério da Educação
+Avenida 24 de Julho nº 167, C.P. 34
+Maputo
+Moçambique
 
 www.mined.gov.mz
 
@@ -52,7 +64,42 @@ Académica Lda
 
 [[START OF PAGE 3]]
 
-## Índice
+# Índice
+
+Lista de Quadros vii
+Lista de Gráficos viii
+Lista de Abreviaturas ix
+Prefácio 1
+Resumo 3
+A contextualização do Plano Estratégico da Educação 3
+O racional para as prioridades e enfoques nos próximos anos 3
+Principais implicações para a implementação 6
+O financiamento 7
+1. Contexto 9
+1.1 Educação: factor crucial para o combate à pobreza e para o desenvolvimento do país 9
+1.2 Enquadramento do plano estratégico no Sistema Nacional de Planificação 10
+1.3 Contexto económico e social do país 11
+1.4 Sistema Educativo 12
+1.4.1 Ensino Geral 12
+1.4.2 Ensino Técnico-Profissional 13
+1.4.3 Ensino Superior 14
+1.4.4 Modalidades de Ensino 14
+1.4.5 Administração do Sistema 14
+2. Visão e missão 15
+2.1 Visão de longo prazo 15
+2.2 Missão 16
+2.3 Agendas internacionais e regionais 16
+2.3.1 Educação para Todos 16
+2.3.2 Integração na região 16
+2.3.3 Eficácia da ajuda internacional 17
+2.4 Parcerias 17
+2.4.1 Participação das famílias e comunidades 17
+2.4.2 Diálogo com os parceiros internacionais 18
+2.4.3 Envolvimento da sociedade civil e do sector privado 19
+3. A implementação do Plano Estratégico da Educação e Cultura 2006-2010/11 21
+3.1 Historial 21
+3.2 As estratégias do PEEC 2006-2010/11 22
+3.3 Resultados alcançados 24
 
 iii
 
@@ -60,11 +107,90 @@ iii
 
 [[START OF PAGE 4]]
 
+3.3.1 Um sistema expandido 24
+3.3.2 Um sistema mais equilibrado 25
+3.3.3 Aumento dos recursos humanos e financeiros 26
+3.3.4 Uma população mais educada 28
+3.4 Grandes desafios 29
+3.4.1 Em termos de acesso: crianças e jovens fora do sistema 29
+3.4.2 Em termos de qualidade: preocupação com a eficácia do ensino-aprendizagem 30
+3.4.3 Em termos de desenvolvimento institucional: fraquezas na implementação dos planos 31
+3.5 Apreciação da avaliação do Plano Estratégico 31
+4. Prioridades e enfoques para o sector da Educação (2012-2016) 33
+4.1 Prioridades para os anos 2012-2016 33
+4.2 Ligação com os planos do Governo para o desenvolvimento do País 34
+4.3 Grandes enfoques nos próximos anos 34
+4.3.1 Inclusão e equidade no acesso e retenção 34
+4.3.2 Aprendizagem do aluno 35
+4.3.3 Boa governação 37
+5. Estrutura e Assuntos Transversais 39
+5.1 Uma programação por nível do ensino 39
+5.2 Tratamento de temas transversais 40
+5.2.1 Uma abordagem de integração 40
+5.2.2 Questões de género 41
+5.2.3 Crianças, jovens e adultos com necessidades educativas especiais 42
+5.2.4 Prevenção e mitigação do HIV e SIDA 43
+5.2.5 Ambiente escolar saudável e seguro 44
+5.3 Programas específicos 45
+5.3.1 Produção escolar 45
+5.3.2 Alimentação escolar e nutrição 45
+5.3.3 Desporto Escolar 46
+5.4 Áreas programáticas 46
+5.4.1 Formação, capacitação e motivação do professor 46
+5.4.2 Tecnologias de Informação e Comunicação (TIC) 47
+5.4.3 Educação Aberta e à Distância (EAD) 49
+6. Programas Sectoriais 51
+6.1 Ensino (Pré) Primário 53
+6.1.1 Visão 53
+6.1.2 Estágio actual 54
+6.1.3 Prioridades para os próximos anos 59
+
 iv
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+6.1.4 Enfoque especial: Desenvolvimento da Primeira Infância 59
+6.1.5 Estratégias principais do Ensino Primário 61
+6.1.6 Acções prioritárias 64
+6.2 Alfabetização e Educação de Adultos 69
+6.2.1 Visão 69
+6.2.2 Estágio actual 70
+6.2.3 Prioridades para os próximos anos 71
+6.2.4 Estratégias principais 72
+6.2.5 Acções prioritárias 73
+6.3 Ensino Secundário Geral 75
+6.3.1 Visão 75
+6.3.2 Estágio actual 76
+6.3.3 Prioridades para os próximos anos 79
+6.3.4 Estratégias principais 80
+6.3.5 Acções prioritárias 81
+6.4 Ensino Técnico-Profissional 85
+6.4.1 Visão 85
+6.4.2 Estágio actual 86
+6.4.3 Prioridades para os próximos anos 88
+6.4.4 Estratégias principais 89
+6.4.5 Acções prioritárias 90
+6.5 Ensino Superior 93
+6.5.1 Visão 93
+6.5.2 Estágio actual 93
+6.5.3 Prioridades para os próximos anos 95
+6.5.4 Estratégias principais 95
+6.5.5 Acções prioritárias 97
+6.6 Desenvolvimento Administrativo e Institucional 101
+6.6.1 Visão 101
+6.6.2 Estágio actual 101
+6.6.3 Prioridades para os próximos anos 102
+6.6.4 Estratégias principais 103
+6.6.5 Acções prioritárias 105
+7. Arranjo institucional da implementação 109
+7.1 Plano e orçamento anual 109
+7.2 Mandato do sector da educação 110
+7.2.1 O Ministério de Educação (MINED) 110
+7.2.2 Órgãos locais 111
+7.3 Modalidades de financiamento 112
+7.3.1 Fonte interna 113
 
 v
 
@@ -72,13 +198,62 @@ v
 
 [[START OF PAGE 6]]
 
+7.3.2 Fonte externa 113
+7.3.3 Receitas próprias (monetárias ou em espécie) 113
+7.3.4 Contribuição do sector privado 114
+7.4 Monitoria e avaliação 114
+7.4.1 Acompanhamento e supervisão da implementação das intervenções do sector 114
+7.4.2 Monitoria e avaliação do desempenho do sector 115
+7.4.3 Envolvimento dos níveis subnacionais 116
+7.4.4 Monitoria da implementação do Memorando de Entendimento do FASE 116
+7.5 Plano de acção de combate à corrupção 117
+7.6 Estratégia de comunicação e informação 118
+8. Custos da implementação 119
+8.1 Modelo de custeamento 119
+8.2 Previsões financeiras de médio-prazo 119
+8.3 Pressupostos 121
+8.3.1 Os efectivos 121
+8.3.2 Custos unitários das acções prioritárias do sector 123
+8.4 Despesa prevista por programa sectorial e tipo de despesa 126
+9. Pressupostos, oportunidades e riscos 129
+9.1 Pressupostos 129
+9.2 Oportunidades 129
+9.3 Riscos 130
+Documentação 132
+Anexo 1: Matriz Estratégica 135
+Ensino (Pré-) Primário 136
+Alfabetização e Educação de Adultos 137
+Ensino Secundário Geral 138
+Ensino Técnico Profissional 139
+Ensino Superior 140
+Desenvolvimento Administrativo e Institucional 141
+
 vi
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-## Lista de Quadros
+# Lista de Quadros
+
+Quadro 1: Instrumentos políticos, estratégicos e operacionais de Planificação, Orçamentação e Monitoria 10
+Quadro 2: Rede escolar por nível de ensino leccionado, 2004, 2007 e 2011 (ensinos público, privado e comunitário) 24
+Quadro 3: Número de alunos e percentagem de raparigas por nível de ensino, 2004, 2007 e 2011 (turnos diurno e nocturno, ensinos público, comunitário e privado) 25
+Quadro 4: Evolução do número de novos professores recrutados e do rácio alunos-professor 2006-2011 (Ensino Primário público) 27
+Quadro 5: Total de professores e percentagem de professoras no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário) 27
+Quadro 6: Total de professores e percentagem de professores sem formação pedagógica no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário) 27
+Quadro 7: Evolução do número de graduados, por nível de ensino e sexo, 2004-2010 (turnos diurno e nocturno, ensinos público, comunitário e privado) 29
+Quadro 8: Taxas de escolarização por sexo e grupo etário, 2007-2011 (turnos diurno e nocturno, ensinos público, comunitário e privado) 29
+Quadro 9: Programas sectoriais, objectivos estratégicos e acções prioritárias 40
+Quadro 10: Objectivos, indicadores e metas gerais do sector para os anos 2012-2016, por programa sectorial 51
+Quadro 11: Previsões financeiras para o período 2012-2016, baseadas na execução de 2010 e no orçamento para 2011 (em milhões de MT, 2010) 120
+Quadro 12: Indicadores principais com impacto directo nos efectivos no sistema (alunos e professores) 121
+Quadro 13: Taxas brutas de escolarização, 2010 (valores observados e projecções por cenário) 123
+Quadro 14: Determinantes dos custos das intervenções principais do sector 124
+Quadro 15: Custos previstos por nível de ensino e para as principais intervenções do sector (valores em milhões de MT, 2010) 126
+Quadro 16: Custo por aluno por nível de ensino (em Meticais) 127
+Quadro 17: Rácio do custo por aluno por níveis de ensino, por referência ao custo por aluno no EP1 (Ep1 = 1) 127
+Quadro 18: Efectivos (alunos e professores), 2004, 2010 e projecções para 2016 (por cenário) 128
 
 vii
 
@@ -86,7 +261,19 @@ vii
 
 [[START OF PAGE 8]]
 
-## Lista de Gráficos
+# Lista de Gráficos
+
+Gráfico 1: Evolução do Sistema Educativo, 1974/5 – 2011, Ensino Primário público, (turnos diurno e nocturno) 22
+Gráfico 2: Evolução da percentagem de meninas frequentando o Ensino Primário e Secundário (1º e 2º ciclos), 2004-2011 (turno diurno, ensino público, privado e comunitário) 26
+Gráfico 3: Percentagem de meninas no Ensino Primário, 2004 e 2011 (turnos diurno e nocturno, ensinos público, privado e comunitário) 26
+Gráfico 4: Evolução do orçamento e sua execução no sector da Educação, 2005-2010 28
+Gráfico 5: Crianças com 6 e 7 anos na 1ª classe, 2007 e 2011, e taxas de escolarização aos 6 e 7 anos, 2011 (ensinos público, privado e comunitário) 55
+Gráfico 6: Número de alunos na 1ª classe (total e com 9 anos e mais), e percentagem dos alunos com 9 anos e mais, 2011 (ensinos público, comunitário, privado) 56
+Gráfico 7: Taxas de desistência na 2ª, 5ª e 7ª classes, 2007 e 2011 (ensinos público, comunitário, privado, turnos diurno e nocturno) 57
+Gráfico 8: Resultados dos testes de leitura: médias e percentagem (SACMEQ III) 57
+Gráfico 9: Número de professores no ESG1 e no ESG2 e percentagem de professores com formação pedagógica adequada, 2004–2011 (turno diurno, ensino público) 76
+Gráfico 10: Graduados no ESG1 e ESG2 e taxas de aproveitamento, por turnos, 2004-2010 (ensino público) 77
+Gráfico 11: Número de alunos no ESG 1 e 2 e rácios de alunos por turma, 2004-2011 (turno diurno, ensino público) 78
 
 viii
 
@@ -94,7 +281,7 @@ viii
 
 [[START OF PAGE 9]]
 
-## Lista de Abreviaturas
+# Lista de Abreviaturas
 
 %M
 
@@ -295,7 +482,7 @@ Instituto Nacional de Emprego e Formação Profissional
 
 INSIDA
 
-Inquérito Nacional de Prevalência, Riscos Comportamentais e Infor- mação sobre o HIV e SIDA
+Inquérito Nacional de Prevalência, Riscos Comportamentais e Informação sobre o HIV e SIDA
 
 IOF
 
@@ -303,7 +490,7 @@ Inquérito ao Orçamento Familiar
 
 KFW
 
-Kreditanstaltfür Wiederaufbau / Banco Alemão para o Desenvolvi- mento
+Kreditanstalt für Wiederaufbau / Banco Alemão para o Desenvolvimento
 
 M
 
@@ -454,8 +641,8 @@ SDEJTs | Serviços Distritais de Educação, Juventude e Tecnologia
 SIDA | Síndroma de Imunodeficiência Adquirida
 SIGEDAP | Sistema de Gestão de Desempenho da Administração Pública
 SIGE | Sistema Integrado de Gestão para Educação
-SINAQES | Sistema Nacional de Avaliação, Acreditação e Garantia de Qualida- de do Ensino Superior
-SNATCA | Sistema Nacional de Acumulação e Transferência de Créditos Aca- démicos
+SINAQES | Sistema Nacional de Avaliação, Acreditação e Garantia de Qualidade do Ensino Superior
+SNATCA | Sistema Nacional de Acumulação e Transferência de Créditos Académicos
 SNE | Sistema Nacional de Educação
 SWAp | Sector Wide Approach / Abordagem Sectorial
 TARV | Tratamento Anti-Retroviral
@@ -464,7 +651,7 @@ TICs | Tecnologias de Informação e Comunicação
 UGB | Unidade de Gestão Beneficiária
 UGE | Unidade de Gestão Executora
 UNESCO | United Nations Educational, Scientific and Cultural Organization/ Organização das Nações Unidas para a Educação, Ciência e Cultura
-UNICEF | United Nations Children's Fund Fundo das Nações Unidas para a Criança
+UNICEF | United Nations Children’s Fund Fundo das Nações Unidas para a Criança
 
 xii
 
@@ -492,7 +679,7 @@ xiii
 
 [[START OF PAGE 15]]
 
-## Prefácio
+# Prefácio
 
 O retorno socioeconómico da educação para o indivíduo, para as famílias e a nação em geral tem estado nas agendas políticas de desenvolvimento nacional e internacional, e motiva os pais e as famílias a enviar os seus filhos para a escola. A Educação é, por excelência, um instrumento crucial para o combate à pobreza, uma vida mais saudável, para sustentar o crescimento económico, bem como para reforçar a democracia e a participação de todos os cidadãos nas agendas nacionais.
 
@@ -508,7 +695,7 @@ A jusante, a preocupação do sector reside na necessidade do aprimoramento da l
 
 Vamos Aprender
 
-Prefácio Vamos Aprender Prefácio Com base no diagnóstico assente numa auto-avaliação sectorial e na avaliação externa e independente, e tendo em conta as prioridades do Governo bem como a visão estratégica de longo prazo, foi elaborado o presente Plano Estratégico da Educação para o período 2012-2016, que tenho a honra de prefaciar.
+Prefácio
 
 Prefácio |1
 
@@ -516,7 +703,13 @@ Prefácio |1
 
 [[START OF PAGE 16]]
 
-O novo Plano Estratégico 2012-2016 privilegia a continuação da expansão do Sistema Educativo, explorando várias modalidades de ensino, incluindo o ensino à distância, beneficiando do potencial das novas tecnologias, e dentro dos limites que permitam assegurar a qualidade dos serviços educativos prestados. Neste contexto, uma atenção particular é dada ao desenvolvimento da primeira infância,  que  é  crucial  para  o  sucesso  académico  e  social  das  nossas  crianças,  e  ao desenvolvimento de competências com vista a garantir a formação de capital humano qualificado necessário ao aumento da produção e da produtividade e inovar a produção de bens e serviços.
+Vamos Aprender
+
+Prefácio
+
+Com base no diagnóstico assente numa auto-avaliação sectorial e na avaliação externa e independente, e tendo em conta as prioridades do Governo bem como a visão estratégica de longo prazo, foi elaborado o presente Plano Estratégico da Educação para o período 2012-2016, que tenho a honra de prefaciar.
+
+O novo Plano Estratégico 2012-2016 privilegia a continuação da expansão do Sistema Educativo, explorando várias modalidades de ensino, incluindo o ensino à distância, beneficiando do potencial das novas tecnologias, e dentro dos limites que permitam assegurar a qualidade dos serviços educativos prestados. Neste contexto, uma atenção particular é dada ao desenvolvimento da primeira infância, que é crucial para o sucesso académico e social das nossas crianças, e ao desenvolvimento de competências com vista a garantir a formação de capital humano qualificado necessário ao aumento da produção e da produtividade e inovar a produção de bens e serviços.
 
 A elaboração do presente Plano Estratégico, foi caracterizada por um processo participativo, no qual alunos, professores, pais e encarregados de educação, organizações da sociedade civil, confissões religiosas, técnicos, quadros de diferentes Ministérios e parceiros de cooperação apresentaram preciosas contribuições, tendo juntos alcançado consensos em torno de certas matérias.
 
@@ -534,25 +727,25 @@ Ministro da Educação
 
 [[START OF PAGE 17]]
 
-## Resumo
+# Resumo
 
-### A contextualização do Plano Estratégico da Educação
+## A contextualização do Plano Estratégico da Educação
 
-#### A visão e missão
+### A visão e missão
 
 O presente Plano Estratégico define os objectivos, prioridades e as estratégias principais para o desenvolvimento do sector da Educação nos próximos cinco anos a partir da visão de longo prazo que promove a educação como um direito humano e um instrumento eficaz para a afirmação e integração do indivíduo na vida social, económica e política, indispensável para o desenvolvimento do país e para o combate à pobreza.
 
 O Plano guiará a programação, o financiamento e a monitoria das intervenções chaves do sector nos anos 2012-2016, virado para o a construção de um sistema educativo justo, inclusivo, eficaz e eficiente onde os alunos adquirem os conhecimentos, atitudes e habilidades, desenvolvendo as competências requeridas para realizar a visão de longo prazo.
 
-#### O processo da sua elaboração
+### O processo da sua elaboração
 
 A elaboração do Plano Estratégico iniciou em Março de 2010. Desde então, tiveram lugar várias reflexões e consultas, internas e externas, aos diversos níveis do sector. As consultas abarcaram igualmente os parceiros da sociedade civil bem como os parceiros de cooperação internacional. A elaboração do Plano beneficiou ainda dos comentários de outros ministérios e indivíduos interessados. Foi realizada uma avaliação independente da implementação do Plano Estratégico de Educação e Cultura (PEEC) 2006-2010/11 e foram realizadas outras análises sobre a situação actual do sector em termos de progressos feitos e dos grandes desafios para um melhor desempenho no futuro.
 
 O Documento de Fundo para solicitar financiamento adicional ao Fundo Catalítico da Iniciativa Acelerada de Educação para Todos, EFA FTI 1 (Setembro, 2010), foi a primeira versão deste plano. A sua apresentação ao nível de parceria internacional resultou num financiamento adicional de 161 milhões 2 de dólares americanos para a sua implementação.
 
-### O racional para as prioridades e enfoques nos próximos anos
+## O racional para as prioridades e enfoques nos próximos anos
 
-#### Educação: instrumento para o desenvolvimento do País
+### Educação: instrumento para o desenvolvimento do País
 
 O aumento da oferta de uma educação de qualidade para todos é uma das estratégias principais do Governo para o desenvolvimento do País e para a redução da pobreza.
 
@@ -564,7 +757,7 @@ Vamos Aprender
 
 Prefácio
 
-Resumo Evidências  dos  estudos  internacionais, apesar  de  nem  todos  serem  relevantes para o contexto moçambicano , comprovam os vários benefícios do aumento da escolarização para o indivíduo e para a sociedade em geral. É estimado que um ano adicional de escolarização da população pode resultar no retorno de cerca 10% em termos do PIB 3 . Uma melhor educação das mães explica em 50% a redução das taxas de mortalidade das crianças menores de cinco anos 4 . A educação da mãe é um factor importante para o sucesso escolar dos seus filhos.
+Resumo
 
 Resumo |3
 
@@ -578,21 +771,23 @@ Prefácio
 
 Vamos Aprender
 
-Relativamente a Moçambique, o estudo conduzido pelo Banco Mundial 5  comparando os níveis de renda e riqueza entre 2003 e 2008, mostrou que a educação é chave para a redução da dependência da família da produção agrícola e para o aumento do nível de renda 6 . O impacto é mais significativo e directo para as pessoas que têm concluído o Ensino Primário do que para os outros níveis de ensino.
+Evidências dos estudos internacionais, apesar de nem todos serem relevantes para o contexto moçambicano, comprovam os vários benefícios do aumento da escolarização para o indivíduo e para a sociedade em geral. É estimado que um ano adicional de escolarização da população pode resultar no retorno de cerca 10% em termos do PIB 3. Uma melhor educação das mães explica em 50% a redução das taxas de mortalidade das crianças menores de cinco anos 4. A educação da mãe é um factor importante para o sucesso escolar dos seus filhos.
+
+Relativamente a Moçambique, o estudo conduzido pelo Banco Mundial 5 comparando os níveis de renda e riqueza entre 2003 e 2008, mostrou que a educação é chave para a redução da dependência da família da produção agrícola e para o aumento do nível de renda 6. O impacto é mais significativo e directo para as pessoas que têm concluído o Ensino Primário do que para os outros níveis de ensino.
 
 Esta ligação positiva entre a escolarização e o desenvolvimento económico e social, justifica o compromisso internacional e nacional para atingir os Objectivos de Milénio e, sobretudo, para com o objectivo de universalização do Ensino Primário.
 
-#### O estágio actual do sector
+### O estágio actual do sector
 
 Nos últimos anos, o sector da Educação registou grandes progressos, particularmente no concernente ao aumento da oferta da educação. Mais crianças ingressaram  anualmente  nas  escolas;  mais  crianças  progrediram  anualmente  de  um nível para outro. Destacou-se a expansão do Ensino Secundário e a redução das disparidades geográficas e de género.
 
 Permanecem, contudo, grandes desafios para o futuro, principalmente quanto à capacidade de proporcionar um efectivo ensino inclusivo, através da retenção dos alunos no sistema e a sua progressão para o nível seguinte, bem como no que tange à melhoria da qualidade da educação, virada para um melhor desempenho dos alunos em todos os níveis de ensino em termos do seu aproveitamento e desenvolvimento das competências requeridas.
 
-#### Os grandes constrangimentos
+### Os grandes constrangimentos
 
 A manutenção e a melhoria do sistema educativo, ainda em fase de crescimento, anualmente precisa de mais recursos humanos e financeiros. Devido à crise económica, é previsível um crescimento do volume de recursos inferior às necessidades. Isto implica priorizar as intervenções e melhorar a eficiência na utilização dos recursos disponíveis.
 
-Para assegurar uma implementação eficiente e eficaz, há necessidade ainda de continuar a elevar a capacidade do sector com quadros cada vez mais qualificados e motivados para a gestão dos processos de mudança e para assegurar a consolidação das reformas iniciadas ao nível do sector da educação e do sector público na sua generalidade.
+Para assegurar uma implementação eficiente e eficaz, há necessidade ainda de continuar a elevar a capacidade do sector com quadros cada vez mais qualificados
 
 > 3 'The Role of Education Quality in Economic Growth' Eric A. Hanushek and Ludger Wößmann, World Bank Policy Research Working Paper 4122, February 2007.
 
@@ -608,7 +803,9 @@ Para assegurar uma implementação eficiente e eficaz, há necessidade ainda de 
 
 [[START OF PAGE 19]]
 
-#### As prioridades para os próximos anos
+e motivados para a gestão dos processos de mudança e para assegurar a consolidação das reformas iniciadas ao nível do sector da educação e do sector público na sua generalidade.
+
+### As prioridades para os próximos anos
 
 A análise dos grandes desafios enfrentados resultou na formulação dos seguintes objectivos principais do sector da educação para o período 2012-2016:
 
@@ -626,7 +823,7 @@ Ao mesmo tempo, a necessidade de ter uma visão holística do desenvolvimento do
 
 O compromisso do sector para preparar os alunos para  a  vida  laboral  realizar-se-á  através  i)  do  aumento dos graduados do Ensino Secundário Geral com competências gerais e profissionalizantes para facilitar a sua transição para a vida adulta e laboral; ii)  da  expansão  do  Ensino  Técnico-Profissional  de qualidade, baseado em competências necessárias e requeridas pelo mercado de trabalho, com enfoque nos sectores prioritários e nas indústrias emergentes; e iii) da criação de oportunidades de formação e  capacitação  profissionais  de  curta  duração,  respondendo melhor e de forma mais rápida às necessidades de ter uma mão-de-obra qualificada.
 
-Ao mesmo tempo, a expansão dos programas de alfabetização e educação nãoformal, concentrados na aquisição de habilidades para a vida, deverá contribuir para a redução do analfabetismo, e ao mesmo tempo, reforçando a capacidade dos alfabetizados de intervirem activamente no percurso da sua vida pessoal e da sua família.
+Ao mesmo tempo, a expansão dos programas de alfabetização e educação não-formal, concentrados na aquisição de habilidades para a vida, deverá contribuir para a redução do analfabetismo, e ao mesmo tempo, reforçando a capacidade dos alfabetizados de intervirem activamente no percurso da sua vida pessoal e da sua família.
 
 Vamos Aprender
 
@@ -648,9 +845,9 @@ Resumo
 
 A consolidação das reformas iniciadas no Ensino Superior deverá assegurar, entre outros, o fortalecimento da capacidade intelectual, científica, tecnológica e cultural necessária para o desenvolvimento sócio-económico do País.
 
-### Principais implicações para a implementação
+## Principais implicações para a implementação
 
-#### Assegurar a inclusão e equidade no acesso e retenção na escola
+### Assegurar a inclusão e equidade no acesso e retenção na escola
 
 A expansão do sistema será realizada através da rentabilização dos progressos feitos ao longo dos últimos anos significando o aumento do número de graduados através de uma maior eficiência interna das instituições, da diversificação das modalidades de ensino beneficiando das oportunidades oferecidas pelas novas tecnologias e da expansão da provisão de educação pelo sector privado.
 
@@ -658,7 +855,7 @@ Para evitar a exclusão dos alunos por razões de género, necessidades educativ
 
 Motivando ainda a equidade e a inclusão, o Plano Estratégico promove a integração nos programas existentes de intervenções específicas viradas para as áreas transversais como sendo, entre outras, HIV e SIDA, género, necessidades educativas especiais e a construção de escolas saudáveis e seguras, bem como a produção escolar e o desporto escolar. Neste contexto, a produção escolar assumirá um papel importante, como complemento na educação dos jovens e no aumento da diversidade da dieta alimentar dos centros internatos e lares.
 
-#### Melhorar a aprendizagem dos alunos
+### Melhorar a aprendizagem dos alunos
 
 A melhoria do desempenho do aluno resulta de um processo multidimensional e complexo virado para melhorar a qualidade da educação.
 
@@ -666,7 +863,7 @@ O aumento dos recursos financeiros, materiais e humanos, beneficiando directamen
 
 Para além do aumento dos recursos financeiros, é crucial ter professores melhor preparados, motivados e apoiados para assegurar a aprendizagem dos seus alunos. Isto implica investimentos na melhoria da sua formação, na elaboração dos instrumentos para uma avaliação contínua da aprendizagem do aluno, e em incentivos que motivem um melhor desempenho.
 
-Para que o aumento de recursos financeiros, bem como humanos, tenha  o  impacto  desejável  no  desempenho  do  aluno,  o  enfoque  será  na gestão escolar, entre outros, através de uma maior atenção à selecção, colocação e capacitação dos gestores escolares, bem como a supervisão e monitoria do funcionamento das escolas, e a capacitação dos Conselhos de Escola na gestão e prestação de contas.
+Para que o aumento de recursos financeiros, bem como humanos, tenha o impacto desejável no desempenho do aluno, o enfoque será na
 
 6| Resumo
 
@@ -674,9 +871,11 @@ Para que o aumento de recursos financeiros, bem como humanos, tenha  o  impacto 
 
 [[START OF PAGE 21]]
 
+gestão escolar, entre outros, através de uma maior atenção à selecção, colocação e capacitação dos gestores escolares, bem como a supervisão e monitoria do funcionamento das escolas, e a capacitação dos Conselhos de Escola na gestão e prestação de contas.
+
 Considerando a importância dos primeiros anos para o desenvolvimento de uma criança e o seu sucesso escolar, uma atenção especial é dada ao desenvolvimento da criança na idade pré-escolar. Em estreita colaboração com o MMAS e outros ministérios relevantes serão preparadas as condições para a expansão de oportunidades de educação pré-escolar.
 
-#### Boa governação
+### Boa governação
 
 O desenvolvimento dos recursos humanos do sector é chave para uma boa governação do sistema educativo, promovido através de uma gestão integrada do pessoal docente e não docente em termos de recrutamento, selecção, contratação, progressão e avaliação, bem como na sua formação, capacitação, motivação e retenção. Ao mesmo tempo, é crucial a responsabilização de todos os envolvidos pelo seu próprio desempenho e pelo desempenho do sector como um todo.
 
@@ -684,7 +883,7 @@ Isto implica melhorar o controlo interno, reforçar a supervisão e a inspecçã
 
 Mais de metade do orçamento será descentralizado para os distritos que têm uma importante  responsabilidade  na  implementação  do  plano.  Isto  requererá  uma atenção particular ao desenvolvimento institucional e dos recursos humanos ao nível dos distritos, particularmente nos processos de Planificação, Orçamentação, Execução, Monitoria e Avaliação (POEMA).
 
-### O financiamento
+## O financiamento
 
 O nível de ambição em termos de resultados a atingir (metas) depende, em grande parte, dos recursos disponíveis nos próximos anos. O plano apresenta dois cenários baseados nas previsões financeiras conhecidas para os próximos anos e prioriza as actividades viradas para a provisão de um ensino primário de qualidade para todos. O segundo cenário é um pouco mais ambicioso, prevendo a disponibilização de mais recursos, facilitando uma aceleração na expansão do ensino pós-primário.
 
@@ -710,9 +909,9 @@ Resumo |7
 
 [[START OF PAGE 23]]
 
-## 1.	 Contexto
+# 1.	 Contexto
 
-### 1.1.	 Educação: factor crucial para o combate à pobreza e para o desenvolvimento do país
+## 1.1.	 Educação: factor crucial para o combate à pobreza e para o desenvolvimento do país
 
 Desde a independência, o Governo da República de Moçambique encara a Educação como um direito fundamental de cada cidadão, um instrumento para a afirmação e a integração do indivíduo na vida social, económica e política, um factor indispensável para a continuação da construção de uma sociedade moçambicana e para o combate à pobreza.
 
@@ -724,7 +923,7 @@ O governo continua a priorizar, nos seus planos nacionais de desenvolvimento, o 
 
 > 7 É referida a definição de Jomtiem (1990): uma educação básica é a fundação que fornece as competências necessárias para que o indivíduo se possa desenvolver e participar no desenvolvimento do seu país. Aquilo que define uma educação básica depende das especificidades de cada país e pode mudar com o tempo. No caso de Moçambique, a educação básica compreende a alfabetização e o Ensino Primário de sete anos.
 
-> 8 Fonte: Pobreza e Bem-estar em Moçambique: Terceira Avaliação Nacional - MPD/DNEAP, Setembro, 2010.
+> 8 Fonte: Pobreza e Bem-estar em Moçambique: Terceira Avaliação Nacional – MPD/DNEAP, Setembro, 2010.
 
 Vamos Aprender
 
@@ -748,7 +947,7 @@ Vamos Aprender
 
 Contexto
 
-### 1.2. Enquadramento do plano estratégico no Sistema Nacional de Planificação
+## 1.2. Enquadramento do plano estratégico no Sistema Nacional de Planificação
 
 O Plano Estratégico do sector da Educação concretiza a visão do Governo para o desenvolvimento do sector da educação em objectivos e estratégias implementáveis num determinado período de tempo.
 
@@ -786,7 +985,7 @@ O Plano integra e assume as estratégias subsectoriais e os programas específic
 
 O Plano contém, em anexo, a matriz estratégica de indicadores e a matriz operacional. O plano fornece um guia para a preparação dos planos e orçamentos anuais (PES, OE, PdA). Constitui, ainda, um instrumento-chave para as negociações sobre a alocação dos recursos (internos e externos) necessários e fornece um quadro para o acompanhamento e monitoria da sua implementação.
 
-### 1.3.	 Contexto económico e social do país
+## 1.3.	 Contexto económico e social do país
 
 Com uma população de 20,6 milhões em 2007, Moçambique tem 11 províncias com uma grande diversidade sociocultural, linguística e geográfica. Existem 18 línguas nacionais e muitos mais dialectos. Aproximadamente 70% da população vive na zona rural. Na capital do país, a Cidade de Maputo, vive cerca de 5,3% da população. Nas duas províncias mais populosas, Nampula e Zambézia, vive quase 40% da população. Segundo o Censo de 2007, mais de metade da população (51,8%) é do sexo feminino, variando de 55% nas províncias de Gaza e de Inhambane a 50,5% nas províncias de Nampula e Niassa. O crescimento anual da população é de 2,6%.
 
@@ -822,7 +1021,7 @@ Apesar do crescimento económico, 54% da população ainda vive abaixo da linha 
 
 Ademais, os indicadores de nutrição para crianças com menos de cinco anos de idade mostram pouco progresso a nível nacional, aparentemente sem grande correlação com o nível de pobreza e de consumo da família.
 
-### 1.4.	 Sistema Educativo
+## 1.4.	 Sistema Educativo
 
 A lei do Sistema Nacional de Educação (SNE), de 1992 11 , define o Sistema Educativo actual em 3 subsistemas: ensino pré-escolar, ensino escolar e ensino extra-escolar.
 
@@ -832,9 +1031,9 @@ O ensino escolar compreende i) o Ensino Geral, ii) o Ensino Técnico-Profissiona
 
 O ensino extra-escolar engloba actividades de alfabetização e de aperfeiçoamento e actualização cultural e científica realizadas fora do sistema regular do ensino.
 
-#### 1.4.1 Ensino Geral
+### 1.4.1 Ensino Geral
 
-##### Ensino Primário
+#### Ensino Primário
 
 O Ensino Primário público é gratuito e está dividido em dois graus: o Ensino Primário do 1º grau (EP1, da 1ª à 5ª classe) e o Ensino Primário do 2º grau (EP2, 6ª e 7ª classes). Com a introdução do novo currículo em 2004, este ensino foi estruturado em 3 ciclos de aprendizagem numa perspectiva de oferecer um ensino básico de sete anos para todos: o 1º ciclo (1ª e 2ª classes), o 2º ciclo (3ª à 5ª classe) e o 3º ciclo (6ª e 7ª classes). A idade oficial de ingresso na 1ª classe é de seis anos, completados no ano de ingresso.
 
@@ -854,13 +1053,13 @@ As escolas primárias funcionam normalmente em dois turnos de 6 tempos lectivos 
 
 Depois de concluir o Ensino Primário, os alunos podem continuar os seus estudos no Ensino Secundário Geral ou no Ensino Técnico-Profissional de nível básico.
 
-##### Ensino Secundário Geral
+#### Ensino Secundário Geral
 
 O Ensino Secundário Geral tem dois ciclos: o primeiro compreende a 8ª, 9ª e 10ª classes. Depois de completar este nível de ensino, o aluno pode continuar os seus estudos no segundo ciclo do ensino geral (11ª e 12ª classes) que antecede a entrada no Ensino Superior.
 
 O Ensino Secundário Geral não é gratuito, havendo cobrança de propinas. Não há exames de admissão. Para responder à grande procura de lugares no Ensino Secundário, este nível de ensino opera com turnos nocturnos, principalmente para os alunos mais velhos (com mais de 15 anos). Além disso, estão a surgir muitas escolas  privadas  neste  nível  de  ensino,  particularmente  nas  cidades.  Em  2011, estas escolas privadas eram frequentadas por 10% do total de alunos do Ensino Secundário. Recentemente, o MINED introduziu um programa de Ensino Secundário Geral à distância cuja cobertura é ainda limitada.
 
-#### 1.4.2 Ensino Técnico-Profissional
+### 1.4.2 Ensino Técnico-Profissional
 
 O Ensino Técnico-Profissional estrutura-se neste momento em dois níveis: o nível básico 12 e o nível médio, ambos com a duração de três anos, e é organizado por ramos: comercial, industrial e agrícola.
 
@@ -892,7 +1091,7 @@ Vamos Aprender
 
 Contexto
 
-#### 1.4.3 Ensino Superior
+### 1.4.3 Ensino Superior
 
 O Ensino Superior inclui as universidades, escolas e institutos superiores públicos e privados bem como as Academias. Para ingressar no Ensino Superior, os alunos têm que concluir a 12ª classe do Ensino Secundário Geral ou o equivalente do Ensino Técnico-Profissional e aprovar num exame de admissão. Para evitar a exclusão para as classes com menor rendimento económico existe um sistema de bolsas.
 
@@ -900,13 +1099,13 @@ As instituições do Ensino Superior gozam de autonomia científica, pedagógica
 
 Está em processo um alinhamento do currículo, graus e diplomas com os padrões internacionais como definido no contexto do acordo de Bolonha.
 
-#### 1.4.4 Modalidades de Ensino
+### 1.4.4 Modalidades de Ensino
 
 Para além do Ensino geral, Ensino Técnico-Profissional e Ensino Superior, a Lei 6/92 considera o Ensino Especial, o Ensino Vocacional, o Ensino de Adultos, o Ensino à Distância e a Formação dos Professores como modalidades especiais que, sendo parte integrante do ensino escolar, regem-se por disposições especiais e podem envolver outros ministérios (por exemplo o MMAS, no caso de Ensino Especial).
 
 A formação de professores para os diferentes níveis de ensino é oferecida por instituições especializadas.
 
-#### 1.4.5 Administração do Sistema
+### 1.4.5 Administração do Sistema
 
 A responsabilidade pela administração dos serviços de educação e a gestão dos recursos humanos, materiais e financeiros é cada vez mais descentralizada até ao nível das escolas e das instituições com crescente autoridade financeira e poder de decisão (veja também 6.6, a partir da pág. 101).
 
@@ -918,13 +1117,13 @@ O Ministério da Educação (MINED) é responsável pela elaboração das polít
 
 [[START OF PAGE 29]]
 
-## 2.	 Visão e missão
+# 2.	 Visão e missão
 
-### 2.1.	 Visão de longo prazo
+## 2.1.	 Visão de longo prazo
 
 Educação como um direito, bem como um dever de todos os cidadãos: um instrumento para a afirmação e integração do indivíduo na vida social, económica e política, indispensável para o desenvolvimento do país e para o combate à pobreza.
 
-A visão do governo sobre o papel da educação no desenvolvimento do país e do indivíduo implica que 'a educação e formação devem dar valor preponderante à capacitação do cidadão moçambicano fornecendo, especialmente aos adolescentes  e  jovens,  os  instrumentos  práticos  e  teóricos  para  serem  bem-sucedidos na vida' . Isto expressa ainda a necessidade de maior ênfase na dimensão formativa da Educação e na introdução da Educação e Formação Profissional que permite aos cidadãos produzir 'riqueza e recursos de vida para si e para os seus dependentes e para o País, auto empregando-se e empregando outros moçambicanos...', (Agenda 2015, (2003))
+A visão do governo sobre o papel da educação no desenvolvimento do país e do indivíduo implica que “a educação e formação devem dar valor preponderante à capacitação do cidadão moçambicano fornecendo, especialmente aos adolescentes e jovens, os instrumentos práticos e teóricos para serem bem-sucedidos na vida”. Isto expressa ainda a necessidade de maior ênfase na dimensão formativa da Educação e na introdução da Educação e Formação Profissional que permite aos cidadãos produzir “riqueza e recursos de vida para si e para os seus dependentes e para o País, auto empregando-se e empregando outros moçambicanos...”, (Agenda 2015, (2003))
 
 A formação deve ainda estar voltada para cultivar, desde cedo, nas escolas pré- primárias e primárias, a educação cívica, ética, moral, patriótica e a educação para uma cultura de Paz. Para além das regras de bom comportamento, a ordem, a limpeza e higiene, o pudor, o amor-próprio, o respeito ao próximo e à sociedade são práticas a inculcar nos cidadãos.
 
@@ -958,19 +1157,19 @@ Contexto
 
 Visão e missão
 
-### 2.2.	 Missão
+## 2.2.	 Missão
 
-A criação de um Sistema Educativo justo, inclusivo, eficaz e eficiente em ter mos de gestão, um sistema onde os alunos obtenham as competências requeridas em termos de conhecimentos, habilidades e atitudes, para atingirem o objectivo principal da Educação, como reflectido na visão de longo prazo.
+A criação de um Sistema Educativo justo, inclusivo, eficaz e eficiente em termos de gestão, um sistema onde os alunos obtenham as competências requeridas em termos de conhecimentos, habilidades e atitudes, para atingirem o objectivo principal da Educação, como reflectido na visão de longo prazo.
 
 O sistema educativo será construído a partir do sistema existente (veja 1.4 na pág. 12) com o objectivo de ter um Sistema Educativo que, a longo prazo, esteja baseado num Ensino Básico de 9 ou 10 anos, obrigatório para todos no grupo etário relevante. Este Ensino Básico incluirá um ano pré-primário e o primeiro ciclo de Ensino Secundário.
 
 O Sistema Educativo oferece ainda ao cidadão, para além do Ensino Básico, e ao longo da sua vida, oportunidades diversificadas de progredir no seu nível académico (Ensino Secundário, Técnico-Profissional e Superior), para o seu próprio desenvolvimento, da sua família e da sociedade em geral, quer através do ensino presencial, quer do ensino à distância ou outras modalidades educativas.
 
-### 2.3.	 Agendas internacionais e regionais
+## 2.3.	 Agendas internacionais e regionais
 
-#### 2.3.1 Educação para Todos
+### 2.3.1 Educação para Todos
 
-A visão de longo prazo do Governo para o desenvolvimento do ensino básico e de uma educação ao longo da vida enquadra-se no seu compromisso com a Declaração de Dakar ' Educação para Todos (2000) ' 13 , que promove a aprendizagem de competências básicas para todos, crianças, jovens e adultos, para um desenvolvimento sustentável e para a criação e manutenção da Paz, numa perspectiva de assegurar uma educação básica para todos e a redução da actual taxa de analfabetismo para metade, até 2015.
+A visão de longo prazo do Governo para o desenvolvimento do ensino básico e de uma educação ao longo da vida enquadra-se no seu compromisso com a Declaração de Dakar “Educação para Todos (2000)”13, que promove a aprendizagem de competências básicas para todos, crianças, jovens e adultos, para um desenvolvimento sustentável e para a criação e manutenção da Paz, numa perspectiva de assegurar uma educação básica para todos e a redução da actual taxa de analfabetismo para metade, até 2015.
 
 A  visão  engloba  ainda  os  Objectivos  de  Desenvolvimento  do  Milénio  (OdMs), adoptados na Assembleia Geral das Nações Unidas, em Setembro de 2000. No que refere à Educação, os objectivos incluem:
 
@@ -980,9 +1179,9 @@ A  visão  engloba  ainda  os  Objectivos  de  Desenvolvimento  do  Milénio  (O
 
 O Plano Estratégico define os parâmetros para atingir estes objectivos de Dakar e os OdMs, cujos ritmos e prazos estão ajustados à realidade e à capacidade do país.
 
-#### 2.3.2 Integração na região
+### 2.3.2 Integração na região
 
-Em consonância com o Protocolo relativo à Educação e Formação da SADC e à Nova Parceria para o Desenvolvimento de África (NEPAD), o país continua engajado no processo de integração regional, que se traduz no alcance gradual da equivalência, harmonização e padronização dos Sistemas de Educação e Formação na Região da SADC.
+Em consonância com o Protocolo relativo à Educação e Formação da SADC e à Nova Parceria para o Desenvolvimento de África (NEPAD), o país continua engaja-
 
 > 13 Esta declaração baseia-se e reforça os compromissos internacionais expressa nas Declarações dos Direitos Humanos (1948), Direitos das Crianças (1959), a Declaração Mundial sobre Educação para Todos (1990) e a Declaração de Salamanca (1994) relativa à Educação Inclusiva.
 
@@ -992,9 +1191,11 @@ Em consonância com o Protocolo relativo à Educação e Formação da SADC e à
 
 [[START OF PAGE 31]]
 
+do no processo de integração regional, que se traduz no alcance gradual da equivalência, harmonização e padronização dos Sistemas de Educação e Formação na Região da SADC.
+
 Isto implica, entre outros, a integração dos sistemas de educação e a harmonização dos diferentes currículos a nível regional, enfatizando a componente prática da formação pós-primária, além de uma formação universal de, pelo menos, 9 ou 10 anos.
 
-#### 2.3.3 Eficácia da ajuda internacional
+### 2.3.3 Eficácia da ajuda internacional
 
 Moçambique está comprometido com a agenda da eficácia da ajuda externa, na base dos princípios que foram acordados em 2005 no Fórum Internacional em Paris, na Declaração de Paris, e reconfirmados no 3º Fórum Internacional de Acra, em 2008.
 
@@ -1010,11 +1211,11 @@ Esta Agenda promove a eficiência e a eficácia da ajuda com o objectivo princip
 
 - Responsabilidade mútua: além dos compromissos dos Governos em relação à implementação dos seus planos nacionais, os parceiros também se submetem à avaliação dos seus compromissos.
 
-### 2.4	 Parcerias
+## 2.4	 Parcerias
 
 O direito de todos à Educação não é apenas responsabilidade e/ou obrigação do Estado, mas de todos: pais e encarregados de educação, famílias e comunidades, organizações não-governamentais e parceiros internacionais. Cada um destes grupos alvo desempenha um papel na oferta e procura de serviços educativos, dentro das suas capacidades e meios, em função das necessidades.
 
-#### 2.4.1 Participação das famílias e comunidades
+### 2.4.1 Participação das famílias e comunidades
 
 O governo promove uma participação activa e democrática da sociedade na gestão das escolas, com base no princípio de que a escola é património da comunidade, local onde a sociedade formalmente transmite às novas gerações as experiências acumuladas de âmbito sociocultural e científico da humanidade.
 
@@ -1048,7 +1249,7 @@ As famílias priorizam a educação dos filhos ao nível da despesa. Mesmo consi
 
 A comunidade tem a oportunidade de participar na gestão da escola através dos Conselhos de Escola.
 
-#### 2.4.2 Diálogo com os parceiros internacionais
+### 2.4.2 Diálogo com os parceiros internacionais
 
 Ao longo dos últimos anos, o sector tem beneficiado de apoio técnico e financeiro dos vários parceiros internacionais. O diálogo entre o ministério e os seus parceiros tem diferentes formatos.
 
@@ -1078,13 +1279,13 @@ Neste momento, os parceiros internacionais financiam cerca de 30% da despesa do 
 
 [[START OF PAGE 33]]
 
-#### 2.4.3 Envolvimento da sociedade civil e do sector privado
+### 2.4.3 Envolvimento da sociedade civil e do sector privado
 
-Embora o diálogo ao nível das políticas do sector seja ainda dominado pelo MINED e pelos parceiros de cooperação, a participação da sociedade civil é cada vez mais forte. Esta, através da rede nacional 'Movimento de Educação Para Todos (MEPT)', participa nos grandes encontros, bem como nos grupos de trabalho, contribuindo para a elaboração dos Planos Estratégicos, dos Planos Anuais e da sua monitoria (veja 7.4, pág. 114).
+Embora o diálogo ao nível das políticas do sector seja ainda dominado pelo MINED e pelos parceiros de cooperação, a participação da sociedade civil é cada vez mais forte. Esta, através da rede nacional “Movimento de Educação Para Todos (MEPT)”, participa nos grandes encontros, bem como nos grupos de trabalho, contribuindo para a elaboração dos Planos Estratégicos, dos Planos Anuais e da sua monitoria (veja 7.4, pág. 114).
 
 A participação da sociedade civil, através das organizações não-governamentais e dos governos locais, é mais forte ao nível local, onde está directamente envolvida na provisão de Educação, em termos da planificação, financiamento, implementação e monitoria da oferta e procura.
 
-O sector privado, como provedor, é particularmente importante no ensino pósprimário. Em 2011 cerca de 10% dos alunos no Ensino Secundário frequentavam escolas privadas ou comunitárias. Em 2010, cerca de 28% dos estudantes frequentavam Instituições de Ensino Superior privadas (veja Quadro 3, pág. 25).
+O sector privado, como provedor, é particularmente importante no ensino pós-primário. Em 2011 cerca de 10% dos alunos no Ensino Secundário frequentavam escolas privadas ou comunitárias. Em 2010, cerca de 28% dos estudantes frequentavam Instituições de Ensino Superior privadas (veja Quadro 3, pág. 25).
 
 Ao longo dos últimos anos, foram estabelecidas parcerias com o sector privado, numa perspectiva da sua responsabilidade social o que contribuiu para a construção de escolas, provisão de equipamento, oferta de bolsas ou outros tipos de apoio.
 
@@ -1110,9 +1311,9 @@ Vissão e Misão |19
 
 [[START OF PAGE 35]]
 
-## 3.	 A implementação do Plano Estratégico da Educação e Cultura 2006-2010/11
+# 3.	 A implementação do Plano Estratégico da Educação e Cultura 2006-2010/11
 
-### 3.1 Historial
+## 3.1 Historial
 
 Desde a proclamação da independência, em 1975, Moçambique conheceu três períodos distintos na evolução do Sistema Educativo:
 
@@ -1128,9 +1329,9 @@ No Ensino Secundário Geral, o número de alunos que frequentam o 1º ciclo pass
 
 No 2º ciclo do Ensino Secundário Geral, em 1992, apenas 6 distritos possuíam pelo menos uma escola secundária que leccionava o 2º ciclo. Havia menos de 5 mil alunos e só 25% do total de alunos eram raparigas. Em 2011, 98 distritos possuem pelo menos uma escola secundária do 2º ciclo com um total de 191 mil alunos, dos quais quase 46% são do sexo feminino.
 
-Em 1992, apenas 7.290 alunos frequentavam as 31 escolas de Ensino TécnicoProfissional (diferentes níveis). Em 2011, cerca 45 mil alunos frequentam as 145 diferentes escolas e instituições técnicas (públicas e privadas, incluindo as instituições de formação profissional tuteladas por outros ministérios). Em 1992, existiam apenas 3 universidades que absorviam 4.654 alunos. Em 2011, existem 38 instituições de Ensino Superior (incluindo as privadas) que abrangem cerca de 100 mil estudantes.
+Em 1992, apenas 7.290 alunos frequentavam as 31 escolas de Ensino Técnico-Profissional (diferentes níveis). Em 2011, cerca 45 mil alunos frequentam as 145 diferentes escolas e instituições técnicas (públicas e privadas, incluindo as instituições de formação profissional tuteladas por outros ministérios). Em 1992, existiam apenas 3 universidades que absorviam 4.654 alunos. Em 2011, existem 38 instituições de Ensino Superior (incluindo as privadas) que abrangem cerca de 100 mil estudantes.
 
-As diversas intervenções no sector foram sendo definidas pela Política Nacional de Educação de 1995 e pelos vários Planos Estratégicos elaborados até ao momento. O primeiro Plano Estratégico da Educação (PEE) vigorou de 1998 a 2005 com o principal enfoque no Ensino Primário e teve como objectivos específicos aumentar o acesso, melhorar a qualidade e reforçar a capacidade institucional. No Plano Estratégico de Educação e Cultura (PEEC, 2006-2010/11) foram reforçados os objectivos do Plano anterior. Contudo, o PEEC previa um aumento dos esforços para o desenvolvimento do ensino pós-primário e a redução do analfabetismo, com vista a criar a capacidade humana necessária para sustentar a economia em constante  crescimento.  Dava-se  ênfase  a  medidas  específicas  que  contribuíam para a melhoria da qualidade da Educação e a retenção dos alunos até à 7ª classe, de forma a atingir os objectivos do desenvolvimento do milénio na Educação. O PEEC incorporava, também, o subsistema de Ensino Superior e a área de Cultura.
+As diversas intervenções no sector foram sendo definidas pela Política Nacional de Educação de 1995 e pelos vários Planos Estratégicos elaborados até ao mo-
 
 Resumo
 
@@ -1166,9 +1367,21 @@ Visão e missão
 
 PEEC 06-11
 
-Gráfico 1: Evolução do Sistema Educativo, 1974/5-2011, Ensino Primário público, turnos diurno e nocturno
+mento. O primeiro Plano Estratégico da Educação (PEE) vigorou de 1998 a 2005 com o principal enfoque no Ensino Primário e teve como objectivos específicos aumentar o acesso, melhorar a qualidade e reforçar a capacidade institucional. No Plano Estratégico de Educação e Cultura (PEEC, 2006-2010/11) foram reforçados os objectivos do Plano anterior. Contudo, o PEEC previa um aumento dos esforços para o desenvolvimento do ensino pós-primário e a redução do analfabetismo, com vista a criar a capacidade humana necessária para sustentar a economia em constante crescimento. Dava-se ênfase a medidas específicas que contribuíam para a melhoria da qualidade da Educação e a retenção dos alunos até à 7ª classe, de forma a atingir os objectivos do desenvolvimento do milénio na Educação. O PEEC incorporava, também, o subsistema de Ensino Superior e a área de Cultura.
 
-### 3.2 As estratégias do PEEC 2006-2010/11
+Gráfico 1: Evolução do Sistema Educativo, 1974/5–2011, Ensino Primário público, turnos diurno e nocturno
+
+Ensino Primário 2º grau (Ep2)
+Ensino Primário 1º grau (Ep1)
+5,000,000
+4,000,000
+3,000,000
+2,000,000
+1,000,000
+0
+1974/5 | 1976 | 1977 | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+
+## 3.2 As estratégias do PEEC 2006-2010/11
 
 O enfoque do sector no período da implementação do Plano Estratégico de Educação e Cultura 2006-2010/11 foi orientado para três grandes objectivos, nomeadamente:
 
@@ -1228,32 +1441,32 @@ Visão e missão
 
 PEEC 06-11
 
-### 3.3 Resultados alcançados 19
+## 3.3 Resultados alcançados 19
 
 A fonte de informação para esta parte do documento é a informação estatística produzida pelo sector. O sector possui uma rica base de dados a partir de 1992. As taxas de cobertura foram calculadas na base de projecções oficiais da população, a partir do censo da população de 2007. As taxas referidas no documento poderão variar em relação a documentos anteriores ou a outras fontes. Alguma cautela é necessária na interpretação dos valores observados destes indicadores.
 
-#### 3.3.1 Um sistema expandido
+### 3.3.1 Um sistema expandido
 
 Os esforços do Governo ao longo dos últimos anos resultaram no desenvolvimento  do  Sistema  Educativo  em  todos  os  níveis  com  particular  realce  para  o  nível pós-primário, quer em termos de expansão da rede escolar, quer em termos de crescimento dos efectivos escolares.
 
 Entre 2004 e 2011, o número de alunos no Ensino Primário do segundo grau (EP2) quase duplicou, enquanto o número de alunos no Ensino Secundário Geral cresceu quase três vezes no primeiro ciclo e mais de quatro vezes no segundo ciclo.
 
-Nível | Número das escolas | Cresci- mento
---- | --- | --- | --- | --- | ---
-2004 | 2007 | 2011 | ∆2004/ 2011
-Ensino Primário | EP1 | 8.603 | 9.522 | 10.988 | 28%
-EP2 | 1.203 | 1.948 | 3.656 | 204%
-EP2/EP1 | 14% | 20% | 33%
-Ensino Secundário | ESG1 | 226 | 372 | 561 | 148%
-ESG2 | 70 | 120 | 228 | 226%
-ESG2/ESG1 | 31% | 32% | 41%
-Ensino Técnico- | Elementar/ Básico | 46 | 59 | 98 | 113%
-Médio | 9 | 14 | 47 | 422%
-Profissional | Médio/ Básico | 20% | 24% | 48%
-Ensino Superior* | Público | 9 | 17 | 89%
-Privado | 8 | 21 | 163%
-
 Quadro 2: Rede escolar por nível de ensino leccionado, 2004, 2007 e 2011 (ensinos público, privado e comunitário)
+
+Nível |  | Número das escolas |  |  | Crescimento
+--- | --- | --- | --- | --- | ---
+ |  | 2004 | 2007 | 2011 | Δ2004/2011
+Ensino Primário | EP1 | 8.603 | 9.522 | 10.988 | 28%
+ | EP2 | 1.203 | 1.948 | 3.656 | 204%
+ | EP2/EP1 | 14% | 20% | 33% |
+Ensino Secundário | ESG1 | 226 | 372 | 561 | 148%
+ | ESG2 | 70 | 120 | 228 | 226%
+ | ESG2/ESG1 | 31% | 32% | 41% |
+Ensino Técnico-Profissional | Elementar/Básico | 46 | 59 | 98 | 113%
+ | Médio | 9 | 14 | 47 | 422%
+ | Médio/Básico | 20% | 24% | 48% |
+Ensino Superior* | Público | 9 |  | 17 | 89%
+ | Privado | 8 |  | 21 | 163%
 
 (*) Para o Ensino Superior os dados referem-se aos anos 2004 e 2010.
 
@@ -1265,31 +1478,31 @@ Quadro 2: Rede escolar por nível de ensino leccionado, 2004, 2007 e 2011 (ensin
 
 [[START OF PAGE 39]]
 
-2004 | 2007 | 2011 | Cres- ci- men- to
---- | --- | --- | --- | --- | --- | --- | --- | ---
-HM | %M | HM | %M | HM | %M | 2004/ 2011
-Ensino Primário | EP1 | 3.138.576 | 45,9% | 3.932.006 | 47,0% | 4.442.260 | 47,7% | 42%
-EP2 | 491.402 | 41,3% | 712.370 | 43,6% | 871.733 | 46,3% | 77%
-Total | 3.629.978 | 45,3% | 4.644.376 | 46,4% | 5.313.993 | 47,5% | 46%
-Ensino Secundário | ESG1 | 286.185 | 40,9% | 519.236 | 43,2% | 761.589 | 47,3% | 166%
-ESG2 | 45.685 | 39,2% | 95.779 | 40,7% | 191.320 | 45,7% | 319%
-Total | 331.870 | 40,7% | 615.015 | 42,8% | 952.909 | 47,0% | 187%
-Ensino Técnico Profissional* | Elem. Básico | 27.609 | 30,4% | 33.709 | 31,1% | 30.021 | 32,6% | 9%
-Médio | 4.616 | 28,9% | 6.505 | 22,9% | 14.655 | 36,4% | 217%
-Total | 32.225 | 30,2% | 40.214 | 29,8% | 44.676 | 33,9% | 39%
-Ensino Superior** | Público | 15.113 | 51.001 | 72.636 | 381%
-Privado | 7.143 | 12.475 | 28.726 | 302%
-Total | 22.256 | 31,6% | 63.476 | 38,1% | 101.362 | 38,3% | 355%
-
 Quadro 3: Número de alunos e percentagem de raparigas por nível de ensino, 2004, 2007 e 2011 (turnos diurno e nocturno, ensinos público, comunitário e privado)
+
+Nível |  | 2004 |  | 2007 |  | 2011 |  | Crescimento
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | HM | %M | HM | %M | HM | %M | 2004/2011
+Ensino Primário | EP1 | 3.138.576 | 45,9% | 3.932.006 | 47,0% | 4.442.260 | 47,7% | 42%
+ | EP2 | 491.402 | 41,3% | 712.370 | 43,6% | 871.733 | 46,3% | 77%
+ | Total | 3.629.978 | 45,3% | 4.644.376 | 46,4% | 5.313.993 | 47,5% | 46%
+Ensino Secundário | ESG1 | 286.185 | 40,9% | 519.236 | 43,2% | 761.589 | 47,3% | 166%
+ | ESG2 | 45.685 | 39,2% | 95.779 | 40,7% | 191.320 | 45,7% | 319%
+ | Total | 331.870 | 40,7% | 615.015 | 42,8% | 952.909 | 47,0% | 187%
+Ensino Técnico Profissional* | Elem. Básico | 27.609 | 30,4% | 33.709 | 31,1% | 30.021 | 32,6% | 9%
+ | Médio | 4.616 | 28,9% | 6.505 | 22,9% | 14.655 | 36,4% | 217%
+ | Total | 32.225 | 30,2% | 40.214 | 29,8% | 44.676 | 33,9% | 39%
+Ensino Superior** | Público | 15.113 |  | 51.001 |  | 72.636 |  | 381%
+ | Privado | 7.143 |  | 12.475 |  | 28.726 |  | 302%
+ | Total | 22.256 | 31,6% | 63.476 | 38,1% | 101.362 | 38,3% | 355%
 
 HM: Total de alunos (ambos os sexos). %M: Percentagem de alunos do sexo feminino.
 
-(*)  Para  o  Ensino  Técnico-Profissional  a  informação dada restringe-se à informação disponível na base de dados do MINED, que não reflecte todos os institutos que oferecem este tipo de formação.
+(*) Para o Ensino Técnico-Profissional a informação dada restringe-se à informação disponível na base de dados do MINED, que não reflecte todos os institutos que oferecem este tipo de formação.
 
 (**) Os dados referem-se ao ano 2010.
 
-#### 3.3.2 Um sistema mais equilibrado
+### 3.3.2 Um sistema mais equilibrado
 
 Os dados apresentados no Quadro 2 e no Quadro 3 mostram que a estrutura do Sistema Educativo está a mudar. Embora a maior parte dos alunos esteja nas escolas primárias (principalmente no EP1), o número de alunos no Segundo Grau do Ensino Primário (EP2) e no Ensino Secundário está a aumentar.
 
@@ -1329,13 +1542,38 @@ PEEC 06-11
 
 Gráfico 2: Evolução da percentagem de meninas frequentando o Ensino Primário e Secudário (1º e 2º ciclos), 2004-2011 (turno diurno, ensino público, privado e comunitário)
 
+Percentagem de alunas
+50%
+48%
+46%
+44%
+42%
+40%
+38%
+2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+% Raparigas, EP
+% Raparigas, ESG1
+% Raparigas, ESG2
+
 Ao longo dos últimos anos, e tal como o ilustra o Gráfico 2, a proporção de raparigas frequentando o Ensino Primário e o 1º ciclo do Ensino Secundário aumentou de forma constante, com maior destaque para o Ensino Secundário Geral de 1º ciclo, onde a percentagem de raparigas subiu de 41% para 47%.
 
 O Gráfico 3 revela a redução da diferença entre as percentagens mais altas e as mais baixas, no que respeita ao número de alunas frequentando o Ensino Primário nas diferentes províncias, entre 2004-2011. Verificou-se, igualmente, uma evolução positiva ao nível dos distritos: em 2004, havia 22 distritos com uma população estudantil feminina inferior a 40%; em 2010, havia apenas um distrito, Morrumbala; e em 2011 nenhum distrito registo uma percentagem inferior a 40%.
 
 Gráfico 3: Percentagem de meninas no Ensino Primário, 2004 e 2011 (turnos diurno e nocturno, ensinos público, privado e comunitário)
 
-#### 3.3.3 Aumento dos recursos humanos e financeiros
+2004
+2011
+52%
+50%
+48%
+46%
+44%
+42%
+40%
+38%
+Zambézia | Nampula | Sofala | Cabo Delgado | Manica | Niassa | Tete | Inhambane | Maputo | Gaza | Cidade de Maputo
+
+### 3.3.3 Aumento dos recursos humanos e financeiros
 
 O crescimento do sistema foi acompanhado pelo aumento de recursos humanos e financeiros, em termos quantitativos e qualitativos, ao nível do Ensino Primário.
 
@@ -1345,18 +1583,20 @@ O crescimento do sistema foi acompanhado pelo aumento de recursos humanos e fina
 
 [[START OF PAGE 41]]
 
-2006 | 2008 | 2009 | 2010 | 2011
+Quadro 4: Evolução do número de novos professores recrutados e do rácio alunos-professor 2006-2011 (Ensino Primário público)
+
+ | 2006 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | ---
 Número de novos professores contratados, EP | 4.000 | 7.717 | 9.400 | 9.800 | 8.500
 Rácio Alunos-Professor, EP1 | 75 | 72 | 69 | 66 | 63
 
-Quadro 4: Evolução do número de novos professores recrutados e do rácio alunos-professor 2006-2011 (Ensino Primário público)
-
 O aumento de contratação de novos professores contribuiu para a redução do rácio alunos-professor, no EP1.
 
-Ano | EP1 | EP2 | ES1
+Quadro 5: Total de professores e percentagem de professoras no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário)
+
+Ano | EP1 |  | EP2 |  | ES1 | 
 --- | --- | --- | --- | --- | --- | ---
-Total | %M | Total | %M | Total | %M
+ | Total | %M | Total | %M | Total | %M
 2004 | 47.573 | 30% | 10.815 | 23% | 5.507 | 16%
 2005 | 46.821 | 31% | 11.276 | 23% | 6.187 | 16%
 2006 | 48.023 | 33% | 12.747 | 25% | 7.108 | 17%
@@ -1366,15 +1606,15 @@ Total | %M | Total | %M | Total | %M
 2010 | 67.121 | 42% | 22.084 | 31% | 11.978 | 18%
 2011 | 70.448 | 44% | 23.149 | 30% | 12.776 | 19%
 
-Quadro 5:	Total de professores e percentagem de professoras no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário)
-
 %M: Percentagem de professoras.
 
 O Quadro 5 mostra um aumento significativo da percentagem de professoras, particularmente no Ensino Primário, o qual se deveu ao facto de se ter dado prioridade à formação inicial e à contratação de professoras.
 
-Ano | EP1 | EP2 | ES1
+Quadro 6: Total de professores e percentagem de professores sem formação pedagógica no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário)
+
+Ano | EP1 |  | EP2 |  | ES1 | 
 --- | --- | --- | --- | --- | --- | ---
-Total | %S/F | Total | %S/F | Total | %S/F
+ | Total | %S/F | Total | %S/F | Total | %S/F
 2004 | 47.573 | 44% | 10.815 | 34% | 5.507 | 44%
 2005 | 46.821 | 42% | 11.276 | 32% | 6.187 | 43%
 2006 | 48.023 | 38% | 12.747 | 26% | 7.108 | 41%
@@ -1383,8 +1623,6 @@ Total | %S/F | Total | %S/F | Total | %S/F
 2009 | 62.174 | 32% | 19.688 | 21% | 10.611 | 30%
 2010 | 67.121 | 26% | 22.084 | 19% | 11.978 | 25%
 2011 | 70.448 | 21% | 23.149 | 17% | 12.776 | 21%
-
-Quadro 6: Total de professores e percentagem de professores sem formação pedagógica no EP1, EP2 e ESG1, 2004-2011 (turno diurno, ensinos público e comunitário)
 
 %S/F: Percentagem de professores sem formação pedagógica.
 
@@ -1428,11 +1666,29 @@ O orçamento do sector da Educação, bem como a sua execução, cresceu de form
 
 Gráfico 4: Evolução do orçamento e sua execução no sector da Educação, 2005-2010
 
+Meticais (mil milhões)
+25
+20
+15
+10
+5
+0
+Orçamento
+Execução
+% execução
+100%
+80%
+60%
+40%
+20%
+0%
+2005 | 2006 | 2007 | 2008 | 2009 | 2010
+
 Fonte: CGE 2004-2009, REO 2010).
 
 O peso da despesa para a Educação no Orçamento do Estado (OE) variou entre 20% e 23,4%, o que reflecte o grande compromisso do Governo e dos vários parceiros que apoiam este sector. O financiamento externo directo 20 cresceu consideravelmente entre 2005 e 2010, principalmente através do Fundo de Apoio ao Sector da Educação (FASE). Este financiamento representa um pouco menos de 30% do orçamento e da despesa no sector.
 
-#### 3.3.4 Uma população mais educada
+### 3.3.4 Uma população mais educada
 
 Os esforços do Governo contribuíram para um aumento significativo do número de graduados em todos os níveis de ensino, com particular realce para o ESG (Quadro 7).
 
@@ -1452,37 +1708,37 @@ Estes progressos têm contribuído para uma população cada vez mais educada. A
 
 Apesar do aumento significativo dos números de graduados desde 2004, a redução do aproveitamento escolar verificada desde 2008 em todos os níveis é preocupante.
 
-Classe | Sexo | 2004 | 2007 | 2011 | Variação em nº de Alunos 2004/ 2011
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Nº de Alunos | % de Aprov. | Nº de Alunos | % de Aprov. | Nº de Alunos | % de Aprov.
-5ª classe | M | 98.632 | 68% | 169.071 | 72% | 184.462 | 65% | 87%
-HM | 240.354 | 69% | 377.905 | 71% | 393.262 | 64% | 64%
-7ª classe | M | 66.658 | 73% | 97.736 | 72% | 127.680 | 63% | 92%
-HM | 165.174 | 75% | 228.824 | 73% | 275.727 | 63% | 67%
-10ª classe | M | 12.219 | 39% | 30.486 | 60% | 46.404 | 42% | 280%
-HM | 32.728 | 44% | 74.674 | 64% | 101.872 | 44% | 211%
-12ª | M | 2.877 | 37% | 6.817 | 47% | 16.953 | 47% | 489%
-classe | HM | 7.917 | 41% | 17.861 | 50% | 38.651 | 49% | 388%
-
 Quadro 7: Evolução do número de graduados, por nível de ensino e sexo, 2004-2011 (turnos diurno e nocturno, ensinos público, comunitário e privado)
 
-### 3.4 Grandes desafios
+Classe | Sexo | 2004 |  | 2007 |  | 2011 |  | Variação em nº de Alunos 2004/2011
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Nº de Alunos | % de Aprov. | Nº de Alunos | % de Aprov. | Nº de Alunos | % de Aprov. | 
+5ª classe | M | 98.632 | 68% | 169.071 | 72% | 184.462 | 65% | 87%
+ | HM | 240.354 | 69% | 377.905 | 71% | 393.262 | 64% | 64%
+7ª classe | M | 66.658 | 73% | 97.736 | 72% | 127.680 | 63% | 92%
+ | HM | 165.174 | 75% | 228.824 | 73% | 275.727 | 63% | 67%
+10ª classe | M | 12.219 | 39% | 30.486 | 60% | 46.404 | 42% | 280%
+ | HM | 32.728 | 44% | 74.674 | 64% | 101.872 | 44% | 211%
+12ª classe | M | 2.877 | 37% | 6.817 | 47% | 16.953 | 47% | 489%
+ | HM | 7.917 | 41% | 17.861 | 50% | 38.651 | 49% | 388%
+
+## 3.4 Grandes desafios
 
 Com base na análise dos resultados conseguidos ao longo dos últimos anos, os grandes desafios para os anos seguintes são claros.
 
-#### 3.4.1 Em termos de acesso: crianças e jovens fora do sistema
+### 3.4.1 Em termos de acesso: crianças e jovens fora do sistema
 
 Houve muitos progressos, em termos de expansão da rede escolar, em todos os níveis de ensino. Reduziram-se as disparidades de cobertura geográfica e de género em todos os níveis de ensino, beneficiando-se, gradualmente, de ano para ano, mais crianças.
 
-Grupo etário | 2007 | 2011 | ∆2007/2011
+Quadro 8: Taxas de escolarização por sexo e grupo etário, 2007-2011 (turnos diurno e nocturno, ensinos público, comunitário e privado)
+
+Grupo etário | 2007 |  |  | 2011 |  |  | Δ2007/2011 |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Rapa- -rigas | Rapa- zes | Totais | Rapa- -rigas | Rapa- zes | Totais | Rapa- -rigas | Rapa- zes | Totais
+ | Raparigas | Rapazes | Totais | Raparigas | Rapazes | Totais | Raparigas | Rapazes | Totais
 Idade 6-10 | 89% | 97% | 93% | 91% | 96% | 94% | 3% | -1% | 1%
 Idade 11-12 | 80% | 98% | 89% | 89% | 98% | 93% | 11% | 0% | 5%
 Idade 13-15 | 57% | 79% | 68% | 62% | 76% | 69% | 9% | -4% | 2%
 Idade 16-17 | 27% | 44% | 35% | 34% | 49% | 41% | 27% | 11% | 18%
-
-Quadro 8: Taxas de escolarização por sexo e grupo etário, 2007-2011 (turnos diurno e nocturno, ensinos público, comunitário e privado)
 
 Resumo
 
@@ -1528,7 +1784,7 @@ Dada a expansão significativa do EP, crianças cada vez mais jovens, concluem o
 
 Uma vez que o ensino pós-primário não é gratuito, a iniquidade no acesso a este ensino aumentou 22 .
 
-#### 3.4.2 Em termos de qualidade: preocupação com a eficácia do ensino-aprendizagem
+### 3.4.2 Em termos de qualidade: preocupação com a eficácia do ensino-aprendizagem
 
 O Sistema Educativo, ao longo dos últimos anos, tem vindo a introduzir reformas importantes para a melhoria do desempenho escolar dos alunos do Ensino Primário, com particular destaque para a introdução do novo currículo, a distribuição do livro escolar, a afectação de recursos às escolas, a formação de professores e de gestores educacionais e o incremento das acções de supervisão pedagógica, entre outras.
 
@@ -1548,7 +1804,7 @@ Uma das grandes preocupações neste contexto é a preparação insuficiente das
 
 Ao nível do ensino pós-primário a qualidade ainda é mais prejudicada pela expansão explosiva da rede escolar, a qual não é acompanhada por um nível suficiente de investimentos, particularmente nas áreas de formação de professores, aquisição e distribuição de livros e materiais didácticos, entre outros.
 
-#### 3.4.3 Em termos de desenvolvimento institucional: fraquezas na implementação dos planos
+### 3.4.3 Em termos de desenvolvimento institucional: fraquezas na implementação dos planos
 
 Os progressos registados beneficiaram do aumento da capacidade de implementação. Isto deveu-se à crescente descentralização de fundos e responsabilidades, à introdução de um sistema único de gestão financeira no sector público, às melhorias na integração dos processos de planificação, de orçamentação e de monitoria e à crescente disponibilização de fundos (internos e externos).
 
@@ -1558,7 +1814,7 @@ A manutenção e a melhoria de um sistema ainda em crescimento requerem, de ano 
 
 Todos esses factores fazem com que haja necessidade de uma maior priorização das intervenções e a continuação da racionalização dos recursos disponíveis para assegurar que os progressos realizados não sejam prejudicados.
 
-### 3.5 Apreciação da avaliação do Plano Estratégico
+## 3.5 Apreciação da avaliação do Plano Estratégico
 
 O MINED promoveu uma avaliação independente sobre a implementação do Plano Estratégico do Sector da Educação e Cultura 2006-2010/11. O objectivo principal desta avaliação era criar uma base sólida e documentada sobre o ponto da situação do sector em 2010 em relação aos seus indicadores principais e ao impacto das reformas principais que foram introduzidas nesse período.
 
@@ -1566,7 +1822,19 @@ Além de uma avaliação global sobre o estágio actual do sector e a implementa
 
 A avaliação resultou num volume de documentos com observações e recomendações importantes para a tomada de decisões no contexto da elaboração e implementação do próximo plano estratégico.
 
-A avaliação confirmou os progressos feitos ao longo dos últimos anos, particularmente no que refere à expansão do sistema e ao aumento de equidade na participação. Reafirmou, ainda, os grandes desafios, em termos da melhoria da Vamos Aprender Prefácio Resumo Contexto Visão e missão PEEC 06-11
+A avaliação confirmou os progressos feitos ao longo dos últimos anos, particularmente no que refere à expansão do sistema e ao aumento de equidade na participação. Reafirmou, ainda, os grandes desafios, em termos da melhoria da
+
+Vamos Aprender
+
+Prefácio
+
+Resumo
+
+Contexto
+
+Visão e missão
+
+PEEC 06-11
 
 A implementação do Plano Estratégico da Educação e Cultura 2006-2010/11 |31
 
@@ -1600,9 +1868,9 @@ Destaca-se, particularmente, a necessidade de tornar a formação de professores
 
 [[START OF PAGE 47]]
 
-## 4.	 Prioridades e enfoques para o sector da Educação 2012-2016
+# 4.	 Prioridades e enfoques para o sector da Educação 2012-2016
 
-### 4.1.	 Prioridades para os anos 2012-2016
+## 4.1.	 Prioridades para os anos 2012-2016
 
 Nos próximos anos, o sector continuará os seus esforços orientados para a criação das condições necessárias para a transformação do sistema actual num Sistema de Educação como reflectido no ponto 2.2, pág. 16 23 .
 
@@ -1652,23 +1920,23 @@ PEEC 06-11
 
 Prioridades
 
-Para assegurar uma melhor implementação dos programas do sector, continuarse-á a priorizar o aumento da capacidade institucional, principalmente ao nível dos distritos e das instituições que têm uma crescente responsabilidade na gestão do sistema e na implementação do Plano Estratégico. O enfoque será no desenvolvimento e na gestão dos recursos humanos, promovendo uma boa governação do sistema e dos seus recursos, através de um melhor controlo interno em termos da implementação correcta dos planos do sector.
+Para assegurar uma melhor implementação dos programas do sector, continuar-se-á a priorizar o aumento da capacidade institucional, principalmente ao nível dos distritos e das instituições que têm uma crescente responsabilidade na gestão do sistema e na implementação do Plano Estratégico. O enfoque será no desenvolvimento e na gestão dos recursos humanos, promovendo uma boa governação do sistema e dos seus recursos, através de um melhor controlo interno em termos da implementação correcta dos planos do sector.
 
-### 4.2 Ligação com os planos do Governo para o desenvolvimento do País
+## 4.2 Ligação com os planos do Governo para o desenvolvimento do País
 
 As prioridades do Plano Estratégico enquadram-se nas orientações do Plano Quinquenal do Governo (PQG 2010-2014) que prioriza o Ensino Primário de qualidade para todos e promove uma maior relevância da Educação para estimular e sustentar o desenvolvimento do país.
 
-O Plano está alinhado com o Plano de Acção para a Redução da Pobreza (PARP 2011-2015) que indica a necessidade de melhorar e expandir as oportunidades de Educação e de Formação Profissional, de modo a formar cidadãos educados para '… incrementar a produção e produtividade agrícola e assegurar maior promoção de (auto) emprego' e, ao mesmo tempo, '… responder às necessidades das indústrias emergentes nos sectores estratégicos'.
+O Plano está alinhado com o Plano de Acção para a Redução da Pobreza (PARP 2011-2015) que indica a necessidade de melhorar e expandir as oportunidades de Educação e de Formação Profissional, de modo a formar cidadãos educados para “…incrementar a produção e produtividade agrícola e assegurar maior promoção de (auto) emprego” e, ao mesmo tempo, “… responder às necessidades das indústrias emergentes nos sectores estratégicos”.
 
 Reconhecendo que a economia moçambicana é basicamente agrícola, com um sector formal ainda muito pequeno, e uma actividade económica informal concentrada no comércio de pequena escala, adquirir competências básicas em larga escala, através da universalização do Ensino Primário, será crucial para aumentar a produtividade 24 do País a curto e a médio prazo.
 
-Ao mesmo tempo, é importante criar uma base de especialistas bem formados para servirem e desenvolverem o sector formal através de um Ensino TécnicoProfissional e Superior de boa qualidade.
+Ao mesmo tempo, é importante criar uma base de especialistas bem formados para servirem e desenvolverem o sector formal através de um Ensino Técnico-Profissional e Superior de boa qualidade.
 
 A  expansão  e  criação  de  oportunidades  no  contexto  da  educação  não-formal, complementando  o  Ensino  Primário  para  os  jovens  e  adultos  fora  do  Sistema Educativo, será importante para se ter resultados de curto prazo, em termos de criação de uma população melhor preparada para tomar conta do seu próprio desenvolvimento e da sua família, e se envolver em actividades no sector informal.
 
-### 4.3 Grandes enfoques nos próximos anos
+## 4.3 Grandes enfoques nos próximos anos
 
-#### 4.3.1 Inclusão e equidade no acesso e retenção
+### 4.3.1 Inclusão e equidade no acesso e retenção
 
 Não obstante os grandes avanços em termos de acesso à escola em todos os níveis de ensino, existem muitas crianças que ainda não frequentam a escola ou não conseguem concluir o Ensino Primário ou transitar para o nível seguinte.
 
@@ -1688,7 +1956,7 @@ Além disto, nos próximos anos, um enfoque especial será dado à inclusão das
 
 Ademais, o sector promoverá a diversificação das modalidades de educação através da expansão da Educação Aberta e à Distância, entre outros, criando mais oportunidades e flexibilidade na participação em actividades educativas em todos os níveis de educação, ao longo da vida.
 
-#### 4.3.2 Aprendizagem do aluno
+### 4.3.2 Aprendizagem do aluno
 
 A grande preocupação com a qualidade da educação e, sobretudo, com o desempenho do aluno, é central neste plano estratégico.
 
@@ -1750,7 +2018,7 @@ A descentralização da gestão do sistema é uma grande oportunidade para melho
 
 [[START OF PAGE 51]]
 
-#### 4.3.3 Boa governação
+### 4.3.3 Boa governação
 
 Na gestão dos seus programas e recursos, o sector promove uma boa governação baseada nos seguintes princípios:
 
@@ -1760,9 +2028,9 @@ Na gestão dos seus programas e recursos, o sector promove uma boa governação 
 
 - Oportunidade para os cidadãos influenciarem as decisões políticas, a gestão e monitoria da sua implementação.
 
-Um aspecto central na governação dos programas e recursos do sector consiste na aplicação eficiente e eficaz dos recursos disponíveis para obtenção de melhores resultados: fazer mais e melhor com aquilo que temos !
+Um aspecto central na governação dos programas e recursos do sector consiste na aplicação eficiente e eficaz dos recursos disponíveis para obtenção de melhores resultados: fazer mais e melhor com aquilo que temos!
 
-Isto  implica um maior controlo interno em termos da implementação dos programas do sector e gestão dos seus recursos. Simultaneamente, vai-se dar enfoque à responsabilização dos vários actores no sector para contribuírem para o seu desempenho. Isto não se aplica apenas à gestão dos recursos financeiros e humanos, mas também à observância dos padrões e normas educativas para garantir a qualidade do ensino. No contexto da descentralização da governação até ao nível das próprias instituições, deve-se potenciar os conselhos das escolas de modo a que estes assumam a sua responsabilidade na formulação dos planos de desenvolvimento da escola e a aplicação e prestação de contas sobre os recursos disponibilizados ao sector, bem como sobre o desempenho da escola, em termos da aprendizagem das crianças, e a garantia que as escolas sejam lugares saudáveis e seguros, livres do abuso e da violência.
+Isto implica um maior controlo interno em termos da implementação dos programas do sector e gestão dos seus recursos. Simultaneamente, vai-se dar enfoque à responsabilização dos vários actores no sector para contribuírem para o seu desempenho. Isto não se aplica apenas à gestão dos recursos financeiros e humanos, mas também à observância dos padrões e normas educativas para garantir a qualidade do ensino. No contexto da descentralização da governação até ao nível das próprias instituições, deve-se potenciar os conselhos das escolas de modo a que estes assumam a sua responsabilidade na formulação dos planos de desenvolvimento da escola e a aplicação e prestação de contas sobre os recursos disponibilizados ao sector, bem como sobre o desempenho da escola, em termos da aprendizagem das crianças, e a garantia que as escolas sejam lugares saudáveis e seguros, livres do abuso e da violência.
 
 Resumo
 
@@ -1792,33 +2060,33 @@ Prioridades e enfoques para o sector da Educação 2012-2016 |37
 
 [[START OF PAGE 53]]
 
-## 5.	 Estrutura e Assuntos Transversais
+# 5.	 Estrutura e Assuntos Transversais
 
-### 5.1.	 Uma programação por nível do ensino 25
+## 5.1.	 Uma programação por nível do ensino 25
 
 O Plano Estratégico reflecte a nova abordagem de programação que foi elaborada pelo Ministério da Educação 26 ao  longo dos últimos anos com o objectivo de facilitar a ligação entre os processos de planificação, orçamentação, execução, monitoria e avaliação.
 
 Esta nova abordagem é baseada numa estrutura tridimensional (veja o Quadro 9, pág. 40) que toma como base os níveis do ensino e a área de desenvolvimento administrativo e institucional (os programas sectoriais da Educação), nomeadamente:
 
-- Ensino Pré-primário e Primário;
+1. Ensino Pré-primário e Primário;
 
-- Alfabetização e Educação para os Adultos;
+2. Alfabetização e Educação para os Adultos;
 
-- Ensino Secundário Geral;
+3. Ensino Secundário Geral;
 
-- Ensino Técnico-Profissional;
+4. Ensino Técnico-Profissional;
 
-- Ensino Superior;
+5. Ensino Superior;
 
-- Desenvolvimento Administrativo e Institucional.
+6. Desenvolvimento Administrativo e Institucional.
 
 Ao nível de cada um dos programas sectoriais é definido um objectivo geral 27 e três objectivos estratégicos que concretizam o objectivo geral do programa relativamente aos grandes enfoques nos próximos anos em termos de (veja 4.3, pág. 34):
 
-- Acesso e retenção: assegurar a inclusão e equidade;
+i) Acesso e retenção: assegurar a inclusão e equidade;
 
-- ii) Qualidade: melhorar a aprendizagem do aluno;
+ii) Qualidade: melhorar a aprendizagem do aluno;
 
-- iii) Desenvolvimento institucional: promover uma boa governação.
+iii) Desenvolvimento institucional: promover uma boa governação.
 
 Para cada um dos objectivos estratégicos são definidas as metas, prioridades e estratégias principais para assegurar o seu alcance.
 
@@ -1870,9 +2138,27 @@ PEEC 06-11
 
 Prioridades
 
-Estrutura Esta abordagem foi introduzida com o objectivo de reflectir melhor a missão principal do sector: melhorar a oferta de serviços educativos de qualidade, em cada nível de ensino, para todos os cidadãos.
+Estrutura
 
 Quadro 9: Programas sectoriais, objectivos estratégicos e acções prioritárias
+
+Ensino Pré- e Primário
+
+Alfabetização e Educação dos Adultos
+
+Ensino Secundário Geral
+
+Ensino Técnico Profissional
+
+Ensino Superior
+
+Desenvolvimento Administrativo e Institucional
+
+Os objectivos estratégicos
+
+Acesso
+
+Inclusão no acesso e retenção
 
 Melhoria das condições físicas das escolas
 
@@ -1881,6 +2167,10 @@ Advocacia e comunicação sobre a importância de educação, evitando a exclus�
 Diversificação e flexibilização na oferta através de diferentes modalidades (EAD, ENF…)
 
 Medidas de apoio social, assegurando a participação dos mais vulneráveis
+
+Qualidade
+
+Aprendizagem do aluno
 
 Disposição de livro escolar e materiais didáctica
 
@@ -1892,93 +2182,23 @@ Formação, capacitação e acompanhamento dos professores
 
 Observância dos padrões de qualidade da educação
 
-Desenvolvimento e gestão profissional dos recursos do sector (humanos, materiais e financeiros)
+Desenvolvimento Institucional
 
-Divulgação da informação e comunicação interna e externa
+Boa governação
+
+Desenvolvimento e gestão profissional dos recursos do sector (humanos, materiais e financeiros)
 
 Melhoria de sistemas de planificação, orçamentação, execução, monitoria e avaliação
 
 Integração dos assuntos transversais nos programas, garantindo os direitos humanos
 
-Inclusão
+Divulgação da informação e comunicação interna e externa
 
-no
+Esta abordagem foi introduzida com o objectivo de reflectir melhor a missão principal do sector: melhorar a oferta de serviços educativos de qualidade, em cada nível de ensino, para todos os cidadãos.
 
-acesso
+## 5.2 Tratamento de temas transversais
 
-e
-
-retenção
-
-Aprendizagem
-
-do
-
-aluno
-
-Boa
-
-governação
-
-Os
-
-objectivos
-
-estratégicos
-
-Acesso
-
-Qualidade
-
-Desenvolvimento
-
-Institucional
-
-Desenvolvi-
-
-mento
-
-Administrativo
-
-e
-
-Institucional
-
-Ensino
-
-Superior
-
-Ensino
-
-Técnico
-
-Profissional
-
-Ensino
-
-Secundário
-
-Geral
-
-Alfabeti-
-
-zação e
-
-Educação
-
-dos
-
-Adultos
-
-Ensino
-
-Pré- e
-
-Primário
-
-### 5.2 Tratamento de temas transversais
-
-#### 5.2.1 Uma abordagem de integração
+### 5.2.1 Uma abordagem de integração
 
 O programa quinquenal do Governo 2010-2014 chama a atenção dos sectores para a observância e integração dos temas transversais nas políticas e programas sectoriais. O mesmo princípio foi promovido no PEEC 2006-2010/11 com o objectivo principal de assegurar maior coerência ao nível sectorial e assegurar a cobertura nacional através de intervenções sustentáveis.
 
@@ -2002,7 +2222,7 @@ Neste plano estratégico, e de acordo com a nova abordagem de programação, os 
 
 Os temas transversais traduzem-se num enfoque específico no contexto da sua programação em cada um dos níveis de ensino e na área programática de desenvolvimento administrativo e institucional. Isto implica uma atenção especial na sua integração ao nível da administração (central, provincial e/ou distrital) no acompanhamento e monitoria da implementação das intervenções do sector ao nível dos programas sectoriais.
 
-#### 5.2.2 Questões de género
+### 5.2.2 Questões de género
 
 O governo comprometeu-se a ter em consideração as questões de género na planificação e implementação das actividades em todas as áreas, promovendo, para isso, a igualdade das relações de género, incluindo a remoção de barreiras que afectam os cidadãos, em particular, as mulheres e as raparigas, como condição essencial para um desenvolvimento sustentável centrado na pessoa humana.
 
@@ -2010,13 +2230,27 @@ Assim, o sector da Educação, desenvolveu, desde o seu primeiro plano estratég
 
 Ao nível institucional, promoveu-se o equilíbrio de género na planificação e gestão dos recursos humanos, por via do recrutamento de um número significativo de professoras e de gestoras. Foram criadas unidades de género ao nível do Ministério, bem como ao nível das províncias, para a elaboração das acções específicas e para a monitoria da sua implementação.
 
-Todas  estas  políticas  contribuíram  para  a  redução  das  disparidades  de  género como já referido em 3.3.2, pág. 25, não apenas em termos de acesso, mas tam- Vamos Aprender Prefácio Resumo Contexto Visão e missão PEEC 06-11
+Todas estas políticas contribuíram para a redução das disparidades de género como já referido em 3.3.2, pág. 25, não apenas em termos de acesso, mas tam-
 
 > 28 Referimo-nos ao Plano de Acção para a Integração de Género (PAIG) que acompanhou a implementação do PEE 1999-2005. Neste momento está em elaboração um Plano Estratégico para o período 2012-2016.
 
+Vamos
+
+Aprender
+
+Prefácio
+
+Resumo
+
+Contexto
+
+Visão e missão
+
+PEEC 06-11
+
 Prioridades
 
-Estrutura bém em termos de retenção no sistema como se pode verificar no Gráfico 2, pág. 26.  No  entanto,  apesar  dos  progressos  registados,  permanecem  ainda  grandes desafios na redução da desigualdade de género. A solução depende de vários factores internos e externos ao sector, ligados à procura e oferta de oportunidades educativas, que são muito influenciadas pela situação socioeconómico e cultural do país.
+Estrutura
 
 Estrutura e Assuntos Transversais |41
 
@@ -2040,23 +2274,25 @@ Prioridades
 
 Estrutura
 
-Também, ainda é necessário rever os currículos, particularmente os materiais didácticos em termos da sua sensibilidade a questões de género. A avaliação do PEEC observou que '….Globalmente as questões de género não são majoradas no currículo e materiais do Ensino Primário (incluindo os da formação de professores). '
+bém em termos de retenção no sistema como se pode verificar no Gráfico 2, pág. 26. No entanto, apesar dos progressos registados, permanecem ainda grandes desafios na redução da desigualdade de género. A solução depende de vários factores internos e externos ao sector, ligados à procura e oferta de oportunidades educativas, que são muito influenciadas pela situação socioeconómico e cultural do país.
+
+Também, ainda é necessário rever os currículos, particularmente os materiais didácticos em termos da sua sensibilidade a questões de género. A avaliação do PEEC observou que“….Globalmente as questões de género não são majoradas no currículo e materiais do Ensino Primário (incluindo os da formação de professores).”
 
 A estratégia de género (ainda em elaboração), define as acções na perspectiva de três grandes enfoques do sector em termos de:
 
-- Inclusão e equidade : assegurar o acesso, a retenção e a conclusão com sucesso em todos os níveis de ensino, diminuindo o fosso de género;
+- Inclusão e equidade: assegurar o acesso, a retenção e a conclusão com sucesso em todos os níveis de ensino, diminuindo o fosso de género;
 
-- Aprendizagem do aluno : aumentar a capacidade de rapazes e raparigas de desafiarem as relações de género desiguais, questionando os estereótipos e atitudes que geram a desigualdade;
+- Aprendizagem do aluno: aumentar a capacidade de rapazes e raparigas de desafiarem as relações de género desiguais, questionando os estereótipos e atitudes que geram a desigualdade;
 
-- Boa governação : reforçar a capacidade técnica, financeira e organizacional, assegurando a transversalidade do tratamento de questões de género de uma forma eficaz, e a garantia dos direitos humanos.
+- Boa governação: reforçar a capacidade técnica, financeira e organizacional, assegurando a transversalidade do tratamento de questões de género de uma forma eficaz, e a garantia dos direitos humanos.
 
 Nesta  perspectiva,  destaca-se,  de  forma  particular,  o  enfoque  no  ingresso  das crianças na escola na idade certa 29 e na sua retenção, assegurando a sua transição, em condições de igualdade, para os níveis de ensino seguintes. É também necessário aumentar a participação das raparigas nas escolas técnico-profissionais e em cursos industriais e agrários, bem como em cursos de ciências naturais, engenharias, geologia e minas. A estas duas necessidades, acresce-se a de colocação de professoras em zonas rurais, bem como a consolidação da perspectiva de género nos curricula,  materiais  educativos,  na  formação  dos  professores  e  gestores  do sistema. Ainda, é necessário consolidar a perspectiva de género em campanhas de advocacia que promovem a procura da Educação, e a integração das acções que visem a criação de um ambiente favorável às questões de equidade e igualdade de género, por meio de escolas seguras e saudáveis (veja 5.2.5, pág. 44).
 
-#### 5.2.3 Crianças, jovens e adultos com necessidades educativas especiais
+### 5.2.3 Crianças, jovens e adultos com necessidades educativas especiais
 
 O MINED promove o direito de todas as crianças, jovens e adultos, a uma educação básica, incluindo aquelas que apresentam dificuldades físicas e/ou de aprendizagem e, portanto, necessitam de uma atenção educativa especial. A estratégia assenta no princípio da inclusão, com vista a assegurar que as crianças, os jovens e os adultos com necessidades educativas especiais e/ou com deficiência, possam frequentar escolas regulares, em vez de serem segregadas em escolas especiais.
 
-Neste momento, cerca de 24 mil crianças com necessidades educativas especiais frequentam as escolas do Ensino Primário. Contudo, a sua participação no Ensino Secundário é limitada a apenas pouco mais de 200 alunos. Existem 6 escolas especiais (ensino especial) na cidade de Maputo e nas províncias de Sofala e da Zambézia, que também têm como responsabilidade o apoio às escolas inclusivas. Neste momento, cerca de 600 alunos frequentam estas escolas.
+Neste momento, cerca de 24 mil crianças com necessidades educativas especiais frequentam as escolas do Ensino Primário. Contudo, a sua participação no Ensino Secundário é limitada a apenas pouco mais de 200 alunos. Existem 6 escolas
 
 > 29 A taxa de escolarização aos seis anos parece estar a estagnar nos 70% (veja 6.1.2, no ponto sobre 'Entrada na idade certa' na pág. 55).
 
@@ -2066,17 +2302,17 @@ Neste momento, cerca de 24 mil crianças com necessidades educativas especiais f
 
 [[START OF PAGE 57]]
 
-A implementação do conceito de escola inclusiva é complexa e exige competências e habilidades adicionais dos professores para lidar com diferentes habilidades físicas e cognitivas dos seus alunos. Uma Educação Inclusiva requer um ensinoaprendizagem centrado no aluno. Ao mesmo tempo, é necessário uma atenção especial às características físicas da própria infra-estrutura da escola. Para promover uma melhor participação dos alunos com necessidades educativas especiais nas escolas regulares, é ainda necessário integrar melhor a abordagem da Educação Inclusiva para a diversidade nas políticas e regulamentos que orientam a (gestão da) Escola e na formação de professores para todos os subsistemas e níveis de ensino.
+especiais (ensino especial) na cidade de Maputo e nas províncias de Sofala e da Zambézia, que também têm como responsabilidade o apoio às escolas inclusivas. Neste momento, cerca de 600 alunos frequentam estas escolas.
+
+A implementação do conceito de escola inclusiva é complexa e exige competências e habilidades adicionais dos professores para lidar com diferentes habilidades físicas e cognitivas dos seus alunos. Uma Educação Inclusiva requer um ensino-aprendizagem centrado no aluno. Ao mesmo tempo, é necessário uma atenção especial às características físicas da própria infra-estrutura da escola. Para promover uma melhor participação dos alunos com necessidades educativas especiais nas escolas regulares, é ainda necessário integrar melhor a abordagem da Educação Inclusiva para a diversidade nas políticas e regulamentos que orientam a (gestão da) Escola e na formação de professores para todos os subsistemas e níveis de ensino.
 
 É nesta perspectiva que os três Centros de Recursos para a Educação Inclusiva (CREI) constituem, efectivamente, um laboratório de referência para os processos e estratégias de inclusão escolar, através de cursos modulares, capacitação de professores, mobilização e sensibilização da comunidade, entre outros. Os Centros são multifuncionais, orientados para os níveis primário e secundário, abarcando áreas de formação e de capacitação profissional, serviços de diagnóstico e orientação, produção de materiais, entre outros.
 
-#### 5.2.4 Prevenção e mitigação do HIV e SIDA
+### 5.2.4 Prevenção e mitigação do HIV e SIDA
 
 Moçambique continua a observar taxas altas de prevalência. De acordo com o INSIDA (2009), 11,5% de moçambicanos no grupo etário 15-49 anos estavam infectados pelo HIV e SIDA. A prevalência entre as raparigas de 15-24 anos é de 8,2% contra 3,1% dos rapazes. Estima-se que existem cerca de 670.000 órfãos no grupo etário 0-17 anos, representando 6% deste grupo etário.
 
-O levantamento preliminar de dados do sector, indica que cerca de 2.000 funcionários e agentes do Estado (casos declarados) vivem com HIV e SIDA (cerca de 2%
-
-do total dos funcionários). A maior parte destes estão a seguir o tratamento anti-retroviral (TARV). Estima-se que entre 700 e 800 funcionários e agentes do Estado tenham falecido 30   anualmente entre 2008 e 2010, representando 0,6% do total dos funcionários.
+O levantamento preliminar de dados do sector, indica que cerca de 2.000 funcionários e agentes do Estado (casos declarados) vivem com HIV e SIDA (cerca de 2% do total dos funcionários). A maior parte destes estão a seguir o tratamento anti-retroviral (TARV). Estima-se que entre 700 e 800 funcionários e agentes do Estado tenham falecido 30 anualmente entre 2008 e 2010, representando 0,6% do total dos funcionários.
 
 O sector da Educação estabeleceu quatro níveis de actuação no combate ao HIV e SIDA, nomeadamente:
 
@@ -2102,7 +2338,7 @@ PEEC 06-11
 
 Prioridades
 
-Estrutura a que as principais missões do sector da Educação não sejam colocadas em risco;
+Estrutura
 
 Estrutura e Assuntos Transversais |43
 
@@ -2126,19 +2362,21 @@ Prioridades
 
 Estrutura
 
+a que as principais missões do sector da Educação não sejam colocadas em risco;
+
 - Como parte da resposta nacional: desenvolvimento de relações com os parceiros governamentais e não-governamentais para um apoio efectivo no combate à propagação do HIV e SIDA.
 
 Apesar de sector considerar o HIV e SIDA como tema transversal, os programas do sector nesta área foram inicialmente concebidos como projectos específicos, com um orçamento próprio e com um modelo de implementação também específico. Os maiores desafios para o futuro são:
 
-- Assegurar que intervenções de prevenção e mitigação do HIV e SIDA tenham uma cobertura nacional;
+i) Assegurar que intervenções de prevenção e mitigação do HIV e SIDA tenham uma cobertura nacional;
 
-- ii) Assegurar o desenvolvimento de capacidade institucional (humana e financeira) que permita a execução e sustentabilidade das intervenções a médio e a longo prazos.
+ii) Assegurar o desenvolvimento de capacidade institucional (humana e financeira) que permita a execução e sustentabilidade das intervenções a médio e a longo prazos.
 
 Estes propósitos só podem ser realizados através da integração e inclusão efectiva dos conteúdos de prevenção e mitigação do HIV e SIDA no Sistema Educativo, nos diferentes subsistemas e níveis de ensino, no livro escolar e noutras formas pertinentes. Impõe-se, igualmente, um apoio directo e permanente às escolas e à gestão dos recursos humanos do sector da Educação.
 
 Neste sentido, iniciou-se uma revisão dos vários programas na área de prevenção e mitigação do HIV e SIDA, que visa assegurar que os conteúdos relacionados com esta  problemática  sejam  integrados  no  sistema  de  planificação,  orçamentação, gestão e monitoria através dos mecanismos existentes (sistema de informação de rotina, supervisão central, provincial e distrital e outros), de modo a garantir uma resposta contínua e sustentável para mitigar os efeitos nefastos a médio e a longo prazos.
 
-#### 5.2.5 Ambiente escolar saudável e seguro
+### 5.2.5 Ambiente escolar saudável e seguro
 
 Para um bom desempenho dos alunos é necessário que os alunos estejam saudáveis, emocionalmente estáveis e tenham uma alimentação adequada.
 
@@ -2160,11 +2398,11 @@ Um ambiente escolar saudável e seguro não é apenas responsabilidade da Educa�
 
 Atenção particular continua a ser dada ao controlo do abuso sexual, da violência, das drogas e do álcool nas escolas, como responsabilidade de todos.
 
-### 5.3 Programas específicos
+## 5.3 Programas específicos
 
 Além da integração dos assuntos transversais anteriormente referidos, há outras áreas que merecem uma atenção particular.
 
-#### 5.3.1 Produção escolar
+### 5.3.1 Produção escolar
 
 A produção escolar deve ser considerada como um contributo para a educação integral do aluno e deve ser principalmente uma actividade curricular em que se liga a teoria à prática, desenvolvendo-se nos alunos habilidades para a vida quotidiana e/ou profissionalizante.
 
@@ -2172,13 +2410,27 @@ Neste sentido, para garantir a sua implementação, as actividades devem ser int
 
 Uma atenção particular é dada ao nível das escolas/instituições técnicas profissionais, cuja produção escolar poderá contribuir para o aumento das receitas próprias da escola, beneficiando o seu funcionamento.
 
-#### 5.3.2 Alimentação escolar e nutrição
+### 5.3.2 Alimentação escolar e nutrição
 
-A importância de uma alimentação equilibrada e adequada para a retenção dos alunos e o seu desempenho escolar é inquestionável. Há uma elevada percentagem de desnutrição crónica (cerca de 44% nas crianças até aos cinco anos), com um impacto negativo no desenvolvimento cognitivo da criança, difícil de recuperar. De acordo com dados do Programa Mundial de Alimentação (PMA), estima-se que perto de 1.000.000 de crianças em idade escolar vivem em zonas de extrema insegurança alimentar. Muitas crianças começam o dia sem refeição, o que torna difícil  a  sua  concentração  na  sala  de  aula.  Para  além  disso,  15%  das  crianças  no grupo etário 6-12 anos têm sinais físicos de deficiência de iodina, o que poderá contribuir para problemas físicos ou mentais graves. O estágio de nutrição de uma Vamos Aprender Prefácio Resumo Contexto Visão e missão PEEC 06-11
+A importância de uma alimentação equilibrada e adequada para a retenção dos alunos e o seu desempenho escolar é inquestionável. Há uma elevada percentagem de desnutrição crónica (cerca de 44% nas crianças até aos cinco anos), com um impacto negativo no desenvolvimento cognitivo da criança, difícil de recuperar. De acordo com dados do Programa Mundial de Alimentação (PMA), estima-se que perto de 1.000.000 de crianças em idade escolar vivem em zonas de extrema insegurança alimentar. Muitas crianças começam o dia sem refeição, o que torna difícil a sua concentração na sala de aula. Para além disso, 15% das crianças no grupo etário 6-12 anos têm sinais físicos de deficiência de iodina, o que poderá contribuir para problemas físicos ou mentais graves. O estágio de nutrição de uma
+
+Vamos
+
+Aprender
+
+Prefácio
+
+Resumo
+
+Contexto
+
+Visão e missão
+
+PEEC 06-11
 
 Prioridades
 
-Estrutura criança está, por um lado, directamente ligado à pobreza da sua família e, por outro lado, também aos conhecimentos sobre o que é uma boa alimentação e o seu valor.
+Estrutura
 
 Estrutura e Assuntos Transversais |45
 
@@ -2204,6 +2456,8 @@ Prioridades
 
 Estrutura
 
+criança está, por um lado, directamente ligado à pobreza da sua família e, por outro lado, também aos conhecimentos sobre o que é uma boa alimentação e o seu valor.
+
 Melhorar o estado nutricional das crianças requer uma abordagem multissectorial. Estudos recentes mostram que o sector da Educação em Moçambique precisaria de 25% 31 do seu orçamento anual para garantir alimentação escolar a cerca de seis milhões de crianças matriculadas em todas escolas primárias do país.
 
 Assegurando que as intervenções sejam sustentáveis, o enfoque do sector nesta área será na:
@@ -2214,15 +2468,15 @@ Assegurando que as intervenções sejam sustentáveis, o enfoque do sector nesta
 
 - Introdução de um programa de alimentação escolar no EP para as crianças mais vulneráveis (veja 6.1.6, pág. 64).
 
-#### 5.3.3 Desporto Escolar
+### 5.3.3 Desporto Escolar
 
 O desenvolvimento de capacidades psicomotoras é de importância vital para o processo de ensino-aprendizagem. A prática do desporto nos estabelecimentos de ensino, a formação e a massificação desportiva cresceu nos últimos anos em todo o país.
 
 O enfoque do PEE 2012-2016, nesta área, deverá ser o de fortalecer o processo de formação de professores e agentes desportivos, construir e reabilitar infra-estruturas desportivas e fornecer à comunidade escolar equipamento básico desportivo.
 
-### 5.4 Áreas programáticas
+## 5.4 Áreas programáticas
 
-#### 5.4.1 Formação, capacitação e motivação do professor
+### 5.4.1 Formação, capacitação e motivação do professor
 
 Um professor motivado, preparado e apoiado é crucial para a aprendizagem dos seus alunos. Neste contexto, a qualidade da formação, a provisão e o apoio pedagógico aos professores continuarão a merecer atenção central neste plano.
 
@@ -2240,11 +2494,11 @@ A formação de um professor deve ser considerada no contexto da profissionaliza
 
 Reconhecendo a complexidade e importância do assunto, foi criada uma Direcção Nacional para a Formação de Professores (DNFP) com o mandato principal de melhorar o desempenho dos professores, através de, entre outras acções, assegurar uma melhor integração da formação com o desenvolvimento profissional e da promoção de uma melhor cooperação entre os vários intervenientes dentro e fora do Governo.
 
-#### 5.4.2 Tecnologias de Informação e Comunicação (TIC)
+### 5.4.2 Tecnologias de Informação e Comunicação (TIC)
 
 Os sistemas de ensino, hoje mais do que nunca, desempenham um papel chave na preparação equitativa dos cidadãos para os novos desafios do desenvolvimento multifacetado da sociedade. Ao longo dos últimos anos, houve grandes avanços em termos de acesso às tecnologias de informação e de comunicação (TICs) ao nível do País. A partir de 2000 adoptou-se uma política de promoção e expansão das novas tecnologias que toma em conta o seu potencial para o desenvolvimento do País.
 
-A introdução das Tecnologias de Informação e Comunicação, aliada com a infraestruturação das escolas e com as reformas necessárias no sistema de ensino, é um factor chave para a melhoria da qualidade do ensino e para o desenvolvimento institucional, sendo uma aposta que já começou a acontecer nos países mais desenvolvidos e que, nos próximos anos, se alastrará a todo o mundo.
+A introdução das Tecnologias de Informação e Comunicação, aliada com a infra-estruturação das escolas e com as reformas necessárias no sistema de ensino, é um factor chave para a melhoria da qualidade do ensino e para o desenvolvimento institucional, sendo uma aposta que já começou a acontecer nos países mais desenvolvidos e que, nos próximos anos, se alastrará a todo o mundo.
 
 A avaliação do PEEC notou que, embora se verifiquem progressos no uso de TICs como um instrumento de apoio à gestão ao nível do Ministério, das DPECs e até mesmo em alguns distritos já electrificados, a sua integração no currículo como meio do ensino e de comunicação é ainda limitada.
 
@@ -2294,11 +2548,13 @@ PEEC 06-11
 
 Prioridades
 
-Estrutura ao nível da escola e da articulação entre os diferentes níveis de governação do sistema de ensino. O Plano prevê que a existência de computadores para gestão escolar em todos os níveis de ensino seja complementada por sistemas de gestão eficientes e adequados à realidade e aos desafios do país;
+Estrutura
+
+ao nível da escola e da articulação entre os diferentes níveis de governação do sistema de ensino. O Plano prevê que a existência de computadores para gestão escolar em todos os níveis de ensino seja complementada por sistemas de gestão eficientes e adequados à realidade e aos desafios do país;
 
 - Sala de Aula - a introdução das TICs na sala de aula, enquanto ferramenta de aprendizagem, é chave para a melhoria da qualidade do ensino e para a  transformação  gradual  do  paradigma  de  aprendizagem.  Nos  próximos anos, o desafio consiste em não só leccionar a disciplina de TIC, mas, sobretudo, introduzir, de forma faseada, as TICs como ferramenta para aprendizagem das diferentes disciplinas tornando o processo de aprendizagem mais rico e completo. Está previsto o reforço significativo de salas de aula infra-estruturadas (PCs, videoprojector, ponto wireless) e com acesso à internet, bem como a adequação curricular e a introdução de conteúdos interactivos para proporcionar ao aluno uma experiência educativa mais rica e mais capaz de o preparar para os desafios da economia moçambicana.
 
-A estratégia de longo prazo pretende caminhar para um ensino interactivo, apoiado pela tecnologia (ou seja e-learning ). Isto requer a actualização e a adopção dos currículos e materiais existentes, da formação de professores, do equipamento das escolas e instituições de ensino, colocando um peso grande na capacidade existente do sistema.
+A estratégia de longo prazo pretende caminhar para um ensino interactivo, apoiado pela tecnologia (ou seja e-learning). Isto requer a actualização e a adopção dos currículos e materiais existentes, da formação de professores, do equipamento das escolas e instituições de ensino, colocando um peso grande na capacidade existente do sistema.
 
 48| Estrutura e Assuntos Transversais
 
@@ -2308,17 +2564,17 @@ A estratégia de longo prazo pretende caminhar para um ensino interactivo, apoia
 
 Portanto, no quinquénio 2012-2016, a presença das TICs no sistema de ensino será reforçada abrangendo, gradualmente a formação de professores, o Ensino Secundário Geral e o ensino técnico-profissional, com enfoque no apoio à gestão das instituições  (IFPs,  escolas  secundárias  e  técnicas)  e  na  introdução  das  TICs como uma disciplina curricular. Dependendo da capacidade do sector de atrair mais recursos para esta área, será expandida a sua aplicação e cobertura a outros níveis de ensino.
 
-Espera-se, também, neste contexto, a criação de capacidade entre os provedores de Educação à Distância para o uso de uma plataforma de e-learning , que servirá os vários níveis de ensino, garantindo-se uma maior e melhor expansão da Educação Aberta e à Distância (EAD).
+Espera-se, também, neste contexto, a criação de capacidade entre os provedores de Educação à Distância para o uso de uma plataforma de e-learning, que servirá os vários níveis de ensino, garantindo-se uma maior e melhor expansão da Educação Aberta e à Distância (EAD).
 
-#### 5.4.3 Educação Aberta e à Distância (EAD)
+### 5.4.3 Educação Aberta e à Distância (EAD)
 
 O PEEC 2006-2010/11 promoveu a educação aberta e à distância para expandir o acesso a todos os subsistemas e níveis de Educação. Neste contexto, esta modalidade de ensino deve ser considerada como mais uma opção viável para todos, e não apenas como uma alternativa para aqueles que não conseguem entrar no sistema presencial.
 
 Foi criado, no país, o Instituto Nacional de Educação à Distância (INED), uma instituição coordenadora e reguladora da Educação à Distância no âmbito do Sistema Nacional de Educação e o Instituto para a Educação à Distância e Aberta (IEDA), instituição implementadora de programas de ensino à distância.
 
-Para os próximos anos, dar-se-á enfoque à avaliação e à consolidação das acções nesta área, que incluem a elaboração de uma política e estratégia de Educação à Distância, o desenvolvimento do sistema de acreditação e garantia de qualidade, a consolidação dos vários programas e iniciativas em curso, a implementação dos projectos-pilotos do INED, a construção e a consolidação da rede dos Centros Provinciais de Educação à Distância. Estas acções tomam em conta o seu custobenefício, e têm como objectivo principal aumentar e diversificar a oferta educativa nos diferentes níveis de ensino.
+Para os próximos anos, dar-se-á enfoque à avaliação e à consolidação das acções nesta área, que incluem a elaboração de uma política e estratégia de Educação à Distância, o desenvolvimento do sistema de acreditação e garantia de qualidade, a consolidação dos vários programas e iniciativas em curso, a implementação dos projectos-pilotos do INED, a construção e a consolidação da rede dos Centros Provinciais de Educação à Distância. Estas acções tomam em conta o seu custo-benefício, e têm como objectivo principal aumentar e diversificar a oferta educativa nos diferentes níveis de ensino.
 
-A prioridade será dada à expansão ao nível do ensino pós-primário e à formação de professores ( para mais detalhes veja os programas sectoriais relevantes ), beneficiando do potencial da plataforma de e-learning a ser criada.
+A prioridade será dada à expansão ao nível do ensino pós-primário e à formação de professores (para mais detalhes veja os programas sectoriais relevantes), beneficiando do potencial da plataforma de e-learning a ser criada.
 
 Vamos Aprender
 
@@ -2348,29 +2604,27 @@ Estrutura e Assuntos Transversais |49
 
 [[START OF PAGE 65]]
 
-## 6.	 Programas Sectoriais
+# 6.	 Programas Sectoriais
 
 Como já referido em 5.1, pág. 39, o Plano Estratégico é abordado através de seis programas sectoriais que são a substância do Plano Estratégico da Educação.
 
 O Quadro 10 reflecte por programa sectorial, o objectivo geral e o seu indicador e meta para avaliar o impacto da implementação destes programas ao longo dos próximos cinco anos.
 
-Programa Sec- torial | Objectivo Geral | Indicador Principal de Resultado | Base 2011 | Meta 2016
---- | --- | --- | --- | --- | ---
-Ensino (Pré) Primário | Assegurar que todas as crianças tenham oportunidade de con- cluir uma educação básica de 7 classes com qualidade | 1. Taxa bruta de conclusão 1 | Total | 49% (2010) | 54% (2015)
-Raparigas | 45% (2010) | 51% (2015)
-Alfabetização e Educação para os Adultos | Aumentar as oportunidades para que mais jovens e adultos, com especial atenção à mulher e rapariga, sejam alfabetizados | 2. Taxa de analfabe- tismo | Total | 48,1% (2008) | 30%
-Mulheres | 62,7% (2008) | 45%
-Ensino Secundário | Expandir, de forma controlada, equitativa e sustentável, o aces- so ao Ensino Secundário profis- sionalizante, com enfoque na sua qualidade e relevância | 3. Taxa bruta de es- colarização (ESG1) | Total | 46% | 50%
-Mulheres | 43% | 47%
-Ensino Técnico profissional | Melhorar o acesso, a relevân- cia, a eficiência, a eficácia e a qualidade do Ensino Técnico- Profissional visando o desenvol- vimento do País | 4. % de graduados ab- sorvidos pelo mercado de trabalho de acordo com a sua formação | PIREP) | 27% (2007) | 60%
-Ensino Superior | Promover a participação e o acesso a um ensino superior que responde às necessidades para o desenvolvimento socioe- conómico do país, garantindo a sua eficácia, equilíbrio e susten- tabilidade | 5. Número de estudan- tes no Ensino Superior por 1.000 habitantes | 3 (2009) | 5
-Desenvolvimen- to Administra- tivo e Institu- cional | Fortalecer a gestão profissiona- lizada do Sistema Educativo aos vários níveis, particularmente nos distritos, com vista a me- lhorar a qualidade de prestação dos serviços educativos, com equidade, em todo o país | 6. Índice de satisfação da população com a qualidade dos serviços educativos | n.a | Satis- fatório
-
 Quadro 10:	 Objectivos, indicadores e metas gerais do sector para os anos 2012-2016, por programa sectorial
 
-1
+| Programa Sectorial | Objectivo Geral | Indicador Principal de Resultado |  | Base 2011 | Meta 2016 |
+| --- | --- | --- | --- | --- | --- |
+| Ensino (Pré) Primário | Assegurar que todas as crianças tenham oportunidade de concluir uma educação básica de 7 classes com qualidade | 1. Taxa bruta de conclusão¹ | Total | 49% (2010) | 54% (2015) |
+|  |  |  | Raparigas | 45% (2010) | 51% (2015) |
+| Alfabetização e Educação para os Adultos | Aumentar as oportunidades para que mais jovens e adultos, com especial atenção à mulher e rapariga, sejam alfabetizados | 2. Taxa de analfabetismo | Total | 48,1% (2008) | 30% |
+|  |  |  | Mulheres | 62,7% (2008) | 45% |
+| Ensino Secundário | Expandir, de forma controlada, equitativa e sustentável, o acesso ao Ensino Secundário profissionalizante, com enfoque na sua qualidade e relevância | 3. Taxa bruta de escolarização (ESG1) | Total | 46% | 50% |
+|  |  |  | Mulheres | 43% | 47% |
+| Ensino Técnico profissional | Melhorar o acesso, a relevância, a eficiência, a eficácia e a qualidade do Ensino Técnico-Profissional visando o desenvolvimento do País | 4. % de graduados absorvidos pelo mercado de trabalho de acordo com a sua formação (programa PIREP) |  | 27% (2007) | 60% |
+| Ensino Superior | Promover a participação e o acesso a um ensino superior que responde às necessidades para o desenvolvimento socioeconómico do país, garantindo a sua eficácia, equilíbrio e sustentabilidade | 5. Número de estudantes no Ensino Superior por 1.000 habitantes |  | 3 (2009) | 5 |
+| Desenvolvimento Administrativo e Institucional | Fortalecer a gestão profissionalizada do Sistema Educativo aos vários níveis, particularmente nos distritos, com vista a melhorar a qualidade de prestação dos serviços educativos, com equidade, em todo o país | 6. Índice de satisfação da população com a qualidade dos serviços educativos |  | n.a | Satisfatório |
 
-Este indicador relaciona o número de crianças que concluem o Ensino Primário (7ª classe) (turnos diurno e nocturno, ensinos público, privado e comunitário), independentemente da sua idade (numerador) com a população de 12 anos (denominador).
+> 1 Este indicador relaciona o número de crianças que concluem o Ensino Primário (7ª classe) (turnos diurno e nocturno, ensinos público, privado e comunitário), independentemente da sua idade (numerador) com a população de 12 anos (denominador).
 
 Resumo
 
@@ -2418,15 +2672,15 @@ Programas
 
 Estes seis programas sectoriais são elaborados e apresentados em duas partes:
 
-- Neste capítulo,  aborda-se,  por  programa  sectorial,  uma  discussão  sobre os progressos realizados durante a implementação do PEEC e os desafios principais da área referente. São apresentados os enfoques e os objectivos estratégicos para os próximos anos, bem como as estratégias principais e as acções prioritárias;
+i) Neste capítulo, aborda-se, por programa sectorial, uma discussão sobre os progressos realizados durante a implementação do PEEC e os desafios principais da área referente. São apresentados os enfoques e os objectivos estratégicos para os próximos anos, bem como as estratégias principais e as acções prioritárias;
 
-- ii) A segunda parte é constituída pelas matrizes do plano de implementação (em anexo):
+ii) A segunda parte é constituída pelas matrizes do plano de implementação (em anexo):
 
-- A primeira matriz ( matriz estratégica ) apresenta um resumo do Plano Estratégico por programa sectorial em termos de objectivos gerais e estratégicos bem como as acções prioritárias identificadas para atingir os objectivos estratégicos. A matriz ainda define os indicadores de resultado e as suas respectivas metas para orientar a monitoria anual da implementação do plano estratégico;
+- A primeira matriz (matriz estratégica) apresenta um resumo do Plano Estratégico por programa sectorial em termos de objectivos gerais e estratégicos bem como as acções prioritárias identificadas para atingir os objectivos estratégicos. A matriz ainda define os indicadores de resultado e as suas respectivas metas para orientar a monitoria anual da implementação do plano estratégico;
 
-- A segunda matriz ( matriz operacional )  define,  por  cada  acção  prioritária  especificada  na  matriz  estratégica,  as  actividades  principais,  os resultados esperados, as metas físicas 32 ,  os  determinantes de custos, os responsáveis e o cronograma de implementação. Este plano operacional é a base para o Cenário Fiscal de Médio Prazo (CFMP) do sector e o guia para a preparação dos planos e orçamentos anuais. Este plano operacional reflecte a integração dos assuntos transversais, os programas específicos e as áreas programáticas ao nível dos seis programas sectoriais (veja o Quadro 9, pág. 40).
+- A segunda matriz (matriz operacional) define, por cada acção prioritária especificada na matriz estratégica, as actividades principais, os resultados esperados, as metas físicas 32, os determinantes de custos, os responsáveis e o cronograma de implementação. Este plano operacional é a base para o Cenário Fiscal de Médio Prazo (CFMP) do sector e o guia para a preparação dos planos e orçamentos anuais. Este plano operacional reflecte a integração dos assuntos transversais, os programas específicos e as áreas programáticas ao nível dos seis programas sectoriais (veja o Quadro 9, pág. 40).
 
-> 32 Refere-se  a  metas  que  influenciam  a  orçamentação  das  actividades  (ou  seja  indicadores  de 'input') como sendo o número de salas de aula a construir, o número de professores a capacitar, etc.
+> 32 Refere-se a metas que influenciam a orçamentação das actividades (ou seja indicadores de “input”) como sendo o número de salas de aula a construir, o número de professores a capacitar, etc.
 
 52| Programas sectorais
 
@@ -2434,13 +2688,13 @@ Estes seis programas sectoriais são elaborados e apresentados em duas partes:
 
 [[START OF PAGE 67]]
 
-### 6.1 Ensino (Pré) Primário
+## 6.1 Ensino (Pré) Primário
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Assegurar  que  todas  as  crianças  tenham  oportunidade  de  concluir  uma educação básica de 7 classes com qualidade.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Assegurar que todas as crianças ingressem no ensino na idade certa (6 ou 7 anos) e que permaneçam até completar a sétima classe;
 
@@ -2448,7 +2702,7 @@ Assegurar  que  todas  as  crianças  tenham  oportunidade  de  concluir  uma ed
 
 - Melhorar a eficiência e eficácia no uso dos recursos disponibilizados ao Ensino Primário.
 
-#### 6.1.1 Visão
+### 6.1.1 Visão
 
 O Governo prioriza o Ensino Primário de sete anos para todas as crianças (veja 4.1, pág. 33) reconhecendo contudo que, a longo prazo, o Ensino Primário (EP) de sete anos não é suficiente para a preparação da nova geração com conhecimentos, habilidades e atitudes que facilitem a sua melhor integração na sociedade como cidadãos activos. Moçambique é parte da 'aldeia global', que está em constante mudança e, neste sentido, a cidadania é um processo dinâmico e as habilidades básicas devem ser entendidas como flexíveis, de modo a adaptar-se às especificidades e dinâmicas dos contextos e aos seus desafios.
 
@@ -2476,7 +2730,7 @@ Prioridades
 
 Estrutura
 
-Programas A escola primária, como um pólo para o desenvolvimento da criança, deve cultivar os valores de cidadania em geral, da moçambicanidade e do respeito pela(s) cultura(s).
+Programas
 
 Ensino (Pré) Primário - Programas sectorais |53
 
@@ -2502,25 +2756,27 @@ Estrutura
 
 Programas
 
-#### 6.1.2 Estágio actual
+A escola primária, como um pólo para o desenvolvimento da criança, deve cultivar os valores de cidadania em geral, da moçambicanidade e do respeito pela(s) cultura(s).
 
-##### Progressos
+### 6.1.2 Estágio actual
+
+#### Progressos
 
 Registaram-se progressos no período da implementação do PEEC em termos de aumento da oferta e da procura do Ensino Primário.
 
-###### Participação
+##### Participação
 
 O número de alunos no Ensino Primário passou de 3,6 milhões em 2004 para 4,6 milhões em 2007 e 5,3 milhões em 2011. A taxa de escolarização das crianças entre os 6 e os 12 anos é estimada em 93% (2011) contra 89% em 2007.
 
 Anualmente, um número crescente de alunos conclui a 7ª classe. A taxa de conclusão aumentou de 34% em 2004 para 49% em 2010.
 
-###### Equidade de género e regional
+##### Equidade de género e regional
 
 A paridade de género melhorou de 0,83 em 2004 para 0,90 em 2011 com reduções significativas na disparidade entre as províncias e os distritos com as mais altas e mais baixas percentagens de raparigas entre 2004 e 2011.
 
 Os dados do Inquérito ao Orçamento Familiar de 2008 (IOF) revelam que a diferença entre os mais ricos e os mais pobres evoluiu de 43% em 2003 para 23% em 2008, como resultado da política de Ensino Primário gratuito para todos.
 
-###### Investimentos
+##### Investimentos
 
 Foram feitos grandes investimentos para assegurar que o aumento do número de alunos fosse acompanhado pelos recursos necessários em termos de provisão de professores, livros escolares, materiais didácticos e o apoio financeiro directo às escolas.
 
@@ -2534,11 +2790,11 @@ Para melhorar a eficiência interna, a qualidade e a relevância da Educação, 
 
 [[START OF PAGE 69]]
 
-##### Desafios
+#### Desafios
 
 Permanecem, contudo, outros desafios.
 
-###### Entrada na idade certa
+##### Entrada na idade certa
 
 Embora tenha havido grandes avanços nesta área, nem todas as crianças ingressam na escola aos seis anos. A escolarização aos 6 anos, na 1ª classe, estima-se em 70%, em 2010 e 2011. A escolarização aos 7 anos, em 2011, estima-se em 97%.
 
@@ -2564,7 +2820,7 @@ Prioridades
 
 Estrutura
 
-Programas Em 2011, na 1ª classe, cerca 200.000 alunos (16% dos alunos) tem 9 anos ou mais. Existe uma grande diferença entre as províncias de Nampula (25%) e de Maputo (7%).
+Programas
 
 Ensino (Pré) Primário - Programas sectorais |55
 
@@ -2590,9 +2846,11 @@ Estrutura
 
 Programas
 
+Em 2011, na 1ª classe, cerca 200.000 alunos (16% dos alunos) tem 9 anos ou mais. Existe uma grande diferença entre as províncias de Nampula (25%) e de Maputo (7%).
+
 Gráfico 6: Número de alunos na 1ª classe (total e com 9 anos e mais), e percentagem dos alunos com 9 anos e mais (ensinos público, comunitário, privado) (2011)
 
-###### Retenção até à 7ª classe
+##### Retenção até à 7ª classe
 
 Embora a maior parte dos alunos entre os 6 e os 12 anos frequentem a escola primária, a sua retenção até à 7ª classe ainda é baixa, estimando-se em 41% 33 , num intervalo de seis anos, entre 2004 e 2010.
 
@@ -2622,7 +2880,7 @@ Taxas de desistência anual na 2ª, 5ª e 7ª classes, 2007 e 2011
 
 Não obstante o facto das elevadas taxas de repetição terem baixado (de mais de 20% no período até 2004 para 5%-7% a partir de 2005) com a introdução do novo currículo, em 2010, a taxa média de desistência subiu para valores acima dos 10%.
 
-###### Desempenho dos alunos
+##### Desempenho dos alunos
 
 A queda nas taxas de aproveitamento que se verifica desde 2008 em todas as classes, e na 5ª classe já desde 2006, transmite um sinal preocupante sobre o processo de aprendizagem ao nível da sala de aula.
 
@@ -2674,13 +2932,13 @@ O estudo do SACMEQ 2007 mostra não apenas que o desempenho em Moçambique está
 
 Falta  ainda  um  instrumento diagnóstico para um melhor acompanhamento do processo de ensino-aprendizagem ao nível da sala de aula no dia-a-dia.
 
-###### Capacidade de gestão e implementação de reformas
+##### Capacidade de gestão e implementação de reformas
 
 A avaliação do Plano Estratégico revelou fraquezas na implementação das estratégias e reformas principais do sector. Apesar de ter beneficiado de um aumento de recursos humanos e financeiros, as necessidades do sector ainda estão muito acima dos recursos disponibilizados. A título de exemplo:
 
 - O sector não conseguiu construir salas de aula com a qualidade e nas quantidades necessárias para responder à demanda, devido a limitações financeiras e à falta de capacidade técnica, ao nível local;
 
-- Apesar de se ter conseguido contratar mais professores, o rácio alunosprofessor ainda permanece alto, tanto por causa das necessidades elevadas, como por falta de racionalização do seu uso, principalmente no EP2, e atrasos nos processos de substituição dos docentes que abandonam o sistema;
+- Apesar de se ter conseguido contratar mais professores, o rácio alunos-professor ainda permanece alto, tanto por causa das necessidades elevadas, como por falta de racionalização do seu uso, principalmente no EP2, e atrasos nos processos de substituição dos docentes que abandonam o sistema;
 
 - Embora a reforma na formação dos professores tenha resultado no aumento do número de professores formados, o currículo de formação inicial ainda se revela muito teórico e não foi dada atenção adequada à formação em serviço e ao acompanhamento aos novos professores, ao nível da sala de aula;
 
@@ -2706,7 +2964,7 @@ A avaliação do Plano Estratégico revelou fraquezas na implementação das est
 
 - Apesar da política de inclusão, a participação na escola e atendimento na sala  de  aula  dos  alunos  com  necessidades  educativas  especiais  ainda  é muito limitada, devido, entre outros factores, à falta dos materiais didácticos e à preparação dos professores.
 
-#### 6.1.3 Prioridades para os próximos anos
+### 6.1.3 Prioridades para os próximos anos
 
 Para os próximos anos, a universalização do Ensino Primário de sete classes permanece central na estratégia do Governo no combate à pobreza. O sector compromete-se a criar condições para que todas as crianças tenham a oportunidade de frequentar e concluir a escola primária.
 
@@ -2716,15 +2974,15 @@ Para atingir o objectivo principal deste programa, o enfoque nos próximos anos 
 
 - Um melhor desempenho do aluno em termos de aquisição de competências básicas, com enfoque na aprendizagem no 1º ciclo;
 
-- Maior eficiência no uso dos recursos disponibilizados para o EP .
+- Maior eficiência no uso dos recursos disponibilizados para o EP.
 
-#### 6.1.4 Enfoque especial: Desenvolvimento da Primeira Infância 35
+### 6.1.4 Enfoque especial: Desenvolvimento da Primeira Infância 35
 
 A  importância  dos  primeiros  anos  da  vida  é  reconhecida  internacionalmente 36 como sendo crucial para o desenvolvimento equilibrado de uma criança: a maior parte do cérebro é formada ao longo dos primeiros três anos de vida. O seu desenvolvimento é influenciado pela nutrição (já a partir da concepção), estimulação cognitiva e emocional e estado de saúde. Estima-se que cerca de 200 milhões das crianças estão em risco de não desenvolver o seu potencial, devido à pobreza e deficiências nutricionais, bem como a poucas oportunidades de estimulação cognitiva  precoce.  É  importante  notar  que  atrasos  no  seu  desenvolvimento,  nesta fase de vida, são difíceis de recuperar mais tarde.
 
 > 35 De acordo com a definição internacional, a Primeira Infância vai desde o momento da concepção até aos 8 anos de vida. O enfoque nos planos de Governo é na idade pré-escolar (0-5), pelo facto das intervenções dirigidas a este grupo etário serem ainda limitadas. O enfoque do Ministério da Educação neste plano estratégico, nas primeiras classes do Ensino Primário, revela que o Ministério assume a definição mais ampla da primeira infância.
 
-> 36 Engle PL, Fernald LCH, Alderman H, et al, and the Global Child Development Steering Group. Strategies for reducing inequalities and improving developmental outcomes for young children in lowincome and middle-income countries. Lancet series, 2011.
+> 36 Engle PL, Fernald LCH, Alderman H, et al, and the Global Child Development Steering Group. Strategies for reducing inequalities and improving developmental outcomes for young children in low-income and middle-income countries. Lancet series, 2011.
 
 Vamos
 
@@ -2744,7 +3002,7 @@ Prioridades
 
 Estrutura
 
-Programas Apesar dos progressos registados em termos de aumento do acesso aos serviços de saúde, educação e na área de nutrição, Moçambique tem indicadores muito baixos 37 relativos ao bem-estar das crianças na idade pré-escolar. Estima-se que cerca de 20% da população (ou seja 4,5 milhões) está na faixa etária dos 0 aos 5 anos. A taxa de mortalidade por HIV e SIDA é de cerca de 13% nas crianças de 1 a 4 anos de idade. A prevalência da desnutrição crónica (medida em termos de baixa altura para a idade para as crianças com menos de cinco anos), era de 44% em 2008 (ao mesmo nível do que em 2003). A percentagem de crianças menores de cinco anos com baixo peso-idade é de 18% em 2008 (22% em 2003). Actualmente, a cobertura dos serviços e cuidados educativos para as crianças dos 0 aos 5 anos é muito limitada (apenas 4% através de intervenções formais).
+Programas
 
 Ensino (Pré) Primário - Programas sectorais |59
 
@@ -2770,6 +3028,8 @@ Estrutura
 
 Programas
 
+Apesar dos progressos registados em termos de aumento do acesso aos serviços de saúde, educação e na área de nutrição, Moçambique tem indicadores muito baixos 37 relativos ao bem-estar das crianças na idade pré-escolar. Estima-se que cerca de 20% da população (ou seja 4,5 milhões) está na faixa etária dos 0 aos 5 anos. A taxa de mortalidade por HIV e SIDA é de cerca de 13% nas crianças de 1 a 4 anos de idade. A prevalência da desnutrição crónica (medida em termos de baixa altura para a idade para as crianças com menos de cinco anos), era de 44% em 2008 (ao mesmo nível do que em 2003). A percentagem de crianças menores de cinco anos com baixo peso-idade é de 18% em 2008 (22% em 2003). Actualmente, a cobertura dos serviços e cuidados educativos para as crianças dos 0 aos 5 anos é muito limitada (apenas 4% através de intervenções formais).
+
 O governo reconhece a importância de investir no desenvolvimento das crianças em idade pré-escolar para melhorar a qualidade da sua vida pessoal, da sua família, e, consequentemente, a sua participação no desenvolvimento do País. Neste sentido, o Plano Quinquenal do Governo 2010-2014 e o Plano de Acção para a Redução da Pobreza dão uma atenção especial ao desenvolvimento da primeira infância por meio de uma abordagem holística e integrada que envolve diferentes ministérios, nomeadamente o Ministério da Educação, da Mulher e Acção Social, da Saúde, do Interior, da Justiça, da Agricultura e das Obras Públicas e Habitação.
 
 O sector reconhece, já no PEEC 2006-2010/11, a importância de dar um maior enfoque ao desenvolvimento integrado e holístico da primeira infância e à necessidade de expansão das oportunidades para as crianças beneficiarem de uma educação pré-primária para que elas sejam melhor preparadas para o ingresso na escola na idade certa (aos 6 anos), melhorando a sua retenção e desempenho.
@@ -2790,29 +3050,43 @@ No entanto, devido a muitas outras prioridades, não houve avanços significativ
 
 assegurando a sua inclusão e retenção no sistema 38 . Ao mesmo tempo, considerando a importância da nutrição e saúde para o desenvolvimento cognitivo da criança, o Ministério vai reforçar outras intervenções com impacto indirecto na melhoria das condições na primeira infância da criança e da sua mãe, como sendo: i) promover a transição das raparigas do EP1 para o EP2 e, subsequentemente para o ESG; ii) continuar a promover a política de entrada na idade certa, dando atenção especial às meninas; iii) promover a integração de uma educação nutricional no currículo aos diferentes níveis e iv) promover, através dos programas de (pós)alfabetização, a educação parental.
 
-#### 6.1.5 Estratégias principais do Ensino Primário
+### 6.1.5 Estratégias principais do Ensino Primário
 
 A maior parte das estratégias que concorrem para a prossecução deste programa já foram concebidas no âmbito do Plano Estratégico de Educação e Cultura e a sua implementação já está bem encaminhada. Contudo, com base na avaliação da implementação do PEEC, a realização destes programas será ajustada, ao longo dos próximos anos, com o objectivo principal de melhorar e consolidar os progressos alcançados em anos anteriores.
 
-##### Entrada na idade certa para assegurar a retenção até à 7ª classe
+#### Entrada na idade certa para assegurar a retenção até à 7ª classe
 
 O sector continua a promover o acesso à escola primária na idade certa. Prevê-se que, se se der uma melhor atenção à primeira infância, haverá um aumento de crianças a entrarem mais cedo na escola primária.
 
 Para evitar que os alunos completem a 1ª classe com 5 anos 39 , a idade de entrada será redefinida. Um enfoque na entrada aos 6 ou 7 anos obriga a que se dê particular atenção às crianças com 9 e mais anos. Isto pode ser conseguido, por exemplo, através da criação de turmas específicas para este grupo que devem ter um currículo adaptado. Jovens com mais de 15 anos que ainda não tenham ingressado ou concluído o Ensino Primário do 1º Grau vão continuar a ser integrados em programas de alfabetização.
 
-A transformação das EP1s em EPCs facilitará a retenção dos alunos até à 7ª classe na mesma escola onde ingressaram na 1ª classe, eliminando a necessidade de percorrer longas distâncias para continuar a frequentar o EP2. Isto implicará, entre outros, maior desempenho do programa de construção de salas de aulas 40  através Vamos Aprender Prefácio Resumo Contexto Visão e missão PEEC 06-11
+A transformação das EP1s em EPCs facilitará a retenção dos alunos até à 7ª classe na mesma escola onde ingressaram na 1ª classe, eliminando a necessidade de percorrer longas distâncias para continuar a frequentar o EP2. Isto implicará, entre outros, maior desempenho do programa de construção de salas de aulas 40 através
 
-> 38 O investimento na área de Educação Pré-escolar poderá ser considerado como uma estratégia de aumentar a aprendizagem dos alunos no Ensino Primário, bem como de inclusão, assegurando a sua entrada na escola primária aos seis anos, aumentando a probabilidade da sua retenção no ensino. Experiências nos outros países indicam que as crianças mais vulneráveis beneficiam mais das intervenções nesta área. A avaliação do impacto das intervenções da Save the Children (Província de Gaza) realizadas pelo Banco Mundial mostra que as crianças que frequentam a pré-escola têm maior probabilidade de continuar a sua educação na idade certa. 'A promessa da Pré-Escola em África: A Avaliação de Impacto Randomizado de Desenvolvimento da Primeira Infância na zona Rural em Moçambique', WB, Fevereiro 2012.
+> 38 O investimento na área de Educação Pré-escolar poderá ser considerado como uma estratégia de aumentar a aprendizagem dos alunos no Ensino Primário, bem como de inclusão, assegurando a sua entrada na escola primária aos seis anos, aumentando a probabilidade da sua retenção no ensino. Experiências nos outros países indicam que as crianças mais vulneráveis beneficiam mais das intervenções nesta área. A avaliação do impacto das intervenções da Save the Children (Província de Gaza) realizadas pelo Banco Mundial mostra que as crianças que frequentam a pré-escola têm maior probabilidade de continuar a sua educação na idade certa. “A promessa da Pré-Escola em África: A Avaliação de Impacto Randomizado de Desenvolvimento da Primeira Infância na zona Rural em Moçambique”, WB, Fevereiro 2012.
 
 > 39 Isto é considerado cedo em termos do seu desenvolvimento holístico e poderá contribuir para problemas sociais e cognitivos, nas classes seguintes.
 
 > 40 Trata-se do programa com pior desempenho ao longo dos últimos anos por várias razões, entre outras, a fraca capacidade técnica ao nível das províncias e distritos na área de construção, bem como fraco controlo interno em termos de observância dos padrões de qualidade e regras de gestão estabelecidas. Para responder às fraquezas deste programa, foi introduzida uma nova abordagem em 2010, com o objectivo principal de aumentar a qualidade e a sustentabilidade das
 
+Vamos
+
+Aprender
+
+Prefácio
+
+Resumo
+
+Contexto
+
+Visão e missão
+
+PEEC 06-11
+
 Prioridades
 
 Estrutura
 
-Programas da realização das metas estabelecidas, observando, com rigor, as regras e normas existentes em termos de gestão deste programa.
+Programas
 
 Ensino (Pré) Primário - Programas sectorais |61
 
@@ -2838,19 +3112,21 @@ Estrutura
 
 Programas
 
+da realização das metas estabelecidas, observando, com rigor, as regras e normas existentes em termos de gestão deste programa.
+
 O sector continuará a sua política de inclusão, o que implica construir e equipar salas de aula que facilitem a participação das crianças com necessidades educativas especiais.
 
 Está prevista a introdução de medidas de protecção social através do aumento do Apoio Directo às Escolas (ADE) para apoiar os alunos mais carentes, e a introdução de um programa de alimentação escolar. Considerando as limitações financeiras, o grande desafio será definir e especificar o grupo-alvo para este tipo de intervenções. A prioridade deverá ser sempre dada às crianças de menor idade.
 
 Ao mesmo tempo, serão testadas, em colaboração com o Ministério de Mulher e Acção Social, inovações em termos de transferências monetárias ou outras para as famílias, visando estimular a participação e retenção das crianças na escola.
 
-##### Melhorar o desempenho do aluno
+#### Melhorar o desempenho do aluno
 
 O objectivo principal é de reverter a tendência negativa do aproveitamento dos alunos na 2ª, 5ª e 7ª classes, através de uma maior atenção para a aprendizagem de competências básicas de leitura, escrita e cálculo numérico.
 
 Isto implicará, entre outros, uma revisão da metodologia de ensino-aprendizagem da leitura, como tem sido recomendação de vários estudos, uma mudança fundamental na preparação inicial e em serviço dos professores e o seu acompanhamento ao nível da escola, bem como um melhor acompanhamento do processo de aprendizagem dos alunos na sala de aula. Esta medida implicará, por sua vez, rever a formação e afectação dos formadores de professores.
 
-##### Melhorar a implementação do currículo
+#### Melhorar a implementação do currículo
 
 Nos próximos anos, o sector continuará a implementação do novo currículo que inclui a promoção por ciclos de aprendizagem 41 . Vai-se priorizar a aprendizagem de competências básicas no primeiro ciclo, através da afectação dos melhores professores e de mais recursos.
 
@@ -2868,7 +3144,7 @@ obras, bem como acelerar a sua construção e melhor controlar a sua gestão. A 
 
 [[START OF PAGE 77]]
 
-##### Estratégia integrada de formação e capacitação dos professores
+#### Estratégia integrada de formação e capacitação dos professores
 
 Vai-se continuar a refinar a estratégia de formação e capacitação dos professores, virada para uma abordagem integrada para o seu desenvolvimento profissional através uma maior ligação entre a formação inicial e em serviço, e a supervisão e o acompanhamento adequado no seu local do trabalho, segundo o novo paradigma: formação baseada em competências, preparando melhor o professor para, entre outros:
 
@@ -2892,7 +3168,7 @@ O novo modelo habilita o graduado a leccionar em regime de monodocência no Ensi
 
 Este aumento da duração reduzirá o número anual de graduados, estando previsto que, em parceria com outros provedores, o sector continue a formar professores em quantidades que permitam, por um lado, uma base mais ampla que possibilite a selecção e o recrutamento dos melhores e, por outro lado, a existência de um ' stock ' de professores para substituir os que abandonam a docência ao longo do ano lectivo. Isto implica que o sector continuará, nos próximos anos, em paralelo, a formar professores na base do modelo existente de 10+1.
 
-##### Acompanhamento da aprendizagem do aluno
+#### Acompanhamento da aprendizagem do aluno
 
 Será introduzido, no médio e longo prazo, um instrumento para o acompanhamento do processo de ensino-aprendizagem ao nível da sala de aula (veja também 6.6.4, na pág. 103). Este instrumento (' provinha ') deve ser entendido principalmente como um instrumento diagnóstico para o professor acompanhar o nível de aprendizagem dos seus alunos para a tomada de medidas correctivas. A eficácia deste instrumento dependerá da capacidade do professor na sua aplicação e na análise da informação.
 
@@ -2938,7 +3214,7 @@ Estrutura
 
 Programas
 
-##### Recursos aplicados com maior eficiência e eficácia
+#### Recursos aplicados com maior eficiência e eficácia
 
 A prioridade no EP, com o enfoque na melhoria do desempenho do aluno, está reflectida também ao nível da alocação dos recursos humanos e financeiros.
 
@@ -2950,11 +3226,11 @@ A racionalização do programa Livro Escolar em termos de número de títulos, e
 
 Além disso, um maior controlo sobre a aplicação dos recursos disponíveis está no centro das intervenções do sector, o que deverá resultar numa maior eficiência e eficácia na sua aplicação. A capacitação dos Conselhos de Escola na gestão dos recursos ao nível da escola será também crucial.
 
-#### 6.1.6 Acções prioritárias
+### 6.1.6 Acções prioritárias
 
-##### Na área da primeira infância
+#### Na área da primeira infância
 
-- Promover a expansão do acesso a oportunidades educativas na idade préescolar, através de:
+- Promover a expansão do acesso a oportunidades educativas na idade pré-escolar, através de:
 
 - o A realização e/ou encorajamento de projectos-piloto (serviços mistos, com base na comunidade e no sector institucional), com o objectivo de identificar a melhor forma de expandir a cobertura nacional da educação pré-escolar e pré-primária;
 
@@ -2976,9 +3252,9 @@ Além disso, um maior controlo sobre a aplicação dos recursos disponíveis est
 
 [[START OF PAGE 79]]
 
-##### No Ensino Primário
+#### No Ensino Primário
 
-###### Acesso
+##### Acesso
 
 - Organizar campanhas de mobilização e sensibilização, promovendo o ingresso na escola na idade certa (6 ou 7 anos);
 
@@ -3006,7 +3282,7 @@ Além disso, um maior controlo sobre a aplicação dos recursos disponíveis est
 
 - o Incentivo, às famílias, para manterem os seus filhos na escola, através de programas de protecção social.
 
-###### Qualidade
+##### Qualidade
 
 - Continuar a produção e a distribuição gratuita do livro escolar, assegurando a sua racionalização para a inclusão do livro para o ensino bilingue, bem como de livros de leitura complementar para estimular a cultura de leitura e a compra de livros em braille para os deficientes visuais;
 
@@ -3076,7 +3352,7 @@ Programas
 
 - o Previsão, no programa ADE, para além do financiamento fixo para o funcionamento da escola, de um apoio monetário ajustado ao desempenho da escola, baseado num sistema de monitoria do seu desempenho alicerçado num conjunto de padrões de qualidade que definam a qualidade em termos do ambiente e funcionamento.
 
-###### Desenvolvimento institucional
+##### Desenvolvimento institucional
 
 - Racionalizar o uso dos recursos humanos no Ensino Primário através das seguintes acções:
 
@@ -3130,13 +3406,13 @@ Ensino (Pré) Primário - Programas sectorais |67
 
 [[START OF PAGE 83]]
 
-### 6.2 Alfabetização e Educação de Adultos
+## 6.2 Alfabetização e Educação de Adultos
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Aumentar as oportunidades para que mais jovens e adultos, com especial atenção à mulher e à rapariga, sejam alfabetizados, com vista à redução do analfabetismo para a promoção da cidadania e da participação no processo de desenvolvimento político, social, económico e cultural do país.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Garantir o acesso e a retenção dos alfabetizandos nos programas de Alfabetização e Educação de Adultos;
 
@@ -3144,7 +3420,7 @@ Aumentar as oportunidades para que mais jovens e adultos, com especial atenção
 
 - Reforçar a capacidade institucional e organizativa.
 
-#### 6.2.1 Visão
+### 6.2.1 Visão
 
 O Governo considera a alfabetização um direito humano dos cidadãos e uma estratégia crucial no combate à pobreza.
 
@@ -3206,9 +3482,9 @@ Programas
 
 O governo reconhece a contribuição dos diferentes intervenientes governamentais e não-governamentais no desenvolvimento da alfabetização (nomeadamente os Ministérios da Agricultura, da Defesa Nacional, da Mulher e Acção Social, da Juventude e Desportos, da Saúde), parceiros de cooperação multilateral e bilateral, sociedade civil, empresas públicas e privadas, confissões religiosas, entre outros. Compete ao Ministério dinamizar o sector, agindo como entidade reguladora, articulando e coordenando os diferentes intervenientes e intervenções, definindo as regras e procedimentos de actuação através da concepção de políticas e padrões de qualidade e, ainda, através de criação de um currículo padronizado.
 
-#### 6.2.2 Estágio actual
+### 6.2.2 Estágio actual
 
-##### Progressos
+#### Progressos
 
 A taxa de analfabetismo reduziu de 60,5% em 2001 para 51,9% em 2005 e para 48,1% em 2008. A taxa, relativamente ao sexo feminino, reduziu de 66,7% em 2005 para 64,2% em 2008, enquanto a dos homens estagnou passando de 34,3% em 2005 para 34,6% em 2008. Em 2007, o índice de analfabetismo nas zonas rurais era de 65,5% e de 26,3% nas zonas urbanas 43 .
 
@@ -3224,15 +3500,15 @@ A partir de 2009, começou a ser progressivamente implementado através de um pi
 
 O novo currículo dá mais atenção, além do aprender a ler e a escrever, ao desenvolvimento das habilidades para a vida.
 
-##### Desafios
+#### Desafios
 
 Os grandes desafios são:
 
-###### Redução do analfabetismo
+##### Redução do analfabetismo
 
 Embora se tenha verificado um aumento gradual do acesso de alfabetizandos aos diferentes programas de AEA, a taxa de analfabetismo apenas tem reduzido entre 1,5% a 2% anualmente.
 
-O baixo índice de retenção dos alfabetizandos, nos programas, é preocupante. Os dados indicam taxas altas de desistência, mais de um terço no primeiro ano, por várias razões: fraco conhecimento dos métodos de ensino-aprendizagem e motivação dos alfabetizadores, falta de material didáctico e de leitura, grandes distâncias entre os locais de residência e os centros de alfabetização, horários incompatíveis com as actividades profissionais dos alfabetizandos, casamentos prematuros das raparigas, entre outras.
+O baixo índice de retenção dos alfabetizandos, nos programas, é preocupante. Os dados indicam taxas altas de desistência, mais de um terço no primeiro ano, por várias razões: fraco conhecimento dos métodos de ensino-aprendizagem e
 
 > 43 Fonte: INE, censos e vários inquéritos aos agregados familiares.
 
@@ -3244,9 +3520,11 @@ O baixo índice de retenção dos alfabetizandos, nos programas, é preocupante.
 
 [[START OF PAGE 85]]
 
+motivação dos alfabetizadores, falta de material didáctico e de leitura, grandes distâncias entre os locais de residência e os centros de alfabetização, horários incompatíveis com as actividades profissionais dos alfabetizandos, casamentos prematuros das raparigas, entre outras.
+
 Embora não haja dados que comprovem a hipótese, poderá estar a ocorrer um retrocesso dos níveis de sucesso da alfabetização alcançados em anos passados. A falta de um ambiente literário, principalmente nas zonas rurais, e a pouca relevância dos programas para o dia-a-dia da maior parte das pessoas, poderão estar a contribuir para este fenómeno.
 
-###### Coordenação e articulação entre os diferentes intervenientes
+##### Coordenação e articulação entre os diferentes intervenientes
 
 A abordagem do MINED, reflectida no PEEC, tem sido de promover a expansão das intervenções nesta área, através do apoio de parceiros externos, incluindo o sector privado.
 
@@ -3254,11 +3532,11 @@ Embora haja diferentes intervenientes, a sua contribuição é ainda limitada, p
 
 Ainda não foi bem estabelecida uma ligação entre o MINED e outras instituições que desenvolvem acções na área de capacitação das comunidades, como, por exemplo,  ONGs  que  trabalham  em  Educação  não-formal  e  outros  Ministérios (Saúde, Agricultura, Mulher e Acção Social, entre outros).
 
-###### Motivação, valorização e capacitação dos alfabetizadores
+##### Motivação, valorização e capacitação dos alfabetizadores
 
 A implementação dos programas na área de AEA depende principalmente dos alfabetizadores. Muitos deles são voluntários 45  que têm baixa formação académica e não têm formação específica em AEA. Muitos alfabetizadores desistem, porque estão pouco motivados, uma vez que esta profissão é pouco valorizada e há pouco investimento na sua formação.
 
-#### 6.2.3 Prioridades para os próximos anos
+### 6.2.3 Prioridades para os próximos anos
 
 A grande prioridade do Governo no PQG e no PARP na redução da pobreza é aumentar a contribuição dos indivíduos e das suas famílias no aumento da produtividade.
 
@@ -3316,33 +3594,33 @@ Estrutura
 
 Programas
 
-- Melhorar a qualidade e a relevância dos programas de Alfabetização e Edu- cação de Adultos;
+- Melhorar a qualidade e a relevância dos programas de Alfabetização e Educação de Adultos;
 
 - Reforçar a capacidade institucional e organizativa.
 
-#### 6.2.4 Estratégias principais
+### 6.2.4 Estratégias principais
 
-##### Acesso e retenção
+#### Acesso e retenção
 
-Serão feitos  esforços  na  criação  das  condições  para  que  jovens  (a  partir  de  15 anos) e adultos não alfabetizados estejam suficientemente motivados para fre- quentarem os cursos oferecidos até obterem um nível de alfabetização necessá- rio para beneficiar da informação escrita disponível através de várias fontes, e/ou prosseguir outros tipos de capacitações e/ou Educação formal.
+Serão feitos esforços na criação das condições para que jovens (a partir de 15 anos) e adultos não alfabetizados estejam suficientemente motivados para frequentarem os cursos oferecidos até obterem um nível de alfabetização necessário para beneficiar da informação escrita disponível através de várias fontes, e/ou prosseguir outros tipos de capacitações e/ou Educação formal.
 
-Isto implicará acções de mobilização e sensibilização de todos os actores, a todos os níveis, bem como uma coordenação entre os vários (possíveis) intervenientes (fora e dentro o Governo) para aumentar e diversificar a oferta de programas de alfabetização e Educação não formal e também incentivar a retenção dos partici- pantes.
+Isto implicará acções de mobilização e sensibilização de todos os actores, a todos os níveis, bem como uma coordenação entre os vários (possíveis) intervenientes (fora e dentro o Governo) para aumentar e diversificar a oferta de programas de alfabetização e Educação não formal e também incentivar a retenção dos participantes.
 
-Ao nível do sector, será promovido um maior envolvimento das Zonas de Influ- ência Pedagógica (ZIPs) e das escolas primárias (como epicentros) e dos respecti- vos directores na provisão e gestão da Educação de Adultos. Os alunos do Ensino Primário e do pós-primário serão também motivados a participar e a ajudar na alfabetização dos seus familiares.
+Ao nível do sector, será promovido um maior envolvimento das Zonas de Influência Pedagógica (ZIPs) e das escolas primárias (como epicentros) e dos respectivos directores na provisão e gestão da Educação de Adultos. Os alunos do Ensino Primário e do pós-primário serão também motivados a participar e a ajudar na alfabetização dos seus familiares.
 
-Evitar o retorno ao analfabetismo significa um maior investimento na criação de ambientes  literários  para  estimular  o  desenvolvimento  pessoal  nos  centros  de AEA, nas escolas e na comunidade. Em relação a este factor, vão ser priorizadas as províncias com elevadas taxas de analfabetismo. Far-se-á uso do potencial das no- vas tecnologias e meios de comunicação para garantir a info-inclusão dos adultos.
+Evitar o retorno ao analfabetismo significa um maior investimento na criação de ambientes literários para estimular o desenvolvimento pessoal nos centros de AEA, nas escolas e na comunidade. Em relação a este factor, vão ser priorizadas as províncias com elevadas taxas de analfabetismo. Far-se-á uso do potencial das novas tecnologias e meios de comunicação para garantir a info-inclusão dos adultos.
 
-##### Qualidade e relevância
+#### Qualidade e relevância
 
-Serão elaborados padrões de qualidade a serem observados pelos diferentes pro- gramas de ensino-aprendizagem nas áreas de alfabetização e de pós alfabetização de nível básico (incluindo aspectos curriculares, materiais, perfil e formação do alfabetizador).
+Serão elaborados padrões de qualidade a serem observados pelos diferentes programas de ensino-aprendizagem nas áreas de alfabetização e de pós alfabetização de nível básico (incluindo aspectos curriculares, materiais, perfil e formação do alfabetizador).
 
-Na revisão e disponibilização do currículo, de materiais didácticos, de leitura e de lazer, o enfoque será dado na diversificação do conteúdo dos programas, ligando as actividades de alfabetização a outras iniciativas que promovam o desenvolvi- mento das comunidades.
+Na revisão e disponibilização do currículo, de materiais didácticos, de leitura e de lazer, o enfoque será dado na diversificação do conteúdo dos programas, ligando as actividades de alfabetização a outras iniciativas que promovam o desenvolvimento das comunidades.
 
-Os vários meios de informação (televisão, rádio, telemóveis, jornais, internet) se- rão usados para explorar diferentes temas abordados nos programas de AEA.
+Os vários meios de informação (televisão, rádio, telemóveis, jornais, internet) serão usados para explorar diferentes temas abordados nos programas de AEA.
 
 Será reforçado o papel dos Institutos de Formação de Educação de Adultos (IFEAs) na capacitação e acompanhamento dos alfabetizadores voluntários, beneficiando dos educadores profissionais formados pelos IFEAs 46 .
 
-> 46 Os IFEAs formam, em primeiro lugar, educadores profissionais para a pós-alfabetização. Isto impli- cará evitar a colocação dos graduados dos IFEAs nas escolas primárias.
+> 46 Os IFEAs formam, em primeiro lugar, educadores profissionais para a pós-alfabetização. Isto implicará evitar a colocação dos graduados dos IFEAs nas escolas primárias.
 
 72| Programas sectorais - Alfabetização e Educação de Adultos
 
@@ -3350,7 +3628,7 @@ Será reforçado o papel dos Institutos de Formação de Educação de Adultos (
 
 [[START OF PAGE 87]]
 
-##### Desenvolvimento institucional
+#### Desenvolvimento institucional
 
 Interligar as várias iniciativas por um lado, e, ao mesmo tempo, assegurar a observância dos padrões pelos diferentes intervenientes, vai exigir um forte papel do Ministério na coordenação e a articulação dos diferentes programas de alfabetização e educação para os adultos. Isto implica um melhor alinhamento vertical e horizontal, aos níveis nacional, provincial e local, e uma coordenação intra-sectorial de esforços entre o subsector de Alfabetização e Educação de Adultos, do Ensino Primário e Secundário e do Ensino Técnico-Profissional.
 
@@ -3358,11 +3636,11 @@ Serão estabelecidos mecanismos de coordenação ao nível central e ao nível l
 
 Para apreciar, analisar, avaliar e validar os processos e resultados nas diferentes fases de implementação das Estratégias de AEA, em termos de retenção e desempenho dos alfabetizadores e alfabetizandos, será implementado um sistema de recolha e processamento de dados estatísticos referentes à educação não-formal.
 
-#### 6.2.5 Acções prioritárias
+### 6.2.5 Acções prioritárias
 
 São consideradas as seguintes acções prioritárias:
 
-##### Acesso
+#### Acesso
 
 - Mobilizar e sensibilizar todos os actores, ao nível nacional e local, sobre a importância de ter uma população alfabetizada;
 
@@ -3422,7 +3700,7 @@ Programas
 
 - Criar ambientes de leitura e de uso de informação ao nível das comunidades, através das escolas primárias e dos centros comunitários de desenvolvimento de competências (veja 6.4.4, pág. 89) para evitar o retorno ao analfabetismo.
 
-##### Qualidade
+#### Qualidade
 
 - Elaborar padrões de competências para garantir a qualidade dos diferentes programas oferecidos pelos diferentes intervenientes (em termos de currículos, materiais e alfabetizadores);
 
@@ -3432,7 +3710,7 @@ Programas
 
 - Rever e implementar o currículo de formação de educadores e alfabetizadores,  assegurando a integração, no Plano de Estudos, de temas transversais sobre 'habilidades para a vida'.
 
-##### Desenvolvimento institucional
+#### Desenvolvimento institucional
 
 - Reforçar a capacidade institucional e organizativa para uma implementação efectiva das acções inerentes ao subsector através das seguintes acções, entre outras:
 
@@ -3454,13 +3732,13 @@ Programas
 
 [[START OF PAGE 89]]
 
-### 6.3 Ensino Secundário Geral
+## 6.3 Ensino Secundário Geral
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Expandir, de forma equitativa e acessível, o Ensino Secundário Geral, garantindo a sua qualidade e relevância.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Diversificar  as  modalidades  do  Ensino  Secundário,  assegurando  o acesso equitativo, dando atenção especial às raparigas e jovens com necessidades educativas especiais;
 
@@ -3468,7 +3746,7 @@ Expandir, de forma equitativa e acessível, o Ensino Secundário Geral, garantin
 
 - Melhorar a gestão escolar.
 
-#### 6.3.1 Visão
+### 6.3.1 Visão
 
 O desenvolvimento deste subsector é orientado pela visão de longo prazo do Governo, que promove uma população cada vez mais educada para apoiar e sustentar o desenvolvimento do país e o crescimento da economia. Isto implica um ensino secundário geral flexível que possa responder às necessidades emergentes da sociedade moderna.
 
@@ -3518,9 +3796,9 @@ Estrutura
 
 Programas
 
-#### 6.3.2 Estágio actual
+### 6.3.2 Estágio actual
 
-##### Progressos
+#### Progressos
 
 Nos últimos 7 anos, devido ao aumento dos graduados da 7ª classe, o Ensino Secundário tem registado uma expansão marcante. O número de escolas que leccionam o Ensino Secundário Geral (ESG1) mais do que duplicou, passando de 226 escolas em 2004 para 561 em 2011, cobrindo todo o país. O número de escolas que leccionam o segundo ciclo (ESG2) triplicou, passando de 70 escolas em 2004 para 228 em 2011 (veja quadro 2, pág. 24).
 
@@ -3530,7 +3808,40 @@ Houve, igualmente, grandes progressos em termos de equidade de género nos dois 
 
 Gráfico 9: Número de professores no ESG1 e no ESG2 e percentagem de professores com formação pedagógica adequada, 2004-2011 (turno diurno, ensino público)
 
-Apesar do aumento considerável do número de graduados da 7ª classe, a taxa de transição 47  entre a 7ª e a 8ª classe tem-se mantido entre os 70-80% desde 2004 (turno diurno). Se incluirmos os turnos nocturnos, a taxa de transição sobe para cerca de 93% (2011). Estes dados mostram que a expansão do Ensino Secundário tornou possível a absorção de quase todos os graduados do Ensino Primário. Em 2010, cerca de 97 mil alunos concluíram a 10ª e quase 32 mil concluíram a 12ª classe em comparação com apenas 32 mil e 7,6 mil em 2004, respectivamente.
+Número de professores
+
+Nº de prof ESG1
+Nº de prof ESG2
+% Prof com form (ESG1)
+
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+
+% de professores com formação
+
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Apesar do aumento considerável do número de graduados da 7ª classe, a taxa de transição 47 entre a 7ª e a 8ª classe tem-se mantido entre os 70-80% desde 2004 (turno diurno). Se incluirmos os turnos nocturnos, a taxa de transição sobe para
 
 > 47 A taxa de transição entre a 7ª e a 8ª classe é a relação entre o número de novos ingressos na 8ª classe no ano n (numerador) relativamente ao número de graduados da 7ª classe no ano n-1 (denominador).
 
@@ -3540,25 +3851,98 @@ Apesar do aumento considerável do número de graduados da 7ª classe, a taxa de
 
 [[START OF PAGE 91]]
 
+cerca de 93% (2011). Estes dados mostram que a expansão do Ensino Secundário tornou possível a absorção de quase todos os graduados do Ensino Primário. Em 2010, cerca de 97 mil alunos concluíram a 10ª e quase 32 mil concluíram a 12ª classe em comparação com apenas 32 mil e 7,6 mil em 2004, respectivamente.
+
 O Gráfico 9 mostra que, de ano para ano, mais professores foram colocados no ESG1 e no ESG2 e que o número professores com formação pedagógica tem vindo a aumentar no ESG1.
 
-##### Desafios
+#### Desafios
 
-###### Baixo aproveitamento
+##### Baixo aproveitamento
 
 Verifica-se que, com a expansão do sistema, os indicadores de qualidade não têm acompanhado o ritmo da expansão.
 
 Como se pode ver no Gráfico 10, a taxa de aproveitamento ainda é baixa e, depois de ter melhorado, está a voltar aos níveis de 2004. As taxas de desistência e repetição são altas: 8% e 31,4% de desistência em 2010 no ESG1 e ESG2 respectivamente e 28,2% e 15,5% de repetição para os mesmos níveis.
 
-Gráfico 10:	 Graduados no ESG1 e ESG2 48  e taxas de aproveitamento, por turnos, 2004-2010 (ensino público)
+Gráfico 10:	 Graduados no ESG1 e ESG2 48 e taxas de aproveitamento, por turnos, 2004-2010 (ensino público)
 
 10ª classe
 
+Mil alunos
+
+Alunos, nocturno
+Alunos, diurno
+Aprov, diurno
+Aprov, nocturno
+
+250
+200
+150
+100
+50
+0
+
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+
+% de Aproveitamento
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
 12ª classe
 
-###### Turno Nocturno
+Mil alunos
 
-Uma grande parte dos alunos frequentando no Ensino Secundário público é absorvida  no  turno  nocturno  (em  2011,  cerca  de  24%  no  ESG1  e  36%  no  ESG2). Como é evidenciado no Gráfico 10, o turno nocturno é ainda menos eficiente que o diurno: as taxas de aproveitamento são mais baixas, embora a sua evolução ao longo dos anos seja similar à do turno diurno. Ao mesmo tempo, o turno nocturno absorve parte dos escassos recursos do sector, principalmente em termos de professores e de infraestruturas. Os programas de ensino são os mesmos do curso diurno embora o tempo lectivo seja inferior.
+Alunos, nocturno
+Alunos, diurno
+Aprov, diurno
+Aprov, nocturno
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+
+% de Aproveitamento
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+##### Turno Nocturno
+
+Uma grande parte dos alunos frequentando no Ensino Secundário público é absorvida no turno nocturno (em 2011, cerca de 24% no ESG1 e 36% no ESG2). Como é evidenciado no Gráfico 10, o turno nocturno é ainda menos eficiente que o diurno: as taxas de aproveitamento são mais baixas, embora a sua evolução ao
 
 > 48 2008 foi o ano da introdução da reforma de exames para a 12ª classe, distorcendo as tendências dos últimos anos, particularmente no curso nocturno.
 
@@ -3606,7 +3990,9 @@ Estrutura
 
 Programas
 
-###### Rácio alunos por turma
+longo dos anos seja similar à do turno diurno. Ao mesmo tempo, o turno nocturno absorve parte dos escassos recursos do sector, principalmente em termos de professores e de infraestruturas. Os programas de ensino são os mesmos do curso diurno embora o tempo lectivo seja inferior.
+
+##### Rácio alunos por turma
 
 O Gráfico 11 mostra que o rácio médio de alunos por turma aumentou até 2010, no ESG1 e no ESG2.
 
@@ -3614,9 +4000,47 @@ Este crescimento indica que a oferta escolar que o sistema educativo tem vindo a
 
 Acresce-se, ainda, as elevadas taxas de reprovação que se verificam no ESG ocupando o espaço de novos ingressos.
 
-Gráfico 11:	 Número de alunos no ESG 1 e 2 e rácios de alunos por turma, 20042011 (turno diurno, ensino público)
+Gráfico 11:	 Número de alunos no ESG 1 e 2 e rácios de alunos por turma, 2004-2011 (turno diurno, ensino público)
 
-###### Investimentos
+Alunos
+
+Nº de alunos ESG1
+Nº de alunos ESG2
+Rácio A/T ESG1
+Rácio A/T ESG2
+
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+
+Rácio alunos/Turma
+
+65
+63
+61
+59
+57
+55
+53
+51
+49
+47
+45
+
+##### Investimentos
 
 Embora não se tenha informação fiável através do orçamento e do relatório de execução do orçamento, estimativas do sector indicam que a maior parte da despesa (cerca de 90%) no Ensino Secundário é destinada ao pagamento de salários. Isto significa que foram feitos poucos investimentos, principalmente em termos de  equipamento  (laboratórios,  TICs),  materiais  didácticos  e  consumíveis.  Para reverter esta situação, o sector começou recentemente a investir na compra de livros para as bibliotecas escolares, no equipamento dos laboratórios e introduziu o ADE.
 
@@ -3630,11 +4054,11 @@ Há sinais que indicam que o baixo investimento no Ensino Secundário tem tido u
 
 A avaliação do PEEC constatou que o novo currículo está a ser implementado de forma parcial, tanto por falta de recursos, bem como pela integração deficiente de temas transversais como o género e a educação inclusiva.
 
-###### Absorção dos jovens no sistema educativo
+##### Absorção dos jovens no sistema educativo
 
 Apesar das altas taxas de transição entre o EP2 e o ESG1 (da 7ª para a 8ª classe) e entre o ESG1 e o ESG2 (da 10ª para a 11ª classe) (incluindo os turnos diurno e nocturno e os ensinos público, privado e comunitário), o número de jovens que não frequentam as escolas secundárias por não terem concluído a 7ª classe ou por terem desistido ao longo da escola secundária é elevado, situação que continuará ao longo dos próximos cinco anos. Isto implica a necessidade de oferecer alternativas para este grupo alvo por via da expansão do ensino profissional e da oferta de cursos de curta duração (veja 6.4.4, pág. 89).
 
-#### 6.3.3 Prioridades para os próximos anos
+### 6.3.3 Prioridades para os próximos anos
 
 As taxas de cobertura do Ensino Secundário ainda são muito baixas, com excepção apenas da Cidade de Maputo. As províncias mais populosas registam taxas mais baixas. É também nestas províncias que, de ano para ano, mais crianças completam o Ensino Primário, o que significa uma pressão enorme para a expansão do Ensino Secundário.
 
@@ -3688,11 +4112,13 @@ Prioridades
 
 Estrutura
 
-#### 6.3.4 Estratégias principais
+Programas
+
+### 6.3.4 Estratégias principais
 
 A estratégia do Ensino Secundário Geral, aprovado pelo Conselho de Ministros em Novembro de 2009, define as estratégias principais para este subsector.
 
-##### Expansão das oportunidades educativas
+#### Expansão das oportunidades educativas
 
 A  expansão do ESG realizar-se-á, principalmente, através do aumento da eficiência interna, ou seja da redução das desistências e das reprovações, criando-se, assim, mais vagas no ensino presencial (diurno) para absorver os alunos que concluem a 7ª ou a 10ª classe. Isto requer a melhoria da qualidade de ensino e a aplicação mais rigorosa dos critérios de avaliação, de forma a aumentarem-se as taxas de aproveitamento.
 
@@ -3700,13 +4126,13 @@ Para assegurar a absorção em cada ano de mais alunos, prevê-se a reorientaç�
 
 Uma vez que o ensino à distância e nocturno exige por mais disciplina dos alunos, ele deve ser considerado, em primeiro lugar, como uma opção para os jovens com idade mais avançada ou para aqueles que já estão integrados no mercado de trabalho. Para estes últimos, a participação dos alunos nas actividades lectivas, terá um carácter mais flexível, reduzindo o tempo de permanência na escola, pautando-se pelo ensino modular e baseado em competências.
 
-Programas O ensino particular é a opção para expandir o nível secundário, não apenas nas cidades, mas também nas regiões distantes dos centros urbanos. As ONGs e instituições religiosas podem ser parceiras importantes do Governo neste processo. Neste sentido, serão criadas condições para encorajar uma maior contribuição do ensino particular.
+O ensino particular é a opção para expandir o nível secundário, não apenas nas cidades, mas também nas regiões distantes dos centros urbanos. As ONGs e instituições religiosas podem ser parceiras importantes do Governo neste processo. Neste sentido, serão criadas condições para encorajar uma maior contribuição do ensino particular.
 
 No Ensino Secundário presencial será reforçada a aplicação de critérios selectivos para a admissão na oitava classe e na décima-primeira classe, como, por exemplo, combinando os factores 'menor idade', 'desempenho do aluno' e 'equidade de género'. Isto implica uma estratégia eficaz de comunicação e divulgação para assegurar o cumprimento das metas pré-estabelecidas.
 
 Ao mesmo tempo, serão exploradas, em estreita ligação com outros intervenientes, as possibilidades de expandir ainda mais cursos profissionais e/ou educativos de curta duração para jovens fora do sistema, beneficiando da rede escolar de Ensino Secundário (veja 6.4.4, pág. 89).
 
-##### Melhorar a qualidade e relevância do ensino-aprendizagem
+#### Melhorar a qualidade e relevância do ensino-aprendizagem
 
 A revisão e a finalização de um currículo relevante são cruciais para melhorar a qualidade e relevância do processo de ensino-aprendizagem.
 
@@ -3722,27 +4148,27 @@ Neste sentido, a revisão curricular deverá contribuir para a melhoria do proce
 
 O MINED deverá assumir um maior controlo sobre a formação de professores para o Ensino Secundário, em parceria com as instituições de formação, como a Universidade Pedagógica (UP) e a Universidade Eduardo Mondlane (UEM). Será introduzido um sistema de formação em serviço para este nível de ensino.
 
-##### Melhorar a gestão escolar e assegurar o financiamento do Ensino Secundário
+#### Melhorar a gestão escolar e assegurar o financiamento do Ensino Secundário
 
 O aumento do financiamento para as escolas secundárias, necessário para melhorar a qualidade da sua prestação, contará com uma maior participação do sector privado e dos pais e encarregados de Educação através da revisão e aumento das taxas de matrícula e propinas. Para assegurar que o aumento da comparticipação das famílias não resulte na exclusão dos mais vulneráveis, será introduzido um sistema de bolsas, observando-se os critérios de selecção e assegurando a equidade na participação em termos de género e de condição económica.
 
 Ao mesmo tempo, os Conselhos de Escola terão de assumir um papel chave na gestão de todos os fundos destinados às escolas, garantindo a aplicação e prestação de contas de uma forma justa e transparente. Paralelamente, as Direcções Provinciais e os Serviços Distritais devem exercer a sua função de monitoria às escolas, de forma a assegurar uma gestão correcta dos fundos. A prestação de contas dos vários actores locais deve ser um processo contínuo a todos os níveis.
 
-#### 6.3.5 Acções prioritárias
+### 6.3.5 Acções prioritárias
 
 Para expandir, de forma controlada, equitativa e sustentável, o acesso ao Ensino Secundário profissionalizante de qualidade e relevante, serão priorizadas, no domínio do acesso, qualidade e desenvolvimento institucional, as seguintes acções:
 
-##### Acesso
+#### Acesso
 
 - Observar as metas acordadas anualmente entre o MINED e as Províncias para novos ingressos, nas 8ª e 11ª classes, com base na:
 
 - o Inclusão de alunos combinando:
 
-- menor idade;
+1. menor idade;
 
-- melhor aproveitamento escolar na 7ª e na 10ª classe;
+2. melhor aproveitamento escolar na 7ª e na 10ª classe;
 
-- género feminino;
+3. género feminino;
 
 - o Reorientação dos alunos com um desempenho abaixo do aceitável, de forma persistente.
 
@@ -3802,7 +4228,7 @@ Programas
 
 - o A garantia da existência de material de apoio para os explicadores, tais como programas de ensino, livros, exemplares de exames, plano de estudos, etc.
 
-##### Qualidade
+#### Qualidade
 
 - Tornar o currículo mais relevante e sustentável, com a perspectiva de criar bases para um ensino básico de 9/10 anos e racionalizar os recursos humanos existentes (professores). Isto implica desenvolver o currículo do ESG, em conformidade com a reforma prevista na estratégia e no plano curricular do ESG, e, entre outros, desenvolver acções que levem os estudantes, e em particular as raparigas, a optar pelas áreas de Matemática, Ciências Naturais e outras afins;
 
@@ -3832,7 +4258,7 @@ Programas
 
 - Definir e implementar os padrões de qualidade no ensino-aprendizagem, ao nível das escolas de Ensino Secundário, no contexto do sistema nacional de monitoria/avaliação dos resultados da aprendizagem dos alunos (veja 6.6.3, pág. 102).
 
-##### Desenvolvimento institucional
+#### Desenvolvimento institucional
 
 - Desenhar  e  implementar  uma  estratégia  de  formação  e  capacitação  de gestores, nos domínios da planificação, gestão e administração escolar;
 
@@ -3888,13 +4314,13 @@ Ensino Secundário Geral - Programas sectorais |83
 
 [[START OF PAGE 99]]
 
-### 6.4 Ensino Técnico-Profissional
+## 6.4 Ensino Técnico-Profissional
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Melhorar o acesso, a relevância, a eficiência, a eficácia e a qualidade do Ensino Técnico-Profissional (ETP), visando o desenvolvimento do País.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Aumentar o acesso e a retenção no ETP, prestando particular atenção às disparidades geográficas e de género;
 
@@ -3902,7 +4328,7 @@ Melhorar o acesso, a relevância, a eficiência, a eficácia e a qualidade do En
 
 - Melhorar a gestão e a coordenação do sistema, envolvendo activamente o sector produtivo.
 
-#### 6.4.1 Visão
+### 6.4.1 Visão
 
 O ETP tem como objectivo principal contribuir para a criação de uma força de trabalho qualificada, essencial para estimular o desenvolvimento e crescimento económico do país.
 
@@ -3910,11 +4336,11 @@ Este subsistema enquadra-se na prioridade do Governo para assegurar uma melhor p
 
 O compromisso do sector para preparar os alunos para a vida laboral, realizar-se-á através das seguintes vertentes que tocam os diferentes níveis de ensino:
 
-- A  expansão  do  Ensino  Técnico-Profissional  garantindo  a  qualidade  desejada e o desenvolvimento das competências necessárias e requeridas pelo mercado de trabalho, com maior enfoque para os sectores prioritárias e para as indústrias emergentes;
+1. A expansão do Ensino Técnico-Profissional garantindo a qualidade desejada e o desenvolvimento das competências necessárias e requeridas pelo mercado de trabalho, com maior enfoque para os sectores prioritárias e para as indústrias emergentes;
 
-- O aumento do acesso ao Ensino Secundário profissionalizante, aumentando a sua qualidade e relevância (veja 6.3.1, pág. 75);
+2. O aumento do acesso ao Ensino Secundário profissionalizante, aumentando a sua qualidade e relevância (veja 6.3.1, pág. 75);
 
-- A criação das oportunidades de formação profissional através de cursos de curta duração (formal ou não-formal).
+3. A criação das oportunidades de formação profissional através de cursos de curta duração (formal ou não-formal).
 
 Este programa sectorial centra-se, principalmente, na primeira vertente (o Ensino Técnico Profissional), incluindo-se, parcialmente, a terceira (cursos de formação profissional de curta duração).
 
@@ -3970,9 +4396,9 @@ Pela sua natureza e enfoque, o ETP enquadra-se no conceito mais amplo de Educaç
 
 A Educação Profissional inclui o ETP, sob tutela do MINED e liderado pela Direcção Nacional do Ensino Técnico (DINET), e abrange os níveis básico 49 (após a 7ª classe) e médio (após a 10ª classe). Os provedores deste tipo de ensino são públicos e privados. A Educação Profissional inclui também a Formação Profissional de curta duração, em primeiro lugar sob tutela do Ministério de Trabalho e liderada pelo Instituto Nacional de Emprego e Formação Profissional (INEFP). Os seus provedores são públicos e privados.
 
-#### 6.4.2 Estágio actual
+### 6.4.2 Estágio actual
 
-##### Progressos
+#### Progressos
 
 Foi iniciada em 2006, a reforma da Educação Profissional, com o objectivo principal de tornar o subsistema mais capacitado para as necessidades do mercado de trabalho, principalmente através de:
 
@@ -3986,7 +4412,7 @@ Foi iniciada em 2006, a reforma da Educação Profissional, com o objectivo prin
 
 A reforma do subsistema começou em 2006 através do Programa Integrada de Reforma da Educação Profissional (PIREP) (projecto-piloto  primeira fase da reforma) com enfoque no ETP (nível médio), monitorado e coordenado pela CIREP e COREP. Os primeiros 4 anos da reforma resultaram na elaboração de diferentes instrumentos que visam assegurar a qualidade e a relevância do ETP, ao nível médio. Estas acções são orientadas com base no Quadro Nacional de Qualificações Profissionais (com 5 níveis), no modelo para o Desenho de Padrões de Competência e Desenvolvimento dos Currículos; no Sistema de Garantia de Qualidade do Sistema de Educação Profissional, no Sistema de Acumulação e Transferência de Créditos e no Registo e Acreditação de Qualificações.
 
-Simultaneamente, o número de alunos no ETP tem vindo a evoluir positivamente, passando de cerca de 32 mil alunos em 2004, para mais de 45 mil em 2011, a frequentarem mais de 145 instituições públicas e privadas. Estima-se que 75% dos alunos frequentam as escolas básicas, 59% as profissionais e 14% o nível médio. O aproveitamento difere muito de ramo para ramo: o agrário, apresenta, de forma sistemática, o melhor aproveitamento escolar (acima dos 86%), quer no nível básico, quer no nível médio. Os cursos comerciais e industriais, sobretudo do nível básico, em ambos os turnos, apresentam as taxas de aproveitamento escolar mais baixas (menos de 60%).
+Simultaneamente, o número de alunos no ETP tem vindo a evoluir positivamente, passando de cerca de 32 mil alunos em 2004, para mais de 45 mil em 2011, a frequentarem mais de 145 instituições públicas e privadas. Estima-se que 75% dos
 
 > 49 A lei do sistema nacional de educação define os níveis elementar, básico e médio. O nível elementar já foi extinto. Ao nível básico estão sendo extintas as escolas básicas sendo substituídas pelas escolas profissionais que oferecem uma formação profissional para os graduados do Ensino Primário.
 
@@ -3996,7 +4422,9 @@ Simultaneamente, o número de alunos no ETP tem vindo a evoluir positivamente, p
 
 [[START OF PAGE 101]]
 
-##### Desafios
+alunos frequentam as escolas básicas, 59% as profissionais e 14% o nível médio. O aproveitamento difere muito de ramo para ramo: o agrário, apresenta, de forma sistemática, o melhor aproveitamento escolar (acima dos 86%), quer no nível básico, quer no nível médio. Os cursos comerciais e industriais, sobretudo do nível básico, em ambos os turnos, apresentam as taxas de aproveitamento escolar mais baixas (menos de 60%).
+
+#### Desafios
 
 Os grandes desafios, nesta área, são os seguintes:
 
@@ -4008,7 +4436,7 @@ Ao mesmo tempo, existe a necessidade de criar oportunidades de formação profis
 
 As intervenções, neste subsector, devem ser diversificadas, tomando em consideração as especificidades dos diferentes tipos de mercado, existentes e emergentes. Ao mesmo tempo, o aumento da produtividade não dependerá, apenas, do sector da Educação, mas sim, de uma sinergia entre os vários intervenientes.
 
-###### O financiamento do subsector
+##### O financiamento do subsector
 
 O ETP de qualidade envolve elevados custos. Comparativamente ao ESG e a algumas especialidades do Ensino Superior, o custo por aluno do ETP é mais alto. Apesar de ser alocado a este tipo de ensino uma parte considerável do orçamento para o sector da Educação (entre 8 a 10% em termos de orçamento do investimento 50 ),  os  fundos  disponibilizados  não  são  suficientes  para  garantir  as  condições necessárias para a introdução das reformas já iniciadas. Para a sustentabilidade financeira do ETP, assegurando-se a sua qualidade e expansão, a médio e a longo prazos, será necessário redefinir os critérios de financiamento e aumentar a contribuição do sector privado, das comunidades e das próprias famílias.
 
@@ -4060,19 +4488,19 @@ Estrutura
 
 Programas
 
-###### A formação de professores
+##### A formação de professores
 
 O sucesso das reformas introduzidas depende, fundamentalmente, da existência de professores qualificados. Porém, a capacidade de formar professores para este nível de ensino ainda é muito limitada. Foi elaborada uma estratégia, no contexto do projecto PIREP, cuja coordenação e governação deverá ser garantida pela articulação entre a DINET e a DNFP. A implementação dessa mesma estratégia será da responsabilidade das IESs. Para o efeito, deverá ser criado um Comité de Coordenação liderado pela DINET com a participação da DNFP, Direcção Nacional de Alfabetização e Educação dos Adultos (DINAEA) e DICES.
 
-###### A governação
+##### A governação
 
 A dispersão de responsabilidades entre a DINET, ao nível do MINED, o INEFP, ao nível do Ministério do Trabalho, e outros Ministérios, tem levado à fragmentação da Educação Profissional, contribuindo para o insucesso na definição de prioridades e do uso racional e equilibrado dos escassos recursos da Educação Profissional e o ETP, em particular, contribuindo, assim, para a duplicação desnecessária de esforços. No contexto da reforma, está prevista a criação de um órgão regulador para a Educação Profissional, responsável pela definição das políticas, estratégias e acções prioritárias e monitoria da implementação. Neste contexto, o papel da DINET concentra-se na implementação das políticas da Educação Profissional, inerentes ao MINED, ou seja, à área de ETP.
 
-###### A gestão das instituições: a sua autonomia
+##### A gestão das instituições: a sua autonomia
 
 A melhoria da qualidade de gestão das instituições, neste sector específico, foi identificada como um dos grandes desafios para o próximo período. Por um lado, assume-se que os gestores das escolas não estão devidamente qualificados e, por outro lado, que não existe um mecanismo adequado de controlo e supervisão do trabalho que estes realizam. Prevalece, ainda, a ideia de que as questões da Educação Profissional não são devidamente atendidas pelas DPECs e pelos Governos Provinciais, se se considerar as limitações impostas à actuação e participação, em fóruns de reflexão e de decisão, dos Chefes de Repartição do ETP (RET). Impõe-se, portanto, que se dê mais autonomia às instituições, ao nível de gestão intermédia, e se passe a sua monitorização para a responsabilidade do MINED.
 
-#### 6.4.3 Prioridades para os próximos anos
+### 6.4.3 Prioridades para os próximos anos
 
 Tomando em consideração a situação económica do país e a complexidade dos sectores envolvidos e dos mercados (o sector formal, informal e o da agricultura de subsistência), as prioridades para os anos 2012-2016 são:
 
@@ -4088,9 +4516,9 @@ Tomando em consideração a situação económica do país e a complexidade dos 
 
 [[START OF PAGE 103]]
 
-#### 6.4.4 Estratégias principais
+### 6.4.4 Estratégias principais
 
-##### Expansão das oportunidades para a formação profissional
+#### Expansão das oportunidades para a formação profissional
 
 Relativamente  ao  aumento  do  acesso,  a  prioridade  será  dada  à  expansão  das oportunidades  para  uma  formação  e/ou  capacitação  profissional  dos  jovens  e adultos que estão fora do sistema formal, com ou sem o Ensino Primário concluído. Esta estratégia visa responder, o mais rapidamente possível, às necessidades do sector agrícola e ao mercado não-formal, que absorve, de momento, a maior parte da força de trabalho (acima de 75%). Isto implica:
 
@@ -4100,15 +4528,15 @@ Relativamente  ao  aumento  do  acesso,  a  prioridade  será  dada  à  expans�
 
 - O aumento da eficiência interna do nível médio para aumentar o número de graduados de maior qualidade, através da melhoria da qualidade do processo de ensino-aprendizagem e das condições de funcionamento das instituições.
 
-##### Garantir a qualidade e relevância do ensino
+#### Garantir a qualidade e relevância do ensino
 
 A  qualidade  e  a  relevância  deste  nível  de  ensino  serão  melhoradas  através  da adopção de um currículo baseado em competências, desenhado com a participação do sector produtivo e considerando os vários perfis de profissionais a formar, para responderem às necessidades dos diferentes sectores de produção.
 
-Será  dado  particular  destaque  ao  nível  médio,  visando  colmatar  a  procura  de mão-de-obra especializada para o sector produtivo, contribuindo, assim, para o crescimento económico do país. Isto implica a consolidação da reforma iniciada com o projecto-piloto PIREP, no nível médio do ETP (pós-10ª classe), e expandila, gradualmente, para todos os Institutos Médios, criando-se neles as condições necessárias para o seu sucesso.
+Será dado particular destaque ao nível médio, visando colmatar a procura de mão-de-obra especializada para o sector produtivo, contribuindo, assim, para o crescimento económico do país. Isto implica a consolidação da reforma iniciada com o projecto-piloto PIREP, no nível médio do ETP (pós-10ª classe), e expandi-la, gradualmente, para todos os Institutos Médios, criando-se neles as condições necessárias para o seu sucesso.
 
 A introdução do ensino à distância, beneficiando da plataforma de e-learning contribuirá ainda para a melhoria da qualidade do ensino, bem como para uma diversificação e aumento da oferta de cursos especializados.
 
-##### Melhorar a gestão e coordenação do sector
+#### Melhorar a gestão e coordenação do sector
 
 A maior autonomia das instituições em termos de gestão e de financiamento poderá beneficiar a qualidade da Educação. Para tal, serão criados comités de gestão, ao nível das várias instituições, envolvendo o sector produtivo como um dos beneficiários da formação e especialização da força de trabalho.
 
@@ -4130,7 +4558,7 @@ Prioridades
 
 Estrutura
 
-Programas A gestão desta área envolve outros Ministérios e parceiros do sector produtivo. Os organismos criados para este efeito (COREP e CIREP) serão institucionalizados e  transformados num órgão, responsável pela política, regulação e garantia de qualidade neste subsistema do ensino.
+Programas
 
 Ensino Técnico-Profissional - Programas sectorais |89
 
@@ -4156,11 +4584,13 @@ Estrutura
 
 Programas
 
+A gestão desta área envolve outros Ministérios e parceiros do sector produtivo. Os organismos criados para este efeito (COREP e CIREP) serão institucionalizados e transformados num órgão, responsável pela política, regulação e garantia de qualidade neste subsistema do ensino.
+
 Serão, igualmente, desenvolvidas e incentivadas parcerias com outras entidades públicas e privadas, que visam expandir, gerir e financiar este subsistema.
 
-#### 6.4.5 Acções prioritárias
+### 6.4.5 Acções prioritárias
 
-##### Acesso
+#### Acesso
 
 Constituem acções prioritárias, nesta área:
 
@@ -4180,7 +4610,7 @@ Constituem acções prioritárias, nesta área:
 
 - A aplicação de um sistema de incentivos, que vise um maior equilíbrio entre os géneros e evite a exclusão de formandos por razões económicas e por necessidades especiais.
 
-##### Qualidade
+#### Qualidade
 
 Consideram-se acções prioritárias, nesta área:
 
@@ -4206,7 +4636,7 @@ Consideram-se acções prioritárias, nesta área:
 
 - A garantia da criação, nas escolas, de unidades de orientação profissional e vocacional e de organização de estágios.
 
-##### Desenvolvimento institucional
+#### Desenvolvimento institucional
 
 Constituem acções fundamentais, nesta área:
 
@@ -4284,13 +4714,13 @@ Programas
 
 [[START OF PAGE 107]]
 
-### 6.5 Ensino Superior
+## 6.5 Ensino Superior
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Promover a expansão e o acesso equitativo ao Ensino Superior com padrões internacionais de qualidade.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Consolidar o subsistema existente, na perspectiva de melhorar a sua eficiência interna;
 
@@ -4298,17 +4728,17 @@ Promover a expansão e o acesso equitativo ao Ensino Superior com padrões inter
 
 - Reforçar a capacidade de governação, financiamento, administração e monitoria do subsistema, a todos os níveis.
 
-#### 6.5.1 Visão
+### 6.5.1 Visão
 
 O Ensino Superior (ES) é crucial para o fortalecimento da capacidade intelectual, científica, tecnológica e cultural necessária para i) o desenvolvimento socioeconómico do país, ii) a promoção da unidade nacional e da democracia, iii) a integração regional e cooperação internacional, iv) a protecção e sustentabilidade do ambiente.
 
 Este papel atribuído ao ES é concretizado através da formação de técnicos superiores qualificados e da investigação científica, que conduza ao aumento da produtividade, no país. O ES tem, ainda, um papel importante na melhoria da capacidade institucional do sistema educativo, através de um conjunto de acções, que incluem a formação de professores, de gestores do sistema, principalmente para o ensino pós-primário e a investigação educacional, que promova a melhoria da qualidade e relevância de ensino, a todos os níveis.
 
-As perspectivas de desenvolvimento do ES, em Moçambique, enquadram-se numa visão de 'Um Ensino Superior em expansão, com equilíbrio e qualidade, guiando-se, pelo princípio da democraticidade, que promova actividades produtoras de conhecimento que sejam objecto de reconhecimento nacional e internacional' . 52
+As perspectivas de desenvolvimento do ES, em Moçambique, enquadram-se numa visão de “Um Ensino Superior em expansão, com equilíbrio e qualidade, guiando-se, pelo princípio da democraticidade, que promova actividades produtoras de conhecimento que sejam objecto de reconhecimento nacional e internacional”. 52
 
-#### 6.5.2 Estágio actual
+### 6.5.2 Estágio actual
 
-##### Progressos
+#### Progressos
 
 O Ensino Superior expandiu-se de forma explosiva nos últimos anos; o número de estudantes matriculados quase triplicou e o número de instituições duplicou. As instituições públicas aumentaram em 89% entre 2004 e 2010, enquanto as do ensino privado registaram um acréscimo de 163%. A rede de instituições do ES cobre, actualmente, todas as províncias do país. Houve uma diversificação acentuada de cursos de formação e de tipos de instituições. A par disto, o número de estudantes registou, também, um crescimento significativo entre 2004 e 2010, tendo passado de 15.113 para 72.636 no ensino público e de 7.143 para 28.726,
 
@@ -4330,7 +4760,7 @@ Prioridades
 
 Estrutura
 
-Programas no ensino privado. A percentagem de raparigas subiu de 31,6% em 2004, para 39% em 2011. Globalmente, em 2010, os estudantes do ensino privado representavam cerca de 29% do total dos estudantes deste nível de ensino. O acesso às instituições públicas fora de Maputo aumentou, melhorando a equidade geográfica, em termos de oportunidades de acesso.
+Programas
 
 Ensino Superior - Programas sectorais |93
 
@@ -4358,21 +4788,23 @@ Estrutura
 
 Programas
 
+no ensino privado. A percentagem de raparigas subiu de 31,6% em 2004, para 39% em 2011. Globalmente, em 2010, os estudantes do ensino privado representavam cerca de 29% do total dos estudantes deste nível de ensino. O acesso às instituições públicas fora de Maputo aumentou, melhorando a equidade geográfica, em termos de oportunidades de acesso.
+
 Os graduados do ES, como resultado da criação de mais instituições deste nível, têm vindo a aumentar, tendo passado de 2.878 em 2004 para cerca de 8.600 em 2010, o que corresponde a um crescimento na ordem dos 250%.
 
 Foram  iniciadas  várias  reformas  destinadas  à  melhoria  da  qualidade  e  gestão deste subsistema. Este nível de ensino beneficiou de um aumento de recursos financeiros, conseguido através das contribuições das famílias no sector privado, bem como da melhoria do Orçamento do Estado, quer em termos absolutos, quer em termos relativos. Relativamente ao orçamento total do sector, o peso do ES passou de 15% em 2005 para 18% em 2010, voltando aos cerca de 15% em 2011.
 
-##### Desafios
+#### Desafios
 
-###### Eficiência interna
+##### Eficiência interna
 
 Da avaliação do PEEC notou-se que a taxa anual de graduação (total de graduados sobre o total de matriculados) regrediu, relativamente a 2005, tanto nas IESs públicas (de 13,4% para 11,3%), como nas privadas (de 11,4% para 8,4%) o que pode denunciar uma baixa eficiência interna das IES. Outro factor a realçar foi o atraso na realização e implementação das reformas previstas para melhorar a qualidade do ES e das próprias instituições.
 
-###### Recursos financeiros e humanos para as instituições
+##### Recursos financeiros e humanos para as instituições
 
 O aumento do orçamento resultou, principalmente, da criação/instalação de novas  IESs,  sem  se  preverem  os  recursos  necessários  para  o  seu  funcionamento. Como resultado, parte considerável das instituições registou insuficiência ou mesmo inexistência de condições básicas para se garantir um ensino de qualidade, como, por exemplo, laboratórios, bibliotecas, acesso a novas tecnologias. A maior parte dos docentes do ES (67%) possui apenas o nível de Bacharelato e/ou de Licenciatura.
 
-###### Relevância do Ensino Superior para o desenvolvimento do país
+##### Relevância do Ensino Superior para o desenvolvimento do país
 
 No país, a oferta entre cursos de ciências sociais e de ciências naturais e tecnológicas é desequilibrada. A proporção de estudantes das IESs com emprego na sua área de formação, um ano após a conclusão dos seus estudos, era inferior a 40% em 2010. A qualidade dos graduados e dos produtos de investigação está consideravelmente abaixo dos parâmetros estabelecidos ao nível regional e internacional.
 
@@ -4382,9 +4814,9 @@ No país, a oferta entre cursos de ciências sociais e de ciências naturais e t
 
 [[START OF PAGE 109]]
 
-#### 6.5.3 Prioridades para os próximos anos 53
+### 6.5.3 Prioridades para os próximos anos 53
 
-Foi elaborado um plano estratégico para o ES para os anos 2011-2020, com o principal objectivo de 'Promover a participação e o acesso equitativos e responder às necessidades do país de uma forma dinâmica, própria de uma sociedade em desenvolvimento, através da construção e fortalecimento de instituições, com programas flexíveis, diversificados e melhor coordenados para a aquisição e desenvolvimento de conhecimentos, habilidades, investigação e inovações relevantes, para o fortalecimento da capacidade intelectual, científica, tecnológica e cultural dos estudantes e graduados.' (PEES 2011-2020).
+Foi elaborado um plano estratégico para o ES para os anos 2011-2020, com o principal objectivo de “Promover a participação e o acesso equitativos e responder às necessidades do país de uma forma dinâmica, própria de uma sociedade em desenvolvimento, através da construção e fortalecimento de instituições, com programas flexíveis, diversificados e melhor coordenados para a aquisição e desenvolvimento de conhecimentos, habilidades, investigação e inovações relevantes, para o fortalecimento da capacidade intelectual, científica, tecnológica e cultural dos estudantes e graduados.” (PEES 2011-2020).
 
 O grande desafio para os próximos anos, será o de assegurar a qualidade e relevância deste nível de ensino, através da consolidação do sistema existente, não deixando de se considerar, contudo, as necessidades da sua expansão, como estímulo para o desenvolvimento do país.
 
@@ -4398,11 +4830,11 @@ Para os próximos cinco anos, a prioridade será dada à:
 
 - Garantia  da  capacidade  de  governação,  financiamento,  administração  e monitoria.
 
-#### 6.5.4 Estratégias principais
+### 6.5.4 Estratégias principais
 
-##### Consolidação do sistema
+#### Consolidação do sistema
 
-A expansão da rede de ES, na primeira fase de implementação do PEES 20112020, será realizada principalmente, pela criação de novos Institutos Superiores Politécnicos, pela mobilização de um maior envolvimento do sector privado e pela criação de novos programas de Educação Aberta e à Distância (EAD).
+A expansão da rede de ES, na primeira fase de implementação do PEES 2011-2020, será realizada principalmente, pela criação de novos Institutos Superiores Politécnicos, pela mobilização de um maior envolvimento do sector privado e pela criação de novos programas de Educação Aberta e à Distância (EAD).
 
 Ao mesmo tempo, a insistência na observância de critérios rigorosos de entrada e progressão dentro do sistema, incluindo o estabelecimento de limites, em termos de vagas por curso, entre outros factores, deve contribuir para a consolidação da capacidade das instituições existentes, tomando em conta a garantia da qualidade de ensino.
 
@@ -4428,7 +4860,7 @@ Prioridades
 
 Estrutura
 
-Programas Haverá ainda um aumento no acesso aos cursos nas áreas consideradas prioritárias, como engenharias, ciências exactas e naturais, saúde e agricultura. A equidade no acesso será garantida com a introdução da reforma financeira, com o aumento do número de bolsas de estudo para os cidadãos mais carentes e com melhor desempenho escolar. ( Objectivo estratégico 3 do PEES 2011-2020 ).
+Programas
 
 Ensino Superior - Programas sectorais |95
 
@@ -4454,13 +4886,15 @@ Estrutura
 
 Programas
 
-##### Melhorar a qualidade e a relevância do processo de ensino-aprendizagem
+Haverá ainda um aumento no acesso aos cursos nas áreas consideradas prioritárias, como engenharias, ciências exactas e naturais, saúde e agricultura. A equidade no acesso será garantida com a introdução da reforma financeira, com o aumento do número de bolsas de estudo para os cidadãos mais carentes e com melhor desempenho escolar. (Objectivo estratégico 3 do PEES 2011-2020).
+
+#### Melhorar a qualidade e a relevância do processo de ensino-aprendizagem
 
 A primeira acção para a melhoria da qualidade será feita através de uma maior integração dos estudantes no processo académico, o que inclui as actividades de ensino, pesquisa e extensão. ( Objectivo estratégico 5 do PEES 2011-2020 ).
 
 A melhoria da qualidade implica a observância de padrões internacionais e o controlo efectivo da sua aplicação nos programas e cursos, através da sua acreditação. Para este efeito, a prioridade será dada à consolidação das reformas iniciadas ao longo dos últimos anos, apresentadas no Plano Estratégico para o Ensino Superior 2000-2010, como sendo a implementação do Quadro Nacional de Qualificações Académicas do Ensino Superior, o fortalecimento da capacidade das Instituições melhorando, entre outros aspectos, as suas condições físicas e a utilização de novas tecnologias. Outra área a priorizar, será a da melhoria da qualidade da formação dos docentes ( objectivos estratégicos 1 e 6 do PEES 2011-2020 ) através, entre outros, do estabelecimento de parcerias e de programas de investigação e de intercâmbio de docentes.
 
-##### Reforçar a governação e gestão do subsistema
+#### Reforçar a governação e gestão do subsistema
 
 Melhorar a eficiência interna das IESs significa aumentar a capacidade institucional no domínio da sua gestão. Isto implica a adopção de um conjunto de acções, como a criação e a consolidação de mecanismos de eleição dos órgãos colegiais, a implementação de métodos de gestão participativa e transparente e a aplicação de um sistema eficiente de monitoria e avaliação sistemática ( objectivo estratégico 2 do PEES 2011-2020 ). A coordenação deste subsistema envolve diferentes entidades com autonomia de governação.
 
@@ -4468,7 +4902,7 @@ Ao longo dos anos, foram surgindo diferentes órgãos com competências específ
 
 Mesmo que cada um tenha o seu mandato e as suas áreas de intervenção, considera-se pertinente uma maior articulação entre os diferentes órgãos envolvidos na gestão e governação do Ensino Superior nos vários níveis.
 
-A complexidade da governação do ES, impõe um reforço de capacidade do MINED, assegurando-se a eficiência na concepção e aplicação de métodos de gestão, fiscalização e regulação. (O bjectivo estratégico 4 do PEES 2011-2020 ).
+A complexidade da governação do ES, impõe um reforço de capacidade do MINED, assegurando-se a eficiência na concepção e aplicação de métodos de gestão, fiscalização e regulação. (Objectivo estratégico 4 do PEES 2011-2020).
 
 96| Programas sectorais - Ensino Superior
 
@@ -4478,9 +4912,9 @@ A complexidade da governação do ES, impõe um reforço de capacidade do MINED,
 
 Uma melhor governação deste subsistema será apoiada pela reforma financeira das próprias instituições, promovendo-se uma maior transparência na alocação dos fundos para as diversas instituições, na base do seu desempenho (do estudante e da instituição). A implementação da reforma financeira requer um maior compromisso e cooperação entre as instituições. A par disto, requer também a implementação de outras reformas, que garantam o controlo de qualidade da oferta e a equidade no acesso, em termos geográficos, económicos e de género, através de um sistema rigoroso e transparente de atribuição de bolsas. ( Objectivo estratégico 3 do PEES 2011-2020 ).
 
-#### 6.5.5 Acções prioritárias
+### 6.5.5 Acções prioritárias
 
-##### Acesso (objectivos estratégicos 1 e 3 do PEES 2011-2020)
+#### Acesso (objectivos estratégicos 1 e 3 do PEES 2011-2020)
 
 Consideram-se acções prioritárias a serem desenvolvidas:
 
@@ -4540,7 +4974,7 @@ Estrutura
 
 Programas
 
-##### Qualidade (objectivos estratégicos 1, 5 e 6 do PEES 2011-2020)
+#### Qualidade (objectivos estratégicos 1, 5 e 6 do PEES 2011-2020)
 
 As principais acções a desenvolver são:
 
@@ -4562,7 +4996,7 @@ As principais acções a desenvolver são:
 
 [[START OF PAGE 113]]
 
-##### Desenvolvimento institucional (objectivos estratégicos 2, 3, e 4 do PEES 2011-2020)
+#### Desenvolvimento institucional (objectivos estratégicos 2, 3, e 4 do PEES 2011-2020)
 
 As grandes acções para reforçar a capacidade institucional são:
 
@@ -4622,13 +5056,13 @@ Ensino Superior - Programas sectorais |99
 
 [[START OF PAGE 115]]
 
-### 6.6 Desenvolvimento Administrativo e Institucional
+## 6.6 Desenvolvimento Administrativo e Institucional
 
-#### Objectivo geral:
+### Objectivo geral:
 
 Fortalecer a gestão e a governação da administração do sistema educativo aos vários níveis, particularmente nos distritos, com vista a melhorar a qualidade de prestação dos serviços, em todo o país.
 
-#### Objectivos estratégicos:
+### Objectivos estratégicos:
 
 - Estimular o desenvolvimento e a gestão dos recursos humanos;
 
@@ -4636,17 +5070,17 @@ Fortalecer a gestão e a governação da administração do sistema educativo ao
 
 - Harmonizar e reforçar os processos e instrumentos de planificação, orçamentação, execução, monitoria e avaliação do sistema.
 
-#### 6.6.1 Visão
+### 6.6.1 Visão
 
 O programa Desenvolvimento Administrativo e Institucional tem como principal objectivo a criação de um sistema administrativo para a gestão do Sistema Educativo, com maior eficácia e eficiência. Uma melhor gestão é crucial para assegurar o acesso aos serviços educativos de qualidade, para todos os cidadãos.
 
 A  gestão  do  sector  integra-se  no  ciclo  nacional  de  planificação,  orçamentação, execução, monitoria e avaliação (POEMA). O desenvolvimento, nesta área, integra-se nas reformas ao nível do sector público do país.
 
-O desenvolvimento do sector público parte de uma visão holística em relação ao conceito de ' boa gestão ' que incorpora: i) a descentralização do poder na tomada de decisões e de gestão, ii) a profissionalização do sistema e dos seus funcionários, e iii) a transparência e a responsabilização na alocação e aplicação dos recursos disponíveis.
+O desenvolvimento do sector público parte de uma visão holística em relação ao conceito de “boa gestão” que incorpora: i) a descentralização do poder na tomada de decisões e de gestão, ii) a profissionalização do sistema e dos seus funcionários, e iii) a transparência e a responsabilização na alocação e aplicação dos recursos disponíveis.
 
-#### 6.6.2 Estágio actual
+### 6.6.2 Estágio actual
 
-##### Progressos
+#### Progressos
 
 Ao longo dos últimos anos, os progressos observados foram apoiados pelo aumento da capacidade institucional do sistema, principalmente na área de planificação e gestão financeira. O sistema beneficiou-se da introdução de várias reformas no sector  público,  destacando-se  a  descentralização,  a  introdução  de  e-SISTAFE  e uma maior eficácia da área de cooperação.
 
@@ -4702,7 +5136,7 @@ Programas
 
 O novo modelo de programação, implementado desde 2009, facilita uma melhor harmonização dos diferentes processos e instrumentos de POEMA e está a contribuir para a melhoria do diálogo entre as diferentes unidades orgânicas envolvidas.
 
-##### Desafios
+#### Desafios
 
 Tal como revelou a avaliação externa ao PEEC 2006-2010/11, permanecem, ainda, grandes desafios para o futuro, principalmente na área de gestão e desenvolvimento de recursos humanos, particularmente ao nível dos distritos. Torna-se, portanto, necessário aprofundar e simplificar os procedimentos para melhorar a eficiência dos funcionários na gestão do sistema. Uma melhor comunicação e divulgação da informação interna e externa, através das potencialidades das novas tecnologias, merecem mais atenção.
 
@@ -4710,7 +5144,7 @@ A grande preocupação com a qualidade dos serviços educativos é pela falta de
 
 Para além disto, há, ainda, uma fraca ligação entre a planificação anual ao nível do sector e a implementação das estratégias principais, que beneficiam de uma planificação e orçamentação multianual. Falta, ainda, a utilização da informação disponível no contexto do processo de planificação e monitoria estratégica, para traduzir os objectivos e estratégias principais em acções concretas, de forma a responder à situação concreta de uma província e/ou distrito.
 
-#### 6.6.3 Prioridades para os próximos anos
+### 6.6.3 Prioridades para os próximos anos
 
 O enfoque deste programa para os próximos anos é o de profissionalizar a gestão do sistema administrativo, garantindo uma melhor prestação de serviços aos cidadãos.
 
@@ -4732,13 +5166,13 @@ Uma vez que a cada ano mais responsabilidades e fundos são transferidos para os
 
 [[START OF PAGE 117]]
 
-#### 6.6.4 Estratégias principais
+### 6.6.4 Estratégias principais
 
 O aumento da capacidade institucional já foi um dos três objectivos principais dos planos estratégicos anteriores.
 
 Nos próximos anos, o sector continuará a implementação e consolidação das reformas já iniciadas nesta área.
 
-##### Desenvolvimento (da gestão) dos recursos humanos
+#### Desenvolvimento (da gestão) dos recursos humanos
 
 Numa perspectiva da gestão decentralizada do sistema educativo, a gestão dos recursos humanos para a maior parte do sistema educativo está sob responsabilidade dos distritos, assumindo as tarefas de contratar, pagar os salários, e monitorar o desempenho dos professores. Isto exige muito mais capacidade profissional dos funcionários neste nível, bem como uma melhor articulação entre os níveis central, provincial e local. Foi já elaborada uma estratégia nacional de gestão e desenvolvimento de recursos humanos para o sector da educação, que vai ser implementada ao longo dos próximos anos.
 
@@ -4752,7 +5186,7 @@ As  linhas  estratégicas  propostas  interferem,  directamente,  nos  subsistem
 
 - Implementação de uma Política de Apoio Social, com enfoque na mitigação do HIV e SIDA.
 
-##### A observância de padrões e indicadores de qualidade da Educação
+#### A observância de padrões e indicadores de qualidade da Educação
 
 Actualmente o sector apresenta uma organização do trabalho orientado para o cumprimento de tarefas e menos para os resultados, de acordo com os objectivos individuais e de equipa ou da instituição. Os serviços educativos beneficiar-se-ão da integração e observância de padrões e indicadores de qualidade, nos diferentes níveis do sistema, acompanhando e encorajando um melhor desempenho do aluno, das instituições educativas e do sector na sua globalidade.
 
@@ -4776,7 +5210,7 @@ Prioridades
 
 Estrutura
 
-Programas Já  existem  diversos  documentos  que  orientam  para  a  melhoria  de  serviços  de educação com qualidade, como por exemplo, a Política Nacional de Educação, os planos estratégicos (sub-) sectoriais, os planos curriculares, Orientações e Tarefas Escolares Obrigatórias (OTEOs) e regulamentos de ensino. Existem, ainda, várias fontes de informação (dados estatísticos, informação financeira e de recursos humanos, de exames, de estudos por amostragem, etc.), que alimentam os diferentes processos de monitoria e avaliação, sendo a supervisão integrada, a inspecção e o controlo interno, os processos de avaliação.
+Programas
 
 Desenvolvimento  Administrativo e Institucional - Programas sectorais |103
 
@@ -4802,6 +5236,8 @@ Estrutura
 
 Programas
 
+Já existem diversos documentos que orientam para a melhoria de serviços de educação com qualidade, como por exemplo, a Política Nacional de Educação, os planos estratégicos (sub-) sectoriais, os planos curriculares, Orientações e Tarefas Escolares Obrigatórias (OTEOs) e regulamentos de ensino. Existem, ainda, várias fontes de informação (dados estatísticos, informação financeira e de recursos humanos, de exames, de estudos por amostragem, etc.), que alimentam os diferentes processos de monitoria e avaliação, sendo a supervisão integrada, a inspecção e o controlo interno, os processos de avaliação.
+
 O SAQEM pretende integrar, consolidar e refinar estes diferentes instrumentos, processos e informações existentes e transformá-los num todo abrangente e coerente.
 
 O SAQEM produzirá informação, com base em diagnósticos, para acompanhar a implementação das actividades educativas e informar sobre as medidas correctivas  ao  nível  do  sector,  da  instituição  e/ou  do  aluno.  A  disponibilização  desta informação vai facilitar a prestação de contas e a responsabilização dos actores envolvidos na implementação do sistema.
@@ -4822,7 +5258,7 @@ Considerando a importância dada a este assunto, foi criada uma nova Direcção 
 
 A criação desta nova Direcção reforça as responsabilidades das outras instituições e/ou unidades orgânicas como o INDE (acompanhamento e avaliação do desempenho dos alunos), a DIPLAC (levantamento estatístico), o CNECE (exames), o CNAQ, entre outras.
 
-> 55 Referência ao 'Roteiro da Gestão e Garantia da Qualidade', Doc. 2.2.1/CC/MINED/2011.
+> 55 Referência ao “Roteiro da Gestão e Garantia da Qualidade”, Doc. 2.2.1/CC/MINED/2011.
 
 104| Programas sectorais - Desenvolvimento Administrativo e Institucional
 
@@ -4830,7 +5266,7 @@ A criação desta nova Direcção reforça as responsabilidades das outras insti
 
 [[START OF PAGE 119]]
 
-##### Harmonização e integração dos instrumentos e processos de POEMA
+#### Harmonização e integração dos instrumentos e processos de POEMA
 
 Em 2009, foi introduzido no sector um novo modelo de programação, por níveis de ensino. Este modelo facilita:
 
@@ -4852,11 +5288,11 @@ Está previsto para os próximos anos, a consolidação e o refinamento deste pr
 
 - A promoção de uma maior transparência e equidade na aplicação e utilização dos recursos disponibilizados, que implica um enfoque maior no controlo interno e na inspecção.
 
-#### 6.6.5 Acções prioritárias
+### 6.6.5 Acções prioritárias
 
 As actividades nestes programas respondem aos três objectivos estratégicos, a saber: i) o desenvolvimento (da gestão) dos recursos humanos, ii) a observância de padrões e indicadores de qualidade, e iii) a harmonização dos processos e instrumentos de POEMA 56 .
 
-##### Desenvolvimento (da gestão) dos recursos humanos
+#### Desenvolvimento (da gestão) dos recursos humanos
 
 Nesta área, importa considerar:
 
@@ -4954,7 +5390,7 @@ Programas
 
 - o O desenvolvimento de mecanismos de promoção dos direitos sociais e humanos.
 
-##### Observância de padrões e indicadores de qualidade
+#### Observância de padrões e indicadores de qualidade
 
 Nesta área mostra-se pertinente priorizar as seguintes acções:
 
@@ -4962,7 +5398,7 @@ Nesta área mostra-se pertinente priorizar as seguintes acções:
 
 - o Para as escolas e para as diferentes entidades (ao nível central, provincial e distrital) envolvidas na prestação de serviços educativos, começando pelas escolas primárias;
 
-- o Adequados aos edifícios e aos diferentes tipos de escolas, incluindo a demarcação e a 'titularização' dos espaços educacionais, bem como a criação de condições para o fácil acesso às instituições, por parte das pessoas com deficiência;
+- o Adequados aos edifícios e aos diferentes tipos de escolas, incluindo a demarcação e a “titularização” dos espaços educacionais, bem como a criação de condições para o fácil acesso às instituições, por parte das pessoas com deficiência;
 
 - o A configuração e implementação de um Quadro Nacional de Acreditação, Qualificações e Certificações, quer ao nível de ensino formal, quer ao nível do não formal, com enfoque no ensino pós-primário (ensino técnico-profissional e superior);
 
@@ -4984,7 +5420,7 @@ Nesta área mostra-se pertinente priorizar as seguintes acções:
 
 - o Da garantia de seguimento dos casos de desvios reportados.
 
-##### Harmonização dos processos e instrumentos de POEMA
+#### Harmonização dos processos e instrumentos de POEMA
 
 Nesta área, as acções prioritárias a considerar são:
 
@@ -5078,7 +5514,7 @@ Programas
 
 [[START OF PAGE 123]]
 
-## 7.	 Arranjo institucional da implementação
+# 7.	 Arranjo institucional da implementação
 
 O sucesso do PEE será determinado pela qualidade e eficiência da sua implementação, orientada pelos seguintes princípios:
 
@@ -5092,7 +5528,7 @@ O sucesso do PEE será determinado pela qualidade e eficiência da sua implement
 
 A implementação vai depender, sobretudo, do compromisso de todos para com os principais objectivos do sector. Isto implica um entendimento partilhado por todos os envolvidos sobre a visão e missão do sector e as prioridades e estratégias para os próximos anos. Neste contexto, a estratégia de comunicação e divulgação do plano estratégico será crucial.
 
-### 7.1 Plano e orçamento anual
+## 7.1 Plano e orçamento anual
 
 Todos os anos, em finais de Dezembro, o Plano Económico Social (PES) e o Orçamento Anual do Estado (OE) são aprovados na Assembleia de República. O plano e orçamento do governo e do sector são elaborados a partir dos distritos, na base das linhas orientadoras do Plano Quinquenal do Governo, bem como do Plano Estratégico do sector da Educação e do Cenário Fiscal de Médio Prazo (veja Quadro 1, pág. 10).
 
@@ -5100,7 +5536,7 @@ A planificação de actividades e do respectivo orçamento para o ano seguinte p
 
 De Março a finais de Junho, o plano e orçamento são elaborados ao nível das províncias e distritos, e ajustados de acordo com os limites comunicados pelo Ministério de Finanças até 31 de Maio.
 
-Em Julho, o MINED conclui a elaboração do Plano do Sector (PES), na sua globalidade, incorporando as propostas das províncias e das suas diferentes unidades orgânicas. Enquanto a proposta do PES apresenta as actividades do sector no país, o orçamento destina-se às diferentes Unidades Gestoras Beneficiárias (UGBs) 57 . De acordo com o ciclo de planeamento público em vigor, o PES e o OE devem ser submetidos ao MPD/MF até 31 de Julho.
+Em Julho, o MINED conclui a elaboração do Plano do Sector (PES), na sua globalidade, incorporando as propostas das províncias e das suas diferentes unidades orgânicas. Enquanto a proposta do PES apresenta as actividades do sector no país,
 
 Resumo
 
@@ -5152,9 +5588,11 @@ Programas
 
 Institucional
 
+o orçamento destina-se às diferentes Unidades Gestoras Beneficiárias (UGBs)57. De acordo com o ciclo de planeamento público em vigor, o PES e o OE devem ser submetidos ao MPD/MF até 31 de Julho.
+
 Depois do Plano e Orçamento serem submetidos à Assembleia de República, são operacionalizados através do Programa de Actividades do sector, a partir do Plano Operacional que consta num documento separado, e reflecte e especifica as grandes acções de sector para serem implementados no período de 2012-2016.
 
-### 7.2 Mandato do sector da educação
+## 7.2 Mandato do sector da educação
 
 As responsabilidades do sector são assumidas pelos vários intervenientes em função de quatro grandes actividades, a saber:
 
@@ -5170,7 +5608,7 @@ Estas actividades são da responsabilidade do MINED e das instituições a ele s
 
 Ao mesmo tempo, são envolvidas, neste processo, entidades externas como outros Ministérios, o sector privado, bem como vários outros parceiros nacionais e internacionais.
 
-#### 7.2.1 O Ministério de Educação (MINED)
+### 7.2.1 O Ministério de Educação (MINED)
 
 O MINED é o órgão central do aparelho do Estado que, de acordo com os princípios, objectivos e mandato definidos pelo Governo, planifica, coordena, dirige e desenvolve actividades no âmbito da Educação. O Ministério tem a responsabilidade de elaborar, planificar e orçamentar as grandes políticas e estratégias do sector e estabelece padrões e normas, tendo em conta as prioridades do Governo para o sector, assegurando a alocação eficiente e eficaz de recursos financeiros e humanos, garantindo equidade e qualidade.
 
@@ -5188,13 +5626,13 @@ Segundo o novo Estatuto Orgânico, aprovado pelo Ministério da Função Públic
 
 [[START OF PAGE 125]]
 
-#### 7.2.2 Órgãos locais
+### 7.2.2 Órgãos locais
 
 Os órgãos locais, as DPECs, SDEJTs e os Municípios têm como responsabilidade principal a implementação dos programas do sector e devem elaborar os planos e definir as metas, de acordo com as políticas e estratégias gerais do sector, assegurando a sua integração nos planos e orçamentos anuais dos governos locais.
 
 Nesta perspectiva, a sua participação e contribuição para a formulação de políticas e estratégias nacionais é crucial, uma vez que estes órgãos têm conhecimento da realidade local e têm a responsabilidade de garantir uma implementação eficaz e eficiente das políticas e estratégias definidas.
 
-##### As Direcções Provinciais de Educação e Cultura (DPECs)
+#### As Direcções Provinciais de Educação e Cultura (DPECs)
 
 As DPECs têm como principal papel, a harmonização e monitoria dos planos e orçamentos anuais dos distritos e da província na sua globalidade, contribuindo para o alcance dos objectivos nacionais do sector da Educação, reduzindo as disparidades e iniquidades entre os distritos e as diferentes instituições de Educação.
 
@@ -5202,15 +5640,15 @@ Têm, ainda, a responsabilidade de acompanhar e harmonizar o trabalho na área d
 
 As DPECs também são responsáveis pela planificação, implementação e acompanhamento das actividades na área de Cultura. Para isso, estão em contacto directo com o Ministério da Cultura.
 
-##### Os Serviços Distritais de Educação, Juventude e Tecnologia (SDEJTs)
+#### Os Serviços Distritais de Educação, Juventude e Tecnologia (SDEJTs)
 
 No contexto da descentralização das responsabilidades e recursos financeiros, os distritos têm a responsabilidade de assegurar o funcionamento do Sistema Educativo, a partir da base.
 
-Eles são responsáveis por planificar e orçamentar as actividades dos distritos na área de Educação. A gestão de recursos humanos, em todas as escolas do distrito, é da responsabilidade dos governos distritais, implementada pelos SDEJTs 59 . Estes desempenham um papel-chave no acompanhamento dos processos de ensinoaprendizagem ao nível das diferentes instituições do ensino, com particular atenção para o Ensino Primário, o Ensino Secundário e os programas de Alfabetização e Educação de Adultos.
+Eles são responsáveis por planificar e orçamentar as actividades dos distritos na área de Educação. A gestão de recursos humanos, em todas as escolas do distrito, é da responsabilidade dos governos distritais, implementada pelos SDEJTs 59 . Estes desempenham um papel-chave no acompanhamento dos processos de ensino-aprendizagem ao nível das diferentes instituições do ensino, com particular atenção para o Ensino Primário, o Ensino Secundário e os programas de Alfabetização e Educação de Adultos.
 
 Os SDEJTs devem, ainda, desenvolver actividades nas áreas da juventude, desporto, ciência, tecnologia e cultura.
 
-##### Os Municípios
+#### Os Municípios
 
 De acordo com a Lei dos Órgãos Locais, os Municípios devem responsabilizar-se pelo financiamento e pela gestão das escolas primárias, observando as regras estabelecidas para a gestão dos recursos do sector público. No entanto, este processo ainda está a ser implementado.
 
@@ -5264,11 +5702,13 @@ Estrutura
 
 Programas
 
-Institucional Em 2011, foi iniciada a transferência das competências de gestão das escolas primárias para o Município da Cidade de Maputo. Este processo será estendido aos restantes Municípios do país, nos próximos anos.
+Institucional
+
+Em 2011, foi iniciada a transferência das competências de gestão das escolas primárias para o Município da Cidade de Maputo. Este processo será estendido aos restantes Municípios do país, nos próximos anos.
 
 Embora não exista uma acção directa em termos de monitoria e supervisão dos municípios pelo MINED, os Municípios têm obrigações na implementação e monitoria dos Planos do Governo. No caso da transferência de fundos (externos) disponibilizados ao sector e alocados aos Municípios, será estabelecido um Memorando de Entendimento para garantir a observância das regras que guiam a sua aplicação.
 
-##### Ao nível das instituições educativas
+#### Ao nível das instituições educativas
 
 As escolas estão sob responsabilidade dos Serviços Distritais e, no futuro, também dos Municípios, em termos de gestão. O seu funcionamento é regido pelo documento 'Orientações e Tarefas Escolares Obrigatórias' (OTEOs), no que respeita aos aspectos ligados à organização, administração e gestão escolar.
 
@@ -5278,7 +5718,7 @@ Os pais e encarregados de educação, bem como as famílias e as comunidades, de
 
 As IESs têm autonomia administrativa e financeira e negoceiam o seu orçamento directamente com o Ministério das Finanças. O sector está a negociar uma autonomia similar para as Instituições de Ensino Técnico-Profissional de nível médio. A gestão destas escolas será feita através da criação dos Comités de Gestão de Escola (veja 6.4.4, pág. 89).
 
-### 7.3 Modalidades de financiamento
+## 7.3 Modalidades de financiamento
 
 O orçamento do PEE é considerado na sua globalidade e financiado por diferentes fontes: i) fonte interna, financiada pelas receitas fiscais e pelo apoio directo ao OE; ii) fonte externa, que inclui projectos bilaterais, apoio sectorial através do fundo comum (FASE) e das contribuições das várias organizações não-governamentais; iii) receitas geradas ao nível das escolas e instituições (contribuições directas dos pais e encarregados de Educação, através de propinas 60 , produção escolar, etc.); e iv) contribuições do sector privado (como provedor ou outro) e das comunidades (contribuições indirectas como sendo a construção e manutenção de salas de aula, alojamento para o professor…).
 
@@ -5292,11 +5732,11 @@ Para os próximos anos, o FASE continuará a ser o mecanismo preferencial para a
 
 [[START OF PAGE 127]]
 
-#### 7.3.1 Fonte interna
+### 7.3.1 Fonte interna
 
 A fonte interna financia a maior parte da despesa do sector de educação (cerca de 80% em 2011) nomeadamente os salários do pessoal docente e não docente e os bens e serviços para o funcionamento das instituições. Uma parte considerável do orçamento interno para o investimento financia a contribuição do Governo nos projectos bilaterais de investimento que ainda exigem comparticipação do governo.
 
-#### 7.3.2 Fonte externa
+### 7.3.2 Fonte externa
 
 Para os próximos anos, a contribuição anual da fonte externa é estimada em cerca de 20-25% 61  da despesa do sector. Cerca de 75% destes fundos externos provêm de 12 parceiros bilaterais e multilaterais (2011) e são canalizados através do Fundo de Apoio ao Sector da Educação (FASE).
 
@@ -5306,7 +5746,7 @@ Os projectos bilaterais, através dos créditos dos Bancos de Desenvolvimento, b
 
 As  ONGs  (nacionais  e  internacionais),  cujos  fundos,  na  maior  parte  dos  casos, não estão inscritos no Orçamento de Estado, contribuem, principalmente, para o financiamento de actividades ao nível das escolas, bem como para as áreas de alfabetização e do desenvolvimento da primeira infância.
 
-#### 7.3.3 Receitas próprias 62 (monetárias ou em espécie)
+### 7.3.3 Receitas próprias 62 (monetárias ou em espécie)
 
 O governo adoptou uma política de Ensino Primário gratuito para todos e por isso, não há cobrança de taxas e/ou propinas neste nível do ensino. O Estado fornece livros e apoio directo às escolas para garantir o seu funcionamento e responsabiliza-se, também, pela compra de materiais didácticos. Isto não significa que os pais ou as famílias não possam contribuir voluntariamente para o financiamento das escolas. Estas contribuições são bem-vindas e encorajadas, mas não devem ser entendidas como obrigação ou condição de acesso à escola.
 
@@ -5368,7 +5808,7 @@ Programas
 
 Institucional
 
-#### 7.3.4 Contribuição do sector privado
+### 7.3.4 Contribuição do sector privado
 
 Durante a implementação do PEEC (2006-2010/11), a parceria com o sector privado intensificou-se, principalmente no contexto da implementação da reforma da Educação Profissional, mas também, em termos do seu contributo à provisão de serviços educativos através do estabelecimento de escolas privadas, da construção de edifícios, da disponibilização de equipamento e materiais escolares e de bolsas de estudo.
 
@@ -5376,7 +5816,7 @@ Nos próximos anos, será encorajado um maior envolvimento do sector privado com
 
 Para além do acima exposto, a parceria com o sector privado, principalmente ao nível da ETP e do ES, será reforçada na perspectiva de uma melhor ligação entre a Educação e o mundo do trabalho, contribuindo para uma formação mais relevante para a economia e, ao mesmo tempo, promovendo um maior atendimento aos estudantes e aos graduados, por parte do sector formal da economia.
 
-### 7.4 Monitoria e avaliação
+## 7.4 Monitoria e avaliação
 
 A implementação do Plano Estratégico é um processo fluído, que responde a diferentes factores internos e externos, nem sempre previstos na sua concepção. Por isso, é importante assegurar a sua monitoria e avaliação contínua.
 
@@ -5386,7 +5826,7 @@ A monitoria e avaliação dos resultados da implementação do plano são igualm
 
 A monitoria e avaliação da implementação do PEE são feitas aos diferentes níveis, envolvendo diferentes actores, e na base de um conjunto de indicadores e metas acordadas.
 
-#### 7.4.1 Acompanhamento e supervisão da implementação das intervenções do sector
+### 7.4.1 Acompanhamento e supervisão da implementação das intervenções do sector
 
 Melhorar o desempenho do sector nos próximos anos, implica um acompanhamento mais próximo e regular das instituições onde decorrem as actividades concretas, pelas entidades responsáveis pela sua gestão (conforme as atribuições dos diferentes intervenientes envolvidos na implementação do plano estratégico  veja 7.2, pág. 110).
 
@@ -5402,7 +5842,7 @@ Continuarão a ser disponibilizados fundos e instrumentos ao nível provincial e
 
 A descentralização e a melhoria da gestão dos recursos humanos deverão contribuir para o aumento da capacidade ao nível local e para um melhor acompanhamento e supervisão dos processos educativos. O fortalecimento do papel dos Conselhos de Escola vai facilitar, ainda, um acompanhamento do desempenho da Escola pelos pais e pelas comunidades beneficiárias.
 
-#### 7.4.2 Monitoria e avaliação do desempenho do sector
+### 7.4.2 Monitoria e avaliação do desempenho do sector
 
 A monitoria e a avaliação do desempenho do sector fazem parte de um processo integrado de avaliação e monitoria conjunta entre o MINED e os seus parceiros externos, incluindo a sociedade civil. Este processo integra-se na monitoria da implementação do PARP, pelo Governo e os seus parceiros de apoio programático.
 
@@ -5436,7 +5876,7 @@ Estrutura
 
 Programas
 
-Institucional Esta apreciação será a base para o diálogo 64  entre o MINED e os seus parceiros, através de:
+Institucional
 
 Arranjo institucional da implementação |115
 
@@ -5466,6 +5906,8 @@ Programas
 
 Institucional
 
+Esta apreciação será a base para o diálogo 64 entre o MINED e os seus parceiros, através de:
+
 - A Reunião Anual de Revisão (RAR) (Março/Abril), onde se discutem os progressos feitos e os desafios do sector com o objectivo principal de estabelecer uma agenda de diálogo para os próximos anos;
 
 - Grupos de Trabalho (temáticos) ,  onde se discutem as áreas específicas, com o objectivo de i) se alcançar consensos sobre as estratégias principais para melhorar o desempenho do sector, e ii) se aumentar a capacidade estratégica do Ministério;
@@ -5476,11 +5918,11 @@ Institucional
 
 No último ano da implementação do PEE será feita uma avaliação externa para verificar o grau de implementação do PEE e a eficácia das estratégias desenvolvidas, com o objectivo principal de nortear o próximo plano estratégico.
 
-#### 7.4.3 Envolvimento dos níveis subnacionais
+### 7.4.3 Envolvimento dos níveis subnacionais
 
 No contexto da monitoria e avaliação do desempenho do sector, será dada, ao longo dos próximos anos, uma atenção particular à participação das províncias e distritos, principalmente no contexto da harmonização dos processos de Planificação, Orçamentação, Execução, Monitoria e Avaliação (veja 6.6.5, pág. 105). Isto implica, entre outras acções e em primeira instância, a tradução dos indicadores principais em metas por províncias e, posteriormente, por distritos, para facilitar uma planificação, orçamentação e monitoria orientada para uma resposta mais adequada à situação de cada uma das províncias 65 .
 
-#### 7.4.4 Monitoria da implementação do Memorando de Entendimento 66 do FASE
+### 7.4.4 Monitoria da implementação do Memorando de Entendimento 66 do FASE
 
 A aplicação dos fundos externos ao sector, canalizados através do Fundo Comum FASE, é orientada pelo Memorando de Entendimento (MdE) do FASE que especifica os procedimentos para este efeito e promove o uso dos mecanismos nacionais na área de planificação, orçamentação, gestão e monitoria.
 
@@ -5500,7 +5942,7 @@ O acompanhamento da implementação do MdE de FASE é feito através do Grupo de
 
 [[START OF PAGE 131]]
 
-### 7.5 Plano de acção de combate à corrupção
+## 7.5 Plano de acção de combate à corrupção
 
 Ao nível do Governo foi elaborada uma Estratégia Global Anticorrupção para o período 2006-2010, com o objectivo principal de melhorar a prestação de serviços públicos ao cidadão e desenvolver um ambiente favorável ao crescimento do sector privado.
 
@@ -5510,19 +5952,19 @@ As acções para o combate à corrupção não são apenas repressivas, mas pass
 
 Nos próximos anos, o sector concentrar-se-á na consolidação das medidas tomadas ao longo dos últimos anos da implementação do plano de acção nas áreas a seguir referidas.
 
-##### No âmbito do processo de exames e de certificação
+#### No âmbito do processo de exames e de certificação
 
 Continuação da criação de condições de segurança dos exames e correcção dos mesmos, de forma eficaz e objectiva, recorrendo à leitura óptica, diminuindo o número de intervenientes no seu processo e na criação de condições para a emissão de certificados em tempo útil e com alto grau de segurança em todos os níveis do ensino (veja também 6.6.5 na pág. 105).
 
-##### No âmbito do processo de distribuição do livro escolar de distribuição gratuita
+#### No âmbito do processo de distribuição do livro escolar de distribuição gratuita
 
 Desenvolvimento dos níveis de transparência do processo de distribuição do livro escolar de distribuição gratuita (1ª à 7ª classe), reduzindo o número de intervenientes, realizando campanhas sobre a conservação dos mesmos (veja também 6.1.6 na pág. 64).
 
-##### No âmbito do processo de matrículas
+#### No âmbito do processo de matrículas
 
 Continuação da implementação das campanhas de informação ao público sobre o processo de matrículas, distribuindo gratuitamente a todas as escolas e à sociedade em geral, no fim de cada ano, folhetos e calendários com informações sobre o processo de matrículas.
 
-##### No âmbito da gestão financeira e orçamental
+#### No âmbito da gestão financeira e orçamental
 
 Realização de inspecções e auditorias às instituições educacionais, com vista a conferir maior transparência e responsabilização à contratação de empreitadas de obras públicas, fornecimento de bens e serviços ao Estado e à utilização devida do bem público.
 
@@ -5576,13 +6018,13 @@ Programas
 
 Institucional
 
-##### No âmbito da gestão das reclamações
+#### No âmbito da gestão das reclamações
 
 Divulgação da informação sobre a existência de livros e caixas de reclamações nas instituições da educação, sua importância e garantia de sigilo da informação fornecida.
 
 As petições, reclamações e sugestões enviadas pelos utentes, assim como aquelas que pela natureza possam ser tratadas localmente, são reportadas aos órgãos locais, Inspecções das DPECs, com a recomendação de investigar e propor soluções para, posteriormente, se proceder à sua monitoria até à conclusão do processo.
 
-### 7.6 Estratégia de comunicação e informação
+## 7.6 Estratégia de comunicação e informação
 
 O sucesso da implementação do PEE dependerá, em grande parte, do entendimento partilhado de todos os intervenientes sobre os objectivos, prioridades, reformas e mudanças propostas, para assegurar o seu envolvimento e mobilização na fase de implementação.
 
@@ -5608,15 +6050,15 @@ O apetrechamento do sistema administrativo até aos distritos com novas tecnolog
 
 [[START OF PAGE 133]]
 
-## 8.	 Custos da implementação
+# 8.	 Custos da implementação
 
-### 8.1 Modelo de custeamento 67
+## 8.1 Modelo de custeamento 67
 
 No contexto da elaboração do PEEC, foi desenhado um modelo de custeamento. Este modelo estima os custos da implementação do plano, ligando: (i) a evolução histórica, em termos de execução financeira, bem como, dos efectivos de alunos, professores, etc.; (ii) as projecções das mesmas para os anos seguintes; e (iii) os pressupostos em termos de metas dos indicadores de resultado e de produto, considerando os custos unitários dos diferentes programas.
 
 Este modelo de custeamento foi usado para a elaboração de um plano financeiro em linha com as prioridades e opções estratégicas reflectidas neste plano, bem como com o estado actual do sector e o tempo real necessário para que as reformas possam ter impacto num desempenho mais positivo do sector. Este plano financeiro toma em consideração as previsões macroeconómicas em termos de recursos disponíveis para os próximos anos.
 
-### 8.2 Previsões financeiras de médio-prazo
+## 8.2 Previsões financeiras de médio-prazo
 
 Foram elaborados dois cenários. O cenário 1 estima o nível de financiamento para os próximos anos, baseado nos seguintes parâmetros macroeconómicos 68  reflectidos no Cenário Fiscal de Médio Prazo (CFMP) actual:
 
@@ -5696,10 +6138,12 @@ O financiamento de um sistema em expansão requer, anualmente, mais recursos par
 
 O desenvolvimento de novas parcerias assim como o desenvolvimento económico e o potencial das indústrias emergentes poderão, a médio e longo termo, contribuir para o aumento das receitas do Estado e consequentemente, para o sector da Educação.
 
-Parâmetros Macroeconómicos | Des- -pesa 1 | Orça- mento 2 | Projecções 3
+Quadro 11: Previsões financeiras para o período 2012-2016, baseadas na execução de 2010 e no orçamento para 2011 (em milhões de MT, 2010)
+
+Parâmetros Macroeconómicos | Despesa 1 | Orçamento 2 | Projecções 3 | | | |
 --- | --- | --- | --- | --- | --- | --- | ---
-2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016
-Deflator do PIB | 12,7% | 9,5% | 7,2% | 5,6% | 5,6%
+ | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016
+Deflator do PIB | 12,7% | 9,5% | 7,2% | 5,6% | 5,6% | |
 Crescimento do PIB (em %) | 7,2% | 7,5% | 7,9% | 7,8% | 7,8% | 7,8% | 7,8%
 Câmbio MT/USD | 33 | 32 | 30 | 30 | 30 | 30 | 30
 % da despesa pública em relação ao PIB | 31,8% | 33,0% | 32,8% | 32,8% | 32,8% | 32,8% | 32,8%
@@ -5707,18 +6151,16 @@ PIB | 323.585 | 346.883 | 372.899 | 402.476 | 434.001 | 468.070 | 504.812
 Recursos públicos | 99.364 | 110.482 | 123.011 | 131.819 | 142.144 | 153.302 | 165.336
 Recursos para a educação (Cen 1) | 20.908 | 23.239 | 25.866 | 27.709 | 29.870 | 32.204 | 34.721
 % para a educação na despesa pública | 21,0% | 21,0% | 21,0% | 21,0% | 21,0% | 21,0% | 21,0%
-Fonte Interna | 16.584 | 18.347 | 20.496 | 22.493 | 25.200
-Fonte Externa | 4.324 | 4.892 | 5.371 | 5.216 | 4.670
-Percentagem da Fonte Externa | 26,1% | 26,7% | 26,2% | 23,2% | 18,5%
-Recursos para a educação (Cen 2) | 27.506 | 30.346 | 33.660 | 37.314 | 41.334
-% para a educação na despesa pública | 22,4% | 23,0% | 23,7% | 24,3% | 25,0%
-Fonte Interna | 22.135 | 25.130 | 28.990
-Fonte Externa | 5.371 | 5.216 | 4.670
-Percentagem da Fonte Externa | 20% | 17% | 14%
-Diferença entre o | MT | 1.640 | 2.637 | 3.790 | 5.110 | 6.613
-Cenário 1 e 2 | USD (30 MT/USD) | 55 | 88 | 126 | 170 | 220
-
-Quadro 11:	 Previsões financeiras para o período 2012-2016, baseadas na execução de 2010 e no orçamento para 2011 (em milhões de MT, 2010)
+Fonte Interna | 16.584 | 18.347 | 20.496 | 22.493 | 25.200 | |
+Fonte Externa | 4.324 | 4.892 | 5.371 | 5.216 | 4.670 | |
+Percentagem da Fonte Externa | 26,1% | 26,7% | 26,2% | 23,2% | 18,5% | |
+Recursos para a educação (Cen 2) | | | 27.506 | 30.346 | 33.660 | 37.314 | 41.334
+% para a educação na despesa pública | | | 22,4% | 23,0% | 23,7% | 24,3% | 25,0%
+Fonte Interna | | | 22.135 | 25.130 | 28.990 | |
+Fonte Externa | | | 5.371 | 5.216 | 4.670 | |
+Percentagem da Fonte Externa | | | 20% | 17% | 14% | |
+Diferença entre o Cenário 1 e 2 | MT | 1.640 | 2.637 | 3.790 | 5.110 | 6.613
+ | USD (30 MT/USD) | 55 | 88 | 126 | 170 | 220
 
 > 1 Fonte: REO 2010.
 
@@ -5732,32 +6174,32 @@ Quadro 11:	 Previsões financeiras para o período 2012-2016, baseadas na execu�
 
 [[START OF PAGE 135]]
 
-### 8.3 Pressupostos
+## 8.3 Pressupostos
 
 As despesas do sector da educação são determinadas principalmente pelo número de alunos no sistema, que determinam o número de professores, de escolas, salas de aula, livros, materiais didácticos necessários para garantir a prestação dos serviços educativos, através das metas estabelecidas para os indicadores de acesso e de qualidade, bem como da capacidade institucional. A definição das metas é determinada pelas prioridades e enfoques das políticas educativas.
 
-#### 8.3.1 Os efectivos
+### 8.3.1 Os efectivos
 
-Pressupostos | 2016
---- | --- | --- | --- | ---
-2010 | Cen1 | Cen2
-Admissão | 1ª classe | 6/7 anos | 70% | 85%
-Total | 175% | 125%
-Transição 5ª/6ª | 65% | 75%
-Transição 7ª/8ª | 69% | 69% | 75%
-Transição 10ª/11ª | 59% | 54% | 65%
-Eficiência interna | Taxa média de aproveitamento | EP1 | 85% | 90%
-EP2 | 87% | 89%
-ESG1 | 73% | 78%
-ESG2 | 74% | 80%
-% de graduados sobre o total de alunos (anual) | ETP-médio | 18% | 25%
-Ensino Superior (público) | 13% | 15%
-Taxa média de reprovação | EP1 | 8% | 6%
-EP2 | 6% | 6%
-ESG1 | 22% | 10%
-ESG2 | 17% | 10%
+Quadro 12: Indicadores principais com impacto directo nos efectivos no sistema (alunos e professores) 70
 
-Quadro 12:	 Indicadores principais com impacto directo nos efectivos no sistema (alunos e professores) 70
+Pressupostos | | | 2010 | 2016 | 
+--- | --- | --- | --- | --- | ---
+ | | | | Cen1 | Cen2
+Admissão | 1ª classe | 6/7 anos | 70% | 85% |
+ | | Total | 175% | 125% |
+ | Transição 5ª/6ª | | 65% | 75% |
+ | Transição 7ª/8ª | | 69% | 69% | 75%
+ | Transição 10ª/11ª | | 59% | 54% | 65%
+Eficiência interna | Taxa média de aproveitamento | EP1 | 85% | 90% |
+ | | EP2 | 87% | 89% |
+ | | ESG1 | 73% | 78% |
+ | | ESG2 | 74% | 80% |
+ | % de graduados sobre o total de alunos (anual) | ETP-médio | 18% | 25% |
+ | | Ensino Superior (público) | 13% | 15% |
+ | Taxa média de reprovação | EP1 | 8% | 6% |
+ | | EP2 | 6% | 6% |
+ | | ESG1 | 22% | 10% |
+ | | ESG2 | 17% | 10% |
 
 > 70 Fonte: Modelo de custeamento do sector da educação, MINED, versão Junho de 2012.
 
@@ -5813,40 +6255,40 @@ Institucional
 
 Custos
 
-2016
---- | --- | --- | ---
-2010 | Cen1 | Cen2
-Percentagem dos alunos absorvi- dos por diferen- tes modalidades de ensino | Público diurno | 98% | 98%
-Público nocturno | 1% | 0%
-Privado | 1% | 1%
-Comunitário | 1% | 2%
-Público diurno | 65% | 65%
-Público nocturno | 24% | 10%
-Público à dis- tância | 1% | 10%
-Privado | 3% | 5%
-Comunitário | 7% | 10%
-Público diurno | 51% | 50%
-Público nocturno | 36% | 22%
-Público à dis- tância | 0% | 10%
-Privado | 5% | 10%
-Comunitário | 8% | 8%
-Público | 38% | 65% | 60%
-Comunitário | 49% | 25% | 30%
-Privado | 13% | 10% | 10%
-Público | 72% | 68% | 71%
-Privado | 28% | 32% | 29%
-Eficiência na utilização dos professores (escolas públicas e comunitárias) | EP1 | 63 | 56
-EP2 | 35 | 56
-AEA | 15 | 30
-EP1 | 50 | 48
-EP2 | 52 | 48
-ESG1 | 64 | 55 | 50
-ESG2 | 61 | 55 | 50
-ETP básico | 35 | 30
-ETP médio | 35 | 30
-EP2 | 21 | 24
-ESG1 | 21 | 24
-ESG2 | 15 | 20
+Pressupostos | | | 2010 | 2016 | 
+--- | --- | --- | --- | --- | ---
+ | | | | Cen1 | Cen2
+Percentagem dos alunos absorvidos por diferentes modalidades de ensino | Ensino Primário | Público diurno | 98% | 98% |
+ | | Público nocturno | 1% | 0% |
+ | | Privado | 1% | 1% |
+ | | Comunitário | 1% | 2% |
+ | Ensino Secundário Geral 1 | Público diurno | 65% | 65% |
+ | | Público nocturno | 24% | 10% |
+ | | Público à distância | 1% | 10% |
+ | | Privado | 3% | 5% |
+ | | Comunitário | 7% | 10% |
+ | Ensino Secundário Geral 2 | Público diurno | 51% | 50% |
+ | | Público nocturno | 36% | 22% |
+ | | Público à distância | 0% | 10% |
+ | | Privado | 5% | 10% |
+ | | Comunitário | 8% | 8% |
+ | Ensino Técnico-Profissional | Público | 38% | 65% | 60%
+ | | Comunitário | 49% | 25% | 30%
+ | | Privado | 13% | 10% | 10%
+ | Ensino Superior | Público | 72% | 68% | 71%
+ | | Privado | 28% | 32% | 29%
+Eficiência na utilização dos professores (escolas públicas e comunitárias) | Rácio alunos/professor | EP1 | 63 | 56 |
+ | | EP2 | 35 | 56 |
+ | | AEA | 15 | 30 |
+ | Rácio alunos/turma | EP1 | 50 | 48 |
+ | | EP2 | 52 | 48 |
+ | | ESG1 | 64 | 55 | 50
+ | | ESG2 | 61 | 55 | 50
+ | | ETP básico | 35 | 30 |
+ | | ETP médio | 35 | 30 |
+ | Carga horário média semanal por professor | EP2 | 21 | 24 |
+ | | ESG1 | 21 | 24 |
+ | | ESG2 | 15 | 20 |
 
 As metas reflectidas no Quadro 12 determinam o número de alunos no sistema. Como se pode verificar no Quadro 18 (na pág. 128), para os próximos anos, em ambos os cenários, o sector continuará a crescer em todos os níveis de ensino, mas de forma menos rápida do que nos anos anteriores, com excepção do Ensino Primário do segundo grau (EP2) e dos programas de alfabetização e educação não-formal.
 
@@ -5860,6 +6302,8 @@ Comparativamente ao primeiro cenário, o segundo, prevê um crescimento mais rá
 
 As  metas  propostas  traduzem-se  em  taxas  brutas  de  escolarização  crescentes como se pode verificar no Quadro 13. Estas taxas confirmam um aumento na participação, sobretudo no Ensino Primário do 2º grau.
 
+Quadro 13: Taxas brutas de escolarização, 2010 (valores observados) e projecções por cenário
+
 Grupo Etário de referência | Níveis | 2010 | Cen1 | Cen2
 --- | --- | --- | --- | ---
 6-10 anos | EP1 | 136% | 132% | 132%
@@ -5867,15 +6311,13 @@ Grupo Etário de referência | Níveis | 2010 | Cen1 | Cen2
 13-15 anos | ESG1 | 46% | 50% | 54%
 16-17 anos | ESG2 | 19% | 25% | 30%
 16-17 anos | ETP Médio | 1% | 2% | 2%
-Número de estudantes/ 1000 habitantes | Ensino Superior | 3 (2009) | 4,4 | 5
-
-Quadro 13:	 Taxas brutas de escolarização, 2010 (valores observados) e projecções por cenário
+Número de estudantes/1000 habitantes | Ensino Superior | 3 (2009) | 4,4 | 5
 
 O crescimento ao longo dos próximos anos, em termos do número de alunos, resultará, principalmente, do aumento da eficiência interna do sistema. Anualmente, mais alunos transitam para a classe seguinte devido à redução das taxas de reprovação e de desistência. O Cenário 1 prevê uma manutenção das taxas de transição entre os diferentes níveis de ensino (com a excepção do ESG2), enquanto o Cenário 2 prevê um aumento das taxas de transição entre a 7ª e a 8ª classe, bem como entre a 10ª e a 11ª classe (veja o Quadro 12).
 
 O aumento do número de professores é influenciado pelo aumento do número de alunos, bem como pelas melhorias nos rácios de alunos por professor.
 
-#### 8.3.2 Custos unitários das acções prioritárias do sector
+### 8.3.2 Custos unitários das acções prioritárias do sector
 
 No Quadro 14 pode-se verificar as metas e os custos unitários das acções prioritárias do sector. Está previsto uma racionalização dos professores, em termos de categoria por nível de ensino.
 
@@ -5933,311 +6375,45 @@ Institucional
 
 Custos
 
-Quadro 14:	 Determinantes dos custos das intervenções principais do sector
-
-Programas principais
-
-Metas
-
-Custos unitários (em MT)
-
-Cen1
-
-Cen2
-
-Cen1
-
-Cen2
-
-2010
-
-2016
-
-2016
-
-2010
-
-2016
-
-2016
-
-Professores
-
-EP1
-
-N5
-
-8%
-
-0%
-
-N4
-
-61%
-
-70%
-
-N3
-
-31%
-
-30%
-
-EP2
-
-N5
-
-3%
-
-0%
-
-N4
-
-33%
-
-40%
-
-N3
-
-64%
-
-60%
-
-ESG1
-
-N3
-
-72%
-
-60%
-
-53%
-
-N2
-
-14%
-
-30%
-
-37%
-
-N1
-
-14%
-
-10%
-
-10%
-
-ESG2
-
-N3
-
-25%
-
-15%
-
-0%
-
-N2
-
-26%
-
-35%
-
-45%
-
-N1
-
-49%
-
-50%
-
-55%
-
-Livros e equipamento
-
-Por aluno
-
-EP1
-
-Nº de
-
-títulos
-
-33
-
-36
-
-93
-
-72
-
-EP2
-
-Nº de
-
-títulos
-
-32
-
-28
-
-271
-
-192
-
-ESG1
-
-Outros
-
-12
-
-17
-
-14
-
-ESG2
-
-Outros
-
-12
-
-17
-
-14
-
-ETP
-
-Outros
-
-18
-
-41
-
-27
-
-Financiamento das escolas (ADE)
-
-Por aluno
-
-EP
-
-106
-
-129
-
-150
-
-ESG
-
-73
-
-75
-
-90
-
-ETP
-
-405
-
-450
-
-600
-
-Bolsas
-
-Por bolsa
-
-ESG1
-
-10%
-
-20%
-
-662
-
-662
-
-ESG2
-
-10%
-
-20%
-
-860
-
-860
-
-ETP
-
-10%
-
-20%
-
-1.290
-
-1.290
-
-Lanche escolar
-
-Por lanche
-
-EP1
-
-4%
-
-5%
-
-10%
-
-12
-
-Construção (acelerada)
-
-Por sala de aula
-
-EP
-
-880
-
-1.400
-
-3.000
-
-601.977
-
-662.859
-
-662.859
-
-ESG
-
-157
-
-200
-
-400
-
-850.200
-
-901.104
-
-901.104
-
-ETP
-
-50
-
-50
-
-50
-
-1.046.400
-
-852.801
-
-852.801
+Quadro 14: Determinantes dos custos das intervenções principais do sector
+
+Programas principais | | Metas | | | Custos unitários (em MT) | | 
+--- | --- | --- | --- | --- | --- | --- | ---
+ | | 2010 | Cen1 | Cen2 | 2010 | Cen1 | Cen2
+ | | | 2016 | 2016 | | 2016 | 2016
+Professores | | | | | | |
+EP1 | N5 | 8% | 0% | | | |
+ | N4 | 61% | 70% | | | |
+ | N3 | 31% | 30% | | | |
+EP2 | N5 | 3% | 0% | | | |
+ | N4 | 33% | 40% | | | |
+ | N3 | 64% | 60% | | | |
+ESG1 | N3 | 72% | 60% | 53% | | |
+ | N2 | 14% | 30% | 37% | | |
+ | N1 | 14% | 10% | 10% | | |
+ESG2 | N3 | 25% | 15% | 0% | | |
+ | N2 | 26% | 35% | 45% | | |
+ | N1 | 49% | 50% | 55% | | |
+Livros e equipamento | | | | | Por aluno | |
+EP1 | Nº de títulos | 33 | 36 | | 93 | 72 |
+EP2 | Nº de títulos | 32 | 28 | | 271 | 192 |
+ESG1 | Outros | | | | 12 | 17 | 14
+ESG2 | Outros | | | | 12 | 17 | 14
+ETP | Outros | | | | 18 | 41 | 27
+Financiamento das escolas (ADE) | | | | | Por aluno | |
+EP | | | | | 106 | 129 | 150
+ESG | | | | | 73 | 75 | 90
+ETP | | | | | 405 | 450 | 600
+Bolsas | | | | | Por bolsa | |
+ESG1 | | | 10% | 20% | 662 | 662 |
+ESG2 | | | 10% | 20% | 860 | 860 |
+ETP | | | 10% | 20% | 1.290 | 1.290 |
+Lanche escolar | | | | | Por lanche | |
+EP1 | | 4% | 5% | 10% | 12 | |
+Construção (acelerada) | | | | | Por sala de aula | |
+EP | | 880 | 1.400 | 3.000 | 601.977 | 662.859 | 662.859
+ESG | | 157 | 200 | 400 | 850.200 | 901.104 | 901.104
+ETP | | 50 | 50 | 50 | 1.046.400 | 852.801 | 852.801
 
 124| Custos
 
@@ -6245,7 +6421,7 @@ ETP
 
 [[START OF PAGE 139]]
 
-Está previsto um aumento no financiamento directo às escolas, através do programa Apoio Directo às Escolas . O aumento para o Ensino Primário deverá incluir uma componente de apoio às crianças mais vulneráveis. No caso do Ensino Secundário e técnico-profissional, este valor compensa o baixo investimento nos livros e materiais didácticos.
+Está previsto um aumento no financiamento directo às escolas, através do programa Apoio Directo às Escolas. O aumento para o Ensino Primário deverá incluir uma componente de apoio às crianças mais vulneráveis. No caso do Ensino Secundário e técnico-profissional, este valor compensa o baixo investimento nos livros e materiais didácticos.
 
 Está igualmente previsto um aumento da meta de construção de salas de aulas, relativamente aos números actuais. A redução do custo unitário no ensino técnico está ligada ao enfoque na construção de centros comunitários, de forma descentralizada.
 
@@ -6303,31 +6479,30 @@ Institucional
 
 Custos
 
-### 8.4 Despesa prevista por programa sectorial e tipo de despesa
+## 8.4 Despesa prevista por programa sectorial e tipo de despesa
 
 O Quadro 15, apresenta o orçamento por níveis de ensino e para as principais intervenções do sector. Como se pode observar, o Ensino Primário permanece prioritário em termos de alocação de recursos, apesar de uma ligeira descida face aos outros níveis de ensino, em particular o ensino técnico-profissional.
 
-Despesa por nível de ensino | 2010 1 | 2016 | Δ Cen
+Quadro 15: Custos previstos por nível de ensino e para as principais intervenções 71 do sector (valores em milhões de MT, 2010)
+
+Despesa por nível de ensino | 2010 Valor | 2010 Em % | 2016 Cen 1 | 2016 Em % | 2016 Cen 2 | 2016 Em % | Δ Cen 1 -> 2
 --- | --- | --- | --- | --- | --- | --- | ---
-Valor | Em % | Cen 1 | Em % | Cen 2 | Em % | 1 -> 2
 Ensino (Pré-) Primário | 12.944 | 56,7% | 18.394 | 52,8% | 20.498 | 49,1% | 11,4%
 Alfabetização e Educação de Adultos | 321 | 1,4% | 393 | 1,1% | 519 | 1,2% | 32,1%
 Ensino Secundário | 4.064 | 17,8% | 7.223 | 20,7% | 9.127 | 21,9% | 26,4%
-Ensino Técnico-Profis- sional | 786 | 3,4% | 2.031 | 5,8% | 3.158 | 7,6% | 55,5%
+Ensino Técnico-Profissional | 786 | 3,4% | 2.031 | 5,8% | 3.158 | 7,6% | 55,5%
 Ensino Superior | 3.112 | 13,6% | 4.999 | 14,3% | 6.274 | 15,0% | 25,5%
-Desenvolvimento adminis- trativo e institucional | 1.611 | 7,1% | 1.796 | 5,2% | 2.169 | 5,2% | 20,7%
+Desenvolvimento administrativo e institucional | 1.611 | 7,1% | 1.796 | 5,2% | 2.169 | 5,2% | 20,7%
 Totais | 22.839 | 100,0% | 34.836 | 100% | 41.745 | 100,0% | 19,8%
-Tipo de despesa
+Tipo de despesa | | | | | | |
 Salários e remunerações | 16.232 | 71,1% | 24.999 | 71,8% | 27.990 | 67,1% | 12,0%
 Construção, reabilitação e equipamento | 1.791 | 7,8% | 1.746 | 5,0% | 3.168 | 7,6% | 81,5%
 Ensino à Distância 2 | 51 | 0,2% | 222 | 0,6% | 225 | 0,5% | 1,3%
-Prevenção HIV e SIDA/ protecção social 3 | 793 | 3,5% | 1.309 | 3,8% | 2.181 | 5,2% | 66,6%
-ADE, Financiamento insti- tucional, livros e materiais didácticos 4 | 3.856 | 16,9% | 6.412 | 18,4% | 8.023 | 19,2% | 25,1%
+Prevenção HIV e SIDA/protecção social 3 | 793 | 3,5% | 1.309 | 3,8% | 2.181 | 5,2% | 66,6%
+ADE, Financiamento institucional, livros e materiais didácticos 4 | 3.856 | 16,9% | 6.412 | 18,4% | 8.023 | 19,2% | 25,1%
 Formação de Professores (inicial) | 54 | 0,2% | 69 | 0,2% | 69 | 0,2% | 0,0%
-Desenvolvimento de re- cursos humanos e Institu- cional 5 | 62 | 0,3% | 79 | 0,2% | 89 | 0,2% | 12,7%
+Desenvolvimento de recursos humanos e Institucional 5 | 62 | 0,3% | 79 | 0,2% | 89 | 0,2% | 12,7%
 Totais | 22.839 | 100,0% | 34.836 | 100,0% | 41.745 | 100,0% | 19,8%
-
-Quadro 15:	 Custos previstos por nível de ensino e para as principais intervenções 71 do sector (valores em milhões de MT, 2010)
 
 > 71 Os valores observados e projectados são indicativos. Alguma cautela é necessária na interpretação da informação por programa, uma vez que o sistema financeiro (e-Sistafe) ainda não prevê uma orçamentação por programa para o orçamento de funcionamento (mais de 50% do orçamento) do sector.
 
@@ -6339,29 +6514,28 @@ Quadro 15:	 Custos previstos por nível de ensino e para as principais interven�
 
 Pode-se ainda verificar no Quadro 16 e no Quadro 17, que o custo por aluno aumenta em todos os níveis de ensino, com maior destaque para o ETP, enquanto o custo por aluno, no ensino à distância, diminui devido a economias de escala.
 
-2010 | 2016 | Diferenças
+Quadro 16: Custo por aluno por nível de ensino (em Meticais)
+
+Custo por aluno | | 2010 | 2016 Cen1 | 2016 Cen2 | Diferenças 2010/Cen1 | Diferenças Cen1/Cen2
 --- | --- | --- | --- | --- | --- | ---
-Custo por aluno | Cen1 | Cen2 | 2010/ Cen1 | Cen1/ Cen2
-Ensino Primário | Pré-primário | 121 | 225 | 86%
-EP1 | 1.969 | 2.484 | 2.796 | 26% | 13%
-EP2 | 3.840 | 4.064 | 4.400 | 6% | 8%
-FP | 14.793 | 21.509 | 21.509 | 45% | 0%
+Ensino Primário | Pré-primário | | 121 | 225 | | 86%
+ | EP1 | 1.969 | 2.484 | 2.796 | 26% | 13%
+ | EP2 | 3.840 | 4.064 | 4.400 | 6% | 8%
+ | FP | 14.793 | 21.509 | 21.509 | 45% | 0%
 Ensino Secundário | ESG1 | 4.097 | 5.715 | 6.735 | 39% | 18%
-ESG2 | 7.507 | 8.726 | 9.448 | 16% | 8%
-Ensino à Distância 6 | 16.427 | 6.834 | 6.880 | -58% | 1%
-Ensino Técnico-Profissional | 17.218 | 40.553 | 40.902 | 136% | 1%
-Ensino Superior 7 | 42.846 | 51.161 | 57.362 | 19% | 12%
-AEA | 542 | 494 | 494 | -9% | 0%
+ | ESG2 | 7.507 | 8.726 | 9.448 | 16% | 8%
+ | Ensino à Distância 6 | 16.427 | 6.834 | 6.880 | -58% | 1%
+Ensino Técnico-Profissional | | 17.218 | 40.553 | 40.902 | 136% | 1%
+Ensino Superior 7 | | 42.846 | 51.161 | 57.362 | 19% | 12%
+AEA | | 542 | 494 | 494 | -9% | 0%
 
-Quadro 16:	 Custo por aluno por nível de ensino (em Meticais)
+Quadro 17: Rácio do custo por aluno por níveis de ensino, por referência a custo por aluno no EP1 (Ep1 = 1)
 
-DPI | AEA | EP1 | EP2 | ESG1 | ESG2 | ETP | FP | ES
+ | | DPI | AEA | EP1 | EP2 | ESG1 | ESG2 | ETP | FP | ES
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2010 | 0,3 | 1,0 | 2,0 | 2,1 | 3,8 | 8,7 | 7,5 | 21,8
+2010 | | | 0,3 | 1,0 | 2,0 | 2,1 | 3,8 | 8,7 | 7,5 | 21,8
 2016 | Cenário 1 | 0,0 | 0,2 | 1,0 | 1,6 | 2,3 | 3,5 | 16,3 | 8,7 | 20,6
-Cenário 2 | 0,1 | 0,2 | 1,0 | 1,6 | 2,4 | 3,4 | 14,6 | 7,7 | 20,5
-
-Quadro 17:	 Rácio do custo por aluno por níveis de ensino, por referência a custo por aluno no EP1 (Ep1 = 1)
+ | Cenário 2 | 0,1 | 0,2 | 1,0 | 1,6 | 2,4 | 3,4 | 14,6 | 7,7 | 20,5
 
 Notas quadro 15 e 16:
 
@@ -6435,36 +6609,35 @@ Custos
 
 Quadro 18:	 Efectivos (alunos e professores), 2004, 2010 e projecções para 2016 (por cenário) 72
 
-2004 | 2010 | 2016 | Crescimento médio anual
+Efectivos | | 2004 | 2010 | 2016 Cen 1 | 2016 Cen 2 | Crescimento médio anual 2004/2010 | Crescimento médio anual 2010/2016 Cen1 | Crescimento médio anual 2010/2016 Cen2
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Efectivos | Cen 1 | Cen 2 | 2004/ 2010 | 2010/ 2016 Cen1 | 2010/ 2016 Cen2
-Alunos (ensinos público, privado, comunitário, turnos diurno e nocturno)
-Ensino pré- primário | Público - MINED | 0 | 43.630
-Público - MMAS | 3.750 | 4.250 | 4.786 | 4.786 | 2% | 2% | 2%
-Outros | 94.100 | 110.600 | 148.213 | 148.213 | 2% | 6% | 6%
-Totais | 97.850 | 114.850 | 152.999 | 196.629 | 2% | 6% | 11%
+Alunos (ensinos público, privado, comunitário, turnos diurno e nocturno) | | | | | | | |
+Ensino pré-primário | Público – MINED | | 0 | | 43.630 | | |
+ | Público – MMAS | 3.750 | 4.250 | 4.786 | 4.786 | 2% | 2% | 2%
+ | Outros | 94.100 | 110.600 | 148.213 | 148.213 | 2% | 6% | 6%
+ | Totais | 97.850 | 114.850 | 152.999 | 196.629 | 2% | 6% | 11%
 Ensino primário | EP1 | 3.106.556 | 4.454.358 | 4.991.330 | 4.991.330 | 5% | 2% | 2%
-EP2 | 501.447 | 897.704 | 1.386.528 | 1.386.528 | 9% | 9% | 9%
-Ensino secundário | ESG1 | 287.016 | 728.497 | 958.283 | 1.047.487 | 14% | 6% | 8%
-geral | ESG2 | 45.685 | 179.608 | 290.239 | 342.660 | 22% | 10% | 14%
-Ensino técnico- profissional | Escolas Profissionais | 978 | 4.748 | 32.058 | 54.086 | 25% | 47% | 63%
-Escolas Básicas | 26.631 | 27.893 | 0 | 0 | 1% | -100% | -100%
-Institutos Médios | 2.459 | 13.038 | 18.390 | 23.098 | 27% | 7% | 12%
+ | EP2 | 501.447 | 897.704 | 1.386.528 | 1.386.528 | 9% | 9% | 9%
+Ensino secundário geral | ESG1 | 287.016 | 728.497 | 958.283 | 1.047.487 | 14% | 6% | 8%
+ | ESG2 | 45.685 | 179.608 | 290.239 | 342.660 | 22% | 10% | 14%
+Ensino técnico-profissional | Escolas Profissionais | 978 | 4.748 | 32.058 | 54.086 | 25% | 47% | 63%
+ | Escolas Básicas | 26.631 | 27.893 | 0 | 0 | 1% | -100% | -100%
+ | Institutos Médios | 2.459 | 13.038 | 18.390 | 23.098 | 27% | 7% | 12%
 Ensino superior | Público | 15.113 | 72.636 | 80.841 | 93.510 | 25% | 2% | 5%
-Privado | 7.143 | 28.726 | 38.496 | 38.496 | 22% | 6% | 6%
-Total | 22.256 | 101.362 | 119.337 | 132.006 | 24% | 3% | 5%
+ | Privado | 7.143 | 28.726 | 38.496 | 38.496 | 22% | 6% | 6%
+ | Total | 22.256 | 101.362 | 119.337 | 132.006 | 24% | 3% | 5%
 AEA | 1º ano | 277.204 | 237.340 | 318.058 | 420.462 | -2% | 6% | 12%
-2º ano | 268.814 | 247.345 | 331.467 | 438.188 | -1% | 6% | 12%
-3º ano | 128.916 | 108.230 | 145.040 | 191.736 | -2% | 6% | 12%
-Não-formal | 0 | 6.000 | 10.000
-Professores (público, diurno)
+ | 2º ano | 268.814 | 247.345 | 331.467 | 438.188 | -1% | 6% | 12%
+ | 3º ano | 128.916 | 108.230 | 145.040 | 191.736 | -2% | 6% | 12%
+ | Não-formal | | 0 | 6.000 | 10.000 | | |
+Professores (público, diurno) | | | | | | | |
 Ensino primário | EP1 | 46.708 | 66.160 | 84.489 | 84.489 | 5% | 5% | 5%
-EP2 | 10.331 | 21.590 | 34.239 | 34.239 | 11% | 10% | 10%
+ | EP2 | 10.331 | 21.590 | 34.239 | 34.239 | 11% | 10% | 10%
 Ensino secundário geral | ESG1 | 4.359 | 10.454 | 16.053 | 20.684 | 13% | 9% | 15%
-ESG2 | 759 | 2.890 | 4.527 | 6.654 | 21% | 9% | 18%
-Ensino técnico- profissional | Escolas Profissionais | 574 | 575 | 2.475 | 3.861 | 26% | 34% | 46%
-Escolas Básicas | 941 | 0 | 0 | 7% | -100% | -100%
-Institutos Médios | 128 | 416 | 625 | 684 | 18% | 8% | 10%
+ | ESG2 | 759 | 2.890 | 4.527 | 6.654 | 21% | 9% | 18%
+Ensino técnico-profissional | Escolas Profissionais | 574 | 575 | 2.475 | 3.861 | 26% | 34% | 46%
+ | Escolas Básicas | | 941 | 0 | 0 | 7% | -100% | -100%
+ | Institutos Médios | 128 | 416 | 625 | 684 | 18% | 8% | 10%
 AEA | Total | 21.191 | 21.135 | 26.486 | 35.013 | 0% | 5% | 11%
 
 72 Fonte: Modelo de custeamento do sector da educação, versão Junho de 2012.
@@ -6475,11 +6648,11 @@ AEA | Total | 21.191 | 21.135 | 26.486 | 35.013 | 0% | 5% | 11%
 
 [[START OF PAGE 143]]
 
-## 9.	 Pressupostos, oportunidades e riscos
+# 9.	 Pressupostos, oportunidades e riscos
 
 Existem pressupostos, oportunidades e riscos, ao nível do sector, que poderão interferir para que se tenha um maior ou menor desempenho em termos da implementação deste PEE.
 
-### 9.1 Pressupostos
+## 9.1 Pressupostos
 
 Os pressupostos que se consideram válidos para os anos de execução deste PEE são:
 
@@ -6493,11 +6666,11 @@ Os pressupostos que se consideram válidos para os anos de execução deste PEE 
 
 - O  financiamento  externo  nos  níveis  dos  anos  anteriores,  canalizado  na base dos princípios da agenda da 'eficácia da ajuda externa';
 
-- O compromisso nacional e internacional para com a educação, como áreachave de combate à pobreza e factor determinante para o desenvolvimento do país;
+- O compromisso nacional e internacional para com a educação, como área-chave de combate à pobreza e factor determinante para o desenvolvimento do país;
 
 - Apoio coerente e complementar de todos os intervenientes na procura e oferta de educação: o governo, através do MINED, as autoridades locais, as famílias e as comunidades, os parceiros de cooperação nacional e internacional.
 
-### 9.2 Oportunidades
+## 9.2 Oportunidades
 
 A análise do desempenho do sector, nos últimos anos, indica a existência de pontos fortes, que criam diferentes oportunidades para os próximos anos, a saber:
 
@@ -6565,11 +6738,11 @@ Pressupostos
 
 - O reconhecimento internacional dos progressos realizados ao longo dos últimos anos e a concordância com as propostas para o futuro, resultou num aumento de financiamento externo para os próximos anos, no contexto da Parceria Global para a Educação (PGE - anteriormente a 'Iniciativa Acelerada para a Educação para Todos (FTI/EFA)).
 
-### 9.3 Riscos
+## 9.3 Riscos
 
 O PEE é ambicioso, mas realista, tomando em conta a capacidade de implementação do sector. Isto implica a definição de algumas áreas como prioritárias, em detrimento de outras, que serão abordadas de forma menos urgente e menos abrangente. Existem alguns factores que poderão influenciar negativamente a implementação deste Plano, os quais devem ser monitorados ao longo dos anos, considerando:
 
-- A pressão política e social para expandir o sistema acima da sua capacidade institucional e técnica . A escolarização primária de mais alunos, anualmente, e com menor idade, aumenta, também, a procura do ensino pósprimário. A experiência dos últimos anos mostra que nem sempre é fácil resistir à pressão social, resultando, muitas vezes, em decisões ad-hoc, em termos de abertura de escolas secundárias e técnico-profissionais, sem as condições mínimas para se garantir o seu funcionamento com qualidade;
+- A pressão política e social para expandir o sistema acima da sua capacidade institucional e técnica. A escolarização primária de mais alunos, anualmente, e com menor idade, aumenta, também, a procura do ensino pós-primário. A experiência dos últimos anos mostra que nem sempre é fácil resistir à pressão social, resultando, muitas vezes, em decisões ad-hoc, em termos de abertura de escolas secundárias e técnico-profissionais, sem as condições mínimas para se garantir o seu funcionamento com qualidade;
 
 130| Pressupostos, oportunidades e riscos
 
@@ -6577,13 +6750,13 @@ O PEE é ambicioso, mas realista, tomando em conta a capacidade de implementaç�
 
 [[START OF PAGE 145]]
 
-- A burocratização do sector público . Houve grandes progressos na área de gestão financeira e de aquisições, numa perspectiva de boa governação e combate à corrupção. Ao mesmo tempo, as reformas nesta área têm contribuído para o aumento da rigidez na aplicação dos procedimentos e, consequentemente, em atrasos no tratamento dos diferentes processos, contribuindo para riscos significativos na execução das actividades previstas;
+- A burocratização do sector público. Houve grandes progressos na área de gestão financeira e de aquisições, numa perspectiva de boa governação e combate à corrupção. Ao mesmo tempo, as reformas nesta área têm contribuído para o aumento da rigidez na aplicação dos procedimentos e, consequentemente, em atrasos no tratamento dos diferentes processos, contribuindo para riscos significativos na execução das actividades previstas;
 
-- O impacto da pandemia HIV e SIDA . Apesar dos avanços nesta área, principalmente em termos de acesso aos anti-retrovirais, ainda se observam altas taxas de prevalência (veja 5.2.4, pág. 43), o que é uma das maiores ameaças para a implementação e o sucesso deste Plano. Os professores infectados, os órfãos e os jovens constituem um grande desafio para o sector;
+- O impacto da pandemia HIV e SIDA. Apesar dos avanços nesta área, principalmente em termos de acesso aos anti-retrovirais, ainda se observam altas taxas de prevalência (veja 5.2.4, pág. 43), o que é uma das maiores ameaças para a implementação e o sucesso deste Plano. Os professores infectados, os órfãos e os jovens constituem um grande desafio para o sector;
 
-- A falta de previsibilidade sobre os recursos humanos e financeiros disponíveis para o sector . O custo deste Plano é feito com base em alguns pressupostos, como a disponibilização de fundos (quer internos, quer externos), bem como de recursos humanos, e prevê uma maior eficiência na sua utilização. Ao longo da implementação do PEE, será importante um processo contínuo de revisão dos pressupostos, para assegurar planos e orçamentos  anuais  equilibrados  em  termos  dos  objectivos  principais  a atingir e dos recursos disponíveis. No contexto da crise económica mundial surge a falta de clareza sobre as previsões de recursos de financiamento a médio-prazo;
+- A falta de previsibilidade sobre os recursos humanos e financeiros disponíveis para o sector. O custo deste Plano é feito com base em alguns pressupostos, como a disponibilização de fundos (quer internos, quer externos), bem como de recursos humanos, e prevê uma maior eficiência na sua utilização. Ao longo da implementação do PEE, será importante um processo contínuo de revisão dos pressupostos, para assegurar planos e orçamentos anuais equilibrados em termos dos objectivos principais a atingir e dos recursos disponíveis. No contexto da crise económica mundial surge a falta de clareza sobre as previsões de recursos de financiamento a médio-prazo;
 
-- A capacidade de retenção do pessoal qualificado , num contexto nacional em que a procura de pessoal com determinadas qualificações ainda está acima da sua oferta, e considerando a ainda limitada capacidade de retenção de técnicos e especialistas do sector público, o risco de mobilidade do pessoal para fora do sector é alto. Isto implica, entre outros, a necessidade do sector continuar a formar e capacitar acima das suas necessidades imediatas, seja professores ou gestores.
+- A capacidade de retenção do pessoal qualificado, num contexto nacional em que a procura de pessoal com determinadas qualificações ainda está acima da sua oferta, e considerando a ainda limitada capacidade de retenção de técnicos e especialistas do sector público, o risco de mobilidade do pessoal para fora do sector é alto. Isto implica, entre outros, a necessidade do sector continuar a formar e capacitar acima das suas necessidades imediatas, seja professores ou gestores.
 
 Resumo
 
@@ -6617,11 +6790,11 @@ Pressupostos, oportunidades e riscos |131
 
 Presupostos
 
-## Documentação
+# Documentação
 
-### Geral
+## Geral
 
-Pobreza e bem-estar em Moçambique: terceira avaliação nacional, MPD/ DNEAP, Setembro de 2010.
+Pobreza e bem-estar em Moçambique: terceira avaliação nacional, MPD/DNEAP, Setembro de 2010.
 
 Inquérito sobre Orçamento Familiar, IOF, 2008/09, INE.
 
@@ -6629,9 +6802,9 @@ Inquérito de Indicadores Múltiplos (MICs), 2008, Instituto Nacional de Estatí
 
 Pobreza Infantil e disparidades em Moçambique 2010, UNICEF, Maputo, 2011.
 
-### Análises sectoriais
+## Análises sectoriais
 
-Uma análise sobre a evolução do sector da Educação 2004-2010, MINED/ DIPLAC, Julho de 2010.
+Uma análise sobre a evolução do sector da Educação 2004-2010, MINED/DIPLAC, Julho de 2010.
 
 Relatório  de  Avaliação  do  Plano  Estratégico  para  a  Educação  e  Cultura 2006-2010/11, CESO, Julho 2011 (volumes I, IIa, b, c, III, IV e V).
 
@@ -6653,7 +6826,7 @@ Opportunities to learn & early grade reading in Cabo Delgado, relatório draft, 
 
 Education Information and Education Policy and Planning in Mozambique, Luis Crouch e.a., for USAID, May 2011.
 
-Appraisal of Mozambique's Education Sector Strategic Plan III (2012-2016), 2 nd  draft, Tuomas Takala, Zuber Ahmed, September e November, 2011.
+Appraisal of Mozambique's Education Sector Strategic Plan III (2012-2016), 2nd draft, Tuomas Takala, Zuber Ahmed, September e November, 2011.
 
 132| Documentação
 
@@ -6661,9 +6834,11 @@ Appraisal of Mozambique's Education Sector Strategic Plan III (2012-2016), 2 nd 
 
 [[START OF PAGE 147]]
 
+Presupostos
+
 'The Promise of Preschool in Africa: A Randomized Impact Evaluation of Early Childhood Development in Rural Mozambique', WB, February 2012
 
-### Políticas e estratégias nacionais
+## Políticas e estratégias nacionais
 
 Agenda 2025 - Visão e Estratégias da Nação, (2003), Maputo, Moçambique.
 
@@ -6673,7 +6848,7 @@ Plano de Acção de Combate à Pobreza Absoluta 2006-2009, Maputo, Moçambique (
 
 Plano de Acção para a Redução da Pobreza, 2011-2014, Aprovado na 15ª Sessão Ordinária do Conselho de Ministros, 3 de Maio de 2011.
 
-### Políticas / estratégias (sub) sectoriais
+## Políticas / estratégias (sub) sectoriais
 
 Lei No 6/92, Sistema Nacional de Educação, Boletim da República nº 19 (série I), 6 de Maio, 1992.
 
@@ -6683,7 +6858,7 @@ Estatuto Orgânico do Ministério da Educação, Boletim da República nº 15 (s
 
 Estratégia do Ensino Secundário Geral 2009-2015, MEC, 2009.
 
-Estratégia de Alfabetização e Educação de Adultos em Moçambique, 20102015, MINED, Fevereiro de 2011.
+Estratégia de Alfabetização e Educação de Adultos em Moçambique, 2010-2015, MINED, Fevereiro de 2011.
 
 Plano Estratégico para o Ensino Superior 2011-2020, MINED, Abril de 2012.
 
@@ -6701,7 +6876,7 @@ Plano Tecnológico da Educação - As Tecnologias de Informação e Comunicaçã
 
 Resposta do sector ao HIV e SIDA em Moçambique, Proposta para o Financiamento pela DANIDA através do Fundo Comum - FASE, MEC, Dezembro, 2009.
 
-Presupostos Presupostos Programa de Ensino Secundário à Distância, Avaliação e Estratégia, Leadership Business Consulting, 2011.
+
 
 Documentação |133
 
@@ -6709,13 +6884,17 @@ Documentação |133
 
 [[START OF PAGE 148]]
 
-### Parcerias
+Presupostos
+
+Programa de Ensino Secundário à Distância, Avaliação e Estratégia, Leadership Business Consulting, 2011.
+
+## Parcerias
 
 Termos de Referência sobre o diálogo entre o Ministério e os parceiros de cooperação, numa abordagem sectorial, MINED/PCs, Dezembro de 2006.
 
 Memorando de Entendimento do Fundo de Apoio ao Sector de Educação, MINED/PCs, Maio de 2006.
 
-### Outros documentos de referência
+## Outros documentos de referência
 
 Education and Economic Development in Africa, Kwabena Gyimah-Brempong, Department of Economics, University of South Florida, August 17, 2010.
 
@@ -6731,8 +6910,8 @@ Investment in Education: Private and Public Returns, Jim Saxon, Joint Economic C
 
 [[START OF PAGE 149]]
 
-## Anexo
-### Matriz Estratégica
+# Anexo
+## Matriz Estratégica
 
 Matriz Estratégica |135
 
@@ -6740,16 +6919,24 @@ Matriz Estratégica |135
 
 [[START OF PAGE 150]]
 
-Assegurar que todas as crianças tenham oportunidade de concluir uma educação básica de 7 classes com qualidade | Base (2011) Meta (2016) 49% (2010) 54% (2015) 45% (2010) 51% (2015) | Acção prioritária | 1. Promover a expansão do acesso a oportunidades educativas na idade pré-escolar | 2. Monitorar a implementação da estratégia para o desenvolvimento da criança na idade pré-escolar | 3. Promover o ingresso na escola na idade certa (6 ou 7 anos) | 4. Melhorar a implementação do programa de construção acelerada 5. Garantir que as escolas sejam seguras e saudáveis | 6. Elaborar estratégias para reduzir disparidades regionais, de idade e de género. | 7. Harmonizar os programas de protecção social | 8. Expandir o atendimento a crianças com NEE | 9. Continuar a produção e distribuição do livro escolar gratuito, incluin- do os do EB | 10. Elaborar e implementar o plano de acção de Leitura, Escrita e Cálculo | 11. Assegurar a expansão do Ensino Bilingue garantindo a sua quali- dade 12. Reformar a formação e capacitação de professores primários (FP) | 13. Melhorar o currículo do Ensino Primário | 14. Melhorar a monitoria e o acompanhamento do desempenho escolar dos alunos e dos professores | 15. Melhorar a gestão escolar 16. Racionalizar o uso dos recursos humanos (professores e gestores) | no Ensino Primário 17. Continuar as reformas na área de aquisições
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2016 | 84.000 | 42.000 | 83% | 82% | Leitura e matemática: por definir | 58
-2015 | 49.000 | 24.500 | 80% | 79% | Recolha de dados, área de competên- leitura e matemática (por confirmar) | cia: 59
-2014 21.000 | 10.500 | 77% | 76% | Relatório preliminar até 30/4; Relatório final até 31/10 (linha de base) | 60
-2013 0 | 0 | 74% | 73% | cia: leitura | de competên- | dados, área | de | Recolha | 61
-2012 | 73% | 71% | Banco de itens elaborado, teste dos instrumentos e itens | 62
-Base 2011 | 69,7% | 68,5% | Conceito do sistema de avaliação de competências básicas elaborado e aprovado, instrumentos pré-testados | 63
-Ensino Primário | HM | M | de escola- 6 anos na HM | M | de alunos da 3ª as competên- de leitura e cálculo Ensino Primário | alunos/professor (EP1)
-Indicador de Impacto 1 Taxa Bruta de Conclusão Total (HM) Raparigas (M) | Indicador de Resultado | especial: 1.d Número de crianças matriculadas no Ensino Pré-escolar | Assegurar que todas as ingressem no idade certa (6 1.a Taxa líquida rização aos 1ª classe | completem | Melhorar o desempenho escolar dos alunos, so- bretudo no que tange às competências de leitura, escrita, cálculo numérico e habilidades para a vida 1.b Percentagem classe que atinge cias básicas do 1º ciclo do | 1.c Rácio | eficiência e dos re- | Primário.
+Programa | Ensino (Pré) Primário
+--- | ---
+Objectivo Geral | Assegurar que todas as crianças tenham oportunidade de concluir uma educação básica de 7 classes com qualidade
+Indicador de Impacto 1 | Taxa Bruta de Conclusão Ensino Primário
+
+ | Base (2011) | Meta (2016)
+--- | --- | ---
+Total (HM) | 49% (2010) | 54% (2015)
+Raparigas (M) | 45% (2010) | 51% (2015)
+
+Objectivos Estratégicos | Indicador de Resultado | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Enfoque especial: Primeira infância | 1.d Número de crianças matriculadas no Ensino Pré-escolar | HM | | | 0 | 21.000 | 49.000 | 84.000 | 1. Promover a expansão do acesso a oportunidades educativas na idade pré-escolar<br>2. Monitorar a implementação da estratégia para o desenvolvimento da criança na idade pré-escolar
+ | | M | | | 0 | 10.500 | 24.500 | 42.000 |
+Assegurar que todas as crianças ingressem no ensino na idade certa (6 ou 7 anos) e completem a sétima classe | 1.a Taxa líquida de escolarização aos 6 anos na 1ª classe | HM | 69,7% | 73% | 74% | 77% | 80% | 83% | 3. Promover o ingresso na escola na idade certa (6 ou 7 anos)<br>4. Melhorar a implementação do programa de construção acelerada<br>5. Garantir que as escolas sejam seguras e saudáveis<br>6. Elaborar estratégias para reduzir disparidades regionais, de idade e de género.<br>7. Harmonizar os programas de protecção social<br>8. Expandir o atendimento a crianças com NEE
+ | | M | 68,5% | 71% | 73% | 76% | 79% | 82% |
+Melhorar o desempenho escolar dos alunos, sobretudo no que tange às competências de leitura, escrita, cálculo numérico e habilidades para a vida | 1.b Percentagem de alunos da 3ª classe que atinge as competências básicas de leitura e cálculo do 1º ciclo do Ensino Primário | | Conceito do sistema de avaliação de competências básicas elaborado e aprovado, instrumentos pré-testados | Banco de itens elaborado, teste dos instrumentos e itens | Recolha de dados, área de competência: leitura | Relatório preliminar até 30/4; Relatório final até 31/10 (linha de base) | Recolha de dados, área de competência: leitura e matemática (por confirmar) | Leitura e matemática: por definir | 9. Continuar a produção e distribuição do livro escolar gratuito, incluindo os do EB<br>10. Elaborar e implementar o plano de acção de Leitura, Escrita e Cálculo<br>11. Assegurar a expansão do Ensino Bilingue garantindo a sua qualidade<br>12. Reformar a formação e capacitação de professores primários (FP)<br>13. Melhorar o currículo do Ensino Primário<br>14. Melhorar a monitoria e o acompanhamento do desempenho escolar dos alunos e dos professores
+Melhorar a eficiência e eficácia do uso dos recursos disponibilizados ao Ensino Primário. | 1.c Rácio alunos/professor (EP1) | | 63 | 62 | 61 | 60 | 59 | 58 | 15. Melhorar a gestão escolar<br>16. Racionalizar o uso dos recursos humanos (professores e gestores) no Ensino Primário<br>17. Continuar as reformas na área de aquisições<br>18. Aumentar a transparência na gestão da escola
 
 136| Matriz Estratégica
 
@@ -6759,17 +6946,22 @@ Ensino (Pré) Primário
 
 [[START OF PAGE 151]]
 
-Alfabetização e Educação de Adultos Reduzir o analfabetismo, dando particular atenção às mulheres | Base (2011) Meta (2016) 48% (2008) 30% 63% (2008) 45% | Acção prioritária 1. Mobilizar e sensibilizar todos os actores sobre a importância | de ter uma população alfabetizada 2. Encorajar o aumento de oferta de vários (tipos de) programas na área | de alfabetização e educação não formal 3. Criar ambientes de leitura e uso de informação ao nível das comuni- dades para assegurar o não retorno ao analfabetismo | 4. Elaborar padrões de competências para garantir a qualidade e relevância dos programas 5. Rever e harmonizar os programas actuais oferecidos pelo Ministério da Educação na área de Alfabetização e Pós-alfabetização 6. Conceber e implementar, em parceria com outros intervenientes, acções no âmbito de Habilidades para a Vida 7. Rever e implementar o currículo de formação de educadores e alfabetizadores, considerando temas transversais 8. Reforçar a capacidade institucional e organizativa 9. Desenvolver políticas e mecanismos de articulação entre as institui- ções do Governo e seus Parceiros
---- | --- | --- | --- | --- | ---
-2016 | 70% | 1 milhão provedores harmonizados | 50% de programas de outros 100%
-2015 | 70% | 1 milhão 40% de programas de outros provedores harmonizados | 75%
-2014 | 70% | 1 milhão 30% de programas de outros provedores harmonizados | 50%
-2013 | 70% | 1 milhão Padrões desenvolvidos | 30%
-2012 | 70% | 1 milhão Não harmonizados | 0%
-Base 2011 | 315 mil | 474 mil Não harmonizados | 0%
-M | Nº de jovens e adultos que participam nos diferentes programas de alfabeti- zação HM | na 2.c % de consolidação dos dados de Educação Não Formal em relação
-Taxa de analfabetismo Total (HM) Mulheres (M) Indicador de Resultado | 2.a 2.b Nº de programas de alfabetização base de padrões estabelecidos | com os diferentes programas
-Programa Objectivo Geral | Indicador de Impacto 2 Objectivos Estratégicos Garantir o acesso e retenção dos | Alfabetizan- dos nos programas de Alfabetização e Educação de Adultos | Melhorar a qualidade e relevância dos progra- mas de Alfabetização e Educação de Adultos e Educação Não Formal | Reforçar a capacidade ins- titucional e organizativa
+Programa | Alfabetização e Educação de Adultos
+--- | ---
+Objectivo Geral | Reduzir o analfabetismo, dando particular atenção às mulheres
+Indicador de Impacto 2 | Taxa de analfabetismo
+
+ | Base (2011) | Meta (2016)
+--- | --- | ---
+Total (HM) | 48% (2008) | 30%
+Mulheres (M) | 63% (2008) | 45%
+
+Objectivos Estratégicos | Indicador de Resultado | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Garantir o acesso e retenção dos Alfabetizandos nos programas de Alfabetização e Educação de Adultos | 2.a Nº de jovens e adultos que participam nos diferentes programas de alfabetização | HM | 474 mil | 1 milhão | 1 milhão | 1 milhão | 1 milhão | 1 milhão | 1. Mobilizar e sensibilizar todos os actores sobre a importância de ter uma população alfabetizada<br>2. Encorajar o aumento de oferta de vários (tipos de) programas na área de alfabetização e educação não formal<br>3. Criar ambientes de leitura e uso de informação ao nível das comunidades para assegurar o não retorno ao analfabetismo
+ | | M | 315 mil | 70% | 70% | 70% | 70% | 70% |
+Melhorar a qualidade e relevância dos programas de Alfabetização e Educação de Adultos e Educação Não Formal | 2.b Nº de programas de alfabetização na base de padrões estabelecidos | | Não harmonizados | Não harmonizados | Padrões desenvolvidos | 30% de programas de outros provedores harmonizados | 40% de programas de outros provedores harmonizados | 50% de programas de outros provedores harmonizados | 4. Elaborar padrões de competências para garantir a qualidade e relevância dos programas<br>5. Rever e harmonizar os programas actuais oferecidos pelo Ministério da Educação na área de Alfabetização e Pós-alfabetização<br>6. Conceber e implementar, em parceria com outros intervenientes, acções no âmbito de Habilidades para a Vida<br>7. Rever e implementar o currículo de formação de educadores e alfabetizadores, considerando temas transversais
+Reforçar a capacidade institucional e organizativa | 2.c % de consolidação dos dados de Educação Não Formal em relação com os diferentes programas | | 0% | 0% | 30% | 50% | 75% | 100% | 8. Reforçar a capacidade institucional e organizativa<br>9. Desenvolver políticas e mecanismos de articulação entre as instituições do Governo e seus Parceiros<br>10. Assegurar a diversificação do financiamento
 
 Alfabetização e Educação de Adultos
 
@@ -6779,19 +6971,27 @@ Matriz Estratégica |137
 
 [[START OF PAGE 152]]
 
-Secundário Geral | Meta (2016) | 50% | 47% | Observar as metas acordadas sobre os ingressos Continuar a construção e apetrechamento das escolas | 1. 2. | secundárias, priorizando a zona rural | 3. Expandir o ensino à distância, de forma sustentável 4. | Promover a participação do sector privado e comunitário na provisão 5. Actualizar e implementar um sistema de bolsas/isenção de propinas | 6. Promover, regular e fiscalizar o autodidactismo | 7. Adoptar um currículo mais relevante e sustentável incluindo dos temas transversais | 8. Aumentar o tempo lectivo de 33 para 40 semanas | 9. Estabelecer um sistema de formação e de desenvolvimento profissio- nal contínuo de professores incluindo temas transversais | 10. Garantir o acesso ao livro escolar, materiais didácticos e a outros materiais com conteúdos de temas transversais | 11. Definir e implementar os padrões e indicadores de qualidade no ensino-aprendizagem | 12. Criar um sistema de formação e capacitação dos gestores no domínio da planificação, gestão e administração escolar | 13. Desenvolver um sistema de financiamento sustentável para o ESG, com a comparticipação das famílias e do sector privado | 14. Consolidar a reforma dos exames 15. Adequar e aplicar os instrumentos normativos do ESG
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Base (2011) 46% | 43%
-Ensino e relevância | Taxa Bruta de Escolarização Total (HM) | (M) 2016 | 49% | 26% | 55% | 59% | 57% | 115
-sua qualidade | 2015 | 47% | 24% | 53% | 57% | 55% | 115
-garantindo a | 2014 | 46% | 23% | 51% | 55% | 53% | 140
-Geral, | 2013 | 44% | 21% | 49% | 53% | 51% | 140
-Secundário | 2012 | 48% 45% | 21% | 47% | 51% | 49% | 0
-sustentável, o | Base 2011 | 46% 43% | 20% | 51% | 48% | 46% | 0
-controlada, equitativa e | no ESG1 | HM M | HM | HM | HM | M
-forma | Raparigas | 8ª classe | 11ª classe | 10ª classe | 12ª | classe | formados
-Ensino | Expandir, de | Indicador de Resultado | 3.a Taxa Bruta de Admissão | 3.b Taxa de aproveita- mento (ano n-1) | 3.c Nº de directores
-Programa | Objectivo Geral | Indicador de Impacto 3 | Objectivos Estratégicos | Expandir o acesso de forma controlada, assegu- rando o acesso equitativo dando atenção especial às raparigas e jovens com necessidades educativas especiais | Melhorar a qualidade e relevância do Ensino Secundário Geral através do desenvolvimento e implementação de um currículo profissionalizante | Melhorar a gestão escolar
+Programa | Ensino Secundário Geral
+--- | ---
+Objectivo Geral | Expandir, de forma controlada, equitativa e sustentável, o Ensino Secundário Geral, garantindo a sua qualidade e relevância
+Indicador de Impacto 3 | Taxa Bruta de Escolarização no ESG1
+
+ | Base (2011) | Meta (2016)
+--- | --- | ---
+Total (HM) | 46% | 50%
+Raparigas (M) | 43% | 47%
+
+Objectivos Estratégicos | Indicador de Resultado | | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Expandir o acesso de forma controlada, assegurando o acesso equitativo dando atenção especial às raparigas e jovens com necessidades educativas especiais | 3.a Taxa Bruta de Admissão | 8ª classe | HM | 46% | 48% | 44% | 46% | 47% | 49% | 1. Observar as metas acordadas sobre os ingressos<br>2. Continuar a construção e apetrechamento das escolas secundárias, priorizando a zona rural<br>3. Expandir o ensino à distância, de forma sustentável<br>4. Promover a participação do sector privado e comunitário na provisão<br>5. Actualizar e implementar um sistema de bolsas/isenção de propinas<br>6. Promover, regular e fiscalizar o autodidactismo
+ | | | M | 43% | 45% | | | | |
+ | | 11ª classe | HM | 20% | 21% | 21% | 23% | 24% | 26% |
+ | | | M | 18% | 19% | | | | |
+Melhorar a qualidade e relevância do Ensino Secundário Geral através do desenvolvimento e implementação de um currículo profissionalizante | 3.b Taxa de aproveitamento (ano n-1) | 10ª classe | HM | 51% | 47% | 49% | 51% | 53% | 55% | 7. Adoptar um currículo mais relevante e sustentável incluindo dos temas transversais<br>8. Aumentar o tempo lectivo de 33 para 40 semanas<br>9. Estabelecer um sistema de formação e de desenvolvimento profissional contínuo de professores incluindo temas transversais<br>10. Garantir o acesso ao livro escolar, materiais didácticos e a outros materiais com conteúdos de temas transversais<br>11. Definir e implementar os padrões e indicadores de qualidade no ensino-aprendizagem
+ | | | M | 49% | 44% | 46% | 48% | 50% | 52% |
+ | | 12ª classe | HM | 48% | 51% | 53% | 55% | 57% | 59% |
+ | | | M | 46% | 49% | 51% | 53% | 55% | 57% |
+Melhorar a gestão escolar | 3.c Nº de directores formados | | | 0 | 0 | 140 | 140 | 115 | 115 | 12. Criar um sistema de formação e capacitação dos gestores no domínio da planificação, gestão e administração escolar<br>13. Desenvolver um sistema de financiamento sustentável para o ESG, com a comparticipação das famílias e do sector privado<br>14. Consolidar a reforma dos exames<br>15. Adequar e aplicar os instrumentos normativos do ESG<br>16. Promover o conceito de escolas seguras e saudáveis
 
 138| Matriz Estratégica
 
@@ -6801,16 +7001,26 @@ Ensino Secundário Geral
 
 [[START OF PAGE 153]]
 
-Ensino Técnico-Profissional | Base (2007) Meta (2016) 27% 60% | 2016 Acção prioritária | 1. Reabilitar (ou construir) e apetrechar 29 instituições existentes do nível médio | 2. Construir / criar Escolas Profissionais, principalmente nas zonas rurais | 3. Criar 40 CCDCs a DINAEA | 4. Expandir a oferta dos cursos de curta duração, em estreita ligação e articulação com e o INEFP | 5. Racionalizar a oferta de cursos 6. Explorar as possibilidades do uso do ensino à distância | 7. Motivar a abertura de instituições privadas | 8. Aplicar um sistema de incentivos que vise um maior equilíbrio entre o género e evite a exclusão dos professores para | 9. Implementar a estratégia de recrutamento, formação e capacitação 10. Introduzir currículos baseados em padrões de competências (sistema modular - nível médio | todas as instituições) 11. Garantir recursos financeiros, humanos e materiais para garantir a qualidade | 12. Planificar e introduzir cursos de curta duração | 13. Expandir a reforma de exames para as instituições que implementam o antigo curriculum 14. Consolidar e expandir o Quadro Nacional de Qualificações Profissionais e do sistema de acredi- | tação e certificação 15. Assegurar a criação nas escolas de unidades de orientação profissional vocacional e de organi- zação de estágios Educa- | 27 16. Criar um órgão que se responsabilize pela política, regulação e garantia da qualidade da ção Profissional | 17. Atribuir maior autonomia às instituições de nível médio 18. Melhorar a gestão das escolas seguras e saudáveis | 19. Garantir uma melhor ligação com o sector produtivo, através da sua participação na gestão escolar | 20. Garantir o financiamento do ETP 21. Reforçar a produção escolar em todas as instituições
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-10.000 | 6.000 | 25.000 | 5.000 | 85% | 70% | 88% | 25
-2014 a sua formação | 2015 | 3.300 4.100 | 81% 83% | 69% 69% | 79% 85% | 22
-2013 acordo com | 2.600 | 79% | 67% | 77% | 19
-2012 trabalho de | 1.200 | 77% | 65% | 75% | 14
-Base 2011 mercado de qualificação | 7.662 | 22.364 | 13.913 | 1.000 | (previsão 2011) | 75,7% | 63,3% | 73,2% | 5
-Resultado absorvidos no do novo sistema de de sistema antigo | Escolas profissionais | Escolas Básicas | Institutos Médios | não de | Cursos | formais curta duração | Escolas | profissionais Básicas | Escolas | Instituições de nível médio | escolas que imple- de gestão
-Indicador de % de graduados Graduados Graduados | Número de jovens e | 4.a | adultos no sistema | 4.b Taxa de apro- | veitamento por cada nível e sistema de ensino | 4.c Número de mentam instrumentos de qualidade
-Programa | Objectivos Indicador de Impacto 4 | o acesso a retenção no ETP, particular às disparida- | Estratégicos Aumentar e | prestando atenção des geográficas e de | género | Garantir que os gradu- | ados do ETP tenham uma formação de qua- lidade e relevante para o mercado de trabalho formal e informal | Melhorar a gestão e coordenação do sistema, envolvendo o sector produtivo, de | forma particular
+Programa | Ensino Técnico-Profissional
+--- | ---
+Objectivo Geral | Melhorar o acesso, a relevância e a qualidade do ETP para o desenvolvimento do País
+Indicador de Impacto 4 | % de graduados absorvidos no mercado de trabalho de acordo com a sua formação
+
+ | Base (2007) | Meta (2016)
+--- | --- | ---
+Graduados do novo sistema de qualificação | 27% | 60%
+Graduados de sistema antigo | |
+
+Objectivos Estratégicos | Indicador de Resultado | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Aumentar o acesso e a retenção no ETP, prestando particular atenção às disparidades geográficas e de género | 4.a Número de jovens e adultos no sistema | Escolas profissionais | 7.662 | | | | | 10.000 | 1. Reabilitar (ou construir) e apetrechar 29 instituições existentes do nível médio<br>2. Construir / criar Escolas Profissionais, principalmente nas zonas rurais<br>3. Criar 40 CCDCs<br>4. Expandir a oferta dos cursos de curta duração, em estreita ligação e articulação com a DINAEA e o INEFP<br>5. Racionalizar a oferta de cursos<br>6. Explorar as possibilidades do uso do ensino à distância<br>7. Motivar a abertura de instituições privadas<br>8. Aplicar um sistema de incentivos que vise um maior equilíbrio entre o género e evite a exclusão
+ | | Escolas Básicas | 22.364 | | | | | 6.000 |
+ | | Institutos Médios | 13.913 | | | | | 25.000 |
+ | | Cursos não formais de curta duração | 1.000 (previsão 2011) | 1.200 | 2.600 | 3.300 | 4.100 | 5.000 |
+Garantir que os graduados do ETP tenham uma formação de qualidade e relevante para o mercado de trabalho formal e informal | 4.b Taxa de aproveitamento por cada nível e sistema de ensino | Escolas profissionais | 75,7% | 77% | 79% | 81% | 83% | 85% | 9. Implementar a estratégia de recrutamento, formação e capacitação dos professores para o ETP<br>10. Introduzir currículos baseados em padrões de competências (sistema modular – nível médio – todas as instituições)<br>11. Garantir recursos financeiros, humanos e materiais para garantir a qualidade<br>12. Planificar e introduzir cursos de curta duração<br>13. Expandir a reforma de exames para as instituições que implementam o antigo curriculum<br>14. Consolidar e expandir o Quadro Nacional de Qualificações Profissionais e do sistema de acreditação e certificação<br>15. Assegurar a criação nas escolas de unidades de orientação profissional vocacional e de organização de estágios
+ | | Escolas Básicas | 63,3% | 65% | 67% | 69% | 69% | 70% |
+ | | Instituições de nível médio | 73,2% | 75% | 77% | 79% | 85% | 88% |
+Melhorar a gestão e coordenação do sistema, envolvendo o sector produtivo, de forma particular | 4.c Número de escolas que implementam instrumentos de gestão de qualidade | | 5 | 14 | 19 | 22 | 25 | 27 | 16. Criar um órgão que se responsabilize pela política, regulação e garantia da qualidade da Educação Profissional<br>17. Atribuir maior autonomia às instituições de nível médio<br>18. Melhorar a gestão das escolas seguras e saudáveis<br>19. Garantir uma melhor ligação com o sector produtivo, através da sua participação na gestão escolar<br>20. Garantir o financiamento do ETP<br>21. Reforçar a produção escolar em todas as instituições
 
 Ensino Técnico-Profissional
 
@@ -6820,17 +7030,22 @@ Matriz Estratégica |139
 
 [[START OF PAGE 154]]
 
-Promover a participação e o acesso a um ensino superior que responde às necessidades para o desenvolvimento socioeconómico do país, garantindo a sua eficácia, equilíbrio e sustentabilidade | Acção prioritária 1. Mobilizar as IESs para a introdução do ensino à distância (EAD) | 2. Alinhar a expansão do ES com os programas de desenvolvimento do país | 3. Ampliar o volume de bolsas de estudo 4. Assegurar condições mínimas para o funcionamento com qualidade | das instituições, assegurando uma melhor eficiência interna 5. Melhorar a oferta de serviços pedagógicos | 6. Promover o uso de metodologias de aprendizagem baseadas em competências e exigências, centradas no estudante, incluindo incenti- vos para o desenvolvimento de projectos de inovação pedagógica | 7. Implementar o SNATCA e QUANQES 8. Responsabilizar as IESs pela especialização técnica e científica do seu corpo docente mediante o desenvolvimento e implementação de um plano de formação, exequível e monitorizado | 9. Assegurar que as IESs cumpram um padrão mínimo nas condições de trabalho para os seus docentes | 10. Promover uma cultura de pesquisa | 11. Melhorar a governação | 12. Assegurar a fiscalização e regulação das IESs 13. mplementar o regulamento de criação e funcionamento das IESs e o | 14. Implementar o SIES | 16. Fortalecer o IBE e garantir o funcionamento do CNAQ
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-15% (2020) | Todas
-2015 | 25% 12%
-2014
-2013
-2012
-Base 2011 | 13% (2010) | 21% | 8.5% | n.a.
-HM | M Grau de Mestre Grau de doutorado | dispo-
-Indicador de Resultado | 5.a Proporção de gradua- dos sobre inscritos | 5.b Nº de docentes da IES por gau académico | 5.c % de IES conformada com | as sições do Decreto 48/2010
-Objectivos Estratégicos | Consolidar o subsistema existente na perspectiva de melhorar a sua eficiên- cia interna | Melhorar a qualidade do processo de ensino- -aprendizagem | Reforçar a capacidade de governação, financia- mento, administração e monitoria do subsistema a todos os níveis
+Programa | Ensino Superior
+--- | ---
+Objectivo Geral | Promover a participação e o acesso a um ensino superior que responde às necessidades para o desenvolvimento socioeconómico do país, garantindo a sua eficácia, equilíbrio e sustentabilidade
+Indicador de Impacto 5 | Nº de estudantes no Ensino Superior por 1.000 habitantes
+
+ | Base (2009) | Meta (2016)
+--- | --- | ---
+Total | 3 | 5
+
+Objectivos Estratégicos | Indicador de Resultado | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Consolidar o subsistema existente na perspectiva de melhorar a sua eficiência interna | 5.a Proporção de graduados sobre inscritos | HM | 13% (2010) | | | | | 15% (2020) | 1. Mobilizar as IESs para a introdução do ensino à distância (EAD)<br>2. Alinhar a expansão do ES com os programas de desenvolvimento do país<br>3. Ampliar o volume de bolsas de estudo<br>4. Assegurar condições mínimas para o funcionamento com qualidade das instituições, assegurando uma melhor eficiência interna
+ | | M | | | | | | |
+Melhorar a qualidade do processo de ensino-aprendizagem | 5.b Nº de docentes da IES por grau académico | Grau de Mestre | 21% | | | | 25% | | 5. Melhorar a oferta de serviços pedagógicos<br>6. Promover o uso de metodologias de aprendizagem baseadas em competências e exigências, centradas no estudante, incluindo incentivos para o desenvolvimento de projectos de inovação pedagógica<br>7. Implementar o SNATCA e QUANQES<br>8. Responsabilizar as IESs pela especialização técnica e científica do seu corpo docente mediante o desenvolvimento e implementação de um plano de formação, exequível e monitorizado<br>9. Assegurar que as IESs cumpram um padrão mínimo nas condições de trabalho para os seus docentes<br>10. Promover uma cultura de pesquisa
+ | | Grau de doutorado | 8.5% | | | | 12% | |
+Reforçar a capacidade de governação, financiamento, administração e monitoria do subsistema a todos os níveis | 5.c % de IES conformada com as disposições do Decreto 48/2010 | | n.a. | | | | | Todas | 11. Melhorar a governação<br>12. Assegurar a fiscalização e regulação das IESs<br>13. Implementar o regulamento de criação e funcionamento das IESs e o regulamento de Inspecção<br>14. Implementar o SIES<br>15. Garantir o financiamento das IESs<br>16. Fortalecer o IBE e garantir o funcionamento do CNAQ
 
 140| Matriz Estratégica
 
@@ -6840,18 +7055,23 @@ Ensino Superior
 
 [[START OF PAGE 155]]
 
-Desenvolvimento Administrativo e Institucional | nos distritos, com vista a melhorar a qualidade de prestação dos serviços, em todo o país | 2016 Acção prioritária | 1 Implementar as rotinas de gestão de recursos humanos 2 Restruturar e desenvolver instrumentos para um sistema integrado de gestão de recursos humanos | 3 Elaborar e implementar um sistema de avaliação dos recursos humanos na base de competências e desempenho | 4 Incrementar as medidas de apoio social | 5 Formar e capacitar o capital humano do sector | 6 Melhorar as condições no lugar de trabalho 7 Introduzir medidas de motivação, premiação para melhor retenção | 8 Conceptualizar e institucionalizar o Sistema Nacional de Avaliação da Qualidade de Educação em Moçambique | 9 Desenvolver padrões e indicadores de qualidade 10 Desenvolver/consolidar sistemas de acreditação, qualificação e certificação | 11 Reforçar o controlo interno até ao nível dos distritos | 12 Elaborar instrumentos de acompanhamento do desempenho do aluno | 13 Consolidar a reforma de exames | 14 Integrar os assuntos transversais nos diferentes programas do sector 15 Melhorar a qualidade da informação recolhida ao nível do sector | 16 Estimular um melhor uso da informação no ciclo de POEMA 17 Encorajar uma cultura de pesquisa | 18 Elaborar e aplicar critérios de equidade e transparência na alocação dos fundos do sector | 19 Alinhar os processos de POEMA ao nível de sector com os processos nacionais e territoriais
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-particularmente | 10.000 | 50% | 500 | Por definir | - ≤ 100% | ≥ 95 | 95%
-níveis, | 2015 | 9.500 | 50% | 500 | definir | Por | 95 - ≤ 100% | ≥ | 95%
-aos vários | 2014 | 9.000 | 50% | 500 | Por definir | ≥ 95 - ≤ 100% | 80%
-educativo | 2013 | 8.500 | 40% | 500 | estabelecida (260 escolas) | base | Linha de | ≥ ano anterior | 74%
-do sistema | 2012 | 8.500 | 50% | 0 | (EP) | Padrões estabelecidos | ≥ ano anterior | 69%
-administração | Base 2011 | 9.700 | 68,5% | 0 | n.a | ≤ 90 | 69%
-e governação da | Resultado | HM | M | mo- atingem os | padrões mínimos | i. Total | ii. Fase
-a gestão | de Nº de pessoal contra- tado | Docentes | Não-docentes | Número de escolas nitoradas que | 6.c Execução or- çamental (fun- cionamento e investimento)
-Fortalecer | Indicador | 6.a | 6.b
-Programa | Objectivo Geral | Objectivos Estratégicos | Estimular o desenvolvi- mento e a gestão dos recursos humanos | Assegurar a observância de padrões e indica- dores de qualidade da | educação | Harmonizar e reforçar os processos e instru- mentos de POMA do sistema
+Programa | Desenvolvimento Administrativo e Institucional
+--- | ---
+Objectivo Geral | Fortalecer a gestão e governação da administração do sistema educativo aos vários níveis, particularmente nos distritos, com vista a melhorar a qualidade de prestação dos serviços, em todo o país
+Indicador de Impacto 6 | Índice de satisfação da população com a qualidade dos serviços educativos
+
+ | Base (2011) | Meta (2016)
+--- | --- | ---
+ | Por estabelecer (2012) | Satisfatório
+
+Objectivos Estratégicos | Indicador de Resultado | | | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Acção prioritária
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Estimular o desenvolvimento e a gestão dos recursos humanos | 6.a Nº de pessoal contratado | Docentes | HM | 9.700 | 8.500 | 8.500 | 9.000 | 9.500 | 10.000 | 1 Implementar as rotinas de gestão de recursos humanos<br>2 Restruturar e desenvolver instrumentos para um sistema integrado de gestão de recursos humanos<br>3 Elaborar e implementar um sistema de avaliação dos recursos humanos na base de competências e desempenho<br>4 Incrementar as medidas de apoio social<br>5 Formar e capacitar o capital humano do sector<br>6 Melhorar as condições no lugar de trabalho<br>7 Introduzir medidas de motivação, premiação para melhor retenção
+ | | | M | 68,5% | 50% | 40% | 50% | 50% | 50% |
+ | | Não-docentes | | 0 | 0 | 500 | 500 | 500 | 500 |
+Assegurar a observância de padrões e indicadores de qualidade da educação | 6.b Número de escolas monitoradas que atingem os padrões mínimos | | | n.a | Padrões estabelecidos (EP) | Linha de base estabelecida (260 escolas) | Por definir | Por definir | Por definir | 8 Conceptualizar e institucionalizar o Sistema Nacional de Avaliação da Qualidade de Educação em Moçambique<br>9 Desenvolver padrões e indicadores de qualidade<br>10 Desenvolver/consolidar sistemas de acreditação, qualificação e certificação<br>11 Reforçar o controlo interno até ao nível dos distritos<br>12 Elaborar instrumentos de acompanhamento do desempenho do aluno<br>13 Consolidar a reforma de exames
+Harmonizar e reforçar os processos e instrumentos de POMA do sistema | 6.c Execução orçamental (funcionamento e investimento) | i. Total | | ≤ 90 | ≥ ano anterior | ≥ ano anterior | ≥ 95 – ≤ 100% | ≥ 95 – ≤ 100% | ≥ 95 – ≤ 100% | 14 Integrar os assuntos transversais nos diferentes programas do sector<br>15 Melhorar a qualidade da informação recolhida ao nível do sector<br>16 Estimular um melhor uso da informação no ciclo de POEMA<br>17 Encorajar uma cultura de pesquisa<br>18 Elaborar e aplicar critérios de equidade e transparência na alocação dos fundos do sector<br>19 Alinhar os processos de POEMA ao nível de sector com os processos nacionais e territoriais<br>20 Melhorar a comunicação e divulgação da informação
+ | | ii. Fase | | 69% | 69% | 74% | 80% | 95% | 95% |
 
 Desenvolvimento Administrativo e Institucional
 
