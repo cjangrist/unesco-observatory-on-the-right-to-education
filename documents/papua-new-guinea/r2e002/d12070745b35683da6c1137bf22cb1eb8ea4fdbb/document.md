@@ -17,696 +17,619 @@ Certified on:    /   /20   .
 [[START OF PAGE 3]]
 
 INDEPENDENT STATE OF PAPUA NEW GUINEA.
-
 ## Constitution of the Independent State of Papua New Guinea.
-
 ### ARRANGEMENT OF SECTIONS.
-
 ### PREAMBLE
-
-### PART I - INTRODUCTORY.
-
-#### Division 1 - The Nation.
-
-- The Independent State of Papua New Guinea.
-
-- The area of Papua New Guinea.
-
-- National symbols.
-
-- National Capital District.
-
-- Provinces.
-
-- Declaration of Loyalty.
-
-- Oath of Allegiance.
-
-#### Division 2 - Interpretation.
-
-- Principles of interpretation.
-
-### PART II - THE NATIONAL LEGAL SYSTEM.
-
-#### Division 1 - The Laws of Papua New Guinea.
-
-- The laws.
-
-- Construction of written laws.
-
-#### Division 2 - Constitutional Laws.
-
-##### Subdivision A - Supreme Law.
-
-- Constitution, etc., as Supreme Law.
-
-- Organic Laws.
-
-##### Subdivision B - Constitutional Alteration and Organic Laws.
-
-- Alterations of the Constitution.
-
-- Making of alterations to the Constitution and Organic Laws.
-
-- Urgent alterations.
-
-- Indirect alterations.
-
-- 17.
-
-'Prescribed majority of votes'.
-
-##### Subdivision C - Constitutional Interpretation.
-
-- Original interpretative jurisdiction of the Supreme Court.
-
-- Special references to the Supreme Court.
-
-#### Division 3 - Adoption, Reception and Development of Certain Laws.
-
-- Underlying law and pre-Independence statutes.
+### PART I – INTRODUCTORY.
+#### Division 1 – The Nation.
+1. The Independent State of Papua New Guinea.
+2. The area of Papua New Guinea.
+3. National symbols.
+4. National Capital District.
+5. Provinces.
+6. Declaration of Loyalty.
+7. Oath of Allegiance.
+#### Division 2 – Interpretation.
+8. Principles of interpretation.
+### PART II – THE NATIONAL LEGAL SYSTEM.
+#### Division 1 – The Laws of Papua New Guinea.
+9. The laws.
+10. Construction of written laws.
+#### Division 2 – Constitutional Laws.
+##### Subdivision A – Supreme Law.
+11. Constitution, etc., as Supreme Law.
+12. Organic Laws.
+##### Subdivision B – Constitutional Alteration and Organic Laws.
+13. Alterations of the Constitution.
+14. Making of alterations to the Constitution and Organic Laws.
+15. Urgent alterations.
+16. Indirect alterations.
+17. “Prescribed majority of votes”.
+##### Subdivision C – Constitutional Interpretation.
+18. Original interpretative jurisdiction of the Supreme Court.
+19. Special references to the Supreme Court.
+#### Division 3 – Adoption, Reception and Development of Certain Laws.
+20. Underlying law and pre-Independence statutes.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- Purpose of Schedule 2.
-
-#### Division 4 - General.
-
-- Enforcement of the Constitution.
-
-- Sanctions.
-
-- Use of certain materials as aids to interpretation.
-
-### PART III - BASIC PRINCIPLES OF GOVERNMENT.
-
-#### Division 1 - National Goals and Directive Principles.
-
-- Implementation of the National Goals and Directive Principles.
-
-#### Division 2 - Leadership Code.
-
-- Application of Division 2.
-
-- Responsibilities of office.
-
-- Further provisions.
-
-- Prosecution of misconduct in office.
-
-- Other authority.
-
-- Disqualifications on dismissal.
-
-#### Division 3 - Basic Rights.
-
-##### Subdivision A - Introductory.
-
-- Right to freedom.
-
-- Other rights and freedoms, etc.
-
-- Application of Division 3.
-
-##### Subdivision B - Fundamental Rights.
-
-- Right to life.
-
-- Freedom from inhuman treatment.
-
-- Protection of the law.
-
-##### Subdivision C - Qualified Rights.
-
-- General qualifications on qualified rights.
-
-'Reasonably justifiable in a democratic society', etc.
-
-- Validity of emergency laws.
-
-- Proscribed acts.
-
-- Liberty of the person.
-
-- Freedom from forced labour.
-
-- Freedom from arbitrary search and entry.
-
-- Freedom of conscience, thought and religion.
-
-- Freedom of expression.
-
-- Freedom of assembly and association.
-
-- Freedom of employment.
-
-- Right to privacy.
-
-- Right to vote and stand for public office.
-
-- Right to freedom of information.
-
-- Right to freedom of movement.
-
-- Protection from unjust deprivation of property.
-
-- Special provision in relation to certain lands.
-
-- Equality of citizens.
-
-- Other rights and privileges of citizens.
-
-##### Subdivision D - Enforcement.
-
-- Enforcement of guaranteed rights and freedoms.
-
-- Compensation.
-
-#### Division 4 - Principles of Natural Justice.
-
-- ii -
+– ii –
+21. Purpose of Schedule 2.
+#### Division 4 – General.
+22. Enforcement of the Constitution.
+23. Sanctions.
+24. Use of certain materials as aids to interpretation.
+### PART III – BASIC PRINCIPLES OF GOVERNMENT.
+#### Division 1 – National Goals and Directive Principles.
+25. Implementation of the National Goals and Directive Principles.
+#### Division 2 – Leadership Code.
+26. Application of Division 2.
+27. Responsibilities of office.
+28. Further provisions.
+29. Prosecution of misconduct in office.
+30. Other authority.
+31. Disqualifications on dismissal.
+#### Division 3 – Basic Rights.
+##### Subdivision A – Introductory.
+32. Right to freedom.
+33. Other rights and freedoms, etc.
+34. Application of Division 3.
+##### Subdivision B – Fundamental Rights.
+35. Right to life.
+36. Freedom from inhuman treatment.
+37. Protection of the law.
+##### Subdivision C – Qualified Rights.
+38. General qualifications on qualified rights.
+39. “Reasonably justifiable in a democratic society”, etc.
+40. Validity of emergency laws.
+41. Proscribed acts.
+42. Liberty of the person.
+43. Freedom from forced labour.
+44. Freedom from arbitrary search and entry.
+45. Freedom of conscience, thought and religion.
+46. Freedom of expression.
+47. Freedom of assembly and association.
+48. Freedom of employment.
+49. Right to privacy.
+50. Right to vote and stand for public office.
+51. Right to freedom of information.
+52. Right to freedom of movement.
+53. Protection from unjust deprivation of property.
+54. Special provision in relation to certain lands.
+55. Equality of citizens.
+56. Other rights and privileges of citizens.
+##### Subdivision D – Enforcement.
+57. Enforcement of guaranteed rights and freedoms.
+58. Compensation.
+#### Division 4 – Principles of Natural Justice.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Principles of natural justice.
-
-- Development of principles.
-
-- Basic rights and freedoms.
-
-- Decisions in 'deliberate judgement'.
-
-#### Division 5 - Basic Social Obligations.
-
-- Enforcement of the Basic Social Obligations.
-
-### PART IV - CITIZENSHIP.
-
-#### Division 1 - Introductory.
-
+– iii –
+59. Principles of natural justice.
+60. Development of principles.
+61. Basic rights and freedoms.
+62. Decisions in “deliberate judgement”.
+#### Division 5 – Basic Social Obligations.
+63. Enforcement of the Basic Social Obligations.
+### PART IV – CITIZENSHIP.
+#### Division 1 – Introductory.
 64. Dual citizenship.
-
-#### Division 2 - Acquisition of Citizenship.
-
-- Automatic citizenship on Independence Day.
-
-- Citizenship by descent.
-
-- Citizenship by naturalization.
-
-- Special provisions relating to naturalization.
-
-- Application for naturalization.
-
-#### Division 3 - Loss and Regaining of Citizenship.
-
-- Automatic loss of citizenship.
-
-- Acts done under compulsion of law.
-
-- Renunciation of citizenship.
-
-- Regaining citizenship.
-
-- Loss and regaining of citizenship by certain children.
-
-#### Division 4 - Citizenship Advisory Committee.
-
-- The Committee.
-
-- Functions of the Committee.
-
-#### Division 5 - General.
-
-- Special provisions for certain persons.
-
-- Effect of adoption.
-
-- Place of birth of certain persons.
-
-'Residence'.
-
-- Certificate as to citizenship.
-
-### PART V - THE HEAD OF STATE.
-
-#### Division 1 - The Head of State.
-
-- Queen and Head of State.
-
-- Queen's successors.
-
-- Precedence.
-
-- Royal Style and Titles.
-
-#### Division 2 - Functions, etc., of the Head of State.
-
-- Functions, etc.
-
-#### Division 3 - Appointment, etc., of Governor-General.
-
-- Qualifications for appointment.
-
-- Appointment to office.
-
-- Assumption of office.
-
-- Declaration of Loyalty, etc.
-
-- Normal term of office.
-
-- Resignation.
-
-- Dismissal and removal from office.
-
-- Suspension from office.
-
-- Acting Governor-General.
-
-- iii -
+#### Division 2 – Acquisition of Citizenship.
+65. Automatic citizenship on Independence Day.
+66. Citizenship by descent.
+67. Citizenship by naturalization.
+68. Special provisions relating to naturalization.
+69. Application for naturalization.
+#### Division 3 – Loss and Regaining of Citizenship.
+70. Automatic loss of citizenship.
+71. Acts done under compulsion of law.
+72. Renunciation of citizenship.
+73. Regaining citizenship.
+74. Loss and regaining of citizenship by certain children.
+#### Division 4 – Citizenship Advisory Committee.
+75. The Committee.
+76. Functions of the Committee.
+#### Division 5 – General.
+77. Special provisions for certain persons.
+78. Effect of adoption.
+79. Place of birth of certain persons.
+80. “Residence”.
+81. Certificate as to citizenship.
+### PART V – THE HEAD OF STATE.
+#### Division 1 – The Head of State.
+82. Queen and Head of State.
+83. Queen’s successors.
+84. Precedence.
+85. Royal Style and Titles.
+#### Division 2 – Functions, etc., of the Head of State.
+86. Functions, etc.
+#### Division 3 – Appointment, etc., of Governor-General.
+87. Qualifications for appointment.
+88. Appointment to office.
+89. Assumption of office.
+90. Declaration of Loyalty, etc.
+91. Normal term of office.
+92. Resignation.
+93. Dismissal and removal from office.
+94. Suspension from office.
+95. Acting Governor-General.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- iv -
+– iv –
+96. Terms and conditions of employment.
+#### Division 4 – General.
+97. Conveyance of decisions, etc.
+98. Acts, etc., of the Head of State.
+### PART VI – THE NATIONAL GOVERNMENT.
+#### Division 1 – General Principles.
+99. Structure of Government.
+#### Division 2 – The National Parliament.
+##### Subdivision A – The Legislative Power.
+100. Exercise of the legislative power.
+##### Subdivision B – Composition of the National Parliament.
+101. Membership.
+102. Nominated members.
+103. Qualifications for and disqualifications from membership.
+“appeal”
+“statutory period allowed for appeals”
+104. Normal term of office.
+105. General elections.
+106. By-elections.
+##### Subdivision C – The Speaker and the Deputy Speaker.
+107. Offices of Speaker and Deputy Speaker.
+108. Functions of the Speaker and Deputy Speaker.
+##### Subdivision D – Powers, Privileges and Procedures.
+109. General power of law-making.
+110. Certification as to making of laws.
+111. Right to introduce bills, etc.
+112. Presiding in the Parliament.
+113. Quorum.
+114. Voting in the Parliament.
+115. Parliamentary privileges, etc.
+116. Disallowance of subordinate laws.
+117. Treaties, etc.
+“treaty”
+“treaty document”
+##### Subdivision E – The Committee System.
+118. Permanent Parliamentary Committees.
+119. Chairmen and Deputy Chairmen.
+120. Roles of Chairmen and Deputy Chairmen of Permanent Parliamentary Committees.
+121. Sessional Committees, Select Committees, etc.
+122. Arrangement of Parliamentary business in relation to Committees.
+123. Membership of Parliamentary Committees.
+##### Subdivision F – Calling, etc., of the Parliament.
+124. Calling, etc.
+##### Subdivision G – Electorates and Elections.
+125. Electorates.
+126. Elections.
+##### Subdivision H – Protection of Elections from Outside or Hidden Influence, and Strengthening of Political Parties.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- v -
+– v –
+127. Purposes of Subdivision H.
+128. “Registered political party”.
+129. Integrity of political parties.
+130. Integrity of candidates.
+“electoral expenses”
+“personal expenses”
+130A. Provisions relating to political parties.
+##### Subdivision I – General.
+[131. Repealed]
+132. The Parliamentary Service.
+133. Standing Orders.
+134. Proceedings non-justiciable.
+135. Questions as to membership, etc.
+136. Validation of Acts of the Parliament.
+#### Division 3 – Special Instances of the Legislative Power.
+137. Acts of Indemnity.
+#### Division 4 – The National Executive.
+##### Subdivision A – The National Executive and the Executive Power.
+138. Vesting of the executive power.
+139. The National Executive.
+140. Conferring of powers, etc., outside the National Executive.
+##### Subdivision B – The Ministry.
+141. Nature of the Ministry: collective responsibility.
+142. The Prime Minister.
+143. Acting Prime Minister.
+144. Other Ministers.
+145. Motions of no confidence.
+146. Resignation.
+147. Normal term of office.
+148. Functions, etc., of Ministers.
+##### Subdivision C – The National Executive Council.
+149. The National Executive Council.
+150. The Secretary to the National Executive Council.
+##### Subdivision D – The Power of Mercy.
+151. Grant of pardon, etc.
+152. Advisory Committee on the Power of Mercy.
+##### Subdivision E – General.
+153. Validity of executive acts.
+#### Division 5 – The Administration of Justice.
+##### Subdivision A – General Structure and Principles of the National Justice Administration.
+154. The National Justice Administration.
+155. The National Judicial System.
+156. The Law Officers.
+157. Independence of the National Judicial System.
+##### Subdivision B – The Judicial Power.
+158. Exercise of the judicial power.
+159. Tribunals, etc., outside the National Judicial System.
+##### Subdivision C – The Supreme Court of Justice.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- vi -
+– vi –
+160. Establishment of the Supreme Court.
+161. Composition of the Supreme Court.
+162. Jurisdiction of the Supreme Court.
+##### Subdivision D – The National Court of Justice.
+163. Establishment of the National Court.
+164. Composition of the National Court.
+165. Acting Judges.
+166. Jurisdiction of the National Court.
+167. Assistant Judges.
+##### Subdivision E – Appointment, etc., of Judges.
+168. Qualifications.
+169. Appointment, etc., of the Chief Justice.
+170. Appointment of other Judges.
+171. Seniority of Judges.
+##### Subdivision F – Inferior Courts, the Magisterial Service, etc.
+172. Establishment of other courts.
+173. Establishment of the Magisterial Service.
+174. Magistrates, etc., outside the Magisterial Service.
+175. The Chief Magistrate.
+##### Subdivision G – The Public Prosecutor and the Public Solicitor.
+176. Establishment of offices.
+177. Functions of the Public Prosecutor and the Public Solicitor.
+##### Subdivision H – Removal from Office of Senior Judicial and Legal Office-holders.
+178. Grounds of removal.
+179. Removal from office of Chief Justice.
+180. Removal from office of other Judges, etc.
+181. Constitution, etc., of tribunals.
+182. Suspension.
+##### Subdivision I – The Judicial and Legal Services Commission.
+183. Establishment of the Commission.
+##### Subdivision J – Miscellaneous.
+184. Rules of court.
+185. Lack of procedural provision.
+186. Juries and assessors.
+187. Reports by Judges.
+### PART VIA – PROVINCIAL GOVERNMENTS AND LOCAL-LEVEL GOVERNMENTS.
+187A. Provincial Governments and Local-level Governments system.
+187B. Grant of Provincial Government and Local-level Government.
+187C. Constitution, functions, etc., of Provincial Governments and Local-level Governments.
+187D. Inconsistency and justiciability of provincial laws and local-level laws.
+187E. Suspension of Provincial Governments and Local-level Governments.
+187F. Re-establishment of Provincial Governments and Local-level Governments.
+187G. Gradations of Provincial Governments and Local-level Governments.
+187H. National Economic and Fiscal Commission.
+187I. Local and village governments.
+187J. Reports on Provincial Governments and Local-level Governments.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-### PART VII - THE STATE SERVICES.
-
-#### Division 2 - The Ombudsman Commission.
-
-- vii -
+– vii –
+### PART VII – THE STATE SERVICES.
+#### Division 1 – Introductory.
+188. Establishment of the State Services.
+189. Civilian control.
+#### Division 2 – The Public Services Commission.
+190. Establishment of the Commission.
+191. Functions of the Commission.
+192. Independence of the Commission.
+193. Appointments to certain offices.
+194. “Personnel matters”.
+#### Division 3 – The State Services Generally.
+195. Organization, etc., of the State Services.
+#### Division 4 – Special Provisions in Relation to the Police Force.
+196. Control of the Police Force.
+197. Functions of the Police Force.
+198. Commissioner of Police.
+199. Other forces.
+#### Division 5 – Special Provisions in Relation to the Defence Force.
+200. Raising unauthorized forces.
+201. Control of the Defence Force.
+202. Functions of the Defence Force.
+203. Application of general law.
+204. Call-out in aid to the civil power.
+205. Active service.
+206. Visiting forces.
+#### Division 6 – Special Provisions relating to Disciplined Forces.
+207. Definition of “disciplined force”.
+208. Protection of members of disciplined forces.
+### PART VIIA – REGULATORY STATUTORY AUTHORITIES.
+208A. DECLARATION OF REGULATORY STATUTORY AUTHORITIES.
+208B. APPOINTMENTS TO CERTAIN OFFICES OF REGULATORY STATUTORY AUTHORITIES.
+### PART VIII – SUPERVISION AND CONTROL.
+#### Division 1 – Public Finances.
+##### Subdivision A – The Parliament and Finance.
+209. Parliamentary responsibility.
+210. Executive initiative.
+211. Accounting, etc., for public moneys.
+212. Revenue and expenditure without prior approval.
+##### Subdivision B – The Auditor-General.
+213. Establishment of the office of Auditor-General.
+214. Functions of the Auditor-General.
+##### Subdivision C – The Public Accounts Committee.
+215. Establishment of the Committee.
+216. Functions of the Committee.
+#### Division 1A – Salaries and Remuneration Commission.
+216A. The Salaries and Remuneration Commission.
+#### Division 2 – The Ombudsman Commission.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- The Ombudsman Commission.
-
-- Purposes of the Commission.
-
-- Functions of the Commission.
-
-- Reports by the Commission.
-
-### PART IX -CONSTITUTIONAL OFFICE-HOLDERS AND CONSTITUTIONAL INSTITUTIONS.
-
+– viii –
+217. The Ombudsman Commission.
+218. Purposes of the Commission.
+219. Functions of the Commission.
+220. Reports by the Commission.
+### PART IX – CONSTITUTIONAL OFFICE-HOLDERS AND CONSTITUTIONAL INSTITUTIONS.
 221. Definitions.
-
-'constitutional institution'
-
-'constitutional office-holder'
-
-- Other provisions relating to constitutional office-holders and constitutional institutions.
-
-- General provision for constitutional office-holders.
-
-- Special provision for constitutional institutions.
-
-- Provision of facilities, etc.
-
-### PART X - EMERGENCY POWERS.
-
-#### Division 1 - Introductory.
-
+“constitutional institution”
+“constitutional office-holder”
+222. Other provisions relating to constitutional office-holders and constitutional institutions.
+223. General provision for constitutional office-holders.
+224. Special provision for constitutional institutions.
+225. Provision of facilities, etc.
+### PART X – EMERGENCY POWERS.
+#### Division 1 – Introductory.
 226. Definitions.
-
-'declaration of a national emergency'
-
-'emergency'
-
-'Emergency Act'
-
-'Emergency Committee'
-
-'emergency law'
-
-'emergency order'
-
-'Emergency Regulation'
-
-'internment'
-
-'period of declared national emergency'
-
-#### Division 2 - Periods of Declared National Emergency.
-
-- Declaration of war.
-
-- Declaration of national emergency.
-
-- Termination of periods of declared national emergency.
-
-#### Division 3 - Emergency Measures.
-
-- Emergency Acts.
-
-- Emergency Regulations.
-
-- Emergency orders.
-
-- Content, operations, etc., of emergency laws.
-
-- Release from custody on expiry, etc., of Emergency Regulations.
-
-- Custody of members of Parliament under Emergency Regulations or in internment.
-
-- Revocation, etc., of emergency laws, etc.
-
-- Automatic termination of emergency laws, etc.
-
-- Extension of Emergency Acts.
-
-#### Division 4 - Parliamentary Supervision and Control.
-
-- Parliamentary control.
-
-- Emergency Committees.
-
-- Temporary Emergency Committees.
-
-- Functions, etc., of Emergency Committees.
-
-- Priority of emergency business in Parliament.
-
-#### Division 5 - Internment.
-
-- Laws providing for internment.
-
-- Internment.
-
-- viii -
+“declaration of a national emergency”
+“emergency”
+“Emergency Act”
+“Emergency Committee”
+“emergency law”
+“emergency order”
+“Emergency Regulation”
+“internment”
+“period of declared national emergency”
+#### Division 2 – Periods of Declared National Emergency.
+227. Declaration of war.
+228. Declaration of national emergency.
+229. Termination of periods of declared national emergency.
+#### Division 3 – Emergency Measures.
+230. Emergency Acts.
+231. Emergency Regulations.
+232. Emergency orders.
+233. Content, operations, etc., of emergency laws.
+234. Release from custody on expiry, etc., of Emergency Regulations.
+235. Custody of members of Parliament under Emergency Regulations or in internment.
+236. Revocation, etc., of emergency laws, etc.
+237. Automatic termination of emergency laws, etc.
+238. Extension of Emergency Acts.
+#### Division 4 – Parliamentary Supervision and Control.
+239. Parliamentary control.
+240. Emergency Committees.
+241. Temporary Emergency Committees.
+242. Functions, etc., of Emergency Committees.
+243. Priority of emergency business in Parliament.
+#### Division 5 – Internment.
+244. Laws providing for internment.
+245. Internment.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-#### Division 6 - Miscellaneous.
-
-- Extension of tenure of Parliament and Governor-General.
-
-### PART XI - MISCELLANEOUS.
-
-- Legal capacity of the Independent State of Papua New Guinea.
-
-- Vesting of rights and liabilities of former Government.
-
-- Declarations by certain office-holders.
-
-- Making of Declaration of Loyalty, etc.
-
-- Taking certain oaths, etc., by non-citizens.
-
-- The National Gazette.
-
-- Slavery, etc.
-
-- Filling of offices, etc.
-
-- Consultation.
-
-- Reports by public office-holders, etc.
-
-- Proof of acts of the Constituent Assembly.
-
-- Constitutional Regulations.
-
-- 259.
-
-- Independent tribunals.
-
-### PART XII - CONSTITUTIONAL REVIEW.
-
-- General Constitutional Commission.
-
-- Interim Constitutional Commission.
-
-- Subordinate commissions and committees.
-
-- Further definition, etc.
-
-### PART XIII -  IMMEDIATE AND TRANSITIONAL PROVISIONS.
-
-- Effect of Part XIII.
-
-- Dissolution of the Constituent Assembly.
-
-- Provisional laws.
-
-- Transitional laws.
-
-- First Governor-General.
-
-- First Parliament, electorates, etc.
-
-- First Ministry.
-
-- First Judges.
-
-- Oaths, affirmation, etc.
-
-- Treaties applying before Independence.
-
-- Composition of certain constitutional institutions.
-
-- Chairmanship of tribunal to review internments.
-
-### PART  XIV  -  BOUGAINVILLE  GOVERNMENT  AND  BOUGAINVILLE REFERENDUM.
-
-#### Division 1 - Preliminary.
-
-- Application of this Part.
-
-- Non-Application of Part VIA.
-
-- Interpretation.
-
-'Agreement'
-
-'Bougainville'
-
-'Bougainville Constituent Assembly'
-
-'Bougainville Constitution'
-
-'Bougainville Constitutional Commission'
-
-'Bougainville Constitutional Office-holder'
-
-'Bougainville Correctional Service'
-
-'Bougainville court'
-
-- ix -
+– ix –
+#### Division 6 – Miscellaneous.
+246. Extension of tenure of Parliament and Governor-General.
+### PART XI – MISCELLANEOUS.
+247. Legal capacity of the Independent State of Papua New Guinea.
+248. Vesting of rights and liabilities of former Government.
+249. Declarations by certain office-holders.
+250. Making of Declaration of Loyalty, etc.
+251. Taking certain oaths, etc., by non-citizens.
+252. The National Gazette.
+253. Slavery, etc.
+254. Filling of offices, etc.
+255. Consultation.
+256. Reports by public office-holders, etc.
+257. Proof of acts of the Constituent Assembly.
+258. Constitutional Regulations.
+259. Independent tribunals.
+### PART XII – CONSTITUTIONAL REVIEW.
+260. General Constitutional Commission.
+261. Interim Constitutional Commission.
+262. Subordinate commissions and committees.
+263. Further definition, etc.
+### PART XIII – IMMEDIATE AND TRANSITIONAL PROVISIONS.
+264. Effect of Part XIII.
+265. Dissolution of the Constituent Assembly.
+266. Provisional laws.
+267. Transitional laws.
+268. First Governor-General.
+269. First Parliament, electorates, etc.
+270. First Ministry.
+271. First Judges.
+272. Oaths, affirmation, etc.
+273. Treaties applying before Independence.
+274. Composition of certain constitutional institutions.
+275. Chairmanship of tribunal to review internments.
+### PART XIV – BOUGAINVILLE GOVERNMENT AND BOUGAINVILLE REFERENDUM.
+#### Division 1 – Preliminary.
+276. Application of this Part.
+277. Non-Application of Part VIA.
+278. Interpretation.
+“Agreement”
+“Bougainville”
+“Bougainville Constituent Assembly”
+“Bougainville Constitution”
+“Bougainville Constitutional Commission”
+“Bougainville Constitutional Office-holder”
+“Bougainville Correctional Service”
+“Bougainville court”
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-'Bougainville Executive'
-
-'Bougainville Government'
-
-'Bougainville Interim Provincial Government'
-
-'Bougainville law'
-
-'Bougainville Legislature'
-
-'Bougainville Police'
-
-'Bougainville Public Service'
-
-'Bougainville Referendum'
-
-'Bougainville Salaries and Remuneration Commission'
-
-'dispute resolution procedure'
-
-'fiscal self-reliance'
-
-'National law'
-
-'Referendum'
-
-'review'
-
-#### Division 2 -Arrangements for the Establishment of Bougainville Government.
-
-- Autonomous Government for Bougainville.
-
-- Bougainville Constitution.
-
-- Bougainville Constitutional Commission.
-
-- Structures of Bougainville Government to be contained in Bougainville Constitution.
-
-- Consultation with National Executive Council.
-
-- Bougainville Constituent Assembly.
-
-- Endorsement of Bougainville Constitution.
-
-- Legal Status of Bougainville Constitution.
-
-- Amendment of Bougainville Constitution.
-
-#### Division 3 -Division of Functions and Powers between National Government and Bougainville Government and transfer of functions and powers to Bougainville Government.
-
-- Division of functions and powers of government.
-
-- Functions and powers of the National Government.
-
-- Functions and powers available to the Bougainville Government.
-
-- Functions and powers of the National Government and of the Bougainville Government in relation to criminal law.
-
-- Subjects not specified in Sections 289, 290 and 291.
-
-- International Obligations, etc., of the State in respect of the powers and functions of the Bougainville Government.
-
-- Functions  and  powers  of  the  Bougainville  Government  on  establishment  and  within  12 months thereafter..
-
-- Process for transfer of functions and powers.
-
-- Relationship of National and Bougainville Laws.
-
-- Manner of implementation of transfer of functions and powers.
-
-- National Government Assets and Land.
-
-- Transfer or delegation of functions and powers.
-
-#### Division  4  -  Powers  and  Functions  of  the  Bougainville  Government  and Matters relative thereto affecting other provisions of this Constitution..
-
-##### Subdivision 1 - Preliminary..
-
-- Bougainville Constitution and Bougainville Laws to form part of the laws of Papua New Guinea.
-
-- x -
+– x –
+“Bougainville Executive”
+“Bougainville Government”
+“Bougainville Interim Provincial Government”
+“Bougainville law”
+“Bougainville Legislature”
+“Bougainville Police”
+“Bougainville Public Service”
+“Bougainville Referendum”
+“Bougainville Salaries and Remuneration Commission”
+“dispute resolution procedure”
+“fiscal self-reliance”
+“National law”
+“Referendum”
+“review”
+#### Division 2 – Arrangements for the Establishment of Bougainville Government.
+279. Autonomous Government for Bougainville.
+280. Bougainville Constitution.
+281. Bougainville Constitutional Commission.
+282. Structures of Bougainville Government to be contained in Bougainville Constitution.
+283. Consultation with National Executive Council.
+284. Bougainville Constituent Assembly.
+285. Endorsement of Bougainville Constitution.
+286. Legal Status of Bougainville Constitution.
+287. Amendment of Bougainville Constitution.
+#### Division 3 – Division of Functions and Powers between National Government and Bougainville Government and transfer of functions and powers to Bougainville Government.
+288. Division of functions and powers of government.
+289. Functions and powers of the National Government.
+290. Functions and powers available to the Bougainville Government.
+291. Functions and powers of the National Government and of the Bougainville Government in relation to criminal law.
+292. Subjects not specified in Sections 289, 290 and 291.
+293. International Obligations, etc., of the State in respect of the powers and functions of the Bougainville Government.
+294. Functions and powers of the Bougainville Government on establishment and within 12 months thereafter..
+295. Process for transfer of functions and powers.
+296. Relationship of National and Bougainville Laws.
+297. Manner of implementation of transfer of functions and powers.
+298. National Government Assets and Land.
+299. Transfer or delegation of functions and powers.
+#### Division 4 – Powers and Functions of the Bougainville Government and Matters relative thereto affecting other provisions of this Constitution..
+##### Subdivision 1 – Preliminary..
+300. Bougainville Constitution and Bougainville Laws to form part of the laws of Papua New Guinea.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
+– xi –
+301. Special references to the Supreme Court.
+##### Subdivision 2 – Code of Conduct, etc., and Leadership Code..
+302. Code of conduct, etc., and leadership code.
+##### Subdivision 3 – Rights and Freedoms..
+303. Qualifications on qualified rights.
+304. Guaranteed rights and freedoms.
+##### Subdivision 4 – Administration of Justice..
+305. Operation of National Judicial System in Bougainville.
+306. Establishment of Courts in Bougainville.
+307. Establishment of tribunals in Bougainville.
+308. Jurisdiction of Bougainville Courts.
+309. Appointment of Judges, etc.,.
+##### Subdivision 5 – Bougainville Government Services..
+310. Bougainville Government Services.
+##### Subdivision 6 – Bougainville Public Service..
+311. Bougainville Public Service..
+312. National Public Service in Bougainville.
+##### Subdivision 7 – Bougainville Police.
+313. Bougainville Police.
+314. Funding of the Bougainville Police.
+315. Police Force etc., in Bougainville..
+##### Subdivision 8 – Bougainville Correctional Service..
+316. Bougainville Correctional Service.
+317. Funding the Bougainville Correctional Service.
+318. Correctional Service of the National Government in Bougainville.
+##### Subdivision I – Bougainville Salaries and Remuneration Commission.
+319. Bougainville Salaries and Remuneration Commission.
+320. Salaries and Remuneration Commission.
+##### Subdivision J – Powers Relating to Constitutional Office-Holders.
+321. Bougainville Constitutional Office-Holders.
+##### Subdivision K – Emergency Powers.
+322. Bougainville Constitution may provide for emergencies.
+323. Declaration of National Emergencies in Bougainville.
+#### Division 5 – Fiscal Arrangements.
+324. Basic Principles of fiscal arrangements.
+325. Revenue Raising, etc., arrangements.
+326. Grants.
+327. Foreign Aid.
+328. Other Financial Powers and Accountability.
+329. Follow-up to Audit Reports.
+#### Division 6 – Intergovernment Relations and Review.
+330. Interpretation.
+“dispute”
+“dispute resolution procedure”
+“inter governmental relations”
+“Joint Supervisory Body”
+“review”
 331. Principles of InterGovernmental Relations.
-
-- xi -
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- Joint Supervisory Body.
-
-- Dispute Resolution Procedure.
-
-- Mediation and Arbitration.
-
-- Dispute Resolution in the Courts.
-
-- Panel of Persons with Appropriate Expertise.
-
-- Reviews.
-
-#### Division 7 - Bougainville Referendum.
-
-- Referendum to be held.
-
-- The Question or Questions to be put.
-
-- Manner of Conducting Referendum.
-
-- Referendum to be free and fair.
-
-- Referendum Results and Implementation.
-
-- Resolution of Differences on Referendum.
-
-#### Division 8 - Immunity from Prosecution.
-
-- Immunity from Prosecution.
-
-#### Division 9 - Miscellaneous.
-
-- Requirement for Amendment of this Part; etc.
-
-- Prescribed Majority of Votes Required for this Part, etc.,.
-
-- Organic Laws.
-
-- Transitional Provisions.
-
-- Constitutional Regulations.
-
-### SCHEDULE 1 - RULES FOR SHORTENING AND INTERPRETATION OF THE CONSTITUTIONAL LAWS.
-
-### SCHEDULE 2 - ADOPTION, ETC., OF CERTAIN LAWS.
-### SCHEDULE 3 - DECLARATION OF OFFICE.
-### SCHEDULE 4 - JUDICIAL DECLARATION.
-### SCHEDULE 5 - ADOPTED LAWS OF OTHER COUNTRIES.
-
-### SCHEDULE 6 - .
-
-- xii -
+– xii –
+332. Joint Supervisory Body.
+333. Dispute Resolution Procedure.
+334. Mediation and Arbitration.
+335. Dispute Resolution in the Courts.
+336. Panel of Persons with Appropriate Expertise.
+337. Reviews.
+#### Division 7 – Bougainville Referendum.
+338. Referendum to be held.
+339. The Question or Questions to be put.
+340. Manner of Conducting Referendum.
+341. Referendum to be free and fair.
+342. Referendum Results and Implementation.
+343. Resolution of Differences on Referendum.
+#### Division 8 – Immunity from Prosecution.
+344. Immunity from Prosecution.
+#### Division 9 – Miscellaneous.
+345. Requirement for Amendment of this Part; etc.
+346. Prescribed Majority of Votes Required for this Part, etc.,.
+347. Organic Laws.
+348. Transitional Provisions.
+349. Constitutional Regulations.
+### SCHEDULE 1 – RULES FOR SHORTENING AND INTERPRETATION OF THE CONSTITUTIONAL LAWS.
+### SCHEDULE 2 – ADOPTION, ETC., OF CERTAIN LAWS.
+### SCHEDULE 3 – DECLARATION OF OFFICE.
+### SCHEDULE 4 – JUDICIAL DECLARATION.
+### SCHEDULE 5 – ADOPTED LAWS OF OTHER COUNTRIES.
+### SCHEDULE 6 – .
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-### Preamble
-
 INDEPENDENT STATE OF PAPUA NEW GUINEA.
-
 ## Constitution of the Independent State of Papua New Guinea,
-
+### Preamble
 #### Adoption of Constitution.
-
-WE, THE PEOPLE OF PAPUA NEW GUINEA-
-
+WE, THE PEOPLE OF PAPUA NEW GUINEA–
 ·united in one nation
-
-·pay  homage to  the  memory  of  our  ancestors-the  source  of  our  strength  and origin of our combined heritage
-
-·acknowledge  the  worthy  customs  and  traditional  wisdoms  of  our  peoplewhich have come down to us from generation to generation
-
-·pledge  ourselves  to  guard  and  pass  on  to  those  who  come  after  us  our  noble traditions and the Christian principles that are ours now.
-
+·pay homage to the memory of our ancestors—the source of our strength and origin of our combined heritage
+·acknowledge the worthy customs and traditional wisdoms of our people—which have come down to us from generation to generation
+·pledge ourselves to guard and pass on to those who come after us our noble traditions and the Christian principles that are ours now.
 By authority of our inherent right as ancient, free and independent peoples
-
 WE, THE PEOPLE, do now establish this sovereign nation and declare ourselves, under the guiding hand of God, to be the Independent State of Papua New Guinea.
-
 AND WE ASSERT, by virtue of that authority
-
-·that  all  power  belongs  to  the  people-acting  through  their  duly  elected representatives
-
-·that  respect  for  the  dignity  of  the  individual  and  community  interdependence are basic principles of our society
-
+·that all power belongs to the people—acting through their duly elected representatives
+·that respect for the dignity of the individual and community interdependence are basic principles of our society
 ·that we guard with our lives our national identity, integrity and self respect
-
 ·that we reject violence and seek consensus as a means of solving our common problems
-
 ·that our national wealth, won by honest, hard work be equitably shared by all
 
 [[END OF PAGE 15]]
@@ -714,480 +637,267 @@ AND WE ASSERT, by virtue of that authority
 [[START OF PAGE 16]]
 
 Preamble
-
-Constitution of the Independent State of Papua New G 9999
-
+Constitution of the Independent State of Papua New Guinea
+– 2 –
 WE DO NOW THEREFORE DECLARE
-
-that  we,  having  resolved  to  enact  a  Constitution  for  the  Independent  State  of Papua New Guinea
-
+that we, having resolved to enact a Constitution for the Independent State of Papua New Guinea
 AND ACTING through our Constituent Assembly on 15 August 1975
-
 HEREBY ESTABLISH, ADOPT and GIVE TO OURSELVES this Constitution to come into effect on Independence Day, that is 16 September 1975.
-
-IN  SO  DOING  WE,  THE  PEOPLE  OF  PAPUA  NEW  GUINEA,  SET  BEFORE OURSELVES THESE NATIONAL GOALS AND DIRECTIVE PRINCIPLES THAT UNDERLIE OUR CONSTITUTION:-
-
+IN SO DOING WE, THE PEOPLE OF PAPUA NEW GUINEA, SET BEFORE OURSELVES THESE NATIONAL GOALS AND DIRECTIVE PRINCIPLES THAT UNDERLIE OUR CONSTITUTION:–
 #### National Goals and Directive Principles.
-
-WE HEREBY PROCLAIM the following  aims  as  our  National  Goals,  and  direct  all persons  and  bodies,  corporate  and  unincorporate,  to  be  guided  by  these  our  declared Directives in pursuing and achieving our aims:-
-
+WE HEREBY PROCLAIM the following aims as our National Goals, and direct all persons and bodies, corporate and unincorporate, to be guided by these our declared Directives in pursuing and achieving our aims:–
 ##### 1. Integral human development.
-
-We declare our first goal to be for every person to be dynamically involved in the process of freeing himself or herself from every form of domination or oppression so that  each man or woman will have the opportunity to develop as a whole person in relationship with others.
-
-WE ACCORDINGLY CALL FOR-
-
-( 1 ) everyone  to  be  involved  in  our  endeavours  to  achieve  integral  human development of the whole person for every person and to seek fulfilment through his or her contribution to the common good; and
-
-( 2 ) education  to  be  based  on  mutual  respect  and  dialogue,  and  to  promote awareness of our human potential and motivation to achieve our National Goals through self-reliant effort; and
-
-( 3 ) all  forms  of  beneficial  creativity,  including  sciences  and  cultures,  to  be actively encouraged; and
-
-( 4 ) improvement in the level of nutrition and the standard of public health to enable our people to attain self fulfilment; and
-
-( 5 ) the family unit to be recognized as the fundamental basis of our society, and for every step to be taken to promote the moral, cultural, economic and social standing of the Melanesian family; and
-
-( 6 ) development  to  take  place  primarily  through  the  use  of  Papua  New Guinean forms of social and political organization.
-
+We declare our first goal to be for every person to be dynamically involved in the process of freeing himself or herself from every form of domination or oppression so that each man or woman will have the opportunity to develop as a whole person in relationship with others.
+WE ACCORDINGLY CALL FOR–
+(1) everyone to be involved in our endeavours to achieve integral human development of the whole person for every person and to seek fulfilment through his or her contribution to the common good; and
+(2) education to be based on mutual respect and dialogue, and to promote awareness of our human potential and motivation to achieve our National Goals through self-reliant effort; and
+(3) all forms of beneficial creativity, including sciences and cultures, to be actively encouraged; and
+(4) improvement in the level of nutrition and the standard of public health to enable our people to attain self fulfilment; and
+(5) the family unit to be recognized as the fundamental basis of our society, and for every step to be taken to promote the moral, cultural, economic and social standing of the Melanesian family; and
+(6) development to take place primarily through the use of Papua New Guinean forms of social and political organization.
 ##### 2. Equality and participation
-
 We declare our second goal to be for all citizens to have an equal opportunity to participate in, and benefit from, the development of our country.
-
-WE ACCORDINGLY CALL FOR-
-
-( 1 ) an  equal  opportunity  for  every  citizen  to  take  part  in  the  political, economic, social, religious and cultural life of the country; and
-
-- 2 -
+WE ACCORDINGLY CALL FOR–
+(1) an equal opportunity for every citizen to take part in the political, economic, social, religious and cultural life of the country; and
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-Constitution of the Independent State of Papua New G 9999
-
+Constitution of the Independent State of Papua New Guinea
 Preamble
-
-( 2 ) the creation of political  structures that  will enable effective, meaningful participation by our people in that life, and in view of the rich cultural and ethnic diversity of our people for those structures to provide for substantial decentralization of all forms of government activity; and
-
-( 3 ) every  effort  to  be  made  to  achieve  an  equitable  distribution  of  incomes and other benefits of development among individuals and throughout the various parts of the country; and
-
-( 4 ) equalization of services in all parts of the country, and for every citizen to have equal access to legal processes and all services, governmental and otherwise, that are required for the fulfilment of his or her real needs and aspirations; and
-
-( 5 ) equal  participation  by  women  citizens  in  all  political,  economic,  social and religious activities; and
-
-( 6 ) the maximization of the number of citizens participating in every aspect of development; and
-
-( 7 ) active steps to be taken to facilitate the organization and legal recognition of all groups engaging in development activities; and
-
-( 8 ) means to be provided to ensure that any citizen can exercise his personal creativity and enterprise in pursuit of fulfilment that is consistent with the common  good,  and  for  no  citizen  to  be  deprived  of  this  opportunity because of the predominant position of another; and
-
-( 9 ) every  citizen  to  be  able  to  participate,  either  directly  or  through  a representative, in the consideration of any matter affecting his interests or the interests of his community; and
-
-( 10 ) all persons and governmental bodies of Papua New Guinea to ensure that, as far as possible, political and official bodies are so composed as to be broadly representative of citizens from the various areas of the country; and
-
-( 11 ) all  persons  and  governmental  bodies  to  endeavour  to  achieve  universal literacy in Pisin , Hiri Motu or English, and in ' tok ples ' or ' ita eda tano gado '; and
-
-( 12 ) recognition of the principles that a complete relationship in marriage rests on  equality  of  rights  and  duties  of  the  partners,  and  that  responsible parenthood is based on that equality.
-
+– 3 –
+(2) the creation of political structures that will enable effective, meaningful participation by our people in that life, and in view of the rich cultural and ethnic diversity of our people for those structures to provide for substantial decentralization of all forms of government activity; and
+(3) every effort to be made to achieve an equitable distribution of incomes and other benefits of development among individuals and throughout the various parts of the country; and
+(4) equalization of services in all parts of the country, and for every citizen to have equal access to legal processes and all services, governmental and otherwise, that are required for the fulfilment of his or her real needs and aspirations; and
+(5) equal participation by women citizens in all political, economic, social and religious activities; and
+(6) the maximization of the number of citizens participating in every aspect of development; and
+(7) active steps to be taken to facilitate the organization and legal recognition of all groups engaging in development activities; and
+(8) means to be provided to ensure that any citizen can exercise his personal creativity and enterprise in pursuit of fulfilment that is consistent with the common good, and for no citizen to be deprived of this opportunity because of the predominant position of another; and
+(9) every citizen to be able to participate, either directly or through a representative, in the consideration of any matter affecting his interests or the interests of his community; and
+(10) all persons and governmental bodies of Papua New Guinea to ensure that, as far as possible, political and official bodies are so composed as to be broadly representative of citizens from the various areas of the country; and
+(11) all persons and governmental bodies to endeavour to achieve universal literacy in Pisin, Hiri Motu or English, and in “tok ples” or “ita eda tano gado”; and
+(12) recognition of the principles that a complete relationship in marriage rests on equality of rights and duties of the partners, and that responsible parenthood is based on that equality.
 ##### 3. National sovereignty and self-reliance
-
 We declare our third goal to be for Papua New Guinea to be politically and economically independent, and our economy basically self-reliant.
-
-WE ACCORDINGLY CALL FOR-
-
-( 1 ) our  leaders  to  be  committed  to  these  National  Goals  and  Directive Principles, to ensure that their freedom to make decisions is not restricted by  obligations  to  or  relationship  with  others,  and  to  make  all  of  their decisions in the national interest; and
-
-( 2 ) all governmental bodies to base their planning for political, economic and social development on these Goals and Principles; and
-
-( 3 ) internal  interdependence  and  solidarity  among  citizens,  and  between provinces, to be actively promoted; and
-
-- 3 -
+WE ACCORDINGLY CALL FOR–
+(1) our leaders to be committed to these National Goals and Directive Principles, to ensure that their freedom to make decisions is not restricted by obligations to or relationship with others, and to make all of their decisions in the national interest; and
+(2) all governmental bodies to base their planning for political, economic and social development on these Goals and Principles; and
+(3) internal interdependence and solidarity among citizens, and between provinces, to be actively promoted; and
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 Preamble
-
-Constitution of the Independent State of Papua New G 9999
-
-( 4 ) citizens and governmental bodies to have control of the bulk of economic enterprise and production; and
-
-( 5 ) strict control of foreign investment capital and wise assessment of foreign ideas and values so that these will be subordinate to the goal of national sovereignty  and  self-reliance,  and in  particular for  the  entry  of  foreign capital  to  be  geared  to  internal  social  and  economic  policies  and  to  the integrity of the Nation and the People; and
-
-( 6 ) the State to take effective measures to control and actively participate in the  national  economy,  and in  particular to  control  major  enterprises engaged in the exploitation of natural resources; and
-
-( 7 ) economic  development  to  take  place  primarily  by  the  use  of  skills  and resources available in the country either from citizens or the State and not in dependence on imported skills and resources; and
-
-( 8 ) the constant recognition of our sovereignty, which must not be undermined  by  dependence  on  foreign  assistance  of  any  sort,  and in particular for no investment, military or foreign-aid agreement  or understanding to be entered into that imperils our self-reliance and selfrespect,  or  our  commitment  to  these  National  Goals  and  Directive Principles, or that may lead to substantial dependence upon or influence by any country, investor, lender or donor.
-
+Constitution of the Independent State of Papua New Guinea
+– 4 –
+(4) citizens and governmental bodies to have control of the bulk of economic enterprise and production; and
+(5) strict control of foreign investment capital and wise assessment of foreign ideas and values so that these will be subordinate to the goal of national sovereignty and self-reliance, and in particular for the entry of foreign capital to be geared to internal social and economic policies and to the integrity of the Nation and the People; and
+(6) the State to take effective measures to control and actively participate in the national economy, and in particular to control major enterprises engaged in the exploitation of natural resources; and
+(7) economic development to take place primarily by the use of skills and resources available in the country either from citizens or the State and not in dependence on imported skills and resources; and
+(8) the constant recognition of our sovereignty, which must not be undermined by dependence on foreign assistance of any sort, and in particular for no investment, military or foreign-aid agreement or understanding to be entered into that imperils our self-reliance and self-respect, or our commitment to these National Goals and Directive Principles, or that may lead to substantial dependence upon or influence by any country, investor, lender or donor.
 ##### 4. Natural resources and environment
-
-We declare our fourth goal to be for Papua New Guinea's natural resources and environment to be conserved and used for the collective benefit of us all, and be replenished for the benefit of future generations.
-
-WE ACCORDINGLY CALL FOR-
-
-( 1 ) wise use to be made of our natural resources and the environment in and on  the  land  or  seabed,  in  the  sea,  under  the  land,  and  in  the  air,  in  the interests of our development and in trust for future generations; and
-
-( 2 ) the  conservation  and  replenishment,  for  the  benefit  of  ourselves  and posterity, of the  environment  and  its  sacred,  scenic,  and  historical qualities; and
-
-( 3 ) all necessary steps to be taken to give adequate protection to our valued birds, animals, fish, insects, plants and trees.
-
+We declare our fourth goal to be for Papua New Guinea’s natural resources and environment to be conserved and used for the collective benefit of us all, and be replenished for the benefit of future generations.
+WE ACCORDINGLY CALL FOR–
+(1) wise use to be made of our natural resources and the environment in and on the land or seabed, in the sea, under the land, and in the air, in the interests of our development and in trust for future generations; and
+(2) the conservation and replenishment, for the benefit of ourselves and posterity, of the environment and its sacred, scenic, and historical qualities; and
+(3) all necessary steps to be taken to give adequate protection to our valued birds, animals, fish, insects, plants and trees.
 ##### 5. Papua New Guinean ways
-
 We declare our fifth goal to be to achieve development primarily through the use of Papua New Guinean forms of social, political and economic organization.
-
-WE ACCORDINGLY CALL FOR-
-
-( 1 ) a  fundamental  re-orientation  of  our  attitudes  and  the  institutions  of government,  commerce,  education  and  religion  towards  Papua  New Guinean  forms  of  participation,  consultation,  and  consensus,  and  a continuous renewal of the responsiveness of these institutions to the needs and attitudes of the People; and
-
-( 2 ) particular emphasis in our economic development to be placed on smallscale artisan, service and business activity; and
-
-- 4 -
+WE ACCORDINGLY CALL FOR–
+(1) a fundamental re-orientation of our attitudes and the institutions of government, commerce, education and religion towards Papua New Guinean forms of participation, consultation, and consensus, and a continuous renewal of the responsiveness of these institutions to the needs and attitudes of the People; and
+(2) particular emphasis in our economic development to be placed on small-scale artisan, service and business activity; and
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-Constitution of the Independent State of Papua New G 9999
-
+Constitution of the Independent State of Papua New Guinea
 Preamble
-
-( 3 ) recognition  that  the  cultural,  commercial  and  ethnic  diversity  of  our people is  a  positive  strength,  and  for  the  fostering  of  a  respect  for,  and appreciation of, traditional ways of life and culture, including language, in all their richness and variety, as well as for a willingness to apply these ways dynamically and creatively for the tasks of development; and
-
-( 4 ) traditional  villages  and  communities  to  remain  as  viable  units  of  Papua New Guinean society, and for active steps to be taken to improve their cultural, social, economic and ethical quality.
-
+– 5 –
+(3) recognition that the cultural, commercial and ethnic diversity of our people is a positive strength, and for the fostering of a respect for, and appreciation of, traditional ways of life and culture, including language, in all their richness and variety, as well as for a willingness to apply these ways dynamically and creatively for the tasks of development; and
+(4) traditional villages and communities to remain as viable units of Papua New Guinean society, and for active steps to be taken to improve their cultural, social, economic and ethical quality.
 #### Basic Rights.
-
-WE HEREBY ACKNOWLEDGE that, subject to  any  restrictions  imposed  by  law  on non-citizens,  all  persons  in  our  country  are  entitled  to  the  fundamental  rights  and freedoms of the individual, that is to say, the right, whatever their race, tribe, places of origin,  political  opinion,  colour,  creed  or  sex,  but  subject  to  respect  for  the  rights  and freedoms of others and for the legitimate public interest, to each of the following:-
-
-( a ) life, liberty, security of the person and the protection of the law; and
-
-( b ) the right to take part in political activities; and
-
-( c ) freedom from inhuman treatment and forced labour; and
-
-( d ) freedom of conscience, of expression, of information and of assembly and association; and
-
-( e ) freedom of employment and freedom of movement; and
-
-( f ) protection  for  the  privacy  of  their  homes  and  other  property  and  from unjust deprivation of property,
-
-and  have  accordingly  included  in  this  Constitution  provisions  designed  to  afford protection to those rights and freedoms, subject to such limitations on that protection as are contained in those provisions, being limitations primarily designed to ensure that the enjoyment of the acknowledged rights and freedoms by an individual does not prejudice the rights and freedoms of others or the legitimate public interest.
-
+WE HEREBY ACKNOWLEDGE that, subject to any restrictions imposed by law on non-citizens, all persons in our country are entitled to the fundamental rights and freedoms of the individual, that is to say, the right, whatever their race, tribe, places of origin, political opinion, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the legitimate public interest, to each of the following:–
+(a) life, liberty, security of the person and the protection of the law; and
+(b) the right to take part in political activities; and
+(c) freedom from inhuman treatment and forced labour; and
+(d) freedom of conscience, of expression, of information and of assembly and association; and
+(e) freedom of employment and freedom of movement; and
+(f) protection for the privacy of their homes and other property and from unjust deprivation of property,
+and have accordingly included in this Constitution provisions designed to afford protection to those rights and freedoms, subject to such limitations on that protection as are contained in those provisions, being limitations primarily designed to ensure that the enjoyment of the acknowledged rights and freedoms by an individual does not prejudice the rights and freedoms of others or the legitimate public interest.
 #### Basic Social Obligations.
-
-WE  HEREBY  DECLARE  that  all  persons  in  our  country  have  the  following  basic obligations to themselves and their descendants, to each other, and to the Nation:-
-
-( a ) to respect, and to act in the spirit of, this Constitution; and
-
-( b ) to  recognize  that  they  can  fully  develop  their  capabilities  and  advance their true interests only by active participation in the development of the national community as a whole; and
-
-( c ) to exercise the rights guaranteed or conferred by this Constitution, and to use the opportunities made available to them under it to participate fully in the government of the Nation; and
-
-( d ) to  protect  Papua  New  Guinea  and  to  safeguard  the  national  wealth, resources  and  environment  in  the  interests  not  only  of  the  present generation but also of future generations; and
-
-( e ) to  work  according  to  their  talents  in  socially  useful  employment,  and  if necessary  to  create  for  themselves  legitimate  opportunities  for  such employment; and
-
-( f ) to respect the rights and freedoms of others, and to co-operate fully with others in the interests of interdependence and solidarity; and
-
-- 5 -
+WE HEREBY DECLARE that all persons in our country have the following basic obligations to themselves and their descendants, to each other, and to the Nation:–
+(a) to respect, and to act in the spirit of, this Constitution; and
+(b) to recognize that they can fully develop their capabilities and advance their true interests only by active participation in the development of the national community as a whole; and
+(c) to exercise the rights guaranteed or conferred by this Constitution, and to use the opportunities made available to them under it to participate fully in the government of the Nation; and
+(d) to protect Papua New Guinea and to safeguard the national wealth, resources and environment in the interests not only of the present generation but also of future generations; and
+(e) to work according to their talents in socially useful employment, and if necessary to create for themselves legitimate opportunities for such employment; and
+(f) to respect the rights and freedoms of others, and to co-operate fully with others in the interests of interdependence and solidarity; and
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-s. 1. Constitution of the Independent State of Papua New G 9999
-
-( g ) to contribute, as required by law, according to their means to the revenues required  for  the  advancement  of  the  Nation  and  the  purposes  of  Papua New Guinea; and
-
-( h ) in  the  case  of  parents,  to  support,  assist  and  educate  their  children (whether born in or out of wedlock), and in particular to give them a true understanding  of  their  basic  rights  and  obligations  and  of  the  National Goals and Directive Principles; and
-
-( i ) in the case of the children, to respect their parents.
-
-IN  ADDITION,  WE  HEREBY  DECLARE  that  all  citizens  have  an  obligation  to themselves  and  their  descendants,  to  each  other  and  to  the  Nation  to  use  profits  from economic activities in the advancement of our country and our people, and that the law may impose  a  similar  obligation  on  non-citizens  carrying  on  economic  activities  in  or from our country.
-
+s. 1. Constitution of the Independent State of Papua New Guinea
+– 6 –
+(g) to contribute, as required by law, according to their means to the revenues required for the advancement of the Nation and the purposes of Papua New Guinea; and
+(h) in the case of parents, to support, assist and educate their children (whether born in or out of wedlock), and in particular to give them a true understanding of their basic rights and obligations and of the National Goals and Directive Principles; and
+(i) in the case of the children, to respect their parents.
+IN ADDITION, WE HEREBY DECLARE that all citizens have an obligation to themselves and their descendants, to each other and to the Nation to use profits from economic activities in the advancement of our country and our people, and that the law may impose a similar obligation on non-citizens carrying on economic activities in or from our country.
 Being an Act to
-
-### PART I. - INTRODUCTORY.
-
-#### Division 1. - The Nation.
-
+### PART I. – INTRODUCTORY.
+#### Division 1. – The Nation.
 ###### 1. THE INDEPENDENT STATE OF PAPUA NEW GUINEA.
-
 (1) Papua New Guinea is a sovereign, independent State by the name of the Independent State of Papua New Guinea.
-
-(2)  The  name  of  the  Independent  State  of  Papua  New  Guinea  and  its  variants  shall  be protected by an Act of the Parliament.
-
+(2) The name of the Independent State of Papua New Guinea and its variants shall be protected by an Act of the Parliament.
 ###### 2. THE AREA OF PAPUA NEW GUINEA.
-
-(1)  The  area  of  Papua  New  Guinea  consists  of  the  area  that,  immediately  before Independence  Day,  constituted  what  was  then  known  as  Papua  New  Guinea,  together  with  all internal waters and the territorial sea and underlying lands, and, subject to disclaimer by resolution of the Parliament at or before the end of its next meeting, includes such neighbouring waters and such lands underlying any such waters, and such additional lands and waters, as are declared by the  Head  of  State,  acting  with,  and  in  accordance  with,  the  advice  of  the  National  Executive Council, to be part of that area.
-
+(1) The area of Papua New Guinea consists of the area that, immediately before Independence Day, constituted what was then known as Papua New Guinea, together with all internal waters and the territorial sea and underlying lands, and, subject to disclaimer by resolution of the Parliament at or before the end of its next meeting, includes such neighbouring waters and such lands underlying any such waters, and such additional lands and waters, as are declared by the Head of State, acting with, and in accordance with, the advice of the National Executive Council, to be part of that area.
 (2) The sovereignty of Papua New Guinea over its territory, and over the natural resources of its territory, is and shall remain absolute, subject only to such obligations at international law as are freely accepted by Papua New Guinea in accordance with this Constitution.
-
 ###### 3. NATIONAL SYMBOLS.
-
-(1) Acts of the Parliament may make provision for and in respect of-
-
-( a ) a National Flag; and
-
-( b ) a National Emblem; and
-
-( c ) a National Motto; and
-
-( d ) a National Seal; and
-
-( e ) a National Anthem.
-
-- 6 -
+(1) Acts of the Parliament may make provision for and in respect of–
+(a) a National Flag; and
+(b) a National Emblem; and
+(c) a National Motto; and
+(d) a National Seal; and
+(e) a National Anthem.
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 4.
-
-(2)  Until  such  time  as  other  provision  is  made  in  accordance  with  Subsection  (1),  the National Flag, National Emblem and National Seal are those that were in use immediately before Independence Day.
-
+Constitution of the Independent State of Papua New Guinea s. 4.
+– 7 –
+(2) Until such time as other provision is made in accordance with Subsection (1), the National Flag, National Emblem and National Seal are those that were in use immediately before Independence Day.
 ###### 4. NATIONAL CAPITAL DISTRICT.
-
 (1) There shall be a National Capital District.
-
 (2) The Seat of Government shall be in the National Capital District.
-
 (3) The boundaries of the National Capital District shall be as defined by an Organic Law.
-
-(4)  An  Organic  Law or  an  Act  of  the  Parliament  shall  make  provision  in  respect  of  the government of the National Capital District.
-
-(5)  In  calculating  the  number  of  provincial  electorates  in  accordance  with  Section  125 ( electorates ), the National Capital District shall be taken into account as if it were a province.
-
+(4) An Organic Law or an Act of the Parliament shall make provision in respect of the government of the National Capital District.
+(5) In calculating the number of provincial electorates in accordance with Section 125 (electorates), the National Capital District shall be taken into account as if it were a province.
 ###### 5. PROVINCES.
-
 (1) An Organic Law may declare, or make provision in respect of the declaration of, part of the country as provinces.
-
-(2) An Organic Law may provide for, or make provision in respect of, the creation of new provinces  by  the  amalgamation  or  division  of  existing  provinces  or  for  the  variation  of  the boundaries of a province.
-
+(2) An Organic Law may provide for, or make provision in respect of, the creation of new provinces by the amalgamation or division of existing provinces or for the variation of the boundaries of a province.
 ###### 6. DECLARATION OF LOYALTY.
-
-Where  a  law  requires  a  Declaration  of  Loyalty  to  be  made,  it  shall  be  made  in  the following form:-
-
-'I,…,  realizing  fully  the  responsibilities  to  which  I  am  committing  myself  and  the consequences  of  not  living  up  to  this  Declaration  and  those  responsibilities,  freely  and willingly declare my loyalty to the Independent State of Papua New Guinea and its People and to the Constitution of Papua New Guinea adopted by the Constituent Assembly on 15 August 1975, as altered from time to time in accordance with its provisions, and promise that I will uphold the Constitution and the laws of Papua New Guinea.'
-
+Where a law requires a Declaration of Loyalty to be made, it shall be made in the following form:–
+“I,…, realizing fully the responsibilities to which I am committing myself and the consequences of not living up to this Declaration and those responsibilities, freely and willingly declare my loyalty to the Independent State of Papua New Guinea and its People and to the Constitution of Papua New Guinea adopted by the Constituent Assembly on 15 August 1975, as altered from time to time in accordance with its provisions, and promise that I will uphold the Constitution and the laws of Papua New Guinea.”
 .
-
 ###### 7. OATH OF ALLEGIANCE.
-
-Where a law requires an Oath of Allegiance or Affirmation of Allegiance to be made, it shall be made in the following form:-
-
-'Oath of Allegiance.
-
-I,…,  do  swear  that  I  will  well  and  truly  serve  and  bear  true  allegiance  to  Her  Majesty Queen Elizabeth II. Her heirs and successors according to law.
-
+Where a law requires an Oath of Allegiance or Affirmation of Allegiance to be made, it shall be made in the following form:–
+“Oath of Allegiance.
+I,…, do swear that I will well and truly serve and bear true allegiance to Her Majesty Queen Elizabeth II. Her heirs and successors according to law.
 SO HELP ME GOD.
-
 Affirmation of Allegiance.
-
-- 7 -
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 8.
-
+s. 8. Constitution of the Independent State of Papua New Guinea
+– 8 –
+I,…, do promise and affirm that I will well and truly serve Her Majesty Queen Elizabeth II. Her heirs and successors according to law.”
 .
-
-I,…, do promise and affirm that I will well and truly serve Her Majesty Queen Elizabeth II. Her heirs and successors according to law.'
-
-#### Division 2. - Interpretation.
-
+#### Division 2. – Interpretation.
 ###### 8. PRINCIPLES OF INTERPRETATION.
-
-For  the  purpose  of  the  interpretation  of  this  Constitution  and  the  Organic  Laws,  the provisions  of  Schedule  1  ( Rules  for  Shortening  and  Interpretation  of  the  Constitutional  Laws ) applies and, subject to that Schedule, the underlying law applies.
-
-- 8 -
+For the purpose of the interpretation of this Constitution and the Organic Laws, the provisions of Schedule 1 (Rules for Shortening and Interpretation of the Constitutional Laws) applies and, subject to that Schedule, the underlying law applies.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 9.
-
+Constitution of the Independent State of Papua New Guinea s. 9.
+– 9 –
+### PART II. – THE NATIONAL LEGAL SYSTEM.
+#### Division 1. – The Laws of Papua New Guinea.
 ###### 9. THE LAWS.
-
-The laws of Papua New Guinea consist of-
-
-( a ) this Constitution; and
-
-( b ) the Organic Laws; and
-
-( c ) the Acts of the Parliament; and
-
-( d ) Emergency Regulations; and
-
-( da ) the provincial laws; and
-
-( e ) laws  made  under  or  adopted  by  or  under  this  Constitution  or  any  of  those  laws, including subordinate legislative enactments made under this Constitution or any of those laws; and
-
-( f ) the underlying law,
-
+The laws of Papua New Guinea consist of–
+(a) this Constitution; and
+(b) the Organic Laws; and
+(c) the Acts of the Parliament; and
+(d) Emergency Regulations; and
+(da) the provincial laws; and
+(e) laws made under or adopted by or under this Constitution or any of those laws, including subordinate legislative enactments made under this Constitution or any of those laws; and
+(f) the underlying law,
 and none other.
-
 ###### 10. CONSTRUCTION OF WRITTEN LAWS.
-
-All written laws (other than this Constitution) shall be read and construed subject to-
-
-( a ) in any case-this Constitution; and
-
-( b ) in the case of Acts of the Parliament-any relevant Organic Laws; and
-
-( c ) in the case of adopted laws or subordinate legislative enactments-the Organic Laws and the laws by or under which they were enacted or made,
-
-and so as not to exceed the authority to make them properly given, to the intent that where any such  law  would,  but  for  this  section,  have  been  in  excess  of  the  authority  so  given  it  shall nevertheless be a valid law to the extent to which it is not in excess of that authority.
-
-#### Division 2. - Constitutional Laws.
-
-##### Subdivision A. - Supreme Law.
-
+All written laws (other than this Constitution) shall be read and construed subject to–
+(a) in any case–this Constitution; and
+(b) in the case of Acts of the Parliament–any relevant Organic Laws; and
+(c) in the case of adopted laws or subordinate legislative enactments–the Organic Laws and the laws by or under which they were enacted or made,
+and so as not to exceed the authority to make them properly given, to the intent that where any such law would, but for this section, have been in excess of the authority so given it shall nevertheless be a valid law to the extent to which it is not in excess of that authority.
+#### Division 2. – Constitutional Laws.
+##### Subdivision A. – Supreme Law.
 ###### 11. CONSTITUTION, ETC., AS SUPREME LAW.
-
-- This Constitution and the Organic Laws are the Supreme Law of Papua New Guinea, and, subject to Section 10 ( construction of written law s) all acts (whether legislative, executive or judicial)  that  are  inconsistent  with  them  are,  to  the  extent  of  the  inconsistency,  invalid  and ineffective.
-
-- The provisions of this Constitution and of the Organic Laws are self-executing to the fullest extent that their respective natures and subject-matters permit.
-
+(1) This Constitution and the Organic Laws are the Supreme Law of Papua New Guinea, and, subject to Section 10 (construction of written laws) all acts (whether legislative, executive or judicial) that are inconsistent with them are, to the extent of the inconsistency, invalid and ineffective.
+(2) The provisions of this Constitution and of the Organic Laws are self-executing to the fullest extent that their respective natures and subject-matters permit.
 ###### 12. ORGANIC LAWS.
-
-- 1 2 Subject to Subsection (4), for the purpose of this Constitution, an Organic Law is a law made by the Parliament that is -
-
+(1)1 2 Subject to Subsection (4), for the purpose of this Constitution, an Organic Law is a law made by the Parliament that is –
 > 1 Section 12 Subsection (1) substituted by No. 883 of 2006, s. 1.
-
 > 2 Section 12 Subsection (1) substituted by No. 883 of 2006, s. 1.
-
-### PART II. - THE NATIONAL LEGAL SYSTEM.
-
-#### Division 1. - The Laws of Papua New Guinea.
-
-- 9 -
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-s. 13.
-
-Constitution of the Independent State of Papua New G 9999
-
-( a ) for or in the respect of a matter provision for which by way of an Organic Law is authorized by this Constitution; and
-
-( b ) not inconsistent with this Constitution; and
-
-( c ) expressed to be an Organic Law.
-
+s. 13. Constitution of the Independent State of Papua New Guinea
+– 10 –
+(a) for or in the respect of a matter provision for which by way of an Organic Law is authorized by this Constitution; and
+(b) not inconsistent with this Constitution; and
+(c) expressed to be an Organic Law.
 (2) An Organic Law may be altered only by another Organic Law, or by an alteration to this Constitution.
-
-(3) Nothing in this section prevents an Organic Law from-
-
-( a ) making any provision that might be made by an Act of the Parliament; or
-
-( b ) requiring  any  provision  to  be  made  by  an  Act  of  the  Parliament  that  might otherwise be so made,
-
+(3) Nothing in this section prevents an Organic Law from–
+(a) making any provision that might be made by an Act of the Parliament; or
+(b) requiring any provision to be made by an Act of the Parliament that might otherwise be so made,
 but any such provision may be altered by the same majority that is required for any other Act of the Parliament.
-
-(4) 3 4 Where this Constitution authorizes an Organic Law to make provision for any matter, the Organic Law may -
-
-( a ) make  full  provision  for  all  aspects  of  that  matter  notwithstanding  that  all  such aspects have not been expressly referred to in the provision authorizing the Organic Law except where this Constitution expressly limits the aspects of that matter for which provision may be made in an Organic Law; and
-
-( b ) may impose conditions,  restrictions  or  modifications  in  respect  of  that  matter  or any  aspect  of  it,  except  where  this  Constitution  expressly  states  that  conditions, restrictions or modifications shall not be imposed in respect of that matter.
-
-##### Subdivision B. - Constitutional Alteration and Organic Laws.
-
+(4)3 4 Where this Constitution authorizes an Organic Law to make provision for any matter, the Organic Law may –
+(a) make full provision for all aspects of that matter notwithstanding that all such aspects have not been expressly referred to in the provision authorizing the Organic Law except where this Constitution expressly limits the aspects of that matter for which provision may be made in an Organic Law; and
+(b) may impose conditions, restrictions or modifications in respect of that matter or any aspect of it, except where this Constitution expressly states that conditions, restrictions or modifications shall not be imposed in respect of that matter.
+##### Subdivision B. – Constitutional Alteration and Organic Laws.
 ###### 13. ALTERATIONS OF THE CONSTITUTION.
-
-This Constitution may be altered only by law made by the Parliament that-
-
-( a ) is expressed to be a law to alter this Constitution; and
-
-( b ) is made and certified in accordance with Section 14 ( making of alterations to the Constitution and Organic Laws ).
-
+This Constitution may be altered only by law made by the Parliament that–
+(a) is expressed to be a law to alter this Constitution; and
+(b) is made and certified in accordance with Section 14 (making of alterations to the Constitution and Organic Laws).
 ###### 14. MAKING OF ALTERATIONS TO THE CONSTITUTION AND ORGANIC LAWS.
-
-(1) Subject to Sections 12(3) ( Organic Laws ) and 15 ( urgent alteration s), a proposed law to  alter  this  Constitution,  or  a  proposed  Organic  Law,  must  be  supported  on  a  division  in accordance  with  the  Standing  Orders  of  the  Parliament  by  the  prescribed  majority  of  votes determined in accordance with Section 17 (' prescribed majority of votes ') expressed on at least two occasions after opportunity for debate on the merits.
-
-(2)  Subject to Section 15 ( urgent alterations ),  the  opportunities  for  debate  referred  to  in Subsection (1) must have been-
-
-( a ) during different meetings of the Parliament; and
-
-( b ) separated in time by at least two months,
-
+(1) Subject to Sections 12(3) (Organic Laws) and 15 (urgent alterations), a proposed law to alter this Constitution, or a proposed Organic Law, must be supported on a division in accordance with the Standing Orders of the Parliament by the prescribed majority of votes determined in accordance with Section 17 (“prescribed majority of votes”) expressed on at least two occasions after opportunity for debate on the merits.
+(2) Subject to Section 15 (urgent alterations), the opportunities for debate referred to in Subsection (1) must have been–
+(a) during different meetings of the Parliament; and
+(b) separated in time by at least two months,
 > 3 Section 12 Subsection (4) inserted by No. 883 of 2006, s. 1.
-
 > 4 Section 12 Subsection (4) inserted by No. 883 of 2006, s. 1.
-
-- 10 -
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 15.
-
-and  the  proposed  law  must  be  published  by  the  Speaker  in  full  in  the  National  Gazette,  and circulated,  in  accordance  with  the  Standing  Orders  of  the  Parliament,  to  all  members  of  the Parliament not less than one month before it is formally introduced into the Parliament.
-
+Constitution of the Independent State of Papua New Guinea s. 15.
+– 11 –
+and the proposed law must be published by the Speaker in full in the National Gazette, and circulated, in accordance with the Standing Orders of the Parliament, to all members of the Parliament not less than one month before it is formally introduced into the Parliament.
 (3) Amendments to a proposed law to amend this Constitution or a proposed Organic Law shall not be moved unless they have been circulated to members of the Parliament before the end of the meeting of the Parliament at which the first opportunity for debate referred to in Subsection (1) occurs.
-
-(4) Subject to Subsection (6), in his certificate given under Section 110 ( certification as to making of laws ), the Speaker must certify that the requirements of Subsections (1), (2) and (3) or Section 15 ( urgent alterations ), as the case may be, have been complied with.
-
-(5) The certificate referred to in Subsection (4) shall state-
-
-( a ) the date on which each vote was taken; and
-
-( b ) in relation to each vote-
-
+(4) Subject to Subsection (6), in his certificate given under Section 110 (certification as to making of laws), the Speaker must certify that the requirements of Subsections (1), (2) and (3) or Section 15 (urgent alterations), as the case may be, have been complied with.
+(5) The certificate referred to in Subsection (4) shall state–
+(a) the date on which each vote was taken; and
+(b) in relation to each vote–
 (i) the number of seats in the Parliament at the time; and
-
-(ii) the respective numbers of members of the Parliament voting for and against the  proposal,  and  where  the  requirements  of  Subsection  (2)  were  waived under  Section  15  ( urgent  alterations )  for  and  against  the  motion  for  the waiver,
-
+(ii) the respective numbers of members of the Parliament voting for and against the proposal, and where the requirements of Subsection (2) were waived under Section 15 (urgent alterations) for and against the motion for the waiver,
 and is, in the absence of proof to the contrary, conclusive evidence of the matter so stated.
-
-(6) Unless the Parliament decides otherwise in any particular case, Subsection (1) does not apply where the Speaker, after consultation with the Chief Justice or a Judge nominated by the Chief Justice for the purpose, certifies that the proposed law-
-
-( a ) does not affect the substance of any provision to be altered by it; or
-
-( b ) is designed to correct a self-evident error or omission; or
-
-( c ) is merely incidental to or consequential on some  other alteration of this Constitution or of any other law,
-
+(6) Unless the Parliament decides otherwise in any particular case, Subsection (1) does not apply where the Speaker, after consultation with the Chief Justice or a Judge nominated by the Chief Justice for the purpose, certifies that the proposed law–
+(a) does not affect the substance of any provision to be altered by it; or
+(b) is designed to correct a self-evident error or omission; or
+(c) is merely incidental to or consequential on some other alteration of this Constitution or of any other law,
 and such a law may be made in the same way as Acts of the Parliament.
-
-(7)  The  Supreme  Court  may,  on  the  application  of  any  person  made  within  four  weeks after the date of a certificate under Subsection (6) or such further time as a Judge, on application made  within  that  period,  considers  reasonable  in  the  particular  circumstances,  disallow  the certificate, but otherwise the certificate is conclusive.
-
+(7) The Supreme Court may, on the application of any person made within four weeks after the date of a certificate under Subsection (6) or such further time as a Judge, on application made within that period, considers reasonable in the particular circumstances, disallow the certificate, but otherwise the certificate is conclusive.
 ###### 15. URGENT ALTERATIONS.
-
-(1)  The  provisions  of  this  section  cease  to  have  effect  at  the  first  moment  of  the  fourth anniversary of Independence Day.
-
-(2) Subject to Subsection (5), the requirements of Section 14(2) ( making of alterations to the Constitution and Organic Laws ) may be waived, on the ground of urgency, by the Parliament by a division in accordance with the Standing Orders of the Parliament by a two-thirds absolute majority vote.
-
-(3)  The  requirements  of  Section  14(2)  ( making  of  alterations  to  the  Constitution  and Organic Laws ) shall not be waived under Subsection (2) unless-
-
-( a ) at least four days' notice of the intention in accordance with the Standing Orders of the Parliament to invoke Subsection (2) has been given; and
-
-- 11 -
+(1) The provisions of this section cease to have effect at the first moment of the fourth anniversary of Independence Day.
+(2) Subject to Subsection (5), the requirements of Section 14(2) (making of alterations to the Constitution and Organic Laws) may be waived, on the ground of urgency, by the Parliament by a division in accordance with the Standing Orders of the Parliament by a two-thirds absolute majority vote.
+(3) The requirements of Section 14(2) (making of alterations to the Constitution and Organic Laws) shall not be waived under Subsection (2) unless–
+(a) at least four days’ notice of the intention in accordance with the Standing Orders of the Parliament to invoke Subsection (2) has been given; and
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 16.
+s. 16. Constitution of the Independent State of Papua New Guinea
 
 ( b ) the proposed law has been circulated, in accordance with the Standing Orders of the  Parliament,  to  all  members  of  the  Parliament  and  published  in  full  by  the Speaker  in  the  National  Gazette  at  least  four  days  before  the  motion  to  invoke Subsection (2) is moved; and
 
@@ -1251,9 +961,7 @@ s. 16.
 
 [[START OF PAGE 27]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 18.
+Constitution of the Independent State of Papua New Guinea s. 18.
 
 104,  110,  117,  138,  139,  150,  156,  165,  167,  171,  184  to  187  (inclusive),  206,  248  to  252 (inclusive), 264 to 268 (inclusive), Sch.1.21, Sch.2.1 to Sch.2.14 (inclusive), Schedules 3, 4 and 5 is an absolute majority.
 
@@ -1297,9 +1005,7 @@ s. 18.
 
 [[START OF PAGE 28]]
 
-s. 19.
-
-Constitution of the Independent State of Papua New G 9999
+s. 19. Constitution of the Independent State of Papua New Guinea
 
 ###### 19. SPECIAL REFERENCES TO THE SUPREME COURT.
 
@@ -1341,13 +1047,13 @@ Constitution of the Independent State of Papua New G 9999
 
 ###### 20. UNDERLYING LAW AND PRE-INDEPENDENCE STATUTES.
 
-- An Act of Parliament shall-
+(1) An Act of Parliament shall–
 
 ( a ) declare the underlying law of Papua New Guinea; and
 
 ( b ) provide for the development of the underlying law of Papua New Guinea.
 
-- Until such time as an Act of Parliament provides otherwise-
+(2) Until such time as an Act of Parliament provides otherwise–
 
 ( a ) the  underlying  law  of  Papua  New  Guinea  shall  be  as  prescribed  in  Schedule  2 ( adoption, etc., of certain laws ); and
 
@@ -1359,9 +1065,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 29]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 21.
+Constitution of the Independent State of Papua New Guinea s. 21.
 
 (3)  Certain  pre-Independence  statutes  are  adopted  and  shall  be  adopted,  as  Acts  of Parliament  and  subordinate  enactments  of  Papua  New  Guinea,  as  prescribed  by  Schedule  2 ( adoption, etc., of certain laws ).
 
@@ -1375,7 +1079,7 @@ s. 21.
 
 ###### 22. ENFORCEMENT OF THE CONSTITUTION.
 
-The  provisions  of this Constitution that recognize  rights of individuals (including corporations  and  associations)  as  well  as  those  that  confer  powers  or  impose  duties  on  public authorities,  shall  not  be  left  without  effect  because  of  the  lack  of  supporting,  machinery  or procedural laws, but the lack shall, as far as practicable, be supplied by the National Court in the light  of  the  National  Goals  and  Directive  Principles,  and  by  way  of  analogy  from  other  laws, general principles of justice and generally-accepted doctrine.
+The provisions of this Constitution that recognize rights of individuals (including corporations and associations) as well as those that confer powers or impose duties on public authorities, shall not be left without effect because of the lack of supporting machinery or procedural laws, but the lack shall, as far as practicable, be supplied by the National Court in the light of the National Goals and Directive Principles, and by way of analogy from other laws, general principles of justice and generally-accepted doctrine.
 
 ###### 23. SANCTIONS.
 
@@ -1401,7 +1105,7 @@ or both, for a breach of the prohibition, restriction or duty, and may make such
 
 [[START OF PAGE 30]]
 
-s. 24. Constitution of the Independent State of Papua New G 9999
+s. 24. Constitution of the Independent State of Papua New Guinea
 
 ( a ) in  the  pre-Independence  House  of  Assembly  on  the  report  of  the  Constitutional Planning Committee; and
 
@@ -1419,9 +1123,7 @@ together  with  that  report  and  any  other  documents  or  papers  tabled  fo
 
 [[START OF PAGE 31]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 25.
+Constitution of the Independent State of Papua New Guinea s. 25.
 
 ### PART III. - BASIC PRINCIPLES OF GOVERNMENT.
 
@@ -1479,9 +1181,7 @@ s. 25.
 
 [[START OF PAGE 32]]
 
-s. 27.
-
-Constitution of the Independent State of Papua New G 9999
+s. 27. Constitution of the Independent State of Papua New Guinea
 
 (3) An Organic Law or an Act of the Parliament may declare any public office (including an office in a provincial government or a local-level government body) to be an office to and in relation to which this Division applies.
 
@@ -1527,9 +1227,7 @@ is guilty of misconduct in office.
 
 [[START OF PAGE 33]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 28.
+Constitution of the Independent State of Papua New Guinea s. 28.
 
 ( a ) may give to the Ombudsman Commission or some other authority any powers that are  necessary  or  convenient  for  attaining  the  objects  of  this  Division  and  of  the Organic Law; and
 
@@ -1577,11 +1275,9 @@ means the Head of State; and
 
 [[START OF PAGE 34]]
 
-s. 29.
+s. 29. Constitution of the Independent State of Papua New Guinea
 
-Constitution of the Independent State of Papua New G 9999
-
-( b ) in  relation  to  a  person  holding  any  other  office  to  which  this  Division  appliesmeans the appropriate appointing authority.
+(b) in relation to a person holding any other office to which this Division applies–means the appropriate appointing authority.
 
 (4) An Organic Law may provide for the suspension from office of a person to whom this Division applies pending the investigation of any case of alleged or suspected misconduct in office by him.
 
@@ -1633,9 +1329,7 @@ for a period of three years after the date of his dismissal.
 
 [[START OF PAGE 35]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 33.
+Constitution of the Independent State of Papua New Guinea s. 33.
 
 (2) Every person has the right to freedom based on law, and accordingly has a legal right to do anything that-
 
@@ -1669,7 +1363,7 @@ except where, or to the extent that, the contrary intention appears in this Cons
 
 ###### 35. RIGHT TO LIFE.
 
-- No person shall be deprived of his life intentionally except-
+(1) No person shall be deprived of his life intentionally except–
 
 ( a ) in  execution  of  a  sentence  of  a  court  following  his  conviction  of  an  offence  for which the penalty of death is prescribed by law; or
 
@@ -1695,9 +1389,7 @@ except where, or to the extent that, the contrary intention appears in this Cons
 
 [[START OF PAGE 36]]
 
-s. 36.
-
-Constitution of the Independent State of Papua New G 9999
+s. 36. Constitution of the Independent State of Papua New Guinea
 
 ###### 36. FREEDOM FROM INHUMAN TREATMENT.
 
@@ -1737,9 +1429,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 37]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 37.
+Constitution of the Independent State of Papua New Guinea s. 37.
 
 (7) No person shall be convicted of an offence on account of any act that did not, at the time when it took place, constitute an offence, and no penalty shall be imposed for an offence that is more severe in degree or description than the maximum penalty that might have been imposed for the offence at the time when it was committed.
 
@@ -1777,9 +1467,7 @@ s. 37.
 
 [[START OF PAGE 38]]
 
-s. 38.
-
-Constitution of the Independent State of Papua New G 9999
+s. 38. Constitution of the Independent State of Papua New Guinea
 
 (20) An offender shall not be transferred to an area away from that in which his relatives reside except for reasons of security or other good cause and, if such a transfer is made, the reason for so doing shall be endorsed on the file of the offender.
 
@@ -1841,9 +1529,7 @@ to the extent that the law is reasonably justifiable in a democratic society hav
 
 [[START OF PAGE 39]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 40.
+Constitution of the Independent State of Papua New Guinea s. 40.
 
 (2) A law shall not be declared not to be reasonably justifiable in a society having a proper regard for the rights and dignity of mankind except by the Supreme Court or the National Court, or any other court prescribed for the purpose by or under an Act of the Parliament, and unless the court is satisfied that the law was never so justifiable such a declaration operates as a repeal of the law as at the date of the declaration.
 
@@ -1887,7 +1573,7 @@ Nothing  in  this  Part  invalidates  an  emergency  law  as  defined  in  Part 
 
 [[START OF PAGE 40]]
 
-s. 42. Constitution of the Independent State of Papua New G 9999
+s. 42. Constitution of the Independent State of Papua New Guinea
 
 ( c ) is  otherwise  not,  in  the  particular  circumstances,  reasonably  justifiable  in  a democratic society having a proper regard for the rights and dignity of mankind, is an unlawful act.
 
@@ -1937,9 +1623,7 @@ and shall be informed immediately on his arrest or detention of his rights under
 
 [[START OF PAGE 41]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 43.
+Constitution of the Independent State of Papua New Guinea s. 43.
 
 (3) A person who is arrested or detained-
 
@@ -1987,7 +1671,7 @@ shall, unless he is released, be brought without delay before a court or a judic
 
 [[START OF PAGE 42]]
 
-s. 44. Constitution of the Independent State of Papua New G 9999
+s. 44. Constitution of the Independent State of Papua New Guinea
 
 ( b ) labour required of a person while in lawful custody, being labour that, although not required by the sentence or order of a court, is necessary for the hygiene of, or for the maintenance of, the place in which he is in custody; or
 
@@ -2027,9 +1711,7 @@ No person  shall  be  subjected  to  the  search  of  his  person  or  property 
 
 [[START OF PAGE 43]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 45.
+Constitution of the Independent State of Papua New Guinea s. 45.
 
 ( b ) that complies with Section 38 ( general qualifications on qualified rights ).
 
@@ -2079,9 +1761,7 @@ Every person has the right peacefully to assemble and associate and to form or b
 
 [[START OF PAGE 44]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 48.
+Constitution of the Independent State of Papua New Guinea s. 48.
 
 ( a ) that  makes  reasonable  provision  in  respect  of  the  registration  of  all  or  any associations; or
 
@@ -2129,9 +1809,7 @@ has the right, and shall be given a reasonable opportunity-
 
 [[START OF PAGE 45]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 52.
+Constitution of the Independent State of Papua New Guinea s. 52.
 
 ( a ) matters  relating  to  national  security,  defence  or  international  relations  of  Papua New Guinea (including Papua New Guinea's relations with the Government of any other country or with any international organization); or
 
@@ -2181,7 +1859,7 @@ s. 52.
 
 [[START OF PAGE 46]]
 
-s. 53. Constitution of the Independent State of Papua New G 9999
+s. 53. Constitution of the Independent State of Papua New Guinea
 
 interest  in  or  right  over  property  may  be  compulsorily  acquired,  except  in  accordance  with  an Organic Law or an Act of the Parliament, and unless-
 
@@ -2235,9 +1913,7 @@ in accordance with a law that is reasonably justifiable in a democratic society 
 
 [[START OF PAGE 47]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 54.
+Constitution of the Independent State of Papua New Guinea s. 54.
 
 (6) Subsection (5)(b)(iii) does not authorize the retention of any property after the end of the  period  for  which  its  retention  is  reasonably  required  for  the  purpose  referred  to  in  that paragraph.
 
@@ -2267,13 +1943,13 @@ Nothing in Section 37 ( protection of the law ) or 53 ( protection from unjust d
 
 ###### 56. OTHER RIGHTS AND PRIVILEGES OF CITIZENS.
 
-- Only citizens may-
+(1) Only citizens may–
 
 ( a ) vote in elections for, or hold, elective public offices; or
 
 ( b ) acquire freehold land.
 
-- An Act of the Parliament may-
+(2) An Act of the Parliament may–
 
 ( a ) define the offices that are to be regarded as elective public offices; and
 
@@ -2291,9 +1967,7 @@ for the purposes of Subsection (1).
 
 [[START OF PAGE 48]]
 
-s. 57.
-
-Constitution of the Independent State of Papua New G 9999
+s. 57. Constitution of the Independent State of Papua New Guinea
 
 ##### Subdivision D. - Enforcement.
 
@@ -2325,7 +1999,7 @@ have an interest in the protection and enforcement of the rights and freedoms re
 
 (2) A person whose rights or freedoms declared or protected by this Division are infringed (including  any  infringement  caused  by  a  derogation  of  the  restrictions  specified  in  Part  X.5 ( internment ))  on the use of emergency powers in relation to internment is entitled to reasonable damages and, if the court thinks it proper, exemplary damages in respect of the infringement.
 
-(3) Subject to Subsections (4) and (5), damages may be a awarded against any person who committed, or was responsible for, the infringement.
+(3) Subject to Subsections (4) and (5), damages may be awarded against any person who committed, or was responsible for, the infringement.
 
 - 34 -
 
@@ -2333,9 +2007,7 @@ have an interest in the protection and enforcement of the rights and freedoms re
 
 [[START OF PAGE 49]]
 
-Constitution of the Independent State of Papua New G 9999
-
-s. 59.
+Constitution of the Independent State of Papua New Guinea s. 59.
 
 (4)  Where  the  infringement  was  committed  by  a  governmental  body,  damages  may  be awarded either-
 
@@ -2385,9 +2057,7 @@ an  act  to  which  Subsection  (1)  applies  is,  to  the  extent  to  which  i
 
 [[START OF PAGE 50]]
 
-s. 63.
-
-Constitution of the Independent State of Papua New G 9999
+s. 63. Constitution of the Independent State of Papua New Guinea
 
 #### Division 5. - Basic Social Obligations.
 
@@ -2407,7 +2077,11 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 51]]
 
-Constitution of the Independent State of Papua New G 9999 s. 64.
+Constitution of the Independent State of Papua New Guinea s. 64.
+
+### PART IV. - CITIZENSHIP.
+
+#### Division 1. - Introductory.
 
 ###### 64. DUAL CITIZENSHIP.
 
@@ -2435,7 +2109,7 @@ has no real foreign citizenship.
 
 (1) A person born in the country before Independence Day who has two grand-parents who were born in the country or an adjacent area is a citizen.
 
-(2)  A  person  born  outside  the  country  before  Independence  Day  who  has  two  grandparents born in the country is a citizen as from Independence Day if-
+(2)  A  person  born  outside  the  country  before  Independence  Day  who  has  two  grand-parents born in the country is a citizen as from Independence Day if-
 
 ( a ) within  one  year  after  Independence  Day  or  such  longer  period  as  the  Minister responsible for citizenship matters allows in a particular case, application is made by him or on his behalf for registration as a citizen; and
 
@@ -2453,10 +2127,6 @@ has no real foreign citizenship.
 
 ( c ) the  islands  in  Torres  Straits  annexed  to  the  then  Colony  of  Queensland  under Letters Patent of the United Kingdom of Great Britain and Ireland bearing date the
 
-### PART IV. - CITIZENSHIP.
-
-#### Division 1. - Introductory.
-
 - 37 -
 
 [[END OF PAGE 51]]
@@ -2465,7 +2135,7 @@ has no real foreign citizenship.
 
 s. 66.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 10th day of October in the forty-second  year of the reign of Her Majesty Queen Victoria (that is, 1878),
 
@@ -2523,7 +2193,7 @@ is a citizen.
 
 [[START OF PAGE 53]]
 
-Constitution of the Independent State of Papua New G 9999 s. 68.
+Constitution of the Independent State of Papua New Guinea s. 68.
 
 (2) To be eligible for naturalization, a person must-
 
@@ -2575,7 +2245,7 @@ Constitution of the Independent State of Papua New G 9999 s. 68.
 
 s. 69.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ( h ) the applicant's knowledge of Pisin or Hiri Motu or of a vernacular of the country; and
 
@@ -2585,13 +2255,13 @@ Constitution of the Independent State of Papua New G 9999
 
 ( k ) the place of birth and the parentage of the applicant.
 
-(3) Notwithstanding anything in a Constitutional Law, a benefit, right or privilege, directly or  indirectly,  conferred  upon  'Papua  New  Guineans'  or  'natives'  or  'local  persons'  or  'nonoverseas persons' or 'citizens' (where that term is to take effect after the making of a law relating to  citizenship)  by  any  pre-Independence  law  shall  continue  to  be  enjoyed  only  by  persons  who became citizens of Papua New Guinea under Section 65 ( automatic citizenship on Independence Day ) but only-
+(3) Notwithstanding anything in a Constitutional Law, a benefit, right or privilege, directly or  indirectly,  conferred  upon  'Papua  New  Guineans'  or  'natives'  or  'local  persons'  or  'non-overseas persons' or 'citizens' (where that term is to take effect after the making of a law relating to  citizenship)  by  any  pre-Independence  law  shall  continue  to  be  enjoyed  only  by  persons  who became citizens of Papua New Guinea under Section 65 ( automatic citizenship on Independence Day ) but only-
 
 ( a ) for a period of ten years after Independence Day; or
 
 ( b ) until an Act of the Parliament takes away that benefit, right or privilege, whichever first occurs.
 
-(4)  Notwithstanding  anything  in  a  Constitutional  Law,  during  the  five  years  after Independence  Day  only  persons  who  become  citizens  of  Papua  New  Guinea  under  Section  65 ( automatic  citizenship  on  Independence  Day )  shall  have  the  rights  conferred  by  Section  53 ( protection  from  unjust  deprivation  of  property )  except  that  during  this  period  the  rights  of  a person  who  becomes  a  citizen  otherwise  than  under  Section  65  ( automatic  citizenship  on Independence Day ) in respect of his property shall not be less than those accorded by law to noncitizens.
+(4)  Notwithstanding  anything  in  a  Constitutional  Law,  during  the  five  years  after Independence  Day  only  persons  who  become  citizens  of  Papua  New  Guinea  under  Section  65 ( automatic  citizenship  on  Independence  Day )  shall  have  the  rights  conferred  by  Section  53 ( protection  from  unjust  deprivation  of  property )  except  that  during  this  period  the  rights  of  a person  who  becomes  a  citizen  otherwise  than  under  Section  65  ( automatic  citizenship  on Independence Day ) in respect of his property shall not be less than those accorded by law to non-citizens.
 
 (5)  Notwithstanding  anything  in  a  Constitutional  Law,  but  subject  to  Subsection  (6),  an Act  of  the  Parliament  made  in  the  period  of  ten  years  after  Independence  Day  may  confer  a benefit, right or privilege on persons who became citizens of Papua New Guinea under Section 65 ( automatic citizenship on Independence Day ).
 
@@ -2619,7 +2289,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 55]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 70.
 
@@ -2629,7 +2299,7 @@ s. 70.
 
 ###### 70. AUTOMATIC LOSS OF CITIZENSHIP.
 
-- A citizen who has reached voting age and is of full capacity who-
+(1) A citizen who has reached voting age and is of full capacity who-
 
 ( a ) obtains the nationality or citizenship of another country by a voluntary act (other than marriage); or
 
@@ -2679,7 +2349,7 @@ The preceding provisions of this Division do not apply to any act done under com
 
 s. 73.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (2) A person may not renounce his citizenship unless-
 
@@ -2707,7 +2377,7 @@ Constitution of the Independent State of Papua New G 9999
 
 and the marriage has permanently broken up, the reference in Subsection (1)(a) to a period of five years shall be read as a reference to a period of three years commencing-
 
-( d ) if the person was, at the time when the marriage broke up, resident in the countryon the date on which it broke up; or
+( d ) if the person was, at the time when the marriage broke up, resident in the country-on the date on which it broke up; or
 
 ( e ) if the person was at that time resident outside the country-on his return to reside in the country.
 
@@ -2731,7 +2401,7 @@ the Minister responsible for citizenship matters may, by order, deprive the chil
 
 [[START OF PAGE 57]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 75.
 
@@ -2781,7 +2451,7 @@ s. 75.
 
 s. 79.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (2)  In  Subsection  (1),  a  reference  to  adoption  includes  a  reference  to  an  adoption  by custom.
 
@@ -2815,7 +2485,7 @@ Subject to any Act of the Parliament, a requirement in this Part of a period of 
 
 [[START OF PAGE 59]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 82.
 
@@ -2831,7 +2501,7 @@ s. 82.
 
 ( b ) having  graciously  consented  so  to  become,  is  the  Queen  and  Head  of  State  of Papua New Guinea.
 
-(2) Subject to and in accordance with this Constitution, the privileges, powers, functions, duties and responsibilities of the Head of State may be had, exercised and performed through a Governor-General  appointed  in  accordance  with  Division  3  ( appointment,  etc.,  of  GovernorGeneral )  and,  except  where the contrary intention appears, reference in any law to the Head of State shall be read accordingly.
+(2) Subject to and in accordance with this Constitution, the privileges, powers, functions, duties and responsibilities of the Head of State may be had, exercised and performed through a Governor-General  appointed  in  accordance  with  Division  3  ( appointment,  etc.,  of  Governor-General )  and,  except  where the contrary intention appears, reference in any law to the Head of State shall be read accordingly.
 
 ###### 83. QUEEN'S SUCCESSORS.
 
@@ -2865,9 +2535,9 @@ The Style and Titles of the Head of State are as determined by Act of the Parlia
 
 s. 87.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
-(4) The question, what (if any) advice was given to the Head of State, or by whom, is nonjusticiable.
+(4) The question, what (if any) advice was given to the Head of State, or by whom, is non-justiciable.
 
 #### Division 3. - Appointment, etc., of Governor-General.
 
@@ -2891,11 +2561,11 @@ Constitution of the Independent State of Papua New G 9999
 
 (1) Except in the case of the first Governor-General appointed before Independence Day the  Governor-General  shall  be  appointed  by  the  Head  of  State,  acting  with,  and  in  accordance with,  the  advice  of  the  National  Executive  Council  given  in  accordance  with  a  decision  of  the Parliament.
 
-(2)  A  decision  of  the  Parliament  to  nominate  a  person  for  appointment  as  GovernorGeneral  shall  be  made  by  a  simple  majority  vote,  in  an  exhaustive  secret  ballot  conducted  in accordance with an Organic Law.
+(2)  A  decision  of  the  Parliament  to  nominate  a  person  for  appointment  as  Governor-General  shall  be  made  by  a  simple  majority  vote,  in  an  exhaustive  secret  ballot  conducted  in accordance with an Organic Law.
 
 (3) Subject to Subsection (5), the Speaker shall, within the period of three months before the  completion  of  the  normal  term  of  office  of  the  Governor-General,  call  a  meeting  of  the Parliament to nominate the next Governor-General.
 
-(4) Subject to Subsection (5), in the event of a casual vacancy in the office of GovernorGeneral, the Speaker shall, as soon as practicable, call a meeting of the Parliament to nominate the next Governor-General.
+(4) Subject to Subsection (5), in the event of a casual vacancy in the office of Governor-General, the Speaker shall, as soon as practicable, call a meeting of the Parliament to nominate the next Governor-General.
 
 (5) If-
 
@@ -2907,7 +2577,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 61]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 89.
 
@@ -2935,7 +2605,7 @@ Notwithstanding  Section  90  ( Declaration  of  Loyalty,  etc. )  for  the  pur
 
 ###### 91. NORMAL TERM OF OFFICE.
 
-Unless he earlier dies, resigns, ceases to be qualified for office in accordance with Section 87 ( qualifications for appointment ), is dismissed under Section 90 ( Declaration of Loyalty, etc. ), or  93(1)  ( dismissal  and  removal  from  office ),  or  is  removed  from  office  under  Section  93(2) ( dismissal  and  removal  from  office ),  the  Governor-General  holds  office  for  a  term  of  six  years from the date of his assumption of office in accordance with Section 89 ( assumption of offic e), plus any period that is required, in accordance with Section 88(5) ( appointment to office ), for the appointment of the next Governor-General.
+Unless he earlier dies, resigns, ceases to be qualified for office in accordance with Section 87 ( qualifications for appointment ), is dismissed under Section 90 ( Declaration of Loyalty, etc. ), or  93(1)  ( dismissal  and  removal  from  office ),  or  is  removed  from  office  under  Section  93(2) ( dismissal  and  removal  from  office ),  the  Governor-General  holds  office  for  a  term  of  six  years from the date of his assumption of office in accordance with Section 89 ( assumption of office ), plus any period that is required, in accordance with Section 88(5) ( appointment to office ), for the appointment of the next Governor-General.
 
 ###### 92. RESIGNATION.
 
@@ -2951,7 +2621,7 @@ Unless he earlier dies, resigns, ceases to be qualified for office in accordance
 
 s. 93.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ###### 93. DISMISSAL AND REMOVAL FROM OFFICE.
 
@@ -2999,7 +2669,7 @@ and pending any resultant action by the Parliament.
 
 [[START OF PAGE 63]]
 
-Constitution of the Independent State of Papua New G 9999 s. 96.
+Constitution of the Independent State of Papua New Guinea s. 96.
 
 ( a ) there is a vacancy in the office of Governor-General; or
 
@@ -3043,7 +2713,7 @@ the Chief Justice (if he is a citizen) is the Acting Governor-General.
 
 ###### 96. TERMS AND CONDITIONS OF EMPLOYMENT.
 
-(1) Subject to this Constitution, the terms and conditions of employment of the GovernorGeneral are as determined by or under an Organic Law.
+(1) Subject to this Constitution, the terms and conditions of employment of the Governor-General are as determined by or under an Organic Law.
 
 (2)  Except  with  the  consent  of  the  Governor-General  the  terms  and  conditions  of employment of the Governor-General shall not  be changed to his detriment during his term of office, and an Organic Law that so changes them shall recite the terms of the consent.
 
@@ -3061,7 +2731,7 @@ Where  any  act  is  done,  decision  is  made  or  advice  is  given  by  the  
 
 s. 98.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ###### 98. ACTS, ETC., OF THE HEAD OF STATE.
 
@@ -3073,7 +2743,7 @@ Unless the contrary intention appears, any act by the Head of State takes effect
 
 [[START OF PAGE 65]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 99.
 
@@ -3135,7 +2805,7 @@ s. 99.
 
 s. 102.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (5) An alteration to the number of electorates or to the boundaries of an electorate takes effect for the purposes of the next general election and of succeeding elections.
 
@@ -3189,7 +2859,7 @@ The Parliament may, from time to time, by a two-thirds absolute majority vote, a
 
 [[START OF PAGE 67]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 104.
 
@@ -3235,7 +2905,7 @@ s. 104.
 
 (2)  The  Head  of  State,  acting  with,  and  in  accordance  with,  the  advice  of  the  Electoral Commission, shall fix the first and last days of the period during which polling shall take place and the date by which the writs for a general election shall be returned.
 
-(3) In advising the Head of State under Subsection (2), and in conducting the election, the Electoral Commission shall do its best to ensure thats. 106.
+(3) In advising the Head of State under Subsection (2), and in conducting the election, the Electoral Commission shall do its best to ensure that-
 
 - 53 -
 
@@ -3243,7 +2913,7 @@ s. 104.
 
 [[START OF PAGE 68]]
 
-Constitution of the Independent State of Papua New G 9999
+s. 106. Constitution of the Independent State of Papua New Guinea
 
 ( a ) in a case to which Subsection (1)(a) applies-the date for the return of the writs is fixed as nearly as may reasonably be to the fifth anniversary of the date fixed for the return of the writs for the previous general election; and
 
@@ -3283,7 +2953,7 @@ If  the  office  of  an  elected  member  of  the  Parliament  becomes  vacant  
 
 [[START OF PAGE 69]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 109.
 
@@ -3331,7 +3001,7 @@ s. 109.
 
 s. 112.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ###### 112. PRESIDING IN THE PARLIAMENT.
 
@@ -3375,7 +3045,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 71]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 116.
 
@@ -3421,7 +3091,7 @@ in  accordance  with  Section  Sch.1.18  ( disallowance,  etc. )  and  the  Stan
 
 s. 117.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ###### 117. TREATIES, ETC.
 
@@ -3475,7 +3145,7 @@ and in accordance with this section.
 
 [[START OF PAGE 73]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 118.
 
@@ -3519,7 +3189,7 @@ s. 118.
 
 [[START OF PAGE 74]]
 
-s. 121. Constitution of the Independent State of Papua New G 9999
+s. 121. Constitution of the Independent State of Papua New Guinea
 
 functions of his Committee and, by arrangement with the Minister, to the head of the Minister's department, and are entitled to be briefed and consulted on major policy issues.
 
@@ -3561,7 +3231,7 @@ Each  committee of the  Parliament  shall  consist  only  of  members  of  the  
 
 [[START OF PAGE 75]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 126.
 
@@ -3609,7 +3279,7 @@ s. 126.
 
 s. 127.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ##### Subdivision H. - Protection of Elections from Outside or Hidden Influence, and Strengthening of Political Parties.
 
@@ -3663,7 +3333,7 @@ In  this  Subdivision, 'registered political party' means a political party  or 
 
 [[START OF PAGE 77]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 130.
 
@@ -3717,7 +3387,7 @@ law-
 
 s. 130A.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (3)  An  Organic  Law  made  for  the  purposes  of  Subsection  (1)  may  make  provision  for further defining what are to be regarded as assistance and electoral expenses for any purpose of that subsection or of that law, and in particular may provide that-
 
@@ -3771,7 +3441,7 @@ is guilty of misconduct in office; and
 
 [[START OF PAGE 79]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 133.
 
@@ -3783,7 +3453,7 @@ The Parliament may make Standing Orders and other rules and orders in respect of
 
 ###### 134. PROCEEDINGS NON-JUSTICIABLE.
 
-Except  as  is  specifically  provided  by  a  Constitutional  Law,  the  question,  whether  the procedures  prescribed  for  the  Parliament  or  its  committees  have  been  complied  with,  is  nonjusticiable, and a certificate by the Speaker under Section 110 ( certification as to making of laws ) is conclusive as to the matters required to be set out in it.
+Except  as  is  specifically  provided  by  a  Constitutional  Law,  the  question,  whether  the procedures  prescribed  for  the  Parliament  or  its  committees  have  been  complied  with,  is  non-justiciable, and a certificate by the Speaker under Section 110 ( certification as to making of laws ) is conclusive as to the matters required to be set out in it.
 
 ###### 135. QUESTIONS AS TO MEMBERSHIP, ETC.
 
@@ -3825,7 +3495,7 @@ all things done or purporting to have been done by the Parliament or by the comm
 
 s. 138.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 the Parliament may make a special law (to be known as an 'Act of Indemnity') in relation to that person or those persons.
 
@@ -3845,9 +3515,9 @@ the Parliament may make a special law (to be known as an 'Act of Indemnity') in 
 
 (3) Before the Speaker certifies under Section 110 ( certification as to making of laws ) as to the Act, he shall refer the question, whether the Act complies with this section, for the opinion of the Supreme Court in accordance with Section 19 ( special references to the Supreme Court ), and until the Court advises that the Act does so comply he shall not so certify it.
 
-- An Act of Indemnity-
+(4) An Act of Indemnity-
 
-( a ) relieves, and shall be expressed to relieve, the person or persons concerned from all liability  for,  and  from  all  legal  consequences  of,  the  contravention  or  noncompliance; and
+( a ) relieves, and shall be expressed to relieve, the person or persons concerned from all liability  for,  and  from  all  legal  consequences  of,  the  contravention  or  non-compliance; and
 
 ( b ) if a person concerned has been convicted of an offence in respect of or arising out of the contravention or non-compliance, takes effect as a free pardon,
 
@@ -3879,7 +3549,7 @@ The National Executive consists of-
 
 [[START OF PAGE 81]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 140.
 
@@ -3923,7 +3593,7 @@ The Ministry is a Parliamentary Executive, and therefore-
 
 [[START OF PAGE 82]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 143.
 
@@ -3977,7 +3647,7 @@ s. 143.
 
 [[START OF PAGE 83]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 145.
 
@@ -4035,7 +3705,7 @@ a  Minister  (including  the  Prime  Minister)  holds  office  until  the  next 
 
 s. 148.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (2) Notwithstanding Subsection (1)(b)-
 
@@ -4091,7 +3761,7 @@ shall continue in office until the next appointment of a Prime Minister.
 
 [[START OF PAGE 85]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 151.
 
@@ -4145,7 +3815,7 @@ and may remit or refund, in whole or in part, any fine, penalty or forfeiture pa
 
 s. 154.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 #### Division 5. - The Administration of Justice.
 
@@ -4163,7 +3833,7 @@ The National Justice Administration consists of-
 
 ###### 155. THE NATIONAL JUDICIAL SYSTEM.
 
-- The National Judicial System consists of-
+(1) The National Judicial System consists of-
 
 ( a ) the Supreme Court; and
 
@@ -4171,7 +3841,7 @@ The National Justice Administration consists of-
 
 ( c ) such  other  courts  as  are  established  under  Section  172  ( establishment  of  other courts ).
 
-- The Supreme Court-
+(2) The Supreme Court-
 
 ( a ) is the final court of appeal; and
 
@@ -4179,7 +3849,7 @@ The National Justice Administration consists of-
 
 ( c ) has such other jurisdiction and powers as are conferred on it by this Constitution or any other law.
 
-- The National Court-
+(3) The National Court-
 
 ( a ) has an inherent power to review any exercise of judicial authority; and
 
@@ -4205,7 +3875,7 @@ except where-
 
 [[START OF PAGE 87]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 156.
 
@@ -4257,7 +3927,7 @@ Except  to  the  extent  that  this  Constitution  specifically  provides  other
 
 s. 160.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ##### Subdivision C. - The Supreme Court of Justice.
 
@@ -4313,7 +3983,7 @@ The National Court shall consist of-
 
 [[START OF PAGE 89]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 165.
 
@@ -4371,7 +4041,7 @@ The qualifications for appointment as a Judge are as determined by or under an A
 
 s. 170.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (2)  The  Chief  Justice  shall  be  appointed  by  the  Head  of  State,  acting  with,  and  in accordance with, the advice of the National Executive Council given after consultation with the Minister responsible for the National Justice Administration.
 
@@ -4417,7 +4087,7 @@ the powers, functions, duties and responsibilities (other than as acting Governo
 
 [[START OF PAGE 91]]
 
-Constitution of the Independent State of Papua New G 9999 s. 172.
+Constitution of the Independent State of Papua New Guinea s. 172.
 
 ##### Subdivision F. - Inferior Courts, the Magisterial Service, etc.
 
@@ -4467,7 +4137,7 @@ Constitution of the Independent State of Papua New G 9999 s. 172.
 
 s. 176.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (3) Unless and except to the extent that an Act of the Parliament makes provision to the contrary,  the  Chief  Magistrate  is ex  officio a  member  of  all  courts  (other  than  village  courts) established under Section 172 ( establishment of other courts ), and, if provision is made for grades of  powers,  functions  or  jurisdiction  within  any  such  courts,  has  all  the  powers,  functions  and jurisdiction of the highest grades.
 
@@ -4509,7 +4179,7 @@ Constitution of the Independent State of Papua New G 9999
 
 [[START OF PAGE 93]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 178.
 
@@ -4559,7 +4229,7 @@ A Judge, the Public Prosecutor, the Public Solicitor or the Chief Magistrate may
 
 s. 180.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 (3) The Prime Minister shall send a copy of the notice, together with a copy of the report of the tribunal, to the Speaker for presentation to the Parliament, and shall also forward copies to the Judicial and Legal Services Commission.
 
@@ -4607,7 +4277,7 @@ may suspend the person concerned from office pending the report of the tribunal,
 
 [[START OF PAGE 95]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 183.
 
@@ -4663,13 +4333,13 @@ s. 183.
 
 [[START OF PAGE 96]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 185.
 
 ( h ) the  means  by  which  particular  facts  may  be  proved,  and  the  manner  in  which evidence of particular facts may be given, in any proceedings or in any application in connection with, or at any stage of, any proceedings.
 
-- The rules of court may require or permit legal argument to be submitted in writing.
+(3) The rules of court may require or permit legal argument to be submitted in writing.
 
 (4) If an Act of the Parliament comes into force that is inconsistent with a rule of court, the rule ceases to have effect to the extent of the inconsistency.
 
@@ -4695,7 +4365,7 @@ Nothing in this Division prevents the establishment, by or under an Act of the P
 
 [[START OF PAGE 97]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 187A.
 
@@ -4723,7 +4393,7 @@ An  Organic  Law  shall  provide  for,  or  make  provision  in  respect  of,  t
 
 (3) An Organic Law shall provide for the minimum number of members for the Provincial Assemblies  and  Local-level  Governments  and  the  maximum  number  of  members  that  may  be appointed as nominated members of Provincial Assemblies and Local-level Governments.
 
-- An Organic Law shall make provision for and in respect of-
+(4) An Organic Law shall make provision for and in respect of-
 
 ( a ) grants  by  the  National  Government  to  Provincial  Governments  and  Local-level Governments; and
 
@@ -4751,7 +4421,7 @@ and may make other financial provisions for Provincial Governments and Local-lev
 
 [[START OF PAGE 98]]
 
-s. 187D. Constitution of the Independent State of Papua New G 9999
+s. 187D. Constitution of the Independent State of Papua New Guinea
 
 ( a ) passed  during  the  period  between  19 July 1995  and  the  date  of  certification  of Constitution Amendment (Sales and Services); and
 
@@ -4775,13 +4445,7 @@ are  validated,  to  the  extent  that  the  provisions  of  the  Act  or  Acts 
 
 ( a ) this Constitution (and in particular with Division 3 ( Basic Rights )); or
 
-b
-
-(
-
-)
-
-an Organic Law,
+( b ) an Organic Law,
 
 and all questions as to such consistency are justiciable.
 
@@ -4795,7 +4459,7 @@ and all questions as to such consistency are justiciable.
 
 (3)  An  Organic  Law  may  make  provision  for  further  defining  any  matter  referred  to  in Subsection (1).
 
-(4)  The  National  Executive  Council  may  suspend  a  Provincial  Government  or  a  Locallevel  Government that  cannot carry out its  functions  effectively  because  of  a  war  or  a  national emergency  declared  under  Part  X  ( emergency  powers ) affecting the province, local-level government area or the whole of the country.
+(4)  The  National  Executive  Council  may  suspend  a  Provincial  Government  or  a  Local-level  Government that  cannot carry out its  functions  effectively  because  of  a  war  or  a  national emergency  declared  under  Part  X  ( emergency  powers ) affecting the province, local-level government area or the whole of the country.
 
 - 84 -
 
@@ -4803,7 +4467,7 @@ and all questions as to such consistency are justiciable.
 
 [[START OF PAGE 99]]
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 s. 187F.
 
@@ -4815,7 +4479,7 @@ s. 187F.
 
 ( b ) at each meeting of the Parliament during the suspension, the Minister responsible for  provincial  government  and  local-level  government  matters  shall  report  to  the Parliament on the measures taken to re-establish the Provincial Government or the Local-level Government, as the case may be.
 
-###### 187F.  RE-ESTABLISHMENT  OF  PROVINCIAL  GOVERNMENTS  AND  LOCALLEVEL GOVERNMENTS.
+###### 187F.  RE-ESTABLISHMENT  OF  PROVINCIAL  GOVERNMENTS  AND  LOCAL-LEVEL GOVERNMENTS.
 
 (1)  Subject  to  Subsections  (2)  and  (3),  if  a  Provincial  Government  or  a  Local-level Government is suspended, arrangements shall be made to re-establish it within nine months from the effective date of suspension.
 
@@ -4843,7 +4507,7 @@ Nothing in any law is inconsistent with this Part so far as it provides for the 
 
 s. 187H.
 
-Constitution of the Independent State of Papua New G 9999
+Constitution of the Independent State of Papua New Guinea
 
 ###### 187H.  NATIONAL ECONOMIC AND FISCAL COMMISSION.
 
@@ -4893,7 +4557,7 @@ s. 188.
 
 ###### 188. ESTABLISHMENT OF THE STATE SERVICES.
 
-- The following State Services are hereby established:-
+(1) The following State Services are hereby established:-
 
 ( a ) the National Public Service; and
 
@@ -4903,7 +4567,7 @@ s. 188.
 
 ( d ) the Parliamentary Service.
 
-- Acts of the Parliament may make provision for or in respect of other State Services.
+(2) Acts of the Parliament may make provision for or in respect of other State Services.
 
 ###### 189. CIVILIAN CONTROL.
 
@@ -4913,7 +4577,7 @@ All of the State Services other than the Defence Force shall be civilian service
 
 ###### 190. ESTABLISHMENT OF THE COMMISSION.
 
-- A Public Services Commission is hereby established.
+(1) A Public Services Commission is hereby established.
 
 (2) 14 15 The Commissioner shall consist of three members who shall be appointed for a term of  five  years  by  the  Head  of  State,  acting  with,  and  in  accordance  with,  the  advice  of  a  Public Services Commission Appointments Committee consisting of -
 
@@ -4979,7 +4643,7 @@ The Public Services Commission is not subject to direction or control when carry
 
 ###### 193. APPOINTMENTS TO CERTAIN OFFICES.
 
-- This section applies to and in respect of the following offices and positions:-
+(1) This section applies to and in respect of the following offices and positions:-
 
 ( a ) all  offices  in  the  National  Public  Service  the  occupants  of  which  are  directly responsible to the National Executive Council or to a Minister; and
 
@@ -4999,7 +4663,7 @@ The Public Services Commission is not subject to direction or control when carry
 
 other than the offices of the members of the Public Services Commission.
 
-(1A) 20 21 All substantive appointments to offices to which Subsection Subsection (1)(a), (g) and (h) apply shall be made by the Head of State, acting with, and in accordance with, the advice of  the  National  Executive  Council  from  a  list  of  persons  recommended  by  the  Public  Services Commission following procedures prescribed by or under an Act of the Parliament.
+(1A) 20 21 All substantive appointments to offices to which Subsection Subsection (1)(a), (g) and (h) apply shall be made by the Head of State, acting with, and in accordance with, the advice
 
 > 20 Section 193 Subsection (1A) inserted by No. 882 of 2006, s. 2.
 
@@ -5012,6 +4676,8 @@ other than the offices of the members of the Public Services Commission.
 Constitution of the Independent State of Papua New G 9999
 
 s. 194.
+
+of the National Executive Council from a list of persons recommended by the Public Services Commission following procedures prescribed by or under an Act of the Parliament.
 
 (1B) 22 23 All temporary appointments to offices to which Subsection Subsection (1)(a), (g) and (h) apply shall be made by the Head of State, acting with, and in accordance with, the advice of the National Executive Council in accordance with a recommendation by the Public Services Commission following procedures prescribed by or under an Act of the Parliament.
 
@@ -5433,11 +5099,11 @@ Constitution of the Independent State of Papua New G 9999
 
 s. 211.
 
-(2) Subject to Subsections (3) and (4), Parliament may reduce, but shall not increase or reallocate,  the  amount  or  incidence  of,  or  change  the  purpose  of,  any  proposed  taxation,  loan  or expenditure.
+(2) Subject to Subsections (3) and (4), Parliament may reduce, but shall not increase or re-allocate, the amount or incidence of, or change the purpose of, any proposed taxation, loan or expenditure.
 
 (3) Where, in the opinion of the Parliament, the proposed expenditure for the services of the Parliament or the services of the Judiciary is below the estimate submitted by the Speaker or Chief Justice respectively and is insufficient adequately to meet the requirements of that service, the  Parliament  may  increase  the  expenditure  to  an  amount  not  exceeding  the  original  estimates submitted by the Speaker or the Chief Justice, as the case may be, under Section 209(2B).
 
-(4) For the purposes of Subsection (3), the Parliament may re-allocate, or reduce and reallocate, the amount of expenditure appropriated for any purpose.
+(4) For the purposes of Subsection (3), the Parliament may re-allocate, or reduce and re-allocate, the amount of expenditure appropriated for any purpose.
 
 ###### 211. ACCOUNTING, ETC., FOR PUBLIC MONEYS.
 
@@ -5495,7 +5161,7 @@ There  shall  be  a  Public  Accounts  Committee,  which  is  a  Permanent  Parl
 
 (1) The primary function of the Public Accounts Committee is, in accordance with an Act of the Parliament, to examine and report to the Parliament on the public accounts of Papua New Guinea  and  on  the  control  of  and  on  transactions  with  or  concerning,  the  public  moneys  and property of Papua New Guinea.
 
-(2)  Subsection  (1)  extends  to  any  accounts,  finances  and  property  that  are  subject  to inspection  and  audit  by  the  Auditor-General  under  Section  214(2)  ( functions  of  the  AuditorGeneral ), and to reports by the Auditor-General under that subsection or Section 214(3) ( functions of the Auditor-General ).
+(2) Subsection (1) extends to any accounts, finances and property that are subject to inspection and audit by the Auditor-General under Section 214(2) ( functions of the Auditor-General ), and to reports by the Auditor-General under that subsection or Section 214(3) ( functions of the Auditor-General ).
 
 (3)  An  Act  of  the  Parliament  may  expand,  and  may  provide  in  more  detail  for,  the functions  of  the  Committee  under  Subsections  (1)  and  (2),  and  may  confer  on  the  Committee additional functions and duties not inconsistent with the performance of the functions and duties conferred and imposed by those subsections.
 
@@ -5651,9 +5317,7 @@ The purposes of the establishment of the Ombudsman Commission are-
 
 (ii) any other governmental body, or an officer or employee of a governmental body; or
 
-(iii)
-
-- any local government body or an officer or employee of any such body; or
+(iii) any local government body or an officer or employee of any such body; or
 
 (iv) any other body set up by statute-
 
@@ -5787,7 +5451,7 @@ This  Part  shall  be  read  subject  to  any  other  provisions  of  this  Cons
 
 ###### 223. GENERAL PROVISION FOR CONSTITUTIONAL OFFICE-HOLDERS.
 
-(1) Subject to this Constitution, Organic Laws shall make provision for and in respect of the qualifications, appointment and terms and conditions of employment of constitutional officeholders.
+(1) Subject to this Constitution, Organic Laws shall make provision for and in respect of the qualifications, appointment and terms and conditions of employment of constitutional office-holders.
 
 (2) In  particular,  Organic  Laws  shall  make  provision  guaranteeing  the  rights  and independence of constitutional office-holders by, amongst other things-
 
@@ -5841,6 +5505,10 @@ Constitution of the Independent State of Papua New G 9999
 
 s. 226.
 
+### PART X. - EMERGENCY POWERS.
+
+#### Division 1. - Introductory.
+
 ###### 226. DEFINITIONS.
 
 In this Part, unless the contrary intention appears-
@@ -5876,10 +5544,6 @@ In this Part, unless the contrary intention appears-
 ( a ) Papua New Guinea is at war with another country by virtue of a declaration under Section 227 ( declaration of war ); or
 
 ( b ) a  declaration  of  a  national  emergency  is  in  force  under  Section  228 ( declaration of national emergency ).
-
-### PART X. - EMERGENCY POWERS.
-
-#### Division 1. - Introductory.
 
 - 107 -
 
@@ -6021,13 +5685,13 @@ If a member of the Parliament is held in custody under an Emergency Regulation, 
 
 ###### 236. REVOCATION, ETC., OF EMERGENCY LAWS, ETC.
 
-- An Emergency Act may be altered-
+(1) An Emergency Act may be altered-
 
 ( a ) by an Act of the Parliament; or
 
 ( b ) in an urgent case, where to do so would not be contrary to the positive intention expressed by a resolution of the Parliament dealing with the particular emergency, by an Emergency Regulation.
 
-- An Emergency Regulation may be altered at any time-
+(2) An Emergency Regulation may be altered at any time-
 
 ( a ) by  the  Head  of  State,  acting  with,  and  in  accordance  with,  the  advice  of  the National Executive Council; or
 
@@ -6035,13 +5699,13 @@ If a member of the Parliament is held in custody under an Emergency Regulation, 
 
 ( c ) by decision of the Parliament.
 
-- An emergency order may be disallowed at any time by decision of the Parliament.
+(3) An emergency order may be disallowed at any time by decision of the Parliament.
 
 ###### 237. AUTOMATIC TERMINATION OF EMERGENCY LAWS, ETC.
 
 (1) Subject to Section 238 ( extension of Emergency Acts ) an emergency law, unless it has expired under Section 231(3) ( Emergency Regulations ) or unless earlier repealed shall be deemed to  be  repealed  immediately  after  the  end  of  the  day  on  which  the  period  of  declared  national emergency ends.
 
-(2)  Where  an  Emergency  Regulation  which  has  amended  or  repealed  any  law  in  force immediately before the regulation took effect, is deemed to be repealed under Subsection (1), the repeal of that regulation shall revive the previous law from the date of that repeal as if the repealed regulation had not been made.
+(2) Where an Emergency Regulation which has amended or repealed any law in force immediately before the regulation took effect, is deemed to be repealed under Subsection (1), the
 
 - 110 -
 
@@ -6052,6 +5716,8 @@ If a member of the Parliament is held in custody under an Emergency Regulation, 
 Constitution of the Independent State of Papua New G 9999
 
 s. 238.
+
+repeal of that regulation shall revive the previous law from the date of that repeal as if the repealed regulation had not been made.
 
 ###### 238. EXTENSION OF EMERGENCY ACTS.
 
@@ -6098,6 +5764,8 @@ s. 238.
 s. 242.
 
 Constitution of the Independent State of Papua New G 9999
+
+period of declared national emergency commences at a time when the Parliament is not in session and an Emergency Committee has not been established in accordance with Section 240 ( Emergency Committees ) in respect of the period.
 
 (2) A Temporary Emergency Committee ceases to hold office (except for the purpose of making a report in accordance with Section 242(2) ( functions, etc., of Emergency Committees ) as to events occurring during its term of office)-
 
@@ -6165,7 +5833,7 @@ s. 244.
 
 (4) During a time of war, the periods of four days prescribed in Subsection (3) are reduced to 24 hours.
 
-(5)  In  his  certificate  given  under  Section  110  ( certification  as  to  making  of  law s)  the Speaker must certify that the requirements of Subsection (2)(a) and (b), and of Subsection (3) or (4), as the case may be, have been complied with.
+(5)  In  his  certificate  given  under  Section  110  ( certification  as  to  making  of  laws )  the Speaker must certify that the requirements of Subsection (2)(a) and (b), and of Subsection (3) or (4), as the case may be, have been complied with.
 
 (6)  Internment  may  continue  after  the  end  of  the  period  of  declared  national  emergency only to the extent that is reasonably required for the orderly and peaceful repatriation, resettlement or re-establishment of internees.
 
@@ -6237,7 +5905,7 @@ s. 246.
 
 ( b ) the Parliament may order that the internee be released.
 
-- Where an order is made in accordance with Subsection (5)-
+(6) Where an order is made in accordance with Subsection (5)-
 
 ( a ) the internee shall be released in accordance with the order; and
 
@@ -6269,7 +5937,7 @@ Constitution of the Independent State of Papua New G 9999
 
 (1) Papua New Guinea has power to acquire, hold and dispose of property of any kind, and to make contracts, in accordance with an Act of the Parliament.
 
-- Papua New Guinea may sue and be sued, in accordance with an Act of the Parliament.
+(2) Papua New Guinea may sue and be sued, in accordance with an Act of the Parliament.
 
 ###### 248. VESTING OF RIGHTS AND LIABILITIES OF FORMER GOVERNMENT.
 
@@ -6301,7 +5969,7 @@ the Declaration of Loyalty; and
 
 ###### 251. TAKING CERTAIN OATHS, ETC., BY NON-CITIZENS.
 
-- If-
+(1) If-
 
 ( a ) it is desirable that a non-citizen be appointed to an office under a statute; and
 
@@ -6349,7 +6017,7 @@ In principle, where a law provides for consultation between persons or bodies, o
 
 ###### 256. REPORTS BY PUBLIC OFFICE-HOLDERS, ETC.
 
-Subject  to  this  Constitution,  an  Act  of  the  Parliament  may  make  provision  for  and  in respect  of  annual  and  other  reports  by  a  constitutional  office-holder  or  any  other  public  officeholder, or by a constitutional institution or any other statutory body.
+Subject  to  this  Constitution,  an  Act  of  the  Parliament  may  make  provision  for  and  in respect  of  annual  and  other  reports  by  a  constitutional  office-holder  or  any  other  public  office-holder, or by a constitutional institution or any other statutory body.
 
 - 117 -
 
@@ -6449,7 +6117,7 @@ Constitution of the Independent State of Papua New G 9999
 
 ###### 263. FURTHER DEFINITION, ETC.
 
-Acts of the Parliament may make provision for further defining the terms of reference of the General Constitutional Commission and any other commissions or committees established in accordance with Section 262 (s ubordinate commissions and committees ).
+Acts of the Parliament may make provision for further defining the terms of reference of the General Constitutional Commission and any other commissions or committees established in accordance with Section 262 ( subordinate commissions and committees ).
 
 - 120 -
 
@@ -6481,7 +6149,7 @@ The Constituent Assembly, having performed its duty to frame and adopt, on behal
 
 (1) A Provisional Organic Law or an Organic Law may make whatever provision seems necessary or desirable for a smooth transition from pre-Independence arrangements to arrangements under this Constitution and, in particular, but without limiting the generality of the foregoing, for securing-
 
-( a ) the  immediate  filling  of  offices,  and  the  immediately  effective  operation  of institutions under this Constitution where there were corresponding preIndependence offices or institutions; and
+( a ) the  immediate  filling  of  offices,  and  the  immediately  effective  operation  of institutions under this Constitution where there were corresponding pre-Independence offices or institutions; and
 
 ( b ) the continued effect of acts done or commenced before Independence Day under pre-Independence laws.
 
@@ -7095,7 +6763,7 @@ Constitution of the Independent State of Papua New G 9999
 
 ( a ) administration of justice including dispute resolution; and
 
-( b ) the operation and the functions and powers of Bougainville Constitutional Officeholders; and
+( b ) the operation and the functions and powers of Bougainville Constitutional Office-holders; and
 
 ( c ) the  operation  of  and  the  powers  and  functions  of  Bougainville  Government Services,
 
@@ -7153,9 +6821,7 @@ the application, or without limit to its discretion, may refuse it or accept it 
 
 ( b ) in accordance with the following: -
 
-(i)
-
-- the principles contained in the Agreement being: -
+(i) the principles contained in the Agreement being: -
 
 (A) changes to the principles of the criminal law shall be evolutionary;
 
@@ -7179,7 +6845,7 @@ Constitution of the Independent State of Papua New G 9999
 
 ###### 292. SUBJECTS NOT SPECIFIED IN SECTIONS 289, 290 AND 291.
 
-- Subject to Subsection (2), the function and power in relation to any subject -
+(1) Subject to Subsection (2), the function and power in relation to any subject -
 
 ( a ) not specified in Section 289 (powers and functions of the National Government), Section 290 (powers and functions available to the Bougainville Government) and Section  291  (functions  and  powers  of  the  National  Government  and  of  the Bougainville Government in relation to criminal law); and
 
@@ -7549,7 +7215,7 @@ Constitution of the Independent State of Papua New G 9999 s. 310.
 
 (2)  The  Bougainville  Constitution  shall  make  provision  for  a  head  of  Bougainville Government Service to be responsible to the Bougainville Executive, and for the manner in which he is to be so responsible.
 
-(3)  Members of a Bougainville Government Service shall take an Oath of Allegiance or make an Affirmation of Allegiance in accordance with Section 7 (Oath of Allegiance), Section 250 (Making of Declaration of Loyalty, etc.,) and Section 251 (taking certain oaths, etc., by noncitizens).
+(3)  Members of a Bougainville Government Service shall take an Oath of Allegiance or make an Affirmation of Allegiance in accordance with Section 7 (Oath of Allegiance), Section 250 (Making of Declaration of Loyalty, etc.,) and Section 251 (taking certain oaths, etc., by non-citizens).
 
 (4) Any  official marking on the uniforms, vehicles, premises and stationery of Bougainville Police and Bougainville Correctional Service shall include the National Emblem or Name.
 
@@ -7577,9 +7243,9 @@ Constitution of the Independent State of Papua New G 9999 s. 310.
 
 [[START OF PAGE 156]]
 
-Constitution of the Independent State of Papua New G 9999
-
 s. 312.
+
+Constitution of the Independent State of Papua New G 9999
 
 ( b ) an independent body (which may be the Public Services Commission) which will be  responsible  for  reviewing  decisions  on  personnel  matters  connected  with  the Bougainville Public Service.
 
@@ -7673,13 +7339,15 @@ s. 314.
 
 (2) Where the Bougainville Constitution makes provision for the Bougainville Correctional Service it shall provide for -
 
-( a ) Bougainville laws for and in respect of s. 317.
+( a ) Bougainville laws for and in respect of -
 
 - 143 -
 
 [[END OF PAGE 157]]
 
 [[START OF PAGE 158]]
+
+s. 317.
 
 Constitution of the Independent State of Papua New G 9999
 
@@ -7763,13 +7431,15 @@ s. 320.
 
 ###### 321. BOUGAINVILLE CONSTITUTIONAL OFFICE-HOLDERS.
 
-(1)  The  Bougainville  Constitution  may  make  provision  for  Bougainville  Constitutional Office-holders  with  powers  and  functions  in  Bougainville  law  to  be  declared  a  Bougainville s. 322.
+(1)  The  Bougainville  Constitution  may  make  provision  for  Bougainville  Constitutional Office-holders  with  powers  and  functions  in  Bougainville  law  to  be  declared  a  Bougainville
 
 - 145 -
 
 [[END OF PAGE 159]]
 
 [[START OF PAGE 160]]
+
+s. 322.
 
 Constitution of the Independent State of Papua New G 9999
 
@@ -7781,7 +7451,7 @@ Constitutional Office and for the holder of such office to be declared a Bougain
 
 ( a ) subject to any express provisions in this Part, provide that any body established by or  under  the  Bougainville  Constitution  to  appoint  a  Bougainville  Constitutional Office-holder shall include two persons appointed by the body responsible for the appointment  of  the  equivalent  Constitutional  office-holder  under  Section  221 (definitions)  or  where  there  is  no  such  equivalent,  by  the  National  Executive Council; and
 
-( b ) guarantee  the  rights  and  independence  of  Bougainville  Constitutional  Officeholders similar to the protections of office of Constitutional Office-holders under Section 221 (Definitions).
+( b ) guarantee  the  rights  and  independence  of  Bougainville  Constitutional  Office-holders similar to the protections of office of Constitutional Office-holders under Section 221 (Definitions).
 
 (4) A Constitutional Office-holder referred to in Section 221 (Definitions) may enter into co-operative  or  agency  arrangements  with  the  equivalent  Bougainville  Constitutional  Office  to avoid gaps and duplication and to encourage common standards.
 
@@ -7885,7 +7555,7 @@ Subject to the Agreement, an Organic Law shall make provision for -
 
 ###### 326. GRANTS.
 
-- The  National  Government  shall  provide  grants  to  the  Bougainville  Government  as follows: -
+(1) The  National  Government  shall  provide  grants  to  the  Bougainville  Government  as follows: -
 
 ( a ) recurrent unconditional grants; and
 
@@ -7897,23 +7567,23 @@ Subject to the Agreement, an Organic Law shall make provision for -
 
 ( e ) an establishment grant.
 
-- Subject to the Agreement, an Organic Law shall make provision for -
+(2) Subject to the Agreement, an Organic Law shall make provision for -
 
 ( a ) the  manner  of  calculation,  adjustment  (including  the  effects  of  progress  towards fiscal self-reliance), timing, payment and management of such grants; and
 
 ( b ) methods  of  consultation  between  the  National  Government  and  the  Bougainville Government in relation to such grants.
 
-- Grants provided to the Bougainville Government under Subsection (1) shall be subject to audit by the Auditor-General.
+(3) Grants provided to the Bougainville Government under Subsection (1) shall be subject to audit by the Auditor-General.
 
 ###### 327. FOREIGN AID.
 
-- The National Government shall use its best endeavours -
+(1) The National Government shall use its best endeavours -
 
 ( a ) to obtain foreign aid to support restoration and development in Bougainville; and
 
 ( b ) to facilitate the participation of the Bougainville Government in the management of aid projects.
 
-- The Bougainville Government -
+(2) The Bougainville Government -
 
 ( a ) may seek and obtain foreign aid; and
 
@@ -7957,7 +7627,7 @@ s. 328.
 
 (2) The Bougainville Constitution -
 
-( a ) shall  make  provision  of  regular  audits  of  the  account  as  of  the  Bougainville Government  in  addition  to  audits  carried  out  by,  or  on  behalf  of,  the  AuditorGeneral in the exercise of his powers and the performance of his functions under this Constitution; and
+( a ) shall  make  provision  of  regular  audits  of  the  account  as  of  the  Bougainville Government  in  addition  to  audits  carried  out  by,  or  on  behalf  of,  the  Auditor-General in the exercise of his powers and the performance of his functions under this Constitution; and
 
 ( b ) shall  make  provision,  within  the  Bougainville  Legislature,  for  a  public  accounts committee which shall receive, consider and make recommendations on reports of audits carried out under Paragraph (a); and
 
@@ -8003,7 +7673,7 @@ In this Division unless the contrary intention appears -
 
 The  general  principles  of  intergovernmental  relations  between  the  National  Government and the Bougainville Government are as follows: -
 
-( a ) that the autonomy arrangements, having been reached through consultation and cooperation, should be implemented in like manner;
+( a ) that the autonomy arrangements, having been reached through consultation and co-operation, should be implemented in like manner;
 
 ( b ) that there be a procedure to avoid, minimize and resolve disputes;
 
@@ -8011,15 +7681,15 @@ The  general  principles  of  intergovernmental  relations  between  the  Nation
 
 ###### 332. JOINT SUPERVISORY BODY.
 
-- There is established a Joint Supervisory Body consisting of -
+(1) There is established a Joint Supervisory Body consisting of -
 
 ( a ) not less than two members appointed by the National Executive Council; and
 
 ( b ) not less than two members appointed by the Bougainville Executive.
 
-- There shall be an equal number of members appointed under Subsection (1)(a) and (b).
+(2) There shall be an equal number of members appointed under Subsection (1)(a) and (b).
 
-- The functions of the Joint Supervisory Body are -
+(3) The functions of the Joint Supervisory Body are -
 
 ( a ) to oversee implementation of the Agreement and of this Part in accordance with the Agreement; and
 
@@ -8087,9 +7757,9 @@ The Courts shall have jurisdiction in a dispute -
 
 [[START OF PAGE 166]]
 
-Constitution of the Independent State of Papua New G 9999
-
 s. 336.
+
+Constitution of the Independent State of Papua New G 9999
 
 ( c ) where the mediation or arbitration procedure fails to resolve the dispute and one or other party wishes to take the matter to Court; and
 
@@ -8311,7 +7981,7 @@ s. 346. Constitution of the Independent State of Papua New G 9999
 
 ( b ) before the second vote in the National Parliament on the amendment in accordance with Section 14 (making of alterations to the Constitution and Organic Laws), on a motion in the Bougainville Legislature for approval of the amendment as presented to the Parliament, there is -
 
-(i) in the case of an amendment to Division 7 or to this Subsection - a twothirds absolute majority vote of members of the Bougainville Legislature in favour of the amendment; and
+(i) in the case of an amendment to Division 7 or to this Subsection - a two-thirds absolute majority vote of members of the Bougainville Legislature in favour of the amendment; and
 
 (ii) in the case of an amendment to this Part, other than to Division 7 or to this Subsection  -  a  simple  majority  vote  of  the  members  of  the  Bougainville Legislature in favour of the amendment.
 
@@ -8347,11 +8017,11 @@ s. 349.
 
 (2)  The  Constitutional  Regulations  under  Subsection  (1)  shall  not  be  made,  amended  or repealed  except  with  the  approval  of  the  Bougainville  Executive  in  accordance  with  the Bougainville Constitution and the Agreement.
 
-- I hereby certify that the above is a fair print of the Constitutional
+1. I hereby certify that the above is a fair print of the Constitutional
 
-- Amendment No.23 - Peace-Building in Bougainville -
+2. Amendment No.23 - Peace-Building in Bougainville -
 
-- Autonomous Bougainville Government and Bougainville
+3. Autonomous Bougainville Government and Bougainville
 
 4.  Referendum  which  has  been  has  been  made  by  the  National Parliament.
 
@@ -8359,7 +8029,7 @@ s. 349.
 
 ### 6. CERTIFICATE UNDER SECTION 14.
 
-- I, BERNARD  NAROKOBI , Speaker of the National Parliament,
+7. I, BERNARD NAROKOBI, Speaker of the National Parliament,
 
 8. hereby certify that the requirements of Section 14(1), (2) and (3) of
 
@@ -8371,9 +8041,9 @@ s. 349.
 
 12.  Bougainville  Referendum and  that  the  law  was  made  by  the National Parliament as follows: -
 
-(a)  the  first  vote  was  taken  on  23  January  2002  when  the number of seats in the National Parliament were 109 and those voting  for  the  proposal  were  86  and  none  voted  against  the proposal; and
+13. (a)  the  first  vote  was  taken  on  23  January  2002  when  the number of seats in the National Parliament were 109 and those voting  for  the  proposal  were  86  and  none  voted  against  the proposal; and
 
-(b)  the  second  vote  was  taken  on  27  March  2002  when  the number  of  seats  in  the  National  Parliament  were  109  and those  for  the  proposal  were  85  and  none  voted  against  the proposal.
+14. (b)  the  second  vote  was  taken  on  27  March  2002  when  the number  of  seats  in  the  National  Parliament  were  109  and those  for  the  proposal  were  85  and  none  voted  against  the proposal.
 
 15.
 
@@ -8505,7 +8175,7 @@ Constitution of the Independent State of Papua New G 9999
 
 'personal  staff' ,  in  relation  to  the  Governor-General,  a  Minister,  the  Leader  of  the Opposition or the Deputy Leader of the Opposition, means the staff supplied to him by or under an Act of the Parliament at the public expense, not being members of the National Public Service in their capacities as such;
 
-'pre-Independence law' has  the  same  meaning as in Section Sch.2.6 ( adoption of preIndependence laws );
+'pre-Independence law' has  the  same  meaning as in Section Sch.2.6 ( adoption of pre-Independence laws );
 
 'the  pre-Independence  Supreme  Court' means  the  pre-Independence  court  known  as the Supreme Court of Papua New Guinea, the Supreme Court of the Territory of Papua  and  New  Guinea  or  the  Supreme  Court  of  the  Territory  of  Papua-New Guinea;
 
@@ -8721,13 +8391,10 @@ Constitution of the Independent State of Papua New G 9999
 
 Sch. 1
 
-( b )
-
-- prevent  the  Ombudsman  Commission  or  any  other  tribunal  established  for  the purpose of that Division from investigating any act,
-
+( b ) prevent the Ombudsman Commission or any other tribunal established for the purpose of that Division from investigating any act,
 to which the repealed provisions were relevant.
 
-(3)  Where  a  Constitutional  Law  or  a  part  of  a  Constitutional  Law  is  repealed  and  reenacted  (with  or  without  modification),  references  in  any  other  law  to  any  of  the  repealed provisions shall, unless the contrary intention appears, be read as a reference to the amended or replacing provision.
+(3)  Where  a  Constitutional  Law  or  a  part  of  a  Constitutional  Law  is  repealed  and  re-enacted  (with  or  without  modification),  references  in  any  other  law  to  any  of  the  repealed provisions shall, unless the contrary intention appears, be read as a reference to the amended or replacing provision.
 
 (4) In this section, 'repeal' includes revocation, suspension and expiry.
 
@@ -8791,6 +8458,8 @@ Sch. 2
 
 ### SCHEDULE 2 - ADOPTION, ETC., OF CERTAIN LAWS.
 
+Sec. 18.
+
 #### PART 1 - CUSTOM.
 
 ##### Sch. 2.1.1.  Recognition, etc., of custom.
@@ -8830,8 +8499,6 @@ Sch. 2
 (3)  The  principles  and  rules  of  common  law  and  equity  are  adopted  as  provided  by Subsections (1) and (2) notwithstanding any revision of them by any statute of England that does not apply in the country by virtue of Section Sch.2.6 ( adoption of pre-Independence laws ).
 
 (4) In relation to any particular question before a court, the operation of Subsection (1)(b) shall be determined by reference, among other things, to the circumstances of the case, including the time and place of any relevant transaction, act or event.
-
-Sec. 18.
 
 - 167 -
 
@@ -9063,6 +8730,8 @@ Constitution of the Independent State of Papua New G 9999
 
 ### SCHEDULE 5 - ADOPTED LAWS OF OTHER COUNTRIES.
 
+Sec. Sch.2.6.
+
 #### PART 1 - AUSTRALIA.
 
 Continental Shelf (Living Natural Resources) Act 1968-Sections 9 and 14 only.
@@ -9104,8 +8773,6 @@ Maritime Conventions Act 1911.
 Merchant Shipping Act 1921 .
 
 Fees (Increase) Act 1923.
-
-Sec. Sch.2.6.
 
 - 174 -
 
