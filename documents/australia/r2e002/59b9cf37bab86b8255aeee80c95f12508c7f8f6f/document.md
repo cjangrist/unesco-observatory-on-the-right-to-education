@@ -24,9 +24,44 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 3]]
 
+Higher Education Support Act 2003                    iii
+
 # Contents
 
-Higher Education Support Act 2003                    iii
+Chapter 1—Introduction 1
+Division 1—Preliminary 1
+1-1 Short title [see Note 1] 1
+1-5 Commencement 1
+1-10 Identifying defined terms 2
+Division 2—Objects 3
+2-1 Objects of this Act 3
+Division 3—Overview of this Act 4
+3-1 General 4
+3-5 Grants for higher education assistance etc. (Chapter 2) 4
+3-10 Assistance to students (Chapter 3) 4
+3-15 Repayment of loans (Chapter 4) 5
+3-20 Administration (Chapter 5) 5
+3-30 VET FEE-HELP Assistance Scheme (Schedule 1A) 5
+Division 5—Application of Act to Table C providers 6
+5-1 Application of Act to Table C providers 6
+Division 6—Schedule 1A 9
+6-1 Schedule 1A 9
+Chapter 2—Grants for higher education assistance etc. 10
+Division 8—Introduction 10
+8-1 What this Chapter is about 10
+Part 2-1—Higher education providers 12
+Division 13—Introduction 12
+13-1 What this Part is about 12
+13-5 The Higher Education Provider Guidelines 12
+Division 16—What is a higher education provider? 13
+Subdivision 16-A—General 13
+16-1 Meaning of higher education provider 13
+16-5 When a body becomes or ceases to be a higher education provider 13
+Subdivision 16-B—Which bodies are listed providers? 13
+16-10 Listed providers 13
+16-15 Table A providers 14
+16-20 Table B providers 15
+16-22 Table C providers 16
 
 ComLaw Authoritative Act C2013C00029
 
@@ -36,6 +71,42 @@ ComLaw Authoritative Act C2013C00029
 
 iv            Higher Education Support Act 2003
 
+Subdivision 16-C—How are bodies approved as higher education providers? 16
+16-25 Approval by the Minister 16
+16-27 Body must be a registered higher education provider 18
+16-30 The tuition assurance requirements 18
+16-31 Tuition assurance requirements exemption for approvals 18
+16-40 Application 18
+16-42 Minister may seek information from TEQSA 19
+16-43 Minister may seek information from relevant VET regulator 19
+16-45 Minister may seek further information 19
+16-50 Minister to decide application 19
+16-55 Approvals are legislative instruments 20
+16-60 Conditions of approval 20
+16-65 Minister to cause higher education provider to be notified of change in condition of approval 20
+Division 19—What are the quality and accountability requirements? 22
+Subdivision 19-A—General 22
+19-1 The quality and accountability requirements 22
+Subdivision 19-B—The financial viability requirements 22
+19-5 Basic requirement 22
+19-10 Financial information must be provided 22
+19-12 Minister to have regard to financial information 23
+Subdivision 19-C—The quality requirements 23
+19-15 Provider must maintain quality 23
+Subdivision 19-D—The fairness requirements 23
+19-30 Basic requirement 23
+19-35 Benefits and opportunities must be available equally to all students 24
+19-37 Requiring membership of certain organisations or payment of certain amounts 24
+19-38 Higher education providers’ expenditure of student services and amenities fees 26
+19-40 Compliance with the tuition assurance requirements 29
+19-45 Student grievance and review procedures 29
+19-50 Higher education providers to appoint review officers 30
+19-55 Review officers not to review own decisions 31
+19-60 Procedures relating to personal information 31
+Subdivision 19-E—The compliance requirements 32
+19-65 Basic requirements 32
+19-67 Special requirements for student services, amenities, representation and advocacy in 2012 and later years 32
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 4]]
@@ -43,6 +114,36 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 5]]
 
 Higher Education Support Act 2003                    v
+
+19-70 Provider to provide statement of general information 33
+19-75 Notice of events that affect provider’s ability to comply with conditions of Commonwealth assistance 33
+19-77 Notice of events affecting accreditation 33
+19-78 Notice of events significantly affecting TEQSA registration 34
+19-80 Compliance assurance—provider (other than Table A provider) 34
+Subdivision 19-F—What are the contribution and fee requirements? 35
+19-85 Basic requirement 35
+19-87 Determining student contribution amounts for all places in units 35
+19-90 Determining tuition fees for all students 36
+19-95 Schedules of student contribution amounts for places and tuition fees 36
+19-100 Limits on fees for courses of study 38
+19-102 Meaning of fee 38
+19-105 Meaning of tuition fee 39
+Subdivision 19-G—The compact and academic freedom requirements 39
+19-110 Table A providers and Table B providers must enter into mission based compacts 39
+19-115 Provider to have policy upholding free intellectual inquiry 40
+Division 22—When does a body cease to be a higher education provider? 41
+Subdivision 22-A—General 41
+22-1 Cessation of approval as a provider 41
+Subdivision 22-B—Revocation for cause 41
+22-5 Revocation of approval if application for approval as a provider is false or misleading 41
+22-7 Revocation of approval if providing education and/or conducting research ceases to be the body’s principal purpose 41
+22-10 Revocation of approval if status or accreditation changes 42
+22-15 Revocation of approval as a provider for a breach of conditions or the quality and accountability requirements 44
+22-17 Revocation of approval as a provider if provider etc. not a fit and proper person 45
+Subdivision 22-C—Process for decisions on revocation under Subdivision 22-B 45
+22-20 Process for revoking approval 45
+22-22 Minister may seek information from TEQSA 46
+22-23 Minister may seek information from relevant VET regulator 47
 
 ComLaw Authoritative Act C2013C00029
 
@@ -52,6 +153,39 @@ ComLaw Authoritative Act C2013C00029
 
 vi            Higher Education Support Act 2003
 
+22-25 Determination retaining approval as a provider in respect of existing students 47
+22-30 Suspension of approval as a provider 47
+22-32 Determination retaining approval as a provider in respect of existing students following suspension of approval 48
+Subdivision 22-D—Revocation of approval on application 49
+22-40 Revocation of approval as a provider on application 49
+Subdivision 22-E—Notice of approval or revocation ceasing to have effect under the Legislative Instruments Act 2003 50
+22-45 Notice of approval ceasing to have effect under the Legislative Instruments Act 2003 50
+22-50 Notice of revocation ceasing to have effect under the Legislative Instruments Act 2003 51
+Part 2-2—Commonwealth Grant Scheme 52
+Division 27—Introduction 52
+27-1 What this Part is about 52
+27-5 Guidelines 52
+Division 30—Which higher education providers are eligible for a grant? 53
+Subdivision 30-A—Basic rules 53
+30-1 Eligibility for grants 53
+Subdivision 30-B—Allocation of places 54
+30-10 Allocation of places 54
+30-12 Designated courses of study 54
+30-15 Funding clusters 55
+30-20 National priorities 55
+Subdivision 30-C—Funding agreements 56
+30-25 Funding agreements 56
+30-27 Funding agreement may specify maximum basic grant amounts 57
+30-28 Funding agreement to be published 58
+Division 33—How are grant amounts worked out? 59
+Subdivision 33-A—Basic rule 59
+33-1 How grant amount is worked out 59
+Subdivision 33-B—Basic grant amounts 59
+33-5 Basic grant amounts 59
+33-10 Commonwealth contribution amounts 62
+33-30 Working out the number of Commonwealth supported places provided 63
+33-35 Funding clusters in which units of study are included 64
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 6]]
@@ -59,6 +193,38 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 7]]
 
 Higher Education Support Act 2003                    vii
+
+Subdivision 33-C—Adjustments 64
+33-37 Adjustments for breach of section 19-37 64
+Subdivision 33-D—Special purpose advances 66
+33-40 Advances for certain purposes 66
+Division 36—What are the conditions of receiving a grant? 67
+Subdivision 36-A—General 67
+36-1 Condition of grant to comply with this Division 67
+Subdivision 36-B—Conditions relating to Commonwealth supported students 67
+36-5 Meaning of Commonwealth supported student 67
+36-10 Advice on whether a person is a Commonwealth supported student 68
+36-15 Persons not to be advised they are Commonwealth supported 71
+36-20 Providers to repay amounts—special circumstances 72
+36-21 Special circumstances 73
+36-22 Application period 74
+36-23 Dealing with applications 74
+36-24A Providers to repay amounts—provider ceases to provide course 75
+36-24B Providers to repay amounts—no tax file numbers 75
+36-24C Secretary may act if provider is unable to 76
+Subdivision 36-C—Conditions relating to enrolment 76
+36-25 Continued support for Commonwealth supported students 76
+36-30 Providers to enrol persons as Commonwealth supported students 77
+36-40 Providers to cancel enrolments in certain circumstances 79
+Subdivision 36-D—Conditions relating to student contribution amounts 80
+36-45 Limits on student contribution amounts 80
+36-50 Provider must not accept up-front payments of more than 90% of student contribution amounts 80
+Subdivision 36-E—Conditions relating to tuition fees 80
+36-55 Tuition fees for non-Commonwealth supported students 80
+Subdivision 36-F—Other conditions 81
+36-60 Providers to meet the quality and accountability requirements 81
+36-65 Providers to comply with funding agreement 81
+36-70 Providers to comply with the Commonwealth Grant Scheme Guidelines 82
 
 ComLaw Authoritative Act C2013C00029
 
@@ -68,6 +234,42 @@ ComLaw Authoritative Act C2013C00029
 
 viii            Higher Education Support Act 2003
 
+Part 2-3—Other grants 83
+Division 41—Other grants 83
+41-1 What this Part is about 83
+41-5 The Other Grants Guidelines 83
+41-10 Eligibility for grants under this Part 83
+41-15 Grants may be paid under programs 85
+41-20 Approval of grants 86
+41-25 Conditions on grants 86
+41-30 Amount of a grant 86
+41-35 Amounts payable under this Part 87
+41-40 Rollover of grant amounts 87
+41-45 Maximum payments for other grants under this Part 88
+41-50 List of maximum grant amounts 89
+Part 2-4—Commonwealth scholarships 90
+Division 46—Commonwealth scholarships 90
+46-1 What this Part is about 90
+46-5 The Commonwealth Scholarships Guidelines 90
+46-10 Classes of Commonwealth scholarships 90
+46-13 Eligibility of students to receive directly-paid standard Commonwealth scholarships 90
+46-15 Eligibility of higher education providers to receive grants for certain Commonwealth scholarships 91
+46-20 Other matters relating to Commonwealth scholarships 92
+46-25 Condition of grants 93
+46-30 Amounts payable under this Part 94
+46-35 Rollover of grant amounts 94
+46-40 Maximum payments for Commonwealth scholarships 94
+Part 2-5—Reduction and repayment of grants 97
+Division 51—Introduction 97
+51-1 What this Part is about 97
+51-5 The Reduction and Repayment Guidelines 97
+Division 54—In what circumstances may a grant be reduced or required to be repaid? 98
+54-1 Decision as to reduction or repayment of a grant 98
+54-5 Appropriateness of requiring reduction or repayment of grant 98
+Division 57—What is the amount of a reduction or repayment? 100
+57-1 Reduction in amount of grants 100
+57-5 Amount of the repayment 100
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 8]]
@@ -75,6 +277,39 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 9]]
 
 Higher Education Support Act 2003                    ix
+
+Division 60—How are decisions reducing a grant or requiring repayment of a grant made? 101
+60-1 Procedure prior to decision 101
+60-5 Notification of decision 101
+60-10 When a decision takes effect 102
+Chapter 3—Assistance to students 103
+Division 65—Introduction 103
+65-1 What this Chapter is about 103
+Part 3-2—HECS-HELP assistance 105
+Division 87—Introduction 105
+87-1 What this Part is about 105
+87-5 The HECS-HELP Guidelines 105
+Division 90—Who is entitled to HECS-HELP assistance? 106
+90-1 Entitlement to HECS-HELP assistance 106
+90-5 Citizenship or residency requirements 106
+90-10 Students not entitled to HECS-HELP assistance 107
+Division 93—How are amounts of HECS-HELP assistance worked out? 108
+93-1 The amount of HECS-HELP assistance for a unit of study 108
+93-5 Student contribution amounts 108
+93-10 Maximum student contribution amounts for places 109
+93-15 Up-front payments 110
+Division 96—How are amounts of HECS-HELP assistance paid? 111
+96-1 Payments to higher education providers—no up-front payment of student contribution amount 111
+96-5 Payments to higher education providers—partial up-front payment of student contribution amount 111
+96-10 Payments to higher education providers—full up-front payment of student contribution amount 113
+Part 3-3—FEE-HELP assistance 114
+Division 101—Introduction 114
+101-1 What this Part is about 114
+101-5 The FEE-HELP Guidelines 114
+Division 104—Who is entitled to FEE-HELP assistance? 115
+Subdivision 104-A—Basic rules 115
+104-1 Entitlement to FEE-HELP assistance 115
+104-2 Failure by a student to complete previous units accessed through Open Universities Australia 116
 
 ComLaw Authoritative Act C2013C00029
 
@@ -84,6 +319,41 @@ ComLaw Authoritative Act C2013C00029
 
 x            Higher Education Support Act 2003
 
+104-3 Failure by Open Universities Australia to comply with FEE-HELP Guidelines etc. 116
+104-4 Failure by Open Universities Australia to set tuition fees and census date 117
+104-5 Citizenship or residency requirements 119
+104-10 Course requirements 120
+Subdivision 104-B—FEE-HELP balances 121
+104-15 A person’s FEE-HELP balance 121
+104-20 The FEE-HELP limit 121
+104-25 Main case of re-crediting a person’s FEE-HELP balance 122
+104-27 Re-crediting a person’s FEE-HELP balance—no tax file number 123
+104-30 Special circumstances 124
+104-35 Application period 124
+104-40 Dealing with applications 125
+104-42 Re-crediting a person’s FEE-HELP balance if provider ceases to provide course of which unit forms part 126
+Subdivision 104-C—Bridging courses for overseas-trained professionals 127
+104-45 Meaning of bridging course for overseas-trained professionals 127
+104-50 Assessment statements 129
+104-55 Meaning of assessing body 130
+104-60 Meaning of listed professional occupations 130
+104-65 Occupation includes part of an occupation 130
+104-70 Requirements for entry to an occupation 131
+Division 107—How are amounts of FEE-HELP assistance worked out? 132
+107-1 The amount of FEE-HELP assistance for a unit of study 132
+107-5 Up-front payments 132
+107-10 Amounts of FEE-HELP assistance and VET FEE-HELP assistance must not exceed the FEE-HELP balance 132
+Division 110—How are amounts of FEE-HELP assistance paid? 135
+110-1 Payments 135
+110-5 Effect of FEE-HELP balance being re-credited 135
+Part 3-4—OS-HELP assistance 137
+Division 115—Introduction 137
+115-1 What this Part is about 137
+115-5 The OS-HELP Guidelines 137
+Division 118—Who is entitled to OS-HELP assistance? 138
+118-1 Entitlement to OS-HELP assistance 138
+118-5 Citizenship or residency requirements 139
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 10]]
@@ -91,6 +361,41 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 11]]
 
 Higher Education Support Act 2003                    xi
+
+118-7 Prior study requirements 139
+118-10 Overseas study requirements 139
+118-15 Selection of students for receipt of OS-HELP assistance 140
+Division 121—How are amounts of OS-HELP assistance worked out? 141
+121-1 The amount of OS-HELP assistance for a period 141
+121-5 Maximum OS-HELP amount 141
+121-10 Minimum OS-HELP amounts 141
+Division 124—How are amounts of OS-HELP assistance paid? 142
+124-1 Amounts of OS-HELP assistance are lent to students 142
+Part 3-5—SA-HELP assistance 143
+Division 125—Introduction 143
+125-1 What this Part is about 143
+Division 126—Who is entitled to SA-HELP assistance? 144
+126-1 Entitlement to SA-HELP assistance 144
+126-5 Citizenship or residency requirements 144
+Division 127—How are amounts of SA-HELP assistance worked out? 146
+127-1 The amount of SA-HELP assistance for a student services and amenities fee 146
+Division 128—How are amounts of SA-HELP assistance paid? 147
+128-1 Payments to higher education providers of loans to students 147
+128-5 Repayment by higher education provider if student does not have tax file number 147
+Chapter 4—Repayment of loans 148
+Division 129—Introduction 148
+129-1 What this Chapter is about 148
+Part 4-1—Indebtedness 149
+Division 134—Introduction 149
+134-1 What this Part is about 149
+Division 137—How do HELP debts arise? 150
+137-1 HELP debts 150
+137-5 HECS-HELP debts 150
+137-10 FEE-HELP debts 151
+137-15 OS-HELP debts 151
+137-16 SA-HELP debts 152
+137-18 VET FEE-HELP debts 153
+137-20 HELP debt discharged by death 153
 
 ComLaw Authoritative Act C2013C00029
 
@@ -100,6 +405,46 @@ ComLaw Authoritative Act C2013C00029
 
 xii            Higher Education Support Act 2003
 
+Division 140—How are accumulated HELP debts worked out? 155
+Subdivision 140-A—Outline of this Division 155
+140-1 Outline of this Division 155
+Subdivision 140-B—Former accumulated HELP debts 156
+140-5 Working out a former accumulated HELP debt 156
+140-10 HELP debt indexation factor 159
+140-15 Index numbers 160
+140-20 Publishing HELP debt indexation factors 161
+Subdivision 140-C—Accumulated HELP debts 161
+140-25 Working out an accumulated HELP debt 161
+140-30 Rounding of amounts 163
+140-35 Accumulated HELP debt discharges earlier debts 164
+140-40 Accumulated HELP debt discharged by death 164
+Part 4-2—Discharge of indebtedness 165
+Division 148—Introduction 165
+148-1 What this Part is about 165
+148-5 The HECS-HELP Benefit Guidelines 165
+Division 151—How is indebtedness voluntarily discharged? 166
+151-1 Voluntary repayments in respect of debts 166
+151-5 Voluntary repayment bonus relating to HELP debts 166
+151-10 Application of voluntary repayments 167
+151-15 Refunding of payments 167
+Division 154—How is indebtedness compulsorily discharged? 169
+Subdivision 154-A—Liability to repay amounts 169
+154-1 Liability to repay amounts 169
+154-3 Reduction of liability by HECS-HELP benefit 169
+154-5 Repayment income 170
+154-10 Minimum repayment income 170
+154-15 Repayable debt for an income year 171
+Subdivision 154-B—Amounts payable to the Commonwealth 171
+154-20 Amounts payable to the Commonwealth 171
+154-25 Indexation 173
+154-30 Publishing indexed amounts 173
+Subdivision 154-C—Assessments 174
+154-35 Commissioner may make assessments 174
+154-40 Notification of notices of assessment of tax 174
+154-45 Commissioner may defer making assessments 175
+154-50 Commissioner may amend assessments 175
+154-55 Higher education providers etc. to provide information to Commissioner 176
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 12]]
@@ -107,6 +452,41 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 13]]
 
 Higher Education Support Act 2003                    xiii
+
+Subdivision 154-D—Application of tax legislation 177
+154-60 Returns, assessments, collection and recovery 177
+154-65 Charges and civil penalties for failing to meet obligations 177
+154-70 Pay as you go (PAYG) withholding 178
+154-80 Pay as you go (PAYG) instalments 178
+154-85 Reduction of compulsory repayment amount by HECS-HELP benefit 178
+Division 157—HECS-HELP benefit 179
+Subdivision 157-A—Who is eligible for the HECS-HELP benefit? 179
+157-1 Application for the HECS-HELP benefit 179
+157-10 Providing application to Commissioner 179
+Subdivision 157-B—What is the amount of the HECS-HELP benefit? 179
+157-15 Amount of HECS-HELP benefit 179
+Subdivision 157-C—Determination of applications 179
+157-20 Commissioner must determine application 179
+157-25 Notifying applicant of determination 180
+157-30 Review of determinations 180
+Chapter 5—Administration 181
+Division 159—Introduction 181
+159-1 What this Chapter is about 181
+159-5 The Administration Guidelines 181
+Part 5-1—Payments by the Commonwealth 182
+Division 164—Payments by the Commonwealth 182
+164-1 What this Part is about 182
+164-5 Time and manner of payments 182
+164-10 Advances 182
+164-15 Overpayments of Commonwealth grants 183
+164-17 Overpayments of Commonwealth scholarships to students 183
+164-18 Repayment of Commonwealth scholarships paid to students—breach of condition 184
+164-20 Rounding of amounts 184
+Part 5-2—Administrative requirements on higher education providers 185
+Division 169—Administrative requirements on higher education providers 185
+169-1 What this Part is about 185
+169-5 Notices 185
+169-10 Correction of notices 186
 
 ComLaw Authoritative Act C2013C00029
 
@@ -116,6 +496,42 @@ ComLaw Authoritative Act C2013C00029
 
 xiv            Higher Education Support Act 2003
 
+169-15 Charging student contribution amounts and tuition fees 187
+169-20 Exempt students 188
+169-25 Determining census dates and EFTSL values 190
+169-27 Meaning of EFTSL 191
+169-28 Meaning of EFTSL value 191
+169-30 Communications with the Commonwealth concerning students etc. 192
+169-35 6 week cut off for corrections affecting entitlement to Commonwealth assistance 193
+Part 5-3—Electronic communications 194
+Division 174—Electronic communications 194
+174-1 What this Part is about 194
+174-5 Guidelines may deal with electronic communications 194
+Part 5-4—Management of information 196
+Division 179—Protection of personal information 196
+179-1 What this Division is about 196
+179-5 Meaning of personal information 196
+179-10 Use of personal information 196
+179-15 Meanings of officer etc. and official employment 197
+179-20 When information is disclosed in the course of official employment 199
+179-25 Commissioner may disclose information 200
+179-30 Oath or affirmation to protect information 201
+179-35 Unauthorised access to, or modification of, personal information 201
+179-40 Officer may use information 202
+179-45 This Division does not limit disclosure or use of information 202
+Division 180—Other rules about information 203
+180-1 What this Division is about 203
+180-5 Meaning of Higher Education Support Act information 203
+180-10 Disclosure and use by Commonwealth officers 203
+180-15 Disclosure of information to TEQSA 203
+180-20 Disclosure of information to the National VET Regulator 204
+180-25 Disclosure of information to other bodies 204
+180-30 Use of information to conduct surveys 206
+180-35 This Division does not limit disclosure or use of information 206
+Part 5-5—Tax file numbers 207
+Division 184—Introduction 207
+184-1 What this Part is about 207
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 14]]
@@ -123,6 +539,39 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 15]]
 
 Higher Education Support Act 2003                    xv
+
+Division 187—What are the tax file number requirements for assistance under Chapter 3? 208
+187-1 Meeting the tax file number requirements 208
+187-2 Who is an appropriate officer? 210
+187-5 Student to notify tax file number when issued 211
+Division 190—In what circumstances can higher education providers and Open Universities Australia be notified of tax file number matters? 212
+190-1 When tax file numbers are issued etc. 212
+190-5 When tax file numbers are altered 212
+190-10 When tax file numbers are incorrectly notified—students with tax file numbers 213
+190-15 When tax file numbers are incorrectly notified—students without tax file numbers 213
+190-20 When applications are refused or tax file numbers are cancelled 214
+Division 193—Other provisions relating to tax file numbers 216
+193-1 Giving information about tax file number requirements 216
+193-5 No entitlement to HECS-HELP assistance for students without tax file numbers 219
+193-10 No entitlement to FEE-HELP assistance for students without tax file numbers 220
+193-15 No entitlement to SA-HELP assistance for students without tax file numbers 221
+Part 5-6—Indexation 223
+Division 198—Indexation 223
+198-1 What this Part is about 223
+198-5 The amounts that are to be indexed 223
+198-10 Indexing amounts 224
+198-15 Meaning of indexation factor 224
+198-20 Meaning of index number 224
+Part 5-7—Review of decisions 226
+Division 203—Introduction 226
+203-1 What this Part is about 226
+Division 206—Which decisions are subject to review? 227
+206-1 Reviewable decisions etc. 227
+206-5 Deadlines for making reviewable decisions 228
+206-10 Decision maker must give reasons for reviewable decisions 229
+Division 209—How are decisions reconsidered? 230
+209-1 Reviewer of decisions 230
+209-5 Reviewer may reconsider reviewable decisions 230
 
 ComLaw Authoritative Act C2013C00029
 
@@ -132,6 +581,44 @@ ComLaw Authoritative Act C2013C00029
 
 xvi            Higher Education Support Act 2003
 
+209-10 Reconsideration of reviewable decisions on request 231
+Division 212—Which decisions are subject to AAT review? 233
+212-1 AAT review of reviewable decisions 233
+Chapter 7—Miscellaneous 234
+238-1 Delegations by Secretary 234
+238-5 Delegations by Minister 234
+238-7 Review of impact of Act 235
+238-8 Extent of Commissioner’s general administration of this Act 235
+238-10 Guidelines 235
+238-12 Appropriation 236
+238-15 Regulations 236
+Schedule 1A—VET FEE-HELP Assistance Scheme 238
+1 What this Schedule is about 238
+Part 1—VET providers 239
+Division 1—Introduction 239
+2 What this Part is about 239
+3 The VET Guidelines 239
+Division 3—What is a VET provider? 240
+Subdivision 3-A—General 240
+4 Meaning of VET provider 240
+5 When a body becomes or ceases to be a VET provider 240
+Subdivision 3-B—How are bodies approved as VET providers? 240
+6 Approval by the Minister 240
+7 The VET tuition assurance requirements 242
+8 VET tuition assurance requirements exemption for approvals 242
+9 Application 242
+9A Minister may seek information from relevant VET Regulator 243
+9B Minister may seek information from TEQSA 243
+10 Minister may seek further information 243
+11 Minister to decide application 243
+12 Approvals are legislative instruments 244
+12A Conditions of approval 245
+12B Minister to cause VET provider to be notified of change in condition of approval 245
+Division 4—What are the VET quality and accountability requirements? 246
+Subdivision 4-A—General 246
+13 The VET quality and accountability requirements 246
+Subdivision 4-B—The VET financial viability requirements 246
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 16]]
@@ -139,6 +626,39 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 17]]
 
 Higher Education Support Act 2003                    xvii
+
+14 Basic requirement 246
+15 Financial information must be provided 246
+16 Minister to have regard to financial information 247
+Subdivision 4-C—The VET quality requirements 247
+17 Provider must maintain quality 247
+Subdivision 4-D—The VET fairness requirements 248
+18 Equal benefits and opportunity requirements 248
+19 Student grievance and review requirements 248
+20 Tuition assurance requirements 248
+21 VET providers to appoint review officers 248
+22 Review officers not to review own decisions 249
+23 Procedures relating to personal information 249
+Subdivision 4-E—The VET compliance requirements 250
+24 VET provider to provide statement of general information 250
+25 Notice of events that affect provider’s ability to comply with VET quality and accountability requirements 250
+25A Copy of notice given to National VET Regulator about material changes 251
+26 Compliance assurance—provider 251
+Subdivision 4-F—The VET fee requirements 252
+27 Determining tuition fees for all students 252
+27A Requirements in the VET Guidelines 252
+28 Schedules of VET tuition fees 253
+Division 5—When does a body cease to be a VET provider? 255
+Subdivision 5-A—General 255
+29 Cessation of approval as a provider 255
+29A Minister to notify relevant VET Regulator of cessation of approval 255
+Subdivision 5-B—Revocation for cause 255
+30 Revocation of approval if application for approval as a provider is false or misleading 255
+30A Revocation of approval if body’s links to Australia are broken 255
+31 Revocation of approval if providing education ceases to be the body’s principal purpose 256
+32 Revocation of approval as a provider if body ceases to be a registered training organisation 256
+32A Revocation of approval if body ceases to offer VET courses of study 256
+33 Revocation of approval as a provider for a breach of the VET quality and accountability requirements or of conditions 256
 
 ComLaw Authoritative Act C2013C00029
 
@@ -148,6 +668,37 @@ ComLaw Authoritative Act C2013C00029
 
 xviii            Higher Education Support Act 2003
 
+33A Revocation of approval as a provider if provider etc. not a fit and proper person 257
+Subdivision 5-C—Process for decisions on revocation under Subdivision 5-B 258
+34A Minister may seek information from relevant VET Regulator 258
+34B Minister may seek information from TEQSA 258
+34 Process for revoking approval 258
+35 Determination retaining approval as a provider in respect of existing students 259
+36 Suspension of approval as a provider 260
+37 Determination retaining approval as a provider in respect of existing students following suspension of approval 261
+Subdivision 5-D—Revocation of approval on application 261
+39 Revocation of approval as a provider on application 261
+Subdivision 5-E—Notice of approval or revocation ceasing to have effect under the Legislative Instruments Act 2003 262
+39A Notice of approval ceasing to have effect under the Legislative Instruments Act 2003 262
+39B Notice of revocation ceasing to have effect under the Legislative Instruments Act 2003 263
+Part 2—VET FEE-HELP assistance 264
+Division 6—Introduction 264
+40 What this Part is about 264
+41 The VET Guidelines 264
+Division 7—Who is entitled to VET FEE-HELP assistance? 265
+Subdivision 7-A—Basic rules 265
+43 Entitlement to VET FEE-HELP assistance 265
+44 Citizenship or residency requirements 266
+45 Course requirements 266
+45A VET unit of study not undertaken as part of VET course of study 267
+Subdivision 7-B—FEE-HELP balances 267
+46 Main case of re-crediting a person’s FEE-HELP balance 267
+47 Re-crediting a person’s FEE-HELP balance—no tax file number 268
+48 Special circumstances 269
+49 Application period 269
+50 Dealing with applications 269
+51 Re-crediting a person’s FEE-HELP balance if provider ceases to provide course of which unit forms part 270
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 18]]
@@ -155,6 +706,41 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 19]]
 
 Higher Education Support Act 2003                    xix
+
+Division 8—How are amounts of VET FEE-HELP assistance worked out? 271
+52 The amount of VET FEE-HELP assistance for a VET unit of study 271
+53 Up-front payments 271
+54 Amounts of VET FEE-HELP assistance and FEE-HELP assistance must not exceed the FEE-HELP balance 271
+Division 9—How are amounts of VET FEE-HELP assistance paid? 273
+55 Payments 273
+56 Effect of FEE-HELP balance being re-credited 273
+Part 3—Administration 275
+Division 10—Introduction 275
+57 What this Part is about 275
+58 The VET Guidelines 275
+Division 11—Payments by the Commonwealth 276
+59 What this Division is about 276
+60 Time and manner of payments 276
+61 Advances 276
+62 Rounding of amounts 278
+Division 12—Administrative requirements on VET providers 279
+63 What this Division is about 279
+64 Notices 279
+65 Correction of notices 280
+66 Charging VET tuition fees 281
+67 Determining census dates 281
+68 Communications with the Commonwealth concerning students etc. 282
+Division 13—Electronic communications 283
+69 What this Division is about 283
+70 Guidelines may deal with electronic communications 283
+Division 14—Management of information 285
+71 What this Division is about 285
+72 Meaning of VET personal information 285
+73 Use of VET personal information 285
+74 Meanings of VET officer etc. and official employment 286
+75 When information is disclosed in the course of official employment 286
+76 Commissioner may disclose information 287
+77 Oath or affirmation to protect information 288
 
 ComLaw Authoritative Act C2013C00029
 
@@ -164,6 +750,39 @@ ComLaw Authoritative Act C2013C00029
 
 xx            Higher Education Support Act 2003
 
+78 Unauthorised access to, or modification of, VET personal information 288
+78A Officer may use information 289
+78B This Division does not limit disclosure or use of information 289
+Division 15—Tax file numbers 290
+Subdivision 15-A—Introduction 290
+79 What this Division is about 290
+Subdivision 15-B—What are the tax file number requirements for assistance under Part 2? 290
+80 Meeting the tax file number requirements 290
+81 Who is an appropriate officer? 291
+82 Student to notify tax file number when issued 291
+Subdivision 15-C—In what circumstances can VET providers be notified of tax file number matters? 292
+83 When tax file numbers are issued etc. 292
+84 When tax file numbers are altered 292
+85 When tax file numbers are incorrectly notified—students with tax file numbers 292
+86 When tax file numbers are incorrectly notified—students without tax file numbers 293
+87 When applications are refused or tax file numbers are cancelled 293
+Subdivision 15-D—Other provisions relating to tax file numbers 294
+88 Giving information about tax file number requirements 294
+89 No entitlement to VET FEE-HELP assistance for students without tax file numbers 295
+Division 16—Review of decisions 296
+Subdivision 16-A—Introduction 296
+90 What this Division is about 296
+Subdivision 16-B—Which decisions are subject to review? 296
+91 Reviewable VET decisions etc. 296
+92 Deadlines for making reviewable VET decisions 297
+93 Decision maker must give reasons for reviewable VET decisions 297
+Subdivision 16-C—How are decisions reconsidered? 298
+94 Reviewer of decisions 298
+95 Reviewer may reconsider reviewable VET decisions 298
+96 Reconsideration of reviewable VET decisions on request 299
+Subdivision 16-D—Which decisions are subject to AAT review? 300
+97 AAT review of reviewable VET decisions 300
+
 ComLaw Authoritative Act C2013C00029
 
 [[END OF PAGE 20]]
@@ -171,6 +790,13 @@ ComLaw Authoritative Act C2013C00029
 [[START OF PAGE 21]]
 
 Higher Education Support Act 2003                    xxi
+
+Part 4—Miscellaneous 301
+98 Delegations by Secretary 301
+99 VET Guidelines 301
+Schedule 1—Dictionary 302
+1 Definitions 302
+Notes 321
 
 ComLaw Authoritative Act C2013C00029
 
@@ -184,19 +810,25 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 23]]
 
+_____________________________________
+
+*To find definitions of asterisked terms, see the Dictionary in Schedule 1.
+
+Higher Education Support Act 2003                    1
+
 # An Act relating to the funding of higher education, and for other purposes
 
-# Chapter 1-Introduction
+# Chapter 1—Introduction
 
-### Division 1-Preliminary
+### Division 1—Preliminary
 
-##### 1-1  Short title [ see Note 1]
+##### 1-1  Short title [see Note 1]
 
-This Act may be cited as the Higher Education Support Act 2003 .
+This Act may be cited as the Higher Education Support Act 2003.
 
 ##### 1-5  Commencement
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 Commencement information
 --- | --- | ---
@@ -204,12 +836,6 @@ Column 1 Provision(s) | Column 2 Commencement | Column 3 Date/Details
 1. Sections 1-1 and 1-5 and anything in this Act not elsewhere covered by this table | The day on which this Act receives the Royal Assent. | 19 December 2003
 2. Sections 1-10 to 238-15 | The later of: (a) 1 January 2004; and (b) the day after the day on which this Act receives the Royal Assent. | 1 January 2004
 3. Schedule 1 | The later of: (a) 1 January 2004; and (b) the day after the day on which this Act receives the Royal Assent. | 1 January 2004
-
-_____________________________________
-
-* To find definitions of asterisked terms, see the Dictionary in Schedule 1.
-
-Higher Education Support Act 2003                    1
 
 ComLaw Authoritative Act C2013C00029
 
@@ -223,23 +849,29 @@ Division 1 Preliminary
 
 Section 1-10
 
+_____________________________________
+
+*To find definitions of asterisked terms, see the Dictionary in Schedule 1.
+
+2            Higher Education Support Act 2003
+
 Note: This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
-- Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
+(2) Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
 ##### 1-10  Identifying defined terms
 
-- Many of the terms in this Act are defined in the Dictionary in Schedule 1.
+(1) Many of the terms in this Act are defined in the Dictionary in Schedule 1.
 
-- Most of the terms that are defined in the Dictionary in Schedule 1 are identified by an asterisk appearing at the start of the term: as in ' * accredited course'. The footnote with the asterisk contains a signpost to the Dictionary.
+(2) Most of the terms that are defined in the Dictionary in Schedule 1 are identified by an asterisk appearing at the start of the term: as in “*accredited course”. The footnote with the asterisk contains a signpost to the Dictionary.
 
-- An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection or definition. Later occurrences of the term in the same provision are not usually asterisked.
+(3) An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection or definition. Later occurrences of the term in the same provision are not usually asterisked.
 
-- Terms are not asterisked in headings, notes, examples, explanatory tables, guides, outline provisions or diagrams.
+(4) Terms are not asterisked in headings, notes, examples, explanatory tables, guides, outline provisions or diagrams.
 
-- If a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
+(5) If a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
 
-- The following basic terms used throughout the Act are not identified with an asterisk:
+(6) The following basic terms used throughout the Act are not identified with an asterisk:
 
 Terms that are not identified
 --- | --- | ---
@@ -248,12 +880,6 @@ Item | This term: | is defined in:
 2 | higher education provider | section 16-1
 3 | student | Schedule 1
 4 | unit of study | Schedule 1
-
-_____________________________________
-
-* To find definitions of asterisked terms, see the Dictionary in Schedule 1.
-
-> 2            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -267,17 +893,41 @@ Objects Division 2
 
 Section 2-1
 
-### Division 2-Objects
+_____________________________________
+
+*To find definitions of asterisked terms, see the Dictionary in Schedule 1.
+
+Higher Education Support Act 2003                    3
+
+### Division 2—Objects
 
 ##### 2-1  Objects of this Act
 
-The objects of this Act are: (a)  to support a higher education system that: (i)  is characterised by quality, diversity and equity of access; and (ii)  contributes to the development of cultural and intellectual life in Australia; and (iii)  is appropriate to meet Australia's social and economic needs for a highly educated and skilled population; and (iv)  promotes and protects free intellectual inquiry in learning, teaching and research; and (b)  to support the distinctive purposes of universities, which are: (i)  the education of persons, enabling them to take a leadership role in the intellectual, cultural, economic and social development of their communities; and (ii)  the creation and advancement of knowledge; and (iii)  the application of knowledge and discoveries to the betterment of communities in Australia and internationally; recognising that universities are established under laws of the Commonwealth, the States and the Territories that empower them to achieve their objectives as autonomous institutions through governing bodies that are responsible for both the university's overall performance and its ongoing independence; and (c)  to strengthen Australia's knowledge base, and enhance the contribution of Australia's research capabilities to national economic development, international competitiveness and the attainment of social goals; and (d)  to support students undertaking higher education and certain vocational education and training.
+The objects of this Act are:
 
-_____________________________________
+(a) to support a higher education system that:
 
-* To find definitions of asterisked terms, see the Dictionary in Schedule 1.
+(i) is characterised by quality, diversity and equity of access; and
 
-Higher Education Support Act 2003                    3
+(ii) contributes to the development of cultural and intellectual life in Australia; and
+
+(iii) is appropriate to meet Australia’s social and economic needs for a highly educated and skilled population; and
+
+(iv) promotes and protects free intellectual inquiry in learning, teaching and research; and
+
+(b) to support the distinctive purposes of universities, which are:
+
+(i) the education of persons, enabling them to take a leadership role in the intellectual, cultural, economic and social development of their communities; and
+
+(ii) the creation and advancement of knowledge; and
+
+(iii) the application of knowledge and discoveries to the betterment of communities in Australia and internationally;
+
+recognising that universities are established under laws of the Commonwealth, the States and the Territories that empower them to achieve their objectives as autonomous institutions through governing bodies that are responsible for both the university’s overall performance and its ongoing independence; and
+
+(c) to strengthen Australia’s knowledge base, and enhance the contribution of Australia’s research capabilities to national economic development, international competitiveness and the attainment of social goals; and
+
+(d) to support students undertaking higher education and certain vocational education and training.
 
 ComLaw Authoritative Act C2013C00029
 
@@ -291,7 +941,7 @@ Division 3 Overview of this Act
 
 Section 3-1
 
-### Division 3-Overview of this Act
+### Division 3—Overview of this Act
 
 ##### 3-1  General
 
@@ -357,17 +1007,17 @@ Division 5 Application of Act to Table C providers
 
 Section 5-1
 
-### Division 5-Application of Act to Table C providers
+### Division 5—Application of Act to Table C providers
 
 ##### 5-1  Application of Act to Table C providers
 
 ###### General application to Table C providers
 
-- The provisions of this Act not listed in the table in subsection (2) or in subsection (4) apply to a  * Table C provider, the  * Australian branch of the provider and to students undertaking or proposing to undertake units of study at that branch.
+(1)  The provisions of this Act not listed in the table in subsection (2) or in subsection (4) apply to a *Table C provider, the *Australian branch of the provider and to students undertaking or proposing to undertake units of study at that branch.
 
 ###### Modified application to Table C providers
 
-- The provisions of this Act listed in the table apply to a  * Table C provider in the way set out in the table.
+(2)  The provisions of this Act listed in the table apply to a *Table C provider in the way set out in the table.
 
 Application of Act to Table C providers
 --- | --- | ---
@@ -409,11 +1059,11 @@ Item | Provision | Application
 
 ###### Provisions that do not apply to Table C providers
 
-- The provisions of this Act listed in subsection (4) do not apply to:
+(3)  The provisions of this Act listed in subsection (4) do not apply to:
 
-(a)  a  * Table C provider; or
+(a)  a *Table C provider; or
 
-(b)  the  * Australian branch of the provider; or
+(b)  the *Australian branch of the provider; or
 
 _____________________________________
 
@@ -427,9 +1077,7 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 30]]
 
-Introduction
-
-Chapter 1
+Chapter 1 Introduction
 
 Division 5
 
@@ -455,7 +1103,7 @@ Introduction Chapter 1 Schedule 1A Division 6
 
 Section 6-1
 
-### Division 6-Schedule 1A
+### Division 6—Schedule 1A
 
 ##### 6-1  Schedule 1A
 
@@ -479,9 +1127,9 @@ Division 8 Introduction
 
 Section 8-1
 
-# Chapter 2-Grants for higher education assistance etc.
+# Chapter 2—Grants for higher education assistance etc.
 
-### Division 8-Introduction
+### Division 8—Introduction
 
 ##### 8-1  What this Chapter is about
 
@@ -543,23 +1191,23 @@ Division 13 Introduction
 
 Section 13-1
 
-## Part 2-1-Higher education providers
+## Part 2-1—Higher education providers
 
-### Division 13-Introduction
+### Division 13—Introduction
 
 ##### 13-1  What this Part is about
 
-A body generally has to be approved as a higher education provider before it can receive grants, or its students can receive self-accrediting entities) have that approval upon commencement of this Act. Table C providers have that approval from the time they are included in Table C. Bodies that do not have that automatic approval, or whose approval has been revoked, have to apply for approval.
+A body generally has to be approved as a higher education provider before it can receive grants, or its students can receive assistance, under this Act. Listed providers (universities and certain self-accrediting entities) have that approval upon commencement of this Act. Table C providers have that approval from the time they are included in Table C. Bodies that do not have that automatic approval, or whose approval has been revoked, have to apply for approval.
 
-assistance, under this Act. Listed providers (universities and certain Higher education providers are subject to the quality and accountability requirements. A body's approval as a higher education provider may be revoked
+Higher education providers are subject to the quality and accountability requirements.
 
-in circumstances such as breach of a quality and accountability requirement.
+A body’s approval as a higher education provider may be revoked in circumstances such as breach of a quality and accountability requirement.
 
 ##### 13-5  The Higher Education Provider Guidelines
 
-Higher education providers and the  * quality and accountability requirements are also dealt with in the Higher Education Provider Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines. Note: The Higher Education Provider Guidelines are made by the Minister
+Higher education providers and the *quality and accountability requirements are also dealt with in the Higher Education Provider Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines.
 
-under section 238-10.
+Note: The Higher Education Provider Guidelines are made by the Minister under section 238-10.
 
 _____________________________________
 
@@ -581,9 +1229,9 @@ What is a higher education provider? Division 16
 
 Section 16-1
 
-### Division 16-What is a higher education provider?
+### Division 16—What is a higher education provider?
 
-#### Subdivision 16-A-General
+#### Subdivision 16-A—General
 
 ##### 16-1  Meaning of higher education provider
 
@@ -593,7 +1241,7 @@ A higher education provider is a body corporate that is approved under this Divi
 
 (1)  A  * listed provider is taken to be approved as a higher education provider from the commencement of this Act. (1A)  A  * Table C provider is taken to be approved as a higher education provider from the commencement of the provision that included the provider in Table C in section 16-22. (2)  A body corporate: (a)  that is not a  * listed provider or a  * Table C provider; or (b)  that is a listed provider or a Table C provider that has previously ceased to be a higher education provider; becomes a provider if approved by the Minister under section 16-25. (3)  A higher education provider ceases to be a provider if the provider's approval is revoked or suspended under Division 22 or the notice of the provider's approval ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 .
 
-#### Subdivision 16-B-Which bodies are listed providers?
+#### Subdivision 16-B—Which bodies are listed providers?
 
 ##### 16-10  Listed providers
 
@@ -689,13 +1337,11 @@ Victoria University
 Australian Catholic University
 Batchelor Institute of Indigenous Tertiary Education
 
-- However, a body is not a Table A provider if its approval as a higher education provider is revoked or suspended.
+(2)  However, a body is not a Table A provider if its approval as a higher education provider is revoked or suspended.
 
 ##### 16-20  Table B providers
 
-- The following are Table B providers :
-
-- However, a body is not a Table B provider if its approval as a higher education provider is revoked or suspended.
+(1)  The following are Table B providers:
 
 Table B providers
 ---
@@ -703,6 +1349,8 @@ Providers
 Bond University
 The University of Notre Dame Australia
 MCD University of Divinity
+
+(2)  However, a body is not a Table B provider if its approval as a higher education provider is revoked or suspended.
 
 _____________________________________
 
@@ -726,7 +1374,7 @@ Section 16-22
 
 Table C providers Providers Carnegie Mellon University, a non-profit organisation established under Pennsylvania law University College London, a non-profit organisation established under United Kingdom law (2)  However, a body is not a Table C provider if its approval as a higher education provider is revoked or suspended. Note: A Table C provider is not entitled to receive a grant under this Chapter: see section 5-1.
 
-#### Subdivision 16-C-How are bodies approved as higher education providers?
+#### Subdivision 16-C—How are bodies approved as higher education providers?
 
 ##### 16-25  Approval by the Minister
 
@@ -838,7 +1486,7 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 16-55
 
-(b)  if further information is requested under section 16-45within 60 days after the end of the period within which the information was required to be provided under that section; whichever is the later. (3A)  However, contravention of subsection (3) does not affect the Minister's power to decide the application or the Minister's obligation to comply with subsection (1). (4)  If the Minister decides that an applicant is approved as a higher education provider, the notice must also contain such information as is specified in the Higher Education Provider Guidelines as information that must be provided to an applicant upon approval as a higher education provider.
+(b)  if further information is requested under section 16-45—within 60 days after the end of the period within which the information was required to be provided under that section; whichever is the later. (3A)  However, contravention of subsection (3) does not affect the Minister’s power to decide the application or the Minister’s obligation to comply with subsection (1). (4)  If the Minister decides that an applicant is approved as a higher education provider, the notice must also contain such information as is specified in the Higher Education Provider Guidelines as information that must be provided to an applicant upon approval as a higher education provider.
 
 ##### 16-55  Approvals are legislative instruments
 
@@ -892,15 +1540,15 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-1
 
-### Division 19-What are the quality and accountability requirements?
+### Division 19—What are the quality and accountability requirements?
 
-#### Subdivision 19-A-General
+#### Subdivision 19-A—General
 
 ##### 19-1  The quality and accountability requirements
 
 (1)  The quality and accountability requirements are: (a)  the  * financial viability requirements (see Subdivision 19-B); and (b)  the  * quality requirements (see Subdivision 19-C); and (c)  the  * fairness requirements (see Subdivision 19-D); and (d)  the  * compliance requirements (see Subdivision 19-E); and (e)  the  * contribution and fee requirements (see Subdivision 19-F); and (f)  the  * compact and academic freedom requirements (see Subdivision 19-G). (2)  This Division does not of its own force require a higher education provider to do any act or thing.
 
-#### Subdivision 19-B-The financial viability requirements
+#### Subdivision 19-B—The financial viability requirements
 
 ##### 19-5  Basic requirement
 
@@ -936,13 +1584,13 @@ Section 19-12
 
 In determining whether a higher education provider is financially viable, and likely to remain so, the Minister must have regard to any financial statement provided by the provider under section 19-10.
 
-#### Subdivision 19-C-The quality requirements
+#### Subdivision 19-C—The quality requirements
 
 ##### 19-15  Provider must maintain quality
 
 A higher education provider must operate, and continue to operate, at a level of quality: (a)  that meets the Threshold Standards (within the meaning of the  * TEQSA Act); and (b)  that meets the requirements imposed by or under the TEQSA Act on, or in relation to, the provider.
 
-#### Subdivision 19-D-The fairness requirements
+#### Subdivision 19-D—The fairness requirements
 
 ##### 19-30  Basic requirement
 
@@ -1054,7 +1702,7 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-38
 
-(n)  supporting the production and dissemination to students of media whose content is provided by students; (o)  helping students develop skills for study, by means other than undertaking  * courses of study in which they are enrolled; (p)  advising on matters arising under the higher education provider's rules (however described); (q)  advocating students' interests in matters arising under the higher education provider's rules (however described); (r)  giving students information to help them in their orientation; (s)  helping meet the specific needs of  * overseas students relating to their welfare, accommodation and employment. Note: Examples of expenditure for a purpose that relates to the provision of a service specified in subsection (4) include: (a) expenditure by the higher education provider in directly providing the service; and (b) expenditure by the higher education provider in getting someone else to provide the service or subsidising the provision of the service by someone else; and (c) expenditure by the higher education provider on infrastructure for the provision of the service. (5)  Without limiting who is a child of a person for the purposes of paragraph (4)(d), someone is the child of a person if he or she is a child of the person within the meaning of the Family Law Act 1975 . (6)  To avoid doubt, subsections (1), (2) and (3) apply to an advance made to a higher education provider on account of  * SA-HELP assistance in the same way as they apply to an amount paid to the provider as a  * student services and amenities fee. Note: An amount of SA-HELP assistance paid to a provider is an amount paid to the provider as a student services and amenities fee because, under section 128-1, the SA-HELP assistance is paid to discharge the student's liability to pay the fee. (7)  Subsection (6) does not limit subsection 164-10(2). Note: Subsection 164-10(2) applies to an advance on account of an amount the conditions that would apply to payment of the amount.
+(n)  supporting the production and dissemination to students of media whose content is provided by students; (o)  helping students develop skills for study, by means other than undertaking *courses of study in which they are enrolled; (p)  advising on matters arising under the higher education provider’s rules (however described); (q)  advocating students’ interests in matters arising under the higher education provider’s rules (however described); (r)  giving students information to help them in their orientation; (s)  helping meet the specific needs of *overseas students relating to their welfare, accommodation and employment. Note: Examples of expenditure for a purpose that relates to the provision of a service specified in subsection (4) include: (a) expenditure by the higher education provider in directly providing the service; and (b) expenditure by the higher education provider in getting someone else to provide the service or subsidising the provision of the service by someone else; and (c) expenditure by the higher education provider on infrastructure for the provision of the service. (5)  Without limiting who is a child of a person for the purposes of paragraph (4)(d), someone is the child of a person if he or she is a child of the person within the meaning of the Family Law Act 1975. (6)  To avoid doubt, subsections (1), (2) and (3) apply to an advance made to a higher education provider on account of *SA-HELP assistance in the same way as they apply to an amount paid to the provider as a *student services and amenities fee. Note: An amount of SA-HELP assistance paid to a provider is an amount paid to the provider as a student services and amenities fee because, under section 128-1, the SA-HELP assistance is paid to discharge the student’s liability to pay the fee. (7)  Subsection (6) does not limit subsection 164-10(2). Note: Subsection 164-10(2) applies to an advance on account of an amount of assistance under this Act subject to the conditions that would apply to payment of the amount.
 
 _____________________________________
 
@@ -1078,13 +1726,13 @@ Section 19-40
 
 ##### 19-40  Compliance with the tuition assurance requirements
 
-(1)  A higher education provider, other than a  * Table A provider or a body declared under subsection (2), must comply with the  * tuition assurance requirements. (2)  The Minister may, by declaration in writing, exempt a specified higher education provider from the requirement in subsection (1). (3)  An exemption: (a)  is subject to such conditions as are specified in the exemption; and (b)  may be expressed to be in force for a period specified in the exemption. Note: A body will not be exempt if a condition of the exemption is not complied with. (4)  An exemption given under this section is not a legislative instrument.
+(1)  A higher education provider, other than a *Table A provider or a body declared under subsection (2), must comply with the *tuition assurance requirements. (2)  The Minister may, by declaration in writing, exempt a specified higher education provider from the requirement in subsection (1). (3)  An exemption: (a)  is subject to such conditions as are specified in the exemption; and (b)  may be expressed to be in force for a period specified in the exemption. Note: A body will not be exempt if a condition of the exemption is not complied with. (4)  An exemption given under this section is not a legislative instrument.
 
 ##### 19-45  Student grievance and review procedures
 
 ###### Must have grievance and review procedures
 
-(1)  A higher education provider must have: (a)  a grievance procedure for dealing with complaints by the provider's students, and persons who seek to enrol in * courses of study with the provider, relating to non-academic matters; and (b)  a grievance procedure for dealing with complaints by the provider's students relating to academic matters; and (c)  a review procedure for dealing with review of decisions made by the provider: (i)  under section 36-20; or (ii)  relating to assistance under Chapter 3. Note: Part 5-7 also deals with reconsideration and review of decisions. (2)  Except where the provider is a  * Table A provider, the grievance procedures referred to in paragraphs (1)(a) and (b) must comply
+(1)  A higher education provider must have: (a)  a grievance procedure for dealing with complaints by the provider’s students, and persons who seek to enrol in *courses of study with the provider, relating to non-academic matters; and (b)  a grievance procedure for dealing with complaints by the provider’s students relating to academic matters; and (c)  a review procedure for dealing with review of decisions made by the provider: (i)  under section 36-20; or (ii)  relating to assistance under Chapter 3. Note: Part 5-7 also deals with reconsideration and review of decisions. (2)  Except where the provider is a *Table A provider, the grievance procedures referred to in paragraphs (1)(a) and (b) must comply
 
 _____________________________________
 
@@ -1102,11 +1750,11 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-50
 
-with the requirements of the Higher Education Provider Guidelines. with the requirements of the Higher Education Provider
+with the requirements of the Higher Education Provider Guidelines.
 
-(3)  The review procedure referred to in paragraph (1)(c) must comply Guidelines.
+(3)  The review procedure referred to in paragraph (1)(c) must comply with the requirements of the Higher Education Provider Guidelines.
 ###### Guidelines may provide for matters relating to reviews
-(4)  The Higher Education Provider Guidelines may provide for matters relating to reviews of decisions made by higher education providers: (a)  under section 36-20; or (b)  relating to assistance under Chapter 3; including procedures that are to be followed by  * review officers when reviewing those decisions.
+(4)  The Higher Education Provider Guidelines may provide for matters relating to reviews of decisions made by higher education providers: (a)  under section 36-20; or (b)  relating to assistance under Chapter 3; including procedures that are to be followed by *review officers when reviewing those decisions.
 ###### Provider to comply with procedures
 (5)  The provider must comply with its grievance and review procedures.
 ###### Provider to provide information about procedures
@@ -1114,11 +1762,11 @@ with the requirements of the Higher Education Provider Guidelines. with the requ
 ###### Provider to provide information about other complaint mechanisms
 (7)  The provider must publish information about any other complaint
 
-mechanisms available to complain about the provider's decisions.
+mechanisms available to complain about the provider’s decisions.
 
 ##### 19-50  Higher education providers to appoint review officers
 
-(1)  A higher education provider must appoint a  * review officer to undertake reviews of decisions made by the provider: (a)  under section 36-20; or (b)  relating to assistance under Chapter 3.
+(1)  A higher education provider must appoint a *review officer to undertake reviews of decisions made by the provider: (a)  under section 36-20; or (b)  relating to assistance under Chapter 3.
 
 _____________________________________
 
@@ -1144,11 +1792,11 @@ Note: The Secretary may delegate to a review officer of a higher education provi
 
 ##### 19-55  Review officers not to review own decisions
 
-A higher education provider must ensure that a  * review officer of the provider: (a)  does not review a decision that the review officer was involved in making; and (b)  in reviewing a decision of the provider, occupies a position that is senior to that occupied by any person involved in making the original decision.
+A higher education provider must ensure that a *review officer of the provider: (a)  does not review a decision that the review officer was involved in making; and (b)  in reviewing a decision of the provider, occupies a position that is senior to that occupied by any person involved in making the original decision.
 
 ##### 19-60  Procedures relating to personal information
 
-(1)  A higher education provider must comply with the information privacy principles set out in section 14 of the Privacy Act 1988 in respect of  * personal information obtained for the purposes of section 36-20 or Chapter 3 or 4. (2)  A higher education provider must have a procedure under which a student enrolled with the provider may apply to the provider for, and receive, a copy of  * personal information that the provider holds in relation to that student. (3)  The provider must comply with: (a)  the requirements of the Higher Education Provider Guidelines relating to  * personal information in relation to students; and (b)  the procedure referred to in subsection (2).
+(1)  A higher education provider must comply with the information privacy principles set out in section 14 of the Privacy Act 1988 in respect of *personal information obtained for the purposes of section 36-20 or Chapter 3 or 4. (2)  A higher education provider must have a procedure under which a student enrolled with the provider may apply to the provider for, and receive, a copy of *personal information that the provider holds in relation to that student. (3)  The provider must comply with: (a)  the requirements of the Higher Education Provider Guidelines relating to *personal information in relation to students; and (b)  the procedure referred to in subsection (2).
 
 _____________________________________
 
@@ -1166,11 +1814,11 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-65
 
-#### Subdivision 19-E-The compliance requirements
+#### Subdivision 19-E—The compliance requirements
 
 ##### 19-65  Basic requirements
 
-(1)  A higher education provider must comply with the requirements of this Act and the regulations, and the requirements of the Guidelines made under section 238-10 that apply to the provider. (2)  A higher education provider must provide information to the Minister in relation to the affairs of the provider in accordance with the requirements of this Act. (3)  A higher education provider's administrative arrangements must support the provision of assistance under this Act.
+(1)  A higher education provider must comply with the requirements of this Act and the regulations, and the requirements of the Guidelines made under section 238-10 that apply to the provider. (2)  A higher education provider must provide information to the Minister in relation to the affairs of the provider in accordance with the requirements of this Act. (3)  A higher education provider’s administrative arrangements must support the provision of assistance under this Act.
 
 ##### 19-67  Special requirements for student services, amenities, representation and advocacy in 2012 and later years
 
@@ -1180,7 +1828,7 @@ _____________________________________
 
 * To find definitions of asterisked terms, see the Dictionary in Schedule 1.
 
-> 32            Higher Education Support Act 2003
+32            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -1202,13 +1850,13 @@ Section 19-70
 
 (1)  A higher education provider must give to the Minister such statistical and other information that the Minister by notice in writing requires from the provider in respect of: (a)  the provision of higher education by the provider; and (b)  compliance by the provider with the requirements of this Act. (2)  The information must be provided: (a)  in a form (if any) approved by the Minister for the information; and (b)  in accordance with such other requirements as the Minister makes. (3)  A notice under this section must not require the giving of information that a higher education provider is required to give to the Minister under section 19-95.
 
-##### 19-75  Notice of events that affect provider's ability to comply with conditions of Commonwealth assistance
+##### 19-75  Notice of events that affect provider’s ability to comply with conditions of Commonwealth assistance
 
-A higher education provider must by writing inform the Minister of any event affecting: (a)  the provider; or (b)  a  * related body corporate of the provider; that may significantly affect the provider's capacity to meet the conditions of grants under this Chapter or the  * quality and accountability requirements.
+A higher education provider must by writing inform the Minister of any event affecting: (a)  the provider; or (b)  a *related body corporate of the provider; that may significantly affect the provider’s capacity to meet the conditions of grants under this Chapter or the *quality and accountability requirements.
 
 ##### 19-77  Notice of events affecting accreditation
 
-A higher education provider must by writing inform the Minister of any event affecting: (a)  the provider; or (b)  a  * related body corporate of the provider; that relates to:
+A higher education provider must by writing inform the Minister of any event affecting: (a)  the provider; or (b)  a *related body corporate of the provider; that relates to:
 
 _____________________________________
 
@@ -1226,15 +1874,15 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-78
 
-(c)  the provider's authority conferred by or under the  * TEQSA Act to self-accredit one or more  * courses of study; or (d)  TEQSA's accreditation of a course of study that is an * accredited course in relation to the provider.
+(c)  the provider’s authority conferred by or under the *TEQSA Act to self-accredit one or more *courses of study; or (d)  TEQSA’s accreditation of a course of study that is an *accredited course in relation to the provider.
 
 ##### 19-78  Notice of events significantly affecting TEQSA registration
 
-(1)  A higher education provider must by writing inform the Minister of any event significantly affecting: (a)  the provider; or (b)  a  * related body corporate of the provider; that relates to the provider's registration as a  * registered higher education provider. (2)  If a higher education provider informs the Minister of an event under section 19-77, the provider need not inform the Minister of the event under this section.
+(1)  A higher education provider must by writing inform the Minister of any event significantly affecting: (a)  the provider; or (b)  a *related body corporate of the provider; that relates to the provider’s registration as a *registered higher education provider. (2)  If a higher education provider informs the Minister of an event under section 19-77, the provider need not inform the Minister of the event under this section.
 
-##### 19-80  Compliance assurance-provider (other than Table A provider)
+##### 19-80  Compliance assurance—provider (other than Table A provider)
 
-(1)  The Minister may require a higher education provider (other than a * Table A provider) to be audited as to compliance with any one or more of the following requirements: (a)  the  * financial viability requirements; (b)  the  * fairness requirements; (c)  the  * compliance requirements; (d)  the  * contribution and fee requirements. (2)  The audit must be conducted: (a)  by a body determined in writing by the Minister; and (b)  at such time or times, and in such manner, as the Minister requires. (2A)  To avoid doubt, if the Minister makes a determination under subsection (2) in relation to  * TEQSA, the determination is not a direction for the purposes of subsection 136(2) of the  * TEQSA Act.
+(1)  The Minister may require a higher education provider (other than a *Table A provider) to be audited as to compliance with any one or more of the following requirements: (a)  the *financial viability requirements; (b)  the *fairness requirements; (c)  the *compliance requirements; (d)  the *contribution and fee requirements. (2)  The audit must be conducted: (a)  by a body determined in writing by the Minister; and (b)  at such time or times, and in such manner, as the Minister requires. (2A)  To avoid doubt, if the Minister makes a determination under subsection (2) in relation to *TEQSA, the determination is not a direction for the purposes of subsection 136(2) of the *TEQSA Act.
 
 _____________________________________
 
@@ -1258,15 +1906,15 @@ Section 19-85
 
 (3)  The provider must: (a)  fully co-operate with the auditing body in the course of its audit; and (b)  pay to the auditing body any charges payable for such an audit. (4)  A determination made under paragraph (2)(a) is not a legislative instrument.
 
-#### Subdivision 19-F-What are the contribution and fee requirements?
+#### Subdivision 19-F—What are the contribution and fee requirements?
 
 ##### 19-85  Basic requirement
 
-A higher education provider must charge, in accordance with the requirements of this Act,  * student contribution amounts and * tuition fees for each unit of study in which it enrols students.
+A higher education provider must charge, in accordance with the requirements of this Act, *student contribution amounts and *tuition fees for each unit of study in which it enrols students.
 
 ##### 19-87  Determining student contribution amounts for all places in units
 
-(1)  This section applies to a unit of study: (a)  that a higher education provider provides or proposes to provide during a period ascertained in accordance with the Higher Education Provider Guidelines; and (b)  in relation to which the provider may advise a person that he or she is a  * Commonwealth supported student. (2)  The provider must determine, for places in the unit, one or more * student contribution amounts that are to apply to students who may enrol in the unit during the period. (2A)  In determining more than one  * student contribution amount under subsection (2), the provider may have regard to any matters the provider considers appropriate, other than matters specified in the Higher Education Provider Guidelines as matters to which a provider must not have regard. (3)  The provider must not vary a  * student contribution amount unless the provider:
+(1)  This section applies to a unit of study: (a)  that a higher education provider provides or proposes to provide during a period ascertained in accordance with the Higher Education Provider Guidelines; and (b)  in relation to which the provider may advise a person that he or she is a *Commonwealth supported student. (2)  The provider must determine, for places in the unit, one or more *student contribution amounts that are to apply to students who may enrol in the unit during the period. (2A)  In determining more than one *student contribution amount under subsection (2), the provider may have regard to any matters the provider considers appropriate, other than matters specified in the Higher Education Provider Guidelines as matters to which a provider must not have regard. (3)  The provider must not vary a *student contribution amount unless the provider:
 
 _____________________________________
 
@@ -1288,11 +1936,11 @@ Section 19-90
 
 ##### 19-90  Determining tuition fees for all students
 
-(1)  This section applies to a unit of study that a higher education provider provides or proposes to provide during a period ascertained in accordance with the Higher Education Provider Guidelines. (2)  The provider must determine, for the unit, one or more  * fees that are to apply to students who may enrol in the unit during the period. (3)  In determining more than one  * fee under subsection (2), the provider may have regard to any matters the provider considers appropriate, other than matters specified in the Higher Education Provider Guidelines as matters to which a provider must not have regard. (4)  The provider must not vary a  * fee unless the provider: (a)  does so: (i)  before the date ascertained in accordance with the Higher Education Provider Guidelines; and (ii)  in circumstances specified in the Higher Education Provider Guidelines; or (b)  does so with the written approval of the Minister.
+(1)  This section applies to a unit of study that a higher education provider provides or proposes to provide during a period ascertained in accordance with the Higher Education Provider Guidelines. (2)  The provider must determine, for the unit, one or more *fees that are to apply to students who may enrol in the unit during the period. (3)  In determining more than one *fee under subsection (2), the provider may have regard to any matters the provider considers appropriate, other than matters specified in the Higher Education Provider Guidelines as matters to which a provider must not have regard. (4)  The provider must not vary a *fee unless the provider: (a)  does so: (i)  before the date ascertained in accordance with the Higher Education Provider Guidelines; and (ii)  in circumstances specified in the Higher Education Provider Guidelines; or (b)  does so with the written approval of the Minister.
 
 ##### 19-95  Schedules of student contribution amounts for places and tuition fees
 
-(1)  A higher education provider must give the Minister a schedule of the  * student contribution amounts for places, and  * tuition fees, determined under sections 19-87 and 19-90 for all the units of study it provides or proposes to provide during a period ascertained
+(1)  A higher education provider must give the Minister a schedule of the *student contribution amounts for places, and *tuition fees, determined under sections 19-87 and 19-90 for all the units of study it provides or proposes to provide during a period ascertained
 
 _____________________________________
 
@@ -1314,11 +1962,11 @@ What are the quality and accountability requirements? Division 19
 
 Section 19-95
 
-in accordance with the Higher Education Provider Guidelines. It must give the schedule: (a)  in a form approved by the Minister; and (b)  in accordance with the requirements that the Minister determines in writing. (2)  The provider must: (a)  ensure that the schedule provides sufficient information to enable a person to work out, for each unit of study the provider provides or is to provide: (i)  the person's  * student contribution amount; and (ii)  if the provider determined more than one student contribution amount for places in a unit under section 19-87-which of those student contribution amounts applies to the person; and (aa)  ensure that the schedule provides sufficient information to enable a person to work out, for each unit of study the provider provides or is to provide: (i)  the person's  * tuition fee; and (ii)  if the provider determined more than one tuition fee for a unit under section 19-90-which of those tuition fees applies to the person; and (b)  publish the schedule for a particular period by the date ascertained in accordance with the Higher Education Provider Guidelines; and (c)  ensure that the schedule is available to all students enrolled, and persons seeking to enrol, with the provider on request and without charge.
+in accordance with the Higher Education Provider Guidelines. It must give the schedule: (a)  in a form approved by the Minister; and (b)  in accordance with the requirements that the Minister determines in writing. (2)  The provider must: (a)  ensure that the schedule provides sufficient information to enable a person to work out, for each unit of study the provider provides or is to provide: (i)  the person’s *student contribution amount; and (ii)  if the provider determined more than one student contribution amount for places in a unit under section 19-87—which of those student contribution amounts applies to the person; and (aa)  ensure that the schedule provides sufficient information to enable a person to work out, for each unit of study the provider provides or is to provide: (i)  the person’s *tuition fee; and (ii)  if the provider determined more than one tuition fee for a unit under section 19-90—which of those tuition fees applies to the person; and (b)  publish the schedule for a particular period by the date ascertained in accordance with the Higher Education Provider Guidelines; and (c)  ensure that the schedule is available to all students enrolled, and persons seeking to enrol, with the provider on request and without charge.
 
 ###### Replacement schedules
 
-(3)  If: (a)  the provider has given the Minister a schedule (the previous schedule ) under: (i)  subsection (1); or (ii)  this subsection; and
+(3)  If: (a)  the provider has given the Minister a schedule (the previous schedule) under: (i)  subsection (1); or (ii)  this subsection; and
 
 _____________________________________
 
@@ -1336,15 +1984,15 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-100
 
-(b)  the provider: (i)  varies a  * student contribution amount in the previous schedule; or (ii)  varies a  * tuition fee in the previous schedule; the provider must: (c)  by written notice given to the Minister: (i)  withdraw the previous schedule; and (ii)  inform the Minister of the variation; and (d)  give the Minister a replacement schedule incorporating the variation. Note 1: The provider must comply with subsection 19-87(3) when varying a student contribution amount. Note 2: The provider must comply with subsection 19-90(4) when varying a tuition fee. (4)  Subsections (1) and (2) apply to the replacement schedule in a corresponding way to the way in which they apply to the previous schedule.
+(b)  the provider: (i)  varies a *student contribution amount in the previous schedule; or (ii)  varies a *tuition fee in the previous schedule; the provider must: (c)  by written notice given to the Minister: (i)  withdraw the previous schedule; and (ii)  inform the Minister of the variation; and (d)  give the Minister a replacement schedule incorporating the variation. Note 1: The provider must comply with subsection 19-87(3) when varying a student contribution amount. Note 2: The provider must comply with subsection 19-90(4) when varying a tuition fee. (4)  Subsections (1) and (2) apply to the replacement schedule in a corresponding way to the way in which they apply to the previous schedule.
 
 ##### 19-100  Limits on fees for courses of study
 
-A higher education provider must not charge a person a  * fee for a * course of study that exceeds the sum of the person's  * tuition fees for all of the units of study undertaken with the provider by the person as part of the course.
+A higher education provider must not charge a person a *fee for a *course of study that exceeds the sum of the person’s *tuition fees for all of the units of study undertaken with the provider by the person as part of the course.
 
 ##### 19-102  Meaning of fee
 
-(1)  A fee includes any tuition, examination or other fee payable to a higher education provider by a person enrolled with, or applying for enrolment with, the provider. (2)  A fee may also include any fee payable to the provider in respect of the granting of a  * higher education award. (3)  A fee does not include a fee that is: (a)  payable in respect of an organisation of students, or of students and other persons; or
+(1)  A fee includes any tuition, examination or other fee payable to a higher education provider by a person enrolled with, or applying for enrolment with, the provider. (2)  A fee may also include any fee payable to the provider in respect of the granting of a *higher education award. (3)  A fee does not include a fee that is: (a)  payable in respect of an organisation of students, or of students and other persons; or
 
 _____________________________________
 
@@ -1366,17 +2014,17 @@ What are the quality and accountability requirements? Division 19
 
 Section 19-105
 
-(b)  payable in respect of the provision to students of amenities or services that are not of an academic nature; or (c)  payable in respect of residential accommodation; or (d)  imposed in accordance with the Higher Education Provider Guidelines for the imposition of fees in respect of  * overseas students; or (e)  payable in respect of studies (other than an  * enabling course) that are not permitted to be undertaken for the purpose of obtaining a  * higher education award; or (f)  determined, in accordance with the Higher Education Provider Guidelines, to be a fee of a kind that is incidental to studies that may be undertaken with a higher education provider; or (g)  a  * student contribution amount payable in respect of a student. (4)  The definition of fee in this section does not apply for the purposes of section 104-50.
+(b)  payable in respect of the provision to students of amenities or services that are not of an academic nature; or (c)  payable in respect of residential accommodation; or (d)  imposed in accordance with the Higher Education Provider Guidelines for the imposition of fees in respect of *overseas students; or (e)  payable in respect of studies (other than an *enabling course) that are not permitted to be undertaken for the purpose of obtaining a *higher education award; or (f)  determined, in accordance with the Higher Education Provider Guidelines, to be a fee of a kind that is incidental to studies that may be undertaken with a higher education provider; or (g)  a *student contribution amount payable in respect of a student. (4)  The definition of fee in this section does not apply for the purposes of section 104-50.
 
 ##### 19-105  Meaning of tuition fee
 
-A person's tuition fee for a unit of study is: (a)  if only one fee has been determined for the unit under subsection 19-90(2)-that fee; or (b)  if more than one fee has been determined for the unit under that subsection-the fee determined under that subsection that applies to the person.
+A person’s tuition fee for a unit of study is: (a)  if only one fee has been determined for the unit under subsection 19-90(2)—that fee; or (b)  if more than one fee has been determined for the unit under that subsection—the fee determined under that subsection that applies to the person.
 
-#### Subdivision 19-G-The compact and academic freedom requirements
+#### Subdivision 19-G—The compact and academic freedom requirements
 
 ##### 19-110  Table A providers and Table B providers must enter into mission based compacts
 
-(1)  A higher education provider that is a  * Table A provider or a  * Table B provider must, in respect of each year for which a grant is paid to the provider under this Act, enter into a mission based compact with the Commonwealth for a period that includes that year.
+(1)  A higher education provider that is a *Table A provider or a *Table B provider must, in respect of each year for which a grant is paid to the provider under this Act, enter into a mission based compact with the Commonwealth for a period that includes that year.
 
 _____________________________________
 
@@ -1394,17 +2042,17 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 19-115
 
-(2)  The Minister may, on behalf of the Commonwealth, enter into a mission based compact with a  * Table A provider or a  * Table B provider. (3)  The mission based compact must include: (a)  a statement of the provider's mission; and (b)  a statement of the provider's strategies for teaching and learning; and (c)  a statement of the provider's strategies for: (i)  undertaking research; and (ii)  research training; and (iii)  innovation. Note: A mission based compact may include other matters. (4)  The  * Secretary must cause a copy of each mission based compact to be published on the Department's website within 28 days after the making of the compact.
+(2)  The Minister may, on behalf of the Commonwealth, enter into a mission based compact with a *Table A provider or a *Table B provider. (3)  The mission based compact must include: (a)  a statement of the provider’s mission; and (b)  a statement of the provider’s strategies for teaching and learning; and (c)  a statement of the provider’s strategies for: (i)  undertaking research; and (ii)  research training; and (iii)  innovation. Note: A mission based compact may include other matters. (4)  The *Secretary must cause a copy of each mission based compact to be published on the Department’s website within 28 days after the making of the compact.
 
 ##### 19-115  Provider to have policy upholding free intellectual inquiry
 
-A higher education provider that is a  * Table A provider or a  * Table B provider must have a policy that upholds free intellectual inquiry in relation to learning, teaching and research.
+A higher education provider that is a *Table A provider or a *Table B provider must have a policy that upholds free intellectual inquiry in relation to learning, teaching and research.
 
 _____________________________________
 
 * To find definitions of asterisked terms, see the Dictionary in Schedule 1.
 
-> 40            Higher Education Support Act 2003
+40            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -1420,23 +2068,23 @@ When does a body cease to be a higher education provider? Division 22
 
 Section 22-1
 
-### Division 22-When does a body cease to be a higher education provider?
+### Division 22—When does a body cease to be a higher education provider?
 
-#### Subdivision 22-A-General
+#### Subdivision 22-A—General
 
 ##### 22-1  Cessation of approval as a provider
 
-(1)  A body ceases to be approved as a higher education provider: (a)  if a decision to revoke the approval is in effect under Subdivision 22-B or 22-D; or (b)  while the approval is suspended under section 22-30; or (c)  if the notice of the provider's approval ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 . (2)  If a body ceases to be approved as a higher education provider, the Minister must ensure that  * TEQSA is notified, in writing, of the cessation.
+(1)  A body ceases to be approved as a higher education provider: (a)  if a decision to revoke the approval is in effect under Subdivision 22-B or 22-D; or (b)  while the approval is suspended under section 22-30; or (c)  if the notice of the provider’s approval ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003. (2)  If a body ceases to be approved as a higher education provider, the Minister must ensure that *TEQSA is notified, in writing, of the cessation.
 
-#### Subdivision 22-B-Revocation for cause
+#### Subdivision 22-B—Revocation for cause
 
 ##### 22-5  Revocation of approval if application for approval as a provider is false or misleading
 
-The Minister may revoke a body's approval as a higher education provider if the Minister: (a)  is satisfied that the body's application under section 16-40 for approval as a higher education provider contained material that was false or misleading; and (b)  complies with the requirements of section 22-20.
+The Minister may revoke a body’s approval as a higher education provider if the Minister: (a)  is satisfied that the body’s application under section 16-40 for approval as a higher education provider contained material that was false or misleading; and (b)  complies with the requirements of section 22-20.
 
-##### 22-7  Revocation of approval if providing education and/or conducting research ceases to be the body's principal purpose
+##### 22-7  Revocation of approval if providing education and/or conducting research ceases to be the body’s principal purpose
 
-(1)  The Minister may revoke a body's approval as a higher education provider if:
+(1)  The Minister may revoke a body’s approval as a higher education provider if:
 
 _____________________________________
 
@@ -1454,17 +2102,17 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 22-10
 
-(a)  the body's principal purpose is no longer, or is no longer taken to be, either or both of the following: (i)  to provide education; (ii)  to conduct research; and (c)  the Minister complies with the requirements of section 22-20. (2)  The Minister may also revoke a body's approval as a higher education provider if: (a)  the Minister is satisfied that any of the body's purposes conflict with the body's principal purpose of providing education and/or conducting research; and (b)  the Minister complies with the requirements of section 22-20.
+(a)  the body’s principal purpose is no longer, or is no longer taken to be, either or both of the following: (i)  to provide education; (ii)  to conduct research; and (c)  the Minister complies with the requirements of section 22-20. (2)  The Minister may also revoke a body’s approval as a higher education provider if: (a)  the Minister is satisfied that any of the body’s purposes conflict with the body’s principal purpose of providing education and/or conducting research; and (b)  the Minister complies with the requirements of section 22-20.
 
 ##### 22-10  Revocation of approval if status or accreditation changes
 
 ###### Bodies that cease to be Australian universities
 
-(1)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body was an  * Australian university at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be an Australian university; and
+(1)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body was an *Australian university at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be an Australian university; and
 
 (c)  the Minister complies with the requirements of section 22-20.
 ###### Bodies that cease to be self-accrediting entities
-(2)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body was a  * self-accrediting entity at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be a self-accrediting entity; and (c)  the Minister complies with the requirements of section 22-20.
+(2)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body was a *self-accrediting entity at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be a self-accrediting entity; and (c)  the Minister complies with the requirements of section 22-20.
 
 _____________________________________
 
@@ -1488,19 +2136,19 @@ Section 22-10
 
 ###### Self-accrediting entities that cease to have authority to accredit courses
 
-(2A)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body was a  * self-accrediting entity at the last time the body became a higher education provider; and (b)  the body is no longer authorised by or under the  * TEQSA Act to self-accredit a  * course of study that the body was authorised to self-accredit at that time; and (c)  the Minister complies with the requirements of section 22-20.
+(2A)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body was a *self-accrediting entity at the last time the body became a higher education provider; and (b)  the body is no longer authorised by or under the *TEQSA Act to self-accredit a *course of study that the body was authorised to self-accredit at that time; and (c)  the Minister complies with the requirements of section 22-20.
 
 ###### Bodies that cease to be non self-accrediting entities
 
-(3)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body was a  * non self-accrediting entity at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be a non self-accrediting entity; and (c)  the Minister complies with the requirements of section 22-20.
+(3)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body was a *non self-accrediting entity at the last time the body became a higher education provider; and (b)  since that time, the body has ceased to be a non self-accrediting entity; and (c)  the Minister complies with the requirements of section 22-20.
 
 ###### Bodies offering courses that cease to be accredited courses
 
-(4)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body was a  * self-accrediting entity or a  * non self-accrediting entity at the last time the body became a higher education provider; and (b)  a  * course of study offered by the body that was an * accredited course ceases to be an accredited course; and (c)  the Minister complies with the requirements of section 22-20.
+(4)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body was a *self-accrediting entity or a *non self-accrediting entity at the last time the body became a higher education provider; and (b)  a *course of study offered by the body that was an *accredited course ceases to be an accredited course; and (c)  the Minister complies with the requirements of section 22-20.
 
 ###### Bodies that no longer meet certain approval criteria
 
-(5)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body no longer meets a requirement set out in: (i)  paragraph 16-25(1)(a); or
+(5)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body no longer meets a requirement set out in: (i)  paragraph 16-25(1)(a); or
 
 _____________________________________
 
@@ -1520,11 +2168,11 @@ Section 22-15
 
 (ii)  paragraph 16-25(1)(da); and (b)  the Minister complies with the requirements of section 22-20.
 ###### Bodies that are no longer registered under the TEQSA Act
-(6)  The Minister may revoke a body's approval as a higher education provider if: (a)  the body is no longer a  * registered higher education provider; and (b)  the Minister complies with the requirements of section 22-20.
+(6)  The Minister may revoke a body’s approval as a higher education provider if: (a)  the body is no longer a *registered higher education provider; and (b)  the Minister complies with the requirements of section 22-20.
 
 ##### 22-15  Revocation of approval as a provider for a breach of conditions or the quality and accountability requirements
 
-(1)  The Minister may revoke a body's approval as a higher education provider if the Minister: (a)  is satisfied that the body has: (i)  breached a condition of a grant made to the body under Part 2-2, 2-3 or 2-4; or (ii)  breached a  * quality and accountability requirement; or (iii)  breached a condition imposed on the body's approval; and (b)  is satisfied that it is appropriate to take that action (see subsection (2)); and (c)  complies with the requirements of section 22-20. Note: Section 16-60 allows conditions to be imposed on the body's approval. (2)  Without limiting the matters that the Minister may consider in deciding whether it is appropriate under this section to revoke a body's approval as a higher education provider, the Minister may consider any or all of the following matters: (a)  whether the breach in question is of a minor or major nature; (b)  whether the breach has occurred before and, if so, how often; (c)  the impact that the breach may have on the body's students; (d)  the impact of the breach on the higher education provided by the body;
+(1)  The Minister may revoke a body’s approval as a higher education provider if the Minister: (a)  is satisfied that the body has: (i)  breached a condition of a grant made to the body under Part 2-2, 2-3 or 2-4; or (ii)  breached a *quality and accountability requirement; or (iii)  breached a condition imposed on the body’s approval; and (b)  is satisfied that it is appropriate to take that action (see subsection (2)); and (c)  complies with the requirements of section 22-20. Note: Section 16-60 allows conditions to be imposed on the body’s approval. (2)  Without limiting the matters that the Minister may consider in deciding whether it is appropriate under this section to revoke a body’s approval as a higher education provider, the Minister may consider any or all of the following matters: (a)  whether the breach in question is of a minor or major nature; (b)  whether the breach has occurred before and, if so, how often; (c)  the impact that the breach may have on the body’s students; (d)  the impact of the breach on the higher education provided by the body;
 
 _____________________________________
 
@@ -1546,17 +2194,17 @@ When does a body cease to be a higher education provider? Division 22
 
 Section 22-17
 
-(e)  the impact of the breach on Australia's reputation as a provider of high quality higher education; (f)  any other matter set out in the Higher Education Provider Guidelines.
+(e)  the impact of the breach on Australia’s reputation as a provider of high quality higher education; (f)  any other matter set out in the Higher Education Provider Guidelines.
 
 ##### 22-17  Revocation of approval as a provider if provider etc. not a fit and proper person
 
-(1)  The Minister may revoke a body's approval as a higher education provider if the Minister: (a)  is satisfied that: (i)  the body; or (ii)  at least one person who makes, or participates in making, decisions that affect the whole, or a substantial part, of the body's affairs; is not a fit and proper person; and (b)  complies with the requirements of section 22-20. (2)  The Minister must, in deciding whether he or she is satisfied that a person is not a fit and proper person, take into account the matters specified in an instrument under subsection 16-25(4). The Minister may take into account any other matters he or she considers relevant.
+(1)  The Minister may revoke a body’s approval as a higher education provider if the Minister: (a)  is satisfied that: (i)  the body; or (ii)  at least one person who makes, or participates in making, decisions that affect the whole, or a substantial part, of the body’s affairs; is not a fit and proper person; and (b)  complies with the requirements of section 22-20. (2)  The Minister must, in deciding whether he or she is satisfied that a person is not a fit and proper person, take into account the matters specified in an instrument under subsection 16-25(4). The Minister may take into account any other matters he or she considers relevant.
 
-#### Subdivision 22-C-Process for decisions on revocation under Subdivision 22-B
+#### Subdivision 22-C—Process for decisions on revocation under Subdivision 22-B
 
 ##### 22-20  Process for revoking approval
 
-(1)  Before revoking a body's approval as a higher education provider under Subdivision 22-B, the Minister must give the body notice in writing: (a)  stating that the Minister is considering revoking the body's approval; and (b)  stating the reasons why the Minister is considering revoking the body's approval; and (c)  inviting the body to make written submissions to the Minister within 28 days concerning why the approval should not be revoked.
+(1)  Before revoking a body’s approval as a higher education provider under Subdivision 22-B, the Minister must give the body notice in writing: (a)  stating that the Minister is considering revoking the body’s approval; and (b)  stating the reasons why the Minister is considering revoking the body’s approval; and (c)  inviting the body to make written submissions to the Minister within 28 days concerning why the approval should not be revoked.
 
 _____________________________________
 
@@ -1574,11 +2222,11 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 22-22
 
-(2)  In deciding whether or not to revoke a body's approval under Subdivision 22-B, the Minister must consider any submissions received from the body within the 28 day period. (3)  The Minister must notify the body in writing of his or her decision whether to revoke the body's approval under Subdivision 22-B. The notice: (a)  must be in writing; and (b)  must be given within the period of 28 days following the period in which submissions may have been given to the Minister under subsection (1); and (c)  if the Minister decides to revoke the body's approval-must specify that the revocation takes effect on the day that the notice is registered in the  * Federal Register of Legislative Instruments. (3A)  A notice of revocation under subsection (3) is a legislative instrument. (4)  If no notice is given within the period provided for in subsection (3), the Minister is taken to have decided not to revoke the approval. (5)  A decision of the Minister to revoke a body's approval as a higher education provider takes effect on the day that the notice of revocation under subsection (3) is registered in the  * Federal Register of Legislative Instruments. (6)  If the notice of revocation under subsection (3) ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 , then the decision to revoke the approval ceases to have effect at the same time.
+(2)  In deciding whether or not to revoke a body’s approval under Subdivision 22-B, the Minister must consider any submissions received from the body within the 28 day period. (3)  The Minister must notify the body in writing of his or her decision whether to revoke the body’s approval under Subdivision 22-B. The notice: (a)  must be in writing; and (b)  must be given within the period of 28 days following the period in which submissions may have been given to the Minister under subsection (1); and (c)  if the Minister decides to revoke the body’s approval—must specify that the revocation takes effect on the day that the notice is registered in the *Federal Register of Legislative Instruments. (3A)  A notice of revocation under subsection (3) is a legislative instrument. (4)  If no notice is given within the period provided for in subsection (3), the Minister is taken to have decided not to revoke the approval. (5)  A decision of the Minister to revoke a body’s approval as a higher education provider takes effect on the day that the notice of revocation under subsection (3) is registered in the *Federal Register of Legislative Instruments. (6)  If the notice of revocation under subsection (3) ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003, then the decision to revoke the approval ceases to have effect at the same time.
 
 ##### 22-22  Minister may seek information from TEQSA
 
-For the purpose of determining whether: (a)  to revoke a body's approval as a higher education provider; or (b)  to suspend a body's approval as a higher education provider; the Minister may seek information from  * TEQSA.
+For the purpose of determining whether: (a)  to revoke a body’s approval as a higher education provider; or (b)  to suspend a body’s approval as a higher education provider; the Minister may seek information from *TEQSA.
 
 _____________________________________
 
@@ -1602,15 +2250,15 @@ Section 22-23
 
 ##### 22-23  Minister may seek information from relevant VET regulator
 
-For the purpose of determining whether: (a)  to revoke a body's approval as a higher education provider; or (b)  to suspend a body's approval as a higher education provider; the Minister may seek information from the relevant  * VET regulator.
+For the purpose of determining whether: (a)  to revoke a body’s approval as a higher education provider; or (b)  to suspend a body’s approval as a higher education provider; the Minister may seek information from the relevant *VET regulator.
 
 ##### 22-25  Determination retaining approval as a provider in respect of existing students
 
-(1)  The Minister may determine, in writing, that a revocation of a body's approval as a higher education provider under Subdivision 22-B is of no effect for the purposes of: (a)  grants to the body under this Chapter; and (b)  assistance payable to the body's students under Chapter 3; to the extent that the grants or assistance relate to students of the body who have not completed the  * courses of study in which they were enrolled with the body on the day referred to in subsection 22-20(5). (2)  The determination may be included in the notice of revocation under subsection 22-20(3). (3)  The body is taken, for the purposes of this Act, to continue to be a higher education provider, but only to the extent referred to in subsection (1). (4)  Subsection (3) does not prevent the Minister subsequently revoking the body's approval as a higher education provider under this Division.
+(1)  The Minister may determine, in writing, that a revocation of a body’s approval as a higher education provider under Subdivision 22-B is of no effect for the purposes of: (a)  grants to the body under this Chapter; and (b)  assistance payable to the body’s students under Chapter 3; to the extent that the grants or assistance relate to students of the body who have not completed the *courses of study in which they were enrolled with the body on the day referred to in subsection 22-20(5). (2)  The determination may be included in the notice of revocation under subsection 22-20(3). (3)  The body is taken, for the purposes of this Act, to continue to be a higher education provider, but only to the extent referred to in subsection (1). (4)  Subsection (3) does not prevent the Minister subsequently revoking the body’s approval as a higher education provider under this Division.
 
 ##### 22-30  Suspension of approval as a provider
 
-(1)  The Minister may, by legislative instrument, determine that, with effect from a specified day, a body's approval as a higher education provider is suspended pending the making of a decision under Subdivision 22-B as to whether to revoke the body's approval as a provider.
+(1)  The Minister may, by legislative instrument, determine that, with effect from a specified day, a body’s approval as a higher education provider is suspended pending the making of a decision under Subdivision 22-B as to whether to revoke the body’s approval as a provider.
 
 _____________________________________
 
@@ -1628,11 +2276,11 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 22-32
 
-(2)  A copy of the determination must be given to the body concerned. (2A)  Before the Minister makes a determination under subsection (1) in respect of a body, the Minister must give the body notice in writing: (a)  stating that the Minister is considering suspending the body's approval; and (b)  stating the reasons why the Minister is considering suspending the body's approval; and (c)  inviting the body to respond to the Minister, in writing, within 14 days of the date of the notice. (2B)  In deciding whether or not to make a determination under subsection (1), the Minister must consider any response received from the body within the 14 day period. (3)  If the Minister makes a determination under subsection (1) in respect of a body, the Minister must give to the body a notice under section 22-20 within a reasonable period of time after giving a copy of the determination to the body. (4)  A determination under this section: (a)  takes effect accordingly on the day specified in the determination; and (b)  ceases to have effect if the Minister decides not to revoke the body's approval as a higher education provider.
+(2)  A copy of the determination must be given to the body concerned. (2A)  Before the Minister makes a determination under subsection (1) in respect of a body, the Minister must give the body notice in writing: (a)  stating that the Minister is considering suspending the body’s approval; and (b)  stating the reasons why the Minister is considering suspending the body’s approval; and (c)  inviting the body to respond to the Minister, in writing, within 14 days of the date of the notice. (2B)  In deciding whether or not to make a determination under subsection (1), the Minister must consider any response received from the body within the 14 day period. (3)  If the Minister makes a determination under subsection (1) in respect of a body, the Minister must give to the body a notice under section 22-20 within a reasonable period of time after giving a copy of the determination to the body. (4)  A determination under this section: (a)  takes effect accordingly on the day specified in the determination; and (b)  ceases to have effect if the Minister decides not to revoke the body’s approval as a higher education provider.
 
 ##### 22-32  Determination retaining approval as a provider in respect of existing students following suspension of approval
 
-(1)  The Minister may determine, in writing, that a suspension of a body's approval as a higher education provider under section 22-30 is of no effect for the purposes of: (a)  grants to the body under this Chapter; and (b)  assistance payable to the body's students under Chapter 3; to the extent that the grants or assistance relate to students of the body who have not completed the  * courses of study in which they were enrolled with the body on the day specified for the purposes of paragraph 22-30(4)(a).
+(1)  The Minister may determine, in writing, that a suspension of a body’s approval as a higher education provider under section 22-30 is of no effect for the purposes of: (a)  grants to the body under this Chapter; and (b)  assistance payable to the body’s students under Chapter 3; to the extent that the grants or assistance relate to students of the body who have not completed the *courses of study in which they were enrolled with the body on the day specified for the purposes of paragraph 22-30(4)(a).
 
 _____________________________________
 
@@ -1654,9 +2302,9 @@ When does a body cease to be a higher education provider? Division 22
 
 Section 22-40
 
-(2)  A copy of the determination must be given to the body concerned. (3)  The body is taken, for the purposes of this Act, to continue to be a higher education provider, but only to the extent referred to in subsection (1). (4)  Subsection (3) does not prevent the Minister subsequently revoking the body's approval as a higher education provider under this Division. (5)  A determination made under subsection (1) is not a legislative instrument.
+(2)  A copy of the determination must be given to the body concerned. (3)  The body is taken, for the purposes of this Act, to continue to be a higher education provider, but only to the extent referred to in subsection (1). (4)  Subsection (3) does not prevent the Minister subsequently revoking the body’s approval as a higher education provider under this Division. (5)  A determination made under subsection (1) is not a legislative instrument.
 
-#### Subdivision 22-D-Revocation of approval on application
+#### Subdivision 22-D—Revocation of approval on application
 
 ##### 22-40  Revocation of approval as a provider on application
 
@@ -1678,11 +2326,11 @@ Chapter 2 Grants for higher education assistance etc. Part 2-1 Higher education 
 
 Section 22-45
 
-#### Subdivision 22-E-Notice of approval or revocation ceasing to have effect under the Legislative Instruments Act 2003
+#### Subdivision 22-E—Notice of approval or revocation ceasing to have effect under the Legislative Instruments Act 2003
 
 ##### 22-45  Notice of approval ceasing to have effect under the Legislative Instruments Act 2003
 
-(1)  This section applies if: (a)  a decision of the Minister to approve a body corporate as a higher education provider has taken effect; and (b)  the body ceases to be approved as a higher education provider because the notice of the approval ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 . (2)  The fact that the body ceases to be approved as a higher education provider does not: (a)  affect: (i)  the operation of this Act, or any instrument made under this Act, in relation to the body before the cessation; or (ii)  anything duly done or suffered in relation to the body before the cessation; or (b)  affect any right, privilege, obligation or liability acquired, accrued or incurred before the cessation; or (c)  affect any penalty, forfeiture or punishment incurred in respect of the body having been a higher education provider; or (d)  affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment. Any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the body had not ceased to be approved as a higher education provider.
+(1)  This section applies if: (a)  a decision of the Minister to approve a body corporate as a higher education provider has taken effect; and (b)  the body ceases to be approved as a higher education provider because the notice of the approval ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003. (2)  The fact that the body ceases to be approved as a higher education provider does not: (a)  affect: (i)  the operation of this Act, or any instrument made under this Act, in relation to the body before the cessation; or (ii)  anything duly done or suffered in relation to the body before the cessation; or (b)  affect any right, privilege, obligation or liability acquired, accrued or incurred before the cessation; or (c)  affect any penalty, forfeiture or punishment incurred in respect of the body having been a higher education provider; or (d)  affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment. Any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the body had not ceased to be approved as a higher education provider.
 
 _____________________________________
 
@@ -1706,7 +2354,7 @@ Section 22-50
 
 ##### 22-50  Notice of revocation ceasing to have effect under the Legislative Instruments Act 2003
 
-(1)  This section applies if: (a)  a decision of the Minister to revoke a body's approval as a higher education provider has taken effect; and (b)  the decision to revoke the approval ceases to have effect because the notice of revocation ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 . (2)  The fact that the decision to revoke the approval ceases to have effect does not: (a)  affect: (i)  the operation of this Act, or any instrument made under this Act, in relation to the body before the cessation; or (ii)  anything duly done or suffered in relation to the body before the cessation; or (b)  affect any right, privilege, obligation or liability acquired, accrued or incurred before the cessation; or (c)  affect any penalty, forfeiture or punishment incurred in respect of the body before the cessation; or (d)  affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment. Any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the decision to revoke the approval had not ceased to have effect.
+(1)  This section applies if: (a)  a decision of the Minister to revoke a body’s approval as a higher education provider has taken effect; and (b)  the decision to revoke the approval ceases to have effect because the notice of revocation ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003. (2)  The fact that the decision to revoke the approval ceases to have effect does not: (a)  affect: (i)  the operation of this Act, or any instrument made under this Act, in relation to the body before the cessation; or (ii)  anything duly done or suffered in relation to the body before the cessation; or (b)  affect any right, privilege, obligation or liability acquired, accrued or incurred before the cessation; or (c)  affect any penalty, forfeiture or punishment incurred in respect of the body before the cessation; or (d)  affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment. Any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the decision to revoke the approval had not ceased to have effect.
 
 _____________________________________
 
@@ -1720,15 +2368,15 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 74]]
 
-Division 27 Introduction
-
 Chapter 2 Grants for higher education assistance etc. Part 2-2 Commonwealth Grant Scheme
+
+Division 27 Introduction
 
 Section 27-1
 
-## Part 2-2-Commonwealth Grant Scheme
+## Part 2-2—Commonwealth Grant Scheme
 
-### Division 27-Introduction
+### Division 27—Introduction
 
 ##### 27-1  What this Part is about
 
@@ -1744,7 +2392,7 @@ _____________________________________
 
 * To find definitions of asterisked terms, see the Dictionary in Schedule 1.
 
-> 52            Higher Education Support Act 2003
+52            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -1760,13 +2408,13 @@ Which higher education providers are eligible for a grant? Division 30
 
 Section 30-1
 
-### Division 30-Which higher education providers are eligible for a grant?
+### Division 30—Which higher education providers are eligible for a grant?
 
-#### Subdivision 30-A-Basic rules
+#### Subdivision 30-A—Basic rules
 
 ##### 30-1  Eligibility for grants
 
-(1)  A grant under this Part is payable, as a benefit to students, to a higher education provider, in respect of the year 2005 or a later year, if: (a)  the provider: (i)  is a  * Table A provider; and (ii)  has entered into a funding agreement with the Commonwealth under section 30-25 in respect of a period that includes that year; or (b)  all of the following apply: (i)  the provider is a higher education provider specified in the Commonwealth Grant Scheme Guidelines as a higher education provider that can be paid grants under this Part; (ii)  the Minister has allocated a  * number of Commonwealth supported places to the provider for that year under section 30-10; (iii)  the provider has entered into a funding agreement with the Commonwealth under section 30-25 in respect of a period that includes that year. (2)  However, a grant is payable to a higher education provider that is not a  * Table A provider only if the grant relates only to  * national priorities.
+(1)  A grant under this Part is payable, as a benefit to students, to a higher education provider, in respect of the year 2005 or a later year, if: (a)  the provider: (i)  is a *Table A provider; and (ii)  has entered into a funding agreement with the Commonwealth under section 30-25 in respect of a period that includes that year; or (b)  all of the following apply: (i)  the provider is a higher education provider specified in the Commonwealth Grant Scheme Guidelines as a higher education provider that can be paid grants under this Part; (ii)  the Minister has allocated a *number of Commonwealth supported places to the provider for that year under section 30-10; (iii)  the provider has entered into a funding agreement with the Commonwealth under section 30-25 in respect of a period that includes that year. (2)  However, a grant is payable to a higher education provider that is not a *Table A provider only if the grant relates only to *national priorities.
 
 _____________________________________
 
@@ -1882,7 +2530,7 @@ Section 30-27
 
 ##### 30-27  Funding agreement may specify maximum basic grant amounts
 
-(1)  A funding agreement may: (a)  for a higher education provider that is a  * Table A providerspecify a maximum basic grant amount payable to the provider for a grant year for:
+(1)  A funding agreement may: (a)  for a higher education provider that is a *Table A provider—specify a maximum basic grant amount payable to the provider for a grant year for:
 
 _____________________________________
 
@@ -1900,17 +2548,14 @@ Chapter 2 Grants for higher education assistance etc. Part 2-2 Commonwealth Gran
 
 Section 30-28
 
-(i) * designated courses of study; and (ii) * non-designated courses of study; and (b)  for a higher education provider that is not a Table A provider-specify a maximum basic grant amount
+(i) *designated courses of study; and (ii) *non-designated courses of study; and (b)  for a higher education provider that is not a Table A provider—specify a maximum basic grant amount payable to the provider for a grant year.
 
-(4)  The  * maximum basic grant amount for a provider that is not a under subsection 33-5(8) for the provider for the grant year.
-
-payable to the provider for a grant year.
-###### Table A providers-maximum basic grant amounts for designated courses of study
-(2)  The  * maximum basic grant amount for a  * Table A provider for * designated courses of study must not be less than the amount worked out under subsection 33-5(4) for the provider for the grant year.
-###### Table A providers-maximum basic grant amounts for non-designated courses of study
-(3)  The  * maximum basic grant amount for a  * Table A provider for * non-designated courses of study must not be less than: (a)  if a maximum basic grant amount was specified in the provider's funding agreement for the preceding year for non-designated courses of study-the amount that was so specified; or (b)  if a maximum basic grant amount was not specified in the provider's funding agreement for the preceding year for non-designated courses of study-the amount worked out under paragraph 33-5(5)(a) for the provider for the preceding year.
-###### Non-Table A providers-maximum basic grant amounts
-* Table A provider must not be less than the amount worked out
+###### Table A providers—maximum basic grant amounts for designated courses of study
+(2)  The *maximum basic grant amount for a *Table A provider for *designated courses of study must not be less than the amount worked out under subsection 33-5(4) for the provider for the grant year.
+###### Table A providers—maximum basic grant amounts for non-designated courses of study
+(3)  The *maximum basic grant amount for a *Table A provider for *non-designated courses of study must not be less than: (a)  if a maximum basic grant amount was specified in the provider’s funding agreement for the preceding year for non-designated courses of study—the amount that was so specified; or (b)  if a maximum basic grant amount was not specified in the provider’s funding agreement for the preceding year for non-designated courses of study—the amount worked out under paragraph 33-5(5)(a) for the provider for the preceding year.
+###### Non-Table A providers—maximum basic grant amounts
+(4)  The *maximum basic grant amount for a provider that is not a *Table A provider must not be less than the amount worked out under subsection 33-5(8) for the provider for the grant year.
 
 ##### 30-28  Funding agreement to be published
 
@@ -2022,13 +2667,15 @@ Division 33 How are grant amounts worked out?
 
 Section 33-10
 
-- For the purposes of subparagraph (7)(b)(ii), the amount is the sum of the amounts worked out, for each  * funding cluster to which the Minister has allocated places to the provider under section 30-10, by multiplying:
+(8)  For the purposes of subparagraph (7)(b)(ii), the amount is the sum of the amounts worked out, for each *funding cluster to which the Minister has allocated places to the provider under section 30-10, by multiplying:
 
 (a)  the  * number of Commonwealth supported places allocated to that funding cluster; by
 
 (b)  the  * Commonwealth contribution amount for a place in that funding cluster.
 
 ##### 33-10  Commonwealth contribution amounts
+
+The Commonwealth contribution amount, for a place in a *funding cluster, is:
 
 Commonwealth contribution amount
 --- | --- | ---
@@ -2041,8 +2688,6 @@ Item | Funding cluster | Commonwealth contribution amount
 6 | Nursing | $11,903
 7 | Engineering, Science, Surveying | $15,156
 8 | Dentistry, Medicine, Veterinary Science, Agriculture | $19,235
-
-The Commonwealth contribution amount , for a place in a * funding cluster, is:
 
 Note:
 
@@ -2122,11 +2767,11 @@ The Commonwealth Grant Scheme Guidelines may specify:
 
 ##### 33-37  Adjustments for breach of section 19-37
 
-- A higher education provider's  * basic grant amount for the grant year is reduced by an adjustment in respect of the grant year if, on one or more occasions during the grant year, the provider breaches a condition imposed under section 19-37.
+(1)  A higher education provider’s *basic grant amount for the grant year is reduced by an adjustment in respect of the grant year if, on one or more occasions during the grant year, the provider breaches a condition imposed under section 19-37.
 
-- The adjustment under subsection (1) is an amount worked out using the formula:
+(2)  The adjustment under subsection (1) is an amount worked out using the formula:
 
-Reduction amount Total places provided 
+Reduction amount × Total places provided
 
 where:
 
@@ -2548,7 +3193,7 @@ Section 36-45
 
 ##### 36-45  Limits on student contribution amounts
 
-If a person is enrolled with a higher education provider in a unit of study as a  * Commonwealth supported student, the provider must not charge, as the person's  * student contribution amount for the unit, an amount that exceeds the amount worked out as follows: *Maximum student contribution The *EFTSL value of the unit amount for a place 
+If a person is enrolled with a higher education provider in a unit of study as a  * Commonwealth supported student, the provider must not charge, as the person's  * student contribution amount for the unit, an amount that exceeds the amount worked out as follows: *Maximum student contribution amount for a place × The *EFTSL value of the unit
 
 ##### 36-50  Provider must not accept up-front payments of more than 90% of student contribution amounts
 
@@ -2618,7 +3263,7 @@ _____________________________________
 
 * To find definitions of asterisked terms, see the Dictionary in Schedule 1.
 
-> 82            Higher Education Support Act 2003
+82            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -2652,7 +3297,7 @@ Note: The Other Grants Guidelines are made by the Minister under section 238-10.
 
 ##### 41-10  Eligibility for grants under this Part
 
-- Subject to subsection (2), a body corporate referred to in an item in the third column of the table is eligible for grants under this Part, in respect of the year 2005 or a later year, for the purposes specified in the second column of that item.
+(1)  Subject to subsection (2), a body corporate referred to in an item in the third column of the table is eligible for grants under this Part, in respect of the year 2005 or a later year, for the purposes specified in the second column of that item.
 
 Eligibility for grants under this Part
 --- | --- | ---
@@ -2715,15 +3360,11 @@ Item | Purpose of grant | Who is eligible
 11 | Grants for activities that: (a) assure and enhance the quality of Australia's higher education sector; or (b) foster an understanding of the importance of, or promote research and scholarship in, science, social science or the humanities in Australia; or (c) support open access to higher education across Australia. | * Table A providers and bodies corporate that are specified in the Other Grants Guidelines for the purposes of this item
 12 | Grants to assist higher education providers with the transitional costs of changes to maximum student contribution amounts | Higher education providers that have provided Commonwealth-supported places for any year
 
-- If the Other Grants Guidelines: (a)  specify a program under which grants for a particular purpose specified in the table are to be paid; and (b)  specify extra conditions of eligibility to receive a grant under the program; grants is not eligible for such a grant unless it complies with those
-
-then a body corporate specified in the table in respect of those extra conditions.
+(2)  If the Other Grants Guidelines: (a)  specify a program under which grants for a particular purpose specified in the table are to be paid; and (b)  specify extra conditions of eligibility to receive a grant under the program; then a body corporate specified in the table in respect of those grants is not eligible for such a grant unless it complies with those extra conditions.
 
 ##### 41-15  Grants may be paid under programs
 
-(1)  The Other Grants Guidelines may specify one or more programs under which grants for particular purposes specified in the table in subsection 41-10(1) are to be paid. (2)  If the Other Grants Guidelines specify a program for a grant for a particular purpose, the guidelines may also specify all or any of the following matters for the program: (a)  the program's objectives; (b)  the extra conditions of eligibility to receive a grant under the
-
-- program;
+(1)  The Other Grants Guidelines may specify one or more programs under which grants for particular purposes specified in the table in subsection 41-10(1) are to be paid. (2)  If the Other Grants Guidelines specify a program for a grant for a particular purpose, the guidelines may also specify all or any of the following matters for the program: (a)  the program's objectives; (b)  the extra conditions of eligibility to receive a grant under the program;
 
 _____________________________________
 
@@ -2797,19 +3438,17 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 110]]
 
-Chapter 2
+Chapter 2 Grants for higher education assistance etc.
 
-Part 2-3
+Part 2-3 Other grants
 
-Division 41
-
-Grants for higher education assistance etc. Other grants Other grants
+Division 41 Other grants
 
 Section 41-45
 
 ##### 41-45  Maximum payments for other grants under this Part
 
-- The total payments made under this Part in respect of a year referred to in the table must not exceed the amount specified next to that year in the table.
+(1)  The total payments made under this Part in respect of a year referred to in the table must not exceed the amount specified next to that year in the table.
 
 Maximum payments for other grants under this Part
 --- | --- | ---
@@ -2862,13 +3501,13 @@ Item | Year | Amount
 
 (1D)  The Minister may, in writing, vary a determination under subsection (1A) or (1B) for a year at any time before the end of that year.
 
-- Payments made in respect of a project in a year are taken, for the purposes of subsection (1) to have been made in respect of that year.
+(2)  Payments made in respect of a project in a year are taken, for the purposes of subsection (1) to have been made in respect of that year.
 
 ##### 41-50  List of maximum grant amounts
 
-- Before the start of a year, the Minister must, by legislative instrument, cause a list to be prepared setting out the maximum amounts of all grants which may be paid in the following year for each purpose of grant specified in the table in section 41-10.
+(1)  Before the start of a year, the Minister must, by legislative instrument, cause a list to be prepared setting out the maximum amounts of all grants which may be paid in the following year for each purpose of grant specified in the table in section 41-10.
 
-- The Minister may, in writing, vary a list for a year at any time before the end of that year.
+(2)  The Minister may, in writing, vary a list for a year at any time before the end of that year.
 
 _____________________________________
 
@@ -3000,15 +3639,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 116]]
 
-Chapter 2
+Chapter 2 Grants for higher education assistance etc.
 
-Part 2-4
+Part 2-4 Commonwealth scholarships
 
 Division 46 Commonwealth scholarships
 
 Section 46-30
-
-Grants for higher education assistance etc. Commonwealth scholarships
 
 ##### 46-30  Amounts payable under this Part
 
@@ -3060,11 +3697,11 @@ Item | Year | Amount
 13 | 2016 | (a) if paragraph (b) does not apply-$307,329,000; or (b) if the Minister determines an amount under subsection (2) in respect of 2016-that amount
 14 | 2017 and each later year | The amount determined by the Minister under subsection (3) in respect of that year
 
-- The Minister may, by legislative instrument, determine the total payments made under this Part in respect of a year starting on or after 1 January 2013 but before 1 January 2017.
+(2)  The Minister may, by legislative instrument, determine the total payments made under this Part in respect of a year starting on or after 1 January 2013 but before 1 January 2017.
 
-- The Minister must, by legislative instrument, determine the total payments made under this Part in respect of a year starting on or after 1 January 2017.
+(3)  The Minister must, by legislative instrument, determine the total payments made under this Part in respect of a year starting on or after 1 January 2017.
 
-- A determination under subsection (3) for a year must be made before the start of that year.
+(4)  A determination under subsection (3) for a year must be made before the start of that year.
 
 _____________________________________
 
@@ -3410,11 +4047,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 130]]
 
+Chapter 3 Assistance to students
+
+Part 3-2 HECS-HELP assistance
+
 Division 93 How are amounts of HECS-HELP assistance worked out?
 
 Section 93-1
-
-Chapter 3 Assistance to students Part 3-2 HECS-HELP assistance
 
 ### Division 93-How are amounts of HECS-HELP assistance worked out?
 
@@ -3424,7 +4063,7 @@ The amount of  * HECS-HELP assistance to which a student is entitled for a unit 
 
 ##### 93-5  Student contribution amounts
 
-(1)  A person's student contribution amount for a unit of study is the amount worked out as follows: The person's * The  EFTSL value student contribution amount of the unit for a place in the unit  where the person's student contribution amount for a place in the unit is: (a)  if only one student contribution amount has been determined for places in the unit under subsection 19-87(2)-that student contribution amount; or (b)  if more than one student contribution amount has been determined for places in the unit under that subsection-the student contribution amount determined under that subsection that applies to the person. (2)  A person's  * student contribution amount for a place in a unit must not exceed the  * maximum student contribution amount for a place in the unit. (3)  A person's student contribution amount for a unit of study is nil if the person undertakes the unit as part of an  * enabling course. This subsection has effect despite subsection (1).
+(1)  A person's student contribution amount for a unit of study is the amount worked out as follows: The person's student contribution amount for a place in the unit  The  * EFTSL value of the unit where the person's student contribution amount for a place in the unit is: (a)  if only one student contribution amount has been determined for places in the unit under subsection 19-87(2)-that student contribution amount; or (b)  if more than one student contribution amount has been determined for places in the unit under that subsection-the student contribution amount determined under that subsection that applies to the person. (2)  A person's  * student contribution amount for a place in a unit must not exceed the  * maximum student contribution amount for a place in the unit. (3)  A person's student contribution amount for a unit of study is nil if the person undertakes the unit as part of an  * enabling course. This subsection has effect despite subsection (1).
 
 _____________________________________
 
@@ -3446,11 +4085,11 @@ How are amounts of HECS-HELP assistance worked out? Division 93
 
 Section 93-10
 
-- If an amount worked out by using the formula in subsection (1) is an amount made up of dollars and cents, round the amount down to the nearest dollar.
+(4)  If an amount worked out by using the formula in subsection (1) is an amount made up of dollars and cents, round the amount down to the nearest dollar.
 
 ##### 93-10  Maximum student contribution amounts for places
 
-- The maximum student contribution amount for a place in a unit of study is the amount specified in the following table in relation to the funding cluster in which the unit is included.
+(1)  The maximum student contribution amount for a place in a unit of study is the amount specified in the following table in relation to the funding cluster in which the unit is included.
 
 ###### Maximum student contribution amounts for places
 --- | --- | ---
@@ -3476,11 +4115,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 132]]
 
+Chapter 3 Assistance to students
+
+Part 3-2 HECS-HELP assistance
+
 Division 93 How are amounts of HECS-HELP assistance worked out?
 
 Section 93-15
-
-Chapter 3 Assistance to students Part 3-2 HECS-HELP assistance
 
 Note 1: Commonwealth Grant Scheme Guidelines made for the purposes of section 33-35 and this section deal with the funding clusters in which particular units of study are included and whether particular units are units in a particular part of a funding cluster. Note 2: Maximum student contribution amounts for places are indexed under Part 5-6. (2)  The Commonwealth Grant Scheme Guidelines may specify, for the purposes of column 2 of the table in subsection (1): (a)  how to determine whether a particular unit is a unit in a particular part of a  * funding cluster; or (b)  that a particular unit is in a particular part of a funding cluster.
 
@@ -3616,9 +4257,9 @@ Note: Amounts of assistance under this Part may form part of a person's HELP deb
 
 ##### 101-5  The FEE-HELP Guidelines
 
-* FEE-HELP assistance is also dealt with in the FEE-HELP Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines. The FEE-HELP Guidelines are made by the Minister under
+* FEE-HELP assistance is also dealt with in the FEE-HELP Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines.
 
-Note: section 238-10.
+Note: The FEE-HELP Guidelines are made by the Minister under section 238-10.
 
 _____________________________________
 
@@ -3660,11 +4301,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 138]]
 
+Chapter 3 Assistance to students
+
+Part 3-3 FEE-HELP assistance
+
 Division 104 Who is entitled to FEE-HELP assistance?
 
 Section 104-2
-
-Chapter 3 Assistance to students Part 3-3 FEE-HELP assistance
 
 (ii)  in any other case-completed, signed and given to an appropriate officer of the higher education provider a request for Commonwealth assistance in relation to the unit or, where the course of study of which the unit forms a part is, or is to be, undertaken with the provider, in relation to the course of study. (2)  A student is not entitled to  * FEE-HELP assistance for a unit of study if: (a)  the unit forms a part of a  * course of study; and (b)  the course of study is, or is to be, undertaken by the student primarily at an overseas campus.
 
@@ -3918,11 +4561,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 148]]
 
+Chapter 3 Assistance to students
+
+Part 3-3 FEE-HELP assistance
+
 Division 104 Who is entitled to FEE-HELP assistance?
 
 Section 104-42
-
-Chapter 3 Assistance to students Part 3-3 FEE-HELP assistance
 
 (b) * Open Universities Australia waives the requirement that the application be made before the end of that period, on the ground that it would not be, or was not, possible for the application to be made before the end of that period; Open Universities Australia must, as soon as practicable, consider the matter to which the application relates and notify the applicant of the decision of the application. (2)  The notice must include a statement of the reasons for the decision. Note: Refusals of applications are reviewable under Part 5-7.
 
@@ -3958,9 +4603,8 @@ Section 104-45
 
 (1)  One or more subjects or units in which a person is enrolled with a higher education provider, or to which access is provided by  * Open Universities Australia, are together a bridging course for overseas-trained professionals if: (a)  the person holds an  * assessment statement issued by an * assessing body for a  * listed professional occupation; and (b)  the statement is to the effect that, in the body's opinion, if the person were successfully to undertake additional studies of a kind specified in the statement, the person would meet the * requirements for entry to that occupation; and (c)  the person undertakes, or proposes to undertake, those additional studies by: (i)  enrolling, or proposing to enrol, on a  * non-award basis, in those subjects or units with the provider; or (ii)  accessing, or proposing to access, those subjects or units through Open Universities Australia; and (d)  the total student load imposed on the person in relation to those subjects or units does not exceed the student load that, in the opinion of the provider or Open Universities Australia, represents the load imposed on a full-time student for one year; and (e)  those subjects or units relate to the assessment statement.
 ###### Courses consisting of occupation-related courses of instruction
-access is provided by  * Open Universities Australia, are together a
 
-(2)  One or more occupation-related courses of instruction in which a person is enrolled with a higher education provider, or to which bridging course for overseas-trained professionals if: (a)  the person holds an  * assessment statement issued by an * assessing body for a  * listed professional occupation; and
+(2)  One or more occupation-related courses of instruction in which a person is enrolled with a higher education provider, or to which access is provided by  * Open Universities Australia, are together a bridging course for overseas-trained professionals if: (a)  the person holds an  * assessment statement issued by an * assessing body for a  * listed professional occupation; and
 
 _____________________________________
 
@@ -3974,11 +4618,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 150]]
 
-Who is entitled to FEE-HELP assistance?
+Chapter 3 Assistance to students
 
-Chapter 3 Assistance to students Part 3-3 FEE-HELP assistance
+Part 3-3 FEE-HELP assistance
 
-Division 104
+Division 104 Who is entitled to FEE-HELP assistance?
 
 Section 104-45
 
@@ -4012,7 +4656,7 @@ opinion of the provider or Open Universities Australia, represents the load impo
 
 ##### 104-50  Assessment statements
 
-(1)  An  * assessing body for a  * listed professional occupation may give to a person who: (a)  holds a qualification that: (i)  was awarded in a foreign country; and (ii)  relates to that occupation; and (b)  proposes to seek entry to that occupation: (i)  in Australia; or (ii)  if the assessing body is an  * assessing body of a State or Territory-in that State or Territory; a written statement to the effect that, in the body's opinion, if the person were to do any or all of the things referred to in subsection (2), the person would meet the  * requirements for entry to that occupation. The statement is an assessment statement . (2)  The statement may refer to any or all of the following: (a)  successfully undertaking additional studies of a kind specified in the statement; (b)  being successful in one or more examinations specified in the statement; (c)  successfully undertaking a tuition and training program of a kind specified in the statement. Note: A statement could specify one of the things mentioned in paragraph (a), (b) or (c) or any combination of the things mentioned in those paragraphs. (3)  This section does not affect the power of an  * assessing body to charge fees for an  * assessment statement under subsection (1).
+(1)  An  * assessing body for a  * listed professional occupation may give to a person who: (a)  holds a qualification that: (i)  was awarded in a foreign country; and (ii)  relates to that occupation; and (b)  proposes to seek entry to that occupation: (i)  in Australia; or (ii)  if the assessing body is an  * assessing body of a State or Territory—in that State or Territory; a written statement to the effect that, in the body's opinion, if the person were to do any or all of the things referred to in subsection (2), the person would meet the  * requirements for entry to that occupation. The statement is an assessment statement. (2)  The statement may refer to any or all of the following: (a)  successfully undertaking additional studies of a kind specified in the statement; (b)  being successful in one or more examinations specified in the statement; (c)  successfully undertaking a tuition and training program of a kind specified in the statement. Note: A statement could specify one of the things mentioned in paragraph (a), (b) or (c) or any combination of the things mentioned in those paragraphs. (3)  This section does not affect the power of an  * assessing body to charge fees for an  * assessment statement under subsection (1).
 
 _____________________________________
 
@@ -4064,7 +4708,7 @@ Section 104-70
 
 ##### 104-70  Requirements for entry to an occupation
 
-(1)  The requirements for entry , to a  * listed professional occupation, are the educational requirements: (a)  for entry to that occupation in Australia; or (b)  if the requirements are referred to in an  * assessment statement given by an  * assessing body of a State or Territory for that occupation-for entry to that occupation in that State or Territory. (2)  A requirement for entry to a  * listed professional occupation may: (a)  be imposed by or under a law; or (b)  be imposed by or under the rules of a body; or (c)  consist of eligibility for membership of a body; or (d)  arise as a generally accepted employment or industry practice. (3)  However, neither of the following is a requirement for entry to a * listed professional occupation: (a)  English language training relating to general aspects of written communication or verbal communication, or both; or (b)  being successful in: (i)  the Occupational English Test administered by Language Australia; or (ii)  any other English language test, where that test does not form an integral part of an occupation-related study unit, an occupation-related course of instruction or an occupation-related tuition and training program.
+(1)  The requirements for entry, to a  * listed professional occupation, are the educational requirements: (a)  for entry to that occupation in Australia; or (b)  if the requirements are referred to in an  * assessment statement given by an  * assessing body of a State or Territory for that occupation—for entry to that occupation in that State or Territory. (2)  A requirement for entry to a  * listed professional occupation may: (a)  be imposed by or under a law; or (b)  be imposed by or under the rules of a body; or (c)  consist of eligibility for membership of a body; or (d)  arise as a generally accepted employment or industry practice. (3)  However, neither of the following is a requirement for entry to a * listed professional occupation: (a)  English language training relating to general aspects of written communication or verbal communication, or both; or (b)  being successful in: (i)  the Occupational English Test administered by Language Australia; or (ii)  any other English language test, where that test does not form an integral part of an occupation-related study unit, an occupation-related course of instruction or an occupation-related tuition and training program.
 
 _____________________________________
 
@@ -4190,11 +4834,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 158]]
 
+Chapter 3 Assistance to students
+
+Part 3-3 FEE-HELP assistance
+
 Division 110 How are amounts of FEE-HELP assistance paid?
 
 Section 110-5
-
-Chapter 3 Assistance to students Part 3-3 FEE-HELP assistance
 
 (1A)  Subsection (1) does not apply to the provider if: (a)  the person's  * FEE-HELP balance was re-credited under subsection 104-25(1) (main case of re-crediting a person's FEE-HELP balance); and (b)  the person enrolled in the unit in circumstances that make it a replacement unit within the meaning of the  * tuition assurance requirements. (1B)  The Higher Education Provider Guidelines may, in setting out the tuition assurance requirements, specify, in relation to the re-crediting of a person's  * FEE-HELP balance in circumstances to which subsection (1A) applies: (a)  the amount (if any) that is to be paid to the Commonwealth; and (b)  the person (if any) who is to pay the amounts. (2)  If, under subsection 104-25(2) or 104-27(2),  * Open Universities Australia re-credits a person's  * FEE-HELP balance with an amount relating to  * FEE-HELP assistance for a unit of study, Open Universities Australia must pay to the Commonwealth an amount equal to the amount of FEE-HELP assistance to which the person was entitled for the unit.
 
@@ -4234,11 +4880,9 @@ Note: Amounts of assistance under this Part may form part of a person's HELP deb
 
 ##### 115-5  The OS-HELP Guidelines
 
-* OS-HELP assistance is also dealt with in the OS-HELP matter is or may be dealt with in these Guidelines.
+* OS-HELP assistance is also dealt with in the OS-HELP Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines.
 
-Note: section 238-10.
-
-Guidelines. The provisions of this Part indicate when a particular The OS-HELP Guidelines are made by the Minister under
+Note: The OS-HELP Guidelines are made by the Minister under section 238-10.
 
 _____________________________________
 
@@ -4252,9 +4896,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 160]]
 
-Division 118 Who is entitled to OS-HELP assistance?
+Chapter 3 Assistance to students
 
-Chapter 3 Assistance to students Part 3-4 OS-HELP assistance
+Part 3-4 OS-HELP assistance
+
+Division 118 Who is entitled to OS-HELP assistance?
 
 Section 118-1
 
@@ -4310,9 +4956,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 162]]
 
-Section 118-15
+Chapter 3 Assistance to students
 
-Chapter 3 Assistance to students Part 3-4 OS-HELP assistance Division 118 Who is entitled to OS-HELP assistance?
+Part 3-4 OS-HELP assistance
+
+Division 118 Who is entitled to OS-HELP assistance?
+
+Section 118-15
 
 (ii)  will be outside Australia while undertaking that study; and (b)  the study commences on or after 1 January 2005; and (c)  the study outside Australia will count towards the course requirements of the  * course of study in which the student is enrolled with the home provider.
 
@@ -4426,13 +5076,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 166]]
 
+Chapter 3 Assistance to students
+
 Part 3-5 SA-HELP assistance
 
 Division 126 Who is entitled to SA-HELP assistance?
-
-Chapter 3
-
-Assistance to students
 
 Section 126-1
 
@@ -4492,11 +5140,7 @@ Section 127-1
 
 ##### 127-1  The amount of SA-HELP assistance for a student services and amenities fee
 
-The amount of  * SA-HELP assistance to which a student is entitled
-
-for a  * student services and amenities fee is the difference (if any) between: (a)  the fee; and (b)  the sum of any payments of the fee (other than a payment of SA-HELP assistance under this Part) made on or before the
-
-- day on which the fee is payable.
+The amount of  * SA-HELP assistance to which a student is entitled for a  * student services and amenities fee is the difference (if any) between: (a)  the fee; and (b)  the sum of any payments of the fee (other than a payment of SA-HELP assistance under this Part) made on or before the day on which the fee is payable.
 
 _____________________________________
 
@@ -4660,7 +5304,7 @@ Section 137-10
 
 ###### Incurring FEE-HELP debts
 
-(1)  A person incurs a debt to the Commonwealth if, under section 110-1, the Commonwealth: (a)  makes a loan to the person; and (b)  uses the amount lent to make a payment in discharge of the person's liability to pay his or her  * tuition fee for a unit of study. The debt is a FEE-HELP debt . (2)  The amount of the  * FEE-HELP debt is: (a)  if the loan relates to  * FEE-HELP assistance for a unit of study that forms part of an  * undergraduate course of studyan amount equal to 125% of the loan; or (b)  if paragraph (a) does not apply-the amount of the loan.
+(1)  A person incurs a debt to the Commonwealth if, under section 110-1, the Commonwealth: (a)  makes a loan to the person; and (b)  uses the amount lent to make a payment in discharge of the person's liability to pay his or her  * tuition fee for a unit of study. The debt is a FEE-HELP debt. (2)  The amount of the  * FEE-HELP debt is: (a)  if the loan relates to  * FEE-HELP assistance for a unit of study that forms part of an  * undergraduate course of study—an amount equal to 125% of the loan; or (b)  if paragraph (a) does not apply—the amount of the loan.
 ###### When FEE-HELP debts are incurred
 (3)  A  * FEE-HELP debt is taken to have been incurred by a person immediately after the  * census date for the unit, whether or not the Commonwealth has made a payment in respect of the person's * tuition fee for the unit.
 ###### Remission of FEE-HELP debts
@@ -4685,11 +5329,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 174]]
 
+Chapter 4 Repayment of loans
+
+Part 4-1 Indebtedness
+
 Division 137 How do HELP debts arise?
 
 Section 137-16
-
-Chapter 4 Repayment of loans Part 4-1 Indebtedness
 
 (2)  The amount of the  * OS-HELP debt is an amount equal to the amount of the loan.
 ###### When OS-HELP debts are incurred
@@ -4731,7 +5377,7 @@ Section 137-18
 
 ###### Incurring VET FEE-HELP debts
 
-(1)  A person incurs a debt to the Commonwealth if, under clause 55 of Schedule 1A, the Commonwealth: (a)  makes a loan to the person; and (b)  uses the amount lent to make a payment in discharge of the person's liability to pay his or her  * VET tuition fee for a * VET unit of study. The debt is a VET FEE-HELP debt . (2)  The amount of the  * VET FEE-HELP debt is: (a)  120% of the loan; or (b)  if the  * VET Guidelines specify a lesser percentage of the loan for the person-that lesser percentage of the loan. Note: For specification by class, see subsection 13(3) of the Legislative Instruments Act 2003 .
+(1)  A person incurs a debt to the Commonwealth if, under clause 55 of Schedule 1A, the Commonwealth: (a)  makes a loan to the person; and (b)  uses the amount lent to make a payment in discharge of the person's liability to pay his or her  * VET tuition fee for a * VET unit of study. The debt is a VET FEE-HELP debt. (2)  The amount of the  * VET FEE-HELP debt is: (a)  120% of the loan; or (b)  if the  * VET Guidelines specify a lesser percentage of the loan for the person—that lesser percentage of the loan. Note: For specification by class, see subsection 13(3) of the Legislative Instruments Act 2003.
 
 ###### When VET FEE-HELP debts are incurred
 
@@ -4757,11 +5403,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 176]]
 
-Section 137-20
+Chapter 4 Repayment of loans
 
-Chapter 4 Repayment of loans Part 4-1 Indebtedness
+Part 4-1 Indebtedness
 
 Division 137 How do HELP debts arise?
+
+Section 137-20
 
 Note: HELP debts are not provable in bankruptcy: see subsection 82(3AB) of the Bankruptcy Act 1966 .
 
@@ -4795,7 +5443,7 @@ Section 140-1
 
 ###### Stage 1-Former accumulated HELP debt
 
-(2)  The  * former accumulated HELP debt is worked out by adjusting the preceding financial year's  * accumulated HELP debt to take account of: (a)  changes in the Consumer Price Index; and (b)  the  * HELP debts that he or she incurs during the last 6 months of the preceding financial year; and (c) * voluntary repayments of the debt; and (d) * compulsory repayment amounts in respect of the debt; and (e)  if compulsory repayment amounts are not required to be paid in respect of the debt-the  * HECS-HELP benefit (if any). (See Subdivision 140-B.)
+(2)  The  * former accumulated HELP debt is worked out by adjusting the preceding financial year's  * accumulated HELP debt to take account of: (a)  changes in the Consumer Price Index; and (b)  the  * HELP debts that he or she incurs during the last 6 months of the preceding financial year; and (c) * voluntary repayments of the debt; and (d) * compulsory repayment amounts in respect of the debt; and (e)  if compulsory repayment amounts are not required to be paid in respect of the debt—the  * HECS-HELP benefit (if any). (See Subdivision 140-B.)
 
 ###### Stage 2-Accumulated HELP debt
 
@@ -4861,11 +5509,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 180]]
 
+Chapter 4 Repayment of loans
+
+Part 4-1 Indebtedness
+
 Division 140 How are accumulated HELP debts worked out?
 
 Section 140-5
-
-Chapter 4 Repayment of loans Part 4-1 Indebtedness
 
 (b) ending immediately before the next 1 June. Step 4. Subtract the sum of all of the person's  * compulsory repayment amounts that: (a) were assessed during that period (excluding any assessed as a result of a  * return given before that period); or (b) were assessed after the end of that period as a result of a return given before the end of that period. Step 4A. In respect of that period, subtract the amount of * HECS-HELP benefit (if any) determined, in respect of the person, by the  * Commissioner under section 157-20 for an  * income year, if the person did not have any * compulsory repayment amounts for that year. Step 5. Subtract the sum of the amounts by which any * compulsory repayment amount of the person is increased (whether as a result of an increase in the person's  * taxable income of an  * income year or otherwise) by an amendment of an assessment made during that period. Step 6. Add the sum of the amounts by which any  * compulsory repayment amount of the person is reduced (whether as a result of a reduction in the person's  * taxable income of an * income year or otherwise) by an amendment of an assessment made during that period.
 
@@ -4899,7 +5549,7 @@ Step 2: Add the HELP debt of $1,500 incurred on 31 March 2011.
 
 Step 3: Subtract the $525 voluntary repayment made on 1 May 2012.
 
-- Step 4: Subtract the $3,000 compulsory repayment assessed on 3 September 2011.
+Step 4: Subtract the $3,000 compulsory repayment assessed on 3 September 2011.
 
 Step 4A: Does not apply because Lorraine does not satisfy the eligibility requirements for the HECS-HELP benefit.
 
@@ -4907,19 +5557,23 @@ Steps 5 and 6: Do not apply because since 1 June 2011 Lorraine had no amendments
 
 Lorraine's former accumulated HELP debt before indexation on 1 June 2012 is:
 
+($15,000 + $1,500) − ($525 + $3,000) = $12,975
+
 If, for example, the indexation factor for 1 June 2012 were 1.030, then the former accumulated HELP debt would be:
 
-- For the purposes of this section, an assessment, or an amendment of an assessment, is taken to have been made on the day specified in the notice of assessment, or notice of amended assessment, as the date of issue of that notice.
+$12,975 × 1.030 = $13,364.25
 
-- If a determination by the  * Commissioner under section 157-20 is reviewed under Part 5-7:
+(2)  For the purposes of this section, an assessment, or an amendment of an assessment, is taken to have been made on the day specified in the notice of assessment, or notice of amended assessment, as the date of issue of that notice.
+
+(3)  If a determination by the  * Commissioner under section 157-20 is reviewed under Part 5-7:
 
 (a)  the reference in step 4A of the method statement in subsection (1) to the determination includes a reference to the decision on review; and
 
-(b)  to the extent that the decision on review affects any step in the method statement-the decision on review must be taken into account in working out a person's  * former accumulated HELP debt under this section.
+(b)  to the extent that the decision on review affects any step in the method statement—the decision on review must be taken into account in working out a person's  * former accumulated HELP debt under this section.
 
 ##### 140-10  HELP debt indexation factor
 
-- The HELP debt indexation factor for 1 June in a financial year is the number (rounded to 3 decimal places) worked out as follows:
+(1)  The HELP debt indexation factor for 1 June in a financial year is the number (rounded to 3 decimal places) worked out as follows:
 
 _____________________________________
 
@@ -4973,7 +5627,7 @@ Section 140-20
 
 disregard the publication of the later index for the purposes of this section.
 
-- If, at any time before or after the commencement of this Act, the * Australian Statistician has changed or changes the reference base for the Consumer Price Index, then, in applying this section after the change took place or takes place, have regard only to  * index numbers published in terms of the new reference base.
+(3)  If, at any time before or after the commencement of this Act, the * Australian Statistician has changed or changes the reference base for the Consumer Price Index, then, in applying this section after the change took place or takes place, have regard only to  * index numbers published in terms of the new reference base.
 
 ##### 140-20  Publishing HELP debt indexation factors
 
@@ -4983,9 +5637,9 @@ The  * Commissioner must cause to be published before 1 June in each financial y
 
 ##### 140-25  Working out an accumulated HELP debt
 
-- A person's accumulated HELP debt , for a financial year, is worked out as follows:
+(1)  A person's accumulated HELP debt, for a financial year, is worked out as follows:
 
-Former accumulated HELP debts HELP debt HELP debt incurred repayments  
+Former accumulated HELP debt + HELP debts incurred − HELP debt repayments
 
 where:
 
@@ -5007,23 +5661,17 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 184]]
 
+Chapter 4 Repayment of loans
+
+Part 4-1 Indebtedness
+
 Division 140 How are accumulated HELP debts worked out?
 
 Section 140-25
 
-Chapter 4 Repayment of loans Part 4-1 Indebtedness
-
 Example: Paula is studying part-time for a Degree of Bachelor of Science. On 1 June 2009, her former accumulated HELP debt was worked out using Subdivision 140-B to be $20,000. She incurred a HELP debt of $1,500 on 31 August 2008. No repayments have been made in the 12 months from 1 June 2008. Paula's accumulated HELP debt on 1 June 2009 is worked out by taking her former accumulated HELP debt of $20,000 and adding the $1,500 HELP debt incurred on 31 August 2008. That is:
 
-$20,000
-
-$1,500
-
-$21,500
-
-
-
-
+$20,000 + $1,500 = $21,500
 
 (1A)  For the purposes of the definition of HELP debts incurred in subsection (1), use the following method statement:
 
@@ -5131,11 +5779,9 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 188]]
 
-Chapter 4
+Chapter 4 Repayment of loans
 
-Part 4-2
-
-Repayment of loans Discharge of indebtedness
+Part 4-2 Discharge of indebtedness
 
 Division 151 How is indebtedness voluntarily discharged?
 
@@ -5153,7 +5799,7 @@ the person owes to the Commonwealth under this Chapter.
 
 ##### 151-5  Voluntary repayment bonus relating to HELP debts
 
-- The effect that a payment under section 151-1 has on a  * HELP debt or an  * accumulated HELP debt that a person (the debtor ) owes to the Commonwealth under this Chapter is the effect specified in subsection (2) or (3) of this section if the amount of the payment is:
+(1)  The effect that a payment under section 151-1 has on a  * HELP debt or an  * accumulated HELP debt that a person (the debtor) owes to the Commonwealth under this Chapter is the effect specified in subsection (2) or (3) of this section if the amount of the payment is:
 
 (a)  $500 or more; or
 
@@ -5161,7 +5807,7 @@ the person owes to the Commonwealth under this Chapter.
 
 ###### Total debt paid off
 
-- The debtor is taken to pay off the total debt if the payment in respect of the debt is equal to, or exceeds, an amount worked out as follows:
+(2)  The debtor is taken to pay off the total debt if the payment in respect of the debt is equal to, or exceeds, an amount worked out as follows:
 
 Amount of the debt outstanding
 
@@ -5173,9 +5819,9 @@ The total of Andrew's HELP debts and accumulated HELP debt is $2,500. To pay off
 
 ###### Part of debt paid off
 
-- If the debtor is not taken to pay off the total debt, the outstanding amount of the debt is to be reduced by an amount worked out as follows:
+(3)  If the debtor is not taken to pay off the total debt, the outstanding amount of the debt is to be reduced by an amount worked out as follows:
 
-Amount of the payment 1.05 
+Amount of the payment × 1.05
 
 _____________________________________
 
@@ -5223,11 +5869,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 190]]
 
+Chapter 4 Repayment of loans
+
+Part 4-2 Discharge of indebtedness
+
 Division 151 How is indebtedness voluntarily discharged?
 
 Section 151-15
-
-Chapter 4 Repayment of loans Part 4-2 Discharge of indebtedness
 
 (ii)  the total amount of the person's primary tax debts (within the meaning of Part IIB of the Taxation Administration Act 1953 ); the Commonwealth must refund to the person an amount equal to that excess. Note: Interest is payable if the Commonwealth is late in paying refunds: see Part IIIA of the Taxation (Interest on Overpayments and Early Payments) Act 1983 .
 
@@ -5285,7 +5933,7 @@ Section 154-5
 
 ##### 154-10  Minimum repayment income
 
-The minimum repayment income for an  * income year is: (a)  for the 2005-06 income year-$36,184; or (b)  for a later income year-that amount as indexed under section 154-25.
+The minimum repayment income for an  * income year is: (a)  for the 2005-06 income year—$36,184; or (b)  for a later income year—that amount as indexed under section 154-25.
 
 _____________________________________
 
@@ -5320,7 +5968,7 @@ The amount that a person is liable to pay under section 154-1, in respect of an 
 ###### Applicable percentages
 --- | --- | ---
 Item | If the person's repayment income is: | The percentage applicable is:
-1 | More than the * minimum repayment income, but less than: (a) for the 2005-06 * income year-$40,307; or (b) for a later income year-that amount indexed under section 154-25. | 4%
+1 | More than the * minimum repayment income, but less than: (a) for the 2005-06 * income year—$40,307; or (b) for a later income year—that amount indexed under section 154-25. | 4%
 
 _____________________________________
 
@@ -5334,26 +5982,24 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 194]]
 
-Chapter 4
+Chapter 4 Repayment of loans
 
-Part 4-2
+Part 4-2 Discharge of indebtedness
 
-Division 154
-
-Repayment of loans Discharge of indebtedness How is indebtedness compulsorily discharged?
+Division 154 How is indebtedness compulsorily discharged?
 
 Section 154-20
 
 Applicable percentages
 --- | --- | ---
 Item | If the person's repayment income is: | The percentage applicable is:
-2 | More than the amount under item 1, but less than: (a) for the 2005-06 * income year-$44,428; or (b) for a later income year-that amount indexed under section 154-25. | 4.5%
-3 | More than the amount under item 2, but less than: (a) for the 2005-06 * income year-$46,763; or (b) for a later income year-that amount indexed under section 154-25. | 5%
-4 | More than the amount under item 3, but less than: (a) for the 2005-06 * income year-$50,267; or (b) for a later income year-that amount indexed under section 154-25. | 5.5%
-5 | More than the amount under item 4, but less than: (a) for the 2005-06 * income year-$54,440; or (b) for a later income year-that amount indexed under section 154-25. | 6%
-6 | More than the amount under item 5, but less than: (a) for the 2005-06 * income year-$57,305; or (b) for a later income year-that amount indexed under section 154-25. | 6.5%
-7 | More than the amount under item 6, but less than: (a) for the 2005-06 * income year-$63,063; or (b) for a later income year-that amount indexed under section 154-25. | 7%
-8 | More than the amount under item 7, but less than: (a) for the 2005-06 * income year-$67,200; or (b) for a later income year-that amount indexed under section 154-25. | 7.5%
+2 | More than the amount under item 1, but less than: (a) for the 2005-06 * income year—$44,428; or (b) for a later income year—that amount indexed under section 154-25. | 4.5%
+3 | More than the amount under item 2, but less than: (a) for the 2005-06 * income year—$46,763; or (b) for a later income year—that amount indexed under section 154-25. | 5%
+4 | More than the amount under item 3, but less than: (a) for the 2005-06 * income year—$50,267; or (b) for a later income year—that amount indexed under section 154-25. | 5.5%
+5 | More than the amount under item 4, but less than: (a) for the 2005-06 * income year—$54,440; or (b) for a later income year—that amount indexed under section 154-25. | 6%
+6 | More than the amount under item 5, but less than: (a) for the 2005-06 * income year—$57,305; or (b) for a later income year—that amount indexed under section 154-25. | 6.5%
+7 | More than the amount under item 6, but less than: (a) for the 2005-06 * income year—$63,063; or (b) for a later income year—that amount indexed under section 154-25. | 7%
+8 | More than the amount under item 7, but less than: (a) for the 2005-06 * income year—$67,200; or (b) for a later income year—that amount indexed under section 154-25. | 7.5%
 9 | More than the amount under item 8. | 8%
 
 _____________________________________
@@ -5378,11 +6024,16 @@ Section 154-25
 
 ##### 154-25  Indexation
 
-(1)  The following amounts for the 2006-07  * income year, or a later income year: (a)  the  * minimum repayment income; (b)  the amounts referred to in paragraph (a) of the second column of items 1 to 8 of the table in section 154-20; are indexed by multiplying the corresponding amounts for the *AWE for that income year
+(1)  The following amounts for the 2006-07  * income year, or a later income year: (a)  the  * minimum repayment income; (b)  the amounts referred to in paragraph (a) of the second column of items 1 to 8 of the table in section 154-20; are indexed by multiplying the corresponding amounts for the 2005-06 income year by the amount worked out using the formula:
 
-(2) AWE , for an  * income year, is the number of dollars in the sum of: (a)  the average weekly earnings for all employees (total * quarter ending on 31 December immediately before the (b)  the average weekly earnings for all employees for the that quarter, as published by the Australian Statistician. (3)  The reference period described by the  * Australian Statistician as the pay period ending on or before a specified day that is the third Friday of the middle month of that quarter. (4)  If an amount worked out under this section is an amount made up of dollars and cents, round the amount down to the nearest dollar.
+* AWE for that income year
+AWE for the 2005-06 income year
 
-2005-06 income year by the amount worked out using the formula: AWE for the 2005-06 income year earnings, seasonally adjusted) for the  * reference period in the income year, as published by the  * Australian Statistician; and reference period in each of the 3 quarters immediately before in a particular  * quarter in a year is the period
+(2)  AWE, for an  * income year, is the number of dollars in the sum of: (a)  the average weekly earnings for all employees (total earnings, seasonally adjusted) for the  * reference period in the  * quarter ending on 31 December immediately before the income year, as published by the  * Australian Statistician; and (b)  the average weekly earnings for all employees for the reference period in each of the 3 quarters immediately before that quarter, as published by the Australian Statistician.
+
+(3)  The reference period in a particular  * quarter in a year is the period described by the  * Australian Statistician as the pay period ending on or before a specified day that is the third Friday of the middle month of that quarter.
+
+(4)  If an amount worked out under this section is an amount made up of dollars and cents, round the amount down to the nearest dollar.
 
 ##### 154-30  Publishing indexed amounts
 
@@ -5508,11 +6159,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 200]]
 
+Chapter 4 Repayment of loans
+
+Part 4-2 Discharge of indebtedness
+
 Division 154 How is indebtedness compulsorily discharged?
 
 Section 154-70
-
-Chapter 4 Repayment of loans Part 4-2 Discharge of indebtedness
 
 ##### 154-70  Pay as you go (PAYG) withholding
 
@@ -5590,7 +6243,7 @@ Division 157 HECS-HELP benefit
 
 Section 157-25
 
-(b)  if the person is eligible-the amount of the benefit, worked out in accordance with the HECS-HELP Benefit Guidelines. Note: A determination is reviewable under Part 5-7. (2)  A determination made under subsection (1) is not a legislative instrument.
+(b)  if the person is eligible—the amount of the benefit, worked out in accordance with the HECS-HELP Benefit Guidelines. Note: A determination is reviewable under Part 5-7. (2)  A determination made under subsection (1) is not a legislative instrument.
 
 ##### 157-25  Notifying applicant of determination
 
@@ -5724,9 +6377,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 206]]
 
-Section 164-18
+Chapter 5 Administration
 
-Chapter 5 Administration Part 5-1 Payments by the Commonwealth Division 164 Payments by the Commonwealth
+Part 5-1 Payments by the Commonwealth
+
+Division 164 Payments by the Commonwealth
+
+Section 164-18
 
 ##### 164-18  Repayment of Commonwealth scholarships paid to students-breach of condition
 
@@ -5836,7 +6493,7 @@ Section 169-15
 
 ###### Higher education provider to process request
 
-(6)  If a higher education provider receives a request under this section the provider must, as soon as practicable: (a)  determine the matter to which the request relates; and (b)  notify the person in writing of the provider's determination; and (c)  if the provider determines that a material particular in the notice was not, or has ceased to be, correct-give a further notice under subsection (1).
+(6)  If a higher education provider receives a request under this section the provider must, as soon as practicable: (a)  determine the matter to which the request relates; and (b)  notify the person in writing of the provider's determination; and (c)  if the provider determines that a material particular in the notice was not, or has ceased to be, correct—give a further notice under subsection (1).
 
 ##### 169-15  Charging student contribution amounts and tuition fees
 
@@ -6074,9 +6731,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 218]]
 
-Division 179 Protection of personal information
+Chapter 5 Administration
 
-Chapter 5 Administration Part 5-4 Management of information
+Part 5-4 Management of information
+
+Division 179 Protection of personal information
 
 Section 179-1
 
@@ -6136,17 +6795,19 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 220]]
 
+Chapter 5 Administration
+
+Part 5-4 Management of information
+
 Division 179 Protection of personal information
 
 Section 179-15
-
-Chapter 5 Administration Part 5-4 Management of information
 
 performs services for or on behalf of the Commonwealth, a Territory (other than the Northern Territory), or such an authority or body; (e)  a person who is an employee of the Australian Postal Corporation; (f)  a person who performs services for or on behalf of the Australian Postal Corporation; (g)  an employee of a person who performs services for or on behalf of the Australian Postal Corporation. (3)  A person is an officer of a higher education provider if the person is: (a)  an officer or employee of the provider; or (b)  a person who, although not an officer or employee of the provider, performs services for or on behalf of the provider. (3A)  A person is an officer of Open Universities Australia if the person is: (a)  an officer or employee of  * Open Universities Australia; or (b)  a person who, although not an officer or employee of Open Universities Australia, performs services for or on behalf of Open Universities Australia. (3B)  A person is an officer of a Tertiary Admission Centre if the person is: (a)  an officer or employee of the  * Tertiary Admission Centre; or (b)  a person who, although not an officer or employee of the Tertiary Admission Centre, performs services for or on behalf of the Tertiary Admission Centre.
 
 ###### Meaning of official employment
 
-(4) Official employment of an  * officer is: (a)  for a  * Commonwealth officer-the performance of duties or functions, or the exercise of powers, under, or for the purposes of, this Act; or (b)  for an  * officer of a higher education provider-service as such an officer; or
+(4) Official employment of an  * officer is: (a)  for a  * Commonwealth officer—the performance of duties or functions, or the exercise of powers, under, or for the purposes of, this Act; or (b)  for an  * officer of a higher education provider—service as such an officer; or
 
 _____________________________________
 
@@ -6168,7 +6829,7 @@ Protection of personal information Division 179
 
 Section 179-20
 
-(c)  for an  * officer of Open Universities Australia-service as such an officer; or (d)  for an  * officer of a Tertiary Admission Centre-service as such an officer.
+(c)  for an  * officer of Open Universities Australia—service as such an officer; or (d)  for an  * officer of a Tertiary Admission Centre—service as such an officer.
 
 ##### 179-20  When information is disclosed in the course of official employment
 
@@ -6186,17 +6847,19 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 222]]
 
+Chapter 5 Administration
+
+Part 5-4 Management of information
+
 Division 179 Protection of personal information
 
 Section 179-25
-
-Chapter 5 Administration Part 5-4 Management of information
 
 (e)  disclosure by an officer of Open Universities Australia of personal information to a Commonwealth officer to assist the Commonwealth officer in the Commonwealth officer's official employment; (ea)  disclosure by an officer of a Tertiary Admission Centre of personal information to a Commonwealth officer to assist the Commonwealth officer in the Commonwealth officer's official employment; (f)  disclosure by an officer of Open Universities Australia of personal information to an officer of a higher education provider to assist the provider's officer in performing duties or functions or in exercising powers, under, or for the purposes of, this Act; (g)  disclosure by an officer of a higher education provider of personal information to an officer of Open Universities Australia to assist the officer of Open Universities Australia in performing duties or functions or in exercising powers, under, or for the purposes of, this Act; (h)  disclosure by an officer of a higher education provider of personal information to an officer of a Tertiary Admission Centre to assist the officer of the Tertiary Admission Centre in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act; (i)  disclosure by an officer of a Tertiary Admission Centre of personal information to an officer of a higher education provider to assist the provider's officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act.
 
 ##### 179-25  Commissioner may disclose information
 
-(1)  Despite anything in an Act of which the  * Commissioner has the general administration, the Commissioner, or a person authorised by the Commissioner, may communicate  * personal information to an  * officer for use by that officer: (a)  in the case of a  * Commonwealth officer-in the course of the officer's  * official employment; or
+(1)  Despite anything in an Act of which the  * Commissioner has the general administration, the Commissioner, or a person authorised by the Commissioner, may communicate  * personal information to an  * officer for use by that officer: (a)  in the case of a  * Commonwealth officer—in the course of the officer's  * official employment; or
 
 _____________________________________
 
@@ -6218,7 +6881,7 @@ Protection of personal information Division 179
 
 Section 179-30
 
-(b)  in the case of an  * officer of a higher education provider-to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act; or (c)  in the case of an  * officer of Open Universities Australia-to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act; or (d)  in the case of an  * officer of a Tertiary Admission Centre-to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act. (2)  Despite subsection 13.3(3) of the Criminal Code , in a prosecution for an offence against an Act of which the  * Commissioner has the general administration, the defendant does not bear an evidential burden in relation to whether this section applies to a communication of  * personal information.
+(b)  in the case of an  * officer of a higher education provider—to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act; or (c)  in the case of an  * officer of Open Universities Australia—to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act; or (d)  in the case of an  * officer of a Tertiary Admission Centre—to assist the officer in performing duties or functions, or in exercising powers, under, or for the purposes of, this Act. (2)  Despite subsection 13.3(3) of the Criminal Code , in a prosecution for an offence against an Act of which the  * Commissioner has the general administration, the defendant does not bear an evidential burden in relation to whether this section applies to a communication of  * personal information.
 
 ##### 179-30  Oath or affirmation to protect information
 
@@ -6468,9 +7131,11 @@ What are the tax file number requirements for assistance under Chapter 3? Divisi
 
 Section 187-1
 
-(2)  If the student is seeking  * HECS-HELP assistance or  * FEE-HELP assistance for a unit of study, he or she does not meet the tax file number requirements for the assistance unless he or she complies with subsection (1) or (1A) (as the case requires) on or before the * census date for the unit. assistance relating to a  * student services and amenities fee, that the student has given to the provider in relation to: (a)  the unit of study for which the assistance is sought; or (b)  the  * course of study of which the unit forms a part; or (c)  any other unit of study forming part of that course. * Open Universities Australia in relation to the unit of study for
+(2)  If the student is seeking  * HECS-HELP assistance or  * FEE-HELP assistance for a unit of study, he or she does not meet the tax file number requirements for the assistance unless he or she complies with subsection (1) or (1A) (as the case requires) on or before the * census date for the unit.
 
-(3)  A notification under paragraph (1)(a) may be included in a  * request for Commonwealth assistance, except a request for Commonwealth (3A)  A notification under paragraph (1A)(a) may be included in a * request for Commonwealth assistance that the student has given to which the assistance is sought.
+(3)  A notification under paragraph (1)(a) may be included in a  * request for Commonwealth assistance, except a request for Commonwealth assistance relating to a  * student services and amenities fee, that the student has given to the provider in relation to: (a)  the unit of study for which the assistance is sought; or (b)  the  * course of study of which the unit forms a part; or (c)  any other unit of study forming part of that course.
+
+(3A)  A notification under paragraph (1A)(a) may be included in a * request for Commonwealth assistance that the student has given to * Open Universities Australia in relation to the unit of study for which the assistance is sought.
 
 ###### SA-HELP assistance
 
@@ -6850,9 +7515,7 @@ Note 2: | Guidelines may provide for amounts to be indexed using the method of i
 
 ##### 198-5  The amounts that are to be indexed
 
-- This table sets out the amounts that are to be indexed.
-
-- The amount mentioned in the section referred to in an item of the table, for a calendar year with an indexation factor greater than 1, is replaced by the amount worked out in accordance with section 198-10.
+(1)  This table sets out the amounts that are to be indexed.
 
 Amounts that are to be indexed
 --- | --- | ---
@@ -6863,6 +7526,8 @@ Item | Amounts: | See:
 3 | * Maximum student contribution amounts for places | Section 93-10
 4 | The * FEE-HELP limit | Section 104-20
 5 | The * maximum OS-HELP amount | Section 121-5
+
+(2)  The amount mentioned in the section referred to in an item of the table, for a calendar year with an indexation factor greater than 1, is replaced by the amount worked out in accordance with section 198-10.
 
 _____________________________________
 
@@ -7006,7 +7671,7 @@ Section 206-5
 Reviewable decisions
 --- | --- | --- | ---
 Item | Decision | Provision under which decision is made | Decision maker
-2 | Refusal to re-credit a person's * FEE-HELP balance | subsection 104-25(1) | (a) the higher education provider with whom the student is enrolled in the unit; or (b) if the * Secretary made the decision to refuse the re-crediting-the
+2 | Refusal to re-credit a person's * FEE-HELP balance | subsection 104-25(1) | (a) the higher education provider with whom the student is enrolled in the unit; or (b) if the * Secretary made the decision to refuse the re-crediting-the Secretary
 2A | Refusal to re-credit a person's * FEE-HELP balance | subsection 104-25(2) | (a) * Open Universities Australia; or (b) if the * Secretary made the decision to refuse the re-crediting-the Secretary
 3 | Deferral of making an assessment or refusal to defer the making of an assessment | section 154-45 | the * Commissioner
 4 | Amending the assessment or refusal to amend an assessment | section 154-50 | the * Commissioner
@@ -7116,11 +7781,9 @@ Chapter 5 Administration
 
 Part 5-7 Review of decisions
 
-How are decisions reconsidered?
+Division 209 How are decisions reconsidered?
 
 Section 209-10
-
-Division 209
 
 (b)  vary the decision; or (c)  set the decision aside and substitute a new decision. (5)  The  * reviewer's decision (the decision on review ) to confirm, vary or set aside the decision takes effect: (a)  on the day specified in the decision on review; or (b)  if a day is not specified-on the day on which the decision on review was made. (5A)  The  * reviewer must give the person written notice of the decision on review. (5B)  The notice: (a)  must be given within a reasonable period after the decision on review is made; and (b)  must contain a statement of the reasons for the decision on review. (6)  The  * reviewer is taken, for the purposes of this Part, to have confirmed the decision if the reviewer does not give notice of a decision to the person within 45 days after receiving the person's request. Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires the person to be notified of the person's review rights.
 
@@ -7246,7 +7909,7 @@ Item | Guidelines | Chapter/Part/section
 
 ###### Indexation
 
-- Guidelines may provide for the indexation of any or all amounts in the Guidelines, using the method of indexation set out in Part 5-6.
+(3)  Guidelines may provide for the indexation of any or all amounts in the Guidelines, using the method of indexation set out in Part 5-6.
 
 ##### 238-12  Appropriation
 
@@ -7326,15 +7989,17 @@ Clause 2
 
 ##### 2  What this Part is about
 
-A body has to be approved as a VET provider before its students can receive VET FEE-HELP. This Part sets out VET provider application and approval processes. VET providers are subject to the VET quality and accountability requirements. circumstances such as breach of a VET quality and accountability
+A body has to be approved as a VET provider before its students can receive VET FEE-HELP. This Part sets out VET provider application and approval processes.
 
-A body's approval as a VET provider may be revoked in requirement.
+VET providers are subject to the VET quality and accountability requirements.
+
+A body's approval as a VET provider may be revoked in circumstances such as breach of a VET quality and accountability requirement.
 
 ##### 3  The VET Guidelines
 
-* VET providers and the  * VET quality and accountability requirements are also dealt with in the  * VET Guidelines. The be dealt with in these Guidelines.
+* VET providers and the  * VET quality and accountability requirements are also dealt with in the  * VET Guidelines. The provisions of this Part indicate when a particular matter is or may be dealt with in these Guidelines.
 
-provisions of this Part indicate when a particular matter is or may Note: The VET Guidelines are made by the Minister under clause 99.
+Note: The VET Guidelines are made by the Minister under clause 99.
 
 _____________________________________
 
@@ -7534,11 +8199,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 268]]
 
+Schedule 1A VET FEE-HELP Assistance Scheme
+
+Part 1 VET providers
+
 Division 4 What are the VET quality and accountability requirements?
 
 Clause 13
-
-Schedule 1A VET FEE-HELP Assistance Scheme Part 1 VET providers
 
 ### Division 4-What are the VET quality and accountability requirements?
 
@@ -7602,9 +8269,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 270]]
 
-Division 4 What are the VET quality and accountability requirements?
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 1 VET providers
+Part 1 VET providers
+
+Division 4 What are the VET quality and accountability requirements?
 
 Clause 18
 
@@ -7702,7 +8371,7 @@ What are the VET quality and accountability requirements? Division 4
 
 Clause 25A
 
-(aa)  if the VET provider was approved under subclause 6(1A)any of the conditions in subclause 6(1A) are or could be met in relation to the provider after the event; or (b)  there is or may be a ground for revoking under Subdivision 5-B the approval of the VET provider. (3)  A notice under subclause (1) or (2) must be given to the Minister as soon as practicable after the  * VET provider becomes aware of the event mentioned in the subclause.
+(aa)  if the VET provider was approved under subclause 6(1A)—any of the conditions in subclause 6(1A) are or could be met in relation to the provider after the event; or (b)  there is or may be a ground for revoking under Subdivision 5-B the approval of the VET provider. (3)  A notice under subclause (1) or (2) must be given to the Minister as soon as practicable after the  * VET provider becomes aware of the event mentioned in the subclause.
 
 ##### 25A  Copy of notice given to National VET Regulator about material changes
 
@@ -7724,11 +8393,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 274]]
 
+Schedule 1A VET FEE-HELP Assistance Scheme
+
+Part 1 VET providers
+
 Division 4 What are the VET quality and accountability requirements?
 
 Clause 27
-
-Schedule 1A VET FEE-HELP Assistance Scheme Part 1 VET providers
 
 160(2) of the National Vocational Education and Training Regulator Act 2011 . (3)  The provider must: (a)  fully co-operate with the auditing body in the course of its audit; and (b)  pay to the auditing body any charges payable for such an audit. (4)  A determination made under paragraph (2)(a) is not a legislative instrument.
 
@@ -7786,11 +8457,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 276]]
 
-What are the VET quality and accountability requirements?
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 1 VET providers
+Part 1 VET providers
 
-Division 4
+Division 4 What are the VET quality and accountability requirements?
 
 Clause 28
 
@@ -7914,9 +8585,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 280]]
 
-Clause 34A
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 1 VET providers Division 5 When does a body cease to be a VET provider?
+Part 1 VET providers
+
+Division 5 When does a body cease to be a VET provider?
+
+Clause 34A
 
 specified in an instrument under subclause 6(4). The Minister may take into account any other matters he or she considers relevant.
 
@@ -7954,7 +8629,7 @@ When does a body cease to be a VET provider? Division 5
 
 Clause 35
 
-(3)  The Minister must notify the body in writing of his or her decision whether to revoke the body's approval under Subdivision 5-B. The notice: (a)  must be in writing; and (b)  must be given within the period of 28 days following the period in which submissions may have been given to the Minister under subclause (1); and (c)  if the Minister decides to revoke the body's approval-must specify that the revocation takes effect on the day that the notice is registered in the  * Federal Register of Legislative Instruments. (3A)  A notice of revocation under subclause (3) is a legislative instrument. (4)  If no notice is given within the period provided for in subclause (3), the Minister is taken to have decided not to revoke the approval. (5)  A decision of the Minister to revoke a body's approval as a  * VET provider takes effect on the day that the notice of revocation under subclause (3) is registered in the  * Federal Register of Legislative Instruments. (6)  If the notice of revocation under subclause (3) ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 , then the decision to revoke the approval ceases to have effect at the same time.
+(3)  The Minister must notify the body in writing of his or her decision whether to revoke the body's approval under Subdivision 5-B. The notice: (a)  must be in writing; and (b)  must be given within the period of 28 days following the period in which submissions may have been given to the Minister under subclause (1); and (c)  if the Minister decides to revoke the body's approval—must specify that the revocation takes effect on the day that the notice is registered in the  * Federal Register of Legislative Instruments. (3A)  A notice of revocation under subclause (3) is a legislative instrument. (4)  If no notice is given within the period provided for in subclause (3), the Minister is taken to have decided not to revoke the approval. (5)  A decision of the Minister to revoke a body's approval as a  * VET provider takes effect on the day that the notice of revocation under subclause (3) is registered in the  * Federal Register of Legislative Instruments. (6)  If the notice of revocation under subclause (3) ceases to have effect under Part 5 (Parliamentary scrutiny of legislative instruments) of the Legislative Instruments Act 2003 , then the decision to revoke the approval ceases to have effect at the same time.
 
 ##### 35  Determination retaining approval as a provider in respect of existing students
 
@@ -8200,11 +8875,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 290]]
 
+Schedule 1A VET FEE-HELP Assistance Scheme
+
+Part 2 VET FEE-HELP assistance
+
 Division 7 Who is entitled to VET FEE-HELP assistance?
 
 Clause 47
-
-Schedule 1A VET FEE-HELP Assistance Scheme Part 2 VET FEE-HELP assistance
 
 of  * VET FEE-HELP assistance that the person received for a  * VET unit of study if: (a)  the person has been enrolled in the unit with the provider; and (b)  the person has not completed the requirements for the unit during the period during which the person undertook, or was to undertake, the unit; and (c)  the provider is satisfied that special circumstances apply to the person (see clause 48); and (d)  the person applies in writing to the provider for re-crediting of the FEE-HELP balance; and (e)  either: (i)  the application is made before the end of the application period under clause 49; or (ii)  the provider waives the requirement that the application be made before the end of that period, on the ground that it would not be, or was not, possible for the application to be made before the end of that period. Note: A VET FEE-HELP debt relating to a VET unit of study will be remitted if the FEE-HELP balance in relation to the unit is re-credited: see section 137-18. (3)  If the provider is unable to act for one or more of the purposes of subclause (2), or clause 48, 49 or 50, the  * Secretary may act as if one or more of the references in those provisions to the provider were a reference to the Secretary.
 
@@ -8258,11 +8935,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 292]]
 
+Schedule 1A VET FEE-HELP Assistance Scheme
+
+Part 2 VET FEE-HELP assistance
+
 Division 7 Who is entitled to VET FEE-HELP assistance?
 
 Clause 51
-
-Schedule 1A VET FEE-HELP Assistance Scheme Part 2 VET FEE-HELP assistance
 
 (b)  the  * VET provider waives the requirement that the application be made before the end of that period, on the ground that it would not be, or was not, possible for the application to be made before the end of that period; the provider must, as soon as practicable, consider the matter to which the application relates and notify the applicant of the decision on the application. (2)  The notice must include a statement of the reasons for the decision. Note: Refusals of applications are reviewable under Division 16.
 
@@ -8576,9 +9255,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 302]]
 
-Division 12 Administrative requirements on VET providers
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 3 Administration
+Part 3 Administration
+
+Division 12 Administrative requirements on VET providers
 
 Clause 65
 
@@ -8628,9 +9309,12 @@ A  * VET provider must not require a  * domestic student who is enrolling in a u
 
 (1)  A  * VET provider must, for each  * VET unit of study it provides or proposes to provide during a period ascertained in accordance with the  * VET Guidelines, determine for that period a particular date to be the  * census date for the unit. Note: If a VET provider provides the same unit over different periods, the unit is taken to be a different VET unit of study in respect of each period. Therefore the provider will have to determine a separate census date in respect of each period. (2)  A date determined under subclause (1) must be determined in accordance with the  * VET Guidelines. (3)  The provider must publish the  * census date for the unit by the date ascertained in accordance with, and in the manner specified in, the * VET Guidelines.
 ###### Variations
-(4)  The provider must not vary the  * census date for the unit after publication under subclause (3), unless the provider: (a)  does so: Guidelines; and (ii)  in circumstances specified in the VET Guidelines; or
 
-(i)  before the date ascertained in accordance with the  * VET (b)  does so with the written approval of the Minister.
+(4)  The provider must not vary the *census date for the unit after publication under subclause (3), unless the provider:
+(a)  does so:
+(i)  before the date ascertained in accordance with the *VET Guidelines; and
+(ii)  in circumstances specified in the VET Guidelines; or
+(b)  does so with the written approval of the Minister.
 
 _____________________________________
 
@@ -8644,9 +9328,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 304]]
 
-Division 12 Administrative requirements on VET providers
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 3 Administration
+Part 3 Administration
+
+Division 12 Administrative requirements on VET providers
 
 Clause 68
 
@@ -8708,9 +9394,11 @@ Division 13 Electronic communications
 
 Clause 70
 
-electronic communication has the same meaning as in the Electronic Transactions Act 1999 . information has the same meaning as in the Electronic Transactions Act 1999 . has the same meaning as in
+electronic communication has the same meaning as in the Electronic Transactions Act 1999.
 
-information technology requirements the Electronic Transactions Act 1999 .
+information has the same meaning as in the Electronic Transactions Act 1999.
+
+information technology requirements has the same meaning as in the Electronic Transactions Act 1999.
 
 _____________________________________
 
@@ -8760,11 +9448,11 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 308]]
 
-Management of information
+Schedule 1A VET FEE-HELP Assistance Scheme
 
-Schedule 1A VET FEE-HELP Assistance Scheme Part 3 Administration
+Part 3 Administration
 
-Division 14
+Division 14 Management of information
 
 Clause 74
 
@@ -9137,9 +9825,9 @@ the decision maker is taken, for the purposes of this Schedule, to have made a d
 
 ##### 93  Decision maker must give reasons for reviewable VET decisions
 
-- If this Schedule requires the  * decision maker to notify a person of the making of a  * reviewable VET decision, the notice must include reasons for the decision.
+(1)  If this Schedule requires the *decision maker to notify a person of the making of a *reviewable VET decision, the notice must include reasons for the decision.
 
-- Subclause (1) does not affect an obligation, imposed upon the * decision maker by any other law, to give reasons for a decision.
+(2)  Subclause (1) does not affect an obligation, imposed upon the *decision maker by any other law, to give reasons for a decision.
 
 _____________________________________
 
@@ -9279,7 +9967,7 @@ Note: Section 1-10 describes how asterisks are used to identify terms that are d
 
 ##### 1  Definitions
 
-(1)  In this Act, unless the contrary intention appears: accredited course means a  * course of study (other than an * enabling course) that: (a)  if a  * registered higher education provider is authorised by or under the  * TEQSA Act to self-accredit the course of studyis accredited by the provider; and (b)  otherwise-is accredited by TEQSA. accumulated HELP debt has the meaning given by section 140-25. annual financial reporting period has the meanings given by subsection 19-10(3) and subclause 15(3) of Schedule 1A. appropriate officer : (a)  in relation to a higher education provider, has the meaning given by section 187-2; and (b)  in relation to a  * VET provider, has the meaning given by clause 81 of Schedule 1A. approved form has the meaning given by section 388-50 in Schedule 1 to the Taxation Administration Act 1953 . assessing body has the meaning given by section 104-55. assessing body of a State or Territory has the meaning given by subsection 104-55(3). assessment statement has the meaning given by section 104-50. Australian branch , of a  * Table C provider, means: (a)  if that provider conducts its higher education operations in Australia through a branch of the body corporate that is listed in Table C in section 16-23-that branch; or (b)  otherwise-the body corporate through which that provider conducts its higher education operations in Australia.
+(1)  In this Act, unless the contrary intention appears: accredited course means a  * course of study (other than an * enabling course) that: (a)  if a  * registered higher education provider is authorised by or under the  * TEQSA Act to self-accredit the course of study-is accredited by the provider; and (b)  otherwise-is accredited by TEQSA. accumulated HELP debt has the meaning given by section 140-25. annual financial reporting period has the meanings given by subsection 19-10(3) and subclause 15(3) of Schedule 1A. appropriate officer : (a)  in relation to a higher education provider, has the meaning given by section 187-2; and (b)  in relation to a  * VET provider, has the meaning given by clause 81 of Schedule 1A. approved form has the meaning given by section 388-50 in Schedule 1 to the Taxation Administration Act 1953 . assessing body has the meaning given by section 104-55. assessing body of a State or Territory has the meaning given by subsection 104-55(3). assessment statement has the meaning given by section 104-50. Australian branch , of a  * Table C provider, means: (a)  if that provider conducts its higher education operations in Australia through a branch of the body corporate that is listed in Table C in section 16-23-that branch; or (b)  otherwise-the body corporate through which that provider conducts its higher education operations in Australia.
 
 302            Higher Education Support Act 2003
 
@@ -9291,11 +9979,30 @@ ComLaw Authoritative Act C2013C00029
 
 Dictionary Schedule 1
 
-Australian Qualifications Framework means the framework for recognition and endorsement of qualifications: for the Commonwealth and each State and Territory responsible for higher education; and (b)  that is to give effect to agreed standards in relation to the provision of education in Australia;
+Australian Qualifications Framework means the framework for recognition and endorsement of qualifications:
+(a)  that is established by the Council consisting of the Ministers for the Commonwealth and each State and Territory responsible for higher education; and
+(b)  that is to give effect to agreed standards in relation to the provision of education in Australia;
+as in force from time to time.
 
-bridging course for overseas-trained professionals meaning given by section 104-45.
+Australian Qualifications Framework Register means the Register:
+(a)  that is called the Register of Recognised Education Institutions and Authorised Accreditation Authorities in Australia; and
+(b)  that is maintained by the advisory board to the *Australian Qualifications Framework.
 
-(a)  that is established by the Council consisting of the Ministers as in force from time to time. Australian Qualifications Framework Register means the Register: (a)  that is called the Register of Recognised Education Institutions and Authorised Accreditation Authorities in Australia; and (b)  that is maintained by the advisory board to the  * Australian Qualifications Framework. Australian Quality Training Framework means the arrangements agreed from time to time between the Commonwealth, the States and the Territories to ensure the high quality of vocational education and training (VET) services. Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975 . Australian university means a  * registered higher education provider: (a)  that, for the purposes of the  * TEQSA Act, is registered in a provider category that permits the use of the word 'university'; and (b)  that: (i)  is established by or under, or recognised by, a law of the Commonwealth, a State or a Territory; or (ii)  is registered as a company under Part 2A.2 of the Corporations Act 2001 . AWE has the meaning given by subsection 154-25(2). basic grant amount has the meaning given in section 33-5. has the Schedule 1
+Australian Quality Training Framework means the arrangements agreed from time to time between the Commonwealth, the States and the Territories to ensure the high quality of vocational education and training (VET) services.
+
+Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975.
+
+Australian university means a *registered higher education provider:
+(a)  that, for the purposes of the *TEQSA Act, is registered in a provider category that permits the use of the word “university”; and
+(b)  that:
+(i)  is established by or under, or recognised by, a law of the Commonwealth, a State or a Territory; or
+(ii)  is registered as a company under Part 2A.2 of the Corporations Act 2001.
+
+AWE has the meaning given by subsection 154-25(2).
+
+basic grant amount has the meaning given in section 33-5.
+
+bridging course for overseas-trained professionals has the meaning given by section 104-45.
 
 Higher Education Support Act 2003                    303
 
@@ -9305,11 +10012,38 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 326]]
 
+Schedule 1
+
 Dictionary
 
-census date :
+census date:
 
-(a)  for a unit of study for a year, means: (i)  if the student undertaking the unit has not accessed it through  * Open Universities Australia-the date determined under section 169-25; and (ii)  if the student undertaking the unit has accessed it through Open Universities Australia-the date determined under subsection 104-4(5); and (b)  for a  * VET unit of study for a year, means the date determined under clause 67 of Schedule 1A. Chief Executive Centrelink has the same meaning as in the Human Services (Centrelink) Act 1997 . Commissioner means the Commissioner of Taxation. Commonwealth contribution amount means an amount specified in section 33-10. Commonwealth officer has the meaning given by subsection 179-15(2). Commonwealth scholarship means a scholarship payable under Part 2-4. Commonwealth supported student has the meaning given by section 36-5. compact and academic freedom requirements are the requirements set out in Subdivision 19-G. compliance requirements are the requirements set out in Subdivision 19-E. compulsory repayment amount means an amount that: (a)  is required to be paid in respect of an  * accumulated HELP debt under section 154-1; and (b)  is included in a notice of an assessment made under section 154-35. consent includes consent that can reasonably be inferred from the conduct of the person concerned.
+(a) for a unit of study for a year, means:
+(i) if the student undertaking the unit has not accessed it through *Open Universities Australia—the date determined under section 169-25; and
+(ii) if the student undertaking the unit has accessed it through Open Universities Australia—the date determined under subsection 104-4(5); and
+(b) for a *VET unit of study for a year, means the date determined under clause 67 of Schedule 1A.
+
+Chief Executive Centrelink has the same meaning as in the Human Services (Centrelink) Act 1997.
+
+Commissioner means the Commissioner of Taxation.
+
+Commonwealth contribution amount means an amount specified in section 33-10.
+
+Commonwealth officer has the meaning given by subsection 179-15(2).
+
+Commonwealth scholarship means a scholarship payable under Part 2-4.
+
+Commonwealth supported student has the meaning given by section 36-5.
+
+compact and academic freedom requirements are the requirements set out in Subdivision 19-G.
+
+compliance requirements are the requirements set out in Subdivision 19-E.
+
+compulsory repayment amount means an amount that:
+(a) is required to be paid in respect of an *accumulated HELP debt under section 154-1; and
+(b) is included in a notice of an assessment made under section 154-35.
+
+consent includes consent that can reasonably be inferred from the conduct of the person concerned.
 
 304            Higher Education Support Act 2003
 
@@ -9359,7 +10093,37 @@ ComLaw Authoritative Act C2013C00029
 
 Dictionary Schedule 1
 
-Federal Register of Legislative Instruments means the Federal Register of Legislative Instruments established under the Legislative Instruments Act 2003 . fee , for a unit of study for a year: (a)  if the student undertaking the unit has not accessed it through * Open Universities Australia-has the meaning given by section 19-102; and (b)  if the student undertaking the unit has accessed it through Open Universities Australia-has the meaning given by subsections 104-4(3) and (4). FEE-HELP assistance means assistance payable under Part 3-3. FEE-HELP balance has the meaning given by section 104-15. FEE-HELP debt has the meaning given by section 137-10. FEE-HELP limit has the meaning given by section 104-20. financial viability requirements are the requirements set out in Subdivision 19-B. former accumulated HELP debt has the meaning given by section 140-5. funding clusters has the meaning given by section 30-15. HECS-HELP assistance means assistance payable under Part 3-2. HECS-HELP benefit means a benefit for an  * income year that: (a)  if a  * compulsory repayment amount is required to be paidhas the effect of reducing the amount actually payable for that year; and (b)  if a compulsory repayment amount is not required to be paid-reduces a person's  * accumulated HELP debt for that year. HECS-HELP debt has the meaning given by section 137-5. HECS-HELP discount has the meaning given by subsection 96-5(4). HELP debt has the meaning given by section 137-1.
+Federal Register of Legislative Instruments means the Federal Register of Legislative Instruments established under the Legislative Instruments Act 2003.
+
+fee, for a unit of study for a year:
+(a) if the student undertaking the unit has not accessed it through *Open Universities Australia—has the meaning given by section 19-102; and
+(b) if the student undertaking the unit has accessed it through Open Universities Australia—has the meaning given by subsections 104-4(3) and (4).
+
+FEE-HELP assistance means assistance payable under Part 3-3.
+
+FEE-HELP balance has the meaning given by section 104-15.
+
+FEE-HELP debt has the meaning given by section 137-10.
+
+FEE-HELP limit has the meaning given by section 104-20.
+
+financial viability requirements are the requirements set out in Subdivision 19-B.
+
+former accumulated HELP debt has the meaning given by section 140-5.
+
+funding clusters has the meaning given by section 30-15.
+
+HECS-HELP assistance means assistance payable under Part 3-2.
+
+HECS-HELP benefit means a benefit for an *income year that:
+(a) if a *compulsory repayment amount is required to be paid—has the effect of reducing the amount actually payable for that year; and
+(b) if a compulsory repayment amount is not required to be paid—reduces a person’s *accumulated HELP debt for that year.
+
+HECS-HELP debt has the meaning given by section 137-5.
+
+HECS-HELP discount has the meaning given by subsection 96-5(4).
+
+HELP debt has the meaning given by section 137-1.
 
 Higher Education Support Act 2003                    307
 
@@ -9385,7 +10149,36 @@ ComLaw Authoritative Act C2013C00029
 
 Dictionary Schedule 1
 
-maximum OS-HELP amount has the meaning given by section 121-5. maximum student contribution amount for a place has the meaning given by subsection 93-10(1). Medicare levy means the Medicare levy imposed by the Medicare Levy Act 1986 . meets the tax file number requirements has the meanings given by section 187-1 and clause 80 of Schedule 1A. Military Rehabilitation and Compensation Commission means the Military Rehabilitation and Compensation Commission established by section 361 of the Military Rehabilitation and Compensation Act 2004 . minimum OS-HELP amount means an amount determined under section 121-10. minimum repayment income has the meaning given by section 154-10. national priority has the meaning given by section 30-20. National Register has the same meaning as in the National Vocational Education and Training Regulator Act 2011 . National VET Regulator has the same meaning as in the National Vocational Education and Training Regulator Act 2011 . non-award basis : an enrolment in: (a)  a subject or unit that a person may undertake with a higher education provider as part of a  * course of study; or (b)  a course of instruction with a higher education provider; or (c)  a tuition and training program with a higher education provider; is an enrolment on a non-award basis if the unit, course or program is not being undertaken as part of a course of study. non-designated courses of study means  * courses of study other than  * designated courses of study. non self-accrediting entity means a body corporate that: (a)  is a  * registered higher education provider; and Schedule 1
+maximum OS-HELP amount has the meaning given by section 121-5.
+
+maximum student contribution amount for a place has the meaning given by subsection 93-10(1).
+
+Medicare levy means the Medicare levy imposed by the Medicare Levy Act 1986.
+
+meets the tax file number requirements has the meanings given by section 187-1 and clause 80 of Schedule 1A.
+
+Military Rehabilitation and Compensation Commission means the Military Rehabilitation and Compensation Commission established by section 361 of the Military Rehabilitation and Compensation Act 2004.
+
+minimum OS-HELP amount means an amount determined under section 121-10.
+
+minimum repayment income has the meaning given by section 154-10.
+
+national priority has the meaning given by section 30-20.
+
+National Register has the same meaning as in the National Vocational Education and Training Regulator Act 2011.
+
+National VET Regulator has the same meaning as in the National Vocational Education and Training Regulator Act 2011.
+
+non-award basis: an enrolment in:
+(a) a subject or unit that a person may undertake with a higher education provider as part of a *course of study; or
+(b) a course of instruction with a higher education provider; or
+(c) a tuition and training program with a higher education provider;
+is an enrolment on a non-award basis if the unit, course or program is not being undertaken as part of a course of study.
+
+non-designated courses of study means *courses of study other than *designated courses of study.
+
+non self-accrediting entity means a body corporate that:
+(a) is a *registered higher education provider; and
 
 Higher Education Support Act 2003                    309
 
@@ -9395,9 +10188,40 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 332]]
 
+Schedule 1
+
 Dictionary
 
-(b)  has no authorisation conferred by or under the  * TEQSA Act to self-accredit any  * course of study that leads to a  * higher education award. number of Commonwealth supported places means: (a)  in relation to an allocation of a number of Commonwealth supported places under section 30-10 in relation to a  * funding cluster-the number allocated under that section in relation to that funding cluster; or (b)  in relation to the provision of a number of Commonwealth supported places-the number worked out under section 33-30. occupation includes the meaning given by section 104-65. officer has the meaning given by subsection 179-15(1). officer of a higher education provider has the meaning given by subsection 179-15(3). officer of a Tertiary Admission Centre has the meaning given by subsection 179-15(3B). officer of a VET provider has the meaning given by subclause 74(3) of Schedule 1A. officer of Open Universities Australia has the meaning given by subsection 179-15(3A). official employment has the meanings given by subsection 179-15(4) and subclause 74(3) of Schedule 1A. Open Universities Australia means Open Universities Australia Pty Ltd (ACN 053 431 888). OS-HELP assistance means assistance payable under Part 3-4. OS-HELP debt has the meaning given by section 137-15. overseas student means a person who: (a)  is not an Australian citizen; and (b)  is enrolled, or proposes to become enrolled, in: (i)  a  * course of study with a higher education provider; or
+(b) has no authorisation conferred by or under the *TEQSA Act to self-accredit any *course of study that leads to a *higher education award.
+
+number of Commonwealth supported places means:
+(a) in relation to an allocation of a number of Commonwealth supported places under section 30-10 in relation to a *funding cluster—the number allocated under that section in relation to that funding cluster; or
+(b) in relation to the provision of a number of Commonwealth supported places—the number worked out under section 33-30.
+
+occupation includes the meaning given by section 104-65.
+
+officer has the meaning given by subsection 179-15(1).
+
+officer of a higher education provider has the meaning given by subsection 179-15(3).
+
+officer of a Tertiary Admission Centre has the meaning given by subsection 179-15(3B).
+
+officer of a VET provider has the meaning given by subclause 74(3) of Schedule 1A.
+
+officer of Open Universities Australia has the meaning given by subsection 179-15(3A).
+
+official employment has the meanings given by subsection 179-15(4) and subclause 74(3) of Schedule 1A.
+
+Open Universities Australia means Open Universities Australia Pty Ltd (ACN 053 431 888).
+
+OS-HELP assistance means assistance payable under Part 3-4.
+
+OS-HELP debt has the meaning given by section 137-15.
+
+overseas student means a person who:
+(a) is not an Australian citizen; and
+(b) is enrolled, or proposes to become enrolled, in:
+(i) a *course of study with a higher education provider; or
 
 310            Higher Education Support Act 2003
 
@@ -9409,9 +10233,32 @@ ComLaw Authoritative Act C2013C00029
 
 Dictionary Schedule 1
 
-(ii)  a unit of study access to which was provided by  * Open Universities Australia; but does not include: (c)  a person entitled to stay in Australia, or to enter and stay in Australia, without any limitation as to time; or (d)  a New Zealand citizen; or (e)  a diplomatic or consular representative of New Zealand, a facto partner (within the meaning of the Acts Interpretation Act 1901 ) or dependent relative of such a representative. Note: In relation to paragraph (e) of the definition of Overseas student , see
+(ii) a unit of study access to which was provided by *Open Universities Australia;
+but does not include:
+(c) a person entitled to stay in Australia, or to enter and stay in Australia, without any limitation as to time; or
+(d) a New Zealand citizen; or
+(e) a diplomatic or consular representative of New Zealand, a member of the staff of such a representative or the spouse, de facto partner (within the meaning of the Acts Interpretation Act 1901) or dependent relative of such a representative.
 
-member of the staff of such a representative or the spouse, de also subclause (2). permanent humanitarian visa holder means the holder of a visa that is, or has at any time been, defined as a permanent humanitarian visa for the purposes of the regulations made under the Migration Act 1958 . permanent visa holder means the holder of a permanent visa within the meaning of subsection 30(1) of the Migration Act 1958 . personal information has the meaning given by section 179-5. postgraduate course of study means a  * course of study that: (a)  leads to one or more of the following  * higher education awards: (i)  a graduate diploma; (ii)  a graduate certificate; (iii)  a master's degree; (iv)  a doctoral degree; and (b)  does not lead to any other higher education award. qualified auditor means: (a)  the Auditor-General of a State, of the Australian Capital Territory or of the Northern Territory; or (b)  a person registered as a company auditor or a public accountant under a law in force in a State, the Australian Capital Territory or the Northern Territory; or (c)  a member of the Institute of Chartered Accountants in Australia, or of the Australian Society of Certified Practising Accountants; or Schedule 1
+Note: In relation to paragraph (e) of the definition of Overseas student, see also subclause (2).
+
+permanent humanitarian visa holder means the holder of a visa that is, or has at any time been, defined as a permanent humanitarian visa for the purposes of the regulations made under the Migration Act 1958.
+
+permanent visa holder means the holder of a permanent visa within the meaning of subsection 30(1) of the Migration Act 1958.
+
+personal information has the meaning given by section 179-5.
+
+postgraduate course of study means a *course of study that:
+(a) leads to one or more of the following *higher education awards:
+(i) a graduate diploma;
+(ii) a graduate certificate;
+(iii) a master’s degree;
+(iv) a doctoral degree; and
+(b) does not lead to any other higher education award.
+
+qualified auditor means:
+(a) the Auditor-General of a State, of the Australian Capital Territory or of the Northern Territory; or
+(b) a person registered as a company auditor or a public accountant under a law in force in a State, the Australian Capital Territory or the Northern Territory; or
+(c) a member of the Institute of Chartered Accountants in Australia, or of the Australian Society of Certified Practising Accountants; or
 
 Higher Education Support Act 2003                    311
 
@@ -9421,11 +10268,15 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 334]]
 
+Schedule 1
+
 Dictionary
 
 (d)  a person approved by the Minister in writing as a qualified auditor for the purposes of this Act. quality and accountability requirements has the meaning given by section 19-1. quality requirements are the requirements set out in Subdivision 19-C. quarter means a period of 3 months ending on 31 March, 30 June, 30 September or 31 December. reference period has the meaning given by subsection 154-25(3). registered higher education provider has the same meaning as in the  * TEQSA Act. registered training organisation has the same meaning as in the National Vocational Education and Training Regulator Act 2011 . related body corporate has the meaning given by section 9 of the Corporations Act 2001 . Repatriation Commission means the body corporate continued in existence by section 179 of the Veterans' Entitlements Act 1986 . repayable debt , for an  * income year, has the meaning given by section 154-15. repayment income has the meaning given by section 154-5. request for Commonwealth assistance :
 
-(a)  in relation to a person enrolling in a unit of study with a higher education provider (where access to the unit is not provided by  * Open Universities Australia)-has the meaning given by subsection 36-40(3); and (b)  in relation to a person to whom access to a unit of study is provided by Open Universities Australia-has the meaning given by subsection 193-1(2C); and (ba)  in relation to a  * student services and amenities fee imposed on a person enrolled with a higher education provider in a * course of study or  * bridging course for overseas-trained professionals-has the meaning given by subsection 126-1(2); and
+(a) in relation to a person enrolling in a unit of study with a higher education provider (where access to the unit is not provided by *Open Universities Australia)—has the meaning given by subsection 36-40(3); and
+(b) in relation to a person to whom access to a unit of study is provided by Open Universities Australia—has the meaning given by subsection 193-1(2C); and
+(ba) in relation to a *student services and amenities fee imposed on a person enrolled with a higher education provider in a *course of study or *bridging course for overseas-trained professionals—has the meaning given by subsection 126-1(2); and
 
 312            Higher Education Support Act 2003
 
@@ -9437,7 +10288,34 @@ ComLaw Authoritative Act C2013C00029
 
 Dictionary Schedule 1
 
-(c)  in relation to a person enrolling in a  * VET unit of study has the meaning given by subclause 88(3) of Schedule 1A. requirements for entry , to a  * listed professional occupation, has the meaning given by section 104-70. restricted access arrangement , for a  * course of study, means an arrangement: (a)  that was entered into between the higher education provider providing the course and an employer or industry body; and (b)  that limits or restricts enrolments in some or all of the places in the course. return means an income tax return within the meaning of subsection 995-1(1) of the Income Tax Assessment Act 1997 . reviewable decision means a decision listed in the table in section 206-1. reviewable VET decision means a decision listed in the table in clause 91 of Schedule 1A. reviewer has the meanings given by section 209-1 and clause 94 of Schedule 1A. review officer : (a)  of a higher education provider-has the meaning given by subsection 19-50(2); and (b)  of  * Open Universities Australia-has the meaning given by subsection 238-1(2B); and (c)  of a  * VET provider-has the meaning given by subclause 21(2) of Schedule 1A. SA-HELP assistance means assistance payable under Part 3-5. SA-HELP debt has the meaning given by section 137-16. Secretary means the Secretary of the Department. self-accrediting entity means a body corporate that:
+(c) in relation to a person enrolling in a *VET unit of study has the meaning given by subclause 88(3) of Schedule 1A.
+
+requirements for entry, to a *listed professional occupation, has the meaning given by section 104-70.
+
+restricted access arrangement, for a *course of study, means an arrangement:
+(a) that was entered into between the higher education provider providing the course and an employer or industry body; and
+(b) that limits or restricts enrolments in some or all of the places in the course.
+
+return means an income tax return within the meaning of subsection 995-1(1) of the Income Tax Assessment Act 1997.
+
+reviewable decision means a decision listed in the table in section 206-1.
+
+reviewable VET decision means a decision listed in the table in clause 91 of Schedule 1A.
+
+reviewer has the meanings given by section 209-1 and clause 94 of Schedule 1A.
+
+review officer:
+(a) of a higher education provider—has the meaning given by subsection 19-50(2); and
+(b) of *Open Universities Australia—has the meaning given by subsection 238-1(2B); and
+(c) of a *VET provider—has the meaning given by subclause 21(2) of Schedule 1A.
+
+SA-HELP assistance means assistance payable under Part 3-5.
+
+SA-HELP debt has the meaning given by section 137-16.
+
+Secretary means the Secretary of the Department.
+
+self-accrediting entity means a body corporate that:
 
 (a)  is a  * registered higher education provider; and (b)  is authorised by or under the  * TEQSA Act to self-accredit one or more  * courses of study that lead to a  * higher education award.
 
@@ -9473,7 +10351,10 @@ tuition assurance requirements means the requirements set out in section 16-30.
 
 tuition fee :
 
-(a)  in relation to a unit of study access to which is not provided by  * Open Universities Australia-has the meaning given by section 19-105; and (b)  in relation to a unit of study access to which is provided by Open Universities Australia-means: (i)  if only one fee has been determined for the unit under subsection 104-4(2)-that fee; or (ii)  if more than one fee has been determined for the unit under that subsection-the fee determined under that
+(a) in relation to a unit of study access to which is not provided by *Open Universities Australia—has the meaning given by section 19-105; and
+(b) in relation to a unit of study access to which is provided by Open Universities Australia—means:
+(i) if only one fee has been determined for the unit under subsection 104-4(2)—that fee; or
+(ii) if more than one fee has been determined for the unit under that subsection—the fee determined under that
 
 subsection that applies to the person. undergraduate course of study means a  * course of study that is neither an  * enabling course nor a  * postgraduate course of study. unit of study means: (a)  a subject or unit that a person may undertake with a higher education provider as part of a  * course of study; or (b)  a subject or unit made available by a higher education provider: (i)  access to which was provided by  * Open Universities Australia; and (ii)  that a person could undertake as part of a course of study leading to a  * higher education award; or (c)  a part of a  * bridging course for overseas-trained professionals. If a higher education provider provides the same such subject or unit in respect of more than one period, the subject or unit is taken to be a different unit of study in respect of each period.
 
@@ -9558,12 +10439,12 @@ For all relevant information pertaining to application, saving or transitional p
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
-Higher Education Support Act 2003 | 149, 2003 | 19 Dec 2003 | Ss. 1-10-238-15 and Schedule 1: 1 Jan 2004 Remainder: Royal Assent
-Higher Education Legislation Amendment Act 2004 | 45, 2004 | 21 Apr 2004 | 21 Apr 2004 | -
-Higher Education Legislation Amendment Act (No. 2) 2004 | 114, 2004 | 13 July 2004 | Schedule 2 (items 39-45, 80): 14 July 2004 Remainder: Royal Assent | Sch. 2 (item 85)
-Higher Education Legislation Amendment Act (No. 3) 2004 | 157, 2004 | 17 Dec 2004 | Schedule 1 (items 1-43, 46-52): Royal Assent Schedule 1 (items 44, 45): (a) | -
-Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005 | 56, 2005 | 25 May 2005 | Schedule 1 and Schedule 2 (items 1, 3-17): Royal Assent Schedule 2 (item 2): (b) | Sch. 2 (items 15-17)
-Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 | 83, 2005 | 6 July 2005 | Schedule 1 (items 1-50): Royal Assent Schedule 1 (items 51-59): 3 Aug 2005 Schedule 1 (items 60, 61): (c) | Sch. 1 (items 2, 12, 35, 47, 49) Sch. 1 (item 23) (am. by 143, 2005, Sch. 7 [item 92])
+Higher Education Support Act 2003 | 149, 2003 | 19 Dec 2003 | Ss. 1-10–238-15 and Schedule 1: 1 Jan 2004 Remainder: Royal Assent | 
+Higher Education Legislation Amendment Act 2004 | 45, 2004 | 21 Apr 2004 | 21 Apr 2004 | —
+Higher Education Legislation Amendment Act (No. 2) 2004 | 114, 2004 | 13 July 2004 | Schedule 2 (items 39–45, 80): 14 July 2004 Remainder: Royal Assent | Sch. 2 (item 85)
+Higher Education Legislation Amendment Act (No. 3) 2004 | 157, 2004 | 17 Dec 2004 | Schedule 1 (items 1–43, 46–52): Royal Assent Schedule 1 (items 44, 45): (a) | —
+Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005 | 56, 2005 | 25 May 2005 | Schedule 1 and Schedule 2 (items 1, 3–17): Royal Assent Schedule 2 (item 2): (b) | Sch. 2 (items 15–17)
+Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 | 83, 2005 | 6 July 2005 | Schedule 1 (items 1–50): Royal Assent Schedule 1 (items 51–59): 3 Aug 2005 Schedule 1 (items 60, 61): (c) | Sch. 1 (items 2, 12, 35, 47, 49) Sch. 1 (item 23) (am. by 143, 2005, Sch. 7 [item 92])
 
 Higher Education Support Act 2003                    321
 
@@ -9580,14 +10461,14 @@ Table of Acts
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
 as amended by
-Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 | 143, 2005 | 14 Dec 2005 | Schedule 7 (items 50, 92): ( see 143, 2005 below) | -
+Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 | 143, 2005 | 14 Dec 2005 | Schedule 7 (items 50, 92): (see 143, 2005 below) | —
 Higher Education Legislation Amendment (Workplace Relations Requirements) Act 2005 | 139, 2005 | 18 Nov 2005 | 19 Nov 2005 | Sch. 1 (item 2)
-Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 | 143, 2005 | 14 Dec 2005 | Schedule 3: 28 Dec 2005 Schedule 6: 23 Nov 2004 Schedule 7 (items 1-6, 8, 10, 12-14, 16-36, 39-43, 45, 46, 48-56, 59-81, 83-91): (d) Schedule 7 (item 7): (d) Schedule 7 (items 9, 11, 15, 37, 38, 57, 58, 82, 92): (d) Schedule 7 (items 44, 47): (d) | Sch.1 (item 11), Sch. 2 (item 3), Sch. 3 (item 3) and Sch. 5 (item 8)
-Higher Education Legislation Amendment (2005 Budget Measures) Act 2005 | 156, 2005 | 19 Dec 2005 | 19 Dec 2005 | -
-Higher Education Legislation Amendment (2005 Measures No. 4) Act 2005 | 158, 2005 | 19 Dec 2005 | 20 Dec 2005 | -
+Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 | 143, 2005 | 14 Dec 2005 | Schedule 3: 28 Dec 2005 Schedule 6: 23 Nov 2004 Schedule 7 (items 1–6, 8, 10, 12–14, 16–36, 39–43, 45, 46, 48–56, 59–81, 83–91): (d) Schedule 7 (item 7): (d) Schedule 7 (items 9, 11, 15, 37, 38, 57, 58, 82, 92): (d) Schedule 7 (items 44, 47): (d) Remainder: Royal Assent | Sch. 1 (item 11), Sch. 2 (item 3), Sch. 3 (item 3) and Sch. 5 (item 8)
+Higher Education Legislation Amendment (2005 Budget Measures) Act 2005 | 156, 2005 | 19 Dec 2005 | 19 Dec 2005 | —
+Higher Education Legislation Amendment (2005 Measures No. 4) Act 2005 | 158, 2005 | 19 Dec 2005 | 20 Dec 2005 | —
 Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005 | 159, 2005 | 19 Dec 2005 | 1 Jan 2006 | Sch. 1 (item 1A)
 Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 | 161, 2005 | 19 Dec 2005 | 19 Dec 2005 | Sch. 2 (item 32)
-Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 | 101, 2006 | 14 Sept 2006 | Schedule 2 (item 116) and Schedule 6 (items 1, 6-11): Royal Assent | Sch. 6 (items 1, 6-11)
+Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 | 101, 2006 | 14 Sept 2006 | Schedule 2 (item 116) and Schedule 6 (items 1, 6–11): Royal Assent | Sch. 6 (items 1, 6–11)
 
 322            Higher Education Support Act 2003
 
@@ -9603,12 +10484,12 @@ Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
-Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006 | 121, 2006 | 4 Nov 2006 | Schedule 1 (items 3-5) and Schedule 2: 1 Jan 2007 Remainder: Royal Assent | Sch. 1 (items 4, 5), Sch. 2 (items 3, 4), Sch. 3 (items 12-14) and Sch. 4
-Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007 | 72, 2007 | 28 May 2007 | Schedule 1: 31 Dec 2007 ( see F2007L03553) Schedule 3 (items 2-6): 1 Jan 2008 Remainder: Royal | Sch. 3 (item 6) and Sch. 5 (item 5)
-Higher Education Legislation Amendment (2007 Budget Measures) Act 2007 | 119, 2007 | 28 June 2007 | Schedule 2, Schedule 3 (items 10-17), Schedules 4, 5, 7, 8, 10 and 11: 1 Jan 2008 Remainder: Royal Assent | Sch. 2 (items 3, 4, 6), Sch. 3 (items 9, 17), Sch. 4 (item 5), Sch. 7 (items 3, 7), Sch. 8 (item 20), Sch. 10 (item 2) and Sch. 11
-Maritime Legislation Amendment Act 2007 | 150, 2007 | 24 Sept 2007 | Schedule 1: 1 Jan 2008 ( see F2007L04141) Remainder: Royal Assent | -
-Higher Education Support Amendment (Extending FEE-HELP for VET Diploma, Advanced Diploma, Graduate Diploma and Graduate Certificate Courses) Act | 170, 2007 | 28 Sept 2007 | Schedule 1: 1 Jan 2008 Remainder: Royal Assent | -
-Higher Education Support Amendment (VET FEE-HELP Assistance) Act 2008 | 11, 2008 | 20 Mar 2008 | 20 Mar 2008 | -
+Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006 | 121, 2006 | 4 Nov 2006 | Schedule 1 (items 3–5) and Schedule 2: 1 Jan 2007 Remainder: Royal Assent | Sch. 1 (items 4, 5), Sch. 2 (items 3, 4), Sch. 3 (items 12–14) and Sch. 4 (item 5)
+Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007 | 72, 2007 | 28 May 2007 | Schedule 1: 31 Dec 2007 (see F2007L03553) Schedule 3 (items 2–6): 1 Jan 2008 Remainder: Royal Assent | Sch. 3 (item 6) and Sch. 5 (item 5)
+Higher Education Legislation Amendment (2007 Budget Measures) Act 2007 | 119, 2007 | 28 June 2007 | Schedule 2, Schedule 3 (items 10–17), Schedules 4, 5, 7, 8, 10 and 11: 1 Jan 2008 Remainder: Royal Assent | Sch. 2 (items 3, 4, 6), Sch. 3 (items 9, 17), Sch. 4 (item 5), Sch. 7 (items 3, 7), Sch. 8 (item 20), Sch. 10 (item 2) and Sch. 11 (item 2)
+Maritime Legislation Amendment Act 2007 | 150, 2007 | 24 Sept 2007 | Schedule 1: 1 Jan 2008 (see F2007L04141) Remainder: Royal Assent | —
+Higher Education Support Amendment (Extending FEE-HELP for VET Diploma, Advanced Diploma, Graduate Diploma and Graduate Certificate Courses) Act 2007 | 170, 2007 | 28 Sept 2007 | Schedule 1: 1 Jan 2008 Remainder: Royal Assent | —
+Higher Education Support Amendment (VET FEE-HELP Assistance) Act 2008 | 11, 2008 | 20 Mar 2008 | 20 Mar 2008 | —
 Higher Education Support Amendment (2008 Budget Measures) Act 2008 | 43, 2008 | 25 June 2008 | 25 June 2008 | Sch. 1 (item 17) and Sch. 2 (item 13)
 
 Higher Education Support Act 2003                    323
@@ -9625,18 +10506,18 @@ Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
-Statute Law Revision Act 2008 | 73, 2008 | 3 July 2008 | Schedule 1 (items 28, 29): (e) | -
-Higher Education Support Amendment (Removal of the Higher Education Workplace Relations Requirements and National Governance Protocols Requirements | 89, 2008 | 20 Sept 2008 | 20 Sept 2008 | Sch. 1 (item 7)
-Same-Sex Relationships (Equal Treatment in Commonwealth Laws- General Law Reform) Act 2008 | 144, 2008 | 9 Dec 2008 | Schedule 5 (items 6-9): 10 Dec 2008 | -
-Tax Laws Amendment (2009 Measures No. 1) Act 2009 | 27, 2009 | 26 Mar 2009 | Schedule 3 (items 36-39, 102(1)): 27 Mar 2009 | Sch. 3 (item 102(1))
+Statute Law Revision Act 2008 | 73, 2008 | 3 July 2008 | Schedule 1 (items 28, 29): (e) | —
+Higher Education Support Amendment (Removal of the Higher Education Workplace Relations Requirements and National Governance Protocols Requirements and Other Matters) Act 2008 | 89, 2008 | 20 Sept 2008 | 20 Sept 2008 | Sch. 1 (item 7)
+Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 | 144, 2008 | 9 Dec 2008 | Schedule 5 (items 6–9): 10 Dec 2008 | —
+Tax Laws Amendment (2009 Measures No. 1) Act 2009 | 27, 2009 | 26 Mar 2009 | Schedule 3 (items 36–39, 102(1)): 27 Mar 2009 | Sch. 3 (item 102(1))
 Higher Education Support Amendment (VET FEE-HELP and Providers) Act 2009 | 39, 2009 | 23 June 2009 | 24 June 2009 | Sch. 1 (items 2, 4, 6) and Sch. 2 (item 9)
-Higher Education Support Amendment (2009 Budget Measures) Act 2009 | 86, 2009 | 18 Sept 2009 | Schedule 2, Schedule 4 (item 1) and Schedule 5: 1 Jan 2010 Remainder: Royal Assent | Sch. 2 (items 3, 4), Sch. 3 (item 2), Sch. 5 (items 2, 3) and Sch. 6
+Higher Education Support Amendment (2009 Budget Measures) Act 2009 | 86, 2009 | 18 Sept 2009 | Schedule 2, Schedule 4 (item 1) and Schedule 5: 1 Jan 2010 Remainder: Royal Assent | Sch. 2 (items 3, 4), Sch. 3 (item 2), Sch. 5 (items 2, 3) and Sch. 6 (item 2)
 Higher Education Support Amendment (VET FEE-HELP and Tertiary Admission Centres) Act 2009 | 121, 2009 | 7 Dec 2009 | 8 Dec 2009 | Sch. 1 (items 2, 4, 7, 12)
-Higher Education Support Amendment Act 2010 | 6, 2010 | 19 Feb 2010 | 19 Feb 2010 | -
-Statute Law Revision Act 2010 | 8, 2010 | 1 Mar 2010 | Schedule 5 (item 137(a)): (f) | -
-Social Security and Other Legislation Amendment (Income Support for Students) Act 2010 | 17, 2010 | 24 Mar 2010 | Schedule 2 (items 5-9): 1 Apr 2010 | -
+Higher Education Support Amendment Act 2010 | 6, 2010 | 19 Feb 2010 | 19 Feb 2010 | —
+Statute Law Revision Act 2010 | 8, 2010 | 1 Mar 2010 | Schedule 5 (item 137(a)): (f) | —
+Social Security and Other Legislation Amendment (Income Support for Students) Act 2010 | 17, 2010 | 24 Mar 2010 | Schedule 2 (items 5–9): 1 Apr 2010 | —
 Higher Education Support Amendment (University College London) Act 2010 | 47, 2010 | 31 May 2010 | 1 Jan 2010 | Sch. 1 (item 2)
-Tax Laws Amendment (Transfer of Provisions) Act 2010 | 79, 2010 | 29 June 2010 | Schedule 1 (items 14-16): 1 July 2010 | -
+Tax Laws Amendment (Transfer of Provisions) Act 2010 | 79, 2010 | 29 June 2010 | Schedule 1 (items 14–16): 1 July 2010 | —
 
 324            Higher Education Support Act 2003
 
@@ -9653,16 +10534,16 @@ Table of Acts
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
 Higher Education Support Amendment (Indexation) Act 2010 | 111, 2010 | 14 July 2010 | 1 Jan 2011 | Sch. 1 (item 6)
-Higher Education Support Amendment (2010 Budget Measures) Act 2010 | 129, 2010 | 24 Nov 2010 | Schedule 1: 1 Dec 2010 Remainder: Royal Assent | -
+Higher Education Support Amendment (2010 Budget Measures) Act 2010 | 129, 2010 | 24 Nov 2010 | Schedule 1: 1 Dec 2010 Remainder: Royal Assent | —
 Higher Education Support Amendment (FEE-HELP Loan Fee) Act 2010 | 132, 2010 | 24 Nov 2010 | 24 Nov 2010 | Sch. 1 (item 2)
-Statute Law Revision Act 2011 | 5, 2011 | 22 Mar 2011 | Schedule 1 (item 65): Royal Assent | -
-National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 | 14, 2011 | 12 Apr 2011 | Schedule 1 (items 33, 36-54): (g) Schedule 1 (item 34): (g) Schedule 1 (item 35): (g) | Sch. 1 (item 54)
-Human Services Legislation Amendment Act 2011 | 32, 2011 | 25 May 2011 | Schedule 4 (items 278-281): 1 July 2011 | -
+Statute Law Revision Act 2011 | 5, 2011 | 22 Mar 2011 | Schedule 1 (item 65): Royal Assent | —
+National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 | 14, 2011 | 12 Apr 2011 | Schedule 1 (items 33, 36–54): (g) Schedule 1 (item 34): (g) Schedule 1 (item 35): (g) | Sch. 1 (item 54)
+Human Services Legislation Amendment Act 2011 | 32, 2011 | 25 May 2011 | Schedule 4 (items 278–281): 1 July 2011 | —
 Higher Education Support Amendment (No. 1) Act 2011 | 72, 2011 | 29 June 2011 | Schedule 1: 30 June 2011 Remainder: Royal Assent | Sch. 1 (item 32)
-Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011 | 74, 2011 | 29 June 2011 | Schedule 2 (items 1-39): (h) Schedule 2 (items 40-42): (h) | Sch. 2 (items 36, 39)
-Indigenous Education (Targeted Assistance) Amendment Act 2011 | 94, 2011 | 8 Sept 2011 | Schedule 2: Royal Assent | -
-Higher Education Support Amendment (Demand Driven Funding System and Other Measures) Act 2011 | 104, 2011 | 26 Sept 2011 | Schedule 2: 1 Jan 2012 Remainder: Royal Assent | Sch. 1 (items 33-36), Sch. 2 (items 37-41) and Sch. 3 (items 8-10)
-Higher Education Legislation Amendment (Student Services and Amenities) Act 2011 | 130, 2011 | 3 Nov 2011 | Schedule 1 (items 1-43): 1 Jan 2012 ( see F2011L02499) | Sch. 1 (item 32)
+Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011 | 74, 2011 | 29 June 2011 | Schedule 2 (items 1–39): (h) Schedule 2 (items 40–42): (h) | Sch. 2 (items 36, 39)
+Indigenous Education (Targeted Assistance) Amendment Act 2011 | 94, 2011 | 8 Sept 2011 | Schedule 2: Royal Assent | —
+Higher Education Support Amendment (Demand Driven Funding System and Other Measures) Act 2011 | 104, 2011 | 26 Sept 2011 | Schedule 2: 1 Jan 2012 Remainder: Royal Assent | Sch. 1 (items 33–36), Sch. 2 (items 37–41) and Sch. 3 (items 8–10)
+Higher Education Legislation Amendment (Student Services and Amenities) Act 2011 | 130, 2011 | 3 Nov 2011 | Schedule 1 (items 1–43): 1 Jan 2012 (see F2011L02499) | Sch. 1 (item 32)
 
 Higher Education Support Act 2003                    325
 
@@ -9678,13 +10559,13 @@ Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
-Higher Education Support Amendment Act (No. 2) 2011 | 178, 2011 | 5 Dec 2011 | Schedules 2-4: 1 Jan 2012 Remainder: Royal Assent | Sch. 1 (item 1), Sch. 2 (item 13), Sch. 3 (item 4) and Sch. 4 (items 8, 9)
-Higher Education Support Amendment (VET FEE-HELP and Other Measures) Act 2012 | 6, 2012 | 6 Mar 2012 | Schedule 1 (items 1-3, 6-23) and Schedule 2: 7 Mar 2012 Schedule 1 (items 4, 5): 6 Sept 2012 Remainder: Royal Assent | Sch. 1 (items 3, 5, 17, 20, 23)
-Higher Education Support Amendment Act (No. 1) 2012 | 38, 2012 | 15 Apr 2012 | Schedule 1 (items 1-4, 6, 9, 10): 1 Jan 2012 Schedule 1 (items 5, 7, 8): 1 Jan 2011 Schedule 1 (item 11): 1 Jan 2013 Schedule 1 (items 12-17): 16 Apr 2012 Remainder: Royal | Sch. 1 (items 8, 9, 16, 17)
+Higher Education Support Amendment Act (No. 2) 2011 | 178, 2011 | 5 Dec 2011 | Schedules 2–4: 1 Jan 2012 Remainder: Royal Assent | Sch. 1 (item 1), Sch. 2 (item 13), Sch. 3 (item 4) and Sch. 4 (items 8, 9)
+Higher Education Support Amendment (VET FEE-HELP and Other Measures) Act 2012 | 6, 2012 | 6 Mar 2012 | Schedule 1 (items 1–3, 6–23) and Schedule 2: 7 Mar 2012 Schedule 1 (items 4, 5): 6 Sept 2012 Remainder: Royal Assent | Sch. 1 (items 3, 5, 17, 20, 23)
+Higher Education Support Amendment Act (No. 1) 2012 | 38, 2012 | 15 Apr 2012 | Schedule 1 (items 1–4, 6, 9, 10): 1 Jan 2012 Schedule 1 (items 5, 7, 8): 1 Jan 2011 Schedule 1 (item 11): 1 Jan 2013 Schedule 1 (items 12–17): 16 Apr 2012 Remainder: Royal Assent | Sch. 1 (items 8, 9, 16, 17)
 Higher Education Support Amendment (Student Contribution Amounts and Other Measures) Act 2012 | 127, 2012 | 13 Sept 2012 | Schedule 2: 1 Jan 2013 Remainder: Royal Assent | Sch. 1 (item 8) and Sch. 2 (item 9)
-Statute Law Revision Act 2012 | 136, 2012 | 22 Sept 2012 | Schedule 1 (items 64-66): Royal Assent | -
+Statute Law Revision Act 2012 | 136, 2012 | 22 Sept 2012 | Schedule 1 (items 64–66): Royal Assent | —
 Higher Education Support Amendment (Maximum Payment Amounts and Other Measures) Act 2012 | 156, 2012 | 17 Nov 2012 | Schedules 1 and 3: 18 Nov 2012 | Sch. 3 (item 10)
-Higher Education Support Amendment (Streamlining and Other Measures) Act 2012 | 160, 2012 | 28 Nov 2012 | Schedules 1, 3 and 4: 1 Jan 2013 ( see F2012L02378) Schedule 2: 29 Nov 2012 | Sch. 1 (items 20-24, 33), Sch. 2 (items 18, 26-29) and Sch. 3 (item 50)
+Higher Education Support Amendment (Streamlining and Other Measures) Act 2012 | 160, 2012 | 28 Nov 2012 | Schedules 1, 3 and 4: 1 Jan 2013 (see F2012L02378) Schedule 2: 29 Nov 2012 | Sch. 1 (items 20–24, 33), Sch. 2 (items 18, 26–29) and Sch. 3 (item 50)
 
 326            Higher Education Support Act 2003
 
@@ -9700,94 +10581,40 @@ Act Notes
 
 (a) Subsection 2(1) (item 3) of the Higher Education Legislation Amendment Act (No. 3) 2004 provides as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 ###### Commencement information
 
 Column 1 | Column 2 | Column 3
 --- | --- | ---
 Provision(s) | Commencement | Date/Details
-3. Schedule 1, items 44 and 45 | Immediately after the commencement of items 59 and 61 of Schedule 2 to the Higher Education Legislation Amendment Act (No. 2) 2004 . | 13 July 2004
+3. Schedule 1, items 44 and 45 | Immediately after the commencement of items 59 and 61 of Schedule 2 to the Higher Education Legislation Amendment Act (No. 2) 2004. | 13 July 2004
 
 (b) Subsection 2(1) (items 4 and 5) of the Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005 provide as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
-Provision(s)
-
-4.  Schedule 2,
-
-item 2
-
-5.  Schedule 2,
-
-items 3 to 17
-
-Commencement
-
-Immediately after the commencement of the
-
-provision(s) covered by table item 5.
-
-The day on which this Act receives the Royal
-
-Assent.
+Provision(s) | Commencement | Date/Details
+--- | --- | ---
+4. Schedule 2, item 2 | Immediately after the commencement of the provision(s) covered by table item 5. | 25 May 2005
+5. Schedule 2, items 3 to 17 | The day on which this Act receives the Royal Assent. | 25 May 2005
 
 (c) Subsection 2(1) (item 4) of the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 provides as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
-Provision(s)
+Provision(s) | Commencement | Date/Details
+--- | --- | ---
+4. Schedule 1, Part 3 | Immediately after the commencement of Schedule 1 to the Higher Education Support Act 2003. | 1 January 2004
 
-4.  Schedule 1,
+(d) Subsection 2(1) (items 5–27) of the Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 provide as follows:
 
-Part 3
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
-Commencement
-
-Immediately after the commencement of
-
-Schedule 1 to the Higher Education Support Act
-
-2003
-
-.
-
-(d) Subsection 2(1) (items 5-27) of the Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005 provide as follows:
-
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-Provision(s)
-
-5.  Schedule 6
-
-6.  Schedule 7,
-
-items 1 to 6
-
-Commencement
-
-23 November 2004.
-
-Immediately after the commencement of the
-
-provisions covered by table item 5.
-
-Date/Details
-
-23 November 2004
-
-23 November 2004
-
-Date/Details
-
-1 January 2004
-
-Date/Details
-
-25 May 2005
-
-25 May 2005
+Provision(s) | Commencement | Date/Details
+--- | --- | ---
+5. Schedule 6 | 23 November 2004. | 23 November 2004
+6. Schedule 7, items 1 to 6 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
 
 Higher Education Support Act 2003                    327
 
@@ -9803,13 +10630,13 @@ Act Notes
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-7. Schedule 7, item 7 | Immediately after the commencement of item 6 of Schedule 1 to the Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005 . However, if item 6 of Schedule 1 to the Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005 does not commence, the provision(s) do not commence at all. | 1 January 2006
+7. Schedule 7, item 7 | Immediately after the commencement of item 6 of Schedule 1 to the Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005. However, if item 6 of Schedule 1 to the Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005 does not commence, the provision(s) do not commence at all. | 1 January 2006
 8. Schedule 7, item 8 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
-9. Schedule 7, item 9 | Immediately after the commencement of item 18 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 18 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, | 6 July 2005
+9. Schedule 7, item 9 | Immediately after the commencement of item 18 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005. However, if item 18 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
 10. Schedule 7, item 10 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
-11. Schedule 7, item 11 | Immediately after the commencement of item 20 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 20 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
+11. Schedule 7, item 11 | Immediately after the commencement of item 20 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005. However, if item 20 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
 12. Schedule 7, items 12 to 14 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
-13. Schedule 7, item 15 | Immediately after the commencement of item 24 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 24 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
+13. Schedule 7, item 15 | Immediately after the commencement of item 24 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005. However, if item 24 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
 14. Schedule 7, items 16 to 36 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
 
 328            Higher Education Support Act 2003
@@ -9822,9 +10649,11 @@ ComLaw Authoritative Act C2013C00029
 
 Notes to the Higher Education Support Act 2003
 
+Act Notes
+
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
-15. Schedule 7, items 37 and 38 | Immediately after the commencement of item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, | 6 July 2005
+15. Schedule 7, items 37 and 38 | Immediately after the commencement of item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005. However, if item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
 16. Schedule 7, items 39 to 43 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
 17. Schedule 7, item 44 | Immediately after the commencement of item 60 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 60 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 1 January 2004
 18. Schedule 7, items 45 and 46 | Immediately after the commencement of the provisions covered by table item 5. | 23 November 2004
@@ -9833,8 +10662,6 @@ Provision(s) | Commencement | Date/Details
 21. Schedule 7, items 50 to 56 | Immediately after the commencement of the provisions covered by table item 6. | 23 November 2004
 22. Schedule 7, item 57 | Immediately after the commencement of the provisions covered by table item 9. However, if the provisions covered by table item 9 do not commence, the provision(s) do not commence at all. | 6 July 2005
 23. Schedule 7, item 58 | Immediately after the commencement of the provisions covered by table item 11. However, if the provisions covered by table item 11 do not commence, the provision(s) do not commence at all. | 6 July 2005
-
-Act Notes
 
 Higher Education Support Act 2003                    329
 
@@ -9854,8 +10681,8 @@ Provision(s) | Commencement | Date/Details
 25. Schedule 7, item 82 | Immediately after the commencement of item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 44 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
 26. Schedule 7, items 83 to 91 | Immediately after the commencement of the provisions covered by table item 6. | 23 November 2004
 27. Schedule 7, item 92 | Immediately after the commencement of item 23 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 . However, if item 23 of Schedule 1 to the Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005 does not commence, the provision(s) do not commence at all. | 6 July 2005
-(e) | Subsection 2(1) (item 20) of the Statute Law Revision Act 2008 provides as follows: (1) Each provision of this Act specified in column 1 of the table commences, or is taken
-
+(e) Subsection 2(1) (item 20) of the Statute Law Revision Act 2008 provides as follows:
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
 20. Schedule 1, items 28 and 29 | Immediately after the commencement of section 179-10 of the Higher Education Support Act 2003 . | 1 January 2004
@@ -9879,9 +10706,9 @@ Notes to the Higher Education Support Act 2003
 
 Act Notes
 
-(g) Subsection 2(1) (items 7-10) of the National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 provides as follows:
+(g) Subsection 2(1) (items 7–10) of the National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 provides as follows:
 
-- Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
@@ -9889,7 +10716,8 @@ Provision(s) | Commencement | Date/Details
 8. Schedule 1, item 34 | Immediately after the commencement of section 3 of the National Vocational Education and Training Regulator Act 2011 . However, if Schedule 1 to the Higher Education Support Amendment (No. 1) Act 2011 commences before that time, the provision(s) do not commence at all. | Does not commence
 9. Schedule 1, item 35 | Immediately after the commencement of Schedule 1 to the Higher Education Support Amendment (No. 1) Act 2011 . However, if section 3 of the National Vocational Education and Training Regulator Act 2011 commences before that time, the provision(s) do not commence at all. | 30 June 2011
 10. Schedule 1, items 36 to 55 | Immediately after the commencement of section 3 of the National Vocational Education and Training Regulator Act 2011 . | 1 July 2011
-(h) | Subsection 2(1) (items 8-10) of the Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011 provides as follows: Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+(h) Subsection 2(1) (items 8–10) of the Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011 provides as follows:
+(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
@@ -9926,11 +10754,15 @@ Table of Amendments
 
 ###### Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
-Chapter 1 Division 1
+Chapter 1
+Division 1
 S. 1-15 ...................................... | rep. No. 74, 2011
-Division 2 S. | 2-1........................................ am. No. 170, 2007; No. 104, 2011
+Division 2
+S. 2-1........................................ | am. No. 170, 2007; No. 104, 2011
 Division 3
 S. 3-1........................................ | am. No. 170, 2007
 Heading to s. 3-5 ...................... | am. No. 119, 2007
@@ -9945,10 +10777,12 @@ Division 6
 Div. 6 ........................................ | ad. No. 170, 2007
 S. 6-1........................................ | ad. No. 170, 2007
 Chapter 2
-Heading to Chapt. 2 .................. | rs. No. 119, 2007
+Heading to Chapt. 2.................. | rs. No. 119, 2007
+Division 8
 S. 8-1........................................ | am. Nos. 72 and 119, 2007; No. 104, 2011
 Part 2-1
-S. 13-1 ...................................... | am. No. 158, 2005; No. 72, 2007
+Division 13
+S. 13-1...................................... | am. No. 158, 2005; No. 72, 2007
 Division 16
 Subdivision 16-A
 S. 16-5 ...................................... | am. No. 158, 2005; No. 39, 2009
@@ -9972,6 +10806,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 S. 16-30 .................................... | am. No. 45, 2004; No. 56, 2005 rs. No. 158, 2005
@@ -9989,7 +10825,7 @@ Division 19
 Subdivision 19-A
 S. 19-1 ...................................... | am. No. 104, 2011
 Subdivision 19-C
-Subdiv. 19 - C of Div. 19 ............. of Part 2-1 | rs. No. 74, 2011
+Subdiv. 19-C of Div. 19............. of Part 2-1 | rs. No. 74, 2011
 S. 19-15 .................................... | am. No. 72, 2007 rs. No. 74, 2011
 Heading to s. 19-20 .................. | am. No. 72, 2007 rep. No. 74, 2011
 S. 19-20 .................................... | am. No. 72, 2007 rep. No. 74, 2011
@@ -10007,9 +10843,7 @@ S. 19-50 .................................... | am. No. 83, 2005; No. 104, 2011
 S. 19-60 .................................... | am. No. 83, 2005; No. 104, 2011
 Subdivision 19-E
 S. 19-65 .................................... | am. No. 158, 2005
-S. 19-67 .................................... | ad. No. 130, 2011
-
-ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+S. 19-67.................................... | ad. No. 130, 2011
 
 334            Higher Education Support Act 2003
 
@@ -10023,6 +10857,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 S. 19-70 .................................... | am. No. 6, 2012
@@ -10035,8 +10871,9 @@ S. 19-88 .................................... | ad. No. 45, 2004 am. No. 114, 20
 S. 19-90 .................................... | rs. No. 45, 2004 am. No. 83, 2005; No. 121, 2006
 S. 19-91 .................................... | ad. No. 45, 2004 am. No. 114, 2004 rep. No. 121, 2006
 Heading to s. 19-95 .................. | am. No. 45, 2004
-S. 19-95 .................................... S. 19-97 .................................... | am. No. 45, 2004; No. 83, 2005; No. 121, 2006 ad. No. 45, 2004
-S. 19-100 .................................. | rep. No. 121, 2006 rs. No. 45, 2004 am. No. 157, 2004
+S. 19-95.................................... | am. No. 45, 2004; No. 83, 2005; No. 121, 2006
+S. 19-97.................................... | ad. No. 45, 2004 rep. No. 121, 2006
+S. 19-100.................................. | rs. No. 45, 2004 am. No. 157, 2004
 S. 19-101 .................................. | ad. No. 45, 2004 rep. No. 121, 2006
 S. 19-102 .................................. | ad. No. 45, 2004 am. No. 143, 2005; No. 74, 2011
 S. 19-105 .................................. | rs. No. 45, 2004 am. No. 157, 2004 rs. No. 121, 2006
@@ -10052,7 +10889,8 @@ S. 22-7 ...................................... | ad. No. 114, 2004 am. No. 72, 2
 Heading to s. 22-10 .................. | rs. No. 72, 2007
 Subhead. to s. 22-10(1) ............ | rs. No. 72, 2007
 Subhead. to s. 22-10(2) ............ | rs. No. 72, 2007
-Subhead. to s. 22-10(3) ............ | rs. No. 72, 2007
+Subhead. to s. 22-10(3)............ | rs. No. 72, 2007
+S. 22-10.................................... | am. No. 72, 2007; No. 89, 2008; Nos. 72 and 74, 2011
 
 Higher Education Support Act 2003                    335
 
@@ -10065,6 +10903,8 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -10091,7 +10931,8 @@ S. 22-50 .................................... | ad. No. 160, 2012
 Part 2-2
 Division 27
 S. 27-1 ...................................... | am. No. 104, 2011
-Note to s. 27-1 .......................... Division 30 | ad. No. 158, 2005
+Note to s. 27-1.......................... | ad. No. 158, 2005
+Division 30
 Subdivision 30-A
 S. 30-1 ...................................... | am. No. 119, 2007; No. 104, 2011
 S. 30-5 ...................................... | am. Nos. 45, 114 and 157, 2004; Nos. 56 and 156, 2005; No. 121, 2006; No. 119, 2007; No. 43, 2008; No. 86, 2009; No. 129, 2010 rep. No. 104, 2011
@@ -10116,10 +10957,13 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 S. 30-28 .................................... | ad. No. 104, 2011
-Division 33 Subdivision 33-A
+Division 33
+Subdivision 33-A
 S. 33-1 ...................................... | am. No. 86, 2009; No. 104, 2011
 Subdivision 33-B
 S. 33-5 ...................................... | am. No. 43, 2008 rs. No. 104, 2011
@@ -10130,18 +10974,21 @@ S. 33-20 .................................... | rep. No. 119, 2007
 Note to s. 33-20(2) .................... | ad. No. 159, 2005 rep. No. 119, 2007
 Heading to s. 33-25 .................. | am. No. 119, 2007 rep. No. 104, 2011
 Subhead. to s. 33-25(5) ............ | ad. No. 119, 2007 rep. No. 104, 2011
-S. 33-25 .................................... | am. No. 45, 2004; No. 119, 2007; No. 86, 2009 rep. No. 104, 2011
+S. 33-25.................................... | am. No. 45, 2004; No. 119, 2007; No. 86, 2009 rep. No. 104, 2011
+S. 33-30.................................... | am. No. 104, 2011
 Subdivision 33-C
 Heading to Subdiv. 33-C ........... of Div. 33 of Part 2-2 | rs. No. 104, 2011
 S. 33-37 .................................... | ad. No. 159, 2005 am. No. 104, 2011
 Subdivision 33-D
 S. 33-40 .................................... | am. No. 104, 2011
-Division 36 Subdivision 36-B
+Division 36
+Subdivision 36-B
 S. 36-5 ...................................... | am. No. 157, 2004; No. 143, 2005
 Subhead. to s. 36-10(7) ............ | am. No. 121, 2006
-S. 36-10 .................................... S. 36-15 .................................... | am. No. 157, 2004; No. 143, 2005; No. 121, 2006; No. 72, 2007; No. 104, 2011; No. 127, 2012 am. No. 157, 2004; Nos. 143 and 158, 2005; No. 178, 2011
-S. 36-20 .................................... | am. No. 45, 2004; No. 158, 2005
-S. 36-21 | rs. No. 104, 2011 .................................... ad. No. 104, 2011
+S. 36-10.................................... | am. No. 157, 2004; No. 143, 2005; No. 121, 2006; No. 72, 2007; No. 104, 2011; No. 127, 2012
+S. 36-15.................................... | am. No. 157, 2004; Nos. 143 and 158, 2005; No. 178, 2011
+S. 36-20.................................... | am. No. 45, 2004; No. 158, 2005 rs. No. 104, 2011
+S. 36-21.................................... | ad. No. 104, 2011
 Heading to s. 36-22 .................. | am. No. 83, 2005 rs. No. 104, 2011
 S. 36-22 .................................... | ad. No. 45, 2004 am. No. 157, 2004; Nos. 83 and 158, 2005; No. 72, 2007 rs. No. 104, 2011
 S. 36-22A ................................. | ad. No. 158, 2005 rep. No. 104, 2011
@@ -10158,6 +11005,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 S. 36-23 .................................... | ad. No. 83, 2005 rs. No. 104, 2011
@@ -10166,8 +11015,8 @@ S. 36-24B ................................. | ad. No. 104, 2011
 S. 36-24C ................................. | ad. No. 104, 2011
 Subdivision 36-C
 S. 36-25 .................................... | rs. No. 157, 2004 am. No. 143, 2005
-Heading to s. 36-30 .................. | rs. No. 43, 2008 am. No. 43, 2008
-Subhead. to s. 36-30(5) ............
+Heading to s. 36-30.................. | rs. No. 43, 2008
+Subhead. to s. 36-30(5)............ | am. No. 43, 2008
 S. 36-30 .................................... | am. No. 143, 2005; No. 43, 2008; No. 104, 2011
 S. 36-32 .................................... | ad. No. 72, 2007 rep. No. 104, 2011
 S. 36-35 .................................... | am. No. 157, 2004 rep. No. 119, 2007
@@ -10181,6 +11030,7 @@ S. 36-55 .................................... | am. No. 45, 2004
 Subdivision 36-F
 S. 36-70 .................................... | am. No. 119, 2007
 Part 2-3
+Division 41
 Note to s. 41-1 .......................... | ad. No. 158, 2005
 S. 41-10 .................................... | am. No. 56, 2005; No. 119, 2007; No. 89, 2008; No. 86, 2009; No. 104, 2011
 S. 41-45 .................................... | am. Nos. 45 and 114, 2004; Nos. 56 and 156, 2005; No. 121, 2006; Nos. 72 and 119, 2007; No. 43, 2008; No. 86, 2009; No. 129, 2010; Nos. 94 and 178, 2011; No. 156, 2012
@@ -10207,24 +11057,30 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
-Heading to s. 46-15 .................. S. 46-15 .................................... | rs. No. 119, 2007 am. No. 114, 2004; No. 119, 2007; No. 104, 2011
+Heading to s. 46-15.................. | rs. No. 119, 2007
+S. 46-15.................................... | am. No. 114, 2004; No. 119, 2007; No. 104, 2011
 Subhead. to s. 46-20(2) ............ | ad. No. 119, 2007
 S. 46-20 .................................... | am. No. 114, 2004; No. 119, 2007; No. 17, 2010; No. 32, 2011
 S. 46-25 .................................... | am. No. 119, 2007
 S. 46-30 .................................... | am. No. 114, 2004
-S. 46-40 .................................... | am. No. 114, 2004; No. 156, 2005; No. 121, 2006; No. 119, 2007; No. 43, 2008; No. 86, 2009; No. 129, 2010; No. 178,
-Part 2-5 | 2011; No. 156, 2012
+S. 46-40.................................... | am. No. 114, 2004; No. 156, 2005; No. 121, 2006; No. 119, 2007; No. 43, 2008; No. 86, 2009; No. 129, 2010; No. 178, 2011; No. 156, 2012
+Part 2-5
 Division 51
-Note to s. 51-1 .......................... Division 54 | ad. No. 158, 2005
+Note to s. 51-1.......................... | ad. No. 158, 2005
+Division 54
 S. 54-5 ...................................... | am. No. 159, 2005
 Chapter 3
+Division 65
 S. 65-1 ...................................... | am. Nos. 104 and 130, 2011
 Part 3-1 .................................... | rep. No. 104, 2011
 S. 70-1 ...................................... | rep. No. 104, 2011
 S. 70-5 ...................................... | rep. No. 104, 2011
-S. 73-1 ...................................... | rep. No. 104, 2011
+S. 73-1...................................... | rep. No. 104, 2011
+S. 73-5...................................... | rep. No. 104, 2011
 S. 73-10 .................................... | am. No. 45, 2004; No. 143, 2005 rep. No. 104, 2011
 S. 73-15 .................................... | rep. No. 104, 2011
 S. 73-20 .................................... | rep. No. 104, 2011
@@ -10234,10 +11090,10 @@ S. 73-30 .................................... | rep. No. 104, 2011
 S. 76-1 ...................................... | am. No. 157, 2004; No. 158, 2005 rep. No. 104, 2011
 S. 76-5 ...................................... | rep. No. 104, 2011
 S. 76-10 .................................... | rep. No. 104, 2011
-Heading to Subdiv. 79-A ........... of Div. 79 of Part 3-1 | ad. No. 56, 2005 rep. No. 104, 2011 ad. No. 56, 2005 rep. No. 104, 2011
-S. 79-1A ................................... Heading to s. 79-1 .................... | rs. No. 56, 2005 rep. No. 104, 2011
-S. 79-1 | am. No. 157, 2004; Nos. 83 and 158, 2005; No. 72, 2007 rep. No. 104, 2011
-......................................
+Heading to Subdiv. 79-A........... of Div. 79 of Part 3-1 | ad. No. 56, 2005 rep. No. 104, 2011
+S. 79-1A................................... | ad. No. 56, 2005 rep. No. 104, 2011
+Heading to s. 79-1.................... | rs. No. 56, 2005 rep. No. 104, 2011
+S. 79-1...................................... | am. No. 157, 2004; Nos. 83 and 158, 2005; No. 72, 2007 rep. No. 104, 2011
 S. 79-5 ...................................... | am. No. 158, 2005 rep. No. 104, 2011
 
 Higher Education Support Act 2003                    339
@@ -10252,7 +11108,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
-Provision affected | amended rep. = repealed rs. = repealed and How affected
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+Provision affected | How affected
 --- | ---
 Note to s. 79-5(2) ...................... | am. No. 45, 2004 rep. No. 104, 2011
 S. 79-10 .................................... | am. No. 158, 2005 rep. No. 104, 2011
@@ -10298,6 +11155,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 Note 2 to s. 93-15 ..................... | am. No. 178, 2011
@@ -10306,29 +11165,34 @@ S. 96-1 ...................................... | am. No. 45, 2004
 S. 96-5 ...................................... | am. Nos. 45 and 114, 2004; No. 178, 2011
 S. 96-10 .................................... | am. No. 45, 2004; No. 178, 2011
 Note to s. 96-10 ........................ | am. No. 45, 2004; No. 178, 2011
-Part 3-3 Division 101
+Part 3-3
+Division 101
 S. 101-1 .................................... | rs. No. 45, 2004 am. No. 114, 2004; No. 143, 2005
-Division 104 Subdivision 104-A
+Division 104
+Subdivision 104-A
 S. 104-1 .................................... | am. Nos. 114 and 157, 2004; No. 143, 2005; No. 178, 2011
-Heading to s. 104-2 .................. S. 104-2 .................................... | am. No. 143, 2005 ad. No. 114, 2004
+Heading to s. 104-2.................. | am. No. 143, 2005
+S. 104-2.................................... | ad. No. 114, 2004 am. No. 157, 2004; No. 143, 2005
 Heading to s. 104-3 .................. | am. Nos. 143 and 159, 2005
 S. 104-3 .................................... | ad. No. 114, 2004 am. Nos. 143, 158 and 159, 2005
 Heading to s. 104-4 .................. | am. No. 143, 2005
 S. 104-4 .................................... | ad. No. 114, 2004 am. Nos. 83 and 143, 2005; No. 121, 2006
 S. 104-5 .................................... | am. No. 114, 2004 rs. No. 72, 2007 am. No. 127, 2012
-S. 104-10 .................................. Subdivision 104-B | am. No. 158, 2005; No. 72, 2007; No. 74, 2011
+S. 104-10.................................. | am. No. 158, 2005; No. 72, 2007; No. 74, 2011
+Subdivision 104-B
 S. 104-15 .................................. | am. No. 121, 2006 rs. No. 170, 2007
-S. 104-20 .................................. Heading to s. 104-25 | rs. No. 121, 2006 rs. No. 56, 2005
-................ S. 104-25 .................................. | am. No. 114, 2004; Nos. 56, 143 and 158, 2005
-Note to s. 104-25 ...................... | rep. No. 114, 2004 ad. No. 83, 2005
-S. 104-27 .................................. | am. Nos. 143 and 158, 2005
-S. 104-30 .................................. | am. No. 114, 2004; No. 143, 2005; No. 104, 2011 am. No. 114, 2004; No. 143, 2005
-S. 104-35 .................................. | am. No. 114, 2004; No. 143, 2005
-S. 104-40 .................................. Heading to s. 104-42 ................ | am. No. 158, 2005
-S. 104-42 .................................. | ad. No. 56, 2005
-Subdivision 104-C | am. No. 143, 2005; No. 72, 2007
-am. No. 158, 2005
-S. 104-45 ..................................
+S. 104-20.................................. | rs. No. 121, 2006
+Heading to s. 104-25................ | rs. No. 56, 2005
+S. 104-25.................................. | am. No. 114, 2004; Nos. 56, 143 and 158, 2005
+Note to s. 104-25...................... | rep. No. 114, 2004
+S. 104-27.................................. | ad. No. 83, 2005 am. Nos. 143 and 158, 2005
+S. 104-30.................................. | am. No. 114, 2004; No. 143, 2005; No. 104, 2011
+S. 104-35.................................. | am. No. 114, 2004; No. 143, 2005
+S. 104-40.................................. | am. No. 114, 2004; No. 143, 2005
+Heading to s. 104-42................ | am. No. 158, 2005
+S. 104-42.................................. | ad. No. 56, 2005 am. No. 158, 2005
+Subdivision 104-C
+S. 104-45.................................. | am. No. 143, 2005; No. 72, 2007
 S. 104-75 .................................. | rep. No. 143, 2005
 
 Higher Education Support Act 2003                    341
@@ -10343,6 +11207,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 Division 107
@@ -10353,7 +11219,8 @@ Division 110
 Heading to s. 110-1 .................. | rs. No. 114, 2004
 S. 110-1 .................................... | am. Nos. 45 and 114, 2004; No. 143, 2005
 S. 110-5 .................................... | am. No. 114, 2004; Nos. 56, 83, 143 and 158, 2005
-Note to s. 110-5(1) .................... Part 3-4 | ad. No. 121, 2006
+Note to s. 110-5(1).................... | ad. No. 121, 2006
+Part 3-4
 Division 115
 S. 115-1 .................................... | am. No. 157, 2004
 Division 118
@@ -10378,7 +11245,8 @@ Chapter 4
 Division 129
 S. 129-1 .................................... | rs. No. 170, 2007
 Part 4-1
-Division 134 S. 134-1 | .................................... rs. No. 170, 2007 am. No. 130, 2011
+Division 134
+S. 134-1.................................... | rs. No. 170, 2007 am. No. 130, 2011
 Division 137
 S. 137-1 .................................... | am. No. 170, 2007; No. 130, 2011
 S. 137-5 .................................... | am. No. 45, 2004; Nos. 83 and 158, 2005; No. 104, 2011
@@ -10394,6 +11262,8 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -10482,7 +11352,8 @@ S. 169-27 .................................. | ad. No. 104, 2011
 S. 169-28 .................................. | ad. No. 104, 2011
 S. 169-30 .................................. | am. No. 130, 2011
 S. 169-35 .................................. | ad. No. 72, 2007 am. No. 130, 2011
-Part 5-3 Division 174
+Part 5-3
+Division 174
 S. 174-5 .................................... | rs. No. 121, 2006
 S. 174-10 .................................. | rep. No. 121, 2006
 S. 174-15 .................................. | rep. No. 121, 2006
@@ -10500,6 +11371,8 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -10553,6 +11426,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 S. 190-10 .................................. | am. No. 114, 2004; No. 143, 2005
@@ -10602,7 +11477,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
-Provision affected | amended rep. = repealed rs. = repealed and substituted How affected
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+Provision affected | How affected
 --- | ---
 S. 209-10 .................................. | am. No. 83, 2005
 Chapt. 6 .................................... | rep. No. 74, 2011
@@ -10642,6 +11518,8 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -10698,6 +11576,8 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
 --- | ---
 Subdivision 4-F
@@ -10748,6 +11628,8 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table of Amendments
+
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
 
 Provision affected | How affected
 --- | ---
@@ -10801,9 +11683,10 @@ Notes to the Higher Education Support Act 2003
 
 Table of Amendments
 
-ad. = added or inserted | am. = amended rep. = repealed rs. = repealed and substituted
---- | ---
+ad. = added or inserted   am. = amended   rep. = repealed   rs. = repealed and substituted
+
 Provision affected | How affected
+--- | ---
 Division 16
 Subdivision 16-B
 C. 91......................................... | am. No. 72, 2011
@@ -10835,9 +11718,9 @@ Table A
 
 ##### 85  Saving of guidelines
 
-- Guidelines issued under subsection 187-1(4) of the Higher Education Support Act 2003 that were in force immediately before the commencement of this item continue to have effect on and after that commencement as if they had been issued under that subsection as in force after that commencement.
+(1) Guidelines issued under subsection 187-1(4) of the Higher Education Support Act 2003 that were in force immediately before the commencement of this item continue to have effect on and after that commencement as if they had been issued under that subsection as in force after that commencement.
 
-- Subitem (1) does not prevent the amendment or revocation of the guidelines.
+(2) Subitem (1) does not prevent the amendment or revocation of the guidelines.
 
 ### Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005 (No. 56, 2005)
 
@@ -10871,21 +11754,21 @@ The amendments made by items 6 and 7 of this Schedule apply in relation to exemp
 
 #### Schedule 1
 
-##### 2  Transitional-section 19-45 of the Higher Education Support Act 2003
+##### 2  Transitional—section 19-45 of the Higher Education Support Act 2003
 
 The amendment of section 19-45 of the Higher Education Support Act 2003 made by this Part does not affect the continuity of any Higher Education Provider Guidelines made before the commencement of this item.
 
-##### 12  Application of amendments-sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003
+##### 12  Application of amendments—sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003
 
-- A higher education provider may, by written notice given to the Secretary, choose to have the amendments of sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2005.
+(1) A higher education provider may, by written notice given to the Secretary, choose to have the amendments of sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2005.
 
-- The choice has effect accordingly.
+(2) The choice has effect accordingly.
 
-- The choice cannot be revoked.
+(3) The choice cannot be revoked.
 
-- If a higher education provider does not make a choice under subitem (1), the amendments of sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2006.
+(4) If a higher education provider does not make a choice under subitem (1), the amendments of sections 19-87, 19-90 and 19-95 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2006.
 
-- A notice given under subitem (1) is not a legislative instrument for the purposes of the Legislative Instruments Act 2003 .
+(5) A notice given under subitem (1) is not a legislative instrument for the purposes of the Legislative Instruments Act 2003.
 
 Higher Education Support Act 2003                    353
 
@@ -10899,19 +11782,29 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-##### 23  Application of amendments-section 104-4 of the Higher Education Support Act 2003
+##### 23  Application of amendments—section 104-4 of the Higher Education Support Act 2003
 
-(1) Open Universities Australia may, by written notice given to the Secretary, choose to have the amendments of section 104-4 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study access to which was provided by Open Universities Australia during periods that commence on or after 1 January 2005. (2) The choice has effect accordingly. (3) The choice cannot be revoked. (4) If Open Universities Australia does not make a choice under subitem (1), the amendments of section 104-4 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study access to which was provided by Open Universities Australia during periods that commence on or after 1 January 2006. (5) A notice given under subitem (1) is not a legislative instrument for the
+(1) Open Universities Australia may, by written notice given to the Secretary, choose to have the amendments of section 104-4 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study access to which was provided by Open Universities Australia during periods that commence on or after 1 January 2005.
 
-- purposes of the Legislative Instruments Act 2003 .
+(2) The choice has effect accordingly.
 
-##### 35  Application of amendments-section 169-25 of the Higher Education Support Act 2003
+(3) The choice cannot be revoked.
 
-- A higher education provider may, by written notice given to the Secretary, choose to have the amendments of section 169-25 of the Higher Education Support Act 2003 to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2005.
+(4) If Open Universities Australia does not make a choice under subitem (1), the amendments of section 104-4 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study access to which was provided by Open Universities Australia during periods that commence on or after 1 January 2006.
 
-- purposes of the Legislative Instruments Act 2003 .
+(5) A notice given under subitem (1) is not a legislative instrument for the purposes of the Legislative Instruments Act 2003.
 
-- made by this Part apply in relation (2) The choice has effect accordingly. (3) The choice cannot be revoked. (4) If a higher education provider does not make a choice under subitem (1), the amendments of section 169-25 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2006. A notice given under subitem (1) is not a legislative instrument for the
+##### 35  Application of amendments—section 169-25 of the Higher Education Support Act 2003
+
+(1) A higher education provider may, by written notice given to the Secretary, choose to have the amendments of section 169-25 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2005.
+
+(2) The choice has effect accordingly.
+
+(3) The choice cannot be revoked.
+
+(4) If a higher education provider does not make a choice under subitem (1), the amendments of section 169-25 of the Higher Education Support Act 2003 made by this Part apply in relation to units of study provided, or proposed to be provided, by the provider during periods that commence on or after 1 January 2006.
+
+(5) A notice given under subitem (1) is not a legislative instrument for the purposes of the Legislative Instruments Act 2003.
 
 354            Higher Education Support Act 2003
 
@@ -10925,11 +11818,11 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-##### 47  Application of amendment-subsection 198-10(3) of the Higher Education Support Act 2003
+##### 47  Application of amendment—subsection 198-10(3) of the Higher Education Support Act 2003
 
 Subsection 198-10(3) of the Higher Education Support Act 2003 applies to amounts indexed after the commencement of this item.
 
-##### 49  Application of amendment-subsections 209-10(5A) and (5B) of the Higher Education Support Act 2003
+##### 49  Application of amendment—subsections 209-10(5A) and (5B) of the Higher Education Support Act 2003
 
 Subsections 209-10(5A) and (5B) of the Higher Education Support Act 2003 apply to a decision on review that is made after the commencement of this item.
 
@@ -11013,7 +11906,7 @@ The amendments made by this Schedule apply to things done on or after the later 
 
 ##### 1  Application of Schedule 1 and 2 amendments
 
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply: (a)  so far as they affect assessments-to assessments for the 2006-07 income year and all later income years; and (b)  otherwise-to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
+Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply: (a) so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and (b) otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
 ##### 6  Object
 
@@ -11083,11 +11976,11 @@ This Schedule does not limit the operation of section 8 of the Acts Interpretati
 
 #### Schedule 1
 
-##### 4  Transitional provision-indexation
+##### 4  Transitional provision—indexation
 
 The amount in item 12 of the table in section 33-10 of the Higher Education Support Act 2003 , as amended by this Schedule, is not to be indexed on 1 January 2007.
 
-##### 5  Transitional provision-adjustment of basic grant amount
+##### 5  Transitional provision—adjustment of basic grant amount
 
 For the purposes of working out if and how a higher education provider's basic grant amount for the grant year 2007 or an earlier grant year is to be adjusted under Subdivision 33-C of the Higher Education Support Act 2003 , disregard the amendment made by item 3 of this Schedule.
 
@@ -11121,9 +12014,11 @@ If, immediately before subsection 19-90(3) of the Higher Education Support Act 2
 
 ##### 13  Saving provision for determinations of student contribution amounts for student cohorts
 
-- This item applies to a determination (the saved determination ) made by a higher education provider under section 19-88 of the Higher Education Support Act 2003 before that section was repealed by this
+(1) This item applies to a determination (the saved determination) made by a higher education provider under section 19-88 of the Higher Education Support Act 2003 before that section was repealed by this Schedule.
 
-- Schedule. (2) Section 19-97 of the Higher Education Support Act 2003 continues to apply in relation to the saved determination despite the repeal of that section by this Schedule. (3) The definition, in subsection 93-5(1) of the Higher Education Support Act 2003 , of a person's student contribution amount for a unit is modified, if: (a)  the person is in the student cohort to which the saved determination relates; and (b)  the saved determination has not been revoked under subitem (4); and (c)  the unit forms part of a course of study with the provider who made the saved determination; and (d)  the person is undertaking the unit with the provider; and (e)  the person satisfies any conditions that apply to the cohort under the saved determination;
+(2) Section 19-97 of the Higher Education Support Act 2003 continues to apply in relation to the saved determination despite the repeal of that section by this Schedule.
+
+(3) The definition, in subsection 93-5(1) of the Higher Education Support Act 2003, of a person's student contribution amount for a unit is modified, if: (a) the person is in the student cohort to which the saved determination relates; and (b) the saved determination has not been revoked under subitem (4); and (c) the unit forms part of a course of study with the provider who made the saved determination; and (d) the person is undertaking the unit with the provider; and (e) the person satisfies any conditions that apply to the cohort under the saved determination;
 
 Higher Education Support Act 2003                    361
 
@@ -11133,7 +12028,7 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 384]]
 
-Notes to the
+Notes to the Higher Education Support Act 2003
 
 Table A
 
@@ -11142,8 +12037,6 @@ so that the person's student contribution amount for a place in the unit is the 
 ##### 14  Saving provision for determinations of tuition fees for student cohorts
 
 (1) This item applies to a determination (the saved determination ) made by a higher education provider under section 19-91 of the Higher Education Support Act 2003 before that section was repealed by this Schedule. (2) Section 19-97 of the Higher Education Support Act 2003 continues to apply in relation to the saved determination despite the repeal of that section by this Schedule.
-
-Higher Education Support Act 2003
 
 362            Higher Education Support Act 2003
 
@@ -11183,7 +12076,7 @@ The amendments made by this Schedule apply to the calculation of HELP debts incu
 
 ##### 6  Application
 
-The amendments made by items 2 to 5 apply in relation to a  * census date that occurs on or after the commencement of this item.
+The amendments made by items 2 to 5 apply in relation to a *census date that occurs on or after the commencement of this item.
 
 #### Schedule 5
 
@@ -11195,15 +12088,15 @@ The amendments made by this Schedule apply in relation to a unit of study in whi
 
 #### Schedule 2
 
-##### 3  Transitional provision-indexation
+##### 3  Transitional provision—indexation
 
 Amounts in the table in section 33-10 of the Higher Education Support Act 2003 , as amended by this Schedule, are not to be indexed on 1 January 2008.
 
-##### 4  Transitional provision-adjustment of basic grant amount
+##### 4  Transitional provision—adjustment of basic grant amount
 
 For the purposes of working out if and how a higher education provider's basic grant amount for the year 2008 or an earlier grant year is to be adjusted under Subdivision 33-C of the Higher Education Support Act 2003 , disregard the amendment made by item 2 of this Schedule.
 
-> 364            Higher Education Support Act 2003
+364            Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -11215,7 +12108,7 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-##### 6  Application provision-section 33-17
+##### 6  Application provision—section 33-17
 
 Section 33-17 of the Higher Education Support Act 2003 applies in relation to basic grant amounts for 2008 and later years.
 
@@ -11237,7 +12130,7 @@ For the purposes of working out if and how a higher education provider's basic g
 
 #### Schedule 7
 
-##### 3  Transitional provision-indexation
+##### 3  Transitional provision—indexation
 
 Amounts in the table in section 93-10 of the Higher Education Support Act 2003 , as amended by this Schedule, are not to be indexed on 1 January 2008.
 
@@ -11249,13 +12142,13 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 388]]
 
-Notes to the
+Notes to the Higher Education Support Act 2003
 
 Table A
 
-##### 7  Saving provision-maximum student contribution amounts for old accounting etc. funding cluster
+##### 7  Saving provision—maximum student contribution amounts for old accounting etc. funding cluster
 
-(1) This item applies in relation to a person if: (a)  the person started a course of study with a higher education provider before 1 January 2008; and (b)  the person was a Commonwealth-supported student in relation to a unit of study in that course; and (c)  any of the following apply to the person: (i)  the person had not completed the course by 31 December 2007; or (ii)  in 2007, the person was undertaking an enabling course; or (iii)  the person has completed the related course for an honours course of study and is undertaking the honours course of study; and (d)  the person is undertaking a unit that would have been included in the funding cluster Accounting, Administration, Economics, Commerce if the amendments made by Schedule 2 to this Act had not been made; and (e)  the period over which the person is undertaking the unit ends on or before 31 December 2012; and (f)  if item 1 of Schedule 1 to the Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 applies or has applied to the person-the period over which the person is undertaking the unit starts on or after 1 January 2009. (2) Despite section 93-10 of the Higher Education Support Act 2003 as amended by this Schedule, the maximum student contribution amount for a place in the unit referred to in paragraph (1)(e) for the person is the amount that would have been the maximum student contribution amount for a place in that unit if the amendment of section 93-10 made by this Schedule had not been made.
+(1) This item applies in relation to a person if: (a) the person started a course of study with a higher education provider before 1 January 2008; and (b) the person was a Commonwealth-supported student in relation to a unit of study in that course; and (c) any of the following apply to the person: (i) the person had not completed the course by 31 December 2007; or (ii) in 2007, the person was undertaking an enabling course; or (iii) the person has completed the related course for an honours course of study and is undertaking the honours course of study; and (d) the person is undertaking a unit that would have been included in the funding cluster Accounting, Administration, Economics, Commerce if the amendments made by Schedule 2 to this Act had not been made; and (e) the period over which the person is undertaking the unit ends on or before 31 December 2012; and (f) if item 1 of Schedule 1 to the Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 applies or has applied to the person—the period over which the person is undertaking the unit starts on or after 1 January 2009. (2) Despite section 93-10 of the Higher Education Support Act 2003 as amended by this Schedule, the maximum student contribution amount for a place in the unit referred to in paragraph (1)(e) for the person is the amount that would have been the maximum student contribution amount for a place in that unit if the amendment of section 93-10 made by this Schedule had not been made.
 
 #### Schedule 8
 
@@ -11264,8 +12157,6 @@ Table A
 The amendments made by this Schedule apply in relation to payments under Part 2-4 of the Higher Education Support Act 2003 in respect of the year 2008 or a later year.
 
 366            Higher Education Support Act 2003
-
-Higher Education Support Act 2003
 
 ComLaw Authoritative Act C2013C00029
 
@@ -11301,9 +12192,11 @@ The amendments made by this Schedule apply in respect of the 2008-2009 and later
 
 ##### 13  Application
 
-- The amendments made by items 2 to 5 of this Schedule apply in respect of the year 2009 or a later year. (2) The amendments made by items 6 and 7 of this Schedule apply in relation to an enrolment of a person in a unit of study on or after 1 January 2009. (3) The amendments made by items 11 and 12 of this Schedule apply in relation to a person's enrolment in a unit of study that forms part of a course of study if: (a)  the person commences that course of study on or after
+(1) The amendments made by items 2 to 5 of this Schedule apply in respect of the year 2009 or a later year.
 
-- 1 January 2009; or
+(2) The amendments made by items 6 and 7 of this Schedule apply in relation to an enrolment of a person in a unit of study on or after 1 January 2009.
+
+(3) The amendments made by items 11 and 12 of this Schedule apply in relation to a person's enrolment in a unit of study that forms part of a course of study if: (a) the person commences that course of study on or after 1 January 2009; or
 
 Higher Education Support Act 2003                    367
 
@@ -11322,7 +12215,7 @@ Table A
 ### Higher Education Support Amendment (Removal of the Higher Education Workplace Relations Requirements and National Governance Protocols Requirements and Other Matters) Act 2008 (No. 89, 2008)
 
 #### Schedule 1
-##### 7  Application-repeal of section 33-17
+##### 7  Application—repeal of section 33-17
 
 The repeal of section 33-17 by item 6 of this Schedule has no effect in relation to a higher education provider's basic grant amount for the grant year 2008.
 
@@ -11343,7 +12236,7 @@ Table A
 #### Schedule 3
 ##### 102  Application
 
-- The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+(1) The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
 ### Higher Education Support Amendment (VET FEE-HELP and Providers) Act 2009 (No. 39, 2009)
 
@@ -11365,7 +12258,7 @@ Clause 32A of Schedule 1A to the Higher Education Support Act 2003 applies to an
 
 ##### 9  Application and transitional provisions
 
-- The amendments made by this Schedule apply in relation to the following decisions to approve bodies corporate as higher education providers or VET providers:
+(1) The amendments made by this Schedule apply in relation to the following decisions to approve bodies corporate as higher education providers or VET providers:
 
 (a)  decisions that were made on or after the commencement of this Schedule;
 
@@ -11387,7 +12280,7 @@ Table A
 
 #### Schedule 2
 
-##### 3  Transitional provision-indexation
+##### 3  Transitional provision—indexation
 
 Amounts in the table in section 33-10 of the Higher Education Support Act 2003 , as amended by this Schedule, are not to be indexed on 1 January 2010.
 
@@ -11414,11 +12307,11 @@ Notes to the Higher Education Support Act 2003
 Table A
 
 #### Schedule 5
-##### 2  Transitional provision-indexation
+##### 2  Transitional provision—indexation
 
 Amounts in the table in subsection 93-10(1) of the Higher Education Support Act 2003 , as amended by this Schedule, are not to be indexed on 1 January 2010.
 
-##### 3  Saving provision-maximum student contribution amounts for old funding clusters
+##### 3  Saving provision—maximum student contribution amounts for old funding clusters
 
 (1) This item applies in relation to a person if: (a)  the person started a course of study with a higher education provider before 1 January 2010; and (b)  the person was a Commonwealth supported student in relation to a unit of study in that course; and (c)  any of the following apply to the person: (i)  the person had not completed the course by 31 December 2009; (ii)  in 2009, the person was undertaking an enabling course; (iii)  the person has completed the related course for an honours course of study and is undertaking the honours course of study; and (d)  the person is undertaking a unit that would have been included in: (i)  Education in the funding cluster Mathematics, Statistics, Behavioural Science, Social Studies, Education, Computing, Built Environment, Other Health; or (ii)  the funding cluster Nursing; if the amendments made by Schedule 2 to this Act had not been made. (2) Despite subsection 93-10(1) of the Higher Education Support Act 2003 as amended by this Schedule, the maximum student contribution amount for a place in the unit referred to in paragraph (1)(d) of this item for the person is the amount that would have been the maximum student contribution amount for a place in that unit if the amendment of subsection 93-10(1) made by this Schedule had not been made.
 
@@ -11456,7 +12349,7 @@ The amendment of clause 6 of Schedule 1A to the Higher Education Support Act 200
 
 The amendments of clause 45 of Schedule 1A to the Higher Education Support Act 2003 made by this Schedule apply to VET units of study whose census dates are on or after 1 July 2009.
 
-##### 12  Transitional-guidelines made under clause 99 of Schedule 1A to the Higher Education Support Act 2003
+##### 12  Transitional—guidelines made under clause 99 of Schedule 1A to the Higher Education Support Act 2003
 
 (1) Guidelines in force under clause 99 of Schedule 1A to the Higher Education Support Act 2003 immediately before the commencement of the amendments of that clause by this Schedule have effect after that commencement as if they had been issued under that clause as amended by this Schedule.
 
@@ -11472,7 +12365,7 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-- Subitem (1) does not prevent the repeal or amendment of the guidelines.
+(2) Subitem (1) does not prevent the repeal or amendment of the guidelines.
 
 ### Higher Education Support Amendment (University College London) Act 2010 (No. 47, 2010)
 
@@ -11480,11 +12373,11 @@ Table A
 
 ##### 2  Application
 
-- The amendment made by this Schedule applies in relation to units of study offered by the University College London on or after 1 January 2010.
+(1) The amendment made by this Schedule applies in relation to units of study offered by the University College London on or after 1 January 2010.
 
-- In this item:
+(2) In this item:
 
-unit of study has the same meaning as in the Higher Education Support Act 2003 .
+unit of study has the same meaning as in the Higher Education Support Act 2003.
 
 ### Higher Education Support Amendment (Indexation) Act 2010 (No. 111, 2010)
 
@@ -11519,9 +12412,9 @@ The amendment made by item 1 applies to FEE-HELP debts incurred on or after 1 Ja
 
 ##### 54  Application
 
-- Clause 9A of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) applies in relation to an application for approval made before, on or after this item commences.
+(1) Clause 9A of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) applies in relation to an application for approval made before, on or after this item commences.
 
-- Subclause 17(2) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) applies in relation to an application for approval made before, on or after this item commences.
+(2) Subclause 17(2) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) applies in relation to an application for approval made before, on or after this item commences.
 
 ### Higher Education Support Amendment (No. 1) Act 2011 (No. 72, 2011)
 
@@ -11529,9 +12422,9 @@ The amendment made by item 1 applies to FEE-HELP debts incurred on or after 1 Ja
 
 ##### 32  Application
 
-- Paragraphs 16-25(1)(aa) and (g) and subsections 16-25(2), (3) and (4) of the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made on or after this item commences.
+(1) Paragraphs 16-25(1)(aa) and (g) and subsections 16-25(2), (3) and (4) of the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made on or after this item commences.
 
-- The amendments made by items 5, 11, 12, 13 and 14 apply in relation to a body approved as a higher education provider before, on or after this item commences.
+(2) The amendments made by items 5, 11, 12, 13 and 14 apply in relation to a body approved as a higher education provider before, on or after this item commences.
 
 374            Higher Education Support Act 2003
 
@@ -11545,28 +12438,28 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-- The amendments made by items 7, 8, 15, 25 and 28 apply in relation to an approval given before, on or after this item commences.
+(3) The amendments made by items 7, 8, 15, 25 and 28 apply in relation to an approval given before, on or after this item commences.
 
-- The amendments made by items 16 and 17 apply in relation to a notice given under subsection 22-30(2A) of the Higher Education Support Act 2003 (as inserted by this Act) after this item commences.
+(4) The amendments made by items 16 and 17 apply in relation to a notice given under subsection 22-30(2A) of the Higher Education Support Act 2003 (as inserted by this Act) after this item commences.
 
-- Paragraph 6(1)(b) and subclause 6(2) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made before, on or after this item commences.
+(5) Paragraph 6(1)(b) and subclause 6(2) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made before, on or after this item commences.
 
-- Paragraph 6(1)(h) and subclauses 6(3) and (4) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made on or after this item commences.
+(6) Paragraph 6(1)(h) and subclauses 6(3) and (4) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) apply in relation to an application for approval made on or after this item commences.
 
-- The amendments made by items 23, 26 and 27 apply in relation to a body approved as a VET provider before, on or after this item commences.
+(7) The amendments made by items 23, 26 and 27 apply in relation to a body approved as a VET provider before, on or after this item commences.
 
-- The amendments made by items 29 and 30 apply in relation to a notice given under subclause 36(2A) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) after this item commences.
+(8) The amendments made by items 29 and 30 apply in relation to a notice given under subclause 36(2A) of Schedule 1A to the Higher Education Support Act 2003 (as inserted by this Act) after this item commences.
 
 ### Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011 (No. 74, 2011)
 
 #### Schedule 2
 ##### 36  Application of amendments
 
-- Section 16-27 of the Higher Education Support Act 2003 (as inserted by this Division) applies in relation to an application for approval made on or after this item commences.
+(1) Section 16-27 of the Higher Education Support Act 2003 (as inserted by this Division) applies in relation to an application for approval made on or after this item commences.
 
-- Section 16-40 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an application for approval made on or after this item commences.
+(2) Section 16-40 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an application for approval made on or after this item commences.
 
-- Section 19-78 of the Higher Education Support Act 2003 (as inserted by this Division) applies in relation to an event happening before, on or after this item commences.
+(3) Section 19-78 of the Higher Education Support Act 2003 (as inserted by this Division) applies in relation to an event happening before, on or after this item commences.
 
 Higher Education Support Act 2003                    375
 
@@ -11580,11 +12473,11 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-- Section 90-1 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an enrolment in a unit of study if the enrolment commences on or after this item commences.
+(4) Section 90-1 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an enrolment in a unit of study if the enrolment commences on or after this item commences.
 
-- Section 104-10 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an enrolment in a unit of study if the enrolment commences on or after this item commences.
+(5) Section 104-10 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to an enrolment in a unit of study if the enrolment commences on or after this item commences.
 
-- Section 118-1 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to a period of 6 months commencing on or after this item commences.
+(6) Section 118-1 of the Higher Education Support Act 2003 (as amended by this Division) applies in relation to a period of 6 months commencing on or after this item commences.
 
 ##### 39  Application of amendments
 
@@ -11598,15 +12491,13 @@ The amendments made by this Division apply in relation to an application for app
 
 In this Part:
 
-commencement
+commencement means the commencement of this Schedule.
 
 new Act means the Higher Education Support Act 2003 as in force on and after commencement.
 
-old Act means the Higher Education Support Act 2003 immediately before commencement.
+old Act means the Higher Education Support Act 2003 as in force immediately before commencement.
 
-means the commencement of this Schedule. as in force
-
-##### 34  Application of amendments-general
+##### 34  Application of amendments—general
 
 The amendments made by this Schedule apply in relation to the year commencing on 1 January 2012 or a later year.
 
@@ -11622,35 +12513,37 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-##### 35  Transitional-maximum basic grant amount for non-designated courses of study for Table A providers for 2012
+##### 35  Transitional—maximum basic grant amount for non-designated courses of study for Table A providers for 2012
 
 For the purposes of working out the amount mentioned in paragraph 30-27(3)(b) of the new Act for the year 2012, the amount is to be worked out as if paragraph 33-5(5)(a) of the new Act applied to the year 2011.
 
-##### 36  Transitional-adjustment of basic grant amount for 2012
+##### 36  Transitional—adjustment of basic grant amount for 2012
 
-A higher education provider's basic grant amount for the year 2012 (as worked out under the new Act) is to be adjusted as if the amendments made by items 11, 15, 16 and 18 of this Schedule had not been made. Adjustments of basic grant amounts for 2011 or an earlier year are not affected by the
+A higher education provider's basic grant amount for the year 2012 (as worked out under the new Act) is to be adjusted as if the amendments made by items 11, 15, 16 and 18 of this Schedule had not been made.
 
-Note: amendments in this Schedule.
+Note: Adjustments of basic grant amounts for 2011 or an earlier year are not affected by the amendments in this Schedule.
 
 #### Schedule 2
 
 ##### 37  Definitions
 
-In this Part: commencement means the commencement of this Schedule. new Act means the Higher Education Support Act 2003 and after commencement. as in force
+In this Part:
 
-old Act means the Higher Education Support Act 2003 immediately before commencement.
+commencement means the commencement of this Schedule.
 
-##### 38  Application of amendments-general
+new Act means the Higher Education Support Act 2003 as in force on and after commencement.
+
+old Act means the Higher Education Support Act 2003 as in force immediately before commencement.
+
+##### 38  Application of amendments—general
 
 The amendments made by this Schedule apply in relation to units of study whose census dates are on or after 1 January 2012.
 
-##### 39  Saving-review procedures and appointments of review officers
+##### 39  Saving—review procedures and appointments of review officers
 
-- A review procedure referred to in paragraph 19-45(1)(c) of the old Act that was in force immediately before commencement, so far as it relates to review of decisions made under section 36-22 of the old Act, has effect on and after commencement as if it also related to decisions made under section 36-20 of the new Act.
+(1) A review procedure referred to in paragraph 19-45(1)(c) of the old Act that was in force immediately before commencement, so far as it relates to review of decisions made under section 36-22 of the old Act, has effect on and after commencement as if it also related to decisions made under section 36-20 of the new Act.
 
-- An appointment referred to in subsection 19-50(1) of the old Act that was in force immediately before commencement, so far as it relates to
-
-as in force on
+(2) An appointment referred to in subsection 19-50(1) of the old Act that was in force immediately before commencement, so far as it relates to
 
 Higher Education Support Act 2003                    377
 
@@ -11666,7 +12559,7 @@ Table A
 
 review of decisions made under section 36-22 of the old Act, has effect on and after commencement as if it also related to decisions made under section 36-20 of the new Act.
 
-##### 40  Saving-determination of EFTSL values
+##### 40  Saving—determination of EFTSL values
 
 A determination of an EFTSL value for a unit of study that was in force immediately before commencement under section 73-15 of the old Act has effect on and after commencement as if it were made in accordance with section 169-28 of the new Act.
 
@@ -11678,15 +12571,17 @@ To avoid doubt, a person may be enrolled as a Commonwealth supported student on 
 
 ##### 8  Definitions
 
-In this Part: commencement means the commencement of this Schedule. new Act means the Higher Education Support Act 2003
+In this Part:
 
-as in force on and after commencement.
+commencement means the commencement of this Schedule.
 
-##### 9  Application of amendments-general
+new Act means the Higher Education Support Act 2003 as in force on and after commencement.
+
+##### 9  Application of amendments—general
 
 The amendments made by this Schedule apply in relation to the year commencing on 1 January 2012 or a later year.
 
-##### 10  Transitional-mission based compacts
+##### 10  Transitional—mission based compacts
 
 (1)  This item applies if: (a)  the Minister entered into a mission based compact with a Table A provider or a Table B provider before commencement; and (b)  the compact satisfies the requirements of subsection 19-110(3) of the new Act; and (c)  the compact is still in force immediately before commencement.
 
@@ -11702,19 +12597,19 @@ Notes to the Higher Education Support Act 2003
 
 Table A
 
-- The compact is taken to have been entered into under section 19-110 of the new Act.
+(2) The compact is taken to have been entered into under section 19-110 of the new Act.
 
-- If it has not previously been published on the Department's website, the Secretary must cause a copy of the compact to be published on the Department's website within 28 days after commencement.
+(3) If it has not previously been published on the Department's website, the Secretary must cause a copy of the compact to be published on the Department's website within 28 days after commencement.
 
 ### Higher Education Legislation Amendment (Student Services and Amenities) Act 2011 (No. 130, 2011)
 
 #### Schedule 1
 
-##### 32  Transitional-guidelines issued under subsection 187-1(4) of the Higher Education Support Act 2003
+##### 32  Transitional—guidelines issued under subsection 187-1(4) of the Higher Education Support Act 2003
 
-- Guidelines in force under subsection 187-1(4) of the Higher Education Support Act 2003 immediately before the commencement of the amendment of that subsection by this Schedule have effect after that commencement as if they had been issued under that subsection as amended by this Schedule.
+(1) Guidelines in force under subsection 187-1(4) of the Higher Education Support Act 2003 immediately before the commencement of the amendment of that subsection by this Schedule have effect after that commencement as if they had been issued under that subsection as amended by this Schedule.
 
-- Subitem (1) does not prevent the repeal or amendment of the guidelines.
+(2) Subitem (1) does not prevent the repeal or amendment of the guidelines.
 
 ### Higher Education Support Amendment Act (No. 2) 2011 (No. 178, 2011)
 
@@ -11722,9 +12617,9 @@ Table A
 
 ##### 1  Continued and modified application of section 30-5
 
-- Despite the repeal of section 30-5 of the Higher Education Support Act 2003 , that section continues to apply in respect of 2011 as if the reference to $5,011,996,000 were a reference to $5,061,668,000.
+(1) Despite the repeal of section 30-5 of the Higher Education Support Act 2003, that section continues to apply in respect of 2011 as if the reference to $5,011,996,000 were a reference to $5,061,668,000.
 
-- To avoid doubt, the Higher Education Support Act 2003 as it otherwise has effect continues to apply for the purposes of subitem (1).
+(2) To avoid doubt, the Higher Education Support Act 2003 as it otherwise has effect continues to apply for the purposes of subitem (1).
 
 Higher Education Support Act 2003                    379
 
@@ -11760,7 +12655,7 @@ Subject to item 9, the amendments made by this Schedule apply in relation to uni
 
 ###### Advice as to whether person is Commonwealth supported student
 
-(1) The amendment made by item 1 of this Schedule does not apply in relation to a unit of study (the proposed unit of study ) that is, or is to be, undertaken by a person if: (a)  the proposed unit of study contributes to the requirements of a course of study (the current course of study ); and (b)  the person started the current course of study before the commencement of this Schedule; and (c)  before that commencement, the person was a Commonwealth supported student in relation to another unit of study that contributed to the requirements of the current course of study; and (d)  the person would not have been a Commonwealth supported student in relation to that other unit of study if the amendment made by item 1 of this Schedule had applied in relation to that other unit of study and the person; and (e)  the census date for the proposed unit of study is on or after the commencement of this Schedule.
+(1) The amendment made by item 1 of this Schedule does not apply in relation to a unit of study (the proposed unit of study) that is, or is to be, undertaken by a person if: (a) the proposed unit of study contributes to the requirements of a course of study (the current course of study); and (b) the person started the current course of study before the commencement of this Schedule; and (c) before that commencement, the person was a Commonwealth supported student in relation to another unit of study that contributed to the requirements of the current course of study; and (d) the person would not have been a Commonwealth supported student in relation to that other unit of study if the
 
 380            Higher Education Support Act 2003
 
@@ -11773,6 +12668,9 @@ ComLaw Authoritative Act C2013C00029
 Notes to the Higher Education Support Act 2003
 
 Table A
+
+amendment made by item 1 of this Schedule had applied in relation to that other unit of study and the person; and
+(e) the census date for the proposed unit of study is on or after the commencement of this Schedule.
 
 ###### HECS-HELP assistance
 
@@ -11845,11 +12743,11 @@ The amounts set out in the table in section 198-5 of the Higher Education Suppor
 
 Despite section 198-10 of the Higher Education Support Act 2003 , the amount set out in item 1A of the table in section 198-5 of that Act, as inserted by item 6 of this Part, is not to be indexed on 1 January 2012 in accordance with Part 5-6 of that Act.
 
-##### 16  Application-item 11
+##### 16  Application—item 11
 
 The amendment made by item 11 applies in relation to payments made under section 151-1 of the Higher Education Support Act 2003 on or after the day that item commences.
 
-##### 17  Application-items 12 to 15
+##### 17  Application—items 12 to 15
 
 The amendments made by items 12 to 15 apply for the purposes of working out the FEE-HELP limit in relation to the following persons: (a)  a person who is enrolled in a course of study in dentistry or a course of study in veterinary science on the day this item commences;
 
@@ -11861,7 +12759,7 @@ ComLaw Authoritative Act C2013C00029
 
 [[START OF PAGE 406]]
 
-Notes to the
+Notes to the Higher Education Support Act 2003
 
 Table A
 
@@ -11878,8 +12776,6 @@ The amendments made by this Schedule apply in relation to a unit of study with a
 ##### 9  Application
 
 (1) The amendments made by items 1 to 3 of this Schedule apply in relation to a unit of study that forms part of a course of study commenced by a person on or after 1 January 2013. (2) The amendments made by items 4 and 5 of this Schedule apply in relation to a unit of study that forms part of a course of study or bridging course for overseas-trained professionals commenced by a person on or after 1 January 2013. (3) The amendment made by item 6 of this Schedule applies in relation to a unit of study with a census date on or after 1 January 2013. (4) The amendments made by items 7 and 8 of this Schedule apply in relation to a student services and amenities fee if: (a)  the fee is payable on or after 1 January 2013 by a person who is enrolled in a course of study or bridging course for overseas-trained professionals; and (b)  the person commences the course on or after 1 January 2013.
-
-Higher Education Support Act 2003
 
 384            Higher Education Support Act 2003
 
@@ -11987,7 +12883,7 @@ The amendment made by item 25 applies in relation to decisions to revoke or susp
 
 ##### 50  Application of amendments made by Part 1
 
-The amendments made by Part 1 apply: (a)  for the purposes of making a decision on an application for approval as a VET provider under clause 6 of Schedule 1A to the Higher Education Support Act 2003 -in relation to applications for approval made on or after the commencement of this item; and (b)  in any other case-in relation to a VET provider approved before, on or after the commencement of this item.
+The amendments made by Part 1 apply: (a) for the purposes of making a decision on an application for approval as a VET provider under clause 6 of Schedule 1A to the Higher Education Support Act 2003—in relation to applications for approval made on or after the commencement of this item; and (b) in any other case—in relation to a VET provider approved before, on or after the commencement of this item.
 
 Higher Education Support Act 2003                    387
 
