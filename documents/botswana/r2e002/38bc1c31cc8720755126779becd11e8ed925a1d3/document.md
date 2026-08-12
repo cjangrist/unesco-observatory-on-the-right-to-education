@@ -1,11 +1,5 @@
 [[START OF PAGE 1]]
 
-SECTION
-
-- Short title
-
-- Interpretation
-
 ## CHAPTER 58:01 EDUCATION
 
 ### ARRANGEMENT OF SECTIONS
@@ -13,73 +7,79 @@ SECTION
 
 ##### Preliminary
 
+SECTION
+
+- 1. Short title
+
+- 2. Interpretation
+
 #### PART II
 
 ##### Administration
 
-- Duties of Minister
+- 3. Duties of Minister
 
-- Duties of Permanent Secretary
+- 4. Duties of Permanent Secretary
 
-- Constitution of local education authorities
+- 5. Constitution of local education authorities
 
-- Duties of local education authorities
+- 6. Duties of local education authorities
 
-- Establishment of boards of governors for Government schools
+- 7. Establishment of boards of governors for Government schools
 
-- Contents of order
+- 8. Contents of order
 
-- Establishment of boards of governors for aided schools
+- 9. Establishment of boards of governors for aided schools
 
-- Establishment of committees
+- 10. Establishment of committees
 
-- Contents of order
+- 11. Contents of order
 
-- Functions of school committees
+- 12. Functions of school committees
 
 #### PART III
 
 ##### Registration and Control of Schools
 
-- Register of schools
+- 13. Register of schools
 
-- Registration compulsory
+- 14. Registration compulsory
 
-- Misleading advertisements, etc.
+- 15. Misleading advertisements, etc.
 
-- Application for registration
+- 16. Application for registration
 
-- Registration by Permanent Secretary
+- 17. Registration by Permanent Secretary
 
-- Change in establishment to be registered
+- 18. Change in establishment to be registered
 
-- Regulations regarding school premises
+- 19. Regulations regarding school premises
 
-- Duties of manager
+- 20. Duties of manager
 
-- Curriculum
+- 21. Curriculum
 
-- Religious instruction
+- 22. Religious instruction
 
-- Proscription of publications
+- 23. Proscription of publications
 
-- Employment of teachers
+- 24. Employment of teachers
 
-- Fees
+- 25. Fees
 
-- Inspection of schools
+- 26. Inspection of schools
 
-- Power to close schools
-
-- Appeals to Minister
-
-- Regulations
-
-Schedule
+- 27. Power to close schools
 
 #### PART IV
 
 ##### Supplementary
+
+- 28. Appeals to Minister
+
+- 29. Regulations
+
+Schedule
 
 Law 40, 1966, L.N. 84, 1966, Act 58, 1969, Act 70, 1970, Act 30, 1971, S.I. 121, 1971,
 
@@ -88,6 +88,16 @@ Copyright Government of Botswana
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+S.I. 4, 1975, Act 26, 1975, S.I. 147, 1975, Act 31, 1978, S.I. 5, 1978, S.I. 105, 1981, S.I. 4, 1993, S.I. 10, 1996, S.I. 26, 1996, S.I. 67, 1996, S.I. 53, 2003.
+
+An Act to provide for the proper development of education and for matters incidental thereto or connected therewith.
+
+[Date of Commencement: 24th February, 1967]
+
+### PART I
+
+#### Preliminary (ss 1-2)
 
 #### 1. Short title
 
@@ -109,11 +119,11 @@ In this Act, unless the context otherwise requires-
 
 "local government school" means a school maintained entirely or partially out of local government funds and managed by a local education authority;
 
-"manager" , in relation to a school, means the person or body of persons responsible for the management of the school and, for the purposes of the provisions of this Act relating to applications for the registration of schools to be established, includes any person or body of persons proposing to be so responsible;
+"manager", in relation to a school, means the person or body of persons responsible for the management of the school and, for the purposes of the provisions of this Act relating to applications for the registration of schools to be established, includes any person or body of persons proposing to be so responsible;
 
-"owner" , in relation to a school, means the owner of the undertaking comprising the school, whether or not he owns the land on which any premises of the school are situate;
+"owner", in relation to a school, means the owner of the undertaking comprising the school, whether or not he owns the land on which any premises of the school are situate;
 
-"parent" , in relation to any pupil or child, includes a guardian, whether by customary law or otherwise and every person who has the actual custody of such pupil or child;
+"parent", in relation to any pupil or child, includes a guardian, whether by customary law or otherwise and every person who has the actual custody of such pupil or child;
 
 "post-primary school" means a school whose curriculum follows upon primary education;
 
@@ -124,20 +134,6 @@ In this Act, unless the context otherwise requires-
 "primary school" means a school at which primary education is provided;
 
 "private school" means a school which is not a Government school or a local government school;
-
-S.I. 4, 1975, Act 26, 1975, S.I. 147, 1975, Act 31, 1978, S.I. 5, 1978, S.I. 105, 1981, S.I. 4, 1993, S.I. 10, 1996, S.I. 26, 1996, S.I. 67, 1996,
-
-- S.I. 53, 2003.
-
-An Act to provide for the proper development of education and for matters incidental thereto or connected therewith.
-
-[ Date of Commencement: 24th February, 1967
-
-### PART I
-
-#### Preliminary (ss 1-2)
-
-]
 
 Copyright Government of Botswana
 
@@ -169,11 +165,11 @@ Provided that any class, division or section of any such institution or assembly
 
 (1) It shall be the duty of the Minister to promote primary and post-primary education, educational research, and the progressive development of schools, consistently with the powers of direction and control vested in him by this Act.
 
-- Without prejudice to the generality of subsection (1) the Minister may by order published in the Gazette establish or disestablish such Government schools as he may deem it proper to establish or disestablish, as the case may be.
+(2) Without prejudice to the generality of subsection (1) the Minister may by order published in the Gazette establish or disestablish such Government schools as he may deem it proper to establish or disestablish, as the case may be.
 
-- In exercising his functions under this Act, the Minister shall give due consideration to any advice which may be given to him by any local education authority or board of governors or by any body established by the Minister for the purpose of giving such advice.
+(3) In exercising his functions under this Act, the Minister shall give due consideration to any advice which may be given to him by any local education authority or board of governors or by any body established by the Minister for the purpose of giving such advice.
 
-- The schools and colleges set out in the Schedule have been established as Government schools or colleges, as the case may be, with effect from the date specified in relation to each school or college.
+(4) The schools and colleges set out in the Schedule have been established as Government schools or colleges, as the case may be, with effect from the date specified in relation to each school or college.
 
 (5) Whenever a school or college is established as a Government school under subsection (2), the Minister may by statutory instrument make an order amending the Schedule by adding thereto such school or college.
 
@@ -274,7 +270,7 @@ Copyright Government of Botswana
 ( f ) organize such activities as it may consider desirable, with the object of collecting funds to be used for the purposes of the school.
 
 ### PART III
-#### Registration and Control of Schools
+#### Registration and Control of Schools (ss 13-27)
 
 #### 13. Register of schools
 
@@ -282,21 +278,19 @@ Copyright Government of Botswana
 
 (2) For the purposes of such register a system of classification shall be adopted which shall distinguish primary schools from other schools, and which shall further distinguish, with appropriate nomenclature-
 
-( a ) different types of schools according to the nature of education to be provided therein; and
+(a) different types of schools according to the nature of education to be provided therein; and
 
-( b ) different classes, standards or forms within schools according to the stage, nature or method of education to be provided therein.
+(b) different classes, standards or forms within schools according to the stage, nature or method of education to be provided therein.
 
-- The register shall contain the number and category of classes, standards and forms and the type of education which each school may provide, and the highest form or type of education which is to be provided therein.
+(3) The register shall contain the number and category of classes, standards and forms and the type of education which each school may provide, and the highest form or type of education which is to be provided therein.
 
 (4) The register shall contain in relation to every school-
 
-( a ) the name of the owner thereof; and
+(a) the name of the owner thereof; and
 
-( b ) the name of the manager thereof, whether or not he is the owner.
+(b) the name of the manager thereof, whether or not he is the owner.
 
 (5) The system of classification and nomenclature may be amended from time to time by the Permanent Secretary.
-
-(ss 13-27)
 
 Copyright Government of Botswana
 
@@ -390,19 +384,19 @@ Provided that if the Permanent Secretary is satisfied with respect to any school
 
 #### 20. Duties of manager
 
-- The manager of every school shall-
+(1) The manager of every school shall-
 
-( a ) keep a record in the prescribed form of teachers employed thereat, showing their qualifications;
+(a) keep a record in the prescribed form of teachers employed thereat, showing their qualifications;
 
-( b ) ensure that the school is properly conducted and follows-
+(b) ensure that the school is properly conducted and follows-
 
 (i) any applicable curriculum specified under section 21; or
 
 (ii) where no such curriculum exists, a curriculum approved by the Permanent Secretary;
 
-( c ) ensure that the principal keeps a register of enrolment of pupils, and a register of their daily attendance, in such form as may be prescribed;
+(c) ensure that the principal keeps a register of enrolment of pupils, and a register of their daily attendance, in such form as may be prescribed;
 
-( d ) furnish to the Permanent Secretary and any public authority designated by him such statistical information and other returns as he or they may require; and
+(d) furnish to the Permanent Secretary and any public authority designated by him such statistical information and other returns as he or they may require; and
 
 Copyright Government of Botswana
 
@@ -424,13 +418,13 @@ The Permanent Secretary may from time to time, with the approval of the Minister
 
 #### 22. Religious instruction
 
-- Religious instruction may be given in any school.
+(1) Religious instruction may be given in any school.
 
-- If the parent of any pupil in attendance at any school requests the principal of that school in writing that the pupil be wholly or partly excused from attendance at religious worship and religious instruction in the school, then, until the request is withdrawn, the pupil shall be excused from such attendance accordingly.
+(2) If the parent of any pupil in attendance at any school requests the principal of that school in writing that the pupil be wholly or partly excused from attendance at religious worship and religious instruction in the school, then, until the request is withdrawn, the pupil shall be excused from such attendance accordingly.
 
-- A minister of religion shall have the right of access at such reasonable times as may be agreed to any school for the purpose of giving religious instruction to pupils whose parents profess to be members of his denomination, and have not made a request under subsection (2).
+(3) A minister of religion shall have the right of access at such reasonable times as may be agreed to any school for the purpose of giving religious instruction to pupils whose parents profess to be members of his denomination, and have not made a request under subsection (2).
 
-- If the parent of a pupil attending a school desires the pupil to attend religious worship or receive religious instruction of a kind not provided in the school, the manager of the school shall make such arrangements, at the expense of the parent, as may be practicable for the pupil to attend religious worship or receive religious instruction of the kind desired by the parent.
+(4) If the parent of a pupil attending a school desires the pupil to attend religious worship or receive religious instruction of a kind not provided in the school, the manager of the school shall make such arrangements, at the expense of the parent, as may be practicable for the pupil to attend religious worship or receive religious instruction of the kind desired by the parent.
 
 #### 23. Proscription of publications
 
@@ -450,11 +444,11 @@ The Minister may by order published in the Gazette declare any publication or pe
 
 (1) The Minister may prescribe the fees which shall be charged in any Government school, local government school or aided school.
 
-- In exercising his powers under this section the Minister may prescribe fees for-
+(2) In exercising his powers under this section the Minister may prescribe fees for-
 
-( a ) the instruction, including instruction in special subjects, of pupils;
+(a) the instruction, including instruction in special subjects, of pupils;
 
-( b ) special courses of instruction provided for pupils;
+(b) special courses of instruction provided for pupils;
 
 Copyright Government of Botswana
 
@@ -462,54 +456,56 @@ Copyright Government of Botswana
 
 [[START OF PAGE 9]]
 
-( c ) the accommodation, including boarding, provided for pupils;
+(c) the accommodation, including boarding, provided for pupils;
 
-( d ) books and materials supplied to pupils.
+(d) books and materials supplied to pupils.
 
 (3) In prescribing such fees, the Minister may-
 
-( a ) fix different fees for different categories of persons, pupils or schools;
+(a) fix different fees for different categories of persons, pupils or schools;
 
-( b ) prescribe the circumstances in which fees may be refunded or remitted in whole or in part;
+(b) prescribe the circumstances in which fees may be refunded or remitted in whole or in part;
 
-( c ) prescribe the time or date when any fees shall be payable, and the person to whom they shall be paid
+(c) prescribe the time or date when any fees shall be payable, and the person to whom they shall be paid
 
 #### 26. Inspection of schools
 
-- The Permanent Secretary, or any local education authority with the approval of the Permanent Secretary, may by notice published in the Gazette appoint any person to be an inspector of schools.
+(1) The Permanent Secretary, or any local education authority with the approval of the Permanent Secretary, may by notice published in the Gazette appoint any person to be an inspector of schools.
 
-- An inspector may at any time, with or without notice, enter and inspect any school or any place at which it is reasonably suspected that a school is being conducted, and may inspect and take copies and extracts from any records kept or maintained in relation to any such school or suspected school:
+(2) An inspector may at any time, with or without notice, enter and inspect any school or any place at which it is reasonably suspected that a school is being conducted, and may inspect and take copies and extracts from any records kept or maintained in relation to any such school or suspected school:
 
 Provided that an inspector appointed by a local education authority shall only be entitled to so enter and inspect a local government school within the area of such authority.
 
-- The manager, principal and staff of a school shall during any such inspection furnish any information which the inspector may require with regard to the care and tuition of the pupils, the names, qualifications and conditions of service of the staff, the curriculum followed, the state of the records, the condition of the buildings, and generally with regard to the management of the school.
+(3) The manager, principal and staff of a school shall during any such inspection furnish any information which the inspector may require with regard to the care and tuition of the pupils, the names, qualifications and conditions of service of the staff, the curriculum followed, the state of the records, the condition of the buildings, and generally with regard to the management of the school.
 
-- Any person who in any way hinders or obstructs an inspector from entering and making an inspection at any school or place in pursuance of this section shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 12 months, or to both.
+(4) Any person who in any way hinders or obstructs an inspector from entering and making an inspection at any school or place in pursuance of this section shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 12 months, or to both.
 
-- In this section "inspector" means an inspector of schools appointed under subsection (1).
+(5) In this section "inspector" means an inspector of schools appointed under subsection (1).
 
 #### 27. Power to close schools
 
-- If, as a result of an inspection under section 26, or otherwise, the Minister is satisfied that it is not in the public interest that a school or any part of a school should remain open, he may, by notice published in the Gazette , order that the school or the part of a school, as the case may be, be closed and the manager of the school shall forthwith give effect to that order.
+(1) If, as a result of an inspection under section 26, or otherwise, the Minister is satisfied that it is not in the public interest that a school or any part of a school should remain open, he may, by notice published in the Gazette, order that the school or the part of a school, as the case may be, be closed and the manager of the school shall forthwith give effect to that order.
 
-- The Minister may direct that any school ordered to be closed under this section which has remained closed for a period of less than six months or any part of a school ordered to be closed under this section may be reopened.
+(2) The Minister may direct that any school ordered to be closed under this section which has remained closed for a period of less than six months or any part of a school ordered to be closed under this section may be reopened.
 
-- Where a school ordered to be closed under this section has remained closed for a consecutive period of six months or more, the Permanent Secretary shall remove the name of the school from the register and any reopening thereof shall require a fresh registration of the school.
+(3) Where a school ordered to be closed under this section has remained closed for a consecutive period of six months or more, the Permanent Secretary shall remove the name of the school from the register and any reopening thereof shall require a fresh registration of the school.
 
-- The manager of any school which or part of which is kept open or reopened in contravention of this section shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding six months, or to both.
+(4) The manager of any school which or part of which is kept open or reopened in contravention of this section shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding six months, or to both.
 
 ### PART IV
 #### Supplementary (ss 28-29)
 
 #### 28. Appeals to Minister
 
-(1) Any person aggrieved by a decision of the Permanent Secretary not to register a school by virtue of the provisions of section 17(1) or (2), not to register any change in the establishment of a school by virtue of the provisions of section 18(2), not to approve a curriculum in terms of section 20(1)( b )(ii) or not to give approval for the employment of a teacher contrary to the requirements of section 24(1)( a ) or ( b ), may appeal to the Minister and the Minister may confirm or vary such decision.
+(1) Any person aggrieved by a decision of the Permanent Secretary not to register a school by virtue of the provisions of section 17(1) or (2), not to register any change in the establishment of a school by virtue of the provisions of section 18(2), not to approve a curriculum in terms of section 20(1)(b)(ii) or not to give approval for the employment of a teacher
 
 Copyright Government of Botswana
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+contrary to the requirements of section 24(1)(a) or (b), may appeal to the Minister and the Minister may confirm or vary such decision.
 
 (2) Any decision of the Minister under this section shall be final and shall not be questioned in any court.
 
@@ -557,11 +553,19 @@ Copyright Government of Botswana
 
 ( s ) any other matter required to be prescribed.
 
-### SCHEDULE ( Section 3 )
+### SCHEDULE (Section 3)
 
-Artesia C.J.S.S. 1st January, 2004 Auto Trades Training School 1st April, 1982
-
-Badale C.J.S.S. 1st January, 2004 Baitirile C.J .S.S. 1st January, 2004 Baitlotli C.J.S.S. 1st January, 2004 Bakgatle C.J.S.S. 1st January, 2004 Bakgopeng C.J.S.S. 1st January, 2004 Bakwena Kgari C.J.S.S. 1st January, 2004 Baratani C.J.S.S. 1st January, 2004 Batanani C.J.S. S. 1st January, 2004 Bathoeng II C.J.S.S. 1st January, 2004
+Artesia C.J.S.S. 1st January, 2004
+Auto Trades Training School 1st April, 1982
+Badale C.J.S.S. 1st January, 2004
+Baitirile C.J.S.S. 1st January, 2004
+Baitlotli C.J.S.S. 1st January, 2004
+Bakgatle C.J.S.S. 1st January, 2004
+Bakgopeng C.J.S.S. 1st January, 2004
+Bakwena Kgari C.J.S.S. 1st January, 2004
+Baratani C.J.S.S. 1st January, 2004
+Batanani C.J.S.S. 1st January, 2004
+Bathoeng II C.J.S.S. 1st January, 2004
 
 Copyright Government of Botswana
 
@@ -569,121 +573,52 @@ Copyright Government of Botswana
 
 [[START OF PAGE 11]]
 
-Bobirwa C.J.S.S. Bobonong C.J .S.S. Boikhutso C.J.S.S. Boipelego C.J.S.S. Boiteko C.J.S.S. Boitshoko C.J.S.S. Bokamoso C.J.S.S. Bonnington C.J.S.S. Bonwatlou C.J.S.S. Borwa C.J.S.S. Boswelakgosi C.J.S.S. Botswana Polytechnic
-
-Chamabona C.J.S.S.
-
-Chichi Hill C.J.S.S.
-
-Chobe C.J.S.S .
-
-Denjambuya C.J.S.S.
-
-Dikgatho C.J.S.S.
-
-Diratsame C.J.S.S.
-
-Dithejwane C.J.S.S.
-
-Ditsweletse C.J.S.S.
-
-Donga C.J.S.S.
-
-Dukwi C.J.S.S.
-
-Emang C.J.S.S.
-
-Etsha C.J.S.S.
-
-Francistown Secondary School
-
-Francistown Teacher Training College
-
-Gabane C.J.S.S. Gaborone Secondary School Gaborone Vocational Training Centre Gaborone West C.J.S.S. Ghanzi Education Centre Ghanzi Senior Secondary School Gobojango C.J.S.S. Goldmine C.J.S.S. Gosemama C.J.S.S. Goshwe C.J.S.S.
-
-Ikageng C.J.S.S.
-
-Ipelegeng C.J.S.S.
-
-Iphutheng C.J.S.S.
-
-Itekeng C.J.S.S.
-
-Itereleng C.J.S.S.
-
-Ithuteng C.J.S.S.
-
-John Mswazi C.J.S.S.
-
-Jwaneng Vocational Training Centre
-
-1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st January, 2004 1st April, 1979
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 1978
-
-15th July, 1968
-
-1st January, 2004
-
-30th August, 1965
-
-1st April, 1989
-
-1st January, 2004
-
-21st May, 1990
-
-1st January, 1994
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st January, 2004
-
-1st April, 1988
-
-Kagiso Secondary School 1st January, 1978 Kalamare C.J.S.S. 1st January, 2004
+Bobirwa C.J.S.S. 1st January, 2004
+Bobonong C.J.S.S. 1st January, 2004
+Boikhutso C.J.S.S. 1st January, 2004
+Boipelego C.J.S.S. 1st January, 2004
+Boiteko C.J.S.S. 1st January, 2004
+Boitshoko C.J.S.S. 1st January, 2004
+Bokamoso C.J.S.S. 1st January, 2004
+Bonnington C.J.S.S. 1st January, 2004
+Bonwatlou C.J.S.S. 1st January, 2004
+Borwa C.J.S.S. 1st January, 2004
+Boswelakgosi C.J.S.S. 1st January, 2004
+Botswana Polytechnic 1st April, 1979
+Chamabona C.J.S.S. 1st January, 2004
+Chichi Hill C.J.S.S. 1st January, 2004
+Chobe C.J.S.S. 1st January, 2004
+Denjambuya C.J.S.S. 1st January, 2004
+Dikgatho C.J.S.S. 1st January, 2004
+Diratsame C.J.S.S. 1st January, 2004
+Dithejwane C.J.S.S. 1st January, 2004
+Ditsweletse C.J.S.S. 1st January, 2004
+Donga C.J.S.S. 1st January, 2004
+Dukwi C.J.S.S. 1st January, 2004
+Emang C.J.S.S. 1st January, 2004
+Etsha C.J.S.S. 1st January, 2004
+Francistown Secondary School 1st January, 1978
+Francistown Teacher Training College 15th July, 1968
+Gabane C.J.S.S. 1st January, 2004
+Gaborone Secondary School 30th August, 1965
+Gaborone Vocational Training Centre 1st April, 1989
+Gaborone West C.J.S.S. 1st January, 2004
+Ghanzi Education Centre 21st May, 1990
+Ghanzi Senior Secondary School 1st January, 1994
+Gobojango C.J.S.S. 1st January, 2004
+Goldmine C.J.S.S. 1st January, 2004
+Gosemama C.J.S.S. 1st January, 2004
+Goshwe C.J.S.S. 1st January, 2004
+Ikageng C.J.S.S. 1st January, 2004
+Ipelegeng C.J.S.S. 1st January, 2004
+Iphutheng C.J.S.S. 1st January, 2004
+Itekeng C.J.S.S. 1st January, 2004
+Itereleng C.J.S.S. 1st January, 2004
+Ithuteng C.J.S.S. 1st January, 2004
+John Mswazi C.J.S.S. 1st January, 2004
+Jwaneng Vocational Training Centre 1st April, 1988
+Kagiso Secondary School 1st January, 1978
+Kalamare C.J.S.S. 1st January, 2004
 
 Copyright Government of Botswana
 
@@ -691,7 +626,59 @@ Copyright Government of Botswana
 
 [[START OF PAGE 12]]
 
-Kasane Education Centre 12th October, 1992 Kelemogile C.J.S.S. 1st January, 2004 Kgale Hill C.J.S.S. 1st January, 2004 Kgalemang C.J.S.S. 1st January, 2004 Kgamanyane C.J.S.S. 1st January, 2004 Kgari Sechele Secondary School 1st April, 1967 Kgatadimo C.J.S.S. 1st January, 2004 Kgolagano C.J.S.S. 1st January, 2004 Kgosimpe C.J.S.S. 1st January, 2004 Kopong C.J.S.S. 1st January, 2004 Kumakwane C.J.S.S. 1st January, 2004 Kutlwano C.J.S.S. 1st January, 2004 Kwena Sereto C.J.S.S. 1st January, 2004 Lebogang C.J.S. S. 1st January, 2004 Ledumadumane C.J.S.S . 1st January, 2004 Ledumang Senior Secondary School 1st January, 1994 Lehutshelo C.J.S.S. 1st January, 2004 Lehututu C.J.S.S. 1st January, 2004 Lempu C.J.S.S. 1st January, 2004 Lerala C.J.S.S. 1st January, 2004 Letlhabile C.J.S.S. 1st January, 2004 Letlhakane Secondary School 1st January, 1979 LetloleMosielele C.J.S.S. 1st January, 2004 Letsopa C.J.S.S. 1st January, 2004 Linchwe C.J.S.S. 1st January, 2004 Liswaani C.J.S.S. 1st January, 2004 Lobatse Education Centre 1st January, 1977 Lobatse Secondary School 1st January, 1971 Lobatse Teacher Training College January, 1940 Lotlamoreng C.J.S.S. 1st January, 2004 Lotsane Senior Secondary School 11th February, 1980 Mabogo C.J.S.S. 1st January, 2004 Madawu C.J.S.S. 1st January, 2004 Madiba Secondary School 1st January, 1978 Madikwe C.J.S.S. 1st January, 2004 Maenjani C.J.S.S. 1st January, 2004 Mahalapye C.J.S.S. 1st January, 2004 Mahalapye Education Centre 17th May, 1995 Mahupu C.J.S.S. 1st January, 2004 Mahutagane C.J.S.S. 1st January, 2004 Maikano C.J.S.S. 1st January, 2004 Maiteko C.J.S.S. 1st January, 2004 Makalamabedi C.J.S.S. 1st January, 2004 Makhubu C.J.S.S. 1st January, 2004 Makome C.J.S.S. 1st January, 2004 Mannathoko C.J.S.S. 1st January, 2004 Maoka C.J.S.S. 1st January, 2004 Maraka C.J.S.S. 1st January, 2004 Marakanelo C.J.S.S. 1st January, 2004 Marang C.J.S.S. 1st January, 2004 Mariba C.J.S.S. 1st January, 2004 Maruje C.J.S.S. 1st January, 2004 Marulamantsi C.J.S.S. 1st January, 2004
+Kasane Education Centre 12th October, 1992
+Kelemogile C.J.S.S. 1st January, 2004
+Kgale Hill C.J.S.S. 1st January, 2004
+Kgalemang C.J.S.S. 1st January, 2004
+Kgamanyane C.J.S.S. 1st January, 2004
+Kgari Sechele Secondary School 1st April, 1967
+Kgatadimo C.J.S.S. 1st January, 2004
+Kgolagano C.J.S.S. 1st January, 2004
+Kgosimpe C.J.S.S. 1st January, 2004
+Kopong C.J.S.S. 1st January, 2004
+Kumakwane C.J.S.S. 1st January, 2004
+Kutlwano C.J.S.S. 1st January, 2004
+Kwena Sereto C.J.S.S. 1st January, 2004
+Lebogang C.J.S.S. 1st January, 2004
+Ledumadumane C.J.S.S. 1st January, 2004
+Ledumang Senior Secondary School 1st January, 1994
+Lehutshelo C.J.S.S. 1st January, 2004
+Lehututu C.J.S.S. 1st January, 2004
+Lempu C.J.S.S. 1st January, 2004
+Lerala C.J.S.S. 1st January, 2004
+Letlhabile C.J.S.S. 1st January, 2004
+Letlhakane Secondary School 1st January, 1979
+Letlole Mosielele C.J.S.S. 1st January, 2004
+Letsopa C.J.S.S. 1st January, 2004
+Linchwe C.J.S.S. 1st January, 2004
+Liswaani C.J.S.S. 1st January, 2004
+Lobatse Education Centre 1st January, 1977
+Lobatse Secondary School 1st January, 1971
+Lobatse Teacher Training College January, 1940
+Lotlamoreng C.J.S.S. 1st January, 2004
+Lotsane Senior Secondary School 11th February, 1980
+Mabogo C.J.S.S. 1st January, 2004
+Madawu C.J.S.S. 1st January, 2004
+Madiba Secondary School 1st January, 1978
+Madikwe C.J.S.S. 1st January, 2004
+Maenjani C.J.S.S. 1st January, 2004
+Mahalapye C.J.S.S. 1st January, 2004
+Mahalapye Education Centre 17th May, 1995
+Mahupu C.J.S.S. 1st January, 2004
+Mahutagane C.J.S.S. 1st January, 2004
+Maikano C.J.S.S. 1st January, 2004
+Maiteko C.J.S.S. 1st January, 2004
+Makalamabedi C.J.S.S. 1st January, 2004
+Makhubu C.J.S.S. 1st January, 2004
+Makome C.J.S.S. 1st January, 2004
+Mannathoko C.J.S.S. 1st January, 2004
+Maoka C.J.S.S. 1st January, 2004
+Maraka C.J.S.S. 1st January, 2004
+Marakanelo C.J.S.S. 1st January, 2004
+Marang C.J.S.S. 1st January, 2004
+Mariba C.J.S.S. 1st January, 2004
+Maruje C.J.S.S. 1st January, 2004
+Marulamantsi C.J.S.S. 1st January, 2004
 
 Copyright Government of Botswana
 
@@ -699,7 +686,62 @@ Copyright Government of Botswana
 
 [[START OF PAGE 13]]
 
-Masilo C.J.S.S. 1st January, 2004 Masunga Senior Secondary School 1st January, 1994 Mater Spei College (Government Aided) 1st January, 1963 Mathasedi I C.J.S.S. 1st January, 2004 Mathiba C.J.S.S. 1st January, 2004 Matlala C.J.S.S. 1st January, 2004 Matsha College 23rd July, 1983 Matsha Community College 1st January, 1982 Matshekge Hill School 1st January, 1979 Matshekge Hill Secondary School 28th January, 1979 Matsheng C.J.S.S. 1st January, 2004 Matsiloje C.J.S.S. 1st January, 2004 Maun Education Centre 22nd September, 1988 Maun Senior Secondary School (Government Aided) 1st January, 1970 Maun Vocational Training Centre 1st April, 1988 Maunatlala C.J.S.S. 1st January, 2004 Meepong C.J.S.S. 1st January, 2004 Merementsi C.J.S.S. 1st January, 2004 Metsimasweu C.J.S.S. 1st January, 2004 Mmachibaba C.J.S.S. 1st January, 2004 Mmanaana C.J.S.S. 1st January, 2004 Mmaphula C.J.S.S. 1st January, 2004 Mmashoro C.J.S.S. 1st January, 2004 Mmathethe C.J.S.S. 1st January, 2004 Mmei C.J.S.S. 1st January, 2004 Mochudi Education Centre 3rd January, 1990 Moeding College (Government Aided) 1st January, 1962 Moeng College 1st January, 1949 Moeti C.J.S.S. 1st January, 2004 Mogale C.J.S.S. 1st January, 2004 Mogobane C.J.S.S. 1st January, 2004 Mogoditshane C.J.S.S. 1st January, 2004 Mogorosi C.J.S.S. 1st January, 2004 Mojamorago C.J.S.S. 1st January, 2004 Mokgalo C.J.S.S. 1st January, 2004 Mokobeng C.J.S.S. 1st January, 2004 Molalatau C.J.S.S. 1st January, 2004 Molefi Secondary School 1st April, 1967 Molepolole Education Centre 1st April, 1990 Molepolole Junior Secondary Teacher Training College 30th October, 1981 Molongwa C.J.S.S. 1st January, 2004 Molopo River C.J.S.S. 1st January, 2004 Montsamaisa C.J.S.S. 1st January, 2004 Montshiwa C.J.S.S. 1st January, 2004 Mookami C.J.S.S. 1st January, 2004 Mookane C.J.S.S. 1st January, 2004 Mopipi C.J.S.S. 1st January, 2004 Morale C.J.S.S. 1st January, 2004 Morama C.J.S.S. 1st January, 2004 Moruakgomo C.J.S.S. 1st January, 2004 Moselewapula C.J.S.S. 1st January, 2004 MosesMengwe C.J.S.S. 1st January, 2004 Mosetlha C.J.S.S. 1st January, 2004 Moshupa Secondary School 1st January, 1978 Mosikari C.J.S.S. 1st January, 2004 Mosu New C.J. S.S. 1st January, 2004
+Masilo C.J.S.S. 1st January, 2004
+Masunga Senior Secondary School 1st January, 1994
+Mater Spei College (Government Aided) 1st January, 1963
+Mathasedi I C.J.S.S. 1st January, 2004
+Mathiba C.J.S.S. 1st January, 2004
+Matlala C.J.S.S. 1st January, 2004
+Matsha College 23rd July, 1983
+Matsha Community College 1st January, 1982
+Matshekge Hill School 1st January, 1979
+Matshekge Hill Secondary School 28th January, 1979
+Matsheng C.J.S.S. 1st January, 2004
+Matsiloje C.J.S.S. 1st January, 2004
+Maun Education Centre 22nd September, 1988
+Maun Senior Secondary School (Government Aided) 1st January, 1970
+Maun Vocational Training Centre 1st April, 1988
+Maunatlala C.J.S.S. 1st January, 2004
+Meepong C.J.S.S. 1st January, 2004
+Merementsi C.J.S.S. 1st January, 2004
+Metsimasweu C.J.S.S. 1st January, 2004
+Mmachibaba C.J.S.S. 1st January, 2004
+Mmanaana C.J.S.S. 1st January, 2004
+Mmaphula C.J.S.S. 1st January, 2004
+Mmashoro C.J.S.S. 1st January, 2004
+Mmathethe C.J.S.S. 1st January, 2004
+Mmei C.J.S.S. 1st January, 2004
+Mochudi Education Centre 3rd January, 1990
+Moeding College (Government Aided) 1st January, 1962
+Moeng College 1st January, 1949
+Moeti C.J.S.S. 1st January, 2004
+Mogale C.J.S.S. 1st January, 2004
+Mogobane C.J.S.S. 1st January, 2004
+Mogoditshane C.J.S.S. 1st January, 2004
+Mogorosi C.J.S.S. 1st January, 2004
+Mojamorago C.J.S.S. 1st January, 2004
+Mokgalo C.J.S.S. 1st January, 2004
+Mokobeng C.J.S.S. 1st January, 2004
+Molalatau C.J.S.S. 1st January, 2004
+Molefi Secondary School 1st April, 1967
+Molepolole Education Centre 1st April, 1990
+Molepolole Junior Secondary Teacher Training College 30th October, 1981
+Molongwa C.J.S.S. 1st January, 2004
+Molopo River C.J.S.S. 1st January, 2004
+Montsamaisa C.J.S.S. 1st January, 2004
+Montshiwa C.J.S.S. 1st January, 2004
+Mookami C.J.S.S. 1st January, 2004
+Mookane C.J.S.S. 1st January, 2004
+Mopipi C.J.S.S. 1st January, 2004
+Morale C.J.S.S. 1st January, 2004
+Morama C.J.S.S. 1st January, 2004
+Moruakgomo C.J.S.S. 1st January, 2004
+Moselewapula C.J.S.S. 1st January, 2004
+Moses Mengwe C.J.S.S. 1st January, 2004
+Mosetlha C.J.S.S. 1st January, 2004
+Moshupa Secondary School 1st January, 1978
+Mosikari C.J.S.S. 1st January, 2004
+Mosu New C.J.S.S. 1st January, 2004
 
 Copyright Government of Botswana
 
@@ -707,17 +749,56 @@ Copyright Government of Botswana
 
 [[START OF PAGE 14]]
 
-Motaung C.J.S.S. 1st January, 2004 Mothamo C.J.S.S. 1st January, 2004 Motopi C.J.S.S. 1st January, 2004 Motsumi C.J.S.S. 1st January, 2004 Motswakhumo C.J.S.S. 1st January, 2004 Motswasele C.J.S.S. 1st January, 2004 Motswedi C.J.S.S. 1st January, 2004 Mowana C.J.S.S. 1st January, 2004 Mphuthe C.J.S.S. 1st January, 2004
-
-Naledi Secondary School 1st January, 1978 Nanogang C.J.S.S. 1st January, 2004 Nare Sereto C.J.S.S. 1st January, 2004 Ngambao C. J.S.S. 1st January, 2004 Ngami C.J.S.S. 1st January, 2004 Ngwaketse C.J.S.S. 1st January, 2004 Nkange C.J.S.S. 1st January, 2004 Ntebogang C.J.S.S. 1st January, 2004 Nthwalang C.J.S.S. 1st January, 2004 Nxakato C.J.S.S. 1st January, 2004
-
-Okavango C.J.S.S. 1st January, 2004 Oodima C.J.S .S. 1st January, 2004 Orapa C.J.S.S. 1st January, 2004
-
-Palapye C.J.S.S. 1st January, 2004 Palapye Vocational Training Centre 1st April, 1988 Pandagala C.J.S.S. 1st January, 2004 Parwe C.J.S.S. 1st January, 2004 Patikwane C.J.S.S. 1st January, 2004 Pekenene C.J.S.S. 1st January, 2004 Pelaelo C.J.S.S. 1st January, 2004 Phatsimo C.J.S.S. 1st January, 2004 Pitikwe C.J.S.S. 1st January, 2004 Popagano C.J.S.S. 1st January, 2004
-
-Radikolo C.J.S.S. 1st January, 2004 Radisele C.J.S .S. 1st January, 2004 Rakops C.J.S.S. 1st January, 2004 Ramoja C.J.S.S. 1st January, 2004 Ramokgonami C.J.S.S. 1st January, 2004 Ramotswa C.J.S.S. 1st January, 2004 Ranokanyane C.J.S.S. 1st January, 2004 Rethuseng C.J.S.S. 1st January, 2004 Rutwang C.J.S.S. 1st January, 2004
-
-Sedibelo C.J.S.S. 1st January, 2004 Sedie C.J.S.S. 1st January, 2004 Sedimo Hill C.J.S.S. 1st January, 2004 Sedumedi C.J.S.S. 1st January, 2004 Seepapitso Secondary School 1st April, 1967 Sefhare C.J.S.S. 1st January, 2004 Sefhophe C.J.S.S. 1st January, 2004 Sekgele C.J.S.S. 1st January, 2004 Sekgoma C.J.S.S. 1st January, 2004
+Motaung C.J.S.S. 1st January, 2004
+Mothamo C.J.S.S. 1st January, 2004
+Motopi C.J.S.S. 1st January, 2004
+Motsumi C.J.S.S. 1st January, 2004
+Motswakhumo C.J.S.S. 1st January, 2004
+Motswasele C.J.S.S. 1st January, 2004
+Motswedi C.J.S.S. 1st January, 2004
+Mowana C.J.S.S. 1st January, 2004
+Mphuthe C.J.S.S. 1st January, 2004
+Naledi Secondary School 1st January, 1978
+Nanogang C.J.S.S. 1st January, 2004
+Nare Sereto C.J.S.S. 1st January, 2004
+Ngambao C.J.S.S. 1st January, 2004
+Ngami C.J.S.S. 1st January, 2004
+Ngwaketse C.J.S.S. 1st January, 2004
+Nkange C.J.S.S. 1st January, 2004
+Ntebogang C.J.S.S. 1st January, 2004
+Nthwalang C.J.S.S. 1st January, 2004
+Nxakato C.J.S.S. 1st January, 2004
+Okavango C.J.S.S. 1st January, 2004
+Oodima C.J.S.S. 1st January, 2004
+Orapa C.J.S.S. 1st January, 2004
+Palapye C.J.S.S. 1st January, 2004
+Palapye Vocational Training Centre 1st April, 1988
+Pandagala C.J.S.S. 1st January, 2004
+Parwe C.J.S.S. 1st January, 2004
+Patikwane C.J.S.S. 1st January, 2004
+Pekenene C.J.S.S. 1st January, 2004
+Pelaelo C.J.S.S. 1st January, 2004
+Phatsimo C.J.S.S. 1st January, 2004
+Pitikwe C.J.S.S. 1st January, 2004
+Popagano C.J.S.S. 1st January, 2004
+Radikolo C.J.S.S. 1st January, 2004
+Radisele C.J.S.S. 1st January, 2004
+Rakops C.J.S.S. 1st January, 2004
+Ramoja C.J.S.S. 1st January, 2004
+Ramokgonami C.J.S.S. 1st January, 2004
+Ramotswa C.J.S.S. 1st January, 2004
+Ranokanyane C.J.S.S. 1st January, 2004
+Rethuseng C.J.S.S. 1st January, 2004
+Rutwang C.J.S.S. 1st January, 2004
+Sedibelo C.J.S.S. 1st January, 2004
+Sedie C.J.S.S. 1st January, 2004
+Sedimo Hill C.J.S.S. 1st January, 2004
+Sedumedi C.J.S.S. 1st January, 2004
+Seepapitso Secondary School 1st April, 1967
+Sefhare C.J.S.S. 1st January, 2004
+Sefhophe C.J.S.S. 1st January, 2004
+Sekgele C.J.S.S. 1st January, 2004
+Sekgoma C.J.S.S. 1st January, 2004
 
 Copyright Government of Botswana
 
@@ -725,11 +806,51 @@ Copyright Government of Botswana
 
 [[START OF PAGE 15]]
 
-Selebi-Phikwe Education Centre 14th November, 1988 Selebi-Phikwe Secondary School 1st January, 1974 Selebi-Phikwe Vocational Training Centre 1st April, 1987 Selepa C.J.S.S. 1st January, 2004 Selepa C.J.S.S. 1st January, 2004 Selolwe Hill C.J.S.S. 1st January, 2004 Semane C.J.S.S. 1st January, 2004 Serowe Education Centre 1st January, 1977 Serowe Teacher Training College January, 1940 Sesholo C.J.S.S. 1st January, 2004 Setlalekgosi C.J.S.S. 1st January, 2004 Shakawe C.J.S.S. 1st January, 2004 Shanganani C.J.S.S. 1st January, 2004 Shangano C.J.S.S. 1st January, 2004 Shoshong C.J.S.S. 1st January, 2004 Shoshong Senior Secondary School 1st January, 1994 Shashe River School 1st February, 1975 Sir Seretse Khama C.J.S.S. 1st January, 2004 St. Joseph's College (Government Aided) 1st January, 1947 Sua C.J.SS. 1st January, 2004 Swaneng Hill School 1st February, 1975 Tapologo C.J.S.S 1st January, 2004 Tashatha C.J.S.S. 1st January, 2004 Taung C.J.S.S. 1st January, 2004 Thamaga C.J.S.S. 1st January, 2004 Thamani C.J.S.S. 1st January, 2004 Thobega C.J.S.S. 1st January, 2004 Tlhalogang C.J.S.S. 1st January, 2004 Tlhomo C.J.S.S. 1st January, 2004 Tlogatloga C.J.S.S. 1st January, 2004 Tlokweng C. J.S.S. 1st January, 2004 Tlokweng College of Education 1st January, 1985 Tlokweng Education Centre 22nd July, 1992 Tlokweng Teacher Training School 1981 Tonota C.J.S.S. 1st January, 2004 Tonota College of Education 17th April, 1990 Tsabong C.J.S.S. 1st January, 2004 Tsabong Education Centre 11th November, 1990 Tsetsebjwe C.J.S.S. 1st January, 2004 Tshegetsang C.J.S.S. 1st January, 2004 Tshimologo C.J.S.S. 1st January, 2004 Tshwaragano C.J.S.S. 1st January, 2004 Tsodilo C.J.S.S. 1st January, 2004 Tutume Community College 1st December, 1971
-
-Zwenshambe C.J.S.S.
-
-1st January, 2004
+Selebi-Phikwe Education Centre 14th November, 1988
+Selebi-Phikwe Secondary School 1st January, 1974
+Selebi-Phikwe Vocational Training Centre 1st April, 1987
+Selepa C.J.S.S. 1st January, 2004
+Selepa C.J.S.S. 1st January, 2004
+Selolwe Hill C.J.S.S. 1st January, 2004
+Semane C.J.S.S. 1st January, 2004
+Serowe Education Centre 1st January, 1977
+Serowe Teacher Training College January, 1940
+Sesholo C.J.S.S. 1st January, 2004
+Setlalekgosi C.J.S.S. 1st January, 2004
+Shakawe C.J.S.S. 1st January, 2004
+Shanganani C.J.S.S. 1st January, 2004
+Shangano C.J.S.S. 1st January, 2004
+Shoshong C.J.S.S. 1st January, 2004
+Shoshong Senior Secondary School 1st January, 1994
+Shashe River School 1st February, 1975
+Sir Seretse Khama C.J.S.S. 1st January, 2004
+St. Joseph's College (Government Aided) 1st January, 1947
+Sua C.J.S.S. 1st January, 2004
+Swaneng Hill School 1st February, 1975
+Tapologo C.J.S.S. 1st January, 2004
+Tashatha C.J.S.S. 1st January, 2004
+Taung C.J.S.S. 1st January, 2004
+Thamaga C.J.S.S. 1st January, 2004
+Thamani C.J.S.S. 1st January, 2004
+Thobega C.J.S.S. 1st January, 2004
+Tlhalogang C.J.S.S. 1st January, 2004
+Tlhomo C.J.S.S. 1st January, 2004
+Tlogatloga C.J.S.S. 1st January, 2004
+Tlokweng C.J.S.S. 1st January, 2004
+Tlokweng College of Education 1st January, 1985
+Tlokweng Education Centre 22nd July, 1992
+Tlokweng Teacher Training School 1981
+Tonota C.J.S.S. 1st January, 2004
+Tonota College of Education 17th April, 1990
+Tsabong C.J.S.S. 1st January, 2004
+Tsabong Education Centre 11th November, 1990
+Tsetsebjwe C.J.S.S. 1st January, 2004
+Tshegetsang C.J.S.S. 1st January, 2004
+Tshimologo C.J.S.S. 1st January, 2004
+Tshwaragano C.J.S.S. 1st January, 2004
+Tsodilo C.J.S.S. 1st January, 2004
+Tutume Community College 1st December, 1971
+Zwenshambe C.J.S.S. 1st January, 2004
 
 ## CHAPTER 59:01 NATIONAL MUSEUM AND ART GALLERY
 
@@ -737,9 +858,9 @@ Zwenshambe C.J.S.S.
 
 SECTION
 
-- Short title
+- 1. Short title
 
-- Interpretation
+- 2. Interpretation
 
 Copyright Government of Botswana
 
@@ -747,19 +868,25 @@ Copyright Government of Botswana
 
 [[START OF PAGE 16]]
 
-- Establishment of a National Museum and Art Gallery
+- 3. Establishment of a National Museum and Art Gallery
 
-- Administration
+- 4. Administration
 
-- Establishment of a Board
+- 5. Establishment of a Board
 
-- Meetings of the Board
+- 6. Meetings of the Board
 
-- Functions of the Board
+- 7. Functions of the Board
 
-- General duty of Minister
+- 8. General duty of Minister
 
-- Regulations
+- 9. Regulations
+
+Act 28, 1967, Act 1, 1968, Act 46, 1970, Act 16, 1976, S.I. 12, 1977.
+
+An Act to make provision for the establishment of a National Museum and Art Gallery.
+
+[Date of Commencement: 29th September, 1967]
 
 ### 1. Short title
 
@@ -769,13 +896,9 @@ This Act may be cited as the National Museum and Art Gallery Act.
 
 In this Act, unless the context otherwise requires-
 
-"Board"
+"Board" means the National Museum and Art Gallery Board established under section 5;
 
-means the National Museum and Art Gallery Board established under section
-
-"museum"
-
-includes a craft village;
+"museum" includes a craft village;
 
 "National Museum and Art Gallery" means the National Museum and Art Gallery established under section 3.
 
@@ -789,17 +912,19 @@ Subject to the provisions of this Act, the administration of the National Museum
 
 ### 5. Establishment of a Board
 
-- For the purposes of this Act, there shall be established a Board to be styled the National Museum and Art Gallery Board. (2) The Board shall consist of a Chairman and not more than six other members appointed by the Minister, together with such other members as may be co-opted by the Board under subsection (3). (3) The Board may, with the approval of the Minister, co-opt as members not more than three persons with such expert knowledge or experience as may be required by the Board in the discharge of its functions. (4) The period of office of a member of the Board shall be-( a ) in the case of the Chairman or any member appointed under subsection (2), three years from the date of his appointment; and ( b ) in the case of a member co-opted under the provisions of subsection (3), the period, not being a period in excess of one year, for which he has been co-opted. (5) The Chairman and any member of the Board may resign from the Board at any time
+(1) For the purposes of this Act, there shall be established a Board to be styled the National Museum and Art Gallery Board.
 
-by letter addressed to the Minister; and the Minister may at any time revoke any appointment which he has made.
+(2) The Board shall consist of a Chairman and not more than six other members appointed by the Minister, together with such other members as may be co-opted by the Board under subsection (3).
 
-5;
+(3) The Board may, with the approval of the Minister, co-opt as members not more than three persons with such expert knowledge or experience as may be required by the Board in the discharge of its functions.
 
-Act 28, 1967, Act 1, 1968, Act 46, 1970, Act 16, 1976, S.I. 12, 1977.
+(4) The period of office of a member of the Board shall be-
 
-An Act to make provision for the establishment of a National Museum and Art Gallery.
+(a) in the case of the Chairman or any member appointed under subsection (2), three years from the date of his appointment; and
 
-[ Date of Commencement: 29th September, 1967 ]
+(b) in the case of a member co-opted under the provisions of subsection (3), the period, not being a period in excess of one year, for which he has been co-opted.
+
+(5) The Chairman and any member of the Board may resign from the Board at any time by letter addressed to the Minister; and the Minister may at any time revoke any appointment which he has made.
 
 Copyright Government of Botswana
 
@@ -811,19 +936,25 @@ Copyright Government of Botswana
 
 ### 6. Meetings of the Board
 
-- The Board shall meet at such times as may be necessary or expedient for transacting its business. (2) The Chairman may at any time summon a meeting of the Board, and, on the requisition of the Minister or any three members he shall summon a meeting and any such requisition shall state the object for which the meeting is required to be summoned. (3) The views or decisions of the Board may be taken at meetings or, in cases in which the Chairman shall so direct, by the recording of the opinions of members on papers circulated among them. (4) The Chairman may direct that papers shall not be circulated in accordance with the provisions of subsection (3) to any member who through interest, illness, absence from Botswana or otherwise is, in the opinion of the Chairman, incapacitated from voting on such papers. (5) The quorum of the Board at any meeting or for the purpose of voting on papers
+(1) The Board shall meet at such times as may be necessary or expedient for transacting its business.
 
-- circulated in accordance with the provisions of subsection (3) shall be four.
+(2) The Chairman may at any time summon a meeting of the Board, and, on the requisition of the Minister or any three members he shall summon a meeting and any such requisition shall state the object for which the meeting is required to be summoned.
 
-- The decisions of the Board shall be by the majority of votes and in any case in which the voting is equal the Chairman shall have a second or casting vote.
+(3) The views or decisions of the Board may be taken at meetings or, in cases in which the Chairman shall so direct, by the recording of the opinions of members on papers circulated among them.
+
+(4) The Chairman may direct that papers shall not be circulated in accordance with the provisions of subsection (3) to any member who through interest, illness, absence from Botswana or otherwise is, in the opinion of the Chairman, incapacitated from voting on such papers.
+
+(5) The quorum of the Board at any meeting or for the purpose of voting on papers circulated in accordance with the provisions of subsection (3) shall be four.
+
+(6) The decisions of the Board shall be by the majority of votes and in any case in which the voting is equal the Chairman shall have a second or casting vote.
 
 ### 7. Functions of the Board
 
 (1) The functions of the Board shall be-
 
-( a ) to advise the President and Minister in the exercise of their functions under this Act;
+(a) to advise the President and Minister in the exercise of their functions under this Act;
 
-( b ) to undertake such administrative functions in connection with the National Museum and Art Gallery as the Minister may from time to time require it to undertake.
+(b) to undertake such administrative functions in connection with the National Museum and Art Gallery as the Minister may from time to time require it to undertake.
 
 (2) The Board may, for the purpose of furthering the provision of an efficient museum and art gallery service in Botswana, enter into mutual arrangements with other museums or art galleries within or without Botswana.
 
@@ -835,13 +966,13 @@ It shall be the duty of the Minister acting in consultation with the Board and w
 
 (1) The Minister may make regulations either generally or in relation to any particular museum or art gallery facilities established under this Act-
 
-( a ) for the control and management of any museum or art gallery and the use of its facilities including the payment of charges and fees in respect thereof;
+(a) for the control and management of any museum or art gallery and the use of its facilities including the payment of charges and fees in respect thereof;
 
-( b ) for the establishment, functions and duties of museum or art gallery committees;
+(b) for the establishment, functions and duties of museum or art gallery committees;
 
-( c ) safeguarding the contents of any museum or art gallery;
+(c) safeguarding the contents of any museum or art gallery;
 
-( d ) generally for the better carrying out of the provisions of this Act.
+(d) generally for the better carrying out of the provisions of this Act.
 
 (2) Any regulation made under the provisions of subsection (1) may provide in the event of its contravention for the imposition of a fine not exceeding P100 or for imprisonment for a term not exceeding three months, or to both.
 
@@ -860,101 +991,101 @@ Copyright Government of Botswana
 
 SECTION
 
-- Short title
+- 1. Short title
 
-- Interpretation
+- 2. Interpretation
 
-- Appointment of officers
+- 3. Appointment of officers
 
-- Classification of motor vehicle
+- 4. Classification of motor vehicle
 
 #### PART II
 
 ##### Registration of Vehicles
 
-- Records of vehicles
+- 5. Records of vehicles
 
-- Motor vehicles and trailers to be registered
+- 6. Motor vehicles and trailers to be registered
 
-- Inspection fee
+- 7. Inspection fee
 
-- Owner of vehicle
+- 8. Owner of vehicle
 
-- Change of ownership
+- 9. Change of ownership
 
-- Registration of vehicles imported into Botswana
+- 10. Registration of vehicles imported into Botswana
 
-- Vehicles to carry identification plates
+- 11. Vehicles to carry identification plates
 
-- Production of registration books
+- 12. Production of registration books
 
-- Cancellation of registration in certain cases
+- 13. Cancellation of registration in certain cases
 
-- Offences and penalties
+- 14. Offences and penalties
 
-- Exemptions
+- 15. Exemptions
 
 #### PART III
 
 ##### Motor Vehicle Licences
 
-- Motor vehicles to be licensed
+- 16. Motor vehicles to be licensed
 
-- Application for motor vehicle licence
+- 17. Application for motor vehicle licence
 
-- Conditions for the issue of motor vehicle licences
+- 18. Conditions for the issue of motor vehicle licences
 
-- Motor vehicle licences
+- 19. Motor vehicle licences
 
-- Licence to be carried on vehicle
+- 20. Licence to be carried on vehicle
 
-- Duplicate motor vehicle licences
+- 21. Duplicate motor vehicle licences
 
-- New motor vehicle licence required in certain circumstances
+- 22. New motor vehicle licence required in certain circumstances
 
 #### PART IV
 
 ##### Motor Dealers' Licences
 
-- Motor dealer's licence
+- 23. Motor dealer's licence
 
-- Use of motor dealer's licence
+- 24. Use of motor dealer's licence
 
-- Duration of motor dealer's licence
+- 25. Duration of motor dealer's licence
 
-- Cancellation of motor dealer's licence
+- 26. Cancellation of motor dealer's licence
 
-- Motor dealer's licence not to be transferred without authority
+- 27. Motor dealer's licence not to be transferred without authority
 
 #### PART V
 
 ##### Recovery of Fees and Penalties
 
-- Recovery of licence fees by civil process
+- 28. Recovery of licence fees by civil process
 
-- Penalties
+- 29. Penalties
 
 #### PART VI
 
 ##### Driving Licences
 
-- Drivers to be licensed
+- 30. Drivers to be licensed
 
-- Conditions for granting of driving licence
+- 31. Conditions for granting of driving licence
 
-- Provisional driving licence
+- 32. Provisional driving licence
 
-- Age limits for granting of driving licences
+- 33. Age limits for granting of driving licences
 
-- Form of application
+- 34. Form of application
 
-- Driving licences to members of security forces
+- 35. Driving licences to members of security forces
 
-......
+- 36. ......
 
-- Form of driving licence
+- 37. Form of driving licence
 
-- Duplicate licences
+- 38. Duplicate licences
 
 Copyright Government of Botswana
 
@@ -962,104 +1093,104 @@ Copyright Government of Botswana
 
 [[START OF PAGE 19]]
 
-- Driving test
+- 39. Driving test
 
-- Revocation of driving licences
+- 40. Revocation of driving licences
 
-- Driving instructors' certificates
+- 41. Driving instructors' certificates
 
-- No penalty prescribed
+- 42. No penalty prescribed
 
-.....
+- 43. .....
 
 #### PART VII
 ##### Driving and other Offences Relating to the Use of Vehicles on Roads
 
-- Speed limit
+- 44. Speed limit
 
-- Penalties in relation to speed
+- 45. Penalties in relation to speed
 
-- Driving, or being in charge, when under influence of drink or drugs
+- 46. Driving, or being in charge, when under influence of drink or drugs
 
-- Power to require breath specimen
+- 47. Power to require breath specimen
 
-- Evidence on charge of unfitness to drive through drink or drugs or causing death thereby
+- 48. Evidence on charge of unfitness to drive through drink or drugs or causing death thereby
 
-- Reckless and dangerous driving generally
+- 49. Reckless and dangerous driving generally
 
-- Causing death by reckless driving, etc.
+- 50. Causing death by reckless driving, etc.
 
-- Careless and inconsiderate driving
+- 51. Careless and inconsiderate driving
 
-- Alternative offences
+- 52. Alternative offences
 
-- Mandatory disqualification
+- 53. Mandatory disqualification
 
-- Power of arrest
+- 54. Power of arrest
 
-- Right to demand name and address
+- 55. Right to demand name and address
 
-- Proper fuel to be used in motor vehicles
+- 56. Proper fuel to be used in motor vehicles
 
-- Signals and signs to be obeyed
+- 57. Signals and signs to be obeyed
 
-- Offences relating to parking bays and areas
+- 58. Offences relating to parking bays and areas
 
-- Vehicles not to obstruct roads
+- 59. Vehicles not to obstruct roads
 
-- Racing, pacemaking and trial of speed
+- 60. Racing, pacemaking and trial of speed
 
-- Condition of vehicles
+- 61. Condition of vehicles
 
-- Limitation
+- 62. Limitation
 
-- Exemptions
+- 63. Exemptions
 
-- Penalty for improper condition or overloading
+- 64. Penalty for improper condition or overloading
 
-- Obstructing driver of motor vehicle
+- 65. Obstructing driver of motor vehicle
 
-- Motor cycles
+- 66. Motor cycles
 
-- Riding in a dangerous position
+- 67. Riding in a dangerous position
 
-- Restriction on towing and mounting a vehicle
+- 68. Restriction on towing and mounting a vehicle
 
-- Causing damage to a vehicle
+- 69. Causing damage to a vehicle
 
-- Tampering with a vehicle
+- 70. Tampering with a vehicle
 
-- Taking a vehicle without authority
+- 71. Taking a vehicle without authority
 
-- Unattended motor vehicles
+- 72. Unattended motor vehicles
 
-- Offences in connection with level crossings
+- 73. Offences in connection with level crossings
 
-- Offences and penalties
+- 74. Offences and penalties
 
 #### PART VIII
 
 ##### Regulation of Traffic
 
-- Rule of the road
+- 75. Rule of the road
 
-- Highway Code
+- 76. Highway Code
 
-- Police empowered to regulate traffic
+- 77. Police empowered to regulate traffic
 
-- Traffic signs
+- 78. Traffic signs
 
-- Closure of roads
+- 79. Closure of roads
 
-- Injury to bridge and roads
+- 80. Injury to bridge and roads
 
-- Power of road authority to instal parking meters
+- 81. Power of road authority to instal parking meters
 
 #### PART IX
 
 ##### Accidents
 
-- Duty to stop and report
+- 82. Duty to stop and report
 
 Copyright Government of Botswana
 
@@ -1067,79 +1198,104 @@ Copyright Government of Botswana
 
 [[START OF PAGE 20]]
 
-- Penalties for not stopping and reporting
+- 83. Penalties for not stopping and reporting
 
-- Police empowered to inspect and remove and detain vehicles involved in an accident
+- 84. Police empowered to inspect and remove and detain vehicles involved in an accident
 
 #### PART X
 
 ##### Powers of Court, Disqualification, etc.
 
-- Powers of court
+- 85. Powers of court
 
-- Right of appeal
+- 86. Right of appeal
 
-- Effects of disqualification or suspension
+- 87. Effects of disqualification or suspension
 
-- Driving whilst disqualified
+- 88. Driving whilst disqualified
 
-- Fraudulent application for driving licence
+- 89. Fraudulent application for driving licence
 
-- Particulars of endorsement to be inserted in new licence
+- 90. Particulars of endorsement to be inserted in new licence
 
-- Applying for licence without disclosing endorsement
+- 91. Applying for licence without disclosing endorsement
 
-- Issue of new licence free from endorsement
+- 92. Issue of new licence free from endorsement
 
 #### PART XI
 
 ##### Offences by Drivers of Vehicles other than Motor Vehicles
-93. Driving under the influence of drink 94. Reckless driving 95. Careless driving 96. Restrictions on riding cycles
+
+- 93. Driving under the influence of drink
+
+- 94. Reckless driving
+
+- 95. Careless driving
+
+- 96. Restrictions on riding cycles
 
 #### PART XII
 
 ##### Miscellaneous Provisions as to Roads
 
-97. Restrictions on pedestrians 98. Pedestrian crossings 99. Restrictions on animal-drawn vehicles on roads 100. Offences in connection with roads 101. Offences in connection with gates by which cattle might gain access to certain roads 102. Encroachment on and damage to roads 103. Prohibition on use of tracked vehicles 104. Restriction with regard to use of bridge 105. Non-liability of road authority for damage 106. Requirements for certain public service vehicles
+- 97. Restrictions on pedestrians
+
+- 98. Pedestrian crossings
+
+- 99. Restrictions on animal-drawn vehicles on roads
+
+- 100. Offences in connection with roads
+
+- 101. Offences in connection with gates by which cattle might gain access to certain roads
+
+- 102. Encroachment on and damage to roads
+
+- 103. Prohibition on use of tracked vehicles
+
+- 104. Restriction with regard to use of bridge
+
+- 105. Non-liability of road authority for damage
+
+- 106. Requirements for certain public service vehicles
 
 #### PART XIII
 
 ##### Public Service Vehicles
 
-- Public service vehicles
+- 107. Public service vehicles
 
-- Application for public service vehicle licence
+- 108. Application for public service vehicle licence
 
-- Issue and conditions of public service licence
+- 109. Issue and conditions of public service licence
 
-- Drivers and conductors of public service vehicles
+- 110. Drivers and conductors of public service vehicles
 
-- Power to cancel licence and disqualify
+- 111. Power to cancel licence and disqualify
 
-- Right of appeal
+- 112. Right of appeal
 
-- Passengers and loads
+- 113. Passengers and loads
 
-- Touting
+- 114. Touting
 
-- Penalties
+- 115. Penalties
 
 #### PART XIV
 ##### General
 
-- Inspection of vehicles
+- 116. Inspection of vehicles
 
-- Removal of vehicles from road
+- 117. Removal of vehicles from road
 
-- Detention of vehicles
+- 118. Detention of vehicles
 
-- Certificates admissible in evidence
+- 119. Certificates admissible in evidence
 
-- Owner or other person to furnish name and address of driver of vehicle
+- 120. Owner or other person to furnish name and address of driver of vehicle
 
-- Owner to keep list of drivers employed
+- 121. Owner to keep list of drivers employed
 
-- Verification of facts
+- 122. Verification of facts
 
 Copyright Government of Botswana
 
@@ -1147,29 +1303,39 @@ Copyright Government of Botswana
 
 [[START OF PAGE 21]]
 
-- Giving false information
+- 123. Giving false information
 
-- Fraudulent imitation, etc. of documents
+- 124. Fraudulent imitation, etc. of documents
 
-- Endorsement of licence to be proof of conviction
+- 125. Endorsement of licence to be proof of conviction
 
-- Notice to attend court
+- 126. Notice to attend court
 
-- Axle load, weight and dimensions
+- 127. Axle load, weight and dimensions
 
-- Scheduled traffic offences
+- 128. Scheduled traffic offences
 
-- General penalty
+- 129. General penalty
 
-- Regulations
+- 130. Regulations
 
-- Road Safety Committee and National Road Safety Fund
+- 131. Road Safety Committee and National Road Safety Fund
 
-- Power to suspend, and exempt from, certain provisions
+- 132. Power to suspend, and exempt from, certain provisions
 
-- Admission of guilt
+- 133. Admission of guilt
 
 Schedule
+
+Act 43, 1972, S.I. 144, 1974, Act 28, 1975, Act 7, 1977, Act 19, 1978, S.I. 134, 1978, Act 4, 1982, Act 18, 1983, Act 15, 1989, Act 16, 1992, Act 18, 1993, S.I. 31, 1998, Act 6, 2001, Act 13, 2002.
+
+An Act to provide for the registration and licensing of motor vehicles; for the issue of driving licences; for the creation of offences relating to the use of vehicles and for the regulation of traffic; and for matters incidental thereto.
+
+[Date of Commencement: 1st January, 1975]
+
+### PART I
+
+#### Preliminary (ss 1-4)
 
 #### 1. Short title
 
@@ -1177,7 +1343,7 @@ This Act may be cited as the Road Traffic Act.
 
 #### 2. Interpretation
 
-- In this Act, unless the context otherwise requires-
+(1) In this Act, unless the context otherwise requires-
 
 "articulated vehicle" means a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle;
 
@@ -1190,16 +1356,6 @@ This Act may be cited as the Road Traffic Act.
 "call-cab" means a light motor vehicle having seating capacity for not more than four passengers, exclusive of the driver, and available for hire or operated for reward from a defined private place;
 
 "carriageway" means the part of a road normally used by vehicular traffic, including those portions commonly known as the shoulders, but excluding any portion of any such road
-
-#### Preliminary
-
-Act 43, 1972, S.I. 144, 1974, Act 28, 1975, Act 7, 1977, Act 19, 1978, S.I. 134, 1978, Act 4, 1982, Act 18, 1983, Act 15, 1989, Act 16, 1992, Act 18, 1993, S.I. 31, 1998, Act 6, 2001, Act 13, 2002.
-
-An Act to provide for the registration and licensing of motor vehicles; for the issue of driving licences; for the creation of offences relating to the use of vehicles and for the regulation of traffic; and for matters incidental thereto.
-
-[ Date of Commencement: 1st January, 1975 ]
-
-### PART I (ss 1-4)
 
 Copyright Government of Botswana
 
@@ -1379,7 +1535,7 @@ Provided that all traffic signs shall conform to any regulations as to size, col
 
 "unladen weight" means the weight of the vehicle without crew, passengers or load, but with a full supply of fuel, oil, grease, spare wheel and with the tools which the vehicle normally carries.
 
-"vehicle" means any conveyance or structure which is designed to be propelled or drawn on land, and includes a motor vehicle, a trailer and an aircraft when such aircraft is stationary or in motion upon a road, but excludes a conveyance propelled or drawn by a human being and designed and used for transporting infants or infirm persons.
+"vehicle" means any conveyance or structure which is designed to be propelled or
 
 Copyright Government of Botswana
 
@@ -1387,17 +1543,19 @@ Copyright Government of Botswana
 
 [[START OF PAGE 25]]
 
+drawn on land, and includes a motor vehicle, a trailer and an aircraft when such aircraft is stationary or in motion upon a road, but excludes a conveyance propelled or drawn by a human being and designed and used for transporting infants or infirm persons.
+
 (2) A vehicle shall for the purposes of this Act or any regulations made thereunder be deemed to be used when it is on a road, whether it is stationary or moving, and a person shall be deemed to use a vehicle if he is the owner thereof, or is the person in possession, charge or control thereof, or is the driver thereof or if he is the person who caused it to be used.
 
 #### 3. Appointment of officers
 
-- The Minister shall, by notice published in the Gazette , appoint-
+(1) The Minister shall, by notice published in the Gazette, appoint-
 
-( a ) a Director of Road Transport and Safety, who shall have such duties relating to the administration of this Act, as the Minister may, from time to time, determine, which duties the Director may, with the consent of the Minister, delegate to any public officer;
+(a) a Director of Road Transport and Safety, who shall have such duties relating to the administration of this Act, as the Minister may, from time to time, determine, which duties the Director may, with the consent of the Minister, delegate to any public officer;
 
-( b ) such motor vehicle examiners and driving test examiners as may be necessary for carrying out the purposes and provisions of this Act and any regulations made thereunder.
+(b) such motor vehicle examiners and driving test examiners as may be necessary for carrying out the purposes and provisions of this Act and any regulations made thereunder.
 
-(2) The Director shall, by notice published in the Gazette , appoint such licensing officers as may be necessary for carrying out the purposes and provisions of this Act.
+(2) The Director shall, by notice published in the Gazette, appoint such licensing officers as may be necessary for carrying out the purposes and provisions of this Act.
 
 #### 4. Classification of motor vehicle
 (1) This Act shall apply to all motor vehicles and other traffic on a road and other surfaces normally used by motor vehicles.
@@ -1450,15 +1608,15 @@ Copyright Government of Botswana
 
 (H) motor vehicles as may be specially authorised by the Director.
 
-### PART II (ss 5-15)
+### PART II
 
-#### Registration of Vehicles
+#### Registration of Vehicles (ss 5-15)
 
 #### 5. Records of vehicles
 
 (1) The Director shall keep records of all motor vehicles and trailers registered in Botswana, and shall cause every licensing officer to keep records of all vehicles registered by him.
 
-- Vehicle records maintained by the Director or a licensing officer shall be open for inspection by any police officer, and any other person duly authorized by the Minister, who shall be entitled to copy any entry in such records free of charge.
+(2) Vehicle records maintained by the Director or a licensing officer shall be open for inspection by any police officer, and any other person duly authorized by the Minister, who shall be entitled to copy any entry in such records free of charge.
 
 (3) Any person who satisfies the Director that he has reasonable cause therefor shall be entitled, on payment of the prescribed fee, to a copy of any entry in such vehicle records.
 
@@ -1478,19 +1636,19 @@ Provided that this subsection shall not apply in the case of-
 
 (v) a vehicle exempted under the provisions of this Act.
 
-- Application for the registration of any motor vehicle or trailer shall be made to a licensing officer in the prescribed form and shall be accompanied by the prescribed fee:
+(2) Application for the registration of any motor vehicle or trailer shall be made to a licensing officer in the prescribed form and shall be accompanied by the prescribed fee:
 
 Provided that where a person satisfies the licensing officer that he has been authorized in writing for the purpose of this section, by a person who is absent from Botswana to make application on his behalf for the registration of a vehicle, the application form may be signed by the person so authorized.
 
-- Before registering a motor vehicle or trailer a licensing officer shall, if the vehicle or trailer is over three years old at the time of application, or may in any other case if he thinks fit, require the vehicle or trailer to be inspected by a motor vehicle examiner in order to satisfy himself that the vehicle or trailer is in a fit and proper condition for the purpose for which it is intended to be used, and conforms in all respects to the requirements of this Act.
+(3) Before registering a motor vehicle or trailer a licensing officer shall, if the vehicle or trailer is over three years old at the time of application, or may in any other case if he thinks fit, require the vehicle or trailer to be inspected by a motor vehicle examiner in order to satisfy himself that the vehicle or trailer is in a fit and proper condition for the purpose for which it is intended to be used, and conforms in all respects to the requirements of this Act.
 
-- If an application is made to register a motor vehicle or trailer the weight or load capacity of which has not been declared by the manufacturers of the chassis, the licensing officer shall not register the vehicle until a motor vehicle examiner has determined its weight and load capacity, such determination being final.
+(4) If an application is made to register a motor vehicle or trailer the weight or load capacity of which has not been declared by the manufacturers of the chassis, the licensing officer shall not register the vehicle until a motor vehicle examiner has determined its weight and load capacity, such determination being final.
 
-- The licensing officer shall, on being satisfied as to the accuracy of the particulars contained in a form of application for the registration of a motor vehicle or trailer and as to the other matters regarding which he is required to be satisfied under this section, issue to the owner of the vehicle and in his name a registration book in the prescribed form containing the registration number allocated to the vehicle and particulars of the vehicle.
+(5) The licensing officer shall, on being satisfied as to the accuracy of the particulars contained in a form of application for the registration of a motor vehicle or trailer and as to the other matters regarding which he is required to be satisfied under this section, issue to the owner of the vehicle and in his name a registration book in the prescribed form containing the registration number allocated to the vehicle and particulars of the vehicle.
 
-- A registration book or duplicate thereof issued under this section shall be proof of the registration of the vehicle, the name of the registered owner and the registration number of the vehicle.
+(6) A registration book or duplicate thereof issued under this section shall be proof of the registration of the vehicle, the name of the registered owner and the registration number of the vehicle.
 
-- The licensing officer shall furnish the Director with details of the contents of every registration book issued under this section and the Director shall enter those details in his records.
+(7) The licensing officer shall furnish the Director with details of the contents of every registration book issued under this section and the Director shall enter those details in his records.
 
 Copyright Government of Botswana
 
@@ -1498,7 +1656,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 27]]
 
-- If a registration book has been lost, destroyed, or defaced, or the particulars thereon have become illegible, the owner of the vehicle shall apply in the prescribed form for a duplicate thereof, and the Director shall, if satisfied as to such loss, destruction, defacement or illegibility, and upon payment of the prescribed fee, issue a duplicate of the said registration book:
+(8) If a registration book has been lost, destroyed, or defaced, or the particulars thereon have become illegible, the owner of the vehicle shall apply in the prescribed form for a duplicate thereof, and the Director shall, if satisfied as to such loss, destruction, defacement or illegibility, and upon payment of the prescribed fee, issue a duplicate of the said registration book:
 
 Provided that-
 
@@ -1506,7 +1664,7 @@ Provided that-
 
 (ii) where any registration book which has been lost is subsequently found such book, or the duplicate thereof, shall forthwith be returned to the Director for cancellation and destruction.
 
-- In the event of any change of circumstances which affects the accuracy of the registered particulars of a motor vehicle or trailer, the owner thereof shall forthwith inform the Director of such change, shall forward to him the registration book in order that it may be amended or cancelled, and shall supply the Director with any further information that may be required. If any registered motor vehicle or trailer is broken up, stolen, destroyed, or becomes permanently unfit for use as a motor vehicle or trailer, or is removed permanently from Botswana, the Director shall cancel the registration of the vehicle.
+(9) In the event of any change of circumstances which affects the accuracy of the registered particulars of a motor vehicle or trailer, the owner thereof shall forthwith inform the Director of such change, shall forward to him the registration book in order that it may be amended or cancelled, and shall supply the Director with any further information that may be required. If any registered motor vehicle or trailer is broken up, stolen, destroyed, or becomes permanently unfit for use as a motor vehicle or trailer, or is removed permanently from Botswana, the Director shall cancel the registration of the vehicle.
 
 (10) If a licensing officer has reason to believe that a motor vehicle or trailer in respect of which registration has been applied for is or may be of a type not previously registered, or is of a type so registered but constructed according to different specifications, he may refuse to register the vehicle until plans or specifications thereof have been submitted to and approved by the Director.
 
@@ -1520,15 +1678,15 @@ The person in whose name a vehicle is registered shall, unless the contrary is p
 
 #### 9. Change of ownership
 
-- A vehicle, the ownership of which has been transferred by the registered owner thereof, shall not be used on a road for more than seven days after the date of such transfer unless the new owner is registered as the owner thereof.
+(1) A vehicle, the ownership of which has been transferred by the registered owner thereof, shall not be used on a road for more than seven days after the date of such transfer unless the new owner is registered as the owner thereof.
 
-- Upon the transfer of ownership of a vehicle, the registered owner thereof shall immediately deliver to the new owner the registration book in respect of the vehicle and the new owner shall within seven days immediately after the delivery to him of the registration book deliver the same together with the prescribed fee to a licensing officer in order that the vehicle may be registered in his name.
+(2) Upon the transfer of ownership of a vehicle, the registered owner thereof shall immediately deliver to the new owner the registration book in respect of the vehicle and the new owner shall within seven days immediately after the delivery to him of the registration book deliver the same together with the prescribed fee to a licensing officer in order that the vehicle may be registered in his name.
 
-- Subsections (1) and (2) shall not apply to a change of possession consequent on a contract of hiring where the period of hiring does not exceed three months, or where the registered owner continues to employ and pay the driver of the vehicle.
+(3) Subsections (1) and (2) shall not apply to a change of possession consequent on a contract of hiring where the period of hiring does not exceed three months, or where the registered owner continues to employ and pay the driver of the vehicle.
 
-- Application for registration of a new owner may be made before the actual transfer of the vehicle, but the registration of a new owner shall not be effective until the registration book has been surrendered to and reissued by a licensing officer.
+(4) Application for registration of a new owner may be made before the actual transfer of the vehicle, but the registration of a new owner shall not be effective until the registration book has been surrendered to and reissued by a licensing officer.
 
-- Subsections (1), (2) and (4) shall not apply to any change of possession of a vehicle which occurs by reason of the vehicle being lawfully seized under a hire purchase agreement, but in such event the following provisions shall apply-
+(5) Subsections (1), (2) and (4) shall not apply to any change of possession of a vehicle which occurs by reason of the vehicle being lawfully seized under a hire purchase agreement, but in such event the following provisions shall apply-
 
 ( a ) the person from whose possession the vehicle was seized shall, within 14 days of the seizure, deliver the registration book to the person who has seized the vehicle, and inform the Director in writing of the change of possession; and
 
@@ -1679,7 +1837,7 @@ licence has been surrendered for cancellation and the prescribed fee paid.
 #### Motor Dealers' Licences (ss 23-27)
 #### 23. Motor dealer's licence
 
-- The Director may issue to a motor dealer, upon application in the prescribed form and upon payment of the prescribed fees, such number of motor dealer's licences as the applicant may require, and with each such licence shall issue two identification plates in the prescribed form.
+(1) The Director may issue to a motor dealer, upon application in the prescribed form and upon payment of the prescribed fees, such number of motor dealer's licences as the applicant may require, and with each such licence shall issue two identification plates in the prescribed form.
 
 (2) Subject to sections 24, 25, 26, and 27, and to any other conditions which may from time to time be prescribed, the holder of a motor dealer's licence shall use the said licence only in respect of vehicles in his possession in the course of his business as a motor dealer, and shall not use more than one such vehicle under the authority of one licence at any one time.
 
@@ -1723,27 +1881,27 @@ Copyright Government of Botswana
 
 (xi) for proceeding to or returning from an exhibition of motor vehicles.
 
-- In any proceedings under this section, the burden of proving the fact of an accident for the purposes of subsection (1)( c ) shall lie on the person charged.
+(2) In any proceedings under this section, the burden of proving the fact of an accident for the purposes of subsection (1)( c ) shall lie on the person charged.
 
-- A motor vehicle shall not be used on any road under the authority of a motor dealer's licence unless the holder of the licence, or a person duly authorized by him, accompanies such vehicle.
+(3) A motor vehicle shall not be used on any road under the authority of a motor dealer's licence unless the holder of the licence, or a person duly authorized by him, accompanies such vehicle.
 
-- Not more than two persons, in addition to the driver, shall be carried within or upon any such vehicle and such persons shall be limited to a prospective purchaser and his agent or a member of his family or, in the case of a vehicle proceeding to or from an accident, two mechanics.
+(4) Not more than two persons, in addition to the driver, shall be carried within or upon any such vehicle and such persons shall be limited to a prospective purchaser and his agent or a member of his family or, in the case of a vehicle proceeding to or from an accident, two mechanics.
 
-- Upon the issue of a motor dealer's licence, the Director shall also supply to the person to whom such licence is issued a book in a form approved by the Director, in which the holder of such licence shall on each occasion and before such licence is used complete in duplicate the entries for which provision is therein made.
+(5) Upon the issue of a motor dealer's licence, the Director shall also supply to the person to whom such licence is issued a book in a form approved by the Director, in which the holder of such licence shall on each occasion and before such licence is used complete in duplicate the entries for which provision is therein made.
 
-- One copy of such entries shall remain in the book and the other copy shall be carried with the vehicle during the whole of the journey to which such entries relate, and shall be produced at any time during such journey by the driver for inspection upon demand made by any police officer, authorized officer, licensing officer or the Director.
+(6) One copy of such entries shall remain in the book and the other copy shall be carried with the vehicle during the whole of the journey to which such entries relate, and shall be produced at any time during such journey by the driver for inspection upon demand made by any police officer, authorized officer, licensing officer or the Director.
 
-- Every such book shall be produced at all reasonable times for inspection by a police officer, authorized officer, licensing officer or the Director, and shall be kept available for inspection at the place specified in the declaration made on application for the motor dealer's licence as the place at which the book will be kept.
+(7) Every such book shall be produced at all reasonable times for inspection by a police officer, authorized officer, licensing officer or the Director, and shall be kept available for inspection at the place specified in the declaration made on application for the motor dealer's licence as the place at which the book will be kept.
 
-- Any person who defaces or mutilates any such book, or makes any entry therein which is to his knowledge false or misleading, or alters or obliterates any entry made therein, or except as provided by this Act makes any entry therein or addition thereto, or after its removal from such book makes, alters or obliterates any entry in any copy to be carried on the vehicle, shall be guilty of an offence and liable to the penalties provided in section 29.
+(8) Any person who defaces or mutilates any such book, or makes any entry therein which is to his knowledge false or misleading, or alters or obliterates any entry made therein, or except as provided by this Act makes any entry therein or addition thereto, or after its removal from such book makes, alters or obliterates any entry in any copy to be carried on the vehicle, shall be guilty of an offence and liable to the penalties provided in section 29.
 
 #### 25. Duration of motor dealer's licence
 
-- A motor dealer's licence shall continue in force until the 31st December next following the date of issue.
+(1) A motor dealer's licence shall continue in force until the 31st December next following the date of issue.
 
-- Every motor dealer's licence shall cease to be valid if the motor dealer ceases to carry on business as a motor dealer in the district for which it is issued.
+(2) Every motor dealer's licence shall cease to be valid if the motor dealer ceases to carry on business as a motor dealer in the district for which it is issued.
 
-- When a motor dealer's licence expires or is cancelled or otherwise ceases to be valid under this Act, the holder of the licence shall deliver to the Director the identification plates which were issued to such holder with such licence:
+(3) When a motor dealer's licence expires or is cancelled or otherwise ceases to be valid under this Act, the holder of the licence shall deliver to the Director the identification plates which were issued to such holder with such licence:
 
 Provided that upon the expiry of the licence the holder may retain the identification plates issued with such licence if he applies for and is issued with a new licence in respect of the same identification plates and such new licence would during the period of its validity authorize the use of such identification plates in the same manner as the expired licence.
 
@@ -1755,7 +1913,7 @@ Copyright Government of Botswana
 
 #### 26. Cancellation of motor dealer's licence
 
-- The Director may at any time cancel a motor dealer's licence for a breach of any of the provisions of this Act which relate to motor dealer's licences.
+(1) The Director may at any time cancel a motor dealer's licence for a breach of any of the provisions of this Act which relate to motor dealer's licences.
 
 (2) Any person holding a motor dealer's licence who is aggrieved by the decision of the Director under this section may, within one month from the date of the service on him of notice of cancellation, appeal to a magistrate's court presided over by a Magistrate Grade I or over.
 
@@ -1773,7 +1931,7 @@ Where under Part III or Part IV a licence is required and has not been obtained,
 
 (1) Any person who contravenes any provision of Part III or Part IV shall be guilty of an offence and liable for a first offence to a fine not exceeding P100 or to imprisonment for a term not exceeding three months, or to both, and for each subsequent offence to a fine not exceeding P200 or to imprisonment for a term not exceeding six months, or to both.
 
-- If any person is convicted of an offence under this Act in a case where a licence fee under Part III or Part IV is payable and has not been paid, the court may, whether or not any other penalty is imposed, impose a fine (which shall be disposed of in the same manner as the fee payable on the licence) of an amount equivalent to the fee unpaid, and the payment of such fine shall operate in satisfaction of any civil debt due under section 28.
+(2) If any person is convicted of an offence under this Act in a case where a licence fee under Part III or Part IV is payable and has not been paid, the court may, whether or not any other penalty is imposed, impose a fine (which shall be disposed of in the same manner as the fee payable on the licence) of an amount equivalent to the fee unpaid, and the payment of such fine shall operate in satisfaction of any civil debt due under section 28.
 
 ### PART VI
 
@@ -1782,15 +1940,15 @@ Where under Part III or Part IV a licence is required and has not been obtained,
 #### 30. Drivers to be licensed
 (1) No person shall drive a motor vehicle unless he is the holder of a valid driving licence in respect of that class of vehicle unless otherwise provided by this Act or by any regulations thereunder.
 
-- No person shall be entitled to have more than one driving licence issued under this Act.
+(2) No person shall be entitled to have more than one driving licence issued under this Act.
 
-- The driver shall always carry with him the driving licence while driving and must produce it on demand to a police officer for inspection.
+(3) The driver shall always carry with him the driving licence while driving and must produce it on demand to a police officer for inspection.
 
-- No person who owns or is in charge of a motor vehicle of any class shall cause or permit any person to drive such motor vehicle unless such person is the holder of a valid driving licence for that class of vehicle.
+(4) No person who owns or is in charge of a motor vehicle of any class shall cause or permit any person to drive such motor vehicle unless such person is the holder of a valid driving licence for that class of vehicle.
 
-- Driving licences shall be issued by a licensing officer and shall, unless previously revoked, suspended or cancelled in accordance with the provisions of this Act, remain in force for the lifetime of the holder.
+(5) Driving licences shall be issued by a licensing officer and shall, unless previously revoked, suspended or cancelled in accordance with the provisions of this Act, remain in force for the lifetime of the holder.
 
-- Notwithstanding any other provision of this Act, a person who, immediately before the commencement of this Act, holds a valid driving licence, other than a provisional driving licence, in respect of any class or classes of vehicle, shall not be required to obtain a driving licence for the same class or classes of vehicles under this Act for a period of two years from the date of commencement of this Act, and the old driving licence shall be deemed to be a driving licence issued under this Act for the same class or classes of vehicles:
+(6) Notwithstanding any other provision of this Act, a person who, immediately before the commencement of this Act, holds a valid driving licence, other than a provisional driving licence, in respect of any class or classes of vehicle, shall not be required to obtain a driving licence for the same class or classes of vehicles under this Act for a period of two years from the date of commencement of this Act, and the old driving licence shall be deemed to be a driving licence issued under this Act for the same class or classes of vehicles:
 
 Provided that this section shall be without prejudice to any provision of this Act relating to the revocation, suspension or cancellation of licences.
 
@@ -1816,19 +1974,19 @@ Copyright Government of Botswana
 
 (iii) stating his age at the date of the application.
 
-- If it appears to a licensing officer that there is reason to believe that an applicant for a driving licence, or the renewal of a driving licence, or the validation of a driving licence in respect of any other class of vehicle, is suffering from a disease or disability likely to cause the driving by him of a motor vehicle, of the class or classes in respect of which the application is made, to be a source of danger to the public, he may refuse to grant such application unless the applicant-
+(2) If it appears to a licensing officer that there is reason to believe that an applicant for a driving licence, or the renewal of a driving licence, or the validation of a driving licence in respect of any other class of vehicle, is suffering from a disease or disability likely to cause the driving by him of a motor vehicle, of the class or classes in respect of which the application is made, to be a source of danger to the public, he may refuse to grant such application unless the applicant-
 
 ( a ) produces a certificate from a medical practitioner, stating that in the opinion of such medical practitioner the applicant is fit to drive the class or classes of motor vehicle in question; and
 
 ( b ) undergoes and passes a driving test.
 
-- Any person who is aggrieved by the refusal of the Director or a licensing officer to grant or renew a driving licence or to validate a driving licence in respect of any other class of vehicle may, after giving to the Director notice of his intention to do so, appeal to a magistrate's court presided over by a Magistrate Grade I or over, which shall after considering the grounds for such refusal make such order as it thinks fit, and any order so made shall be binding on the Director.
+(3) Any person who is aggrieved by the refusal of the Director or a licensing officer to grant or renew a driving licence or to validate a driving licence in respect of any other class of vehicle may, after giving to the Director notice of his intention to do so, appeal to a magistrate's court presided over by a Magistrate Grade I or over, which shall after considering the grounds for such refusal make such order as it thinks fit, and any order so made shall be binding on the Director.
 
 #### 32. Provisional driving licence
 
-- Notwithstanding section 31(1), a licensing officer may issue to an applicant for a driving licence, or for the validation of a driving licence in respect of another class of vehicle, a provisional driving licence validated in respect of any class or classes, or that other class, as the case may be, of motor vehicle, in order that the applicant may learn to drive such class or classes of vehicle, or that other class of vehicle.
+(1) Notwithstanding section 31(1), a licensing officer may issue to an applicant for a driving licence, or for the validation of a driving licence in respect of another class of vehicle, a provisional driving licence validated in respect of any class or classes, or that other class, as the case may be, of motor vehicle, in order that the applicant may learn to drive such class or classes of vehicle, or that other class of vehicle.
 
-- A holder of a provisional driving licence shall not drive at a speed exceeding 60 kilometres per hour.
+(2) A holder of a provisional driving licence shall not drive at a speed exceeding 60 kilometres per hour.
 
 (3) Provisional driving licences shall be valid for six months only and may be issued subject to such conditions as may be prescribed.
 
@@ -1870,9 +2028,9 @@ Notwithstanding the provisions of this Part, the Minister may, in regulations ma
 
 (1) Driving licences shall be in the prescribed form, and there shall be affixed to each licence a photograph of the licence holder, which shall be impressed with the official stamp of the licensing officer.
 
-- The signature of the licence holder shall also be affixed to the licence.
+(2) The signature of the licence holder shall also be affixed to the licence.
 
-- No person shall use a mutilated or defaced driving licence.
+(3) No person shall use a mutilated or defaced driving licence.
 
 (4) A driving licence to be issued to any person who is suffering from any disease or disability as referred to in section 31 shall only be issued with the written permission of the Director and shall be subject to such restrictions or conditions as may be determined by the Director; such restrictions or conditions shall be entered on the licence, which shall not be valid unless such conditions or restrictions are complied with by the holder thereof.
 
@@ -1908,39 +2066,39 @@ Copyright Government of Botswana
 
 [[START OF PAGE 35]]
 
-- The Director may-
+(1) The Director may-
 
 ( a ) revoke the driving licence of any person who appears, in the opinion of the Director, to be suffering from a disease or disability, whether by reason of age or any other cause, likely to cause the driving by him of a vehicle to be a source of danger to the public; or
 
 ( b ) order a fresh driving test in the case of any holder of a driving licence who appears to the Director to be so deficient in driving ability as to be a source of danger to the public, and, if the licence holder fails to pass such test, order that his licence shall be revoked.
 
-- Where the Director has revoked a driving licence under subsection (1), the owner of such licence shall deliver his driving licence to the Director, who shall endorse on it the reason for its revocation.
+(2) Where the Director has revoked a driving licence under subsection (1), the owner of such licence shall deliver his driving licence to the Director, who shall endorse on it the reason for its revocation.
 
-- The Director shall restore a driving licence revoked under subsection (1) to the person in question under the following conditions-
+(3) The Director shall restore a driving licence revoked under subsection (1) to the person in question under the following conditions-
 
 ( a ) in the case of a licence revoked under subsection (1)( a ), if such person satisfies the Director, by means of a certificate from a medical practitioner, that he is suffering from no disease or disability likely to cause the driving by him of a vehicle, of the class or classes in respect of which his licence was issued, to be a source of danger to the public; and
 
 ( b ) in the case of a licence revoked under subsection (1)( b ), if he passes the prescribed test for the class or classes of motor vehicle in respect of which his licence was originally granted.
 
-- Any person who is aggrieved by the revocation of a licence under this section may, after giving to the Director notice of his intention to do so, appeal to a magistrate's court presided over by a Magistrate Grade I or over, which shall, after considering the grounds for such revocation, make such order as it thinks fit, and any order so made shall be binding on the Director.
+(4) Any person who is aggrieved by the revocation of a licence under this section may, after giving to the Director notice of his intention to do so, appeal to a magistrate's court presided over by a Magistrate Grade I or over, which shall, after considering the grounds for such revocation, make such order as it thinks fit, and any order so made shall be binding on the Director.
 
 #### 41. Driving instructors' certificates
 
-- No person shall, for reward, instruct or supervise any other person in the driving of a motor vehicle on a road unless he holds a certificate (for the purposes of this Act referred to as "a driving instructor's certificate") issued to him by the Director.
+(1) No person shall, for reward, instruct or supervise any other person in the driving of a motor vehicle on a road unless he holds a certificate (for the purposes of this Act referred to as "a driving instructor's certificate") issued to him by the Director.
 
-- A person desiring to obtain a driving instructor's certificate shall apply to the Director on the prescribed form which shall be accompanied by two passport-type photographs of the applicant's head and shoulders from which he may be readily identified, each copy being approximately 5 cm by 4 cm in size and shall pay the prescribed fee.
+(2) A person desiring to obtain a driving instructor's certificate shall apply to the Director on the prescribed form which shall be accompanied by two passport-type photographs of the applicant's head and shoulders from which he may be readily identified, each copy being approximately 5 cm by 4 cm in size and shall pay the prescribed fee.
 
-- The Director shall require an applicant for a driving instructor's certificate to submit himself to-
+(3) The Director shall require an applicant for a driving instructor's certificate to submit himself to-
 
 ( a ) an examination and a test by a competent person nominated by the Director in order to determine the competence of such applicant to act as an instructor of learner-drivers; and
 
 ( b ) a medical examination by a medical practitioner nominated by the Director in order to determine the physical and mental fitness of such applicant to act as an instructor of learner-drivers.
 
-- The applicant shall bear the cost of any medical examination carried out under subsection (3)( b ) and shall pay the prescribed fee for an examination for a driving instructor's certificate.
+(4) The applicant shall bear the cost of any medical examination carried out under subsection (3)( b ) and shall pay the prescribed fee for an examination for a driving instructor's certificate.
 
-- The Director shall, if satisfied that an applicant referred to in subsection (3) is competent and is a fit and proper person to act as an instructor of learner-drivers, is not suffering from any physical or mental defect so to act, and complies or has complied with such conditions as may be prescribed for the purposes of this subsection, issue to such applicant a driving instructor's certificate in the prescribed form which shall have firmly affixed to it at the time it is issued one of the photographs submitted with the application for the certificate.
+(5) The Director shall, if satisfied that an applicant referred to in subsection (3) is competent and is a fit and proper person to act as an instructor of learner-drivers, is not suffering from any physical or mental defect so to act, and complies or has complied with such conditions as may be prescribed for the purposes of this subsection, issue to such applicant a driving instructor's certificate in the prescribed form which shall have firmly affixed to it at the time it is issued one of the photographs submitted with the application for the certificate.
 
-- A driving instructor's certificate shall be valid for one year from the date of its issue.
+(6) A driving instructor's certificate shall be valid for one year from the date of its issue.
 
 Copyright Government of Botswana
 
@@ -1948,13 +2106,13 @@ Copyright Government of Botswana
 
 [[START OF PAGE 36]]
 
-- The holder of a driving instructor's certificate shall, whilst he is, for reward, instructing or supervising another person in the driving of a motor vehicle on a road, prominently display the certificate within the vehicle or, if the vehicle has no interior, keep it on his person and produce it immediately for examination by the person he is so instructing or supervising or by a police officer in uniform on being required to do so by that person or by such a police officer.
+(7) The holder of a driving instructor's certificate shall, whilst he is, for reward, instructing or supervising another person in the driving of a motor vehicle on a road, prominently display the certificate within the vehicle or, if the vehicle has no interior, keep it on his person and produce it immediately for examination by the person he is so instructing or supervising or by a police officer in uniform on being required to do so by that person or by such a police officer.
 
-- The holder of a driving instructor's certificate or a duplicate thereof issued under this section shall at all times keep the certificate or duplicate thereof in a clean, unmarked, undamaged, undefaced and legible condition and the photograph affixed to it at the time the certificate or duplicate thereof was issued firmly so affixed.
+(8) The holder of a driving instructor's certificate or a duplicate thereof issued under this section shall at all times keep the certificate or duplicate thereof in a clean, unmarked, undamaged, undefaced and legible condition and the photograph affixed to it at the time the certificate or duplicate thereof was issued firmly so affixed.
 
-- Any person who is aggrieved by the refusal of the Director to issue to him a driving instructor's certificate, may, within 21 days of such refusal, lodge a written notice of appeal with the Minister, and such person shall at the same time serve a copy of such notice on the Director.
+(9) Any person who is aggrieved by the refusal of the Director to issue to him a driving instructor's certificate, may, within 21 days of such refusal, lodge a written notice of appeal with the Minister, and such person shall at the same time serve a copy of such notice on the Director.
 
-- The Director shall forthwith after receipt of the copy of a notice referred to in subsection (9), furnish the Minister with his reasons for the refusal to which such notice refers.
+(10) The Director shall forthwith after receipt of the copy of a notice referred to in subsection (9), furnish the Minister with his reasons for the refusal to which such notice refers.
 
 (11) For the purpose of deciding an appeal the Minister may-
 
@@ -1964,9 +2122,9 @@ Copyright Government of Botswana
 
 ( c ) require either party to such appeal to furnish such information or evidence as he may deem expedient.
 
-- The appellant shall bear the cost of any medical examination carried out under subsection (11)( b ).
+(12) The appellant shall bear the cost of any medical examination carried out under subsection (11)( b ).
 
-- The Minister shall notify the result of an appeal under this section, in writing, to the parties concerned and, if such appeal is allowed, the Director shall give effect to the decision of the Minister.
+(13) The Minister shall notify the result of an appeal under this section, in writing, to the parties concerned and, if such appeal is allowed, the Director shall give effect to the decision of the Minister.
 
 (14) Any person desiring to replace a driving instructor's certificate lost, destroyed, damaged or defaced or that has become dirty, marked or illegible shall apply to the Director on the prescribed form for a duplicate thereof, which form shall be accompanied by two passport-type photographs of the applicant's head and shoulders from which he may be readily identified, each photograph being approximately 5 cm by 4 cm in size, and shall pay the prescribed fee.
 
@@ -1991,7 +2149,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 37]]
 
-- Notwithstanding subsection (1), no person shall drive, or, being the owner or person in charge of a vehicle, cause or permit any other person to drive, any vehicle at a speed exceeding 60 kilometres per hour on any road within the boundaries of any village or township:
+(3) Notwithstanding subsection (1), no person shall drive, or, being the owner or person in charge of a vehicle, cause or permit any other person to drive, any vehicle at a speed exceeding 60 kilometres per hour on any road within the boundaries of any village or township:
 
 Provided that-
 
@@ -1999,7 +2157,7 @@ Provided that-
 
 (ii) any such road authority shall display and maintain prescribed traffic signs so as plainly to indicate to drivers entering or leaving the boundaries of such villages or townships where the 60 kilometres per hour speed limit restriction begins and ends, and where any other speed limit restriction imposed under this subsection begins and ends.
 
-- Notwithstanding subsections (1) and (3), and subject to any written directions which the Minister may give either generally or in any specific instance, a road authority may-
+(4) Notwithstanding subsections (1) and (3), and subject to any written directions which the Minister may give either generally or in any specific instance, a road authority may-
 
 ( a ) impose on any road such lower limit of speed as it considers necessary in circumstances when, by reason of repairs, reconstruction or damage to the road or the condition of the road, any lower limit of speed is necessary for the public safety or to prevent damage to the road:
 
@@ -2007,17 +2165,17 @@ Provided that such lower limit shall be imposed only for such period as is neces
 
 ( b ) impose on any road or area such lower limit of speed as may be necessary for the safety of the public having regard to the width of streets, nature of traffic or general development of the area.
 
-- Where any lower limit imposed under subsection (4) is in force, indication of the maximum speed permitted shall be given by prescribed traffic signs displayed and maintained so as plainly to indicate to drivers entering or leaving such restricted road or area where the lower speed limit begins and ends.
+(5) Where any lower limit imposed under subsection (4) is in force, indication of the maximum speed permitted shall be given by prescribed traffic signs displayed and maintained so as plainly to indicate to drivers entering or leaving such restricted road or area where the lower speed limit begins and ends.
 
-- The provisions of this section or of any other Act imposing a speed limit on motor vehicles shall not apply to any vehicle which is fitted with a gong, siren, bell or other warning instrument, when it is being used in cases of emergency for fire brigade, ambulance or police purposes, if the observance of such provisions would be likely to hinder the use of the vehicle for the purpose for which it is being used, and provided that the gong, siren, bell or other instrument is constantly sounded on that occasion:
+(6) The provisions of this section or of any other Act imposing a speed limit on motor vehicles shall not apply to any vehicle which is fitted with a gong, siren, bell or other warning instrument, when it is being used in cases of emergency for fire brigade, ambulance or police purposes, if the observance of such provisions would be likely to hinder the use of the vehicle for the purpose for which it is being used, and provided that the gong, siren, bell or other instrument is constantly sounded on that occasion:
 
 Provided that this obligation to sound constantly a gong, siren, bell or other warning instrument shall not apply to any vehicle being used for police purposes in order to ascertain whether an offence under this Act is being committed.
 
 #### 45. Penalties in relation to speed
 
-- Any person who contravenes or fails to comply with any of the provisions of section 44 shall be guilty of an offence and shall be sentenced to a fine of not less than P30,00 plus P5,00 for every kilometre per hour exceeded, and not more than P1 000,00 or to imprisonment for a term of not more than five years, or to both.
+(1) Any person who contravenes or fails to comply with any of the provisions of section 44 shall be guilty of an offence and shall be sentenced to a fine of not less than P30,00 plus P5,00 for every kilometre per hour exceeded, and not more than P1 000,00 or to imprisonment for a term of not more than five years, or to both.
 
-- In any proceedings in respect of an offence under this section, a certificate purporting to be signed by a police officer of or above the rank of Sergeant to the effect that a device manufactured for the purpose of measuring the speeds at which vehicles are driven measured the speed at which any vehicle sufficiently identified in the certificate was being driven on the day and road specified in the certificate as the speed specified in the certificate shall, on being placed before the court by public prosecutor, be admissible in evidence without further proof
+(2) In any proceedings in respect of an offence under this section, a certificate purporting to be signed by a police officer of or above the rank of Sergeant to the effect that a device manufactured for the purpose of measuring the speeds at which vehicles are driven measured the speed at which any vehicle sufficiently identified in the certificate was being driven on the day and road specified in the certificate as the speed specified in the certificate shall, on being placed before the court by public prosecutor, be admissible in evidence without further proof
 
 Copyright Government of Botswana
 
@@ -2029,22 +2187,22 @@ thereof and the court shall presume that the vehicle so identified was, on that 
 
 #### 46. Driving, or being in charge, when under influence of drink or drugs
 
-- A person who, when driving or attempting to drive a motor vehicle, is unfit to drive through drink or drugs, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P5 000,00, or to imprisonment for a term of not less than 12 months or more than five years, or to both.
+(1) A person who, when driving or attempting to drive a motor vehicle, is unfit to drive through drink or drugs, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P5 000,00, or to imprisonment for a term of not less than 12 months or more than five years, or to both.
 
-- Without prejudice to subsection (1), a person who, when in charge of a motor vehicle, is unfit to drive through drink or drugs shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P2 000,00, or to imprisonment for a term of not less than six months or more than five years, or to both:
+(2) Without prejudice to subsection (1), a person who, when in charge of a motor vehicle, is unfit to drive through drink or drugs shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P2 000,00, or to imprisonment for a term of not less than six months or more than five years, or to both:
 
 Provided that a person shall be deemed for the purposes of this subsection not to have been in charge of a motor vehicle if he proves that at the material time the circumstances were such that there was no likelihood of his driving the vehicle so long as he remained unfit to drive through drink or drugs.
 
-- Where a person is convicted of an offence under subsection (2) and has been previously convicted of an offence under subsection (1), he shall be treated for the purposes of subsection (2) as having been previously convicted under that subsection.
+(3) Where a person is convicted of an offence under subsection (2) and has been previously convicted of an offence under subsection (1), he shall be treated for the purposes of subsection (2) as having been previously convicted under that subsection.
 
-- For the purposes of this section a person shall be deemed to be unfit to drive if his ability to drive properly is for the time being impaired.
+(4) For the purposes of this section a person shall be deemed to be unfit to drive if his ability to drive properly is for the time being impaired.
 
 #### 47. Power to require breath specimen
 (1) A police officer may require any person who is driving or is in charge of a motor vehicle to provide, at any place which that officer may specify, a specimen of breath for analysis by means of a breathalyser of a type prescribed by the Minister.
 
-- Where the results of the analysis of the specimen of breath provided in accordance with subsection (1) indicate that the level of alcohol in the breath of the person who provided the specimen is in excess of the amount prescribed as being the amount permissible in a specimen of breath for analysis by means of a breathalyser, the police officer shall require that person to provide, at a place specified by that officer, another specimen of breath for analysis, at that place, by the same police officer or any other qualified person.
+(2) Where the results of the analysis of the specimen of breath provided in accordance with subsection (1) indicate that the level of alcohol in the breath of the person who provided the specimen is in excess of the amount prescribed as being the amount permissible in a specimen of breath for analysis by means of a breathalyser, the police officer shall require that person to provide, at a place specified by that officer, another specimen of breath for analysis, at that place, by the same police officer or any other qualified person.
 
-- Where the results of the analysis of the second specimen of breath provided in pursuance of subsection (2) indicate that the level of alcohol in the breath of the person who provided the specimen exceeds the limit prescribed for the level of alcohol in a specimen of breath for analysis by means of a breathalyser, those results shall be deemed to be prima facie evidence that that person was unfit to drive through drink or drugs and shall make him liable to a charge for an offence under section 46 or 50(3).
+(3) Where the results of the analysis of the second specimen of breath provided in pursuance of subsection (2) indicate that the level of alcohol in the breath of the person who provided the specimen exceeds the limit prescribed for the level of alcohol in a specimen of breath for analysis by means of a breathalyser, those results shall be deemed to be prima facie evidence that that person was unfit to drive through drink or drugs and shall make him liable to a charge for an offence under section 46 or 50(3).
 
 (4) A police officer may cause a person suspected of driving under the influence of drinks or drugs to have that person's blood specimen taken and tested for the level of alcohol in that person's blood, by a qualified person, at any hospital or clinic, if-
 
@@ -2052,7 +2210,7 @@ Provided that a person shall be deemed for the purposes of this subsection not t
 
 ( b ) a test with a breathalyser is impracticable due to the lack of serviceable equipment, or due to the distance from the point of arrest to the nearest available breathalyser.
 
-- A person who, without reasonable excuse, fails to provide a specimen of breath or blood when required to do so in pursuance of this section shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P1 000,00, or to imprisonment for a term of not less than six months or more than 12 months, or to both.
+(5) A person who, without reasonable excuse, fails to provide a specimen of breath or blood when required to do so in pursuance of this section shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P1 000,00, or to imprisonment for a term of not less than six months or more than 12 months, or to both.
 
 #### 48. Evidence on charge of unfitness to drive through drink or drugs or causing death thereby
 
@@ -2066,9 +2224,9 @@ Copyright Government of Botswana
 
 Provided the specimen is not taken more than three hours following the offence.
 
-- Where, in any proceedings for an offence under section 46 or for an offence under section 50(3) in connection with a motor vehicle, it is proved that the accused refused to consent to the taking of a specimen of blood or a specimen of breath for analysis by a qualified person, his refusal shall, unless reasonable cause therefor is shown, be treated as supporting any evidence given on behalf of the prosecution or as rebutting any evidence given on behalf of the defence.
+(2) Where, in any proceedings for an offence under section 46 or for an offence under section 50(3) in connection with a motor vehicle, it is proved that the accused refused to consent to the taking of a specimen of blood or a specimen of breath for analysis by a qualified person, his refusal shall, unless reasonable cause therefor is shown, be treated as supporting any evidence given on behalf of the prosecution or as rebutting any evidence given on behalf of the defence.
 
-- Notwithstanding any law to the contrary, a qualified person may, on being requested to do so by a police officer, take a specimen of blood from any person without that person's consent if, at the time the specimen is taken, that person is unable by reason of his physical condition to give or to refuse his consent to the taking of the specimen and if the qualified person then believes on reasonable grounds-
+(3) Notwithstanding any law to the contrary, a qualified person may, on being requested to do so by a police officer, take a specimen of blood from any person without that person's consent if, at the time the specimen is taken, that person is unable by reason of his physical condition to give or to refuse his consent to the taking of the specimen and if the qualified person then believes on reasonable grounds-
 
 ( a ) that the person is detained in the lawful custody of a police officer in respect of an offence under section 46 or of an offence under section 50(3) in connection with a motor vehicle;
 
@@ -2078,7 +2236,7 @@ Provided the specimen is not taken more than three hours following the offence.
 
 but in taking the specimen no other means nor any greater degree of force shall be used than would, in the particular circumstances, be lawful if that person had given his consent.
 
-- Where a specimen of blood taken under subsection (3) is one which, in the opinion of the qualified person, it is not practicable to divide, he may, immediately after taking that specimen, take a second specimen of blood from the same person without that person's consent and without being requested to do so by a police officer but otherwise in accordance with that subsection; but no further specimen shall be taken.
+(4) Where a specimen of blood taken under subsection (3) is one which, in the opinion of the qualified person, it is not practicable to divide, he may, immediately after taking that specimen, take a second specimen of blood from the same person without that person's consent and without being requested to do so by a police officer but otherwise in accordance with that subsection; but no further specimen shall be taken.
 
 (5) For the purposes of any proceedings for an offence under section 46 or for an offence under section 50(3) in connection with a motor vehicle, a certificate purporting to be signed by a qualified person, and certifying the proportions of alcohol or of any drug found in a specimen of blood or breath as the case may be, shall be evidence without any need for the giving of any oral evidence, on the matters so certified, by the person who signed the certificate:
 
@@ -2104,26 +2262,26 @@ Copyright Government of Botswana
 
 ( b ) the other specimen or part was supplied to the accused.
 
-- Where a specimen of blood has been taken from a person without his consent under subsection (3), a police officer shall, as soon as it is reasonably practicable to do so, offer to supply to him, in a suitable container, part of the specimen or, where a second specimen has been taken under subsection (4), that specimen.
+(9) Where a specimen of blood has been taken from a person without his consent under subsection (3), a police officer shall, as soon as it is reasonably practicable to do so, offer to supply to him, in a suitable container, part of the specimen or, where a second specimen has been taken under subsection (4), that specimen.
 
 (10) The Minister may prescribe a limit to the amount of alcohol permissible in a specimen of blood or breath taken from an accused under this Act and where the Minister has prescribed such a limit and the results of analysis show that the amount of alcohol found in any specimen of blood or breath taken from an accused exceeds the permitted amount, the accused shall be deemed at the relevant time to have been unfit to drive through drink or drugs in any proceedings for an offence by him under section 46 or for an offence under section 50(3) in connection with a motor vehicle.
 
 #### 49. Reckless and dangerous driving generally
 
-- If a person drives a motor vehicle recklessly or at a speed or in a manner which is dangerous to other persons, having regard to all the circumstances of the case, he shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P5 000,00, or to imprisonment for a term of not less than six months or more than five years, or to both.
+(1) If a person drives a motor vehicle recklessly or at a speed or in a manner which is dangerous to other persons, having regard to all the circumstances of the case, he shall be guilty of an offence and shall be sentenced to a fine of not less than P500,00 or more than P5 000,00, or to imprisonment for a term of not less than six months or more than five years, or to both.
 
-- Notwithstanding the provisions of subsection (1), any person who, being the driver of a public service vehicle, drives that vehicle recklessly or at a speed or in a manner which is dangerous to other persons, having regard to all the circumstances of the case, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P10 000,00, or to imprisonment for a term of not less than six months or more than eight years, or to both.
+(2) Notwithstanding the provisions of subsection (1), any person who, being the driver of a public service vehicle, drives that vehicle recklessly or at a speed or in a manner which is dangerous to other persons, having regard to all the circumstances of the case, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P10 000,00, or to imprisonment for a term of not less than six months or more than eight years, or to both.
 
-- Where a person is convicted of aiding, abetting, counselling, procuring or inciting the commission of an offence under this section, and it is proved that he was present in the vehicle at the time, the offence of which he is convicted shall, for the purpose of the provisions of this Act relating to disqualification from driving or from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
+(3) Where a person is convicted of aiding, abetting, counselling, procuring or inciting the commission of an offence under this section, and it is proved that he was present in the vehicle at the time, the offence of which he is convicted shall, for the purpose of the provisions of this Act relating to disqualification from driving or from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
 
 #### 50. Causing death by reckless driving, etc.
 (1) Any person who causes the death of another person by the driving of a motor vehicle recklessly or in a manner which is dangerous to other persons having regard to all the circumstances of the case shall be guilty of an offence and shall be sentenced to a fine of not less than P5 000,00 or more than P10 000,00, or to imprisonment for a term of not less than five years or more than 10 years, or to both.
 
-- Any person who causes the death of another person by the driving or using on a road of a vehicle which is in such condition as to constitute a danger to the public shall be guilty of an offence and shall be sentenced to a fine of not less than P2 000,00 or more than P10 000,00, or to imprisonment for a term of not less than two years or more than 10 years, or to both.
+(2) Any person who causes the death of another person by the driving or using on a road of a vehicle which is in such condition as to constitute a danger to the public shall be guilty of an offence and shall be sentenced to a fine of not less than P2 000,00 or more than P10 000,00, or to imprisonment for a term of not less than two years or more than 10 years, or to both.
 
-- Any person who causes the death of another person by the driving of a vehicle whilst he is unfit to drive through drink or drugs shall be guilty of an offence and shall be sentenced to a fine of not less than P5 000,00 or more than P10 000,00, or to imprisonment for a term of not less than five years or more than 10 years, or to both.
+(3) Any person who causes the death of another person by the driving of a vehicle whilst he is unfit to drive through drink or drugs shall be guilty of an offence and shall be sentenced to a fine of not less than P5 000,00 or more than P10 000,00, or to imprisonment for a term of not less than five years or more than 10 years, or to both.
 
-- Any person who causes the death of another person by leaving any vehicle on a road in such a position or manner, or in such a condition as to constitute a danger to the public having regard to all the circumstances of the case including the nature, condition and use of the road, and the amount of traffic and number of animals which are actually, or which are reasonably expected to be on the road at the time, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P2 000,00, or to imprisonment for a
+(4) Any person who causes the death of another person by leaving any vehicle on a road in such a position or manner, or in such a condition as to constitute a danger to the public having regard to all the circumstances of the case including the nature, condition and use of the road, and the amount of traffic and number of animals which are actually, or which are reasonably expected to be on the road at the time, shall be guilty of an offence and shall be sentenced to a fine of not less than P1000,00 or more than P2 000,00, or to imprisonment for a
 
 Copyright Government of Botswana
 
@@ -2135,36 +2293,36 @@ term of not less than six months or less than one year, or to both.
 
 #### 51. Careless and inconsiderate driving
 
-- If a person drives a motor vehicle without due care and attention, or without reasonable consideration for other persons, he shall be guilty of an offence and shall be sentenced to a fine of not less than P100,00 or more than P500,00, or to imprisonment for a term of not less than two months or more than six months, or to both.
+(1) If a person drives a motor vehicle without due care and attention, or without reasonable consideration for other persons, he shall be guilty of an offence and shall be sentenced to a fine of not less than P100,00 or more than P500,00, or to imprisonment for a term of not less than two months or more than six months, or to both.
 
-- Notwithstanding the provisions of subsection (1), any person who, being the driver of a public service vehicle, drives that vehicle without due care and attention or without reasonable consideration for other persons, shall be guilty of an offence and shall be sentenced to a fine of not less than P1 000,00 or more than P5 000,00, or to imprisonment for a term of not less than 12 months or more than five years, or to both.
+(2) Notwithstanding the provisions of subsection (1), any person who, being the driver of a public service vehicle, drives that vehicle without due care and attention or without reasonable consideration for other persons, shall be guilty of an offence and shall be sentenced to a fine of not less than P1 000,00 or more than P5 000,00, or to imprisonment for a term of not less than 12 months or more than five years, or to both.
 
-- Where a person is convicted of an offence under subsection (1) and he has been previously convicted of an offence under section 49 or section 50 he shall be treated for the purposes of subsection (1) as having been previously convicted under that subsection.
+(3) Where a person is convicted of an offence under subsection (1) and he has been previously convicted of an offence under section 49 or section 50 he shall be treated for the purposes of subsection (1) as having been previously convicted under that subsection.
 
 #### 52. Alternative offences
 
-- Upon the trial of a person for manslaughter contrary to section 200 of the Penal Code in connection with the driving of a motor vehicle, the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 49, 50 or section 51, find him guilty of such other offence.
+(1) Upon the trial of a person for manslaughter contrary to section 200 of the Penal Code in connection with the driving of a motor vehicle, the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 49, 50 or section 51, find him guilty of such other offence.
 
-- Upon the trial of a person for an offence under section 46 in connection with the driving of a motor vehicle or under section 50 the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 49 or section 51, find him guilty of such other offence.
+(2) Upon the trial of a person for an offence under section 46 in connection with the driving of a motor vehicle or under section 50 the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 49 or section 51, find him guilty of such other offence.
 
-- Upon the trial of a person for an offence under section 49 the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 51, find him guilty of that offence.
+(3) Upon the trial of a person for an offence under section 49 the court may, if it considers that offence not proved, but is satisfied that he is guilty of an offence under section 51, find him guilty of that offence.
 
-#### Mandatory disqualification
+#### 53. Mandatory disqualification
 (1) Where a person is convicted of manslaughter contrary to section 200 of the Penal Code in connection with the driving of a motor vehicle, or of an offence under section 50 of this Act, the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than three years or more than five years.
 
-- Where a person is convicted of an offence under section 46(1), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than two years or more than five years.
+(2) Where a person is convicted of an offence under section 46(1), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than two years or more than five years.
 
-- Where a person is convicted of an offence under section 46(2), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than one year or more than three years.
+(3) Where a person is convicted of an offence under section 46(2), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than one year or more than three years.
 
-- Where a person is convicted of an offence under section 49(1), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than one year or more than two years.
+(4) Where a person is convicted of an offence under section 49(1), the court convicting him shall order that he be disqualified from driving or from holding or obtaining a driving licence for not less than one year or more than two years.
 
-- Where a person is convicted of an offence under section 45, 46, 49, 50, or 51 committed within a period of one year from a previous conviction for the same offence, the court convicting him shall disqualify him from driving or from holding or obtaining a driving licence for three months.
+(5) Where a person is convicted of an offence under section 45, 46, 49, 50, or 51 committed within a period of one year from a previous conviction for the same offence, the court convicting him shall disqualify him from driving or from holding or obtaining a driving licence for three months.
 
 #### 54. Power of arrest
 
-- Without prejudice to the powers of arrest conferred on a police officer under any other written law, a police officer may arrest without warrant the driver of any motor vehicle whom he suspects of having committed an offence under section 46, 49 or 50.
+(1) Without prejudice to the powers of arrest conferred on a police officer under any other written law, a police officer may arrest without warrant the driver of any motor vehicle whom he suspects of having committed an offence under section 46, 49 or 50.
 
-- A police officer may require any person whom he suspects of having committed an offence under this Act to give his name and address and if such person fails on demand to give his name and address the police officer may arrest him without a warrant, and any such person
+(2) A police officer may require any person whom he suspects of having committed an offence under this Act to give his name and address and if such person fails on demand to give his name and address the police officer may arrest him without a warrant, and any such person
 
 Copyright Government of Botswana
 
@@ -2212,7 +2370,7 @@ Provided that the Minister may, subject to such conditions as he may see fit to 
 
 (2) In relation to an offence under subsection (1), the reference in that subsection to the driver of a vehicle shall be construed as a reference to the person driving the vehicle at the time it was left in the parking bay or parking area.
 
-- Where the driver of a vehicle is alleged to be guilty of an offence under subsection (1)-
+(3) Where the driver of a vehicle is alleged to be guilty of an offence under subsection (1)-
 
 Copyright Government of Botswana
 
@@ -2232,7 +2390,7 @@ Copyright Government of Botswana
 
 and liable to a fine not exceeding P100 or to imprisonment for a term not exceeding one month, or to both.
 
-- In this section-
+(5) In this section-
 
 "parking area" means an area designated as such by a road authority where motor vehicles, or vehicles of any class or description, may wait;
 
@@ -2240,27 +2398,27 @@ and liable to a fine not exceeding P100 or to imprisonment for a term not exceed
 
 #### 59. Vehicles not to obstruct roads
 
-- A vehicle shall not be allowed to remain in any position on any road so as to obstruct or to be likely to obstruct or cause inconvenience or danger to other traffic using the road, and except where the contrary is expressly provided in this Act, every vehicle on a road, when not in motion, shall be drawn up as close to the side of the road as possible:
+(1) A vehicle shall not be allowed to remain in any position on any road so as to obstruct or to be likely to obstruct or cause inconvenience or danger to other traffic using the road, and except where the contrary is expressly provided in this Act, every vehicle on a road, when not in motion, shall be drawn up as close to the side of the road as possible:
 
 Provided that, except in order to avoid an accident or in compliance with a traffic sign or with a direction given by a police officer or for any cause beyond the control of the driver, a vehicle shall not be drawn up on the right hand side of a road facing on-coming traffic.
 
-- The driver of any vehicle shall, in case of a breakdown, remove such vehicle from the carriageway as soon as possible, and until so removed the vehicle shall be placed as close to the side of the carriageway as possible.
+(2) The driver of any vehicle shall, in case of a breakdown, remove such vehicle from the carriageway as soon as possible, and until so removed the vehicle shall be placed as close to the side of the carriageway as possible.
 
-- If the vehicle remains on the carriageway between sunset and sunrise, its position shall be clearly indicated by a light or lights visible to drivers of vehicles approaching from either direction and by such other means as may be prescribed.
+(3) If the vehicle remains on the carriageway between sunset and sunrise, its position shall be clearly indicated by a light or lights visible to drivers of vehicles approaching from either direction and by such other means as may be prescribed.
 
-- Any person who leaves any vehicle on a road or carriageway in such a position or manner or in such a condition as to cause or be likely to cause any danger to any person shall be guilty of an offence and liable to a fine not exceeding P600 or to imprisonment for a term not exceeding 18 months, or to both.
+(4) Any person who leaves any vehicle on a road or carriageway in such a position or manner or in such a condition as to cause or be likely to cause any danger to any person shall be guilty of an offence and liable to a fine not exceeding P600 or to imprisonment for a term not exceeding 18 months, or to both.
 
 #### 60. Racing, pacemaking and trial of speed
 
-- No person shall, without the written consent of the road authority and of the Commissioner of Police, promote or take part in any race, road rally or speed trial between vehicles on a road, and in giving their consent the road authority and the Commissioner of Police may impose such conditions as they think fit.
+(1) No person shall, without the written consent of the road authority and of the Commissioner of Police, promote or take part in any race, road rally or speed trial between vehicles on a road, and in giving their consent the road authority and the Commissioner of Police may impose such conditions as they think fit.
 
 (2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to otherwise order, and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from driving and from holding or obtaining a driving licence for a period of 12 months.
 
 #### 61. Condition of vehicles
 
-- A vehicle shall not be used on a road unless such vehicle and all parts and equipment thereof, including lights and tyres, comply with the requirements of this Act, and such parts and equipment shall at all times be maintained in such a condition that the driving of the vehicle is not likely to be a danger to other users of the road or to persons travelling on the vehicle.
+(1) A vehicle shall not be used on a road unless such vehicle and all parts and equipment thereof, including lights and tyres, comply with the requirements of this Act, and such parts and equipment shall at all times be maintained in such a condition that the driving of the vehicle is not likely to be a danger to other users of the road or to persons travelling on the vehicle.
 
-- A motor vehicle the weight or dimensions of which laden or unladen exceeds the maximum weight or dimensions provided for such vehicles by regulations made under this Act shall not be used on a road.
+(2) A motor vehicle the weight or dimensions of which laden or unladen exceeds the maximum weight or dimensions provided for such vehicles by regulations made under this Act shall not be used on a road.
 
 Copyright Government of Botswana
 
@@ -2272,43 +2430,43 @@ Copyright Government of Botswana
 
 #### 62. Limitation
 
-- A vehicle shall not be used on a road with a load greater than the load specified by the manufacturer of the chassis of the vehicle or than the load capacity determined by a motor vehicle examiner under this Act.
+(1) A vehicle shall not be used on a road with a load greater than the load specified by the manufacturer of the chassis of the vehicle or than the load capacity determined by a motor vehicle examiner under this Act.
 
-- No vehicle shall be used on a road if it is loaded in such a manner as to make it a danger to other persons using the road or to persons travelling in the vehicle; and should any load or part of a load fall from any vehicle on to a road such fact shall be prima facie evidence that the vehicle was loaded in a dangerous manner until the contrary is proved to the satisfaction of the court.
+(2) No vehicle shall be used on a road if it is loaded in such a manner as to make it a danger to other persons using the road or to persons travelling in the vehicle; and should any load or part of a load fall from any vehicle on to a road such fact shall be prima facie evidence that the vehicle was loaded in a dangerous manner until the contrary is proved to the satisfaction of the court.
 
-- For the purposes of this section, persons travelling in a vehicle shall be deemed to be part of the load.
+(3) For the purposes of this section, persons travelling in a vehicle shall be deemed to be part of the load.
 
 #### 63. Exemptions
 
-- A road authority may, with the approval of any police officer of or above the rank of Assistant Superintendent, grant a permit subject to such conditions as may be specified therein-
+(1) A road authority may, with the approval of any police officer of or above the rank of Assistant Superintendent, grant a permit subject to such conditions as may be specified therein-
 
 ( a ) for the use on a road of a vehicle the weight or dimensions of which exceed the maximum weight or dimensions provided for by regulations made under this Act;
 
 ( b ) for the carriage by a vehicle on a road of any specified load which it is unlawful to place on the vehicle under the provisions of any regulations made under this Act.
 
-- Every permit granted under this section shall be in writing, and shall be carried on the vehicle in question whenever such vehicle is being used under the authority of such permit.
+(2) Every permit granted under this section shall be in writing, and shall be carried on the vehicle in question whenever such vehicle is being used under the authority of such permit.
 
 #### 64. Penalty for improper condition or overloading
 
-- Any person who drives or uses on a road a vehicle in contravention of section 61 or 62 shall be guilty of an offence and liable to a fine not exceeding P600 or to imprisonment for a term not exceeding nine months, or to both.
+(1) Any person who drives or uses on a road a vehicle in contravention of section 61 or 62 shall be guilty of an offence and liable to a fine not exceeding P600 or to imprisonment for a term not exceeding nine months, or to both.
 
-- For the purposes of subsection (1), any person who is shown to the satisfaction of the court to be responsible for the maintenance of the vehicle, and any person who is shown to the satisfaction of the court to have been responsible for the loading of the vehicle, shall be deemed to have used the vehicle on the road.
+(2) For the purposes of subsection (1), any person who is shown to the satisfaction of the court to be responsible for the maintenance of the vehicle, and any person who is shown to the satisfaction of the court to have been responsible for the loading of the vehicle, shall be deemed to have used the vehicle on the road.
 
-- In any case where a vehicle is twice or more times, in a period of 12 months, the subject of a successful prosecution under section 61 or 62 the court may order the Director to suspend the licence of such vehicle for a period of six months.
+(3) In any case where a vehicle is twice or more times, in a period of 12 months, the subject of a successful prosecution under section 61 or 62 the court may order the Director to suspend the licence of such vehicle for a period of six months.
 
-- The Director shall thereupon suspend the licence of such vehicle for such period, and the owner of the vehicle shall return the licence of the vehicle to the Director, who in no case shall issue another licence in respect of such vehicle until the termination of the period of suspension.
+(4) The Director shall thereupon suspend the licence of such vehicle for such period, and the owner of the vehicle shall return the licence of the vehicle to the Director, who in no case shall issue another licence in respect of such vehicle until the termination of the period of suspension.
 
-- A vehicle licence shall not be returned or a new licence shall not be granted in respect of a vehicle whose licence has been so suspended unless a motor vehicle examiner certifies that the vehicle is fit in all respects for use upon the road.
+(5) A vehicle licence shall not be returned or a new licence shall not be granted in respect of a vehicle whose licence has been so suspended unless a motor vehicle examiner certifies that the vehicle is fit in all respects for use upon the road.
 
-- When a vehicle licence has been suspended under subsection (3), no refund of licence fee shall be made.
+(6) When a vehicle licence has been suspended under subsection (3), no refund of licence fee shall be made.
 
 #### 65. Obstructing driver of motor vehicle
 
-- No person shall molest, obstruct or interfere with the driver of a motor vehicle while it is being driven.
+(1) No person shall molest, obstruct or interfere with the driver of a motor vehicle while it is being driven.
 
-- Passengers shall not be carried in such numbers or in such a position in a motor vehicle as to be likely to interfere with the safe driving of such motor vehicle; and in the event of a contravention of this subsection the driver and the person in charge of the motor vehicle shall be guilty of an offence.
+(2) Passengers shall not be carried in such numbers or in such a position in a motor vehicle as to be likely to interfere with the safe driving of such motor vehicle; and in the event of a contravention of this subsection the driver and the person in charge of the motor vehicle shall be guilty of an offence.
 
-- No person driving a motor vehicle shall be in such a position that he cannot control
+(3) No person driving a motor vehicle shall be in such a position that he cannot control
 
 Copyright Government of Botswana
 
@@ -2324,31 +2482,31 @@ the same or obtain a full view of the road including traffic ahead and in the re
 
 (2) No person shall, on a road, carry a passenger on a motor cycle unless such cycle has an engine with a cylinder capacity of not less than 49 cubic centimetres and unless such passenger is seated astride a pillion attached to such cycle and, in such event, foot rests have been provided for such passenger.
 
-- Not more than two persons shall ride upon a motor cycle on a road.
+(3) Not more than two persons shall ride upon a motor cycle on a road.
 
-- No person shall be carried in a side-car attached to a motor cycle on a road.
+(4) No person shall be carried in a side-car attached to a motor cycle on a road.
 
-- No person or animal or article shall be carried on a motor cycle on a road in front of the driver thereof:
+(5) No person or animal or article shall be carried on a motor cycle on a road in front of the driver thereof:
 
 Provided that an article of a non-bulky nature may be so carried if securely attached to the motor cycle or placed in a suitable carrier fitted thereon for that purpose and carried in such a way as not to obstruct the driver's view or prevent his exercising complete control over such motor cycle.
 
-- Persons, other than police officers, driving motor cycles on a road shall drive in single file except in the course of overtaking another motor cycle, and two or more persons driving motor cycles shall not overtake another vehicle at the same time:
+(6) Persons, other than police officers, driving motor cycles on a road shall drive in single file except in the course of overtaking another motor cycle, and two or more persons driving motor cycles shall not overtake another vehicle at the same time:
 
 Provided that where a road is divided into traffic lanes each such lane shall, for the purposes of this subsection, be regarded as a road.
 
-- No person driving a motor cycle on a road shall take hold of any other vehicle in motion.
+(7) No person driving a motor cycle on a road shall take hold of any other vehicle in motion.
 
-- A person driving a motor cycle on a road shall do so with at least one hand on the handle-bars of such motor cycle.
+(8) A person driving a motor cycle on a road shall do so with at least one hand on the handle-bars of such motor cycle.
 
 #### 67. Riding in a dangerous position
 
 (1) Except for the purpose of testing or repairing a motor vehicle, no person shall ride or be carried on the footboard, tailboard, steps, mudguards, canopy, roofing or elsewhere on the outside of any vehicle.
 
-- No person shall ride or be carried on any load upon a vehicle if such a proceeding is unsafe.
+(2) No person shall ride or be carried on any load upon a vehicle if such a proceeding is unsafe.
 
 #### 68. Restriction on towing and mounting a vehicle
 
-- No person, otherwise than with lawful authority or reasonable cause, shall take or retain hold of, or get on or off, a motor vehicle or trailer while it is in motion on any road.
+(1) No person, otherwise than with lawful authority or reasonable cause, shall take or retain hold of, or get on or off, a motor vehicle or trailer while it is in motion on any road.
 
 (2) No person shall drive or permit any person to drive any vehicle on a road towing another vehicle-
 
@@ -2473,7 +2631,7 @@ Provided that-
 
 (ii) a road authority or police officer of or above the rank of Inspector may authorize the erection of any traffic sign for any special purpose for a period not exceeding seven days, and such traffic sign shall be deemed to be lawful even though it does not conform to the requirements of this section.
 
-- For the purposes of this Act, all traffic signs shall be deemed to have been lawfully erected until the contrary is proved.
+(4) For the purposes of this Act, all traffic signs shall be deemed to have been lawfully erected until the contrary is proved.
 
 (5) A road authority may, by notice in writing, require the owner or occupier of any land on which there is any traffic sign or any object which so closely resembles a traffic sign that it might reasonably be taken to be such a sign, to remove it, and if any person fails to comply with such a notice the road authority may effect the removal and may recover the expense incurred in so doing as a civil debt recoverable summarily from the person so in default:
 
@@ -2497,17 +2655,17 @@ Copyright Government of Botswana
 
 [[START OF PAGE 49]]
 
-- A road authority may charge fees in respect of the parking of vehicles on a road or section thereof within its area of jurisdiction and may, for the purpose of collecting any such fees, instal parking meters.
+(1) A road authority may charge fees in respect of the parking of vehicles on a road or section thereof within its area of jurisdiction and may, for the purpose of collecting any such fees, instal parking meters.
 
-- The fees referred to in subsection (1) may differ in respect of different roads or different sections of the same road as the road authority thinks fit.
+(2) The fees referred to in subsection (1) may differ in respect of different roads or different sections of the same road as the road authority thinks fit.
 
-- A parking meter referred to in subsection (1) shall only be installed in conjunction with a demarcated parking place and shall bear thereon a legend indicating the days and hours when the requirements to deposit coins therein shall apply and the value of the coins to be deposited for a specified period of parking.
+(3) A parking meter referred to in subsection (1) shall only be installed in conjunction with a demarcated parking place and shall bear thereon a legend indicating the days and hours when the requirements to deposit coins therein shall apply and the value of the coins to be deposited for a specified period of parking.
 
-- The period of time for which a vehicle may be lawfully parked in a parking place referred to in subsection (3) shall, unless the contrary is proved, be as measured by the parking meter for such place.
+(4) The period of time for which a vehicle may be lawfully parked in a parking place referred to in subsection (3) shall, unless the contrary is proved, be as measured by the parking meter for such place.
 
-- All fees collected by a road authority by means of parking meters under this section shall be used only to defray the costs of and incidental to any scheme, works or undertaking for the improvement or regulation of traffic conditions within its area of jurisdiction, including the cost of installing and maintaining such meters.
+(5) All fees collected by a road authority by means of parking meters under this section shall be used only to defray the costs of and incidental to any scheme, works or undertaking for the improvement or regulation of traffic conditions within its area of jurisdiction, including the cost of installing and maintaining such meters.
 
-- The exercise by a road authority of its functions under this section shall not render the road authority subject to any liability in respect of the loss of or damage to any vehicle or the contents or fittings of any such vehicle while such vehicle is in a parking place.
+(6) The exercise by a road authority of its functions under this section shall not render the road authority subject to any liability in respect of the loss of or damage to any vehicle or the contents or fittings of any such vehicle while such vehicle is in a parking place.
 
 ### PART IX
 #### Accidents (ss 82-84)
@@ -2516,9 +2674,9 @@ Copyright Government of Botswana
 
 (1) If a vehicle is involved in or contributes to any accident whereby the death of or injury or damage to any person, property, cattle or other domestic animal is caused, the driver of the vehicle shall stop and, if requested to do so by any person having reasonable grounds for so requiring, give his name and address, the name and address of the owner of the vehicle and of the company with whom the vehicle is insured and the registration number of the vehicle.
 
-- Any other person in the vehicle at the time of the accident shall also, if required to do so, give his name and address.
+(2) Any other person in the vehicle at the time of the accident shall also, if required to do so, give his name and address.
 
-- In the case of such an accident, the driver of the vehicle shall report the accident at a police station or to a police officer as soon as it is reasonably practicable to do so and in any event within 48 hours immediately after the accident-
+(3) In the case of such an accident, the driver of the vehicle shall report the accident at a police station or to a police officer as soon as it is reasonably practicable to do so and in any event within 48 hours immediately after the accident-
 
 ( a ) if for any reason he does not, at the scene of the accident, supply the particulars referred to in subsection (1) in accordance with that subsection:
 
@@ -2532,11 +2690,11 @@ Provided that this paragraph shall not apply in the case of an accident whereby-
 
 ( c ) if, as a result of the accident, any vehicle is left in such a position, manner or condition as to obstruct or inconvenience or be likely to obstruct or inconvenience any traffic using a road or to constitute or be likely to constitute a danger to the public.
 
-- After reporting the accident at a police station or to a police officer in accordance with this section, the driver of the vehicle shall remain at the scene of the accident or return to the scene of the accident and wait until he has been authorized by a police officer to depart or unless he has to assist the injured or receive attention himself.
+(4) After reporting the accident at a police station or to a police officer in accordance with this section, the driver of the vehicle shall remain at the scene of the accident or return to the scene of the accident and wait until he has been authorized by a police officer to depart or unless he has to assist the injured or receive attention himself.
 
-- Until the driver of the vehicle concerned reports the accident to the police in accordance with this section, he shall not take any intoxicating liquor or drug unless it is prescribed by a medical practitioner or registered nurse.
+(5) Until the driver of the vehicle concerned reports the accident to the police in accordance with this section, he shall not take any intoxicating liquor or drug unless it is prescribed by a medical practitioner or registered nurse.
 
-- When stopping as required by this section, the driver of the vehicle concerned in the
+(6) When stopping as required by this section, the driver of the vehicle concerned in the
 
 Copyright Government of Botswana
 
@@ -2593,17 +2751,17 @@ Copyright Government of Botswana
 
 #### 87. Effects of disqualification or suspension
 
-- Where a court disqualifies a person from driving or suspends a licence under any provision of this Act, it shall require and obtain production of any driving licence held by the offender, shall cause particulars of the offence to be endorsed on the licence, and forward it to the Director together with a notice of the conviction and sentence.
+(1) Where a court disqualifies a person from driving or suspends a licence under any provision of this Act, it shall require and obtain production of any driving licence held by the offender, shall cause particulars of the offence to be endorsed on the licence, and forward it to the Director together with a notice of the conviction and sentence.
 
-- Where a driving licence has been suspended the Director shall retain such licence until the holder passes another driving test, when it shall be returned to the holder.
+(2) Where a driving licence has been suspended the Director shall retain such licence until the holder passes another driving test, when it shall be returned to the holder.
 
-- Where a court disqualifies a person from driving for a period in excess of six months, any driving licence held by such person shall be cancelled in respect of the class or classes of vehicles in respect of which the disqualification was made, and, at the end of the period of disqualification, the licensing officer shall treat such person as if he were applying for a driving licence in respect of such class or classes of vehicles for the first time, and shall in no circumstances issue him with a driving licence until he has passed the prescribed driving test.
+(3) Where a court disqualifies a person from driving for a period in excess of six months, any driving licence held by such person shall be cancelled in respect of the class or classes of vehicles in respect of which the disqualification was made, and, at the end of the period of disqualification, the licensing officer shall treat such person as if he were applying for a driving licence in respect of such class or classes of vehicles for the first time, and shall in no circumstances issue him with a driving licence until he has passed the prescribed driving test.
 
-- Any new driving licence issued to such person shall contain any endorsements that were on his previous licence.
+(4) Any new driving licence issued to such person shall contain any endorsements that were on his previous licence.
 
-- Where a court disqualifies a person from driving for a period of six months or less, the Director shall, on application by the holder and subject to the exercise of his powers under section 40 return the licence to the holder on the expiration of the period of disqualification.
+(5) Where a court disqualifies a person from driving for a period of six months or less, the Director shall, on application by the holder and subject to the exercise of his powers under section 40 return the licence to the holder on the expiration of the period of disqualification.
 
-- Where the suspension or disqualification by the court is limited to a particular class of vehicles, the Director shall, upon receipt of the licence, issue to the licence holder a new licence on which there shall be indicated in the prescribed manner the class or classes of vehicle which the licence holder is thereby authorized to drive.
+(6) Where the suspension or disqualification by the court is limited to a particular class of vehicles, the Director shall, upon receipt of the licence, issue to the licence holder a new licence on which there shall be indicated in the prescribed manner the class or classes of vehicle which the licence holder is thereby authorized to drive.
 
 #### 88. Driving whilst disqualified
 
@@ -2617,7 +2775,7 @@ shall be guilty of an offence and liable to a fine not exceeding P600 or to impr
 
 #### 89. Fraudulent application for driving licence
 
-- Any person who-
+(1) Any person who-
 
 ( a ) having had an application for a driving licence refused, or having been disqualified from driving or from holding or obtaining a driving licence, applies for and obtains a licence without disclosing the fact of such refusal or disqualification; or
 
@@ -2625,7 +2783,7 @@ shall be guilty of an offence and liable to a fine not exceeding P600 or to impr
 
 shall be guilty of an offence and liable to a fine not exceeding P600 or to imprisonment for a term not exceeding 18 months, or to both, and any driving licence so obtained shall be of no effect.
 
-- Where the accused is disqualified from driving or from holding or obtaining a driving licence, any period during which he has held such a fraudulently obtained licence shall be added to such period of disqualification.
+(2) Where the accused is disqualified from driving or from holding or obtaining a driving licence, any period during which he has held such a fraudulently obtained licence shall be added to such period of disqualification.
 
 #### 90. Particulars of endorsement to be inserted in new licence
 
@@ -2655,16 +2813,24 @@ person was by virtue of the order disqualified from driving and from holding or 
 #### 93. Driving under the influence of drink
 Any person who when driving or attempting to drive, or when in charge of a vehicle, other than a motor vehicle, on a road or in a public place, is under the influence of drink or drugs to such an extent as to be incapable of having proper control of the vehicle shall be guilty of an offence and shall be sentenced to a fine of not less than P50,00, or more than P500,00, or to imprisonment for a term of not less than two months or more than six months, or to both.
 #### 94. Reckless driving
-Any person who drives any vehicle, other than a motor vehicle, on a road or in a public place, recklessly or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road and the amount of traffic which is actually, or which might reasonably be expected to be on the road, at the time, shall be guilty of an offence and shall be sentenced to a fine of not less than P100,00 or more than P500,00, or to imprisonment for a term of not less than two months or more than six months, or to both. other than a motor vehicle, without due care or attention, shall be guilty of an offence and shall
+Any person who drives any vehicle, other than a motor vehicle, on a road or in a public place, recklessly or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road and the amount of traffic which is actually, or which might reasonably be expected to be on the road, at the time, shall be guilty of an offence and shall be sentenced to a fine of not less than P100,00 or more than P500,00, or to imprisonment for a term of not less than two months or more than six months, or to both.
 
 #### 95. Careless driving
-Any person who, on a road or in a public place, drives a vehicle be sentenced to a fine of not less than P50,00 or more than P500,00, or to imprisonment for a term of not less than one month or more than six months, or to both.
+Any person who, on a road or in a public place, drives a vehicle other than a motor vehicle, without due care or attention, shall be guilty of an offence and shall be sentenced to a fine of not less than P50,00 or more than P500,00, or to imprisonment for a term of not less than one month or more than six months, or to both.
 
 #### 96. Restrictions on riding cycles
 
-- No person shall ride a cycle on a road unless he is seated astride the saddle of such cycle. (2) Persons riding cycles on a road shall ride in single file except in the course of overtaking another cycle and two or more persons riding cycles shall not overtake another vehicle at the same time. (3) No person riding or seated on a cycle on a road shall take hold of any other vehicle in motion. (4) No person riding a cycle on a road shall deliberately cause such cycle to swerve from side to side. (5) No person riding a cycle on a road shall carry thereon any animal or article which obstructs his view or which prevents him from exercising complete control over the movements of such cycle. (6) No person riding a cycle on a road shall carry thereon more than one person who
+(1) No person shall ride a cycle on a road unless he is seated astride the saddle of such cycle.
 
-- shall not be carried otherwise than sitting on a carrier securely fixed to the cycle or on a step
+(2) Persons riding cycles on a road shall ride in single file except in the course of overtaking another cycle and two or more persons riding cycles shall not overtake another vehicle at the same time.
+
+(3) No person riding or seated on a cycle on a road shall take hold of any other vehicle in motion.
+
+(4) No person riding a cycle on a road shall deliberately cause such cycle to swerve from side to side.
+
+(5) No person riding a cycle on a road shall carry thereon any animal or article which obstructs his view or which prevents him from exercising complete control over the movements of such cycle.
+
+(6) No person riding a cycle on a road shall carry thereon more than one person who shall not be carried otherwise than sitting on a carrier securely fixed to the cycle or on a step
 
 Copyright Government of Botswana
 
@@ -2674,24 +2840,24 @@ Copyright Government of Botswana
 
 especially fitted to carry a passenger.
 
-- A person riding a cycle on a road shall do so with at least one hand on the handle-bars of such cycle.
+(7) A person riding a cycle on a road shall do so with at least one hand on the handle-bars of such cycle.
 
-- Whenever a road authority has set aside a portion of a road for use by persons riding cycles, no person shall ride a cycle on any other portion of such road, except for the purpose of crossing the road.
+(8) Whenever a road authority has set aside a portion of a road for use by persons riding cycles, no person shall ride a cycle on any other portion of such road, except for the purpose of crossing the road.
 
-- Any person contravening or failing to comply with any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding P20.
+(9) Any person contravening or failing to comply with any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding P20.
 
 ### PART XII
 #### Miscellaneous Provisions as to Roads (ss 97-106)
 
 #### 97. Restrictions on pedestrians
 
-- Whenever a sidewalk or footpath abuts on a road, a pedestrian shall not walk on such road except for the purpose of crossing from one side of such road to the other or for some other sufficient reason.
+(1) Whenever a sidewalk or footpath abuts on a road, a pedestrian shall not walk on such road except for the purpose of crossing from one side of such road to the other or for some other sufficient reason.
 
-- A pedestrian on a road which has no sidewalk or footpath abutting on it shall walk as near as is practicable to the edge of the road on his right hand side so as to face on-coming traffic on such road.
+(2) A pedestrian on a road which has no sidewalk or footpath abutting on it shall walk as near as is practicable to the edge of the road on his right hand side so as to face on-coming traffic on such road.
 
-- A pedestrian shall not cross a road without satisfying himself that the road is sufficiently free of on-coming traffic to permit him to do so in safety.
+(3) A pedestrian shall not cross a road without satisfying himself that the road is sufficiently free of on-coming traffic to permit him to do so in safety.
 
-- A pedestrian, when crossing a road, shall not loiter thereon but shall proceed with due despatch.
+(4) A pedestrian, when crossing a road, shall not loiter thereon but shall proceed with due despatch.
 
 (5) A pedestrian on a road shall not conduct himself in such a manner as to or as is likely to constitute a source of danger to himself or to other traffic which is or may be on such road.
 
@@ -2701,19 +2867,19 @@ The Minister may make regulations with respect to the precedence of vehicles and
 
 #### 99. Restrictions on animal-drawn vehicles on roads
 
-- No person shall operate an animal-drawn vehicle on a road unless the vehicle and the harness and other equipment thereof are in an efficient and safe condition.
+(1) No person shall operate an animal-drawn vehicle on a road unless the vehicle and the harness and other equipment thereof are in an efficient and safe condition.
 
-- The owner of an animal-drawn vehicle shall not cause or permit such vehicle to be used on a road by any person who is not competent to drive and control such vehicle.
+(2) The owner of an animal-drawn vehicle shall not cause or permit such vehicle to be used on a road by any person who is not competent to drive and control such vehicle.
 
-- The driver of an animal-drawn vehicle on a road shall at all times give his undivided attention to the driving of the vehicle under his control and, if the vehicle is standing on a road, the driver shall not cease to retain control over every animal which is still harnessed to the vehicle unless some other person competent to do so takes charge of every such animal or every such animal is so fastened that it cannot move from the place where it has been left.
+(3) The driver of an animal-drawn vehicle on a road shall at all times give his undivided attention to the driving of the vehicle under his control and, if the vehicle is standing on a road, the driver shall not cease to retain control over every animal which is still harnessed to the vehicle unless some other person competent to do so takes charge of every such animal or every such animal is so fastened that it cannot move from the place where it has been left.
 
-- The driver or other person in charge of a vehicle drawn by any animal shall not, on a road outside an urban area, permit such vehicle to follow any other vehicle similarly drawn at a distance of less than 150 metres reckoned from the foremost animal of such first-mentioned vehicle, except for the purpose of overtaking a vehicle travelling at a slower speed or when a vehicle travelling at a greater speed, having overtaken such vehicle, is drawing away from it.
+(4) The driver or other person in charge of a vehicle drawn by any animal shall not, on a road outside an urban area, permit such vehicle to follow any other vehicle similarly drawn at a distance of less than 150 metres reckoned from the foremost animal of such first-mentioned vehicle, except for the purpose of overtaking a vehicle travelling at a slower speed or when a vehicle travelling at a greater speed, having overtaken such vehicle, is drawing away from it.
 
-- The owner, driver or person in charge of a vehicle drawn by animals, shall not allow an animal which is of materially defective vision to be used for drawing such vehicle on a road.
+(5) The owner, driver or person in charge of a vehicle drawn by animals, shall not allow an animal which is of materially defective vision to be used for drawing such vehicle on a road.
 
-- No person shall drive or conduct any vehicle drawn by animals on a road without having reins to guide the animals, unless a person leads or drives the animals in such a manner as to have proper control over them.
+(6) No person shall drive or conduct any vehicle drawn by animals on a road without having reins to guide the animals, unless a person leads or drives the animals in such a manner as to have proper control over them.
 
-- Any person who contravenes or fails to comply with any of the provisions of this
+(7) Any person who contravenes or fails to comply with any of the provisions of this
 
 Copyright Government of Botswana
 
@@ -2731,7 +2897,9 @@ section shall be liable to a fine not exceeding P100.
 
 ( b ) play any games to the annoyance, inconvenience or danger of persons using the road;
 
-( c ) wilfully obstruct the free passage of persons or vehicles passing along the road. (2) No owner or person in charge of any cattle or other animals shall-
+( c ) wilfully obstruct the free passage of persons or vehicles passing along the road.
+
+(2) No owner or person in charge of any cattle or other animals shall-
 
 ( a ) permit such cattle or other animals to be on a main road unless they are attended by a person in such a manner as to have proper control over them;
 
@@ -2877,23 +3045,23 @@ Copyright Government of Botswana
 
 Provided that, where a period is so prescribed, a licence issued before the period is prescribed shall not be valid solely by reason that the period for which it was issued is different from that prescribed.
 
-- Where any public service vehicle licence is cancelled for any reason during the period of its validity, no refund of licence fee shall be made in respect of the unexpired period of such licence.
+(3) Where any public service vehicle licence is cancelled for any reason during the period of its validity, no refund of licence fee shall be made in respect of the unexpired period of such licence.
 
-- Every licence issued under this section shall be carried on the vehicle to which it relates in the prescribed manner.
+(4) Every licence issued under this section shall be carried on the vehicle to which it relates in the prescribed manner.
 
-- A public service vehicle licence shall not be transferred or assigned to any other person or vehicle.
+(5) A public service vehicle licence shall not be transferred or assigned to any other person or vehicle.
 
-- Whenever the holder of any public service vehicle licence ceases to be the owner of the vehicle specified in the licence, he shall forthwith return such licence to the Director for cancellation, and the vehicle shall from the date of such change of ownership cease to be licensed as a public service vehicle.
+(6) Whenever the holder of any public service vehicle licence ceases to be the owner of the vehicle specified in the licence, he shall forthwith return such licence to the Director for cancellation, and the vehicle shall from the date of such change of ownership cease to be licensed as a public service vehicle.
 
 (7) If any public service vehicle licence is lost, or becomes illegible, the owner of the vehicle to which such licence relates shall forthwith apply to the Director in the prescribed form for a duplicate thereof and shall return any illegible licence to the Director for cancellation; the Director shall, on payment of the prescribed fee and on being satisfied as to the loss or illegibility, issue a duplicate of such licence.
 
-- Where any public service vehicle licence which has been lost is subsequently found, any duplicate public service vehicle licence issued under this subsection shall forthwith be delivered up to the Director for cancellation.
+(8) Where any public service vehicle licence which has been lost is subsequently found, any duplicate public service vehicle licence issued under this subsection shall forthwith be delivered up to the Director for cancellation.
 
 #### 110.  Drivers and conductors of public service vehicles
 
-- Any person who drives or acts as the conductor of a public service vehicle without being licensed for that purpose under this Part, and any person who employs or permits any person who is not so licensed shall be guilty of an offence and shall be sentenced to a fine of not less than P300,00 or more than P1 000,00, or to imprisonment for a term of not less than three months or more than 12 months, and, for each subsequent offence, to a fine of not less than P600,00 or more than P2 000,00, or to imprisonment for a term of not less than six months or more than 24 months.
+(1) Any person who drives or acts as the conductor of a public service vehicle without being licensed for that purpose under this Part, and any person who employs or permits any person who is not so licensed shall be guilty of an offence and shall be sentenced to a fine of not less than P300,00 or more than P1 000,00, or to imprisonment for a term of not less than three months or more than 12 months, and, for each subsequent offence, to a fine of not less than P600,00 or more than P2 000,00, or to imprisonment for a term of not less than six months or more than 24 months.
 
-- Subject to the other provisions of this section and to such other provisions as may be prescribed for the purposes of this section, upon application being made in the prescribed manner and form and upon payment of the prescribed fee, the Director shall issue the licence applied for.
+(2) Subject to the other provisions of this section and to such other provisions as may be prescribed for the purposes of this section, upon application being made in the prescribed manner and form and upon payment of the prescribed fee, the Director shall issue the licence applied for.
 
 (3) In the case of an application under this section for a licence to drive a public service vehicle, the Director shall refuse to issue the licence unless-
 
@@ -2917,7 +3085,7 @@ pardon, the conviction or sentence has not been set aside or some other punishme
 
 ( d ) the applicant produces a certificate, dated within the immediately preceding period of 30 days and signed by a medical practitioner, certifying that the applicant is not, in the signatory's opinion, suffering from any disease or disability which would impair or be likely to impair his ability to drive vehicles of the class or classes in respect of which the application is made.
 
-- In the case of an application under this section for a public service vehicle driver's licence, the Director may refuse to issue the licence until the applicant has passed a driving test of the class or classes of vehicle in respect of which the application is made.
+(4) In the case of an application under this section for a public service vehicle driver's licence, the Director may refuse to issue the licence until the applicant has passed a driving test of the class or classes of vehicle in respect of which the application is made.
 
 (5) In the case of an application under this section for a licence to act as the conductor of a public service vehicle, the Director shall refuse to issue the licence unless-
 
@@ -2931,17 +3099,17 @@ pardon, the conviction or sentence has not been set aside or some other punishme
 
 ( b ) in the case of an application by that person for a public service vehicle conductor's licence, to waive the requirement that he produce a certificate.
 
-- Every application under subsection (6) shall set out in full the submissions which the applicant wishes the Minister to take into account in determining the application.
+(7) Every application under subsection (6) shall set out in full the submissions which the applicant wishes the Minister to take into account in determining the application.
 
-- The Minister shall consider every application made to him under subsection (6) and may, if he is satisfied that the interests of the public are unlikely to be prejudiced thereby, direct the Director in writing to waive the relevant requirement, and the Director shall comply with that direction.
+(8) The Minister shall consider every application made to him under subsection (6) and may, if he is satisfied that the interests of the public are unlikely to be prejudiced thereby, direct the Director in writing to waive the relevant requirement, and the Director shall comply with that direction.
 
-- The Director may issue a public service vehicle driver's or conductor's licence subject to such conditions as he thinks fit.
+(9) The Director may issue a public service vehicle driver's or conductor's licence subject to such conditions as he thinks fit.
 
-- A public service vehicle driver's or conductor's licence shall be valid for two years unless cancelled earlier under this Part; and, where such a licence is cancelled for any reason, no refund of the licence fee shall be payable in respect of any unexpired period of the licence.
+(10) A public service vehicle driver's or conductor's licence shall be valid for two years unless cancelled earlier under this Part; and, where such a licence is cancelled for any reason, no refund of the licence fee shall be payable in respect of any unexpired period of the licence.
 
-- A person licensed as a driver or conductor of a public service vehicle shall not drive or act as the conductor of such a vehicle whilst it is carrying passengers on a road unless he is wearing the prescribed badge.
+(11) A person licensed as a driver or conductor of a public service vehicle shall not drive or act as the conductor of such a vehicle whilst it is carrying passengers on a road unless he is wearing the prescribed badge.
 
-- In the event of a public service vehicle driver's or conductor's licence or badge being lost, destroyed or defaced or becoming illegible, the holder thereof shall forthwith apply to
+(12) In the event of a public service vehicle driver's or conductor's licence or badge being lost, destroyed or defaced or becoming illegible, the holder thereof shall forthwith apply to
 
 Copyright Government of Botswana
 
@@ -3032,7 +3200,7 @@ for the purpose of carrying out any examination and test of any vehicle with a v
 
 (3) A police officer or motor vehicle examiner who orders the removal of a vehicle under this section shall not be held liable for any damage to or loss of any item from such vehicle during its removal to or detention at a police station or other place of safety.
 
-- Any police officer of or above the rank of Inspector or who is in charge of a police station, any licensing officer, any motor vehicle examiner or the Director, if he is of the opinion that any vehicle is being used in contravention of section 61 or 62 or in contravention of any regulations relating to the construction, use and equipment of vehicles, may by order prohibit the use of such vehicle, under such conditions and for such purposes as he may consider necessary for the safety of the public or to ensure that such vehicle does comply with the aforementioned provisions; and any such order shall remain in force until the repairs specified
+(4) Any police officer of or above the rank of Inspector or who is in charge of a police station, any licensing officer, any motor vehicle examiner or the Director, if he is of the opinion that any vehicle is being used in contravention of section 61 or 62 or in contravention of any regulations relating to the construction, use and equipment of vehicles, may by order prohibit the use of such vehicle, under such conditions and for such purposes as he may consider necessary for the safety of the public or to ensure that such vehicle does comply with the aforementioned provisions; and any such order shall remain in force until the repairs specified
 
 Copyright Government of Botswana
 
@@ -3042,13 +3210,13 @@ Copyright Government of Botswana
 
 therein have been satisfactorily completed and the vehicle has been certified as complying with the aforesaid conditions with respect to construction, use, equipment and weight.
 
-- Any person who uses any vehicle in respect of which any prohibition or restriction is in force other than in conformity with any conditions or for such purpose as may have been specified shall be guilty of an offence and liable to a fine not exceeding P400 or to imprisonment for a term not exceeding 12 months, or to both.
+(5) Any person who uses any vehicle in respect of which any prohibition or restriction is in force other than in conformity with any conditions or for such purpose as may have been specified shall be guilty of an offence and liable to a fine not exceeding P400 or to imprisonment for a term not exceeding 12 months, or to both.
 
-- Any order issued under this section shall be in writing.
+(6) Any order issued under this section shall be in writing.
 
-- Where any vehicle is required to be examined and tested for the purpose of being certified as complying with the provisions of this Act, the fee, if any, shall be paid by the owner of the vehicle.
+(7) Where any vehicle is required to be examined and tested for the purpose of being certified as complying with the provisions of this Act, the fee, if any, shall be paid by the owner of the vehicle.
 
-- Any person who fails to comply with any instruction or order given under this section shall be guilty of an offence and liable to a fine not exceeding P50.
+(8) Any person who fails to comply with any instruction or order given under this section shall be guilty of an offence and liable to a fine not exceeding P50.
 
 #### 118.  Detention of vehicles
 
@@ -3056,11 +3224,11 @@ A police officer may detain at a police station or other place of safety any veh
 
 #### 119.  Certificates admissible in evidence
 
-- If in any proceedings under this Act any question arises as to whether a vehicle does or does not comply with this Act, the certificate of a motor vehicle examiner to the effect that he has examined the vehicle and as to the result of his examination may be read as evidence although the motor vehicle examiner is not called as a witness.
+(1) If in any proceedings under this Act any question arises as to whether a vehicle does or does not comply with this Act, the certificate of a motor vehicle examiner to the effect that he has examined the vehicle and as to the result of his examination may be read as evidence although the motor vehicle examiner is not called as a witness.
 
-- The court, if it thinks fit, may summon and examine the motor vehicle examiner as to the subject matter of his certificate.
+(2) The court, if it thinks fit, may summon and examine the motor vehicle examiner as to the subject matter of his certificate.
 
-- In any proceedings under this Act an extract from the records of registered vehicles, certified under the hand of the Director or a licensing officer, may be received in evidence although the Director or licensing officer is not called as a witness, and shall be prima facie evidence of the facts therein set forth.
+(3) In any proceedings under this Act an extract from the records of registered vehicles, certified under the hand of the Director or a licensing officer, may be received in evidence although the Director or licensing officer is not called as a witness, and shall be prima facie evidence of the facts therein set forth.
 
 #### 120.  Owner or other person to furnish name and address of driver of vehicle
 
@@ -3068,11 +3236,11 @@ The owner of any vehicle and any other person who is able to provide such inform
 
 #### 121.  Owner to keep list of drivers employed
 
-- Any person who employs any other person to drive a motor vehicle shall keep a written record of the name, address and driving licence number of such other person.
+(1) Any person who employs any other person to drive a motor vehicle shall keep a written record of the name, address and driving licence number of such other person.
 
-- Such record shall be preserved for a period of six months after the date when such person ceases to be employed as a driver, and shall be made available to any police officer on demand.
+(2) Such record shall be preserved for a period of six months after the date when such person ceases to be employed as a driver, and shall be made available to any police officer on demand.
 
-- Any person who fails to comply with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding P50.
+(3) Any person who fails to comply with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding P50.
 
 #### 122.  Verification of facts
 
@@ -3108,20 +3276,20 @@ Provided that-
 
 (ii) failure to comply with this requirement shall not be a bar to the conviction of the accused in any case where the court is satisfied that the name and address of the accused could not with reasonable diligence have been ascertained in time for such notice to be served as aforesaid, or that the accused by his own conduct contributed to the failure.
 
-- Such notice as aforesaid shall for all purposes be regarded as a summons issued under the    Criminal Procedure and Evidence Act.
+(2) Such notice as aforesaid shall for all purposes be regarded as a summons issued under the Criminal Procedure and Evidence Act.
 
-- A copy of such notice as aforesaid shall be placed before the court by which the charge is to be heard before the time fixed for such hearing.
+(3) A copy of such notice as aforesaid shall be placed before the court by which the charge is to be heard before the time fixed for such hearing.
 
 #### 127.  Axle load, weight and dimensions
 (1) Notwithstanding and in addition to the provisions of section 126 and any other provision of the Act, the following provisions of this section shall apply in respect of axle-load violations, and to offences under sections 61 and 62 of this Act.
 
-- The Minister may by notice in the Gazette appoint specified public officers to be authorized officers for the purposes of this section.
+(2) The Minister may by notice in the Gazette appoint specified public officers to be authorized officers for the purposes of this section.
 
-- Such an authorized officer may issue notification of a traffic offence to any person reasonably suspected of exceeding the axle load restrictions prescribed by the Road Transport (Permits) Regulations, or of offences under sections 61 and 62 of this Act setting out the offence, and the penalty for such offence in accordance with the tables set out in the Schedule to or otherwise in this Act.
+(3) Such an authorized officer may issue notification of a traffic offence to any person reasonably suspected of exceeding the axle load restrictions prescribed by the Road Transport (Permits) Regulations, or of offences under sections 61 and 62 of this Act setting out the offence, and the penalty for such offence in accordance with the tables set out in the Schedule to or otherwise in this Act.
 
-- If the offender wishes to plead guilty in writing, the authorized officer is hereby empowered to accept such written plea, and the appropriate penalty as set out in the said Schedule or otherwise in this Act. He will then forward the notification of the written plea of guilty, and the appropriate penalty, to the nearest court in the area in which the offence took place.
+(4) If the offender wishes to plead guilty in writing, the authorized officer is hereby empowered to accept such written plea, and the appropriate penalty as set out in the said Schedule or otherwise in this Act. He will then forward the notification of the written plea of guilty, and the appropriate penalty, to the nearest court in the area in which the offence took place.
 
-- If the offender does not plead guilty in writing and pay the appropriate penalty, the procedure as set out in section 126 shall be followed, as appropriate, the authorized officer
+(5) If the offender does not plead guilty in writing and pay the appropriate penalty, the procedure as set out in section 126 shall be followed, as appropriate, the authorized officer
 
 Copyright Government of Botswana
 
@@ -3135,7 +3303,7 @@ being substituted for the police officer therein referred to, and the offences a
 
 (7) Notwithstanding any other provision in this section, where there is an axle load violation, an authorized officer shall require any excess load to be off-loaded before allowing the vehicle to proceed further and where there are offences under sections 61 and 62 of this Act an authorized officer shall require the offending vehicle to be made to conform with the requirements of the sections before allowing it to proceed further.
 
-- In respect of an offence under section 61 or section 62 of this Act, and notwithstanding the provisions of section 63, where the offender wishes to plead guilty in writing and pay the appropriate penalty to the authorized officer, the statutory penalty for the offence shall be P300.
+(8) In respect of an offence under section 61 or section 62 of this Act, and notwithstanding the provisions of section 63, where the offender wishes to plead guilty in writing and pay the appropriate penalty to the authorized officer, the statutory penalty for the offence shall be P300.
 
 #### 128.  Scheduled traffic offences
 
@@ -3145,9 +3313,9 @@ being substituted for the police officer therein referred to, and the offences a
 
 ( b ) a form of police notification of a traffic offence for use under this section.
 
-- Subject as herein, any statutory penalty prescribed under subsection (1) shall, notwithstanding that any other penalty may be prescribed by this Act, have effect for offences dealt with under this section.
+(2) Subject as herein, any statutory penalty prescribed under subsection (1) shall, notwithstanding that any other penalty may be prescribed by this Act, have effect for offences dealt with under this section.
 
-- Notwithstanding any provision contained in this or any other written law, it shall be lawful for any police officer to serve, either personally or by affixing the same prominently to the vehicle concerned, upon the owner or person in charge of any motor vehicle who is reasonably suspected of having committed any of the scheduled offences, a police notification of a traffic offence in the prescribed form charging such person with having committed the offence or offences indicated in the notification and requiring such person to attend court to answer such charge or charges, at such time (not being sooner than 21 days after the date of such service) as is shown on such notification.
+(3) Notwithstanding any provision contained in this or any other written law, it shall be lawful for any police officer to serve, either personally or by affixing the same prominently to the vehicle concerned, upon the owner or person in charge of any motor vehicle who is reasonably suspected of having committed any of the scheduled offences, a police notification of a traffic offence in the prescribed form charging such person with having committed the offence or offences indicated in the notification and requiring such person to attend court to answer such charge or charges, at such time (not being sooner than 21 days after the date of such service) as is shown on such notification.
 
 (4) Such notification as aforesaid shall for all purposes be regarded as a summons issued under the Criminal Procedure and Evidence Act:
 
@@ -3155,7 +3323,7 @@ Provided that the person served with the notification shall not be obliged to at
 
 (5) A copy of the notification shall be placed before the court by which the charge is to be dealt with at the time fixed for the attendance of the accused to answer the charge, and, unless the court otherwise directs, such copy may be used as a charge sheet.
 
-- If any person having been served with a notification issued under this section fails either to attend the court on the day and at the time specified in such notice or to plead guilty and pay the statutory penalty in the manner indicated before such day, he may be brought before the court either by summons or by warrant.
+(6) If any person having been served with a notification issued under this section fails either to attend the court on the day and at the time specified in such notice or to plead guilty and pay the statutory penalty in the manner indicated before such day, he may be brought before the court either by summons or by warrant.
 
 (7) If any person served with a notification under this section fails to comply with such notification, and cannot with reasonable diligence be found, the registered owner of the vehicle or, when the registered owner is a company, the person appointed by the company for the purposes of this subsection or, in default of such appointment, the secretary, or person performing the duties of secretary, of such company, shall be liable for the offence unless it is shown by such person, owner or secretary, as the case may be, that he was not driving or in charge of the vehicle at the relevant time and he satisfies the court that he has given all information at his disposal to the police or the court to enable the person who was driving or in charge at the relevant time to be summoned.
 
@@ -3278,16 +3446,24 @@ Notwithstanding the provisions of section 307(1) of the    Criminal Procedure an
 
 ##### ( a ) FOUR TYRES PER AXLE-
 
-permitted axle weight - 8200 kg) Axle Weight in kg | Penalty in Pula
+(Maximum permitted axle weight - 8200 kg)
+
+Axle Weight in kg | Penalty in Pula
 --- | ---
 8601 - 9500 | 250
 9501 - 10500 | 400
 10501 - 11500 | 600
 11501 - 12500 | 900
-12501 - 13500 | 1 830
+12501 - 13500 | 1 300
+13501 - 14500 | 1 830
 14501 - 15500 | 2 500
+
 ##### ( b ) TWO TYRES PER AXLE-
-(Maximum permitted axle weight - 7700 Axle Weight in kg | kg) Penalty in Pula
+
+(Maximum permitted axle weight - 7700 kg)
+
+Axle Weight in kg | Penalty in Pula
+--- | ---
 8101 - 9000 | 260
 9001 - 10000 | 410
 10001 - 11000 | 650
@@ -3300,25 +3476,25 @@ permitted axle weight - 8200 kg) Axle Weight in kg | Penalty in Pula
 
 ### ARRANGEMENT OF SECTIONS
 
+SECTION
+
 #### PART I
 
 ##### Preliminary
+
+1. Short title
+
+2. Interpretation
 
 #### PART II
 
 ##### Establishment of Fund
 
-- Continuance of Motor Vehicle Accident Fund
+3. Continuance of Motor Vehicle Accident Fund
 
-- Purpose of Fund
+4. Purpose of Fund
 
-- Establishment of Board of Fund
-
-SECTION
-
-- Short title
-
-- Interpretation
+5. Establishment of Board of Fund
 
 Copyright Government of Botswana
 
@@ -3326,97 +3502,96 @@ Copyright Government of Botswana
 
 [[START OF PAGE 67]]
 
-- Membership of Board
+6. Membership of Board
 
-- Disqualification for appointment as Board member
+7. Disqualification for appointment as Board member
 
-- Vacation of office by Board members
+8. Vacation of office by Board members
 
-- Removal and suspension of member from office
+9. Removal and suspension of member from office
 
-- Filling of vacancies of Board
+10. Filling of vacancies of Board
 
-- Payment of Board members
+11. Payment of Board members
 
 #### PART III
 
 ##### Meetings and Proceedings of Board
 
-- Meetings of Board
+12. Meetings of Board
 
-- Declaration of interest by Board Members
+13. Declaration of interest by Board Members
 
-- Signification of documents
+14. Signification of documents
 
 #### PART IV
 
 ##### Officers and Staff of Fund
 
-- Appointment of Chief Executive Officer and other staff
+15. Appointment of Chief Executive Officer and other staff
 
 #### PART V
 
 ##### Powers, functions and duties of Fund
 
-- Powers of Fund
-
-- Monies of the Fund
-
-- Accounts and audit
-
-- Annual report
-
-- Liability of Fund
-
-- Trusts
-
-- Limitations of liability
-
-- Exclusions of liability
-
-- Claimant's other rights reserved
-
-- Responsibility to report accidents
-
-- Procedure for making claims
-
-- Legal proceedings
-
-- Order for interest or costs by court
-
-- Prescription of right to claim
-
-- Right of recovery
-
-- Evidence and presumptions
-
-#### PART VIII
-
-##### Miscellaneous Provisions
-
-- Regulations
-
-- Repeal of Cap. 69:02
-
-- Savings
-
-- Transitional provisions
+16. Powers of Fund
 
 #### PART VI
 
 ##### Financial provisions
 
+17. Monies of the Fund
+
+18. Accounts and audit
+
+19. Annual report
+
 #### PART VII
 
 ##### Liability of Fund
 
+20. Liability of Fund
+
+21. Trusts
+
+22. Limitations of liability
+
+23. Exclusions of liability
+
+24. Claimant's other rights reserved
+
+25. Responsibility to report accidents
+
+26. Procedure for making claims
+
+27. Legal proceedings
+
+28. Order for interest or costs by court
+
+29. Prescription of right to claim
+
+30. Right of recovery
+
+31. Evidence and presumptions
+
+#### PART VIII
+
+##### Miscellaneous Provisions
+
+32. Regulations
+
+33. Repeal of Cap. 69:02
+
+34. Savings
+
+35. Transitional provisions
+
 Act 15, 2007,
+S.I. 65, 2008.
 
 An Act to provide for the establishment, management and administration of the Motor Vehicle Accident Fund; to provide for the compensation, care, benefits, medical management and rehabilitation of victims of motor vehicle accidents; to provide third party insurance cover to drivers and owners of motor vehicles and for matters incidental thereto and connected therewith.
 
 Copyright Government of Botswana
-
-S.I. 65, 2008.
 
 [[END OF PAGE 67]]
 
@@ -3486,29 +3661,51 @@ Copyright Government of Botswana
 
 (1) The Motor Vehicle Accident Fund, established in terms of section 3 of the Act repealed under section 33, shall continue to exist as if established under this Act. (2) The Motor Vehicle Accident Fund is a body corporate with full capacity to sue or be sued in its own name, and to do all such things as bodies corporate may, by law, do and as may be necessary or incidental to the exercise of its powers and the performance of its functions under this Act.
 
-#### Purpose of Fund
+#### 4. Purpose of Fund
 
-- The purpose for which the Fund is established is-( a ) to provide compensation in the form of benefits as defined in section 20; ( b ) to provide third party insurance cover to drivers and owners of motor vehicles in accordance with the provisions of section 20; ( c ) to promote road safety and accident prevention; and ( d ) to deal with all matters incidental to the carrying out of paragraphs ( a ), ( b ) and ( c ).
+(1) The purpose for which the Fund is established is-
+
+( a ) to provide compensation in the form of benefits as defined in section 20;
+
+( b ) to provide third party insurance cover to drivers and owners of motor vehicles in accordance with the provisions of section 20;
+
+( c ) to promote road safety and accident prevention; and
+
+( d ) to deal with all matters incidental to the carrying out of paragraphs ( a ), ( b ) and ( c ).
 
 (2) For the purposes of this section, "third party insurance cover" means indemnity against bodily injury, or death, arising out of a motor vehicle accident, including claimant's costs, emergency treatment and hospital expenses.
 
-#### Establishment of Board of Fund
+#### 5. Establishment of Board of Fund
 
 There shall be a Board of the Motor Vehicle Accident Fund, constituted in accordance with section 6, in which, subject to the provisions of section 16, the powers and functions of the Fund shall be vested.
 
-#### Membership of Board
+#### 6. Membership of Board
 
-(1) The Board shall consist of the following eight members who shall be appointed by the
+(1) The Board shall consist of the following eight members who shall be appointed by the Minister, and three of whom shall not be public officers-
 
-Minister, and three of whom shall not be public officers-( a ) one person who is a health practitioner; ( b ) one person who possesses investment skills; ( c ) one person who possesses road accident reconstruction or prevention skills or comes from the motor vehicle accident compensation industry; ( d ) one attorney or advocate; ( e ) one person who shall be a member of the Road Safety Committee, provided that such a person shall not be an employee of the Fund; and ( f ) three other persons holding such qualifications and possessing such skills and experience as the Minister considers appropriate for the proper functioning of the Board. (2) The Minister shall appoint the Chairperson of the Board from amongst the eight members. (3) Each member shall be appointed for a term not exceeding three years, as the
+( a ) one person who is a health practitioner;
 
-Minister may decide, and shall be eligible for reappointment.
+( b ) one person who possesses investment skills;
 
-#### Disqualification for appointment as Board member
+( c ) one person who possesses road accident reconstruction or prevention skills or comes from the motor vehicle accident compensation industry;
 
-A person shall be ineligible for appointment to the Board if he or she-( a ) has, in terms of any law in force in any countrybeen adjudged or otherwise declared insolvent or bankrupt and has not been
+( d ) one attorney or advocate;
 
-(i) rehabilitated or discharged,
+( e ) one person who shall be a member of the Road Safety Committee, provided that such a person shall not be an employee of the Fund; and
+
+( f ) three other persons holding such qualifications and possessing such skills and experience as the Minister considers appropriate for the proper functioning of the Board.
+
+(2) The Minister shall appoint the Chairperson of the Board from amongst the eight members.
+
+(3) Each member shall be appointed for a term not exceeding three years, as the Minister may decide, and shall be eligible for reappointment.
+
+#### 7. Disqualification for appointment as Board member
+
+A person shall be ineligible for appointment to the Board if he or she-
+
+( a ) has, in terms of any law in force in any country-
+
+(i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged,
 
 Copyright Government of Botswana
 
@@ -3583,17 +3780,17 @@ A member of the Board shall be paid such remuneration, allowances and travelling
 
 #### 12. Meetings of Board
 
-- The Board shall meet as often as the business of the Fund may require, but not less frequently than once in each quarter of the year.
+(1) The Board shall meet as often as the business of the Fund may require, but not less frequently than once in each quarter of the year.
 
-- Subject to the provisions of this Act, the Board may regulate its own procedure.
+(2) Subject to the provisions of this Act, the Board may regulate its own procedure.
 
-- The Chairperson of the Board shall convene ordinary meetings of the Board as often as the business of the Fund may require.
+(3) The Chairperson of the Board shall convene ordinary meetings of the Board as often as the business of the Fund may require.
 
-- Upon giving notice in writing of not less than seven days, a meeting of the Board may be called by the Chairperson:
+(4) Upon giving notice in writing of not less than seven days, a meeting of the Board may be called by the Chairperson:
 
 Provided that if the urgency of any matter does not permit the giving of such notice, a special meeting may be called upon giving a shorter notice.
 
-- There shall preside, at any meeting of the Board-
+(5) There shall preside, at any meeting of the Board-
 
 ( a ) the Chairperson;
 
@@ -3601,21 +3798,21 @@ Provided that if the urgency of any matter does not permit the giving of such no
 
 ( c ) in the absence of the Chairperson and Vice Chairperson, such member as the members present may elect from amongst themselves for the purpose of that meeting.
 
-- The conduct of business at Board meetings shall be minuted, and such minutes, when passed as correct by the Board, shall then be kept by the Fund as a permanent record.
+(6) The conduct of business at Board meetings shall be minuted, and such minutes, when passed as correct by the Board, shall then be kept by the Fund as a permanent record.
 
-- All decisions of the Board shall be passed by a simple majority of the members present thereat, on open ballot, with the Chairperson having a casting vote.
+(7) All decisions of the Board shall be passed by a simple majority of the members present thereat, on open ballot, with the Chairperson having a casting vote.
 
-- A quorum at any meeting shall consist of any four members of the Board.
+(8) A quorum at any meeting shall consist of any four members of the Board.
 
 #### 13. Declaration of interest by Board Members
 
-- Where a member of the Board is present at a meeting of the Board or any committee or subcommittee of the Board at which any matter being discussed thereat is one in which the member is directly or indirectly interested in a private capacity, he or she shall, as soon as practicable after the commencement of the meeting, disclose such interest and shall not, unless the Board otherwise directs, take part in any consideration or discussion of, or vote on, any question concerning such matter.
+(1) Where a member of the Board is present at a meeting of the Board or any committee or subcommittee of the Board at which any matter being discussed thereat is one in which the member is directly or indirectly interested in a private capacity, he or she shall, as soon as practicable after the commencement of the meeting, disclose such interest and shall not, unless the Board otherwise directs, take part in any consideration or discussion of, or vote on, any question concerning such matter.
 
-- A disclosure of interest made under this section shall be recorded in the minutes of the meeting at which it is made.
+(2) A disclosure of interest made under this section shall be recorded in the minutes of the meeting at which it is made.
 
-- A member who contravenes the provisions of this section may be removed from the Board by the Minister, in which case the Minister shall appoint another person to the Board in accordance with the provisions of section 6 for the remaining period of the removed member's term of office.
+(3) A member who contravenes the provisions of this section may be removed from the Board by the Minister, in which case the Minister shall appoint another person to the Board in accordance with the provisions of section 6 for the remaining period of the removed member's term of office.
 
-- Any member who fails to comply with the provisions of this section shall be guilty of an offence and shall be liable to a fine not exceeding P10,000 or to imprisonment for a term not exceeding 10 years.
+(4) Any member who fails to comply with the provisions of this section shall be guilty of an offence and shall be liable to a fine not exceeding P10,000 or to imprisonment for a term not exceeding 10 years.
 
 #### 14. Signification of documents
 
@@ -3636,19 +3833,19 @@ Copyright Government of Botswana
 
 (2) In advising the Minister in terms of this section the Board shall not recommend a person as Chief Executive Officer unless such person has the training, experience, and skills relevant to the Fund's needs, and is a person of integrity.
 
-- The Chief Executive Officer shall, subject to such directions on matters of policy as may be given by the Board, be charged with the administration of the Fund, and of the supervision of the employees of the Fund.
+(3) The Chief Executive Officer shall, subject to such directions on matters of policy as may be given by the Board, be charged with the administration of the Fund, and of the supervision of the employees of the Fund.
 
-- The Chief Executive Officer may resign from office by giving notice in writing to the Minister in terms of his or her contract of employment.
+(4) The Chief Executive Officer may resign from office by giving notice in writing to the Minister in terms of his or her contract of employment.
 
-- The Chief Executive Officer may be removed from office by the Minister in terms of his or her contract of employment.
+(5) The Chief Executive Officer may be removed from office by the Minister in terms of his or her contract of employment.
 
-- The Board may, upon such terms and conditions and for such period as may be determined by the Board, appoint the Deputy Chief Executive Officer and any other senior officer as may be necessary for the proper discharge of the functions of the Fund.
+(6) The Board may, upon such terms and conditions and for such period as may be determined by the Board, appoint the Deputy Chief Executive Officer and any other senior officer as may be necessary for the proper discharge of the functions of the Fund.
 
-- The Board shall not appoint a person as Deputy Chief Executive Officer or as a senior officer unless such person has the experience and skills relevant to the Fund's special needs.
+(7) The Board shall not appoint a person as Deputy Chief Executive Officer or as a senior officer unless such person has the experience and skills relevant to the Fund's special needs.
 
-- The dismissal of the Deputy Chief Executive Officer and other senior officers of the Fund shall be carried out by the Board on the recommendation of the Chief Executive Officer, and the dismissal of all other officers shall be carried out by the Chief Executive Officer or such senior officer as he or she may delegate to perform that function.
+(8) The dismissal of the Deputy Chief Executive Officer and other senior officers of the Fund shall be carried out by the Board on the recommendation of the Chief Executive Officer, and the dismissal of all other officers shall be carried out by the Chief Executive Officer or such senior officer as he or she may delegate to perform that function.
 
-- The terms and conditions of employment of the staff of the Fund shall be as may be directed by the Board.
+(9) The terms and conditions of employment of the staff of the Fund shall be as may be directed by the Board.
 
 ### PART V
 
@@ -3656,7 +3853,7 @@ Copyright Government of Botswana
 
 #### 16. Powers of Fund
 
-- Subject to the provisions of this Act, the Fund shall be responsible for the formulation of the policy and management of the financial and administrative affairs concerning the Fund.
+(1) Subject to the provisions of this Act, the Fund shall be responsible for the formulation of the policy and management of the financial and administrative affairs concerning the Fund.
 
 (2) Without derogation from the generality of the powers conferred by sections 4, 5, and subsection (1) the Fund shall have the power to -
 
@@ -3684,17 +3881,17 @@ Copyright Government of Botswana
 
 [[START OF PAGE 73]]
 
-- accidents involving vehicles registered or licensed in a territory other than Botswana; and
+accidents involving vehicles registered or licensed in a territory other than Botswana; and
 
 ( j ) do all such things as are incidental or conducive to the exercise of the Fund's powers or the performance of the Fund's duties under this Act.
 
-- The Fund may impose civil penalties on any person liable for failing to comply with the provisions of section 17.
+(3) The Fund may impose civil penalties on any person liable for failing to comply with the provisions of section 17.
 
-- A civil penalty imposed as provided in subsection (3) is recoverable as a fine imposed by a court under section 303 (1) to (4) (inclusive) of the    Criminal Procedure and Evidence Act, and an affidavit sworn by a member of the Board or an authorised employee of the Fund is sufficient proof of the lawful imposition of the monetary penalty to enable a court to issue a warrant under that section.
+(4) A civil penalty imposed as provided in subsection (3) is recoverable as a fine imposed by a court under section 303 (1) to (4) (inclusive) of the Criminal Procedure and Evidence Act, and an affidavit sworn by a member of the Board or an authorised employee of the Fund is sufficient proof of the lawful imposition of the monetary penalty to enable a court to issue a warrant under that section.
 
-- The Board may, in consultation with the Minister in writing, and having due regard to principles of corporate governance, delegate any of the powers and functions of the Fund to the Chief Executive Officer or any other officer of the Fund.
+(5) The Board may, in consultation with the Minister in writing, and having due regard to principles of corporate governance, delegate any of the powers and functions of the Fund to the Chief Executive Officer or any other officer of the Fund.
 
-- The Board may appoint committees and subcommittees to consider such matters or to perform such duties as it may direct.
+(6) The Board may appoint committees and subcommittees to consider such matters or to perform such duties as it may direct.
 
 (7) Every committee and subcommittee appointed under this section shall consist of the members of the Board and such other persons as the Board, or the committee or subcommittee concerned, with the approval of the Board, may co-opt.
 
@@ -3712,13 +3909,7 @@ Copyright Government of Botswana
 
 ( c ) the Fund may receive from its investments; and
 
-(
-
-d
-
-)
-
-the Fund may acquire, or earn or borrow in accordance with the provisions of this Act.
+( d ) the Fund may acquire, or earn or borrow in accordance with the provisions of this Act.
 
 (2) The Minister shall, by regulations, prescribe the amount of levy to be retained by the seller on every litre of petroleum product sold by such seller, or by the importer on every litre of petroleum product imported by such importer other than for resale, such levy to be paid over to the Fund by the 25th day of the month following the date of sale or importation, as the case may be:
 
@@ -3730,13 +3921,13 @@ Provided that the Minister may exempt, or partially exempt, from such levy, petr
 
 "petroleum products" means petrol and diesel fuels.
 
-- The seller shall, at its own expense, cause its books to be examined biannually by an auditor who shall be a person duly qualified as such in terms of section 194 of the    Companies Act, which auditor shall then issue a certificate that such examination has been performed and that, on the evidence presented in the seller's books of account, the payments made accord with the rate prescribed.
+(4) The seller shall, at its own expense, cause its books to be examined biannually by an auditor who shall be a person duly qualified as such in terms of section 194 of the Companies Act, which auditor shall then issue a certificate that such examination has been performed and that, on the evidence presented in the seller's books of account, the payments made accord with the rate prescribed.
 
 (5) The seller shall furnish the Fund with such certificate within seven working days of the audit being completed.
 
-- Every seller who contravenes the provisions of subsection (4) or (5) shall be liable to a civil penalty not exceeding P10,000.
+(6) Every seller who contravenes the provisions of subsection (4) or (5) shall be liable to a civil penalty not exceeding P10,000.
 
-- Where the seller fails to comply with the provisions of subsection (4) or (5), the Fund
+(7) Where the seller fails to comply with the provisions of subsection (4) or (5), the Fund
 
 Copyright Government of Botswana
 
@@ -3746,21 +3937,21 @@ Copyright Government of Botswana
 
 shall carry out the audit of the seller's books and secure the audit certificate at the seller's expense, which expense shall be paid by the seller immediately upon the delivery of the audit certificate to the seller.
 
-- The format for the audit shall be as prescribed by regulations.
+(8) The format for the audit shall be as prescribed by regulations.
 
-- Where monies are due in terms of subsection (2), but have not been paid into the Fund within the period of time stipulated therein, interest at three per cent per month or part thereof shall accrue thereon and shall become immediately payable to the Fund.
+(9) Where monies are due in terms of subsection (2), but have not been paid into the Fund within the period of time stipulated therein, interest at three per cent per month or part thereof shall accrue thereon and shall become immediately payable to the Fund.
 
-- Every person who is not resident in Botswana who drives a motor vehicle into Botswana shall pay, to the Fund, in such manner as may be prescribed, such motor vehicle third party cover as may be prescribed.
+(10) Every person who is not resident in Botswana who drives a motor vehicle into Botswana shall pay, to the Fund, in such manner as may be prescribed, such motor vehicle third party cover as may be prescribed.
 
-- Every person who contravenes the provisions of subsection (10) or makes any false representation in relation to any matter in respect of such levy shall be liable to a civil penalty not exceeding P5,000.
+(11) Every person who contravenes the provisions of subsection (10) or makes any false representation in relation to any matter in respect of such levy shall be liable to a civil penalty not exceeding P5,000.
 
 #### 18. Accounts and audit
 
-- The Board shall cause to be kept proper books of account and records of all financial transactions, assets and liabilities of the Fund in respect of each financial year.
+(1) The Board shall cause to be kept proper books of account and records of all financial transactions, assets and liabilities of the Fund in respect of each financial year.
 
-- The accounts of the Fund in respect of each financial year shall, within three months or such extended period after the end thereof as the Minister may direct, be audited annually by an independent auditor appointed for that purpose by the Board.
+(2) The accounts of the Fund in respect of each financial year shall, within three months or such extended period after the end thereof as the Minister may direct, be audited annually by an independent auditor appointed for that purpose by the Board.
 
-- The auditor shall report in respect of the accounts for each financial year, in addition to any other matter on which he or she considers it pertinent to comment, whether or not-
+(3) The auditor shall report in respect of the accounts for each financial year, in addition to any other matter on which he or she considers it pertinent to comment, whether or not-
 
 ( a ) he or she has received all the information and explanations which, to the best of his or her knowledge and belief, were necessary for the performance of his or her duty as auditor;
 
@@ -3770,13 +3961,13 @@ shall carry out the audit of the seller's books and secure the audit certificate
 
 ( d ) the statement of accounts prepared by the Fund was prepared on a consistent basis and represents a true and fair view of the transactions and financial affairs of the Fund.
 
-- The report of the auditor and a copy of the audited accounts shall, within 14 days of the completion thereof, be forwarded to the Fund by the auditor.
+(4) The report of the auditor and a copy of the audited accounts shall, within 14 days of the completion thereof, be forwarded to the Fund by the auditor.
 
 #### 19. Annual report
 
-- The Fund shall, within six months of the financial year, or within such longer period as the Minister may approve, submit, to the Minister, a comprehensive report on its operations during such year, together with the auditors' report and the audited accounts as provided for in section 18.
+(1) The Fund shall, within six months of the financial year, or within such longer period as the Minister may approve, submit, to the Minister, a comprehensive report on its operations during such year, together with the auditors' report and the audited accounts as provided for in section 18.
 
-- The Minister shall lay, before the National Assembly, a copy of the report submitted to him or her in terms of subsection (1), within three months of its receipt by him or her, or, if the National Assembly is not then in session, as soon as possible after the commencement of the next session.
+(2) The Minister shall lay, before the National Assembly, a copy of the report submitted to him or her in terms of subsection (1), within three months of its receipt by him or her, or, if the National Assembly is not then in session, as soon as possible after the commencement of the next session.
 
 ### PART VII
 
@@ -3786,7 +3977,7 @@ shall carry out the audit of the seller's books and secure the audit certificate
 
 (1) A claimant who has suffered loss as a result of injury to himself or herself, or as a result of the death or injury of any person, in either case caused by or arising out of the driving of a motor vehicle by any person, including the person who has suffered the said loss, shall, subject to the conditions, limitations and exclusions imposed by this Act, be entitled to claim the benefits prescribed by this Act from the Fund.
 
-- Subject to the conditions, limitations and exclusions imposed by this Act, the benefits to be provided by the Fund shall be confined to a monetary award comprising one or more of the following-
+(2) Subject to the conditions, limitations and exclusions imposed by this Act, the benefits to be provided by the Fund shall be confined to a monetary award comprising one or more of the following-
 
 Copyright Government of Botswana
 
@@ -3814,7 +4005,7 @@ Copyright Government of Botswana
 
 ( j ) such other benefits as the Minister may, in consultation with the Board, prescribe.
 
-- Where medical treatment, management or rehabilitation is provided as an award-
+(3) Where medical treatment, management or rehabilitation is provided as an award-
 
 ( a ) it must be carried out on such terms and conditions as may be stipulated by the Fund in the award;
 
@@ -3824,15 +4015,15 @@ Copyright Government of Botswana
 
 #### 21. Trusts
 
-- All monies set aside by the Fund for the payment of future benefits as set out in subsection (3) shall be held in trust by the Fund in an interest bearing account or shall be otherwise invested until such monies are required for any purpose set out in this section.
+(1) All monies set aside by the Fund for the payment of future benefits as set out in subsection (3) shall be held in trust by the Fund in an interest bearing account or shall be otherwise invested until such monies are required for any purpose set out in this section.
 
-- A balance that remains from the money forming part of the trust shall accrue and revert to the Fund together with any interest thereon where the trust is for-
+(2) A balance that remains from the money forming part of the trust shall accrue and revert to the Fund together with any interest thereon where the trust is for-
 
 ( a ) a future medical intervention and the beneficiary medically no longer requires the same undertaking or dies before utilising it; or
 
 ( b ) loss of income or loss of support and the beneficiary dies before the end of the projected period of loss.
 
-- Where a claim for benefits under this Act-
+(3) Where a claim for benefits under this Act-
 
 ( a ) includes a claim, in relation to an injured party, for the costs of -
 
@@ -3852,13 +4043,13 @@ Copyright Government of Botswana
 
 [[START OF PAGE 76]]
 
-- furnish the claimant concerned with a written undertaking to pay for such costs as claimed, proved or agreed prior to such undertaking, and shall directly pay the assisting health practitioner after they have been incurred, and upon proof thereof or reimburse the claimant after they have been incurred, and upon proof thereof; or
+furnish the claimant concerned with a written undertaking to pay for such costs as claimed, proved or agreed prior to such undertaking, and shall directly pay the assisting health practitioner after they have been incurred, and upon proof thereof or reimburse the claimant after they have been incurred, and upon proof thereof; or
 
 ( b ) includes a claim for future loss of support projected over the anticipated period of loss, the Fund shall furnish the claimant concerned with a written undertaking to pay such amount as claimed, proved or agreed prior to such undertaking and shall thereafter pay the amount due in respect thereof by instalments payable monthly or yearly (whichever is more convenient for administration by the Fund) in accordance with such projection.
 
-- Any person who, being a guardian, curator or caretaker, receives any monies on behalf of a claimant who has suffered loss in accordance with the provisions of section 20, commits an offence, if he or she fraudulently misapplies such monies for purposes other than those intended by this Act.
+(4) Any person who, being a guardian, curator or caretaker, receives any monies on behalf of a claimant who has suffered loss in accordance with the provisions of section 20, commits an offence, if he or she fraudulently misapplies such monies for purposes other than those intended by this Act.
 
-- Any person who contravenes the provisions of this section or who commits an offence under subsection (4) shall -
+(5) Any person who contravenes the provisions of this section or who commits an offence under subsection (4) shall -
 
 ( a ) be guilty of an offence and liable to a fine not exceeding P10,000 or to imprisonment for a term not exceeding seven years, or to both;
 
@@ -3868,23 +4059,23 @@ Copyright Government of Botswana
 
 #### 22. Limitations of liability
 
-- Notwithstanding the provisions of this Act, the total benefits payable by the Fund shall be limited-
+(1) Notwithstanding the provisions of this Act, the total benefits payable by the Fund shall be limited-
 
 ( a ) in respect of a claim by any one injured party, to such sum as may be prescribed by regulations; and
 
 ( b ) in respect of a claim by any dependant of a person killed in a vehicle accident, to such sum as may be prescribed by regulations.
 
-- Where the person injured is a minor below the age of seven, the limitations and exclusions pertaining to capacity or culpability shall not apply:
+(2) Where the person injured is a minor below the age of seven, the limitations and exclusions pertaining to capacity or culpability shall not apply:
 
 Provided that in the case of minors between the ages of seven and 14 years, the common law rules as to capacity or culpability shall apply.
 
-- The medical and rehabilitation benefits shall only be payable upon production of a report from a qualified medical practitioner or other relevant expert indicating the requirement for medical treatment or rehabilitation.
+(3) The medical and rehabilitation benefits shall only be payable upon production of a report from a qualified medical practitioner or other relevant expert indicating the requirement for medical treatment or rehabilitation.
 
-- The benefits for loss of income otherwise payable by the Fund in respect of the driver of a vehicle involved in a vehicle accident shall be reduced by 50 per cent where it is proved that the blood alcohol level of such driver exceeded the limit prescribed in the    Road Traffic Act.
+(4) The benefits for loss of income otherwise payable by the Fund in respect of the driver of a vehicle involved in a vehicle accident shall be reduced by 50 per cent where it is proved that the blood alcohol level of such driver exceeded the limit prescribed in the Road Traffic Act.
 
-- The benefits for loss of income otherwise payable by the Fund shall be reduced by 50 per cent where it is proved that the driver of a vehicle involved in a vehicle accident was under the influence of intoxicating liquor or drugs to the extent of being incapable of having proper control of such vehicle, in respect of any loss to such driver, or in respect of any loss to any passenger of such vehicle, where such passenger, was aware of, the condition of the driver.
+(5) The benefits for loss of income otherwise payable by the Fund shall be reduced by 50 per cent where it is proved that the driver of a vehicle involved in a vehicle accident was under the influence of intoxicating liquor or drugs to the extent of being incapable of having proper control of such vehicle, in respect of any loss to such driver, or in respect of any loss to any passenger of such vehicle, where such passenger, was aware of, the condition of the driver.
 
-- The benefits for loss of income otherwise payable by the Fund in respect of a person injured or killed in a vehicle accident shall be reduced by 25 per cent, where such person was-
+(6) The benefits for loss of income otherwise payable by the Fund in respect of a person injured or killed in a vehicle accident shall be reduced by 25 per cent, where such person was-
 
 ( a ) at the time of the accident, not utilising a seat belt fitted to the vehicle;
 
@@ -3892,7 +4083,7 @@ Provided that in the case of minors between the ages of seven and 14 years, the 
 
 ( c ) at the time of the accident, riding or being conveyed on a motor cycle and not wearing a safety helmet.
 
-- Subsection (6) shall not apply where there is proof that-
+(7) Subsection (6) shall not apply where there is proof that-
 
 Copyright Government of Botswana
 
@@ -3924,13 +4115,15 @@ Provided that notwithstanding the provisions of any other law, where the Fund ha
 
 (14) The benefits for loss of income otherwise payable to a negligent party shall be reduced in direct proportion to their contribution to the occurrence of the accident:
 
-Provided that a negligent driver or owner of a vehicle who is the subject of the right of recovery in terms of section 30 shall not be entitled to any benefit for loss of income.
+Provided that a negligent driver or owner of a vehicle who is the subject of the
 
 Copyright Government of Botswana
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+
+right of recovery in terms of section 30 shall not be entitled to any benefit for loss of income.
 
 (15) Subject to any limit prescribed, a maximum monthly income of P6,000 shall apply to computation of loss of support or income.
 
@@ -3982,9 +4175,9 @@ Copyright Government of Botswana
 
 (iii) proof that the collision in question was reported to the police as soon as was reasonably possible.
 
-- A visitor to Botswana who, whilst in Botswana, suffers loss as a result of personal injury caused by a vehicle accident, shall, subject to the limitations and exclusions, be entitled to only medical and rehabilitation benefits set out in this Act only whilst he or she is in Botswana.
+(2) A visitor to Botswana who, whilst in Botswana, suffers loss as a result of personal injury caused by a vehicle accident, shall, subject to the limitations and exclusions, be entitled to only medical and rehabilitation benefits set out in this Act only whilst he or she is in Botswana.
 
-- Such visitor shall not be entitled to the benefits for loss of earning and neither shall the dependants of that visitor be entitled to any loss of support benefits under this Act nor shall any claimant be paid any funeral costs for the burial of such visitor.
+(3) Such visitor shall not be entitled to the benefits for loss of earning and neither shall the dependants of that visitor be entitled to any loss of support benefits under this Act nor shall any claimant be paid any funeral costs for the burial of such visitor.
 
 (4) For the purposes of this section a "visitor" has the meaning assigned to it in the Immigration Act.
 
@@ -4026,25 +4219,25 @@ Copyright Government of Botswana
 
 [[START OF PAGE 80]]
 
-- Where any person, being a claimant, refuses, declines, neglects or fails to cooperate with the Fund in respect of any of the matters set out in subsection (3), such person shall be deemed to be in breach of this section and the claim shall stand repudiated without prejudice to the claimant's rights to re-lodge the claim, subject to the rules regarding prescription set out in any enactment.
+(4) Where any person, being a claimant, refuses, declines, neglects or fails to cooperate with the Fund in respect of any of the matters set out in subsection (3), such person shall be deemed to be in breach of this section and the claim shall stand repudiated without prejudice to the claimant's rights to re-lodge the claim, subject to the rules regarding prescription set out in any enactment.
 
-- Where the Fund has requested any person, not being the claimant, to furnish it with such information as is set out in subsection (3), and such person refuses, declines, neglects or fails to cooperate with the Fund, such person shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 30 days or to both.
+(5) Where the Fund has requested any person, not being the claimant, to furnish it with such information as is set out in subsection (3), and such person refuses, declines, neglects or fails to cooperate with the Fund, such person shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 30 days or to both.
 
-- Any person who wilfully makes a false claim or produces false or misleading information or particulars concerning the vehicle accident, injury or death giving rise to the claim for compensation shall be guilty of an offence and shall be liable to a fine not exceeding P5,000, or to imprisonment for a period not exceeding 12 months, or to both.
+(6) Any person who wilfully makes a false claim or produces false or misleading information or particulars concerning the vehicle accident, injury or death giving rise to the claim for compensation shall be guilty of an offence and shall be liable to a fine not exceeding P5,000, or to imprisonment for a period not exceeding 12 months, or to both.
 
 #### 27. Legal proceedings
 
-- Legal proceedings to enforce any claim under this Act may be instituted in a court of competent jurisdiction upon the expiry of a period of six months after completion of the procedures set out in section 26:
+(1) Legal proceedings to enforce any claim under this Act may be instituted in a court of competent jurisdiction upon the expiry of a period of six months after completion of the procedures set out in section 26:
 
 Provided that such proceedings may be instituted at any time after the Fund has made a final determination on the claim subject to the limitations and provisions of section 29.
 
-- Where the claimant disputes the offer of benefits awarded by the Fund, any such legal proceedings shall be by way of review, and in such event the claimant shall first submit a written statement to the Fund setting out the reasons for dissatisfaction or complaint to which the Fund shall respond within 14 days.
+(2) Where the claimant disputes the offer of benefits awarded by the Fund, any such legal proceedings shall be by way of review, and in such event the claimant shall first submit a written statement to the Fund setting out the reasons for dissatisfaction or complaint to which the Fund shall respond within 14 days.
 
-- In all other instances legal proceedings shall be by way of action either for an order directing the Fund to make a determination on the claim, or where the Fund has repudiated liability on the claim, for an order declaring the claimant entitled to benefits and directing the Fund to thereafter award benefits in accordance with the provisions of this Act.
+(3) In all other instances legal proceedings shall be by way of action either for an order directing the Fund to make a determination on the claim, or where the Fund has repudiated liability on the claim, for an order declaring the claimant entitled to benefits and directing the Fund to thereafter award benefits in accordance with the provisions of this Act.
 
-- In any legal proceedings the Fund itself, as represented by its servants, shall be entitled to act on its own behalf and to appear in any court and to sue out, serve and receive service of process.
+(4) In any legal proceedings the Fund itself, as represented by its servants, shall be entitled to act on its own behalf and to appear in any court and to sue out, serve and receive service of process.
 
-- For the purposes of this section and section 29, a final determination shall mean either a notice conveying an offer of settlement by the Fund to the claimant or a notification repudiating liability.
+(5) For the purposes of this section and section 29, a final determination shall mean either a notice conveying an offer of settlement by the Fund to the claimant or a notification repudiating liability.
 
 #### 28. Order for interest or costs by court
 
@@ -4124,11 +4317,11 @@ Copyright Government of Botswana
 
 [[START OF PAGE 82]]
 
-- Whenever it is shown that a vehicle involved in a vehicle accident was equipped with a seat belt it shall be presumed, until the contrary is proved, that such seat belt was in proper and efficient working order.
+(4) Whenever it is shown that a vehicle involved in a vehicle accident was equipped with a seat belt it shall be presumed, until the contrary is proved, that such seat belt was in proper and efficient working order.
 
-- Whenever it is proved that the blood alcohol level of any person, alive or dead, exceeded such limitation as may be prescribed under the    Road Traffic Act or the regulations thereto, it shall be presumed that such person was under the influence of liquor to such an extent as to be incapable of having proper control of a vehicle.
+(5) Whenever it is proved that the blood alcohol level of any person, alive or dead, exceeded such limitation as may be prescribed under the Road Traffic Act or the regulations thereto, it shall be presumed that such person was under the influence of liquor to such an extent as to be incapable of having proper control of a vehicle.
 
-- No agreement or undertaking by the Fund to pay compensation or any sum of money in respect of any claim shall be enforceable in any court unless in addition thereto, liability has accrued to the Fund in terms of this Act and there has been no error in computation of the offer.
+(6) No agreement or undertaking by the Fund to pay compensation or any sum of money in respect of any claim shall be enforceable in any court unless in addition thereto, liability has accrued to the Fund in terms of this Act and there has been no error in computation of the offer.
 
 ### PART VIII
 #### Miscellaneous Provisions (ss 32-35)
@@ -4149,9 +4342,9 @@ The Motor Vehicle Accident Fund Act (hereafter referred to as "the repealed Act"
 
 #### 34. Savings
 
-- All subsidiary legislation made under the repealed Act, and in force immediately prior to the coming into operation of this Act shall, in so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act.
+(1) All subsidiary legislation made under the repealed Act, and in force immediately prior to the coming into operation of this Act shall, in so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act.
 
-- All rights, obligations, assets and liabilities which have accrued to the Fund in terms of the repealed Act shall, upon this Act coming into force, simultaneously pass and accrue to the Fund and be dealt with in terms thereof.
+(2) All rights, obligations, assets and liabilities which have accrued to the Fund in terms of the repealed Act shall, upon this Act coming into force, simultaneously pass and accrue to the Fund and be dealt with in terms thereof.
 
 #### 35. Transitional provisions
 
@@ -4165,9 +4358,9 @@ Notwithstanding the repeal effected under section 33, the provisions of this Act
 
 SECTION
 
-- Short title
+1. Short title
 
-- Interpretation
+2. Interpretation
 
 #### PART II
 
@@ -4179,80 +4372,83 @@ Copyright Government of Botswana
 
 [[START OF PAGE 83]]
 
-- Transport Controller
+3. Transport Controller
 
-- Transport Advisory boards
+4. Transport Advisory boards
 
-- Permits required
+#### PART III
 
-- Classes of permits
+##### Permits
 
-- Use of foreign registered vehicles
+5. Permits required
 
-- Exclusive permits
+6. Classes of permits
+
+7. Use of foreign registered vehicles
+
+8. Exclusive permits
 
 #### PART IV
 
 ##### General Provisions with Regard to Permits
 
-- Exemptions from conditions of permit
+9. Exemptions from conditions of permit
 
-- Duration of permits
+10. Duration of permits
 
-- Power to revoke or suspend permit
+11. Power to revoke or suspend permit
 
-- Variation of permits
+12. Variation of permits
 
-- Power to hold enquiries
+13. Power to hold enquiries
 
-- Power to call for further particulars
+14. Power to call for further particulars
 
-- Applicant to furnish particulars of vehicle within three months
+15. Applicant to furnish particulars of vehicle within three months
 
-- Applications, if refused, not to be entertained for six months
+16. Applications, if refused, not to be entertained for six months
 
-- Conditions of permits
+17. Conditions of permits
 
-- Permits not transferable
+18. Permits not transferable
 
-- Permit expires on sale or transfer
+19. Permit expires on sale or transfer
 
-- Authorized vehicle not to be changed without permission except in emergency
+20. Authorized vehicle not to be changed without permission except in emergency
 
 #### PART V
 
 ##### Appeals
 
-- Appeals against decision of Controller
+21. Appeals against decision of Controller
 
 #### PART VI
 
 ##### Offences and Penalties
 
-- Forgery, etc., of permits
+22. Forgery, etc., of permits
 
-- Offences
+23. Offences
 
-- Offence to operate vehicle on another's permit
+24. Offence to operate vehicle on another's permit
 
-- Penalties where no special penalty provided
+25. Penalties where no special penalty provided
 
 #### PART VII
 
 ##### Miscellaneous Provisions
 
-- No right to continuance of benefit
+26. No right to continuance of benefit
 
-- Power to stop and inspect
+27. Power to stop and inspect
 
-- Regulations
+28. Regulations
 
 Schedule - Transport Advisory Boards
 
-#### PART III
-##### Permits
-
-Act 40, 1973, Act 20, 1975, Act 21, 1989.
+Act 40, 1973,
+Act 20, 1975,
+Act 21, 1989.
 
 An Act to provide for the co-ordination and control of the means of and facilities for road transport by way of permits and for matters incidental thereto and connected therewith.
 
@@ -4273,9 +4469,13 @@ This Act may be cited as the Road Transport (Permits) Act.
 
 #### 2. Interpretation
 
-In this Act, unless the context otherwise requires"Advisory Board" means a Transport Advisory Board appointed under section 4; "Appeal Tribunal" means the Appeal Tribunal established under section 21; , in connection with a permit of any class, means a vehicle
+In this Act, unless the context otherwise requires-
 
-"authorized vehicle" specified in such permit and authorized for use in accordance with such permit;
+"Advisory Board" means a Transport Advisory Board appointed under section 4;
+
+"Appeal Tribunal" means the Appeal Tribunal established under section 21;
+
+"authorized vehicle", in connection with a permit of any class, means a vehicle specified in such permit and authorized for use in accordance with such permit;
 
 "carriage of goods" includes the haulage of goods;
 
@@ -4287,7 +4487,7 @@ In this Act, unless the context otherwise requires"Advisory Board" means a Trans
 
 "Controller" means the Road Transport Controller appointed in accordance with section 3;
 
-"driver" , in relation to a vehicle, means any person who drives or guides, or is in an actual physical control of, any vehicle, and in relation to a trailer means the driver of the vehicle by which the trailer is drawn;
+"driver", in relation to a vehicle, means any person who drives or guides, or is in an actual physical control of, any vehicle, and in relation to a trailer means the driver of the vehicle by which the trailer is drawn;
 
 "fare" means the amount paid or payable for a conveyance of a passenger in a public service vehicle, and includes any sum paid or payable in respect of such passenger's luggage;
 
@@ -4299,11 +4499,13 @@ In this Act, unless the context otherwise requires"Advisory Board" means a Trans
 
 "motor vehicle" means any vehicle, self-propelled by mechanical or electrical power, but excluding any vehicle running on a specially-prepared way such as a railway or tramway or cables and such other vehicles as the Minister may prescribe not to be motor vehicles for the purposes of this Act;
 
-"owner" , in relation to a vehicle, includes the owner, joint owner or part owner thereof, and where a vehicle is the subject of a hire-purchase agreement or hiring agreement, includes the person in possession of that vehicle under that agreement;
+"owner", in relation to a vehicle, includes the owner, joint owner or part owner thereof, and where a vehicle is the subject of a hire-purchase agreement or hiring agreement, includes the person in possession of that vehicle under that agreement;
 
-"public service vehicle" has the meaning assigned to it in the    Road Traffic Act;
+"permit" means a permit issued under this Act;
 
-"permit" means a permit issued under this Act; "road" has the meaning assigned to it in the Road Traffic Act;
+"public service vehicle" has the meaning assigned to it in the Road Traffic Act;
+
+"road" has the meaning assigned to it in the Road Traffic Act;
 
 "trailer" has the same meaning as in the Road Traffic Act.
 
@@ -4312,11 +4514,11 @@ In this Act, unless the context otherwise requires"Advisory Board" means a Trans
 #### Transport Controller and Transport Advisory Boards (ss 3-4)
 #### 3. Transport Controller
 
-- There shall be appointed a Transport Controller who shall be responsible for the administration of this Act and shall perform the duties and functions and exercise the powers conferred upon him by or under this Act.
+(1) There shall be appointed a Transport Controller who shall be responsible for the administration of this Act and shall perform the duties and functions and exercise the powers conferred upon him by or under this Act.
 
-- The Controller may, with the approval of the Minister, delegate to any public officer the power and authority to carry out on his behalf such duties and functions, and to exercise such powers, as he may determine, and at the time of delegating any such duty, function or power, or at any time thereafter, he may give such directions as he may see fit as to the manner in which such duties or functions are to be carried out or such powers exercised.
+(2) The Controller may, with the approval of the Minister, delegate to any public officer the power and authority to carry out on his behalf such duties and functions, and to exercise such powers, as he may determine, and at the time of delegating any such duty, function or power, or at any time thereafter, he may give such directions as he may see fit as to the manner in which such duties or functions are to be carried out or such powers exercised.
 
-- The Controller shall keep such records, books, registers and other documents as the
+(3) The Controller shall keep such records, books, registers and other documents as the
 
 Copyright Government of Botswana
 
@@ -4326,9 +4528,9 @@ Copyright Government of Botswana
 
 Minister may require.
 
-- All permits issued under this Act shall be under the hand of the Controller or under the hand of some person to whom the Controller has delegated his power to issue permits.
+(4) All permits issued under this Act shall be under the hand of the Controller or under the hand of some person to whom the Controller has delegated his power to issue permits.
 
-- The Controller shall, for the purpose of hearing and determining applications for permits or the amendment of any term or condition of a permit, hold public sittings in such places and at such times as appear necessary to him, having regard to the provisions of this Act and the interests of the applicants and any objectors:
+(5) The Controller shall, for the purpose of hearing and determining applications for permits or the amendment of any term or condition of a permit, hold public sittings in such places and at such times as appear necessary to him, having regard to the provisions of this Act and the interests of the applicants and any objectors:
 
 Provided that no public sitting shall be necessary-
 
@@ -4336,11 +4538,11 @@ Provided that no public sitting shall be necessary-
 
 (ii) for the issue of BS, TS and short-term permits under the provisions of section 10;
 
-(iii) on giving 14 days' notice in the Gazette , for the renewal of a permit of any class other than a permit for the carriage of goods on own account;
+(iii) on giving 14 days' notice in the Gazette, for the renewal of a permit of any class other than a permit for the carriage of goods on own account;
 
 (iv) on giving 14 days' notice in the Gazette of his intention to do so, for the variation or amendment of a permit where the Controller is of the opinion that, having regard to the trivial nature of the variation or amendment, it is not necessary that a public sitting be held.
 
-#### Transport Advisory Boards
+#### 4. Transport Advisory Boards
 (1) For the purposes of advising the Controller on any application before him there shall be one or more Transport Advisory Boards appointed, constituted and regulated in accordance with the Schedule.
 
 (2) When a public sitting under section 3(5) is being held a Board shall sit with the Controller.
@@ -4362,9 +4564,9 @@ Provided that no public sitting shall be necessary-
 
 ( c ) let on hire any vehicle whether for the carriage of goods or passengers.
 
-- When a goods vehicle is being used on a road for the carriage of goods, the driver of the vehicle, if it belongs to him, or is in his possession under an agreement for hire or hire-purchase, and, in any other case, the person in whose ownership or possession the vehicle is, shall, for the purposes of this Act, be deemed to be the user of the vehicle.
+(2) When a goods vehicle is being used on a road for the carriage of goods, the driver of the vehicle, if it belongs to him, or is in his possession under an agreement for hire or hire-purchase, and, in any other case, the person in whose ownership or possession the vehicle is, shall, for the purposes of this Act, be deemed to be the user of the vehicle.
 
-- Where at any time goods are carried in a goods vehicle, being a vehicle which has been let on hire by the person who, at the time of the carriage of the goods, is, within the meaning of this Act, the user of the vehicle, such goods shall be deemed to be carried by that person for hire or reward.
+(3) Where at any time goods are carried in a goods vehicle, being a vehicle which has been let on hire by the person who, at the time of the carriage of the goods, is, within the meaning of this Act, the user of the vehicle, such goods shall be deemed to be carried by that person for hire or reward.
 
 (4) This section shall not apply to-
 
@@ -4380,7 +4582,7 @@ Provided that no public sitting shall be necessary-
 
 ( f ) the carriage of goods in a vehicle which is being used under and in accordance with the terms and conditions of a motor dealer's licence issued under the Road Traffic Act.
 
-- The Minister may, by order published in the Gazette , exempt any person or class of
+(5) The Minister may, by order published in the Gazette, exempt any person or class of
 
 Copyright Government of Botswana
 
@@ -4448,26 +4650,24 @@ Copyright Government of Botswana
 
 [[START OF PAGE 87]]
 
-- For the purposes of subsection (10) different types of motor vehicles or different types of trailers, as the case may be, may be distinguished in a permit and a maximum number may be specified in the permit for vehicles and trailers of each type.
+(11) For the purposes of subsection (10) different types of motor vehicles or different types of trailers, as the case may be, may be distinguished in a permit and a maximum number may be specified in the permit for vehicles and trailers of each type.
 
-#### Use of foreign registered vehicles
+#### 7. Use of foreign registered vehicles
 Where a goods vehicle or public service vehicle not registered in Botswana is found to be in use or operation in Botswana by a police officer in uniform or other person duly authorized in writing by the Controller and such officer or person is not satisfied that the provisions of this Act have been complied with in relation to such vehicle, such officer or person may require the driver or owner of such vehicle to cause such vehicle either-
 
 ( a ) to be returned with or without escort, to the point at which the vehicle entered Botswana; or
 
-( b )
-
-- to be driven to the nearest point of exit from Botswana,
+( b ) to be driven to the nearest point of exit from Botswana,
 
 and then to leave Botswana.
 
-#### Exclusive permits
+#### 8. Exclusive permits
 (1) Notwithstanding any other provision of this Act, the Controller may, with the approval of the Minister, and subject to such conditions as he may think fit to impose, grant to any person an exclusive permit authorizing such person to operate vehicles for the carriage of goods or passengers in such areas, over such routes or between such places and for such period as the Controller may decide, and the provisions of this Act regarding applications for and objections to the grant of a permit shall apply.
 
-- Where the Controller intends to grant an exclusive permit under subsection (1), he shall, by notice published in the Gazette and in such manner as is, in his opinion, most likely to bring it to the notice of persons concerned, give notice of his intention to grant such permit, and no such permit shall be granted until a period of one month after the date of publication of such notice has elapsed.
+(2) Where the Controller intends to grant an exclusive permit under subsection (1), he shall, by notice published in the Gazette and in such manner as is, in his opinion, most likely to bring it to the notice of persons concerned, give notice of his intention to grant such permit, and no such permit shall be granted until a period of one month after the date of publication of such notice has elapsed.
 
 ### PART IV
-#### General Provisions with regard to Permits
+#### General Provisions with regard to Permits (ss 9-20)
 
 #### 9. Exemptions from conditions of permit
 
@@ -4475,9 +4675,9 @@ In the case of any permit, and notwithstanding that a vehicle is an authorized v
 
 #### 10. Duration of permits
 
-- Subject to the provisions of subsections (2) and (3), BA and TA permits shall, unless previously revoked, remain in force for four quarters of the year. Annual permits shall expire on the last day of the fourth quarter following the date of issue, the quarter in which the permit is issued being the first quarter.
+(1) Subject to the provisions of subsections (2) and (3), BA and TA permits shall, unless previously revoked, remain in force for four quarters of the year. Annual permits shall expire on the last day of the fourth quarter following the date of issue, the quarter in which the permit is issued being the first quarter.
 
-- With a view to enabling goods vehicles or passenger-carrying vehicles to be used temporarily-
+(2) With a view to enabling goods vehicles or passenger-carrying vehicles to be used temporarily-
 
 ( a ) for the purpose of a seasonal business;
 
@@ -4487,15 +4687,13 @@ In the case of any permit, and notwithstanding that a vehicle is an authorized v
 
 a BS, TS or P permit may be granted for one trip or endorsed for a period not exceeding three months, and any permit granted under this subsection or subsection (3) is hereinafter in this Act referred to as a short-term permit.
 
-- Without prejudice to the generality of subsection (2), the Controller may grant short-term permits if he is satisfied that the demand for the use of the vehicles to be so authorized is urgent and that the demand does not conflict with the public interest, including the interest or interests of persons requiring, as well as of persons providing, facilities for transport.
+(3) Without prejudice to the generality of subsection (2), the Controller may grant short-term permits if he is satisfied that the demand for the use of the vehicles to be so authorized is urgent and that the demand does not conflict with the public interest, including the interest or interests of persons requiring, as well as of persons providing, facilities for transport.
 
-- The grant of a short-term permit shall not require a public sitting.
+(4) The grant of a short-term permit shall not require a public sitting.
 
-- No appeal against the grant or refusal of a short-term permit shall lie to the Appeal Tribunal.
+(5) No appeal against the grant or refusal of a short-term permit shall lie to the Appeal Tribunal.
 
-- Any person aggrieved by the grant or refusal of a short-term permit may appeal to
-
-(ss 9-20)
+(6) Any person aggrieved by the grant or refusal of a short-term permit may appeal to
 
 Copyright Government of Botswana
 
@@ -4585,10 +4783,10 @@ Copyright Government of Botswana
 
 (4) Subject to subsection (1) the Controller may cancel or vary any of the conditions attached to a permit, and may insert additional conditions.
 
-#### Permits not transferable
+#### 18. Permits not transferable
 No permit of any class shall be transferable except with the written consent of the Controller, and, in the case of an exclusive permit, with the written consent of the Minister, endorsed thereon.
 
-#### Permit expires on sale or transfer
+#### 19. Permit expires on sale or transfer
 Where the holder of a permit sells, transfers (except by way of security for any purpose) or otherwise disposes of the vehicle, or of the business in respect of which such permit was issued, such permit shall, unless written consent under section 18 has been endorsed thereon, expire with effect from the date of such sale, transfer or other disposal, and the vendor or transferor, or person who otherwise disposes of such vehicle, shall return such permit to the Controller.
 
 #### 20. Authorized vehicle not to be changed without permission except in emergency
@@ -4616,9 +4814,7 @@ Provided that-
 
 #### 21. Appeals against decision of Controller
 
-(1) Subject to the provisions of sections
-
-10(5) and (6), 15(2) and 16(2), any person who-
+(1) Subject to the provisions of sections 10(5) and (6), 15(2) and 16(2), any person who-
 
 ( a ) being an applicant for the grant or amendment of a permit, is aggrieved by the decision of the Controller on his application;
 
@@ -4632,15 +4828,15 @@ may, within the time and in the manner prescribed for appeal to the Appeal Tribu
 
 Provided that, before the Minister makes any appointments to the Appeal Tribunal, every person to be appointed shall be required to declare whether he has any, and if so what, financial interest in any transport undertaking operating in Botswana.
 
-- The members of the Appeal Tribunal shall hold office for such term and under such conditions as the Minister may determine.
+(3) The members of the Appeal Tribunal shall hold office for such term and under such conditions as the Minister may determine.
 
-- Except as may be prescribed, the Appeal Tribunal may regulate its own procedure and proceedings as it may think fit.
+(4) Except as may be prescribed, the Appeal Tribunal may regulate its own procedure and proceedings as it may think fit.
 
-- Three members of the Appeal Tribunal shall form a quorum.
+(5) Three members of the Appeal Tribunal shall form a quorum.
 
-- The Appeal Tribunal may, on any appeal, confirm or reverse the decision of the Controller, or make such other order as to the Appeal Tribunal appears necessary and just.
+(6) The Appeal Tribunal may, on any appeal, confirm or reverse the decision of the Controller, or make such other order as to the Appeal Tribunal appears necessary and just.
 
-- The Appeal Tribunal may summarily reject any appeal which appears to it either to be frivolous or not to disclose sufficient reason for interfering with the decision of the Controller.
+(7) The Appeal Tribunal may summarily reject any appeal which appears to it either to be frivolous or not to disclose sufficient reason for interfering with the decision of the Controller.
 
 (8) A decision of the Appeal Tribunal under this section shall be final and conclusive and shall not be questioned in any court.
 
@@ -4652,17 +4848,9 @@ Provided that, before the Minister makes any appointments to the Appeal Tribunal
 
 (1) Any person who, with intent to deceive-
 
-( a ) forges within the meaning of Division VII of Part II of the    Penal Code, or alters or uses or lends to or allows to be used by any other person, a permit, or any document, plate or mark by which the subject of the permit is to be identified as authorized under this Act;
+( a ) forges within the meaning of Division VII of Part II of the Penal Code, or alters or uses or lends to or allows to be used by any other person, a permit, or any document, plate or mark by which the subject of the permit is to be identified as authorized under this Act;
 
-(
-
-b
-
-)
-
-makes or has in his possession any document, plate or mark so closely resembling a
-
-permit or such document, plate or mark as aforesaid, as to be calculated to deceive; or
+( b ) makes or has in his possession any document, plate or mark so closely resembling a permit or such document, plate or mark as aforesaid, as to be calculated to deceive; or
 
 ( c ) alters any record to be kept or maintained under this Act,
 
@@ -4686,9 +4874,7 @@ knowingly makes any false statement, shall be guilty of an offence and liable to
 
 #### 23. Offences
 
-Any person who uses a vehicle in contravention of any of the provisions of this Act, or, who uses such vehicle in contravention of any condition of such permit, or, being the owner of
-
-being the owner of such vehicle, permits it to be so used, and any driver or other person in charge of any vehicle in respect of which any class of permit has been granted under this Act such vehicle, permits it to be so used, shall be guilty of an offence.
+Any person who uses a vehicle in contravention of any of the provisions of this Act, or, being the owner of such vehicle, permits it to be so used, and any driver or other person in charge of any vehicle in respect of which any class of permit has been granted under this Act who uses such vehicle in contravention of any condition of such permit, or, being the owner of such vehicle, permits it to be so used, shall be guilty of an offence.
 
 #### 24. Offence to operate vehicle on another's permit
 Where any person has been granted a permit in respect of any vehicle under this Act, and transfers such vehicle to any other person by way of security, it shall be an offence, except with the prior written consent of the Controller for such other person to operate such vehicle under such permit.
@@ -4734,7 +4920,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 92]]
 
-- otherwise, as being authorized for use under this Act;
+otherwise, as being authorized for use under this Act;
 
 ( f ) the custody of permits, the production, return and cancellation of permits on expiry, suspension or revocation, and the custody, production and return of documents and plates;
 
@@ -4778,35 +4964,35 @@ The function of a Board shall be to advise the Controller on any application bef
 ### ARRANGEMENT OF SECTIONS
 SECTION
 
-- Short title
+1. Short title
 
-- Establishment of public roads
+2. Establishment of public roads
 
-- Compensation payable if improved land damaged
+3. Compensation payable if improved land damaged
 
-- Ways of necessity
+4. Ways of necessity
 
-- Closing and diverting of public roads by Minister
+5. Closing and diverting of public roads by Minister
 
-- Closing and diverting of public roads on application of owner affected
+6. Closing and diverting of public roads on application of owner affected
 
-- Regulations
+7. Regulations
 
-- Penalties for unauthorized opening of gates and for damage done to same
+8. Penalties for unauthorized opening of gates and for damage done to same
 
-- Width of public roads, what shall be considered public roads
+9. Width of public roads, what shall be considered public roads
 
-- Removal of encroachments on public roads
+10. Removal of encroachments on public roads
 
-- Penalties for encroachment on public roads
+11. Penalties for encroachment on public roads
 
-- Penalty for damage to public roads
+12. Penalty for damage to public roads
 
-- Extent of application
+13. Extent of application
 
-- Ban on sleds, etc., on public roads
+14. Ban on sleds, etc., on public roads
 
-- Offences and penalties
+15. Offences and penalties
 
 Copyright Government of Botswana
 
@@ -4814,15 +5000,27 @@ Copyright Government of Botswana
 
 [[START OF PAGE 93]]
 
-- 16.
+16. Powers of entry
 
-- 17.
+17. Disputes as to compensation or interest or right of claimants
 
-- 18.
+18. Disputes as to legality of entry or taking possession
 
-Powers of entry Disputes as to compensation or interest or right of claimants Disputes as to legality of entry or taking possession
+19. Delay in payment of compensation
 
-- Delay in payment of compensation
+Proc. 48, 1907,
+Proc. 50, 1924,
+Cap. 142, 1948,
+Cap. 169, 1959,
+Law 11, 1961,
+HMC Order 1, 1963,
+L.N. 84, 1966,
+Act 60, 1969,
+S.I. 12, 1977.
+
+An Act to provide for the establishment and proclamation of public roads and ways or roads of necessity for the closing and diversion thereof and for the fencing of lands through which roads may pass.
+
+[ Date of Commencement: 21st December, 1907 ]
 
 #### 1. Short title
 
@@ -4830,7 +5028,7 @@ This Act may be cited as the Public Roads Act.
 
 #### 2. Establishment of public roads
 
-(1) The Minister may from time to time and at any time establish and declare public roads on, to or over any land situated within Botswana by order published in three successive issues of the Gazette .
+(1) The Minister may from time to time and at any time establish and declare public roads on, to or over any land situated within Botswana by order published in three successive issues of the Gazette.
 
 (2) The order shall define the general course, situation and width of the road or roads included therein either by reference to an existing road or roads, or in the case of a new road by describing in general terms the course thereof.
 
@@ -4842,21 +5040,15 @@ If any road established and declared by the Minister under the provisions of thi
 
 #### 4. Ways of necessity
 
-If at any time it appears to the Minister upon the petition of any adjacent or neighbouring owner or occupier, that such owner or occupier requires a way or road of necessity on to or over any land situated in Botswana the Minister may, by order published in the Gazette , grant such way or road of necessity, and determine the direction and width thereof:
+If at any time it appears to the Minister upon the petition of any adjacent or neighbouring owner or occupier, that such owner or occupier requires a way or road of necessity on to or over any land situated in Botswana the Minister may, by order published in the Gazette, grant such way or road of necessity, and determine the direction and width thereof:
 
 Provided that compensation for the right-of-way, and any damage done shall be paid by the person or persons for whose benefit, and upon whose application the said road is made, the amount thereof to be determined by the Minister in his sole discretion.
 
 #### 5. Closing and diverting of public roads by Minister
 
-The Minister may, by order published twice in the Gazette , declare that any road or part of any road shall cease to be a public road, and such road or part of a road, as the case may be, shall thereupon cease to be such road accordingly; or declare that any public road shall be diverted or closed at such time as shall be specified in that behalf in any such order, and such road shall thereupon be so diverted or closed, as the case may be, accordingly:
+The Minister may, by order published twice in the Gazette, declare that any road or part of any road shall cease to be a public road, and such road or part of a road, as the case may be, shall thereupon cease to be such road accordingly; or declare that any public road shall be diverted or closed at such time as shall be specified in that behalf in any such order, and such road shall thereupon be so diverted or closed, as the case may be, accordingly:
 
 Provided that the right of the public to travel along any public road or part thereof which has ceased to be such road shall continue until such road or part thereof has been diverted or closed.
-
-Proc. 48, 1907, Proc. 50, 1924, Cap. 142, 1948, Cap. 169, 1959, Law 11, 1961, HMC Order 1, 1963, L.N. 84, 1966, Act 60, 1969, S.I. 12, 1977.
-
-An Act to provide for the establishment and proclamation of public roads and ways or roads of necessity for the closing and diversion thereof and for the fencing of lands through which roads may pass.
-
-[ Date of Commencement: 21st December, 1907 ]
 
 Copyright Government of Botswana
 
@@ -4868,11 +5060,11 @@ Copyright Government of Botswana
 
 (1) The owner or owners of any land in Botswana, or any person authorized thereto by any such owner or owners may make application to the Minister to declare that any public road which passes over the property of such owner or owners shall be closed or diverted.
 
-- Notice of the intention to apply for the closing or diverting of any public road shall be posted for general information at some conspicuous place outside the office of the District Commissioner of the district in which the property is situated, and published in the Gazette once in each month for a period of three months, and once a week during six weeks in some newspaper published within the district, or if there be none such in some newspaper circulating within the district.
+(2) Notice of the intention to apply for the closing or diverting of any public road shall be posted for general information at some conspicuous place outside the office of the District Commissioner of the district in which the property is situated, and published in the Gazette once in each month for a period of three months, and once a week during six weeks in some newspaper published within the district, or if there be none such in some newspaper circulating within the district.
 
-(3) Such notice shall in some part thereof clearly describe the road sought to be closed or diverted, and the situation thereof, and shall call upon any person objecting thereto to file his objection in writing at the office of the Minister within one month after the date of latest publication of such notice in the Gazette .
+(3) Such notice shall in some part thereof clearly describe the road sought to be closed or diverted, and the situation thereof, and shall call upon any person objecting thereto to file his objection in writing at the office of the Minister within one month after the date of latest publication of such notice in the Gazette.
 
-- The Minister may, after the expiration of such period of one month, by order published in the Gazette close or divert such road in the manner provided in section 5 with or without such modification or alterations as he thinks fit or may refuse such application.
+(4) The Minister may, after the expiration of such period of one month, by order published in the Gazette close or divert such road in the manner provided in section 5 with or without such modification or alterations as he thinks fit or may refuse such application.
 
 #### 7. Regulations
 
@@ -4940,9 +5132,9 @@ The Permanent Secretary or any person generally or specially deputed in writing 
 
 ( e ) inspect natural materials on which no work has been expended and remove samples thereof in reasonable quantities for soil survey purposes; and
 
-- enter at all reasonable hours any building or enclosed place:
+( f ) enter at all reasonable hours any building or enclosed place:
 
-( f ) Provided that-
+Provided that-
 
 (i) no person shall enter upon any land or into any building or enclosed place thereon (except with the consent of the owner or occupier thereof) without previously giving such owner or occupier at least seven days' notice of his intention to do so;
 
@@ -4978,53 +5170,53 @@ Any person aggrieved by any delay in the payment of compensation due to him unde
 
 ##### Preliminary
 
+SECTION
+
+1. Short title
+
+2. Interpretation
+
 #### PART II
 
 ##### Establishment, Constitution and Membership of Organization
 
-- Establishment of Organization and legal personality
+3. Establishment of Organization and legal personality
 
-- Composition of Organization
+4. Composition of Organization
 
-- Resignation and removal from office
+5. Resignation and removal from office
 
-- Tenure of office
+6. Tenure of office
 
-- Payment of members
+7. Payment of members
 
 #### PART III
 
 ##### Meetings and Proceedings of Board
 
-- Meetings
+8. Meetings
 
-- Signification of documents
+9. Signification of documents
 
 #### PART IV
 
 ##### Officers, Employees and Agents of Organization
 
-- Appointment of officers and employees
+10. Appointment of officers and employees
 
-- Delegation to committee
+11. Delegation to committee
 
 #### PART V
 
 ##### Functions, Powers and Duties of Organization
 
-- Functions and powers
+12. Functions and powers
 
-- Exclusive privilege of Organization
+13. Exclusive privilege of Organization
 
-- Co-operation with authorities
+14. Co-operation with authorities
 
-- Research and records
-
-SECTION
-
-- Short title
-
-- Interpretation
+15. Research and records
 
 Copyright Government of Botswana
 
@@ -5032,47 +5224,59 @@ Copyright Government of Botswana
 
 [[START OF PAGE 97]]
 
-- Powers of Minister to give directions
+16. Powers of Minister to give directions
 
 #### PART VI
 ##### Finance
 
-- Principles of financial operations
+17. Principles of financial operations
 
-- Fixing of tariffs and surplus funds
+18. Fixing of tariffs and surplus funds
 
-- Borrowing powers
+19. Borrowing powers
 
-- Vesting of property in Organization
+20. Vesting of property in Organization
 
-- Accounts and audit
+21. Accounts and audit
 
 #### PART VII
 ##### General
 
-- Annual report
+22. Annual report
 
-- Compulsory acquisition of land
+23. Compulsory acquisition of land
 
-- Resettlement measures
+24. Resettlement measures
 
-- Compensation for loss or damage
+25. Compensation for loss or damage
 
-- Power to call for information
+26. Power to call for information
 
-- 26A. Confidentiality
+26A. Confidentiality
 
-- 26B. Powers of arrest
+26B. Powers of arrest
 
-- Power to make bye-laws, etc.
+27. Power to make bye-laws, etc.
 
-- Protection from personal liability
+28. Protection from personal liability
 
-- Power to make regulations
+29. Power to make regulations
 
-- Transitional provisions
+30. Transitional provisions
 
-- Application of certain laws
+31. Application of certain laws
+
+Act 22, 1986,
+S.I. 104, 1987,
+Act 22, 2004.
+
+An Act to provide for the establishment of an Organization to be known as the Botswana Railways for the provision and operation of railway services and for matters connected therewith or incidental thereto.
+
+[ Date of Commencement: 1st October, 1987 ]
+
+### PART I
+
+#### Preliminary (ss 1-2)
 
 #### 1. Short title
 
@@ -5093,18 +5297,6 @@ In this Act, unless the context otherwise requires-
 "private siding" means any line of railway which is connected to, or is contiguous with, Botswana Railways, other than such connections at the national borders, which has been constructed on land not owned or leased by Botswana Railways, for the specific purpose of facilitating rail transport access to premises or works situated on that land;
 
 "railway jurisdiction" means any property of the Organization and includes any of the following which belong to the Organization, namely, buildings, offices, premises, warehouses, trains, locomotives, carriages, wagons, railway yards, railway tracks and the adjoining land;
-
-Act 22, 1986, S.I. 104, 1987,
-
-Act 22, 2004.
-
-An Act to provide for the establishment of an Organization to be known as the Botswana Railways for the provision and operation of railway services and for matters connected therewith or incidental thereto.
-
-[ Date of Commencement: 1st October, 1987 ]
-
-### PART I
-
-#### Preliminary (ss 1-2)
 
 Copyright Government of Botswana
 
@@ -5138,7 +5330,7 @@ Copyright Government of Botswana
 
 (c) not less than five or more than nine other persons who in the opinion of the Minister have knowledge and experience likely to contribute to the successful management of the Organization.
 
-(2) A person shall not be competent to be appointed or to act as a member of the Board
+(2) A person shall not be competent to be appointed or to act as a member of the Board if-
 
 ( a ) he is a Member of the National Assembly;
 
@@ -5170,9 +5362,13 @@ Copyright Government of Botswana
 
 #### 6. Tenure of office
 
-- A member of the Board, other than the chairman and the general manager, shall hold
+(1) A member of the Board, other than the chairman and the general manager, shall hold office for such period, not exceeding four years, as may be specified in the notice appointing him, and on the expiration of such period shall be eligible for reappointment:
 
-ifoffice for such period, not exceeding four years, as may be specified in the notice appointing him, and on the expiration of such period shall be eligible for reappointment: Provided that in appointing members of the Board, the Minister shall specify such periods of appointment so that the periods of appointment of not more than one-third of the members shall expire in any one year. (2) The chairman of the Board shall hold office as chairman for a period of three years, and may be re-appointed for any further periods of three years. (3) The Board shall once in every year elect from among its members (other than the ex officio member) a vice-chairman who shall hold office as vice-chairman for a period of one year.
+Provided that in appointing members of the Board, the Minister shall specify such periods of appointment so that the periods of appointment of not more than one-third of the members shall expire in any one year.
+
+(2) The chairman of the Board shall hold office as chairman for a period of three years, and may be re-appointed for any further periods of three years.
+
+(3) The Board shall once in every year elect from among its members (other than the ex officio member) a vice-chairman who shall hold office as vice-chairman for a period of one year.
 
 Copyright Government of Botswana
 
@@ -5192,11 +5388,29 @@ The Board shall pay to the members thereof such remuneration, fees and allowance
 
 #### 8. Meetings
 
-(1) The Board shall meet for the discharge of its functions at such times and places as the chairman may appoint, so however that the Board shall meet at intervals not exceeding three months. (2) The chairman or, in his absence, the vice-chairman may, and shall on the request in writing of not less than two members of the Board, call an extraordinary meeting of the Board at such time and place as he may determine. (3) The chairman or, in his absence, the vice-chairman shall preside at every meeting of the Board. (4) In the absence of both the chairman and the vice-chairman the members present shall elect one of their number to preside at the meeting. (5) The quorum at any meeting of the Board shall not be less than one-half of the members of the Board: Provided that the presence of the general manager shall not count towards the constitution of the quorum. (6) All questions proposed at a meeting of the Board shall be determined by a majority of the members present and voting, and, where the votes are equal, the chairman or the person presiding shall have a second or a casting vote. (7) Where a member is present at a meeting of the Board or any committee of the Board at which any matter which is the subject of consideration, and in which matter the member is directly or indirectly interested in a private capacity is to be discussed, he or she shall forthwith, after the commencement of the meeting, disclose such interest to the Board or committee of the Board, as the case may be, and shall not, unless the Board or committee otherwise directs, take part in any consideration or discussion of, or vote on, any question with respect to the matter. (8) The general manager shall, unless the Board in any particular instance decides otherwise, be entitled to attend the meetings of the Board and participate in the discussions without a vote. (9) The Board may, and shall if the Minister thinks fit, request the attendance of any shallhave all the powers of a member except that he shall not vote on any question and his
+(1) The Board shall meet for the discharge of its functions at such times and places as the chairman may appoint, so however that the Board shall meet at intervals not exceeding three months.
 
-person to act as adviser at any meeting of the Board, and that person while so attending presence at the meeting shall not count towards the constitution of a quorum.
+(2) The chairman or, in his absence, the vice-chairman may, and shall on the request in writing of not less than two members of the Board, call an extraordinary meeting of the Board at such time and place as he may determine.
 
-(10) The validity of any act or proceedings of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of a member thereof. (11) The Board may from time to time make standing orders providing for the regulation of-
+(3) The chairman or, in his absence, the vice-chairman shall preside at every meeting of the Board.
+
+(4) In the absence of both the chairman and the vice-chairman the members present shall elect one of their number to preside at the meeting.
+
+(5) The quorum at any meeting of the Board shall not be less than one-half of the members of the Board:
+
+Provided that the presence of the general manager shall not count towards the constitution of the quorum.
+
+(6) All questions proposed at a meeting of the Board shall be determined by a majority of the members present and voting, and, where the votes are equal, the chairman or the person presiding shall have a second or a casting vote.
+
+(7) Where a member is present at a meeting of the Board or any committee of the Board at which any matter which is the subject of consideration, and in which matter the member is directly or indirectly interested in a private capacity is to be discussed, he or she shall forthwith, after the commencement of the meeting, disclose such interest to the Board or committee of the Board, as the case may be, and shall not, unless the Board or committee otherwise directs, take part in any consideration or discussion of, or vote on, any question with respect to the matter.
+
+(8) The general manager shall, unless the Board in any particular instance decides otherwise, be entitled to attend the meetings of the Board and participate in the discussions without a vote.
+
+(9) The Board may, and shall if the Minister thinks fit, request the attendance of any person to act as adviser at any meeting of the Board, and that person while so attending shall have all the powers of a member except that he shall not vote on any question and his presence at the meeting shall not count towards the constitution of a quorum.
+
+(10) The validity of any act or proceedings of the Board shall not be affected by any vacancy among its members or by any defect in the appointment of a member thereof.
+
+(11) The Board may from time to time make standing orders providing for the regulation of-
 
 Copyright Government of Botswana
 
@@ -5217,11 +5431,35 @@ All documents made by, and all decisions of, the Board may be signified under th
 ### PART IV
 #### Officers, Employees and Agents of Organization (ss 10-11)
 #### 10. Appointment of officers and employees
-(1) The Board shall, with the approval of the Minister, appoint a general manager of the Organization on such terms and conditions as the Board may determine. (2) No person shall be appointed as the general manager of the Organization unless he is qualified by experience and training and has demonstrated that he is competent to manage the business of the Organization. (3) The general manager of the Organization shall, subject to such directions on matters of general policy as may be given by the Board, be charged with the direction of the business and administration of the Organization, and with the control of its employees. (4) The general manager may resign from office by notice in writing addressed to the Minister, and may be removed from office by the Minister. (5) The general manager may delegate to any senior officer of the Organization the exercise of any powers which he is authorized to exercise under this Act. (6) The Board shall on consideration of the recommendations of the general manager, from time to time, determine the staff deemed necessary for the proper discharge of the functions of the Organization and the terms and conditions of employment. (7) The appointment, dismissal and discipline of all persons to or from positions designated by the Organization as held by senior officers shall be made by the Board on consideration of recommendations of the general manager. (8) The appointment, dismissal and discipline of all other staff shall be made by the general manager or such senior officers as he may delegate to perform this function. (9) The Board may-( a ) grant pensions, gratuities or retiring allowances to any officer or employee and may require such officer or employee to contribute to any pension or contributory scheme; ( b ) for the benefit of its officers and employees, establish and make contributions to any pension or superannuation fund or medical fund; and ( c ) from time to time appoint and employ upon such terms and conditions as it may think fit such agents and contractors as it may deem necessary. (10) Public officers from other Ministries or Departments may be transferred or seconded to the Organization or may with the consent of their supervisors otherwise give assistance thereto. (11) ... (12) Officers and employees of the Organization may become members of an
+(1) The Board shall, with the approval of the Minister, appoint a general manager of the Organization on such terms and conditions as the Board may determine.
 
-(1) The Board shall, with the approval of the Minister, appoint a general manager of the Organization on such terms and conditions as the Board may determine. (2) No person shall be appointed as the general manager of the Organization unless he is qualified by experience and training and has demonstrated that he is competent to manage the business of the Organization. (3) The general manager of the Organization shall, subject to such directions on matters of general policy as may be given by the Board, be charged with the direction of the business and administration of the Organization, and with the control of its employees. (4) The general manager may resign from office by notice in writing addressed to the Minister, and may be removed from office by the Minister. (5) The general manager may delegate to any senior officer of the Organization the exercise of any powers which he is authorized to exercise under this Act. (6) The Board shall on consideration of the recommendations of the general manager, from time to time, determine the staff deemed necessary for the proper discharge of the functions of the Organization and the terms and conditions of employment. (7) The appointment, dismissal and discipline of all persons to or from positions designated by the Organization as held by senior officers shall be made by the Board on consideration of recommendations of the general manager. (8) The appointment, dismissal and discipline of all other staff shall be made by the general manager or such senior officers as he may delegate to perform this function. (9) The Board may-( a ) grant pensions, gratuities or retiring allowances to any officer or employee and may require such officer or employee to contribute to any pension or contributory scheme; ( b ) for the benefit of its officers and employees, establish and make contributions to any pension or superannuation fund or medical fund; and ( c ) from time to time appoint and employ upon such terms and conditions as it may think fit such agents and contractors as it may deem necessary. (10) Public officers from other Ministries or Departments may be transferred or seconded to the Organization or may with the consent of their supervisors otherwise give assistance thereto. (11) ... (12) Officers and employees of the Organization may become members of an
+(2) No person shall be appointed as the general manager of the Organization unless he is qualified by experience and training and has demonstrated that he is competent to manage the business of the Organization.
 
-appropriate trade union.
+(3) The general manager of the Organization shall, subject to such directions on matters of general policy as may be given by the Board, be charged with the direction of the business and administration of the Organization, and with the control of its employees.
+
+(4) The general manager may resign from office by notice in writing addressed to the Minister, and may be removed from office by the Minister.
+
+(5) The general manager may delegate to any senior officer of the Organization the exercise of any powers which he is authorized to exercise under this Act.
+
+(6) The Board shall on consideration of the recommendations of the general manager, from time to time, determine the staff deemed necessary for the proper discharge of the functions of the Organization and the terms and conditions of employment.
+
+(7) The appointment, dismissal and discipline of all persons to or from positions designated by the Organization as held by senior officers shall be made by the Board on consideration of recommendations of the general manager.
+
+(8) The appointment, dismissal and discipline of all other staff shall be made by the general manager or such senior officers as he may delegate to perform this function.
+
+(9) The Board may-
+
+( a ) grant pensions, gratuities or retiring allowances to any officer or employee and may require such officer or employee to contribute to any pension or contributory scheme;
+
+( b ) for the benefit of its officers and employees, establish and make contributions to any pension or superannuation fund or medical fund; and
+
+( c ) from time to time appoint and employ upon such terms and conditions as it may think fit such agents and contractors as it may deem necessary.
+
+(10) Public officers from other Ministries or Departments may be transferred or seconded to the Organization or may with the consent of their supervisors otherwise give assistance thereto.
+
+(11) ...
+
+(12) Officers and employees of the Organization may become members of an appropriate trade union.
 
 #### 11. Delegation to committee
 
@@ -5239,7 +5477,7 @@ Copyright Government of Botswana
 
 #### 12. Functions and powers
 
-- Subject to subsections (2) and (3), the functions of the Organization shall be to-
+(1) Subject to subsections (2) and (3), the functions of the Organization shall be to-
 
 ( a ) provide efficient and cost effective railway transport over all its railways within the borders of Botswana;
 
@@ -5261,11 +5499,11 @@ Copyright Government of Botswana
 
 ( c ) where applicable, such financial instruments may be listed in the stock exchange in the same manner and subject to the same requirements and procedure as those given to financial instruments issued by the Government or other statutory bodies.
 
-- The Organization shall have no direct responsibility for the maintenance of connections with, or responsibility for providing services to private sidings, other than duties and obligations arising from an agreement entered into with the owner of any such private siding.
+(2) The Organization shall have no direct responsibility for the maintenance of connections with, or responsibility for providing services to private sidings, other than duties and obligations arising from an agreement entered into with the owner of any such private siding.
 
-- The Organization shall not, without the approval of the Board after consultation with the Minister, construct a new line of railway at any point outside the recognised railway reserve not previously served by the Organization, neither shall it close nor remove any existing line of railway other than a connexion to a private siding.
+(3) The Organization shall not, without the approval of the Board after consultation with the Minister, construct a new line of railway at any point outside the recognised railway reserve not previously served by the Organization, neither shall it close nor remove any existing line of railway other than a connexion to a private siding.
 
-- The Organization shall have all powers necessary or convenient for the performance of its functions and duties and without prejudice to the generality thereof, shall have the power, on behalf of the Government, to-
+(4) The Organization shall have all powers necessary or convenient for the performance of its functions and duties and without prejudice to the generality thereof, shall have the power, on behalf of the Government, to-
 
 ( a ) acquire, maintain, improve and operate the railways at present existing within Botswana or outside Botswana as may be directed by the Government from time to time;
 
@@ -5303,7 +5541,7 @@ Provided that the Organization may not sell any of its immovable property withou
 
 (1) The Organization shall have the exclusive privilege of operating railway services in Botswana.
 
-- The Board may permit any person to construct a private siding.
+(2) The Board may permit any person to construct a private siding.
 
 #### 14. Co-operation with authorities
 
@@ -5386,11 +5624,11 @@ Copyright Government of Botswana
 
 #### 21. Accounts and audit
 
-- The Organization shall keep proper accounts and other records in relation thereto, and shall prepare in respect of each financial year a statement of accounts showing in detail the assets and liabilities (real and contingent) and income and expenditure of the Organization in a form which shall conform with the best commercial accounting standards applicable to the provision of services.
+(1) The Organization shall keep proper accounts and other records in relation thereto, and shall prepare in respect of each financial year a statement of accounts showing in detail the assets and liabilities (real and contingent) and income and expenditure of the Organization in a form which shall conform with the best commercial accounting standards applicable to the provision of services.
 
-- The accounts of the Organization in respect of each financial year shall, within four months or such extended time after the end thereof as the Minister may direct, be audited by the Auditor-General or any auditor appointed by the Auditor-General (hereinafter referred to as "appointed auditor").
+(2) The accounts of the Organization in respect of each financial year shall, within four months or such extended time after the end thereof as the Minister may direct, be audited by the Auditor-General or any auditor appointed by the Auditor-General (hereinafter referred to as "appointed auditor").
 
-- The Auditor-General or any appointed auditor shall report in respect of the accounts for each financial year, in addition to any other matter on which he deems it pertinent to comment, whether or not-
+(3) The Auditor-General or any appointed auditor shall report in respect of the accounts for each financial year, in addition to any other matter on which he deems it pertinent to comment, whether or not-
 
 ( a ) he has received all the information and explanations which, to the best of his knowledge and belief, were necessary for the performance of his duties as auditor;
 
@@ -5400,17 +5638,17 @@ Copyright Government of Botswana
 
 ( d ) the statement of accounts prepared by the Organization was prepared on a basis consistent with that of the preceding year and represents a true and fair view of the transactions and financial affairs of the Organization.
 
-- The report of the Auditor-General or the appointed auditor and a copy of the audited accounts shall, within seven days of the completion thereof, be forwarded to the Minister and to the Organization.
+(4) The report of the Auditor-General or the appointed auditor and a copy of the audited accounts shall, within seven days of the completion thereof, be forwarded to the Minister and to the Organization.
 
-- The Minister shall, within 30 days of receiving the report and a copy of the audited accounts, lay such report and accounts before the National Assembly.
+(5) The Minister shall, within 30 days of receiving the report and a copy of the audited accounts, lay such report and accounts before the National Assembly.
 
-### PART VII (ss 22-31)
+### PART VII
 
-#### General
+#### General (ss 22-31)
 
 #### 22. Annual report
 
-- The Board shall, within a period of six months after the end of the financial year or
+(1) The Board shall, within a period of six months after the end of the financial year or
 
 Copyright Government of Botswana
 
@@ -5455,7 +5693,7 @@ The Minister may, for purposes associated with the administration of this Act, r
 
 (iii) in the investigation of an offence.
 
-- Every member of the Board and employee of the Organization shall take and subscribe to an oath of secrecy in such form as the Minister may prescribe.
+(3) Every member of the Board and employee of the Organization shall take and subscribe to an oath of secrecy in such form as the Minister may prescribe.
 
 (4) A person who contravenes subsection (1), shall be guilty of an offence and shall be liable to a fine not exceeding P5 000 or to imprisonment for a term not exceeding 1 year, or to both.
 
@@ -5492,46 +5730,46 @@ such alteration without the consent in writing of all parties bound by the contr
 
 #### 31. Application of certain laws
 
-(1) Any written laws relating to railways shall, to the extent that they are not inconsistent with the provisions of this Act, continue to be in force. railway authority or employees of such railway authority shall be exercisable by the Organization
+(1) Any written laws relating to railways shall, to the extent that they are not inconsistent with the provisions of this Act, continue to be in force.
 
-- Any powers contained in any written law which were exercisable by any predecessor and its employees and any reference to any predecessor railway authority in any such written law shall be deemed to be reference to Botswana Railways.
+(2) Any powers contained in any written law which were exercisable by any predecessor railway authority or employees of such railway authority shall be exercisable by the Organization and its employees and any reference to any predecessor railway authority in any such written law shall be deemed to be reference to Botswana Railways.
 
 ## CHAPTER 70:02 RAILWAY (ACCIDENT INQUIRY)
 
 ### ARRANGEMENT OF SECTIONS
 SECTION
 
-- Short title
+1. Short title
 
-- Accidents on railway to be reported
+2. Accidents on railway to be reported
 
-- Nature of report
+3. Nature of report
 
-- Minister may order inquiry
+4. Minister may order inquiry
 
-- Procedure of inquiry
+5. Procedure of inquiry
 
-- Default by witnesses
+6. Default by witnesses
 
-- Oaths and forms to be used
+7. Oaths and forms to be used
 
-- Contempt
+8. Contempt
 
-- Expenses of witnesses
+9. Expenses of witnesses
 
-- Inquiry to be public, subject to discretion of administrative officer
+10. Inquiry to be public, subject to discretion of administrative officer
 
-- Powers and duties of administrative officer
+11. Powers and duties of administrative officer
 
-- Administrative officer to report finding
+12. Administrative officer to report finding
 
-- Holding of inquiry by person not an administrative officer
+13. Holding of inquiry by person not an administrative officer
 
-- Inquiry not to affect holding of inquest
+14. Inquiry not to affect holding of inquest
 
 Copyright Government of Botswana
 
-Proc, 9, 1940, Proc. 1, 1941, Cap. 140, 1948, Cap. 166, 1959, HMC Order 1, 1963,
+Proc. 9, 1940, Proc. 1, 1941, Cap. 140, 1948, Cap. 166, 1959, H.C. Order 1, 1963,
 
 [[END OF PAGE 106]]
 
@@ -5555,7 +5793,7 @@ When in the course of working a railway in Botswana an accident occurs causing l
 
 The report shall contain a brief statement of the nature of the accident and of the injuries, if any, caused to any person or persons.
 
-#### 4. Ministry may order inquiry
+#### 4. Minister may order inquiry
 
 (1) The Minister, if he considers such course advisable, may order an inquiry into the cause of any such accident and may direct an administrative officer or other competent person to investigate the matter with the aid of an assessor or assessors to be appointed by the President.
 
@@ -5623,19 +5861,26 @@ The holding of an inquiry shall not exempt any administrative officer from holdi
 
 SECTION
 
-- Short title
+1. Short title
 
-- Interpretation
+2. Interpretation
 
-- Compensation to be made to owner of stock killed or injured by trains running by daylight
+3. Compensation to be made to owner of stock killed or injured by trains running by daylight
 
-- Penalty for making claim with intent to defraud
+4. Penalty for making claim with intent to defraud
 
-- Amount of compensation payable
+5. Amount of compensation payable
 
-- Claims cognizable in any competent court of Botswana
+6. Claims cognizable in any competent court of Botswana
 
-Schedule - Maximum Amounts of Compensation Payable Proc. 20, 1904, Cap. 139, 1948, Proc. 12, 1953, Cap. 165, 1959, L.N. 84, 1966, Act 5, 1979.
+Schedule - Maximum Amounts of Compensation Payable
+
+Proc. 20, 1904,
+Cap. 139, 1948,
+Proc. 12, 1953,
+Cap. 165, 1959,
+L.N. 84, 1966,
+Act 5, 1979.
 
 An Act to make provision as to the compensation of owners of stock killed or injured by trains running on lines of railway.
 
@@ -5647,27 +5892,30 @@ Copyright Government of Botswana
 
 [Date of commencement: 6th August, 1904]
 
-#### Short title
+#### 1. Short title
 
 This Act may be cited as the Railway (Compensation for Livestock) Act.
 
-#### Interpretation
+#### 2. Interpretation
 
-In this Act, unless the context otherwise requires"daylight" means the period between sunrise and sunset; "stock" includes horse, gelding, mare, colt, mule, ass, bull, ox, heifer, tolly, cow, calf, sheep, goat, pig and ostrich; "undertakers" means any Government, company or body of persons working railways within the limits of Botswana under lawful authority.
+In this Act, unless the context otherwise requires-
+"daylight" means the period between sunrise and sunset;
+"stock" includes horse, gelding, mare, colt, mule, ass, bull, ox, heifer, tolly, cow, calf, sheep, goat, pig and ostrich;
+"undertakers" means any Government, company or body of persons working railways within the limits of Botswana under lawful authority.
 
-#### Compensation to be made to owner of stock killed or injured by trains running by daylight
+#### 3. Compensation to be made to owner of stock killed or injured by trains running by daylight
 
 The undertakers of any railway within the limits of Botswana shall pay compensation to the owner of any stock killed or injured by any train running by daylight on any line worked by such undertakers if the part of the line at which such killing or injury takes place is unfenced at that time and if no compensation has been paid to any person by such undertakers for or in respect of the right to construct such part of such line: Provided that no person shall be entitled to recover any sum of money under this Act for the killing or injuring of any stock who fails within 48 hours after such stock has been killed or injured to give notice to the nearest station-master of the killing or injury thereof and of the number and kind of stock so killed or injured in respect of which compensation is claimed: Provided also that the carcasses or remains of all stock killed and all injured stock in respect of which any claim is made under this Act shall be diligently and to the best of his ability kept and preserved by the owner making such claim for a period of not less than three full days from the time when such killing or injury took place and shall be shown to any person appointed for the purpose of ascertaining the value of the stock so killed or injured.
 
-#### Penalty for making claim with intent to defraud
+#### 4. Penalty for making claim with intent to defraud
 
 Any person who fails to keep and preserve such carcass or remains of killed stock or such injured stock as aforesaid or who makes any claim for compensation under this Act which any court of competent jurisdiction finds to be either fraudulent or grossly excessive shall not be entitled to any of the benefits of this Act and any person who makes any such claim with intent to defraud shall be guilty of an offence and liable to all the penalties of the crime of fraud.
 
-#### Amount of compensation payable
+#### 5. Amount of compensation payable
 
 (1) The amount of compensation payable under this Act shall in no case exceed the rates set out in the Schedule. (2) The Minister may, by order published in the Gazette , amend the Schedule.
 
-#### Claims cognizable in any competent court of Botswana
+#### 6. Claims cognizable in any competent court of Botswana
 
 Claims for compensation for stock under the provisions of this Act shall be cognizable in any competent court of Botswana within the jurisdiction of which court such stock has been killed or injured notwithstanding that the train by which the stock was killed or injured belongs to an undertaker not domiciled within Botswana, and for the purpose of such action service upon any station-master of the undertakers resident within the limits of such court shall be deemed sufficient service on the undertakers.
 
@@ -5689,53 +5937,61 @@ For any calf ...................................................................
 ### ARRANGEMENT OF SECTIONS
 SECTION
 
-- Short title
+1. Short title
 
-- Interpretation
+2. Interpretation
 
-- Powers of Minister
+3. Powers of Minister
 
-- Declaration of land subject to control
+4. Declaration of land subject to control
 
-- Emergency powers
+5. Emergency powers
 
-- Dangerous flying, etc.
+6. Dangerous flying, etc.
 
-- General control of buildings
+7. General control of buildings
 
-- Control of buildings near aerodromes
+8. Control of buildings near aerodromes
 
-- Closure of roads, etc.
+9. Closure of roads, etc.
 
-- Trespass by aircraft
+10. Trespass by aircraft
 
-- Trespass on aerodromes
+11. Trespass on aerodromes
 
-- Action for nuisance
+12. Action for nuisance
 
-- Aircraft and spares not liable to seizure
+13. Aircraft and spares not liable to seizure
 
-- Carriage of mail in aircraft
+14. Carriage of mail in aircraft
 
-- Offences on Botswana aircraft
+15. Offences on Botswana aircraft
 
-- Regulations
+16. Regulations
 
-#### Short title
-
-This Act may be cited as the Civil Aviation Act.
-
-#### Interpretation
-
-In this Act, unless the context otherwise requires"aerodrome" means any area of land or water designed, equipped, set apart or commonly used for affording facilities for the landing and departure of aircraft; "air transport service" means a service for the carriage by air of passengers, mail or other freight; "Botswana aircraft" means an aircraft registered in Botswana in pursuance of regulations made under this Act; "Chicago Convention" means the Convention on International Civil Aviation concluded at Chicago on 7th December, 1944; "Director" means the Director of Civil Aviation;
-
-Copyright Government of Botswana
-
-Act 15, 1975, Act 7, 1977, S.I. 85, 1977, Act 14, 2005.
+Act 15, 1975,
+Act 7, 1977,
+S.I. 85, 1977,
+Act 14, 2005.
 
 An Act to make provision for the control, regulation and orderly development of civil aviation and air services within Botswana and for matters incidental thereto and connected therewith.
 
-[ Date of Commencement: 1st July, 1977 ]
+[Date of Commencement: 1st July, 1977]
+
+#### 1. Short title
+
+This Act may be cited as the Civil Aviation Act.
+
+#### 2. Interpretation
+
+In this Act, unless the context otherwise requires-
+"aerodrome" means any area of land or water designed, equipped, set apart or commonly used for affording facilities for the landing and departure of aircraft;
+"air transport service" means a service for the carriage by air of passengers, mail or other freight;
+"Botswana aircraft" means an aircraft registered in Botswana in pursuance of regulations made under this Act;
+"Chicago Convention" means the Convention on International Civil Aviation concluded at Chicago on 7th December, 1944;
+"Director" means the Director of Civil Aviation;
+
+Copyright Government of Botswana
 
 [[END OF PAGE 110]]
 
@@ -5797,15 +6053,15 @@ Copyright Government of Botswana
 
 [[START OF PAGE 112]]
 
-- An order under this section may contain provision for empowering any person authorized in that behalf by the Minister to move or alter, so as to bring it into conformity with the requirements of the order or any directions given thereunder, any building, structure, vegetation or apparatus which contravenes those requirements, and for the recovery of the expenses thereof.
+(3) An order under this section may contain provision for empowering any person authorized in that behalf by the Minister to move or alter, so as to bring it into conformity with the requirements of the order or any directions given thereunder, any building, structure, vegetation or apparatus which contravenes those requirements, and for the recovery of the expenses thereof.
 
-- Where the Minister makes or has under consideration the making of an order under this section in respect of any land, any person authorized in that behalf in writing by the Minister may at all reasonable times, on producing evidence of his authority, if demanded, enter upon any of the land in order to make any survey which the Minister requires to be made for the purposes of any steps to be taken in consequence of the order or, as the case may be, for the purpose of determining whether the order should be made:
+(4) Where the Minister makes or has under consideration the making of an order under this section in respect of any land, any person authorized in that behalf in writing by the Minister may at all reasonable times, on producing evidence of his authority, if demanded, enter upon any of the land in order to make any survey which the Minister requires to be made for the purposes of any steps to be taken in consequence of the order or, as the case may be, for the purpose of determining whether the order should be made:
 
 Provided that admission shall not, by virtue of this subsection, be demanded as of right to any land which is occupied unless 24 hours' notice in writing of the intended entry has been served on the occupier.
 
-- Any person who obstructs any other person in the exercise of any powers conferred upon that other person by virtue of subsection (3) or (4) shall be guilty of an offence and liable to a fine not exceeding P150 or to imprisonment for a term not exceeding six months, or to both.
+(5) Any person who obstructs any other person in the exercise of any powers conferred upon that other person by virtue of subsection (3) or (4) shall be guilty of an offence and liable to a fine not exceeding P150 or to imprisonment for a term not exceeding six months, or to both.
 
-- Any person who incurs expense or suffers damage by reason of the operation of this section shall be entitled to receive from the Government adequate compensation in respect of the expense or damage, the amount thereof to be fixed, in default of agreement, by an arbitrator in accordance with the Arbitration Act:
+(6) Any person who incurs expense or suffers damage by reason of the operation of this section shall be entitled to receive from the Government adequate compensation in respect of the expense or damage, the amount thereof to be fixed, in default of agreement, by an arbitrator in accordance with the Arbitration Act:
 
 Provided that no compensation shall be payable in respect of any building or structure erected in contravention of a prohibition or restriction on such erection.
 
@@ -5815,15 +6071,15 @@ Provided that no compensation shall be payable in respect of any building or str
 
 (1) In time of actual or imminent war or of national emergency, the Minister may by order regulate or prohibit, either absolutely or subject to such conditions as may be contained in the order, the navigation of all or any descriptions of aircraft over Botswana or any portion thereof; and may by order provide for taking possession of and using for the purposes of the military forces of Botswana any aerodrome, or any aircraft, machinery, plant, material or things found therein or thereon, and for regulating or prohibiting the use, erection, building, maintenance or establishment of any aerodrome, or flying school of any class or description.
 
-- If any person contravenes or fails to comply with any provision of an order made under this section, he shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 12 months, or to both.
+(2) If any person contravenes or fails to comply with any provision of an order made under this section, he shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding 12 months, or to both.
 
-- Any person who suffers direct injury or loss owing to the operation of an order made under this section shall be entitled to receive adequate compensation from the Government, the amount thereof to be fixed, in default of agreement, by an arbitrator in accordance with the Arbitration Act:
+(3) Any person who suffers direct injury or loss owing to the operation of an order made under this section shall be entitled to receive adequate compensation from the Government, the amount thereof to be fixed, in default of agreement, by an arbitrator in accordance with the Arbitration Act:
 
 Provided that no compensation shall be payable by reason of the operation of a general order under this section prohibiting flying in Botswana or any part thereof.
 
 #### 6. Dangerous flying, etc.
 
-- Where an aircraft is flown in such a manner as to cause danger to any person or property on land or water, or in contravention of any regulations made under this Act, the pilot or other person in charge of the aircraft and the owner of the aircraft shall be guilty of an offence and liable for a first offence to a fine not exceeding P500 or to imprisonment for a term not exceeding six months, or to both, and for a second or subsequent offence to a fine not exceeding P5 000 or to imprisonment for a term not exceeding two years, or to both.
+(1) Where an aircraft is flown in such a manner as to cause danger to any person or property on land or water, or in contravention of any regulations made under this Act, the pilot or other person in charge of the aircraft and the owner of the aircraft shall be guilty of an offence and liable for a first offence to a fine not exceeding P500 or to imprisonment for a term not exceeding six months, or to both, and for a second or subsequent offence to a fine not exceeding P5 000 or to imprisonment for a term not exceeding two years, or to both.
 
 (2) In any proceedings against the owner of an aircraft in respect of an offence under this section, it shall be a defence to prove that the act constituting the offence was done without the knowledge or consent of the owner.
 
@@ -5853,7 +6109,7 @@ Provided that no such direction shall be given in relation to any building, stru
 
 (2) The Minister shall, before giving any such direction, cause to be published, in such manner as he thinks best for informing the persons concerned, notice of the proposal to give the direction and of the place where copies of the proposed direction may be obtained free of charge, and take into consideration any representations with respect to the direction which may, within such period not being less than two months after the publication of the notice as may be specified therein, be made to him by any person appearing to him to have an interest in any land which would be affected by the direction; and at the end of that period the direction may, subject to the provisions of this section, be made with such modifications (if any) of the original proposal as the Minister thinks proper.
 
-- Every direction shall provide-
+(3) Every direction shall provide-
 
 ( a ) that, except in a case of emergency, no works shall be executed on any land in pursuance of the direction unless, at least 14 days previously, the proprietor of the aerodrome to which the direction relates has served in the manner prescribed by the direction on the occupier of that land, and on every person known by the proprietor to have an interest therein, a written notice containing such particulars of the nature of the proposed works, and the manner in which and the time at which it is proposed to execute them, as may be prescribed by or in accordance with the direction; and
 
@@ -5951,33 +6207,33 @@ Copyright Government of Botswana
 
 [[START OF PAGE 116]]
 
-- The importation into and storage in Botswana of spare parts and spare equipment for an aircraft to which this subsection applies and the use and installation thereof in the repair of such an aircraft shall not entitle any seizure or detention of aircraft or of the spare parts or spare equipment or any proceedings against the owner or operator of the aircraft or the owner of the spare parts or spare equipment or any other interference with the aircraft by or on behalf of any person in Botswana on the ground that the spare parts or spare equipment or their installation are or is an infringement of any patent, design or model.
+(2) The importation into and storage in Botswana of spare parts and spare equipment for an aircraft to which this subsection applies and the use and installation thereof in the repair of such an aircraft shall not entitle any seizure or detention of aircraft or of the spare parts or spare equipment or any proceedings against the owner or operator of the aircraft or the owner of the spare parts or spare equipment or any other interference with the aircraft by or on behalf of any person in Botswana on the ground that the spare parts or spare equipment or their installation are or is an infringement of any patent, design or model.
 
-- Subsections (1) and (2) shall apply-
+(3) Subsections (1) and (2) shall apply-
 
 ( a ) to any aircraft registered in a country or territory which is a party to the Chicago Convention; and
 
 ( b ) to such other aircraft as the Minister may, by order published in the Gazette , specify: Provided that subsection (2) shall not apply in relation to any spare parts or spare equipment which are sold or distributed in Botswana.
 
-- Where it is alleged by any person interested that a foreign aircraft which is not an aircraft to which subsection (1) applies and which is making a passage through or over Botswana infringes in itself or part of it any invention, design or model which is entitled to protection in Botswana, it shall be lawful, subject to and in accordance with rules of court, to detain the aircraft until the owner of it deposits or secures in respect of the alleged infringement a sum (hereinafter in this section referred to as "the deposited sum") and thereupon the aircraft shall not, during the continuance of the passage, be subject to any lien, arrest, detention or prohibition, whether by order of a court or otherwise, on account of the alleged infringement.
+(4) Where it is alleged by any person interested that a foreign aircraft which is not an aircraft to which subsection (1) applies and which is making a passage through or over Botswana infringes in itself or part of it any invention, design or model which is entitled to protection in Botswana, it shall be lawful, subject to and in accordance with rules of court, to detain the aircraft until the owner of it deposits or secures in respect of the alleged infringement a sum (hereinafter in this section referred to as "the deposited sum") and thereupon the aircraft shall not, during the continuance of the passage, be subject to any lien, arrest, detention or prohibition, whether by order of a court or otherwise, on account of the alleged infringement.
 
-- The deposited sum shall be such sum as may be agreed between the parties interested or, in default of agreement, as may be fixed by the Minister; and the payment of the deposited sum shall be made or secured to the Minister in such manner as may be approved by him.
+(5) The deposited sum shall be such sum as may be agreed between the parties interested or, in default of agreement, as may be fixed by the Minister; and the payment of the deposited sum shall be made or secured to the Minister in such manner as may be approved by him.
 
-- The deposited sum shall be dealt with by such tribunal and in accordance with such procedure as may be prescribed by rules of court and such rules may provide generally for carrying the provisions of subsections (4) and (5) into effect.
+(6) The deposited sum shall be dealt with by such tribunal and in accordance with such procedure as may be prescribed by rules of court and such rules may provide generally for carrying the provisions of subsections (4) and (5) into effect.
 
-- For the purposes of subsection (4), the expression "owner" includes the actual owner of the aircraft and any person claiming through or under him, and the expression "passage" includes all reasonable landings and stoppages in the course of the passage.
+(7) For the purposes of subsection (4), the expression "owner" includes the actual owner of the aircraft and any person claiming through or under him, and the expression "passage" includes all reasonable landings and stoppages in the course of the passage.
 
 #### 14. Carriage of mail in aircraft
 
-- Mail shall not be carried by any aircraft without the consent in writing of the Director of Postal Services, and any written law relating to the dispatching, conveying and delivering of mail and all incidental services relating thereto shall with such modifications, adaptations and such consequential and supplementary provisions as may be declared by the Minister by order published in the Gazette to be expedient and necessary, apply to the dispatching, conveying and delivering of mail by aircraft.
+(1) Mail shall not be carried by any aircraft without the consent in writing of the Director of Postal Services, and any written law relating to the dispatching, conveying and delivering of mail and all incidental services relating thereto shall with such modifications, adaptations and such consequential and supplementary provisions as may be declared by the Minister by order published in the Gazette to be expedient and necessary, apply to the dispatching, conveying and delivering of mail by aircraft.
 
-- No radiotelegraphic or other system of telegraphic or telephonic communication shall be installed, maintained, or operated in any aircraft or at any aerodrome or landing ground except by the Chief Executive of the Botswana Telecommunications Corporation or under and in accordance with licences or other authorizations in respect of either or both personnel and apparatus granted or recognized by the Chief Executive of Botswana Telecommunications Corporation.
+(2) No radiotelegraphic or other system of telegraphic or telephonic communication shall be installed, maintained, or operated in any aircraft or at any aerodrome or landing ground except by the Chief Executive of the Botswana Telecommunications Corporation or under and in accordance with licences or other authorizations in respect of either or both personnel and apparatus granted or recognized by the Chief Executive of Botswana Telecommunications Corporation.
 
 #### 15. Offences on Botswana aircraft
 
-- Any act done by any person on a Botswana aircraft outside Botswana which, if it had been done by him in Botswana, would have constituted an offence shall, for the purposes of any criminal proceedings in Botswana against that person in respect of that act, be deemed to have been done by him in Botswana.
+(1) Any act done by any person on a Botswana aircraft outside Botswana which, if it had been done by him in Botswana, would have constituted an offence shall, for the purposes of any criminal proceedings in Botswana against that person in respect of that act, be deemed to have been done by him in Botswana.
 
-- Except with the consent of the Director of Public Prosecutions, no proceedings shall
+(2) Except with the consent of the Director of Public Prosecutions, no proceedings shall
 
 Copyright Government of Botswana
 
@@ -6075,49 +6331,49 @@ Copyright Government of Botswana
 
 ( z ) for exempting from any of the provisions of this Act or of any regulations made thereunder any aircraft or persons or classes of aircraft or persons.
 
-- Different regulations may be made for different classes of aircraft, for different aerodromes or for different parts of Botswana, but shall as far as is practicable be so framed as not to discriminate in like circumstances against aircraft registered in Botswana and operated for hire or reward.
+(3) Different regulations may be made for different classes of aircraft, for different aerodromes or for different parts of Botswana, but shall as far as is practicable be so framed as not to discriminate in like circumstances against aircraft registered in Botswana and operated for hire or reward.
 
-- Regulations under this section may provide for the imposition of penalties for offences against the regulations, not exceeding in the case of any particular offence a fine of P500 or to imprisonment for one year, or both, and may provide for such steps as may be necessary for securing compliance with the regulations, including the seizure and detention of aircraft, and the firing at or shooting down of aircraft flying over areas of Botswana over which flying is prohibited.
+(4) Regulations under this section may provide for the imposition of penalties for offences against the regulations, not exceeding in the case of any particular offence a fine of P500 or to imprisonment for one year, or both, and may provide for such steps as may be necessary for securing compliance with the regulations, including the seizure and detention of aircraft, and the firing at or shooting down of aircraft flying over areas of Botswana over which flying is prohibited.
 
-- No information with respect to any particular undertaking which has been obtained by virtue of regulations made under this section shall, without the consent of the person carrying on that undertaking, be disclosed otherwise than in connection with the execution of the regulations; and if any person discloses any such information in contravention of this subsection he shall be liable to a fine not exceeding P200 or to imprisonment for a term not exceeding six months, or to both.
+(5) No information with respect to any particular undertaking which has been obtained by virtue of regulations made under this section shall, without the consent of the person carrying on that undertaking, be disclosed otherwise than in connection with the execution of the regulations; and if any person discloses any such information in contravention of this subsection he shall be liable to a fine not exceeding P200 or to imprisonment for a term not exceeding six months, or to both.
 
-- Nothing in subsection (5) shall apply to the disclosure of any information for the purposes of any legal proceedings which may be taken by virtue of that subsection or of regulations made under this section or for the purposes of any report of such proceedings; but except that that subsection shall, in relation to any legal proceedings, including arbitration, preclude any person who is in possession of any information obtained by virtue of such regulations from disclosing, and from being required by any court or arbitrator to disclose, that information without the consent of the person carrying on the undertaking to which the information relates.
+(6) Nothing in subsection (5) shall apply to the disclosure of any information for the purposes of any legal proceedings which may be taken by virtue of that subsection or of regulations made under this section or for the purposes of any report of such proceedings; but except that that subsection shall, in relation to any legal proceedings, including arbitration, preclude any person who is in possession of any information obtained by virtue of such regulations from disclosing, and from being required by any court or arbitrator to disclose, that information without the consent of the person carrying on the undertaking to which the information relates.
 
 ## CHAPTER 71:02 AVIATION SECURITY
 
 ### ARRANGEMENT OF SECTIONS
 
+SECTION
+
 #### PART I
 
 ##### Preliminary
 
-- Short title and commencement
+1. Short title and commencement
 
-- Interpretation
+2. Interpretation
 
-- Application
+3. Application
 
 #### PART II
 
 ##### Offences Against the Safety of Aircraft, etc.
 
-SECTION
+4. Hijacking
 
-- Hijacking
+5. Destroying, damaging or endangering safety of aircraft
 
-- Destroying, damaging or endangering safety of aircraft
+6. Other acts endangering or likely to endanger safety of aircraft
 
-- Other acts endangering or likely to endanger safety of aircraft
+7. Possession of firearms on aircraft
 
-- Possession of firearms on aircraft
+8. Other offences committed aboard aircraft
 
-- Other offences committed aboard aircraft
+9. Powers of police, etc. to prevent the commission of offences under Part III
 
-- Powers of police, etc. to prevent the commission of offences under Part III
+10. Powers of aircraft commanders
 
-- Powers of aircraft commanders
-
-- Prosecution of offences
+11. Prosecution of offences
 
 Copyright Government of Botswana
 
@@ -6129,67 +6385,67 @@ Copyright Government of Botswana
 
 ##### Protection of Aircraft, Aerodromes and Air Navigation Installations against Acts of Violence
 
-- Authorized persons
+12. Authorized persons
 
-- Power of Director to require information
+13. Power of Director to require information
 
-- Power to impose restrictions in relation to aircraft
+14. Power to impose restrictions in relation to aircraft
 
-- Searches at aerodromes
+15. Searches at aerodromes
 
-- Additional measures of protection against acts of violence
+16. Additional measures of protection against acts of violence
 
-- Matters which may be included in directions
+17. Matters which may be included in directions
 
-- Limitations on scope of directions under this Part
+18. Limitations on scope of directions under this Part
 
-- Authorization of persons under sections 14 and 16
+19. Authorization of persons under sections 14 and 16
 
-- Delegation of powers by authorized person
+20. Delegation of powers by authorized person
 
-- Exceptions to directions of Director
+21. Exceptions to directions of Director
 
-- Operation of directions under Part II in relation to rights and duties under other laws
+22. Operation of directions under Part II in relation to rights and duties under other laws
 
-- Objections to directions under section 16
+23. Objections to directions under section 16
 
-- Appeals to the Minister
+24. Appeals to the Minister
 
-- Inspection of aircraft and aerodromes
+25. Inspection of aircraft and aerodromes
 
-- Application of provisions of Part II to air navigation installations
+26. Application of provisions of Part II to air navigation installations
 
-- Compensation for measures taken under Part II
+27. Compensation for measures taken under Part II
 
-- Service of documents
+28. Service of documents
 
 #### PART IV
 
 ##### Security at Designated Aerodromes
 
-- Designated aerodromes
+29. Designated aerodromes
 
-- Exercize of police powers at designated aerodromes
+30. Exercize of police powers at designated aerodromes
 
-- Prevention of theft at designated aerodromes
+31. Prevention of theft at designated aerodromes
 
-- Control of traffic at designated aerodromes
+32. Control of traffic at designated aerodromes
 
-- Restricted areas
+33. Restricted areas
 
-- Regulations
+34. Regulations
 
 #### PART V
 
 ##### National Aviation Security and Facilitation Committee
 
-- Establishment of National Aviation Security and Facilitation Committee
+35. Establishment of National Aviation Security and Facilitation Committee
 
-- Functions of Committee
+36. Functions of Committee
 
-- Meetings
+37. Meetings
 
-- Aerodrome Security Committees
+38. Aerodrome Security Committees
 
 Act 20, 1993,
 
@@ -6209,7 +6465,7 @@ This Act may be cited as the Aviation Security Act.
 
 #### 2. Interpretation
 
-- In this Act, unless the context otherwise requires-
+(1) In this Act, unless the context otherwise requires-
 
 "act of violence" means any act which, if committed in Botswana, would constitute the offence of assault, murder, attempted murder or manslaughter, or any other act of which violence or the threat thereof is an essential ingredient;
 
@@ -6275,7 +6531,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 122]]
 
-- the aircraft and for the persons and property on board; and
+the aircraft and for the persons and property on board; and
 
 ( b ) an aircraft shall be deemed to be in service during the whole of the period beginning with the pre-flight preparation of the aircraft and ending 24 hours after the aircraft lands, having completed that flight, and also at any time while the aircraft is in flight.
 
@@ -6306,11 +6562,11 @@ The Minister may, by order published in the Gazette , provide that any of the pr
 
 (iii) the aircraft is registered in Botswana or is used in the military, customs or police service of Botswana.
 
-- Any person who commits the offence of hijacking shall be liable, on conviction, to imprisonment for life.
+(4) Any person who commits the offence of hijacking shall be liable, on conviction, to imprisonment for life.
 
 (5) Any person who attempts to commit the offence of hijacking or aids, abets, counsels or procures any such person, or is an accomplice to a person who commits or attempts to commit any such offence commits an offence and shall be liable, on conviction, to imprisonment for life.
 
-- The Minister may, by order published in the Gazette , declare-
+(6) The Minister may, by order published in the Gazette , declare-
 
 ( a ) that any two or more States specified in the order have established an organization or agency which operates aircraft; and
 
@@ -6320,7 +6576,7 @@ The Minister may, by order published in the Gazette , provide that any of the pr
 
 #### 5. Destroying, damaging or endangering safety of aircraft
 
-- Subject to subsection (3), any person who, with intent-
+(1) Subject to subsection (3), any person who, with intent-
 
 ( a ) destroys an aircraft in service or causes damage to such aircraft which renders it incapable of flight or which is likely to endanger its safety in flight;
 
@@ -6342,15 +6598,15 @@ Copyright Government of Botswana
 
 ( b ) the person committing the act is a national of Botswana.
 
-- Subsection (1) shall not apply to any act committed in relation to an aircraft used in the military, customs or police service unless the act is committed in Botswana or, where the act is committed outside Botswana, the aircraft is registered in Botswana or the person committing it is a national of Botswana.
+(3) Subsection (1) shall not apply to any act committed in relation to an aircraft used in the military, customs or police service unless the act is committed in Botswana or, where the act is committed outside Botswana, the aircraft is registered in Botswana or the person committing it is a national of Botswana.
 
-- Any person who commits any offence mentioned in this section shall be liable, on conviction, to imprisonment for life.
+(4) Any person who commits any offence mentioned in this section shall be liable, on conviction, to imprisonment for life.
 
-- Any person who attempts to commit any of the offences mentioned in this section, or aids, abets, counsels or procures any person to commit any such offence, or is an accomplice to a person who commits or attempts to commit any such offence commits an offence and shall be liable, on conviction, to imprisonment for life.
+(5) Any person who attempts to commit any of the offences mentioned in this section, or aids, abets, counsels or procures any person to commit any such offence, or is an accomplice to a person who commits or attempts to commit any such offence commits an offence and shall be liable, on conviction, to imprisonment for life.
 
 #### 6. Other acts endangering or likely to endanger safety of aircraft
 
-- Any person who with intent-
+(1) Any person who with intent-
 
 ( a ) destroys or damages any air navigation installation or facility or interferes with its operation, if any such act is likely to endanger the safety of any aircraft in flight; or
 
@@ -6374,7 +6630,7 @@ commits an offence and shall be liable, on conviction, to imprisonment for life.
 
 #### 7. Possession of arms on aircraft
 
-- No person shall, without lawful authority or reasonable excuse, the proof of which shall lie on him, have in his possession in any aircraft registered in Botswana, on any aircraft in, or in flight over, Botswana, or in any aerodrome or part of an aerodrome in Botswana, or in any air navigation installation in Botswana which does not form part of an aerodrome, any of the
+(1) No person shall, without lawful authority or reasonable excuse, the proof of which shall lie on him, have in his possession in any aircraft registered in Botswana, on any aircraft in, or in flight over, Botswana, or in any aerodrome or part of an aerodrome in Botswana, or in any air navigation installation in Botswana which does not form part of an aerodrome, any of the
 
 Copyright Government of Botswana
 
@@ -6511,9 +6767,9 @@ The Director may, by order published in the Gazette , authorise, by designation 
 
 ( b ) not to cause or permit any aircraft to take off unless that aircraft has been searched by a police officer or such other person as may be specified in the direction.
 
-- Subject to subsection (3), the Director may, in writing, direct the operator of any aircraft registered in Botswana not to cause or permit that aircraft to take off unless such modification or alteration of the aircraft or of apparatus or equipment installed in the aircraft as may be specified in the direction have been first carried out, or such additional apparatus or equipment as may be specified in the direction has been first installed in the aircraft.
+(2) Subject to subsection (3), the Director may, in writing, direct the operator of any aircraft registered in Botswana not to cause or permit that aircraft to take off unless such modification or alteration of the aircraft or of apparatus or equipment installed in the aircraft as may be specified in the direction have been first carried out, or such additional apparatus or equipment as may be specified in the direction has been first installed in the aircraft.
 
-- The Director shall, when he gives a direction to an operator under subsection (2), specify, in the direction, such period as appears to him to be reasonable, within which the
+(3) The Director shall, when he gives a direction to an operator under subsection (2), specify, in the direction, such period as appears to him to be reasonable, within which the
 
 Copyright Government of Botswana
 
@@ -6541,7 +6797,7 @@ measures he has directed to be taken must be effected.
 
 ( b ) stop any aircraft, vehicle or person from entering or leaving the aerodrome and detain such aircraft, vehicle, person or property for as long as may be necessary to conduct the search.
 
-- Any person who-
+(3) Any person who-
 
 ( a ) fails to comply with a direction given under this section to him by the Director; or
 
@@ -6553,9 +6809,9 @@ measures he has directed to be taken must be effected.
 
 (2) A direction given under this section may be of a general or specific nature, and may require any measures specified in the direction to be taken at such time or within such period as may be so specified.
 
-- A direction given to an operator under subsection (1) may be given so as to relate to either all aircraft registered or operating in Botswana of which at the time the direction is given or at any subsequent time he is the operator, or to only one or more such aircraft, or to a class of such aircraft, as specified in the direction.
+(3) A direction given to an operator under subsection (1) may be given so as to relate to either all aircraft registered or operating in Botswana of which at the time the direction is given or at any subsequent time he is the operator, or to only one or more such aircraft, or to a class of such aircraft, as specified in the direction.
 
-- Any person who-
+(4) Any person who-
 
 ( a ) fails, without reasonable excuse, to comply with a direction given to him by the Director
 
@@ -6569,15 +6825,15 @@ under subsection (1); or
 
 ( b ) wilfully interferes with any building constructed or works executed on any land, or with anything installed on, over or across any land in compliance with a direction given under this section, shall be guilty of an offence and shall be liable on conviction, to a fine not exceeding P10 000,00 or to imprisonment for a term not exceeding two years or to both.
 
-- The ownership of any property placed on, under or affixed to any land in compliance with any direction under this section shall not be affected by reason that it is so placed, or affixed.
+(5) The ownership of any property placed on, under or affixed to any land in compliance with any direction under this section shall not be affected by reason that it is so placed, or affixed.
 
 #### 17. Matters which may be included in directions
 
-- A direction given by the Director under section 14 (1) or section 16 may specify the minimum number of persons by whom a search to which the direction relates is to be carried out, the qualifications which any person carrying out a search must possess, the manner in which the search is to be carried out, and any apparatus, equipment or additional equipment or apparatus which may be used by the person carrying out such search.
+(1) A direction given by the Director under section 14 (1) or section 16 may specify the minimum number of persons by whom a search to which the direction relates is to be carried out, the qualifications which any person carrying out a search must possess, the manner in which the search is to be carried out, and any apparatus, equipment or additional equipment or apparatus which may be used by the person carrying out such search.
 
 (2) A direction given by the Director under section 14 (2) may specify the qualifications which any person carrying out any modification, alteration or installation to which the direction relates, must possess.
 
-- A direction given by the Director under section 16 may specify-
+(3) A direction given by the Director under section 16 may specify-
 
 ( a ) the minimum number of persons who may be employed for the purposes of any measures specified to be taken by an operator or manager under the direction and the qualifications which those persons must possess; and
 
@@ -6587,15 +6843,15 @@ under subsection (1); or
 
 #### 18. Limitations on scope of directions under this Part
 
-- A direction given by the Director under this Part shall not have effect in relation to any aircraft used in the military, customs or police service of Botswana.
+(1) A direction given by the Director under this Part shall not have effect in relation to any aircraft used in the military, customs or police service of Botswana.
 
-- A direction given by the Director under this Part shall not have effect in relation to any aircraft of which the operator is the Government of a country outside Botswana, or is a department or agency of such a Government, except when any such aircraft is being used for the carriage of passengers or cargo for reward, or has been or is allocated by that Government, department or agency thereof for such use.
+(2) A direction given by the Director under this Part shall not have effect in relation to any aircraft of which the operator is the Government of a country outside Botswana, or is a department or agency of such a Government, except when any such aircraft is being used for the carriage of passengers or cargo for reward, or has been or is allocated by that Government, department or agency thereof for such use.
 
-- A direction, except in so far as it requires any building or other works to be constructed, executed, altered, demolished or removed, shall not be construed as requiring or authorising the operator of any aircraft, or the manager of any aerodrome, or any person acting as the servant or agent of such an operator or manager, to do anything which, apart from the direction, would constitute an act of violence, but nothing in this subsection shall restrict the use of such force as may be reasonable in the circumstances by such operator, manager, police officer or any other authorised person.
+(3) A direction, except in so far as it requires any building or other works to be constructed, executed, altered, demolished or removed, shall not be construed as requiring or authorising the operator of any aircraft, or the manager of any aerodrome, or any person acting as the servant or agent of such an operator or manager, to do anything which, apart from the direction, would constitute an act of violence, but nothing in this subsection shall restrict the use of such force as may be reasonable in the circumstances by such operator, manager, police officer or any other authorised person.
 
-- A direction given by the Director under this Part requiring anything to be done or not done in a country outside Botswana shall not have effect except in relation to aircraft registered in Botswana, neither shall its effect be to contravene any law in force in that country.
+(4) A direction given by the Director under this Part requiring anything to be done or not done in a country outside Botswana shall not have effect except in relation to aircraft registered in Botswana, neither shall its effect be to contravene any law in force in that country.
 
-- Where a direction given to the manager of an aerodrome requires any building or other works to be constructed, executed, altered, demolished or removed, or requires any other measures to be taken on such land, the direction shall not confer, on the manager, any rights as against a person having-
+(5) Where a direction given to the manager of an aerodrome requires any building or other works to be constructed, executed, altered, demolished or removed, or requires any other measures to be taken on such land, the direction shall not confer, on the manager, any rights as against a person having-
 
 ( a ) an interest in that land;
 
@@ -6665,7 +6921,7 @@ Copyright Government of Botswana
 
 ( c ) ordering the withdrawal, by the Director, of the direction.
 
-- The Committee shall give the appellant the opportunity, if he requests it, to appear before it.
+(3) The Committee shall give the appellant the opportunity, if he requests it, to appear before it.
 
 #### 24. Appeals to the Minister
 
@@ -6679,7 +6935,7 @@ Copyright Government of Botswana
 
 ( c ) giving such other decision as he considers appropriate.
 
-- The Minister shall also serve, on the Director, a copy of his decision.
+(3) The Minister shall also serve, on the Director, a copy of his decision.
 
 #### 25. Inspection of aircraft and aerodromes
 
@@ -6749,7 +7005,7 @@ Copyright Government of Botswana
 
 ( b ) to such air navigation installation or to a class thereof as may be specified in the direction.
 
-- Any reference in section 16, 21 (1) or 23 to a direction given under a provision mentioned therein shall be construed as including a reference to a direction given under that provision as applied or modified by this section.
+(8) Any reference in section 16, 21 (1) or 23 to a direction given under a provision mentioned therein shall be construed as including a reference to a direction given under that provision as applied or modified by this section.
 
 Copyright Government of Botswana
 
@@ -6807,7 +7063,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 133]]
 
-- unlawfully obtained from the aerodrome may be found in or on any vehicle carrying any person, or in or on any aircraft, stop and without warrant, detain and search that vehicle or aircraft;
+unlawfully obtained from the aerodrome may be found in or on any vehicle carrying any person, or in or on any aircraft, stop and without warrant, detain and search that vehicle or aircraft;
 
 ( c ) stop any person, vehicle or aircraft leaving a cargo area and inspect any goods carried by that person, vehicle or aircraft and detain any goods for which no document signed by the manager or other authorised person authorising their removal from that area can be produced by that person, the person driving that vehicle or a member of the crew of that aircraft.
 
@@ -6820,11 +7076,11 @@ Copyright Government of Botswana
 All movement of traffic within a designated aerodrome shall be controlled by the police.
 #### 33. Restricted areas
 
-- The manager may, within a designated aerodrome, designate, for purposes of safety or security, any area as an area to which access shall be restricted, and shall clearly mark such area to indicate that it is an area to which access is restricted, or shall ensure that it is so marked.
+(1) The manager may, within a designated aerodrome, designate, for purposes of safety or security, any area as an area to which access shall be restricted, and shall clearly mark such area to indicate that it is an area to which access is restricted, or shall ensure that it is so marked.
 
-- No person shall enter or remain in a restricted area unless that person has, in his possession, an identity card which permits him to be in that area and which complies with all conditions laid down by the authority which issued the identity card as may be prescribed by regulations.
+(2) No person shall enter or remain in a restricted area unless that person has, in his possession, an identity card which permits him to be in that area and which complies with all conditions laid down by the authority which issued the identity card as may be prescribed by regulations.
 
-- Any person who contravenes the provisions of subsection (2) commits an offence and shall be liable, on conviction, to a fine not exceeding P5 000,00, or to imprisonment for a term not exceeding three months or to both.
+(3) Any person who contravenes the provisions of subsection (2) commits an offence and shall be liable, on conviction, to a fine not exceeding P5 000,00, or to imprisonment for a term not exceeding three months or to both.
 
 #### 34. Regulations
 
@@ -6843,9 +7099,9 @@ The Minister may make regulations for the better carrying out of the provisions 
 #### National Aviation Security and Facilitation Committee (ss 35-38)
 #### 35. Establishment of National Aviation Security and Facilitation Committee
 
-- There is hereby established a committee to be known as the National Aviation Security and Facilitation Committee (hereinafter referred to as "the Committee").
+(1) There is hereby established a committee to be known as the National Aviation Security and Facilitation Committee (hereinafter referred to as "the Committee").
 
-- The Committee shall consist of a Chairman, a Vice-Chairman and six other members as follows, who shall be appointed by the Minister for such period as shall be specified-
+(2) The Committee shall consist of a Chairman, a Vice-Chairman and six other members as follows, who shall be appointed by the Minister for such period as shall be specified-
 
 ( a ) the Chairman shall be the Permanent Secretary, Ministry of Works, Transport and Communications;
 
@@ -6889,7 +7145,7 @@ The functions of the Committee shall be to-
 
 (1) The Committee shall meet at such times and places as the Chairman, or, if he is absent, the Vice-Chairman, may determine, but not less than three times a year. (2) The Chairman, or if he is absent, the Vice-Chairman, shall preside at all meetings of the Committee, and if both the Chairman and the Vice-Chairman are absent from a meeting, the members present shall elect a person from among themselves to preside at such meeting. (3) The decision of a majority of the members of the Committee present at a meeting of the Committee shall constitute a decision of the Committee and, in the event of an equality of votes on any matter, the person presiding at the meeting in question shall have a casting vote in addition to his deliberative vote.
 
-- Five members of the Committee shall form a quorum.
+(4) Five members of the Committee shall form a quorum.
 
 #### 38. Aerodrome Security Committees
 
@@ -6905,35 +7161,35 @@ The Minister may, in consultation with the Director, establish Aerodrome Securit
 
 ### ARRANGEMENT OF SECTIONS
 
+SECTION
+
 #### PART I
 
 ##### Preliminary
 
-#### Short title and commencement
+#### 1. Short title and commencement
 
-#### Interpretation
+#### 2. Interpretation
 
-#### When body corporate may be deemed to be effectively controlled by a person
+#### 3. When body corporate may be deemed to be effectively controlled by a person
 
-#### When air service provider may be deemed to be owned by national
+#### 4. When air service provider may be deemed to be owned by national
 
-#### Limitation on equity ownership
+#### 5. Limitation on equity ownership
 
 #### PART II
 
 ##### Domestic and international air routes
 
-#### Domestic air transport licence
+#### 6. Domestic air transport licence
 
-#### Effect of air transport licence
+#### 7. Effect of air transport licence
 
-#### Licensing of air routes after exclusivity period, etc.
+#### 8. Licensing of air routes after exclusivity period, etc.
 
-#### Air Botswana to be sole designated airline during exclusivity period
+#### 9. Air Botswana to be sole designated airline during exclusivity period
 
 #### PART III
-
-SECTION
 
 Copyright Government of Botswana
 
@@ -6943,41 +7199,63 @@ Copyright Government of Botswana
 
 ##### Tariff cap mechanism
 
-#### Increases in maximum tariff
+#### 10. Increases in maximum tariff
 
-#### Licensee may charge less than maximum tariff
+#### 11. Licensee may charge less than maximum tariff
 
-#### Application of tariff cap mechanism
+#### 12. Application of tariff cap mechanism
 
 #### PART IV
 
 ##### Miscellaneous provisions
 
-#### Monitoring compliance with the Act
+#### 13. Monitoring compliance with the Act
 
-#### Appeals
+#### 14. Appeals
 
-#### Offences and penalties
+#### 15. Offences and penalties
 
-#### Regulations
+#### 16. Regulations
 
 #### Schedule
 
+Act 15, 2003.
+
 An Act to reform the regulation of scheduled air transport services
 
-[ Date of Assent: 27th August, 2003]
+[Date of Assent: 27th August, 2003]
 
-[ Date of Commencement: On Notice]
+[Date of Commencement: On Notice]
 
 ### PART I
 #### Preliminary (ss 1-5)
 #### 1. Short title and commencement
 
-This Act may be cited as the Civil Aviation Regulation (Reform) Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette , appoint.
+This Act may be cited as the Civil Aviation Regulation (Reform) Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette, appoint.
 
-#### Interpretation
+#### 2. Interpretation
 
-In this Act, unless the context otherwise requires "Air Botswana" means Air Botswana as registered under the Companies Act; "air transport licence" means a licence issued by the Regulator, granting an operator the authority to carry passengers, mail or cargo, by air, for hire or reward, on such scheduled air transport services, and subject to such conditions, as may be specified in the licence; "closing date" means the date when all or part of Air Botswana's equity is first owned by a person other than the Government; "exclusivity period" means the period commencing on the closing date and ending on the fifth anniversary of the closing date; "IATA" means the International Air Transport Association; "Independent Regulator" means the independent body responsible for the economic regulation of civil aviation, that may be established; "licensee" means the holder of an air transport licence; "maximum tariff" means the maximum tariff that may be charged by the licensee in connection with an air route, as set out in the relevant air transport licence; "national" means an individual, company, government or agency thereof, or trust established by an individual, company, government or agency thereof, that is not a non-national; "non-national" means-
+In this Act, unless the context otherwise requires -
+
+"Air Botswana" means Air Botswana as registered under the Companies Act;
+
+"air transport licence" means a licence issued by the Regulator, granting an operator the authority to carry passengers, mail or cargo, by air, for hire or reward, on such scheduled air transport services, and subject to such conditions, as may be specified in the licence;
+
+"closing date" means the date when all or part of Air Botswana's equity is first owned by a person other than the Government;
+
+"exclusivity period" means the period commencing on the closing date and ending on the fifth anniversary of the closing date;
+
+"IATA" means the International Air Transport Association;
+
+"Independent Regulator" means the independent body responsible for the economic regulation of civil aviation, that may be established;
+
+"licensee" means the holder of an air transport licence;
+
+"maximum tariff" means the maximum tariff that may be charged by the licensee in connection with an air route, as set out in the relevant air transport licence;
+
+"national" means an individual, company, government or agency thereof, or trust established by an individual, company, government or agency thereof, that is not a non-national;
+
+"non-national" means-
 
 ( a ) an individual, other than a Botswana citizen;
 
@@ -6993,13 +7271,11 @@ In this Act, unless the context otherwise requires "Air Botswana" means Air Bots
 
 Copyright Government of Botswana
 
-Act 15, 2003.
-
 [[END OF PAGE 135]]
 
 [[START OF PAGE 136]]
 
-- section, other than a trust for the administration of a pension fund for the benefit of individuals, the majority of whom are nationals, or
+section, other than a trust for the administration of a pension fund for the benefit of individuals, the majority of whom are nationals, or
 
 (ii) in which non-nationals, as defined in any of paragraphs ( a ) to ( d ) of this section have more than 50% of the beneficial interests; or
 
@@ -7164,159 +7440,171 @@ Provided that-
 
 ### ARRANGEMENT OF SECTIONS
 
+SECTION
+
 #### PART I
 
 ##### Preliminary
+
+#### 1. Short title
+
+#### 2. Interpretation
 
 #### PART II
 
 ##### Establishment, objectives, functions and powers of Authority
 
-#### Establishment of Authority
+#### 3. Establishment of Authority
 
-#### Seal of Authority
+#### 4. Seal of Authority
 
-#### Jurisdiction of Authority
+#### 5. Jurisdiction of Authority
 
-#### Objective of Authority
+#### 6. Objective of Authority
 
-#### Functions and powers of Authority
+#### 7. Functions and powers of Authority
 
-#### Borrowing powers of Authority
+#### 8. Borrowing powers of Authority
 
 Copyright Government of Botswana
-
-SECTION
-
-#### Short title
-
-#### Interpretation
 
 [[END OF PAGE 138]]
 
 [[START OF PAGE 139]]
 
-#### Additional powers of Authority
+#### 9. Additional powers of Authority
 
-#### Principles of operation
+#### 10. Principles of operation
 
-#### Consultation with users and departments
+#### 11. Consultation with users and departments
 
-#### International agreements
+#### 12. International agreements
 
-#### Directions by Minister
-
-#### Funds of Authority
-
-#### Entity in which Authority has interest not to contravene Act
-
-#### Provision of information
-
-#### Financial year
-
-#### Accounts
-
-#### Audit
-
-#### Annual report
-
-#### Business plan
-
-#### Charges
-
-#### Air Navigation services
-
-#### Safety standards
-
-#### Aeronautical information services
-
-#### Technical services
-
-#### Meteorological services
-
-#### PART VII
-
-##### Air transport and international obligations
-
-#### International obligations
-
-#### Fares
-
-#### Appeals Tribunal
-
-Copyright Government of Botswana
+#### 13. Directions by Minister
 
 #### PART III
 
 ##### The Board
 
-#### Establishment of Board
+#### 14. Establishment of Board
 
-#### Qualifications for appointment as Members
+#### 15. Qualifications for appointment as Members
 
-#### Disqualification from appointment as Member
+#### 16. Disqualification from appointment as Member
 
-#### Vacation of office and filling of vacancies
+#### 17. Vacation of office and filling of vacancies
 
-#### Functions and powers of Board
+#### 18. Functions and powers of Board
 
-#### Meetings of Board
+#### 19. Meetings of Board
 
-#### Committees of Board
+#### 20. Committees of Board
 
-#### Remuneration of members and members of committees
+#### 21. Remuneration of members and members of committees
 
 #### PART IV
 
 ##### Staff of Authority
 
-#### Chief Executive Officer
+#### 22. Chief Executive Officer
 
-#### Duties of Chief Executive Officer
+#### 23. Duties of Chief Executive Officer
 
-#### Secretary
+#### 24. Secretary
 
-#### Other staff
+#### 25. Other staff
 
-#### Personnel Management
+#### 26. Personnel Management
 
 #### PART V
 
 ##### Financial Provisions
 
+#### 27. Funds of Authority
+
+#### 28. Entity in which Authority has interest not to contravene Act
+
+#### 29. Provision of information
+
+#### 30. Financial year
+
+#### 31. Accounts
+
+#### 32. Audit
+
+#### 33. Annual report
+
+#### 34. Business plan
+
+#### 35. Charges
+
 #### PART VI
 
 ##### Civil Aviation
+
+#### 36. Air Navigation services
+
+#### 37. Safety standards
+
+#### 38. Aeronautical information services
+
+#### 39. Technical services
+
+#### 40. Meteorological services
+
+#### PART VII
+
+##### Air transport and international obligations
+
+#### 41. International obligations
+
+#### 42. Fares
 
 #### PART VIII
 
 ##### Appeals
 
+#### 43. Appeals Tribunal
+
+Copyright Government of Botswana
+
 [[END OF PAGE 139]]
 
 [[START OF PAGE 140]]
 
-#### Establishment of airports
+#### PART IX
 
-#### Land use restriction
+##### Airports
 
-#### Customs, immigration and health services
+#### 44. Establishment of airports
 
-#### Liability
+#### 45. Land use restriction
 
-#### Security bye-laws
+#### 46. Customs, immigration and health services
 
-#### Regulations
+#### 47. Liability
 
-#### Power to take action
+#### PART X
 
-#### Exemption
+##### Security and policing
 
-#### Powers of Minister in times of war
+#### 48. Security bye-laws
 
-#### Offences
+#### PART XI
 
-#### Acts done on Botswana aircraft outside Botswana
+##### Miscellaneous provisions
+
+#### 49. Regulations
+
+#### 50. Power to take action
+
+#### 51. Exemption
+
+#### 52. Powers of Minister in times of war
+
+#### 53. Offences
+
+#### 54. Acts done on Botswana aircraft outside Botswana
 
 #### PART XII
 
@@ -7325,6 +7613,18 @@ Copyright Government of Botswana
 #### 55. Transfer of assets
 
 #### 56. Savings
+
+Act 33, 2004,
+
+S.I. 51, 2007.
+
+An Act to establish a Civil Aviation Authority; to provide for its powers and functions; to provide for the establishment of a Board of the Authority; and for matters incidental or connected therewith.
+
+[Date of Commencement: Part I, ss 3, 4, 6, 9, Part III, Part IV, ss 27, 29:32: 20th August, 2007. Remainder of Act: On Notice.]
+
+### PART I
+
+#### Preliminary (ss 1 - 2)
 
 #### 1. Short title
 
@@ -7344,35 +7644,13 @@ In this Act, unless the context otherwise requires -
 
 (ii) damage limited to the engines or their accessories or to propeller or rotor blades,
 
-#### PART IX
-##### Airports
-
-#### PART X
-
-##### Security and policing
-
-#### PART XI
-
-##### Miscellaneous provisions
-
-Act 33, 2004,
-
-S.I. 51, 2007.
-
-An Act to establish a Civil Aviation Authority; to provide for its powers and functions; to provide for the establishment of a Board of the Authority; and for matters incidental or connected therewith.
-
-[Date of Commencement: Part I, ss 3, 4, 6, 9, Part III, Part IV, ss 27, 29:32: 20th August, 2007. Remainder of Act: On Notice.]
-
-### PART I
-#### Preliminary (ss 1 - 2)
-
 Copyright Government of Botswana
 
 [[END OF PAGE 140]]
 
 [[START OF PAGE 141]]
 
-- bent fairings or cowlings, wing tips, antennae, tyres, brakes or small dents or puncture holes in the aircraft skin; or
+bent fairings or cowlings, wing tips, antennae, tyres, brakes or small dents or puncture holes in the aircraft skin; or
 
 ( c ) the aircraft is missing or completely inaccessible;
 
@@ -7448,9 +7726,49 @@ Copyright Government of Botswana
 
 [[START OF PAGE 142]]
 
-"Chief Executive Officer" means the Chief Executive Officer of the Authority, appointed under section 22; "committee" means a committee established under section 20; "crew" means all persons working on the aircraft, including the pilot or operator; "flight" means -( a ) in the case of a heavier than air aircraft, the operation of the aircraft from the moment at which the aircraft first moves under its own power for the purpose of taking-off until the moment at which it comes to rest after being airborne; and ( b ) in the case of a lighter than air aircraft, the operation of the aircraft from the moment when it becomes detached from the surface of the earth or a fixed object on the surface of the earth until the moment when it becomes again attached to the surface of the earth; "foreign aircraft" means an aircraft other than a Botswana aircraft; "ICAO" means International Civil Aviation Organisation; "land" includes any estate or interest in land or an easement; "licensed aerodrome" means an airport licensed in accordance with regulations made under this Act; "Member" means a member of the Board; "Minister" means the Minister for the time being responsible for civil aviation; "NOTAM" means Notices to Airmen; "officer" means a member of the staff of the Authority; "operate" , in relation to an aerodrome, includes manage, maintain, secure and improve the aerodrome; "operated by the Authority" means operated by the Authority in accordance with the provisions of this Act; "operator" , in relation to an aircraft, means the person having management of the aircraft at a particular time; "owner" , in relation to an aircraft or aerodrome, includes the person in whose name the aircraft or aerodrome is registered or licensed, any person who is or has been acting in Botswana for a foreign owner, or any person by whom the aircraft or aerodrome is hired at the time; "passenger" means any person being conveyed by the aircraft, who is not a member of the crew; "private airport" means an airport other than an airport belonging to the Authority, the Botswana Police or the Botswana Defence Force; "public transport" means carriage of passengers or cargo for hire or reward given or promised to be given; and means information given in any of the following publications issued on or Maintenance Engineers and to Owners of Civil Aircraft, CAPs or such other official publications
+"Chief Executive Officer" means the Chief Executive Officer of the Authority, appointed under section 22;
 
-"publication" after the coming into effect of this Act, that is, NOTAM, AIC, AIP, Notices to Licensed Aircraft so issued for the purpose of giving effect to any of the provisions of this Act.
+"committee" means a committee established under section 20;
+
+"crew" means all persons working on the aircraft, including the pilot or operator;
+
+"flight" means -
+
+( a ) in the case of a heavier than air aircraft, the operation of the aircraft from the moment at which the aircraft first moves under its own power for the purpose of taking-off until the moment at which it comes to rest after being airborne; and
+
+( b ) in the case of a lighter than air aircraft, the operation of the aircraft from the moment when it becomes detached from the surface of the earth or a fixed object on the surface of the earth until the moment when it becomes again attached to the surface of the earth;
+
+"foreign aircraft" means an aircraft other than a Botswana aircraft;
+
+"ICAO" means International Civil Aviation Organisation;
+
+"land" includes any estate or interest in land or an easement;
+
+"licensed aerodrome" means an airport licensed in accordance with regulations made under this Act;
+
+"Member" means a member of the Board;
+
+"Minister" means the Minister for the time being responsible for civil aviation;
+
+"NOTAM" means Notices to Airmen;
+
+"officer" means a member of the staff of the Authority;
+
+"operate", in relation to an aerodrome, includes manage, maintain, secure and improve the aerodrome;
+
+"operated by the Authority" means operated by the Authority in accordance with the provisions of this Act;
+
+"operator", in relation to an aircraft, means the person having management of the aircraft at a particular time;
+
+"owner", in relation to an aircraft or aerodrome, includes the person in whose name the aircraft or aerodrome is registered or licensed, any person who is or has been acting in Botswana for a foreign owner, or any person by whom the aircraft or aerodrome is hired at the time;
+
+"passenger" means any person being conveyed by the aircraft, who is not a member of the crew;
+
+"private airport" means an airport other than an airport belonging to the Authority, the Botswana Police or the Botswana Defence Force;
+
+"public transport" means carriage of passengers or cargo for hire or reward given or promised to be given; and
+
+"publication" means information given in any of the following publications issued on or after the coming into effect of this Act, that is, NOTAM, AIC, AIP, Notices to Licensed Aircraft Maintenance Engineers and to Owners of Civil Aircraft, CAPs or such other official publications so issued for the purpose of giving effect to any of the provisions of this Act.
 
 ### PART II
 
@@ -7474,7 +7792,7 @@ Copyright Government of Botswana
 
 (3) In the absence of the Chief Executive Officer, the person performing the functions of the Chief Executive Officer may authenticate the Seal in his place and, in the absence of the Secretary, the person performing the functions of the Secretary may authenticate in his place.
 
-- The Chief Executive Officer may, in writing, delegate to another officer his power to authenticate the Seal.
+(4) The Chief Executive Officer may, in writing, delegate to another officer his power to authenticate the Seal.
 
 (5) The Secretary may, in writing, delegate to another officer his power to authenticate the Seal.
 
@@ -7506,7 +7824,7 @@ The objective of the Authority is to promote the safe, regular, secure and effic
 
 (1) The Authority shall be responsible for the implementation and enforcement of the regulations made by the Minister under section 49.
 
-- The Minister may delegate to the Authority any of the responsibilities conferred on him by this Act, except the power to make regulations.
+(2) The Minister may delegate to the Authority any of the responsibilities conferred on him by this Act, except the power to make regulations.
 
 (3) The Authority may, with the approval of the Minister, make bye-laws for any purpose connected with its powers, functions and duties under this Act and may impose penalties for breach of any such bye-laws not exceeding P50,000 or imprisonment for a term not exceeding 10 years or both.
 
@@ -7516,9 +7834,9 @@ The objective of the Authority is to promote the safe, regular, secure and effic
 
 (1) The Authority may, with the prior written approval of the Minister, borrow funds required for meeting its obligations and for carrying out its functions.
 
-- The Authority may borrow temporarily, by way of overdraft or otherwise, sums of money to be paid within a short period, for any urgent requirements of the Authority in the discharge of its functions.
+(2) The Authority may borrow temporarily, by way of overdraft or otherwise, sums of money to be paid within a short period, for any urgent requirements of the Authority in the discharge of its functions.
 
-- The Authority may raise funds for the discharge of its functions by the issuing of stock, and any interest payable on any stock issued under this subsection shall be a charge upon all property, undertaking and revenue of the Authority.
+(3) The Authority may raise funds for the discharge of its functions by the issuing of stock, and any interest payable on any stock issued under this subsection shall be a charge upon all property, undertaking and revenue of the Authority.
 
 (4) For purposes of paying any loan under this section and any interest on that loan, the Authority may -
 
@@ -7570,9 +7888,9 @@ The Authority shall perform its functions in a manner consistent with the obliga
 
 #### 13. Directions by Minister
 
-(1) The Minister may give the Authority written general or specific directions as to the performance of its functions. , and included in the annual report of the Authority for the financial year in which they
+(1) The Minister may give the Authority written general or specific directions as to the performance of its functions.
 
-- Particulars of any directions referred to in subsection (1) shall be published in the Gazette were given.
+(2) Particulars of any directions referred to in subsection (1) shall be published in the Gazette, and included in the annual report of the Authority for the financial year in which they were given.
 
 ### PART III
 
@@ -7623,7 +7941,7 @@ Notwithstanding section 15, a person shall not qualify for appointment as a Memb
 
 #### 17. Vacation of office and filling of vacancies
 
-- A Member shall vacate his office -
+(1) A Member shall vacate his office -
 
 ( a ) if he becomes subject to a disqualification referred to in section 16;
 
@@ -7639,7 +7957,7 @@ Notwithstanding section 15, a person shall not qualify for appointment as a Memb
 
 (3) If a Member ceases to hold office for any reason, the Minister may, within three months of receiving the notice under subsection (2) appoint another person to take the place of that Member, and the person so appointed shall hold office for the remainder of the term of office of the Member in whose place he was appointed and shall be eligible for reappointment.
 
-- The Minister may terminate the appointment of a Member -
+(4) The Minister may terminate the appointment of a Member -
 
 ( a ) if the Member conducts himself in a manner that is detrimental to the efficient and proper performance of the functions of the Board;
 
@@ -7687,9 +8005,9 @@ Copyright Government of Botswana
 
 ( c ) the text of any resolution to be submitted to the meeting.
 
-- Subject to this Act, the Board shall regulate its own procedure.
+(5) Subject to this Act, the Board shall regulate its own procedure.
 
-- A simple majority of Members shall form a quorum at a meeting of the Board.
+(6) A simple majority of Members shall form a quorum at a meeting of the Board.
 
 (7) A decision of a simple majority of the Members present and voting at a meeting of the Board shall be the decision of the Board, and, in the event of an equality of votes, the person presiding shall have a casting vote in addition to his deliberative vote.
 
@@ -7741,9 +8059,9 @@ A Member or a member of a committee or any other person not being an employee of
 
 (2) The Chief Executive Officer shall be a person with considerable knowledge and experience in aviation, administration, industry or engineering and who has such other qualifications and experience or proven ability in other fields as the Board and the Minister may consider relevant.
 
-- The Chief Executive Officer shall be responsible to the Board.
+(3) The Chief Executive Officer shall be responsible to the Board.
 
-- The Chief Executive Officer shall not, while in the employment of the Authority, engage in paid employment outside the duties of his office in the Authority.
+(4) The Chief Executive Officer shall not, while in the employment of the Authority, engage in paid employment outside the duties of his office in the Authority.
 
 (5) The Chief Executive Officer shall hold office for a period not exceeding five years, as may be specified in the instrument of appointment, and shall be eligible for re-appointment.
 
@@ -7831,7 +8149,7 @@ The financial year of the Authority shall be a period of twelve months commencin
 
 (1) The Authority shall keep proper books of accounts of all its income and expenditure and proper records in relation to those accounts.
 
-- The Authority shall cause to be prepared in respect of each financial year and not later than four months after the end of that financial year, a statement of accounts which shall include -
+(2) The Authority shall cause to be prepared in respect of each financial year and not later than four months after the end of that financial year, a statement of accounts which shall include -
 
 ( a ) a balance sheet, an audited statement of income and expenditure and a statement of surplus and deficit; and
 
@@ -7839,31 +8157,31 @@ The financial year of the Authority shall be a period of twelve months commencin
 
 #### 32. Audit
 
-- The accounts of the Authority shall, in respect of each financial year, be audited by the Auditor-General or a certified public accountant, appointed by him.
+(1) The accounts of the Authority shall, in respect of each financial year, be audited by the Auditor-General or a certified public accountant, appointed by him.
 
-- The Authority shall ensure that within four months after the end of the financial year a statement of accounts referred to in section 31 (2) is submitted to the Auditor-General for auditing.
+(2) The Authority shall ensure that within four months after the end of the financial year a statement of accounts referred to in section 31 (2) is submitted to the Auditor-General for auditing.
 
-- The Auditor-General or any certified public accountant appointed by him shall, within two months after receipt of the statement of accounts submitted to him under subsection (2), audit the accounts and deliver to the Authority a copy of the audited accounts and his report on those accounts, stating any matter which in his opinion should be brought to the attention of the Minister.
+(3) The Auditor-General or any certified public accountant appointed by him shall, within two months after receipt of the statement of accounts submitted to him under subsection (2), audit the accounts and deliver to the Authority a copy of the audited accounts and his report on those accounts, stating any matter which in his opinion should be brought to the attention of the Minister.
 
-- The Auditor-General or any certified public accountant appointed by him shall have access to all books of accounts, vouchers and other financial records of the Authority and be entitled to have any information and explanation required by him in relation to those records.
+(4) The Auditor-General or any certified public accountant appointed by him shall have access to all books of accounts, vouchers and other financial records of the Authority and be entitled to have any information and explanation required by him in relation to those records.
 
 #### 33. Annual report
 
-- Not later than six months after the end of each financial year, the Authority shall prepare an Annual Report on the performance of its functions during that year which Report shall include, among other things -
+(1) Not later than six months after the end of each financial year, the Authority shall prepare an Annual Report on the performance of its functions during that year which Report shall include, among other things -
 
 ( a ) an audited financial statement and a report of the Auditor-General on that statement; and
 
 ( b ) a record of all directions received from the Minister in the course of the year.
 
-- The Annual Report referred to in subsection (1) shall be presented to the Minister, who shall, within 28 days of receipt thereof, lay it before the National Assembly after which it shall be published in the Gazette .
+(2) The Annual Report referred to in subsection (1) shall be presented to the Minister, who shall, within 28 days of receipt thereof, lay it before the National Assembly after which it shall be published in the Gazette.
 
 #### 34. Business plan
 
-- The Authority shall produce a five-year business plan to be prepared by the Chief Executive Officer, and thereafter a subsequent business plan shall be prepared by him at least 12 months before the expiry of the current business plan.
+(1) The Authority shall produce a five-year business plan to be prepared by the Chief Executive Officer, and thereafter a subsequent business plan shall be prepared by him at least 12 months before the expiry of the current business plan.
 
-- The business plan referred to in subsection (1) shall contain financial targets and performance targets for the Authority and shall be submitted to the Minister after approval by the Board.
+(2) The business plan referred to in subsection (1) shall contain financial targets and performance targets for the Authority and shall be submitted to the Minister after approval by the Board.
 
-- When preparing the business plan, the Chief Executive Officer shall consider -
+(3) When preparing the business plan, the Chief Executive Officer shall consider -
 
 ( a ) the need for high standards of aviation safety;
 
@@ -7891,17 +8209,17 @@ Copyright Government of Botswana
 
 ( j ) any other commercial consideration that the Chief Executive Officer considers appropriate.
 
-- The Board shall submit the business plan to the Minister at least four months prior to the commencement of the financial year in question, and the Minister shall submit any comments he may have on it not later than two months after its receipt.
+(4) The Board shall submit the business plan to the Minister at least four months prior to the commencement of the financial year in question, and the Minister shall submit any comments he may have on it not later than two months after its receipt.
 
-- A summary of the business plan shall be published by the Authority in the Gazette after expiry of the period for comment, by the Minister.
+(5) A summary of the business plan shall be published by the Authority in the Gazette after expiry of the period for comment, by the Minister.
 
-- At least four months prior to the commencement of the financial year in question, the Authority shall provide to the Minister an estimate of any subsidy funding required to maintain operations during the coming financial year which estimate shall identify specific uses to which the funds will be put, why the service is required, and what actions are being taken to reduce the amount of any subsidy required.
+(6) At least four months prior to the commencement of the financial year in question, the Authority shall provide to the Minister an estimate of any subsidy funding required to maintain operations during the coming financial year which estimate shall identify specific uses to which the funds will be put, why the service is required, and what actions are being taken to reduce the amount of any subsidy required.
 
 #### 35. Charges
 
-- The Authority shall draw up a scheme prescribing charges to be paid to the Authority in respect of services or facilities provided by the Authority.
+(1) The Authority shall draw up a scheme prescribing charges to be paid to the Authority in respect of services or facilities provided by the Authority.
 
-- Without limiting the generality of subsection (1), the services and facilities that the Authority may charge for, include -
+(2) Without limiting the generality of subsection (1), the services and facilities that the Authority may charge for, include -
 
 ( a ) the issuance, renewal or variation of airworthiness certificates;
 
@@ -7935,9 +8253,9 @@ Copyright Government of Botswana
 
 ( p ) use or rental of any assets of the Authority.
 
-- The scheme referred to in subsection (1) shall come into force on publication thereof in the Gazette , which publication shall not be less than 60 days following the submission of the scheme for approval to the Minister.
+(3) The scheme referred to in subsection (1) shall come into force on publication thereof in the Gazette, which publication shall not be less than 60 days following the submission of the scheme for approval to the Minister.
 
-- The scheme referred to in subsection (1) shall be published in an AIC giving the effective date of coming into force.
+(4) The scheme referred to in subsection (1) shall be published in an AIC giving the effective date of coming into force.
 
 Copyright Government of Botswana
 
@@ -8014,11 +8332,11 @@ The Authority shall provide technical services for the design, installation, mai
 
 #### 40. Meteorological services
 
-(1) The Authority shall provide specified aviation meteorological services in Botswana and shall, in a timely and orderly fashion, provide information concerning weather conditions and forecasts to all aircraft in Botswana airspace. (2) The Department of Meteorological Services shall provide appropriate aviation
+(1) The Authority shall provide specified aviation meteorological services in Botswana and shall, in a timely and orderly fashion, provide information concerning weather conditions and forecasts to all aircraft in Botswana airspace.
 
-- meteorological services to the Authority.
+(2) The Department of Meteorological Services shall provide appropriate aviation meteorological services to the Authority.
 
-- The basis on which meteorological services shall be provided to the Authority shall be determined by mutual agreement between the Department of Meteorological Services and the Authority, but this agreement shall generally follow the cost allocation principles and guidelines issued by ICAO on the subject.
+(3) The basis on which meteorological services shall be provided to the Authority shall be determined by mutual agreement between the Department of Meteorological Services and the Authority, but this agreement shall generally follow the cost allocation principles and guidelines issued by ICAO on the subject.
 
 ### PART VII
 
@@ -8026,9 +8344,13 @@ The Authority shall provide technical services for the design, installation, mai
 
 #### 41. International obligations
 
-- The Minister shall be the Aeronautical Authority for Botswana for the purpose of entering into agreements between states. (2) The Authority shall comply with all international agreements relating to civil aviation, to which Botswana is a party. (3) The Authority shall advise and assist the Government in its negotiations with other countries in regard to international air services originating, transiting or terminating at Botswana aerodromes and those overflying Botswana. (4) The Authority shall act as adviser to the Government and assist in its dealings with
+(1) The Minister shall be the Aeronautical Authority for Botswana for the purpose of entering into agreements between states.
 
-- ICAO, the Commonwealth Air Transport Council, and other similar international civil aviation bodies.
+(2) The Authority shall comply with all international agreements relating to civil aviation, to which Botswana is a party.
+
+(3) The Authority shall advise and assist the Government in its negotiations with other countries in regard to international air services originating, transiting or terminating at Botswana aerodromes and those overflying Botswana.
+
+(4) The Authority shall act as adviser to the Government and assist in its dealings with ICAO, the Commonwealth Air Transport Council, and other similar international civil aviation bodies.
 
 #### 42. Fares
 
@@ -8040,7 +8362,7 @@ The Minister, on the recommendation of the Authority, may, unless specified in a
 
 (1) There shall be an Appeals Tribunal which shall hear and determine appeals from decisions of the Authority under this Act.
 
-- The Appeals Tribunal shall comprise three persons appointed by the Minister -
+(2) The Appeals Tribunal shall comprise three persons appointed by the Minister -
 
 Copyright Government of Botswana
 
@@ -8054,7 +8376,7 @@ Copyright Government of Botswana
 
 ( c ) one of whom shall have expertise and experience in the issue which is the subject of the appeal.
 
-- A person aggrieved by a decision of the Appeals Tribunal may appeal to the High Court.
+(3) A person aggrieved by a decision of the Appeals Tribunal may appeal to the High Court.
 
 ### PART IX
 #### Airports (ss 44 - 47)
@@ -8095,17 +8417,17 @@ Copyright Government of Botswana
 
 ( j ) prescribing offences and penalties not exceeding a fine of P6,000 or imprisonment for a term not exceeding three years or both, in respect of the contravention of any of the provisions of such Order.
 
-- Before the Minister imposes any prohibition or restriction in any area, he shall notify the public of his intention to do so.
+(2) Before the Minister imposes any prohibition or restriction in any area, he shall notify the public of his intention to do so.
 
-- The Minister shall cause notice of every zoning regulation referred to in subsection (1)(i) that is proposed to be made to be published once a week, for two consecutive weeks, in at least one local newspaper, if any, circulating in the area in which the proposed zoning regulation relates and once a week, for two consecutive weeks, in two consecutive issues of the Gazette .
+(3) The Minister shall cause notice of every zoning regulation referred to in subsection (1)(i) that is proposed to be made to be published once a week, for two consecutive weeks, in at least one local newspaper, if any, circulating in the area in which the proposed zoning regulation relates and once a week, for two consecutive weeks, in two consecutive issues of the Gazette .
 
-- Reasonable opportunity shall be afforded to interested persons to make representations to the Minister with respect to zoning regulations, before the restrictions are actually made.
+(4) Reasonable opportunity shall be afforded to interested persons to make representations to the Minister with respect to zoning regulations, before the restrictions are actually made.
 
 #### 46. Customs, immigration and health services
 
-- The Authority shall ensure that suitable facilities are made available to the relevant Government authorities and agencies at air-ports for the provision of customs, immigration and health services.
+(1) The Authority shall ensure that suitable facilities are made available to the relevant Government authorities and agencies at air-ports for the provision of customs, immigration and health services.
 
-- The provision of the customs, immigration and health services referred to in
+(2) The provision of the customs, immigration and health services referred to in
 
 Copyright Government of Botswana
 
@@ -8170,39 +8492,38 @@ Copyright Government of Botswana
 
 [[START OF PAGE 155]]
 
-(iii) | the provision of air navigation services,
---- | ---
-(iv) | the establishment, maintenance, development, operation and ownership of airports,
-(v) | the provision of rescue and fire fighting services at airports,
-(vi) | the provision of assistance and information, including aeronautical information services,
-(vii) | the co-ordination and direction of search and rescue services,
-(viii) | the provision of facilities and services in support of inspectors of accidents in relation to the investigation of accidents,
-(ix) | the registration of aircraft,
-(x) | the safety regulation of aircraft,
-(xi) | the provision, in conjunction with other agencies of the Government, including the military, of arrangements to prevent or deal with all unlawful interference with aviation security (including passenger screening) in Botswana,
-(xii) | the control of air traffic,
-(xiii) | the certification of operators of aircraft,
-(xiv) | the licensing of civil aviation personnel,
-(xv) | the licensing of private airports,
-(xvi) | the provision of meteorological information to aircraft,
-(xvii) | the publication and dissemination of all regulations pertaining to civil aviation,
-(xviii) | the licensing of crews engaged in the operation of aircraft,
-(xix) | the design, construction, maintenance, operation and use of aircraft and related equipment,
-(xx) | the personnel engaged in the maintenance of aircraft and related equipment,
-(xxi) | the planning, construction and use of airports,
-(xxii) | the personnel engaged in anything referred to in sub paragraph (iv),
-(xxiii) | the planning, establishment, maintenance, operation and use of air route and airway facilities, rescue and firefighting services, and search and rescue services, and any construction associated with those facilities and services,
-(xxiv) | the person engaged in anything referred to in sub paragraph (xxiii),
-(xxv) | giving effect to, and carrying out, the provisions of the Chicago Convention,
-(xxvi) | public transport, aerial work and the prohibition of the carriage by air of goods of such classes as may be prescribed,
-(xxvii) | the minimising or preventing of interference with the use of, or the effectiveness of apparatus used in connection, with, air navigation or communications, and the prohibiting of, or the regulating of, the use of such apparatus and the display of such signs and lights as may endanger aircraft,
-(xxviii) | the regulation of the making of signals and other communications by or to aircraft and persons carried in aircraft,
-(xxix) | the prohibition, restriction or regulation of the carrying on of any trade or business within any airport which is under the control of the Authority or licensed by the Authority,
-(xxx) | the establishment and regulation of the conditions of use, including the charges to be made for the use of any airport operated by the Authority,
-(xxxi) | the prescribing of charges payable for the implementation or carrying out of any of the functions, duties, responsibilities and services to be provided by the Authority,
-(xxxii) | any other functions that may be conferred on the Authority by the Minister or any other law,
-(xxxiii) | the licensing of flight crew members, air traffic controllers and operators of equipment used to provide services relating to civil aviation,
-(xxxiv) | the licensing of persons engaged in the design, manufacture, distribution,
+(iii) the provision of air navigation services,
+(iv) the establishment, maintenance, development, operation and ownership of airports,
+(v) the provision of rescue and fire fighting services at airports,
+(vi) the provision of assistance and information, including aeronautical information services,
+(vii) the co-ordination and direction of search and rescue services,
+(viii) the provision of facilities and services in support of inspectors of accidents in relation to the investigation of accidents,
+(ix) the registration of aircraft,
+(x) the safety regulation of aircraft,
+(xi) the provision, in conjunction with other agencies of the Government, including the military, of arrangements to prevent or deal with all unlawful interference with aviation security (including passenger screening) in Botswana,
+(xii) the control of air traffic,
+(xiii) the certification of operators of aircraft,
+(xiv) the licensing of civil aviation personnel,
+(xv) the licensing of private airports,
+(xvi) the provision of meteorological information to aircraft,
+(xvii) the publication and dissemination of all regulations pertaining to civil aviation,
+(xviii) the licensing of crews engaged in the operation of aircraft,
+(xix) the design, construction, maintenance, operation and use of aircraft and related equipment,
+(xx) the personnel engaged in the maintenance of aircraft and related equipment,
+(xxi) the planning, construction and use of airports,
+(xxii) the personnel engaged in anything referred to in sub paragraph (iv),
+(xxiii) the planning, establishment, maintenance, operation and use of air route and airway facilities, rescue and firefighting services, and search and rescue services, and any construction associated with those facilities and services,
+(xxiv) the person engaged in anything referred to in sub paragraph (xxiii),
+(xxv) giving effect to, and carrying out, the provisions of the Chicago Convention,
+(xxvi) public transport, aerial work and the prohibition of the carriage by air of goods of such classes as may be prescribed,
+(xxvii) the minimising or preventing of interference with the use of, or the effectiveness of apparatus used in connection, with, air navigation or communications, and the prohibiting of, or the regulating of, the use of such apparatus and the display of such signs and lights as may endanger aircraft,
+(xxviii) the regulation of the making of signals and other communications by or to aircraft and persons carried in aircraft,
+(xxix) the prohibition, restriction or regulation of the carrying on of any trade or business within any airport which is under the control of the Authority or licensed by the Authority,
+(xxx) the establishment and regulation of the conditions of use, including the charges to be made for the use of any airport operated by the Authority,
+(xxxi) the prescribing of charges payable for the implementation or carrying out of any of the functions, duties, responsibilities and services to be provided by the Authority,
+(xxxii) any other functions that may be conferred on the Authority by the Minister or any other law,
+(xxxiii) the licensing of flight crew members, air traffic controllers and operators of equipment used to provide services relating to civil aviation,
+(xxxiv) the licensing of persons engaged in the design, manufacture, distribution,
 
 Copyright Government of Botswana
 
