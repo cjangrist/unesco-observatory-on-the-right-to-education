@@ -2,7 +2,7 @@
 
 République du Niger
 
-Fraternité – Travail – Progrès
+Fraternité - Travail - Progrès
 
 # Programme Sectoriel de l'Education et de la Formation (2014-2024)
 
@@ -29,11 +29,11 @@ Juin 2013
 3. Principales orientations politiques du secteur (résumé) ..........................................10
 3.1. Le PSEF dans son contexte historique, économique et démographique...................................10
 3.1.1. Une continuité fructueuse des politiques éducatives....................................................................10
-3.1.2. L’environnement actuel des politiques éducatives.........................................................................11
+3.1.2. L'environnement actuel des politiques éducatives.........................................................................11
 3.2. Poursuite des efforts en direction de la scolarité primaire universelle.....................................12
-3.3. Elargissement de l’éducation de base..............................................................................................12
+3.3. Elargissement de l'éducation de base..............................................................................................12
 3.4. Evolution prévue pour les autres segments de la scolarité .........................................................13
-4. Développement de l’éducation, principales stratégies ...............................................14
+4. Développement de l'éducation, principales stratégies ...............................................14
 4.1. Education de base................................................................................................................................14
 4.1.1. Education préscolaire ...............................................................................................................................14
 4.1.2 Cycles de base 1 et 2, éducation de base élargie..............................................................................16
@@ -42,14 +42,14 @@ Juin 2013
 4.2.2. Enseignement technique et formation professionnelle................................................................25
 4.2.3. Enseignement supérieur et recherche scientifique ........................................................................29
 4.2.4. Alphabétisation et éducation non formelle.......................................................................................32
-4.3. Gouvernance et pilotage : arrangements institutionnels pour l’exécution de la stratégie sectorielle......................................................................................................................................................35
+4.3. Gouvernance et pilotage : arrangements institutionnels pour l'exécution de la stratégie sectorielle......................................................................................................................................................35
 4.3.1. Exécution des financements sectoriels...............................................................................................35
 4.3.2. Mise en œuvre, suivi et pilotage de la stratégie..............................................................................37
 4.3.3. Les instances de coordination et de pilotage du PSEF ...................................................................39
-4.3.4. Les mécanismes de suivi et d’évaluation du PSEF..........................................................................40
+4.3.4. Les mécanismes de suivi et d'évaluation du PSEF..........................................................................40
 4.4. Thèmes transversaux ..........................................................................................................................40
 4.4.1. Equité .............................................................................................................................................................40
-4.4.2. Prévention des risques de catastrophes, d’urgence ou de conflits.............................................45
+4.4.2. Prévention des risques de catastrophes, d'urgence ou de conflits..............................................45
 4.4.3. Gestion des flux ..........................................................................................................................................47
 5 . Modalités de mise en œuvre des principales politiques............................................51
 5.1. Gestion des enseignants.....................................................................................................................51
@@ -61,7 +61,7 @@ Juin 2013
 5.3.2. La fonction gestion des ressources humaines..................................................................................69
 5.3.3. La fonction de supervision pédagogique............................................................................................71
 5.3.4. Information statistique, coordination, planification, programmation et suivi ......................72
-5.3.5. Maîtrise d’ouvrage du génie civil..........................................................................................................72
+5.3.5. Maîtrise d'ouvrage du génie civil..........................................................................................................72
 
 2
 
@@ -87,7 +87,7 @@ De récents soubresauts internationaux contribuent aussi à la fragilisation du 
 
 Le  Niger  s'est  doté  en  2012  d'un  « Programme  de  développement  économique  et  social 2012-2015 » (PDES) très complet, dont le propos est de fixer les perspectives et les stratégies de développement économique et social du pays.
 
-Le  programme sectoriel de l'éducation et de la formation (PSEF) présenté ici repose sur le cadrage macro-économique donné par le PDES. Il en détaille les aspects sectoriels relatifs à l'éducation et à la formation. Il tient compte des orientations de fond du PDES, aux termes duquel la politique éducative du Niger « réaffirme les engagements pris par le Président de la République dans son programme de la renaissance du Niger de faire de l'éducation et de la formation sa priorité ainsi que celle de son gouvernement.» 2
+Le programme sectoriel de l'éducation et de la formation (PSEF) présenté ici repose sur le cadrage macro-économique donné par le PDES. Il en détaille les aspects sectoriels relatifs à l'éducation et à la formation. Il tient compte des orientations de fond du PDES, aux termes duquel la politique éducative du Niger « réaffirme les engagements pris par le Président de la République dans son programme de la renaissance du Niger de faire de l'éducation et de la formation sa priorité ainsi que celle de son gouvernement.» 2
 
 Le PSEF porte sur un terme plus long que le PDES, la période de prévision portant jusqu'en 2024.
 
@@ -129,7 +129,7 @@ Malgré ce développement, des  disparités et faiblesses persistent en 2011 :
 
 - le tiers des enfants qui accède à l'école primaire n'en achève pas le cycle.
 
-L'enseignement primaire souffre d'une qualité insuffisante. Les résultats aux tests PASEC et DESAS en fin du cycle de base 1 montrent que
+L'enseignement primaire souffre d'une qualité insuffisante. Les résultats aux tests PASEC et DESAS en fin du cycle de base 1 montrent que les élèves ne maîtrisent en moyenne que
 
 5
 
@@ -429,7 +429,7 @@ Pour le développement du sous-secteur, les activités suivantes seront mises en
 
 2012 | 2014 | 2015 | 2016 | 2024
 --- | --- | --- | --- | --- | ---
-Effectifs totaux du préscolaire | 121 859 | 142 388 | 152 653 | 161 891 | 245 035
+Effectifs totaux du pré- scolaire | 121 859 | 142 388 | 152 653 | 161 891 | 245 035
 TBS | 6,3% | 8% | 8% | 9% | 15%
 % des effectifs accueillis dans
  le public | 65% | 54% | 51% | 48% | 25%
@@ -438,11 +438,11 @@ TBS | 6,3% | 8% | 8% | 9% | 15%
 
 #### 4.1.2 Cycles de base 1 et 2, éducation de base élargie
 
-Pour les cycles de base (1&2) dorénavant conçus dans un parcours qui les fusionnent en un parcours harmonisé sous l'appellation d'éducation de base élargie , la stratégie nationale se fixe la double ambition de permettre à tous les enfants d'accéder au cycle de base 1, à prés de 90 % d'entre eux de l'achever (six années de scolarité complète) dans de bonnes conditions de qualité, et d'en promouvoir un nombre accru vers le cycle de base 2 de quatre années de scolarité. La rénovation progressive et profonde de ce cycle, remplaçant progressivement l'ancien collège, permettra d'en faire un prolongement naturel de l'école primaire, accessible à terme à tous les jeunes nigériens.
+Pour les cycles de base (1&2) dorénavant conçus dans un parcours qui les fusionnent en un parcours harmonisé sous l'appellation d'éducation de base élargie , la stratégie nationale se fixe la double ambition de permettre à tous les enfants d'accéder au cycle de base 1, à près de 90 % d'entre eux de l'achever (six années de scolarité complète) dans de bonnes conditions de qualité, et d'en promouvoir un nombre accru vers le cycle de base 2 de quatre années de scolarité. La rénovation progressive et profonde de ce cycle, remplaçant progressivement l'ancien collège, permettra d'en faire un prolongement naturel de l'école primaire, accessible à terme à tous les jeunes nigériens.
 
 ##### Le cycle de base 1.
 
-Avec  un taux brut d'accès de prés de 100 % et un taux d'achèvement de la 6 ème année de 56%, dans un contexte de forte poussée démographique, l'école nigérienne a encore besoin, pendant longtemps, d'accroître ses capacités physiques d'accueil. Celles-ci sont aujourd'hui insuffisantes, et près de la moitié des groupes pédagogiques sont accueillis dans des classes en matériaux précaires (classes en paillote). Les effectifs scolarisés dans le cycle de base 1 vont continuer à croître au delà de l'année scolaire 2023-2024. A cet horizon, le taux de couverture (TBS) atteindra 99%.
+Avec un taux brut d'accès de près de 100 % et un taux d'achèvement de la 6 ème année de 56%, dans un contexte de forte poussée démographique, l'école nigérienne a encore besoin, pendant longtemps, d'accroître ses capacités physiques d'accueil. Celles-ci sont aujourd'hui insuffisantes, et près de la moitié des groupes pédagogiques sont accueillis dans des classes en matériaux précaires (classes en paillote). Les effectifs scolarisés dans le cycle de base 1 vont continuer à croître au delà de l'année scolaire 2023-2024. A cet horizon, le taux de couverture (TBS) atteindra 99%.
 
 Pour ces raisons, le premier élément de la stratégie d'atteinte de l'achèvement universel est un programme de construction de salles de classe au rythme d'un peu plus de 2000 par an pendant les trois premières années de la stratégie, plus ambitieux par la suite. Ce rythme sera atteint grâce à l'évolution des procédés d'exécution.
 
@@ -452,7 +452,7 @@ Pour ces raisons, le premier élément de la stratégie d'atteinte de l'achèvem
 
 [[START OF PAGE 17]]
 
-Le  Ministère  aura  recours  à des  approches  éprouvées  par  le  passé  et  expérimentera  de nouveaux procédés. (Voir plus loin, constructions scolaires, point n°52)
+Le Ministère aura recours à des approches éprouvées par le passé et expérimentera de nouveaux procédés. (Voir plus loin, constructions scolaires, point n°5.2)
 
 Le second pilier de la stratégie consiste en la mise à disposition d'enseignants en nombre suffisant pour l'expansion du système. Ceci passe par :
 
@@ -515,10 +515,10 @@ Tableau récapitulatif.
 2010 | 2014 | 2015 | 2016 | 2024
 --- | --- | --- | --- | --- | ---
 Effectifs totaux du cycle de base 1 | 1 726 452 | 2 162 424 | 2 279 043 | 2 400 750 | 3 702 714
-Taux d'achèvement 6ème année | 49,3% | 59,8% | 62,4% | 65,0% | 90,0%
+Taux d'achèvement 6 ème an- née | 49,3% | 59,8% | 62,4% | 65,0% | 90,0%
 Ratio élève maitre dans les écoles publiques | 39 | 40 | 41 | 41 | 45
 Nombre total d'enseignants pour les besoins du public | 42 887 | 51 005 | 53 080 | 55 218 | 77 346
-Recrutement annuel de nouveaux enseignants | 3000 | 3 437 | 4 840 | 4 935 | 6 333
+Recrutement annuel de nou- veaux enseignants | 3000 | 3 437 | 4 840 | 4 935 | 6 333
 
 ##### Cycle de base 2.
 
@@ -697,7 +697,7 @@ Le constat d'un aléa important dans l'affectation des personnels, et dans une m
 
 Il est connu par ailleurs que les stratégies d'évitement des affectations sont partiellement liées aux conditions particulières d'enseignement dans des zones difficiles. Au cycle moyen,
 
-> 14 Entre 20 et 30 fonctionnaires des différents ministères impliqués dans l'éducation ont suivi une formation adaptée à l'université Senghor en Egypte.
+> 14 Entre  20  et  30  fonctionnaires  des  différents  ministères  impliqués  dans  l'éducation  ont  suivi  une  formation  adaptée  à l'université Senghor en Egypte.
 
 24
 
@@ -714,8 +714,8 @@ une « prime de zone désertique » est attribuée aux personnels concernés. Un
 Effectifs totaux du cycle moyen | 33 134 | 46 857 | 49 628 | 52 415 | 75 215
 % des effectifs scolarisés dans le privé | 38,4% | 38,8% | 38,9% | 39,1% | 40%
 Taux de survie | 54% | 61% | 63% | 65% | 80%
-Ratio élève/division pédagogique dans le public | 33 | 34 | 34 | 34 | 35
-Service effectif horaire hebdomadaire des enseignants | 14,5 | 17 | 18 | 18 | 18
+Ratio élève/division pédago- gique dans le public | 33 | 34 | 34 | 34 | 35
+Service effectif horaire heb- domadaire des enseignants | 14,5 | 17 | 18 | 18 | 18
 Nombre total d'enseignants pour les besoins du public | 1 293 | 1 531 | 1 524 | 1 601 | 2206
 % d'enseignants contractuels | 67% | 18,1% | 12,3% | 11,0% | 0%
 
@@ -737,25 +737,25 @@ La mise en place de la stratégie de l'EFPT se fera en deux phases. Une premièr
 
 [[START OF PAGE 26]]
 
-- ˉ l'évaluation exhaustive des différents modes de formation non formelle (formation initiale  professionalisante,  apprentissage  en  alternance,  apprentissage  traditionnel modernisé).  Cette  évaluation  portera  sur:  (i)  l'approche  « faire-faire »  (évaluation comparative des interventions du FAFPCA  et des ONG), (ii) les aspects de coûts et d'efficacité, (iii) les modalités d'organisation des formations, du curriculum, des méthodes pédagogiques, de l'évaluation des formés et du suivi de leur insertion professionnelle ;
+- l'évaluation exhaustive des différents modes de formation non formelle (formation initiale professionalisante, apprentissage en alternance, apprentissage traditionnel modernisé). Cette évaluation portera sur: (i) l'approche « faire-faire » (évaluation comparative des interventions du FAFPCA et des ONG), (ii) les aspects de coûts et d'efficacité, (iii) les modalités d'organisation des formations, du curriculum, des méthodes pédagogiques, de l'évaluation des formés et du suivi de leur insertion professionnelle ;
 
-- ˉ la réorganisation de la formation sur la base des résultats de l'évaluation et des expériences réussies (particulièrement sur l'apprentissage traditionnel rénové).  Un voyage d'études dans les pays de la sous-région ayant réussi des expériences dans ce domaine sera organisé à l'attention d'une équipe du ministère pour lui permettre de s'imprégner des expériences réussies ;
+- la réorganisation de la formation sur la base des résultats de l'évaluation et des expériences réussies (particulièrement sur l'apprentissage traditionnel rénové). Un voyage d'études dans les pays de la sous-région ayant réussi des expériences dans ce domaine sera organisé à l'attention d'une équipe du ministère pour lui permettre de s'imprégner des expériences réussies ;
 
-- ˉ une  étude  de  faisabilité  sur  les  conditions  et  modes  opératoires  de  la  montée  en puissance  de  la  formation  initiale  professionnalisante  et  des  apprentissages  traditionnels en alternance ou  modernisés ;
+- une étude de faisabilité sur les conditions et modes opératoires de la montée en puissance de la formation initiale professionnalisante et des apprentissages traditionnels en alternance ou modernisés ;
 
-- ˉ l'amélioration  de  la  pertinence  des  apprentissages  (EFPT  formel  et  non  formel)  en adéquation  avec  le  marché  de  l'emploi par  (i)  une  analyse  précise  des  besoins  de formation par filière, (ii) la réforme des profils d'entrée et de sortie des apprenants, (iii)  le  développement et le recours à un dispositif de validation des acquis, notamment, un répertoire des métiers et des  compétences, et des référentiels de certification  pour l'EFPT (Cadre national des qualifications et certifications, CNQC) ;
+- l'amélioration de la pertinence des apprentissages (EFPT formel et non formel) en adéquation avec le marché de l'emploi par (i) une analyse précise des besoins de formation par filière, (ii) la réforme des profils d'entrée et de sortie des apprenants, (iii) le développement et le recours à un dispositif de validation des acquis, notamment, un répertoire des métiers et des compétences, et des référentiels de certification pour l'EFPT (Cadre national des qualifications et certifications, CNQC) ;
 
-- ˉ la  réorganisation des formations formelles (CAP, BEP, Bac) à travers la redéfinition des volumes horaires, des contenus des programmes et la systématisation des stages en entreprise ;
+- la réorganisation des formations formelles (CAP, BEP, Bac) à travers la redéfinition des volumes horaires, des contenus des programmes et la systématisation des stages en entreprise ;
 
-- ˉ le développement et la mise en œuvre d'un système de gestion plus autonome des centres et établissements d'EFPT en vue d'un meilleur partenariat public/privé ;
+- le développement et la mise en œuvre d'un système de gestion plus autonome des centres et établissements d'EFPT en vue d'un meilleur partenariat public/privé ;
 
-- ˉ le  développement  d'un  système  d'information  des  jeunes  sur  les  opportunités d'insertion et de reconversion et la création de centres incubateurs de jeunes diplômés dans des établissements ;
+- le développement d'un système d'information des jeunes sur les opportunités d'insertion et de reconversion et la création de centres incubateurs de jeunes diplômés dans des établissements ;
 
-- ˉ l'opérationnalisation de l'observatoire de l'emploi et de la formation (créé en 2012) pour permettre une  connaissance détaillée du marché du travail dans sa dynamique passée et ses évolutions futures anticipées, l'identification des demandes du secteur de l'emploi et une description chaque année de l'insertion professionnelle des sortants de  l'EFTP et de l'enseignement supérieur ;
+- l'opérationnalisation de l'observatoire de l'emploi et de la formation (créé en 2012) pour permettre une connaissance détaillée du marché du travail dans sa dynamique passée et ses évolutions futures anticipées, l'identification des demandes du secteur de l'emploi et une description chaque année de l'insertion professionnelle des sortants de l'EFTP et de l'enseignement supérieur ;
 
-- ˉ l'élargissement  effectif  de  la  mission  du  Ministère  en  prenant  en  compte  le  volet ''Reconversion et Insertion des jeunes'' ;
+- l'élargissement effectif de la mission du Ministère en prenant en compte le volet ''Reconversion et Insertion des jeunes'' ;
 
-- ˉ la mise en place d'une stratégie de communication sur l'EFPT: «EFPT parcours normal de poursuite d'études et voie de la réussite».
+- la mise en place d'une stratégie de communication sur l'EFPT: «EFPT parcours normal de poursuite d'études et voie de la réussite».
 
 26
 
@@ -793,7 +793,7 @@ Pour répondre  à la fois aux différents profils des bénéficiaires potentiel
 
 (iii) de réaliser une étude de faisabilité en vue du transfert de la gestion des Centres de Formation en Développement Communautaire aux communes.
 
--  Un apprentissage en alternance (pratique et théorie de base) sera développé pour les jeunes du secteur informel. Sur la base des résultats des évaluations prévues dans le cadre de la préparation de la 2ème phase du PSEF, l'expérience du FAFPCA sur l'apprentissage en
+- Un apprentissage en alternance (pratique et théorie de base) sera développé pour les jeunes du secteur informel. Sur la base des résultats des évaluations prévues dans le cadre de la préparation de la 2ème phase du PSEF, l'expérience du FAFPCA sur l'apprentissage en alternance sera optimisée avec des subventions au FAFPCA et aux ONG dont les montants seront déterminés sur la base de coûts unitaires standardisés par apprenant.
 
 > 15 CFPT
 
@@ -804,27 +804,28 @@ Pour répondre  à la fois aux différents profils des bénéficiaires potentiel
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
 alternance sera optimisée avec des subventions au FAFPCA et aux ONG dont les montants seront déterminés sur la base de coûts unitaires standardisés par apprenant.
 
 ##### Amélioration de la qualité.
 
 L'amélioration de la qualité des formations offertes sera faite à travers:
 
-- ˉ la mise en œuvre effective de la réforme des curricula ;
+- la mise en œuvre effective de la réforme des curricula ;
 
-- ˉ la réforme des modes d'évaluation et de certification ;
+- la réforme des modes d'évaluation et de certification ;
 
-- ˉ l'identification  et  la  mise  en  place  d'un  dispositif  de  formation  des  formateurs  de l'EFPT ;
+- l'identification et la mise en place d'un dispositif de formation des formateurs de l'EFPT ;
 
-- ˉ le  renforcement de l'inspection pédagogique des établissements publics et privés à travers la restructuration/déconcentration de l'inspection pédagogique ;
+- le renforcement de l'inspection pédagogique des établissements publics et privés à travers la restructuration/déconcentration de l'inspection pédagogique ;
 
-- ˉ la  formation  systématique  des  conseillers  pédagogiques  nommés  et  des  nouveaux inspecteurs et l'immersion technologique de ceux en activité ;
+- la formation systématique des conseillers pédagogiques nommés et des nouveaux inspecteurs et l'immersion technologique de ceux en activité ;
 
-- ˉ l'amélioration et le développement des TIC dans les établissements d'EFPT avec notamment l'accès à l'Internet et les bibliothèques numériques ;
+- l'amélioration et le développement des TIC dans les établissements d'EFPT avec notamment l'accès à l'Internet et les bibliothèques numériques ;
 
-- ˉ la  mise  à  disposition  de  matériel  didactique  et  matière  d'œuvre  en  quantité  suffisante.
+- la mise à disposition de matériel didactique et matière d'œuvre en quantité suffisante.
 
-##### Amélioration de la gestion et du  pilotage .
+##### Amélioration de la gestion et du pilotage.
 
 Cette stratégie cherche à créer un environnement plus efficace dans la gestion et le pilotage. A cet effet, les actions  suivantes seront menées :
 
@@ -966,6 +967,7 @@ La première phase de trois ans du PSEF sera mise à profit pour créer les cond
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
 luations prévues, le document de politique nationale d'alphabétisation et d'éducation non formelle sera actualisé et soumis à une validation politique.
 
 Pour améliorer l'efficacité des services d'alphabétisation et d'éducation non formelle les activités prioritaires suivantes seront conduites :
@@ -1087,6 +1089,7 @@ Cette modalité a la préférence des autorités, dans la mesure où elle ne sup
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
 penses sur la base de programmes d'activités, d'une meilleure anticipation des décaissements et d'un meilleur suivi des dossiers engagés.
 
 Le financement extérieur via le fonds commun favorisera l'appropriation de la stratégie nationale dans tous ses aspects par les autorités.
@@ -1102,8 +1105,8 @@ Action | Responsabilité
 Programmation annuelle (préparation de plans d'action) | Chaque DG 20 , chaque DN 21 , chaque direction d'établissement autonome, chaque direction régionale, des ministères en charge de l'éducation et de la formation 22
 Coordination de la programmation annuelle (suivi, relance, instructions) | - Les Secrétaires Généraux des Ministères sectoriels, avec l'appui d'une assistance technique - Les gouverneurs de régions (présidents des conseils régionaux de l'éducation)
 Consolidation des plans d'action annuels | Comité de coordination du PSEF 23 , avec les renforcements de capacités nécessaires et l'appui d'une assistance technique
-Exécution matérielle des activités (préparation de DAO, de TDRs, de dépenses, mise en place des activités) | - Directions concernées, centrales et régionales, avec l'appui le cas échéant d'une assistance technique (financements nationaux et financement PME); - Structures d'exécution des projets (financement PTF), PTF (si gestion directe)
-Suivi de l'exécution matérielle (suivi des chronogrammes, relance, coordination, rapportage trimestriel) | Les SG et les gouverneurs, avec l'appui éventuel d'une assistance technique
+Exécution matérielle des activités (prépara- tion de DAO, de TDRs, de dépenses, mise en place des activités) | - Directions concernées, centrales et régio- nales, avec l'appui le cas échéant d'une assis- tance technique (financements nationaux et financement PME); - Structures d'exécution des projets (finan- cement PTF), PTF (si gestion directe)
+Suivi de l'exécution matérielle (suivi des chronogrammes, relance, coordination, rap- portage trimestriel) | Les SG et les gouverneurs, avec l'appui éven- tuel d'une assistance technique
 Exécution financière (sur Budget général ou FC) et rapportage | DRFM, et tous niveaux déconcentrés
 
 > 20 Les Directions générales des ministères en charges de l'éducation et de la formation
@@ -1122,9 +1125,9 @@ Exécution financière (sur Budget général ou FC) et rapportage | DRFM, et tou
 
 Exécution financière (sur projets) | Structure des projets
 --- | ---
-Pilotage de l'exécution financière et rapportage | Comité du fonds commun Financements des projets : Rapport consolidé trimestriel : comité de coordination, sur la base des rapports des PTF en gestion directe, des structures des projets, des directions régionales et centrales
+Pilotage de l'exécution financière et rappor- tage | Comité du fonds commun Financements des projets : Rapport consoli- dé trimestriel : comité de coordination, sur la base des rapports des PTF en gestion directe, des structures des projets, des directions régionales et centrales
 Coordination, suivi et évaluation de la mise en œuvre du PSEF | Comité de pilotage (interministériel) 24 ,
-Dialogue politique et animation des revues sectorielles Suivi des recommandations des revues 25 | Cadre partenarial 26 Secrétaires généraux des ministères sectoriels
+Dialogue politique et animation des revues sectorielles Suivi des recommandations des revues 25 | Cadre partenarial 26 Secrétaires généraux des ministères secto- riels
 
 ##### Elaboration et approbation des plans d'action annuels :
 
@@ -1373,11 +1376,11 @@ Cette stratégie se décline ainsi :
 
 Les  ministères  vont  intégrer  systématiquement  dans  leurs  plans  d'action  annuels  les  mesures nécessaires pour adapter l'offre éducative aux besoins nouveaux induits par la survenue d'une crise ou d'une catastrophe naturelle. Il s'agira de :
 
-- ˉ réparer  immédiatement  les  dégâts  sur  les  infrastructures  et  les  équipements  scolaires affectés par les crises ou mettre en place de nouvelles infrastructures temporaires ou semi-permanentes afin d'assurer la continuité de l'éducation ;
+- réparer immédiatement les dégâts sur les infrastructures et les équipements scolaires affectés par les crises ou mettre en place de nouvelles infrastructures temporaires ou semi-permanentes afin d'assurer la continuité de l'éducation ;
 
-- ˉ créer des écoles dans les nouveaux villages apparus du fait de la fuite des populations des zones devenues infertiles vers les zones plus fertiles à l'agriculture ;
+- créer des écoles dans les nouveaux villages apparus du fait de la fuite des populations des zones devenues infertiles vers les zones plus fertiles à l'agriculture ;
 
-- ˉ renforcer le contrôle de qualité des constructions ;
+- renforcer le contrôle de qualité des constructions ;
 
 > 30 Plan d'action annuel budgétisé (PAAB)
 
@@ -1387,31 +1390,31 @@ Les  ministères  vont  intégrer  systématiquement  dans  leurs  plans  d'acti
 
 [[START OF PAGE 47]]
 
-- ˉ permettre aux enfants des zones fragiles d'être mieux nourris et soignés pendant la crise et de continuer sans heurts leur éducation ;
+- permettre aux enfants des zones fragiles d'être mieux nourris et soignés pendant la crise et de continuer sans heurts leur éducation ;
 
-- ˉ renforcer les dispositions d'accueil des élèves déplacés suite aux catastrophes et conflits ;
+- renforcer les dispositions d'accueil des élèves déplacés suite aux catastrophes et conflits ;
 
-- ˉ adapter le calendrier et les horaires scolaires en fonction des aléas du milieu pour éviter l'absentéisme et les abandons massifs en périodes difficiles ;
+- adapter le calendrier et les horaires scolaires en fonction des aléas du milieu pour éviter l'absentéisme et les abandons massifs en périodes difficiles ;
 
-- ˉ faciliter  l'accès  à  l'éducation  pour  les  déplacés  et  les  refugiés  par  l'exemption  des frais d'examens et de CDGES ainsi que de l'obligation de fournir des pièces d'état civil lors des inscriptions à l'école et aux examens.
+- faciliter l'accès à l'éducation pour les déplacés et les refugiés par l'exemption des frais d'examens et de CDGES ainsi que de l'obligation de fournir des pièces d'état civil lors des inscriptions à l'école et aux examens.
 
 ###### L'intégration systématique de mesures pour l'amélioration de la qualité dans les PAAB.
 
-Comme pour l'offre, les questions de qualité doivent être prises en compte. Il s'agira,  notamment  de:
+Comme pour l'offre, les questions de qualité doivent être prises en compte. Il s'agira, notamment de:
 
-- ˉ remplacer immédiatement les équipements, les mobiliers et les matériels scolaires perdus ou endommagés par les crises ;
+- remplacer immédiatement les équipements, les mobiliers et les matériels scolaires perdus ou endommagés par les crises ;
 
-- ˉ programmer des cours de rattrapage pour permettre l'exécution du programme dans son ensemble si des retards ont été accusés du fait d'une crise ;
+- programmer des cours de rattrapage pour permettre l'exécution du programme dans son ensemble si des retards ont été accusés du fait d'une crise ;
 
-- ˉ développer un module sur la réduction des risques de catastrophes et de conflits et l'intégrer dans le curriculum dans le domaine « Développement personnel » ;
+- développer un module sur la réduction des risques de catastrophes et de conflits et l'intégrer dans le curriculum dans le domaine « Développement personnel » ;
 
-- ˉ Introduire la réduction des risques de catastrophes et de conflits dans la gestion scolaire, à travers la production d'outils de dialogue et de guides d'activités ;
+- Introduire la réduction des risques de catastrophes et de conflits dans la gestion scolaire, à travers la production d'outils de dialogue et de guides d'activités ;
 
-- ˉ développer un module sur la réduction des risques de catastrophes et de conflits et l'intégrer dans la formation initiale et continue des enseignants et des encadreurs, dans le domaine « compétences de vie courante » ;
+- développer un module sur la réduction des risques de catastrophes et de conflits et l'intégrer dans la formation initiale et continue des enseignants et des encadreurs, dans le domaine « compétences de vie courante » ;
 
-- ˉ former les enseignants et les encadreurs pour le soutien psychosocial aux élèves affectés par les crises ;
+- former les enseignants et les encadreurs pour le soutien psychosocial aux élèves affectés par les crises ;
 
-- ˉ Assurer  une  formation  minimale  pour  les  enseignants  volontaires  recrutés  par  les communautés lors de crises,
+- Assurer une formation minimale pour les enseignants volontaires recrutés par les communautés lors de crises,
 
 ###### L'intégration de mesures liées à la gestion et au pilotage dans les PAAB
 
@@ -1423,14 +1426,13 @@ Il s'agira de :
 
 #### 4.4.3. Gestion des flux
 
-La gestion des flux d'élèves dans le système éducatif du Niger constitue un enjeu de taille dans la perspective de l'amélioration de l'achèvement au cycle de base et d'un élargissement progressif et maitrisé du cycle de base 2 (enseignement de base élargi : 10 années de scolarité). La politique volontariste de la promotion de l'enseignement de base va entrainer des conséquences sur la formation technique et professionnelle et sur la partie haute du
+La gestion des flux d'élèves dans le système éducatif du Niger constitue un enjeu de taille dans la  perspective  de  l'amélioration  de  l'achèvement  au  cycle  de  base  et  d'un  élargissement progressif et maitrisé du cycle de base 2 (enseignement de base élargi : 10 années de scolarité). La politique volontariste de la promotion de l'enseignement de base va entrainer des  conséquences  sur  la  formation  technique  et  professionnelle  et  sur  la  partie  haute  du système. Les travaux de simulation ont permis de mesurer ces conséquences. Le Gouvernement envisage de prendre les mesures lui permettant de maitriser les diverses transitions comme il l'a toujours fait pour les entrées dans les différents niveaux.
 
 47
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
-système. Les travaux de simulation ont permis de mesurer ces conséquences. Le Gouvernement envisage de prendre les mesures lui permettant de maitriser les diverses transitions comme il l'a toujours fait pour les entrées dans les différents niveaux.
 
 ##### 1- Le cycle de base 1 & 2 :
 
@@ -1491,7 +1493,7 @@ Cycle | 2010 | 2014 | 2015 | 2016 | 2024
 --- | --- | --- | --- | --- | ---
 Nouveaux entrants en 3ème | 24 010 | 47 905 | 51 208 | 54 436 | 161 621
 Taux de transition vers le moyen | 50% | 47% | 46% | 45% | 40%
-Nouveaux entrants en seconde (enseignement moyen) | 13 852 | 17 810 | 18 799 | 19 789 | 27 704
+Nouveaux entrants en seconde (enseigne- ment moyen) | 13 852 | 17 810 | 18 799 | 19 789 | 27 704
 Nouveaux entrants en EFPT 2 | 5 845 | 14 599 | 15 862 | 17 113 | 22 730
 Taux de transition vers l'EFPT 2 | 24% | 30% | 31% | 31% | 14%
 
@@ -1614,7 +1616,9 @@ Les  barèmes  actuels  des  fonctionnaires  ne  sont  donc  pas  compatibles  (
 
 > 33 Cette qualification s'appuie sur une comparaison entre le niveau du salaire et le PIB par habitant
 
-> 34 La moyenne dans les pays d'Afrique comparables pour le salaire moyen annuel d'un instituteur fonctionnaire se situe à 5,5 fois le PIB par habitant.
+> 34 La moyenne dans les pays d'Afrique comparables pour le salaire moyen annuel d'un instituteur fonctionnaire se situe à
+
+> 5,5 fois le PIB par habitant.
 
 > 35 Ce chiffre est de 4,1 pour la moyenne dans les pays d'Afrique comparables.
 
@@ -1644,7 +1648,7 @@ Les analyses menées par le RESEN  en 2010 montrent que :
 
 (ii) Concernant les statuts d'instituteur (Bac + 1) et d'instituteur adjoint (BEPC + 2), ces mêmes  analyses  montrent,  sur  la  base  de  la  probabilité  des  élèves  de  réussir  au CFEPD, qu'en moyenne les instituteurs ne sont pas vraiment plus efficaces que leurs collègues instituteurs adjoints.
 
-> 36 Il représente le complémentaire du coefficient de détermination R² qui représente l'écart entre la distribution nationale des enseignants aux écoles par rapport à une distribution égalitaire où des écoles avec le même nombre d'élèves ont le même nombre d'enseignants.
+> 36 Il représente le complémentaire du coefficient de détermination R 2 qui représente l'écart entre la distribution nationale des enseignants aux écoles par rapport à une distribution égalitaire où des écoles avec le même nombre d'élèves ont le même nombre d'enseignants.
 
 54
 
@@ -1681,12 +1685,12 @@ Les  travaux  de  simulation  financière  effectués  ont  dégagé  un  scéna
  |  | 2014 | 2015 | 2016 | 2017 et + | Total en 2024
 --- | --- | --- | --- | --- | --- | ---
 Recrutement des enseignants contractuels | Contractuels du cycle de base 1 | 3 437 | 4 840 | 4 935 | 45 836 | 59 048
- | Contractuels pour le cycle de base 2 | 55 | 47 | 477 | 13 267 | 13 845
- | Contractuels pour le moyen | 15 | 16 | 100 | 829 | 960
+Contractuels pour le cycle de base 2 | 55 | 47 | 477 | 13 267 | 13 845
+Contractuels pour le moyen | 15 | 16 | 100 | 829 | 960
 Intégration à la fonction publique des enseignants contractuels | Instituteurs adjoints | 1904 | 1908 | 1912 | 15 432 | 21 156
- | Instituteurs | 96 | 92 | 88 | 568 | 844
- | Professeurs pour le cycle de base 2 (DAP-CEG) | 300 | 300 | 300 | 4000 | 4 900
- | Professeurs pour le moyen (CAPES) | 100 | 100 | 100 | 1250 | 1550
+Instituteurs | 96 | 92 | 88 | 568 | 844
+Professeurs pour le cycle de base 2 (DAP-CEG) | 300 | 300 | 300 | 4000 | 4 900
+Professeurs pour le moyen (CAPES) | 100 | 100 | 100 | 1250 | 1550
 
 ##### Activités pour l'amélioration des aspects de la GRH relevant des ministères sectoriels.
 
@@ -2243,8 +2247,8 @@ Année | 2010 | 2014 | 2015 | 2016 | 2020 | 2024
 Population | 14 683 947 | 16 655 651 | 17 188 632 | 17 738 668 | 18 892 107 | 22 822 256
 Recettes fiscales (millions CFA) | 385 600 | 756 700 | 873 800 | 937 015 | 1 077 069 | 1 562 227
 Ressources domestiques destinées à l'éducation (millions CFA) | 102 169 | 181 608 | 244 664 | 262 364 | 301 579 | 437 424
- dont ressources pour dépenses courantes | 98 731 | 174 649 | 235 003 | 251 698 | 288 614 | 415 552
- dont ressources pour dépenses en capital | 3 437 | 6 959 | 9 661 | 10 666 | 12 965 | 21 871
+dont ressources pour dépenses courantes | 98 731 | 174 649 | 235 003 | 251 698 | 288 614 | 415 552
+dont ressources pour dépenses en capital | 3 437 | 6 959 | 9 661 | 10 666 | 12 965 | 21 871
 
 Le récapitulatif des dépenses courantes suivant l'hypothèse de référence se présente ainsi dans le modèle de simulation :
 
@@ -2255,8 +2259,8 @@ Le récapitulatif des dépenses courantes suivant l'hypothèse de référence se
 Dépenses courantes (en millions de FCFA) | 206 271 | 229 104 | 244 637 | 283 492 | 426 731
 Ressources domestiques destinées aux dépenses courantes (en millions de FCFA) | 174 649 | 235 003 | 251 698 | 288 614 | 415 552
 GAP sur les dépenses courantes (en millions de FCFA) | (31 622) | 5 899 | 7 061 | 5 122 | (11 179)
-GAP moyen annuel (2014-2016) | (6 220)
-Gap moyen annuel (2014-2024) | 1 237
+GAP moyen annuel (2014-2016) | (6 220) |  |  |  | 
+Gap moyen annuel (2014-2024) | 1 237 |  |  |  | 
 
 Sur la période 2014-2016, le PATB  donne des indications plus précises.
 
@@ -2299,10 +2303,10 @@ Coût du programme éducatif | 240 519 | 281 867 | 293 309 | 815 695 | 1 631
 Financement domestique | 181 608 | 244 664 | 262 364 | 688 636 | 1 377
 Appuis extérieurs hors PME et AFD | 17 078 | 16 297 | 9 849 | 43 224 | 86
 Besoin de financement | -41 833 | -20 906 | -21 096 | -83 834 | -168
-% | -17,4% | -7,4% | -7,2% | -10,3%
+% | -17,4% | -7,4% | -7,2% | -10,3% |
 PME+AFD | 16 667 | 16 667 | 16 667 | 50 000 | 100
 Besoin de Financement résiduel | -25 166 | -4 239 | -4 429 | -33 834 | -68
-% | -10,5% | -1,5% | -1,5% | -4,1%
+% | -10,5% | -1,5% | -1,5% | -4,1% |
 
 Il  reste  un  besoin  de  financement  résiduel  après  intervention  du  PME  et  de  l'AFD. Cependant, les estimations des financements extérieurs hors GPE ne sont pas exhaustives du fait de la difficulté à mobiliser l'intégralité des informations. Enfin, ce gap reste à la portée du gouvernement, qui va entreprendre de mobiliser de nouveaux partenaires, comme c'est souvent le cas après l'endossement d'une politique sectorielle.
 
@@ -2350,7 +2354,7 @@ Nombre de bénéficiaires alphabétisation | 52241 | 124374 | 154211 | 174102 | 
 Nombre de bénéficiaires ENF | 3242 | 5111 | 5709 | 6252 | 10658 | Annuaire | DS/MEN/APLN
 INDICATEURS DE PROCESSUS
 Part du communautaire dans les effectifs du préscolaire | 16,9% | 22 | 32 | 35 | 60 | Annuaire | DS/MEN/APLN
-Base 1, nombre de contractuels diplômés des ENI recrutés par an | ND | 1437 | 2840 | 2935 | 4333 | Annuaire | DS/MEN/APLN
+Base 1, nombre de contrac- tuels diplômés des ENI recru- tés par an | ND | 1437 | 2840 | 2935 | 4333 | Annuaire | DS/MEN/APLN
 Base 1, nombre de salles en dur livrées par an |  | 1387 | 2292 | 2413 | 6464 | Rapport DIE | DIE/MEN/APLN
 Evolution annuelle du nombre de filles bénéficiaires directes d'un programme de |  |  |  |  |  | Rapport DPSF | MEN/APLN/SCOFI
 
@@ -2360,7 +2364,7 @@ Evolution annuelle du nombre de filles bénéficiaires directes d'un programme d
 
 [[START OF PAGE 78]]
 
-soutien (%) |  |  |  |  |  |  |
+soutien (%) |  |  |  |  |  |  | 
 Nombre de rationnaires de cantines | 56400 (nouveau rationnaires en 2013) |  |  |  |  | Annuaire | DS/MEN/APLN
 Base 2 Nombre de diplômés DAP-CEG recrutés / an | 733 | 55 | 47 | 477 | 2198 | Annuaire | DS/MEN/APLN
 Nombre de filles de 6ème bénéficiaires d'allocations | PM | PM | PM | PM | PM | Annuaire | DS/MEN/APLN
@@ -2386,7 +2390,7 @@ Base 2, % de collèges ayant moins de 20 % de reçus au BEPC |  |  |  |  |  | Ra
 Moyen, taux de réussite au baccalauréat | 33,9% |  |  |  |  | Annuaire | DSI/MEMS
 Supérieur, licenciés (N)/entrants (N-3) en licence |  |  |  |  |  |  | DS/MEMS
 Alphabétisation de base, % réussite au test final | 51 % |  |  |  |  | Annuaire | DES/MEN/A/PLN
-ETFP, taux d'insertion et d'auto-emploi | ND |  |  | 45 | 60 |  |
+ETFP, taux d'insertion et d'auto-emploi | ND |  |  | 45 | 60 |  | 
 INDICATEURS DE PROCESSUS
 Préscolaire : nombre d'animateurs de CPC formés | 339 |  |  |  |  | Rapport DEPresco | DEPresco/MEN/APLN
 Préscolaire : ratio élèves/animateur | 32 |  |  |  |  | Annuaire | DS/MEN/APLN
@@ -2447,13 +2451,12 @@ Elargir l'accès des jeunes enfants, en particulier des milieux pauvres, à l'é
 
 ### A.2 Promouvoir l'accès universel et l'équité au cycle de base
 Stratégie | Indicateurs | Suivi / Observations
-
+--- | --- | ---
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
 
 A. DEVELOPPER UN ACCES ELARGI ET EQUITABLE A LA BASE ET MAITRISE AUX NIVEAUX SUPERIEURS DU SYSTEME EDUCATIF
---- | --- | ---
 Développer l'offre et Stimuler la demande de scolarisation, Résorber les disparités entre genres et milieux, Mettre en place une nouvelle politique de recrutement et de gestion des enseignants. | Résultat TBS : 82% en 2016, 98% en 2024 Indice de parité : 1 en 2024 Taux d'achèvement : 65% en 2016 ; 90% en 2024 TAP filles : TAP Base 1 rural / urbain Moyen Part du privé stabilisé à 6% nombre moyen de contractuels diplômés des ENI recrutés par an : 2400 d'ici à 2016 et 3700 à partir de 2017 % des enseignants bénéficiant de la prime Zone difficile 8% d'ici 2016 et 10% à partir de 2020 nombre de paillottes subventionnées par les communes par an en moyenne 19000 jusqu'en 2016 et 0 à l'horizon 2024 nombre moyen de salles en dur livrés par an 2000 jusqu'en 2016 et 4000 par an jusqu'en 2024 nombre d'ERA ouvertes / an Evolution annuelle du nombre de filles bénéficiaires directes d'un programme de soutien (%) Nombre de rationnaires de cantines |
 
 ##### Activités
@@ -2499,12 +2502,11 @@ Stratégie | Indicateurs | Suivi / Observations
 [[START OF PAGE 83]]
 
 A. DEVELOPPER UN ACCES ELARGI ET EQUITABLE A LA BASE ET MAITRISE AUX NIVEAUX SUPERIEURS DU SYSTEME EDUCATIF
---- | ---
 S'orienter vers la mise en place progressive d'une éducation de base élargie de 10 ans Maintenir une régulation des flux à l'entrée de ce cycle en attendant la mise place des conditions d'expansion et renforcer la régulation de l'accès au cycle moyen en fonction des besoins d'accès au Supérieur | Résultat TBS cycle de base 2: 19% en 2010 ; 27% en 2016 ; 42% en 2024 TBA : 28% en 2010, 33% en 2016 et 45% en 2024 Taux de survie : 35% en 2010, 45% en 2016 et 75% en 2024 Taux d'achèvement des filles : Moyen Nombre de diplômés DAP-CEG recrutés par an 193 d'ici à 2016 et 1650 par an à 2024 Nombre de filles de 6ème bénéficiaires d'allocations part du privé dans les effectifs: 18,2% en 2010 ; 18,1% en 2016 ; 18% en 2024 Nombre de salles de classe en dur construites par an : 300 d'ici à 2016 et 1050 jusqu'à l'horizon 2024 |
 
 ##### Activités
 
-A.3.1 : Redéploiement des enseignants en surnombre dans les classes mais aussi dans les fonctions administratifs;
+A.3.1 : Redéploiement des enseignants en surnombre dans les classes mais aussi dans les fonctions adminis- tratifs;
 
 A.3.2 : réduction du nombre des non enseignants
 
@@ -2519,7 +2521,6 @@ A.3.6 : Construction et équipement des salles de classe
 A.3.7 : Allocation scolaire pour les filles pauvres et vulnérable
 
 ### A.4 Promotion de l'Accès et de l'équité en alphabétisation et éducation non formelle
-
 Stratégie | Indicateurs | Suivi / Observations
 --- | --- | ---
 Eradication de l'analphabétisme par le recours à la stratégie du faire-faire en impliquant les acteurs de la société civile ; Offrir une opportunité de scolarisation aux enfants non scolarisés ou déscolarisés. Ceci passe par le : • Amélioration de l'Offre d'éducation non formelle courte fondée sur une remise à niveau ou à une préparation à la vie active ; • Promotion d'une alphabétisation ciblée sur les adolescents et les jeunes adultes. | Résultat • L'effectif total des apprenants ENF passe de 4000 en 2011 à 7200 en 2016 et à 10570 en 2024 ; • L'effectif des apprenants en alphabétisation passe de près de 98 000 en 2011 à 327 000 en 2016 et à 400 000 en 2024 Moyen part des bénéficiaires en mode faire-faire : % d'enfants accueillis dans les classes passerelles dans les effectifs de l'ENF : 75% en 2016 et en 2024 | Observation
@@ -2545,8 +2546,8 @@ A. DEVELOPPER UN ACCES ELARGI ET EQUITABLE A LA BASE ET MAITRISE AUX NIVEAUX SUP
 - A.4.5 : Définition d'un nouveau mécanisme d'orientations des enfants
 
 ### A.5Promouvoir le développement d'un enseignement moyen de qualité
---- | --- | ---
 Stratégie | Indicateurs | Suivi / Observations
+--- | --- | ---
 Améliorer un accès maitrisé à l'enseignement moyen en fonction des perspectives de développement du niveau supérieur tout en favorisant l'accès des filles et des enfants issus des milieux défavorisés | Résultat effectifs des nouveaux entrants en seconde sont en moyenne annuelle de 18900 élèves d'ici à 2016 et de 24250 à 2024 % des filles dans les effectifs des nouveaux entrants TBS 3,9 en 2010, 5,15 en 2016, 5,7 en 2024 Moyen Part du privé dans les effectifs : 38,4% en 2010, 39,1% en 2016 et 40% en 2024. Nombre de SDC livrées par an : en moyenne 50 SDC par an jusqu'en 2024 Nouveaux sortants ENS recrutés par an 50 jusqu'en 2016 et 100 jusqu'en 2024. |
 
 ##### Stratégies
@@ -2579,14 +2580,18 @@ Suivi / Observations
 
 A. DEVELOPPER UN ACCES ELARGI ET EQUITABLE A LA BASE ET MAITRISE AUX NIVEAUX SUPERIEURS DU SYSTEME EDUCATIF
 
-recours à plusieurs modes de formation et la concentration sur des filières porteuses. Promouvoir l'offre privée. Promouvoir la formation continue en cours d'emploi. | Résultat Nombre d'apprenants EFPT formelle : 18 517 en 2010, 43 442 en 2016 et 64 327 en 2024 Moyen Part du privé : 5% en 2010, 7% en 2016 et 9% en 2024 Nombre d'apprenants EFPT (apprentissage traditionnel rénové) : 0 en 2010, 431 en 2016 et 89 558 en 2024 |
---- | --- | ---
+recours à plusieurs modes de forma- tion et la concentration sur des fi- lières porteuses. Promouvoir l'offre privée. Promouvoir la formation continue en cours d'emploi. | Résultat Nombre d'apprenants EFPT for- melle : 18 517 en 2010, 43 442 en 2016 et 64 327 en 2024 Moyen Part du privé : 5% en 2010, 7% en 2016 et 9% en 2024 Nombre d'apprenants EFPT (appren- tissage traditionnel rénové) : 0 en 2010, 431 en 2016 et 89 558 en 2024
+--- | ---
 
 ##### Activités
 
-A.6.1 : Augmentation des capacités d'accueil
+A.6.1 :
 
-A.6.2 : Recrutement des formateurs
+Augmentation des capacités d'accueil
+
+A.6.2 :
+
+Recrutement des formateurs
 
 - A.6.3 : L'introduction de formations au CAP dans les centres régionaux existants, sur la base des études de faisabilité qui seront menées,
 
@@ -2597,8 +2602,9 @@ A.6.2 : Recrutement des formateurs
 - A.6.6 : Mise en place d'un apprentissage en alternance (pratique et théorie de base) pour les jeunes du sec- teur informel
 
 ### A.7 Restructuration et amélioration de l'offre de l'enseignement supérieur
+Stratégie | Indicateurs | Suivi / Observations
 --- | --- | ---
-Stratégie Maitrise de l'expansion du système et diversification de l'offre de formation Améliorer le pilotage de l'Enseignement supérieur Promotion du privé Politique sociale | Indicateurs Résultat Etudiants pour 100 000 h : 135 en 2010, 211 en 2016 et 219 en 2024 Moyen part des étudiants accueillis dans le privé : 24,7 en 2010, 29,1 en 2016 et 35% en 2024 nombre de bourses à l'étranger pour des formations existant au Niger : part des filles dans les boursiers : | Suivi / Observations
+Maitrise de l'expansion du système et diversification de l'offre de formation Améliorer le pilotage de l'Enseignement supérieur Promotion du privé Politique sociale | Résultat Etudiants pour 100 000 h : 135 en 2010, 211 en 2016 et 219 en 2024 Moyen part des étudiants accueillis dans le privé : 24,7 en 2010, 29,1 en 2016 et 35% en 2024 nombre de bourses à l'étranger pour des formations existant au Niger : part des filles dans les boursiers : |
 
 ##### Activités
 
@@ -2627,6 +2633,7 @@ A.6.1 : Identification et validation officielle des modalités d'intégration de
 ## B. AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
 ### B.1 Amélioration de la qualité de l'enseignement préscolaire
 Stratégie | Indicateurs | Suivi / Observations
+--- | --- | ---
 Renforcement de la qualité de services offerts par la mise en place des nouvelles dispositions institutionnelles et gestionnaires et un plaidoyer renforcé en faveur de la prise en charge de la petite enfance | Résultat : Moyen nombre d'animateurs de CPC formés ratio élèves/animateur : |
 
 ##### Activités
@@ -2650,13 +2657,14 @@ B.1.8 : Attribution de kits d'hygiène aux animateurs communautaires
 B.1.9 : Attribution de consommables aux structures du préscolaire
 
 ### B.2 Amélioration de la qualité des apprentissages et de l'achèvement au cycle de base 1
-
-Stratégie Formation initiale et continue des enseignants Respect du temps scolaire Qualité et distribution des outils pédagogiques Conditions d'apprentissage, | Indicateurs Résultat % des écoles publiques dans lesquelles moins du tiers des enfants de CM2 ont la moyenne aux compositions Moyen nombre de contractuels sans diplôme de l'ENI : 12 000 en 2010, et 0 en 2024 % des nouveaux sortants des ENI certifiés niveau B2 (TCF) Part du budget de biens et services exécuté dans les échelons déconcentrés | Suivi / Observations Suivi Observations
+Stratégie | Indicateurs | Suivi / Observations
 --- | --- | ---
+Formation initiale et continue des enseignants Respect du temps scolaire Qualité et distribution des outils pédagogiques Conditions d'apprentissage, | Résultat % des écoles publiques dans lesquelles moins du tiers des enfants de CM2 ont la moyenne aux compositions Moyen nombre de contractuels sans diplôme de l'ENI : 12 000 en 2010, et 0 en 2024 % des nouveaux sortants des ENI certifiés niveau B2 (TCF) Part du budget de biens et services exécuté dans les échelons déconcentrés | Suivi Observations
 
 #### B.2.1 Renforcer la qualité de la Formation initiale et continue des enseignants
+Stratégie | Indicateurs | Suivi / Observations
 --- | --- | ---
-Stratégie • Renforcement des capacités des ENIS • Renforcement de la formation des formateurs • Mise en place d'une formation continue diplomante • Mise en place d'un dispositif de formation continue adapté | Indicateurs Résultat % d'instituteurs formés Document de la politique de formation continue des enseignants, élaboré | Suivi / Observations Suivi Certification dans les ENI
+• Renforcement des capacités des ENIS • Renforcement de la formation des formateurs • Mise en place d'une formation continue diplomante • Mise en place d'un dispositif de formation continue adapté | Résultat % d'instituteurs formés Document de la politique de formation continue des enseignants, élaboré | Suivi Certification dans les ENI
 
 86
 
@@ -2680,7 +2688,7 @@ B.2.1.2 : Identification et mise en place d'un dispositif de formation continue 
 
 - B.2.1.6 : Instauration systématique de l'organisation d'un test de type DELF à la fin de la formation à l'ENI est prise en compte des résultats du test dans la certification des ENI
 
-- B.2.1.7 : Renforcement des capacités des formateurs des ENIs
+- B.2.1.7 : Renforcement des capacités des formateurs des ENis
 
 - B.2.1.8 : Construction de salles de classe dans les ENIs
 
@@ -2688,7 +2696,7 @@ B.2.1.2 : Identification et mise en place d'un dispositif de formation continue 
 
 #### B.2.2 Mettre en place un encadrement de proximité efficace et améliorer le temps d'apprentissage
 
-Stratégie • Mise en place d'un dispositif d'encadrement efficace • Equipement des structures • Développement d'outils • Mesures permettant le strict respect des normes du temps d'apprentissage • Réduction de l'absentéisme des enseignants et des élèves • Mesures administratives pour l'adaptation du calendrier scolaire au contexte de chaque région | Indicateurs • Un dispositif (organisation, procédures et outil) de l'encadrement pédagogique mis en place en 2014 • 900 heures de cours exécutées en moyenne par an en 2016 • Rapport sur l'absentéisme des enseignants élaborés par les IDEN et transmis à la DRH tout les trimestres • Textes réglementaires portant adaptation du calendrier scolaire par région adoptés en 2014 | Suivi / Observations - Annuaire des statistiques DS/MEN/A/PLN - Rapport annuel de suivi de la du PSEF
+Stratégie  Mise en place d'un dispositif d'encadrement efficace  Equipement des structures  Développement d'outils  Mesures permettant le strict respect des normes du temps d'apprentissage  Réduction de l'absentéisme des enseignants et des élèves  Mesures administratives pour l'adaptation du calendrier sc o- laire au contexte de chaque ré- gion | Indicateurs  Un dispositif (organisation, pro- cédures et outil) de l'encadrement pédagogique mis en place en 2014  900 heures de cours exécutées en moyenne par an en 2016  Rapport sur l'absentéisme des enseignants élaborés par les IDEN et transmis à la DRH tout les tri- mestres  Textes réglementaires portant adaptation du calendrier scolaire par région adoptés en 2014 | Suivi / Observations - Annuaire des statis- tiques DS/MEN/A/PLN - Rapport annuel de sui- vi de la du PSEF
 --- | --- | ---
 
 ##### Activités
@@ -2717,8 +2725,10 @@ B.2.2.1 : Sensibilisation sur les objectifs de qualité du PSEF (inspecteurs, co
 
 #### B.2.3 Disponibiliser le matériel pédagogique et didactique
 --- | --- | ---
-Stratégie | Indicateurs | Suivi / Observations
-Rendre le matériel pédagogique et didactique disponible dans les classes et en quantité suffisante | Résultat Ratio livre/élève | Suivi Observation
+Stratégie | Indicateurs Résultat | Suivi / Observations Suivi
+Rendre le matériel pédagogique et
+didactique disponible dans les | Ratio livre/élève | Observation
+classes et en quantité suffisante
 
 87
 
@@ -2726,7 +2736,9 @@ Rendre le matériel pédagogique et didactique disponible dans les classes et en
 
 [[START OF PAGE 88]]
 
-B. AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
+B.
+
+AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
 
 ##### Activités
 
@@ -2736,7 +2748,7 @@ B. AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
 
 ### B.3 | Amélioration de la qualité et de l'efficacité du cycle de base 2
 --- | --- | ---
-Stratégie Améliorer la formation initiale des enseignants, Réviser les programmes et de l'examen du BEPC (pour assurer la prise en compte de l'éducation de base élargie), Réduire les redoublements et disponibiliser les équipements des bibliothèques, le matériel didactiques, les manuels et guides. | Indicateurs Résultat taux d'abandon en 6ème % de collèges ayant moins de 20 % de reçus au BEPC Part du budget de biens et services exécuté dans les échelons déconcentrés Moyen nombre de collèges ayant au moins une classe de plus de 80 élèves taux de redoublement : 19,8 en 2010, 13% en 2016 et 7% en 2024. | Suivi / Observations - Annuaire des statistiques DS/MEN/A/PLN - Rapport annuel de suivi de la du PSEF
+Stratégie Améliorer la formation initiale des enseignants, Réviser les pro- grammes et de l'examen du BEPC (pour assurer la prise en compte de l'éducation de base élargie), Réduire les redoublements et disponibiliser les équipements des bibliothèques, le matériel didactiques, les manuels et guides . | Indicateurs Résultat taux d'abandon en 6 ème % de collèges ayant moins de 20 % de reçus au BEPC Part du budget de biens et services exécuté dans les échelons déconcen- trés Moyen nombre de collèges ayant au moins une classe de plus de 80 élèves taux de redoublement : 19,8 en 2010, 13% en 2016 et 7% en 2024. | Suivi / Observations - Annuaire des statis- tiques DS/MEN/A/PLN - Rapport annuel de sui- vi de la du PSEF
 
 ##### Activités
 
@@ -2763,7 +2775,7 @@ Stratégie Améliorer la formation initiale des enseignants, Réviser les progra
 ### B.4 | Amélioration de la qualité et de l'efficacité de l'AENF
 --- | --- | ---
 Stratégie | Indicateurs | Suivi / Observations
-Développement et mise en place des fondamentaux nécessaires au développement d'une offre efficace est en croissance de l'AENF; | Résultat % réussite au test final de l'alphabétisation de base, Moyen Référentiels pour l'AENF disponible en 2014, Programmes rénovés mis en application en 2015, % des nouveaux opérateurs formés |
+Développement et mise en place des fondamentaux nécessaires au développement d'une offre eff i- cace est en croissance de l'AENF; | Résultat % réussite au test final de l'alphabétisation de base, Moyen Référentiels pour l'AENF disponible en 2014, Programmes rénovés mis en applica- tion en 2015, % des nouveaux opérateurs formés
 
 88
 
@@ -2906,8 +2918,7 @@ Améliorer la pertinence des forma- tions au regard de l'emploi Mise en place du
 
 [[START OF PAGE 91]]
 
-B. | AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
---- | ---
+B. AMELIORATION DE LA QUALITE ET DE LA PERTINENCE DE L'EDUCATION
 ##### Activités
 B.7.1 : Analyse des demandes du marché du travail et élaboration d'un plan de restructuration des enseignements
 B.7.2 : Elaboration d'un programme d'autonomisation progressive des institutions d'enseignement supérieur
@@ -2934,6 +2945,7 @@ B.7.15 : Conduite d'enquêtes sur les résultats en STI
 ## C. AMELIORATION DE LA GESTION ET DE LA GOUVERNANCE DU SECTEUR
 ### C.1 Amélioration du pilotage sectoriel
 Stratégie | Indicateurs | Suivi / Observations
+--- | --- | ---
 Renforcer le pilotage institutionnel Développer et consolider les capacités de pilotage, de gestion et d'évaluation des structures centrales et déconcentrées du système éducatif Renforcement de la déconcentration du secteur Accroître la responsabilité des structures déconcentrées Améliorer la prévention des risques | Résultat Part des ressources publiques allouée au secteur de l'éducation : 26% en 2010, 28% en 2016 et en 2024 Moyen Un manuel de procédures pour la gestion et le pilotage est disponible et utilisé par les structures centrales et déconcentrées dès 2014. Une politique nationale de gestion et de prévention des risques est élaborée et mise en place | Rapport annuel de suivi de la du PSEF
 
 ##### Activités
@@ -2962,9 +2974,10 @@ Renforcer le pilotage institutionnel Développer et consolider les capacités de
 
 - C.1.12 : L'intégration systématique de mesures liées à l'accroissement de l'accès ou de la qualité dans les Plans d'action annuels en cas de survenue de crises pour tenir compte des nouveaux besoins
 
-### C.2 | Renforcer la production de données sur le secteur
+### C.2 Renforcer la production de données sur le secteur
+Stratégie | Indicateurs | Suivi / Observations
 --- | --- | ---
-Stratégie Mise en place de systèmes (information, pilotage, de carte scolaire) Formation et recrutement Equipement Budget | Indicateurs Résultat : l'annuaire statistique est publié : Juillet année N+1 en 2010, Juin année N en 2016 et Mars de l'année N en 2024 Moyen : SIGE renforcé Carte scolaire mise en place en 2014 | Suivi / Observations Textes d'application de la carte scolaire Annuaire des statistiques DS/MEN/A/PLN Rapport annuel de suivi de la du PSEF
+Mise en place de systèmes (information, pilotage, de carte scolaire) Formation et recrutement Equipement Budget | Résultat : l'annuaire statistique est publié : Juillet année N+1 en 2010, Juin année N en 2016 et Mars de l'année N en 2024 Moyen : SIGE renforcé Carte scolaire mise en place en 2014 | Textes d'application de la carte scolaire Annuaire des statistiques DS/MEN/A/PLN Rapport annuel de suivi de la du PSEF
 
 92
 
@@ -3046,8 +3059,7 @@ AMELIORATION DE LA GESTION ET DE LA GOUVERNANCE DU SECTEUR
 
 adoption des textes réglementaires induits par la mise en œuvre de la réforme de la gestion des ressources humaines
 
-C.3.15 : Connexion internet des services déconcentrés pour l'actualisation de la base de données GRH
-C.3.16 : Organisation de mission de contrôle de la mise en œuvre des nouvelles dispositions avec implication des CGDES, SC, APE et élaboration d'un rapport annuel sur la mise en œuvre de la nouvelle politique de gestion des ressources humaines
+C.3.15 : Connexion internet des services déconcentrés pour l'actualisation de la base de données GRH C.3.16 : Organisation de mission de contrôle de la mise en œuvre des nouvelles dispositions avec implication des CGDES, SC, APE et élaboration d'un rapport annuel sur la mise en œuvre de la nouvelle politique de gestion des ressources humaines
 
 ### C.4 | Amélioration de la Gestion Financière
 --- | --- | ---
