@@ -191,7 +191,7 @@ Madde 18 – Hiç kimse zorla çalıştırılamaz. Angarya yasaktır.
 Şekil ve şartları kanunla düzenlenmek üzere hükümlülük veya tutukluluk süreleri içindeki çalıştırmalar; olağanüstü hallerde vatandaşlardan istenecek hizmetler; ülke ihtiyaçlarının zorunlu kıldığı alanlarda öngörülen vatandaşlık ödevi niteliğindeki beden ve fikir çalışmaları, zorla çalıştırma sayılmaz.
 
 ___________________
-(1) 7/5/2004 tarihli ve 5170 sayılı Kanunun 2 nci maddesiyle, 15 inci maddenin ikinci fıkrasında yer alan “ile, ölüm cezalarının infazı” ve aynı Kanunun 3 üncü maddesiyle de 17 nci maddenin dördüncü fıkrasının başında geçen, ”Mahkemelerce verilen ölüm cezalarının yerine getirilmesi hali ile” ibareleri madde metinlerinden çıkartılmıştır.
+(1) 7/5/2004 tarihli ve 5170 sayılı Kanunun 2 nci maddesiyle, 15 inci maddenin ikinci fıkrasında yer alan “ile, ölüm cezalarının infazı” ve aynı Kanunun 3 üncü maddesiyle de 17 nci maddenin dördüncü fıkrasının başında geçen, “Mahkemelerce verilen ölüm cezalarının yerine getirilmesi hali ile” ibareleri madde metinlerinden çıkartılmıştır.
 
 Sayfa 4
 
@@ -281,7 +281,7 @@ Din ve ahlak eğitim ve öğretimi Devletin gözetim ve denetimi altında yapıl
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-Kimse, Devletin sosyal, ekonomik, siyasi veya hukuki temel düzenini kısmen de olsa, din kurallarına dayandırma veya siyasi veya kişisel çıkar yahut nüfuzsağlama amacıyla her ne suretle olursa olsun dini veya din duygularını yahut dince kutsal sayılan şeyleri istismar edemez ve kötüye kullanamaz.
+Kimse, Devletin sosyal, ekonomik, siyasi veya hukuki temel düzenini kısmen de olsa, din kurallarına dayandırma veya siyasi veya kişisel çıkar yahut nüfuz sağlama amacıyla her ne suretle olursa olsun dini veya din duygularını yahut dince kutsal sayılan şeyleri istismar edemez ve kötüye kullanamaz.
 
 Sayfa 6
 
@@ -291,7 +291,7 @@ Sayfa 6
 
 Madde 25 – Herkes, düşünce ve kanaat hürriyetine sahiptir.
 
-Her ne sebep ve amaçla olursa olsun kimse, düşünce ve kanaatlerini açıklamaya zorlanamaz; düşünce kanaatleri sebebiyle kınanamaz ve suçlanamaz.
+Her ne sebep ve amaçla olursa olsun kimse, düşünce ve kanaatlerini açıklamaya zorlanamaz; düşünce ve kanaatleri sebebiyle kınanamaz ve suçlanamaz.
 
 #### VIII. Düşünceyi açıklama ve yayma hürriyeti
 
@@ -527,7 +527,7 @@ Türkçeden başka hiçbir dil, eğitim ve öğretim kurumlarında Türk vatanda
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-(2) Bu fıkraya, 3/10/2001 tarih ve 4709 sayılı Kanunun 17 nci maddesiyle ,”ve eşler arasında eşitliğe dayanır”ibaresi eklenmiş ve metne işlenmiştir.
+(2) Bu fıkraya, 3/10/2001 tarih ve 4709 sayılı Kanunun 17 nci maddesiyle, “ve eşler arasında eşitliğe dayanır” ibaresi eklenmiş ve metne işlenmiştir.
 
 Sayfa 11
 
@@ -593,25 +593,11 @@ Madde 48 – Herkes,dilediği alanda çalışma ve sözleşme hürriyetlerine sa
 
 Devlet, özel teşebbüslerin milli ekonominin gereklerine ve sosyal amaçlara uygun yürümesini, güvenlik ve kararlılık içinde çalışmasını sağlayacak tedbirleri alır.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ––––––––––––
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-(1) Bu maddenin kenar başlığı “E Devletleştirme“iken 13/8/1999 tarih ve 4446 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
+(1) Bu maddenin kenar başlığı “E Devletleştirme“ iken 13/8/1999 tarih ve 4446 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 13
 
@@ -805,9 +791,7 @@ Madde 65 – (Değişik: 3/10/2001-4709/22 md.)
 Devlet, sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, bu görevlerin amaçlarına uygun öncelikleri gözeterek malî kaynaklarının yeterliliği ölçüsünde yerine getirir.
 
 ––––––––––––––
-
 (1) Bu kenar başlığı “Sporun geliştirilmesi” iken, 17/3/2011 tarihli ve 6214 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
 (2) Bu kenar başlığı “Sosyal ve ekonomik hakların sınırı” iken, 3/10/2001 tarihli ve 4709 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 17
@@ -867,9 +851,7 @@ Siyasi partiler önceden izin almadan kurulurlar ve Anayasa ve kanun hükümleri
 Siyasi partilerin tüzük ve programları ile eylemleri, Devletin bağımsızlığına, ülkesi ve milletiyle bölünmez bütünlüğüne, insan haklarına, eşitlik ve hukuk devleti ilkelerine, millet egemenliğine,
 
 ––––––––––––––––
-
 (1) Bu fıkrada bulunan; “bulunan tutukluların seçme haklarını kullanmalarında” ibaresi, 3/10/2001 tarihli ve 4709 sayılı Kanunla “oy kullanılması ve” şeklinde değiştirilmiş ve metne işlenmiştir.
-
 (2) Bu madde başlığı 23/7/1995 tarih ve 4121 sayılı Kanunun 6 ncı maddesi ile değiştirilmiş ve metne işlenmiştir.
 
 Sayfa 18
@@ -959,7 +941,6 @@ Vergi, resim, harç ve benzeri mali yükümlülüklerin muaflık, istisnalar ve 
 Madde 74 – Vatandaşlar (Ek ibare:3/10/2001-4709/26 md.) ve karşılıklılık esası gözetilmek kaydıyla Türkiye’de ikamet eden yabancılar kendileriyle veya kamu ile ilgili dilek ve şikayetleri hakkında, yetkili makamlara ve Türkiye Büyük Millet Meclisine yazı ile başvurma hakkına sahiptir.
 
 –––––––––––––––
-
 (1) Bu maddenin kenar başlığı “VII. Dilekçe hakkı” iken, 7/5/2010 tarihli ve 5982 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 20
@@ -1003,9 +984,7 @@ Madde 76 – Yirmibeş yaşını dolduran her Türk milletvekili seçilebilir.(1
 En az ilkokul mezunu olmayanlar, kısıtlılar, yükümlü olduğu askerlik hizmetini yapmamış olanlar, kamu hizmetinden yasaklılar, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm giymiş olanlar; zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık,sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla, kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, (Değişik ibare: 27/12/2002-4777/1 md.) terör eylemlerine katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili seçilemezler.(2)
 
 _______________
-
 (1) Bu fıkrada geçen “Otuz” ibaresi, 13/10/2006 tarihli ve 5551 sayılı Kanunun 1 inci maddesiyle “Yirmibeş” olarak değiştirilmiş ve metne işlenmiştir.
-
 (2) Bu fıkrada geçen “ideolojik veya anarşik eylemlere” ibaresi, 27/12/2002 tarihli ve 4777 sayılı Kanunla “terör eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.
 
 [[END OF PAGE 33]]
@@ -1051,9 +1030,7 @@ Madde 79 – Seçimler, yargı organlarının genel yönetim ve denetimi altınd
 Seçimlerin başlamasından bitimine kadar, seçimin düzen içinde yönetimi ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma, seçim süresince ve seçimden sonra seçim konularıyla ilgili bütün yolsuzlukları, şikayet ve itirazları inceleme ve kesin karara bağlama ve Türkiye Büyük Millet Meclisi üyelerinin seçim tutanaklarını ve Cumhurbaşkanlığı seçim tutanaklarını kabul etme görevi Yüksek Seçim Kurulunundur. Yüksek Seçim Kurulunun kararları aleyhine başka bir mercie başvurulamaz. (1)(2)
 
 ––––––––––––––––
-
 (1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 1 inci maddesiyle; 77 nci maddenin birinci fıkrasında geçen “beş” ibaresi “dört” olarak değiştirilmiş, 2 nci maddesiyle, 79 uncu maddenin ikinci fıkrasında geçen “seçim tutanaklarını” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı seçimi tutanaklarını” ibaresi eklenmiş ve metne işlenmiştir.
-
 (2) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
 Sayfa 22
@@ -1085,9 +1062,7 @@ Madde 81 – Türkiye Büyük Millet Meclisi üyeleri, göreve başlarken aşağ
 “Devletin varlığı ve bağımsızlığını vatanın ve milletin bölünmez bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma; hukukun üstünlüğüne, demokratik ve laik Cumhuriyete ve Atatürk ilke ve inkılaplarına bağlı kalacağıma; toplumun huzur ve refahı, milli dayanışma ve adalet anlayışı içinde herkesin insan haklarından ve temel hürriyetlerden yararlanması ülküsünden ve Anayasaya sadakattan ayrılmayacağıma; büyük Türk milleti önünde namusum ve şerefim üzerine andiçerim”.
 
 ––––––––––––––
-
 (1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 2 nci maddesiyle; bu fıkrada geçen “halkoyuna sunulması” ibaresinden sonra gelmek üzere “, Cumhurbaşkanının halk tarafından seçilmesi” eklenmiş ve metne işlenmiştir.
-
 (2) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
 Sayfa 23
@@ -1131,7 +1106,6 @@ Madde 84 – (Değişik: 23/7/1995 - 4121/9 md.)
 Milletvekilliğinin kesin hüküm giyme veya kısıtlanma halinde düşmesi, bu husustaki kesin mahkeme kararının Genel Kurula bildirilmesiyle olur.
 
 ——————————
-
 (1) Bu madde başlığı, 23/7/1995 tarih ve 4121 sayılı Kanunun 9 uncu maddesi ile değiştirilmiş ve metne işlenmiştir.
 
 Sayfa 24
@@ -1148,11 +1122,13 @@ Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içerisinde topla
 
 Madde 85 – (Değişik: 23/7/1995 - 4121/10 md.)
 
-Yasama dokunulmazlığının kaldırılmasına veya milletvekilliğinin düşmesine 84 üncü maddenin birinci, üçüncü veya dördüncü fıkralarına göre karar verilmiş olması hallerinde, Meclis Genel Kurulu kararının alındığı tarihten başlayarak yedi gün içerisinde ilgili milletvekili veya bir diğer milletvekili, kararın, Anayasaya, kanuna veya İçtüzüğe aykırılığı iddiasıyla iptali için Anayasa Mahkemesine başvurabilir. Anayasa Mahkemesi, iptal istemini onbeş gün içerisinde kesin karara bağlar.
+Yasama dokunulmazlığının kaldırılmasına veya milletvekilliğinin düşmesine 84 üncü maddenin birinci, üçüncü veya dördüncü fıkralarına göre karar verilmiş olması hallerinde, Meclis Genel Kurulu kararının alındığı tarihten başlayarak yedi gün içerisinde ilgili milletvekili veya bir diğer milletvekili, kararın, Anayasaya, kanuna veya İçtüzüğe
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+aykırılığı iddiasıyla iptali için Anayasa Mahkemesine başvurabilir. Anayasa Mahkemesi, iptal istemini onbeş gün içerisinde kesin karara bağlar.
 
 ###### 7. Ödenek ve yolluklar
 
@@ -1169,11 +1145,8 @@ Türkiye Büyük Millet Meclisi üyelerine ödenecek ödenek ve yolluklar, kendi
 Madde 87 – Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun koymak, değiştirmek ve kaldırmak; Bakanlar Kurulunu ve bakanları denetlemek; Bakanlar Kuruluna belli konularda kanun hükmünde kararname çıkarma yetkisi vermek; bütçe ve kesinhesap kanun tasarılarını görüşmek ve kabul etmek; para basılmasına ve savaş ilanına karar vermek; milletlerarası andlaşmaların onaylanmasını uygun bulmak, (...) (3) (Ek ibare: 3/10/2001-4709/28 md.) Türkiye Büyük
 
 –––––––––––––––
-
 (1) Bu maddenin birinci cümlesi “Türkiye Büyük Millet Meclisi üyelerinin ödenek ve yollukları kanunla düzenlenir.” şeklinde iken, 21/11/2001 tarih ve 4720 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
-
 (2) Bu fıkrada yeralan “Sosyal güvenlik kuruluşları” ibaresi 21/11/2001 tarih ve 4720 sayılı Kanun ile “T.C.Emekli Sandığı” olarak değiştirilmiş ve metne işlenmiştir.
-
 (3) Bu arada bulunan, “Anayasanın 14 üncü maddesindeki fiillerden dolayı hüküm giyenler hariç olmak üzere,” ibaresi 3/10/2001 tarihli ve 4709 sayılı Kanunla metinden çıkarılmıştır.
 
 Sayfa 25
@@ -1227,7 +1200,6 @@ Yetki kanunu, çıkarılacak kanun hükmünde kararnamenin, amacını, kapsamın
 Bakanlar Kurulunun istifası, düşürülmesi veya yasama döneminin bitmesi, belli süre için verilmiş olan yetkinin sona ermesine sebep olmaz.
 
 ________________
-
 (1) Bu arada yer alan, “,mahkemelerce verilip kesinleşen ölüm cezalarının yerine getirilmesine” ibaresi, 7/5/2004 tarihli ve 5170 sayılı Kanunun 6 ncı maddesiyle madde metninden çıkartılmıştır.
 
 Sayfa 26
@@ -1292,11 +1264,11 @@ Türkiye Büyük Millet Meclisi Başkanı, Başkanvekilleri, üyesi bulunduklar�
 
 ##### C. İçtüzük siyasi parti grupları ve kolluk işleri
 
-Madde 95 – Türkiye Büyük Millet Meclisi, çalışmalarını, kendi yaptığı içtüzük hükümlerine göre yürütür.
-
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+Madde 95 – Türkiye Büyük Millet Meclisi, çalışmalarını, kendi yaptığı içtüzük hükümlerine göre yürütür.
 
 İçtüzük hükümleri, siyasi parti gruplarının, Meclisin bütün faaliyetlerine üye sayısı oranında katılmalarını sağlayacak yolda düzenlenir. Siyasi parti grupları, en az yirmi üyeden meydana gelir.
 
@@ -1330,8 +1302,7 @@ ___________________
 
 [[START OF PAGE 45]]
 
-(1)Bu fıkrada geçen; “on gün içinde” ibareleri, 3/10/2001 tarihli ve 4709 sayılı Kanunla “beş gün içinde” olarak değiştirilmiş ve metne işlenmiştir.
-
+(1)Bu fıkrada geçen; “on gün içinde” ibareleri, 3/10/2001 tarihli ve 4709 sayılı Kanunla “beş gün içinde”olarak değiştirilmiş ve metne işlenmiştir.
 (2) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
 Sayfa 28
@@ -1389,7 +1360,6 @@ Cumhurbaşkanının görev süresi beş yıldır. Bir kimse en fazla iki defa Cu
 [[START OF PAGE 47]]
 
 ––––––––––––––––
-
 (1) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
 Sayfa 29
@@ -1408,11 +1378,13 @@ Cumhurbaşkanı seçimi, Cumhurbaşkanının görev süresinin dolmasından önc
 
 Genel oyla yapılacak seçimde, geçerli oyların salt çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur. İlk oylamada bu çoğunluk sağlanamazsa, bu oylamayı izleyen ikinci pazar günü ikinci oylama yapılır. Bu oylamaya, ilk oylamada en çok oy almış bulunan iki aday katılır ve geçerli oyların çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur.
 
-İkinci oylamaya katılmaya hak kazanan adaylardan birinin ölümü veya seçilme yeterliğini kaybetmesi halinde; ikinci oylama, boşalan adaylığın birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır. İkinci oylamaya tek adayın kalması halinde, bu oylama referandum şeklinde yapılır. Aday, geçerli oyların çoğunluğunu aldığı takdirde Cumhurbaşkanı seçilmiş olur.
+İkinci oylamaya katılmaya hak kazanan adaylardan birinin ölümü veya seçilme yeterliğini kaybetmesi halinde; ikinci oylama, boşalan adaylığın birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır. İkinci oylamaya tek adayın kalması halinde,
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
+
+bu oylama referandum şeklinde yapılır. Aday, geçerli oyların çoğunluğunu aldığı takdirde Cumhurbaşkanı seçilmiş olur.
 
 Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan Cumhurbaşkanının görevi devam eder.
 
@@ -1439,7 +1411,6 @@ Türkiye Büyük Millet Meclisini gerektiğinde toplantıya çağırmak,
 Kanunları yayımlamak,
 
 –––––––––––––––––
-
 (1) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik
 
 [[END OF PAGE 48]]
@@ -1519,7 +1490,6 @@ Sayfa 31
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
 Cumhurbaşkanı, vatana ihanetten dolayı, Türkiye Büyük Millet Meclisi üye tamsayısının en az üçte birinin teklifi üzerine, üye tamsayısının en az dörtte üçünün vereceği kararla suçlandırılır.
 
 ##### F. Cumhurbaşkanına vekillik etme
@@ -1549,11 +1519,9 @@ Madde 109 – Bakanlar Kurulu, Başbakan ve bakanlardan kurulur.
 Başbakan, Cumhurbaşkanınca, Türkiye Büyük Millet Meclisi üyeleri arasından atanır.
 
 Bakanlar, Türkiye Büyük Millet Meclisi üyeleri veya milletvekili seçilme yeterliğine sahip olanlar arasından Başbakanca seçilir ve Cumhurbaşkanınca atanır; gerektiğinde Başbakanın önerisi üzerine Cumhurbaşkanınca görevlerine son verilir.
-
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
-
 ##### B. Göreve başlama ve güvenoyu
 
 Madde 110 – Bakanlar Kurulunun listesi tam olarak Türkiye Büyük Millet Meclisine sunulur. Türkiye Büyük Millet Meclisi tatilde ise toplantıya çağrılır.
@@ -1585,11 +1553,9 @@ Başbakan, bakanların görevlerinin Anayasa ve kanunlara uygun olarak yerine ge
 Bakanlar Kurulu üyelerinden milletvekili olmayanlar; 81 inci maddede yazılı şekilde Millet Meclisi önünde andiçerler ve bakan sıfatını taşıdıkları sürece milletvekillerinin tabi oldukları kayıt ve şartlara uyarlar ve yasama dokunulmazlığına sahip bulunurlar. Bunlar Türkiye Büyük Millet Meclisi üyeleri gibi ödenek ve yolluk alırlar.
 
 ##### E. Bakanlıkların kurulması ve bakanlar
-
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
-
 Madde 113 – Bakanlıkların kurulması, kaldırılması, görevleri, yetkileri ve teşkilatı kanunla düzenlenir.
 
 Açık olan bakanlıklarla izinli veya özürlü olan bir bakana, diğer bir bakan geçici olarak vekillik eder. Ancak, bir bakan birden fazlasına vekillik edemez.
@@ -1617,11 +1583,9 @@ Geçici Bakanlar Kurulu seçim süresince ve yeni Meclis toplanıncaya kadar vaz
 Sayfa 33
 
 158
-
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
-
 ##### G. Tüzükler
 
 Madde 115 – Bakanlar Kurulu, kanunun uygulanmasını göstermek veya emrettiği işleri belirtmek üzere, kanunlara aykırı olmamak ve Danıştayın incelemesinden geçirilmek şartıyla tüzükler çıkarabilir.
@@ -1651,11 +1615,9 @@ Genelkurmay Başkanı, Bakanlar Kurulunun teklifi üzerine, Cumhurbaşkanınca a
 Milli Savunma Bakanlığının, Genelkurmay Başkanlığı ve Kuvvet Komutanlıkları ile görev ilişkileri ve yetki alanı kanunla düzenlenir.
 
 ###### 2. Milli Güvenlik Kurulu
-
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
-
 Madde 118 – (Değişik birinci fıkra: 3/10/2001-4709/32 md.) Millî Güvenlik Kurulu; Cumhurbaşkanının başkanlığında, Başbakan, Genelkurmay Başkanı, Başbakan yardımcıları, Adalet, Millî Savunma, İçişleri, Dışişleri Bakanları, Kara, Deniz ve Hava Kuvvetleri Komutanları ve Jandarma Genel Komutanından kurulur.
 
 Gündemin özelliğine göre Kurul toplantılarına ilgili bakan ve kişiler çağrılıp görüşleri alınabilir.
@@ -1667,7 +1629,6 @@ Milli Güvenlik Kurulunun gündemi; Başbakan ve Genelkurmay Başkanının öner
 Cumhurbaşkanı katılamadığı zamanlar Milli Güvenlik Kurulu Başbakanın başkanlığında toplanır.
 
 ____________________
-
 (1) Bu fıkrada bulunan; “öncelikle dikkate alınır” ibaresi, 3/10/2001 tarihli ve 4709 sayılı Kanunla, “değerlendirilir” olarak değiştirilmiş ve metne işlenmiştir.
 
 Sayfa 34
@@ -1683,11 +1644,9 @@ Milli Güvenlik Kurulu Genel Sekreterliğinin teşkilatı ve görevleri kanunla 
 ###### 1. Tabii afet ve ağır ekonomik bunalım sebebiyle olağanüstü hal ilanı
 
 Madde 119 – Tabii afet, tehlikeli salgın hastalıklar veya ağır ekonomik bunalım hallerinde, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, yurdun bir veya birden fazla bölgesinde veya bütününde süresi altı ayı geçmemek üzere olağanüstü hal ilan edebilir.
-
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
-
 ###### 2. Şiddet olaylarının yaygınlaşması ve kamu düzeninin ciddi şekilde bozulması sebepleriyle olağanüstü hal ilanı
 
 Madde 120 – Anayasa ile kurulan hür demokrasi düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın şiddet hareketlerine ait ciddi belirtilerin ortaya çıkması veya şiddet olayları sebebiyle kamu düzeninin ciddi şekilde bozulması hallerinde, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, Milli Güvenlik Kurulunun da görüşünü aldıktan sonra yurdun bir veya birden fazla bölgesinde veya bütününde, süresi altı ayı geçmemek üzere olağanüstü hal ilan edebilir.
@@ -1705,18 +1664,16 @@ Olağanüstü hal süresince, Cumhurbaşkanının başkanlığında toplanan Bak
 Madde 122 – Anayasanın tanıdığı hür demokrasi düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelen ve olağanüstü hal ilanını gerektiren hallerden daha vahim şiddet hareketlerinin yaygınlaşması veya savaş hali, savaşı gerektirecek bir durumun başgöstermesi, ayaklanma olması veya vatan veya Cumhuriyete karşı kuvvetli ve eylemli bir kalkışmanın veya ülkenin ve milletin bölünmezliğini içten veya dıştan tehlikeye düşüren şiddet hareketlerinin yaygınlaşması sebepleriyle, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, Milli Güvenlik Kurulunun da görüşünü aldıktan sonra, süresi altı ayı aşmamak üzere yurdun bir veya birden
 
 Sayfa 35
-
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
-
 160
 
 fazla bölgesinde veya bütününde sıkıyönetim ilan edebilir. Bu karar, derhal Resmi Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur. Türkiye Büyük Millet Meclisi toplantı halinde değilse hemen toplantıya çağırılır. Türkiye Büyük Millet Meclisi gerekli gördüğü takdirde sıkıyönetim süresini kısaltabilir, uzatabilir veya sıkıyönetimi kaldırabilir.
 
 Sıkıyönetim süresinde, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu sıkıyönetim halinin gerekli kıldığı konularda kanun hükmünde kararname çıkarabilir.
 
-Bu kararnamameler Resmi Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur. Bunların Meclisce onaylanmasına ilişkin süre ve usul İçtüzükte belirlenir.
+Bu kararnameler Resmi Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur. Bunların Meclisce onaylanmasına ilişkin süre ve usul İçtüzükte belirlenir.
 
 Sıkıyönetimin her defasında dört ayı aşmamak üzere uzatılması, Türkiye Büyük Millet Meclisinin kararına bağlıdır. Savaş hallerinde bu dört aylık süre aranmaz.
 
@@ -1737,11 +1694,9 @@ Madde 123 – İdare, kuruluş ve görevleriyle bir bütündür ve kanunla düze
 Kamu tüzelkişiliği, ancak kanunla veya kanunun açıkça verdiği yetkiye dayanılarak kurulur.
 
 ###### 2. Yönetmelikler
-
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
-
 Madde 124 – Başbakanlık, bakanlıklar ve kamu tüzelkişileri, kendi görev alanlarını ilgilendiren kanunların ve tüzüklerin uygulanmasını sağlamak üzere ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler.
 
 Hangi yönetmeliklerin Resmi Gazetede yayımlanacağı kanunda belirtilir.
@@ -1767,11 +1722,9 @@ Kanun, olağanüstü hallerde, sıkıyönetim, seferberlik ve savaş halinde ayr
 İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.
 
 ##### C. İdarenin kuruluşu
-
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
-
 ###### 1. Merkezi idare
 
 Madde 126 – Türkiye, merkezi idare kuruluşu bakımından, coğrafya durumuna, ekonomik şartlara ve kamu hizmetlerinin gereklerine göre, illere; iller de diğer kademeli bölümlere ayırılır.
@@ -1795,11 +1748,9 @@ Merkezi idare, mahalli idareler üzerinde, mahalli hizmetlerin idarenin bütünl
 Mahalli idarelerin belirli kamu hizmetlerinin görülmesi amacı ile, kendi aralarında Bakanlar Kurulunun izni ile birlik kurmaları, görevleri, yetkileri, maliye ve kolluk işleri ve merkezi idare ile karşılıklı bağ ve ilgileri kanunla düzenlenir. Bu idarelere, görevleri ile orantılı gelir kaynakları sağlanır.
 
 ##### D. Kamu hizmeti görevlileriyle ilgili hükümler
-
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
-
 ###### 1. Genel ilkeler
 
 Madde 128 – Devletin, kamu iktisadi teşebbüsleri ve diğer kamu tüzelkişilerinin genel idare esaslarına göre yürütmekle yükümlü oldukları kamu hizmetlerinin gerektirdiği asli ve sürekli görevler, memurlar ve diğer kamu görevlileri eliyle görülür.
@@ -1829,11 +1780,9 @@ Memurlar ve diğer kamu görevlileri hakkında işledikleri iddia edilen suçlar
 ##### E. Yükseköğretim kurumları ve üst kuruluşları
 
 ###### 1. Yükseköğretim kurumları
-
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
-
 Madde 130 – Çağdaş eğitim-öğretim esaslarına dayanan bir düzen içinde milletin ve ülkenin ihtiyaçlarına uygun insan gücü yetiştirmek amacı ile; ortaöğretime dayalı çeşitli düzeylerde eğitim-öğretim, bilimsel araştırma, yayın ve danışmanlık yapmak, ülkeye ve insanlığa hizmet etmek üzere çeşitli birimlerden oluşan kamu tüzelkişiliğine ve bilimsel özerkliğe sahip üniversiteler Devlet tarafından kanunla kurulur.
 
 Kanunda gösterilen usul ve esaslara göre, kazanç amacına yönelik olmamak şartı ile vakıflar tarafından, Devletin gözetim ve denetimine tabi yükseköğretim kurumları kurulabilir.
@@ -1853,17 +1802,14 @@ Kanunun belirlediği usul ve esaslara göre; rektörler Cumhurbaşkanınca, deka
 Yükseköğretim kurumlarının kuruluş ve organları ile işleyişleri ve bunların seçimleri, görev, yetki ve sorumlulukları üniversiteler üzerinde Devletin gözetim ve
 
 ____________________
-
 (1) 29/10/2005 tarihli ve 5428 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “genel ve katma bütçelerin” ibaresi “merkezi yönetim bütçesinin” şeklinde değiştirilmiş ve metne işlenmiştir.
 
 Sayfa 38
 
 163
-
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
-
 denetim hakkını kullanma usulleri, öğretim elemanlarının görevleri, unvanları, atama, yükselme ve emeklilikleri, öğretim elemanı yetiştirme, üniversitelerin ve öğretim elemanlarının kamu kuruluşları ve diğer kurumlar ile ilişkileri, öğretim düzeyleri ve süreleri, yükseköğretime giriş, devam ve alınacak harçlar, Devletin yapacağı yardımlar ile ilgili ilkeler, disiplin ve ceza işleri, mali işler, özlük hakları, öğretim elemanlarının uyacakları koşullar, üniversitelerarası ihtiyaçlara göre öğretim elemanlarının görevlendirilmesi, öğrenimin ve öğretimin hürriyet ve teminat içinde ve çağdaş bilim ve teknoloji gereklerine göre yürütülmesi, Yükseköğretim kuruluna ve üniversitelere Devletin sağladığı mali kaynakların kullanılması kanunla düzenlenir.
 
 Vakıflar tarafından kurulan yükseköğretim kurumları, mali ve idari konuları dışındaki akademik çalışmaları, öğretim elemanlarının sağlanması ve güvenlik yönlerinden, Devlet eliyle kurulan yükseköğretim kurumları için Anayasada belirtilen hükümlere tabidir.
@@ -1878,25 +1824,22 @@ Kurulun teşkilatı, görev, yetki, sorumluluğu ve çalışma esasları kanunla
 
 ###### 3. Yükseköğretim kurumlarından özel hükümlere tabi olanlar
 
-Madde 132 - Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı yükseköğretim kurumları özel kanunlarının hükümlerine tabidir.
+Madde 132 – Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı yükseköğretim kurumları özel kanunlarının hükümlerine tabidir.
 
 ##### F. Radyo ve Televizyon Üst Kurulu, radyo ve televizyon kuruluşları ve kamuyla ilişkili haber ajansları(1)
 
-Madde 133 - (Değişik: 8/7/1993 - 3913/1 md.)
+Madde 133 – (Değişik: 8/7/1993 - 3913/1 md.)
 
 Radyo ve televizyon istasyonları kurmak ve işletmek kanunla düzenlenecek şartlar çerçevesinde serbesttir.
-
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
-
 (Ek fıkra: 21/6/2005-5370/1 md.) Radyo ve televizyon faaliyetlerini düzenlemek ve denetlemek amacıyla kurulan Radyo ve Televizyon Üst Kurulu dokuz üyeden oluşur. Üyeler, siyasi parti gruplarının üye sayısı oranında belirlenecek üye sayısının ikişer katı olarak gösterecekleri adaylar arasından, her siyasi parti grubuna düşen üye sayısı esas alınmak suretiyle Türkiye Büyük Millet Meclisi Genel Kurulunca seçilir. Radyo ve Televizyon Üst Kurulunun kuruluşu, görev ve yetkileri, üyelerinin nitelikleri, seçim usulleri ve görev süreleri kanunla düzenlenir.
 
 Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon kurumu ile kamu tüzelkişilerinden yardım gören haber ajanslarının özerkliği ve yayınlarının tarafsızlığı esastır.
 
 ___________________
-
-(1) Bu madde başlığı " F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili haber ajansları" iken, 21/6/2005 tarihli ve 5370 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(1) Bu madde başlığı “F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili haber ajansları” iken, 21/6/2005 tarihli ve 5370 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 39
 
@@ -1904,7 +1847,7 @@ Sayfa 39
 
 ##### G. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 
-Madde 134 – Atatürkçü düşünceyi, Atatürk ilke ve inkılaplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak ve yaymak ve yayınlar yapmak amacıyla; Atatürk'ün manevi himayelerinde, Cumnurbaşkanının gözetim ve desteğinde, Başbakanlığa bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzel kişiliğine sahip "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu" kurulur.
+Madde 134 – Atatürkçü düşünceyi, Atatürk ilke ve inkılaplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak ve yaymak ve yayınlar yapmak amacıyla; Atatürk'ün manevi himayelerinde, Cumhurbaşkanının gözetim ve desteğinde, Başbakanlığa bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzel kişiliğine sahip “Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” kurulur.
 
 Türk Dil Kurumu ile Türk Tarih Kurumu için Atatürk'ün vasiyetnamesinde belirtilen mali menfaatler saklı olup kendilerine tahsis edilir.
 
@@ -1913,11 +1856,9 @@ Atatürk Kültür, Dil ve Tarih Yüksek Kurumunun; kuruluşu, organları, çalı
 ##### H. Kamu kurumu niteliğindeki meslek kuruluşları
 
 Madde 135 – Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları; belli bir mesleğe mensup olanların müşterek ihtiyaçlarını karşılamak, mesleki faaliyetlerini kolaylaştırmak, mesleğin genel menfaatlere uygun olarak gelişmesini sağlamak, meslek mensuplarının birbirleri ile ve halk ile olan ilişkilerinde dürüstlüğü ve güveni hakim kılmak üzere meslek disiplini ve ahlakını korumak maksadı ile kanunla kurulan ve organları kendi üyeleri tarafından kanunda gösterilen usullere göre yargı gözetimi altında, gizli oyla seçilen kamu tüzelkişilikleridir.
-
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
-
 Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli görevlerde çalışanların meslek kuruluşlarına girme mecburiyeti aranmaz.
 
 (Değişik: 23/7/1995 - 4121/13 md.) Bu meslek kuruluşları, kuruluş amaçları dışında faaliyette bulunamazlar.
@@ -1941,11 +1882,9 @@ Madde 137 – Kamu hizmetlerinde herhangi bir sıfat ve suretle çalışmakta ol
 Sayfa 40
 
 165
-
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
-
 lerine aykırı görürse, yerine getirmez ve bu aykırılığı o emri verene bildirir. Ancak, üstü emrinde ısrar eder ve bu emrini yazı ile yenilerse, emir yerine getirilir; bu halde, emri yerine getiren sorumlu olmaz.
 
 Konusu suç teşkil eden emir, hiçbir suretle yerine getirilmez; yerine getiren kimse sorumluluktan kurtulamaz.
@@ -1975,11 +1914,9 @@ Meslekten çıkarılmayı gerektiren bir suçtan dolayı hüküm giymiş olanlar
 ##### C. Hakimlik ve savcılık mesleği
 
 Madde 140 – Hakimler ve savcılar adli ve idari yargı hakim ve savcıları olarak görev yaparlar. Bu görevler meslekten hakim ve savcılar eliyle yürütülür.
-
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
-
 Hakimler, mahkemelerin bağımsızlığı ve hakimlik teminatı esaslarına göre görev ifa ederler.
 
 Hakim ve savcıların nitelikleri, atanmaları, hakları ve ödevleri, aylık ve ödenekleri, meslekte ilerlemeleri, görevlerinin ve görev yerlerinin geçici veya sürekli olarak değiştirilmesi, haklarında disiplin kovuşturması açılması ve disiplin cezası verilmesi, görevleriyle ilgili veya görevleri sırasında işledikleri suçlarından dolayı soruşturma yapılması ve yargılanmalarına karar verilmesi, meslekten çıkarmayı gerektiren suçluluk veya yetersizlik halleri ve meslek içi eğitimleri ile diğer özlük işleri mahkemelerin bağımsızlığı ve hakimlik teminatı esaslarına göre kanunla düzenlenir.
@@ -2007,11 +1944,9 @@ Bütün mahkemelerin her türlü kararları gerekçeli olarak yazılır.
 Davaların en az giderle ve mümkün olan süratle sonuçlandırılması, yargının görevidir.
 
 ##### E. Mahkemelerin kuruluşu
-
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
-
 Madde 142 – Mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri kanunla düzenlenir.
 
 ##### F. Devlet Güvenlik Mahkemeleri
@@ -2025,7 +1960,6 @@ Madde 144 – (Değişik: 7/5/2010-5982/14 md.)
 Adalet hizmetleri ile savcıların idarî görevleri yönünden Adalet Bakanlığınca denetimi, adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler; araştırma, inceleme ve soruşturma işlemleri ise adalet müfettişleri eliyle yapılır. Buna ilişkin usul ve esaslar kanunla düzenlenir.
 
 ––––––––––––––
-
 (1) Bu maddenin kenar başlığı “G. Hakim ve savcıların denetimi” iken, 7/5/2010 tarihli ve 5982 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 42
@@ -2037,11 +1971,9 @@ Sayfa 42
 Madde 145 – (Değişik: 7/5/2010-5982/15 md.)
 
 Askerî yargı, askerî mahkemeler ve disiplin mahkemeleri tarafından yürütülür. Bu mahkemeler; asker kişiler tarafından işlenen askerî suçlar ile bunların asker kişiler
-
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
-
 aleyhine veya askerlik hizmet ve görevleriyle ilgili olarak işledikleri suçlara ait davalara bakmakla görevlidir. Devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine karşı suçlara ait davalar her halde adliye mahkemelerinde görülür.
 
 Savaş hali haricinde, asker olmayan kişiler askerî mahkemelerde yargılanamaz.
@@ -2065,15 +1997,12 @@ Türkiye Büyük Millet Meclisi; iki üyeyi Sayıştay Genel Kurulunun kendi ba�
 Cumhurbaşkanı; üç üyeyi Yargıtay, iki üyeyi Danıştay, bir üyeyi Askerî Yargıtay, bir üyeyi Askerî Yüksek İdare Mahkemesi genel kurullarınca kendi başkan ve üyeleri arasından her boş yer için gösterecekleri üçer aday içinden; en az ikisi hukukçu olmak üzere üç üyeyi Yükseköğretim Kurulunun kendi üyesi olmayan yükseköğretim kurumlarının hukuk, iktisat ve siyasal bilimler dallarında görev yapan öğretim üyeleri arasından göstereceği üçer aday içinden; dört üyeyi üst kademe yöneticileri, serbest avukatlar, birinci sınıf hâkim ve savcılar ile en az beş yıl raportörlük yapmış Anayasa Mahkemesi raportörleri arasından seçer.
 
 Yargıtay, Danıştay, Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi ve Sayıştay genel kurulları ile Yükseköğretim Kurulundan Anayasa Mahkemesi üyeliğine aday göstermek için yapılacak seçimlerde, her boş üyelik için, (…) (1) en fazla oy alan üç kişi aday
-
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
-
 gösterilmiş sayılır. Baro başkanlarının serbest avukatlar arasından gösterecekleri üç aday için yapılacak seçimde (…) (1) en fazla oy alan üç kişi aday gösterilmiş sayılır.
 
 –––––––––––––––––
-
 (1) Bu maddenin dördüncü fıkrasının birinci cümlesinde yer alan “… bir üye ancak bir aday için oy kullanabilir; …” ibaresi, aynı fıkranın ikinci cümlesinde yer alan “… de her bir baro başkanı ancak bir aday için oy kullanabilir ve …” ibaresi, 1/8/2010 tarihli ve 27659 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.: 2010/87 sayılı Kararı ile iptal edilmiştir.
 
 Sayfa 43
@@ -2091,11 +2020,9 @@ Anayasa Mahkemesi üyeleri aslî görevleri dışında resmi veya özel hiçbir 
 Madde 147 – (Değişik birinci fıkra: 7/5/2010-5982/17 md.) Anayasa Mahkemesi üyeleri oniki yıl için seçilirler. Bir kimse iki defa Anayasa Mahkemesi üyesi seçilemez. Anayasa Mahkemesi üyeleri altmışbeş yaşını doldurunca emekliye ayrılırlar. Zorunlu emeklilik yaşından önce görev süresi dolan üyelerin başka bir görevde çalışmaları ve özlük işleri kanunla düzenlenir.
 
 Anayasa Mahkemesi üyeliği, bir üyenin hakimlik mesleğinden çıkarılmayı gerektiren bir suçtan dolayı hüküm giymesi halinde kendiliğinden; görevini sağlık bakımından yerine getiremeyeceğinin kesin olarak anlaşılması halinde de, Anayasa Mahkemesi üye tamsayısının salt çoğunluğunun kararı ile sona erer.
-
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
-
 ###### 3. Görev ve yetkileri (2)
 
 Madde 148 – Anayasa Mahkemesi, kanunların, kanun hükmünde kararnamelerin ve Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler ve bireysel başvuruları karara bağlar. Anayasa değişikliklerini ise sadece şekil bakımından inceler ve denetler. Ancak, olağanüstü hallerde, sıkıyönetim ve savaş hallerinde çıkarılan kanun hükmünde kararnamelerin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla, Anayasa Mahkemesinde dava açılamaz.
@@ -2109,9 +2036,7 @@ Kanunların şekil bakımından denetlenmesi, son oylamanın, öngörülen çoğ
 (Ek fıkra: 7/5/2010-5982/18 md.) Bireysel başvuruya ilişkin usul ve esaslar kanunla düzenlenir.
 
 ––––––––––––––
-
 (1) Bu maddenin kenar başlığı “2. Üyeliğin sona ermesi” iken, 7/5/2010 tarihli ve 5982 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
 (2) 7/5/2010 tarihli ve 5982 sayılı Kanunun 18 inci maddesiyle, bu maddenin birinci fıkrasının birinci cümlesinin sonuna “ve bireysel başvuruları karara bağlar” ibaresi eklenmiş ve metne işlenmiştir.
 
 Sayfa 44
@@ -2119,11 +2044,9 @@ Sayfa 44
 168-1
 
 Anayasa Mahkemesi Cumhurbaşkanını, Türkiye Büyük Millet Meclisi Başkanını, Bakanlar Kurulu üyelerini, Anayasa Mahkemesi, Yargıtay, Danıştay, Askeri Yargıtay, Askeri Yüksek İdare Mahkemesi Başkan ve üyelerini, Başsavcılarını, Cumhuriyet
-
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
-
 Başsavcıvekilini, Hakimler ve Savcılar Yüksek Kurulu ve Sayıştay Başkan ve üyelerini görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar. (1)
 
 (Ek fıkra: 7/5/2010-5982/18 md.) Genelkurmay Başkanı, Kara, Deniz ve Hava Kuvvetleri Komutanları ile Jandarma Genel Komutanı da görevleriyle ilgili suçlardan dolayı Yüce Divanda yargılanırlar.
@@ -2149,15 +2072,12 @@ Anayasa değişikliğinde iptale, siyasî partilerin kapatılmasına ya da Devle
 Anayasa Mahkemesinin kuruluşu, Genel Kurul ve bölümlerin yargılama usulleri, Başkan, başkanvekilleri ve üyelerin disiplin işleri kanunla; Mahkemenin çalışma esasları, bölüm ve komisyonların oluşumu ve işbölümü kendi yapacağı İçtüzükle düzenlenir.
 
 Anayasa Mahkemesi Yüce Divan sıfatıyla baktığı davalar dışında kalan işleri dosya üzerinde inceler. Ancak, bireysel başvurularda duruşma yapılmasına karar verilebilir. Mahkeme ayrıca, gerekli gördüğü hallerde sözlü açıklamalarını dinlemek üzere ilgilileri ve konu üzerinde bilgisi olanları çağırabilir ve siyasî partilerin kapatılmasına ilişkin
-
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
-
 davalarda, Yargıtay Cumhuriyet Başsavcısından sonra kapatılması istenen siyasî partinin genel başkanlığının veya tayin edeceği bir vekilin savunmasını dinler.
 
 ––––––––––––
-
 (1) 7/5/2010 tarihli ve 5982 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “Cumhurbaşkanını,” ibaresinden sonra gelmek üzere “Türkiye Büyük Millet Meclisi Başkanını,” ibaresi eklenmiş ve metne işlenmiştir.
 
 Sayfa 45
@@ -2179,11 +2099,9 @@ Sayfa 46
 ###### 7. Anayasaya aykırılığın diğer mahkemelerde ileri sürülmesi
 
 Madde 152 – Bir davaya bakmakta olan mahkeme, uygulanacak bir kanun veya kanun hükmünde kararnamenin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddi olduğu kanısına varırsa, Anayasa Mahkemesinin bu konuda vereceği karara kadar davayı geri bırakır.
-
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
-
 Mahkeme, Anayasaya aykırılık iddiasını ciddi görmezse bu iddia, temyiz merciince esas hükümle birlikte karara bağlanır.
 
 Anayasa Mahkemesi, işin kendisine gelişinden başlamak üzere beş ay içinde kararını verir ve açıklar. Bu süre içinde karar verilmezse mahkeme davayı yürürlükteki kanun hükümlerine göre sonuçlandırır. Ancak, Anayasa Mahkemesinin kararı, esas hakkındaki karar kesinleşinceye kadar gelirse, mahkeme buna uymak zorundadır.
@@ -2209,11 +2127,9 @@ Anayasa Mahkemesi kararları Resmi Gazetede hemen yayımlanır ve yasama, yürü
 Madde 154 – Yargıtay, adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümlerin son inceleme merciidir. Kanunla gösterilen belli davalara da ilk ve son derece mahkemesi olarak bakar.
 
 Yargıtay üyeleri, birinci sınıfa ayrılmış adli yargı hakim ve Cumhuriyet savcıları ile bu meslekten sayılanlar arasından Hakimler ve Savcılar Yüksek Kurulunca üye tamsayısının salt çoğunluğu ile ve gizli oyla seçilir.
-
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
-
 Yargıtay Birinci Başkanı, birinci başkanvekilleri ve daire başkanları kendi üyeleri arasından Yargıtay Genel Kurulunca üye tamsayısının salt çoğunluğu ve gizli oyla dört yıl için seçilirler; süresi bitenler yeniden seçilebilirler.
 
 Yargıtay Cumhuriyet Başsavcısı ve Cumhuriyet Başsavcıvekili, Yargıtay Genel Kurulunun kendi üyeleri arasından gizli oyla belirleyeceği beşer aday arasından Cumhurbaşkanı tarafından dört yıl için seçilirler. Süresi bitenler yeniden seçilebilirler.
@@ -2237,11 +2153,9 @@ Danıştay Başkanı, Başsavcı, başkanvekilleri ve daire başkanları, kendi 
 Danıştayın, kuruluşu, işleyişi, Başkan, Başsavcı, başkanvekilleri, daire başkanları ile üyelerinin nitelikleri ve seçim usulleri, idari yargının özelliği, mahkemelerin bağımsızlığı ve hakimlik teminatı esaslarına göre kanunla düzenlenir.
 
 ##### D. Askeri Yargıtay
-
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
-
 Madde 156 – Askeri Yargıtay, askeri mahkemelerden verilen karar ve hükümlerin son inceleme merciidir. Ayrıca, asker kişilerin kanunla gösterilen belli davalarına ilk ve son derece mahkemesi olarak bakar.
 
 Askeri Yargıtay üyeleri birinci sınıf askeri hakimler arasından Askeri Yargıtay Genel Kurulunun üye tamsayısının salt çoğunluğu ve gizli oyla her boş yer için göstereceği üçer aday içinden Cumhurbaşkanınca seçilir.
@@ -2265,7 +2179,6 @@ Sayfa 48
 Mahkemenin Başkanı, Başsavcı ve daire başkanları hakim sınıfından olanlar arasından rütbe ve kıdem sırasına göre atanırlar.
 
 (Değişik son fıkra: 7/5/2010-5982/21 md.) Askerî Yüksek İdare Mahkemesinin kuruluşu, işleyişi, yargılama usulleri, mensuplarının disiplin ve özlük işleri mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
-
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
@@ -2349,7 +2262,6 @@ Sayıştayın kuruluşu, işleyişi, denetim usulleri, mensuplarının nitelikle
 (Mülga son fıkra: 7/5/2004-5170/10 md.)
 
 ## DÖRDÜNCÜ KISIM Mali ve Ekonomik Hükümler
-
 ### BİRİNCİ BÖLÜM Mali Hükümler
 
 #### I. Bütçe
@@ -2421,7 +2333,6 @@ Sayfa 52
 [[START OF PAGE 82]]
 
 ### İKİNCİ BÖLÜM Ekonomik Hükümler
-
 #### I. Planlama; Ekonomik ve Sosyal Konsey (1)
 
 Madde 166 – Ekonomik, sosyal ve kültürel kalkınmayı, özellikle sanayiin ve tarımın yurt düzeyinde dengeli ve uyumlu biçimde hızla gelişmesini, ülke kaynaklarının döküm ve değerlendirilmesini yaparak verimli şekilde kullanılmasını planlamak, bu amaçla gerekli teşkilatı kurmak Devletin görevidir.
@@ -2852,7 +2763,7 @@ Ayrı ayrı oylanır.
 
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 
-### 2- 13/8/1999 tarih ve 4446 sayılı Kanunun hükmüdür.
+### 2– 13/8/1999 tarih ve 4446 sayılı Kanunun hükmüdür.
 
 Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri birlikte ayrı oylanır.
 
@@ -2860,7 +2771,7 @@ Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına 
 
 [[START OF PAGE 98]]
 
-### 3- 3/10/2001 tarih ve 4709 sayılı Kanunun hükümleridir.
+### 3– 3/10/2001 tarih ve 4709 sayılı Kanunun hükümleridir.
 
 Geçici Madde – A) Bu Kanunun 24 üncü maddesi ile Anayasanın 67 nci maddesine son fıkra olarak eklenen hüküm bu Kanunun yürürlüğe girmesinden sonra yapılacak ilk genel seçimde uygulanmaz.
 
@@ -2868,7 +2779,7 @@ B) Bu Kanunun 28 inci maddesi ile Anayasanın 87 nci maddesinde yapılan değiş
 
 Madde 35- Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
 
-### 4- 27/12/2002 tarih ve 4777 sayılı Kanunun hükmüdür.
+### 4– 27/12/2002 tarih ve 4777 sayılı Kanunun hükmüdür.
 
 Geçici Madde 1- Türkiye Cumhuriyeti Anayasasının 67 nci maddesinin son fıkrası, Türkiye Büyük Millet Meclisinin 22 nci dönemi içinde yapılacak ilk ara seçimde uygulanmaz..
 
@@ -2880,47 +2791,52 @@ Sayfa 64
 
 ## 2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 
-Kanun No.    Farklı tarihte yürürlüğe giren maddeler    Yürürlüğe giriş tarihi
-_______      _____________________________________________    ______________
+Kanun                                                        Yürürlüğe
+No.      Farklı tarihte yürürlüğe giren maddeler             giriş tarihi
+_______  _____________________________________________        ______________
 
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
 
-3361    67, 75, 175, Geçici Madde 4    (Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.)
-3913    –    10/7/1993
-4121    8 inci maddesi    İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
-        Diğer hükümleri    26/7/1995
-4388    –    18/6/1999
-4446    –    14/8/1999
-4709    –    17/10/2001
-4720    –    1/12/2001
-4777    –    31/12/2002
+3361     67, 75, 175, Geçici Madde 4                         (Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.)
+3913     –                                                    10/7/1993
+4121     8 inci maddesi                                      İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
+         Diğer hükümleri                                     26/7/1995
+4388     –                                                    18/6/1999
+4446     –                                                    14/8/1999
+4709     –                                                    17/10/2001
+4720     –                                                    1/12/2001
+4777     –                                                    31/12/2002
 
 Sayfa 65
 
 182
 
-Değiştiren Kanun    2709 Sayılı Kanunun Değiştirilen Maddeleri    Yürürlüğe giriş tarihi
-5170    10, 15, 17, 30, 38, 87, 90, 131, 143 ve 160    22/5/2004
-5370    133    23/6/2005
-5428    130, 160, 161, 162 ve 163    9/11/2005
+Değiştiren                                                        Yürürlüğe
+Kanun     2709 Sayılı Kanunun Değiştirilen Maddeleri              giriş tarihi
+5170      10, 15, 17, 30, 38, 87, 90, 131, 143 ve 160            22/5/2004
+5370      133                                                       23/6/2005
+5428      130, 160, 161, 162 ve 163                                9/11/2005
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
 
-5551    76    17/10/2006
+5551      76                                                        17/10/2006
 
-5659    Geçici Madde 17    18/5/2007
+5659      Geçici Madde 17                                          18/5/2007
 
-5678    77, 79, 96, 101, 102    (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+5678      77, 79, 96, 101, 102                                     (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
 
-5735    10, 42    23/2/2008
+5735      10, 42                                                    23/2/2008
 
-5982    10, 20, 23, 41, 51, 53, 54, 74, 84, 94, 125, 128, 129, 144, 145, 146, 147, 148, 149, 156, 157, 159, 166, Geçici Madde 15,18 ve 19    (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
+5982      10, 20, 23, 41, 51, 53, 54, 74, 84, 94,
+          125, 128, 129, 144, 145, 146, 147,
+          148, 149, 156, 157, 159, 166, Geçici
+          Madde 15,18 ve 19                                        (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
 
-6214    59    29/3/2011
+6214      59                                                        29/3/2011
 
 Sayfa 66
 
