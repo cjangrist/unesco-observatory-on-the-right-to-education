@@ -14,18 +14,74 @@ Ministry of Education May 2003
 
 Education Strategic Plan, Volume 1
 
-# Contents
-
 EDUCATION STRATEGIC PLAN 2003 - 2015
 
 Volume 1: Policy, Targets and Strategies
 
+# Contents
+
 page
 
-2
+List of Abbreviations used in ESP 2
+
+Foreword by Honourable Minister of Education 4
+
+Chapter 1
+
+The Education Strategic Plan- Background and Policy Basis 5
+
+1.1 The Education Sector - an Overview 5
+
+1.2 Documents that have informed the ESP 6
+
+1.3 Philosophical and Policy basis of the ESP 7
+
+1.4 Outline Situation Analysis 8
+
+1.5 Other influences on the ESP 11
+
+1.6 Challenges facing the Education Sector (as at 2002) 12
+
+Chapter 2
+
+The Strategic Framework 13
+
+2.1 Areas of Focus and Policy Goals 13
+
+2.2 Areas of Focus 16
+
+2.3 The Strategic Framework 19
+
+Chapter 3
+
+Managing and Implementing the ESP 34
+
+3.1 Sector Wide Approach 34
+
+3.2 Co-ordination of Stakeholder Inputs 36
+
+3.3 Implementation of ESP through Work Programming 37
+and Operational Planning
+
+Chapter 4
+
+Monitoring Education Sector Performance 40
+
+4.1 Indicators 40
+
+4.2 ESP Review 41
+
+Chapter 5
+
+Financial Framework for the ESP 42
+
+5.1 Cost projections 42
+
+5.2 Funding the ESP 43
+
+Annexes 46
 
 1
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -34,8 +90,76 @@ Education Strategic Plan, Volume 1
 
 # Abbreviations
 
-2
+BECE Basic Education Certificate Examination
+BOG Board of Governors
+CBO Community Based Organisation
+CPM Consultative Panel Meeting
+CRT Criterion Referenced Tests
+DP Development Partners
+EA Equitable Access
+EFA Education For All
+EM Educational Management
+EMIS Education Management Information System
+ERRC Education Reform Review Committee
+ESP Education Strategic Plan
+ESPRR Education Sector Policy Review Report
+ESR Education Sector Review
+ESTAC Education Sector Technical Advisory Committee
+FBO Faith Based Organisation
+FCUBE Free Compulsory Universal Basic Education
+FPMU Funds and Procurement Management Unit
+GER Gross Enrolment Ratio
+GES Ghana Education Service
+GETFund Ghana Education Trust Fund
+GoG Government of Ghana
+GPRS Ghana Poverty Reduction Strategy
+HIV/AIDS Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome
+HQ Head Quarters
+HT Head Teacher
+ICT Information and Communication Technology
+IEC Information, Education, Communication
+IGO Inter-Governmental Organisation
+INSET In-Service Education of Teachers
+JSS Junior Secondary School
+KG Kindergarten
+M&E Monitoring and Evaluation
+MNS Minimum National Standards
+MoE Ministry of Education
+MoMDE Ministry of Manpower Development and Employment
+MoEP Ministry of Economic Planning
+MoF Ministry of Finance
+MoH Ministry of Health
+MOU Memorandum of Understanding
+MSP Minimum Standards of Performance
+MTEF Medium Term Expenditure Framework
+NCTE National Council for Tertiary Education
+NDPC National Development Planning Commission
+NEPAD New Partnerships for Africa's Development
+NER Net Enrolment Ratio
+NFED Non-Formal Education Division
+NGO Non-Governmental Organisation
+PBME Planning, Budgeting, Monitoring and Evaluation
+PMT Performance Monitoring Tests
+PTA Parent Teacher Association
+PTR Pupil Teacher Ratio
+QE Quality of Education
+SEN Special Education Needs
+SPIP School Performance Improvement Programme
+SMC School Management Committee
+SRIMPR Statistics, Research, Information Management and Public Relations
+SSS Senior Secondary School
+SSSCE Senior Secondary School Certificate Examination
+ST Science, Technology and TVET
+SWAp Sector Wide Approach
+SWOT Strengths, Weaknesses, Opportunities, Threats
+TA Technical Assistance
+TG Thematic Group
+ToR Terms of Reference
+TOT Trainers of Trainers/Tutors
+TTC Teacher Training College
+TVET Technical and Vocational Education and Training
 
+2
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -92,9 +216,9 @@ Article 38 of the Constitution requires government to provide access to Free Com
 
 - improve the quality of teaching and learning
 
-- improve access and participation
-
 - improve management for efficiency within the education sectors
+
+- improve access and participation
 
 - decentralise the education management system
 
@@ -112,36 +236,37 @@ The formal education system is delivered through a number of institutions rangin
 
 Education Strategic Plan, Volume 1
 
-No. of Institutions | No. of students | % female | GER % | No. of teaching staff | PTR | % of total education spending
---- | --- | --- | --- | --- | --- | --- | ---
-Kindergarten/Pre-school | 9 634 | 702 304 | 49 | 46.2 | 27 882 | 25
-Public | 6 321 | 457 597 | 50 | 19 043 | 24 | 7.4
-Private | 3 313 | 244 707 | 49 | 8 839 | 28
-Primary | 15 285 | 2 586 434 | 47 | 80 | 80 552 | 32
-Public | 12 335 | 2 113 749 | 47 | 64 197 | 33 | 34.0
-Private | 2 950 | 472 685 | 49 | 16 355 | 29
-Junior Secondary | 7 582 | 865 636 | 45 | 64 | 47 445 | 19
-Public | 6 414 | 741 895 | 45 | 40 011 | 19 | 22.7
-Private | 1 168 | 123 741 | 49 | 7 434 | 17
-Senior Secondary | 510
-Public | 474 | 249 992 | 41 | 18 | 10 791 | 21 | 15.2
-Private | 36
-TVET
-Public | 23 | 17934 | 13 | N/A | 1150 | 16 | 1.2
-Teacher Training (TTC) | 42 | 19 686 | 27 | N/A | n/a | n/a
-Public | 38 | 18 766 | 31 | 1209 | 16 | 4.5
-Private | 4 | 920 | n/a | n/a | n/a
-Tertiary | N/A | N/A
-Public | 1 480 | 11.5
-Universities | 5 | 40 673 | 30 | 951
-Polytechnics | 10 | 18 459 | 22 | 80
-Other (IPS,GIL) | 5 | n/a | n/a | n/a
-Private | 1 21 | n/a | n/a | n/a
-Non-Formal | 8 000 | 196 170 | 62% | N/A | 8 000 | 25 | 0.5
-Special Education Management | 24 N/A | 3807 N/A | N/A N/A | 40 N/A | 264 N/A | 14 N/A | 0.5 0.3
-Subvented bodies | N/A | N/A | N/A | N/A | N/A | N/A | 2.2
-
 Table 1.1: Selected Statistics for Education (2001/02)
+
+|  | No. of Institutions | No. of students | % female | GER % | No. of teaching staff | PTR | % of total education spending |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kindergarten/Pre-school | 9 634 | 702 304 | 49 | 46.2 | 27 882 | 25 |  |
+| Public | 6 321 | 457 597 | 50 |  | 19 043 | 24 | 7.4 |
+| Private | 3 313 | 244 707 | 49 |  | 8 839 | 28 |  |
+| Primary | 15 285 | 2 586 434 | 47 | 80 | 80 552 | 32 |  |
+| Public | 12 335 | 2 113 749 | 47 |  | 64 197 | 33 | 34.0 |
+| Private | 2 950 | 472 685 | 49 |  | 16 355 | 29 |  |
+| Junior Secondary | 7 582 | 865 636 | 45 | 64 | 47 445 | 19 |  |
+| Public | 6 414 | 741 895 | 45 |  | 40 011 | 19 | 22.7 |
+| Private | 1 168 | 123 741 | 49 |  | 7 434 | 17 |  |
+| Senior Secondary | 510 |  |  |  |  |  |  |
+| Public | 474 | 249 992 | 41 | 18 | 10 791 | 21 | 15.2 |
+| Private | 36 |  |  |  |  |  |  |
+| TVET |  |  |  |  |  |  |  |
+| Public | 23 | 17 934 | 13 | N/A | 1 150 | 16 | 1.2 |
+| Teacher Training (TTC) | 42 | 19 686 | 27 | N/A | n/a | n/a |  |
+| Public | 38 | 18 766 | 31 |  | 1 209 | 16 | 4.5 |
+| Private | 4 | 920 | n/a |  | n/a | n/a |  |
+| Tertiary |  |  |  | N/A |  | N/A |  |
+| Public |  |  |  |  | 1 480 |  | 11.5 |
+| Universities | 5 | 40 673 | 30 |  | 951 |  |  |
+| Polytechnics | 10 | 18 459 | 22 |  | 80 |  |  |
+| Other (IPS,GIL) | 5 | n/a | n/a |  | n/a |  |  |
+| Private | ¹21 | n/a | n/a |  | n/a |  |  |
+| Non-Formal | 8 000 | 196 170 | 62% | N/A | 8 000 | 25 | 0.5 |
+| Special Education | 24 | 3 807 | N/A | 40 | 264 | 14 | 0.5 |
+| Management | N/A | N/A | N/A | N/A | N/A | N/A | 0.3 |
+| Subvented bodies | N/A | N/A | N/A | N/A | N/A | N/A | 2.2 |
 
 [Based on various data from MoE, GES and current reports (2002)]
 
@@ -149,9 +274,9 @@ Notes:
 
 N/A Not Appropriate
 
-1   Six of them are degree awarding; a further 60 awaiting accreditation
-
 n/a not available
+
+¹ Six of them are degree awarding; a further 60 awaiting accreditation
 
 ### 1.2 Documents that have informed the ESP
 
@@ -167,13 +292,13 @@ Education Strategic Plan, Volume 1
 
 #### Education sector papers:
 
-- Previous Education Sectors Plans , (ESPs, 1998 to 2002)
-
-- Education Sector Review (ESR, October 2002)
+- Previous Education Sectors Plans, (ESPs, 1998 to 2002)
 
 - Education Sector Policy Review Report (ESPRR, August, 2002)
 
-- Meeting the Challenges of Education in the 21 st  Century (The report of the President's Committee on Review of Education Reforms in Ghana 1 , October 2002)
+- Education Sector Review (ESR, October 2002)
+
+- Meeting the Challenges of Education in the 21st Century (The report of the President's Committee on Review of Education Reforms in Ghana¹, October 2002)
 
 #### National documents
 
@@ -183,37 +308,33 @@ Education Strategic Plan, Volume 1
 
 #### Regional proposal
 
-- Education for All (EFA, April 2000)
-
 - New Partnerships for Africa's Development (NEPAD, October 2001)
+
+- Education for All (EFA, April 2000)
 
 In addition, the ESP is informed by various other documents and by consultations with a wide variety of education practitioners and members of the public.
 
 ### 1.3 Philosophical and Policy basis of the ESP
 
-The ESP adheres to the broad philosophical stance adopted by the Ministry of Education and its agencies as expressed in the Mission
-
-- Statement for Education (Box 1).  The mission statement takes account of national goals; it underpins the work
+The ESP adheres to the broad philosophical stance adopted by the Ministry of Education and its agencies as expressed in the Mission Statement for Education (Box 1). The mission statement takes account of national goals; it underpins the work of the Ministry and its agencies and acts as a foundation for sectoral planning. Box 2 presents Goals for the Education Sector which have been derived from the Mission Statement.
 
 BOX 1
 
 #### Mission Statement for Education
 
-The  mission  of  the  Ministry  of  Education  is  to  provide relevant education to all Ghanaians at all levels to enable them to acquire skills that will assist them to develop their potential,  to  be  productive,  to  facilitate  poverty  reduction and to promote socio-economic growth and national development.
-
-of the Ministry and its agencies and acts as a foundation for sectoral planning. Box 2 presents Goals for the Education Sector which have been derived from the Mission Statement .
+The mission of the Ministry of Education is to provide relevant education to all Ghanaians at all levels to enable them to acquire skills that will assist them to develop their potential, to be productive, to facilitate poverty reduction and to promote socio-economic growth and national development.
 
 BOX 2
 
 #### Goals for the Education Sector
 
-In  fulfilment  of  the  Education  Mission,  The  Ministry  of  Education  will provide the following:
+In fulfilment of the Education Mission, The Ministry of Education will provide the following:
 
 (a) Facilities to ensure that all citizens, irrespective of age, gender, tribe, religion and political affiliation, are functionally literate and self-reliant
 
 (b) Basic education for all
 
-(c)  Opportunities for open education for all
+(c) Opportunities for open education for all
 
 (d) Education and training for skill development with emphasis on science, technology and creativity
 
@@ -269,7 +390,7 @@ These four focus areas are closely linked to the four priority interventions for
 
 ### 1.4 Outline Situation Analysis
 
-The October 2002 Education Sector Review, (ESR), provides an account of recent education sector performance.  Some of the main findings of the ESR have been incorporated within Table 1.2, an Education Sector "SWOT Analysis" (StrengthsWeaknesses-Opportunities-Threats], in which strengths are matched against opportunities and weaknesses interpreted in terms of possible threats:
+The October 2002 Education Sector Review, (ESR), provides an account of recent education sector performance. Some of the main findings of the ESR have been incorporated within Table 1.2, an Education Sector "SWOT Analysis" (Strengths-Weaknesses-Opportunities-Threats], in which strengths are matched against opportunities and weaknesses interpreted in terms of possible threats:
 
 2   I.e.: School Improvement, Teacher Development, Deployment and Supervision, Reformed
 
@@ -283,19 +404,19 @@ Management, Special Partnership Programmes with non-state actors (GPRS, Feb 2003
 
 Education Strategic Plan, Volume 1
 
+Table 1.2 Education Sector SWOT Analysis, building on the findings of current education sector reviews, reports and the GPRS
+
 STRENGTHS | OPPORTUNITIES
 --- | ---
 Access to and Participation in Education and Training
-• General increase in physical access - increased number of pre-school, primary, JSS and SSS schools • High and increasing enrolment in Basic Schools • Large reduction in illiteracy achieved 1992- 2000 through non-formal education • University enrolment quadrupled in the last decade • High demand for tertiary education • Strong tradition and history of high quality tertiary education provision | • Transform high enrolments into high completion rates • Build on literacy achievements to establish national campaign with the assistance of NGOs, Civil Society and mass media to work towards eradicating illiteracy • Extend distance education to improve access for all • Build of achievements and performance to extend access to tertiary education • Develop an Open University system.
+• General increase in physical access – increased number of pre-school, primary, JSS and SSS schools • High and increasing enrolment in Basic Schools • Large reduction in illiteracy achieved 1992–2000 through non-formal education • University enrolment quadrupled in the last decade • High demand for tertiary education • Strong tradition and history of high quality tertiary education provision | • Transform high enrolments into high completion rates • Build on literacy achievements to establish national campaign with the assistance of NGOs, Civil Society and mass media to work towards eradicating illiteracy • Extend distance education to improve access for all • Build of achievements and performance to extend access to tertiary education • Develop an Open University system.
 Quality of Teaching and Learning
-• Distance Education programmes to provide further professional training for teachers in service • Higher levels of commitment are being realised in 'untrained teachers' devoted to rural deprived areas | • Extend distance education to improve the quality of teaching staff, and as a result, education (also to reduce the financial burden that study leave payments place upon the education system) • Use an "OUT-OUT-IN" system whereby such pupil teachers will be provided with in service training during vacations and transferred to TTCs during their last year subject to performance • Use more effectively ICT to promote access to quality education at all levels
+• Distance Education programmes to provide further professional training for teachers in service • Higher levels of commitment are being realised in ‘untrained teachers’ devoted to rural deprived areas | • Extend distance education to improve the quality of teaching staff, and as a result, education (also to reduce the financial burden that study leave payments place upon the education system) • Use an "OUT-OUT-IN" system whereby such pupil teachers will be provided with in service training during vacations and transferred to TTCs during their last year subject to performance • Use more effectively ICT to promote access to quality education at all levels
 Educational Planning and Management
 • Generally agreed that community/school partnerships have improved inputs leading to teacher effectiveness and improved pupil performance • Annual Consultative Panel Meetings provide opportunities for meaningful participation of development partners (DP) in the education process • The MTEF process is well established and working well at central levels | • Extend these relationships towards community involvement in the operation, management and financing of schools • Extend DP participation to other areas (private sector, CBO, NGO, FBO) • Decentralise the MTEF process in line with forthcoming revised Education and Local Government Service Acts with Regions acting as 'the arms' of the MoE
-WEAKNESSES THREATS
+WEAKNESSES | THREATS
 Access and Participation to Education and Training
-• Low enrolment and retention rates in Northern regions and many rural areas. • SSS schools under enrolled - particularly new community secondary schools • Over 60% of university admissions come from less that 20% of secondary schools. • Gender concerns: Unequal enrolment rates; Unequal retention and completion rates; Child abuse; Low female literacy; poor transition rates (P6-JSS, JSS-SSS, SSS-TE) for girls • Uneven locational distribution of special needs services, high attrition rate of teachers completing special needs training and lack of necessary equipment and financing within the special education sub- sector | • Low enrolments hinder achievement of goals of FCUBE and EFA • Inequitable balance between different socio-economic and gender groups within Tertiary institutions • Under-representation of females in teaching and managerial roles - particularly in tertiary level institutions. • Lack of appropriate role models leading to further discouragement of girls from entering the education system
-
-Table 1.2 Education Sector SWOT Analysis, building on the findings of current education sector reviews, reports and the GPRS
+• Low enrolment and retention rates in Northern regions and many rural areas. • SSS schools under enrolled – particularly new community secondary schools • Over 60% of university admissions come from less that 20% of secondary schools. • Gender concerns: Unequal enrolment rates; Unequal retention and completion rates; Child abuse; Low female literacy; poor transition rates (P6-JSS, JSS-SSS, SSS-TE) for girls • Uneven locational distribution of special needs services, high attrition rate of teachers completing special needs training and lack of necessary equipment and financing within the special education sub-sector | • Low enrolments hinder achievement of goals of FCUBE and EFA • Inequitable balance between different socio-economic and gender groups within Tertiary institutions • Under-representation of females in teaching and managerial roles – particularly in tertiary level institutions. • Lack of appropriate role models leading to further discouragement of girls from entering the education system
 
 [continued overleaf]
 
@@ -310,12 +431,13 @@ Education Strategic Plan, Volume 1
 WEAKNESSES | THREATS
 --- | ---
 Quality of Teaching and Learning
-• Improving, but nevertheless, unacceptable performance in CRT, PMT tests at basic education and in SSSCE. Plus noticeable disparities between public/private and rural/urban school performances • Poor public image of teaching profession makes it hard to attract good graduates into TTCs • Low level of teacher commitment due to a lack of incentives and poor working conditions, which translate into the above poor performances of pupils • Research in tertiary institutions is not effectively coordinated or prioritised and is under funded • Lack of effective use of ICT as a tool for | • The planned expansion of the education system may be undermined if there is an inadequate supply of qualified, motivated teaching staff • Research outputs make little impact on national development • Research creates a financial burden on the public sector • National priorities in allocation of public resources may lead to neglect of research
-Technical and Vocational Education and | Training
-• Lack of workshops and professionally qualified teachers preventing meaningful TVET taking place within JSS • Lack of examination of practical skills by WAEC contributes to dearth of 'hands on' technical experience • TVET has low status • TVET doesn't provide graduates with the requirements to enter tertiary education Health and environmental sanitation | • Alternative avenues for further education may be become limited due to lack of suitable entrants • TVET may become irrelevant and/or undesirable • Government economic aspirations may be thwarted through lack of appropriately trained technical personnel.
-• Increase in occurrence of HIV/AIDS within the Education sector coupled with a lack of adequate information within the sector to facilitate an accurate assessment of this problem • Malnourishment is very high, particularly in the Northern regions • Poor hygiene conditions within most schools - including lack of sanitation facilities and water • Early pregnancy and sexual activity | • Possible reduction in teaching staff due to attrition from AIDS, preventing the delivery of quality education. • Supply of teachers may not keep pace with attrition leading to teacher shortages • Increased vulnerability of female learners as they suffer from child abuse, or partake in 'transactional sex' to enable the purchase of basic items • Malnutrition and health issues may adversely affect attendance and performance • Young women/girls drop out of school.
+• Improving, but nevertheless, unacceptable performance in CRT, PMT tests at basic education and in SSSCE. Plus noticeable disparities between public/private and rural/urban school performances • Poor public image of teaching profession makes it hard to attract good graduates into TTCs • Low level of teacher commitment due to a lack of incentives and poor working conditions, which translate into the above poor performances of pupils • Research in tertiary institutions is not effectively coordinated or prioritised and is under funded • Lack of effective use of ICT as a tool for teaching and learning | • The planned expansion of the education system may be undermined if there is an inadequate supply of qualified, motivated teaching staff • Research outputs make little impact on national development • Research creates a financial burden on the public sector • National priorities in allocation of public resources may lead to neglect of research
+Technical and Vocational Education and Training
+• Lack of workshops and professionally qualified teachers preventing meaningful TVET taking place within JSS • Lack of examination of practical skills by WAEC contributes to dearth of 'hands on' technical experience • TVET has low status • TVET doesn’t provide graduates with the requirements to enter tertiary education | • Alternative avenues for further education may be become limited due to lack of suitable entrants • TVET may become irrelevant and/or undesirable • Government economic aspirations may be thwarted through lack of appropriately trained technical personnel.
+Health and environmental sanitation
+• Increase in occurrence of HIV/AIDS within the Education sector coupled with a lack of adequate information within the sector to facilitate an accurate assessment of this problem • Malnourishment is very high, particularly in the Northern regions • Poor hygiene conditions within most schools – including lack of sanitation facilities and water • Early pregnancy and sexual activity | • Possible reduction in teaching staff due to attrition from AIDS, preventing the delivery of quality education. • Supply of teachers may not keep pace with attrition leading to teacher shortages • Increased vulnerability of female learners as they suffer from child abuse, or partake in ‘transactional sex’ to enable the purchase of basic items • Malnutrition and health issues may adversely affect attendance and performance • Young women/girls drop out of school.
 Educational Planning and Management
-• Structural and capacity problems within the Ministry of Education and its agencies - managerial weaknesses, manpower shortages and lack of effective supervision • Ineffective channels of communication • Indiscipline and misbehaviour in local offices • Inequitable resource allocation at Regions and Districts | • Sectoral targets, including decentralisation, may be put at risk
+• Structural and capacity problems within the Ministry of Education and its agencies – managerial weaknesses, manpower shortages and lack of effective supervision • Ineffective channels of communication • Indiscipline and misbehaviour in local offices • Inequitable resource allocation at Regions and Districts | • Sectoral targets, including decentralisation, may be put at risk
 
 The findings in the above table have guided the formulation of the ESP.
 
@@ -329,17 +451,9 @@ Education Strategic Plan, Volume 1
 
 ### 1.5 Other influences on the ESP
 
-The October 2002 report of the President's Committee on Review of Education Reforms in Ghana (ERRC), Meeting the Challenges of Education in the 21 st  Century , proposes significant changes to meet the challenges to the education sector over the coming years.  The findings of the ERRC, particularly those regarding preschool education, technical education, increased access at all levels and the structure of the system, have contributed to the development of the ESP.
+The October 2002 report of the President's Committee on Review of Education Reforms in Ghana (ERRC), Meeting the Challenges of Education in the 21st Century, proposes significant changes to meet the challenges to the education sector over the coming years. The findings of the ERRC, particularly those regarding pre-school education, technical education, increased access at all levels and the structure of the system, have contributed to the development of the ESP.
 
-The basic education sub sector is of great significance within the education sector.  Ghana subscribes to the Education For All (EFA) principles and process and has developed a work programme that puts into effect the six goals arising from the World Education Forum in Dakar, April 2000 (Box 3).  Although presented in less detail, the ESP Work Programme contains the essential features of the EFA work programme, demonstrating that it is a mainstream component of sector development.
-
-It is important to stress,
-
-however, that the ESP is a
-
-whole sector plan.  The
-
-Government and the
+The basic education sub sector is of great significance within the education sector. Ghana subscribes to the Education For All (EFA) principles and process and has developed a work programme that puts into effect the six goals arising from the World Education Forum in Dakar, April 2000 (Box 3). Although presented in less detail, the ESP Work Programme contains the essential features of the EFA work programme, demonstrating that it is a mainstream component of sector development.
 
 #### BOX 3 The Six Dakar Goals
 --- | ---
@@ -350,7 +464,7 @@ Government and the
 5. | Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality
 6. | Improving all aspects of the quality of education and ensuring excellence of all so that recognised and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills
 
-Ministry is committed to a whole-sector development approach, i.e. a sector wide approach (SWAp), in which every sub-sector and every area of focus within the education sector is considered and in which all internal and external development partners are invited to play a part.  These aspects will be illuminated in chapters 2 and 3 respectively.  In addition, if the ESP is to be successful, then sector performance must be open to review, when judgements will be made and advice may be given based on the outputs and outcomes arising from the plan (chapter 4).  Good performance should be based on optimum deployment of resources and other inputs and this is covered in chapter 5.
+It is important to stress, however, that the ESP is a whole sector plan. The Government and the Ministry is committed to a whole-sector development approach, i.e. a sector wide approach (SWAp), in which every sub-sector and every area of focus within the education sector is considered and in which all internal and external development partners are invited to play a part. These aspects will be illuminated in chapters 2 and 3 respectively. In addition, if the ESP is to be successful, then sector performance must be open to review, when judgements will be made and advice may be given based on the outputs and outcomes arising from the plan (chapter 4). Good performance should be based on optimum deployment of resources and other inputs and this is covered in chapter 5.
 
 11
 
@@ -391,15 +505,22 @@ The ESP adopts an 'issues-based' approach to sector development.  The ESP has id
 
 As Chapter 1 has indicated, these areas of focus relate to the policy goals that were identified for the purposes of MTEF preparation and are consistent with the findings of a number of significant reports and papers that were published during 2002:
 
-1. Ghana Poverty Reduction Strategy 2002 - 2004 (GPRS, February 2002) 2. Education Sector Policy Review Report (ESPRR, August, 2002) 3 3. Education Sector Review (ESR, October 2002)
+1. Ghana Poverty Reduction Strategy 2002 - 2004 (GPRS, February 2002)
 
-- Meeting the Challenges of Education in the 21 st  Century ( The report of the President's Commission on Review of Education Reforms in Ghana, ERRC, October 2002)
+2. Education Sector Policy Review Report (ESPRR, August, 2002)³
 
-in addition to the international paper on 5. Education for All (EFA, UNESCO, Dakar, 2000)
+3. Education Sector Review (ESR, October 2002)
+
+4. Meeting the Challenges of Education in the 21st Century
+(The report of the President's Commission on Review of Education Reforms in Ghana, ERRC, October 2002)
+
+in addition to the international paper on
+
+5. Education for All (EFA, UNESCO, Dakar, 2000)
 
 The relationship between the four areas of focus, the MTEF and these papers is summarised in Annex C, where it can be seen there is considerable convergence between the various reports.  This convergence provides validity for the ESP approach.
 
-The purpose of ESP is to assist in the poverty reduction process through the development of a learning society, thereby enhancing Ghana's human resource.  In future everyone will be able to participate meaningfully and successfully in the education process and young people and adults, who have hitherto been excluded, will be able to access new opportunities for educational development.  The strategic plan is designed to ensure that all learners gain the necessary knowledge, master the necessary skills and acquire the necessary attitudes for them to develop as individuals, to improve their social well-being and to improve Ghanaian society.  This is in line with the Government's commitment "to support growth and poverty reduction" 4  in the early years of the 21 st  century.
+The purpose of ESP is to assist in the poverty reduction process through the development of a learning society, thereby enhancing Ghana's human resource. In future everyone will be able to participate meaningfully and successfully in the education process and young people and adults, who have hitherto been excluded, will be able to access new opportunities for educational development. The strategic plan is designed to ensure that all learners gain the necessary knowledge, master the necessary skills and acquire the necessary attitudes for them to develop as individuals, to improve their social well-being and to improve Ghanaian society. This is in line with the Government’s commitment "to support growth and poverty reduction"⁴ in the early years of the 21st century.
 
 To accomplish this overall objective, the ESP is a revision and update of previous strategic plans and, in particular, presents targets and strategies based upon the eight policy goals that underpin the current MTEF and the two additional policy goals formed during the writing of this document.  The ESP, therefore, presents a synopsis of government intentions and conditions that address the following policy goals 5  for education:
 
@@ -415,26 +536,34 @@ To accomplish this overall objective, the ESP is a revision and update of previo
 
 Education Strategic Plan, Volume 1
 
-#### Increase access to and participation in education and training
+#### 1. Increase access to and participation in education and training
 
-To provide a foundation for increased educational attainment through the development of access to free compulsory universal basic education (FCUBE, defined for the plan period as 6 years of primary education and 3 years of junior secondary education), increasing access at the pre-primary level (extending UBE by a further two years of kindergarten education), by promoting the enrolment of girls and other disadvantaged groups, and by increasing opportunities for out-ofschool and hard-to-reach children and adults and by providing more opportunities.  In addition, to expand access to the Secondary and Tertiary sub-sectors, including the Polytechnics, and to establish an Open University.  This should go some way towards achieving the Education For All objectives, without losing sight of MoE responsibility for the whole sector.
+To provide a foundation for increased educational attainment through the development of access to free compulsory universal basic education (FCUBE, defined for the plan period as 6 years of primary education and 3 years of junior secondary education), increasing access at the pre-primary level (extending UBE by a further two years of kindergarten education), by promoting the enrolment of girls and other disadvantaged groups, and by increasing opportunities for out-of-school and hard-to-reach children and adults and by providing more opportunities. In addition, to expand access to the Secondary and Tertiary sub-sectors, including the Polytechnics, and to establish an Open University. This should go some way towards achieving the Education For All objectives, without losing sight of MoE responsibility for the whole sector.
 
-#### Improve the quality of teaching and learning for enhanced pupil/student achievement
+#### 2. Improve the quality of teaching and learning for enhanced pupil/student achievement
 
-- To improve quality by building upon already proven initiatives, by: · improving and augmenting the supply of human and physical resources available to the system, · making them more effective (including the improvement of teaching practices, learning conditions and support facilities), · making the curriculum more relevant in practical aspects such as life skills, physical education and vocational skills, · developing reliable testing and achievement measurement systems through targeting educational outputs for improvement · effective day-to-day monitoring, evaluation, and accountability of the system  by strengthening inspection and supervision. The minimum aim is that all those completing basic education will be
+To improve quality by building upon already proven initiatives, by:
 
-functionally literate and numerate.
+- improving and augmenting the supply of human and physical resources available to the system,
 
-#### Improve and extend technical/vocational education and training
+- making them more effective (including the improvement of teaching practices, learning conditions and support facilities),
 
-To extend and support opportunities for young people, including out-ofschool children and 'drop outs', to engage in technical and vocational opportunities. The aim is to achieve this by increased diversification and greater relevance to 'the real workplace' in the technical and vocational curriculum and by increasing the number of Technical Vocational Institutes and improving Polytechnics.
+- making the curriculum more relevant in practical aspects such as life skills, physical education and vocational skills,
 
-#### Promote and inculcate the values of good health and environmental sanitation in schools and institutions of higher learning and in their personal lives
+- developing reliable testing and achievement measurement systems through targeting educational outputs for improvement
 
-5   The order of presentation of the first eight policy goals follows the order used during the preparation
+- effective day-to-day monitoring, evaluation, and accountability of the system by strengthening inspection and supervision.
 
-of the MTEF.  Later in this chapter, it will be seen to be more convenient to re-order and group the
+The minimum aim is that all those completing basic education will be functionally literate and numerate.
 
+#### 3. Improve and extend technical/vocational education and training
+
+To extend and support opportunities for young people, including out-of-school children and 'drop outs', to engage in technical and vocational opportunities. The aim is to achieve this by increased diversification and greater relevance to 'the real workplace' in the technical and vocational curriculum and by increasing the number of Technical Vocational Institutes and improving Polytechnics.
+
+#### 4. Promote and inculcate the values of good health and environmental sanitation in schools and institutions of higher learning and in their personal lives
+
+5 The order of presentation of the first eight policy goals follows the order used during the preparation
+of the MTEF. Later in this chapter, it will be seen to be more convenient to re-order and group the
 goals in line with the areas of focus (already described).
 
 14
@@ -457,7 +586,7 @@ To increase investment in the promotion of mathematics, science and technology, 
 
 #### 7.  Improve the quality and relevance of academic and research programmes
 
-The Ministry expects that academic programmes and research activities will be of much greater relevance to national development and poverty reduction targets.  There will be greater emphasis on support and funding from the private sector and on more effective and bettertargeted dissemination of research findings.
+The Ministry expects that academic programmes and research activities will be of much greater relevance to national development and poverty reduction targets. There will be greater emphasis on support and funding from the private sector and on more effective and better-targeted dissemination of research findings.
 
 #### 8.  Promote and extend pre-school education
 
@@ -479,7 +608,7 @@ Institutional and teacher-training curricula will be reviewed to include aspects
 
 The Ministry aims to implement a number of strategies targeted specifically at increasing female participation in the education sector, in terms of enrolments, retention and completion rates.  Sensitisation programmes, highlighting the importance of female education, will be conducted and a number of programmes to support female access to education at all levels will be supported by the Ministry.
 
-As mentioned earlier, the above policy goals may be more conveniently reordered and grouped in terms of areas of focus.  The next section briefly discusses each area of focus in turn.
+As mentioned earlier, the above policy goals may be more conveniently re-ordered and grouped in terms of areas of focus. The next section briefly discusses each area of focus in turn.
 
 ### 2.2 Areas of Focus
 
@@ -597,9 +726,9 @@ EA8 Provide conditions for universal functional literacy | • Agreed national f
 
 Education Strategic Plan, Volume 1
 
-EA9 Prioritise the disadvantaged in society | • Support systems in place for children with SENs by 2015 • Increase attendance of those with SENS in schools to 50% in 2008, 80% in 2012 and 100% by 2015 • IEC programme for disadvantaged in place by 2005 • An inclusive education system achieved by 2015, including boys and girls with non-severe SENS integrated into mainstream schools | 1. Evaluate, and build upon, programmes for the disadvantaged that are already in operation, including complementary and alternative education programmes 2. Reach and integrate excluded children (out-of-school, hard-to-reach, truants) intra- cycle dropouts and adolescent mothers within the formal system where possible 3. Organise screening and identification of children with special needs 4. Institute scholarship schemes for needy pupils, including district sponsorship of girl pupils/students 5. Establish special education assessment centres in all districts 6. Organise sensitisation workshop for parents and children with special needs 7. Incorporate training in SENS into all TTC courses (also see EA7, strategy 5) 8. Provide material support to those children orphaned as a result of HIV/AIDS, in order that they can complete their education. | 1. 2004 2. 2003 3. 2005 4. 2003 5. 2004 6. 2005 7. 2004 8. 2004 1. 2004
+EA9 Prioritise the disadvantaged in society | • Support systems in place for children with SENs by 2015 • Increase attendance of those with SENS in schools to 50% in 2008, 80% in 2012 and 100% by 2015 • IEC programme for disadvantaged in place by 2005 • An inclusive education system achieved by 2015, including boys and girls with non-severe SENS integrated into mainstream schools | 1. Evaluate, and build upon, programmes for the disadvantaged that are already in operation, including complementary and alternative education programmes 2. Reach and integrate excluded children (out-of-school, hard-to-reach, truants) intra-cycle dropouts and adolescent mothers within the formal system where possible 3. Organise screening and identification of children with special needs 4. Institute scholarship schemes for needy pupils, including district sponsorship of girl pupils/students 5. Establish special education assessment centres in all districts 6. Organise sensitisation workshop for parents and children with special needs 7. Incorporate training in SENS into all TTC courses (also see EA7, strategy 5) 8. Provide material support to those children orphaned as a result of HIV/AIDS, in order that they can complete their education. | 1. 2004 2. 2003 3. 2005 4. 2003 5. 2004 6. 2005 7. 2004 8. 2004
 --- | --- | --- | ---
-EA10 Expand and improve post-basic education | • Rehabilitate 10% of existing SSS by 2015 • At least 75% of the districts to have a Model SSS by 2015 • Establish 10 additional TVIs by 2015 • 50% enrolment growth in TVIs nationally by 2015 • Teacher Education subsumed within tertiary level by 2010 • Facilities in one polytechnic upgraded every 3 years • Facilities in one university upgraded by 2009, thereafter 1 every 3 years • 50% improvement in numbers of qualified staff in post-basic institutions by 2015 • Tertiary education available for at least 15% of the post-secondary cohort by 2015 • Open University access by 2015 • At least 70% intake for all eligible pupils/students for second cycle education (SSS/TVI) by 2015 | 1. Conduct institutional mapping for post-basic levels by December 2004 2. Use mapping and other needs-assessments (including manpower needs) to determine needs at post-basic level 3. Construct and upgrade secondary schools to model school standards at a rate of at least 4 per annum, on a need and readiness basis. 4. Assess the cost and application of distance and on-line approaches to education (including an Open University) for those outside the physical reach of tertiary institutions and the establishment of other post-secondary institutions offering national and international curricula and diplomas with an emphasis on improving teachers qualifications 5. Convert and upgrade TTCs into tertiary institutions 6. Establish one fully developed polytechnic in every region 7. Establish 10 additional TVIs on a necessity basis 8. Conduct enrolment drive for TVET | 2. 2005 3. 2003 4. 2004 5. 2005 6. 2004 7. 2004 8. 2004
+EA10 Expand and improve post-basic education | • Rehabilitate 10% of existing SSS by 2015 • At least 75% of the districts to have a Model SSS by 2015 • Establish 10 additional TVIs by 2015 • 50% enrolment growth in TVIs nationally by 2015 • Teacher Education subsumed within tertiary level by 2010 • Facilities in one polytechnic upgraded every 3 years • Facilities in one university upgraded by 2009, thereafter 1 every 3 years • 50% improvement in numbers of qualified staff in post-basic institutions by 2015 • Tertiary education available for at least 15% of the post-secondary cohort by 2015 • Open University access by 2015 • At least 70% intake for all eligible pupils/students for second cycle education (SSS/TVI) by 2015 | 1. Conduct institutional mapping for post-basic levels by December 2004 2. Use mapping and other needs-assessments (including manpower needs) to determine needs at post-basic level 3. Construct and upgrade secondary schools to model school standards at a rate of at least 4 per annum, on a need and readiness basis. 4. Assess the cost and application of distance and on-line approaches to education (including an Open University) for those outside the physical reach of tertiary institutions and the establishment of other post-secondary institutions offering national and international curricula and diplomas with an emphasis on improving teachers qualifications 5. Convert and upgrade TTCs into tertiary institutions 6. Establish one fully developed polytechnic in every region 7. Establish 10 additional TVIs on a necessity basis 8. Conduct enrolment drive for TVET | 1. 2004 2. 2005 3. 2003 4. 2004 5. 2005 6. 2004 7. 2004 8. 2004
 EA11 Promote Distance Education | • Brochures and courses for Distance Education and Open University available at all levels by 2012 • Distance Education enrolments increased by 2% per annum over the plan period | 1. Develop a national policy on Distance Education 2. Establish distance education centres 3. Design and write distance education materials 4. Design, write and publish brochures on distance education courses 5. Conduct enrolment drive for distance education 6. Recruit and train administrative personnel, and qualified and experienced lecturers 7. Procure appropriate equipment for teaching and learning | 1. 2003 2. 2003 3. 2003 4. 2003 5. 2004 6. 2003 7. 2003
 
 22
@@ -1638,17 +1767,19 @@ Notes
 
 (3) Baseline: 2002
 
-Gross Enrolment Ratios | 2002 | 2003 | 2004 | 2005 | 2010 | 2015
---- | --- | --- | --- | --- | --- | ---
-Pre-School GER Proportion Female | 62.0% 49.7% | 63.0% 49.8% | 64.0% 49.9% | 65.0% 50.0% | 70.0% 50.0% | 86.0% 50.0%
-Primary GER Proportion Female | 78.9% 47.2% | 84.2% 48.6% | 86.5% 49.3% | 88.8% 50.0% | 100.3% 50.0% | 107.4% 50.0%
-JSS GER | 61.7% | 65.0% 45.9% | 66.5% 46.5% | 67.9% 47.1% | 75.0% | 90.0%
-Proportion Female | 45.3% 17.5% | 18.6% | 19.6% | 20.7% | 50.0% 26.0% | 50.0%
-SSS GER Proportion Female | 36.0%
-41.0% | 41.7% | 42.4% | 43.1% | 46.6% | 50.0%
-
 ## ACCESS
 ### Enrolment Ratios - disaggregated by sub-sector and gender
+
+Gross Enrolment Ratios | 2002 | 2003 | 2004 | 2005 | 2010 | 2015
+--- | --- | --- | --- | --- | --- | ---
+Pre-School GER | 62.0% | 63.0% | 64.0% | 65.0% | 70.0% | 86.0%
+Proportion Female | 49.7% | 49.8% | 49.9% | 50.0% | 50.0% | 50.0%
+Primary GER | 78.9% | 84.2% | 86.5% | 88.8% | 100.3% | 107.4%
+Proportion Female | 47.2% | 48.6% | 49.3% | 50.0% | 50.0% | 50.0%
+JSS GER | 61.7% | 65.0% | 66.5% | 67.9% | 75.0% | 90.0%
+Proportion Female | 45.3% | 45.9% | 46.5% | 47.1% | 50.0% | 50.0%
+SSS GER | 17.5% | 18.6% | 19.6% | 20.7% | 26.0% | 36.0%
+Proportion Female | 41.0% | 41.7% | 42.4% | 43.1% | 46.6% | 50.0%
 
 Number enrolled
 --- | --- | --- | --- | --- | --- | ---
@@ -1676,14 +1807,14 @@ Female* | 76.44% | 79.39% | 82.33% | 85.28% | 100.0% | 100.0%
 
 ### Basic School Completion Rates
 
-2001* | 2003 | 2004 | 2005 | 2010 | 2015
+ |  | 2001* | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
 P6 | Total | 92.6% | 93.2% | 93.7% | 94.3% | 97.2% | 100.0%
-Female | 93.6% | 94.1% | 94.58% | 95.07% | 97.52% | 100.0%
-Male | 91.7% | 92.3% | 93.0% | 93.6% | 96.82% | 100.0%
-P1 - P6 | Total | 65.6% | 68.2% | 70.9% 66.7% | 73.5% 69.7% | 86.4% 84.8% | 100.0% 100.0%
-Female | 60.6% | 63.6%
-Male | 70.2% | 72.5% | 74.8% | 77.1% | 88.52% | 100.0%
+ | Female | 93.6% | 94.1% | 94.58% | 95.07% | 97.52% | 100.0%
+ | Male | 91.7% | 92.3% | 93.0% | 93.6% | 96.82% | 100.0%
+P1 - P6 | Total | 65.6% | 68.2% | 70.9% | 73.5% | 86.4% | 100.0%
+ | Female | 60.6% | 63.6% | 66.7% | 69.7% | 84.8% | 100.0%
+ | Male | 70.2% | 72.5% | 74.8% | 77.1% | 88.52% | 100.0%
 
 * Base year figure from 2001 (latest available data)
 
@@ -1695,50 +1826,60 @@ Male | 70.2% | 72.5% | 74.8% | 77.1% | 88.52% | 100.0%
 
 Education Strategic Plan, Volume 1
 
-JSS1-JSS3 | Total | 75.2% 68.2% | 77.1% | 79.0% 73.1% | 80.9% 75.5% | 90.5% 87.8% | 100.0% 100.0%
+JSS1-JSS3 | Total | 75.2% | 77.1% | 79.0% | 80.9% | 90.5% | 100.0%
 --- | --- | --- | --- | --- | --- | --- | ---
-Female | 70.6%
-Male | 81.1% | 82.6% | 84.0% | 85.5% | 92.7% | 100.0%
+ | Female | 68.2% | 70.6% | 73.1% | 75.5% | 87.8% | 100.0%
+ | Male | 81.1% | 82.6% | 84.0% | 85.5% | 92.7% | 100.0%
 P1-JSS3 | Total | 50.9% | 54.7% | 58.5% | 62.2% | 81.1% | 100.0%
-Female | 44.7% | 49.0% | 53.2% | 57.5% | 78.7% | 100.0%
-Male | 56.5% | 59.8% | 63.2% | 66.5% | 83.3% | 100.0%
+ | Female | 44.7% | 49.0% | 53.2% | 57.5% | 78.7% | 100.0%
+ | Male | 56.5% | 59.8% | 63.2% | 66.5% | 83.3% | 100.0%
 
 ### Transition Rates
 
-* Base year 2001 (latest available data)
-
-2001* | 2003 | 2004 | 2005 | 2010 | 2015
+ |  | 2001* | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
-Primary repetit- ion rates by grade | P1 | 11.7% | 11.0% | 10.2% | 9.5% | 5.7% | 2.0%
-P2 | 8.0% | 7.5% | 7.1% | 6.6% | 4.3% | 2.0%
-P3 | 7.4% | 7.0% | 6.6% | 6.2% | 4.1% | 2.0%
-P4 | 6.8% | 6.4% | 6.1% | 5.7% | 3.8% | 2.0%
-P5 | 5.9% | 5.6% | 5.3% | 5.0% | 3.5% | 2.0%
-P6 | 6.1% | 5.8% | 5.5% | 5.2% | 3.6% | 2.0%
-Pre-School to Primary School | Total Female Male | n/a n/a n/a | 100.0% 100.0% 100.0%
-Primary School to JSS | Total | 84.9% 81.6% | 86.1% 83.0% | 87.2% 84.4% 89.6% | 88.4% 85.8% 90.5% | 94.2% 92.9% 95.3% | 100.0% 100.0% 100.0%
-Female Male | 87.7% | 88.6%
-JSS to SSS | Total Female Male | 30.0% | 32.3% | 34.6% | 36.9% | 48.5% | 60.0%
-Coefficient of efficiency | Prim JSS SSS
+Primary repetition rates by grade | P1 | 11.7% | 11.0% | 10.2% | 9.5% | 5.7% | 2.0%
+ | P2 | 8.0% | 7.5% | 7.1% | 6.6% | 4.3% | 2.0%
+ | P3 | 7.4% | 7.0% | 6.6% | 6.2% | 4.1% | 2.0%
+ | P4 | 6.8% | 6.4% | 6.1% | 5.7% | 3.8% | 2.0%
+ | P5 | 5.9% | 5.6% | 5.3% | 5.0% | 3.5% | 2.0%
+ | P6 | 6.1% | 5.8% | 5.5% | 5.2% | 3.6% | 2.0%
+Pre-School to Primary School | Total | n/a |  |  |  |  | 100.0%
+ | Female | n/a |  |  |  |  | 100.0%
+ | Male | n/a |  |  |  |  | 100.0%
+Primary School to JSS | Total | 84.9% | 86.1% | 87.2% | 88.4% | 94.2% | 100.0%
+ | Female | 81.6% | 83.0% | 84.4% | 85.8% | 92.9% | 100.0%
+ | Male | 87.7% | 88.6% | 89.6% | 90.5% | 95.3% | 100.0%
+JSS to SSS | Total | 30.0% | 32.3% | 34.6% | 36.9% | 48.5% | 60.0%
+ | Female |  |  |  |  |  | 
+ | Male |  |  |  |  |  | 
+Coefficient of efficiency | Prim |  |  |  |  |  | 
+ | JSS |  |  |  |  |  | 
+ | SSS |  |  |  |  |  | 
 
+* Base year 2001 (latest available data)
 ### Increased capacity:  Number of new schools constructed annually
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
 Pre-School | n/a | 155 | 155 | 155 | 131 | 124
-Primary | 438 | 438 | 438 | 282 | 201
-JSS | 130 | 130 | 130 | 133 | 180
+Primary |  | 438 | 438 | 438 | 282 | 201
+JSS |  | 130 | 130 | 130 | 133 | 180
 
 ## QUALITY
 
 ### Trained (qualified) teaching staff
 
-2002 | 2003 | 2004 | 2005 | 2010 | 2015
+ |  |  | 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pre-school | Total | Trained | 29.0% | 34.1% | 39.2% | 44.3% | 69.6% | 95.0%
-Primary | Total | Untrained Trained Untrained | 71.0% 77.2% 22.8% | 65.9% 78.5% 21.5% | 60.8% 79.9% 20.1% | 55.7% 81.3% 18.7% | 30.4% 88.1% 11.9% | 5.0% 95.0% 5.0%
-JSS | Total | Trained Untrained | 87.5% 12.5% | 88.1% 11.9% | 88.7% 11.3% | 89.2% 10.8% | 92.1% 7.9% | 95.0% 5.0%
-SSS | Total | Trained Untrained | 95.0% 5.0%
+ |  | Untrained | 71.0% | 65.9% | 60.8% | 55.7% | 30.4% | 5.0%
+Primary | Total | Trained | 77.2% | 78.5% | 79.9% | 81.3% | 88.1% | 95.0%
+ |  | Untrained | 22.8% | 21.5% | 20.1% | 18.7% | 11.9% | 5.0%
+JSS | Total | Trained | 87.5% | 88.1% | 88.7% | 89.2% | 92.1% | 95.0%
+ |  | Untrained | 12.5% | 11.9% | 11.3% | 10.8% | 7.9% | 5.0%
+SSS | Total | Trained |  |  |  |  |  | 95.0%
+ |  | Untrained |  |  |  |  |  | 5.0%
 
 52
 
@@ -1759,15 +1900,29 @@ SSS | 19.1 | 19.3 | 19.5 | 19.8 | 20.9 | 22.0
 
 ### In School
 
-2002 | 2003 | 2004 | 2005 | 2010 | 2015
+ |  |  | 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-pupil: textbook ratio | Math s | Primary JSS SSS | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01
-Scien ce | Primary JSS SSS | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01
-Engli sh | Primary JSS SSS | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01 | 01:01 01:01 01:01
-Proportion of teaching time spent on core subjects | Math s | Primary JSS SSS | 22.2%
-Scien ce | Primary JSS SSS | 13.3%
-Engli sh | Primary JSS SSS | 22.2%
-% of schools regularly inspected /supervised | Primary JSS SSS | 80.0% 80.0% 25.0% | 81.5% 81.5% 29.6% | 83.1% 83.1% 34.2% | 84.6% 84.6% 38.8% | 92.3% 92.3% 61.9% | 100.0% 100.0% 85.0%
+pupil: textbook ratio | Maths | Primary | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | JSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | SSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ | Science | Primary | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | JSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | SSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ | English | Primary | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | JSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+ |  | SSS | 01:01 | 01:01 | 01:01 | 01:01 | 01:01 | 01:01
+Proportion of teaching time spent on core subjects | Maths | Primary | 22.2% |  |  |  |  | 
+ |  | JSS |  |  |  |  |  | 
+ |  | SSS |  |  |  |  |  | 
+ | Science | Primary | 13.3% |  |  |  |  | 
+ |  | JSS |  |  |  |  |  | 
+ |  | SSS |  |  |  |  |  | 
+ | English | Primary | 22.2% |  |  |  |  | 
+ |  | JSS |  |  |  |  |  | 
+ |  | SSS |  |  |  |  |  | 
+% of schools regularly inspected /supervised |  | Primary | 80.0% | 81.5% | 83.1% | 84.6% | 92.3% | 100.0%
+ |  | JSS | 80.0% | 81.5% | 83.1% | 84.6% | 92.3% | 100.0%
+ |  | SSS | 25.0% | 29.6% | 34.2% | 38.8% | 61.9% | 85.0%
 
 ### Pupil/Student Competency
 
@@ -1875,40 +2030,43 @@ Practical TVET examination success rate
 
 Education Strategic Plan, Volume 1
 
-## A. Projected resource envelope for education
-Target | Projections
---- | --- | --- | --- | --- | --- | ---
-2015 | 2003 | 2004 | 2005 | 2010 | 2015
-GDP (millions of CEDIS) | 50 152 200 | 52 659 810 | 55 292 801 | 70 569 182 | 90 066 146
-GDP growth rate (% per annum) | 5.0% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0%
-Exchange rate US$ to CEDIS - 2003 Population, total (in thousands) | 8600 | 19 870 | 20 366 | 20 876 | 23 619 2 987 847 | 26 722 3 370 432
-GDP per capita (CEDIS) | 2 524 064 | 2 585 626 | 2 648 690
-Domestically-generated revenues net of grants (millions of CEDIS) | 10 528 104 | 11 208 438 | 11 930 485 | 16 258 054 | 22 066 206
-Domestically-generated revenues as % of GDP | 24.5% | 21.0% | 21.3% | 21.6% | 23.0% | 24.5% 5 501 275
-Total public spending on education (millions of CEDIS) | 3 304 843 | 3 284 147 | 3 446 442 2 773 727 | 4 369 234 | 241
-MOE domestic budget | 2 516 099 | 2 642 274 | 3 515 728 | 4 413
-as % of domestic revenues | 20.0% | 23.9% | 23.6% | 23.2% | 21.6% | 20.0%
-GETfund | 404 572 | 424 800 | 446 040 | 569 273 | 726 553
-as % of GDP | 0.81% | 0.81% | 0.81% | 0.81% | 0.81%
-DACF | 105 281 | 112 084 | 119 305 | 162 581 | 220 662
-=5% of revenues and o/w 20% for education = 1% of dom revenues | 1% | 1% | 1% | 1% | 1%
-Scholarship Secretariat | 34 743 | 36 988 | 39 371 | 53 652 | 72 818
-= 0.33% of domestic revenues | 0.33% | 0.33% | 0.33% | 0.33% | 0.33%
-Budget support for education (millions of CEDIS) | 164 149 | 0 | 0 | 0 | 0
-% of overall public spending financed through budget support | 6.1% | 0.0% | 0.0% | 0.0% | 0.0%
-HIPC Funds | 80 000 | 68 000 | 68 000 | 68 000 | 68 000
-Domestically-financed recurrent spending on education as % of domestic revenues net of of CEDIS) | grants21.4% | 25.2% 2 655 356 | 24.9% 2 786 886 | 24.5% 2 923 885 | 23.1% 3 753 779 | 21.4% 4 726 092
-Amount of domestically-financed recurrent spending on education (millions Domestically-financed recurrent spending on education as % of GDP | 5.29% | 5.25%
-Amount of domestically-financed capital spending on education | 5.29% 485 338 | 5.29% | 522 558 | 5.32% 615 455 | 775 183
-0.97% | 497 261 | 0.86%
-Domestically-financed capital spending on education as % of GDP | 0.94% | 0.95% | 0.87%
-Total domestically financed spending on education | 3 140 695 | 3 284 147 | 3 446 442 | 4 369 234 | 5 501 275
-Total domestically financed spending on education as % of GDP | 6.26% | 6.23% | 6.19% | 6.11%
-6.24%
-Recurrent Resource Envelope (Millions of cedis) | 2 704 601 | 2 786 886 | 2 923 885 | 3 753 779 | 4 726 092
-Capital Resource Envelope (Millions of cedis) | 600 242 | 497 261 | 522 558 | 615 455 | 775 183
-
 # ANNEX E - Summary of Projected Costs of Education Strategic Plan
+
+## A. Projected resource envelope for education
+
+ | Target | Projections
+ | 2015 | 2003 | 2004 | 2005 | 2010 | 2015
+--- | --- | --- | --- | --- | --- | ---
+GDP (millions of CEDIS) |  | 50 152 200 | 52 659 810 | 55 292 801 | 70 569 182 | 90 066 146
+GDP growth rate (% per annum) | 5.0% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0%
+Exchange rate US$ to CEDIS - 2003 | 8600 |  |  |  |  | 
+Population, total (in thousands) |  | 19 870 | 20 366 | 20 876 | 23 619 | 26 722
+GDP per capita (CEDIS) |  | 2 524 064 | 2 585 626 | 2 648 690 | 2 987 847 | 3 370 432
+Domestically-generated revenues net of grants (millions of CEDIS) |  | 10 528 104 | 11 208 438 | 11 930 485 | 16 258 054 | 22 066 206
+Domestically-generated revenues as % of GDP | 24.5% | 21.0% | 21.3% | 21.6% | 23.0% | 24.5%
+Total public spending on education (millions of CEDIS) |  | 3 304 843 | 3 284 147 | 3 446 442 | 4 369 234 | 5 501 275
+MOE domestic budget |  | 2 516 099 | 2 642 274 | 2 773 727 | 3 515 728 | 4 413 241
+as % of domestic revenues | 20.0% | 23.9% | 23.6% | 23.2% | 21.6% | 20.0%
+GETfund |  | 404 572 | 424 800 | 446 040 | 569 273 | 726 553
+as % of GDP |  | 0.81% | 0.81% | 0.81% | 0.81% | 0.81%
+DACF |  | 105 281 | 112 084 | 119 305 | 162 581 | 220 662
+=5% of revenues and o/w 20% for education = 1% of dom revenues |  | 1% | 1% | 1% | 1% | 1%
+Scholarship Secretariat |  | 34 743 | 36 988 | 39 371 | 53 652 | 72 818
+= 0.33% of domestic revenues |  | 0.33% | 0.33% | 0.33% | 0.33% | 0.33%
+Budget support for education (millions of CEDIS) |  | 164 149 | 0 | 0 | 0 | 0
+% of overall public spending financed through budget support |  | 6.1% | 0.0% | 0.0% | 0.0% | 0.0%
+HIPC Funds |  | 80 000 | 68 000 | 68 000 | 68 000 | 68 000
+Domestically-financed recurrent spending on education as % of domestic revenues net of grants | 21.4% | 25.2% | 24.9% | 24.5% | 23.1% | 21.4%
+Amount of domestically-financed recurrent spending on education (millions of CEDIS) |  | 2 655 356 | 2 786 886 | 2 923 885 | 3 753 779 | 4 726 092
+Domestically-financed recurrent spending on education as % of GDP |  | 5.29% | 5.29% | 5.29% | 5.32% | 5.25%
+Amount of domestically-financed capital spending on education |  | 485 338 | 497 261 | 522 558 | 615 455 | 775 183
+Domestically-financed capital spending on education as % of GDP |  | 0.97% | 0.94% | 0.95% | 0.87% | 0.86%
+Total domestically financed spending on education |  | 3 140 695 | 3 284 147 | 3 446 442 | 4 369 234 | 5 501 275
+Total domestically financed spending on education as % of GDP |  | 6.26% | 6.24% | 6.23% | 6.19% | 6.11%
+Total resource envelope for education from all sources (millions of CEDIS) |  | 3 304 843 | 3 284 147 | 3 446 442 | 4 369 234 | 5 501 275
+as % of domestically generated revenues net of grants |  | 31.4% | 29.3% | 28.9% | 26.9% | 24.9%
+Recurrent Resource Envelope (Millions of cedis) |  | 2 704 601 | 2 786 886 | 2 923 885 | 3 753 779 | 4 726 092
+Capital Resource Envelope (Millions of cedis) |  | 600 242 | 497 261 | 522 558 | 615 455 | 775 183
 
 56
 
@@ -1972,139 +2130,19 @@ Other (Management, Subvented Agencies, Capacity Building etc) | 7 559 | 25 852 |
 HIV/AIDS management | 0 | 500 | 500 | 500 | 500
 Total (Millions of Cedis) | 605 568 | 690 797 | 684 220 | 623 582 | 727 860
 
-Summary of Construction /Capital Investment Costs by level (% Distribution)
-
-Pre-School
-
-Primary
-
-JSS
-
-SSS
-
-TVET
-
-Teacher Education
-
-Special Education
-
-Tertiary
-
-Other (Management, Subvented Agencies, Capacity Building etc)
-
-HIV/AIDS management
-
-Total Capital Costs (Millions of cedis)
-
-4.4%
-
-50.8%
-
-11.0%
-
-16.5%
-
-3.5%
-
-0.7%
-
-0.4%
-
-11.6%
-
-1.2%
-
-0.0%
-
-100.0%
-
-3.8%
-
-51.9%
-
-13.5%
-
-17.8%
-
-0.1%
-
-0.3%
-
-1.1%
-
-7.6%
-
-3.7%
-
-0.1%
-
-100.0%
-
-3.9%
-
-52.5%
-
-13.6%
-
-18.0%
-
-0.1%
-
-0.3%
-
-1.3%
-
-6.9%
-
-3.3%
-
-0.1%
-
-100.0%
-
-7.0%
-
-30.7%
-
-15.8%
-
-27.1%
-
-4.2%
-
-0.5%
-
-1.0%
-
-9.9%
-
-3.6%
-
-0.1%
-
-100.0%
-
-7.0%
-
-26.4%
-
-20.5%
-
-29.0%
-
-4.2%
-
-0.4%
-
-0.4%
-
-8.9%
-
-3.1%
-
-0.1%
-
-100.0%
+Summary of Construction /Capital Investment Costs by level (% Distribution) | 2003 | 2004 | 2005 | 2010 | 2015
+--- | --- | --- | --- | --- | ---
+Pre-School | 4.4% | 3.8% | 3.9% | 7.0% | 7.0%
+Primary | 50.8% | 51.9% | 52.5% | 30.7% | 26.4%
+JSS | 11.0% | 13.5% | 13.6% | 15.8% | 20.5%
+SSS | 16.5% | 17.8% | 18.0% | 27.1% | 29.0%
+TVET | 3.5% | 0.1% | 0.1% | 4.2% | 4.2%
+Teacher Education | 0.7% | 0.3% | 0.3% | 0.5% | 0.4%
+Special Education | 0.4% | 1.1% | 1.3% | 1.0% | 0.4%
+Tertiary | 11.6% | 7.6% | 6.9% | 9.9% | 8.9%
+Other (Management, Subvented Agencies, Capacity Building etc) | 1.2% | 3.7% | 3.3% | 3.6% | 3.1%
+HIV/AIDS management | 0.0% | 0.1% | 0.1% | 0.1% | 0.1%
+Total Capital Costs (Millions of cedis) | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
 
 58
 
@@ -2141,9 +2179,9 @@ Total Cost as % of GDP | 7.0% | 7.3% | 7.2% | 6.6% | 6.4%
 Recurrent Resource Envelope | 2 704 601 | 2 786 886 | 2 923 885 | 3 753 779 | 4 726 092
 Capital Resource Envelope | 600 242 | 497 261 | 522 558 | 615 455 | 775 183
 Total Resource envelope | 3 304 843 | 3 284 147 | 3 446 442 | 4 369 234 | 5 501 275
-Recurrent account =(recurrent resource envelope - recurrent cost) Capital account = (capital resource envelope - capital cost) | - 213 425 - 5 326 | - 349 374 - 193 536 | - 383 050 - 161 663 | - 281 719 - 8 127 | - 344 806 47 323
-Total gap (Millions of cedis) | - 218 750 | - 542 910 | - 544 713 | - 289 846 | - 297
-483
+Recurrent account =(recurrent resource envelope - recurrent cost) | - 213 425 | - 349 374 | - 383 050 | - 281 719 | - 344 806
+Capital account = (capital resource envelope - capital cost) | - 5 326 | - 193 536 | - 161 663 | - 8 127 | 47 323
+Total gap (Millions of cedis) | - 218 750 | - 542 910 | - 544 713 | - 289 846 | - 297 483
 Financing Gap in $US Millions | -25.44 | -63.13 | -63.34 | -33.70 | -34.59
 Financing Gap as % of Total Requirement | 6.2% | 14.2% | 13.6% | 6.2% | 5.1%
 
@@ -2162,25 +2200,31 @@ Education Strategic Plan, Volume 1
 Domestic resource envelope for primary education (millions) | 1 294 052 | 1 305 625 | 1 375 633 | 1 585 901 | 1 831 751
 o/w recurrent envelope | 989 175 | 1 047 519 | 1 101 095 | 1 396 983 | 1 627 160
 o/w capital envelope | 304 877 | 258 107 | 274 538 | 188 918 | 204 591
-Domestic resource envelope for primary teacher education (share = 60%) | 58 078 | 58 465
-Costs | 472 67 017 | 1 089 165 22 658 67 017 358 562 65 794 | 61 082 1 152 871 | 62 659 1 378 820 | 64 182
-Recurrent costs of education services (millions) HIV/AIDS-related costs (teacher absenteeism & orphanhood, millions) Additional resources required to fund textbook policy Classroom construction (millions) Recurrent costs of Teacher Education for Primary Schools | 999 744 | 25 459 67 017 359 471 69 084 | 41 402 81 604 191 412 70 466 | 1 600 629 57 953 87 292 192 101
-307 582
-62 661 | 71 875
-Financing gap (=domestic resource envelope - costs, in millions of Cedis) Recurrent costs | -10 568 | -41 647 | -51 776 | 18 164 | 26 531
-HIV/AIDS-related costs Additional resources required to fund textbook policy Capital costs (annual average over 5-year periods beginning from base year) | - 472 -67 017 -2 705 | -22 658 -67 017 -100 456 | -25 459 -67 017 -84 933 | -41 402 -81 604 -2 495 | -57 953 -87 292 12 490
-Total Primary Sub-sector (Millions of Cedis) | -80 762 | -231 777 | -229 185 | -107 337 | -106 224 -7 693
-Teacher Education for Primary Schools (Millions of Cedis) | -4 583 | -7 329 | -8 002 | -7 807
-Total UPC GAP (Millions of Cedis) | -115 144 | -113 918
-Financing gap (=domestic | -85 346 | -239 106 | -237 187
-resource envelope - costs, in millions of US$) Recurrent costs HIV/AIDS-related costs Additional resources required to fund textbook policy | -1.23 -.05 | -4.84 | -6.02 | 2. 1
--7.79 | -2.63 -7.79 | -2.96 -7.79 | -4.81 -9.49 | 3. 1 -6.74 -10.15
-Capital costs (annual average over 5-year periods beginning from base year) Total Primary Sub-sector ($US Millions) | -.31 | -11.68 | -9.88 | -.29 | 1. 5 -12.35
--9.39 | -26.95 | -26.65 | -12.48
+Domestic resource envelope for primary teacher education (share = 60%) | 58 078 | 58 465 | 61 082 | 62 659 | 64 182
+Costs
+Recurrent costs of education services (millions) | 999 744 | 1 089 165 | 1 152 871 | 1 378 820 | 1 600 629
+HIV/AIDS-related costs (teacher absenteeism & orphanhood, millions) | 472 | 22 658 | 25 459 | 41 402 | 57 953
+Additional resources required to fund textbook policy | 67 017 | 67 017 | 67 017 | 81 604 | 87 292
+Classroom construction (millions) | 307 582 | 358 562 | 359 471 | 191 412 | 192 101
+Recurrent costs of Teacher Education for Primary Schools | 62 661 | 65 794 | 69 084 | 70 466 | 71 875
+Financing gap (=domestic resource envelope - costs, in millions of Cedis)
+Recurrent costs | -10 568 | -41 647 | -51 776 | 18 164 | 26 531
+HIV/AIDS-related costs | - 472 | -22 658 | -25 459 | -41 402 | -57 953
+Additional resources required to fund textbook policy | -67 017 | -67 017 | -67 017 | -81 604 | -87 292
+Capital costs (annual average over 5-year periods beginning from base year) | -2 705 | -100 456 | -84 933 | -2 495 | 12 490
+Total Primary Sub-sector (Millions of Cedis) | -80 762 | -231 777 | -229 185 | -107 337 | -106 224
+Teacher Education for Primary Schools (Millions of Cedis) | -4 583 | -7 329 | -8 002 | -7 807 | -7 693
+Total UPC GAP (Millions of Cedis) | -85 346 | -239 106 | -237 187 | -115 144 | -113 918
+Financing gap (=domestic resource envelope - costs, in millions of US$)
+Recurrent costs | -1.23 | -4.84 | -6.02 | 2.1 | 3.1
+HIV/AIDS-related costs | -.05 | -2.63 | -2.96 | -4.81 | -6.74
+Additional resources required to fund textbook policy | -7.79 | -7.79 | -7.79 | -9.49 | -10.15
+Capital costs (annual average over 5-year periods beginning from base year) | -.31 | -11.68 | -9.88 | -.29 | 1.5
+Total Primary Sub-sector ($US Millions) | -9.39 | -26.95 | -26.65 | -12.48 | -12.35
 Teacher Education for Primary Schools ($US Millions) | -.53 | -.85 | -.93 | -.91 | -.89
-Total UPC GAP ($US Millions) | -9.92 | -27.80 | -27.58 | -13.39
--13.25
-Primary financing Gap as % of Primary Requirement Primary Financing Gap as % of Total Gap | 5.9% 39.0% | 14.9% 44.0% | 14.2% 43.5% | 6.5% 39.7% | 5.7% 38.3%
+Total UPC GAP ($US Millions) | -9.92 | -27.80 | -27.58 | -13.39 | -13.25
+Primary financing Gap as % of Primary Requirement | 5.9% | 14.9% | 14.2% | 6.5% | 5.7%
+Primary Financing Gap as % of Total Gap | 39.0% | 44.0% | 43.5% | 39.7% | 38.3%
 Primary Finacing Gap as % of Total Requirement | 2.4% | 6.2% | 5.9% | 2.5% | 2.0%
 
 60
@@ -2203,23 +2247,39 @@ Ministry of Education May 2003
 
 ESP Work Programme page 1
 
-### Introduction
-
-Volume 1 of the Education Strategic Plan (ESP) presents policy areas, indicative targets and strategies that will develop and sustain education in Ghana until 2015.  The ESP is therefore a plan whose purpose is to ensure relevant education that provides for individual and national growth.
-
-Volume 2, the Work Programme, builds on Volume 1. It presents a macro-picture of targeted outcomes, associated inputs and broad responsibilities for the nine identified ESP policy areas over the plan period (2003 - 2015).  As explained on pages 2 - 4, the Work Programme will form the basis of operational tools for officers in MOE and its agencies and in the Districts. The Work Programme is therefore a first step in operationalising the plan of the MOE.  As such, it may be subject to adjustment as conditions change and events unfold.
-
 Education Strategic Plan 2003 - 2015
 
 Volume 2: The Work Programme
 
+### Introduction
+
+Volume 1 of the Education Strategic Plan (ESP) presents policy areas, indicative targets and strategies that will develop and sustain education in Ghana until 2015. The ESP is therefore a plan whose purpose is to ensure relevant education that provides for individual and national growth.
+
+Volume 2, the Work Programme, builds on Volume 1. It presents a macro-picture of targeted outcomes, associated inputs and broad responsibilities for the nine identified ESP policy areas over the plan period (2003 - 2015). As explained on pages 2 - 4, the Work Programme will form the basis of operational tools for officers in MOE and its agencies and in the Districts. The Work Programme is therefore a first step in operationalising the plan of the MOE. As such, it may be subject to adjustment as conditions change and events unfold.
+
 ### Contents
 
-page Introduction 1
-
-The Work Programme (1) 2 Context and Purpose 2 Policy Goals and Next Steps 3 List of Acronyms 4
-
-The Work Programme (2) 6 Equitable Access 6 Pre-school Education 6 Access and Participation in Education and Training             7 Girls Education 10 Quality of Education 12 Quality of Teaching and Learning 12 Academic and Research Programmes 16 Health and Environment in Schools and Institutions 17 HIV/AIDS Prevention and Management 17 Educational Management 19 Educational Planning and Management 19 Science, Technology and TVET 23 Technical and Vocational Education and Training 23 Science and Technology Education and Training 24
+page
+Introduction 1
+The Work Programme (1) 2
+Context and Purpose 2
+Policy Goals and Next Steps 3
+List of Acronyms 4
+The Work Programme (2) 6
+Equitable Access 6
+Pre-school Education 6
+Access and Participation in Education and Training 7
+Girls Education 10
+Quality of Education 12
+Quality of Teaching and Learning 12
+Academic and Research Programmes 16
+Health and Environment in Schools and Institutions 17
+HIV/AIDS Prevention and Management 17
+Educational Management 19
+Educational Planning and Management 19
+Science, Technology and TVET 23
+Technical and Vocational Education and Training 23
+Science and Technology Education and Training 24
 
 1
 
@@ -2253,23 +2313,23 @@ The purpose of the work programme is
 
 This work programme, when developed in terms of District, Regional and central desk programmes, will assure the following important elements in sector management:
 
-- Greater articulation of the linkage between education sector development and broader development ambitions and plans (National Vision and Poverty Eradication).
+a) Greater articulation of the linkage between education sector development and broader development ambitions and plans (National Vision and Poverty Eradication).
 
-- Preparation of detailed Policy Frameworks setting out sequenced guidelines for sector reform.
+b) Preparation of detailed Policy Frameworks setting out sequenced guidelines for sector reform.
 
-- Prioritisation and phasing of interventions.
+c) Prioritisation and phasing of interventions.
 
-- Preparation of a comprehensive ESP financing framework, including an assessment of requirements, existing recurrent and development budget commitments and analysis of likely financing shortfalls linked to the budgeting process and the MTEF.
+d) Preparation of a comprehensive ESP financing framework, including an assessment of requirements, existing recurrent and development budget commitments and analysis of likely financing shortfalls linked to the budgeting process and the MTEF.
 
-- Preparation of strategies for integrating existing activities into broader sector-wide programmes, both in terms of management of implementation and financing.
+e) Preparation of strategies for integrating existing activities into broader sector-wide programmes, both in terms of management of implementation and financing.
 
-- Preparation for decentralisation consistent with the Local Government Act 462 (1993).
+f) Preparation for decentralisation consistent with the Local Government Act 462 (1993).
 
-- Uniform and internally consistent financial management, monitoring, audit and procurement systems.
+g) Uniform and internally consistent financial management, monitoring, audit and procurement systems.
 
-- Joint Government and funding agency partnership arrangements, including regular monitoring and review processes against agreed performance indicators and reporting systems.
+h) Joint Government and funding agency partnership arrangements, including regular monitoring and review processes against agreed performance indicators and reporting systems.
 
-- Capacity building requirements at central, regional and district levels, taking into account of broader Civil Service Reform and Decentralisation initiatives.
+i) Capacity building requirements at central, regional and district levels, taking into account of broader Civil Service Reform and Decentralisation initiatives.
 
 2
 
@@ -2283,25 +2343,35 @@ page 3
 
 ### Work Programme - Policy Goals
 
-The Work Programme contains outcomes and activities that relate to the four ESP focal areas and ten policy goals: 1
+The Work Programme contains outcomes and activities that relate to the four ESP focal areas and ten policy goals:1
 
-1) Equitable Access Promote and Extend Pre-school Education Increase Access To and Participation in Education and Training Provide females with equal opportunities to access the full cycle of education 2 2) Quality of Education Improve the Quality of Teaching and Learning for enhanced Pupil/Student Achievement Improve the Quality of Academic and Research Programmes Promote Good Health and Environment in Schools and Institutions of Higher Learning Identify and Promote Education Programmes that will assist in the prevention of HIV/AIDS 2 3) Educational Management Educational Planning and Management 4) Science, Technology and TVET Technical and Vocational Education and Training Science and Technology Education and Training
+1) Equitable Access
+Promote and Extend Pre-school Education
+Increase Access To and Participation in Education and Training
+Provide females with equal opportunities to access the full cycle of education2
+
+2) Quality of Education
+Improve the Quality of Teaching and Learning for enhanced Pupil/Student Achievement
+Improve the Quality of Academic and Research Programmes
+Promote Good Health and Environment in Schools and Institutions of Higher Learning
+Identify and Promote Education Programmes that will assist in the prevention of HIV/AIDS2
+
+3) Educational Management
+Educational Planning and Management
+
+4) Science, Technology and TVET
+Technical and Vocational Education and Training
+Science and Technology Education and Training
 
 Together with the related policy objectives, these are set out in the following pages in the form of an action matrix.
 
-The activities within the matrix are assigned to particular MDAs within the Ministry Of Education.  A table of acronyms precedes the matrix in order that it can be easily comprehended.
+The activities within the matrix are assigned to particular MDAs within the Ministry Of Education. A table of acronyms precedes the matrix in order that it can be easily comprehended.
 
-1
+1 The organisation of the ten policy goals into four focal areas is explained in Volume I
 
-The organisation of the ten policy goals into four focal areas is explained in
+2 It should be noted that this is a new policy and as such will only appear as a separate policy objective for budgeting purposes from 2004 onwards
 
-Volume I
-
-It should be noted that this is a new policy and as such will only appear as
-
-2
-
-a separate policy objective for budgeting purposes from 2004 onwards It should also be noted that where a time frame is indicated this shows the year intended for the commencement of a particular activity.  In some cases the activity may be completed in one year but in others it may be ongoing over a longer period within, or exceeding, the duration of the plan.
+It should also be noted that where a time frame is indicated this shows the year intended for the commencement of a particular activity. In some cases the activity may be completed in one year but in others it may be ongoing over a longer period within, or exceeding, the duration of the plan.
 
 The activities within the Work Programme will run their proposed life-span; subsequently MOE will review their performance with the purpose of selectively integrating some or all of them into broader budgetary support initiatives.
 
@@ -2309,7 +2379,11 @@ The activities within the Work Programme will run their proposed life-span; subs
 
 The next step in the work programming process will be for the broad programme on the following pages to be selectively disaggregated as operational desk tools for appropriate officers in:
 
-· Schools · The District Education Offices · The Regional Education Offices · The Agencies of MOE, notably GES · MOE central offices
+• Schools
+• The District Education Offices
+• The Regional Education Offices
+• The Agencies of MOE, notably GES
+• MOE central offices
 
 3
 
@@ -2319,149 +2393,42 @@ The next step in the work programming process will be for the broad programme on
 
 ## Acronyms used in the Work Programme
 
-BECE
-
-Basic Education Certificate Examination
-
-AF
-
-AF(M)
-
-AGI
-
-AS
-
-BED
-
-BGL
-
-CAL
-
-CBO
-
-CD
-
-CPM
-
-CRDD
-
-CRT
-
-CSIR
-
-CWS
-
-DA
-
-DEO
-
-DG
-
-DP
-
-EA
-
-EFA
-
-EM
-
-EMIS
-
-ESTAC
-
-FBO
-
-FCUBE
-
-FI
-
-FP
-
-GAC
-
-GBDC
-
-GBT
-
-GCOC
-
-GER
-
-GETfund
-
-GLB
-
-GNAPS
-
-Administration and Finance Division GES
-
-Administration and Finance Division MoE
-
-Association of Ghana industries
-
-HIV/AIDS Secretariat MoE
-
-Basic Education Division
-
-Bureau of Ghana Languages
-
-Computer Assisted Learning
-
-Community Based Organisations
-
-Chief Director MoE
-
-Consultative Panel Meeting
-
-Curriculum Research and Development Division GES
-
-Criterion Referenced Tests
-
-Council for Scientific and Industrial Research
-
-Community Water and Sanitation
-
-District Assemblies
-
-District Education Office
-
-Director General GES
-
-Development Partners
-
-Equitable Access
-
-Education For All
-
-Educational Management
-
-Education Management Information System
-
-Education Sector Technical Advisory Committee
-
-Faith Based Organisations
-
-Free Compulsory Universal Basic Education
-
-Financial Institutions
-
-Focal Persons
-
-Ghanal Aids Commission
-
-Ghana Book Development Council
-
-Ghana Book Trust
-
-Ghana Chamber of Commerce
-
-Gross Enrolment Ratio
-
-Ghana Education Trust Fund
-
-Ghana Library Board
-
-Ghana National Association of Private Schools KG Kindergarten M&E Monitoring and Evaluation MDA Ministry Departments and Agencies MNS Minimum National Standards MoCT Ministry of Communications and Technology MoEST Ministry of Environment, Science and Technology MoF Ministry of Finance MoFA Ministry of Food and Agriculture MoH Ministry of Health MoI Ministry of Information MoMDE Ministry of Manpower Development and Employment MoWAC Ministry of Womens and Childrens Affairs MSP Minimum Standards of Performance NACVET National Committee for Vocational Education and Training NBSSI National Board of Small Scale Industries NCTE National Council for Tertiary Education NGO Non-Governmental Organisations NSS National Service Secretariat PBME Planning Budgeting Monitoring and Evaluation Division MoE PEF Private Enterprise Foundation PMT Performance Monitoring Tests PRU Public Relations Unit of GES PS Private Sector PTA Parent Teacher Association PTR Pupil Teacher Ratio QE Quality of Education REO Regional Education Office SA Subject Associations SED Secondary Education Division SEN Special Education Needs SHEP School Health Education Programme SL Supply and Logistics Division of GES SMC School Management Committee SMC School Management Committee SpED Special Education Division of GES SPIP School Performance Improvement Programme GNAT Ghana National Association of Teachers SRIMPR Statistics Research Information Management and Public Relations Division of MoE HIV/AID S Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome SS Scholarship Secretariat HQ Head Quarters SSS Senior Secondary School HRD (M) Human Resource Development Division of MoE SSSCE Senior Secondary School Certificate Examination HRMD Human Resource Management and Development Division of GES ST Science, Technology and TVET HT Head Teacher STEU Science and Technology Education Unit of GES ICT Information and Communication Technology SWAp Sector Wide Approach ICU Implementation Co-ordinating Unit TED Teacher Education Division of GES ID Inspectorate Division GES TEU Technical Exams Unit IEC Information, Education, Communication TOT Trainers of Trainers/Tutors IGO Inter-Governmental Organisation TTC Teacher Training College INSET In-Service Education of Teachers TVET Technical Vocational Education and Training Division GES JSS Junior Secondary School UBE Universal Basic Education
+BECE | Basic Education Certificate Examination | KG | Kindergarten
+AF | Administration and Finance Division GES | M&E | Monitoring and Evaluation
+AF(M) | Administration and Finance Division MoE | MDA | Ministry Departments and Agencies
+AGI | Association of Ghana industries | MNS | Minimum National Standards
+AS | HIV/AIDS Secretariat MoE | MoCT | Ministry of Communications and Technology
+BED | Basic Education Division | MoEST | Ministry of Environment, Science and Technology
+BGL | Bureau of Ghana Languages | MoF | Ministry of Finance
+CAL | Computer Assisted Learning | MoFA | Ministry of Food and Agriculture
+CBO | Community Based Organisations | MoH | Ministry of Health
+CD | Chief Director MoE | MoI | Ministry of Information
+CPM | Consultative Panel Meeting | MoMDE | Ministry of Manpower Development and Employment
+CRDD | Curriculum Research and Development Division GES | MoWAC | Ministry of Womens and Childrens Affairs
+CRT | Criterion Referenced Tests | MSP | Minimum Standards of Performance
+CSIR | Council for Scientific and Industrial Research | NACVET | National Committee for Vocational Education and Training
+CWS | Community Water and Sanitation | NBSSI | National Board of Small Scale Industries
+DA | District Assemblies | NCTE | National Council for Tertiary Education
+DEO | District Education Office | NGO | Non-Governmental Organisations
+DG | Director General GES | NSS | National Service Secretariat
+DP | Development Partners | PBME | Planning Budgeting Monitoring and Evaluation Division MoE
+EA | Equitable Access | PEF | Private Enterprise Foundation
+EFA | Education For All | PMT | Performance Monitoring Tests
+EM | Educational Management | PRU | Public Relations Unit of GES
+EMIS | Education Management Information System | PS | Private Sector
+ESTAC | Education Sector Technical Advisory Committee | PTA | Parent Teacher Association
+FBO | Faith Based Organisations | PTR | Pupil Teacher Ratio
+FCUBE | Free Compulsory Universal Basic Education | QE | Quality of Education
+FI | Financial Institutions | REO | Regional Education Office
+FP | Focal Persons | SA | Subject Associations
+GAC | Ghana Aids Commission | SED | Secondary Education Division
+GBDC | Ghana Book Development Council | SEN | Special Education Needs
+GBT | Ghana Book Trust | SHEP | School Health Education Programme
+GCOC | Ghana Chamber of Commerce | SL | Supply and Logistics Division of GES
+GER | Gross Enrolment Ratio | SMC | School Management Committee
+GETfund | Ghana Education Trust Fund | SMC | School Management Committee
+GLB | Ghana Library Board | SpED | Special Education Division of GES
+GNAPS | Ghana National Association of Private Schools | SPIP | School Performance Improvement Programme
 
 [[END OF PAGE 66]]
 
@@ -2470,6 +2437,20 @@ Ghana National Association of Private Schools KG Kindergarten M&E Monitoring and
 ESP Work Programme
 
 page 5
+
+GNAT | Ghana National Association of Teachers | SRIMPR | Statistics Research Information Management and Public Relations Division of MoE
+HIV/AIDS | Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome | SS | Scholarship Secretariat
+HQ | Head Quarters | SSS | Senior Secondary School
+HRD (M) | Human Resource Development Division of MoE | SSSCE | Senior Secondary School Certificate Examination
+HRMD | Human Resource Management and Development Division of GES | ST | Science, Technology and TVET
+HT | Head Teacher | STEU | Science and Technology Education Unit of GES
+ICT | Information and Communication Technology | SWAp | Sector Wide Approach
+ICU | Implementation Co-ordinating Unit | TED | Teacher Education Division of GES
+ID | Inspectorate Division GES | TEU | Technical Exams Unit
+IEC | Information, Education, Communication | TOT | Trainers of Trainers/Tutors
+IGO | Inter-Governmental Organisation | TTC | Teacher Training College
+INSET | In-Service Education of Teachers | TVET | Technical Vocational Education and Training Division GES
+JSS | Junior Secondary School | UBE | Universal Basic Education
 
 5
 
@@ -2488,8 +2469,8 @@ page 6
 
 Related Policy Objectives | Indicative Targets (Outcomes and Outputs) | Strategies and Activities | Time 3 Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-EA1 Provide pre- school education in collaboration with District Assemblies, the Private Sector, CBOs, NGOs and FBOs | • 70% of public primary schools with 2 KG classrooms attached by 2015 • GER at pre-school level of 86% by 2015 | 1. Conduct school mapping to determine extent of KG classes 2. Prepare guidelines on establishment of Kindergarten classes - including infrastructure and staffing requirements (and fees where appropriate i.e. private sector) 3. Distribute guidelines to public primary schools and District Assemblies with advice, to include at an appropriate point within the SPIP (School Performance Improvement Plan) 4. Distribute guidelines to private sector, appropriate CBOs, NGOs, FBOs 5. Conduct 'readiness-To-Build' survey 6. Conduct costs survey - assessing the cost of both public and private provision of pre-school 7. Begin KG classes construction on 'readiness' and necessity basis at the rate of at least three (3) pre-schools per year per district | 1. 2003 2. 2003 3. 2004 4. 2004 5. 2004 6. 2004 7. 2004 - 2015 | 1. BED 2. BED 3. BED 4. BED 5. BED 6. BED 7. BED | 1. SRIMPR, DP 2. PBME, DP 3. PBME, DA, DP 4. CBO, NGO, FBO, DP 5. PBME, AF, DP 6. PBME, AF,DP 7. PBME, AF, DP, CBO, NGO, FBO,
-EA2 Provide fee- free tuition in pre-schools | • Fee free tuition defined and circulated by December 2003 • National Policy on pre-school formulated and published | 1. Publish national policy on pre-school education 2. Draft Guidelines on fee-free tuition in public pre-schools 3. Circulate guidelines on fee free tuition to schools, communities and District Assemblies | 1. 2003 2. 2003 3. 2003 | 1. PBME 2. PBME 3. PBME | PS, DA 1. BED, DG, DP 2. BED, DG, DP PBME, AF 3. MoWAC, DA, CBO, NGO, FBO, DP
+EA1 Provide pre-school education in collaboration with District Assemblies, the Private Sector, CBOs, NGOs and FBOs | • 70% of public primary schools with 2 KG classrooms attached by 2015 • GER at pre-school level of 86% by 2015 | 1. Conduct school mapping to determine extent of KG classes 2. Prepare guidelines on establishment of Kindergarten classes - including infrastructure and staffing requirements (and fees where appropriate i.e. private sector) 3. Distribute guidelines to public primary schools and District Assemblies with advice, to include at an appropriate point within the SPIP (School Performance Improvement Plan) 4. Distribute guidelines to private sector, appropriate CBOs, NGOs, FBOs 5. Conduct 'readiness-To-Build' survey 6. Conduct costs survey - assessing the cost of both public and private provision of pre-school 7. Begin KG classes construction on 'readiness' and necessity basis at the rate of at least three (3) pre-schools per year per district | 1. 2003 2. 2003 3. 2004 4. 2004 5. 2004 6. 2004 7. 2004 - 2015 | 1. BED 2. BED 3. BED 4. BED 5. BED 6. BED 7. BED | 1. SRIMPR, DP 2. PBME, DP 3. PBME, DA, DP 4. CBO, NGO, FBO, DP 5. PBME, AF, DP 6. PBME, AF,DP 7. PBME, AF, DP, CBO, NGO, FBO, PS, DA
+EA2 Provide fee-free tuition in pre-schools | • Fee free tuition defined and circulated by December 2003 • National Policy on pre-school formulated and published | 1. Publish national policy on pre-school education 2. Draft Guidelines on fee-free tuition in public pre-schools 3. Circulate guidelines on fee free tuition to schools, communities and District Assemblies | 1. 2003 2. 2003 3. 2003 | 1. PBME 2. PBME 3. PBME | 1. BED, DG, DP 2. BED, DG, DP PBME, AF 3. MoWAC, DA, CBO, NGO, FBO, DP
 EA3 Provide for the preparation (training) and upgrading of pre-school teachers and caregivers | • Curriculum for pre-service teacher training in pre-school education developed • Teacher training programmes to include training in pre-school education by September 2005 • INSET courses to train existing teachers in pre-school instruction beginning 2005 • 43% Increase in enrolments in TTCs by 2015 | 1. Determine curriculum for pre-service training of teachers/caregivers 2. Publish and circulate curriculum 3. Train TOTs to use the new curriculum 4. Develop INSET course 5. Train INSET instructors 6. Prepare and publish IEC materials to promote teaching as a career 7. Recruit and deploy teachers | 1. 2004 2. 2005 3. 2005 4. 2005 5. 2005 6. 2003 7. annual | 1. CRDD 2. CRDD 3. CRDD 4. TED 5. TED 6. BED 7. HRMD | 1. TED, BED, DP 2. TED 3. TED, HRMD 4. BED 5. BED, DP 6. PRU, TED, DP 7. BED,TED
 
 > 3 This shows the year intended for the commencement of a particular activity.  In many cases the activity can be expected to be completed in one year but in others it may be ongoing over a longer period within, or exceeding, the duration of the plan
@@ -2524,9 +2505,9 @@ page 8
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-EA7 Provide equitable educational opportunities | • 50% female enrolment in Primary schools by 2005 • Retention rates of females and males on a par by 2010 • Full enrolment of hard-to-reach and out of school children by 2015 • Integrate all children with non-severe SENs in mainstream schools by 2015 | 1. Conduct IEC programmes to raise awareness of the importance of girls education 2. Enforce policies on non-repetition in all cases, except prolonged illness and other exceptional circumstances 3. Support hard-to-reach children and complementary/alternative education programmes 4. Provide specialised training in multi-grade teaching for rural areas and reward teachers accordingly 5. Provide training for all teachers in SENs 6. Design and implement programmes for the integration of complementary schools with formal schools 7. Redesign school infrastructure to facilitate the accommodation of pupils/students with | 1. 2003 2. 2003- 2015 3. 2003- 2015 4. 2004 5. 2004 6. 2003- 2015 7. 2004 | 1. BED 2. ID 3. BED 4. TED 5. TED 6. BED 7. BED | 1. MoWAC, DP NGO, PRU 2. BED, SED, TVET 3. NGO, DA, DP, CBO, FBO 4. BED, DA, BGO, CBO, DP 5. SpED, DP 6. NGO, CBO, FBO, DA, DP 7. PBME, AF, SpED
-EA8 Provide conditions for universal functional literacy | • Agreed national functional literacy test validated and in use by 2006 • 5% sample of adult population tested by December 2008 to determine rate of literacy • Identified and targeted literacy programmes in place and operational by 2008. • Literacy rate improved by 3% points per year from 2008 to 2015 | special needs 1. Design national functional literacy test 2. Conduct national functional literacy test 3. Design and implement functional literacy programmes in 15 Ghanaian languages. 4. Evaluate the functional literacy programmes implemented 5. Provide incentive package for volunteer facilitators 6. Provide material support to learners with special needs 7. Review curriculum to make it relevant to the needs of the learners 8. Conduct training in micro-credit scheme for learners 9. Establish community reading centres 10. Provide solar panels to communities | 1. 2004 2. 2005 3. 2005 4. 2005 5. 2003- 2015 6. 2003- 2015 7. 2005 8. 2003 9. 2005 10. 2005 | 1. NFED 2. NFED 3. NFED 4. NFED 5. NFED 6. NFED 7. NFED 8. NFED 9. GLB 10. NFED | 1. NGO, DP, SRIMPR 2. NGO, DP 3. NGO, DP 4. NGO, PBME, DP 5. NGO, DP 6. NGO, SpED, DP 7. NGO, DP 8. NGO, DP 9. NFED, NGO, DA, PBME, DP 10.NGO, DP 11.NGO, DP
-EA9 Prioritise the disadvantaged in society | • Support systems in place for children with SENs by 2015 • Increase attendance of those with special needs in schools to 50% in 2008, 80% in 2012 and 100% by 2015 • IEC programme for disadvantaged in place by 2005 • An inclusive education system achieved by 2015, including girls and boys with | 11. Publish community rural newspaper 1. Evaluate, and build upon, programmes for the disadvantaged that are already in operation, including complementary and alternative education programmes 2. Reach and integrate excluded children (out-of- school, hard-to-reach, truants) intra-cycle dropouts and adolescent mothers within the formal system where possible 3. Organise screening and identification of children with special needs | 11. 2005 1. 2004 2. 2003- 2015 3. 2005 | 11. NFED 1. PBME 2. BED 3. SpED | 1. BED, NFED, NGO, SpED, MoWAC, DP 2. MoWAC, DA, NGO, DP MoMDE 3. MoH, NGO, BED, DP,
+EA7 Provide equitable educational opportunities | • 50% female enrolment in Primary schools by 2005 • Retention rates of females and males on a par by 2010 • Full enrolment of hard-to-reach and out of school children by 2015 • Integrate all children with non-severe SENs in mainstream schools by 2015 | 1. Conduct IEC programmes to raise awareness of the importance of girls education 2. Enforce policies on non-repetition in all cases, except prolonged illness and other exceptional circumstances 3. Support hard-to-reach children and complementary/alternative education programmes 4. Provide specialised training in multi-grade teaching for rural areas and reward teachers accordingly 5. Provide training for all teachers in SENs 6. Design and implement programmes for the integration of complementary schools with formal schools 7. Redesign school infrastructure to facilitate the accommodation of pupils/students with special needs | 1. 2003 2. 2003- 2015 3. 2003- 2015 4. 2004 5. 2004 6. 2003- 2015 7. 2004 | 1. BED 2. ID 3. BED 4. TED 5. TED 6. BED 7. BED | 1. MoWAC, DP NGO, PRU 2. BED, SED, TVET 3. NGO, DA, DP, CBO, FBO 4. BED, DA, BGO, CBO, DP 5. SpED, DP 6. NGO, CBO, FBO, DA, DP 7. PBME, AF, SpED
+EA8 Provide conditions for universal functional literacy | • Agreed national functional literacy test validated and in use by 2006 • 5% sample of adult population tested by December 2008 to determine rate of literacy • Identified and targeted literacy programmes in place and operational by 2008. • Literacy rate improved by 3% points per year from 2008 to 2015 | 1. Design national functional literacy test 2. Conduct national functional literacy test 3. Design and implement functional literacy programmes in 15 Ghanaian languages. 4. Evaluate the functional literacy programmes implemented 5. Provide incentive package for volunteer facilitators 6. Provide material support to learners with special needs 7. Review curriculum to make it relevant to the needs of the learners 8. Conduct training in micro-credit scheme for learners 9. Establish community reading centres 10. Provide solar panels to communities 11. Publish community rural newspaper | 1. 2004 2. 2005 3. 2005 4. 2005 5. 2003- 2015 6. 2003- 2015 7. 2005 8. 2003 9. 2005 10. 2005 11. 2005 | 1. NFED 2. NFED 3. NFED 4. NFED 5. NFED 6. NFED 7. NFED 8. NFED 9. GLB 10. NFED 11. NFED | 1. NGO, DP, SRIMPR 2. NGO, DP 3. NGO, DP 4. NGO, PBME, DP 5. NGO, DP 6. NGO, SpED, DP 7. NGO, DP 8. NGO, DP 9. NFED, NGO, DA, PBME, DP 10. NGO, DP 11. NGO, DP
+EA9 Prioritise the disadvantaged in society | • Support systems in place for children with SENs by 2015 • Increase attendance of those with special needs in schools to 50% in 2008, 80% in 2012 and 100% by 2015 • IEC programme for disadvantaged in place by 2005 • An inclusive education system achieved by 2015, including girls and boys with | 1. Evaluate, and build upon, programmes for the disadvantaged that are already in operation, including complementary and alternative education programmes 2. Reach and integrate excluded children (out-of-school, hard-to-reach, truants) intra-cycle dropouts and adolescent mothers within the formal system where possible 3. Organise screening and identification of children with special needs | 1. 2004 2. 2003- 2015 3. 2005 | 1. PBME 2. BED 3. SpED | 1. BED, NFED, NGO, SpED, MoWAC, DP 2. MoWAC, DA, NGO, DP MoMDE 3. MoH, NGO, BED, DP,
 
 8
 
@@ -2561,8 +2542,8 @@ EA11 Promote Distance Education | • Brochures and courses for Distance Educati
 
 Related Policy Objectives | Indicative Targets (Outcomes and Outputs) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-EA12 Promote gender equity in enrolment and retention | • 50% female enrolment in Primary schools by 2005 • Retention rates of females and males on a par by 2010 | 1. Conduct IEC programmes to raise awareness of the importance of girls education 2. Enforce policies on non-repetition in all cases, except prolonged illness and other exceptional circumstances 3. Institute and ensure proper functioning of scholarship/district sponsorship programmes for girls 4. Encourage the establishment of girls' clubs and promote the use of role models, both within schools and communities | 1. 2003 2. 2003 3. ongoing 4. ongoing | 1. BED 2. ID 3. BED (GEU) 4. BED (GEU) 1. 2. 3. 4. | MOWAC, DP, NGO, PRU BED, SED, TVET PBME,AF, DA, DEO (DGET), REO (RGET), NGO DEO (DGET), REO (RGET), NGO, DP, DA
-EA13 Prioritise female education at all levels, including technical and vocational education | • Enrolments and completion rates of boys and girls at parity at all levels by 2015 • Gender parity in primary schools by 2005 and Junior Secondary Schools by 2008 • Gender-appropriate technical and vocational courses introduced in schools by 2005 | 1. Eliminate gender stereotyping in teacher preparation and in teaching materials 2. Modernise technical courses, making them relevant and gender-free 3. Support access programmes for females at all levels, particularly at the basic level and entry into TTCs 4. Design and implement IEC and sensitisation programmes to raise communities' awareness of the value of formal education for girls, particularly at the basic level 5. Design and implement a quota system to enable girls from rural areas to enter SSS 6. Provide suitable school facilities for females (students and teachers) at all levels 7. Increase female enrolments at tertiary levels | 1. 2003 2. 2005 3. 2003 4. 2003 5. 2004 6. 2004 7. 2003 | 1. CRDD 2. CRDD 3. PBME 4. BED 5. GES 6. GES 7. NCTE 1. 2. 3. 4. 5. 6. | MOWAC, BED, TED TVET, MOWAC TED, NCTE, SED, TVET, BED, DP MOWAC, NGO, PRO, DA, DP DP, NGO, DA 7.
+EA12 Promote gender equity in enrolment and retention | • 50% female enrolment in Primary schools by 2005 • Retention rates of females and males on a par by 2010 | 1. Conduct IEC programmes to raise awareness of the importance of girls education 2. Enforce policies on non-repetition in all cases, except prolonged illness and other exceptional circumstances 3. Institute and ensure proper functioning of scholarship/district sponsorship programmes for girls 4. Encourage the establishment of girls' clubs and promote the use of role models, both within schools and communities | 1. 2003 2. 2003 3. ongoing 4. ongoing | 1. BED 2. ID 3. BED (GEU) 4. BED (GEU) | 1. MOWAC, DP, NGO, PRU 2. BED, SED, TVET 3. PBME,AF, DA, DEO (DGET), REO (RGET), NGO 4. DEO (DGET), REO (RGET), NGO, DP, DA
+EA13 Prioritise female education at all levels, including technical and vocational education | • Enrolments and completion rates of boys and girls at parity at all levels by 2015 • Gender parity in primary schools by 2005 and Junior Secondary Schools by 2008 • Gender-appropriate technical and vocational courses introduced in schools by 2005 | 1. Eliminate gender stereotyping in teacher preparation and in teaching materials 2. Modernise technical courses, making them relevant and gender-free 3. Support access programmes for females at all levels, particularly at the basic level and entry into TTCs 4. Design and implement IEC and sensitisation programmes to raise communities' awareness of the value of formal education for girls, particularly at the basic level 5. Design and implement a quota system to enable girls from rural areas to enter SSS 6. Provide suitable school facilities for females (students and teachers) at all levels 7. Increase female enrolments at tertiary levels | 1. 2003 2. 2005 3. 2003 4. 2003 5. 2004 6. 2004 7. 2003 | 1. CRDD 2. CRDD 3. PBME 4. BED 5. GES 6. GES 7. NCTE | 1. MOWAC, BED, TED 2. TVET, MOWAC 3. TED, NCTE, SED, TVET, BED, DP 4. MOWAC, NGO, PRO, DA, DP 5. 6. DP, NGO, DA 7.
 
 10
 
@@ -2574,9 +2555,9 @@ ESP Work Programme
 
 page 11
 
-EA14 Promote the recruitment and deployment of female teachers | • IEC in place for teacher recruitment, especially females by 2004 • Provide motivational package to teachers in hardship areas by 2004 | 1. Implement district sponsorship programme for teacher trainees in all districts 2. Support teacher deployment in deprived areas, particularly females 3. Provide 'deprived area incentive package' (e.g. teacher accommodation, transport and services) 4. Support volunteer teacher programmes in rural areas, with an emphasis on local recruitment (especially of females) | 1. ongoing 2. 2003 3. 2004 4. 2003 | 1. TED 2. AF 3. AF 4. BED | 1. DEO, DA 2. DEO, REO, NGO, DA, DP 3. DEO, REO, NGO, DA, DP 4. DP, NGO, ID, PBME, CBO, DEO,
+EA14 Promote the recruitment and deployment of female teachers | • IEC in place for teacher recruitment, especially females by 2004 • Provide motivational package to teachers in hardship areas by 2004 | 1. Implement district sponsorship programme for teacher trainees in all districts 2. Support teacher deployment in deprived areas, particularly females 3. Provide 'deprived area incentive package' (e.g. teacher accommodation, transport and services) 4. Support volunteer teacher programmes in rural areas, with an emphasis on local recruitment (especially of females) | 1. ongoing 2. 2003 3. 2004 4. 2003 | 1. TED 2. AF 3. AF 4. BED | 1. DEO, DA 2. DEO, REO, NGO, DA, DP 3. DEO, REO, NGO, DA, DP 4. DP, NGO, ID, PBME, CBO, DEO, REO
 --- | --- | --- | --- | --- | ---
-EA15 Strengthen the Girls Education Unit including Region/Distric t Girls Education Teams | • GEU Work Programme in place and being implemented at al levels - central, regional, district. • Annual review of GEU by HRMD • Annual National Girls Education reports including relevant indicators completed/published • Highly trained and motivated GEU staff in place at all levels • Girl friendly guidance and counselling system in place and procedures implemented | 1. Maintain and update statistical database of relevant indicators and establish an ongoing monitoring and reporting system 2. Provide ongoing training to all GEU staff on community mobilisation, guidance and counselling, planning and implementation and other relevant activities to enhance performance of the GEU 3. Coordinate GEU and Guidance and Counselling (G&C) to establish procedures and systems related to girls education - e.g. to sanction sexual harassment or bullying of female pupils/students by male peers | 1. ongoing 2. ongoing 3. 2004 | 1. BED (GEU) 2. BED (GEU) 3. BED | REO 1. SRIMPR, HRMD, PBME 2. AF, HRMD, DP, NGO 3. GC, DP, NGO, DA, REO, DEO, HRMD
+EA15 Strengthen the Girls Education Unit including Region/District Girls Education Teams | • GEU Work Programme in place and being implemented at all levels - central, regional, district. • Annual review of GEU by HRMD • Annual National Girls Education reports including relevant indicators completed/published • Highly trained and motivated GEU staff in place at all levels • Girl friendly guidance and counselling system in place and procedures implemented | 1. Maintain and update statistical database of relevant indicators and establish an ongoing monitoring and reporting system 2. Provide ongoing training to all GEU staff on community mobilisation, guidance and counselling, planning and implementation and other relevant activities to enhance performance of the GEU 3. Coordinate GEU and Guidance and Counselling (G&C) to establish procedures and systems related to girls education - e.g. to sanction sexual harassment or bullying of female pupils/students by male peers | 1. ongoing 2. ongoing 3. 2004 | 1. BED (GEU) 2. BED (GEU) 3. BED | 1. SRIMPR, HRMD, PBME 2. AF, HRMD, DP, NGO 3. GC, DP, NGO, DA, REO, DEO, HRMD
 
 11
 
@@ -2624,8 +2605,8 @@ page 14
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-QE5 Improve the relevance of the curriculum | • National curriculum at basic level published and circulated to all schools by end of 2003 • Complete revision of SSS curriculum and publish by 2004 • Basic level teachers trained in the new curriculum by 2004 • SSS level teachers trained in the new curricula by 2006 • New curriculum examined from 2004 onwards for BECE and 2005 onwards for SSSCE • Next revision of basic curriculum to be in 2006 | 1. Review national curricula at all levels in collaboration with key stakeholders to ensure relevance to national needs and conditions and remove bias for example related to gender or special needs 2. Print and distribute new syllabi to schools 3. Develop/up-grade teacher training programmes (INSET and PRESET) to train teachers in the new curricula 4. Conduct examinations based upon new curricula 5. Institutionalise remedial programmes as a core part of the basic education sub-sector 6. Ensure textbooks are revised and developed in line with new curricula 7. Establish Curriculum Oversight Committee within the MoE 8. Redesign academic training at all levels to integrate rigorous entrepreneurial training and career counselling into the academic | 1. 2003 - basic 2004- SSS 2. 2003- basic 2004- SSS 3. 2004 4. 2004 5. 2004 ongoing 6. 2004 7. 2003 ongoing 8. 2005 | 1. CRDD/ NCTE 2. CRDD 3. TED 4. DG 5. BED 6. CRDD 7. CD 8. CRDD | 1. GNAT, SA, SMC, PS, WAEC, FBO, NGO, CBO 2. DEO, REO, S&L, BED, SED, TVET 3. CRDD, HRMD 4. WAEC, TEU, CRDD 5. REO, DEO 6. GBDC 7. DG, PS, NGO, FBO, CBO, TED, SpED 8. GNAT, SA, SMC, PS, WAEC, FBO, NGO, CBO
-QE6 Develop a reliable pupil/ student/ learners testing and assessment system | • MNS test agreed, standardised and validated by December 2004 • First cohort/sample of students (25%) tested for competency on single agreed MNS test by December 2005; sample rising to 30% by 2015 | programme at all levels. 1. Review current approaches/tests to evaluate learning outcomes at primary and JSS levels by developing learning standards and learning targets with particular emphasis on P1-P3 2. Adopt and agree a single Competency-Based Approach to evaluate learning outcomes at primary and JSS levels by defining and adopting minimum national standards (MNS) for students at agreed stages (P3, P6, JSS2) 3. Provide feedback to inspectors and community on the outcomes of all tests | 1. 2004 2. 2004 3. 2003 ongoing | 1. CRDD 2. CD 3. CRDD | 1. ID 2. PBME, ID, CRDD, BED 3. ID, REO, DEO, BED
+QE5 Improve the relevance of the curriculum | • National curriculum at basic level published and circulated to all schools by end of 2003 • Complete revision of SSS curriculum and publish by 2004 • Basic level teachers trained in the new curriculum by 2004 • SSS level teachers trained in the new curricula by 2006 • New curriculum examined from 2004 onwards for BECE and 2005 onwards for SSSCE • Next revision of basic curriculum to be in 2006 | 1. Review national curricula at all levels in collaboration with key stakeholders to ensure relevance to national needs and conditions and remove bias for example related to gender or special needs 2. Print and distribute new syllabi to schools 3. Develop/up-grade teacher training programmes (INSET and PRESET) to train teachers in the new curricula 4. Conduct examinations based upon new curricula 5. Institutionalise remedial programmes as a core part of the basic education sub-sector 6. Ensure textbooks are revised and developed in line with new curricula 7. Establish Curriculum Oversight Committee within the MoE 8. Redesign academic training at all levels to integrate rigorous entrepreneurial training and career counselling into the academic programme at all levels. | 1. 2003 - basic 2004- SSS 2. 2003- basic 2004- SSS 3. 2004 4. 2004 5. 2004 ongoing 6. 2004 7. 2003 ongoing 8. 2005 | 1. CRDD/ NCTE 2. CRDD 3. TED 4. DG 5. BED 6. CRDD 7. CD 8. CRDD | 1. GNAT, SA, SMC, PS, WAEC, FBO, NGO, CBO 2. DEO, REO, S&L, BED, SED, TVET 3. CRDD, HRMD 4. WAEC, TEU, CRDD 5. REO, DEO 6. GBDC 7. DG, PS, NGO, FBO, CBO, TED, SpED 8. GNAT, SA, SMC, PS, WAEC, FBO, NGO, CBO
+QE6 Develop a reliable pupil/ student/ learners testing and assessment system | • MNS test agreed, standardised and validated by December 2004 • First cohort/sample of students (25%) tested for competency on single agreed MNS test by December 2005; sample rising to 30% by 2015 | 1. Review current approaches/tests to evaluate learning outcomes at primary and JSS levels by developing learning standards and learning targets with particular emphasis on P1-P3 2. Adopt and agree a single Competency-Based Approach to evaluate learning outcomes at primary and JSS levels by defining and adopting minimum national standards (MNS) for students at agreed stages (P3, P6, JSS2) 3. Provide feedback to inspectors and community on the outcomes of all tests | 1. 2004 2. 2004 3. 2003 ongoing | 1. CRDD 2. CD 3. CRDD | 1. ID 2. PBME, ID, CRDD, BED 3. ID, REO, DEO, BED
 
 14
 
@@ -2655,7 +2636,7 @@ page 16
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-tertiary education 9. Organise tests to measure literacy and numeracy standards in P3 and P6 according to MNS set | 9. 2005 | 9. CRDD | 9. BED, SED, ID, DP
+ |  | tertiary education 9. Organise tests to measure literacy and numeracy standards in P3 and P6 according to MNS set | 9. 2005 | 9. CRDD | 9. BED, SED, ID, DP
 
 #### Improve the Quality of Academic and Research Programmes (Policy Goal 7)
 
@@ -2679,7 +2660,7 @@ page 17
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
 QE12 Expand and improve School Health, Sanitation and Safety systems | • Expanded and improved School Health and School Hygiene systems at all levels to 60% coverage by 2008 • Guidelines for School Health, Sanitation and Safety published and distributed by end 2003 • All schools rehabilitated in terms of safety, sanitation and health by 2015 • Provide first aid facilities in all schools by 2015 • Potable water available in all schools by 2015 | 1. Develop and publish guidelines on minimum standards for health, sanitation and safety in institutions at all levels of education 2. Provide adequate safety, sanitation and basic health care facilities and access for children with disabilities, in accordance with guidelines 3. Establish effective guidance and counselling systems for pupil/student welfare at all levels 4. Ensure each pre-tertiary institution has a designated school health officer and that this person is trained in basic first aid 5. Ensure that there is potable water within 500m of all school sites and that there are adequate sanitation facilities on site (especially for girls and women) at all pre-tertiary institutions | 1. 2003 2. 2004 3. 2003 4. 2004 5. 2003- 2015 | 1. SHEP 2. SHEP 3. SHEP 4. SHEP 5. AF | 1. NCTE, MoH DP 2. SpED, MoH, AF, DP 3. GCU, NCTE, MoH, NGO DP 4. MoH, NGO, DEO DP 5. SHEP, DEO, PBME, CWS, NSS, DA, DP NGO
-QE13 Encourage the participation of Private Sector, CBOs, NGOs, FBOs, DPs in the Integrated School Health system | • 40% of all health funding from non- governmental sources by 2010 • IEC Health programmes in place by 2005 | 1. Establish linkages with Non-Government bodies to work with government on School Health programmes. 2. Collect and publish data on the health and nutritional status of children in basic schools 3. Design and implement IEC Health Programmes to educate and disseminate information in the area of school health. | 1. 2003 2. 2004 3. 2004 | 1. SHEP 2. SHEP 3. SHEP | 1. PS, CBO, NGO, FBO, DP, MoH 2. SRIMPR, MoH, NGO, DP 3. PRU, DEO
+QE13 Encourage the participation of Private Sector, CBOs, NGOs, FBOs, DPs in the Integrated School Health system | • 40% of all health funding from non-governmental sources by 2010 • IEC Health programmes in place by 2005 | 1. Establish linkages with Non-Government bodies to work with government on School Health programmes. 2. Collect and publish data on the health and nutritional status of children in basic schools 3. Design and implement IEC Health Programmes to educate and disseminate information in the area of school health. | 1. 2003 2. 2004 3. 2004 | 1. SHEP 2. SHEP 3. SHEP | 1. PS, CBO, NGO, FBO, DP, MoH 2. SRIMPR, MoH, NGO, DP 3. PRU, DEO
 
 #### Identify and promote education programmes that will assist in the prevention of HIV/AIDS (Policy Goal 9)
 
@@ -2699,7 +2680,7 @@ page 18
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-educate, and disseminate information, in the area of HIV/AIDS prevention and management 6. Train pupil/student peer educators 7. Appoint focal person to implement HIV/AIDS programmes within the workplace 8. Train workplace peer educators and focal persons 9. Provide logistical support to HIV/AIDS Secretariat (MoE) 10. Train staff in HIV/AIDS secretariat 11. Organise advocacy workshops to high level management (political leaders and education executives) to increase commitment 12. Develop manual and guidelines for the operation of NGOs working on HIV/AIDS programmes in schools and institutions 13. Review manuals for workplace (officers) on HIV/AIDS 14. Provide material support to those children orphaned as a result of HIV/AIDS, in order that they can complete their education 15. Provide guidance and counselling systems in schools which provide support and assistance to pupils experiencing problems such as sexual harassment or bullying, including that of girl pupils by male peers and/or teachers | 6. 2004 7. 2003 8. 2004 9. 2003 10. 2004 11. 2004 12. 2003 13. 2003 14. 2004 15. 2003 | /NCTE 6. SHEP 7. AS 8. AS 9. PBME 10. HRMD 11. AS 12. AS 13. AS 14. AF 15. BED (GEU) | DA, GAC, NGO 6. BED, SED, NCTE, DP 7. SHEP, heads of agencies 8. GAC, NACP DP 9. GAC, AF(M) 10.GAC 11.DA, DP, DEO, REO, FP 12.SHEP, NGO, GHANET, DP, GAC 13.HRD (M), FP 14.PBME, BED, NGO, DA, DP DEO 15.PBME,AF, HRMD, DA, DEO (DGET), REO (RGET), NGO
+ |  | educate, and disseminate information, in the area of HIV/AIDS prevention and management 6. Train pupil/student peer educators 7. Appoint focal person to implement HIV/AIDS programmes within the workplace 8. Train workplace peer educators and focal persons 9. Provide logistical support to HIV/AIDS Secretariat (MoE) 10. Train staff in HIV/AIDS secretariat 11. Organise advocacy workshops to high level management (political leaders and education executives) to increase commitment 12. Develop manual and guidelines for the operation of NGOs working on HIV/AIDS programmes in schools and institutions 13. Review manuals for workplace (officers) on HIV/AIDS 14. Provide material support to those children orphaned as a result of HIV/AIDS, in order that they can complete their education 15. Provide guidance and counselling systems in schools which provide support and assistance to pupils experiencing problems such as sexual harassment or bullying, including that of girl pupils by male peers and/or teachers | 6. 2004 7. 2003 8. 2004 9. 2003 10. 2004 11. 2004 12. 2003 13. 2003 14. 2004 15. 2003 | /NCTE 6. SHEP 7. AS 8. AS 9. PBME 10. HRMD 11. AS 12. AS 13. AS 14. AF 15. BED (GEU) | DA, GAC, NGO 6. BED, SED, NCTE, DP 7. SHEP, heads of agencies 8. GAC, NACP DP 9. GAC, AF(M) 10.GAC 11.DA, DP, DEO, REO, FP 12.SHEP, NGO, GHANET, DP, GAC 13.HRD (M), FP 14.PBME, BED, NGO, DA, DP DEO 15.PBME,AF, HRMD, DA, DEO (DGET), REO (RGET), NGO
 QE15 Integrate HIV/AIDS in the curriculum | • See QE5 • Every Secondary and Tertiary level institution with a trained counsellor by 2005 • Every JSS with one teacher designated and trained as an HIV/AIDS counsellor by 2005 | 1. Develop special HIV/AIDS modules for insertion into all syllabuses where appropriate 2. Introduce HIV/AIDS programmes in teacher training syllabuses 3. Train HIV/AIDS counsellors and care teams to operate in JSS, SSS and tertiary institutions 4. Develop special sexual and reproductive health modules, to be inserted into the curriculum | 1. 2003 2. 2004 3. 2004 4. 2003 | 1. CRDD 2. TED/ NCTE 3. SHEP/ NCTE 4. CRDD | 1. SHEP, MoH, NGO, DO, NAC 2. CRDD, DP, SHEP, MoH, NAC 3. MoH, NGO, NAC 4. BED, SED, SHEP, MoH, NGO, DP, NAC, SED
 
 18
@@ -2716,9 +2697,9 @@ page 19
 
 #### Strengthen and Improve Educational Planning and Management (Policy Goal 5)
 
-Related Policy Objectives | Indicative Targets | Strategies and Activities | Time Frame | Unit-Agency | Collaborating MDAs
+Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-EM1 Identify, clarify and strengthen management roles at all levels of the system | (Outputs and Outcomes) • New Education Act passed by 2004 • IEC programme for the Education Bill in place 2004 • Operational Manuals for officers in central ministry/agencies/regions/districts developed and in place by 2005 • All desk officers at all levels have supervised and agreed Work Programmes in place by December 2003 and reviewed annually thereafter • HRD and Capacity Building programme designed, in place and operational during the period 2003 - 2008 • All schools have a School Performance Improvement Plan (SPIP)(agreed with either SMC/BOG) in place by December 2004 and operational by 2005 • Monitoring and evaluation system developed by end 2003 • Annual appraisal/review and audit systems at all levels in place by 2004 • First Annual Review of Sector Performance to take place in November 2004, and annually thereafter | 1. Complete Draft Education Bill and submit to Cabinet by December 2003 2. Clarify the roles of the Ministry of Education and the GES 3. Strengthen monitoring mechanisms and accountability measures including performance appraisal and institutional performance reviews for management at ministry, agency, regional, district, school and institutional levels 4. Establish SWAp Management/ Communication system, ensuring quarterly meeting of ESTAC and monthly meetings of EA, QE, EM and ST Thematic groups 5. Develop public awareness programmes (IEC) on the basic elements of the Education Act to sensitise all stakeholders on their rights and responsibilities in the provision, management and administration of education 6. Identify HRD needs and competencies at all levels of the management system (central and non-central) and provide targeted training to upgrade the technical competence of selected staff 7. Prepare guidelines for drawing up School Improvement plans and distribute to districts and schools 8. Strengthen pre-school unit of GES to ensure the capacity to implement the expansion 9. Identify 'good practices' for all levels of management 10. Prepare and publish operational manuals, including guidelines for harmonising 'good practice', for use at all levels of educational management 11. Prepare detailed work programmes for desk officers at all levels of management 12. Systematic management training of headteachers 13. Enforcement of all rules and regulations pertaining to the delivery of education | 1. 2003 2. 2003 3. 2003 - 2005 4. 2003 5. 2004 6. 2003 7. 2003 8. 2003 9. 2003- 2004 10. 2004 11. 2003 12. 2003 ongoing 13. 2003 ongoing | responsible 1. PBME 2. CD 3. PBME 4. CD 5. PBME 6. HRD(M) 7. AF 8. BED 9. HRD(M) 10. HRD (M) 11. PBME 12. HRMD 13. ID | 1. All MoE 2. PBME, DG 3. AF, HRD(M), HRMD, NCTE, DEO, REO, SRIMPR 4. PBME, AF(M), HRD(M), SRIMPR PRO, SRIMPR 5. HRMD, NCTE 6. PBME, BED, SED, ICU, SRIMPR, DP, 7. HRD, AF, DEO, NGO 8. NCTE, DEO, REO, DP, HRMD, NGO 9. NCTE, DEO, REO, DP, HRMD, NGO 10. All MoE incl. DEO REO 11. REO, DEO, DA, BED, NGO, DP 12. DEO, REO, HRMD, DA, DP, NGO 13. All MDAs
+EM1 Identify, clarify and strengthen management roles at all levels of the system | • New Education Act passed by 2004 • IEC programme for the Education Bill in place 2004 • Operational Manuals for officers in central ministry/agencies/regions/districts developed and in place by 2005 • All desk officers at all levels have supervised and agreed Work Programmes in place by December 2003 and reviewed annually thereafter • HRD and Capacity Building programme designed, in place and operational during the period 2003 - 2008 • All schools have a School Performance Improvement Plan (SPIP)(agreed with either SMC/BOG) in place by December 2004 and operational by 2005 • Monitoring and evaluation system developed by end 2003 • Annual appraisal/review and audit systems at all levels in place by 2004 • First Annual Review of Sector Performance to take place in November 2004, and annually thereafter | 1. Complete Draft Education Bill and submit to Cabinet by December 2003 2. Clarify the roles of the Ministry of Education and the GES 3. Strengthen monitoring mechanisms and accountability measures including performance appraisal and institutional performance reviews for management at ministry, agency, regional, district, school and institutional levels 4. Establish SWAp Management/ Communication system, ensuring quarterly meeting of ESTAC and monthly meetings of EA, QE, EM and ST Thematic groups 5. Develop public awareness programmes (IEC) on the basic elements of the Education Act to sensitise all stakeholders on their rights and responsibilities in the provision, management and administration of education 6. Identify HRD needs and competencies at all levels of the management system (central and non-central) and provide targeted training to upgrade the technical competence of selected staff 7. Prepare guidelines for drawing up School Improvement plans and distribute to districts and schools 8. Strengthen pre-school unit of GES to ensure the capacity to implement the expansion 9. Identify 'good practices' for all levels of management 10. Prepare and publish operational manuals, including guidelines for harmonising 'good practice', for use at all levels of educational management 11. Prepare detailed work programmes for desk officers at all levels of management 12. Systematic management training of headteachers 13. Enforcement of all rules and regulations pertaining to the delivery of education | 1. 2003 2. 2003 3. 2003 - 2005 4. 2003 5. 2004 6. 2003 7. 2003 8. 2003 9. 2003- 2004 10. 2004 11. 2003 12. 2003 ongoing 13. 2003 ongoing | 1. PBME 2. CD 3. PBME 4. CD 5. PBME 6. HRD(M) 7. AF 8. BED 9. HRD(M) 10. HRD (M) 11. PBME 12. HRMD 13. ID | 1. All MoE 2. PBME, DG 3. AF, HRD(M), HRMD, NCTE, DEO, REO, SRIMPR 4. PBME, AF(M), HRD(M), SRIMPR PRO, SRIMPR 5. HRMD, NCTE 6. PBME, BED, SED, ICU, SRIMPR, DP, 7. HRD, AF, DEO, NGO 8. NCTE, DEO, REO, DP, HRMD, NGO 9. NCTE, DEO, REO, DP, HRMD, NGO 10. All MoE incl. DEO REO 11. REO, DEO, DA, BED, NGO, DP 12. DEO, REO, HRMD, DA, DP, NGO 13. All MDAs
 
 19
 
@@ -2730,10 +2711,10 @@ ESP Work Programme
 
 page 20
 
-Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time | Unit-Agency | Collaborating MDAs
+Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-EM2 Strengthen monitoring and evaluation, and accountability systems across the whole sector | • Monitoring and evaluation system developed by end 2003 • Annual appraisal/review and audit systems at all levels in place by 2004 • Head counts for payroll conducted on an annual basis | 1. Strengthen monitoring mechanisms and accountability measures including performance appraisal and institutional performance reviews for management at ministry, agency, regional, district, school and institutional levels 2. Conduct annual headcounts to ensure accuracy in the Ministry of Education payroll (with an emphasis on removing ghost names) 3. Develop and implement a system/process through which harassment of pupils by teachers - sexual and otherwise- can be formally reported and sanctioned | Frame 1. 2003 2. 2003 3. 2004 | responsible 1. PBME 2. PBME 3. HRMD | 1. AF, HRD(M), HRMD, NCTE, DEO, REO, SRIMPR 2. AF, ID, NSS, DA, NGO, DP 3. HRD(M), BED, SED, GEU, DP DA DEO, REO
-EM3 Strengthen the Education Management Information System (EMIS) and improve education statistics | • EMIS reviewed and strengthened by December 2003 • Education Statistics Abstract published annually from 2004 (containing national-level data, including the ESP indicators) • EMIS systems established in all districts by 2015 | 1. Design user friendly EMIS application to accurately capture all indicators in the ESP to enhance monitoring and evaluation systems (including financial information) 2. Identify and monitor the contribution that the private sector makes to education 3. Sensitise officials at district/regional levels on the purposes and value of having an accurate EMIS 4. Statistics Unit of SRIMPR adequately staffed and re-trained/up-graded in both data collection and analysis 5. Establish EMIS systems in all districts 6. Conduct training in use of EMIS at HQ, Regional and District level 7. Computerise the documentation centre of MoE 8. Subscribe to journals and other materials for the centre 9. Conduct, publish and distribute annual education census, including schools in the distribution | 1. 2003 2. 2003 3. 2004 4. 2005 5. 2003- 2015 6. 2003- 2015 7. 2004 8. 2004 9. 2003 annuall y | 1. SRIMPR 2. SRIMPR 3. SRIMPR 4. SRIMPR 5. SRIMPR 6. SRIMPR 7. SRIMPR 8. SRIMPR 9. SRIMPR | 1. PBME, BED, SED, NCTE, TVET, AF DP 2. AF, PS, GNAPS 3. DEO, REO, DA, 4. HRD (M), 5. DEO, REO, AF(M), PBME 6. DEO, REO, AF(M), DP, PBME 7. PBME 8. 9. BED, SED, TVET, TED, NCTE, REO, DEO, DP
+EM2 Strengthen monitoring and evaluation, and accountability systems across the whole sector | • Monitoring and evaluation system developed by end 2003 • Annual appraisal/review and audit systems at all levels in place by 2004 • Head counts for payroll conducted on an annual basis | 1. Strengthen monitoring mechanisms and accountability measures including performance appraisal and institutional performance reviews for management at ministry, agency, regional, district, school and institutional levels 2. Conduct annual headcounts to ensure accuracy in the Ministry of Education payroll (with an emphasis on removing ghost names) 3. Develop and implement a system/process through which harassment of pupils by teachers - sexual and otherwise- can be formally reported and sanctioned | 1. 2003 2. 2003 3. 2004 | 1. PBME 2. PBME 3. HRMD | 1. AF, HRD(M), HRMD, NCTE, DEO, REO, SRIMPR 2. AF, ID, NSS, DA, NGO, DP 3. HRD(M), BED, SED, GEU, DP DA DEO, REO
+EM3 Strengthen the Education Management Information System (EMIS) and improve education statistics | • EMIS reviewed and strengthened by December 2003 • Education Statistics Abstract published annually from 2004 (containing national-level data, including the ESP indicators) • EMIS systems established in all districts by 2015 | 1. Design user friendly EMIS application to accurately capture all indicators in the ESP to enhance monitoring and evaluation systems (including financial information) 2. Identify and monitor the contribution that the private sector makes to education 3. Sensitise officials at district/regional levels on the purposes and value of having an accurate EMIS 4. Statistics Unit of SRIMPR adequately staffed and re-trained/up-graded in both data collection and analysis 5. Establish EMIS systems in all districts 6. Conduct training in use of EMIS at HQ, Regional and District level 7. Computerise the documentation centre of MoE 8. Subscribe to journals and other materials for the centre 9. Conduct, publish and distribute annual education census, including schools in the distribution | 1. 2003 2. 2003 3. 2004 4. 2005 5. 2003- 2015 6. 2003- 2015 7. 2004 8. 2004 9. 2003 annually | 1. SRIMPR 2. SRIMPR 3. SRIMPR 4. SRIMPR 5. SRIMPR 6. SRIMPR 7. SRIMPR 8. SRIMPR 9. SRIMPR | 1. PBME, BED, SED, NCTE, TVET, AF DP 2. AF, PS, GNAPS 3. DEO, REO, DA, 4. HRD (M), 5. DEO, REO, AF(M), PBME 6. DEO, REO, AF(M), DP, PBME 7. PBME 8. 9. BED, SED, TVET, TED, NCTE, REO, DEO, DP
 EM4 Ensure equity in resource allocation | • Every SSS with BOG by 2004 - with members of the local community sitting on the BOG • (Basic) Education for All achieved by 2015 | 1. Use mapping and other needs-assessments (including manpower needs) to determine educational needs at all levels 2. Review the 'disadvantaged criteria formula' 3. Design resource allocation formula to ensure equity across districts at all levels 4. Inaugurate BOG in every SSS ensuring community participation | 1. 2003 2. 2003 3. 2003 4. 2003- 2015 | 1. PBME 2. AF 3. PBME 4. SED | 1. AF, DA, DEO, NCTE, TVET, REO 2. AF, NCTE, GETfund 3. DA, NGO, REO, DEO 4. PBME
 EM5 | • Every Primary School and JSS has SMC | 1. Review guidelines as to the establishment | 1. 2003 | 1.BED | 1.AF ,DEO,
 
@@ -2749,8 +2730,8 @@ page 21
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-Ensure effective decentralisatio n and community participation | properly constituted by December 2004 • Basic school fees/levies abolished by 2004 • Every Primary School and JSS receives a per capita allocation (directly from the centre) to be accounted for and spent in accordance with its SPIP • Every Second cycle institution has a BOG in place by 2004 | and operation of SMCs - with an emphasis on financial resource management - and distribute these to the districts and schools 2. Establish SMCs to cover all basic schools 3. Design and implement a system to monitor and evaluate the operations of SMCs, PTAs, DEOCs 4. Establish BOGs to cover all second cycle institutions 5. Design and implement a system to monitor and evaluate the operation of BOGs in second cycle institutions 6. Investigate the issue of capitation grants for basic schools 7. Enforce the abolition of school fees/levies at basic level 8. Strengthen communities to manage pre- schools | 2. 2003 - 2004 3. 2003 4. 2003- 2004 5. 2003 6. 2003 7. 2004 8. 2005 | 2. BED 3. BED 4. SED 5. SED 6. AF 7. BED 8. BED | DA, REO 2. AF, DEO, DA, REO 3. DEO, DA, AF, REO 4. AF, DEO, DA, REO 5. AF, DEO, DA, REO 6. BED, DEO, DA, REO, PBME 7. DEO, REO 8. DEO, REO, DA, NGO
-EM6 Strengthen the involvement of civil society in education delivery | • See EM4 above • ESTAC and EA, QE, EM and ST Thematic groups operational from mid- 2003 • First Annual Review of Sector Performance in November 2004 and annually thereafter | 1. Establish an Education Sector Technical Advisory Committee with representatives from stakeholder communities 2. Establish Thematic groups for SWAp Management and Implementation 3. Conduct review of ESP progress in November 2003 4. Conduct Annual Review of Sector Performance beginning November 2004 | 1. 2003 2. 2003 3. 2003 4. 2004 | 1. CD 2. CD 3. PBME 4. PBME | 1. PBME, HRMD 2. PBME, HRD (M) 3. ESTAC, SRIMPR, DP 4. ESTAC, SRIMPR, DP
+Ensure effective decentralisation and community participation | properly constituted by December 2004 • Basic school fees/levies abolished by 2004 • Every Primary School and JSS receives a per capita allocation (directly from the centre) to be accounted for and spent in accordance with its SPIP • Every Second cycle institution has a BOG in place by 2004 | and operation of SMCs - with an emphasis on financial resource management - and distribute these to the districts and schools 2. Establish SMCs to cover all basic schools 3. Design and implement a system to monitor and evaluate the operations of SMCs, PTAs, DEOCs 4. Establish BOGs to cover all second cycle institutions 5. Design and implement a system to monitor and evaluate the operation of BOGs in second cycle institutions 6. Investigate the issue of capitation grants for basic schools 7. Enforce the abolition of school fees/levies at basic level 8. Strengthen communities to manage pre-schools | 2. 2003 - 2004 3. 2003 4. 2003- 2004 5. 2003 6. 2003 7. 2004 8. 2005 | 2. BED 3. BED 4. SED 5. SED 6. AF 7. BED 8. BED | DA, REO 2. AF, DEO, DA, REO 3. DEO, DA, AF, REO 4. AF, DEO, DA, REO 5. AF, DEO, DA, REO 6. BED, DEO, DA, REO, PBME 7. DEO, REO 8. DEO, REO, DA, NGO
+EM6 Strengthen the involvement of civil society in education delivery | • See EM4 above • ESTAC and EA, QE, EM and ST Thematic groups operational from mid-2003 • First Annual Review of Sector Performance in November 2004 and annually thereafter | 1. Establish an Education Sector Technical Advisory Committee with representatives from stakeholder communities 2. Establish Thematic groups for SWAp Management and Implementation 3. Conduct review of ESP progress in November 2003 4. Conduct Annual Review of Sector Performance beginning November 2004 | 1. 2003 2. 2003 3. 2003 4. 2004 | 1. CD 2. CD 3. PBME 4. PBME | 1. PBME, HRMD 2. PBME, HRD (M) 3. ESTAC, SRIMPR, DP 4. ESTAC, SRIMPR, DP
 EM7 Review the management of schools in partnerships with religious bodies | • New Education Act in place by 2004 • Regulations for the management of schools in partnership with religious bodies published and made available by 2005 | 1. Collaborate with Faith Based Organisations to re-focus their support towards the holistic development of schools and students and not the partisan interests of specific religious denominations 2. Review partnership arrangements with FBOs and engage their participation within the SWAp approach 3. Develop and publish regulations regarding the management of schools in partnership with religious bodies | 1. 2003 2. 2003 3. 2004 | 1. CD 2. CD 3. BED | 1. DG, FBO 2. DG, FBO, NCTE 3. SED, DP, NGO, FBO, TVET, DEO, REO
 
 21
@@ -2782,9 +2763,9 @@ page 23
 
 #### Extend and Improve Technical and Vocational Education and Training (Policy Goal 3)
 
-Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating
+Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-ST1 Ensure relevant education and training for employability | • A comprehensive relevant TVET programme established by 2005; including trained, specialist staff, in all sub-sectors by 2010 • Additional 10 Technical Vocational Institutes established by 2015 • 3 Teacher Training Colleges provided with additional facilities to train Technical teachers | 1. Finalise national policy on TVET in collaboration with other MDAs and the private sector 2. Establish a national qualification framework and authority 3. Establish an inter-ministerial council for TVET 4. Establish 10 additional technical institutes on necessity basis (preference first given to needy areas) 5. Develop programmes at the secondary and tertiary levels that have a definitive focus on Job Market readiness, preparation and entrepreneurship through alliances with the private sector and other public sector agencies (also see ST2 below) 6. Establish Trained Advisory Committee to facilitate the link between the technical curriculum and industry 7. Organise entrepreneurship programmes 8. Commence trace research on employment of students from Technical and Vocational Institutes 9. Design and implement system to monitor and evaluate the performance of students and teachers on industrial attachment 10. Establish database on career advancement for students and provide careers advisory service 11. Provide additional Technical facilities to 3 Teacher Training Colleges and upgrade these institutes in order that they can provide diploma courses to train for teachers for Technical Vocational Institutes | 1. 2003 2. 2005 3. 2005 4. 2005 5. 2005 6. 2004 7. 2003 8. 2004 9. 2003 10. 2005 11. 2005 | 1. TVET 2. TVET 3. CD 4. TVET 5. TVET/ NCTE 6. TVET 7. TVET / NCTE 8. TVET 9. TVET 10. TVET 11. TVET | MDAs 1. PBME, FBO, MoMDE, NACVET, CBO, NGO 2. 3. TVET, MoMDE 4. AF, DP, MoF 5. AGI, NGO 6. AGI 7. PEF, AGI, NBSSI 8. NACVET 9. AGI 10.AGI, PEF, NBSSI, NACVET 11.MoF, AF, PBME, TED
+ST1 Ensure relevant education and training for employability | • A comprehensive relevant TVET programme established by 2005; including trained, specialist staff, in all sub-sectors by 2010 • Additional 10 Technical Vocational Institutes established by 2015 • 3 Teacher Training Colleges provided with additional facilities to train Technical teachers | 1. Finalise national policy on TVET in collaboration with other MDAs and the private sector 2. Establish a national qualification framework and authority 3. Establish an inter-ministerial council for TVET 4. Establish 10 additional technical institutes on necessity basis (preference first given to needy areas) 5. Develop programmes at the secondary and tertiary levels that have a definitive focus on Job Market readiness, preparation and entrepreneurship through alliances with the private sector and other public sector agencies (also see ST2 below) 6. Establish Trained Advisory Committee to facilitate the link between the technical curriculum and industry 7. Organise entrepreneurship programmes 8. Commence trace research on employment of students from Technical and Vocational Institutes 9. Design and implement system to monitor and evaluate the performance of students and teachers on industrial attachment 10. Establish database on career advancement for students and provide careers advisory service 11. Provide additional Technical facilities to 3 Teacher Training Colleges and upgrade these institutes in order that they can provide diploma courses to train for teachers for Technical Vocational Institutes | 1. 2003 2. 2005 3. 2005 4. 2005 5. 2005 6. 2004 7. 2003 8. 2004 9. 2003 10. 2005 11. 2005 | 1. TVET 2. TVET 3. CD 4. TVET 5. TVET/ NCTE 6. TVET 7. TVET / NCTE 8. TVET 9. TVET 10. TVET 11. TVET | 1. PBME, FBO, MoMDE, NACVET, CBO, NGO 2. 3. TVET, MoMDE 4. AF, DP, MoF 5. AGI, NGO 6. AGI 7. PEF, AGI, NBSSI 8. NACVET 9. AGI 10.AGI, PEF, NBSSI, NACVET 11.MoF, AF, PBME, TED
 
 23
 
@@ -2798,7 +2779,7 @@ page 24
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-ST2 Allow for diversification of the technical and vocational curriculum (e.g. to include agriculture and business studies) | • A comprehensive relevant TVET programme established by 2005 • Trained, specialist staff, in all sub- sectors and institutions by 2015 | 1. Establish a comprehensive Technical and Vocational Education and Training programme at all levels. 2. Review technical and vocational curriculum in consultation with industry to take a demand driven approach and increase it's relevance to industry ensuring that programmes take into account recent shifts in the jobs markets - with emphasis on agriculture, ICT, business applications, craftsmanship self-employment 3. Expand the availability of core subjects (to SSS level) as optional courses in TVIs to facilitate the entry of TVI graduates to tertiary level education | 1. 2004 2. 2003 3. 2004 | 1. TVET / NCTE 2. TVET / NCTE 3. TVET | 1. CRDD, AGI, MoFA 2. TVET, AGI, PEF, NBSSI, PS, DP, CRDD 3. CRDD,
+ST2 Allow for diversification of the technical and vocational curriculum (e.g. to include agriculture and business studies) | • A comprehensive relevant TVET programme established by 2005 • Trained, specialist staff, in all sub-sectors and institutions by 2015 | 1. Establish a comprehensive Technical and Vocational Education and Training programme at all levels. 2. Review technical and vocational curriculum in consultation with industry to take a demand driven approach and increase it's relevance to industry ensuring that programmes take into account recent shifts in the jobs markets - with emphasis on agriculture, ICT, business applications, craftsmanship self-employment 3. Expand the availability of core subjects (to SSS level) as optional courses in TVIs to facilitate the entry of TVI graduates to tertiary level education | 1. 2004 2. 2003 3. 2004 | 1. TVET / NCTE 2. TVET / NCTE 3. TVET | 1. CRDD, AGI, MoFA 2. TVET, AGI, PEF, NBSSI, PS, DP, CRDD 3. CRDD,
 
 #### Promote and Extend the Provision of Science and Technology Education and Training (Policy Goal 6)
 
@@ -2818,7 +2799,7 @@ page 25
 
 Related Policy Objectives | Indicative Targets (Outputs and Outcomes) | Strategies and Activities | Time Frame | Unit-Agency responsible | Collaborating MDAs
 --- | --- | --- | --- | --- | ---
-ST4 Promote Information and Communicatio n Technology (ICT) in schools and institutions of higher learning | • National policy on ICT in Education (ICTE) finalised and published by end of 2003 • Infrastructure for ICTE provided to first phase of Senior Secondary Schools by 2005 • Sufficient staff trained in ICT delivery by 2005 • Relevant basic and advanced level ICT training programmes in place by 2005 | 1. Finalise national policy on ICTE including syllabi 2. Provide necessary infrastructure to support ICTE programmes at SSS level 3. Train a core team in ICT as TOTs 4. Provide appropriate ICT training opportunities at all levels, utilising Science Resource Centres (SRCs) 5. Develop a cadre of trained persons to support the delivery of ICT in schools and institutions (pre-service and in-service) 6. Provide access to the Internet and establish a networking system as a basic part of the instructional environment in selected primary, secondary and tertiary institutions 7. Construct/rehabilitate computer laboratories in schools and institutions | 1. 2003 2. 2003- 2015 3. 2004 4. 2004 5. 2004 6. 2004 7. 2004 | 1. STEU 2. AF(M) 3. STEU 4. STEU 5. STEU 6. STEU / NCTE 7. AF | 1. CRDD, MoCT, SRIMPR 2. PBME, PS, DP,STEU, MoF, MoCT 3. CRDD, MoCT, AF SRIMPR, 4. CRDD, MoCT, AF, SRIMPR 5. DP, NGO, AF 6. MoCT, AF 7. GETfund, PBME, DP
+ST4 Promote Information and Communication Technology (ICT) in schools and institutions of higher learning | • National policy on ICT in Education (ICTE) finalised and published by end of 2003 • Infrastructure for ICTE provided to first phase of Senior Secondary Schools by 2005 • Sufficient staff trained in ICT delivery by 2005 • Relevant basic and advanced level ICT training programmes in place by 2005 | 1. Finalise national policy on ICTE including syllabi 2. Provide necessary infrastructure to support ICTE programmes at SSS level 3. Train a core team in ICT as TOTs 4. Provide appropriate ICT training opportunities at all levels, utilising Science Resource Centres (SRCs) 5. Develop a cadre of trained persons to support the delivery of ICT in schools and institutions (pre-service and in-service) 6. Provide access to the Internet and establish a networking system as a basic part of the instructional environment in selected primary, secondary and tertiary institutions 7. Construct/rehabilitate computer laboratories in schools and institutions | 1. 2003 2. 2003- 2015 3. 2004 4. 2004 5. 2004 6. 2004 7. 2004 | 1. STEU 2. AF(M) 3. STEU 4. STEU 5. STEU 6. STEU / NCTE 7. AF | 1. CRDD, MoCT, SRIMPR 2. PBME, PS, DP,STEU, MoF, MoCT 3. CRDD, MoCT, AF SRIMPR, 4. CRDD, MoCT, AF, SRIMPR 5. DP, NGO, AF 6. MoCT, AF 7. GETfund, PBME, DP
 
 25
 
