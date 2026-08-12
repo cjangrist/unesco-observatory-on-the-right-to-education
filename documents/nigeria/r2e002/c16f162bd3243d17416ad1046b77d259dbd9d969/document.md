@@ -1,6 +1,28 @@
 [[START OF PAGE 1]]
 
+Roadmap for the Nigerian Education Sector
+
+Dr. Sam O. Egwu
+
+Honourable Minister of Education
+
+Access and Equity
+
+Standards & Quality Assurance
+
+Technical and Vocational Education & Training
+
+Funding and Resource Utilisation
+
+Federal Ministry of Education
+
 April 2009
+
+TEACHER?
+
+FARMER?
+
+DOCTOR?
 
 THIS REPORT CONTAINS 151 PAGES
 
@@ -19,6 +41,43 @@ High Achieving Students
 Where We Are
 
 # Contents
+
+List of Figures and Tables 2
+Abbreviations 3
+1 Executive Summary 6
+2 Introduction 14
+2.1 Vision 14
+2.2 Mission 14
+2.3 Overview 14
+3 Implementation Framework 16
+3.1 The Strategic Implementation Model 17
+4 Basic Education 18
+4.1 Access and Equity 18
+4.2 Standards and Quality Assurance 21
+4.3 Technical and Vocational Education and Training 33
+4.4 Funding, Resource Mobilization and Utilization 33
+5 Post-Basic Education 36
+5.1 Access and Equity 36
+5.2 Standards and Quality Assurance 38
+5.3 Technical and Vocational Education & Training 45
+5.4 Funding, Resource Mobilization and Utilization 50
+6 Tertiary Education 52
+6.1 Access and Equity 54
+6.2 Standards and Quality Assurance 56
+6.3 Technical and Vocational Education and Training 62
+6.4 Funding, Resource Mobilisation and Utilisation 65
+6.5 Special ETF Intervention Project 66
+7 Institutional and Legislative Issues 69
+7.1 Policy, Planning, Implementation Management 69
+7.2 Education Management Information Systems (EMIS) 71
+7.3 Legislative Review and Reform 74
+7.4 Stakeholders’ Partnerships and Collaboration 75
+8 Appendix I: Implementation Plan of Action 77
+8.1 Basic Education 77
+8.2 Post-Basic Education 96
+8.3 Tertiary Education 111
+8.4 Institutional and Legislative Issues 129
+9 Appendix II: Chronograph 139
 
 Access
 
@@ -471,13 +530,13 @@ The role of the Ministry centres around the following:
 
 The  Education  Sector  in  Nigeria  is  on  the  Concurrent  Legislative  List,  which  makes  it  a  shared responsibility  of  the  Federal,  States  and  Local  Governments.  As  a  result,  there  exists  a  plethora  of stakeholder including regulators, policy formulators, examination bodies and the like who work together to give direction to the sector.
 
-The Education Sector in Nigeria is further divided into three sub-sectors. The institutions under these subsectors are presented in the table below:
+The Education Sector in Nigeria is further divided into three sub-sectors. The institutions under these sub-sectors are presented in the table below:
 
 ECCDE/ Basic Sub-Sector | Post-Basic | Tertiary
 --- | --- | ---
 • Early Childhood Care and Development • Primary Schools • Junior Secondary Schools • Nomadic and Adult Literacy | • Senior Secondary Schools • Technical Colleges • Vocational Enterprise Institutions (VEIs) • Vocational Schools • Open Apprenticeship Centres | • Universities • Polytechnics/Monotechnics • Colleges of Education • Innovative Enterprise Institutions (IEIs)
 
-An overview of the Nigerian Education Sector can be seen below The review of the state of the educational sector was focused along four (4) priority areas. Specific focus areas are presented in the schematic below:
+An overview of the Nigerian Education Sector can be seen below
 
 Access
 
@@ -539,13 +598,35 @@ Utilisation
 
 Roadmap for the Nigerian Education Sector Consultative Draft April 2009
 
-Figure 1.1. Overview of the Nigerian Education Sector
-
 High Performing Schools
 
 High Achieving Students
 
 Where We Are
+
+FEDERAL GOVERNMENT
+
+LOCAL GOVERNMENT | STATE GOVERNMENT | PRIVATE SECTOR
+Primary Schools | Secondary Schools (Unity Schools) | Tertiary Institutions and Colleges
+
+FME | NUC | NECO | WAEC | UBE
+JCC | NCCE | NERDC | NABTEB | Other Professional Bodies and Organisations
+NBTE | JAMB | Legislature | NCE
+
+Funding Bodies
+Educational Institutions
+Administrative Bodies, Agencies and Policy Makers
+• Coordinate policies and procedures
+• Monitors institution and accredits programs
+• Conduct certificate examinations
+• Promote and coordinate educational research programs
+• Policy formulation and enforcement
+
+Private Sector Funding | Federal Govt. Funding | State Govt Funding | Local Govt Funding
+
+Figure 1.1. Overview of the Nigerian Education Sector
+
+The review of the state of the educational sector was focused along four (4) priority areas. Specific focus areas are presented in the schematic below:
 
 Access & Equity | Standards & Quality Assurance | Technical and Vocational Education and Training | Funding, Resource Mobilisation and Utilisation
 --- | --- | --- | ---
@@ -621,261 +702,37 @@ Where We Are
 
 Specifically, the education sector has been inundated with a myriad of challenges. Some of the general issues along various sub-sectors of education are documented in the table below:
 
-Figure 1.2.
-
-Summary of Issues and Challenges in the Education Sector
-
-- This report has been segmented along the sub-sectors in the educational sector i.e. basic, post-basic and • Inadequate capacity for policy formulation • Ineffective, obsolete and outdated policies and legal framework • Inadequate capacity for policy formulation • Ineffective, obsolete and outdated policies and legal framework
-
-- tertiary, and concludes with the cross-cutting issues of institutions and legislations. • Low private sector involvement • Low private sector involvement
-
-•
-
-Infrastructural needs
-
-•
-
-Teacher
-
-development,
-
-motivation &
-
-retention
-
-•
-
-Curriculum
-
-relevance & review
-
-•
-
-Information &
-
-Communications
-
-Technology (ICT)
-
-Standards & Quality
-
-Assurance
-
-•
-
-Inadequate
-
-budgetary
-
-allocation
-
-•
-
-Inadequate funding
-
-of schools
-
-•
-
-Poor management
-
-and utilization of
-
-funds
-
-Funds & Resource
-
-Utilization
-
-Technical &
-
-Vocational Education
-
-Training
-
-•
-
-Dearth of qualified
-
-teaching staff
-
-•
-
-Low societal
-
-estimation of
-
-vocational
-
-education
-
-•
-
-Inadequate number
-
-of technical and
-
-vocational colleges
-
-•
-
-Out
-
--
-
-of-
-
-school
-
-children
-
-•
-
-Lack of essential
-
-infrastructure
-
-•
-
-Gender disparity
-
-•
-
-Poverty
-
-•
-
-Almajirai
-
-Challenge
-
-Access and Quality
-
-Institutional and Legislative Issues
-
-•
-
-Inadequate
-
-budgetary
-
-allocation
-
-•
-
-Inadequate funding
-
-of schools
-
-•
-
-Poor management
-
-and utilization of
-
-funds
-
-Funds & Resource
-
-Utilization
-
-Technical &
-
-Vocational Education
-
-Training
-
-•
-
-Dearth of qualified
-
-teaching staff
-
-•
-
-Low societal
-
-estimation of
-
-vocational
-
-education
-
-•
-
-Inadequate number
-
-of technical and
-
-vocational colleges
-
-•
-
-Out
-
--
-
-of-
-
-school
-
-children
-
-•
-
-Lack of essential
-
-infrastructure
-
-•
-
-Gender disparity
-
-•
-
-Poverty
-
-•
-
-Almajirai
-
-Challenge
-
-•
-
-Infrastructural needs
-
-•
-
-Teacher
-
-development,
-
-motivation &
-
-retention
-
-•
-
-Curriculum
-
-relevance & review
-
-•
-
-Information &
-
-Communications
-
-Technology (ICT)
-
-Standards & Quality
-
-Assurance
+Figure 1.2. Summary of Issues and Challenges in the Education Sector
 
 Access and Equity
+• Out-of-school children
+• Lack of essential infrastructure
+• Gender disparity
+• Poverty
+• Almajirai Challenge
+
+Standards & Quality Assurance
+• Infrastructural needs
+• Teacher development, motivation & retention
+• Curriculum relevance & review
+• Information & Communications Technology (ICT)
+
+Technical & Vocational Education Training
+• Dearth of qualified teaching staff
+• Low societal estimation of vocational education
+• Inadequate number of technical and vocational colleges
+
+Funds & Resource Utilization
+• Inadequate budgetary allocation
+• Inadequate funding of schools
+• Poor management and utilization of funds
 
 Institutional and Legislative Issues
+• Inadequate capacity for policy formulation
+• Low private sector involvement
+• Ineffective, obsolete and outdated policies and legal framework
+
+This report has been segmented along the sub-sectors in the educational sector i.e. basic, post-basic and tertiary, and concludes with the cross-cutting issues of institutions and legislations.
 
 ## Basic Education
 
@@ -1105,8 +962,6 @@ Utilisation
 
 Roadmap for the Nigerian Education Sector Consultative Draft April 2009
 
-Figure 1.4. Enrolment Gap in Senior Secondary Schools
-
 High Performing Schools
 
 High Achieving Students
@@ -1126,6 +981,8 @@ Enrolment in Senior Secondary Schools
 Actual Enrolment
 
 Potential Enrolment population
+
+Figure 1.4. Enrolment Gap in Senior Secondary Schools
 
 Some of the turn-around strategies to address issues in post-basic education sub-sector include:
 
@@ -1205,13 +1062,25 @@ Utilisation
 
 Roadmap for the Nigerian Education Sector Consultative Draft April 2009
 
-Figure 1.5. Transition Rate from Junior Secondary to Senior Secondary Schools
-
 High Performing Schools
 
 High Achieving Students
 
 Where We Are
+
+Junior Secondary Transition
+
+Junior Secondary
+
+16%
+
+Senior Secondary
+
+84%
+
+Potential TVET and VEI Population
+
+Figure 1.5. Transition Rate from Junior Secondary to Senior Secondary Schools
 
 ## Tertiary Education
 
@@ -1419,9 +1288,18 @@ The first phase of implementation will occur at a stratified sample of schools i
 
 Implementation  of  the  roadmap  will  involve  various  stakeholders,  from  other  tiers  of  Government,  the organised  private  sector  as  well  as  international  funding  partners  in  ensuring  that  this  attempt  in comparison to previous attempts achieves the intended purpose of revamping the educational sector, and ultimately  transforms  all  Nigerian  schools  into  high  performing  schools  that  produce  high  achieving, functional and self-reliant students.
 
-Figure 1.6.
+Where We Are
+• The problems have been identified (low access, poor quality, inadequate funding and TVET issues) and solutions proffered
+• Policies are in place
+• Curricula have been developed
 
-The Roadmap to Success
+Results focused Implementation
+
+Where We Need To Be
+• High performance Schools
+• High achieving and functional students
+
+Figure 1.6. The Roadmap to Success
 
 The implementation of this roadmap will achieve the goal of producing:
 
@@ -1605,23 +1483,23 @@ In view of the foregoing, this document charts the strategies and road-map for t
 
 This report dwells on the challenges, proposed turn-around strategies and necessary interventions in the sector that would lead to the achievement of the national vision in four priority areas:
 
-- Access and Equity
+1. Access and Equity
 
-- Standards and Quality Assurance
+2. Standards and Quality Assurance
 
--Infrastructure
+- Infrastructure
 
--Curriculum Content and Relevance
+- Curriculum Content and Relevance
 
--Teacher Development, Motivation and Retention
+- Teacher Development, Motivation and Retention
 
--Learner Support Services
+- Learner Support Services
 
--Information and Communications Technologies (ICT)
+- Information and Communications Technologies (ICT)
 
-- Technical and Vocational Education and Training
+3. Technical and Vocational Education and Training
 
-- Funding, Resource Mobilisation and Utilisation
+4. Funding, Resource Mobilisation and Utilisation
 
 This document presents a roadmap for educational reform and outlines a plan for implementing reform in the four priority areas in each of the three subsectors (Basic Education, post-basic education and tertiary education).  The  document  also  addresses  cross  cutting  issues  within  the  system  that  need  to  be addressed in order to sustain the improvement. These areas include:
 
@@ -1703,6 +1581,17 @@ Where We Are
 
 In  order  to  address  the  identified  problems  in  the  sector,  a  strategy  that  will  ensure  a  results-focused implementation at the school level will be adopted. This strategy will be a phased implementation of the reform that transforms schools into high performing schools. The first phase of implementation will occur at a stratified sample of schools including the Unity Schools and other selected Demonstration Schools at the State level. The programme will deliver comprehensive intervention rolled out through a well conceived replication strategy over the medium term to be reflected in the Education Sector Plans and MTSS of all SmoEs and the FME. The ultimate goal is to transform all Nigerian schools into high performing schools that produce high achieving and functional students.
 
+Where We Are
+• The problems have been identified (low access, poor quality, inadequate funding and TVET issues) and solutions proffered
+• Policies are in place
+• Curricula have been developed
+
+Results focused Implementation
+
+Where We Need To Be
+• High performance Schools
+• High achieving and functional students
+
 The Roadmap to Success
 
 Access
@@ -1775,277 +1664,27 @@ Where We Are
 
 Priority Areas
 
-Demonstration Schools (Basic, Post Basic & Tertiary)
-
-FME
-
-UBEC
-
-ETF
-
-CSACEFA
-
-Stakeholders Coordination
-
 Access and Equity
-
-Standards and Quality
-
-Assurance
-
-States
-
-NUC
-
-TRC
-
-IDPs
-
-LGAs
-
-NME
-
-NCCE
-
-JAMB
-
-LGEAs
-
-NCNE
-
-NTI
-
-OPS
-
-NBTE
-
-NECO
-
-JICA
-
-NERDC
-
-ETC
-
-Technical, Vocational
-
-Education and
-
-Training
-
-Funding, Resource
-
-Mobilization &
-
-Utilization
-
-Technical/
-
-Vocational
-
-Early
-
-Childhood
-
-Urban &
-
-Rural
-
-Single
-
-Gender
-
-Co-ed
-
-Open
-
-Schools
-
-Second
-
-Chance
-
-Special
-
-Needs
-
-Adult/ non
-
-formal
-
-Priority Areas
+Standards and Quality Assurance
+Technical, Vocational Education and Training
+Funding, Resource Mobilization & Utilization
 
 Demonstration Schools (Basic, Post Basic & Tertiary)
 
-FME
-
-UBEC
-
-ETF
-
-CSACEFA
+Urban & Rural | Co-ed | Open Schools
+Early Childhood | Single Gender | Adult/ non formal
+Technical/ Vocational | Second Chance | Special Needs
 
 Stakeholders Coordination
 
-Access and Equity
+FME | States | LGAs | LGEAs | NBTE
+UBEC | NUC | NME | NCNE | NECO | ETC
+ETF | TRC | NCCE | NTI | JICA
+CSACEFA | IDPs | JAMB | OPS | NERDC
 
-Standards and Quality
+Figure 1.7   The Strategic Implementation Model to Success
 
-Assurance
-
-States
-
-NUC
-
-TRC
-
-IDPs
-
-LGAs
-
-NME
-
-NCCE
-
-JAMB
-
-LGEAs
-
-NCNE
-
-NTI
-
-OPS
-
-NBTE
-
-NECO
-
-JICA
-
-NERDC
-
-ETC
-
-Technical, Vocational
-
-Education and
-
-Training
-
-Funding, Resource
-
-Mobilization &
-
-Utilization
-
-Technical/
-
-Vocational
-
-Early
-
-Childhood
-
-Urban &
-
-Rural
-
-Single
-
-Gender
-
-Co-ed
-
-Open
-
-Schools
-
-Second
-
-Chance
-
-Special
-
-Needs
-
-Adult/ non
-
-formal
-
-Technical/
-
-Vocational
-
-Technical/
-
-Vocational
-
-Early
-
-Childhood
-
-Early
-
-Childhood
-
-Urban &
-
-Rural
-
-Urban &
-
-Rural
-
-Single
-
-Gender
-
-Single
-
-Gender
-
-Co-ed
-
-Open
-
-Schools
-
-Open
-
-Schools
-
-Second
-
-Chance
-
-Special
-
-Needs
-
-Second
-
-Chance
-
-Special
-
-Needs
-
-Special
-
-Needs
-
-Adult/ non
-
-formal
-
-Adult/ non
-
-formal
-
-Note: This model utilizes Demonstration Projects to implement proposed turn-around strategies that address the priority issues. The lessons learned from the demonstration sites will then be mainstreamed
-
-Figure 1.7   The Strategic Implementation Model to Success into other schools and institutions across the sub-sectors
+Note: This model utilizes Demonstration Projects to implement proposed turn-around strategies that address the priority issues. The lessons learned from the demonstration sites will then be mainstreamed into other schools and institutions across the sub-sectors
 
 Access
 
@@ -2137,7 +1776,7 @@ For nomadic education, the required number of teachers is 23,835 while only 11,5
 
 Wide disparity exists between the expected and actual enrolments. For example, the expected enrolment in  ECCDE is  22  million  but  the  actual  is  2.02  million,  leaving  19.98  million  out-of-school;  the  expected enrolment in Primary Education is 34.92 million but the actual is 24.42 million, hence a shortfall of 10.5 million; in junior secondary Education,  the expected enrolment is 9.27 million but the actual is 3.27 million, leaving 6.0 million unenrolled (Fig. 4.1).
 
-The picture is not different at the non-formal level. Out of the current population figure of 40 million nonliterate adults, current enrolment stands at 500,000 leaving 39.5 million unenrolled. For the Nomadic and Migrant children, only 450,000 are enrolled out of the 3.5 million school-aged learners, hence 3.1 million out-of-school.  Other  challenges  are  inadequate  and  inaccurate  data  as  well  as  poverty.  Available classrooms in  formal  education  as  at  2006  is  497,871  and  the  shortfall  is  1,152,412  while  the  existing classrooms for nomadic education is 10,469 with a shortfall is 28,931.
+The picture is not different at the non-formal level. Out of the current population figure of 40 million non-literate adults, current enrolment stands at 500,000 leaving 39.5 million unenrolled. For the Nomadic and Migrant children, only 450,000 are enrolled out of the 3.5 million school-aged learners, hence 3.1 million out-of-school. Other challenges are inadequate and inaccurate data as well as poverty. Available classrooms in formal education as at 2006 is 497,871 and the shortfall is 1,152,412 while the existing classrooms for nomadic education is 10,469 with a shortfall is 28,931.
 
 Access
 
@@ -2339,8 +1978,8 @@ Where We Are
 
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
-• Launch an aggressive National Campaign on Access in order to intensify sensitization, advocacy and mobilization in support of enrolment and retention • Review and update the UBE Act to enforce the provisions that stipulate compulsory enrolment and retention of children in schools • Synergize with agencies such as SMEDAN, NDE, NAPEP etc., to provide incentives to parents/ guardians of school children in areas with low enrolment and ensure that parents who benefit from these agencies send their children to school • Encourage and support the establishment of more neighbourhood schools by communities, Voluntary Agency Organisations (VAOs) and Faith-based organisations (FBOs) • Declare a national literacy emergency for five years • Create a program that utilizes youth corpers and other volunteers as teachers in mass literacy programs | May 2009
-• Attainment of the following enrolment targets: ¾ 3,127,395 in ECCDE; ¾ 27,900,796 in primary education; ¾ 4,407,071 in junior secondary education; ¾ 50% increase in mass literacy, 10 million adults trained every year ¾ 1,379,000 in nomadic education based on 30% increase in enrolment at 2.32% growth rate A well established mass literacy program that trains 25million | 2011
+• Launch an aggressive National Campaign on Access in order to intensify sensitization, advocacy and mobilization in support of enrolment and retention • Review and update the UBE Act to enforce the provisions that stipulate compulsory enrolment and retention of children in schools • Synergize with agencies such as SMEDAN, NDE, NAPEP etc., to provide incentives to parents/ guardians of school children in areas with low enrolment and ensure that parents who benefit from these agencies send their children to school • Encourage and support the establishment of more neighbourhood schools by communities, Voluntary Agency Organisations (VAOs) and Faith-based organisations (FBOs) • Declare a national literacy emergency for five years • Create a program that utilizes youth corpers and other volunteers as teachers in mass literacy programs | | May 2009
+| • Attainment of the following enrolment targets: ¾ 3,127,395 in ECCDE; ¾ 27,900,796 in primary education; ¾ 4,407,071 in junior secondary education; ¾ 50% increase in mass literacy, 10 million adults trained every year ¾ 1,379,000 in nomadic education based on 30% increase in enrolment at 2.32% growth rate A well established mass literacy program that trains 25million participants every year | 2011
 • Provide infrastructure - ¾ 4,000 additional classrooms per annum for pre-primary, ¾ 22,000 additional classrooms per annum for primary, ¾ 10,160 classrooms per annum for JSS and ¾ 950 additional classrooms per annum for nomadic education and other facilities. This can be achieved by strengthening such initiatives as Support-a-Public School, providing the enabling environment for private sector involvement as part of their corporate social responsibility | • Additional fully furnished and functional classrooms: ¾ 4,000 for ECCDE, ¾ 22,000 for primary, ¾ 10,160 for JSS, and ¾ 1764 for Nomadic that meets UBEC's minimum standards | Dec.2009
 • Develop strategies for systematic recruitment of potential teachers for the Colleges of Education from the pool of secondary school leavers • Consider recruitment campaigns that profile the teaching profession positively • Develop incentives to motivate teachers and | Attainment of: ¾ 124,696 care-givers for ECCDE ¾ 797,166 for Primary ¾ 110,177 for JS | 2011
 
@@ -2414,11 +2053,12 @@ Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
 attract high quality students to take up teaching as part of the institutional reform required for Teacher Development and Motivation
 • Introduce the National Open School System | • Open School System established | 2011
-• Restructure and decentralize the school census exercise and make it state-driven, coordinated by SMoEs and FME • Support School Mapping and make it State- driven, coordinated by UBEC | • State-driven school census • State-driven school mapping | 2011 2011
-• Promote State-driven incentives, such as mid- day meals, uniforms, transportation, etc | • Improved health and nutrition of pupils and students
+• Restructure and decentralize the school census exercise and make it state-driven, coordinated by SMoEs and FME | • State-driven school census | 2011
+• Support School Mapping and make it State-driven, coordinated by UBEC | • State-driven school mapping | 2011
+• Promote State-driven incentives, such as mid-day meals, uniforms, transportation, etc | • Improved health and nutrition of pupils and students |
 • Promote gender parity through sensitization and modelling | • 90% gender parity | 2011
-• Improve rural schools and mainstream nomadic and Adult and Non-Formal centres bringing them up to the approved Minimum Standards | • At least 5 'second chance' schools established in each State | 2011
-• Schools established within a maximum radius of 3-4 km | 2011
+• Improve rural schools and mainstream nomadic and Adult and Non-Formal centres bringing them up to the approved Minimum Standards | • At least 5 “second chance” schools established in each State | 2011
+| • Schools established within a maximum radius of 3-4 km | 2011
 • Provide facilities like toilets, water supply and sanitation to encourage the girl-child • Promote a child-friendly school climate i.e. effective learning, healthy and protective of children and encouraging the involvement of parents and the communities | • Schools to be made gender- friendly through provision of water, sanitation, separate toilet facilities, etc for the girl-child and boy-child especially in rural schools; | 2011
 • Review and improve current processes of identification and monitoring of special needs students to ensure access/ equity | Increased enrolment of special needs students | 2010
 • Provide attendance incentives for teachers in rural areas as an integral part of the National School Transformation Programme (NSTP) | • Improved teacher attendance in rural schools | 2011
@@ -2427,7 +2067,7 @@ attract high quality students to take up teaching as part of the institutional r
 
 ## 4.2 Standards and Quality Assurance
 
-The Education National Minimum Standards and Establishment of Institutions Act 16 of 1985, together with the 1999 Constitution, empowers the Minister of Education to ensure that Minimum Standards are set, maintained and constantly improved in all schools of the federation. This responsibility, aimed at ensuring uniformity  of  standards,  is  delegated  to  the  Federal  Inspectorate  Service  (FIS)  Department  and  other bodies  by  the  Minister  of  Education  and  carried  out  through  inspection  and  monitoring  of  educational provisions in schools and colleges. Under the Ministry, however, FIS lacks legal authority to superintend over quality assurance functions in schools nationwide.
+The Education National Minimum Standards and Establishment of Institutions Act 16 of 1985, together with the 1999 Constitution, empowers the Minister of Education to ensure that Minimum Standards are set, maintained and constantly improved in all schools of the federation. This responsibility, aimed at ensuring uniformity of standards, is delegated to the Federal Inspectorate Service (FIS) Department and other bodies by the Minister of Education and carried out through inspection and monitoring of educational
 
 Access
 
@@ -2495,25 +2135,27 @@ High Achieving Students
 
 Where We Are
 
-Quality  Assurance  in  Education  is  a  paradigm  shift  from  the  current  practice  of  school  inspection  to  a monitoring  and  evaluating  process  that  provides  a  new  operative  mode  of  evaluation.  It  ensures  that inputs, processes and outputs of the education system meet set standards to bring about improvement in teaching and learning. This involves the process of monitoring, assessing and evaluating according to set standards  and  communicating  the  outcomes  to  all  concerned  in  order  to  ensure  quality  with  integrity, public accountability and consistent improvement. Thus, the process is open and the findings are valid, reliable and consistent and inform national and state planning, training and policy formulation.
+provisions in schools and colleges. Under the Ministry, however, FIS lacks legal authority to superintend over quality assurance functions in schools nationwide.
+
+Quality Assurance in Education is a paradigm shift from the current practice of school inspection to a monitoring and evaluating process that provides a new operative mode of evaluation. It ensures that inputs, processes and outputs of the education system meet set standards to bring about improvement in teaching and learning. This involves the process of monitoring, assessing and evaluating according to set standards and communicating the outcomes to all concerned in order to ensure quality with integrity, public accountability and consistent improvement. Thus, the process is open and the findings are valid, reliable and consistent and inform national and state planning, training and policy formulation.
 
 Quality  standards  are  the  goals  to  which  all  learners,  teachers,  staff  and  school  leaders  should  aspire. There  are  8  components  of  quality  standards  outlined  in  the  approved  National  Education  Quality Assurance Policy and the Education Quality Assurance Handbook for Nigeria namely:
 
-- learner achievement and standards
+1. learner achievement and standards
 
-- learners' welfare and participation
+2. learners’ welfare and participation
 
-- Care, guidance and support
+3. Care, guidance and support
 
-- Leadership and Management
+4. Leadership and Management
 
-- School community relationships
+5. School community relationships
 
-- Learning Environment
+6. Learning Environment
 
-- Teaching and learning
+7. Teaching and learning
 
-- Curriculum and other activities
+8. Curriculum and other activities
 
 To maintain quality standards in the basic and post basic sub-sectors, there must be in place an effective and efficient organ for quality control with a mandate similar to those of Central Bank of Nigeria (CBN) in the  financial  sector,  National  Agency  for  Food  and  Drug  Administration  and  Control  (NAFDAC)  in  the health sector and regulatory bodies of the tertiary education sub-sector. It is important to note that some states  have  already  established  autonomous  agencies  for  Quality  Assurance  while  others  are  in  the process of doing so.
 
@@ -2523,7 +2165,7 @@ Assuring  Quality  is  a  major  challenge  of  our  educational  system.  From 
 
 The performances of inspectorate services at the 3 tiers of government have also been considerably poor. For  example,  at  the  Federal  level,  only  4.9%  and  4.7%  of  Secondary  Schools  were  inspected  by  the Federal Inspectorate Service in 2004 and 2005 respectively.  While some State Inspectorate Services may be better off, a few States do not have distinct Inspectorate Services department.
 
-Significantly also, the current model of education inspection practice which was inherited from the colonial government has remained unchanged despite the changing circumstances of the country. The model has been described variously as 'ineffective', 'inefficient', 'too-expensive' and 'seemingly irrelevant' as it is non-collaborative, diagnostic rather than remedial, does not inspire quality consciousness and lacks power of independence to sanction erring proprietors and school operators.
+Significantly also, the current model of education inspection practice which was inherited from the colonial government has remained unchanged despite the changing circumstances of the country. The model has been described variously as “ineffective”, “inefficient”, “too–expensive” and “seemingly irrelevant” as it is
 
 Access
 
@@ -2591,6 +2233,8 @@ High Achieving Students
 
 Where We Are
 
+non-collaborative, diagnostic rather than remedial, does not inspire quality consciousness and lacks power of independence to sanction erring proprietors and school operators.
+
 Key challenges include:
 
 - Weak and outdated Quality Assurance legal framework with ineffective sanctions that do not evoke appropriate corrective action by defaulters
@@ -2628,7 +2272,7 @@ The  turn  around  strategies  and  deliverables  which  have  been  articulated
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
 • Amend Act 16 of 1985 to provide adequate legal backing for the institutionalization of Education Quality Assurance at basic and post-basic education levels | • Memo on the establishment of NAEQA submitted to FEC | April 2009
-• Executive Bill for the establishment of a National Education Quality Assurance Agency passed into law | Dec.2009
+| • Executive Bill for the establishment of a National Education Quality Assurance Agency passed into law | Dec.2009
 
 Access
 
@@ -2825,31 +2469,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 25
 
@@ -2902,31 +2522,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 26
 
@@ -2935,8 +2531,6 @@ Utilisation
 [[START OF PAGE 28]]
 
 Roadmap for the Nigerian Education Sector Consultative Draft April 2009
-
-Figure 4.2. Existing Shortfalls in Teaching Staff
 
 High Performing Schools
 
@@ -2984,6 +2578,8 @@ Shortfall in number
 
 Actual Number of Staff
 
+Figure 4.2. Existing Shortfalls in Teaching Staff
+
 Another  major  challenge  is  the  alarming  discrepancy  between  teacher  certified  qualifications  and  their actual teaching competence and performance on the job. The Teachers Registration Council of Nigeria of Nigeria will play a critical role in ensuring the continous professional development of teachers.
 
 #### Turn around Strategies and Deliverables:
@@ -3021,31 +2617,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 27
 
@@ -3101,31 +2673,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 28
 
@@ -3187,31 +2735,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 29
 
@@ -3267,31 +2791,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 30
 
@@ -3361,31 +2861,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 31
 
@@ -3439,31 +2915,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 32
 
@@ -3533,31 +2985,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 33
 
@@ -3620,31 +3048,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 34
 
@@ -3697,31 +3101,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 35
 
@@ -3801,31 +3181,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 36
 
@@ -3885,31 +3241,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 37
 
@@ -3987,31 +3319,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 38
 
@@ -4068,31 +3376,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 39
 
@@ -4124,8 +3408,6 @@ Senior Secondary Schools and Technical Vocational Colleges are characterized by:
 
 - Low utilization of modern educational technology for instructional purposes.
 
-Figure 5.1 Qualified versus Unqualified Teachers in Senior Secondary Schools
-
 Qualified vs Unqualified Teachers in Senior Secondary Schools
 
 Qualified
@@ -4139,6 +3421,8 @@ Unqualified
 Teachers
 
 22%
+
+Figure 5.1 Qualified versus Unqualified Teachers in Senior Secondary Schools
 
 #### Turn around Strategies and Deliverables:
 
@@ -4174,31 +3458,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 40
 
@@ -4253,31 +3513,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 41
 
@@ -4347,31 +3583,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 42
 
@@ -4404,39 +3616,13 @@ Support services are the services provided in schools to enhance teaching and le
 
 Such areas of support include:
 
-- Guidance and Counselling i.e. Emotional Support, Career Guidance, Character building.
+i. Guidance and Counselling i.e. Emotional Support, Career Guidance, Character building.
 
-- ii Health  Care i.e . Hygiene,  Sports  and  Recreational  activities, Nutrition , HIV/AIDS/other  health threatening issues (Awareness and prevention).
+ii Health Care i.e. Hygiene, Sports and Recreational activities, Nutrition, HIV/AIDS/other health threatening issues (Awareness and prevention).
 
-- Appreciation and Protection of the environment
+iii. Appreciation and Protection of the environment
 
-- Appreciation  of  Arts  and  Culture i.e.  Visual  and  Communication  Arts,  Music,  Dance, Drama, Crafts, etc.
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
+iv. Appreciation of Arts and Culture i.e. Visual and Communication Arts, Music, Dance, Drama, Crafts, etc.
 
 Access
 
@@ -4463,6 +3649,8 @@ Funding &
 Resource
 
 Utilisation
+
+
 
 43
 
@@ -4531,31 +3719,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 44
 
@@ -4589,9 +3753,9 @@ Although  attempts  have  been  made  at  introducing  ICT  at  the  Post-Basic 
 
 - Lack of commitment by schools to the delivery of Computer Education.
 
-- Phobia for use of computers, on the part of teachers, resulting in poor utilisation of existing facilities.
-
 - Low appreciation of ICT on the part of education administrators.
+
+- Phobia for use of computers, on the part of teachers, resulting in poor utilisation of existing facilities.
 
 - Problems of power and energy.
 
@@ -4630,31 +3794,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 45
 
@@ -4713,31 +3853,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 46
 
@@ -4808,31 +3924,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 47
 
@@ -4901,31 +3993,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 48
 
@@ -4977,31 +4045,7 @@ Resource
 
 Utilisation
 
-Access
 
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 49
 
@@ -5021,7 +4065,7 @@ Where We Are
 
 ### Challenges
 
-The steady decline in funding relative to explosion in student population in Secondary and Technical/Vocational Schools has resulted in limited access and equity, inability to attain set standards, disproportionate  student-teacher  ratio,  among  others.  These,  in  turn,  have  led  to  steady  decline  in  the quality of curriculum delivery and over-stretching of available facilities and infrastructure
+The steady decline in funding relative to explosion in student population in Secondary and Technical/Vocational Schools has resulted in limited access and equity, inability to attain set standards, disproportionate student–teacher ratio, among others. These, in turn, have led to steady decline in the quality of curriculum delivery and over-stretching of available facilities and infrastructure
 
 The following are some of the challenges posed by funds and fund utilization in the Post-Basic Education sector:
 
@@ -5044,34 +4088,8 @@ The  turn  around  strategies  and  deliverables  which  have  been  articulated
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
 • FME and States to commence immediate implementation of existing policies on public-private partnership (PPP) in funding Secondary education and TVET (e.g. Support-a-Public School programme; the VEI Initiative etc.) | • The Support-a-School Project, the Community Accountability and Transparency Initiative (CATI), etc. implemented by FME and States | 2009
-• MDAs at Federal, State and FCT to train officers involved in budget implementation in the use of Strategic Plans, Medium-Term Sector Strategy (MTSS) and Quarterly Work Plans | • All key officers involved in budget implementation trained in the use of Strategic Plans, Medium- Term Sector Strategy (MTSS) and Annual Work Plans | 2009
+• MDAs at Federal, State and FCT to train officers involved in budget implementation in the use of Strategic Plans, Medium-Term Sector Strategy (MTSS) and Quarterly Work Plans | • All key officers involved in budget implementation trained in the use of Strategic Plans, Medium-Term Sector Strategy (MTSS) and Annual Work Plans | 2009
 • Federal and States governments should increase budgetary allocation to education to at least 25% of the budget | • Federal and States budgetary allocation to education increased to a | 2010
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -5150,32 +4168,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 51
 
 [[END OF PAGE 52]]
@@ -5196,8 +4188,6 @@ Tertiary Education institutions are categorized into Universities, Polytechnics/
 
 There  are  a  total  number  of  94  approved  Universities,  115  approved  Polytechnics/  Monotechnics,  86 approved Colleges of Education and 62 approved Innovative Enterprise Institutions (see Fig. 6.1)
 
-Figure 6.1 Approved Tertiary Institutions in Nigeria
-
 Approved Tertiary Institutions in Nigeria
 
 Universities, 94
@@ -5216,33 +4206,9 @@ Enterprise
 
 Institutions, 62
 
-The staff strength of Nigerian universities is 99,464 comprising; 27,394 academic staff; and 72,070 nonteaching staff while the Polytechnics/ Monotechnics have 12,938 academic staff and 24,892 non-teaching staff;  Colleges  of  Education  have  11,256  academic  staff  and  24,621  non-teaching  staff.  The  current students' enrolment stands at 1,131,312, 360,535 and 354,387 in Universities, Polytechnics and Colleges of Education respectively. The short fall in academic staff in each sector is 19,548; 17,078; and 14,858 for Universities, Polytechnics and Colleges of Education respectively.
+Figure 6.1 Approved Tertiary Institutions in Nigeria
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
+The staff strength of Nigerian universities is 99,464 comprising; 27,394 academic staff; and 72,070 non-teaching staff while the Polytechnics/ Monotechnics have 12,938 academic staff and 24,892 non-teaching staff; Colleges of Education have 11,256 academic staff and 24,621 non-teaching staff. The current students' enrolment stands at 1,131,312, 360,535 and 354,387 in Universities, Polytechnics and Colleges of Education respectively. The short fall in academic staff in each sector is 19,548; 17,078; and 14,858 for Universities, Polytechnics and Colleges of Education respectively.
 
 Access
 
@@ -5277,8 +4243,6 @@ Utilisation
 [[START OF PAGE 54]]
 
 Roadmap for the Nigerian Education Sector Consultative Draft April 2009
-
-Figure 6.2 Academic Staff Strength in the Tertiary Sector
 
 High Performing Schools
 
@@ -5324,6 +4288,8 @@ Shortfall in Staff Strength
 
 Actual Staff Number
 
+Figure 6.2 Academic Staff Strength in the Tertiary Sector
+
 The current state of tertiary education in Nigeria can be described as follows:
 
 - Inadequate  regulation  of  the  NUS.  Inclusion  of  Education  on  the  concurrent  legislative  list enables State Governments to establish Universities without recourse to Minimum Academic Standards or guidance from the Commission
@@ -5341,32 +4307,6 @@ The current state of tertiary education in Nigeria can be described as follows:
 - Weak leadership
 
 - Generally low quality graduates.  The quality of graduates dropped from 72% in 1979 to 68% by 1999. Only 10% of the 130,000 students that graduate from Nigerian universities annually are able to secure paid employment.
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -5464,32 +4404,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 54
 
 [[END OF PAGE 55]]
@@ -5513,34 +4427,8 @@ Turn-Around Strategies | Deliverables | Timeline
 • Expand and/or improve facilities including physical and instructional facilities in existing tertiary institutions including NOUN, NTI and NMC to make them more relevant and globally competitive • Expand the activities and programme of NOUN and NTI without compromising quality | • Improved quality of institutions | 2011
 • Increase carrying capacities in existing tertiary institutions • Increase carrying capacity by 25% in programmes that have consistently earned full accreditation status without compromising standards | • Increased capacity of tertiary institutions | 2011
 • Promote private sector and State Government participation in the provision of Tertiary Education | • Increased private and state tertiary institutions | 2011
-• Develop guidelines for providers of off-shore degree and lifting the ban on non-recognition of off-shore degrees in Nigeria | • Guidelines for providers of off- shore degrees | 2010
+• Develop guidelines for providers of off-shore degree and lifting the ban on non-recognition of off-shore degrees in Nigeria | • Guidelines for providers of off-shore degrees | 2010
 • Strengthen and expand Open and Distance Learning | • Improved Open and Distance Learning | 2010
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -5585,7 +4473,7 @@ Where We Are
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
 (ODL) systems in selected tertiary institution | programs
-• Ensure continuous gender-focused education programmes by considering policies such as quota- based admission, fees reduction, scholarships and other incentives based on gender • Provide incentives such as matching grants to State Governments to establish more tertiary institutions | • 45% gender equity in science and technology-based programmes attained | 2011
+• Ensure continuous gender–focused education programmes by considering policies such as quota-based admission, fees reduction, scholarships and other incentives based on gender • Provide incentives such as matching grants to State Governments to establish more tertiary institutions | • 45% gender equity in science and technology-based programmes attained | 2011
 • Set admission quota for women and other persons with special needs to at least 45% across board noting the current admission status is between 33-39% in favour of females • Provide incentives to attract secondary school leavers to train as TVET, and special education teachers • Mainstream special needs courses into teacher education curriculum | • 10% increase in access to students with special needs achieved. | 2011
 
 (see Appendix - Section 8.3.1)
@@ -5613,32 +4501,6 @@ The quality of the graduates of tertiary institutions has continued to be an iss
 - Brain drain or human capital flight
 
 - Divided interests by academics (moonlighting)
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -5708,32 +4570,6 @@ Please see the special ETF Intervention Project on page 70
 • Develop strategies to ensure stability of calendar | • Stable academic calendar | 2010
 • Implement the FEC guidelines on eradication of cultism, exam malpractice and other vices | • Reduced cultism, exam malpractice, etc. | 2010
 • Enforce policy on ban of the sale of handouts by lecturers | • Restored integrity of handouts/course materials | 2010
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -5837,32 +4673,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 58
 
 [[END OF PAGE 59]]
@@ -5926,32 +4736,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 59
 
 [[END OF PAGE 60]]
@@ -5972,38 +4756,11 @@ The  turn  around  strategies  and  deliverables  which  have  been  articulated
 
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
-• Ensure periodic review of curricula in line with national needs and goals every five years | • Curriculum reviewed every 5 years
-• Strengthen the first generation universities to enhance the running of postgraduate degrees with emphasis on Ph.D. at the ratio of 60:40 in favour of postgraduate degrees | • More curricula developed for IEIs and post-graduate programmes | 2011
-• Create Centres of Excellence by establishing intra and inter-institution centralized laboratories, studios and workshops, and overhaul existing laboratories, studios and workshops in one University, Polytechnic and College of Education in each geo- political zone yearly; | • Identified Centres of Excellence | 2009
+• Ensure periodic review of curricula in line with national needs and goals every five years • Strengthen the first generation universities to enhance the running of postgraduate degrees with emphasis on Ph.D. at the ratio of 60:40 in favour of postgraduate degrees | • Curriculum reviewed every 5 years • More curricula developed for IEIs and post-graduate programmes | 2011
+• Create Centres of Excellence by establishing intra and inter-institution centralized laboratories, studios and workshops, and overhaul existing laboratories, studios and workshops in one University, Polytechnic and College of Education in each geo-political zone yearly; | • Identified Centres of Excellence | 2009
 • Ensure strict compliance with programme focus in tertiary institutions, particularly specialised ones • Strengthen inspection and monitoring mechanisms of regulatory agencies through capacity building and funding • Strengthen the existing tripartite relationship among NUC, JAMB and NYSC to ensure compliance with existing regulations on accreditation, admissions and mobilization • Strengthen admission processes in tertiary institutions, including the continuation and improvement of the post-JAMB screening exercise • Establish a tripartite collaboration between the regulatory agency, JAMB, NOUN and NTI to ensure quality entrants into the NOUN and NTI systems • Strengthen Career and/or Guidance Counselling and Entrepreneurial Centres | • Improved quality of curricula and programs | 2010
-• Increase foreign training for Nigerian students via scholarships and appropriate placements to address identified national needs • Strengthen linkages with foreign institutions for the | • Increased partnerships and articulation with foreign institutions | 2010
+• Increase foreign training for Nigerian students via scholarships and appropriate placements to address identified national needs • Strengthen linkages with foreign institutions for the purpose of reinforcing capacity building | • Increased partnerships and articulation with foreign institutions | 2010
 • Create synergy between tertiary institutions and the Organised Private Sector | • Partnerships with OPS | 2009
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -6102,32 +4859,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 61
 
 [[END OF PAGE 62]]
@@ -6153,33 +4884,7 @@ Turn-Around Strategies | Deliverables | Timeline
 
 ## 6.3 Technical and Vocational Education and Training
 
-TVET at tertiary level is offered in the Polytechnics, Monotechnics, Innovation Enterprise Institutions (IEIs) and  Colleges  of  Education  (Technical).  These  are  under  the  supervision  of  the  National  Board  for Technical Education (NBTE) and the National Commission for Colleges of Education (NCCE) respectively. There is a total of 115 approved Polytechnics/Monotechnics with staff strength of 12,938 academic staff and  24,892  non-teaching  staff;  with  a  total  enrolment  of  360,535.  The  shortfall  in  academic  staff  is estimated  at  17,078.  There  are  currently  62  approved  IEIs  out  of  which  only  22  have  approved programmes with a total carrying capacity of about 7,420.
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
+TVET at tertiary level is offered in the Polytechnics, Monotechnics, Innovation Enterprise Institutions (IEIs) and Colleges of Education (Technical). These are under the supervision of the National Board for Technical Education (NBTE) and the National Commission for Colleges of Education (NCCE) respectively. There is a total of 115 approved Polytechnics/Monotechnics with staff strength of 12,938 academic staff
 
 Access
 
@@ -6221,6 +4926,8 @@ High Achieving Students
 
 Where We Are
 
+and 24,892 non-teaching staff; with a total enrolment of 360,535. The shortfall in academic staff is estimated at 17,078. There are currently 62 approved IEIs out of which only 22 have approved programmes with a total carrying capacity of about 7,420.
+
 ### Challenges
 
 Government policy in the past had not accorded polytechnic education its rightful place within the tertiary education sub-sector of the country.  This can be seen in the placement of ceiling on career progression of polytechnic staff and graduates, relative low level of funding, despite the expensive nature of TVET, and poor conditions of service for staff.
@@ -6250,32 +4957,6 @@ Turn-Around Strategies | Deliverables | Timeline
 • Implement the Presidential directive on the award of Bachelor of Technology (B. Tech.) in core competent fields by Polytechnics • Equip adequately the Polytechnics and Universities of Technology | • B Tech. Curricula (in Electrical, Mechanical and Civil Eng. Technology, etc.) for the Polytechnics developed | Dec 2009
 • Review and strengthen legal framework for Federal Polytechnics | • B. Tech offered by Polytechnics in core competent fields | 2010
 • Increase carrying capacity by 25% in programmes that have consistently earned full accreditation status without compromising standards • Upgrade and provide additional infrastructure, buildings and equipment in | • National Occupational Standards (NOS) in key areas produced | 2010
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -6360,32 +5041,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 64
 
 [[END OF PAGE 65]]
@@ -6413,7 +5068,7 @@ to attract and retain quality academic staff | Ph.D. increased by 10% annually
 
 The tertiary  institutions  draw  a  significant  part  of  their  funds  from  the  proprietors  (Federal  Government, State  Governments  and  Private  proprietors)  while  the  remaining  part  is  internally  generated  from levies/charges/fees  (for  Private  Institutions),  international  development  partners,  support  from  alumni associations, and linkages with industries in Nigeria and abroad. The bulk (80%) of what was appropriated for  tertiary  education  especially from 2005 to 2007 was for personnel cost and the remaining 20% took care of maintenance, development and other areas of overhead. The table below illustrates the level of funding for tertiary education from 2005 to 2007.
 
-Tertiary Education | 2005 N | 2006 N | 2007 N
+Tertiary Education | 2005 ₦ | 2006 ₦ | 2007 ₦
 --- | --- | --- | ---
 Recurrent Costs | 195,193,000,000 | 210,123,000,000 | 226,311,000,000
 Construction and other Investments | 12,231,000,000 | 12,760,000,000 | 13,326,000,000
@@ -6424,33 +5079,7 @@ Non-teacher recurrent as % of recurrent total | 20% | 20% | 19%
 
 Table 6.2 Level of funding for tertiary education (2005 to 2007)
 
-Over the years, funding of tertiary education has been on the increase. However, the funds have not been adequate  for  the  institutions  because  the  allocation  from  the  proprietors  fall  short  of  what  is  actually required. For example in 2004, the sum of N 216,622,706,206.00 was requested by the federally-funded universities.  The  Federal  Government  however  released  the  sum  of  N53,466,287,486.01  representing 24.7% of the budget request from the universities.
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
+Over the years, funding of tertiary education has been on the increase. However, the funds have not been adequate for the institutions because the allocation from the proprietors fall short of what is actually required. For example in 2004, the sum of ₦ 216,622,706,206.00 was requested by the federally-funded
 
 Access
 
@@ -6492,13 +5121,15 @@ High Achieving Students
 
 Where We Are
 
+universities. The Federal Government however released the sum of ₦53,466,287,486.01 representing 24.7% of the budget request from the universities.
+
 ### Turn around Strategies and Deliverables:
 
 The  turn  around  strategies  and  deliverables  which  have  been  articulated  to  address  the  foregoing challenges are highlighted below:
 
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
-• Encourage proprietors of tertiary institutions to provide adequate and sustainable funding • Ensure tertiary institutions develop self-reliance through internal sourcing of funds • Improve other sources of funding through cost- sharing (e.g. re-introduction of Tuition fees), private sector involvement, Alumni, endowments, International Development Partners, Consultancy services, etc • Accelerate the implementation of the policy to refocus ETF to exclusively intervene in tertiary education | • 50% annual increase on present funding level over the next three years attained. | 2011
+• Encourage proprietors of tertiary institutions to provide adequate and sustainable funding • Ensure tertiary institutions develop self-reliance through internal sourcing of funds • Improve other sources of funding through cost-sharing (e.g. re-introduction of Tuition fees), private sector involvement, Alumni, endowments, International Development Partners, Consultancy services, etc • Accelerate the implementation of the policy to refocus ETF to exclusively intervene in tertiary education | • 50% annual increase on present funding level over the next three years attained. | 2011
 • Dedicate 10% of recurrent allocation to research and ensure its effective utilization • Reduce the proportion of recurrent costs of tertiary institutions by adopting strategies such as outsourcing | • Increased funding for research | 2011
 • Provide adequate funding to regulatory agencies in the annual national budget for activities involved in the orderly development of tertiary institutions | • Increased funding | 2011
 • Restructure and strengthen the existing Scholarship and Student Loan Boards | • Restructured Scholarship Board | 2011
@@ -6509,32 +5140,6 @@ Turn-Around Strategies | Deliverables | Timeline
 ## 6.5 Special ETF Intervention Project
 
 A Special  Intervention  Project  funded  by  the  Education  Trust  Fund  will  be  the  mode  of  delivering  high impact  improvement  efforts  at  the  tertiary  level.    The  necessity  for  special  high  impact  projects  has become very urgent for the following reasons:
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -6587,37 +5192,8 @@ The project will focus intervention efforts on a select sample of tertiary insti
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
 • Construct Zonal Teaching & Research Laboratories, (Physical Infrastructure, furnishing and equipment) • Upgrade existing facilities (infrastructure and equipment) • Target expansion, rehabilitation and equipping of critical infrastructure (classrooms/lecture theatres, laboratories, workshops, libraries and studios) • Upgrade the teaching and learning environment (standard laboratories and workshops) • Emphasize training of Science, Math , TVET teachers | • New Zonal Teaching and Research Labs • Upgraded facilities • Expanded and rehabilitated infrastructure • Fully equipped, functional and effective learning environment | 2010
-• A vibrant research community with
-• Establish a National Research Fund to ¾ Facilitate advanced research capable of promoting national development in various disciplines (social, economic, scientific and technological). | expansion of new research in different fields and disciplines
-¾ Encourage invention, especially in science and technology. | • New inventions in science and technology
-• Establish a Book Development Fund to: ¾ Resuscitate moribund journals of professional associations affiliated to tertiary institutions. NUC, NBTE and NCCE are drawing up a list for ETF's consideration. ¾ Publish (hard & electronic form) excellent Ph.D. theses submitted to Nigerian Universities or by Nigerians in foreign Universities. NUC to | • Professional journals • Database of publications • Database of research publications • A system of
-dissemination of
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
+• Establish a National Research Fund to ¾ Facilitate advanced research capable of promoting national development in various disciplines (social, economic, scientific and technological). ¾ Encourage invention, especially in science and technology. | • A vibrant research community with expansion of new research in different fields and disciplines • New inventions in science and technology
+• Establish a Book Development Fund to: ¾ Resuscitate moribund journals of professional associations affiliated to tertiary institutions. NUC, NBTE and NCCE are drawing up a list for ETF's consideration. ¾ Publish (hard & electronic form) excellent Ph.D. theses submitted to Nigerian Universities or by Nigerians in foreign Universities. NUC to | • Professional journals • Database of publications • Database of research publications • A system of dissemination of
 
 Access
 
@@ -6691,32 +5267,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 68
 
 [[END OF PAGE 69]]
@@ -6751,7 +5301,7 @@ There appears to be a gap between policy recommendations and the need to express
 
 ### Challenges
 
-The major challenges can be summarised as follows :
+The major challenges can be summarised as follows:
 
 - Inadequate capacity for policy formulation and implementation
 
@@ -6762,32 +5312,6 @@ The major challenges can be summarised as follows :
 - Appointment to key managerial positions without due regard to qualification and competence
 
 - Lack of ICT infrastructure (EMIS)
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -6837,7 +5361,7 @@ Where We Are
 
 - Frequent change of leadership at the policy implementation level
 
-- Weak synergy among policy implementation agencies (FME,NUC,NBTE,NCCE, TRCN, NIEPA )
+- Weak synergy among policy implementation agencies (FME,NUC,NBTE,NCCE, TRCN, NIEPA)
 
 - Inadequate institutional capacity for monitoring and evaluation
 
@@ -6855,32 +5379,6 @@ Turn-Around Strategies | Deliverables | Timeline
 • Strengthen the NCE process for policy formulation and monitoring • Empower the FME to ensure the enforcement of NCE decisions | • NCE decisions enforced in a timely manner | 2010
 • Reposition the ministry and its departments of (e.g. B&SE) to carry out their statutory responsibilities with regard to parastatals • Consider reinstituting the Department of Technical and Vocational Education | • Increased capacity of FME to carry out statutory responsibilities over parastatals and institutions | 2010
 • Link utilization of resources to strategic plans, MTSS and annual work plans | • Budgetary allocation for basic education improved • Solid plans for implementation of basic | 2010
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -6940,32 +5438,6 @@ Effective planning and management depends on access to accurate information.  Th
 Among the primary challenges facing the Nigeria education sector is access to relevant information.  Data is hardly collected.  Where they are, most prove unreliable as a result of the methods used in collecting them.  Further, these are rarely made available as and when required.  As a result of this, every plan and implementation of government policy starts with a major and fundamental flaw - the use of inaccurate data to determine the allocation of scarce resources.
 
 The  success  of  the  Roadmap  and  future  planning  and  implementation  process  will  depend  on  the development of an efficient information management system.  At the moment NEMIS is the system that units in the Education sector depend on for planning information.  However, this unit is unable to perform its functions effectively.  In order to be effective, therefore, it must be supported to develop capacity and competence in its areas of operation.  This includes the implementation of approved policy, strengthening data  linkages  between  organisations  that  generate  and  use  information.    In  addition,  there  must  be  an efficient  way  of  disseminating  information,  including  virtually.    Information  that  should  be  in  the  public domain must be obtained with little hassle.  In doing this, information should be collected and organised as near as possible to their sources with links provided through a central database.
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -7079,32 +5551,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 72
 
 [[END OF PAGE 73]]
@@ -7160,32 +5606,6 @@ Resource
 
 Utilisation
 
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
-
 73
 
 [[END OF PAGE 74]]
@@ -7208,7 +5628,7 @@ Foundational to articulating and pursuing the vision of a new education sector i
 
 At the Federal level and in some States there exists ineffective and out-dated legal framework governing the implementation of education at the different levels of education.
 
-The legal and regulatory framework for education is complicated by the existence and operation of the 25 extra-ministerial departments which relate to the Federal Ministry of Education in various ways. Some of these have functions which overlap with those of FME, and may duplicate them, such as the M&E unit of UBEC and the Inspectorate (FIS), or potential conflict such as among DPRS, UBEC, ESA, and NERDC each with mandates to collect data. These duplications of functions increase the number of administrative staff, create higher running costs and have created an unwieldy, costly and inefficient system of service delivery.
+The legal and regulatory framework for education is complicated by the existence and operation of the 25 extra-ministerial departments which relate to the Federal Ministry of Education in various ways. Some of these have functions which overlap with those of FME, and may duplicate them, such as the M&E unit of UBEC and the Inspectorate (FIS), or potential conflict such as among DPRS, UBEC, ESA, and NERDC - each with mandates to collect data. These duplications of functions increase the number of administrative staff, create higher running costs and have created an unwieldy, costly and inefficient system of service delivery.
 
 This  situation  is  mirrored  at  the  State  level  where  there  is  a  similar  proliferation  of  extra-ministerial departments and overlap of function. The relationship between State Ministries of Education and SUBEBs, for example, can have a dysfunctional effect on the effective delivery of UBE.
 
@@ -7222,34 +5642,8 @@ The  turn  around  strategies  and  deliverables  which  have  been  articulated
 
 Turn-Around Strategies | Deliverables | Timeline
 --- | --- | ---
-• Undertake a comprehensive analysis of existing Federal legislation that impacts upon the structures, finances and statutory roles and responsibilities of relevant actors in the basic education sector in Nigeria; • Review and strengthen the legal framework for all extra-ministerial departments, institutions and regulatory agencies • Identify and highlight any inconsistencies or contradictions between the different Acts; | • The legal framework for the different organizations, extra- ministerial departments and institutions reviewed by 2011 • The extra-ministerial departments in education at the federal and state levels streamlined | 2011
+• Undertake a comprehensive analysis of existing Federal legislation that impacts upon the structures, finances and statutory roles and responsibilities of relevant actors in the basic education sector in Nigeria; • Review and strengthen the legal framework for all extra-ministerial departments, institutions and regulatory agencies • Identify and highlight any inconsistencies or contradictions between the different Acts; | • The legal framework for the different organizations, extra-ministerial departments and institutions reviewed by 2011 • The extra-ministerial departments in education at the federal and state levels streamlined | 2011
 • Review the laws governing the different aspects of | • Laws governing basic
-
-Access
-
-and
-
-Equity
-
-Technical &
-
-Vocational
-
-Education &
-
-Training
-
-Standards
-
-& Quality
-
-Assurance
-
-Funding &
-
-Resource
-
-Utilisation
 
 Access
 
@@ -8054,6 +6448,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
+Sustain procurement of textbooks and other instructional materials
 6. | Capacity building of school leaders to empower them to assume the role of monitoring, supervising ans assuring quality performance in the schools | Capacity building workshops New roles of schoolleaders and quality assurance agentss | June 2009 | TRCN, UBEC
 
 ### 8.1.3 Teacher Quality, Development, Motivation and Retention
@@ -8936,6 +7331,8 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
+environment
+Integrate children with special needs, nomadic groups, migrant fisher-folks and farmers, those in difficult terrain and other excluded children
 3. | High rate of exclusion of girls, almajirai, Out-of-School Boys syndrome & other vulnerable groups | Intensify the implementation of Gender Education Project & STUMEC Accelerate the mainstreaming of the Quranic Education Program Provide flexible schools e.g. Market Schools | 20% boost in gender-focussed enrolment and participation of other disadvantaged groups A School/Major market for boys e.g. Ochanga Market in Onitcha, Otolo Nnewi, Ariara at Aba, Alaba Market in lagos, Sabon-Gari Market in Kano, New market in Sokoto, etc. | 2011 2009 | FME, SOME NOA, NERDC, FMI, relevant State Agencies CSO, CBOs, NGOs, Media | FG, ETF, MDGs, private sector support, IDPs
 4. | Direct and indirect costs that make education unaffordable for the poor | Implement UBE law in full to ensure the provision of education to all groups | UBE law implemented and fully enforced Focused value reorientation through strategic advocacy & sensitization in the South-East | 2009 2010 | FG, FME, SMOEs NASS, UBEC, SUBEBS, etc.
 5. | Low intrinsic value for education by some communities | Value re-orientation through advocacy and sensitization in the affected areas in the south - east
@@ -9441,7 +7838,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-10. | Curriculum dynamism- responsive to the needs of society | Timely review and enrichment of schools curriculum Printing and distribution of the new SSE and TVET curricula to all schools by NERDC and NBTE in partnership with the publishers NERDC, NBTE to produce teaching syllabi as applicable NBTE to review the TVET curriculum | JSS component of the 9 - Year BEC reviewed Secondary school component of BEC reviewed All TVET curricula revised Teaching syllabi for the newly approved curricula developed, printed and distributed to teachers Copies of TVET curricula made available to teachers | 2011 2011 2010 2010 2011 | NERDC, NBTE FME, SMOE | • First-line vote • Private sector
+10. | Curriculum dynamism-responsive to the needs of society | Timely review and enrichment of schools curriculum Printing and distribution of the new SSE and TVET curricula to all schools by NERDC and NBTE in partnership with the publishers NERDC, NBTE to produce teaching syllabi as applicable NBTE to review the TVET curriculum | JSS component of the 9 - Year BEC reviewed Secondary school component of BEC reviewed All TVET curricula revised Teaching syllabi for the newly approved curricula developed, printed and distributed to teachers Copies of TVET curricula made available to teachers | 2011 2011 2010 2010 2011 | NERDC, NBTE FME, SMOE | • First-line vote • Private sector
 11. | Lack of digitisation of curriculum including the use of computer simulation | Digitization of existing SSE and TVET curricula and other instructional materials NERDC, NBTE, publishers to complete review/ development of school textbooks and other instructional materials in line with the new curriculum. | All existing SSE and TVET curricula digitized Textbooks and other instructional materials in line with the new curricula developed/ revised and distributed Upgraded secondary school curriculum | 2010 2012 2013 | NERDC, NBTE, Indigenous publishers FME, SMoEs, FIS, SIS, | • First-line vote • Private sector •
 
 Access
@@ -9879,7 +8276,7 @@ Where We Are
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
 4. | Lack of coordination of budget implementation among the tiers of Government | Funds and resource utilizations by FME and SMOEs to be based strictly on approved Medium Term Sector Strategy (MTSS) plans and Quarterly work plans | Judicious utilization of funds for the purpose for which it was intended | 2009 | FME, SMOE & FCT Education Department NASS, State Houses of Assembly | FG, SG, IDPs, private sector
-5. | Non implementation of public- private partnership (PPP) guidelines on funding, resource mobilization and utilization | Immediate implementation of existing policies on public- private partnership (PPP) in funding Secondary education and TVET e.g. the Support -a - School Project, CATI, etc. | Existing PPP guidelines fully implemented at Federal and state levels | 2009 - 2010 | FME, SMOE & FCT Education Department NASS, State Houses of Assembly | FG, SG, IDPs, private sector
+5. | Non implementation of public-private partnership (PPP) guidelines on funding, resource mobilization and utilization | Immediate implementation of existing policies on public-private partnership (PPP) in funding Secondary education and TVET e.g. the Support -a - School Project, CATI, etc. | Existing PPP guidelines fully implemented at Federal and state levels | 2009 - 2010 | FME, SMOE & FCT Education Department NASS, State Houses of Assembly | FG, SG, IDPs, private sector
 
 Access
 
@@ -10023,7 +8420,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-candidates to meet the 70:30 policy in favour of technology- based programmes in the Polytechnics; Policy restriction on the award of degrees to universities only; Inadequate public financing; Unattractive conditions of service for teachers; and Absence of deliberate policy for recruiting qualified secondary school leavers to train as teachers. Some segments of the Nigerian population especially those with special needs and other disadvantaged groups seem to be under-served. There are also disparities in gender participation, quality of education across the States and the location of | programme of NOUN and NTI without compromising quality Increase carrying capacities in existing tertiary institutions • Promote private sector and State Government participation in the provision of Tertiary Education; • Increase carrying capacity by 25% in programmes that have consistently earned full accreditation status without compromising standards; • Unify the matriculation examinations for tertiary institutions (Universities, Polytechnics, IEIs and CoEs Develop guidelines for providers of off-shore degree and lifting the ban on non-recognition of off-shore degrees in Nigeria Strengthen/expand Open and Distance Learning (ODL) systems in selected institutions
+candidates to meet the 70:30 policy in favour of technology-based programmes in the Polytechnics; Policy restriction on the award of degrees to universities only; Inadequate public financing; Unattractive conditions of service for teachers; and Absence of deliberate policy for recruiting qualified secondary school leavers to train as teachers. Some segments of the Nigerian population especially those with special needs and other disadvantaged groups seem to be under-served. There are also disparities in gender participation, quality of education across the States and the location of | programme of NOUN and NTI without compromising quality Increase carrying capacities in existing tertiary institutions • Promote private sector and State Government participation in the provision of Tertiary Education; • Increase carrying capacity by 25% in programmes that have consistently earned full accreditation status without compromising standards; • Unify the matriculation examinations for tertiary institutions (Universities, Polytechnics, IEIs and CoEs Develop guidelines for providers of off-shore degree and lifting the ban on non-recognition of off-shore degrees in Nigeria Strengthen/expand Open and Distance Learning (ODL) systems in selected institutions
 
 Access
 
@@ -10093,7 +8490,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-government-owned tertiary institutions in the country. Dearth of teachers, infrastructure and facilities for people with special needs | Increase awareness and support for alternative route to higher technical education through IEIs Ensure gender-focused programmes by policies such as quota-based admission, fees reduction, scholarships, etc . Provide incentives- matching grants to States to establish more tertiary institutions Set admission quota for women and other persons with special needs to at least 45% across board noting the current admission status is between 33- 39% in favour of females. Provide incentives to attract secondary school leavers to train as teachers especially in special education and TVET. Mainstream special needs courses into teacher education curriculum.
+government-owned tertiary institutions in the country. Dearth of teachers, infrastructure and facilities for people with special needs | Increase awareness and support for alternative route to higher technical education through IEIs Ensure gender-focused programmes by policies such as quota-based admission, fees reduction, scholarships, etc . Provide incentives- matching grants to States to establish more tertiary institutions Set admission quota for women and other persons with special needs to at least 45% across board noting the current admission status is between 33-39% in favour of females. Provide incentives to attract secondary school leavers to train as teachers especially in special education and TVET. Mainstream special needs courses into teacher education curriculum.
 
 Access
 
@@ -10386,7 +8783,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-1. | Existing curriculum is out- dated and not relevant to national needs and therefore not globally competitive. Absence of benchmark Minimum Academic Standards for post-graduate programmes in the NUS except for MBA programme. Low capacity of curriculum developers and implementers. | Ensure periodic review of curricula in line with national needs and goals every five years. Strengthen first generation universities to enhance the running of postgraduate degrees with emphasis on Ph.D at the ratio of 60:40 in favour of postgraduate degrees; Create Centres of Excellence in each geo political zone by establishing intra and inter- institution centralized laboratories, studios and workshops, Create synergy between tertiary institutions and the Organised Private Sector; Ensure strict compliance with programme focus in tertiary institutions, particularly specialised ones; | Curriculum reviewed every 5 years More curricula developed for IEIs and post-graduate programmes by 2011 | 2009 - 2011 | FME, NUC, NBTE and NCCE Development Partners and the Organised Private Sector, PTDF | FGN, ETF, STEP-B
+1. | Existing curriculum is out-dated and not relevant to national needs and therefore not globally competitive. Absence of benchmark Minimum Academic Standards for post-graduate programmes in the NUS except for MBA programme. Low capacity of curriculum developers and implementers. | Ensure periodic review of curricula in line with national needs and goals every five years. Strengthen first generation universities to enhance the running of postgraduate degrees with emphasis on Ph.D at the ratio of 60:40 in favour of postgraduate degrees; Create Centres of Excellence in each geo political zone by establishing intra and inter-institution centralized laboratories, studios and workshops, Create synergy between tertiary institutions and the Organised Private Sector; Ensure strict compliance with programme focus in tertiary institutions, particularly specialised ones; | Curriculum reviewed every 5 years More curricula developed for IEIs and post-graduate programmes by 2011 | 2009 - 2011 | FME, NUC, NBTE and NCCE Development Partners and the Organised Private Sector, PTDF | FGN, ETF, STEP-B
 
 Access
 
@@ -10668,7 +9065,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-Inadequate funding of ICT for development and deployment as well as implementation of government policy on ICT. Problems of power and energy. | Strengthen and expand e- learning to expand access to quality education. Provide additional incentives for ICT professionals in education, Integrate ICT into curricula Review ICT curricula every three years to reflect emerging societal needs and global trends. Establish national ICT awareness machinery such as National ICT competitions, ICT Week, etc. Provide alternative power supply such as solar panels to support ICT development deployment. Increase collaboration with the Private Sector and IDPs for necessary interventions on ICT in tertiary education.
+Inadequate funding of ICT for development and deployment as well as implementation of government policy on ICT. Problems of power and energy. | Strengthen and expand e-learning to expand access to quality education. Provide additional incentives for ICT professionals in education, Integrate ICT into curricula Review ICT curricula every three years to reflect emerging societal needs and global trends. Establish national ICT awareness machinery such as National ICT competitions, ICT Week, etc. Provide alternative power supply such as solar panels to support ICT development deployment. Increase collaboration with the Private Sector and IDPs for necessary interventions on ICT in tertiary education.
 
 Access
 
@@ -11028,8 +9425,8 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-1. | Construct Zonal Teaching and Research Laboratories, (Physical Infrastructure, furnishing and equipment) Upgrade existing facilities (infrastructure and equipment) Target expansion, rehabilitation and equipping of critical infrastructure (classrooms/lecture theatres, laboratories, workshops, libraries and studios) Upgrade the teaching and learning environment (standard laboratories and workshops) Emphasis to be placed on training of Science and Mathematics teachers and training of Technical and Vocational Education teachers | New Zonal Teaching and Research Labs Upgraded facilities Expanded and rehabilitated infrastructure Fully equipped, functional and effective learning environment | 2010 | FME, ETF, NUC, NBTE and NCCE Development Partners and the Organised Private Sector, PTDF | ETF, STEP- B
-Establish a National Research Fund to: ¾ Facilitate advanced research capable of promoting national development in various disciplines | A vibrant research community with expansion of new research in different fields and disciplines New inventions in science and technology
+1. | Construct Zonal Teaching and Research Laboratories, (Physical Infrastructure, furnishing and equipment) Upgrade existing facilities (infrastructure and equipment) Target expansion, rehabilitation and equipping of critical infrastructure (classrooms/lecture theatres, laboratories, workshops, libraries and studios) Upgrade the teaching and learning environment (standard laboratories and workshops) Emphasis to be placed on training of Science and Mathematics teachers and training of Technical and Vocational Education teachers | New Zonal Teaching and Research Labs Upgraded facilities Expanded and rehabilitated infrastructure Fully equipped, functional and effective learning environment | 2010 | FME, ETF, NUC, NBTE and NCCE Development Partners and the Organised Private Sector, PTDF | ETF, STEP-B
+Establish a National Research Fund to: ➢ Facilitate advanced research capable of promoting national development in various disciplines | A vibrant research community with expansion of new research in different fields and disciplines New inventions in science and technology
 
 Access
 
@@ -11099,8 +9496,8 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-(social, economic, scientific and technological). ¾ Encourage invention, especially in science and technology.
-Establish a Book Development Fund to: ¾ Resuscitate moribund journals of professional associations affiliated to tertiary institutions. NUC, NBTE and NCCE are drawing up a list for ETF's consideration. ¾ Publish (in hard and electronic form) excellent Ph.D. theses submitted to Nigerian Universities or by Nigerians in foreign Universities. NUC has agreed to facilitate the selection of suitable theses. ¾ Publish the result of research funded under the proposed ETF National Research Fund adjudged to be world class. ETF to distribute copies of journals and books published under this arrangement gratis to libraries of | Professional journals Database of publications Database of research publications A system of dissemination of research, journals, books and publications to libraries nationwide and internationally
+(social, economic, scientific and technological). ➢ Encourage invention, especially in science and technology.
+Establish a Book Development Fund to: ➢ Resuscitate moribund journals of professional associations affiliated to tertiary institutions. NUC, NBTE and NCCE are drawing up a list for ETF's consideration. ➢ Publish (in hard and electronic form) excellent Ph.D. theses submitted to Nigerian Universities or by Nigerians in foreign Universities. NUC has agreed to facilitate the selection of suitable theses. ➢ Publish the result of research funded under the proposed ETF National Research Fund adjudged to be world class. ETF to distribute copies of journals and books published under this arrangement gratis to libraries of | Professional journals Database of publications Database of research publications A system of dissemination of research, journals, books and publications to libraries nationwide and internationally
 
 Access
 
@@ -11527,7 +9924,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-Inadequate mechanisms for monitoring of data collection exercise. Inspectors and school supervisors neither use data derived from EMIS nor validate information into EMIS Inadequate orientation and training is given to data collectors resulting in returned forms that are incomplete or completed incorrectly in key areas Overlapping data collection mandates between agencies results in duplicate information being collected by different agencies/departments Poorly coordinated data | Implementation of approved NEMIS policy Implement the NEMIS decentralisation strategy Development of the NEMIS website Supporting National and State EMIS committees Strengthen data linkages between FME and States data generating departments/units and other end users Revise questionnaires to replace low priority / hard- to-complete items with new high priority items Revise software to meet new questionnaires | Obtain timely, uniform and quality data for various input and output measures of schools (number of teachers, classrooms etc.) and make comparisons of schools and geographic zones. An effective tool for recording and retrieving data Head teachers and teachers trained Better record keeping Publication of statistics | 2010 | All tiers
+Inadequate mechanisms for monitoring of data collection exercise. Inspectors and school supervisors neither use data derived from EMIS nor validate information into EMIS Inadequate orientation and training is given to data collectors resulting in returned forms that are incomplete or completed incorrectly in key areas Overlapping data collection mandates between agencies results in duplicate information being collected by different agencies/departments Poorly coordinated data | Implementation of approved NEMIS policy Implement the NEMIS decentralisation strategy Development of the NEMIS website Supporting National and State EMIS committees Strengthen data linkages between FME and States data generating departments/units and other end users Revise questionnaires to replace low priority / hard-to-complete items with new high priority items Revise software to meet new questionnaires | Obtain timely, uniform and quality data for various input and output measures of schools (number of teachers, classrooms etc.) and make comparisons of schools and geographic zones. An effective tool for recording and retrieving data Head teachers and teachers trained Better record keeping Publication of statistics | 2010 | All tiers
 
 Access
 
@@ -11669,7 +10066,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-Existence of ineffective and outdated legal framework governing the implementation of education at the different levels of education Overlapping and duplication of some of the functions of extra ministerial departments and the FME Continued existence of illegal institutions at the tertiary level SBMCs are operating without legal backing | Undertake a comprehensive analysis of existing Federal legislation that impacts upon the structures, finances and statutory roles and responsibilities of relevant actors in the basic education sector in Nigeria; Review and strengthen the legal framework for all extra-ministerial departments, institutions and regulatory agencies Identify and highlight any inconsistencies or contradictions between the different Acts; Review the laws governing the different aspects of Basic Education | The legal framework for the different organizations, extra- ministerial departments and institutions reviewed by 2011 The extra-ministerial departments in education at the federal and state levels streamlined Laws governing basic education reviewed Legal units of extra-ministerial departments, institutions and regulatory agencies strengthened through capacity building and deployment of appropriate manpower Regular liaison established with the National Assembly Committee on Education. All illegal institutions closed | 2009 - 2011 | All tiers
+Existence of ineffective and outdated legal framework governing the implementation of education at the different levels of education Overlapping and duplication of some of the functions of extra ministerial departments and the FME Continued existence of illegal institutions at the tertiary level SBMCs are operating without legal backing | Undertake a comprehensive analysis of existing Federal legislation that impacts upon the structures, finances and statutory roles and responsibilities of relevant actors in the basic education sector in Nigeria; Review and strengthen the legal framework for all extra-ministerial departments, institutions and regulatory agencies Identify and highlight any inconsistencies or contradictions between the different Acts; Review the laws governing the different aspects of Basic Education | The legal framework for the different organizations, extra-ministerial departments and institutions reviewed by 2011 The extra-ministerial departments in education at the federal and state levels streamlined Laws governing basic education reviewed Legal units of extra-ministerial departments, institutions and regulatory agencies strengthened through capacity building and deployment of appropriate manpower Regular liaison established with the National Assembly Committee on Education. All illegal institutions closed | 2009 - 2011 | All tiers
 
 Access
 
@@ -11881,7 +10278,7 @@ Where We Are
 
 S/N | Major Challenges | Turn-around strategies | Deliverables | Time-line | Collaborating bodies | Sources of funding
 --- | --- | --- | --- | --- | --- | ---
-institutions and industry. Strengthen linkages and partnerships with public and private sector, FME, in concert with States to commence immediate implementation of the provisions of the National Policy on Partnerships in Education FME to coordinate nationwide and State level advocacy to communicate the importance of stakeholder partnerships Source financial support from non-formal and non- governmental sources
+institutions and industry. Strengthen linkages and partnerships with public and private sector, FME, in concert with States to commence immediate implementation of the provisions of the National Policy on Partnerships in Education FME to coordinate nationwide and State level advocacy to communicate the importance of stakeholder partnerships Source financial support from non-formal and non-governmental sources
 
 Access
 
@@ -12039,9 +10436,9 @@ Ongoing review dialog and revision of work | Roadmap Impl. Committee
 
 ### 9.1.1 A. BASIC EDUCATION
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-JAN | FEB | MAR | APR | MAY | JUN | AUG | SEP | NOV | DEC
+JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 1 | National campaign on Access | FME UBEC, NMEC, NCNE, NTI, SMOEs, SUBEBs, SAMEs, SCU for NEP, LGEAs
 Upgrading of serving teachers through | FME UBEC, NMEC, | 76
 
@@ -12111,9 +10508,9 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-JAN | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
+JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 STUP | NCNE, NTI, TRCN, SMOEs, SUBEBs, SAMEs, SCU for NEP, LGEAs
 2 | Mainstreaming of excluded groups | FME UBEC, NMEC, NCNE, SMOEs, SUBEBs, SAMEs, SCU for NEP, CSOs, | 71
 3 | Advocacy and sensitization for States to absorb FTS participants for basic education | FME UBEC, SMOEs, SUBEBs, | 76
@@ -12185,7 +10582,7 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 5 | Commence process for approval and establishment of a National Open School in Nigeria | FME UBEC, NTI, NCNE, NBTE, NUC, NERDC, NMEC | 66/67
@@ -12258,9 +10655,9 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | AGENCIES DEC
+JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 8 | Improvement of infrastructure in rural schools to stem rural-urban drift | FME UBEC, NMEC, NCNE, SMOEs, SUBEBs, SAMEs, SCU for NEP, CSOs | 68
 9 | High level advocacy, mobilization and sensitization visits to States with low enrolment | FME UBEC, NMEC, NCNE, SMOEs, SUBEBs, SAMEs, SCU for NEP, CSOs | 63-68
 10 | Meeting with poverty alleviation agencies to empower parents to boost enrolment | FME UBEC, NMEC, NCNE, SMOEs, SUBEBs, SAMEs, SCU for NEP, CSOs, NAPEP, SMEDAN, NDE | 69
@@ -12331,9 +10728,9 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | NOV | DEC
+JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 11 | Support State-driven School Mapping | FME UBEC, NMEC, NCNE, SMOEs, SUBEBs, SAMEs, SCU for NEP, CSOs | 64
 12 | Development and validation of standard instruments for Quality Assurance in Nigeria | FME All Federal and State agencies involved with QA | 71
 13 | Training of school leaders, Federal and State Inspectors, and LGEA Supervisors on Quality Assurance | FME UBEC, TRCN, NMEC, NCNE, NIEPA, SMOEs, SUBEBs, SAMEs, SCU for NEP, LGEAs | 73
@@ -12405,7 +10802,7 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 funding of basic education | SUBEBs, SAMEs, SCU for NEP, IDPs
@@ -12479,9 +10876,9 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-JAN | MAR | APR | MAY | JUN | AUG | SEP | OCT | NOV | DEC
+JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 JSS, 1764 for Nomadic + furnishing
 19 | Memo to FEC on the establishment of the National Agency for Quality Assurance | FME | 71, 86
 20 | Inaugurate National Steering Committee on EQA | FME | 71, 86
@@ -12555,12 +10952,12 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 24 | Functional ICT laboratories with a minimum of 10 computers and Internet connectivity in 20% of primary and JSS | SUBEB, FME,UBEC, SOME | 79
-25 | 30% of teachers at Basic Education level attain computer literacy | ` | SUBEB, SMOE,FME, UBEC | 79
-26 | All backlogs of FGN- UBE Intervention funds accessed and utilized by all States and FCT | UBEC, SMOE, FME | 82
+25 | 30% of teachers at Basic Education level attain computer literacy | SUBEB, SMOE,FME, UBEC | 79
+26 | All backlogs of FGN-UBE Intervention funds accessed and utilized by all States and FCT | UBEC, SMOE, FME | 82
 27 | CATI operational guidelines finalized and implemented | UBEC, SMOE, FME | 81
 
 Access
@@ -12629,7 +11026,7 @@ High Achieving Students
 
 Where We Are
 
-S/N o | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
+S/No | ACTIVITY | 2009 | COLLABORATING AGENCIES | REFERENCE PAGE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC
 28 | SBMCs established in schools | SMOE, FME
