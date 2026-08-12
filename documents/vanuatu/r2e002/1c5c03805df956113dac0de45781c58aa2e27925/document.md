@@ -6,6 +6,36 @@ REPUBLIC OF VANUATU
 
 ## Arrangement of Sections
 
+# PART 1 PRELIMINARY
+
+1 Purpose of the Act ........................................................................................ 5
+2 Objects of the Act ........................................................................................ 5
+3 Interpretation ................................................................................................ 6
+4 Primary and secondary education ................................................................ 8
+5 Government and non-government schools .................................................. 8
+6 Language policy ........................................................................................... 9
+7 Parental duty .............................................................................................. 10
+8 Prohibition against discrimination ............................................................. 10
+9 Religious instruction .................................................................................. 10
+
+# PART 2 FUNCTIONS AND POWERS OF THE MINISTER, DIRECTOR GENERAL, DIRECTORS AND PROVINCIAL EDUCATION OFFICERS
+
+10 Functions and powers to be performed in accordance with this Act ......... 11
+11 Functions and powers of the Minister ........................................................ 11
+12 Functions and powers of the Director General .......................................... 11
+13 Functions and powers of the Directors ...................................................... 12
+14 Functions and powers of Provincial Education Officers ........................... 13
+
+# PART 3 REGISTRATION OF GOVERNMENT SCHOOLS AND NON-GOVERNMENT SCHOOLS
+
+15 Requirements for registration of a school .................................................. 14
+16 Registration of Schools .............................................................................. 15
+
+# PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
+
+17 Registration of a kindergarten or day care institution ................................ 16
+18 Requirements for registration of a kindergarten or day care institution ................................................................................................... 16
+
 Education Act No. 9 of 2014
 
 1
@@ -13,6 +43,61 @@ Education Act No. 9 of 2014
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+19 Register of kindergartens and day care institutions ................................... 17
+20 Functions of an operator of a kindergarten or a day care institution ......... 17
+21 Reports ....................................................................................................... 18
+22 Inspection and advisory services ............................................................... 18
+23 Cancellation of registration of kindergartens or day care institutions ....... 19
+24 Declaration of unsuitable person ............................................................... 20
+
+# PART 5 EDUCATION AUTHORITIES
+
+## Division 1 Application
+
+25 Application of Part ..................................................................................... 21
+
+## Division 2 Approval of Education Authorities
+
+26 Operation of schools .................................................................................. 21
+27 Application for approval to become an Education Authority .................... 21
+28 Determination of applications .................................................................... 21
+
+## Division 3 Application for changes to school
+
+29 Application of an Education Authority ...................................................... 22
+30 Approval of applications under section 29 for new schools and relocation of schools .................................................................................. 23
+31 Approval of other applications under section 29 ....................................... 23
+
+## Division 4 Cancellation and withdrawal of approval of Education Authorities
+
+32 Cancellation of approval of Education Authority ...................................... 24
+33 Withdrawal of approval of Education Authority ....................................... 26
+
+## Division 5 Other matters relating to Education Authorities
+
+34 Functions of Education Authorities ........................................................... 26
+35 Accounts .................................................................................................... 26
+36 Reports ....................................................................................................... 27
+
+# PART 6 NATIONAL SCHOOL SYSTEM
+
+## Division 1 Funding for schools
+
+37 Funding of Education Authorities .............................................................. 28
+38 Funding of Provincial Education Boards ................................................... 28
+39 Funding of Schools by the Government .................................................... 28
+40 Grants Code ............................................................................................... 29
+41 School fees ................................................................................................. 29
+42 Accountability of school fees .................................................................... 30
+
+## Division 2 School Staffing Structure
+
+43 Approval of school staffing structure ........................................................ 31
+44 Variation of school staffing structures ....................................................... 31
+45 Positions in schools .................................................................................... 32
+
+## Division 3 Administration and management of schools
 
 Education Act No. 9 of 2014
 
@@ -22,6 +107,50 @@ Education Act No. 9 of 2014
 
 [[START OF PAGE 3]]
 
+46 Responsibilities of the principal ................................................................ 32
+47 Discipline of students ................................................................................. 33
+48 Medical examination of students ............................................................... 34
+49 School councils .......................................................................................... 35
+50 Student representative body ....................................................................... 36
+51 Functions of a student representative body ................................................ 36
+52 School community associations ................................................................. 36
+53 School Based Management Unit ................................................................ 37
+54 Functions of the School Based Management Unit ..................................... 37
+
+## Division 4 Cancellation of registration of schools
+
+55 Cancellation of registration of schools by Director General ..................... 39
+56 Take over of schools .................................................................................. 40
+
+# PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
+
+## Division 1 National Education Advisory Council
+
+57 Establishment and functions of the National Education Advisory Council ....................................................................................................... 41
+58 Membership of the National Education Advisory Council ....................... 41
+59 Establishment and functions of the Secretariat of the National Education Advisory Council ...................................................................... 42
+
+## Division 2 National Curriculum and Assessment Board
+
+60 Establishment and membership of the National Curriculum and Assessment Board ...................................................................................... 43
+61 Assessment and examination function ....................................................... 43
+62 Curriculum and syllabus functions ............................................................ 44
+63 Establishment and functions of the Secretariat of the National Curriculum and Assessment Board ........................................................... 45
+
+## Division 3 National Scholarship and Training Board
+
+64 Establishment and membership of the National Scholarship and Training Board ........................................................................................... 46
+65 Functions of the National Scholarship and Training Board ...................... 47
+66 Seeking to influence decisions ................................................................... 48
+67 Appeals ...................................................................................................... 48
+68 Establishment of the Secretariat of the National Scholarship and Training Board ........................................................................................... 49
+
+## Division 4 Provincial Education Boards
+
+69 Establishment and membership of the Provincial Education Boards ........ 49
+70 Functions of the Provincial Education Boards .......................................... 50
+71 Secretary and Accounts of Provincial Education Boards .......................... 51
+
 Education Act No. 9 of 2014
 
 3
@@ -29,6 +158,25 @@ Education Act No. 9 of 2014
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+72 Reports ....................................................................................................... 51
+73 Government schools – transitional arrangements ...................................... 52
+
+## Division 5 Administrative provisions
+
+74 Administrative provisions .......................................................................... 52
+
+# PART 8 MISCELLANEOUS
+
+75 School Registration Appeal Board ............................................................ 53
+76 General Appeal Board ............................................................................... 54
+77 Provisions in relation to proceedings of an Appeal Board ........................ 55
+78 Representation at Appeal Board Hearings ................................................. 56
+79 Attempt to influence Board ........................................................................ 57
+80 Delegation of functions and powers .......................................................... 57
+81 Regulations ................................................................................................ 57
+82 Repeal of the Education Act and savings provision .................................. 58
+83 Commencement ......................................................................................... 58
 
 Education Act No. 9 of 2014
 
@@ -102,7 +250,7 @@ Director means a Director of the Department;
 
 Director General means the Director General of the Ministry responsible for education;
 
-early childhood and care, education means all child education and care programs and services for pre-primary education aged children including preschools and kindergartens;
+early childhood and care, education means all child education and care programs and services for pre-primary education aged children including pre-schools and kindergartens;
 
 Education Authority means a person:
 
@@ -180,15 +328,15 @@ secondary education means education referred to in subsection 4(2).
 
 ### 4 Primary and secondary education
 
-- Primary education comprises years 1 to 6.
+(1) Primary education comprises years 1 to 6.
 
-- Secondary education comprises years 7 to 14 and can be divided into the following categories:
+(2) Secondary education comprises years 7 to 14 and can be divided into the following categories:
 
 (a) junior secondary comprising years 7 to 10; and
 
 (b) senior secondary comprising years 11 to 14.
 
-- The Minister, acting on the advice of the Director General, may prescribe by Order:
+(3) The Minister, acting on the advice of the Director General, may prescribe by Order:
 
 (a) different years for primary education; or
 
@@ -200,15 +348,15 @@ secondary education means education referred to in subsection 4(2).
 
 ### 5 Government and non-government schools
 
-- A school is either a government school or a non-government school.
+(1) A school is either a government school or a non-government school.
 
-- A school is a government school if a Provincial Education Board is responsible for the operation of the school.
+(2) A school is a government school if a Provincial Education Board is responsible for the operation of the school.
 
-- A school is a non-government school if an Education Authority is responsible for the operation of the school.
+(3) A school is a non-government school if an Education Authority is responsible for the operation of the school.
 
-- To avoid doubt, the level of funding a school receives does not affect whether it is a government school or a non-government school.
+(4) To avoid doubt, the level of funding a school receives does not affect whether it is a government school or a non-government school.
 
-- The following kinds of schools may be operated by an Education Authority or a Provincial Education Board:
+(5) The following kinds of schools may be operated by an Education Authority or a Provincial Education Board:
 
 (a) primary schools; and
 
@@ -240,7 +388,7 @@ PART 1 PRELIMINARY
 
 (j) schools for students with special needs.
 
-- For the purpose of this section:
+(6) For the purpose of this section:
 
 single medium school means an English medium school or a French medium school established and operating in the same or separate location but within their own governance structure having their own school council and school community association;
 
@@ -248,13 +396,13 @@ dual medium school means an English medium school and a French medium school est
 
 ### 6 Language policy
 
-- In accordance with Article 3(1) of the Constitution, the principal languages of education are English and French.
+(1) In accordance with Article 3(1) of the Constitution, the principal languages of education are English and French.
 
-- All students during their primary education are to be taught in either French or English.
+(2) All students during their primary education are to be taught in either French or English.
 
-- All students who proceed to secondary education are to continue in their first language of instruction and are to begin the study of the other language of instruction.
+(3) All students who proceed to secondary education are to continue in their first language of instruction and are to begin the study of the other language of instruction.
 
-- However, nothing in subsection (3) is to prevent a student who has undertaken his or her primary education in one language of instruction from undertaking his or her secondary education in the other.
+(4) However, nothing in subsection (3) is to prevent a student who has undertaken his or her primary education in one language of instruction from undertaking his or her secondary education in the other.
 
 Education Act No. 9 of 2014
 
@@ -266,17 +414,17 @@ Education Act No. 9 of 2014
 
 PART 1 PRELIMINARY
 
-- The Minister, acting on the advice of the Director General, may determine by Order that one or more specified subjects at a specified school or schools are to be taught to students in the local vernacular or Bislama.
+(5) The Minister, acting on the advice of the Director General, may determine by Order that one or more specified subjects at a specified school or schools are to be taught to students in the local vernacular or Bislama.
 
 ### 7 Parental duty
 
-- This section applies in relation to a child who is at least 6 years old and less than 14 years old.
+(1) This section applies in relation to a child who is at least 6 years old and less than 14 years old.
 
-- It is the duty of the child's parents to ensure that the child attends a kindergarten and school.
+(2) It is the duty of the child's parents to ensure that the child attends a kindergarten and school.
 
 ### 8 Prohibition against discrimination
 
-- A child must not be:
+(1) A child must not be:
 
 (a) refused admission to any school; or
 
@@ -284,17 +432,17 @@ PART 1 PRELIMINARY
 
 on account of his or her gender, religion, nationality, race, language or disability.
 
-- Subject to subsection (5), a child must not be admitted to year 1 at a school unless he or she is:
+(2) Subject to subsection (5), a child must not be admitted to year 1 at a school unless he or she is:
 
 (a) at least 6 years old; or
 
 (b) will turn 6 years old on or before 31 May in that school year.
 
-- Subject to subsection (5), a child must not be admitted to year 7 unless he or she is less than 12 years old.
+(3) Subject to subsection (5), a child must not be admitted to year 7 unless he or she is less than 12 years old.
 
-- Despite subsection (2) and (3), a child must not be discriminated against by or at a school on account of his or her age.
+(4) Despite subsection (2) and (3), a child must not be discriminated against by or at a school on account of his or her age.
 
-- The Provincial Education Boards and Education Authorities may determine circumstances where a child who has not met the requirements of subsection (2) and (3) may still be admitted into a school.
+(5) The Provincial Education Boards and Education Authorities may determine circumstances where a child who has not met the requirements of subsection (2) and (3) may still be admitted into a school.
 
 ### 9 Religious instruction
 
@@ -318,17 +466,17 @@ The Minister, the Director General, the Directors and the Provincial Education O
 
 ### 11 Functions and powers of the Minister
 
-- The Minister has such functions and powers as are conferred on the Minister by this Act.
+(1) The Minister has such functions and powers as are conferred on the Minister by this Act.
 
-- The Minister must, on behalf of the Government, enter into an agreement with each Education Authority for the management of the Authority's schools.
+(2) The Minister must, on behalf of the Government, enter into an agreement with each Education Authority for the management of the Authority's schools.
 
-- If the Minister, acting on the advice of the Director General, is satisfied that there are special circumstances, he or she may, by Order, declare a day or days to be a holiday for all schools, groups of schools or a particular school.
+(3) If the Minister, acting on the advice of the Director General, is satisfied that there are special circumstances, he or she may, by Order, declare a day or days to be a holiday for all schools, groups of schools or a particular school.
 
 ### 12 Functions and powers of the Director General
 
-- The Director General is responsible to the Minister for ensuring the Ministry carries out its functions in relation to early childhood and care, primary and secondary education.
+(1) The Director General is responsible to the Minister for ensuring the Ministry carries out its functions in relation to early childhood and care, primary and secondary education.
 
-- Without limiting subsection (1), the Director General is responsible for:
+(2) Without limiting subsection (1), the Director General is responsible for:
 
 (a) developing policies for early childhood and care, primary and secondary education for the Ministry for consideration by the Government; and
 
@@ -354,27 +502,27 @@ PART 2 FUNCTIONS AND POWERS OF THE MINISTER,  DIRECTOR GENERAL, DIRECTORS AND PR
 
 (e) managing the education system in accordance with the organizational structure approved by the Public Service Commission.
 
-- The Director General may, in writing do all or any of the following:
+(3) The Director General may, in writing do all or any of the following:
 
 (a) make determinations for the purposes of improving the delivery of education services to students by schools and kindergartens;
 
 (b) issue guidelines for the purposes of this Act or the regulations.
 
-- A determination does not come into force unless the Minister has approved it in writing.
+(4) A determination does not come into force unless the Minister has approved it in writing.
 
-- A determination or guideline that is inconsistent with the Act or the regulations is void and of no effect.
+(5) A determination or guideline that is inconsistent with the Act or the regulations is void and of no effect.
 
-- Determinations are statutory orders for the purposes of the Interpretation Act [CAP 132].
+(6) Determinations are statutory orders for the purposes of the Interpretation Act [CAP 132].
 
-- The Director General must, so far as practicable, make any decision he or she is required to make under this Act within 45 days after receiving all information and documents necessary for him or her to make the decision.
+(7) The Director General must, so far as practicable, make any decision he or she is required to make under this Act within 45 days after receiving all information and documents necessary for him or her to make the decision.
 
-- The Director General has such other functions and powers as are conferred on him or her by this Act.
+(8) The Director General has such other functions and powers as are conferred on him or her by this Act.
 
 ### 13 Functions and powers of the Directors
 
-- The Directors are responsible to the Director General for ensuring the Department carries out its functions in relation to early childhood and care, primary and secondary education.
+(1) The Directors are responsible to the Director General for ensuring the Department carries out its functions in relation to early childhood and care, primary and secondary education.
 
-- Without limiting subsection (1), the Directors are responsible for implementing:
+(2) Without limiting subsection (1), the Directors are responsible for implementing:
 
 (a) the Government's policies for early childhood and care, primary and secondary education; and
 
@@ -390,17 +538,17 @@ PART 2 FUNCTIONS AND POWERS OF THE MINISTER,  DIRECTOR GENERAL, DIRECTORS AND PR
 
 (b) education practices that are consistent with those policies.
 
-- The Directors have such other functions and powers as are conferred on them by this Act.
+(3) The Directors have such other functions and powers as are conferred on them by this Act.
 
 ### 14 Functions and powers of Provincial Education Officers
 
-- The Public Service Commission is to appoint a Provincial Education Officer for each province.
+(1) The Public Service Commission is to appoint a Provincial Education Officer for each province.
 
-- The Provincial Education Officer has the function of being responsible to the Directors for ensuring that the Department carries out its functions in that Province in relation to early childhood and care, primary and secondary education.
+(2) The Provincial Education Officer has the function of being responsible to the Directors for ensuring that the Department carries out its functions in that Province in relation to early childhood and care, primary and secondary education.
 
-- A Provincial Education Officer has such powers as are conferred on him or her by this Act.
+(3) A Provincial Education Officer has such powers as are conferred on him or her by this Act.
 
-- A person occupying the position of a Provincial Education Officer immediately before the commencement of this Act is to continue in that position on and after that commencement as if he or she had been appointed under subsection (1).
+(4) A person occupying the position of a Provincial Education Officer immediately before the commencement of this Act is to continue in that position on and after that commencement as if he or she had been appointed under subsection (1).
 
 Education Act No. 9 of 2014
 
@@ -416,7 +564,7 @@ PART 3 REGISTRATION OF GOVERNMENT SCHOOLS AND NON-GOVERNMENT SCHOOLS
 
 ### 15 Requirements for registration of a school
 
-- The requirements for the registration of a school are:
+(1) The requirements for the registration of a school are:
 
 (a) to offer the minimum curriculum approved by the National Education Commission for a school of its kind; and
 
@@ -434,13 +582,13 @@ PART 3 REGISTRATION OF GOVERNMENT SCHOOLS AND NON-GOVERNMENT SCHOOLS
 
 (h) such other requirements as may be prescribed.
 
-- The application of subsection (1) must be flexible and fair in circumstances where a school is operating wholly or partially through:
+(2) The application of subsection (1) must be flexible and fair in circumstances where a school is operating wholly or partially through:
 
 (a) distance, open learning or e-learning; or
 
 (b) a mode where students do not attend school on a day to day basis.
 
-- The Director General must review the registration of a school at least once every year to ensure the requirements of this section are being met.
+(3) The Director General must review the registration of a school at least once every year to ensure the requirements of this section are being met.
 
 Education Act No. 9 of 2014
 
@@ -454,13 +602,13 @@ PART 3 REGISTRATION OF GOVERNMENT SCHOOLS AND NON-GOVERNMENT SCHOOLS
 
 ### 16 Registration of Schools
 
-- A person must not operate a school unless the school is registered.
+(1) A person must not operate a school unless the school is registered.
 
-- A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
+(2) A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
 
-- The Director General is to keep a register to be known as the Register of Schools.  The Register may be kept wholly or partly by electronic means.
+(3) The Director General is to keep a register to be known as the Register of Schools.  The Register may be kept wholly or partly by electronic means.
 
-- The Register is to contain the following information for each school:
+(4) The Register is to contain the following information for each school:
 
 (a) the name and location of the school; and
 
@@ -470,9 +618,9 @@ PART 3 REGISTRATION OF GOVERNMENT SCHOOLS AND NON-GOVERNMENT SCHOOLS
 
 (d) such other particulars as may be prescribed.
 
-- The Director General must update the Register at least once a year and ensure that the Register is available for inspection at the office of the Ministry by any person during the ordinary hours of business of that office.
+(5) The Director General must update the Register at least once a year and ensure that the Register is available for inspection at the office of the Ministry by any person during the ordinary hours of business of that office.
 
-- The Director General may supply a copy of the Register or a part of the Register to a person on payment of the prescribed fee.
+(6) The Director General may supply a copy of the Register or a part of the Register to a person on payment of the prescribed fee.
 
 Education Act No. 9 of 2014
 
@@ -488,27 +636,27 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 ### 17 Registration of a kindergarten or day care institution
 
-- A person, school or religious body must not operate a kindergarten or day care institution unless the Director General approves an application for registration under subsection (3); or
+(1) A person, school or religious body must not operate a kindergarten or day care institution unless the Director General approves an application for registration under subsection (3); or
 
-- A person may make an application to register a kindergarten or day care institution to the Director General in the prescribed form.
+(2) A person may make an application to register a kindergarten or day care institution to the Director General in the prescribed form.
 
-- The Director General may approve an application for registration if the kindergarten or day care institution meets the requirements of section 18.
+(3) The Director General may approve an application for registration if the kindergarten or day care institution meets the requirements of section 18.
 
-- If an application for registration is approved, the Director General is to issue a registration certificate for the relevant applicant.
+(4) If an application for registration is approved, the Director General is to issue a registration certificate for the relevant applicant.
 
-- A registration certificate is issued for a period of 5 years.
+(5) A registration certificate is issued for a period of 5 years.
 
-- Before the expiration of the registration certificate, the Director General may attend the kindergarten concerned and monitor compliance with section 18.
+(6) Before the expiration of the registration certificate, the Director General may attend the kindergarten concerned and monitor compliance with section 18.
 
-- If the Director General is of the opinion that a kindergarten does not meet the requirements of section 18, he or she may:
+(7) If the Director General is of the opinion that a kindergarten does not meet the requirements of section 18, he or she may:
 
 (a) refuse to issue a registration certificate; or
 
 (b) issue a registration certificate subject to such conditions as the Director General determines.
 
-- The Minister may prescribe by Order fees to be paid on application under subsection (2).
+(8) The Minister may prescribe by Order fees to be paid on application under subsection (2).
 
-- An operator of an existing kindergarten or day care institution, must within 12 months of commencement of this Act meet the necessary requirements under section 18 and register that kindergarten or day care institution under this section.
+(9) An operator of an existing kindergarten or day care institution, must within 12 months of commencement of this Act meet the necessary requirements under section 18 and register that kindergarten or day care institution under this section.
 
 ### 18 Requirements for registration of a kindergarten or day care institution
 
@@ -536,9 +684,9 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 ### 19 Register of kindergartens and day care institutions
 
-- The Director General is to keep a register known as the Register of kindergartens and day care institutions.
+(1) The Director General is to keep a register known as the Register of kindergartens and day care institutions.
 
-- The register is to contain the following information for each kindergarten or day care institution:
+(2) The register is to contain the following information for each kindergarten or day care institution:
 
 (a) the name and location of the kindergarten or day care institution; and
 
@@ -546,13 +694,13 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 (c) such other particulars that may be prescribed.
 
-- The Director General must:
+(3) The Director General must:
 
 (a) update the Register at least once a year; and
 
 (b) ensure that the Register is available for public inspection at the office of the Ministry by any person during the ordinary hours of business of that office.
 
-- The Director General may supply a copy of the Register or part of the Register to a person, on payment of the prescribed fee.
+(4) The Director General may supply a copy of the Register or part of the Register to a person, on payment of the prescribed fee.
 
 ### 20 Functions of an operator of a kindergarten or a day care institution
 
@@ -576,15 +724,15 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 ### 21 Reports
 
-- An operator of a kindergarten or day care institution must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of the kindergarten or day care institution for that year.
+(1) An operator of a kindergarten or day care institution must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of the kindergarten or day care institution for that year.
 
-- The Director General is to prescribe the form and content of the report referred to in subsection (1).
+(2) The Director General is to prescribe the form and content of the report referred to in subsection (1).
 
-- The operator must provide the Director General with any additional information he or she requests about a matter contained in a report.
+(3) The operator must provide the Director General with any additional information he or she requests about a matter contained in a report.
 
 ### 22 Inspection and advisory services
 
-- An officer authorised by the Director General may inspect a kindergarten or day care institution to determine whether:
+(1) An officer authorised by the Director General may inspect a kindergarten or day care institution to determine whether:
 
 (a) the operator is operating the kindergarten or day care institution in accordance with the requirements of this Act; or
 
@@ -606,13 +754,13 @@ Education Act No. 9 of 2014
 
 PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
-- A person who obstructs an officer authorised by the Director General under subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding VT 500,000 or imprisonment for a term not exceeding 3 months, or both.
+(2) A person who obstructs an officer authorised by the Director General under subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding VT 500,000 or imprisonment for a term not exceeding 3 months, or both.
 
-- An officer authorised by the Director General may provide advice to the operator and staff of a kindergarten or day care institution in relation to any of the matters specified in subsection (1).
+(3) An officer authorised by the Director General may provide advice to the operator and staff of a kindergarten or day care institution in relation to any of the matters specified in subsection (1).
 
 ### 23 Cancellation of registration of kindergartens or day care institutions
 
-- The Director General may cancel the registration of a kindergarten or day care institution if he or she is satisfied that:
+(1) The Director General may cancel the registration of a kindergarten or day care institution if he or she is satisfied that:
 
 (a) the kindergarten or day care institution is operated in a way that is to the detriment of its staff or students; or
 
@@ -628,7 +776,7 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 (g) the kindergarten or day care institution is not being administered in accordance with this Act, Regulations and any determinations and guidelines issued by the Director General under subsection 12(3).
 
-- The Director General must give the operator of a kindergarten or day care institution, written notice of a proposed cancellation and allow at least 28 days from the date of service for submissions in writing to be made as to why the kindergarten or day care institution's registration should not be cancelled.
+(2) The Director General must give the operator of a kindergarten or day care institution, written notice of a proposed cancellation and allow at least 28 days from the date of service for submissions in writing to be made as to why the kindergarten or day care institution's registration should not be cancelled.
 
 Education Act No. 9 of 2014
 
@@ -640,19 +788,19 @@ Education Act No. 9 of 2014
 
 PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
-- If the Director General determines that the continuing operation of a kindergarten or day care institution presents an unacceptable risk to the safety or welfare of staff or students, the Director General may order the kindergarten or day care institution to cease its operations.
+(3) If the Director General determines that the continuing operation of a kindergarten or day care institution presents an unacceptable risk to the safety or welfare of staff or students, the Director General may order the kindergarten or day care institution to cease its operations.
 
-- In deciding whether to cancel the registration of a kindergarten or day care institution, the Director General must take into account any submissions made by the operator.
+(4) In deciding whether to cancel the registration of a kindergarten or day care institution, the Director General must take into account any submissions made by the operator.
 
-- The Director General must give the operator written notice of his or her decision within 28 days after making the decision.
+(5) The Director General must give the operator written notice of his or her decision within 28 days after making the decision.
 
-- The cancellation of the registration of a kindergarten or day care institution takes effect on the date specified in the notice.
+(6) The cancellation of the registration of a kindergarten or day care institution takes effect on the date specified in the notice.
 
-- An operator may appeal to the School Registration Appeal Board against the decision of the Director General to cancel the registration of a kindergarten or day care institution.
+(7) An operator may appeal to the School Registration Appeal Board against the decision of the Director General to cancel the registration of a kindergarten or day care institution.
 
 ### 24 Declaration of unsuitable person
 
-- The Director General may declare a person to be an unsuitable person to operate or work in a kindergarten or day care institution if the person:
+(1) The Director General may declare a person to be an unsuitable person to operate or work in a kindergarten or day care institution if the person:
 
 (a) has been convicted of any offence with a maximum penalty of over 12 months; and
 
@@ -662,9 +810,9 @@ PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 (d) does not have 5 years of more experience in managing a school.
 
-- A person who operates or works in a kindergarten or day care institution despite being declared an unsuitable person under this section is guilty of an offence punishable on conviction by a fine not exceeding VT1,000,000 or imprisonment for a term not exceeding 3 years or both.
+(2) A person who operates or works in a kindergarten or day care institution despite being declared an unsuitable person under this section is guilty of an offence punishable on conviction by a fine not exceeding VT1,000,000 or imprisonment for a term not exceeding 3 years or both.
 
-- The person may appeal against a declaration made under this section to the School Registration Appeal Board.
+(3) The person may appeal against a declaration made under this section to the School Registration Appeal Board.
 
 Education Act No. 9 of 2014
 
@@ -688,15 +836,15 @@ This Part applies only to non-government schools.
 
 ### 26 Operation of schools
 
-- A person must not operate a school unless the person is an Education Authority.
+(1) A person must not operate a school unless the person is an Education Authority.
 
-- A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
+(2) A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
 
 ### 27 Application for approval to become an Education Authority
 
-- A person must apply to the Director General for approval as an Education Authority.
+(1) A person must apply to the Director General for approval as an Education Authority.
 
-- The application must:
+(2) The application must:
 
 (a) be in the approved form and be accompanied by the prescribed fee; and
 
@@ -704,13 +852,13 @@ This Part applies only to non-government schools.
 
 (c) contain such other information as may be prescribed.
 
-- A person who makes an application containing a false or misleading statement is guilty of an offence punishable on conviction by a fine not exceeding VT 500,000.
+(3) A person who makes an application containing a false or misleading statement is guilty of an offence punishable on conviction by a fine not exceeding VT 500,000.
 
 ### 28 Determination of applications
 
-- The Director General must consult with the Minister before approving or refusing an application made under section 27.
+(1) The Director General must consult with the Minister before approving or refusing an application made under section 27.
 
-- The Director General is to approve an applicant as an Education Authority only if he or she is satisfied that:
+(2) The Director General is to approve an applicant as an Education Authority only if he or she is satisfied that:
 
 (a) there is a need for the proposed Education Authority to operate a school or schools in the area concerned; and
 
@@ -734,15 +882,15 @@ PART 5 EDUCATION AUTHORITIES
 
 (f) the custom owners of the land on which the school or schools are, or are to be, situated have agreed in writing for the land to be used by or transferred to the proposed Education Authority.
 
-- The Director General may request such additional information as he or she may require from the applicant in order to determine the application.
+(3) The Director General may request such additional information as he or she may require from the applicant in order to determine the application.
 
-- The approval of an Education Authority may be given on such conditions as the Director General determines in writing.
+(4) The approval of an Education Authority may be given on such conditions as the Director General determines in writing.
 
-- The Director General must give the applicant written notice of his or her decision within 28 days after making the decision.
+(5) The Director General must give the applicant written notice of his or her decision within 28 days after making the decision.
 
-- An applicant may appeal against the decision of the Director General to the General Appeal Board.
+(6) An applicant may appeal against the decision of the Director General to the General Appeal Board.
 
-- As soon as practicable after a person is approved as an Education Authority, the Director General must:
+(7) As soon as practicable after a person is approved as an Education Authority, the Director General must:
 
 (a) register each of the Authority's schools in the Register; and
 
@@ -752,7 +900,7 @@ PART 5 EDUCATION AUTHORITIES
 
 ### 29 Application of an Education Authority
 
-- An Education Authority must apply to the Director General for approval:
+(1) An Education Authority must apply to the Director General for approval:
 
 (a) to establish a new school; or
 
@@ -776,7 +924,7 @@ PART 5 EDUCATION AUTHORITIES
 
 (f) to change the name of a school.
 
-- The application must:
+(2) The application must:
 
 (a) be in the approved form and be accompanied by the prescribed fee; and
 
@@ -784,13 +932,13 @@ PART 5 EDUCATION AUTHORITIES
 
 (c) contain such other information as is prescribed.
 
-- The Director General must consult with the Minister and the relevant Provincial Education Officer before approving or rejecting an application.
+(3) The Director General must consult with the Minister and the relevant Provincial Education Officer before approving or rejecting an application.
 
-- The Director General may request such additional information as he or she may require from the Education Authority in order to determine the application.
+(4) The Director General may request such additional information as he or she may require from the Education Authority in order to determine the application.
 
-- The Director General must give the Education Authority written notice of his or her decision within 28 days after making the decision.
+(5) The Director General must give the Education Authority written notice of his or her decision within 28 days after making the decision.
 
-- An applicant may appeal against the decision of the Director General to the General Appeal Board.
+(6) An applicant may appeal against the decision of the Director General to the General Appeal Board.
 
 ### 30 Approval of applications under section 29 for new schools and relocation of schools
 
@@ -798,7 +946,7 @@ The Director General is to approve an application to establish a new school or t
 
 ### 31 Approval of other applications under section 29
 
-- The Director General is to approve an application to cancel the registration of a school and to close the school only if he or she is satisfied that:
+(1) The Director General is to approve an application to cancel the registration of a school and to close the school only if he or she is satisfied that:
 
 Education Act No. 9 of 2014
 
@@ -816,7 +964,7 @@ PART 5 EDUCATION AUTHORITIES
 
 (c) the Education Authority does not have sufficient resources and facilities available for the satisfactory operation of the school.
 
-- The Director General is to approve an application by an Education Authority to take over a school from another Education Authority only if he or she is satisfied that:
+(2) The Director General is to approve an application by an Education Authority to take over a school from another Education Authority only if he or she is satisfied that:
 
 (a) both Authorities have agreed to the takeover; and
 
@@ -824,7 +972,7 @@ PART 5 EDUCATION AUTHORITIES
 
 (c) the Education Authority proposing to take over the school can competently administer the school.
 
-- The Director General may approve an application by an Education Authority to take over a school from a Provincial Education Board if he or she is satisfied that:
+(3) The Director General may approve an application by an Education Authority to take over a school from a Provincial Education Board if he or she is satisfied that:
 
 (a) both the Authority and the Board agree to the take over; and
 
@@ -832,13 +980,13 @@ PART 5 EDUCATION AUTHORITIES
 
 (c) the Education Authority proposing to take over the school can competently administer the school.
 
-- The Director General is to approve an application to change the name of a school only if he or she is satisfied that the proposed new name is acceptable to a large majority of the local community.
+(4) The Director General is to approve an application to change the name of a school only if he or she is satisfied that the proposed new name is acceptable to a large majority of the local community.
 
 ## Division 4 Cancellation and withdrawal of approval of Education Authorities
 
 ### 32 Cancellation of approval of Education Authority
 
-- After consultation with the Minister, the Director General may cancel the approval of an Education Authority if he or she is satisfied that:
+(1) After consultation with the Minister, the Director General may cancel the approval of an Education Authority if he or she is satisfied that:
 
 Education Act No. 9 of 2014
 
@@ -858,13 +1006,13 @@ PART 5 EDUCATION AUTHORITIES
 
 (d) the Authority cannot competently administer its schools.
 
-- The Director General must give the Education Authority written notice of the proposed cancellation and allow the Authority at least 28 days to make submissions in writing to him or her as to why the approval should not be cancelled.
+(2) The Director General must give the Education Authority written notice of the proposed cancellation and allow the Authority at least 28 days to make submissions in writing to him or her as to why the approval should not be cancelled.
 
-- In deciding whether to cancel the approval of an Education Authority, the Director General must take into account any submissions made to him or her by the Education Authority.
+(3) In deciding whether to cancel the approval of an Education Authority, the Director General must take into account any submissions made to him or her by the Education Authority.
 
-- The Director General must give the Education Authority written notice of his or her decision within 28 days after making the decision.
+(4) The Director General must give the Education Authority written notice of his or her decision within 28 days after making the decision.
 
-- In making a decision to cancel the approval of an Education Authority, the Director General must, by Order, close the Authority's schools or:
+(5) In making a decision to cancel the approval of an Education Authority, the Director General must, by Order, close the Authority's schools or:
 
 (a) take over the Authority's schools and any property of the schools or the Authority necessary for the operation of the schools; and
 
@@ -874,9 +1022,9 @@ PART 5 EDUCATION AUTHORITIES
 
 (ii) the relevant Provincial Education Board.
 
-- An Education Authority may appeal against the decision of the Director General to cancel its approval to the General Appeal Board.
+(6) An Education Authority may appeal against the decision of the Director General to cancel its approval to the General Appeal Board.
 
-- To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
+(7) To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
 
 Education Act No. 9 of 2014
 
@@ -890,9 +1038,9 @@ PART 5 EDUCATION AUTHORITIES
 
 ### 33 Withdrawal of approval of Education Authority
 
-- The Director General may, at the written request of an Education Authority, withdraw the approval of the Authority.
+(1) The Director General may, at the written request of an Education Authority, withdraw the approval of the Authority.
 
-- On the withdrawal of an approval of an Education Authority, the Director General must by Order close the Authority's schools or:
+(2) On the withdrawal of an approval of an Education Authority, the Director General must by Order close the Authority's schools or:
 
 (a) take over the Authority's schools and any property of the schools or the Authority necessary for the operation of the schools; and
 
@@ -902,7 +1050,7 @@ PART 5 EDUCATION AUTHORITIES
 
 (ii) the relevant Provincial Education Board.
 
-- To avoid doubt, no compensation is payable by the Government to any person in respect of an Order made under this section.
+(3) To avoid doubt, no compensation is payable by the Government to any person in respect of an Order made under this section.
 
 ## Division 5 Other matters relating to Education Authorities
 
@@ -920,7 +1068,7 @@ An Education Authority has the following functions:
 
 ### 35 Accounts
 
-- An Education Authority must:
+(1) An Education Authority must:
 
 (a) keep proper accounting records in relation to its financial affairs (including receipt and expenditure of government grants under section 37); and
 
@@ -936,11 +1084,11 @@ PART 5 EDUCATION AUTHORITIES
 
 (b) prepare annual statements of account for each financial year.
 
-- An Education Authority's accounts for each financial year must be audited within 6 months after the end of that financial year by an auditor approved by the Director General.
+(2) An Education Authority's accounts for each financial year must be audited within 6 months after the end of that financial year by an auditor approved by the Director General.
 
-- An Education Authority must make its accounts and supporting records available upon the request of auditors from the Ministry.
+(3) An Education Authority must make its accounts and supporting records available upon the request of auditors from the Ministry.
 
-- A person who:
+(4) A person who:
 
 (a) fails to make all relevant accounts and supporting records available upon a request made under subsection (3); or
 
@@ -950,15 +1098,15 @@ is guilty of an offence punishable on conviction by a fine not exceeding VT 500,
 
 ### 36 Reports
 
-- An Education Authority must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of its schools for that year.
+(1) An Education Authority must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of its schools for that year.
 
-- The report must include a detailed financial return showing all income and expenditure for the Education Authority and each school administered by it.
+(2) The report must include a detailed financial return showing all income and expenditure for the Education Authority and each school administered by it.
 
-- The Director General may determine the form and content of the report referred to in subsection (1).
+(3) The Director General may determine the form and content of the report referred to in subsection (1).
 
-- The Education Authority must provide the Director General with any additional information which he or she may request about a matter contained in a report.
+(4) The Education Authority must provide the Director General with any additional information which he or she may request about a matter contained in a report.
 
-- An Education Authority that fails to comply with this section is guilty of an offence punishable, on conviction, by a fine not exceeding VT500,000.
+(5) An Education Authority that fails to comply with this section is guilty of an offence punishable, on conviction, by a fine not exceeding VT500,000.
 
 Education Act No. 9 of 2014
 
@@ -976,19 +1124,19 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 ### 37 Funding of Education Authorities
 
-- An Education Authority that has entered into a funding agreement with the Minister on behalf of the Government may receive funding by way of grants from the Government.
+(1) An Education Authority that has entered into a funding agreement with the Minister on behalf of the Government may receive funding by way of grants from the Government.
 
-- An Education Authority must spend the monies received by way of any government grants in accordance with the funding agreement.
+(2) An Education Authority must spend the monies received by way of any government grants in accordance with the funding agreement.
 
-- The funding provided to an Education Authority by way of government grants is not intended to cover the total operating costs of the Authority.
+(3) The funding provided to an Education Authority by way of government grants is not intended to cover the total operating costs of the Authority.
 
-- An Education Authority may receive funding from other sources.
+(4) An Education Authority may receive funding from other sources.
 
-- An Education Authority must provide the Director General with accurate details of the total amount of funding received, broken down into the separate sources of that funding.
+(5) An Education Authority must provide the Director General with accurate details of the total amount of funding received, broken down into the separate sources of that funding.
 
-- Nothing in this section requires the Minister on behalf of the Government to enter into funding agreements with all Education Authorities.  Some Education Authorities may want to be financially independent, and not require funding by way of government grants.
+(6) Nothing in this section requires the Minister on behalf of the Government to enter into funding agreements with all Education Authorities. Some Education Authorities may want to be financially independent, and not require funding by way of government grants.
 
-- A funding agreement may provide for direct payment of salaries and other benefits to teachers and other persons working in the schools of an Education Authority.
+(7) A funding agreement may provide for direct payment of salaries and other benefits to teachers and other persons working in the schools of an Education Authority.
 
 ### 38 Funding of Provincial Education Boards
 
@@ -996,7 +1144,7 @@ All Provincial Education Boards are to receive funding by way of grants from the
 
 ### 39 Funding of Schools by the Government
 
-- The Government may provide funding to all:
+(1) The Government may provide funding to all:
 
 (a) government schools; and
 
@@ -1014,31 +1162,31 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- Schools must spend the monies received under subsection (1) in accordance with the Grants Code under section 40.
+(2) Schools must spend the monies received under subsection (1) in accordance with the Grants Code under section 40.
 
-- Schools may receive funding from other sources, for example donations and school fund raising activities.
+(3) Schools may receive funding from other sources, for example donations and school fund raising activities.
 
-- The Principal for each school is responsible for the proper management of the schools funds by ensuring that accurate and up to date financial records of all school income and expenditure are kept.
+(4) The Principal for each school is responsible for the proper management of the schools funds by ensuring that accurate and up to date financial records of all school income and expenditure are kept.
 
-- Education Authorities and Provincial Education Boards must ensure proper financial records are kept for each of their schools.
+(5) Education Authorities and Provincial Education Boards must ensure proper financial records are kept for each of their schools.
 
-- The Director General may determine the form and content of the financial records required to be kept by schools under this section.
+(6) The Director General may determine the form and content of the financial records required to be kept by schools under this section.
 
 ### 40 Grants Code
 
-- As soon as possible after commencement, the Director General must, in consultation with Education Authorities and Provincial Education Boards, prepare a Grants Code providing for the distribution of government grants to schools.
+(1) As soon as possible after commencement, the Director General must, in consultation with Education Authorities and Provincial Education Boards, prepare a Grants Code providing for the distribution of government grants to schools.
 
-- The Grants Code must be submitted to the Minister for his or her approval and does not come into force until the Minister approves it.
+(2) The Grants Code must be submitted to the Minister for his or her approval and does not come into force until the Minister approves it.
 
-- A Grants Code that has been approved by the Minister must be published in the Gazette.
+(3) A Grants Code that has been approved by the Minister must be published in the Gazette.
 
-- An Education Authority that fails to comply with any provision of a Grants Code is guilty of an offence punishable on conviction by a fine not exceeding VT500,000.
+(4) An Education Authority that fails to comply with any provision of a Grants Code is guilty of an offence punishable on conviction by a fine not exceeding VT500,000.
 
-- For the purpose of this section, Grants Code means a documented set of rules or conditions that all schools which receive government funding are expected to comply with in the way they spend and account for that funding.
+(5) For the purpose of this section, Grants Code means a documented set of rules or conditions that all schools which receive government funding are expected to comply with in the way they spend and account for that funding.
 
 ### 41 School fees
 
-- Subject to subsection (9), the Minister may, after consultation with the Director General and the National Education Advisory Council, by Order prescribe the range of fees payable at government and non-government schools in relation to the following:
+(1) Subject to subsection (9), the Minister may, after consultation with the Director General and the National Education Advisory Council, by Order prescribe the range of fees payable at government and non-government schools in relation to the following:
 
 (a) tuition; and
 
@@ -1058,29 +1206,29 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (d) any other facilities or services provided to students.
 
-- An Education Authority or a Provincial Education Board must not charge fees at any of its schools that are in excess of the prescribed range.
+(2) An Education Authority or a Provincial Education Board must not charge fees at any of its schools that are in excess of the prescribed range.
 
-- Different fees may be prescribed in respect of:
+(3) Different fees may be prescribed in respect of:
 
 (a) government and non-government schools; and
 
 (b) government and non-government schools in different provinces.
 
-- Subsections (1) and (2) do not apply to any non-government schools which do not receive funding from the Government.
+(4) Subsections (1) and (2) do not apply to any non-government schools which do not receive funding from the Government.
 
-- Despite subsection (4), the Minister may by Order prescribe fees for nongovernment schools which do not receive funding from the Government upon consultation with the appropriate stakeholders.
+(5) Despite subsection (4), the Minister may by Order prescribe fees for non-government schools which do not receive funding from the Government upon consultation with the appropriate stakeholders.
 
-- The parents of a child are jointly and severally liable for all fees due in respect of the child, whether or not they enrolled the child at the school.
+(6) The parents of a child are jointly and severally liable for all fees due in respect of the child, whether or not they enrolled the child at the school.
 
-- The principal of a school may, after consultation with the relevant Education Authority or Provincial Education Board, exclude from attendance at the school any student in respect of whom fees have not been paid by the due date.
+(7) The principal of a school may, after consultation with the relevant Education Authority or Provincial Education Board, exclude from attendance at the school any student in respect of whom fees have not been paid by the due date.
 
-- Before taking action under subsection (7), a principal must use reasonable efforts to reach an acceptable arrangement in relation to payment of the fees so the student can continue to attend school.
+(8) Before taking action under subsection (7), a principal must use reasonable efforts to reach an acceptable arrangement in relation to payment of the fees so the student can continue to attend school.
 
-- An Education Authority or a Provincial Education Board may waive in whole or in part the fees due in respect of a student if the Authority or Board is satisfied that the parents of the student are unable to pay such fees in whole or in part.
+(9) An Education Authority or a Provincial Education Board may waive in whole or in part the fees due in respect of a student if the Authority or Board is satisfied that the parents of the student are unable to pay such fees in whole or in part.
 
 ### 42 Accountability of school fees
 
-- The principal of a school is responsible for the collection of fees payable for any matter mentioned in subsection 41(1).
+(1) The principal of a school is responsible for the collection of fees payable for any matter mentioned in subsection 41(1).
 
 Education Act No. 9 of 2014
 
@@ -1092,17 +1240,17 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- An Education Authority or a Provincial Education Board must ensure that proper accounts are kept for each of its schools in relation to the collection and disbursement of such fees.
+(2) An Education Authority or a Provincial Education Board must ensure that proper accounts are kept for each of its schools in relation to the collection and disbursement of such fees.
 
 ## Division 2 School Staffing Structure
 
 ### 43 Approval of school staffing structure
 
-- The Director General may determine the number and type of positions at government and non-government schools administered by the Education Authorities which have entered into an agreement with the Government.
+(1) The Director General may determine the number and type of positions at government and non-government schools administered by the Education Authorities which have entered into an agreement with the Government.
 
-- Provincial Education Officers and relevant Education Authorities must, in writing, provide the Director General annually with a proposed staffing structure for each school they administer.
+(2) Provincial Education Officers and relevant Education Authorities must, in writing, provide the Director General annually with a proposed staffing structure for each school they administer.
 
-- The proposed structure must contain the following details:
+(3) The proposed structure must contain the following details:
 
 (a) the current student enrolment at the school categorized into year groups; and
 
@@ -1114,15 +1262,15 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 ### 44 Variation of school staffing structures
 
-- A Provincial Education Officer or relevant Education Authority may seek a variation of a school's staffing structure at any time by:
+(1) A Provincial Education Officer or relevant Education Authority may seek a variation of a school's staffing structure at any time by:
 
 (a) making an application to the Director General in the prescribed form; and
 
 (b) providing all the details required under subsection 43(3).
 
-- Provincial Education Officers and Education Authorities must advise the Director General of any change of 5% or more in student enrolment numbers at a school they administer.
+(2) Provincial Education Officers and Education Authorities must advise the Director General of any change of 5% or more in student enrolment numbers at a school they administer.
 
-- The Director General is to review school staffing structures at least once a year and may vary a school staffing structure.
+(3) The Director General is to review school staffing structures at least once a year and may vary a school staffing structure.
 
 Education Act No. 9 of 2014
 
@@ -1136,7 +1284,7 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 ### 45 Positions in schools
 
-- The Director General may determine:
+(1) The Director General may determine:
 
 (a) categories of positions in schools including, but not limited to principals, deputy principals, classroom teachers, assistant teachers, inclusive education teachers and early childhood and care education teachers; and
 
@@ -1144,13 +1292,13 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (c) that particular positions are to be part-time, including the days or hours of work of such part-time positions.
 
-- For the purposes of paragraph (1)(a), inclusive education teacher means a teacher who is specially trained to teach children with special needs from children who are highly intelligent to children with vision impairment, hearing impairment, speech impairment, intellectual impairment, physical impairments.
+(2) For the purposes of paragraph (1)(a), inclusive education teacher means a teacher who is specially trained to teach children with special needs from children who are highly intelligent to children with vision impairment, hearing impairment, speech impairment, intellectual impairment, physical impairments.
 
 ## Division 3 Administration and management of schools
 
 ### 46 Responsibilities of the principal
 
-- The principal of a school is responsible for:
+(1) The principal of a school is responsible for:
 
 (a) the day to day administration and management of the school; and
 
@@ -1160,7 +1308,7 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (d) reporting to the Education Authority or Provincial Education Board on matters relating to the school as required by the Authority or the Board.
 
-- Without limiting subsection (1), the principal of a school must:
+(2) Without limiting subsection (1), the principal of a school must:
 
 (a) ensure that the school buildings and grounds are kept clean and tidy, and are well maintained; and
 
@@ -1186,17 +1334,17 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (g) keep and maintain all other records required by or under this Act ; and
 
-(h) provide the  Director General with such information about the school as he or she requires for the purposes of this Act or the regulations.
+(h) provide the Director General with such information about the school as he or she requires for the purposes of this Act or the regulations.
 
-- The Director General may determine the form and content of the written report to parents referred to in paragraph (2)(e) and the records referred to in paragraph (2)(f).
+(3) The Director General may determine the form and content of the written report to parents referred to in paragraph (2)(e) and the records referred to in paragraph (2)(f).
 
 ### 47 Discipline of students
 
-- The Director General must prepare guidelines for the adoption and implementation by schools of fair discipline practices that provide for the control and regulation of student discipline in schools and that reinforces good behaviour.
+(1) The Director General must prepare guidelines for the adoption and implementation by schools of fair discipline practices that provide for the control and regulation of student discipline in schools and that reinforces good behaviour.
 
-- The guidelines must not permit corporal punishment of students attending schools. However, they may permit other reasonable forms of punishment or correction of those students, including requiring students to perform any reasonable work or service for the school.
+(2) The guidelines must not permit corporal punishment of students attending schools. However, they may permit other reasonable forms of punishment or correction of those students, including requiring students to perform any reasonable work or service for the school.
 
-- Subject to subsection (4), an Education Authority or a Provincial Education Board may, on the recommendation of the principal of a school, expel a student from the school for:
+(3) Subject to subsection (4), an Education Authority or a Provincial Education Board may, on the recommendation of the principal of a school, expel a student from the school for:
 
 (a) severe misconduct or disobedience; or
 
@@ -1212,29 +1360,29 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- An Education Authority or a Provincial Education Board must not expel a student unless it has conducted a thorough investigation in relation to the matter and the student has been given an opportunity to be heard.
+(4) An Education Authority or a Provincial Education Board must not expel a student unless it has conducted a thorough investigation in relation to the matter and the student has been given an opportunity to be heard.
 
-- The Education Authority or Provincial Education Board must, as soon as practicable, notify the parents of a student who is expelled and the chairperson of the relevant school council.
+(5) The Education Authority or Provincial Education Board must, as soon as practicable, notify the parents of a student who is expelled and the chairperson of the relevant school council.
 
-- A student must not be expelled, withdrawn or otherwise have his or her enrolment at a school involuntarily terminated unless the procedure under subsection (4) has been complied with by an Education Authority or a Provincial Education Board.
+(6) A student must not be expelled, withdrawn or otherwise have his or her enrolment at a school involuntarily terminated unless the procedure under subsection (4) has been complied with by an Education Authority or a Provincial Education Board.
 
-- The principal of a school may suspend a student from the school for misconduct or disobedience for a period not exceeding 2 weeks.
+(7) The principal of a school may suspend a student from the school for misconduct or disobedience for a period not exceeding 2 weeks.
 
-- A principal must not suspend a student unless there has been an investigation into the matter and the student has been given an opportunity to be heard.
+(8) A principal must not suspend a student unless there has been an investigation into the matter and the student has been given an opportunity to be heard.
 
-- The principal must as soon as practicable notify the parents of the suspended student and the chairperson of the school council.
+(9) The principal must as soon as practicable notify the parents of the suspended student and the chairperson of the school council.
 
-- A parent of a student who has been expelled under subsection (3) may appeal in writing to the Director General against the expulsion.
+(10) A parent of a student who has been expelled under subsection (3) may appeal in writing to the Director General against the expulsion.
 
-- The Director General must determine the appeal as soon as possible and notify in writing the Education Authority or Provincial Education Board, as the case requires, and the appellant of his or her decision.
+(11) The Director General must determine the appeal as soon as possible and notify in writing the Education Authority or Provincial Education Board, as the case requires, and the appellant of his or her decision.
 
 ### 48 Medical examination of students
 
-- Subject to subsection (2), the Director General must cause all students at a school to be examined by a qualified medical practitioner at regular intervals to be determined by the Director General.
+(1) Subject to subsection (2), the Director General must cause all students at a school to be examined by a qualified medical practitioner at regular intervals to be determined by the Director General.
 
-- The parent of a student may make a request to the principal that the student be exempt from a medical examination. The principal must allow the request if he or she is satisfied that a qualified medical practitioner will examine the student at the parent's expense.
+(2) The parent of a student may make a request to the principal that the student be exempt from a medical examination. The principal must allow the request if he or she is satisfied that a qualified medical practitioner will examine the student at the parent's expense.
 
-- Following a medical examination, the principal may exclude a student from attending the school if he or she has a condition likely to endanger the health of other students.
+(3) Following a medical examination, the principal may exclude a student from attending the school if he or she has a condition likely to endanger the health of other students.
 
 Education Act No. 9 of 2014
 
@@ -1246,29 +1394,29 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- The student referred to in subsection (3) must be reinstated once a medical practitioner provides a report stating that the student is free from any such condition.
+(4) The student referred to in subsection (3) must be reinstated once a medical practitioner provides a report stating that the student is free from any such condition.
 
 ### 49 School councils
 
-- An Education Authority or a Provincial Education Board must establish a school council for each of its schools to assist the principal in the management and administration of the school.
+(1) An Education Authority or a Provincial Education Board must establish a school council for each of its schools to assist the principal in the management and administration of the school.
 
-- An Education Authority or a Provincial Education Board is to determine for each school council:
+(2) An Education Authority or a Provincial Education Board is to determine for each school council:
 
 (a) the membership of the school council, which must wherever possible include both male and female members; and
 
 (b) the functions and responsibilities of the school council.
 
-- In determining the membership of the school council, an Education Authority or a Provincial Education Board must ensure that a person appointed as a member of the school council has met the criteria prescribed by the Minister.
+(3) In determining the membership of the school council, an Education Authority or a Provincial Education Board must ensure that a person appointed as a member of the school council has met the criteria prescribed by the Minister.
 
-- The Minister may prescribe the criteria of appointment of a member of a school council.
+(4) The Minister may prescribe the criteria of appointment of a member of a school council.
 
-- A school council is to regulate its procedures and conduct its business in accordance with any relevant Regulations, determinations or guidelines made under subsection 12(3).
+(5) A school council is to regulate its procedures and conduct its business in accordance with any relevant Regulations, determinations or guidelines made under subsection 12(3).
 
-- Subject to subsection (7), a member of a school council is not entitled to any salary or other remuneration, including by way of allowances, for his or her services provided to the school council.
+(6) Subject to subsection (7), a member of a school council is not entitled to any salary or other remuneration, including by way of allowances, for his or her services provided to the school council.
 
-- Subject to the availability of funds at a school, a member of the school council is to be reimbursed for expenses properly incurred when engaged on the business of the school council.
+(7) Subject to the availability of funds at a school, a member of the school council is to be reimbursed for expenses properly incurred when engaged on the business of the school council.
 
-- A school council may identify school aged children not attending classes at school within its community and work with the relevant family members, school principal or any school community association established under section 52 to ensure that such children attend classes at school.
+(8) A school council may identify school aged children not attending classes at school within its community and work with the relevant family members, school principal or any school community association established under section 52 to ensure that such children attend classes at school.
 
 Education Act No. 9 of 2014
 
@@ -1280,19 +1428,19 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- A School council may from time to time arrange for a member of the student representative body to attend any school council meeting and to contribute to any discussions and deliberations at the meeting.
+(9) A School council may from time to time arrange for a member of the student representative body to attend any school council meeting and to contribute to any discussions and deliberations at the meeting.
 
 ### 50 Student representative body
 
-- This section applies only to secondary education.
+(1) This section applies only to secondary education.
 
-- A student representative body is established within each school under subsection (1).
+(2) A student representative body is established within each school under subsection (1).
 
-- The Principal of a school must facilitate the establishment and ongoing operation of a student representative body.
+(3) The Principal of a school must facilitate the establishment and ongoing operation of a student representative body.
 
-- Subject to subsection (5), the Principal is to determine the membership and the process of selection of members of the student representative body.
+(4) Subject to subsection (5), the Principal is to determine the membership and the process of selection of members of the student representative body.
 
-- Students of a school are to elect from amongst themselves members of the student representative body.
+(5) Students of a school are to elect from amongst themselves members of the student representative body.
 
 ### 51 Functions of a student representative body
 
@@ -1306,11 +1454,11 @@ A student representative body has the following functions:
 
 ### 52 School community associations
 
-- Parents of students attending any school together with other residents of the area served by the school who are interested in the welfare of the school may form a school community association in connection with the school.
+(1) Parents of students attending any school together with other residents of the area served by the school who are interested in the welfare of the school may form a school community association in connection with the school.
 
-- The objectives of a school community association are to:
+(2) The objectives of a school community association are to:
 
-(a) promote the interests of the school by bringing parents, students, teaching staff and other residents of the school area into close cooperation; and
+(a) promote the interests of the school by bringing parents, students, teaching staff and other residents of the school area into close co-operation; and
 
 (b) assist in providing facilities and equipment for the school and in promoting the recreation and welfare of the students at the school; and
 
@@ -1330,9 +1478,9 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 ### 53 School Based Management Unit
 
-- The Director General may in writing provide for the establishment of a School Based Management Unit.
+(1) The Director General may in writing provide for the establishment of a School Based Management Unit.
 
-- The School Based Management Unit consists of the following persons:
+(2) The School Based Management Unit consists of the following persons:
 
 (a) school improvement officers appointed by the Public Service Commission; and
 
@@ -1340,7 +1488,7 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (c) Provincial finance officers appointed by the Public Service Commission.
 
-- For the purpose of this section:
+(3) For the purpose of this section:
 
 school improvement officer means a person appointed by the Public Service Commission to be a school improvement officer for the purposes of this Act;
 
@@ -1348,7 +1496,7 @@ zone curriculum advisor means a person appointed by the Teaching Service Commiss
 
 ### 54 Functions of the School Based Management Unit
 
-- The School Based Management Unit must visit a school on a regular basis to ensure that the school has an effective management and administrative system that:
+(1) The School Based Management Unit must visit a school on a regular basis to ensure that the school has an effective management and administrative system that:
 
 (a) advances quality teaching and learning; and
 
@@ -1366,7 +1514,7 @@ Education Act No. 9 of 2014
 
 PART 6 NATIONAL SCHOOL SYSTEM
 
-- In addition to subsection (1), the School Based Management Unit must ensure:
+(2) In addition to subsection (1), the School Based Management Unit must ensure:
 
 (a) that a school develops and implements:
 
@@ -1400,7 +1548,7 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 (ii) in accordance with this Act or any Regulation, determination or guideline made under this Act.
 
-- In conducting any school visit or making an assessment under this section, the School Based Management Unit may require the principal, a teacher or
+(3) In conducting any school visit or making an assessment under this section, the School Based Management Unit may require the principal, a teacher or
 
 Education Act No. 9 of 2014
 
@@ -1414,19 +1562,19 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 other members of the school staff to provide a report in writing on any issues identified by it during the course of its visit.
 
-- The School Based Management Unit must make a report on the findings of its visit under subsection (1), to the Director General.
+(4) The School Based Management Unit must make a report on the findings of its visit under subsection (1), to the Director General.
 
-- The School Based Management Unit may upon request, assess the performance of the principal and teachers of a school and make a report on the findings.
+(5) The School Based Management Unit may upon request, assess the performance of the principal and teachers of a school and make a report on the findings.
 
-- The School Based Management Unit must submit a report on the findings made under subsection (4) to the Teaching Service Commission, the relevant Provincial Education Officer or Authority and the Director of School Programs within 14 days from the date of completion of the visit or assessment.
+(6) The School Based Management Unit must submit a report on the findings made under subsection (4) to the Teaching Service Commission, the relevant Provincial Education Officer or Authority and the Director of School Programs within 14 days from the date of completion of the visit or assessment.
 
-- A principal, teacher or member of the school staff who fails to comply with subsection (3) commits a disciplinary offence and is subject to a disciplinary action by the Teaching Service Commission.
+(7) A principal, teacher or member of the school staff who fails to comply with subsection (3) commits a disciplinary offence and is subject to a disciplinary action by the Teaching Service Commission.
 
 ## Division 4 Cancellation of registration of schools
 
 ### 55 Cancellation of registration of schools by Director General
 
-- After consultation with the Minister, the Director General may cancel the registration of a school if the Director General is satisfied that:
+(1) After consultation with the Minister, the Director General may cancel the registration of a school if the Director General is satisfied that:
 
 (a) the school is being operated by the Education Authority or Provincial Education Board in a careless and irresponsible way to the detriment of its staff and students; or
 
@@ -1438,7 +1586,7 @@ other members of the school staff to provide a report in writing on any issues i
 
 (e) it is not in the public interest to keep the school open.
 
-- The Director General must give the principal of the school and the Education Authority or the Provincial Education Board written notice of
+(2) The Director General must give the principal of the school and the Education Authority or the Provincial Education Board written notice of
 
 Education Act No. 9 of 2014
 
@@ -1452,15 +1600,15 @@ PART 6 NATIONAL SCHOOL SYSTEM
 
 the proposed cancellation and allow at least 28 days for submissions to be made in writing to him or her as to why the school's registration should not be cancelled.
 
-- In deciding whether to cancel the registration of the school, the Director General must take into account any submissions made by the Education Authority or the Provincial Education Board and the principal.
+(3) In deciding whether to cancel the registration of the school, the Director General must take into account any submissions made by the Education Authority or the Provincial Education Board and the principal.
 
-- The Director General must give the Education Authority or the Provincial Education Board and the principal written notice of his or her decision within 28 days after making the decision. The cancellation of the registration of the school takes effect on the date specified in the notice.
+(4) The Director General must give the Education Authority or the Provincial Education Board and the principal written notice of his or her decision within 28 days after making the decision. The cancellation of the registration of the school takes effect on the date specified in the notice.
 
-- An Education Authority or a Provincial Education Board may appeal against the decision of the Director General to cancel the registration of a school.
+(5) An Education Authority or a Provincial Education Board may appeal against the decision of the Director General to cancel the registration of a school.
 
 ### 56 Take over of schools
 
-- Subject to subsection (2), if the Director General is of the opinion that a school whose registration has been cancelled under section 55 should continue to operate, the Director General may by Order:
+(1) Subject to subsection (2), if the Director General is of the opinion that a school whose registration has been cancelled under section 55 should continue to operate, the Director General may by Order:
 
 (a) take over the school and any property of the school, or any property of the Education Authority or Provincial Education Board at the school; and
 
@@ -1470,9 +1618,9 @@ the proposed cancellation and allow at least 28 days for submissions to be made 
 
 (ii) the relevant Provincial Education Board.
 
-- The Director General must not carry out any of the actions stated in subsection (1) unless the Director General has obtained the written prior approval of the governing body of the school.
+(2) The Director General must not carry out any of the actions stated in subsection (1) unless the Director General has obtained the written prior approval of the governing body of the school.
 
-- No compensation is payable by the Government to any person in respect of an Order made under this section.
+(3) No compensation is payable by the Government to any person in respect of an Order made under this section.
 
 Education Act No. 9 of 2014
 
@@ -1486,13 +1634,13 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 # PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-## Division1 National Education Advisory Council
+## Division 1 National Education Advisory Council
 
 ### 57 Establishment and functions of the National Education Advisory Council
 
-- The National Education Advisory Council is established.
+(1) The National Education Advisory Council is established.
 
-- The Council has the following functions:
+(2) The Council has the following functions:
 
 (a) to advise the Minister and the Director General on:
 
@@ -1512,7 +1660,7 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 ### 58 Membership of the National Education Advisory Council
 
-- The National Education Advisory Council has 11 members who are to be appointed by the Minister on the advice of the Director General.
+(1) The National Education Advisory Council has 11 members who are to be appointed by the Minister on the advice of the Director General.
 
 Education Act No. 9 of 2014
 
@@ -1524,7 +1672,7 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- The members are:
+(2) The members are:
 
 (a) a representative of the Vanuatu Christian Council; and
 
@@ -1542,19 +1690,19 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (h) a representative of tertiary education institutions.
 
-- The Director General is an ex officio member of the Council, but has no voting rights at a meeting of the Council.
+(3) The Director General is an ex officio member of the Council, but has no voting rights at a meeting of the Council.
 
-- The Minister in making an appointment under subsection (1) must ensure that the Council has an equitable and balanced gender representation.
+(4) The Minister in making an appointment under subsection (1) must ensure that the Council has an equitable and balanced gender representation.
 
 ### 59 Establishment and functions of the Secretariat of the National Education Advisory Council
 
-- The Secretariat of National Education Advisory Council is established.
+(1) The Secretariat of National Education Advisory Council is established.
 
-- The Secretariat is to assist in managing the carrying out of the functions and implementation of the decisions of the National Education Advisory Council.
+(2) The Secretariat is to assist in managing the carrying out of the functions and implementation of the decisions of the National Education Advisory Council.
 
-- The Secretariat consists of the secretary and employees appointed by the Public Service Commission.
+(3) The Secretariat consists of the secretary and employees appointed by the Public Service Commission.
 
-- A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
+(4) A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
 
 Education Act No. 9 of 2014
 
@@ -1566,17 +1714,17 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- The secretary must establish, maintain and manage the Secretariat in such a way as to provide an efficient and professional administrative service to the Council.
+(5) The secretary must establish, maintain and manage the Secretariat in such a way as to provide an efficient and professional administrative service to the Council.
 
 ## Division 2 National Curriculum and Assessment Board
 
 ### 60 Establishment and membership of the National Curriculum and Assessment Board
 
-- The National Curriculum and Assessment Board is established.
+(1) The National Curriculum and Assessment Board is established.
 
-- The Board consists of 9 members who are to be appointed by the Minister.
+(2) The Board consists of 9 members who are to be appointed by the Minister.
 
-- The Members are:
+(3) The Members are:
 
 (a) 2 members who have qualifications or expertise in curriculum development; and
 
@@ -1586,11 +1734,11 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (d) 2 members who represent the private sector and non-government organisations.
 
-- In addition to subsection (2), the Director responsible for curriculum and assessment is an ex officio member of the Board.
+(4) In addition to subsection (2), the Director responsible for curriculum and assessment is an ex officio member of the Board.
 
-- The Minister in making an appointment under subsection (2), must ensure that the Board has an equitable and balanced gender representation.
+(5) The Minister in making an appointment under subsection (2), must ensure that the Board has an equitable and balanced gender representation.
 
-- In undertaking its functions under sections 61 and 62, the Board must consult as widely as practicable with communities, organisations and individuals.
+(6) In undertaking its functions under sections 61 and 62, the Board must consult as widely as practicable with communities, organisations and individuals.
 
 ### 61 Assessment and examination function
 
@@ -1626,7 +1774,7 @@ any nationally recognised certificate or any other educational qualification to 
 
 ### 62 Curriculum and syllabus functions
 
-- In addition to section 61, the Board has the following functions in relations to curriculums and syllabuses:
+(1) In addition to section 61, the Board has the following functions in relations to curriculums and syllabuses:
 
 (a) subject to subsection (2), to evaluate and approve the national curriculum for early childhood and care, primary and secondary education in Vanuatu; and
 
@@ -1656,19 +1804,19 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (i) whenever requested by the Minister or the Director General, to provide information or advice to him or her on any matter affecting the national curriculum or syllabuses.
 
-- The Commission must not approve a curriculum as the national curriculum unless it is satisfied that:
+(2) The Commission must not approve a curriculum as the national curriculum unless it is satisfied that:
 
 (a) it takes into account national policies, needs and aspirations; and
 
 (b) it provides for the physical, spiritual, social and cultural development of students as reflected in the national curriculum statement.
 
-- For the purpose of this section, national curriculum statement means the document that sets the legal framework which guides the development of the National curriculum for Vanuatu
+(3) For the purpose of this section, national curriculum statement means the document that sets the legal framework which guides the development of the National curriculum for Vanuatu
 
 ### 63 Establishment and functions of the Secretariat of the National Curriculum and Assessment Board
 
-- The Secretariat of the National Curriculum and Assessment Board is established.
+(1) The Secretariat of the National Curriculum and Assessment Board is established.
 
-- The Secretariat of the National Curriculum and Assessment Board must assist in managing the carrying out of the functions and implementation of the decisions of the National Curriculum and Assessment Board.
+(2) The Secretariat of the National Curriculum and Assessment Board must assist in managing the carrying out of the functions and implementation of the decisions of the National Curriculum and Assessment Board.
 
 Education Act No. 9 of 2014
 
@@ -1680,19 +1828,19 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- The Secretariat consists of the secretary who is to be the Principal Curriculum and Assessment Officer and employees appointed by the Public Service Commission.
+(3) The Secretariat consists of the secretary who is to be the Principal Curriculum and Assessment Officer and employees appointed by the Public Service Commission.
 
-- A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
+(4) A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
 
-- The secretary must establish, maintain and manage a Secretariat to provide for the efficient and professional administrative services to the Board.
+(5) The secretary must establish, maintain and manage a Secretariat to provide for the efficient and professional administrative services to the Board.
 
 ## Division 3 National Scholarship and Training Board
 
 ### 64 Establishment and membership of the National Scholarship and Training Board
 
-- The National Scholarship and Training Board is established.
+(1) The National Scholarship and Training Board is established.
 
-- The persons occupying the following positions are members of the Board:
+(2) The persons occupying the following positions are members of the Board:
 
 (a) the Director General of the Ministry of Education who is to be the Chairperson of the Board; and
 
@@ -1704,7 +1852,7 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (e) the Director of Education.
 
-- In addition to subsection (2), the Minister is to appoint on the advice of the Director General, 6 other members of the Board who are:
+(3) In addition to subsection (2), the Minister is to appoint on the advice of the Director General, 6 other members of the Board who are:
 
 (a) a representative of the Chamber of Commerce and Industries; and
 
@@ -1728,19 +1876,19 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (f) a representative of the Vanuatu Qualifications Authority.
 
-- The Minister may prescribe the criteria for members referred to under subsection (3).
+(4) The Minister may prescribe the criteria for members referred to under subsection (3).
 
-- A person is not qualified to be appointed under subsection (3) if he or she:
+(5) A person is not qualified to be appointed under subsection (3) if he or she:
 
 (a) is a member of Parliament; or
 
 (b) exercises any position of responsibility in a political party.
 
-- The Minister in making an appointment under subsection (3), must ensure that the Board has an equitable and balanced gender representation.
+(6) The Minister in making an appointment under subsection (3), must ensure that the Board has an equitable and balanced gender representation.
 
 ### 65 Functions of the National Scholarship and Training Board
 
-- The National Scholarship and Training Board has the following functions:
+(1) The National Scholarship and Training Board has the following functions:
 
 (a) to implement policies that support the scholarship program; and
 
@@ -1770,9 +1918,9 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (i) to present to the Director General an annual report and any other reports required by the Director General relating to scholarships; and
 
-(j) whenever requested by the Minister or the Director  General, to provide information or advice to him or her on any matter affecting scholarships.
+(j) whenever requested by the Minister or the Director General, to provide information or advice to him or her on any matter affecting scholarships.
 
-- For the purpose of this section:
+(2) For the purpose of this section:
 
 scholarships program means the provision of Government funded scholarships for post secondary education and training associated administrative arrangements aimed at developing appropriately qualified and skilled citizen;
 
@@ -1780,15 +1928,15 @@ Scholarship Unit means the Training and Scholarships Coordination Unit or such o
 
 ### 66 Seeking to influence decisions
 
-- A person including the Minister, other members of Parliament, political advisors and those holding positions of authority in political parties must not seek to influence the Board in relation to decisions under this Act either directly or through another person.
+(1) A person including the Minister, other members of Parliament, political advisors and those holding positions of authority in political parties must not seek to influence the Board in relation to decisions under this Act either directly or through another person.
 
-- A person referred to in subsection (1) who fails to comply with subsection (1) commits and offence and is liable on conviction to a fine not exceeding VT 1,000,000.
+(2) A person referred to in subsection (1) who fails to comply with subsection (1) commits and offence and is liable on conviction to a fine not exceeding VT 1,000,000.
 
 ### 67 Appeals
 
-- A person directly affected by the decision of the Board may appeal to the General Appeal Board.
+(1) A person directly affected by the decision of the Board may appeal to the General Appeal Board.
 
-- An appeal under this section can only be based on one or more of the following grounds:
+(2) An appeal under this section can only be based on one or more of the following grounds:
 
 (a) a lack of procedural fairness; or
 
@@ -1808,31 +1956,31 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- An application for appeal must be made in writing and must be received by the General Appeal Board within 28 days from which the decision being appealed against was made.
+(3) An application for appeal must be made in writing and must be received by the General Appeal Board within 28 days from which the decision being appealed against was made.
 
-- The General Appeal Board may accept a late appeal where there are circumstances such as delay due to the person concerned being in an isolated location.
+(4) The General Appeal Board may accept a late appeal where there are circumstances such as delay due to the person concerned being in an isolated location.
 
-- The General Appeal Board must promptly review the decision being appealed against.
+(5) The General Appeal Board must promptly review the decision being appealed against.
 
-- The General Appeal Board must determine an appeal under this section within 1 month from receiving an application under subsection (3) and must advise the person who lodged the appeal of the outcome and the reasons for the decision in writing.
+(6) The General Appeal Board must determine an appeal under this section within 1 month from receiving an application under subsection (3) and must advise the person who lodged the appeal of the outcome and the reasons for the decision in writing.
 
 ### 68 Establishment of the Secretariat of the National Scholarship and Training Board
 
-- The Training and Scholarships Coordination Unit is the Secretariat to the National Scholarship and Training Board.
+(1) The Training and Scholarships Coordination Unit is the Secretariat to the National Scholarship and Training Board.
 
-- The Secretariat of the National Scholarship and Training Board must assist in managing the carrying out of the functions and implementation of the decisions of the National Scholarship and Training Board.
+(2) The Secretariat of the National Scholarship and Training Board must assist in managing the carrying out of the functions and implementation of the decisions of the National Scholarship and Training Board.
 
-- The Secretariat consists of the secretary who is to be the Principal Scholarship Officer and employees who are to be appointed by the Public Service Commission.
+(3) The Secretariat consists of the secretary who is to be the Principal Scholarship Officer and employees who are to be appointed by the Public Service Commission.
 
-- A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
+(4) A person who was employed as a staff of the Secretariat immediately before the commencement of this Act is to continue to be employed at the Secretariat in the same position with the same terms and conditions of employment and accrued entitlements as if the person had been appointed under this Act.
 
-- The secretary must establish, maintain and manage a Secretariat to provide for the efficient and professional administrative services to the Board.
+(5) The secretary must establish, maintain and manage a Secretariat to provide for the efficient and professional administrative services to the Board.
 
 ## Division 4 Provincial Education Boards
 
 ### 69 Establishment and membership of the Provincial Education Boards
 
-- A Provincial Education Board is established for each Province and Municipality within that Province.
+(1) A Provincial Education Board is established for each Province and Municipality within that Province.
 
 Education Act No. 9 of 2014
 
@@ -1844,21 +1992,21 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- The following persons are members of the Board:
+(2) The following persons are members of the Board:
 
 (a) a representative of the Provincial Government Council; and
 
 (b) the Provincial Education Officer.
 
-- In addition to subsection (2), the Minister is to appoint 4 other members of the Board on the advice of the Director General.
+(3) In addition to subsection (2), the Minister is to appoint 4 other members of the Board on the advice of the Director General.
 
-- A person is not qualified to be appointed as a member of the Provincial Education Board if he or she is:
+(4) A person is not qualified to be appointed as a member of the Provincial Education Board if he or she is:
 
 (a) a member of Parliament; or
 
 (b) exercises any position of responsibility in a political party.
 
-- In making an appointment under subsection (3), the Minister must ensure that the Board has:
+(5) In making an appointment under subsection (3), the Minister must ensure that the Board has:
 
 (a) a fair representation of:
 
@@ -1868,11 +2016,11 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 (b) an equitable and balanced gender representation.
 
-- For the purpose of this section, municipality means a municipality established under the Municipalities Act [CAP 126].
+(6) For the purpose of this section, municipality means a municipality established under the Municipalities Act [CAP 126].
 
 ### 70 Functions of the Provincial Education Boards
 
-- Each Provincial Education Board has the following functions:
+(1) Each Provincial Education Board has the following functions:
 
 (a) to operate and manage the government schools in the Province; and
 
@@ -1900,25 +2048,25 @@ PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT B
 
 ### 71 Secretary and Accounts of Provincial Education Boards
 
-- The Provincial Education Officer is the secretary of the Board.
+(1) The Provincial Education Officer is the secretary of the Board.
 
-- The secretary has the following functions:
+(2) The secretary has the following functions:
 
 (a) to ensure that all decisions of the Board are being implemented; and
 
 (b) to report activities of the Board to the Director General through quarterly and annual reports.
 
-- A Provincial Education Board must:
+(3) A Provincial Education Board must:
 
 (a) keep proper accounting records in relation to its financial affairs (including receipt and expenditure of government grants under section 40); and
 
 (b) prepare annual statements of account for each financial year.
 
-- A Provincial Education Board's accounts for each financial year must be audited within 6 months after the end of that financial year by the AuditorGeneral.
+(4) A Provincial Education Board's accounts for each financial year must be audited within 6 months after the end of that financial year by the Auditor-General.
 
 ### 72 Reports
 
-- A Provincial Education Board must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of its schools and kindergartens for that year.
+(1) A Provincial Education Board must, within 2 months after the end of each year, provide the Director General with a report relating to the administration of its schools and kindergartens for that year.
 
 Education Act No. 9 of 2014
 
@@ -1930,23 +2078,23 @@ Education Act No. 9 of 2014
 
 PART 7 NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL CURRICULUM AND ASSESSMENT BOARD, NATIONAL SCHOLARSHIP AND TRAINING BOARD AND PROVINCIAL EDUCATION BOARDS
 
-- The Provincial Education Board must provide the Director General with any additional information he or she requires about a matter contained in a report.
+(2) The Provincial Education Board must provide the Director General with any additional information he or she requires about a matter contained in a report.
 
-- A Provincial Education Officer must advise the Director General of all major activities of his or her Provincial Education Board in regular quarterly reports.
+(3) A Provincial Education Officer must advise the Director General of all major activities of his or her Provincial Education Board in regular quarterly reports.
 
-- The Director General may determine the form and content of the reports referred to in subsection (1) and (3).
+(4) The Director General may determine the form and content of the reports referred to in subsection (1) and (3).
 
-### 73 Government schools - transitional arrangements
+### 73 Government schools – transitional arrangements
 
-- On and after the commencement of this Act, each of the Provincial Education Boards listed in the table in the Schedule is responsible for the operation of the government schools listed in that table, and each of those schools is taken to be registered.
+(1) On and after the commencement of this Act, each of the Provincial Education Boards listed in the table in the Schedule is responsible for the operation of the government schools listed in that table, and each of those schools is taken to be registered.
 
-- The Director General must, as soon as practicable after commencement of this Act:
+(2) The Director General must, as soon as practicable after commencement of this Act:
 
 (a) enter in the Register, each school listed in the Schedule ; and
 
 (b) issue each school with a certificate of registration.
 
-- The Minister may by Order amend the Schedule if the Minister is satisfied that the amendment is necessary to correct a mistake.
+(3) The Minister may by Order amend the Schedule if the Minister is satisfied that the amendment is necessary to correct a mistake.
 
 ## Division 5 Administrative provisions
 
@@ -1968,9 +2116,9 @@ PART 8 MISCELLANEOUS
 
 ### 75 School Registration Appeal Board
 
-- The School Registration Appeal Board is established.
+(1) The School Registration Appeal Board is established.
 
-- The Board consists of the following members who are to be appointed by the Minister:
+(2) The Board consists of the following members who are to be appointed by the Minister:
 
 (a) a representative of the Department of Education; and
 
@@ -1982,11 +2130,11 @@ PART 8 MISCELLANEOUS
 
 (e) a representative of the Vanuatu Law Commission.
 
-- The Minister is to appoint from amongst the members of the Board, the Chairperson of the Board. To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
+(3) The Minister is to appoint from amongst the members of the Board, the Chairperson of the Board. To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
 
-- A member of the Board is to hold office for a period of 3 years and is eligible for re-appointment.
+(4) A member of the Board is to hold office for a period of 3 years and is eligible for re-appointment.
 
-- A person is not qualified to be appointed as a member of the Board if he or she is:
+(5) A person is not qualified to be appointed as a member of the Board if he or she is:
 
 (a) a member of Parliament; or
 
@@ -1996,9 +2144,9 @@ PART 8 MISCELLANEOUS
 
 (d) a member of a Provincial Government Council or Municipal Council.
 
-- The Board may regulate its own procedures.
+(6) The Board may regulate its own procedures.
 
-- The Board has the following functions:
+(7) The Board has the following functions:
 
 Education Act No. 9 of 2014
 
@@ -2020,15 +2168,15 @@ PART 8 MISCELLANEOUS
 
 (e) to develop and implement the School Registration Appeal policies, guidelines, procedures, processes and systems; and
 
-(f) to monitor and report to the Minister and Director General on the implementation of  the School Registration Appeal policies, guidelines, procedures, processes and systems.
+(f) to monitor and report to the Minister and Director General on the implementation of the School Registration Appeal policies, guidelines, procedures, processes and systems.
 
-- The Chairperson or a member of the Board must declare his or her conflict of interest on any matter being appealed to the Board and must not take part in any discussions or decisions to be made on such matter.
+(8) The Chairperson or a member of the Board must declare his or her conflict of interest on any matter being appealed to the Board and must not take part in any discussions or decisions to be made on such matter.
 
 ### 76 General Appeal Board
 
-- The General Appeal Board is established.
+(1) The General Appeal Board is established.
 
-- The General Appeal Board consists of the following persons:
+(2) The General Appeal Board consists of the following persons:
 
 (a) a nominee of the National Education Advisory Council; and
 
@@ -2040,7 +2188,7 @@ PART 8 MISCELLANEOUS
 
 (e) a nominee of the Vanuatu Education Policy Advocacy Coalition.
 
-- The secretary of the National Education Advisory Council is the secretary of the Board.
+(3) The secretary of the National Education Advisory Council is the secretary of the Board.
 
 Education Act No. 9 of 2014
 
@@ -2052,13 +2200,13 @@ Education Act No. 9 of 2014
 
 PART 8 MISCELLANEOUS
 
-- The Minister is to appoint from amongst the members of the Board, the Chairperson of the Board. To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
+(4) The Minister is to appoint from amongst the members of the Board, the Chairperson of the Board. To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
 
-- A member of the Board is to hold office for a period of 3 years and is eligible for re-appointment.
+(5) A member of the Board is to hold office for a period of 3 years and is eligible for re-appointment.
 
-- To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
+(6) To be eligible for appointment as the Chairperson, a person must have a legal or educational background.
 
-- A person is not qualified to be appointed as a member of the Board if he or she is:
+(7) A person is not qualified to be appointed as a member of the Board if he or she is:
 
 (a) a member of Parliament; or
 
@@ -2068,19 +2216,19 @@ PART 8 MISCELLANEOUS
 
 (d) a member of a Provincial Government Council or Municipal Council.
 
-- The Board has the following functions:
+(8) The Board has the following functions:
 
 (a) to consider appeals being made to it relating to decisions being made under sections 28, 29 and 32 and paragraph 65(1)(h); and
 
 (b) to develop and implement the Appeal policies, guidelines, procedures, processes and systems for appeals that are being made to it; and
 
-(c) to monitor and report to the Minister and Director General on the implementation of  the Appeal policies, guidelines, procedures, processes and systems for appeals being made to it.
+(c) to monitor and report to the Minister and Director General on the implementation of the Appeal policies, guidelines, procedures, processes and systems for appeals being made to it.
 
-- The Chairperson or a member of the Board must declare his or her conflict of interest on any matter being appealed to the Board and must not take part in any discussions or decisions to be made on such matter.
+(9) The Chairperson or a member of the Board must declare his or her conflict of interest on any matter being appealed to the Board and must not take part in any discussions or decisions to be made on such matter.
 
 ### 77 Provisions in relation to proceedings of an Appeal Board
 
-- This section applies to proceedings of the School Registration Appeal Board and the General Appeal Board.
+(1) This section applies to proceedings of the School Registration Appeal Board and the General Appeal Board.
 
 Education Act No. 9 of 2014
 
@@ -2092,13 +2240,13 @@ Education Act No. 9 of 2014
 
 PART 8 MISCELLANEOUS
 
-- A Board may summon a person before it to give evidence and to produce documents.
+(2) A Board may summon a person before it to give evidence and to produce documents.
 
-- A Board may require a person giving evidence before it to take an oath or affirmation that he or she will tell the truth and may administer that oath or affirmation.
+(3) A Board may require a person giving evidence before it to take an oath or affirmation that he or she will tell the truth and may administer that oath or affirmation.
 
-- A summons to a witness under this section may be served personally or by sending it by prepaid post to the last known address of the person concerned.
+(4) A summons to a witness under this section may be served personally or by sending it by prepaid post to the last known address of the person concerned.
 
-- A person being summoned to attend a hearing of an Appeal Board as a witness, must not without reasonable excuse:
+(5) A person being summoned to attend a hearing of an Appeal Board as a witness, must not without reasonable excuse:
 
 (a) refuses or fails to attend; or
 
@@ -2108,19 +2256,19 @@ PART 8 MISCELLANEOUS
 
 (d) refuses to answer a question the Board determines must be answered unless the person reasonably believes the answer to the question will incriminate him or her.
 
-- A person who commits any of the acts in subsection (5) is guilty of an offence punishable on conviction by a fine not exceeding VT250,000.
+(6) A person who commits any of the acts in subsection (5) is guilty of an offence punishable on conviction by a fine not exceeding VT250,000.
 
-- The hearing of an appeal before a Board is open to the public unless the Board determines that the appeal be heard in private.
+(7) The hearing of an appeal before a Board is open to the public unless the Board determines that the appeal be heard in private.
 
-- The Board may give directions prohibiting or restricting the publication or other disclosure of evidence given or tendered before the Board.
+(8) The Board may give directions prohibiting or restricting the publication or other disclosure of evidence given or tendered before the Board.
 
-- A Board may confirm, vary or set aside a determination or decision being appealed against and may refer the matter back to the relevant authority to reconsider in relation to the Board's opinion and directions.
+(9) A Board may confirm, vary or set aside a determination or decision being appealed against and may refer the matter back to the relevant authority to reconsider in relation to the Board's opinion and directions.
 
-- The decision of an Appeal Board is final.
+(10) The decision of an Appeal Board is final.
 
 ### 78 Representation at Appeal Board Hearings
 
-- A party to an appeal under section 75 or 76 may be represented by a lawyer.
+(1) A party to an appeal under section 75 or 76 may be represented by a lawyer.
 
 Education Act No. 9 of 2014
 
@@ -2132,15 +2280,15 @@ Education Act No. 9 of 2014
 
 PART 8 MISCELLANEOUS
 
-- A person may be represented by a person who is not a lawyer, with the prior written approval of the relevant Appeal Board.
+(2) A person may be represented by a person who is not a lawyer, with the prior written approval of the relevant Appeal Board.
 
 ### 79 Attempt to influence Board
 
-- A person must not attempt to unduly influence a Board, any person appointed to the Board in relation to any educational administrative matters or such other matter.
+(1) A person must not attempt to unduly influence a Board, any person appointed to the Board in relation to any educational administrative matters or such other matter.
 
-- A person who contravenes this section is guilty of an offence punishable on conviction by a fine not exceeding VT500,000 or a term of imprisonment not exceeding one year or both.
+(2) A person who contravenes this section is guilty of an offence punishable on conviction by a fine not exceeding VT500,000 or a term of imprisonment not exceeding one year or both.
 
-- This section does not prohibit a person from:
+(3) This section does not prohibit a person from:
 
 (a) making submissions or representations in any educational administrative matters at the request or invitation of an Appeal Board; or
 
@@ -2148,9 +2296,9 @@ PART 8 MISCELLANEOUS
 
 ### 80 Delegation of functions and powers
 
-- The Director General, a Director and a Provincial Education Officer may, by instrument in writing, delegate all or any of his or her functions and powers under this Act to another officer within the Ministry with appropriate qualifications and expertise, except this power of delegation.
+(1) The Director General, a Director and a Provincial Education Officer may, by instrument in writing, delegate all or any of his or her functions and powers under this Act to another officer within the Ministry with appropriate qualifications and expertise, except this power of delegation.
 
-- The delegation:
+(2) The delegation:
 
 (a) may be made either generally or as otherwise provided by the instrument of delegation; and
 
@@ -2158,7 +2306,7 @@ PART 8 MISCELLANEOUS
 
 ### 81 Regulations
 
-- The Minister may, by Order, make Regulations prescribing all matters:
+(1) The Minister may, by Order, make Regulations prescribing all matters:
 
 (a) required or permitted by this Act to be prescribed; or
 
@@ -2174,13 +2322,13 @@ Education Act No. 9 of 2014
 
 PART 8 MISCELLANEOUS
 
-- The Regulations may prescribe penalties for offences against the Regulations. A penalty prescribed must not exceed VT 50,000.
+(2) The Regulations may prescribe penalties for offences against the Regulations. A penalty prescribed must not exceed VT 50,000.
 
 ### 82 Repeal of the Education Act and savings provision
 
-- Subject to subsection (2), the Education Act [CAP 272] is repealed.
+(1) Subject to subsection (2), the Education Act [CAP 272] is repealed.
 
-- Unless inconsistent with this Act, any Regulations, Orders and Notices made or given under the Education Act [CAP 272], remain in force as if they were made or given under this Act.
+(2) Unless inconsistent with this Act, any Regulations, Orders and Notices made or given under the Education Act [CAP 272], remain in force as if they were made or given under this Act.
 
 ### 83 Commencement
 
@@ -2196,7 +2344,13 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-Government of Vanuatu Ministry of Education
+# SCHEDULE
+
+(Section 73)
+
+Government of Vanuatu
+
+Ministry of Education
 
 ## GOVERNMENT SCHOOLS  ADMINISTERED BY  TORBA PROVINCIAL EDUCATION BOARD
 
@@ -2229,10 +2383,6 @@ Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administrati
 --- | --- | --- | --- | --- | --- | --- | ---
 R 010119 | 010119 | Vaget | 01 | TORBA | Gaua | TORBA PEB | E
 
-# SCHEDULE
-
-(Section 73)
-
 Education Act No. 9 of 2014
 
 59
@@ -2264,7 +2414,11 @@ R 010490 | 010490 | Arep | 01 | TORBA | Vanua Lava | TORBA PEB | E
 
 Government of Vanuatu
 
+Ministry of Education
+
 ## GOVERNMENT SCHOOLS  ADMINISTERED BY  SANMA PROVINCIAL EDUCATION BOARD
+
+### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2278,10 +2432,6 @@ R022114 | 022114 | Jinaure | 02 | SANMA | Malo | SANMA PEB | E
 R022120 | 022120 | Kitacu | 02 | SANMA | Malo | SANMA PEB | E
 R0221500 | 0221500 | Najaraiwelu | 02 | SANMA | Malo | SANMA PEB | F
 R022138 | 022138 | Nandiutu | 02 | SANMA | Malo | SANMA PEB | F
-
-### Type: Primary Schools: Registered to Offer (Years 1 - 6)
-
-Ministry of Education
 
 Education Act No. 9 of 2014
 
@@ -2398,14 +2548,15 @@ R0222303 | 0222303 | Matevulu College | 02 | SANMA | Santo | SANMA PEB | E
 
 Government of Vanuatu
 
+Ministry of Education
+
 ## GOVERNMENT SCHOOLS  ADMINISTERED BY  PENAMA PROVINCIAL EDUCATION BOARD
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R023629 | 023629 | Ala Memorial (Makenzie) | 03 | PENAMA | PENAMA PEB
-Ambae | E
+R023629 | 023629 | Ala Memorial (Makenzie) | 03 | PENAMA | Ambae | PENAMA PEB | E
 R032604 | 032604 | Ambaebulu | 03 | PENAMA | Ambae | PENAMA PEB | E
 R032605 | 032605 | Ambaebulu | 03 | PENAMA | Ambae | PENAMA PEB | F
 R032607 | 032607 | Autabulu | 03 | PENAMA | Ambae | PENAMA PEB | E
@@ -2423,8 +2574,6 @@ R032647 | 032647 | Reynold Memorial (Nagole) | 03 | PENAMA | Ambae | PENAMA PEB 
 R032649 | 032649 | Sarabulu | 03 | PENAMA | Ambae | PENAMA PEB | F
 
 Education Act No. 9 of 2014
-
-Ministry of Education
 
 63
 
@@ -2633,7 +2782,11 @@ R0329306 | 0329306 | Rensarie | 04 | MALAMPA | Malekula | MALAMPA PEB | E
 
 Government of Vanuatu
 
+Ministry of Education
+
 ## GOVERNMENT SCHOOLS  ADMINISTERED BY  SHEFA PROVINCIAL   EDUCATION BOARD
+
+### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2644,10 +2797,6 @@ R055412 | 055412 | Ekonak | 05 | SHEFA | Efate | SHEFA PEB | E
 R055415 | 055415 | Erakor | 05 | SHEFA | Efate | SHEFA PEB | F
 R0554379 | 0554379 | Esnnar | 06 | SHEFA | Efate | SHEFA PEB | F
 R0554377 | 0554377 | Green Hill | 05 | SHEFA | Efate | SHEFA PEB | E
-
-### Type: Primary Schools: Registered to Offer (Years 1 - 6)
-
-Ministry of Education
 
 Education Act No. 9 of 2014
 
@@ -2774,7 +2923,11 @@ R0502100 | 0502100 | Central | 05 | SHEFA | Efate | SHEFA PEB | E
 
 Government of Vanuatu
 
+Ministry of Education
+
 ## GOVERNMENT SCHOOLS  ADMINISTERED BY  TAFEA PROVINCIAL EDUCATION BOARD
+
+### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -2788,11 +2941,7 @@ R066379 | 066379 | Tapisi | 06 | TAFEA | Erromango | TAFEA PEB | E
 R066382 | 066382 | Umponielogi | 06 | TAFEA | Erromango | TAFEA PEB | E
 R066529 | 066529 | Ishia | 06 | TAFEA | Futuna | TAFEA PEB | E
 
-### Type: Primary Schools: Registered to Offer (Years 1 - 6)
-
 Education Act No. 9 of 2014
-
-Ministry of Education
 
 71
 
@@ -2833,7 +2982,7 @@ R066456 | 066456 | Lounabil | 06 | TAFEA | Tanna | TAFEA PEB | E
 R066457 | 066457 | Lounahunu | 06 | TAFEA | Tanna | TAFEA PEB | E
 R066458 | 066458 | Lounapayou | 06 | TAFEA | Tanna | TAFEA PEB | F
 R066459 | 066459 | Lounapkiko | 06 | TAFEA | Tanna | TAFEA PEB | E
-R066460 | 066490 | Lounialou (Kapalpal Christadelphi ans) | 06 | TAFEA | Tanna | TAFEA PEB | E
+R066460 | 066490 | Lounialou (Kapalpal Christadelphians) | 06 | TAFEA | Tanna | TAFEA PEB | E
 R066461 | 066461 | Lousula | 06 | TAFEA | Tanna | TAFEA PEB | E
 R066464 | 066464 | Lowieru | 06 | TAFEA | Tanna | TAFEA PEB | F
 R066465 | 066465 | Manuapen | 06 | TAFEA | Tanna | TAFEA PEB | F
@@ -2898,8 +3047,6 @@ SCHEDULE
 
 (Lounakarian)
 
-(Lounakarian)
-
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
@@ -2908,23 +3055,23 @@ R0664308 | 0664308 | TAFEA | 06 | TAFEA | Tanna | TAFEA PEB | E
 
 Government of Vanuatu
 
+Ministry of Education
+
 ## SCHOOLS  ADMINISTERED BY APOSTOLIC CHURCH VANUATU EDUCATION AUTHORITY
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222326 | 0222326 | Tavumae | 02 | SAN MA | Santo | ACV EA | E
-R022287 | 022287 | Tovotovo | 02 | SAN MA | Santo | ACV EA | E
-R032659 | 032659 | Nataluhangele | 03 | PEN AMA | Ambae | ACV EA | E
+R0222326 | 0222326 | Tavumae | 02 | SANMA | Santo | ACV EA | E
+R022287 | 022287 | Tovotovo | 02 | SANMA | Santo | ACV EA | E
+R032659 | 032659 | Nataluhangele | 03 | PENAMA | Ambae | ACV EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R032635 | 032635 | Apostolic College | 03 | PEN AMA | Ambae | ACV EA | E
-
-Ministry of Education
+R032635 | 032635 | Apostolic College | 03 | PENAMA | Ambae | ACV EA | E
 
 Education Act No. 9 of 2014
 
@@ -2942,26 +3089,26 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R022225 | 022225 | Lorovuilko | 02 | SAN MA | Santo | ACOM EA | E
-R022281 | 022281 | Sakau | 02 | SAN MA | Santo | ACOM EA | E
-R022271 | 022271 | St Banabas (Turtle Bay) | 02 | SAN MA | Santo | ACOM EA | E
-R022242 | 022242 | St Paul | 02 | SAN MA | Santo | ACOM EA | E
-R0222474 | 0222474 | Vusvongo | 02 | SAN MA | Santo | ACOM EA | E
+R022225 | 022225 | Lorovuilko | 02 | SANMA | Santo | ACOM EA | E
+R022281 | 022281 | Sakau | 02 | SANMA | Santo | ACOM EA | E
+R022271 | 022271 | St Banabas (Turtle Bay) | 02 | SANMA | Santo | ACOM EA | E
+R022242 | 022242 | St Paul | 02 | SANMA | Santo | ACOM EA | E
+R0222474 | 0222474 | Vusvongo | 02 | SANMA | Santo | ACOM EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0101097 | 0101097 | Losalava | 01 | TOR BA | Gaua | ACOM EA | E
-R0222513 | 0222513 | Navele | 02 | SAN MA | Santo | ACOM EA | E
+R0101097 | 0101097 | Losalava | 01 | TORBA | Gaua | ACOM EA | E
+R0222513 | 0222513 | Navele | 02 | SANMA | Santo | ACOM EA | E
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0426303 | 0426303 | St. Patrick's College | 03 | PEN AMA | Ambae | ACOM EA | E
+R0426303 | 0426303 | St. Patrick's College | 03 | PENAMA | Ambae | ACOM EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -2979,17 +3126,17 @@ SCHEDULE
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R020109 | 020109 | Santo Christian | 02 | SAN MA | Santo | AOG EA | E
-R042925 | 042925 | Jehovah Nissi | 04 | MAL AMP A | Malekula | AOG EA | E
+R020109 | 020109 | Santo Christian | 02 | SANMA | Santo | AOG EA | E
+R042925 | 042925 | Jehovah Nissi | 04 | MALAMPA | Malekula | AOG EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222310 | 0222310 | Santo Christian | 02 | SAN MA | Santo | AOG EA | E
-R0329300 | 0329300 | Jehovah Nissi | 04 | MAL AMP A | Malekula | AOG EA | E
+R0222310 | 0222310 | Santo Christian | 02 | SANMA | Santo | AOG EA | E
+R0329300 | 0329300 | Jehovah Nissi | 04 | MALAMPA | Malekula | AOG EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -2997,15 +3144,15 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 020108 | 020108 | Rowhani | 02 | SAN MA | Santo | Ba'hai EA | E
+R 020108 | 020108 | Rowhani | 02 | SANMA | Santo | Ba'hai EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222309 | 0222309 | Rowhani | 02 | SAN MA | Santo | Ba'hai EA | E
+R0222309 | 0222309 | Rowhani | 02 | SANMA | Santo | Ba'hai EA | E
 
 Education Act No. 9 of 2014
 
@@ -3017,33 +3164,31 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-Government of Vanuatu
+Government of Vanuatu Ministry of Education
 
 ## SCHOOLS  ADMINISTERED BY CATHOLIC EDUCATION AUTHORITY
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
---- | --- | --- | --- | --- | --- | --- | ---
-R 022213 | 022213 | Fanafo | 02 | SAN MA | Santo | Catholic EA | F
-R022270 | 022270 | Notre Dame de Lourdes (Tolomako) | 02 | SAN MA | Santo | Catholic EA | F
-R 022250 | 022250 | St. Joseph (Pesena) | 02 | SAN MA | Santo | Catholic EA | F
-R 022257 | 022257 | St. Joseph (Rowok) | 02 | SAN MA | Santo | Catholic EA | F
-R 020104 | 020104 | St. Michel | 02 | SAN MA | Santo | Catholic EA | F
-R022248 | 022248 | St. Pierre (Okoro) | 02 | SAN MA | Santo | Catholic EA | F
-R 022253 | 022253 | Ste. Anne (Port Olry) | 02 | SAN MA | Santo | Catholic EA | F
-R 022244 | 022244 | Vusiroro | 02 | SAN MA | Santo | Catholic EA | F
-R032624 | 032624 | Lolopuepue | 03 | PEN AMA | Ambae | Catholic EA | F
-R032627 | 032627 | Loone | 03 | PEN AMA | Ambae | Catholic EA | E
-R032633 | 032633 | St.Jean-Baptiste (Nangire) | 03 | PEN AMA | Ambae | Catholic EA | F
-R032808 | 032808 | Baie-Barrier | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032819 | 032819 | Lalzadette | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032822 | 032822 | Latano (Loltong) | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032826 | 032826 | Londar (Baie-Martelli) | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032830 | 032830 | Melsisi | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032832 | 032832 | Namaram | 03 | PEN | Pentecost | Catholic EA | F
-
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Ministry of Education
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
+--- | --- | --- | --- | --- | --- | --- | ---
+R 022213 | 022213 | Fanafo | 02 | SANMA | Santo | Catholic EA | F
+R022270 | 022270 | Notre Dame de Lourdes (Tolomako) | 02 | SANMA | Santo | Catholic EA | F
+R 022250 | 022250 | St. Joseph (Pesena) | 02 | SANMA | Santo | Catholic EA | F
+R 022257 | 022257 | St. Joseph (Rowok) | 02 | SANMA | Santo | Catholic EA | F
+R 020104 | 020104 | St. Michel | 02 | SANMA | Santo | Catholic EA | F
+R022248 | 022248 | St. Pierre (Okoro) | 02 | SANMA | Santo | Catholic EA | F
+R 022253 | 022253 | Ste. Anne (Port Olry) | 02 | SANMA | Santo | Catholic EA | F
+R 022244 | 022244 | Vusiroro | 02 | SANMA | Santo | Catholic EA | F
+R032624 | 032624 | Lolopuepue | 03 | PENAMA | Ambae | Catholic EA | F
+R032627 | 032627 | Loone | 03 | PENAMA | Ambae | Catholic EA | E
+R032633 | 032633 | St.Jean-Baptiste (Nangire) | 03 | PENAMA | Ambae | Catholic EA | F
+R032808 | 032808 | Baie-Barrier | 03 | PENAMA | Pentecost | Catholic EA | F
+R032819 | 032819 | Lalzadette | 03 | PENAMA | Pentecost | Catholic EA | F
+R032822 | 032822 | Latano (Loltong) | 03 | PENAMA | Pentecost | Catholic EA | F
+R032826 | 032826 | Londar (Baie-Martelli) | 03 | PENAMA | Pentecost | Catholic EA | F
+R032830 | 032830 | Melsisi | 03 | PENAMA | Pentecost | Catholic EA | F
+R032832 | 032832 | Namaram | 03 | PEN | Pentecost | Catholic EA | F
 
 Education Act No. 9 of 2014
 
@@ -3057,24 +3202,24 @@ SCHEDULE
 
 AMA
 --- | --- | --- | --- | --- | --- | --- | ---
-R032844 | 032844 | Rangsuksuk | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032848 | 032848 | St Henri (Lonfis) | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032855 | 032855 | Tsimbwege | 03 | PEN AMA | Pentecost | Catholic EA | F
-R032856 | 032856 | Ubiku | 03 | PEN AMA | Pentecost | Catholic EA | F
-R044316 | 044316 | Craig Cove | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R044357 | 044357 | Olal | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R044359 | 044359 | Paamal | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R044370 | 044370 | Sessivi | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R044376 | 044376 | Tobol | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R043101 | 043101 | St. Louis (Atchin) | 04 | MAL AMP A | Atchin | Catholic EA | F
-R042919 | 042919 | Dixon | 04 | MAL AMP A | Malekula | Catholic EA | F
-R042985 | 042985 | Notre Dame de Walarano | 04 | MAL AMP A | Malekula | Catholic EA | F
-R042960 | 042960 | Pikayer | 04 | MAL AMP A | Malekula | Catholic EA | F
-R042930 | 042930 | St. Pierre Chanel (Lamap) | 04 | MAL AMP A | Malekula | Catholic EA | F
-R042944 | 042944 | Ste Therese de Mae | 04 | MAL AMP A | Malekula | Catholic EA | F
-R042978 | 042978 | Unmet | 04 | MAL AMP A | Malekula | Catholic EA | F
-R043081 | 043081 | Vao Ilot | 04 | MAL AMP A | Vao | Catholic EA | F
-R0554320 | 0554320 | St Jean-Maries Vianey (Lonest) | 05 | SHE FA | Efate | Catholic EA | F
+R032844 | 032844 | Rangsuksuk | 03 | PENAMA | Pentecost | Catholic EA | F
+R032848 | 032848 | St Henri (Lonfis) | 03 | PENAMA | Pentecost | Catholic EA | F
+R032855 | 032855 | Tsimbwege | 03 | PENAMA | Pentecost | Catholic EA | F
+R032856 | 032856 | Ubiku | 03 | PENAMA | Pentecost | Catholic EA | F
+R044316 | 044316 | Craig Cove | 04 | MALAMPA | Ambrym | Catholic EA | F
+R044357 | 044357 | Olal | 04 | MALAMPA | Ambrym | Catholic EA | F
+R044359 | 044359 | Paamal | 04 | MALAMPA | Ambrym | Catholic EA | F
+R044370 | 044370 | Sessivi | 04 | MALAMPA | Ambrym | Catholic EA | F
+R044376 | 044376 | Tobol | 04 | MALAMPA | Ambrym | Catholic EA | F
+R043101 | 043101 | St. Louis (Atchin) | 04 | MALAMPA | Atchin | Catholic EA | F
+R042919 | 042919 | Dixon | 04 | MALAMPA | Malekula | Catholic EA | F
+R042985 | 042985 | Notre Dame de Walarano | 04 | MALAMPA | Malekula | Catholic EA | F
+R042960 | 042960 | Pikayer | 04 | MALAMPA | Malekula | Catholic EA | F
+R042930 | 042930 | St. Pierre Chanel (Lamap) | 04 | MALAMPA | Malekula | Catholic EA | F
+R042944 | 042944 | Ste Therese de Mae | 04 | MALAMPA | Malekula | Catholic EA | F
+R042978 | 042978 | Unmet | 04 | MALAMPA | Malekula | Catholic EA | F
+R043081 | 043081 | Vao Ilot | 04 | MALAMPA | Vao | Catholic EA | F
+R0554320 | 0554320 | St Jean-Maries Vianey (Lonest) | 05 | SHEFA | Efate | Catholic EA | F
 
 Education Act No. 9 of 2014
 
@@ -3086,34 +3231,34 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R055426 | 055426 | St. Joseph (Lagon II) | 05 | SHE FA | Efate | Catholic EA | F
+R055426 | 055426 | St. Joseph (Lagon II) | 05 | SHEFA | Efate | Catholic EA | F
 --- | --- | --- | --- | --- | --- | --- | ---
-R050214 | 050214 | Ste Jeanne d'Arc | 05 | SHE FA | Efate | Catholic EA | F
-R066781 | 066781 | Umej | 06 | TAF EA | Aneityum | Catholic EA | F
-R066410 | 066410 | Enkatalei | 06 | TAF EA | Tanna | Catholic EA | F
-R066417 | 066417 | Ikakahak | 06 | TAF EA | Tanna | Catholic EA | F
-R066418 | 066418 | Ikiti | 06 | TAF EA | Tanna | Catholic EA | F
-R066419 | 066419 | Imafen | 06 | TAF EA | Tanna | Catholic EA | F
-R066420 | 066420 | Imaki | 06 | TAF EA | Tanna | Catholic EA | F
-R066422 | 066422 | Imaru | 06 | TAF EA | Tanna | Catholic EA | F
-R066424 | 066424 | Ipekel | 06 | TAF EA | Tanna | Catholic EA | F
-R066431 | 066431 | Itaku | 06 | TAF EA | Tanna | Catholic EA | F
-R066441 | 066441 | Lamenaura | 06 | TAF EA | Tanna | Catholic EA | F
-R066448 | 066448 | Lautapunga | 06 | TAF EA | Tanna | Catholic EA | F
-R066453 | 066453 | Loono | 06 | TAF EA | Tanna | Catholic EA | F
-R066462 | 066462 | Lowanatom | 06 | TAF EA | Tanna | Catholic EA | F
-R066484 | 066484 | Yenavateing | 06 | TAF EA | Tanna | Catholic EA | F
+R050214 | 050214 | Ste Jeanne d'Arc | 05 | SHEFA | Efate | Catholic EA | F
+R066781 | 066781 | Umej | 06 | TAFEA | Aneityum | Catholic EA | F
+R066410 | 066410 | Enkatalei | 06 | TAFEA | Tanna | Catholic EA | F
+R066417 | 066417 | Ikakahak | 06 | TAFEA | Tanna | Catholic EA | F
+R066418 | 066418 | Ikiti | 06 | TAFEA | Tanna | Catholic EA | F
+R066419 | 066419 | Imafen | 06 | TAFEA | Tanna | Catholic EA | F
+R066420 | 066420 | Imaki | 06 | TAFEA | Tanna | Catholic EA | F
+R066422 | 066422 | Imaru | 06 | TAFEA | Tanna | Catholic EA | F
+R066424 | 066424 | Ipekel | 06 | TAFEA | Tanna | Catholic EA | F
+R066431 | 066431 | Itaku | 06 | TAFEA | Tanna | Catholic EA | F
+R066441 | 066441 | Lamenaura | 06 | TAFEA | Tanna | Catholic EA | F
+R066448 | 066448 | Lautapunga | 06 | TAFEA | Tanna | Catholic EA | F
+R066453 | 066453 | Loono | 06 | TAFEA | Tanna | Catholic EA | F
+R066462 | 066462 | Lowanatom | 06 | TAFEA | Tanna | Catholic EA | F
+R066484 | 066484 | Yenavateing | 06 | TAFEA | Tanna | Catholic EA | F
 
 ### Type: Primary School and Community Secondary School: Registered to Offer  (Years 1 - 8)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 020105 | 020105 | Ste. Therese | 02 | SAN MA | Santo | Catholic EA | F
-R066453 | 066453 | Lamlu | 06 | TAF EA | Tanna | Catholic EA | F
+R 020105 | 020105 | Ste. Therese | 02 | SANMA | Santo | Catholic EA | F
+R066453 | 066453 | Lamlu | 06 | TAFEA | Tanna | Catholic EA | F
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
 R0426304 | 0426304 | Tagaga | 03 | PEN | Ambae | Catholic EA | F
 
@@ -3129,33 +3274,33 @@ SCHEDULE
 
 AMA
 --- | --- | --- | --- | --- | --- | --- | ---
-R0343303 | 0343303 | Sessivi | 04 | MAL AMP A | Ambrym | Catholic EA | F
-R0429373 | 0429373 | Walarano | 04 | MAL AMP A | Malekula | Catholic EA | F
-R0329309 | 0329309 | Jean Vidil (Vao) | 04 | MAL AMP A | Malekula | Catholic EA | F
-R0329314 | 0329314 | Lamap | 04 | MAL AMP A | Malekula | Catholic EA | F
-R0429379 | 0429379 | Unmet | 04 | MAL AMP A | Malekula | Catholic EA | F
-R0554349 | 0554349 | College de Montmarte | 05 | SHE FA | Efate | Catholic EA | F
-R0664302 | 0664302 | Imaki | 06 | TAF EA | Tanna | Catholic EA | F
+R0343303 | 0343303 | Sessivi | 04 | MALAMPA | Ambrym | Catholic EA | F
+R0429373 | 0429373 | Walarano | 04 | MALAMPA | Malekula | Catholic EA | F
+R0329309 | 0329309 | Jean Vidil (Vao) | 04 | MALAMPA | Malekula | Catholic EA | F
+R0329314 | 0329314 | Lamap | 04 | MALAMPA | Malekula | Catholic EA | F
+R0429379 | 0429379 | Unmet | 04 | MALAMPA | Malekula | Catholic EA | F
+R0554349 | 0554349 | College de Montmarte | 05 | SHEFA | Efate | Catholic EA | F
+R0664302 | 0664302 | Imaki | 06 | TAFEA | Tanna | Catholic EA | F
 
 ### Type: Junior, Senior Secondary and Technical School
 
 Registered to Offer (Years 7 - 12 Junior and Senior Secondary and Years 11 -12 Technical)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222307 | 0222308 | St. Michel | 02 | SAN MA | Santo | Catholic EA | F
+R0222307 | 0222308 | St. Michel | 02 | SANMA | Santo | Catholic EA | F
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 12)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 0222324 | 0222324 | Ste Anne (Port Olry) | 02 | SAN MA | Santo | Catholic EA | F
-R0428307 | 0428307 | Melsisi | 03 | PEN AMA | Pentecost | Catholic EA | F
-R0429373 | 0429373 | Walarano | 04 | MAL AMP A | Malekula | Catholic EA | F
+R 0222324 | 0222324 | Ste Anne (Port Olry) | 02 | SANMA | Santo | Catholic EA | F
+R0428307 | 0428307 | Melsisi | 03 | PENAMA | Pentecost | Catholic EA | F
+R0429373 | 0429373 | Walarano | 04 | MALAMPA | Malekula | Catholic EA | F
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
 
 Education Act No. 9 of 2014
@@ -3168,9 +3313,9 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R0554300 | 0554300 | Lycée de Montmartre | 05 | SHE FA | Efate | Catholic EA | F
+R0554300 | 0554300 | Lycée de Montmartre | 05 | SHEFA | Efate | Catholic EA | F
 --- | --- | --- | --- | --- | --- | --- | ---
-R0664313 | 0664313 | Lowanotom | 06 | TAF EA | Tanna | Catholic EA | F
+R0664313 | 0664313 | Lowanotom | 06 | TAFEA | Tanna | Catholic EA | F
 
 Government of Vanuatu Ministry of Education
 
@@ -3178,15 +3323,15 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Junior Secondary School  and Technical School Registered to Offer (Years 7 - 10 Junior Secondary and Years 11 -12 Technical)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0426301 | 0426301 | Londua | 03 | PEN AMA | Ambae | COC EA | E
+R0426301 | 0426301 | Londua | 03 | PENAMA | Ambae | COC EA | E
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0428308 | 0428308 | Ranwadi High School | 03 | PEN AMA | Pentecost | COC EA | E
+R0428308 | 0428308 | Ranwadi High School | 03 | PENAMA | Pentecost | COC EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3194,13 +3339,13 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R022218 | 022218 | Ipayato | 02 | SAN MA | Santo | FELP EA | F
-R022227 | 022227 | Malores | 02 | SAN MA | Santo | FELP EA | F
-R022230 | 022230 | Marua | 02 | SAN MA | Santo | FELP EA | F
-R022236 | 022236 | Namoru | 02 | SAN MA | Santo | FELP EA | F
-R022254 | 022254 | Puama (Porema) | 02 | SAN MA | Santo | FELP EA | F
+R022218 | 022218 | Ipayato | 02 | SANMA | Santo | FELP EA | F
+R022227 | 022227 | Malores | 02 | SANMA | Santo | FELP EA | F
+R022230 | 022230 | Marua | 02 | SANMA | Santo | FELP EA | F
+R022236 | 022236 | Namoru | 02 | SANMA | Santo | FELP EA | F
+R022254 | 022254 | Puama (Porema) | 02 | SANMA | Santo | FELP EA | F
 
 Education Act No. 9 of 2014
 
@@ -3212,31 +3357,31 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R022265 | 022265 | Tasmalum | 02 | SAN MA | Santo | FELP EA | F
+R022265 | 022265 | Tasmalum | 02 | SANMA | Santo | FELP EA | F
 --- | --- | --- | --- | --- | --- | --- | ---
-R022267 | 022267 | Tcharanavusvus | 02 | SAN MA | Santo | FELP EA | F
-R022272 | 022272 | Valabei | 02 | SAN MA | Santo | FELP EA | F
-R022276 | 022276 | Vunakarikara | 02 | SAN MA | Santo | FELP EA | F
-R043115 | 043115 | Chenard | 04 | MAL AMP A | Atchin | FELP EA | F
-R042909 | 042909 | Benenaveth | 04 | MAL AMP A | Malekula | FELP EA | F
-R042952 | 042952 | Metune | 04 | MAL AMP A | Malekula | FELP EA | F
-R042958 | 042958 | Orap | 04 | MAL AMP A | Malekula | FELP EA | F
-R042963 | 042963 | Rambeck | 04 | MAL AMP A | Malekula | FELP EA | F
-R042986 | 042986 | Wiaru | 04 | MAL AMP A | Malekula | FELP EA | F
-R042989 | 042989 | Womul | 04 | MAL AMP A | Malekula | FELP EA | F
-R022273 | 022273 | Venie (Mataipevu) | 02 | SAN MA | Santo | FELP EA | E
+R022267 | 022267 | Tcharanavusvus | 02 | SANMA | Santo | FELP EA | F
+R022272 | 022272 | Valabei | 02 | SANMA | Santo | FELP EA | F
+R022276 | 022276 | Vunakarikara | 02 | SANMA | Santo | FELP EA | F
+R043115 | 043115 | Chenard | 04 | MALAMPA | Atchin | FELP EA | F
+R042909 | 042909 | Benenaveth | 04 | MALAMPA | Malekula | FELP EA | F
+R042952 | 042952 | Metune | 04 | MALAMPA | Malekula | FELP EA | F
+R042958 | 042958 | Orap | 04 | MALAMPA | Malekula | FELP EA | F
+R042963 | 042963 | Rambeck | 04 | MALAMPA | Malekula | FELP EA | F
+R042986 | 042986 | Wiaru | 04 | MALAMPA | Malekula | FELP EA | F
+R042989 | 042989 | Womul | 04 | MALAMPA | Malekula | FELP EA | F
+R022273 | 022273 | Venie (Mataipevu) | 02 | SANMA | Santo | FELP EA | E
 
 ### Type: Primary School and Community Secondary School: Registered to Offer  (Years 1 - 8)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R022232 | 022232 | Mataloi | 02 | SAN MA | Santo | FELP EA | F
+R022232 | 022232 | Mataloi | 02 | SANMA | Santo | FELP EA | F
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0329305 | 0329305 | Orap | 04 | MAL AMP A | Malekula | FELP EA | F
+R0329305 | 0329305 | Orap | 04 | MALAMPA | Malekula | FELP EA | F
 
 Education Act No. 9 of 2014
 
@@ -3250,27 +3395,25 @@ SCHEDULE
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222304 | 0222304 | Moli Valivu | 02 | SAN MA | Santo | FELP EA | F
+R0222304 | 0222304 | Moli Valivu | 02 | SANMA | Santo | FELP EA | F
 
-Government of Vanuatu
-
-Ministry of Education
+Government of Vanuatu Ministry of Education
 
 ## SCHOOLS  ADMINISTERED BY  NEIL THOMAS CHRISTIAN UNIVERSITY EDUCATION AUTHORITY
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050209 | 050209 | NTCU Port Vila | 05 | SHE FA | Efate | NTCU EA | E
+R050209 | 050209 | NTCU Port Vila | 05 | SHEFA | Efate | NTCU EA | E
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0502106 | 0502106 | NTCU Port Vila Christian College | 05 | SHE FA | Efate | NTCU EA | E
+R0502106 | 0502106 | NTCU Port Vila Christian College | 05 | SHEFA | Efate | NTCU EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3278,11 +3421,11 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0222523 | 0222523 | Ulua | 02 | SAN MA | Santo | PRESB EA | E
-R0222524 | 0222524 | Vasarei Levusai | 02 | SAN MA | Santo | PRESB EA | E
-R0554328 | 0554328 | Sea Side Community | 05 | SHE FA | Efate | PRESB EA | E
+R0222523 | 0222523 | Ulua | 02 | SANMA | Santo | PRESB EA | E
+R0222524 | 0222524 | Vasarei Levusai | 02 | SANMA | Santo | PRESB EA | E
+R0554328 | 0554328 | Sea Side Community | 05 | SHEFA | Efate | PRESB EA | E
 
 Education Act No. 9 of 2014
 
@@ -3296,31 +3439,29 @@ SCHEDULE
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0554301 | 0554301 | Onesua Presbyterian College | 05 | SHE FA | Efate | PRESB EA | E
+R0554301 | 0554301 | Onesua Presbyterian College | 05 | SHEFA | Efate | PRESB EA | E
 
-Government of Vanuatu
-
-Ministry of Education
+Government of Vanuatu Ministry of Education
 
 ## SCHOOLS  ADMINISTERED BY  SEVENTH DAY ADVENTIST EDUCATION AUTHORITY
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 022049 | 022049 | Parker | 02 | SAN MA | Aore | SDA EA | E
-R 022279 | 022279 | Sarakata SDA | 02 | SAN MA | Santo | SDA EA | E
-R044306 | 044306 | Baiap | 04 | MAL AMP A | Ambrym | SDA EA | E
-R044323 | 044323 | Fonteng | 04 | MAL AMP A | Ambrym | SDA EA | E
-R04329 | 044329 | Lalinda | 04 | MAL AMP A | Ambrym | SDA EA | E
-R044337 | 044337 | Linbul | 04 | MAL AMP A | Ambrym | SDA EA | E
-R044347 | 044347 | Maranatha | 04 | MAL AMP A | Ambrym | SDA EA | E
-R044366 | 044366 | Sanesup | 04 | MAL AMP A | Ambrym | SDA EA | E
-R042924 | 042924 | Galilee | 04 | MAL AMP A | Malekula | SDA EA | E
-R0429344 | 0429344 | Lavalsal | 04 | MAL AMP A | Malekula | SDA EA | E
-R042945 | 042945 | Malua Bay | 04 | MAL AMP A | Malekula | SDA EA | E
+R 022049 | 022049 | Parker | 02 | SANMA | Aore | SDA EA | E
+R 022279 | 022279 | Sarakata SDA | 02 | SANMA | Santo | SDA EA | E
+R044306 | 044306 | Baiap | 04 | MALAMPA | Ambrym | SDA EA | E
+R044323 | 044323 | Fonteng | 04 | MALAMPA | Ambrym | SDA EA | E
+R04329 | 044329 | Lalinda | 04 | MALAMPA | Ambrym | SDA EA | E
+R044337 | 044337 | Linbul | 04 | MALAMPA | Ambrym | SDA EA | E
+R044347 | 044347 | Maranatha | 04 | MALAMPA | Ambrym | SDA EA | E
+R044366 | 044366 | Sanesup | 04 | MALAMPA | Ambrym | SDA EA | E
+R042924 | 042924 | Galilee | 04 | MALAMPA | Malekula | SDA EA | E
+R0429344 | 0429344 | Lavalsal | 04 | MALAMPA | Malekula | SDA EA | E
+R042945 | 042945 | Malua Bay | 04 | MALAMPA | Malekula | SDA EA | E
 
 Education Act No. 9 of 2014
 
@@ -3332,34 +3473,34 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R042988 | 042988 | Winn | 04 | MAL AMP A | Malekula | SDA EA | E
+R042988 | 042988 | Winn | 04 | MALAMPA | Malekula | SDA EA | E
 --- | --- | --- | --- | --- | --- | --- | ---
-R0554331 | 0554331 | Fokona | 05 | SHE FA | Efate | SDA EA | E
-R0551355 | 0551355 | Maumau | 05 | SHE FA | Efate | SDA EA | E
-R050219 | 050219 | Olwie SDA | 05 | SHE FA | Efate | SDA EA | E
-R050216 | 050216 | Vila No 2 SDA | 05 | SHE FA | Efate | SDA EA | E
-R054656 | 054656 | Susana Mate | 05 | SHE FA | Epi | SDA EA | E
-R054861 | 054861 | Lakalaka (Tumaropa) | 05 | SHE FA | Tongoa | SDA EA | E
-R0664493 | 0664493 | Enekis | 06 | TAF EA | Tanna | SDA EA | E
-R0664474 | 0664474 | Entan - Vui (Hebron) | 06 | TAF EA | Tanna | SDA EA | E
-R0664494 | 0664494 | Leauer | 06 | TAF EA | Tanna | SDA EA | E
-R066454 | 066454 | Loukaru (Lounalou) | 06 | TAF EA | Tanna | SDA EA | E
-R0664480 | 0664480 | Lowenata | 06 | TAF EA | Tanna | SDA EA | E
+R0554331 | 0554331 | Fokona | 05 | SHEFA | Efate | SDA EA | E
+R0551355 | 0551355 | Maumau | 05 | SHEFA | Efate | SDA EA | E
+R050219 | 050219 | Olwie SDA | 05 | SHEFA | Efate | SDA EA | E
+R050216 | 050216 | Vila No 2 SDA | 05 | SHEFA | Efate | SDA EA | E
+R054656 | 054656 | Susana Mate | 05 | SHEFA | Epi | SDA EA | E
+R054861 | 054861 | Lakalaka (Tumaropa) | 05 | SHEFA | Tongoa | SDA EA | E
+R0664493 | 0664493 | Enekis | 06 | TAFEA | Tanna | SDA EA | E
+R0664474 | 0664474 | Entan - Vui (Hebron) | 06 | TAFEA | Tanna | SDA EA | E
+R0664494 | 0664494 | Leauer | 06 | TAFEA | Tanna | SDA EA | E
+R066454 | 066454 | Loukaru (Lounalou) | 06 | TAFEA | Tanna | SDA EA | E
+R0664480 | 0664480 | Lowenata | 06 | TAFEA | Tanna | SDA EA | E
 
 ### Type: Primary School and Community Secondary School: Registered to Offer  (Years 1 - 8)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 022102 | 022102 | Amapelao | 02 | SAN MA | Malo | SDA EA | E
+R 022102 | 022102 | Amapelao | 02 | SANMA | Malo | SDA EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0326331 | 0326331 | PENAMA Adventist College | 03 | PEN AMA | Ambae | SDA EA | E
-R0443374 | 0443374 | Maranatha | 04 | MAL AMP A | Ambrym | SDA EA | E
-R0664304 | 0664304 | Kwataparen | 06 | TAF EA | Tanna | SDA EA | E
-R0546307 | 0546307 | Port Quimie | 05 | SHE FA | Epi | SDA EA | E
+R0326331 | 0326331 | PENAMA Adventist College | 03 | PENAMA | Ambae | SDA EA | E
+R0443374 | 0443374 | Maranatha | 04 | MALAMPA | Ambrym | SDA EA | E
+R0664304 | 0664304 | Kwataparen | 06 | TAFEA | Tanna | SDA EA | E
+R0546307 | 0546307 | Port Quimie | 05 | SHEFA | Epi | SDA EA | E
 
 Education Act No. 9 of 2014
 
@@ -3373,15 +3514,15 @@ SCHEDULE
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 12)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0502109 | 0502109 | Epauto | 05 | SHE FA | Efate | SDA EA | E
+R0502109 | 0502109 | Epauto | 05 | SHEFA | Efate | SDA EA | E
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 0220300 | 0220300 | Aore Adventist Academy | 02 | SAN MA | Aore | SDA EA | E
+R 0220300 | 0220300 | Aore Adventist Academy | 02 | SANMA | Aore | SDA EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3389,12 +3530,12 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050212 | 0554354 | Port Vila Community Christian | 05 | SHE FA | Efate | CCSV EA | E
-R055467 | 055467 | Betany Community Christian | 05 | SHE FA | Efate | CCSV EA | E
-R066471 | 066471 | Alofa | 06 | TAF EA | Tanna | CCSV EA | E
-R066433 | 066433 | Kamahau (Karimasanga) | 06 | TAF EA | Tanna | CCSV EA | E
+R050212 | 0554354 | Port Vila Community Christian | 05 | SHEFA | Efate | CCSV EA | E
+R055467 | 055467 | Betany Community Christian | 05 | SHEFA | Efate | CCSV EA | E
+R066471 | 066471 | Alofa | 06 | TAFEA | Tanna | CCSV EA | E
+R066433 | 066433 | Kamahau (Karimasanga) | 06 | TAFEA | Tanna | CCSV EA | E
 
 Education Act No. 9 of 2014
 
@@ -3406,17 +3547,17 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R0664310 | 0664310 | North Gate (North Tanna) Christian Community | 06 | TAF EA | Tanna | CCSV EA | E
+R0664310 | 0664310 | North Gate (North Tanna) Christian Community | 06 | TAFEA | Tanna | CCSV EA | E
 --- | --- | --- | --- | --- | --- | --- | ---
-R066478 | 066478 | Tafea (Lenakel) Christian | 06 | TAF EA | Tanna | CCSV EA | E
+R066478 | 066478 | Tafea (Lenakel) Christian | 06 | TAFEA | Tanna | CCSV EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R055467 | 055467 | Betany Community Christian | 05 | SHE FA | Efate | CCSV EA | E
-R0664310 | 0664310 | North Gate (North Tanna) Christian Community | 06 | TAF EA | Tanna | CCSV EA | E
-R0664307 | 0664307 | Tafea (Lenakel) Christian | 06 | TAF EA | Tanna | CCSV EA | E
+R055467 | 055467 | Betany Community Christian | 05 | SHEFA | Efate | CCSV EA | E
+R0664310 | 0664310 | North Gate (North Tanna) Christian Community | 06 | TAFEA | Tanna | CCSV EA | E
+R0664307 | 0664307 | Tafea (Lenakel) Christian | 06 | TAFEA | Tanna | CCSV EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3424,9 +3565,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-Bokissa | 02 | SAN MA | Bokissa | Bokissa Island EA | E
+ |  | Bokissa | 02 | SANMA | Bokissa | Bokissa Island EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3444,9 +3585,9 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050204 | 050204 | Child Care Centre | 05 | SHE FA | Efate | Childcare Center EA | E
+R050204 | 050204 | Child Care Centre | 05 | SHEFA | Efate | Childcare Center EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3454,15 +3595,15 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 020113 | 020113 | Luganville Covenant Community | 02 | SAN MA | Santo | CMC EA | E
+R 020113 | 020113 | Luganville Covenant Community | 02 | SANMA | Santo | CMC EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0201104 | 0201104 | Luganville Covernant Community | 02 | SAN MA | Santo | CMC EA | E
+R0201104 | 0201104 | Luganville Covenant Community | 02 | SANMA | Santo | CMC EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3470,9 +3611,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 12)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0502111 | 0502111 | Tebakor | 05 | SHE FA | Efate | Clement EA | E
+R0502111 | 0502111 | Tebakor | 05 | SHEFA | Efate | Clement EA | E
 
 Education Act No. 9 of 2014
 
@@ -3484,15 +3625,15 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-Government of Vanuatu
+Government of Vanuatu Ministry of Education
 
 ## SCHOOLS  ADMINISTERED BY COLWYN DINGLEY EDUCATION AUTHORITY
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R010504 | 010504 | Island Rock Christian | 01 | TOR BA | Mota Lava | Colwyn Dingley EA | E
+R010504 | 010504 | Island Rock Christian | 01 | TORBA | Mota Lava | Colwyn Dingley EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3500,15 +3641,15 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050222 | 050222 | Grace Baptist | 05 | SHE FA | Efate | Grace Baptist EA | E
+R050222 | 050222 | Grace Baptist | 05 | SHEFA | Efate | Grace Baptist EA | E
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 12)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0554391 | 0554391 | Grace Baptist | 05 | SHE FA | Efate | Grace Baptist EA | E
+R0554391 | 0554391 | Grace Baptist | 05 | SHEFA | Efate | Grace Baptist EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3516,11 +3657,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
 R0222301 | 0222301 | Bombua | 02 | SAN | Santo | James Tura EA | E
-
-Ministry of Education
 
 Education Act No. 9 of 2014
 
@@ -3540,15 +3679,15 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050205 | 050205 | Ecole Francaise | 05 | SHE FA | Efate | MENF EA | F
+R050205 | 050205 | Ecole Francaise | 05 | SHEFA | Efate | MENF EA | F
 
 ### Type: Junior & Senior Secondary School : Registered to Offer (Years 7 - 13)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0502101 | 0502101 | Ecole Francaise | 05 | SHE FA | Efate | MENF EA | F
+R0502101 | 0502101 | Ecole Francaise | 05 | SHEFA | Efate | MENF EA | F
 
 Government of Vanuatu Ministry of Education
 
@@ -3556,9 +3695,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0429358 | 0429358 | Lekan School | 04 | MAL AMP A | Malekula | Lekan EA | E
+R0429358 | 0429358 | Lekan School | 04 | MALAMPA | Malekula | Lekan EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3576,9 +3715,9 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050211 | 050211 | Peter Pan International | 05 | SHE FA | Efate | Peter Pan Grammer EA | E
+R050211 | 050211 | Peter Pan International | 05 | SHEFA | Efate | Peter Pan Grammer EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3586,9 +3725,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0554392 | 0554392 | Pikinini Playtime Childcare & Education Centre | 05 | SHE FA | Efate | PPCEC EA | E
+R0554392 | 0554392 | Pikinini Playtime Childcare & Education Centre | 05 | SHEFA | Efate | PPCEC EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3596,7 +3735,7 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
 
 Education Act No. 9 of 2014
@@ -3609,14 +3748,14 @@ Education Act No. 9 of 2014
 
 SCHEDULE
 
-R050211 | 050211 | Port Vila International | 05 | SHE FA | Efate | Port Vila International EA | E
+R050211 | 050211 | Port Vila International | 05 | SHEFA | Efate | Port Vila International EA | E
 --- | --- | --- | --- | --- | --- | --- | ---
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0502107 | 0502107 | Port Vila International | 05 | SHE FA | Efate | Port Vila International EA | E
+R0502107 | 0502107 | Port Vila International | 05 | SHEFA | Efate | Port Vila International EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3624,21 +3763,21 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R055454 | 055454 | Sorovanga | 05 | SHE FA | Efate | Sorovanga Community EA | E
+R055454 | 055454 | Sorovanga | 05 | SHEFA | Efate | Sorovanga Community EA | E
 
 ### Type: Junior Secondary School: Registered to Offer  (Years 7 - 10)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Admini stratio n | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0554302 | 0554302 | Sorovanga | 05 | SHE FA | Efate | Sorova nga Commu nity EA | E
+R0554302 | 0554302 | Sorovanga | 05 | SHEFA | Efate | Sorovanga Community EA | E
 
 Government of Vanuatu Ministry of Education
 
-92
-
 Education Act No. 9 of 2014
+
+92
 
 [[END OF PAGE 92]]
 
@@ -3650,9 +3789,9 @@ SCHEDULE
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Admini stratio n | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R050215 | 050215 | Survival | 05 | SHE FA | Efate | Survival Commu nity EA | E
+R050215 | 050215 | Survival | 05 | SHEFA | Efate | Survival Community EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3660,9 +3799,9 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Admini stratio n | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R 022231 | 022231 | Mataevura | 02 | SAN MA | Santo | Timothy Ateman u EA | E
+R 022231 | 022231 | Mataevura | 02 | SANMA | Santo | Timothy Atemanu EA | E
 
 Government of Vanuatu Ministry of Education
 
@@ -3670,11 +3809,11 @@ Government of Vanuatu Ministry of Education
 
 ### Type: Primary Schools: Registered to Offer (Years 1 - 6)
 
-Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Admini stratio n | Language
+Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
-R0217306 | 0217306 | Tamol Vanua Primary | 02 | SAN MA | Santo | Mavea Commu nity EA | E
+R0217306 | 0217306 | Tamol Vanua Primary | 02 | SANMA | Santo | Mavea Community EA | E
 
-## Abbreviations
+## ABBREVIATIONS
 
 Education Act No. 9 of 2014
 
