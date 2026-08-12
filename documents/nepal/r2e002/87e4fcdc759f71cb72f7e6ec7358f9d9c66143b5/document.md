@@ -72,19 +72,101 @@ School Sector Reform Plan 2009-15
 
 # TABLE OF CONTENTS
 
+Table of Contents ........................................................................................................ v
+List of Tables ............................................................................................................ ix
+Abbreviations ............................................................................................................. x
+Volume I: Main Document
+Chapter 1: Introduction to SSR Plan ........................................................................................... 1
+Chapter 2: Early Childhood Education and Development ......................................................... 6
+2.1. Introduction ...................................................................................................................... 6
+2.2. Goals and Objectives ........................................................................................................ 6
+2.3. Opportunities and Challenges .......................................................................................... 6
+2.4. Policy Directions ............................................................................................................... 7
+2.5. Key Results ........................................................................................................................ 8
+2.6. Strategic Interventions ...................................................................................................... 8
+2.7. Indicative Cost ................................................................................................................... 9
+2.8. Implementation Matrix ..................................................................................................... 9
+Chapter 3: Basic and Secondary Education .............................................................................. 10
+3.1 Introduction ..................................................................................................................... 10
+3.2 Opportunities and Challenges ......................................................................................... 10
+3.3 Basic Education ............................................................................................................... 13
+Goals and Objectives ............................................................................................................. 13
+Policy Directions ................................................................................................................... 13
+Key Results ............................................................................................................................ 14
+Strategic Interventions ........................................................................................................... 14
+Indicative Cost ....................................................................................................................... 19
+Implementation Matrix ......................................................................................................... 19
+3.4 Secondary Education ...................................................................................................... 22
+Goals and Objectives ............................................................................................................. 22
+Policy Directions ................................................................................................................... 22
+Key Results ............................................................................................................................ 22
+Strategic Interventions ........................................................................................................... 23
+Indicative Cost ....................................................................................................................... 25
+Implementation Matrix ......................................................................................................... 26
+Chapter 4: Literacy and Lifelong Learning ............................................................................... 28
+4.1 Introduction .................................................................................................................... 28
+4.2 Goal and Objectives ........................................................................................................ 28
+4.3 Opportunities and Challenges ........................................................................................ 29
+4.4 Policy Directions ............................................................................................................. 29
+4.5 Key Results ...................................................................................................................... 30
+4.6 Strategic Interventions .................................................................................................... 30
+4.7 Indicative Cost ................................................................................................................. 31
+4.8 Implementation Arrangement ......................................................................................... 31
+4.9 Implementation Matrix ................................................................................................... 32
+
 v
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-School Sector Reform Plan
+School Sector Reform Plan 2009-15
 
-2009-15
-
-9.5
-
-Financial Management ................................................................................................... 58
+Chapter 5: Technical Education and Vocational Training ....................................................... 33
+5.1 Introduction .................................................................................................................... 33
+5.2 Goals and Objective ........................................................................................................ 33
+5.3 Opportunities and Challenges ........................................................................................ 33
+5.4 Policy Directions ............................................................................................................. 34
+5.5 Key Results ...................................................................................................................... 34
+5.6 Strategic Interventions .................................................................................................... 35
+5.7 Indicative Cost ................................................................................................................ 35
+5.8 Implementation Arrangements ....................................................................................... 35
+5.9 Implementation Matrix ................................................................................................... 36
+Chapter 6: Teacher Professional Development ......................................................................... 37
+6.1 Introduction .................................................................................................................... 37
+6.2 Goals and Objectives ...................................................................................................... 37
+6.3 Opportunities and Challenges ........................................................................................ 38
+6.4 Policy directions .............................................................................................................. 38
+6.5 Key Results ...................................................................................................................... 40
+6.6 Strategic Interventions .................................................................................................... 40
+6.7 Indicative Cost ................................................................................................................. 41
+6.8 Implementation Arrangements ....................................................................................... 41
+6.9 Implementation Matrix ................................................................................................... 42
+Chapter 7: Capacity Development ............................................................................................. 43
+7.1 Introduction .................................................................................................................... 43
+7.2 Goal and Objectives ........................................................................................................ 43
+7.3 Opportunities and Challenges ........................................................................................ 43
+7.4 Policy Directions ............................................................................................................. 45
+7.5 Key Results ...................................................................................................................... 45
+7.6 Strategic Interventions .................................................................................................... 46
+7.7 Indicative Cost ................................................................................................................. 46
+7.8 Implementation Arrangements ....................................................................................... 46
+7.9 Implementation Matrix ................................................................................................... 47
+Chapter 8: Monitoring and Evaluation ..................................................................................... 49
+8.1 Introduction .................................................................................................................... 49
+8.2 Goal and Objective .......................................................................................................... 49
+8.3 Policy Directions ............................................................................................................. 49
+8.4 Key Results and Monitoring Indicators .......................................................................... 49
+8.5 Strategic Interventions .................................................................................................... 51
+8.6 Indicative Cost ................................................................................................................ 52
+8.7 Implementation Arrangements ....................................................................................... 52
+8.8 Implementation Matrix ................................................................................................... 53
+Chapter 9: Financing ................................................................................................................. 54
+9.1 Background ..................................................................................................................... 54
+9.2 Funding for SSR Plan ...................................................................................................... 55
+9.3 SSR Plan Resource Requirement .................................................................................... 56
+9.4 SSR Financing Plan ........................................................................................................ 56
+9.5 Financial Management ................................................................................................... 58
 
 vi
 
@@ -92,9 +174,30 @@ vi
 
 [[START OF PAGE 7]]
 
-School Sector Reform Plan
+School Sector Reform Plan 2009-15
 
-2009-15
+Chapter 10: Aid Management ................................................................................................... 61
+10.1 Introduction ................................................................................................................... 61
+10.2 Goal and Objectives ...................................................................................................... 61
+10.3 Opportunities and Challenges ...................................................................................... 62
+10.4 Policy Direction ............................................................................................................ 63
+10.5 Key Results .................................................................................................................... 63
+10.6 Strategic Interventions .................................................................................................. 64
+10.7 Indicative Costs ............................................................................................................. 64
+10.8 Implementation Arrangements ..................................................................................... 65
+10.9 Implementation Matix .................................................................................................. 65
+Reference ................................................................................................................................ 69
+Volume II: Annexes
+Annex 3-1: Reform in School Srtucture: Basic Education ....................................................... 73
+Annex 3-2: Quality Education .................................................................................................. 79
+Annex 3-3: Governance and Management ............................................................................... 89
+Annex 8.1: SSRP M&E Plan: Templates for Future Use ......................................................... 94
+Annex 8.2: Education Policy Committee (EPC) ...................................................................... 95
+Annex 9-1: Total Budget by Component ................................................................................. 97
+9-2 Total Development Budget by Component ...................................................................... 98
+9-3 Budget Share of Government and DPs ............................................................................ 99
+Annex 9-4: Component wise Share of Total Development Budget ....................................... 100
+Annex 11: SSRP Logical Framework Matrix ......................................................................... 101
 
 vii
 
@@ -102,11 +205,16 @@ vii
 
 [[START OF PAGE 8]]
 
-School Sector Reform Plan
-
-2009-15
+School Sector Reform Plan 2009-15
 
 # List of Tables
+
+Table 1.1: A summary of the Key SSR Indicators, Base-Year Status and 2015/16 Targets .......... 2
+Table 3.1: Types and Amount of Scholarships ............................................................................. 15
+Table 9.1: GDP and SSR budget share ......................................................................................... 55
+Table 9.2: SSR Plan budget (medium scenario) ........................................................................... 56
+Table 9.3: Sources of financing (US$ in million) ......................................................................... 57
+Table 9.4: Contribution of Development Partners (DPs) in % ..................................................... 57
 
 viii
 
@@ -143,12 +251,14 @@ CTEVT | Council for Technical Education and Vocational Training
 DAG | Disadvantaged Group
 DDC | District Development Committee
 DEC | District Education Committee
-DEF DEO | District Education Fund District Education Office
+DEF | District Education Fund
+DEO | District Education Office
 DEP | District Education Plans
 DFID | Department for International Development
 DHS | Demographic and Health Survey
 DOE | Department of Education
-DP EC | Development Partners European Community/ Commission
+DP | Development Partners
+EC | European Community/ Commission
 ECD | Early Childhood Development
 ECED | Early Childhood Education and Development
 EFA | Education for All
@@ -207,8 +317,9 @@ M.Ed. | Master of Education
 MDA | Mid Decade Assessment
 MDAC | Ministerial Level Development Assessment Committee
 MDG | Millennium Development Goal
-MEC | Minimum Enabling Condition Municipality Education Plan
-MEP MGT | Multi Grade Teaching
+MEC | Minimum Enabling Condition
+MEP | Municipality Education Plan
+MGT | Multi Grade Teaching
 MIS | Management Information System
 MOE | Ministry of Education
 MOF | Ministry of Finance
@@ -233,10 +344,11 @@ NTF | National TEVT Fund
 NTS-PCF | Non-Teaching Staff Salary Per Child Funding
 NVQF | National Vocational Qualifications Framework
 OCE | Office of Controller of Examinations
-PCF | Per Capita Funding Pre-primary Classes
-PPC
-PRD | Promotion, Repetition and Dropout Poverty Reduction Strategy Paper
-PRSP
+PCF | Per Capita Funding
+PPC | Pre-primary Classes
+PRD | Promotion, Repetition and Dropout
+PRSP | Poverty Reduction Strategy Paper
+PSC | Public Service Commission
 
 x
 
@@ -314,7 +426,7 @@ In response to these challenges, the Ministry of Education has taken initiatives
 
 The SSRP has its roots in the EFA National Plan of Action 2001-15, the Three-Year Interim Plan and  the  SSR  Core  Document.  The  plan  provides  a  strategic  framework  for  the  Annual  Strategic Implementation  Plans  (ASIP)  and  Annual  Work  Plan  and  Budget  (AWPB).  Within  the  SSRP framework, the ASIP/ AWPB will articulate strategies into an annual operational rolling plan.
 
-The  SSRP  has  been  prepared  by  the  MOE/  GON  based  on  the  School  Sector  Reform  Core Document  (SSR  Core  document)  and  the  feedback  received  from  stakeholder  consultations conducted at different levels across the country. Key policy goals and values,  such as the right to education, gender parity, inclusion, and equity have guided the preparation process and have been integrated as strategic interventions in the Plan.
+The SSRP has been prepared by the MOE/ GON based on the School Sector Reform Core Document (SSR Core document) and the feedback received from stakeholder consultations
 
 1
 
@@ -324,58 +436,60 @@ The  SSRP  has  been  prepared  by  the  MOE/  GON  based  on  the  School  Sect
 
 School Sector Reform Plan 2009-15
 
-Indicators | Unit | Base | Years | Targets
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2013/14 | 2014/15 | 2015/16
-2012/13 1. Share of Education Budget in
-GNP | % | 2.0 | 2.1 | 2.1 | 2.2 | 2.3 | 2.4 | 2.5 | 2.5
-GDP | % | 3.5 | 3.6 | 3.6 | 2.3 3.7 | 3.8 | 3.8 | 3.9 | 4.0
-3.7 2. Share in Education Budget
-Basic Education | % | 70 | 71 | 71 | 72 73 | 74 | 74 | 75 | 76
-Secondary Education | % | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-9 3. Enrolment at Grade 1
-New entrants with ECED experience | % | 33 | 36 | 41 | 45 51 | 57 | 64 | 71 | 80
-Gross Intake Rate | % | 141 | 148 | 144 | 140 137 | 133 | 130 | 127 | 123
-Net Intake Rate | % | 78 | 81 | 83 | 88 | 91 | 94 | 97 | 100
-86 4. Gross Enrolment Rate
-ECED/Pre primary | % | 60 | 63 | 67 | 72 77 | 82 | 87 | 93 | 99
-Basic Education (1-8) | % | 116 | 123 | 125 | 128 | 130 132 | 132 | 131 | 131
-Secondary Education | % | 36 | 40 | 43 | 47 52 | 58 | 66 | 75 | 83
-5. Net Enrolment Rate
-Primary Education | % | 89 | 92 | 94 | 96 97 | 98 | 99 | 99 | 100
-Basic Education | % | 71 | 73 | 75 | 77 80 | 82 | 85 | 87 | 90
-Secondary Education | % | 20 | 21 | 22 | 23 24 | 26 | 27 | 29 | 31
-6. Teachers with required qualification and training
-Basic Education | % | 62 | 66 | 70 | 74 79 | 83 | 88 | 94 | 100
-Secondary Education | % | 74 | 77 | 80 | 86 | 89 | 93 | 96 | 100
-83 7. Teachers with required Certification
-Basic Education | % | 90 | 91 | 92 | 94 95 | 96 | 97 | 99 | 100
-Secondary Education | % | 90 | 91 | 92 | 94 95 | 96 | 97 | 99 | 100
-8. Pupil Teacher Ratio
-Basic Education | Ratio | 44 | 43 | 41 | 40 39 | 38 | 37 | 36 | 34
-Secondary Education | Ratio | 42 | 39 | 37 | 34 32 | 30 | 28 | 26 | 25
-9. Repetition Rate
-Grade 1 | % | 28 | 18 | 12 | 8 5 | 3 | 2 | 1 | 1
-Grade 8 | % | 13 | 11 | 9 | 6 | 5 | 4 | 3 | 2
-7 10. Survival Rate by cohort method
-Grade 5 | % | 54 | 58 | 61 | 65 70 | 74 | 79 | 84 | 90
-Grade 8 | % | 37 | 41 | 45 | 49 54 | 60 | 66 | 73 | 80
-11. Coefficient of Efficiency
-Basic Education | Ratio | 0.46 | 0.49 | 0.52 | 0.55 | 0.59 0.62 | 0.66 | 0.71 | 0.75
-Secondary Education | Ratio | 0.30 | 0.33 | 0.36 | 0.39 | 0.46 | 0.50 | 0.55 | 0.60
-0.42 12. Learning Achievement Average Score of students in core subjects in grade 5 and 8
-Grade 5 | % | 50 | 53 | 56 | 60 | 67 | 71 | 75 | 80
-Grade 8 | % | 44 | 46 | 48 | 63 51 | 54 | 56 | 58 | 60
-49 13. Pass Rate Percentage of students passed in the SLC and HSE National Examination
-SLC | % | 60 | 62 | 64 | 65 | 69 | 71 | 73 | 75
-Higher Secondary | % | 23 | 25 | 28 | 67 34 | 37 | 41 | 45 | 50
-31 14. Literacy Rate Percentage of literate people
-Age Group 15-24 | % | 73 | 75 | 78 | 80 83 | 86 | 89 | 92 | 95
-Age Group 6+ years | % | 63 | 69 | 76 | 78 80 | 83 | 85 | 88 | 90
-Age Group 15+ years | % | 52 | 56 | 60 | 62 64 | 67 | 70 | 72 | 75
-15. Literacy GPI (15+) | Ratio | 0.61 | 0.74 | 0.90 | 0.92 | 0.93 0.95 | 0.96 | 0.98 | 1.00
+conducted at different levels across the country. Key policy goals and values, such as the right to education, gender parity, inclusion, and equity have guided the preparation process and have been integrated as strategic interventions in the Plan.
 
 Table 1.1: A summary of the Key SSR Indicators, Base-Year Status and 2015/16 Targets
+
+Indicators | Unit | Base Years |  | Targets |  |  |  |  |  |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
+1. Share of Education Budget in |  |  |  |  |  |  |  |  |  |
+GNP | % | 2.0 | 2.1 | 2.1 | 2.2 | 2.3 | 2.3 | 2.4 | 2.5 | 2.5
+GDP | % | 3.5 | 3.6 | 3.6 | 3.7 | 3.7 | 3.8 | 3.8 | 3.9 | 4.0
+2. Share in Education Budget |  |  |  |  |  |  |  |  |  |
+Basic Education | % | 70 | 71 | 71 | 72 | 73 | 74 | 74 | 75 | 76
+Secondary Education | % | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
+3. Enrolment at Grade 1 |  |  |  |  |  |  |  |  |  |
+New entrants with ECED experience | % | 33 | 36 | 41 | 45 | 51 | 57 | 64 | 71 | 80
+Gross Intake Rate | % | 141 | 148 | 144 | 140 | 137 | 133 | 130 | 127 | 123
+Net Intake Rate | % | 78 | 81 | 83 | 86 | 88 | 91 | 94 | 97 | 100
+4. Gross Enrolment Rate |  |  |  |  |  |  |  |  |  |
+ECED/Pre primary | % | 60 | 63 | 67 | 72 | 77 | 82 | 87 | 93 | 99
+Basic Education (1-8) | % | 116 | 123 | 125 | 128 | 130 | 132 | 132 | 131 | 131
+Secondary Education | % | 36 | 40 | 43 | 47 | 52 | 58 | 66 | 75 | 83
+5. Net Enrolment Rate |  |  |  |  |  |  |  |  |  |
+Primary Education | % | 89 | 92 | 94 | 96 | 97 | 98 | 99 | 99 | 100
+Basic Education | % | 71 | 73 | 75 | 77 | 80 | 82 | 85 | 87 | 90
+Secondary Education | % | 20 | 21 | 22 | 23 | 24 | 26 | 27 | 29 | 31
+6. Teachers with required qualification and training |  |  |  |  |  |  |  |  |  |
+Basic Education | % | 62 | 66 | 70 | 74 | 79 | 83 | 88 | 94 | 100
+Secondary Education | % | 74 | 77 | 80 | 83 | 86 | 89 | 93 | 96 | 100
+7. Teachers with required Certification |  |  |  |  |  |  |  |  |  |
+Basic Education | % | 90 | 91 | 92 | 94 | 95 | 96 | 97 | 99 | 100
+Secondary Education | % | 90 | 91 | 92 | 94 | 95 | 96 | 97 | 99 | 100
+8. Pupil Teacher Ratio |  |  |  |  |  |  |  |  |  |
+Basic Education | Ratio | 44 | 43 | 41 | 40 | 39 | 38 | 37 | 36 | 34
+Secondary Education | Ratio | 42 | 39 | 37 | 34 | 32 | 30 | 28 | 26 | 25
+9. Repetition Rate |  |  |  |  |  |  |  |  |  |
+Grade 1 | % | 28 | 18 | 12 | 8 | 5 | 3 | 2 | 1 | 1
+Grade 8 | % | 13 | 11 | 9 | 7 | 6 | 5 | 4 | 3 | 2
+10. Survival Rate by cohort method |  |  |  |  |  |  |  |  |  |
+Grade 5 | % | 54 | 58 | 61 | 65 | 70 | 74 | 79 | 84 | 90
+Grade 8 | % | 37 | 41 | 45 | 49 | 54 | 60 | 66 | 73 | 80
+11. Coefficient of Efficiency |  |  |  |  |  |  |  |  |  |
+Basic Education | Ratio | 0.46 | 0.49 | 0.52 | 0.55 | 0.59 | 0.62 | 0.66 | 0.71 | 0.75
+Secondary Education | Ratio | 0.30 | 0.33 | 0.36 | 0.39 | 0.42 | 0.46 | 0.50 | 0.55 | 0.60
+12. Learning Achievement | Average Score of students in core subjects in grade 5 and 8 |  |  |  |  |  |  |  |  |
+Grade 5 | % | 50 | 53 | 56 | 60 | 63 | 67 | 71 | 75 | 80
+Grade 8 | % | 44 | 46 | 48 | 49 | 51 | 54 | 56 | 58 | 60
+13. Pass Rate | Percentage of students passed in the SLC and HSE National Examination |  |  |  |  |  |  |  |  |
+SLC | % | 60 | 62 | 64 | 65 | 67 | 69 | 71 | 73 | 75
+Higher Secondary | % | 23 | 25 | 28 | 31 | 34 | 37 | 41 | 45 | 50
+14. Literacy Rate | Percentage of literate people |  |  |  |  |  |  |  |  |
+Age Group 15-24 | % | 73 | 75 | 78 | 80 | 83 | 86 | 89 | 92 | 95
+Age Group 6+ years | % | 63 | 69 | 76 | 78 | 80 | 83 | 85 | 88 | 90
+Age Group 15+ years | % | 52 | 56 | 60 | 62 | 64 | 67 | 70 | 72 | 75
+15. Literacy GPI (15+) | Ratio | 0.61 | 0.74 | 0.90 | 0.92 | 0.93 | 0.95 | 0.96 | 0.98 | 1.00
 
 2
 
@@ -435,13 +549,15 @@ In order to maintain consistency in the document, an attempt has been made to st
 
 School Sector Reform Plan 2009-15
 
+## CHAPTER 2: EARLY CHILDHOOD EDUCATION AND DEVELOPMENT
+
 ### 2.1. INTRODUCTION
 
-The ECED goal stipulated in the EFA National Plan of Action (2001-15) provides a basis for the implementation of ECED in the SSR Plan. At present, there are 24,773 ECED centres in operation, comprising both community and school based centres across the country, out of which school based pre-primary  centres  are  about  11,890,  and  the  remaining  ones  are  the  community  based  ECED centres (Flash Report,  2007).  In  addition,  institutional  schools  (private  schools)  have  made significant contributions to the expansion and delivery of ECED/Pre-primary services in Nepal.
+The ECED goal stipulated in the EFA National Plan of Action (2001-15) provides a basis for the implementation of ECED in the SSR Plan. At present, there are 24,773 ECED centres in operation, comprising both community and school based centres across the country, out of which school based pre-primary centres are about 11,890, and the remaining ones are the community based ECED centres (Flash Report, 2007). In addition, institutional schools (private schools) have made significant contributions to the expansion and delivery of ECED/Pre-primary services in Nepal.
 
 An ECED Council, chaired by the Secretary has been constituted in the Ministry of Education for providing policy guidelines to the ECED programme in the sector. Moreover, considering the need for an overarching framework in the centre, the National Planning Commission (NPC) has formed a Coordination Committee for inter-ministerial and inter-agency coordination to align and harmonize all ECED initiatives and interventions with the national programme. At the district level, an ECED Committee, formed under the aegis of the District Development Committee, provides guidelines to formulate policy, and to coordinate, supervise and monitor ECED programmes in the district.
 
-The Department of Education (DOE) is implementing the ECED programme in collaboration with I/NGOs and community based organisations.  Contractual arrangements  have  been  made  by  the Department with partner agencies to obtain technical and financial support for  ECED implementation. DOE also provides a lump sum grant to the ECED centres on an annual basis. In addition,  the  CDC  and  NCED  will  offer  technical  support  in  their  respective  areas,  required  for setting  norms  and  standards  and  for  delivery  of  services  including  curriculum  development, facilitator training and evaluation system development.
+The Department of Education (DOE) is implementing the ECED programme in collaboration with I/NGOs and community based organisations. Contractual arrangements have been made by the Department with partner agencies to obtain technical and financial support for ECED implementation. DOE also provides a lump sum grant to the ECED centres on an annual basis. In addition, the CDC and NCED will offer technical support in their respective areas, required for setting norms and standards and for delivery of services including curriculum development, facilitator training and evaluation system development.
 
 ### 2.2. GOALS AND OBJECTIVES
 
@@ -457,9 +573,7 @@ The Department of Education (DOE) is implementing the ECED programme in collabor
 
 #### Opportunities
 
-The ECED programme in Nepal has been acclaimed for the gains it has made much of which has been attributed to local level enthusiasm and  support. More importantly, the institutional support received from schools, communities, local governments, NGOs and CBOs, and the private sector has proved instrumental in the expansion of ECED both in schools and communities.  To match
-
-## CHAPTER 2: EARLY CHILDHOOD EDUCATION AND DEVELOPMENT
+The ECED programme in Nepal has been acclaimed for the gains it has made much of which has been attributed to local level enthusiasm and support. More importantly, the institutional support received from schools, communities, local governments, NGOs and CBOs, and the private sector has proved instrumental in the expansion of ECED both in schools and communities. To match
 
 6
 
@@ -517,7 +631,7 @@ School Sector Reform Plan 2009-15
 
  In order to increase children's access to and participation in ECED programmes, emphasis will  be  placed on  expanding  ECED services  in disadvantaged  and underserved areas. The state  support  will  be  guaranteed  through  local  government(s)  for  the  establishment, operation and sustenance of ECED centres in the marginalised areas and poverty pockets of a district, where HDI indices and ECED GER's are low. The ECED centres will provide a fully equipped, conducive environment for learning and development fulfilling the minimum standards .
 
- The main responsibility for creating demand, identifying needs, planning, implementing and ensuring quality standards of the ECED programme will lie with the local government. Civil society organisations will play a critical role to engage the local community and in monitoring at local level. For the expansion and enhancement of quality of ECED, the local government will follow a partnership model and will mobilise mothers' groups, youth organisations, user groups,  micro-credit  groups,  in support  of  different  government  agencies  and  nongovernment organisations.
+ The main responsibility for creating demand, identifying needs, planning, implementing and ensuring quality standards of the ECED programme will lie with the local government. Civil society organisations will play a critical role to engage the local community and in monitoring at local level. For the expansion and enhancement of quality of ECED, the local government will follow a partnership model and will mobilise mothers' groups, youth organisations, user groups, micro-credit groups, in support of different government agencies and non-government organisations.
 
  With a view to ensuring all children's access and participation, particularly girls, children with special  needs  and  the  populations  facing  multiple  exclusions,  a  community  based  ECED approach will be  promoted.  These centres  will  be  clustered  and developed  as satellites to feed into and link with the nearest school.
 
@@ -567,23 +681,23 @@ Activity (What?) | Responsible Agency (Who?) | How? | Timeline (when?)
 
 School Sector Reform Plan 2009-15
 
+## CHAPTER 3: BASIC AND SECONDARY EDUCATION
+
 ### 3.1 INTRODUCTION
 
-The  Basic  and  Secondary  Education  component  in  the  SSR  Plan  has  rendered  priority,  building upon the lessons drawn from past experiences such as the EFA.  The emphasis of this component is to increase access to and participation in, promote equity and social inclusion in, and improve quality and  relevance of  basic  and  secondary  education.  This  plan  has given similar  emphasis  to institutionalization of decentralised governance and management systems in education. Until there is an amendment and enactment, the existing Education Act and regulations will continue to provide regulatory frameworks for the implementation of the Plan.
+The Basic and Secondary Education component in the SSR Plan has rendered priority, building upon the lessons drawn from past experiences such as the EFA. The emphasis of this component is to increase access to and participation in, promote equity and social inclusion in, and improve quality and relevance of basic and secondary education. This plan has given similar emphasis to institutionalization of decentralised governance and management systems in education. Until there is an amendment and enactment, the existing Education Act and regulations will continue to provide regulatory frameworks for the implementation of the Plan.
 
-To  increase  the  relevance  of  school  education,  the  SSR  Plan  intends  to  restructure  the  current school system forming a coherent and  integrated school structure with  grades  1-12.  However, to ensure access to all and to promote compulsory basic education, the basic education constitutes a priority  in  the  Plan.    The  Plan  has  also  endorsed  the  need  to  integrate  and  harmonize  existing fragmentation  at  the  higher  secondary  level  by  establishing  coordination  between  and  among different education providers such as, the HSEB, CTEVT, and Universities.
+To increase the relevance of school education, the SSR Plan intends to restructure the current school system forming a coherent and integrated school structure with grades 1-12. However, to ensure access to all and to promote compulsory basic education, the basic education constitutes a priority in the Plan. The Plan has also endorsed the need to integrate and harmonize existing fragmentation at the higher secondary level by establishing coordination between and among different education providers such as, the HSEB, CTEVT, and Universities.
 
-This chapter provides a general description of the opportunities and challenges inherent to Basic and Secondary Education. This general description is followed by goals and objectives, policy directions, programme targets,  strategic  interventions,  and  implementation  arrangements  separately  for  Basic and Secondary Education.
+This chapter provides a general description of the opportunities and challenges inherent to Basic and Secondary Education. This general description is followed by goals and objectives, policy directions, programme targets, strategic interventions, and implementation arrangements separately for Basic and Secondary Education.
 
 ### 3.2 OPPORTUNITIES AND CHALLENGES
 
-The agenda for the school sector reform with an integrated system of 1-8 basic and 9-12 secondary education  has  gained  momentum  across  the  social  and  political  domains.  The  TYIP  and  the subsequent national programme have also given the direction towards the intended reform in the education sector.
+The agenda for the school sector reform with an integrated system of 1-8 basic and 9-12 secondary education has gained momentum across the social and political domains. The TYIP and the subsequent national programme have also given the direction towards the intended reform in the education sector.
 
-There are, however, still some challenges that are crucial to be addressed. About 8% of the current school going population in primary (5-9 years age) and about 25% in basic education (5-12 years age) are still out of school. Likewise, social inclusion and equity issues continue to prevail as the major concern  across  all  levels  of  education  delivery.  With  low  levels  of  learning  achievements  and persistently  high  drop-out  and  repetition  rates,  the  efficiency  and  effectiveness  in  the  education sector represents another challenge to be met.
+There are, however, still some challenges that are crucial to be addressed. About 8% of the current school going population in primary (5-9 years age) and about 25% in basic education (5-12 years age) are still out of school. Likewise, social inclusion and equity issues continue to prevail as the major concern across all levels of education delivery. With low levels of learning achievements and persistently high drop-out and repetition rates, the efficiency and effectiveness in the education sector represents another challenge to be met.
 
-The following are the major opportunities and  challenges  anticipated  in the school sector  reform pertaining to basic and secondary education:
-
-## CHAPTER 3: BASIC AND SECONDARY EDUCATION
+The following are the major opportunities and challenges anticipated in the school sector reform pertaining to basic and secondary education:
 
 10
 
@@ -631,7 +745,7 @@ School Sector Reform Plan 2009-15
 
 School Sector Reform Plan 2009-15
 
- Building the capacity of  local  governments  and schools  with a focus  on  the  SMC, Headteacher, and PTA to successfully carry out decentralised management functions.
+ Building the capacity of local governments and schools with a focus on the SMC, Head-teacher, and PTA to successfully carry out decentralised management functions.
 
  Making teachers responsive to diverse needs, ensuring children's learning.
 
@@ -769,6 +883,8 @@ School Sector Reform Plan
 
 School Sector Reform Plan 2009-15
 
+Table 3.1: Types and Amount of Scholarships
+
 Scholarship Type | Target | Amount (Rs)
 --- | --- | ---
 Dalit Scholarship | All Dalit students | 350 per year per student
@@ -776,8 +892,6 @@ Girl Scholarship | 50% Girl students (need based selection by the SMC) | 350 per
 Martyr's Scholarship | Children of Martyr's family (Martyr's verification by DEO) | 1000 per year per student
 Scholarship for Karnali Region | All girl students in Karnali region | 1000 per year per student
 Scholarship for students with disability | All students with disability | 500 to 15,000 per year per student (based on severity)
-
-Table 3.1: Types and Amount of Scholarships
 
 ###### Compulsory Basic Education
 
@@ -819,7 +933,7 @@ School Sector Reform Plan 2009-15
 
 ###### Increased participation
 
-Affirmative action to increase the number of teachers from disadvantaged groups 1 :
+Affirmative action to increase the number of teachers from disadvantaged groups¹:
 
  Equitable  allocation  of  seats  while  recruiting  teachers  and  personnel  in  management positions from these groups.
 
@@ -835,7 +949,7 @@ To increase female participation:
 
 ###### Code of conduct
 
- A code of conduct will be developed and enforced in schools to safeguard pro-poor, nondiscriminatory, and non-punitive practices. Teachers' attitude and behaviour will be assessed, among other things, as part of their performance evaluation.
+ A code of conduct will be developed and enforced in schools to safeguard pro-poor, non-discriminatory, and non-punitive practices. Teachers' attitude and behaviour will be assessed, among other things, as part of their performance evaluation.
 
 ##### Quality and relevance
 
@@ -847,7 +961,7 @@ In order to foster quality and relevance, there is an incentive scheme in the Pl
 
  Integration of existing schools into their nearest stages: 1-3, 1-5, and 1-8 at the basic education level and 1-10, and 1-12 at the secondary education level (see annex 3.1 for detailed information on the norms for school restructuring).
 
-> 11 Disadvantaged groups include girls and women, Dalits, ethnic minorities, Madhesis, people with disability, poor and marginalized groups, conflict affected people, and people with HIV/AIDS and populations on move.
+> 1 Disadvantaged groups include girls and women, Dalits, ethnic minorities, Madhesis, people with disability, poor and marginalized groups, conflict affected people, and people with HIV/AIDS and populations on move.
 
 16
 
@@ -997,7 +1111,7 @@ Dalit students (grades 1-8) | DOE/DEO | All Dalit students will receive scholars
 Girls' scholarships (grades 1-8) | DOE/DEO Local committee | All girl students of Karnali region and 50% of girl students from other districts will receive scholarships. | 2009/10
 Scholarships for students with disabilities | DOE/DEO | Students with disabilities will receive scholarships through schools. | 2009/10
 Scholarships for children of martyrs | DOE/DEO | Children from Martyr's family will receive scholarships in schools as verified by DEO. | 2009/10
-Support for multi- grade arrangements | DOE/DEO | DOE will develop the guidelines for Multi-grade classes and DEO will identify schools/locations appropriate for Multi-grade classes. | 2010/11
+Support for multi-grade arrangements | DOE/DEO | DOE will develop the guidelines for Multi-grade classes and DEO will identify schools/locations appropriate for Multi-grade classes. | 2010/11
 
 21
 
@@ -1127,7 +1241,7 @@ provision  for  substitute  teachers  (b)  reduced  eligibility  period  for  pr
 
 ###### Code of conduct
 
- Developing  and  enforcing  a  code  of  conduct  in  schools  to  safeguard  pro-poor,  nondiscriminatory, and non-punitive practices.
+ Developing and enforcing a code of conduct in schools to safeguard pro-poor, non-discriminatory, and non-punitive practices.
 
 ##### Quality and relevance
 
@@ -1224,8 +1338,8 @@ School Sector Reform Plan 2009-15
 Teachers' guide development and update | CDC | CDC will mobilise experts to update and develop the teachers' guides and make available to schools through multiple publishers | 2012/13
 --- | --- | --- | ---
 Local curriculum | CDC | CDC will develop guidelines for local curriculum and the DEO will mobilise local experts to develop the local curriculum. | 2010/11
-Grant support for head-teachers (9- 12) | DOE/SMC | Every fully-fledged school with 1-8 will receive a separate position of Head-teacher hired on a contract by the SMC. DOE will develop policy guidelines for Head- teacher recruitment. | 2012/13
-PCF: textbooks (9- 10) | DOE/School | Currently funding is not available
+Grant support for head-teachers (9-12) | DOE/SMC | Every fully-fledged school with 1-8 will receive a separate position of Head-teacher hired on a contract by the SMC. DOE will develop policy guidelines for Head-teacher recruitment. | 2012/13
+PCF: textbooks (9-10) | DOE/School | Currently funding is not available
 PCF: textbooks (11-12) | DOE/School | Currently funding is not available
 Support for school restructuring | DOE/ DEO/ School | Currently funding is not available
 Girls' scholarships (grades 9-10) | DOE/DEO/Local committee | Girl students from economically poor families will receive scholarships. SMCs will be entrusted with the responsible for the distribution of scholarships in schools. The local bodies will take responsibility for monitoring the scholarship programme. | 2009/10
@@ -1243,13 +1357,15 @@ PCF: Non salary | DOE/DEO/ | DOE provides PCF no-salary grants to all schools ba
 
 School Sector Reform Plan 2009-15
 
+## CHAPTER 4: LITERACY AND LIFELONG LEARNING
+
 ### 4.1 INTRODUCTION
 
-Literacy  and  continuing  education  form  the  basis  for  lifelong  learning  for  all  youths  and  adults between 15 and 45 years of age. Literacy enables them to engage in lifelong learning and contributes
+Literacy and continuing education form the basis for lifelong learning for all youths and adults between 15 and 45 years of age. Literacy enables them to engage in lifelong learning and contributes to developing their capabilities to sustain their livelihoods and participate in society.
 
-to developing their capabilities to sustain their livelihoods and participate in society. As part of lifelong learning, continuous and non-formal education caters for the need for literacy development and complements formal schooling. Current literacy initiatives comprise programmes for  basic,  post-literacy  and  income  generating  activities,  with  particular  focus  on  women.  For  the delivery  of  literacy  and  lifelong  learning  programmes,  Community Learning  Centres  (CLCs) have been employed as a major strategic intervention. The Plan, complementing the on-going National Literacy Campaign, focuses on post-literacy and continuing education. According to the 2001 Census,  only 10 million (i.e. 54%)  out  of  a  total population of 19  million people of six years of age and above are literate. The average literacy level of age 15+ population is 44 percent, 10 percent lower than that of 6+ population. The gender gap in literacy is as high as 22.6 percent  between  male  and  female  in  the  6+  population  (CBS,  2001).  The  Nepal  Demographic both  in  terms  of
+As part of lifelong learning, continuous and non-formal education caters for the need for literacy development and complements formal schooling. Current literacy initiatives comprise programmes for basic, post-literacy and income generating activities, with particular focus on women. For the delivery of literacy and lifelong learning programmes, Community Learning Centres (CLCs) have been employed as a major strategic intervention. The Plan, complementing the on-going National Literacy Campaign, focuses on post-literacy and continuing education.
 
-Health Survey 2 (NDHS, 2006) indicated a  steady improvement  in literacy rates 3 overall literacy and in terms of gender parity.
+According to the 2001 Census, only 10 million (i.e. 54%) out of a total population of 19 million people of six years of age and above are literate. The average literacy level of age 15+ population is 44 percent, 10 percent lower than that of 6+ population. The gender gap in literacy is as high as 22.6 percent between male and female in the 6+ population (CBS, 2001). The Nepal Demographic Health Survey² (NDHS, 2006) indicated a steady improvement in literacy rates³ both in terms of overall literacy and in terms of gender parity.
 
 The NDHS provides clear evidence that female literacy,  in particular, has a significant impact on other development indicators. It is a fact that literate mothers give birth to fewer children, that these children  are  more  likely  to  survive  and  that  literate  mothers  are  also  more  likely  to  enrol  their children, including  girl-children,  in  school than  are  illiterate  mothers.  In  addition,  literate  mothers tend to engage in economic activities from which the children, the family and the community can benefit. These findings clearly indicate that meeting the target of full enrolment in basic education by 2015 not only is  linked with the provision  of literacy  programmes to female  adults;  but  also that female literacy is linked with increased economic activity and improved livelihood.
 
@@ -1266,8 +1382,6 @@ The NDHS provides clear evidence that female literacy,  in particular, has a sig
 > 2 Nepal Demographic and Health Survey, 2006
 
 > 3 Refers to age group 15 -49
-
-## CHAPTER 4: LITERACY AND LIFELONG LEARNING
 
 28
 
@@ -1301,7 +1415,7 @@ School Sector Reform Plan 2009-15
 
  The Non-formal Education Policy4 focuses on decentralisation,  empowerment  and partnerships  with  the  private  sector  and  I/NGO's  as  strategies  to  achieve  goals  for  adult literacy.
 
- Literacy and lifelong  learning programmes will  be consolidated and  expanded utilising  the knowledge and experience of the partnerships at national and local levels for the attainment of EFA goals. Moreover, the local level planning will be strengthened for the literacy/ postliteracy and lifelong learning intervention.
+ Literacy and lifelong learning programmes will be consolidated and expanded utilising the knowledge and experience of the partnerships at national and local levels for the attainment of EFA goals. Moreover, the local level planning will be strengthened for the literacy/ post-literacy and lifelong learning intervention.
 
 > 4 Non Formal Education Policy 2063 (2007 AD), Government of Nepal, MOE, NFEC
 
@@ -1363,7 +1477,7 @@ It is estimated that a total budget of NPR 1127.5 million (US$ 14.094 million) w
 
 A  decentralised  framework  for  implementing  literacy  and  lifelong  learning  programmes  will  be adopted  in  order  to  enhance  community  support  and  participation.  Local  governments  will  be entrusted with the responsibility for overall planning and management functions, and will be made accountable for showing results. Each district will have clear targets for literacy under the SSR Plan.
 
-Graduates from the NFE literacy campaign will feed into the programme. Central, district and subdistrict level institutions will provide technical support with learning materials, training and adequate financing.
+Graduates from the NFE literacy campaign will feed into the programme. Central, district and sub-district level institutions will provide technical support with learning materials, training and adequate financing.
 
 #### Delivery Mechanism
 
@@ -1409,7 +1523,7 @@ Establish Community Learning Centres | DOE/NFEC/DEO/ Municipality/VDC/ Local Man
 Expand and consolidate Literacy and lifelong learning programmes | DOE/NFEC /DEO/Municipality/VDC | -DOE provides programme based on VEPs and DEPs -Co-ordination and partnerships with Governmental, private sector and I/NGO's | 2009/010
 Disseminate existing NFE policy for reinforcing partnership mechanism. | DOE and local governments, private sector and I/NGO's | Based on operational guideline | 2009/010
 Introduce and expand mother tongue literacy courses in local languages | DOE and local governments, private sector and I/NGO's | -DOE provides programme based on VEPs and DEPs -Co-ordination and partnerships with Governmental and private sector and I/NGO's | 2010/011
-Prepare DEPs and VEPs | DOE/NFEDEO/RC/Mu nicipality/VDC | Need identification and consultation with different level stakeholders and experts | 2009/010
+Prepare DEPs and VEPs | DOE/NFEDEO/RC/Municipality/VDC | Need identification and consultation with different level stakeholders and experts | 2009/010
 Develop and implement a standardised literacy test | NFEC/INGOs | Developing guidelines on literacy standardised test | 2011/012
 Baseline study/research and establishment of database | DOE/NFEC/DEO | Linking with DOE Flash system | 2009/010 to 10/011
 
@@ -1429,7 +1543,7 @@ In order to fulfil  the  local  needs  for  technical/skilled  human resources, 
 
 CTEVT carries out training courses through its constituent as well as affiliated institutions. The Skills  for  Employment Project is  also  in  operation,  aiming  at  providing  training  to 80,000 youths in the country. These programmes, currently not included in the SSR Plan, will continue to operate under the CTEVT arrangements.
 
-The SSR Plan provides policy directions for both general and vocational components in secondary  education  so  that  the  opportunities  for  skills  development  will  be  expanded across  the  country.  To  identify  appropriate  models  and  approaches,  this  plan  aims  at testing and piloting different schemes for soft-skills and intends to continue with the ongoing  programmes.  However,  the  SSR  fund  will  not  be  used  for  heavy  equipment  and construction in secondary schools. Based on the experiences gained and lessons learned from the pilot and testing, further expansion of TEVT will be worked out in secondary schools.
+The SSR Plan provides policy directions for both general and vocational components in secondary education so that the opportunities for skills development will be expanded across the country. To identify appropriate models and approaches, this plan aims at testing and piloting different schemes for soft-skills and intends to continue with the on-going programmes. However, the SSR fund will not be used for heavy equipment and construction in secondary schools. Based on the experiences gained and lessons learned from the pilot and testing, further expansion of TEVT will be worked out in secondary schools.
 
 ### 5.2 GOALS AND OBJECTIVE
 
@@ -1529,11 +1643,11 @@ The  Education  Policy  Committee  (EPC),  headed  by  the  Minister  for  Educa
 
 ### 5.9 IMPLEMENTATION MATRIX
 
-Activity (What?) | Responsible Agency (Who?) | How? | Timeline (when?)
+ | Activity (What?) | Responsible Agency (Who?) | How? | Timeline (when?)
 --- | --- | --- | --- | ---
 1 | -Integration of crafts and basic skills in grades 6 to 8 curricula | CDC | Curriculum revision | 2009/010
 2 | -Curriculum and supporting materials development for secondary school (for piloting) | CDC/ | Curriculum revision and support materials development | 2010/011
-3 | -Piloting/testing various vocational components in secondary education, -Developing non-formal apprenticeships programme for grades 9 and 10, -Introducing three learning tracks for grades 11 and 12 | CDC/DOE/C TEVT/HSEB / School | Piloting/testing of vocational curricula in selected schools | 2011/012
+3 | -Piloting/testing various vocational components in secondary education, -Developing non-formal apprenticeships programme for grades 9 and 10, -Introducing three learning tracks for grades 11 and 12 | CDC/DOE/CTEVT/HSEB/ School | Piloting/testing of vocational curricula in selected schools | 2011/012
 4 | -Teacher preparation and development | NCED/TITI | Developing appropriate training materials Conducting teacher training | 2009/10 2010/11
 
 36
@@ -1544,9 +1658,11 @@ Activity (What?) | Responsible Agency (Who?) | How? | Timeline (when?)
 
 School Sector Reform Plan 2009-15
 
+## CHAPTER 6: TEACHER PROFESSIONAL DEVELOPMENT
+
 ### 6.1 INTRODUCTION
 
-Currently  more  than  71  percent  of  the  primary  level  teachers  working  in  'approved positions' are fully trained. Similarly,  55 percent and 79 percent of lower secondary and secondary  teachers,  respectively,  have  also  been  trained  (Flash,  2008).  The  provision  of pre-service teacher training at the primary level was made through the privately established Teacher  Training  Centres,  whereas  at  the  lower-secondary  and  secondary  levels,  preservice teacher training is offered through university campuses (Faculty of Education) and Higher Secondary Schools (Education Stream).
+Currently more than 71 percent of the primary level teachers working in 'approved positions' are fully trained. Similarly, 55 percent and 79 percent of lower secondary and secondary teachers, respectively, have also been trained (Flash, 2008). The provision of pre-service teacher training at the primary level was made through the privately established Teacher Training Centres, whereas at the lower-secondary and secondary levels, pre-service teacher training is offered through university campuses (Faculty of Education) and Higher Secondary Schools (Education Stream).
 
 The  National  Centre  for  Educational  Development  (NCED)  is  conducting  certification and      recurrent  training  courses  for  primary  and  secondary  level  teachers  through Education Training Centres (ETCs) located at different places in the country and through other  allied  training-providers.  Completion  of  a  professional  teacher training  course  has been made mandatory prior to entering the teaching profession.
 
@@ -1562,8 +1678,6 @@ The SSRP has given a highest priority to teacher preparation and its development
 
  To enhance teachers' qualifications and professional competencies to better facilitate students learning processes.
 
-## CHAPTER 6: TEACHER PROFESSIONAL DEVELOPMENT
-
 37
 
 [[END OF PAGE 49]]
@@ -1576,7 +1690,7 @@ School Sector Reform Plan 2009-15
 
 #### Opportunities
 
- The institutional strength in terms of capacity, quality and its coverage throughout the country provides sustainable and cost-effective opportunities for pre-service  and  inservice teacher training and development.
+ The institutional strength in terms of capacity, quality and its coverage throughout the country provides sustainable and cost-effective opportunities for pre-service and in-service teacher training and development.
 
  Over  95  percent  of  the  primary  teachers  in  the  approved  positions  have  already received some form of certification training providing a sound basis for offering needs based short term modular courses targeted to enhance quality.
 
@@ -1632,9 +1746,9 @@ Incentive packages will be provided for teachers who opt for voluntary retiremen
 
 -Teaching  all  subjects  at  the  foundation  grades  (grades  1-3)  with options  for  specialisation  in  multi-grade  teaching  and  at  least  three subjects of the basic education (grades 4-8).
 
--Teaching at least two subjects at the secondary education (grades 912).
+-Teaching at least two subjects at the secondary education (grades 9-12).
 
--Provisions  will  be  made  to  prepare  specialised  teachers  for  multigrade classes and special needs education.
+-Provisions  will  be  made  to  prepare  specialised  teachers  for  multi-grade classes and special needs education.
 
 ##### Training of teachers and managers:
 
@@ -1668,11 +1782,11 @@ School Sector Reform Plan 2009-15
 
 #### Qualification upgrading programme
 
-The special grade 12 curriculum/education programmes will continue to be implemented providing  avenues  to  upgrade  qualifications  of  teachers  with  10-month  in-service/preservice  teacher  training.  The  training  institutions  will  have  an  incentive  to  prepare  good courses in order to compete and attract a share of this market. Similarly, the FOE (TU) will  continue  to  implement  the  Teacher  Preparation  Course  (TPC)  and  qualification upgrading programme, designed and developed under TEP, targeting both the pre-service and in-service teaching force.
+The special grade 12 curriculum/education programmes will continue to be implemented providing  avenues  to  upgrade  qualifications  of  teachers  with  10-month  in-service/pre-service  teacher  training.  The  training  institutions  will  have  an  incentive  to  prepare  good courses in order to compete and attract a share of this market. Similarly, the FOE (TU) will  continue  to  implement  the  Teacher  Preparation  Course  (TPC)  and  qualification upgrading programme, designed and developed under TEP, targeting both the pre-service and in-service teaching force.
 
 #### Backlog clearance of ongoing certification in-service training (10-month)
 
-The existing 10-month in-service teacher training will be continued to clear the backlog of all  untrained  teachers  over  1 st trimester  of  the  next  fiscal  year  (2066/67).  Some  10,000 teachers working at both the primary and secondary levels will be targeted.
+The existing 10-month in-service teacher training will be continued to clear the backlog of all  untrained  teachers  over  1st trimester  of  the  next  fiscal  year  (2066/67).  Some  10,000 teachers working at both the primary and secondary levels will be targeted.
 
 #### L/RC-Based demand driven short training
 
@@ -1727,9 +1841,9 @@ School Sector Reform Plan 2009-15
 Activity (What?) | Responsible Agency (Who?) | Strategies (How?) | Timeline (when?)
 --- | --- | --- | --- | ---
 1 | Implementation of the special qualification upgrading courses and Teacher Preparation Courses | FOE campuses Higher Secondary schools | The responsibility for participation in the course rests with the individual. Govt support for equitable access | On-going
-2 | Implementation of demand driven short courses | NCED/ETC: course development L/RC: course implementation; SMC: selection for training. | A variety of courses will be offered and SMC will choose among them. | On- going/start 2009/10
-3 | Implementation of leadership development courses | NCED: course development ETC: course implementation; | It will be a mixed-mode course including face-to-face and project based approaches. | On- going/start 2009/10
-4 | Monitoring and post- training support to the teachers | NCED: designing and implementing the system ERO: external review | Teacher forums will also be mobilised for teacher support. | On-going/ start 2009/10
+2 | Implementation of demand driven short courses | NCED/ETC: course development L/RC: course implementation; SMC: selection for training. | A variety of courses will be offered and SMC will choose among them. | On-going/start 2009/10
+3 | Implementation of leadership development courses | NCED: course development ETC: course implementation; | It will be a mixed-mode course including face-to-face and project based approaches. | On-going/start 2009/10
+4 | Monitoring and post-training support to the teachers | NCED: designing and implementing the system ERO: external review | Teacher forums will also be mobilised for teacher support. | On-going/ start 2009/10
 
 42
 
@@ -1738,6 +1852,8 @@ Activity (What?) | Responsible Agency (Who?) | Strategies (How?) | Timeline (whe
 [[START OF PAGE 55]]
 
 School Sector Reform Plan 2009-15
+
+## CHAPTER 7: CAPACITY DEVELOPMENT
 
 ### 7.1 INTRODUCTION
 
@@ -1765,8 +1881,6 @@ It  is  critical  to  assess  performance  gaps  in  the  delivery  of  educatio
 
 The  most  important  opportunity  lies  in  the  recognition  of  capacity  development  as  an essential  means  of  achieving  sustainable  improvements  in  public  service  delivery.  The Ministry has reiterated its full commitment to the on-going reforms in general, as well as the concepts and principles of Managing for Development Results (MfDR) in particular. It has approved the introduction and application of results-based management principles. By including  this  in  the  reform  agenda,  the  senior  management  has  endorsed  the  need  for
 
-## CHAPTER 7: CAPACITY DEVELOPMENT
-
 43
 
 [[END OF PAGE 55]]
@@ -1783,7 +1897,7 @@ A  decade  of  rapid  developments  within  the  field  of  ICT  offers  new  an
 
 ##### Technical Assistance (TA)
 
-As  the  Ministry develops a better understanding of where  critical and  persistent performance gaps exist in its service  delivery  system,  the  close  relationship the  Ministry enjoys  with  its  development  partners  represents  an  opportunity  to  use  TA  to  facilitate capacity development processes at systemic, organisational and individual levels. However, a more results-oriented approach to the procurement, fielding, management of and followup on TA is a requirement that in itself represents a small capacity development project.
+As  the  Ministry develops a better understanding of where  critical and  persistent performance gaps exist in its service  delivery  system,  the  close  relationship the  Ministry enjoys  with  its  development  partners  represents  an  opportunity  to  use  TA  to  facilitate capacity development processes at systemic, organisational and individual levels. However, a more results-oriented approach to the procurement, fielding, management of and follow-up on TA is a requirement that in itself represents a small capacity development project.
 
 ##### Professional organisations and institutional arrangements
 
@@ -1791,7 +1905,7 @@ Over  recent  years  the  Ministry  has  developed  professional  relations  wit
 
 ##### Institutionalization of evidence-based planning
 
-The  recent  analytical  work  carried  out  by  the  Department  of  Education  (DoE)  to understand  the  problems  at  school  level  and  their  causes  and  effects,  presents  an opportunity for the Ministry to better target its capacity development strategies. A bottomup  approach  where  school-level  service  delivery  standards  and  targets  are  set  and  then used as the basis of capacity development activities at higher levels is more likely to yield significant results. Information from the recent improvements in the planning process has been generated and consolidated in the EMIS.
+The  recent  analytical  work  carried  out  by  the  Department  of  Education  (DoE)  to understand  the  problems  at  school  level  and  their  causes  and  effects,  presents  an opportunity for the Ministry to better target its capacity development strategies. A bottom-up  approach  where  school-level  service  delivery  standards  and  targets  are  set  and  then used as the basis of capacity development activities at higher levels is more likely to yield significant results. Information from the recent improvements in the planning process has been generated and consolidated in the EMIS.
 
 #### Challenges
 
@@ -1807,7 +1921,7 @@ School Sector Reform Plan 2009-15
 
 The development of adequate systemic, agency-wise and individual capacities to facilitate a smooth transition from a grade 1-5 to a grade 1-8 system while continuously improving the quality of educational services and increasing learning achievements represents one of the most serious challenges over the coming plan period.
 
-The process of developing the MOE's capacity to gradually and continuously perform at a higher service levels is essential for a smooth transition during which repetition and dropout  rates  are  reduced  and  learning  achievements are  significantly  improved.  However,  it needs to be stressed that this process of establishing a baseline for capacity development, conducting a performance-gap analysis, and designing a results-oriented capacity development  plan  aimed  at  closing  these  performance  gaps  is  time-consuming  and requires full resourcing and commitment throughout the system, from teachers at the end of the service delivery chain to the top management.
+The process of developing the MOE's capacity to gradually and continuously perform at a higher service levels is essential for a smooth transition during which repetition and drop-out  rates  are  reduced  and  learning  achievements are  significantly  improved.  However,  it needs to be stressed that this process of establishing a baseline for capacity development, conducting a performance-gap analysis, and designing a results-oriented capacity development  plan  aimed  at  closing  these  performance  gaps  is  time-consuming  and requires full resourcing and commitment throughout the system, from teachers at the end of the service delivery chain to the top management.
 
 ### 7.4 POLICY DIRECTIONS
 
@@ -1867,7 +1981,7 @@ REDs will be responsible for monitoring early signs of impact of capacity develo
 
 Central  level  agencies  will  be  responsible  for  preparing  and  implementing  their  own results-based CD plan and for monitoring and reporting of progress and improvements in performance.
 
-The CD coordination mechanism in MOE will develop a framework and guidelines for the  school-level  and  agency-wise,  as  well  as  CD  plans  and  their  implementation.  This mechanism will facilitate the preparation and implementation of CD plans by providing agencies  with  access  to  technical  expertise,  knowledge  networks  and  financial  resources and  through  regular  meetings  to  establish  progress  and  identify  opportunities  for  interagency cooperation that could improve cost-effectiveness. This mechanism will also work on developing appropriate channels for receiving feedback from the clients on the service delivery system. Finally, the CD  coordination  mechanism  will  be  responsible  for compiling, summarising and preparing the MOE's annual capacity development report.
+The CD coordination mechanism in MOE will develop a framework and guidelines for the  school-level  and  agency-wise,  as  well  as  CD  plans  and  their  implementation.  This mechanism will facilitate the preparation and implementation of CD plans by providing agencies  with  access  to  technical  expertise,  knowledge  networks  and  financial  resources and  through  regular  meetings  to  establish  progress  and  identify  opportunities  for  inter-agency cooperation that could improve cost-effectiveness. This mechanism will also work on developing appropriate channels for receiving feedback from the clients on the service delivery system. Finally, the CD  coordination  mechanism  will  be  responsible  for compiling, summarising and preparing the MOE's annual capacity development report.
 
 ### 7.9 IMPLEMENTATION MATRIX
 
@@ -1889,7 +2003,7 @@ School Sector Reform Plan 2009-15
 SN | What? | Why? | Who? | How? | When?
 --- | --- | --- | --- | --- | ---
 5 | Provide necessary logistics (hardware and software) to organisation and individual | To perform the duties and responsibilities in expected standards | MOE/ DOE | Through purchasing from the markets | July 2009
-6 | Training, awareness, research activities and incentives | In order to enhance the capacity of the individual in the system | MOE and other instituti ons under the ministry | Identifying the needs of the organisations, institutions and individuals and prepare a CD plan to respond to their specific needs | July 2009
+6 | Training, awareness, research activities and incentives | In order to enhance the capacity of the individual in the system | MOE and other institutions under the ministry | Identifying the needs of the organisations, institutions and individuals and prepare a CD plan to respond to their specific needs | July 2009
 
 48
 
@@ -1898,6 +2012,8 @@ SN | What? | Why? | Who? | How? | When?
 [[START OF PAGE 61]]
 
 School Sector Reform Plan 2009-15
+
+## CHAPTER 8: MONITORING AND EVALUATION
 
 ### 8.1 INTRODUCTION
 
@@ -1924,8 +2040,6 @@ The M&E will focus on assessing the compliance with regulatory provisions, measu
 ### 8.4 KEY RESULTS AND MONITORING INDICATORS
 
 The M&E will utilise the key indicators (see table 1.1) and result framework (see annex 11) to monitor and evaluate programme interventions made under the SSR Plan.
-
-## CHAPTER 8: MONITORING AND EVALUATION
 
 49
 
@@ -1975,7 +2089,7 @@ Trimester Progress Report | Key Results and Objective | Trimester | DEO records 
 FMR | Input and key results | Trimester | DEOs | DOE, DEOs
 Commissioned research studies | Key Result, Objectives | As required | As determined by TOR | MOE and DOE
 National Studies on Learning Assessment | Objectives | Twice (in plan period) | As specified in TOR | MOE/ERO
-Evaluation of Model- building exercises | Key Results, Objectives | As required | As specified in TOR | MOE/DOE
+Evaluation of Model-building exercises | Key Results, Objectives | As required | As specified in TOR | MOE/DOE
 Mid-Term Evaluation | Theme or Log Frame level | Once (mid-term) | As specified in TOR | MOE
 End-of-Programme Evaluation | Theme or Log Frame level | Once (after completion) | As specified in TOR | MOE
 
@@ -2019,7 +2133,7 @@ The information from M&E will support the introduction of evidence-based plannin
 
 #### Information on Client Satisfaction
 
-The MOE, through the ERO, will consult all key stakeholders to identify the key data and information needed to raise performance levels and increase the cost-efficiency and costeffectiveness of the concerned service delivery agencies. Following this consultation, data collection and reporting formats as well as the structure, division of roles and responsibilities of the M&E system will be reviewed and updated to better meet the data and  information  needs  of  clients.  The  information  in  client  satisfaction  will  contribute towards developing a better understanding of how  clients value the educational programmes and services provided by the Ministry.
+The MOE, through the ERO, will consult all key stakeholders to identify the key data and information needed to raise performance levels and increase the cost-efficiency and cost-effectiveness of the concerned service delivery agencies. Following this consultation, data collection and reporting formats as well as the structure, division of roles and responsibilities of the M&E system will be reviewed and updated to better meet the data and  information  needs  of  clients.  The  information  in  client  satisfaction  will  contribute towards developing a better understanding of how  clients value the educational programmes and services provided by the Ministry.
 
 ### 8.6 INDICATIVE COST
 
@@ -2057,8 +2171,8 @@ In keeping with the government's decentralisation policy the above roles and res
 
 SN | What? | Why? | Who? | How? | When?
 --- | --- | --- | --- | --- | ---
-1 | Assess procedures and use of current planning, monitoring and management information system to improve service delivery | - to identify whether collected data and produced information meets the requirement of users in terms of relevance, timeliness, quality, and supports informed decision making at senior management levels. | MOE and DOE M&E sections | -structured questionnaires which will enable mapping out data and information produced by agency and users. | July- September, 2009
-2 | Prepare and implement plan to update M&E structures, roles and responsibilities | - to improve the relevance, use, cost-efficiency and cost- effectiveness of M&E services and products | MOE and DOE M&E sections | - Endorsement and resourcing of updating plan. | October, 2009
+1 | Assess procedures and use of current planning, monitoring and management information system to improve service delivery | - to identify whether collected data and produced information meets the requirement of users in terms of relevance, timeliness, quality, and supports informed decision making at senior management levels. | MOE and DOE M&E sections | -structured questionnaires which will enable mapping out data and information produced by agency and users. | July-September, 2009
+2 | Prepare and implement plan to update M&E structures, roles and responsibilities | - to improve the relevance, use, cost-efficiency and cost-effectiveness of M&E services and products | MOE and DOE M&E sections | - Endorsement and resourcing of updating plan. | October, 2009
 3 | a) Prepare SSRP M&E plan b) Implement SSRP M&E plan | - to ensure informed decision making at all levels, and contribute to increased transparency and accountability in the use of scarce public resources. | MOE and DOE M&E sections | - Consultations with senior managers and finance sections for resourcing. | November 2009 January 2010 onwards
 
 53
@@ -2068,6 +2182,8 @@ SN | What? | Why? | Who? | How? | When?
 [[START OF PAGE 66]]
 
 School Sector Reform Plan 2009-15
+
+## CHAPTER 9: FINANCING
 
 ### 9.1 BACKGROUND
 
@@ -2081,9 +2197,7 @@ The  SSR  Plan  introduces  areas  that  incur  costs,  in  addition  continuing
 
 Since the local governments are not fully functional, the current practices of governance, existing system of  management  and  resourcing will continue to operate for the implementation of the SSR programmes until local government units and agencies are fully operational.
 
-Improving  the  current  level  of  consumption  capacity  poses  a  challenge.  In  order  to improve  the  consumption  capacity,  performance  based  management  will  be  employed encouraging  local  participation  and  ownership.  Mandatory  provisions  of  social  audit  in schools and communities will be reinforced to improve transparency and accountability. Direct allocation of funds to VDCs through DDC for programmes such as literacy/neoliteracy  and  lifelong  learning,  ECED,  and  scholarships  will  ensure  timely  availability  of funds and implementation of activities.
-
-## CHAPTER 9: FINANCING
+Improving  the  current  level  of  consumption  capacity  poses  a  challenge.  In  order  to improve  the  consumption  capacity,  performance  based  management  will  be  employed encouraging  local  participation  and  ownership.  Mandatory  provisions  of  social  audit  in schools and communities will be reinforced to improve transparency and accountability. Direct allocation of funds to VDCs through DDC for programmes such as literacy/neo-literacy  and  lifelong  learning,  ECED,  and  scholarships  will  ensure  timely  availability  of funds and implementation of activities.
 
 54
 
@@ -2098,6 +2212,8 @@ Partnerships  and  mobilisation  of  locally  available  resources  for  the  de
 ### 9.2 FUNDING FOR SSR PLAN
 
 The likely estimates of funding from the GON are based on i) GDP estimates, ii) size of annual budgets as percent of estimated GDP, iii) share of the education sector in the total budget estimates, iv) shares of basic and primary, and secondary sub-sectors in the total education sector budget estimates. Three case scenarios were worked out to estimate the availability of government funding, based on GDP growth rates as high, medium and low. For financing SSR the medium case scenario with moderate growth rates has been used. The assumptions on GDP growth rate in three different scenarios is given below (Table 9.1).
+
+Table 9.1:  GDP and SSR budget share
 
 Fiscal Year
 --- | --- | --- | --- | --- | --- | ---
@@ -2122,8 +2238,6 @@ Total | 430.6 | 472.5 | 522.4 | 575.7 | 624.9 | 2626.0
 Gap (in terms of availability of budget and SSR plan and programme) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0
 Budget available from the fiscal framework but not costed in SSRP | 66.3 | 84.4 | 78.6 | 97.8 | 100.7 | 427.8
 
-Table 9.1:  GDP and SSR budget share
-
 55
 
 [[END OF PAGE 67]]
@@ -2146,6 +2260,8 @@ The fiscal frame estimates for the SSR Plan are made at current prices assuming 
 
 Table 9.2 presents programme development costs and recurrent costs for the SSR Plan interventions. It is estimated that US$ 2626 million will be required to implement the SSR Plan during five year period 2009/10 to 2013/14. Of the total requirements, on average about  539m  US$  is  estimated  to  be  required  for  development  programmes  and  2087m US$  will  be  required  for  recurrent  activities.  The  basis  for  estimation  of  unit  of expenditure and its cost is shown in Annex 9.1.
 
+Table 9.2:  SSR Plan budget (medium scenario)
+
 Fiscal Year | Five year
 --- | --- | --- | --- | --- | --- | ---
 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 09/10-13/14
@@ -2156,13 +2272,11 @@ Development (US$ m) | 89.67 | 96.73 | 108.10 | 119.91 | 125.01 | 539.42
 Recurrent (US$ m) | 340.93 | 375.74 | 414.27 | 455.75 | 499.90 | 2086.59
 Total (US$ m) | 430.61 | 472.47 | 522.37 | 575.66 | 624.91 | 2626.01
 
-Table 9.2:  SSR Plan budget (medium scenario)
-
 The  breakdown  of  development  and  recurrent  cost  by  component  and  the  basis  of  its estimation are provided in Annex 9.1.
 
 ### 9.4 SSR FINANCING PLAN
 
-Table  9.3  presents  the  SSR  financing  Plan.  It  is  estimated  that  the  Government  will finance, on an average, about 2002 million US$ of the total SSR Plan requirement over five years' plan period. The share of development partners will be, on an average, about 624 m US$ during the same period.
+Table  9.3  presents  the  SSR  financing  Plan.  It  is  estimated  that  the  Government  will finance, on an average, about 2002 million US$ of the total SSR Plan requirement over
 
 56
 
@@ -2172,6 +2286,10 @@ Table  9.3  presents  the  SSR  financing  Plan.  It  is  estimated  that  the  
 
 School Sector Reform Plan 2009-15
 
+five years' plan period. The share of development partners will be, on an average, about 624 m US$ during the same period.
+
+Table 9.3:  Sources of financing (US$ in million)
+
 Fiscal Year | Five year
 --- | --- | --- | --- | --- | --- | ---
 In US$ million | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 09/10-13/14
@@ -2180,20 +2298,18 @@ Development Partners | 120.0 | 122.4 | 124.8 | 127.3 | 129.9 | 624
 Other resources | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0
 Total | 430.6 | 472.5 | 522.4 | 575.7 | 624.9 | 2626.0
 
-Table 9.3:  Sources of financing (US$ in million)
-
 #### Contribution of development partners
 
 Development partners are expected to provide sector budget support grants channelled through  a  joint  financing  arrangement.  Budget  support  from  development  partners  is envisaged  through  predictable  bilateral  agreements  committed  to  the  red  book.  It  is envisaged that the average share of external funding in the total SSR Plan financing will be around 24 percent. Contributions from each will be articulated later in consultation with the DPs.
 
+Table 9.4:  Contribution of Development Partners (DPs) in %
+
 Fiscal Year | Five year
 --- | --- | --- | --- | --- | --- | ---
-09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 09/10- 13/14
+09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 09/10-13/14
 Government contribution | 72.1 | 74.1 | 76.1 | 77.9 | 79.2 | 76.2
 DPs contribution | 27.9 | 25.9 | 23.9 | 22.1 | 20.8 | 23.8
 Other | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
-
-Table 9.4:  Contribution of Development Partners (DPs) in %
 
 The  contributions from the DPs  will be utilised through joint and/or separate arrangements for testing/piloting and innovative activities as well as for research on SSR interventions  for  the  consolidation  and  expansion  in  a  gradual  and  phased  manner. Current pooling development partners for SSRP are ADB, AusAid, Denmark, European Union, DFID, Finland, Norway, UNICEF and World Bank.
 
@@ -2211,11 +2327,11 @@ School Sector Reform Plan 2009-15
 
 #### Contribution of I/NGOs
 
-I/NGO contribution will be utilised for specific development activities such as literacy/ neo-literacy,  ECED,  multilingual  education,  special  needs  education,  advocacy,  and capacity  development.  A  broader  framework  of  I/NGO  support  will  be  prepared  and MOU will be signed, requiring annual planning and review to acknowledge their support in  education  development.  I/NGOs  will  be  encouraged  to  focus  their  support  in  nonrecurrent  type  and  one-time  development  activities.  Those  that  are  currently  providing recurrent type support in education sector will be gradually reduced.
+I/NGO contribution will be utilised for specific development activities such as literacy/ neo-literacy,  ECED,  multilingual  education,  special  needs  education,  advocacy,  and capacity  development.  A  broader  framework  of  I/NGO  support  will  be  prepared  and MOU will be signed, requiring annual planning and review to acknowledge their support in  education  development.  I/NGOs  will  be  encouraged  to  focus  their  support  in  non-recurrent  type  and  one-time  development  activities.  Those  that  are  currently  providing recurrent type support in education sector will be gradually reduced.
 
 #### Contribution of communities
 
-While  there  is  no  well-defined  framework  for  promoting  or  implementing  community cost-sharing,  a  tradition  of  contribution  to  the  cost  of  education  has  been  established. Local communities contribute recurrent costs, and participate in school construction and rehabilitation activities with voluntary labour, materials and financial resources. Under the programme,  this  practice  will  have  to  be  continued  with  community  contributions  for recurrent  costs  and  cost  sharing  in  development  costs.  However,  for  transparency  in overall  national  investment  in  the  education  sector,  community  contribution  will  be budgeted and reported as co-financing inputs .
+While  there  is  no  well-defined  framework  for  promoting  or  implementing  community cost-sharing,  a  tradition  of  contribution  to  the  cost  of  education  has  been  established. Local communities contribute recurrent costs, and participate in school construction and rehabilitation activities with voluntary labour, materials and financial resources. Under the programme,  this  practice  will  have  to  be  continued  with  community  contributions  for recurrent  costs  and  cost  sharing  in  development  costs.  However,  for  transparency  in overall  national  investment  in  the  education  sector,  community  contribution  will  be budgeted and reported as co-financing inputs.
 
 #### Contribution of local bodies
 
@@ -2249,7 +2365,7 @@ The  Ministry  of  Education  will  make  a  provision  for  mobilising  the  Ru
 
 #### Block Grants
 
-The  block  grant  provided  by  the  Government  will  be  based  on  approved  criteria  with flexibility to allocate it in specified activities as per the identified needs of districts, schools and communities. However, the first priority for coverage under the block grant will be given to basic pre-requisites on the basis of norms and parameters determined by MOE. Additional funds will be allocated to districts, VDCs and schools based on performance criteria 5 .
+The  block  grant  provided  by  the  Government  will  be  based  on  approved  criteria  with flexibility to allocate it in specified activities as per the identified needs of districts, schools and communities. However, the first priority for coverage under the block grant will be given to basic pre-requisites on the basis of norms and parameters determined by MOE. Additional funds will be allocated to districts, VDCs and schools based on performance criteria5.
 
 #### School Improvement Plan (SIP)
 
@@ -2283,6 +2399,8 @@ A  comprehensive  capacity  development  plan  has  been  included  in  the  SSR
 
 School Sector Reform Plan 2009-15
 
+## CHAPTER 10: AID MANAGEMENT
+
 ### 10.1 INTRODUCTION
 
 The MOE has experienced a gradual but significant improvement in donor harmonisation and aid management since the Rome Declaration on Harmonisation in 2003 and the Paris Declaration  on  Aid  Effectiveness  in  2005.  The  Joint  Financing  Arrangement  (JFA)  of 2004 is an example of the evolving 'partnership spirit' that has led to an increase in the share of budget channelled through the Government system and for which national procedures are  the  basis  for  planning,  budgeting,  monitoring  and  reporting.  This  type  of  'basket' funding  represents  a  desirable  programmatic  funding  approach  that  has  significantly reduced  the  Ministry's  transaction  costs  and  has  provided  a  foundation  for  further improvement in the way aid is managed in the education sector.
@@ -2300,8 +2418,6 @@ In this chapter, two primary components are dealt with separately: harmonisation
 #### Objectives
 
  To improve the efficiency and effectiveness of aid available for SSRP implementation
-
-## CHAPTER 10: AID MANAGEMENT
 
 61
 
@@ -2323,9 +2439,9 @@ The National Action Plan for Harmonisation, endorsed by the NDF, represents a gu
 
 Learning from the EFA implementation processes, the Government intends to enhance the existing JFA by incorporating TA and DF facilities into a coherent structure, retaining flexibility for the use of resources within an agreed framework. These facilities have also been effective for responding to emerging needs and carrying out innovative activities to generate knowledge for the improvement and expansion of the programme. Recognising the proven potential of the TA and DF facilities, both the GON and DPs have agreed to utilise available resources and inputs in the best interest of the receiving side. Despite the visible  gains  and  improvements  in  harmonising  TA  and  DF  facilities  in  the  sector,  the Ministry has observed the following:
 
-- Ministry's  own  institutional,  organisational  and  human  capacities  are  limited  to manage  and  oversee  the  TA  and  direct  funding  facilities  that  are  in  operation across the sector.
+a. Ministry's  own  institutional,  organisational  and  human  capacities  are  limited  to manage  and  oversee  the  TA  and  direct  funding  facilities  that  are  in  operation across the sector.
 
-- Despite  DPs  good  intentions,  due  to  variations  in  operational  modalities  and stand-alone approaches, the outcomes of such interventions are not far reaching.
+b. Despite  DPs  good  intentions,  due  to  variations  in  operational  modalities  and stand-alone approaches, the outcomes of such interventions are not far reaching.
 
 62
 
@@ -2427,10 +2543,10 @@ School Sector Reform Plan 2009-15
 
 DPs through increasing the likely impact of resources | funding facilities and TA provisions through one joint Steering Committee.
 --- | --- | --- | --- | --- | ---
-2 | Endorse officially the new 'one-door- only' policy for donor-MOE contact and communication. | To reduce the time and human resources required to report to and maintain effective relationship with development partners, and to improve coordination and facilitate alignment of donor-support with MOE policies, plans, values and implementation structure. | Secretary | Through official letter, formally establishing FACS as the 'one-door-only' for contact and communication between MOE and development partners | July 2009 (Pre-plan activity)
+2 | Endorse officially the new “one-door-only” policy for donor-MOE contact and communication. | To reduce the time and human resources required to report to and maintain effective relationship with development partners, and to improve coordination and facilitate alignment of donor-support with MOE policies, plans, values and implementation structure. | Secretary | Through official letter, formally establishing FACS as the “one-door-only” for contact and communication between MOE and development partners | July 2009 (Pre-plan activity)
 3 | Establish and make functional a Joint Direct Funding Steering Committee and Direct Funding Secretariat | To reduce the MOE's cost of interacting with donors and administering Direct Funding facilities and TA provisions | Secretary and Development Partners Contact Point | Through preparation of agreement with key advanced development partners to use one SC with representation of DP contact point, the Secretary of MOE and heads of agencies | May to August 2009
 4 | Develop formal systems and procedures for agency requests for TA and for procurement, placement, support to and assessment of performance of TA | To increase the relevance, use, and potential impact of TA provisions | FACS | Through development of guidelines and formats for agencies requests for TA aligned with MOE agencies' capacity development needs and results framework; and for regularly assessing TA performance against capacity development goals. Develop a process for procuring TA with requesting agency through Joint Steering Committee | June to July 2009 (Pre-plan activity)
-5 | Update and publish the Code of Conduct with development partners | To increase the awareness of the 'one- door-only' policy and improve development partners' and MOE agencies' compliance with the Code of Conduct | FACS | Consultation with Development Partners, completion of the Code of Conduct, publication, and dissemination | August 2009
+5 | Update and publish the Code of Conduct with development partners | To increase the awareness of the ‘one-door-only’ policy and improve development partners’ and MOE agencies’ compliance with the Code of Conduct | FACS | Consultation with Development Partners, completion of the Code of Conduct, publication, and dissemination | August 2009
 6 | Conduct Joint Annual Consultations | To communicate status of progress of agreed plans and programmes, discuss | FACS | Through preparation and presentation of Status Reports and other documents, | Every year in December
 
 66
@@ -2443,8 +2559,8 @@ School Sector Reform Plan 2009-15
 
 implementation issues and agree to corrective actions - if necessary | such as the FMR , described in the JFA, and through preparation of Aide Memoires describing agreed action steps.,
 --- | --- | --- | --- | --- | ---
-7 | Conduct Joint Annual Reviews | To communicate and agree to plans and programmes for the coming years, agree on disbursements, and report on follow- up actions taken. | FACS | Through development and presentation of ASIP, FIM, and other agreed plans and documents; and the preparation of an Aide Memoire describing agreed points and action steps to be taken | Every year in April
-8 | Design and conduct independent reviews and evaluations | To contribute to the identification, documentation, and sharing of best practices and lessons learned; to inform and adjust on-going and future activities; to improve cost- efficiency and cost- effectiveness | FACS | Through the identification and agreement of areas for reviews/evaluations, the preparation of TOR and the procurement of service in consultation with Development Partners
+7 | Conduct Joint Annual Reviews | To communicate and agree to plans and programmes for the coming years, agree on disbursements, and report on follow-up actions taken. | FACS | Through development and presentation of ASIP, FIM, and other agreed plans and documents; and the preparation of an Aide Memoire describing agreed points and action steps to be taken | Every year in April
+8 | Design and conduct independent reviews and evaluations | To contribute to the identification, documentation, and sharing of best practices and lessons learned; to inform and adjust on-going and future activities; to improve cost-efficiency and cost-effectiveness | FACS | Through the identification and agreement of areas for reviews/evaluations, the preparation of TOR and the procurement of service in consultation with Development Partners
 9 | Formation of TA/DF Steering Committee | June 2009
 10 | Hiring TA/DF Coordinator | August 2009
 11 | TA/DF Secretariat is set-up | August 2009
@@ -2454,7 +2570,7 @@ The  Education  Sector  has  been  seen  as  a  role  model  for  aid  effective
 
 Therefore,  moving  towards  the  second  phase  of  EFA  under  the  SSR  framework,  the Ministry  of  Education  is  committed  to  adopting  the  experiences  of  the  Sector  Wide Approach  to  further align with the national Foreign Aid Policy and enable the development partners to adhere to the Paris declaration and Accra agenda for action.
 
-Drawing upon the past experiences, MOE would like to make JFA fully compatible with Governments' planning and reporting procedures. MOE and the line agencies recognise that individual donor requirements and management, as well as coordination of non-core interventions,  occupy  a  substantial  portion  of  time  and  attention,  which  can  better  be utilised through a coordinated approach.
+Drawing upon the past experiences, MOE would like to make JFA fully compatible with Governments' planning and reporting procedures. MOE and the line agencies recognise
 
 67
 
@@ -2464,7 +2580,9 @@ Drawing upon the past experiences, MOE would like to make JFA fully compatible w
 
 School Sector Reform Plan 2009-15
 
-Therefore, it is the intention of MOE to improve the framework of the JFA under SSR in order  to  strengthen  the  territories  of  the  partners  and  to  provide  a  framework  for  an efficient coordination focusing on results.
+that individual donor requirements and management, as well as coordination of non-core interventions, occupy a substantial portion of time and attention, which can better be utilised through a coordinated approach.
+
+Therefore, it is the intention of MOE to improve the framework of the JFA under SSR in order to strengthen the territories of the partners and to provide a framework for an efficient coordination focusing on results.
 
 The new JFA will embark on reporting requirements fully aligned in content, spirit and timelines  with  the Government system. Further, MOE will establish a liaison office for donor contact, which will serve as the entry point for donors during the appraisal process and education missions; FACS will fulfil this role on behalf of the Ministry of Education. It is also expected that the development partners in education will establish a liaison office, which will manage and coordinate all matters under the JFA framework, enabling a joint effective mechanism for coordination, particularly during the missions. The MOE and the donor liaison offices will deal with all day to day issues and be in charge of facilitating the annual reviews in cooperation with the Ministry of Finance and other line agencies. It is envisaged that the offices will conduct joint sharing meetings on a monthly basis, and local donor meetings on a bi-monthly basis.
 
@@ -2514,7 +2632,7 @@ School Sector Reform Plan 2009-15
 
 - Government  of  Nepal  (1999). Local  Self  Governance  Act. Kathmandu:  Ministry  of  Local Development.
 
-- Government  of  Nepal  (19990. Basic and Primary Education Programme: Master Plan . Kathmandu: Ministry of Education.
+- Government of Nepal (1999). Basic and Primary Education Programme: Master Plan. Kathmandu: Ministry of Education.
 
 - Government  of  Nepal  (2000). Local  Self  Governance  Regulations. Kathmandu:  Ministry  of Local Development.
 
@@ -2644,23 +2762,23 @@ The  ECED  Operational  Guidelines  prepared  by  the  Department  of  Education
 
 The  following  provides  some  reference  point  to  setting  the  norms  and  standards  for ECED  establishment  which  shall  be  verified  through  piloting  in  model  building districts.
 
-- One ECED in each community with households not less than 30-50 and/or a population of 4 year olds no less than 20.
+a. One ECED in each community with households not less than 30-50 and/or a population of 4 year olds no less than 20.
 
-- If  there  are  schools  in  the  community  and  that  it  is  within  10  minutes  of walking distance from the community, such schools shall receive priority to run an ECED.
+b. If there are schools in the community and that it is within 10 minutes of walking distance from the community, such schools shall receive priority to run an ECED.
 
-- Minimum enabling condition to run an ECED should include:
+c. Minimum enabling condition to run an ECED should include:
 
-- Within walking distance.
+i. Within walking distance.
 
-- Separate,  safe,  clean  and  tidy,  and  friendly  classroom  -  DOE  will develop a prototype.
+ii. Separate, safe, clean and tidy, and friendly classroom – DOE will develop a prototype.
 
-- Sufficient  educational  materials  enough  to  each  and  every  student enrolled - a list of such materials will be developed by DOE.
+iii. Sufficient educational materials enough to each and every student enrolled – a list of such materials will be developed by DOE.
 
-- Trained facilitator.
+iv. Trained facilitator.
 
-- Government will provide minimum enabling conditions for ECED such as facilitator's  service,  training  to  the  facilitator,  educational  materials,  and onetime  ECED  establishment  grant.  Other  costs  including  other  recurrent costs shall be shared through the community and NGOs.
+d. Government will provide minimum enabling conditions for ECED such as facilitator's service, training to the facilitator, educational materials, and onetime ECED establishment grant. Other costs including other recurrent costs shall be shared through the community and NGOs.
 
-- Request  for  ECEDs  must  meet  the  criteria  prior  to  seeking  its  approval. Registered  CBOs  and  schools  can  initiate,  on  their  own,  partnership  with locally based institutions, business house, and individuals to support ECED program and to meet the other conditions that should be met locally. Such partnerships must be verified and authenticated by the VDC/Municipality.
+e. Request for ECEDs must meet the criteria prior to seeking its approval. Registered CBOs and schools can initiate, on their own, partnership with locally based institutions, business house, and individuals to support ECED program and to meet the other conditions that should be met locally. Such partnerships must be verified and authenticated by the VDC/Municipality.
 
 73
 
@@ -2676,11 +2794,11 @@ School Sector Reform Plan
 
 To ensure  right  to  education  and  in  response  to  country's  geography  and  settlement patterns, schools will be offered with different grade combinations as sub-structure. At the  basic  education  level,  there  will  be  three  sub-structures  of  school: Foundation School with grades 1-3, Primary School with grades 1-5, and Upper Primary School with grades 1-8.
 
+Table 1.1: Number of schools with different combination of grades
+
 Grades | 1 | 1-2 | 1-3 | 1-4 | 1-5 | 1-6 | 1-7 | 1-8 | 6-7 | 6-8
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 # School | 218 | 483 | 4575 | 1163 | 12066 | 311 | 952 | 2104 | 4 | 8
-
-Table 1.1:  Number of schools with different combination of grades
 
 1-9 | 1-10 | 6-9 | 6-10 | 9-10 | 1-11 | 1-12 | 6-11 | 6-12 | 9-11 | 9-12 | 11-12
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2700,9 +2818,9 @@ The DEO in collaboration with the local government will develop its own norms an
 
 Schools that meet the minimum criteria shall be upgraded into the nearest stages. The criteria for extension include:
 
-- Extension of an existing school into a Foundation School (1-3) should have at least 100 students enrolled and/or at least 150 population in the age range of 5-7 years in the school community.
+a. Extension of an existing school into a Foundation School (1-3) should have at least 100 students enrolled and/or at least 150 population in the age range of 5-7 years in the school community.
 
-- Extension of an existing  school  into  a Primary School (1-5)  should  have  at  least 200 students enrolled and/or at least 250 population in the age range of 5-9 years in
+b. Extension of an existing school into a Primary School (1-5) should have at least 200 students enrolled and/or at least 250 population in the age range of 5-9 years in
 
 74
 
@@ -2716,11 +2834,11 @@ School Sector Reform Plan
 
 the  school  community, or there are 3 Foundation Schools in  the  radius  of  3  kilo meters  provide  consent  for  the  said  school  to  become  a  Primary  School  in  the community.
 
-- Extension of an existing school into an Upper Primary School (1-8) should have at least 300 students enrolled and/or at least 350 population in the age range of 5-12 years. or at least 3 Primary Schools in the radius of 5 kilo meters provide consent for the said school to become an Upper Primary school in the community.
+c. Extension of an existing school into an Upper Primary School (1-8) should have at least 300 students enrolled and/or at least 350 population in the age range of 5-12 years. or at least 3 Primary Schools in the radius of 5 kilo meters provide consent for the said school to become an Upper Primary school in the community.
 
-- In communities that do not meet the minimum population requirements even to run a  Foundation school,  multi-grade teaching  schools will  be  prescribed  to  run.  The local government, based on the minimum norms and in consultation with DEO and local  educators,  will  determine  schools  within  their  jurisdictions  that  may  costeffectively perform better as a multi-grade school.
+d. In communities that do not meet the minimum population requirements even to run a Foundation school, multi-grade teaching schools will be prescribed to run. The local government, based on the minimum norms and in consultation with DEO and local educators, will determine schools within their jurisdictions that may cost-effectively perform better as a multi-grade school.
 
-- SMC  of  the  school  in  question  will  have  several  options  to  chose,  such  as: integrating  with  nearby  school,  developing  to  function  as  an  alternative  and/or vocational  education  centre  in  the  community,  and  choosing  to  operate  as  multigrade school. Such school community will be encouraged to work with their local government to work out the best options.
+e. SMC of the school in question will have several options to chose, such as: integrating with nearby school, developing to function as an alternative and/or vocational education centre in the community, and choosing to operate as multi-grade school. Such school community will be encouraged to work with their local government to work out the best options.
 
 ##### Merging Schools
 
@@ -2730,21 +2848,21 @@ Schools  that  opt  to  merge  will  receive  special  package  of  support  fro
 
 Not all school can be eligible to merge. Identification of eligible schools to merge will be based on established norms and school mapping information.  Priority and eligibility criteria can include the following:
 
-- Two or more schools sharing compound walls
+a. Two or more schools sharing compound walls
 
-- Two  or  more  schools  located  within  walking  distance  of  not  more  than  30 minutes
+b. Two or more schools located within walking distance of not more than 30 minutes
 
-- Two  or  more  schools  located  closely  but  student  population  in  one  or  both schools is less than 100 for Foundation, less than 200 for Primary, and less than 300 for an Upper Primary level.
+c. Two or more schools located closely but student population in one or both schools is less than 100 for Foundation, less than 200 for Primary, and less than 300 for an Upper Primary level.
 
-- Two or  more  schools  located  closely  and  willing  to  merge  in  order  to  get  a higher level of school status.
+d. Two or more schools located closely and willing to merge in order to get a higher level of school status.
 
-- Two  or  more  schools  located  in  community  where  population  growth  is  in declining trend or a negative or no growth in future is predictable.
+e. Two or more schools located in community where population growth is in declining trend or a negative or no growth in future is predictable.
 
 ##### Downsizing of Schools
 
 Existing school that do not meet the criteria for extension nor is able to merge will have the following options:
 
-- An existing school that do not meet the criteria for extension into Foundation School can  opt  for  multi-grade  school  or  can  chose  to  develop  it  as  an
+a. An existing school that do not meet the criteria for extension into Foundation School can opt for multi-grade school or can chose to develop it as an
 
 75
 
@@ -2754,11 +2872,11 @@ Existing school that do not meet the criteria for extension nor is able to merge
 
 School Sector Reform Plan 2009-15
 
-- alternative education centre including an ECED centre in collaboration with the community and the local government.
+alternative education centre including an ECED centre in collaboration with the community and the local government.
 
-- An existing  school that does  not meet the criteria  for  extension  into Primary School can be downsized into a Foundation School. Such schools can opt to run as an extended arm of a nearby Primary School.
+b. An existing school that does not meet the criteria for extension into Primary School can be downsized into a Foundation School. Such schools can opt to run as an extended arm of a nearby Primary School.
 
-- An  existing  school  that  do  not  meet  the  criteria  for  extension  into Upper Primary School can be downsized into a Primary School and the school can opt to run as an extended arm of a nearby Upper Primary School.
+c. An existing school that do not meet the criteria for extension into Upper Primary School can be downsized into a Primary School and the school can opt to run as an extended arm of a nearby Upper Primary School.
 
 #### Existing Religious/Traditional Schools
 
@@ -2772,11 +2890,11 @@ A  high  level  committee  will  be  formed  at  the  district  level  to  study
 
 Based on the norms and using school mapping information DEO/ local government will approve location and level of school as Foundation , Primary or Upper Primary . No  school  shall  be  allowed  to  continue  with  fragmented  grades  anymore.  All schools  once  received  approval  from  the  local  government  must  run  all  the designated grades/level within prescribed time.
 
-- Foundation School (1-3) - at least one foundation school in each settlement with 30-40 or more households and/or 150-200 or more population or 100150 population in the age range of 5-7 years.  Since foundation schools are supposed to be  located  in  sparsely  populated  localities,  feasibility  of  multi grade teaching will be also tested in some schools.
+i. Foundation School (1-3) – at least one foundation school in each settlement with 30-40 or more households and/or 150-200 or more population or 100-150 population in the age range of 5-7 years. Since foundation schools are supposed to be located in sparsely populated localities, feasibility of multi grade teaching will be also tested in some schools.
 
-- Primary School (1-5) - at least one primary school in villages with 80-100 or more households and/or 400-500 or more population or 200-250 population in the age range of 5-9 years.
+ii. Primary School (1-5) – at least one primary school in villages with 80-100 or more households and/or 400-500 or more population or 200-250 population in the age range of 5-9 years.
 
-- Upper Primary School (1-8) - at least one upper primary school in villages with  150-200  or  more  households  and/or  800-1000  or  more  population  or 300-350 population in the age range of 5-13 years.
+iii. Upper Primary School (1-8) – at least one upper primary school in villages with 150-200 or more households and/or 800-1000 or more population or 300-350 population in the age range of 5-13 years.
 
 76
 
@@ -2786,7 +2904,7 @@ Based on the norms and using school mapping information DEO/ local government wi
 
 School Sector Reform Plan 2009-15
 
-- Multi-grade school (up to grade 3) - Communities with scattered population where possibility of population growth is minimal can be selected for Multigrade school.
+iv. Multi-grade school (up to grade 3) – Communities with scattered population where possibility of population growth is minimal can be selected for Multi-grade school.
 
 (Note:  The  norms  and  criteria  mentioned  above  with  a  range  are  to  address  the population  disparity  due  to  the  geography:  mountain,  hills  and  tarai.  It  must  be validated  locally through comprehensive information on characteristics of settlements and its population).
 
@@ -2816,23 +2934,23 @@ School Sector Reform Plan 2009-15
 
 In order to make entry from alternative modes of education to any grade in the formal education the following can be adopted in the model districts:
 
-- A  standardized  format  can  be  developed  to  conduct  qualifying  tests  for students who have received education through alternative modes of education  including  home  based  education  and  would  like  to  join  grades appropriate to their age and level of knowledge. The school upon satisfactory result must admit such student in appropriate grade.
+i) A standardized format can be developed to conduct qualifying tests for students who have received education through alternative modes of education including home based education and would like to join grades appropriate to their age and level of knowledge. The school upon satisfactory result must admit such student in appropriate grade.
 
 Schools  together  with  DEO,  local  CBOs,  NGOs  and  local  educators  can  develop intensive packages to cater various needs of the diverse population in the district. Such packages  can  be  accredited  to  qualify  as  equivalent  to  certain  level  or  grade  of education.    Development  of  these  packages  will  be  guided  by  the  principles  of mainstreaming out-of-school population and providing them opportunity to complete at least the basic education. Moreover, it will be also ensured that no one would be left behind  simply  because  the  school  is  not  convenient  for  some  people  due  to  other obligations.
 
 The following provides guideline for the operation of Alternative Education:
 
-- Using school mapping and other sources of information available locally, the DEO in collaboration with the local government, civil society and NGO/INGOs will plan the number and type of alternative education programs needed in the district.
+1. Using school mapping and other sources of information available locally, the DEO in collaboration with the local government, civil society and NGO/INGOs will plan the number and type of alternative education programs needed in the district.
 
-- In consultation with the DEO, local government can authorize (contract-out) locally based institutions such as NGOs including schools to run alternative education programs.
+2. In consultation with the DEO, local government can authorize (contract-out) locally based institutions such as NGOs including schools to run alternative education programs.
 
-- DEO will facilitate local government to seek partnership for resource sharing and will provide  technical support  including educational resources, training,  and facilitator's input.
+3. DEO will facilitate local government to seek partnership for resource sharing and will provide technical support including educational resources, training, and facilitator's input.
 
-- Following norms can be used to maximize efficiency of limited resources available:
+4. Following norms can be used to maximize efficiency of limited resources available:
 
-- Number of participants must be at least 15-25 in each centre
+a. Number of participants must be at least 15-25 in each centre
 
-- Education centre must be located conveniently for most participants.
+b. Education centre must be located conveniently for most participants.
 
 78
 
@@ -2864,7 +2982,7 @@ Existing  schools  should  develop  its  own  School  Improvement  Plan  to  mee
 
 ##### Provision of facilities and amenities
 
-Each school must have at least two separate toilets - one for girls and one for boys. In a Foundation School (1-3 grades) there must be at least 2 toilets one for girls and one for boys. In a primary school (1-5 grades), there must be at least 3 toilets of which at least one  must  be  allocated  for  girls.  The  SMC  may  decide  use  of  the  remaining  toilet depending  on  student  pressure.  Similarly,  in  an  Upper  Primary  School  (1-8  grades) there  must  be  at  least  5  toilets  of  which  at  least  two  must  be  allocated  for  the  girls. These toilets must also have adequate water supply including provision of detergent for cleaning. Each school must have its own source of potable water.
+Each school must have at least two separate toilets - one for girls and one for boys. In a Foundation School (1-3 grades) there must be at least 2 toilets one for girls and one for boys. In a primary school (1-5 grades), there must be at least 3 toilets of which at least one must be allocated for girls. The SMC may decide use of the remaining toilet
 
 79
 
@@ -2876,19 +2994,21 @@ School Sector Reform Plan
 
 2009-15
 
+depending on student pressure. Similarly, in an Upper Primary School (1-8 grades) there must be at least 5 toilets of which at least two must be allocated for the girls. These toilets must also have adequate water supply including provision of detergent for cleaning. Each school must have its own source of potable water.
+
 ##### Provision of classrooms and its size
 
 The provision of one separate classroom for each grade running in the school will be maintained. For example, in a foundation school with 1-3 grades there must be three separate classrooms for each grade. Classroom size should allow at least 1 square meter per student classrooms. The space for each student in the classroom will be at least 0.75 square  meters,  and  other  spaces  as  specified  in  the  school  design  prepared  by  the Department of Education.
 
 In order to run school effectively and efficiently the size of the school, depending on its type, shall not exceed the maximum number of students as prescribed below:
 
+Table 2.1 Minimum student per school
+
 School type | Minimum Student | Maximum Student
 --- | --- | ---
 Foundation (1-3) | 90 | 150
 Primary (1-5) | 150 | 250
 Upper Primary (1-8) | 250 | 400
-
-Table 2.1 Minimum student per school
 
 However, schools  with  student  population  more  than  maximum  number  must  obtain approval  from  its  local  authority  to  retain  such  numbers.  In  that  event  the  local authority must ensure that the school has (1) made provisions adequately and meets the minimum enabling condition to all students, and (2) that the school can cost effectively run with large student population.
 
@@ -2916,13 +3036,13 @@ School Sector Reform Plan
 
 A  maximum  teacher  student  ratio  of  1:40  will  be  maintained  across  all  geographic regions in the country. A teacher shall not be required to teach more than 40 students in a  class.  Per  capita  funding  will  be  provided  in  case  there  are  more  students than  the norm. School should  manage excess students with the per capita fund. However, the Plan's ultimate goal for meeting minimum teacher requirements for each school type, regardless of its student population, will be as follows:
 
+Table 2.2: The minimum number of teachers
+
 School type | Minimum teacher
 --- | ---
 Foundation (1-3) | 3
 Primary (1-5) | 6
 Upper Primary (1-8) | 10*
-
-Table 2.2: The minimum number of teachers
 
 *Including a separate head-teacher position
 
@@ -3014,7 +3134,7 @@ All teachers must have received teacher preparation course and in every five yea
 
 ##### Other qualification
 
-Teachers  are  also  required  to  have  basic  computer  skills  and  different  forms  of  life skills including skills to negotiate peace and reconciliation, coping and selfmanagement skills.
+Teachers are also required to have basic computer skills and different forms of life skills including skills to negotiate peace and reconciliation, coping and self-management skills.
 
 #### Head-teacher Management and Development
 
@@ -3024,7 +3144,7 @@ At the basic education level, in all Upper Primary Schools there should be one s
 
 ##### Head teacher selection
 
-At the local level an independent head-teacher recruitment committee with representatives  from  local  experts  and  stakeholders  can  be  formed  to  appoint  headteacher. The SMC will make the service contract with the selected head-teacher for a specified duration.
+At the local level an independent head-teacher recruitment committee with representatives from local experts and stakeholders can be formed to appoint head-teacher. The SMC will make the service contract with the selected head-teacher for a specified duration.
 
 ##### Selection process
 
@@ -3032,7 +3152,7 @@ Candidates  for  head-teacher  position  will  have  to  prepare  a  proposal  f
 
 ##### Responsibility
 
-Head-teachers  will  have  greater  roles  and  authority  in  technical  aspects  of  school management.    They  will  be  accountable  to  the  SMC  for  their  performance.    Headteachers  will  be  given  sufficient  authority  to  set  standards  and  appraise  teacher performance based on these standards.   The teaching workload for the head-teacher will be reduced to enable them to carry out management tasks.
+Head-teachers will have greater roles and authority in technical aspects of school management. They will be accountable to the SMC for their performance. Head-teachers will be given sufficient authority to set standards and appraise teacher performance based on these standards. The teaching workload for the head-teacher will be reduced to enable them to carry out management tasks.
 
 84
 
@@ -3044,7 +3164,7 @@ School Sector Reform Plan 2009-15
 
 ##### Applicability
 
-Provision of minimum qualification and eligibility criteria for headship is applicable to all  teachers  including  serving  head-teachers.  All  teachers  including  serving  headteachers with required qualification can become the candidate for head teacher position.
+Provision of minimum qualification and eligibility criteria for headship is applicable to all teachers including serving head-teachers. All teachers including serving head-teachers with required qualification can become the candidate for head teacher position.
 
 #### Certification and Examination System
 
@@ -3064,7 +3184,7 @@ In a situation when school cannot be opened for regular classes, SMC may seek su
 
 ##### Minimum teacher days/time in school/classroom
 
-Teacher in the regular payroll is a fulltime position in school. The teacher must spend at least 1000 teaching hours with students in the classroom and about 500 hours equivalent of non-teaching hours with the school management. Teacher's time in the classroom shall be determined, monitored and supervised by the head-teacher and the SMC jointly.  Teacher's non-teaching time shall be spent in schools' and/or self development works. This includes teacher's time frequently used in non-teaching activities such as participating in seminars, workshops, trainings, school management and administration, examination works and so forth. The SMC may also decide to use some of the teacher's non-teaching time in community mobilization and other local development works such as, support to run community learning centre, support to run non-formal classes, and support to run remedial and extracurricular activities.
+Teacher in the regular payroll is a fulltime position in school. The teacher must spend at least 1000 teaching hours with students in the classroom and about 500 hours equivalent of non-teaching hours with the school management. Teacher's time in the classroom shall be determined, monitored and supervised by the head-teacher and the SMC jointly. Teacher's non-teaching time shall be spent in schools' and/or self development works. This includes teacher's time frequently used in non-teaching activities such as participating in seminars, workshops, trainings, school management
 
 85
 
@@ -3076,6 +3196,8 @@ School Sector Reform Plan
 
 2009-15
 
+and administration, examination works and so forth. The SMC may also decide to use some of the teacher's non-teaching time in community mobilization and other local development works such as, support to run community learning centre, support to run non-formal classes, and support to run remedial and extracurricular activities.
+
 The SMC and the head-teacher must keep record of individual teacher's time spent on both teaching and non-teaching works. Teachers failed to spend minimum prescribed time in teaching and non-teaching works shall be subject to disciplinary action.
 
 The  SMC  can  decide  teacher  reward  packages  based  on  their  performance  both  in teaching and non-teaching activities.
@@ -3086,29 +3208,29 @@ The following can be used as reference for developing standards in key areas:
 
 ##### Standards 1: Curricular Standards
 
-- Curriculum  at  each  level  is  designed  by  determining  learning  outcomes  of concerned  level  and  they  are  further  elaborated  into  performance  standards  of students.
+a. Curriculum at each level is designed by determining learning outcomes of concerned level and they are further elaborated into performance standards of students.
 
-- Each  performance  standard  is  ensured  to  be  achieved  by  each  student  at  each level so that there will be no gap in students' knowledge regardless of their socioeconomic status, ethnicity, gender, locality etc.
+b. Each performance standard is ensured to be achieved by each student at each level so that there will be no gap in students' knowledge regardless of their socio-economic status, ethnicity, gender, locality etc.
 
-- Local curriculum is developed by local schools and/or local government to align local standards to national ones so that standard-based accountability system can work  properly.  (By  virtue  these  local  curricula  will  be  different  in  different context  but  by  aligning  them  into  the  national  standards  will  decrease  the knowledge gap of students regardless of the context)
+c. Local curriculum is developed by local schools and/or local government to align local standards to national ones so that standard-based accountability system can work properly. (By virtue these local curricula will be different in different context but by aligning them into the national standards will decrease the knowledge gap of students regardless of the context)
 
-- As level of classes go up vocational skills are provided to the students so that the level can  be  made self terminating. Attention  is given to provide opportunity to those who want to further join upper level of education after involving into some vocations for certain period.
+d. As level of classes go up vocational skills are provided to the students so that the level can be made self terminating. Attention is given to provide opportunity to those who want to further join upper level of education after involving into some vocations for certain period.
 
-- Subject  to  be  taught  in  different  levels  is  decided  according  to  local  contexts, national needs and international demands.
+e. Subject to be taught in different levels is decided according to local contexts, national needs and international demands.
 
-- National curricular decision is made by the CDC and local curriculum is decided by with the consultation to the local government like VDC, DDC or Municipality.
+f. National curricular decision is made by the CDC and local curriculum is decided by with the consultation to the local government like VDC, DDC or Municipality.
 
 ##### Standards 2: Teacher Standards
 
-- Minimum qualification of teachers for basic education is raised from SLC pass to grade 12 pass.
+a. Minimum qualification of teachers for basic education is raised from SLC pass to grade 12 pass.
 
-- Pre-service training and teaching license are mandatory prior to hiring people in teaching position.
+b. Pre-service training and teaching license are mandatory prior to hiring people in teaching position.
 
-- Quality  of  working  teachers  (permanent  or  temporary)  is  ensured  by  assessing their performance and providing them opportunity of professional development.
+c. Quality of working teachers (permanent or temporary) is ensured by assessing their performance and providing them opportunity of professional development.
 
-- Regularity of teacher in school and in classroom is monitored properly.
+d. Regularity of teacher in school and in classroom is monitored properly.
 
-- Teachers' time on task is approaching 100 percent.
+e. Teachers' time on task is approaching 100 percent.
 
 86
 
@@ -3120,61 +3242,61 @@ School Sector Reform Plan
 
 2009-15
 
-- It is ensured that teachers use proper instructional materials in class.
+f. It is ensured that teachers use proper instructional materials in class.
 
-- Teacher  is  made  accountable  that  their  students  receive  timely  feedback  to improve their performance.
+g. Teacher is made accountable that their students receive timely feedback to improve their performance.
 
-- Teacher  is  knowledgeable  in  the  mother  tongue  of  the  majority  of  students  in classroom.
+h. Teacher is knowledgeable in the mother tongue of the majority of students in classroom.
 
-- Teacher commitment is ensured through accountability system.
+i. Teacher commitment is ensured through accountability system.
 
 ##### Standards 3: Classroom Standards
 
-- In an average one child gets one meter square space in the classroom
+a. In an average one child gets one meter square space in the classroom
 
-- One class holds not more than 40 students.
+b. One class holds not more than 40 students.
 
-- Provision of enough light is made in each classroom
+c. Provision of enough light is made in each classroom
 
-- Ventilation of air is ensured in each class.
+d. Ventilation of air is ensured in each class.
 
-- Classroom is made friendly to students with special needs.
+e. Classroom is made friendly to students with special needs.
 
-- Classroom is suited for age level of students
+f. Classroom is suited for age level of students
 
-- Each class gets appropriate and child-friendly furniture which allows teachers for different activities into the classroom.
+g. Each class gets appropriate and child-friendly furniture which allows teachers for different activities into the classroom.
 
 ##### Standards 4: Assessment Standards
 
-- District level exam is conducted at the end of grade 8.
+a. District level exam is conducted at the end of grade 8.
 
-- Regional exam is conducted at the end of grade 10 (Existing SLC is replaced by this)
+b. Regional exam is conducted at the end of grade 10 (Existing SLC is replaced by this)
 
-- National exam is conducted at the end of grade 12.
+c. National exam is conducted at the end of grade 12.
 
-- Continuous assessment system is applied at all grade levels within the school and student evaluation record is kept properly.
+d. Continuous assessment system is applied at all grade levels within the school and student evaluation record is kept properly.
 
-- Summative evaluation is conducted at the end of each class.
+e. Summative evaluation is conducted at the end of each class.
 
-- A combination of formative and summative evaluation is used to assess students' performance of the year.
+f. A combination of formative and summative evaluation is used to assess students' performance of the year.
 
-- Subject teacher is made accountable for the progress of students in each subject
+g. Subject teacher is made accountable for the progress of students in each subject
 
-- Parents  are  regularly  informed  about  their  children's  performance  and  class teachers are made accountable to this.
+h. Parents are regularly informed about their children's performance and class teachers are made accountable to this.
 
-- Remedial sessions are conducted to weaker students so that their performance is made at par with other students in class; each subject teacher is made accountable to this.
+i. Remedial sessions are conducted to weaker students so that their performance is made at par with other students in class; each subject teacher is made accountable to this.
 
-- It is ensured that each student achieves at least 50 percent in each subject (instead of existing 32) in order to get promoted to the next grade.
+j. It is ensured that each student achieves at least 50 percent in each subject (instead of existing 32) in order to get promoted to the next grade.
 
 ##### Standards 5: Other Standards Relating to Quality
 
-- It is ensured that schools remain open at least for 220 days a year.
+a. It is ensured that schools remain open at least for 220 days a year.
 
-- Local  government  is  given  the  autonomy  of  deciding  academic  session  and  is made  accountable  for  running  the  school  to  220  days  a year instead of government prescribing same academic session to all ecological zones.
+b. Local government is given the autonomy of deciding academic session and is made accountable for running the school to 220 days a year instead of government prescribing same academic session to all ecological zones.
 
-- School is declared as zone of peace without any political disturbance throughout the academic year.
+c. School is declared as zone of peace without any political disturbance throughout the academic year.
 
-- Strict implementation of education law is ensured with effective monitoring and supervision system.
+d. Strict implementation of education law is ensured with effective monitoring and supervision system.
 
 87
 
@@ -3184,17 +3306,17 @@ School Sector Reform Plan
 
 School Sector Reform Plan 2009-15
 
-- Reward and punishment system is associated with accountability.
+e. Reward and punishment system is associated with accountability.
 
-- Grade teachers in lower level (1-5) and subject teachers for upper level (6-12) are managed.
+f. Grade teachers in lower level (1-5) and subject teachers for upper level (6-12) are managed.
 
-- Selection of head-teachers is made on the basis of leadership quality criteria.
+g. Selection of head-teachers is made on the basis of leadership quality criteria.
 
-- School is managed by local government is close consultation of the community.
+h. School is managed by local government is close consultation of the community.
 
-- Student regularity is ensured.
+i. Student regularity is ensured.
 
-- School management without duplicating what they are doing.
+j. School management without duplicating what they are doing.
 
 National  norm  for  school  physical  facilities  for  each  level  is  developed  and  local government is motivated to meet the standard.
 
@@ -3337,7 +3459,7 @@ School Sector Reform Plan 2009-15
 
  SMC will make performance contract with head teacher.
 
- Head  teacher  will  be  responsible  for  administrative  activities  like  overall financial  management,  management  and  evaluation  of  teaching  and  nonteaching staff, decide and maintain school calendar and daily school schedule, maintain school data and records, liaison with other agencies, set and maintain minimum  social  (code  of conduct  behavior, relationship, no corporal punishment to children, dress-up, language, no bad words, no arms, no fighting, no political activities, no graffiti, etc) and physical standard for school, maintain physical properties of school, etc.
+ Head teacher will be responsible for administrative activities like overall financial management, management and evaluation of teaching and non-teaching staff, decide and maintain school calendar and daily school schedule, maintain school data and records, liaison with other agencies, set and maintain minimum social (code of conduct – behavior, relationship, no corporal punishment to children, dress-up, language, no bad words, no arms, no fighting, no political activities, no graffiti, etc) and physical standard for school, maintain physical properties of school, etc.
 
  Head  teacher  will  be  responsible  for  developmental  activities  like  preparing Annual Implementation Plan on the basis of approved SIP,
 
@@ -3373,7 +3495,7 @@ supervision,  decide  on  content  and  structure  of  local  curriculum,  class
 
  Local  government  will  generate  resource  from  internal  and  external  sources  for expansion and development of quality education and training and will allocate and disburse the resource based on some criteria/formula.
 
- School will receive budget ceiling by local government for preparing SIP.  Staying within  the  budget  ceiling  as  well  as  considering  internal  resources  that  can  be generated by the school itself, school will prepare its SIP for the period of 20092015.  Mid-term assessment and revisiting of the Plan will be carried out in 2012.
+ School will receive budget ceiling by local government for preparing SIP. Staying within the budget ceiling as well as considering internal resources that can be generated by the school itself, school will prepare its SIP for the period of 2009-2015. Mid-term assessment and revisiting of the Plan will be carried out in 2012.
 
 93
 
@@ -3383,26 +3505,28 @@ supervision,  decide  on  content  and  structure  of  local  curriculum,  class
 
 School Sector Reform Plan 2009-15
 
+## ANNEX 8.1: SSRP M&E PLAN: TEMPLATES FOR FUTURE USE
+
 a) Goal Level
---- | --- | --- | --- | --- | --- | ---
-Information Requirements | Means of verification | Use of Information
-Indicators | Data Source | Frequency | Responsibility | Method | Reporting | Presentation
-- to contribute to Nepal's socio-economic development through a continuous development of its human resource capacity
-Assumptions:
-b) Purpose Level
-Information | Means of verification | Use of Information
-Requirements Indicators | Data Source | Frequency | Responsibility | Method | Reporting | Presentation
-Assumptions:
-c) Objective Level
 Information Requirements | Indicators | Means of verification | Use of Information
 Data Source | Frequency | Responsibility | Method | Reporting | Presentation
+- to contribute to Nepal's socio-economic development through a continuous development of its human resource capacity
 Assumptions:
-d) Key Results Level
+
+b) Purpose Level
 Information Requirements | Indicators | Means of verification | Use of Information
 Data Source | Frequency | Responsibility | Method | Reporting | Presentation
 Assumptions:
 
-## ANNEX 8.1: SSRP M&E PLAN: TEMPLATES FOR FUTURE USE
+c) Objective Level
+Information Requirements | Indicators | Means of verification | Use of Information
+Data Source | Frequency | Responsibility | Method | Reporting | Presentation
+Assumptions:
+
+d) Key Results Level
+Information Requirements | Indicators | Means of verification | Use of Information
+Data Source | Frequency | Responsibility | Method | Reporting | Presentation
+Assumptions:
 
 94
 
@@ -3418,13 +3542,13 @@ School Sector Reform Plan
 
 ### Existing Provisions: Structure, Composition and Mandates
 
-SSR  Core  Document  (2008)  states,  'The  overall  responsibility  for  providing  policy directions  and  guidelines  to  Ministry  of  Education  and  Sports  will  lie  with  the Education Policy Committee (EPC) headed by the Minister for Education and Sports for effective  implementation of the SSR. The EPC will draw on representatives  from the key  Ministries  and  institutions  involved  in  policy-planning,  management,  resourcing and service delivery of school education.'
+SSR Core Document (2008) states, “The overall responsibility for providing policy directions and guidelines to Ministry of Education and Sports will lie with the Education Policy Committee (EPC) headed by the Minister for Education and Sports for effective implementation of the SSR. The EPC will draw on representatives from the key Ministries and institutions involved in policy-planning, management, resourcing and service delivery of school education.”
 
-#### Purpose:
-To provide  institutional  framework for facilitating policy  coherence, policy coordination and policy review.
+#### 1. Purpose:
+To provide institutional framework for facilitating policy coherence, policy coordination and policy review.
 
-#### Establishment  and  composition:
-The  EPC  became  functional  following  a decision  by  the  Cabinet  in  2007.  The  composition  of  the  Committee  is  as follows:
+#### 2. Establishment and composition:
+The EPC became functional following a decision by the Cabinet in 2007. The composition of the Committee is as follows:
 
  It is a 13 member committee with Minister for Education in the Chair
 
@@ -3434,7 +3558,7 @@ The  EPC  became  functional  following  a decision  by  the  Cabinet  in  2007.
 
  Four educationists nominated by the Committee
 
-#### Mandates:
+#### 3. Mandates:
 The mandate of the Committee includes:
 
  To coordinate policy decisions in education sector
@@ -3451,7 +3575,7 @@ The mandate of the Committee includes:
 
 ### The Way Forward
 
-#### Institutionalizing EPC:
+#### 4. Institutionalizing EPC:
 It is imperative that EPC acquires sound legal basis for its efficient functioning. Also, there is a need to revisit the structure, composition and mandate of the Committee.
 
 ##### Structure  and  composition:
@@ -3544,6 +3668,8 @@ TOTAL | 7173.99 | 7738.69 | 8647.80 | 9592.40 | 10000.78 | 10825.55 | 11866.09 |
 
 School Sector Reform Plan 2009-15
 
+## Annex 9-3: Budget Share of Government and DPs
+
 USD in million | FIVE YEAR | SEVEN YEAR
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 BUDGET SHARE | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 | USD | % | USD | %
@@ -3556,8 +3682,6 @@ in % | 0.28 | 0.26 | 0.25 | 0.17 | 0.04 | 0.15 | 0.14
 Gap | 9.18 | 16.74 | 26.71 | 43.91 | 131.23 | 69.85 | 83.73 | 227.78 | 0.09 | 381.35 | 0.09
 IN % | 0.02 | 0.04 | 0.05 | 0.08 | 0.21 | 0.10 | 0.11
 
-## Annex 9-3: Budget Share of Government and DPs
-
 99
 
 [[END OF PAGE 111]]
@@ -3567,6 +3691,8 @@ IN % | 0.02 | 0.04 | 0.05 | 0.08 | 0.21 | 0.10 | 0.11
 School Sector Reform Plan
 
 2009-15
+
+## Annex 9-4: Component wise share of Total Development Budget
 
 In US$ million | FIVE YEAR | SEVEN YEAR
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -3582,8 +3708,6 @@ Monitoring and Evaluation | 6.10 | 6.54 | 8.39 | 8.87 | 9.31 | 9.71 | 9.92 | 39.
 Program Management | 1.33 | 1.43 | 1.60 | 1.77 | 1.85 | 2.00 | 2.19 | 7.97 | 1.48 | 12.16 | 1.48
 Total | 89.67 | 96.73 | 108.10 | 119.91 | 125.01 | 135.32 | 148.33 | 539.42 | 100 | 823.07 | 100.00
 
-## Annex 9-4: Component wise share of Total Development Budget
-
 100
 
 [[END OF PAGE 112]]
@@ -3592,16 +3716,16 @@ Total | 89.67 | 96.73 | 108.10 | 119.91 | 125.01 | 135.32 | 148.33 | 539.42 | 10
 
 School Sector Reform Plan 2009-15
 
+## ANNEX 11: SSRP LOGICAL FRAMEWORK MATRIX
+
+### Part 1: Summary of SSRP Logical Framework
+
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
 Goal: - To contribute to socio-economic development through a continuous development of its human resources capacity. | - Trends in average, median, maximum and minimum living standards. - Trends in productivity in economic sub- sectors - Trends in unemployment rates | - Population Census - Sample surveys (NLSS, NDHS) - Special studies - Economic surveys
 Purpose: - To facilitate that all citizens have opportunity to become functionally literate, numerate, and develop the basic life skills and knowledge required to enjoy a productive life. | - Literacy and numeracy rates - Average years of education per citizen | - Population Census - Sample surveys (NLSS, NDHS) - Special studies | - Children and adults make use of what they have learned to improve their economic activity (productivity) and standards of living.
 Objective 1: ECED - To expand access to quality ECED services for children of four years of age to prepare them for basic education. | - % of four years age population enrolled in ECED (EOP Target 87 %) - % of new entrants in grade one with at least one year ECED experience (EOP Target 64%) | - EMIS Flash Report - Yearly Sample survey by MOE | - ECED experience helps prepare children for Grade 1 and helps reduce drop-out and repetition rates
 Objective 2: Basic and Secondary Education 2.1 Basic Education - To ensure equitable access and quality basic education for all children in age group 5-12 | - NIR and GIR (EOP Targets 94 % and 130% respectively) - GER (EOP targets … % for Primary and 132 % for Basic education) - NER (EOP Targets 99 % for Primary and 85 % for Basic education) | - EMIS Flash Report - Periodic Sample Surveys and Studies - District level examination at grade 8 and periodic achievement tests in grades 3, 5, and 8. | - Children enrol in and complete basic education -
-
-### Part 1: Summary of SSRP Logical Framework
-
-## ANNEX 11: SSRP LOGICAL FRAMEWORK MATRIX
 
 101
 
@@ -3656,12 +3780,12 @@ School Sector Reform Plan
 
 2009-15
 
+### Part 2: Component-wise log Frames starting from objectives over Key Results, Strategic Interventions and Component Total Budget
+
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
 Goal: - To contribute to Nepal's socio-economic development through a continuous development of its human resources capacity. | - Trends in average, median, maximum and minimum living standards. - Trends in productivity in economic sub- sectors - Trends in unemployment rates | - Population Census - Sample surveys (NLSS, NDHS) - Special studies - Economic surveys
 SSR Purpose: - To ensure that all citizens are functionally literate, numerate, and possess the basic life skills and knowledge required to enjoy a productive life. | - Literacy and numeracy rates - Average years of education per citizen | - Population Census - Sample surveys (NLSS, NDHS) - Special studies | - Children and adults make use of what they have learned to improve their economic activity (productivity) and standards of living.
-
-### Part 2: Component-wise log Frames starting from objectives over Key Results, Strategic Interventions and Component Total Budget
 
 #### Objective 1: ECED
 
@@ -3683,7 +3807,7 @@ School Sector Reform Plan
 
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
-- Develop ECED operational guidelines - Initiate coordination arrangement among different ministries (MOE, MOLD, MOH, MOWCSW,) through the high level coordination committee at NPC - Facilitate the establishment of new functional ECED centres in un-served and under-served areas - Promote community-based ECED programs - Ensure government funding for four year children in ECED program - Employ mother tongue as a medium of interaction in ECED program - Use existing ECED guidelines for development of partnerships with non-government organizations, teacher unions, and civil society organizations, CBOs (e.g. Mothers' Group). - Develop and implement code of conduct for the protection of the integrity of all children, with particular focus on dalits, girls and marginalized populations. | USD: 62.87 million
+- Develop ECED operational guidelines - Initiate coordination arrangement among different ministries (MOE, MOLD, MOH, MOWCSW,) through the high level coordination committee at NPC - Facilitate the establishment of new functional ECED centres in un-served and under-served areas - Promote community-based ECED programs - Ensure government funding for four year children in ECED program - Employ mother tongue as a medium of interaction in ECED program - Use existing ECED guidelines for development of partnerships with non-government organizations, teacher unions, and civil society organizations, CBOs (e.g. Mothers' Group). - Develop and implement code of conduct for the protection of the integrity of all children, with particular focus on dalits, girls and marginalized populations. - Ensure state support for the social mobilization, establishment, operation and monitoring of ECED centers to disadvantaged areas and poverty pockets. | USD: 62.87 million
 
 #### Objective 2:
 
@@ -3692,7 +3816,7 @@ Intervention Logic | Verifiable Indicators | Source of Verification | Assumption
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
 Objective 2: Basic and Secondary Education 2.1 Basic Education - To ensure equitable access and quality basic education for all children in age group 5-12 | - NIR and GIR (EOP Targets 94 % and 130% respectively) - GER (EOP 132 % for Basic education) - NER (EOP Targets 99 % for Primary and 85 % for Basic education) - Gr. 8 survival rate (EOP target 66%) - Number of schools meeting MECs - % of grades 3, 5 and 8 completers achieving minimum learning | - EMIS Flash Report - Periodic Sample Surveys and Studies - District level examination at grade 8 and periodic achievement tests in grades 3, 5, and 8. | - Children enrol in and complete basic education
-Key Results: - Achieving 94% NIR at grade one and 66% survival rate at grade eignt | - Number of students received education through alternative provisions - Number of new classrooms constructed with MECs | - EMIS Flash Report - Report and periodic surveys - Annual Sample Surveys | - Schools are open and operate for a minimum of 220 days a year. - Development works is
+Key Results: - Achieving 94% NIR at grade one and 66% survival rate at grade eight | - Number of students received education through alternative provisions - Number of new classrooms constructed with MECs | - EMIS Flash Report - Report and periodic surveys - Annual Sample Surveys | - Schools are open and operate for a minimum of 220 days a year. - Development works is
 
 106
 
@@ -3716,8 +3840,9 @@ School Sector Reform Plan 2009-15
 
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
-- Number - Number of | disabled students receiving scholarships student receiving scholarships
-Strategic Interventions - Prepare a phased implementation plan to provide free and compulsory basic education by making necessary legislative provisions - Introduce incentive schemes to encourage local governments to adopt and declare basic education free and compulsory in their respective areas. - Extend alternative modes of education to cater to diverse learning needs. - Make provisions to strengthen and institutionalize traditional modes of education. - Adopt competency-based CAS from grade 1 to 7 to improve efficiency - Provide incentives to all dalit, 50% girls and other needy students to complete basic education. - Develop and implement provision of incentives to motivate schools to strive for better performance, - Apply affirmative actions to increase the number of teachers from disadvantaged groups, - Implement mandatory sanitary provisions for female teachers in school. - Develop minimum quality standards and norms, and ensure resource availability for schools to meet these standards - Develop and implement a code of conduct in schools to safeguard pro-poor, non-discriminatory, and non-punitive practices. - Encourage local government to introduce entitlement scheme. - Encourage correct-age children to enroll in school from the date of enactment of compulsory education law, - Develop and implement special provisions to cater to the needs of public school students in Karnali Zone, students from the Dalit communities and students with disabilities across the country, paying special attention to girls. - Facilitate timely preparation and implementation of SIPs and DEPs - Develop and facilitate the establishment of inclusive practices in schools | Component Input USD: 1992.41 million
+- Number disabled students receiving scholarships
+- Number of student receiving scholarships
+Strategic Interventions - Prepare a phased implementation plan to provide free and compulsory basic education by making necessary legislative provisions - Introduce incentive schemes to encourage local governments to adopt and declare basic education free and compulsory in their respective areas. - Extend alternative modes of education to cater to diverse learning needs. - Make provisions to strengthen and institutionalize traditional modes of education. - Adopt competency-based CAS from grade 1 to 7 to improve efficiency - Provide incentives to all dalit, 50% girls and other needy students to complete basic education. - Develop and implement provision of incentives to motivate schools to strive for better performance, - Apply affirmative actions to increase the number of teachers from disadvantaged groups, - Implement mandatory sanitary provisions for female teachers in school. - Develop minimum quality standards and norms, and ensure resource availability for schools to meet these standards - Develop and implement a code of conduct in schools to safeguard pro-poor, non-discriminatory, and non-punitive practices. - Encourage local government to introduce entitlement scheme. - Encourage correct-age children to enroll in school from the date of enactment of compulsory education law, - Develop and implement special provisions to cater to the needs of public school students in Karnali Zone, students from the Dalit communities and students with disabilities across the country, paying special attention to girls. - Facilitate timely preparation and implementation of SIPs and DEPs - Develop and facilitate the establishment of inclusive practices in schools - Develop a comprehensive policy on MLE | Component Input USD: 1992.41 million
 
 108
 
@@ -3746,7 +3871,7 @@ School Sector Reform Plan 2009-15
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
 - All Secondary level students received textbooks on time | - No. of students receiving scholarships
-Strategic Interventions: - Make provision of free secondary education gradually by 2012 - Introduce special incentive package to promote access, participation and completion of secondary education for the children from disadvantaged communities, - Promote partnership with private providers to safeguard access to secondary education - Expand alternative schooling programs to cater to the diverse needs with cost sharing basis - Introduce technical education and vocational training as a separate stream from grade 9 onwards - Provide remedial support to those students lagging behind in acquiring minimum learning achievements - Implement the affirmative actions focusing on disadvantaged groups, - Enact legislative provisions to safeguard equity in education, - Develop min. quality standards, Code of Conduct, and guidelines to help schools prepare and implement quality improvement plans to safeguard pro-poor, non- discriminatory, and non-punitive practices, - Introduce TEVT in secondary schools, including soft skills, for example, on a pilot basis and subsequent integration into school education - Implement comprehensive school mapping - Make teacher preparation course and refresher training mandatory, - Define and ensure minimum enabling conditions, - Provide SIP based funding to schools, - Make provision of a separate head-teachers' position in all secondary schools, - Constitute an NEB as a coordinating apex body, responsible for regulating and carrying out all public examinations, certification and accreditation functions for grades 8, 10 and 12, including TEVT certification | Component Input: USD: 483.79 million
+Strategic Interventions: - Make provision of free secondary education gradually by 2012 - Introduce special incentive package to promote access, participation and completion of secondary education for the children from disadvantaged communities, - Promote partnership with private providers to safeguard access to secondary education - Expand alternative schooling programs to cater to the diverse needs with cost sharing basis - Introduce technical education and vocational training as a separate stream from grade 9 onwards - Provide remedial support to those students lagging behind in acquiring minimum learning achievements - Implement the affirmative actions focusing on disadvantaged groups, - Enact legislative provisions to safeguard equity in education, - Develop min. quality standards, Code of Conduct, and guidelines to help schools prepare and implement quality improvement plans to safeguard pro-poor, non-discriminatory, and non-punitive practices, - Introduce TEVT in secondary schools, including soft skills, for example, on a pilot basis and subsequent integration into school education - Implement comprehensive school mapping - Make teacher preparation course and refresher training mandatory, - Define and ensure minimum enabling conditions, - Provide SIP based funding to schools, - Make provision of a separate head-teachers' position in all secondary schools, - Constitute an NEB as a coordinating apex body, responsible for regulating and carrying out all public examinations, certification and accreditation functions for grades 8, 10 and 12, including TEVT certification - Facilitate the preparation and implementation of SIPs and DEPs focusing on secondary education - Strengthen decentralized school management to improve transparency and accountability - Establish provision for contract between SMCs and Head Teachers, and assist schools entering contracts. | Component Input: USD: 483.79 million
 
 110
 
@@ -3756,13 +3881,13 @@ Strategic Interventions: - Make provision of free secondary education gradually 
 
 School Sector Reform Plan 2009-15
 
+#### Objective 3: Literacy and Life-long Learning (Continuing Education)
+
 Intervention Logic | Verifiable Indicators | Source of Verification | Assumptions
 --- | --- | --- | ---
 Objective 3: Literacy and Life-long Learning (Continuing Education) - To enhance functional literacy and basic competencies among youths and adults. | - No of graduates in literacy classes - % of population with functional literacy (EOP targets 85% for 6+ age group and 70% for 15+ age group) | - CBS Report - Functional Literacy Surveys (sample based) | - Beneficiaries capable of maintaining skills and use it for a more productive life
 Key Result 3: - Literates and neo-literates empowered and have access to information and skills with ability to make rational choices contributing to improved livelihoods. - Enhanced system capacity and institutional learning. - 1,050 CLCs established and operational - About 700,000 youths and adults attain life skills through literacy and continuing education - Mother tongue literacy courses in local languages (through CDC experience and resourcing) introduced. | - No. of CLCs operating - No of neo-adults completing post-literacy/ life-skills related continuing education | NFEC Report | - CLCs become fully functional - Effective partnership with local agencies/ communities in place
-Strategic Interventions: - Place emphasis on decentralization, empowerment and partnerships with private sector and I/NGO's to achieve goals of adult literacy and continuing education. - Incorporate literacy and life-long learning programs in existing DEPs and VEPs. - Respond to diversity needs of adults in regard to language, culture, life skills and income generating activities. - Develop and implement literacy programs through integrated approach comprising life skills and micro-credit schemes, targeting disadvantaged populations. - Provide lifelong learning opportunities through horizontal links with the formal systems and through locally managed CLC arrangement. - Implement Literacy and Lifelong Learning as a complementary to the National Literacy Campaign aimed at attaining the EFA and MDG goals on UPE/ literacy. - Render emphasis on targeted groups and areas including women, marginalized populations, dalits, endangered communities, internally displaced people, people with disability and people living with HIV/AIDs | Component Input: USD: 14.09 million
-
-#### Objective 3: Literacy and Life-long Learning (Continuing Education)
+Strategic Interventions: - Place emphasis on decentralization, empowerment and partnerships with private sector and I/NGO’s to achieve goals of adult literacy and continuing education. - Incorporate literacy and life-long learning programs in existing DEPs and VEPs. - Respond to diversity needs of adults in regard to language, culture, life skills and income generating activities. - Develop and implement literacy programs through integrated approach comprising life skills and micro-credit schemes, targeting disadvantaged populations. - Provide lifelong learning opportunities through horizontal links with the formal systems and through locally managed CLC arrangement. - Implement Literacy and Lifelong Learning as a complementary to the National Literacy Campaign aimed at attaining the EFA and MDG goals on UPE/ literacy. - Render emphasis on targeted groups and areas including women, marginalized populations, dalits, endangered communities, internally displaced people, people with disability and people living with HIV/AIDs - Make CLCs functional and align with local institutions - Develop networking with multi-sectoral service agencies | Component Input: USD: 14.09 million
 
 111
 
@@ -3794,7 +3919,7 @@ Intervention Logic | Verifiable Indicators | Source of Verification | Assumption
 --- | --- | --- | ---
 Objective 5 : Teacher Professional Development (TPD) - To enhance teachers' qualifications and professional competencies to better facilitate students learning processes. | - % of teachers with required qualification and training (EOP targets 88% and 93% for basic and secondary respectively) - % of teachers with required Certification (EOP targets 97% for both basic and secondary levels) | - EMIS Flash Reports - NCED progress reports | - Teachers motivated, able and willing to apply earned knowledge and skills in teaching situations.
 Key Result 5: Teacher Development - 750 master trainers trained and capable of conducting refresher training for teachers - All teachers' professional skills and knowledge updated through Teacher Preparation Courses and refresher training. - 4,050 head teachers completed certification training course - Competencies of 7,000 DAG candidates improved | - No. of trainers developed to conduct refresher training to teachers on different themes - % of teachers who are certified and meet minimum qualification requirements - % of teachers who have completed 1-year teacher preparation course and in-service training - % of HT who have completed management training | - NCED Report - - TMIS Report - - EMIS Report - Study Report
-Strategic Interventions: Qualification upgrading program : - Upgrading the minimum qualification to entry in to teaching service in basic education. - Provide opportunities to the working primary teachers to upgrade qualifications. - Backlog clearance of ongoing certification in-service training L/RC-Based demand driven short training - Develop and implement L/RC based demand driven short training including the provision for 'whole-school training' HT certification training - Develop and implement head-teacher certification training through NCED Monitoring and post-training support to the teachers - Implement the Teacher Support Mechanisms (TSM) developed under TEP - Strengthen school supervision and support system for teacher professional development. | Component Input: USD: 10.55 million
+Strategic Interventions: Qualification upgrading program : - Upgrading the minimum qualification to entry in to teaching service in basic education. - Provide opportunities to the working primary teachers to upgrade qualifications. - Backlog clearance of ongoing certification in-service training L/RC-Based demand driven short training - Develop and implement L/RC based demand driven short training including the provision for 'whole-school training' HT certification training - Develop and implement head-teacher certification training through NCED Monitoring and post-training support to the teachers - Implement the Teacher Support Mechanisms (TSM) developed under TEP - Strengthen school supervision and support system for teacher professional development. - Provide job induction training to novice teachers and officials, Develop the capacity of ETCs and LRCs | Component Input: USD: 10.55 million
 
 113
 
@@ -3810,7 +3935,7 @@ Intervention Logic | Verifiable Indicators | Source of Verification | Assumption
 --- | --- | --- | ---
 Objective 6: Capacity Development - To improve the performance of the MOE service delivery system and develop capacity to implement critical reforms. | - Timely delivery of relevant quality services that are valued and used by clients - Physical and financial progress measured as % implementation of annual targets and budget - % of service delivery agencies that have developed and implemented CD plan to close performance gaps. - Number of low performing schools that have been supported with development and completion of quality improvement programmes under SIP - Average number of days of Teacher attendance (EOP target 220 days) | - Capacity Development Evaluation Report, addressing user satisfaction with services - ERO agency-wise performance assessment reports - EMIS Flash - Status Report | - Improve performance and cost-efficiency will contribute to improved client satisfaction, reach and impact of educational services
 Key Result 6: - Enabling institutional framework developed through enactment of necessary Acts, rules and regulations, and guidelines. - Organizational mandates, structures, and relationships aligned contributing to improved performance. - Individual competence and working conditions enhanced contributing to improved performance through training, orientation, awareness, research activities and incentives. | - CD Plan completion report - Updated Organization Chart, mandate- and job descriptions in place - % of basic and secondary schools meeting MECs | - 6.1: CD Plan completion report - 6.2: Updated Organization Chart, mandate- and job descriptions in place - 6.3: EMIS Flash Report | - Improved capacity will result in improved service delivery and client satisfaction - Improved enabling conditions will lead to improvement in learning achievements.
-Strategic Interventions: - Develop a broad framework for capacity development and is reflect in the ASIP. - Prepare and implement capacity development plans - Establish a coordination mechanism in MoE to facilitate CD plans - Develop legal frameworks, including acts, regulations and implementation guidelines - Review and update mandates and TORs at institutional- , organizational- , unit- and individual levels. - Identify capacity gaps at all service delivery levels, prepare and implement capacity development plans - Assist DEOs in identifying the 5 lowest performing schools in each district each year, and in facilitating the preparation and implementation of these schools' quality | Component Input: USD: 21.14 million
+Strategic Interventions: - Develop a broad framework for capacity development and is reflect in the ASIP. - Prepare and implement capacity development plans - Establish a coordination mechanism in MoE to facilitate CD plans - Develop legal frameworks, including acts, regulations and implementation guidelines - Review and update mandates and TORs at institutional- , organizational- , unit- and individual levels. - Identify capacity gaps at all service delivery levels, prepare and implement capacity development plans - Assist DEOs in identifying the 5 lowest performing schools in each district each year, and in facilitating the preparation and implementation of these schools' quality improvement plans for meeting MECs by 2015/16 | Component Input: USD: 21.14 million
 
 114
 
@@ -3842,7 +3967,7 @@ Intervention Logic | Verifiable Indicators | Source of Verification | Assumption
 --- | --- | --- | ---
 Objective 8: Aid Management - To improve the efficiency and effectiveness of aid available for SSRP implementation | - % of physical and financial progress - % of development partners and of aid flows that use GoN's public financial management system - % of aid provided on program-based approach, consistent with the SSRP | - Aide Memoire - Status Reports - Progress Reports - FMR - Special studies
 - Key results - Improved alignment of development assistance with national priorities reducing tied aid - Improved coordination of Donors Capacity Development Support - Increased use of GoN's public procurement and financial management system - Improved predictability of aid - Increased use of the Joint Financing Arrangement (JFA) modality and Code of Conduct, promoting common arrangements and procedure
-Strategic Intervention: - Strengthen MoE's FACS and make it responsible as the point-of-entry for all foreign aid and DF/TA support made available by development partners, I/NGOs based on the Paris Declaration, Accra Agenda for Actions, JFA and the CoC - Constitute a Joint Steering Committee comprising of heads of the central level agencies and the donor contact point to improve the efficiency and effectiveness of direct funding and TA provisions. - Prepare a separate operational guideline for mobilizing TA/DF support | Component Input USD: 7.5 million
+Strategic Intervention: - Strengthen MoE's FACS and make it responsible as the point-of-entry for all foreign aid and DF/TA support made available by development partners, I/NGOs based on the Paris Declaration, Accra Agenda for Actions, JFA and the CoC - Constitute a Joint Steering Committee comprising of heads of the central level agencies and the donor contact point to improve the efficiency and effectiveness of direct funding and TA provisions. - Prepare a separate operational guideline for mobilizing TA/DF support - Monitor and review the current system of TA/DF implementation and produce progress reports | Component Input USD: 7.5 million
 
 116
 
