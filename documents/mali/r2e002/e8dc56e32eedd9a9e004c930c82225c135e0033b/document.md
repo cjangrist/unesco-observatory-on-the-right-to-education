@@ -1,18 +1,22 @@
 [[START OF PAGE 1]]
 
-MINISTERE DE L'EDUCATION NATIONALE ****************
+MINISTERE DE L'EDUCATION NATIONALE
+****************
 
-MINISTERE DE L'INNOVATION ET DE LA RECHERCHE SCIENTIFIQUE **************
+REPUBLIQUE DU MALI
 
-MINISTERE DE LA JEUNESSE, DE L'EMPLOI ET DE LA CONSTRUCTION CITOYENNE **************
+MINISTERE DE L'INNOVATION ET DE LA RECHERCHE SCIENTIFIQUE
+**************
 
-SECRETARIATS GENERAUX ****************
+MINISTERE DE LA JEUNESSE, DE L'EMPLOI ET DE LA CONSTRUCTION CITOYENNE
+**************
+
+SECRETARIATS GENERAUX
+****************
 
 # PROGRAMME DECENNAL DE DEVELOPPEMENT DE L'EDUCATION ET DE LA FORMATION PROFESSIONNELLE DEUXIEME GENERATION (PRODEC 2), 2019-2028
 
 12 mars 2019
-
-REPUBLIQUE DU MALI
 
 1
 
@@ -22,11 +26,88 @@ REPUBLIQUE DU MALI
 
 # TABLE DES MATIERES
 
+SIGLES ET ACRONYMES ................................................................................................ 6
+RESUME EXECUTIF ....................................................................................................... 9
+INTRODUCTION ........................................................................................................... 15
+I. CONTEXTE GLOBAL DE DEVELOPPEMENT DU PAYS ................................................ 15
+1.1. Présentation du Mali : un bref aperçu .................................................................. 15
+1.2. Contexte politique ................................................................................................ 16
+1.3. Contexte social ..................................................................................................... 17
+II. LE DIAGNOSTIC DU SECTEUR DE L'EDUCATION ET DE LA FORMATION PROFESSIONNELLE ..................................................................................................... 18
+2.1. SCOLARISATION ET EFFICACITE INTERNE ........................................................... 19
+2.1.1. Organisation générale du système éducatif malien .......................................... 19
+2.1.1.1. Education préscolaire .................................................................................... 19
+2.1.1.2. Enseignement fondamental ............................................................................ 19
+2.1.1.3. Enseignement secondaire ............................................................................... 19
+2.1.1.4. Enseignement normal ..................................................................................... 20
+2.1.1.5. Enseignement supérieur ................................................................................. 20
+2.1.1.6. Education non formelle .................................................................................. 20
+2.1.1.7. Formation professionnelle ............................................................................. 20
+2.1.1.8. Education spéciale .......................................................................................... 20
+2.1.2. Evolution de la couverture scolaire : ............................................................... 20
+2.1.3. Evolution des indicateurs de couverture : ........................................................ 23
+2.1.4. Défis au niveau de l'accès et de la rétention .................................................... 23
+2.1.5. Défis dans la gestion des flux d'élèves ............................................................. 24
+2.1.6. Enfants en âge d'être scolarisés hors de l'école. ............................................... 24
+2.1.7. Mise à disposition d'un cycle complet du fondamental afin d'améliorer la rétention. ...................................................................................................................... 25
+2.1.8. Amélioration de l'éducation non formelle. ........................................................ 25
+2.2. COUT ET FINANCEMENT DES SERVICES EDUCATIFS ............................................ 26
+2.2.1. Exécution budgétaire ......................................................................................... 26
+2.2.2. Financement extérieur ....................................................................................... 27
+2.2.3. Contribution des ménages au financement de l'éducation ............................... 27
+2.2.4. Inégale répartition intersectorielle des dépenses courantes publiques ........... 27
+2.2.5. Proportion de la rémunération sur les dépenses courantes publiques ............. 27
+2.2.6. Le personnel et la masse salariale par niveau d'enseignement ........................ 28
+2.3. QUALITE DE L'EDUCATION ET GESTION DU SYSTEME EDUCATIF ........................ 29
+2.3.1. Faible acquisition des élèves lors des évaluations ........................................... 29
+2.3.2. Faible niveau d'acquisition dans les évaluations internationales .................... 29
+2.3.3. Performances faibles dans les évaluations nationales ..................................... 29
+2.3.4. Faible niveau de réussite aux examens nationaux ............................................ 29
+2.3.5. Compétences non installées en écriture ............................................................ 30
+
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+2.3.6. Défis de l'amélioration de la qualité ................................................................. 30
+2.3.6.1. Indisponibilité des intrants logistiques .......................................................... 30
+2.3.6.2. Insuffisance des intrants pédagogiques ......................................................... 31
+2.3.7. Facteurs associés à un meilleur résultat d'apprentissage ................................ 31
+2.3.7.1. Défaillances dans l'allocation des moyens ..................................................... 32
+2.3.7.2.Des défaillances dans la transformation des moyens alloués en résultats d'apprentissage ............................................................................................................. 32
+2.4. EFFICACITE EXTERNE DU SYSTEME EDUCATIF ..................................................... 32
+2.4.1. Distribution de la population malienne selon le statut d'occupation ............... 33
+2.4.2. Insertion professionnelle des sortants du système éducatif malien. ................. 34
+2.4.3. Rentabilité de l'éducation .................................................................................. 35
+2.5. DISPARITES DANS L'ACCES A L'EDUCATION ET DANS LA DISTRIBUTION DES RESSOURCES PUBLIQUES D'EDUCATION ..................................................................... 35
+2.5.1. Accès à l'éducation : Les disparités à relever dans les différentes dimensions sociales. ......................................................................................................................... 35
+2.5.2. Autres disparités sociales à considérer : le cas des enfants à besoins spécifiques. ................................................................................................................... 37
+2.5.3. Disparités dans l'accès à l'éducation et distribution inégalitaire des ressources. .................................................................................................................... 37
+2.6. ENJEUX ET DEFIS DU SECTEUR ............................................................................. 38
+III. LA VISION ET LES PRINCIPES DIRECTEURS ........................................................... 40
+3.1. La vision : .............................................................................................................. 40
+3.2. Les principes directeurs : ..................................................................................... 40
+IV. AXES STRATEGIQUES ET PRINCIPALES REFORMES POLITIQUES .......................... 41
+V. OBJECTIFS ............................................................................................................... 42
+VI. LES PRINCIPALES ORIENTATIONS POLITIQUES DU SECTEUR ............................... 45
+6.1. La gestion des flux : .............................................................................................. 46
+6.1(a). La scolarisation accrue des enfants : ............................................................... 46
+6.1(b). La transition vers l'enseignement secondaire et la formation professionnelle : ................................................................................................................................. 47
+6.1(c). La transition vers l'enseignement supérieur : ................................................. 47
+6.1(d). La promotion des filières scientifiques et techniques : .................................. 47
+6.1(e). La rationalisation des dépenses : ..................................................................... 48
+6.1(f). L'information, la communication et la sensibilisation : ................................... 48
+6.2. La réduction des disparités et l'amélioration de l'équité : .................................. 48
+6.3. La gestion des enseignants (recrutement et allocation) ...................................... 49
+6.4. La réduction du redoublement : ........................................................................... 49
+6.5. Le curriculum bilingue de l'enseignement fondamental : .................................... 50
+6.6. La politique de décentralisation/déconcentration de l'éducation : ..................... 51
+6.7. La politique nationale du manuel scolaire et du matériel didactique : ............... 52
+VII. LES PROGRAMMES ................................................................................................ 52
+7.1. PROGRAMME N°1 : AMELIORATION DE L'EFFICACITE INTERNE ET EXTERNE DU SYSTEME EDUCATIF. ..................................................................................................... 52
+Objectif stratégique : Le programme vise principalement à améliorer le rendement interne du système, favoriser l'employabilité des jeunes et l'insertion socio-professionnelle des sortants. ......................................................................................................................... 52
 
 3
 
@@ -34,11 +115,71 @@ REPUBLIQUE DU MALI
 
 [[START OF PAGE 4]]
 
+7.1.1. Sous-programme 1.1. Amélioration de l'efficacité interne du système ............ 53
+7.1.2. Sous-programme 1.2. Amélioration de l'employabilité des jeunes et de l'insertion socio-professionnelle des sortants ............................................................. 57
+7.1.3. Sous-programme 1.3. Mise en place d'un Système d'évaluation et de contrôle qualité/certification des apprentissages ....................................................................... 58
+7.2. PROGRAMME N°2 : AMELIORATION DE LA FORMATION ET DE LA GESTION DES ENSEIGNANTS .............................................................................................................. 59
+Objectif stratégique : Le programme vise à mettre à la disposition du système éducatif des enseignants qualifiés et en nombre suffisant. ........................................................ 59
+7.2.1. Sous-programme 2.1. : Amélioration de la formation initiale des enseignants (niveau de recrutement, durée de formation, contenu de formation, etc.) .................. 59
+7.2.2. Sous-programme 2.2. Renforcement du dispositif de la formation continue du personnel enseignant (contrôle pédagogique, développement professionnel des enseignants, renforcement du dispositif d'encadrement de proximité des enseignants en cours d'emploi, renforcement des compétences des formateurs et des enseignants en poste) ........................................................................................................................ 61
+7.2.3. Sous-programme 2.3. Renforcement du dispositif de recrutement et de gestion des enseignants ............................................................................................................. 63
+7.3. PROGRAMME N°3 : PROMOTION DE L'ACCES EQUITABLE ET INCLUSIF A UNE EDUCATION DE QUALITE POUR TOUS ........................................................................ 65
+Objectif stratégique : Ce programme vise principalement à (i) renforcer les capacités d'accueil du système éducatif par la construction et/ou la réhabilitation et l'équipement d'infrastructures scolaires et universitaires, (ii) renforcer les capacités d'accueil de la formation professionnelle par la construction et/ou la réhabilitation de centres de formation professionnelle et leurs équipements. ........................................................ 65
+7.3.1. Sous-programme 3.1 : Renforcement des capacités d'accueil à tous les niveaux ...................................................................................................................................... 66
+7.3.2. Sous-programme 3.2 : Scolarisation des enfants hors école à travers le développement d'alternatives éducatives. ................................................................. 70
+7.3.3. Sous-programme 3.3 : Promotion de l'égalité et de l'équité d'accès à l'éducation pour tous. ...................................................................................................................... 71
+7.3.4. Sous-programme 3.4 : Intégration des écoles coraniques dans le système éducatif .......................................................................................................................... 72
+7.3.5. Sous-programme 3.5. : Promotion de l'éducation inclusive à tous les niveaux ...................................................................................................................................... 72
+7.3.6. Sous-programme 3.6. : Promotion de l'accès à l'éducation de base à travers des mesures spécifiques ...................................................................................................... 73
+7.4. PROGRAMME N°4 : RENFORCEMENT DE LA GOUVERNANCE DU SECTEUR ........ 74
+Objectif Stratégique : Assurer les conditions d'une gestion optimale des ressources humaines, matérielles et financières disponibles et mobilisables pour la mise en œuvre du nouveau programme .................................................................................................. 74
+7.4.1. Sous-programme 4.1. Amélioration de la coordination, du pilotage et du suivi du secteur de l'éducation et de la formation professionnelle : .................................... 74
+7.4.2. Sous-programme 4.2. Amélioration de la gestion des flux, des ressources humaines, financières et matérielles (y compris pédagogiques) ................................ 76
+7.4.3. Sous-programme 4.3. Renforcement de la sécurité, du partenariat, du dialogue social et de la communication au sein des départements en charge de l'éducation et de la formation professionnelle ......................................................................................... 80
+7.5. PROGRAMME N°5 : RENFORCEMENT DE LA RESILIENCE DU SECTEUR ............... 81
+Objectif stratégique : Améliorer le mécanisme de prévention et de gestion des risques et vulnérabilités face aux conflits et aux catastrophes naturelles. ............................... 81
+
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+7.5.1. Sous-programme 5.1. Evaluation de la résilience du secteur ........................... 82
+7.5.2. Sous-programme 5.2. : Elaboration et mise en œuvre d'un plan de contingence ...................................................................................................................................... 83
+VIII. CADRE DE SUIVI DES RESULTATS DES PROGRAMMES ......................................... 84
+IX. COUT ET FINANCEMENT DE LA STRATEGIE SECTORIELLE .................................... 92
+9.1. La mobilisation des ressources intérieures pour l'éducation et la formation professionnelle .............................................................................................................. 92
+9.2. Les dépenses courantes du PRODEC 2 .................................................................. 93
+9.3. Les dépenses d'investissement du PRODEC 2 ....................................................... 94
+9.4. Le coût total de la première phase du PRODEC 2 ................................................. 96
+9.5. La soutenabilité financière du PRODEC 2 ............................................................. 97
+9.6. Les financements extérieurs disponibles ............................................................. 98
+9.7. Les financements à rechercher ............................................................................. 99
+9.8. La contribution des Collectivités Territoriales au financement du programme .................................................................................................................................... 100
+9.9. La contribution des ménages au financement du système ................................. 100
+9.10. La contribution du secteur privé au financement du système ......................... 101
+X. MISE EN ŒUVRE ET MECANISMES DE SUIVI EVALUATION .................................... 103
+10.1. Modalités de mise en œuvre .............................................................................. 103
+10.1.1. La coordination stratégique ........................................................................... 103
+10.1.1.1. Le comité interministériel ........................................................................... 103
+10.1.1.2. Le comité de pilotage .................................................................................. 103
+10.1.1.3. Le secrétariat technique .............................................................................. 104
+10.1.1.4. Les comités de coordination des Collectivités Territoriales (CT) ............... 105
+10.1.2. Le dialogue politique et social ....................................................................... 105
+10.1.2.1. Le cadre partenarial .................................................................................... 105
+10.1.2.2. Les commissions thématiques ..................................................................... 105
+10.1.2.3. Le Conseil Supérieur de l'Education ........................................................... 106
+10.2. La mise en œuvre et le suivi-évaluation ........................................................... 106
+10.2.1. Les structures de mise en œuvre : ................................................................. 106
+10.2.2. Mécanisme de suivi-évaluation ...................................................................... 106
+XI. RISQUES ET MESURES D'ATTENUATION ............................................................... 107
+XII. CADRE LOGIQUE DU PROGRAMME : .................................................................... 115
+12.1. PROGRAMME 1 : AMELIORATION DE L'EFFICACITE INTERNE ET EXTERNE DU SYSTEME EDUCATIF. ................................................................................................... 115
+12.2. PROGRAMME 2 : AMELIORATION DE LA FORMATION ET DE LA GESTION DES ENSEIGNANTS ............................................................................................................ 123
+12.3. PROGRAMME 3 : PROMOTION DE L'ACCES EQUITABLE ET INCLUSIF A UNE EDUCATION DE QUALITE POUR TOUS ...................................................................... 129
+12.4. PROGRAMME 4 : RENFORCEMENT DE LA GOUVERNANCE DU SECTEUR ........ 139
+12.5. PROGRAMME 5 : RENFORCEMENT DE LA RESILIENCE DU SECTEUR ............... 151
 
 5
 
@@ -47,6 +188,8 @@ REPUBLIQUE DU MALI
 [[START OF PAGE 6]]
 
 # SIGLES ET ACRONYMES
+
+SIGLES ET ACRONYMES
 
 ABG | Appui budgétaire général
 --- | ---
@@ -69,7 +212,8 @@ BSI | Budget spécial investissement
 BT | Brevet de technicien
 CADDE | Cellule d'appui à la décentralisation/déconcentration de l'éducation
 CAF | Centre d'alphabétisation fonctionnelle
-CAFé CAP | Centre d'apprentissage féminin Centre d'animation pédagogique
+CAFé | Centre d'apprentissage féminin
+CAP | Centre d'animation pédagogique
 CAP | Certificat d'aptitude professionnelle
 CED | Centre d'éducation pour le développement
 CEDEAO | Communauté économique des Etats de l'Afrique de l'Ouest
@@ -85,16 +229,16 @@ CPS | Cellule de planification et de statistiques
 CQP | Certificat de Qualification Professionnelle
 CRLD | Centre de recherche et de lutte contre la drépanocytose
 CSP | Catégorie socioprofessionnelle
+CU | Coût unitaire
 DCVAE | Division de la certification et de la validation des acquis de l'expérience
 DEF | Diplôme d'études fondamentales
-Diplôme d'études universitaires générales
-DEUG
+DEUG | Diplôme d'études universitaires générales
 DGB | Direction générale du budget
 DNFP | Direction nationale de la formation professionnelle
 DNP | Direction nationale de la pédagogie
-DNP DNTCP | Direction nationale de la population Direction nationale du trésor et de la comptabilité publique
-Document de programmation pluriannuelle et projet annuel de
-DPPD-PAP | performance
+DNP | Direction nationale de la population
+DNTCP | Direction nationale du trésor et de la comptabilité publique
+DPPD-PAP | Document de programmation pluriannuelle et projet annuel de performance
 DRH | Direction des ressources humaines
 DUT | Diplôme universitaire de technologie
 EACI | Enquête agricole de conjecture intégrée
@@ -152,8 +296,8 @@ ONU | Organisation des Nations Unies
 PAPB | Plan d'actions pluriannuel budgétisé
 PASEC | Programme d'analyse des systèmes éducatifs de la CONFEMEN
 PIB | Produit intérieur brut
-PISE | Programme d'investissement pour le secteur
-PRODEC | de l'éducation Programme décennal de développement de l'éducation
+PISE | Programme d'investissement pour le secteur de l'éducation
+PRODEC | Programme décennal de développement de l'éducation
 PRODEFPE | Programme décennal de développement de la formation professionnelle pour l'emploi
 PTF | Partenaires techniques et financiers
 RAP | Rapport annuel de performance
@@ -249,7 +393,7 @@ Le cinquième chapitre traite  des  objectifs  du  nouveau  programme  décennal
 
 [[START OF PAGE 11]]
 
-(vi) Pour l'enseignement secondaire professionnel, le PRODEC 2 prévoit d'accroître l'offre de formation  en  développant  des  alternatives  crédibles  et  attractives  favorisant  l'autoentreprenariat et répondant aux besoins du marché du travail.
+(vi) Pour l'enseignement secondaire professionnel, le PRODEC 2 prévoit d'accroître l'offre de formation en développant des alternatives crédibles et attractives favorisant l'auto-entreprenariat et répondant aux besoins du marché du travail.
 
 (vii) Pour l'enseignement secondaire normal, le PRODEC 2 prévoit d'en améliorer l'efficacité et la qualité en tenant compte des besoins de formation initiale et continue des enseignants du préscolaire, du fondamental et de l'éducation non formelle ;
 
@@ -283,7 +427,7 @@ Il comprend trois (3) sous-programmes :
 
 (i) Sous-programme 1 : Amélioration de l'efficacité interne du système ;
 
-(ii) Sous-programme  2  :  Amélioration  de  l'employabilité  des  jeunes  et  de  l'insertion  socioprofessionnelle des sortants ;
+(ii) Sous-programme 2 : Amélioration de l'employabilité des jeunes et de l'insertion socio-professionnelle des sortants ;
 
 (iii) Sous-programme 3 : Mise en place d'un système d'évaluation et de contrôle qualité/certification des apprentissages.
 
@@ -447,7 +591,7 @@ Avec une superficie d'environ 1 241 238 km², et une population de 14 694 565 ha
 
 La densité moyenne de la population est estimée en 2009 à environ 12 habitants au km² au niveau national, elle varie fortement de près de 0,4 habitant au km² dans la région de Kidal à près de 7 400 habitants au km² dans le District de Bamako. Par ailleurs, les zones les plus en proie à la crise que le pays a connue (Kidal, Gao et Tombouctou) représentent près de deux tiers du territoire malien, mais ne sont peuplées que par 9% environ de la population. Atteindre toute la population scolarisable constitue donc un défi important pour le système, particulièrement dans ces zones très vastes et à densité très faible.
 
-Le Mali se caractérise par un climat à deux (2) saisons : une saison sèche (0ctobre-mai), comportant une  période  relativement  froide  (octobre-février),  et  une  saison  des  pluies  ou  hivernage  (juin  septembre). La température moyenne varie entre 24°C en janvier et 35°C en mai. Le relief se compose principalement de vastes plaines alluviales dominées par des plateaux calcaires et de grès. Près de deux tiers du territoire, situés dans la partie nord du pays sont désertiques.
+Le Mali se caractérise par un climat à deux (2) saisons : une saison sèche (0ctobre-mai), comportant une période relativement froide (octobre-février), et une saison des pluies ou hivernage (juin – septembre). La température moyenne varie entre 24°C en janvier et 35°C en mai. Le relief se compose principalement de vastes plaines alluviales dominées par des plateaux calcaires et de grès. Près de deux tiers du territoire, situés dans la partie nord du pays sont désertiques.
 
 L'organisation territoriale du Mali comprend trois niveaux : les régions, les cercles et les communes. Le pays  compte  actuellement  dix  régions  opérationnelles  (Kayes,  Koulikoro,  Sikasso,  Ségou,  Mopti, Tombouctou, Gao, Kidal, Ménaka et Taoudéni) et un district (Bamako). Neuf nouvelles régions sont en gestation  :  Nioro,  Kita,  Nara,  Dioïla,  Bougouni,  Koutiala,  San,  Bandiagara  et  Douentza.  Ces  régions regroupent au total 49 cercles, subdivisés en 703 communes dont 666 communes rurales. Ces différents niveaux de Collectivités Territoriales sont administrés librement par des assemblées ou des conseils élus, consacrant ainsi une forme de transfert de pouvoirs, mais aussi des compétences et des ressources, de l'Etat vers ces institutions locales. Cela constitue une grande avancée dans la décentralisation des services publics (y compris de l'éducation), à consolider, afin d'aboutir à une totale gestion et pilotage de l'action publique au niveau local.
 
@@ -577,7 +721,7 @@ En dehors des ordres et types d'enseignement ci-dessus décrits, il est importan
 
 #### 2.1.1.6. Education non formelle
 
-Elle s'intéresse aux jeunes non scolarisés ou déscolarisés de 9 à 15 ans et aux adultes analphabètes, à qui  il  est  proposé  des  formes  appropriées  d'éducation  permettant  d'assurer  leur  promotion  socioculturelle  et  économique.  Elle  est  dispensée  notamment  dans  les  Centres  d'Education  pour  le Développement (CED), les Centres d'Education pour l'Intégration (CEI), les Centres d'Alphabétisation Fonctionnelle (CAF), les Centres d'Apprentissage Féminin (CAFé).
+Elle s'intéresse aux jeunes non scolarisés ou déscolarisés de 9 à 15 ans et aux adultes analphabètes, à qui il est proposé des formes appropriées d'éducation permettant d'assurer leur promotion socio-culturelle et économique. Elle est dispensée notamment dans les Centres d'Education pour le Développement (CED), les Centres d'Education pour l'Intégration (CEI), les Centres d'Alphabétisation Fonctionnelle (CAF), les Centres d'Apprentissage Féminin (CAFé).
 
 #### 2.1.1.7. Formation professionnelle
 
@@ -603,11 +747,11 @@ Dans l'éducation préscolaire, les effectifs ont plus que quadruplé en passant
 
 En  ce  qui  concerne  l'enseignement  fondamental  1 er   cycle, les  effectifs  ont doublé en  passant d'environ  1  015  000  élèves  en  1999-00  à  2  352  000  élèves  en  2015-16.  Cela  correspond  à  un accroissement annuel moyen de 5,4% sur la période. A l'opposé du préscolaire, l'évolution dans le 1 er cycle du fondamental a été relativement plus importante dans le privé. La part du privé dans les effectifs scolarisés  a  ainsi  évolué  progressivement  de  8,1%  en  1999-00  à  près  de  14,7%  en  20015-16. L'évolution a été également importante dans les médersas, les effectifs ayant été multipliés quasiment par 5 sur la période, soit un taux d'accroissement de 11% par an et supérieur au 5,4% de l'ensemble du 1 er  cycle du fondamental.
 
-Dans l'enseignement fondamental 2 nd  cycle , les effectifs scolarisés ont été multipliés par 4 en passant d'environ 167 000 élèves en 1999-00 à 685 000 élèves en 2015-16, soit un accroissement annuel moyen de 9,2% sur la période. De la même manière que le 1 er  cycle du fondamental, l'augmentation des effectifs dans le 2 nd  cycle a été relativement plus importante dans le privé. La part du privé dans les effectifs scolarisés, de 7,3% seulement en 1999-00 est ainsi montée progressivement jusqu'à 19,4% en 201516.
+Dans l'enseignement fondamental 2 nd cycle, les effectifs scolarisés ont été multipliés par 4 en passant d'environ 167 000 élèves en 1999-00 à 685 000 élèves en 2015-16, soit un accroissement annuel moyen de 9,2% sur la période. De la même manière que le 1 er cycle du fondamental, l'augmentation des effectifs dans le 2 nd cycle a été relativement plus importante dans le privé. La part du privé dans les effectifs scolarisés, de 7,3% seulement en 1999-00 est ainsi montée progressivement jusqu'à 19,4% en 2015-16.
 
 En ce qui concerne le secondaire général , les effectifs scolarisés ont été également multipliés par 4 en passant d'environ 53 000 élèves en 1999-00 à 197 000 élèves en 2015-16, ce qui correspond à un accroissement annuel moyen de 8,6% sur la période. De même, l'augmentation des effectifs dans le secondaire général a été relativement plus importante dans le privé. La part du privé dans les effectifs scolarisés a ainsi évolué progressivement de 25,2% en 1999-00 à près de 60,6% en 2015-16. Cette évolution doit toutefois être nuancée puisque l'Etat oriente une bonne partie de ses effectifs dans le privé.
 
-Les effectifs scolarisés constatés dans le secondaire technique et professionnel pour la période 20092016 ont quasiment doublé en passant d'environ 66 000 élèves en 2008-09 à 120 000 élèves en 201516,  ce  qui  correspond  à  un  taux  d'accroissement  annuel  moyen  de  8,9%  sur  la  période.  Cette augmentation  s'est  opérée  surtout  en  faveur  du  public  même  si  la  part  du  privé  reste  encore prépondérante avec 71,2% en 2015-16. Cette prédominance doit par ailleurs prendre en compte le fait que l'Etat oriente une partie de ses effectifs dans le privé.
+Les effectifs scolarisés constatés dans le secondaire technique et professionnel pour la période 2009-2016 ont quasiment doublé en passant d'environ 66 000 élèves en 2008-09 à 120 000 élèves en 2015-16, ce qui correspond à un taux d'accroissement annuel moyen de 8,9% sur la période. Cette augmentation s'est opérée surtout en faveur du public même si la part du privé reste encore prépondérante avec 71,2% en 2015-16. Cette prédominance doit par ailleurs prendre en compte le fait que l'Etat oriente une partie de ses effectifs dans le privé.
 
 Les filières associées au secteur tertiaire semblent attirer relativement plus d'élèves que les filières industrielles , même si une inversion des tendances est nettement perceptible au cours des dernières années.  Le défi est de s'assurer que ces tendances sont cohérentes avec les besoins prospectifs de l'économie nationale.
 
@@ -635,7 +779,7 @@ Cette situation reste toutefois très partielle, puisqu'elle ne considère pas l
 
 Les  effectifs  d'apprenants/auditeurs  pris  en  charge  par  l'éducation  non  formelle  présentent, contrairement aux autres niveaux d'enseignement et de formation, une tendance à la baisse . En effet, ils ont été quasiment réduits de moitié, en passant d'environ 166 000 en 1999-2000 à près de 95 000 en 2015-16.
 
-Finalement,  à  l'exception  de  l'éducation  non  formelle,  les  effectifs  couverts  par  les  dispositifs d'enseignement  ou  de  formation  ont  cr0000û  d'une  manière  générale  dans  l'ensemble  du  système éducatif, mais à des degrés divers.
+Finalement, à l'exception de l'éducation non formelle, les effectifs couverts par les dispositifs d'enseignement ou de formation ont crû d'une manière générale dans l'ensemble du système éducatif, mais à des degrés divers.
 
 On retiendra que si une dynamique positive globale s'observe dans l'évolution de la couverture scolaire, cette dynamique reste encore loin des attentes par rapport à la population scolarisable, du fait de la crise sécuritaire, politique et institutionnelle que le pays a traversée à partir de 2012.
 
@@ -737,7 +881,7 @@ En ce qui concerne la production effective des compétences durables d'alphabét
 
 ## 2.2. COUT ET FINANCEMENT DES SERVICES EDUCATIFS
 
-L'Etat  malien  a  maintenu  une  priorité  budgétaire  pour  l'éducation  malgré  la  crise  politicoinstitutionnelle qui a secoué le pays au cours des dernières années. 32,6% des dépenses courantes totales  de l'Etat ont été alloués au secteur de l'éducation en 2015. Cette part est d'environ 30% en moyenne sur les 5 dernières années.
+L'Etat  malien  a  maintenu  une  priorité  budgétaire  pour  l'éducation  malgré  la  crise  politico-institutionnelle qui a secoué le pays au cours des dernières années. 32,6% des dépenses courantes totales  de l'Etat ont été alloués au secteur de l'éducation en 2015. Cette part est d'environ 30% en moyenne sur les 5 dernières années.
 
 ### 2.2.1. Exécution budgétaire
 
@@ -791,7 +935,7 @@ La  rémunération  du  personnel  (enseignant  et  non  enseignant)  consomme  
 
 [[START OF PAGE 28]]
 
-En se référant à l'analyse sectorielle, on s'aperçoit que le secteur de l'éducation employait en 2015 environ 73 297 agents rémunérés ou subventionnés sur le budget de l'Etat. Parmi ceux-ci, 64 101 (soit 87,4% des effectifs totaux) sont des « enseignants à la craie », 886 (soit 1,2% des effectifs) sont des nonenseignants  composés  essentiellement  de  personnel  administratif  et  d'appui  exerçant  dans  les établissements. Le reste est composé de 1174 personnel des services administratifs au niveau central et  6536  agents  de  services  déconcentrés  (y  compris  les  Collectivités  Territoriales)  correspondant respectivement à 2,5% et 9,2% de l'ensemble du personnel.
+En se référant à l'analyse sectorielle, on s'aperçoit que le secteur de l'éducation employait en 2015 environ 73 297 agents rémunérés ou subventionnés sur le budget de l'Etat. Parmi ceux-ci, 64 101 (soit 87,4% des effectifs totaux) sont des « enseignants à la craie », 886 (soit 1,2% des effectifs) sont des non-enseignants  composés  essentiellement  de  personnel  administratif  et  d'appui  exerçant  dans  les établissements. Le reste est composé de 1 774 personnel des services administratifs au niveau central et  6 536  agents  de  services  déconcentrés  (y  compris  les  Collectivités  Territoriales)  correspondant respectivement à 2,5% et 9,2% de l'ensemble du personnel.
 
 ### 2.2.6. Le personnel et la masse salariale par niveau d'enseignement
 
@@ -823,7 +967,7 @@ Il ressort de l'analyse sectorielle que si l'un des objectifs du système est de
 
 Plus de 50% des élèves de 2 ème  année et près de 90% des élèves de 5 ème  année du fondamental n'ont pas les compétences attendues par rapport à leur niveau scolaire dans les évaluations PASEC, notamment en français (compréhension orale, compréhension de l'écrit, production de l'écrit) et en mathématiques (arithmétique,  géométrie  et  mesure),  si  l'on  se  réfère  à  des  tests  effectués,  en  2011-12,  sur  un échantillon représentatif de plus de 2000 élèves de 2 ème  année et presque autant en 5 ème  année du fondamental.
 
-Le test effectué pour les 2 ème s années concerne aussi bien les élèves des écoles classiques que ceux des écoles à curriculum bilingue.
+Le test effectué pour les 2èmes années concerne aussi bien les élèves des écoles classiques que ceux des écoles à curriculum bilingue.
 
 ### 2.3.3. Performances faibles dans les évaluations nationales
 
@@ -899,7 +1043,7 @@ Pour ce qui est de l'allocation des moyens, il est apparu par exemple que la coh
 
 Il est à noter que certaines régions sont plus concernées que d'autres par le problème d'incohérence dans l'allocation des enseignants dans les établissements publics du 1 er  cycle du fondamental : District de Bamako, Koulikoro, Mopti où les allocations en enseignants observées en 2014 sont déterminées à plus de 50% par des facteurs autres que le nombre d'élèves.
 
-Un autre aspect de la mauvaise allocation des enseignants transparaît  à travers  le ratio maîtreélève dans le 1 er  cycle du fondamental public. Celui-ci n'a pas changé entre 2010-11 et 2014-15 et se chiffre autour de 51. Cela signifie que si les enseignants étaient bien répartis au niveau national, le taux d'encadrement se situerait autour de 51 élèves par enseignant.
+Un autre aspect de la mauvaise allocation des enseignants transparaît  à travers  le ratio maître-élève dans le 1 er  cycle du fondamental public. Celui-ci n'a pas changé entre 2010-11 et 2014-15 et se chiffre autour de 51. Cela signifie que si les enseignants étaient bien répartis au niveau national, le taux d'encadrement se situerait autour de 51 élèves par enseignant.
 
 En effet, pendant que certaines académies comme Sikasso, Ségou, Kita et Bougouni enregistrent des REM  relativement  faibles  et  beaucoup  plus  favorables  (moins  de  45  élèves  par  enseignants  en moyenne), d'autres académies comme Bamako (rive gauche et rive droite) et Tombouctou doivent en revanche fonctionner avec en moyenne près de 50 élèves par enseignant. Ces disparités sont encore plus  marquées  à  l'intérieur  des  académies,  et  notamment  entre  les  CAP  (Centres  d'Apprentissage Pédagogique), révélant ainsi des déséquilibres non négligeables dans le déploiement des enseignants.
 
@@ -1091,9 +1235,7 @@ système  éducatif  est  mise  à  rude  épreuve,  depuis  quelques  années  
 
 (ii) Améliorer la formation et la gestion des enseignants et trouver des voies de motivation du personnel et de recrutement en nombre suffisant tout en introduisant les TIC : Un des défis majeurs qui va se poser au système éducatif est celui de trouver les enseignants, les enseignant-chercheurs et les chercheurs en quantité et en qualité suffisantes et surtout de pouvoir  les  maintenir  dans  le  système.  La  revalorisation  du  statut  de  l'enseignant,  de l'enseignant-chercheur et du chercheur est le chemin par lequel il faut passer.
 
-- Dans tous les systèmes éducatifs modernes, les TIC sont  utilisés aussi bien au niveau de l'enseignement qu'au niveau de la gestion du système, pour améliorer le rendement et la qualité. Le coût et les changements structurels qu'une telle intégration pose sont des défis
-
-énormes pour le système éducatif qui doit, pour ce faire, trouver les formules adaptées.
+Dans tous les systèmes éducatifs modernes, les TIC sont  utilisés aussi bien au niveau de l'enseignement qu'au niveau de la gestion du système, pour améliorer le rendement et la qualité. Le coût et les changements structurels qu'une telle intégration pose sont des défis énormes pour le système éducatif qui doit, pour ce faire, trouver les formules adaptées.
 
 (iii) Augmenter l'offre éducative tout en assurant la qualité et l'équité . L'accroissement rapide de la demande d'éducation commande que l'offre augmente au même rythme. Tout l'enjeu de la mise en œuvre du PRODEC 2 sera de mener de front la poursuite de l'expansion du système de manière soutenable sans dégradation de la qualité de l'enseignement. L'existence de nombreuses disparités (genre et régions) et de nombreux enfants vulnérables (orphelins et enfants vivant avec un handicap) constitue un défi important pour la prise en compte de tous les droits des enfants et la progression du système éducatif. Le défi peut être relevé par la mise en place d'un système équitable et appliqué dans tout le pays.
 
@@ -1283,7 +1425,7 @@ En  ce  qui  concerne  le  secondaire  technique, le  PRODEC  2  vise  à  assur
 
 (vii) Recruter le personnel enseignant uniquement au niveau des collectivités : à terme, 100% des enseignants seront des fonctionnaires des collectivités.
 
-En  ce  qui  concerne  le  secondaire  professionnel  (1), le  PRODEC  2  prévoit  d'accroître  l'offre  de formation  en  développant  des  alternatives  crédibles  et  attractives  en  adéquation  avec  l'autoentreprenariat et les besoins du marché du travail. Pour ce sous-secteur, il s'agira de :
+En  ce  qui  concerne  le  secondaire  professionnel  (1), le  PRODEC  2  prévoit  d'accroître  l'offre  de formation  en  développant  des  alternatives  crédibles  et  attractives  en  adéquation  avec  l'auto-entreprenariat et les besoins du marché du travail. Pour ce sous-secteur, il s'agira de :
 
 43
 
@@ -1643,7 +1785,7 @@ Les phases II et III du PRODEC 2 seront consacrées à la consolidation de la po
 
 ## 7.1. PROGRAMME N°1 :  AMELIORATION  DE  L'EFFICACITE  INTERNE  ET EXTERNE DU SYSTEME EDUCATIF.
 
-Objectif stratégique : Le programme vise principalement à améliorer le rendement interne  du  système,  favoriser  l'employabilité  des jeunes  et l'insertion  socioprofessionnelle des sortants.
+Objectif stratégique : Le programme vise principalement à améliorer le rendement interne  du  système,  favoriser  l'employabilité  des jeunes  et l'insertion  socio-professionnelle des sortants.
 
 52
 
@@ -1811,7 +1953,7 @@ Stratégies : Pour atteindre cet objectif, les stratégies suivantes seront dév
 
 (iii) La valorisation des résultats de la recherche ;
 
-(iv) La  mise  en  place  d'un  dispositif  de  distinctions  honorifiques  pour  les  enseignantschercheurs ;
+(iv) La  mise  en  place  d'un  dispositif  de  distinctions  honorifiques  pour  les  enseignants-chercheurs ;
 
 (v) Le développement du partenariat entre les institutions de recherche.
 
@@ -1831,9 +1973,9 @@ Stratégies : Pour atteindre cet objectif, les stratégies suivantes seront dév
 
 Pour développer ces stratégies, le programme prévoit l'élaboration des textes règlementaires sur la certification dans le domaine de la formation professionnelle, l'opérationnalisation et le fonctionnement du cadre de la certification,  l'établissement  des  textes  règlementaires  régissant  les équivalences entre certificats et diplômes et la mise en place d'un Cadre de certification professionnelle.
 
-### 7.1.2. Sous-programme 1.2. Amélioration de l'employabilité des jeunes et de l'insertion socioprofessionnelle des sortants
+### 7.1.2. Sous-programme 1.2. Amélioration de l'employabilité des jeunes et de l'insertion socio-professionnelle des sortants
 
-Le défi est double. Il s'agit de : (i) réduire les obstacles au développement des compétences, notamment techniques  et professionnelles nécessaires  à l'emploi, à l'obtention d'un travail décent et à l'entreprenariat, et (ii) développer l'offre de formation dans les secteurs primaire (Agriculture, élevage, pêche...)  et  secondaire  (Industries...)  dans  la  perspective  de  développer  la  transformation  agroalimentaire et la création de PME/PMI.
+Le défi est double. Il s'agit de : (i) réduire les obstacles au développement des compétences, notamment techniques  et professionnelles nécessaires  à l'emploi, à l'obtention d'un travail décent et à l'entreprenariat, et (ii) développer l'offre de formation dans les secteurs primaire (Agriculture, élevage, pêche...)  et  secondaire  (Industries...)  dans  la  perspective  de  développer  la  transformation  agro-alimentaire et la création de PME/PMI.
 
 57
 
@@ -2031,7 +2173,7 @@ Les options du programme, d'ici 2030, est de faire une meilleure sélection des 
 
 Stratégies : Pour atteindre cet objectif, les stratégies suivantes seront développées :
 
-(i) L'identification  des  difficultés  des  enseignants  dans  le  processus  d'enseignementapprentissage ;
+(i) L'identification  des  difficultés  des  enseignants  dans  le  processus  d'enseignement-apprentissage ;
 
 (ii) La mise en place d'une base de données pour la formation continue à tous les niveaux ;
 
@@ -2171,7 +2313,7 @@ Stratégies : Pour atteindre cet objectif, les stratégies suivantes seront dév
 
 (iii) L'amélioration du cadre de travail ;
 
-(iv) La réalisation de logements d'astreinte pour les enseignants des zones rurales et semiurbaines ;
+(iv) La réalisation de logements d'astreinte pour les enseignants des zones rurales et semi-urbaines ;
 
 (v) L'élaboration, l'adoption et la mise en œuvre du texte relatif aux distinctions honorifiques pour les enseignants ;
 
@@ -2461,7 +2603,7 @@ Stratégies : Pour atteindre cet objectif, les stratégies suivantes seront dév
 
 Placées sous la tutelle du  Ministère  de  l'Administration  Territoriale  et  des  Collectivités  Locales,  les écoles coraniques sont jusqu'ici des établissements privés de culte dont la vocation est l'apprentissage du  coran.  Elles  sont  fréquentées  par  un  nombre  important  d'enfants  en  âge  scolaire  et  plus.  Pour permettre l'atteinte de l'Education Pour Tous (EPT) au Mali, le Gouvernement a décidé de rénover les contenus de formation dans les écoles coraniques en y ajoutant, en plus de l'apprentissage du coran, celui des disciplines académiques enseignées dans les écoles classiques et de les intégrer au système éducatif national.  L'inexistence de structures d'encadrement et de suivi,  la non prise en charge des enfants et le manque de perspectives d'insertion socioprofessionnelle constituent autant de difficultés auxquelles sont confrontées les écoles coraniques.
 
-Ce  sous-programme  mettra  l'accent  sur  la  rénovation  des  écoles  coraniques  afin  que  leurs  élèves accèdent, soit à l'école formelle (pour ceux qui sont en âge scolaire), soit aux structures d'éducation non formelle ou de formation professionnelle (pour ceux qui sont trop âgés), en vue de leur insertion socioprofessionnelle.
+Ce  sous-programme  mettra  l'accent  sur  la  rénovation  des  écoles  coraniques  afin  que  leurs  élèves accèdent, soit à l'école formelle (pour ceux qui sont en âge scolaire), soit aux structures d'éducation non formelle ou de formation professionnelle (pour ceux qui sont trop âgés), en vue de leur insertion socio-professionnelle.
 
 #### Objectif spécifique 3.4.1. : Permettre aux élèves des écoles coraniques d'accéder à une éducation de base de qualité à travers la rénovation des écoles coraniques et leur intégration dans le système éducatif national
 
@@ -2913,7 +3055,7 @@ Indicateurs de résultats | Valeur de référence 2017 | Valeur cible | Valeur c
 ## PROGRAMME 1 : AMELIORATION DE L'EFFICACITE INTERNE ET EXTERNE DU SYSTÈME EDUCATIF
 ### IMPACT PROGRAMME 1 : Les compétences des élèves et des apprenants sont améliorées. Les contenus de formation sont en adéquation avec les besoins de l'économie
 ### Sous-programme 1.1. Amélioration de l'efficacité interne du système
-1 | Non | Oui | Oui | Oui | Oui | Oui | Document de cadrage | Exploitation/Cons ultation des textes et documents | Permanent | DNP
+1 | Disponibilité d'un cadre d'orientation curriculaire harmonisé pour toutes les écoles de formation d'enseignants. | Non | Oui | Oui | Oui | Oui | Oui | Document de cadrage | Exploitation/Consultation des textes et documents | Permanent | DNP
 
 > 5  Source: CPS Education, Suivi des indicateurs du système éducatif de 2013-2014 à 2017-2018.
 
@@ -2923,17 +3065,16 @@ Indicateurs de résultats | Valeur de référence 2017 | Valeur cible | Valeur c
 
 [[START OF PAGE 85]]
 
-résultats | Valeur de référence 2017 | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des | Fréquence de collecte | Responsabilité (collecte)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicateurs de | 2019 | 2020 | 2021 | 2022 | données
-Pourcentage d'élèves en 2ème année qui maîtrisent au moins les normes d'aptitudes minimales : (i) en lecture/écriture (ii) en mathématiques 6 | 22,00% | - | 24,00% | - | 27,40% | 33,20% | Evaluation des acquisitions scolaires Données enquêtes statistiques | Exploitation des résultats d'évaluation Questionnaire d'enquête | Biennale | DNP CPS
-21,70% | - | 29,20% | - | 34,20% | 44,10%
-3 | Taux d'admission en dernière année du f1 dont filles | 42,10% | 42,70% | 45,60% | 48,60% | 51,70% | 72,40% | Annuelle | EDUCATION
-F=39,8% | F=40,6% | F=43,1% | F=46,6% | F=49,1% | F=69,1%
-Taux d'admission en dernière année du f2 dont filles | 32,80% | 30,70% | 32,60% | 34,60% | 36,80% | 50,20%
-F=30,1% | F=28,0% | F=30,2% | F=32,5% | F=34,2% | F=45,4%
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2 | Pourcentage d'élèves en 2ème année qui maîtrisent au moins les normes d'aptitudes minimales : (i) en lecture/écriture (ii) en mathématiques 6 | 22,00% | - | 24,00% | - | 27,40% | 33,20% | Evaluation des acquisitions scolaires | Exploitation des résultats d'évaluation | Biennale | DNP
+ |  | 21,70% | - | 29,20% | - | 34,20% | 44,10% | Données enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
+3 | Taux d'admission en dernière année du f1 dont filles | 42,10% | 42,70% | 45,60% | 48,60% | 51,70% | 72,40% | Données enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
+ |  | F=39,8% | F=40,6% | F=43,1% | F=46,6% | F=49,1% | F=69,1% |  |  |  | 
+ | Taux d'admission en dernière année du f2 dont filles | 32,80% | 30,70% | 32,60% | 34,60% | 36,80% | 50,20% |  |  |  | 
+ |  | F=30,1% | F=28,0% | F=30,2% | F=32,5% | F=34,2% | F=45,4% |  |  |  | 
 4 | % de redoublants au F1 | 20,20% | 18,80% | 18,00% | 17,20% | 16,40% | 11,60% | Données enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
-% de redoublants au F2 | 33,70% | 28,90% | 27,60% | 26,30% | 25,10% | 17,50%
+ | % de redoublants au F2 | 33,70% | 28,90% | 27,60% | 26,30% | 25,10% | 17,50% |  |  |  | 
 5 | % de redoublants au secondaire général | 32,80% | 30,10% | 28,70% | 27,30% | 26,00% | 17,70% | Données enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 6 | Ratio livre/élève aux 6 premières années du fondamental en ; (i) lecture/écriture (ii) calcul/math. | 0.8 | 1 | 2 | 2 | 2 | 2 | Données d'enquête statistiques | Recensement des écoles | Annuelle | CPS EDUCATION
 
@@ -2945,13 +3086,12 @@ F=30,1% | F=28,0% | F=30,2% | F=32,5% | F=34,2% | F=45,4%
 
 [[START OF PAGE 86]]
 
-Valeur de référence 2017 | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicateurs de résultats | 2019 | 2020 | 2021 | 2022
-7 | Ratio livre/élève aux 3 dernières années du fondamental en : (i).Français, (ii) mathématiques. (iii).Sciences physiques, (iv) Histoire- géographie | 2 | 2 | 4 | 4 | 4 | 4 | Données d'enquête statistiques | Recensement des écoles | Annuelle | CPS Education
-8 | Existence d'unités d'évaluation fonctionnelles 7 aux niveaux : (i)National, (ii)Académie d'enseignement (AE) (iii)Centre d'Animation Pédagogique(CAP) | Non | Oui | Oui | Oui | Oui | Oui | Données administrative s | Textes réglementaires | Annuelle | DNP
-Non | Non | Oui | Oui | Oui | Oui
-Non | Non | Oui | Oui | Oui | Oui
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+7 | Ratio livre/élève aux 3 dernières années du fondamental en : (i).Français, (ii) mathématiques. (iii).Sciences physiques, (iv) Histoire-géographie | 2 | 2 | 4 | 4 | 4 | 4 | Données d'enquête statistiques | Recensement des écoles | Annuelle | CPS Education
+8 | Existence d'unités d'évaluation fonctionnelles 7 aux niveaux : (i)National, (ii)Académie d'enseignement (AE) (iii)Centre d'Animation Pédagogique(CAP) | Non | Oui | Oui | Oui | Oui | Oui | Données administratives | Textes réglementaires | Annuelle | DNP
+ |  | Non | Non | Oui | Oui | Oui | Oui |  |  |  | 
+ |  | Non | Non | Oui | Oui | Oui | Oui |  |  |  | 
 9 | Taux de transition effective du F2 vers le secondaire technique et professionnel | 28,30% | 30,10% | 31.0% | 31,90% | 32,80% | 38,20% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 ### Sous-programme 1.2. Amélioration de l'employabilité des jeunes et de l'insertion socio-professionnelle des sortants.
 10 | Existence d'un mécanisme de suivi de l'insertion des sortants du système y compris ceux de la formation professionnelle | Non | Non | Oui | Oui | Oui | Oui | Textes règlementaires , et enquêtes de suivi | Fiche de suivi | Annuelle | ONEF
@@ -2965,17 +3105,16 @@ Non | Non | Oui | Oui | Oui | Oui
 
 [[START OF PAGE 87]]
 
-Indicateurs résultats | de | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2019 | 2020 | 2021 | 2022
 ### IMPACT PROGRAMME 2 : Le nombre d'enseignants qualifiés a augmenté pour couvrir les besoins du système.
 ### Sous-programme 2.1. Amélioration de la Formation initiale des enseignants
-11 | % de nouveaux entrants exclusivement avec BAC dans les structures de formation d'enseignants à partir de 2025. | 59% | 59% | 59% | 59% | 100% | Enquêtes statistiques | Questionnaire d'enquêtes statistiques | Annuelle | CPS EDUCATION/D NEN
-12 de des | politique cohérente formation initiale enseignants à tous les niveaux | Non | Oui | Oui | Oui | Oui | Etude | Exploitation du rapport de l'étude | Annuelle | DNEN
+11 | % de nouveaux entrants exclusivement avec BAC dans les structures de formation d'enseignants à partir de 2025. | 14.20% | 59% | 59% | 59% | 59% | 100% | Enquêtes statistiques | Questionnaire d'enquêtes statistiques | Annuelle | CPS EDUCATION/DNEN
+12 | Existence d'une politique cohérente de formation initiale des enseignants à tous les niveaux | Non | Non | Oui | Oui | Oui | Oui | Etude | Exploitation du rapport de l'étude | Annuelle | DNEN
 ### Sous-programme 2.2. Renforcement du dispositif de formation continue du personnel enseignant
-13 | Existence d'une politique cohérente de formation continue des enseignants à tous les niveaux | Non | Oui | Oui | Oui | Oui | Etude | Exploitation du rapport de l'étude | Annuelle | DNEN
+13 | Existence d'une politique cohérente de formation continue des enseignants à tous les niveaux | Non | Non | Oui | Oui | Oui | Oui | Etude | Exploitation du rapport de l'étude | Annuelle | DNEN
 ### Sous-programme 2.3. Renforcement du dispositif de recrutement et de gestion des enseignants
-14 | Nombre d'enseignants qualifiés recrutés 8 pour les besoins du : préscolaire | 571 | 585 | 599 | 613 | 351 | Données administrative s sur les ressources humaines | Questionnaire d'enquête | Annuelle | DRH
+14 | Nombre d'enseignants qualifiés recrutés 8 pour les besoins du : préscolaire | 0 | 571 | 585 | 599 | 613 | 351 | Données administratives sur les ressources humaines | Questionnaire d'enquête | Annuelle | DRH
 
 > 8  Les valeurs de référence pour les indicateurs 14, 15 et 16 sont celles de 2016 (2579 enseignants) dans la mesure où il n'y a pas eu de recrutement en 2017. Le niveau de recrutement en 2018 n'est pas significatif (781 enseignants) du fait des restrictions budgétaires opérées entre 2016 et 2018 (7milliards de FCFA environ à 3 milliards de FCFA environ).
 
@@ -2985,23 +3124,21 @@ Indicateurs résultats | de | Valeur cible | Valeur cible 2028 | Source de donn�
 
 [[START OF PAGE 88]]
 
-Valeur de référence 2017 | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Indicateurs
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2019 | 2020 | 2021 | 2022
-fondamental 1 fondamental 2 | 1 000 | 4 053 | 4 344 | 4 611 | 4 991 | 7079
-567 | 647 | 1 676 | 1 777 | 1 856 | 1 967
-15 | Nombre d'enseignants qualifiés recrutés pour les besoins du secondaire général | 600 | 84 | 81 | 206 | 205 | 97
-16 | Nombre d'enseignants qualifiés recrutés pour les besoins de l'enseignement Technique | 31 | 19 | 14 | 15 | 16 | 12 | Questionnaire d'enquête | Annuelle
-Nombre d'enseignants qualifiés recrutés pour les besoins de l'enseignement Professionnel | 266 | 166 | 0 | 141 | 160 | 302
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | fondamental 1 | 1 000 | 4 053 | 4 344 | 4 611 | 4 991 | 7079 |  |  |  | 
+ | fondamental 2 | 567 | 647 | 1 676 | 1 777 | 1 856 | 1 967 |  |  |  | 
+15 | Nombre d'enseignants qualifiés recrutés pour les besoins du secondaire général | 600 | 84 | 81 | 206 | 205 | 97 | Données administratives sur les ressources humaines | Questionnaire d'enquête | Annuelle | DRH
+16 | Nombre d'enseignants qualifiés recrutés pour les besoins de l'enseignement Technique | 31 | 19 | 14 | 15 | 16 | 12 |  |  |  | 
+ | Nombre d'enseignants qualifiés recrutés pour les besoins de l'enseignement Professionnel | 266 | 166 | 0 | 141 | 160 | 302 |  |  |  | 
 
 ## PROGRAMME 3 : PROMOTION DE L'ACCES EQUITABLE ET INCLUSIF A UNE EDUCATION DE QUALITE POUR TOUS
 
 ### IMPACT PROGRAMME 3 : Le taux de scolarisation a augmenté au niveau de tous les ordres et types d'enseignement, y compris en faveur des couches vulnérables.
 
-### Sous-programme 3.1 . Renforcement des capacités d'accueil à tous les niveaux
+### Sous-programme 3.1. Renforcement des capacités d'accueil à tous les niveaux
 
 17 | Taux brut de préscolarisation | 8,80% | 10,90% | 18,00% | 19,50% | 20,80% | 24,60% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 18 | % d'enfants dans le préscolaire public | 45,10% | 46,10% | 46,10% | 46,10% | 46,10% | 47,10% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 19 | % d'enfants dans le préscolaire communautaire | 34,60% | 38,40% | 38,40% | 38,40% | 38,40% | 43,70% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 
@@ -3011,17 +3148,18 @@ Nombre d'enseignants qualifiés recrutés pour les besoins de l'enseignement Pro
 
 [[START OF PAGE 89]]
 
-Valeur de référence 2017 | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicateurs de résultats | 2019 | 2020 | 2021 | 2022
-20 | % d'enfants dans le préscolaire privé | 20,30% | 15,50% | 15,50% | 15,50% | 15,50% | 9,20% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS | EDUCATION
-21 | Taux brut d'admission par sexe : (i) au F1 dont filles | 72,10% F=68,2% | 71,40% F=65,6 | 74,00% F=68,7% | 76,60% F=72,0% | 79,20% F=74,2% | 94,80% F=90,9% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
-(ii) Taux brut d'admission par sexe : au F2 dont filles | 44,00% | 39,10% | 41,60% | 44,00% | 46,70% | 62,90%
-F=40,9% | F=37,0% | F=38,8% | F=40,5% | F=42,9% | F=58,8%
-22 | Taux brut de Scolarisation : (i) au F1 (ii) au F2 | 78,00% 56,20% | 80,00% 50,60% | 83,00% 52,80% | 86,00% 55,00% | 89,00% 57,40% | 107,00% 70,60% | Enquêtes statistiques | d'enquête | Questionnaire | Annuelle | CPS EDUCATION
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+20 | % d'enfants dans le préscolaire privé | 20,30% | 15,50% | 15,50% | 15,50% | 15,50% | 9,20% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
+21 | Taux brut d'admission par sexe : (i) au F1 dont-filles | 72,10% | 71,40% | 74,00% | 76,60% | 79,20% | 94,80% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
+ |  | F=68,2% | F=65,6 | F=68,7% | F=72,0% | F=74,2% | F=90,9% |  |  |  | 
+ | (ii) Taux brut d'admission par sexe : au F2 dont filles | 44,00% | 39,10% | 41,60% | 44,00% | 46,70% | 62,90% |  |  |  | 
+ |  | F=40,9% | F=37,0% | F=38,8% | F=40,5% | F=42,9% | F=58,8% |  |  |  | 
+22 | Taux brut de Scolarisation : (i) au F1 | 78,00% | 80,00% | 83,00% | 86,00% | 89,00% | 107,00% | Enquêtes statistiques | Questionnaire d'enquête | Annuelle | CPS EDUCATION
+ | (ii) au F2 | 56,20% | 50,60% | 52,80% | 55,00% | 57,40% | 70,60% |  |  |  | 
 23 | % d'élèves dans le privé laïc | 13,50% | 13,00% | 12,70% | 12,40% | 12,20% | 10,50% | Enquêtes statistiques scolaires | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 24 | % d'élèves dans le communautaire | 6,30% | 5,60% | 5,30% | 5,00% | 4,70% | 2,70% | Enquêtes statistiques scolaires | Questionnaire d'enquête | Annuelle | CPS EDUCATION
-25 | % d'élèves dans le public | 63,20% | 64,30% | 65,40% | 66,60% | 67,80% | 74,80% | Enquêtes statistiques scolaires | d'enquête | Questionnaire | Annuelle | CPS EDUCATION
+25 | % d'élèves dans le public | 63,20% | 64,30% | 65,40% | 66,60% | 67,80% | 74,80% | Enquêtes statistiques scolaires | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 26 | Nombre d'enfants inscrits dans le programme SSA/P pris en charge par l'Etat | 3 404 | 4 631 | 6 249 | 7 961 | 9 753 | 17 785 | Enquêtes statistiques scolaires | Questionnaire d'enquête | Annuelle | CNRENF
 27 | Proportion d'élèves bénéficiaires des cantines scolaires | 5,80% | 6,40% | 6,70% | 7,10% | 7,40% | 9,30% | Enquêtes statistiques scolaires | Questionnaire d'enquête | Annuelle | CPS EDUCATION
 
@@ -3031,10 +3169,9 @@ F=40,9% | F=37,0% | F=38,8% | F=40,5% | F=42,9% | F=58,8%
 
 [[START OF PAGE 90]]
 
-Valeur de référence 2017 | Valeur cible | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
+Indicateurs de résultats | Valeur de référence 2017 | Valeur cible 2019 | Valeur cible 2020 | Valeur cible 2021 | Valeur cible 2022 | Valeur cible 2028 | Source de données | Méthode de collecte des données | Fréquence de collecte | Responsabilité (collecte)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicateurs de résultats | 2019 | 2020 | 2021 | 2022
-Nombre d'adultes inscrits dans les programmes Alpha. | 80 992 | 93 664 | 100 000 | 100 000 | 100 000 | 100 000 | Enquêtes statistiques (séminaire bilan AENF) | Questionnaire d'enquête | Annuelle | CNRENF
+28 | Nombre d'adultes inscrits dans les programmes Alpha. | 80 992 | 93 664 | 100 000 | 100 000 | 100 000 | 100 000 | Enquêtes statistiques (séminaire bilan AENF) | Questionnaire d'enquête | Annuelle | CNRENF
 
 ## PROGRAMME 4 : RENFORCEMENT DE LA GOUVERNANCE DU SECTEUR.
 
@@ -3042,8 +3179,7 @@ Nombre d'adultes inscrits dans les programmes Alpha. | 80 992 | 93 664 | 100 000
 
 ### Sous-programme 4.2. Amélioration de la gestion des flux, des ressources humaines, financières et matérielles
 
-29 | Part du Fondamental, cycle 1 dans les dépenses courantes d'éducation | 35,50% | 36,40% | 38,90% | 39,00% | 39,80% | 46,00% | Données de programmatio ns budgétaires | Extraction des données | Annuelle | DFM
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+29 | Part du Fondamental, cycle 1 dans les dépenses courantes d'éducation | 35,50% | 36,40% | 38,90% | 39,00% | 39,80% | 46,00% | Données de programmations budgétaires | Extraction des données | Annuelle | DFM
 30 | Nombre d'heures hebdomadaires effectuées par enseignant au F1 | 18,46 | 18,46 | 20,8 | 23,14 | 23,14 | 25 | Suivi des CGS et CAP | Remplissage des fiches de suivi des enseignants. | Annuelle | DNEF
 31 | Nombre moyen d'heures hebdomadaires effectuées par enseignant au F2 | 14,9 | 15,4 | 15,6 | 15,9 | 16,1 | 17,5 | Suivi des CGS et CAP | Remplissage des Fiches de suivi des enseignants | Mensuelle | DNEF
 
@@ -3054,7 +3190,6 @@ Nombre d'adultes inscrits dans les programmes Alpha. | 80 992 | 93 664 | 100 000
 ### Sous-composante 5.1. Evaluation de la résilience du secteur
 
 32 | Existence du plan de contingence du secteur | Non | Non | Oui | Oui | Oui | Oui | Plan de contingence | Exploitation du document de plan de contingence. | Permanent | Equipe intersectorielle
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 90
 
@@ -3101,8 +3236,8 @@ Ressources pour Dépenses courantes pour l'Education et | Part de l'éducation e
 Situation en 2015 | Prévision en 2019 | Prévision en 2021 | Prévision en 2025 | Prévision en 2028 | Prévision en 2030
 --- | --- | --- | --- | --- | --- | --- | ---
 la Formation Professionnelle | en milliards de FCFA courant | 283,7 | 308,1 | 387,1 | 544,3 | 654,1 | 738,9
-Ressources pour Dépenses courantes pour l'Education et la Formation | Part de l'éducation et de la formation dans les dépenses d'investissement | 3,4% | 3,8% | 4,0% | 4,5% | 4,8% | 5,0%
-Professionnelle | en milliards FCFA | 9,9 | 12,2 | 16,2 | 25,4 | 32,8 | 38,9
+Ressources pour Dépenses courantes pour l'Education et la Formation Professionnelle | Part de l'éducation et de la formation dans les dépenses d'investissement | 3,4% | 3,8% | 4,0% | 4,5% | 4,8% | 5,0%
+ | en milliards FCFA | 9,9 | 12,2 | 16,2 | 25,4 | 32,8 | 38,9
 
 Source : Modèle de Simulation Financière de l'Education et de la Formation (PRODEC 2)
 
@@ -3168,48 +3303,48 @@ Pour  mieux  apprécier  l'effort  consenti,  il  convient  de  prendre  en  com
 
 Les travaux de simulation ont permis de faire aussi les estimations des besoins en investissement sur la base des objectifs fixés pour différents niveaux et types d'enseignement.
 
-Les principales dépenses d'investissement sont : (i) les constructions de salles de classe et les équipements pour tous les ordres et types d'enseignement (préscolaire, fondamental, secondaire général, secondaire technique et professionnel, normal, formation professionnelle, non formel et supérieur) en lien avec les effectifs anticipés et les ratios retenus ;  (ii) les constructions de campus universitaires pour l'hébergement des étudiants au supérieur.
+Les principales dépenses d'investissement sont : (i) les constructions de salles de classe et les équipements pour tous les ordres et types d'enseignement (préscolaire, fondamental, secondaire général, secondaire technique et professionnel, normal, formation professionnelle, non formel et
 
 94
 
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
-
+supérieur) en lien avec les effectifs anticipés et les ratios retenus ; (ii) les constructions de campus universitaires pour l'hébergement des étudiants au supérieur.
 Sur la base des estimations faites, les dépenses en investissement s'élèveront à environ 947,887 milliards de FCFA sur la période 2019-2030.
 
 RECAPITULATION DES DEPENSES D'INVESTISSEMENTS PAR NIVEAU (en millions de FCFA) | 2015 | 2019 | 2021 | 2025 | 2028 | 2030
 --- | --- | --- | --- | --- | --- | ---
 En millions de FCFA
-Préscolaire | 7 326 | 7 326 | 7 326 | 2 205 | 2 205
-Fondamental 1er cycle | 15 434 | 30 056 | 35 071 | 40 087 | 44 680
-Fondamental 2nd cycle | 4 547 | 10 838 | 10 948 | 11 575 | 12 278
-Secondaire général | 0 | 3 351 | 2 394 | 45 | 0
-Secondaire technique | 870 | 743 | 855 | 737 | 592
-Secondaire professionnel | 7 558 | 7 995 | 14 303 | 20 698 | 27 268
-Enseignement normal | 2 676 | 1 517 | 131 | 70 | 168
-Formation professionnelle | 7 048 | 5 086 | 3 315 | 1 038 | 1 038
-Education non formelle | 1 405 | 1 436 | 1 797 | 1 036 | 1 085
-Enseignement supérieur | 5 519 | 5 947 | 6 939 | 7 821 | 8 485
-Dépenses totales d'investissements pour le secteur | 52 383 | 74 294 | 83 077 | 85 312 | 97 799
-% pour la scolarisation obligatoire | 52,1% | 64,9% | 64,2% | 63,1% | 60,5%
+Préscolaire |  | 7 326 | 7 326 | 7 326 | 2 205 | 2 205
+Fondamental 1er cycle |  | 15 434 | 30 056 | 35 071 | 40 087 | 44 680
+Fondamental 2nd cycle |  | 4 547 | 10 838 | 10 948 | 11 575 | 12 278
+Secondaire général |  | 0 | 3 351 | 2 394 | 45 | 0
+Secondaire technique |  | 870 | 743 | 855 | 737 | 592
+Secondaire professionnel |  | 7 558 | 7 995 | 14 303 | 20 698 | 27 268
+Enseignement normal |  | 2 676 | 1 517 | 131 | 70 | 168
+Formation professionnelle |  | 7 048 | 5 086 | 3 315 | 1 038 | 1 038
+Education non formelle |  | 1 405 | 1 436 | 1 797 | 1 036 | 1 085
+Enseignement supérieur |  | 5 519 | 5 947 | 6 939 | 7 821 | 8 485
+Dépenses totales d'investissements pour le secteur |  | 52 383 | 74 294 | 83 077 | 85 312 | 97 799
+% pour la scolarisation obligatoire |  | 52,1% | 64,9% | 64,2% | 63,1% | 60,5%
 
 Source : Modèle de Simulation Financière de l'Education et de la Formation (PRODEC 2)
 
 RECAPITULATION DES DEPENSES D'INVESTISSEMENTS PAR NIVEAU (en %) | 2015 | 2019 | 2021 | 2025 | 2028 | 2030
 --- | --- | --- | --- | --- | --- | ---
 En pourcentage
-Préscolaire | 14,0% | 9,9% | 8,8% | 2,6% | 2,3%
-Fondamental 1er cycle | 29,5% | 40,5% | 42,2% | 47,0% | 45,7%
-Fondamental 2nd cycle | 8,7% | 14,6% | 13,2% | 13,6% | 12,6%
-Secondaire général | 0,0% | 4,5% | 2,9% | 0,1% | 0,0%
-Secondaire technique | 1,7% | 1,0% | 1,0% | 0,9% | 0,6%
-Secondaire professionnel | 14,4% | 10,8% | 17,2% | 24,3% | 27,9%
-Enseignement normal | 5,1% | 2,0% | 0,2% | 0,1% | 0,2%
-Formation professionnelle | 13,5% | 6,8% | 4,0% | 1,2% | 1,1%
-Education non formelle | 2,7% | 1,9% | 2,2% | 1,2% | 1,1%
-Enseignement supérieur | 10,5% | 8,0% | 8,4% | 9,2% | 8,7%
-Ensemble du secteur | 100% | 100% | 100% | 100% | 100%
+Préscolaire |  | 14,0% | 9,9% | 8,8% | 2,6% | 2,3%
+Fondamental 1er cycle |  | 29,5% | 40,5% | 42,2% | 47,0% | 45,7%
+Fondamental 2nd cycle |  | 8,7% | 14,6% | 13,2% | 13,6% | 12,6%
+Secondaire général |  | 0,0% | 4,5% | 2,9% | 0,1% | 0,0%
+Secondaire technique |  | 1,7% | 1,0% | 1,0% | 0,9% | 0,6%
+Secondaire professionnel |  | 14,4% | 10,8% | 17,2% | 24,3% | 27,9%
+Enseignement normal |  | 5,1% | 2,0% | 0,2% | 0,1% | 0,2%
+Formation professionnelle |  | 13,5% | 6,8% | 4,0% | 1,2% | 1,1%
+Education non formelle |  | 2,7% | 1,9% | 2,2% | 1,2% | 1,1%
+Enseignement supérieur |  | 10,5% | 8,0% | 8,4% | 9,2% | 8,7%
+Ensemble du secteur |  | 100% | 100% | 100% | 100% | 100%
 
 Source : Modèle de Simulation Financière de l'Education et de la Formation (PRODEC 2)
 
@@ -3270,14 +3405,14 @@ Source : Modèle de Simulation Financière de l'Education et de la Formation (PR
 
 La scolarisation obligatoire absorbera 60,3% des ressources qui seront mobilisées pour le secteur sur la période (2019-2022) dont 39,4% pour le fondamental 1.
 
-Le PRODEC 2 a prévu dans son Plan d'Action Pluriannuel Budgétisé (PAPB) sur la période 20192022,  des  activités  dont  le  coût  total  s'élève  à 1  995,  440  milliards  de  FCFA .  Ces  coûts  sont répartis en dépenses courantes ( 1 671,326 milliards de FCFA ) et en dépenses d'investissement ( 324,113 milliards de FCFA ). Le financement disponible s'élève à 1 671,901 milliards de FCFA dont 1 534,242 milliards de FCFA sur les ressources de l'Etat et 137,660 milliards de FCFA sur financement extérieur. Le financement à rechercher s'élève à 323,538 milliards de FCFA soit un GAP net de -16,2% sur la période 2019-2022.
+Le PRODEC 2 a prévu dans son Plan d'Action Pluriannuel Budgétisé (PAPB) sur la période 2019-2022, des activités dont le coût total s'élève à 1 995, 440 milliards de FCFA. Ces coûts sont
 
 96
 
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
-
+répartis en dépenses courantes (1 671,326 milliards de FCFA) et en dépenses d'investissement (324,113 milliards de FCFA). Le financement disponible s'élève à 1 671,901 milliards de FCFA dont 1 534,242 milliards de FCFA sur les ressources de l'Etat et 137,660 milliards de FCFA sur financement extérieur. Le financement à rechercher s'élève à 323,538 milliards de FCFA soit un GAP net de -16,2% sur la période 2019-2022.
 ## 9.5. La soutenabilité financière du PRODEC 2
 
 La  comparaison  entre  les  ressources  nationales  pour  les  dépenses  courantes  et  les  dépenses courantes du secteur montre que les dépenses courantes nationales pour la première période de la stratégie ne seront pratiquement pas couvertes par les ressources publiques mobilisables.  Sur la période 2019-2030, les dépenses courantes pour le secteur se chiffrant à 6 624,333 milliards de FCFA contre les ressources nationales pour les dépenses courantes de 6 292,810 milliards de FCFA, d'où un Gap de financement de 331,523 milliards de FCFA ramené à 286,313 milliards de FCFA sur la période 2020-2030, soit un taux de dépendance global de 4,32%.
@@ -3419,6 +3554,7 @@ Les ménages contribuent au financement de l'éducation par la prise en charge d
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+du matériel scolaire, les frais de logement et de cantine le cas échéant. D'autres dépenses à caractère non obligatoire peuvent porter sur les frais liés au transport, à l'achat de livres scolaires non requis pour la fréquentation, les activités extra scolaires, etc.
 
 En raison des besoins toujours croissants en termes d'expansion qualitative et quantitative de son système éducatif, le gouvernement malien, à l'instar des gouvernements des autres pays africains, doit mobiliser davantage plus de ressources et les utiliser de manière efficiente. Dans ce contexte, la  contribution  des  ménages  au  financement  de  l'éducation  est  d'une  importance  capitale, notamment lorsqu'elle est modulée de façon à permettre un partage de coûts raisonnable, efficace et équitable entre l'Etat et les familles. Connaitre la nature et le niveau des dépenses des ménages en éducation et le poids de celles-ci dans les dépenses totales des familles apparait donc utile pour guider les politiques éducatives telles que la gratuité de l'école, le ciblage de bourses aux plus nécessiteux, l'accès à l'école pour les filles ou les exclus, etc.
 
@@ -3512,11 +3648,11 @@ Le Comité de pilotage assure la coordination de la mise en œuvre du programme.
 
 Le Comité de pilotage comprend en outre :
 
-(i) Le Secrétaire Général du Ministère en charge de l'Enseignement Supérieur, 1 er  Viceprésident ;
+(i) Le Secrétaire Général du Ministère en charge de l'Enseignement Supérieur, 1er Vice-président ;
 
-(ii) Le Secrétaire Général du Ministère en charge de la Recherche Scientifique, 2 ème  Viceprésident ;
+(ii) Le Secrétaire Général du Ministère en charge de la Recherche Scientifique, 2ème Vice-président ;
 
-(iii) Le  Secrétaire  Général  du  Ministère  en  charge  de  la  Formation  Professionnelle,  3 ème Vice-président ;
+(iii) Le Secrétaire Général du Ministère en charge de la Formation Professionnelle, 3ème Vice-président ;
 
 (iv) Le Secrétaire Général du Ministère en charge de l'Aménagement du Territoire et de la Population, membre ;
 
@@ -3657,7 +3793,7 @@ Le renforcement de la communication autour des réformes du programme au niveau 
 
 MATRICE DES RISQUES ET MESURES D'ATTENUATION
 --- | --- | --- | --- | ---
-Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
+Risques identifiés | Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
 La faible contribution de l'Etat au financement du programme | La faible croissance économique | Les difficultés de planification et de mise en œuvre des activités du programme | La mobilisation accrue des ressources des partenaires, du secteur privé et des ménages. La rationalisation de la gestion des ressources mobilisées à travers une meilleure répartition des personnels, une réduction substantielle des dépenses sociales, un report de certaines activités d'investissement sur la phase 2, une préservation des ressources budgétaires allouées au F1, des outils de gestion et de contrôle efficaces.
 La multiplicité des besoins de financement à satisfaire par l'Etat
 La faible mobilisation des ressources financières extérieures | L'instabilité politique interne et externe | Le faible taux de décaissement des ressources disponibles | M | L'implication des partenaires techniques et financiers dans la programmation budgétaire du secteur
@@ -3665,7 +3801,7 @@ La faible capacité d'absorption des ressources mises à disposition | Le faible
 La complexité et la diversité des procédures des partenaires
 La faible contribution du secteur privé au financement du programme | Les contraintes administratives et fiscales | Le faible développement du Partenariat Public-Privé | M | La mise en place de mesures incitatives d'ordre administratif et fiscal
 La non implication du secteur privé dans l'élaboration et la mise en œuvre des activités | L'inadéquation formation/emploi | Le développement de cadre de concertation avec le secteur privé dans la définition des priorités en matière de formation
-L'absence de cadre formel du partenariat école- entreprise | L'incapacité du système à satisfaire les besoins en ressources humaines qualifiées
+L'absence de cadre formel du partenariat école-entreprise | L'incapacité du système à satisfaire les besoins en ressources humaines qualifiées
 
 108
 
@@ -3675,7 +3811,7 @@ L'absence de cadre formel du partenariat école- entreprise | L'incapacité du s
 
 MATRICE DES RISQUES ET MESURES D'ATTENUATION
 --- | --- | --- | --- | ---
-Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
+Risques identifiés | Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
 La situation de précarité des ménages | La faiblesse des revenus des couches vulnérables | La faiblesse et l'iniquité de la scolarisation | La mise en œuvre d'activités génératrices de revenus en faveur des couches vulnérables
 L'insuffisance des aides sociales en faveur des couches vulnérables | La marginalisation des couches vulnérables | Le développement des aides sociales en faveur des couches défavorables
 Le pilotage à vue du programme | L'absence d'une équipe formelle de gestion du programme | La non-atteinte des objectifs du programme | M | La mise en place et l'opérationnalisation du dispositif institutionnel (la réunion interministérielle, le comité de pilotage, le cadre partenarial, le secrétariat technique, le comité de veille, etc.)
@@ -3716,14 +3852,14 @@ La peur du risque
 MATRICE DES RISQUES ET MESURES D'ATTENUATION
 --- | --- | --- | --- | ---
 Risques identifiés Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
-L'insuffisance du nombre de candidats potentiels détenteurs du BAC et motivés pour embrasser la carrière d'enseignant | Le faible taux de réussite au BAC | La difficulté de recrutement des élèves- maître | I | L'amélioration de l'attractivité de la fonction enseignante
+L'insuffisance du nombre de candidats potentiels détenteurs du BAC et motivés pour embrasser la carrière d'enseignant | Le faible taux de réussite au BAC | La difficulté de recrutement des élèves-maître | I | L'amélioration de l'attractivité de la fonction enseignante
 La non attractivité de la fonction enseignante | L'élargissement du bassin de recrutement à plusieurs promotions de bacheliers
 L'insuffisance du niveau de compétence des sortants des écoles de formation initiale des enseignants | L'insuffisance de cohérence entre les contenus de formation initiale et les programmes enseignés | La faiblesse de la qualité des enseignements/apprentissages | I | L'amélioration des contenus des programmes de formation initiale des enseignants en lien avec les programmes d'enseignement
 La faiblesse du dispositif d'évaluation de la formation initiale | L'amélioration du dispositif d'évaluation des enseignements/apprentissages dans les écoles de formation initiale
 La faible qualification des enseignants des écoles de formation initiale des enseignants
 Le déficit d'enseignants pour faire face aux besoins | L'insuffisance de crédits budgétaires pour le recrutement des enseignants | La non-atteinte de la scolarisation universelle | C | L'affectation de crédits budgétaires suffisants pour le recrutement des enseignants
 La rareté de certains profils d'enseignant | Les disparités d'accès à l'éducation | La prise en compte des besoins spécifiques dans la formation initiale des enseignants
-Les interférences socio- politiques dans le recrutement et la répartition des enseignants | L'opérationnalisation du logiciel de gestion des ressources humaines
+Les interférences socio-politiques dans le recrutement et la répartition des enseignants | L'opérationnalisation du logiciel de gestion des ressources humaines
 
 111
 
@@ -3733,7 +3869,7 @@ Les interférences socio- politiques dans le recrutement et la répartition des 
 
 MATRICE DES RISQUES ET MESURES D'ATTENUATION
 --- | --- | --- | --- | ---
-Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
+Risques identifiés | Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
 Les conflits avec les partenaires sociaux | La multiplication des organisations syndicales et des revendications catégorielles | Le non-respect du temps réel d'apprentissage (TRA) | I | La dynamisation des cadres de concertation avec les partenaires sociaux de l'éducation
 Le deficit de communication | Le renforcement de la communication
 La couverture insuffisante et inéquitable des besoins éducatifs | La forte croissance démographique | La non-atteinte de la scolarisation universelle | C | Le renforcement de la scolarisation des filles
@@ -3752,7 +3888,7 @@ L'élaboration et la mise en œuvre des projets en dehors des réformes planifi�
 
 MATRICE DES RISQUES ET MESURES D'ATTENUATION
 --- | --- | --- | --- | ---
-Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
+Risques identifiés | Causes des Risques identifiés | Conséquences ou Impacts des Risques Identifiés | Risques Nets | Mesures d'atténuation
 L'inexistence d'un dispositif efficace d'orientation et de gestion de flux | Le non-respect de la planification des orientations | La non maîtrise des effectifs d'élèves et d'étudiants | C | La relecture des critères d'orientation et leur application conformément aux principes de gestion des flux
 L'insuffisance d'encadrement des élèves et étudiants en matière d'orientation | L'inadaptation entre l'offre et la demande d'emploi | Le respect de l'autonomie des institutions d'enseignement supérieur en matière de recrutement d'étudiants et d'enseignants
 Le non-respect de l'autonomie des institutions d'enseignement supérieur | La faiblesse de la qualité des enseignements/apprentissages | Le renforcement du dispositif d'encadrement des élèves et étudiants en matière d'orientation
@@ -3760,7 +3896,7 @@ La non diversification des offres éducatives
 La mauvaise utilisation des ressources transférées aux Collectivités Territoriales | La non traçabilité des ressources transférées | L'inefficience dans la gestion des ressources transférées | C | L'extension du Programme de Relance des Dépenses Publiques (PRED 5) aux ressources transférées au niveau opérationnel
 La non redevabilité des gestionnaires pour les ressources transférées | La duplication des bonnes pratiques en matière de redevabilité
 La réalisation de missions de contrôle de la gestion des ressources transférées
-Le conflit de compétences entre les acteurs chargés de la gestion de l'école mode décentralisé | La faible appropriation des rôles et responsabilités | Les difficultés de mise en œuvre de la gestion de l'école en mode décentralisé allant parfois jusqu'à la remise en cause de la décentralisation | C | La relecture des textes en vue de clarifier les rôles et responsabilités des acteurs chargés de la déconcentration et de la décentralisation
+Le conflit de compétences entre les acteurs chargés de la gestion de l'école en mode décentralisé | La faible appropriation des rôles et responsabilités | Les difficultés de mise en œuvre de la gestion de l'école en mode décentralisé allant parfois jusqu'à la remise en cause de la décentralisation | C | La relecture des textes en vue de clarifier les rôles et responsabilités des acteurs chargés de la déconcentration et de la décentralisation
 La méconnaissance des textes législatifs et réglementaires | La formation des acteurs chargés de la déconcentration et de la décentralisation à leurs rôles et responsabilités
 Le déficit de communication entre les acteurs | La dynamisation des cadres de concertation entre les acteurs chargés de la déconcentration et de la décentralisation
 
@@ -4012,9 +4148,9 @@ Objectif spécifique 2.3.3. | Mettre en place un mécanisme d'évaluation, de ce
 Résultat 2.3.3.1. | Tous les enseignants sont évalués et certifiés | % d'enseignants (hommes/ femmes) évalués et certifiés (test d'aptitude professionnelle) | Rapports d'activités des structures de formation et de certification (IGEN) | La définition de critères pertinents d'évaluation et de certification. L'application stricte des critères.
 % de formateurs de la formation professionnelle (hommes/ femmes) évalués et certifiés | Rapports d'activités des structures de formation et de certification (IGEN) | La définition de critères pertinents d'évaluation et de certification. L'application stricte des critères.
 Objectif spécifique 2.3.4. | Rationaliser la gestion des personnels enseignants | Existence d'un dispositif national de rationalisation des personnels enseignants | Tableau de bord ; Rapports de suivi des structures chargées de la gestion des ressources humaines (DRH, AE, CAP, etc.) | L'existence de données statistiques fiables et complètes sur les heures statutaires, et d'un mécanisme rigoureux de suivi de l'effectivité des heures dues.
-Résultat 2.3.4.1. | Le volume horaire hebdomadaire moyen par enseignant est respecté. | Nombre d'heures hebdomadaire s de cours exécutées par enseignant : | Tableau de bord ; Rapports de suivi GRH | L'existence de données statistiques fiables et complètes sur les heures statutaires, et d'un mécanisme rigoureux de suivi de l'effectivité des heures dues.
-(i) aux 6 premières années du fondamental (F1) ,
-(ii) aux 3 dernières années du fond ( F2) ,
+Résultat 2.3.4.1. | Le volume horaire hebdomadaire moyen par enseignant est respecté. | Nombre d'heures hebdomadaires de cours exécutées par enseignant : | Tableau de bord ; Rapports de suivi GRH | L'existence de données statistiques fiables et complètes sur les heures statutaires, et d'un mécanisme rigoureux de suivi de l'effectivité des heures dues.
+(i) aux 6 premières années du fondamental (F1),
+(ii) aux 3 dernières années du fond (F2),
 (iii) au secondaire général,
 (iv) au secondaire technique,
 (v) au secondaire professionnel,
@@ -4031,9 +4167,9 @@ Ratio élèves/enseignants qualifiés, par niveau d'études | Annuaires des stat
 
 DESCRIPTION DU PROGRAMME | Indicateurs Objectivement Vérifiables (IOV) | Sources de vérification | Hypothèses
 --- | --- | --- | --- | ---
-Objectifs spécifiques 2.3.5. | Taux d'attrition des enseignants par niveau d'études | Rapports des directions des Ressources Humaines (DRH). Arrêtés d'admission à la retraite de la Fonction publique et du personnel. | Le décrochage des enseignants est maitrisé à travers une planification et une gestion rigoureuse des effectifs et des carrières.
+Taux d'attrition des enseignants par niveau d'études | Rapports des directions des Ressources Humaines (DRH). Arrêtés d'admission à la retraite de la Fonction publique et du personnel. | Le décrochage des enseignants est maitrisé à travers une planification et une gestion rigoureuse des effectifs et des carrières.
 Pourcentage d'enseignants chargés de cours | Annuaire des statistiques scolaires ; | Le personnel enseignant est bien géré. La gestion repose sur une planification rigoureuse basée sur des données complètes et de qualité.
-Rendre la fonction enseignante plus attractive | Taux de participation au concours d'entrée dans les écoles de formation des enseignants | Rapports CNECE, DNEN, ENSUP, ENETP, etc. | La soutenabilité des mesures envisagées ou prises.
+Objectifs spécifiques 2.3.5. | Rendre la fonction enseignante plus attractive | Taux de participation au concours d'entrée dans les écoles de formation des enseignants | Rapports CNECE, DNEN, ENSUP, ENETP, etc. | La soutenabilité des mesures envisagées ou prises.
 Résultat 2.3.5.1. | Les conditions de vie et de travail des enseignants ainsi que celles du personnel d'encadrement sont améliorées | Proportion d'enseignants distingués | Rapport GRH | La soutenabilité des mesures envisagées ou prises.
 Proportion d'agents administratifs distingués | Rapport GRH | La soutenabilité des mesures envisagées ou prises.
 Le salaire moyen d'un enseignant en pourcentage du PIB par habitant selon l'ordre, le type d'enseignement et le statut (fonctionnaire de l'Etat, fonctionnaire des Collectivités Territoriales, contractuel de l'Etat, contractuel des Collectivités Territoriales). | Rapports GRH et DFM | La soutenabilité des mesures envisagées ou prises.
@@ -4244,8 +4380,8 @@ DESCRIPTION DU PROGRAMME | Indicateurs Objectivement Vérifiables (IOV) | Source
 --- | --- | --- | --- | ---
 Pourcentage des recommandations par cadre de coordination suivies et mises en œuvre | Rapport de suivi des recommandations. | Un relevé systématique des conclusions des réunions du cadre de concertation est effectué, et un suivi rigoureux est assuré.
 Objectif spécifique 4.1.3. | Renforcer les compétences des responsables et les capacités des services des départements en charge de l'éducation et de la formation professionnelle et des Collectivités Territoriales en matière de pilotage, de coordination et de suivi-évaluation | Nombre de responsables du Secteur de l'Education et de la formation professionnelle ayant le profil requis par rapport aux postes occupés | Rapport d'évaluation des responsables du secteur de l'éducation et de la formation professionnelle | Les cadres organiques sont élaborés, actualisés au besoin et évalués.
-Résultat 4.1.3.1 | Les compétences des responsables des départements en charge de l'éducation, de la formation professionnelle et des Collectivités Territoriales en matière de pilotage et de coordination sont renforcées | Existence d'un plan de formation des concepteurs, planificateurs et gestionnaires des départements en charge de l'éducation et de la formation professionnelle en matière de planification, montage de projets d'école, administration scolaire, management et | Le programme et le plan de formation. | Engagement des pouvoirs publics à mettre en œuvre et à soutenir le programme.
-leadership | Qualité des ressources humaines et des Instruments de gouvernance
+Résultat 4.1.3.1 | Les compétences des responsables des départements en charge de l'éducation, de la formation professionnelle et des Collectivités Territoriales en matière de pilotage et de coordination sont renforcées | Existence d'un plan de formation des concepteurs, planificateurs et gestionnaires des départements en charge de l'éducation et de la formation professionnelle en matière de planification, montage de projets d'école, administration scolaire, management et leadership | Le programme et le plan de formation. | Engagement des pouvoirs publics à mettre en œuvre et à soutenir le programme.
+Qualité des ressources humaines et des Instruments de gouvernance
 Pourcentage de responsables formés en planification conformément au plan de formation | Rapport de suivi des formations. | Existence d'une volonté manifeste des autorités à améliorer la gestion des services en vue d'avoir des résultats probants. Existence de programmes, de plans de formation appliqués rigoureusement.
 Pourcentage de responsables formés en montage de projets d'école conformément au plan de formation | Rapport de suivi des formations. | Existence d'une volonté manifeste des autorités à améliorer la gestion des services en vue d'avoir des résultats probants. Existence de programmes, de plans de formation appliqués rigoureusement.
 
@@ -4421,7 +4557,7 @@ Objectif Général | Améliorer le mécanisme de prévention et de gestion des r
 
 ### SOUS-PROGRAMME 5.1: Evaluation de la résilience du secteur
 
-Objectif spécifique 5.1.1 | Identifier les exogènes en matière | Niveau de compréhension des facteurs endogènes et exogènes | Rapport de l'étude. | Les facteurs endogènes et exogènes sont identifiés
+Objectif spécifique 5.1.1 | Identifier les facteurs endogènes et exogènes en matière de résilience. | Niveau de compréhension des facteurs endogènes et exogènes | Rapport de l'étude. | Les facteurs endogènes et exogènes sont identifiés
 --- | --- | --- | --- | ---
 Résultat 5.1.1.1 | Les facteurs endogènes et exogènes en matière de résilience sont identifiés | Existence d'un rapport diagnostic sur les facteurs endogènes et exogènes en matière de résilience partagé avec les gestionnaires | Rapport de l'étude | Les facteurs endogènes et exogènes sont identifiés.
 Nombre de conflits intercommunautaires identifiés | Rapport de mise en œuvre du plan de contingence. | Les facteurs endogènes et exogènes sont identifiés
@@ -4464,8 +4600,11 @@ Résultat 5.2.2.1 | Le plan de contingence est mis en œuvre, suivi et évalué 
 INDICATEURS | DEFINITIONS | METHODES DE CALCUL
 --- | --- | ---
 Proportion d'enfants/ d'élèves/d'adultes maîtrisant les compétences de base | Cette proportion indique le nombre d'enfants/d'élèves/d'adultes ayant atteint ou non, dans une épreuve standardisée, un seuil de compétences défini. | Diviser le nombre d'items réussis par le nombre total d'items de l'épreuve x 100.
+En dessous d'un taux de réponses correctes de 40%, des connaissances fondamentales en mathématiques et en français ne sont pas assurées. Autrement dit, la compétence de base consiste à réussir au moins 40% des scores à une épreuve standardisée. | Dénombrer le nombre d'élèves ayant réussi plus de 40% des scores sur 100
 FORMULE : (i) Nombre d'items réussis par le nombre total d'items de l'épreuve x 100. (ii). Nombre d'élèves ayant réussi plus de 40% des scores /100
-Taux brut de Préscolarisation (TBP) | Ce taux correspond au nombre total d'enfants du préscolaire exprimé en pourcentage de la population de tranche d'âges correspondante (3-6 ans) | Diviser le nombre d'enfants tous âges dans le préscolaire par la population de tranche d'âges correspondante (3-6 ans) X100 Nombre d'enfants tous âges dans le préscolaire
+Taux brut de Préscolarisation (TBP) | Ce taux correspond au nombre total d'enfants du préscolaire exprimé en pourcentage de la population de tranche d'âges correspondante (3-6 ans) | Diviser le nombre d'enfants tous âges dans le préscolaire par la population de tranche d'âges correspondante (3-6 ans) X100
+FORMULE: | Nombre d'enfants tous âges dans le préscolaire | X100
+Population totale d'enfants de 3-6 ans
 % d'enfants dans le préscolaire public | Ce pourcentage correspond à la part des enfants du préscolaire public dans l'effectif total de l'ordre d'enseignement. | Diviser le nombre d'enfants tous âges dans le préscolaire public par la population totale d'enfants du préscolaire X100
 
 154
@@ -4516,7 +4655,8 @@ Population de la tranche d'âges correspondante (13-15ans)
 % d'élèves dans le privé laïc | Ce pourcentage mesure la part des élèves du privé laïc dans l'effectif total de l'enseignement fondamental, cycle 1. | Diviser le nombre d'élèves tous âges dans le privé laïc par l'effectif total des élèves du fondamental, cycle 1 x 100
 FORMULE: | Nombre d'élèves tous âges dans le privé laïc | X100
 Effectif total du F1
-% d'élèves dans le privé communautaire | Ce pourcentage mesure la part des élèves du communautaire dans l'effectif total de l'enseignement fondamental, cycle 1. | Diviser le nombre d'élèves du communautaire par l'effectif total du F1 X100 | X100
+% d'élèves dans le privé communautaire | Ce pourcentage mesure la part des élèves du communautaire dans l'effectif total de l'enseignement fondamental, cycle 1. | Diviser le nombre d'élèves du communautaire par l'effectif total du F1 X100
+FORMULE: | Nombre d'élèves du privé communautaire | X100
 Effectif total du F1
 
 157
@@ -4546,10 +4686,11 @@ Population totale d'enfants de 15ans
 INDICATEURS | DEFINITIONS | METHODES DE CALCUL
 --- | --- | ---
 Pourcentage de redoublants dans le cycle (%Red) | Il mesure le nombre d'élèves qui redoublent dans le cycle par rapport à l'effectif total dans le cycle | Diviser le nombre total de redoublants par le nombre total élèves dans le cycle X100
-Nombre total de redoublants
+FORMULE : | Nombre total de redoublants | X100
 Nombre total élèves dans le cycle
 Taux d'abandon | Pourcentage des élèves d'une cohorte inscrits dans une année scolaire donnée qui abandonnent l'année scolaire suivante. | Additionner les taux de promotion et de redoublement et soustraire cette Somme de 100 pour obtenir le taux d'abandon scolaire par année d'études. Il convient de soustraire le taux de survie de 100 pour obtenir le taux cumulé d'abandon scolaire dans l'enseignement primaire.
-FORMULE : | Nombre d'élèves de l'année d'étude g abandonnant l'année t X100 Nombre d'élèves inscrits de l'année d'étude g
+FORMULE : | Nombre d'élèves de l'année d'étude g abandonnant l'année t | X100
+Nombre d'élèves inscrits de l'année d'étude g l'année t
 Ratio manuels/élèves au F1 et au F2 | Cet indicateur désigne le nombre de manuels nécessaires par discipline fondamentale par élève au F1 et au F2 | Rapporter le nombre de manuels nécessaires par discipline par élève par le nombre total d'élèves par cycle (F1 et F2)
 
 159
@@ -4560,8 +4701,9 @@ Ratio manuels/élèves au F1 et au F2 | Cet indicateur désigne le nombre de man
 
 INDICATEURS | DEFINITIONS | METHODES DE CALCUL
 --- | --- | ---
-FORMULE : | Nombre de manuels nécessaires par discipline par élève X100
-Existence d'unités d'évaluation fonctionnelles aux niveaux (i) national, (ii) Académie d'enseignement (iii) Centre d'Animation | Cet indicateur fait le constat de la mise en place et de la fonctionnalité des unités d'évaluation aux niveaux indiqués. | L'indicateur est exprimé par un 'oui' si l'unité d'évaluation est fonctionnelle, et par un 'non' le cas échéant.
+FORMULE : | Nombre de manuels nécessaires par discipline par élève | X100
+Nombre total d'élèves par cycle (F1 et F2)
+Existence d'unités d'évaluation fonctionnelles aux niveaux (i) national, (ii) Académie d'enseignement (iii) Centre d'Animation Pédagogique | Cet indicateur fait le constat de la mise en place et de la fonctionnalité des unités d'évaluation aux niveaux indiqués. | L'indicateur est exprimé par un 'oui' si l'unité d'évaluation est fonctionnelle, et par un 'non' le cas échéant.
 FORMULE: une échelle de 0 à 1 sera utilisée. 0 = non 1= oui
 % de nouveaux entrants exclusivement avec BAC dans les structures de formation d'enseignants. | Cet indicateur désigne le nombre de candidats titulaires du Bac (années n à n-3) inscrits dans les structures de formation sur le nombre total de bacheliers des trois dernières années. | Diviser le nombre de candidats titulaires du Baccalauréat inscrits dans les structures de formation d'enseignants par le nombre total d'élèves admis.
 
@@ -4589,8 +4731,11 @@ Nombre d'adultes inscrits dans les programmes Alpha. | Cet indicateur indique le
 INDICATEURS | DEFINITIONS | METHODES DE CALCUL
 --- | --- | ---
 FORMULE: | Nombre d'adultes analphabètes inscrits moins Population totale résiduelle d'adultes à alphabétiser
-Nombre d'enfants inscrits dans le programme SSA/P pris en charge par l'Etat | Cet indicateur correspond au nombre d'enfants non scolarisés et déscolarisés précoces inscrits dans les centres SSA/P à la charge de l'Etat | Soustraire le nombre d'enfants inscrits dans les programmes SSA/P à la charge de l'Etat du nombre total d'enfants inscrits dans les SSA/P Nombre d'enfants inscrits dans les programmes SSA/P à la charge de l'Etat
-Proportion d'élèves bénéficiaires des cantines scolaires | Cet indicateur indique le nombre d'élèves bénéficiaires de cantines en pourcentage du nombre total d'élèves FORMULE: | Diviser le nombre d'élèves bénéficiaires de cantines par le nombre total d'élèves du fondamental X 100 Nombre d'élèves bénéficiaires de cantines X100
+Nombre d'enfants inscrits dans le programme SSA/P pris en charge par l'Etat | Cet indicateur correspond au nombre d'enfants non scolarisés et déscolarisés précoces inscrits dans les centres SSA/P à la charge de l'Etat | Soustraire le nombre d'enfants inscrits dans les programmes SSA/P à la charge de l'Etat du nombre total d'enfants inscrits dans les SSA/P
+FORMULE: | Nombre d'enfants inscrits dans les programmes SSA/P à la charge de l'Etat moins Nombre total d'enfants inscrits dans les SSA/P
+Proportion d'élèves bénéficiaires des cantines scolaires | Cet indicateur indique le nombre d'élèves bénéficiaires de cantines en pourcentage du nombre total d'élèves | Diviser le nombre d'élèves bénéficiaires de cantines par le nombre total d'élèves du fondamental X 100
+FORMULE: | Nombre d'élèves bénéficiaires de cantines | X100
+Nombre total d'élèves du fondamental
 Taux de transition effective du F2 vers le secondaire technique et professionnel | Cet indicateur correspond au nombre d'élèves admis au DEF et orientés dans le secondaire professionnel sur le total des admis orientés dans le secondaire . | Diviser le nombre d'élèves admis orientés dans le secondaire professionnel par le nombre le nombre total d'élèves orientés dans le secondaire x 100.
 
 162
@@ -4603,7 +4748,7 @@ INDICATEURS | DEFINITIONS | METHODES DE CALCUL
 --- | --- | --- | ---
 FORMULE: | Nombre d'élèves admis orientés dans le secondaire professionnel | X100
 Nombre total d'élèves orientés dans le secondaire
-Part du primaire (F1) dans le budget de l'éducation | Cet indicateur correspond à la part du primaire (Enseignement fondamental, cycle 1) dans les dépenses courantes de l'éducation. | Diviser le montant du budget alloué au primaire (F1) - (fonctionnement et investissement) par le budget de l'Etat 100 | x
+Part du primaire (F1) dans le budget de l'éducation | Cet indicateur correspond à la part du primaire (Enseignement fondamental, cycle 1) dans les dépenses courantes de l'éducation. | Diviser le montant du budget alloué au primaire (F1) - (fonctionnement et investissement) par le budget de l'Etat x 100
 FORMULE: | Part du primaire dans les dépenses courantes de l'Education | X100
 Budget alloué à l'éducation
 Nombre d'heures hebdomadaires effectives : (i) au F1, (ii) au F2 | Cet indicateur correspond au nombre d'heures hebdomadaires exécutées par un maître chargé de cours au F1 et au F2 comparé au nombre d'heures statutaires. | Soustraire le nombre d'heures effectuées par maître au F1 et au F2 du total des heures statutaires de chaque cycle.
