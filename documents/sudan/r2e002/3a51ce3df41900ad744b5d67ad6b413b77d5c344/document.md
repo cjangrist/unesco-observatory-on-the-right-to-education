@@ -2,6 +2,8 @@
 
 PDF generated: 27 Jul 2018, 21:08
 
+CONSTITUTE
+
 constituteproject.org
 
 # Sudan's Constitution of 2005
@@ -20,6 +22,44 @@ PDF generated: 27 Jul 2018, 21:08
 
 ## Table of contents
 
+Preamble 10
+PART ONE: THE STATE, THE CONSTITUTION AND GUIDING PRINCIPLES 10
+CHAPTER I: THE STATE AND THE CONSTITUTION 10
+1. Nature of the State 10
+2. Sovereignty 11
+3. Supremacy of the Interim National Constitution 11
+4. Fundamental Bases of the Constitution 11
+5. Sources of Legislation 11
+6. Religious Rights 12
+7. Citizenship and Nationality 12
+8. Language 12
+9. National Symbols 13
+CHAPTER II: GUIDING PRINCIPLES AND DIRECTIVES 13
+10. National Economy 13
+11. Environment and Natural Resources 13
+12. Social Justice 13
+13. Education, Science, Art and Culture 13
+14. Children, Youth and Sports 14
+15. Family, Women and Marriage 14
+16. Morals and Public Integrity 14
+17. Foreign Policy 14
+18. Defence of the Country 15
+19. Public Health 15
+20. Fiscal Levies 15
+21. National Reconciliation 15
+22. Saving 15
+CHAPTER III: DUTIES OF THE CITIZEN 16
+23. Duties of the Citizen 16
+CHAPTER IV: THE DECENTRALIZED SYSTEM OF GOVERNANCE 16
+24. Levels of Government 16
+25. Devolution of Powers 17
+26. Inter-Governmental Linkages 17
+PART TWO: BILL OF RIGHTS 18
+27. Nature of the Bill of Rights 18
+28. Life and Human Dignity 18
+29. Personal Liberty 19
+30. Sanctity from Slavery and Forced Labour 19
+
 Sudan 2005
 
 Page 2
@@ -31,6 +71,45 @@ Page 2
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+31. Equality before the Law 19
+32. Rights of Women and Children 19
+33. Sanctity from Torture 19
+34. Fair Trial 19
+35. Right to Litigation 20
+36. Restriction on Death Penalty 20
+37. Privacy 20
+38. Freedom of Creed and Worship 20
+39. Freedom of Expression and Media 20
+40. Freedom of Assembly and Association 20
+41. Right to Vote 21
+42. Freedom of Movement and Residence 21
+43. Right to Own Property 21
+44. Right to Education 21
+45. Rights of Persons with Special Needs and the Elderly 21
+46. Public Health Care 21
+47. Ethnic and Cultural Communities 22
+48. Sanctity of Rights and Freedoms 22
+PART THREE: THE NATIONAL EXECUTIVE 22
+CHAPTER I: THE NATIONAL EXECUTIVE AND ITS POWERS 22
+49. Composition of the National Executive 22
+50. Powers of the National Executive 22
+CHAPTER II: THE PRESIDENCY OF THE REPUBLIC 22
+51. Composition of the Presidency 22
+52. The President of The Republic 22
+53. Eligibility for the President of the Republic 23
+54. Nomination and Election of the President of the Republic 23
+55. Postponement of Elections of the President 23
+56. Oath of the President 23
+57. Tenure of Office of the President of the Republic 24
+58. Functions of the President of the Republic 24
+59. Vacancy of the Office of the President of the Republic 25
+60. Immunity and Impeachment of the President and the First Vice President 25
+61. Contesting Acts of the President or the Presidency 26
+62. The two Vice President[s], Assistants and Advisors 26
+63. Functions of the two Vice President[s] 26
+64. Vacancy of the Office of the First Vice President 27
+CHAPTER III: INTERIM PROVISIONS FOR THE PRESIDENCY OF THE REPUBLIC 27
 
 Sudan 2005
 
@@ -44,6 +123,45 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
+65. The Incumbent President and the First Vice President 27
+66. Vacancy of the Office of the President before Elections 27
+67. Vacancy of the Office of the President after Elections 28
+68. Vacancy of the Office of the First Vice President before Elections 28
+69. Interim Provisions for Tenure of Office of the President and the First Vice President 28
+CHAPTER IV: THE NATIONAL COUNCIL OF MINISTERS 29
+70. Composition and Competences of the National Council of Ministers 29
+71. Oath of the National Minister 29
+72. Functions of the National Council of Ministers 29
+73. Functions of the National Minister 30
+74. Collective and Individual Responsibility of National Ministers 30
+75. Declaration of Wealth and Prohibition of Private Business 30
+76. Vacancy of the Office of the National Minister 31
+77. Confidentiality of Deliberations of the National Council of Ministers 31
+78. Contesting Ministerial Acts 31
+CHAPTER V: THE GOVERNMENT OF NATIONAL UNITY 31
+79. Objectives of the Government of National Unity 31
+80. Allocation of Seats of Government of National Unity 31
+81. Sharing of National Ministerial Portfolios 32
+82. Duties of the Government of National Unity 32
+PART FOUR: THE NATIONAL LEGISLATURE 33
+CHAPTER I: COMPOSITION AND FUNCTIONING OF THE NATIONAL LEGISLATURE 33
+83. Composition of the National Legislature 33
+84. Composition of the National Assembly 33
+85. Composition of the Council of States 33
+86. Eligibility for Membership of the National Legislature 33
+87. Lapse of Membership of the National Legislature 34
+88. Seat of the National Legislature 34
+89. Oath of Member of the National Legislature 35
+90. Term of the National Legislature 35
+91. Functions of the National Legislature 35
+92. Immunity of Members of the National Legislature 37
+93. Sessions of the National Legislature 37
+94. Officers of the National Legislature 37
+95. Committees of the National Legislature 38
+96. Regulations of the National Legislature 38
+97. Quorum 38
+98. Publicity of Sittings of the National Legislature 38
+
 Sudan 2005
 
 Page 4
@@ -55,6 +173,45 @@ Page 4
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+99. Passing Legislative Resolutions 38
+100. Prerogative of Members of the National Legislature 38
+101. Address by the President of the Republic 39
+102. Addresses by the Two Vice Presidents and Statements by National Ministers and Governors 39
+103. Addressing Questions by Members of the National Legislature 39
+104. Requesting Statements 39
+105. General Summons 39
+106. Tabling of Bills 39
+107. Procedures for Presentation and Consideration of Bills 40
+108. Assent of the President of the Republic 40
+109. Provisional Orders 40
+110. Allocation of Resources and Revenues Bill 41
+111. National Budget Bill 41
+112. Private Member Financial Bills 41
+113. Provisional and Supplementary Financial Measures 41
+114. Final Accounts 42
+115. Delegation of Powers of Subsidiary Legislation 42
+116. Validity of the Proceedings of the National Legislature 42
+CHAPTER II: INTERIM PROVISIONS FOR THE NATIONAL LEGISLATURE 42
+117. Composition of National Legislature Prior to Elections 42
+118. Interim Provisions for Tenure of the National Legislature 43
+PART FIVE: THE NATIONAL JUDICIAL ORGANS 43
+CHAPTER I: THE CONSTITUTIONAL COURT 43
+119. Establishment of the Constitutional Court 43
+120. Appointment of the President of the Constitutional Court and Vacancy of Office 43
+121. Justices of the Constitutional Court 44
+122. Competence and Jurisdiction of the Constitutional Court 44
+CHAPTER II: THE NATIONAL JUDICIARY 45
+123. The National Judicial Authority 45
+124. The Structures of the National Judiciary 45
+125. The National Supreme Court 45
+126. National Courts of Appeal 45
+127. Other National Courts 45
+128. Independence of Justices and Judges 46
+129. The National Judicial Service Commission 46
+130. Appointment of Justices, Judges and their Terms and Conditions of Service 46
+131. Discipline of Justices and Judges 46
+132. Appointment of Justices and Judges of Southern Sudan 46
 
 Sudan 2005
 
@@ -68,6 +225,43 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
+PART SIX: PUBLIC ATTORNEYS AND ADVOCACY 47
+133. Public Attorneys 47
+134. Advocacy 47
+PART SEVEN: THE NATIONAL CIVIL SERVICE 47
+135. The National Civil Service 47
+136. Guidelines for Inclusiveness in the National Civil Service 48
+137. The National Civil Service Commission 48
+138. Interim Tasks of the National Civil Service Commission 48
+139. National Employees Justice Chamber 49
+PART EIGHT: INDEPENDENT NATIONAL INSTITUTIONS AND COMMISSIONS 49
+140. The National Constitutional Review Commission 49
+141. National Elections Commission 49
+142. Human Rights Commission 50
+143. Public Grievances Chamber 50
+PART NINE: ARMED FORCES, LAW ENFORCEMENT AGENCIES AND NATIONAL SECURITY 50
+CHAPTER I: THE NATIONAL ARMED FORCES 50
+144. Status of Forces 50
+145. Joint/Integrated Units 51
+146. Command and Control of Joint/Integrated Units and Coordination between the Armed Forces 51
+147. The Permanent Ceasefire 51
+CHAPTER II: THE LAW ENFORCEMENT AGENCIES 51
+148. The Police 51
+149. Prisons and Wildlife Services 52
+CHAPTER III: THE NATIONAL SECURITY 52
+150. The National Security Council 52
+151. The National Security Service 52
+PART TEN: THE NATIONAL CAPITAL 53
+152. The National Capital 53
+153. Administration of the National Capital 53
+154. Respect for Human Rights in the National Capital 53
+155. Law Enforcement Agencies in the National Capital 53
+156. Dispensing Justice in the National Capital 53
+157. The Non-Muslims Rights Special Commission 54
+158. Mechanism for Guarantees 54
+PART ELEVEN: GOVERNMENT OF SOUTHERN SUDAN 54
+CHAPTER I: ESTABLISHMENT OF GOVERNMENT OF SOUTHERN SUDAN 54
+
 Sudan 2005
 
 Page 6
@@ -79,6 +273,45 @@ Page 6
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+159. Organs of the Government of Southern Sudan 54
+160. Interim Constitution of Southern Sudan 55
+161. The Powers of the Government of Southern Sudan 55
+162. Primary Responsibilities of the Government of Southern Sudan 55
+CHAPTER II: THE EXECUTIVE OF SOUTHERN SUDAN 55
+163. The President of the Government of Southern Sudan 55
+164. The Vice President of the Government of Southern Sudan 55
+165. Southern Sudan Council of Ministers 56
+166. Accountability of Southern Sudan Council of Ministers 56
+167. Special Obligations of the Government of Southern Sudan 56
+168. Southern Sudan Independent Institutions and Commissions 56
+CHAPTER III: THE LEGISLATURE OF SOUTHERN SUDAN 56
+169. Establishment of Southern Sudan Legislative Assembly 56
+170. Assignment of Powers to the Government of Southern Sudan 57
+171. Powers of Southern Sudan Assembly 57
+CHAPTER IV: THE JUDICIARY OF SOUTHERN SUDAN 57
+172. The Structure of the Judiciary of Southern Sudan 57
+173. The Supreme Court of Southern Sudan 57
+174. Competences of the Supreme Court of Southern Sudan 58
+175. Justices and Judges of Southern Sudan 58
+CHAPTER V: INTERIM PROVISIONS FOR SOUTHERN SUDAN 58
+176. Interim Provisions for Southern Sudan 58
+PART TWELVE: THE STATES AND ABYEI AREA 59
+177. States of the Sudan 59
+178. State Organs 59
+179. State Executive 60
+180. State Legislature 60
+181. State Judiciary 61
+182. Southern Kordofan and Blue Nile States 61
+183. Abyei Area 61
+184. Interim Provisions for States 62
+PART THIRTEEN: FINANCE AND ECONOMIC MATTERS 63
+CHAPTER I: GUIDING PRINCIPLES FOR EQUITABLE SHARING OF RESOURCES AND COMMON WEALTH 63
+185. Guiding Principles for Equitable Sharing of Resources and Common Wealth 63
+CHAPTER II: LAND RESOURCES 64
+186. Land Regulation 64
+187. National Land Commission 64
+188. Southern Sudan Land Commission 65
 
 Sudan 2005
 
@@ -92,6 +325,45 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
+189. Cooperation between National and Southern Sudan Land Commissions 65
+CHAPTER III: DEVELOPMENT AND MANAGEMENT OF THE PETROLEUM SECTOR 65
+190. The Framework for Petroleum Management 65
+191. National Petroleum Commission 66
+192. Sharing Oil Revenue 68
+CHAPTER IV: SOURCES OF REVENUE 68
+193. Sources of National Revenue 68
+194. Sources of Southern Sudan Revenue 69
+195. Sources of States Revenue 70
+196. Southern Sudan Non-oil Revenue Allocation 70
+CHAPTER V: FISCAL AND FINANCIAL MECHANISMS 71
+197. National Revenue Fund 71
+198. Fiscal and Financial Allocation and Monitoring Commission 71
+199. National Reconstruction and Development Fund 72
+200. Southern Sudan Reconstruction and Development Fund 72
+CHAPTER VI: BANKING 72
+201. The Dual Banking System 72
+202. Restructuring and Management of the Central Bank of Sudan 73
+203. Government Borrowing 73
+CHAPTER VII: ACCOUNTING STANDARDS 74
+204. Accounting Procedures, Standards and Fiscal Accountability 74
+205. National and Southern Sudan Audit Chambers 74
+CHAPTER VIII: INTERSTATE COMMERCE 75
+206. Interstate Commerce 75
+CHAPTER IX: TRANSITIONAL PROVISIONS FOR FINANCE AND BANKING 75
+207. New Currency 75
+208. Existing Oil Contracts 75
+209. Government Liabilities and Assets 75
+PART FOURTEEN: STATE OF EMERGENCY AND DECLARATION OF WAR 76
+210. Declaration of State of Emergency 76
+211. Powers of the President in the State of Emergency 76
+212. Duration of the State of Emergency 76
+213. Declaration of War 77
+PART FIFTEEN: CENSUS AND ELECTIONS 77
+CHAPTER I: CENSUS 77
+214. The Population Census Council 77
+215. Population Census 77
+CHAPTER II: ELECTIONS 77
+
 Sudan 2005
 
 Page 8
@@ -103,6 +375,27 @@ Page 8
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+216. Time of Elections 77
+217. Referendum 78
+218. Condition for Contesting Election 78
+PART SIXTEEN: SOUTHERN SUDAN RIGHT TO SELF-DETERMINATION 78
+219. Affirmation of the Right to Self Determination by the People of Southern Sudan 78
+220. Southern Sudan Referendum Commission 78
+221. The Assessment and Evaluation Commission 78
+222. The Referendum on Self-Determination 79
+PART SEVENTEEN: MISCELLANEOUS PROVISIONS 79
+223. Coming into Force 79
+224. Amendment of the Constitution 79
+225. Incorporation of the Comprehensive Peace Agreement 79
+226. Transitional and Miscellaneous Provisions 79
+SCHEDULES 80
+SCHEDULE A: NATIONAL POWERS 80
+SCHEDULE B: POWERS OF THE GOVERNMENT OF SOUTHERN SUDAN 82
+SCHEDULE C: POWERS OF STATES 84
+SCHEDULE D: CONCURRENT POWERS 87
+SCHEDULE E: RESIDUAL POWERS 88
+SCHEDULE F: RESOLUTION OF CONFLICTS IN RESPECT OF CONCURRENT POWERS 89
 
 Sudan 2005
 
@@ -2202,7 +2495,9 @@ Supreme court term length
 
 Supreme court term limits
 
-· Supreme/ordinary court judge removal Other national courts shall be established by law as deemed necessary.
+· Supreme/ordinary court judge removal
+
+Other national courts shall be established by law as deemed necessary.
 
 #### 128. Independence of Justices and Judges
 
@@ -2526,15 +2821,15 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· National capital
 
-· Regulation of evidence collection
 
 - There  shall  be  established  National  Security  Service  offices  throughout  the Sudan.
 
 - The National Security Service shall be under the supervision of the Presidency.
 
 ## PART TEN: THE NATIONAL CAPITAL
+
+· National capital
 
 #### 152. The National Capital
 
@@ -2563,6 +2858,8 @@ Without prejudice to the competence of any national institution to promulgate la
 - behaviour  based  on  cultural  practices  and  traditions,  which  does  not disturb public order, is not disdainful of other traditions and not in violation of the law, shall be deemed in the eyes of the law as an exercise of personal freedoms,
 
 - personal  privacy  is  inviolable  and  evidence  obtained  in  violation  of  such privacy shall not be admissible in the court of law,
+
+· Regulation of evidence collection
 
 Sudan 2005
 
@@ -2788,7 +3085,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· Subsidiary unit government Commander-in-Chief of the Sudan People's Liberation Army.
+Commander-in-Chief of the Sudan People's Liberation Army.
 
 - Should the office  of  the  President  of  Government  of  Southern  Sudan  fall vacant,  not  withstanding  Article  163(3)  above,  the  office  shall  be  filled, within  two  weeks,  by  the  nominee  of  the  Sudan  People's  Liberation Movement.
 
@@ -2809,6 +3106,8 @@ PDF generated: 27 Jul 2018, 21:08
 - fifteen percent representing the other southern Sudan political forces.
 
 ## PART TWELVE: THE STATES AND ABYEI AREA
+
+· Subsidiary unit government
 
 #### 177. States of the Sudan
 
@@ -2832,11 +3131,11 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· Subsidiary unit government
 
-· Subsidiary unit government
 
 - The  state  shall  promote  and  empower  local  government.  Organization  of  the local government and elections to its respective institutions shall be conducted in accordance with the relevant state constitution.
+
+· Subsidiary unit government
 
 #### 179. State Executive
 
@@ -2860,6 +3159,8 @@ PDF generated: 27 Jul 2018, 21:08
 
 - The Governor shall, together with the state council of ministers appointed by him, exercise the executive powers of the state which shall be in respect of the functional  areas  in  Schedules  C  and  D  read  together  with  Schedules  E  and  F herein and such other executive competences as are conferred upon the state by this Constitution, the Interim Constitution of Southern Sudan and the state constitution.
 
+· Subsidiary unit government
+
 #### 180. State Legislature
 
 - The  state  shall  have  a  state  legislature  composed  of  members  elected  in accordance  with  the  state  constitution  and  the  law  and  as  set  forth  by  the National Elections Commission.
@@ -2878,13 +3179,15 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· Subsidiary unit government
+
 
 - The  state  legislature  shall  have  law-making  competence  in  respect  of  the functional areas listed in Schedules C and D read together with Schedules E and F herein.
 
 - The  state  legislature  shall  decide  its  own  rules  of  procedure,  appoint  its committees and elect its speaker and other officers.
 
 - Governors  and  members  of  state  councils  of  ministers  and  legislatures  shall have immunities as are provided for by law.
+
+· Subsidiary unit government
 
 #### 181. State Judiciary
 
@@ -2966,11 +3269,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-Ownership of natural resources
 
-Subsidiary unit government
-
-· Provisions for wealth redistribution
 
 ## PART THIRTEEN: FINANCE AND ECONOMIC MATTERS
 
@@ -2978,11 +3277,17 @@ Subsidiary unit government
 
 #### 185. Guiding Principles for Equitable Sharing of Resources and Common Wealth
 
+· Ownership of natural resources
+
+· Subsidiary unit government
+
 - Resources and common wealth of the Sudan shall be shared equitably to enable each level of government to discharge its legal and constitutional responsibilities and duties and to ensure that the quality of life, dignity and living conditions  of  all  citizens  are  promoted  without  discrimination  on  grounds  of gender, race, religion, political affiliation ethnicity, language or region.
 
 - The sharing and allocation of the resources and common wealth of the Sudan shall  be  based  on  the  premise  that  all  parts  of  the  country  are  entitled  to development.
 
 - The National Government shall fulfil its obligations to provide financial transfers to the Government of Southern Sudan, and shall, except as otherwise provided herein, apportion revenues equitably among other states[.]
+
+· Provisions for wealth redistribution
 
 - The State recognizes that Southern Sudan, Southern Kordofan, Blue Nile, Abyei Area and other conflict affected areas face serious needs; they shall be enabled to perform basic government functions, establish civil administration, rehabilitate and reconstruct the social and physical infrastructure in a post-conflict Sudan.
 
@@ -3058,7 +3363,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· Ownership of natural resources
+
 
 - The  National  Land  Commission  shall  be  accountable  to  the  Presidency  which shall approve the budget of the Commission.
 
@@ -3081,6 +3386,8 @@ In accordance with this Constitution and without prejudice to the jurisdiction o
 - In the case of conflict between the findings or recommendations of the National Land  Commission  and  Southern  Sudan  Land  Commission  which  cannot  be resolved or reconciled by agreement pursuant to sub-Article (2)(b) above, the matter shall be referred to the Constitutional Court.
 
 ### CHAPTER III: DEVELOPMENT AND MANAGEMENT OF THE PETROLEUM SECTOR
+
+· Ownership of natural resources
 
 #### 190. The Framework for Petroleum Management
 
@@ -3388,7 +3695,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-· Central bank
+
 
 - The Fiscal and Financial Allocation and Monitoring Commission shall quarterly report  to  the  Presidency  about  its  analysis  and  findings,  confirming  that nationally  collected  funds  are  allocated  according  to  sub-Article  (2)  above, without prejudice to Article 185(10) of this Constitution, the Presidency shall take appropriate remedial action in case of failure by the National Treasury to discharge any of the functions stipulated in that Article.
 
@@ -3405,6 +3712,8 @@ There shall be established by the National Treasury, a National Reconstruction a
 - The Government of Southern Sudan shall be responsible for expenditure from the fund and shall be entitled to raise additional funds by way of donation from foreign States, multilateral organizations or other bodies for the purposes of the reconstruction  and  development  of  Southern  Sudan  states.  The  Fund  shall  be transparently administered and professionally managed subject to an oversight by Southern Sudan Assembly and a committee appointed by the Government of Southern  Sudan  but  having  on  it  a  representative  of  the  National  Ministry  of Finance and of the National Audit Chamber.
 
 ### CHAPTER VI: BANKING
+
+· Central bank
 
 #### 201. The Dual Banking System
 
@@ -3428,7 +3737,7 @@ PDF generated: 27 Jul 2018, 21:08
 
 · Central bank
 
-· Central bank
+
 
 #### 202. Restructuring and Management of the Central Bank of Sudan
 
@@ -3459,6 +3768,8 @@ PDF generated: 27 Jul 2018, 21:08
 - All financial institutions shall be subject to internationally recognized regulatory and  prudential  standards  for  Islamic  and  conventional  finance,  as  set  by  the Central Bank of Sudan.
 
 - All  financial  institutions  shall  be  bound  to  implement monetary policies set by the Central Bank of Sudan.
+
+· Central bank
 
 #### 203. Government Borrowing
 
@@ -3716,9 +4027,9 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-Referenda
+· Referenda
 
-Secession of territory
+· Secession of territory
 
 · Constitution amendment procedure
 
@@ -3818,7 +4129,7 @@ PDF generated: 27 Jul 2018, 21:08
 
 - Constitutional Court and other National Courts;
 
-- National Police (including Criminal Investigation Department  CID, coordination of  international,  regional  and  bilateral  criminal  matters,  and standards and regulations including the standards for training the police in the National Capital);
+- National Police (including Criminal Investigation Department - CID, coordination of  international,  regional  and  bilateral  criminal  matters,  and standards and regulations including the standards for training the police in the National Capital);
 
 - The  fixing  of  and  providing  for  salaries  and  allowances  of  civil  and  other officers of the National Government;
 
@@ -3864,7 +4175,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
-- Telecommunications
+· Telecommunications
 
 - Signing of International Treaties on behalf of the Republic of the Sudan;
 
@@ -4198,7 +4509,7 @@ PDF generated: 27 Jul 2018, 21:08
 
 ### SCHEDULE E: RESIDUAL POWERS
 
-The residual powers shall be dealt with according to their nature (e.g., if the power pertains  to  a  national  matter,  requires  a  national  standard,  or  is  a  matter  which cannot  be  regulated  by  a  single  state,  it  shall  be  exercised  by  the  National Government. If the power pertains to a matter that is usually regulated by the state or local government, it shall be exercised by the state). Where a matter is susceptible to Southern Sudan regulation, i respect of the states of Southern Sudan, it shall be exercised by the Government of Southern Sudan.
+The residual powers shall be dealt with according to their nature (e.g., if the power pertains  to  a  national  matter,  requires  a  national  standard,  or  is  a  matter  which cannot  be  regulated  by  a  single  state,  it  shall  be  exercised  by  the  National Government. If the power pertains to a matter that is usually regulated by the state or local government, it shall be exercised by the state). Where a matter is susceptible to Southern Sudan regulation, in respect of the states of Southern Sudan, it shall be exercised by the Government of Southern Sudan.
 
 Sudan 2005
 
@@ -4240,6 +4551,54 @@ PDF generated: 27 Jul 2018, 21:08
 
 ## Topic index
 
+### A
+
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+### B
+
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 36, 41, 42
+
+### C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Census . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72, 73
+Civil service recruitment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 21
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 79
+Constitutional court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Constitutional court removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Constitutional court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Constitutional court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+### D
+
+Deputy executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 26
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Division of labor between chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 32
+Duty to pay taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+### E
+
+Earnings disclosure requirement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 49
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Eligibility for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 25, 35, 76
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
 Sudan 2005
 
 Page 90
@@ -4251,6 +4610,55 @@ Page 90
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 29
+Establishment of constitutional court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+### F
+
+Finance bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+First chamber representation quotas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+First chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 21
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 20
+
+### G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+### H
+
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 35
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 23
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 18, 21
+Human rights commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+### I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 39
 
 Sudan 2005
 
@@ -4264,6 +4672,58 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 24
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+### J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+### L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Leader of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Legislative initiatives by citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 36, 39
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+### M
+
+Mentions of social class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Minimum age for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+### N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+National capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+National vs subnational laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84, 89
+
+### O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 26, 29, 35
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 46
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63, 65
+
+### P
+
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 25, 35, 77
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Privileges for juveniles in criminal process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
 Sudan 2005
 
 Page 92
@@ -4276,7 +4736,52 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
 
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Protection of consumers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 16
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Provisions for wealth redistribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32, 63
+Public or private sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Publication of deliberations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+### Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
 ### R
+
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Reference to country's history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Reference to fraternity/solidarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78, 79
+Regional group(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 21
+Right to academic freedom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to competitive marketplace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 22
+Right to equal pay for work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to found a family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 21
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Right to marry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
 
 Sudan 2005
 
@@ -4289,6 +4794,49 @@ Page 93
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:08
+
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to self determination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 19
+
+### S
+
+Secession of territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+Second chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Second chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Secrecy of legislative votes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 21
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Spending bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 19
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 21
+Status of religious law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 59, 60, 61, 63
+Supreme court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 46
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Supreme court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+### T
+
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Term length of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Terrorism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 29, 36
+Truth and reconciliation commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+### V
+
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
 
 Sudan 2005
 
