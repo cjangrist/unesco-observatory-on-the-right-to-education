@@ -49,11 +49,11 @@ NOTA: Colombia es miembro, entre otras, de las siguientes organizaciones interna
 
 -Organización  de  los  Estados  Americanos, OEA.  La  IX  Conferencia  Panamericana  (Bogotá,  1948)  creó  la organización con base en los principios de Chapultepec. La Carta de Bogotá, firmada el 2 de mayo de 1948 entró en vigor desde el 13 de diciembre de 1951. La III Conferencia interamericana extraordinaria (Buenos Aires, febrero de 1967) aprobó el Protocolo de reforma de Buenos Aires, en vigor desde el 27 de febrero de 1970.
 
--Asociación  Latinoamericana  de  Integración  Aladi.  Tratado  de  Montevideo,  aprobado  mediante  Ley  45 de1980.
+-Asociación  Latinoamericana  de  Integración - Aladi.  Tratado  de  Montevideo,  aprobado  mediante  Ley  45 de1980.
 
 -Pacto de Integración Subregional Andino, suscrito el 26 de mayo de 1969 en Bogotá, por plenipotenciarios debidamente  autorizados  por  los  gobiernos  de  Bolivia,  Colombia,  Chile,  Ecuador  y  Perú.  Colombia  y  Chile, ratificaron el Acuerdo el 8 de septiembre de 1969, este entró en vigor el 16 de octubre de 1969, fecha en la cual la tercera aprobación, correspondiente al Perú fue recibida en la secretaría de la ALALC. El acuerdo subregional fue modificado por el Protocolo de Quito de 1987, aprobado en olombia mediante la Ley 60 de 1987. Entrada en vigor mayo 25 de 1988.
 
--Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura Unesco. La Constitución fue aprobada en Londres el día 16 de noviembre de 1945 y modificada por la Conferencia General en sus reuniones 2a, 3a, 4a, 5a, 6a, 7a, 8a, 9a, 10a, 12a, 15a, 17a, 19a, 20a, 21a, 24a, 25a, 26a, 27a, 28a, 29a y 31a. Colombia es Estado Miembro de la Unesco desde octubre 31 de 1947.
+-Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura - Unesco. La Constitución fue aprobada en Londres el día 16 de noviembre de 1945 y modificada por la Conferencia General en sus reuniones 2a, 3a, 4a, 5a, 6a, 7a, 8a, 9a, 10a, 12a, 15a, 17a, 19a, 20a, 21a, 24a, 25a, 26a, 27a, 28a, 29a y 31a. Colombia es Estado Miembro de la Unesco desde octubre 31 de 1947.
 
 ### ARTICULO 10.
 El  castellano  es  el  idioma  oficial  de  Colombia.  Las  lenguas  y dialectos  de  los  grupos  étnicos  son  también  oficiales  en  sus  territorios.  La enseñanza  que  se  imparta  en  las  comunidades  con  tradiciones  lingüísticas propias será bilingüe.
@@ -131,11 +131,13 @@ NOTA: El  artículo  24  de  la  Constitución  Política  fue  modificado  por 
 El  trabajo  es  un  derecho  y  una  obligación  social  y  goza,  en todas  sus  modalidades,  de  la  especial  protección  del  Estado.  Toda  persona tiene derecho a un trabajo en condiciones dignas y justas.
 
 ### ARTICULO  26.
-Toda  persona  es  libre  de  escoger  profesión  u  oficio.  La  ley podrá exigir títulos de idoneidad. Las autoridades competentes inspeccionarán y vigilarán el ejercicio de las profesiones. Las ocupaciones, artes y oficios que no  exijan  formación  académica  son  de  libre  ejercicio,  salvo  aquellas  que impliquen un riesgo social.
+Toda  persona  es  libre  de  escoger  profesión  u  oficio.  La  ley podrá exigir títulos de idoneidad. Las autoridades competentes inspeccionarán y vigilarán el ejercicio de las profesiones. Las ocupaciones, artes y oficios que
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+no  exijan  formación  académica  son  de  libre  ejercicio,  salvo  aquellas  que impliquen un riesgo social.
 
 Las  profesiones  legalmente  reconocidas  pueden  organizarse  en  colegios.  La estructura  interna  y  el funcionamiento de  éstos  deberán ser  democráticos. La ley podrá asignarles funciones públicas y establecer los debidos controles.
 
@@ -200,7 +202,7 @@ No  procederá  la extradición  cuando  se  trate  de  hechos  cometidos  con a
 
 > 1. El texto de la norma modificada era el siguiente:
 
-'ART. 35.-Se prohíbe la extradición de colombianos por nacimiento.
+'ART. 35.—Se prohíbe la extradición de colombianos por nacimiento.
 
 No se concederá la extradición de extranjeros por delitos políticos o de opinión.
 
@@ -251,17 +253,17 @@ No  gozan  del  derecho  de  asociación  sindical  los  miembros  de  la  Fuerz
 ### ARTICULO 40.
 Todo ciudadano tiene derecho a participar en la conformación, ejercicio y control del poder político. Para hacer efectivo este derecho puede: 1. Elegir y ser elegido.
 
-- Tomar  parte  en  elecciones,  plebiscitos,  referendos,  consultas  populares  y otras formas de participación democrática.
+2. Tomar  parte  en  elecciones,  plebiscitos,  referendos,  consultas  populares  y otras formas de participación democrática.
 
-- Constituir  partidos,  movimientos  y  agrupaciones  políticas  sin  limitación alguna; formar parte de ellos libremente y difundir sus ideas y programas.
+3. Constituir  partidos,  movimientos  y  agrupaciones  políticas  sin  limitación alguna; formar parte de ellos libremente y difundir sus ideas y programas.
 
-- Revocar  el  mandato  de  los  elegidos  en  los  casos  y  en  la  forma  que establecen la Constitución y la ley.
+4. Revocar  el  mandato  de  los  elegidos  en  los  casos  y  en  la  forma  que establecen la Constitución y la ley.
 
-- Tener iniciativa en las corporaciones públicas.
+5. Tener iniciativa en las corporaciones públicas.
 
-- Interponer acciones públicas en defensa de la Constitución y de la ley.
+6. Interponer acciones públicas en defensa de la Constitución y de la ley.
 
-- Acceder al desempeño de funciones y cargos públicos, salvo los colombianos, por nacimiento o por adopción, que tengan doble nacionalidad.
+7. Acceder al desempeño de funciones y cargos públicos, salvo los colombianos, por nacimiento o por adopción, que tengan doble nacionalidad.
 
 La ley reglamentará esta excepción y determinará los casos a los cuales ha de aplicarse.
 
@@ -302,11 +304,13 @@ También tendrán efectos civiles las sentencias de nulidad de los matrimonios r
 La ley determinará lo relativo al estado civil de las personas y los consiguientes derechos y deberes.
 
 ### ARTICULO 43.
-La mujer y el hombre tienen iguales derechos y oportunidades. La mujer no podrá ser sometida a ninguna clase de discriminación. Durante el embarazo y después del parto gozará de especial asistencia y protección del Estado, y recibirá de éste subsidio alimentario si entonces estuviere desempleada o desamparada.
+La mujer y el hombre tienen iguales derechos y oportunidades. La mujer no podrá ser sometida a ninguna clase de discriminación. Durante el
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+embarazo y después del parto gozará de especial asistencia y protección del Estado, y recibirá de éste subsidio alimentario si entonces estuviere desempleada o desamparada.
 
 El Estado apoyará de manera especial a la mujer cabeza de familia.
 
@@ -349,47 +353,51 @@ No  se  podrán  destinar  ni  utilizar  los  recursos  de  las  instituciones  
 
 La  ley  definirá  los  medios  para  que  los  recursos  destinados  a  pensiones mantengan su poder adquisitivo constante.
 
-INC.Adicionado. A.L. 1/2005, art. 1 º . El Estado garantizará los derechos, la sostenibilidad financiera del sistema pensional, respetará los derechos adquiridos con arreglo a la ley y asumirá el pago de la deuda pensional que de acuerdo  con  la  ley  esté  a  su  cargo.  Las  leyes  en  materia  pensional  que  se expidan  con  posterioridad  a  la  entrada  en  vigencia  de  este  acto  legislativo, deberán asegurar la sostenibilidad financiera de lo establecido en ellas.
+INC.—Adicionado. A.L. 1/2005, art. 1º. El Estado garantizará los derechos, la sostenibilidad financiera del sistema pensional, respetará los derechos adquiridos con arreglo a la ley y asumirá el pago de la deuda pensional que de acuerdo con la ley esté a su cargo. Las leyes en materia pensional que se expidan con posterioridad a la entrada en vigencia de este acto legislativo, deberán asegurar la sostenibilidad financiera de lo establecido en ellas.
 
-INC.Adicionado.  A.L.  1/2005,  art.  1 º . Sin  perjuicio  de  los  descuentos, deducciones  y  embargos  a  pensiones  ordenados  de  acuerdo  con  la  ley,  por ningún  motivo  podrá  dejarse  de  pagar,  congelarse  o  reducirse  el  valor  de  la mesada de las pensiones reconocidas conforme a derecho.
+INC.—Adicionado. A.L. 1/2005, art. 1º. Sin perjuicio de los descuentos, deducciones y embargos a pensiones ordenados de acuerdo con la ley, por ningún motivo podrá dejarse de pagar, congelarse o reducirse el valor de la mesada de las pensiones reconocidas conforme a derecho.
 
-INC.Adicionado. A.L. 1/2005, art. 1 º . Para adquirir el derecho a la pensión será  necesario  cumplir  con  la  edad,  el  tiempo  de  servicio,  las  semanas  de cotización o el capital necesario, así como las demás condiciones que señala la ley, sin perjuicio de lo dispuesto para las pensiones de invalidez y sobrevivencia.  Los  requisitos  y  beneficios  para  adquirir  el  derecho  a  una pensión de invalidez o de sobrevivencia serán los establecidos por las leyes del sistema general de pensiones.
+INC.—Adicionado. A.L. 1/2005, art. 1º. Para adquirir el derecho a la pensión será necesario cumplir con la edad, el tiempo de servicio, las semanas de cotización o el capital necesario, así como las demás condiciones que señala la ley, sin perjuicio de lo dispuesto para las pensiones de invalidez y sobrevivencia. Los requisitos y beneficios para adquirir el derecho a una pensión de invalidez o de sobrevivencia serán los establecidos por las leyes del sistema general de pensiones.
 
-INC.Adicionado.  A.L.  1/2005,  art.  1 º . En  materia  pensional  se  respetarán todos los derechos adquiridos.
+INC.—Adicionado. A.L. 1/2005, art. 1º. En materia pensional se respetarán todos los derechos adquiridos.
 
-INC.Adicionado. A.L. 1/2005, art. 1 º . Los requisitos y beneficios pensionales  para  todas  las  personas,  incluidos  los  de  pensión  de  vejez  por actividades  de  alto  riesgo,  serán  los  establecidos  en  las  leyes  del  sistema general  de  pensiones.  No  podrá  dictarse  disposición  o  invocarse  acuerdo alguno para apartarse de lo allí establecido.
+INC.—Adicionado. A.L. 1/2005, art. 1º. Los requisitos y beneficios pensionales para todas las personas, incluidos los de pensión de vejez por actividades de alto riesgo, serán los establecidos en las leyes del sistema general de pensiones. No podrá dictarse disposición o invocarse acuerdo alguno para apartarse de lo allí establecido.
 
-INC.Adicionado.  A.L. 1/2005, art.  1 º . Para  la  liquidación  de  las  pensiones sólo se tendrán en cuenta los factores sobre los cuales cada persona hubiere efectuado  las  cotizaciones.  Ninguna  pensión  podrá  ser  inferior  al  salario mínimo legal mensual vigente. Sin embargo, la ley podrá determinar los casos en  que  se  puedan  conceder  beneficios  económicos  periódicos  inferiores  al salario  mínimo,  a  personas  de  escasos  recursos  que  no  cumplan  con  las condiciones requeridas para tener derecho a una pensión.
+INC.—Adicionado. A.L. 1/2005, art. 1º. Para la liquidación de las pensiones sólo se tendrán en cuenta los factores sobre los cuales cada persona hubiere efectuado las cotizaciones. Ninguna pensión podrá ser inferior al salario mínimo legal mensual vigente. Sin embargo, la ley podrá determinar los casos en que se puedan conceder beneficios económicos periódicos inferiores al
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-INC.Adicionado.  A.L.  1/2005,  art.  1 º . A  partir  de  la  vigencia  del  presente acto  legislativo,  no  habrá  regímenes  especiales  ni  exceptuados,  sin  perjuicio del aplicable a la  fuerza  pública, al  Presidente  de  la  República  y a lo establecido en los parágrafos del presente artículo.
+salario mínimo, a personas de escasos recursos que no cumplan con las condiciones requeridas para tener derecho a una pensión.
 
-INC.Adicionado.  A.L.  1/2005,  art.  1 º . Las  personas  cuyo  derecho  a  la pensión se cause a partir de la vigencia del presente acto legislativo no podrán recibir  más  de  trece  (13)  mesadas  pensionales  al  año.  Se  entiende  que  la pensión se causa cuando se cumplen todos los requisitos para acceder a ella, aun cuando no se hubiese efectuado el reconocimiento.
+INC.—Adicionado. A.L. 1/2005, art. 1º. A partir de la vigencia del presente acto legislativo, no habrá regímenes especiales ni exceptuados, sin perjuicio del aplicable a la fuerza pública, al Presidente de la República y a lo establecido en los parágrafos del presente artículo.
 
-INC.Adicionado.  A.L. 1/2005, art. 1 º . La ley  establecerá  un  procedimiento breve para la revisión de las pensiones reconocidas con abuso del derecho o sin el  cumplimiento de los requisitos establecidos en la ley o en las convenciones y laudos arbitrales válidamente celebrados.
+INC.—Adicionado. A.L. 1/2005, art. 1º. Las personas cuyo derecho a la pensión se cause a partir de la vigencia del presente acto legislativo no podrán recibir más de trece (13) mesadas pensionales al año. Se entiende que la pensión se causa cuando se cumplen todos los requisitos para acceder a ella, aun cuando no se hubiese efectuado el reconocimiento.
 
-PAR. 1ºAdicionado. A.L. 1/2005, art. 1 º . A partir del 31 de julio de 2010, no podrán  causarse  pensiones  superiores  a  veinticinco  (25)  salarios  mínimos legales mensuales vigentes, con cargo a recursos de naturaleza pública.
+INC.—Adicionado. A.L. 1/2005, art. 1º. La ley establecerá un procedimiento breve para la revisión de las pensiones reconocidas con abuso del derecho o sin el cumplimiento de los requisitos establecidos en la ley o en las convenciones y laudos arbitrales válidamente celebrados.
 
-PAR. 2ºAdicionado. A.L. 1/2005, art. 1 º . A partir de la vigencia del presente acto legislativo no podrán establecerse en pactos, convenciones colectivas de trabajo, laudos o acto jurídico alguno, condiciones pensionales diferentes a las establecidas en las leyes del sistema general de pensiones.
+PAR. 1º—Adicionado. A.L. 1/2005, art. 1º. A partir del 31 de julio de 2010, no podrán causarse pensiones superiores a veinticinco (25) salarios mínimos legales mensuales vigentes, con cargo a recursos de naturaleza pública.
 
-PAR. TRANS. 1ºAdicionado. A.L. 1/2005, art. 1 º . El régimen pensional de los  docentes  nacionales,  nacionalizados  y  territoriales,  vinculados  al  servicio público educativo oficial es el establecido para el magisterio en las disposiciones legales vigentes con anterioridad a la entrada en vigencia de la Ley 812 de 2003, y lo preceptuado en el artículo 81 de esta. Los docentes que se hayan vinculado o se vinculen a partir de la vigencia de la citada ley, tendrán los derechos de prima media establecidos en las leyes del sistema general de pensiones, en los términos del artículo 81 de la Ley 812 de 2003.
+PAR. 2º—Adicionado. A.L. 1/2005, art. 1º. A partir de la vigencia del presente acto legislativo no podrán establecerse en pactos, convenciones colectivas de trabajo, laudos o acto jurídico alguno, condiciones pensionales diferentes a las establecidas en las leyes del sistema general de pensiones.
 
-PAR.  TRANS.  2ºAdicionado.  A.L.  1/2005,  art.  1 º . Sin  perjuicio  de  los derechos adquiridos, el régimen aplicable a los miembros de la fuerza pública y al  Presidente  de la República,  y lo  establecido  en  los parágrafos del presente artículo, la vigencia de los regímenes pensionales especiales, los exceptuados, así  como cualquier  otro  distinto  al  establecido  de  manera  permanente  en  las leyes del sistema general de pensiones expirará el 31 de julio del año 2010.
+PAR. TRANS. 1º—Adicionado. A.L. 1/2005, art. 1º. El régimen pensional de los docentes nacionales, nacionalizados y territoriales, vinculados al servicio público educativo oficial es el establecido para el magisterio en las disposiciones legales vigentes con anterioridad a la entrada en vigencia de la Ley 812 de 2003, y lo preceptuado en el artículo 81 de esta. Los docentes que se hayan vinculado o se vinculen a partir de la vigencia de la citada ley, tendrán los derechos de prima media establecidos en las leyes del sistema general de pensiones, en los términos del artículo 81 de la Ley 812 de 2003.
 
-PAR.  TRANS.  3ºAdicionado.  A.L.  1/2005,  art.  1 º . Las  reglas  de  carácter pensional que rigen a la fecha de vigencia de este acto legislativo contenidas en pactos, convenciones colectivas de trabajo, laudos o acuerdos válidamente celebrados,  se  mantendrán  por  el  término  inicialmente  estipulado.  En  los pactos, convenciones o laudos que se suscriban entre la vigencia de este acto legislativo y el  31  de julio de  2010, no  podrán estipularse  condiciones pensionales más favorables que las que se encuentren actualmente vigentes. En todo caso perderán vigencia el 31 de julio de 2010.
+PAR. TRANS. 2º—Adicionado. A.L. 1/2005, art. 1º. Sin perjuicio de los derechos adquiridos, el régimen aplicable a los miembros de la fuerza pública y al Presidente de la República, y lo establecido en los parágrafos del presente artículo, la vigencia de los regímenes pensionales especiales, los exceptuados, así como cualquier otro distinto al establecido de manera permanente en las leyes del sistema general de pensiones expirará el 31 de julio del año 2010.
+
+PAR. TRANS. 3º—Adicionado. A.L. 1/2005, art. 1º. Las reglas de carácter pensional que rigen a la fecha de vigencia de este acto legislativo contenidas en pactos, convenciones colectivas de trabajo, laudos o acuerdos válidamente celebrados, se mantendrán por el término inicialmente estipulado. En los
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-PAR. TRANS. 4ºAdicionado. A.L. 1/2005, art. 1 º . El régimen de transición establecido  en  la  Ley  100  de  1993  y  demás  normas  que  desarrollen  dicho régimen, no podrá extenderse más allá del 31 de julio de 2010; excepto para los  trabajadores  que  estando  en  dicho  régimen,  además,  tengan  cotizadas  al menos 750 semanas o su equivalente en tiempo de servicios a la entrada en vigencia  del  presente  acto  legislativo,  a  los  cuales  se  les  mantendrá  dicho régimen  hasta  el  año  2014.  Los  requisitos  y  beneficios  pensionales  para  las personas cobijadas por este régimen serán los exigidos por el artículo 36 de la Ley 100 de 1993 y demás normas que desarrollen dicho régimen.
+pactos, convenciones o laudos que se suscriban entre la vigencia de este acto legislativo y el 31 de julio de 2010, no podrán estipularse condiciones pensionales más favorables que las que se encuentren actualmente vigentes. En todo caso perderán vigencia el 31 de julio de 2010.
 
-PAR.  TRANS.  5ºAdicionado.  A.L.  1/2005,  art.  1 º . De  conformidad  con  lo dispuesto por el artículo 140 de la Ley 100 de 1993 y el Decreto 2090 de 2003, a  partir  de  la  entrada  en  vigencia  de  este  último  decreto,  a  los  miembros  del cuerpo  de  custodia  y  vigilancia  penitenciaria  y  carcelaria  nacional  se  les aplicará  el  régimen  de  alto  riesgo  contemplado  en  el  mismo.  A  quienes ingresaron  con  anterioridad  a  dicha  fecha  se  aplicará  el  régimen  hasta  ese entonces  vigente  para  dichas  personas  por  razón  de  los  riesgos  de  su  labor, este es el dispuesto para el efecto por la Ley 32 de 1986, para lo cual deben haberse cubierto las cotizaciones correspondientes.
+PAR. TRANS. 4º—Adicionado. A.L. 1/2005, art. 1º. El régimen de transición establecido en la Ley 100 de 1993 y demás normas que desarrollen dicho régimen, no podrá extenderse más allá del 31 de julio de 2010; excepto para los trabajadores que estando en dicho régimen, además, tengan cotizadas al menos 750 semanas o su equivalente en tiempo de servicios a la entrada en vigencia del presente acto legislativo, a los cuales se les mantendrá dicho régimen hasta el año 2014. Los requisitos y beneficios pensionales para las personas cobijadas por este régimen serán los exigidos por el artículo 36 de la Ley 100 de 1993 y demás normas que desarrollen dicho régimen.
 
-PAR.  TRANS.  6ºAdicionado.  A.L.  1/2005,  art.  1 º . Se  exceptúan  de  lo establecido  por  el  inciso  8º  del  presente  artículo,  aquellas  personas  que perciban  una  pensión  igual  o  inferior  a  tres  (3)  salarios  mínimos  legales mensuales  vigentes,  si  la  misma  se  causa  antes  del  31  de  julio  de  2011, quienes recibirán catorce (14) mesadas pensionales al año.
+PAR. TRANS. 5º—Adicionado. A.L. 1/2005, art. 1º. De conformidad con lo dispuesto por el artículo 140 de la Ley 100 de 1993 y el Decreto 2090 de 2003, a partir de la entrada en vigencia de este último decreto, a los miembros del cuerpo de custodia y vigilancia penitenciaria y carcelaria nacional se les aplicará el régimen de alto riesgo contemplado en el mismo. A quienes ingresaron con anterioridad a dicha fecha se aplicará el régimen hasta ese entonces vigente para dichas personas por razón de los riesgos de su labor, este es el dispuesto para el efecto por la Ley 32 de 1986, para lo cual deben haberse cubierto las cotizaciones correspondientes.
+
+PAR. TRANS. 6º—Adicionado. A.L. 1/2005, art. 1º. Se exceptúan de lo establecido por el inciso 8º del presente artículo, aquellas personas que perciban una pensión igual o inferior a tres (3) salarios mínimos legales mensuales vigentes, si la misma se causa antes del 31 de julio de 2011, quienes recibirán catorce (14) mesadas pensionales al año.
 
 ### ARTICULO  49. Modificado.  A.L.  2/09,  art.  1º.
 La  atención  de  la  salud  y  el saneamiento ambiental son servicios públicos a cargo del Estado. Se garantiza a  todas  las  personas  el  acceso  a  los  servicios  de  promoción,  protección  y recuperación de la salud.
@@ -406,7 +414,7 @@ La ley  señalará  los  términos  en  los  cuales  la  atención  básica  par
 
 Toda persona tiene el deber de procurar el cuidado integral de su salud y de su comunidad.
 
-*  ( El  porte  y  el  consumo  de  sustancias  estupefacientes  o  sicotrópicas  está prohibido, salvo prescripción médica). Con fines preventivos y rehabilitadores la ley  establecerá  medidas  y  tratamientos  administrativos  de  orden  pedagógico, profiláctico  o  terapéutico para  las  personas que consuman dichas sustancias. El  sometimiento  a  esas  medidas  y  tratamientos  requiere  el  consentimiento informado del adicto.
+* (El  porte  y  el  consumo  de  sustancias  estupefacientes  o  sicotrópicas  está prohibido, salvo prescripción médica). Con fines preventivos y rehabilitadores la ley  establecerá  medidas  y  tratamientos  administrativos  de  orden  pedagógico, profiláctico  o  terapéutico para  las  personas que consuman dichas sustancias. El  sometimiento  a  esas  medidas  y  tratamientos  requiere  el  consentimiento informado del adicto.
 
 Así  mismo  el  Estado  dedicará  especial  atención  al  enfermo  dependiente  o adicto y a su familia para fortalecerla en valores y principios que contribuyan a prevenir  comportamientos  que  afecten  el  cuidado  integral  de  la  salud  de  las personas  y,  por  consiguiente,  de  la  comunidad,  y  desarrollará  en  forma permanente  campañas de prevención contra el  consumo  de  drogas o sustancias estupefacientes y en favor de la recuperación de los adictos.
 
@@ -420,7 +428,7 @@ Todo niño menor de un año que no esté cubierto por algún tipo de protección
 ### ARTICULO  51.
 Todos  los  colombianos  tienen  derecho  a  vivienda  digna.  El Estado  fijará  las  condiciones  necesarias  para  hacer  efectivo  este  derecho  y promoverá  planes  de  vivienda  de  interés  social,  sistemas  adecuados  de financiación a largo plazo y  formas asociativas de ejecución de estos programas de vivienda.
 
-### ARTICULO 52.-Modificado. A.L. 2/2000, art. 1º.
+### ARTICULO 52.—Modificado. A.L. 2/2000, art. 1º.
 El ejercicio del deporte, sus manifestaciones recreativas, competitivas y autóctonas tienen como función la formación integral de las personas, preservar y desarrollar una mejor salud en el ser humano.
 
 El  deporte  y  la  recreación,  forman  parte  de  la  educación  y  constituyen  gasto público social.
@@ -435,7 +443,7 @@ El Estado fomentará estas actividades e inspeccionará, vigilará y controlará
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-'ART.  52.-Se  reconoce  el  derecho  de  todas  las  personas  a  la  recreación,  a  la  práctica  del  deporte  y  al aprovechamiento del tiempo libre.
+'ART.  52.—Se  reconoce  el  derecho  de  todas  las  personas  a  la  recreación,  a  la  práctica  del  deporte  y  al aprovechamiento del tiempo libre.
 
 El Estado fomentará estas  actividades e inspeccionará  las organizaciones deportivas cuya estructura y propiedad deberán ser democráticas'.
 
@@ -472,7 +480,7 @@ Una comisión permanente integrada por el Gobierno, por representantes de los em
 ### ARTICULO 57.
 La ley podrá establecer los estímulos y los medios para que los trabajadores participen en la gestión de las empresas.
 
-### ARTICULO 58. -Reformado. A.L. 1/99,  art. 1º.
+### ARTICULO 58. —Reformado. A.L. 1/99,  art. 1º.
 Se  garantizan  la  propiedad privada  y  los  demás  derechos  adquiridos  con  arreglo  a  las  leyes  civiles,  los cuales no pueden ser desconocidos ni vulnerados por leyes posteriores.
 
 Cuando de la aplicación de una ley expedida por motivos de utilidad pública o interés  social,  resultaren  en  conflicto  los  derechos  de  los  particulares  con  la necesidad por ella reconocida, el interés privado deberá ceder al interés público o social.
@@ -485,7 +493,7 @@ Por motivos  de  utilidad  pública  o  de  interés  social  definidos  por  el
 
 NOTAS: El texto de la norma reformada era el siguiente:
 
-'ART. 58.-Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales  no  pueden  ser  desconocidos  ni  vulnerados  por  leyes  posteriores.  Cuando  de  la  aplicación  de  una  ley expedida por motivo de utilidad pública o interés social, resultaren en conflicto los derechos de los particulares con la necesidad por ella reconocida, el interés privado deberá ceder al interés público o social.
+'ART. 58.—Se garantizan la propiedad privada y los demás derechos adquiridos con arreglo a las leyes civiles, los cuales  no  pueden  ser  desconocidos  ni  vulnerados  por  leyes  posteriores.  Cuando  de  la  aplicación  de  una  ley expedida por motivo de utilidad pública o interés social, resultaren en conflicto los derechos de los particulares con la necesidad por ella reconocida, el interés privado deberá ceder al interés público o social.
 
 La propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica.
 
@@ -587,11 +595,13 @@ La cultura en sus diversas manifestaciones es fundamento de la nacionalidad. El 
 La  búsqueda  del  conocimiento  y  la  expresión  artística  son libres.  Los planes  de desarrollo  económico  y social  incluirán  el fomento  a  las ciencias y, en general, a la cultura. El Estado creará incentivos para personas e instituciones que desarrollen y fomenten la ciencia y la tecnología y las demás manifestaciones  culturales  y  ofrecerá  estímulos  especiales  a  personas  e instituciones que ejerzan estas actividades.
 
 ### ARTICULO 72.
-El  patrimonio cultural de la Nación  está bajo  la protección del Estado. El patrimonio arqueológico y otros bienes culturales que conforman la identidad nacional, pertenecen a la Nación y son inalienables, inembargables e imprescriptibles. La ley establecerá los mecanismos para readquirirlos cuando se encuentren en manos  de particulares y reglamentará los derechos especiales  que  pudieran  tener  los  grupos  étnicos  asentados  en  territorios  de riqueza arqueológica.
+El  patrimonio cultural de la Nación  está bajo  la protección del Estado. El patrimonio arqueológico y otros bienes culturales que conforman la identidad nacional, pertenecen a la Nación y son inalienables, inembargables e imprescriptibles. La ley establecerá los mecanismos para readquirirlos cuando
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+se encuentren en manos de particulares y reglamentará los derechos especiales que pudieran tener los grupos étnicos asentados en territorios de riqueza arqueológica.
 
 ### ARTICULO 73.
 La  actividad periodística gozará de protección  para garantizar su libertad e independencia profesional.
@@ -606,7 +616,7 @@ El espectro electromagnético es un bien público inenajenable e imprescriptible
 
 Para garantizar el pluralismo informativo y la competencia, el Estado intervendrá por mandato de la ley para evitar las prácticas monopolísticas en el uso del espectro electromagnético.
 
-### ARTICULO 76. -DEROGADO. A.L. 2/11, art. 1º.
+### ARTICULO 76. —DEROGADO. A.L. 2/11, art. 1º.
 
 NOTA:* El texto anterior era el siguiente:
 
@@ -737,23 +747,23 @@ La calidad de colombiano enaltece a todos los miembros de la comunidad nacional.
 
 Toda persona está obligada a cumplir la Constitución y las leyes. Son deberes de la persona y del ciudadano:
 
-- Respetar los derechos ajenos y no abusar de los propios;
+1. Respetar los derechos ajenos y no abusar de los propios;
 
-- Obrar conforme al principio de solidaridad social, respondiendo con acciones humanitarias ante situaciones que pongan en peligro la vida o la salud de las personas;
+2. Obrar conforme al principio de solidaridad social, respondiendo con acciones humanitarias ante situaciones que pongan en peligro la vida o la salud de las personas;
 
-- Respetar y apoyar a las autoridades democráticas legítimamente constituídas para mantener la independencia y la integridad nacionales.
+3. Respetar y apoyar a las autoridades democráticas legítimamente constituídas para mantener la independencia y la integridad nacionales.
 
-- Defender y difundir los  derechos humanos  como  fundamento  de  la convivencia pacífica;
+4. Defender y difundir los  derechos humanos  como  fundamento  de  la convivencia pacífica;
 
-- Participar en la vida política, cívica y comunitaria del país;
+5. Participar en la vida política, cívica y comunitaria del país;
 
-- Propender al logro y mantenimiento de la paz;
+6. Propender al logro y mantenimiento de la paz;
 
-- Colaborar para el buen funcionamiento de la administración de la justicia;
+7. Colaborar para el buen funcionamiento de la administración de la justicia;
 
-- Proteger  los recursos  culturales y naturales del país y velar por la conservación de un ambiente sano;
+8. Proteger  los recursos  culturales y naturales del país y velar por la conservación de un ambiente sano;
 
-- Contribuír al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad.
+9. Contribuír al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad.
 
 [[END OF PAGE 24]]
 
@@ -765,19 +775,19 @@ Toda persona está obligada a cumplir la Constitución y las leyes. Son deberes 
 ### ARTICULO 96. Modificado. A.L. 1/2002, art. 1º.
 Son nacionales colombianos
 
-- Por nacimiento:
+1. Por nacimiento:
 
-- Los naturales de Colombia, que con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros,  alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento y;
+a) Los naturales de Colombia, que con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros,  alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento y;
 
-- Los  hijos  de  padre  o  madre  colombianos  que  hubieren  nacido  en  tierra extranjera y luego se domiciliaren en territorio colombiano o registraren en una oficina consular de la República.
+b) Los  hijos  de  padre  o  madre  colombianos  que  hubieren  nacido  en  tierra extranjera y luego se domiciliaren en territorio colombiano o registraren en una oficina consular de la República.
 
-- Por adopción:
+2. Por adopción:
 
-- Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
+a) Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
 
-- Los latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que  con  autorización  del  gobierno  y  de  acuerdo  con  la  ley  y  el  principio  de reciprocidad,  pidan  ser  inscritos  como  colombianos,  ante  la  municipalidad donde se establecieren, y
+b) Los latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que  con  autorización  del  gobierno  y  de  acuerdo  con  la  ley  y  el  principio  de reciprocidad,  pidan  ser  inscritos  como  colombianos,  ante  la  municipalidad donde se establecieren, y
 
-- Los miembros de los pueblos indígenas que comparten territorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
+c) Los miembros de los pueblos indígenas que comparten territorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
 
 Ningún  colombiano  por  nacimiento  podrá  ser  privado  de  su  nacionalidad.  La calidad  de  nacional  colombiano  no  se  pierde  por  el  hecho  de  adquirir  otra nacionalidad. Los nacionales por adopción no estarán obligados a renunciar a su nacionalidad de origen o adopción.
 
@@ -785,25 +795,25 @@ Quienes hayan renunciado a la nacionalidad colombiana podrán recobrarla con arr
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-"ART. 96.-Son nacionales colombianos:
+"ART. 96.—Son nacionales colombianos:
 
-- Por nacimiento:
+1. Por nacimiento:
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-- Los  naturales  de  Colombia,  con  una  de  dos  condiciones:  que  el  padre  o  la  madre  hayan  sido  naturales  o nacionales  colombianos  o  que,  siendo  hijos  de  extranjeros,  alguno  de  sus  padres  estuviere  domiciliado  en  la República en el momento del nacimiento, y
+a) Los naturales de Colombia, con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros, alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento, y
 
-- Los hijos de padre o madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en la República.
+b) Los hijos de padre o madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en la República.
 
-- Por adopción:
+2. Por adopción:
 
-- Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley,  la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
+a) Los extranjeros que soliciten y obtengan carta de naturalización, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
 
-- Los latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que con autorización del Gobierno y de  acuerdo  con  la  ley  y  el  principio  de  reciprocidad,  pidan  ser  inscritos  como  colombianos  ante  la  municipalidad donde se establecieren, y
+b) Los latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que con autorización del Gobierno y de acuerdo con la ley y el principio de reciprocidad, pidan ser inscritos como colombianos ante la municipalidad donde se establecieren, y
 
-- Los  miembros  de  pueblos  indígenas  que  comparten  territorios  fronterizos,  con  aplicación  del  principio  de reciprocidad según tratados públicos.
+c) Los miembros de pueblos indígenas que comparten territorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
 
 Ningún colombiano por nacimiento podrá ser privado de su nacionalidad. La calidad de nacional colombiano no se pierde por el hecho de adquirir otra nacionalidad. Los nacionales por adopción no estarán obligados a renunciar a su nacionalidad de origen o adopción.
 
@@ -898,13 +908,15 @@ Los  directivos de  los  Partidos y  Movimientos  Políticos  deberán  propicia
 
 Los Partidos  y  Movimientos  Políticos  deberán  responder  por  toda  violación  o contravención  a  las  normas  que  rigen  su  organización,  funcionamiento  o financiación,  así  como  también  por  avalar  candidatos  elegidos  en  cargos  o Corporaciones  Públicas  de  elección  popular,  quienes  hayan  sido  o  fueren condenados durante el ejercicio del cargo al cual se avaló mediante sentencia ejecutoriada  en  Colombia  o  en  el  exterior  por  delitos  relacionados  con  la vinculación  a  grupos  armados  ilegales  y  actividades  del  narcotráfico  o  de delitos contra los mecanismos  de participación democrática o de lesa humanidad.
 
-Los  partidos o movimientos  políticos  también  responderán por avalar a candidatos  no  elegidos  para  cargos  o  Corporaciones  Públicas  de  Elección Popular,  si  estos  hubieran  sido  o  fueren  condenados  durante  el  período  del cargo público al cual se candidatizó, mediante sentencia ejecutoriada en Colombia o en el exterior por delitos relacionados con la vinculación a grupos armados ilegales y actividades del narcotráfico, cometidos con anterioridad a la expedición del aval correspondiente.
+Los partidos o movimientos políticos también responderán por avalar a candidatos no elegidos para cargos o Corporaciones Públicas de Elección
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-Las sanciones podrán consistir en multas, devolución de los recursos públicos percibidos mediante el sistema de reposición de votos, hasta la cancelación de la  personería  jurídica.  Cuando  se  trate  de  estas  condenas  a  quienes  fueron electos  para  cargos  uninominales,  el  partido  o  movimiento  que  avaló  al condenado,  no podrá  presentar candidatos para las siguientes  elecciones  en esa Circunscripción. Si faltan menos  de  18 meses  para  las siguientes elecciones,  no  podrán  presentar  terna,  caso  en  el  cual,  el  nominador  podrá libremente designar el reemplazo.
+Popular, si estos hubieran sido o fueren condenados durante el período del cargo público al cual se candidatizó, mediante sentencia ejecutoriada en Colombia o en el exterior por delitos relacionados con la vinculación a grupos armados ilegales y actividades del narcotráfico, cometidos con anterioridad a la expedición del aval correspondiente.
+
+Las sanciones podrán consistir en multas, devolución de los recursos públicos percibidos mediante el sistema de reposición de votos, hasta la cancelación de la personería jurídica. Cuando se trate de estas condenas a quienes fueron electos para cargos uninominales, el partido o movimiento que avaló al condenado, no podrá presentar candidatos para las siguientes elecciones en esa Circunscripción. Si faltan menos de 18 meses para las siguientes elecciones, no podrán presentar terna, caso en el cual, el nominador podrá libremente designar el reemplazo.
 
 Los directivos  de  los  partidos  a  quienes  se  demuestre  que  no  han  procedido con el debido cuidado y diligencia en el ejercicio de los derechos y obligaciones que  les  confiere  Personería  Jurídica  también  estarán  sujetos  a  las  sanciones que determine la ley.
 
@@ -920,7 +932,7 @@ El  Proyecto  tendrá  mensaje  de  urgencia  y  sesiones  conjuntas  y  podrá 
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-ARTICULO  107º-  que  a  su  vez  había  sido  modificado  por  el  A.L.  1/2003,  art.  1º.  Se  garantiza  a  todos  los ciudadanos el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
+ARTICULO 107º— que a su vez había sido modificado por el A.L. 1/2003, art. 1º. Se garantiza a todos los ciudadanos el derecho a fundar, organizar y desarrollar partidos y movimientos políticos, y la libertad de afiliarse a ellos o de retirarse.
 
 [[END OF PAGE 30]]
 
@@ -932,7 +944,7 @@ Los  partidos  y  movimientos  políticos  se  organizarán  democráticamente. 
 
 También se garantiza a las organizaciones sociales el derecho a manifestarse y participar en eventos políticos.
 
-### ARTICULO  108. Modificado.  A.L.  1/2009,  art.  2º .
+### ARTICULO 108. Modificado. A.L. 1/2009, art. 2º.
 El  artículo  108  de  la Constitución Política quedará así:
 
 El  Consejo  Nacional  Electoral  reconocerá  Personería  Jurídica  a  los  partidos, movimientos  políticos  y  grupos  significativos  de  ciudadanos.  Estos  podrán obtenerlas con votación no inferior al tres por ciento (3%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones  de  las  mismas  Corporaciones  Públicas.  Se  exceptúa  el  régimen excepcional que se  estatuya  en  la  ley  para  las  circunscripciones  de  minorías étnicas  y  políticas,  en las cuales  bastará  haber  obtenido representación  en  el Congreso.
@@ -947,19 +959,21 @@ Toda inscripción de candidato incurso en causal de inhabilidad, será revocada 
 
 Los Estatutos de los Partidos y Movimientos Políticos regularán lo atinente a su Régimen  Disciplinario  Interno.  Los  miembros  de  las  Corporaciones  Públicas elegidos  por  un  mismo  Partido  o  Movimiento  Político  o  grupo  significativo  de ciudadanos actuarán en ellas como bancada en los términos que señale la ley y de conformidad con las decisiones adoptadas democráticamente por estas.
 
-Los Estatutos Internos de los Partidos y Movimientos Políticos determinarán los asuntos  de  conciencia  respecto  de  los  cuales  no  se  aplicará  este  régimen  y podrán establecer sanciones por la inobservancia de sus directrices por parte de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión,  y  podrán  incluir  la  pérdida  del  derecho  de  voto  del  Congresista, Diputado, Concejal o Edil por el resto del período para el cual fue elegido.
+Los Estatutos Internos de los Partidos y Movimientos Políticos determinarán los asuntos de conciencia respecto de los cuales no se aplicará este régimen y podrán establecer sanciones por la inobservancia de sus directrices por parte
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-Los  Partidos  y  Movimientos  Políticos  que  habiendo  obtenido  su  Personería Jurídica  como  producto  de  la  circunscripción  especial  de  minorías  étnicas podrán avalar candidatos sin más requisitos que su afiliación a dicho partido, con una antelación no inferior a un año respecto a la fecha de la inscripción.
+de los miembros de las bancadas, las cuales se fijarán gradualmente hasta la expulsión, y podrán incluir la pérdida del derecho de voto del Congresista, Diputado, Concejal o Edil por el resto del período para el cual fue elegido.
+
+Los Partidos y Movimientos Políticos que habiendo obtenido su Personería Jurídica como producto de la circunscripción especial de minorías étnicas podrán avalar candidatos sin más requisitos que su afiliación a dicho partido, con una antelación no inferior a un año respecto a la fecha de la inscripción.
 
 PARÁGRAFO  TRANSITORIO.  Para las elecciones al Congreso de la República a celebrarse en 2010, el porcentaje a que se refiere el inciso primero del  presente  artículo  será  del  dos  por  ciento  (2%),  y  no  se  requerirá  del requisito de inscripción con un año de antelación del que habla el inciso 8o.
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-ARTICULO 108º- que a su vez había sido modificado por el A.L. 1/2003, art. 2º. El Consejo Nacional Electoral reconocerá personería  jurídica  a  los  partidos,  movimientos  políticos  y  grupos  significativos  de  ciudadanos.  Estos podrán obtenerlas con votación no inferior al dos por ciento (2%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas corporaciones públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías, en las cuales bastará haber obtenido representación en el Congreso.
+ARTICULO 108º— que a su vez había sido modificado por el A.L. 1/2003, art. 2º. El Consejo Nacional Electoral reconocerá personería jurídica a los partidos, movimientos políticos y grupos significativos de ciudadanos. Estos podrán obtenerlas con votación no inferior al dos por ciento (2%) de los votos emitidos válidamente en el territorio nacional en elecciones de Cámara de Representantes o Senado. Las perderán si no consiguen ese porcentaje en las elecciones de las mismas corporaciones públicas. Se exceptúa el régimen excepcional que se estatuya en la ley para las circunscripciones de minorías, en las cuales bastará haber obtenido representación en el Congreso.
 
 Los partidos y movimientos políticos con personería jurídica reconocida podrán inscribir candidatos a elecciones sin requisito adicional alguno.
 
@@ -975,15 +989,17 @@ Los estatutos internos de los partidos y movimientos políticos determinarán lo
 
 PAR.  TRANS.  1º-Los  partidos  y  movimientos  políticos  con  personería  jurídica  reconocida  actualmente  y  con representación  en  el  Congreso,  conservarán  tal  personería  hasta  las  siguientes  elecciones  de  Congreso  que  se realicen  con  posterioridad  a  la  promulgación  del  presente  acto  legislativo,  de  cuyos  resultados  dependerá  que  la conserven de acuerdo con las reglas dispuestas en la Constitución.
 
-Para  efectos  de  participar  en  cualquiera  de  las  elecciones  que  se  realicen  desde  la  entrada  en  vigencia  de  esta reforma hasta las siguientes elecciones de Congreso, los partidos y movimientos políticos con representación en el Congreso podrán agruparse siempre que cumplan con los requisitos de votación exigidos en la presente reforma para la obtención de las personerías jurídicas de los partidos y movimientos políticos y obtengan personería jurídica que  reemplazará  a  la  de  quienes  se  agrupen.  La  nueva  agrupación  así  constituida  gozará  de  los  beneficios  y cumplirá  las  obligaciones,  consagrados  en  la  Constitución  para  los  partidos  y  movimientos  políticos  en  materia electoral.
+Para efectos de participar en cualquiera de las elecciones que se realicen desde la entrada en vigencia de esta reforma hasta las siguientes elecciones de Congreso, los partidos y movimientos políticos con representación en el Congreso podrán agruparse siempre que cumplan con los requisitos de votación exigidos en la presente reforma para la obtención de las personerías jurídicas de los partidos y movimientos políticos y obtengan personería jurídica que reemplazará a la de quienes se agrupen. La nueva agrupación así constituida gozará de los beneficios y
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-PAR. TRANS. 2º-Un número plural de senadores o representantes a la cámara, cuya sumatoria de votos en las pasadas elecciones de Congreso hayan obtenido más del dos por ciento (2%) de los votos válidos emitidos para Senado  de  la  República  en  el  territorio  nacional,  podrán  solicitar  el  reconocimiento  de  la  personería  jurídica  de partido o movimiento político. Esta norma regirá por tres (3) meses a partir de su promulgación.
+cumplirá las obligaciones, consagrados en la Constitución para los partidos y movimientos políticos en materia electoral.
 
-### ARTICULO  109. Modificado.  A.L.  1/2009,  art.  3º .
+PAR. TRANS. 2º—Un número plural de senadores o representantes a la cámara, cuya sumatoria de votos en las pasadas elecciones de Congreso hayan obtenido más del dos por ciento (2%) de los votos válidos emitidos para Senado de la República en el territorio nacional, podrán solicitar el reconocimiento de la personería jurídica de partido o movimiento político. Esta norma regirá por tres (3) meses a partir de su promulgación.
+
+### ARTICULO 109. Modificado. A.L. 1/2009, art. 3º.
 El  artículo  109  de  la Constitución Política quedará así:
 
 El  Estado  concurrirá  a  la  financiación  política  y  electoral  de  los  Partidos  y Movimientos Políticos con personería jurídica, de conformidad con la ley.
@@ -1002,13 +1018,15 @@ Para las elecciones que se celebren a partir de la vigencia del presente acto le
 
 Los  partidos,  movimientos,  grupos  significativos  de  ciudadanos  y  candidatos deberán rendir públicamente cuentas sobre el volumen, origen y destino de sus ingresos.
 
-Es prohibido a los Partidos y Movimientos Políticos y a grupos significativos de ciudadanos,  recibir financiación para  campañas  electorales,  de  personas naturales  o  jurídicas  extranjeras.  Ningún  tipo  de  financiación  privada  podrá tener fines antidemocráticos o atentatorios del orden público.
+Es prohibido a los Partidos y Movimientos Políticos y a grupos significativos de ciudadanos, recibir financiación para campañas electorales, de personas
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-PARÁGRAFO. La financiación  anual  de  los  Partidos  y  Movimientos  Políticos con Personería Jurídica ascenderá como mínimo a dos punto siete (2.7) veces la aportada en el año 2003, manteniendo su valor en el tiempo.
+naturales o jurídicas extranjeras. Ningún tipo de financiación privada podrá tener fines antidemocráticos o atentatorios del orden público.
+
+PARÁGRAFO. La financiación anual de los Partidos y Movimientos Políticos con Personería Jurídica ascenderá como mínimo a dos punto siete (2.7) veces la aportada en el año 2003, manteniendo su valor en el tiempo.
 
 La cuantía de la financiación de las campañas de los Partidos y Movimientos Políticos con Personería Jurídica será por lo menos tres veces la aportada en el  período  1999-2002  en  pesos  constantes  de  2003.  Ello  incluye  el  costo  del transporte  del  día  de  elecciones  y  el  costo  de  las  franquicias  de  correo  hoy financiadas.
 
@@ -1020,7 +1038,7 @@ El  proyecto  tendrá  mensaje  de  urgencia  y  podrá  ser  objeto  de  mensaj
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-ARTICULO  109º-  que  a  su  vez  había  sido  modificado  por  el  A.L.  1/2003,  art.  3º.  El  Estado  concurrirá  a  la financiación de los partidos y movimientos políticos con personería jurídica, de conformidad con la ley.
+ARTICULO 109º— que a su vez había sido modificado por el A.L. 1/2003, art. 3º. El Estado concurrirá a la financiación de los partidos y movimientos políticos con personería jurídica, de conformidad con la ley.
 
 Las  campañas  que  adelanten  los  partidos  y  movimientos  con  personería  jurídica  y  los  grupos  significativos  de ciudadanos que postulen candidatos serán financiadas con recursos estatales mediante el sistema de reposición por votos depositados.
 
@@ -1036,13 +1054,13 @@ Los partidos, movimientos y candidatos deberán rendir públicamente cuentas sob
 
 [[START OF PAGE 35]]
 
-PAR.-La financiación anual de los partidos y movimientos políticos con personería jurídica ascenderá como mínimo a dos punto siete veces la aportada en el año 2003, manteniendo su valor en el tiempo.
+PAR.—La financiación anual de los partidos y movimientos políticos con personería jurídica ascenderá como mínimo a dos punto siete veces la aportada en el año 2003, manteniendo su valor en el tiempo.
 
 La cuantía de la financiación de las campañas de los partidos y movimientos políticos con personería jurídica será por lo menos tres veces la aportada en el período 1999-2002 en pesos constantes de 2003. Ello incluye el costo del transporte del día de elecciones y el costo de las franquicias de correo hoy financiadas.
 
 Las consultas populares internas de los partidos y movimientos que opten por este mecanismo recibirán financiación mediante  el  sistema  de  reposición  por  votos  depositados,  manteniendo  para  ello  el  valor  en  pesos  constantes vigente en el momento de aprobación de este acto legislativo.
 
-PAR. TRANS.-El Congreso reglamentará estas materias. En lo concerniente a las elecciones departamentales y municipales, tal reglamentación deberá estar lista a más tardar tres meses antes de su realización. Si no lo hiciere, el Gobierno Nacional dictará un decreto con fuerza de ley antes del cierre de las inscripciones correspondientes.
+PAR. TRANS.—El Congreso reglamentará estas materias. En lo concerniente a las elecciones departamentales y municipales, tal reglamentación deberá estar lista a más tardar tres meses antes de su realización. Si no lo hiciere, el Gobierno Nacional dictará un decreto con fuerza de ley antes del cierre de las inscripciones correspondientes.
 
 ### ARTICULO 110.
 Se prohíbe  a quienes  desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquiera de estas prohibiciones será causal de remoción del cargo o de pérdida de la investidura.
@@ -1052,11 +1070,11 @@ Los partidos y movimientos políticos  con  personería  jurídica  tienen  dere
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-"ART.  111.  -Los  partidos  y  movimientos  políticos  con  personería  jurídica  tienen  derecho  a utilizar  los  medios  de comunicación social del Estado en todo tiempo, conforme a la ley. Ella establecerá así mismo los casos y la forma como los candidatos debidamente inscritos tendrán acceso a dichos medios".
+"ART. 111. —Los partidos y movimientos políticos con personería jurídica tienen derecho a utilizar los medios de comunicación social del Estado en todo tiempo, conforme a la ley. Ella establecerá así mismo los casos y la forma como los candidatos debidamente inscritos tendrán acceso a dichos medios".
 
 ## CAPITULO III. DEL ESTATUTO DE LA OPOSICION
 
-### ARTICULO 112. -Modificado. A.L. 1/2003, art. 5º.
+### ARTICULO 112. —Modificado. A.L. 1/2003, art. 5º.
 Los partidos y movimientos políticos con personería jurídica que se declaren en oposición al gobierno, podrán ejercer libremente la función crítica frente a éste, y plantear y desarrollar  alternativas  políticas.  Para  estos  efectos,  se  les  garantizarán  los siguientes  derechos:  el  acceso  a  la  información  y  a  la  documentación  oficial, con  las  restricciones  constitucionales  y  legales;  el  uso  de  los  medios  de comunicación  social  del  Estado  o  en  aquellos  que  hagan  uso  del  espectro electromagnético de acuerdo con la representación obtenida en las elecciones para Congreso inmediatamente anteriores; la réplica en los mismos medios de comunicación.
 
 [[END OF PAGE 35]]
@@ -1069,7 +1087,7 @@ Una ley estatutaria reglamentará íntegramente la materia.
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-"ART. 112.-Los partidos y movimientos políticos  que  no  participen  en  el  Gobierno  podrán  ejercer  libremente  la función crítica frente a éste y plantear y desarrollar alternativas políticas.
+"ART. 112.—Los partidos y movimientos políticos que no participen en el Gobierno podrán ejercer libremente la función crítica frente a éste y plantear y desarrollar alternativas políticas.
 
 Para estos efectos, salvo las restricciones legales, se les garantizan los siguientes derechos:
 
@@ -1093,13 +1111,15 @@ El Congreso de la República, estará integrado por el Senado y la Cámara de Re
 ### ARTICULO  115.
 El  Presidente  de  la  República  es  Jefe  del  Estado,  Jefe  del Gobierno y suprema autoridad administrativa.
 
-El  Gobierno  Nacional  está  formado  por  el  Presidente  de  la  República,  los ministros  del  despacho  y  los  directores  de  departamentos  administrativos.  El Presidente y el Ministro o Director de Departamento correspondientes, en cada negocio particular, constituyen el Gobierno.
+El Gobierno Nacional está formado por el Presidente de la República, los ministros del despacho y los directores de departamentos administrativos. El
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-Ningún  acto  del  Presidente,  excepto  el  de  nombramiento  y  remoción  de Ministros y Directores de Departamentos Administrativos y aquellos expedidos en su calidad de Jefe del Estado y de suprema autoridad administrativa, tendrá valor ni fuerza alguna mientras no sea suscrito y comunicado por el Ministro del ramo respectivo o por el Director del Departamento Administrativo correspondiente, quienes, por el mismo hecho, se hacen responsables.
+Presidente y el Ministro o Director de Departamento correspondientes, en cada negocio particular, constituyen el Gobierno.
+
+Ningún acto del Presidente, excepto el de nombramiento y remoción de Ministros y Directores de Departamentos Administrativos y aquellos expedidos en su calidad de Jefe del Estado y de suprema autoridad administrativa, tendrá valor ni fuerza alguna mientras no sea suscrito y comunicado por el Ministro del ramo respectivo o por el Director del Departamento Administrativo correspondiente, quienes, por el mismo hecho, se hacen responsables.
 
 Las  gobernaciones  y  las  alcaldías,  así  como  las  superintendecias  <sic>,  los establecimientos  públicos y las empresas  industriales o  comerciales  del Estado, forman parte de la Rama Ejecutiva.
 
@@ -1114,7 +1134,7 @@ Los  particulares  pueden  ser  investidos  transitoriamente  de la  función  d
 
 NOTA: El texto de la norma modificada era el siguiente:
 
-"ART. 116.-La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura,  la  Fiscalía  General  de  la  Nación,  los  tribunales  y  los  jueces,  administran  justicia.  También  lo  hace  la justicia penal militar.
+"ART. 116.—La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, el Consejo Superior de la Judicatura, la Fiscalía General de la Nación, los tribunales y los jueces, administran justicia. También lo hace la justicia penal militar.
 
 El Congreso ejercerá determinadas funciones judiciales.
 
@@ -1126,11 +1146,13 @@ Los  particulares  pueden  ser  investidos  transitoriamente  de  la  función  
 El Ministerio Público y la Contraloría General de la República son órganos de control.
 
 ### ARTICULO 118.
-El Ministerio Público será ejercido por el Procurador General de la Nación, por el Defensor del Pueblo, por los procuradores delegados y los agentes  del  ministerio  público,  ante  las  autoridades  jurisdiccionales,  por  los personeros municipales y por los demás funcionarios que determine la ley. Al Ministerio Público  corresponde la guarda y  promoción de los  derechos humanos, la protección del interés público y la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.
+El Ministerio Público será ejercido por el Procurador General de la Nación, por el Defensor del Pueblo, por los procuradores delegados y los agentes del ministerio público, ante las autoridades jurisdiccionales, por los
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+personeros municipales y por los demás funcionarios que determine la ley. Al Ministerio Público corresponde la guarda y promoción de los derechos humanos, la protección del interés público y la vigilancia de la conducta oficial de quienes desempeñan funciones públicas.
 
 ### ARTICULO 119.
 La  Contraloría  General  de  la  República  tiene  a  su  cargo  la vigilancia de la gestión fiscal y el control de resultado de la administración.
@@ -1152,7 +1174,7 @@ Antes de tomar posesión del cargo, al retirarse del mismo o cuando autoridad co
 
 Dicha  declaración  sólo  podrá  ser  utilizada  para  los  fines  y  propósitos  de  la aplicación de las normas del servidor público.
 
-INC. 5ºModificado. A.L. 1/2009, art. 4º. El inciso final del artículo 122 de la Constitución Política quedará así:
+INC. 5º—Modificado. A.L. 1/2009, art. 4º. El inciso final del artículo 122 de la Constitución Política quedará así:
 
 Sin  perjuicio  de  las  demás  sanciones  que  establezca  la  ley,  no  podrán  ser inscritos  como  candidatos  a  cargos  de  elección  popular,  ni  elegidos,  ni designados  como  servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por  la  comisión  de  delitos  que  afecten  el  patrimonio  del Estado  o  quienes  hayan  sido  condenados  por  delitos  relacionados  con  la pertenencia,  promoción  o  financiación  de  grupos  armados  ilegales,  delitos  de lesa humanidad o por narcotráfico en Colombia o en el exterior.
 
@@ -1164,21 +1186,21 @@ Tampoco quien  haya dado lugar, como servidores  públicos, con su conducta dolo
 
 #### NOTAS
 
-- El texto de la norma modificada era el siguiente:
+1. El texto de la norma modificada era el siguiente:
 
-INC. 5º- que a su vez había sido modificado por el A.L. 1/2004, art. 1º. Pérdida de derechos políticos. Sin perjuicio de  las  demás  sanciones  que  establezca  la  ley,  no  podrán  ser  inscritos  como  candidatos  a  cargos  de  elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos  con  el  Estado,  quienes  hayan  sido  condenados,  en  cualquier  tiempo,  por  la  Comisión  de  Delitos  que afecten el patrimonio del Estado. Tampoco quien haya dado lugar, como servidor público, con su conducta dolosa o gravemente  culposa,  así  calificada  por  sentencia  judicial  ejecutoriada,  a  que  el  Estado  sea  condenado  a  una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
+INC. 5º— que a su vez había sido modificado por el A.L. 1/2004, art. 1º. Pérdida de derechos políticos. Sin perjuicio de las demás sanciones que establezca la ley, no podrán ser inscritos como candidatos a cargos de elección popular, ni elegidos, ni designados como servidores públicos, ni celebrar personalmente, o por interpuesta persona, contratos con el Estado, quienes hayan sido condenados, en cualquier tiempo, por la Comisión de Delitos que afecten el patrimonio del Estado. Tampoco quien haya dado lugar, como servidor público, con su conducta dolosa o gravemente culposa, así calificada por sentencia judicial ejecutoriada, a que el Estado sea condenado a una reparación patrimonial, salvo que asuma con cargo a su patrimonio el valor del daño.
 
-- Ley 599 de 2000, Código Penal. Señala los delitos contra la administración pública, tales como: Del peculado. De la concusión. Del cohecho. De la celebración indebida de contratos. Del tráfico de influencias. Del enriquecimiento ilícito.
+2. Ley 599 de 2000, Código Penal. Señala los delitos contra la administración pública, tales como: Del peculado. De la concusión. Del cohecho. De la celebración indebida de contratos. Del tráfico de influencias. Del enriquecimiento ilícito.
 
-Del prevaricato. Del abuso de autoridad. De la usurpación y abuso de funciones públicas. De los delitos contra los servidores  públicos,  y  De  la  utilización  indebida  de  información  y  de  influencia  derivadas  del  ejercicio  de  función pública.
+Del prevaricato. Del abuso de autoridad. De la usurpación y abuso de funciones públicas. De los delitos contra los servidores públicos, y De la utilización indebida de información y de influencia derivadas del ejercicio de función pública.
 
-- Ley 734 de 2002, Código Disciplinario Único.
+3. Ley 734 de 2002, Código Disciplinario Único.
 
-- El inciso quinto del artículo 122 constitucional, modificado disponía:
+4. El inciso quinto del artículo 122 constitucional, modificado disponía:
 
-"INC. 5 º -Sin perjuicio de las demás sanciones que establezca la  ley, el servidor público que sea condenado por delitos contra el patrimonio del Estado, quedará inhabilitado para el desempeño de funciones públicas".
+"INC. 5º—Sin perjuicio de las demás sanciones que establezca la ley, el servidor público que sea condenado por delitos contra el patrimonio del Estado, quedará inhabilitado para el desempeño de funciones públicas".
 
-- El  Consejo  Nacional  Electoral  por  medio  de  la  Resolución  1  de  2004,  declaró  el  resultado  del  referendo constitucional de iniciativa gubernamental, convocado mediante Ley 796 de 2003, cuya votación se realizó el 25 de octubre de 2003 y señaló que en la votación del numeral primero del proyecto de reforma constitucional participaron 6.293.807 sufragantes, es decir más de la cuarta parte del total de los ciudadanos que integran el censo electoral, de los cuales más de la mitad lo votaron afirmativamente, así: total sufragantes 6.293.807, votos por el SÍ 5.874.193, votos por el NO 294.348, votos NULOS 125.266, en consecuencia señaló que la primera pregunta fue aprobada. El Consejo Nacional Electoral en su artículo tercero, declaró no aprobados, por no reunir los requisitos previstos en el inciso segundo del artículo 378 de la Constitución Política, los numerales 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 11, 12, 13, 14, 15 y 18 del proyecto de reforma de la Constitución sometido a referendo mediante el artículo 1º de la Ley 796 de 2003".
+5. El Consejo Nacional Electoral por medio de la Resolución 1 de 2004, declaró el resultado del referendo constitucional de iniciativa gubernamental, convocado mediante Ley 796 de 2003, cuya votación se realizó el 25 de octubre de 2003 y señaló que en la votación del numeral primero del proyecto de reforma constitucional participaron 6.293.807 sufragantes, es decir más de la cuarta parte del total de los ciudadanos que integran el censo electoral, de los cuales más de la mitad lo votaron afirmativamente, así: total sufragantes 6.293.807, votos por el SÍ 5.874.193, votos por el NO 294.348, votos NULOS 125.266, en consecuencia señaló que la primera pregunta fue aprobada. El Consejo Nacional Electoral en su artículo tercero, declaró no aprobados, por no reunir los requisitos previstos en el inciso segundo del artículo 378 de la Constitución Política, los numerales 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 11, 12, 13, 14, 15 y 18 del proyecto de reforma de la Constitución sometido a referendo mediante el artículo 1º de la Ley 796 de 2003".
 
 ### ARTICULO 123.
 Son  servidores  públicos  los  miembros  de  las  corporaciones públicas, los empleados  y  trabajadores  del  Estado y  de  sus entidades descentralizadas territorialmente y por servicios.
@@ -1205,7 +1227,7 @@ El retiro se hará: por calificación no satisfactoria en el desempeño del empl
 
 En  ningún  caso  la  filiación  política  de  los  ciudadanos  podrá  determinar  su nombramiento para un empleo de carrera, su ascenso o remoción.
 
-PAR.Adicionado.  A.L.  1/2003,  art.  6º. Los  períodos  establecidos  en  la Constitución Política  o  en la  ley  para cargos de  elección tienen  el  carácter  de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por el resto del período para el cual éste fue elegido.
+PAR.—Adicionado. A.L. 1/2003, art. 6º. Los períodos establecidos en la Constitución Política o en la ley para cargos de elección tienen el carácter de institucionales. Quienes sean designados o elegidos para ocupar tales cargos, en reemplazo por falta absoluta de su titular, lo harán por el resto del período para el cual éste fue elegido.
 
 ### ARTICULO 126.
 Los servidores públicos no podrán nombrar como empleados a  personas  con  las  cuales  tengan  parentesco  hasta  el  cuarto  grado  de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por  matrimonio  o  unión  permanente.  Tampoco  podrán  designar  a  personas vinculadas  por  los  mismos  lazos  con  servidores  públicos  competentes  para intervenir en su designación.
@@ -1215,26 +1237,28 @@ Se exceptúan de lo previsto en este artículo los nombramientos que se hagan en
 ### ARTICULO  127.
 Los  servidores  públicos  no  podrán  celebrar,  por  sí  o  por interpuesta persona, o en representación de otro, contrato alguno con entidades  públicas  o  con  personas  privadas  que  manejen  o  administren recursos públicos, salvo las excepciones legales.
 
-INC. 2ºModificado. A.L. 2/2004, art. 1º. A los empleados del Estado que se desempeñen  en  la  rama  judicial,  en  los  órganos  electorales,  de  control  y  de seguridad  les  está  prohibido  tomar  parte  en  las  actividades  de  los  partidos  y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el  derecho al sufragio. A los miembros de la Fuerza Pública en servicio activo se les aplican las limitaciones contempladas en el artículo 219 de la Constitución.
+INC. 2º—Modificado. A.L. 2/2004, art. 1º. A los empleados del Estado que se desempeñen en la rama judicial, en los órganos electorales, de control y de seguridad les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio. A los miembros de la Fuerza Pública en servicio activo
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-INC. 3ºModificado. A.L. 2/2004, art. 1º. Los empleados no contemplados en esta prohibición sólo podrán participar en dichas actividades y controversias en las condiciones que señale la ley estatutaria.
+se les aplican las limitaciones contempladas en el artículo 219 de la Constitución.
 
-INC. 4º-La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
+INC. 3º—Modificado. A.L. 2/2004, art. 1º. Los empleados no contemplados en esta prohibición sólo podrán participar en dichas actividades y controversias en las condiciones que señale la ley estatutaria.
 
-INC.  5ºAdicionado. A.L. 2/2004, art. 1º. Cuando  el  Presidente y el Vicepresidente  de  la  República  presenten  sus  candidaturas,  sólo  podrán participar en las campañas electorales desde el momento de su inscripción. En todo  caso  dicha  participación  solo  podrá  darse  desde  los  cuatro  (4)  meses anteriores  a  la  fecha  de  la  primera  vuelta  de  la  elección  presidencial,  y  se extenderá hasta la fecha de la segunda vuelta en caso de que la hubiere. La ley  estatutaria  establecerá los  términos  y condiciones  en los cuales, antes de ese lapso, el Presidente o Vicepresidente podrán participar en los mecanismos democráticos  de  selección  de  los  candidatos  de  los  partidos  o  movimientos políticos.
+INC. 4º—La utilización del empleo para presionar a los ciudadanos a respaldar una causa o campaña política constituye causal de mala conducta.
 
-INC. 6ºAdicionado. A.L. 2/2004, art. 1º. Durante la campaña, el Presidente y  el  Vicepresidente  de  la  República  no  podrán  utilizar  bienes  del  Estado  o recursos del tesoro público, distintos de aquellos que se ofrezcan en igualdad de  condiciones  a  todos  los  candidatos.  Se  exceptúan  los  destinados  al cumplimiento  de  las  funciones  propias  de  sus  cargos  y  a  su  protección personal, en los términos que señale la ley estatutaria.
+INC. 5º—Adicionado. A.L. 2/2004, art. 1º. Cuando el Presidente y el Vicepresidente de la República presenten sus candidaturas, sólo podrán participar en las campañas electorales desde el momento de su inscripción. En todo caso dicha participación solo podrá darse desde los cuatro (4) meses anteriores a la fecha de la primera vuelta de la elección presidencial, y se extenderá hasta la fecha de la segunda vuelta en caso de que la hubiere. La ley estatutaria establecerá los términos y condiciones en los cuales, antes de ese lapso, el Presidente o Vicepresidente podrán participar en los mecanismos democráticos de selección de los candidatos de los partidos o movimientos políticos.
+
+INC. 6º—Adicionado. A.L. 2/2004, art. 1º. Durante la campaña, el Presidente y el Vicepresidente de la República no podrán utilizar bienes del Estado o recursos del tesoro público, distintos de aquellos que se ofrezcan en igualdad de condiciones a todos los candidatos. Se exceptúan los destinados al cumplimiento de las funciones propias de sus cargos y a su protección personal, en los términos que señale la ley estatutaria.
 
 #### NOTA:
 Los textos de los incisos 2º y 3º modificados eran los siguientes:
 
-'INC. 2º-A los empleados del Estado y de sus entidades descentralizadas que ejerzan jurisdicción, autoridad civil o política, cargos de dirección administrativa, o se desempeñen en los órganos judicial, electoral, de control, les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio.
+“INC. 2º—A los empleados del Estado y de sus entidades descentralizadas que ejerzan jurisdicción, autoridad civil o política, cargos de dirección administrativa, o se desempeñen en los órganos judicial, electoral, de control, les está prohibido tomar parte en las actividades de los partidos y movimientos y en las controversias políticas, sin perjuicio de ejercer libremente el derecho al sufragio.
 
-INC. 3º-Los  empleados  no  contemplados  en  esta  prohibición  podrán  participar  en  dichas actividades y controversias en las condiciones que señale la ley'.
+INC. 3º—Los empleados no contemplados en esta prohibición podrán participar en dichas actividades y controversias en las condiciones que señale la ley”.
 
 ### ARTICULO 128.
 Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley.
@@ -1265,7 +1289,7 @@ Corresponde  al  gobierno  la  creación,  supresión  y  fusión  de  los  cír
 ### ARTICULO 132.
 Los  senadores  y  los  representantes  serán  elegidos  para  un período de cuatro años, que se inicia el 20 de julio siguiente a la elección.
 
-### ARTICULO  133. M odificado  por  el  Acto  Legislativo  1  de  2009,  Art.  5 .
+### ARTICULO 133. Modificado por el Acto Legislativo 1 de 2009, Art. 5.
 El artículo 133 de la Constitución Política quedará así:
 
 Los miembros de cuerpos colegiados de elección directa representan al pueblo, y  deberán  actuar  consultando  la  justicia  y  el  bien  común.  El  voto  de  sus miembros será nominal y público, excepto en los casos que determine la ley. El  elegido  es  responsable  políticamente  ante  la  sociedad  y  frente  a  sus
@@ -1276,20 +1300,22 @@ electores del cumplimiento de las obligaciones propias de su investidura.
 
 El texto de la norma modificada era el siguiente:
 
-ARTÍCULO 133º-Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común.
+ARTÍCULO 133º—Los miembros de cuerpos colegiados de elección directa representan al pueblo, y deberán actuar consultando la justicia y el bien común.
 
 El  elegido  es  responsable  políticamente  ante  la  sociedad  y  frente  a  sus  electores  del  cumplimiento  de  las obligaciones propias de su investidura.
 
-### ARTICULO 134. Modificado por el A.L. 01 de 2009, art 6 .
+### ARTICULO 134. Modificado por el A.L. 01 de 2009, art 6.
 El artículo 134 de la Constitución Política quedará así:
 
-Los miembros de  las Corporaciones Públicas  de  elección  popular  no tendrán suplentes.  Solo  podrán  ser  reemplazados  en  caso  de  muerte,  incapacidad física absoluta para el ejercicio del cargo, declaración de nulidad de la elección, renuncia justificada, y aceptada por la respectiva Corporación, sanción disciplinaria consistente en destitución, pérdida de investidura, condena penal o medida de aseguramiento por delitos distintos a las relacionadas con pertenencia,  promoción  o  financiación  a/o  por  grupos  armados  ilegales,  de narcotráfico,  delitos contra los  mecanismos  de  participación democrática  o  de lesa  humanidad  o  cuando  el  miembro  de  una  Corporación  pública  decida presentarse  por un partido distinto  según  lo planteado en el  Parágrafo Transitorio  1o  del  artículo  107  de  la  Constitución  Política.  En  tales  casos,  el titular  será  reemplazado  por  el  candidato  no  elegido  que,  según  el  orden  de inscripción o votación obtenida, le siga en forma sucesiva y descendente en la misma lista electoral.
+Los miembros de las Corporaciones Públicas de elección popular no tendrán suplentes. Solo podrán ser reemplazados en caso de muerte, incapacidad física absoluta para el ejercicio del cargo, declaración de nulidad de la elección, renuncia justificada, y aceptada por la respectiva Corporación, sanción disciplinaria consistente en destitución, pérdida de investidura, condena penal o
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-Como consecuencia de la regla general establecida en el presente artículo, no podrá  ser  reemplazado  un  miembro  de  una  corporación  pública  de  elección popular a partir del momento en que le sea proferida orden de captura, dentro de un proceso penal al cual se le vinculare formalmente, por delitos relacionados  con  la  pertenencia,  promoción  o  financiación  a/o  por  grupos armados  ilegales,  de  narcotráfico  o  delitos  de  lesa  humanidad.  La  sentencia condenatoria  producirá  como  efecto  la  pérdida  definitiva  de  la  curul,  para  el partido al que pertenezca el miembro de la Corporación Pública.
+medida de aseguramiento por delitos distintos a las relacionadas con pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico, delitos contra los mecanismos de participación democrática o de lesa humanidad o cuando el miembro de una Corporación pública decida presentarse por un partido distinto según lo planteado en el Parágrafo Transitorio 1o del artículo 107 de la Constitución Política. En tales casos, el titular será reemplazado por el candidato no elegido que, según el orden de inscripción o votación obtenida, le siga en forma sucesiva y descendente en la misma lista electoral.
+
+Como consecuencia de la regla general establecida en el presente artículo, no podrá ser reemplazado un miembro de una corporación pública de elección popular a partir del momento en que le sea proferida orden de captura, dentro de un proceso penal al cual se le vinculare formalmente, por delitos relacionados con la pertenencia, promoción o financiación a/o por grupos armados ilegales, de narcotráfico o delitos de lesa humanidad. La sentencia condenatoria producirá como efecto la pérdida definitiva de la curul, para el partido al que pertenezca el miembro de la Corporación Pública.
 
 No habrá faltas temporales, salvo cuando las mujeres, por razón de licencia de maternidad  deban  ausentarse  del  cargo.  La  renuncia  de  un  miembro  de corporación pública de elección popular, cuando se le haya iniciado vinculación formal  por  delitos  cometidos  en  Colombia  o  en  el  exterior,  relacionados  con pertenencia,  promoción  o  financiación  a/o  por  grupos  armados  ilegales,  de narcotráfico o delitos contra los mecanismos de participación democrática o de lesa  humanidad,  generará la  pérdida  de  su  calidad  de  congresista,  diputado, concejal o edil, y no producirá como efecto el ingreso de quien corresponda en la lista. Las faltas temporales no darán lugar a reemplazos.
 
@@ -1306,28 +1332,28 @@ El texto de la norma modificada era el siguiente:
 
 [[START OF PAGE 44]]
 
-ARTICULO  134ºAdicionado.  A.L.  3/93,  art.  1º. Las  faltas  absolutas  o  temporales  de  los  miembros  de  las corporaciones públicas serán suplidas por los candidatos que, según el orden de inscripción, en forma sucesiva y descendente, correspondan a la misma lista electoral.
+ARTICULO 134º—Adicionado. A.L. 3/93, art. 1º. Las faltas absolutas o temporales de los miembros de las corporaciones públicas serán suplidas por los candidatos que, según el orden de inscripción, en forma sucesiva y descendente, correspondan a la misma lista electoral.
 
 ### ARTICULO 135.
 Son facultades de cada cámara:
 
-- Elegir sus mesas directivas. *( 2. Modificado. A.L. 1/2003, art. 7º. Elegir al secretario general para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
+1. Elegir sus mesas directivas. *(2. Modificado. A.L. 1/2003, art. 7º. Elegir al secretario general para períodos de cuatro (4) años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva Cámara.
 
-PAR.  TRANS.-Para  efecto  de  lo  dispuesto  en  el  numeral  2º  del  presente artículo, el período comenzará a regir a partir del 20 de julio de 2002 )* .
+PAR. TRANS.—Para efecto de lo dispuesto en el numeral 2º del presente artículo, el período comenzará a regir a partir del 20 de julio de 2002)*.
 
-- Solicitar  al  Gobierno  los  informes  que  necesite,  salvo  lo  dispuesto  en  el numeral 2º del artículo siguiente.
+3. Solicitar al Gobierno los informes que necesite, salvo lo dispuesto en el numeral 2º del artículo siguiente.
 
-- Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas  orales  que  formulen  los  congresistas  a  los ministros  y a las respuestas de éstos. El reglamento regulará la materia.
+4. Determinar la celebración de sesiones reservadas en forma prioritaria a las preguntas orales que formulen los congresistas a los ministros y a las respuestas de éstos. El reglamento regulará la materia.
 
-- Proveer  los  empleos  creados  por  la  ley  para  el  cumplimiento  de  sus funciones.
+5. Proveer los empleos creados por la ley para el cumplimiento de sus funciones.
 
-- Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
+6. Recabar del Gobierno la cooperación de los organismos de la administración pública para el mejor desempeño de sus atribuciones.
 
-- Organizar su policía interior.
+7. Organizar su policía interior.
 
-- Modificado. A.L. 1/2007, Art. 1º. Citar y requerir a los ministros, superintendentes  y  directores  de  departamentos  administrativos  para  que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los  ministros, superintendentes  o directores de  departamentos administrativos no  concurran,  sin  excusa  aceptada  por  la  respectiva  cámara,  esta  podrá proponer  moción  de  censura.  Los  ministros,  superintendentes  o  directores administrativos deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en las sesiones posteriores por decisión de la  respectiva  cámara.  El  debate  no  podrá  extenderse  a  asuntos  ajenos  al cuestionario y deberá encabezar el orden del día de la sesión.
+8. Modificado. A.L. 1/2007, Art. 1º. Citar y requerir a los ministros, superintendentes y directores de departamentos administrativos para que concurran a las sesiones. Las citaciones deberán hacerse con una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los ministros, superintendentes o directores de departamentos administrativos no concurran, sin excusa aceptada por la respectiva cámara, esta podrá proponer moción de censura. Los ministros, superintendentes o directores administrativos deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en las sesiones posteriores por decisión de la respectiva cámara. El debate no podrá extenderse a asuntos ajenos al cuestionario y deberá encabezar el orden del día de la sesión.
 
-- Modificado. A.L. 1/2007, Art. 2º. Proponer moción de censura respecto de los  ministros,  superintendentes  y  directores  de  departamentos  administrativos por asuntos relacionados con funciones propias del cargo, o por desatención a los  requerimientos  y  citaciones  del  Congreso  de  la  República.  La  moción  de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte  de  los  miembros  que  componen  la  respectiva  cámara.  La  votación  se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo.
+9. Modificado. A.L. 1/2007, Art. 2º. Proponer moción de censura respecto de los ministros, superintendentes y directores de departamentos administrativos por asuntos relacionados con funciones propias del cargo, o por desatención a los requerimientos y citaciones del Congreso de la República. La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, con audiencia pública del funcionario respectivo.
 
 [[END OF PAGE 44]]
 
@@ -1340,40 +1366,40 @@ Su  aprobación  requerirá  el  voto  afirmativo  de  la  mitad  más  uno  de 
 
 "2. Elegir a su secretario general, para períodos de dos años, contados a partir del 20 de julio, quien deberá reunir las mismas calidades señaladas para ser miembro de la respectiva cámara".
 
-- 2. La Corte Constitucional, Sala Plena, mediante sentencia C-372 de 2004, expediente D-4835. M.P. Clara Inés Vargas Hernández, declaró inexequible el  artículo  7º  del  Acto  Legislativo  1  de  2003  'por  el  cual  se  adopta  una reforma política constitucional y se dictan otras disposiciones'.
+*2. La Corte Constitucional, Sala Plena, mediante sentencia C-372 de 2004, expediente D-4835. M.P. Clara Inés Vargas Hernández, declaró inexequible el artículo 7º del Acto Legislativo 1 de 2003 “por el cual se adopta una reforma política constitucional y se dictan otras disposiciones”.
 
-- El texto del numeral 8º modificado era el siguiente:
+3. El texto del numeral 8º modificado era el siguiente:
 
 "8.  Citar  y  requerir  a  los  ministros  para  que  concurran  a  las  sesiones.  Las  citaciones  deberán  hacerse  con  una anticipación no menor de cinco días y formularse en cuestionario escrito. En caso de que los ministros no concurran, sin excusa aceptada por la respectiva cámara, ésta podrá proponer moción de censura. Los ministros deberán ser oídos en la sesión para la cual fueron citados, sin perjuicio de que el debate continúe en sesiones posteriores por decisión  de  la  respectiva  Cámara.  El  debate  no  podrá  extenderse  a  asuntos  ajenos  al  cuestionario  y  deberá encabezar el orden del día de la sesión".
 
-- El texto del numeral 9º modificado era el siguiente:
+4. El texto del numeral 9º modificado era el siguiente:
 
 "9. Proponer moción de censura respecto de los ministros por asuntos relacionados con funciones propias del cargo.
 
 La moción de censura, si hubiere lugar a ella, deberá proponerla por lo menos la décima parte de los miembros que componen la respectiva Cámara. La votación se hará entre el tercero y el décimo día siguientes a la terminación del debate, en Congreso pleno, con audiencia de los ministros respectivos. Su aprobación requerirá la mayoría absoluta de  los  integrantes  de  cada  Cámara.  Una  vez  aprobada,  el  ministro  quedará  separado  de  su  cargo.  Si  fuere rechazada, no podrá presentarse otra sobre la misma materia a menos que la motiven hechos nuevos".
 
-- El Acto Legislativo 1 de 2007 empezó a regir a partir del 1º de enero del 2008.
+5. El Acto Legislativo 1 de 2007 empezó a regir a partir del 1º de enero del 2008.
 
 ### ARTICULO 136.
 Se prohibe <sic> al Congreso y a cada una de sus Cámaras:
 
-- Inmiscuirse, por medio  de  resoluciones o de leyes, en asuntos de competencia privativa de otras autoridades.
+1. Inmiscuirse, por medio de resoluciones o de leyes, en asuntos de competencia privativa de otras autoridades.
 
-- Exigir al Gobierno información sobre instrucciones en materia diplomática o sobre negociaciones de carácter reservado.
+2. Exigir al Gobierno información sobre instrucciones en materia diplomática o sobre negociaciones de carácter reservado.
 
-- Dar votos de aplauso a los actos oficiales.
+3. Dar votos de aplauso a los actos oficiales.
 
-- Decretar  a  favor  de  personas  o  entidades  donaciones,  gratificaciones, auxilios, indemnizaciones, pensiones  u otras erogaciones que  no estén
+4. Decretar a favor de personas o entidades donaciones, gratificaciones, auxilios, indemnizaciones, pensiones u otras erogaciones que no estén
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-destinadas  a  satisfacer  créditos  o  derechos  reconocidos  con  arreglo  a  la  ley preexistente.
+destinadas a satisfacer créditos o derechos reconocidos con arreglo a la ley preexistente.
 
-- Decretar  actos  de  proscripción  o  persecución  contra  personas  naturales  o jurídicas.
+5. Decretar actos de proscripción o persecución contra personas naturales o jurídicas.
 
-- Autorizar viajes al exterior con dineros del erario, salvo en cumplimiento de misiones  específicas,  aprobadas  al  menos  por  las  tres  cuartas  partes  de  los miembros de la respectiva Cámara.
+6. Autorizar viajes al exterior con dineros del erario, salvo en cumplimiento de misiones específicas, aprobadas al menos por las tres cuartas partes de los miembros de la respectiva Cámara.
 
 ### ARTICULO  137.
 Cualquier  comisión  permanente  podrá  emplazar  a  toda persona  natural  o  jurídica,  para  que  en  sesión  especial  rinda  declaraciones orales o escritas, que podrán exigirse bajo juramento, sobre hechos relacionados directamente con las indagaciones que la comisión adelante.
@@ -1429,7 +1455,7 @@ Las  sesiones  de  las  Cámaras  y  de  sus  Comisiones  Permanentes  serán p�
 
 El texto de la norma modificada era el siguiente:
 
-ARTICULO  144º-Las  sesiones  de  las  cámaras  y  de  sus  comisiones  permanentes  serán  públicas,  con  las limitaciones a que haya lugar, conforme a su reglamento.
+ARTICULO 144º—Las sesiones de las cámaras y de sus comisiones permanentes serán públicas, con las limitaciones a que haya lugar, conforme a su reglamento.
 
 [[END OF PAGE 47]]
 
@@ -1455,87 +1481,87 @@ Toda reunión de miembros del Congreso que, con el propósito de ejercer funcion
 ### ARTICULO 150.
 Corresponde al Congreso hacer las leyes. Por medio de ellas ejerce las siguientes funciones:
 
-- Interpretar, reformar y derogar las leyes.
+1. Interpretar, reformar y derogar las leyes.
 
-- Expedir  códigos  en  todos  los  ramos  de  la  legislación  y  reformar  sus disposiciones.
+2. Expedir códigos en todos los ramos de la legislación y reformar sus disposiciones.
 
-- Aprobar el plan nacional de desarrollo y de inversiones públicas que hayan de  emprenderse  o  continuarse,  con  la  determinación  de  los  recursos  y apropiaciones  que  se  autoricen  para  su  ejecución,  y  las  medidas  necesarias para impulsar el cumplimiento de los mismos.
+3. Aprobar el plan nacional de desarrollo y de inversiones públicas que hayan de emprenderse o continuarse, con la determinación de los recursos y apropiaciones que se autoricen para su ejecución, y las medidas necesarias para impulsar el cumplimiento de los mismos.
 
-- Definir  la  división  general  del  territorio  con  arreglo  a  lo  previsto  en  esta Constitución,  fijar  las  bases  y  condiciones  para  crear,  eliminar,  modificar  o fusionar entidades territoriales y establecer sus competencias.
+4. Definir la división general del territorio con arreglo a lo previsto en esta Constitución, fijar las bases y condiciones para crear, eliminar, modificar o fusionar entidades territoriales y establecer sus competencias.
 
-- Conferir atribuciones especiales a las asambleas departamentales.
+5. Conferir atribuciones especiales a las asambleas departamentales.
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-- Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales.
+6. Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales.
 
-- Determinar  la  estructura  de  la  administración  nacional  y  crear,  suprimir  o fusionar ministerios, departamentos administrativos, superintendencias, establecimientos públicos y otras entidades del orden nacional, señalando sus objetivos y estructura orgánica; reglamentar la creación y funcionamiento de las Corporaciones Autónomas Regionales dentro de un régimen de autonomía; así mismo, crear o autorizar la constitución de empresas industriales y comerciales del estado y sociedades de economía mixta.
+7. Determinar la estructura de la administración nacional y crear, suprimir o fusionar ministerios, departamentos administrativos, superintendencias, establecimientos públicos y otras entidades del orden nacional, señalando sus objetivos y estructura orgánica; reglamentar la creación y funcionamiento de las Corporaciones Autónomas Regionales dentro de un régimen de autonomía; así mismo, crear o autorizar la constitución de empresas industriales y comerciales del estado y sociedades de economía mixta.
 
-- Expedir las normas a las cuales debe sujetarse el Gobierno para el ejercicio de las funciones de inspección y vigilancia que le señala la Constitución.
+8. Expedir las normas a las cuales debe sujetarse el Gobierno para el ejercicio de las funciones de inspección y vigilancia que le señala la Constitución.
 
-- Conceder  autorizaciones  al  Gobierno  para  celebrar  contratos,  negociar empréstitos y enajenar bienes nacionales. El Gobierno rendirá periódicamente informes al Congreso sobre el ejercicio de estas autorizaciones.
+9. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos y enajenar bienes nacionales. El Gobierno rendirá periódicamente informes al Congreso sobre el ejercicio de estas autorizaciones.
 
-- Revestir, hasta por seis meses, al Presidente de la República de precisas facultades  extraordinarias,  para  expedir  normas  con  fuerza  de  ley  cuando  la necesidad  lo  exija  o  la  conveniencia  pública  lo  aconseje.  Tales  facultades deberán  ser  solicitadas expresamente  por  el  Gobierno y su aprobación requerirá la mayoría absoluta de los miembros de una y otra Cámara.
+10. Revestir, hasta por seis meses, al Presidente de la República de precisas facultades extraordinarias, para expedir normas con fuerza de ley cuando la necesidad lo exija o la conveniencia pública lo aconseje. Tales facultades deberán ser solicitadas expresamente por el Gobierno y su aprobación requerirá la mayoría absoluta de los miembros de una y otra Cámara.
 
-- El  Congreso  podrá,  en  todo  tiempo  y  por  iniciativa  propia,  modificar  los decretos leyes dictados por el Gobierno en uso de facultades extraordinarias.
+El Congreso podrá, en todo tiempo y por iniciativa propia, modificar los decretos leyes dictados por el Gobierno en uso de facultades extraordinarias.
 
 Estas facultades no se podrán conferir para expedir códigos, leyes estatutarias, orgánicas, ni las previstas en el numeral 20 <ver Notas del Editor> del presente artículo, ni para decretar impuestos.
 
-- Establecer las rentas nacionales y fijar los gastos de la administración.
+11. Establecer las rentas nacionales y fijar los gastos de la administración.
 
-- Establecer  contribuciones  fiscales  y,  excepcionalmente,  contribuciones parafiscales en los casos y bajo las condiciones que establezca la ley.
+12. Establecer contribuciones fiscales y, excepcionalmente, contribuciones parafiscales en los casos y bajo las condiciones que establezca la ley.
 
-- Determinar  la  moneda  legal,  la  convertibilidad  y  el  alcance  de  su  poder liberatorio, y arreglar el sistema de pesas y medidas.
+13. Determinar la moneda legal, la convertibilidad y el alcance de su poder liberatorio, y arreglar el sistema de pesas y medidas.
 
-- Aprobar o improbar los contratos o convenios que, por razones de evidente necesidad  nacional,  hubiere  celebrado  el  Presidente  de  la  República,  con particulares, compañías o entidades públicas, sin autorización previa.
+14. Aprobar o improbar los contratos o convenios que, por razones de evidente necesidad nacional, hubiere celebrado el Presidente de la República, con particulares, compañías o entidades públicas, sin autorización previa.
 
-- Decretar honores a los ciudadanos que hayan prestado servicios a la patria.
+15. Decretar honores a los ciudadanos que hayan prestado servicios a la patria.
 
-- Aprobar o improbar los tratados que el Gobierno celebre con otros Estados o con entidades de derecho internacional. Por medio de dichos tratados podrá el  Estado,  sobre  bases  de  equidad,  reciprocidad  y  conveniencia  nacional,
+16. Aprobar o improbar los tratados que el Gobierno celebre con otros Estados o con entidades de derecho internacional. Por medio de dichos tratados podrá el Estado, sobre bases de equidad, reciprocidad y conveniencia nacional,
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-transferir parcialmente determinadas atribuciones a organismos internacionales,  que  tengan  por  objeto  promover  o  consolidar  la  integración económica con otros Estados.
+transferir parcialmente determinadas atribuciones a organismos internacionales, que tengan por objeto promover o consolidar la integración económica con otros Estados.
 
-- Conceder, por mayoría de los dos tercios de los votos de los miembros de una y otra Cámara y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar.
+17. Conceder, por mayoría de los dos tercios de los votos de los miembros de una y otra Cámara y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar.
 
-- Dictar  las  normas  sobre  apropiación  o  adjudicación  y  recuperación  de tierras baldías.
+18. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldías.
 
-- Dictar las normas generales, y señalar en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno para los siguientes efectos:
+19. Dictar las normas generales, y señalar en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno para los siguientes efectos:
 
-- Organizar el crédito público;
+a) Organizar el crédito público;
 
-- Regular el comercio exterior y señalar el régimen de cambio internacional, en concordancia con las funciones que la Constitución consagra para la Junta Directiva del Banco de la República;
+b) Regular el comercio exterior y señalar el régimen de cambio internacional, en concordancia con las funciones que la Constitución consagra para la Junta Directiva del Banco de la República;
 
-- Modificar,  por  razones  de  política  comercial  los  aranceles,  tarifas  y  demás disposiciones concernientes al régimen de aduanas;
+c) Modificar, por razones de política comercial los aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas;
 
-- Regular  las  actividades  financiera,  bursátil,  aseguradora  y  cualquiera  otra relacionada  con  el  manejo,  aprovechamiento  e  inversión  de  los  recursos captados del público;
+d) Regular las actividades financiera, bursátil, aseguradora y cualquiera otra relacionada con el manejo, aprovechamiento e inversión de los recursos captados del público;
 
-- Fijar  el  régimen  salarial  y  prestacional  de  los  empleados  públicos,  de  los miembros del Congreso Nacional y la Fuerza Pública;
+e) Fijar el régimen salarial y prestacional de los empleados públicos, de los miembros del Congreso Nacional y la Fuerza Pública;
 
-- Regular  el  régimen  de  prestaciones  sociales  mínimas  de  los  trabajadores oficiales.
+f) Regular el régimen de prestaciones sociales mínimas de los trabajadores oficiales.
 
-Estas funciones  en lo  pertinente  a  prestaciones  sociales  son  indelegables  en las corporaciones públicas territoriales y éstas no podrán arrogárselas.
+Estas funciones en lo pertinente a prestaciones sociales son indelegables en las corporaciones públicas territoriales y éstas no podrán arrogárselas.
 
-- Crear los servicios administrativos y técnicos de las Cámaras.
+20. Crear los servicios administrativos y técnicos de las Cámaras.
 
-- Expedir  las leyes de intervención  económica,  previstas  en  el  artículo 334, las  cuales  deberán  precisar  sus  fines  y  alcances  y  los  límites  a  la  libertad económica.
+21. Expedir las leyes de intervención económica, previstas en el artículo 334, las cuales deberán precisar sus fines y alcances y los límites a la libertad económica.
 
-- Expedir  las  leyes  relacionadas  con  el  Banco  de  la  República  y  con  las funciones que compete desempeñar a su Junta Directiva.
+22. Expedir las leyes relacionadas con el Banco de la República y con las funciones que compete desempeñar a su Junta Directiva.
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
-- Expedir  las  leyes  que  regirán  el  ejercicio  de  las  funciones  públicas  y  la prestación de los servicios públicos.
+23. Expedir las leyes que regirán el ejercicio de las funciones públicas y la prestación de los servicios públicos.
 
-- Regular el régimen de propiedad industrial, patentes y marcas y las otras formas de propiedad intelectual.
+24. Regular el régimen de propiedad industrial, patentes y marcas y las otras formas de propiedad intelectual.
 
-- Unificar  las  normas  sobre  policía  de  tránsito  en  todo  el  territorio  de  la República.
+25. Unificar las normas sobre policía de tránsito en todo el territorio de la República.
 
 Compete  al  Congreso  expedir  el  estatuto  general  de  contratación  de  la administración pública y en especial de la administración nacional.
 
@@ -1545,27 +1571,29 @@ El  Congreso  expedirá  leyes  orgánicas  a  las  cuales  estará sujeto el ej
 ### ARTICULO 152.
 Mediante las leyes estatutarias, el Congreso de la República regulará las siguientes materias:
 
-- Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
+a) Derechos y deberes fundamentales de las personas y los procedimientos y recursos para su protección;
 
-- Administración de justicia;
+b) Administración de justicia;
 
-- Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
+c) Organización y régimen de los partidos y movimientos políticos; estatuto de la oposición y funciones electorales;
 
-- Instituciones y mecanismos de participación ciudadana;
+d) Instituciones y mecanismos de participación ciudadana;
 
-- Estados de excepción.
+e) Estados de excepción.
 
-- Adicionado. A.L. 2/2004, art. 4º. La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
+f) Adicionado. A.L. 2/2004, art. 4º. La igualdad electoral entre los candidatos a la Presidencia de la República que reúnan los requisitos que determine la ley.
 
-PAR. TRANS.Adicionado. A.L. 2/2004, art. 4º. El Gobierno Nacional o los miembros del Congreso presentaran, antes del primero de marzo de 2005, un proyecto  de  ley  estatutaria  que  desarrolle  el  literal  f)  del  artículo  152  de  la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de  comunicación  que  hagan uso del espectro electromagnético,  financiación  preponderantemente  estatal  de  las  campañas presidenciales,  derecho  de  replica  en  condiciones  de  equidad  cuando  el Presidente  de  la  República  sea  candidato  y  normas  sobre  inhabilidades  para candidatos a la Presidencia de la República.
+PAR. TRANS.—Adicionado. A.L. 2/2004, art. 4º. El Gobierno Nacional o los miembros del Congreso presentaran, antes del primero de marzo de 2005, un proyecto de ley estatutaria que desarrolle el literal f) del artículo 152 de la Constitución y regule además, entre otras, las siguientes materias: Garantías a la oposición, participación en política de servidores públicos, derecho al acceso equitativo a los medios de comunicación que hagan uso del espectro electromagnético, financiación preponderantemente estatal de las campañas presidenciales, derecho de replica en condiciones de equidad cuando el
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-El  proyecto  tendrá  mensaje  de  urgencia  y  podrá  ser  objeto  de  mensaje  de insistencia  si  fuere  necesario.  El  Congreso  de  la  República  expedirá  la  ley estatutaria  antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del proyecto de ley estatutaria por parte de la Corte Constitucional.
+Presidente de la República sea candidato y normas sobre inhabilidades para candidatos a la Presidencia de la República.
 
-*( Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia )* .
+El proyecto tendrá mensaje de urgencia y podrá ser objeto de mensaje de insistencia si fuere necesario. El Congreso de la República expedirá la ley estatutaria antes del 20 de junio de 2005. Se reducen a la mitad los términos para la revisión previa de exequibilidad del proyecto de ley estatutaria por parte de la Corte Constitucional.
+
+*(Si el Congreso no expidiere la ley en el término señalado o el proyecto fuere declarado inexequible por la Corte Constitucional, el Consejo de Estado, en un plazo de dos (2) meses reglamentará transitoriamente la materia)*.
 
 #### NOTA:
 Inciso Declarado Inexequible.
@@ -1585,11 +1613,13 @@ Las Cámaras podrán introducir modificaciones a los proyectos presentados por e
 Los proyectos de ley relativos a los tributos iniciarán su trámite  en la Cámara de  Representantes  y  los  que  se  refieran  a  relaciones  internacionales,  en  el Senado.
 
 ### ARTICULO 155.
-Podrán presentar proyectos de ley o de reforma constitucional, un número de ciudadanos igual o superior al cinco por ciento del censo  electoral  existente  en  la  fecha  respectiva  o  el  treinta  por  ciento  de  los concejales  o  diputados  del  país.  La  iniciativa  popular  será  tramitada  por  el Congreso,  de  conformidad  con  lo  establecido  en  el  artículo  163,  para  los proyectos que hayan sido objeto de manifestación de urgencia.
+Podrán presentar proyectos de ley o de reforma constitucional, un número de ciudadanos igual o superior al cinco por ciento del censo electoral existente en la fecha respectiva o el treinta por ciento de los concejales o diputados del país. La iniciativa popular será tramitada por el
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+Congreso, de conformidad con lo establecido en el artículo 163, para los proyectos que hayan sido objeto de manifestación de urgencia.
 
 Los ciudadanos proponentes tendrán derecho a designar un vocero que será oído por las Cámaras en todas las etapas del trámite.
 
@@ -1599,13 +1629,13 @@ La Corte Constitucional, el Consejo Superior de la Judicatura, la  Corte  Suprem
 ### ARTICULO 157.
 Ningún proyecto será ley sin los requisitos siguientes:
 
-- Haber sido publicado oficialmente por el Congreso, antes de darle curso en la comisión respectiva.
+1. Haber sido publicado oficialmente por el Congreso, antes de darle curso en la comisión respectiva.
 
-- Haber  sido  aprobado  en  primer  debate  en  la  correspondiente  comisión permanente  de  cada  Cámara.  El  reglamento  del  Congreso  determinará  los casos  en  los  cuales  el  primer  debate  se  surtirá  en  sesión  conjunta  de  las comisiones permanentes de ambas Cámaras.
+2. Haber sido aprobado en primer debate en la correspondiente comisión permanente de cada Cámara. El reglamento del Congreso determinará los casos en los cuales el primer debate se surtirá en sesión conjunta de las comisiones permanentes de ambas Cámaras.
 
-- Haber sido aprobado en cada Cámara en segundo debate.
+3. Haber sido aprobado en cada Cámara en segundo debate.
 
-- Haber obtenido la sanción del Gobierno.
+4. Haber obtenido la sanción del Gobierno.
 
 ### ARTICULO 158.
 Todo  proyecto  de  ley  debe  referirse  a  una  misma  materia  y serán inadmisibles las disposiciones o modificaciones que no se relacionen con ella. El Presidente de la respectiva comisión rechazará las iniciativas que no se avengan con este precepto, pero sus decisiones serán apelables ante la misma comisión. La ley que sea objeto de reforma parcial se publicará en un solo texto que incorpore las modificaciones aprobadas.
@@ -1626,7 +1656,7 @@ En  el  informe  a  la  Cámara  plena  para  segundo  debate,  el  ponente  deb
 
 Todo proyecto de ley o de acto legislativo deberá tener informe de ponencia en la  respectiva  comisión  encargada  de  tramitarlo,  y  deberá  dársele  el  curso correspondiente.
 
-INC.Adicionado. A.L. 1/2003, art. 8º. Ningún proyecto de ley será sometido a  votación  en sesión diferente  a  aquella que previamente se haya anunciado. El aviso de que un proyecto será sometido a votación lo dará la presidencia de cada Cámara o comisión en sesión distinta a aquella en la cual se realizará la votación.
+INC.—Adicionado. A.L. 1/2003, art. 8º. Ningún proyecto de ley será sometido a votación en sesión diferente a aquella que previamente se haya anunciado. El aviso de que un proyecto será sometido a votación lo dará la presidencia de cada Cámara o comisión en sesión distinta a aquella en la cual se realizará la votación.
 
 ### ARTICULO 161. Modificado. A.L. 1/2003, art. 9º.
 Cuando surgieren discrepancias  en  las  cámaras  respecto  de  un  proyecto,  ambas  integrarán comisiones de conciliadores conformadas por un mismo número de senadores y  representantes,  quienes  reunidos  conjuntamente,  procurarán  conciliar  los textos, y en caso de no ser posible, definirán por mayoría.
@@ -1636,7 +1666,7 @@ Previa  publicación  por lo  menos con  un  día  de  anticipación,  el texto 
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-"ART.  161.-Cuando  surgieren  discrepancias  en  las  cámaras  respecto  de  un  proyecto,  ambas  integrarán comisiones  accidentales  que,  reunidas  conjuntamente,  prepararán  el  texto  que  será  sometido  a  decisión  final  en sesión  plenaria  de  cada  cámara.  Si  después  de  la  repetición  del  segundo  debate  persisten  las  diferencias,  se considerará negado el proyecto".
+"ART. 161.—Cuando surgieren discrepancias en las cámaras respecto de un proyecto, ambas integrarán comisiones accidentales que, reunidas conjuntamente, prepararán el texto que será sometido a decisión final en sesión plenaria de cada cámara. Si después de la repetición del segundo debate persisten las diferencias, se considerará negado el proyecto".
 
 ### ARTICULO 162.
 Los proyectos de ley que no hubieren completado su trámite en  una  legislatura  y  que  hubieren  recibido  primer  debate  en  alguna  de  las cámaras,  continuarán  su  curso  en  la  siguiente,  en  el  estado  en  que  se encuentren. Ningún proyecto podrá ser considerado en más de dos legislaturas.
@@ -1706,23 +1736,23 @@ Para  ser  elegido  senador  se  requiere  ser  colombiano  de nacimiento, ciuda
 ### ARTICULO 173.
 Son atribuciones del Senado:
 
-- Admitir  o  no  las  renuncias  que  hagan  de  sus  empleos  el  Presidente  de  la República o el Vicepresidente.
+1. Admitir o no las renuncias que hagan de sus empleos el Presidente de la República o el Vicepresidente.
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-- Aprobar o improbar los ascensos militares que confiera el Gobierno, desde oficiales generales y oficiales de insignia de la fuerza pública, hasta el más alto grado.
+2. Aprobar o improbar los ascensos militares que confiera el Gobierno, desde oficiales generales y oficiales de insignia de la fuerza pública, hasta el más alto grado.
 
-- Conceder licencia al Presidente de la República para separarse temporalmente  del cargo, no siendo caso  de  enfermedad,  y  decidir sobre las excusas del Vicepresidente para ejercer la Presidencia de la República.
+3. Conceder licencia al Presidente de la República para separarse temporalmente del cargo, no siendo caso de enfermedad, y decidir sobre las excusas del Vicepresidente para ejercer la Presidencia de la República.
 
-- Permitir el tránsito de tropas extranjeras por el territorio de la República.
+4. Permitir el tránsito de tropas extranjeras por el territorio de la República.
 
-- Autorizar al Gobierno para declarar la guerra a otra nación.
+5. Autorizar al Gobierno para declarar la guerra a otra nación.
 
-- Elegir a los magistrados de la Corte Constitucional.
+6. Elegir a los magistrados de la Corte Constitucional.
 
-- Elegir al Procurador General de la Nación.
+7. Elegir al Procurador General de la Nación.
 
 ### ARTICULO  174.
 Corresponde  al  Senado  conocer  de  las  acusaciones  que formule la  Cámara de Representantes contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado y de la Corte Constitucional, los miembros del Consejo Superior  de  la  Judicatura  y  el  Fiscal  General  de  la  Nación,  aunque  hubieren cesado  en  el  ejercicio  de  sus  cargos.  En  este  caso,  conocerá  por  hechos  u omisiones ocurridos en el desempeño de los mismos.
@@ -1730,13 +1760,13 @@ Corresponde  al  Senado  conocer  de  las  acusaciones  que formule la  Cámara 
 ### ARTICULO  175.
 En  los  juicios  que  se  sigan  ante  el  Senado,  se  observarán estas reglas:
 
-- El  acusado  queda  de  hecho  suspenso  de  su  empleo,  siempre  que  una acusación sea públicamente admitida.
+1. El acusado queda de hecho suspenso de su empleo, siempre que una acusación sea públicamente admitida.
 
-- Si la acusación se refiere a delitos cometidos en ejercicio de funciones, o a indignidad por mala conducta, el Senado no podrá imponer otra pena que la de destitución  del  empleo,  o  la  privación  temporal  o  pérdida  absoluta  de  los derechos  políticos;  pero  al  reo  se  le  seguirá  juicio  criminal  ante  la  Corte Suprema de Justicia, si los hechos lo constituyen responsable de infracción que merezca otra pena.
+2. Si la acusación se refiere a delitos cometidos en ejercicio de funciones, o a indignidad por mala conducta, el Senado no podrá imponer otra pena que la de destitución del empleo, o la privación temporal o pérdida absoluta de los derechos políticos; pero al reo se le seguirá juicio criminal ante la Corte Suprema de Justicia, si los hechos lo constituyen responsable de infracción que merezca otra pena.
 
-- Si la acusación se refiere a delitos comunes, el Senado se limitará a declarar si  hay  o  no  lugar  a  seguimiento  de  causa  y,  en  caso  afirmativo,  pondrá  al acusado a disposición de la Corte Suprema.
+3. Si la acusación se refiere a delitos comunes, el Senado se limitará a declarar si hay o no lugar a seguimiento de causa y, en caso afirmativo, pondrá al acusado a disposición de la Corte Suprema.
 
-- El Senado podrá cometer la instrucción de los procesos a una diputación de su seno, reservándose el juicio y la sentencia definitiva, que será pronunciada en sesión pública, por los dos tercios, al menos, de los votos de los Senadores presentes.
+4. El Senado podrá cometer la instrucción de los procesos a una diputación de su seno, reservándose el juicio y la sentencia definitiva, que será pronunciada en sesión pública, por los dos tercios, al menos, de los votos de los Senadores presentes.
 
 [[END OF PAGE 57]]
 
@@ -1755,11 +1785,11 @@ La ley podrá establecer una circunscripción especial para asegurar la particip
 
 Mediante esta circunscripción se podrán elegir hasta cuatro representantes. Para  los  colombianos  residentes  en  el  exterior  existirá  una  circunscripción internacional mediante la cual se elegirá un representante a la Cámara. En ella solo  se  contabilizarán  los  votos  depositados  fuera  del  territorio  nacional  por ciudadanos residentes en el exterior.
 
-PAR.  1º-A  partir  de 2014,  la base  para la asignación  de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional,  de  acuerdo  con  lo  que  determine  el  censo.  Le  corresponderá  a  la organización electoral ajustar la cifra para la asignación de curules.
+PAR. 1º—A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
 
-PAR.  2º-Si  como  resultado  de  la  aplicación  de  la  fórmula  contenida  en  el presente  artículo,  una  circunscripción  territorial  pierde  una  o  más  curules, mantendrá las mismas que le correspondieron a 20 de julio de 2002.
+PAR. 2º—Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondieron a 20 de julio de 2002.
 
-PAR.  TRANS.-El Congreso  de  la  República  reglamentará  la  circunscripción internacional a más, tardar el 15 de diciembre de 2005, caso contrario, lo hará el  Gobierno  Nacional  dentro  de  los  quince  (15)  días  siguientes  a  esa  fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los consulados y financiación estatal para visitas al exterior por parte del representante elegido.
+PAR. TRANS.—El Congreso de la República reglamentará la circunscripción internacional a más, tardar el 15 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los consulados y financiación estatal para visitas al exterior por parte del representante elegido.
 
 #### NOTAS:
 1. El texto de la norma modificada era el siguiente:
@@ -1768,7 +1798,7 @@ PAR.  TRANS.-El Congreso  de  la  República  reglamentará  la  circunscripció
 
 [[START OF PAGE 59]]
 
-"ART.  176.-La  Cámara  de  Representantes  se  elegirá  en  circunscripciones  territoriales  y  circunscripciones especiales.
+"ART. 176.—La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
 
 Habrá  dos  representantes  por  cada  circunscripción  territorial  y  uno  más  por  cada  doscientos  cincuenta  mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
 
@@ -1778,9 +1808,9 @@ La ley podrá establecer una circunscripción especial para asegurar la particip
 
 Mediante esta circunscripción se podrá elegir hasta cinco representantes".
 
-- Este artículo también fue modificado por el Acto Legislativo 2 de 2005, artículo 1º que disponía:
+2. Este artículo también fue modificado por el Acto Legislativo 2 de 2005, artículo 1º que disponía:
 
-"ART. 176.-La  Cámara  de  Representantes  se  elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
+"ART. 176.—La Cámara de Representantes se elegirá en circunscripciones territoriales, circunscripciones especiales y una circunscripción internacional.
 
 Habrá  dos  representantes  por  cada  circunscripción  territorial  y  uno  más  por  cada  doscientos  cincuenta  mil habitantes o fracción mayor de ciento veinticinco mil que tengan en exceso sobre los primeros doscientos cincuenta mil.
 
@@ -1792,7 +1822,7 @@ Mediante esta circunscripción se podrá elegir hasta cuatro representantes.
 
 Para los colombianos residentes en el exterior existirá una circunscripción internacional mediante la cual se elegirá un representante a la Cámara. En ella, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
 
-PAR. TRANS.-El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre  de  2005,  caso  contrario,  lo  hará  el  Gobierno Nacional  dentro  de  los  quince  (15)  días  siguientes  a  esa fecha;  incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los consulados y financiación estatal para visitas al exterior por parte del representante elegido".
+PAR. TRANS.—El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2005, caso contrario, lo hará el Gobierno Nacional dentro de los quince (15) días siguientes a esa fecha; incluirá entre otros temas: inscripción de candidatos, inscripción de ciudadanos habilitados para votar en el exterior, mecanismos para promover la participación y realización del escrutinio de votos a través de los consulados y financiación estatal para visitas al exterior por parte del representante elegido".
 
 ### ARTICULO 177.
 Para ser elegido representante se requiere ser ciudadano en ejercicio y tener más de veinticinco años de edad en la fecha de la elección.
@@ -1800,11 +1830,11 @@ Para ser elegido representante se requiere ser ciudadano en ejercicio y tener m�
 ### ARTICULO  178.
 La Cámara de Representantes tendrá las siguientes atribuciones especiales:
 
-- Elegir al Defensor del Pueblo.
+1. Elegir al Defensor del Pueblo.
 
-- Examinar  y  fenecer  la  cuenta  general  del  presupuesto  y  del  tesoro  que  le presente el Contralor General de la República.
+2. Examinar y fenecer la cuenta general del presupuesto y del tesoro que le presente el Contralor General de la República.
 
-- Acusar ante el Senado,  cuando hubiere causas constitucionales, al Presidente de la República o a quien haga sus veces, a los magistrados de la
+3. Acusar ante el Senado, cuando hubiere causas constitucionales, al Presidente de la República o a quien haga sus veces, a los magistrados de la
 
 [[END OF PAGE 59]]
 
@@ -1812,34 +1842,34 @@ La Cámara de Representantes tendrá las siguientes atribuciones especiales:
 
 Corte Constitucional, a los magistrados de la Corte Suprema de Justicia, a los miembros del Consejo Superior de la Judicatura, a los magistrados del Consejo de Estado y al Fiscal General de la Nación.
 
-- Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
+4. Conocer de las denuncias y quejas que ante ella se presenten por el Fiscal General de la Nación o por los particulares contra los expresados funcionarios y, si prestan mérito, fundar en ellas acusación ante el Senado.
 
-- Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones  que  le  competen,  y  comisionar  para  la  práctica  de  pruebas cuando lo considere conveniente.
+5. Requerir el auxilio de otras autoridades para el desarrollo de las investigaciones que le competen, y comisionar para la práctica de pruebas cuando lo considere conveniente.
 
 ## CAPITULO VI. DE LOS CONGRESISTAS
 
 ### ARTICULO 179.
 No podrán ser congresistas:
 
-- Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
+1. Quienes hayan sido condenados en cualquier época por sentencia judicial, a pena privativa de la libertad, excepto por delitos políticos o culposos.
 
-- Quienes hubieren ejercido,  como empleados públicos, jurisdicción o autoridad  política,  civil,  administrativa  o  militar,  dentro  de  los  doce  meses anteriores a la fecha de la elección.
+2. Quienes hubieren ejercido, como empleados públicos, jurisdicción o autoridad política, civil, administrativa o militar, dentro de los doce meses anteriores a la fecha de la elección.
 
-- Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o  hayan  sido  representantes  legales  de  entidades  que  administren  tributos  o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
+3. Quienes hayan intervenido en gestión de negocios ante entidades públicas, o en la celebración de contratos con ellas en interés propio, o en el de terceros, o hayan sido representantes legales de entidades que administren tributos o contribuciones parafiscales, dentro de los seis meses anteriores a la fecha de la elección.
 
-- Quienes hayan perdido la investidura de congresista.
+4. Quienes hayan perdido la investidura de congresista.
 
-- Quienes  tengan  vínculos por matrimonio, o  unión permanente,  o  de parentesco  en  tercer  grado  de  consanguinidad,  primero  de  afinidad,  o  único civil, con funcionarios que ejerzan autoridad civil o política.
+5. Quienes tengan vínculos por matrimonio, o unión permanente, o de parentesco en tercer grado de consanguinidad, primero de afinidad, o único civil, con funcionarios que ejerzan autoridad civil o política.
 
-- Quienes  estén  vinculados  entre  sí  por  matrimonio,  o  unión  permanente,  o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero  civil,  y  se  inscriban  por  el  mismo  partido,  movimiento  o  grupo  para elección  de  cargos,  o  de  miembros  de  corporaciones  públicas  que  deban realizarse en la misma fecha.
+6. Quienes estén vinculados entre sí por matrimonio, o unión permanente, o parentesco dentro del tercer grado de consanguinidad, segundo de afinidad, o primero civil, y se inscriban por el mismo partido, movimiento o grupo para elección de cargos, o de miembros de corporaciones públicas que deban realizarse en la misma fecha.
 
-- Quienes  tengan  doble  nacionalidad,  exceptuando  los  colombianos  por nacimiento.
+7. Quienes tengan doble nacionalidad, exceptuando los colombianos por nacimiento.
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
-- Nadie  podrá  ser  elegido  para  más  de  una  corporación  o  cargo  público,  ni para una corporación  y un cargo, si los respectivos  períodos coinciden  en  el tiempo, así sea parcialmente.
+8. Nadie podrá ser elegido para más de una corporación o cargo público, ni para una corporación y un cargo, si los respectivos períodos coinciden en el tiempo, así sea parcialmente.
 
 Las  inhabilidades  previstas  en  los  numerales  2,  3,  5  y  6  se  refieren  a situaciones que tengan lugar en la circunscripción en la cual deba efectuarse la respectiva elección. La ley reglamentará los demás casos de inhabilidades por parentesco, con las autoridades no contemplados en estas disposiciones.
 
@@ -1848,13 +1878,13 @@ Para  los  fines  de  este  artículo  se  considera  que  la  circunscripción 
 ### ARTICULO 180.
 Los congresistas no podrán:
 
-- Desempeñar cargo o empleo público o privado.
+1. Desempeñar cargo o empleo público o privado.
 
-- Gestionar, en nombre propio o ajeno, asuntos ante las entidades públicas o ante  las  personas  que  administren  tributos,  ser  apoderados  ante  las  mismas, celebrar  con  ellas,  por  sí  o  por  interpuesta  persona,  contrato  alguno.  La  ley establecerá las excepciones a esta disposición.
+2. Gestionar, en nombre propio o ajeno, asuntos ante las entidades públicas o ante las personas que administren tributos, ser apoderados ante las mismas, celebrar con ellas, por sí o por interpuesta persona, contrato alguno. La ley establecerá las excepciones a esta disposición.
 
-- Modificado.  A.L. 3/93, art.  2º,  par.  2º. Ser miembro  de  juntas  o  consejos directivos  de  entidades  oficiales  descentralizadas  de  cualquier  nivel  o  de instituciones que administren tributos.
+3. Modificado. A.L. 3/93, art. 2º, par. 2º. Ser miembro de juntas o consejos directivos de entidades oficiales descentralizadas de cualquier nivel o de instituciones que administren tributos.
 
-- Celebrar contratos o realizar gestiones con personas naturales o jurídicas de derecho privado que administren, manejen o inviertan fondos públicos o sean contratistas del Estado o reciban  donaciones  de éste. Se exceptúa  la adquisición de bienes o servicios que se ofrecen a los ciudadanos en igualdad de condiciones.
+4. Celebrar contratos o realizar gestiones con personas naturales o jurídicas de derecho privado que administren, manejen o inviertan fondos públicos o sean contratistas del Estado o reciban donaciones de éste. Se exceptúa la adquisición de bienes o servicios que se ofrecen a los ciudadanos en igualdad de condiciones.
 
 PARAGRAFO 1°. Se exceptúa del régimen de incompatibilidades el ejercicio de la cátedra universitaria.
 
@@ -1875,17 +1905,17 @@ Los  congresistas  deberán  poner  en  conocimiento  de  la respectiva  Cámara
 ### ARTICULO 183.
 Los congresistas perderán su investidura:
 
-- Por  violación  del  régimen  de  inhabilidades  e  incompatibilidades,  o  del régimen de conflicto de intereses.
+1. Por violación del régimen de inhabilidades e incompatibilidades, o del régimen de conflicto de intereses.
 
-- Por  la  inasistencia,  en  un  mismo  período  de  sesiones,  a  seis  reuniones plenarias en las que se voten proyectos de acto legislativo, de ley o mociones de censura.
+2. Por la inasistencia, en un mismo período de sesiones, a seis reuniones plenarias en las que se voten proyectos de acto legislativo, de ley o mociones de censura.
 
-- Por  no  tomar  posesión  del  cargo  dentro  de  los  ocho  días  siguientes  a  la fecha de instalación  de  las  Cámaras,  o  a  la  fecha  en  que  fueren  llamados  a posesionarse.
+3. Por no tomar posesión del cargo dentro de los ocho días siguientes a la fecha de instalación de las Cámaras, o a la fecha en que fueren llamados a posesionarse.
 
-- Por indebida destinación de dineros públicos.
+4. Por indebida destinación de dineros públicos.
 
-- Por tráfico de influencias debidamente comprobado.
+5. Por tráfico de influencias debidamente comprobado.
 
-PARAGRAFO. Adicionado.  A.L.  1/11,  art.  1 .  La  causal  1  en  lo  referido  al régimen de conflicto de intereses no tendrá aplicación cuando los Congresistas participen en el debate y votación de proyectos de actos legislativos.
+PARAGRAFO. Adicionado. A.L. 1/11, art. 1. La causal 1 en lo referido al régimen de conflicto de intereses no tendrá aplicación cuando los Congresistas participen en el debate y votación de proyectos de actos legislativos.
 
 Las causales 2 y 3 no tendrán aplicación cuando medie fuerza mayor.
 
@@ -1915,59 +1945,57 @@ El Presidente de la República simboliza la unidad nacional y al jurar  el  cump
 ### ARTICULO  189.
 Corresponde  al  Presidente  de  la  República  como  Jefe  de Estado, Jefe del Gobierno y Suprema Autoridad Administrativa:
 
-- Nombrar  y  separar  libremente  a  los  Ministros  del  Despacho  y  a  los Directores de Departamentos Administrativos.
+1. Nombrar y separar libremente a los Ministros del Despacho y a los Directores de Departamentos Administrativos.
 
-- Dirigir  las relaciones internacionales. Nombrar  a los  agentes diplomáticos  y consulares,  recibir  a  los  agentes  respectivos  y  celebrar  con  otros  Estados  y entidades de derecho internacional tratados o convenios que se someterán a la aprobación del Congreso.
+2. Dirigir las relaciones internacionales. Nombrar a los agentes diplomáticos y consulares, recibir a los agentes respectivos y celebrar con otros Estados y entidades de derecho internacional tratados o convenios que se someterán a la aprobación del Congreso.
 
-- Dirigir la fuerza pública y disponer de ella como Comandante Supremo de las Fuerzas Armadas de la República.
+3. Dirigir la fuerza pública y disponer de ella como Comandante Supremo de las Fuerzas Armadas de la República.
 
-- Conservar en todo el territorio  el  orden  público  y  restablecerlo  donde fuere turbado.
+4. Conservar en todo el territorio el orden público y restablecerlo donde fuere turbado.
 
-- Dirigir las operaciones de guerra cuando lo estime conveniente.
+5. Dirigir las operaciones de guerra cuando lo estime conveniente.
 
-- Proveer a la seguridad exterior de la República, defendiendo la independencia y la honra de la Nación y la inviolabilidad del territorio; declarar la  guerra con  permiso del  Senado,  o  hacerla sin tal  autorización  para repeler una  agresión  extranjera;  y  convenir  y  ratificar  los  tratados  de  paz,  de  todo  lo cual dará cuenta inmediata al Congreso.
+6. Proveer a la seguridad exterior de la República, defendiendo la independencia y la honra de la Nación y la inviolabilidad del territorio; declarar la guerra con permiso del Senado, o hacerla sin tal autorización para repeler una agresión extranjera; y convenir y ratificar los tratados de paz, de todo lo cual dará cuenta inmediata al Congreso.
 
-- Permitir,  en receso  del Senado, previo dictamen del Consejo de Estado, el tránsito de tropas extranjeras por el territorio de la República.
+7. Permitir, en receso del Senado, previo dictamen del Consejo de Estado, el tránsito de tropas extranjeras por el territorio de la República.
 
-- Instalar y clausurar las sesiones del Congreso en cada legislatura.
+8. Instalar y clausurar las sesiones del Congreso en cada legislatura.
 
-- Sancionar las leyes.
+9. Sancionar las leyes.
 
-- Promulgar las leyes, obedecerlas y velar por su estricto cumplimiento.
+10. Promulgar las leyes, obedecerlas y velar por su estricto cumplimiento.
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
 
-- Ejercer la potestad reglamentaria, mediante la expedición de los decretos, resoluciones y órdenes necesarios para la cumplida ejecución de las leyes.
+11. Ejercer la potestad reglamentaria, mediante la expedición de los decretos, resoluciones y órdenes necesarios para la cumplida ejecución de las leyes.
 
-- Presentar  un  informe  al  Congreso,  al  iniciarse  cada  legislatura,  sobre  los actos de la Administración, sobre  la  ejecución  de  los  planes  y  programas  de desarrollo  económico  y  social,  y  sobre  los  proyectos  que  el  Gobierno  se proponga adelantar durante la vigencia de la nueva legislatura.
+12. Presentar un informe al Congreso, al iniciarse cada legislatura, sobre los actos de la Administración, sobre la ejecución de los planes y programas de desarrollo económico y social, y sobre los proyectos que el Gobierno se proponga adelantar durante la vigencia de la nueva legislatura.
 
-- Nombrar  a  los  presidentes,  directores  o  gerentes  de  los  establecimientos personas  que  deban  desempeñar  empleos nacionales  cuya  provisión  no  sea  por  concurso  o  no  corresponda  a  otros
+13. Nombrar a los presidentes, directores o gerentes de los establecimientos públicos nacionales y a las personas que deban desempeñar empleos nacionales cuya provisión no sea por concurso o no corresponda a otros funcionarios o corporaciones, según la Constitución o la ley.
 
-- públicos nacionales y a las funcionarios o corporaciones, según la Constitución o la ley. En todo caso, el Gobierno tiene la facultad de nombrar y remover libremente a
+En todo caso, el Gobierno tiene la facultad de nombrar y remover libremente a sus agentes.
 
-sus agentes.
+14. Crear, fusionar o suprimir, conforme a la ley, los empleos que demande la administración central, señalar sus funciones especiales y fijar sus dotaciones y emolumentos. El Gobierno no podrá crear, con cargo al Tesoro, obligaciones que excedan el monto global fijado para el respectivo servicio en la ley de apropiaciones iniciales.
 
-- Crear, fusionar o suprimir, conforme a la ley, los empleos que demande la administración central, señalar sus funciones especiales y fijar sus dotaciones y emolumentos. El Gobierno no podrá crear, con cargo  al Tesoro,  obligaciones que  excedan  el  monto  global  fijado  para  el  respectivo  servicio  en  la  ley  de apropiaciones iniciales.
+15. Suprimir o fusionar entidades u organismos administrativos nacionales de conformidad con la ley.
 
-- Suprimir o fusionar entidades u organismos administrativos nacionales de conformidad con la ley.
+16. Modificar la estructura de los Ministerios, Departamentos Administrativos y demás entidades u organismos administrativos nacionales, con sujeción a los principios y reglas generales que defina la ley.
 
-- Modificar la estructura de los Ministerios, Departamentos Administrativos y demás entidades u organismos administrativos nacionales, con sujeción a los principios y reglas generales que defina la ley.
+17. Distribuir los negocios según su naturaleza, entre Ministerios, Departamentos Administrativos y Establecimientos Públicos.
 
-- Distribuir los negocios según su naturaleza, entre Ministerios, Departamentos Administrativos y Establecimientos Públicos.
+18. Conceder permiso a los empleados públicos nacionales que lo soliciten, para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros.
 
-- Conceder  permiso  a  los  empleados  públicos  nacionales  que  lo  soliciten, para aceptar, con carácter temporal, cargos o mercedes  de  gobiernos extranjeros.
+19. Conferir grados a los miembros de la fuerza pública y someter para aprobación del Senado los que correspondan de acuerdo con el artículo 173.
 
-- Conferir  grados  a  los  miembros  de  la  fuerza  pública  y  someter  para aprobación del Senado los que correspondan de acuerdo con el artículo 173.
+20. Velar por la estricta recaudación y administración de las rentas y caudales públicos y decretar su inversión de acuerdo con las leyes.
 
-- Velar por la estricta recaudación y administración de las rentas y caudales públicos y decretar su inversión de acuerdo con las leyes.
+21. Ejercer la inspección y vigilancia de la enseñanza conforme a la ley.
 
-- Ejercer la inspección y vigilancia de la enseñanza conforme a la ley.
+22. Ejercer la inspección y vigilancia de la prestación de los servicios públicos.
 
-- Ejercer la inspección y vigilancia de la prestación de los servicios públicos.
-
-- Celebrar los contratos que le correspondan con sujeción a la Constitución y la ley.
+23. Celebrar los contratos que le correspondan con sujeción a la Constitución y la ley.
 
 [[END OF PAGE 64]]
 
@@ -1975,11 +2003,11 @@ sus agentes.
 
 24. Ejercer, de acuerdo con la ley, la inspección, vigilancia y control sobre las personas que realicen actividades financiera, bursátil, aseguradora y cualquier otra  relacionada  con  el  manejo,  aprovechamiento  o  inversión  de  recursos captados  del  público.  Así  mismo,  sobre  las  entidades  cooperativas  y  las sociedades mercantiles.
 
-- Organizar  el  Crédito  Público;  reconocer  la  deuda  nacional  y  arreglar  su servicio; modificar los aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas; regular el comercio exterior; y ejercer la intervención en las  actividades  financiera,  bursátil,  aseguradora  y  cualquier  otra  relacionada con  el  manejo,  aprovechamiento  e  inversión  de  recursos  provenientes  del ahorro de terceros de acuerdo con la ley.
+25. Organizar el Crédito Público; reconocer la deuda nacional y arreglar su servicio; modificar los aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas; regular el comercio exterior; y ejercer la intervención en las actividades financiera, bursátil, aseguradora y cualquier otra relacionada con el manejo, aprovechamiento e inversión de recursos provenientes del ahorro de terceros de acuerdo con la ley.
 
-- Ejercer la inspección y vigilancia sobre instituciones de utilidad común para que sus rentas se conserven y sean debidamente aplicadas y para que en todo lo esencial se cumpla con la voluntad de los fundadores.
+26. Ejercer la inspección y vigilancia sobre instituciones de utilidad común para que sus rentas se conserven y sean debidamente aplicadas y para que en todo lo esencial se cumpla con la voluntad de los fundadores.
 
-- Conceder  patente  de  privilegio  temporal  a  los  autores  de  invenciones  o perfeccionamientos útiles, con arreglo a la ley.
+27. Conceder patente de privilegio temporal a los autores de invenciones o perfeccionamientos útiles, con arreglo a la ley.
 
 28. Expedir cartas de naturalización, conforme a la ley.
 
@@ -2035,16 +2063,16 @@ No  podrá  ser  elegido  Presidente  de  la  República  o  Vicepresidente  qui
 
 Ministro,  director  de  departamento  administrativo,  magistrado  de  la  Corte Suprema  de  Justicia,  de  la  Corte  Constitucional,  del  Consejo  de  Estado,  del Consejo Superior de la Judicatura, o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, comandantes de las Fuerzas Militares, Director General de la Policía, gobernador de departamento o alcaldes.
 
-PAR.  TRANS.-Quien  ejerza  o  haya  ejercido  la  Presidencia  de  la  República antes de la vigencia del presente acto legislativo solo podrá ser elegido para un nuevo período presidencial.
+PAR. TRANS.—Quien ejerza o haya ejercido la Presidencia de la República antes de la vigencia del presente acto legislativo solo podrá ser elegido para un nuevo período presidencial.
 
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-'ART. 197.-No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio.
+“ART. 197.—No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio.
 
 Tampoco  podrá  ser  elegido  Presidente  de  la  República  quien  hubiere  incurrido  en  alguna  de  las  causales  de inhabilidad  consagradas  en  los  numerales  1º,  4º  y  7º  del  artículo  179,  ni  el  ciudadano  que  un  año  antes  de  la elección haya ejercido cualquiera de los siguientes cargos:
 
-Magistrado  de  la  Corte  Suprema  de  Justicia,  o  de  la  Corte  Constitucional,  Consejero  de  Estado  o  miembro  del Consejo Nacional Electoral, o del Consejo Superior de la Judicatura, Ministros del Despacho, Procurador General de la  Nación,  Defensor  del  Pueblo,  Contralor  General  de  la  República,  Fiscal  General  de  la  Nación,  Registrador Nacional del Estado Civil, director de departamento administrativo, gobernador de departamento o Alcalde Mayor de Santafé de Bogotá'.
+Magistrado de la Corte Suprema de Justicia, o de la Corte Constitucional, Consejero de Estado o miembro del Consejo Nacional Electoral, o del Consejo Superior de la Judicatura, Ministros del Despacho, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, director de departamento administrativo, gobernador de departamento o Alcalde Mayor de Santafé de Bogotá”.
 
 ### ARTICULO 198.
 El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
@@ -2057,28 +2085,28 @@ El Presidente de la República, durante el período para el que sea  elegido,  o
 ### ARTICULO 200.
 Corresponde al Gobierno, en relación con el Congreso:
 
-- Concurrir a la formación de las leyes, presentando proyectos por intermedio de los ministros, ejerciendo el derecho de objetarlos y cumpliendo el deber de sancionarlos con arreglo a la Constitución.
+1. Concurrir a la formación de las leyes, presentando proyectos por intermedio de los ministros, ejerciendo el derecho de objetarlos y cumpliendo el deber de sancionarlos con arreglo a la Constitución.
 
-- Convocarlo a sesiones extraordinarias.
+2. Convocarlo a sesiones extraordinarias.
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
 
-- Presentar el plan nacional de desarrollo y de inversiones públicas, conforme a lo dispuesto en el artículo 150.
+3. Presentar el plan nacional de desarrollo y de inversiones públicas, conforme a lo dispuesto en el artículo 150.
 
-- Enviar a la Cámara de Representantes el proyecto de presupuesto de rentas y gastos.
+4. Enviar a la Cámara de Representantes el proyecto de presupuesto de rentas y gastos.
 
-- Rendir a las cámaras los informes que éstas soliciten sobre negocios que no demanden reserva.
+5. Rendir a las cámaras los informes que éstas soliciten sobre negocios que no demanden reserva.
 
-- Prestar  eficaz  apoyo  a las cámaras cuando ellas lo soliciten poniendo  a su disposición la fuerza pública, si fuere necesario.
+6. Prestar eficaz apoyo a las cámaras cuando ellas lo soliciten poniendo a su disposición la fuerza pública, si fuere necesario.
 
 ### ARTICULO 201.
 Corresponde al Gobierno, en relación con la Rama Judicial:
 
-- Prestar  a  los  funcionarios  judiciales,  con  arreglo  a  las  leyes,  los  auxilios necesarios para hacer efectivas sus providencias.
+1. Prestar a los funcionarios judiciales, con arreglo a las leyes, los auxilios necesarios para hacer efectivas sus providencias.
 
-- Conceder  indultos  por  delitos  políticos,  con  arreglo  a  la  ley,  e  informar  al Congreso  sobre  el  ejercicio  de  esta  facultad.  En  ningún  caso  estos  indultos podrán comprender la responsabilidad que tengan los favorecidos respecto de los particulares.
+2. Conceder indultos por delitos políticos, con arreglo a la ley, e informar al Congreso sobre el ejercicio de esta facultad. En ningún caso estos indultos podrán comprender la responsabilidad que tengan los favorecidos respecto de los particulares.
 
 ## CAPITULO III. DEL VICEPRESIDENTE
 
@@ -2110,9 +2138,9 @@ El Vicepresidente podrá ser elegido Presidente de la República para el períod
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-'ART.  204.  -Para  ser  elegido  Vicepresidente  se  requieren  las  mismas  calidades  que  para  ser  Presidente  de  la República.
+“ART. 204. —Para ser elegido Vicepresidente se requieren las mismas calidades que para ser Presidente de la República.
 
-El Vicepresidente no podrá ser elegido Presidente de la República, ni Vicepresidente para el período inmediatamente siguiente'.
+El Vicepresidente no podrá ser elegido Presidente de la República, ni Vicepresidente para el período inmediatamente siguiente”.
 
 ### ARTICULO 205.
 En caso de falta absoluta del Vicepresidente, el Congreso se reunirá por derecho propio, o por convocatoria del Presidente de la República, a fin de elegir a quien haya de remplazarlo para el resto del período. Son faltas absolutas del Vicepresidente: su muerte, su renuncia aceptada y la incapacidad física permanente reconocida por el Congreso.
@@ -2128,13 +2156,15 @@ Para ser ministro o director de departamento administrativo se requieren las mis
 ### ARTICULO 208.
 Los ministros y los directores de departamentos administrativos son los jefes de la administración en su respectiva dependencia. Bajo la dirección del Presidente de la República, les corresponde formular las políticas atinentes a su despacho, dirigir la actividad administrativa y ejecutar la ley.
 
-Los  ministros, en  relación  con el  Congreso,  son  voceros  del  Gobierno, presentan a las cámaras proyectos de ley, atienden las citaciones que aquellas les  hagan  y  toman  parte  en  los  debates  directamente  o  por  conducto  de  los viceministros.
+Los ministros, en relación con el Congreso, son voceros del Gobierno, presentan a las cámaras proyectos de ley, atienden las citaciones que aquellas
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
 
-Los ministros y los directores de departamentos administrativos presentarán al Congreso,  dentro  de  los  primeros  quince  días  de  cada  legislatura,  informe sobre  el  estado  de  los  negocios  adscritos  a  su  ministerio  o  departamento administrativo, y sobre las reformas que consideren convenientes.
+les hagan y toman parte en los debates directamente o por conducto de los viceministros.
+
+Los ministros y los directores de departamentos administrativos presentarán al Congreso, dentro de los primeros quince días de cada legislatura, informe sobre el estado de los negocios adscritos a su ministerio o departamento administrativo, y sobre las reformas que consideren convenientes.
 
 Las  cámaras  pueden  requerir  la  asistencia  de  los  ministros.  Las  comisiones permanentes, además, la de los viceministros, los directores de departamentos administrativos, el  Gerente  del  Banco  de la  República, los presidentes, directores o gerentes de las entidades descentralizadas del orden nacional y la de otros funcionarios de la rama ejecutiva del poder público.
 
@@ -2192,17 +2222,17 @@ En  ningún caso los civiles podrán ser investigados  o  juzgados  por la justi
 ### ARTICULO  214.
 Los  Estados  de  Excepción  a  que  se  refieren  los  artículos anteriores se someterán a las siguientes disposiciones:
 
-- Los  decretos  legislativos llevarán la firma  del  Presidente  de  la  República  y todos  sus  ministros  y  solamente  podrán  referirse  a  materias  que  tengan relación  directa  y  específica  con  la  situación  que  hubiere  determinado  la declaratoria del Estado de Excepción.
+1. Los decretos legislativos llevarán la firma del Presidente de la República y todos sus ministros y solamente podrán referirse a materias que tengan relación directa y específica con la situación que hubiere determinado la declaratoria del Estado de Excepción.
 
-- No podrán suspenderse los derechos humanos ni las libertades fundamentales. En todo caso se respetarán las reglas del derecho internacional humanitario.  Una ley  estatutaria  regulará  las  facultades  del  Gobierno  durante los estados de excepción y establecerá los controles judiciales y las garantías para  proteger  los  derechos,  de  conformidad  con  los  tratados  internacionales. Las medidas que se adopten deberán ser proporcionales a la gravedad de los hechos.
+2. No podrán suspenderse los derechos humanos ni las libertades fundamentales. En todo caso se respetarán las reglas del derecho internacional humanitario. Una ley estatutaria regulará las facultades del Gobierno durante los estados de excepción y establecerá los controles judiciales y las garantías para proteger los derechos, de conformidad con los tratados internacionales. Las medidas que se adopten deberán ser proporcionales a la gravedad de los hechos.
 
-- No se interrumpirá el normal funcionamiento de las ramas del poder público ni de los órganos del Estado.
+3. No se interrumpirá el normal funcionamiento de las ramas del poder público ni de los órganos del Estado.
 
-- Tan pronto como hayan cesado la guerra exterior o las causas que dieron lugar  al  Estado  de  Conmoción  Interior,  el  Gobierno  declarará  restablecido  el orden público y levantará el Estado de Excepción.
+4. Tan pronto como hayan cesado la guerra exterior o las causas que dieron lugar al Estado de Conmoción Interior, el Gobierno declarará restablecido el orden público y levantará el Estado de Excepción.
 
-- El  Presidente  y  los  ministros  serán  responsables  cuando  declaren  los estados  de  excepción  sin  haber  ocurrido  los  casos  de  guerra  exterior  o  de conmoción interior, y lo serán también, al igual que los demás funcionarios, por cualquier abuso que hubieren cometido en el ejercicio de las facultades a que se refieren los artículos anteriores.
+5. El Presidente y los ministros serán responsables cuando declaren los estados de excepción sin haber ocurrido los casos de guerra exterior o de conmoción interior, y lo serán también, al igual que los demás funcionarios, por cualquier abuso que hubieren cometido en el ejercicio de las facultades a que se refieren los artículos anteriores.
 
-- El  Gobierno  enviará  a  la  Corte  Constitucional  al  día  siguiente  de  su expedición, los decretos legislativos que dicte en uso de las facultades a que se refieren los artículos anteriores, para que aquella decida definitivamente sobre su constitucionalidad. Si el Gobierno no cumpliere con el deber de enviarlos, la Corte Constitucional aprehenderá de oficio y en forma inmediata su conocimiento.
+6. El Gobierno enviará a la Corte Constitucional al día siguiente de su expedición, los decretos legislativos que dicte en uso de las facultades a que se refieren los artículos anteriores, para que aquella decida definitivamente sobre su constitucionalidad. Si el Gobierno no cumpliere con el deber de enviarlos, la Corte Constitucional aprehenderá de oficio y en forma inmediata su conocimiento.
 
 ### ARTICULO 215.
 Cuando sobrevengan hechos distintos de los previstos en los artículos  212  y  213  que  perturben  o  amenacen  perturbar  en  forma  grave  e inminente  el  orden  económico,  social  y  ecológico  del  país,  o  que  constituyan grave  calamidad  pública,  podrá  el  Presidente,  con  la  firma  de  todos  los ministros, declarar el Estado de Emergencia por períodos hasta de treinta días en  cada  caso,  que  sumados  no  podrán  exceder  de  noventa  días  en  el  año calendario.
@@ -2274,7 +2304,7 @@ De los delitos cometidos por los miembros de la fuerza pública en servicio acti
 #### NOTA:
 El texto de la norma adicionada era el siguiente:
 
-'ART. 221. -De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar'.
+“ART. 221. —De los delitos cometidos por los miembros de la fuerza pública en servicio activo, y en relación con el mismo servicio, conocerán las cortes marciales o tribunales militares, con arreglo a las prescripciones del Código Penal Militar”.
 
 ### ARTICULO  222.
 La  ley  determinará  los  sistemas  de  promoción  profesional, cultural  y  social  de  los  miembros  de  la  Fuerza  Pública.  En  las  etapas  de  su formación, se les impartirá la enseñanza de los fundamentos de la democracia y de los derechos humanos.
@@ -2543,13 +2573,13 @@ En  el  evento  de  presentarse  escrito  de  acusación,  el  fiscal  general  
 
 [[START OF PAGE 84]]
 
-PAR.  -La  Procuraduría  General  de  la  Nación  continuará  cumpliendo  en  el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
+PAR.  —La  Procuraduría  General  de  la  Nación  continuará  cumpliendo  en  el nuevo sistema de indagación, investigación y juzgamiento penal, las funciones contempladas en el artículo 277 de la Constitución Nacional.
 
 #### NOTA:
 
 - 1). El texto de la norma modificada era el siguiente:
 
-"ART. 250.-Corresponde a la Fiscalía General de la Nación, de oficio o mediante denuncia o querella, investigar los delitos y acusar  a  los presuntos infractores ante  los  juzgados y  tribunales  competentes. Se exceptúan  los delitos cometidos por miembros de la fuerza pública en servicio activo y en relación con el mismo servicio. Para tal efecto la Fiscalía General de la Nación deberá:
+"ART. 250.—Corresponde a la Fiscalía General de la Nación, de oficio o mediante denuncia o querella, investigar los delitos y acusar  a  los presuntos infractores ante  los  juzgados y  tribunales  competentes. Se exceptúan  los delitos cometidos por miembros de la fuerza pública en servicio activo y en relación con el mismo servicio. Para tal efecto la Fiscalía General de la Nación deberá:
 
 - Asegurar  la  comparecencia  de los presuntos  infractores de  la ley penal, adoptando  las  medidas  de aseguramiento.
 
@@ -2565,7 +2595,7 @@ Además, y si fuere del caso, tomar las medidas necesarias para hacer efectivos 
 
 El Fiscal General de la Nación y sus delegados tienen competencia en todo el territorio nacional. La Fiscalía General de  la  Nación  está  obligada  a  investigar  tanto  lo  favorable  como  lo  desfavorable  al  imputado,  y  a  respetar  sus derechos fundamentales y las garantías procesales que le asisten".
 
-- El aparte entre paréntesis fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-1092 del 19 de noviembre de 2003, M.P.,. Alvaro Tafur Galvis
+2) El aparte entre paréntesis fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-1092 del 19 de noviembre de 2003, M.P.,. Alvaro Tafur Galvis
 
 ### ARTICULO  251. Modificado.  A.L.  3/2002,  art.  3º.
 Son  funciones  especiales del Fiscal General de la Nación:
@@ -2588,7 +2618,7 @@ Son  funciones  especiales del Fiscal General de la Nación:
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-"ART. 251.-Son funciones especiales del Fiscal General de la Nación:
+"ART. 251.—Son funciones especiales del Fiscal General de la Nación:
 
 - Investigar y acusar,  si hubiere  lugar, a los altos funcionarios  que  gocen  de  fuero constitucional, con las excepciones previstas en la Constitución.
 
@@ -2672,11 +2702,11 @@ Deberá  repetirse  por  una  sola  vez  la  votación  para  elegir  miembros  
 #### Nota:
 El texto de la norma modificada era el siguiente:
 
-PAR  1º-Deberá  repetirse  por  una  sola  vez  la  votación  para  elegir  miembros  de  una  corporación  pública, gobernador, alcalde o la primera vuelta en  las elecciones presidenciales, cuando los  votos en blanco constituyan mayoría absoluta en relación con los votos válidos.
+PAR  1º—Deberá  repetirse  por  una  sola  vez  la  votación  para  elegir  miembros  de  una  corporación  pública, gobernador, alcalde o la primera vuelta en  las elecciones presidenciales, cuando los  votos en blanco constituyan mayoría absoluta en relación con los votos válidos.
 
 Tratándose de elecciones unipersonales  no  podrán  presentarse  los  mismos  candidatos,  mientras  que  en  las  de corporaciones públicas no se podrán presentar a las nuevas elecciones las listas que no hayan alcanzado el umbral.
 
-PAR. 2º-Se podrá implementar el voto electrónico para lograr agilidad y transparencia en todas las votaciones.
+PAR. 2º—Se podrá implementar el voto electrónico para lograr agilidad y transparencia en todas las votaciones.
 
 [[END OF PAGE 87]]
 
@@ -2696,7 +2726,7 @@ Las faltas  absolutas serán suplidas por los candidatos que según el orden de 
 #### Nota:
 El texto de la norma modificada era el siguiente:
 
-ARTICULO  261ºAdicionado.  A.L.  3/93,  art.  2º. Las  faltas  absolutas  o  temporales  serán  suplidas  por  los candidatos  que  según  el  orden  de  inscripción  en  forma  sucesiva  y  descendente,  correspondan a  la  misma  lista electoral.
+ARTICULO  261º—Adicionado.  A.L.  3/93,  art.  2º. Las  faltas  absolutas  o  temporales  serán  suplidas  por  los candidatos  que  según  el  orden  de  inscripción  en  forma  sucesiva  y  descendente,  correspondan a  la  misma  lista electoral.
 
 Son faltas absolutas: además de las establecidas por la ley; las que se causan por: muerte; la renuncia motivada y aceptada por la plenaria de la respectiva corporación; la pérdida de la investidura; la incapacidad física permanente y la sentencia condenatoria en firme dictada por autoridad judicial competente.
 
@@ -2706,7 +2736,7 @@ La licencia sin remuneración no podrá ser inferior a tres (3) meses.
 
 Los  casos  de  incapacidad,  calamidad  doméstica  y  licencias  no  remuneradas,  deberán  ser  probadas  por  la  mesa directiva de la respectiva corporación.
 
-PAR. 1º-Las inhabilidades e incompatibilidades previstas en la Constitución Nacional y las leyes, se extenderán en igual forma a quienes asuman las funciones de las faltas temporales durante el tiempo de su asistencia.
+PAR. 1º—Las inhabilidades e incompatibilidades previstas en la Constitución Nacional y las leyes, se extenderán en igual forma a quienes asuman las funciones de las faltas temporales durante el tiempo de su asistencia.
 
 ### ARTICULO 262.
 La elección del Presidente y Vicepresidente no podrá coincidir con otra elección. La de Congreso se hará en fecha separada de la elección de autoridades departamentales y municipales.
@@ -2733,7 +2763,7 @@ PARÁGRAFO  TRANSITORIO.  Para las elecciones al Congreso de la República a cel
 #### Nota:
 El texto de la norma modificada era el siguiente:
 
-ARTICULO 263ºModificado. A.L.  1/2003, art.  12. Para  todos  los  procesos  de elección  popular,  los  partidos  y movimientos políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva elección.
+ARTICULO 263º—Modificado. A.L.  1/2003, art.  12. Para  todos  los  procesos  de elección  popular,  los  partidos  y movimientos políticos presentarán listas y candidatos únicos, cuyo número de integrantes no podrá exceder el de curules o cargos a proveer en la respectiva elección.
 
 Para  garantizar  la  equitativa  representación  de  los  partidos  y  movimientos  políticos  y  grupos  significativos  de ciudadanos, las curules de las corporaciones públicas se distribuirán mediante el sistema de cifra repartidora entre las  listas de candidatos que superen un mínimo de votos que no podrá ser inferior al dos por ciento (2%) de los sufragados para Senado de la República o al cincuenta por ciento (50%) del cuociente electoral en el caso de las demás corporaciones, conforme lo establezca la Constitución y la ley.
 
@@ -2741,18 +2771,18 @@ Cuando ninguna de las listas de aspirantes supere el umbral, las curules se dist
 
 La ley reglamentará los demás efectos de esta materia.
 
-PAR.  TRANS.-Sin  perjuicio  del  ejercicio  de  las  competencias  propias  del  Congreso  de  la  República,  para  las elecciones  de  las  autoridades  de  las  entidades  territoriales  que  sigan  a  la  entrada  en  vigencia  del  presente  acto legislativo, facúltese al Consejo Nacional Electoral para que dentro del mes siguiente a su promulgación se ocupe de regular el tema.
+PAR.  TRANS.—Sin  perjuicio  del  ejercicio  de  las  competencias  propias  del  Congreso  de  la  República,  para  las elecciones  de  las  autoridades  de  las  entidades  territoriales  que  sigan  a  la  entrada  en  vigencia  del  presente  acto legislativo, facúltese al Consejo Nacional Electoral para que dentro del mes siguiente a su promulgación se ocupe de regular el tema.
 
 En las circunscripciones electorales donde se elijan dos (2) curules se aplicará el sistema del cuociente electoral, con sujeción a un umbral del treinta por ciento (30%), del cociente electoral.
 
-### ARTÍCULO  263A. Adicionado.  A.L.  1/2003,  art.  13.
-La  adjudicación  de curules entre los miembros de la respectiva corporación se hará por el sistema de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o más el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
+### ARTÍCULO  263-A. Adicionado.  A.L.  1/2003,  art.  13.
+La adjudicación de curules entre los miembros de la respectiva corporación se hará por el sistema
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
-El  resultado  menor  se  llamará  cifra  repartidora.  Cada  lista  obtendrá  tantas curules como veces esté contenida la cifra repartidora en el total de sus votos.
+de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o más el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
 
 Cada  partido  o  movimiento  político  podrá  optar  por  el  mecanismo  de  voto preferente. En tal caso, el elector podrá señalar el candidato de su preferencia entre los nombres de la lista que aparezcan en la tarjeta electoral. La lista se reordenará de acuerdo con la cantidad de votos obtenidos por cada uno de los candidatos. La asignación de curules entre los miembros de la respectiva lista se hará en orden descendente empezando por el candidato que haya obtenido el mayor número de votos preferentes.
 
@@ -2765,7 +2795,7 @@ El  Consejo  Nacional Electoral se compondrá de nueve (9) miembros elegidos por
 
 Sus miembros serán servidores públicos de dedicación exclusiva, tendrán las mismas calidades, inhabilidades, incompatibilidades y derechos de los magistrados de la Corte Suprema de Justicia y podrán ser reelegidos por una sola vez.
 
-PAR.-La jurisdicción contencioso administrativa decidirá la acción de nulidad electoral en el término máximo de un (1) año.
+PAR.—La jurisdicción contencioso administrativa decidirá la acción de nulidad electoral en el término máximo de un (1) año.
 
 En los casos de única instancia, según la ley, el término para decidir no podrá exceder de seis (6) meses.
 
@@ -2776,7 +2806,7 @@ El texto de la norma modificada era el siguiente:
 
 [[START OF PAGE 91]]
 
-"ART. 264.-El Consejo Nacional Electoral se compondrá del número de miembros que determine la ley, que no debe ser menor de siete. Serán elegidos por el  Consejo  de  Estado  para  un  período  de  cuatro  años,  de  ternas elaboradas  por  los  partidos  y  movimientos  políticos  con  personería  jurídica.  El  consejo  deberá  reflejar la composición política del Congreso. Sus miembros deberán reunir las mismas calidades que exige la Constitución para ser magistrados de la Corte Suprema de Justicia y no serán reelegibles".
+"ART. 264.—El Consejo Nacional Electoral se compondrá del número de miembros que determine la ley, que no debe ser menor de siete. Serán elegidos por el  Consejo  de  Estado  para  un  período  de  cuatro  años,  de  ternas elaboradas  por  los  partidos  y  movimientos  políticos  con  personería  jurídica.  El  consejo  deberá  reflejar la composición política del Congreso. Sus miembros deberán reunir las mismas calidades que exige la Constitución para ser magistrados de la Corte Suprema de Justicia y no serán reelegibles".
 
 ### ARTICULO  265. Modificado  por  el  Acto  Legislativo  1  de  2009,  art  12 .
 El artículo 265 de la Constitución Política quedará así:
@@ -2820,7 +2850,7 @@ Tendrá las siguientes atribuciones especiales:
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-ARTICULO  265º-El  Consejo  Nacional  Electoral  tendrá,  de  conformidad  con  la  ley,  las  siguientes  atribuciones especiales:
+ARTICULO  265º—El  Consejo  Nacional  Electoral  tendrá,  de  conformidad  con  la  ley,  las  siguientes  atribuciones especiales:
 
 - Ejercer la suprema inspección y vigilancia de la organización electoral.
 
@@ -2857,12 +2887,12 @@ Podrá ser reelegido por una sola vez y ejercerá las funciones que establezca l
 
 La  Registraduría  Nacional  estará  conformada  por  servidores  públicos  que pertenezcan  a  una  carrera  administrativa  especial  a  la  cual  se  ingresará exclusivamente  por  concurso  de  méritos  y  que  preverá  el  retiro  flexible  de conformidad  con  las  necesidades  del  servicio.  En  todo  caso,  los  cargos  de responsabilidad administrativa o electoral serán de libre remoción, de conformidad con la ley.
 
-PAR.  TRANS.-El  período  de  los  actuales  miembros  del  Consejo  Nacional Electoral  y  Registrador  Nacional  del  Estado  Civil  irá  hasta  el  año  2006.  La siguiente elección de unos y otro se hará de conformidad con lo dispuesto en el presente acto legislativo.
+PAR.  TRANS.—El  período  de  los  actuales  miembros  del  Consejo  Nacional Electoral  y  Registrador  Nacional  del  Estado  Civil  irá  hasta  el  año  2006.  La siguiente elección de unos y otro se hará de conformidad con lo dispuesto en el presente acto legislativo.
 
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-"ART.  266.  -El  Registrador  Nacional  del  Estado  Civil  será  elegido  por  el  Consejo  Nacional  Electoral  para  un período de cinco años y deberá reunir las mismas calidades que exige  la Constitución para  ser magistrado de la Corte Suprema de Justicia.
+"ART.  266.  —El  Registrador  Nacional  del  Estado  Civil  será  elegido  por  el  Consejo  Nacional  Electoral  para  un período de cinco años y deberá reunir las mismas calidades que exige  la Constitución para  ser magistrado de la Corte Suprema de Justicia.
 
 No podrá ser reelegido y ejercerá  las  funciones que establezca  la  ley,  incluida  la dirección  y organización de las elecciones, el registro civil  y  la  identificación de las personas,  así  como la de celebrar contratos en nombre de la Nación, en los casos que aquella disponga".
 
@@ -3154,9 +3184,9 @@ Los miembros de la asamblea departamental tendrán derecho a una remuneración d
 #### NOTA:
 El texto del artículo 299 modificado por el Acto Legislativo 1 de 2007 era el siguiente:
 
-"ART. 299, INC.1ºModificado. A.L. 1/96, art. 1º. En cada departamento habrá una corporación administrativa de elección  popular  que  se  denominará  asamblea  departamental,  la  cual  estará  integrada  por  no  menos  de  once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
+"ART. 299, INC.1º—Modificado. A.L. 1/96, art. 1º. En cada departamento habrá una corporación administrativa de elección  popular  que  se  denominará  asamblea  departamental,  la  cual  estará  integrada  por  no  menos  de  once miembros ni más de treinta y uno. Dicha corporación gozará de autonomía administrativa y presupuesto propio.
 
-INC. 2ºModificado. A.L. 2/2002, art. 2º. El régimen de inhabilidades e incompatibilidades de los diputados será fijado  por  la  ley.  No  podrá  ser  menos  estricto  que  el  señalado  para  los  congresistas  en  lo  que  corresponda.  El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
+INC. 2º—Modificado. A.L. 2/2002, art. 2º. El régimen de inhabilidades e incompatibilidades de los diputados será fijado  por  la  ley.  No  podrá  ser  menos  estricto  que  el  señalado  para  los  congresistas  en  lo  que  corresponda.  El período de los diputados será de cuatro años y tendrán la calidad de servidores públicos.
 
 Para ser elegido diputado se requiere ser ciudadano en ejercicio, no haber sido condenado a pena privativa de la libertad, con excepción de los delitos políticos o culposos y haber residido en la respectiva circunscripción electoral durante el año inmediatamente anterior a la fecha de la elección.
 
@@ -3208,7 +3238,7 @@ Las ordenanzas a que se refieren los numerales 3º, 5º y 7º de este artículo,
 #### NOTAS:
 1. El texto de la norma modificada era el siguiente:
 
-'ART. 300.-Corresponde a las asambleas departamentales, por medio de ordenanzas:
+“ART. 300.—Corresponde a las asambleas departamentales, por medio de ordenanzas:
 
 - Reglamentar el ejercicio de las funciones y la prestación de los servicios a cargo del departamento.
 
@@ -3238,7 +3268,7 @@ Las ordenanzas a que se refieren los numerales 3º, 5º y 7º de este artículo,
 
 Los  planes  y  programas  de  desarrollo  y  de  obras  públicas,  serán  coordinados  e  integrados  con  los  planes  y programas municipales, regionales y nacionales.
 
-Las  ordenanzas  a  que  se  refieren  los  numerales  3º,  5º  y  7º  de  este  artículo,  las  que  decreten  inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del departamento o los traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del gobernador'.
+Las  ordenanzas  a  que  se  refieren  los  numerales  3º,  5º  y  7º  de  este  artículo,  las  que  decreten  inversiones, participaciones o cesiones de rentas y bienes departamentales y las que creen servicios a cargo del departamento o los traspasen a él, sólo podrán ser dictadas o reformadas a iniciativa del gobernador”.
 
 - El Acto Legislativo 1 de 2007 empezó a regir a partir del 1º de enero del 2008.
 
@@ -3264,7 +3294,7 @@ Siempre que se presente falta absoluta a más de dieciocho (18) meses de la term
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-"ART. 303.-En cada uno de los departamentos habrá un gobernador que será jefe de la administración seccional y representante  legal  del  departamento;  el  gobernador  será  agente  del  Presidente  de  la  República  para  el mantenimiento  del  orden  público  y  para  la  ejecución  de  la  política  económica  general,  así  como  para  aquellos asuntos que mediante convenios la Nación acuerde con el departamento. Los gobernadores serán elegidos para períodos de tres años y no podrán ser reelegidos para el período siguiente.
+"ART. 303.—En cada uno de los departamentos habrá un gobernador que será jefe de la administración seccional y representante  legal  del  departamento;  el  gobernador  será  agente  del  Presidente  de  la  República  para  el mantenimiento  del  orden  público  y  para  la  ejecución  de  la  política  económica  general,  así  como  para  aquellos asuntos que mediante convenios la Nación acuerde con el departamento. Los gobernadores serán elegidos para períodos de tres años y no podrán ser reelegidos para el período siguiente.
 
 La  ley  fijará  las  calidades,  requisitos,  inhabilidades  e  incompatibilidades  de  los  gobernadores;  reglamentará  su elección;  determinará  sus  faltas  absolutas  y  temporales  y  forma  de  llenarlas,  y  dictará  las  demás  disposiciones necesarias para el normal desempeño de sus cargos".
 
@@ -3313,13 +3343,13 @@ Son atribuciones del gobernador:
 ### ARTICULO  306.
 Dos  o  más  departamentos  podrán  constituirse  en  regiones administrativas y de planificación, con personería jurídica, autonomía y patrimonio propio. Su objeto principal será el desarrollo económico y social del respectivo territorio.
 
-*( INC.Adicionado.  A.L.  1/2003,  art.  17. El  Distrito  Capital  de  Bogotá,  el departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una región administrativa y de planificación especial con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región.
+*(INC.—Adicionado. A.L. 1/2003, art. 17. El Distrito Capital de Bogotá, el departamento de Cundinamarca y los departamentos contiguos a este podrán asociarse en una región administrativa y de planificación especial con personería jurídica, autonomía y patrimonio propio cuyo objeto principal será el desarrollo económico y social de la respectiva región.
 
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
 
-Las citadas entidades territoriales conservarán su identidad política y territorial )* .
+Las citadas entidades territoriales conservarán su identidad política y territorial)*.
 
 #### *NOTA:
 El texto entre paréntesis fue declarado inexequible, en sentencia C-313 de marzo 31 de 2004, magistrado ponente Jaime Córdoba Triviño.
@@ -3349,7 +3379,7 @@ Mediante  la  creación  de  los  municipios  a  que  hubiere  lugar,  la  Asamb
 ## CAPITULO III. DEL REGIMEN MUNICIPAL
 
 ### ARTICULO 311.
-Al municipio como entidad fundamental de la división politicoadministrativa (sic) del Estado le corresponde prestar los servicios públicos que determine la ley, construir las obras que demande el progreso local, ordenar el desarrollo de su territorio, promover la participación comunitaria, el mejoramiento social y cultural de sus habitantes y cumplir las demás funciones que le asignen la Constitución y las leyes.
+Al municipio como entidad fundamental de la división politico-administrativa (sic) del Estado le corresponde prestar los servicios públicos que determine la ley, construir las obras que demande el progreso local, ordenar el desarrollo de su territorio, promover la participación comunitaria, el mejoramiento social y cultural de sus habitantes y cumplir las demás funciones que le asignen la Constitución y las leyes.
 
 ### ARTICULO 312. Modificado.  A.L.  1/2007,  art.  5º.
 En  cada  municipio  habrá una corporación político-administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrado por no menos de  7,  ni  más  de  21  miembros  según  lo  determine  la  ley  de  acuerdo  con  la población  respectiva.  Esta  corporación  podrá  ejercer  control  político  sobre  la administración municipal.
@@ -3363,11 +3393,11 @@ Su aceptación de cualquier empleo público constituye falta absoluta.
 #### NOTAS:
 1. El texto del inciso modificado era el siguiente:
 
-"INC.  1º.-En  cada  municipio  habrá  una  corporación  administrativa  elegida  popularmente  para  períodos  de  tres años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva".
+"INC. 1º.—En cada municipio habrá una corporación administrativa elegida popularmente para períodos de tres años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva".
 
 2. El texto del artículo modificado era el siguiente:
 
-"ART.  312,  INC.  1ºModificado. A.L.  2/2002,  art.  4º. En  cada  municipio  habrá  una  corporación  administrativa elegida  popularmente  para  períodos  de  cuatro  (4)  años  que  se  denominará  concejo  municipal,  integrada  por  no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
+"ART. 312, INC. 1º—Modificado. A.L. 2/2002, art. 4º. En cada municipio habrá una corporación administrativa elegida popularmente para períodos de cuatro (4) años que se denominará concejo municipal, integrada por no menos de siete, ni más de veintiún miembros según lo determine la ley, de acuerdo con la población respectiva.
 
 La  ley  determinará  las  calidades,  inhabilidades  e  incompatibilidades  de  los  concejales  y  la  época  de  sesiones ordinarias de los concejos. Los concejales no tendrán la calidad de empleados públicos.
 
@@ -3426,7 +3456,7 @@ El presidente y los gobernadores, en los casos taxativamente señalados por la l
 #### NOTA:
 El texto de la norma modificada era el siguiente:
 
-"ART. 314.-En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos de tres años, no reelegible para el período siguiente.
+"ART. 314.—En cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente para períodos de tres años, no reelegible para el período siguiente.
 
 El Presidente y los gobernadores, en los casos taxativamente señalados por la ley, suspenderán o destituirán a los alcaldes.
 
@@ -3529,7 +3559,7 @@ A las autoridades distritales corresponderá garantizar el desarrollo armónico 
 #### NOTA:
 El texto del inciso modificado era el siguiente:
 
-'INC.  1º-Santafé  de  Bogotá,  Capital  de  la  República  y  del  departamento  de  Cundinamarca,  se  organiza  como Distrito Capital'.
+“INC. 1º—Santafé de Bogotá, Capital de la República y del departamento de Cundinamarca, se organiza como Distrito Capital”.
 
 [[END OF PAGE 114]]
 
@@ -3553,7 +3583,7 @@ Los concejales y los ediles no podrán hacer parte de las juntas directivas de l
 #### NOTAS:
 1. El texto de la norma modificada era el siguiente:
 
-"ART. 323.-El Concejo Distrital se compondrá de un concejal por cada 150 mil habitantes o fracción mayor de 75 mil que tenga su territorio.
+"ART. 323.—El Concejo Distrital se compondrá de un concejal por cada 150 mil habitantes o fracción mayor de 75 mil que tenga su territorio.
 
 En cada una de las localidades habrá una junta administradora, elegida popularmente para períodos de tres años, que estará integrada por no menos de siete ediles,  según lo determine el Concejo Distrital, atendida la población respectiva.  La  elección  de  Alcalde  Mayor,  de  concejales  distritales  y  de  ediles  se  hará  en  un  mismo  día  para períodos de tres años.
 
@@ -3565,7 +3595,7 @@ Los concejales y los ediles no podrán hacer parte de las juntas directivas de l
 
 2. El texto del inciso modificado era el siguiente:
 
-"INC. 1º-El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio".
+"INC. 1º—El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio".
 
 [[END OF PAGE 115]]
 
@@ -3588,7 +3618,7 @@ En  las  elecciones  de  Gobernador  y  de  diputados  a  la Asamblea  Departame
 ### ARTICULO  328. Modificado.  A.L.  2/2007,  art.  2º.
 El  Distrito  Turístico  y Cultural  de  Cartagena  de  Indias,  el  Distrito  Turístico,  Cultural  e  histórico  de Santa Marta y Barranquilla conservarán su régimen y carácter, y se organiza a Buenaventura y Tumaco como distrito especial, industrial, portuario, biodiverso y ecoturismo.
 
-*( PAR.-Los distritos especiales de Cartagena, Barranquilla y Santa Marta, no recibirán  por  ninguna  circunstancia,  menores  ingresos  por  el  sistema  general de participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007 )* .
+*(PAR.—Los distritos especiales de Cartagena, Barranquilla y Santa Marta, no recibirán por ninguna circunstancia, menores ingresos por el sistema general de participaciones o por cualquier otra causa, que los recibidos el primero de enero de 2007)*.
 
 #### NOTA:
 El  parágrafo  señalado  fue  declarado  INEXEQUIBLE  por  la  Corte  Constitucional mediante  Sentencia  C-033  del  28  de  enero  de  2009,  M.P.,  Manuel  José Cepeda Espinosa.
@@ -3768,14 +3798,14 @@ Las  comisiones  de  asuntos  económicos  de  las  dos  cámaras  deliberarán 
 #### NOTA:
 El texto inicial del inciso primero era el siguiente:
 
-'ARTICULO 346. El Gobierno formulará anualmente el Presupuesto de Rentas y Ley de Apropiaciones que deberá corresponder al Plan Nacional de Desarrollo y lo presentará al Congreso, dentro de los primeros diez días de cada legislatura'.
+“ARTICULO 346. El Gobierno formulará anualmente el Presupuesto de Rentas y Ley de Apropiaciones que deberá corresponder al Plan Nacional de Desarrollo y lo presentará al Congreso, dentro de los primeros diez días de cada legislatura”.
 
 ### ARTICULO  347.
 El  proyecto  de  ley  de  apropiaciones  deberá  contener  la totalidad de los gastos que el Estado pretenda realizar durante la vigencia fiscal respectiva.  Si  los  ingresos  legalmente  autorizados  no  fueren  suficientes  para atender los gastos proyectados, el Gobierno propondrá, por separado, ante las mismas  comisiones  que  estudian  el  proyecto  de  ley  del  presupuesto,  la creación de nuevas rentas o la modificación de las existentes para financiar el monto de gastos contemplados.
 
 El presupuesto podrá aprobarse sin que se hubiere perfeccionado el proyecto de  ley  referente  a  los  recursos  adicionales,  cuyo  trámite  podrá  continuar  su curso en el período legislativo siguiente.
 
-PAR.  TRANS.Adicionado.  A.L.  1/2001,  art.  1º. Durante  los  años  2002, 2003,  2004,  2005,  2006,  2007  y  2008  el  monto  total  de  las  apropiaciones autorizadas por la ley anual de presupuesto para gastos generales, diferentes de  los  destinados  al  pago  de  pensiones,  salud,  gastos  de  defensa,  servicios personales, al sistema general de participaciones y a otras transferencias que señale  la  ley,  no  podrá  incrementarse  de  un  año  a  otro,  en  un  porcentaje superior al de la tasa de inflación causada para cada uno de ellos, más el uno punto cinco por ciento (1.5%).
+PAR. TRANS.—Adicionado. A.L. 1/2001, art. 1º. Durante los años 2002, 2003, 2004, 2005, 2006, 2007 y 2008 el monto total de las apropiaciones autorizadas por la ley anual de presupuesto para gastos generales, diferentes de los destinados al pago de pensiones, salud, gastos de defensa, servicios personales, al sistema general de participaciones y a otras transferencias que señale la ley, no podrá incrementarse de un año a otro, en un porcentaje superior al de la tasa de inflación causada para cada uno de ellos, más el uno punto cinco por ciento (1.5%).
 
 La restricción  al  monto  de  las  apropiaciones,  no  se  aplicará  a  las  necesarias para atender gastos decretados con las facultades de los estados de excepción.
 
@@ -3836,19 +3866,20 @@ Para  estos  efectos,  serán  beneficiarias  las  entidades  territoriales  ind
 
 Así mismo, la ley establecerá como beneficiarios a los resguardos indígenas, siempre y cuando éstos no se hayan constituido en entidad territorial indígena.
 
-INC. 4ºModificado. A.L. 4/2007, art. 1º. Los recursos del sistema general de participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación preescolar, primaria, secundaria y media, y servicios públicos  domiciliarios  de  agua  potable  y  saneamiento  básico,  garantizando  la prestación y la ampliación de coberturas con énfasis en la población pobre.
+INC. 4º—Modificado. A.L. 4/2007, art. 1º. Los recursos del sistema general de participaciones de los departamentos, distritos y municipios se destinarán a la financiación de los servicios a su cargo, dándoles prioridad al servicio de salud, los servicios de educación preescolar, primaria, secundaria y media, y servicios
 
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+públicos domiciliarios de agua potable y saneamiento básico, garantizando la prestación y la ampliación de coberturas con énfasis en la población pobre.
 
 Teniendo en cuenta los principios de solidaridad, complementariedad y subsidiariedad,  la  ley  señalará  los  casos  en  los  cuales  la  Nación  podrá concurrir  a  la  financiación  de  los  gastos  en  los  servicios  que  sean  señalados por la ley como de competencia de los departamentos, distritos y municipios.
 
 La  ley  reglamentará  los  criterios  de  distribución  del  sistema  general  de participaciones  de  los  departamentos,  distritos,  y  municipios,  de  acuerdo  con las competencias que le asigne a cada una de estas entidades; y contendrá las disposiciones  necesarias  para  poner  en  operación  el  sistema  general  de participaciones de éstas, incorporando principios sobre distribución que tengan en cuenta los siguientes criterios:
 
-- Modificado.  A.L. 4/2007,  art.  2º. Para  educación, salud  y  agua potable  y saneamiento básico: población atendida y por atender, reparto entre población urbana  y  rural,  eficiencia  administrativa  y  fiscal,  y  equidad.  En  la  distribución por entidad territorial de cada uno de los componentes del sistema general de participaciones,  se  dará  prioridad  a  factores  que  favorezcan  a  la  población pobre, en los términos que establezca la ley.
+a) Modificado.  A.L. 4/2007,  art.  2º. Para  educación, salud  y  agua potable  y saneamiento básico: población atendida y por atender, reparto entre población urbana  y  rural,  eficiencia  administrativa  y  fiscal,  y  equidad.  En  la  distribución por entidad territorial de cada uno de los componentes del sistema general de participaciones,  se  dará  prioridad  a  factores  que  favorezcan  a  la  población pobre, en los términos que establezca la ley.
 
-- Para  otros  sectores:  población,  reparto  entre  población  y  urbana  y  rural, eficiencia administrativa y fiscal, y pobreza relativa.
+b) Para  otros  sectores:  población,  reparto  entre  población  y  urbana  y  rural, eficiencia administrativa y fiscal, y pobreza relativa.
 
 No  se  podrá  descentralizar  competencias  sin  la  previa  asignación  de  los recursos fiscales suficientes para atenderlas.
 
@@ -3862,7 +3893,7 @@ NOTAS: 1. El texto del inciso 4º modificado era el siguiente:
 
 "INC.  4º-Los  recursos  del  sistema  general  de  participaciones  de  los  departamentos,  distritos  y  municipios  se destinarán  a  la  financiación  de  los  servicios  a  su  cargo,  dándole  prioridad  al  servicio  de  salud  y  los  servicios  de educación preescolar, primaria, secundaria y media, garantizando la prestación de los servicios y la ampliación de cobertura".
 
-- El texto del literal a) modificado era el siguiente:
+2. El texto del literal a) modificado era el siguiente:
 
 "a)  Para  educación  y  salud:  población  atendida  y  por  atender,  reparto  entre  población  urbana  y  rural,  eficiencia administrativa y fiscal, y equidad".
 
@@ -3932,11 +3963,11 @@ Para los efectos contemplados en los dos artículos anteriores, entiéndese por 
 ### ARTICULO 359.
 No habrá rentas nacionales de destinación específica. Se exceptúan:
 
-- Las participaciones previstas en la Constitución en favor de los departamentos, distritos y municipios.
+1. Las participaciones previstas en la Constitución en favor de los departamentos, distritos y municipios.
 
-- Las destinadas para inversión social.
+2. Las destinadas para inversión social.
 
-- Las  que,  con  base  en  leyes  anteriores,  la  Nación  asigna  a  entidades  de previsión social y a las antiguas intendencias y comisarías.
+3. Las  que,  con  base  en  leyes  anteriores,  la  Nación  asigna  a  entidades  de previsión social y a las antiguas intendencias y comisarías.
 
 ### ARTICULO 360. Modificado. A.L. 5/2011, art. 1º
 La explotación de un recurso natural  no  renovable  causará, a favor del  Estado, una  contraprestación económica  a  título  de  regalía,  sin  perjuicio  de  cualquier  otro  derecho  o compensación  que  se  pacte.  La  ley  determinará  las  condiciones  para  la explotación de los recursos naturales no renovables.
@@ -4175,32 +4206,32 @@ Del 1o. al 20 de diciembre de 1991 y del 14 de enero al 26 de junio de 1992. A p
 ### ARTICULO  TRANSITORIO  5.
 Revístese  al  Presidente  de  la  República  de precisas facultades extraordinarias para:
 
-- Expedir  las  normas  que  organicen  la  Fiscalía  General  y  las  normas  de procedimiento penal;
+a) Expedir  las  normas  que  organicen  la  Fiscalía  General  y  las  normas  de procedimiento penal;
 
-- Reglamentar el derecho de tutela;
+b) Reglamentar el derecho de tutela;
 
 [[END OF PAGE 139]]
 
 [[START OF PAGE 140]]
 
-- Tomar las medidas administrativas necesarias para el funcionamiento de la Corte Constitucional y el Consejo Superior de la Judicatura;
+c) Tomar las medidas administrativas necesarias para el funcionamiento de la Corte Constitucional y el Consejo Superior de la Judicatura;
 
-- Expedir el Presupuesto General de la Nación para la vigencia de 1992;
+d) Expedir el Presupuesto General de la Nación para la vigencia de 1992;
 
-- Expedir normas transitorias para descongestionar los despachos judiciales.
+e) Expedir normas transitorias para descongestionar los despachos judiciales.
 
 ### ARTICULO TRANSITORIO 6.
 Créase una Comisión Especial de treinta y seis miembros elegidos por cuociente electoral por la Asamblea Nacional Constituyente, la  mitad de los cuales podrán ser Delegatarios, que se reunirá entre  el 15 de  julio  y  el  4  de  octubre de  1991  y  entre  el  18 de noviembre de 1991 y el día de la instalación del nuevo Congreso. La elección se realizará en sesión convocada para este efecto el 4 de julio de 1991.
 
 Esta Comisión Especial tendrá las siguientes atribuciones:
 
-- Improbar por la mayoría de sus miembros, en todo o en parte, los proyectos de  decreto  que  prepare  el  Gobierno  Nacional  en  ejercicio  de  las  facultades extraordinarias concedidas al Presidente de la República por el artículo anterior y  en  otras  disposiciones  del  presente  Acto  Constituyente,  excepto  los  de nombramientos.
+a) Improbar por la mayoría de sus miembros, en todo o en parte, los proyectos de  decreto  que  prepare  el  Gobierno  Nacional  en  ejercicio  de  las  facultades extraordinarias concedidas al Presidente de la República por el artículo anterior y  en  otras  disposiciones  del  presente  Acto  Constituyente,  excepto  los  de nombramientos.
 
 Los artículos improbados no podrán ser expedidos por el Gobierno.
 
-- Preparar los proyectos de ley que considere convenientes para desarrollar la Constitución. La Comisión Especial podrá presentar dichos proyectos para que sean debatidos y aprobados por el Congreso de la República.
+b) Preparar los proyectos de ley que considere convenientes para desarrollar la Constitución. La Comisión Especial podrá presentar dichos proyectos para que sean debatidos y aprobados por el Congreso de la República.
 
-- Reglamentar su funcionamiento.
+c) Reglamentar su funcionamiento.
 
 PARAGRAFO. Si la Comisión Especial no aprueba antes del 15 de diciembre de 1991 el proyecto de presupuesto para la vigencia fiscal de 1992, regirá el del  año  anterior,  pero  el  Gobierno  podrá  reducir  gastos,  y,  en  consecuencia, suprimir o fusionar empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
@@ -4260,13 +4291,13 @@ La  ley  puede  fijar  una  fecha  anterior.  Hasta  tanto,  los  gobernadores  
 ### ARTICULO  TRANSITORIO  18.
 Mientras  la  ley  establece  el  régimen  de inhabilidades  para  los  gobernadores,  en  las  elecciones  del  27  de  octubre  de 1991 no podrán ser elegidos como tales:
 
-- Quienes  en  cualquier  época  hayan  sidos  (sic)  condenados  por  sentencia judicial  a  pena  privativa  de  la  libertad,  con  excepción  de  quienes  lo  hubieran sido por delitos políticos o culposos.
+1. Quienes  en  cualquier  época  hayan  sidos  (sic)  condenados  por  sentencia judicial  a  pena  privativa  de  la  libertad,  con  excepción  de  quienes  lo  hubieran sido por delitos políticos o culposos.
 
-- Quienes dentro de los seis meses anteriores a la elección hubieren ejercido como empleados públicos jurisdicción o autoridad política, civil, administrativa o militar a nivel nacional o en el respectivo departamento.
+2. Quienes dentro de los seis meses anteriores a la elección hubieren ejercido como empleados públicos jurisdicción o autoridad política, civil, administrativa o militar a nivel nacional o en el respectivo departamento.
 
-- Quienes  estén  vinculados  por  matrimonio  o  parentesco  dentro  del  tercer grado de consanguinidad, segundo de afinidad o primero civil con quienes se inscriban  como  candidatos  en  las  mismas  elecciones  a  Congreso  de  la República.
+3. Quienes  estén  vinculados  por  matrimonio  o  parentesco  dentro  del  tercer grado de consanguinidad, segundo de afinidad o primero civil con quienes se inscriban  como  candidatos  en  las  mismas  elecciones  a  Congreso  de  la República.
 
-- Quienes dentro de los seis meses anteriores a la elección, hayan intervenido en  la  gestión  de  asuntos  o  en  la  celebración  de  contratos  con  entidades públicas, en su propio interés o en interés de terceros.
+4. Quienes dentro de los seis meses anteriores a la elección, hayan intervenido en  la  gestión  de  asuntos  o  en  la  celebración  de  contratos  con  entidades públicas, en su propio interés o en interés de terceros.
 
 La prohibición establecida en el numeral dos de este artículo no se aplica a los miembros de la Asamblea Nacional Constituyente.
 
@@ -4496,11 +4527,12 @@ El Gobierno tomará las decisiones administrativas y hará los traslados presupu
 Adóptanse, para todos los efectos constitucionales  y  legales,  los  resultados  del  Censo  Nacional  de  Población  y Vivienda realizado el 15 de octubre de 1985.
 
 ### ARTICULO TRANSITORIO 55.
-Dentro de los dos años siguientes a la entrada en vigencia de la presente Constitución, el Congreso  expedirá, previo estudio por parte de una comisión especial que el Gobierno creará para tal efecto, una ley  que  les  reconozca  a  las  comunidades  negras  que  han  venido  ocupando tierras  baldías  en  las  zonas  rurales  ribereñas  de  los  ríos  de  la  Cuenca  del Pacífico, de acuerdo con sus prácticas tradicionales de producción, el derecho a la propiedad colectiva sobre las áreas que habrá de demarcar la misma ley.
+Dentro de los dos años siguientes a la entrada en vigencia de la presente Constitución, el Congreso expedirá, previo estudio por parte de una comisión especial que el Gobierno creará para tal efecto, una ley que les reconozca a las comunidades negras que han venido ocupando
 
 [[END OF PAGE 150]]
 
 [[START OF PAGE 151]]
+tierras baldías en las zonas rurales ribereñas de los ríos de la Cuenca del Pacífico, de acuerdo con sus prácticas tradicionales de producción, el derecho a la propiedad colectiva sobre las áreas que habrá de demarcar la misma ley.
 
 En la comisión especial de que trata el inciso anterior tendrán participación en cada caso representantes elegidos por las comunidades involucradas.
 
@@ -4549,15 +4581,17 @@ En todo caso, el último domingo del mes de octubre del año 2007, se elegirán 
 
 El período de cuatro años de los miembros de las asambleas departamentales, concejos  distritales  y  municipales  y  ediles  se  iniciará  el  1º  de  enero  del  año 2004.
 
-### ARTÍCULO TRANSITORIO Adicionado.  A.L. 1/2009,  art.  14 º
-El  nuevo  texto es el siguiente: Dentro del año siguiente a la entrada en vigencia de la presente reforma constitucional,  el Congreso expedirá, previo estudio por parte de una comisión  especial  que  el  Gobierno  creará  para  tal efecto,  una  ley  que contemple  un  'Régimen  Especial  en  lo  económico,  lo  político,  lo  social  y  lo administrativo,  para  territorios  que  comprenden  las  ecorregiones  de  la  Sierra Nevada  de  Santa  Marta,  la  Ciénaga  de  Zapatosa,  la  Serranía  del  Perijá,  los Llanos Orientales, Amazonía, Región del Catatumbo, Orinoquia,  Chocó Biogeográfico,  los  Montes  de  María,  la  Mojana,  y  los  pueblos  polifitos  del Magdalena y el Pacífico, con el objetivo de reducir los desequilibrios que frente a su desarrollo existen con el resto del país.
+### ARTÍCULO TRANSITORIO Adicionado. A.L. 1/2009, art. 14º
+El nuevo texto es el siguiente: Dentro del año siguiente a la entrada en vigencia de la presente reforma constitucional, el Congreso expedirá, previo estudio por parte de una
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
 
+comisión especial que el Gobierno creará para tal efecto, una ley que contemple un “Régimen Especial en lo económico, lo político, lo social y lo administrativo, para territorios que comprenden las ecorregiones de la Sierra Nevada de Santa Marta, la Ciénaga de Zapatosa, la Serranía del Perijá, los Llanos Orientales, Amazonía, Región del Catatumbo, Orinoquia, Chocó Biogeográfico, los Montes de María, la Mojana, y los pueblos polifitos del Magdalena y el Pacífico, con el objetivo de reducir los desequilibrios que frente a su desarrollo existen con el resto del país.
+
 ### ARTÍCULO TRANSITORIO. Adicionado. A.L. 2/2011, art. 3
-Dentro de los seis meses  siguientes  a  la  entrada  de  vigencia  del  presente  acto  legislativo,  el Congreso expedirá las normas mediante las cuales se defina la distribución de competencias  entre  las  entidades  del  Estado  que  tendrán  a  su  cargo  la formulación de planes, la regulación, la dirección, la gestión y el control de los servicios  de  televisión.  Mientras  se  dicten  las  leyes  correspondientes,  la Comisión Nacional de Televisión continuará ejerciendo las funciones que le han sido atribuidas por la legislación vigente.
+Dentro de los seis meses siguientes a la entrada de vigencia del presente acto legislativo, el Congreso expedirá las normas mediante las cuales se defina la distribución de competencias entre las entidades del Estado que tendrán a su cargo la formulación de planes, la regulación, la dirección, la gestión y el control de los servicios de televisión. Mientras se dicten las leyes correspondientes, la Comisión Nacional de Televisión continuará ejerciendo las funciones que le han sido atribuidas por la legislación vigente.
 
 ### ARTÍCULO  TRANSITORIO. Adicionado.  A.L.  4/2011,  art.  1
 Con  el  fin  de determinar las calidades de los aspirantes a ingresar y actualizar a los cargos de carrera,  de  conformidad  con  el  artículo  125  de  la  Constitución  Política  de Colombia,  de  quienes  en  la  actualidad  los  están  ocupando  en  calidad  de provisionales o en encargo, la Comisión Nacional del Servicio Civil, homologará las pruebas de conocimiento establecidas en el concurso público, preservando el  principio  del  mérito,  por  la  experiencia  y  los  estudios  adicionales  a  los requeridos  para  ejercer  el  cargo,  para  lo  cual  se  calificará  de  la  siguiente manera:
@@ -4569,17 +4603,17 @@ La experiencia homologada, no se tendrá en cuenta para la prueba de análisis d
 
 Los estudios adicionales, a los requeridos para el ejercicio del cargo, otorgarán un puntaje así:
 
-- Título de especialización 3 puntos
+1. Título de especialización 3 puntos
 
-- Título de maestría 6 puntos
+2. Título de maestría 6 puntos
 
-- Título de doctorado 10 puntos
+3. Título de doctorado 10 puntos
 
 Para el nivel técnico y asistencial, los estudios adicionales se tomarán por las horas totales debidamente certificadas así:
 
-- De 50 a 100 horas 3 puntos
+1. De 50 a 100 horas 3 puntos
 
-- De 101 a 150 horas 6 puntos
+2. De 101 a 150 horas 6 puntos
 
 [[END OF PAGE 153]]
 
