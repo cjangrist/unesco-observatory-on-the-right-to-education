@@ -4,6 +4,8 @@ MINISTERE DE L'EDUCATION NATIONALE
 
 DIRECTION DE L'ENSEIGNEMENT MOYEN SECONDAIRE GENERAL (DEMSG)
 
+# GUIDE DE MANAGEMENT DES COLLEGES ET LYCEES
+
 # A L'USAGE DU CHEF D'ETABLISSEMENT
 
 AVEC L'APPUI DE L'AGENCE FRANÇAISE DE DEVELOPPEMENT (AFD) DANS LE CADRE DU PROJET EDUFORM/APSE 2
@@ -50,161 +52,41 @@ Infographie : Lamine SARR
 
 [[START OF PAGE 3]]
 
-1.
-
-Ibrahima
-
 ## EQUIPE DE VALIDATION
 
-NDOUR
+1. Ibrahima NDOUR Directeur de l'Enseignement Moyen Secondaire Général/MEN
 
-Directeur de l'Enseignement Moyen Secondaire
+2. Alioune NDIAYE Inspecteur d'Académique de Thiès
 
-Général/MEN
+3. Ousmane BA Inspecteur Départemental de l'Education nationale de Kaffrine
 
-- Alioune NDIAYE Inspecteur d'Académique de Thiès
+4. Aminata DIOP Chef de la Division Scolarisation, DEMSG/MEN
 
-- Ousmane BA Inspecteur Départemental de l'Education
+5. Doudou DIOUF Proviseur du lycée El Hadji Mamadou Diouf de Foundiougne, IA de Fatick
 
-nationale de Kaffrine
+6. Moustapha DIENG Principal du CEM 2 Babacar Cobar Ndao de Kaffrine, Président du Collectif régional des CE, IA de Kaffrine
 
-- Aminata DIOP Chef de la Division Scolarisation, DEMSG/MEN
+7. Amary FALL Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Kaolack
 
-5.
+8. Alhousseynou DIALLO Principal du Collège El Hadji Badara Mbaye Kaba, Secrétaire général national du Collectif des Chefs d'Etablissement du Sénégal
 
-6.
+9. Amadou SY Principal du CEM Fara Mbodj, Président du Collectif régional des CE, IA de Saint-Louis
 
-7.
+10. Mamadou BA Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de St-Louis
 
-Doudou
+11. Alassane MBENGUE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IAA de Matam
 
-Moustapha
+12. Oumar BA Inspecteur de l'Enseignement Moyen Secondaire, Section Vie discipline, Chef de la Division des Enseignements Apprentissages, DEMSG/MEN
 
-Amary DIOUF
+13. Alassane NDIAYE Principal du CEM de Thiénaba, Président du Collectif régional des CE, IA Thiès
 
-DIENG
+14. Cheikh FAYE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Sédhiou
 
-FALL
+15. Dibor BAKHOUM Inspecteur de l'Enseignement Moyen Secondaire, Section discipline, Chef du bureau Education à la Citoyenneté et des droits humains, DEMSG/MEN
 
-Proviseur du lycée El Hadji Mamadou Diouf de
+16. Alphonse DIONE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, Chef du Bureau Bonne Gouvernance et Affaires Administratives, DEMSG/MEN
 
-Foundiougne, IA de Fatick
-
-Principal du CEM 2 Babacar Cobar Ndao de
-
-Kaffrine, Président du Collectif régional des CE,
-
-IA de Kaffrine
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie Scolaire, IA de Kaolack
-
-Principal du Collège El Hadji Badara Mbaye
-
-- Alhousseynou DIALLO Kaba, Secrétaire général national du Collectif
-
-des Chefs d'Etablissement du Sénégal
-
-Principal du CEM Fara Mbodj, Président du
-
-Collectif régional des CE, IA de Saint-Louis
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie Scolaire, IA de St-Louis
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie Scolaire, IAA de Matam
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie discipline, Chef de la
-
-Division des Enseignements Apprentissages,
-
-DEMSG/MEN
-
-Principal du CEM de Thiénaba, Président du
-
-Collectif régional des CE, IA Thiès
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie Scolaire, IA de Sédhiou
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section discipline, Chef du bureau
-
-Education à la Citoyenneté et des droits
-
-humains, DEMSG/MEN
-
-Inspecteur de l'Enseignement Moyen
-
-Secondaire, Section Vie Scolaire, Chef du Bureau
-
-Bonne Gouvernance et Affaires Administratives,
-
-DEMSG/MEN
-
-Chef du Bureau de la Formation et des
-
-Enseignements Scientifiques, DEMSG/MEN
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-Amadou
-
-Mamadou
-
-Alassane
-
-Oumar
-
-Alassane
-
-Cheikh
-
-Dibor
-
-Alphonse
-
-Lamine SY
-
-BA
-
-MBENGUE
-
-BA
-
-NDIAYE
-
-FAYE
-
-BAKHOUM
-
-DIONE
-
-SARR
+17. Lamine SARR Chef du Bureau de la Formation et des Enseignements Scientifiques, DEMSG/MEN
 
 3
 
@@ -212,19 +94,29 @@ SARR
 
 [[START OF PAGE 4]]
 
-18. | Cheikh | DIONE | Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IAA Fatick Inspecteur de l'Enseignement Moyen
---- | --- | --- | ---
-19. | Malal | CAMARA | Secondaire, Section Vie Scolaire, IA de Tambacounda
-20. | Daouda | THIAO | Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, Inspecteur des Affaires Administratives et Financières, Inspection Interne/MEN
-21. | Alassane | SABALY | Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Louga
-22. | Mamadou | DIOP | Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Thiès
-23. | Mamadou | NDAO | Principal du CEM Louga Commune, IA Louga Inspecteur de l'Enseignement Moyen
-24. | Mamadou | GOUDIABY | Secondaire, Section Vie Scolaire, IA de Ziguinchor
-25. | Alioune | NDIAYE | Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Dakar Inspecteur de l'Enseignement Moyen
-26. | Alioune | NDIAYE | Secondaire, Section Vie Scolaire, IA adjoint de Diourbel
-27. | Sellé | TALL | Principal du collège franco-arabe de Keur Madiabel, IA de Kaolack
-28. | Khadidiatou Ndiaye | SOW | Chef du Bureau Genre, DEMSG/MEN Proviseur du lycée moderne de Rufisque,
-29. | Ahmed Tidiane | SECK | Responsable de la Formation de l'Association des Chefs d'Etablissement du Secondaire.
+18. Cheikh DIONE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IAA Fatick
+
+19. Malal CAMARA Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Tambacounda
+
+20. Daouda THIAO Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, Inspecteur des Affaires Administratives et Financières, Inspection Interne/MEN
+
+21. Alassane SABALY Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Louga
+
+22. Mamadou DIOP Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Thiès
+
+23. Mamadou NDAO Principal du CEM Louga Commune, IA Louga
+
+24. Mamadou GOUDIABY Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Ziguinchor
+
+25. Alioune NDIAYE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA de Dakar
+
+26. Alioune NDIAYE Inspecteur de l'Enseignement Moyen Secondaire, Section Vie Scolaire, IA adjoint de Diourbel
+
+27. Sellé TALL Principal du collège franco-arabe de Keur Madiabel, IA de Kaolack
+
+28. Khadidiatou Ndiaye SOW Chef du Bureau Genre, DEMSG/MEN
+
+29. Ahmed Tidiane SECK Proviseur du lycée moderne de Rufisque, Responsable de la Formation de l'Association des Chefs d'Etablissement du Secondaire.
 
 4
 
@@ -320,9 +212,9 @@ Guide pour un état des lieux pour l'instauration de | 47
 
 [[START OF PAGE 11]]
 
-OUTILS DE MANAGEMENT | PAGES
---- | ---
-DOMAINES DOMAINE 1 : GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES (suite) | la journée continue
+DOMAINES | OUTILS DE MANAGEMENT | PAGES
+--- | --- | ---
+DOMAINE 1 : GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES (suite) | la journée continue |
 Décret 78-227 du 28 février 1978 abrogeant et remplaçant les articles 2 et 3 du décret 61-175 du 24 avril 1961 déterminant les mesures destinées à assurer le respect des horaires de travail dans les administrations publiques | 49
 Modèle de PV de passation de service | 50
 Modèle de fiche de renseignements pour le personnel | 58
@@ -349,9 +241,9 @@ Projet de note de service portant autorisation de | 101
 
 [[START OF PAGE 12]]
 
-OUTILS DE MANAGEMENT | PAGES
+DOMAINES | OUTILS DE MANAGEMENT | PAGES
 --- | --- | ---
-DOMAINES DOMAINE 1 : GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES (suite et fin) | faire effectuer des heures supplementaires
+DOMAINE 1 : GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES (suite et fin) | faire effectuer des heures supplementaires |
 Emploi du temps des heures supplementaires | 102
 Certificat de service fait | 103
 Modèle de demande d'explication et de mise en demeure | 106
@@ -426,7 +318,7 @@ DOMAINES | OUTILS DE MANAGEMENT | PAGES
 Fiche d'inspection : espaces extérieurs | 178
 Résumé de l'analyse des fiches d'inspection : les dégradations mineures | 179
 Matériel de réparation | 179
-DOMAINE 4 ENVIRONNEMENT SCOLAIRE, EQUITE GENRE | Grille de gestion durable de l'environnement scolaire | 181
+DOMAINE 4 : ENVIRONNEMENT SCOLAIRE, EQUITE ET GENRE | Grille de gestion durable de l'environnement scolaire | 181
 Outil de gestion de l'hygiène et de la santé des élèves | 182
 Grille d'analyse des pratiques d'équité dans l'établissement scolaire | 183
 Dispositif de prise en charge de la question de l'équité dans l'établissement | 184
@@ -436,7 +328,7 @@ Circulaire N°004379/ME/SG/DAJLD/DEMSG du 11 octobre 2007 portant gestion des ma
 Le serment de l'enseignant | 192
 Dispositif d'intégration du genre dans l'établissement. orientation du CE | 193
 Dispositif et outils de gestion des élèves vulnérables à la déperdition scolaire | 198
-DOMAINE 5: COMMUNICATION PARTENARIAT | Exemple de canevas d'élaboration d'un plan de communication | 209
+DOMAINE 5: COMMUNICATION ET PARTENARIAT | Exemple de canevas d'élaboration d'un plan de communication | 209
 Préparer un forum sur les performances scolaires | 210
 Calcul des taux de flux et de réussite à un examen final | 210
 Remplissage du bulletin d'analyse des performances de l'établissement | 215
@@ -524,7 +416,8 @@ Conseil d'enseignement | Censeur, DE, Professeurs de la même discipline | Octob
 
 ACTIVITES/TACHES DU CE | ACTEURS | PERIODE/DATE | CONSEILS /ORIENTATIONS
 --- | --- | --- | ---
-Désignation des professeurs principaux de classe | Professeurs | Novembre | - Mise sous tutorat des nouveaux professeurs - Tenir compte de l'implication de l'agent dans la vie de l'établissement ; - Communiquer sur ce qui est attendu du professeur principal.
+- Mise sous tutorat des nouveaux professeurs
+Désignation des professeurs principaux de classe | Professeurs | Novembre | - Tenir compte de l'implication de l'agent dans la vie de l'établissement ; - Communiquer sur ce qui est attendu du professeur principal.
 Envoi des listes de classes et des emplois du temps des professeurs | Censeurs, DE, SG | Novembre | - Destinataire IA
 Appel à candidatures aux bourses fulbright | Censeur, DE, professeurs | Décembre | - Destination DEMSG par voie hiérarchique
 Mise en place des organes de gestion (CGE, cellules pédagogiques, cellules genre FSE/Gouvernement Scolaire, Association Sportive, Clubs, observatoires de la vulnérabilité à la déperdition scolaire, etc.) | Professeurs, surveillant(e)s, élèves, APE, Animateurs culturels, Assistant(e) social(e), infirmier(e) | Novembre | - Textes sur le genre : arrêté ministériel n°1371 du 31 mars 2008, circulaire 005371/MEPEMSLN/SG/DEMSG du 08-11-2010 - Organisation de l'élection des représentants au CGE ; - Décret 2000-337 du 16 mai 2000 portant création des Conseils de gestion dans les établissements d'enseignement moyen secondaire ; - Arrêté interministériel 3207 du 17 mars 2004 relatif à la mobilisation et à l'utilisation des ressources générées par les établissements d'enseignement moyen secondaire ; - Arrêté 3317 MEPEMSLN/SG/DEMSG du 15 septembre 2011 modifiant l'arrêté 7078/MEN/DC/DAJLD/du 29-09-99 portant organisation et fonctionnement des cellules pédagogiques dans l'enseignement moyen secondaire général - Respect des délais (au plus tard avant le 15 novembre)
@@ -630,7 +523,7 @@ Participation aux jurys d'examen | IA, Censeurs, BEXCO, Enseignants convoqués |
 Envoi résultats, propositions de fin d'année (passage, redoublement, abandons) | Censeur, DE, SG | Juillet - août | - Destination IA par voie hiérarchique ; - Possibilité de révision des propositions par l'IA.
 Envoi des résultats des examens et concours | Censeur, DE, SG | Juillet - août | - Destination IA et DEXCO par voie hiérarchique, copie DEMSG.
 Envoi des rapports sur la manière de servir des enseignants vacataires | Censeur, DE | Juillet | - Destination IA.
-Envoi des résultats de 3 ème aux lycées polariseurs | SG, surveillant(e)s | Juillet - août | - Destinataire: Proviseurs, copie IA
+Envoi des résultats de 3ème aux lycées polariseurs | SG, surveillant(e)s | Juillet - août | - Destinataire: Proviseurs, copie IA
 Evaluation des personnels | Censeur, DE, SG | Juillet au plus tard | - Destination Fonction publique - Copie dans le dossier administratif de l'agent
 Participation à la réunion de fin d'année des BST | Directeurs BST, CNBST, professeurs | Juillet - août | - Coordination avec les CE des collèges polarisés
 Réunion d'évaluation de l'administration | Membres de l'Administration | Juillet | - Permanences de vacances
@@ -645,56 +538,37 @@ Préparation et envoi des dossiers de demande d'orientation en faculté | BEXC/L
 
 ACTIVITES/TACHES DU CE | ACTEURS | PERIODE/DATE | CONSEILS /ORIENTATIONS
 --- | --- | --- | ---
-Commande de matériel du 1 er semestre de l'année à venir | Intendant(e)/gestionnair e Comptable des Matières | Juillet - août | Engagement aux mois juillet -août
+Commande de matériel du 1er semestre de l'année à venir | Intendant(e)/gestionnaire Comptable des Matières | Juillet - août | Engagement aux mois juillet -août
 Activités de l'initiative zéro redoublement | IA, IDEN , UDAPE URAPE CR | Août - septembre | - Documentation du rapport bilan - Consolidation au niveau départemental et régional pour le rapport bilan.
 
 Agenda adapté  de USAID/PAEM, Le Guide du Chef d'Etablissement, réalisé par le collectif des chefs d'établissement moyen et secondaire, novembre 2004
 
 ### QUELQUES TACHES PERMANENTES
 
-- checkbld Traitement du courrier Arrivée et Départ :
-
--Enregistrement ;
-
--Lecture ;
-
--Suite à donner ;
-
--Classement et archivage.
-
-- checkbld L'accueil des parents et des usagers :
-
--Disponibilité  à l'égard des usagers.
-
--Mise en place d'un dispositif d'accueil des usagers ;
-
--Bonne gestion du temps (discerner l'urgent, l'important et le prioritaire) ;
-
-- checkbld Le contact individuel avec le personnel et les élèves ;
-
-- checkbld L'encadrement des activités péri et parascolaires ;
-
-- checkbld La signature des documents de gestion comptable : s'attacher au respect strict des règles de l'orthodoxie financière ;
-
-- checkbld Le contrôle et l'accompagnement du fonctionnement pédagogique, administratif de l'établissement et l'appui matériel : le bon démarrage de la journée doit être un objectif permanent ;
-
-- checkbld La transmission aux parents des relevés (carnets) de notes mensuels ;
-
-- checkbld L'état mensuel des absences.
-
-- checkbld Le suivi des relations avec les partenaires ;
-
-- checkbld Le suivi des relations avec les autorités locales (collectivités notamment) ;
+- Traitement du courrier Arrivée et Départ :
+  - Enregistrement ;
+  - Lecture ;
+  - Suite à donner ;
+  - Classement et archivage.
+- L'accueil des parents et des usagers :
+  - Disponibilité à l'égard des usagers.
+  - Mise en place d'un dispositif d'accueil des usagers ;
+  - Bonne gestion du temps (discerner l'urgent, l'important et le prioritaire) ;
+- Le contact individuel avec le personnel et les élèves ;
+- L'encadrement des activités péri et parascolaires ;
+- La signature des documents de gestion comptable : s'attacher au respect strict des règles de l'orthodoxie financière ;
+- Le contrôle et l'accompagnement du fonctionnement pédagogique, administratif de l'établissement et l'appui matériel : le bon démarrage de la journée doit être un objectif permanent ;
+- La transmission aux parents des relevés (carnets) de notes mensuels ;
+- L'état mensuel des absences.
+- Le suivi des relations avec les partenaires ;
+- Le suivi des relations avec les autorités locales (collectivités notamment) ;
 
 ### QUELQUES TACHES PONCTUELLES
 
-- checkbld La participation aux stages, séminaires et réunions convoqués par les autorités ;
-
-- checkbld La démultiplication des formations au sein de l'établissement ;
-
-- checkbld L'accueil des stagiaires des écoles de formation ;
-
-- checkbld La réponse aux invitations et la participation à diverses manifestations ;
+- La participation aux stages, séminaires et réunions convoqués par les autorités ;
+- La démultiplication des formations au sein de l'établissement ;
+- L'accueil des stagiaires des écoles de formation ;
+- La réponse aux invitations et la participation à diverses manifestations ;
 
 27
 
@@ -714,15 +588,11 @@ Agenda adapté  de USAID/PAEM, Le Guide du Chef d'Etablissement, réalisé par l
 
 La boîte à outils du chef d'établissement comporte les cinq domaines de gestion suivants :
 
-- checkbld DOMAINE 1 : Gestion administrative et des ressources humaines
-
-- checkbld DOMAINE 2 : Gestion pédagogique
-
-- checkbld DOMAINE 3 : Gestion matérielle et financière
-
-- checkbld DOMAINE 4 : Environnement scolaire, équité et genre
-
-- checkbld DOMAINE 5: Communication et  partenariat
+- DOMAINE 1 : Gestion administrative et des ressources humaines
+- DOMAINE 2 : Gestion pédagogique
+- DOMAINE 3 : Gestion matérielle et financière
+- DOMAINE 4 : Environnement scolaire, équité et genre
+- DOMAINE 5: Communication et partenariat
 
 29
 
@@ -730,11 +600,11 @@ La boîte à outils du chef d'établissement comporte les cinq domaines de gesti
 
 [[START OF PAGE 30]]
 
-DOMAINES
+DOMAINES | OUTILS DE MANAGEMENT
 --- | ---
-GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES | OUTILS DE MANAGEMENT checkbld Organigramme d'un établissement : collège et lycée checkbld Cartographie des acteurs et partenaires de l'école checkbld Passation de services pour les nouveaux Chefs d'Etablissements checkbld Confection, acheminement, réception et traitement des demandes de transfert d'élèves checkbld Réunion de rentrée des personnels checkbld Délivrance des certificats de prise de service checkbld Règlement Intérieur consensuel et participatif checkbld Rapport d'activités checkbld Gestion des dossiers de candidatures au baccalauréat checkbld Demande d'autorisation d'effectuer des heures supplémentaires checkbld Gestion des candidatures au BFEM checkbld Propositions de renouvellement, suppressions & régularisation des bourses & aides scolaires checkbld Certificats de service fait (HS & encadrement stagiaires) checkbld Envoi résultats, propositions de fin d'année (passage, redoublement, abandons) checkbld Bordereau d'envoi checkbld Texte sur les heures supplémentaires checkbld Demande d'explication et de mise en demeure checkbld Certificat de cessation de service pour les agents mutés checkbld Acte de mise en congé de maternité sur demande de l'intéressée (fonctionnaire, non fonctionnaire) checkbld Fiche de renseignements pour le personnel checkbld Bulletin de visite médicale (pour le personnel) checkbld Billets de sortie checkbld Billets d'entrée pour retard checkbld Billets d'entrée pour absence checkbld Certificat de prise de service checkbld Certificat d'exercice checkbld Imputation budgétaire checkbld Note de service checkbld Relevé mensuel des absences checkbld Etat des absences checkbld Demande de dossier administratif/scolaire
-GESTION PEDAGOGIQUE | checkbld Programmes : http://igen.education.sn checkbld Crédits horaires par discipline checkbld Planification de la mise en œuvre des programmes checkbld Appui et suivi des activités des cellules pédagogiques checkbld Suivi des progressions et des évaluations checkbld Dispositif de remédiation
-GESTION MATERIELLE ET FINANCIERE | checkbld Modèle d'inventaire des ressources checkbld Quitus bibliothèque checkbld Livre journal (à acheter)
+GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES | ✓ Organigramme d'un établissement : collège et lycée ✓ Cartographie des acteurs et partenaires de l'école ✓ Passation de services pour les nouveaux Chefs d'Etablissements ✓ Confection, acheminement, réception et traitement des demandes de transfert d'élèves ✓ Réunion de rentrée des personnels ✓ Délivrance des certificats de prise de service ✓ Règlement Intérieur consensuel et participatif ✓ Rapport d'activités ✓ Gestion des dossiers de candidatures au baccalauréat ✓ Demande d'autorisation d'effectuer des heures supplémentaires ✓ Gestion des candidatures au BFEM ✓ Propositions de renouvellement, suppressions & régularisation des bourses & aides scolaires ✓ Certificats de service fait (HS & encadrement stagiaires) ✓ Envoi résultats, propositions de fin d'année (passage, redoublement, abandons) ✓ Bordereau d'envoi ✓ Texte sur les heures supplémentaires ✓ Demande d'explication et de mise en demeure ✓ Certificat de cessation de service pour les agents mutés ✓ Acte de mise en congé de maternité sur demande de l'intéressée (fonctionnaire, non fonctionnaire) ✓ Fiche de renseignements pour le personnel ✓ Bulletin de visite médicale (pour le personnel) ✓ Billets de sortie ✓ Billets d'entrée pour retard ✓ Billets d'entrée pour absence ✓ Certificat de prise de service ✓ Certificat d'exercice ✓ Imputation budgétaire ✓ Note de service ✓ Relevé mensuel des absences ✓ Etat des absences ✓ Demande de dossier administratif/scolaire ✓ Dossier de demande de bourse
+GESTION PEDAGOGIQUE | ✓ Programmes : http://igen.education.sn ✓ Crédits horaires par discipline ✓ Planification de la mise en œuvre des programmes ✓ Appui et suivi des activités des cellules pédagogiques ✓ Suivi des progressions et des évaluations ✓ Dispositif de remédiation
+GESTION MATERIELLE ET FINANCIERE | ✓ Modèle d'inventaire des ressources ✓ Quitus bibliothèque ✓ Livre journal (à acheter)
 
 30
 
@@ -744,8 +614,9 @@ GESTION MATERIELLE ET FINANCIERE | checkbld Modèle d'inventaire des ressources 
 
 DOMAINES | OUTILS DE MANAGEMENT
 --- | ---
-ENVIRONNEMENT SCOLAIRE, EQUITE | checkbld Grand livre des comptes (à acheter) checkbld Fiche d'inventaire checkbld Carnet de bons de commandes (faire la demande au ministère des finances ou au CRF) checkbld Carnet de bons d'entrée dans l'existant (à acheter) checkbld Carnet de bons de sortie provisoire de l'existant (à acheter) checkbld Carnet de bons de sortie définitive de l'existant (à acheter) checkbld Bon d'entrée dans l'existant checkbld Bon de sortie provisoire checkbld Certificat administratif portant autorisation checkbld Etablissement d'un bon d'entrée n°01 pour la gestion suivante checkbld Exemple de procès verbal de réception checkbld Opération de fin de gestion : Etablissement du relevé récapitulatif checkbld Relevé récapitulatif des matières checkbld Fiche d'inspection : équipements et mobiliers checkbld Fiche de consommation des stocks checkbld Spécimen de signatures (à retirer à la DAGE/MEN ou au CRF) checkbld Modèle de budget prévisionnel checkbld Les procédures d'exécution des dépenses checkbld Objets de dépenses éligibles par nature checkbld Bon de sortie définitive de l'existant checkbld Certificat administratif portant autorisation checkbld Opération de fin de gestion : établissement du relevé récapitulatif checkbld Certificat administratif checkbld Gestion des ressources additionnelles
-ET GENRE | checkbld Outil de gestion de l'équité dans l'établissement checkbld Outil de gestion durable de l'établissement scolaire checkbld Outil de gestion de l'hygiène, de la sécurité des locaux (désherbage, désinsectisation, etc. et de la santé des élèves checkbld Serment de l'enseignant checkbld Gestion des mariages et grossesses précoces d'élèves checkbld Préparation et organisation d'un forum sur les
+ | ✓ Grand livre des comptes (à acheter) ✓ Fiche d'inventaire ✓ Carnet de bons de commandes (faire la demande au ministère des finances ou au CRF) ✓ Carnet de bons d'entrée dans l'existant (à acheter) ✓ Carnet de bons de sortie provisoire de l'existant (à acheter) ✓ Carnet de bons de sortie définitive de l'existant (à acheter) ✓ Bon d'entrée dans l'existant ✓ Bon de sortie provisoire ✓ Certificat administratif portant autorisation ✓ Etablissement d'un bon d'entrée n°01 pour la gestion suivante ✓ Exemple de procès verbal de réception ✓ Opération de fin de gestion : Etablissement du relevé récapitulatif ✓ Relevé récapitulatif des matières ✓ Fiche d'inspection : équipements et mobiliers ✓ Fiche de consommation des stocks ✓ Spécimen de signatures (à retirer à la DAGE/MEN ou au CRF) ✓ Modèle de budget prévisionnel ✓ Les procédures d'exécution des dépenses ✓ Objets de dépenses éligibles par nature ✓ Bon de sortie définitive de l'existant ✓ Certificat administratif portant autorisation ✓ Opération de fin de gestion : établissement du relevé récapitulatif ✓ Certificat administratif ✓ Gestion des ressources additionnelles
+ENVIRONNEMENT SCOLAIRE, EQUITE ET GENRE | ✓ Outil de gestion de l'équité dans l'établissement ✓ Outil de gestion durable de l'établissement scolaire ✓ Outil de gestion de l'hygiène, de la sécurité des locaux (désherbage, désinsectisation, etc. et de la santé des élèves ✓ Serment de l'enseignant ✓ Gestion des mariages et grossesses précoces d'élèves
+COMMUNICATION ET PARTENARIAT | ✓ Préparation et organisation d'un forum sur les performances scolaires et l'exécution du budget ✓ Canevas d'un plan de communication ✓ Dispositif d'intégration du genre dans l'établissement : orientation du chef d'établissement ✓ Gestion des élèves vulnérables à la déperdition scolaire ✓ Canevas d'élaboration d'un projet d'établissement ✓ Convention de partenariat
 
 31
 
@@ -755,19 +626,14 @@ ET GENRE | checkbld Outil de gestion de l'équité dans l'établissement checkbl
 
 ### DOMAINE I : GESTION ADMINISTRATIVE ET DES RESSOURCES HUMAINES
 
-Dans ce domaine, le chef d'établissement trouvera, dans le cadre de ses missions et prérogatives, des instruments  relatifs à :
+Dans ce domaine, le chef d'établissement trouvera, dans le cadre de ses missions et prérogatives, des instruments relatifs à :
 
-- checkbld La prise de fonction ;
-
-- checkbld La gestion administrative ;
-
-- checkbld La gestion des personnels ;
-
-- checkbld La gestion des élèves ;
-
-- checkbld La gestion des relations entre acteurs internes et la hiérarchie ;
-
-- checkbld La prise de décision.
+- La prise de fonction ;
+- La gestion administrative ;
+- La gestion des personnels ;
+- La gestion des élèves ;
+- La gestion des relations entre acteurs internes et la hiérarchie ;
+- La prise de décision.
 
 32
 
@@ -777,6 +643,14 @@ Dans ce domaine, le chef d'établissement trouvera, dans le cadre de ses mission
 
 #### ORGANIGRAMME D'UN COLLEGE D'ENSEIGNEMENT MOYEN GENERAL
 
+PRINCIPAL
+
+Professeur | Surveillant(e) général(e) | Gestionnaire
+Surveillant(e)s | Comptable matières
+Bibliothécaire | Infirmier(e)
+Animateur(trice) culturel(le) | Assistant(e) social(e)
+ELEVE
+
 33
 
 [[END OF PAGE 33]]
@@ -784,6 +658,36 @@ Dans ce domaine, le chef d'établissement trouvera, dans le cadre de ses mission
 [[START OF PAGE 34]]
 
 #### ORGANIGRAMME D'UN LYCEE D'ENSEIGNEMENT SECONDAIRE GENERAL
+
+CHEF D'ETABLISSEMENT
+- Administre les crédits mis à sa disposition et ordonne les dépenses
+- Impulse et contrôle l'action pédagogique
+- Administre les matières
+- Autorise les dépenses
+- Propose la nomination du billeteur, du Comptable des Matières
+- Gère le personnel
+
+Censeur-Directeur des Etudes
+Adjoint (collaborateur direct du CE)
+- coordonne action pédagogique
+- supplée le CE en cas d'absence ou d'empêchement
+- supervise et contrôle l'action des Professeurs
+
+Intendant
+Professeurs
+Bibliothécaire
+Animateur Culturel
+Assistant Social
+Infirmier
+Surveillant Général
+Coordonne l'action de la surveillance
+- Surveillants
+Comptables des Matières
+Tient les inventaires généraux
+Entretient et assure la conservation des matières
+Billeteur
+Paie les bourses, déplacements
+ELEVES
 
 Source : USAID/PAEM(2004) : Guide du Chef d'établissement, nouvelle édition revue et corrigée
 
@@ -795,6 +699,34 @@ Source : USAID/PAEM(2004) : Guide du Chef d'établissement, nouvelle édition re
 
 #### CARTOGRAPHIE DES ACTEURS ET PARTENAIRES DE L'ETABLISSEMENT
 
+Ministère Education nationale
+IDEN
+Conseil Régional
+Services départementaux
+Sous Préfet
+Municipalité
+Trésor public
+Conseil Rural
+Gouverneur
+Préfet
+Groupements féminins
+Parents
+Associations de jeunes
+PTF
+CE
+Gestionnaire
+Comptable matières
+Assistant(e) social(e)
+Infirmier(e)
+Censeur
+Professeurs
+Surveillant(e)s
+Bibliothécaire
+Laborantin
+Personnel de charge
+CGE
+ELEVES
+
 Source : Adapté de USAID/EPQ (2011) : Dimension genre : facteur clé d'une éducation de qualité ; Guide pratique pour le sous secteur du moyen.
 
 35
@@ -805,7 +737,7 @@ Source : Adapté de USAID/EPQ (2011) : Dimension genre : facteur clé d'une édu
 
 #### CIRCULAIRE N° 14025/MENC/DAG/FM DU 19/11/63 PORTANT ATTRIBUTIONS RESPECTIVES DES CHEFS D'ÉTABLISSEMENT ET INTENDANT(E)S EN MATIÈRE D'ADMINISTRATION FINANCIÈRE ET COMPTABLE DES ÉTABLISSEMENTS
 
-Les  opérations  administratives  et  comptables  sont  partagées  entre  un  Proviseur (Directeur ou Directrice) et un Intendant(e) (ou Econome) dans les rapports indiqués cidessous, sous la haute surveillance d'un Conseil d'Administration.
+Les  opérations  administratives  et  comptables  sont  partagées  entre  un  Proviseur (Directeur ou Directrice) et un Intendant(e) (ou Econome) dans les rapports indiqués ci-dessous, sous la haute surveillance d'un Conseil d'Administration.
 
 LE PROVISEUR
 
@@ -859,7 +791,7 @@ L'INTENDANT(E) OU L'ECONOME
 
 - il rédige le courrier relatif à ses services
 
--il est le chef de tout le personnel d'intendance  (bureau,  internat,  externat, service général) tout ordre donné à celuici  doit  obligatoirement  passer  par  son canal
+-il est le chef de tout le personnel d'intendance  (bureau,  internat,  externat, service général) tout ordre donné à celui-ci  doit  obligatoirement  passer  par  son canal
 
 36
 
@@ -869,7 +801,7 @@ L'INTENDANT(E) OU L'ECONOME
 
 LE PROVISEUR | L'INTENDANT(E) OU L'ECONOME
 --- | ---
-- le but des services d'intendance étant essentiellement de procurer à tous maîtres et élèves, les meilleures conditions matérielles possibles pour leur permettre d'accomplir leur travail respectif, l'intendant(e) doit veiller personnellement à l'entretien et au renouvellement du mobilier et du matériel, à la bonne tenue des locaux, au bon fonctionnement des bibliothèques, du service des fournitures, ceci en étroite collaboration avec le Censeur. Dans les établissements pourvus d'un internat, l'Intendant(e) par de fréquentes visites au foyer, aux dortoirs, à la cuisine, aux réfectoires et à la fin des repas, partage la vie des internes. - il assiste le plus souvent possible à la réception des denrées fraîches (poissons, viande, lait, pâtisserie, glace et requiert une inspection sanitaire si nécessaire) Dans l'accomplissement de sa tâche, l'intendant(e) est assisté de sous intendant(e)s, d'attachés d'intendance ou de commis dont il organise le service, mais il reste seul responsable de la marche de celui-ci devant le Chef d'établissement
+ | - le but des services d'intendance étant essentiellement de procurer à tous maîtres et élèves, les meilleures conditions matérielles possibles pour leur permettre d'accomplir leur travail respectif, l'intendant(e) doit veiller personnellement à l'entretien et au renouvellement du mobilier et du matériel, à la bonne tenue des locaux, au bon fonctionnement des bibliothèques, du service des fournitures, ceci en étroite collaboration avec le Censeur. Dans les établissements pourvus d'un internat, l'Intendant(e) par de fréquentes visites au foyer, aux dortoirs, à la cuisine, aux réfectoires et à la fin des repas, partage la vie des internes. - il assiste le plus souvent possible à la réception des denrées fraîches (poissons, viande, lait, pâtisserie, glace et requiert une inspection sanitaire si nécessaire) Dans l'accomplissement de sa tâche, l'intendant(e) est assisté de sous intendant(e)s, d'attachés d'intendance ou de commis dont il organise le service, mais il reste seul responsable de la marche de celui-ci devant le Chef d'établissement
 
 37
 
@@ -935,29 +867,25 @@ A la suite de  l'interprétation  souvent  restrictive  qu'une  partie  du  pers
 
 Les surveillant(e)s généraux, membres du personnel administratif, sont chargés sous l'autorité du Chef d'établissement :
 
-- 1°) du maintien de l'ordre et de la discipline  dans  l'établissement,  à  ce  titre, ils doivent veiller:
+1°) du maintien de l'ordre et de la discipline dans l'établissement, à ce titre, ils doivent veiller:
 
 - à l'application du règlement intérieur de l'établissement;
+- à l'ordre matériel et à la discipline dans toutes les parties l'établissement qui sont placées sous leur ressort;
+- au contrôle des absences et des entrées des élèves;
+- à la prise en charge des élèves en cas d'absence des professeurs
 
-- à  l'ordre  matériel  et  à  la  discipline  dans toutes les parties l'établissement qui sont placées sous leur ressort;
+2°) de l'éducation des élèves et de l'action pédagogique de l'équipe administrative de l'établissement
 
-- au  contrôle  des  absences  et  des  entrées des élèves;
-
-- à  la  prise  en  charge  des  élèves  en  cas d'absence des professeurs
-
-- 2°) de l'éducation des élèves et de l'action pédagogique de l'équipe administrative de l'établissement
+Les surveillant(e)s généraux participent notamment au contrôle de la conduite des élèves et de leur travail. Ils ont sous leur responsabilité des surveillant(e)s dont ils organisent les emplois du temps en accord avec le chef d'établissement et dont ils contrôlent les activités. Ils participent à la permanence administrative pendant les vacances scolaires conformément aux dispositions en vigueur.
 
 ##### SURVEILLANT(E)S
 
 Le service des surveillant(e)s comprend:
 
--La surveillance des études, des récréations, de la permanence ;
+- La surveillance des études, des récréations, de la permanence ;
+- La surveillance des mouvements, les services scolaires à l'intérieur ou l'extérieur de l'établissement (notamment les écritures). En cas d'absence des professeurs, ils assurent la surveillance des élèves.
 
--La  surveillance  des  mouvements,  les services scolaires à l'intérieur ou l'extérieur de l'établissement (notamment les écritures). En cas d'absence des professeurs, ils assurent la surveillance des élèves.
-
-Les surveillant(e)s  assurent  un service hebdomadaire de 36 heures. Ils  peuvent être autorisés en vertu de leurs droits à la formation,  à  poursuivre  des  études  mais sous réserve de l'accord du chef d'établissement et de manière compatible avec les nécessités de service.
-
-Les  surveillant(e)s  généraux  participent notamment au contrôle de la conduite des élèves  et  de  leur  travail.  Ils  ont  sous  leur responsabilité  des  surveillant(e)s  dont  ils organisent les emplois du temps en accord avec  le  chef  d'établissement  et  dont  ils contrôlent les activités. Ils participent à la permanence  administrative  pendant  les vacances scolaires conformément aux dispositions en vigueur.
+Les surveillant(e)s assurent un service hebdomadaire de 36 heures. Ils peuvent être autorisés en vertu de leurs droits à la formation, à poursuivre des études mais sous réserve de l'accord du chef d'établissement et de manière compatible avec les nécessités de service.
 
 IMPORTANT :
 
@@ -1081,7 +1009,7 @@ Par recettes, l'on doit entendre:
 
 -Les produits des diverses prestations de service.
 
-Il importe de noter que les crédits ci-dessus énumérés doivent être gérés conformément aux dispositions de l'arrêté interministériel n o . 003207 du 17 mars 2004 qui dispose en son article 4, que "Le Conseil de Gestion de chaque établissement moyen ou secondaire est chargé du contrôle, de la mobilisation et de l'utilisation des ressources générées par ledit établissement."
+Il importe de noter que les crédits ci-dessus énumérés doivent être gérés conformément aux dispositions de l'arrêté interministériel no. 003207 du 17 mars 2004 qui dispose en son article 4, que "Le Conseil de Gestion de chaque établissement moyen ou secondaire est chargé du contrôle, de la mobilisation et de l'utilisation des ressources générées par ledit établissement."
 
 L'article 5 du même arrêté précise … : " La fonction d'administrateur du Conseil de Gestion est assumée par le Chef d'établissement. L'intendant(e) ou le gestionnaire est le comptable des recettes et des dépenses. "
 
@@ -1261,9 +1189,9 @@ Les articles 2 et 3 du décret 61.175 du 24 avril 1961 sont abrogés et remplac�
 ##### Article  2.
 Toute  absence  constatée  au  moment d'un contrôle effectué par les autorités compétentes, si elle n'est pas justifiée par un cas de force majeure dûment établi ou par une autorisation régulièrement délivrée, met son auteur en position d'absence irrégulière et l'expose aux mesures ci après:
 
-- toute  absence  fera  l'objet  d'une  lettre  d'observations  adressée  à  l'intéressé  avec demande d'explications écrites;
+a) toute absence fera l'objet d'une lettre d'observations adressée à l'intéressé avec demande d'explications écrites;
 
-- quatre absences non justifiées ou plus au cours du même mois entraînent à l'encontre de l'intéressé l'émission d'un ordre de recettes, conformément aux taux mensuels ciaprès définis, déduction faite des allocations familiales:
+b) quatre absences non justifiées ou plus au cours du même mois entraînent à l'encontre de l'intéressé l'émission d'un ordre de recettes, conformément aux taux mensuels ci-après définis, déduction faite des allocations familiales:
 
 - pour une demi-journée
 
@@ -1299,9 +1227,10 @@ Le Ministre d'Etat chargé des Finances et des Affaires Économiques et chacun d
 
 #### MODELE DE PV DE PASSATION DE SERVICE
 
-République du Sénégal Un Peuple - Un But - Une Foi INSPECTION D'ACADEMIE DE …………..
-
+République du Sénégal
+Un Peuple – Un But – Une Foi
 MINISTERE DE L'EDUCATION NATIONALE
+INSPECTION D'ACADEMIE DE …………..
 
 ##### PROCES-VERBAL DE PASSATION DE SERVICE
 ENTRE
@@ -1431,7 +1360,7 @@ En outre, le décret demande de :
 Désignation | recettes | dépenses | solde
 --- | --- | --- | ---
 
-- C ompte tenu de la diversité de crédits qu'on a dans un service donné, il est conseillé de : « dresser d'autres tableaux pour des dépenses couvertes par d'autres crédits autres que les crédits de  fonctionnement » et Factures et états des sommes dues et arriérés
+A. Compte tenu de la diversité de crédits qu'on a dans un service donné, il est conseillé de : « dresser d'autres tableaux pour des dépenses couvertes par d'autres crédits autres que les crédits de fonctionnement » et Factures et états des sommes dues et arriérés
 
 52
 
@@ -1577,9 +1506,9 @@ Annotation : ça peut s'appliquer aux IA et IDEN  qui paient  des salaires de vo
 
 ###### 1° Situation de caisse
 
-###### 2° Livres comptables (ide m)
+###### 2° Livres comptables (idem)
 
-###### Bourses ( Conseil régional)
+###### H. Bourses (Conseil régional)
 
 ###### 1° Situation de caisse
 
@@ -1593,19 +1522,19 @@ Etc.
 
 Annotation :  cas  des  cantines  et  des  quelques  rares  établissements  ayant  encore  un internat
 
-###### Magasin de fournitures (1)
+###### B. Magasin de fournitures (1)
 
-###### Bibliothèque : ne pas omettre les mallettes pédagogiques (1)
+###### C. Bibliothèque : ne pas omettre les mallettes pédagogiques (1)
 
-###### Lingerie : (1)
+###### D. Lingerie : (1)
 
-###### Infirmerie (1)
+###### E. Infirmerie (1)
 
-###### Ateliers (1)
+###### F. Ateliers (1)
 
-###### Laboratoires (1)
+###### G. Laboratoires (1)
 
-###### Parc automobile, carburants, pièces détachées (1)
+###### H. Parc automobile, carburants, pièces détachées (1)
 
 ###### 1° Parc
 
@@ -1613,7 +1542,7 @@ Annotation :  cas  des  cantines  et  des  quelques  rares  établissements  aya
 
 ###### 3° Pièces détachées
 
-: A chacune de ces rubriques correspondent les sous-rubriques suivantes :
+(1) : A chacune de ces rubriques correspondent les sous-rubriques suivantes :
 
 ###### 1° Inventaire
 
@@ -1652,15 +1581,15 @@ Les  agents  entrant  et  sortant  devront  porter  en  annexe  tous  les  table
 
 - Liste nominative du personnel administratif (annexe 1)
 
-- Liste nominative du personnel enseignant  (Annexe 2)
-
-- Liste nominative du personnel  d'appoint (Annexe 3)
-
 N° | Prénom | Nom | Matricule de solde | Grade | genre | Fonction | Observations
 --- | --- | --- | --- | --- | --- | --- | ---
 
+- Liste nominative du personnel enseignant  (Annexe 2)
+
 N° | Prénom | Nom | Matricule de solde | Grade | Genre | discipline | Observations
 --- | --- | --- | --- | --- | --- | --- | ---
+
+- Liste nominative du personnel d'appoint (Annexe 3)
 
 N° | Prénom | Nom | Matricule de solde | Grade | Genre | Fonction | Observations
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1888,9 +1817,9 @@ Aucun  engagement  d'agents  non  fonctionnaires  ne  peut  être  effectué  en
 ###### Article 3 :
 Les agents non-fonctionnaires comprennent deux catégories:
 
-- les agents engagés par référence à un corps de fonctionnaires
+1. les agents engagés par référence à un corps de fonctionnaires
 
-- les personnels  de  secrétariat: secrétaires dactylographes, sténodactylographies, sténotypistes, sténodactylographies correspondanciers, secrétaires de direction
+2. les personnels de secrétariat: secrétaires dactylographes, sténodactylographies, sténotypistes, sténodactylographies correspondanciers, secrétaires de direction
 
 ##### TITRE II - PERSONNEL ENGAGE PAR REFERENCE A UN CORPS DE FONCTIONNAIRES
 
@@ -1995,28 +1924,15 @@ conditions que les fonctionnaires.
 
 ##### CHAPITRE 1 ER  : CONGE & ALLOCATIONS DE CONGE, AUTORISATIONS ET PERMISSIONS D'ABSENCE
 
-###### Article  28 :
-Le  personnel  enseignant  de  direction,  de  contrôle  ou  de  surveillance,  en
+###### Article 28 :
+Le personnel enseignant de direction, de contrôle ou de surveillance, en service dans les établissements d'enseignement, a droit chaque année, à un congé avec rémunération pendant les vacances scolaires dans les conditions suivantes:
 
-service dans les établissements d'enseignement, a droit chaque année, à un congé avec
+- personnel enseignant : 90 jours
 
-rémunération pendant les vacances scolaires dans les conditions suivantes:
+- personnel de direction, de contrôle ou de surveillance : 60 jours
 
-- personnel enseignant
-
-:
-
-90 jours
-
-- personnel de direction, de contrôle ou de surveillance :
-
-###### Article 29
-
-60 jours
-
-: Tout agent non fonctionnaire peut obtenir des autorisations d'absence non
-
-déductibles du congé annuel, dans les conditions suivantes :
+###### Article 29 :
+Tout agent non fonctionnaire peut obtenir des autorisations d'absence non déductibles du congé annuel, dans les conditions suivantes :
 
 64
 
@@ -2024,25 +1940,25 @@ déductibles du congé annuel, dans les conditions suivantes :
 
 [[START OF PAGE 65]]
 
-###### A -Autorisation d'absence avec rémunération
+###### A - Autorisation d'absence avec rémunération
 
-- Dans  la  limite  de  la  durée  totale  des  sessions  des  assemblées  dont  il  fait  partie, lorsqu'il occupe des fonctions électives non rémunérées
+1. Dans la limite de la durée totale des sessions des assemblées dont il fait partie, lorsqu'il occupe des fonctions électives non rémunérées
 
-- Dans la limite maximale de 15 jours par an s'il est le représentant dûment mandaté d'une organisation syndicale, à l'occasion des congrès professionnels, conformément aux dispositions de l'article 144 complétée du Code du Travail
+2. Dans la limite maximale de 15 jours par an s'il est le représentant dûment mandaté d'une organisation syndicale, à l'occasion des congrès professionnels, conformément aux dispositions de l'article 144 complétée du Code du Travail
 
-Toutefois, si la durée du congrès pour lequel il a obtenu une autorisation d'absence avec rémunération  est  telle  qu'elle  entraîne  un  dépassement  de  la  limite  de  15  jours,  les journées d'absence supplémentaires ne sont pas payées, conformément aux dispositions de l'article 144 complété du Code du Travail
+Toutefois, si la durée du congrès pour lequel il a obtenu une autorisation d'absence avec rémunération est telle qu'elle entraîne un dépassement de la limite de 15 jours, les journées d'absence supplémentaires ne sont pas payées, conformément aux dispositions de l'article 144 complété du Code du Travail
 
-- Dans la limite maximale de 15 jours par an, s'il est membre d'association d'éducation populaire  et  sportive, afin de  lui permettre,  soit  de  suivre  un  stage  officiel  de perfectionnement, soit de représenter le Sénégal dans une compétition internationale, conformément aux dispositions de l'article 144 complété du Code du Travail.
+3. Dans la limite maximale de 15 jours par an, s'il est membre d'association d'éducation populaire et sportive, afin de lui permettre, soit de suivre un stage officiel de perfectionnement, soit de représenter le Sénégal dans une compétition internationale, conformément aux dispositions de l'article 144 complété du Code du Travail.
 
 ###### B - Autorisation d'absence sans rémunération
 
-- Dans  la  limite  de  la  durée  totale  des  sessions  des  assemblées  dont  il  fait  partie, lorsqu'il occupe des fonctions électives rémunérées.
+1. Dans la limite de la durée totale des sessions des assemblées dont il fait partie, lorsqu'il occupe des fonctions électives rémunérées.
 
-- Lorsqu'étant  candidat  à  des  élections  publiques,  il  se  trouve  dans  l'impossibilité d'assurer en même temps son service normal. Ces absences commencent au plus tôt à la date de dépôt de la candidature et prennent fin au plus tard à la date de clôture des opérations électorales.
+2. Lorsqu'étant candidat à des élections publiques, il se trouve dans l'impossibilité d'assurer en même temps son service normal. Ces absences commencent au plus tôt à la date de dépôt de la candidature et prennent fin au plus tard à la date de clôture des opérations électorales.
 
-- Dans  la  limite  maximale  d'un  mois,  par  période  de  12  mois  consécutifs,  pour convenance personnelle. Pendant cette période, il est interdit à l'agent non fonctionnaire d'exercer une activité privée lucrative.
+3. Dans la limite maximale d'un mois, par période de 12 mois consécutifs, pour convenance personnelle. Pendant cette période, il est interdit à l'agent non fonctionnaire d'exercer une activité privée lucrative.
 
-- Dans une limite annuelle de 30 jours, non déductible de la durée du congé payé, le temps  de  déplacement  n'étant  pas  compris,  des  autorisations  spéciales  d'absence, sans  restriction  de  nombre,  peuvent  être  accordées  aux  agents  non  fonctionnaires appelés par l'autorité administrative à participer à des stages de formation des cadres sportifs, ou à des stages préparatoires aux sélections sportives nationales,
+4. Dans une limite annuelle de 30 jours, non déductible de la durée du congé payé, le temps de déplacement n'étant pas compris, des autorisations spéciales d'absence, sans restriction de nombre, peuvent être accordées aux agents non fonctionnaires appelés par l'autorité administrative à participer à des stages de formation des cadres sportifs, ou à des stages préparatoires aux sélections sportives nationales,
 
 65
 
@@ -2050,78 +1966,33 @@ Toutefois, si la durée du congrès pour lequel il a obtenu une autorisation d'a
 
 [[START OF PAGE 66]]
 
-conformément  aux  dispositions  de  l'article  144  du  Code  du  Travail  et  du  décret
+conformément aux dispositions de l'article 144 du Code du Travail et du décret 65.345 du 24 mai 1965.
 
-65.345 du 24 mai 1965.
-
-###### Article  30 :
-Les  autorisations  d'absence  avec  rémunération  sont  prises  en  compte
-
-comme période de service effectif pour le calcul des congés annuels; les autorisations
-
-d'absence  sans  rémunération  sont  suspensives  de  l'engagement,  conformément  aux
-
-dispositions de l'article 57 du Code du Travail.
+###### Article 30 :
+Les autorisations d'absence avec rémunération sont prises en compte comme période de service effectif pour le calcul des congés annuels; les autorisations d'absence sans rémunération sont suspensives de l'engagement, conformément aux dispositions de l'article 57 du Code du Travail.
 
 ###### Article 31 :
-Conformément aux dispositions de l'article 144 du Code du Travail, et dans
+Conformément aux dispositions de l'article 144 du Code du Travail, et dans la limite de 10 jours par an des permissions exceptionnelles d'absence avec rémunération non déductibles des congés annuels et entrant en compte comme période service effectif pour le calcul des congés, peuvent être accordées aux agents non-fonctionnaires, à l'occasion des évènements familiaux suivants:
 
-la limite de
+- Mariage de l'agent : 4 jours
 
-10
+- Naissance et baptême d'un descendant du 1er degré (au total) : 2 jours
 
-jours par an des permissions exceptionnelles d'absence avec
+- Décès du conjoint, du père, de la mère ou d'un descendant du 1er degré : 3 jours
 
-rémunération non déductibles des congés annuels et entrant en compte comme période
+- Décès d'un autre ascendant ou d'un autre descendant, d'un frère, d'une sœur: 2 jours
 
-service  effectif  pour  le  calcul  des  congés,  peuvent  être  accordées  aux  agents  non-
+- Mariage d'un descendant du 1er degré, d'un frère, d'une sœur : 1 jour
 
-fonctionnaires, à l'occasion des évènements familiaux suivants:
-
-- Mariage de l'agent
-
-: 4 jours
-
-- Naissance et baptême d'un descendant du 1 er  degré (au total)
-
-: 2 jours
-
-- Décès du conjoint, du père, de la mère ou d'un descendant du 1 er  degré   :
-
-·
-
-3 jours
-
-Décès d'un autre ascendant ou d'un autre descendant, d'un frère, d'une sœur:
-
-- Mariage d'un descendant du 1 er  degré, d'un frère, d'une sœur
-
-2 jours
-
-: 1 jour
-
-La demande doit être justifiée par des pièces d'état civil ou par une attestation délivrée
-
-par l'autorité compétente.
+La demande doit être justifiée par des pièces d'état civil ou par une attestation délivrée par l'autorité compétente.
 
 ##### CHAPITRE 2 : MALADIE & HOSPITALISATION
 
-:  Les  consultations  et  les  soins  dans  les  centres  médicaux  et  dans  les
-
-###### Article  32
-
-formations sanitaires, à l'exclusion des hôpitaux, sont gratuits pour l'agent ainsi que les
-
-membres de sa famille, légalement à sa charge.
+###### Article 32 :
+Les consultations et les soins dans les centres médicaux et dans les formations sanitaires, à l'exclusion des hôpitaux, sont gratuits pour l'agent ainsi que les membres de sa famille, légalement à sa charge.
 
 ###### Article 33 :
-Les consultations et les soins dans les hôpitaux pour l'agent et les membres
-
-de sa famille sont à la charge du budget employeur, dans la limite de 80% du tarif en
-
-vigueur dans les formations sanitaires et hospitalières, les 20% restant à la charge de
-
-l'intéressé.
+Les consultations et les soins dans les hôpitaux pour l'agent et les membres de sa famille sont à la charge du budget employeur, dans la limite de 80% du tarif en vigueur dans les formations sanitaires et hospitalières, les 20% restant à la charge de l'intéressé.
 
 66
 
@@ -2129,24 +2000,18 @@ l'intéressé.
 
 [[START OF PAGE 67]]
 
-Article 38
-
 ##### CHAPITRE 3 : DISCIPLINE & SANCTION
 
 ###### Article 34 :
 Les sanctions disciplinaires applicables à l'agent non fonctionnaire sont
 
-·
-
-l'avertissement écrit
+- l'avertissement écrit
 
 - le blâme
 
 - la mise à pied allant d'un à huit (8) jours
 
-·
-
-le licenciement
+- le licenciement
 
 ###### Article 35 :
 L'avertissement écrit et le blâme sont prononcés par le Chef de service. La mise à pied de 1 à 8 jours est prononcée par le Ministre utilisateur. Le licenciement est prononcé par l'autorité investie du pouvoir de nomination.
@@ -2154,29 +2019,24 @@ L'avertissement écrit et le blâme sont prononcés par le Chef de service. La m
 ###### Article 36 :
 Avant toute sanction, l'agent doit être mis à même de présenter par écrit ses explications sur les faits qui lui sont reprochés.
 
-###### Article  37 :
-L'agent  condamné  définitivement  à  une  peine  entraînant  l'incapacité électorale est immédiatement licencie.
+###### Article 37 :
+L'agent condamné définitivement à une peine entraînant l'incapacité électorale est immédiatement licencie.
 
 ##### CHAPITRE 4 - CESSATION DE FONCTION
 
-: La cessation de fonction ou fin d'engagement intervient:
+###### Article 38 :
+La cessation de fonction ou fin d'engagement intervient:
 
-1.
+1. par licenciement notifié par écrit à l'agent
 
-par licenciement notifié par écrit à l'agent
+2. par démission
 
-- par démission
-
-3.
-
-par admission à la retraite pour les agents ayant atteint la limite d'âge
+3. par admission à la retraite pour les agents ayant atteint la limite d'âge
 
 ###### Article 39 :
-Le licenciement d'un agent non fonctionnaire ouvre droit à son profit à une
+Le licenciement d'un agent non fonctionnaire ouvre droit à son profit à une indemnité de licenciement.
 
-indemnité de licenciement.
-
-Cette  indemnité  est  représentée,  pour  chaque  année  de  présence  continue  dans l'Administration, par un pourcentage déterminé du salaire global mensuel moyen des 12 mois d'activité qui ont précédé la date de licenciement.
+Cette indemnité est représentée, pour chaque année de présence continue dans l'Administration, par un pourcentage déterminé du salaire global mensuel moyen des 12 mois d'activité qui ont précédé la date de licenciement.
 
 Le pourcentage en question est calculé comme suit:
 
@@ -2192,80 +2052,40 @@ Le pourcentage en question est calculé comme suit:
 
 [[START OF PAGE 68]]
 
-En cas de décès de l'agent, l'indemnité visée au précédent article est versée à ses ayants-
+En cas de décès de l'agent, l'indemnité visée au précédent article est versée à ses ayants-droit
 
-droit
+###### Article 40 :
+L'âge normal de départ à la retraite est celui fixé par le régime national d'affiliation en vigueur.
 
-###### Article  40 :
-L'âge  normal  de  départ  à  la  retraite  est  celui  fixé  par  le  régime  national
+L'indemnité de licenciement n'est pas due lorsque l'agent cesse définitivement son service pour entrer en jouissance d'une allocation de retraite. Toutefois, il lui est versé une allocation spéciale dite «indemnité de départ à la retraite».
 
-d'affiliation en vigueur.
+Cette indemnité est représentée, pour chaque année de présence, par un pourcentage, ci-après fixé, du salaire global mensuel moyen des douze derniers mois d'activité qui ont précédé la date de départ à la retraite.
 
-L'indemnité  de  licenciement  n'est  pas  due  lorsque  l'agent  cesse  définitivement  son
-
-service pour entrer en jouissance d'une allocation de retraite. Toutefois, il lui est versé
-
-une allocation spéciale dite «indemnité de départ à la retraite».
-
-Cette indemnité est représentée, pour chaque année de présence, par un pourcentage,
-
-ci-après fixé, du salaire global mensuel moyen des douze derniers mois d'activité qui ont
-
-précédé la date de départ à la retraite.
-
-Entrant  dans  le  décompte  de  ce  salaire  moyen  toutes  les  prestations  constituant  une
-
-contrepartie du travail, à l'exclusion de celles présentant le caractère de remboursement
-
-de frais.
+Entrant dans le décompte de ce salaire moyen toutes les prestations constituant une contrepartie du travail, à l'exclusion de celles présentant le caractère de remboursement de frais.
 
 Le pourcentage est fixé à:
 
-·
+- 20% pour les cinq premières années
 
-·
+- 25% pour la période comprise entre la 6ème et la 10ème année incluse
 
-·
+- 30% pour la période s'étendant au-delà de la 10ème année.
 
-20% pour les cinq premières années
+Dans le décompte effectué sur les bases indiquées ci-dessus, il doit être tenu compte des fractions d'année.
 
-25% pour la période comprise entre la 6 ème  et la 10 ème  année incluse
-
-30% pour la période s'étendant au-delà de la 10 ème  année.
-
-Dans le décompte effectué sur les bases indiquées ci-dessus, il doit être tenu compte des
-
-fractions d'année.
-
-L'agent peut être autorisé à jouir de sa retraite par anticipation. L'indemnité de départ à
-
-la retraite est, dans ce cas, réduite aux pourcentages suivants:
+L'agent peut être autorisé à jouir de sa retraite par anticipation. L'indemnité de départ à la retraite est, dans ce cas, réduite aux pourcentages suivants:
 
 Période d'anticipation
 
-- moins de cinq ans
+- moins de cinq ans : 75 %
 
-: 75 %
+- moins de quatre ans : 80 %
 
-•
+- moins de trois ans : 85 %
 
-- moins de quatre ans
+- moins de deux ans : 90 %
 
-: 80 %
-
-- moins de trois ans
-
-: 85 %
-
-- moins de deux ans
-
-: 90 %
-
-•
-
-moins d'un an
-
-: 95 %
+- moins d'un an : 95 %
 
 68
 
@@ -2301,7 +2121,7 @@ Les agents actuellement engagés en qualité de journalistes sont soumis aux dis
 
 [[START OF PAGE 70]]
 
-Toutefois  sur  autorisation  du  Premier  Ministre,  certains  agents  engagés  en  qualité  de journalistes,  pourront  bénéficier  de  contrats  spéciaux  tels  que  prévus  à  l'article  2  cidessus.
+Toutefois sur autorisation du Premier Ministre, certains agents engagés en qualité de journalistes, pourront bénéficier de contrats spéciaux tels que prévus à l'article 2 ci-dessus.
 
 ###### Article  43 :
 Les  personnels  de  secrétariat,  déjà  en  service,  sont  classés  dans  les nouvelles échelles de rémunération.
@@ -2394,7 +2214,7 @@ Il  appartiendra au ministère utilisateur, de faire preuve d'initiative et de v
 
 Je  pense  qu'il  est  utile,  étant  donné  l'importance  du  sujet,  que  vous  soumettiez  à  ma signature,  dans  les  meilleurs  délais  possible,  un  projet  de  circulaire  reprenant  et
 
-développant l'essentiel de ce qui précède. Enfin, en ce qui concerne le cas particulier de M me  Fatou FALL née GUEYE, Institutrice Adjointe de 6ème classe en service à Rufisque, le Ministre de l'Education Nationale a eu raison de signaler que la loi n'avait pas été respectée. En effet, rien dans notre réglementation n'autorise le maintien à la femme fonctionnaire,
+développant l'essentiel de ce qui précède. Enfin, en ce qui concerne le cas particulier de Mme Fatou FALL née GUEYE, Institutrice Adjointe de 6ème classe en service à Rufisque, le Ministre de l'Education Nationale a eu raison de signaler que la loi n'avait pas été respectée. En effet, rien dans notre réglementation n'autorise le maintien à la femme fonctionnaire,
 
 du bénéfice de sa rémunération à l'occasion d'un deuil.
 
@@ -2406,16 +2226,6 @@ Léopold Sédar SENGHOR
 
 [[START OF PAGE 74]]
 
-Ampliations :
-
--IA
-
--IDEN
-
--Intéressée
-
--Chrono/archives.
-
 #### EXEMPLE DE DECISION DE MISE EN CONGE DE MATERNITE POUR LES AGENTS NON FONCTIONNAIRES
 
 ENTETE
@@ -2424,11 +2234,11 @@ ENTETE
 
 Objet : Décision de mise en congé de maternité
 
-Le/la Principal (e)/proviseur  de………………………………………………………………………
+Le/la Principal (e)/proviseur de………………………………………………………………………
 
 Vu la loi 97-17 du 1èr décembre 1997 portant code du travail ;
 
-Vu le décret 74-347 du12 avril 1974 fixant le régime spécial applicable aux agents non fonctionnaires de  l'Etat, modifié par le décret 80-700 du 12 juillet 1980 et le décret n°87-204 du 18 février 1987 ;
+Vu le décret 74-347 du12 avril 1974 fixant le régime spécial applicable aux agents non fonctionnaires de l'Etat, modifié par le décret 80-700 du 12 juillet 1980 et le décret n°87-204 du 18 février 1987 ;
 
 Vu le décret 95-264 du 10 mars 1995 portant délégation de pouvoir du Président de la République en matière d'administration et de gestion du personnel ;
 
@@ -2438,21 +2248,35 @@ Vu la décision n°         du       nommant le/la Principal (e)/proviseur ;
 
 Vu le certificat de grossesse produit par l'intéressée ;
 
-Vu la demande de l'intéressée en date du … (jour)………… (mois) ……… (année)……….. Vu le certificat d'accouchement
+Vu la demande de l'intéressée en date du … (jour)………… (mois) ……… (année)………..
+
+Vu le certificat d'accouchement
 
 Un congé de maternité de quatorze (14) semaines est accordé à
 
 Madame ……………………………………………………………..
 
-Matricule de solde N.I  Grade …………………………………
+Matricule de solde N.I Grade …………………………………
 
 Fonction : Professeur de ………………………………………..
 
-Le congé prend effet pour compter  du … (jour)………… (mois) ………(année)……….. et s'achève le … (jour )…………(mois) ………(année)………..
+Le congé prend effet pour compter du … (jour)………… (mois) ………(année)………..
+
+et s'achève le … (jour )…………(mois) ………(année)………..
 
 L'intéressée reprendra le service le … (jour)………… (mois) ………(année)………..
 
 Le Chef d'Etablissement
+
+Ampliations :
+
+- IA
+
+- IDEN
+
+- Intéressée
+
+- Chrono/archives.
 
 74
 
@@ -2503,7 +2327,7 @@ L'attention de tous les chefs d'établissement est attirée sur cette situation 
 ##### 1. Mise en vigueur de la nouvelle fiche de transfert accompagnant la présente circulaire.
 Cette fiche reste désormais la seule valable tant pour les lycées que pour les collèges. Elle devra être remplie intégralement et signé du chef d'établissement. Tout dossier qui n'obéira  pas  à  ces  critères  devra  être  rejeté.  Les  fiches  doivent  être  au  nombre  de 5(cinq) pour les élèves boursiers ou bénéficiant d'une aide, de 4(quatre) pour les autres.
 
-##### Les pièces suivantes doivent obligatoirement accompagner les fiches de transfert:
+##### 2. Les pièces suivantes doivent obligatoirement accompagner les fiches de transfert:
 
 - 1(un) acte de naissance (bulletin ou extrait)
 
@@ -2511,7 +2335,7 @@ Cette fiche reste désormais la seule valable tant pour les lycées que pour les
 
 - le bulletin du 2° semestre revêtu de la signature du chef d'établissement
 
-##### Transmission des dossiers de transfert : les dossiers doivent transiter :
+##### 3. Transmission des dossiers de transfert : les dossiers doivent transiter :
 
 - par l'IDEE (actuelle IDEN) si l'établissement d'origine et celui d'accueil sont dans le même département
 
@@ -2525,13 +2349,13 @@ Cette fiche reste désormais la seule valable tant pour les lycées que pour les
 
 - pour les lycées, les dossiers sont traités directement d'établissement à établissement
 
-##### Délais de dépôt, de réponse et de forclusion des demandes de transfert
+##### 4. Délais de dépôt, de réponse et de forclusion des demandes de transfert
 
-- La date de dépôt du dossier de transfert à l'établissement d'origine est fixée au plus tard  le  15  Septembre.  Les  Chefs  d'établissement  sont  invités  à  ne  plus  signer,  ni envoyer  aucun  dossier  après  cette  date.  Les  élèves  ayant  en  effet  la  possibilité  de constituer  leur  dossier  dès  la  réception  de  leur  bulletin  de  2 ème   semestre  qui  doit intervenir au plus tard le 30 Juillet
+ a) La date de dépôt du dossier de transfert à l'établissement d'origine est fixée au plus tard le 15 Septembre. Les Chefs d'établissement sont invités à ne plus signer, ni envoyer aucun dossier après cette date. Les élèves ayant en effet la possibilité de constituer leur dossier dès la réception de leur bulletin de 2ème semestre qui doit intervenir au plus tard le 30 Juillet
 
-- La réponse de l'établissement sollicité doit intervenir le 15 Octobre au plus tard. Les Principaux et les Proviseurs sont invités à traiter avec diligence les dossiers qui leur sont  soumis  et  d'informer  les  élèves,  les  parents  et  l'établissement  d'origine  par retour des fiches dûment contresignées.
+ b) La réponse de l'établissement sollicité doit intervenir le 15 Octobre au plus tard. Les Principaux et les Proviseurs sont invités à traiter avec diligence les dossiers qui leur sont soumis et d'informer les élèves, les parents et l'établissement d'origine par retour des fiches dûment contresignées.
 
-- La  date  limite  d'attente  de  l'établissement  d'origine  avant  la  radiation  du  nom  de l'élève demandeur de transfert sur les listes d'appel est fixée au 25 Octobre. Au-delà de cette date l'élève est considéré comme démissionnaire.
+ c) La date limite d'attente de l'établissement d'origine avant la radiation du nom de l'élève demandeur de transfert sur les listes d'appel est fixée au 25 Octobre. Au-delà de cette date l'élève est considéré comme démissionnaire.
 
 L'acceptation d'un transfert par un chef d'établissement ne peut prendre en aucun cas un caractère obligatoire. Les transferts ne seront satisfaits que dans la limite des places disponibles.
 
@@ -2551,8 +2375,8 @@ Ces listes doivent être envoyées à partir du 25 Octobre à l'IREE, à la DEMS
 
 [[START OF PAGE 78]]
 
-##### Cas  d'exception  :
-ces  cas  concernent  les  élèves,  enfants  de  fonctionnaires, d'agents des forces de l'ordre ou des forces armées, de diplomates affectés, ou les élèves dont les parents décédés en cours d'année et qui pour diverses raisons sont obligés de quitter leur domicile habituel de résidence.
+##### 5. Cas d'exception :
+ces cas concernent les élèves, enfants de fonctionnaires, d'agents des forces de l'ordre ou des forces armées, de diplomates affectés, ou les élèves dont les parents décédés en cours d'année et qui pour diverses raisons sont obligés de quitter leur domicile habituel de résidence.
 
 Ces  cas  sont  susceptibles  d'être  examinés  exceptionnellement  après  forclusion,  et satisfaits  dans  la  limite  des  places  disponibles  avec  l'appui  des  pièces  justificatives (décision ou arrêté d'affectation, certificat de décès, etc.).
 
@@ -2568,9 +2392,9 @@ Djibo KA
 
 REPUBLIQUE DU SENEGAL
 
-Un Peuple- Un But- Une Foi MINISTERE DE L'EDUCATION
+Un Peuple- Un But- Une Foi                                      Année : ………
 
-Année : ………
+MINISTERE DE L'EDUCATION
 
 #### FICHE D'EVALUATION
 
@@ -2718,7 +2542,7 @@ Total
 
 MOYENNE
 
-/2O
+/20
 
 79
 
@@ -2726,36 +2550,44 @@ MOYENNE
 
 [[START OF PAGE 80]]
 
-REPUBLIQUE DU SENEGAL Un Peuple- Un But- Une Foi MINISTERE DE L'EDUCATION
+REPUBLIQUE DU SENEGAL
 
-Année : ………
+Un Peuple- Un But- Une Foi                                      Année : ………
+
+MINISTERE DE L'EDUCATION
 
 #### FICHE D'EVALUATION
 ##### PERSONNELS OPERATIONNELS
 
 Prénom(s) | NOM
---- | --- | ---
 Date et lieu de naissance
 Situation matrimoniale | Nombre d'enfants
-N° matricule de solde | Fonction Date
-Grade ou classe date | Echelon Date
+N° matricule de solde | Fonction | Date
+Grade ou classe | date | Echelon | Date
 Date d'entrée dans la Fonction publique | Ancienneté dans le poste
 Diplômes obtenus
 Connaissances accessoires
 Décoration(s)
 Adresse civile
 Nom, Prénom(s) et qualité du Chef de service
-CRITERES D'EXIGENCE PROFESSIONNELLE | Coefficients | Total
-1. Qualités professionnelles | 2 | /40
-• Maîtrise des connaissances techniques • Mobilisation sur les objectifs de son unité • Respect des délais • Probité et conscience professionnelle • Méthode et organisation du travail
-2. comportement au travail | 2 | /40
-• Qualité des relations (services et usagers) • Assiduité ou absences fréquentes du service • Soin apporté dans l'utilisation du matériel
-3. Rendement | 3 | /60
-• Degré d'atteinte des objectifs et des tâches • Bonne utilisation des moyens disponibles
-4. Capacité d'initiative | 3 | /60
+CRITERES D'EXIGENCE PROFESSIONNELLE | Coefficients | Note chiffrée | Total
+1. Qualités professionnelles | 2 | /20 | /40
+• Maîtrise des connaissances techniques
+• Mobilisation sur les objectifs de son unité
+• Respect des délais
+• Probité et conscience professionnelle
+• Méthode et organisation du travail
+2. comportement au travail | 2 | /20 | /40
+• Qualité des relations (services et usagers)
+• Assiduité ou absences fréquentes du service
+• Soin apporté dans l'utilisation du matériel
+3. Rendement | 3 | /20 | /60
+• Degré d'atteinte des objectifs et des tâches
+• Bonne utilisation des moyens disponibles
+4. Capacité d'initiative | 3 | /20 | /60
 • Capacité à concevoir et à proposer des initiatives permettant d'améliorer la manière de servir
-Total | 10 | /200
-MOYENNE | /2O
+Total | 10 | | /200
+MOYENNE | | | /20
 
 80
 
@@ -2765,19 +2597,19 @@ MOYENNE | /2O
 
 ##### Verso de la fiche d'évaluation
 
-###### APPRECIATION GLOBALE DU SUPERIEUR HIERARCHIQUE
+###### 1. APPRECIATION GLOBALE DU SUPERIEUR HIERARCHIQUE
 
 ###### Points Forts
 
 ###### Points à améliorer
 
-###### PERSPECTIVES DE FORMATION
+###### 2. PERSPECTIVES DE FORMATION
 
 ###### Formulées par le collaborateur
 
 ###### Formulées par le supérieur hiérarchique
 
-###### PERSPECTIVES DE CARRIERE ET DE SANCTION DU MERITE
+###### 3. PERSPECTIVES DE CARRIERE ET DE SANCTION DU MERITE
 
 Signature du collaborateur
 
@@ -2795,10 +2627,10 @@ Signature du Supérieur hiérarchique
 
 Sous critères | Définitions | Attitude 1 | Attitude 2 | Attitude 3 | Attitude 4 | Attitude 5
 --- | --- | --- | --- | --- | --- | ---
-Savoir -Savoir faire- compétence technique Habileté au travail | Oublie des données importantes ou retient peu de données et les définit mal | A des difficultés à présenter des solutions et à les mettre en pratique | Trouve des solutions, manque de rigueur dans leur définition | Trouve des solutions et arrive à les mettre en pratique | Identifie les problèmes avec précision. Sait | Maîtrise des connaissances techniques
-Engagement et disponibilité constante de l'agent sur les objectifs fixés, bonne volonté manifeste | N'est pas intéressé par son travail, paresseux, jamais disponible | Manifeste peu d'intérêt pour son travail. Doit être poussé | Participe correctement. Ne proteste jamais si on lui demande de rester après les heures de travail. | Très intéressé par son travail. Manifeste un dynamisme et de réels efforts | Passionné par son travail, s'efforce constamment à mieux faire, reste de lui-même après l'heure si le travail l'exige. | Mobilisation sur les objectifs de son unité
-Exécution des tâches dans les délais fixés | Ne respecte jamais les délais de travail | Accuse parfois du retard dans le travail | Accuse rarement du retard | Respect les délais | Respecte les délais et parfois fait le travail avant l'échéance fixée | Respect des délais
-L'amour du travail bien fait, honnêteté et probité, régularité et application dans le travail | Ne se soucie pas de faire correctement son travail. Les usagers se plaignent de son travail et de son comportement | Se préoccupe un peu de son travail, peu accueillant vis à vis des usagers | Se préoccupe de son travail et cherche à sa satisfaire les usagers | Consciencieux, honnête et cherche à bien faire | Très consciencieux, ne néglige rien, toujours félicité par les usagers | Probité et conscience professionnelle
+Maîtrise des connaissances techniques | Savoir -Savoir faire- compétence technique Habileté au travail | Oublie des données importantes ou retient peu de données et les définit mal | A des difficultés à présenter des solutions et à les mettre en pratique | Trouve des solutions, manque de rigueur dans leur définition | Trouve des solutions et arrive à les mettre en pratique | Identifie les problèmes avec précision. Sait
+Mobilisation sur les objectifs de son unité | Engagement et disponibilité constante de l'agent sur les objectifs fixés, bonne volonté manifeste | N'est pas intéressé par son travail, paresseux, jamais disponible | Manifeste peu d'intérêt pour son travail. Doit être poussé | Participe correctement. Ne proteste jamais si on lui demande de rester après les heures de travail. | Très intéressé par son travail. Manifeste un dynamisme et de réels efforts | Passionné par son travail, s'efforce constamment à mieux faire, reste de lui-même après l'heure si le travail l'exige.
+Respect des délais | Exécution des tâches dans les délais fixés | Ne respecte jamais les délais de travail | Accuse parfois du retard dans le travail | Accuse rarement du retard | Respect les délais | Respecte les délais et parfois fait le travail avant l'échéance fixée
+Probité et conscience professionnelle | L'amour du travail bien fait, honnêteté et probité, régularité et application dans le travail | Ne se soucie pas de faire correctement son travail. Les usagers se plaignent de son travail et de son comportement | Se préoccupe un peu de son travail, peu accueillant vis à vis des usagers | Se préoccupe de son travail et cherche à sa satisfaire les usagers | Consciencieux, honnête et cherche à bien faire | Très consciencieux, ne néglige rien, toujours félicité par les usagers
 
 82
 
@@ -2814,9 +2646,9 @@ Méthode et organisation du travail | Bonne organisation du travail, efficace et
 
 Sous critères | Définitions | Attitude 1 | Attitude 2 | Attitude 3 | Attitude 4 | Attitude 5
 --- | --- | --- | --- | --- | --- | ---
-Esprit d'équipe, solidarité avec les collègues, échange d'expérience avec les autres collègues, bon accueil réservé aux usagers | Frondeur, indiscipliné, caractère asocial | Accepte mal l'autorité des supérieurs. Souvent en difficulté avec les autres | Accepte l'autorité mais peu ouvert et peu participatif | Entretient de bons rapports avec les collègues, ouvert et participatif | Rapports agréables avec tous, collaboration loyale et sûre. On lui demande souvent des conseils. | Qualités des relations
-L'agent ne s'absente qu'exceptionnellement, respecte les heures de travail | Absences injustifiées- Retards fréquents | Quelques absences injustifiées - quelques retards | Rarement absent. Arrive rarement en retard | Pas d'absences ou absences justifiées Pas de retard ou retards toujours justifiés | Pas d'absence Pas de retard | Assiduité ou absences fréquentes du service
-L'agent entretient le matériel qu'il utilise. L'agent provoque rarement des pannes. L'agent signale à temps les anomalies constatées et sollicite une intervention pour maintenance ou réparation | Inconscient de la valeur du matériel. Ne contrôle pas les entrées et les sorties du matériel | Vérifie ou remplace le matériel défectueux | Gère bien son stock Fait prendre conscience de la valeur des équipements | Détecte toujours les tendances de pannes Gère bien le stock | Veille toujours au bon état du matériel Evite le gaspillage | Soin apporté dans l'utilisation du matériel
+Qualités des relations | Esprit d'équipe, solidarité avec les collègues, échange d'expérience avec les autres collègues, bon accueil réservé aux usagers | Frondeur, indiscipliné, caractère asocial | Accepte mal l'autorité des supérieurs. Souvent en difficulté avec les autres | Accepte l'autorité mais peu ouvert et peu participatif | Entretient de bons rapports avec les collègues, ouvert et participatif | Rapports agréables avec tous, collaboration loyale et sûre. On lui demande souvent des conseils.
+Assiduité ou absences fréquentes du service | L'agent ne s'absente qu'exceptionnellement, respecte les heures de travail | Absences injustifiées- Retards fréquents | Quelques absences injustifiées - quelques retards | Rarement absent. Arrive rarement en retard | Pas d'absences ou absences justifiées Pas de retard ou retards toujours justifiés | Pas d'absence Pas de retard
+Soin apporté dans l'utilisation du matériel | L'agent entretient le matériel qu'il utilise. L'agent provoque rarement des pannes. L'agent signale à temps les anomalies constatées et sollicite une intervention pour maintenance ou réparation | Inconscient de la valeur du matériel. Ne contrôle pas les entrées et les sorties du matériel | Vérifie ou remplace le matériel défectueux | Gère bien son stock Fait prendre conscience de la valeur des équipements | Détecte toujours les tendances de pannes Gère bien le stock | Veille toujours au bon état du matériel Evite le gaspillage
 
 83
 
@@ -2828,8 +2660,8 @@ L'agent entretient le matériel qu'il utilise. L'agent provoque rarement des pan
 
 Sous critères | Définitions | Attitude 1 | Attitude 2 | Attitude 3 | Attitude 4 | Attitude 5
 --- | --- | --- | --- | --- | --- | ---
-Efficacité Quantité de travail réalisé par séquences Exécution de toutes les tâches liées au poste de travail | Résultats très faibles % d'efficacité< 30% | Résultats faibles % d'efficacité < 40% | Résultats moyens % d'efficacité < 60% | Assez bons résultats % d'efficacité > 60% | Bons résultats % d'efficacité > 80% | Degré d'atteinte des objectifs et des tâches
-Efficience= économie des ressources utilisées avec atteinte des objectifs définis Absence de gaspillage | Gaspillage des moyens | Pas de gaspillage Le nécessaire est utilisé | Quelque peu efficient | Efficient | Très efficient | Bonne utilisation des moyens
+Degré d'atteinte des objectifs et des tâches | Efficacité Quantité de travail réalisé par séquences Exécution de toutes les tâches liées au poste de travail | Résultats très faibles % d'efficacité< 30% | Résultats faibles % d'efficacité < 40% | Résultats moyens % d'efficacité < 60% | Assez bons résultats % d'efficacité > 60% | Bons résultats % d'efficacité > 80%
+Bonne utilisation des moyens disponibles | Efficience= économie des ressources utilisées avec atteinte des objectifs définis Absence de gaspillage | Gaspillage des moyens | Pas de gaspillage Le nécessaire est utilisé | Quelque peu efficient | Efficient | Très efficient
 
 84
 
@@ -2837,13 +2669,13 @@ Efficience= économie des ressources utilisées avec atteinte des objectifs déf
 
 [[START OF PAGE 85]]
 
+##### IV - APTITUDE A DIRIGER (Personnel de direction et de supervision)
+
 Sous critères | Définitions | Attitude 1 | Attitude 2 | Attitude 3 | Attitude 4 | Attitude 5
 --- | --- | --- | --- | --- | --- | ---
-Aptitude à planifier, à impulser, coordonner, communiquer, motiver les collaborateurs, à organiser le travail, à évaluer les résultats obtenus, à contrôler l'utilisation des ressources | Ne sait pas motiver et entraîner ses subordonnés | Se contente de tenir par formalisme des réunions de coordination | Suscite la collaboration et la participation | A de bons rapports avec son personnel et le pousse au travail | Sait motiver et influencer ses collaborateurs dans le sens de la réalisation des objectifs. | Qualité d'animation et de coordination
-Style de direction (autocratique - paternaliste - laxiste - management participatif) Style de leadership (informatif - délégatif- participatif - négociatif) | Mou - timide, n'ose pas commander | A de l'autorité mais, exagère par des commandements qui énervent ses collaborateurs | A de l'autorité mais à peu de doigté | Son autorité est acceptée par tous. A de l'intérêt par rapport aux relations humaines | Possède la confiance de tous. Sait maintenir avec justice une discipline ferme | Modèle d'autorité et de maturité
-Loyauté vis à vis des autorités. Respect des institutions républicaines. Préoccupations manifestées par rapport aux politiques définies par le Président de la République. Préoccupations par rapport aux besoins et sollicitations. Sauvegarde des intérêts de l'Etat dans les contrats publics | A tendance à défier la hiérarchie. Ne respecte pas les principes de légalité et d'équité dans l'exercice du service public | Se préoccupe peu des politiques définies par les autorités. Ne s'engage pas trop dans la sauvegarde des intérêts de l'Etat | Loyal vis à vis des autorités. Se préoccupe de la qualité du service | Se préoccupe des plans et politiques définies par les autorités. Se soucie de l'amélioration de la qualité du service rendu aux usagers | Manifeste de la passion dans la sauvegarde des intérêts de l'Etat. Assume ses responsabilités dans l'exercice de la mission de service public | Sens des responsabilit és, de l'Etat et du service public
-
-##### IV - APTITUDE A DIRIGER (Personnel de direction et de supervision)
+Qualité d'animation et de coordination | Aptitude à planifier, à impulser, coordonner, communiquer, motiver les collaborateurs, à organiser le travail, à évaluer les résultats obtenus, à contrôler l'utilisation des ressources | Ne sait pas motiver et entraîner ses subordonnés | Se contente de tenir par formalisme des réunions de coordination | Suscite la collaboration et la participation | A de bons rapports avec son personnel et le pousse au travail | Sait motiver et influencer ses collaborateurs dans le sens de la réalisation des objectifs.
+Modèle d'autorité et de maturité | Style de direction (autocratique - paternaliste - laxiste - management participatif) Style de leadership (informatif - délégatif- participatif - négociatif) | Mou - timide, n'ose pas commander | A de l'autorité mais, exagère par des commandements qui énervent ses collaborateurs | A de l'autorité mais à peu de doigté | Son autorité est acceptée par tous. A de l'intérêt par rapport aux relations humaines | Possède la confiance de tous. Sait maintenir avec justice une discipline ferme
+Sens des responsabilités, de l'Etat et du service public | Loyauté vis à vis des autorités. Respect des institutions républicaines. Préoccupations manifestées par rapport aux politiques définies par le Président de la République. Préoccupations par rapport aux besoins et sollicitations. Sauvegarde des intérêts de l'Etat dans les contrats publics | A tendance à défier la hiérarchie. Ne respecte pas les principes de légalité et d'équité dans l'exercice du service public | Se préoccupe peu des politiques définies par les autorités. Ne s'engage pas trop dans la sauvegarde des intérêts de l'Etat | Loyal vis à vis des autorités. Se préoccupe de la qualité du service | Se préoccupe des plans et politiques définies par les autorités. Se soucie de l'amélioration de la qualité du service rendu aux usagers | Manifeste de la passion dans la sauvegarde des intérêts de l'Etat. Assume ses responsabilités dans l'exercice de la mission de service public
 
 85
 
@@ -2855,7 +2687,7 @@ Loyauté vis à vis des autorités. Respect des institutions républicaines. Pr�
 
 Sous critères | Définitions | Attitude 1 | Attitude 2 | Attitude 3 | Attitude 4 | Attitude 5
 --- | --- | --- | --- | --- | --- | ---
-Capacité à concevoir et à proposer des initiatives permettant d'améliorer la manière de servir | Savoir surmonter des difficultés sans attendre des instructions de la part des supérieurs Savoir prendre des risques dans le respect du cadre législatif | N'attend que des instructions pour agir Ne prend aucune initiative | Tente de prendre des initiatives mais, ne va pas au bout de ce qu'il entreprend | Sait entreprendre mais manque de confiance en lui- même | Malgré l'insuffisance des moyens, parvient à faire de bons résultats A de l'initiative et de la détermination | A l'art de surmonter des difficultés Prend des initiatives dans le respect de la réglementation A beaucoup d'initiatives
+Capacité à concevoir et à proposer des initiatives permettant d'améliorer la manière de servir | Savoir surmonter des difficultés sans attendre des instructions de la part des supérieurs Savoir prendre des risques dans le respect du cadre législatif | N'attend que des instructions pour agir Ne prend aucune initiative | Tente de prendre des initiatives mais, ne va pas au bout de ce qu'il entreprend | Sait entreprendre mais manque de confiance en lui-même | Malgré l'insuffisance des moyens, parvient à faire de bons résultats A de l'initiative et de la détermination | A l'art de surmonter des difficultés Prend des initiatives dans le respect de la réglementation A beaucoup d'initiatives
 
 86
 
@@ -2927,18 +2759,11 @@ N.B :
 
 - les demandes de transfert ne sont satisfaites que dans la limite des places disponibles
 
-- 1)
-
-- Avis de l'établissement d'origine                                 3) Avis de l'établissement sollicité
-
+1) Avis de l'établissement d'origine                                 3) Avis de l'établissement sollicité
 * Favorable                                                                               * Favorable
-
 * Non favorable                                                                       * Non favorable
-
-- Avis de l'IDEN d'origine                                               4) Avis de l'IDEN d'accueil
-
+2) Avis de l'IDEN d'origine                                               4) Avis de l'IDEN d'accueil
 * Conforme                                                                               * Conforme
-
 * Non-conforme                                                                      * Non-conforme
 
 Très important
@@ -2969,215 +2794,30 @@ Classe fréquentée : ……………… Classe redoublée : ………………D
 
 Date d'arrivée dans l'établissement : ……………………Par orientation …………………..Par transfert…………………………..Etablissement d'origine en cas de transfert……………………………………..
 
-Situation familiale ?
+Situation familiale ? | Parents vivants : P* M* | Parent(s) décédé (s) : P* M* | Vit avec : P* M* A*
+Cochez la mention correspondante | Pour quelle raison ?
 
-Parents vivants
+Profession des parents ? | Mère : S* A L* SR* | Père : S* A L* SR* | Tuteur : S* A L* SR*
 
-Parent(s) décédé (s)
+Distance lieu de résidence - établissement ? | 0-2km | 2-5km | Plus de 5km
 
-Vit avec
+Moyen de déplacement vers l'école ? | A pied | En véhicule | Autres (précisez) :
 
-Cochez  la mention correspondante
-
-Pour quelle raison ?
-
-Profession des parents ?
-
-Mère
-
-Père
-
-Tuteur
-
-Distance lieu  de résidence -
-
-établissement ?
-
-0-2km                                                                                                                  2-5km                                                                                                                                 Plus de 5km
-
-Moyen de déplacement vers
-
-l'école ?
-
-A pied
-
-En véhicule                                                            Autres
-
-(précisez) :
-
-Boursier ?
-
+Boursier ? | OUI | NON
 Nature et montant :
 
-Maladie /handicap ?
-
+Maladie /handicap ? | OUI | NON
 Précisez :
-
 Bénéficiez-vous de dispositions particulières de prise en charge ? si oui précisez :
 
-Activités para et périscolaires ?
-
+Activités para et périscolaires ? | OUI | NON
 Préciser :
 
 Tâches domestiques
 
-Profil de l'élève et dispositions particulières à prendre pour faire face à la vulnérabilité à la déperdition scolaire
+Profil de l'élève et dispositions particulières à prendre pour faire face à la vulnérabilité à la déperdition scolaire | A laisser à l'appréciation du Chef d'établissement
 
-A laisser à l'appréciation du Chef d'établissement
-
-P*
-
-M*
-
-P*
-
-M*
-
-M*
-
-P*
-
-A*
-
-S*
-
-A L*
-
-SR*
-
-S*
-
-A L*
-
-SR*
-
-S*
-
-A L*
-
-SR*
-
-OUI
-
-NON
-
-OUI
-
-NON
-
-OUI
-
-NON
-
-Prénom et Nom de l'élève : ……………………………………………sexe………………………………………….Tél…………………………E-mail………………… contact : (tél, mail parents/tuteurs ………………
-
-Date et lieu de naissance : …………………………………………………………………………………………………………………………………………….
-
-Classe fréquentée : ……………… Classe redoublée : ………………Distinction(s) obtenue (s) ………………………………………………………………………………………………………………………………………………..
-
-Date d'arrivée dans l'établissement : ……………………Par orientation …………………..Par transfert…………………………..Etablissement d'origine en cas de transfert……………………………………..
-
-Situation familiale ?
-
-Parents vivants
-
-Parent(s) décédé (s)
-
-Vit avec
-
-Cochez  la mention correspondante
-
-Pour quelle raison ?
-
-Profession des parents ?
-
-Mère
-
-Père
-
-Tuteur
-
-Distance lieu  de résidence -
-
-établissement ?
-
-0-2km                                                                                                                  2-5km                                                                                                                                 Plus de 5km
-
-Moyen de déplacement vers
-
-l'école ?
-
-A pied
-
-En véhicule                                                            Autres
-
-(précisez) :
-
-Boursier ?
-
-Nature et montant :
-
-Maladie /handicap ?
-
-Précisez :
-
-Bénéficiez-vous de dispositions particulières de prise en charge ? si oui précisez :
-
-Activités para et périscolaires ?
-
-Préciser :
-
-Tâches domestiques
-
-Profil de l'élève et dispositions particulières à prendre pour faire face à la vulnérabilité à la déperdition scolaire
-
-A laisser à l'appréciation du Chef d'établissement
-
-P*
-
-M*
-
-P*
-
-M*
-
-M*
-
-P*
-
-A*
-
-S*
-
-A L*
-
-SR*
-
-S*
-
-A L*
-
-SR*
-
-S*
-
-A L*
-
-SR*
-
-OUI
-
-NON
-
-OUI
-
-NON
-
-OUI
-
-NON
-
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 88
 
@@ -3210,7 +2850,7 @@ NB : Afin  de  garantir  la  traçabilité  du  courrier,  il  est  souhaitable 
 ##### SECTION I - PERSONNELS AUTORISÉS A EFFECTUER DES TRAVAUX SUPPLEMENTAIRES
 
 ###### ARTICLE 2 :
-Les catégories d'emploi dont les titulaires peuvent être autorisés à effectuer des  travaux  supplémentaires  rémunérés  par  des  indemnités  sont  déterminés  pour chaque  gestion  budgétaire  et  suivant  les  besoins  des  différents  services  par  des décisions conjointes du Ministre intéressé et du Ministre chargé des Finances.
+Les catégories d'emploi dont les titulaires peuvent être autorisés à effectuer des travaux supplémentaires rémunérés par des indemnités sont déterminés pour chaque gestion budgétaire et suivant les besoins des différents services par des décisions conjointes du Ministre intéressé et du Ministre chargé des Finances.
 
 Le mandatement des indemnités pour travaux supplémentaires au profit des personnels autorisés s'effectue sans limitation d'effectif mais dans la limite des crédits prévus à cet effet par la loi de finances de l'année.
 
@@ -3227,11 +2867,7 @@ Aucune indemnité horaire pour travaux supplémentaires ne peut être attribuée
 Ne peuvent être considérés comme travaux supplémentaires susceptibles d'être rémunérés par des indemnités horaires les travaux qui, quelque soit leur nature, ont été accomplis pendant les heures normales de travail
 
 ###### ARTICLE 5 :
-Ne  peuvent  ouvrir droit à rémunération les travaux supplémentaires qui ont  été  compensés  par  une  absence  d'égale  durée  pendant  les  heures  normales  de travail. Il en est de même pour les agents qui les ont effectués mais n'ont pas fourni un travail  horaire  au  moins  égal  à  celui  auquel  ils  sont  astreints  pendant  les  heures normales de service.
-###### ARTICLE 6 :
-Les travaux supplémentaires effectués par le personnel autorisé ne peuvent dépasser 60 heures par mois et par agent.
-###### ARTICLE  7 :
-les  indemnités  horaires  pour  travaux  supplémentaires  ne  peuvent  être cumulées  par  un  même  agent  avec  des  rémunérations  pour  travaux  à  la  tâche,  des indemnités forfaitaires pour travaux supplémentaires ni avec les indemnités de fonction. Elles  ne  peuvent  plus  être  attribuées  à  un  agent  pendant  la  période  où  il  bénéficie d'indemnités journalières pour frais de tournées ou de missions.
+Ne peuvent ouvrir droit à rémunération les travaux supplémentaires qui ont été compensés par une absence d'égale durée pendant les heures normales de travail. Il en est de même pour les agents qui les ont effectués mais n'ont pas fourni un
 
 90
 
@@ -3239,20 +2875,27 @@ les  indemnités  horaires  pour  travaux  supplémentaires  ne  peuvent  être 
 
 [[START OF PAGE 91]]
 
+travail horaire au moins égal à celui auquel ils sont astreints pendant les heures normales de service.
+
+###### ARTICLE 6 :
+Les travaux supplémentaires effectués par le personnel autorisé ne peuvent dépasser 60 heures par mois et par agent.
+
+###### ARTICLE 7 :
+les indemnités horaires pour travaux supplémentaires ne peuvent être cumulées par un même agent avec des rémunérations pour travaux à la tâche, des indemnités forfaitaires pour travaux supplémentaires ni avec les indemnités de fonction. Elles ne peuvent plus être attribuées à un agent pendant la période où il bénéficie d'indemnités journalières pour frais de tournées ou de missions.
+
 ##### SECTION III - TAUX DES INDEMNITES POUR TRAVAUX SUPPLEMENTAIRES
 
 ###### ARTICLE 8 :
-Les  indemnités horaires pour travaux supplémentaires sont calculées en prenant  pour  base  le  total du  traitement  indiciaire,  du  complément  spécial,  de l'indemnité de résidence et de l'indemnité d'attente à l'exclusion de tous autres éléments de la rémunération, notamment des indemnités destinées à tenir compte de la situation de famille (prestations familiales, supplément  familial de traitement, majoration familiale). le total obtenu est majoré de 62% pour le personnel relevant du groupe III et de 30% pour le personnel du groupe II. Le traitement et les indemnités sont pris en compte pour la formation de ce total, pour leur montant annuel d'après la situation des intéressés au moment de l'accomplissement des travaux supplémentaires. Pour obtenir le taux horaire applicable à chaque agent, ce total est divisé par le nombre 1000 pour le personnel astreint à une durée de travail de quarante heures et plus par semaine. Le  taux  horaire  ainsi  obtenu  est  arrondi  au  franc  le  plus  voisin,  le  demi  franc  étant arrondi au franc supérieur.
+Les indemnités horaires pour travaux supplémentaires sont calculées en prenant pour base le total du traitement indiciaire, du complément spécial, de l'indemnité de résidence et de l'indemnité d'attente à l'exclusion de tous autres éléments de la rémunération, notamment des indemnités destinées à tenir compte de la situation de famille (prestations familiales, supplément familial de traitement, majoration familiale). le total obtenu est majoré de 62% pour le personnel relevant du groupe III et de 30% pour le personnel du groupe II.
+
+Le traitement et les indemnités sont pris en compte pour la formation de ce total, pour leur montant annuel d'après la situation des intéressés au moment de l'accomplissement des travaux supplémentaires.
+
+Pour obtenir le taux horaire applicable à chaque agent, ce total est divisé par le nombre 1000 pour le personnel astreint à une durée de travail de quarante heures et plus par semaine.
+
+Le taux horaire ainsi obtenu est arrondi au franc le plus voisin, le demi franc étant arrondi au franc supérieur.
+
 ###### ARTICLE 9 :
-Les  heures  supplémentaires effectuées de 22 heures à 7 heures sont des heures de nuit. Elles sont toujours rémunérées au tarif prévu pour les heures normales, majoré de 100 %. Les heures supplémentaires effectuées les dimanches et jours fériés sont rémunérées au tarif prévu pour les heures normales, majoré de 50%
-###### ARTICLE  10 :
-Dans  un  but  de  simplification  des  décomptes,  les  indemnités  horaires pour travaux supplémentaires seront calculées quelque soit l'indice du fonctionnaire en cause, sur la base de: L'indice moyen 675 pour  les  agents  classés au groupe III (indice  égal  ou  inférieur  à 1021 inclus ) L'indice  moyen  1140 pour  les  agents  classés  au groupe  II ( indice  1201  à  1948 inclus ) L'indice moyen 1562 pour les agents classés au groupe I ( indice supérieur à 1948 ) Ce mode de décompte est applicable aux contractuels et aux décisionnaires ne relevant pas des conventions collectives. Leur classement dans les groupes est déterminé par le contrat ou la décision d'engagement dans les conditions fixées par l'article 10 du décret 77.080 du 28 Janvier 1977.
-###### ARTICLE 11 :
-Les taux des indemnités horaires pour travaux supplémentaires sont fixés par l'annexe au présent décret
-###### ARTICLE  12 :
-Les  présentes  dispositions  ne  sont  pas  applicables  aux  personnels enseignants qui restent soumis à une réglementation spéciale.
-###### ARTICLE 13 :
-Les fonctionnaires, employés ou agents, dont les attributions normales ne concourent pas à la fonction enseignante, perçoivent, lorsqu'ils sont chargés  de cours dans  un  établissement  scolaire,  les  indemnités  pour  travaux  supplémentaires  qui seraient  alloués  au  personnel  enseignant  de  l'établissement  pour  assurer  les  mêmes cours en sus de l'horaire normal.
+Les heures supplémentaires effectuées de 22 heures à 7 heures sont des heures de nuit. Elles sont toujours rémunérées au tarif prévu pour les heures normales,
 
 91
 
@@ -3260,7 +2903,29 @@ Les fonctionnaires, employés ou agents, dont les attributions normales ne conco
 
 [[START OF PAGE 92]]
 
-Lorsqu'aucune  rétribution  particulière  n'est  pas  prévue  pour  les  cours  dont  ils  sont chargés, les fonctionnaires et agents bénéficient d'indemnités horaires calculées sur la base des taux prévus  pour les heures normales. La même rétribution leur est allouée pour  les  cours  de  perfectionnement  technique  ou  professionnel  dispensés  aux  agents d'un service administratif.
+majoré de 100 %. Les heures supplémentaires effectuées les dimanches et jours fériés sont rémunérées au tarif prévu pour les heures normales, majoré de 50%
+
+###### ARTICLE 10 :
+Dans un but de simplification des décomptes, les indemnités horaires pour travaux supplémentaires seront calculées quelque soit l'indice du fonctionnaire en cause, sur la base de:
+
+L'indice moyen 675 pour les agents classés au groupe III (indice égal ou inférieur à 1021 inclus)
+
+L'indice moyen 1140 pour les agents classés au groupe II (indice 1201 à 1948 inclus)
+
+L'indice moyen 1562 pour les agents classés au groupe I (indice supérieur à 1948)
+
+Ce mode de décompte est applicable aux contractuels et aux décisionnaires ne relevant pas des conventions collectives. Leur classement dans les groupes est déterminé par le contrat ou la décision d'engagement dans les conditions fixées par l'article 10 du décret 77.080 du 28 Janvier 1977.
+
+###### ARTICLE 11 :
+Les taux des indemnités horaires pour travaux supplémentaires sont fixés par l'annexe au présent décret
+
+###### ARTICLE 12 :
+Les présentes dispositions ne sont pas applicables aux personnels enseignants qui restent soumis à une réglementation spéciale.
+
+###### ARTICLE 13 :
+Les fonctionnaires, employés ou agents, dont les attributions normales ne concourent pas à la fonction enseignante, perçoivent, lorsqu'ils sont chargés de cours dans un établissement scolaire, les indemnités pour travaux supplémentaires qui seraient alloués au personnel enseignant de l'établissement pour assurer les mêmes cours en sus de l'horaire normal.
+
+Lorsqu'aucune rétribution particulière n'est pas prévue pour les cours dont ils sont chargés, les fonctionnaires et agents bénéficient d'indemnités horaires calculées sur la base des taux prévus pour les heures normales. La même rétribution leur est allouée pour les cours de perfectionnement technique ou professionnel dispensés aux agents d'un service administratif.
 
 92
 
@@ -3270,10 +2935,10 @@ Lorsqu'aucune  rétribution  particulière  n'est  pas  prévue  pour  les  cour
 
 La décision individuelle chargeant de cours un fonctionnaire précise dans tous les cas le montant de l'indemnité horaire à lui allouer et le maximum d'heures dont la rétribution est autorisée mensuellement dans les conditions prévues à l'article 6.
 
-Les  indemnités  prévues  aux  premier  et  deuxième  alinéas  du  présent  article  ne  sont allouées que pour les travaux accomplis dans les conditions fixées par l'article 4.
+Les indemnités prévues aux premier et deuxième alinéas du présent article ne sont allouées que pour les travaux accomplis dans les conditions fixées par l'article 4.
 
-###### ARTICLE  14 :
-sont  abrogées  toutes  dispositions  contraires  au  présent  décret  et notamment le décret 79.080 du 28 Janvier 1977.
+###### ARTICLE 14 :
+sont abrogées toutes dispositions contraires au présent décret et notamment le décret 79.080 du 28 Janvier 1977.
 
 93
 
@@ -3283,25 +2948,28 @@ sont  abrogées  toutes  dispositions  contraires  au  présent  décret  et not
 
 #### TRAITEMENT DES HEURES SUPPLEMENTAIRES, COMPLEMENTS D'HORAIRES, MAXIMA DE SERVICES, MAJORATION DE SERVICE, HEURES DE VACATION
 
-REPUBLIQUE DU SENEGAL                                                              N° 003538/MEN/DC/DEMSG MINISTERE DE L4EDUCATION NATIONALE DIRECTION DE L'ENSEIGNEMENT MOYEN                                            Dakar le 21 juin 1993 SECONDAIRE GENERAL
+REPUBLIQUE DU SENEGAL                                                              N° 003538/MEN/DC/DEMSG
+MINISTERE DE L4EDUCATION NATIONALE
+DIRECTION DE L'ENSEIGNEMENT MOYEN                                            Dakar le 21 juin 1993
+SECONDAIRE GENERAL
 
 #### CICULAIRE
 
 Aux
 
--Inspecteurs d'Académie
+- Inspecteurs d'Académie
 
--Chefs d'Etablissement d'Enseignement Moyen et secondaire Général et techniques
+- Chefs d'Etablissement d'Enseignement Moyen et secondaire Général et techniques
 
--Aux Directeurs de Blocs Scientifiques
-
--Heures Supplémentaires,
-
--Compléments d'horaires, maxima de services,
-
--Majoration de service, heures de vacation
+- Aux Directeurs de Blocs Scientifiques
 
 OBJET : Rappels sur le traitement des :
+
+- Heures Supplémentaires,
+
+- Compléments d'horaires, maxima de services,
+
+- Majoration de service, heures de vacation
 
 REFERENCES :
 
@@ -3327,7 +2995,7 @@ Le  traitement  des  heures  supplémentaires  ainsi  que  le  calcul  et  l'att
 
 Les textes visés ont été pris à des époques assez lointaines les unes des autres, ce qui a pu  entraîner  des  interprétations  erronées,  soit  restrictives  souvent  au  détriment  des enseignants.
 
-Il  convient donc d »e procéder à des rappels et à des mises au point ponctuels sur les thèmes  et  sujets  controversés  pour  apporter  une  plus  grande  harmonisation  dans  le traitement de ces questions.
+Il convient donc de procéder à des rappels et à des mises au point ponctuels sur les thèmes et sujets controversés pour apporter une plus grande harmonisation dans le traitement de ces questions.
 
 ##### Décharges horaires
 
@@ -3371,9 +3039,9 @@ Exemple : les heures données dans deux ou plusieurs classes de première A ne c
 
 ###### 3) Décharge pour heure de laboratoire
 
-- Le  professeur  de  sciences  physiques  ou  sciences  naturelles  responsable  du laboratoire  est  considéré  comme  effectuant  à  ce  titre  une  heure  de  service hebdomadaire.
+a) Le professeur de sciences physiques ou sciences naturelles responsable du laboratoire est considéré comme effectuant à ce titre une heure de service hebdomadaire.
 
-- Dans les établissements qui ne disposent d'aucun personnel de  laboratoire, les professeurs  qui  assurent  au  moins  huit  heures  d'enseignement  en  sciences physiques bénéficient d'une réduction de service d'une heure.
+b) Dans les établissements qui ne disposent d'aucun personnel de laboratoire, les professeurs qui assurent au moins huit heures d'enseignement en sciences physiques bénéficient d'une réduction de service d'une heure.
 
 Les décharges citées aux paragraphes a et b ne peuvent en aucun cas se cumuler.
 
@@ -3405,15 +3073,13 @@ Exemple :  Dans  un  bloc  scientifique ou  officient  quatre  professeurs  de  
 
 ###### 4) Décharge pour les Conseillers Pédagogiques
 
-- Les professeurs animateurs pédagogiques (un par établissement et par discipline) bénéficient à ce titre d'une décharge de trois (3) professeurs.
+a) Les professeurs animateurs pédagogiques (un par établissement et par discipline) bénéficient à ce titre d'une décharge de trois (3) professeurs.
 
-- b)
+b) Les conseillers pédagogiques (à raison d'un conseiller pour deux stagiaires au plus) bénéficient d'une réduction horaire hebdomadaire de deux (2) heures.
 
-- Les conseillers pédagogiques (à raison d'un conseiller pour deux stagiaires au plus) bénéficient d'une réduction horaire hebdomadaire de deux (2) heures.
+C'est le cas du lycée d'application Thierno Seydou Nourou Tall et des professeurs cooptés comme maître d'application pour les différents départements de l'Ecole Normale Supérieure et officiant dans les établissements autres que le lycée d'application. Pour ces professeurs la décharge est annuelle et doit être renouvelée chaque année.
 
-C'est le cas du lycée d'application Thierno Seydou Nourou Tall et des professeurs cooptés comme maître d'application pour les différents départements de l'Ecole Normale  Supérieure  et  officiant  dans  les  établissements  autres  que  le  lycée d'application. Pour  ces professeurs la décharge  est annuelle et doit être renouvelée chaque année.
-
-- La décharge accordée aux conseillers pédagogiques itinérants est précisée dans l'ordre de service les nommant.
+c) La décharge accordée aux conseillers pédagogiques itinérants est précisée dans l'ordre de service les nommant.
 
 ###### 5) Décharge pour les professeurs d'Education Physique et Sportive
 
@@ -3439,7 +3105,7 @@ Le professeur chargé de bibliothèque est considéré comme effectuant à ce ti
 
 [[START OF PAGE 98]]
 
-- nécessités de service, à compléter cet horaire dans un ou plusieurs établissements autres que le poste où ils sont affectés ;
+nécessités de service, à compléter cet horaire dans un ou plusieurs établissements autres que le poste où ils sont affectés ;
 
 -Les  professeurs    ainsi  sollicités  sont  tenus  d'effectuer  le  complément  dans  la limite     de leur horaire normal de service.
 
@@ -3473,6 +3139,57 @@ Le professeur chargé de bibliothèque est considéré comme effectuant à ce ti
 
 #### CIRCULAIRE N° 004898 MEPEMSLN/SG/DEMSGDT RELATIF A L'APPLICATION DU DECRET DETERMINANT LES SERVICES HEBDOMADAIRES DU PERSONNEL ENSEIGNANT ET DU PERSONNEL DE SURVEILLANCE DES ETABLISSEMENTS DE L'ENSEIGNEMENT MOYEN SECONDAIRE
 
+République du Sénégal
+Un Peuple-Un But-Une Foi
+
+Ministère de l'Enseignement Préscolaire, de l'Élémentaire, du Moyen Secondaire et des Langues Nationales
+DIRECTION DE L'ENSEIGNEMENT MOYEN SECONDAIRE GÉNÉRAL
+
+Le Ministre
+
+N° 004898 MEPEMSLN/SG/DEMSG.DT
+Dakar, le 14 OCT. 2010
+
+#### LETTRE-CIRCULAIRE
+
+Objet : Application du décret déterminant les services hebdomadaires du personnel enseignant et du personnel de surveillance des établissements de l'enseignement moyen secondaire général
+
+Référence : Décret 2007-1587 du 31-12-07, modifiant le décret 65-541 du 21-07-65 portant détermination des maxima de services hebdomadaires du personnel enseignant et du personnel de surveillance des établissements d'enseignement du 2nd degré et d'enseignement technique
+
+Le décret 2007-1587-07 du 31-12-07, qui abroge le décret 65-541 du 21-07-65, fixe les maxima des services hebdomadaires comme suit :
+
+Grade | Service hebdomadaire
+Professeur d'Enseignement Secondaire (PES)
+Professeur d'Education Physique et Sportive (PEPS)
+Professeur d'Enseignement Moyen (PEM)
+Professeur d'Education Artistique et Musicale (PEAM)
+Professeur Contractuel de même grade | 21 heures hebdomadaires
+Professeur de Collège d'Enseignement Moyen (PCEM)
+Professeur Contractuel de même grade
+Instituteur chargé de cours
+Maître d'Education Physique et Sportive (MEPS)
+Maître d'Education Artistique et Musicale (MEAM) | 25 heures hebdomadaires
+
+Depuis l'entrée en vigueur de ces nouvelles dispositions en matière de service hebdomadaire des professeurs, il m'a été donné de constater un manque de rigueur dans son application.
+
+C'est pourquoi, je vous demande de tout mettre en œuvre pour faire respecter le volume horaire hebdomadaire des professeurs, comme fixé dans ce présent décret.
+
+Chaque fois que de besoin, je vous exhorte à tenir compte de la proximité géographique pour attribuer aux professeurs des compléments horaires dans les établissements les plus proches.
+
+J'attache du prix à l'exécution diligente et correcte de ces instructions.
+
+A
+Madame et Messieurs les Inspecteurs d'Académie
+Mesdames et Messieurs les Inspecteurs Départementaux de l'Education
+
+Ampliations :
+- MEPEMSLN/SG
+- MEPEMSLN/DC
+
+Pour le Ministre et par Délégation
+Le Directeur de l'Enseignement Moyen Secondaire Général
+ALIOUNE NDIAYE
+
 99
 
 [[END OF PAGE 99]]
@@ -3498,14 +3215,14 @@ DISCIPLINE | NBRE DE CLASSES | HORAIRE PROF. E.T. | PRENOMS ET NOM DES PROFESSEU
 
 Fait à ……………………………………….le………………………………………………
 
-Le Chef d'établissement REPUBLIQUE DU SENEGAL
+Le Chef d'établissement
 
 100
 
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
-
+REPUBLIQUE DU SENEGAL
 MINISTERE DE L'EDUCATION NATIONALE
 
 ACADEMIE DE ……………………………………………………………..
@@ -3523,12 +3240,26 @@ DU | AU
 
 Fait à ……………………………………….le………………………………………………
 
-101 Le Chef d'établissement REPUBLIQUE DU SENEGAL                                                                                              PRENOMS ET NOM   : MINISTERE DE L'EDUCATION NATIONALE                                                               DISCIPLINE : ACADEMIE DE ……………………………………………………………..                                    MATRICULE : COLLEGE/LYCEE ……………………………………………………………                                 CORPS ET GRADE  : INDICE :
+Le Chef d'établissement
+
+101
 
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
+REPUBLIQUE DU SENEGAL
 
+MINISTERE DE L'EDUCATION NATIONALE
+
+ACADEMIE DE ……………………………………………………………..
+
+COLLEGE/LYCEE ……………………………………………………………
+
+PRENOMS ET NOM :
+DISCIPLINE :
+MATRICULE :
+CORPS ET GRADE :
+INDICE :
 ##### EMPLOI DU TEMPS DES HEURES SUPPLEMENTAIRES
 ANNEE SCOLAIRE  20…………. / 20………………
 
@@ -3541,10 +3272,17 @@ JEUDI
 VENDREDI
 SAMEDI
 
-Maximum hebdomadaire : Total heures prof sur E. Temps : | CLASSES
---- | ---
-Décharge : Total horaire compte tenu de la majoration : Ou de la décharge : | HORAIRES PROF
-Majoration : Heures supplémentaires proposées : | EFFECTIFS
+Maximum hebdomadaire :
+Total heures prof sur E. Temps :
+Décharge :
+Total horaire compte tenu de la majoration :
+Ou de la décharge :
+Majoration :
+Heures supplémentaires proposées :
+
+CLASSES
+HORAIRES PROF
+EFFECTIFS
 
 Fait à ……………………………………….le………………………………………………
 
@@ -3574,25 +3312,22 @@ DU | AU
 
 Fait à ……………………………………….le………………………………………………
 
-Le Chef d'établissement NB : Une lettre justificative des heures supplémentaires doit accompagner les tableaux ci-dessus. Dans cette lettre, le CE doit préciser :
+Le Chef d'établissement
 
 103
 
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
+NB : Une lettre justificative des heures supplémentaires doit accompagner les tableaux
+ci-dessus. Dans cette lettre, le CE doit préciser :
 
-- checkbld le nombre de classes pédagogiques ;
-
-- checkbld le nombre de professeur avec leur corps d'appartenance ;
-
-- checkbld les décharges horaires ;
-
-- checkbld les responsables de cellules ;
-
-- checkbld les CPR/CPI
-
-- checkbld les OS nommant les CPR/CPI
+- le nombre de classes pédagogiques ;
+- le nombre de professeur avec leur corps d'appartenance ;
+- les décharges horaires ;
+- les responsables de cellules ;
+- les CPR/CPI
+- les OS nommant les CPR/CPI
 
 ##### ATTENTION :
 
@@ -3629,7 +3364,7 @@ Cependant il ne peut bénéficier ni de la décharge horaire pour classes nombre
 
 ###### d) A temps partiel
 
-Pour le PCEM ou le CE appelé à enseigner à temps partiel dans l'Enseignement Moyen (1 er   cycle)  et  à  temps  partiel  dans  l'Enseignement  Secondaire  (2 ème   cycle),  les  heures effectuées dans ce dernier cas sont multipliées par le rapport 25/21 ème.
+Pour le PCEM ou le CE appelé à enseigner à temps partiel dans l'Enseignement Moyen (1er cycle) et à temps partiel dans l'Enseignement Secondaire (2ème cycle), les heures effectuées dans ce dernier cas sont multipliées par le rapport 25/21ème.
 
 ###### Majoration d'Horaire
 
@@ -3706,9 +3441,6 @@ Le chef d'établissement
 ###### Avis du Médecin
 
 - Vu(e) et traité(e)
-
--
-
 - Repos médical de………….
 
 Cachet, date et signature
@@ -3789,7 +3521,7 @@ Motif de l'absence :
 
 ....................................................................................................................................................................................
 
-Important : S'agissant des absences pour convenance personnelle, l'agent  doit préciser ci- après le (les) jour(s)  retenu (s) pour compenser les heures de cours perdues ,
+Important : S'agissant des absences pour convenance personnelle, l'agent doit préciser ci-après le (les) jour(s) retenu (s) pour compenser les heures de cours perdues,
 
 Jour(s) et heure(s) de rattrapage : ..............................................................................................................
 
@@ -3815,9 +3547,9 @@ Part à la charge de l'employeur : 80%
 
 ###### DESIGNATION
 
-- Budget 601 article 9520
-
-- De l'ordonnateur de dépenses 20 609 Centre Peytavin, Ministère des Finances
+A. Budget 601 article 9520
+B. De l'ordonnateur de dépenses 20 609
+Centre Peytavin, Ministère des Finances
 
 Prénom :
 
@@ -3853,8 +3585,8 @@ Objet : Proposition de nomination de coordonnateurs de cellules pédagogiques
 
 Conformément  à  l'arrêté  n°  03317/MEENMSLN  du  15  Septembre  2011  relatif  à l'organisation et au fonctionnement des cellules pédagogiques,  les professeurs dont les noms  suivent  sont  proposés  comme  coordonnateurs  de  cellule  pédagogique  pour l'année scolaire 20…………20………………..
 
-N° | Prénom(s) | Nom | Discipline | Matricule/grade | Ancienneté l'enseignement | dans
---- | --- | --- | --- | --- | --- | ---
+N° | Prénom(s) | Nom | Discipline | Matricule/grade | Ancienneté dans l'enseignement
+--- | --- | --- | --- | --- | ---
 01
 02
 03
@@ -3911,8 +3643,10 @@ Signature et cachet
 
 ##### Suivi des absences des professeurs
 
-Jour | Nbre total de professeurs absents | Philo | Fçais. | Angl. | Math | SP | SVT | HG | LV2 | EPS | Econ. | Ed. Art | Ed Mus.
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Répartition des absences de professeurs par heure et par discipline
+
+Jour | Nbre total d'heures perdues | Nbre total de professeurs absents | Philo | Fçais. | Angl. | Math | SP | SVT | HG | LV2 | EPS | Econ. | Ed. Art | Ed Mus.
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 L
 M
 M
@@ -3936,9 +3670,9 @@ S
 
 ##### Suivi des activités des organes de gestion et de concertation
 
-Nombre total d'activités | Répartition par type d'activités | Répartition | par type structure | de | Durée totale des activités | Moyenne temps par activité
---- | --- | --- | --- | --- | --- | --- | ---
-JOUR | Réunions | Manifestations | Représentation | Autres | CAP | Clubs FSE | GS
+Nombre total d'activités | Répartition par type d'activités | Répartition par type de structure | Durée totale des activités | Moyenne temps par activité
+--- | --- | --- | --- | ---
+JOUR | Réunions | Manifestations | Représentation | Autres | CGE | CAP | Clubs | FSE | GS
 L
 M
 M
@@ -3956,9 +3690,9 @@ S
 
 ETAPES | QUOI ? | QUI ? | COMMENT ?
 --- | --- | --- | ---
-checkbld Préparation des documents de présentation à partir du rapport bilan de l'année écoulée : - résultats aux examens taux de promotion interne, de redoublement, d'abandon ; - faire le point sur les structures ; checkbld Définition de l'ordre du jour ; checkbld Convocation du personnel; checkbld Préparation du lieu de la rencontre (veiller autant que possible à la commodité des lieux) ; | Le CE en collaboration avec - Censeur ; - SG ; - l'intendant(e) ; - Comptable matières ; - Personnel d'appoint. | - Tenue de réunions préparatoires ; - Exploitation des documents ; - Reprographie | PHASE PREPARATOIRE
-checkbld Cérémonie protocolaire - Mot de bienvenue - Présentation des nouveaux - information sur les départs : retraités, mutés, décorés, promus, etc. checkbld Partage de l'ordre du jour checkbld Désignation d'un rapporteur checkbld Communication checkbld Echanges checkbld Synthèse : consensus forts, directives checkbld Procès verbal à afficher (large diffusion), à archiver et à envoyer à la hiérarchie | checkbld CE checkbld Participants checkbld CE checkbld Rapporteur | checkbld Présentation (possibilité d'une présentation Powerpoint) checkbld Distribution de la documentation checkbld Modalité : plénière | TENUE DE LA REUNION
-checkbld Mise en place d'organes de gestion et de concertation (veiller à leur fonctionnalité pour l'application des conclusions de la réunion) : - CGE, FSE/Gouvernement Scolaire, AS, Cellule Genre, Cellules pédagogiques, APE checkbld Tenue des conseils d'enseignement | CE | Plan de suivi - évaluation des conclusions | SUIVI DES CONCLUSIONS
+PHASE PREPARATOIRE | - Préparation des documents de présentation à partir du rapport bilan de l'année écoulée : - résultats aux examens taux de promotion interne, de redoublement, d'abandon ; - faire le point sur les structures ; - Définition de l'ordre du jour ; - Convocation du personnel; - Préparation du lieu de la rencontre (veiller autant que possible à la commodité des lieux) ; | Le CE en collaboration avec - Censeur ; - SG ; - l'intendant(e) ; - Comptable matières ; - Personnel d'appoint. | - Tenue de réunions préparatoires ; - Exploitation des documents ; - Reprographie
+TENUE DE LA REUNION | - Cérémonie protocolaire - Mot de bienvenue - Présentation des nouveaux - information sur les départs : retraités, mutés, décorés, promus, etc. ; - Partage de l'ordre du jour ; - Désignation d'un rapporteur ; - Communication ; - Echanges ; - Synthèse : consensus forts, directives ; - Procès verbal à afficher (large diffusion), à archiver et à envoyer à la hiérarchie | CE ; Participants ; CE ; Rapporteur | - Présentation (possibilité d'une présentation Powerpoint) ; - Distribution de la documentation ; - Modalité : plénière
+SUIVI DES CONCLUSIONS | - Mise en place d'organes de gestion et de concertation (veiller à leur fonctionnalité pour l'application des conclusions de la réunion) : - CGE, FSE/Gouvernement Scolaire, AS, Cellule Genre, Cellules pédagogiques, APE ; - Tenue des conseils d'enseignement | CE | Plan de suivi - évaluation des conclusions
 
 115
 
@@ -4013,8 +3747,8 @@ Le chef d'établissement
 #### ELABORATION D'UN REGLEMENT INTERIEUR CONSENSUEL ET PARTICIPATIF
 
 DEMARCHE D'ELABORATION D'UN REGLEMENT INTERIEUR CONSENSUEL ET PARTICIPATIF | DIFFICULTES EVENTUELLES DANS L'ELABORATION ET DANS L'APPLICATION DU RI.
---- | --- | ---
-- - - - | Convocation d'une Assemblée Générale pour consulter la communauté et obtenir son adhésion et sa participation ; Mise sur pied d'un comité d'élaboration représentatif des acteurs du collège Validation par le CGE ; Diffusion et partage avec les acteurs. | - Non adhésion des acteurs. - Mauvaise compréhension du lien entre la loi 61-33 sur la morale et déontologie professionnelle et les normes et valeurs qui structurent le RI. - Déficit/absence de personnel d'encadrement. - L'existence de groupes de pression.
+--- | ---
+- Convocation d'une Assemblée Générale pour consulter la communauté et obtenir son adhésion et sa participation ; - Mise sur pied d'un comité d'élaboration représentatif des acteurs du collège - Validation par le CGE ; - Diffusion et partage avec les acteurs. | - Non adhésion des acteurs. - Mauvaise compréhension du lien entre la loi 61-33 sur la morale et déontologie professionnelle et les normes et valeurs qui structurent le RI. - Déficit/absence de personnel d'encadrement. - L'existence de groupes de pression.
 
 118
 
@@ -4025,17 +3759,17 @@ DEMARCHE D'ELABORATION D'UN REGLEMENT INTERIEUR CONSENSUEL ET PARTICIPATIF | DIF
 #### CANEVAS POUR L'ELABORATION D'UN REGLEMENT INTERIEUR DE L'ETABLISSEMENT
 
 N° | DOMAINES | CONTENU ASSOCIE
---- | --- | --- | ---
-1 | Préambule | - - | Contexte : Loi d'orientation, LPG, droits de l'enfant, extraits code pénal et code du travail, loi 61-33, décret sur le CGE, … Objectifs du RI
-2 | Organisation et fonctionnement de l'établissement | - - - - - | Définition de l'établissement (collège/lycée): finalités, structures, horaires, conditions d'accès, conditions de séjour, utilisation des lieux communs, Activités socioéducatives et pédagogiques Instances du collège : CGE, conseil de discipline, … Sanctions Processus pour porter plainte, comité de plainte
-3 | Relations de l'établissement avec la communauté | - - | Relation établissement/parent : rencontres parents/professeurs, réunions APE, participation au CGE et au PE, retrait des bulletins de composition, … Relation collège/partenaires : codification des prestations de services, obligation de rendre compte au partenaire de l'utilisation des ressources qu'il alloue à l'établissement.
-4 | Hygiène | - | Propreté de l'école, des vêtements, des toilettes, de la cour, des salles et des alentours de l'établissement
-5 | Sécurité | - - - - - | Port d'armes blanches ou à feu Jeux dangereux Conflits et bagarres Intrusion d'éléments étrangers Harcèlement sexuel
-6 | Organisation des études et des évaluations | - - - - - | Conditions propices à la situation d'enseignement/apprentissage Contrôles continus Fraudes aux évaluations Cours de renforcement, de rattrapage et de remédiation Assiduité et ponctualité des enseignants
-7 | Droits et obligations des élèves | - - | Droits : respect de sa dignité (injures, châtiment corporel, …) droit à la permission, à la participation, à une évaluation juste et équitable, … Obligation : discipline, assiduité, respect de l'autorité, …
-8 | Droits et obligations des autres acteurs de l'établissement | - - | Droits et devoirs du CE Droits et devoirs des enseignants ; du surveillant(e) ; gardien…
-9 | Ethique et comportements citoyens | - - | Comportement éthique et responsable des différents acteurs Education à la citoyenneté à travers des clubs, des forums et une implication dans les activités d'intérêt communautaire.
-10 | Dispositions particulières | - | Mesures spécifiques aux réalités de l'établissement.
+--- | --- | ---
+1 | Préambule | - Contexte : Loi d'orientation, LPG, droits de l'enfant, extraits code pénal et code du travail, loi 61-33, décret sur le CGE, … - Objectifs du RI
+2 | Organisation et fonctionnement de l'établissement | - Définition de l'établissement (collège/lycée): finalités, structures, horaires, conditions d'accès, conditions de séjour, utilisation des lieux communs, - Activités socioéducatives et pédagogiques - Instances du collège : CGE, conseil de discipline, … - Sanctions - Processus pour porter plainte, comité de plainte
+3 | Relations de l'établissement avec la communauté | - Relation établissement/parent : rencontres parents/professeurs, réunions APE, participation au CGE et au PE, retrait des bulletins de composition, … - Relation collège/partenaires : codification des prestations de services, obligation de rendre compte au partenaire de l'utilisation des ressources qu'il alloue à l'établissement.
+4 | Hygiène | - Propreté de l'école, des vêtements, des toilettes, de la cour, des salles et des alentours de l'établissement
+5 | Sécurité | - Port d'armes blanches ou à feu - Jeux dangereux - Conflits et bagarres - Intrusion d'éléments étrangers - Harcèlement sexuel
+6 | Organisation des études et des évaluations | - Conditions propices à la situation d'enseignement/apprentissage - Contrôles continus - Fraudes aux évaluations - Cours de renforcement, de rattrapage et de remédiation - Assiduité et ponctualité des enseignants
+7 | Droits et obligations des élèves | - Droits : respect de sa dignité (injures, châtiment corporel, …) droit à la permission, à la participation, à une évaluation juste et équitable, … - Obligation : discipline, assiduité, respect de l'autorité, …
+8 | Droits et obligations des autres acteurs de l'établissement | - Droits et devoirs du CE - Droits et devoirs des enseignants ; du surveillant(e) ; gardien…
+9 | Ethique et comportements citoyens | - Comportement éthique et responsable des différents acteurs - Education à la citoyenneté à travers des clubs, des forums et une implication dans les activités d'intérêt communautaire.
+10 | Dispositions particulières | - Mesures spécifiques aux réalités de l'établissement.
 
 Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
 
@@ -4072,27 +3806,17 @@ ENTETE
 
 ##### PIECES A FOURNIR DOSSIER DE DEMANDE DE BOURSE
 
-- Une demande adressée au Président du Conseil Régional
-
-- Le  bulletin  du  2 ème   semestre  de  l'année  scolaire  précédente  pour  les  anciens élèves ou un certificat de scolarité pour les nouveaux élèves de 6 ème .
-
-- Une des pièces suivantes :
-
-- Certificat de décès du/des parents décédés.
-
-- Bulletin de pension de retraite
-
-- Attestation de revenu (paysan, pasteur, pêcheur, artisan …)
-
-- Certificat d'invalidité
-
-- Certificat de chômage
-
-- Bulletin de salaire
-
-- Certificat d'imposition ou de non imposition pour le parent non salarié
-
-- Certificat d'administration légale, si c'est la mère qui a la garde de l'élève.
+1. Une demande adressée au Président du Conseil Régional
+2. Le bulletin du 2ème semestre de l'année scolaire précédente pour les anciens élèves ou un certificat de scolarité pour les nouveaux élèves de 6ème.
+3. Une des pièces suivantes :
+a. Certificat de décès du/des parents décédés.
+b. Bulletin de pension de retraite
+c. Attestation de revenu (paysan, pasteur, pêcheur, artisan …)
+d. Certificat d'invalidité
+e. Certificat de chômage
+f. Bulletin de salaire
+4. Certificat d'imposition ou de non imposition pour le parent non salarié
+5. Certificat d'administration légale, si c'est la mère qui a la garde de l'élève.
 
 121
 
@@ -4104,11 +3828,9 @@ ENTETE
 
 Au-delà de ses missions administratives, le chef d'établissement est le premier conseiller pédagogique  de  l'établissement.  La  prestance  de  son  leadership  pédagogique  compte beaucoup dans les performances de l'établissement. Les outils proposés dans ce guide lui permettent de suivre et d'évaluer les activités pédagogiques déroulées par les enseignants. Ces outils concernent les aspects liés à :
 
-- checkbld L'exécution des programmes et la progression des enseignements ;
-
-- checkbld L'animation pédagogique ;
-
-- checkbld L'organisation et le suivi des évaluations et des activités de remédiation.
+- L'exécution des programmes et la progression des enseignements ;
+- L'animation pédagogique ;
+- L'organisation et le suivi des évaluations et des activités de remédiation.
 
 122
 
@@ -4120,19 +3842,19 @@ Au-delà de ses missions administratives, le chef d'établissement est le premie
 
 DISCIPLINE | SIXIEME | CINQUIEME
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-MODERNES | CLASSIQUES | H.P | MODERNES | CLASSIQUES
+MODERNES | CLASSIQUES | H.P | MODERNES | CLASSIQUES | H.P
 M1 | M2 | A1 | A2 | HP | M1 | M2 | A1 | A2 | HP
 Français (a) | 6 | 6 | 6 | 6 | 7 | 6 | 6 | 6 | 6 | 7
 Mathématiques | 5 | 5 | 5 | 5 | 6 | 5 | 5 | 5 | 5 | 6
 Anglais LV1 (b) | 5 | - | 5 | - | 6 | 5 | - | 5 | - | 6
 Allemand LV1 | - | 5 | - | 5 | 6 | - | 5 | - | 5 | 6
-L V 2 | - | - | - | - | - | - | - | - | - | - | -
+L V 2 | - | - | - | - | - | - | - | - | - | -
 Sciences Physiques | - | - | - | - | - | - | - | - | - | -
-Langues Classiques (c) | - | - | - | - | - | - | - | - | - | - | -
+Langues Classiques (c) | - | - | - | - | - | - | - | - | - | -
 Latin | - | - | 4 | - | 8 | - | - | 4 | - | 8
 Arabe | - | - | - | 4 | 4 | - | - | - | 4 | 4
-Grec | - | - | - | - | - | - | - | - | - | - | -
-Technologie | - | - | - | - | - | - | - | - | - | - | -
+Grec | - | - | - | - | - | - | - | - | - | -
+Technologie | - | - | - | - | - | - | - | - | - | -
 Histoire | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
 Géographie | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
 Education Civique | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -4164,26 +3886,26 @@ TOTAL | 30 | 30 | 34 | 34 | 30 | 30 | 34 | 34
 
 #### TABLEAU DES COEFFICIENTS DU CYCLE SECONDAIRE GENERAL
 
-L1 | L2 | S 1 | S3
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-DISCIPLINE | Option | Option 2
-2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde | 1 ère | T le 2 | nde | 1 ère | T le
-Français | 4 | 6 | 6 | 4 | 6 | 6 | 4 | 5 | 6 | 3 | 3 | 3 | 3 | 3 | 3 3 | 3 | 3
-Philosophie | 6 | 4 | 6 | 2 | 2 | 2
+DISCIPLINE | L1 | L2 | S 1 | S2 | S3
+--- | --- | --- | --- | --- | ---
+Option 1 | Option 2
+2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle
+Français | 4 | 6 | 6 | 4 | 6 | 6 | 4 | 5 | 6 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3
+Philosophie |  |  | 6 |  |  | 4 |  |  | 6 |  |  | 2 |  |  | 2 |  |  | 2
 Mathématiques | 3 | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 2 | 5 | 8 | 8 | 5 | 5 | 5 | 5 | 8 | 8
 Histoire et Géographie | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4
 LV1 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 2
 LV2
-Economie Générale | 2 | 2 | 2
-Latin ou classique arabe | 3 | 5 | 5 | - | - | - | - | - | - | - | - | - | - | - - | - | - | -
-Grec | 3 | 5 | 5 | - | - | - | - | - | - | - | - | - | - | - - | - | - | -
+Economie Générale |  |  |  |  |  |  | 2 | 2 | 2
+Latin ou classique arabe | 3 | 5 | 5 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Grec | 3 | 5 | 5 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 Sciences physiques | 2 | 2 | - | 2 | 2 | - | 2 | 2 | 2 | 8 | 8 | 5 | 5 | 6 | 6 | 5 | 8 | 8
-SVT | 2 | 2 | - | 2 | 2 | - | 2 | 2 | 2 | 4 | 2 | 2 | 5 | 6 6
-Construction mécanique | 5 | 8 | 8
+SVT | 2 | 2 | - | 2 | 2 | - | 2 | 2 | 2 | 4 | 2 | 2 | 5 | 6 | 6
+Construction mécanique |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 | 8 | 8
 Analyse de fabrication
-Technologie Générale | 2 | 2 | 2
+Technologie Générale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 2
 Automatisme Théorique
-TP | 3 | 3 | 3
+TP |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 3 | 3
 EPS | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
 Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
@@ -4197,31 +3919,34 @@ Source : http://igen.education.sn/programmes/circulaires/coef_credit.pdf
 
 #### CREDITS HORAIRES DU CYCLE SECONDAIRE GENERAL
 
-Discipline | L1 | L2 | S3
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Option | 1 Option
-2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde | 1 ère | T le | 2 nde 1 ère | T le | 2 nde | 1 ère | T le
-Français | 5(6) | 5 | 5 | 5(6) | 5 | 5 | 5(6) | 5 | 5 | 5(6) | 5 3 | 5(6) | 5 | 5 | 5(6) | 5 | 3
-Philosophie | 8 | 8 | 8 | 3 | 3 | 3
-Mathématiques | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 5 | 6 8 | 5 | 5 | 5 | 5 | 6 | 8
-Histoire et Géographie | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 4 | 4 | 4 | 4
-LV1 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 3 2 | 3 | 3 | 2 | 3 | 3 | 2
-LV2 (3) (6) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | 2(5) | 2 | 2
-Economie Générale (3) | 3 | 3 | 3
+Discipline | L1 | L2 | S 1 | S2 | S3
+--- | --- | --- | --- | --- | ---
+Option 1 | Option 2
+2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle | 2nde | 1ère | Tle
+Français | 5(6) | 5 | 5 | 5(6) | 5 | 5 | 5(6) | 5 | 5 | 5(6) | 5 | 3 | 5(6) | 5 | 5 | 5(6) | 5 | 3
+Philosophie |  |  | 8 |  |  | 8 |  |  | 8 |  |  | 3 |  |  | 3 |  |  | 3
+Mathématiques | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 5 | 6 | 8 | 5 | 5 | 5 | 5 | 6 | 8
+Histoire et Géographie | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4
+LV1 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 5 | 3 | 3 | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 2
+LV2 (3) (6) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | 2(5) |  | 2 | 2
+Economie Générale (3) |  |  |  |  |  |  | 3 | 3 | 3
 Latin ou classique arabe | 3 | 3 | 3
 Grec | 3 | 3 | 3
-Sciences physiques | 2(4) | 2(4) | - | 2(4) | 2(4) | - | 2(4) | 2(4) | 2(4) | 5(7) | 5(7) | 5(7) 5(7) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7)
-SVT | 2(4) | 2(4) | - | 2(4) | 2(4) | - | 2(4) | 2(4) | 2(4) | 2(4) | 2(4) | 2(4) 3(5) | 3(5) | 4(6)
-Construction mécanique | 8 | 8 | 8
-Analyse de fabrication | - | 1 | 1
-Technologie Générale | 2 | 2 | 2
-Automatisme Théorique | 1 | 1
-TP | 4 | 4
-EPS | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 2 | 2 | 2 | 2 | 2 | 2 | 2
-Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 1 | 1 | 1 | 1
+Sciences physiques | 2(4) | 2(4) | - | 2(4) | 2(4) | - | 2(4) | 2(4) | 2(4) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7) | 5(7)
+SVT | 2(4) | 2(4) | - | 2(4) | 2(4) | - | 2(4) | 2(4) | 2(4) | 2(4) | 2(4) | 2(4) | 3(5) | 3(5) | 4(6)
+Construction mécanique |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 | 8 | 8
+Analyse de fabrication |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | - | 1 | 1
+Technologie Générale |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 2
+Automatisme Théorique |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1
+TP |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 4
+EPS | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
+Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
-(1) Dédoublement d'une classe pédagogique qui devra être effectif chaque fois que les conditions sont réunies (2) 2 heures en Histoire et 2 heures en Géographie (3) Matières à option de la série L2, dès le niveau de Seconde (4) Matières à option des séries L1 et L2, en Premières, en Terminales L2, il s'agit d'une matière interdisciplinaire : Sciences de la Nature. (5) La matière facultative ne sera enseignée que si l'organisation pédagogique de l'établissement le permet
-
+(1) Dédoublement d'une classe pédagogique qui devra être effectif chaque fois que les conditions sont réunies
+(2) 2 heures en Histoire et 2 heures en Géographie
+(3) Matières à option de la série L2, dès le niveau de Seconde
+(4) Matières à option des séries L1 et L2, en Premières, en Terminales L2, il s'agit d'une matière interdisciplinaire : Sciences de la Nature.
+(5) La matière facultative ne sera enseignée que si l'organisation pédagogique de l'établissement le permet
 (6) Prévoir deux (2) heures supplémentaires pour les débutants, en Seconde et première.
 
 125
@@ -4230,11 +3955,108 @@ Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 1 | 1 | 1 | 1
 
 [[START OF PAGE 126]]
 
+République du Sénégal
+Un Peuple-Un But-Une Foi
+Ministère de l’Enseignement Élémentaire, du Moyen Secondaire et des Langues Nationales
+DIRECTION DE L’ENSEIGNEMENT MOYEN SECONDAIRE GÉNÉRAL
+
+Le Ministre
+
+N° 03317 MEPEMSLN/SG/DEMSG
+
+Dakar, le 15 SEPT 2011
+
+#### ARRETE N° ............ MODIFIANT L’ARRÊTÉ N° 07078/MEN/DC/DAJLD DU 29/09/99 PORTANT ORGANISATION ET FONCTIONNEMENT DES CELLULES PEDAGOGIQUES DANS L’ENSEIGNEMENT MOYEN ET SECONDAIRE
+
+##### Titre I - Définition de la cellule pédagogique
+
+###### Article 1.
+La cellule pédagogique regroupe l’ensemble des professeurs d’une même discipline d’un ou de plusieurs établissements d’une zone donnée, en vue de réaliser des projets pédagogiques reconnus d’intérêt général. Cadre de concertation, d’échanges et de propositions, la cellule pédagogique est le premier lieu de la formation continue des professeurs.
+
+###### Article 2.
+La cellule pédagogique peut se présenter sous deux formes:
+
+- la cellule pédagogique d’établissement qui regroupe les professeurs d’une même discipline d’un établissement donné;
+- la cellule pédagogique mixte qui regroupe, en un lieu choisi, les enseignants d’une même discipline de différents établissements situés dans une même zone géographique.
+
+A l’occasion, et sur proposition des conseillers pédagogiques itinérants, en rapport avec les Inspecteurs de Spécialité, les cellules pédagogiques (mixtes ou d’établissement) peuvent être regroupées ou scindées selon les nécessités et notamment pour respecter les ratios d’encadrement appropriés.
+
+###### Article 3.
+Les établissements n’entrant pas dans les situations définies seront gérés au cas par cas par les instances compétentes notamment par le chef d’établissement qui est le premier responsable et garant de la bonne marche des cellules de son établissement.
+
+##### Titre II – Rôle et missions de la cellule pédagogique
+
+###### Article 4.
+La cellule pédagogique vise la promotion des disciplines d’apprentissage, et l’amélioration de la performance professionnelle des enseignants. Elle organise en son sein la réflexion sur les programmes, les méthodologies d’enseignement, les évaluations formatives/sommatives et propose des remédiations en accord avec les orientations officielles.
+
+###### Article 5.
+La cellule pédagogique est un lieu d’expérimentation, d’élaboration, de production et de diffusion de documents et de matériels didactiques dans le respect de la législation en vigueur. Pour ce faire, elle définit les objectifs à atteindre à partir des besoins identifiés et propose des calendriers pour leur réalisation.
+
+###### Article 6.
+Pour la prise en charge des préoccupations du curriculum amélioré, les Professeurs de disciplines différentes doivent se regrouper en cellules interdisciplinaires.
+Les planifications de réalisation des objectifs ajustées au cours du temps en fonction des besoins du moment, constituent le contrat moral qui lie l’administration de l’établissement et les autorités académiques (IA ; IDEN) aux cellules pédagogiques.
+La cellule pédagogique doit assurer entre autres missions :
+
+1
+
 126
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+
+- La formation continue et l’encadrement des jeunes professeurs vacataires et contractuels ;
+- La mise à niveau régulière de tous les professeurs ;
+- L’harmonisation des progressions et des évaluations sommatives ;
+- L’analyse des résultats scolaires particulièrement les résultats aux examens nationaux (BFEM et BACCALAUREAT) et les performances des apprenants dans chaque discipline ;
+- La régulation des apprentissages et le soutien à apporter aux apprenants en difficultés ;
+
+##### Titre III - Moyens de la cellule pédagogique
+
+###### Article 7.
+La cellule pédagogique accueille dans le cadre de la réglementation en vigueur tous les moyens mis à sa disposition pour lui conférer la plus grande autonomie de fonctionnement.
+
+###### Article 7 bis :
+Une partie des fonds issus des inscriptions des élèves est destinée au fonctionnement des cellules pédagogiques.
+Par ailleurs, la cellule pédagogique peut, dans le cadre des projets d’établissement, rechercher des moyens additionnels.
+Les moyens de la cellule pédagogique sont gérés conformément aux textes réglementaires en vigueur.
+
+##### Titre IV – Le responsable de la cellule
+
+###### Article 8.
+Le responsable de la cellule pédagogique est choisi par le chef d’établissement sur proposition des membres de la cellule. Il est nommé par décision de l’Inspecteur d’Académie sur proposition du chef d’établissement.
+En cas d’impossibilité l’Inspecteur d’Académie sollicitera l’avis motivé des parties prenantes (Conseillers pédagogiques itinérants et/ou Inspecteur de Spécialité) avant d’arrêter la décision finale.
+
+###### Article 9.
+Le responsable de la cellule pédagogique bénéficie de deux heures de décharge hebdomadaire.
+Les années passées en qualité de responsable de cellule sont considérées comme des années de responsabilité ;
+
+###### Article 10.
+Le responsable de la cellule pédagogique est le correspondant des Conseillers Pédagogiques et des Inspecteurs de la Spécialité au sein de la cellule.
+Il est par ailleurs le délégué de la cellule pour toutes les affaires pédagogiques.
+Il prépare et organise les réunions d’animation en rapport avec le chef d’établissement.
+
+##### Titre V : Fonctionnement de la cellule pédagogique
+
+###### Article 11.
+La cellule pédagogique doit se réunir au moins une fois par mois et chaque fois que de besoin.
+
+###### Article 12.
+L’intervalle entre deux réunions doit être mis à profit pour conduire des actions ponctuelles, sectorielles, de suivi, de diagnostic ou de soutien, et qui n’engage pas en même temps toute l’équipe pédagogique.
+
+###### Article 13.
+Le responsable de la cellule pédagogique tient à jour un cahier d’activités où sont consignées les actions engagées ainsi que les listes d’émargement des participants. Il rend compte des activités de la cellule au chef d’établissement par la production régulière de procès-verbaux de réunion et de rapports périodiques d’activités dont les Conseillers Pédagogiques et les Inspecteurs de Spécialité sont ampliataires.
+
+##### Titre VI – Contrôle et suivi des activités de la cellule pédagogique
+
+###### Article 14.
+La convocation aux activités des cellules pédagogiques relève du chef d’établissement.
+
+###### Article 15.
+Les autorités administratives investies d’une autorité hiérarchique sur les enseignants doivent veiller à la tenue régulière des activités retenues et dont elles doivent être informées au préalable. Elles doivent faciliter ces activités par l’octroi d’une demi-journée pédagogique aux professeurs d’une même discipline.
+Les chefs d’établissement des cellules mixtes veilleront à octroyer la même demi-journée aux professeurs d’une même discipline.
+
+2
 
 127
 
@@ -4242,11 +4064,59 @@ Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 1 | 1 | 1 | 1
 
 [[START OF PAGE 128]]
 
+Les heures de rencontre de la cellule pédagogique sont des heures dues et figurent dans l’emploi du temps du professeur.
+Le chef d’établissement veille à la présence de tous les professeurs aux activités de la cellule. Toute absence aux rencontres de la cellule doit faire l’objet d’une justification écrite adressée au chef d’établissement. Ce dernier rend compte régulièrement aux supérieurs hiérarchiques (IA ; IDEN) de tout dysfonctionnement de la cellule et des mesures prises pour assurer sa bonne marche.
+
+###### Article 16.
+La participation régulière attestée aux activités pédagogiques est un critère d’appréciation professionnelle qui doit être prise en compte dans l’évaluation annuelle des agents.
+Les Inspecteurs et les Conseillers Pédagogiques sont chargés dans le cadre de leurs missions, d’assurer la coordination, la supervision et le suivi externe de toutes les cellules au sein de l’académie. Ils fourniront chaque année à l’Inspecteur d’Académie, un rapport de synthèse élucidant les dysfonctionnements ainsi que les bons exemples notés dans la marche des cellules.
+L’Inspecteur d’Académie tient chaque année une rencontre bilan sur le fonctionnement des cellules pédagogiques avec la participation de toutes les structures concernées.
+
+###### Article 17.
+Le présent arrêté sera publié partout où besoin sera.
+
+Kalidou DIALLO
+
+3
+
 128
 
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
+
+République du Sénégal
+Un Peuple-Un But-Une Foi
+Ministère de l’Enseignement Préscolaire, de l’Élémentaire, du Moyen Secondaire et des langues Nationales
+DIRECTION DE L’ENSEIGNEMENT MOYEN SECONDAIRE GÉNÉRAL
+
+Le Ministre
+
+N° 003120 MEPEMSLN/SG/DEMSG
+
+Dakar, le 19 JUIL 2010
+
+#### CIRCULAIRE
+
+Madame et Messieurs les inspecteurs d’Académie
+Mesdames et Mesdames les Proviseurs
+
+Objet : Orientation et maintien des élèves dans les séries scientifiques
+Référence : Correspondance N° 03922/PR/MEDC/MESG/CT.EDU.I.MB
+
+Le déséquilibre entre les séries scientifiques et littéraires dans nos lycées a atteint des proportions qui interpellent les acteurs du système éducatif. Tous les indicateurs révèlent que les séries scientifiques souffrent d’une certaine désaffection.
+
+En 2009, la part des inscrits en classe de 2nde dans ces filières ne représentait que 34,4% du total des élèves orientés. Entre 2001 et 2009, les candidats dans ces mêmes séries n’ont constitué que 33,21% du total des candidats à l’examen du baccalauréat.
+
+Consciente de la place des sciences dans la formation des ressources humaines de qualité, capables de relever le défi du développement durable, la Direction de l’Enseignement Moyen Secondaire Général (DEMSG) a d’ores et déjà entrepris une réflexion avec des experts sur l’enseignement des sciences.
+
+Dans l’immédiat, je voudrais qu’il soit mis fin aux pratiques qui étaient de nature à décourager les élèves à opter pour les séries scientifiques.
+
+Dorénavant, je vous invite au respect scrupuleux des conditions ci-dessous dans l’orientation des élèves, en vue d’équilibrer le choix entre les différentes séries :
+
+- Tenir compte du vœu des élèves qui souhaitent être orientés dans une série scientifique ;
+
+.../...
 
 129
 
@@ -4254,13 +4124,21 @@ Matière facultative | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 1 | 1 | 1 | 1
 
 [[START OF PAGE 130]]
 
+- Ouvrir l’orientation en série scientifique à tout élève admis en classe supérieure avec une moyenne égale ou supérieure à 10/20 dans les disciplines scientifiques.
+
+Les Inspecteurs d’Académie mettront en place un dispositif de suivi de ces mesures et me tiendront régulièrement informé des évolutions constatées.
+
+J’attache du prix à l’exécution correcte des dispositions de la présente circulaire.
+
+Kalidou DIALLO
+
 130
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
 
-#### CIRCULAIRE N°004094/MEN/DC/DEMSG DU 18/9/96 PORTANT RÉGLEMENT DES COURS DE VACANCES DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT MOYEN & SECONDAIRE
+#### CIRCULAIRE N°004094/MEN/DC/DEMSG DU 18/9/96 PORTANT RÈGLEMENT DES COURS DE VACANCES DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT MOYEN & SECONDAIRE
 
 En  vue  de  moraliser  l'organisation  des  cours  de  vacances  dans  les  établissements d'enseignement  moyen  et  secondaire  publics,  de  préserver  la  sécurité  des  personnes, des locaux et du matériel, de renforcer leur utilité sociale, éducative et pédagogique, les dispositions ci-après sont prescrites:
 
@@ -4286,19 +4164,20 @@ Des  professeurs  qui  ne  sont  pas  en  service  dans  l'établissement  peuve
 
 [[START OF PAGE 132]]
 
-- Les  chefs  d'établissement,  qui  veilleront  à  éviter  au  maximum  ce  cas  de  figure, devront cependant s'entourer des garanties ci-après:
+- Les chefs d'établissement, qui veilleront à éviter au maximum ce cas de figure, devront cependant s'entourer des garanties ci-après:
 
-- s'assurer qu'il s'agit bien d'enseignants officiant dans le service public
+a) s'assurer qu'il s'agit bien d'enseignants officiant dans le service public
 
-- recueillir  l'engagement  écrit  de  ces  derniers  à  subvenir  aux  dégâts  causés  par l'utilisation  des  locaux.  Ces  engagements  devront  être  individuels  et  comporter  le signalement  administratif  des  intéressés  (Prénom,  Nom,  grade,  matricule  de  solde, lieu de service) et être signés.
+b) recueillir l'engagement écrit de ces derniers à subvenir aux dégâts causés par l'utilisation des locaux. Ces engagements devront être individuels et comporter le signalement administratif des intéressés (Prénom, Nom, grade, matricule de solde, lieu de service) et être signés.
 
-- Dans le cas précis des professeurs étrangers aux établissements en majorité, même si on  peut  compter  en  leur  sein  certains  autochtones,  13%  (treize  pour  cent)  des sommes totales perçues, avec comme base le nombre effectif d'élèves présents dans les salles, seront ristournées à l'établissement.
+c) Dans le cas précis des professeurs étrangers aux établissements en majorité, même si on peut compter en leur sein certains autochtones, 13% (treize pour cent) des sommes totales perçues, avec comme base le nombre effectif d'élèves présents dans les salles, seront ristournées à l'établissement.
 
-- 7°) Les  priorités  quant  à  l'utilisation  de  ladite  ristourne  seront  dégagées  après concertation entre le collectif des personnels et l'administration de l'établissement. Ces priorités concerneront essentiellement les infrastructures collectives de l'établissement, les investissements pédagogiques, la prise en charge sociale des élèves nécessiteux, les manifestations organisées par l'établissement.
+7°) Les priorités quant à l'utilisation de ladite ristourne seront dégagées après concertation entre le collectif des personnels et l'administration de l'établissement. Ces priorités concerneront essentiellement les infrastructures collectives de l'établissement, les investissements pédagogiques, la prise en charge sociale des élèves nécessiteux, les manifestations organisées par l'établissement.
 
-- 8°) Les organisateurs pourront alimenter une caisse de solidarité des personnels dont les modalités de fonctionnement seront définies par concertation interne.
+8°) Les organisateurs pourront alimenter une caisse de solidarité des personnels dont les modalités de fonctionnement seront définies par concertation interne.
 
-Le Ministre de l'Education Nationale André SONKO
+Le Ministre de l'Education Nationale
+André SONKO
 
 132
 
@@ -4349,7 +4228,7 @@ Amélioration et stabilisation des productions
 ##### Évaluation formative
 Proposition d'exercices selon les niveaux taxonomiques (connaissances, compréhension, application, résolution de problème)
 Activités de remédiation
-##### Évaluation sommative : proposition d'exercices | selon les | niveaux | taxonomiques
+##### Évaluation sommative : proposition d'exercices selon les niveaux taxonomiques
 Connaissances
 Compréhension
 Application
@@ -4365,17 +4244,17 @@ Source : USAID/EDB-DEMSG : Guide du formateur, Curriculum de l'enseignement moye
 
 [[START OF PAGE 134]]
 
+#### GRILLE D'IDENTIFICATION DES ACTIVITES DU PROFESSEUR A SUIVRE
+
 ACTIVITES A SUIVRE | RAISONS DU SUIVI
 --- | ---
 Planification des enseignements | - Perturbations scolaires - Manque d'efficacité - Manque d'efficience - Manque de lisibilité des programmes - Difficulté à couvrir les programmes - …………………………
-Progression | - Programmes non entièrement réalisés - Lenteur constatée dans l'exécution des programmes - Progressions incohérentes -
-Evaluation (types, périodicité, remédiation) | …………………………. - Notes douteuses (fictives ou de complaisance) - Absence d'évaluation formative - Absence d'évaluation sommative - Nombre de devoirs insuffisant - Non prise en charge pédagogique des élèves en difficulté
+Progression | - Programmes non entièrement réalisés - Lenteur constatée dans l'exécution des programmes - Progressions incohérentes - ………………………….
+Evaluation (types, périodicité, remédiation) | - Notes douteuses (fictives ou de complaisance) - Absence d'évaluation formative - Absence d'évaluation sommative - Nombre de devoirs insuffisant - Non prise en charge pédagogique des élèves en difficulté - ………………………….
 Participation aux activités des cellules pédagogiques | - Absences notées aux activités des CP - Absence de pertinence des activités des CP - Non validation des planifications des CP - ……………………………..
 Retards/absences | - Fréquence des absences non autorisées - Fréquence des absences non justifiées - Fréquence des retards - …………………………….
-Participation aux activités péri et parascolaires
-Suivi des stratégies d'enseignement-apprentissage
-
-#### GRILLE D'IDENTIFICATION DES ACTIVITES DU PROFESSEUR A SUIVRE
+Participation aux activités péri et parascolaires |
+Suivi des stratégies d'enseignement-apprentissage |
 
 Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
 
@@ -4441,9 +4320,8 @@ Objet
 
 Classe :
 
-Date et lieu de naissance | Classe doublée | Moyennes | Propositions
---- | --- | --- | --- | --- | --- | ---
-N° | Prénom(s) | NOM | Sexe | 1 er Semestre | 2 e Semestre | Annuelle
+N° | Prénom(s) | NOM | Sexe | Date et lieu de naissance | Classe doublée | Moyennes : 1er Semestre | 2e Semestre | Annuelle | Propositions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1
 2
 3
@@ -4481,17 +4359,116 @@ Afin de l'aider à s'acquitter convenablement de cette mission, surtout dans un 
 
 [[START OF PAGE 138]]
 
+République du Sénégal
+Un Peuple-Un But-Une Foi
+Ministère de l’Enseignement Préscolaire, de l’Élémentaire, du Moyen Secondaire et des Langues Nationale
+Direction de l’Enseignement Moyen Secondaire Général
+
+Le Ministre
+
+N° 004465 MEPEMSLN/SG/DEMSG
+
+Dakar, le 15 SEPT 2010
+
+#### LETTRE-CIRCULAIRE
+
+relative à la mobilisation et à la gestion des ressources additionnelles
+des lycées et collèges
+
+##### Références :
+
+- Décret 2000-337 portant création et composition du Conseil de Gestion des Etablissements (CGE) ;
+- Arrêté interministériel 003207 du 17-03-04 relatif à la mobilisation et à l’utilisation des ressources générées par les établissements d’enseignement moyen et secondaire général ;
+- Note de service 005670/ME/DC portant gestion des crédits des établissements et compétences du CGE ;
+- Circulaire 004377/ME/SG/DEMSG du 11-10-07 fixant le montant et la répartition des frais d’inscription dans les établissements d’enseignement moyen et secondaire général ;
+- Lettre circulaire 03579 du 30 septembre 2009 rappelant le montant des frais d’inscription
+
+La mobilisation et la gestion des ressources additionnelles des lycées et collèges révèlent au cours de ces dernières années des manquements. Ceux-ci portent préjudice au bon fonctionnement des établissements et augmentent les charges scolaires déjà difficilement supportables par les parents.
+C’est pourquoi, pour des solutions concertées et tenant compte des réalités locales, je rappelle aux chefs d’établissement les dispositions réglementaires suivantes :
+
+- Obligation est faite à chaque établissement de mettre en place un CGE fonctionnel, conformément aux dispositions du décret 2000-337 ;
+- Le montant des frais d’inscription dans l’enseignement moyen secondaire général, y compris le coût de la tenue scolaire et toute autre dépense, doit être compris entre 3 000 et 10 000 F par élève ;
+- Dans chaque établissement, il revient au CGE d’en déterminer le montant en tenant compte des réalités socio-économiques ;
+- La clé de répartition des dépenses incompressibles s’établit comme suit :
+  - Assurance : 200F/élève ;
+  - Orientation des élèves : 100F/élève
+  - Santé des élèves : 200F/élève ;
+  - Sport Scolaire : 200F/élève ;
+  - 500F/élève de 4ème et de 3ème à verser au bloc scientifique et technologique qui polarise le collège
+
 138
 
 [[END OF PAGE 138]]
 
 [[START OF PAGE 139]]
 
+- Il est formellement interdit d’exiger des frais liés aux transferts des élèves et d’organiser des cours payants dans les établissements de l’enseignement moyen secondaire général;
+- L’unicité de caisse pour l’ensemble des ressources doit être scrupuleusement respectée ;
+- Le budget prévisionnel doit être élaboré de manière participative et approuvé par le CGE ;
+- Dans chaque budget prévisionnel, le CGE doit prévoir une ligne pour le fonctionnement de l’APE ;
+- Dans le cadre des relations de partenariat ou d’autres activités, les parents d’élèves peuvent trouver des ressources supplémentaires à l’établissement ;
+- Chaque établissement doit disposer d’un compte courant bancaire ou postal mouvementé par les signatures du président du CGE et de l’intendant ou du gestionnaire ;
+- Pour des raisons de transparence, les représentants des parents doivent être davantage impliqués dans la gestion des ressources additionnelles ;
+- Les fonds collectés doivent être versés de manière régulière dans ce compte avant toute utilisation ;
+- En matière de dépenses et de décaissements, le chef d’établissement est tenu de se conformer à la réglementation en vigueur, notamment à l’arrêté 003207 du 17-03-04 ;
+- Les initiatives en matière de tenue scolaire sont à encourager. Toutefois, les parents d’élèves ainsi que les collectivités locales doivent y être associés et son coût doit être conforme aux dispositions qui fixent le montant des frais d’inscription ;
+
+Sous la supervision de la Direction de l’Enseignement Moyen Secondaire Général et de l’Inspection Interne, les Inspecteurs d’académie sont tenus, en rapport avec les IDEN et les Inspecteurs de vie scolaire, d’assurer une large diffusion de la présente lettre circulaire et de veiller à son exécution correcte.
+
+A
+Madame et Messieurs les Inspecteurs d’Académie
+Mesdames et Messieurs les Inspecteurs
+Départementaux de l’Education nationale
+
+Ampliations
+MEPEMSLN/SG
+MEPEMSLN/Dir Cab
+
+Kalidou DIALLO
+
 139
 
 [[END OF PAGE 139]]
 
 [[START OF PAGE 140]]
+
+REPUBLIQUE DU SENEGAL
+MINISTERE DE L’EDUCATION
+DIRECTION DE L’ENSEIGNEMENT
+MOYEN ET SECONDAIRE GENERAL
+
+N° 004377 ME/SG/DEMSG/DAJLD
+
+DAKAR, le 11 OCT 2007
+
+#### CIRCULAIRE
+
+A mesdames et Messieurs les Chefs d’Etablissement d’Enseignement
+Moyen et Secondaire
+
+Objet : Lettre circulaire fixant le montant et la répartition des frais d’inscription dans les établissements d’enseignement moyen et secondaire général.
+
+A chaque rentrée scolaire, le Conseil de Gestion de l’Etablissement (CGE) fixe le montant annuel des frais d’inscription pour un minimum de 3000 Francs par élève et un maximum n’excédant pas 10 000 Francs.
+
+La répartition des frais d’inscription tiendra compte des dépenses obligatoires suivantes :
+
+- Assurances : 200 F/ élève
+- Orientation des élèves : 100 F/ élève
+- Santé des élèves : 200 F/ élève
+- Sport scolaire : 200 F/ élève
+
+Les autres dépenses prévues à l’article 3 de l’arrêté interministériel n° 3207 du 17 mars 2004 seront prises en charge par le restant des frais d’inscription et toutes les autres ressources générées par l’établissement dans le cadre du budget prévisionnel décidé par le CGE.
+
+Pour rappel les frais d’inscription n’intègrent pas les cotisations des Associations des Parents d’Elèves (A.P.E) dont le montant, les modalités de recouvrement et les dépenses autorisées sont à négocier dans le cadre du CGE.
+
+Ampliation
+Toutes Directions
+Tous Services
+Toutes IA
+Toutes IDEN
+
+LE MINISTRE DE L’EDUCATION
+MOUSTAPHA SOURANG
 
 140
 
@@ -4713,13 +4690,10 @@ NB : la nature des pièces justificatives dépend du type de marché.
 
 Le contrôle consiste à vérifier :
 
-- square4 La qualité de l'administrateur des crédits (habilitation) ;
-
-- square4 La disponibilité des crédits ;
-
-- square4 L'exacte imputation budgétaire de la dépense ;
-
-- square4 L'application  des  dispositions  d'ordre  financier,  des  lois  et  règlements,  de  leur conformité avec les autorisations parlementaires et des conséquences que les mesures proposées peuvent avoir sur les finances publiques.
+- La qualité de l'administrateur des crédits (habilitation) ;
+- La disponibilité des crédits ;
+- L'exacte imputation budgétaire de la dépense ;
+- L'application des dispositions d'ordre financier, des lois et règlements, de leur conformité avec les autorisations parlementaires et des conséquences que les mesures proposées peuvent avoir sur les finances publiques.
 
 Après vérification, le contrôleur financier envoie le dossier à l'ordonnateur délégué qui valide la demande d'engagement en y apposant son visa et signe le bon ou la lettre de commande.
 
@@ -4745,15 +4719,11 @@ C'est  l'acte  administratif  pris  par  l'ordonnateur  donnant l'ordre  de  pay
 
 Avant  d'être  envoyé  au  comptable  pour  paiement,  le  dossier  est  transmis  au  contrôleur financier.  A  la  réception  du  dossier,  le  contrôleur  financier  procède  au  contrôle  de  sa compétence à savoir :
 
-- square4 La qualité de l'ordonnateur délégué ;
-
-- square4 La conformité du mandat avec l'engagement ;
-
-- square4 La réalité du service fait ;
-
-- square4 Le montant de la liquidation ;
-
-- square4 La validité de la certification du service fait.
+- La qualité de l'ordonnateur délégué ;
+- La conformité du mandat avec l'engagement ;
+- La réalité du service fait ;
+- Le montant de la liquidation ;
+- La validité de la certification du service fait.
 
 A l'issue de ces contrôles, il peut apposer son visa ou rejeter le mandat. Lorsque le mandat de paiement est visé par le contrôleur financier, ce dernier le retourne appuyé de tout le dossier, à l'ordonnateur qui le transmet au comptable pour paiement.
 
@@ -4765,7 +4735,7 @@ C'est l'acte par lequel l'Etat ou tout organisme public se libère de sa dette.
 
 Au  niveau  du  Trésor,  les  mandats  de  paiement  sont  pris  en  charge  par  le  comptable  qui effectue les contrôles suivants :
 
-- square4 L'exacte imputation budgétaire ;
+- L'exacte imputation budgétaire ;
 
 149
 
@@ -4773,17 +4743,12 @@ Au  niveau  du  Trésor,  les  mandats  de  paiement  sont  pris  en  charge  pa
 
 [[START OF PAGE 150]]
 
-- square4 La qualité de l'ordonnateur émetteur ;
-
-- square4 La validité et l'exigibilité de la créance ;
-
-- square4 La certification du service fait ;
-
-- square4 Les visas du contrôleur financier et de l'ordonnateur délégué
-
-- square4 L'existence des opérations de paiement
-
-- square4 Le caractère libératoire du règlement
+- La qualité de l'ordonnateur émetteur ;
+- La validité et l'exigibilité de la créance ;
+- La certification du service fait ;
+- Les visas du contrôleur financier et de l'ordonnateur délégué
+- L'existence des opérations de paiement
+- Le caractère libératoire du règlement
 
 A l'issue du contrôle, le comptable appose son visa (cachet « vu bon à payer ») sur le mandat : c'est le paiement juridique.
 
@@ -4835,11 +4800,73 @@ La  mention « vu  bon  à  mandater » du  comptable  autorise  le  régisseur 
 
 #### DIRECTIVE UEMOA
 
+Directive N° 02/99/CM/UEMOA portant amendement de la Directive N° 05/97/CM/UEMOA relative aux lois de finances ;
+
+LE CONSEIL DES MINISTRES DE L'UNION ECONOMIQUE ET MONETAIRE OUEST AFRICAINE (UEMOA)
+
+Vu les articles 16, 20, et 21 du Traité créant le Conseil des Ministres et définissant ses attributions;
+
+Vu l'article 67 du Traité de l'UEMOA relatif à l'harmonisation des législations et procédures budgétaires, des lois de finances et des comptabilités publiques ;
+
+Vu la Directive n° 05/97/CM/UEMOA relative aux lois de finances;
+
+Soucieux d'assurer la cohérence des Directives portant harmonisation du cadre juridique, comptable et statistique des finances publiques, qui constituent le cadre de référence pour l'exercice de la surveillance multilatérale des politiques budgétaires nationales ;
+
+Sur proposition de la Commission de l'UEMOA;
+
+Vu l'avis, en date du 17 décembre 1999, du Comité des Experts statutaire ;
+
+ARRÊTE LA DIRECTIVE DONT LA TENEUR SUIT
+
+###### ARTICLE PREMIER
+
+La Directive n° 05/97/CM/UEMOA relative aux lois de finances est modifiée ainsi qu'il suit:
+
+###### ARTICLE 5 NOUVEAU
+
+Les ressources de l'Etat comprennent:
+
+- les impôts, les taxes ainsi que le produit des amendes;
+- les rémunérations des services rendus, redevances, fonds de concours, dons et legs ;
+- les revenus des domaines et des participations financières ainsi que la part de l'Etat dans les bénéfices des entreprises nationales;
+- les remboursements de prêts et avances;
+- les produits des emprunts à moyen et long terme;
+- les recettes provenant de la cession des actifs
+- les produits divers.
+
 152
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
+
+###### ARTICLE 15 NOUVEAU
+
+Des transferts et des virements de crédits peuvent modifier la répartition des dotations budgétaires. Les transferts modifient la détermination du service responsable de l'exécution de la dépense sans modifier la nature de cette dernière. Ils sont fixés par décret pris sur le rapport du Ministre chargé des finances, sous réserve d'intervenir à l'intérieur du même titre d'un même ministère, et d'être maintenus dans la limite du dixième de la dotation initiale, votée par le parlement, de chacun des chapitres intéressés, à l'exception des crédits globaux visés à l'alinéa 2 de l'article 9.
+
+Les virements conduisent à modifier la nature de la dépense prévue par la loi de finances. Ils ne peuvent intervenir qu'à l'intérieur d'un même chapitre du même titre, et sont fixés par arrêté du Ministre chargé des finances.
+
+Aucun virement, aucun transfert ne peut être opéré d'une dotation évaluative vers une dotation limitative.
+
+###### ARTICLE 20 NOUVEAU
+
+Les procédures particulières permettant d'assurer une affectation au sein du budget général ou d'un budget annexe sont la procédure de convention de financement, la procédure du fonds de concours et la procédure de rétablissement de crédits. Les fonds versés par des personnes morales ou physiques, et notamment, par les bailleurs de fonds, pour concourir avec ceux de l'Etat à des dépenses d'intérêt public, ainsi que les produits de legs et donations attribués à l'Etat ou aux diverses administrations publiques sont directement portés en recettes au budget.
+
+Pour ce qui concerne les legs et donations, un crédit supplémentaire de même montant est ouvert par arrêté du ministre chargé des finances. L'emploi des fonds doit être conforme à l'intention de la partie versante ou du donateur.
+
+Peuvent donner lieu à un rétablissement de crédits dans les conditions fixées par arrêté du ministre chargé des finances :
+
+a) les recettes provenant de la restitution au Trésor de sommes payées indûment ou à titre provisoire sur crédits budgétaires;
+b) les recettes provenant de cessions.
+
+###### ARTICLE 33 NOUVEAU
+
+Le projet de loi de finances de l'année est accompagné:
+
+- d'un rapport définissant l'équilibre économique et financier, les résultats connus et les perspectives d'avenir;
+- d'annexes explicatives faisant notamment connaître:
+
+1. Par chapitre, le coût des services votés tels qu'ils sont définis à l'article 34 ci-après et les mesures nouvelles qui justifient les modifications proposées au montant antérieur des services votés et notamment les crédits afférents aux créations, suppressions et transformations d'emplois;
 
 153
 
@@ -4847,11 +4874,70 @@ La  mention « vu  bon  à  mandater » du  comptable  autorise  le  régisseur 
 
 [[START OF PAGE 154]]
 
+2. l'échelonnement sur les années futures des paiements résultant des autorisations de programmes;
+3. la liste des comptes spéciaux du Trésor faisant apparaître le montant des recettes et des dépenses et le cas échéant les découverts prévus pour ces comptes;
+4. la liste complète et l'évaluation des taxes parafiscales destinées à financer l'activité de certains organismes publics, commerciaux ou industriels;
+5. un état développé des restes à payer de l'Etat établi à la date la plus récente du dépôt du projet de loi de finances, ainsi qu'un état développé de l'encours et des échéances du service de la dette de l'Etat;
+6. un état développé des restes à recouvrer.
+
+Le projet de loi de finances de l'année peut en outre être accompagné des annexes explicatives suivantes:
+
+a. le bilan financier de l'Etat à la date de dépôt au Parlement du projet de loi de finances;
+b. des tableaux de financement synthétiques de l'Etat et du secteur public administratif, présentés en conformité avec les prévisions budgétaires de l'Etat;
+c. le plan de trésorerie prévisionnel et mensualisé de l'exécution du budget de l'Etat et les normes prévisionnelles de régulation des crédits ;
+d. le TOFE prévisionnel ;
+e. une présentation fonctionnelle du budget, conformément au Tableau B de la Nomenclature Budgétaire de l'Etat (NBE) ;
+f. une présentation économique du budget, conformément au Tableau G de la NBE.
+
+###### ARTICLE 36 NOUVEAU
+
+Le projet annuel de loi de règlement constate le montant définitif des encaissements de recettes et des ordonnancements des dépenses se rapportant à une même année, le cas échéant, il ratifie les ouvertures de crédits par décrets d'avances et approuve les dépassements de crédits résultant de circonstances de force majeure.
+
+Il établit le compte de résultat de l'année, qui comprend :
+
+- le déficit ou l'excédent résultant de la différence nette entre les recettes et les dépenses du budget général et des budgets annexes;
+- les profits et pertes constatés dans l'exécution des comptes spéciaux par application des articles 25 à 31.
+
+Le projet annuel de loi de règlement affecte la reprise des excédents ou des déficits à la prochaine loi de finances.
+
+###### ARTICLE 77 NOUVEAU
+
+Toute personne appartenant au cabinet d'un membre du Gouvernement, tout fonctionnaire ou agent d'un organisme public, tout représentant, administrateur ou agent d'organisme soumis à un titre quelconque au contrôle de la juridiction des comptes, peuvent être sanctionnés pour fautes de gestion.
+
 154
 
 [[END OF PAGE 154]]
 
 [[START OF PAGE 155]]
+
+La faute de gestion est sanctionnée par une amende dont le montant est déterminé par chaque Etat membre.
+
+Peut faire l'objet d'une sanction pour faute de gestion, toute personne qui aura enfreint les règles relatives à l'exécution des recettes et des dépenses des organismes publics ou à la gestion des biens leur appartenant ou qui, chargée de la tutelle ou du contrôle desdits organismes, aura donné son approbation aux décisions incriminées.
+
+Peut faire de même l'objet d'une sanction pour faute de gestion, toute personne qui, dans l'exercice de ses fonctions, a procuré ou tenté de procurer à elle même ou à autrui un avantage injustifié, pécuniaire ou en nature.
+
+Peut encore faire l'objet d'une sanction pour faute de gestion toute personne qui, en méconnaissance de ses obligations, a porté préjudice à la collectivité publique.
+
+###### ARTICLE 91 NOUVEAU
+
+Les Etats membres prendront, au plus tard le 31 décembre 2001, les mesures nécessaires à l'application effective de l'ensemble des dispositions de la présente Directive. Ces dispositions feront l'objet d'un Règlement applicable à compter du 1er janvier 2002.
+
+###### ARTICLE 2
+
+Les autres dispositions de la Directive n° 05/97/CM/UEMOA relative aux lois de finances restent sans changement.
+
+###### ARTICLE 3
+
+La présente Directive, qui entre en vigueur à compter de sa date de signature, sera publiée au Bulletin officiel de l'Union.
+
+Fait à Dakar, le 21 décembre 1999
+
+Pour le Conseil des Ministres,
+
+LE PRÉSIDENT
+SAIDOU SIDIBE
+
+Source: Commission de l'UEMOA, janvier 2000
 
 155
 
@@ -4873,15 +4959,10 @@ Sont  comprises  sous  cette  rubrique  les  diverses  fournitures  achetées  s
 
 Les biens d'une durée de vie supérieure à un an et dépassant un seuil minimum important ne sont pas enregistrés au paragraphe 621, mais au paragraphe concerné:
 
--
-
--
-
--
-
--équipements militaires : § de l'article 25…)
-
-mobiliers et matériels de bureau : § 241 ; matériel micro-informatique : § 242 ; voitures et véhicules de fonction : § 243 ;
+- mobiliers et matériels de bureau : § 241 ;
+- matériel micro-informatique : § 242 ;
+- voitures et véhicules de fonction : § 243 ;
+- équipements militaires : § de l'article 25…)
 
 ##### DEPENSES D'ENTRETIEN ET DE MAINTENANCE
 
@@ -4903,13 +4984,7 @@ Elles comprennent :
 
 [[START OF PAGE 157]]
 
--
-
-les frais d'actes et de contentieux  et toutes dépenses de prestations de services qui ne
-
-sont pas des dépenses d'entretien ou de maintenance, de frais de transport, de mission
-
-ou de réception, enregistrées dans d'autres rubriques.
+- les frais d'actes et de contentieux et toutes dépenses de prestations de services qui ne sont pas des dépenses d'entretien ou de maintenance, de frais de transport, de mission ou de réception, enregistrées dans d'autres rubriques.
 
 ##### ASSURANCES
 
@@ -4945,13 +5020,15 @@ Ce paragraphe regroupe les dépenses de l'Etat au titre des contrats de location
 
 ##### FRAIS DE TRANSPORT ET DE MISSION
 
-Entrent  dans  cette  catégorie  les  frais  de  transport  de  l'Etat  pour  le    déplacement  de  son personnel,  et  l'acheminement  des  marchandises.  Sont  également  compris  les  services auxiliaires de transports, les dépenses supportées au titre des voyages officiels, y compris les indemnités versées aux agents, à l'occasion de leurs missions.
+Entrent dans cette catégorie les frais de transport de l'Etat pour le déplacement de son personnel, et l'acheminement des marchandises. Sont également compris les services
 
 157
 
 [[END OF PAGE 157]]
 
 [[START OF PAGE 158]]
+
+auxiliaires de transports, les dépenses supportées au titre des voyages officiels, y compris les indemnités versées aux agents, à l'occasion de leurs missions.
 
 ##### AUTRES ACHATS DE BIENS ET SERVICES
 
@@ -5055,7 +5132,7 @@ La nature des dépenses est fixée comme suit :
 -soutien à des élèves nécessiteux
 
 ###### ARTICLE  4 :
-Le  conseil de  gestion  de  chaque  établissement  d'enseignement  moyen  ou secondaire est chargé du contrôle, de la mobilisation et de l'utilisation des ressources générés par ledit établissement.
+Le conseil de gestion de chaque établissement d'enseignement moyen ou secondaire est chargé du contrôle, de la mobilisation et de l'utilisation des ressources générées par ledit établissement.
 
 161
 
@@ -5103,7 +5180,81 @@ Le présent arrêté prend effet à compter de sa date de signature.
 
 #### EXEMPLE DE BON VERT D'ENGAGEMENT
 
+REPUBLIQUE DU SENEGAL
+035101
+Année
+SERVICE EMETTEUR
+
+BON D'ENGAGEMENT -- ORIGINAL
+
+Type de dépense
+MARCHE
+ENGAGEMENT SIMPLE
+(Barrer la case inutile)
+
+Mode de règlement : DMRI  Oui  Non
+(Barrer la case inutile)
+
+Nature de la dépense :
+
+Objet de la dépense
+
+Montant de la dépense
+
+Désignation du bénéficiaire
+(en majuscule obligatoirement)
+
+IMPUTATION
+Budget
+GESTION
+Code PTIP
+Section
+Titre
+Chapitre
+Article
+Paragraphe
+Ligne
+
+SITUATION DES ENGAGEMENTS
+
+Crédits ouverts (A)
+Augmentation de crédits (B)
+Diminution des crédits (C)
+Engagements antérieurs (D)
+Annulations d'engagements (E)
+Disponible avant le présent bon (F)
+
+F = (A+B+E-C-D)
+
+Contrôle du rythme de consommation  Oui  Non
+
+Le bon d'engagement n'est exécutable que s'il est accompagné du « Titre de Créance » émis par les services de l'ordonnateur sauf cas de demande de mise en règle immédiat
+
+Proposé par
+(Prénom, Nom, Cachet et signature de l'Administrateur de crédits)
+A
+Le
+
+VISA DU COF
+A
+Le
+
+VISA DE L'ORDONNATEUR DELEGUE
+A
+Le
+
+ORIGINAL A CONSERVER PAR LE FOURNISSEUR
+
 #### GRAND LIVRE DES COMPTES
+
+GRAND LIVRE DES COMPTES
+
+Nature de l'unité :
+Compte N° :
+Intitulé :
+
+Date | N° de bon | Origine des entrées | Entrées | Sorties définitives | Prix unitaire | Existant | Montant de l'existant | Pour mémoire sorties provisoires | Date de retour des matières sorties provisoirement
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 163
 
@@ -5216,43 +5367,10 @@ N° du bon d'engagement
 
 N° du bon de commande
 
-N° Compte
+DESIGNATION DES MATIERES | CHIFFRES A COMPTABILISER | Observations
 
-Nomenclature
-
-(2)
-
-DESIGNATION DES MATIERES
-
-CHIFFRES A COMPTABILISER
-
-Observations
-
-Nature des
-
-matières
-
-Spécification (5)
-
-QUANTITE
-
-Prix
-
-unitaire
-
-Montant
-
-Nombre
-
-d'unités
-
-Nature
-
-des
-
-unités
-
-(3)
+N° Compte Nomenclature (2) | Nature des matières | Spécification (5) | Nombre d'unités | Nature des unités (3) | Prix unitaire | Montant | Observations
+--- | --- | --- | --- | --- | --- | --- | ---
 
 TOTAUX
 
@@ -5262,7 +5380,7 @@ Arrêté le présent bon à …. Unités représentant une valeur de ….. franc
 
 A ………………….le …………………
 
-- L'Administrateur des matières (4)
+L'Administrateur des matières (4)
 
 AUGMENTATION DES PRISES EN CHARGE
 
@@ -5274,17 +5392,13 @@ Le comptable des matières (4)
 
 EMPLOI DE L'IMPRIME
 
-- Numérotation ininterrompue pour la gestion
+(1) Numérotation ininterrompue pour la gestion
+(2) Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
+(3) Litre, kg, mètre, nombre, etc.
+(4) Timbre et signature
+(5) Manque, code, etc.
 
-- Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
-
-- Litre, kg, mètre, nombre, etc.
-
-- Timbre et signature
-
-- Manque, code, etc.
-
-- NB : Bon à établir en 3 exemplaires dont 1 destiné aux archives du service
+NB : Bon à établir en 3 exemplaires dont 1 destiné aux archives du service
 
 167
 
@@ -5307,11 +5421,40 @@ SERVICE/ETABLISSEMENT :                                                         
 
 N°………………………………………(1)
 
-DESIGNATION DES MATIERES | QUANTITE | PRIX UNITAIRE (3)
---- | --- | --- | --- | ---
-N° Compte nomenclature (2) | Nature des matières | Spécification des matières | Nbre d'unités | Nature de l'unité
+DESIGNATION DES MATIERES | QUANTITE | PRIX UNITAIRE (3) | MONTANT | OBSERVATIONS
+
+N° Compte nomenclature (2) | Nature des matières | Spécification des matières | Nbre d'unités | Nature de l'unité | PRIX UNITAIRE (3) | MONTANT | OBSERVATIONS
+--- | --- | --- | --- | --- | --- | --- | ---
+
 TOTAUX
-CERTIFICATIONS Arrêté le présent module à ……………unités représentant une valeur de ……………francs dont je certifie la sortie provisoire A……………le……………. | DIMUNITION DES PRISES EN CHARGE Le comptable matières, soussigné, s'engage à faire diligence pour réintégrer les matières portées au présent bon dans l'enceinte du service. A…………..le…………. | RECEPISSE Je soussigné, ………..reconnais avoir reçu les matières portées au présent bon. A…………..le…………. | (1) Numérotation ininterrompu pour la gestion (2) Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature (3) Litre, kg, mètre, nombre, etc. (4) Nom et qualité (5) Timbre et signature
+
+CERTIFICATIONS
+
+Arrêté le présent module à ……………unités représentant une valeur de ……………francs dont je certifie la sortie provisoire
+
+A……………le…………….
+
+L'Administrateur des matières (5)
+
+DIMUNITION DES PRISES EN CHARGE
+
+Le comptable matières, soussigné, s'engage à faire diligence pour réintégrer les matières portées au présent bon dans l'enceinte du service.
+
+A…………..le………….
+
+Le Comptable des matières (5)
+
+RECEPISSE
+
+Je soussigné, ………..reconnais avoir reçu les matières portées au présent bon.
+
+A…………..le………….
+
+(1) Numérotation ininterrompu pour la gestion
+(2) Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
+(3) Litre, kg, mètre, nombre, etc.
+(4) Nom et qualité
+(5) Timbre et signature
 
 Remarque : Dans  le  cadre  de  l'Etat,  pour  que  la  réforme  d'un  véhicule  soit  autorisée,    le véhicule en question doit être acheminé dans les locaux de la DMTA et il faut  nécessairement l'avis de l'expert automobile de l'Etat. Ce dernier est d'ailleurs membre de la commission de réforme.
 
@@ -5321,53 +5464,22 @@ Remarque : Dans  le  cadre  de  l'Etat,  pour  que  la  réforme  d'un  véhicul
 
 [[START OF PAGE 169]]
 
-REPUBLIQUE DU SENEGAL MINISTERE SERVICE OU ETABLISSEMENT
+REPUBLIQUE DU SENEGAL
+MINISTERE
+SERVICE OU ETABLISSEMENT
+
+Instruction générale
+Art 12a, 12c, 19a
+Année budgétaire :
 
 #### BON DE SORTIE DEFINITIVE DE L'EXISTANT N° …… (1)
 
 Modèle N°2
 
-DESIGNATION DES MATIERES
+DESIGNATION DES MATIERES | QUANTITE | PRIX UNITAIRE | MONTANT | OBSERVATIONS
 
-QUANTITE
-
-PRIX
-
-UNITAIRE
-
-MONTANT
-
-OBSERVATIONS
-
-N° compte de
-
-la
-
-nomenclature
-
-(2)
-
-Nature
-
-des
-
-matières
-
-Spécification
-
-des matières
-
-Nombre
-
-d'unités
-
-Nature
-
-de
-
-l'unité
-
-(3)
+N° compte de la nomenclature (2) | Nature des matières | Spécification des matières | Nombre d'unités | Nature de l'unité (3) | PRIX UNITAIRE | MONTANT | OBSERVATIONS
+--- | --- | --- | --- | --- | --- | --- | ---
 
 TOTAUX
 
@@ -5377,7 +5489,7 @@ Arrêté le présent bon à …… Unités représentant une valeur de……….
 
 A……………………..le…………….
 
-- L'Administrateur des matières (5)
+L'Administrateur des matières (5)
 
 DIMINUTION DES PRISES EN CHARGE
 
@@ -5385,31 +5497,25 @@ Le comptable des matières, soussigné, déclare ce jour, diminuer mes prises en
 
 A………………le………………
 
-- Le Comptable des matières (5)
+Le Comptable des matières (5)
 
 RECEPISSE
 
 Nous, soussigné,……
-
 …………………………….
-
 reconnaissons avoir reçu les matières portées au présent bon
 
 A………….le……………
 
 Les Réceptionnaires (5)
 
-- Numérotation ininterrompue pour la gestion
+(1) Numérotation ininterrompue pour la gestion
+(2) Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
+(3) Litre, Kg mètre, nombre etc.
+(4) Nom et qualité
+(5) Timbre et Signature
 
-- Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
-
-- Litre, Kg mètre, nombre etc.
-
-- Nom et qualité
-
-- Timbre et Signature Bon à établir en 03 exemplaires
-
-Instruction générale Art 12a, 12c, 19a Année budgétaire :
+Bon à établir en 03 exemplaires
 
 169
 
@@ -5511,9 +5617,9 @@ A………………………… le ……………                              
 
 Signature :                                                                                                    Signature
 
-- Rayer la mention inutile
+(1) Rayer la mention inutile
 
-- Indiquer le motif de l'opération (scission d'une unité collective, perte, destruction, etc.)
+(2) Indiquer le motif de l'opération (scission d'une unité collective, perte, destruction, etc.)
 
 172
 
@@ -5527,81 +5633,44 @@ REPUBLIQUE DU SENEGAL
 
 MINISTERE …………………………                                                         Année financière
 
-SERVICE  D'ETABLISSEMENT                                                          Chapitre
-
-………………………………………. N° du bon d'engagement N° du bon de commande
+SERVICE D'ETABLISSEMENT                                                          Chapitre
+……………………………………….                                                         N° du bon d'engagement
+                                                                                 N° du bon de commande
 
 ##### BON D'ENTREE DANS L'EXISTANT
 
-N° ………………………….  1
+N° …………………………. (1)
 
-N°
+N° Compte Nomenclature (2) | DESIGNATION DES MATIERES | CHIFFRES A COMPTABILISER | Observations
 
-Compte
-
-Nomenclature   2
-
-DESIGNATION DES
-
-MATIERES
-
-CHIFFRES A COMPTABILISER
-
-Observations
-
-Nature
-
-des
-
-matières
-
-Spécifications  3
-
-QUANTITE
-
-Prix
-
-unitaire
-
-Montant
-
-Nombre
-
-d'unités
-
-Nature
-
-des
-
-unités
-
-4
+N° Compte Nomenclature (2) | Nature des matières | Spécifications (3) | Nombre d'unités | Nature des unités (4) | Prix unitaire | Montant | Observations
+--- | --- | --- | --- | --- | --- | --- | ---
 
 TOTAUX
 
 CERTIFICATIONS
 
-Arrêté le présent bon à……….unités représentant une valeur de ………….. francs dont je certifie la prise en charge A ………………… le …………….
+Arrêté le présent bon à……….unités représentant une valeur de ………….. francs dont je certifie la prise en charge
+
+A ………………… le …………….
 
 L'administrateur des matières
 
 AUGMENTATION DES PRISES EN CHARGE
 
-Le comptable des matières soussigné, déclare ce jour, augmenter  mes prises en charge de …………………….. Francs A ………………… le …………….
+Le comptable des matières soussigné, déclare ce jour, augmenter mes prises en charge de …………………….. Francs
 
-Le Comptable des matières  5
+A ………………… le …………….
 
-> 1  Numérotation ininterrompue pour la gestion
+Le Comptable des matières (5)
 
-> 2  Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
+(1) Numérotation ininterrompue pour la gestion
+(2) Dans l'ordre des articles décrits sur les pièces justificatives ou dans l'ordre des comptes de la nomenclature
+(3) Litre, kg, mètre, nombre, etc.
+(4) Timbre et signature
+(5) Marques, codes, etc.
 
-> 3  Litre, kg, mètre, nombre, etc.
-
-> 4  Timbre et signature
-
-> 5  Marques, codes, etc.
-
-> NB : Bon à établir en 3 exemplaires dont 1 destiné aux archives du service
+NB : Bon à établir en 3 exemplaires dont 1 destiné aux archives du service
 
 173
 
@@ -5669,6 +5738,8 @@ Noms, qualités et signatures des membres de la Commission :
 
 …………………………………………………………………….
 
+Modèle / exemple de procès verbal de réception (verso) ; Exemple de bordereau de livraison
+
 174
 
 [[END OF PAGE 174]]
@@ -5715,9 +5786,9 @@ N° Compte nomenclature (2) | Désignation des matières | En attente | En servi
 
 (2) Dans l'ordre des comptes de la nomenclature
 
-- Reporter l'existant du grand livre
+(3) Reporter l'existant du grand livre
 
-- Sommation des qualités  de  chaque  article  à  partir  des  fiches  d'inventaire  individuel contradictoire des matières.
+(4) Sommation des qualités de chaque article à partir des fiches d'inventaire individuel contradictoire des matières.
 
 Le comptable des matières :
 
@@ -5741,10 +5812,9 @@ SERVICE/ETABLISSEMENT :
 
 #### PROCES-VERBAL DE RECENCEMENT
 
-INVENTAIRE PHYSIQUE EFFECTUE PAR LA COMMISSION DE RECENCEMENT | DIFFERENCES CONSTATEES ENTRE INVENTAIRE PHYSIQUE ET ECRITURES
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-NUMERO NOMENCLATURE | DESIGNATION DES MATIERES | MATIERES EN ATTENTE D'AFFECTATION | MATIERES EN SERVICE | MATIERES EN SORTIE PROVISOIRE | TOTAL | EN PLUS | EN MOINS | PRIX UNITAIRE | VALEUR DE LA DIFFERENCE
-EN PLUS | EN MOINS
+NUMERO NOMENCLATURE | DESIGNATION DES MATIERES | INVENTAIRE PHYSIQUE EFFECTUE PAR LA COMMISSION DE RECENCEMENT |  |  |  | DIFFERENCES CONSTATEES ENTRE INVENTAIRE PHYSIQUE ET ECRITURES |  | PRIX UNITAIRE | VALEUR DE LA DIFFERENCE | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | MATIERES EN ATTENTE D'AFFECTATION | MATIERES EN SERVICE | MATIERES EN SORTIE PROVISOIRE | TOTAL | EN PLUS | EN MOINS |  | EN PLUS | EN MOINS
 
 176
 
@@ -5766,26 +5836,26 @@ Type d'équipement/de mobilier
 
 Localisation exacte ou N° d'identification de l'emplacement (la salle) : ………………………….
 
-Type d'équipement ou de mobilier | Unité ayant des dégradations mineures | Unité ayant des dégradations majeures | Actions à entreprendre
---- | --- | --- | ---
-Nbre | Type de dégradation | Nbre | Type de dégradation
-Bureau/table d'enseignement
-Etagère
-Tableau noir
-Armoire
-Table banc à | …..places
-Chaises
-Table simple
-Ordinateur
-Imprimante
-Onduleur
-Photocopie
-Risographe
-Scanneur
-Magnétoscope
-Appareil photo numérique
-Téléphone
-Modem
+Type d'équipement ou de mobilier | Nbre total dans l'emplacement concerné (inventaire) | Nbre OK | Unité ayant des dégradations mineures |  | Unité ayant des dégradations majeures |  | Actions à entreprendre
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  | Nbre | Type de dégradation | Nbre | Type de dégradation | 
+Bureau/table d'enseignement |  |  |  |  |  |  | 
+Etagère |  |  |  |  |  |  | 
+Tableau noir |  |  |  |  |  |  | 
+Armoire |  |  |  |  |  |  | 
+Table banc à …..places |  |  |  |  |  |  | 
+Chaises |  |  |  |  |  |  | 
+Table simple |  |  |  |  |  |  | 
+Ordinateur |  |  |  |  |  |  | 
+Imprimante |  |  |  |  |  |  | 
+Onduleur |  |  |  |  |  |  | 
+Photocopie |  |  |  |  |  |  | 
+Risographe |  |  |  |  |  |  | 
+Scanneur |  |  |  |  |  |  | 
+Magnétoscope |  |  |  |  |  |  | 
+Appareil photo numérique |  |  |  |  |  |  | 
+Téléphone |  |  |  |  |  |  | 
+Modem |  |  |  |  |  |  | 
 
 > Adapté du Module 3, guide d'entretien et de maintenance du collège d'enseignement moyen, USAID/PAEM, 2007
 
@@ -5839,17 +5909,24 @@ Etablissement : ……………………… ………………Inspection à la f
 
 STRUCTURE (fiche) | NATURE DE LA DEGRADATION | CAUSE DE LA DEGRADATION | SOLUTION/ACTION A ENTREPRENDRE
 --- | --- | --- | ---
-Bureau du Principal
-Salle de classe A
-Salle de classe B
-Salle de classe C Etc.
-Latrines filles Latrines garçons
-Toilettes professeurs
-Espaces extérieurs
+Bureau du Principal |  |  | 
+Salle de classe A |  |  | 
+Salle de classe B |  |  | 
+Salle de classe C<br>Etc. |  |  | 
+Latrines filles |  |  | 
+Latrines garçons |  |  | 
+Toilettes professeurs |  |  | 
+Espaces extérieurs |  |  | 
 
-Source :  Module  3,  guide  d'entretien  et  de  maintenance  du  collège  d'enseignement  moyen,  USAID/PAEM, 2007
+Source : Module 3, guide d'entretien et de maintenance du collège d'enseignement moyen, USAID/PAEM, 2007
 
 #### MATERIEL DE REPARATION
+
+Brosse | Coupe-coupe | Grattoir | Seau
+--- | --- | --- | ---
+Brosse dure | Clé universelle | Marteau | Taloche
+Brouette | Dame | Pelle | Tournevis
+Burin | Escabeau | Pinces | Truelle
 
 Source : Module 3, guide d'entretien et de maintenance du collège d'enseignement moyen, USAID/PAEM, 2007
 
@@ -5885,11 +5962,11 @@ Dans ce domaine, le CE trouvera des instruments pour gérer  durablement :
 
 ECHELLE | OPPORTUNITES | MENACES | MECANISME DE GESTION DURABLE
 --- | --- | --- | ---
-- Conditions climatiques - Disponibilités foncières - Infrastructures et équipements - Personnes-ressources - Partenariat - Leadership des collectivités locales | - Chaleur - Dégradation du sol : salinisation, érosion… - Accès à l'eau - Insuffisance de réserves foncières - Manque d'infrastructures - Déficit de personnes-ressources - Représentations culturelles et sociales - Faible engagement des CL | - Ecomusée - Eco-école - Bois de village - Vergers/jardins botaniques - Information, Education, communication, formation - Clubs Amis de la Nature | Environnement de la localité
-- Services de gestion de l'environnement - Projets environnementaux - Parcs et réserves naturelles - Engagement communautaire - ONG, ASC, OCB | - Insécurité installations électriques, laboratoires (produits chimiques), amiante, absence de clôture (animaux en divagation) - Marchés - Cantines - Encombrements - Pollutions - Absence de clôture - Eloignement - Insalubrité - Site inadapté | - Ouverture au milieu (dialogue, concertation…) - Synergie d'actions entre l'école, les collectivités locales, les services - Mise à contribution des ONG | Environnement immédiat
-de - Acteurs formés - Leadership du chef d'établissement - CGE fonctionnel - Existence de points d'eau - Existence de partenaires/mécènes - Existence d'un PE/PAQ | - Non adhésion des acteurs aux activités péri et parascolaires - Manque de leadership du CE - Inexistence/non fonctionnalité CGE - Absence de PE/PAQ - Inexistence de partenaires/mécènes | - Eco-école - écomusée - Clubs EVF - Micro-jardinage - Partenariat - Mise en place de CGE fonctionnels - Camps de vacance - Fédérer les actions autour du PE et du PAQ | Environnement interne l'établissement
+Environnement de la localité | - Conditions climatiques<br>- Disponibilités foncières<br>- Infrastructures et équipements<br>- Personnes-ressources<br>- Partenariat<br>- Leadership des collectivités locales | - Chaleur<br>- Dégradation du sol : salinisation, érosion…<br>- Accès à l'eau<br>- Insuffisance de réserves foncières<br>- Manque d'infrastructures<br>- Déficit de personnes-ressources<br>- Représentations culturelles et sociales<br>- Faible engagement des CL | - Ecomusée<br>- Eco-école<br>- Bois de village<br>- Vergers/jardins botaniques<br>- Information, Education, communication, formation<br>- Clubs Amis de la Nature
+Environnement immédiat | - Services de gestion de l'environnement<br>- Projets environnementaux<br>- Parcs et réserves naturelles<br>- Engagement communautaire<br>- ONG, ASC, OCB | - Insécurité installations électriques, laboratoires (produits chimiques), amiante, absence de clôture (animaux en divagation)<br>- Marchés<br>- Cantines<br>- Encombrements<br>- Pollutions<br>- Absence de clôture<br>- Eloignement<br>- Insalubrité<br>- Site inadapté | - Ouverture au milieu (dialogue, concertation…)<br>- Synergie d'actions entre l'école, les collectivités locales, les services<br>- Mise à contribution des ONG
+Environnement interne de l'établissement | - Acteurs formés<br>- Leadership du chef d'établissement<br>- CGE fonctionnel<br>- Existence de points d'eau<br>- Existence de partenaires/mécènes<br>- Existence d'un PE/PAQ | - Non adhésion des acteurs aux activités péri et parascolaires<br>- Manque de leadership du CE<br>- Inexistence/non fonctionnalité CGE<br>- Absence de PE/PAQ<br>- Inexistence de partenaires/mécènes | - Eco-école<br>- écomusée<br>- Clubs EVF<br>- Micro-jardinage<br>- Partenariat<br>- Mise en place de CGE fonctionnels<br>- Camps de vacance<br>- Fédérer les actions autour du PE et du PAQ
 
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 181
 
@@ -5901,10 +5978,10 @@ Source : Module de formation au curriculum pour chefs d'établissement, USAID/ED
 
 Domaines | Inventaire (l'existant) : problèmes ou dysfonctionnements | Dispositif de prise en charge ou solutions des problèmes identifiés
 --- | --- | ---
-Hygiène | Inventaire à faire | Désinfection Poubelles, Ergonomie Toilettes Points d'eau Vente des aliments Cantine contrôle des Brigade d'hygiène
-Risques liés à la santé | Inventaire à faire | Dépistage (VIH/IST, tuberculose….)
+Hygiène | Inventaire à faire | - Désinfection<br>- Poubelles, bacs à ordures, corbeilles dans les classes<br>- Ergonomie (aération des salles<br>- Toilettes séparées<br>- Points d'eau<br>- Vente des aliments<br>- Cantine<br>- contrôle des toxiques (tabac, drogue, alcool…)<br>- Brigade d'hygiène<br>- Information, Education, Communication (IEC)
+Risques liés à la santé | Inventaire à faire | - Visite médicale de la rentrée<br>- Infirmerie/infirmier(e) , etc.)<br>- Boîte pharmaceutique<br>- Dépistage (VIH/IST, tuberculose….)<br>- Vaccination<br>- Information, Education, Communication (IEC)<br>- ………..
 
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 182
 
@@ -5912,31 +5989,30 @@ Source : Module de formation au curriculum pour chefs d'établissement, USAID/ED
 
 [[START OF PAGE 183]]
 
-DOMAINES | PRATIQUES
---- | --- | ---
-D'EQUITE | D'INEQUITE
-GESTION PEDAGOGIQUE | Equité pédagogique | Répartition des élèves dans les classes selon leur moyenne
-Emploi du temps équilibré, centré sur les apprenants | Confection des emplois du temps selon les affinités avec les enseignants
-Pédagogie de remédiation (soutien des élèves en difficulté) | L'organisation de cours payants dans l'établissement
-Pédagogie différenciée | Centrage des relations enseignement-apprentissage sur les meilleurs élèves
-Evaluation des apprentissages prenant en charge les différents niveaux taxonomiques (épreuves paramétrées) | Notation des élèves en fonction des relations et non en fonction du mérite
-GESTION DES PERSONNELS | Responsabilisation selon le mérite, la compétence et la confiance | Responsabilisation en fonction des critères subjectifs
-Travail en équipe au sein de l'établissement | Attribution des classes (heures, classes d'examen…) basée sur des critères non objectifs
-Evaluation des agents selon les textes en vigueur à partir de contrat d'objectifs | Evaluation subjective des agents
-Traitement équitable (différencié) des agents | Contrôle discriminatoire des retards et absences
-Mise en place d'un dispositif de développement personnel et professionnel des agents | Promotion d'agents non méritants
-GESTION DES ELEVES | Prise en compte des handicaps | Non prise en compte des personnes handicaps
-Accompagnement des élèves vulnérables à la déperdition scolaire (observatoire) | Non prise en compte de la vulnérabilité à la déperdition scolaire
-Soutien des élèves en difficulté | Non prise en compte du profil psychologique, pédagogique et social des élèves
-GESTION MATERIELLE, FINANCIERE, DES INFRASTRUCURES ET EQUIPEMENTS | Affectation des ressources selon les besoins | Affectation des ressources en faveur des classes d'examen
-Favoriser l'éducation inclusive | Création de classes d'excellence
-Blocs d'hygiène en nombre suffisant et séparés | Inexistence de blocs d'hygiène séparés/fonctionnels
-Mise en place de dispositifs pour les handicapés | Absence de dispositif pour les handicapés (rampes, chaises anglaises…)
-Mise à disposition de commodités pour les filles et les élèves nécessiteux | Absence de commodités pour les filles (serviettes d'hygiène, médicaments…)
-
 #### GRILLE D'ANALYSE DES PRATIQUES D'EQUITE DANS L'ETABLISSEMENT SCOLAIRE
 
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+DOMAINES | PRATIQUES D'EQUITE | PRATIQUES D'INEQUITE
+--- | --- | ---
+GESTION PEDAGOGIQUE | Equité pédagogique | Répartition des élèves dans les classes selon leur moyenne
+ | Emploi du temps équilibré, centré sur les apprenants | Confection des emplois du temps selon les affinités avec les enseignants
+ | Pédagogie de remédiation (soutien des élèves en difficulté) | L'organisation de cours payants dans l'établissement
+ | Pédagogie différenciée | Centrage des relations enseignement-apprentissage sur les meilleurs élèves
+ | Evaluation des apprentissages prenant en charge les différents niveaux taxonomiques (épreuves paramétrées) | Notation des élèves en fonction des relations et non en fonction du mérite
+GESTION DES PERSONNELS | Responsabilisation selon le mérite, la compétence et la confiance | Responsabilisation en fonction des critères subjectifs
+ | Travail en équipe au sein de l'établissement | Attribution des classes (heures, classes d'examen…) basée sur des critères non objectifs
+ | Evaluation des agents selon les textes en vigueur à partir de contrat d'objectifs | Evaluation subjective des agents
+ | Traitement équitable (différencié) des agents | Contrôle discriminatoire des retards et absences
+ | Mise en place d'un dispositif de développement personnel et professionnel des agents | Promotion d'agents non méritants
+GESTION DES ELEVES | Prise en compte des handicaps | Non prise en compte des personnes handicaps
+ | Accompagnement des élèves vulnérables à la déperdition scolaire (observatoire) | Non prise en compte de la vulnérabilité à la déperdition scolaire
+ | Soutien des élèves en difficulté | Non prise en compte du profil psychologique, pédagogique et social des élèves
+GESTION MATERIELLE, FINANCIERE, DES INFRASTRUCTURES ET EQUIPEMENTS | Affectation des ressources selon les besoins | Affectation des ressources en faveur des classes d'examen
+ | Favoriser l'éducation inclusive | Création de classes d'excellence
+ | Blocs d'hygiène en nombre suffisant et séparés | Inexistence de blocs d'hygiène séparés/fonctionnels
+ | Mise en place de dispositifs pour les handicapés | Absence de dispositif pour les handicapés (rampes, chaises anglaises…)
+ | Mise à disposition de commodités pour les filles et les élèves nécessiteux | Absence de commodités pour les filles (serviettes d'hygiène, médicaments…)
+
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 183
 
@@ -5946,11 +6022,11 @@ Source : Module de formation au curriculum pour chefs d'établissement, USAID/ED
 
 #### DISPOSITIF DE PRISE EN CHARGE DE LA QUESTION DE L'EQUITE DANS L'ETABLISSEMENT
 
-Quoi ? (Problème) | Comment ? (stratégies, modalités) | Avec quels moyens ?
---- | --- | ---
-Humains | Financiers | Matériels
+Quoi ? (Problème) | Qui ? (victimes) | Comment ? (stratégies, modalités) | Quand ? (période, échéancier) | Avec quels moyens ? |  | 
+--- | --- | --- | --- | --- | --- | ---
+ |  |  |  | Humains | Financiers | Matériels
 
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 [[END OF PAGE 184]]
 
@@ -5960,9 +6036,9 @@ Source : Module de formation au curriculum pour chefs d'établissement, USAID/ED
 
 DOMAINES | AXES D'INTERVENTION
 --- | ---
-EQUITE ET GESTION DES INFRASTRUCTURES ET EQUIPEMENTS DE L'ETABLISSEMENT SCOLAIRE | checkbld Prise en charge du genre et du handicap dans l'aménagement et la gestion des infrastructures ; checkbld veiller à la séparation et à l'équipement adéquat des toilettes ; bonne répartition des boxes ; checkbld veiller à l'existence de vestiaires séparés; installation de rampes pour les escaliers ; prévoir un équipement spécifique pour les handicapés ; checkbld Disponibilité de points d'eau et de serviettes hygiéniques ; checkbld Mise en place d'un « coin santé » et le gérer de manière équitable (actions positives en faveur des élèves à besoins spécifiques) ; checkbld Accès équitable aux infrastructures et au matériel de l'établissement : salle informatique, bibliothèque, CDI, laboratoires, terrains de sport
-EQUITE ET GESTION DES RESSOURCES MATERIELLES ET FINANCIERES | checkbld Fonctionnement d'un Conseil de Gestion de l'Etablissement équitable : mise en place et exécution d'un budget équitable qui tient compte à la fois de la centralité de l'élève, du genre, du handicap et de la situation sociale ; checkbld Prise en compte par le Conseil de Gestion de l'Etablissement de la rubrique « soutien à des élèves nécessiteux » prévu dans la répartition des recettes générées par l' Arrêté Interministériel n°3207 du 17/03/2004 ; checkbld Mise à disposition des ressources de l'établissement à disposition pour des travaux, activités ou réalisations en faveur de l'équité ; checkbld Instauration de l'uniforme scolaire ; checkbld Mise en place d'une cantine et prise en charge des élèves vulnérables
-EQUITE ET DES ORGANES ET INSTANCES | FONCTIONNEMENT Insertion dans le Règlement Intérieur des dispositions liés à l'équité ; élaboration et vulgarisation participatives ; (cf. fiche Bonne gouvernance et vie scolaire) ; checkbld Représentativité et protection de la parole des élèves dans les instances où ils siègent, notamment le Conseil de Gestion (cf. fiche Bonne Gouvernance et vie scolaire) ; checkbld Respect de l'équité dans les procédures disciplinaires concernant les élèves et les personnels ; respect du droit à la défense des présumés fautifs ; respect de la hiérarchie des sanctions et du droit de recours ; checkbld Equité dans les décisions du Conseil de classe ; présence indispensable de l'assistant(e) social(e) ou d'un membre de la Commission Sociale ; collaboration de l'établissement avec le Centre Académique d'Orientation Scolaire et Professionnelle ;
+EQUITE ET GESTION DES INFRASTRUCTURES ET EQUIPEMENTS DE L'ETABLISSEMENT SCOLAIRE | - Prise en charge du genre et du handicap dans l'aménagement et la gestion des infrastructures ;<br>- veiller à la séparation et à l'équipement adéquat des toilettes ; bonne répartition des boxes ;<br>- veiller à l'existence de vestiaires séparés; installation de rampes pour les escaliers ; prévoir un équipement spécifique pour les handicapés ;<br>- Disponibilité de points d'eau et de serviettes hygiéniques ;<br>- Mise en place d'un « coin santé » et le gérer de manière équitable (actions positives en faveur des élèves à besoins spécifiques) ;<br>- Accès équitable aux infrastructures et au matériel de l'établissement : salle informatique, bibliothèque, CDI, laboratoires, terrains de sport
+EQUITE ET GESTION DES RESSOURCES MATERIELLES ET FINANCIERES | - Fonctionnement d'un Conseil de Gestion de l'Etablissement équitable : mise en place et exécution d'un budget équitable qui tient compte à la fois de la centralité de l'élève, du genre, du handicap et de la situation sociale ;<br>- Prise en compte par le Conseil de Gestion de l'Etablissement de la rubrique « soutien à des élèves nécessiteux » prévu dans la répartition des recettes générées par l' Arrêté Interministériel n°3207 du 17/03/2004 ;<br>- Mise à disposition des ressources de l'établissement à disposition pour des travaux, activités ou réalisations en faveur de l'équité ;<br>- Instauration de l'uniforme scolaire ;<br>- Mise en place d'une cantine et prise en charge des élèves vulnérables
+EQUITE ET FONCTIONNEMENT DES ORGANES ET INSTANCES | Insertion dans le Règlement Intérieur des dispositions liés à l'équité ; élaboration et vulgarisation participatives ; (cf. fiche Bonne gouvernance et vie scolaire) ;<br>- Représentativité et protection de la parole des élèves dans les instances où ils siègent, notamment le Conseil de Gestion (cf. fiche Bonne Gouvernance et vie scolaire) ;<br>- Respect de l'équité dans les procédures disciplinaires concernant les élèves et les personnels ; respect du droit à la défense des présumés fautifs ; respect de la hiérarchie des sanctions et du droit de recours ;<br>- Equité dans les décisions du Conseil de classe ; présence indispensable de l'assistant(e) social(e) ou d'un membre de la Commission Sociale ; collaboration de l'établissement avec le Centre Académique d'Orientation Scolaire et Professionnelle ;<br>- Equité dans la distribution des rôles et responsabilités aux acteurs ; les opérations éventuelles de nettoyage et d'entretien des locaux seront effectuées de manière équitable.
 
 185
 
@@ -5972,11 +6048,11 @@ EQUITE ET DES ORGANES ET INSTANCES | FONCTIONNEMENT Insertion dans le Règlement
 
 DOMAINES | AXES D'INTERVENTION
 --- | ---
-EQUITE ET ENSEIGNEMENTS / APPRENTISSAGES | causeries, confections de dossiers, enquête, fora, genre : stéréotypes, représentations, enjeux exposés, causeries, confections de dossiers, etc.) sur le handicap: stéréotypes, handicapés ; vulgarisation textes sur le par les élèves et les autres acteurs de l'établissement confections de dossiers, enquête, fora, campagnes, interventions personnes-ressources, expositions, vulgarisation des textes sur la question etc.) sur la réussite et intégrant le soutien et l'aide emplois du temps ; prendre prioritairement pédagogie différenciée, pédagogie de maîtrise évaluatives sensibles au genre et au handicap
-EQUITE ET GESTION ADMINISTRATIVE | checkbld Equité dans l'évaluation des agents de l'établissement par le chef d'établissement sur la base d'un contrat de performances négocié avec les différentes catégories de personnels ; checkbld Répartition équitable des tâches entre les agents ; checkbld Respect des prérogatives et du mérite de chaque acteur
-EQUITE ET MOBILISATION COMMUNAUTAIRE | checkbld Organisation de campagnes de sensibilisation : fora, journée annuelle, émission radios, théâtre, panels, caravane, jumelage, camps de vacances ; (thèmes : violences, travaux domestiques, grossesses et mariages précoces, maladies handicapantes, genre…) ; checkbld Formation de relais communautaires et mentors sur les techniques de mobilisation et sur le leadership;
+EQUITE ET ENSEIGNEMENTS / APPRENTISSAGES | - Reconnaissance et valorisation du mérite des élèves ;<br>- Travaux (ateliers, exposés, causeries, confections de dossiers, enquête, fora, campagnes, interventions personnes-ressources, expositions, etc.) sur le genre : stéréotypes, représentations, enjeux ;<br>- Organisations de Travaux (ateliers, exposés, causeries, confections de dossiers, enquête, fora, campagnes, interventions personnes-ressources, expositions, etc.) sur le handicap: stéréotypes, représentations, enjeux; faire un focus particulier sur la situation des enfants handicapés ; vulgarisation textes sur le handicap ;<br>- Appropriation des droits de l'enfant par les élèves et les autres acteurs de l'établissement (ateliers, exposés, causeries, confections de dossiers, enquête, fora, campagnes, interventions personnes-ressources, expositions, vulgarisation des textes sur la question etc.)<br>- Innovations pédagogiques centrées sur la réussite et intégrant le soutien et l'aide aux élèves en difficulté ;<br>- Equité dans la confection des emplois du temps ; prendre prioritairement en compte la centralité de l'élève et son rythme chrono biologique. ;<br>- Pratiques de classes et équité : pédagogie différenciée, pédagogie de maîtrise ; pédagogie des grands groupes ; soutien aux élèves en difficulté ; pratiques évaluatives sensibles au genre et au handicap ;<br>- Bonne organisation scolaire, (favoriser la mixité, répartition équitable des ressources pédagogiques ; éviter de créer de « bonnes » et de « mauvaises » classes.) ;
+EQUITE ET GESTION ADMINISTRATIVE | - Equité dans l'évaluation des agents de l'établissement par le chef d'établissement sur la base d'un contrat de performances négocié avec les différentes catégories de personnels ;<br>- Répartition équitable des tâches entre les agents ;<br>- Respect des prérogatives et du mérite de chaque acteur
+EQUITE ET MOBILISATION COMMUNAUTAIRE | - Organisation de campagnes de sensibilisation : fora, journée annuelle, émission radios, théâtre, panels, caravane, jumelage, camps de vacances ; (thèmes : violences, travaux domestiques, grossesses et mariages précoces, maladies handicapantes, genre…) ;<br>- Formation de relais communautaires et mentors sur les techniques de mobilisation et sur le leadership;
 
-Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB -DEMSG, septembre 2010
+Source : Module de formation au curriculum pour chefs d'établissement, USAID/EDB –DEMSG, septembre 2010
 
 186
 
@@ -6043,7 +6119,7 @@ Le cadre de coordination est constitué d'un Comité National de Pilotage (CNP) 
 Les membres du CCIEF se réuniront au moins une ou deux fois par an et chaque fois que de besoin pour passer  en revue et dresser des activités mise en œuvre :
 
 ###### Article 5 :
-Le pilotage et la coordination du cadre des interventions sur l'éducation des filles sont  assurés  au  niveau  central  et  au  niveau  décentralisé  par  le  Comit é National  de Pilotage(CNP), le Comité Technique National (CTN), le Secrétariat Exécutif Permanent(SEP) et les organes de gestion du PDEF.
+Le pilotage et la coordination du cadre des interventions sur l'éducation des filles sont assurés au niveau central et au niveau décentralisé par le Comité National de Pilotage(CNP), le Comité Technique National (CTN), le Secrétariat Exécutif Permanent(SEP) et les organes de gestion du PDEF.
 
 ###### Article  6 :
 Le  Comité  National  de  Pilotage(CNP)  est  chargé  de  l'orientation  politique,  de  la validation  des  programmes  et  des  arbitrages  nécessaires  dans  le  pilotage  du  cadre  de coordination des interventions sur  l'éducation des filles (CCIEF). Il est présidé par le Ministre de l'Education.
@@ -6152,6 +6228,44 @@ LE MINISTRE DE L'EDUCATION
 
 #### GESTION DES MARIAGES ET GROSSESSES PRECOCES D'ELEVES
 
+REPUBLIQUE DU SENEGAL
+MINISTERE DE L'EDUCATION
+DIRECTION DE L'ENSEIGNEMENT
+MOYEN ET SECONDAIRE GENERAL
+
+N° 004379 ME/SG/DEMSG/DAJ/LD
+
+DAKAR, le 11 OCT 2007
+
+#### CIRCULAIRE
+
+A Mesdames et Messieurs les Chefs d'Etablissements d'Enseignement
+Moyen et Secondaire.
+
+Objet : Gestion des mariages et des grossesses d'élèves dans les établissements scolaires
+
+Le Sénégal a ratifié toutes les conventions relatives aux droits de l'enfant. La politique d'accès et de maintien des élèves pour une scolarité de dix ans, invite à lutter contre les mariages précoces et grossesses d'élèves, facteurs de déperditions scolaires.
+
+Toutefois, les exclusions d'élèves et les conflits qui découlent de la gestion des cas de mariages et de grossesses d'élèves constatés dans nos établissements, appellent à de nouvelles dispositions.
+
+L'admission des élèves mariées dans les établissements scolaires doit se conformer à la législation en vigueur.
+
+Les élèves en état de grossesse font l'objet d'une suspension de scolarité jusqu'à l'accouchement pour des raisons de sécurité. L'état de grossesse doit être au préalable dûment constaté par un médecin reconnu et agréé par l'Etat. La réintégration dans l'établissement se fait sur la présentation d'un certificat médical d'aptitude à reprendre les cours.
+
+Pour prévenir les mariages précoces, le chef d'établissement en relation avec le Comité de Gestion de l'Etablissement (CGE), met en place un comité de veille afin de promouvoir l'éducation à la vie familiale.
+
+Pour rappel, les grossesses découlant de viol ou de détournement de mineure et les harcèlements sont punis par la loi.
+
+Ampliation
+Toutes Directions
+Tous Services
+Toutes IA
+Toutes IDEN
+
+LE MINISTRE DE L'EDUCATION
+
+MOUSTAPHA SOURANG
+
 191
 
 [[END OF PAGE 191]]
@@ -6166,7 +6280,9 @@ La scolarisation des filles est un pari pour moi,
 
 Je reconnais que les filles et les femmes subissent des discriminations fondées sur le sexe au niveau social
 
-Je reconnais que ma position à l'école me confère une responsabilité particulière dans la protection des filles et des garçons contre toute remarque ou attitude à connotation sexuelle Je m'interdis d'être volontairement une cause  de tort ou de corruption ou de toute entreprise de séduction à l'égard des élèves,  filles  ou garçons
+Je reconnais que ma position à l'école me confère une responsabilité particulière dans la protection des filles et des garçons contre toute remarque ou attitude à connotation sexuelle
+
+Je m'interdis d'être volontairement une cause de tort ou de corruption ou de toute entreprise de séduction à l'égard des élèves, filles ou garçons
 
 Je m'engage à lutter pour leur éradication totale
 
@@ -6180,7 +6296,9 @@ Je m'engage à assumer mes fonctions avec une responsabilité et une déterminat
 
 Quoi que je fasse dans l'exercice de ma profession, je veillerai à éliminer les stéréotypes sexistes et à ne jamais faire de discriminations fondées sur le sexe
 
-Je jure de ne jamais user de mon autorité sur les élèves à des fins sexuelles Je jure sur l'honneur que je respecterai le serment et les engagements cidessus.
+Je jure de ne jamais user de mon autorité sur les élèves à des fins sexuelles
+
+Je jure sur l'honneur que je respecterai le serment et les engagements ci-dessus.
 
 [[END OF PAGE 192]]
 
@@ -6190,9 +6308,30 @@ Je jure de ne jamais user de mon autorité sur les élèves à des fins sexuelle
 
 Source : USAID/EPQ (2011) : Dimension genre : facteur clé d'une éducation de qualité ; Guide pratique pour le sous secteur du moyen.
 
+CADRE D'ORIENTATION STRATEGIQUE SUR L'INTEGRATION DU GENRE DANS LE SOUS SECTEUR DU MOYEN
+
+CHEF D'ETABLISSEMENT
+
+OBJECTIFS STRATEGIQUES | CRITERES | EXTRANTS | TACHES | INDICATEURS
+--- | --- | --- | --- | ---
+1. Mettre à la disposition des acteurs des outils et mécanismes d'intégration de la dimension genre | Les outils de gestion de l'établissement intègrent la dimension genre :<br><br>- les pièces périodiques,<br><br>- la fiche de répartition des tâches équitable et sans approche sexiste,<br><br>- la fiche de renseignement élèves / enseignant-e-s améliorée et prend en compte la dimension genre. | Des pièces périodiques intégrant la dimension genre | Le chef d'établissement identifie les points d'insertion du genre dans les pièces périodiques | Le nombre de pièces périodiques rédigées de manière épicène
+ |  | Une fiche de répartition équitable des tâches et intégrant le genre | Le chef d'établissement améliore la fiche de répartition des tâches dans le respect de l'équité et de l'égalité de genre | La nature des tâches confiées aux hommes, aux femmes, aux filles et aux garçons
+ |  | Un code de conduite participatif qui évoquent les droits et devoirs des élèves, les problèmes d'éthique et de déontologie | Le chef d'établissement facilite la mise en place d'un code de conduite participatif | Le degré de respect de la disposition du code de conduite<br>Le respect des droits et des devoirs de tous les acteurs
+ |  | Une fiche renseignant sur les spécificités de chaque élève | Le chef d'établissement met à jour les fiches de renseignements | Précision et spécificité des informations de la fiche
+
 [[END OF PAGE 193]]
 
 [[START OF PAGE 194]]
+
+CADRE D'ORIENTATION STRATEGIQUE SUR L'INTEGRATION DU GENRE DANS LE SOUS SECTEUR DU MOYEN
+
+CHEF D'ETABLISSEMENT
+
+OBJECTIFS STRATEGIQUES | CRITERES | EXTRANTS | TACHES | INDICATEURS
+--- | --- | --- | --- | ---
+ | Les conditions de mise en place des structures et outils de gestion de l'établissement (CGE, gouvernement scolaire/FSE, PAQ (Plan Amélioration de la Qualité) ou PED (Projet Educatif) intègrent l'équité et l'égalité de genre | Des procédures de veille et de remédiation pour l'égale participation des élèves et des professeurs | Le chef d'établissement met en place un dispositif de veille sur la mise en place et le fonctionnement des structures | La proportion de filles et de garçons dans les structures de gestion<br>La proportion des femmes enseignantes
+ |  | Le projet éducatif est sensible au genre | Le chef d'établissement fait valider un projet éducatif qui respecte la dimension genre | Les besoins spécifiques des filles et des garçons, des hommes et des femmes sont satisfaits
+ |  | Un encadrement pédagogique qui renforce les contenus, les comportements, les pratiques et attitudes relatives à la mixité entre les élèves, les professeurs, | Le chef d'établissement s'assure que les enseignements reposent sur la pédagogie de la mixité | Les contenus de l'encadrement dispensé
 
 194
 
@@ -6200,17 +6339,47 @@ Source : USAID/EPQ (2011) : Dimension genre : facteur clé d'une éducation de q
 
 [[START OF PAGE 195]]
 
+CADRE D'ORIENTATION STRATEGIQUE SUR L'INTEGRATION DU GENRE DANS LE SOUS SECTEUR DU MOYEN
+
+CHEF D'ETABLISSEMENT
+
+OBJECTIFS STRATEGIQUES | CRITERES | EXTRANTS | TACHES | INDICATEURS
+--- | --- | --- | --- | ---
+2. Faciliter l'adoption de comportements et d'attitudes favorables à l'intégration de la dimension genre | Un dispositif efficace et non discriminatoire de communication interne et externe est mis en place | Des comportements propices au dialogue sont adoptés | Le chef instaure la culture du dialogue dans l'établissement par la discussion, | Les outils, les procédures et les instances de communication
+ | Présence équilibrée des filles et des garçons dans les différentes structures de l'établissement (CGE, Gouvernement scolaire/Foyer socio éducatif, Cellules genre, Clubs, dispositif de veille et d'alerte) | La représentation proportionnelle des filles et des garçons | Le chef contribue à la mixité des différentes structures et à la responsabilisation des filles | La composition des structures à tous les niveaux
+ | Les projets personnels des élèves filles et garçons sont orientés sans stéréotypes | Une orientation en fonction des aptitudes des élèves, et sans stéréotypes | Le chef d'établissement fait appel au CROSP pour aider les élèves à choisir une orientation judicieuse | Les critères d'orientation
+
 195
 
 [[END OF PAGE 195]]
 
 [[START OF PAGE 196]]
 
+CADRE D'ORIENTATION STRATEGIQUE SUR L'INTEGRATION DU GENRE DANS LE SOUS SECTEUR DU MOYEN
+
+CHEF D'ETABLISSEMENT
+
+OBJECTIFS STRATEGIQUES | CRITERES | EXTRANTS | TACHES | INDICATEURS
+--- | --- | --- | --- | ---
+ | Respect des normes du collège de qualité | Une cellule genre existe dans l'établissement | Elle met en place une cellule genre chargée de la veille de l'alerte (prévention des violences et des conflits) et du suivi et de l'animation sur le genre | La composition de la cellule<br><br>Le niveau de prise en compte du genre dans le fonctionnement de l'établissement
+ |  | Un dispositif de soutien multiforme est mis en place | Elle apporte son soutien actif en cas d'outrage ou d'agression sexiste envers un(e) élève | Le nombre de victimes d'agression soutenues
+ |  | Un programme de démultiplication des formations est disponible | Elle crée les conditions pour démultiplier les formations reçues | Le nombre de démultiplications effectives
+ |  | Un collège répondant aux normes de qualité | Elle développe des initiatives pour avoir un collège aux normes<br>Elle développe des activités para péri scolaires | Les performances en genre au niveau de l'établissement<br>Les élèves éduqués à la citoyenneté (civisme, tolérance, la confiance en soi, l'amitié, la vie
+
 196
 
 [[END OF PAGE 196]]
 
 [[START OF PAGE 197]]
+
+CADRE D'ORIENTATION STRATEGIQUE SUR L'INTEGRATION DU GENRE DANS LE SOUS SECTEUR DU MOYEN
+
+CHEF D'ETABLISSEMENT
+
+OBJECTIFS STRATEGIQUES | CRITERES | EXTRANTS | TACHES | INDICATEURS
+--- | --- | --- | --- | ---
+ |  |  |  | en harmonie<br>Des campagnes de sensibilisation sur les questions liées au genre (accès, maintien des filles, violences à caractère sexuelles, grossesses non désirées, mariages précoces, allègement des travaux domestiques)
+ | Mixité et transparence du fonctionnement du comité de gestion de la cantine | Une cantine normée | Elle/il veille à la bonne marche de la cantine | Salubrité, mixité de la cantine, épanouissement des élèves des deux sexes
 
 197
 
@@ -6332,8 +6501,9 @@ Installation des membres de l'Observatoire | - Décliner les rôles et responsab
 
 ##### PIECES JUSTIFICATIVES DE LA MISE EN PLACE ET DU FONCTIONNEMENT D'UN OVDS
 
-PIECES | Procès verbal de la rencontre de mobilisation communautaire avec feuille de présences en annexe (1 ère rencontre). Procès verbal de la rencontre de désignation des membres de l'Observatoire de la vulnérabilité à la déperdition
---- | ---
+PIECES
+Procès verbal de la rencontre de mobilisation communautaire avec feuille de présences en annexe (1ère rencontre).
+Procès verbal de la rencontre de désignation des membres de l'Observatoire de la vulnérabilité à la déperdition scolaire (avec feuille de présences en annexe) visée par l'autorité académique (IDEN/IA).
 
 201
 
@@ -6345,7 +6515,7 @@ PIECES | Procès verbal de la rencontre de mobilisation communautaire avec feuil
 
 ###### Définition
 
-checkbld Elève vulnérable à la déperdition scolaire
+- Elève vulnérable à la déperdition scolaire
 
 Elève susceptible d'arrêter les études soit par abandon, soit par exclusion, soit par échec scolaire pour des raisons familiales ou sociales. On dit d'un élève qu'il est vulnérable à la déperdition scolaire lorsqu'il ne dispose pas d'un certain nombre  de  ressources nécessaires pour mener  à bien ses études (ressources physiques, matérielles, psychologiques…..) On peut reconnaître un tel élève par des signes, des attitudes et/ou des comportements déviants ou non conformes. Ces signes attitudes et comportements une fois observes chez l'élève doivent faire l'objet
 
@@ -6529,43 +6699,21 @@ Inspection d'académie :                                                        
 
 Etablissement :                                       Année scolaire :                       Période (1 = Oct-Fév ; 2 = Mars-Juil )
 
-Effectif total de garçons EVDS
-
-Effectif total de filles EVDS
-
-Nbre de garçons EVDS ayant un taux de présence de 80% et plus Nbre de filles EVDS ayant un taux de présence de 80% et plus
-
-Nbre de garçons
-
-EVDS ayant reçu
-
-un appui
-
-Nbre de filles
-
-EVDS ayant reçu
-
-un appui Nbre de garçons EVDS
-
-ayant obtenu la
-
-moyenne
-
-Nbre de filles EVDS ayant obtenu la moyenne
+Effectif total de garçons EVDS | Nbre de garçons EVDS ayant reçu un appui | Nbre de garçons EVDS ayant obtenu la moyenne | Nbre de garçons EVDS ayant un taux de présence de 80% et plus
+--- | --- | --- | ---
+Effectif total de filles EVDS | Nbre de filles EVDS ayant reçu un appui | Nbre de filles EVDS ayant obtenu la moyenne | Nbre de filles EVDS ayant un taux de présence de 80% et plus
 
 ###### Liste nominative des élèves identifiés EVDS
 
-No. | Prénom(s) | Nom | Sexe | Classe | Date de naissance | Appui/encadrement reçu ce semestre? Si oui, indiquer la date et décrire | Moyenne du semestre (sur 20) Sem1: Sem2: | Présence possible dans le semestre (Nbre d'heures) | Présence effective dans le semestre (Nbre d'heures) | Taux de présence (%) sur la prévision
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Description
+No. | Prénom(s) | Nom | Sexe | Classe | Date de naissance | Appui/encadrement reçu ce semestre? Si oui, indiquer la date et décrire |  | Moyenne du semestre (sur 20) Sem1: Sem2: | Présence possible dans le semestre (Nbre d'heures) | Présence effective dans le semestre (Nbre d'heures) | Taux de présence (%) sur la prévision
+ |  |  |  |  |  | Date(s) | Description |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1
 2
 3
 4
 5
 6
-
-sur la prévision
 
 206
 
@@ -6590,7 +6738,7 @@ Nbre EVDS à 80% ou plus de fréquentation durant la période
 Effectif total d'élèves de l'établissement au niveau de l'Enseignement Moyen
 FONCTIONNEMENT OVDS | Oui | Non
 L'observatoire fonctionne-t-il ?
-Filles | Garçons
+Total | Filles | Garçons
 Nbre d'EVDS appuyés/encadrés
 Matériel
 Pédagogique
@@ -6649,11 +6797,11 @@ Le calcul du taux de flux permet de renseigner sur l'évolution d'une cohorte do
 
 Dans une cohorte d'élèves ou effectif d'élèves d'une même classe dans la même année, il y a trois possibilités pour l'avenir de ces élèves :
 
-- checkbld une partie des élèves passent en classe supérieure, ce sont les promus ;
+- une partie des élèves passent en classe supérieure, ce sont les promus ;
 
-- checkbld une partie des élèves redoublent, ce sont les redoublants ;
+- une partie des élèves redoublent, ce sont les redoublants ;
 
-- checkbld une partie des élèves abandonnent, ce sont les abandons.
+- une partie des élèves abandonnent, ce sont les abandons.
 
 L'addition du taux de promotion au taux de redoublement et au taux d'abandon doit être égale à 100%.
 
@@ -6663,9 +6811,9 @@ L'addition du taux de promotion au taux de redoublement et au taux d'abandon doi
 
 C'est la proportion d'élèves ayant terminé avec succès une année d'étude et passant en année supérieure. Les données requises sont :
 
-- checkbld Nombre d'élèves inscrits à l'année d'étude g à l'année n ;
+- Nombre d'élèves inscrits à l'année d'étude g à l'année n ;
 
-- checkbld Nombre d'élèves promus à l'année d'étude g+1 à l'année n+1
+- Nombre d'élèves promus à l'année d'étude g+1 à l'année n+1
 
 ###### B. Objet
 
@@ -6687,7 +6835,11 @@ Cette formule sert à calculer le taux de promotion quel que soit le niveau où 
 
 [[START OF PAGE 211]]
 
-Exemple : En 2010 (ou année n ), la classe de 6ème A (ou année d'étude g ) compte un effectif de  50  élèves.  En  2011( ou  année  n+1 ),  40  élèves  de  cet  effectif  passent  en  classe  de  5ème ( année d'étude g+1 ).
+Exemple : En 2010 (ou année n), la classe de 6ème A (ou année d'étude g) compte un effectif de 50 élèves. En 2011(ou année n+1), 40 élèves de cet effectif passent en classe de 5ème (année d'étude g+1).
+
+40
+Le taux de promotion = ------------------ X 100= 80%
+50
 
 ###### D. Interprétation
 
@@ -6705,27 +6857,21 @@ Ce taux ne peut dépasser 100%. Lorsque qu'il dépasse 100% cela signifie que de
 
 Proportion d'élèves inscrits dans une année d'étude donnée au cours d'une année scolaire qui restent dans la même classe l'année scolaire suivante. Données requises :
 
-- checkbld Nombre d'élèves redoublant une classe g au cours au cours de l'année n +1
+- Nombre d'élèves redoublant une classe g au cours au cours de l'année n+1
 
-- checkbld Nombre d'élèves inscrits en classe g pour l'année scolaire n .
+- Nombre d'élèves inscrits en classe g pour l'année scolaire n.
 
-###### Objet
+###### B. Objet
 
 Mesurer « l'inefficacité » interne des systèmes éducatifs.
 
 ###### C. Méthode de calcul
 
-Nbre d'élèves redoublant de l'année d'étude
-
-g
-
-de l'année
-
-n+1
+Nbre d'élèves redoublant de l'année d'étude g de l'année n+1
 
 Taux de redoublement = --------------------------------------------------------------------------x 100
 
-Nombre total d'élèves de l'année d'étude g de l'année n Cette  formule  sert  à  calculer  le  taux  de  redoublement  quel  que  soit  le  niveau  où  se  situe l'analyse. Etant donné que notre analyse se situe au niveau du Collège, voici un exemple qui permet d'appliquer plus simplement cette formule.
+Nombre total d'élèves de l'année d'étude g de l'année n
 
 211
 
@@ -6733,7 +6879,13 @@ Nombre total d'élèves de l'année d'étude g de l'année n Cette  formule  ser
 
 [[START OF PAGE 212]]
 
-Exemple: En 2010 (ou année n ), la classe de 6ème A (ou année d'étude g ) compte un effectif de 50 élèves. En 2011( ou année n+1 ), 6 élèves de cet effectif redoublent la classe de 6ème A.
+Cette formule sert à calculer le taux de redoublement quel que soit le niveau où se situe l'analyse. Etant donné que notre analyse se situe au niveau du Collège, voici un exemple qui permet d'appliquer plus simplement cette formule.
+
+Exemple: En 2010 (ou année n), la classe de 6ème A (ou année d'étude g) compte un effectif de 50 élèves. En 2011(ou année n+1), 6 élèves de cet effectif redoublent la classe de 6ème A.
+
+6
+Le taux de redoublement = ------------------ X 100= 12%
+50
 
 ###### D. Interprétation
 
@@ -6753,11 +6905,11 @@ Proportion  des  élèves  inscrits  dans  une  classe  donnée  au  cours  d'un
 
 Données requises :
 
-- checkbld Nombre d'élèves abandonnant une classe g au cours de l'année n
+- Nombre d'élèves abandonnant une classe g au cours de l'année n
 
-- checkbld Nombre d'élèves inscrits en classe g pour l'année scolaire n
+- Nombre d'élèves inscrits en classe g pour l'année scolaire n
 
-###### Objet
+###### B. Objet
 
 Mesurer « l'inefficacité » interne des systèmes éducatifs.
 
@@ -6769,13 +6921,20 @@ Mesurer « l'inefficacité » interne des systèmes éducatifs.
 
 ###### C. Méthode de calcul
 
-Nombre d'élèves de l'année d'étude g abandonnant en l'année n Taux d'abandon = ---------------------------------------------------------------------------------- x 100 Nombre d'élèves inscrits de l'année d'étude g l'année n
+Nombre d'élèves de l'année d'étude g abandonnant en l'année n
+Taux d'abandon = ---------------------------------------------------------------------------------- x 100
+Nombre d'élèves inscrits de l'année d'étude g l'année n
 
 Ou Taux d'abandon = 100% - Taux de promotion - taux de redoublement
 
 Cette formule sert à calculer le taux d'abandon quel que soit le niveau où se situe l'analyse. Etant  donné que notre analyse se situe au niveau du Collège, voici  un exemple qui permet d'appliquer plus simplement cette formule.
 
-Exemple: En 2010 (ou année n ), la classe de 6ème A (ou année d'étude g ) compte un effectif de 50 élèves. A la fin de l'année 2010(ou année n ),  4  élèves de cet effectif abandonnent les études.
+Exemple: En 2010 (ou année n), la classe de 6ème A (ou année d'étude g) compte un effectif de 50 élèves. A la fin de l'année 2010(ou année n), 4 élèves de cet effectif abandonnent les études.
+
+4
+Taux d'abandon = ------------------- X 100= 8%
+50
+ou Taux d'abandon = 100% - (80% - 12%)= 8%
 
 ###### D. Interprétation
 
@@ -6802,9 +6961,9 @@ Proportion d'élèves qui obtiennent le diplôme final d'un cycle donné, par ra
 
 Données requises :
 
-- checkbld Nombre d'inscrits à l'examen final d'un cycle donné.
+- Nombre d'inscrits à l'examen final d'un cycle donné.
 
-- checkbld Nombre d'inscrits ayant passé les épreuves de cet examen.
+- Nombre d'inscrits ayant passé les épreuves de cet examen.
 
 ###### B. Objet
 
@@ -6813,7 +6972,6 @@ Mesurer la performance du système éducatif à la sortie d'un cycle scolaire.
 ###### C. Méthode de calcul
 
 Nombre de candidats admis au BFEM
----
 Taux de réussite au BFEM = -------------------------------------------------------------------------- x 100
 Nbre de candidats inscrits ayant passé les épreuves du BFEM
 
@@ -6825,11 +6983,11 @@ Un  taux  de  réussite  élevé  indique  donc  un  bon  rendement  du  systèm
 
 ###### E. Remarques / Observations
 
-- checkbld Ce taux ne peut dépasser 100%.
+- Ce taux ne peut dépasser 100%.
 
-- checkbld Ce taux prend en compte les candidats libres.
+- Ce taux prend en compte les candidats libres.
 
-- checkbld Ce  taux  est  différent  du taux  des  diplômés qui  compare  le  nombre  d'élèves  de  la dernière année d'un cycle donné ayant réussi à l'examen final et le nombre d'élèves inscrits en dernière année.
+- Ce taux est différent du taux des diplômés qui compare le nombre d'élèves de la dernière année d'un cycle donné ayant réussi à l'examen final et le nombre d'élèves inscrits en dernière année.
 
 ###### 2. Le Taux de réussite au BAC : (peut être calculé selon le même procédé)
 
@@ -6839,45 +6997,49 @@ Un  taux  de  réussite  élevé  indique  donc  un  bon  rendement  du  systèm
 
 [[START OF PAGE 215]]
 
+##### REMPLIR LE BULLETIN D'ANALYSE DES PERFORMANCES DE L'ETABLISSEMENT
+
 INDIICATEUR DE PERFORMANCE | ELEMENTS A EVALUER | PERFORMANCE DE L'ANNEE PRECEDENTE | PERFORMANCE DE L'ANNEE EN COURS | OBJECTIFS CIBLES
---- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 Présence des enseignants | Taux annuel de présence des enseignants
 Total | % | Total | % | Total | %
 Perte de temps d'apprentissage (calculer le % par rapport au quantum horaire) | Jour de grève d'enseignants
-Jours de grève d'élèves
-Jours de grève conjointe d'enseignants et d'élèves
-T | G | T | G | F | T | G
-Redoublement des élèves | 6 ème
-5 ème
-4 ème
-3 ème
-Abandons des élèves | 6 ème
-5 ème
-4 ème
-Promotion interne | 3 ème 5 ème
-4 ème
-3 ème
+ | Jours de grève d'élèves
+ | Jours de grève conjointe d'enseignants et d'élèves
+T | G | F | T | G | F | T | G | F
+Redoublement des élèves | Taux de redoublement | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+Abandons des élèves | Taux d'abandon des élèves régulièrement inscrits | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+Promotion interne | Taux de promotion par classe | 5ème
+ |  | 4ème
+ |  | 3ème
 Admission au BFEM
 Promotion au lycée
-Performances scolaires des élèves | 6 ème 5 ème
-ème
-4 3 ème
-6 ème
-5 ème
-4 ème 3 ème
-6 ème
-5 ème
-4 ème
-3 ème
-6 ème
-Manuels scolaires | 5 ème
-4 ème
-3 ème
-6 ème
-4 ème ème
-3
-
-##### REMPLIR LE BULLETIN D'ANALYSE DES PERFORMANCES DE L'ETABLISSEMENT
+Performances scolaires des élèves | % d'élèves ayant obtenu une moyenne ≥10 en composition | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+ | % d'élèves ayant obtenu la moyenne ou plus en maths | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+ | % d'élèves ayant obtenu la moyenne ou plus en français | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+Manuels scolaires | Ratio Manuel de math/élèves | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
+ | Ratio Manuel de français/élèves | 6ème
+ |  | 5ème
+ |  | 4ème
+ |  | 3ème
 
 Source : Adapté de USAID/EPQ, 2011 : Guide Autoévaluation du collège.
 
@@ -6895,43 +7057,43 @@ NB : Le tableau reste valable pour le second cycle (lycée). Il suffit de change
 
 Pour rendre les informations accessibles à la communauté :
 
-###### checkbld LE PUBLIC CONCERNÉ
+###### LE PUBLIC CONCERNÉ
 
-- Qui est notre public cible ? Quelles sont ses caractéristiques (linguistiques, intellectuelles, sociales, culturelles ...)
+1. Qui est notre public cible ? Quelles sont ses caractéristiques (linguistiques, intellectuelles, sociales, culturelles ...)
 
 Les réponses à ces questions doivent orienter :
 
--le choix de la langue ou des langues,
+- le choix de la langue ou des langues,
 
--le niveau de langage
+- le niveau de langage
 
--les formes de représentation culturelle
+- les formes de représentation culturelle
 
--les types de supports.
+- les types de supports.
 
-- Comment préparer ce public au partage des informations sur les performances scolaires, et sa participation active aux débats ?
+2. Comment préparer ce public au partage des informations sur les performances scolaires, et sa participation active aux débats ?
 
-###### checkbld LES CONTENUS
+###### LES CONTENUS
 
 Pour chaque ensemble d'informations à débattre :
 
-- Quel intérêt cette information pourrait-elle susciter pour notre public ?
+3. Quel intérêt cette information pourrait-elle susciter pour notre public ?
 
-- Quel(s)  message(s)  voulons-nous  véhiculer  auprès  de  cette  audience,  par  rapport  à  cet ensemble d'informations ?
+4. Quel(s) message(s) voulons-nous véhiculer auprès de cette audience, par rapport à cet ensemble d'informations ?
 
-- Quels  sujets  de  débat  et  de  réflexion  voulons-nous  aborder  avec  l'assemblée  par  rapport aux informations et aux messages présentés ?
+5. Quels sujets de débat et de réflexion voulons-nous aborder avec l'assemblée par rapport aux informations et aux messages présentés ?
 
-- Quels types de leçons voulons-nous tirer du débat ? Quels types d'actions concrètes peuvent être envisagés ?
+6. Quels types de leçons voulons-nous tirer du débat ? Quels types d'actions concrètes peuvent être envisagés ?
 
-- Quels supports choisir / construire pour soutenir le déroulement du débat ?
+7. Quels supports choisir / construire pour soutenir le déroulement du débat ?
 
-###### checkbld CONCLUSIONS SUITE AUX DÉBATS
+###### CONCLUSIONS SUITE AUX DÉBATS
 
-- Un plan d'action pour la mise en œuvre des actions proposées.
+8. Un plan d'action pour la mise en œuvre des actions proposées.
 
-- L'engagement positif des uns et des autres.
+9. L'engagement positif des uns et des autres.
 
-- Préparation du « post-forum » : cadre de suivi des engagements.
+10. Préparation du « post-forum » : cadre de suivi des engagements.
 
 216
 
@@ -7065,14 +7227,25 @@ Le partenariat peut être :
 
 N° | DOMAINES D'APPRECIATION | ATTENTES
 --- | --- | ---
-1 PRESENTATION | checkbld Respect des éléments constitutifs du dossier
-INTRODUCTION | checkbld Eléments du contexte et justification : orientations nationales et académiques, l'expérience de l'établissement en PE checkbld Conditions d'élaboration : acteurs impliqués, partenaires | 2
-ETAT DES LIEUX | checkbld Fiche décrivant correctement l'environnement externe de l'établissement (situation géographique- spécificités population scolaire, partenaires) checkbld Fiche d'inventaire des ressources de l'établissement : humaines, matérielles, financières checkbld Résultats scolaires des élèves | 3
-DIAGNOSTIC | checkbld Identification et analyse des avancées et des dysfonctionnements checkbld Définition des axes prioritaires | 4
-OBJECTIFS | checkbld Formulation cohérente des solutions aux problèmes identifiés checkbld Existence de la fiche récapitulative des objectifs/actions checkbld Pertinence des objectifs | 5
-FICHE - ACTION | checkbld Respect du cadre logique checkbld Actions réalistes et pertinentes/objectifs checkbld Maîtrise du vocabulaire du cadre logique | 6
-DISPOSITIF SUIVI - EVALUATION | checkbld Existence des pièces annexées checkbld Acteurs et supports bien identifiés checkbld Existence d'un plan de Suivi/Evaluation interne avec des indicateurs quantifiables | 7
-8 DISPOSITIF DE | PERENNISATION checkbld Prévision des activités de consolidation et de reconduction checkbld Perspectives de pérennisation envisagées
+1 | PRESENTATION | - Respect des éléments constitutifs du dossier
+2 | INTRODUCTION | - Eléments du contexte et justification : orientations nationales et académiques, l'expérience de l'établissement en PE
+ |  | - Conditions d'élaboration : acteurs impliqués, partenaires
+3 | ETAT DES LIEUX | - Fiche décrivant correctement l'environnement externe de l'établissement (situation géographique- spécificités population scolaire, partenaires)
+ |  | - Fiche d'inventaire des ressources de l'établissement : humaines, matérielles, financières
+ |  | - Résultats scolaires des élèves
+4 | DIAGNOSTIC | - Identification et analyse des avancées et des dysfonctionnements
+ |  | - Définition des axes prioritaires
+5 | OBJECTIFS | - Formulation cohérente des solutions aux problèmes identifiés
+ |  | - Existence de la fiche récapitulative des objectifs/actions
+ |  | - Pertinence des objectifs
+6 | FICHE - ACTION | - Respect du cadre logique
+ |  | - Actions réalistes et pertinentes/objectifs
+ |  | - Maîtrise du vocabulaire du cadre logique
+7 | DISPOSITIF SUIVI - EVALUATION | - Existence des pièces annexées
+ |  | - Acteurs et supports bien identifiés
+ |  | - Existence d'un plan de Suivi/Evaluation interne avec des indicateurs quantifiables
+8 | DISPOSITIF DE PERENNISATION | - Prévision des activités de consolidation et de reconduction
+ |  | - Perspectives de pérennisation envisagées
 
 219
 
@@ -7103,7 +7276,7 @@ d'autre part
 
 ###### IL A ETE CONVENU ET ARRETE CE QUI SUIT :
 
-###### ARTICLE 1 ER  : OBJET DE LA CONVENTION
+###### ARTICLE 1ER : OBJET DE LA CONVENTION
 
 La  présente  convention  a  pour  but  de  fixer  les  modalités  de  l'appui  financier  apporté  par ………………….. (désignation  du  PF) au  bénéficiaire  pour  la  mise  en  œuvre  de  son  projet d'établissement.
 
@@ -7111,9 +7284,9 @@ La  présente  convention  a  pour  but  de  fixer  les  modalités  de  l'appui
 
 Sont  considérées  comme  pièces  contractuelles  pour  y  faire  référence  en  cas  de  besoin  et admises comme telles, tant par le Bénéficiaire que par le …………………. (désignation du PF) .
 
-- Le présent document : convention proprement dit comportant sept (7) articles.
+1. Le présent document : convention proprement dit comportant sept (7) articles.
 
-- Le document de projet.
+2. Le document de projet.
 
 220
 
@@ -7121,7 +7294,7 @@ Sont  considérées  comme  pièces  contractuelles  pour  y  faire  référence
 
 [[START OF PAGE 221]]
 
-- Le  manuel  des  procédures  administratives,  matérielles  et  financières  de  projets d'établissement.
+3. Le manuel des procédures administratives, matérielles et financières de projets d'établissement.
 
 ###### ARTICLE 3 : OBLIGATIONS DU BENEFICIAIRE
 
@@ -7139,7 +7312,7 @@ Le……………………… (désignation du PF) mettra à la disposition du B
 
 ###### ARTICLE 6 : MODALITES DE DECAISSEMENT
 
-- Echéancier : la subvention sera mise à la disposition du Bénéficiaire en ……….tranches :
+1. Echéancier : la subvention sera mise à la disposition du Bénéficiaire en ……….tranches :
 
 - Première tranche : …………………………………….. (montant en lettres et en chiffres)
 
@@ -7159,26 +7332,16 @@ La  procédure  de  décaissement  de  la  deuxième  tranche  est  déclenchée
 
 La  procédure  de  décaissement  de  la  troisième  tranche  est  déclenchée  sur  demande  du Bénéficiaire selon l'échéancier prévu dans le document de projet).
 
-- Dépôt  des  fonds :  les  fonds  de  la  subvention  seront  déposés  selon  les  modalités prévues dans le  manuel  des  procédures  dans  le  compte  …………….. (identification  du compte de l'Etablissement).
+2. Dépôt des fonds : les fonds de la subvention seront déposés selon les modalités prévues dans le manuel des procédures dans le compte …………….. (identification du compte de l'Etablissement).
 
 ###### ARTICLE 7 : LITIGES ET CONTESTATIONS
 
 Tout différend résultant de l'interprétation ou de l'exécution de la présente convention sera réglé selon une procédure de conciliation. Au cas où un accord n'interviendrait pas entre les parties,  celles-ci  auront  recours  à  l'arbitrage  des  autorités  hiérarchiques,  c'est  -à-dire ……………..(PF)  et  le  Ministère  de  l'Education  qui  se  prononceront  sur  la  poursuite  ou  la résiliation de la présente convention.
 
-POUR LE BENEFICIAIRE :
-
-Le président du Conseil de Gestion POUR
-
-………… (
-
-Identification du PF )
-
-( identification du signataire autorisé)
-
-(Signature)                                                                                  (Signature)
-
+POUR LE BENEFICIAIRE : | POUR ………… (Identification du PF)
+Le président du Conseil de Gestion | (identification du signataire autorisé)
+(Signature) | (Signature)
 L'INTENDANT OU GESTIONNAIRE
-
 (Signature)
 
 222
@@ -7191,39 +7354,39 @@ L'INTENDANT OU GESTIONNAIRE
 
 #### DOCUMENTS DE REFERENCE :
 
-- DAGE  (2011) :  Formation  en  comptabilité  des  matières  des  agents  du  ministère  de l'enseignement  préscolaire,  de  l'élémentaire,  du  moyen  secondaire  et  des  langues nationales : support de cours
+1. DAGE (2011) : Formation en comptabilité des matières des agents du ministère de l'enseignement préscolaire, de l'élémentaire, du moyen secondaire et des langues nationales : support de cours
 
-- DAGE/ME (Yankhoba SAGNA) : Module II : Objets de dépenses éligibles.
+2. DAGE/ME (Yankhoba SAGNA) : Module II : Objets de dépenses éligibles.
 
-- DEMSG (2012) : Formation initiale des Chefs d'Etablissement : guide du facilitateur.
+3. DEMSG (2012) : Formation initiale des Chefs d'Etablissement : guide du facilitateur.
 
-- DEMSG-USAID/EDB (2012) : Module de formation à la gestion des observatoires de la vulnérabilité à la déperdition scolaire
+4. DEMSG-USAID/EDB (2012) : Module de formation à la gestion des observatoires de la vulnérabilité à la déperdition scolaire
 
-- Forum Civil /OSIWA (2011) : Gouvernance dans le secteur de l'éducation au Sénégal.
+5. Forum Civil /OSIWA (2011) : Gouvernance dans le secteur de l'éducation au Sénégal.
 
-- UEMOA (1999) : Directive N° 02/99/CM/UEMOA portant amendement de la directive N°5/97/CM/UEMOA relative aux lois des finances.
+6. UEMOA (1999) : Directive N° 02/99/CM/UEMOA portant amendement de la directive N°5/97/CM/UEMOA relative aux lois des finances.
 
-- USAID/EDB (2010) : L'équité dans le système éducatif : fiche technique d'orientation.
+7. USAID/EDB (2010) : L'équité dans le système éducatif : fiche technique d'orientation.
 
-- USAID/EDB  (2010) :  Renforcement  des  capacités  des  acteurs  en  gouvernance  et gestion de l'enseignement moyen : documents de référence.
+8. USAID/EDB (2010) : Renforcement des capacités des acteurs en gouvernance et gestion de l'enseignement moyen : documents de référence.
 
-- USAID/EDB  -  DEMSG  (2010) :  Module  de  formation  au  curriculum  pour  chefs d'établissement.
+9. USAID/EDB - DEMSG (2010) : Module de formation au curriculum pour chefs d'établissement.
 
-- USAID/EDB-DEMSG  (2010):  Guide  du  formateur,  Curriculum de l'enseignement moyen.
+10. USAID/EDB-DEMSG (2010): Guide du formateur, Curriculum de l'enseignement moyen.
 
-- USAID/EPQ, (2011) : Guide Autoévaluation du collège.
+11. USAID/EPQ, (2011) : Guide Autoévaluation du collège.
 
-- USAID/EPQ, (2011) : Dimension genre : facteur clé d'une éducation de qualité ; guide pratique pour le sous secteur de l'enseignement moyen.
+12. USAID/EPQ, (2011) : Dimension genre : facteur clé d'une éducation de qualité ; guide pratique pour le sous secteur de l'enseignement moyen.
 
-- USAID/PAEM (2004) :  Le  Guide  du  Chef  d'Etablissement,  réalisé  par  le  collectif  des chefs d'établissement moyen et secondaire.
+13. USAID/PAEM (2004) : Le Guide du Chef d'Etablissement, réalisé par le collectif des chefs d'établissement moyen et secondaire.
 
-- USAID/PAEM  (2007) :  Module  3,  guide  d'entretien  et  de  maintenance  du  collège d'enseignement moyen.
+14. USAID/PAEM (2007) : Module 3, guide d'entretien et de maintenance du collège d'enseignement moyen.
 
-- USAID/PAEM (2007) : Module 5, Gestion des ressources matérielles et financières du collège de proximité : le rôle du CGE et celui de la communauté
+15. USAID/PAEM (2007) : Module 5, Gestion des ressources matérielles et financières du collège de proximité : le rôle du CGE et celui de la communauté
 
-- USAID/PAEM (2009) : Révision des codes de conduite dans les collèges.
+16. USAID/PAEM (2009) : Révision des codes de conduite dans les collèges.
 
-- USAID/PAEM (2008): L'analyse et la communication des performances scolaires, guide du facilitateur.
+17. USAID/PAEM (2008): L'analyse et la communication des performances scolaires, guide du facilitateur.
 
 223
 
@@ -7233,35 +7396,35 @@ L'INTENDANT OU GESTIONNAIRE
 
 #### ARRETES
 
-- Arrêté interministériel N°00320 du 17 mars 2004 fixant les modalités de mobilisation des ressources générées par les établissements d'enseignement moyen et secondaire.
+1. Arrêté interministériel N°00320 du 17 mars 2004 fixant les modalités de mobilisation des ressources générées par les établissements d'enseignement moyen et secondaire.
 
-- Arrêté  n°  001371  du  31  mars  2008  portant  création  du  cadre  de  coordination  des interventions sur l'éducation des filles (CCIEF).
+2. Arrêté n° 001371 du 31 mars 2008 portant création du cadre de coordination des interventions sur l'éducation des filles (CCIEF).
 
-- Arrêté  03317/MEPEMSLN/SG/DEMSG/  du  15  septembre  2011  sur  les  cellules pédagogiques.
+3. Arrêté 03317/MEPEMSLN/SG/DEMSG/ du 15 septembre 2011 sur les cellules pédagogiques.
 
 #### CIRCULAIRES
 
-- Circulaire  n°  14025/MENC/DAG/FM  du  19/11/63    portant  attributions  respectives des  chefs  d'établissement  et  intendants  en  matière  d'administration  financière  et comptable des établissements.
+1. Circulaire n° 14025/MENC/DAG/FM du 19/11/63 portant attributions respectives des chefs d'établissement et intendants en matière d'administration financière et comptable des établissements.
 
-- Circulaire n° 1950/MEN/S2 du 14/5/1966 portant attributions des censeurs et chefs d'établissement.
+2. Circulaire n° 1950/MEN/S2 du 14/5/1966 portant attributions des censeurs et chefs d'établissement.
 
-- Circulaire n°00032/MEN/DC/DAGE/DPER du 3 janvier 1996 relative aux repos médicaux et congés de maladie.
+3. Circulaire n°00032/MEN/DC/DAGE/DPER du 3 janvier 1996 relative aux repos médicaux et congés de maladie.
 
-- Circulaire n°00031/MEN/DC/DAGE/DPER/bas du 3 janvier 1996 portant traduction devant le conseil de santé.
+4. Circulaire n°00031/MEN/DC/DAGE/DPER/bas du 3 janvier 1996 portant traduction devant le conseil de santé.
 
-- Circulaire n° 974/PR. du 18 octobre 1967 relative aux veuves musulmanes (extraits).
+5. Circulaire n° 974/PR. du 18 octobre 1967 relative aux veuves musulmanes (extraits).
 
-- Circulaire n° 2227/MEN/MES/SG/DEMSG  du 21/3/85 portant attribution des surveillants et surveillants généraux.
+6. Circulaire n° 2227/MEN/MES/SG/DEMSG du 21/3/85 portant attribution des surveillants et surveillants généraux.
 
-- Circulaire  n°  003237/MEN/DC/DEMSG/DEST  du  6/6/90    sur  les  transferts  d'élèves d'établissement à établissement.
+7. Circulaire n° 003237/MEN/DC/DEMSG/DEST du 6/6/90 sur les transferts d'élèves d'établissement à établissement.
 
-- Circulaire  N° 003538/MEN/DC/DEMSG du 21 juin 1993 sur le traitement des heures supplémentaires, compléments d'horaires, maxima de services, majoration de service, heures de vacation.
+8. Circulaire N° 003538/MEN/DC/DEMSG du 21 juin 1993 sur le traitement des heures supplémentaires, compléments d'horaires, maxima de services, majoration de service, heures de vacation.
 
-- Circulaire  n°004094/MEN/DC/DEMSG  du  18/9/96  portant  règlement  des  cours  de vacances dans les établissements d'enseignement moyen & secondaire.
+9. Circulaire n°004094/MEN/DC/DEMSG du 18/9/96 portant règlement des cours de vacances dans les établissements d'enseignement moyen & secondaire.
 
-- Circulaire n°2947 ME/IGEN/Y.D/S.K du 05 juin 2002 portant sur la journée continue dans les lycées et collèges.
+10. Circulaire n°2947 ME/IGEN/Y.D/S.K du 05 juin 2002 portant sur la journée continue dans les lycées et collèges.
 
-- Circulaire N°004379/ME/SG/DAJLD/DEMSG du 11 octobre 2007 portant gestion des mariages et grossesses précoces d'élèves.
+11. Circulaire N°004379/ME/SG/DAJLD/DEMSG du 11 octobre 2007 portant gestion des mariages et grossesses précoces d'élèves.
 
 224
 
@@ -7269,35 +7432,35 @@ L'INTENDANT OU GESTIONNAIRE
 
 [[START OF PAGE 225]]
 
-- Circulaire 004293/ME/SG/IGEN du 12 octobre 2008 relative aux modalités d'application des nouveaux programmes de SVT.
+12. Circulaire 004293/ME/SG/IGEN du 12 octobre 2008 relative aux modalités d'application des nouveaux programmes de SVT.
 
-- Circulaire n°003120 MEPEMSLN/SG/DEMSG du 19 juillet 2010 portant orientation et maintien des élèves dans les séries scientifiques.
+13. Circulaire n°003120 MEPEMSLN/SG/DEMSG du 19 juillet 2010 portant orientation et maintien des élèves dans les séries scientifiques.
 
-- Circulaire  004465/MEPEMSLN/SG/DEMSG  du  15  septembre  2010  relative  à  la mobilisation et à la gestion des ressources additionnelles des lycées et collèges.
+14. Circulaire 004465/MEPEMSLN/SG/DEMSG du 15 septembre 2010 relative à la mobilisation et à la gestion des ressources additionnelles des lycées et collèges.
 
-- Circulaire 004377/ME/SG/DEMSG/DAJLD du 11 octobre 2007 fixant le montant et la répartition des frais d'inscription dans les établissements d'enseignement moyen et secondaire
+15. Circulaire 004377/ME/SG/DEMSG/DAJLD du 11 octobre 2007 fixant le montant et la répartition des frais d'inscription dans les établissements d'enseignement moyen et secondaire
 
 #### DECRETS
 
-- Décret 72.215 du 7 mars 1972 relatif à la sécurité sociale des fonctionnaires.
+1. Décret 72.215 du 7 mars 1972 relatif à la sécurité sociale des fonctionnaires.
 
-- Décret  74.347  du  12  avril  1974  fixant  le  régime  spécial  applicable  aux  agents  non fonctionnaires de l'Etat.
+2. Décret 74.347 du 12 avril 1974 fixant le régime spécial applicable aux agents non fonctionnaires de l'Etat.
 
-- Décret 78-227 du 28 février 1978 abrogeant et remplaçant les articles 2 et 3 du décret 61-175 du 24 avril  1961  déterminant  les  mesures  destinés  à  assurer  le  respect  des horaires de travail dans les administrations publiques.
+3. Décret 78-227 du 28 février 1978 abrogeant et remplaçant les articles 2 et 3 du décret 61-175 du 24 avril 1961 déterminant les mesures destinés à assurer le respect des horaires de travail dans les administrations publiques.
 
-- Décret  79.209  du  24  mars  1979  modifié  par  le  décret  95.176  relatif  les  heures supplémentaires.
+4. Décret 79.209 du 24 mars 1979 modifié par le décret 95.176 relatif les heures supplémentaires.
 
-- Décret 2000-337 du 16 mai 2000 portant création des CGE dans l'enseignement moyen secondaire général.
+5. Décret 2000-337 du 16 mai 2000 portant création des CGE dans l'enseignement moyen secondaire général.
 
 #### NOTE DE SERVICE
 
-- Note  de  service  du  Ministre  de  l'Education  N°  005670/ME/JPN/JM  du  23  novembre 2005  portant  gestion  des  crédits  des  établissements  et  compétences  du  Conseil  de Gestion.
+1. Note de service du Ministre de l'Education N° 005670/ME/JPN/JM du 23 novembre 2005 portant gestion des crédits des établissements et compétences du Conseil de Gestion.
 
 #### LIENS INTERNET
 
-- http://igen.education.sn
+1. http://igen.education.sn
 
-- www.senegal.campusfrance.org
+2. www.senegal.campusfrance.org
 
 225
 
