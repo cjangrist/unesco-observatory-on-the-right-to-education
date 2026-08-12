@@ -1,22 +1,24 @@
 [[START OF PAGE 1]]
 
-# T Ta as sk k   F Fo or rc ce e   o on n E Ed du uc ca at ti io on na al l   R Re ef fo or rm m
+# Task Force on Educational Reform
 
-J JA AM MA AI IC CA A
+JAMAICA
 
-## A A   T TR RA AN NS SF FO OR RM ME ED D   E ED DU UC CA AT TI IO ON N S SY YS ST TE EM M
+## A TRANSFORMED EDUCATION SYSTEM
 
-2 20 00 04 4
+2004
 
-R RE EP PO OR RT T
+REPORT
 
-P Pr re es se en nt te ed d   t to o   t th he e
+Presented to the
 
-M Mo os st t   H Ho on no ou ur ra ab bl le e   P Pr ri im me e   M Mi in ni is st te er r
+Most Honourable Prime Minister
 
-b by y
+by
 
-D Dr r. .   R Ra ae e   D Da av vi is s, ,   C Ch ha ai ir rm ma an n S Se ep pt te em mb be er r   2 20 00 04 4
+Dr. Rae Davis, Chairman
+
+September 2004
 
 Task Force on Educational Reform Final Report
 
@@ -48,9 +50,7 @@ These  vision elements informed the review and provided the contextual framework
 
 Early  in  the  review  process  it  became  evident  that  a  review  of  the  early childhood,  primary,  secondary  and  tertiary  levels  of  the  system  would  require much more time and rigour than was available for the completion and submission of the Report. As a consequence we concentrated on the primary and secondary levels.
 
-We acknowledge that the early childhood level is the most critical stage of the
-
-development of the child and is also the stage where the foundation is laid for future development. In support of the initiatives being implemented in the areas of  policy,  standards,  legislation,  training,  management,  curriculum  development and  advocacy  and  in  acknowledgement  of  the  work  being  undertaken  by  the Early Childhood Commission, we agreed that this level should continue to benefit from the interventions being pursued.
+We acknowledge that the early childhood level is the most critical stage of the development of the child and is also the stage where the foundation is laid for
 
 Task Force on Educational Reform Final Report
 
@@ -60,7 +60,9 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 3]]
 
-We  also  acknowledge  the  critical  role  of  the  tertiary  level,  particularly  in  our response to the challenges of globalization. The emerging public-private participation at this level demands that attention be focused here to ensure that the quality of programmes delivered is appropriate to our developmental needs. It is for this reason that we recommend the establishment of a Tertiary Education and  Research  Commission,  which  would  have  oversight  responsibility  for  this sector.
+future development. In support of the initiatives being implemented in the areas of policy, standards, legislation, training, management, curriculum development and advocacy and in acknowledgement of the work being undertaken by the Early Childhood Commission, we agreed that this level should continue to benefit from the interventions being pursued.
+
+We also acknowledge the critical role of the tertiary level, particularly in our response to the challenges of globalization. The emerging public-private participation at this level demands that attention be focused here to ensure that the quality of programmes delivered is appropriate to our developmental needs. It is for this reason that we recommend the establishment of a Tertiary Education and Research Commission, which would have oversight responsibility for this sector.
 
 During  the  system  review  we  benefited  from  experiences  which  provided essential insights into the workings of an extremely complex network, grounded in centuries of socio-cultural practices. Several noteworthy achievements became  evident.  These  achievements  have  been  realized  in  less  than  half  a century since independence. For us the most encouraging are:
 
@@ -148,7 +150,8 @@ Task Force on Educational Reform Final Report
 
 Finally, I would also like to thank my wife for her support and patience over the period in which I attended numerous and lengthy meetings.
 
-…………………… Rae A. Davis
+……………………
+Rae A. Davis
 
 CHAIRMAN
 
@@ -164,33 +167,33 @@ Task Force on Educational Reform Final Report
 
 Collectively, members of the Task Force play multiple roles in the education system as parents, teachers, administrators, students, policymakers, customers, union representatives, and share a deep conviction of the value of education to citizens and the nation.  The members of the Task Force are:
 
-- Dr. Rae Davis, Chairman President, University of Technology  (UTECH); Chairman, National Council on Education (NCE)
+- Dr. Rae Davis, Chairman – President, University of Technology (UTECH); Chairman, National Council on Education (NCE)
 
-- Dr. Nigel Clarke Chief Operating Officer, Musson Group
+- Dr. Nigel Clarke – Chief Operating Officer, Musson Group
 
-- Mr. Eric Crawford Partner, PriceWaterHouseCoopers
+- Mr. Eric Crawford – Partner, PriceWaterHouseCoopers
 
-- Mrs. Elaine Foster-Allen Principal, Shortwood Teachers' College
+- Mrs. Elaine Foster-Allen – Principal, Shortwood Teachers’ College
 
-- Mr. Wentworth Gabbidon President, Jamaica Teachers' Association (JTA); Principal, Pike All Age School
+- Mr. Wentworth Gabbidon – President, Jamaica Teachers’ Association (JTA); Principal, Pike All Age School
 
-- Mr.  Donald  Hall  Representative/Student,  National  Secondary  School Council (NSSC)
+- Mr. Donald Hall – Representative/Student, National Secondary School Council (NSSC)
 
-- Mrs.  Pamela  Harrison  Former Principal,  Wolmer's  High  School  for  Girls; Administrator/Counsellor, NCB, Jamaica Education Initiative
+- Mrs. Pamela Harrison – Former Principal, Wolmer’s High School for Girls; Administrator/Counsellor, NCB, Jamaica Education Initiative
 
-- Mrs. Marie Hitchins Managing Director, Fabric Consultants Ltd.; Chairman, Education Committee, Private Sector Organization of Jamaica (PSOJ)
+- Mrs. Marie Hitchins – Managing Director, Fabric Consultants Ltd.; Chairman, Education Committee, Private Sector Organization of Jamaica (PSOJ)
 
-- Rev. Franklyn Jackson Rector, Meadowbrook Merryvale Cure
+- Rev. Franklyn Jackson – Rector, Meadowbrook Merryvale Cure
 
-- Dr. Dennis Minott Founder, Association of Quietly Excellent Scholars and Thinkers (A-QUEST)
+- Dr. Dennis Minott – Founder, Association of Quietly Excellent Scholars and Thinkers (A-QUEST)
 
-- Ms.  Joan  Spencer  Diagnostic  and  Performance  Measurement  Specialist, Caribbean Centre of Excellence for Teacher Training (CCETT/JBTE)
+- Ms. Joan Spencer – Diagnostic and Performance Measurement Specialist, Caribbean Centre of Excellence for Teacher Training (CCETT/JBTE)
 
-- Ms. Joan Tucker Head, Institute of Education, University of the West Indies
+- Ms. Joan Tucker – Head, Institute of Education, University of the West Indies
 
-- Mr. Junior Rose President, Jamaica Union of Tertiary Students
+- Mr. Junior Rose – President, Jamaica Union of Tertiary Students
 
-- Mr. Lloyd Goodleigh General Secretary, Jamaica Confederation of Trade Unions
+- Mr. Lloyd Goodleigh – General Secretary, Jamaica Confederation of Trade Unions
 
 Task Force on Educational Reform Final Report
 
@@ -230,17 +233,17 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 9]]
 
+Table 1. Performance Targets for Educational
+
 Objective | Measure | 2010 Target
 --- | --- | ---
 To attain high levels of educational outcomes | Percent of students achieving mastery in all 4 areas of Grade 1 Readiness Inventory | 90%
-Percent of students achieving mastery at Grade 4 Literacy Test | 85%
-National mean score at GSAT for each subject | 85%
-Percent of cohort attaining Grade 1-3 in 5 subjects including English and Mathematics | 60%
+ | Percent of students achieving mastery at Grade 4 Literacy Test | 85%
+ | National mean score at GSAT for each subject | 85%
+ | Percent of cohort attaining Grade 1-3 in 5 subjects including English and Mathematics | 60%
 To have learners realising their potential | Percent of primary schools providing at least 4 co-curricula activities | 100%
-Percent of secondary schools providing at least 8 co-curricula activities | 100%
-Percent of students in at least 2 co-curricular activities (1 of which must be community service) | 100%
-
-Table 1. Performance Targets for Educational
+ | Percent of secondary schools providing at least 8 co-curricula activities | 100%
+ | Percent of students in at least 2 co-curricular activities (1 of which must be community service) | 100%
 
 ## The State of Education in Jamaica
 
@@ -262,13 +265,13 @@ Despite  high  enrolment  rates,  significant  curriculum  reform  and  other  e
 
 The mandate given to the Task Force by the Most Honourable Prime Minister comes at a time of convergence of a number of compelling factors:
 
-- In  October  2003,  members  of  the  House  of  Representatives  unanimously committed  to  a  significant  increase  in  the  allocation  of  public  funds  to education over the next 5 years.
+1. In October 2003, members of the House of Representatives unanimously committed to a significant increase in the allocation of public funds to education over the next 5 years.
 
-- The 2015 Social Policy articulates a vision for Jamaica in 2015 which sees:
+2. The 2015 Social Policy articulates a vision for Jamaica in 2015 which sees:
 
-' A prosperous and dynamic Jamaica which upholds the fulfilment of human  rights,  dignity  for  all  persons,  and  builds  continual  social progress  based  on  shared  values  and  principles  of  partnerships. Minds are transformed and extraordinary results are produced in this the most caring and secure country in the Americas, where individuals  fulfil  their  potential,  are  in  control  of  their  destiny,  take responsibility for their lives and work always for the larger good'.
+“A prosperous and dynamic Jamaica which upholds the fulfilment of human rights, dignity for all persons, and builds continual social progress based on shared values and principles of partnerships. Minds are transformed and extraordinary results are produced in this the most caring and secure country in the Americas, where individuals fulfil their potential, are in control of their destiny, take responsibility for their lives and work always for the larger good”.
 
-The Key Outcome Goal for Education is 'an education which facilitates lifelong learning and acquisition of social and life skills for all'
+The Key Outcome Goal for Education is “an education which facilitates life-long learning and acquisition of social and life skills for all”
 
 Task Force on Educational Reform Final Report
 
@@ -278,13 +281,13 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 11]]
 
-- The  recent  conclusion  of  a  4-month  process  of  islandwide  consultations  to develop, articulate and validate the National Shared Vision for Education in Jamaica.
+3. The recent conclusion of a 4-month process of islandwide consultations to develop, articulate and validate the National Shared Vision for Education in Jamaica.
 
-' Each learner will  maximise his/her potential  in  an  enriching, learner-centred  education  environment  with  maximum  use  of learning technologies supported by committed, qualified, competent, effective and professional educators and staff'.
+“Each learner will maximise his/her potential in an enriching, learner-centred education environment with maximum use of learning technologies supported by committed, qualified, competent, effective and professional educators and staff”.
 
-'The education system will  be  equitable  and  accessible  with full attendance to Grade 11.  Accountability, transparency and performance  are  the  hallmarks  of  a  system  that  is  excellent, self-sustaining  and  resourced  and  welcomes  full  stakeholder participation. The system produces full literacy and numeracy,  a  globally  competitive,  quality  workforce  and  a disciplined, culturally aware and ethical Jamaican citizenry'.
+“The education system will be equitable and accessible with full attendance to Grade 11. Accountability, transparency and performance are the hallmarks of a system that is excellent, self-sustaining and resourced and welcomes full stakeholder participation. The system produces full literacy and numeracy, a globally competitive, quality workforce and a disciplined, culturally aware and ethical Jamaican citizenry”.
 
-- The ambitious and aggressive education transformation plans set and being implemented globally and in particular by many of Jamaica's trading partners.
+4. The ambitious and aggressive education transformation plans set and being implemented globally and in particular by many of Jamaica’s trading partners.
 
 ## Key Issues and Recommendations
 
@@ -326,7 +329,7 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 13]]
 
-Anti-social and violent behaviour is a social phenomenon, which has permeated all  sectors  of  society,  and  the  school  is  no  exception.    To  address  this  serious issue in schools we recommend a citizenship education programme - which will focus  on  values  and  attitudes,  character  education,  patriotism  and  service  greater support at the school level in terms of social workers, parental involvement  and  co-curricular activities and  improvements  in  the  physical environment.
+Anti-social and violent behaviour is a social phenomenon, which has permeated all sectors of society, and the school is no exception. To address this serious issue in schools we recommend a citizenship education programme - which will focus on values and attitudes, character education, patriotism and service - greater support at the school level in terms of social workers, parental involvement and co-curricular activities and improvements in the physical environment.
 
 Much effort, largely supported by external donor funding, has been expended on curriculum  development  at  the  primary  and  secondary  levels,  with  a  new curriculum currently being developed for the early childhood level.  It is important that  these  efforts  are  expedited  and  that  all  support  in  terms  of  training  and materials be given.
 
@@ -388,7 +391,37 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 16]]
 
-# A.  Table of Contents
+# A. Table of Contents
+
+A. FOREWORD 2
+B. EXECUTIVE SUMMARY 7
+C. TABLE OF CONTENTS 16
+D. GLOSSARY 18
+E. LIST OF TABLES 20
+F. BACKGROUND TO THE ESTABLISHMENT OF THE TASK FORCE ON EDUCATIONAL REFORM 27
+G. PERFORMANCE TARGETS FOR EDUCATION 40
+H. THE STATE OF EDUCATION IN JAMAICA... ERROR! BOOKMARK NOT DEFINED.
+HISTORICAL CONTEXT 41
+CURRENT STATE AND PERFORMANCE ERROR! BOOKMARK NOT DEFINED.
+THE INSTITUTIONAL FRAMEWORK 58
+LEGISLATIVE FRAMEWORK 61
+POLICY FRAMEWORK 62
+I. CONTEXTUAL FRAMEWORK FOR TRANSFORMING EDUCATION IN JAMAICA ERROR! BOOKMARK NOT DEFINED.
+PARLIAMENTARY RESOLUTION ON GOVERNMENT-OPPOSITION COLLABORATION 64
+2015 JAMAICA SOCIAL POLICY VISIONS AND GOALS 64
+NATIONAL ROUNDTABLE DISCUSSION PROCESS TO DEVELOP A VALIDATED, NATIONAL SHARED VISION ERROR! BOOKMARK NOT DEFINED.
+EDUCATIONAL TRANSFORMATION ON THE GLOBAL SCENE 38
+J. THE FUTURE: WHERE MUST WE GO? 28
+GUIDING PHILOSOPHY FOR EDUCATION: ERROR! BOOKMARK NOT DEFINED.
+VALIDATED NATIONAL SHARED VISION FOR EDUCATION IN JAMAICA 28
+PROFILE OF THE EDUCATED JAMAICAN 34
+K. ACHIEVING THE VISION THROUGH TRANSFORMATION 65
+L. THE KEY ISSUES & RECOMMENDATIONS 67
+1. GOVERNANCE AND MANAGEMENT 69
+1.1 Institutional Arrangements 69
+1.2 Accountability for Performance at all levels 84
+1.3 Management and Organisation of Teaching 90
+2. CURRICULUM, TEACHING AND LEARNING SUPPORT 95
 
 Task Force on Educational Reform Final Report
 
@@ -397,6 +430,33 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+2.1 Chronic Underachievement of the Education System Error! Bookmark not defined.
+2.2 Anti-Social and Violent Behaviour Error! Bookmark not defined.
+2.2 Anti-Social and Violent Behaviour Error! Bookmark not defined.
+2.3 Curriculum Development 100
+2.4 Curriculum Implementation 105
+2.5 Student Assessment 109
+2.6 Access to Schools 113
+2.7 Capacity and State of Physical Plant 114
+2.8 Health & Nutrition 117
+2.9 Management of Special Needs 122
+3. FULL STAKEHOLDER PARTICIPATION IN THE EDUCATION SYSTEM 126
+3.1 Role of Students 126
+3.2 Stakeholder Partnerships 128
+4. FINANCE 133
+4.1 The Present State of Education Financing Error! Bookmark not defined.
+4.2 Determining the Required Expenditure on Education Error! Bookmark not defined.
+4.3 Reallocation of MOEYC budget due to Restructuring Error! Bookmark not defined.
+4.4 A Model for State funding of Education Error! Bookmark not defined.
+4.5 Alternative Funding for Education Error! Bookmark not defined.
+M. IMPLEMENTATION PLAN FOR THE TRANSFORMATION OF EDUCATION 156
+TRANSFORMATION TEAM ERROR! BOOKMARK NOT DEFINED.
+LEGISLATIVE CHANGES REQUIRED 157
+THE IMPLEMENTATION PLAN: 157
+N. CONCLUSIONS 166
+O. APPENDIX A. LIST OF PERSONS THAT CONTRIBUTED TO THE WORK OF THE TASK FORCE 170
+P. APPENDIX B – PROPOSED ALLOCATION OF MOEY&C FUNCTIONS 174
 
 Task Force on Educational Reform Final Report
 
@@ -592,7 +652,37 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 20]]
 
-# C.  List of Tables
+# C. List of Tables
+
+Table | Page
+--- | ---
+1. Objectives, measures and performance targets for education | 27
+2. Number of public educational institutions by school type and region | 35
+3. Enrolment at early childhood level (2002/2003) | 36
+4. Percentage of students achieving mastery in 2003 Grade 1 Readiness Inventory | 37
+5. Percentage of students achieving mastery in all 4 cognitive skill areas in the 2003 Grade 1 Readiness Inventory vs. target set by Task Force | 37
+6. Enrolment at the primary level by school type, 2002/2003 | 37
+7. Percentage of students achieving mastery in 5 or less subjects in the 2003 Grade 3 Diagnostic Test | 38
+8. 2003 Grade 4 Literacy Test Results | 38
+9. Percentage scores in the 2003 Grade 6 Achievement Test (GSAT) by subject | 38
+10. Percent students achieving mastery in Grade 4 Literacy Test vs. target | 38
+11. Percentage scores in the 2003 Grade 6 Achievement Test (GSAT) by student vs. target | 38
+12. Enrolment in secondary level by school type 2003 | 39
+13. Percentage passes of students sitting the 2003 Grade 11 – Secondary School Certificate | 40
+14. Percentage passes of eligible cohort in English and Math – 2003 Grade 11 – CSEC Examinations | 40
+15. Percentage of cohort attaining Grade 1-3 in 4 CSEC subjects including Mathematics and English | 40
+16. Selected test results by gender | 41
+17. Enrolment in tertiary level by institution type, 2003 | 41
+18. Teachers employed in public sector schools by type of school and qualifications, 2003 | 42
+19. Distribution of functions in the Institutional Framework of Education in Jamaica | 44
+20. Extent of achievement of the targets set in the White Paper | 48
+21. Distribution of staff at the central offices of the MOEYC in Kingston by level in 1998 | 72
+22. Allocation of total staff resource by major function in the Ministry | 72
+23. Education support institutions and their proposed respective functions/services | 78
+24. MOEYC Recurrent Budget Breakdown, 2004-05 | 120
+25. Household Expenditure on Education | 121
+26. Expenditure per student for various countries | 124
+27. Summary Resource Requirements, 2004-2015 | 125
 
 Task Force on Educational Reform Final Report
 
@@ -602,6 +692,18 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 21]]
 
+28. Capital Resource Required for Transforming the Education System | 125a
+29. Recurrent Resource Required for Transforming the Education System. | 125b
+30. Recommended annual recurrent expenditure for education | 127
+31. Implementation Plan for the Transformation of Education, 2004-05 | 136a
+B1 Proposed allocation of the MOEY&C internal audit function | 144
+B2 Proposed allocation of the MOEY&C planning and development function | 144
+B3 Proposed allocation of the MOEY&C projects and technical function | 144
+B4 Proposed allocation of the MOEY&C human resource and administration function | 145
+B5 Proposed allocation of the MOEY&C financial management Function | 145
+B6 Proposed allocation of the MOEY&C educational services function | 145
+B7 Proposed allocation of the MOEY&C educational services | 146
+
 Task Force on Educational Reform Final Report
 
 21
@@ -610,7 +712,7 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 22]]
 
-# B Ba ac ck kg gr ro ou un nd d   t to o   t th he e   E Es st ta ab bl li is sh hm me en nt t   o of f t th he e T Ta as sk k   F Fo or rc ce e   o on n   E Ed du uc ca at ti io on na al l   R Re ef fo or rm m
+# Background to the Establishment of the Task Force on Educational Reform
 
 ## Introduction
 
@@ -620,7 +722,7 @@ International  development  and  cooperation  over  the  last  decade  have  see
 
 The vision of the World Declaration on Education for All (Jomtien 1990), to which Jamaica is committed, supported by the Universal Declaration of Human Rights and the Convention on the Rights of the Child is that:
 
-All children, young people and adults have the human right to benefit from an  education  that  will  meet  their  basic  learning  needs  in  the  best  and fullest sense of the term, an education that includes learning to know, to do, to live together and to be. It is an education geared to tapping each individual's talents and potential and developing learners' personalities, so that they can improve their lives and transform their societies 1
+All children, young people and adults have the human right to benefit from an education that will meet their basic learning needs in the best and fullest sense of the term, an education that includes learning to know, to do, to live together and to be. It is an education geared to tapping each
 
 Task Force on Educational Reform Final Report
 
@@ -630,11 +732,13 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 23]]
 
-The  Dakar  Framework  for  Action,  re-affirming  the  vision  set  out  in  Jomtien  in 1990, expressed the international community's collective commitment to pursue a broad-based strategy for ensuring that the basic learning needs of every child, youth and adult are met within a generation and sustained thereafter.
+individual’s talents and potential and developing learners’ personalities, so that they can improve their lives and transform their societies1
+
+The Dakar Framework for Action, re-affirming the vision set out in Jomtien in 1990, expressed the international community’s collective commitment to pursue a broad-based strategy for ensuring that the basic learning needs of every child, youth and adult are met within a generation and sustained thereafter.
 
 The Dakar Framework articulated:
 
-Starting  from  early  childhood  and  through  life,  the  learners  of  the twenty-first  century  will  require  access  to  high  quality  educational opportunities  that  are  responsive  to  their  needs,  equitable  and gender-sensitive….The  right  to  education  imposes  an  obligation upon states to ensure that all citizens  have  opportunities  to  meet their  basic  learning  needs.  Primary  education  should  be  free, compulsory  and  be  of  good  quality.  The  education  systems  of tomorrow,  however  diversified  they may  be,  will  need  to  be transparent and accountable in how they are governed, managed and financed. The indispensable role of the state in education must be  supplemented  and  supported  by  bold  and  comprehensive educational  partnerships  at  all  levels  of  society.  Education  for  All implies the involvement and commitment of all to Education 2 .
+Starting from early childhood and through life, the learners of the twenty-first century will require access to high quality educational opportunities that are responsive to their needs, equitable and gender-sensitive….The right to education imposes an obligation upon states to ensure that all citizens have opportunities to meet their basic learning needs. Primary education should be free, compulsory and be of good quality. The education systems of tomorrow, however diversified they may be, will need to be transparent and accountable in how they are governed, managed and financed. The indispensable role of the state in education must be supplemented and supported by bold and comprehensive educational partnerships at all levels of society. Education for All implies the involvement and commitment of all to Education2.
 
 In a paper presented at the thirteenth session of the Economic Commission for Latin America and the Caribbean (ECLAC) on the financing and management of education,  it  was  revealed  that  'Education  reforms  in  the  Latin  America  and Caribbean  Region  have  instigated  a  process  of  change  with  varied  emphases and which in general are directed at transforming different parts of the system:
 
@@ -660,21 +764,21 @@ Task Force on Educational Reform Final Report
 
 - Monitoring of education quality through revision of teaching practices and achievement assessment; and the
 
-- Beginning  of  adapting  curricula  to  the  social  and  cultural  conditions  of students and to the demands of the workplace' 3 .
+- Beginning of adapting curricula to the social and cultural conditions of students and to the demands of the workplace”3.
 
-These changes, and the rate of change, will continue to accelerate. Schools, like businesses,  communities  and  families,  must  adapt  to  changing  conditions  in order to thrive. Today's education system faces irrelevance unless we bridge the gap  between  how  students  live  and  how  they  learn…Students  will  spend  their adult  lives  in  a  multitasking,  multifaceted,  technology-driven,  diverse,  vibrant world - and they must arrive equipped to do so' 4 .
+These changes, and the rate of change, will continue to accelerate. Schools, like businesses, communities and families, must adapt to changing conditions in order to thrive. Today’s education system faces irrelevance unless we bridge the gap between how students live and how they learn…Students will spend their adult lives in a multitasking, multifaceted, technology-driven, diverse, vibrant world – and they must arrive equipped to do so”4.
 
-It is in this context that many of Jamaica's trading partners are transforming their education systems and establishing ever ambitious and challenging goals.
+It is in this context that many of Jamaica’s trading partners are transforming their education systems and establishing ever ambitious and challenging goals.
 
-- Cuba, for example, has decided to aim for university level of education for all its people 5 .
+- Cuba, for example, has decided to aim for university level of education for all its people5.
 
-'New Zealand's education has moved from a quite centralized structure to one in which individual schools and tertiary institutions have considerable responsibility for their own governance and management, working within the framework of guidelines, requirements and funding arrangements set by central government and administered through its agencies' 6 .
+- “New Zealand’s education has moved from a quite centralized structure to one in which individual schools and tertiary institutions have considerable responsibility for their own governance and management, working within the framework of guidelines, requirements and funding arrangements set by central government and administered through its agencies”6.
 
-'A  major  reform  of  the  entire  Italian  education  and  training  system  is  in progress,  aiming  at  the  improvement  and  integration  of  learning  in schools, universities and regional training institutions in order to respond
+- “A major reform of the entire Italian education and training system is in progress, aiming at the improvement and integration of learning in schools, universities and regional training institutions in order to respond
 
 > 3 Financing and Management of Education in Latin America and the Caribbean (Summary); Thirteenth Session of ECLAC, San Juan, Puerto Rico, 28 June - 2 July, 2004
 
-> 4 Report and Mile Guide for 21 st Century Skills, Partnership for 21 st Century Skills
+> 4 Report and Mile Guide for 21st Century Skills, Partnership for 21st Century Skills
 
 > 5 Viva Cuba, November/December 2002: Cuba's educational revolution continues
 
@@ -688,11 +792,11 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 25]]
 
-to  changing  social  and  economic  demands  for  knowledge,  skills  and qualifications.  Fundamental  changes  will  include  the  decentralization  of administrative  responsibilities  and  increased  school  autonomy,  enabling the grassroots actors in education and training to respond more flexibly to the diversity of individual, local and enterprise needs and to utilize more effectively  available  funds  and  technologies.  Central  elements  in  the reform will also provide evaluation and increased accountability across the system 7 '.
+to changing social and economic demands for knowledge, skills and qualifications. Fundamental changes will include the decentralization of administrative responsibilities and increased school autonomy, enabling the grassroots actors in education and training to respond more flexibly to the diversity of individual, local and enterprise needs and to utilize more effectively available funds and technologies. Central elements in the reform will also provide evaluation and increased accountability across the system7”.
 
 In  his  address  to  the  St  Lucia  Chamber  of  Commerce,  Industry  and  Culture, Prime  Minister  of  Jamaica,  the  Most  Honourable  P.J.  Patterson  addressed another significant development in the region, which further emphasizes the need for educational reform in Jamaica:
 
-'The Caricom Single Market and Economy (CSME) will allow for the unrestricted movement of goods, services, skills and capital throughout the region, resulting in a single market, leading ultimately to a single economy….. the advent of the CSME will result in unprecedented opportunities.  These new opportunities will result  in  a  highly  competitive  market  place,  one  that  encourages  economic efficiency, innovation and higher standards for quality and service delivery.  The 'level  playing  field'  throughout  the  region  will  be  opened  and  producers, manufacturers  and  business  entities  will  be  subject  to  common  rules  and policies.' 8
+“The Caricom Single Market and Economy (CSME) will allow for the unrestricted movement of goods, services, skills and capital throughout the region, resulting in a single market, leading ultimately to a single economy….. the advent of the CSME will result in unprecedented opportunities. These new opportunities will result in a highly competitive market place, one that encourages economic efficiency, innovation and higher standards for quality and service delivery. The “level playing field” throughout the region will be opened and producers, manufacturers and business entities will be subject to common rules and policies.”8
 
 These will have far-reaching and immediate implications on how individual nation states  think  about  schooling,  the  creation,  transmission  and  use  of  knowledge and the role of citizens in modern societies.  Invariably, the implications will be immense and will require radical and innovative responses by all stakeholders.
 
@@ -714,11 +818,11 @@ The Most Honourable Prime Minister, PJ Patterson, in his speech to launch the Ed
 
 In light of this call, and a similar call by Jamaican citizens, several initiatives and position statements have been issued, the most significant being:
 
-- Joint Parliamentary Resolution
+a) Joint Parliamentary Resolution
 
-- The establishment of the Task Force on Educational Reform
+b) The establishment of the Task Force on Educational Reform
 
-- The Validated  National  Shared  Vision  within  the  context  of  the  Jamaica Social Policy Vision and Goals
+c) The Validated National Shared Vision within the context of the Jamaica Social Policy Vision and Goals
 
 ## a.  Parliamentary Resolution on Government-Opposition Collaboration
 
@@ -758,7 +862,7 @@ Task Force on Educational Reform Final Report
 
 - Implement  a  High  school  equivalency  programme  for  adults  needing secondary Education Certification.
 
-- The Most Honourable Prime Minister established a fourteen member Task Force on Educational Reform in February 2004, with the following Terms of Reference:
+b. The Most Honourable Prime Minister established a fourteen member Task Force on Educational Reform in February 2004, with the following Terms of Reference:
 
 - Taking  into  account  the  National  Policy  on  Education,  contained  in Ministry Paper No. 6/2001 'Education:  The Way Upward' - A Path for Jamaica's Education at the start of the New Millennium, to assess the performance to date and propose such changes  it  may  deem necessary  to  the  strategic  objectives,  targets  and  timetable  set  out therein.
 
@@ -824,7 +928,7 @@ Task Force on Educational Reform Final Report
 
 ### Each Learner Maximising His/Her Potential, Based on International Standards
 
-The structure of our education system develops learners with skills, competencies,  values  and  attitudes,  which  exceed  globally  accepted  normsnorms determined by appropriate student assessment systems and procedures. Our system is based on a framework of cultural relevance and appropriateness, is  cognizant  of  the  need  for  a  broad-based  liberal  education  and,  by  instituting appropriate  programmes,  opportunities  and  technologies,  ensures  that  each learner maximises his or her potential throughout life.
+The structure of our education system develops learners with skills, competencies, values and attitudes, which exceed globally accepted norms—norms determined by appropriate student assessment systems and procedures. Our system is based on a framework of cultural relevance and appropriateness, is cognizant of the need for a broad-based liberal education and, by instituting appropriate programmes, opportunities and technologies, ensures that each learner maximises his or her potential throughout life.
 
 ### Committed, Qualified, Competent, Effective and Professional Educators and Staff
 
@@ -864,9 +968,9 @@ All  citizens  have  equal  opportunities  at  all  stages:  full  access  to  e
 
 All institutions provide:
 
-- Excellent teaching-learning environment
+1. Excellent teaching-learning environment
 
-- Standard relevant curriculum
+2. Standard relevant curriculum
 
 Task Force on Educational Reform Final Report
 
@@ -876,11 +980,11 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 32]]
 
-- Excellent delivery system
+3. Excellent delivery system
 
-- Safe and conducive learning environment
+4. Safe and conducive learning environment
 
-- Competent, qualified, and professional educators
+5. Competent, qualified, and professional educators
 
 ### Maximum Use of Learning Technologies
 
@@ -904,7 +1008,7 @@ In  an  enriching,  learner-centred  environment,  all  stakeholders  accept  an
 
 ### Full Literacy and Numeracy
 
-Every  Jamaican  citizen  completing  a  general  education  up  to  Grade  11  is functionally  literate  and  numerate  by  international  standards  and  is  able  to engage in all those activities in which literacy and numeracy are required for effective  performance in the Jamaican and world communities.  In addition, there are opportunities provided for those citizens outside the formal education system to become functionally literate.
+Every Jamaican citizen completing a general education up to Grade 11 is functionally literate and numerate by international standards and is able to
 
 Task Force on Educational Reform Final Report
 
@@ -913,6 +1017,8 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+engage in all those activities in which literacy and numeracy are required for effective performance in the Jamaican and world communities. In addition, there are opportunities provided for those citizens outside the formal education system to become functionally literate.
 
 ### Globally-Competitive, Quality Workforce
 
@@ -934,31 +1040,31 @@ Task Force on Educational Reform Final Report
 
 The Educated Jamaican will:
 
-- Love  to  learn  and  will  therefore  be  a  lifelong  learner,  continuously developing wisdom and knowledge
+1. Love to learn and will therefore be a lifelong learner, continuously developing wisdom and knowledge
 
-- Be  well-rounded,  agile  of  mind,  able  to  adjust  to  different  situations, responsible and able to make decisions
+2. Be well-rounded, agile of mind, able to adjust to different situations, responsible and able to make decisions
 
-- Speak an additional language and have at least the minimum requirements for tertiary education
+3. Speak an additional language and have at least the minimum requirements for tertiary education
 
-- Be a productive citizen-worker in charge of his or her personal economic advancement
+4. Be a productive citizen-worker in charge of his or her personal economic advancement
 
-- Contribute to national development by being:
+5. Contribute to national development by being:
 
-- Socially-aware and responsible
+1. Socially-aware and responsible
 
-- Conscious of what is good for society
+2. Conscious of what is good for society
 
-- Committed to a sustainable lifestyle
+3. Committed to a sustainable lifestyle
 
-- Spiritually-conscious and mature
+4. Spiritually-conscious and mature
 
-- Tolerant of diversity
+5. Tolerant of diversity
 
-- Rooted in his/her Jamaican 'Smaddiness'
+6. Rooted in his/her Jamaican “Smaddiness”
 
 ## 2015 Jamaica Social Policy Visions and Goals 9
 
-The 2015 Jamaica Social Policy  is  a  framework  and  action  plan  for  improving effectiveness, collaboration and accountability in the delivery of social policy in Jamaica up to the year 2015. The process was led by the Cabinet Office under the guidance of the Human Resource Council, the committee of Cabinet, which has  responsibility  for  leadership  in  social  policy.  It  involved  an  extensive, yearlong process of consultation, reflection, analysis and design involving a wide range  of  actors  in  the  political  directorate,  civil  service,  local  government, voluntary agencies, research institutions and communities resulting in:
+The 2015 Jamaica Social Policy is a framework and action plan for improving effectiveness, collaboration and accountability in the delivery of social policy in Jamaica up to the year 2015. The process was led by the Cabinet Office under the guidance of the Human Resource Council, the committee of Cabinet, which has responsibility for leadership in social policy. It involved an extensive, yearlong process of consultation, reflection, analysis and design involving a wide
 
 > 9 Source: Jamaica 2015: A Framework and Action Plan for Improving Effectiveness, Collaboration and Accountability in the Delivery of Social Policy
 
@@ -969,6 +1075,8 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+range of actors in the political directorate, civil service, local government, voluntary agencies, research institutions and communities resulting in:
 
 ### 1. A Social Policy Vision for Jamaica
 
@@ -982,9 +1090,9 @@ An education, which facilitates life-long learning and acquisition of social and
 
 - Improve early childhood cognitive and social development for all
 
-- Improve Secondary School access, attendance and outcomes
-
 - Improve Primary School attendance and learning outcomes
+
+- Improve Secondary School access, attendance and outcomes
 
 - Improve  post-Secondary  access  to  opportunities  for  learning  and  skill development for all
 
@@ -998,39 +1106,39 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 36]]
 
+# The Review Process
+
 ## 1. Methodology
 
 In accordance with the Terms of Reference the Task Force:
 
-- Conducted a system-wide  review  and  analysed  local  and  international research and best practice.  The exercise was used to gather primary and  secondary  data  to  validate  issues  and  to  identify  possible  action options.  In  particular,  we  referred  to  the  1999  KPMG  report,  the recommendations  of  which,  for  the  most  part,  were  not  implemented. We believe that the issues remain and the analysis is valid.
+1. Conducted a system-wide review and analysed local and international research and best practice. The exercise was used to gather primary and secondary data to validate issues and to identify possible action options. In particular, we referred to the 1999 KPMG report, the recommendations of which, for the most part, were not implemented. We believe that the issues remain and the analysis is valid.
 
-- Collaborated  with  the  Steering  Team  to  facilitate  the  National  Shared Vision for Education.
+2. Collaborated with the Steering Team to facilitate the National Shared Vision for Education.
 
-- Worked  in  plenary  and  4  sub-groups  using  an  iterative  process.  The purpose of the sub-groups was to identify key issues. The sub-groups were:
+3. Worked in plenary and 4 sub-groups using an iterative process. The purpose of the sub-groups was to identify key issues. The sub-groups were:
 
 (a) Governance and Management
 
 (b) Curriculum, Teaching and Learning Support
 
-- Stakeholder Partnerships
+4. Stakeholder Partnerships
 
-- Finance
+5. Finance
 
-- Held  consultations  with  key  stakeholders  including  the  Leader  of  the Opposition  and  considered  presentations  by  experts  in  the  field  of education.  Refer Appendix A for list of stakeholders.
+6. Held consultations with key stakeholders including the Leader of the Opposition and considered presentations by experts in the field of education. Refer Appendix A for list of stakeholders.
 
-- Prepared and submitted interim reports to the Prime Minister, as well as this final report.
+7. Prepared and submitted interim reports to the Prime Minister, as well as this final report.
 
 ## 2.  Structure of the Report
 
 This report is structured around five (5) key questions:
 
-- Where  are  we  now? -  The  state  of  education  in  Jamaica  and  the Contextual Framework for Transforming Education
+1. Where are we now? – The state of education in Jamaica and the Contextual Framework for Transforming Education
 
-- Where do we want to go? -  The National Shared Vision, Profile of the Educated Jamaican
+2. Where do we want to go? – The National Shared Vision, Profile of the Educated Jamaican
 
-- How will we get there? - Key recommendations
-
-# T Th he e   R Re ev vi ie ew w   P Pr ro oc ce es ss s
+3. How will we get there? – Key recommendations
 
 Task Force on Educational Reform Final Report
 
@@ -1040,9 +1148,9 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 37]]
 
-- How will we implement? -  Immediate,  Short,  Medium  and  Long  Term Action Plan and Legislative Changes required
+4. How will we implement? – Immediate, Short, Medium and Long Term Action Plan and Legislative Changes required
 
-- What will it cost? - Financing
+5. What will it cost? – Financing
 
 ## 3. Scope of the Review
 
@@ -1084,91 +1192,46 @@ Task Force on Educational Reform Final Report
 
 Figure 1. Task Force and Steering Team Collaboration
 
-S H A R E D  O U T P U T
+TASK FORCE
 
-S T E E R IN G  T E A M
+REVIEW OF THE EDUCATION SYSTEM:
 
-T A S K  F O R C E
+1. Governance & Management
+2. Curriculum, Teaching & Learning Support
+3. Stakeholder Partnerships
+4. Financing
 
-1 .   C o n s u lt a t io n s
+ACTION PLAN DEVELOPMENT
 
-2 .     L i t e r a t u r e
+SHARED OUTPUT
 
-R e v ie w
+NATIONAL ROUNDTABLE DISCUSSIONS
 
-3 .     M O E Y C  S ta ff
+ADVANCE DAY 1
 
-F o c u s  G r o u p s
+1. Shared Vision
+2. Roles
+3. Education Outcome
 
-S T E E R IN G  T E A M
+VALIDATION ROUNDTABLE
 
-W O R K S H O P
+1. Validated Vision
 
-N A T IO N A L
+IMPLEMENTATION
+MONITORING
+ACCOUNTABILITY
 
-R O U N D T A B L E
+STEERING TEAM
 
-D IS C U S S IO N S
+1. Consultations
+2. Literature Review
+3. MOEYC Staff Focus Groups
 
-R E V IE W  O F  T H E
+STEERING TEAM WORKSHOP
 
-E D U C A T IO N
+ADVANCE DAYS 2 & 3
 
-S Y S T E M :
-
-1 .   G o v e r n a n c e   &
-
-M a n a g e m e n t
-
-2 .   C u r r i c u l u m
-
-,
-
-T e a c h in g  &  L e a r n in g
-
-S u p p o r t
-
-3 .   S t a k e h o l d e r
-
-P a r t n e r s h i p s
-
-4 .   F i n a n c i n g
-
-A D V A N C E  D A Y S
-
-2   &   3
-
-M O E Y C  B a la n c e d
-
-S c o r e c a r d
-
-V A L ID A T IO N
-
-R O U N D T A B L E
-
-1 .   V a l i d a t e d   V i s i o n
-
-I M P L E M E N T A T IO N
-
-M O N IT O R IN G
-
-A C C O U N T A B IL IT Y
-
-A C T IO N
-
-P L A N
-
-D E V E L O P M E N T
-
-A D V A N C E  D A Y  1
-
-1 .   S h a r e d   V is io n
-
-2 .  R o le s
-
-3 .   E d u c a t io n   O u t c o m
-
-e
+MOEYC Balanced Scorecard
 
 Task Force on Educational Reform Final Report
 
@@ -1182,15 +1245,17 @@ Task Force on Educational Reform Final Report
 
 One early outcome of our review process was the determination of Performance Targets  for  Education  in  light  of  the  recently  articulated  and  validated  Shared National Vision for Education.  These were developed in a collaborative process between the National Task Force on Educational Reform and the Transformation of Education Steering Team.
 
+Table 1. Performance Targets for Education
+
 Objective | Measure | 2003 Baseline | 2015 Target
 --- | --- | --- | ---
 To achieve high levels of educational outcomes | Percent of students attaining mastery in all 4 areas of the Grade 1 Readiness Inventory | 37.2% | 90%
-Percent of students achieving mastery on the Grade 4 Literacy | 57.7% | 85%
-National mean score at GSAT for each subject | Math: 48% Language: 52% Science: 48% Soc. Stud.: 54% Comm.Task: 67% | Math: 85% Language: 85% Science: 85% Soc. Stud.: 85% Comm.Task: 85%
-Percent of cohort attaining Grade 1-3 in 5 CSEC subjects including English and Mathematics | <11.5% | 60%
-To have learners Realising Their Potential | Percent primary schools providing at least 4 co-curricular activities Percent secondary schools providing at least 8 co-curricular activities Annual percent students in at least 2 co-curricular activities (1 of which must be community service) | To be determined - new measure To be determined - new measure To be determined - new measure | 100% 100% 100%
-
-Table 1.  Performance Targets for Education
+| Percent of students achieving mastery on the Grade 4 Literacy | 57.7% | 85%
+| National mean score at GSAT for each subject | Math: 48% Language: 52% Science: 48% Soc. Stud.: 54% Comm.Task: 67% | Math: 85% Language: 85% Science: 85% Soc. Stud.: 85% Comm.Task: 85%
+| Percent of cohort attaining Grade 1-3 in 5 CSEC subjects including English and Mathematics | <11.5% | 60%
+To have learners Realising Their Potential | Percent primary schools providing at least 4 co-curricular activities | To be determined – new measure | 100%
+| Percent secondary schools providing at least 8 co-curricular activities | To be determined – new measure | 100%
+| Annual percent students in at least 2 co-curricular activities (1 of which must be community service) | To be determined – new measure | 100%
 
 Task Force on Educational Reform Final Report
 
@@ -1210,7 +1275,7 @@ Within 20 years of the grant, two types of schools emerged, the elite schools fo
 
 Social mobility was elusive and only a few of the especially bright children from the top of the lower class moved to the bottom of the emergent middle class.  This gave rise to three streams of education (a) an academic stream for professionals such as lawyers and doctors (b) a technical stream for maintenance managers of imported equipment (c) and a basic stream for cane cutters and other allied non-skilled workers.   A corollary of this  was high levels of illiteracy and poverty among the previously enslaved and their offsprings.
 
-What  may  be  described  as  the  dawn  of  the  modern  era  began  in  1953  with  the establishment  of  several  government  ministries  as  part  of  the  process  of  gradual autonomy  in  the  management  of  the  country's  affairs.    By  1958,  the  Minister  of Education was given full  responsibility  for  education  and  with  Independence  in  1962, came the challenge of introducing new policies and programmes, and commencing the process of reforming the education system.
+What may be described as the dawn of the modern era began in 1953 with the establishment of several government ministries as part of the process of gradual autonomy in the management of the country’s affairs. By 1958, the Minister of
 
 Task Force on Educational Reform Final Report
 
@@ -1220,13 +1285,15 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 42]]
 
-The common articulated vision was 'Education for All'.  A clear, long-term development programme  aimed  at  providing  the  best  education  the  country  could  afford  was embarked upon. A new curriculum provided a wide range of post-primary courses to thousands  of  children,  with  an  emphasis  on  technical  and  vocational  education  in preparation for the world of work. These changes were complemented by the expansion of the tertiary level including the teacher training colleges.
+Education was given full responsibility for education and with Independence in 1962, came the challenge of introducing new policies and programmes, and commencing the process of reforming the education system.
+
+The common articulated vision was “Education for All”. A clear, long-term development programme aimed at providing the best education the country could afford was embarked upon. A new curriculum provided a wide range of post-primary courses to thousands of children, with an emphasis on technical and vocational education in preparation for the world of work. These changes were complemented by the expansion of the tertiary level including the teacher training colleges.
 
 During the first 15 years of Independence, universal access to primary education was achieved;  more  than  eighty  percent  of  children  were  enrolled  at  the  lower  secondary level  (Grade  7  -  9)  and  almost  60%  at  the  upper  level.    Approximately  83%  of  the teachers were college trained.  Government absorbed the operating cost of almost all the high schools owned by Denominations and Trusts under a grant-in-aid arrangement. This  facilitated  an  increase  in  the  flow  of  children  of  working  class  parents  into traditionally  elite  schools.    The  Common  Entrance  Examination  functioned  as  the screening  mechanism  in  a  highly  competitive  selection  process.    Students  who  were selected went  to traditional high schools  the rest flowed automatically  to  New Secondary  Schools,  resulting  in  an  institutionalised  two-tiered  system  -  one  for  the upper and middle class and the other for children of the masses.
 
 The UNESCO Report of 1983 in a scathing commentary stated that:
 
-The variety of types of secondary schools appears confusing but, actually, boils down to two: the high schools and the others.  The differences can be seen in admission criteria, type of curriculum, enrolment patterns, future promise, social currency  and  unit  expenditure.  …The  High  Schools  hold  the  promise  of  postsecondary studies, have a much higher social currency, spend more money per student,  experience  a  continually  high  demand  for  admission  and  have  an academically oriented programme.
+The variety of types of secondary schools appears confusing but, actually, boils down to two: the high schools and the others. The differences can be seen in admission criteria, type of curriculum, enrolment patterns, future promise, social currency and unit expenditure. …The High Schools hold the promise of post-secondary studies, have a much higher social currency, spend more money per student, experience a continually high demand for admission and have an academically oriented programme.
 
 Task Force on Educational Reform Final Report
 
@@ -1236,7 +1303,7 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 43]]
 
-By contrast, New Secondary Schools enjoy noticeably lower esteem on the part of  pupils/parents,  which  is  reflected  in  a  declining  tendency  of  enrolments  and transition  rates.    The  curriculum  is  heavily  biased  towards  pre-vocational,  nonacademic subjects.
+By contrast, New Secondary Schools enjoy noticeably lower esteem on the part of pupils/parents, which is reflected in a declining tendency of enrolments and transition rates. The curriculum is heavily biased towards pre-vocational, non-academic subjects.
 
 In respect of the primary level, the Report stated that:
 
@@ -1292,7 +1359,7 @@ Under the new Plan the programmes started in the early period were strengthened 
 
 - The  GOJ/USAID  New  Horizons  for  Primary  School  was  implemented  to increase levels of literacy and numeracy of students in 72 selected primary schools throughout Jamaica.
 
-In  2003,  approximately  two  decades  after  the  UNESCO  Report  and  after  substantial financial investment in education, the system continues to be dysfunctional.  Attendance continues  to  be  low,  averaging  78  percent  at  the  primary  level.    Just  over  half  (58 percent) of the children exit the primary school attaining mastery in English Language and  Communication  Tasks  combined.    The  two  types  of  secondary  schools  persist despite  efforts  at  upgrading  and  rationalization.    Analysis  of  CSEC  data  for  2003 revealed that a mere 4.7 percent of students in Grade 11 of the Upgraded High Schools attained passing grades in Mathematics compared with 38 percent in Traditional High Schools.  For English Language less than 10 percent (9.2 percent) of Upgraded High School  students  passed  compared  to  55  percent  of  students  in  Traditional  High Schools.
+In 2003, approximately two decades after the UNESCO Report and after substantial financial investment in education, the system continues to be dysfunctional. Attendance
 
 Task Force on Educational Reform Final Report
 
@@ -1302,7 +1369,9 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 46]]
 
-By the dawn of 2004, civic society demanded a new direction for education.  The Prime Minister,  in  a  positive  response,  launched  The  Task  Force  on  Educational  Reform  in solidarity with the historic unanimous Parliamentary Resolution passed in the House of Representatives, and on his own passionate belief in the value of education as a tool of social mobility and a key to economic empowerment.       Consistent with this, the Prime Minister articulated the following:
+continues to be low, averaging 78 percent at the primary level. Just over half (58 percent) of the children exit the primary school attaining mastery in English Language and Communication Tasks combined. The two types of secondary schools persist despite efforts at upgrading and rationalization. Analysis of CSEC data for 2003 revealed that a mere 4.7 percent of students in Grade 11 of the Upgraded High Schools attained passing grades in Mathematics compared with 38 percent in Traditional High Schools. For English Language less than 10 percent (9.2 percent) of Upgraded High School students passed compared to 55 percent of students in Traditional High Schools.
+
+By the dawn of 2004, civic society demanded a new direction for education. The Prime Minister, in a positive response, launched The Task Force on Educational Reform in solidarity with the historic unanimous Parliamentary Resolution passed in the House of Representatives, and on his own passionate belief in the value of education as a tool of social mobility and a key to economic empowerment. Consistent with this, the Prime Minister articulated the following:
 
 ' I want a vision that puts Jamaica's children first and keeps them there.
 
@@ -1336,7 +1405,7 @@ During  the  review  of  Jamaica's  education  system,  some  positive  achievem
 
 Despite  this  however,  the  system's  performance  is  well  below  acceptable  standards, manifested in low student performance.  Data from the Ministry of Education Youth and Culture, reveal that in 2003, less than one-third of the children entering grade 1 were ready for the primary level, some 30% of primary school leavers were illiterate, and only about  20%  of  secondary  graduates  had  the  requisite  qualification  for  meaningful employment and/or entry to post secondary programmes.
 
-A comparison of the current education performance against the 2010 targets established by the Task Force revealed that in most instances the variances are cause for grave concern given the history of poor performance.  It is clear that if these trends continue, the targets will not be met.  The need to transform education in Jamaica must therefore  be  seen  in  the  context  of  this  poor  performance,  the  heightened  national interest, as well as the parliamentary resolution; the Social Policy Vision and Goals; The Validated Shared National Vision for Education in Jamaica and educational transformation on the global scene.
+A comparison of the current education performance against the 2010 targets established by the Task Force revealed that in most instances the variances are cause for grave concern given the history of poor performance. It is clear that if these trends continue, the targets will not be met. The need to transform education in Jamaica must
 
 Task Force on Educational Reform Final Report
 
@@ -1346,9 +1415,11 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 48]]
 
+therefore be seen in the context of this poor performance, the heightened national interest, as well as the parliamentary resolution; the Social Policy Vision and Goals; The Validated Shared National Vision for Education in Jamaica and educational transformation on the global scene.
+
 ### Population and Employee Demographics
 
-T Th he e Education Regulations 1980 define the levels of the formal education system as: early  childhood,  primary,  secondary  and  tertiary,  each  of  which  is  offered  in  several institutions island-wide. The public system caters for approximately 700,000 students in 1,000 public institutions.  In 2003, the public system employed some 22,363 teachers serving infant schools and departments, and primary and secondary schools. Just over 17,200 are female.  Approximately 83% of the teaching force are graduates of teacher training  colleges  with  an  additional  4%  having  a  university  degree  but  no  teacher training.  Of  the  total  teaching  corps,  only  20%  have  a  university  degree  as  well  as  a trained teacher diploma (trained university graduates). Table 2 shows the distribution of teachers employed in the public sector by qualification 20 .
+The Education Regulations 1980 define the levels of the formal education system as: early childhood, primary, secondary and tertiary, each of which is offered in several institutions island-wide. The public system caters for approximately 700,000 students in 1,000 public institutions. In 2003, the public system employed some 22,363 teachers serving infant schools and departments, and primary and secondary schools. Just over 17,200 are female. Approximately 83% of the teaching force are graduates of teacher training colleges with an additional 4% having a university degree but no teacher training. Of the total teaching corps, only 20% have a university degree as well as a trained teacher diploma (trained university graduates). Table 2 shows the distribution of teachers employed in the public sector by qualification 20.
 
 Task Force on Educational Reform Final Report
 
@@ -1357,6 +1428,8 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+Table 2. Teachers Employed in Public Sector Schools by Type of School and Qualification (2003)
 
 School Type | Trained University Graduates | Trained Teachers College Graduates | Pre-Trained University Graduate | Pre-Trained Diploma Level Graduate | Pre-Trained Secondary Level Graduate | Total | %
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1368,14 +1441,12 @@ Primary & Jun. High (1-6) | 233 | 1,247 | 10 | 18 | 183 | 1,691 | 7.6
 Subtotal Primary | 1,363 | 7,675 | 48 | 134 | 1,139 | 10,359 | 46.3
 All Age (7- 9) | 86 | 371 | 5 | 24 | 77 | 563 | 2.5
 Primary & Jun. High (7-9) | 171 | 681 | 17 | 54 | 100 | 1,023 | 4.6
-Secondary High | 2,517 | 4,431 | 725 | 683 | 513 | 8,869
-Technical High | 226 | 512 | 80 | 97 | 48 | 963
-Vocational/Agricultural | 7 | 13 | 1 | 10 | 1 | 32
-Subtotal Secondary | 3,007 | 6,008 | 828 | 868 | 739 | 11,450
-TOTAL | 4,435 | 14,084 | 876 | 1,004 | 1,968 | 22,363
+Secondary High | 2,517 | 4,431 | 725 | 683 | 513 | 8,869 |
+Technical High | 226 | 512 | 80 | 97 | 48 | 963 |
+Vocational/Agricultural | 7 | 13 | 1 | 10 | 1 | 32 |
+Subtotal Secondary | 3,007 | 6,008 | 828 | 868 | 739 | 11,450 |
+TOTAL | 4,435 | 14,084 | 876 | 1,004 | 1,968 | 22,363 |
 % TOTAL | 19.8 | 63 | 3.9 | 4.5 | 8.8 | 100 | 4.3
-
-Table 2. Teachers Employed in Public Sector Schools by Type of School and Qualification (2003)
 
 Task Force on Educational Reform Final Report
 
@@ -1389,15 +1460,15 @@ Task Force on Educational Reform Final Report
 
 The early childhood level in Jamaica currently caters for 132,645 children 0 - 5 years and is delivered through community-operated basic schools, public infant schools and departments  in  primary, all-age and  primary  &  junior high schools as well as kindergarten departments of privately owned schools.  Table 3 shows the distribution of enrolment 21 .
 
-School Type | Number | Enrolment | %
+Table 3. Enrolment at the Early Childhood Level (2002/2003)
+
+School Type |  | Number | Enrolment | %
 --- | --- | --- | --- | ---
 Public | Infant School | 29 | 8,749 | 6.6
-Infant Department | 83 | 6,273 | 4.7
+| Infant Department | 83 | 6,273 | 4.7
 Private | Recognized Basic School | 1921 | 112,627 | 84.9
-Unrecognized Basic School | 147 | 5,006 | 3.8
-TOTAL | 2180 | 132,645 | 100.0
-
-Table 3. Enrolment at the Early Childhood Level (2002/2003)
+| Unrecognized Basic School | 147 | 5,006 | 3.8
+TOTAL |  | 2180 | 132,645 | 100.0
 
 #### Grade 1 Readiness Inventory
 
@@ -1412,6 +1483,7 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+Table 4. Performance of Children Achieving Mastery in each sub-test in the Grade 1 Readiness Inventory (2003)
 
 School Type | Visual Motor Coordination | Visual | Audio | Number, Letter Recognition
 --- | --- | --- | --- | ---
@@ -1420,7 +1492,7 @@ Infant | 89.8% | 58.8% | 63.0% | 73.9%
 Preparatory | 95.6% | 77.9% | 83.4% | 89.5%
 NATIONAL | 86.3% | 54.4% | 57.1% | 68.7%
 
-Table 4. Performance of Children Achieving Mastery in each sub-test in the Grade 1 Readiness Inventory (2003)
+Table 5. Performance of Children on the Grade 1 Readiness Inventory (2003 )
 
 No. of Subtests | No. of Students | %
 --- | --- | ---
@@ -1430,8 +1502,6 @@ No. of Subtests | No. of Students | %
 3 | 10,850 | 23.0%
 4 | 17,509 | 37.2%
 TOTAL | 47,100 | 100%
-
-Table 5. Performance of Children on the Grade 1 Readiness Inventory (2003 )
 
 ### Primary Level
 
@@ -1445,6 +1515,8 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 52]]
 
+Table 6. Enrolment at the Primary Level by School Type, 2002/2003
+
 School Type | No. of schools Primary | Enrolment | %
 --- | --- | --- | ---
 Primary | 357 | 189,571 | 57.7
@@ -1454,18 +1526,16 @@ Sub Total | 793 | 309,775 | 94.3
 Private Preparatory | 196 | 18,587 | 5.7
 TOTAL | 989 | 328,362 | 100.0
 
-Table 6. Enrolment at the Primary Level by School Type, 2002/2003
-
 #### Grade 3 Diagnostic Test
 
-At  grade  3,  a  test  is  administered  comprising  Language  Arts,  Mathematics  and Communication Task.  The Language Arts test is made up of six sub-tests inclusive of Phonics, Structure and Mechanics, Vocabulary, Study Skills and Reading and Listening Comprehension.  The Mathematics test consists of five sub-tests: Number, Estimation and  Measurement,  Geometry,  Algebra  and  Statistics.    The  Communication  Task comprises a written activity, requiring the student to respond to given stimuli material. Table 7, shows the national performance on the Grade 3 Diagnostic Test.
+At grade 3, a test is administered comprising Language Arts, Mathematics and Communication Task. The Language Arts test is made up of six sub-tests inclusive of Phonics, Structure and Mechanics, Vocabulary, Study Skills and Reading and Listening Comprehension. The Mathematics test consists of five sub-tests: Number, Estimation and Measurement, Geometry, Algebra and Statistics. The Communication Task comprises a written activity, requiring the student to respond to given stimuli material. Table 7, shows the national performance on the Grade 3 Diagnostic Test.
+
+Table 7. Performance of Children on the Grade 3 Diagnostic Test (2003)
 
 # of Skill Areas | 5 | 4 | 3 | 2 | 1 | 0
 --- | --- | --- | --- | --- | --- | ---
 Language Arts | 13.6% | 11.9% | 10% | 10.7% | 15.4% | 38.3%
 Mathematics | 3.8% | 4.9% | 6.3% | 10.6% | 23.4% | 50.9%
-
-Table 7. Performance of Children on the Grade 3 Diagnostic Test (2003)
 
 Task Force on Educational Reform Final Report
 
@@ -1481,19 +1551,19 @@ The  Literacy  Test  implemented  at  Grade  Four  in  the  nation's  schools  i
 
 Pupil performance is categorized at three levels 'Mastery' (Not At Risk), 'Near Mastery' (Uncertain), and Non-Mastery' (At Risk).  Descriptors in brackets were those formerly used.  Pupils in the Near-Mastery and Non-Mastery categories are generally exposed to Literacy interventions during the summer, after which they are tested a second time, in July.  Table 8 shows pupils performance on the Grade Four Literacy Test.
 
+Table 8. Grade 4 Literacy Test Results (2003)
+
 Achievement Level | % Students Achieving the Level
 --- | ---
 Mastery | 57.7%
 Near Mastery | 23.9%
 Non-Mastery | 18.4%
 
-Table 8. Grade 4 Literacy Test Results (2003)
-
 #### The Grade Six Achievement Test
 
 The  Grade  Six  Achievement  Test  (GSAT)  is  one  of  the  national  assessments implemented at the primary level.  It is the end point examination administered primarily to  Grade  Six  children,  who  would  have  completed  the  primary  curriculum.    It  is scheduled  for  two  days  in  March  each  year,  and  the  results  are  used  for  placing students in the secondary level schools.
 
-Pupils  are  examined  in  five  subjects;  Mathematics,  Social  Studies,  Language  Arts, Science, and Communication Task.  Each of the four test papers consists of 80 items with the exception of Science which consists of 60 items.  The average performance by subject is shown in Table 9.
+Pupils are examined in five subjects; Mathematics, Social Studies, Language Arts, Science, and Communication Task. Each of the four test papers consists of 80 items
 
 Task Force on Educational Reform Final Report
 
@@ -1502,29 +1572,30 @@ Task Force on Educational Reform Final Report
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
-
-MATH. | SCIENCE | SOC. STUD. | LANG. ARTS | COMM. TASK
---- | --- | --- | --- | --- | ---
-% SCORES | 48% | 48% | 54% | 52% | 67%
+with the exception of Science which consists of 60 items. The average performance by subject is shown in Table 9.
 
 Table 9. Percent Scores in the Grade 6 Achievement Test (GSAT) by Subject (2003)
+
+ | MATH. | SCIENCE | SOC. STUD. | LANG. ARTS | COMM. TASK
+--- | --- | --- | --- | --- | ---
+% SCORES | 48% | 48% | 54% | 52% | 67%
 
 ### Secondary Level
 
 Secondary level education is offered to 245,124 students, in the age group 12-16 years in  grades 7-11. An additional two years is offered to a small proportion of students in some  high  schools.  There  are  five  types  of  institutions  offering  secondary  education namely:  All-Age,  and  Primary  and  Junior  High  which  terminate  at  grade  9.    High Schools,  Technical  and  Agricultural  schools  offer  five  years  of  secondary  education, terminating at grade 11. Table 10 indicates the distribution of enrolment at this level by school type 22 .
 
+Table 10. Enrolment in Secondary Level Schools by Type (2003)
+
 School Type | No. of Schools | Enrolment | %
 --- | --- | --- | ---
-All - Age (7-9) | 348 | 12,399 | 5.1
+All – Age (7-9) | 348 | 12,399 | 5.1
 Primary and Junior High (7-9) | 89 | 22,888 | 9.3
 Secondary High | 139 | 178,212 | 72.7
 Technical High | 14 | 17,434 | 7.1
 Vocational/Agriculture | 2 | 376 | 0.15
 Sub Total | 592 | 231,309 | 94.3
-Private Secondary | 13,875 | 5.7
-TOTAL | 245,124 | 100.0
-
-Table 10. Enrolment in Secondary Level Schools by Type (2003)
+Private Secondary |  | 13,875 | 5.7
+TOTAL |  | 245,124 | 100.0
 
 NB:  Due to 'rounding off' the total % does not add up to 100%
 
@@ -1546,13 +1617,13 @@ The Secondary Schools Certificate (SSC) examination is administered to students 
 
 Table 11, indicates students performance in SSC in 2003 in the three core subjects.
 
+Table 11. Percent of Students attaining range 4-5 in the Secondary School Certificate (2003)
+
 Subject | % Passes of students Sitting
 --- | ---
 Language Arts | 31.1%
 Mathematics | 3.3%
 General Science | 12.0%
-
-Table 11. Percent of Students attaining range 4-5 in the Secondary School Certificate (2003)
 
 Task Force on Educational Reform Final Report
 
@@ -1566,12 +1637,12 @@ Task Force on Educational Reform Final Report
 
 The Caribbean Examinations Council (CXC) is the major examining body in the region in respect of secondary school leaving examination.  It has developed 50 syllabuses 19 at the basic proficiency level, 33 at the general proficiency level and 3 at the technical proficiency  level.    The  Council  offers  examinations  in  all  syllabuses  at  the  May/June administration.    Since  1998,  grade  3  has  been  accepted  as  a  passing  grade  for matriculation to tertiary level institutions.
 
-National | Traditional High | Upgraded High | Technical High
+Table 12. Percent of Students attaining Grade 1-3 in English and Mathematics in CSEC by School Type (2003)
+
+ | National | Traditional High | Upgraded High | Technical High
 --- | --- | --- | --- | ---
 English Language | 45% | 65% | 25% | 30%
 Mathematics | 36% | 51% | 17% | 27%
-
-Table 12. Percent of Students attaining Grade 1-3 in English and Mathematics in CSEC by School Type (2003)
 
 #### Performance by Gender
 
@@ -1585,6 +1656,8 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 57]]
 
+Table 13. Selected Test Results by Gender
+
 Test | Male | Female | Total
 --- | --- | --- | ---
 Grade 1 Number & Letter Knowledge Mastery | 63.2% | 74.3% | 68.6%
@@ -1594,8 +1667,6 @@ Grade 4 Literacy Test Mastery | 45.5% | 70.4% | 57.7%
 Grade 6 Achievement Test - % Sitting Math | 45% | 51% | 48%
 CSEC Math (2002) % Sitting and Gaining 1, 2, 3 | 35.6% | 30.7% | 32.6%
 CSEC English Language (2002) - % Sitting and Gaining 1, 2 or 3 | 40.1% | 53.9% | 48.8%
-
-Table 13. Selected Test Results by Gender
 
 Task Force on Educational Reform Final Report
 
@@ -1655,29 +1726,29 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 59]]
 
-Function or Service | Institution(s) undertaking service
---- | --- | ---
-Schools | MOEY&C | Other Institutions
-1. | Accreditation of Programs | University Council of Jamaica (UCJ) National Council of Technical Vocational Education and Training (NCTVET) Joint Board of Teacher Education (JBTE)
-2. | Student Assessment
-3. | Co-Curricular Activities
-4. | Curriculum Development
-5. | Material and Equipment
-6. | Early Childhood Oversight | Early Childhood Commission
-7. | Guidance & Counselling
-8. | Health Services | Ministry of Health
-9. | Human Resources Management
-10. | Professional Representation | Jamaica Teachers' Association
-11. | Quality assurance for Teachers' Colleges | Joint Board of Teacher Education
-12. | Leadership & Governance
-13. | Library Services | Jamaica Library Services
-14. | Management of Teaching
-15. | Nomination of Boards | National Council on Education
-16. | Nutrition | Nutrition Products Limited, Schools
-17. | Physical Plant & Environment
-18. | Policy Advice to the Minister | National Council on Education
-
 Table 15. Distribution of Functions in the Institutional Framework of Education in Jamaica
+
+Function or Service | Institution(s) undertaking service
+ | Schools | MOEY&C | Other Institutions
+--- | --- | --- | ---
+1. Accreditation of Programs |  |  | University Council of Jamaica (UCJ) National Council of Technical Vocational Education and Training (NCTVET) Joint Board of Teacher Education (JBTE)
+2. Student Assessment |  |  |
+3. Co-Curricular Activities |  |  |
+4. Curriculum Development |  |  |
+5. Material and Equipment |  |  |
+6. Early Childhood Oversight |  |  | Early Childhood Commission
+7. Guidance & Counselling |  |  |
+8. Health Services |  |  | Ministry of Health
+9. Human Resources Management |  |  |
+10. Professional Representation |  |  | Jamaica Teachers' Association
+11. Quality assurance for Teachers' Colleges |  |  | Joint Board of Teacher Education
+12. Leadership & Governance |  |  |
+13. Library Services |  |  | Jamaica Library Services
+14. Management of Teaching |  |  |
+15. Nomination of Boards |  |  | National Council on Education
+16. Nutrition |  |  | Nutrition Products Limited, Schools
+17. Physical Plant & Environment |  |  |
+18. Policy Advice to the Minister |  |  | National Council on Education
 
 Task Force on Educational Reform Final Report
 
@@ -1688,20 +1759,20 @@ Task Force on Educational Reform Final Report
 [[START OF PAGE 60]]
 
 Function or Service | Institution(s) undertaking service
---- | --- | ---
-Schools | MOEY&C | Other Institutions
-19. Policy Development
-20. Professional Development | Tertiary Institutions
-21. Analysis and publication of National Results | National Council on Education
-22. Quality Assurance | University Council of Jamaica
-23. Safety & Security
-24. School Audits
-25. School Monitoring
-26. Standards Development
-27. Appointment of Principals; Registration of Teachers | Teachers' Services Commission
-28. Teaching
-29. Tertiary Oversight
-30. Transportation
+ | Schools | MOEY&C | Other Institutions
+--- | --- | --- | ---
+19. Policy Development |  |  |
+20. Professional Development |  |  | Tertiary Institutions
+21. Analysis and publication of National Results |  |  | National Council on Education
+22. Quality Assurance |  |  | University Council of Jamaica
+23. Safety & Security |  |  |
+24. School Audits |  |  |
+25. School Monitoring |  |  |
+26. Standards Development |  |  |
+27. Appointment of Principals; Registration of Teachers |  |  | Teachers' Services Commission
+28. Teaching |  |  |
+29. Tertiary Oversight |  |  |
+30. Transportation |  |  |
 
 Task Force on Educational Reform Final Report
 
@@ -1715,19 +1786,19 @@ Task Force on Educational Reform Final Report
 
 The following are the key pieces of legislation  which  govern  the  education  system  in Jamaica:
 
-- The Education Act, 1965.
+1. The Education Act, 1965.
 
-- The  Education  Regulations,  1980  (commonly  called  the  Education  Code),  an extension  of  the  Act,  prescribe  the  details  of  administration.    Regulations  are being reviewed (since 1989)
+2. The Education Regulations, 1980 (commonly called the Education Code), an extension of the Act, prescribe the details of administration. Regulations are being reviewed (since 1989)
 
-- The National Council on Education Act, 1993, establishing the National Council on Education (NCE), which has among its functions, the nomination of persons for  appointment  to  Boards,  the  orientation  and  training  of  Board  Members  and advice to the Minister on policy matters, and the management of the Education Trust Fund.
+3. The National Council on Education Act, 1993, establishing the National Council on Education (NCE), which has among its functions, the nomination of persons for appointment to Boards, the orientation and training of Board Members and advice to the Minister on policy matters, and the management of the Education Trust Fund.
 
-- The Financial Management Regulations, 1996 which prescribe the rules for the management  of  Government  assets  and  funds  and  is  an  extension  of  the Financial Administration and Audit Act (FAAA) and Instructions 1977.
+4. The Financial Management Regulations, 1996 which prescribe the rules for the management of Government assets and funds and is an extension of the Financial Administration and Audit Act (FAAA) and Instructions 1977.
 
-- The University Council of Jamaica Act 1987.
+5. The University Council of Jamaica Act 1987.
 
-- The Human Employment and Resource Training (HEART) Act, 1982.
+6. The Human Employment and Resource Training (HEART) Act, 1982.
 
-- The Early Childhood Commission Act, 2003.
+7. The Early Childhood Commission Act, 2003.
 
 Task Force on Educational Reform Final Report
 
@@ -1743,19 +1814,19 @@ The  current  education  policies  of  the  Ministry  of  Education,  Youth  &  
 
 ### Strategic Objectives
 
-- To devise and support initiatives striving towards literacy for all in order to extend personal opportunities and contribute to national development;
+1. To devise and support initiatives striving towards literacy for all in order to extend personal opportunities and contribute to national development;
 
-- To secure teaching and learning opportunities that will optimize access, equity and relevance throughout the education system;
+2. To secure teaching and learning opportunities that will optimize access, equity and relevance throughout the education system;
 
-- To support student achievement and improve institutional performance in order to ensure that national targets are met;
+3. To support student achievement and improve institutional performance in order to ensure that national targets are met;
 
-- To maximize opportunities throughout the Ministry's purview that promote cultural development,  awareness  and  self-esteem  for  individuals,  communities  and  the nation as a whole;
+4. To maximize opportunities throughout the Ministry's purview that promote cultural development, awareness and self-esteem for individuals, communities and the nation as a whole;
 
-- To  devise  and  implement  systems  of  accountability  and  performance  and  win public confidence;
+5. To devise and implement systems of accountability and performance and win public confidence;
 
-- To optimize the effectiveness and efficiency of staff in all aspects of the service in order to secure continuous improvement in performance;
+6. To optimize the effectiveness and efficiency of staff in all aspects of the service in order to secure continuous improvement in performance;
 
-- To enhance student learning by the greater use of information and communication  technology  as  preparation  for  life  in  the  national  and  global communities.
+7. To enhance student learning by the greater use of information and communication technology as preparation for life in the national and global communities.
 
 Task Force on Educational Reform Final Report
 
@@ -1769,20 +1840,20 @@ Task Force on Educational Reform Final Report
 
 Table 20 below shows the extent of achievement of the targets set in the White Paper.
 
-Measure | Target | Performance
---- | --- | --- | ---
-1. | Enrolment of early childhood cohort ages 4 & 5 by year 2003 | 100% | 98.7% (2002)
-2. | Island wide public education programme to support early childhood care and stimulation from birth to age 4 | August 2001 | 2002
-3. | Average daily attendance at primary Level by 2005 | 90% | 78.4% (2002/03)
-4. | Teacher: Pupil ratio in primary schools | 1:35 (2003) | 1:35 (2002/03)
-5. | Teacher: Pupil ratio in Grades 1 and 2 | 1:30 | N/A
-6. | % Grade 6 completers demonstrating full literacy by 2003 | 80% | Not reported BUT: 2003 GSAT Communication Task Score = 67% English Scores = 52%
-7. | 5 years of places for % students entering Grade 7 in 2003 | 100% | Not reported but in 2002 86% students in 5-year plan
-8. | % students passing English at CXC in relation to those sitting | 64% (2003) | 42.7% (2003)
-9. | % students passing Math at CXC in relation to those sitting | 47% (2003) | 33% (2003)
-10. | Enrolment in Tertiary Education by 2005 (18-23 years) | 15% | 16.9% (2000/2001)
-
 Table 23. Extent of achievement of the targets set in the White Paper 27
+
+Measure | Target | Performance
+--- | --- | ---
+1. Enrolment of early childhood cohort ages 4 & 5 by year 2003 | 100% | 98.7% (2002)
+2. Island wide public education programme to support early childhood care and stimulation from birth to age 4 | August 2001 | 2002
+3. Average daily attendance at primary Level by 2005 | 90% | 78.4% (2002/03)
+4. Teacher: Pupil ratio in primary schools | 1:35 (2003) | 1:35 (2002/03)
+5. Teacher: Pupil ratio in Grades 1 and 2 | 1:30 | N/A
+6. % Grade 6 completers demonstrating full literacy by 2003 | 80% | Not reported BUT: 2003 GSAT Communication Task Score = 67% English Scores = 52%
+7. 5 years of places for % students entering Grade 7 in 2003 | 100% | Not reported but in 2002 86% students in 5-year plan
+8. % students passing English at CXC in relation to those sitting | 64% (2003) | 42.7% (2003)
+9. % students passing Math at CXC in relation to those sitting | 47% (2003) | 33% (2003)
+10. Enrolment in Tertiary Education by 2005 (18-23 years) | 15% | 16.9% (2000/2001)
 
 Task Force on Educational Reform Final Report
 
@@ -1815,7 +1886,12 @@ Figure 1 illustrates the current state of education in Jamaica.  If the nation c
 
 From the illustration we could infer that the longer the wait, the greater will be the effort and  resources  required  to  achieve  the  vision.  Therefore,  it  is  very  important  to commence the transformation process immediately.
 
-Diagrem
+PERFORMANCE
+CURRENT
+TRANSFORMATION PATH
+VISION
+TRANSFORMATION GAP
+TIME
 
 Task Force on Educational Reform Final Report
 
@@ -1825,7 +1901,7 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 66]]
 
-# K KE EY Y   I IS SS SU UE ES S A AN ND D R RE EC CO OM MM ME EN ND DA AT TI IO ON NS S
+# KEY ISSUES AND RECOMMENDATIONS
 
 Task Force on Educational Reform Final Report
 
@@ -1841,49 +1917,49 @@ This section of the report, highlights key issues and recommendations under the 
 
 ### Governance and Management
 
-- Institutional Arrangements
+1. Institutional Arrangements
 
-- Autonomy and Authority at the School Level
+   a) Autonomy and Authority at the School Level
 
-- Structure of the Ministry of Education Youth and Culture
+   b) Structure of the Ministry of Education Youth and Culture
 
-- Education System Support Institutions
+   c) Education System Support Institutions
 
-- Accountability for Performance at all levels in the Education System
+2. Accountability for Performance at all levels in the Education System
 
-- Management and Organisation of Teaching
+3. Management and Organisation of Teaching
 
 ### Curriculum, Teaching and Learning Support
 
-- Chronic underachievement in the Education System
+1. Chronic underachievement in the Education System
 
-- Anti-Social and Violent Behaviour
+2. Anti-Social and Violent Behaviour
 
-- Curriculum Development
+3. Curriculum Development
 
-- Curriculum Implementation
+4. Curriculum Implementation
 
-- Assessment and Grading
+5. Assessment and Grading
 
-- Access to School
+6. Access to School
 
-- School Capacity and State of the Physical Plant
+7. School Capacity and State of the Physical Plant
 
-- Health and Nutrition
+8. Health and Nutrition
 
-- Management of Special Needs
+9. Management of Special Needs
 
 ### Stakeholder Partnership
 
-- Role of Students
+10. Role of Students
 
-- Stakeholder Partnerships
+11. Stakeholder Partnerships
 
 ### Finance
 
-- Present State of Education Financing
+12. Present State of Education Financing
 
-- Requirements to Transform the Education System
+13. Requirements to Transform the Education System
 
 Task Force on Educational Reform Final Report
 
@@ -1893,11 +1969,11 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 68]]
 
-- Reallocation of Ministry of Education, Youth and Culture
+14. Reallocation of Ministry of Education, Youth and Culture
 
-- The Model for State Funding of Education
+15. The Model for State Funding of Education
 
-- Alternative Funding for Education
+16. Alternative Funding for Education
 
 Task Force on Educational Reform Final Report
 
@@ -1982,11 +2058,11 @@ Task Force on Educational Reform Final Report
 
 The current structure  of  the  MOEY&C,  shown  below  in  Figure  3,  indicates  the following:
 
-- The MOEY&C  is a hierarchical, highly centralized and bureaucratic organization  despite  efforts  to  decentralise  through  the  establishment  of regions.  The KPMG report noted that 'although the creation of the regional offices signals a marked shift in the operations of the Ministry, many problems associated  with  a  centralised  bureaucracy  remain  to  be  resolved.    The regional  offices  are  essentially  administrative  arms  of  the  central  Ministry. There is  pressure  to  give  more  responsibility  to  the  regions  as  a  means  of removing  barriers  to  progress  …..  The  current  system  also  embeds  in  the overall  management  culture  the  view  that  people  and  organisations  look  to higher up the hierarchy for solutions or decisions and as a result people do not resolve problems for themselves'
+1. The MOEY&C is a hierarchical, highly centralized and bureaucratic organization despite efforts to decentralise through the establishment of regions. The KPMG report noted that 'although the creation of the regional offices signals a marked shift in the operations of the Ministry, many problems associated with a centralised bureaucracy remain to be resolved. The regional offices are essentially administrative arms of the central Ministry. There is pressure to give more responsibility to the regions as a means of removing barriers to progress ….. The current system also embeds in the overall management culture the view that people and organisations look to higher up the hierarchy for solutions or decisions and as a result people do not resolve problems for themselves'
 
-- Functions  are  highly  operational  and  not  in  line  with  the  Public  Sector Modernisation policy
+2. Functions are highly operational and not in line with the Public Sector Modernisation policy
 
-- Overlaps  in  the  functions  of  various  divisions  in  the  Ministry  such  as Corporate Planning and Strategic Reform, Project Management and Project Finance,  Facilities  Management  and  Technical  Services,  therefore  creating inefficiency and waste.
+3. Overlaps in the functions of various divisions in the Ministry such as Corporate Planning and Strategic Reform, Project Management and Project Finance, Facilities Management and Technical Services, therefore creating inefficiency and waste.
 
 Task Force on Educational Reform Final Report
 
@@ -1996,11 +2072,11 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 73]]
 
-- The  Strategic  Reform  Division,  created  in  January  2002  as  part  of  the Government's  Public  Sector  Reform  Programme,  has  core  functions  and strategic objectives that are operational and facilitative of the status quo and not oriented to ensuring that change takes place.
+4. The Strategic Reform Division, created in January 2002 as part of the Government's Public Sector Reform Programme, has core functions and strategic objectives that are operational and facilitative of the status quo and not oriented to ensuring that change takes place.
 
-- The Ministry is micro-managing the delivery of education at the local level.
+5. The Ministry is micro-managing the delivery of education at the local level.
 
-- The  central  office  complex  in  which  the  Ministry  is  housed  is  uninviting, unattractive and reflects poorly on the entire system
+6. The central office complex in which the Ministry is housed is uninviting, unattractive and reflects poorly on the entire system
 
 Task Force on Educational Reform Final Report
 
@@ -2012,23 +2088,23 @@ Task Force on Educational Reform Final Report
 
 Figure 3: MOEYC Current Functional Organization Structure
 
-Ministers of
+Minister
 
-State
+Ministers of State
 
-Statutory Bodies
+Statutory Bodies and Agencies
 
-and Agencies
+Permanent Secretary
 
 Internal Audit
 
-Youth
-
-Development
+Youth Development
 
 Culture
 
 Strategic Reform
+
+Financial Management
 
 Budget
 
@@ -2036,9 +2112,7 @@ Accounts
 
 Salaries
 
-Financial
-
-Management
+Human Resource & Administration
 
 Personnel
 
@@ -2048,13 +2122,9 @@ School Personnel & Admin.
 
 Professional Development
 
-Human Resource
+Educational Services
 
-& Administration
-
-EC, Primary, Secondary
-
-& Tertiary Education
+EC, Primary, Secondary & Tertiary Education
 
 Career Guid. & Counselling
 
@@ -2072,9 +2142,7 @@ Media Services
 
 Special Education
 
-Educational
-
-Services
+Planning & Development
 
 Policy Analysis
 
@@ -2088,25 +2156,13 @@ Program Monitoring
 
 Evaluation
 
-Planning &
-
-Development
+Projects & Technical
 
 Project Management
 
 Project Finance
 
 Building Services
-
-Projects &
-
-Technical
-
-Permanent
-
-Secretary
-
-Minister
 
 Task Force on Educational Reform Final Report
 
@@ -2116,7 +2172,9 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 75]]
 
-The  KPMG  report  noted  that  there  is  a  high  dependence  on  clerical  and administrative activities 31 as shown in the following table:
+The KPMG report noted that there is a high dependence on clerical and administrative activities 31 as shown in the following table:
+
+Table 21. Distribution of staff of the MOEY&C Central Office by level in 1998
 
 Level | Estimated Numbers in 1998 | % of Staff
 --- | --- | ---
@@ -2128,9 +2186,9 @@ Clerical/Secretarial | 262 | 42.0%
 Ancillary | 62 | 9.9%
 Total | 624 | 100%
 
-Table 21. Distribution of staff of the MOEY&C Central Office by level in 1998
+The report also noted that in the MOEY&C, the salary cost of the planning, development and monitoring functions combined is only 27% of total salary cost, whereas maintenance alone is 73% (see Table 22 below), indicating a ministry more focused on operations than on policy.
 
-The  report  also  noted  that  in  the  MOEY&C,  the  salary  cost  of  the  planning, development and monitoring functions combined is only 27% of total salary cost, whereas maintenance alone is 73% (see Table 22 below), indicating a ministry more focused on operations than on policy.
+Table 22. Allocation of Staff Resources by Major Function
 
 Major Function | % of Total Staff Resource
 --- | ---
@@ -2140,11 +2198,7 @@ Developing (Major plant upgrading and expansion, training and automation) | 10%
 Maintaining (payroll, personnel, buildings maintenance, communications and distribution) | 73%
 TOTAL | 100%
 
-Table 22. Allocation of Staff Resources by Major Function
-
-> 31
-
-KPMG Report
+> 31 KPMG Report
 
 Task Force on Educational Reform Final Report
 
@@ -2181,19 +2235,43 @@ Task Force on Educational Reform Final Report
 
 Figure 4: A NEW MODEL FOR GOVERNANCE
 
+ACCOUNTABILITY = AUTHORITY + RESPONSONSIBILITY
+
+New model for Governance places authority with
+the learning institution where the responsibility now lies
+
+STUDENTS
+
+SCHOOLS
+
+SCHOOL BOARDS
+
+REGIONAL EDUCATIONAL
+AUTHORITIES
+
+MOEYC
+
+CABINET
+
+SUPPORT
+INSTITUTIONS
+
+SUPPORT
+INSTITUTIONS
+
 It is in the context of this new model for governance that we recommend:
 
-- Strengthening governance and management at the school level
+1. Strengthening governance and management at the school level
 
-- Establishment of Regional Education Authorities to support schools
+2. Establishment of Regional Education Authorities to support schools
 
-- Restructuring the Ministry of Education Youth and Culture to be a policy ministry
+3. Restructuring the Ministry of Education Youth and Culture to be a policy ministry
 
-- Restructure the support institutional framework
+4. Restructure the support institutional framework
 
 Details of these recommendations now follow:
 
-#### Strengthen governance and management at the school Level:
+#### 1. Strengthen governance and management at the school Level:
 
 Task Force on Educational Reform Final Report
 
@@ -2203,31 +2281,31 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 79]]
 
-- School  boards  are  to  be  accountable  to  the  Regional  Educational Authorities for the performance of the school
+1. School boards are to be accountable to the Regional Educational Authorities for the performance of the school
 
-- The  National  Council  On  Education  to  cease  the  practice  of  inviting Members of Parliament to submit recommendations for appointment of Board Chairman
+2. The National Council On Education to cease the practice of inviting Members of Parliament to submit recommendations for appointment of Board Chairman
 
-- Board chairmen and all board members must be trained and certified in board governance.
+3. Board chairmen and all board members must be trained and certified in board governance.
 
-- The Board is  to  hold  the  principal  accountable  to  the  objectives  and performance targets of the Strategic Plan
+4. The Board is to hold the principal accountable to the objectives and performance targets of the Strategic Plan
 
-- All principals are to get continuous training in school management and leadership in a variety of accredited institutions
+5. All principals are to get continuous training in school management and leadership in a variety of accredited institutions
 
-- The principal is to have responsibility and authority for the management of the school, including the management of the teaching function
+6. The principal is to have responsibility and authority for the management of the school, including the management of the teaching function
 
 #### 2.     Establish Regional Education Authorities (REA)
 
-- REAs are to be semi-autonomous agencies under the Ministry's portfolio to  monitor  school  performance  and  to  provide  specialist  support  to schools.
+17. REAs are to be semi-autonomous agencies under the Ministry’s portfolio to monitor school performance and to provide specialist support to schools.
 
-- Curriculum implementation teams comprising Education Officers working from the REAs will provide support to schools as needed
+18. Curriculum implementation teams comprising Education Officers working from the REAs will provide support to schools as needed
 
-- Specialists  such  as  guidance  counsellors,  reading  specialists,  master teachers,  etc.  are  to  be  employed  regionally  and  general  subject teachers to be employed by the school board.
+19. Specialists such as guidance counsellors, reading specialists, master teachers, etc. are to be employed regionally and general subject teachers to be employed by the school board.
 
-#### 3. Restructure  the  Ministry  of  Education,  Youth  and  Culture  as  per Figure 5 below
+#### 3. Restructure the Ministry of Education, Youth and Culture as per Figure 5 below
 
-- The core functional areas will be policy development, projects, information  and  communication,  research,  finance,  human  resource management and financial audit.  Agencies and other public bodies will concentrate on implementing policy.
+20. The core functional areas will be policy development, projects, information and communication, research, finance, human resource management and financial audit. Agencies and other public bodies will concentrate on implementing policy.
 
-- Secondly,  this  structure  reinforces  the  direction  outlined  in  the  Public Sector Reform where ministries concentrate on policy and monitoring
+21. Secondly, this structure reinforces the direction outlined in the Public Sector Reform where ministries concentrate on policy and monitoring
 
 #### 4. Restructure Support Institutional Framework:
 
@@ -2239,9 +2317,9 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 80]]
 
-- The  proposed  institutional  arrangement  to  support  the  institutions  of learning is described in Table 26 and depicted in Figure 5 below. This indicates  the  paradigm  shift  from  the  Ministry  being  central,  to  the institutions of learning being central, with all other organizations, including the Ministry, providing support to the learning process.
+22. The proposed institutional arrangement to support the institutions of learning is described in Table 26 and depicted in Figure 5 below. This indicates the paradigm shift from the Ministry being central, to the institutions of learning being central, with all other organizations, including the Ministry, providing support to the learning process.
 
-- The Ministry will outsource certain functions to a network of private and public  support  institutions,  as  was  also  recommended  in  the  KPMG report.    Such  functions  may  include  student  assessment,  professional development, curriculum development, teacher registration and licensing, institution registration and accreditation and quality assurance.
+23. The Ministry will outsource certain functions to a network of private and public support institutions, as was also recommended in the KPMG report. Such functions may include student assessment, professional development, curriculum development, teacher registration and licensing, institution registration and accreditation and quality assurance.
 
 Appendix B gives details of the functional allocation of services, previously under the Ministry, throughout the supporting institutions.
 
@@ -2255,75 +2333,50 @@ Task Force on Educational Reform Final Report
 
 Figure 5: MOEYC Proposed Functional Organization Structure
 
-Ministers of
+Minister
 
+Ministers of
 State
 
 Statutory Bodies/Agencies
-
 Regional Educ. Authorities
+
+Permanent
+Secretary
 
 Internal Audit
 
-Budget
-
-Accounts
-
-Ministry Payroll
-
 Financial
-
 Management
-
-Ministry Personnel
-
-Office Management
+  Budget
+  Accounts
+  Ministry Payroll
 
 Human Resource
-
 & Administration
-
-Education Policy
-
-Culture Policy
-
-Youth Policy
-
-Standards
-
-Curriculum Design
-
-Policy Monitoring
+  Ministry Personnel
+  Office Management
 
 Policy
-
 Development and Monitoring
-
-Research
-
-MIS
-
-Communication
-
-Public Education
+  Education Policy
+  Culture Policy
+  Youth Policy
+  Standards
+  Curriculum Design
+  Policy Monitoring
 
 Information &
-
 Communication
-
-Project Development
-
-Major Capital Projects
+  Research
+  MIS
+  Communication
+  Public Education
 
 Project
-
 Development
-
-Permanent
-
-Secretary
-
-Minister
+  Project Development
+  Major Capital Projects
 
 Task Force on Educational Reform Final Report
 
@@ -2333,19 +2386,19 @@ Task Force on Educational Reform Final Report
 
 [[START OF PAGE 82]]
 
+Table 23. Education Support Institutions and Proposed Functions/Services
+
 Support Institution | Functions
 --- | ---
-1. Regional Education Authorities (REA) |  Accountability for Primary and Secondary School Performance  Monitor School Performance  Provision of Specialist Support to Schools
-2. National Education Quality Assurance Authority (NEQAA) |  National Student Assessment and Reporting  Quality Assurance  Registration and Accreditation of Institutions  Licensing of Teachers
-3. Early Childhood Commission |  Early Childhood Oversight  Accountability for Early Childhood Education Performance
-4. HEART Trust/NTA |  Technical, Vocational Education and Training
-5. Tertiary Institutions |  Professional Development
-6. Tertiary Education and Research Commission |  Tertiary Oversight
-7. National Council on Education |  Policy Advice to the Minister  Recommend Government Board Members for Public Schools
-8. Professional Associations |  Professional Representation  Professional Development
-9. Private and Public Service Providers |  Provision of goods and services to the Education System
-
-Table 23. Education Support Institutions and Proposed Functions/Services
+1. Regional Education Authorities (REA) | • Accountability for Primary and Secondary School Performance • Monitor School Performance • Provision of Specialist Support to Schools
+2. National Education Quality Assurance Authority (NEQAA) | • National Student Assessment and Reporting • Quality Assurance • Registration and Accreditation of Institutions • Licensing of Teachers
+3. Early Childhood Commission | • Early Childhood Oversight • Accountability for Early Childhood Education Performance
+4. HEART Trust/NTA | • Technical, Vocational Education and Training
+5. Tertiary Institutions | • Professional Development
+6. Tertiary Education and Research Commission | • Tertiary Oversight
+7. National Council on Education | • Policy Advice to the Minister • Recommend Government Board Members for Public Schools
+8. Professional Associations | • Professional Representation • Professional Development
+9. Private and Public Service Providers | • Provision of goods and services to the Education System
 
 Task Force on Educational Reform Final Report
 
@@ -2358,116 +2411,59 @@ Task Force on Educational Reform Final Report
 Figure 5:  Proposed Institutional Arrangement
 
 N
-
 S
+W E
 
-E
-
-W
-
+NATIONAL COUNCIL ON EDUCATION
 POLICY ADVICE,
-
 RECOMMENDATION
-
 OF GOVERNMENT BOARD
-
 MEMBERS
 
-PROFESSIONAL
-
-DEVELOPMENT
-
-TERTIARY
-
-INSTITUTIONS
-
-NATIONAL
-
-COUNCIL ON
-
-EDUCATION
-
-MINISTRY OF
-
-EDUCATION,
-
+MINISTRY OF EDUCATION,
 YOUTH & CULTURE
-
-NATIONAL
-
-EDUCATION
-
-QUALITY
-
-ASSURANCE
-
-AUTHORITY
-
-REGIONAL
-
-AUTHORITIES
-
-TERTIARY
-
-EDUCATION &
-
-RESEARCH
-
-COMMISSION
-
-EARLY
-
-CHILDHOOD
-
-COMMISSION
-
-TERTIARY
-
-OVERSIGHT
-
-EARLY CHILDHOOD
-
-EDUCATION OVERSIGHT
-
-ASSESSMENT, QUALITY,
-
-REGISTRATION,
-
-ACCREDITATION AND
-
-LICENSING
-
 POLICY,
-
 STANDARDS,
-
 CURRICULUM
 
-MONITOR SCHOOLS'
+NATIONAL EDUCATION
+QUALITY ASSURANCE
+AUTHORITY
+ASSESSMENT, QUALITY,
+REGISTRATION,
+ACCREDITATION AND
+LICENSING
 
-PERFORMANCE;
-
-SPECIALTY SUPPORT
+TERTIARY INSTITUTIONS
+PROFESSIONAL
+DEVELOPMENT
 
 INSTITUTIONS
-
 OF LEARNING
-
 (Public and Private)
 
+REGIONAL AUTHORITIES
+MONITOR SCHOOLS’
+PERFORMANCE;
+SPECIALTY SUPPORT
+
+TERTIARY EDUCATION &
+RESEARCH COMMISSION
+TERTIARY
+OVERSIGHT
+
 PRIVATE AND
-
 PUBLIC SERVICE
-
 PROVIDERS
-
 EDUCATIONAL
-
 PRODUCTS
-
 AND
-
 SERVICES
+
+EARLY CHILDHOOD
+COMMISSION
+EARLY CHILDHOOD
+EDUCATION OVERSIGHT
 
 Page 83
 
@@ -2481,7 +2477,7 @@ Student  academic  performance  relative  to  the  targets  set  in  the  Govern
 
 Performance  targets,  set  in  the  Ministry,  are  not  cascaded  throughout  the  system  and  this  results  in  little  or  no accountability for performance at the various levels.  The measurement of educational outcomes against inputs is rarely done as the prevailing culture favours monitoring of how inputs are deployed rather than whether targets are achieved. Performance indicators set out in the Ministry's Corporate Plan are, in most instances, vague.
 
-In general, central MOEY&C and the regional offices have a weak management information culture. In the absence of adequate information it is difficult to set targets and ensure accountability.
+In general, central MOEY&C and the regional offices have a weak management information culture. In the absence of adequate information it is difficult to set
 
 Page 84
 
@@ -2489,7 +2485,9 @@ Page 84
 
 [[START OF PAGE 85]]
 
-The system does not provide incentives for principals and teachers to produce greater student achievement, nor does it hold  them  accountable.  This,  despite  the  thrust  of  the  Public  Sector  Modernisation  Vision  and  Strategy  2002-2012  to introduce performance management in all ministries and departments and improve the effectiveness and efficiency of the delivery  of  public  service  through  the  measurement  and  management  of  the  performance  of  public  organizations  and public servants.  Under the current system of granting salary increases, salaries are not based on results-that is, the achievement of students-but rather on the acquisition of degrees and on years of service. For example, teachers benefit from automatic annual increments. They also receive increments based on their acquiring additional qualifications.
+targets and ensure accountability.
+
+The system does not provide incentives for principals and teachers to produce greater student achievement, nor does it hold them accountable. This, despite the thrust of the Public Sector Modernisation Vision and Strategy 2002-2012 to introduce performance management in all ministries and departments and improve the effectiveness and efficiency of the delivery of public service through the measurement and management of the performance of public organizations and public servants. Under the current system of granting salary increases, salaries are not based on results—that is, the achievement of students—but rather on the acquisition of degrees and on years of service. For example, teachers benefit from automatic annual increments. They also receive increments based on their acquiring additional qualifications.
 
 Page 85
 
@@ -2501,7 +2499,7 @@ Page 85
 
 Secondary schools fund a significant portion of their costs from fees charged directly to students through the cost-sharing programme.  Additionally institutions are afforded a high degree of autonomy in how they raise and deploy funds, which is desirable. However, the absence of a central system of monitoring and accounting for the resources that they garner and spend results in a lack of uniformity and impinges on the ability of Government to plan effectively. Furthermore, there is no assurance that all the resources that are secured by the institutions are deployed prudently and in the best interests of the institutions.
 
-There is  little  or  no  enforcement  of  the  regulations  requiring  educational  institutions  to  present  comprehensive  reports (including  audited  financial  statements)  on  their  financing  to  the  MOEY&C  so  such  requirements  are  largely  ignored 32 . Finance  personnel  in  the  Ministry  express  severe  frustration  at  their  inability  to  secure  such  reports  from  individual institutions, and assert that there are no effective sanctions available to them to secure compliance with the regulations. Another  contributor  to  this  inadequate  accounting  may  be  inadequately  trained,  and  over  extended  bursars,  whose responsibilities  are  more  in  line  with  those  of  an  administrative  manager  rather  than  of  a  Chief  Financial  Officer. Furthermore, in early childhood, primary and all-age schools, the principal carries out the function as there is no provision for this post.
+There is little or no enforcement of the regulations requiring educational institutions to present comprehensive reports (including audited financial statements) on their financing to the MOEY&C so such requirements are largely ignored32. Finance personnel in the Ministry express severe frustration at their inability to secure such reports from individual institutions, and assert that there are no effective sanctions available to them to secure compliance with the regulations. Another contributor to this inadequate accounting may be inadequately trained, and over extended bursars, whose responsibilities are more in line with those of an administrative manager rather than of a Chief Financial Officer. Furthermore, in early childhood, primary and all-age schools, the principal carries out the function as there is no provision for this post.
 
 > 32 For Year ended March 2003, only 8 of the 139 high schools, 12 of 833 primary and junior high schools and no tertiary institutions had submitted audited reports at the time of writing (source: MOEY&C, Finance Division)
 
@@ -2521,7 +2519,7 @@ Page 87
 
 ###### Accountability for Results
 
-- Design and implement Performance-Based Management System, to include rewards and sanctions, for all staff in MOEY&C, Support Institutions and public schools on the following bases (individual, departmental and institutional):
+1. Design and implement Performance-Based Management System, to include rewards and sanctions, for all staff in MOEY&C, Support Institutions and public schools on the following bases (individual, departmental and institutional):
 
 - Teachers should be rewarded based on Improved student achievement
 
@@ -2529,19 +2527,19 @@ Page 87
 
 - Management team based on Overall school performance
 
-- Ministry and other Support Institutions based on National (regional in the case of REA's) education performance
+- Ministry and other Support Institutions based on National (regional in the case of REA’s) education performance
 
-- Develop  strategic  plans  for  the  Ministry,  support  institutions  and  all  learning  institutions,  to  include  clearly defined objectives, measures and targets, as well as strategies and actions required to achieve the targets.
+2. Develop strategic plans for the Ministry, support institutions and all learning institutions, to include clearly defined objectives, measures and targets, as well as strategies and actions required to achieve the targets.
 
-- Implement  monitoring  and  reporting  systems  at  the  Ministry,  support  institutions  and  schools  to  focus  on achievement of targets.
+3. Implement monitoring and reporting systems at the Ministry, support institutions and schools to focus on achievement of targets.
 
-- Implement a comprehensive Management Information System to collect, collate and analyze information.
+4. Implement a comprehensive Management Information System to collect, collate and analyze information.
 
-- Publish information on a timely basis at the school, community and national levels.
+5. Publish information on a timely basis at the school, community and national levels.
 
-- Conduct  an  annual  National  Taxpayer  Satisfaction  Survey  to  get  feedback  from  the  citizens  on  the  overall performance of the education system.
+6. Conduct an annual National Taxpayer Satisfaction Survey to get feedback from the citizens on the overall performance of the education system.
 
-- Conduct annual parent and community satisfaction surveys to get feedback on the performance of individual schools.
+7. Conduct annual parent and community satisfaction surveys to get feedback on the performance of individual schools.
 
 Page 88
 
@@ -2551,11 +2549,11 @@ Page 88
 
 ###### Financial Accountability
 
-- Redefine the role of the bursar in schools, as the breadth of their present responsibilities does not enable them to devote the required level of attention to the accounting function.
+1. Redefine the role of the bursar in schools, as the breadth of their present responsibilities does not enable them to devote the required level of attention to the accounting function.
 
-- Deploy a uniform electronic accounting and reporting system to all schools to capture the financial data relating to their income and expenditure, and management of assets and liabilities.
+2. Deploy a uniform electronic accounting and reporting system to all schools to capture the financial data relating to their income and expenditure, and management of assets and liabilities.
 
-- Develop specific procedures to ensure that the accounting functions are undertaken within 2 weeks of the end of each month.  Implement and support effective sanctions (such as the withholding of salaries of responsible officers) to ensure compliance with the required reporting standards.
+4. Develop specific procedures to ensure that the accounting functions are undertaken within 2 weeks of the end of each month. Implement and support effective sanctions (such as the withholding of salaries of responsible officers) to ensure compliance with the required reporting standards.
 
 Page 89
 
@@ -2607,11 +2605,11 @@ Teachers and principals are entitled to up to 12 days departmental leave for eme
 
 The KPMG report noted the high cost to taxpayers of teachers seeking to upgrade their professional qualifications while employed as teachers.  The report estimated that the cost in 1998/99 could be as high as $600 million.  The report also highlighted three consequences of leave entitlements:
 
-- At any one time up to 10% more teachers than is required are employed by the Ministry;
+5. At any one time up to 10% more teachers than is required are employed by the Ministry;
 
-- The teaching work of individual schools is disrupted when up to 10% of the staff is away on leave.
+6. The teaching work of individual schools is disrupted when up to 10% of the staff is away on leave.
 
-- In addition to the replacement cost of the substitute teacher, other teachers will receive acting allowances
+7. In addition to the replacement cost of the substitute teacher, other teachers will receive acting allowances
 
 The impact of these leave policies and procedures are as follows:
 
@@ -2629,9 +2627,9 @@ Page 91
 
 ##### Working Days
 
-Currently, there is no clear position in respect to the length of instructional time and number of working days for which teachers are employed and salaried.   According to the Education Regulations Section 7, (1) the school year shall run from  the  1 st September  of  each  year  to  the  31 st August  of  the  following  year.  The  Regulations  also  stipulate  that  the teacher shall receive a monthly salary for the period of employment.
+Currently, there is no clear position in respect to the length of instructional time and number of working days for which teachers are employed and salaried. According to the Education Regulations Section 7, (1) the school year shall run from the 1st September of each year to the 31st August of the following year. The Regulations also stipulate that the teacher shall receive a monthly salary for the period of employment.
 
-Conversely Section 7 (3) states that: 'Every public educational institution shall meet for no less than 190 days of each year unless it is prevented from doing so for reasons permitted by the Minister'.  In practice, teachers work for a total of 190 days, enjoying all school holidays: 40 days in the summer, 5 days at Easter and 10 days at Christmas totalling 55 working days per year.
+Conversely Section 7 (3) states that: “Every public educational institution shall meet for no less than 190 days of each year unless it is prevented from doing so for reasons permitted by the Minister”. In practice, teachers work for a total of 190 days, enjoying all school holidays: 40 days in the summer, 5 days at Easter and 10 days at Christmas totalling 55 working days per year.
 
 ##### Registration
 
@@ -2661,9 +2659,9 @@ The principal is further constrained by a number of institutional factors:
 
 ##### Recommendations
 
-- Renegotiate the leave entitlement of teachers and principals
+8. Renegotiate the leave entitlement of teachers and principals
 
-- Establish clear position in respect of the length of instructional time and number of working days for which teachers are employed
+9. Establish clear position in respect of the length of instructional time and number of working days for which teachers are employed
 
 Page 93
 
@@ -2671,15 +2669,15 @@ Page 93
 
 [[START OF PAGE 94]]
 
-- Prescribed training programme in leadership and management for  all principals
+10. Prescribed training programme in leadership and management for all principals
 
-- Retain retired teachers of excellence on fixed contract after retirement
+11. Retain retired teachers of excellence on fixed contract after retirement
 
-- Develop  and  implement  a  licensing  and  certification  system  for  all  teachers  in  Jamaica.  This  will  ensure  that teachers hone their skills and maintain the currency of their training. Initial licensing will be based on appropriate qualifications with relicensing every 5 years
+12. Develop and implement a licensing and certification system for all teachers in Jamaica. This will ensure that teachers hone their skills and maintain the currency of their training. Initial licensing will be based on appropriate qualifications with relicensing every 5 years
 
-- Develop and implement a comprehensive distance education programme for pre- and in-service training and the upgrading of teachers.  The in-service training programmes are to be structured outside of school hours so that there will be minimal disruption of teaching
+13. Develop and implement a comprehensive distance education programme for pre- and in-service training and the upgrading of teachers. The in-service training programmes are to be structured outside of school hours so that there will be minimal disruption of teaching
 
-- All  teachers  to  complete  Bachelor's  Degree  in  Education.    Holders  of  degrees  in  other  subject  disciplines  must complete a diploma in Teacher Education
+14. All teachers to complete Bachelor’s Degree in Education. Holders of degrees in other subject disciplines must complete a diploma in Teacher Education
 
 Page 94
 
@@ -2693,7 +2691,7 @@ KEY ISSUES
 
 ### Chronic Underachievement of Students
 
-The failure  of  the  system  to  properly  equip  learners  with  the  requisite  skills  and  competencies  for  each  stage  of  their schooling has produced an inefficient and wasteful system in which many of the students are playing 'catch up', rather than consolidating prior learning and gaining new competencies and skills. Students flow through the system based on automatic age/grade promotion, except for Grade 4. 33
+The failure of the system to properly equip learners with the requisite skills and competencies for each stage of their schooling has produced an inefficient and wasteful system in which many of the students are playing “catch up”, rather than consolidating prior learning and gaining new competencies and skills. Students flow through the system based on automatic age/grade promotion, except for Grade 4.33
 
 The statistics further point to an even greater level of underachievement among boys.  Janet Quello and Beverley Carlson in  their  Social  Assessment of Rose II stated: 'By far the most serious problem is students' reading abilities.  Deficient reading starts in the lower primary grades and continues to build, year-on-year.  Poor reading abilities are concentrated among boys.  By the time students reach grade 6, 30% of students read below their grade level.  By Grade 9 a huge divide  has  occurred  -  large  numbers  of  students,  especially  boys,  cannot  read  or  write,  while  some  are  functionally illiterate.  Because of their reading deficiency, they cannot learn the content of various subjects.'
 
@@ -2729,27 +2727,27 @@ Page 96
 
 [[START OF PAGE 97]]
 
-- 40%  to  50%  (rough  estimate)  of  students  in  the  system  are  below  their  grade  level  i.e.  approximately  300,000 students.
+15. 40% to 50% (rough estimate) of students in the system are below their grade level i.e. approximately 300,000 students.
 
-- Motivation is critical, as building students' self-esteem is the first step in remediation.
+16. Motivation is critical, as building students’ self-esteem is the first step in remediation.
 
-- The MOEY&C mandated teacher: pupil ratio does not take into account the smaller class size (1:15) necessary for successful remediation.
+17. The MOEY&C mandated teacher: pupil ratio does not take into account the smaller class size (1:15) necessary for successful remediation.
 
-- Successful remediation is an on-going partnership of the students, parents and all teachers in the school, and must be championed by the Principal.
+18. Successful remediation is an on-going partnership of the students, parents and all teachers in the school, and must be championed by the Principal.
 
-- Incentives for successful remediation are important - for students, parents and teachers.
+19. Incentives for successful remediation are important - for students, parents and teachers.
 
 Each year the system 'graduates' thousands of students who are not equipped for the working world or further education. Quello and Carlson further stated that 'this is the tremendous paradox of Jamaican education that standard statistics do not reveal - high enrolment rates through lower secondary, but low learning, interest and participation'.  It is clear that while fundamental changes are being made to the education system, the needs of the 300,000 students who are not at their grade level must be met with great urgency.
 
 #### Recommendations
 
-There  are  two  main  stages  at  which  intervention  is  required  literacy  remediation (learn  to  read),  and grade  level remediation (read to learn).
+There are two main stages at which intervention is required – literacy remediation (learn to read), and grade level remediation (read to learn).
 
 ##### Literacy remediation
 
-- Assess students and determine need for remediation, specifically in reading.
+20. Assess students and determine need for remediation, specifically in reading.
 
-- Train and provide remediation specialist teachers (approx. 400) on medium term contract throughout the Regional Authorities to be available to schools as needed.  If necessary, recruit from overseas, retirees, returning residents, among others.
+21. Train and provide remediation specialist teachers (approx. 400) on medium term contract throughout the Regional Authorities to be available to schools as needed. If necessary, recruit from overseas, retirees, returning residents, among others.
 
 Page 97
 
@@ -2757,21 +2755,21 @@ Page 97
 
 [[START OF PAGE 98]]
 
-- Train  approximately  5,000  Teachers'  Aides  (such  as  Key  Clubbers,  National  Youth  Service,  4H  Clubs  etc.)  to support primary school teachers for the remediation programme.
+22. Train approximately 5,000 Teachers’ Aides (such as Key Clubbers, National Youth Service, 4H Clubs etc.) to support primary school teachers for the remediation programme.
 
-- Appoint  literacy  coordinators  at  each  school  from  existing  staff,  using  the  'New  Horizons  Project'  and  the 'Caribbean Centre of Excellence for Teacher Training' models.
+23. Appoint literacy coordinators at each school from existing staff, using the “New Horizons Project” and the “Caribbean Centre of Excellence for Teacher Training” models.
 
-- Develop and implement a public awareness campaign around the value of early literacy, as well as around what parents can do to address underachievement.
+24. Develop and implement a public awareness campaign around the value of early literacy, as well as around what parents can do to address underachievement.
 
-- Reinstitute the national 'Drop Everything and Read' remediation programme.
+25. Reinstitute the national “Drop Everything and Read” remediation programme.
 
 ##### Grade Level Remediation
 
-- Implement a menu of remediation options relevant to the particular school. These are to include:
+24. Implement a menu of remediation options relevant to the particular school. These are to include:
 
 - Taking students out of the grade, providing parallel remediation and subsequent reintegration.
 
-- Mixed ability - leaving students in the grade and providing a mixed grade delivery to remediate those in need while providing normal curriculum delivery to the others.
+- Mixed ability – leaving students in the grade and providing a mixed grade delivery to remediate those in need while providing normal curriculum delivery to the others.
 
 - Use of information technology.
 
@@ -2779,15 +2777,15 @@ Page 97
 
 - Emphasise on Language Arts and Mathematics for three academic years.
 
-- Determine and procure resources required for remediation, to include specialists, teachers' aides, curriculum, IT etc.
+26. Determine and procure resources required for remediation, to include specialists, teachers’ aides, curriculum, IT etc.
 
-- Expand the Master Teachers' corps and use competent Mathematics and English Language specialists as roving teachers to train teachers in classroom and workshop settings.
+27. Expand the Master Teachers’ corps and use competent Mathematics and English Language specialists as roving teachers to train teachers in classroom and workshop settings.
 
-- Use Information Communication Technology to teach difficult concepts via distance.
+28. Use Information Communication Technology to teach difficult concepts via distance.
 
-- Encourage teacher-exchange programme and the sharing of facilities and resources.
+29. Encourage teacher-exchange programme and the sharing of facilities and resources.
 
-- Incorporate knowledge of the physiological and psychosocial differences between boys and girls into the entire teaching learning process.
+30. Incorporate knowledge of the physiological and psychosocial differences between boys and girls into the entire teaching learning process.
 
 Page 98
 
@@ -2811,7 +2809,7 @@ The  potency  of  the  visual  and  performing  arts  as  disciplines  in  their
 
 #### Early Childhood Curriculum
 
-The current Early Childhood Curriculum emanated from the Project for Early Childhood Education spearheaded by D.R.B. Grant in 1969 -70. In recent years a number of stakeholders have met under the aegis of the MOEY&C to revise and develop a National Curriculum for Early Childhood Development, which is to include a curriculum for children birth to three years.    It  is  expected  that  in  its  design  the  curriculum  will  take  a  comprehensive  approach  that  will  contribute  to  the standardization of delivery of the early childhood development curriculum across the island.
+The current Early Childhood Curriculum emanated from the Project for Early Childhood Education spearheaded by D.R.B. Grant in 1969 –70. In recent years a number of stakeholders have met under the aegis of the MOEY&C to revise and develop a National Curriculum for Early Childhood Development, which is to include a curriculum for children birth to three years. It is expected that in its design the curriculum will take a comprehensive approach that will contribute to the standardization of delivery of the early childhood development curriculum across the island.
 
 The  curriculum  is  expected  to  be developmentally  appropriate and  therefore  responsive  to  the  social  and  cultural realities and educational needs and development of the child.
 
@@ -2873,9 +2871,9 @@ Page 102
 
 - Guidance and counselling
 
-- Clubs and societies
-
 - Community service
+
+- Clubs and societies
 
 - Physical education and sports
 
@@ -2883,23 +2881,23 @@ Page 102
 
 ##### General:
 
-- Develop and implement a clear and transparent policy to guide curriculum review and development, cross-curricula themes and issues across subject areas, resource allocation, training, articulation and sustainability issues, and integrate the visual and performing arts in the design and delivery of curriculum.
+25. Develop and implement a clear and transparent policy to guide curriculum review and development, cross-curricula themes and issues across subject areas, resource allocation, training, articulation and sustainability issues, and integrate the visual and performing arts in the design and delivery of curriculum.
 
-- Review  the  curricula  at  early  childhood,  primary  and  secondary  levels  and  ensure  articulation  at  the  various transition points.
+31. Review the curricula at early childhood, primary and secondary levels and ensure articulation at the various transition points.
 
 ##### Early Childhood:
 
-- Conclude and expedite the curriculum development process for ECD.
+32. Conclude and expedite the curriculum development process for ECD.
 
-- Conclude and distribute the standards document for the administration of ECD facilities
+33. Conclude and distribute the standards document for the administration of ECD facilities
 
 ##### Primary:
 
-- Develop and implement curriculum standards and outcomes for all subjects at every grade level
+34. Develop and implement curriculum standards and outcomes for all subjects at every grade level
 
-- Expedite the development and delivery of the programmes and material for Windows for Literacy
+35. Expedite the development and delivery of the programmes and material for Windows for Literacy
 
-- Expedite the delivery of material to support the integrated curriculum.
+36. Expedite the delivery of material to support the integrated curriculum.
 
 Page 103
 
@@ -2909,11 +2907,11 @@ Page 103
 
 ##### Secondary:
 
-'Curricularise' the CSEC syllabus (convert the CSEC syllabus to standard, outcomes based curriculum format) and ensure that smooth progression exists between Grade 9 and CSEC.
+37. ‘Curricularise’ the CSEC syllabus (convert the CSEC syllabus to standard, outcomes based curriculum format) and ensure that smooth progression exists between Grade 9 and CSEC.
 
-- Undertake a comprehensive evaluation of the grades 7 - 9 common curriculum
+38. Undertake a comprehensive evaluation of the grades 7 – 9 common curriculum
 
-- Incorporate non-academic components of ESP in the curriculum
+39. Incorporate non-academic components of ESP in the curriculum
 
 Page 104
 
@@ -2929,7 +2927,7 @@ The MOEY&C provides support for curriculum delivery by way of instructional mate
 
 One  of  the  Ministry's  Strategic  Objectives  is  to  enhance  student  learning  through  the  greater  use  of  Information  and Communications Technology.  In assessing the status of the use of information technology in schools, the Ministry noted in  its  Corporate Plan (2003-2006) that some schools have made great strides in using and offering access to the new technologies, but the overall pattern is characterised by the uneven distribution of resources between institutions and the need to invest in improving staff capabilities.  The Ministry has therefore proposed a two-stage strategy which will first give schools access to the Internet as a means of improving curriculum materials while at the same time investing in teacher in-service training.  Secondly, this strategy will provide greater access for individual pupils to use the new technologies as part of their own individual learning programme.
 
-One of the factors, which affects curriculum implementation, is contact time, both in terms of the number of hours per day, and the length of the total schooling experience.  The impact of the length of instructional time on student performance has been the focus of attention in education systems globally.   In contrast to many countries where 12 or 13 years of formal schooling is provided, Jamaica provides 11 years from Grades 1-11.  However, research indicates that extending time without improved teaching methods does not add value.  We believe that our students would benefit greatly if the schooling experience be extended  and the quality of teaching improved.
+One of the factors, which affects curriculum implementation, is contact time, both in terms of the number of hours per day, and the length of the total schooling experience. The impact of the length of instructional time on student performance
 
 Page 105
 
@@ -2937,7 +2935,9 @@ Page 105
 
 [[START OF PAGE 106]]
 
-In Jamaica the number of instructional hours per school day as stipulated by the Regulations should be no less than 4 1/2 at the Primary, All Age and Secondary schools on a shift system, and 5 hours for whole-day schools.  By comparison, the average number of instructional hours for the United States for example, is 6 hours per day. The hours of instruction refer to the hours that a teacher and students are present together imparting and receiving educational instruction respectively.
+has been the focus of attention in education systems globally. In contrast to many countries where 12 or 13 years of formal schooling is provided, Jamaica provides 11 years from Grades 1-11. However, research indicates that extending time without improved teaching methods does not add value. We believe that our students would benefit greatly if the schooling experience be extended and the quality of teaching improved.
+
+In Jamaica the number of instructional hours per school day as stipulated by the Regulations should be no less than 4 1/2 at the Primary, All Age and Secondary schools on a shift system, and 5 hours for whole-day schools. By comparison, the average number of instructional hours for the United States for example, is 6 hours per day. The hours of instruction refer to the hours that a teacher and students are present together imparting and receiving educational instruction respectively.
 
 The current practice in Early Childhood care and education is concerned more with custodial care rather than with the developmental needs of the child.  Research in this area, undertaken by Dr. Rose Davies et al, has highlighted the paucity of  opportunities  for  children  to  have  sound,  developmentally  appropriate  experiences.    In  addition,  a  curriculum  that  is premised on the importance of early and appropriate stimulation is not always in place.
 
@@ -2977,11 +2977,11 @@ Teacher preparation to teach science subjects is inadequate
 
 #### Recommendations
 
-- Develop and deploy specialist curriculum teams to monitor and support curriculum implementation.
+1. Develop and deploy specialist curriculum teams to monitor and support curriculum implementation.
 
-- Train  principals  and  other  school  leaders  in  curriculum  implementation  including  timetabling  skills  and management of teaching and learning using distance modalities as appropriate.
+2. Train principals and other school leaders in curriculum implementation including timetabling skills and management of teaching and learning using distance modalities as appropriate.
 
-- Expedite the implementation of the I.C.T. Policy currently in draft form.
+3. Expedite the implementation of the I.C.T. Policy currently in draft form.
 
 Page 107
 
@@ -2989,21 +2989,21 @@ Page 107
 
 [[START OF PAGE 108]]
 
-- Train all teachers in the use of information and communications technology.
+4. Train all teachers in the use of information and communications technology.
 
-- Provide Internet access to all schools using wireless technology if necessary.
+5. Provide Internet access to all schools using wireless technology if necessary.
 
-- Promote and encourage the use of public and school libraries, and transform public libraries
+6. Promote and encourage the use of public and school libraries, and transform public libraries
 
-- Establish classroom libraries in each school, especially at the primary level.
+7. Establish classroom libraries in each school, especially at the primary level.
 
-- Establish maximum class size for Grades K-3 as 20 and Grades 4-6 as 30 and secondary as 25.
+8. Establish maximum class size for Grades K–3 as 20 and Grades 4–6 as 30 and secondary as 25.
 
-- Expedite the implementation of the Early Childhood Development curriculum in all Early Childhood facilities including the training of Early Childhood practitioners.
+9. Expedite the implementation of the Early Childhood Development curriculum in all Early Childhood facilities including the training of Early Childhood practitioners.
 
-- Implement a seamless K to 12 system to include children ages 5 at the lower end of the system and an additional year at the upper end.  This will result in an expansion of the number of years of schooling from 11 years to 13 years by:
+10. Implement a seamless K to 12 system to include children ages 5 at the lower end of the system and an additional year at the upper end. This will result in an expansion of the number of years of schooling from 11 years to 13 years by:
 
-- Increasing the number of infant departments attached to government Primary, All Age, and the Primary and Junior  High  Schools  through  the  utilization  of  existing  spaces  in  these  schools  occasioned  by  GSAT placement machinery.
+- Increasing the number of infant departments attached to government Primary, All Age, and the Primary and Junior High Schools through the utilization of existing spaces in these schools occasioned by GSAT placement machinery.
 
 - Introducing the 2-year/3-year track to CSEC examinations based on the Grade 9 results.
 
@@ -3012,6 +3012,8 @@ Page 108
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
+
+### Student Assessment
 
 #### National Assessments
 
@@ -3022,8 +3024,6 @@ The Student Assessment Unit of the MOEY&C is mandated to produce and implement f
  Grade Three Diagnostic Test
 
  Grade Four Literacy Test
-
-### Student Assessment
 
 Page 109
 
@@ -3079,17 +3079,17 @@ The Caribbean Examinations Council (CXC), implements 2 assessment examinations:
 
 #### Recommendations
 
-- Rationalise the national assessments by ceasing the administration of the SSC and JSC
+26. Rationalise the national assessments by ceasing the administration of the SSC and JSC
 
-- Standardize the grading system throughout the education system for improved tracking of student progress
+27. Standardize the grading system throughout the education system for improved tracking of student progress
 
-- Administer and score Grade 1 Readiness Inventory at the kindergarten level prior to entry (May/June). Inventory to be administered at the receiving primary school after registration in May.
+28. Administer and score Grade 1 Readiness Inventory at the kindergarten level prior to entry (May/June). Inventory to be administered at the receiving primary school after registration in May.
 
-- Implement a monitoring and verification system for Grades 1 and 3 tests to ensure the integrity of test results.
+29. Implement a monitoring and verification system for Grades 1 and 3 tests to ensure the integrity of test results.
 
-- Administer the Grade 4 test externally.
+30. Administer the Grade 4 test externally.
 
-- Results of Grade 9 assessment to be used to place students either on:
+31. Results of Grade 9 assessment to be used to place students either on:
 
  2-year track to CSEC up to Grade 11 OR
 
@@ -3097,7 +3097,7 @@ The Caribbean Examinations Council (CXC), implements 2 assessment examinations:
 
 This will eliminate the need for a new test as proposed under the ESP
 
-- Submit each child's detailed test results to his/her parents/guardian (details in recommendations on Stakeholder Partnerships)
+40. Submit each child’s detailed test results to his/her parents/guardian (details in recommendations on Stakeholder Partnerships)
 
 Page 111
 
@@ -3105,13 +3105,13 @@ Page 111
 
 [[START OF PAGE 112]]
 
-- Introduce  a  profile  card  for  each  student  for  recording  academic,  co-curricular  and  community  activities.    This should be a transferable record with internal and external test results, health status and other student information that moves with the student throughout his/her school career.  This information should be recorded in a central database as part of the integrated Management Information System (MIS).
+41. Introduce a profile card for each student for recording academic, co-curricular and community activities. This should be a transferable record with internal and external test results, health status and other student information that moves with the student throughout his/her school career. This information should be recorded in a central database as part of the integrated Management Information System (MIS).
 
-- Introduce a discrete student ID e.g. birth certificate number
+42. Introduce a discrete student ID e.g. birth certificate number
 
-- Develop GSAT reporting format to include profile of the performance on the test in order to obviate any schoolbased testing for assessment/placement in Grade 7
+43. Develop GSAT reporting format to include profile of the performance on the test in order to obviate any school-based testing for assessment/placement in Grade 7
 
-- Retain non-academic components of the ESP and incorporate in the school curriculum
+44. Retain non-academic components of the ESP and incorporate in the school curriculum
 
 Page 112
 
@@ -3125,15 +3125,15 @@ Physical access to secondary schools is sometimes impeded because the location o
 
 #### Recommendations
 
-- Incorporate  the  location  of  secondary  schools  relative  to  population  distribution  in  the  capacity  rationalization  of schools.
+32. Incorporate the location of secondary schools relative to population distribution in the capacity rationalization of schools.
 
-- Determine  demand  for  Grades  12-13  spaces  with  emphasis  on  the  geographic  distribution  and  implement additional spaces.
+33. Determine demand for Grades 12-13 spaces with emphasis on the geographic distribution and implement additional spaces.
 
-- Take into consideration the distance from home to school when allocating GSAT places.
+34. Take into consideration the distance from home to school when allocating GSAT places.
 
-- Examine feasibility of implementing a national school bus service throughout the island.
+35. Examine feasibility of implementing a national school bus service throughout the island.
 
-- Provide fiscal incentives for private investment in educational facilities (including boarding) throughout the island.
+36. Provide fiscal incentives for private investment in educational facilities (including boarding) throughout the island.
 
 Page 113
 
@@ -3176,15 +3176,15 @@ In addition, we understand that there is inadequate classroom space to allow for
 
 #### Recommendations
 
-- Embark on a program to rehabilitate and upgrade schools to international standards
+37. Embark on a program to rehabilitate and upgrade schools to international standards
 
-- Rationalize existing school spaces at the primary and secondary levels to produce 2 school types, K-6 and 7-12
+38. Rationalize existing school spaces at the primary and secondary levels to produce 2 school types, K-6 and 7-12
 
-- Convert all primary, primary and junior high and all age schools to primary or secondary
+39. Convert all primary, primary and junior high and all age schools to primary or secondary
 
-- Rationalize the available primary school capacity, determine additional space required and build schools to meet this space demand.
+40. Rationalize the available primary school capacity, determine additional space required and build schools to meet this space demand.
 
-- Rationalize  the  available  secondary school capacity; determine additional requirements including those from the converted Junior High and All Age schools, as well as those retained in the high school system for the additional grade 12 year; then build the required schools to meet the projected consequent demand
+41. Rationalize the available secondary school capacity; determine additional requirements including those from the converted Junior High and All Age schools, as well as those retained in the high school system for the additional grade 12 year; then build the required schools to meet the projected consequent demand
 
 Page 115
 
@@ -3192,21 +3192,21 @@ Page 115
 
 [[START OF PAGE 116]]
 
-- Eliminate  the  shift  system  and  include  the  number  of  students  in  the  shift  school  in  the  above  rationalization processes for primary and secondary
+42. Eliminate the shift system and include the number of students in the shift school in the above rationalization processes for primary and secondary
 
-- Incorporate the needs of learners into the design of schools, including accessibility for the physically challenged and support for co-curricular activities
+43. Incorporate the needs of learners into the design of schools, including accessibility for the physically challenged and support for co-curricular activities
 
-- Locate new schools as integral components of communities
+44. Locate new schools as integral components of communities
 
-- Implement National Action Plan for Environmental Education in each school.
+45. Implement National Action Plan for Environmental Education in each school.
 
-- Provide adequate resources for the proper preventive and corrective maintenance of the school plant.
+46. Provide adequate resources for the proper preventive and corrective maintenance of the school plant.
 
-- Involve the private sector and community in school maintenance
+47. Involve the private sector and community in school maintenance
 
-- Include maintenance (and condition) of school in each principal's performance criteria.
+48. Include maintenance (and condition) of school in each principal’s performance criteria.
 
-- Design and implement solid waste management and landscaping programs for each school.
+49. Design and implement solid waste management and landscaping programs for each school.
 
 Page 116
 
@@ -3240,19 +3240,19 @@ Page 117
 
 #### Recommendations
 
-- Develop and implement nutritional policy for schools.
+50. Develop and implement nutritional policy for schools.
 
-- Establish a system that identifies the actual children in need of nutritional support, and ensure that they receive the support;  building  on  other  existing  programmes  such  as  the  social  Safety  Net  Program.    For  example,  school grants could be disbursed to families rather than institutions, through a voucher system.
+51. Establish a system that identifies the actual children in need of nutritional support, and ensure that they receive the support; building on other existing programmes such as the social Safety Net Program. For example, school grants could be disbursed to families rather than institutions, through a voucher system.
 
-- Widen  stakeholder  base  to  include  school  gate  vendors  in  order  to  monitor  the  type  and  nutritional  quality  of commodities sold, and prevent the peddling of drugs to children.
+52. Widen stakeholder base to include school gate vendors in order to monitor the type and nutritional quality of commodities sold, and prevent the peddling of drugs to children.
 
-- Form strategic alliances with the Ministry of Health to provide:
+53. Form strategic alliances with the Ministry of Health to provide:
 
 - Health screening of students upon entry to primary and secondary levels.
 
-- Parenting education information at health centres and hospitals on nutrition and healthy lifestyles.
-
 - Dental, optical and other preventive health services.
+
+- Parenting education information at health centres and hospitals on nutrition and healthy lifestyles.
 
 Page 118
 
@@ -3264,19 +3264,19 @@ Page 118
 
 Anti-social and violent behaviour is a social phenomenon, which has permeated all sectors of society, and the school is no exception. Research on violence in Jamaican schools indicate that violence in schools has a traumatic effect on the lives of students and teachers and is manifested in different ways, such as fighting, infliction of bodily harm with or without the use of weapons, mischief and provocation, abusive language, and disrespect.  In violence prone schools:
 
-45.  Violence is perceived as systemic and there is a growing trend in which:
+45. Violence is perceived as systemic and there is a growing trend in which:
 
 (a) Students are socialized to act violently, and respond to acts of violence in a violent way
 
-(b) Some students contribute to the level of violence by 'inviting' violence into their schools - 'students will bring a bad man in'
+(b) Some students contribute to the level of violence by ‘inviting’ violence into their schools - ‘students will bring a bad man in’
 
 (c) Violence flows out of the school to the community and wider society as unresolved issues are dealt with in a violent way beyond the school gates.
 
-- Some students have become desensitised to the effects of violence.
+46. Some students have become desensitised to the effects of violence.
 
-- Some students use the mask of violence as a self-protective measure.
+47. Some students use the mask of violence as a self-protective measure.
 
-- Violence has been shown to stifle students' desire and potential for learning.
+48. Violence has been shown to stifle students’ desire and potential for learning.
 
 Some causes of violence among students include students' perception of being disrespected by their peers or teachers; revenge  for  acts  done  against  them  or  their  friends;  provocation  by  students;  mismanagement  of  emotions;  theft  of personal items; bullying (a dominant feature of the school culture at both primary and high school levels); the absence of parents  or  parental  care,  positive  adult  role  models  or  positive  peer  influences;  the  absence  of  a  caring  community;
 
@@ -3290,25 +3290,25 @@ teachers'  tardiness,  absenteeism,  perceived  apathy  and  lack  of  commitmen
 
 #### Recommendations
 
-- Implement  a  citizenship  education  program  in  schools,  including  values  and  attitudes,  character  education, patriotism,  service  learning,  and  the  importance  of  co-curricular  activities.    Build  on  existing  programmes  and initiatives such as Values and Attitudes, PALS, Change From Within, et cetera.
+49. Implement a citizenship education program in schools, including values and attitudes, character education, patriotism, service learning, and the importance of co-curricular activities. Build on existing programmes and initiatives such as Values and Attitudes, PALS, Change From Within, et cetera.
 
-- Promote greater involvement of parents in order to strengthen the link between home and school.
+50. Promote greater involvement of parents in order to strengthen the link between home and school.
 
-- Improve  the  aesthetics,  including  adequate  green  areas  and  implement  first-level  maintenance  of  the  physical plant
+51. Improve the aesthetics, including adequate green areas and implement first-level maintenance of the physical plant
 
-- Strengthen co-curricular activities including sports and cultural arts and others such as Scouts, Girl Guides, 4-H clubs et cetera.
+52. Strengthen co-curricular activities including sports and cultural arts and others such as Scouts, Girl Guides, 4-H clubs et cetera.
 
-- Revitalize the Jamaica Combined Cadet Force under the aegis of the Jamaica Defence Force
+53. Revitalize the Jamaica Combined Cadet Force under the aegis of the Jamaica Defence Force
 
-- Encourage secondary school students to help other students by way of mentoring and peer counselling, as part of their service learning activities
+54. Encourage secondary school students to help other students by way of mentoring and peer counselling, as part of their service learning activities
 
-- Hire Social Workers and personnel from allied professions to provide services throughout the system as needed.
+55. Hire Social Workers and personnel from allied professions to provide services throughout the system as needed.
 
-- Reintroduce  a  mandatory  course  in  guidance  counselling  in  teachers  colleges  that  should  also  form  part  of continual professional development and be a requirement for licensing of teachers.
+56. Reintroduce a mandatory course in guidance counselling in teachers colleges that should also form part of continual professional development and be a requirement for licensing of teachers.
 
-- Promote public education through commercials on consequences of violence in schools
+57. Promote public education through commercials on consequences of violence in schools
 
-- Encourage summer camps for boys, in particular, that are geared toward esteem building, values, attitudes and sports.
+58. Encourage summer camps for boys, in particular, that are geared toward esteem building, values, attitudes and sports.
 
 Page 120
 
@@ -3358,19 +3358,19 @@ The issues at this level are exclusive and antithetical to the notion of equitab
 
 It is our understanding that the above result in the following:
 
-- Inadequate provision for assessment and proper diagnosis to identify the special needs population, resulting in an inability to plan for and deliver required services
+59. Inadequate provision for assessment and proper diagnosis to identify the special needs population, resulting in an inability to plan for and deliver required services
 
-- Inadequate provision for placement within the regular school system and special schools, and the provision of support services
+60. Inadequate provision for placement within the regular school system and special schools, and the provision of support services
 
-- Refusal  of  schools  to  include  children  with  special  needs  who  can  benefit  from  inclusion  in  regular  school programmes
+61. Refusal of schools to include children with special needs who can benefit from inclusion in regular school programmes
 
-- Inadequate preparation of teachers in training to meet the needs of the special child within the regular classroom setting
+62. Inadequate preparation of teachers in training to meet the needs of the special child within the regular classroom setting
 
-- Inappropriate teaching methods that do not meet special needs
+63. Inappropriate teaching methods that do not meet special needs
 
-'At  risk'  students  remaining  undetected  in  the  system  and  therefore  getting  little  or  no  appropriate  support services, and as a consequence having low levels of achievement.
+64. “At risk” students remaining undetected in the system and therefore getting little or no appropriate support services, and as a consequence having low levels of achievement.
 
-- Ignorance at all levels of the system with regard to the categories of special needs and expectations of those within each category.
+65. Ignorance at all levels of the system with regard to the categories of special needs and expectations of those within each category.
 
 Page 123
 
@@ -3388,17 +3388,17 @@ Where are the others and what are they up to?  At this time nothing in the state
 
 #### Recommendations
 
-- Embark  on  a  'child  find'  to  ensure  that  special  needs  children  are  identified  and  referred  for  testing  and appropriate services.
+66. Embark on a “child find” to ensure that special needs children are identified and referred for testing and appropriate services.
 
-- Implement system for the early detection of children with special needs, to begin at the early childhood level
+67. Implement system for the early detection of children with special needs, to begin at the early childhood level
 
-- Transfer the Special Education Unit functions to each REA
+68. Transfer the Special Education Unit functions to each REA
 
-- Introduce mandatory training (course work) in the nature and needs of the special child, and
+69. Introduce mandatory training (course work) in the nature and needs of the special child, and
 
-- Diagnostic and prescriptive teaching, for all pre-service and in-service teachers
+70. Diagnostic and prescriptive teaching, for all pre-service and in-service teachers
 
-- Embark on public education programme for awareness and understanding of special needs.
+71. Embark on public education programme for awareness and understanding of special needs.
 
 Page 124
 
@@ -3406,13 +3406,13 @@ Page 124
 
 [[START OF PAGE 125]]
 
-- Provide focused education to parents of special needs students.
+72. Provide focused education to parents of special needs students.
 
-- Include  special  needs  students  in  the  regular  classroom  setting  with  the  appropriate  support  services  and instructional materials for the different groups of learners including resource rooms where necessary.
+73. Include special needs students in the regular classroom setting with the appropriate support services and instructional materials for the different groups of learners including resource rooms where necessary.
 
-- Improve on provision for special sitting of examinations for special needs students.
+74. Improve on provision for special sitting of examinations for special needs students.
 
-- Foster and facilitate acceleration and enrichment for the gifted and talented at all levels, and implement a small number of well resourced magnet schools coupled with on-day-per-week 'pull out' regime for the exceptionally gifted.
+75. Foster and facilitate acceleration and enrichment for the gifted and talented at all levels, and implement a small number of well resourced magnet schools coupled with on-day-per-week “pull out” regime for the exceptionally gifted.
 
 Page 125
 
@@ -3426,7 +3426,7 @@ Page 125
 
 The 'customers' of the Education System are increasingly expressing a desire to play an active role in their schools.  In January 2004, The National Secondary Students Council (NSSC) which represents over 150,000 students placed on the table their analysis and prescription for the Education System.  In addressing Student Participation, they stated:
 
-'Listen to us, communicate with us and include us at the highest levels of decision-making
+- 'Listen to us, communicate with us and include us at the highest levels of decision-making
 
 - The Ministry of Education, Youth and Culture is there to serve US
 
@@ -3452,17 +3452,17 @@ Students are also expressing a desire to be more involved at the national level.
 
 #### Recommendations
 
-- Enforce system-wide implementation of student councils at the secondary and tertiary levels.
+76. Enforce system-wide implementation of student councils at the secondary and tertiary levels.
 
-- Develop a Student Council Manual.
+77. Develop a Student Council Manual.
 
-- Recognise national student bodies deemed to be representative of students at the Secondary and Tertiary levels.
+78. Recognise national student bodies deemed to be representative of students at the Secondary and Tertiary levels.
 
-- Provide institutional support for approved student bodies at the secondary and tertiary levels
+79. Provide institutional support for approved student bodies at the secondary and tertiary levels
 
-- Students to be part of teacher and principal evaluation process.
+80. Students to be part of teacher and principal evaluation process.
 
-- Performance criteria for principals to include existence and functioning of a student council.
+81. Performance criteria for principals to include existence and functioning of a student council.
 
 Page 127
 
@@ -3484,7 +3484,7 @@ Most schools have Parent Teachers Associations, which provide vehicles for commu
 
 #### Businesses
 
-All businesses require educated and skilled human resources to compete, grow and prosper.  The private sector contributes to education through taxation (Corporate and Education Tax, as well as contribution to HEART Trust), scholarships and philanthropic donations to schools in the communities in which they operate, alma maters of staff and the schools that employees' children attend.
+All businesses require educated and skilled human resources to compete, grow and prosper.  The private sector contributes to education through taxation (Corporate and Education Tax, as well as contribution to HEART Trust),
 
 > 39 Financing and Management of Education in Latin America and the Caribbean, Summary - UNESCO, Thirtieth session of ECLAC, San Juan, Puerto Rico, 28 June - July 2004
 
@@ -3493,6 +3493,8 @@ Page 128
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
+
+scholarships and philanthropic donations to schools in the communities in which they operate, alma maters of staff and the schools that employees' children attend.
 
 #### Alumni
 
@@ -3526,7 +3528,7 @@ Lack of communication between schools and partners prevents the sharing of best 
 
 There  is  a  significant  level  of  stakeholder  involvement  through  the  provision  of  financial  and  non-financial resources.  Involvement is not systematic so the level of participation has not been measured and the impact is unknown.
 
-Parental involvement is inadequate with only a minority of parents being fully involved in their children's education or  the  life  of  the  school.    Some  homes  do  not  provide  the  required  stimulating  environment,  a  necessary  prerequisite for learning.
+Parental involvement is inadequate with only a minority of parents being fully involved in their children's education or  the  life  of  the  school.    Some  homes  do  not  provide  the  required  stimulating  environment,  a  necessary  pre-requisite for learning.
 
 Information  is  provided  to  stakeholders  is  inadequate,  despite  the  policy  enunciated  in  'Education:  The  Way Upward' which states that:
 
@@ -3548,33 +3550,34 @@ Page 131
 
 #### Recommendations
 
-- Implement community outreach programme to encourage volunteerism, similar to:
+82. Implement community outreach programme to encourage volunteerism, similar to:
 
 - Jamaica All Age Schools Project
 
 - School Community Outreach Programme (SCOPE)
 
-'Change from Within' Project
+- 'Change from Within' Project
 
-'Basic School Enhancement' Project
+- 'Basic School Enhancement' Project
 
-- Develop standardized scorecard (measurement of school's performance in academic and non-academic areas against  objectives),  including  criteria  and  methodology  for  school  to  disseminate  information  the  school community. Include school performance against national and regional averages.
+83. Develop standardized scorecard (measurement of school's performance in academic and non-academic areas against  objectives),  including  criteria  and  methodology  for  school  to  disseminate  information  the  school community. Include school performance against national and regional averages.
 
-- Disseminate scorecard and other performance information to the school community each year.
+84. Disseminate scorecard and other performance information to the school community each year.
 
-- Design system to send examination reports to each parent to include: child's score vis-à-vis national, regional and school's average score.
+85. Design system to send examination reports to each parent to include: child's score vis-à-vis national, regional and school's average score.
 
-- Develop and disseminate handbook for schools/PTAs re: best practices to encourage parental involvement.
+86. Develop and disseminate handbook for schools/PTAs re: best practices to encourage parental involvement.
 
-- Implement voluntary Homework/Extended Learning Time Programmes in partnership with the school community. The programme is to be supervised by a rotating team of teachers.
+87. Implement voluntary Homework/Extended Learning Time Programmes in partnership with the school community. The programme is to be supervised by a rotating team of teachers.
 
-- Establish school-parent-child contracts to foster parents' participation and in which parents work with teachers in charting the progress of the children.
+88. Establish school-parent-child contracts to foster parents' participation and in which parents work with teachers in charting the progress of the children.
 
-- Establish  Parent  Teacher  Associations  where  non-existent,  provide  parents  with  opportunities  to  handle responsibilities  in  the  school  as  necessary,  and  provide  training  in  literacy  and  parenting  skills  for  parents  as needed.
+89. Establish  Parent  Teacher  Associations  where  non-existent,  provide  parents  with  opportunities  to  handle responsibilities  in  the  school  as  necessary,  and  provide  training  in  literacy  and  parenting  skills  for  parents  as needed.
 
-- Revitalize and promote November as Parent month. Publicize theme, awards, competitions et cetera.
+90. Revitalize and promote November as Parent month. Publicize theme, awards, competitions et cetera.
 
-- Establish a clearing-house for private sector companies to facilitate their support of the education sector Collaborate with Ministry of Information on existing Values and Attitudes program
+91. Establish a clearing-house for private sector companies to facilitate their support of the education sector
+Collaborate with Ministry of Information on existing Values and Attitudes program
 
 Page 132
 
@@ -3598,22 +3601,22 @@ Page 133
 
 [[START OF PAGE 134]]
 
+Table 24. MOEYC 2004-05 Recurrent Budget Breakdown
+
 Item | Expenditure $Million | %
 --- | --- | ---
 Compensation | $21,658 | 73.2
 Travel Expenses and Subsistence | $802 | 2.7
-Rental of | Property $33 | 0.1
+Rental of Property | $33 | 0.1
 Public Utility Services | $259 | 0.9
 Purchase of other Goods and Services | $716 | 2.4
 Grants & Contributions | $6,041 | 20.4
 Other | $51 | 0.2
 Sub Total | $29,562 | 100.0
 
-Table  24. MOEYC 2004-05 Recurrent Budget Breakdown
-
 #### 4.1.2  Non-Government Expenditure on Education
 
-In 2002 individual households spent approximately $19.2 billion on the education of their children as shown in Table 25 42 . We see from the 2002 Survey of Living Conditions that households spent on average in excess of $41,000 on educating their children, of which lunch and snacks amounted to $13,023; 'extra lessons' to $7,545, (25% more than they spent on Tuition Fees) and transportation amounted to $9,220. Depending on geography, the items financed by households vary considerably. For example, in some rural communities, transportation is by far the largest parent financed cost, whereas in others, this is not a major item. The inability of parents to finance transportation is frequently a major impediment to achieving acceptable attendance levels.
+In 2002 individual households spent approximately $19.2 billion on the education of their children as shown in Table 25 42 . We see from the 2002 Survey of Living Conditions that households spent on average in excess of $41,000 on educating their children, of which lunch and snacks amounted to $13,023; 'extra lessons' to $7,545, (25% more than they spent on Tuition Fees) and transportation amounted to $9,220. Depending on geography, the items financed by households vary considerably. For example, in some rural communities, transportation is by far the largest parent financed cost, whereas
 
 > 42 Based on the 2002 Survey of Living Conditions, Planning Institute of Jamaica that found that $41,680.60 spent per household on education.  Total Expenditure arrived at using assumption of 4 persons per household (657,000 households), 70% households with children (460,000 households)
 
@@ -3622,6 +3625,10 @@ Page 134
 [[END OF PAGE 134]]
 
 [[START OF PAGE 135]]
+
+in others, this is not a major item. The inability of parents to finance transportation is frequently a major impediment to achieving acceptable attendance levels.
+
+Table 25 Household Expenditure on Education (2002)
 
 Category | $ Per household | Total Expenditure | % Total
 --- | --- | --- | ---
@@ -3634,17 +3641,17 @@ Uniforms | 2,231.9 | 1,026,674 | 5.4%
 Other | 1,281.9 | 589,674 | 3.1%
 TOTAL | $41,680.6 | $19,173,076 | 100.0%
 
-Table 25 Household Expenditure on Education (2002)
-
 Expenditure  by  way  of  grants  and  donations  by  the  private  sector,  NGOs  and  civic  organizations  is  not  known,  but considered significant.
 
-In  addition  to  the  expenditure  by  Government,  secondary  schools  fund  a  significant  portion  of  their  costs  from  fees charged  directly  to  students  through  the  'cost  sharing'  programme  and  through  fund  raising  efforts  organized  by  the schools themselves, parents and alumni associations. The GOJ's education budget is intended to fund 100% of the cost of Infant, Primary and All-Age Schools; all emoluments and other related costs in secondary and non-University tertiary institutions; and a portion of emoluments and other costs of Universities.
+In  addition  to  the  expenditure  by  Government,  secondary  schools  fund  a  significant  portion  of  their  costs  from  fees charged  directly  to  students  through  the  'cost  sharing'  programme  and  through  fund  raising  efforts  organized  by  the schools themselves, parents and alumni associations. The GOJ's education budget is intended to fund 100% of the cost
 
 Page 135
 
 [[END OF PAGE 135]]
 
 [[START OF PAGE 136]]
+
+of Infant, Primary and All-Age Schools; all emoluments and other related costs in secondary and non-University tertiary institutions; and a portion of emoluments and other costs of Universities.
 
 In 2002/2003 parents contributed approximately $590 million, or about 2% of the Government's budget. In the case of Boarding Institutions, school fees (including boarding) equate or almost equate the subvention provided by Government, whereas in non-boarding high schools, the school fees contribute at varying rates.
 
@@ -3658,7 +3665,7 @@ As stated above, Government aims to fund all the costs of Infant, Primary, All-A
 
 School  Fees  (cost-sharing)  and  fund-raising  activities  of  schools,  parents,  alumni  and  communities  account  for  a significant  proportion  of  the  financing  of  secondary  institutions.  The  extent  of  the  funding  raised  by  secondary  schools varies  considerably,  depending  on  school  location,  academic  &  athletic  reputation,  alumni  vibrancy  of  and  parental activism.
 
-Based on Financial Statements of a sample of secondary schools for 2003/04, the per-student cost of operating them ranged from a low of $51,552 per student to a high of $62,409, with the average being $56,602 per student. One rural boarding  institution  for  which  data  were  available  spent  $127,861  per  student  for  the  same  year.  The  Governmentapproved parental contributions (cost sharing fees) to Secondary Schools' costs ranged between $5,800 and $9,000 per student.
+Based on Financial Statements of a sample of secondary schools for 2003/04, the per-student cost of operating them ranged from a low of $51,552 per student to a high of $62,409, with the average being $56,602 per student. One rural
 
 Page 136
 
@@ -3666,21 +3673,23 @@ Page 136
 
 [[START OF PAGE 137]]
 
+boarding institution for which data were available spent $127,861 per student for the same year. The Government-approved parental contributions (cost sharing fees) to Secondary Schools' costs ranged between $5,800 and $9,000 per student.
+
 Basic Schools are generally privately funded by contributions from churches, and community groups as well as school fees.
 
 ### Determining the Required Expenditure on Education
 
 There are several approaches to assessing  the required level of expenditure on Education in Jamaica:
 
-- Benchmarking against other countries in the Region
+92. Benchmarking against other countries in the Region
 
-- Requirement of the October 2003 Parliamentary Resolution
+93. Requirement of the October 2003 Parliamentary Resolution
 
-- Requirement to achieve the National Shared Vision for Education in Jamaica
+94. Requirement to achieve the National Shared Vision for Education in Jamaica
 
 #### Benchmarking against Expenditure in the Region
 
-Jamaica spends (through the MOEYC) approximately 6.6% of its GDP and 9.2% of its Fiscal Budget on Education. Based on  data  produced  for  the  13 th session  of  ECLAC 43 ,  22  countries  in  the  region  for  which  data  were  produced  spent approximately 4% of their GDP on average on education in 2000. Amongst the countries surveyed, Jamaica was second in  this  measure  only  to  Cuba,  which  spent  8.5%  of  its  GDP  on  education.    The  ECLAC  data  also  indicated  that industrialized countries on average spend six times more per capita on education than do developing countries. In their Millennium Declaration, EFA, PRELAC and the Summit of the Americas in 1998 determined that Latin American countries would need to spend an additional 7.5% of GDP if they were to achieve a broad range of goals and objectives that they set for achievement by 2015.
+Jamaica spends (through the MOEYC) approximately 6.6% of its GDP and 9.2% of its Fiscal Budget on Education. Based on  data  produced  for  the  13 th session  of  ECLAC 43 ,  22  countries  in  the  region  for  which  data  were  produced  spent approximately 4% of their GDP on average on education in 2000. Amongst the countries surveyed, Jamaica was second in  this  measure  only  to  Cuba,  which  spent  8.5%  of  its  GDP  on  education.    The  ECLAC  data  also  indicated  that industrialized countries on average spend six times more per capita on education than do developing countries. In their Millennium Declaration, EFA, PRELAC and the Summit of the Americas in 1998 determined that Latin American countries
 
 > 43 Economic Commission for Latin America and the Caribbean (ECLAC). 2003
 
@@ -3690,15 +3699,17 @@ Page 137
 
 [[START OF PAGE 138]]
 
+would need to spend an additional 7.5% of GDP if they were to achieve a broad range of goals and objectives that they set for achievement by 2015.
+
 Although  Jamaica  spends  a  fairly  high  percentage  of  its  resources  on  education,  it  is  clear  that  the  present  levels  of expenditure are inadequate. Table 26 below compares the expenditure per student at the various levels of the education system  for  Jamaica,  Barbados  and  Trinidad  and  Tobago.    The  results  indicate  that  Jamaica  lags  behind  its  regional Caricom trading partners at all three levels. The high level of literacy in Barbados as well as its economic performance vis a vis Trinidad & Tobago and Jamaica suggest a direct relationship between educational expenditure, on the one hand, and educational and economic performance on the other.
+
+Table 26 Expenditure per student for selected countries 44 (US$) for year 2000
 
 Country | Primary | Secondary | Tertiary | GDP/Capita 45 | Literacy Rate 46
 --- | --- | --- | --- | --- | ---
 Jamaica | 323 | 508 | 1,703 | US$3,561 | 86.4%
 Trinidad & Tobago | 816 | 734 | N/A | US$8,176 | 93.5%
 Barbados | 1,871 | 2,432 | 5,634 | US$14,553 | 97.0%
-
-Table 26 Expenditure per student for selected countries 44 (US$) for year 2000
 
 > 44 Computed from data obtained from the World Bank Group's World Development Indicators (WDI) Database
 
@@ -3732,7 +3743,7 @@ Page 139
 
 Table 27 Capital Expenditure Requirements, Fiscal 2005-2014
 
-J$ Billions
+ | J$ Billions
 --- | ---
 Total Required 2005-2014 | 65.2
 Amount available based on Current level of MOEYC Funding | 6.5
@@ -3758,7 +3769,7 @@ The Task Force, in recognition of the need to harmonize the quality of education
 
 - The  present  per-capita  expenditure  on  primary  school  students  is  approximately  $30,000.  The  Task  Force  has concluded that several measures are urgently required if the performance at this level of the education system is to be improved. These include increasing the number of teachers serving these institutions by approximately 3,500 so as to improve the teacher:pupil ratio from the present 1:35 to the recommended 1:25; introducing approximately 400 literacy specialists, training and deploying 5,000 teachers aides and upgrading the number of trained graduate teachers by 8,000 at the primary level. All this is in addition to the need to improve the quality and availability of teaching materials as well as the maintenance of the school plant.
 
-- At  present,  the  average  high  school  spends  about  $57,000  per  student  of  which  Government  funds  approximately $35,000.  Based  on  our  discussions    with  principals  and  bursars  of  the  schools  surveyed,  we  learnt  that  there  are shortcomings in the financing of secondary institutions, resulting in problems ranging from their inability to initiate and fund critical programmes, (such as introduction to computing at grade 7) to chronic deficiencies in maintenance of the school plant. Based on estimates that have emerged from those discussions, we feel that there is a need for about a 25% increase in the resources available to secondary schools on a recurrent basis. Were this to be achieved, the percapita expenditure would rise to over $71,000. For purposes of our estimates, the Task Force has used a per-capita estimate of $70,000 in calculating the financing requirements to achieve the vision that we have articulated.
+- At  present,  the  average  high  school  spends  about  $57,000  per  student  of  which  Government  funds  approximately $35,000.  Based  on  our  discussions    with  principals  and  bursars  of  the  schools  surveyed,  we  learnt  that  there  are shortcomings in the financing of secondary institutions, resulting in problems ranging from their inability to initiate and fund critical programmes, (such as introduction to computing at grade 7) to chronic deficiencies in maintenance of the school plant. Based on estimates that have emerged from those discussions, we feel that there is a need for about a 25% increase in the resources available to secondary schools on a recurrent basis. Were this to be achieved, the per-capita expenditure would rise to over $71,000. For purposes of our estimates, the Task Force has used a per-capita estimate of $70,000 in calculating the financing requirements to achieve the vision that we have articulated.
 
 - There are several other initiatives being proposed by the Task Force that will demand the investment of funds on a one-off basis if the transformation anticipated by the vision is to be achieved. Major reforms being proposed include restructuring  of  the  MOEYC;  implementation  of  a  performance-based  management  system;  the  establishment  of Regional Education Authorities; strengthening support institutions; the development of formal strategic plans for the Ministry  and  supporting  organizations;  implementation  of  financial  and  management  reporting  and  systems  of
 
@@ -3788,25 +3799,25 @@ Page 142
 
 [[START OF PAGE 143]]
 
+Table 28. Capital Resources Required for Transforming the Education System
+
 Use of Funds | 2004-05 | 2005-06 | 2006-07 | 2007-08 | 2008-09 | 2009-10 | 2010-11 | 2011-12 | 2012-13 | 2013-14 | 2014-15 | Total | %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-School Building | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $36,147 | 55.4%
-School Rehabilitation | $50 | $5,365 | $4,515 | $4,515 | $4,515 | $4,515 | $23,477 | 36.0%
-MIS Infrastructure | $1,290 | $1,290 | 2.0%
-Training | $284 | $942 | $1,226 | 1.9%
-Student Assessment | $75 | $375 | $450 | 0.7%
-Surveys | $1 | $2 | $3 | 0.0%
-Consulting and Research | $7 | $386 | $36 | $429 | 0.7%
-Public Education | $19 | $26 | $45 | 0.1%
-Transformation Team | $30 | $55 | $83 | $168 | 0.3%
-Remediation | $1,725 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $1,815 | 2.8%
-MOEYC Staff Separation | $95 | $95 | 0.1%
-REA's | $100 | $100 | 0.2%
+School Building |  | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $3,615 | $36,147 | 55.4%
+School Rehabilitation | $50 | $5,365 | $4,515 | $4,515 | $4,515 | $4,515 |  |  |  |  |  | $23,477 | 36.0%
+MIS Infrastructure |  |  | $1,290 |  |  |  |  |  |  |  |  |  | $1,290 | 2.0%
+Training | $284 | $942 |  |  |  |  |  |  |  |  |  |  | $1,226 | 1.9%
+Student Assessment | $75 | $375 |  |  |  |  |  |  |  |  |  |  | $450 | 0.7%
+Surveys | $1 | $2 |  |  |  |  |  |  |  |  |  |  | $3 | 0.0%
+Consulting and Research | $7 | $386 | $36 |  |  |  |  |  |  |  |  |  | $429 | 0.7%
+Public Education | $19 | $26 |  |  |  |  |  |  |  |  |  |  | $45 | 0.1%
+Transformation Team | $30 | $55 | $83 |  |  |  |  |  |  |  |  |  | $168 | 0.3%
+Remediation |  | $1,725 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $10 | $1,815 | 2.8%
+MOEYC Staff Separation |  |  | $95 |  |  |  |  |  |  |  |  |  | $95 | 0.1%
+REA's |  |  | $100 |  |  |  |  |  |  |  |  |  | $100 | 0.2%
 Grand Totals | $465 | $12,492 | $9,743 | $8,140 | $8,140 | $8,140 | $3,625 | $3,625 | $3,625 | $3,625 | $3,625 | $65,244 | 100.0%
 Current Level of Capital Budgeted | Already accounted for | $654 | $654 | $654 | $654 | $654 | $654 | $654 | $654 | $654 | $654 | $6,536 | 10.0%
 Incremental Capital Requirements | $465 | $11,838 | $9,090 | $7,486 | $7,486 | $7,486 | $2,971 | $2,971 | $2,971 | $2,971 | $2,971 | $58,708 | 90.0%
-
-Table 28. Capital Resources Required for Transforming the Education System
 
 Page 143
 
@@ -3814,26 +3825,26 @@ Page 143
 
 [[START OF PAGE 144]]
 
+Table 29 Recurrent Resources Required for Transforming the Education System
+
 Use of Funds | 2004-05 | 2005-06 | 2006-07 | 2007-08 onwards
 --- | --- | --- | --- | ---
 Health Services | $200 | $200 | $200 | $200
-Early Childhood Education | $808 | $2,902 | $3,979
-Primary Education | $2,177 | $13,515 | $16,418
-Secondary Education | $2,613 | $13,674 | $17,159
-Tertiary Education | $5,571 | $5,571
-MOEYC | $29,560 | $887 | $887
-REA's | $1,236 | $1,236
-NQAA | $280 | $280
-Early Childhood Commission | $50 | $50 | $50
-TERC | $50 | $50
-Teachers Colleges | $550 | $550
-JLS | $1,162 | $1,162
-NCE | $23 | $23
+Early Childhood Education |  | $808 | $2,902 | $3,979
+Primary Education |  | $2,177 | $13,515 | $16,418
+Secondary Education |  | $2,613 | $13,674 | $17,159
+Tertiary Education |  |  | $5,571 | $5,571
+MOEYC |  | $29,560 | $887 | $887
+REA's |  |  | $1,236 | $1,236
+NQAA |  |  | $280 | $280
+Early Childhood Commission |  | $50 | $50 | $50
+TERC |  |  | $50 | $50
+Teachers Colleges |  |  | $550 | $550
+JLS |  |  | $1,162 | $1,162
+NCE |  |  | $23 | $23
 Grand Totals | $200 | $35,408 | $40,101 | $47,565
 Current Level of Recurrent Budgeted | Already accounted for | $29,560 | $29,560 | $29,560
 Incremental Recurrent Requirements | $200 | $5,848 | $10,541 | $18,005
-
-Table 29 Recurrent Resources Required for Transforming the Education System
 
 Page 144
 
@@ -3853,21 +3864,21 @@ Page 145
 
 [[START OF PAGE 146]]
 
+Table 30 .Recommended Annual Recurrent Expenditure For Education
+
 Current Use of Funds | Expenditure (Million/%) | RATIONALE | Recommended Use of Funds | Expenditure (Million/%)
 --- | --- | --- | --- | --- | --- | ---
 Direction & Administration | $38.80 | 0.1% | Direction and Admin. Remain in MOEYC | MOEYC | $887.40 | 1.9%
-Finance & Accounts | $68.00 | 0.2% | Finance & Accounts unchanged
-HR | $101.50 | 0.3% | HR and Admin. Management unchanged
-Internal Audit | $24.50 | 0.1% | Internal Audit unchanged
-Plan & Development | $45.60 | 0.2% | Planning & Development for Policy
-In Service Training | $16.50 | 0.1% | In-service Training doubled/contracted
-Regional and International Cooperation | $16.51 | 0.1% | Fees to International Org. remain same
-Core Curriculum | $53.20 | 0.2% | Core curriculum development contracted out. Estimated five fold increase
-Media Services | $184.40 | 0.6% | Media services contracted out at same level
-School Personnel | $18.90 | 0.1% | Remain in the Ministry
-Project Management | $13.70 | 0.0% | Project Management remain the same
-
-Table 30 .Recommended Annual Recurrent Expenditure For Education
+Finance & Accounts | $68.00 | 0.2% | Finance & Accounts unchanged |  |  |
+HR | $101.50 | 0.3% | HR and Admin. Management unchanged |  |  |
+Internal Audit | $24.50 | 0.1% | Internal Audit unchanged |  |  |
+Plan & Development | $45.60 | 0.2% | Planning & Development for Policy |  |  |
+In Service Training | $16.50 | 0.1% | In-service Training doubled/contracted |  |  |
+Regional and International Cooperation | $16.51 | 0.1% | Fees to International Org. remain same |  |  |
+Core Curriculum | $53.20 | 0.2% | Core curriculum development contracted out. Estimated five fold increase |  |  |
+Media Services | $184.40 | 0.6% | Media services contracted out at same level |  |  |
+School Personnel | $18.90 | 0.1% | Remain in the Ministry |  |  |
+Project Management | $13.70 | 0.0% | Project Management remain the same |  |  |
 
 Page 146
 
@@ -3878,14 +3889,14 @@ Page 146
 Current Use of Funds | Expenditure (Million/%) | RATIONALE | Recommended Use of Funds | Expenditure (Million/%)
 --- | --- | --- | --- | --- | --- | ---
 Adult Education | $78.80 | 0.3% | Adult Education (JAMAL budget in MOEYC) | MOEYC | Included above | Included above
-Arts and Culture | $556.07 | 1.9% | Remain in the Ministry
-Youth Development | $164.85 | 0.6% | Remain in the Ministry
-Agricultural Education | $230.33 | 0.8% | Remain in the Ministry
+Arts and Culture | $556.07 | 1.9% | Remain in the Ministry |  |  |
+Youth Development | $164.85 | 0.6% | Remain in the Ministry |  |  |
+Agricultural Education | $230.33 | 0.8% | Remain in the Ministry |  |  |
 Education Administration | $100.00 | 0.3% | Education Admin transferred to REA's | Regional Educational Authorities (REA's) | $1,235.60 | 2.6%
-Guidance & Counselling | $13.30 | 0.0% | Guidance and Counselling Unit functions transferred to REA's
-Technical Services | $24.50 | 0.1% | Technical Services transferred to REA's
-Regional Offices | $384.10 | 1.3% | Regional offices transferred to REA's; Budget doubled to account for 2 additional REA's and specialist support
-Special Education | $328.70 | 1.1% | Special Ed functions and resources transferred to the Regional Education Authorities
+Guidance & Counselling | $13.30 | 0.0% | Guidance and Counselling Unit functions transferred to REA's |  |  |
+Technical Services | $24.50 | 0.1% | Technical Services transferred to REA's |  |  |
+Regional Offices | $384.10 | 1.3% | Regional offices transferred to REA's; Budget doubled to account for 2 additional REA's and specialist support |  |  |
+Special Education | $328.70 | 1.1% | Special Ed functions and resources transferred to the Regional Education Authorities |  |  |
 Student Assessment | $140.00 | 0.5% | Student Assessment transferred to NQAA and figure doubled | National Quality Assurance Authority (NQAA) | $280.00 | 0.6%
 
 Page 147
@@ -3897,11 +3908,11 @@ Page 147
 Current Use of Funds | Expenditure (Million/%) | RATIONALE | Recommended Use of Funds | Expenditure (Million/%)
 --- | --- | --- | --- | --- | --- | ---
 Early Childhood Education | $1,287.10 | 4.4% | Early Childhood Education based on $30,000 per student. $50 Million to ECC | Early Childhood Schools | $3,979.35 | 8.4%
-Early Childhood Commission | $50.00 | 0.1%
+ |  |  |  | Early Childhood Commission | $50.00 | 0.1%
 Primary Education | $9,160.20 | 31.0% | Primary Education based on $50,000 per student per year | Primary Schools | $16,418.10 | 34.7%
 Secondary Education | $8,447.80 | 28.6% | Secondary Education based on $70,000 per student per year | Secondary Schools | $17,158.68 | 36.2%
 Tertiary education | $5,571.30 | 19.5% | No change. To be assessed when Tertiary Study done. $50 Million to TERC | Tertiary Schools | $5,571.30 | 11.8%
-TERC | $50.00 | 0.1%
+ |  |  |  | TERC | $50.00 | 0.1%
 Teacher Education | $549.60 | 1.9% | No change. To be assessed when Tertiary Study done | Teachers Colleges | $549.60 | 1.2%
 Public Libraries | $387.40 | 1.3% | Public library trebled due to poor state of the public library | JLS | $1,162.20 | 2.5%
 NCE | $11.50 | 0.0% | NCE budget to double | NCE | $23.00 | 0.0%
@@ -3915,10 +3926,10 @@ Page 148
 Current Use of Funds | Expenditure (Million/%) | RATIONALE | Recommended Use of Funds | Expenditure (Million/%)
 --- | --- | --- | --- | --- | --- | ---
 School Library Services | $27.60 | 0.1% | School library transferred from Central Ministry to JLS | Deleted | $0.00 | 0.0%
-TVEU | $1,051.00 | 3.6% | TVEU transferred to HEART and costs absorbed by HEART
-NPL | $222.10 | 0.8% | Budget for NPL transferred to schools
-School Feeding Program | $252.60 | 0.9% | School Feeding transferred to schools
-TOTALS | $29,560 | 100.0% | $47,260 | 100.0%
+TVEU | $1,051.00 | 3.6% | TVEU transferred to HEART and costs absorbed by HEART |  |  |
+NPL | $222.10 | 0.8% | Budget for NPL transferred to schools |  |  |
+School Feeding Program | $252.60 | 0.9% | School Feeding transferred to schools |  |  |
+TOTALS | $29,560 | 100.0% |  |  | $47,260 | 100.0%
 
 Page 149
 
@@ -3978,13 +3989,15 @@ Page 151
 
 - Mechanisms are already available through the Programme for Advancement  through  Health  and  Education  (PATHE)  to  ensure  that children of parents who cannot afford to pay will not be denied space in the Secondary system.
 
-Against  this  background,  the  Task  Force  recommends  that  the  cost  sharing scheme be retained, and secondary schools allowed to continue to charge fees. Such fees should be limited to a set percentage of the approved economic cost of  educating  each  child.  Concomitant  with  this  recommendation,  would  be  a requirement that the system for processing applications from parents who claim inability  to  afford  the  fees  would  have  their  applications  for  relief  processed efficiently and with sensitivity.
+Against this background, the Task Force recommends that the cost sharing scheme be retained, and secondary schools allowed to continue to charge fees. Such fees should be limited to a set percentage of the approved economic cost of educating each child. Concomitant with this recommendation, would be a
 
 Page 152
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
+
+requirement that the system for processing applications from parents who claim inability to afford the fees would have their applications for relief processed efficiently and with sensitivity.
 
 The model to be utilized by Government for determining the subvention for each school should therefore be revised. Instead of The MOEYC providing funds on the basis of the salary costs of the staff deployed in each school, schools would be required to develop budgets which would be reviewed and approved by the MOEYC.
 
@@ -4022,9 +4035,9 @@ If  the  new  model  (funding  the  student  rather  than  the  institution)  is
 
 ### Recommendations:
 
-- The improved systems of accountability discussed under Accountability for Performance at all levels are critical pre-requisites for the ability of the system to absorb and provide the anticipated returns on the levels of increased investment in education that is required.
+95. The improved systems of accountability discussed under Accountability for Performance at all levels are critical pre-requisites for the ability of the system to absorb and provide the anticipated returns on the levels of increased investment in education that is required.
 
-- Government should re-evaluate the level of resources that it will commit to the education system, since it is clear that previous notions of what is required (as  articulated  in  the  2003  Parliamentary  Resolution),  will  not  achieve  the objectives  outlined  herein.  This  should  be  done  after  a  fine-tuning  of  the quantum of the resources required to transform the Education System.
+96. Government should re-evaluate the level of resources that it will commit to the education system, since it is clear that previous notions of what is required (as articulated in the 2003 Parliamentary Resolution), will not achieve the objectives outlined herein. This should be done after a fine-tuning of the quantum of the resources required to transform the Education System.
 
 Page 154
 
@@ -4032,13 +4045,13 @@ Page 154
 
 [[START OF PAGE 155]]
 
-- Government  should  examine  ways  of  increasing  private  and  institutional participation in providing education services
+97. Government should examine ways of increasing private and institutional participation in providing education services
 
-- The allocation of resources should be demand driven rather than by reference to employment levels in schools.
+98. The allocation of resources should be demand driven rather than by reference to employment levels in schools.
 
-- Conduct  a  detailed  analysis  on  the  model  for  funding  student  instead  of institutions to determine, inter alia, mechanisms for disbursement and amount of funds per student at the various levels of the education system
+99. Conduct a detailed analysis on the model for funding student instead of institutions to determine, inter alia, mechanisms for disbursement and amount of funds per student at the various levels of the education system
 
-- Undertake further study to determine feasible sources of funds to meet the increased  requirements  of  the  Education  System.  This  will  include  but  not limited to the following:
+100. Undertake further study to determine feasible sources of funds to meet the increased requirements of the Education System. This will include but not limited to the following:
 
 Retain  the  cost  sharing  scheme  and  consider  the  efficacy  of  increasing School Fees
 
@@ -4092,25 +4105,25 @@ The task will not be easy, and the team must expect many challenges as it seeks 
 
 A  number  of  legislative  changes  will  have  to  be  made  with  greatest  of  urgency  to provide the foundation for implementation of the recommendations. While the precise changes  will  be  determined  by  the  Transformation  Team  based  on  detailed  studies noted in the recommendations, at a minimum the following will have to be addressed:
 
-- Education  Regulations .  We  urge  that  the  updating  process  which  has been  in  progress  since  1989  be  concluded  in  the  immediate  term  with  the addition provided by the recommendations, such as the Terms and Conditions of the Teachers
+101. Education Regulations. We urge that the updating process which has been in progress since 1989 be concluded in the immediate term with the addition provided by the recommendations, such as the Terms and Conditions of the Teachers
 
-- Legislation to establish the Regional Education Authorities.
+102. Legislation to establish the Regional Education Authorities.
 
-- Legislation to establish the NQAA
+103. Legislation to establish the NQAA
 
 ## The Implementation Plan:
 
 Table 31 summarises the major tasks required to implement the recommendations in this report.  The plan is presented as follows:
 
-- Key Issues - as per the Task Force methodology
+104. Key Issues – as per the Task Force methodology
 
-- Task Force Recommendations
+105. Task Force Recommendations
 
-- Responsibility - for implementation
+106. Responsibility – for implementation
 
-- Rationale - costing assumptions
+107. Rationale – costing assumptions
 
-- Time frames - costs are estimated and shown as follows:
+108. Time frames – costs are estimated and shown as follows:
 
 - Immediate - Present to March 2004/05
 
@@ -4500,11 +4513,31 @@ Yvonne Brown - Grade Co-ordinator, Drews Avenue Primary School
 
 ## PRESENTERS:
 
-Dr Clement Lambert - Change From Within Dr Maureen Samms-Vaughn - Early Childhood Committee Freda Jones - Independent Schools Unit, MOEY&C Jacqueline Samuel-Brown - Attorney at Law Paulette Chevannes - Change From Within Phyllis Reynolds - Curriculum Development Unit, MOEY&C Rheima Scarlett - University of The West Indies Sephlyn Myers -Thomas  - Student Assessment Unit, MOEY&C Wayne Robinson - Jamaica Independent Schools Association Winston Forrest - Expanded Secondary Programme Dwight Hamilton - Senior Economist - MOEYC
+Dr Clement Lambert - Change From Within
 
 [[END OF PAGE 172]]
 
 [[START OF PAGE 173]]
+
+Dr Maureen Samms-Vaughn - Early Childhood Committee
+
+Freda Jones - Independent Schools Unit, MOEY&C
+
+Jacqueline Samuel-Brown - Attorney at Law
+
+Paulette Chevannes - Change From Within
+
+Phyllis Reynolds - Curriculum Development Unit, MOEY&C
+
+Rheima Scarlett - University of The West Indies
+
+Sephlyn Myers-Thomas - Student Assessment Unit, MOEY&C
+
+Wayne Robinson - Jamaica Independent Schools Association
+
+Winston Forrest - Expanded Secondary Programme
+
+Dwight Hamilton - Senior Economist - MOEYC
 
 ## MICO CARE
 
@@ -4522,33 +4555,33 @@ Damion Dodd Kadian Campbell
 
 APPENDIX B -
 
+## Table B1 Proposed Allocation of the MOEY&C Internal Audit Function:
+
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Schools Audit | Private Auditors
-Projects Audit | Internal Audit
-Operational Audit | Internal Audit
-Statutory Bodies, Agencies and Regional Education Authorities Audit | Internal Audit
-
-## Table B1 Proposed Allocation of the MOEY&C Internal Audit Function:
+Schools Audit | | Private Auditors
+Projects Audit | Internal Audit |
+Operational Audit | Internal Audit |
+Statutory Bodies, Agencies and Regional Education Authorities Audit | Internal Audit |
 
 ## Table B2 Proposed Allocation of the MOEY&C Planning & Development Function:
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Policy Analysis | Policy Development and Monitoring
-Research | MIS & Research
-MIS | MIS & Research
-Education Planning | Policy Development and Monitoring
-Corporate Planning | Permanent Secretary's Office
-Programme Monitoring & Evaluation | Policy Development and Monitoring
+Policy Analysis | Policy Development and Monitoring |
+Research | MIS & Research |
+MIS | MIS & Research |
+Education Planning | Policy Development and Monitoring |
+Corporate Planning | Permanent Secretary's Office |
+Programme Monitoring & Evaluation | Policy Development and Monitoring |
 
 ## Table B3 Proposed Allocation of the MOEY&C Projects & Technical Function:
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Project Management | Project Development
-Project Finance | Project Development
-Building Services | Regional Authorities
+Project Management | Project Development |
+Project Finance | Project Development |
+Building Services | | Regional Authorities
 
 ## Table B4    Proposed Allocation of the MOEY&C Human Resource & Administration Function:
 
@@ -4564,34 +4597,34 @@ Outsourced to Schools/Support Institutions/Private
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Personnel Management | Human Resource Management
-Office Management | Human Resource Management
-School Personnel & Administrative Services | Individual Schools
+Personnel Management | Human Resource Management |
+Office Management | Human Resource Management |
+School Personnel & Administrative Services | | Individual Schools
 Professional Development | Human Resource & Administration (of Ministry staff only) | Tertiary Institutions and other service providers (for Teacher Development and other staff in schools)
 
 ## Table B5 Proposed Allocation of the MOEY&C Financial Management Function:
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Budget | Financial Management
-Accounts | Financial Management
-Teachers Salaries | Individual Schools
+Budget | Financial Management |
+Accounts | Financial Management |
+Teachers Salaries | | Individual Schools
 
 ## Table B6 Proposed Allocations of the MOEY&C Educational Services Function:
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Guidance & Counselling | Individual Schools
-Media Services | Private Providers
-Special Education | Policy Development and Monitoring
-Student Assessment | National Education Quality Assurance Authority
+Guidance & Counselling | | Individual Schools
+Media Services | | Private Providers
+Special Education | Policy Development and Monitoring |
+Student Assessment | National Education Quality Assurance Authority |
 Core Curriculum | Policy Development and Monitoring to specify curriculum | Private Providers to develop curriculum
-Supervision of Early Childhood Education (children ages 1 - 5) | Early Childhood Unit deployed to ECC
-Accountability for Early Childhood Education | Early Childhood Commission and Schools
-Supervision of Primary Education | Schools
-Accountability for Primary Education Performance | Regional Authorities and Primary Schools
-Supervision of Secondary Education | Schools
-Accountability for Secondary Education Performance | Regional Authorities and Secondary Schools
+Supervision of Early Childhood Education (children ages 1 - 5) | | Early Childhood Unit deployed to ECC
+Accountability for Early Childhood Education | | Early Childhood Commission and Schools
+Supervision of Primary Education | | Schools
+Accountability for Primary Education Performance | | Regional Authorities and Primary Schools
+Supervision of Secondary Education | | Schools
+Accountability for Secondary Education Performance | | Regional Authorities and Secondary Schools
 
 [[END OF PAGE 175]]
 
@@ -4599,19 +4632,19 @@ Accountability for Secondary Education Performance | Regional Authorities and Se
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Supervision of Tertiary Education | Institutions
-Accountability for Tertiary Education Performance and Research | Tertiary Education & Research Commission and Tertiary Education Institutions
-Supervision of Technical & Vocational Education | Institutions
-Accountability for Technical & Vocational Education | HEART Trust/NTA
-Student Welfare & Nutrition | Individual Schools
-Certification and Monitoring of Independent Schools | National Education Quality Assurance Authority
+Supervision of Tertiary Education | | Institutions
+Accountability for Tertiary Education Performance and Research | | Tertiary Education & Research Commission and Tertiary Education Institutions
+Supervision of Technical & Vocational Education | | Institutions
+Accountability for Technical & Vocational Education | | HEART Trust/NTA
+Student Welfare & Nutrition | | Individual Schools
+Certification and Monitoring of Independent Schools | National Education Quality Assurance Authority |
 
 ## Table B7 Proposed Allocation of the MOEY&C Youth and Culture Functions:
 
 Function | Proposed MOEY&C Responsibility | Outsourced to Schools/Support Institutions/Private
 --- | --- | ---
-Youth Development | Policy Development and Monitoring
-Cultural Development | Policy Development and Monitoring
-Cultural Agency Monitoring | Policy Development and Monitoring
+Youth Development | Policy Development and Monitoring |
+Cultural Development | Policy Development and Monitoring |
+Cultural Agency Monitoring | Policy Development and Monitoring |
 
 [[END OF PAGE 176]]
