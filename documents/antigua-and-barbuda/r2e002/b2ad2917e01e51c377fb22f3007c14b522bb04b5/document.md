@@ -4,15 +4,18 @@ ANTIGUA AND BARBUDA
 
 # THE EDUCATION ACT, 2008
 
-No.  21 of 2008
+No. 21 of 2008
 
-[Published in the Official Gazette Vol. XXIX No. 10 Dated 12th February, 2009.]
+[Published in the Official Gazette Vol. XXIX No. 10
+Dated 12th February, 2009.]
 
 ________
 
-Printed at the Government Printing Office, Antigua and Barbuda, by Eric T. Bennett, Government Printer - By Authority, 2009.
+Printed at the Government Printing Office, Antigua and Barbuda,
+by Eric T. Bennett, Government Printer
+— By Authority, 2009.
 
-800-02.09
+800—02.09
 
 [Price$ 37.95]
 
@@ -20,21 +23,23 @@ Printed at the Government Printing Office, Antigua and Barbuda, by Eric T. Benne
 
 [[START OF PAGE 2]]
 
-No. 21 of 2008. The Education Act, 2008. 2
+The Education Act, 2008. 2 No. 21 of 2008.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-No. 21 of 2008. 3
+No. 21 of 2008. 3 The Education Act, 2008.
 
-The Education Act, 2008.
+# THE EDUCATION ACT, 2008 ARRANGEMENT
+
+# PRELIMINARY
 
 Sections
 
-- Short title and commencement.
+1. Short title and commencement.
 
-- Interpretation
+2. Interpretation
 
 # PART 1
 
@@ -44,25 +49,21 @@ Sections
 
 ## GOALS, OBJECTIVES AND POWERS OF THE MINISTER
 
-- Goals and objectives.
+3. Goals and objectives.
 
-- Responsibilities of the Minister.
+4. Responsibilities of the Minister.
 
-- Powers of Minister.
+5. Powers of Minister.
 
-- Annual Report.
-
-# THE EDUCATION ACT, 2008 ARRANGEMENT
-
-# PRELIMINARY
+6. Annual Report.
 
 ## DIVISION 2
 
 ## RESPONSIBILITIES OF THE DIRECTOR OF EDUCATION
 
-- Duties of Director of Education.
+7. Duties of Director of Education.
 
-- Delegation of authority by Minister.
+8. Delegation of authority by Minister.
 
 ## DIVISION 3
 
@@ -70,23 +71,21 @@ Sections
 
 ## ADVISORY BOARD
 
-- Establishment of Education Advisory Board.
+9. Establishment of Education Advisory Board.
 
-- Functions of Advisory Board.
+10. Functions of Advisory Board.
 
-- Powers of the Board to hold public hearing.
+11. Powers of the Board to hold public hearing.
 
-- Minister not bound by advice of Board.
+12. Minister not bound by advice of Board.
 
-- Special Committees.
+13. Special Committees.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-The Education Act, 2008.
-
-No. 21 of 2008. 4
+The Education Act, 2008. 4 No. 21 of 2008.
 
 # PART 2
 
@@ -98,111 +97,109 @@ No. 21 of 2008. 4
 
 ## STUDENTS RIGHTS AND RESPONSIBILITIES
 
-- Right to education.
+14. Right to education.
 
-- Responsibility to students.
+15. Responsibility to students.
 
-- Free tuition.
+16. Free tuition.
 
-- Student responsibilities.
+17. Student responsibilities.
 
-- Students accountable to teacher, principal, and Ministry.
+18. Students accountable to teacher, principal, and Ministry.
 
-- Exercise of rights.
+19. Exercise of rights.
 
 ## DIVISION 2
 
-## PARENTS' RIGHTS AND RESPONSIBILITIES
+## PARENTS’ RIGHTS AND RESPONSIBILITIES
 
-- Rights and responsibilities of parents.
+20. Rights and responsibilities of parents.
 
-- Choice of education.
+21. Choice of education.
 
-- Student records and reports.
+22. Student records and reports.
 
-- Damage to school property.
+23. Damage to school property.
 
-- Parent Teacher Association.
+24. Parent Teacher Association.
 
-- School Committees.
+25. School Committees.
 
-- Wishes of parents to be considered in education of students.
+26. Wishes of parents to be considered in education of students.
 
 ## DIVISION 3
 
 ## ADMISSION AND ATTENDANCE OF STUDENTS
 
-- Compulsory school attendance.
+27. Compulsory school attendance.
 
-- Mode of admission.
+28. Mode of admission.
 
-- Prohibition of discrimination.
+29. Prohibition of discrimination.
 
-- Age limit for secondary schools.
+30. Age limit for secondary schools.
 
-- Student Register.
+31. Student Register.
 
-- Transfer of students.
+32. Transfer of students.
 
-- Effect of contagious diseases.
+33. Effect of contagious diseases.
 
-- Readmission of student on production of medical certificate.
+34. Readmission of student on production of medical certificate.
 
-- Temporary or permanent closing of schools.
+35. Temporary or permanent closing of schools.
 
-- Zoning of schools.
+36. Zoning of schools.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-No. 21 of 2008. 5
-
-The Education Act, 2008.
+No. 21 of 2008. 5 The Education Act, 2008.
 
 ## DIVISION 4
 
 ## ENFORCEMENT OF COMPULSORY SCHOOL ATTENDANCE
 
-- Duty of parent to enforce attendance.
+37. Duty of parent to enforce attendance.
 
-- Valid excuses from attendance.
+38. Valid excuses from attendance.
 
-- School attendance counsellors.
+39. School attendance counsellors.
 
-- Responsibility of school attendance counsellor.
+40. Responsibility of school attendance counsellor.
 
-- Power to enter premises and question children.
+41. Power to enter premises and question children.
 
-- Offences against school attendance counsellors.
+42. Offences against school attendance counsellors.
 
-- Power to deliver absent student.
+43. Power to deliver absent student.
 
-- Duties of school attendance counsellor.
+44. Duties of school attendance counsellor.
 
-- Reports by principals.
+45. Reports by principals.
 
-- Liability of parent.
+46. Liability of parent.
 
-- Compulsory school age and offences.
+47. Compulsory school age and offences.
 
-- Legal proceedings.
+48. Legal proceedings.
 
 ## DIVISION 5
 
 ## DISCIPLINE, SUSPENSION AND EXPULSION OF STUDENTS
 
-- School rules to govern discipline.
+49. School rules to govern discipline.
 
-- Corporal punishment.
+50. Corporal punishment.
 
-- Abolition of corporal punishment.
+51. Abolition of corporal punishment.
 
-- Suspension for minor offences.
+52. Suspension for minor offences.
 
-- Suspension for major offences.
+53. Suspension for major offences.
 
-- Action by Director of Education.
+54. Action by Director of Education.
 
 # PART 3
 
@@ -212,67 +209,63 @@ The Education Act, 2008.
 
 ## MANAGEMENT OF PUBLIC PRIMARY SCHOOLS
 
-- Establishment and maintenance of primary schools.
+55. Establishment and maintenance of primary schools.
 
-- Management of public primary schools.
+56. Management of public primary schools.
 
-- Boards of Management.
+57. Boards of Management.
 
-- Members of a Board of Management.
+58. Members of a Board of Management.
 
-- Functions of a Board of Management for a primary school.
+59. Functions of a Board of Management for a primary school.
 
-- Submission of reports, statements and estimates.
+60. Submission of reports, statements and estimates.
 
-- Special or general directions.
+61. Special or general directions.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-The Education Act, 2008.
-
-6
-
-No. 21 of 2008.
+The Education Act, 2008. 6 No. 21 of 2008.
 
 ## DIVISION 2
 
 ## MANAGEMENT OF PUBLIC SECONDARY SCHOOLS
 
-- Application of Division.
+62. Application of Division.
 
-- Management of public secondary schools.
+63. Management of public secondary schools.
 
-- Establishment of Board of Management.
+64. Establishment of Board of Management.
 
-- Functions of Board of Management for secondary schools.
+65. Functions of Board of Management for secondary schools.
 
-- Funds and resources of a Board of Management.
+66. Funds and resources of a Board of Management.
 
-- Accounts and audit.
+67. Accounts and audit.
 
-- Annual report, statement of accounts of estimates.
+68. Annual report, statement of accounts of estimates.
 
-- Minutes of board receivable in evidence.
+69. Minutes of board receivable in evidence.
 
 ## DIVISION 3
 
 ## MANAGEMENT OF ASSISTED PRIVATE SCHOOLS
 
-- Management of private assisted primary school.
+70. Management of private assisted primary school.
 
-- Management of private assisted secondary schools.
+71. Management of private assisted secondary schools.
 
-- Denomination or proprietor may add duties.
+72. Denomination or proprietor may add duties.
 
-- Appointment of joint Board of Management.
+73. Appointment of joint Board of Management.
 
 ## DIVISION 4
 
 ## MANAGEMENT OF TERTIARY INSTITUTIONS
 
-- Establishment and management of tertiary institution.
+74. Establishment and management of tertiary institution.
 
 # PART 4
 
@@ -282,153 +275,147 @@ No. 21 of 2008.
 
 ## THE FORMS AND STAGES OF EDUCATION
 
-- Stages of public education.
+75. Stages of public education.
 
 ## DIVISION 2
 
 ## EARLY CHILDHOOD EDUCATION SERVICES
 
-- Establishment of early childhood education services.
+76. Establishment of early childhood education services.
 
-- Programmes and policies.
+77. Programmes and policies.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-No. 21 of 2008. 7
+No. 21 of 2008. 7 The Education Act, 2008.
 
-The Education Act, 2008.
+78. Insurance.
 
-- Insurance.
+79. Council on early childhood education services.
 
-- Council on early childhood education services.
-
-- Regulations.
-
-- Home education.
-
-- Termination of programme.
+80. Regulations.
 
 ## DIVISION 3
 
 ## HOME EDUCATION
 
+81. Home education.
+
+82. Termination of programme.
+
 ## DIVISION 4
 
 ## SPECIAL EDUCATION
 
-- Special education.
+83. Special education.
 
-- Determination of special educational needs.
+84. Determination of special educational needs.
 
-- Special needs appeals.
+85. Special needs appeals.
 
-- Council on special education.
+86. Council on special education.
 
 # PART 5
 
 # CATEGORIES OF EDUCATIONAL INSTITUTIONS
 
-- Organisation of schools.
-
-- Status of public schools.
-
-## DIVISION 2
-
-## PRIVATE EDUCATIONAL INSTITUTIONS
-
-- Interpretation.
-
-- Body without legal personality.
-
-- Applicability.
-
-- References and objects.
-
-- Permit.
-
-- Presumption.
-
-- Existing private educational institutions.
-
-- Private educational institutions register.
-
-- Application for registration.
+87. Organisation of schools.
 
 ## DIVISION 1
 
 ## PUBLIC SCHOOLS
 
+88. Status of public schools.
+
+## DIVISION 2
+
+## PRIVATE EDUCATIONAL INSTITUTIONS
+
+89. Interpretation.
+
+90. Body without legal personality.
+
+91. Applicability.
+
+92. References and objects.
+
+93. Permit.
+
+94. Presumption.
+
+95. Existing private educational institutions.
+
+96. Private educational institutions register.
+
+97. Application for registration.
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-The Education Act, 2008.
+The Education Act, 2008. 8 No. 21 of 2008.
 
-8
+98. Eligibility for registration.
 
-No. 21 of 2008.
+99. Refusal.
 
-- Eligibility for registration.
+100. Limitation on instruction.
 
-- Refusal.
+101. Number of students.
 
-- Limitation on instruction.
+102. Content of permit.
 
-- Number of students.
+103. Vocational education.
 
-- Content of permit.
+104. Duration and renewal of permits.
 
-- Vocational education.
+105. Modification.
 
-- Duration and renewal of permits.
+106. Transfer.
 
-- Modification.
+107. Information.
 
-- Transfer.
+108. Visits to private educational institutions.
 
-- Information.
+109. Notice to comply.
 
-- Visits to private educational institutions.
+110. Cancellation of registration.
 
-- Notice to comply.
+111. Appeal.
 
-- Cancellation of registration.
+112. Registration and closure.
 
-- Appeal.
+113. Returns.
 
-- Registration and closure.
+114. Health and sanitation.
 
-- Returns.
+115. Disqualification of teachers.
 
-- Health and sanitation.
-
-- Disqualification of teachers.
-
-- Prohibition of discrimination.
+116. Prohibition of discrimination.
 
 ## DIVISION 3
 
 ## ASSISTED PRIVATE SCHOOLS
 
-- Creation of assisted private schools.
+117. Creation of assisted private schools.
 
-- Agreement to establish assisted private schools.
+118. Agreement to establish assisted private schools.
 
-- Publication of list of assisted private schools.
+119. Publication of list of assisted private schools.
 
-- Religious education in assisted private schools.
+120. Religious education in assisted private schools.
 
-- Loans to assisted private schools.
+121. Loans to assisted private schools.
 
 ## DIVISION 4
 
 ## DENOMINATIONAL SCHOOLS
 
-- Status of denominational school.
+122. Status of denominational school.
 
-- Regulations for denominational schools.
+123. Regulations for denominational schools.
 
 # PART 6
 
@@ -436,39 +423,35 @@ No. 21 of 2008.
 
 # AND TRAINING
 
-- Establishment of Technical and Vocational Education Council.
+124. Establishment of Technical and Vocational Education Council.
 
-- Functions of Council.
+125. Functions of Council.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-No. 21 of 2008.
+No. 21 of 2008. 9 The Education Act, 2008.
 
-9
+126. Directions.
 
-The Education Act, 2008.
+127. Appointment of committees and functions thereof.
 
-- Directions.
+128. Additional functions of a committee.
 
-- Appointment of committees and functions thereof.
+129. Training schemes.
 
-- Additional functions of a committee.
+130. System for monitoring.
 
-- Training schemes.
+131. Regulations by Council.
 
-- System for monitoring.
+132. Annual report.
 
-- Regulations by Council.
+133. National policy.
 
-- Annual report.
+134. Plans for technical and vocational education.
 
-- National policy.
-
-- Plans for technical and vocational education.
-
-- Regulations by Minister.
+135. Regulations by Minister.
 
 # PART 7
 
@@ -476,65 +459,63 @@ The Education Act, 2008.
 
 # OF TEACHERS AND PRINCIPALS
 
-- Qualifications of teachers.
+136. Qualifications of teachers.
 
-- Rights of teachers.
+137. Rights of teachers.
 
-- Exercise of general professional duties.
+138. Exercise of general professional duties.
 
-- Duties of teachers.
+139. Duties of teachers.
 
-- Duties of Deputy Principal.
+140. Duties of Deputy Principal.
 
-- General responsibilities of principals.
+141. General responsibilities of principals.
 
 # PART 8
 
 # CURRICULUM AND ASSESSMENT OF STUDENTS
 
-- National curriculum.
+142. National curriculum.
 
-- Core and foundation subjects.
+143. Core and foundation subjects.
 
-- Key stages of assessment.
+144. Key stages of assessment.
 
-- Determination of attainment targets.
+145. Determination of attainment targets.
 
-- Subjects panels.
+146. Subjects panels.
 
-- Collective worship and religious education.
+147. Collective worship and religious education.
 
-- Religious education in public schools.
+148. Religious education in public schools.
 
 # PART 9
 
 # ISLAND SCHOLARSHIPS AND GRANTS
 
-- Island scholarships.
+149. Island scholarships.
 
-- Value of scholarships.
+150. Value of scholarships.
 
-- Qualifications for scholarship.
+151. Qualifications for scholarship.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-The Education Act, 2008.
+The Education Act, 2008. 10 No. 21 of 2008.
 
-No. 21 of 2008. 10
+152. Examination for scholarship.
 
-- Examination for scholarship.
+153. Entry at proposed institution.
 
-- Entry at proposed institution.
+154. Forfeiture of scholarship.
 
-- Forfeiture of scholarship.
+155. Scholar to sign undertaking.
 
-- Scholar to sign undertaking.
+156. Travel grant.
 
-- Travel grant.
-
-- Award of grants and bursaries.
+157. Award of grants and bursaries.
 
 # PART 10
 
@@ -546,55 +527,61 @@ No. 21 of 2008. 10
 
 ## INSPECTION OF EDUCATIONAL INSTITUTIONS
 
-- Inspection of educational institutions.
+158. Inspection of educational institutions.
 
-- Educational institutions to be open for inspections and visits.
+159. Educational institutions to be open for inspections and visits.
 
-- Offences.
+160. Offences.
 
 ## DIVISION 2
 
 ## REVIEW OF THE EDUCATION SYSTEM
 
-- Appointment of Education Review Committee.
+161. Appointment of Education Review Committee.
 
-- Review and report of Education Review Committee.
+162. Review and report of Education Review Committee.
 
 # PART 11
 
 # APPEALS
 
-- Establishment of Education Appeal Tribunal.
+163. Establishment of Education Appeal Tribunal.
 
-- Composition of Tribunal.
+164. Composition of Tribunal.
 
-- Mediation.
+165. Mediation.
 
-- Procedure of Tribunal.
+166. Procedure of Tribunal.
 
-- Powers of the Tribunal.
+167. Powers of the Tribunal.
 
-- Matters to be considered.
+168. Matters to be considered.
 
-- Final decision.
+169. Final decision.
 
-- Enforcement of order.
+170. Enforcement of order.
 
-- Copy to the Minister and parties.
+171. Copy to the Minister and parties.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-No. 21 of 2008. The Education Act, 2008. 11
+No. 21 of 2008. 11 The Education Act, 2008.
 
 # PART 12
 
 # MISCELLANEOUS
 
-172. Vendors on school premises. 173. Prohibition of sale of alcoholic beverages and tobacco. 174. Loitering etc. on school premises. 175. Regulations.
+172. Vendors on school premises.
 
-- Repeal.
+173. Prohibition of sale of alcoholic beverages and tobacco.
+
+174. Loitering etc. on school premises.
+
+175. Regulations.
+
+176. Repeal.
 
 Schedules
 
@@ -616,21 +603,23 @@ Schedules
 
 [[START OF PAGE 12]]
 
-No. 21 of 2008. The Education Act, 2008. 12
+The Education Act, 2008. 12 No. 21 of 2008.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-No. 21 of 2008.
+No. 21 of 2008. 13 The Education Act, 2008.
 
-13
-
-The Education Act, 2008.
+I Assent,
 
 [ L.S.]
 
-I Assent,
+Louise Lake-Tack,
+
+Governor-General.
+
+31st December, 2008
 
 ANTIGUA AND BARBUDA
 
@@ -642,73 +631,61 @@ AN ACT to provide for a regulatory system for the delivery of educational servic
 
 ENACTED by the Parliament of Antigua and Barbuda as follows:
 
-### 1.  Short title
+### 1. Short title
 
 This Act may be cited as the Education Act, 2008 and comes into operation on the date that the Minister may, by Notice published in the Gazette, appoint.
 
 ### 2. Interpretation
 
-In this Act unless the context otherwise requires -
+In this Act unless the context otherwise requires —
 
-'Adult education' means:
+“Adult education” means:
 
 (a) continuing education; and
 
 (b) training activities organised on a part-time basis suitable to the requirements of person over compulsory school age and designed to enhance knowledge, skills, attitudes or cultural awareness, but does not include tertiary education;
 
-Louise Lake-Tack,
-
-Governor-General.
-
-31st December, 2008
-
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-The Education Act, 2008.
+The Education Act, 2008. 14 No. 21 of 2008.
 
-No. 21 of 2008. 14
+“Class” in relation to a particular student and a particular subject, means the teaching group in which a student is regularly taught that subject or, where there are two or more groups, such one of them as may be designated by the principal of the school;
 
-'Class' in relation to a particular student and a particular subject, means the teaching group in which a student is regularly taught that subject or, where there are two or more groups, such one of them as may be designated by the principal of the school;
+“Compulsory school age” means the ages prescribed by the Minister during which students are obliged to attend school under section 27(1) of this Act;
 
-'Compulsory school age' means the ages prescribed by the Minister during which students are obliged to attend school under section 27(1) of this Act;
+“Early childhood education” means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
 
-'Early childhood education' means education provided either within a primary school or in an institution specially designed for that purpose and suitable to the needs of children three years of age or older but under five years of age;
+“Denominational school” means an educational institution established, managed and maintained by a religious community at its own expense;
 
-'Denominational school' means an educational institution established, managed and maintained by a religious community at its own expense;
+“Director of Education” means the person appointed as such by the Public Service Commission;
 
-'Director of Education' means the person appointed as such by the Public Service Commission;
+“Distance education” means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of media by persons removed in space or time from the learners;
 
-'Distance education' means an educational process in which a significant proportion of the teaching is conducted through one medium or a combination of media by persons removed in space or time from the learners;
+“Educational institution” means any school, training centre, or college or such other institution of higher education as may be prescribed;
 
-'Educational institution' means any school, training centre, or college or such other institution of higher education as may be prescribed;
+“Educational programme” means a course of study whether conducted in an educational institution or otherwise that is designed to meet the specified learning needs of an individual or group of persons;
 
-'Educational programme' means a course of study whether conducted in an educational institution or otherwise that is designed to meet the specified learning needs of an individual or group of persons;
+“Minister” means the Minister of Education;
 
-'Minister' means the Minister of Education;
+“Ministry” means the Ministry of Education;
 
-'Ministry' means the Ministry of Education;
+“Parent” in relation to any child, includes a guardian and every person who is liable to maintain or has the custody of any child and a person living as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
 
-'Parent' in relation to any child, includes a guardian and every person who is liable to maintain or has the custody of any child and a person living as husband with the mother of a child whether or not he is the father and a person living as wife with the father of a child whether or not she is the mother;
+“Primary education” means full-time education suited to the requirements of students of primary school age;
 
-'Primary education' means full-time education suited to the requirements of students of primary school age;
+“Primary student” means a student who at the beginning of the school year has attained the age prescribed under section 27 or will attain that age on December 31 of that same year but has not attained the age of six years;
 
-'Primary student' means a student who at the beginning of the school year has attained the age prescribed under section 27 or will attain that age on December 31 of that same year but has not attained the age of six years;
-
-'Principal' means the head of an educational institution under this Act;
+“Principal” means the head of an educational institution under this Act;
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-No. 21 of 2008.
+No. 21 of 2008. 15 The Education Act, 2008.
 
-15
-
-The Education Act, 2008.
-
-'Private educational institutions' mean schools other than public schools and assisted private schools and which are owned, managed, and financed by trusts, individuals, bodies or any incorporated or unincorporated bodies and include -
+“Private educational institutions” mean schools other than public schools and assisted private schools and which are owned, managed, and financed by trusts, individuals, bodies or any incorporated or unincorporated bodies and include -
 
 (a) a school; or
 
@@ -716,17 +693,17 @@ The Education Act, 2008.
 
 (c) an educational institution attended by twelve or more students continuously for more than eight hours per week and which is in possession of a permit issued by the Minister;
 
-'Public schools' mean schools which are wholly or mainly maintained at the public expense and to which the general public has access without any conditions other than those authorised by or under this Act;
+“Public schools” mean schools which are wholly or mainly maintained at the public expense and to which the general public has access without any conditions other than those authorised by or under this Act;
 
-'Secondary education' means full-time education suited to the requirements of students of secondary school age;
+“Secondary education” means full-time education suited to the requirements of students of secondary school age;
 
-'Student' means a person of any age for whom education is provided under this Act;
+“Student” means a person of any age for whom education is provided under this Act;
 
-'Teachers College' means an educational institution established for the purpose of training teachers for service in educational institutions;
+“Teachers College” means an educational institution established for the purpose of training teachers for service in educational institutions;
 
-'Technical College' means a school or other institution that provides for studies, training or research in technology, science, commerce or art; and
+“Technical College” means a school or other institution that provides for studies, training or research in technology, science, commerce or art; and
 
-'Tertiary education' means:
+“Tertiary education” means:
 
 (a) education suitable to the requirements of persons over compulsory school age who are not enrolled for secondary education in any school or, if enrolled in secondary education, have completed a course of secondary education; and
 
@@ -746,13 +723,11 @@ The Education Act, 2008.
 
 [[START OF PAGE 16]]
 
-The Education Act, 2008.
-
-No. 21 of 2008. 16
+The Education Act, 2008. 16 No. 21 of 2008.
 
 (1) The Minister shall, subject to available resources, establish and pursue for the education system general and specific goals and objectives as provided in subsections (2) and (3) below.
 
-(2) The general goals and objectives which the Minister shall establish and pursue are-
+(2) The general goals and objectives which the Minister shall establish and pursue are—
 
 (a) the establishment of a varied, relevant and comprehensive educational system that is characterised by excellence;
 
@@ -764,13 +739,13 @@ No. 21 of 2008. 16
 
 (e) the establishment of a co-ordinated educational system organized in accordance with this Act.
 
-(3) Without prejudice to the generality of subsection (1), the specific goals and objectives which the Minister shall establish and pursue are-
+(3) Without prejudice to the generality of subsection (1), the specific goals and objectives which the Minister shall establish and pursue are—
 
-(a) to encourage the development of the basic knowledge and skills in all persons, including-
+(a) to encourage the development of the basic knowledge and skills in all persons, including—
 
 (i) the skills of literacy, listening, speaking, reading, writing, numeracy, mathematics, analysis, problem solving, information processing, computing;
 
-(ii) critical and creative thinking skills for today's world;
+(ii) critical and creative thinking skills for today’s world;
 
 (iii) an understanding of the role of science and technology in society together with scientific and technological skills;
 
@@ -788,9 +763,7 @@ No. 21 of 2008. 16
 
 [[START OF PAGE 17]]
 
-No. 21 of 2008. 17
-
-The Education Act, 2008.
+No. 21 of 2008. 17 The Education Act, 2008.
 
 (d) to provide opportunities to reach maximum potential;
 
@@ -812,9 +785,9 @@ The Education Act, 2008.
 
 ### 4. Responsibilities of the Minister
 
-(1) The Minister shall be responsible for the overall administration of this Act and in the exercise of the powers conferred upon the Minister, may do all things necessary or convenient for the purpose of carrying out the Minister's responsibilities.
+(1) The Minister shall be responsible for the overall administration of this Act and in the exercise of the powers conferred upon the Minister, may do all things necessary or convenient for the purpose of carrying out the Minister’s responsibilities.
 
-(2) In addition to the duties referred to in subsection (1), the Minister shall be responsible for-
+(2) In addition to the duties referred to in subsection (1), the Minister shall be responsible for—
 
 (a) devising a system of education designed as far as possible to ensure that the intellectual and vocational abilities, aptitudes and interests of students find adequate expression and opportunity for development;
 
@@ -822,19 +795,15 @@ The Education Act, 2008.
 
 (c) making, subject to this Act, provision for the admission and transfer of students in public schools and assisted private schools;
 
-(d) establishing and maintaining or assisting in the establishment and maintenance of educational institutions or other facilities for tertiary, adult and continuing education and special education as the Minister considers necessary, including -
+(d) establishing and maintaining or assisting in the establishment and maintenance of educational institutions or other facilities for tertiary, adult and continuing education and special education as the Minister considers necessary, including —
 
-(i) teachers' colleges for the training of teachers; and
+(i) teachers’ colleges for the training of teachers; and
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-The Education Act, 2008.
-
-18
-
-No. 21 of 2008.
+The Education Act, 2008. 18 No. 21 of 2008.
 
 (ii) technical colleges and training centres considered necessary for fulfilling the requirements of technical and vocational education;
 
@@ -848,13 +817,13 @@ No. 21 of 2008.
 
 (i) the referral of children who have been identified by the Director of Education as having learning difficulties to appropriate medical, educational, social services or other agencies where they exist for remedial treatment or assistance;
 
-(j) providing educational opportunities for meeting the demands for higher education and in particular taking such steps as may be necessary for the carrying out of the Government's obligation to the Caribbean Examinations Council, the University of the West Indies or any other institution of higher learning; and
+(j) providing educational opportunities for meeting the demands for higher education and in particular taking such steps as may be necessary for the carrying out of the Government’s obligation to the Caribbean Examinations Council, the University of the West Indies or any other institution of higher learning; and
 
 (k) actively encouraging the formation, functioning and development of students councils in all schools and a National Student Council.
 
 ### 5. Powers of Minister
 
-(1) For the purpose of the performance of the functions under this Act, the Minister shall have power to-
+(1) For the purpose of the performance of the functions under this Act, the Minister shall have power to—
 
 (a) require attendance of persons of compulsory school age at schools established and conducted under this Act;
 
@@ -866,11 +835,7 @@ No. 21 of 2008.
 
 [[START OF PAGE 19]]
 
-No. 21 of 2008.
-
-19
-
-The Education Act, 2008.
+No. 21 of 2008. 19 The Education Act, 2008.
 
 (d) designate the grades or classes and special programmes to be offered in public schools and assisted private schools;
 
@@ -886,9 +851,9 @@ The Education Act, 2008.
 
 (j) prescribe, in accordance with this Act, curriculum for public schools and assisted private schools; and
 
-(k) provide for any other matter or do all such things as may be expedient from time to time for the carrying out of the Minister's responsibilities for education and training.
+(k) provide for any other matter or do all such things as may be expedient from time to time for the carrying out of the Minister’s responsibilities for education and training.
 
-(2) In the exercise of the powers conferred by subsection (1) (c) , (g) and (j) above, the Minister shall consult such organisations representing the teaching profession.
+(2) In the exercise of the powers conferred by subsection (1) (c), (g) and (j) above, the Minister shall consult such organisations representing the teaching profession.
 
 ### 6. Annual Report
 
@@ -902,17 +867,13 @@ The Minister shall table in Parliament an annual report on the state of educatio
 
 (1) The Director of Education shall, subject to the directions of the Minister, be responsible for the general administration of this Act.
 
-(2) The Director of Education shall-
+(2) The Director of Education shall—
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-The Education Act, 2008.
-
-20
-
-No. 21 of 2008.
+The Education Act, 2008. 20 No. 21 of 2008.
 
 (a) ensure that schools and other educational institutions are administered in a proper and efficient manner;
 
@@ -938,7 +899,7 @@ No. 21 of 2008.
 
 (1) The Minister may delegate in writing to the Director of Education any function, duty or responsibility conferred on the Minister by this Act or any regulation made under this Act, but this does not preclude the Minister from exercising any or all of the functions so delegated where the Minister considers it expedient.
 
-(2) In cases of emergency and after consultation with the Permanent Secretary and the Director of Education, the Minister may give general or special directions in writing to any public officer in the Ministry respecting the Minister's functions under this Act and the public officer shall carry out the Minister's directions.
+(2) In cases of emergency and after consultation with the Permanent Secretary and the Director of Education, the Minister may give general or special directions in writing to any public officer in the Ministry respecting the Minister’s functions under this Act and the public officer shall carry out the Minister’s directions.
 
 (3) Where by this Act or any enactment made under this Act the Director of Education is required, or permitted or otherwise to perform any function, the Director of Education may, after consulting the Permanent Secretary, authorize a public officer who is a accountable to him or her to perform the function.
 
@@ -946,9 +907,7 @@ No. 21 of 2008.
 
 [[START OF PAGE 21]]
 
-No. 21 of 2008. 21
-
-The Education Act, 2008.
+No. 21 of 2008. 21 The Education Act, 2008.
 
 ## DIVISION 3
 
@@ -958,13 +917,13 @@ The Education Act, 2008.
 
 ### 9. Establishment of Education Advisory Board
 
-- The Minister shall establish a body to be called the Education Advisory Board.
+(1) The Minister shall establish a body to be called the Education Advisory Board.
 
-- The Education Advisory Board shall consist of at least ten members including-
+(2) The Education Advisory Board shall consist of at least ten members including—
 
 (a) the principal of the Antigua State College;
 
-(b) four members nominated by the Minister in his discretion from among persons representing-
+(b) four members nominated by the Minister in his discretion from among persons representing—
 
 (i) expert educational opinion;
 
@@ -984,7 +943,7 @@ The Education Act, 2008.
 
 (g) one representative nominated by the business and professional community.
 
-(3) The representatives nominated by the Minister and the organizations specified in subsections 2 (b) , (c) , (d) , (f) and (g) above, shall be appointed by the Minister by instrument in writing with the approval of Cabinet.
+(3) The representatives nominated by the Minister and the organizations specified in subsections 2(b), (c), (d), (f) and (g) above, shall be appointed by the Minister by instrument in writing with the approval of Cabinet.
 
 (4)The Education Advisory Board shall appoint a chairperson and a vice-chairperson from among its members.
 
@@ -994,27 +953,25 @@ The Education Act, 2008.
 
 [[START OF PAGE 22]]
 
-No. 21 of 2008. 22
-
-The Education Act, 2008.
+The Education Act, 2008. 22 No. 21 of 2008.
 
 (6) The provisions of the First Schedule shall apply in respect of the constitution and procedure of the Education Advisory Board and otherwise in relation thereto.
 
-### 10.  Functions of Advisory Board
+### 10. Functions of Advisory Board
 
-(1) The Education Advisory Board shall advise the Minister on matters-
+(1) The Education Advisory Board shall advise the Minister on matters—
 
 (a) connected with education as it thinks fit;
 
-(b) respecting the performance of any of the Minister's responsibilities or the exercise of the Minister's powers under this Act as the Minister refers to it; and
+(b) respecting the performance of any of the Minister’s responsibilities or the exercise of the Minister’s powers under this Act as the Minister refers to it; and
 
 (c) relating to the promotion of education as the Minister refers to it.
 
 (2) Any advice given to the Minister, whether accepted by the Minister or not, shall be deemed confidential and so held to be by each member of the Education Advisory Board.
 
-### 11.  Powers of the Board to hold public hearing
+### 11. Powers of the Board to hold public hearing
 
-(1) Prior to advising the Minister on any matter concerning the promotion of education, the Education Advisory Board may, where it thinks advisable and with the approval of the Minister-
+(1) Prior to advising the Minister on any matter concerning the promotion of education, the Education Advisory Board may, where it thinks advisable and with the approval of the Minister—
 
 (a) hold a public hearing into the matter;
 
@@ -1024,25 +981,23 @@ The Education Act, 2008.
 
 (2) The Minister may require the Education Advisory Board to hold a public hearing respecting any matter affecting the promotion of education and when so required, the Education Advisory Board may adopt the procedure outlined in subsection (1) which it considers most appropriate.
 
-### 12.  Minister not bound by advice of Board
+### 12. Minister not bound by advice of Board
 
 (1) The Minister is not bound to accept the advice of the Education Advisory Board, and where the Minister considers it advisable the Minister may refer a matter back to the Education Advisory Board for reconsideration.
 
 (2) Where after reconsideration, pursuant to subsection (1) the Education Advisory Board adheres to the advice it had previously given, the Minister may reject the advice or adopt it either wholly or with such modification, additions or adaptations as the Minister thinks fit.
 
-### 13.  Special Committees
+### 13. Special Committees
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-No. 21 of 2008. 23
-
-The Education Act, 2008.
+No. 21 of 2008. 23 The Education Act, 2008.
 
 (1) Notwithstanding section 9, the Minister may appoint such special committees as the Minister considers necessary to advise the Minister with respect to any specific matter which may arise from time to time.
 
-(2) A special committee shall-
+(2) A special committee shall—
 
 (a) comprise such members as the Minister appoints; and
 
@@ -1060,43 +1015,43 @@ The Education Act, 2008.
 
 ## STUDENTS RIGHTS AND RESPONSIBILITIES
 
-### 14.  Right to education
+### 14. Right to education
 
 Subject to available resources, all persons are entitled to receive an educational programme appropriate to their needs in accordance with the provisions of this Act.
 
-### 15.  Responsibility to students
+### 15. Responsibility to students
 
 (1) The Director of Education shall provide to every compulsory school-age person who resides in the state an educational programme consistent with the requirements of this Act and regulations made thereunder.
 
-(2) For the purposes of providing the educational programme to the student, the Director of Education shall-
+(2) For the purposes of providing the educational programme to the student, the Director of Education shall—
 
 (a) enroll the student in an educational programme, offered by the Ministry of Education; or
 
 (b) direct the student to attend an educational programme offered by another educational institution where it is reasonable to do so.
 
-(3) Except in the case of a student who is transferred under section 54(1) (d) ,  where a student is directed to attend an educational programme pursuant to paragraph (2) (b) above, the Government shall be responsible for such fees and costs, if any, consequent to the student's attendance at the educational programme.
+(3) Except in the case of a student who is transferred under section 54(1)(d), where a student is directed to attend an educational programme pursuant to paragraph (2)(b) above, the Government
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-The Education Act, 2008.
+The Education Act, 2008. 24 No. 21 of 2008.
 
-No. 21 of 2008. 24
+shall be responsible for such fees and costs, if any, consequent to the student’s attendance at the educational programme.
 
-### 16.  Free tuition
+### 16. Free tuition
 
-(1) No tuition fees consequent to the student's attendance in an educational programme at a public school under section 27 shall be charged to the student or the parents of the student.
+(1) No tuition fees consequent to the student’s attendance in an educational programme at a public school under section 27 shall be charged to the student or the parents of the student.
 
-(2) Notwithstanding subsection (1)-
+(2) Notwithstanding subsection (1)—
 
 (a) tuition fees may be payable in such amounts, for such purposes and by such persons or classes of persons who are not citizens of any Member State or Associated Member State of the Organization of the Eastern Caribbean States as the Minister may prescribe by order published in the Gazette;
 
 (b) other charges may be imposed at a public school or assisted private school with the approval of the Minister.
 
-### 17.  Student responsibilities
+### 17. Student responsibilities
 
-Every student enrolled in a public school or assisted private school has the following responsibilities-
+Every student enrolled in a public school or assisted private school has the following responsibilities—
 
 (a) to observe the code of conduct and other rules and policies of the Ministry and of the school;
 
@@ -1106,7 +1061,7 @@ Every student enrolled in a public school or assisted private school has the fol
 
 (d) to be diligent in pursuing the prescribed curriculum; and
 
-(e) observe standards approved by the Director of Education or the principal as the case may be, with respect to-
+(e) observe standards approved by the Director of Education or the principal as the case may be, with respect to—
 
 (i) cleanliness and tidiness of the person;
 
@@ -1122,27 +1077,25 @@ Every student enrolled in a public school or assisted private school has the fol
 
 [[START OF PAGE 25]]
 
-No. 21 of 2008. 25
+No. 21 of 2008. 25 The Education Act, 2008.
 
-The Education Act, 2008.
+### 18. Students accountable to teacher, principal, and Ministry
 
-### 18.  Students accountable to teacher, principal, and Ministry
-
-(1) Every student shall be accountable-
+(1) Every student shall be accountable—
 
 (a) to the teacher for his or her conduct on the school premises during school hours and during such hours as the teacher is in charge of the student in class or while engaged in authorized school activities conducted during out-of-school hours; and
 
 (b) to the principal for his or her general deportment at any time that he or she is under the supervision of the school and members of the teaching staff, including the time spent in travelling between the school and his or her other place of residence.
 
-(2) Every student shall be under the general direction and control of-
+(2) Every student shall be under the general direction and control of—
 
-(a) the driver and conductor of a school bus, if they are employees of the  Antigua and Barbuda Transport Board; and
+(a) the driver and conductor of a school bus, if they are employees of the Antigua and Barbuda Transport Board; and
 
 (b) any person under whose supervision students are placed on the authority of the Director of Education
 
-in respect of the student's general behaviour and deportment on a school bus, or while under supervision as the case may be.
+in respect of the student’s general behaviour and deportment on a school bus, or while under supervision as the case may be.
 
-### 19.  Exercise of rights
+### 19. Exercise of rights
 
 (1) A student may express any religious, political, moral, or other belief or opinion so long as the expression does not adversely affect the rights or education of other students, or the rights of other persons in the school.
 
@@ -1150,11 +1103,11 @@ in respect of the student's general behaviour and deportment on a school bus, or
 
 ## DIVISION 2
 
-## PARENTS' RIGHTS AND RESPONSIBILITIES
+## PARENTS’ RIGHTS AND RESPONSIBILITIES
 
-### 20.  Rights and responsibilities of parents
+### 20. Rights and responsibilities of parents
 
-(1) Subject to section 19 and section 22, parents of students attending public schools and assisted private schools are entitled-
+(1) Subject to section 19 and section 22, parents of students attending public schools and assisted private schools are entitled—
 
 (a) to be informed of the progress, behaviour and attendance of their children;
 
@@ -1478,7 +1431,7 @@ No. 21 of 2008.
 
 (2) The scheme of zoning shall link the place of residence of the student and the location of the school of attendance.
 
-- Residency of a student shall be determined by the residency of the student's parents.
+(3) Residency of a student shall be determined by the residency of the student's parents.
 
 ## DIVISION 4
 
@@ -2248,7 +2201,7 @@ No. 21 of 2008.
 
 ### 76.  Establishment of early childhood education services
 
-(1) Subject to satisfying the provisions of Division 2 of Part V of this Act, a private educational institution specified in section 91 of this Act may provide an Early Childhood Services Programme suitable to the needs of children three years of age or older but under five years of age, if the parent of the child agrees.
+(1) Subject to satisfying the provisions of Division 2 of Part V of this Act, a private educational institution specified in section 91 of this Act may provide an Early Childhood Services Programme
 
 [[END OF PAGE 52]]
 
@@ -2258,7 +2211,9 @@ No. 21 of 2008. 53
 
 The Education Act, 2008.
 
-(2)  A private educational institution that provides early childhood services may charge the parents of children attending the programme fees in respect of the programme.
+suitable to the needs of children three years of age or older but under five years of age, if the parent of the child agrees.
+
+(2) A private educational institution that provides early childhood services may charge the parents of children attending the programme fees in respect of the programme.
 
 (3) A child who attends a programme under this section is not entitled to any of the rights and benefits given to a student under this Act by reason of attending that programme.
 
@@ -2272,7 +2227,7 @@ A private educational institution offering early childhood education services sh
 
 (2) The policy or other indemnification under subsection (1) above shall provide coverage to a private educational institution for all claims arising because of liability imposed by law on a private educational institution and for a liability assumed under any agreement entered into by the private educational institution.
 
-(3) A private educational institution shall ensure that in its general liability policy or other form of indemnification the word 'insured' is defined to include the named insured and any employee, board member, agent, or any other person whether receiving compensation or not, when acting within the scope of his or her duties for the named insured.
+(3) A private educational institution shall ensure that in its general liability policy or other form of indemnification the word “insured” is defined to include the named insured and any employee, board member, agent, or any other person whether receiving compensation or not, when acting within the scope of his or her duties for the named insured.
 
 ### 79.  Council on early child-hood education services
 
@@ -2288,7 +2243,9 @@ A private educational institution offering early childhood education services sh
 
 The Education Act, 2008.
 
-No. 21 of 2008. 54
+54
+
+No. 21 of 2008.
 
 (b) procedures for the conduct of its business; and
 
@@ -2368,7 +2325,9 @@ The Education Act, 2008.
 
 The Education Act, 2008.
 
-No. 21 of 2008. 56
+56
+
+No. 21 of 2008.
 
 (b) the student had failed to meet standards of student achievement, as measured by achievement testing, comparable to those of students in public schools.
 
@@ -2440,9 +2399,11 @@ The Education Act, 2008.
 
 [[START OF PAGE 58]]
 
-No. 21 of 2008. 58
-
 The Education Act, 2008.
+
+58
+
+No. 21 of 2008.
 
 (b) the individual education plan established for a student;
 
@@ -2510,7 +2471,7 @@ All public schools existing at the commencement of this Act shall be deemed to h
 
 ### 89. Interpretation
 
-The words 'institution' or 'school' where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
+The words “institution” or “school” where used in this Division to refer to the subject of rights or obligations, mean the person operating the institution or school to which the provision concerned applies.
 
 ### 90. Body without legal personality
 
@@ -2530,7 +2491,9 @@ This Act applies to every private educational institution dispensing all or some
 
 The Education Act, 2008.
 
-No. 21 of 2008. 60
+60
+
+No. 21 of 2008.
 
 (a) early childhood educational services;
 
@@ -2552,7 +2515,7 @@ No. 21 of 2008. 60
 
 ### 92.  References and object
 
-(1) Subsections (a) to (f) and (h) of section 91 refer to education or instruction intended mainly to develop students' abilities in subjects preparing them for studies at the elementary, secondary, postsecondary, tertiary or university level, as the case may be.
+(1) Subsections (a) to (f) and (h) of section 91 refer to education or instruction intended mainly to develop students' abilities in subjects preparing them for studies at the elementary, secondary, post-secondary, tertiary or university level, as the case may be.
 
 (2) Subsections (g) , and (i) of section 91 refer to vocational education or vocational training which is intended mainly to develop students' abilities so as to prepare them for an occupation, a trade or a profession.
 
@@ -2610,7 +2573,9 @@ Where a private educational institution in respect of which an application is ma
 
 The Education Act, 2008.
 
-No. 21 of 2008. 62
+62
+
+No. 21 of 2008.
 
 (d) efficient and suitable instruction equivalent to that provided in an equivalent public educational institution is being or will be provided at the private educational institution having regard to the ages and sex of the students attending the institution;
 
@@ -2692,9 +2657,11 @@ In respect of vocational education, the permit to establish a private educationa
 
 [[START OF PAGE 64]]
 
-No. 21 of 2008. 64
-
 The Education Act, 2008.
+
+64
+
+No. 21 of 2008.
 
 (c) has complied with the provisions of this Act and its regulations for the period of validity preceding the renewal.
 
@@ -2734,6 +2701,8 @@ A permit may not be transferred except with the written authorization of the Min
 
 No. 21 of 2008. 65
 
+The Education Act, 2008.
+
 (a) obstructs that person in the performance of his duties;
 
 (b) makes a false representation to that person; or
@@ -2760,13 +2729,11 @@ Where a proprietor who is served with a notice under section 109 fails, within t
 
 ### 111. Appeal
 
-(1) The proprietor of a private educational institution which is refused a permit and registration pursuant to sections 98 and 99 or whose registration is cancelled under section 110 (a) may, within thirty days of being notified of the refusal or cancellation, appeal to the Education Appeal Tribunal established pursuant to this Act against the refusal or cancellation, as the case may be.
+(1) The proprietor of a private educational institution which is refused a permit and registration pursuant to sections 98 and 99 or whose registration is cancelled under section 110(a) may, within thirty days of being notified of the refusal or cancellation, appeal to the Education Appeal Tribunal established pursuant to this Act against the refusal or cancellation, as the case may be.
 
 (2) In the case of a refusal, a proprietor may appeal on any of the following grounds-
 
 (a) that the reasons given for the decision do not disclose any failure to meet any of the requirements for registration set out in section 98 above;
-
-The Education Act, 2008.
 
 [[END OF PAGE 65]]
 
@@ -2774,7 +2741,9 @@ The Education Act, 2008.
 
 The Education Act, 2008.
 
-No. 21 of 2008. 66
+66
+
+No. 21 of 2008.
 
 (b) that the inspection of the school carried out pursuant to section 97(2) was not adequate for determining whether the school meets the requirements set out in section 99 above; or
 
@@ -2924,7 +2893,7 @@ The Education Act, 2008.
 
 ### 122. Status of denominational school
 
-Except where a denominational school agrees to become an assisted private school, it shall not lose its status whether or not it is in receipt of a Government grant or subsidy or other form of financial assistance designed to meet in whole or in part the cost of the management and maintenance of the school.
+Except where a denominational school agrees to become an assisted private school, it shall not lose its status whether or not it is in receipt of a Government grant or subsidy or other form of financial
 
 [[END OF PAGE 69]]
 
@@ -2935,6 +2904,8 @@ The Education Act, 2008.
 70
 
 No. 21 of 2008.
+
+assistance designed to meet in whole or in part the cost of the management and maintenance of the school.
 
 ### 123. Regulations for denominational schools
 
@@ -2962,7 +2933,7 @@ The Minister may make regulations respecting-
 
 ### 124. Establishment of Technical and Vocational Education Council
 
-(1) The Minister may establish a Technical and V ocational Education and Training Council whose membership shall be as follows-
+(1) The Minister may establish a Technical and Vocational Education and Training Council whose membership shall be as follows-
 
 (a) the Permanent Secretary of the Ministry of Labour who shall be an ex officio member;
 
@@ -2990,7 +2961,7 @@ The Education Act, 2008.
 
 (3) In the case of the inability of any member to act, the Minister may appoint a person to act temporarily in the place of that member.
 
-(4) The Third Schedule has effect with respect to the procedure of the Technical and V ocational Education and Training Council and otherwise in relation thereto.
+(4) The Third Schedule has effect with respect to the procedure of the Technical and Vocational Education and Training Council and otherwise in relation thereto.
 
 ### 125. Functions of Council
 
@@ -3018,7 +2989,9 @@ The functions of the Technical and Vocational Education and Training Council are
 
 The Education Act, 2008.
 
-No. 21 of 2008. 72
+72
+
+No. 21 of 2008.
 
 (i) to advise the Minister on the allocation of resources for technical and vocational education and training;
 
@@ -3088,15 +3061,17 @@ The Education Act, 2008.
 
 (h) the minimum remuneration and other conditions that apply in respect of any period during which a trainee is unable, by reason of any condition of training, or other circumstances, to render service to his employer during working hours; and
 
-(i) any other matter that, in the opinion of the Technical and V ocational Education and Training Council, with the approval of the Minister, is necessary for the effective operation of the scheme.
+(i) any other matter that, in the opinion of the Technical and Vocational Education and Training Council, with the approval of the Minister, is necessary for the effective operation of the scheme.
 
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
 
-No. 21 of 2008. 74
-
 The Education Act, 2008.
+
+74
+
+No. 21 of 2008.
 
 (4) Different conditions of training may be specified in a scheme in respect of different classes of employers, trainees or occupations and the Technical and Vocational Education and Training Council may, in determining the different conditions for any scheme, apply any method of differentiation it thinks fit.
 
@@ -3104,7 +3079,7 @@ The Education Act, 2008.
 
 ### 130. System for monitoring
 
-Subject to the approval of the Minister, the Technical and V ocational Education and Training Council shall establish an effective system for monitoring the implementation of the technical and vocational education and training strategy and plan.
+Subject to the approval of the Minister, the Technical and Vocational Education and Training Council shall establish an effective system for monitoring the implementation of the technical and vocational education and training strategy and plan.
 
 ### 131. Regulations by Council
 
@@ -3124,9 +3099,9 @@ Subject to the approval of the Minister, the Technical and V ocational Education
 
 (1) The Technical and Vocational Education and Training Council shall, not later than six months after the end of the school year, submit to the Minister a report containing-
 
-(a) an account of the activities of the Technical and V ocational Education and Training Council throughout the preceding financial year in such detail as the Minister directs; and
+(a) an account of the activities of the Technical and Vocational Education and Training Council throughout the preceding financial year in such detail as the Minister directs; and
 
-(b) a statement of the accounts of the Technical and V ocational Education and Training Council for that financial year audited in accordance with regulations enacted for that purpose.
+(b) a statement of the accounts of the Technical and Vocational Education and Training Council for that financial year audited in accordance with regulations enacted for that purpose.
 
 [[END OF PAGE 74]]
 
@@ -3136,7 +3111,7 @@ No. 21 of 2008. 75
 
 The Education Act, 2008.
 
-(2) A copy of the report of the Technical and V ocational Education and Training Council referred to in subsection (1) above shall be printed and laid before Parliament and published in the Gazette .
+(2) A copy of the report of the Technical and Vocational Education and Training Council referred to in subsection (1) above shall be printed and laid before Parliament and published in the Gazette.
 
 ### 133. National policy
 
@@ -3176,7 +3151,9 @@ The Minister may make regulations-
 
 The Education Act, 2008.
 
-No. 21 of 2008. 76
+76
+
+No. 21 of 2008.
 
 # PART 7
 
@@ -3328,7 +3305,9 @@ The Education Act, 2008.
 
 The Education Act, 2008.
 
-No. 21 of 2008. 80
+80
+
+No. 21 of 2008.
 
 (b) ensure the observance of the provisions of the Education Act and any regulations made under it;
 
@@ -3400,9 +3379,11 @@ The Education Act, 2008.
 
 [[START OF PAGE 82]]
 
-No. 21 of 2008. 82
-
 The Education Act, 2008.
+
+82
+
+No. 21 of 2008.
 
 # PART 8
 
@@ -3476,13 +3457,17 @@ same time as the school year in which the majority of students in his class atta
 
 that the Minister considers appropriate.
 
-(2) A notice issued under subsection (1) above may not require that- The Education Act, 2008.
+(2) A notice issued under subsection (1) above may not require that-
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
 
-No. 21 of 2008. 84
+The Education Act, 2008.
+
+84
+
+No. 21 of 2008.
 
 (a) any particular period or periods of time should be allocated during any key stage to the teaching of any programme of study or any matter, skill or process forming part of it; or
 
@@ -3560,7 +3545,9 @@ The Education Act, 2008.
 
 The Education Act, 2008.
 
-No. 21 of 2008. 86
+86
+
+No. 21 of 2008.
 
 ### 150. Value of scholarships
 
@@ -3708,9 +3695,11 @@ commits an offence and is liable on summary conviction to a fine not exceeding o
 
 [[START OF PAGE 90]]
 
-No. 21 of 2008. 90
-
 The Education Act, 2008.
+
+90
+
+No. 21 of 2008.
 
 ## DIVISION 2
 
@@ -3758,7 +3747,9 @@ The Education Act, 2008.
 
 No. 21 of 2008.
 
-The Education Act, 2008. 91
+91
+
+The Education Act, 2008.
 
 (i) the assessments held in accordance with sections 144 (1) and (2);
 
@@ -3794,15 +3785,19 @@ The Education Act, 2008. 91
 
 (3) The chairperson and the members of the Education Appeal Tribunal shall be appointed for the terms and in the manner specified by the Minister.
 
-(4) The Minister may solicit and consider nominations for the membership of the Education Appeal Tribunal from groups interested in education in Antigua and Barbuda The Education Act, 2008.
+(4) The Minister may solicit and consider nominations for the membership of the Education Appeal Tribunal from groups interested in education in Antigua and Barbuda
 
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
 
-No. 21 of 2008. 92
+The Education Act, 2008.
 
-(5) The chairperson and the members of the Education Appeal Tribunal shall swear an oath of nondisclosure in the form prescribed by the Minister for information gained during an appeal in accordance with this Part.
+92
+
+No. 21 of 2008.
+
+(5) The chairperson and the members of the Education Appeal Tribunal shall swear an oath of non-disclosure in the form prescribed by the Minister for information gained during an appeal in accordance with this Part.
 
 ### 164. The Composition of Tribunal
 
@@ -3886,9 +3881,15 @@ A copy of the decision of the Education Appeal Tribunal shall be sent to the Min
 
 [[START OF PAGE 94]]
 
-No. 21 of 2008. 94
-
 The Education Act, 2008.
+
+94
+
+No. 21 of 2008.
+
+# PART 12
+
+# MISCELLANEOUS
 
 ### 172. Vendors on school premises
 
@@ -3911,10 +3912,6 @@ The Education Act, 2008.
 ### 173. Prohibition of sale of alcoholic beverages and tobacco
 
 Any person who sells, offers or exposes for sale any alcoholic beverage or tobacco on the premises of any educational institution whether public or private commits an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term of one year or both.
-
-# PART 12
-
-# MISCELLANEOUS
 
 [[END OF PAGE 94]]
 
@@ -3966,7 +3963,9 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 
 The Education Act, 2008.
 
-No. 21 of 2008. 96
+96
+
+No. 21 of 2008.
 
 (b) concerning the control and management and conduct and registration of private educational institutions and in particular in respect of-
 
@@ -4046,11 +4045,19 @@ The Education Act Cap. 145 is repealed.
 
 The Education Act, 2008.
 
-No. 21 of 2008. 98
+98
+
+No. 21 of 2008.
+
+# FIRST SCHEDULE
+
+[Section 9(6)]
+
+# EDUCATION ADVISORY BOARD
 
 ### 1. Definition
 
-In this Schedule, 'Board' means the Education Advisory Board appointed under section 9 of the Education Act.
+In this Schedule, “Board” means the Education Advisory Board appointed under section 9 of the Education Act.
 
 ### 2. Tenure
 
@@ -4077,12 +4084,6 @@ Any member of the Board who fails to attend three consecutive meetings without e
 ### 7. Filling of vacancies
 
 If any vacancy occurs in the membership of the Board such vacancy shall be filled by the appointment
-
-# FIRST SCHEDULE
-
-[Section 9(6)]
-
-# EDUCATION ADVISORY BOARD
 
 [[END OF PAGE 98]]
 
@@ -4140,17 +4141,23 @@ No. 21 of 2008.
 
 Minutes of the proceeding of the Board shall be kept in proper form
 
+# SECOND SCHEDULE
+
+[Sections 57, 64, 70 and 71]
+
 # CONSTITUTION, PROCEDURE, AND FUNCTIONS OF
+
+# BOARDS OF MANAGEMENT
 
 ### 1.  Interpretation
 
-In this Schedule 'Board' means a Board of Management appointed under sections 57, 64, 70 and 71 of the Education Act.
+In this Schedule “Board” means a Board of Management appointed under sections 57, 64, 70 and 71 of the Education Act.
 
 ### 2.  Chairperson and Deputy-Chairperson
 
 (1) Except in cases of Boards established under sections 70 and 71 of the Education Act, a Board shall elect a chairperson and a deputy chairperson from among its members.
 
-(2) The membership of a Board as first constituted and any changes therein shall be notified in the Gazette .
+(2) The membership of a Board as first constituted and any changes therein shall be notified in the Gazette.
 
 ### 3.  Filling of vacancies
 
@@ -4165,10 +4172,6 @@ If any vacancy occurs in the membership of a Board such vacancy shall be filled 
 ### 5.  Duration of membership
 
 (1) Every member of a Board shall hold office for a term of three years unless, before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the ap-
-
-# SECOND SCHEDULE
-[Sections 57, 64, 70 and 71]
-# BOARDS OF MANAGEMENT
 
 [[END OF PAGE 100]]
 
@@ -4192,11 +4195,11 @@ pointing authority under sections 70 and 71 of the Education Act or ceases to be
 
 (1) A Board shall meet at least once in every school term and at such other times as may be necessary or expedient for the transaction of its business and such meetings shall be held at such places and times on such days as the chairperson may determine.
 
-(2) The chairperson-
+(2) The chairperson—
 
 (a) may at any time summon a meeting of a Board; and
 
-(b) shall summon a meeting within seven days-
+(b) shall summon a meeting within seven days—
 
 (i) on a request for that purpose addressed to the chairperson by any three members of a Board; or
 
@@ -4270,11 +4273,11 @@ Without prejudice to section 11, a Board, after consultation with the Minister, 
 
 ### 1.  Definition
 
-In this Schedule, 'Council' means the Technical and Vocational Education and Training Council appointed under section 124 of the Education Act.
+In this Schedule, “Council” means the Technical and Vocational Education and Training Council appointed under section 124 of the Education Act.
 
 ### 2.  Duration of appointment
 
-A member of the Council holds office for a term of 3 years unless he dies, resigns or has his or her appointment revoked before the end of that term, but-
+A member of the Council holds office for a term of 3 years unless he dies, resigns or has his or her appointment revoked before the end of that term, but—
 
 (a) a person who is appointed to fill a vacancy created by the death, resignation or removal from office of a member shall hold office only for the unexpired portion of the term of that former member; and
 
@@ -4318,9 +4321,9 @@ The Council is required to meet at such times as may be expedient for the transa
 
 The chairperson or, in the event of his being absent from Antigua and Barbuda or for any reason is unable to act, the deputy chairperson, is required to call a special meeting within 7 days after receiving a requisition to do so by any 4 members of the Council.
 
-### 10.  Minister
+### 10.  Minutes
 
-Minutes of each meeting are to be duly kept by the Secretary of other person appointed by the Council for the purpose, and are to be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
+Minutes of each meeting are to be duly kept by the Secretary or other person appointed by the Council for the purpose, and are to be confirmed by the Council at its next meeting and signed by the chairperson or other person presiding at that meeting and the Secretary.
 
 ### 11. Co-opting of other persons
 
@@ -4356,15 +4359,15 @@ All documents made by, and all decisions of, the Council are to be signified und
 
 ### 1.  Definition
 
-In this Schedule-
+In this Schedule—
 
-(a) 'Council' means the Technical and V ocational Education and Training Council appointed under section 124 of the Education Act; and
+(a) “Council” means the Technical and Vocational Education and Training Council appointed under section 124 of the Education Act; and
 
-(b) 'committee' means a committee appointed by the Technical and Vocational Education and Training Council under section 127 of the Education Act.
+(b) “committee” means a committee appointed by the Technical and Vocational Education and Training Council under section 127 of the Education Act.
 
 ### 2.  Composition
 
-- A committee comprises not more than 5 persons.
+(1) A committee comprises not more than 5 persons.
 
 (2) The Council shall, in respect of a committee, appoint one member of that committee to be chairperson.
 
@@ -4372,7 +4375,7 @@ In this Schedule-
 
 (1) A member of a committee may, with the permission of the chairperson of that committee, appoint a person to act for him or her in case of his or her absence from a particular meeting.
 
-- No person appointed to act as a member of a committee in pursuance of sub-section (1) may
+(2) No person appointed to act as a member of a committee in pursuance of sub-section (1) may
 
 [[END OF PAGE 105]]
 
@@ -4396,7 +4399,7 @@ Where a vacancy occurs in respect of a committee, the Council may appoint a pers
 
 ### 6.  Revocation of membership
 
-The Council may revoke the appointment of a member of a committee who-
+The Council may revoke the appointment of a member of a committee who—
 
 (a) is absent from three consecutive meetings of the committee without leave of the Council;
 
@@ -4440,9 +4443,19 @@ it with respect to any matter with which it is dealing, but a co-opted person is
 
 ### 12.  Establishment of Sub-committees
 
-A committee may establish a sub-committee to assist in the performance of its functions and may coopt to serve on any such sub-committee, any person whose assistance and advice the committee considers necessary for the purpose for which the sub-committee is established.
+A committee may establish a sub-committee to assist in the performance of its functions and may co-opt to serve on any such sub-committee, any person whose assistance and advice the committee considers necessary for the purpose for which the sub-committee is established.
 
-Passed  the House of Representatives  on the 10th day of November, 2008.
+Passed the Senate on the 13th day of November, 2008.
+
+McKenzie Frank,
+
+President.
+
+T. Thomas,
+
+Acting Clerk to the Senate.
+
+Passed the House of Representatives on the 10th day of November, 2008.
 
 D. Gisele Isaac-Arrindell,
 
@@ -4451,13 +4464,5 @@ Speaker.
 T. Thomas,
 
 Acting Clerk to the House of Representatives.
-
-Passed the Senate on the 13th day of November, 2008.
-
-McKenzie Frank, President.
-
-T. Thomas,
-
-Acting Clerk to the Senate.
 
 [[END OF PAGE 107]]
