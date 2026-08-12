@@ -16,13 +16,15 @@ La Ley 49 de 1984, que aprobó originalmente el actual RORI de la Asamblea Nacio
 
 Además, se incluyen varios anexos: por un lado, las normas del Texto Único del RORI de 2009, que continuarán vigentes hasta el 30 de junio de 2010, y las normas de dicho Texto Único  que  continuarán  vigentes  hasta  el  30  de  junio  de 2014. Por motivos obvios, estas disposiciones deben estar al alcance de los operadores parlamentarios mientras deban ser aplicadas.
 
-Igualmente se incluyen en los anexos algunas de las principales  resoluciones  plenarias  referidas  a  procedimientos parlamentarios, que completan el articulado del RORI; una tabla que presenta la duración máxima de las intervenciones de los Diputados en los distintos procedimientos y otra tabla, en el que se expresan las mayorías requeridas para aprobar las diversas cuestiones sometidas a la consideración de los Diputados.
+Igualmente se incluyen en los anexos algunas de las principales resoluciones plenarias referidas a procedimientos parlamentarios, que completan el articulado del RORI; una tabla que presenta la duración máxima de las intervenciones de los Diputados en los distintos procedimientos y otra tabla,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-En  lo  referente  a  la  Constitución  Política  de  la  República, originalmente adoptada en 1972, conviene tener presente que también ha sufrido múltiples modificaciones: en 1978, 1983, 1994 y 2004. El último Texto Único de la Constitución Política fue publicado en la Gaceta Oficial No. 25176, después de la reforma constitucional de 2004.
+en el que se expresan las mayorías requeridas para aprobar las diversas cuestiones sometidas a la consideración de los Diputados.
+
+En lo referente a la Constitución Política de la República, originalmente adoptada en 1972, conviene tener presente que también ha sufrido múltiples modificaciones: en 1978, 1983, 1994 y 2004. El último Texto Único de la Constitución Política fue publicado en la Gaceta Oficial No. 25176, después de la reforma constitucional de 2004.
 
 Sin embargo, el Texto Único de la Constitución Política que aparece en la Gaceta Oficial No. 25176 no siempre reproduce con exactitud las disposiciones que fueron adoptadas por el constituyente en cada reforma constitucional. Esto ha sido destacado  acertadamente  en  diversas  impresiones  de  la Constitución, tanto producidas por entidades estatales como por editores particulares.
 
@@ -40,11 +42,97 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 ## TABLA DE CONTENIDO
 
+Preámbulo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Título I
+El Estado Panameño (art.1-7). . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Título II
+Nacionalidad y Extranjería (art.8-16). . . . . . . . . . . . . . . . . . . . . . . 14
+
+Título III
+Derechos y Deberes Individuales y Sociales (art.17-130). . . . . 16
+
+Capítulo 1°
+Garantías Fundamentales (art.17-55). . . . . . . . . . . . . . . . . . . 16
+
+Capítulo 2°
+La Familia (art.56-63). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Capítulo 3°
+El Trabajo (art.64-79). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Capítulo 4°
+Cultura Nacional (art.80-90). . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Capítulo 5°
+Educación (art.91-108). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+Capítulo 6°
+Salud, Seguridad Social y Asistencia Social
+(art.109-117). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Capítulo 7°
+Régimen Ecológico (art.118-121). . . . . . . . . . . . . . . . . . . . . . 38
+
+Capítulo 8°
+Régimen Agrario (art.122-128). . . . . . . . . . . . . . . . . . . . . . . . 39
+
+Capítulo 9°
+Defensoría del Pueblo (art.129-130). . . . . . . . . . . . . . . . . . . . 41
+
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 9
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+Título IV
+Derechos Políticos (art.131-145). . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+Capítulo 1°
+De la Ciudadanía (art.131-134). . . . . . . . . . . . . . . . . . . . . . . . 42
+
+Capítulo 2°
+El Sufragio (art.135-141). . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+Capítulo 3°
+El Tribunal Electoral (art.142-145). . . . . . . . . . . . . . . . . . . . . 44
+
+Título V
+El Órgano Legislativo (art.146-174). . . . . . . . . . . . . . . . . . . . . . 47
+
+Capítulo 1°
+Asamblea Nacional (art.146-163). . . . . . . . . . . . . . . . . . . . . 47
+
+Capítulo 2°
+Formación de las Leyes (art.164-174). . . . . . . . . . . . . . . . . . 58
+
+Título VI
+El Órgano Ejecutivo (art.175-200). . . . . . . . . . . . . . . . . . . . . . . 61
+
+Capítulo 1°
+Presidente y Vicepresidente de la República
+(art.175-193). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+Capítulo 2°
+Los Ministros de Estado (art.194-198). . . . . . . . . . . . . . . . . . 68
+
+Capítulo 3°
+El Consejo de Gabinete (art.199-200). . . . . . . . . . . . . . . . . . 69
+
+Título VII
+La Administración de Justicia (art.201-224). . . . . . . . . . . . . . . 71
+
+Capítulo 1°
+Órgano Judicial (art.201-218). . . . . . . . . . . . . . . . . . . . . . . . 71
+
+Capítulo 2°
+El Ministerio Público (art.219-224). . . . . . . . . . . . . . . . . . . . 76
+
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 10 .
 
 [[END OF PAGE 5]]
 
@@ -52,11 +140,79 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
+Título VIII
+Regímenes Municipal y Provinciales (art.225-256). . . . . . . . . . 78
+
+Capítulo 1°
+Representantes de Corregimiento (art.225-231). . . . . . . . . 78
+
+Capítulo 2°
+El Régimen Municipal (art.232-251). . . . . . . . . . . . . . . . . . . 79
+
+Capítulo 3°
+El Régimen Provincial (art.252-256). . . . . . . . . . . . . . . . . . . 84
+
+Título IX
+La Hacienda Pública (art.257-281). . . . . . . . . . . . . . . . . . . . . . . 86
+
+Capítulo 1°
+Bienes y Derechos del Estado (art.257-266). . . . . . . . . . . . 86
+
+Capítulo 2°
+El Presupuesto General del Estado (art.267-278). . . . . . . . 89
+
+Capítulo 3°
+La Contraloría General de la República
+(art.279-280). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+
+Capítulo 4°
+Tribunal de Cuentas (art.281). . . . . . . . . . . . . . . . . . . . . . . . 93
+
+Título X
+La Economía Nacional (art.282-298). . . . . . . . . . . . . . . . . . . . . 94
+
+Título XI
+Los Servidores Públicos (art.299-309). . . . . . . . . . . . . . . . . . . 99
+
+Capítulo 1°
+Disposiciones Fundamentales (art.299-301). . . . . . . . . . . . 99
+
+Capítulo 2°
+Principios Básicos de la Administración de Personal
+(art.302-304). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Capítulo 3°
+Organización de la Administración de Personal
+(art.305-307). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 11
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+Capítulo 4°
+Disposiciones Generales (art.308-309). . . . . . . . . . . . . . . . 102
+
+Título XII
+Fuerza Pública (art.310-312). . . . . . . . . . . . . . . . . . . . . . . . . . 102
+
+Título XIII
+Reforma de la Constitución (art.313-314). . . . . . . . . . . . . . . 103
+
+Título XIV
+El Canal de Panamá (art.315-323). . . . . . . . . . . . . . . . . . . . . . 106
+
+Título XV
+Disposiciones Finales y Transitorias (art.324-328). . . . . . . . . 110
+
+Capítulo 1°
+Disposiciones Finales (art.324-326). . . . . . . . . . . . . . . . . . 110
+
+Capítulo 2°
+Disposiciones Transitorias (art.327-328). . . . . . . . . . . . . . 111
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 12 .
 
@@ -79,7 +235,7 @@ La Nación panameña está organizada en Estado soberano  e  independiente,  cuy
 El Poder Público sólo emana del pueblo. Lo ejerce el Estado conforme esta Constitución lo establece, por medio de los Órganos Legislativo, Ejecutivo y Judicial, los cuales actúan limitada y separadamente, pero en armónica colaboración.
 
 #### ARTICULO 3.
-El territorio de la República de Panamá comprende la superficie terrestre, el mar territorial, la plataforma continental submarina, el subsuelo y el espacio aéreo entre Colombia y Costa Rica de acuerdo con los tratados de limites celebrados por Panamá y esos Estados.
+El territorio de la República de Panamá comprende la superficie terrestre, el mar territorial, la plataforma continental submarina, el subsuelo y el espacio aéreo entre Colombia y Costa Rica de acuerdo con los tratados de límites celebrados por Panamá y esos Estados.
 
 El territorio nacional no podrá ser jamás cedido, traspasado o enajenado, ni temporal ni parcialmente, a otros Estados.
 
@@ -113,18 +269,18 @@ La  nacionalidad  panameña  se  adquiere  por  el nacimiento,  por  la  natural
 #### ARTICULO 9.
 Son panameños por nacimiento:
 
-- Los nacidos en el territorio nacional.
+1. Los nacidos en el territorio nacional.
 
-- Los hijos de padre o madre panameños por nacimiento nacidos fuera del territorio  de  la  República,  si  aquellos establecen su domicilio en el territorio nacional.
+2. Los hijos de padre o madre panameños por nacimiento nacidos fuera del territorio de la República, si aquellos establecen su domicilio en el territorio nacional.
 
-- Los hijos de padre o madre panameños por naturalización nacidos fuera del territorio nacional, si aquellos establecen su domicilio en la República de Panamá y manifiestan su voluntad de acogerse a la nacionalidad panameña a más tardar un año después de su mayoría de edad.
+3. Los hijos de padre o madre panameños por naturalización nacidos fuera del territorio nacional, si aquellos establecen su domicilio en la República de Panamá y manifiestan su voluntad de acogerse a la nacionalidad panameña a más tardar un año después de su mayoría de edad.
 
 #### ARTICULO 10.
 Pueden solicitar la nacionalidad panameña por naturalización:
 
-- Los extranjeros con cinco años consecutivos de residencia en  el  territorio  de  la  República  si,  después  de  haber alcanzado su mayoría de edad, declaran su voluntad de naturalizarse, renuncian expresamente a su nacionalidad de  origen  o  a  la  que  tengan  y  comprueban  que  poseen el idioma español y conocimientos básicos de geografía, historia y organización política panameñas.
+1. Los extranjeros con cinco años consecutivos de residencia en el territorio de la República si, después de haber alcanzado su mayoría de edad, declaran su voluntad de naturalizarse, renuncian expresamente a su nacionalidad de origen o a la que tengan y comprueban que poseen el idioma español y conocimientos básicos de geografía, historia y organización política panameñas.
 
-- Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 14 .
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 14 .
 
 [[END OF PAGE 9]]
 
@@ -132,9 +288,9 @@ Pueden solicitar la nacionalidad panameña por naturalización:
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
-- Los extranjeros con tres años consecutivos de residencia en el territorio de la República que tengan hijos nacidos en  ésta,  de  padre  o  madre  panameños  o  cónyuge  de nacionalidad panameña, si hacen la declaración y presentan la comprobación de que trata el aparte anterior.
+2. Los extranjeros con tres años consecutivos de residencia en el territorio de la República que tengan hijos nacidos en ésta, de padre o madre panameños o cónyuge de nacionalidad panameña, si hacen la declaración y presentan la comprobación de que trata el aparte anterior.
 
-- Los nacionales por nacimiento, de España o de un Estado latinoamericano,  si  llenan  los  mismos  requisitos  que en  su  país  de  origen  se  exigen  a  los  panameños  para naturalizarse.
+3. Los nacionales por nacimiento, de España o de un Estado latinoamericano, si llenan los mismos requisitos que en su país de origen se exigen a los panameños para naturalizarse.
 
 #### ARTICULO 11.
 Son panameños por disposición constitucional y sin necesidad de carta de naturaleza, los nacidos en el extranjero y adoptados antes de cumplir siete años por nacionales panameños. En este caso, la nacionalidad se adquiere a partir del momento en que la adopción se inscriba en el Registro Civil panameño.
@@ -184,7 +340,7 @@ No habrá fueros o privilegios ni discriminación por razón de raza, nacimiento
 #### ARTICULO 20.
 Los panameños y los extranjeros son iguales ante la  Ley,  pero  ésta  podrá,  por  razones  de  trabajo,  de  salubridad, moralidad,  seguridad  pública  y  economía  nacional,  subordinar
 
-- Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 16 .
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 16 .
 
 [[END OF PAGE 11]]
 
@@ -199,7 +355,7 @@ Nadie puede ser privado de su libertad, sino en virtud de mandamiento escrito de
 
 El delincuente sorprendido in fraganti puede ser aprehendido por cualquier persona y debe ser entregado inmediatamente a la autoridad.
 
-Nadie  puede  estar  detenido  más  de  veinticuatro  horas  sin ser puesto a ordenes de la autoridad competente. Los servidores públicos que violen este precepto tienen como sanción la pérdida del empleo, sin perjuicio de las penas que para el efecto establezca la Ley.
+Nadie puede estar detenido más de veinticuatro horas sin ser puesto a órdenes de la autoridad competente. Los servidores públicos que violen este precepto tienen como sanción la pérdida del empleo, sin perjuicio de las penas que para el efecto establezca la Ley.
 
 No hay prisión, detención o arresto por deuda u obligaciones puramente civiles.
 
@@ -229,7 +385,7 @@ El  hábeas  corpus  también  procederá  cuando  exista  una amenaza real o ci
 El Estado no podrá extraditar a sus nacionales; ni a los extranjeros por delitos políticos.
 
 #### ARTICULO 25.
-Nadie está obligado a declarar en asunto criminal, correccional  o  de  policía,  contra  sí  mismo,  su  cónyuge  o  sus parientes dentro del cuarto grado de consaguinidad o segundo de afinidad.
+Nadie está obligado a declarar en asunto criminal, correccional o de policía, contra sí mismo, su cónyuge o sus parientes dentro del cuarto grado de consanguinidad o segundo de afinidad.
 
 #### ARTICULO 26.
 El domicilio o residencia son inviolables. Nadie puede entrar en ellos sin el consentimiento de su dueño, a no ser por mandato escrito de autoridad competente y para fines específicos, o para socorrer a víctimas de crímenes o desastres.
@@ -283,9 +439,9 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 #### ARTICULO 33.
 Pueden sancionar sin juicio previo, en los casos y dentro de los precisos términos de la Ley:
 
-- Los jefes de la Fuerza Pública, quienes pueden imponer  sanciones  a  sus  subalternos  para  contener  una insubordinación o un motín, o por falta disciplinaria.
+1. Los jefes de la Fuerza Pública, quienes pueden imponer sanciones a sus subalternos para contener una insubordinación o un motín, o por falta disciplinaria.
 
-- Los  capitanes  de  buques  o  aeronaves,  quienes  estando fuera de puerto tienen facultad para contener una insubordinación o un motín, o mantener el orden a bordo, y para detener provisionalmente a cualquier delincuente real o presunto.
+2. Los capitanes de buques o aeronaves, quienes estando fuera de puerto tienen facultad para contener una insubordinación o un motín, o mantener el orden a bordo, y para detener provisionalmente a cualquier delincuente real o presunto.
 
 #### ARTICULO 34.
 En caso de infracción manifiesta de un precepto constitucional o legal, en detrimento de alguna persona, el mandato superior no exime de responsabilidad al agente que lo ejecuta. Se exceptúan  los  miembros  de  la  Fuerza  Pública  cuando  estén  en servicio, en cuyo caso la responsabilidad recae únicamente sobre el superior jerárquico que imparta la orden.
@@ -438,7 +594,7 @@ El  Estado  protegerá  la  salud  física,  mental  y  moral  de  los menores y
 El  matrimonio  es el  fundamento  legal  de  la familia, descansa en la igualdad de derechos de los cónyuges y puede ser disuelto de acuerdo con la Ley.
 
 #### ARTICULO  58.
-La unión  de  hecho  entre  personas  de  distinto sexo legalmente capacitadas para contraer matrimonio, mantenida durante cinco años consecutivos en condiciones de singularidad y estabilidad, surtirá todos los efectos del matrimonio civil. Para este fin, bastará que las partes interesadas soliciten conjuntamente al Registro Civil la inscripción del matrimonio de hecho. Cuando no se haya efectuado esa solicitud, el matrimonio podrá comprobarse, para los efectos de la reclamación de sus derechos, por uno de los cónyuges u otro interesado, mediante los trámites que determine la Ley. Podrán, no obstante, oponerse a que se haga la inscripción o impugnarla después de hecha, el Ministerio Público en interés de  la  moral  y  de  la  Ley,  o  los  terceros  que  aleguen  derechos susceptibles de ser afectados por la inscripción, si la declaración fuere contraria a la realidad de los hechos.
+La unión de hecho entre personas de distinto sexo legalmente capacitadas para contraer matrimonio, mantenida durante cinco años consecutivos en condiciones de singularidad y estabilidad, surtirá todos los efectos del matrimonio civil. Para este fin, bastará que las partes interesadas soliciten conjuntamente al Registro Civil la inscripción del matrimonio de hecho. Cuando no se haya efectuado esa solicitud, el matrimonio podrá comprobarse, para los efectos de la reclamación de sus derechos, por uno de los
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 25
 
@@ -447,6 +603,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 21]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+cónyuges u otro interesado, mediante los trámites que determine la Ley. Podrán, no obstante, oponerse a que se haga la inscripción o impugnarla después de hecha, el Ministerio Público en interés de la moral y de la Ley, o los terceros que aleguen derechos susceptibles de ser afectados por la inscripción, si la declaración fuere contraria a la realidad de los hechos.
 
 #### ARTICULO 59.
 La patria  potestad  es  el  conjunto  de  deberes  y derechos que tienen los padres en relación con los hijos.
@@ -481,11 +639,11 @@ El  Estado  velará  por  el  mejoramiento  social y  económico  de  la  famili
 #### ARTICULO  63.
 El  Estado  creará  un  organismo  destinado  a proteger la familia con el fin de:
 
-- Promover  la  paternidad  y  la  maternidad  responsables mediante la educación familiar.
+1. Promover la paternidad y la maternidad responsables mediante la educación familiar.
 
-- Institucionalizar la educación de los párvulos en centros especializados  para  atender  aquellos  cuyos  padres  o tutores así lo soliciten.
+2. Institucionalizar la educación de los párvulos en centros especializados para atender aquellos cuyos padres o tutores así lo soliciten.
 
-- Proteger a los menores y ancianos, y custodiar y readaptar socialmente a los abandonados, desamparados, en peligro moral o con desajustes de conducta.
+3. Proteger a los menores y ancianos, y custodiar y readaptar socialmente a los abandonados, desamparados, en peligro moral o con desajustes de conducta.
 
 La  Ley  organizará  y  determinará  el  funcionamiento  de  la jurisdicción  especial  de  menores  la  cual,  entre  otras  funciones, conocerá sobre la investigación de la paternidad, el abandono de familia y los problemas de conducta juvenil.
 
@@ -495,7 +653,7 @@ La  Ley  organizará  y  determinará  el  funcionamiento  de  la jurisdicción 
 El trabajo es un derecho y un deber del individuo, y  por  lo  tanto  es  una  obligación  del  Estado  elaborar  políticas económicas encaminadas a promover el pleno empleo y asegurar a  todo  trabajador  las  condiciones  necesarias  a  una  existencia decorosa.
 
 #### ARTICULO 65.
-A todo  trabajador  al  servicio  del  Estado  o  de empresas públicas o privadas o de individuos particulares se le garantiza  su  salario  o  sueldo  mínimo.  Los  trabajadores  de  las empresas que la Ley determine participarán en las utilidades de las mismas, de acuerdo con las condiciones económicas del país.
+A todo trabajador al servicio del Estado o de empresas públicas o privadas o de individuos particulares se le garantiza su salario o sueldo mínimo. Los trabajadores de las
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 27
 
@@ -504,6 +662,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 23]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+empresas que la Ley determine participarán en las utilidades de las mismas, de acuerdo con las condiciones económicas del país.
 
 #### ARTICULO  66.
 La Ley establecerá la manera de ajustar periódicamente el salario o sueldo mínimo del trabajador, con el fin de cubrir las necesidades normales de su familia, mejorar su nivel de vida, según las condiciones particulares de cada región y de cada actividad económica; podrá determinar asimismo el método para fijar salarios o sueldos mínimos por profesión u oficio.
@@ -550,7 +710,7 @@ La Ley podrá establecer el descanso semanal remunerado de acuerdo con las condi
 Son  nulas  y,  por  lo  tanto,  no  obligan  a  los contratantes, aunque se expresen en un convenio de trabajo o en otro pacto cualquiera, las estipulaciones que impliquen renuncia, disminución, adulteración o dejación de algún derecho reconocido a favor del trabajador. La Ley regulará todo lo relativo al contrato de trabajo.
 
 #### ARTICULO 72.
-Se protege la maternidad de la mujer trabajadora. La que esté en estado de gravidez no podrá ser separada de su empleo público o particular por esta causa. Durante un mínimo de seis semanas precedentes al parto y las ocho que le siguen, gozará de descanso forzoso retribuido del mismo modo que su trabajo y conservará el empleo y todos los derechos correspondientes a su contrato. AI reincorporarse la madre trabajadora a su empleo no podrá ser despedida por el término de un año, salvo en casos especiales  previstos  en  la  Ley,  la  cual  reglamentará  además, las  condiciones  especiales  de  trabajo  de  la  mujer  en  estado  de preñez.
+Se protege la maternidad de la mujer trabajadora. La que esté en estado de gravidez no podrá ser separada de su empleo público o particular por esta causa. Durante un mínimo de seis semanas precedentes al parto y las ocho que le siguen, gozará de descanso forzoso retribuido del mismo modo que su trabajo y conservará el empleo y todos los derechos correspondientes a su contrato. Al reincorporarse la madre trabajadora a su empleo no podrá ser despedida por el término de un año, salvo en casos
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 29
 
@@ -559,6 +719,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 25]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+especiales previstos en la Ley, la cual reglamentará además, las condiciones especiales de trabajo de la mujer en estado de preñez.
 
 #### ARTICULO  73.
 Se  prohíbe  la contratación de trabajadores extranjeros  que  puedan  rebajar  las  condiciones  de  trabajo  o las  normas  de  vida  del  trabajador  nacional.  La  Ley  regulará  la contratación de Gerentes, Directores  Administrativos y Ejecutivos, técnicos  y  profesionales  extranjeros  para  servicios  públicos  y privados, asegurando siempre los derechos de los panameños y de acuerdo con el interés nacional.
@@ -581,7 +743,7 @@ La Ley regulará las relaciones entre el capital y el trabajo, colocándolas sob
 #### ARTICULO  79.
 Los  derechos  y  garantías  establecidos  en  este Capítulo  serán  considerados  como  mínimos  a  favor  de  los trabajadores.
 
-- Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 30 .
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 30 .
 
 [[END OF PAGE 25]]
 
@@ -637,7 +799,7 @@ El Estado reconoce y respeta la identidad étnica de  las  comunidades  indígen
 #### ARTICULO  91.
 Todos  tienen  el  derecho  a  la  educación  y  la responsabilidad  de  educarse.  El  Estado  organiza  y  dirige  el servicio público de la educación nacional y garantiza a los padres de familia el derecho de participar en el proceso educativo de sus hijos.
 
-La  educación  se  basa  en  la  ciencia,  utiliza  sus  métodos, fomenta  su  crecimiento  y  difusión  y  aplica  sus  resultados  para asegurar el desarrollo de la persona humana y de la familia, al igual que la afirmación y fortalecimiento de la Nación panameña como comunidad cultural y política.
+La  educación  se  basa  en  la  ciencia,  utiliza  sus  métodos, fomenta  su  crecimiento  y  difusión  y  aplica  sus  resultados  para asegurar el desarrollo de la persona humana y de la familia, al
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 32 .
 
@@ -646,6 +808,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 28]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+igual que la afirmación y fortalecimiento de la Nación panameña como comunidad cultural y política.
 
 La  educación  es  democrática  y  fundada  en  principios  de solidaridad humana y justicia social.
 
@@ -725,11 +889,11 @@ Se  reconoce  la  libertad  de  cátedra  sin  otras limitaciones que las que, p
 La excepcionalidad en el estudiante, en todas sus manifestaciones, será atendida mediante educación especial, basada en la investigación científica y orientación educativa.
 
 #### ARTICULO 107.
-Se enseñará la religión católica en las escuelas públicas,  pero  su  aprendizaje  y  la  asistencia  a  actos  de 1 cultos religiosos no serán obligatorios cuando lo soliciten sus padres o tutores.
+Se enseñará la religión católica en las escuelas públicas,  pero  su  aprendizaje  y  la  asistencia  a  actos  de¹ cultos religiosos no serán obligatorios cuando lo soliciten sus padres o tutores.
 
 ­­ ______________________
 
-> 1. Artículo  107,  según  Gaceta  Oficial  17210  de  1972.  Sin  embargo,  el  Texto Único publicado en la Gaceta Oficial 25176 dice: 'la asistencia a los cultos religiosos…' Ver nota editorial.
+> 1. Artículo  107,  según  Gaceta  Oficial  17210  de  1972.  Sin  embargo,  el  Texto Único publicado en la Gaceta Oficial 25176 dice: “la asistencia a los cultos religiosos…” Ver nota editorial.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 35
 
@@ -1099,7 +1263,7 @@ El Tribunal Electoral, previa consulta con los partidos legalmente reconocidos, 
 Los Diputados serán elegidos por un período de cinco años, el mismo día en que se celebre la elección ordinaria de Presidente y Vicepresidente de la República.
 
 #### ARTICULO 149.
-La Asamblea Nacional se reunirá por derecho propio, sin previa convocatoria, en la Capital de la República, en sesiones que durarán ocho meses en el lapso de un año, dividido en dos legislaturas ordinarias de cuatro meses cada una. Dichas legislaturas se extenderán desde el primero de julio hasta el treinta y uno de octubre, y desde el dos de enero hasta el treinta de abril.
+La Asamblea Nacional se reunirá por derecho propio, sin previa convocatoria, en la Capital de la República, en
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 48 .
 
@@ -1108,6 +1272,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 44]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+sesiones que durarán ocho meses en el lapso de un año, dividido en dos legislaturas ordinarias de cuatro meses cada una. Dichas legislaturas se extenderán desde el primero de julio hasta el treinta y uno de octubre, y desde el dos de enero hasta el treinta de abril.
 
 La Asamblea Nacional podrá reunirse en otro lugar del país, siempre que lo decida la mayoría de sus miembros.
 
@@ -1181,7 +1347,7 @@ El  Diputado  Principal  o  Suplente  podrá  ser  demandado civilmente,  pero  
 Los Diputados principales y suplentes, cuando estos  últimos  estén  ejerciendo  el  cargo,  no  podrán  aceptar ningún empleo público remunerado. Si lo hicieren, se producirá la  vacante  absoluta del cargo de Diputado principal o suplente, según sea el caso. Se exceptúan los nombramientos de Ministro, Viceministro, Director General o Gerente de entidades autónomas o semiautónomas y Agentes Diplomáticos, cuya aceptación sólo produce vacante transitoria por el tiempo en que se desempeñe el cargo. El ejercicio de los cargos de maestro o profesor en centros de educación oficial o particular es compatible con la calidad de Diputado.
 
 #### ARTICULO 157.
-Los Diputados devengarán los emolumentos que señale la Ley, los cuales serán imputables al Tesoro Nacional, pero su aumento sólo será efectivo después de terminar el período de la Asamblea Nacional que lo hubiere aprobado.
+Los Diputados devengarán los emolumentos que señale la Ley, los cuales serán imputables al Tesoro Nacional, pero
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 51
 
@@ -1190,6 +1356,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 47]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+su aumento sólo será efectivo después de terminar el período de la Asamblea Nacional que lo hubiere aprobado.
 
 #### ARTICULO 158.
 Los Diputados no podrán hacer por sí mismos, ni  por  interpuestas  personas,  contrato  alguno  con  Órganos  del Estado  o  con  instituciones  o  empresas  vinculadas  a  este,  ni admitir de nadie poder para gestionar negocios ante esos Órganos, instituciones o empresas.
@@ -1223,7 +1391,7 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 - Intervenir en la aprobación del Presupuesto del Estado, según lo establece el Título IX de esta Constitución.
 
-- Declarar  la  guerra  y  facultar  al  Órgano  Ejecutivo  para concertar 2 la paz.
+- Declarar  la  guerra  y  facultar  al  Órgano  Ejecutivo  para concertar² la paz.
 
 - Decretar amnistía por delitos políticos.
 
@@ -1235,21 +1403,17 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 - Establecer impuestos y contribuciones nacionales, rentas y monopolios oficiales para atender los servicios públicos.
 
-- Dictar  las  normas  generales 3 y  específicas  a  las  cuales  deben sujetarse el Órgano Ejecutivo, las entidades autónomas y semiautónomas, las empresas estatales y mixtas cuando, con respecto a estas últimas, el Estado tenga su control administrativo, financiero o accionario, para los siguientes efectos:  negociar  y  contratar  empréstitos;  organizar  el crédito  público;  reconocer  la  deuda  nacional  y  arreglar su servicio; fijar y modificar los aranceles, tasas y demás disposiciones concernientes al régimen de aduanas.
+- Dictar  las  normas  generales³ y  específicas  a  las  cuales  deben sujetarse el Órgano Ejecutivo, las entidades autónomas y semiautónomas, las empresas estatales y mixtas cuando, con respecto a estas últimas, el Estado tenga su control administrativo, financiero o accionario, para los siguientes efectos:  negociar  y  contratar  empréstitos;  organizar  el crédito  público;  reconocer  la  deuda  nacional  y  arreglar su servicio; fijar y modificar los aranceles, tasas y demás disposiciones concernientes al régimen de aduanas.
 
 - Determinar, a  propuesta  del  Órgano  Ejecutivo,  la  estructura de  la  administración  nacional  mediante  la  creación  de
 
 ­­ ______________________
 
-> 2. Numeral  5  del  Artículo  159,  según  la  Gaceta  Oficial  19790  de  1983.  Sin embargo,  el  Texto  Único  publicado  en  la  Gaceta  Oficial  25176  dice:  'para asegurar y concertar la paz.' Ver nota editorial.
+> 2. Numeral  5  del  Artículo  159,  según  la  Gaceta  Oficial  19790  de  1983.  Sin embargo,  el  Texto  Único  publicado  en  la  Gaceta  Oficial  25176  dice:  “para asegurar y concertar la paz.” Ver nota editorial.
 
-> 3. Artículo 159, numeral 11, según la Gaceta Oficial 19790 de 1983. Sin embargo, el Texto Único publicado en la Gaceta Oficial 25176 dice: 'Dictar las normas oficiales y específicas...'. Ver nota editorial.
+> 3. Artículo 159, numeral 11, según la Gaceta Oficial 19790 de 1983. Sin embargo, el Texto Único publicado en la Gaceta Oficial 25176 dice: “Dictar las normas oficiales y específicas...”. Ver nota editorial.
 
-.
-
-Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional
-
-53
+Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 53
 
 [[END OF PAGE 48]]
 
@@ -1269,7 +1433,7 @@ Ministerios, Entidades Autónomas, Semiautónomas, Empresas  Estatales  y  demá
 
 La Ley en que se confieran dichas facultades expresará específicamente la materia y los fines que serán objeto de los Decretos-Leyes y no podrá comprender las materias previstas  en  los  numerales  tres,  cuatro  y  diez  de  este artículo, ni el desarrollo de las garantías fundamentales, el sufragio, el régimen de los partidos y la tipificación de delitos y sanciones. La Ley de facultades extraordinarias expira al iniciarse la legislatura ordinaria subsiguiente.
 
-Todo  Decreto-Ley  que  el  Ejecutivo  expida  en  el ejercicio de las facultades que se le confieren, deberá ser sometido  al  Órgano  Legislativo  para  que  legisle  sobre la  materia  en  la  legislatura  ordinaria  inmediatamente siguiente  a  la  promulgación  del  Decreto-Ley  de  que se  trate.  El  Órgano  Legislativo  podrá  en  todo  tiempo  y a  iniciativa  propia  derogar,  modificar  o  adicionar  sin limitación de materias los Decretos-Leyes así dictados.
+Todo  Decreto-Ley  que  el  Ejecutivo  expida  en  el ejercicio de las facultades que se le confieren, deberá ser
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 54 .
 
@@ -1278,6 +1442,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 50]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+sometido  al  Órgano  Legislativo  para  que  legisle  sobre la  materia  en  la  legislatura  ordinaria  inmediatamente siguiente  a  la  promulgación  del  Decreto-Ley  de  que se  trate.  El  Órgano  Legislativo  podrá  en  todo  tiempo  y a  iniciativa  propia  derogar,  modificar  o  adicionar  sin limitación de materias los Decretos-Leyes así dictados.
 
 - Dictar el Reglamento Orgánico de su régimen interno.
 
@@ -1436,7 +1602,7 @@ El Ejecutivo dispondrá de un término máximo de  treinta  días  hábiles  par
 Si el Ejecutivo una vez transcurrido el indicado término no hubiese  devuelto  el  proyecto  con  objeciones  no  podrá  dejar  de sancionarlo y hacerlo promulgar.
 
 #### ARTICULO 170.
-El proyecto de Ley objetado en su conjunto por el  Ejecutivo,  volverá  a  la  Asamblea  Nacional,  a  tercer  debate. Si lo fuera solo en parte, volverá a segundo, con el único fin de considerar 2 las objeciones formuladas.
+El proyecto de Ley objetado en su conjunto por el  Ejecutivo,  volverá  a  la  Asamblea  Nacional,  a  tercer  debate. Si lo fuera solo en parte, volverá a segundo, con el único fin de considerar 4 las objeciones formuladas.
 
 Si  consideradas  por  la  Asamblea  Nacional  las  objeciones el proyecto fuere aprobado por los dos tercios de los Diputados que componen la Asamblea Nacional, el Ejecutivo lo sancionará y  hará  promulgar  sin  poder  presentar  nuevas  objeciones.  Si  no obtuviere la aprobación de este número de Diputados, el proyecto quedará rechazado.
 
@@ -1736,7 +1902,7 @@ Son funciones del Consejo de Gabinete:
 
 - Actuar como cuerpo consultivo en los asuntos que someta a su consideración el Presidente de la República y en los que deba ser oído por mandato de la Constitución o de la Ley. ­­ ______________________
 
-> 7. Artículo 195, segunda línea, según la Gaceta Oficial 19790. Sin embargo, el Texto  Único  publicado  en  la  Gaceta  Oficial  25176  dice:  '…  se  efectuará  de conformidad con la Ley, según sus fi nalidades. ' Ver nota editorial.
+> 7. Artículo 195, segunda línea, según la Gaceta Oficial 19790. Sin embargo, el Texto  Único  publicado  en  la  Gaceta  Oficial  25176  dice:  '…  se  efectuará  de conformidad con la Ley, según sus finalidades.' Ver nota editorial.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 69
 
@@ -1852,7 +2018,7 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 ilegalidad; restablecer el derecho  particular violado; estatuir nuevas disposiciones en reemplazo de las impugnadas y pronunciarse prejudicialmente acerca del sentido y alcance de un acto administrativo o de su valor legal.
 
-Podrán acogerse a la jurisdicción contenciosoadministrativa las personas afectadas por el acto, resolución,  orden  o  disposición  de  que  se  trate;  y,  en ejercicio de la acción pública, cualquier persona natural o jurídica domiciliada en el país.
+Podrán acogerse a la jurisdicción contencioso-administrativa las personas afectadas por el acto, resolución,  orden  o  disposición  de  que  se  trate;  y,  en ejercicio de la acción pública, cualquier persona natural o jurídica domiciliada en el país.
 
 - Investigar y procesar a los Diputados. Para efectos de la investigación, el Pleno de la Corte Suprema de Justicia comisionará a un agente de instrucción.
 
@@ -2065,6 +2231,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
+establezca la Ley, los Concejales necesarios para que, 8 en tal caso, el número de integrantes del Concejo Municipal sea de cinco.
+
 El Concejo designará un Presidente y un Vicepresidente de su seno. Este último reemplazará al primero en sus ausencias.
 
 #### ARTICULO 238.
@@ -2088,7 +2256,7 @@ Es función del Concejo Municipal, sin perjuicio de otras que la Ley señale, ex
 
 ­­ ______________________
 
-> 8. Artículo 237 según Gaceta Oficial 19790 de 1983. El Texto Único publicado en 2004, en la Gaceta Oficial 21176 dice sin embargo: ' Concejales para que…' Ver nota editorial.
+> 8. Artículo 237 según Gaceta Oficial 19790 de 1983. El Texto Único publicado en 2004, en la Gaceta Oficial 25176 dice sin embargo: ' Concejales para que…' Ver nota editorial.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 81
 
@@ -2198,7 +2366,7 @@ La Ley determinará las funciones y deberes de los Gobernadores.
 Las Provincias tendrán el número de Distritos que la Ley disponga.
 
 #### ARTICULO  254.
-En  cada  Provincia  funcionará  un  Concejo Provincial,  integrado  por  todos  los  Representantes  de  Corregimientos de la respectiva Provincia y los demás miembros que la Ley determine al reglamentar su organización y funcionamiento, teniendo estos últimos únicamente derecho a voz. Cada Concejo Provincial elegirá su Presidente y su Junta Directiva, dentro de los  respectivos  Representantes  de  Corregimientos  y  dictará  su reglamento interno. El Gobernador de la Provincia y los Alcaldes de Distritos asistirán con derecho a voz a las reuniones del Concejo Provincial.
+En  cada  Provincia  funcionará  un  Concejo Provincial,  integrado  por  todos  los  Representantes  de  Corregimientos de la respectiva Provincia y los demás miembros que la Ley determine al reglamentar su organización y funcionamiento, teniendo estos últimos únicamente derecho a voz. Cada Concejo Provincial elegirá su Presidente y su Junta Directiva, dentro de los  respectivos  Representantes  de  Corregimientos  y  dictará  su reglamento interno. El Gobernador de la Provincia y los Alcaldes
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 84 .
 
@@ -2207,6 +2375,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 80]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+de Distritos asistirán con derecho a voz a las reuniones del Concejo Provincial.
 
 #### ARTICULO  255.
 Son  funciones  del  Concejo  Provincial,  sin perjuicio de otras que la Ley señale, las siguientes:
@@ -2385,7 +2555,7 @@ Cualquier crédito suplementario o extraordinario referente  al  Presupuesto  vi
 #### ARTICULO 275.
 Cuando en cualquier época del año, el Órgano Ejecutivo  considere  fundadamente  que  el  total  de  los  ingresos disponibles  es  inferior  al  total  de  los  gastos  autorizados  en  el Presupuesto General del Estado, adoptará un plan de ajuste del gasto, que será aprobado según lo establezca la Ley.
 
-Los  ajustes  a  los  presupuestos  de  los  Órganos  Legislativo y  Judicial,  del  Ministerio  Público,  del  Tribunal  Electoral,  la Defensoría del Pueblo y la Contraloría General de la República no  serán  porcentualmente  superiores,  en  cada  una  de  estas instituciones,  al  ajuste  del  Presupuesto  General  del  Estado,  y afectarán los renglones que estas determinen.
+Los  ajustes  a  los  presupuestos  de  los  Órganos  Legislativo y  Judicial,  del  Ministerio  Público,  del  Tribunal  Electoral,  la Defensoría del Pueblo y la Contraloría General de la República no  serán  porcentualmente  superiores,  en  cada  una  de  estas
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 90 .
 
@@ -2394,6 +2564,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 86]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+instituciones, al ajuste del Presupuesto General del Estado, y afectarán los renglones que estas determinen.
 
 #### ARTICULO  276.
 La  Asamblea  Nacional  no  podrá  expedir Leyes que deroguen o modifiquen las que establezcan ingresos comprendidos  en  el  Presupuesto,  sin  que  al  mismo  tiempo establezca  nuevas  rentas  sustitutivas  o  aumente  las  existentes, previo informe de la Contraloría General de la República sobre la efectividad fiscal de las mismas.
@@ -2409,7 +2581,7 @@ Todas  las  entradas  y  salidas  de  los  tesoros públicos  deben  estar  incl
 #### ARTICULO  279.
 Habrá  un  organismo  estatal  independiente, denominado Contraloría General de la República, cuya dirección estará  a  cargo  de  un  funcionario  público  que  se  denominará Contralor General, secundado por un Subcontralor, quienes serán nombrados para un periodo igual al del Presidente de la República, dentro del cual no podrán ser suspendidos ni removidos, sino por la  Corte Suprema de Justicia, en virtud de causas definidas por la  Ley.  Ambos  serán  nombrados  para  que  entren  en  funciones a  partir  del  primero  de  enero  después  de  iniciado  cada  periodo presidencial ordinario.
 
-Para ser Contralor y Subcontralor de la República se requiere ser ciudadano panameño por nacimiento; tener título universitario y treinta y cinco años o más de edad, y no haber sido condenado por delito doloso con pena privativa de la libertad de cinco años o más, mediante sentencia ejecutoriada, proferida por un tribunal de justicia.
+Para ser Contralor y Subcontralor de la República se requiere ser ciudadano panameño por nacimiento; tener título universitario
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 91
 
@@ -2418,6 +2590,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 87]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+y treinta y cinco años o más de edad, y no haber sido condenado por delito doloso con pena privativa de la libertad de cinco años o más, mediante sentencia ejecutoriada, proferida por un tribunal de justicia.
 
 #### ARTICULO 280.
 Son funciones de la Contraloría General de la República, además de las que señale la Ley, las siguientes:
@@ -2520,7 +2694,7 @@ El  Estado  creará  por  medio  de  entidades autónomas  o  semiautónomas  o 
 El Estado podrá crear en las áreas o regiones cuyo grado de desarrollo social y económico lo requiera instituciones autónomas o semiautónomas, nacionales, regionales o municipales, que promuevan el desarrollo integral del sector o región y que podrán  coordinar  los  programas  estatales  y  municipales  en cooperación con los Concejos Municipales o Intermunicipales. La Ley reglamentará la organización, jurisdicción, financiamiento y fiscalización de dichas entidades de desarrollo.
 
 #### ARTICULO 288.
-Es deber del Estado el fomento y fiscalización de  las  cooperativas  y  para  tales  fines  creará  las  instituciones necesarias.  La  Ley  establecerá  un  régimen  especial  para  su organización, funcionamiento, reconocimiento e inscripción, que será gratuita.
+Es deber del Estado el fomento y fiscalización de  las  cooperativas  y  para  tales  fines  creará  las  instituciones
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 95
 
@@ -2529,6 +2703,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 91]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+necesarias. La Ley establecerá un régimen especial para su organización, funcionamiento, reconocimiento e inscripción, que será gratuita.
 
 #### ARTICULO 289.
 El  Estado  regulará  la  adecuada  utilización  de la  tierra  de  conformidad  con  su  uso  potencial  y  los  programas nacionales  de  desarrollo,  con  el  fin  de  garantizar  su  aprovechamiento óptimo.
@@ -2548,7 +2724,7 @@ El territorio insular sólo podrá enajenarse para fines específicos de desarro
 La enajenación del territorio  insular  no  afecta  la  propiedad del Estado sobre los bienes de uso público. En los casos anteriores se  respetarán  los  derechos  legítimamente  adquiridos  al  entrar  a regir esta Constitución; pero los bienes correspondientes podrán ser  expropiados  en  cualquier  tiempo,  mediante  pago  de  la indemnización adecuada.
 
 #### ARTICULO 292.
-No habrá bienes que no sean de libre enajenación ni obligaciones irredimibles, salvo lo dispuesto en los artículos 62 y 127. Sin embargo valdrán hasta un término máximo de veinte años  las  limitaciones  temporales  al  derecho  de  enajenar  y  las condiciones o modalidades que suspendan o retarden la redención de las obligaciones.
+No habrá bienes que no sean de libre enajenación ni obligaciones irredimibles, salvo lo dispuesto en los artículos 62 y 127. Sin embargo valdrán hasta un término máximo de veinte
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 96 .
 
@@ -2557,6 +2733,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 92]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+años las limitaciones temporales al derecho de enajenar y las condiciones o modalidades que suspendan o retarden la redención de las obligaciones.
 
 #### ARTICULO 293.
 Sólo podrán ejercer el comercio al por menor:
@@ -2567,13 +2745,13 @@ Sólo podrán ejercer el comercio al por menor:
 
 - Los panameños por naturalización que no se encuentren en el caso anterior, después de tres años de la fecha en que hubieren obtenido su carta definitiva.
 
-- Las  personas  jurídicas  nacionales  o  extranjeras  y  las naturales extranjeras que a la fecha de la vigencia de esta Constitución  estuvieron  ejerciendo  el  comercio  al  por menor de acuerdo con la Ley.
+- Las  personas  jurídicas  nacionales  o  extranjeras  y  las naturales extranjeras que a la fecha de la vigencia de esta Constitución  estuvieren  ejerciendo  el  comercio  al  por menor de acuerdo con la Ley.
 
 - Las  personas  jurídicas  formadas  por  panameños  o  por extranjeros facultados para ejercerlo individualmente de acuerdo  con  este  artículo,  y  también  las  que,  sin  estar constituidas  en  la  forma  aquí  expresadas,  ejerzan  el comercio al por menor en el momento de entrar en vigencia esta  Constitución.  Los  extranjeros  no  autorizados  para ejercer  el  comercio  al  por  menor  podrán,  sin  embargo, tener  participación  en  aquellas  compañías  que  vendan productos manufacturados por ellas mismas.
 
 Ejercer  el  comercio  al  por  menor  significa  dedicarse  a  la venta al consumidor o la representación o agencia de empresas productoras o mercantiles o cualquiera otra actividad que la Ley clasifique como perteneciente a dicho comercio.
 
-Se exceptúan de esta regla los casos en que el agricultor o fabricante de industrias manuales vendan sus propios productos. La Ley establecerá un sistema de vigilancia y sanciones para impedir que  quienes  de  acuerdo  con  este  artículo  no  puedan  ejercer  el comercio al por menor, lo hagan por medio de interpuesta persona o en cualquier otra forma fraudulenta.
+Se exceptúan de esta regla los casos en que el agricultor o fabricante de industrias manuales vendan sus propios productos. La Ley establecerá un sistema de vigilancia y sanciones para impedir
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional .
 
@@ -2584,6 +2762,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 [[START OF PAGE 93]]
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
+
+que quienes de acuerdo con este artículo no puedan ejercer el comercio al por menor, lo hagan por medio de interpuesta persona o en cualquier otra forma fraudulenta.
 
 #### ARTICULO 294.
 Se entiende por comercio al por mayor el que no está comprendido en la disposición anterior, y podrá ejercerlo toda persona natural o jurídica.
@@ -2717,7 +2897,7 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
 - Los servidores públicos con mando y jurisdicción que no estén dentro de una carrera.
 
-- Los profesionales, técnicos trabajadores manuales que  se  requieran  para  servicios  temporales,  interinos o  transitorios  en  los  Ministerios  o  en  las  instituciones autónomas y semiautónomas.
+- Los profesionales, técnicos o trabajadores manuales que  se  requieran  para  servicios  temporales,  interinos o  transitorios  en  los  Ministerios  o  en  las  instituciones autónomas y semiautónomas.
 
 - Los servidores públicos cuyos cargos estén regulados por el Código de Trabajo.
 
@@ -2778,7 +2958,7 @@ CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 - Por un Acto Constitucional aprobado en tres debates por la  mayoría  absoluta  de  los  miembros  de  la  Asamblea Nacional, en una legislatura, y aprobado, igualmente, en tres debates, por mayoría absoluta de los miembros de la mencionada Asamblea, en la legislatura inmediatamente siguiente.  En  esta  se  podrá  modificar  el  texto  aprobado en la legislatura anterior. El Acto Constitucional aprobado de esta forma deberá ser publicado en la Gaceta Oficial y sometido a consulta popular directa mediante referéndum que  se  celebrará  en  la  fecha  que  señale  la  Asamblea Nacional,  dentro  de  un  plazo  que  no  podrá  ser  menor de tres meses ni exceder de seis meses, contados desde la  aprobación  del  Acto  Constitucional  por  la  segunda legislatura.
 
 #### ARTICULO 314.
-Podrá adoptarse una nueva Constitución, a través de una Asamblea Constituyente Paralela, que podrá ser convocada por  decisión  del  Órgano  Ejecutivo,  ratificada  por  la  mayoría absoluta  del  Órgano  Legislativo,  o  por  el  Órgano  Legislativo con el voto favorable de dos terceras partes de sus miembros, o por iniciativa ciudadana, la cual deberá ser acompañada por las firmas de, por lo menos, el veinte por ciento de los integrantes del Registro Electoral correspondiente al 31 de diciembre del año anterior a la solicitud. En este caso, los peticionarios tendrán hasta seis meses para cumplir con este requisito de conformidad con el reglamento que al efecto expida el Tribunal Electoral.
+Podrá adoptarse una nueva Constitución, a través de una Asamblea Constituyente Paralela, que podrá ser convocada por  decisión  del  Órgano  Ejecutivo,  ratificada  por  la  mayoría absoluta  del  Órgano  Legislativo,  o  por  el  Órgano  Legislativo con el voto favorable de dos terceras partes de sus miembros, o por iniciativa ciudadana, la cual deberá ser acompañada por las firmas de, por lo menos, el veinte por ciento de los integrantes del Registro Electoral correspondiente al 31 de diciembre del año anterior a la solicitud. En este caso, los peticionarios tendrán hasta
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 104	 .
 
@@ -2788,6 +2968,8 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
+seis meses para cumplir con este requisito de conformidad con el reglamento que al efecto expida el Tribunal Electoral.
+
 Le  corresponderá  al  Tribunal  Electoral  acoger  la  iniciativa propuesta y hacer la convocatoria a la elección de constituyentes, en un término no menor de tres meses ni mayor de seis meses desde la formalización de la solicitud de convocatoria. Realizada la  elección,  la  Asamblea  Constituyente  Paralela  se  instalará formalmente e iniciará sus deliberaciones por derecho propio, tan pronto el Tribunal Electoral entregue las credenciales respectivas a sus integrantes.
 
 La  Asamblea  Constituyente  Paralela  estará  integrada  por sesenta constituyentes, quienes deberán representar proporcionalmente a los panameños de todas las provincias y comarcas, de acuerdo con la población electoral, y se permitirá, además de la postulación partidaria, la libre postulación. Para estos efectos, el  Tribunal  Electoral  deberá  establecer  en  la  convocatoria  el sistema electoral aplicable a la elección de constituyentes.
@@ -2796,7 +2978,7 @@ La Asamblea Constituyente Paralela podrá reformar la actual Constitución  de  
 
 El  nuevo Acto  Constitucional  aprobado  con  arreglo  a  este método será sometido a referéndum convocado por el Tribunal Electoral en un periodo no menor de tres meses, ni mayor de seis meses, contado a partir de la fecha de su publicación en el Boletín del Tribunal Electoral.
 
-El  Acto Constitucional aprobado con arreglo a cualquiera de los procedimientos señalados en este artículo y en el artículo anterior, empezará a regir desde su publicación en la Gaceta Oficial, la cual deberá hacerse por el Órgano Ejecutivo, dentro de los diez días hábiles  que  siguen  a  su  ratificación  por  la Asamblea  Nacional, o  dentro  de  los  treinta  días  hábiles  siguientes  a  su  aprobación mediante referéndum, según fuere el caso, sin que la publicación posterior a dichos plazos sea causa de inconstitucionalidad.
+El  Acto Constitucional aprobado con arreglo a cualquiera de los procedimientos señalados en este artículo y en el artículo anterior,
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 105
 
@@ -2806,10 +2988,12 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
+empezará a regir desde su publicación en la Gaceta Oficial, la cual deberá hacerse por el Órgano Ejecutivo, dentro de los diez días hábiles que siguen a su ratificación por la Asamblea Nacional, o dentro de los treinta días hábiles siguientes a su aprobación mediante referéndum, según fuere el caso, sin que la publicación posterior a dichos plazos sea causa de inconstitucionalidad.
+
 ## TITULO XIV EL CANAL DE PANAMÁ
 
 #### ARTICULO 315.
-El Canal de Panamá constituye un patrimonio inalienable de la Nación panameña; permanecerá abierto al tránsito pacifico e ininterrumpido de las naves de todas las naciones y su uso estará sujeto a los requisitos y condiciones que establezcan esta Constitución, la Ley y su Administración.
+El Canal de Panamá constituye un patrimonio inalienable de la Nación panameña; permanecerá abierto al tránsito pacífico e ininterrumpido de las naves de todas las naciones y su uso estará sujeto a los requisitos y condiciones que establezcan esta Constitución, la Ley y su Administración.
 
 #### ARTICULO  316.
 Se  crea  una  persona  jurídica  autónoma  de Derecho  Público,  que  se  denominará  Autoridad  del  Canal  de Panamá, a la que corresponderá privativamente la administración, funcionamiento,  conservación,  mantenimiento  y  modernización del Canal de Panamá y sus actividades conexas, con arreglo a las normas constitucionales y legales vigentes, a fin de que funcione de manera segura, continua, eficiente y rentable. Tendrá patrimonio propio y derecho de administrarlo.
@@ -2834,16 +3018,16 @@ El Órgano Ejecutivo propondrá al Órgano Legislativo la Ley que coordine todas
 #### ARTICULO 318.
 La administración de la Autoridad del Canal de Panamá estará a cargo de una Junta Directiva compuesta por once directores, nombrados así:
 
-- Un director designado por el Presidente de la República, quien presidirá la Junta Directiva y tendrá la condición de Ministro de Estado para Asuntos del Canal.
+1. Un director designado por el Presidente de la República, quien presidirá la Junta Directiva y tendrá la condición de Ministro de Estado para Asuntos del Canal.
 
-- Un director asignado por el Órgano Legislativo que será de su libre nombramiento y remoción.
+2. Un director asignado por el Órgano Legislativo que será de su libre nombramiento y remoción.
 
-- Nueve  directores  nombrados  por  el  Presidente  de  la República,  con  acuerdo  del  Consejo  de  Gabinete  y ratificados por el Órgano Legislativo, por mayoría absoluta de sus miembros.
+3. Nueve  directores  nombrados  por  el  Presidente  de  la República,  con  acuerdo  del  Consejo  de  Gabinete  y ratificados por el Órgano Legislativo, por mayoría absoluta de sus miembros.
 
 La  Ley  establecerá  los  requisitos  para  ocupar  el  cargo  de director, garantizando la renovación escalonada de los directores señalados en el numeral 3 de este artículo, en grupos de tres y cada tres años. A partir de la primera renovación, el período de todos los directores será de nueve años.
 
 #### ARTICULO 319.
-La junta Directiva tendrá las siguientes facultades y atribuciones, sin perjuicio de otras que la Constitución y la Ley determinen:
+La Junta Directiva tendrá las siguientes facultades y atribuciones, sin perjuicio de otras que la Constitución y la Ley determinen:
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 107
 
@@ -2853,24 +3037,24 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
-- Nombrar y  remover  al  Administrador  y  al  Subadministrador del Canal y determinar sus atribuciones, de acuerdo con la Ley.
+1. Nombrar y  remover  al  Administrador  y  al  Subadministrador del Canal y determinar sus atribuciones, de acuerdo con la Ley.
 
-- Fijar  los  peajes,  tasas  y  derechos  por  el  uso  del  Canal, sus  servicios  conexos,  sujetos  a  la  aprobación  final  del Consejo de Gabinete.
+2. Fijar  los  peajes,  tasas  y  derechos  por  el  uso  del  Canal, sus  servicios  conexos,  sujetos  a  la  aprobación  final  del Consejo de Gabinete.
 
-- Contratar empréstitos, previa aprobación del Consejo de Gabinete y dentro de los limites establecidos en la Ley.
+3. Contratar empréstitos, previa aprobación del Consejo de Gabinete y dentro de los límites establecidos en la Ley.
 
-- Otorgar  concesiones  para  la  prestación  de  servicios  a la Autoridad del Canal de Panamá y a las naves que lo transiten.
+4. Otorgar  concesiones  para  la  prestación  de  servicios  a la Autoridad del Canal de Panamá y a las naves que lo transiten.
 
-- Proponer los límites de la cuenca hidrográfica del Canal para la aprobación del Consejo de Gabinete y la Asamblea Nacional.
+5. Proponer los límites de la cuenca hidrográfica del Canal para la aprobación del Consejo de Gabinete y la Asamblea Nacional.
 
-- Aprobar privativamente los reglamentos que desarrollen las  normas  generales  que  dicte  el  Órgano  Legislativo a  propuesta  del  Órgano  Ejecutivo,  sobre  el  régimen  de contratación, compras y todas las materias necesarias para el mejor funcionamiento, mantenimiento, conservación y modernización del Canal, dentro de la estrategia marítima nacional.
+6. Aprobar privativamente los reglamentos que desarrollen las  normas  generales  que  dicte  el  Órgano  Legislativo a  propuesta  del  Órgano  Ejecutivo,  sobre  el  régimen  de contratación, compras y todas las materias necesarias para el mejor funcionamiento, mantenimiento, conservación y modernización del Canal, dentro de la estrategia marítima nacional.
 
-- Ejercer todas aquellas que establezcan esta Constitución y la Ley.
+7. Ejercer todas aquellas que establezcan esta Constitución y la Ley.
 
 #### ARTICULO  320.
 La Autoridad  del  Canal  de  Panamá  adoptará un sistema  de  planificación  y  administración  financiera  trienal conforme al cual aprobará, mediante resolución motivada, su  proyecto  de  presupuesto  anual,  que  no  formará  parte  del Presupuesto General del Estado.
 
-La Autoridad del Canal de Panamá presentará su proyecto de Presupuesto al Consejo de Gabinete, que a su vez, lo someterá a  la  consideración  de  la  Asamblea  Nacional  para  su  examen, aprobación o rechazo, según lo dispuesto en el Capitulo 2°, Título IX de esta Constitución.
+La Autoridad del Canal de Panamá presentará su proyecto de Presupuesto al Consejo de Gabinete, que a su vez, lo someterá a  la  consideración  de  la  Asamblea  Nacional  para  su  examen, aprobación o rechazo, según lo dispuesto en el Capítulo 2°, Título IX de esta Constitución.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 108	 .
 
@@ -2894,7 +3078,7 @@ La Autoridad del Canal de Panamá estará sujeta a un régimen laboral especial 
 
 ____________________
 
-> 11.	Artículo 322 según la Gaceta Oficial 22674 de 1994. El Texto Único publicado en  la  Gaceta  Oficial  21176  de  2004,  dice  empero:  'los trabajadores  y aquellos …' Ver nota editorial.
+> 11.	Artículo 322 según la Gaceta Oficial 22674 de 1994. El Texto Único publicado en la Gaceta Oficial 21176 de 2004, dice empero: “los trabajadores y aquellos…” Ver nota editorial.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 109
 
@@ -2941,9 +3125,9 @@ Esta disposición se aplicará también a cualquier propuesta de construcción d
 #### ARTICULO 327.
 Se adoptan las siguientes disposiciones transitorias  referentes  a  las  modificaciones  introducidas  por  el  Acto Legislativo de 2004:
 
-- Por regla general, las disposiciones de la presente reforma constitucional  tienen  vigencia  inmediata,  a  partir  de  su promulgación, excepto en los siguientes casos:
+1. Por regla general, las disposiciones de la presente reforma constitucional  tienen  vigencia  inmediata,  a  partir  de  su promulgación, excepto en los siguientes casos:
 
-- Que alguna regla transitoria señale una fecha distinta para que se inicie dicha vigencia.
+a. Que alguna regla transitoria señale una fecha distinta para que se inicie dicha vigencia.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 111
 
@@ -2953,19 +3137,19 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
-- Que se mantenga temporalmente la vigencia de títulos o artículos específicos de la Constitución de 1972 que quedarán sustituidos o reformados.
+b. Que se mantenga temporalmente la vigencia de títulos o artículos específicos de la Constitución de 1972 que quedarán sustituidos o reformados.
 
-- Los  cambios  referidos  al  inicio  y  terminación  de  las legislaturas  ordinarias,  entrarán  en  vigencia  a  partir  del primero de julio de 2009.
+2. Los  cambios  referidos  al  inicio  y  terminación  de  las legislaturas  ordinarias,  entrarán  en  vigencia  a  partir  del primero de julio de 2009.
 
-- Los  Magistrados  del  Tribunal  Electoral  que  se  escojan al vencimiento del periodo de los actuales Magistrados, se  designarán  por  los  siguientes  términos:  el  designado por  el  Órgano  Judicial,  por  un  periodo  de  seis  años;  el designado  por  el  Órgano  Ejecutivo,  por  un  periodo  de ocho años; y el designado por el Órgano Legislativo, por un periodo de diez años, a efecto de establecer el sistema de  nombramientos  escalonados  de  los  Magistrados  del Tribunal Electoral.
+3. Los  Magistrados  del  Tribunal  Electoral  que  se  escojan al vencimiento del periodo de los actuales Magistrados, se  designarán  por  los  siguientes  términos:  el  designado por  el  Órgano  Judicial,  por  un  periodo  de  seis  años;  el designado  por  el  Órgano  Ejecutivo,  por  un  periodo  de ocho años; y el designado por el Órgano Legislativo, por un periodo de diez años, a efecto de establecer el sistema de  nombramientos  escalonados  de  los  Magistrados  del Tribunal Electoral.
 
-- Hasta  tanto  no  se  dicte  y  entre  en  vigencia  la  Ley  que regule el Tribunal de Cuentas, continuarán vigentes todas las normas y procedimientos existentes sobre jurisdicción de cuentas.
+4. Hasta  tanto  no  se  dicte  y  entre  en  vigencia  la  Ley  que regule el Tribunal de Cuentas, continuarán vigentes todas las normas y procedimientos existentes sobre jurisdicción de cuentas.
 
 Una  vez  el  Tribunal  de  Cuentas  entre  en  función, todos  los  procesos  que  se  siguen  ante  la  Dirección  de Responsabilidad  Patrimonial  de  la  Contraloría  General, pasarán a ser de competencia de dicho Tribunal.
 
 Para asegurar el nombramiento escalonado, los primeros  Magistrados  que  conformen  el  Tribunal  de Cuentas serán nombrados así: el designado por el Órgano Judicial,  por  un  periodo  de  seis  años;  el  designado  por el Órgano Ejecutivo, por un periodo de ocho años; y el designado por el Órgano Legislativo, por un periodo de diez años.
 
-- Los  funcionarios  de  elección  popular  electos  para  el periodo 2004-2009, concluirán su periodo el 30 de junio de 2009.
+5. Los  funcionarios  de  elección  popular  electos  para  el periodo 2004-2009, concluirán su periodo el 30 de junio de 2009.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional 112	 .
 
@@ -2975,18 +3159,18 @@ Constitución Política de la República de Panamá y Texto Único del Reglament
 
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE PANAMÁ
 
-- El Órgano Legislativo nombrará una Comisión de Estilo para ordenar los artículos de la Constitución, junto a sus modificaciones, en una numeración corrida, la cual velará por la concordancia de dicha numeración con los números de los artículos a los que haga referencia alguna norma constitucional.
+6. El Órgano Legislativo nombrará una Comisión de Estilo para ordenar los artículos de la Constitución, junto a sus modificaciones, en una numeración corrida, la cual velará por la concordancia de dicha numeración con los números de los artículos a los que haga referencia alguna norma constitucional.
 
-- Este  Acto  Legislativo  del  año  2004,  empezará  a  regir desde su publicación en la Gaceta Oficial, la cual deberá hacer el Órgano Ejecutivo, dentro de los diez días hábiles que siguen a su ratificación por la Asamblea Nacional.
+7. Este  Acto  Legislativo  del  año  2004,  empezará  a  regir desde su publicación en la Gaceta Oficial, la cual deberá hacer el Órgano Ejecutivo, dentro de los diez días hábiles que siguen a su ratificación por la Asamblea Nacional.
 
-- La eliminación de los cargos de elección popular que se señalan en esta reforma constitucional tendrán vigencia a partir de las elecciones generales de 2009.
+8. La eliminación de los cargos de elección popular que se señalan en esta reforma constitucional tendrán vigencia a partir de las elecciones generales de 2009.
 
-- Los  funcionarios  públicos  cuyos  nombramientos  son contemplados en esta Constitución y que se encuentren en funciones al momento de entrada en vigencia de estas reformas,  ejercerán  sus  cargos  hasta  cuando  venza  el periodo para el cual fueron nombrados.
+9. Los  funcionarios  públicos  cuyos  nombramientos  son contemplados en esta Constitución y que se encuentren en funciones al momento de entrada en vigencia de estas reformas,  ejercerán  sus  cargos  hasta  cuando  venza  el periodo para el cual fueron nombrados.
 
 #### ARTICULO 328.
  En  lo  que  no  contradiga  lo  dispuesto  en  esta Constitución  la Autoridad  del  Canal  de  Panamá  integrará  a  su organización la estructura administrativa y operacional existente en la Comisión del Canal de Panamá al 31 de diciembre de 1999, incluyendo sus departamentos, oficinas, posiciones, normas vigentes, reglamentos y convenciones colectivas vigentes, hasta que sean modificados de acuerdo a la Ley.
 
-'Dada en la ciudad de Panamá, a los 11 días del mes de octubre de 1972, reformada por los Actos Reformatorios N° 1 y N° 2 de 5 y 25 de octubre de 1978, respectivamente; por el Acto Constitucional aprobado el 24 de abril de 1983; por los Actos Legislativos N° 1 de 1993 y N° 2 de 1994; y por el Acto Legislativo N° 1 de 2004'.
+“Dada en la ciudad de Panamá, a los 11 días del mes de octubre de 1972, reformada por los Actos Reformatorios N° 1 y N° 2 de 5 y 25 de octubre de 1978, respectivamente; por el Acto Constitucional aprobado el 24 de abril de 1983; por los Actos Legislativos N° 1 de 1993 y N° 2 de 1994; y por el Acto Legislativo N° 1 de 2004”.
 
 Constitución Política de la República de Panamá y Texto Único del Reglamento Orgánico del Régimen Interno de la Asamblea Nacional . 113
 
