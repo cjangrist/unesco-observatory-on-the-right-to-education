@@ -52,13 +52,14 @@ Sec. 841. Underground Railroad educational and cultural program. PART I-SUMMER T
 
 ## SEC. 2. REFERENCES.
 
-Except  as  otherwise  expressly  provided,  whenever  in  this  Act an  amendment  or  repeal  is  expressed  in  terms  of  an  amendment to,  or  repeal  of,  a  section  or  other  provision,  the  reference  shall be  considered  to  be  made  to  a  section  or  other  provision  of  the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
+Except  as  otherwise  expressly  provided,  whenever  in  this  Act an  amendment  or  repeal  is  expressed  in  terms  of  an  amendment
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 H.R.6-5
+to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
 
 ## SEC. 3. GENERAL EFFECTIVE DATE.
 
@@ -94,13 +95,14 @@ Except  as  otherwise  provided  in  this  Act  or  the  amendments made  by  th
 
 ''(2)  a  public  or  nonprofit  private  educational  institution in  any  State  that,  in  lieu  of  the  requirement  in  subsection (a)(1),  admits  as  regular  students  persons  who  are  beyond the age of compulsory school attendance in the State in which the institution is located.
 
-''(c)  LIST OF ACCREDITING AGENCIES.-For purposes of this section and section 102, the Secretary shall publish a list of nationally recognized  accrediting  agencies  or  associations  that  the  Secretary determines,  pursuant  to  subpart  2  of  part  H  of  title  IV,  to  be reliable  authority  as  to  the  quality  of  the  education  or  training offered.
+''(c)  LIST OF ACCREDITING AGENCIES.-For purposes of this section and section 102, the Secretary shall publish a list of nationally
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 H.R.6-6
+recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of title IV, to be reliable authority as to the quality of the education or training offered.
 
 ###### ''SEC.  102.  DEFINITION OF INSTITUTION OF HIGHER EDUCATION FOR PURPOSES OF TITLE IV PROGRAMS.
 
@@ -152,13 +154,14 @@ H.R.6-7
 
 ''(C)  has  a  student  enrollment  in  which  more  than 25  percent  of  the  students  are  incarcerated,  except  that the  Secretary  may  waive  the  limitation  contained  in  this subparagraph  for  a  nonprofit  institution  that  provides  a 2-  or  4-year  program  of  instruction  (or  both)  for  which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
-''(D)  has  a  student  enrollment  in  which  more  than 50 percent of the students do not have a secondary school diploma or its recognized equivalent, and does not provide a  2-  or  4-year  program  of  instruction  (or  both)  for  which the institution awards a bachelor's degree or an associate's degree,  respectively,  except  that  the  Secretary  may  waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that  the  institution  exceeds  such  limitation  because  the institution  serves,  through  contracts  with  Federal,  State, or  local  government  agencies,  significant  numbers  of  students  who  do  not  have  a  secondary  school  diploma  or its recognized equivalent.
+''(D) has a student enrollment in which more than 50 percent of the students do not have a secondary school diploma or its recognized equivalent, and does not provide a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree or an associate's
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 H.R.6-8
+degree, respectively, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that the institution exceeds such limitation because the institution serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a secondary school diploma or its recognized equivalent.
 
 ''(4)  LIMITATIONS BASED ON MANAGEMENT.-An  institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if-
 
@@ -224,13 +227,14 @@ H.R.6-9
 
 ''(7) NEW BORROWER.-The term 'new borrower' when used with  respect  to  any  date  means  an  individual  who  on  that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under title IV.
 
-''(8)  NONPROFIT.-The  term  'nonprofit'  as  applied  to  a school,  agency,  organization,  or  institution  means  a  school, agency,  organization,  or  institution  owned  and  operated  by one  or  more  nonprofit  corporations  or  associations,  no  part of  the  net  earnings  of  which  inures,  or  may  lawfully  inure, to the benefit of any private shareholder or individual.
+''(8) NONPROFIT.-The term 'nonprofit' as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 H.R.6-10
+of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 ''(9) SCHOOL OR DEPARTMENT OF DIVINITY.-The term 'school or department of divinity' means an institution, or a department or  a  branch  of  an  institution,  the  program  of  instruction  of which is designed for the education of students-
 
@@ -272,7 +276,7 @@ H.R.6-11
 
 ###### ''SEC.  112.  PROTECTION  OF  STUDENT  SPEECH  AND  ASSOCIATION RIGHTS.
 
-''(a)  PROTECTION OF RIGHTS.-It is  the  sense  of  Congress  that no  student  attending  an  institution  of  higher  education  on  a  fullor part-time basis should, on the basis of participation in protected speech  or  protected  association,  be  excluded  from  participation  in, be  denied  the  benefits  of,  or  be  subjected  to  discrimination  or official  sanction  under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under  this  Act,  whether  or  not  such  program,  activity,  or  division is sponsored or officially sanctioned by the institution.
+''(a) PROTECTION OF RIGHTS.-It is the sense of Congress that no student attending an institution of higher education on a full- or part-time basis should, on the basis of participation in protected speech or protected association, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or official sanction under any education program, activity, or division of the institution directly or indirectly receiving financial assistance under this Act, whether or not such program, activity, or division is sponsored or officially sanctioned by the institution.
 
 ''(b)  CONSTRUCTION.-Nothing  in  this  section  shall  be  construed-
 
@@ -374,13 +378,14 @@ H.R.6-13
 
 ''(b)  CONTENTS OF REPORT.-Each  report  to  the  Secretary required by this section shall contain the following:
 
-''(1)  For  gifts  received  from  or  contracts  entered  into  with a foreign source other than a foreign government, the aggregate dollar  amount  of  such  gifts  and  contracts  attributable  to  a particular  country.  The  country  to  which  a  gift  is  attributable is  the country of citizenship, or if unknown, the principal residence  for  a  foreign  source  who  is  a  natural  person,  and  the country  of  incorporation,  or  if  unknown,  the  principal  place of business, for a foreign source which is a legal entity.
+''(1) For gifts received from or contracts entered into with a foreign source other than a foreign government, the aggregate dollar amount of such gifts and contracts attributable to a particular country. The country to which a gift is attributable is the country of citizenship, or if unknown, the principal residence for a foreign source who is a natural person, and the
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 H.R.6-14
+country of incorporation, or if unknown, the principal place of business, for a foreign source which is a legal entity.
 
 ''(2)  For  gifts  received  from  or  contracts  entered  into  with a  foreign  government,  the  aggregate  amount  of  such  gifts  and contracts received from each foreign government.
 
@@ -402,13 +407,14 @@ H.R.6-14
 
 ''(f ) ENFORCEMENT.-
 
-''(1)  COURT ORDERS.-Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a  civil  action  may  be  brought  by  the  Attorney  General,  at the  request  of  the  Secretary,  in  an  appropriate  district  court of  the  United  States,  or  the  appropriate  United  States  court of  any  territory  or  other  place  subject  to  the  jurisdiction  of the United States, to request such court to compel compliance with the requirements of this section.
+''(1) COURT ORDERS.-Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a civil action may be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 H.R.6-15
+the United States, to request such court to compel compliance with the requirements of this section.
 
 ''(2)  COSTS.-For knowing or willful failure to comply with the requirements of this section, including any rule or regulation  promulgated  thereunder,  an  institution  shall  pay  to  the Treasury  of  the  United  States  the  full  costs  to  the  United States  of  obtaining  compliance,  including  all  associated  costs of investigation and enforcement.
 
@@ -452,13 +458,14 @@ research  or  lecture  programs,  or  new  faculty  positions;
 
 ###### ''SEC. 118. APPLICATION OF PEER REVIEW PROCESS.
 
-''All  applications  submitted  under  the  provisions  of  this  Act which  require  peer  review  shall  be  read  by  a  panel  of  readers composed  of  individuals  selected  by  the  Secretary,  which  shall include  outside  readers  who  are  not  employees  of  the  Federal Government. The Secretary shall ensure that no individual assigned under  this  section  to  review  any  application  has  any  conflict  of interest  with  regard  to  that  application  which  might  impair  the impartiality with which that individual conducts the review under this section.
+''All applications submitted under the provisions of this Act which require peer review shall be read by a panel of readers
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 H.R.6-16
+composed of individuals selected by the Secretary, which shall include outside readers who are not employees of the Federal Government. The Secretary shall ensure that no individual assigned under this section to review any application has any conflict of interest with regard to that application which might impair the impartiality with which that individual conducts the review under this section.
 
 ###### ''SEC. 119. BINGE DRINKING ON COLLEGE CAMPUSES.
 
@@ -520,13 +527,14 @@ H.R.6-17
 
 ''(2) REHABILITATION PROGRAM.-The sanctions required by subsection  (a)(1)(E)  may  include  the  completion  of  an  appropriate rehabilitation program.
 
-''(d)  APPEALS.-Upon determination by the Secretary to terminate  financial  assistance  to  any  institution  of  higher  education under  this  section,  the  institution  may  file  an  appeal  with  an administrative law judge before the expiration of the 30-day period beginning  on  the  date  such  institution  is  notified  of  the  decision to  terminate  financial  assistance  under  this  section.  Such  judge shall hold a hearing with respect to such termination of assistance before  the  expiration  of  the  45-day  period  beginning  on  the  date that  such  appeal  is  filed.  Such  judge  may  extend  such  45-day period  upon  a  motion  by  the  institution  concerned.  The  decision of  the  judge  with  respect  to  such  termination  shall  be  considered to be a final agency action.
+''(d) APPEALS.-Upon determination by the Secretary to terminate financial assistance to any institution of higher education under this section, the institution may file an appeal with an administrative law judge before the expiration of the 30-day period beginning on the date such institution is notified of the decision to terminate financial assistance under this section. Such judge shall hold a hearing with respect to such termination of assistance before the expiration of the 45-day period beginning on the date that such appeal is filed. Such judge may extend such 45-day
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 H.R.6-18
+period upon a motion by the institution concerned. The decision of the judge with respect to such termination shall be considered to be a final agency action.
 
 ''(e) ALCOHOL AND DRUG ABUSE PREVENTION GRANTS.-
 
@@ -588,13 +596,14 @@ H.R.6-19
 
 ''(vi)  a  description  of  coordination  and  networking efforts that exist in the community in which the institution is located for purposes of such programs.
 
-''(B) APPLICATION REVIEW.-The Secretary shall appoint a committee  to review applications  submitted under  this  paragraph.  The  committee  may  include  representatives  of  Federal  departments  or  agencies  the  programs of which include alcohol abuse prevention and education  efforts  and  drug  abuse  prevention  and  education efforts,  directors  or  heads  (or  their  representatives)  of professional  associations  that  focus  on  alcohol  and  drug abuse  prevention  efforts,  and  non-Federal  scientists  who have backgrounds in social science evaluation and research methodology and in education. Decisions of the committee shall  be  made  directly  to  the  Secretary  without  review by any other entity in the Department.
+''(B) APPLICATION REVIEW.-The Secretary shall appoint a committee to review applications submitted
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 H.R.6-20
+under this paragraph. The committee may include representatives of Federal departments or agencies the programs of which include alcohol abuse prevention and education efforts and drug abuse prevention and education efforts, directors or heads (or their representatives) of professional associations that focus on alcohol and drug abuse prevention efforts, and non-Federal scientists who have backgrounds in social science evaluation and research methodology and in education. Decisions of the committee shall be made directly to the Secretary without review by any other entity in the Department.
 
 ''(C)  REVIEW CRITERIA.-The  committee  described  in subparagraph (B) shall develop specific review criteria for reviewing and evaluating applications submitted under this paragraph. The review criteria shall include-
 
@@ -670,13 +679,14 @@ shall  be  subject  to  the  requirements  of  such  part  as  such part was in 
 
 ###### ''SEC. 122. RECOVERY OF PAYMENTS.
 
-''(a)  PUBLIC BENEFIT.-Congress declares that, if a facility constructed  with  the  aid  of  a  grant  under  part  A  of  title  VII  as such  part  A  was  in  effect  prior  to  the  date  of  enactment  of  the Higher  Education  Amendments  of  1998,  or  part  B  of  such  title as  part  B  was  in  effect  prior  to  the  date  of  enactment  of  the Higher  Education  Amendments  of  1992,  is  used  as  an  academic facility  for  20  years  following  completion  of  such  construction,  the public  benefit  accruing  to  the  United  States  will  equal  in  value the  amount  of  the  grant.  The  period  of  20  years  after  completion of  such  construction  shall  therefore  be  deemed  to  be  the  period of  Federal  interest  in  such  facility  for  the  purposes  of  such  title as so in effect.
+''(a) PUBLIC BENEFIT.-Congress declares that, if a facility constructed with the aid of a grant under part A of title VII as such part A was in effect prior to the date of enactment of the Higher Education Amendments of 1998, or part B of such title as part B was in effect prior to the date of enactment of the Higher Education Amendments of 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
 H.R.6-22
+the amount of the grant. The period of 20 years after completion of such construction shall therefore be deemed to be the period of Federal interest in such facility for the purposes of such title as so in effect.
 
 ''(b) RECOVERY UPON CESSATION OF PUBLIC BENEFIT.-If, within 20  years  after  completion  of  construction  of  an  academic  facility which  has  been  constructed,  in  part  with  a  grant  under  part  A of  title  VII  as  such  part  A  was  in  effect  prior  to  the  date  of enactment  of  the  Higher  Education  Amendments  of  1998,  or  part B  of  title  VII  as  such  part  B  was  in  effect  prior  to  the  date of enactment of the Higher Education Amendments of 1992-
 
@@ -702,13 +712,14 @@ the  United  States  shall  be  entitled  to  recover  from  such  applicant (or
 
 ''(A)  develop  a  standard  definition  for  the  following data elements:
 
-''(i)  tuition  and  fees  for  a  full-time  undergraduate student;
+''(i) tuition and fees for a full-time undergraduate
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 H.R.6-23
+student;
 
 ''(ii)  cost  of  attendance for a full-time undergraduate  student,  consistent  with  the  provisions  of  section 472;
 
@@ -750,13 +761,14 @@ H.R.6-23
 
 ''(B)  the  relationship  of  the  expenditures  identified  in paragraph (1) to college costs; and
 
-''(C)  the  extent  to  which  increases  in  institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federal financial  aid,  including  loan  aid,  has  been  used  to  offset the costs of such practices.
+''(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
 H.R.6-24
+such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federal financial aid, including loan aid, has been used to offset the costs of such practices.
 
 ''(3) FINAL REPORT.-The Commissioner of Education Statistics  shall  submit  a  report  regarding  the  findings  of  the  study required  by  paragraph  (1)  to  the  appropriate  committees  of Congress not later than September 30, 2002.
 
@@ -776,7 +788,7 @@ H.R.6-24
 
 ''(E)  to  disseminate  such  information  in  both  published and machine readable form.
 
-''(2)  The  survey  shall  be  representative  of  full-time  and  parttime,  undergraduate,  graduate,  and  professional  and  current  and former students in all types of institutions, and should be designed and administered in consultation  with  the  Congress  and  the  postsecondary education community.
+''(2) The survey shall be representative of full-time and part-time, undergraduate, graduate, and professional and current and former students in all types of institutions, and should be designed and administered in consultation with the Congress and the postsecondary education community.
 
 ##### ''PART  D-ADMINISTRATIVE  PROVISIONS  FOR DELIVERY  OF  STUDENT  FINANCIAL  ASSISTANCE
 
@@ -784,13 +796,14 @@ H.R.6-24
 
 ''(a) ESTABLISHMENT AND PURPOSE.-
 
-''(1)  ESTABLISHMENT.-There  is  established  in  the  Department a Performance-Based Organization (hereafter referred to as  the  'PBO')  which  shall  be  a  discrete  management  unit responsible  for  managing  the  operational  functions  supporting the programs authorized under title IV of this Act, as specified in subsection (b).
+''(1) ESTABLISHMENT.-There is established in the Department a Performance-Based Organization (hereafter referred to
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
 H.R.6-25
+as the 'PBO') which shall be a discrete management unit responsible for managing the operational functions supporting the programs authorized under title IV of this Act, as specified in subsection (b).
 
 ''(2) PURPOSES.-The purposes of the PBO are-
 
@@ -850,7 +863,9 @@ H.R.6-26
 
 ''(A) IN GENERAL.-The Secretary and the Chief Operating  Officer  shall  consult  concerning  the  effects  of  policy, market,  or  other  changes  on  the  ability  of  the  PBO  to achieve the goals and objectives established in the performance plan described in subsection (c).
 
-''(B) REVISIONS TO AGREEMENT.-The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) in light of policy, market,  or  other  changes  that  occur  after  the  Secretary and the Chief Operating Officer enter into the agreement. ''(c) PERFORMANCE PLAN AND REPORT.-
+''(B) REVISIONS TO AGREEMENT.-The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) in light of policy, market,  or  other  changes  that  occur  after  the  Secretary and the Chief Operating Officer enter into the agreement.
+
+''(c) PERFORMANCE PLAN AND REPORT.-
 
 ''(1) PERFORMANCE PLAN.-
 
@@ -872,7 +887,7 @@ H.R.6-27
 
 ''(iii)  IMPROVEMENT AND INTEGRATION OF SUPPORT SYSTEMS.-Improving  and  integrating  the  information and delivery systems that support those programs.
 
-''(iv) DELIVERY AND INFORMATION SYSTEM.Developing an open, common, and integrated delivery and information system for programs authorized under this title.
+''(iv) DELIVERY AND INFORMATION SYSTEM.-Developing an open, common, and integrated delivery and information system for programs authorized under this title.
 
 ''(v)  OTHER AREAS.-Any other areas identified by the Secretary.
 
@@ -928,13 +943,15 @@ The President or Secretary shall communicate the reasons for any  such  removal 
 
 ''(B)  BONUS.-In  addition,  the  Chief  Operating  Officer may  receive  a  bonus  in  an  amount  that  does  not  exceed 50  percent  of  such  annual  rate  of  basic  pay,  based  upon the Secretary's evaluation of the Chief Operating Officer's performance  in  relation  to the goals set forth in  the performance agreement described in paragraph (2).
 
-''(C) PAYMENT.-Payment of a bonus under this subparagraph  (B)  may  be  made  to  the  Chief  Operating Officer  only  to  the  extent  that  such  payment  does  not cause  the  Chief  Operating  Officer's  total  aggregate  compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3, United States Code.
+''(C) PAYMENT.-Payment of a bonus under this subparagraph  (B)  may  be  made  to  the  Chief  Operating Officer  only  to  the  extent  that  such  payment  does  not
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
 H.R.6-29
+
+cause  the  Chief  Operating  Officer's  total  aggregate  compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3, United States Code.
 
 ''(e) SENIOR MANAGEMENT.-
 
@@ -1008,7 +1025,9 @@ H.R.6-31
 
 ''(1) PERFORMANCE-BASED SERVICING CONTRACTS.-The Chief  Operating  Officer  shall,  to  the  extent  practicable,  maximize the use of performance-based servicing contracts, consistent  with  guidelines  for  such  contracts  published  by  the  Office of  Federal  Procurement  Policy,  to  achieve  cost  savings  and improve service.
 
-''(2)  FEE FOR SERVICE ARRANGEMENTS.-The Chief Operating  Officer  shall,  when  appropriate  and  consistent  with  the purposes  of  the  PBO,  acquire  services  related  to  the  title  IV delivery  system  from  any  entity  that  has  the  capability  and capacity  to  meet  the  requirements  for  the  system.  The  Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of  the  PBO,  as  determined  by  the  Chief  Operating  Officer. ''(d) TWO-PHASE SOURCE-SELECTION PROCEDURES.-
+''(2)  FEE FOR SERVICE ARRANGEMENTS.-The Chief Operating  Officer  shall,  when  appropriate  and  consistent  with  the purposes  of  the  PBO,  acquire  services  related  to  the  title  IV delivery  system  from  any  entity  that  has  the  capability  and capacity  to  meet  the  requirements  for  the  system.  The  Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of  the  PBO,  as  determined  by  the  Chief  Operating  Officer.
+
+''(d) TWO-PHASE SOURCE-SELECTION PROCEDURES.-
 
 ''(1)  IN GENERAL.-The PBO may use a two-phase process for selecting a source for a procurement of property or services.
 
@@ -1044,7 +1063,7 @@ H.R.6-32
 
 ''(4)  PROCEDURES CONSIDERED COMPETITIVE.-The  procedures  used  for  selecting  a  source  for  a  procurement  under this  subsection  shall  be  considered  competitive  procedures  for all purposes.
 
-''(e) USE OF SIMPLIFIED PROCEDURES FOR COMMERCIAL ITEMS.Whenever the PBO anticipates that commercial items will be offered for  a  procurement,  the  PBO  may  use  (consistent  with  the  special rules  for  commercial  items)  the  special  simplified  procedures  for the procurement without regard to-
+''(e) USE OF SIMPLIFIED PROCEDURES FOR COMMERCIAL ITEMS.-Whenever the PBO anticipates that commercial items will be offered for  a  procurement,  the  PBO  may  use  (consistent  with  the  special rules  for  commercial  items)  the  special  simplified  procedures  for the procurement without regard to-
 
 ''(1)  any  dollar  limitation  otherwise  applicable  to  the  use of those procedures; and
 
@@ -1088,7 +1107,7 @@ H.R.6-33
 
 ''(4)  PROCEDURES.-If  the  procurement  of  the  first  module for  a  system  meets  the  requirements  set  forth  in  paragraph (3),  the  PBO  may  award  a  contract  for  the  procurement  of an additional module for the system using any of the following procedures:
 
-''(A)  SOLE SOURCE.-Award  of  the  contract  on  a  solesource  basis  to  a  contractor  who  was  awarded  a  contract for  a  module  previously  procured  for  the  system  under competitive  procedures  or  procedures  authorized  under subparagraph (B).
+''(A)  SOLE SOURCE.-Award  of  the  contract  on  a  sole-source  basis  to  a  contractor  who  was  awarded  a  contract for  a  module  previously  procured  for  the  system  under competitive  procedures  or  procedures  authorized  under subparagraph (B).
 
 ''(B)  ADEQUATE COMPETITION.-Award  of  the  contract on the basis of offers made by-
 
@@ -1116,7 +1135,7 @@ H.R.6-34
 
 ''(7) SIMPLIFIED SOURCE-SELECTION PROCEDURES.-The PBO may  award  a  contract  under  any  other  simplified  procedures prescribed  by  the  PBO  for  the  selection  of  sources  for  the procurement  of  modules  for  a  system,  after  the  first  module, that  are  not  to  be  procured  under  a  contract  awarded  on  a sole-source basis.
 
-''(h) USE OF SIMPLIFIED PROCEDURES FOR SMALL BUSINESS SETASIDES FOR SERVICES OTHER THAN COMMERCIAL ITEMS.-
+''(h) USE OF SIMPLIFIED PROCEDURES FOR SMALL BUSINESS SET-ASIDES FOR SERVICES OTHER THAN COMMERCIAL ITEMS.-
 
 ''(1)  AUTHORITY.-The  PBO  may  use  special  simplified procedures for a procurement of services that are not commercial items if-
 
@@ -1188,7 +1207,9 @@ H.R.6-36
 
 ''(1) to ensure  the  integrity  and  confidentiality of  the information; and
 
-''(2)  to  protect  against  any  reasonably  anticipated  security threats, or unauthorized uses or disclosures of the information. ''(f ) DEFINITIONS.-
+''(2)  to  protect  against  any  reasonably  anticipated  security threats, or unauthorized uses or disclosures of the information.
+
+''(f ) DEFINITIONS.-
 
 ''(1)  CLEARINGHOUSE.-The  term  'clearinghouse'  means  a public or private entity that processes or facilitates the processing of nonstandard data elements into data elements conforming to standards adopted under this section.
 
@@ -1248,7 +1269,7 @@ H.R.6-37
 
 (ii) by striking ''(20 U.S.C. 1141(a))''.
 
-(C)  ALLOWABLE COSTS UNDER DEFENSE CONTRACTS.Section  841(c)(2)  of  the  National  Defense  Authorization Act for fiscal year 1994 (10 U.S.C. 2324 note) is amended-
+(C)  ALLOWABLE COSTS UNDER DEFENSE CONTRACTS.-Section  841(c)(2)  of  the  National  Defense  Authorization Act for fiscal year 1994 (10 U.S.C. 2324 note) is amended-
 
 (i)  by  striking  ''1201(a)''  and  inserting  ''101'';  and
 
@@ -1274,7 +1295,7 @@ H.R.6-38
 
 (ii) by striking ''(20 U.S.C. 1141(a))''.
 
-(3)  APPLICATION OF ANTITRUST LAWS TO AWARD OF NEEDBASED EDUCATIONAL AID.-Section  568(c)(3)  of  the  Improving America's Schools Act of 1994 (15 U.S.C. 1 note) is amended-
+(3)  APPLICATION OF ANTITRUST LAWS TO AWARD OF NEED-BASED EDUCATIONAL AID.-Section  568(c)(3)  of  the  Improving America's Schools Act of 1994 (15 U.S.C. 1 note) is amended-
 
 (A) by striking ''1201(a)'' and inserting ''101''; and
 
@@ -1328,7 +1349,7 @@ H.R.6-39
 
 (A)  ENVIRONMENT AND SUSTAINABLE DEVELOPMENT EXCHANGE PROGRAM.-Section  240(d)  of  the  Foreign  Relations  Authorization  Act,  Fiscal  Years  1994  and  1995  (22 U.S.C.  2452  note)  is  amended  by  striking  ''1201(a)''  and inserting ''101''.
 
-(B) SAMANTHA SMITH MEMORIAL EXCHANGE PROGRAM.Section  112(a)(8)  of  the  Mutual  Educational  and  Cultural Exchange Act of 1961 (22 U.S.C. 2460(a)(8)) is amended-
+(B) SAMANTHA SMITH MEMORIAL EXCHANGE PROGRAM.-Section  112(a)(8)  of  the  Mutual  Educational  and  Cultural Exchange Act of 1961 (22 U.S.C. 2460(a)(8)) is amended-
 
 (i)  by  striking  ''1201(a)''  and  inserting  ''101'';  and
 
@@ -1428,7 +1449,7 @@ H.R.6-41
 
 (ii) by striking ''(20 U.S.C. 1141(a))''.
 
-(H)  STATE DEPENDENT CARE DEVELOPMENT GRANTS.Section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) is amended by striking ''1201(a)'' and inserting ''101''.
+(H)  STATE DEPENDENT CARE DEVELOPMENT GRANTS.-Section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) is amended by striking ''1201(a)'' and inserting ''101''.
 
 (I) INSTRUCTIONAL ACTIVITIES FOR LOW-INCOME YOUTH.-The matter preceding subparagraph (A) of section 682(b)(1)  of  the  Community  Services  Block  Grant  Act  (42 U.S.C.  9910c(b)(1))  is  amended  by  striking  ''1201(a)''  and inserting ''101''.
 
@@ -1516,7 +1537,7 @@ H.R.6-42
 
 (B)  in  paragraph  (12),  by  striking  ''section  481''  and inserting ''section 102''.
 
-(2)  NATIONAL AND COMMUNITY SERVICE ACT OF 1990.Section  148(g)  of  the  National  and  Community  Service  Act of  1990  (42  U.S.C.  12604(g))  is  amended  by  striking  ''section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))'' and  inserting  ''section  102  of  the  Higher  Education  Act  of 1965''.
+(2)  NATIONAL AND COMMUNITY SERVICE ACT OF 1990.-Section  148(g)  of  the  National  and  Community  Service  Act of  1990  (42  U.S.C.  12604(g))  is  amended  by  striking  ''section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))'' and  inserting  ''section  102  of  the  Higher  Education  Act  of 1965''.
 
 (d)  WORKFORCE INVESTMENT ACT OF 1998.-The  Workforce Investment Act of 1998 is amended-
 
@@ -1548,7 +1569,9 @@ The  Act  is  amended  by  inserting  after  title  I  (20  U.S.C.  1001 et seq.
 
 ''(3)  hold  institutions  of  higher  education  accountable  for preparing teachers who have the necessary teaching skills and are  highly  competent  in  the  academic  content  areas  in  which the  teachers  plan  to  teach,  such  as  mathematics,  science, English, foreign languages, history, economics, art, civics, Government, and geography, including training in the effective uses of technology in the classroom; and
 
-''(4)  recruit  highly  qualified  individuals,  including  individuals from other occupations, into the teaching force. ''(b) DEFINITIONS.-In this title:
+''(4)  recruit  highly  qualified  individuals,  including  individuals from other occupations, into the teaching force.
+
+''(b) DEFINITIONS.-In this title:
 
 ''(1)  ARTS AND SCIENCES.-The  term  'arts  and  sciences' means-
 
@@ -1610,7 +1633,7 @@ H.R.6-44
 
 H.R.6-45
 
-''(4) ALTERNATIVE ROUTES TO STATE CERTIFICATION.Carrying out programs that-
+''(4) ALTERNATIVE ROUTES TO STATE CERTIFICATION.-Carrying out programs that-
 
 ''(A) include support during the initial teaching experience; and
 
@@ -1636,7 +1659,9 @@ H.R.6-45
 
 ''(ii) a school of arts and sciences; and
 
-''(iii)  a  high  need  local  educational  agency;  and ''(B) may include a Governor, State educational agency, the  State  board  of  education,  the  State  agency  for  higher education, an institution of higher education not described in  subparagraph  (A),  a  public  charter  school,  a  public  or private  elementary  school  or  secondary  school,  a  public or  private  nonprofit  educational  organization,  a  business, a teacher organization, or a prekindergarten program.
+''(iii)  a  high  need  local  educational  agency;  and
+
+''(B) may include a Governor, State educational agency, the  State  board  of  education,  the  State  agency  for  higher education, an institution of higher education not described in  subparagraph  (A),  a  public  charter  school,  a  public  or private  elementary  school  or  secondary  school,  a  public or  private  nonprofit  educational  organization,  a  business, a teacher organization, or a prekindergarten program.
 
 ''(2) PARTNER INSTITUTION.-In this section, the term 'partner institution' means a private independent or State-supported public institution of higher education, the teacher training program of which demonstrates that-
 
@@ -1684,7 +1709,7 @@ H.R.6-47
 
 ''(d)  REQUIRED USES OF FUNDS.-An  eligible  partnership  that receives  a  grant  under  this  section  shall  use  the  grant  funds  to carry out the following activities:
 
-''(1) REFORMS.-Implementing reforms within teacher preparation  programs  to  hold  the  programs  accountable  for preparing  teachers  who  are  highly  competent  in  the  academic content  areas  in  which  the  teachers  plan  to  teach,  and  for promoting  strong  teaching  skills,  including  working  with  a school  of  arts  and  sciences  and  integrating  reliable  researchbased teaching methods into the curriculum, which curriculum shall include programs designed to successfully integrate technology into teaching and learning.
+''(1) REFORMS.-Implementing reforms within teacher preparation  programs  to  hold  the  programs  accountable  for preparing  teachers  who  are  highly  competent  in  the  academic content  areas  in  which  the  teachers  plan  to  teach,  and  for promoting  strong  teaching  skills,  including  working  with  a school  of  arts  and  sciences  and  integrating  reliable  research-based teaching methods into the curriculum, which curriculum shall include programs designed to successfully integrate technology into teaching and learning.
 
 ''(2)  CLINICAL EXPERIENCE AND INTERACTION.-Providing sustained and high quality preservice clinical experience including the mentoring of prospective teachers by veteran teachers, and  substantially  increasing  interaction  between  faculty  at institutions of higher education and new and experienced teachers, principals, and other administrators at elementary schools or secondary schools, and providing support, including preparation time, for such interaction.
 
@@ -1692,7 +1717,7 @@ H.R.6-47
 
 ''(e)  ALLOWABLE USES OF FUNDS.-An eligible partnership that receives  a  grant  under  this  section  may  use  such  funds  to  carry out the following activities:
 
-''(1)  TEACHER PREPARATION AND PARENT INVOLVEMENT.Preparing  teachers  to  work  with  diverse  student  populations, including individuals with disabilities and limited English proficient individuals, and involving parents in the teacher preparation program reform process.
+''(1)  TEACHER PREPARATION AND PARENT INVOLVEMENT.-Preparing  teachers  to  work  with  diverse  student  populations, including individuals with disabilities and limited English proficient individuals, and involving parents in the teacher preparation program reform process.
 
 ''(2)  DISSEMINATION AND COORDINATION.-Broadly disseminating  information  on  effective  practices  used  by  the  partnership, and coordinating with the activities of the Governor, State board  of  education,  State  higher  education  agency,  and  State educational agency, as appropriate.
 
@@ -1718,9 +1743,11 @@ H.R.6-48
 
 ''(1) an eligible State described in section 202(b); or
 
-''(2)  an  eligible  partnership  described  in  section  203(b). ''(c)  APPLICATION.-Any  eligible  applicant  desiring  to  receive a  grant  under  this  section  shall  submit  an  application  to  the  Secretary at such time, in such form, and containing such information as the Secretary may require, including-
+''(2)  an  eligible  partnership  described  in  section  203(b).
 
-''(1) a description of the assessment  that  the  eligible applicant, and the other entities with whom  the  eligible applicant  will  carry  out  the  grant  activities,  have  undertaken to  determine the most critical needs of the participating highneed local educational agencies;
+''(c)  APPLICATION.-Any  eligible  applicant  desiring  to  receive a  grant  under  this  section  shall  submit  an  application  to  the  Secretary at such time, in such form, and containing such information as the Secretary may require, including-
+
+''(1) a description of the assessment  that  the  eligible applicant, and the other entities with whom  the  eligible applicant  will  carry  out  the  grant  activities,  have  undertaken to  determine the most critical needs of the participating high-need local educational agencies;
 
 ''(2)  a  description  of  the  activities  the  eligible  applicant will carry out with the grant; and
 
@@ -1744,7 +1771,7 @@ H.R.6-48
 
 ''(1) DURATION.-
 
-''(A)  ELIGIBLE STATES AND ELIGIBLE APPLICANTS.Grants  awarded  to  eligible  States  and  eligible  applicants under this title shall be awarded for a period not to exceed 3 years.
+''(A)  ELIGIBLE STATES AND ELIGIBLE APPLICANTS.-Grants  awarded  to  eligible  States  and  eligible  applicants under this title shall be awarded for a period not to exceed 3 years.
 
 ''(B) ELIGIBLE PARTNERSHIPS.-Grants awarded to eligible  partnerships  under  this  title  shall  be  awarded  for a period of 5 years.
 
@@ -1824,7 +1851,9 @@ H.R.6-50
 
 ''(i) with academic majors in the arts and sciences; or
 
-''(ii)  who  can  demonstrate  competence  through  a high  level  of  performance  in  core  academic  subjects. ''(5)  DECREASING TEACHER SHORTAGES.-Decreasing  shortages of qualified teachers in poor urban and rural areas.
+''(ii)  who  can  demonstrate  competence  through  a high  level  of  performance  in  core  academic  subjects.
+
+''(5)  DECREASING TEACHER SHORTAGES.-Decreasing  shortages of qualified teachers in poor urban and rural areas.
 
 ''(6) INCREASING OPPORTUNITIES FOR PROFESSIONAL DEVELOPMENT.-Increasing opportunities for enhanced and ongoing  professional  development  that  improves  the  academic content  knowledge  of  teachers  in  the  subject  areas  in  which the  teachers  are  certified  or  licensed  to  teach  or  in  which the  teachers  are  working  toward  certification  or  licensure  to teach, and that promotes strong teaching skills.
 
@@ -1833,6 +1862,7 @@ H.R.6-50
 [[START OF PAGE 51]]
 
 H.R.6-51
+the teachers are working toward certification or licensure to teach, and that promotes strong teaching skills.
 
 ''(7)  TECHNOLOGY INTEGRATION.-Increasing the number of teachers  prepared  to  integrate  technology  in  the  classroom.
 
@@ -1864,17 +1894,18 @@ H.R.6-51
 
 ''(B)  ELIGIBLE PARTNERSHIPS.-If  the  Secretary  determines that an eligible partnership is not making substantial  progress  in  meeting  the  purposes,  goals,  objectives, and  measures,  as  appropriate,  by  the  end  of  the  third year  of  a  grant  under  this  title,  then  the  grant  payments shall  not  be  made  for  any  succeeding  year  of  the  grant.
 
-''(d)  EVALUATION AND DISSEMINATION.-The  Secretary  shall evaluate  the  activities  funded  under  this  title  and  report  the  Secretary's findings regarding the activities to the Committee on Labor and  Human  Resources  of  the  Senate  and  the  Committee  on  Education  and  the  Workforce  of  the  House  of  Representatives.  The Secretary  shall  broadly  disseminate  successful  practices  developed by  eligible  States  and  eligible  partnerships  under  this  title,  and shall broadly disseminate information regarding such practices that were found to be ineffective.
+''(d)  EVALUATION AND DISSEMINATION.-The  Secretary  shall evaluate  the  activities  funded  under  this  title  and  report  the  Secretary's findings regarding the activities to the Committee on Labor and  Human  Resources  of  the  Senate  and  the  Committee  on  Education  and  the  Workforce  of  the  House  of  Representatives.  The Secretary  shall  broadly  disseminate  successful  practices  developed by  eligible  States  and  eligible  partnerships  under  this  title,  and
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
 H.R.6-52
+shall broadly disseminate information regarding such practices that were found to be ineffective.
 
 ###### ''SEC.  207.  ACCOUNTABILITY FOR PROGRAMS THAT PREPARE TEACHERS.
 
-''(a) DEVELOPMENT OF DEFINITIONS AND REPORTING METHODS.Within 9 months of the date of enactment of the Higher Education Amendments  of  1998,  the  Commissioner  of  the  National  Center for Education Statistics, in consultation with States and institutions of  higher  education,  shall  develop  key  definitions  for  terms,  and uniform  reporting  methods  (including  the  key  definitions  for  the consistent  reporting  of  pass  rates),  related  to  the  performance  of elementary  school  and  secondary  school  teacher  preparation  programs.
+''(a) DEVELOPMENT OF DEFINITIONS AND REPORTING METHODS.-Within 9 months of the date of enactment of the Higher Education Amendments  of  1998,  the  Commissioner  of  the  National  Center for Education Statistics, in consultation with States and institutions of  higher  education,  shall  develop  key  definitions  for  terms,  and uniform  reporting  methods  (including  the  key  definitions  for  the consistent  reporting  of  pass  rates),  related  to  the  performance  of elementary  school  and  secondary  school  teacher  preparation  programs.
 
 ''(b) STATE REPORT CARD ON THE QUALITY OF TEACHER PREPARATION.-Each State that receives funds under this Act shall provide  to  the  Secretary,  within  2  years  of  the  date  of  enactment of the Higher Education Amendments of 1998, and annually thereafter, in a uniform and comprehensible manner that conforms with the  definitions  and  methods  established  in  subsection  (a),  a  State report  card  on  the  quality  of  teacher  preparation  in  the  State, which shall include at least the following:
 
@@ -2018,9 +2049,9 @@ H.R.6-56
 
 (6)  by  inserting  after  part  D  of  title  III  (as  redesignated by paragraph (3)) the following:
 
-##### '' PART E-MINORITY SCIENCE AND ENGINEERING IMPROVEMENT PROGRAM ';
+##### ''PART E-MINORITY SCIENCE AND ENGINEERING IMPROVEMENT PROGRAM'';
 
-(7) by redesignating sections 1021 through 1023 (20 U.S.C. 1135b and 1135b-2), and sections 1041, 1042, 1043, 1044, 1046, and 1047 (20 U.S.C. 1135d, 1135d-1, 1135d-2, 1135d-3, 1135d5,  and  1135d-6)  as  sections  351  through  353,  and  sections 361, 362, 363, 364, 365, and 366, respectively; and
+(7) by redesignating sections 1021 through 1023 (20 U.S.C. 1135b and 1135b-2), and sections 1041, 1042, 1043, 1044, 1046, and 1047 (20 U.S.C. 1135d, 1135d-1, 1135d-2, 1135d-3, 1135d-5,  and  1135d-6)  as  sections  351  through  353,  and  sections 361, 362, 363, 364, 365, and 366, respectively; and
 
 (8) by repealing section 366 (as redesignated by paragraph (7)) (20 U.S.C. 1135d-6).
 
@@ -2464,13 +2495,14 @@ H.R.6-65
 
 (5) HOLD HARMLESS RULE.-Section 326 is further amended by adding at the end the following new subsection:
 
-''(g)  HOLD HARMLESS RULE.-Notwithstanding  paragraphs  (2) and (3) of subsection (f ), no institution or qualified program identified  in  subsection  (e)(1)  that  received  a  grant  for  fiscal  year  1998 and  that  is  eligible  to  receive  a  grant  in  a  subsequent  fiscal  year shall  receive  a  grant  amount  in  any  such  subsequent  fiscal  year that  is  less  than  the  grant  amount  received  for  fiscal  year  1998, unless  the  amount  appropriated  is  not  sufficient  to  provide  such grant amounts to all such institutions and programs, or the institution  cannot  provide  sufficient  matching  funds  to  meet  the  requirements of this section.''.
+''(g)  HOLD HARMLESS RULE.-Notwithstanding  paragraphs  (2) and (3) of subsection (f ), no institution or qualified program identified  in  subsection  (e)(1)  that  received  a  grant  for  fiscal  year  1998 and  that  is  eligible  to  receive  a  grant  in  a  subsequent  fiscal  year shall  receive  a  grant  amount  in  any  such  subsequent  fiscal  year that  is  less  than  the  grant  amount  received  for  fiscal  year  1998, unless  the  amount  appropriated  is  not  sufficient  to  provide  such
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
 
 H.R.6-66
+grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.''.
 
 ### SEC. 305. ENDOWMENT CHALLENGE GRANTS.
 
@@ -2484,7 +2516,7 @@ Section 331(b) (20 U.S.C. 1065(b)) is amended-
 
 ''(i) applies for a grant in an amount  not  exceeding $500,000; and
 
-''(ii)  has  deposited  in  the  eligible  institution's  endowment fund established under this section an amount which is equal to  1 /2 of the amount of such grant.
+''(ii)  has  deposited  in  the  eligible  institution's  endowment fund established under this section an amount which is equal to  1⁄2 of the amount of such grant.
 
 ''(C) An eligible institution of higher education that is awarded a  grant  under  subparagraph  (B)  shall  not  be  eligible  to  receive an  additional  grant  under  subparagraph  (B)  until  10  years  after the date on which the grant period terminates.''.
 
@@ -2620,13 +2652,14 @@ H.R.6-68
 
 ''(a) APPLICATIONS.-
 
-''(1)  APPLICATIONS REQUIRED.-Any  institution  which  is eligible  for  assistance  under  this  title  shall  submit  to  the  Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the  Secretary  to  evaluate  the  institution's  need  for  the  assistance.  Subject  to  the  availability  of  appropriations  to  carry  out this title,  the  Secretary may approve an application for assistance  under  this  title  only  if  the  Secretary  determines  that-
+''(1)  APPLICATIONS REQUIRED.-Any  institution  which  is eligible  for  assistance  under  this  title  shall  submit  to  the  Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the  Secretary  to  evaluate  the  institution's  need  for  the  assistance.  Subject  to  the  availability  of  appropriations  to  carry  out
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
 H.R.6-69
+this title, the Secretary may approve an application for assistance under this title only if the Secretary determines that-
 
 ''(A)  the  application  meets  the  requirements  of  subsection (b);
 
@@ -2740,7 +2773,7 @@ H.R.6-71
 
 less an amount equal to the amount determined to be the expected family  contribution  with  respect  to  that  student  for  that  year.''.
 
-(c) RELATION OF MAXIMUM GRANT TO TUITION AND EXPENSES.Paragraph  (3)  of  section  401(b)  is  amended  to  read  as  follows:
+(c) RELATION OF MAXIMUM GRANT TO TUITION AND EXPENSES.-Paragraph  (3)  of  section  401(b)  is  amended  to  read  as  follows:
 
 ''(3)(A)  For  any  academic  year  for  which  an  appropriation  Act provides a maximum basic grant in an amount in excess of $2,700, the  amount  of  a  student's  basic  grant  shall  equal  $2,700  plus-
 
@@ -2772,17 +2805,18 @@ less an amount equal to the amount determined to be the expected family  contrib
 
 except  that  this  paragraph  shall  not  apply  to  a  student  who  is enrolled  in  an  institution  of  higher  education  that  offers  a  baccalaureate degree in education.''.
 
-(f )  INSTITUTIONAL INELIGIBILITY BASED ON DEFAULT RATES.Section 401 is amended by adding at the end the following:
+(f )  INSTITUTIONAL INELIGIBILITY BASED ON DEFAULT RATES.-Section 401 is amended by adding at the end the following:
 
 ''( j)  INSTITUTIONAL INELIGIBILITY BASED ON DEFAULT RATES.-
 
-''(1)  IN GENERAL.-No institution of higher education shall be  an  eligible  institution  for  purposes  of  this  subpart  if  such institution  of  higher  education  is  ineligible  to  participate  in a  loan  program  under  part  B  or  D  as  a  result  of  a  final default  rate  determination  made  by  the  Secretary  under  part B  or  D  after  the  final  publication  of  cohort  default  rates  for fiscal year 1996 or a succeeding fiscal year.
+''(1)  IN GENERAL.-No institution of higher education shall be  an  eligible  institution  for  purposes  of  this  subpart  if  such institution  of  higher  education  is  ineligible  to  participate  in a  loan  program  under  part  B  or  D  as  a  result  of  a  final default  rate  determination  made  by  the  Secretary  under  part
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
 
 H.R.6-72
+B or D after the final publication of cohort default rates for fiscal year 1996 or a succeeding fiscal year.
 
 ''(2)  SANCTIONS SUBJECT TO APPEAL OPPORTUNITY.-No institution may be subject to the terms of this subsection unless the  institution  has  had  the  opportunity  to  appeal  the  institution's  default  rate  determination  under  regulations  issued  by the  Secretary  for  the  loan  program  authorized  under  part  B or  D,  as  applicable.  This  subsection  shall  not  apply  to  an institution  that  was  not  participating  in  the  loan  program authorized  under  part  B  or  D  on  the  date  of  enactment  of the Higher Education Amendments of 1998, unless the institution subsequently participates in the loan programs.''.
 
@@ -2840,7 +2874,7 @@ H.R.6-73
 
 ''(C) $190,000 for programs authorized by sections 402C and 402E.''.
 
-(3) PROCEDURES FOR AWARDING GRANTS AND CONTRACTS.Subsection  (c)  of  section  402A  is  amended  to  read  as  follows: ''(c)  PROCEDURES FOR AWARDING GRANTS AND CONTRACTS.-
+(3) PROCEDURES FOR AWARDING GRANTS AND CONTRACTS.-Subsection  (c)  of  section  402A  is  amended  to  read  as  follows: ''(c)  PROCEDURES FOR AWARDING GRANTS AND CONTRACTS.-
 
 ''(1)  APPLICATION REQUIREMENTS.-An  eligible  entity  that desires  to  receive  a  grant  or  contract  under  this  chapter  shall submit  an  application  to  the  Secretary  in  such  manner  and form,  and  containing  such  information  and  assurances,  as  the Secretary may reasonably require.
 
@@ -2960,7 +2994,7 @@ programs  of  increasing  access  to,  and  retention  of,  students in postseco
 
 #### SEC. 403. GEAR UP PROGRAM.
 
-Chapter 2 of subpart 2 of part A of title IV (20 U.S.C. 1070a21 et seq.) is amended to read as follows:
+Chapter 2 of subpart 2 of part A of title IV (20 U.S.C. 1070a-21 et seq.) is amended to read as follows:
 
 ##### ''CHAPTER 2-GAINING EARLY AWARENESS AND READINESS FOR UNDERGRADUATE PROGRAMS
 
@@ -2978,13 +3012,15 @@ Chapter 2 of subpart 2 of part A of title IV (20 U.S.C. 1070a21 et seq.) is amen
 
 ''(b) AWARDS.-
 
-''(1)  IN GENERAL.-From funds appropriated under section 404H  for  each  fiscal  year,  the  Secretary  shall  make  awards to  eligible  entities  described  in  paragraphs  (1)  and  (2)  of  subsection  (c)  to  enable  the  entities  to  carry  out  the  program authorized under subsection (a).
+''(1)  IN GENERAL.-From funds appropriated under section 404H  for  each  fiscal  year,  the  Secretary  shall  make  awards
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
 
 H.R.6-77
+
+to  eligible  entities  described  in  paragraphs  (1)  and  (2)  of subsection  (c)  to  enable  the  entities  to  carry  out  the  program authorized under subsection (a).
 
 ''(2) PRIORITY.-In making awards to eligible entities described in paragraph (c)(1), the Secretary shall-
 
@@ -3010,7 +3046,7 @@ H.R.6-77
 
 ''(B) one or more degree granting institutions of higher education; and
 
-''(C)  at  least  two  community  organizations  or  entities, such  as  businesses,  professional  associations,  communitybased organizations, philanthropic organizations, State agencies, institutions or agencies  sponsoring  programs authorized  under  subpart  4,  or  other  public  or  private agencies or organizations.
+''(C)  at  least  two  community  organizations  or  entities, such  as  businesses,  professional  associations,  community-based organizations, philanthropic organizations, State agencies, institutions or agencies  sponsoring  programs authorized  under  subpart  4,  or  other  public  or  private agencies or organizations.
 
 ###### ''SEC. 404B. REQUIREMENTS.
 
@@ -3048,7 +3084,7 @@ H.R.6-78
 
 ''(d) DESIGNATION OF FISCAL AGENT.-An eligible entity described  in  section  404A(c)(2)  shall  designate  an  institution  of higher  education  or  a  local  educational  agency  as  the  fiscal  agent for the eligible entity.
 
-''(e)  COORDINATORS.-An  eligible  entity  described  in  section 404A(c)(2)  shall  have  a  full-time  program  coordinator  or  a  parttime program coordinator, whose primary responsibility is a project under section 404C.
+''(e)  COORDINATORS.-An  eligible  entity  described  in  section 404A(c)(2)  shall  have  a  full-time  program  coordinator  or  a  part-time program coordinator, whose primary responsibility is a project under section 404C.
 
 ''(f )  DISPLACEMENT.-An eligible entity described in 404A(c)(2) shall  ensure  that  the  activities  assisted  under  this  chapter  will not displace an employee or eliminate a position at a school assisted under  this  chapter,  including  a  partial  displacement  such  as  a reduction in hours, wages or employment benefits.
 
@@ -3098,7 +3134,7 @@ H.R.6-79
 
 ''(2)  the  amount  of  tuition,  fees,  room  or  board  waived or  reduced  for  recipients  of  financial  assistance  under  this chapter; and
 
-''(3)  the  amount  expended  on  documented,  targeted,  longterm mentoring and counseling provided by volunteers or paid staff of nonschool organizations, including businesses, religious organizations,  community  groups,  postsecondary  educational institutions,  nonprofit  and  philanthropic  organizations,  and other organizations.
+''(3)  the  amount  expended  on  documented,  targeted,  long-term mentoring and counseling provided by volunteers or paid staff of nonschool organizations, including businesses, religious organizations,  community  groups,  postsecondary  educational institutions,  nonprofit  and  philanthropic  organizations,  and other organizations.
 
 ''(d)  PEER REVIEW PANELS.-The Secretary shall  convene  peer review  panels  to  assist  in  making  determinations  regarding  the awarding of grants under this chapter.
 
@@ -3106,13 +3142,15 @@ H.R.6-79
 
 ''(a) SERVICES.-
 
-''(1)  IN GENERAL.-In  order  to  receive  a  grant  under  this chapter, an eligible entity shall demonstrate to the satisfaction of  the  Secretary,  in  the  plan  submitted  under  section  404C, that  the  eligible  entity  will  provide  comprehensive  mentoring, counseling, outreach, and supportive services to students participating in programs under this chapter. Such counseling shall include-
+''(1)  IN GENERAL.-In  order  to  receive  a  grant  under  this chapter, an eligible entity shall demonstrate to the satisfaction of  the  Secretary,  in  the  plan  submitted  under  section  404C,
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
 
 H.R.6-80
+
+that  the  eligible  entity  will  provide  comprehensive  mentoring, counseling, outreach, and supportive services to students participating in programs under this chapter. Such counseling shall include-
 
 ''(A) financial aid counseling and information regarding the  opportunities  for  financial  assistance  under  this  title; and
 
@@ -3220,13 +3258,15 @@ H.R.6-82
 
 ###### ''SEC. 404G. EVALUATION AND REPORT.
 
-''(a) EVALUATION.-Each eligible entity receiving a grant under this  chapter  shall  biennially  evaluate  the  activities  assisted  under this  chapter  in  accordance  with  the  standards  described  in  subsection (b) and shall submit to the Secretary a copy of such evaluation. The evaluation shall permit service providers to track eligible student progress during the period such students are participating in  the  activities  and  shall  be  consistent  with  the  standards  developed by the Secretary pursuant to subsection (b).
+''(a) EVALUATION.-Each eligible entity receiving a grant under this  chapter  shall  biennially  evaluate  the  activities  assisted  under
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
 H.R.6-83
+
+this  chapter  in  accordance  with  the  standards  described  in  subsection (b) and shall submit to the Secretary a copy of such evaluation. The evaluation shall permit service providers to track eligible student progress during the period such students are participating in  the  activities  and  shall  be  consistent  with  the  standards  developed by the Secretary pursuant to subsection (b).
 
 ''(b)  EVALUATION STANDARDS.-The  Secretary  shall  prescribe standards for the evaluation described in subsection (a). Such standards shall-
 
@@ -3244,7 +3284,7 @@ H.R.6-83
 
 #### SEC. 404. ACADEMIC ACHIEVEMENT INCENTIVE SCHOLARSHIPS.
 
-Chapter 3 of subpart 2 of part A of title IV (20 U.S.C. 1070a31 et seq.) is amended to read as follows:
+Chapter 3 of subpart 2 of part A of title IV (20 U.S.C. 1070a-31 et seq.) is amended to read as follows:
 
 ##### ''CHAPTER 3-ACADEMIC ACHIEVEMENT INCENTIVE SCHOLARSHIPS
 
@@ -3306,7 +3346,7 @@ H.R.6-85
 
 (b) USE OF FUNDS FOR LESS-THAN-FULL-TIME STUDENTS.-Subsection  (d)  of  section  413C  (20  U.S.C.  1070b-2)  is  amended  to read as follows:
 
-''(d)  USE OF FUNDS FOR LESS-THAN-FULL-TIME STUDENTS.If  the  institution's  allocation  under  this  subpart  is  directly  or indirectly  based  in  part  on  the  financial  need  demonstrated  by students who are independent students or attending the institution on  less  than  a  full-time  basis,  then  a  reasonable  proportion  of the allocation shall be made available to such students.''.
+''(d)  USE OF FUNDS FOR LESS-THAN-FULL-TIME STUDENTS.-If  the  institution's  allocation  under  this  subpart  is  directly  or indirectly  based  in  part  on  the  financial  need  demonstrated  by students who are independent students or attending the institution on  less  than  a  full-time  basis,  then  a  reasonable  proportion  of the allocation shall be made available to such students.''.
 
 (c) ALLOCATION OF FUNDS.-
 
@@ -3362,7 +3402,7 @@ H.R.6-86
 
 (A) in section 415B(b) (20 U.S.C. 1070c-1(b)), by striking ''State student grant incentive'' and inserting ''leveraging educational assistance partnership''; and
 
-(B) in the heading for section 415C (20 U.S.C. 1070c2),  by  striking  '' STATE STUDENT INCENTIVE GRANT ''  and inserting  '' LEVERAGING EDUCATIONAL ASSISTANCE PARTNERSHIP ''.
+(B) in the heading for section 415C (20 U.S.C. 1070c-2),  by  striking  '' STATE STUDENT INCENTIVE GRANT ''  and inserting  '' LEVERAGING EDUCATIONAL ASSISTANCE PARTNERSHIP ''.
 
 (b)  AUTHORIZATION OF APPROPRIATIONS.-Section  415A(b)  (20 U.S.C. 1070c(b)) is amended-
 
@@ -3402,7 +3442,7 @@ H.R.6-87
 
 ''(3)  carrying  out  a  financial  aid  program  for  eligible  students who demonstrate financial need and wish to enter careers in  information  technology,  or  other  fields  of  study  determined by  the  State  to  be  critical  to  the  State's  workforce  needs;
 
-''(4)  making  funds  available  for  community  service  workstudy activities for eligible students who demonstrate financial need;
+''(4)  making  funds  available  for  community  service  work-study activities for eligible students who demonstrate financial need;
 
 ''(5) creating a postsecondary scholarship program  for eligible  students  who  demonstrate  financial  need  and  wish to enter teaching;
 
@@ -3414,7 +3454,7 @@ H.R.6-87
 
 ''(d)  MAINTENANCE OF EFFORT REQUIREMENT.-Each  State receiving  a  grant  under  this  section  for  a  fiscal  year  shall  provide the  Secretary  an  assurance  that  the  aggregate  amount  expended per student or the aggregate expenditures by the State, from funds derived  from  non-Federal  sources,  for  the  authorized  activities described  in  subsection  (c)  for  the  preceding  fiscal  year  were  not less  than  the  amount  expended  per  student  or  the  aggregate expenditures by the State for the activities for the second preceding fiscal year.
 
-''(e)  FEDERAL SHARE.-The  Federal  share  of  the  cost  of  the authorized activities  described  in  subsection  (c)  for  any  fiscal  year shall be not more than 33 1 /3 percent.''.
+''(e)  FEDERAL SHARE.-The  Federal  share  of  the  cost  of  the authorized activities  described  in  subsection  (c)  for  any  fiscal  year shall be not more than 33⅓ percent.''.
 
 (c) TECHNICAL AND CONFORMING AMENDMENTS.-
 
@@ -3428,7 +3468,7 @@ H.R.6-87
 
 ''(B)  eligible  students  for  campus-based  community service work-study; and
 
-''(2)  carrying out the activities described in section 415F.''. (2) ALLOTMENT.-Section  415B(a)(1)  (20 U.S.C.  1070c1(a)(1)) is amended by inserting ''and not reserved under section 415A(b)(2)'' after ''415A(b)(1)''.
+''(2)  carrying out the activities described in section 415F.''. (2) ALLOTMENT.-Section  415B(a)(1)  (20 U.S.C.  1070c-1(a)(1)) is amended by inserting ''and not reserved under section 415A(b)(2)'' after ''415A(b)(1)''.
 
 #### SEC. 408. SPECIAL PROGRAMS FOR STUDENTS WHOSE FAMILIES ARE ENGAGED IN MIGRANT AND SEASONAL FARMWORK.
 
@@ -3528,13 +3568,15 @@ H.R.6-89
 
 ''(4)  contain  a  description  of  the  activities  to  be  assisted, including  whether  the  grant  funds  will  support  an  existing child care program or a new child care program;
 
-''(5)  identify  the  resources,  including  technical  expertise and financial support, the institution will draw upon to support the  child  care  program  and  the  participation  of  low-income students in the program, such as accessing social services funding,  using  student  activity  fees  to  help  pay  the  costs  of  child care, using resources obtained by meeting the needs of parents who  are  not  low-income  students,  and  accessing  foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
+''(5)  identify  the  resources,  including  technical  expertise and financial support, the institution will draw upon to support
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
 H.R.6-90
+
+the  child  care  program  and  the  participation  of  low-income students in the program, such as accessing social services funding,  using  student  activity  fees  to  help  pay  the  costs  of  child care, using resources obtained by meeting the needs of parents who  are  not  low-income  students,  and  accessing  foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
 
 ''(6)  contain  an  assurance  that  the  institution  will  meet the child care needs of low-income students through the provision  of  services,  or  through  a  contract  for  the  provision  of services;
 
@@ -3556,7 +3598,7 @@ H.R.6-90
 
 ''(1)  leverage  significant  local  or  institutional  resources, including in-kind contributions, to support the activities assisted under this section; and
 
-''(2) utilize a sliding fee scale for child care services provided under  this  section  in  order  to  support  a  high  number  of  lowincome parents pursuing postsecondary education at the institution.
+''(2) utilize a sliding fee scale for child care services provided under  this  section  in  order  to  support  a  high  number  of  low-income parents pursuing postsecondary education at the institution.
 
 ''(e) REPORTING REQUIREMENTS; CONTINUING ELIGIBILITY.-
 
@@ -3578,7 +3620,7 @@ H.R.6-91
 
 ''(iii) information on progress made toward accreditation of any child care facility; and
 
-''(iv)  information  on  the  impact  of  the  grant  on the  quality,  availability,  and  affordability  of  campusbased child care services.
+''(iv)  information  on  the  impact  of  the  grant  on the  quality,  availability,  and  affordability  of  campus-based child care services.
 
 ''(2)  CONTINUING ELIGIBILITY.-The  Secretary  shall  make the third annual grant payment under this section to an institution  of  higher  education  only  if  the  Secretary  determines,  on the  basis  of  the  18-month  report  submitted  under  paragraph (1), that the institution is making a good faith effort to ensure that  low-income  students  at  the  institution  have  access  to affordable, quality child care services.
 
@@ -3600,7 +3642,7 @@ Subpart  8  of  part  A  of  title  IV  (20  U.S.C.  1070  et  seq.)  is amended
 
 ''(2) Individuals, including individuals seeking basic or technical  skills  or  their  first  postsecondary  experience,  individuals with  disabilities,  dislocated  workers,  individuals  making  the transition  from  welfare-to-work,  and  individuals  who  are  limited  by  time  and  place  constraints  can  benefit  from  nontraditional, noncampus-based postsecondary education opportunities and appropriate support services.
 
-''(3)  The  need  for  high-quality,  nontraditional,  technologybased education opportunities is great, as is the need for skill competency  credentials  and  other  measures  of  educational progress  and  attainment  that  are  valid  and  widely  accepted, but  neither  need  is  likely  to  be  adequately  addressed  by  the uncoordinated efforts of agencies and institutions acting independently and without assistance.
+''(3)  The  need  for  high-quality,  nontraditional,  technology-based education opportunities is great, as is the need for skill competency  credentials  and  other  measures  of  educational progress  and  attainment  that  are  valid  and  widely  accepted, but  neither  need  is  likely  to  be  adequately  addressed  by  the uncoordinated efforts of agencies and institutions acting independently and without assistance.
 
 [[END OF PAGE 91]]
 
@@ -3742,13 +3784,13 @@ H.R.6-94
 
 ''(a)  ESTABLISHMENT.-Each  guaranty  agency  shall,  not  later than  60  days  after  the  date  of  enactment  of  this  section,  deposit all funds, securities, and other liquid assets contained in the reserve fund  established  pursuant  to  section  422  into  a  Federal  Student Loan  Reserve  Fund  (in  this  section  and  section  422B  referred  to as the 'Federal Fund'), which shall be an account of a type selected by the agency, with the approval of the Secretary.
 
-''(b)  INVESTMENT OF FUNDS.-Funds transferred to the Federal Fund  shall  be  invested  in  obligations  issued  or  guaranteed  by the United States or a State, or in other similarly low-risk securities selected by the guaranty agency, with the approval of the Secretary. Earnings  from  the  Federal  Fund  shall  be  the  sole  property  of the Federal Government.
-
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
 
 H.R.6-95
+
+''(b)  INVESTMENT OF FUNDS.-Funds transferred to the Federal Fund  shall  be  invested  in  obligations  issued  or  guaranteed  by the United States or a State, or in other similarly low-risk securities selected by the guaranty agency, with the approval of the Secretary. Earnings  from  the  Federal  Fund  shall  be  the  sole  property  of the Federal Government.
 
 ''(c) ADDITIONAL DEPOSITS.-After the establishment of the Federal Fund, a guaranty agency shall deposit into the Federal Fund-
 
@@ -3778,13 +3820,15 @@ H.R.6-95
 
 ''(f ) TRANSITION.-
 
-''(1) IN GENERAL.-In order to establish the Operating Fund, each  guaranty  agency  may  transfer  not  more  than  180  days' cash  expenses  for  normal  operating  expenses  (not  including claim  payments)  as  a  working  capital  reserve  as  defined  in Office of Management and Budget Circular A-87 (Cost Accounting  Standards)  from  the  Federal  Fund  for  deposit  into  the Operating  Fund  for  use  in  the  performance  of  the  guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating  Fund.  However,  no  agency  may  transfer  in  excess  of  45 percent of the balance, as of September 30, 1998, of the agency's Federal  Fund  to  the  agency's  Operating  Fund  during  such 3-year  period.  In  determining  the  amount  that  may  be  transferred,  the  agency  shall  ensure  that  sufficient  funds  remain in  the  Federal  Fund  to  pay  lender  claims  within  the  required time  periods  and  to  meet  the  reserve  recall  requirements  of this section and subsections (h) and (i) of section 422.
+''(1) IN GENERAL.-In order to establish the Operating Fund, each  guaranty  agency  may  transfer  not  more  than  180  days' cash  expenses  for  normal  operating  expenses  (not  including claim  payments)  as  a  working  capital  reserve  as  defined  in
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
 
 H.R.6-96
+
+Office of Management and Budget Circular A-87 (Cost Accounting  Standards)  from  the  Federal  Fund  for  deposit  into  the Operating  Fund  for  use  in  the  performance  of  the  guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating  Fund.  However,  no  agency  may  transfer  in  excess  of  45 percent of the balance, as of September 30, 1998, of the agency's Federal  Fund  to  the  agency's  Operating  Fund  during  such 3-year  period.  In  determining  the  amount  that  may  be  transferred,  the  agency  shall  ensure  that  sufficient  funds  remain in  the  Federal  Fund  to  pay  lender  claims  within  the  required time  periods  and  to  meet  the  reserve  recall  requirements  of this section and subsections (h) and (i) of section 422.
 
 ''(2) SPECIAL RULE.-A limited number of guaranty agencies may  transfer  interest  earned  on  the  Federal  Fund  to  the Operating  Fund  during  the  first  3  years  after  the  date  of enactment of this section if the guaranty agency demonstrates to the Secretary that-
 
@@ -3824,9 +3868,9 @@ H.R.6-97
 
 ''(II)  that  the  agency will be financially sound on the completion of repayment.
 
-''(B) REPAYMENT OF INCOME ON TRANSFERRED FUNDS.All repayments made to the Federal Fund during the 6th, 7th,  and  8th  years  following  the  establishment  of  the Operating  Fund  of  interest  that  was  transferred  shall include the sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
+''(B) REPAYMENT OF INCOME ON TRANSFERRED FUNDS.-All repayments made to the Federal Fund during the 6th, 7th,  and  8th  years  following  the  establishment  of  the Operating  Fund  of  interest  that  was  transferred  shall include the sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
 
-''(7)  INVESTMENT OF FEDERAL FUNDS.-Funds  transferred from  the  Federal  Fund  to  the  Operating  Fund  for  operating expenses shall be invested in obligations issued or guaranteed by  the  United  States  or  a  State,  or  in  other  similarly  lowrisk securities  selected  by  the  guaranty  agency,  with  the approval of the Secretary.
+''(7)  INVESTMENT OF FEDERAL FUNDS.-Funds  transferred from  the  Federal  Fund  to  the  Operating  Fund  for  operating expenses shall be invested in obligations issued or guaranteed by  the  United  States  or  a  State,  or  in  other  similarly  low-risk securities  selected  by  the  guaranty  agency,  with  the approval of the Secretary.
 
 ''(8)  SPECIAL RULE.-In  calculating  the  minimum  reserve level required by section 428(c)(9)(A), the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.''.
 
@@ -3900,7 +3944,9 @@ Section 424(a) (20 U.S.C. 1074(a)) is amended-
 
 #### SEC.  415.  LIMITATIONS  ON  INDIVIDUAL  FEDERALLY INSURED LOANS AND FEDERAL LOAN INSURANCE.
 
-Section 425(a)(1)(A) (20 U.S.C. 1075(a)(1)(A)) is amended(1) in clause (i)-
+Section 425(a)(1)(A) (20 U.S.C. 1075(a)(1)(A)) is amended-
+
+(1) in clause (i)-
 
 (A)  by  inserting  ''and''  after  the  semicolon  at  the  end of subclause (I); and
 
@@ -3926,13 +3972,15 @@ Section 425(a)(1)(A) (20 U.S.C. 1075(a)(1)(A)) is amended(1) in clause (i)-
 
 ''(A)  the  bond  equivalent  rate  of  91-day  Treasury  bills auctioned  at  the  final  auction  held  prior  to  such  June 1; plus
 
-''(B) 2.3 percent, except that such rate shall not exceed 8.25 percent.
+''(B) 2.3 percent,
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
 
 H.R.6-100
+
+except that such rate shall not exceed 8.25 percent.
 
 ''(2)  IN SCHOOL AND GRACE PERIOD RULES.-Notwithstanding  subsection  (h),  with  respect  to  any  loan  under  this  part (other  than  a  loan  made  pursuant  to  section  428B  or  428C) for  which  the  first  disbursement  is  made  on  or  after  October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues-
 
@@ -3948,7 +3996,7 @@ shall  be  determined  under  paragraph  (1)  by  substituting  '1.7 percent' fo
 
 ''(4) CONSOLIDATION LOANS.-With respect to any consolidation  loan  under  section  428C  for  which  the  application  is received  by  an  eligible  lender  on  or  after  October  1,  1998, and  before  July  1,  2003,  the  applicable  rate  of  interest  shall be  at  an  annual  rate  on  the  unpaid  principal  balance  of  the loan that is equal to the lesser of-
 
-''(A)  the  weighted  average  of  the  interest  rates  on the loans consolidated, rounded to the nearest higher oneeighth of 1 percent; or
+''(A)  the  weighted  average  of  the  interest  rates  on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 
 ''(B) 8.25 percent.
 
@@ -3982,7 +4030,7 @@ H.R.6-101
 
 ''(iv)  CONSOLIDATION LOANS.-In  the  case  of  any consolidation loan for which the application is received by an eligible  lender  on  or  after  October  1,  1998,  and before  July  1,  2003,  and  for  which  the  applicable interest  rate  is  determined  under  section  427A(k)(4), clause  (i)(III)  of  this  subparagraph  shall  be  applied by  substituting  '3.1  percent'  for  '2.8  percent',  subject to clause (vi) of this subparagraph.
 
-''(v) LIMITATION ON SPECIAL ALLOWANCES FOR PLUS LOANS.-In the case of PLUS loans made under section 428B and first  disbursed  on  or  after  October  1,  1998, and  before  July  1,  2003,  for  which  the  interest  rate is determined under section 427A(k)(3), a special allowance  shall  not  be  paid  for  such  loan  during  any  12month period beginning on July 1 and ending on June 30  unless,  on  the  June  1  preceding  such  July  1-
+''(v) LIMITATION ON SPECIAL ALLOWANCES FOR PLUS LOANS.-In the case of PLUS loans made under section 428B and first  disbursed  on  or  after  October  1,  1998, and  before  July  1,  2003,  for  which  the  interest  rate is determined under section 427A(k)(3), a special allowance  shall  not  be  paid  for  such  loan  during  any  12-month period beginning on July 1 and ending on June 30  unless,  on  the  June  1  preceding  such  July  1-
 
 ''(I)  the  bond  equivalent  rate  of  91-day  Treasury bills  auctioned  at  the  final  auction  held  prior to  such  June  1  (as  determined  by  the  Secretary for purposes of such section); plus
 
@@ -3990,9 +4038,9 @@ H.R.6-101
 
 exceeds 9.0 percent.
 
-''(vi)  LIMITATION ON SPECIAL ALLOWANCES FOR CONSOLIDATION LOANS.-In  the  case  of  consolidation loans  made  under  section  428C  and  for  which  the application  is  received  on  or  after  October  1,  1998, and  before  July  1,  2003,  for  which  the  interest  rate is determined under section 427A(k)(4), a special allowance  shall  not  be  paid  for  such  loan  during  any  3month  period  ending  March  31,  June  30,  September 30, or December 31 unless-
+''(vi)  LIMITATION ON SPECIAL ALLOWANCES FOR CONSOLIDATION LOANS.-In  the  case  of  consolidation loans  made  under  section  428C  and  for  which  the application  is  received  on  or  after  October  1,  1998, and  before  July  1,  2003,  for  which  the  interest  rate is determined under section 427A(k)(4), a special allowance  shall  not  be  paid  for  such  loan  during  any  3-month  period  ending  March  31,  June  30,  September 30, or December 31 unless-
 
-''(I)  the  average  of  the  bond  equivalent  rate of  91-day  Treasury  bills  auctioned  for  such  3month period; plus
+''(I)  the  average  of  the  bond  equivalent  rate of  91-day  Treasury  bills  auctioned  for  such  3-month period; plus
 
 ''(II) 3.1 percent,
 
@@ -4124,7 +4172,7 @@ H.R.6-104
 
 (B)  in  clause  (iii)(I),  by  inserting  ''that  originates  or holds more than $5,000,000 in loans made under this title for any lender fiscal year (except that each lender described in  section  435(d)(1)(A)(ii)(III)  shall  annually  submit  the results  of  an  audit  required  by  this  clause),''  before  ''at least once a year''.
 
-(8) ADDITIONAL INSURANCE PROGRAM REQUIREMENTS.Section 428(b)(1) is further amended-
+(8) ADDITIONAL INSURANCE PROGRAM REQUIREMENTS.-Section 428(b)(1) is further amended-
 
 (A) by striking ''and'' at the end of subparagraph (W);
 
@@ -4162,7 +4210,7 @@ H.R.6-105
 
 (B)  by  adding  at  the  end  the  following  new  sentence: ''It  shall  not  be  a  violation  of  this  paragraph  for  a  guaranty agency to provide assistance to institutions of higher education comparable  to  the  kinds  of  assistance  provided  to  institutions of higher education by the Department of Education.''.
 
-(10)  DELAY IN COMMENCEMENT OF REPAYMENT PERIOD.Section 428(b)(7) is amended by adding at the end the following:
+(10)  DELAY IN COMMENCEMENT OF REPAYMENT PERIOD.-Section 428(b)(7) is amended by adding at the end the following:
 
 ''(D) There shall be excluded from the 6-month period that begins  on  the  date  on  which  a  student  ceases  to  carry  at least one-half the normal  full-time  academic  workload  as described  in  subparagraph  (A)(i)  any  period  not  to  exceed  3 years  during  which  a  borrower  who  is  a  member  of  a  reserve component  of  the  Armed  Forces  named  in  section  10101  of title  10,  United  States  Code,  is  called  or  ordered  to  active duty  for  a  period  of  more  than  30  days  (as  defined  in  section 101(d)(2)  of  such  title).  Such  period  of  exclusion  shall  include the  period  necessary  to  resume  enrollment  at  the  borrower's next available regular enrollment period.''.
 
@@ -4228,9 +4276,9 @@ H.R.6-107
 
 (A) in subparagraph (A), by striking ''proof that reasonable  attempts  were  made''  and  inserting  ''proof  that  the institution  was  contacted  and  other  reasonable  attempts were made''; and
 
-(B)  in  subparagraph  (G),  by  striking  ''certifies  to  the Secretary  that  diligent  attempts  have  been  made''  and inserting ''certifies to the Secretary that diligent attempts, including  contact  with  the  institution,  have  been  made''. (3)  GUARANTY AGENCY INFORMATION TO ELIGIBLE INSTITU-
+(B)  in  subparagraph  (G),  by  striking  ''certifies  to  the Secretary  that  diligent  attempts  have  been  made''  and inserting ''certifies to the Secretary that diligent attempts, including  contact  with  the  institution,  have  been  made''.
 
-TIONS.-Section  428(c)(2)(H)(ii)  is  amended  to  read  as  follows:
+(3)  GUARANTY AGENCY INFORMATION TO ELIGIBLE INSTITUTIONS.-Section  428(c)(2)(H)(ii)  is  amended  to  read  as  follows:
 
 ''(ii)  the  guaranty  agency  shall  not  require  the payment  from  the  institution  of  any  fee  for  such information; and''.
 
@@ -4394,7 +4442,7 @@ H.R.6-110
 
 H.R.6-111
 
-''(2) LIMITATIONS ON BLANKET CERTIFICATE OF GUARANTY.(A)  An  eligible  lender  may  not  make  a  loan  to  a  borrower under  this  section  after  such  lender  receives  a  notification from the guaranty agency that the borrower is not an eligible borrower.
+''(2) LIMITATIONS ON BLANKET CERTIFICATE OF GUARANTY.-(A)  An  eligible  lender  may  not  make  a  loan  to  a  borrower under  this  section  after  such  lender  receives  a  notification from the guaranty agency that the borrower is not an eligible borrower.
 
 ''(B) A guaranty agency may establish limitations or restrictions  on  the  number  or  volume  of  loans  issued  by  a  lender under the blanket certificate of guaranty.
 
@@ -4612,7 +4660,7 @@ H.R.6-116
 
 #### SEC. 421. DEFAULT REDUCTION PROGRAM.
 
-The heading for subsection (b) of section 428F (20 U.S.C. 10786) is amended by striking ''SPECIAL RULE'' and inserting ''SATISFACTORY REPAYMENT ARRANGEMENTS TO RENEW ELIGIBILITY''.
+The heading for subsection (b) of section 428F (20 U.S.C. 1078-6) is amended by striking ''SPECIAL RULE'' and inserting ''SATISFACTORY REPAYMENT ARRANGEMENTS TO RENEW ELIGIBILITY''.
 
 #### SEC. 422. REQUIREMENTS FOR DISBURSEMENTS OF STUDENT LOANS.
 
@@ -5032,7 +5080,7 @@ H.R.6-126
 
 ''(aa)  remained  in  the  program  beyond  the  point the students would have received a 100 percent tuition refund from the institution;
 
-''(bb)  were  initially  enrolled  on  at  least  a  halftime basis; and
+''(bb)  were  initially  enrolled  on  at  least  a  half-time basis; and
 
 ''(cc)  were  originally  scheduled,  at  the  time  of enrollment,  to  complete  their  educational  programs during  the  same  12-month  period  described  in  clause (i).
 
@@ -5094,7 +5142,7 @@ H.R.6-128
 
 (i) by striking ''or'' after ''1992,''; and
 
-(ii) by inserting before the semicolon the following: '',  or  (III)  it  is  a  bank  (as  defined  in  section  3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)(1)) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3)  of  the  Internal  Revenue  Code  of  1986  and exempt  from  taxation  under  section  501(1)  of  such Code, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and  has  a  portfolio  of  such  loans  that  is  not  more than $5,000,000'';
+(ii) by inserting before the semicolon the following: '',  or  (III)  it  is  a  bank  (as  defined  in  section  3(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)(1))) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3)  of  the  Internal  Revenue  Code  of  1986  and exempt  from  taxation  under  section  501(a)  of  such Code, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and  has  a  portfolio  of  such  loans  that  is  not  more than $5,000,000'';
 
 (B)  by  striking  ''and''  at  the  end  of  subparagraph  (I); (C)  by  striking  the  period  at  the  end  of  subparagraph (J) and inserting ''; and''; and
 
@@ -5314,11 +5362,11 @@ H.R.6-133
 
 ''(ii)  is  funded  under  the  Elementary  and  Secondary Education Act of 1965; and
 
-''(B)  ensure  that  any  student  compensated  with  the funds  described  in  paragraph  (1)  who  is  employed  in  a school  participating  in  a  reading  reform  project  described in  subparagraph  (A)  receives  training  from  the  employing school  in  the  instructional  practices  used  by  the  school. ''(3)  FEDERAL SHARE.-The Federal share of the compensa-
+''(B)  ensure  that  any  student  compensated  with  the funds  described  in  paragraph  (1)  who  is  employed  in  a school  participating  in  a  reading  reform  project  described in  subparagraph  (A)  receives  training  from  the  employing school  in  the  instructional  practices  used  by  the  school.
 
-tion of work-study students compensated under this subsection may exceed 75 percent.''.
+''(3)  FEDERAL SHARE.-The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.''.
 
-(d)  USE OF FUNDS FOR INDEPENDENT AND LESS THAN FULLTIME STUDENTS.-Paragraph  (3)  of  section  443(b)  is  amended  to read as follows:
+(d)  USE OF FUNDS FOR INDEPENDENT AND LESS THAN FULL-TIME STUDENTS.-Paragraph  (3)  of  section  443(b)  is  amended  to read as follows:
 
 ''(3) provide that in the selection of students for employment under  such  work-study  program,  only  students  who  demonstrate  financial  need  in  accordance  with  part  F  and  meet the  requirements  of  section  484  will  be  assisted,  except  that if the institution's grant under this part is directly or indirectly based in  part  on  the  financial  need  demonstrated  by  students who are  (A)  attending  the  institution  on  less  than  a  full-time basis,  or  (B)  independent  students,  a  reasonable  portion  of the grant shall be made available to such students;''.
 
@@ -5454,7 +5502,7 @@ shall  be  determined under subparagraph (A) by substituting '1.7 percent' for '
 
 ''(ii) 8.25 percent.
 
-''(E)  TEMPORARY RULES FOR CONSOLIDATION LOANS.Notwithstanding  the  preceding  paragraphs  of  this  subsection,  any  Federal  Direct  Consolidation  loan  for  which the  application  is  received  on  or  after  October  1,  1998, and  before  February  1,  1999,  shall  bear  interest  at  an annual  rate  on  the  unpaid  principal  balance  of  the  loan that is equal to-
+''(E)  TEMPORARY RULES FOR CONSOLIDATION LOANS.-Notwithstanding  the  preceding  paragraphs  of  this  subsection,  any  Federal  Direct  Consolidation  loan  for  which the  application  is  received  on  or  after  October  1,  1998, and  before  February  1,  1999,  shall  bear  interest  at  an annual  rate  on  the  unpaid  principal  balance  of  the  loan that is equal to-
 
 ''(i)  the  bond  equivalent  rate  of  91-day  Treasury bills  auctioned  at  the  final  auction  held  prior  to  such June 1; plus
 
@@ -5734,7 +5782,7 @@ H.R.6-143
 
 ''(1)  AWARD YEARS PRIOR TO 2000.-For  award  years  prior to  award  year  2000,  the  applicable  maximum  cohort  default rate is 30 percent.
 
-''(2)  AWARD YEAR 2000 AND SUCCEEDING AWARD YEARS.For  award  year  2000  and  subsequent  years,  the  applicable maximum cohort default rate is 25 percent.''.
+''(2)  AWARD YEAR 2000 AND SUCCEEDING AWARD YEARS.-For  award  year  2000  and  subsequent  years,  the  applicable maximum cohort default rate is 25 percent.''.
 
 (d)  COHORT DEFAULT RATE DEFINITION.-Section  462(g)  (as redesignated by subsection (a)(2)(G)) is amended-
 
@@ -5814,7 +5862,7 @@ H.R.6-144
 
 (B) by inserting ''and regarding loans held by the Secretary or an institution'' after ''section 467''; (2) in paragraph (2)-
 
-(A) in the matter preceding subparagraph (A), by striking  ''by  the  Secretary''  and  all  that  follows  through  ''of''  and  inserting  ''by  the  Secretary  or  an  institution,  as the  case  may  be,  to  such  organizations,  with  respect  to any  loan  held  by  the  Secretary  or  the  institution,  respectively, of-'';
+(A) in the matter preceding subparagraph (A), by striking  ''by  the  Secretary''  and  all  that  follows  through  ''of-''  and  inserting  ''by  the  Secretary  or  an  institution,  as the  case  may  be,  to  such  organizations,  with  respect  to any  loan  held  by  the  Secretary  or  the  institution,  respectively, of-'';
 
 (B)  by  amending subparagraph (A) to read as follows:
 
@@ -6118,6 +6166,8 @@ Section 478(b) (20 U.S.C. 1087rr(b)) is amended-
 
 H.R.6-151
 
+the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.''.
+
 #### SEC.  477.  SIMPLIFIED  NEEDS  TEST;  ZERO  EXPECTED  FAMILY  CONTRIBUTION.
 
 Section 479 (20 U.S.C. 1087ss) is amended-
@@ -6150,13 +6200,15 @@ Section 479A (20 U.S.C. 1087tt) is amended-
 
 (2) by amending subsection (c) to read as follows:
 
-''(c)  REFUSAL OR ADJUSTMENT OF LOAN CERTIFICATIONS.-On a  case-by-case  basis,  an  eligible  institution  may  refuse  to  certify a  statement  that  permits  a  student  to  receive  a  loan  under  part B  or  D,  or  may  certify  a  loan  amount  or  make  a  loan  that  is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate  against  any  borrower  or  applicant  in  obtaining  a  loan  on the  basis  of  race,  national  origin,  religion,  sex,  marital  status, age, or disability status.''.
+''(c)  REFUSAL OR ADJUSTMENT OF LOAN CERTIFICATIONS.-On a  case-by-case  basis,  an  eligible  institution  may  refuse  to  certify a  statement  that  permits  a  student  to  receive  a  loan  under  part B  or  D,  or  may  certify  a  loan  amount  or  make  a  loan  that  is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided
 
 [[END OF PAGE 151]]
 
 [[START OF PAGE 152]]
 
 H.R.6-152
+
+in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.''.
 
 #### SEC. 479. TREATMENT OF OTHER FINANCIAL ASSISTANCE.
 
@@ -6194,13 +6246,15 @@ Section 480( j) (20 U.S.C. 1087vv( j)) is amended-
 
 ''(c)  DELAY OF EFFECTIVE DATE OF LATE PUBLICATIONS.-(1) Except as provided in paragraph (2), any regulatory changes initiated  by  the  Secretary  affecting  the  programs  under  this  title  that have  not  been  published  in  final  form  by  November  1  prior  to the  start  of  the  award  year  shall  not  become  effective  until  the beginning  of  the  second  award  year  after  such  November  1  date.
 
-''(2)(A)  The  Secretary  may  designate  any  regulatory  provision that  affects  the  programs  under  this  title  and  is  published  in final  form  after  November  1  as  one  that  an  entity  subject  to  the provision may, in the entity's discretion, choose to implement prior to  the  effective  date  described  in  paragraph  (1).  The  Secretary may  specify  in  the  designation  when,  and  under  what  conditions, an entity may implement the provision prior to that effective date. The  Secretary  shall  publish  any  designation  under  this  subparagraph in the Federal Register.
+''(2)(A)  The  Secretary  may  designate  any  regulatory  provision that  affects  the  programs  under  this  title  and  is  published  in final  form  after  November  1  as  one  that  an  entity  subject  to  the provision may, in the entity's discretion, choose to implement prior
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
 
 H.R.6-153
+
+to the effective date described in paragraph (1). The Secretary may specify in the designation when, and under what conditions, an entity may implement the provision prior to that effective date. The Secretary shall publish any designation under this subparagraph in the Federal Register.
 
 ''(B)  If  an  entity  chooses  to  implement  a  regulatory  provision prior to the effective date described in paragraph (1), as permitted by  subparagraph  (A),  the  provision  shall  be  effective  with  respect to  that  entity  in  accordance  with  the  terms  of  the  Secretary's designation.''.
 
@@ -6234,13 +6288,15 @@ H.R.6-153
 
 (5) by adding at the end the following:
 
-''(5) ELECTRONIC FORMS.-(A) The Secretary, in cooperation with  representatives  of  agencies  and  organizations  involved in student financial assistance, including private computer software providers, shall develop an electronic version of the form described  in  paragraph  (1).  As  permitted  by  the  Secretary, such  an  electronic  version  shall  not  require  a  signature  to be collected at the time such version is submitted, if a signature is subsequently submitted by the applicant. The Secretary shall prescribe  such  version  not  later  than  120  days  after  the  date of  enactment  of  the  Higher  Education  Amendments  of  1998.
+''(5) ELECTRONIC FORMS.-(A) The Secretary, in cooperation with  representatives  of  agencies  and  organizations  involved in student financial assistance, including private computer software providers, shall develop an electronic version of the form described  in  paragraph  (1).  As  permitted  by  the  Secretary, such  an  electronic  version  shall  not  require  a  signature  to be collected at the time such version is submitted, if a signature
 
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
 
 H.R.6-154
+
+is subsequently submitted by the applicant. The Secretary shall prescribe such version not later than 120 days after the date of enactment of the Higher Education Amendments of 1998.
 
 ''(B)  Nothing  in  this  section  shall  be  construed  to  prohibit the  use  of  the  form  developed  by  the  Secretary  pursuant  to subparagraph  (A)  by  an  eligible  institution,  eligible  lender, guaranty agency, State grant agency, private computer software providers,  a  consortium  thereof,  or  such  other  entities  as  the Secretary may designate.
 
@@ -6250,7 +6306,7 @@ H.R.6-154
 
 ''(6) THIRD PARTY SERVICERS AND PRIVATE SOFTWARE PROVIDERS.-To the extent practicable and in a timely manner, the Secretary shall provide, to private organizations and consortia  that  develop  software  used  by  eligible  institutions  for  the administration of funds under this title, all the necessary specifications  that  the  organizations  and  consortia  must  meet  for the software the organizations and consortia develop, produce, and  distribute  (including  any  diskette,  modem,  or  network communications)  which  are  so  used.  The  specifications  shall contain  record  layouts  for  required  data.  The  Secretary  shall develop in advance of each processing cycle an annual schedule for  providing  such  specifications.  The  Secretary,  to  the  extent practicable,  shall  use  means  of  providing  such  specifications, including  conferences  and  other  meetings,  outreach,  and  technical  support  mechanisms  (such  as  training  and  printed  reference materials). The Secretary shall, from time to time, solicit from such organizations and consortia means of improving the support provided by the Secretary.
 
-''(7) PARENT'S SOCIAL SECURITY NUMBER AND BIRTH DATE.The  Secretary  is  authorized  to  include  on  the  form  developed under  this  subsection  space  for  the  social  security  number and birth date of parents of dependent students seeking financial assistance under this title.''.
+''(7) PARENT'S SOCIAL SECURITY NUMBER AND BIRTH DATE.-The  Secretary  is  authorized  to  include  on  the  form  developed under  this  subsection  space  for  the  social  security  number and birth date of parents of dependent students seeking financial assistance under this title.''.
 
 (b)  STREAMLINED REAPPLICATION PROCESS.-Section  483(b)(1) is  amended  by  striking  '',  within  240  days''  and  all  that  follows through ''of 1992,''.
 
@@ -6327,36 +6383,15 @@ H.R.6-156
 ''(1)  IN GENERAL.-A  student  who  has  been  convicted  of any  offense  under  any  Federal  or  State  law  involving  the possession or sale of a controlled substance shall not be eligible to  receive  any  grant,  loan,  or  work  assistance  under  this  title during  the  period  beginning  on  the  date  of  such  conviction and  ending  after  the  interval  specified  in  the  following  table:
 
 ''If convicted of an offense involving:
-
 The possession of a con-
-
-trolled substance:
-
-Ineligibility period is:
-
-First offense .................................
-
-1 year
-
-Second offense .............................
-
-2 years Indefinite.
-
-Third offense
-
-...............................
-
+trolled substance: Ineligibility period is:
+First offense ................................. 1 year
+Second offense ............................. 2 years
+Third offense ............................... Indefinite.
 The sale of a controlled
-
-substance:
-
-Ineligibility period is:
-
-First offense .................................
-
-2 years Indefinite.
-
-Second offense .............................
+substance: Ineligibility period is:
+First offense ................................. 2 years
+Second offense ............................. Indefinite.
 
 ''(2) REHABILITATION.-A student whose eligibility has been suspended  under  paragraph  (1)  may  resume  eligibility  before the end of the ineligibility period determined under such paragraph if-
 
@@ -6382,7 +6417,7 @@ H.R.6-157
 
 Section 484A (20 U.S.C. 1091a) is amended-
 
-(1) in the heading of the section by inserting '' ,  AND STATE COURT JUDGMENTS '' after '' LIMITATIONS ''; and
+(1) in the heading of the section by inserting '', AND STATE COURT JUDGMENTS'' after ''LIMITATIONS''; and
 
 (2) by adding at the end the following:
 
@@ -6400,7 +6435,7 @@ Section 484B (20 U.S.C. 1091b) is amended to read as follows:
 
 ''(2) LEAVE OF ABSENCE.-
 
-''(A) LEAVE NOT TREATED AS WITHDRAWAL.-In the case of a student who takes a leave of absence from an institution  for  not  more  than  a  total  of  180  days  in  any  12month  period,  the  institution  may  consider  the  student as  not  having  withdrawn  from  the  institution  during  the leave  of  absence,  and  not  calculate  the  amount  of  grant and  loan  assistance  provided  under  this  title  that  is  to be returned in accordance with this section if-
+''(A) LEAVE NOT TREATED AS WITHDRAWAL.-In the case of a student who takes a leave of absence from an institution  for  not  more  than  a  total  of  180  days  in  any  12-month  period,  the  institution  may  consider  the  student as  not  having  withdrawn  from  the  institution  during  the leave  of  absence,  and  not  calculate  the  amount  of  grant and  loan  assistance  provided  under  this  title  that  is  to be returned in accordance with this section if-
 
 ''(i)  the  institution  has  a  formal  policy  regarding leaves of absence;
 
@@ -6674,13 +6709,15 @@ H.R.6-163
 
 ''(I)  any  building  or  property  owned  or  controlled  by an institution of higher education within the same reasonably contiguous geographic area of the institution and used by  the  institution  in  direct  support  of,  or  in  a  manner related to, the institution's educational purposes, including residence halls; and
 
-''(II)  property  within  the  same  reasonably  contiguous geographic  area  of  the  institution  that  is  owned  by  the institution  but  controlled  by  another  person,  is  used  by students,  and  supports  institutional  purposes  (such  as  a food or other retail vendor).
+''(II)  property  within  the  same  reasonably  contiguous geographic  area  of  the  institution  that  is  owned  by  the institution  but  controlled  by  another  person,  is  used  by
 
 [[END OF PAGE 163]]
 
 [[START OF PAGE 164]]
 
 H.R.6-164
+
+students, and supports institutional purposes (such as a food or other retail vendor).
 
 ''(ii)  The  term  'noncampus  building  or  property'  means-
 
@@ -6758,7 +6795,7 @@ H.R.6-165
 
 ''(J)(i)  The  total  expenses,  and  the  expenses  attributable  to  football,  men's  basketball,  women's  basketball, all  other  men's  sports  combined,  and  all  other  women's sports  combined,  made  by  the  institution  for  the  institution's intercollegiate athletics activities.
 
-''(ii)  For  the  purpose  of  clause  (i),  expenses  for  intercollegiate athletics activities allocable to a sport  shall include  (without  limitation)  grants-in-aid,  salaries,  travel, equipment,  and  supplies,  but  expenses  such  as  general and  administrative  overhead  not  so  allocable  shall  be included  in  the  calculation  of  total  expenses  only.'';  and (2) by striking paragraph (5);
+''(ii)  For  the  purpose  of  clause  (i),  expenses  for  intercollegiate athletics activities allocable to a sport  shall include  (without  limitation)  grants-in-aid,  salaries,  travel, equipment,  and  supplies,  but  expenses  such  as  general
 
 [[END OF PAGE 165]]
 
@@ -6766,7 +6803,13 @@ H.R.6-165
 
 H.R.6-166
 
-(3)  by  redesignating  paragraph  (4)  as  paragraph  (5);  and (4) by inserting after paragraph (3) the following:
+and administrative overhead not so allocable shall be included in the calculation of total expenses only.''; and
+
+(2) by striking paragraph (5);
+
+(3)  by  redesignating  paragraph  (4)  as  paragraph  (5);  and
+
+(4) by inserting after paragraph (3) the following:
 
 ''(4)  SUBMISSION;  REPORT;  INFORMATION AVAILABILITY.-(A) On  an  annual  basis,  each  institution of  higher  education described in paragraph (1) shall provide to the Secretary, within 15  days  of  the  date  that  the  institution  makes  available  the report  under  paragraph  (1),  the  information  contained  in  the report.
 
@@ -7004,7 +7047,7 @@ H.R.6-171
 
 (C) by adding at the end the following:
 
-''(iii)  at  the  discretion  of  the  Secretary,  with  regard  to an eligible institution (other than an eligible institution described  in  section  102(a)(1)(C))  that  has  obtained  less  than $200,000 in funds under this title during each of the 2 award years  that  precede  the  audit  period  and  submits  a  letter  of credit  payable  to  the  Secretary  equal  to  not  less  than 1 /2 of the annual potential liabilities of such institution as determined by  the  Secretary,  deeming  an  audit  conducted  every  3  years to  satisfy  the  requirements  of  clause  (i),  except  for  the  award year  immediately  preceding  renewal  of  the  institution's  eligibility under section 498(g);'';
+''(iii)  at  the  discretion  of  the  Secretary,  with  regard  to an eligible institution (other than an eligible institution described  in  section  102(a)(1)(C))  that  has  obtained  less  than $200,000 in funds under this title during each of the 2 award years  that  precede  the  audit  period  and  submits  a  letter  of credit  payable  to  the  Secretary  equal  to  not  less  than 1⁄2 of the annual potential liabilities of such institution as determined by  the  Secretary,  deeming  an  audit  conducted  every  3  years to  satisfy  the  requirements  of  clause  (i),  except  for  the  award year  immediately  preceding  renewal  of  the  institution's  eligibility under section 498(g);'';
 
 (2)  in  paragraph  (4),  by  striking  '',  after  consultation  with each  State  review  entity  designated  under  subpart  1  of  part H,''; and
 
@@ -7212,13 +7255,15 @@ Part  G  of  title  IV  (20  U.S.C.  1088  et  seq.)  is  amended  by adding at 
 
 ''(2)  ensure  that  the  Robert  T.  Stafford  Federal  Student Loan  Program  and  the  William  D.  Ford  Federal  Direct  Loan Program are equal in level of priority with respect to addressing,  and  that  resources  are  managed  to  equally  provide  for successful  resolution  of,  the  Year  2000  computer  problem  in both programs by December 31, 1999;
 
-''(3)  work  with  the  Department's  various  data  exchange partners under this title to fully test all data exchange routes for  Year  2000  compliance  via  end-to-end  testing,  and  submit a  report  describing  the  parameters  and  results  of  such  tests to  the  Comptroller  General  not  later  than  March  31,  1999;
+''(3)  work  with  the  Department's  various  data  exchange partners under this title to fully test all data exchange routes
 
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
 
 H.R.6-177
+
+for  Year  2000  compliance  via  end-to-end  testing,  and  submit a  report  describing  the  parameters  and  results  of  such  tests to  the  Comptroller  General  not  later  than  March  31,  1999;
 
 ''(4)  ensure  that  the  Inspector  General  of  the  Department (or  an  external,  independent  entity  selected  by  the  Inspector General) performs and publishes a risk assessment of the systems and hardware under the Department's management, that has  been  reviewed  by  an  independent  entity,  and  make  such assessment publicly available not later than 60 days after the date  of  enactment  of  the  Higher  Education  Amendments  of 1998;
 
@@ -7242,13 +7287,15 @@ H.R.6-177
 
 ''(i)  implementation  of  such  requirements  would require  extensive  changes  to  the  existing  systems  of institutions, lenders, or guaranty agencies; and
 
-''(ii)  postponement is necessary to avoid jeopardizing the ability of a substantial number of institutions, lenders,  or  guaranty  agencies  to  ensure  that  all  of the  systems  of  the  institutions,  lenders,  or  guaranty agencies  related  to  the  processing  or  delivery  of  such assistance  function  successfully  after  December  31, 1999; and
+''(ii)  postponement is necessary to avoid jeopardizing the ability of a substantial number of institutions,
 
 [[END OF PAGE 177]]
 
 [[START OF PAGE 178]]
 
 H.R.6-178
+
+lenders,  or  guaranty  agencies  to  ensure  that  all  of the  systems  of  the  institutions,  lenders,  or  guaranty agencies  related  to  the  processing  or  delivery  of  such assistance  function  successfully  after  December  31, 1999; and
 
 ''(B)  promptly  publishes  in  the  Federal  Register  a  list of, and notifies Congress of, any provisions, the implementation of which the Secretary intends to postpone, with the reasons for such postponement.
 
@@ -7270,7 +7317,8 @@ Part  G  of  title  IV  (20  U.S.C.  1088  et  seq.)  is  amended  by adding aft
 
 #### SEC. 491. STATE ROLE AND RESPONSIBILITIES.
 
-Part  H  of  title  IV  (20  U.S.C.  1099a  et  seq.)  is  amended  by(1)  striking  the  heading  of  such  part  and  inserting  the following:
+Part  H  of  title  IV  (20  U.S.C.  1099a  et  seq.)  is  amended  by-
+(1)  striking  the  heading  of  such  part  and  inserting  the following:
 
 ### ''PART H-PROGRAM INTEGRITY'';
 
@@ -7388,13 +7436,15 @@ H.R.6-180
 
 ''(A)  after  notice  and  opportunity  for  a  hearing,  limit,  suspend, or terminate the recognition of the agency or association; or
 
-''(B)  require  the  agency  or  association  to  take  appropriate action  to  bring  the  agency  or  association  into  compliance  with such  requirements  within  a  timeframe  specified  by  the  Secretary, except that-
+''(B)  require  the  agency  or  association  to  take  appropriate action  to  bring  the  agency  or  association  into  compliance  with
 
 [[END OF PAGE 180]]
 
 [[START OF PAGE 181]]
 
 H.R.6-181
+
+such  requirements  within  a  timeframe  specified  by  the  Secretary, except that-
 
 ''(i)  such timeframe shall not exceed 12 months unless the  Secretary  extends  such  period  for  good  cause;  and
 
@@ -7488,17 +7538,19 @@ shall,  in  addition  to  other  penalties  provided  by  law,  be  liable to  t
 
 (4) by striking the fourth sentence.
 
-(e)  TIME LIMITATIONS ON,  AND RENEWAL OF,  ELIGIBILITY.Subsection (g) of section 498 is amended to read as follows:
+(e)  TIME LIMITATIONS ON,  AND RENEWAL OF,  ELIGIBILITY.-Subsection (g) of section 498 is amended to read as follows:
 
 ''(g)  TIME LIMITATIONS ON,  AND RENEWAL OF,  ELIGIBILITY.-
 
-''(1)  GENERAL RULE.-After  the  expiration  of  the  certification  of  any  institution  under  the  schedule  prescribed  under this section (as this section was in effect prior to the enactment of  the  Higher  Education  Act  Amendments  of  1998),  or  upon request  for  initial  certification  from  an  institution  not  previously  certified,  the  Secretary  may  certify  the  eligibility  for the  purposes  of  any  program  authorized  under  this  title  of each such institution for a period not to exceed 6 years.
+''(1)  GENERAL RULE.-After  the  expiration  of  the  certification  of  any  institution  under  the  schedule  prescribed  under this section (as this section was in effect prior to the enactment
 
 [[END OF PAGE 182]]
 
 [[START OF PAGE 183]]
 
 H.R.6-183
+
+of  the  Higher  Education  Act  Amendments  of  1998),  or  upon request  for  initial  certification  from  an  institution  not  previously  certified,  the  Secretary  may  certify  the  eligibility  for the  purposes  of  any  program  authorized  under  this  title  of each such institution for a period not to exceed 6 years.
 
 ''(2) NOTIFICATION.-The Secretary shall notify each institution  of  higher  education  not  later  than  6  months  prior  to the date of the expiration of the institution's certification.
 
@@ -7576,13 +7628,15 @@ Part  H  of  title  IV  is  further  amended  by  adding  at  the  end the follo
 
 ''(2) The establishment of a process for ensuring that eligibility  and  compliance  issues,  such  as  institutional  audit,  program review, and recertification, are considered simultaneously.
 
-''(3)  A  determination  of  the  extent  to  which  unnecessary costs  are  imposed  on  institutions  of  higher  education  as  a consequence of the applicability to the facilities and equipment of  such  institutions  of  regulations  prescribed  for  purposes  of regulating industrial and commercial enterprises.
+''(3)  A  determination  of  the  extent  to  which  unnecessary costs  are  imposed  on  institutions  of  higher  education  as  a
 
 [[END OF PAGE 184]]
 
 [[START OF PAGE 185]]
 
 H.R.6-185
+
+consequence of the applicability to the facilities and equipment of  such  institutions  of  regulations  prescribed  for  purposes  of regulating industrial and commercial enterprises.
 
 ''(b)  REGULATORY AND STATUTORY RELIEF FOR SMALL VOLUME INSTITUTIONS.-The  Secretary  shall  review  and  evaluate  ways  in which regulations under and provisions of this Act affecting institution of higher education (other than institutions described in section 102(a)(1)(C)),  that  have  received  in  each  of  the  two  most  recent award  years  prior  to  the  date  of  the  enactment  of  the  Higher Education Amendments of 1998 less than $200,000 in funds through this title, may be improved, streamlined, or eliminated.
 
@@ -7610,7 +7664,7 @@ Title V (20 U.S.C. 1101 et seq.) is amended to read as follows:
 
 ''(1)  Hispanic  Americans  are  at  high  risk  of  not  enrolling or graduating from institutions of higher education.
 
-''(2)  Disparities  between  the  enrollment  of  non-Hispanic white  students  and  Hispanic  students  in  postsecondary  education  are  increasing.  Between  1973  and  1994,  enrollment  of white  secondary  school  graduates  in  4-year  institutions  of higher  education  increased  at  a  rate  two  times  higher  than that of Hispanic secondary school graduates.
+''(2)  Disparities  between  the  enrollment  of  non-Hispanic white  students  and  Hispanic  students  in  postsecondary  education  are  increasing.  Between  1973  and  1994,  enrollment  of white  secondary  school  graduates  in  4-year  institutions  of higher  education  increased  at  a  rate  two  times  higher  than
 
 [[END OF PAGE 185]]
 
@@ -7618,9 +7672,11 @@ Title V (20 U.S.C. 1101 et seq.) is amended to read as follows:
 
 H.R.6-186
 
-''(3)  Despite  significant  limitations  in  resources,  Hispanicserving  institutions  provide  a  significant  proportion  of  postsecondary opportunities for Hispanic students.
+that of Hispanic secondary school graduates.
 
-''(4) Relative to other institutions of higher education, Hispanic-serving  institutions  are  underfunded.  Such  institutions receive  significantly  less  in  State  and  local  funding,  per  fulltime equivalent student, than other institutions of higher education.
+''(3)  Despite  significant  limitations  in  resources,  Hispanic-serving  institutions  provide  a  significant  proportion  of  postsecondary opportunities for Hispanic students.
+
+''(4) Relative to other institutions of higher education, Hispanic-serving  institutions  are  underfunded.  Such  institutions receive  significantly  less  in  State  and  local  funding,  per  full-time equivalent student, than other institutions of higher education.
 
 ''(5) Hispanic-serving institutions are succeeding in educating  Hispanic  students  despite  significant  resource  problems that-
 
@@ -7684,7 +7740,7 @@ For  purposes  of  the  determination  of  whether  an  institution is  an  elig
 
 ''(4) FULL-TIME EQUIVALENT STUDENTS.-The term 'full-time equivalent students' means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of  the  number  of  students  enrolled  part  time  (determined  on the  basis  of  the  quotient  of  the  sum  of  the  credit  hours  of all part-time students divided by 12) at such institution.
 
-''(5)  HISPANIC-SERVING INSTITUTION.-The  term  'Hispanicserving  institution'  means  an  institution  of  higher  education that-
+''(5)  HISPANIC-SERVING INSTITUTION.-The  term  'Hispanic-serving  institution'  means  an  institution  of  higher  education that-
 
 ''(A) is an eligible institution;
 
@@ -7778,13 +7834,15 @@ H.R.6-189
 
 ''(2) WAITOUT PERIOD.-A Hispanic-serving institution shall not  be  eligible  to  secure  a  subsequent  5-year  grant  award under this title until 2 years have elapsed since the expiration of  the  institution's  most  recent  5-year  grant  award  under  this title,  except  that  for  the  purpose  of  this  subsection  a  grant under  section  514(a)  shall  not  be  considered  a  grant  under this title.
 
-''(b)  PLANNING GRANTS.-Notwithstanding  subsection  (a),  the Secretary  may  award  a  grant  to  a  Hispanic-serving  institution under this title for a period of 1 year for the purpose of preparation of plans and applications for a grant under this title.
+''(b)  PLANNING GRANTS.-Notwithstanding  subsection  (a),  the Secretary  may  award  a  grant  to  a  Hispanic-serving  institution
 
 [[END OF PAGE 189]]
 
 [[START OF PAGE 190]]
 
 H.R.6-190
+
+under this title for a period of 1 year for the purpose of preparation of plans and applications for a grant under this title.
 
 ###### ''SEC. 505. SPECIAL RULE.
 
@@ -7844,13 +7902,15 @@ H.R.6-191
 
 ''(d) PRIORITY.-With  respect  to  applications  for  assistance under this section, the Secretary shall give priority to an application that contains satisfactory evidence that the Hispanic-serving institution has  entered  into  or  will enter  into  a  collaborative arrangement with at least one local educational agency or community-based organization to provide such agency or organization with assistance  (from  funds  other  than  funds  provided  under  this  title) in  reducing  dropout  rates  for  Hispanic  students,  improving  rates of academic achievement for Hispanic students, and increasing the rates at which Hispanic secondary school graduates enroll in higher education.
 
-''(e) ELIGIBILITY DATA.-The Secretary shall use the most recent and  relevant  data  concerning  the  number  and  percentage  of  students  receiving  need-based  assistance  under  title  IV  in  making eligibility  determinations  and  shall  advance  the  base-year  for  the determinations forward following each annual grant cycle.
+''(e) ELIGIBILITY DATA.-The Secretary shall use the most recent and  relevant  data  concerning  the  number  and  percentage  of  students  receiving  need-based  assistance  under  title  IV  in  making
 
 [[END OF PAGE 191]]
 
 [[START OF PAGE 192]]
 
 H.R.6-192
+
+eligibility  determinations  and  shall  advance  the  base-year  for  the determinations forward following each annual grant cycle.
 
 ###### ''SEC. 512. WAIVER AUTHORITY AND REPORTING REQUIREMENT.
 
@@ -7932,7 +7992,7 @@ H.R.6-194
 
 ''(1)  for  a  school  or  department of divinity or any religious worship or sectarian activity;
 
-''(2)  for  an  activity  that  is  inconsistent  with  a  State  plan for desegregation of higher education applicable to a Hispanicserving institution;
+''(2)  for  an  activity  that  is  inconsistent  with  a  State  plan for desegregation of higher education applicable to a Hispanic-serving institution;
 
 ''(3)  for  an  activity  that  is  inconsistent  with  a  State  plan of higher education applicable to a Hispanic-serving institution; or
 
@@ -8048,7 +8108,7 @@ H.R.6-196
 
 ''(A)  Programs  of  linkage  or  outreach  between  foreign language,  area  studies,  or  other  international  fields,  and professional schools and colleges.
 
-''(B)  Programs  of  linkage  or  outreach  with  2-  and  4year colleges and universities.
+''(B)  Programs  of  linkage  or  outreach  with  2-  and  4-year colleges and universities.
 
 ''(C) Programs of linkage or outreach with departments or agencies of Federal and State governments.
 
@@ -8160,7 +8220,7 @@ in  order  to  enhance  international  knowledge  and  skills; and
 
 ''(3)  NON-FEDERAL SHARE.-The  non-Federal  share  of  the cost of the programs assisted under this subsection-
 
-''(A)  may  be  provided  in  cash  from  the  private  sector corporations  or  foundations  in  an  amount  equal  to  onethird of  the  total  cost  of  the  programs  assisted  under  this section; or
+''(A)  may  be  provided  in  cash  from  the  private  sector corporations  or  foundations  in  an  amount  equal  to  one-third of  the  total  cost  of  the  programs  assisted  under  this section; or
 
 ''(B) may be provided as an in-cash or in-kind contribution  from  institutional  and  noninstitutional  funds,  including State and private sector corporation or foundation contributions,  equal  to  one-half  of  the  total  cost  of  the  programs assisted under this section.
 
@@ -8188,7 +8248,7 @@ H.R.6-200
 
 ''(C) an assurance that students at the applicant institutions, as appropriate, will have equal access to, and derive benefits from, the program assisted under this subsection; and
 
-''(D)  an  assurance  that  each  institution,  combination or  partnership  will  use  the  Federal  assistance  provided under this subsection to supplement and not supplant nonFederal  funds  the  institution  expends  for  programs  to improve undergraduate instruction in international studies and foreign languages.
+''(D)  an  assurance  that  each  institution,  combination or  partnership  will  use  the  Federal  assistance  provided under this subsection to supplement and not supplant non-Federal  funds  the  institution  expends  for  programs  to improve undergraduate instruction in international studies and foreign languages.
 
 ''(8)  EVALUATION.-The  Secretary  may  establish  requirements  for  program  evaluations  and  require  grant  recipients to  submit  annual  reports  that  evaluate  the  progress  and performance  of  students  participating  in  programs  assisted under this subsection.
 
@@ -8254,7 +8314,7 @@ H.R.6-202
 
 ''(c)  APPLICATION.-Each  institution  or  consortium  desiring  a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may reasonably require.
 
-''(d)  MATCH REQUIRED.-The  Federal  share  of  the  total  cost of  carrying out a program supported by a grant under this section shall  not  be  more  than  66 2 /3 percent.  The  non-Federal  share  of such  cost  may  be  provided  either  in-kind  or  in  cash,  and  may include  contributions  from  private  sector  corporations  or  foundations.''.
+''(d) MATCH REQUIRED.-The Federal share of the total cost of carrying out a program supported by a grant under this section shall not be more than 66 2/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.''.
 
 ###### ''SEC. 607. SELECTION OF CERTAIN GRANT RECIPIENTS.
 
@@ -8320,7 +8380,9 @@ H.R.6-203
 
 ###### ''SEC. 611. FINDINGS AND PURPOSES.''.
 
-(b)  CENTERS.-Section  612  (20  U.S.C.  1130-1)  is  amended(1) in subsection (c)-
+(b) CENTERS.-Section 612 (20 U.S.C. 1130-1) is amended-
+
+(1) in subsection (c)-
 
 (A) in paragraph (1)-
 
@@ -8392,7 +8454,7 @@ H.R.6-204
 
 (ii) by striking ''junior year'' and inserting ''study''.
 
-(d)  INTERNSHIPS.-Section  625  (as  redesignated  by  subsection (b)(1)) (20 U.S.C. 1132c)-
+(d) INTERNSHIPS.-Section 625 (as redesignated by subsection (b)(1)) (20 U.S.C. 1131c)-
 
 (1) by striking ''The Institute'' and inserting ''(a) IN GENERAL.-The Institute''; and
 
@@ -8493,7 +8555,7 @@ Title  VII  (20  U.S.C.  1132a  et  seq.)  is  amended  to  read  as follows:
 
 ###### ''SEC. 701. AWARD OF JACOB K. JAVITS FELLOWSHIPS.
 
-''(a)  AUTHORITY AND TIMING OF AWARDS.-The  Secretary  is authorized  to  award  fellowships  in  accordance  with  the  provisions of  this  subpart  for  graduate  study  in  the  arts,  humanities,  and social sciences by students of superior ability selected on the basis of demonstrated achievement, financial need, and exceptional promise.  The  fellowships  shall  be  awarded  to  students  who  are  eligible to  receive  any  grant,  loan,  or  work  assistance  pursuant  to  section 484 and intend to pursue a doctoral degree, except that fellowships may  be  granted  to  students  pursuing  a  master's  degree  in  those fields  in  which  the  master's  degree  is  the  terminal  highest  degree awarded  in  the  area  of  study.  All  funds  appropriated  in  a  fiscal year shall be obligated and expended to the students for fellowships for  use  in  the  academic  year  beginning  after  July  1  of  the  fiscal year following the fiscal year for which the funds were appropriated. The fellowships shall be awarded for only 1 academic year of study and  shall  be  renewable  for  a  period  not  to  exceed  4  years  of study.
+''(a) AUTHORITY AND TIMING OF AWARDS.-The Secretary is authorized to award fellowships in accordance with the provisions
 
 [[END OF PAGE 206]]
 
@@ -8501,7 +8563,9 @@ Title  VII  (20  U.S.C.  1132a  et  seq.)  is  amended  to  read  as follows:
 
 H.R.6-207
 
-''(b)  DESIGNATION OF FELLOWS.-Students  receiving  awards under  this  subpart  shall  be  known  as  'Jacob  K.  Javits  Fellows'.
+of this subpart for graduate study in the arts, humanities, and social sciences by students of superior ability selected on the basis of demonstrated achievement, financial need, and exceptional promise. The fellowships shall be awarded to students who are eligible to receive any grant, loan, or work assistance pursuant to section 484 and intend to pursue a doctoral degree, except that fellowships may be granted to students pursuing a master's degree in those fields in which the master's degree is the terminal highest degree awarded in the area of study. All funds appropriated in a fiscal year shall be obligated and expended to the students for fellowships for use in the academic year beginning after July 1 of the fiscal year following the fiscal year for which the funds were appropriated. The fellowships shall be awarded for only 1 academic year of study and shall be renewable for a period not to exceed 4 years of study.
+
+''(b) DESIGNATION OF FELLOWS.-Students receiving awards under this subpart shall be known as 'Jacob K. Javits Fellows'.
 
 ''(c)  INTERRUPTIONS OF STUDY.-The institution  of  higher  education  may  allow  a  fellowship  recipient  to  interrupt  periods  of study  for  a  period  not  to  exceed  12  months  for  the  purpose  of work, travel, or independent study away from the campus, if such independent  study  is  supportive  of  the  fellowship  recipient's  academic  program  and  shall  continue  payments  for  those  12-month periods during which the student is pursuing travel or independent study supportive of the recipient's academic program.
 
@@ -8519,7 +8583,7 @@ H.R.6-207
 
 ''(A)  establish  general  policies  for  the  program  established by this subpart and oversee the program's operation;
 
-''(B)  establish  general  criteria  for  the  award  of  fellowships  in  academic  fields  identified  by  the  Board,  or,  in the  event  that  the  Secretary  enters  into  a  contract  with a nongovernmental entity to administer the  program assisted  under  this  subpart,  by  such  nongovernmental entity;
+''(B) establish general criteria for the award of fellowships in academic fields identified by the Board, or, in the event that the Secretary enters into a contract with
 
 [[END OF PAGE 207]]
 
@@ -8527,7 +8591,9 @@ H.R.6-207
 
 H.R.6-208
 
-''(C)  appoint  panels  of  academic  scholars  with  distinguished  backgrounds  in  the  arts,  humanities,  and  social sciences  for  the  purpose  of  selecting  fellows,  except  that, in  the  event  that  the  Secretary  enters  into  a  contract with a nongovernmental entity to administer the program, such  panels  may  be  appointed  by  such  nongovernmental entity; and
+a nongovernmental entity to administer the program assisted under this subpart, by such nongovernmental entity;
+
+''(C) appoint panels of academic scholars with distinguished backgrounds in the arts, humanities, and social sciences for the purpose of selecting fellows, except that, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program, such panels may be appointed by such nongovernmental entity; and
 
 ''(D) prepare and submit to the Congress at least once in  every  3-year  period  a  report  on  any  modifications  in the  program  that  the  Board  determines  are  appropriate.
 
@@ -8543,7 +8609,7 @@ H.R.6-208
 
 ''(7) COMPENSATION.-Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation  at  rates  fixed  by  the  Secretary,  but  not  exceeding the  rate  of  basic  pay  payable  for  level  IV  of  the  Executive Schedule,  including  travel  time,  and  while  so  serving  away from  their  homes  or  regular  places  of  business,  the  members may  be  allowed  travel  expenses,  including  per  diem  in  lieu of  subsistence, as authorized by section 5703 of title 5, United States Code, for persons in Government service employed intermittently.
 
-''(b)  USE OF SELECTION PANELS.-The recipients of fellowships shall be selected in each designated field from among all applicants nationwide  in  each  field  by  distinguished  panels  appointed  by  the Board  to  make  such  selections  under  criteria  established  by  the Board,  except  that,  in  the  event  that  the  Secretary  enters  into a  contract  with  a  nongovernmental  entity  to  administer  the  program,  such  panels  may  be  appointed  by  such  nongovernmental entity.  The  number  of  recipients  in  each  field  in  each  year  shall not  exceed  the  number  of  fellows  allocated  to  that  field  for  that year by the Board.
+''(b) USE OF SELECTION PANELS.-The recipients of fellowships shall be selected in each designated field from among all applicants nationwide in each field by distinguished panels appointed by the Board to make such selections under criteria established by the Board, except that, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program, such panels may be appointed by such nongovernmental entity. The number of recipients in each field in each year shall
 
 [[END OF PAGE 208]]
 
@@ -8551,7 +8617,9 @@ H.R.6-208
 
 H.R.6-209
 
-''(c) FELLOWSHIP PORTABILITY.-Each recipient shall be entitled to  use  the  fellowship  in  a  graduate  program  at  any  accredited institution  of  higher  education  in  which  the  recipient  may  decide to enroll.
+not exceed the number of fellows allocated to that field for that year by the Board.
+
+''(c) FELLOWSHIP PORTABILITY.-Each recipient shall be entitled to use the fellowship in a graduate program at any accredited institution of higher education in which the recipient may decide to enroll.
 
 ###### ''SEC. 703. STIPENDS.
 
@@ -8569,7 +8637,7 @@ H.R.6-209
 
 ###### ''SEC. 704. FELLOWSHIP CONDITIONS.
 
-''(a)  REQUIREMENTS FOR RECEIPT.-An  individual  awarded  a fellowship  under  the  provisions  of  this  subpart  shall  continue  to receive payments provided in section 703 only during such periods as the Secretary finds that such individual is maintaining satisfactory  proficiency  in,  and  devoting  essentially  full  time  to,  study or  research  in  the  field  in  which  such  fellowship  was  awarded, in an institution of higher education, and is not engaging in gainful employment  other  than  part-time  employment  by  such  institution in  teaching,  research,  or  similar  activities,  approved  by  the  Secretary.
+''(a) REQUIREMENTS FOR RECEIPT.-An individual awarded a fellowship under the provisions of this subpart shall continue to receive payments provided in section 703 only during such periods as the Secretary finds that such individual is maintaining satisfactory proficiency in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded,
 
 [[END OF PAGE 209]]
 
@@ -8577,7 +8645,9 @@ H.R.6-209
 
 H.R.6-210
 
-''(b)  REPORTS FROM RECIPIENTS.-The  Secretary  is  authorized to  require  reports  containing  such  information  in  such  form  and filed  at  such  times  as  the  Secretary  determines  necessary  from any person awarded a fellowship under the provisions of this subpart.  The  reports  shall  be  accompanied  by  a  certificate  from  an appropriate  official  at  the  institution  of  higher  education,  library, archive, or other research center approved by the Secretary, stating that  such  individual  is  making  satisfactory  progress  in,  and  is devoting essentially full  time  to  the  program  for  which  the  fellowship was awarded.
+in an institution of higher education, and is not engaging in gainful employment other than part-time employment by such institution in teaching, research, or similar activities, approved by the Secretary.
+
+''(b) REPORTS FROM RECIPIENTS.-The Secretary is authorized to require reports containing such information in such form and filed at such times as the Secretary determines necessary from any person awarded a fellowship under the provisions of this subpart. The reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, library, archive, or other research center approved by the Secretary, stating that such individual is making satisfactory progress in, and is devoting essentially full time to the program for which the fellowship was awarded.
 
 ###### ''SEC. 705. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -8605,13 +8675,15 @@ H.R.6-210
 
 ''(b) AWARD AND DURATION OF GRANTS.-
 
-''(1)  AWARDS.-The  principal  criterion  for  the  award  of grants  shall  be  the  relative  quality  of  the  graduate  programs presented in competing applications. Consistent with an allocation  of  awards  based  on  quality  of  competing  applications, the Secretary shall, in awarding such grants, promote an equitable geographic distribution among eligible public and private institutions of higher education.
+''(1) AWARDS.-The principal criterion for the award of grants shall be the relative quality of the graduate programs presented in competing applications. Consistent with an allocation of awards based on quality of competing applications,
 
 [[END OF PAGE 210]]
 
 [[START OF PAGE 211]]
 
 H.R.6-211
+
+the Secretary shall, in awarding such grants, promote an equitable geographic distribution among eligible public and private institutions of higher education.
 
 ''(2)DURATION AND AMOUNT.-
 
@@ -8635,7 +8707,7 @@ H.R.6-211
 
 ###### ''SEC. 713. CRITERIA FOR APPLICATIONS.
 
-''(a)  SELECTION OF APPLICATIONS.-The  Secretary  shall  make grants to academic departments, programs and units of institutions of higher education on the basis of applications submitted in accordance with subsection (b). Applications shall be ranked on program quality by review panels of nationally recognized scholars and evaluated  on  the  quality  and  effectiveness  of  the  academic  program and  the  achievement  and  promise  of  the  students  to  be  served. To  the  extent  possible  (consistent  with  other  provisions  of  this section), the Secretary shall make awards that are consistent with recommendations of the review panels.
+''(a) SELECTION OF APPLICATIONS.-The Secretary shall make grants to academic departments, programs and units of institutions of higher education on the basis of applications submitted in accordance with subsection (b). Applications shall be ranked on program quality by review panels of nationally recognized scholars and evaluated on the quality and effectiveness of the academic program and the achievement and promise of the students to be served. To the extent possible (consistent with other provisions of this
 
 [[END OF PAGE 211]]
 
@@ -8643,7 +8715,9 @@ H.R.6-211
 
 H.R.6-212
 
-''(b)  CONTENTS OF APPLICATIONS.-An  academic  department, program or unit of an institution of higher education, in the department, program or unit's application for a grant, shall-
+section), the Secretary shall make awards that are consistent with recommendations of the review panels.
+
+''(b) CONTENTS OF APPLICATIONS.-An academic department, program or unit of an institution of higher education, in the department, program or unit's application for a grant, shall-
 
 ''(1) describe the current academic program of the applicant for which the grant is sought;
 
@@ -8675,7 +8749,7 @@ H.R.6-212
 
 ''(a) COMMITMENTS TO GRADUATE STUDENTS.-
 
-''(1)  IN GENERAL.-An  academic  department,  program  or unit  of  an  institution  of  higher  education  shall  make  commitments  to  graduate  students  who  are  eligible  students  under section 484 (including students pursuing a doctoral degree after having completed a master's degree program at an institution of  higher  education)  at  any  point  in  their  graduate  study  to provide stipends for the length of time necessary for a student to complete the course of graduate study, but in no case longer than 5 years.
+''(1) IN GENERAL.-An academic department, program or unit of an institution of higher education shall make commitments to graduate students who are eligible students under section 484 (including students pursuing a doctoral degree after having completed a master's degree program at an institution
 
 [[END OF PAGE 212]]
 
@@ -8683,7 +8757,9 @@ H.R.6-212
 
 H.R.6-213
 
-''(2)  SPECIAL RULE.-No such  commitments  shall  be  made to students under this subpart unless the academic department, program or unit has determined adequate funds are available to  fulfill  the  commitment  from  funds  received  or  anticipated under this subpart, or from institutional funds.
+of higher education) at any point in their graduate study to provide stipends for the length of time necessary for a student to complete the course of graduate study, but in no case longer than 5 years.
+
+''(2) SPECIAL RULE.-No such commitments shall be made to students under this subpart unless the academic department, program or unit has determined adequate funds are available to fulfill the commitment from funds received or anticipated under this subpart, or from institutional funds.
 
 ''(b)  AMOUNT OF STIPENDS.-The  Secretary  shall  make  payments to institutions of higher education for the purpose of paying stipends  to  individuals  who  are  awarded  fellowships  under  this subpart.  The  stipends  the  Secretary  establishes  shall  reflect  the purpose  of  the  program  under  this  subpart  to  encourage  highly talented  students  to  undertake  graduate  study  as  described  in this subpart. In the case of an individual who receives such individual's  first  stipend  under  this  subpart  in  academic  year  1999-2000 or  any  succeeding  academic  year,  such  stipend  shall  be  set  at a  level  of  support  equal  to  that  provided  by  the  National  Science Foundation  graduate  fellowships,  except  such  amount  shall  be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part F of title IV.
 
@@ -8699,7 +8775,7 @@ H.R.6-213
 
 ''(a) INSTITUTIONAL PAYMENTS.-
 
-''(1)  IN GENERAL.-The  Secretary  shall  (in  addition  to  stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship  under  this  subpart  at  such  institution,  an  institutional allowance. Except as provided in paragraph (2), such allowance shall  be,  for  1999-2000  and  succeeding  academic  years,  the same  amount  as  the  institutional  payment  made  for  19981999 adjusted annually thereafter in accordance with inflation as  determined  by  the  Department  of  Labor's  Consumer  Price Index for the previous calendar year.
+''(1) IN GENERAL.-The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in paragraph (2), such allowance shall be, for 1999-2000 and succeeding academic years, the same amount as the institutional payment made for 1998-1999 adjusted annually thereafter in accordance with inflation as determined by the Department of Labor's Consumer Price Index for the previous calendar year.
 
 ''(2)  REDUCTION.-The  institutional  allowance  paid  under paragraph  (1)  shall  be  reduced  by  the  amount  the  institution charges  and  collects  from  a  fellowship  recipient  for  tuition and other expenses as part of the recipient's instructional program.
 
@@ -8789,7 +8865,7 @@ H.R.6-215
 
 ''(a)  COORDINATED ADMINISTRATION.-In  carrying  out  the  purpose  described  in  section  700(1),  the  Secretary  shall  provide  for coordinated  administration  and  regulation  of  graduate  programs assisted  under  subparts  1,  2,  and  3  with  other  Federal  programs providing  assistance  for  graduate  education  in  order  to  minimize duplication  and  improve  efficiency  to  ensure  that  the  programs are  carried  out  in  a  manner  most  compatible  with  academic  practices  and  with  the  standard  timetables  for  applications  for,  and notifications of acceptance to, graduate programs.
 
-''(b) HIRING AUTHORITY.-For purposes of carrying out subparts 1,  2,  and  3,  the  Secretary  shall  appoint,  without  regard  to  the provisions of title 5, United States Code, that govern appointments in the competitive service, such administrative and technical employees,  with  the  appropriate  educational  background,  as  shall be needed to assist in the administration of such parts. The employees  shall  be  paid  without  regard  to  the  provisions  of  chapter  51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+''(b) HIRING AUTHORITY.-For purposes of carrying out subparts 1, 2, and 3, the Secretary shall appoint, without regard to the provisions of title 5, United States Code, that govern appointments in the competitive service, such administrative and technical employees, with the appropriate educational background, as shall be needed to assist in the administration of such parts. The employees shall be paid without regard to the provisions of chapter 51
 
 [[END OF PAGE 215]]
 
@@ -8797,7 +8873,9 @@ H.R.6-215
 
 H.R.6-216
 
-''(c)  USE FOR RELIGIOUS PURPOSES PROHIBITED.-No  institutional  payment  or  allowance  under  section  703(b)  or  715(a)  shall be  paid  to  a  school  or  department  of  divinity  as  a  result  of  the award  of  a  fellowship  under  subpart  1  or  2,  respectively,  to  an individual who is studying for a religious vocation.
+and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+
+''(c) USE FOR RELIGIOUS PURPOSES PROHIBITED.-No institutional payment or allowance under section 703(b) or 715(a) shall be paid to a school or department of divinity as a result of the award of a fellowship under subpart 1 or 2, respectively, to an individual who is studying for a religious vocation.
 
 ''(d)  EVALUATION.-The  Secretary  shall  evaluate  the  success of  assistance provided to individuals under subpart 1, 2, or 3 with respect  to  graduating  from  their  degree  programs,  and  placement in faculty and professional positions.
 
@@ -8857,13 +8935,15 @@ H.R.6-217
 
 ''(a)  TECHNICAL EMPLOYEES.-The  Secretary  may  appoint,  for terms  not  to  exceed  3  years,  without  regard  to  the  provisions of  title  5,  United  States  Code,  governing  appointments  in  the competitive service, not more than 7 technical employees to administer  this  part  who  may  be  paid  without  regard  to  the  provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-''(b)  PROCEDURES.-The Director shall establish procedures for reviewing  and  evaluating  grants  and  contracts  made  or  entered into  under  this  part.  Procedures  for  reviewing  grant  applications or  contracts  for  financial  assistance  under  this  section  may  not be  subject  to  any  review  outside  of  officials  responsible  for  the administration  of  the  Fund  for  the  Improvement  of  Postsecondary Education.
+''(b) PROCEDURES.-The Director shall establish procedures for reviewing and evaluating grants and contracts made or entered into under this part. Procedures for reviewing grant applications or contracts for financial assistance under this section may not
 
 [[END OF PAGE 217]]
 
 [[START OF PAGE 218]]
 
 H.R.6-218
+
+be subject to any review outside of officials responsible for the administration of the Fund for the Improvement of Postsecondary Education.
 
 ###### ''SEC. 744. SPECIAL PROJECTS.
 
@@ -8901,7 +8981,7 @@ H.R.6-218
 
 ###### ''SEC. 752. PURPOSE; PROGRAM AUTHORIZED.
 
-''(a)  PURPOSE.-It  is  the  purpose  of  this  part  to  provide  incentives  to  urban  academic  institutions  to  enable  such  institutions to  work  with  private  and  civic  organizations  to  devise  and  implement  solutions  to  pressing  and  severe  problems  in  their  communities.
+''(a) PURPOSE.-It is the purpose of this part to provide incentives to urban academic institutions to enable such institutions
 
 [[END OF PAGE 218]]
 
@@ -8909,7 +8989,9 @@ H.R.6-218
 
 H.R.6-219
 
-''(b)  PROGRAM AUTHORIZED.-The  Secretary  is  authorized  to carry out a program of providing assistance to eligible institutions to  enable  such  institutions  to  carry  out  the  activities  described in section 754 in accordance with the provisions of this part.
+to work with private and civic organizations to devise and implement solutions to pressing and severe problems in their communities.
+
+''(b) PROGRAM AUTHORIZED.-The Secretary is authorized to carry out a program of providing assistance to eligible institutions to enable such institutions to carry out the activities described in section 754 in accordance with the provisions of this part.
 
 ###### ''SEC.  753.  APPLICATION  FOR  URBAN  COMMUNITY  SERVICE  GRANTS.
 
@@ -9037,13 +9119,15 @@ H.R.6-221
 
 ###### ''SEC. 762. GRANTS AUTHORIZED.
 
-''(a)  COMPETITIVE GRANTS AUTHORIZED.-The  Secretary  may award grants, contracts, and cooperative agreements, on a competitive  basis,  to  institutions  of  higher  education,  of  which  at  least two such grants shall be awarded to institutions that provide professional  development  and  technical  assistance  in  order  for  students with  learning  disabilities  to  receive  a  quality  postsecondary  education.
+''(a) COMPETITIVE GRANTS AUTHORIZED.-The Secretary may award grants, contracts, and cooperative agreements, on a competitive basis, to institutions of higher education, of which at least
 
 [[END OF PAGE 221]]
 
 [[START OF PAGE 222]]
 
 H.R.6-222
+
+two such grants shall be awarded to institutions that provide professional development and technical assistance in order for students with learning disabilities to receive a quality postsecondary education.
 
 ''(b) DURATION; ACTIVITIES.-
 
@@ -9053,7 +9137,7 @@ H.R.6-222
 
 ''(A) TEACHING METHODS AND STRATEGIES.-The development of innovative, effective, and efficient teaching methods and strategies to provide faculty and administrators  with  the  skills  and  supports  necessary  to  teach  students  with  disabilities.  Such  methods  and  strategies  may include  inservice  training,  professional  development,  customized and general technical assistance, workshops, summer  institutes,  distance  learning,  and  training  in  the  use of assistive and educational technology.
 
-''(B) SYNTHESIZING RESEARCH AND INFORMATION.Synthesizing research and other information related to the provision of postsecondary educational services to students with disabilities.
+''(B) SYNTHESIZING RESEARCH AND INFORMATION.-Synthesizing research and other information related to the provision of postsecondary educational services to students with disabilities.
 
 ''(C)  PROFESSIONAL DEVELOPMENT AND TRAINING SESSIONS.-Conducting professional development and training sessions for faculty and administrators from other institutions of higher education to enable the faculty and administrators  to  meet  the  postsecondary  educational  needs  of students with disabilities.
 
@@ -9067,7 +9151,7 @@ H.R.6-222
 
 ''(3)  RANGE AND TYPE OF INSTITUTION.-Ensuring that the activities  to  be  assisted  are  developed  for  a  range  of  types and sizes of institutions of higher education.
 
-''(4) PRIOR EXPERIENCE OR EXCEPTIONAL PROGRAMS.Institutions of higher education with demonstrated prior experience in, or exceptional programs for, meeting the postsecondary educational needs of students with disabilities.
+''(4) PRIOR EXPERIENCE OR EXCEPTIONAL PROGRAMS.-Institutions of higher education with demonstrated prior experience in, or exceptional programs for, meeting the postsecondary educational needs of students with disabilities.
 
 ###### ''SEC. 763. APPLICATIONS.
 
@@ -9121,7 +9205,7 @@ H.R.6-224
 
 (3)  The  cost,  effect,  and  distribution  of  Federal  subsidies to or for participants in the program.
 
-(4) The ability of the mechanism to accommodate the potential  distribution  of  subsidies  to  students  through  an  incomecontingent repayment option.
+(4) The ability of the mechanism to accommodate the potential distribution of subsidies to students through an income-contingent repayment option.
 
 (5)  The  effect  on  the  simplicity  of  the  program,  including the  effect  of  the  plan  on  the  regulatory  burden  on  students, institutions, lenders, and other program participants.
 
@@ -9155,7 +9239,7 @@ H.R.6-224
 
 H.R.6-225
 
-(1)  The  historical  liquidity  of  the  market  for  each,  and a  historical  comparison  of  the  spread  between:  (A)  the  30day  and  90-day  commercial  paper  rate,  respectively,  and  the 91-day  Treasury  bill  rate;  and  (B)  the  spread  between  the LIBOR and the 91-day Treasury bill rate.
+(1) The historical liquidity of the market for each, and a historical comparison of the spread between: (A) the 30-day and 90-day commercial paper rate, respectively, and the 91-day Treasury bill rate; and (B) the spread between the LIBOR and the 91-day Treasury bill rate.
 
 (2)  The  historical  volatility  of  the  rates  and  projections of future volatility.
 
@@ -9173,7 +9257,7 @@ H.R.6-225
 
 #### SEC. 803. STUDENT-RELATED DEBT STUDY REQUIRED.
 
-(a)  IN GENERAL.-The  Secretary  of  Education  shall  conduct a  study  that  analyzes  the  distribution  and  increase  in  studentrelated debt in terms of-
+(a) IN GENERAL.-The Secretary of Education shall conduct a study that analyzes the distribution and increase in student-related debt in terms of-
 
 (1)  demographic  characteristics,  such  as  race  or  ethnicity, and family income;
 
@@ -9329,7 +9413,7 @@ H.R.6-229
 
 (2)  require  an  assurance  that  any  funds  received  under this  section,  other  than  funds  used  in  accordance  with  subsection (d),  shall  be  used  only  to  pay  advanced  placement  test fees;
 
-(3)  contain such information as the Secretary may require to  demonstrate  that  the  State  will  ensure  that  a  student  is eligible  for  payments  under  this  section,  including  the  documentation  required  by  chapter  1  of  subpart  2  of  part  A  of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a11 et seq.); and
+(3)  contain such information as the Secretary may require to  demonstrate  that  the  State  will  ensure  that  a  student  is eligible  for  payments  under  this  section,  including  the  documentation  required  by  chapter  1  of  subpart  2  of  part  A  of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a-11 et seq.); and
 
 (4)  consider  the  number  of  children  eligible  to  be  counted under  section  1124(c)  of  the  Elementary  and  Secondary  Education  Act  of  1965  in  the  State  in  relation  to  the  number of  such  children  in  all  the  States  in  determining  grant  award amounts.
 
@@ -9377,7 +9461,7 @@ Congress finds that-
 
 (1) the local community, when properly organized and challenged, is one of the best sources of academic support, motivation  toward  achievement,  and  financial  resources  for  aspiring postsecondary students;
 
-(2)  local  communities, working to complement or augment services  currently  offered  by  area  schools  and  colleges,  can raise  the  educational  expectations  and  increase  the  rate  of postsecondary  attendance  of  their  youth  by  forming  locallybased organizations that provide both academic support (including  guidance,  counseling,  mentoring,  tutoring,  encouragement, and  recognition)  and  tangible,  locally  raised,  effectively  targeted, publicly recognized, financial assistance;
+(2)  local  communities, working to complement or augment services  currently  offered  by  area  schools  and  colleges,  can raise  the  educational  expectations  and  increase  the  rate  of postsecondary  attendance  of  their  youth  by  forming  locally-based organizations that provide both academic support (including  guidance,  counseling,  mentoring,  tutoring,  encouragement, and  recognition)  and  tangible,  locally  raised,  effectively  targeted, publicly recognized, financial assistance;
 
 (3) proven methods of stimulating these community efforts can be promoted through Federal support for the establishment of  regional,  State,  or  community  program  centers  to  organize and challenge community efforts to develop educational incentives and support for local students; and
 
@@ -9387,7 +9471,7 @@ Congress finds that-
 
 In this part:
 
-(1)  REGIONAL,  STATE,  OR COMMUNITY PROGRAM CENTER.The term ''regional, State, or community program center'' means an organization that-
+(1)  REGIONAL,  STATE,  OR COMMUNITY PROGRAM CENTER.-The term ''regional, State, or community program center'' means an organization that-
 
 (A)  is  a  division  or  member  of,  responsible  to,  and overseen by, a national organization; and
 
@@ -9401,13 +9485,15 @@ In this part:
 
 (C) solicits broad-based community support in its academic support and fund-raising activities;
 
-(D)  is  broadly  representative  of  the  local  community in the structures of its volunteer-operated organization and has  a  board  of  directors  that  includes  leaders  from  local neighborhood  organizations  and  neighborhood  residents, such  as  school  or  college  personnel,  parents,  students, community agency representatives, retirees, and representatives of the business community;
+(D)  is  broadly  representative  of  the  local  community in the structures of its volunteer-operated organization and has  a  board  of  directors  that  includes  leaders  from  local neighborhood  organizations  and  neighborhood  residents,
 
 [[END OF PAGE 230]]
 
 [[START OF PAGE 231]]
 
 H.R.6-231
+
+such as school or college personnel, parents, students, community agency representatives, retirees, and representatives of the business community;
 
 (E)  awards  scholarships  without  regard  to  age,  sex, marital  status,  race,  creed,  color,  religion,  national  origin, or disability; and
 
@@ -9441,13 +9527,15 @@ H.R.6-231
 
 (2)  providing  scholarship  assistance  for  the  cost  of  postsecondary education.
 
-(b)  ENDOWMENT GRANT AUTHORITY.-From  the  funds  appropriated  pursuant  to  the  authority  of  section  816,  the  Secretary shall  award  an  endowment  grant,  on  a  competitive  basis,  to  a national  organization  to  enable  such  organization  to  support  the establishment  or  ongoing  work  of  regional,  State  or  community program  centers  that  foster  the  development  of  local  entities  in high  poverty  areas  to  improve  secondary  school  graduation  rates and  postsecondary  attendance  through  the  provision  of  academic support  services  and  scholarship  assistance  for  the  cost  of  postsecondary education.
+(b)  ENDOWMENT GRANT AUTHORITY.-From  the  funds  appropriated  pursuant  to  the  authority  of  section  816,  the  Secretary shall  award  an  endowment  grant,  on  a  competitive  basis,  to  a national  organization  to  enable  such  organization  to  support  the
 
 [[END OF PAGE 231]]
 
 [[START OF PAGE 232]]
 
 H.R.6-232
+
+establishment or ongoing work of regional, State or community program centers that foster the development of local entities in high poverty areas to improve secondary school graduation rates and postsecondary attendance through the provision of academic support services and scholarship assistance for the cost of postsecondary education.
 
 #### SEC. 815. GRANT AGREEMENT AND REQUIREMENTS.
 
@@ -9471,17 +9559,19 @@ H.R.6-232
 
 (D)  an  evaluation  of  the  programs  and  activities  supported by the interest on the endowment fund as the Secretary may require; and
 
-(E)  data  indicating  the  number  of  students  from  lowincome  families  who  receive  scholarships  from  local  entities, and the amounts of such scholarships;
+(E)  data  indicating  the  number  of  students  from  low-income  families  who  receive  scholarships  from  local  entities, and the amounts of such scholarships;
 
 (6)  contain  such  assurances  as  the  Secretary  may  require with  respect  to  the  management  and  operation  of  the  endowment fund; and
 
-(7)  contain  an  assurance  that  if  the  Secretary  determines that  such  organization  is  not  in  substantial  compliance  with the provisions of this part, then the national organization shall pay  to  the  Secretary  an  amount  equal  to  the  corpus  of  the endowment fund  plus  any  accrued  interest  on  such  fund  that is  available  to  the  national  organization  on  the  date  of  such determination.
+(7)  contain  an  assurance  that  if  the  Secretary  determines that  such  organization  is  not  in  substantial  compliance  with the provisions of this part, then the national organization shall
 
 [[END OF PAGE 232]]
 
 [[START OF PAGE 233]]
 
 H.R.6-233
+
+pay to the Secretary an amount equal to the corpus of the endowment fund plus any accrued interest on such fund that is available to the national organization on the date of such determination.
 
 (b)  RETURNED FUNDS.-All  funds  returned  to  the  Secretary pursuant  to  subsection  (a)(7)  shall  be  available  to  the  Secretary to  carry  out  any  scholarship  or  grant  program  assisted  under title IV  of  the  Higher  Education  Act  of  1965  (20  U.S.C.  1070  et  seq.).
 
@@ -9517,13 +9607,15 @@ There are authorized to be appropriated to carry out this part $10,000,000 for f
 
 (b)  DEFINITION.-For  purposes  of  this  part,  the  term  ''youth offender''  means  a  male  or  female  offender  under  the  age  of  25, who is incarcerated in a State prison, including a prerelease facility.
 
-(c)  GRANT PROGRAM.-The Secretary of Education (in this section  referred  to  as  the  ''Secretary'')  shall  establish  a  program  in accordance with this section to  provide  grants  to  the  State  correctional  education  agencies  in  the  States,  from  allocations  for  the States  under  subsection  (i),  to  assist  and  encourage  incarcerated youths  to  acquire  functional  literacy,  life,  and  job  skills,  through the pursuit of a postsecondary education certificate, or an associate of arts or bachelor's degree while in prison, and employment counseling  and  other  related  services  which  start  during  incarceration and continue through prerelease and while on parole.
+(c)  GRANT PROGRAM.-The Secretary of Education (in this section  referred  to  as  the  ''Secretary'')  shall  establish  a  program  in accordance with this section to  provide  grants  to  the  State  correctional  education  agencies  in  the  States,  from  allocations  for  the
 
 [[END OF PAGE 233]]
 
 [[START OF PAGE 234]]
 
 H.R.6-234
+
+States under subsection (i), to assist and encourage incarcerated youths to acquire functional literacy, life, and job skills, through the pursuit of a postsecondary education certificate, or an associate of arts or bachelor's degree while in prison, and employment counseling and other related services which start during incarceration and continue through prerelease and while on parole.
 
 (d) APPLICATION.-To be eligible for a grant under this section, a State correctional education agency shall submit to the Secretary a proposal for a youth offender program that-
 
@@ -9565,13 +9657,15 @@ H.R.6-234
 
 (E) programs that address State and local labor shortages;
 
-(2)  annually  report  to  the  Secretary  and  the  Attorney General on the results of  the  evaluations  conducted  using  the methods and performance measures contained in the proposal; and
+(2)  annually  report  to  the  Secretary  and  the  Attorney General on the results of  the  evaluations  conducted  using  the
 
 [[END OF PAGE 234]]
 
 [[START OF PAGE 235]]
 
 H.R.6-235
+
+methods and performance measures contained in the proposal; and
 
 (3)  provide  to  each  State  for  each  student  eligible  under subsection (f ) not more than $1,500 annually for tuition, books, and  essential  materials,  and  not  more  than  $300  annually for  related  services  such  as  career  development,  substance abuse  counseling,  parenting  skills  training,  and  health  education, for each eligible incarcerated youth.
 
@@ -9635,13 +9729,15 @@ grants and contracts under this section on a competitive basis.
 
 (10)  To  support  improved  coordination  among  campus administrators, campus security personnel, and local law enforcement to reduce violent crimes against women on campus. (c) APPLICATIONS.-
 
-(1)  IN GENERAL.-In  order  to  be  eligible  to  be  awarded a  grant  under  this  section  for  any  fiscal  year,  an  institution of higher education shall submit an application to the Attorney General  at  such  time  and  in  such  manner  as  the  Attorney General shall prescribe.
+(1)  IN GENERAL.-In  order  to  be  eligible  to  be  awarded a  grant  under  this  section  for  any  fiscal  year,  an  institution of higher education shall submit an application to the Attorney
 
 [[END OF PAGE 236]]
 
 [[START OF PAGE 237]]
 
 H.R.6-237
+
+General at such time and in such manner as the Attorney General shall prescribe.
 
 (2)  CONTENTS.-Each  application  submitted  under  paragraph (1) shall-
 
@@ -9669,13 +9765,15 @@ H.R.6-237
 
 (B)  FINAL REPORT.-Upon  completion  of  the  grant period under  this section, the institution shall file  a performance  report  with  the  Attorney  General  and  the Secretary  of  Education  explaining  the  activities  carried out under this section together with an assessment of the effectiveness  of  those  activities  in  achieving  the  purposes described in subsection (b).
 
-(3)  REPORT TO CONGRESS.-Not  later  than  180  days  after the end of the fiscal year for which grants are awarded under this section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible for  issues  relating  to  higher  education  and  crime,  a  report that includes-
+(3)  REPORT TO CONGRESS.-Not  later  than  180  days  after the end of the fiscal year for which grants are awarded under this section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible
 
 [[END OF PAGE 237]]
 
 [[START OF PAGE 238]]
 
 H.R.6-238
+
+for issues relating to higher education and crime, a report that includes-
 
 (A)  the  number  of  grants,  and  the  amount  of  funds, distributed under this section;
 
@@ -9769,7 +9867,7 @@ H.R.6-240
 
 (3)  provide  program  participants  with  opportunities  to  be directly  involved  in  scientific  and  engineering  research,  and activities  related  to  the  management  of  scientific  and  technological innovation, in East Asia; and
 
-(4)  create  mechanisms  for  cooperation  and  partnerships among  United  States  industry,  universities,  colleges,  not-forprofit  institutions,  Federal  laboratories  (within  the  meaning of  section  4(6)  of  the  Stevenson-Wydler  Technology  Innovation Act  of  1980  (15  U.S.C.  3703(6))),  and  government,  to  disseminate  the  results  of  the  program  assisted  under  this  section for the benefit of United States research and innovation.
+(4)  create  mechanisms  for  cooperation  and  partnerships among  United  States  industry,  universities,  colleges,  not-for-profit  institutions,  Federal  laboratories  (within  the  meaning of  section  4(6)  of  the  Stevenson-Wydler  Technology  Innovation Act  of  1980  (15  U.S.C.  3703(6))),  and  government,  to  disseminate  the  results  of  the  program  assisted  under  this  section for the benefit of United States research and innovation.
 
 (c)  PARTICIPATION BY FEDERAL SCIENTISTS,  ENGINEERS,  AND MANAGERS.-Scientists,  engineers,  and  managers  of  science  and engineering programs in Federal agencies and the Federal laboratories shall be eligible to participate in the program assisted under this section on a reimbursable basis.
 
@@ -9787,13 +9885,15 @@ Section  1543(d)  of  the  Higher  Education  Amendments  of  1992 is amended by
 
 #### SEC.  841.  UNDERGROUND  RAILROAD  EDUCATIONAL  AND  CULTURAL PROGRAM.
 
-(a)  PROGRAM ESTABLISHED.-The  Secretary  of  Education,  in consultation  and  cooperation  with  the  Secretary  of  the  Interior, is  authorized  to  make  grants  to  1  or  more  nonprofit  educational organizations  that  are  established  to  research,  display,  interpret, and  collect  artifacts  relating  to  the  history  of  the  Underground Railroad.
+(a)  PROGRAM ESTABLISHED.-The  Secretary  of  Education,  in consultation  and  cooperation  with  the  Secretary  of  the  Interior,
 
 [[END OF PAGE 240]]
 
 [[START OF PAGE 241]]
 
 H.R.6-241
+
+is authorized to make grants to 1 or more nonprofit educational organizations that are established to research, display, interpret, and collect artifacts relating to the history of the Underground Railroad.
 
 (b)  GRANT AGREEMENT.-Each nonprofit educational  organization  awarded a grant under this section shall enter into an agreement with the Secretary of Education. Each such agreement shall require the organization-
 
@@ -9839,7 +9939,7 @@ The Director of the United States Information Agency is authorized  to  administ
 
 (b) DEFINITIONS.-In this part:
 
-(1) COMMISSION.-The term ''Commission'' means the WebBased  Education  Commission  established  under  section  852.
+(1) COMMISSION.-The term ''Commission'' means the Web-Based  Education  Commission  established  under  section  852.
 
 (2)  INFORMATION TECHNOLOGY.-The  term  ''information technology''  has  the  meaning  given  that  term  in  section  5002 of the Information Technology Management Reform Act of 1996 (110 Stat. 679).
 
@@ -9957,7 +10057,7 @@ H.R.6-245
 
 #### SEC. 861. EDUCATION-WELFARE STUDY.
 
-(a) STUDY.-The Comptroller General of the United States shall conduct  a  study  of  the  effectiveness  of  educational  approaches (including vocational and post-secondary education approaches) and rapid  employment  approaches  to  helping  welfare  recipients  and other  low-income  adults  become  employed  and  economically  selfsufficient. Such study shall include-
+(a) STUDY.-The Comptroller General of the United States shall conduct  a  study  of  the  effectiveness  of  educational  approaches (including vocational and post-secondary education approaches) and rapid  employment  approaches  to  helping  welfare  recipients  and other  low-income  adults  become  employed  and  economically  self-sufficient. Such study shall include-
 
 (1) a survey of the available scientific evidence and research data  on  the  subject,  including  a  comparison  of  the  effects  of programs  emphasizing  a vocational or postsecondary educational approach to programs emphasizing a rapid employment approach,  along  with  research  on  the  impacts  of  programs which emphasize a combination of such approaches;
 
@@ -9969,7 +10069,7 @@ H.R.6-245
 
 #### SEC. 862. RELEASE OF CONDITIONS, COVENANTS, AND REVERSIONARY INTERESTS, GUAM COMMUNITY COLLEGE CONVEYANCE, BARRIGADA, GUAM.
 
-(a)  RELEASE.-The  Secretary  of  Education  shall  release  all conditions and covenants that were imposed by the United States, and  the  reversionary  interests  that  were  retained  by  the  United States,  as  part  of  the  conveyance  of  a  parcel  of  Federal  surplus property  located  in  Barrigada,  Guam,  consisting  of  approximately 314.28  acres  and  known  as  Naval  Communications  Area  Master Station,  WESTPAC,  parcel  IN,  which  was  conveyed  to  the  Guam Community College pursuant to-
+(a)  RELEASE.-The  Secretary  of  Education  shall  release  all conditions and covenants that were imposed by the United States, and  the  reversionary  interests  that  were  retained  by  the  United States,  as  part  of  the  conveyance  of  a  parcel  of  Federal  surplus property  located  in  Barrigada,  Guam,  consisting  of  approximately 314.28  acres  and  known  as  Naval  Communications  Area  Master Station,  WESTPAC,  parcel  1N,  which  was  conveyed  to  the  Guam Community College pursuant to-
 
 (1) the quitclaim deed dated June 8, 1990, conveying 61.45 acres, between the Secretary, acting through the Administrator for  Management Services,  and  the  Guam  Community  College, acting through its Board of Trustees; and
 
@@ -10219,13 +10319,15 @@ Subsection  (b)  of  section  203  of  the  Education  of  the  Deaf Act of 1986
 
 ''(1)  IN GENERAL.-Gallaudet  University  shall  have  an annual  independent  financial  and  compliance  audit  made  of the  programs  and  activities  of  the  University,  including  the national  mission  and  school  operations  of  the  elementary  and secondary  education  programs  at  Gallaudet.  The  institution of higher education with which the Secretary has an agreement under section 112 shall have an annual independent financial and  compliance  audit  made  of  the  programs  and  activities of  such  institution  of  higher  education,  including  NTID,  and containing specific schedules and analyses for all NTID funds, as determined by the Secretary.
 
-''(2)  COMPLIANCE.-As  used  in  paragraph  (1),  compliance means  compliance  with  sections  102(b),  105(b)(4),  112(b)(5), and 203(c), paragraphs (2) and (3) of section 207(b), subsections (b)(2), (b)(3), and (c) through (f ), of section 207, and subsections (b) and (c) of section 210.
+''(2)  COMPLIANCE.-As  used  in  paragraph  (1),  compliance means  compliance  with  sections  102(b),  105(b)(4),  112(b)(5),
 
 [[END OF PAGE 250]]
 
 [[START OF PAGE 251]]
 
 H.R.6-251
+
+and 203(c), paragraphs (2) and (3) of section 207(b), subsections (b)(2), (b)(3), and (c) through (f ), of section 207, and subsections (b) and (c) of section 210.
 
 ''(3) SUBMISSION OF AUDITS.-A copy of each audit described in  paragraph  (1)  shall  be  provided  to  the  Secretary  within 15  days  of  acceptance  of  the  audit  by  the  University  or  the institution authorized to establish and operate the NTID under section 112(a), as the case may be, but not later than January 10 of each year.''.
 
@@ -10325,7 +10427,7 @@ H.R.6-253
 
 ''(a) CONDUCT OF STUDY.-
 
-''(1)  IN GENERAL.-The Secretary  shall  conduct  a  national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those educationrelated factors that contribute to successful postsecondary education  experiences  and  employment  for  individuals  who  are deaf.
+''(1)  IN GENERAL.-The Secretary  shall  conduct  a  national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those education-related factors that contribute to successful postsecondary education  experiences  and  employment  for  individuals  who  are deaf.
 
 ''(2) DEFINITION.-In this section the term 'deaf', when used with  respect  to  an  individual,  means  an  individual  with  a hearing  impairment,  including  an  individual  who  is  hard  of hearing, an individual deafened later in life, and an individual who is profoundly deaf.
 
@@ -10513,7 +10615,7 @@ H.R.6-257
 
 ### PART G-AMENDMENTS TO OTHER STATUTES
 
-#### SEC.  971.  NONDISCHAREABILITY  OF  CERTAIN  CLAIMS  FOR  EDUCATIONAL  BENEFITS  PROVIDED  TO  OBTAIN  HIGHER EDUCATION.
+#### SEC.  971.  NONDISCHARGEABILITY  OF  CERTAIN  CLAIMS  FOR  EDUCATIONAL  BENEFITS  PROVIDED  TO  OBTAIN  HIGHER EDUCATION.
 
 (a)  AMENDMENT.-Section  523(a)(8)  of  title  11,  United  States Code, is amended by striking ''unless-'' and all that follows through ''(B)  excepting  such  debt''  and  inserting  ''unless  excepting  such debt''.
 
@@ -10529,6 +10631,10 @@ H.R.6-257
 
 [[START OF PAGE 258]]
 
+H.R.6-258
+
+### PART H-REPEALS
+
 #### SEC. 981. REPEALS.
 
 Section  4122  of  the  Elementary  and  Secondary  Education  Act of 1965 (20 U.S.C. 7132) is repealed.
@@ -10536,9 +10642,5 @@ Section  4122  of  the  Elementary  and  Secondary  Education  Act of 1965 (20 U
 Speaker of the House of Representatives.
 
 Vice President of the United States and President of the Senate.
-
-H.R.6-258
-
-### PART H-REPEALS
 
 [[END OF PAGE 258]]
